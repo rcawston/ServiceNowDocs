@@ -40,5 +40,5 @@ Role required: admin
     An email notification with the poll result is sent to all participants of the poll informing them that the poll is closed.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](c_PostContentInLiveFeed.md)
 

@@ -39,16 +39,16 @@ Role required: sn\_erp\_integration.erp\_admin
     -   Check the **Status** field to see if the message was successful.
     -   Check the **IDoc payload** field if the message was not successful and you need to troubleshoot. Also, see [sn\_erp\_integration API - Scoped, Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md) for detailed information and examples using the API.
     -   The **IDoc number** can also be useful.
-    For a detailed description of the field values, see [Outbound message transaction details tab fields](../reference/erp-canvas-outbound-message-transaction-details-tab-fields.md).
+    For a detailed description of the field values, see [Outbound message transaction details tab fields](erp-canvas-outbound-message-transaction-details-tab-fields.md).
 
 7.  Select the **Errors** tab to view information about any message errors that have occurred.
 
-    For a detailed description of the field values, see [Outbound message errors tab fields](../reference/erp-canvas-outbound-message-errors-tab-columns.md).
+    For a detailed description of the field values, see [Outbound message errors tab fields](erp-canvas-outbound-message-errors-tab-columns.md).
 
 8.  Select the **IDoc status for IDoc log** tab for technical information about the message.
 
-    For a detailed description of the column values, see [Outbound message IDoc status for IDoc log tab fields](../reference/erp-canvas-outbound-message-idoc-status-for-idoc-log-tab-columns.md).
+    For a detailed description of the column values, see [Outbound message IDoc status for IDoc log tab fields](erp-canvas-outbound-message-idoc-status-for-idoc-log-tab-columns.md).
 
 
-**Parent Topic:**[Create and change SAP business entities with IDoc](../concept/create-and-change-sap-business-entities-with-idoc.md)
+**Parent Topic:**[Create and change SAP business entities with IDoc](create-and-change-sap-business-entities-with-idoc.md)
 

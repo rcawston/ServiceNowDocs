@@ -19,8 +19,8 @@ Use the GlideModal methods in scripts anywhere that you can use client-side Java
 
 For modal options and compatibility in Configurable Workspace in the Next Experience UI, refer to the following:
 
--   [g\_modal \(Next Experience\) - Client](../../g_modalNX/concept/g_modalClientAPINX.md#)
--   [GlideModal \(Next Experience\) - Client](../../GlideModalClientNX/concept/GModClientAPINX.md#)
+-   [g\_modal \(Next Experience\) - Client](g_modalClientAPINX.md#)
+-   [GlideModal \(Next Experience\) - Client](GModClientAPINX.md#)
 
 ![Example overlay](../../Images/GlideModalV3-Client-example-overlay-dialog.png "Example modal")
 
@@ -102,7 +102,7 @@ function cancelDialog(){
 
 **Note:** This is a fully-featured replacement for the GlideWindow and GlideDialogWindow APIs.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideModal - GlideModal\(String id, Boolean readOnly, Number/String width\)
 
@@ -130,7 +130,7 @@ String
 
 </td><td id="GMod-GMod-id-entry">
 
-Name of the[UI page](../../../../../script/server-scripting/reference/r_UIPages.md#) to load into the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
+Name of the[UI page](scripts/r_UIPages.md#) to load into the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
 
 Table: UI Page \[sys\_ui\_page\]
 
@@ -315,7 +315,7 @@ String
 
 </td><td id="GMod-get-id-entry">
 
-Name of the[UI page](../../../../../script/server-scripting/reference/r_UIPages.md#) associated with the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
+Name of the[UI page](scripts/r_UIPages.md#) associated with the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
 
 Table: UI Page \[sys\_ui\_page\]
 

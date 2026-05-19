@@ -32,7 +32,7 @@ The following plugins are automatically installed with the Service Exchange for 
 -   com.glide.hub.process.sync
 -   com.snc.ihub\_spoke\_util\_pack
 
-Apart from these, several components including roles, business rules, tables, and flows are also installed. For more information about the components that are installed with this application, see [Components installed with Service Exchange for Providers](../reference/service-bridge-v2-installed-components-provider.md).
+Apart from these, several components including roles, business rules, tables, and flows are also installed. For more information about the components that are installed with this application, see [Components installed with Service Exchange for Providers](service-bridge-v2-installed-components-provider.md).
 
 ## Procedure
 

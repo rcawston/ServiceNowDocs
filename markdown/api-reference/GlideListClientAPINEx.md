@@ -17,13 +17,13 @@ The GlideList API provides methods to customize lists in the Next Experience UI 
 
 This API enables adding GlideList functionality to a button in the Workspace Experience UI. Use the `g_list` variable to call each method.
 
-To add a button, create a list action and add GlideList method calls into the **Client Script** field `onClick{}` method. For instructions, see [Use the client GlideList API in the Workspace Experience UI](../../../../../administer/workspace/task/add-api-glide.md).
+To add a button, create a list action and add GlideList method calls into the **Client Script** field `onClick{}` method. For instructions, see [Use the client GlideList API in the Workspace Experience UI](developer-guides/add-api-glide.md).
 
 ![GlideList method calls in the Client Script field.](../../../../../administer/workspace/image/add-api-glidelist-workspace.png)
 
 **Note:** Each method must be used with the refresh\(\) method, with the exceptions of sort\(\) and sortDescending\(\) methods.
 
-The methods in this API are based on [GlideList2](../../GlideList2/concept/c_GlideList2API.md#). The following GlideList2 methods are not supported in the Next Experience framework and cause an error in the console log:
+The methods in this API are based on [GlideList2](c_GlideList2API.md#). The following GlideList2 methods are not supported in the Next Experience framework and cause an error in the console log:
 
 -   isUserList\(\)
 -   setFirstRow\(\)
@@ -32,7 +32,7 @@ The methods in this API are based on [GlideList2](../../GlideList2/concept/c_Gli
 -   toggleList\(\)
 -   toggleListNoPref\(\)
 
-**Parent Topic:**[Client Next Experience API reference](../../../../../build/applications/concept/api-client-next.md)
+**Parent Topic:**[Client Next Experience API reference](api-client-next.md)
 
 ## GlideList \(Next Experience\) - addFilter\(String filter\)
 
@@ -87,7 +87,7 @@ Returns the fixed query.
 
 A fixed query is the part of the query that cannot be removed from the breadcrumb \(i.e., it is fixed for the user\).
 
-Apply this method under **Related List Actions** in the Workspace Experience UI. For instructions, see [Use the client GlideList API in the Workspace Experience UI](../../../../../administer/workspace/task/add-api-glide.md).
+Apply this method under **Related List Actions** in the Workspace Experience UI. For instructions, see [Use the client GlideList API in the Workspace Experience UI](developer-guides/add-api-glide.md).
 
 |Name|Type|Description|
 |----|----|-----------|

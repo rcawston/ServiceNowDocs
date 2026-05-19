@@ -95,5 +95,5 @@ Select the entity type from the available options based on the select category.*
     By performing this action, the temporary records are converted to permanent aggregated records within the Threat Intelligence Library.
 
 
-**Parent Topic:**[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+**Parent Topic:**[Working with Investigation Canvas](tisc-investigation-canvases.md)
 

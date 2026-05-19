@@ -52,7 +52,7 @@ Click **View requested item** to open the localization fulfillment task in a new
 
 ![A Localization request task is created when you submit a translation request.](../images/loc-task-view-number.png "Localization request task number")
 
-**Parent Topic:**[Localizing Virtual Agent conversations](../concept/localize-va-topic.md)
+**Parent Topic:**[Localizing Virtual Agent conversations](localize-va-topic.md)
 
 ## Localization requestor \[localization\_requestor\]
 

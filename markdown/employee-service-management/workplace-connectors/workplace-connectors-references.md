@@ -15,14 +15,14 @@ breadcrumb: [Workplace Connectors, Workplace Service Delivery, Employee Service 
 
 Learn more about the roles, tables, system properties, and scheduled jobs tables that are installed with Workplace Connectors.
 
-1.  [Components installed with Workplace Connectors](../reference/component-workplace-connectors.md)  
+1.  [Components installed with Workplace Connectors](component-workplace-connectors.md)  
 Several types of components are installed with the installation of the Workplace Connectors application, including user roles and tables.
-2.  [Environmental data form for Workplace Connectors](../reference/wsd-environmental-data-form-fields.md)  
+2.  [Environmental data form for Workplace Connectors](wsd-environmental-data-form-fields.md)  
 Environmental sensor data form has pre-filled environmental data values and units of measure.
 
 **Parent Topic:**[Workplace Connectors](workplace-connectors-landing-page.md)
 
-**Previous topic:**[Archive and purge Environmental data](../task/archive-purge-environmental-data.md)
+**Previous topic:**[Archive and purge Environmental data](archive-purge-environmental-data.md)
 
-**Next topic:**[Components installed with Workplace Connectors](../reference/component-workplace-connectors.md)
+**Next topic:**[Components installed with Workplace Connectors](component-workplace-connectors.md)
 

@@ -71,7 +71,7 @@ Appointment Booking
 
 </td><td>
 
-Appointment booking plan for the walk-up location. For more details, see [Booking walk-up appointment](../concept/walkup-appointment-booking.md).
+Appointment booking plan for the walk-up location. For more details, see [Booking walk-up appointment](walkup-appointment-booking.md).
 
 </td></tr><tr><td>
 
@@ -495,5 +495,5 @@ Option to add a logo for the designated on-site display monitor. Design this log
 7.  To save the new or modified walk-up location, Select **Update**.
 
 
-**Parent Topic:**[Configuring Walk-up Experience](../concept/walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)
 

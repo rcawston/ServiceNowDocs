@@ -69,7 +69,7 @@ Activity type
 
 </td><td>
 
-The activity type from a lifecycle event activity. Activity types can be approvals, employee activities, fulfiller activities, notifications, and more. **Note:** For more information, see [Configure the supporting components for a lifecycle event](../concept/configure-supporting-components-for-lifecycle-event.md).
+The activity type from a lifecycle event activity. Activity types can be approvals, employee activities, fulfiller activities, notifications, and more. **Note:** For more information, see [Configure the supporting components for a lifecycle event](../lifecycle-events/configure-supporting-components-for-lifecycle-event.md).
 
 </td></tr><tr><td>
 

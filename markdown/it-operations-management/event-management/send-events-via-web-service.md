@@ -27,7 +27,7 @@ To insert records in the event \[em\_event\] table with a single call, use this 
 
 **Note:** Business rules on the event table are not invoked when this URL is used.
 
-Do not add additional fields to an event by adding a custom field to the event table \[em\_event\]. However, additional fields should be included in the **Additional information** \[additional\_info\] field of the event. For more information about how to include additional fields in events, see [Custom alert fields](../concept/populate-custom-alert-fields.md).
+Do not add additional fields to an event by adding a custom field to the event table \[em\_event\]. However, additional fields should be included in the **Additional information** \[additional\_info\] field of the event. For more information about how to include additional fields in events, see [Custom alert fields](populate-custom-alert-fields.md).
 
 The URL in the format: `http://<instancename>.service-now.com/em_event.do?JSONv2&sysparm_action=insertMultiple` is also supported in case you do want to activate Business rules. However, the performance of the first URL is superior.
 
@@ -299,5 +299,5 @@ Optional – To indicate that an event has been resolved or no longer occurring,
 **Related topics**  
 
 
-[Pushing events to the MID Server using web service API](../concept/event-collection-via-MID-using-push.md)
+[Pushing events to the MID Server using web service API](event-collection-via-MID-using-push.md)
 

@@ -44,5 +44,5 @@ Role required: sn\_compliance.user, sn\_grc.business\_user, sn\_grc.business\_us
     If you raise a policy exception from Service Portal and if verification rules are not configured, then the policy exception moves to the Analyze state. However, if verification rules are configured for the policy exception, then the policy exception moves to the New state and the verification approval process is triggered. As verification rules are configured the approver is required to verify the policy exception and approve it, only then the policy exception moves to Analyze state.
 
 
-**Parent Topic:**[Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md)
+**Parent Topic:**[Manage policy exceptions and extensions](manage-policy-exceptions.md)
 

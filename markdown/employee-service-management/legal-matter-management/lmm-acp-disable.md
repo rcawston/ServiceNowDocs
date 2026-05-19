@@ -81,5 +81,5 @@ The state of the legal matter updates to Work in Progress.
 -   In the Privileged Document Access tab, the document permissions is reset to Public.
 -   Stakeholders are notified of the change.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 

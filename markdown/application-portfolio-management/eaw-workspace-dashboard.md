@@ -232,7 +232,7 @@ Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
-Portfolio TCO**Note:** For information on TCO, see [Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace](../../../product/application-portfolio-management/concept/eaw-concept/eaw-manage-application-tco.md) and [Working with application Total Cost of Ownership \(TCO\)](../../../product/application-portfolio-management/concept/eaw-concept/eaw-work-with-tco.md).
+Portfolio TCO**Note:** For information on TCO, see [Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-manage-application-tco.md) and [Working with application Total Cost of Ownership \(TCO\)](eaw-work-with-tco.md).
 
 </td><td>
 
@@ -337,7 +337,7 @@ If both the Technology Portfolio Management \(sn\_apm\_tpm\) and Enterprise Arch
 
     The currency type is determined based on the geographical location from where you’ve logged in. For example, if the system detects that you’ve logged in to the EA workspace from the USA, the default currency displayed will be USD.
 
--   The duration of a fiscal period displayed on the widgets is determined from the **com.glide.fiscal\_calendar.fiscal.unit** property. To set the fiscal period duration, see [Set the duration of a fiscal period property for TCO dashboards](../../../product/application-portfolio-management/task/eaw-task/eaw-set-property-tco-dashboards.md).
+-   The duration of a fiscal period displayed on the widgets is determined from the **com.glide.fiscal\_calendar.fiscal.unit** property. To set the fiscal period duration, see [Set the duration of a fiscal period property for TCO dashboards](eaw-set-property-tco-dashboards.md).
 
 You can hover over or select the visualizations to see more data.
 
@@ -353,12 +353,12 @@ Use the following filters to narrow down the results in the dashboard page:
 
 You can manually refresh the dashboard by using the refresh icon \(![Refresh icon.](../../../product/application-portfolio-management/image/icon-refresh.png)\).
 
-**Parent Topic:**[Exploring dashboards in Enterprise Architecture Workspace](../../../product/application-portfolio-management/concept/eaw-concept/eaw-exploring-dashboards-in-ea-workspace.md)
+**Parent Topic:**[Exploring dashboards in Enterprise Architecture Workspace](eaw-exploring-dashboards-in-ea-workspace.md)
 
 **Related topics**  
 
 
-[Configure AI Data Explorer and Query Generation skills](../../../product/now-assist-ea/task/configure-ai-data-explr-qry-genr-skills.md)
+[Configure AI Data Explorer and Query Generation skills](configure-ai-data-explr-qry-genr-skills.md)
 
-[Generate insights for Enterprise Architecture Workspace dashboard widgets](../../../product/now-assist-ea/task/generate-insights-ea-dashboard.md)
+[Generate insights for Enterprise Architecture Workspace dashboard widgets](generate-insights-ea-dashboard.md)
 

@@ -95,5 +95,5 @@ A migration job is provided for customers upgrading from previous releases. It t
 
 The KMF Password2 encryption keys in the submodule are protected \(envelope encrypted\) in the KMF key hierarchy.
 
-**Parent Topic:**[Key Management Framework](../../encryption/concept/encryption.md)
+**Parent Topic:**[Key Management Framework](../encryption.md)
 

@@ -70,5 +70,5 @@ This task is explained using the default Full Configuration as an example, where
 -   [Update iteration details in EAP](edit-pi-sprint-iteration-details-in-eap.md).
 -   [Schedule work items into iterations in EAP Backlog](schedule-work-items-into-iterations-in-eap-backlog.md).
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 

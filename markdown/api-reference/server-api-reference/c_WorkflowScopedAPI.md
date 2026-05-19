@@ -17,7 +17,7 @@ The scoped Workflow API provides methods that can be used in an activity definit
 
 There are no constructors for creating an instance of a scoped workflow object. Instead, use the global workflow object available in activity scripts. This workflow object is available in any script location inside a workflow.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped Workflow - debug\(String message, Object args\)
 

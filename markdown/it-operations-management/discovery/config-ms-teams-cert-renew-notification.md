@@ -19,7 +19,7 @@ You can renew a certificate directly from a Microsoft Teams message sent autoamt
 
 Configure your MS Teams for Certificate Inventory and Management integration. For more information, see [https://www.servicenow.com/docs/r/integrate-applications/integration-hub/set-up-msteams.html](https://www.servicenow.com/docs/r/integrate-applications/integration-hub/set-up-msteams.html). Configure your Certificate Inventory and Management system to send notifications to Microsoft Teams and the channel you want to receive them. For more information, see [Configure for MS Teams Integration](cim-ms-teams-integration.md).
 
-You need a CSR or auto renewal configured. For more information, see [Configuring automated certificate renewal](../../it-operations-management/concept/configuring-automated-certificate-renewal.md).
+You need a CSR or auto renewal configured. For more information, see [Configuring automated certificate renewal](configuring-automated-certificate-renewal.md).
 
 Role required: pki\_admin or admin
 

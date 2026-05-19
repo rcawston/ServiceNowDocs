@@ -18,7 +18,7 @@ Create a draft version of an email to communicate with stakeholders on a major i
 
 ## Before you begin
 
-**Note:** An admin must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\) installed to enable the Major Incident Management email content recommendation skill. For more information on activating the plugin, see [Activate Incident Management - Major Incident Management](../../incident-management/task/activate-major-incident-management-plugin.md).
+**Note:** An admin must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\) installed to enable the Major Incident Management email content recommendation skill. For more information on activating the plugin, see [Activate Incident Management - Major Incident Management](../incident-management/activate-major-incident-management-plugin.md).
 
 Role required: major\_incident\_manager
 

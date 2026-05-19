@@ -27,16 +27,16 @@ Employees can submit disclosures using the intake form in the Employee Center or
 5.  The final decision is communicated to the employee via email notification.
 6.  A corresponding record is automatically generated in the system.
 
--   **[Submit COI request form Employee Center](../task/submit-coi-disclosure-request.md)**  
+-   **[Submit COI request form Employee Center](submit-coi-disclosure-request.md)**  
 Submit a request to obtain the legal clearance before you involve in any activity that might pose a risk of potential conflict with the primary employer duties.
--   **[Update an existing conflict of interest disclosure request](../task/update-existing-coi-disclosure-request.md)**  
+-   **[Update an existing conflict of interest disclosure request](update-existing-coi-disclosure-request.md)**  
 Update an existing conflict of interest disclosure request to obtain the legal clearance again before it expires. You might want to get fresh approvals for an extension of the period or for the revised conditions that might pose a risk of potential conflict with the primary employer duties.
--   **[Approve or reject a conflict of interest disclosure request](../task/approve-reject-coi-request.md)**  
+-   **[Approve or reject a conflict of interest disclosure request](approve-reject-coi-request.md)**  
 Approve or reject a conflict of interest disclosure request assigned to you or a legal user group of which you're a member.
--   **[Update an existing conflict of interest disclosure record](../task/update-existing-coi-disclosure-records.md)**  
+-   **[Update an existing conflict of interest disclosure record](update-existing-coi-disclosure-records.md)**  
 You can update an existing conflict of interest disclosure record to change the validity period or the status of the record.
--   **[View risk assessment details](../task/lsd-coi-view-risk-asmt-dets.md)**  
+-   **[View risk assessment details](lsd-coi-view-risk-asmt-dets.md)**  
 Review the risk assessment results for a conflict of interest disclosure, including the overall risk score, risk level, individual risk factor responses, and the risk assessment report.
 
-**Parent Topic:**[Legal Conflict of Interest](../reference/legal-conflict-of-interest-landing-page.md)
+**Parent Topic:**[Legal Conflict of Interest](legal-conflict-of-interest-landing-page.md)
 

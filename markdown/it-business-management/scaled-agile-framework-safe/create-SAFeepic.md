@@ -271,5 +271,5 @@ Associate monetary and non-monetary benefit plans, so that you can capture the p
 -   **[Generate labor costs for epics](gen-labor-costs-safe-epic.md)**  
 View the labor cost expenses based on the resource assignments for your epics.
 
-**Parent Topic:**[SAFe entities](../concept/key-entities-SAFe.md)
+**Parent Topic:**[SAFe entities](key-entities-SAFe.md)
 

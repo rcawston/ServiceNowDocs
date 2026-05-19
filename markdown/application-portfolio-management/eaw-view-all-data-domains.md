@@ -31,7 +31,7 @@ Role required: sn\_apm.apm\_user
 4.  Select **Data Domains**.
 
 
-**Parent Topic:**[Manage data domains](../../concept/eaw-concept/eaw-manage-data-domains.md)
+**Parent Topic:**[Manage data domains](eaw-manage-data-domains.md)
 
 **Related topics**  
 

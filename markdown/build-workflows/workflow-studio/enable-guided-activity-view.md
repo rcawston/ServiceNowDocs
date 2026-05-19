@@ -18,7 +18,7 @@ Guide end users through a playbook, step-by-step.
 ## Before you begin
 
 -   Role required: admin or playbook.admin
--   Familiarize yourself with how to begin customizing the playbook experience in UI Builder. To learn more, see [Customizing the Playbook Experience](../../workspace/concept/playbook-customize-playbook.md).
+-   Familiarize yourself with how to begin customizing the playbook experience in UI Builder. To learn more, see [Customizing the Playbook Experience](playbook-customize-playbook.md).
 
 ## About this task
 

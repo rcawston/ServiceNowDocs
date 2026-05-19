@@ -17,7 +17,7 @@ Personal data verifications allow users to verify their identity by providing an
 
 ## User experience
 
-For an example of how a user might enroll for Personal data verification, see [Enroll for the Password Reset program using questions and answers](../task/t_EnrollUsingASecurityQuestion.md).
+For an example of how a user might enroll for Personal data verification, see [Enroll for the Password Reset program using questions and answers](t_EnrollUsingASecurityQuestion.md).
 
 ## Personal data identification types
 
@@ -78,5 +78,5 @@ Column of the sys\_user table that provides the data that is used to verify the 
 **Related topics**  
 
 
-[Create a custom identification type for Password Reset](../task/t_CreateAnIdentificationType.md)
+[Create a custom identification type for Password Reset](t_CreateAnIdentificationType.md)
 

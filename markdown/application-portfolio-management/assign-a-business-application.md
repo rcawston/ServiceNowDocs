@@ -32,24 +32,24 @@ Role required: sn\_apm.apm\_user
 5.  Select **Assign**.
 
 
-**Parent Topic:**[Working with the business portfolio module](../concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
+**Parent Topic:**[Working with the business portfolio module](eaw-work-with-business-portfolio-mod.md)
 
 **Related topics**  
 
 
-[Unassign a business application from a capability](eaw-task/unassign-a-business-application-from-a-capability.md)
+[Unassign a business application from a capability](unassign-a-business-application-from-a-capability.md)
 
 [Update the hierarchy of a business capability](update-hierarchy.md)
 
-[View a roadmap of a business capability](eaw-task/eaw-view-roadmap-bc.md)
+[View a roadmap of a business capability](eaw-view-roadmap-bc.md)
 
-[Create a sub-capability](eaw-task/eaw-create-sub-capability.md)
+[Create a sub-capability](eaw-create-sub-capability.md)
 
 [Add a business capability](add-a-capability.md)
 
 [Delete a capability from the hierarchy](delete-a-capability.md)
 
-[Create a demand towards achievement of a capability](eaw-task/eaw-create-a-demand-towards-achievement-of-capability.md)
+[Create a demand towards achievement of a capability](eaw-create-a-demand-towards-achievement-of-capability.md)
 
-[Generate insights into business applications](../../now-assist-ea/task/generate-insights-into-ba.md)
+[Generate insights into business applications](generate-insights-into-ba.md)
 

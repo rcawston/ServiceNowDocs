@@ -159,7 +159,7 @@ Dispute Document Rules
 Determines whether an ACH dispute requires a Written Statement of Unauthorized Debit \(WSUD\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Card Disputes data model](../reference/dispute-data-model.md)
+</table>**Parent Topic:**[Card Disputes data model](dispute-data-model.md)
 
 **Related topics**  
 

@@ -15,5 +15,5 @@ breadcrumb: [Zero Copy Connector for ERP and ERP Semantic Mining glossary, Refer
 
 Individual maintenance task performed to read or update the system of record.
 
-**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](../../../build/erp-integration/reference/erp-integration-glossary.md)
+**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](erp-integration-glossary.md)
 

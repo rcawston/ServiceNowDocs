@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_admin
 
 2.  Click **New**.
 
-3.  Fill in the values on the [Event Management tag based alert clustering tag form](../reference/tag-based-alert-clustering-tag-form.md).
+3.  Fill in the values on the [Event Management tag based alert clustering tag form](tag-based-alert-clustering-tag-form.md).
 
 4.  Select **Submit**.
 

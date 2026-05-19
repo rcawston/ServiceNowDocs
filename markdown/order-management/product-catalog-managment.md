@@ -46,11 +46,11 @@ Product offering catalogs and categories offer a way to organize product offerin
 
 ## Product offering families
 
-A product family is a collection of product offerings that share similar or common features. You can use a product family to create a hierarchical classification of product offerings, like a category tree. A product family can have parent-child relationships, where each node in the family tree can have a parent, forming a multi-level hierarchy. This structure allows you to apply attributes, business rules, and product updates to a product family, rather than change products individually. After you create product families, you can assign a product family to a product offering. To learn more, see [Create a product offering family](../task/create-product-offering-family.md).
+A product family is a collection of product offerings that share similar or common features. You can use a product family to create a hierarchical classification of product offerings, like a category tree. A product family can have parent-child relationships, where each node in the family tree can have a parent, forming a multi-level hierarchy. This structure allows you to apply attributes, business rules, and product updates to a product family, rather than change products individually. After you create product families, you can assign a product family to a product offering. To learn more, see [Create a product offering family](create-product-offering-family.md).
 
 ## Product offer bundling
 
-You can create product offer bundles with an offer hierarchy using product offer relationships and relationship groups. These bundle offers can have references to a product specification or specification hierarchy at any level in the bundle. For more information, see [Product offer bundling with product specifications](../task/som-offer-bundles-with-specs.md).
+You can create product offer bundles with an offer hierarchy using product offer relationships and relationship groups. These bundle offers can have references to a product specification or specification hierarchy at any level in the bundle. For more information, see [Product offer bundling with product specifications](som-offer-bundles-with-specs.md).
 
 ## Product offer eligibility
 
@@ -60,7 +60,7 @@ As a product catalog admin or manager, you can use business rules to filter the 
 
 In Sales Customer Relationship Management, different types of product recommendations are available to your sales agents. Your agents can get product recommendations as they're generating or updating leads and opportunities, or updating quotes.
 
--   Product recommendations using needs analysis - When your sales agents are generating leads and opportunities, they can use product selection guides to help determine relevant products for their customers. For information on setting up needs analysis, including the product selection guides, see [Configuring needs analysis](configuring-needs-analysis.md). For details on how your agents can get product recommendations for leads and opportunities, see [Get product recommendations for leads using needs analysis](../task/lead-management-use-needs-analysis.md) and [Get product recommendations for opportunities using needs analysis](../task/opp-mgmt-use-needs-analysis.md).
+-   Product recommendations using needs analysis - When your sales agents are generating leads and opportunities, they can use product selection guides to help determine relevant products for their customers. For information on setting up needs analysis, including the product selection guides, see [Configuring needs analysis](configuring-needs-analysis.md). For details on how your agents can get product recommendations for leads and opportunities, see [Get product recommendations for leads using needs analysis](lead-management-use-needs-analysis.md) and [Get product recommendations for opportunities using needs analysis](opp-mgmt-use-needs-analysis.md).
 -   Product offering recommendations for quotes - When your sales agents are updating quotes, they can get product recommendations for upselling or cross-selling additional products for existing quote line items. For information on setting up these recommendations, see [Configuring product offering recommendations](configuring-offer-recommendations.md). For details on how product offering recommendations work in quotes, see [Using product offering recommendations in quotes](using-prod-recommendations-quote.md).
 
 ## Related links

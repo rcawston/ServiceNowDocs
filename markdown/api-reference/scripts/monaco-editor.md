@@ -30,5 +30,5 @@ The code editor has these features for the supported language services and [Inli
 -   To remove one tab from the start of a line of code, click in the line and press Shift+Tab.
 -   To declare variables, use the `var` keyword so that they remain within the proper JavaScript scope.
 
-**Parent Topic:**[Scripting](../../topic/c_Script.md)
+**Parent Topic:**[Scripting](c_Script.md)
 

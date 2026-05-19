@@ -146,5 +146,5 @@ For example, to query a table using a direct JDBC probe, requires the following 
     -   User password
 -   The table name
 
-**Parent Topic:**[JDBCProbe](../task/t_JDBCProbe.md)
+**Parent Topic:**[JDBCProbe](t_JDBCProbe.md)
 

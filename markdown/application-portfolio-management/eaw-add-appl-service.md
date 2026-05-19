@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_analyst
     -   To update details of an existing application service, select the record then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Application service form](../../reference/eaw-reference/eaw-app-service-form.md).
+    For field information, see [Application service form](eaw-app-service-form.md).
 
 7.  Select **Save** or **Update**.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

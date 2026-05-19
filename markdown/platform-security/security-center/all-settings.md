@@ -48,11 +48,11 @@ The following information about hardening settings can be found on the list.
     Description of the steps to remediate the security vulnerability of the hardening setting.
 
 
-To learn how to configure a property hardening setting see [Increase hardening compliance score](../task/increase-hardening-comp-score.md).
+To learn how to configure a property hardening setting see [Increase hardening compliance score](increase-hardening-comp-score.md).
 
 -   **[Hardening settings details](hardening-settings-overview.md)**  
 Analyze the details of a hardening setting by selecting its link within the Security Center app.
--   **[Filter hardening settings](../task/ssc-working-list.md)**  
+-   **[Filter hardening settings](ssc-working-list.md)**  
 Simplify your hardening review process using filters. These filters can create a working list of hardening settings for review, which restored for later use and shared with other users.
 
 **Parent Topic:**[Security hardening](sc-hardening.md)

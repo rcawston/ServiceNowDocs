@@ -195,5 +195,5 @@ Get started with Sustainable IT by completing these tasks:
 4.  [Manually set up entities for Sustainable IT data centers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-entities-for-sustainable-it.md).
 5.  [Configure Sustainable IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-sustainable-it.md).
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](solutions-gallery.md)
 

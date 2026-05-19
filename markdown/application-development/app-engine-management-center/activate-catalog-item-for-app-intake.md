@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **App Engine** &gt; **Application Intake** &gt; **Guided Setup**.
 
-    For more information, see [Configure App Engine Studio](../concept/configure-aes.md).
+    For more information, see [Configure App Engine Studio](../app-engine-studio/configure-aes.md).
 
 2.  Either start the process or continue with a process in progress.
 

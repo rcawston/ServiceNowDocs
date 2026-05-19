@@ -59,5 +59,5 @@ The following example shows results for a self-signed SSL certificate from the l
     The **Category** column indicates the `Issuer` \(`mail.dgtnetworks.com` and `dgtsbs.DGTNetworks.local`\) are not trusted public certificate authorities. Also note the `Issuer` and `Subject` are the same entity \(`dgtsbs.DGTNetworks.local`\), and each contains the name of the observable \(`dgtsbs`\). This certificate is possibly a self-signed certificate. Self-signed certificates may warrant further investigation, as these certificates are not issued by a known certificate authority.
 
 
-**Parent Topic:**[Verify expected results for RISKIQ SSL certificate lookups](../task/verify-expected-rslts-for-riskiq.md)
+**Parent Topic:**[Verify expected results for RISKIQ SSL certificate lookups](verify-expected-rslts-for-riskiq.md)
 

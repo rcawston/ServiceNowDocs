@@ -17,15 +17,15 @@ Platform Analytics includes several applications that leverage AI to generate in
 
 <table id="table_ghn_cl3_1gc" class="nav-card presentation"><tbody><tr><td>
 
-[AI Data Explorer![](../../../reuse/icons/brand-icons/bus-explore.svg)Ask quick questions, receive tailored recommendations, and collaborate with AI and your colleagues to build long-term analysis.](../../par-for-workspace/reference/now-assist-explorer.md)
+[AI Data Explorer![](../../../reuse/icons/brand-icons/bus-explore.svg)Ask quick questions, receive tailored recommendations, and collaborate with AI and your colleagues to build long-term analysis.](now-assist-explorer.md)
 
 </td><td>
 
-[Platform Analytics in the Now Assist Panel![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Generate and export Platform Analytics artifacts from conversational interactions.](../../par-for-workspace/reference/analytics-assist-landing-page.md)
+[Platform Analytics in the Now Assist Panel![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Generate and export Platform Analytics artifacts from conversational interactions.](analytics-assist-landing-page.md)
 
 </td><td>
 
-[Query Generation![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Shared back end for interpreting natural language questions as database queries and returning responses.](../../par-for-workspace/concept/query-generation.md)
+[Query Generation![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Shared back end for interpreting natural language questions as database queries and returning responses.](query-generation.md)
 
 </td></tr></tbody>
 </table>

@@ -48,7 +48,7 @@ The following diagram shows the workflow for setting up KPI Signals for a Perfor
 
 -   **[Signal, no signal, and anti-signal](signal-no-signal-anti-signal.md)**  
 When KPI Signals detects abnormal variation in the scores of a KPI, it generates a signal. When KPI Signals does not detect abnormal variation for a significant amount of time, it generates an "anti-signal." The anti-signal lets you know that your workflow is under control.
--   **[View KPI Signals](../task/view-kpi-signals.md)**  
+-   **[View KPI Signals](view-kpi-signals.md)**  
 Access KPI Signals from the KPI Details page.
 
 **Parent Topic:**[KPI Signals](process-behavior-charts-for-kpis.md)

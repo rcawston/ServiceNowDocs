@@ -39,6 +39,6 @@ Developers with admin access to their development instance and the parent instan
 
 To learn more about configuring and using Team Development, see:
 
--   [Configuring Team Development](../task/configuring-team-development.md)
--   [Administer Team Development](../task/administer-team-development.md)
+-   [Configuring Team Development](configuring-team-development.md)
+-   [Administer Team Development](administer-team-development.md)
 

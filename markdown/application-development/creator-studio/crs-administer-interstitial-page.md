@@ -17,7 +17,7 @@ Hide the App type page that appears when users select to create an app by adding
 
 ## Before you begin
 
-You must change your scope to global. For more information, see [Global scope](../../applications/concept/c_GlobalScope.md).
+You must change your scope to global. For more information, see [Global scope](../c_GlobalScope.md).
 
 Role required: admin
 
@@ -54,5 +54,5 @@ Users on the instance will no longer see that App type selection page after they
 
 To reinstate the App type page, set the **apptype.selection.disabled** property to `false`, or just delete it.
 
-**Parent Topic:**[Administering Creator Studio](../concept/administering-creator-studio.md)
+**Parent Topic:**[Administering Creator Studio](administering-creator-studio.md)
 

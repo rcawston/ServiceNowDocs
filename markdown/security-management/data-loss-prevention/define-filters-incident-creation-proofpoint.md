@@ -40,5 +40,5 @@ This type of filtering helps you to isolate DLP incidents and to limit the numbe
 4.  Click **Finish**.
 
 
-**Parent Topic:**[Create a Profile for Proofpoint DLP integration](../task/create-profile-proofpoint-dlp-integration.md)
+**Parent Topic:**[Create a Profile for Proofpoint DLP integration](create-profile-proofpoint-dlp-integration.md)
 

@@ -29,7 +29,7 @@ Blueprint components used
 
 </th></tr></thead><tbody><tr><td>
 
-[Populate the location based on the cloud account](../task/analyze-default-blueprint-rules.md)
+[Populate the location based on the cloud account](analyze-default-blueprint-rules.md)
 
 </td><td>
 
@@ -41,7 +41,7 @@ This example illustrates rules.
 
 </td></tr><tr><td>
 
-[Remove a field from a cloud catalog form](../task/remove-mandatory-field-example.md)
+[Remove a field from a cloud catalog form](remove-mandatory-field-example.md)
 
 </td><td>
 
@@ -54,7 +54,7 @@ This example illustrates:-   Rules
 
 </td></tr><tr><td>
 
-[Populate stack name with a script](../task/populate-stack-name-example.md)
+[Populate stack name with a script](populate-stack-name-example.md)
 
 </td><td>
 
@@ -68,7 +68,7 @@ This example illustrates:-   Rules
 
 </td></tr><tr><td>
 
-[Add fields to a cloud catalog item order form](../task/add-fields-control-order-blueprint.md)
+[Add fields to a cloud catalog item order form](add-fields-control-order-blueprint.md)
 
 </td><td>
 
@@ -84,7 +84,7 @@ This example illustrates:-   Catalog variables
 
 </td></tr><tr><td>
 
-[Set default values for a cloud catalog form fields](../task/set-value-reference-or-pool.md)
+[Set default values for a cloud catalog form fields](set-value-reference-or-pool.md)
 
 </td><td>
 
@@ -97,7 +97,7 @@ This example illustrates:-   Default variables
 
 </td></tr><tr><td>
 
-[Add a UI group with additional fields](../task/configure-ui-group.md)
+[Add a UI group with additional fields](configure-ui-group.md)
 
 </td><td>
 
@@ -108,13 +108,13 @@ Group catalog form fields into tabs to better organize the form and guide the us
 This example illustrates UI groups \(tabs\).
 
 </td></tr></tbody>
-</table>-   **[Populate the location based on the cloud account](../task/analyze-default-blueprint-rules.md)**  
+</table>-   **[Populate the location based on the cloud account](analyze-default-blueprint-rules.md)**  
 This example walks you through an existing set of blueprint rules that Cloud Provisioning and Governance provides by default.
--   **[Remove a field from a cloud catalog form](../task/remove-mandatory-field-example.md)**  
+-   **[Remove a field from a cloud catalog form](remove-mandatory-field-example.md)**  
 Remove a field from the Cloud Provisioning and Governance catalog form when the user belongs to a specific group.
--   **[Populate stack name with a script](../task/populate-stack-name-example.md)**  
+-   **[Populate stack name with a script](populate-stack-name-example.md)**  
 This example illustrates how to populate the name of the stack that a user requests from the Cloud Provisioning and Governance catalog by utilizing the user's ID. The example uses a script include that you can call from a blueprint rule action.
--   **[Set default values for a cloud catalog form fields](../task/set-value-reference-or-pool.md)**  
+-   **[Set default values for a cloud catalog form fields](set-value-reference-or-pool.md)**  
 You can set default values for all users or you can populate fields with default values based on conditions. This example shows you how to set a default schedule profile and business service.
 
 **Parent Topic:**[Form configuration with blueprints](blueprint-form-configuration.md)

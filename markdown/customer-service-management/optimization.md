@@ -73,5 +73,5 @@ The advantages of Workforce Optimization for Customer Service include:
 -   Focus on all engagement channels and provide real-time help to your team members so that they can provide a better customer experience.
 -   Capture all the relevant data and apply these insights and guidance to your team.
 
-To learn more about the Workforce Optimization for Customer Service application, see [Workforce Optimization for Customer Service](../../workforce-optimization-for-customer-service-configurable/concept/configurable-wfo-cs.md).
+To learn more about the Workforce Optimization for Customer Service application, see [Workforce Optimization for Customer Service](workforce-optimization-for-customer-service/configurable-wfo-cs.md).
 

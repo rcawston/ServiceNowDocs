@@ -49,7 +49,7 @@ You’re redirected to the relevant detailed view for managing the selected case
 
 [Generate and edit articles using the article editor](kc-edit-knowledge-article.md)
 
-[Configure Now Assist Skills for potential gaps](../../knowledge-management/task/configure-na-km.md)
+[Configure Now Assist Skills for potential gaps](now-assist-in-knowledge-management/configure-na-km.md)
 
-[Configure and activate the Now Assist Identify duplicate articles skill](../../knowledge-management/task/Now-Assist-configuring-identify-duplicate-article-skill.md)
+[Configure and activate the Now Assist Identify duplicate articles skill](now-assist-in-knowledge-management/Now-Assist-configuring-identify-duplicate-article-skill.md)
 

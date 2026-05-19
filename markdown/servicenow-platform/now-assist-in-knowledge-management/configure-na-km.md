@@ -32,12 +32,12 @@ Role required: admin
     Once the skills are activated, you can view the gap recommendations on the Knowledge Center home page.
 
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](configuring-now-assist-km.md)
 
 **Related topics**  
 
 
-[Knowledge Center Home Page](../../knowledge-center/concept/kc-home-page.md)
+[Knowledge Center Home Page](../kc-home-page.md)
 
-[Manage potential knowledge gaps](../../knowledge-center/task/address-knowledge-gaps.md)
+[Manage potential knowledge gaps](../address-knowledge-gaps.md)
 

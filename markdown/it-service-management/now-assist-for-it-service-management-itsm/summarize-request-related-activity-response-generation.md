@@ -28,7 +28,7 @@ Activity response generation for Request Management involves individual skills u
 -   Requested items
 -   Catalog tasks
 
-These Request Management activity response generation skills provide you with responses in work notes or comments. These responses are generated from the information entered in the corresponding record fields. For more information about which fields are referenced, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+These Request Management activity response generation skills provide you with responses in work notes or comments. These responses are generated from the information entered in the corresponding record fields. For more information about which fields are referenced, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](now-assist-itsm-skills.md).
 
 ## Procedure
 

@@ -45,7 +45,7 @@ Description
 
 The Azure **Subscription ID** value that you copied from the Azure Portal into the text file.
 
- See [Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md) to learn Management Groups subscription IDs.
+ See [Discovery for Microsoft Azure](../discovery/azure-cloud-discovery.md) to learn Management Groups subscription IDs.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Auto-generated value: Status and timestamp of the last execution of Discovery on
 
 </td><td>
 
-Option to enable the ServiceNow AI Platform® to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform® uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](../../it-operations-management/concept/azure-change-processing.md). If you select the Should pull events check box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
+Option to enable the ServiceNow AI Platform® to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform® uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](../discovery/azure-change-processing.md). If you select the Should pull events check box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
 
 </td></tr></tbody>
 </table>4.  Click **Update** or **Submit**.
@@ -106,5 +106,5 @@ If you are on a domain separated instance, only those events that are updated to
 **Related topics**  
 
 
-[Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md)
+[Discovery for Microsoft Azure](../discovery/azure-cloud-discovery.md)
 

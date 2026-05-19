@@ -23,16 +23,16 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The process you use to obtain AES depends on whether you are installing AES for the first time, updating a version of AES that you previously installed from the ServiceNow Store, or upgrading from one family release to the next one.
 
--   **[Get entitlement for AES apps](../task/entitle-aes-product.md)**  
+-   **[Get entitlement for AES apps](entitle-aes-product.md)**  
 Install App Engine Studio \(AES\) by verifying that the application or the product and its associated applications have valid ServiceNow entitlements. An entitlement means you have a license to install the product.
--   **[Install AES from the ServiceNow Store for the first time](../task/download-aes-first-time.md)**  
+-   **[Install AES from the ServiceNow Store for the first time](download-aes-first-time.md)**  
 Install App Engine Studio \(AES\) from the ServiceNow Store for the first time. The installation involves several easy steps. Some steps are performed on the ServiceNow Store and some in your ServiceNow AI Platform instance.
--   **[Install the AES product and integrations](../task/aes-install-product-integrations.md)**  
+-   **[Install the AES product and integrations](aes-install-product-integrations.md)**  
 Install the App Engine Studio \(AES\) product to verify that you get all the dependencies, integrations, and tools, such as templates and builders.
--   **[Update a previously installed AES version](../task/update-aes-previously-downloaded.md)**  
+-   **[Update a previously installed AES version](update-aes-previously-downloaded.md)**  
 If you previously installed App Engine Studio \(AES\) from the ServiceNow Store and if a new version is available, then update the version in your instance.
--   **[Upgrade your AES instance to the next family release](../task/upgrade-aes-next-family-release.md)**  
+-   **[Upgrade your AES instance to the next family release](upgrade-aes-next-family-release.md)**  
 If you are currently running a family release \(Australia, for example\) and want to upgrade App Engine Studio \(AES\) to the next release, you don't need to acquire the applications from the ServiceNow Store.
 
-**Parent Topic:**[Installing App Engine Studio](../task/install-aes.md)
+**Parent Topic:**[Installing App Engine Studio](install-aes.md)
 

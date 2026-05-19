@@ -18,11 +18,11 @@ The ServiceNow® Third-party Risk Management \(TPRM\) application provides a cen
 -   Review the simplified third‑party elements process in the due diligence workflow.
 -   Access the unified content management module in the Vendor Management Workspace to view a centralized library of smart assessment templates.
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](../australia-all-other-fixes.md)
 
 Use generative AI to recommend TPRM issues for reviewer validation.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 Review the updated AI experience with three licensing tiers.
 

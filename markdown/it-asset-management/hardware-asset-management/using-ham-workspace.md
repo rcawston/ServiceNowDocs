@@ -25,7 +25,7 @@ The Hardware Asset Workspace contains the following views:
 
 -   [Hardware asset overview](hardware-asset-overview.md): View important actions and quick links to active tasks. Also, get a 360-degree view of the asset estate for a snapshot of assets by model type, life cycle state, and asset value.
 -   [Asset analytics](asset-analytics-view.md): Manage resources efficiently by tracking the Total Cost of Ownership \(TCO\) of assets.
--   [DaaS provider view](../../device-as-a-service/concept/daas-workspace.md): Manage the assets of the customers of Device as a Service \(DaaS\) providers.
+-   [DaaS provider view](daas-workspace.md): Manage the assets of the customers of Device as a Service \(DaaS\) providers.
 
     **Note:** Hardware Asset Management for Device as a Service \(com.sn\_daas\_ham\) must be installed to access this view.
 

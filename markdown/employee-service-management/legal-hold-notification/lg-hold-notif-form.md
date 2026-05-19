@@ -108,5 +108,5 @@ Add attachments
 Enables the attachment of documents related to the legal hold.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Hold Notification reference](../concept/lg-hold-notif-ref.md)
+</table>**Parent Topic:**[Legal Hold Notification reference](lg-hold-notif-ref.md)
 

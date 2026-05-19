@@ -25,7 +25,7 @@ The selected elements filter reports on the dashboard under the following condit
 -   You have configured the dashboard to use the breakdown source as an interactive filter.
 -   The report follows interactive filters on the dashboard.
 
-If the dashboard user selects multiple elements, widgets can show scores separately for those elements, or show a single aggregate, depending on the widget type and configuration. For more information, see [Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md).
+If the dashboard user selects multiple elements, widgets can show scores separately for those elements, or show a single aggregate, depending on the widget type and configuration. For more information, see [Showing multiple elements separately or aggregated](multi-element-select-indicator-views.md).
 
 **Note:** If you show a breakdown relation on a widget, that widget cannot show multiple elements. For more information, see [Showing breakdown relations on dashboards](c_ShowBkdwnRltnsWdgts.md).
 
@@ -35,11 +35,11 @@ The following illustration shows a breakdown widget with the scores given separa
 
 **Note:** If you view a breakdown dashboard with a breakdown applied but no elements, the widgets show the base indicator scores. The breakdown does not filter the scores. These scores are usually higher than the scores when you select a breakdown and all elements. Often not all elements are available due to element security or an element filter. You also usually cannot select the Unassigned score, which contributes to the indicator scores.
 
--   **[Add breakdown sources to a dashboard](../../dashboards/task/t_ExistingBreakdownDashboard.md)**  
+-   **[Add breakdown sources to a dashboard](t_ExistingBreakdownDashboard.md)**  
 To enable dashboard users to filter visualizations on a dashboard by breakdown element, add breakdown sources to the dashboard.
--   **[Configure widgets for breakdown dashboards](../task/set-up-widgets-for-breakdown-dashboards.md)**  
+-   **[Configure widgets for breakdown dashboards](set-up-widgets-for-breakdown-dashboards.md)**  
 Configure each widget that goes on a breakdown dashboard. The configuration determines whether and how the widget follows the elements selected on the dashboard. For some widgets and indicators, you can select whether to show multiple element values separately or as an aggregate.
--   **[Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md)**  
+-   **[Showing multiple elements separately or aggregated](multi-element-select-indicator-views.md)**  
 When you select multiple elements on a dashboard, widgets that follow these elements can show their values either separately or as an aggregate.
 -   **[Same breakdown on widget and dashboard](same-breakdown-widget-dashboard.md)**  
 If a widget uses the same breakdown as the dashboard, the dashboard breakdown does not apply.
@@ -55,9 +55,9 @@ A breakdown widget can display 1st level breakdown elements that are related to 
 
 [Indicator breakdowns](c_CreatingBreakdowns.md)
 
-[Define a breakdown source](../task/t_DefiningABreakdownSource.md)
+[Define a breakdown source](t_DefiningABreakdownSource.md)
 
 [Analytics Hub for a specific indicator](view-scorecard.md)
 
-[Make a breakdown act as an interactive filter](../../dashboards/task/make-breakdown-interactive-filter.md)
+[Make a breakdown act as an interactive filter](../interactive-filters/make-breakdown-interactive-filter.md)
 

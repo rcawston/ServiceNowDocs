@@ -30,7 +30,7 @@ After transferring Workplace Central data between ServiceNow ServiceNow instance
 3.  On the Fix Script details page, select **Run Fix Script**.
 
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

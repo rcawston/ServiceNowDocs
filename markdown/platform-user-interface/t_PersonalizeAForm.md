@@ -54,7 +54,7 @@ In contrast to configuring a form, personalizing a form does not enable users to
 5.  To restore the default form view, personalize the form and click **Reset**.
 
 
-**Parent Topic:**[Forms in the classic environment](../concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](c_UsingForms.md)
 
 **Related topics**  
 

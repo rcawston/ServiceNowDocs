@@ -17,7 +17,7 @@ The **Foundation** tab on the CSDM Data Foundations dashboard identifies data th
 
 ## Reports on the Foundation tab
 
-In this example, a report on the **Foundation** tab indicates that most named product models don't have associate product owners. Without this data, you might not be able, for example, to identify products that are reaching end-of-life. For more information, see [Products and product models](../concept/foundation-domain.md#dlentry-product-models).
+In this example, a report on the **Foundation** tab indicates that most named product models don't have associate product owners. Without this data, you might not be able, for example, to identify products that are reaching end-of-life. For more information, see [Products and product models](foundation-domain.md#dlentry-product-models).
 
 ![Foundation tab on the Data Foundations dashboard.](../image/csdm-data-fdns-dash-foundation.png)
 
@@ -28,7 +28,7 @@ In this example, a report on the **Foundation** tab indicates that most named pr
         -   Red: 0–50% are in conformance.
         -   Yellow: 50–90% are in conformance.
         -   Green: More than 90% are in conformance.
-        To promote optimum performance, the system stops collecting data for some metrics when they reach a specified number of non-conforming CIs. For information on managing data collection for a metric that isn't needed or that affects performance of the dashboard, see [Manage performance](../../configuration-management/concept/csdm-cmdb-foundations-dashboards.md#section-manage-performance).
+        To promote optimum performance, the system stops collecting data for some metrics when they reach a specified number of non-conforming CIs. For information on managing data collection for a metric that isn't needed or that affects performance of the dashboard, see [Manage performance](../configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md#section-manage-performance).
 
     -   The **Remediation playbook URL** column displays links to knowledge articles in Now Support with instructions for bringing the CIs into conformance. Use your Now Support credentials to access the knowledge article.
 
@@ -36,26 +36,26 @@ To view detailed information on the impact of a metric and for details on workin
 
 -   **Named product models without product**
 
-    Application, service, and software class instance CIs aren't created through Discovery, so their **Model ID \[model\_id\]** values might not refer to product model records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. For recommendations, see [Auto-generate product models for logical CIs](../task/csdm-auto-create-prod-model-for-ci.md).
+    Application, service, and software class instance CIs aren't created through Discovery, so their **Model ID \[model\_id\]** values might not refer to product model records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. For recommendations, see [Auto-generate product models for logical CIs](csdm-auto-create-prod-model-for-ci.md).
 
-    For more information, see [Products and product models](../concept/foundation-domain.md#dlentry-product-models).
+    For more information, see [Products and product models](foundation-domain.md#dlentry-product-models).
 
 -   **Locations without parents**
 
-    You can create a hierarchy of location data using the Parent attribute to match your reporting requirements. Missing parent locations break the structure. See [Location \[cmn\_location\] table](../concept/csdm-implement-foundation-stage.md#dlentry-location-table).
+    You can create a hierarchy of location data using the Parent attribute to match your reporting requirements. Missing parent locations break the structure. See [Location \[cmn\_location\] table](csdm-implement-foundation-stage.md#dlentry-location-table).
 
 -   **Business units without companies**
 
     The hierarchy of your business is populated in the Business Unit table with a reference to the parent company. A business unit is a part of your organization that is responsible for specific operations, such as finance, human resources \(HR\), or IT. A hierarchy within a business unit is common. For large multinational organizations, you may have business units that identify independent regional operations and the specific operations within the region.
 
 
--   **[Auto-generate product models for logical CIs](../task/csdm-auto-create-prod-model-for-ci.md)**  
+-   **[Auto-generate product models for logical CIs](csdm-auto-create-prod-model-for-ci.md)**  
 Use the CSDM Product Model Assignment job to auto-generate a product model record \(application model, service model, or software model\) for each logical CI that is not yet associated with a product model. Product models are ideal for associating CIs that are parts of a single digital product.
 
-**Parent Topic:**[CSDM reference](../concept/csdm-content-frame-reference.md)
+**Parent Topic:**[CSDM reference](csdm-content-frame-reference.md)
 
 **Related topics**  
 
 
-[CSDM Data Foundations dashboard](../concept/csdm-data-foundations-dashboard.md)
+[CSDM Data Foundations dashboard](../configuration-management-database-cmdb/csdm-data-foundations-dashboard.md)
 

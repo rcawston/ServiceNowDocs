@@ -42,5 +42,5 @@ To gather emissions data pertaining to your data centers, it is necessary to giv
 
 When the metrics are executed, data from all four entities is collected and displayed on the Sustainable IT dashboard.
 
-**Parent Topic:**[Methods to set up entities for Sustainable IT](../concept/methods-to-set-up-entities.md)
+**Parent Topic:**[Methods to set up entities for Sustainable IT](methods-to-set-up-entities.md)
 

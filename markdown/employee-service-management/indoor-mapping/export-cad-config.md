@@ -58,7 +58,7 @@ Role required: admin
     ![Autocad source for CAD file showing the exported and updated file.](../images/wsd-autocad-source-updatedfile.png)
 
 
-**Parent Topic:**[Autocad import tool](../concept/autocad-ovw-v2.md)
+**Parent Topic:**[Autocad import tool](autocad-ovw-v2.md)
 
 **Previous topic:**[Closing a geometry or a polyline in a layer](editing-a-shape-autocadv2.md)
 

@@ -39,7 +39,7 @@ Role required: sn\_apm.apm\_user to add an architectural decision record \(ADR\)
     -   To update details of an existing architectural decision record, select the architectural decision record.
 6.  In the **New architectural artifact** pop-up window, fill in the form fields.
 
-    For field information, see [New architectural artifact form](../../reference/eaw-reference/eaw-new-arct-artfct-form.md).
+    For field information, see [New architectural artifact form](eaw-new-arct-artfct-form.md).
 
 7.  Select **Create**.
 
@@ -48,7 +48,7 @@ Role required: sn\_apm.apm\_user to add an architectural decision record \(ADR\)
 
 The architectural decision record is created and added to the artifacts list. You’re also redirected to the newly created architectural decision record page.
 
-**Parent Topic:**[Manage architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-manage-adr.md)
+**Parent Topic:**[Manage architectural decision records \(ADR\)](eaw-manage-adr.md)
 
 **Related topics**  
 

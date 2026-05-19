@@ -36,5 +36,5 @@ Before shutting down the Edge Encryption proxy, ensure that no users are connect
 5.  Delete the files in the distribution folder.
 
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](c_InstallEdgeEncryptionProxy.md)
 

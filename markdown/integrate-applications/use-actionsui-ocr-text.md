@@ -23,7 +23,7 @@ Role required: none
 
 Starting with the Yokohama release, the RPA Desktop Design Studio utilizes the latest version of the Tesseract OCR engine. This update improves image pre-processing, and performance optimizations. When updating older automations that include the OCR text component, you may notice slight differences in the output. Therefore, it’s important to validate your automations after the update.
 
-Many properties of the OCR Text component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](../reference/properties-actions-ui-components.md).
+Many properties of the OCR Text component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](properties-actions-ui-components.md).
 
 The properties unique to the OCR Text component are given.
 
@@ -158,5 +158,5 @@ Returns the extracted text accuracy figure.
 
 The OCR Text component takes a path to an image. The image comprises the text "servicenow". The component extracts the text from the image and passes the string to the Show component \(To use the Show component, see [Use the Show component](use-general-messagebox-show.md)\). The Show component takes the text through the Message Data In port and then displays the text in a window.
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

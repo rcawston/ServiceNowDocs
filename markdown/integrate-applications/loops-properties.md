@@ -25,5 +25,5 @@ Learn about the properties of the Loops components in RPA Desktop Design Studio.
 |Delay for each Execution|Waiting time, in seconds, for each step performed until the ForLoop ends.|
 |Increment By|Number, which increments, in the From and To boxes in the component.|
 
-**Parent Topic:**[Loops](../concept/loops.md)
+**Parent Topic:**[Loops](loops.md)
 

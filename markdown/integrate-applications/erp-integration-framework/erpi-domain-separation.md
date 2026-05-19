@@ -23,7 +23,7 @@ Domain separation is unsupported for Zero Copy Connector for ERP \(Enterprise Re
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Zero Copy Connector for ERP reference](../reference/erp-integration-reference.md)
+**Parent Topic:**[Zero Copy Connector for ERP reference](erp-integration-reference.md)
 
 **Related topics**  
 

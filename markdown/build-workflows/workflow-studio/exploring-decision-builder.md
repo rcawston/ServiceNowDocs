@@ -43,7 +43,7 @@ The workflow for creating decision tables in Workflow Studio is as follows:
     -   They can create a code snippet of the decision table and insert it into their code.
     -   They can add **Make a decision** logic in their flow or subflow and reference the decision table.
     -   They can add a decision table to a playbook using the **Make a Decision - First Match** activity.
-5.  If the decision table must be updated to reflect new logic, the developer or business SME can create a new draft of the table. They can test the table using the new logic and then publish the new version. To create a Decision Table, See [Create decision tables in Workflow Studio](../task/create-decision-table-in-decision-designer.md).
+5.  If the decision table must be updated to reflect new logic, the developer or business SME can create a new draft of the table. They can test the table using the new logic and then publish the new version. To create a Decision Table, See [Create decision tables in Workflow Studio](create-decision-table-in-decision-designer.md).
 
     **Note:** For any decision table that doesn't use draft authoring, any change the developer or business SME makes is automatically active.
 

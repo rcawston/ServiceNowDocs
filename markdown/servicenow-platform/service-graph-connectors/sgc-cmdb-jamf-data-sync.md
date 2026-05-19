@@ -24,7 +24,7 @@ The application includes the **is\_delta\_enabled\_for\_computers** and **is\_de
 -   The **is\_delta\_enabled\_for\_computers** connection property is available only if the **use\_jamf\_pro\_api** property is set to `true`.
 -   The **is\_delta\_enabled\_for\_mobiles** connection property is available only if the **use\_jamf\_mobile\_pro\_api** property is set to `true`.
 
-See [Service Graph Connector for Jamf properties](../reference/cmdb-sgc-jamf-props.md).
+See [Service Graph Connector for Jamf properties](cmdb-sgc-jamf-props.md).
 
 When you want to import full data from your Jamf instance, you must disable the **is\_delta\_enabled\_for\_computers** and **is\_delta\_enabled\_for\_mobiles** properties by setting these properties to `false`. See [Disable delta synchronization](sgc-cmdb-jamf-data-sync.md#).
 

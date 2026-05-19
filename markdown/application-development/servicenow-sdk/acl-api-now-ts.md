@@ -24,7 +24,7 @@ For general information about access control lists \(ACLs\), see [Access Control
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## ACL object
 
@@ -178,7 +178,7 @@ In either case, users only gain access to the object when the script evaluates t
 
 Format:
 
--   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../concept/javascript-modules-third-party-libraries.md).
+-   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md).
 -   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 

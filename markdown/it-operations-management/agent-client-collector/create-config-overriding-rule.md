@@ -169,7 +169,7 @@ CI/Metric
 
  Action level of anomaly analysis and processing.
 
- For more information, see [Configure the action level for anomaly detection](../concept/configure-level-anomaly-detection.md).
+ For more information, see [Configure the action level for anomaly detection](configure-level-anomaly-detection.md).
 
 </td><td>
 
@@ -1310,10 +1310,10 @@ CI/Metric
 -   **[Synchronize configuration settings rules](synch-config-settings-rules.md)**  
 Metric Intelligence configuration settings rules contain user specified values that override default values that currently exist on Metric Intelligence MID Servers. To take effect, the Metric Intelligence MID Servers must be synchronized with the updated set of configuration settings rules.
 
-**Parent Topic:**[Deploying Agent Client Collector on endpoints](../../agent-client-collector/concept/acc-endpoint-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on endpoints](acc-endpoint-deployment.md)
 
 **Related topics**  
 
 
-[Configure multiple MID Servers to work with Agent Client Collector Monitoring](../../agent-client-collector/task/configure-multiple-mid-acc-monitoring.md)
+[Configure multiple MID Servers to work with Agent Client Collector Monitoring](configure-multiple-mid-acc-monitoring.md)
 

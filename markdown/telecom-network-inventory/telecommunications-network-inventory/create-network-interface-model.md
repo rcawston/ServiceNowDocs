@@ -68,11 +68,11 @@ Name of the network interface model. The ServiceNow AI Platform uses this name t
 </td></tr></tbody>
 </table>5.  On the **Details** tab, fill in the General section.
 
-    **Note:** To learn more about the fields, see [Inventory Model form - General](../reference/tni-model-form-general.md).
+    **Note:** To learn more about the fields, see [Inventory Model form - General](tni-model-form-general.md).
 
 6.  Under the **Details** tab, on the form, fill in the fields.
 
-    **Note:** To learn more about the fields, see [Network Interface Model form - Information tab](../reference/network-interface-model-form-information-tab.md).
+    **Note:** To learn more about the fields, see [Network Interface Model form - Information tab](network-interface-model-form-information-tab.md).
 
 7.  To add the compatible network interface models, select **Add Compatible**.
 
@@ -90,15 +90,15 @@ Name of the network interface model. The ServiceNow AI Platform uses this name t
 
 10. Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the tabs information. To learn more about the related tabs, see [Inventory models additional tabs](../reference/additional-tabs-of-inventory-models.md).
+    The related tabs appear on the form. You can view or modify the tabs information. To learn more about the related tabs, see [Inventory models additional tabs](additional-tabs-of-inventory-models.md).
 
 11. To delete a model, select the options icon \(![Options icon.](../image/options-icon.png)\) next to the **Save** button, and select **Delete**.
 
 
-**Parent Topic:**[Create inventory models](../concept/creating-your-inventory-models.md)
+**Parent Topic:**[Create inventory models](creating-your-inventory-models.md)
 
 **Related topics**  
 
 
-[Network inventory models](../concept/using-inventory-models-tni.md)
+[Network inventory models](using-inventory-models-tni.md)
 

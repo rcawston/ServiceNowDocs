@@ -31,10 +31,10 @@ To use this Platform Analytics Solution, you must have an entitlement to use Per
 
 In some solutions, System Administrator is the **Run As** user for data collection jobs in the Platform Analytics Solutions. In other solutions, the **Run As** user for data collection jobs is left blank. Verify that the **Run As** user exists on the instance, and that this user has the appropriate level of access. An inappropriate **Run As** user can cause errors or limit the data that is collected. This setting only has an effect if domain separation is enabled.
 
--   **[Service level management PA dashboard](../../../product/service-level-management/concept/slm-pa-dashboard.md)**  
+-   **[Service level management PA dashboard](slm-pa-dashboard.md)**  
 The Service Level Agreement \(SLA\) Overview module provides a Performance Analytics \(PA\) Dashboard to review SLA information at a glance.
 
-**Parent Topic:**[Service Level Management reference](../../../product/service-level-management/concept/service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
 
 **Related topics**  
 

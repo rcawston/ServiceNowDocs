@@ -63,5 +63,5 @@ Before deciding to move forward with Remote Process Sync as your integration fra
 
 ![Instance Data Replication and the Remote Instance spoke support simple integrations for an entire table or using ServiceNow AI Platform APIs. Remote Process Sync supports more complex multi-instance integrations.](../images/idr-remotespoke-rps-comparison.png "Comparison of Instance Data Replication, Remote Instance spoke, and Remote Process Sync")
 
-When you're ready to start building and managing a Remote Process Sync integration, learn the basics of [Getting started with Remote Process Sync](../reference/getting-started-with-remote-process-sync.md).
+When you're ready to start building and managing a Remote Process Sync integration, learn the basics of [Getting started with Remote Process Sync](getting-started-with-remote-process-sync.md).
 

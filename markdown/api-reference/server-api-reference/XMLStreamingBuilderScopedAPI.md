@@ -139,7 +139,7 @@ Output:
 </phoneNumber>
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## XMLStreamingBuilder - XMLStreamingBuilder\(\)
 
@@ -226,7 +226,7 @@ expiresAt
 
 </td><td>
 
-[GlideDateTime](../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#)
+[GlideDateTime](c_GlideDateTimeScoped.md#)
 
 </td><td>
 

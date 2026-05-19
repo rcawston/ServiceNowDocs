@@ -145,16 +145,16 @@ Select the option if you want to add any attachments.
     The maintenance request is submitted. A workplace maintenance case is created and the state is set to Work in Progress.
 
 
-**Parent Topic:**[Requesting a workplace service](../concept/request-workplace-services.md)
+**Parent Topic:**[Requesting a workplace service](request-workplace-services.md)
 
 **Related topics**  
 
 
-[Reconfigure an office space](Reconfig-office-space-1.md)
+[Reconfigure an office space](../employee-service-management/Reconfig-office-space-1.md)
 
 [Raise help request for a workplace inquiry](submit-gen-workplace-serv-req.md)
 
-[Raise a move request for a space change](../../workplace-move-mgmt/task/request-desk-change.md)
+[Raise a move request for a space change](request-desk-change.md)
 
 [Request furniture for a space](request-furniture.md)
 

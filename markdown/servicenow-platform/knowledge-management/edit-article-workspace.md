@@ -22,7 +22,7 @@ You must have contribute access to the knowledge base that stores the knowledge 
 **Note:**
 
 -   If the article versioning feature is enabled, only the knowledge administrator, knowledge managers, and author can edit the checked-out version of an article. If the feature is disabled, any users with contribute access to an article can edit the draft version of the article. An administrator can disable the article versioning feature by setting the **glide.knowman.versioning.enabled** property \(from the **System Property** \[sys\_properties\] table\) to **false**.
--   If an ownership group is associated with a knowledge article, the author or reviser of the article can't contribute to the article after the article is published. An administrator can override this behavior by enabling the **glide.knowman.ownership\_group.override** property. For more information, see [Ownership groups](../concept/enable-ownership-group.md).
+-   If an ownership group is associated with a knowledge article, the author or reviser of the article can't contribute to the article after the article is published. An administrator can override this behavior by enabling the **glide.knowman.ownership\_group.override** property. For more information, see [Ownership groups](enable-ownership-group.md).
 -   If the **glide.knowman.translation.enable\_translation\_task** property is enabled, you can’t modify the knowledge base of existing articles.
 
 Role required: agent\_workspace\_user
@@ -69,7 +69,7 @@ If you move a knowledge article to another knowledge base, the default value of 
 
 -   If the **Article Validity** field in the selected knowledge base is empty, the earlier **Valid to** date value is retained for the knowledge article.
 -   If the **Article Validity** field in the selected knowledge base isn't empty, the **Valid to** date is automatically updated to start from the date the article was updated until the number of days specified in the **Article Validity** field \(Article updated date + article validity\).
-If the dictionary value of the **Valid to** field is modified, this dictionary value overrides the default value of the **Valid to** field calculated according to the **Article Validity** field. For more information, see [Validity of a knowledge article](../concept/article-validity.md).
+If the dictionary value of the **Valid to** field is modified, this dictionary value overrides the default value of the **Valid to** field calculated according to the **Article Validity** field. For more information, see [Validity of a knowledge article](article-validity.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Translation Tasks
 
 </td><td>
 
-Tasks submitted for translating the article. This related list appears when the Translation Management feature and the **glide.knowman.translation.enable\_translation\_task** property to enable creation of translation tasks are enabled. For more information, see [Knowledge Management properties](../reference/r_KnowledgeProperties.md#).
+Tasks submitted for translating the article. This related list appears when the Translation Management feature and the **glide.knowman.translation.enable\_translation\_task** property to enable creation of translation tasks are enabled. For more information, see [Knowledge Management properties](r_KnowledgeProperties.md#).
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ Products mapped to the knowledge article. For more information, see [Add an affe
     -   Download, remove, or rename an existing attachment by clicking the menu icon \(![Menu icon](../image/attachment-menu.png)\) displayed for the attachment.
 10. Click **Save**.
 
-    The article is saved and appears in the My Articles - Unpublished list. If the article versioning feature is enabled, the version of the knowledge article is incremented by 0.01. For more information, see [Knowledge article version numbers](../concept/knowledge-article-version-numbers.md).
+    The article is saved and appears in the My Articles - Unpublished list. If the article versioning feature is enabled, the version of the knowledge article is incremented by 0.01. For more information, see [Knowledge article version numbers](knowledge-article-version-numbers.md).
 
 11. Publish the article by clicking **Publish**.
 
@@ -186,11 +186,11 @@ Products mapped to the knowledge article. For more information, see [Add an affe
     -   **Knowledge - Instant Publish**: The knowledge article is immediately published unless it is scheduled to be published at a later date.
     -   **Knowledge - Approval Publish**: The knowledge article is published on approval completion unless it is scheduled to be published at a later date.
 
-        **Note:** With an ownership group associated with a knowledge article, ownership group members can approve self-authored articles for publication. An administrator can override this behavior by disabling the **glide.knowman.ownership\_group.enable\_self\_approval** property. For more information, see [Ownership groups](../concept/enable-ownership-group.md).
+        **Note:** With an ownership group associated with a knowledge article, ownership group members can approve self-authored articles for publication. An administrator can override this behavior by disabling the **glide.knowman.ownership\_group.enable\_self\_approval** property. For more information, see [Ownership groups](enable-ownership-group.md).
 
     For more information, see [Schedule a knowledge article for publishing in Agent Workspace](schedule-article-publishing-agent.md).
 
-    When published, the knowledge article appears in the My Articles - Published and All Articles lists. If the article versioning feature is enabled, the version number of the knowledge article increments to the next whole number \(for example, from 2.02 to 3.0\). For more information, see [Knowledge article version numbers](../concept/knowledge-article-version-numbers.md).
+    When published, the knowledge article appears in the My Articles - Published and All Articles lists. If the article versioning feature is enabled, the version number of the knowledge article increments to the next whole number \(for example, from 2.02 to 3.0\). For more information, see [Knowledge article version numbers](knowledge-article-version-numbers.md).
 
 
 **Related topics**  

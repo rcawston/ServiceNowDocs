@@ -49,7 +49,7 @@ Role required: personalize\_list or admin
 
 </td><td>
 
-Select the **Wrap column text** check box. Clear the check box to display text on one line.In Core UI, this option is also available in the **Lists** section of the [system settings](../../../administer/navigation-and-ui/reference/r_UI16BannerFrame.md).
+Select the **Wrap column text** check box. Clear the check box to display text on one line.In Core UI, this option is also available in the **Lists** section of the [system settings](r_UI16BannerFrame.md).
 
 </td></tr><tr><td id="d44033e202">
 
@@ -73,7 +73,7 @@ Select the **Active row highlighting** check box. Clear the check box to restore
 
 </td><td>
 
-Select the **Modern cell coloring** check box.In Core UI, this option is also available in the **Lists** section of the [system settings](../../../administer/navigation-and-ui/reference/r_UI16BannerFrame.md).
+Select the **Modern cell coloring** check box.In Core UI, this option is also available in the **Lists** section of the [system settings](r_UI16BannerFrame.md).
 
 </td></tr></tbody>
 </table>5.  Select list editing options \(requires you to configure the list editor\).

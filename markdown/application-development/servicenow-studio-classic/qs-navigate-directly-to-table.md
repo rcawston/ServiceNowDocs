@@ -35,7 +35,7 @@ Video on how to navigate directly to a table in ServiceNow Studio
 
     -   In the Search bar, enter one of the inputs in the table below and press **Enter**. The table view opens in a new tab.
 
-        **Important:** The table name must match the name in the dictionary entry for the table. For more information about the primary table associated with each metadata type, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md).
+        **Important:** The table name must match the name in the dictionary entry for the table. For more information about the primary table associated with each metadata type, see [ServiceNow Studio Navigator panel taxonomy](servicenow-studio-file-navigator-taxonomy.md).
 
         To find the primary table name for a metadata type, select the metadata type in the Navigator panel. The primary table name appears below it. In the following example, **sys\_hub\_action\_type\_definition** is the table name for the **Action** metadata type.
 

@@ -40,5 +40,5 @@ At least one allocation type must be active. If none are configured, contact you
 
 All allocations for the opportunity are displayed in a read-only list, grouped by allocation type.
 
-**Parent Topic:**[Managing allocations](../concept/manage-allocations.md)
+**Parent Topic:**[Managing allocations](manage-allocations.md)
 

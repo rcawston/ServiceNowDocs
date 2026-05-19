@@ -95,7 +95,7 @@ Assessable Record Field
 
  If the selected **Assessment** evaluates records on the Company `[core_company]` table and the selected **Table** is Incident, the only **Assessable Record Field** options are fields on the Incident table that reference the Company table. For example, **Company** or, if vendor ticketing is enabled, **Vendor**. If you select **Vendor**, the trigger condition sends an assessment about the **Vendor** for the incident, assuming there is an assessable record for the associated company. The assessment contains questions from all metric categories associated with the assessable record.
 
-**Note:** This field is not available if the selected **Assessment** is a metric type used for surveys. See [Survey trigger conditions](../../survey-administration/concept/c_TriggerConditions.md).
+**Note:** This field is not available if the selected **Assessment** is a metric type used for surveys. See [Survey trigger conditions](c_TriggerConditions.md).
 
 </td></tr><tr><td>
 
@@ -129,5 +129,5 @@ Condition
 **Related topics**  
 
 
-[Configure a trigger condition for a survey](../../survey-administration/task/t_CreateATriggerCondition.md)
+[Configure a trigger condition for a survey](t_CreateATriggerCondition.md)
 

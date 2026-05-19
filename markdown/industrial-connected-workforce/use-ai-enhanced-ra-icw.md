@@ -38,10 +38,10 @@ Role required: sn\_icw.deviation\_user and sn\_ai\_enhanced\_ra.document\_user
 
 You can generate an action plan based on the contextualized external documents and information available in the deviation. For more information see, [Generate an action plan to resolve a Deviation in the Digital Factory Workspace](generate-action-plan-ai-enhanced-ra-icw.md).
 
-**Parent Topic:**[Using AI Enhanced recommended actions for Industrial Connected Workforce](../concept/using-ai-enhanced-ra-icw.md)
+**Parent Topic:**[Using AI Enhanced recommended actions for Industrial Connected Workforce](using-ai-enhanced-ra-icw.md)
 
 **Related topics**  
 
 
-[Contextualize an external document using AI Enhanced recommended actions for ICW Mobile](../../icw-mobile-experience/task/use-ai-enhanced-ra-icw-mobile.md)
+[Contextualize an external document using AI Enhanced recommended actions for ICW Mobile](industrial-connected-workforce-mobile-experience/use-ai-enhanced-ra-icw-mobile.md)
 

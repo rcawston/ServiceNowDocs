@@ -139,7 +139,7 @@ Before you can log into the Console for the first time, you must register as a u
 5.  Select the check box, **I acknowledge I saved my password**.
 6.  Select **Enter**.
 
-**Note:** Make sure to save the password, to avoid getting locked out of the system. See [Logging onto the Discovery Console for OT](../../operational-technology-discovery-deployment-guide/concept/logging-onto-ot-discovery-console.md) for more instruction.
+**Note:** Make sure to save the password, to avoid getting locked out of the system. See [Logging onto the Discovery Console for OT](logging-onto-ot-discovery-console.md) for more instruction.
 
 </td></tr><tr><td>
 
@@ -156,8 +156,8 @@ Next, the EULA appears on the screen. Accept the EULA by checking the box next t
 
 To complete installation and configuration of the Discovery Console for OT, continue with the following steps.
 
-1.  See [Logging onto the Discovery Console for OT](../../operational-technology-discovery-deployment-guide/concept/logging-onto-ot-discovery-console.md) for initially logging onto the Console.
-2.  Review the [Requirements for Discovery Console for OT installation](../concept/requirements-installation-deployment.md) sections. The requirement section includes information about the Console license.
+1.  See [Logging onto the Discovery Console for OT](logging-onto-ot-discovery-console.md) for initially logging onto the Console.
+2.  Review the [Requirements for Discovery Console for OT installation](requirements-installation-deployment.md) sections. The requirement section includes information about the Console license.
 3.  [Install a Linux operating system](install-linux-os.md).
 4.  [Install the Discovery Console for OT](ot-discovery-console-installation.md).
 5.  [Generate a certificate](generate-new-certificate-discovery-for-ot.md).

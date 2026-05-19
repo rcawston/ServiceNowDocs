@@ -34,7 +34,7 @@ The following data types are supported for a context input:
 
 Configuring a context using context inputs includes the following steps:
 
--   Creating a context input. For more information on how to create a context input, see [Create a context input in Recommended Actions](../task/ra-csm-create-context-inputs.md).
+-   Creating a context input. For more information on how to create a context input, see [Create a context input in Recommended Actions](ra-csm-create-context-inputs.md).
 
     **Note:**
 
@@ -53,7 +53,7 @@ The context inputs appear along with the context table in the appropriate fields
 
 As an RA author or admin, you must add the JSON-format of the context inputs in the **Context input** field of Recommended Actions UIB component of a record page to pass the values. You can get the JSON-format of the context input by selecting the **Copy input JSON** button on the Context input related list in the Context form. The JSON-format includes all the active context inputs. When a context input is deleted or deactivated after configuring the Recommended Actions UIB component, an empty value is passed for these context inputs in UIB from the upcoming iterations.
 
-**Note:** If you set a context input as [mandatory](../task/ra-csm-create-context-inputs.md#entry-ci-mandatory) in the Context input form and fail to set contextual inputs on Recommended Actions component of the record page in the UIB, the recommendations are not be generated.
+**Note:** If you set a context input as [mandatory](ra-csm-create-context-inputs.md#entry-ci-mandatory) in the Context input form and fail to set contextual inputs on Recommended Actions component of the record page in the UIB, the recommendations are not be generated.
 
 ## Context Input configuration limitations
 

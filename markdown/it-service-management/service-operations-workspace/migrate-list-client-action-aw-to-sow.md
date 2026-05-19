@@ -83,5 +83,5 @@ At the end of the migration process, a confirmation message specifies if the mig
     **Note:** The **ITEM\_SELECTED** and **PREVIEW\_RECORD** actions function in the ITSM Agent Workspace but not in SOW. Therefore, an action payload named CREATE\_NEW\_RECORD Is introduced in SOW. While there could be other action payloads that might not function properly, the base system client actions for the list continue to work effectively in SOW post-migration.
 
 
-**Parent Topic:**[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/list-actions-migration-itsm-aw-sow.md)
+**Parent Topic:**[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](list-actions-migration-itsm-aw-sow.md)
 

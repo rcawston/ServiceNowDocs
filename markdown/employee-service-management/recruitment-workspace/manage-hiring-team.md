@@ -66,7 +66,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
     |Field|Description|
     |-----|-----------|
-    |Hiring role|Hiring role for the hiring team member. For details on roles, see [.](roles-in-ta.md)|
+    |Hiring role|Hiring role for the hiring team member. For details on roles, see [.](../employee-service-management/roles-in-ta.md)|
     |Visibility to applicant|Option to make the hiring team member visible to the applicant.|
     |Scheduling preference status|Status of the member's scheduling preference, whether requested, submitted, or not requested.|
     |Future slots available|Indicates if future slot availability has been shared.|

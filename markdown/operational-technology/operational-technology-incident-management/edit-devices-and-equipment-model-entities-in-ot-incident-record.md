@@ -69,5 +69,5 @@ Description
 6.  Add or remove an equipment model entity from an incident record by repeating steps 4 and 5 but in the Impacted Equipment Model Entities related list.
 
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

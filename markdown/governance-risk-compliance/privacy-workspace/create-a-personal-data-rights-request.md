@@ -27,7 +27,7 @@ Role required: sn\_grc\_pdr.pdr\_requester
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the personal data rights request form, see [Personal data rights request form](../reference/new-pdr-request-form.md).
+    For a description of the field values on the personal data rights request form, see [Personal data rights request form](new-pdr-request-form.md).
 
 4.  Select **Save**.
 
@@ -40,8 +40,8 @@ Role required: sn\_grc\_pdr.pdr\_requester
     The state of the task moves from **Draft** to **Assigned**.
 
 
--   **[Personal data rights request form](../reference/new-pdr-request-form.md)**  
+-   **[Personal data rights request form](new-pdr-request-form.md)**  
 Use the Personal data rights request form in the Personal Data Rights application to initiate a process to access, correct, or delete personal data.
 
-**Parent Topic:**[Using Personal Data Rights](../concept/using-personal-data-right.md)
+**Parent Topic:**[Using Personal Data Rights](using-personal-data-right.md)
 

@@ -29,7 +29,7 @@ The optimized data collector supports the following capabilities:
 -   Support for additional conditions on indicators and breakdowns.
 -   Optimizations for Count Distinct aggregation.
 
-**Note:** The default maximum number of records allowed per indicator source for data collection has been increased for optimized data collection. For more information, see the **com.snc.pa.dc.hsql.max\_row\_count\_indicator\_source** property in [Performance Analytics properties](../reference/pa-properties.md).
+**Note:** The default maximum number of records allowed per indicator source for data collection has been increased for optimized data collection. For more information, see the **com.snc.pa.dc.hsql.max\_row\_count\_indicator\_source** property in [Performance Analytics properties](pa-properties.md).
 
 The optimizations stem from the use of an embedded database. A standard data collection job stores all scores in the node memory during the job. However, an optimized data collection job moves packets of scores to temporary storage on disk. At the end of the job, the scores are written to the scores tables and the temporary database is cleared.
 

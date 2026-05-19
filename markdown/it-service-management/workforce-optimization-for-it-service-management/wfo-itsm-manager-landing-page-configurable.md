@@ -84,5 +84,5 @@ Select a visualization to view details.
 |Incident SLAs at Risk|Single score![Single score](../../reporting/image/icon-single-score-report.png)|Number of incidents with SLAs that are at risk.|
 |Escalations|Single score![Single score](../../reporting/image/icon-single-score-report.png)| |
 
-**Parent Topic:**[Workforce Optimization for ITSM landing pages](../../../product/configurable-workforce-optimization-itsm/concept/configurable-wfo-itsm-landing-pages.md)
+**Parent Topic:**[Workforce Optimization for ITSM landing pages](configurable-wfo-itsm-landing-pages.md)
 

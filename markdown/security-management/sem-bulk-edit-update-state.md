@@ -71,11 +71,11 @@ Change for the **State** in the record. Choices are:-   Do Not Update
 -   Awaiting Implementation
 -   Deferred
 
-For more information, see[Request bulk exception in the Vulnerability Manager Workspace](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-request-exception.md).
+For more information, see[Request bulk exception in the Vulnerability Manager Workspace](vulnerability-manager-workspace/vmws-bulk-edit-request-exception.md).
 
 -   Closed
 
-For more information, see [Bulk edit for false positive in the Vulnerability Manager Workspace](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-request-false-positive.md)
+For more information, see [Bulk edit for false positive in the Vulnerability Manager Workspace](vulnerability-manager-workspace/vmws-bulk-edit-request-false-positive.md)
 
 -   Resolved
 **Note:** Only the records for which the state transition is valid are updated.
@@ -94,5 +94,5 @@ Text that you enter to describe the changes.
     A bulk edit asynchronous job updates the selected records.
 
 
-**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](../concept/sem-using-bulk-edit.md)
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](sem-using-bulk-edit.md)
 

@@ -32,7 +32,7 @@ Role required: inventory\_user
 5.  Select **Save**.
 
 
-**Parent Topic:**[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](../concept/manage-asset-picking-stockroom-ham-ws.md)
+**Parent Topic:**[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](manage-asset-picking-stockroom-ham-ws.md)
 
 **Related topics**  
 

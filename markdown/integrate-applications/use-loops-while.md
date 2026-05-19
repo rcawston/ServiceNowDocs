@@ -123,5 +123,5 @@ When you run this automation, the value 1 is incremented to 2 and shows in the o
 
 ![While component with Variable, Expression, and MessageBox components showing an automation.](../image/while-loop-example-rpa.png "While component")
 
-**Parent Topic:**[Loops](../concept/loops.md)
+**Parent Topic:**[Loops](loops.md)
 

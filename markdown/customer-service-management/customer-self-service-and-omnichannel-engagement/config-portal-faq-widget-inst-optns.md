@@ -47,7 +47,7 @@ Role required: sp\_admin
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the fields values, see [Portal FAQ widget instance options form](r-port-faq-inst-options.md)
+    For a description of the fields values, see [Portal FAQ widget instance options form](../r-port-faq-inst-options.md)
 
 12. Select **Save**.
 

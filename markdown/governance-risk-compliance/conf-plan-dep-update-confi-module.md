@@ -29,7 +29,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Planning dependency update configuration form](../reference/pla-dep-update-confi-form.md).
+    For more information on the fields in the form, see [Planning dependency update configuration form](pla-dep-update-confi-form.md).
 
 4.  Select **Submit**.
 
@@ -38,8 +38,8 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
     The BCP owner and approver review the updated dependencies and complete the BCP workflow.
 
 
--   **[Planning dependency update configuration form](../reference/pla-dep-update-confi-form.md)**  
+-   **[Planning dependency update configuration form](pla-dep-update-confi-form.md)**  
 Use the Planning dependency update configuration form to configure the plan record, its sources, and preferences such as the plan record name, sources, and notification preferences and schedule an auto-update of the related assets in the plans.
 
-**Parent Topic:**[Configuring planning dependency updates](../concept/confi-planning-dep-updates.md)
+**Parent Topic:**[Configuring planning dependency updates](confi-planning-dep-updates.md)
 

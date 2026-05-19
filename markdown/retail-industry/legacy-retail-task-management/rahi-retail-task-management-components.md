@@ -50,5 +50,5 @@ Provides the framework for multi-store case creation.
 
 If Retail Core is already installed, then only the **com.sn\_multi\_case\_creation** plugin installs with Retail Task Management Core.
 
-**Parent Topic:**[Retail Task Management reference](../concept/rahi-retail-task-management-reference.md)
+**Parent Topic:**[Retail Task Management reference](rahi-retail-task-management-reference.md)
 

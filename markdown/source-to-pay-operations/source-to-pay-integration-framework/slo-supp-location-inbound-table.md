@@ -361,7 +361,7 @@ String
 Zip code of the supplier location.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](../concept/slo-inbound-staging-tables.md)
+</table>**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](slo-inbound-staging-tables.md)
 
 **Related topics**  
 

@@ -23,7 +23,7 @@ You can also associate multiple healthcare organizations with a healthcare locat
 
 For example, a single ICU room in a hospital might be used by multiple departments, such as cardiology and neurology. You would associate those departments \(Healthcare organizations\) with the ICU room \(a Healthcare location\) using the steps that follow.
 
-For more information, see [Setting up healthcare locations and healthcare organizations](../concept/understanding-healthcare-locations-and-healthcare-organizations.md).
+For more information, see [Setting up healthcare locations and healthcare organizations](understanding-healthcare-locations-and-healthcare-organizations.md).
 
 ## Before you begin
 

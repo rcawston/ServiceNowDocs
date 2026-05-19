@@ -65,8 +65,8 @@ Capture the results in the update set created and later mark the update set as c
 
 **Note:** The given procedure is a suggested practice. Alternatively, you can capture each migrated Change Risk Assessment in their own update set. You can also capture the results of disabling of the Change Management - Risk Assessment \[Legacy\] using `disable_legacy_change_risk_assessment.js` in a separate update set.
 
--   **[Migrated risk assessment components](../reference/migrated-risk-assessment-components.md)**  
+-   **[Migrated risk assessment components](migrated-risk-assessment-components.md)**  
 When you migrate a change risk assessment, the system maps records from legacy risk assessment to the new risk assessment tables.
 
-**Parent Topic:**[Analyze change request risk and impact](../concept/change-risk-conflict-analysis.md)
+**Parent Topic:**[Analyze change request risk and impact](change-risk-conflict-analysis.md)
 

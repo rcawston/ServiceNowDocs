@@ -17,7 +17,7 @@ Enable the fallback root user property to allow AWS SSM discovery to run command
 
 ## Before you begin
 
-Confirm that AWS SSM Agent discovery is enabled. For more information, see [Enable AWS SSM-based discovery](../concept/enable-aws-ssm-based-discovery.md).
+Confirm that AWS SSM Agent discovery is enabled. For more information, see [Enable AWS SSM-based discovery](enable-aws-ssm-based-discovery.md).
 
 Role required: discovery\_admin
 

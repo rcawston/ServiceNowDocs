@@ -51,5 +51,5 @@ Verify that the spoke is integrated with CSD 2.0 after setting up and configurin
         **Note:** You can configure the default flows as per your requirement.
 
 
-**Parent Topic:**[CSD 2.0 for Jamf](../concept/csd2-jamf-tsk.md)
+**Parent Topic:**[CSD 2.0 for Jamf](csd2-jamf-tsk.md)
 

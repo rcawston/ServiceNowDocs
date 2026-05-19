@@ -20,7 +20,7 @@ View an alert group analysis created by ServiceNow® Now Assist using generative
 
 Install the ITOM plugin in the Now Assist feature. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
 
-View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](../concept/now-assist-itom.md).
+View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](now-assist-itom.md).
 
 Role required: evt\_mgmt\_operator
 
@@ -64,10 +64,10 @@ Refresh the alert analysis.**Note:** Refreshing regenerates the results. Past re
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](now-assist-itom-use.md)
 
 **Related topics**  
 
 
-[Viewing an alert group analysis by Now Assist in Express List](../../service-operations-workspace-itom/concept/el-alert-group-analysis.md)
+[Viewing an alert group analysis by Now Assist in Express List](../service-operations-workspace-for-itom-apps/el-alert-group-analysis.md)
 

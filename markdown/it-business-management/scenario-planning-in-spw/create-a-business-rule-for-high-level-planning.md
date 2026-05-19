@@ -99,5 +99,5 @@ Option to enable advanced settings for this business rule.
 
 This task is the end of the series of tasks to enable high-level planning on a table that does not extend the Planning Item \[sn\_align\_planning\_item\] table. After this task is complete, you can notify your planning managers that they can start creating portfolio plans for the configured entity type.
 
-See [Managing portfolio plans in Strategic Planning Workspace](../concept/managing-portfolio-plans-in-alignment-planner-workspace.md).
+See [Managing portfolio plans in Strategic Planning Workspace](managing-portfolio-plans-in-alignment-planner-workspace.md).
 

@@ -69,5 +69,5 @@ Work on a commercial insurance underwriting task to evaluate the policy request 
 -   **[Work on a document task to verify documents for a policy service case](work-document-task-commercial-policy.md)**  
 Work on a document task to manage and track documents \(inbound and outbound\) that are needed for a policy service case.
 
-**Parent Topic:**[Using Commercial Lines Servicing](../concept/using-financial-services-commercial-lines-servicing.md)
+**Parent Topic:**[Using Commercial Lines Servicing](using-financial-services-commercial-lines-servicing.md)
 

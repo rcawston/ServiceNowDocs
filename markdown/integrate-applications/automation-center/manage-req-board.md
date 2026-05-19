@@ -73,7 +73,7 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
         2.  Select the **Add Task** icon.
 
-            The **Create New Automation Task** form is displayed. For more information, see [Automation task form](../reference/automation-task-form.md).
+            The **Create New Automation Task** form is displayed. For more information, see [Automation task form](automation-task-form.md).
 
             Verify that the associated automation request is either in the **Planned** or **In Progress** state.
 
@@ -83,5 +83,5 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 -   **[Run fix script to view demo data on Kanban board](run-fix-scripts.md)**  
 To view automation requests from the demo data in your Kanban board, you must run the fix script.
 
-**Parent Topic:**[Automation Center Kanban board](../concept/kanban.md)
+**Parent Topic:**[Automation Center Kanban board](kanban.md)
 

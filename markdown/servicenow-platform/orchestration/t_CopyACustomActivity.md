@@ -40,5 +40,5 @@ Role required: admin, activity\_admin, activity\_creator
     **Note:** If the activity is in any other scope but global, the system displays this message: `Cannot copy privately scoped activity`.
 
 
-**Parent Topic:**[Orchestration activity designer](../concept/c_WorkflowActivityDesigner.md)
+**Parent Topic:**[Orchestration activity designer](c_WorkflowActivityDesigner.md)
 

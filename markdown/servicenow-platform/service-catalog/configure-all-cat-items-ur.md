@@ -58,5 +58,5 @@ For information about service configurations, see [Service Configuration form](h
     2.  Click **Submit**.
 
 
-**Parent Topic:**[Service Catalog configuration for Universal Request](../concept/ur-catalog-config.md)
+**Parent Topic:**[Service Catalog configuration for Universal Request](ur-catalog-config.md)
 

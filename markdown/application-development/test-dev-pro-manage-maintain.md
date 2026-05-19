@@ -17,7 +17,7 @@ Maintain your ServiceNow apps.
 
 <table id="table_otg_lfd_pvb" class="nav-card"><tbody><tr><td>
 
-[System Update Sets ![System update sets.](../image/icon-update-sets.png) Allow administrators to group a series of changes into a named set and then move them as a unit to other systems for testing or deployment.](../../system-update-sets/concept/system-update-sets.md)
+[System Update Sets ![System update sets.](../image/icon-update-sets.png) Allow administrators to group a series of changes into a named set and then move them as a unit to other systems for testing or deployment.](system-update-sets/system-update-sets.md)
 
 </td><td>
 

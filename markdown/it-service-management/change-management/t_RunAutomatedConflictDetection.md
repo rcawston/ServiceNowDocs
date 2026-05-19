@@ -70,7 +70,7 @@ When selected, runs the following conflict detection scheduled jobs at these int
     You can view the conflicts on the **Conflicts** tab on the change request record.
 
 
-**Parent Topic:**[Conflict detection](../concept/c_ConflictDetection.md)
+**Parent Topic:**[Conflict detection](c_ConflictDetection.md)
 
 **Related topics**  
 
@@ -81,7 +81,7 @@ When selected, runs the following conflict detection scheduled jobs at these int
 
 [Configure a change request to monitor outside maintenance schedule conflicts](monitor-maintenance-schedule.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](change-conflict-calendar.md)
 
 [Detect conflicts manually and review conflict details](t_RunManualConflictDetection.md#)
 

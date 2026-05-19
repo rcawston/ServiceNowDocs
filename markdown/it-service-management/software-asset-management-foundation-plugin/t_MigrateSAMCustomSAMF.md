@@ -71,5 +71,5 @@ Certain fields added by the migration also must be configured to take advantage 
 9.  If you have entitlements that require management of license keys, you can create multiple license keys associated to the same entitlement, as well as allocate these license keys to a user or device.
 
 
-**Parent Topic:**[Software Asset Management Foundation plugin migration](../concept/c_SAMMigrationSAMF.md)
+**Parent Topic:**[Software Asset Management Foundation plugin migration](c_SAMMigrationSAMF.md)
 

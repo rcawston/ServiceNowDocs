@@ -38,5 +38,5 @@ Role required: knowledge\_admin or admin
 
 After you assign an AQI checklist to a knowledge base, you can start [performing AQI reviews](perform-an-aqi.md).
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](use-article-quality-index.md)
 

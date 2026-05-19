@@ -92,12 +92,12 @@ Select the task that you want to reassign to a different contact.
 
 The task is reassigned to the selected contact.
 
-**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
 **Related topics**  
 
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
 [Elevate a contact to the primary contact role from the Supplier Collaboration Portal](elevate-contact-portal.md)
 

@@ -82,24 +82,24 @@ The basic data flow is illustrated in the following figures. In each figure, you
 
 ![Multiple MID servers.](../image/splunk-canvas-multiple-MID.png "Multiple connections to the Splunk enterprise service using multiple MID servers")
 
--   **[Copy Splunk Enterprise Event Ingestion profiles from one instance to another using export/import functionality](../task/export-and-import-splunk-event-profile-data.md)**  
+-   **[Copy Splunk Enterprise Event Ingestion profiles from one instance to another using export/import functionality](export-and-import-splunk-event-profile-data.md)**  
 You can export and import Splunk Enterprise Event Ingestion profiles settings from one ServiceNow AI Platform instance to a different ServiceNow AI Platform instance.
--   **[Copy an event profile for the Splunk Enterprise Event Ingestion integration](../task/splunk-event-ingest-copy-a-profile.md)**  
+-   **[Copy an event profile for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-copy-a-profile.md)**  
 Copy an existing profile and its associated settings instead of creating new profiles. If you're creating multiple profiles, and you want to reuse the settings of an existing profile, you might prefer to copy alarm profiles to save time.
--   **[Set up ServiceNow Event Ingestion Integration add-on](../task/splunk-event-ingest-setup-prereqs.md)**  
+-   **[Set up ServiceNow Event Ingestion Integration add-on](splunk-event-ingest-setup-prereqs.md)**  
 Install and set up the ServiceNow Event Ingestion Integration add-on in your Splunk enterprise console or Splunk Cloud instance.
--   **[Using ServiceNow Event Ingestion Integration add-on](../task/use-v2-addon.md)**  
+-   **[Using ServiceNow Event Ingestion Integration add-on](use-v2-addon.md)**  
 Map alerts from Splunk console to create a Security Incident Response \(SIR\) on the ServiceNow instance.
--   **[Save searches in your Splunk Enterprise console for the Splunk Enterprise Event Ingestion integration](../task/splunk-event-ingest_save_search.md)**  
+-   **[Save searches in your Splunk Enterprise console for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest_save_search.md)**  
 The following steps for saving searches in your Splunk Enterprise console are provided for a user with the Splunk Enterprise administrator role.
--   **[Use the script editor to format alert values for the Splunk Enterprise Event Ingestion integration](../task/splunk-event-ingest_script_editor.md)**  
+-   **[Use the script editor to format alert values for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest_script_editor.md)**  
 Use the script editor to format field values on the security incident during the mapping step.
--   **[Checklist for the Splunk Enterprise Event Ingestion integration](../task/splunk-event-ingest_checklist.md)**  
+-   **[Checklist for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest_checklist.md)**  
 Use this checklist to guide you through all the tasks of the integration. The following checklist includes setup and installation tasks and examples of use cases that include expected results for the integration.
 
 **Parent Topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](splunk-event-ingest-overview.md)
 
-**Previous topic:**[Schedule and retrieve alerts for the Splunk Enterprise Event Ingestion integration](../task/splunk-event-ingest-schedule.md)
+**Previous topic:**[Schedule and retrieve alerts for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-schedule.md)
 
-**Next topic:**[Copy Splunk Enterprise Event Ingestion profiles from one instance to another using export/import functionality](../task/export-and-import-splunk-event-profile-data.md)
+**Next topic:**[Copy Splunk Enterprise Event Ingestion profiles from one instance to another using export/import functionality](export-and-import-splunk-event-profile-data.md)
 

@@ -64,5 +64,5 @@ Role required: sn\_sec\_tisc.analyst
 
 The vendor comment is created and appears in the **Vulnerability Vendor Comments** related list of the vendor record.
 
-**Parent Topic:**[Vulnerability Artifacts](../concept/vulnerability.md)
+**Parent Topic:**[Vulnerability Artifacts](vulnerability.md)
 

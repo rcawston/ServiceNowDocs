@@ -22,5 +22,5 @@ Agents can use the Document Intelligence workspace to review and confirm the ext
 
 ![Document Intelligence workspace showing the extracted information on the document image.](../../document-intelligence/image/na-review-extracted-information.png "Extracted information in the Document Intelligence workspace")
 
-For more information, see [Review extracted information in the Document Intelligence workspace](../../document-intelligence/task/review-extracted-information.md).
+For more information, see [Review extracted information in the Document Intelligence workspace](../now-assist-in-document-intelligence/review-extracted-information.md).
 

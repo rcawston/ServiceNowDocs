@@ -73,5 +73,5 @@ All state flows with field controls or work notes are deleted
 
 [Use state flows](c_UseStateFlows.md)
 
-[Create a state flow](../task/t_CreateAStateFlow.md)
+[Create a state flow](t_CreateAStateFlow.md)
 

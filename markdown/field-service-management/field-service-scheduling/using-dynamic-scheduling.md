@@ -20,7 +20,7 @@ Dynamic scheduling can run in one of two modes: manually or automatically. For m
 **Related topics**  
 
 
-[Dynamic scheduling](dynamic-scheduling.md)
+[Dynamic scheduling](../dynamic-scheduling.md)
 
 [Configuring Dynamic Scheduling](Configure-dynamic-scheduling.md)
 

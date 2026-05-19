@@ -30,11 +30,11 @@ The  ServiceNow® Manufacturing Commercial Operations \(MCO\) enables you to o
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Manufacturing Commercial Operations use cases and components.](../reference/manufacturing-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Manufacturing Commercial Operations use cases and components.](manufacturing-reference.md)
 
 </td><td>
 
-[Data Model![](../../../reuse/icons/brand-icons/bus-database.svg)Framework for workflow integration.](../reference/data-model.md)
+[Data Model![](../../../reuse/icons/brand-icons/bus-database.svg)Framework for workflow integration.](data-model.md)
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ The  ServiceNow® Manufacturing Commercial Operations \(MCO\) enables you to o
 
 </td><td>
 
-[Now Assist for MCO![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for MCO to enhance user productivity and efficiency through conversation and proactive experiences using Now Assist.](../../now-assist-mco/reference/now-assist-for-MCO.md)
+[Now Assist for MCO![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for MCO to enhance user productivity and efficiency through conversation and proactive experiences using Now Assist.](now-assist-for-MCO.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ The  ServiceNow® Manufacturing Commercial Operations \(MCO\) enables you to o
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed at [Manufacturing Commercial Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/manufacturing-commercial-operations-rn.md).
+-   Learn more about what's new and changed at [Manufacturing Commercial Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/manufacturing-commercial-operations-rn.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying Manufacturing Commercial Operations features at [Now Create](https://learning.servicenow.com/nowcreate).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Impact](http://impact.servicenow.com).

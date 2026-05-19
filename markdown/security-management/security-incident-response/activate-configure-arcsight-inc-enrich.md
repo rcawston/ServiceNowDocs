@@ -21,7 +21,7 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [Download the integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the integration from the ServiceNow Store](../download-app-first-time.md).
 
 2.  When the installation is complete, navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
@@ -43,7 +43,7 @@ Role required: sn\_si\_admin
     |Earliest Result \(days\)|The earliest results you want to see in number of days.|
     |Max Rows|The maximum number of rows you want to search.|
     |All Peers|The default is unchecked and searches only the local logger you are connected to. When checked, it searches all the loggers that are connected to one another.|
-    |Include raw data samples in search results|Select this to include samples of raw data in your sightings search results. The amount of data returned depends on your setting in the **number of rows of raw data** property in [Security Incident Response properties](../../../security-incident-response/reference/installed-with-sir.md).|
+    |Include raw data samples in search results|Select this to include samples of raw data in your sightings search results. The amount of data returned depends on your setting in the **number of rows of raw data** property in [Security Incident Response properties](installed-with-sir.md).|
     |MID Server|Select **Any** to use any active MID Server, or select a specific MID Server name.|
 
     **Note:** Configuring this integration activates workflows. To manage the workflows, navigate to the **Workflow Editor**.
@@ -57,5 +57,5 @@ Role required: sn\_si\_admin
 7.  To return to the original list of integration configuration cards, select **No** from the **Show Configurations** drop-down list.
 
 
-**Parent Topic:**[HPE ArcSight Logger - Incident Enrichment integration](../reference/arcsight-logger-landing-page.md)
+**Parent Topic:**[HPE ArcSight Logger - Incident Enrichment integration](arcsight-logger-landing-page.md)
 

@@ -56,5 +56,5 @@ License metric for CrowdStrike that identifies how licenses are measured, billed
 **Related topics**  
 
 
-[View calculations for your licenses in workspace](../task/licenses-required-workspace.md)
+[View calculations for your licenses in workspace](licenses-required-workspace.md)
 

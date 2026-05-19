@@ -55,10 +55,10 @@ Use this plugin to install the Knowledge Management Advanced plugin. Activating 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Component installed with KCS Integration for Incident Management plugin](../reference/installed-with-incident-mgmt.md)**  
+-   **[Component installed with KCS Integration for Incident Management plugin](installed-with-incident-mgmt.md)**  
 The Incident KCS Article table is installed with the activation of the KCS Integration for Incident Management plugin \(com.snc.incident.knowledge\).
 
-**Parent Topic:**[Incident Management plugins](../concept/incident-mgmt-plugins.md)
+**Parent Topic:**[Incident Management plugins](incident-mgmt-plugins.md)
 
 **Related topics**  
 

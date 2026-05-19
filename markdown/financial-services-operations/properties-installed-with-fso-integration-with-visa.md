@@ -37,5 +37,5 @@ Enables or disables integration with the Cardholder Purchase Inquiry API in the 
 -   **Role required**: sn\_bom\_credit\_card.admin
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Operations Integration with Visa reference](../concept/FSO-integration-with-visa-reference.md)
+</table>**Parent Topic:**[Financial Services Operations Integration with Visa reference](FSO-integration-with-visa-reference.md)
 

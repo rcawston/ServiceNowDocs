@@ -27,7 +27,7 @@ The card view displays case information in stacked cards.
 
 Each row in the widget represents a record. You can search, view, sort, and interact with the information presented.
 
-For more information about how to configure the instance options for the Portal Data List widget, see [Add and configure the Portal Data List widget](../task/config-data-list-widget-inst-optns.md).
+For more information about how to configure the instance options for the Portal Data List widget, see [Add and configure the Portal Data List widget](config-data-list-widget-inst-optns.md).
 
 The Data List portal widget can be used in the following scenarios:
 

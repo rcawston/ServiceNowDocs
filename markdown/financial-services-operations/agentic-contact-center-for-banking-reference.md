@@ -14,8 +14,8 @@ breadcrumb: [Agentic Contact Center for Banking, Banking applications, Financial
 
 Learn about the components and properties that are installed with Agentic Contact Center for Banking.
 
--   **[Components installed with Agentic Contact Center for Banking](../reference/components-installed-with-agentic-contact-center-for-banking.md)**  
+-   **[Components installed with Agentic Contact Center for Banking](components-installed-with-agentic-contact-center-for-banking.md)**  
 Learn about the components that are installed with the activation of Agentic Contact Center for Banking.
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 

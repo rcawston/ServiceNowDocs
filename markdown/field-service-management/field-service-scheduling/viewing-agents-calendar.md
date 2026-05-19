@@ -22,7 +22,7 @@ The calendar displays agent information for a selected day, work day, or week. R
 -   Scheduled work start time
 -   Actual work start time
 
-**Note:** No visual indicator appears for the tasks that don't have a specified travel start time. Additionally, **Estimated onsite arrival buffer duration** is considered only when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled and have been added to the task card. For more information, see [Global domain configurations](../../planning-and-policy/task/t_ConfigureFieldService.md).
+**Note:** No visual indicator appears for the tasks that don't have a specified travel start time. Additionally, **Estimated onsite arrival buffer duration** is considered only when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled and have been added to the task card. For more information, see [Global domain configurations](../t_ConfigureFieldService.md).
 
 Resources on the calendar in Dispatcher Workspace are sorted alphabetically by territory, then alphabetically by assignment group within each territory, then alphabetically by resource name within each assignment group. Technicians are grouped together by the assignment group and territory they’re assigned to.
 

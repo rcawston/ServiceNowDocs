@@ -35,7 +35,7 @@ Users with the sn\_customerservice\_manager role can delete a special handling n
 **Related topics**  
 
 
-[Special handling notes](../concept/c_OnScreenAlerts.md)
+[Special handling notes](c_OnScreenAlerts.md)
 
 [Delete a special handling note from a form](t_DeleteAnOnScreenAlertFromForm.md)
 

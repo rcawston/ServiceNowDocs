@@ -134,7 +134,7 @@ Webhook Event
 
 </td><td>
 
-Event that will trigger the webhook. Select one of the supported events. For the list of supported events, see the [Spoke triggers](../concept/jamf-spoke.md#section_ijs_vfb_t3c) section.
+Event that will trigger the webhook. Select one of the supported events. For the list of supported events, see the [Spoke triggers](jamf-spoke.md#section_ijs_vfb_t3c) section.
 
 </td></tr></tbody>
 </table>    For more information about configuring the webhook, see [Configuring a Webhook](https://learn.jamf.com/r/en-US/jamf-pro-documentation-11.15.0/Webhooks) in [Jamf Learning Hub](https://learn.jamf.com/home).

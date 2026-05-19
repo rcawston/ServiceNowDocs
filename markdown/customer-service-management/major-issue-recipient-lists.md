@@ -49,5 +49,5 @@ Refresh a recipients list by selecting **Refresh Recipient List** on the Recipie
 **Related topics**  
 
 
-[Create a recipients list](../task/t_TargetCommCreateRecipientList.md)
+[Create a recipients list](t_TargetCommCreateRecipientList.md)
 

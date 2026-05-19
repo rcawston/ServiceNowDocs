@@ -311,9 +311,9 @@ Use the following related links and lists:
 
 |Field|Description|
 |-----|-----------|
-|PMO Dashboard|Access the [PMO dashboard](../../../use/dashboards/application-content-packs/pmo-dashboard.md) to view comprehensive reports of the projects and demands in the program.|
+|PMO Dashboard|Access the [PMO dashboard](../ppm-collaboration/pmo-dashboard.md) to view comprehensive reports of the projects and demands in the program.|
 |Program Budget|Allows you to [allocate the budget](allocate-budget-to-program.md) to the program.|
-|Program Workbench|Access the [Program workbench](../concept/c_ProgramWorkbench.md) to view details of the projects, demands, and program tasks associated with the program.|
+|Program Workbench|Access the [Program workbench](c_ProgramWorkbench.md) to view details of the projects, demands, and program tasks associated with the program.|
 |Status Report|View the most recent [program status report](view-program-status-report.md) or create a new program status report.|
 
 <table id="table_umz_qqy_fdc"><thead><tr><th>
@@ -338,7 +338,7 @@ Projects
 
 </td><td>
 
-View the list of projects included in the program. To create a new project, click **New**. For more information, see [Define a project](../../project-management/task/t_CreateAProject.md).
+View the list of projects included in the program. To create a new project, click **New**. For more information, see [Define a project](../project-management/t_CreateAProject.md).
 
 To add existing project to the program, click **Edit**.If you want to create parent-child relationships between projects to establish project hierarchies select the parent project in the **Parent** field. This organizes large initiatives into manageable subprojects while maintaining consolidated visibility.
 
@@ -354,7 +354,7 @@ Demands
 
 </td><td>
 
-View the list of demands included in the program. To create a new demand, click **New**. For more information, see [Create a demand](../../planning-and-policy/task/t_CreatingDemands.md).
+View the list of demands included in the program. To create a new demand, click **New**. For more information, see [Create a demand](../demand-management/t_CreatingDemands.md).
 
  To add existing demand to the program, click **Edit**.
 
@@ -416,12 +416,12 @@ Create a program status report periodically to view a status rollup of the proje
 -   **[View program status reports](view-program-status-report.md)**  
 Program status reports provide the up-to-date at-a-glance progress of all the projects in the program in several categories.
 
-**Parent Topic:**[Program Management](../concept/c_ProgramManagement.md)
+**Parent Topic:**[Program Management](c_ProgramManagement.md)
 
 **Related topics**  
 
 
-[Program workbench](../concept/c_ProgramWorkbench.md)
+[Program workbench](c_ProgramWorkbench.md)
 
-[Program Dashboard](../concept/c_ProgramManagerDashboard.md)
+[Program Dashboard](c_ProgramManagerDashboard.md)
 

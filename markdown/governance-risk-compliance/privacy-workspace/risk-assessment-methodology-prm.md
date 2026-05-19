@@ -17,7 +17,7 @@ Risk Assessment Methodology \(RAM\) provides a systematic and repeatable approac
 
 RAM is central to establishing accountability in data handling practices and supports regulatory compliance by embedding risk management into daily operations. It helps privacy and compliance teams to assess data processing risks, identify exposure across systems, and implement timely strategies to reduce those risks. As organizations operate in an increasingly complex regulatory environment, the methodology confirms that risks are evaluated consistently and documented transparently.
 
-For information about configuring your own RAMs, see [Create a Risk Assessment Methodology](../task/create-a-risk-assessment-methodology.md).
+For information about configuring your own RAMs, see [Create a Risk Assessment Methodology](create-a-risk-assessment-methodology.md).
 
 ## Base Risk Assessment Methodologies
 

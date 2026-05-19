@@ -15,5 +15,5 @@ breadcrumb: [Zero Copy Connector for ERP and ERP Semantic Mining glossary, Refer
 
 A remote table is an aggregation of the system of record tables that provide value when gathered in one table. The remote table is the foundation of the model. A candidate can consist of several remote tables.
 
-**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](../../../build/erp-integration/reference/erp-integration-glossary.md)
+**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](erp-integration-glossary.md)
 

@@ -51,5 +51,5 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
     You can view the complete details of the asset including its latitude and longitude.
 
 
-**Parent Topic:**[Structured workflows for Crisis map](../concept/crisis-map-collective-tasks.md)
+**Parent Topic:**[Structured workflows for Crisis map](crisis-map-collective-tasks.md)
 

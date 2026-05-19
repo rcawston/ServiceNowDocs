@@ -44,5 +44,5 @@ Services that you have associated with the provider appear in the Risk intellige
 
 **Important:** The **Order reports** option on the Risk intelligence provider form must be selected for providers to be available for risk intelligence report requests.
 
-**Parent Topic:**[Integrating scores from risk intelligence providers](../concept/tprm-riskintelprvdr-overview.md)
+**Parent Topic:**[Integrating scores from risk intelligence providers](tprm-riskintelprvdr-overview.md)
 

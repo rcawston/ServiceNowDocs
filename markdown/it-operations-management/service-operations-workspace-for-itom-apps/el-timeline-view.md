@@ -45,5 +45,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 **Related topics**  
 
 
-[Exploring chronological data on the alerts in an alert group in Express List](../concept/el-timeline-view-concept.md)
+[Exploring chronological data on the alerts in an alert group in Express List](el-timeline-view-concept.md)
 

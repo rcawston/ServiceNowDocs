@@ -43,7 +43,7 @@ com.snc.pa.dc.keep\_snapshots\_for.frequency
 
 </td><td>
 
-Maximum number of periods prior to today for which lists of records \([snapshots](../concept/performance-analytics-glossary.md#)\) related to a score are collected and kept. The number of periods varies according to the score collection frequency, as follows: daily; weekly; bi-weekly; four weeks; monthly; bi-monthly; quarterly; fiscal quarterly; half-yearly; yearly; fiscal yearly.Snapshots older than this limit are not collected during data collection.
+Maximum number of periods prior to today for which lists of records \([snapshots](performance-analytics-glossary.md#)\) related to a score are collected and kept. The number of periods varies according to the score collection frequency, as follows: daily; weekly; bi-weekly; four weeks; monthly; bi-monthly; quarterly; fiscal quarterly; half-yearly; yearly; fiscal yearly.Snapshots older than this limit are not collected during data collection.
 
  **Note:** This property can be overridden on individual indicators.
 

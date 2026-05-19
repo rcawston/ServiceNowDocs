@@ -318,5 +318,5 @@ HR Integrations Worker Profile
 Staging table for worker profiles, effective worker profiles, and future worker profiles.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate HR Integrations](../task/activate-hr-integrations.md)
+</table>**Parent Topic:**[Activate HR Integrations](activate-hr-integrations.md)
 

@@ -39,18 +39,18 @@ A scorecard displays charts for survey results, in which category and question r
     -   History: Displays the result of all questions in comparison with their history \(by calendar year or quarters\).
     -   Sentiment Analysis Results: Displays the results of sentiment analysis for the survey.
 
--   **[Survey scorecard category results](../reference/r_SurveyScorecardCategoryResults.md)**  
+-   **[Survey scorecard category results](r_SurveyScorecardCategoryResults.md)**  
 The Category Results view is a stacked bar chart showing survey results for all questions in an individual category or all categories by respondent count.
--   **[Survey scorecard question results](../reference/r_SurveyScorecardQuestionResults.md)**  
+-   **[Survey scorecard question results](r_SurveyScorecardQuestionResults.md)**  
 The Question Results filter displays the result of all questions or an individual question using charts or lists. For the String, Attachment, Date, Date/time, Reference, and Ranking data types, the results are displayed in the list view. The results of all other data types are displayed in the pie chart view.
--   **[Survey scorecard average ratings](../reference/r_SurveyScorecardAverageRatings.md)**  
+-   **[Survey scorecard average ratings](r_SurveyScorecardAverageRatings.md)**  
 The Average Ratings view displays the weighted average rating for each survey question in an individual category or all categories.
--   **[Survey scorecard history](../reference/r_SurveyScorecardHistory.md)**  
+-   **[Survey scorecard history](r_SurveyScorecardHistory.md)**  
 The History view compares the current ratings for the categories and their questions with ratings from the previous three years or four quarters.
 -   **[Export a survey scorecard as an image](t_ExportAScorecardAsAnImage.md)**  
 You can export a scorecard as an image to use in presentations or other documents.
 
-**Parent Topic:**[Survey responses and results](../concept/c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](c_SurveyResults.md)
 
 **Related topics**  
 
@@ -59,11 +59,11 @@ You can export a scorecard as an image to use in presentations or other document
 
 [View the results for a survey](t_ViewResultsForASpecificSurvey.md)
 
-[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)
+[Export a quiz scorecard as an image](t_ExportAQuizScorecard.md)
 
 [Request translations for surveys](request-translations-for-surveys.md)
 
 [Edit translations for surveys](edit-translations-for-surveys.md)
 
-[Survey responses in a database view](../concept/survey-result-database-view.md)
+[Survey responses in a database view](survey-result-database-view.md)
 

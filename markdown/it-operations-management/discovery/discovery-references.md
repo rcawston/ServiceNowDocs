@@ -17,9 +17,9 @@ Reference topics provide additional information about Discovery lists and forms.
 
 -   **[Cloud Discovery reference](cloud-discovery-reference.md)**  
 Reference topics provide additional information about the lists, forms, and cloud settings used in Cloud Discovery.
--   **[Command Validation Tasks form for pattern-based discovery](../../it-operations-management/reference/command-validation-reference.md)**  
+-   **[Command Validation Tasks form for pattern-based discovery](command-validation-reference.md)**  
 **Command Validation Tasks** form displays the fields that you must fill when you create or modify a task for testing a pattern command.
--   **[Command List form for pattern-based discovery](../../it-operations-management/reference/commands-list-discovery.md)**  
+-   **[Command List form for pattern-based discovery](commands-list-discovery.md)**  
 The **Command List** form contains all commands used in discovery by infrastructure or application type patterns.
 -   **[Discovery log details](discovery-log.md)**  
 Discovery logs contain information on the horizontal discovery process based on probes and patterns.
@@ -31,9 +31,9 @@ The Create a new discovery schedule form displays information related to the sch
 Reference topics provide additional information about the lists, forms, and settings used in Discovery Admin Workspace.
 -   **[Queue Registration form reference](r_QueueRegistrationForm.md)**  
 The Queue Registration form displays the fields available when creating or modifying a queue.
--   **[Quick start test for IP Discovery](../../../administer/atf-quick-start-tests/reference/quick-start-tests-ip-discovery.md)**  
+-   **[Quick start test for IP Discovery](quick-start-tests-ip-discovery.md)**  
 Quick start test for IP discovery validate configuration items \(CI\) and their relationships.
--   **[Tracked Configuration file form](../../service-mapping/reference/tracked-configuration-file-form.md)**  
+-   **[Tracked Configuration file form](tracked-configuration-file-form.md)**  
 The Tracked Configuration file form displays details about a specific configuration file.
 
 **Parent Topic:**[Discovery](r-discovery.md)

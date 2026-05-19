@@ -148,9 +148,9 @@ The time at which the scheduled job should be imported. For example: 10:30:00
 </table>10. Select **Execute Now**.
 
 
-**Parent Topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for badging data](setup-workplace-connectors.md)
 
-**Previous topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Previous topic:**[Setup Workplace Connectors for badging data](setup-workplace-connectors.md)
 
 **Next topic:**[Create a badging data provider](wsd-connector-badging-providers.md)
 

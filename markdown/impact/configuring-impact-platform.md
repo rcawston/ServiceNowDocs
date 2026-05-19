@@ -23,25 +23,25 @@ Automated registration, the preferred method, initiates the connection and the r
 
 Follow the individual topics for each step of the Impact Guided setup.
 
-1.  [Install the Impact Store Application from the ServiceNow Store](../task/install-impact-innovation-lab.md)  
+1.  [Install the Impact Store Application from the ServiceNow Store](install-impact-innovation-lab.md)  
 Follow these instructions to install the Impact Store Application.
-2.  [Use Guided Setup for Impact Store Application configuration](../task/guided-setup-impact-in-app.md)  
+2.  [Use Guided Setup for Impact Store Application configuration](guided-setup-impact-in-app.md)  
 Use Impact Guided Setup to follow a sequence of tasks that help you configure the Impact Store Application on your ServiceNow instance.
-3.  [Use Guided Setup to onboard users to the Impact Store Application](../task/onboard_users_impact_store_application.md)  
+3.  [Use Guided Setup to onboard users to the Impact Store Application](onboard_users_impact_store_application.md)  
 Onboard new and existing users to the Impact Store Application.
-4.  [Assign users to Platform Health groups](../task/assign-users-scan-engine-groups.md)  
+4.  [Assign users to Platform Health groups](assign-users-scan-engine-groups.md)  
 In addition to assigning Impact users to groups, Platform Health users must also be part of a group for the Scan Engine feature.
-5.  [Activate Scan Engine and review settings](../task/configure-initial-scan-engine-settings.md)  
+5.  [Activate Scan Engine and review settings](configure-initial-scan-engine-settings.md)  
 Use Impact Guided Setup to set up the minimum required configuration options in order to run the first system scan.
-6.  [Run your first scan with the Scan Engine](../task/run-scan-engine.md)  
+6.  [Run your first scan with the Scan Engine](run-scan-engine.md)  
 An initial full Scan Engine completion is required to set a baseline from a series of tasks performed that tune the instance environment to complete future scans quickly and efficiently.
-7.  [Use automated registration to connect to the Impact Delivery Instance](../task/start-automated-registration-IDI.md)  
+7.  [Use automated registration to connect to the Impact Delivery Instance](start-automated-registration-IDI.md)  
 The automated registration process simplifies the configuration process and connects your Impact Store Application with data from the Impact Delivery Instance.
-8.  [Verify Impact data connection](../task/verify-impact-data-connection.md)  
+8.  [Verify Impact data connection](verify-impact-data-connection.md)  
 During Impact Guided Setup automated registration, a status is provided to indicate a successful connection. Use the Verify the Connection step to track the progress.
-9.  [Initiate data migration from IDI](../task/initiate-migration-idi.md)  
+9.  [Initiate data migration from IDI](initiate-migration-idi.md)  
 After the connection is established between your Impact Store Application and the Impact Delivery Instance, next migrate your data.
-10. [Grant temporary instance access to your Impact Squad](../task/hop-access-impact-squad.md)  
+10. [Grant temporary instance access to your Impact Squad](hop-access-impact-squad.md)  
 Familiarize yourself with your ServiceNow Impact Squad, a dedicated team of experts ready to assist in tackling your team's unique transformation challenges. View or grant your Impact squad 30 day read-only access to your instance to support you with Impact features.
 
 **Parent Topic:**[Configuring Impact](configuring-impact.md)

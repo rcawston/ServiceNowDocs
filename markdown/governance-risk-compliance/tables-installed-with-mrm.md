@@ -114,5 +114,5 @@ Model risk score
 Stores the scores calculated by the execution of model risk scoring configurations whenever a Smart Assessment is submitted and the assessment task is completed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Model Risk Management reference](../concept/mrm-reference.md)
+</table>**Parent Topic:**[Model Risk Management reference](mrm-reference.md)
 

@@ -46,5 +46,5 @@ Sometimes, you might have a formula saved in a spreadsheet that you want to incl
 
 The calculated metric definition becomes available with the formula in the list of all the metric definitions.
 
-**Parent Topic:**[Formula building in a calculated metric definition](../concept/formula-building-at-metric-definition-and-entity-level.md)
+**Parent Topic:**[Formula building in a calculated metric definition](formula-building-at-metric-definition-and-entity-level.md)
 

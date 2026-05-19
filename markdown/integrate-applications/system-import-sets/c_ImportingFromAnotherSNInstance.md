@@ -35,8 +35,8 @@ The system offers the following processes to move data from one instance to anot
 You can directly export records as XML from any list or form.
 -   **[Using XML import sets](c_XMLImportSets.md)**  
 Use an XML import set to import data from another instance.
--   **[Retrieving data from a CSV formatted file](../task/t_RetrieveDataFromACSVFormatFile.md)**  
+-   **[Retrieving data from a CSV formatted file](t_RetrieveDataFromACSVFormatFile.md)**  
 In this method, you import data from another instance using an HTTPS data source to return a CSV formatted file containing the rows to be imported.
 
-**Parent Topic:**[Import sets](../reference/import-sets-landing-page.md)
+**Parent Topic:**[Import sets](import-sets-landing-page.md)
 

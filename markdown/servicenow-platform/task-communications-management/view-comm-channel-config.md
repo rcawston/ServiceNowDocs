@@ -35,5 +35,5 @@ Role required: sn\_comm\_management.comm\_plan\_admin or admin
     |Classification|\[Read only\] Internally used to group the channels between conference or major incident management workbench.|
 
 
-**Parent Topic:**[Working with Task Communications Management](../concept/working-with-tcm.md)
+**Parent Topic:**[Working with Task Communications Management](working-with-tcm.md)
 

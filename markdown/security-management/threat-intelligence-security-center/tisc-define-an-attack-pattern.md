@@ -247,5 +247,5 @@ You can now click any of the following related lists to view additional informat
 3.  Also, use the **Related Records** section from the objects form view to confirm the relationships between two Objects using the **Potential Relationships** section available on the form view. For more information on see, [Confirm Potential Relationships from Related Records](confirm-potential-relationships.md).
 4.  You can add objects to cases. For more information, see [Add to Case](add-to-case.md).
 
-**Parent Topic:**[Attack Patterns](../concept/tisc-attack-patterns.md)
+**Parent Topic:**[Attack Patterns](tisc-attack-patterns.md)
 

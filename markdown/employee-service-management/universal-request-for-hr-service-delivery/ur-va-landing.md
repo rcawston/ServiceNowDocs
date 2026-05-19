@@ -35,9 +35,9 @@ Virtual Agent uses predefined topic conversations to interact with employees. Th
 
 These topic conversations are available in all supported Universal Request Virtual Agent messaging integrations.
 
--   **[Create a universal request using Virtual Agent](../task/ur-create-ur-using-va.md)**  
+-   **[Create a universal request using Virtual Agent](ur-create-ur-using-va.md)**  
 Create a universal request with the help of Virtual Agent. You can access the Virtual Agent using the chat option in the search page of Service Portal.
--   **[Update or cancel a universal request using Virtual Agent](../task/ur-cancel-ur-using-va.md)**  
+-   **[Update or cancel a universal request using Virtual Agent](ur-cancel-ur-using-va.md)**  
 Update or cancel a universal request with the help of the Virtual Agent in the chat option.
 -   **[Universal Request Virtual Agent conversation flows](ur-va-conversation-flows.md)**  
 Universal Request Virtual Agent includes several predefined topic conversations that you can use to resolve common tasks on your universal requests.

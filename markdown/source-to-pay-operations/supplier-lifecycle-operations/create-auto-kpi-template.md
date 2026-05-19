@@ -248,14 +248,14 @@ An automated KPI template is created. This KPI is activated only when the follow
 -   At least two active thresholds are added
 -   One of those thresholds is marked as target
 
-**Parent Topic:**[KPI templates](../concept/kpi-templates.md)
+**Parent Topic:**[KPI templates](kpi-templates.md)
 
 **Related topics**  
 
 
 [Create KPI thresholds](create-kpi-threshold.md)
 
-[Create KPI units](../concept/create-kpi-units.md)
+[Create KPI units](create-kpi-units.md)
 
-[Create KPI performance domains](../concept/create-kpi-domain.md)
+[Create KPI performance domains](create-kpi-domain.md)
 

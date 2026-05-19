@@ -67,7 +67,7 @@ There are two ways to locate child tables of a scheduled job; either by running 
 **Related topics**  
 
 
-[Scheduled jobs](../../reference-pages/concept/c_ScheduledJobs.md)
+[Scheduled jobs](c_ScheduledJobs.md)
 
 [Create a scheduled job](t_CreateAScheduledJob.md)
 

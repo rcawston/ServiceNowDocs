@@ -42,7 +42,7 @@ Role required: sn\_apm.apm\_user
 
 The record version is submitted for the approval to an Enterprise Architect. An email notification is sent to the approver.
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 

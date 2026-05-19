@@ -17,7 +17,7 @@ Your employees and business users within your company can self-identify an issue
 
 ## Before you begin
 
-You must download the GRC: Advanced Core application before you can use the Issue Triage featuring within Policy and Compliance Management. For more information, see [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+You must download the GRC: Advanced Core application before you can use the Issue Triage featuring within Policy and Compliance Management. For more information, see [Download a GRC application from the ServiceNow Store for the first time](../download-grc-first-time.md).
 
 Role required: sn\_compliance.user, sn\_grc.business\_user
 
@@ -61,5 +61,5 @@ There are multiple methods you can use to report an issue using the Service Port
 -   **[Triage a self-identified issue](triage-issue.md)**  
 After an issue has been identified and submitted by employees or business users via the Service Portal, the issue triage process begins. The actual problem is identified and assigned to the appropriate owner for prioritization and resolution.
 
-**Parent Topic:**[Manage issues in Policy and Compliance Management](../concept/manage-issues.md)
+**Parent Topic:**[Manage issues in Policy and Compliance Management](manage-issues.md)
 

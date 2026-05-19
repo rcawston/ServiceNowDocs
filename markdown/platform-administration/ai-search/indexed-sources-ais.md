@@ -15,7 +15,7 @@ breadcrumb: [Configuring AI Search, AI Search, Search administration, Configure 
 
 Indexed sources designate ServiceNow AI Platform® tables and external document sets with alphanumeric text and string field content that you want to make searchable. AI Search ingests text and string fields from table records or external documents and stores their searchable alphanumeric content in its search index.
 
-For instructions on creating an indexed source, see [Create an indexed source](../task/create-indexed-source-ais.md).
+For instructions on creating an indexed source, see [Create an indexed source](create-indexed-source-ais.md).
 
 ## Indexed source types
 
@@ -25,7 +25,7 @@ AI Search supports the following indexed source types.
 
     An internal indexed source retrieves alphanumeric content and metadata from text and string fields on ServiceNow AI Platform records. It includes a unique name and a reference to a ServiceNow AI Platform table with records that you want to make searchable. AI Search extracts and indexes searchable alphanumeric content and metadata from text and string fields on records in this table and in any of its child tables that you configure for indexing.
 
-    AI Search excludes some ServiceNow AI Platform tables from indexing. You can't define indexed sources for these excluded tables or their derived tables. For a list of excluded tables, see [ServiceNow AI Platform tables excluded from AI Search indexing](../reference/excluded-tables-ais.md).
+    AI Search excludes some ServiceNow AI Platform tables from indexing. You can't define indexed sources for these excluded tables or their derived tables. For a list of excluded tables, see [ServiceNow AI Platform tables excluded from AI Search indexing](excluded-tables-ais.md).
 
     You can't index [remote tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/remote-tables.md) with internal indexed sources. To index content from a remote table, create an external indexed source.
 
@@ -54,7 +54,7 @@ Once you define an indexed source, AI Search begins automatically indexing to re
 
 ## Indexing content from knowledge articles
 
-When indexing content from records in the Knowledge \[kb\_knowledge\] table, AI Search defaults to including content defined in knowledge blocks. Administrators can override this default behavior and configure AI Search to exclude content from knowledge blocks when indexing knowledge articles. For details on making this change, see [Exclude knowledge block content from the AI Search index](../task/exclude-know-blocks-ais-index.md).
+When indexing content from records in the Knowledge \[kb\_knowledge\] table, AI Search defaults to including content defined in knowledge blocks. Administrators can override this default behavior and configure AI Search to exclude content from knowledge blocks when indexing knowledge articles. For details on making this change, see [Exclude knowledge block content from the AI Search index](exclude-know-blocks-ais-index.md).
 
 ## Multiple indexed sources for the same ServiceNow AI Platform table
 
@@ -62,7 +62,7 @@ You can't create more than one indexed source for a single ServiceNow AI Platfor
 
 **Note:** Only one indexed source can be active at a time for a given ServiceNow AI Platform table. The system makes duplicate indexed sources for a table inactive by default. Before you can make one of these duplicate sources active, you must edit the currently active source and make it inactive. AI Search only indexes content and metadata from active indexed sources.
 
--   **[Create an indexed source](../task/create-indexed-source-ais.md)**  
+-   **[Create an indexed source](create-indexed-source-ais.md)**  
 Define an indexed source to make content and metadata from ServiceNow AI Platform® table records searchable using AI Search.
 -   **[Indexed source retention policies and filter conditions](retention-policies-conditions-ais.md)**  
 AI Search uses settings to automatically purge stale records from the index and optimize search performance. To limit the set of records indexed from source tables, you can configure retention policies and filter conditions for your indexed sources.
@@ -70,9 +70,9 @@ AI Search uses settings to automatically purge stale records from the index and 
 Reduce index size and increase search performance with guardrails that limit the number of task and alert source records indexed from indexed sources.
 -   **[Semantic index configuration for indexed sources](semantic-index-cfg-ais.md)**  
 The AI Search generalized RAG \(Retrieval-Augmented Generation\) framework offers a streamlined way to configure semantic indexing settings for records indexed from ServiceNow AI Platform® tables.
--   **[Exclude knowledge block content from the AI Search index](../task/exclude-know-blocks-ais-index.md)**  
+-   **[Exclude knowledge block content from the AI Search index](exclude-know-blocks-ais-index.md)**  
 Prevent AI Search from indexing content found in your knowledge blocks.
--   **[Activate indexing of catalog variable content on Catalog Item records](../task/activate-catalog-variable-indexing.md)**  
+-   **[Activate indexing of catalog variable content on Catalog Item records](activate-catalog-variable-indexing.md)**  
 Activate indexing of searchable content from variables on Catalog Item records. Configure the set of Catalog Items eligible for catalog variable indexing and the set of variables to index.
 -   **[Indexed source attributes for AI Search](indexed-source-attributes-ais.md)**  
 An indexed source attribute defines indexing behavior for all records from an indexed source.

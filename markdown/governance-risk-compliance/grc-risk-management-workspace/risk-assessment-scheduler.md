@@ -33,5 +33,5 @@ The following figure shows the states, the descriptions, and the expected outcom
 **Related topics**  
 
 
-[Schedule risk assessments in the Risk Workspace](../../grc-workspace-risk/task/schedule-risk-assessment-workspace.md)
+[Schedule risk assessments in the Risk Workspace](schedule-risk-assessment-workspace.md)
 

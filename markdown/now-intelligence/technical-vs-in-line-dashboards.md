@@ -108,12 +108,12 @@ Can specify dashboard details, including exposing the dashboard in other experie
 Same as dashboards created inline.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Technical dashboards](../concept/technical-dashboards.md)
+</table>**Parent Topic:**[Technical dashboards](technical-dashboards.md)
 
 **Related topics**  
 
 
-[Create a filter on a technical dashboard in UI Builder](../../par-for-workspace/task/add-filter-tech-dashboard.md)
+[Create a filter on a technical dashboard in UI Builder](add-filter-tech-dashboard.md)
 
-[Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md)
+[Chart interactions in a data visualization](dv-chart-interactions.md)
 

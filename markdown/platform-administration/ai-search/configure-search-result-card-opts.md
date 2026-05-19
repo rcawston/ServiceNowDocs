@@ -41,7 +41,7 @@ String fields on Search Result EVAM cards can be populated with literal text or 
 
 5.  In the Template field, edit the JSON for the Search Result card properties you want to customize.
 
-    For details on available properties and their supported values, see [List of Search Result EVAM card properties](../reference/search-result-evam-card-opts.md).
+    For details on available properties and their supported values, see [List of Search Result EVAM card properties](search-result-evam-card-opts.md).
 
 6.  Select **Update**.
 
@@ -50,8 +50,8 @@ String fields on Search Result EVAM cards can be populated with literal text or 
 
 Changes made to Search Result EVAM card settings take effect immediately in AI Search applications.
 
--   **[List of Search Result EVAM card properties](../reference/search-result-evam-card-opts.md)**  
+-   **[List of Search Result EVAM card properties](search-result-evam-card-opts.md)**  
 You can customize the appearance of standard search results in your AI Search application by changing these properties in the application's Search Result EVAM \(Entity View Action Mapping\) cards.
 
-**Parent Topic:**[Configuring AI Search](../concept/configuring-ais.md)
+**Parent Topic:**[Configuring AI Search](configuring-ais.md)
 

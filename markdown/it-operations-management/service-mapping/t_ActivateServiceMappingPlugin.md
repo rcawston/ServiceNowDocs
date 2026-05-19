@@ -94,5 +94,5 @@ Select the date and time to activate the plugin.
 **Related topics**  
 
 
-[Credentials required for host discovery](../reference/r_Credentials4HostDiscovery.md)
+[Credentials required for host discovery](r_Credentials4HostDiscovery.md)
 

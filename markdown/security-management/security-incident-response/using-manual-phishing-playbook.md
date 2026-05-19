@@ -44,5 +44,5 @@ Role required: sn\_si.admin or sn\_si.manager or sn\_si.analyst
 7.  If there’s any remaining activity or user action required in any of the phases, select the respective phase and perform the action to complete the activity.
 
 
-**Parent Topic:**[Playbook for Manual Phishing](../concept/playbook-manual-phishing.md)
+**Parent Topic:**[Playbook for Manual Phishing](playbook-manual-phishing.md)
 

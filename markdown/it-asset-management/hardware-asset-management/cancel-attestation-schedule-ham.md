@@ -42,5 +42,5 @@ You can only cancel an asset attestation schedule that's in the Ready or In prog
 
 The state of the attestation schedule changes to Canceled.
 
-**Parent Topic:**[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+**Parent Topic:**[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
 

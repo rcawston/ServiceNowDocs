@@ -42,5 +42,5 @@ Role required: firewall\_admin
     -   State is Closed Complete
     -   Update before Last 12 months
 
-**Parent Topic:**[Visibility to Firewall inventory](../concept/use-firewall-audit-rep.md)
+**Parent Topic:**[Visibility to Firewall inventory](use-firewall-audit-rep.md)
 

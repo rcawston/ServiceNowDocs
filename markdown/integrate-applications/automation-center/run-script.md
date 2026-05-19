@@ -42,5 +42,5 @@ Role required: admin
     -   Records Skipped — the number of records that did not meet processing criteria.
     -   Errors — any errors encountered during execution. Investigate and resolve before re-running the script if errors are present.
 
-**Parent Topic:**[Using Now Assist for Automation Center](../concept/use-now-assist.md)
+**Parent Topic:**[Using Now Assist for Automation Center](use-now-assist.md)
 

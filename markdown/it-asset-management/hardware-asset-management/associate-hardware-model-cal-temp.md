@@ -40,5 +40,5 @@ Role required: asset
 
 The list of lifecycle phases with details such as Phase start date, Phase end date, and Source is displayed in the Model Lifecycles tab.
 
-**Parent Topic:**[Manage the lifecycle of hardware models with calculated lifecycle templates](../concept/manage-ham-lifecycle-temp.md)
+**Parent Topic:**[Manage the lifecycle of hardware models with calculated lifecycle templates](manage-ham-lifecycle-temp.md)
 

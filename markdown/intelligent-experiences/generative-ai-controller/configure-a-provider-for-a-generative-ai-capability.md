@@ -17,7 +17,7 @@ Determine which AI provider to use for each of the generative AI capabilities of
 
 ## Before you begin
 
-Configure your credentials for your preferred provider. See [Configuring API credentials for generative AI capabilities](../concept/configuring-api-credentials-for-generative-ai-capabilities.md) for more details.
+Configure your credentials for your preferred provider. See [Configuring API credentials for generative AI capabilities](configuring-api-credentials-for-generative-ai-capabilities.md) for more details.
 
 Role required: admin
 
@@ -153,7 +153,7 @@ Flows, topics, and scripts that use the generative AI capability use the provide
 **Related topics**  
 
 
-[Bring your own key for third-party AI provider integration](../concept/byok-for-azure-open-ai.md)
+[Bring your own key for third-party AI provider integration](byok-for-azure-open-ai.md)
 
 [Configure a custom resource path for BYOK models](configure-custom-resource-path-byok.md)
 

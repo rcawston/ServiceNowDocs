@@ -33,5 +33,5 @@ Role required: sn\_ta\_hiring\_core.admin
 
 You have set the performance analytics jobs to create a flow of daily data updates of the job requisitions by their states.
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](config-recruitment.md)
 

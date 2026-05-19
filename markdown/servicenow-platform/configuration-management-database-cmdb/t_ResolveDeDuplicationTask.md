@@ -27,7 +27,7 @@ Alternatively, you can use de-duplication capabilities in CMDB Workspaceor in Se
 -   Process de-duplication tasks in bulk by using de-duplication templates
 -   Gain insights into de-duplication counts and status in your organization
 
-For more information, see [CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](../concept/dedup-ci-exp-cmdb-workspace.md).
+For more information, see [CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](dedup-ci-exp-cmdb-workspace.md).
 
 If a duplicate CI is a dependent CI, then you can view the details of the dependent relationship, the Depend on CI, and any relation qualifier chain. If the dependent CI has a lookup table, then you can see the details of the respective lookup table.
 
@@ -146,12 +146,12 @@ Discovery method used for the CI.
 
 Analyze de-duplication tasks to determine which CIs should remain active and which of the duplicate CIs in the Duplicate Audit Results lists are stale or incorrect. Select **Remediate** to [remediate a single de-duplication task](reconcile-dup-task.md).
 
-**Parent Topic:**[Duplicate CIs remediation](../concept/de-duplication-tasks.md)
+**Parent Topic:**[Duplicate CIs remediation](de-duplication-tasks.md)
 
 **Related topics**  
 
 
-[Relation qualifier](../concept/c_RelationQualifier.md)
+[Relation qualifier](c_RelationQualifier.md)
 
 [Document ID field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatingADocumentIDField.md)
 

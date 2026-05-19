@@ -25,9 +25,9 @@ Machine identities are digital identities that interact with systems and data. T
 
 </td><td>
 
-[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/activate-machine-identity-console.md)
+[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](activate-machine-identity-console.md)
 
- [Understand how to Activate Machine Identity Console.](../task/activate-machine-identity-console.md)
+ [Understand how to Activate Machine Identity Console.](activate-machine-identity-console.md)
 
 </td><td>
 

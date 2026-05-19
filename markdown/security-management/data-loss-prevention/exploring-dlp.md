@@ -30,6 +30,6 @@ Use this section to learn about the key features, various roles involved in work
 
 -   **[DLP Incident Response overview](understanding-data-loss-prevention.md)**  
 Learn how you can use the ServiceNow AI Platform and the Data Loss Prevention Incident Response \(DLP IR\) application. Manage sensitive information for your customers, such as the financial and proprietary data, health records, or social security numbers. Automate the remediation workflows with the DLP Incident Response application.
--   **[Get started with DLP Incident Response](../reference/get-started-with-dlp.md)**  
+-   **[Get started with DLP Incident Response](get-started-with-dlp.md)**  
 Review the following information before you start setting up your Data Loss Prevention Incident Response \(DLP IR\) application.
 

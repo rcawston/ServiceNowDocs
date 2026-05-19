@@ -19,7 +19,7 @@ At a minimum, you need to create the app, and then add and customize a form, whi
 
 Building your first app is a good way to understand how Creator Studio enables easy app creation.
 
-For a more thorough tutorial where you build a gift card request app, see [Creator Studio tutorial](../concept/creator-studio-tutorial-landing.md#).
+For a more thorough tutorial where you build a gift card request app, see [Creator Studio tutorial](creator-studio-tutorial-landing.md#).
 
 Your system administrator must add you to the Creator Studio Users group.
 
@@ -51,7 +51,7 @@ Video on how to create an app
 
     ![Select the Create app button](../image/crs-create-app-button-search.png "Create app button")
 
-    -   If you're a system administrator, you can read more about this topic in [Application collaboration](../../applications/concept/application-collaboration.md).
+    -   If you're a system administrator, you can read more about this topic in [Application collaboration](../application-collaboration.md).
     -   If you want to know how to request an admin to create the app for you, check out [Ask an admin to create an app for you in Creator Studio](creator-studio-request-app-added.md).
 3.  Select the type of app you want to build, such as **Service Desk**.
 
@@ -98,7 +98,7 @@ Your system administrator must add you to the Creator Studio Users group.
 
 3.  Choose how you want to build the form:
 
-    -   To use Now Assist, stay on the **Build with Now Assist** tab and enter directions for the form you want. To learn more, see [Generating forms with Now Assist](../concept/creator-studio-text-to-form.md).
+    -   To use Now Assist, stay on the **Build with Now Assist** tab and enter directions for the form you want. To learn more, see [Generating forms with Now Assist](creator-studio-text-to-form.md).
 
         **Note:** You can select **Try an example** to see some examples of the available directions. To see a quick mock up of what the form will look like, select the **generate form preview** button. If you want a different form, change the provided direction and select **Regenerate preview** for a quick look.
 
@@ -110,7 +110,7 @@ Your system administrator must add you to the Creator Studio Users group.
         |Short description|Some information on what the form is used for.|
         |Long description|Additional details for the form. You can include content like images and links to other sources of information \(for example, a knowledge base article\).|
 
-    If you don't see the option to **Build with Now Assist** tab, you need to check with your admin. To install Now Assist for Form generation, see [Configuring form generation in Creator Studio](../concept/creator-studio-configure-now-assist.md).
+    If you don't see the option to **Build with Now Assist** tab, you need to check with your admin. To install Now Assist for Form generation, see [Configuring form generation in Creator Studio](creator-studio-configure-now-assist.md).
 
 4.  Select **Save and edit form**.
 
@@ -141,7 +141,7 @@ Your system administrator must add you to the Creator Studio Users group.
 
     ![Entering details for a question on a form](../image/crs-form-questions-sets-dynamic-update.png "Form question details")
 
-3.  Make the form's appearance change based on how users answer questions by adding [dynamic behavior](../concept/creator-studio-glossary.md#) to it on the **Behaviors** tab.
+3.  Make the form's appearance change based on how users answer questions by adding [dynamic behavior](creator-studio-glossary.md#) to it on the **Behaviors** tab.
 
     For example, if a user says they want a T-shirt for an event they're attending, you can make a **T-shirt size** field required. Get the details on adding dynamic in [Make a form change based on responses in Creator Studio](creator-studio-dynamic-behavior.md).
 
@@ -182,7 +182,7 @@ Field in the source table for the record choices question that contains the valu
 
     You can also add questions by selecting the add icon \(+\) that appears when you click on an existing question on the form. If you're adding a pre-configured **Question set**, you must select the question set from the modal that appears when you drag it onto the form.
 
-    For a description of question types and how they're used, see [Available question types in Creator Studio](../reference/creator-studio-form-elements-ref.md).
+    For a description of question types and how they're used, see [Available question types in Creator Studio](creator-studio-form-elements-ref.md).
 
 7.  Change a question type by selecting the question and then choosing the new question type in the **Content type** field of the Question details panel.
 
@@ -204,7 +204,7 @@ Field in the source table for the record choices question that contains the valu
 
         ![Hover over the section name to edit it](../image/crs-section-edit-hover.png "Selecting a section")
 
-        For more information, see [Layout options for forms in Creator Studio](../reference/creator-studio-form-layout-options.md).
+        For more information, see [Layout options for forms in Creator Studio](creator-studio-form-layout-options.md).
 
     3.  Select **Save** in the Section details/Question details panel when you’re done revising the form’s layout.
 
@@ -276,7 +276,7 @@ Your system administrator must add you to the Creator Studio Users group.
         -   **For every update**
     3.  Specify the conditions that must be met for the playbook to begin running by selecting **Add conditions**.
 
-        -   If you want to trigger the playbook based on the value of a column in a table, select the **[Field](../concept/creator-studio-glossary.md#)** that you want to be the trigger, as well as its condition **Operator** and the specific trigger **Value**. For example, when a **Start date** is **after** the **Date** needed.
+        -   If you want to trigger the playbook based on the value of a column in a table, select the **[Field](creator-studio-glossary.md#)** that you want to be the trigger, as well as its condition **Operator** and the specific trigger **Value**. For example, when a **Start date** is **after** the **Date** needed.
         -   If you want to trigger the playbook based on the response from a form, select **Questions** as the trigger **Field**. Then select the question you want in the **Question** field, the condition **Operator** and the answer's **Value**.
 
             ![Use a specific answer to a form's question as trigger](../image/crs-trigger-question-answer.png "Question answer as trigger for an automation")
@@ -300,7 +300,7 @@ Your system administrator must add you to the Creator Studio Users group.
 
 ### About this task
 
-If you want to include an if/then statement to define circumstances for the [activity](../concept/creator-studio-glossary.md#), add a decision. See [Add a decision to an app's playbook in Creator Studio](creator-studio-add-decision-automation.md) for details.
+If you want to include an if/then statement to define circumstances for the [activity](creator-studio-glossary.md#), add a decision. See [Add a decision to an app's playbook in Creator Studio](creator-studio-add-decision-automation.md) for details.
 
 ### Procedure
 
@@ -443,18 +443,18 @@ New version
 
 </td><td>
 
-[Version number](../concept/creator-studio-glossary.md#) of the app you're requesting for deployment. Creator Studio automatically generates an updated version number, but you can change it.Follow your organization's versioning guidelines, or use the x.y.z format, where x = major update, y = minor update, and z = patch.
+[Version number](creator-studio-glossary.md#) of the app you're requesting for deployment. Creator Studio automatically generates an updated version number, but you can change it.Follow your organization's versioning guidelines, or use the x.y.z format, where x = major update, y = minor update, and z = patch.
 
 </td></tr><tr><td>
 
-[Release notes](../concept/creator-studio-glossary.md#)
+[Release notes](creator-studio-glossary.md#)
 
 </td><td>
 
 Details on what's changed in this new version of the app, or a general description of what the app does if this is its first version.
 
 </td></tr></tbody>
-</table>    Read more about this step of requesting deployment in [App versioning and release notes for Creator Studio apps](../concept/creator-studio-app-release-versioning.md).
+</table>    Read more about this step of requesting deployment in [App versioning and release notes for Creator Studio apps](creator-studio-app-release-versioning.md).
 
     ![Versioning info on deployment request](../image/cs-deploy-versioning.png "App versioning info")
 

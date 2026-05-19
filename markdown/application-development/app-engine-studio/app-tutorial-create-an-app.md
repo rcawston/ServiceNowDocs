@@ -37,7 +37,7 @@ Step 1
 
 </td><td>
 
-[Planning your application](../concept/app-tutorial-introduction.md)
+[Planning your application](app-tutorial-introduction.md)
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Step 3
 
 </td><td>
 
-[Building a data model](../concept/app-tutorial-data-model.md)
+[Building a data model](app-tutorial-data-model.md)
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Step 4
 
 </td><td>
 
-[Creating user experiences](../concept/app-tutorial-experience-layer.md)
+[Creating user experiences](app-tutorial-experience-layer.md)
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Step 5
 
 </td><td>
 
-[Adding logic and automation](../concept/app-tutorial-logic-automation-layer.md)
+[Adding logic and automation](app-tutorial-logic-automation-layer.md)
 
 </td></tr><tr><td>
 
@@ -150,5 +150,5 @@ You’ve created an application in App Engine Studio. The application is empty a
 
 ## What to do next
 
-Now that your application is created, you can start building the data model for the application. Proceed to the next step in the tutorial: [Building a data model](../concept/app-tutorial-data-model.md).
+Now that your application is created, you can start building the data model for the application. Proceed to the next step in the tutorial: [Building a data model](app-tutorial-data-model.md).
 

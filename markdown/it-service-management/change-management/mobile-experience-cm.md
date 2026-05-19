@@ -24,9 +24,9 @@ As an ITSM agent or technician, you can use Mobile Agent when connected online t
 
 Watch this three-minute video to learn about the Mobile Agent for managing change tasks.This video demonstrates using the ServiceNow Agent mobile app for managing change tasks.
 
--   **[Download the Mobile Agent mobile application](../task/configure-servicenow-agent.md)**  
+-   **[Download the Mobile Agent mobile application](configure-servicenow-agent.md)**  
 Access Mobile Agent on your mobile device to manage your change tasks.
--   **[Get started with Change Management mobile tasks](../task/getting-started-with-changetasks.md)**  
+-   **[Get started with Change Management mobile tasks](getting-started-with-changetasks.md)**  
 Access Mobile Agent on your mobile device to manage change tasks.
 
 **Parent Topic:**[Using Change Management](using-change-management.md)

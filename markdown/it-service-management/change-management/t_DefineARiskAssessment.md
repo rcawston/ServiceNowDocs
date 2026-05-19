@@ -274,7 +274,7 @@ The threshold against which the composite score is compared and evaluated.
     -   The weight is calculated as `sum (asmt_metric_result.normalized_value)` where `asmt_metric_result.normalized_value = actual_value * weight`.
     -   The risk calculated as `sum(actual_value * weight) > threshold`. For example, If the result is 7 and moderate threshold is 6 risk is moderate.
 
-**Parent Topic:**[Risk assessment](../concept/c_RskAsmtCalc.md)
+**Parent Topic:**[Risk assessment](c_RskAsmtCalc.md)
 
 **Related topics**  
 

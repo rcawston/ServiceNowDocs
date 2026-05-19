@@ -31,5 +31,5 @@ You can use the default dashboard or create your own dashboards to monitor perfo
 
 For guidance on using and managing dashboards in the Portfolio Planning Workspace, see [Using dashboards in Portfolio Planning](using-dashboards-in-ppw.md).
 
-**Parent Topic:**[Exploring Portfolio Planning](../../portfolio-planning/concept/exploring-portfolio-planning.md)
+**Parent Topic:**[Exploring Portfolio Planning](exploring-portfolio-planning.md)
 

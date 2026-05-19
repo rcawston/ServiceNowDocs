@@ -33,8 +33,8 @@ The AI Search Indexed Source History \[ais\_ingest\_datasource\_stats\] table co
 
 4.  On the Indexed Source History form, review the fields for the selected ingestion event.
 
-    For a description of the field values, see [Indexed Source History form](../reference/indexed-source-history-form-ais.md).
+    For a description of the field values, see [Indexed Source History form](indexed-source-history-form-ais.md).
 
 
-**Parent Topic:**[AI Search logging and debugging](../concept/logging-debugging-ais.md)
+**Parent Topic:**[AI Search logging and debugging](logging-debugging-ais.md)
 

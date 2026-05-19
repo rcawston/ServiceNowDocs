@@ -40,7 +40,7 @@ Role required: sn\_align\_core.ap\_read\_only
     ![Delete free-form roadmap view.](../images/delete-free-form-roadmap-view-ppw.gif)
 
 
-**Parent Topic:**[Managing free-form roadmap views](../concept/managing-free-form-roadmap-views-ppw.md)
+**Parent Topic:**[Managing free-form roadmap views](managing-free-form-roadmap-views-ppw.md)
 
 **Related topics**  
 

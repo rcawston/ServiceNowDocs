@@ -21,7 +21,7 @@ Demo data is available for this feature.
 
 -   **[Roles installed with Risk Management](r_RolesInstallWRisk.md)**  
 Roles are added with activation of GRC: Risk Management.
--   **[Roles installed with the GRC Risk Workspace](../../grc-workspace-risk/reference/roles-installed-with-risk-ws.md)**  
+-   **[Roles installed with the GRC Risk Workspace](roles-installed-with-risk-ws.md)**  
 The GRC: Risk Workspace application installs the roles for Operational risk manager and IT risk manager for the users to perform their respective tasks.
 -   **[Properties installed with Risk Management](r_PropInstallWRisk.md)**  
 Properties are added with activation of GRC: Risk Management.

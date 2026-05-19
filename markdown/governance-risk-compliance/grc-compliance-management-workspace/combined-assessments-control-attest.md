@@ -29,5 +29,5 @@ You can group a list of assessments assigned to a particular user as Combined As
 
 ![Grouping attestations for a user to assess them together.](../image/grc-attestation-combine-group.png)
 
-To group assessments, see [Combine assessments for control attestations](../task/smart-assess-combine-attest.md).
+To group assessments, see [Combine assessments for control attestations](smart-assess-combine-attest.md).
 

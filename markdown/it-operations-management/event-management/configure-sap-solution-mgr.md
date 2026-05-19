@@ -46,5 +46,5 @@ Download the following .psm files and import them into the SAP Solution Manager 
     ![Workbench transport request](../image/sap-solman-workbench-transport-request.png)
 
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](sap-solman-configurations.md)
 

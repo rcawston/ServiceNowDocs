@@ -43,7 +43,7 @@ The form designer allows you to customize elements in the problem form to create
 -   **[Configure problem categories](configure-problem-categories.md)**  
 Configure problem categories to provide a refined way of monitoring and reporting problems. Add to or remove category and subcategory choices from the list of problem categories or subcategories.
 
-**Parent Topic:**[Configuring Problem Management](../concept/configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](configuring-problem-mgmt.md)
 
 **Previous topic:**[Activate Problem Management — ATF Tests](activate-problem-mgmt-atf-tests.md)
 

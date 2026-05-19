@@ -98,7 +98,7 @@ Specifies whether the user needs audit certificate combined with the signed cont
 Generate a certificate of completion for electronically signed contracts.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+</table>**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
 
 **Related topics**  
 
@@ -127,7 +127,7 @@ Generate a certificate of completion for electronically signed contracts.
 
 [Obligation Management notifications](cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](contract-management-pro-glossary.md#)
 
 [Contract Management solutions](cmpro-cml-feature-compare.md)
 

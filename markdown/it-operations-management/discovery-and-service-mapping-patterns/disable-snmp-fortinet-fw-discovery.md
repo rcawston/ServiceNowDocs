@@ -39,5 +39,5 @@ Create an alias and add it to an API key credential. For more information, see [
 **Related topics**  
 
 
-[Fortinet firewall and FortiGate VDOM REST-based discovery](../reference/fortinet-fw-vdoms-rest-discovery.md)
+[Fortinet firewall and FortiGate VDOM REST-based discovery](fortinet-fw-vdoms-rest-discovery.md)
 

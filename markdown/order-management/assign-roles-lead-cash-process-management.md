@@ -118,7 +118,7 @@ Sales process manager
 
 [Creating groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-groups.md)
 
-[Components installed with Lead-to-Cash Process Management](../reference/components-installed-lead-cash-process-management.md)
+[Components installed with Lead-to-Cash Process Management](components-installed-lead-cash-process-management.md)
 
-[Components installed with Business Object Core](../reference/components-installed-business-object-core.md)
+[Components installed with Business Object Core](components-installed-business-object-core.md)
 

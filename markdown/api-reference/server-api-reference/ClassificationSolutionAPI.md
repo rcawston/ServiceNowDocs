@@ -19,18 +19,18 @@ This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) 
 
 The solution setup-to-training flow is as follows:
 
-1.  Create a dataset using the [DatasetDefinition](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) API.
-2.  Optional. Build an encoder using the [Encoder](../../Encoder/concept/EncoderAPI.md#) API.
+1.  Create a dataset using the [DatasetDefinition](DatasetDefinitionAPI.md#) API.
+2.  Optional. Build an encoder using the [Encoder](EncoderAPI.md#) API.
 3.  Use the [constructor](ClassificationSolutionAPI.md#) to create a classification solution object.
-4.  Add the solution object to the classification solution store using the [ClassificationSolutionStore - add\(\)](../../ClassificationSolutionStore/concept/ClassificationSolutionStoreAPI.md#) method.
-5.  Train the solution using the [submitTrainingJob\(\)](ClassificationSolutionAPI.md#) method. This creates a version of the object that you can manage using the [ClassificationSolutionVersion](../../ClassificationSolutionVersion/concept/ClassificationSolutionVersionAPI.md#) API.
-6.  Get predictions using the [ClassificationSolutionVersion – predict\(\)](../../ClassificationSolutionVersion/concept/ClassificationSolutionVersionAPI.md#) method.
+4.  Add the solution object to the classification solution store using the [ClassificationSolutionStore - add\(\)](ClassificationSolutionStoreAPI.md#) method.
+5.  Train the solution using the [submitTrainingJob\(\)](ClassificationSolutionAPI.md#) method. This creates a version of the object that you can manage using the [ClassificationSolutionVersion](ClassificationSolutionVersionAPI.md#) API.
+6.  Get predictions using the [ClassificationSolutionVersion – predict\(\)](ClassificationSolutionVersionAPI.md#) method.
 
 **Note:** This API runs with full privileges before the Vancouver Patch 7 Hotfix 2b and Washington DC Patch 7 releases. With later releases, grant access using ACLs. For more information see [Query ACLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/query-acl-rule.md).
 
 For usage guidelines, refer to [Using ML APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/using-ml-apis.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ClassificationSolution - ClassificationSolution\(Object config\)
 
@@ -545,7 +545,7 @@ Class recall parameter to steer a solution's training to bias a specific class. 
 
 </td><td>
 
-Lists the properties of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object associated with the solution.
+Lists the properties of the [DatasetDefinition\(\)](DatasetDefinitionAPI.md#) object associated with the solution.
 
  ```
 {
@@ -629,7 +629,7 @@ Domain name associated with this dataset. See [Domain separation and Predictive 
 
 </td><td>
 
-Encoder object assigned to this solution. See [Encoder - Encoder\(Object config\)](../../Encoder/concept/EncoderAPI.md#).Data type: Object.
+Encoder object assigned to this solution. See [Encoder - Encoder\(Object config\)](EncoderAPI.md#).Data type: Object.
 
 </td></tr><tr><td>
 
@@ -778,7 +778,7 @@ Gets a solution by provided version number.
 
 |Type|Description|
 |----|-----------|
-|Object|Specified version of the [ClassificationSolution\(\)](ClassificationSolutionAPI.md#) object on which you can call [ClassificationSolutionVersion](../../ClassificationSolutionVersion/concept/ClassificationSolutionVersionAPI.md#) API methods.|
+|Object|Specified version of the [ClassificationSolution\(\)](ClassificationSolutionAPI.md#) object on which you can call [ClassificationSolutionVersion](ClassificationSolutionVersionAPI.md#) API methods.|
 
 The following example shows how to get the training status of a solution by version number.
 
@@ -841,7 +841,7 @@ sn_ml.ClassificationSolution.setActiveVersion("ml_incident_categorization");
 
 Submits a training job.
 
-**Note:** Before running this method, you must first add a solution to the store using the [ClassificationSolutionStore - add\(\)](../../ClassificationSolutionStore/concept/ClassificationSolutionStoreAPI.md#) method.
+**Note:** Before running this method, you must first add a solution to the store using the [ClassificationSolutionStore - add\(\)](ClassificationSolutionStoreAPI.md#) method.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -849,7 +849,7 @@ Submits a training job.
 
 |Type|Description|
 |----|-----------|
-|Object|[ClassificationSolutionVersion](../../ClassificationSolutionVersion/concept/ClassificationSolutionVersionAPI.md#) object corresponding to the [ClassificationSolution](ClassificationSolutionAPI.md#) being trained.|
+|Object|[ClassificationSolutionVersion](ClassificationSolutionVersionAPI.md#) object corresponding to the [ClassificationSolution](ClassificationSolutionAPI.md#) being trained.|
 
 The following example shows how to create a dataset, apply it to a solution, add the solution to a store, and submit the training job.
 

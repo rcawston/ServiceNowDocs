@@ -23,7 +23,7 @@ A BIA created using the Smart Assessment template includes Smart Assessment inst
 
 Impact category completion configuration for Smart Assessment: To configure Impact category completion for Smart Assessment, navigate to **All &gt; Business Continuity &gt; General Administration &gt; Properties**. Set the **Mark the Impact Assessment as Complete once all required questions are answered, or all questions \(required and optional\) are answered** property. Choose the preferred option to show completion based on required or all questions.
 
-For the initial setup checklist for Smart Assessment Engine, see [Configuring Smart Assessment Engine](../../assessment-engine/concept/smart-assessment-engine-cf-config.md).
+For the initial setup checklist for Smart Assessment Engine, see [Configuring Smart Assessment Engine](smart-assessment-engine/smart-assessment-engine-cf-config.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ For the initial setup checklist for Smart Assessment Engine, see [Configuring Sm
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [BIA template form for the legacy assessment](../reference/bia-template-new-record-form.md).
+    For more information on the fields in the form, see [BIA template form for the legacy assessment](bia-template-new-record-form.md).
 
 4.  Select **Smart Assessment** as the assessment type.
 
@@ -74,8 +74,8 @@ For the initial setup checklist for Smart Assessment Engine, see [Configuring Sm
     Selecting the Dependency assessment card opens the BIA assessment. When BCM users submit the assessment, the automation configured in the Smart Assessment template updates the configured result fields.
 
 
--   **[BIA template record form for the Smart assessment](../reference/bia-smart-temp-ref-form.md)**  
+-   **[BIA template record form for the Smart assessment](bia-smart-temp-ref-form.md)**  
 Use the BIA template record form to configure the business impact analysis with the Smart assessment. You can add details such as name, description, primary element assessed and select the impact assessment template in the form.
 
-**Parent Topic:**[Setup for a business impact analysis](../concept/bcm-admin-tasks.md)
+**Parent Topic:**[Setup for a business impact analysis](bcm-admin-tasks.md)
 

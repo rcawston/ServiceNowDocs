@@ -60,7 +60,7 @@ The following image shows how different departments collaborate for operational 
 </td></tr></tbody>
 </table>## Implement Operational Sustainability Management
 
-Use the [Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application](../task/setup-checklist-esg.md) to quickly implement the Operational Sustainability Management application.
+Use the [Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application](setup-checklist-esg.md) to quickly implement the Operational Sustainability Management application.
 
 ## Learn
 

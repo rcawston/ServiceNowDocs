@@ -46,5 +46,5 @@ Use the paperclip icon to drag files into a post. Additionally, you can [paste i
 7.  Click the link to download the files.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](c_PostContentInLiveFeed.md)
 

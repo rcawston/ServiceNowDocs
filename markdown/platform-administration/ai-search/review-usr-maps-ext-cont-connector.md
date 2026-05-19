@@ -96,5 +96,5 @@ In the banner frame, select your name to open the user menu, then select **Eleva
     Each entry shows a single ServiceNow AI Platform user along with the external user mapped to them and any external group memberships associated with that external user. You can sort and filter the list to locate entries of interest.
 
 
-**Parent Topic:**[Reviewing external content connector crawl results and analytics](../concept/reviewing-external-content-connector-results-and-analytics.md)
+**Parent Topic:**[Reviewing external content connector crawl results and analytics](reviewing-external-content-connector-results-and-analytics.md)
 

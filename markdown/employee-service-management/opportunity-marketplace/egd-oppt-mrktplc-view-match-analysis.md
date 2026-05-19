@@ -33,7 +33,7 @@ OPM provides helpful analyses and recommendations for available opportunities, a
 
 2.  In an opportunity card, select **Match analysis** to view details about the match.
 
-    Match analysis is based on matched skills and preferences. Skills make up 80% of the match analysis and 20% comes from your preferences. It’s important to keep your preferences and skills current so that the match analysis finds relevant opportunities. For more information about skills, see [Using Skills Foundation](../../skills-intelligence/concept/using-skills-intelligence.md).
+    Match analysis is based on matched skills and preferences. Skills make up 80% of the match analysis and 20% comes from your preferences. It’s important to keep your preferences and skills current so that the match analysis finds relevant opportunities. For more information about skills, see [Using Skills Foundation](../talent-development-core/using-skills-intelligence.md).
 
     The different sections of the analysis display information about the match.
 
@@ -44,5 +44,5 @@ OPM provides helpful analyses and recommendations for available opportunities, a
     From the opportunity, you can view your **Match analysis** and **Sign up** for the opportunity.
 
 
-**Parent Topic:**[Use Opportunity Marketplace](../concept/egd-oppt-mrktplc-using.md)
+**Parent Topic:**[Use Opportunity Marketplace](egd-oppt-mrktplc-using.md)
 

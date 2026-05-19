@@ -28,16 +28,16 @@ You can create a UI action to provide any of these controls:
 -   A menu item for the action choice list at the bottom of a list.
 -   A related link at the bottom of a list.
 
-**Note:** To hide or restrict the **New** or **Edit** UI action on the related list, use [list control](../task/t_ConfigureListControls.md#).
+**Note:** To hide or restrict the **New** or **Edit** UI action on the related list, use [list control](list-administration/t_ConfigureListControls.md#).
 
 ![Form UI elements controlled by UI actions.](../image/UIAction1.png "Form UI actions")
 
 ![List UI elements controlled by UI actions.](../image/UIActionButton.png "List UI actions")
 
--   **[Create a UI action](../task/t_EditingAUIAction.md)**  
+-   **[Create a UI action](t_EditingAUIAction.md)**  
 You can create a new UI action or edit an existing one.
--   **[Override a UI action for an extended table](../task/t_OverrideOrRmvAUIActionForExtTbl.md)**  
+-   **[Override a UI action for an extended table](t_OverrideOrRmvAUIActionForExtTbl.md)**  
 You can override or remove a UI action for a table that is extended from another table.
 
-**Parent Topic:**[Administering forms on the ServiceNow AI Platform](../../form-administration/concept/form-administration.md)
+**Parent Topic:**[Administering forms on the ServiceNow AI Platform](form-administration.md)
 

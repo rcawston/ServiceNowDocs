@@ -22,7 +22,7 @@ Role required: now\_assist\_panel\_user
 
 **Note:** If you have users that only need to edit \(not create\) apps, they can be assigned the delegated\_developer or now\_assist\_panel\_user roles.
 
-To add a flow to an application created using app generation, enable the Now Assist for Creator flow generation skill and confirm that you have a flow\_designer role. For more information, see [Flow generation](../../../administer/flow-designer/reference/flow-generation-landing.md).
+To add a flow to an application created using app generation, enable the Now Assist for Creator flow generation skill and confirm that you have a flow\_designer role. For more information, see [Flow generation](flow-generation-landing.md).
 
 ## About this task
 

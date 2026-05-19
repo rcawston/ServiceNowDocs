@@ -23,11 +23,11 @@ For Jenkins, you must activate the Jenkins Artifactory plugin in your Jenkins se
 
 Use one of the following options to onboard JFrog. For a guided experience, use the workspace to onboard a tool. Alternatively, you can use the Service Catalog or Classic experience.
 
--   **[Onboard JFrog to DevOps Change Velocity — Workspace](../task/devops-jfrog-connect-workspace.md)**  
+-   **[Onboard JFrog to DevOps Change Velocity — Workspace](devops-jfrog-connect-workspace.md)**  
 Connect to your JFrog instance using the DevOps Change Workspace playbook to track artifact repositories published to JFrog.
--   **[Onboard JFrog to DevOps Change Velocity — Service Catalog](../task/sc-jfrog.md)**  
+-   **[Onboard JFrog to DevOps Change Velocity — Service Catalog](sc-jfrog.md)**  
 Connect your JFrog instance using the ServiceNow Service Catalog.
--   **[Onboard JFrog to DevOps Change Velocity — Classic](../task/devops-jfrog-create-tool.md)**  
+-   **[Onboard JFrog to DevOps Change Velocity — Classic](devops-jfrog-create-tool.md)**  
 Connect to an instance of the JFrog artifact tool to enable you to track artifacts published to JFrog.
 -   **[Integration with JFrog AppTrust application](integration-with-jfrog-apptrust-application.md)**  
 Integrate DevOps Change Velocity with JFrog AppTrust applications to automate change request creation, approval, and evidence collection as application versions are promoted through life-cycle stages.

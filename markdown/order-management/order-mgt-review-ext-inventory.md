@@ -92,5 +92,5 @@ During the inflight order changes, the state of the external product inventory I
     |**Delete the external product inventory details**|Select the options icon ![](../image/more-options.png) next to the **Save** button, and then select **Delete**.|
 
 
-**Parent Topic:**[External product inventory ID](../concept/ext-inventory-id.md)
+**Parent Topic:**[External product inventory ID](ext-inventory-id.md)
 

@@ -15,10 +15,10 @@ breadcrumb: [Inbound, Web services, API implementation, API implementation and r
 
 RSS \(Rich Site Summary\) is a format for delivering web-based information that changes regularly.
 
--   **[RSS feed generator](../concept/c_RSSFeedGenerator.md)**  
+-   **[RSS feed generator](c_RSSFeedGenerator.md)**  
 ServiceNow supports the dynamic generation of RSS feeds.
--   **[RSS feed reader](../concept/c_RSSFeedReader.md)**  
+-   **[RSS feed reader](c_RSSFeedReader.md)**  
 Create a scrolling RSS feed reader using a UI page.
 
-**Parent Topic:**[Inbound web services](../../web-services/concept/inbound-web-services.md)
+**Parent Topic:**[Inbound web services](inbound-web-services.md)
 

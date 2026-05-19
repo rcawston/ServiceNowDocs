@@ -129,7 +129,7 @@ The order in which the entity should be displayed.
 
 [ERP source configuration for SAP Ariba](erp-source-configuration-sap-ariba.md)
 
-[Define ERP source configuration for SAP Ariba](../task/define-erp-source-sap-ariba.md)
+[Define ERP source configuration for SAP Ariba](define-erp-source-sap-ariba.md)
 
 [Look up primary data in SAP Ariba](look-up-primary-data-sap-ariba.md)
 

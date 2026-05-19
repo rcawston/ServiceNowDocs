@@ -82,5 +82,5 @@ When you compare two diagram versions, the comparison screen highlights the diff
         -   Select the copy summary icon \(![Copy summary icon.](../image/copy-summary.png)\) to copy the diagram change summary created by Now Assist.
         -   Select the Now Assist icon \(![Now Assist icon.](../image/now-assist-side-pane-icon.png)\) to close the Now Assist side panel.
 
-**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](../concept/using-now-assist-for-ea.md)
+**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)
 

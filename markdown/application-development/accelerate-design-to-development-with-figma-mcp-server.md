@@ -24,7 +24,7 @@ MCP is an open protocol that defines how AI agents communicate with external sys
 
 In Connect Hub, an MCP connector represents a configured connection between ServiceNow and an external system that exposes a server compatible with MCP. Once an MCP connector is set up, AI agents can use it to access the tools and capabilities that the external system provides, enabling coordinated, context-aware workflows across models and systems.
 
-For details on configuring MCP connections in Build Agent, see [Connect Build Agent to a supported MCP server](../tasks/ba-connct-mcp-server.md).
+For details on configuring MCP connections in Build Agent, see [Connect Build Agent to a supported MCP server](ba-connct-mcp-server.md).
 
 ## Connect to supported MCP servers
 
@@ -52,7 +52,7 @@ The process of converting Figma designs to applications is as follows:
 -   The Build Agent, which is installed on your ServiceNow® instance, receives the translated data and uses it to generate applications.
 -   The Build Agent creates applications based on the design data provided by Figma.
 
-For configuration information, see [Connect Build Agent to a Figma MCP server](../tasks/connect-figma-mcp-server-to-build-agent.md#)
+For configuration information, see [Connect Build Agent to a Figma MCP server](connect-figma-mcp-server-to-build-agent.md#)
 
 **Parent Topic:**[Exploring Build Agent](exploring-build-agent.md)
 

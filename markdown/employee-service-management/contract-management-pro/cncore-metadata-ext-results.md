@@ -23,5 +23,5 @@ The Extraction results tab in the contract repository record displays the proces
 |Failed - Invalid value|The extracted metadata does not match the expected format or type for the mapped contract repository field. For example, a contract repository field expects an integer, but the extracted value is not a numeric value.|
 |Failed - Processing error|The extracted metadata for the mapped field violated a business rule on the repository, leading to the process being aborted.|
 
-**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](../concept/cncore-metadata-extract-land.md)
+**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](cncore-metadata-extract-land.md)
 

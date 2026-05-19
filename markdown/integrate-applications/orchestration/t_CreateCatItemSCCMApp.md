@@ -96,5 +96,5 @@ Name of the [SCCM configuration record](t_ConfigureSCCMCollections.md) for this 
 7.  To see all client software distribution \(CSD\) catalog items, navigate to **Client Software Distribution** &gt; **Maintain Items** &gt; **Software Items**.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](configuring-sccm.md)
 

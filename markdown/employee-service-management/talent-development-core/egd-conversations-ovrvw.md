@@ -22,11 +22,11 @@ You must have the Career Conversations app installed for Conversations to work.
 **Related topics**  
 
 
-[Career Conversations](egd-activities-landing-page.md)
+[Career Conversations](../career-conversations/egd-activities-landing-page.md)
 
-[Install Career Conversations](../task/egd-activities-install.md)
+[Install Career Conversations](../career-conversations/egd-activities-install.md)
 
-[Create a growth conversation in Career Conversations](../task/egd-create-growth-conversation.md)
+[Create a growth conversation in Career Conversations](../career-conversations/egd-create-growth-conversation.md)
 
-[Update a growth conversation in Career Conversations](../task/egd-act-update-growth-conversation.md)
+[Update a growth conversation in Career Conversations](../career-conversations/egd-act-update-growth-conversation.md)
 

@@ -81,5 +81,5 @@ External Roles
 **Related topics**  
 
 
-[Roles installed with Customer Service Management](../reference/r_RolesInstalledWithCustomerService.md)
+[Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md)
 

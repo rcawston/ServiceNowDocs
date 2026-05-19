@@ -35,11 +35,11 @@ Once all required approval steps are approved, your business item, such as the q
 
 ## Adding ad-hoc approvers to an approval request
 
-As a requester, you can add one or more approvers or approval groups to a chain named General, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For details on adding ad-hoc approvers, see [Add approvers to an approval request](../task/add-approver.md).
+As a requester, you can add one or more approvers or approval groups to a chain named General, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For details on adding ad-hoc approvers, see [Add approvers to an approval request](add-approver.md).
 
 ## Overriding an approval step
 
-There may be times when an approval is no longer required. If you're a requester who also has the approval admin role, you can override or bypass a pending approval request step to unblock an approval request when the approval is no longer required. For more information, see [Override an approver](../task/override-approval-step.md).
+There may be times when an approval is no longer required. If you're a requester who also has the approval admin role, you can override or bypass a pending approval request step to unblock an approval request when the approval is no longer required. For more information, see [Override an approver](override-approval-step.md).
 
 **Parent Topic:**[Using Advanced Approval Management](using-advanced-approval-management.md)
 

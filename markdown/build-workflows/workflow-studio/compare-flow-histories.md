@@ -48,5 +48,5 @@ Role required: flow\_designer or admin
 10. Expand changed flow components by selecting anywhere in the row of the flow step.
 
 
-**Parent Topic:**[Flow history compare view](../concept/flow-history-compare-view.md)
+**Parent Topic:**[Flow history compare view](flow-history-compare-view.md)
 

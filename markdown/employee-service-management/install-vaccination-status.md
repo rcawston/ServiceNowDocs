@@ -91,7 +91,7 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 4.  Click **Activate**.
 
 
-**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+**Parent Topic:**[Vaccination Status](vaccination-status.md)
 
 ## Components installed with Vaccination Status
 

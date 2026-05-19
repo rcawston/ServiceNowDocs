@@ -41,5 +41,5 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     You can update the state of the event to **Closed Complete**.
 
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
 

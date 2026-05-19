@@ -83,9 +83,9 @@ Number of courses that you target to finish for each tracking period.
 
 A Learning challenge is created along with a new widget on the Overview tab to track your progress.
 
--   **[Complete a learning challenge](../task/complete-challenge-lxp.md)**  
+-   **[Complete a learning challenge](complete-challenge-lxp.md)**  
 Complete a learning challenge whenever you're ready to finish with it.
--   **[Restart a learning challenge](../task/restart-challenge-lxp.md)**  
+-   **[Restart a learning challenge](restart-challenge-lxp.md)**  
 Restart a challenge when you want to reset the progress you have made on the challenge.
 
 **Parent Topic:**[Using My Learning](manage-your-learning.md)
@@ -93,15 +93,15 @@ Restart a challenge when you want to reset the progress you have made on the cha
 **Related topics**  
 
 
-[Enroll in a course collection on My Learning](../task/enroll-course-lxp.md)
+[Enroll in a course collection on My Learning](enroll-course-lxp.md)
 
-[Resume a course](../task/resume-course.md)
+[Resume a course](resume-course.md)
 
 [Create a personal course collection](create-personal-collection.md)
 
 [View recent activity](view-recent-activity-lxp.md)
 
-[Assign Learning to your team](../task/assign-learning-lxp.md)
+[Assign Learning to your team](assign-learning-lxp.md)
 
 [Manage Learning](manage-learning-achievements.md)
 

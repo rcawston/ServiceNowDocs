@@ -30,5 +30,5 @@ Role required: admin
     If the building has any floors defined for it, a warning box opens and identifies the floors. Delete the floors before deleting the building.
 
 
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](r_Manually-builtMaps.md)
 

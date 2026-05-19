@@ -29,14 +29,14 @@ Role required: sn\_shop.procurement\_specialist or admin
     -   Navigate to **Lists** &gt; **All work** &gt; **Pipeline projects**.
 3.  Select **New**.
 
-    The Create New Pipeline Project form is displayed. For a description of the field values, see [Create New Pipeline Project form](../reference/create-pipeline-project-form.md).
+    The Create New Pipeline Project form is displayed. For a description of the field values, see [Create New Pipeline Project form](create-pipeline-project-form.md).
 
 4.  Select **Save**.
 
     The pipeline project is created in the Planned state.
 
-    For more information about the tabs and UI actions available in the pipeline project record, see [Pipeline project record tabs and UI actions](../reference/pipeline-form-tabs-actions.md).
+    For more information about the tabs and UI actions available in the pipeline project record, see [Pipeline project record tabs and UI actions](pipeline-form-tabs-actions.md).
 
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](use-pipeline-sourcing-mgmt.md)
 

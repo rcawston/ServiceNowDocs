@@ -98,5 +98,5 @@ MID Server is optional. Select MID Server for an on-premises tool that is attach
     Formatted id is used for the work item NativeID, for associating work items and commits.
 
 
-**Parent Topic:**[Rally integration with DevOps Change Velocity](../concept/rally-devops-integration.md)
+**Parent Topic:**[Rally integration with DevOps Change Velocity](rally-devops-integration.md)
 

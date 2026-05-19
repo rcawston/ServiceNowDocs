@@ -17,7 +17,7 @@ The ProbeHandlerCim script include provides methods to configures a Common Infor
 
 You can use this script include in any server-side script where you need to configure a CIM probe.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ProbeHandlerCim - getCimQueries\(\)
 

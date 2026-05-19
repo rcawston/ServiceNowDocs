@@ -53,5 +53,5 @@ Role required: admin
 
 Test the footer function using your mobile app. After completing the steps, you can see a footer function button at the bottom of your details segment. Tap the button to navigate to the screen launcher you defined in the previous steps.
 
-**Parent Topic:**[Configure navigation to a launcher screen](../concept/sg-launcher-nav-example.md)
+**Parent Topic:**[Configure navigation to a launcher screen](sg-launcher-nav-example.md)
 

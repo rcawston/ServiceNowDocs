@@ -49,5 +49,5 @@ Alternately, to adhere to platform standards, consider adding an active field to
     If you are creating a close condition for a new table, ensure to create business rule for close condition. For more information, refer [Configure business rule for close condition](business-rule-close-condition.md).
 
 
-**Parent Topic:**[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](../concept/auto-import-messages.md)
+**Parent Topic:**[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](auto-import-messages.md)
 

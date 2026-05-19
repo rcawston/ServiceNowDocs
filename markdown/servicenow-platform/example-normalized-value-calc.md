@@ -198,5 +198,5 @@ For a risk assessment, the weighted value from metric results table is calculate
 
 `weighted_value = metric.weight * result.actual_value`
 
-**Parent Topic:**[Metric Result form](../../survey-administration/reference/r_MetricResultFieldNames.md)
+**Parent Topic:**[Metric Result form](r_MetricResultFieldNames.md)
 

@@ -96,7 +96,7 @@ This example makes the following assumptions:
     </tr>
     ```
 
-    **Note:** The `'ui_reference'` macro defines a reference field. There are several macros for different field types. You can see examples of these field types under **System UI -&gt; UI Macros**. These macros start with `'ui_'`. For this example, the reference field created is named **core\_company**. For more information, see [UI macros](../../server-scripting/concept/c_UIMacros.md#).
+    **Note:** The `'ui_reference'` macro defines a reference field. There are several macros for different field types. You can see examples of these field types under **System UI -&gt; UI Macros**. These macros start with `'ui_'`. For this example, the reference field created is named **core\_company**. For more information, see [UI macros](c_UIMacros.md#).
 
 5.  Now navigate to **System UI &gt; UI Pages** and select the **servicecatalog\_checkout\_one** UI Page.
 
@@ -443,11 +443,11 @@ Action name. This value is provided in the record listed in the UI Actions \[sys
 </table>**Related topics**  
 
 
-[GlideForm - getFormElement\(\)](../../../app-store/dev_portal/API_reference/GlideForm/concept/c_GlideFormAPI.md#)
+[GlideForm - getFormElement\(\)](../c_GlideFormAPI.md#)
 
-[Scoped GlideSystem - eventQueue\(String name, Object instance, String parm1, String parm2, String queue\)](../../../app-store/dev_portal/API_reference/glideSystemScoped/concept/c_GlideSystemScopedAPI.md#)
+[Scoped GlideSystem - eventQueue\(String name, Object instance, String parm1, String parm2, String queue\)](../server-api-reference/c_GlideSystemScopedAPI.md#)
 
-[GlideUser - Client](../../../app-store/dev_portal/API_reference/GlideUser/concept/c_GlideUserAPI.md#)
+[GlideUser - Client](../c_GlideUserAPI.md#)
 
 [Defining UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UIActions.md)
 

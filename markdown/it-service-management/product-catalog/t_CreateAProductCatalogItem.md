@@ -299,7 +299,7 @@ Vendor catalog items associated with this item. Vendor catalog items allow you t
 5.  Select **Submit** or **Update**.
 
 
-**Parent Topic:**[Product catalog items](../concept/c_ManagingProductCatalogItems.md)
+**Parent Topic:**[Product catalog items](c_ManagingProductCatalogItems.md)
 
 **Related topics**  
 

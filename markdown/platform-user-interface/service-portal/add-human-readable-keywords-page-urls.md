@@ -115,12 +115,12 @@ For more information about including human readable keywords in canonical URLs, 
 -   [Configure custom SEO tags for canonical URLs and localized knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-seo-knowledge.md)
 -   [SPSEOUtilsSNC - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/SPSEOUtilsSNCAPI.md)
 
-**Parent Topic:**[Improving search engine optimization for portals](../concept/seo-sp.md)
+**Parent Topic:**[Improving search engine optimization for portals](seo-sp.md)
 
 **Related topics**  
 
 
 [Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
-[Page navigation in Service Portal by URL](../concept/navigate-by-portal-url.md)
+[Page navigation in Service Portal by URL](navigate-by-portal-url.md)
 

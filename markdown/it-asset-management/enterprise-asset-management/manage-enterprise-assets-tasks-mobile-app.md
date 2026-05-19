@@ -41,8 +41,8 @@ Create and lookup enterprise asset
 
 </td><td>
 
--   [Create an enterprise asset in the Mobile Agent application](../task/create-enterprise-asset-mobile-agent-app.md)
--   [Look up enterprise assets using the Mobile Agent application](../task/lookup-enterprise-assets-mobile-agent-app.md)
+-   [Create an enterprise asset in the Mobile Agent application](create-enterprise-asset-mobile-agent-app.md)
+-   [Look up enterprise assets using the Mobile Agent application](lookup-enterprise-assets-mobile-agent-app.md)
 
 </td></tr><tr><td>
 
@@ -54,8 +54,8 @@ Scan enterprise assets for stockroom and location inventory audits
 
 </td><td>
 
--   [Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](../task/scan-assets-agent-app-eam.md)
--   [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](../task/complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
+-   [Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](scan-assets-agent-app-eam.md)
+-   [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Verify and depart your enterprise assets as part of the disposal process
 
 </td><td>
 
-[Verify and depart your enterprise assets for disposal using the Mobile Agent application](../task/dispose-enterprise-assets-mobile-agent-app.md)
+[Verify and depart your enterprise assets for disposal using the Mobile Agent application](dispose-enterprise-assets-mobile-agent-app.md)
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Manage your work order tasks and asset tasks
 
 </td><td>
 
-[Manage an Enterprise Asset Management task using the Mobile Agent application](../task/work-order-mobile-agent-eam.md)
+[Manage an Enterprise Asset Management task using the Mobile Agent application](work-order-mobile-agent-eam.md)
 
 </td></tr><tr><td>
 

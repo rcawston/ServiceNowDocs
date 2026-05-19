@@ -79,5 +79,5 @@ Configuration that the category is referencing.
 **Related topics**  
 
 
-[Customize Lists in Portfolio Planning Workspace](../task/customize-lists-in-portfolio-planning-workspace.md)
+[Customize Lists in Portfolio Planning Workspace](customize-lists-in-portfolio-planning-workspace.md)
 

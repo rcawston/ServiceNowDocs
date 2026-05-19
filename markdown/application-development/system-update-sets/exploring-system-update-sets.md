@@ -81,16 +81,16 @@ If your development environment consists of only two instances, you can combine 
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Create an update set to store local changes.|[Create and select an update set as the current set](../task/create-select-update-set.md)|Developer|
-|Select the current update set to store local changes.|[Select the current update set in Unified Navigation](../task/select-update-set-system-settings.md)|Admin|
-|Commit an update set to prepare it for distribution.|[Commit an update set](../task/t_CommitAnUpdateSet.md)|Admin|
-|Compare update sets to determine what differences they contain.|[Compare local update sets](../task/t_CompareLocalUpdateSets.md)|Admin|
-|Create an external file from an update set.|[Save an update set as a local XML file](../task/t_SaveAnUpdateSetAsAnXMLFile.md#)|Admin|
-|Retrieve update sets from remote instances.|[Retrieve an update set](../task/t_RetrieveAnUpdateSet.md)|Admin|
-|Back out changes applied from an update set.|[Back out an update set](../task/t_BackOutUpdateSet.md)|Admin|
-|Set system properties related to update sets.|[Update sets properties](../reference/update-sets-properties.md)|Admin|
-|Track customizations to application tables, fields, and records.|[Customizations tracked by update sets](../reference/customizations-tracked-update-sets.md)|Admin|
-|Batch update sets together so you can preview and commit them in bulk.|[Working with batched update sets](../hier-update-sets/concept/us-hier-overview.md)|Admin|
+|Create an update set to store local changes.|[Create and select an update set as the current set](create-select-update-set.md)|Developer|
+|Select the current update set to store local changes.|[Select the current update set in Unified Navigation](select-update-set-system-settings.md)|Admin|
+|Commit an update set to prepare it for distribution.|[Commit an update set](t_CommitAnUpdateSet.md)|Admin|
+|Compare update sets to determine what differences they contain.|[Compare local update sets](t_CompareLocalUpdateSets.md)|Admin|
+|Create an external file from an update set.|[Save an update set as a local XML file](t_SaveAnUpdateSetAsAnXMLFile.md#)|Admin|
+|Retrieve update sets from remote instances.|[Retrieve an update set](t_RetrieveAnUpdateSet.md)|Admin|
+|Back out changes applied from an update set.|[Back out an update set](t_BackOutUpdateSet.md)|Admin|
+|Set system properties related to update sets.|[Update sets properties](update-sets-properties.md)|Admin|
+|Track customizations to application tables, fields, and records.|[Customizations tracked by update sets](customizations-tracked-update-sets.md)|Admin|
+|Batch update sets together so you can preview and commit them in bulk.|[Working with batched update sets](us-hier-overview.md)|Admin|
 
 ## Use cases
 
@@ -114,6 +114,6 @@ To learn more about configuring, using, and managing system update sets see:
 
 -   [Configuring System Update Sets](configure-system-update-sets.md)
 -   [Working with update sets](using-system-update-sets.md)
--   [Working with batched update sets](../hier-update-sets/concept/us-hier-overview.md)
--   [Update set transfers](../reference/update-set-transfers.md)
+-   [Working with batched update sets](us-hier-overview.md)
+-   [Update set transfers](update-set-transfers.md)
 

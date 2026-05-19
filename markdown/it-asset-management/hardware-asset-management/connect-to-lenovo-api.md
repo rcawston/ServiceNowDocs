@@ -44,7 +44,7 @@ Role required: admin
 
 The Lenovo connection is successfully created and listed in the Connections tab.
 
-**Parent Topic:**[Receive asset warranty details from Lenovo](../concept/receive-warranty-details-lenovo.md)
+**Parent Topic:**[Receive asset warranty details from Lenovo](receive-warranty-details-lenovo.md)
 
 **Related topics**  
 

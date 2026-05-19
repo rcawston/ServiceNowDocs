@@ -35,7 +35,7 @@ The Security Incident Response Explorer dashboard appears.
 
 ## What to do next
 
-To view Security Incident Response Explorer dashboard in Security Incident Response Workspace in detail, see [Viewing SIR Workspace Dashboards](../../secops-analyst-workspace/concept/working-with-analysts-dashboard.md).
+To view Security Incident Response Explorer dashboard in Security Incident Response Workspace in detail, see [Viewing SIR Workspace Dashboards](working-with-analysts-dashboard.md).
 
-**Parent Topic:**[Security Incident Response Overview dashboard](../concept/c_SIROverview.md)
+**Parent Topic:**[Security Incident Response Overview dashboard](c_SIROverview.md)
 

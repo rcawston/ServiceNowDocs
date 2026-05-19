@@ -64,7 +64,7 @@ Procedure
 </td></tr></tbody>
 </table>5.  On the Benefit Plan form, fill the fields.
 
-    For a description of the field names, see [Benefit Plan form](../../project-management/reference/benefit-plan-form-project-management.md)
+    For a description of the field names, see [Benefit Plan form](../project-management/benefit-plan-form-project-management.md)
 
 6.  Select **Save**.
 

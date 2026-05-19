@@ -20,7 +20,7 @@ Information data domains enable you to define how data is captured, stored, shar
 **Related topics**  
 
 
-[View information data domains](../../task/eaw-task/eaw-view-info-data-domains.md)
+[View information data domains](eaw-view-info-data-domains.md)
 
-[Add or edit an information data domain](../../task/eaw-task/eaw-add-edit-info-data-domain.md)
+[Add or edit an information data domain](eaw-add-edit-info-data-domain.md)
 

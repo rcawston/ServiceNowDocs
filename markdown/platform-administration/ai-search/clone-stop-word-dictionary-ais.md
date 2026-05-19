@@ -38,5 +38,5 @@ Cloning a stop word dictionary copies the source dictionary's settings and all o
 
 The new stop word dictionary form opens. All stop word terms defined in the source dictionary appear in the AI Search Dictionary Terms related list.
 
-**Parent Topic:**[Stop words](../concept/stop-words-ais.md)
+**Parent Topic:**[Stop words](stop-words-ais.md)
 

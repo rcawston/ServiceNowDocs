@@ -60,5 +60,5 @@ Subscription Management can't display product subscription recommendations for s
 
 One or more custom applications are mapped to a product subscription and your custom table entitlement count is updated. Updates made through the Custom Application form show in Subscription Management the next day.
 
-**Parent Topic:**[Managing custom tables and applications in Subscription Management](../concept/allocating-custom-tables-subscr-apps-v2.md)
+**Parent Topic:**[Managing custom tables and applications in Subscription Management](allocating-custom-tables-subscr-apps-v2.md)
 

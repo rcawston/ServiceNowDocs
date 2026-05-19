@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the DeleteFile component. For more information about these properties, see [Properties of the File components](../reference/util-file-prop.md).
+You can configure the properties for the DeleteFile component. For more information about these properties, see [Properties of the File components](util-file-prop.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ You can configure the properties for the DeleteFile component. For more informat
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[File](../concept/file.md)
+**Parent Topic:**[File](file.md)
 

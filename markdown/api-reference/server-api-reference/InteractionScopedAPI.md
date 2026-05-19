@@ -17,7 +17,7 @@ The Interaction API provides methods that enable you to define the behavior for 
 
 This class requires the Interaction Logging, Routing, and Queueing plugin \(com.glide.interaction\) and runs in the `sn_interaction` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Interaction - accept\(\)
 

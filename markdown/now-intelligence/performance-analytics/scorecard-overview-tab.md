@@ -94,7 +94,7 @@ The controls for selecting a date range are above the statistics and to the left
 
 In the View tab of the Analytics Hub, you can set various statistics to apply to the indicator score.
 
-You cannot customize the statistics display on the Analytics Hub. However, because not all statistics are relevant to all indicators, you can exclude statistics on the indicator record. For example, you can exclude Change % for an indicator with a score expressed as a percentage. For more information, see [Create an automated indicator](../task/t_CreateAnAutomatedIndicator.md#).
+You cannot customize the statistics display on the Analytics Hub. However, because not all statistics are relevant to all indicators, you can exclude statistics on the indicator record. For example, you can exclude Change % for an indicator with a score expressed as a percentage. For more information, see [Create an automated indicator](t_CreateAnAutomatedIndicator.md#).
 
 ## Breakdowns, elements, and element filters
 
@@ -139,7 +139,7 @@ You can clear either the first- or second-level breakdown and element combinatio
 
 If you click a value on a chart in a widget on a dashboard, you open the Analytics Hub on that indicator. If you are on a breakdown dashboard and have multiple elements selected, and the widget shows the aggregate of those elements, the Analytics Hub also shows the aggregate of those elements.
 
-For more information about the aggregate view of multiple elements selected on a dashboard, see [Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md).
+For more information about the aggregate view of multiple elements selected on a dashboard, see [Showing multiple elements separately or aggregated](multi-element-select-indicator-views.md).
 
 ![Clicking on a score that is the aggregate of all the selected elements in a widget on a breakdown dashboard](../image/ah-from-multi-element-aggregate.png "Analytics hub with aggregate score of three elements")
 
@@ -223,5 +223,5 @@ The Analytics Hub follows whichever domain you have selected in the System Setti
 
 Any target, threshold, or comment you add is automatically associated with the current domain. The **Edit scores** option is not available.
 
-Besides system settings, some dashboards are configured so that you can select the domain on the dashboard. If you navigate to the Analytics Hub from a widget on such a dashboard, you see only the scores that are collected for that domain. For more information, see [Associate a domain configuration with a dashboard](../task/associate-domain-config-dashboard.md).
+Besides system settings, some dashboards are configured so that you can select the domain on the dashboard. If you navigate to the Analytics Hub from a widget on such a dashboard, you see only the scores that are collected for that domain. For more information, see [Associate a domain configuration with a dashboard](associate-domain-config-dashboard.md).
 

@@ -23,7 +23,7 @@ The following table lists the mandatory fields for the Purchase Order Line inbou
 |ERP PO number|String|Purchase order number from the ERP system.|
 |ERP PO line number|String|Purchase order line number from the ERP system.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

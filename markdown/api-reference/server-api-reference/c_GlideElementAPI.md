@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideElement API provides a number of convenient script methods for dealing with fields and their values. GlideElement methods are available for the fields of the current glide record.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideElement - canCreate\(\)
 
@@ -77,7 +77,7 @@ I can create new records for the field Problem statement for - PRB0001001
 
 ### Scoped equivalent
 
-To use the canCreate\(\) method in a scoped application, use the corresponding scoped method: [canCreate\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the canCreate\(\) method in a scoped application, use the corresponding scoped method: [canCreate\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - canRead\(\)
 
@@ -117,7 +117,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the canRead\(\) method in a scoped application, use the corresponding scoped method: [canRead\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the canRead\(\) method in a scoped application, use the corresponding scoped method: [canRead\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - canWrite\(\)
 
@@ -157,7 +157,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the canWrite\(\) method in a scoped application, use the corresponding scoped method: [canWrite\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the canWrite\(\) method in a scoped application, use the corresponding scoped method: [canWrite\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - changes\(\)
 
@@ -202,7 +202,7 @@ if (!current.assigned_to.nil() && current.assigned_to.changes()) {
 
 ### Scoped equivalent
 
-To use the changes\(\) method in a scoped application, use the corresponding scoped method: [changes\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the changes\(\) method in a scoped application, use the corresponding scoped method: [changes\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - changesFrom\(Object value\)
 
@@ -235,7 +235,7 @@ else {
 
 ### Scoped equivalent
 
-To use the changesFrom\(\) method in a scoped application, use the corresponding scoped method: [changesFrom\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the changesFrom\(\) method in a scoped application, use the corresponding scoped method: [changesFrom\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - changesTo\(Object value\)
 
@@ -270,7 +270,7 @@ else {
 
 ### Scoped equivalent
 
-To use the changesTo\(\) method in a scoped application, use the corresponding scoped method: [changesTo\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the changesTo\(\) method in a scoped application, use the corresponding scoped method: [changesTo\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - dateNumericValue\(\)
 
@@ -294,7 +294,7 @@ Output: 98000
 
 ### Scoped equivalent
 
-To use the dateNumericValue\(\) method in a scoped application, use the corresponding scoped method: [dateNumericValue\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the dateNumericValue\(\) method in a scoped application, use the corresponding scoped method: [dateNumericValue\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - debug\(Object o\)
 
@@ -341,7 +341,7 @@ The value of the tree_picker attribute in the location column is true
 
 ### Scoped equivalent
 
-To use the getAttribute\(\) method in a scoped application, use the corresponding scoped method: [getAttribute\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getAttribute\(\) method in a scoped application, use the corresponding scoped method: [getAttribute\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getBaseTableName\(\)
 
@@ -419,7 +419,7 @@ false
 
 ### Scoped equivalent
 
-To use the getBooleanAttribute\(\) method in a scoped application, use the corresponding scoped method: [getBooleanAttribute\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getBooleanAttribute\(\) method in a scoped application, use the corresponding scoped method: [getBooleanAttribute\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getChoices\(String dependent\)
 
@@ -444,7 +444,7 @@ var choices = glideRecord.urgency.getChoices();
 
 ### Scoped equivalent
 
-To use the getChoices\(\) method in a scoped application, use the corresponding scoped method: [getChoices\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getChoices\(\) method in a scoped application, use the corresponding scoped method: [getChoices\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getChoiceValue\(\)
 
@@ -490,7 +490,7 @@ The label of the current priority '4' for the change request - CHG0000011 is - 4
 
 ### Scoped equivalent
 
-To use the getChoiceValue\(\) method in a scoped application, use the corresponding scoped method: [getChoiceValue\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getChoiceValue\(\) method in a scoped application, use the corresponding scoped method: [getChoiceValue\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getDebugCount\(\)
 
@@ -621,7 +621,7 @@ for (var i = 0; i < fields.size(); i++) {
 
 ### Scoped equivalent
 
-To use the getDisplayValue\(\) method in a scoped application, use the corresponding scoped method: [getDisplayValue\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getDisplayValue\(\) method in a scoped application, use the corresponding scoped method: [getDisplayValue\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getDisplayValueExt\(Number maxChar, String nullSub\)
 
@@ -703,11 +703,11 @@ The Display Value of the Configuration Item for the incident - INC0000069 is NYC
 
 Gets the display value of the field in the language passed as a parameter.
 
-The result is only applicable to translatable field types such as **Choice**, **Translated Field**, and **Translated Text**. For other field types, the result defaults to [getDisplayValue\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+The result is only applicable to translatable field types such as **Choice**, **Translated Field**, and **Translated Text**. For other field types, the result defaults to [getDisplayValue\(\)](c_GlideElementScopedAPI.md#).
 
 You must have the corresponding language plugin to retrieve a translated value. For information, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
-See also [Scoped GlideElement - getLabelLang\(String language\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+See also [Scoped GlideElement - getLabelLang\(String language\)](c_GlideElementScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -736,7 +736,7 @@ getDisplayValueLang: Akzeptieren
 
 ### Scoped equivalent
 
-To use the getDisplayValueLang\(\) method in a scoped application, use the corresponding scoped method: [getDisplayValueLang\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getDisplayValueLang\(\) method in a scoped application, use the corresponding scoped method: [getDisplayValueLang\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getDynamicAttribute\(\)
 
@@ -746,9 +746,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -777,9 +777,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -822,9 +822,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -879,7 +879,7 @@ for (i=0; i<fields.size(); i++) {
 
 ### Scoped equivalent
 
-To use the getED\(\) method in a scoped application, use the corresponding scoped method: [getED\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getED\(\) method in a scoped application, use the corresponding scoped method: [getED\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getElementValue\(String value\)
 
@@ -1023,7 +1023,7 @@ for (var i = 0; i < fields.size(); i++) {
 
 Retrieves the platform object associated with the field's value.
 
-For a use case, see [Modify GlideDateTime field values](../../../../../script/useful-scripts/reference/r_UsefulFieldScripts.md#section_mod-gdt-fields).
+For a use case, see [Modify GlideDateTime field values](../scripts/r_UsefulFieldScripts.md#section_mod-gdt-fields).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -1082,7 +1082,7 @@ Duration display value: 8 Hours
 
 ### Scoped equivalent
 
-To use the getGlideObject\(\) method in a scoped application, use the corresponding scoped method: [getGlideObject\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getGlideObject\(\) method in a scoped application, use the corresponding scoped method: [getGlideObject\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getGlideRecord\(\)
 
@@ -1155,7 +1155,7 @@ if(gr.next()){
 
 ### Scoped equivalent
 
-To use the getHTMLValue\(\) method in a scoped application, use the corresponding scoped method: [getHTMLValue\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getHTMLValue\(\) method in a scoped application, use the corresponding scoped method: [getHTMLValue\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getHTMLValueExt\(Number maxChar, String nullSub\)
 
@@ -1230,7 +1230,7 @@ for (var i = 0; i < na.length; i++)
 
 ### Scoped equivalent
 
-To use the getJournalEntry\(\) method in a scoped application, use the corresponding scoped method: [getJournalEntry\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getJournalEntry\(\) method in a scoped application, use the corresponding scoped method: [getJournalEntry\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getLabel\(\)
 
@@ -1269,7 +1269,7 @@ while(now_GR.next()) {
 
 ### Scoped equivalent
 
-To use the getLabel\(\) method in a scoped application, use the corresponding scoped method: [getLabel\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getLabel\(\) method in a scoped application, use the corresponding scoped method: [getLabel\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getLabelLang\(String language\)
 
@@ -1279,8 +1279,8 @@ You must have the corresponding language plugin to retrieve a translated value. 
 
 See also:
 
--   [getDisplayValueLang\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#)
--   [getLabel\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#)
+-   [getDisplayValueLang\(\)](c_GlideElementScopedAPI.md#)
+-   [getLabel\(\)](c_GlideElementScopedAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -1309,7 +1309,7 @@ getLabelLang: Titel
 
 ### Scoped equivalent
 
-To use the getLabelLang\(\) method in a scoped application, use the corresponding scoped method: [getLabelLang\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getLabelLang\(\) method in a scoped application, use the corresponding scoped method: [getLabelLang\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getName\(\)
 
@@ -1370,7 +1370,7 @@ Field Value: Luddy
 
 ### Scoped equivalent
 
-To use the getName\(\) method in a scoped application, use the corresponding scoped method: [getName\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getName\(\) method in a scoped application, use the corresponding scoped method: [getName\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getRefRecord\(\)
 
@@ -1405,7 +1405,7 @@ if (grUSER.isValidRecord())
 
 ### Scoped equivalent
 
-To use the getRefRecord\(\) method in a scoped application, use the corresponding scoped method: [getRefRecord\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getRefRecord\(\) method in a scoped application, use the corresponding scoped method: [getRefRecord\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getStyle\(\)
 
@@ -1461,7 +1461,7 @@ if (current.approver.getTableName() == "sysapproval_approver") {
 
 ### Scoped equivalent
 
-To use the getTableName\(\) method in a scoped application, use the corresponding scoped method: [getTableName\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getTableName\(\) method in a scoped application, use the corresponding scoped method: [getTableName\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getTextAreaDisplayValue\(\)
 
@@ -1589,7 +1589,7 @@ Priority 1
 
 ### Scoped equivalent
 
-To use the getValue\(\) method in a scoped application, use the corresponding scoped method: [Scoped GlideElement - getValue\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the getValue\(\) method in a scoped application, use the corresponding scoped method: [Scoped GlideElement - getValue\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - getXHTMLValue\(\)
 
@@ -1763,7 +1763,7 @@ if (current.start_date.changes() || current.end_date.changes() || current.assign
 
 ### Scoped equivalent
 
-To use the nil\(\) method in a scoped application, use the corresponding scoped method: [nil\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the nil\(\) method in a scoped application, use the corresponding scoped method: [nil\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - setDateNumericValue\(Number milliseconds\)
 
@@ -1794,7 +1794,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the setDateNumericValue\(\) method in a scoped application, use the corresponding scoped method: [setDateNumericValue\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the setDateNumericValue\(\) method in a scoped application, use the corresponding scoped method: [setDateNumericValue\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - setDisplayValue\(Object displayValue\)
 
@@ -1810,7 +1810,7 @@ Sets the display value of the field.
 
 ### Scoped equivalent
 
-To use the setDisplayValue\(\) method in a scoped application, use the corresponding scoped method: [setDisplayValue\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the setDisplayValue\(\) method in a scoped application, use the corresponding scoped method: [setDisplayValue\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - setError\(String errorMessage\)
 
@@ -1840,7 +1840,7 @@ if ((!current.u_date1.nil()) && (!current.u_date2.nil())) {
 
 ### Scoped equivalent
 
-To use the setError\(\) method in a scoped application, use the corresponding scoped method: [setError\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the setError\(\) method in a scoped application, use the corresponding scoped method: [setError\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - setInitialValue\(Object value\)
 
@@ -1930,7 +1930,7 @@ now_GR.insert();
 
 ### Scoped equivalent
 
-To use the setValue\(\) method in a scoped application, use the corresponding scoped method: [setValue\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the setValue\(\) method in a scoped application, use the corresponding scoped method: [setValue\(\)](c_GlideElementScopedAPI.md#).
 
 ## GlideElement - toString\(\)
 
@@ -1966,5 +1966,5 @@ function doit() {
 
 ### Scoped equivalent
 
-To use the toString\(\) method in a scoped application, use the corresponding scoped method: [toString\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#).
+To use the toString\(\) method in a scoped application, use the corresponding scoped method: [toString\(\)](c_GlideElementScopedAPI.md#).
 

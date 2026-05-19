@@ -81,13 +81,13 @@ To facilitate custom processing of incoming SOAP requests, the following global 
 -   soapRequestDocument: Java org.w3c.dom.Document object representing the incoming SOAP envelope.
 -   soapRequestXML: String object representing the incoming SOAP envelope XML.
 -   request: Javascript object that contains mapped values \(mapped to input parameter names\) of the incoming SOAP envelope.
--   response: Javascript object that allows you to customize the response values. See [Customize Response](../task/t_CustomizeResponse.md)
+-   response: Javascript object that allows you to customize the response values. See [Customize Response](t_CustomizeResponse.md)
 
--   **[Create a new scripted SOAP web service](../reference/createSOAPwebservice.md)**  
+-   **[Create a new scripted SOAP web service](createSOAPwebservice.md)**  
 Follow these examples to create a new scripted SOAP web service.
--   **[Customize response](../task/t_CustomizeResponse.md)**  
+-   **[Customize response](t_CustomizeResponse.md)**  
 Follow this example to customize and control the XML payload of a SOAP response.
--   **[Create a scripted SOAP web service using a static WSDL](../reference/createSOAPwebserviceStaticWSDL.md)**  
+-   **[Create a scripted SOAP web service using a static WSDL](createSOAPwebserviceStaticWSDL.md)**  
 Follow these examples to create a scripted SOAP web service using a static WSDL.
 
 **Parent Topic:**[SOAP web service](c_SOAPWebService.md)

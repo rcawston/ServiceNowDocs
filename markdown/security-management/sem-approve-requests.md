@@ -114,7 +114,7 @@ Two
 The approval flow for risk reduction is same as the exception approvals \(deferrals\).
 
 </td></tr></tbody>
-</table>See [Vulnerability Response personas and granular roles](../../vulnerability-response/concept/vr-persona-overview.md#) and [Assign the Vulnerability Response persona roles using Setup Assistant](../../vulnerability-response/task/vr-assign-personas_SA.md) for more information about assigning persona roles to users and users to groups.
+</table>See [Vulnerability Response personas and granular roles](vulnerability-response/vr-persona-overview.md#) and [Assign the Vulnerability Response persona roles using Setup Assistant](vulnerability-response/vr-assign-personas_SA.md) for more information about assigning persona roles to users and users to groups.
 
 **Note:**
 
@@ -173,5 +173,5 @@ Description
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Unified Security Exposure Management](../concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](using-unified-security-exposure-management.md)
 

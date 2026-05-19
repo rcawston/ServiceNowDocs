@@ -30,5 +30,5 @@ Role required: admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[Calendar integration](../reference/r_CalendarIntegration.md)
+**Parent Topic:**[Calendar integration](r_CalendarIntegration.md)
 

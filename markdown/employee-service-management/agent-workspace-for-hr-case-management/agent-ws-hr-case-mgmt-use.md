@@ -18,8 +18,8 @@ As an HR agent, use the Agent Workspace for HR Case Management to interact with 
 **Note:** The COEs available to you may differ depending on the HR package you have.
 
 -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
--   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
--   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](../task/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
+-   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](../hr-service-delivery/hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
+-   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](../hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
 -   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
 
 You can start work in the Agent Workspace for HR Case Management from one of these areas:
@@ -148,7 +148,7 @@ Icons that enable you to get quick access to information about the opened for an
 
 -   ![HR profile icon](../reference/images/hr-profile-icon.png): Select the **Open HR Profile** icon to access detailed information related to the person in the HR case. You will see details like HR profile, employee information, contact information, cases opened for the person etc. The same information is briefly displayed in the At-a-glance side panel.
 -   ![Search for record icon](../image/magnifying-glass.png): Select the **Search for Record** icon to access a list of all related records within your company. The list is displayed relevant to the field on which you are searching. You can filter or sort in the list to refine your search results.
--   ![Open deep link icon](../reference/images/deep-link-icon.png): Select the Open deep link icon to access information outside of the application to help fulfill the case. For information about configuring deep links, see [Link generator for HR Service Delivery](HRLinkGenerator.md).
+-   ![Open deep link icon](../reference/images/deep-link-icon.png): Select the Open deep link icon to access information outside of the application to help fulfill the case. For information about configuring deep links, see [Link generator for HR Service Delivery](../hr-service-delivery/HRLinkGenerator.md).
 
 **Note:** For information on how to set up custom actions on record fields, see Set up custom actions on record fields in Workspace.
 

@@ -20,7 +20,7 @@ Build a custom input or response control that topic authors can use in topics or
 
 [Create the custom control definition](create-custom-control-definition.md).
 
-**Important:** To implement secure \(password2\) inputs in your Virtual Agent custom control, you must adhere to the scoped application requirements in Workflow Studio. For details, see [Workflow Studio scoped application requirements for secure inputs](../concept/va-fd-app-reqs-secure-inputs.md).
+**Important:** To implement secure \(password2\) inputs in your Virtual Agent custom control, you must adhere to the scoped application requirements in Workflow Studio. For details, see [Workflow Studio scoped application requirements for secure inputs](va-fd-app-reqs-secure-inputs.md).
 
 **Tip:** Developers and topic authors may need to access custom controls created in other application scopes. To give them access, see [Configure cross-scope access privileges for topic blocks and custom controls](configure-cross-scope-privileges.md).
 
@@ -147,7 +147,7 @@ Type
 
 </td><td>
 
-Type of data being passed to the topic block. For example, **String**, **Boolean**, and so on. The fields change according to your choice. For more information, see [Input data types in Virtual Agent topics](../reference/va-data-types.md).
+Type of data being passed to the topic block. For example, **String**, **Boolean**, and so on. The fields change according to your choice. For more information, see [Input data types in Virtual Agent topics](va-data-types.md).
 
 </td></tr><tr><td>
 
@@ -208,9 +208,9 @@ Default value for the variable. This value can be used when previewing the block
 
 7.  Select the custom control node and complete the property sheet as follows:
 
-    -   For a custom input control, fill in the [Custom input properties sheet](../reference/custom-input-properties-form.md).
-    -   For a secure custom input control, fill in the [Secure custom input properties sheet](../reference/secure-custom-input-properties-form.md).
-    -   For a custom response control, fill in the [Custom output properties sheet](../reference/custom-response-properties-form.md).
+    -   For a custom input control, fill in the [Custom input properties sheet](custom-input-properties-form.md).
+    -   For a secure custom input control, fill in the [Secure custom input properties sheet](secure-custom-input-properties-form.md).
+    -   For a custom response control, fill in the [Custom output properties sheet](custom-response-properties-form.md).
 8.  To create the control, select **Save** and then **Publish**.
 
 

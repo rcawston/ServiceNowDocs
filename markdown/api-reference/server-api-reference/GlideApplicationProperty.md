@@ -21,7 +21,7 @@ To access this API you must activate the Domain Support - Domain Extensions Inst
 
 For additional information on domain-specific application properties, see [Domain-separated application properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ds-application-properties.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideApplicationProperty - getValue\(String name, String domainSysId\)
 

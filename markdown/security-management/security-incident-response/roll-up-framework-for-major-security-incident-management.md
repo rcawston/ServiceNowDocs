@@ -37,7 +37,7 @@ Rollup framework exhibit the configurations as explained in the following table.
 |Rollup Record Configuration|Captures the information which can be rolled up from task table when link/promote/propose actions are performed.|
 |List Layout Configuration|Controls the labels and list layout for various tables as shown in the Major Security Incident Management workspace tabs such as Incident Impact, Linked Records, and Threat Intelligence.|
 
--   **[Configure Linked Records in Major Security Incident Management](../task/configuring-linked-records-in-major-security-incident-management.md)**  
+-   **[Configure Linked Records in Major Security Incident Management](configuring-linked-records-in-major-security-incident-management.md)**  
 Use Linked Records Configuration to store the information of task tables that can be used to link/promote/propose to Major Security Incident.
 -   **[Configure Rollup Records in Major Security Incident Management](roll-up-record-configuration-in-major-security-incident-management.md)**  
 Configure Roll up records in Major Security Incident Management to control the information, which will be rolled up when the source record is linked/proposed/promoted as Major Security Incidents.
@@ -48,5 +48,5 @@ The following steps explain an example use case on how to add support to link/pr
 -   **[Perform on demand atomic rollup](perform-on-demand-atomic-rollup.md)**  
 Rollup framework cannot handle updates to the existing linked records. In such cases, on demand atomic rollup should happen for linked records, which can be achieved via business rules.
 
-**Parent Topic:**[Major Security Incident Management](../reference/major-security-incident-management-landing-page.md)
+**Parent Topic:**[Major Security Incident Management](major-security-incident-management-landing-page.md)
 

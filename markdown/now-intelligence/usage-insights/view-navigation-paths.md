@@ -61,5 +61,5 @@ Change the root screen several ways:-   Choose a start screen from the list labe
 Choose Session start from the **Navigation path analysis starting with** list to return to the full navigation path analysis.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+</table>**Parent Topic:**[Using Usage Insights](using-uxa.md)
 

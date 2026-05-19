@@ -25,7 +25,7 @@ Role required: sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
 2.  To generate a new QR code, click **New**.
 
-    For more information, refer to [Generate and print QR code for a space or room](generate-qr-code-1.md).
+    For more information, refer to [Generate and print QR code for a space or room](../employee-service-management/generate-qr-code-1.md).
 
 3.  Select the QR code that you want to view or update.
 
@@ -38,5 +38,5 @@ Role required: sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
     -   To delete the QR code, click **Delete**.
 
-**Parent Topic:**[QR code management](../concept/qr-code-mgmt.md)
+**Parent Topic:**[QR code management](qr-code-mgmt.md)
 

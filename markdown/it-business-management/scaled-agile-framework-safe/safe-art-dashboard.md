@@ -29,7 +29,7 @@ Visualize how the ART members are progressing on features and program increments
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the Story Cycle Time report. For more information, see [Using Solution Library for Essential SAFe dashboards](../reference/using-solution-library-for-essential-safe-dashboards.md).
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the Story Cycle Time report. For more information, see [Using Solution Library for Essential SAFe dashboards](using-solution-library-for-essential-safe-dashboards.md).
 
 <table id="table_xvt_hl4_2fb"><thead><tr><th>
 
@@ -136,7 +136,7 @@ Track the historical performance of the ART on achieving their PI objectives.
 
  The horizontal axis shows the completed PIs and the vertical axis shows the range of business value achieved in percentage \(%\).
 
- Each series is the representation of the business value achieved, which is calculated from the planned and actual business values of the PI objectives. For more information, see [SAFe PI objectives](../../../product/agile-SAFe/concept/safe-pi-objectives.md).
+ Each series is the representation of the business value achieved, which is calculated from the planned and actual business values of the PI objectives. For more information, see [SAFe PI objectives](safe-pi-objectives.md).
 
  From the chart, you can see which teams are consistently achieving between 80% and 100% of the set PI objectives, which is the ideal range according to SAFe.
 

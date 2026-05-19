@@ -24,7 +24,7 @@ The following responsibilities are provided with the Service Model Foundation pl
 
 **Note:** Responsibilities are stored in the Responsibility Definition \[sn\_customerservice\_responsibility\_def\] table.
 
-For the list of responsibilities included in the base system, see [List of responsibilities provided with the base system](list-of-reponsibilities-provided-with-base-system.md). To create a responsibility, see [Create a responsibility definition](../task/t_CreateAResponsibilityDefinition.md).
+For the list of responsibilities included in the base system, see [List of responsibilities provided with the base system](list-of-reponsibilities-provided-with-base-system.md). To create a responsibility, see [Create a responsibility definition](t_CreateAResponsibilityDefinition.md).
 
 ## Customizing responsibility definitions
 
@@ -34,7 +34,7 @@ You can use the responsibility definitions provided with Service Model Foundatio
 
 If you have an existing account manager responsibility definition, you must evaluate the functionality of the account manager responsibility definition provided with the Service Model Foundation plugins.
 
-**Note:** Creating and using responsibility definitions is a feature available in releases before Paris. Customers can create responsibility definitions using the Responsibility Definition \(sn\_customerservice\_responsibility\_def\) table and use those definitions to create account teams using the Account Team Member \(sn\_customerservice\_team\_member\) table. For more information, see [Create account teams](../concept/configure-csm-account-teams.md).
+**Note:** Creating and using responsibility definitions is a feature available in releases before Paris. Customers can create responsibility definitions using the Responsibility Definition \(sn\_customerservice\_responsibility\_def\) table and use those definitions to create account teams using the Account Team Member \(sn\_customerservice\_team\_member\) table. For more information, see [Create account teams](configure-csm-account-teams.md).
 
 ## Create a unique responsibility definition
 

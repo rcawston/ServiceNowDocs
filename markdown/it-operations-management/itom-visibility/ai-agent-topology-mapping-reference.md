@@ -21,5 +21,5 @@ AI Agent Topology Mapping discovers Amazon Bedrock AI services and agents during
 -   **[Microsoft Foundry \(Classic\) pattern-based discovery](microsoft-foundry-classic-pattern.md)**  
 AI Agent Topology Mapping discovers Microsoft Foundry \(Classic\) services and agents during horizontal discovery.
 
-**Parent Topic:**[ITOM Visibility](../../it-operations-management/reference/itom-visibility-landing-page.md)
+**Parent Topic:**[ITOM Visibility](itom-visibility-landing-page.md)
 

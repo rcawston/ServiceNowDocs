@@ -51,5 +51,5 @@ Historical jobs also collect snapshots of the existing data. Performance Analyti
 
 After collecting historical data, use a scheduled data collection job to collect new scores regularly.
 
-**Parent Topic:**[Collecting indicator scores](../concept/c_ClctData.md)
+**Parent Topic:**[Collecting indicator scores](c_ClctData.md)
 

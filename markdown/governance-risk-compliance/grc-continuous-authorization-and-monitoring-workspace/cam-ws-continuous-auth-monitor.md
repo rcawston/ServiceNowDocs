@@ -17,20 +17,20 @@ The CAM Workspace is a centralized hub where you can continuously monitor and ma
 
 -   **[Monitoring and managing security from the CAM Workspace Home page](cam-ws-home-page.md)**  
 The CAM Workspace is a centralized hub where you can continuously monitor and manage compliance of users and systems with the NIST Risk Management Framework to ensure adherence to your security policies and guidelines.
--   **[Monitor and manage your NIST security posture](../task/view-dashboards-cam-ws.md)**  
+-   **[Monitor and manage your NIST security posture](view-dashboards-cam-ws.md)**  
 Access the CAM Overview, AO Overview, and SCA Overview dashboards from the CAM Workspace to monitor and analyze data and view CAM reports.
--   **[Monitor and manage CAM tasks](../task/tasks-page-cam-ws.md)**  
+-   **[Monitor and manage CAM tasks](tasks-page-cam-ws.md)**  
 Use the Tasks page to address the approvals, control attestations, and all other items that are assigned to you and to your group.
 -   **[Managing POA&amp;Ms issues](cam-ws-poam-ws.md)**  
 In CAM application, all issues related to an authorization package are called as Plan of Actions and Milestones \(POA&amp;Ms\). The issues can be package issues, or control issues, engagement issues, or control test issues that are related to the package.
--   **[View reports on authorization boundary elements](../task/auth-bound-overview-ws.md)**  
+-   **[View reports on authorization boundary elements](auth-bound-overview-ws.md)**  
 Use the authorization boundary overview page to define the parameters of a security measure for an organization.
--   **[View package details in CAM Workspace](../task/auth-package-overview-ws.md)**  
+-   **[View package details in CAM Workspace](auth-package-overview-ws.md)**  
 Use the authorization package overview page to view documents and evidence that help you to assess your organization's security posture.
 -   **[ATO artifacts for an authorization package](generate-ato-artifacts-cam-ws.md)**  
 Generate Authority to Operate \(ATO\) artifacts such as System Security Plan \(SSP\), Security Assessment Report \(SAR\), Plan of Actions and Milestones \(POA&amp;Ms\), Security Assessment Plan \(SAP\), Authority to Operate \(ATO Letter\), and Executive Summary from an authorization package in Microsoft Word format. Generating ATO artifacts as Microsoft Word format enhances ease of editing, collaboration, and compliance, confirming professional and portable documents.
 -   **[CAM OSCAL](oscal-cam-ws.md)**  
 Open Security Controls Assessment Language \(OSCAL\) provides a standardized way to express control-related information, enabling interoperability, consistency, and automation in IT security. It supports the JSON format only. CAM supports OSCAL version 1.1.2.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 

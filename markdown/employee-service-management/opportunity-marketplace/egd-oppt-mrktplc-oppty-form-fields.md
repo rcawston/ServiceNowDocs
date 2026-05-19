@@ -172,7 +172,7 @@ There are 3 controls for **Preferred skills**. The skill and proficiency levels 
 
 </td><td>
 
-There are 4 levels of individual contributors and 2 levels of management included with the OPM base system. The **Employee level** is included in the Skills Foundation job level table \[sn\_skills\_int\_job\_level\]. For more information about skills, job levels, and roles, see [Configuring Skills Foundation](../../skills-intelligence/concept/configuring-skills-intelligence.md).
+There are 4 levels of individual contributors and 2 levels of management included with the OPM base system. The **Employee level** is included in the Skills Foundation job level table \[sn\_skills\_int\_job\_level\]. For more information about skills, job levels, and roles, see [Configuring Skills Foundation](../talent-development-core/configuring-skills-intelligence.md).
 
 </td></tr><tr><td>
 
@@ -183,5 +183,5 @@ There are 4 levels of individual contributors and 2 levels of management include
 Attachments provide more details about skills and roles for the opportunity.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference Opportunity Marketplace roles and tables](../concept/egd-oppt-mrktplc-references.md)
+</table>**Parent Topic:**[Reference Opportunity Marketplace roles and tables](egd-oppt-mrktplc-references.md)
 

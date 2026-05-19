@@ -17,5 +17,5 @@ The **HRSD Framework Integration** and **HRSD Integration Framework Complete** p
 
 These widgets are available only when the Human Resources Scoped App: Core \[com.sn\_hr\_core\] application is activated. For more information on these widgets, navigate to **Employee Service Center** &gt; **To-dos Configuration**.
 
-**Parent Topic:**[Enterprise Service Management Integrations Framework reference](../task/ent-service-mgmt-int-framework-reference.md)
+**Parent Topic:**[Enterprise Service Management Integrations Framework reference](ent-service-mgmt-int-framework-reference.md)
 

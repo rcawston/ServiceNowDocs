@@ -45,5 +45,5 @@ For Flow generation v 28.2 and later releases, grant a flow creation role to eac
 
 For earlier versions of the Flow generation application, grant the now.assist.creator role and a flow creation role to each user who will use the Flow recommendations skill.
 
-**Parent Topic:**[Flow recommendations](../reference/flow-recommendations-landing.md)
+**Parent Topic:**[Flow recommendations](flow-recommendations-landing.md)
 

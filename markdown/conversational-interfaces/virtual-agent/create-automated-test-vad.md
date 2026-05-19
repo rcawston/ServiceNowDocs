@@ -86,5 +86,5 @@ The test case is saved. To review your saved test case, select **Manage** on the
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](../concept/automated-testing-va-topics.md)
+**Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](automated-testing-va-topics.md)
 

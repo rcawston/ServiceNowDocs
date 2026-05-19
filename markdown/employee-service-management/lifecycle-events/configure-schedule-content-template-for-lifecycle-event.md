@@ -21,10 +21,10 @@ Have the content that you want to use with the schedule content template. You ca
 
 |Content type|Description|
 |------------|-----------|
-|[Configure mobile content](../../employee-center/task/ecpro-content-delivery-mobile.md)|Mobile content is delivered as a mobile banner in the Now Mobile and Mobile Onboarding apps.|
-|[Content Publishing](../../employee-center/concept/ec-publish-content.md)|Portal content is delivered as content \(such as a banner, calendar, or video\) in a portal such as the Employee Service Center.|
-|[Notification content](../../employee-center/concept/ec-notification-content.md)|Notification content is delivered as a notification.|
-|[Creating to-do content that appears in a banner or styled content](../../employee-center/concept/ecpro-content-to-dos.md)|To-do content is delivered as a to-do in both portal and mobile.|
+|[Configure mobile content](../employee-experience-foundation/ecpro-content-delivery-mobile.md)|Mobile content is delivered as a mobile banner in the Now Mobile and Mobile Onboarding apps.|
+|[Content Publishing](../employee-experience-foundation/ec-publish-content.md)|Portal content is delivered as content \(such as a banner, calendar, or video\) in a portal such as the Employee Service Center.|
+|[Notification content](../employee-experience-foundation/ec-notification-content.md)|Notification content is delivered as a notification.|
+|[Creating to-do content that appears in a banner or styled content](../employee-experience-foundation/ecpro-content-to-dos.md)|To-do content is delivered as a to-do in both portal and mobile.|
 
 Role required: admin
 
@@ -54,7 +54,7 @@ Role required: admin
     -   Portal content
     -   Notification content
     -   To-do content
-    For a list of the available fields for each content type, see [Schedule content](../../employee-center/concept/ec-content-publishing-schedule.md).
+    For a list of the available fields for each content type, see [Schedule content](../employee-experience-foundation/ec-content-publishing-schedule.md).
 
 7.  Click **Submit** or **Update**.
 
@@ -63,5 +63,5 @@ Role required: admin
 
 Use the schedule content template to deliver content as part of a lifecycle event. See [Configure a lifecycle event activity for content](configure-hr-lifecycle-event-activity.md#) for more information.
 
-**Parent Topic:**[Configure the supporting components for a lifecycle event](../concept/configure-supporting-components-for-lifecycle-event.md)
+**Parent Topic:**[Configure the supporting components for a lifecycle event](configure-supporting-components-for-lifecycle-event.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Communities, Customer Service Management]
 
 Reference topics provide additional information about communities.
 
--   **[Quick start tests for Communities](../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)**  
+-   **[Quick start tests for Communities](quick-start-tests-communities.md)**  
 Validate that Communities still work after you make any configuration change, such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 -   **[Properties installed with Communities](communities-properties.md)**  
 Community administrators can use properties to configure Communities behavior.

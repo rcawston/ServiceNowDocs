@@ -21,7 +21,7 @@ Make sure you have already created a flexible service. See [Create a flexible se
 
 **Warning:** Starting with Workplace Reservation Management version 2.1.2, The Flexible Services related list is no longer available. If you have installed Workplace Reservation Management version 2.1.2 or above directly \(as a first time user\), there will be no impact and the following conditions does not apply to you.
 
-After upgrading, the flexible services are available as Workplace Service Items. To view the available workplace service items, view the Workplace Service Items related list. To add a workplace service item to the workplace space/room, open the Workplace Service and select the Workplace Service Item. After you open the Workplace Service Item record, add the workplace in the Workplace Service Item Locations related list. For more information, refer to [Make a workplace service item available to a workplace location](../../workplace-case-mgmt/task/add-workplace-service-item-to-workplace-locs.md).
+After upgrading, the flexible services are available as Workplace Service Items. To view the available workplace service items, view the Workplace Service Items related list. To add a workplace service item to the workplace space/room, open the Workplace Service and select the Workplace Service Item. After you open the Workplace Service Item record, add the workplace in the Workplace Service Item Locations related list. For more information, refer to [Make a workplace service item available to a workplace location](../workplace-case-management/add-workplace-service-item-to-workplace-locs.md).
 
 Role required: sn\_wsd\_rsv.admin
 

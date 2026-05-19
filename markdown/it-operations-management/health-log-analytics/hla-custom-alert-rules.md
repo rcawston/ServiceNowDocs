@@ -39,9 +39,9 @@ The following examples show how the type of log data determines whether a custom
 **Related topics**  
 
 
-[Define a Log Analytics alert rule in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-alert-rule-add-sow.md)
+[Define a Log Analytics alert rule in Health Log Analytics](hla-op-alert-rule-add-sow.md)
 
-[Change a Log Analytics alert rule in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-defined-alert-modify-sow.md)
+[Change a Log Analytics alert rule in Health Log Analytics](hla-op-defined-alert-modify-sow.md)
 
-[Delete a Log Analytics alert rule in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-defined-alert-delete-sow.md)
+[Delete a Log Analytics alert rule in Health Log Analytics](hla-op-defined-alert-delete-sow.md)
 

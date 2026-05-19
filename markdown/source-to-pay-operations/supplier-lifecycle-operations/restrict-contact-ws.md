@@ -42,7 +42,7 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 The Primary contact column is set to **false** for this contact on the new table page, and the contact no longer has the primary contact role.
 
-**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](../concept/managing-contacts-smw.md)
+**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](managing-contacts-smw.md)
 
 **Related topics**  
 

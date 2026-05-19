@@ -21,10 +21,10 @@ You can leverage ServiceNow API access policies like IP range and role based res
 
 As an admin, you can perform the following actions to apply the policies.
 
--   Activate SOAP API Access Policy and Authentication Profile plugins. For more information, see [Activate SOAP API access policy](../task/activate-soap-api-access-policy.md).
--   Create SOAP API Access Policies and associate those policies with an authentication profile. For more information, see [Create SOAP API access policy](../task/create-soap-api-access-policy.md) and [Create an authentication profile](../../authentication/task/create-an-authentication-profile.md).
+-   Activate SOAP API Access Policy and Authentication Profile plugins. For more information, see [Activate SOAP API access policy](activate-soap-api-access-policy.md).
+-   Create SOAP API Access Policies and associate those policies with an authentication profile. For more information, see [Create SOAP API access policy](create-soap-api-access-policy.md) and [Create an authentication profile](create-an-authentication-profile.md).
 
     **Note:** The policies are applicable to SOAP table API or scripted SOAP API. Besides the standard `http` and `WSSE` authentication profile.
 
--   Create authentication policies such as IP range, role-based restrictions and associate this policy to the authentication profile. For more information, see [Create an API authentication policy](../../authentication/task/create-api-authentication-policy.md).
+-   Create authentication policies such as IP range, role-based restrictions and associate this policy to the authentication profile. For more information, see [Create an API authentication policy](create-api-authentication-policy.md).
 

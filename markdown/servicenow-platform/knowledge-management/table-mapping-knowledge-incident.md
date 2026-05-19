@@ -82,5 +82,5 @@ Role required: admin
     If the fields configured in the basic and advanced field mapping are different, the field configurations in the advanced field mapping are appended to the field configurations in the basic field mapping.
 
 
-**Parent Topic:**[Knowledge article creation from an incident](../concept/article-from-incident.md)
+**Parent Topic:**[Knowledge article creation from an incident](article-from-incident.md)
 

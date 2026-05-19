@@ -224,12 +224,12 @@ Service Operations Workspace ITSM Admin Center\[sn\_sow\_itsm\_admin\]
 Provides quick access to ITSM related configurations in Service Operations Workspace.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Operations Workspace for ITSM reference](../concept/sow-reference.md)
+</table>**Parent Topic:**[Service Operations Workspace for ITSM reference](sow-reference.md)
 
 **Related topics**  
 
 
-[Terminology in Service Operations Workspace for ITSM](../concept/terminology-used-in-sow-for-itsm.md)
+[Terminology in Service Operations Workspace for ITSM](terminology-used-in-sow-for-itsm.md)
 
 [Additional roles for SOW admin](additional-roles-sow-admin.md)
 

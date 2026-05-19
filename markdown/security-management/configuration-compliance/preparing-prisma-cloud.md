@@ -52,7 +52,7 @@ Verify that you have the following sets of information:-   API base URL
 
 </td><td>
 
-If not already installed and activated, install the Vulnerability Response application before you install the Vulnerability Response Integration with Palo Alto Prisma Cloud application.For more information about installing and activating the Vulnerability Response application, see [Install Vulnerability Response](../../../vulnerability-response/task/install-and-configure-vr.md). This integration requires version 15.2.0 of Vulnerability Response or later.
+If not already installed and activated, install the Vulnerability Response application before you install the Vulnerability Response Integration with Palo Alto Prisma Cloud application.For more information about installing and activating the Vulnerability Response application, see [Install Vulnerability Response](../vulnerability-response/install-and-configure-vr.md). This integration requires version 15.2.0 of Vulnerability Response or later.
 
 </td></tr><tr><td>
 

@@ -34,10 +34,10 @@ Actual costs for projects also roll up to portfolios in the same way.
 3.  Select the **Cost Plans** related list.
 
 
-**Parent Topic:**[Create a project cost plan](../../project-management/task/t_CreateAProjectCostPlan.md)
+**Parent Topic:**[Create a project cost plan](t_CreateAProjectCostPlan.md)
 
 **Related topics**  
 
 
-[Actual project costs](../../project-management/concept/actual-project-costs.md)
+[Actual project costs](actual-project-costs.md)
 

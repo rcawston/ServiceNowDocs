@@ -19,7 +19,7 @@ Create a lifecycle event case. A lifecycle event case is an HR case that is fulf
 
 Role required: sn\_hr\_le.case\_writer
 
-A lifecycle event administrator must have built the lifecycle event and created a corresponding HR service before you can create a case for that event. See [Building a lifecycle event](../concept/hr-lifecycle-event-configuration.md) for more information.
+A lifecycle event administrator must have built the lifecycle event and created a corresponding HR service before you can create a case for that event. See [Building a lifecycle event](hr-lifecycle-event-configuration.md) for more information.
 
 ## Procedure
 
@@ -35,7 +35,7 @@ A lifecycle event administrator must have built the lifecycle event and created 
 
 5.  On the HR case form, fill in the fields on the form, as appropriate.
 
-    For further details on the form fields, see [Work an HR case](t_CreateAnHRCase.md).
+    For further details on the form fields, see [Work an HR case](../hr-service-delivery/t_CreateAnHRCase.md).
 
 6.  Click **Ready for Work** to change the state from **Draft** to **Ready**.
 

@@ -64,5 +64,5 @@ By default, you cannot modify your answers to a quiz after submission. However, 
     You can modify your responses to the quiz until its due date.
 
 
-**Parent Topic:**[Using Quizzes](../concept/using-quizzes.md)
+**Parent Topic:**[Using Quizzes](using-quizzes.md)
 

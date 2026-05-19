@@ -75,7 +75,7 @@ texts
 
 </td><td>
 
-Input texts whose language should be detected.Version v3 supports bulk detection \(detection of multiple texts input in a single string\). With the Xanadu Patch 3 release, version v4 supports [Exclusion Framework](../concept/dyn-translation-exclusion-framework.md) as well as bulk detection.
+Input texts whose language should be detected.Version v3 supports bulk detection \(detection of multiple texts input in a single string\). With the Xanadu Patch 3 release, version v4 supports [Exclusion Framework](dyn-translation-exclusion-framework.md) as well as bulk detection.
 
 </td><td>
 
@@ -250,10 +250,10 @@ Choice
 
 ## What to do next
 
-For information about APIs, see [DynamicTranslation API](../concept/dyn-translation-apis.md).
+For information about APIs, see [DynamicTranslation API](dyn-translation-apis.md).
 
 -   **[Create a custom translator configuration](create-custom-translator.md)**  
 Configure Dynamic Translation for a third-party machine translation provider of your choice.
 
-**Parent Topic:**[Integration with other translation services](../concept/integration-with-other-translation-services.md)
+**Parent Topic:**[Integration with other translation services](integration-with-other-translation-services.md)
 

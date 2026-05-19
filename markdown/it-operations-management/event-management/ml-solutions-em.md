@@ -42,5 +42,5 @@ EM Alert Clustering Solution
 EM Alert Clustering Solution is a clustering solution definition used in Event Management. Allows building clustering models enabling identification of common text patterns in alerts to create alert groups. Text clusters are based on these fields: Description, Metric Name, Configuration Item Class from the Alert \[em\_alert\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Event Management reference](../reference/event-management-reference.md)
+</table>**Parent Topic:**[Event Management reference](event-management-reference.md)
 

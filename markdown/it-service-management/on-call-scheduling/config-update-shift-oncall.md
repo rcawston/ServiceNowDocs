@@ -97,10 +97,10 @@ On-Call Scheduling includes a scheduled job that checks if any shift members sho
 As a shift manager, you can review and approve time-off requests from shift members. You also specify the roster member who can cover for the time.
 -   **[Resolve gaps, conflicts, and time-off requests in a shift](resolv-gap-conflct-timeoff-oncall.md)**  
 Review and resolve gaps and conflicts. Find a replacement on-call member for time-off requests to ensure proper support coverage.
--   **[Managing roster members](../concept/managing-roster-members.md)**  
+-   **[Managing roster members](managing-roster-members.md)**  
 You can manage roster members by adding and removing users to or from the roster as needed. You can also modify the order number for a member without affecting the past shift schedule.
 
-**Parent Topic:**[Managing schedules and shifts](../../user-administration/concept/manage-schedules-and-shifts.md)
+**Parent Topic:**[Managing schedules and shifts](manage-schedules-and-shifts.md)
 
 **Related topics**  
 

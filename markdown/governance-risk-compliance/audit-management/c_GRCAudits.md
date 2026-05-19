@@ -17,7 +17,7 @@ The ServiceNow® Audit Management application involves a set of activities relat
 
 ## Audit Workspace
 
-As of version 13.0.2, there are two interfaces available for Audit Management users. They are the Classic model and Audit workspace. The Audit workspace offers a single-pane view for the audit supervisors and auditors to view the overall audit timeline and status, track budget and resources for engagement, and monitor control tests and audit task progress. For more information on the new workspace, see [Risk workspace](../../grc-workspace-audit/concept/audit-management-overview-ws.md).
+As of version 13.0.2, there are two interfaces available for Audit Management users. They are the Classic model and Audit workspace. The Audit workspace offers a single-pane view for the audit supervisors and auditors to view the overall audit timeline and status, track budget and resources for engagement, and monitor control tests and audit task progress. For more information on the new workspace, see [Risk workspace](audit-management-overview-ws.md).
 
 ## Request apps on the Store
 
@@ -33,11 +33,11 @@ The GRC: Audit Management product allows you to schedule internal audits, conduc
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the checklist to implement Audit Management](../../grc-audit-implementation/concept/audit-imple-overview.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the checklist to implement Audit Management](audit-imple-overview.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use the Audit Workspace for audit tasks](../../grc-workspace-audit/concept/audit-management-overview-ws.md)
+[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use the Audit Workspace for audit tasks](audit-management-overview-ws.md)
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ The GRC: Audit Management product allows you to schedule internal audits, conduc
 
 </td><td>
 
-[Analytics and Reporting![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Report audit results and engagement breakdowns](../../../use/dashboards/application-content-packs/grc-audit-mgmt-content-pack.md)
+[Analytics and Reporting![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Report audit results and engagement breakdowns](grc-audit-mgmt-content-pack.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

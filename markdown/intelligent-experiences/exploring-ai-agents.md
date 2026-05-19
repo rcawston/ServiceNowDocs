@@ -38,15 +38,15 @@ Example: Imagine you need to reset your password. Multiple AI agents might be 
 
     The AI Agent Studio enables you to create, manage, and test AI agents and agentic workflows in a unified environment.
 
--   **[agentic system](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[agentic system](now-assist-glossary.md#)**
 
     The ServiceNow AI Platform's agentic system uses AI agents, orchestrated by an Orchestrator, to execute Agentic workflows.
 
--   **[AI agents](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[AI agents](now-assist-glossary.md#)**
 
     On the ServiceNow AI Platform agentic system, an AI agent contains a set of large language model \(LLM\) instructions with the tools to accomplish tasks.
 
--   **[agentic workflow](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[agentic workflow](now-assist-glossary.md#)**
 
     Agentic workflows are smart, context-aware, automated processes designed and executed by AI agents. They represent dynamic, human-like processes where specialized AI agents collaborate to accomplish complex goals. Here are a few key characteristics of Agentic workflows:
 
@@ -54,7 +54,7 @@ Example: Imagine you need to reset your password. Multiple AI agents might be 
     -   **Adaptive**: Adjust to changing situations and business needs.
     -   **Collaborative**: Work together to complete complex tasks.
     -   **Intelligent**: Use large language models and business data to make informed decisions.
--   **[Orchestrator](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[Orchestrator](now-assist-glossary.md#)**
 
     The AI agent Orchestrator is a central management system that coordinates AI agents to ensure they collaborate effectively to complete complex workflows.
 
@@ -64,7 +64,7 @@ Example: Imagine you need to reset your password. Multiple AI agents might be 
 
     The guided setup process in the helps you configure your AI Agent triggers, data sources, and display locations based on your specific business needs.
 
--   **[Now Assist panel](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[Now Assist panel](now-assist-glossary.md#)**
 
     The Now Assist panel is a user-facing interface, commonly accessed through the context menu or chat interfaces. It provides quick access to agents' capabilities and enhances productivity by summarizing records, creating content, and analyzing alerts.
 

@@ -30,7 +30,7 @@ You can use external codes for the following reference fields \(objects\), inclu
 
 ## How external IDs work in pricing requests
 
-External IDs map to reference fields in ServiceNow reference tables. As an admin, before submitting a pricing request, create the context variables that define the reference fields for external IDs or codes that map to a column in a specified reference table. For more information, see [Configure context variables for external IDs](../task/configure-external-ids-pricing-requests.md).
+External IDs map to reference fields in ServiceNow reference tables. As an admin, before submitting a pricing request, create the context variables that define the reference fields for external IDs or codes that map to a column in a specified reference table. For more information, see [Configure context variables for external IDs](configure-external-ids-pricing-requests.md).
 
 Processing of a pricing request with external IDs involves the following phases:
 
@@ -82,5 +82,5 @@ Processing of a pricing request with external IDs involves the following phases:
 
 ## Context variable configuration and mapping
 
-As an admin, before submitting a REST API pricing request that uses external IDs, create the context variables that map to columns in selected ServiceNow reference tables. For more information, see [Configure context variables for external IDs](../task/configure-external-ids-pricing-requests.md).
+As an admin, before submitting a REST API pricing request that uses external IDs, create the context variables that map to columns in selected ServiceNow reference tables. For more information, see [Configure context variables for external IDs](configure-external-ids-pricing-requests.md).
 

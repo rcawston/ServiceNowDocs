@@ -38,5 +38,5 @@ Role required: itil
     **Note:** You can search the chat history by participant name, and the subject of the chat.
 
 
-**Parent Topic:**[Manage Zoom conference calls in Service Operations Workspace](../concept/manage-conference-calls-zoom.md)
+**Parent Topic:**[Manage Zoom conference calls in Service Operations Workspace](manage-conference-calls-zoom.md)
 

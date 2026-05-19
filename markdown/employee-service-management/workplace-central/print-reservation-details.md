@@ -56,5 +56,5 @@ Role required: sn\_wsd\_rsv.reservation\_planner or sn\_wsd\_rsv.reservation\_vi
     **Note:** The Print reservation feature is only available for single- and multi-child reservations and is not available for blocker reservations and multi-parent reservations.
 
 
-**Parent Topic:**[Working with Event planner](../concept/working-with-event-planner.md)
+**Parent Topic:**[Working with Event planner](working-with-event-planner.md)
 

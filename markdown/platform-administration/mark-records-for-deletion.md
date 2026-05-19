@@ -58,5 +58,5 @@ The job is saved and the form displays options to schedule the job or execute it
 
 [Preview affected records for deletion](preview-affected-records-for-deletion.md).
 
-**Parent Topic:**[Deleting records safely in Core UI](../concept/deleting-records-safely.md)
+**Parent Topic:**[Deleting records safely in Core UI](deleting-records-safely.md)
 

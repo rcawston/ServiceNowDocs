@@ -75,7 +75,7 @@ Create a Udemy spoke connection to connect to the Udemy instance.
 
         ![Connection for the Udemy spoke](../image/udemy-spoke-tile.png)
 
-    -   To manage more than one Udemy spoke connection records, you should create child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Udemy spoke connection records, you should create child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you're configuring the spoke for the first time, select **Configure**. Otherwise, select **Edit**.
 
     ![Initial connection configuration](../image/udemy-spoke-configure.png)

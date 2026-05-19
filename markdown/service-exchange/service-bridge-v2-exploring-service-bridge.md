@@ -113,5 +113,5 @@ This application enables the consumer to receive services and support from provi
 
 -   [Service Exchange for Providers](service-bridge-providers-landing-page.md)
 -   [Service Exchange for Consumers](service-bridge-consumers-landing-page.md)
--   [Service Exchange reference](../reference/service-bridge-v2-reference.md)
+-   [Service Exchange reference](service-bridge-v2-reference.md)
 

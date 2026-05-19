@@ -31,7 +31,7 @@ Role required: admin
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields and description, see [Featured Content form](../reference/featured-content-form.md).
+    For more information on the fields and description, see [Featured Content form](featured-content-form.md).
 
     **Note:** You can't add a quick link as a featured item.
 

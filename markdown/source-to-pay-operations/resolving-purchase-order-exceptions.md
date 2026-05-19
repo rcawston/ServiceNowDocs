@@ -16,25 +16,25 @@ After an exception is flagged, you can access the exception details, which expla
 
 You can collaborate with internal stakeholders and the supplier to help resolve the issue. This collaborative process not only expedites the resolution of the order issue but also ensures all the work can be tracked, audited, and reported. Automated approval routing and notifications streamline the update process, integrating with Enterprise Resource Planning \(ERP\) systems on completion.
 
--   **[Update a purchase order to accept supplier changes](../task/accept-supplier-changes.md)**  
+-   **[Update a purchase order to accept supplier changes](accept-supplier-changes.md)**  
 After an exception is assigned to you, check the impacted purchase order and accept the supplier suggested changes.
--   **[Update a purchase order to revise supplier suggested changes](../task/update-po-revise-supp-changes.md)**  
+-   **[Update a purchase order to revise supplier suggested changes](update-po-revise-supp-changes.md)**  
 After a purchase order exception is assigned to you, update the impacted purchase order by proposing changes that differ from the supplier’s suggestions.
--   **[Find alternative suppliers](../task/find-alternative-suppliers.md)**  
+-   **[Find alternative suppliers](find-alternative-suppliers.md)**  
 If a supplier's inability to fulfill an order creates a shortfall, find an alternative supplier. Review open orders with other suppliers for the same material at the required location. You can then request for expedited delivery or increased quantities.
--   **[Confirm a resolution for a purchase order exception](../task/confirm-resolution.md)**  
+-   **[Confirm a resolution for a purchase order exception](confirm-resolution.md)**  
 Confirm a resolution for a purchase order exception. You can close the purchase order exception when all necessary actions are complete.
--   **[Reassign a purchase order exception](../task/reassign-a-purchase-order-exception.md)**  
+-   **[Reassign a purchase order exception](reassign-a-purchase-order-exception.md)**  
 Reassign an open purchase order exception to another operational buyer or team member. Reassign the exception when the original assignee is unavailable, when the original assignee lacks the necessary authority, or when the workload must be balanced. This ensures exceptions continue progressing toward resolution without delays.
--   **[Change the priority level of a purchase order exception](../task/change-priority-of-poe.md)**  
+-   **[Change the priority level of a purchase order exception](change-priority-of-poe.md)**  
  Adjust the priority level of a purchase order exception to reflect its urgency and business impact. You can manage exceptions effectively by ensuring high-impact disruptions receive immediate attention while lower-risk issues are handled in appropriate sequence.
--   **[Cancel a purchase order exception](../task/cancel-purchase-orders.md)**  
+-   **[Cancel a purchase order exception](cancel-purchase-orders.md)**  
 Cancel a purchase order exception that is incorrectly filled or no longer required.
--   **[Create and assign a purchase order exception task](../task/assign-a-poe-task-to-a-collaborator.md)**  
+-   **[Create and assign a purchase order exception task](assign-a-poe-task-to-a-collaborator.md)**  
 Create a task associated with a purchase order exception and assign it to an operational buyer or collaborator. You can track the task status from the purchase order exception.
--   **[Work on a purchase order exception task](../task/work-on-a-purchase-order-exception.md)**  
+-   **[Work on a purchase order exception task](work-on-a-purchase-order-exception.md)**  
 View a purchase order exception task record to take action on your assigned task.
--   **[Create a supplier escalation case from a purchase order exception](../task/create-supplier-escalation-case-from-poe.md)**  
+-   **[Create a supplier escalation case from a purchase order exception](create-supplier-escalation-case-from-poe.md)**  
 Create a supplier escalation case from the purchase order exception record to engage procurement team members and resolve supplier issues faster.
 
 **Parent Topic:**[Use Purchase Order Management](use-purch-order-mgmt.md)
@@ -44,5 +44,5 @@ Create a supplier escalation case from the purchase order exception record to en
 
 [Reporting delivery plan issues](reporting-delivery-plan-issues.md)
 
-[Create purchase order exception from Universal Request](../task/create-po-exception-universal-req.md)
+[Create purchase order exception from Universal Request](create-po-exception-universal-req.md)
 

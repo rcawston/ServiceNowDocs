@@ -16,7 +16,7 @@ Test Agent generates test coverage for code created by Build Agent, executes tes
 
 Test Agent extends Build Agent by making every build safe before release. After Build Agent produces code changes in a development instance, Test Agent consumes the same prompt and code context to author functional Automated Test Framework \(ATF\) tests, execute those tests, and triage any failures automatically.
 
-For complete documentation on using Test Agent, see [Test Agent](../../../administer/test-agent/reference/test-agent-landing-page.md).
+For complete documentation on using Test Agent, see [Test Agent](test-agent-landing-page.md).
 
 When a test fails, Test Agent performs a root cause analysis \(RCA\) and either auto-applies safe fixes or surfaces actionable guidance in the chat panel so you can resolve the issue without leaving ServiceNow Studio or the ServiceNow IDE.
 
@@ -73,5 +73,5 @@ Test Agent is available in the following environments and scopes:
 
 **Note:** Test execution requires the ATF Test Generator and Cloud Runner app to be installed and a cloud user set up. See here for more details: https://www.servicenow.com/docs/r/zurich/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-intro.html
 
-**Parent Topic:**[Use Build Agent](../tasks/use-build-agent.md)
+**Parent Topic:**[Use Build Agent](use-build-agent.md)
 

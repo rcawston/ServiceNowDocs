@@ -64,7 +64,7 @@ The following items are installed with SGC Central:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with SGC Central](../concept/sgcc-installed-components.md).
+For more information, see [Components installed with SGC Central](sgcc-installed-components.md).
 
 ## Procedure
 

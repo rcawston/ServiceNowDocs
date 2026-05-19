@@ -29,7 +29,7 @@ From **My Active Items** widget, admins can perform the following actions.
 
 You can now configure action framework to allow employees to perform actions from the My active items.
 
-​Configure **Action group** for the primary activity to complete suitable actions. For tasks, the approve and reject actions are available out-of-the-box. For more information, see [Enable task configuration for approvals](../task/approval-hub-to-dos-page-filters.md)
+​Configure **Action group** for the primary activity to complete suitable actions. For tasks, the approve and reject actions are available out-of-the-box. For more information, see [Enable task configuration for approvals](approval-hub-to-dos-page-filters.md)
 
 **Note:** When you do not associate an action group with the tasks, the **View details** option appears to navigate to the activity details page.
 
@@ -41,7 +41,7 @@ The My Active Items widget is designed for optimal display and usability when co
 
 ![My active items widget showing the summary view at the top and the list view at the bottom of the widget.](../images/my-active-items-widget.png "My active items widget items")
 
-To change the display options, see [Perform an advanced activity configuration](../task/configure-my-activity.md).
+To change the display options, see [Perform an advanced activity configuration](configure-my-activity.md).
 
 ## Summary view
 
@@ -64,7 +64,7 @@ For more information, see [Action framework](action-group-framework.md).
 **Related topics**  
 
 
-[Perform a basic activity configuration](../task/configure-my-basic-activity.md)
+[Perform a basic activity configuration](configure-my-basic-activity.md)
 
-[Perform an advanced activity configuration](../task/configure-my-activity.md)
+[Perform an advanced activity configuration](configure-my-activity.md)
 

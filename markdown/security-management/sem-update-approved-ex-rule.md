@@ -36,5 +36,5 @@ Group rules are reapplied to these findings. Submit the rule after making the ch
     The rule moves back to the Draft state and the associated VUL is deleted. The related Findings are reopened, and group rules are applied to the individual Findings.
 
 
-**Parent Topic:**[Configuring an exception rule](../concept/sem-configure-exception-rule.md)
+**Parent Topic:**[Configuring an exception rule](sem-configure-exception-rule.md)
 

@@ -156,5 +156,5 @@ Additional comments
 Any extra remarks or observations related to the claim.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create or edit a claim](../task/create-or-edit-a-claim.md)
+</table>**Parent Topic:**[Create or edit a claim](create-or-edit-a-claim.md)
 

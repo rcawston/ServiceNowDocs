@@ -27,7 +27,7 @@ Users with an edit access to the event record can edit the fields in the recover
 -   **Actual end**
 -   **Assigned group**
 
-For more information, see [Structured workflows for crisis events](../concept/perform-tasks-to-manage-crisis-events.md).
+For more information, see [Structured workflows for crisis events](perform-tasks-to-manage-crisis-events.md).
 
 ## Procedure
 
@@ -45,7 +45,7 @@ For more information, see [Structured workflows for crisis events](../concept/pe
 
     **Note:** An ad-hoc task is added to the crisis event so that you can take corrective actions for the crisis event. When you add an ad-hoc task to the crisis event that is in the **Work in progress** state and if the activated plan is in the **Work in progress** state, the tasks will be in the **Open** state. If the activated plan is the **Pending** state, the task will be in the **Pending** state.
 
-    For more information on the fields in the New Event Task form, see [Create New Event Task form](../reference/create-new-event-task-form-uib-ws.md).
+    For more information on the fields in the New Event Task form, see [Create New Event Task form](create-new-event-task-form-uib-ws.md).
 
     **Note:** You cannot create an ad-hoc task for the activated plans that are in **Closed Complete** or **Closed Incomplete** state.
 
@@ -76,5 +76,5 @@ For more information, see [Structured workflows for crisis events](../concept/pe
 13. Select the refresh icon \(![Refresh icon.](../image/RefreshAlertsIcon.png)\) to display the updated state of the asset or plan, and the actual time taken to recover the asset.
 
 
-**Parent Topic:**[Structured workflows for crisis events](../concept/perform-tasks-to-manage-crisis-events.md)
+**Parent Topic:**[Structured workflows for crisis events](perform-tasks-to-manage-crisis-events.md)
 

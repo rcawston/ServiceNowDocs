@@ -43,7 +43,7 @@ Catalog UI policies control the behavior of catalog item forms when presented to
     **Note:** The UI policy for catalog items always takes precedence over UI policy for variable sets. You can change this behavior by editing the **glide.sc.ui\_policy.variable\_set\_run\_first** property.
 
 
--   **[Create a UI policy for catalog items](../task/t_CreatUIPolicyForSvcCalgIt.md#)**  
+-   **[Create a UI policy for catalog items](t_CreatUIPolicyForSvcCalgIt.md#)**  
 You can apply UI policies for catalog items ordered in the service catalog.
 
 **Parent Topic:**[Debugging Service Catalog](debugging-service-catalog.md)

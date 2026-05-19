@@ -19,7 +19,7 @@ The Approval Info Record widget shows details about the approval request and a f
 
 ![image.widgetapprovaldetails]
 
-Configure the field values and the order of the fields from Service Portal Approval Configuration. For more information, see [Configure Service Portal Approval Configuration record](../task/configure-approval-assistance-ai-agent.md).
+Configure the field values and the order of the fields from Service Portal Approval Configuration. For more information, see [Configure Service Portal Approval Configuration record](configure-approval-assistance-ai-agent.md).
 
 ## Instance options
 

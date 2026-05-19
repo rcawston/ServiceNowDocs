@@ -33,7 +33,7 @@ Role required: sn\_ni\_core.inventory\_agent
 
 6.  On the Add/Remove member to Link Aggregation form, fill in the fields.
 
-    To learn more about the fields, see [Add or Remove member to Link Aggregation form](../reference/add-remove-member-link-aggregation-form.md).
+    To learn more about the fields, see [Add or Remove member to Link Aggregation form](add-remove-member-link-aggregation-form.md).
 
 7.  Select **Submit**.
 
@@ -52,5 +52,5 @@ Role required: sn\_ni\_core.inventory\_agent
     To learn more, see [Operationalize a configuration item](operationalize-a-configuration-item.md).
 
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 

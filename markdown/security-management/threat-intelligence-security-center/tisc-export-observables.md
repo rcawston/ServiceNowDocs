@@ -49,22 +49,22 @@ Currently, the export functionality is limited to observables, indicators, and c
     A confirmation message indicating that the export is successful and your download is complete displays.
 
 
-**Parent Topic:**[Threat Intelligence Security Center Library](../concept/threat-intelligence-security-center-library.md)
+**Parent Topic:**[Threat Intelligence Security Center Library](threat-intelligence-security-center-library.md)
 
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](understanding-the-data-model.md)
 
-[TISC Library Objects form view](../concept/tisc-library-home-page-view.md)
+[TISC Library Objects form view](tisc-library-home-page-view.md)
 
-[TISC Library Repository](../concept/tisc-ioc.md)
+[TISC Library Repository](tisc-ioc.md)
 
-[Access Vulnerability Downstream actions](../concept/downstream-actions-from-the-vulnerability-form-view.md)
+[Access Vulnerability Downstream actions](downstream-actions-from-the-vulnerability-form-view.md)
 
 [Deleting threat intelligence library records](tisc-delete-lib-records.md)
 
 [Confirm Potential Relationships from Related Records](confirm-potential-relationships.md)
 
-[Automated Correlation](../concept/automated-correlation-rules.md)
+[Automated Correlation](automated-correlation-rules.md)
 

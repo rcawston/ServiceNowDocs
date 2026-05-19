@@ -32,5 +32,5 @@ AI Search plugin \(com.glide.ais\)
 Enables core functionality for AI Search. Installed in the base system.**Note:** This plugin isn't visible in the **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All** and **All** &gt; **System Definition** &gt; **Plugins** listings. To verify that AI Search is installed and provisioned for use on your instance, navigate to **All** &gt; **AI Search** &gt; **AI Search Status**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

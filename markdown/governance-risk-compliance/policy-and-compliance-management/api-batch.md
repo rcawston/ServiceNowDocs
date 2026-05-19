@@ -31,7 +31,7 @@ The content integration batch table displays the details that are shown in the f
 
 
 
-To learn how you can use the user roles to access the APIs and batch records, see [User roles for the integration process](../../grc-integrations-with-third-party-content/reference/int-integrator-user-roles.md).
+To learn how you can use the user roles to access the APIs and batch records, see [User roles for the integration process](../grc-common-functions/int-integrator-user-roles.md).
 
 Select a record in the table to display the content integration batch record form and its related lists. See the following example.
 
@@ -83,5 +83,5 @@ The Update batch status to ready API and the Compliance staging processor flow p
     ![Staging recommendations.](../image/staging-recommendations.png "Staging recommendations")
 
 
-The library import task is used to import the staging records in the Policy and Compliance Management tables. The library import task and staging recommendations for each record are displayed for the content integration batch table in the GRC: Policy and Compliance integrator module. A user with the sn\_compliance.admin role can assign the library import task to the compliance managers assignment group. To learn how to assign a library import task, see [Assign a library import task for compliance approval](../task/assign-lib-import-task.md).
+The library import task is used to import the staging records in the Policy and Compliance Management tables. The library import task and staging recommendations for each record are displayed for the content integration batch table in the GRC: Policy and Compliance integrator module. A user with the sn\_compliance.admin role can assign the library import task to the compliance managers assignment group. To learn how to assign a library import task, see [Assign a library import task for compliance approval](assign-lib-import-task.md).
 

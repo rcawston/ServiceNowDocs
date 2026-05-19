@@ -17,16 +17,16 @@ Set up access to Microsoft Azure billing and usage data depending on your agreem
 
 You can access the billing and usage data, by assigning an appropriate role to the Microsoft Azure service principal, depending on your agreement type: Enterprise Agreement \(EA\), Microsoft Customer Agreement \(MCA\), or Microsoft Partner Agreement \(MPA\). Accordingly, some of the following steps might be optional for you.
 
-1.  [Create a Microsoft Azure service principal](../task/create-ms-azure-service-principal.md)
-2.  For EA accounts - [Add the Enrollment Reader role to the Microsoft Azure service principal](../task/add-enrollment-reader-ms-azure.md)
-3.  For MCA accounts - [Add the Billing Profile Reader role to the Microsoft Azure service principal](../task/add-billing-profile-reader-azure.md)
-4.  [Create a record of Microsoft Azure credentials in Cloud Cost Management](../task/create-azure-credential-record-ccm.md)
-5.  [Schedule and manage the jobs that download Azure billing data](../task/schedule-azure-billing-job.md)
+1.  [Create a Microsoft Azure service principal](create-ms-azure-service-principal.md)
+2.  For EA accounts - [Add the Enrollment Reader role to the Microsoft Azure service principal](add-enrollment-reader-ms-azure.md)
+3.  For MCA accounts - [Add the Billing Profile Reader role to the Microsoft Azure service principal](add-billing-profile-reader-azure.md)
+4.  [Create a record of Microsoft Azure credentials in Cloud Cost Management](create-azure-credential-record-ccm.md)
+5.  [Schedule and manage the jobs that download Azure billing data](schedule-azure-billing-job.md)
 
 **Related topics**  
 
 
-[Create exports on the Azure portal](../task/create-azure-exports.md)
+[Create exports on the Azure portal](create-azure-exports.md)
 
-[Cancel an Azure Billing download job in Cloud Cost Management](../task/azure-bill-dwnld-cancl-cloudin.md)
+[Cancel an Azure Billing download job in Cloud Cost Management](azure-bill-dwnld-cancl-cloudin.md)
 

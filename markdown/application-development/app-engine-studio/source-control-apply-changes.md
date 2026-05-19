@@ -48,5 +48,5 @@ App developers using App Engine Studio \(AES\) can pull changes from a linked Gi
 
 Resolve any change conflicts.
 
-**Parent Topic:**[Work with changes in Git](../concept/work-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](work-changes-in-git.md)
 

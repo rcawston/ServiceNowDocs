@@ -48,8 +48,8 @@ Compare local update sets to identify collisions and confirm that the proper cha
 7.  Run the comparison again to make sure that all collisions have been resolved.
 
 
--   **[Update set collision resolution](../reference/update-set-collisions.md)**  
+-   **[Update set collision resolution](update-set-collisions.md)**  
 A collision is an update that has a newer local update.
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](using-system-update-sets.md)
 

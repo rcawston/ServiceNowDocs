@@ -24,7 +24,7 @@ The hiring manager experience provides a consolidated view of all of the active 
 
 Onboarding cases that are shown in the Track new hires section do not appear under the **My Requests** section. If there are no active cases, then the hiring manager section does not appear on the app.
 
-To learn more about new hire onboarding and lifecycle events, see [Lifecyle events for enterprise](../reference/enterprise-onboarding-transitions-landing-page.md).
+To learn more about new hire onboarding and lifecycle events, see [Lifecyle events for enterprise](../employee-journey-management/enterprise-onboarding-transitions-landing-page.md).
 
 **Parent Topic:**[HR Service Delivery for mobile](mobile-employee-experience-for-hr-service-delivery.md)
 

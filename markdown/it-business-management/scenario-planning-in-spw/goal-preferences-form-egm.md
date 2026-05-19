@@ -33,7 +33,7 @@ When enabled, the fields, **Impact on parent goal** and**Impact on goal** appear
 
  The progress value of a parent goal is calculated based on the progress value and the value defined in the **Impact on parent goal** and**Impact on goal** fields for sub-goals and targets respectively.
 
- For more information on how the progress value is calculated, see [progress value calculation](../../goal-framework/concept/progress-value-calculation.md).
+ For more information on how the progress value is calculated, see [progress value calculation](../goal-framework/progress-value-calculation.md).
 
 </td></tr><tr><td>
 
@@ -70,5 +70,5 @@ Disable target breakdowns at the instance level.
 Can disable the target breakdowns feature. When the feature is enabled, target breakdowns are automatically created based on the breakdown interval set for the target.The default value is false.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

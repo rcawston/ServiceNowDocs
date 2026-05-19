@@ -13,7 +13,7 @@ breadcrumb: [Business Portal, Configure, Sales Customer Relationship Management]
 
 Install the necessary applications based on the self-service order and invoice case management options that you want to offer customers on the Business Portal.
 
-**Note:** For information about activating the Business Portal itself, see [Enable the Business Portal](../task/order-management-enable-business-portal.md)
+**Note:** For information about activating the Business Portal itself, see [Enable the Business Portal](order-management-enable-business-portal.md)
 
 ## Case management applications
 

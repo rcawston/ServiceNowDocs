@@ -48,7 +48,7 @@ The PMO dashboard provides comprehensive reports to the portfolio and program ma
 -   **[Analytics Time sheet](time-sheet-dashboard.md)**  
 The Analytics Time sheet provides comprehensive time sheet activities and reports to the time card approvers and time card users. The dashboard uses Performance Analytics to provide a trend of historical data and regular reports. It gives an overview of the time sheet activities of resources, time sheet approval and rejection rate, over-allocated and under-allocated resource counts.
 
-**Parent Topic:**[Project Portfolio Management](../../../product/project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](c_ProjectPortfolioSuite.md)
 
 **Related topics**  
 

@@ -17,7 +17,7 @@ The GlideNavigation API enables refreshing the navigator and main frame in the N
 
 Methods for this API are called within the nowapi namespace using the g\_navigation system variable.
 
-**Parent Topic:**[Client Next Experience API reference](../../../../../build/applications/concept/api-client-next.md)
+**Parent Topic:**[Client Next Experience API reference](api-client-next.md)
 
 ## GlideNavigation \[Next Experience\] - refreshNavigator\(\)
 

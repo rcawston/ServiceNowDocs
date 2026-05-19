@@ -17,7 +17,7 @@ Initiate an outbound email interaction from a contact or consumer record to proa
 
 The Email Interaction for CSM application must be installed and activated.
 
-When multiple agents initiate outbound emails for the same customer, the system consolidates drafts by default. For details on the behavior, see Multiple agents composing for the same customer in [Using Email Interaction for Customer Service Management](../concept/using-email-interaction-customer-service-management.md) Customer Service Management.
+When multiple agents initiate outbound emails for the same customer, the system consolidates drafts by default. For details on the behavior, see Multiple agents composing for the same customer in [Using Email Interaction for Customer Service Management](using-email-interaction-customer-service-management.md) Customer Service Management.
 
 Role required: sn\_customerservice\_agent
 

@@ -27,7 +27,7 @@ You may want to add a data visualization that exists only as a local copy on an 
 
 2.  Locate or create the relevant data visualization.
 
-    See [Creating data visualizations](../../reporting/concept/creating-data-visualizations.md).
+    See [Creating data visualizations](creating-data-visualizations.md).
 
 3.  Expand the data visualization 3-dot menu.
 

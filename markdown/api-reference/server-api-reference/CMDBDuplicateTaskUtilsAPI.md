@@ -17,7 +17,7 @@ The CMDBDuplicateTaskUtils script include provides methods to create a de-duplic
 
 A de-duplication task can only contain Configuration Management Database \(CMDB\) CIs that are not in another de-duplication task.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CMDBDuplicateTaskUtils - CMDBDuplicateTaskUtils\(\)
 

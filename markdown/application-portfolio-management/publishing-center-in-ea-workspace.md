@@ -84,16 +84,16 @@ You can view all the publishing activity, including:
 
 Publishing history provides traceability and operational insight, making it easier to audit changes and understand when published content was last refreshed.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 **Related topics**  
 
 
 [Working with the publishing center](working-with-publishing-center.md)
 
-[Published TRM catalog experience](../../reference/eaw-reference/published-trm-cat-exp.md)
+[Published TRM catalog experience](published-trm-cat-exp.md)
 
-[Access the published TRM catalog knowledge base](../../task/eaw-task/access-the-published-kb.md)
+[Access the published TRM catalog knowledge base](access-the-published-kb.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](understand-publishing-output.md)
 

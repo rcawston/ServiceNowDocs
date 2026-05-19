@@ -45,7 +45,7 @@ Software Installation \[cmdb\_sam\_sw\_install\]
 
 </td><td>
 
-Number of normalized and not normalized installs. For more information on normalized installations, see [Normalization statuses](../reference/normalization-status.md).
+Number of normalized and not normalized installs. For more information on normalized installations, see [Normalization statuses](normalization-status.md).
 
 </td></tr><tr><td>
 

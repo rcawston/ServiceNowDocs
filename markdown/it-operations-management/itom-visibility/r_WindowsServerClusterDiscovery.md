@@ -17,7 +17,7 @@ Discovery establishes the relationships between a Windows server cluster and its
 
 When a Windows server is found, and Discovery detects that it is part of a cluster, the system launches the Windows - Cluster probe. Navigate to **Discovery Definition** &gt; **Probes** and open the record for the Windows - Cluster probe to see the specific data Discovery collects.
 
-**Note:** Discovery collects cluster resources based on the MSCluster\_ResourceType WMI class. To see a list of default cluster resources, see [Resource Types](https://msdn.microsoft.com/en-us/library/windows/desktop/aa372279(v=vs.85).aspx). To understand how cluster resources are related to process classifiers, see [Relate the process classifier to Windows cluster resources](../concept/c_ClusteredAppDiscoveryOnWindows.md#).
+**Note:** Discovery collects cluster resources based on the MSCluster\_ResourceType WMI class. To see a list of default cluster resources, see [Resource Types](https://msdn.microsoft.com/en-us/library/windows/desktop/aa372279(v=vs.85).aspx). To understand how cluster resources are related to process classifiers, see [Relate the process classifier to Windows cluster resources](c_ClusteredAppDiscoveryOnWindows.md#).
 
 ## Cluster data tables
 
@@ -33,7 +33,7 @@ Discovery creates CIs for clusters in these tables:
 
 Discovery creates a CI Relationship \[cmdb\_rel\_ci\] record for each node, using these relationships:
 
--   **Cluster of::Cluster**: Relationship between the cluster nodes and the cluster. [Service Mapping](../../service-mapping/reference/c_ServiceMappingOverview.md) uses this relationship to map the Windows cluster and it's nodes.
+-   **Cluster of::Cluster**: Relationship between the cluster nodes and the cluster. [Service Mapping](../service-mapping/c_ServiceMappingOverview.md) uses this relationship to map the Windows cluster and it's nodes.
 -   **Members::Member of**: Relationship between the cluster and the cluster node.
 -   **Hosted on::Hosts**: Relationship between the cluster nodes and the Windows server.
 -   **Uses::Used by**: Cluster VirtualIP and Windows Cluster Node.

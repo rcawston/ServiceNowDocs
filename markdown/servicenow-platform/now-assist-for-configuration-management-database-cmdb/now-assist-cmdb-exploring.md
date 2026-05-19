@@ -25,19 +25,19 @@ Now Assist for CMDB provides the following abilities:
 
     The Create configuration item agentic workflow is particularly useful for adding CIs to tables accessed by Operational Technology because users might add physical CIs while unaware of the importance of managing CI data in the CMDB.
 
-    To learn more, see [Create a CI using Now Assist](../../now-assist-cmdb/task/na-cmdb-awf-ci-creator.md).
+    To learn more, see [Create a CI using Now Assist](na-cmdb-awf-ci-creator.md).
 
 -   **Provide advice on CMDB governance agentic workflow**
 
     Data governance can be an overwhelming task. The Provide advice on CMDB governance agentic workflow supports data admins and owners by methodically working through the many-faceted process of improving CMDB data accuracy, completeness, and health. The objective is to help users to trust the data that they use for their work.
 
-    To learn more, see [Getting advice from Now Assist on CMDB governance](../../now-assist-cmdb/concept/na-cmdb-awf-governance.md).
+    To learn more, see [Getting advice from Now Assist on CMDB governance](na-cmdb-awf-governance.md).
 
 -   **Search CMDB agentic workflow**
 
     The Search CMDB agentic workflow enables you to search for CIs by specifying any of several attributes of the CI of interest. The workflow accepts your natural language request, verifies your search goal, and then, depending on the information you provided, generates a keyword search, a single-table search with dot walks, or a multi-table search that involves relationship navigation. The workflow can infer CI relationship data to generate an appropriate query.
 
-    To learn more, see [Use Now Assist to search the CMDB](../../now-assist-cmdb/task/na-cmdb-awf-search.md).
+    To learn more, see [Use Now Assist to search the CMDB](na-cmdb-awf-search.md).
 
 -   **Duplicate CI remediator agentic workflow**
 
@@ -57,7 +57,7 @@ Now Assist for CMDB provides the following abilities:
     -   Identify the root cause of duplications so that you can review the groups of de-duplication tasks that share a common cause and possibly avoid the issue in the future.
     ![Selecting duplicate CIs to remediate.](../../now-assist-cmdb/image/na-cmdb-mng-dupe-cis-example.png)
 
-    To learn more, see [Let Now Assist help you to manage duplicate CIs](../task/now-assist-cmdb-mng-dupe-cis-skill.md).
+    To learn more, see [Let Now Assist help you to manage duplicate CIs](now-assist-cmdb-mng-dupe-cis-skill.md).
 
 -   **CI summarization skill**
 
@@ -65,7 +65,7 @@ Now Assist for CMDB provides the following abilities:
 
     ![Summary information.](../../now-assist-cmdb/image/na-cmdb-ci-summary-example.png)
 
-    To learn more, see [View CI information with the Now Assist CI summarization skill](../../now-assist-cmdb/task/na-cmdb-agent-ci-summarizer.md).
+    To learn more, see [View CI information with the Now Assist CI summarization skill](na-cmdb-agent-ci-summarizer.md).
 
 -   **Service Graph Connector diagnosis**
 
@@ -76,10 +76,10 @@ Now Assist for CMDB provides the following abilities:
     To learn more, see the following topics:
 
     -   [Fix SGC import set issues with the Now Assist SGC diagnosis skill](../task/now-assist-cmdb-sgc-diagnose.md)
-    -   [Getting started with Service Graph Connectors](cmdb-sgc-intro.md)
-    -   [Learn how IRE detects duplicate CIs and creates de-duplication tasks](id-detect-dup-ci.md)
-    -   [Learn how CMDB Health uses the duplicate metric to track duplicate CIs](../reference/r_CMDBHealthMetrics.md).
-    -   [Learn how to manage and remediate de-duplication tasks by using de-duplication templates in CMDB Workspace](de-duplication-tasks.md).
+    -   [Getting started with Service Graph Connectors](../configuration-management-database-cmdb/cmdb-sgc-intro.md)
+    -   [Learn how IRE detects duplicate CIs and creates de-duplication tasks](../configuration-management-database-cmdb/id-detect-dup-ci.md)
+    -   [Learn how CMDB Health uses the duplicate metric to track duplicate CIs](../configuration-management-database-cmdb/r_CMDBHealthMetrics.md).
+    -   [Learn how to manage and remediate de-duplication tasks by using de-duplication templates in CMDB Workspace](../configuration-management-database-cmdb/de-duplication-tasks.md).
 
 -   **[Supporting information for Now Assist for CMDB](now-assist-cmdb-supporting-info.md)**  
 Get a quick overview of the important information that is related to the Now Assist for CMDB application.

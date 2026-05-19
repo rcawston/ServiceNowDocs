@@ -15,11 +15,11 @@ Use the ServiceNow platform to build apps.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Creator Studio![](../image/icon-aes.png) Build request-fulfill apps with no coding experience required.](../../creator-studio/concept/creator-studio-landing.md)
+[Creator Studio![](../image/icon-aes.png) Build request-fulfill apps with no coding experience required.](creator-studio/creator-studio-landing.md)
 
 </td><td>
 
-[AES ![](../image/icon-aes.png) Build apps in a structured environment for fast development and deployment.](../../app-engine-studio/concept/aes-overview.md)
+[AES ![](../image/icon-aes.png) Build apps in a structured environment for fast development and deployment.](app-engine-studio/aes-overview.md)
 
 </td><td>
 

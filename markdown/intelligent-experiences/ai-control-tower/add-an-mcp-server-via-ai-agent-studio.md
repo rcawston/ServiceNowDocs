@@ -25,7 +25,7 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 -   \(AIG admin\) aig\_admin
 -   \(MCP Client admin\) sn\_mcp\_client.admin
 
-For more information on the AI steward role and its responsibilities, see [AI Control Tower roles](../reference/roles-installed-with-ai-control-tower.md)
+For more information on the AI steward role and its responsibilities, see [AI Control Tower roles](roles-installed-with-ai-control-tower.md)
 
 ## Procedure
 
@@ -33,7 +33,7 @@ For more information on the AI steward role and its responsibilities, see [AI Co
 
 2.  Select **New**.
 
-    **Note:** In the Create and manage tab of the AI Agent Studio, you can add only those MCP servers that have been approved in the AI Control Tower. To view these approvals, go to the Approvals tab on the MCP server record. For more information on Approvals tab and MCP server record, see [MCP server record](../concept/view-the-mcp-server-record.md)
+    **Note:** In the Create and manage tab of the AI Agent Studio, you can add only those MCP servers that have been approved in the AI Control Tower. To view these approvals, go to the Approvals tab on the MCP server record. For more information on Approvals tab and MCP server record, see [MCP server record](view-the-mcp-server-record.md)
 
 3.  Enter the Name.
 
@@ -59,7 +59,7 @@ For more information on the AI steward role and its responsibilities, see [AI Co
 
     **Note:** To view the approval request record for every MCP server in the AI Agent studio, select **View Approval record**. This action will direct you to the Related Variants tab of the respective MCP server
 
-    To know more about Related Variants tab in the MCP server record, see [MCP server record](../concept/view-the-mcp-server-record.md)
+    To know more about Related Variants tab in the MCP server record, see [MCP server record](view-the-mcp-server-record.md)
 
 10. Select **Save** to create an MCP server record.
 

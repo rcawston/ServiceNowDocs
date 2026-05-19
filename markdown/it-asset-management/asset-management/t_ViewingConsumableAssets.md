@@ -28,5 +28,5 @@ Role required: model\_manager
 3.  View individual consumables in the **Consumables** related list.
 
 
-**Parent Topic:**[Consumables life cycle](../concept/c_FollowLifeCycleConsumbl.md)
+**Parent Topic:**[Consumables life cycle](c_FollowLifeCycleConsumbl.md)
 

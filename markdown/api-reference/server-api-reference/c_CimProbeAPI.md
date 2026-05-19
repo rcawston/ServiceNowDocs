@@ -17,7 +17,7 @@ The CimProbe script include provides methods to maintain Common Information Mode
 
 Use in any server-side script where you need to maintain a CIM probe.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CimProbe - getNamedQueries\(\)
 

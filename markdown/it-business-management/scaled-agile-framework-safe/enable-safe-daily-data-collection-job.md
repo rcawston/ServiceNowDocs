@@ -46,5 +46,5 @@ Role required: pa\_admin or admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](../application-content-packs/pa-content-pack-essential-safe.md)
+**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
 

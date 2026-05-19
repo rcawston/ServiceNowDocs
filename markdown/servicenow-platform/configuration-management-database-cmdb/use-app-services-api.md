@@ -23,7 +23,7 @@ A service instance is a set of interconnected applications and hosts that are co
 
 Using the [createOrUpdateService - POST](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/application-service-api.md) REST API to create an service instance suits your organization if the ServiceNow CMDB already contains the CIs making up the service. Typically, it is the case when you have manually added CIs directly into the CMDB, or used the Discovery application to discover CIs and store information about them in the CMDB. You can also use this API to create an service instance containing CIs discovered using non-ServiceNow applications.
 
-By default, when an service instance is created, all CI connections are of the **Depends on::Used by** relationship type. You can modify this default type by changing the value of the [sa.it\_service.manual\_ci\_rel\_type](../reference/components-installed-app-services.md) property.
+By default, when an service instance is created, all CI connections are of the **Depends on::Used by** relationship type. You can modify this default type by changing the value of the [sa.it\_service.manual\_ci\_rel\_type](components-installed-app-services.md) property.
 
 Before creating an application service, ensure that:
 
@@ -33,7 +33,7 @@ Before creating an application service, ensure that:
 
 The Mapped Application Service \[cmdb\_ci\_service\_discovered\] table contains every service instance including services you create using APIs.
 
-You can also manually create an service instance using the user interface as described in [Create a Service instance \(application service\)](../../service-mapping/task/create-it-services.md).
+You can also manually create an service instance using the user interface as described in [Create a Service instance \(application service\)](create-it-services.md).
 
 ## Retrieve content from an application service
 
@@ -45,7 +45,7 @@ The following JavaScript APIs are also available:
 
 -   [addCI\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/BusinessServiceManagerAPI.md): Add a CI to a manually created an service instance.
 
-    For restrictions on the CIs being added and other details about adding a CI to an service instance, see [Manually add CIs to an application service](../../service-mapping/task/manually-add-ci-to-business-service.md).
+    For restrictions on the CIs being added and other details about adding a CI to an service instance, see [Manually add CIs to an application service](manually-add-ci-to-business-service.md).
 
 -   [addManualConnection\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/BusinessServiceManagerAPI.md): Add a manually created connection to an application service.
 

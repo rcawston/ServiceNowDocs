@@ -26,7 +26,7 @@ Role required: sn\_si.analyst
     **Note:**
 
     -   You can also navigate to the **Investigation** tab, and navigate to the **Entry Points Lists** section displayed on the left side of the page and select **Associated Observables** to perform the push operation.
-    -   On the **Investigation** tab, click **View Associated Info** to view all the associated threat lookup, sighting search, and enrichment data for the selected observable. For more information, see [Explore Investigation Canvas](../../secops-analyst-workspace/concept/explore-investigation-in-sir-workspace.md).
+    -   On the **Investigation** tab, click **View Associated Info** to view all the associated threat lookup, sighting search, and enrichment data for the selected observable. For more information, see [Explore Investigation Canvas](explore-investigation-in-sir-workspace.md).
 2.  Select **Observable Enrichment** &gt; **Observable Enrichment Results** to perform the push operation and manually push the data into TISC.
 
 3.  Select one or more observable record to perform **Send Results to TISC** operation to push the data.
@@ -58,12 +58,12 @@ Role required: sn\_si.analyst
     ![Observable Enrichment Results](../image/tisc-observable-enrichment-result.png)
 
 
-**Parent Topic:**[Send data from SIR Workspace to TISC](../concept/send-sir-to-tisc.md)
+**Parent Topic:**[Send data from SIR Workspace to TISC](send-sir-to-tisc.md)
 
 **Related topics**  
 
 
-[System properties to send data](../reference/tisc-integrations-system-properties.md)
+[System properties to send data](tisc-integrations-system-properties.md)
 
 [Add security incident to TISC case](add-incident-to-case.md)
 

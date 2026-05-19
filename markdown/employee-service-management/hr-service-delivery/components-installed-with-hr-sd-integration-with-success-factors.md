@@ -60,12 +60,12 @@ Run Trigger SAP SuccessFactors Integrations Flow
 
 </td><td>
 
-Pulls data from SuccessFactors to ServiceNow. By default the flow is in inactive state. For information on how to activate the flow, see [Activating schedule flows](../task/activate-w-schedule-flow.md).
+Pulls data from SuccessFactors to ServiceNow. By default the flow is in inactive state. For information on how to activate the flow, see [Activating schedule flows](activate-w-schedule-flow.md).
 
 </td></tr></tbody>
 </table>## Tables installed
 
-The tables required for HR Service Delivery Integration with SuccessFactors are obtained from the Enterprise Service Management Integrations Framework. The tables get auto-installed with the Enterprise Service Management Integrations Framework installation when you activate the HR Service Delivery Integration with SuccessFactors application. For more information, see [Components installed with Enterprise Service Management Integrations Framework](../reference/installed-with-hr-int-fra.md).
+The tables required for HR Service Delivery Integration with SuccessFactors are obtained from the Enterprise Service Management Integrations Framework. The tables get auto-installed with the Enterprise Service Management Integrations Framework installation when you activate the HR Service Delivery Integration with SuccessFactors application. For more information, see [Components installed with Enterprise Service Management Integrations Framework](installed-with-hr-int-fra.md).
 
 **Parent Topic:**[HR Service Delivery Integration with SuccessFactors reference](hr-service-delivery-integration-with-success-factors-reference.md)
 

@@ -33,7 +33,7 @@ You can create failure modes from a functional location or an equipment entity. 
 
 4.  On the Failure mode form, fill in the fields.
 
-    For a description of the field values, see [Failure mode form](../reference/failure-mode-form.md).
+    For a description of the field values, see [Failure mode form](failure-mode-form.md).
 
 5.  Select **Save**.
 
@@ -42,5 +42,5 @@ You can create failure modes from a functional location or an equipment entity. 
 
 The failure mode is displayed in the list of failure modes for the functional location or equipment and all inherited items.
 
-**Parent Topic:**[Industrial Failure Modes](../concept/industrial-failure-modes.md)
+**Parent Topic:**[Industrial Failure Modes](industrial-failure-modes.md)
 

@@ -15,11 +15,11 @@ breadcrumb: [Unified experience framework, SIR Workspace Orchestration, Working 
 
 This example demonstrates the unified experience framework capabilities.
 
--   **[Example 1: Select implementations: Threat Lookup](../task/example-1-select-implementations-threat-lookup.md)**  
+-   **[Example 1: Select implementations: Threat Lookup](example-1-select-implementations-threat-lookup.md)**  
 The example below demonstrates the implementation\(s\).
--   **[Example 2: Common Inputs: Sighting Search](../task/common-inputs.md#)**  
+-   **[Example 2: Common Inputs: Sighting Search](common-inputs.md#)**  
 The example below demonstrates the common inputs capability action.
--   **[Example 3: Add specific runtime details inputs to an implementation: Run Additional Actions](../task/example-3-add-specific-runtime-details-inputs.md#)**  
+-   **[Example 3: Add specific runtime details inputs to an implementation: Run Additional Actions](example-3-add-specific-runtime-details-inputs.md#)**  
 Add specific runtime details inputs to an implementation, Run Additional Actions.
 
 **Parent Topic:**[Unified experience framework for integrations powered by Capability Framework](security-incident-response-workspace-capability-framework.md)

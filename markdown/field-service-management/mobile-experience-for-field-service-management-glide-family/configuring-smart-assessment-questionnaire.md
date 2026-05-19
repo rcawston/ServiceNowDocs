@@ -32,8 +32,8 @@ For more information, see [Smart Assessment Engine](https://raw.githubuserconten
 
 The steps for setting up Smart Assessment are:
 
-1.  [Activate Smart Assessment for Field Service questionnaire](../task/activate-smart-assessment.md)
-2.  [Enable Smart Assessment Questionnaire](../task/enable-smart-assessment-questionnaire.md)
+1.  [Activate Smart Assessment for Field Service questionnaire](activate-smart-assessment.md)
+2.  [Enable Smart Assessment Questionnaire](enable-smart-assessment-questionnaire.md)
 3.  Either configure a smart assessment questionnaire by migrating a survey-based questionnaire or from new smart assessment templates.
 
     -   To migrate from survey-based questionnaires to Smart Assessment questionnaires see, [Migrating to Smart Assessment from survey-based questionnaire](configuring-sa-by-migrating.md).
@@ -44,5 +44,5 @@ The steps for setting up Smart Assessment are:
 **Related topics**  
 
 
-[Smart Assessment components](../reference/smart-assessment-components.md)
+[Smart Assessment components](../smart-assessment-components.md)
 

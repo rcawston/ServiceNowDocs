@@ -50,7 +50,7 @@ Stage preview provides a view into all content in a stage or bundle of a campaig
 
 You can also view a specific page \(not just your home page if you are presenting content on multiple pages\).
 
-For more information, see [Preview single content](../task/ecpro-campaign-pre-piece.md).
+For more information, see [Preview single content](ecpro-campaign-pre-piece.md).
 
 **Note:** Also available in full portal preview.
 

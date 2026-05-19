@@ -32,5 +32,5 @@ Role required: admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](../concept/configure-interaction-management-sow.md)
+**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](configure-interaction-management-sow.md)
 

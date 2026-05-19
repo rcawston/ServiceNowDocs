@@ -15,7 +15,7 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 Discovery identifies and classifies information about network printers.
 
-Discovery can identify and classify Network Printers. For more information, see [Network discovery](../concept/c_NetworkDiscovery.md#).
+Discovery can identify and classify Network Printers. For more information, see [Network discovery](../discovery/c_NetworkDiscovery.md#).
 
 |Label|Table name|Field name|Source|
 |-----|----------|----------|------|
@@ -39,5 +39,5 @@ Discovery can identify and classify Network Printers. For more information, see 
 |Max capacity|discovery\_printer\_supplies|max\_capacity|SNMP, PRINT MIB|
 |Name|cmdb\_ci|name|Shazzam, SNMP, various MIBs|
 
-**Parent Topic:**[Network device discovery](../concept/c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](c_NetworkDevices.md)
 

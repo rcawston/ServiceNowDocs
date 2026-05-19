@@ -28,7 +28,7 @@ Role required: evt\_mgmt\_admin
 
     **Note:**
 
-    -   When **Look up hostnames** is selected in the [advanced data input configuration](../concept/hla-data-input-adv-configuration.md), the Streaming Sources page shows the hostname of devices that use an Rsyslog or a Filebeat shipper. For Elasticsearch indices, it displays the index name.
+    -   When **Look up hostnames** is selected in the [advanced data input configuration](hla-data-input-adv-configuration.md), the Streaming Sources page shows the hostname of devices that use an Rsyslog or a Filebeat shipper. For Elasticsearch indices, it displays the index name.
     -   Streaming Sources is also available as a related list on the data input form. The related list displays only the endpoint devices that are relevant to that data input.
     -   If the HLA engine is down and data has stopped streaming, a notification appears at the top of the Streaming Sources page. When this happens, contact ServiceNow support.
 2.  Select a data input record to view the streaming data of its sources and identify streaming issues and their possible cause.

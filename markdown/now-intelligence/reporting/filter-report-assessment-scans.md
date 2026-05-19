@@ -39,7 +39,7 @@ You can work with all the properties in the ACL Assessment for Reports except tw
 4.  Use the remaining properties to configure the assessment scan.
 
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](report-view-acl-dashboard.md)
 
 ## Report assessment system properties
 
@@ -61,7 +61,7 @@ sn\_report\_acl.run\_scan\_with\_queryNoDomain
 
 </td><td>
 
-Only valid on domain-separated instances. Defines whether the app considers the user domain when you run the query. If false, the security\_admin gets results only for the domains they have visibility to. A global security\_admin can set the property to true and retrieve the results for all the domains on the instance. The individual security\_admins can then view the collected results for their own domains. For more information, see [Report assessment and domain separation](../reference/report-acl-dashboard-domain-sep.md).If you set this property to true on an instance that is not domain separated, then the assessment runs as a normal query.
+Only valid on domain-separated instances. Defines whether the app considers the user domain when you run the query. If false, the security\_admin gets results only for the domains they have visibility to. A global security\_admin can set the property to true and retrieve the results for all the domains on the instance. The individual security\_admins can then view the collected results for their own domains. For more information, see [Report assessment and domain separation](report-acl-dashboard-domain-sep.md).If you set this property to true on an instance that is not domain separated, then the assessment runs as a normal query.
 
  If you delete this property, the default value in the code is false.
 

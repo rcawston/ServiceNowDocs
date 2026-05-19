@@ -38,5 +38,5 @@ Role required: sn\_csm\_pricing.pricelist\_manager and sn\_sales\_common.sales\_
 
 An order can be placed in the Order Management application based on a sales agreement. For more info, see [Add a sales agreement to an order in Order Management](som-add-sales-agreement-to-order.md).
 
-**Parent Topic:**[Using Sales Agreement Management](../concept/sales-agreement-mgmt-using.md)
+**Parent Topic:**[Using Sales Agreement Management](sales-agreement-mgmt-using.md)
 

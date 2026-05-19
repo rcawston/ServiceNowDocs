@@ -58,7 +58,7 @@ Order
 The order in which you want the menu to appear in the footer.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Footer configuration](../concept/emp-center-footer-config.md)
+</table>**Parent Topic:**[Footer configuration](emp-center-footer-config.md)
 
 **Parent Topic:**[Employee Center reference](emp-center-reference.md)
 
@@ -75,7 +75,7 @@ The order in which you want the menu to appear in the footer.
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

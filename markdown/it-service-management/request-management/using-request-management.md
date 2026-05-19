@@ -15,8 +15,8 @@ breadcrumb: [Request Management, IT Service Management]
 
 Request Management allows catalog items to be requested and fulfilled based on defined flows.
 
--   **[Create a catalog request in Agent Workspace](../../service-catalog-management/task/create-request-workspace.md)**  
+-   **[Create a catalog request in Agent Workspace](create-request-workspace.md)**  
 You can create a catalog request in Agent Workspace to join the Service Catalog flow from a different flow. For example, from an incident flow, you can create a request, and associate the request with the incident. It helps you in tracking the requests associated with an incident and vice versa.
 
-**Parent Topic:**[Request Management](../../planning-and-policy/concept/c_RequestManagement.md)
+**Parent Topic:**[Request Management](c_RequestManagement.md)
 

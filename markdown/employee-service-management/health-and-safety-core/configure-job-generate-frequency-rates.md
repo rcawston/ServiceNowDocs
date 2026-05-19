@@ -40,14 +40,14 @@ The **\[OHS\] Safety Metrics** job is set to run daily by default.
     **Note:** To run the scheduled job and update metrics on demand, select **Execute Now**.
 
 
-**Parent Topic:**[Setting up Health and Safety Core](../../hs-core/concept/setting-up-hs-core.md)
+**Parent Topic:**[Setting up Health and Safety Core](setting-up-hs-core.md)
 
-**Parent Topic:**[Setting up Health and Safety Incident Management](../concept/setting-up-hs-incident-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Incident Management](../health-and-safety-incident-management/setting-up-hs-incident-mgmt.md)
 
 **Related topics**  
 
 
-[Install Health and Safety Core](../../hs-core/task/install-hs-core.md)
+[Install Health and Safety Core](install-hs-core.md)
 
 [Workplace location data](configure-hs-workplace-location-data.md)
 
@@ -61,5 +61,5 @@ The **\[OHS\] Safety Metrics** job is set to run daily by default.
 
 [Add a Health and Safety visitor](hs-add-health-safety-visitor.md)
 
-[Migrate existing safety documents to the Document library](../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
+[Migrate existing safety documents to the Document library](hs-migrate-sync-existing-safety-document-docs-library.md)
 

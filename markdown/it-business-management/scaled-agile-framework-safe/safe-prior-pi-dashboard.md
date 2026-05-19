@@ -108,7 +108,7 @@ Bar chart![](../../reporting/image/inline-data-vis-96px-bar-vertical.png)
 View the velocity of the ART members for the previous PI and plan the workload for an upcoming PI.
 
 </td></tr></tbody>
-</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Essential SAFe dashboard reports](../concept/customizing-safe-dashboard-reports.md).
+</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Essential SAFe dashboard reports](customizing-safe-dashboard-reports.md).
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
 

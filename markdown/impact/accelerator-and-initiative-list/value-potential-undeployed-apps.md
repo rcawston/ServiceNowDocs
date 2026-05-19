@@ -21,7 +21,7 @@ Value Potential of undeployed Apps provides Impact customers with support on bui
 
 **Note:** This Accelerator is available for Impact Advanced and Total packages.
 
-In addition, this Accelerator is also available with the Strategic Value Add-on SKU. See [Impact packages](impact-packages.md) for additional information.
+In addition, this Accelerator is also available with the Strategic Value Add-on SKU. See [Impact packages](../impact-packages.md) for additional information.
 
 ## What you get
 

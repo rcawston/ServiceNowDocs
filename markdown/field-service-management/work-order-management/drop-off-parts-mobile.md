@@ -31,6 +31,6 @@ The transfer order line for drop-off must be in **Draft** or **Requested** state
 
     You can view the list of parts that you have scheduled for drop off.
 
-    For more information on dropping off an asset, refer to [Drop off an asset](../../planning-and-policy/task/t_DropOffAnAsset.md).
+    For more information on dropping off an asset, refer to [Drop off an asset](t_DropOffAnAsset.md).
 
 

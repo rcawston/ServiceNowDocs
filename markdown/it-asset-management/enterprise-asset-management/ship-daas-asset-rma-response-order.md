@@ -194,5 +194,5 @@ Notes about the task that are visible to all users within your organization.
 
 Complete the corresponding Receive asset task by confirming that the shipped asset was received. For detailed instructions, see [Complete the Receive asset task for a defective Device as a Service DaaS asset](receive-shipped-daas-asset-rma-response-order.md).
 
-**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](../concept/completing-rma-response-order-daas-assets.md)
+**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](completing-rma-response-order-daas-assets.md)
 

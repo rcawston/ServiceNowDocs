@@ -101,5 +101,5 @@ Opens the **Reject all bids?** dialog box, where you must enter your reason for 
 </table>10. Select **View purchase requisitions** from the sourcing event or the awarded negotiation to view the details of the newly created purchase requisitions.
 
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](using-pcm.md)
 

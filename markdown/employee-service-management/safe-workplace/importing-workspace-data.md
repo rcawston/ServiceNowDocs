@@ -73,7 +73,7 @@ Role required: sn\_wsd\_core.admin
 
 If you have a large number of work sites, consider creating a spreadsheet that you can then import into your ServiceNow instance to avoid having to manually enter global information such as the site or building names for each workspace.
 
-**Note:** If you already have an existing workspaces spreadsheet for your organization, follow the instructions in [Configure an existing workspaces spreadsheet](../../workplace-service-delivery/concept/importing-workspace-data-wsd.md#) to customize it for exporting the data.
+**Note:** If you already have an existing workspaces spreadsheet for your organization, follow the instructions in [Configure an existing workspaces spreadsheet](../workplace-core/importing-workspace-data-wsd.md#) to customize it for exporting the data.
 
 ### Procedure
 
@@ -100,5 +100,5 @@ If you have a large number of work sites, consider creating a spreadsheet that y
 
 ### What to do next
 
-[Import your workspaces data from an Excel spreadsheet](../../workplace-service-delivery/task/import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](../workplace-core/import-excel-spreadsheet-workspace-data-wsd.md)
 

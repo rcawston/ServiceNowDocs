@@ -27,7 +27,7 @@ Role required: sn\_sb.requestor
 
     This request triggers an approval flow \(not a required flow\) for your managerial approval. Once the HR request is approved by your manager, a provider task is created that in turn creates a remote HR case in provider instance.
 
-    **Note:** You can access only the remote catalogs that have been enabled by your consumer administrator. See [Configure HR Multi Instance Integration for Consumer](../task/config-hr-multi-instance.md) for more information.
+    **Note:** You can access only the remote catalogs that have been enabled by your consumer administrator. See [Configure HR Multi Instance Integration for Consumer](config-hr-multi-instance.md) for more information.
 
 3.  Review if any tasks are assigned to you.
 

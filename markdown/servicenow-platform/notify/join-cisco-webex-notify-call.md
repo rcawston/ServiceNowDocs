@@ -32,5 +32,5 @@ Role required: notify\_view, notify\_admin, major\_incident\_manager, or communi
 5.  Select **Join Call**.
 
 
-**Parent Topic:**[Using the Notify Cisco Webex Connector with a major incident](../concept/use-cisco-webex-notify-mi.md)
+**Parent Topic:**[Using the Notify Cisco Webex Connector with a major incident](use-cisco-webex-notify-mi.md)
 

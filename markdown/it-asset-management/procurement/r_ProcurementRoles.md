@@ -52,22 +52,22 @@ financial\_mgmt\_user, model\_manager
 Can create purchase orders without a request. Can view requests and requested items. Can view transfer orders. Can create a purchase order or transfer order when sourcing items for a request. Can view the vendor catalog. Can view and refresh gauges in the Procurement Overview module.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Procurement](../concept/c_Procurement.md)
+</table>**Parent Topic:**[Procurement](c_Procurement.md)
 
 **Related topics**  
 
 
-[Procurement workflows](../concept/c_ProcurementWorkflows.md)
+[Procurement workflows](c_ProcurementWorkflows.md)
 
-[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)
+[Use the Procurement Overview module](t_UsingTheProcurementOverviewModule.md)
 
-[Activate Procurement](../task/t_ActivateProcurement.md)
+[Activate Procurement](t_ActivateProcurement.md)
 
-[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 
-[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+[Procurement purchase order management for assets](c_UseProcurement.md)
 
-[Receive assets](../concept/c_ReceiveAssets.md)
+[Receive assets](c_ReceiveAssets.md)
 
-[Domain separation and Procurement](../concept/domain-separation-procurement.md)
+[Domain separation and Procurement](domain-separation-procurement.md)
 

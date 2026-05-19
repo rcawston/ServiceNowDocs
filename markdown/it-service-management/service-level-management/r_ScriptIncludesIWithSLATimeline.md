@@ -24,5 +24,5 @@ SLA timeline adds the following script includes.
 |SLATimeLineV2SNC|This script include is used by SLA Timeline internal REST API to inspect audit history of a Task and extract task SLA details to be presented on the UI.|
 |ReadOnlyTaskSLAContoller|This script include is a helper script include and is for internal use. This script include is called by SLATimeLineV2SNC to process the task SLA stage details.|
 
-**Parent Topic:**[Activate SLA timeline](../task/t_ActivateSLATimeline.md)
+**Parent Topic:**[Activate SLA timeline](t_ActivateSLATimeline.md)
 

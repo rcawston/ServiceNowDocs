@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Encrypt String component. For more information about these properties, see [Properties of the Encryption components](../reference/properties-security-encryption-components.md).
+You can configure the properties for the Encrypt String component. For more information about these properties, see [Properties of the Encryption components](properties-security-encryption-components.md).
 
 ## Procedure
 
@@ -107,5 +107,5 @@ No
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Encryption components](../concept/encryption-components.md)
+**Parent Topic:**[Encryption components](encryption-components.md)
 

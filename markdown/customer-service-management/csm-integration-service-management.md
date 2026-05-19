@@ -20,11 +20,11 @@ Customer Service Management integration with Service Management requires the fol
 -   Customer Service with Service Management plugin \(com.sn\_cs\_sm\)
 -   Customer Service with Request Management plugin \(com.sn\_cs\_sm\_request\)
 
-For additional information, see [Integrate with Service Management](../task/configure-csm-sm-integration.md).
+For additional information, see [Integrate with Service Management](configure-csm-sm-integration.md).
 
 ## Roles
 
-The Service Management integration plugins do not add any roles to the customer service agent \(sn\_customerservice\_agent\) role. To enable the Service Management integration features, you must assign the CSM/ITSM integration roles included with the Incident Management application to the agents who need this capability. For more information, see [Assign CSM/ITSM integration roles](../task/assign-csm-itsm-integration-roles.md#).
+The Service Management integration plugins do not add any roles to the customer service agent \(sn\_customerservice\_agent\) role. To enable the Service Management integration features, you must assign the CSM/ITSM integration roles included with the Incident Management application to the agents who need this capability. For more information, see [Assign CSM/ITSM integration roles](assign-csm-itsm-integration-roles.md#).
 
 ## Creating records for a case
 
@@ -68,7 +68,7 @@ From the Customer and Consumer Service Portals, users can view lists of cases an
 -   Clicking **My Lists** in the portal menu header.
 -   Clicking **Requests** &gt; **All Requests** in the portal menu header.
 
-For more information, see [View case records from the Customer and Consumer Service Portals](../task/view-related-records-from-portal.md).
+For more information, see [View case records from the Customer and Consumer Service Portals](view-related-records-from-portal.md).
 
 ## Using case resolution codes
 

@@ -23,7 +23,7 @@ Role required: sn\_cmdb\_admin or itil\_admin
 
 The default related items list is used by the Duplicate CI Remediator, appearing on the **Merge Relationships and Related Items** tab. You can modify the list for only a specific task in the Duplicate CI Remediator without affecting the default global list.
 
-The default related items list is also used by the [De-duplication Dashboard](../concept/dedup-ci-exp-cmdb-workspace.md) in CMDB Workspaceand in Service Graph Workspace for remediation.
+The default related items list is also used by the [De-duplication Dashboard](dedup-ci-exp-cmdb-workspace.md) in CMDB Workspaceand in Service Graph Workspace for remediation.
 
 Globally modifying the list affects the remediation of all de-duplication tasks in the Duplicate CI Remediator and in the De-duplication Dashboard in CMDB Workspaceand in Service Graph Workspace.
 
@@ -38,5 +38,5 @@ Globally modifying the list affects the remediation of all de-duplication tasks 
 3.  Click **Save**.
 
 
-**Parent Topic:**[Duplicate CIs remediation](../concept/de-duplication-tasks.md)
+**Parent Topic:**[Duplicate CIs remediation](de-duplication-tasks.md)
 

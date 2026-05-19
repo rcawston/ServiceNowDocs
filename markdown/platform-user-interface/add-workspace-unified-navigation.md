@@ -85,5 +85,5 @@ Order in which the Workspace you select is displayed in the Workspaces menu.**No
 8.  Refresh your browser to access the new workspace from the Workspaces menu.
 
 
-**Parent Topic:**[Configuring the Next Experience UI](../concept/next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)
 

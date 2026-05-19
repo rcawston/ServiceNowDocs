@@ -49,7 +49,7 @@ Role required: sn\_si.analyst
 
 7.  View the associated case records by logging into Threat Intelligence Security Center workspace for further steps.
 
-    For more information see, [TISC integration with SIR Workspace](../concept/tisc-integration-with-sir-workspace.md).
+    For more information see, [TISC integration with SIR Workspace](../threat-intelligence-security-center/tisc-integration-with-sir-workspace.md).
 
     **Note:**
 
@@ -58,7 +58,7 @@ Role required: sn\_si.analyst
     **Note:** To associate observables from **Investigation**, follow the following procedure and to associate from **Related Records** explained here [Add observables to TISC Case](observables-to-case.md).You can also navigate to the **Investigation** tab, and navigate to the **Entry Points Lists** section displayed on the left side of the page and select **Associated Observables** to add observables to TISC case.
 
 
-**Parent Topic:**[Working with TISC Context](../../secops-analyst-workspace/concept/working-with-tisc-context.md)
+**Parent Topic:**[Working with TISC Context](working-with-tisc-context.md)
 
 **Related topics**  
 

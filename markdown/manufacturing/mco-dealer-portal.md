@@ -122,7 +122,7 @@ Display user profile information. To learn more about user profile, see [User Pr
 </table>**Related topics**  
 
 
-[Dealer data model](../reference/dealer-data-model-overview.md)
+[Dealer data model](dealer-data-model-overview.md)
 
 [Dealer management](mco-use-dealer-portal.md)
 

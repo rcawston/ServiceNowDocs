@@ -21,7 +21,7 @@ Make sure that **Enable icon display on calendar event** is enabled. For more in
 
 ## About this task
 
-For a list of icons that show on calendar events, see [Calendar event icons in Dispatcher Workspace](../reference/calendar-event-icons.md).
+For a list of icons that show on calendar events, see [Calendar event icons in Dispatcher Workspace](calendar-event-icons.md).
 
 **Warning:** You must understand JSON code to perform this procedure.
 

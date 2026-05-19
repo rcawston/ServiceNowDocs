@@ -30,7 +30,7 @@ The following items are installed with Financial Services Personal Loan Operatio
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Financial Services Personal Loan Operations](../reference/installed-with-personal-loan-operations.md).
+For more information, see [Components installed with Financial Services Personal Loan Operations](installed-with-personal-loan-operations.md).
 
 ## Procedure
 
@@ -53,5 +53,5 @@ For more information, see [Components installed with Financial Services Personal
 5.  Select **Install**.
 
 
-**Parent Topic:**[Install Financial Services Loan Operations](../concept/install-loan-operations.md)
+**Parent Topic:**[Install Financial Services Loan Operations](install-loan-operations.md)
 

@@ -134,5 +134,5 @@ Name of the trusted account. Configure this field only for accounts that don't u
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Setting up AWS service accounts](../concept/setup-aws-service-accounts.md)
+**Parent Topic:**[Setting up AWS service accounts](setup-aws-service-accounts.md)
 

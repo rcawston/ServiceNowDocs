@@ -105,5 +105,5 @@ Option to choose the default chat client.
     The system captures the work notes about the chat details.
 
 
-**Parent Topic:**[Request-based chat - Start and import chat from Workspace](../concept/initiate-chat-agent-workspace.md)
+**Parent Topic:**[Request-based chat - Start and import chat from Workspace](initiate-chat-agent-workspace.md)
 

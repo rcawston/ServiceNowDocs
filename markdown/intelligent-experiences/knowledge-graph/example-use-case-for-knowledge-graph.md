@@ -116,7 +116,7 @@ Selecting the person's name presents a popover. The information in the popover c
 
     -   Shared Microsoft SharePoint files between you and the person found, appear only on the people popover.
     -   The shared files only appear after you have completed the prompt to **Log in**, and signed in successfully. If you do not have a valid token, you will be prompted to sign in and re-directed to Microsoft login page.
-    -   If you have not configured Microsoft OneDrive application, see [Configure Microsoft OneDrive application for Knowledge Graph](../Task/create-microsoft-onedrive-app.md).
+    -   If you have not configured Microsoft OneDrive application, see [Configure Microsoft OneDrive application for Knowledge Graph](create-microsoft-onedrive-app.md).
     ![Shared files in people citation card](../Images/people-citation-window-kg.png)
 
 

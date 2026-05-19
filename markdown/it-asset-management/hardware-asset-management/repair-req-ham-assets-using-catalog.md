@@ -73,5 +73,5 @@ Stockroom that has assets to be repaired.
 -   A repair order is created in the **Draft** stage.
 -   Each asset in the repair order is associated with a repair order line that is in the **Troubleshoot** stage.
 
-**Parent Topic:**[Request repair of defective hardware assets in your stockroom](../concept/request-repair-defective-ham-assets.md)
+**Parent Topic:**[Request repair of defective hardware assets in your stockroom](request-repair-defective-ham-assets.md)
 

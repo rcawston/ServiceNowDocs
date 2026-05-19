@@ -31,7 +31,7 @@ The **ValidateWorkflowStageColumn** validator detects and reports when the stage
 -   Suggested Action: If this is not by design, make the appropriate changes.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md), [Workflow stages](../../using-workflows/concept/c_WorkflowStages.md)
+-   Related Information: [Workflow activities](../workflow-activities/c_WorkflowActivities.md), [Workflow stages](c_WorkflowStages.md)
 
 ## Troubleshooting
 

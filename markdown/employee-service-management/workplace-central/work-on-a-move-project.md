@@ -22,7 +22,7 @@ Ensure that you have created a move project, and it’s active. For more informa
 -   [Create a move project from existing move requests](create-move-project.md)
 -   [Create a move project by uploading an Excel file](create-move-project-excel.md)
 
-Ensure that you’re aware of the [Move project views, actions, and states](../reference/move-project-schedule-view.md).
+Ensure that you’re aware of the [Move project views, actions, and states](move-project-schedule-view.md).
 
 Role required: sn\_wsd\_move.manager
 
@@ -138,7 +138,7 @@ Role required: sn\_wsd\_move.manager
 
     2.  To change the state, edit the **State** field.
 
-        Before changing the states, refer to [Move project views, actions, and states](../reference/move-project-schedule-view.md).
+        Before changing the states, refer to [Move project views, actions, and states](move-project-schedule-view.md).
 
     3.  Assign the project to another move manager by changing the **Assigned to** field.
 
@@ -169,7 +169,7 @@ Role required: sn\_wsd\_move.manager
 
 The changes are saved on the move project.
 
-**Parent Topic:**[Working with Move management](../concept/working-with-move-management.md)
+**Parent Topic:**[Working with Move management](working-with-move-management.md)
 
 **Related topics**  
 

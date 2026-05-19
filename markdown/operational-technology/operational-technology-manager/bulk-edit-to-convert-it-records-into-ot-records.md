@@ -106,5 +106,5 @@ The selected IT hardware devices have been converted into OT devices.
 
 You can also use the Bulk Update Ruleset for Reassigning IT to OT feature to create a scheduled job that automatically converts IT hardware to OT devices. For more information, see [Automatically convert your IT records to OT devices](automatically-convert-it-records-to-ot-devices.md).
 
-**Parent Topic:**[OT device related items and related lists](../reference/ot-assets-related-links-and-lists.md)
+**Parent Topic:**[OT device related items and related lists](ot-assets-related-links-and-lists.md)
 

@@ -31,13 +31,13 @@ Instead of using the default template, you can create a questionnaire template f
 
 3.  On the Assessment Metric Type form, fill in the fields.
 
-    For a description of the field values on the Assessment Metric Type form, see [Assessment metric type form](../reference/prm-assessment-metric-form.md).
+    For a description of the field values on the Assessment Metric Type form, see [Assessment metric type form](prm-assessment-metric-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Assessment metric type form](../reference/prm-assessment-metric-form.md)**  
+-   **[Assessment metric type form](prm-assessment-metric-form.md)**  
 Use the Assessment Metric Type form to create an assessment questionnaire template instead of using the default template.
 
-**Parent Topic:**[Configuring Privacy Case Management](../concept/configuring-privacy-case-management.md)
+**Parent Topic:**[Configuring Privacy Case Management](configuring-privacy-case-management.md)
 

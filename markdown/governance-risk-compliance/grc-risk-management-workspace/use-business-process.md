@@ -15,7 +15,7 @@ breadcrumb: [Use, Risk Management, Governance, Risk, and Compliance]
 
 Create and manage business processes in your organization.
 
--   **[Create a business process](../task/create-a-business-process.md)**  
+-   **[Create a business process](create-a-business-process.md)**  
 Create a business process and define the owners, approvers, business criticality, and review frequency for the process.
 
 **Parent Topic:**[Using Risk Management](using-risk-mgmt.md)

@@ -40,5 +40,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |scriptValue|Script, as a string value, executed on a Unix system.|
 
-**Parent Topic:**[Security Operations System Command Integration- Get Running Processes flow](../../security-incident-response-orchestration/task/obtain-WMI-retrieval-workflow.md)
+**Parent Topic:**[Security Operations System Command Integration- Get Running Processes flow](obtain-WMI-retrieval-workflow.md)
 

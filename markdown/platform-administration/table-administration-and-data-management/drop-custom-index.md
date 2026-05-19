@@ -36,5 +36,5 @@ Role required: admin
 
 The custom index is dropped from the table.
 
-**Parent Topic:**[Managing tables and indexes](../concept/using-table-administration.md)
+**Parent Topic:**[Managing tables and indexes](using-table-administration.md)
 

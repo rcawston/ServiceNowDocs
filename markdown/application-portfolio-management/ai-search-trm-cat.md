@@ -34,7 +34,7 @@ EA Workspace ships with an AI Search configuration record that registers the TRM
 After you install the May 2026 update, the indexing behavior depends on when your TRM catalog records were published:
 
 -   Records published after the update: Automatically indexed and searchable through the Now Assist panel. No additional configuration is required.
--   Records published before the update: Not automatically indexed. You must manually trigger indexing. See [Index previously published TRM catalog records for AI Search](../../task/eaw-task/index-archive-pub-trm-cat.md).
+-   Records published before the update: Not automatically indexed. You must manually trigger indexing. See [Index previously published TRM catalog records for AI Search](index-archive-pub-trm-cat.md).
 
 ## Prerequisites
 
@@ -42,10 +42,10 @@ Before you can search TRM catalog records using AI Search, verify the following 
 
 -   AI Search is activated. Navigate to **All** and search for **AI Search Status**. The status page must display **AI Search is ready**. For instructions, see [Activate AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configure-ui-builder-agent.md)
 -   Now Assist panel is enabled. Navigate to **Now Assist admin** &gt; **Now Assist Experiences** &gt; **Now Assist panel** and verify that the panel is turned on. For instructions, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
--   Install the Now Assist for EA plugin. For instructions, see [Configure Now Assist for Enterprise Architecture \(EA\)](../../../now-assist-ea/task/configure-now-assist-ea.md).
--   At least one TRM catalog is published to a knowledge base. AI Search returns results only for published records. See [Publish a TRM catalog to the knowledge base](../../task/eaw-task/publish-trm-cat-to-kb.md).
+-   Install the Now Assist for EA plugin. For instructions, see [Configure Now Assist for Enterprise Architecture \(EA\)](configure-now-assist-ea.md).
+-   At least one TRM catalog is published to a knowledge base. AI Search returns results only for published records. See [Publish a TRM catalog to the knowledge base](publish-trm-cat-to-kb.md).
 
--   **[Index previously published TRM catalog records for AI Search](../../task/eaw-task/index-archive-pub-trm-cat.md)**  
+-   **[Index previously published TRM catalog records for AI Search](index-archive-pub-trm-cat.md)**  
 Manually trigger indexing for TRM catalog records that were published before you installed the May 2026 EA Workspace update, so that they are searchable through the Now Assist panel.
 
 **Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
@@ -53,9 +53,9 @@ Manually trigger indexing for TRM catalog records that were published before you
 **Related topics**  
 
 
-[Index previously published TRM catalog records for AI Search](../../task/eaw-task/index-archive-pub-trm-cat.md)
+[Index previously published TRM catalog records for AI Search](index-archive-pub-trm-cat.md)
 
-[Publish a TRM catalog to the knowledge base](../../task/eaw-task/publish-trm-cat-to-kb.md)
+[Publish a TRM catalog to the knowledge base](publish-trm-cat-to-kb.md)
 
-[Access the published TRM catalog knowledge base](../../task/eaw-task/access-the-published-kb.md)
+[Access the published TRM catalog knowledge base](access-the-published-kb.md)
 

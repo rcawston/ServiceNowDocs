@@ -44,5 +44,5 @@ Role required: evt\_mgmt\_admin
 **Related topics**  
 
 
-[Alert grouping types and creation methods](../concept/Alert-Groups.md)
+[Alert grouping types and creation methods](Alert-Groups.md)
 

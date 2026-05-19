@@ -40,5 +40,5 @@ Roles required:
     The Self-configured bot integration with Slack has been removed successfully.
 
 
-**Parent Topic:**[Integrating a self-configured bot with Slack workspace](../concept/va-integ-single-slack.md)
+**Parent Topic:**[Integrating a self-configured bot with Slack workspace](va-integ-single-slack.md)
 

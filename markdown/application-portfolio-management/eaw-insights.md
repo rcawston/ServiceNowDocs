@@ -33,7 +33,7 @@ The last refreshed time shows when the results were refreshed in your browser. Y
     -   **Candidate business applications for migration**: Displays the number of business applications that are fit for migration, based on their indicator scores.
     -   **Candidate business applications for investment**: Displays the number of business applications that are fit for further investment, based on their indicator scores.
     -   **Business applications w/o cost data**: Displays the number of business applications that lack any cost data associated with them.
-    **Note:** To learn about application indicator scores, see [Manage indicators](eaw-concept/eaw-configure-indicators.md).
+    **Note:** To learn about application indicator scores, see [Manage indicators](eaw-configure-indicators.md).
 
 -   **Business Portfolio**
 

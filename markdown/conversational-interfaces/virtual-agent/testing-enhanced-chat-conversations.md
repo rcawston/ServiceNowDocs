@@ -26,7 +26,7 @@ You can test assistants directly from the Asset library.
 
 ![Test options shown in the Assistant Designer Asset library's Test assistant drop-down menu.](../images/full-page-VAD-home-page-test-2.png)
 
-Depending on the chat experience set up for the assistant, you can test using [Standard chat](../../now-assist-in-va/concept/nava-standard-chat.md) experience or [Enhanced chat](../../now-assist-in-va/concept/nava-enhanced-chat.md) experience. For more information about setting up the chat experience for an assistant, see [Manage an assistant chat experience](../../now-assist-in-va/task/manage-assistant-chat-experience.md).
+Depending on the chat experience set up for the assistant, you can test using [Standard chat](../now-assist-in-virtual-agent/nava-standard-chat.md) experience or [Enhanced chat](../now-assist-in-virtual-agent/nava-enhanced-chat.md) experience. For more information about setting up the chat experience for an assistant, see [Manage an assistant chat experience](../now-assist-in-virtual-agent/manage-assistant-chat-experience.md).
 
 **Note:** The Now Assist Panel - Platform \(default\) assistant can also use the  experience. The premium experience is configured by default.
 
@@ -39,10 +39,10 @@ For all the Now Assist for Virtual Agent assistants and the Now Assist Panel - P
 
 For the Now Assist Panel - Developer Assistant, when testing the assistant by selecting **Test Assistant**, you're directed to test the Standard Chat experience.
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 
 **Related topics**  
 
 
-[Test details](../reference/test-llm-details.md)
+[Test details](test-llm-details.md)
 

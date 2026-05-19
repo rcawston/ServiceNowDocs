@@ -57,7 +57,7 @@ To fix issues with alphabetical sort order of favorites, see [KB1348001](https:/
 
 You can configure user permissions such as **Available for** and **Not Available for**. When the favorite topic is not marked available for the user, the topic isn't visible from **My Favorites** and on the favorites widget.
 
-For more information, see [Enable user criteria for topics](../task/enable-user-criteria-topics.md).
+For more information, see [Enable user criteria for topics](enable-user-criteria-topics.md).
 
 ## Favorites troubleshooting
 
@@ -72,7 +72,7 @@ Follow these steps to troubleshoot issues with **Favorites**:
 **Related topics**  
 
 
-[Configure favorites option](../task/web-configure-favorites-admin.md)
+[Configure favorites option](web-configure-favorites-admin.md)
 
-[Manage favorites](../task/web-configure-favorites-employee.md)
+[Manage favorites](web-configure-favorites-employee.md)
 

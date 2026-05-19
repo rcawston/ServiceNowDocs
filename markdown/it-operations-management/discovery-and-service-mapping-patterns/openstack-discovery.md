@@ -44,7 +44,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create a discovery schedule**
 
-    For more information, see [Create an OpenStack Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-openstack-schedule-DAW.md).
+    For more information, see [Create an OpenStack Discovery schedule in Discovery Admin Workspace](../discovery/create-openstack-schedule-DAW.md).
 
 -   **Create an automatic discovery schedule for OpenStack service accounts—for private cloud only**
 
@@ -52,7 +52,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](query-service-account-ldc-fields.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -499,5 +499,5 @@ The relationships listed in the following table are created to support OpenStack
 |cmdb\_ci\_openstack\_hypervisor\_view|Hosted on::Hosts|cmdb\_ci\_openstack\_datacenter|
 |cmdb\_ci\_openstack\_hypervisor\_view|Uses::Hosts Used by|cmdb\_ci\_server|
 
-**Parent Topic:**[Available cloud discovery patterns](../concept/available-patterns-cloud.md)
+**Parent Topic:**[Available cloud discovery patterns](available-patterns-cloud.md)
 

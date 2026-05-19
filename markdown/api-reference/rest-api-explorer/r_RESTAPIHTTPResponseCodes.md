@@ -31,5 +31,5 @@ REST messages sent to an instance return a specific HTTP response code.
 |502|Bad gateway|The server, while acting as a gateway or proxy, received an invalid response from the upstream server.|
 |503|Service unavailable|The server is currently unable to handle the request.|
 
-**Parent Topic:**[REST APIs](../concept/c_RESTAPI.md)
+**Parent Topic:**[REST APIs](c_RESTAPI.md)
 

@@ -104,7 +104,7 @@ WSJF Score = (User Business value + Time criticality + Risk reduction)/Job Size
 
 To get started with Scoring your planning items in Strategic Planning, see [Scoring planning items in Strategic Planning Workspace](using-scoring-frameworks-in-startegic-planning-workspace.md).
 
-**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](../../alignment-planner-workspace/concept/alignment-planner-workspace.md)
+**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](alignment-planner-workspace.md)
 
 **Related topics**  
 

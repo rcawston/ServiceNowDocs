@@ -27,7 +27,7 @@ As an example, if you search from a Japanese session on an English-language inst
 
 Search administrators can disable this translation behavior for knowledge article reference fields. With translation disabled, search users will see knowledge article facet field values in the instance's default language instead of in their session language.
 
-To learn more about facets, see [Create a facet in an AI Search application configuration](create-facet-ais.md). For details on translated field values, see [System Localization](../../localization/concept/system-localization-landing.md).
+To learn more about facets, see [Create a facet in an AI Search application configuration](create-facet-ais.md). For details on translated field values, see [System Localization](../system-localization/system-localization-landing.md).
 
 ## Procedure
 
@@ -44,7 +44,7 @@ To learn more about facets, see [Create a facet in an AI Search application conf
     |Name|index\_translated\_reference\_fields|
     |Value|false|
 
-    **Note:** To re-enable translation for facets, so that knowledge article reference field values appear in the user's session language when translated field values are available, set the index\_translated\_reference\_fields attribute's value back to **true**, its default value. For more information on the index\_translated\_reference\_fields attribute, see [Indexed source attributes for AI Search](../concept/indexed-source-attributes-ais.md).
+    **Note:** To re-enable translation for facets, so that knowledge article reference field values appear in the user's session language when translated field values are available, set the index\_translated\_reference\_fields attribute's value back to **true**, its default value. For more information on the index\_translated\_reference\_fields attribute, see [Indexed source attributes for AI Search](indexed-source-attributes-ais.md).
 
 5.  Select **Submit**.
 
@@ -61,5 +61,5 @@ Facets for knowledge article reference fields display field value translations i
 
 **Note:** If you set the index\_translated\_reference\_fields attribute's value back to `true` and see knowledge article reference field values displayed in the instance's default language in facets, check whether translations of these field values exist for the user's session language.
 
-**Parent Topic:**[Internationalization support for AI Search](../concept/international-language-support-ais.md)
+**Parent Topic:**[Internationalization support for AI Search](international-language-support-ais.md)
 

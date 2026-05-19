@@ -77,11 +77,11 @@ Graphically presented in a pie or line chart. Provides insights on the total num
 </td></tr></tbody>
 </table>Point to the graph or pie chart to view details. Selecting the pie chart or the graph takes the user to a tab that lists the maintenance cases.
 
-Selecting a plan from the list of plans take the user to a tab that lists the details for that plan record. Selecting the **New** button enables you to create a maintenance plan. For more information, see [Create or copy a maintenance schedule](../task/create-maint-schedule.md).
+Selecting a plan from the list of plans take the user to a tab that lists the details for that plan record. Selecting the **New** button enables you to create a maintenance plan. For more information, see [Create or copy a maintenance schedule](create-maint-schedule.md).
 
 **Parent Topic:**[Manage Workplace Maintenance Management plans](manage-maintenance-plans.md)
 
-**Previous topic:**[Workplace maintenance cases](../task/create-maint-cases.md)
+**Previous topic:**[Workplace maintenance cases](create-maint-cases.md)
 
 **Next topic:**[Workplace Maintenance Management references](workplace-maintenance-mgmt-references.md)
 

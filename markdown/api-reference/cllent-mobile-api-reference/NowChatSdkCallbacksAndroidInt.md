@@ -88,7 +88,7 @@ Flag that indicates whether the host application should prevent NowChat from acc
 -   false: Do not prevent access to the camera.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+</table>**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowChatSdkCallbacks - didEndSessionWithId\(sessionId: String\)
 

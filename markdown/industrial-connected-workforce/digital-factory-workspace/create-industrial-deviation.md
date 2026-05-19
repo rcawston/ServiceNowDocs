@@ -25,7 +25,7 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 2.  On the Deviation form, fill in the fields.
 
-    For a description of the field values, see [Deviation form](../reference/deviation-form.md).
+    For a description of the field values, see [Deviation form](deviation-form.md).
 
 3.  Select **Save**.
 
@@ -42,5 +42,5 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 The new deviation is displayed in the deviation list and the list of all tasks.
 
-**Parent Topic:**[Deviation Management](../concept/industrial-deviation-management.md)
+**Parent Topic:**[Deviation Management](industrial-deviation-management.md)
 

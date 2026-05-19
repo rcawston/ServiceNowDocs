@@ -57,7 +57,7 @@ For example, if you have set the benchmark as $1000 and the asset cost has reach
 
 Use the system property **sn\_itam\_common.asset\_tco\_benchmark\_threshold\_percentage** to update the benchmark threshold percentage.
 
-For more information about the hardware asset field values, see [Asset record fields](../../asset-management/reference/asset-record-fields.md).
+For more information about the hardware asset field values, see [Asset record fields](asset-record-fields.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Monthly initial and operational costs of your assets over the last 12 months.
 
     View the most recently created TCO reports in this section.
 
-    You can also create a report by selecting **New** in the Comparative reports section. For more information, [Create a TCO report in Hardware Asset Workspace](../task/create-ham-tco-report.md).
+    You can also create a report by selecting **New** in the Comparative reports section. For more information, [Create a TCO report in Hardware Asset Workspace](create-ham-tco-report.md).
 
 
 ## Asset performance

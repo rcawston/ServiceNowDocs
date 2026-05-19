@@ -38,11 +38,11 @@ The TPRM SAE questionnaire template has the following limitations.
 
 -   If a section in the classic template contains only unsupported questions, an empty section is created in the TPRM SAE template. TPRM SAE templates with empty sections can’t be published; therefore, you must either add replacement questions to these sections or delete the empty sections before publishing.
 
-    For more information on migration results, migration limitations, and creating TPRM SAE questionnaires, see [Results of migrating a template to a TPRM SAE template](../reference/tprm-migrate-asmnt-template-result.md) and [Create a TPRM SAE questionnaire or document request template](../task/create-sae-q-template.md).
+    For more information on migration results, migration limitations, and creating TPRM SAE questionnaires, see [Results of migrating a template to a TPRM SAE template](tprm-migrate-asmnt-template-result.md) and [Create a TPRM SAE questionnaire or document request template](create-sae-q-template.md).
 
 -   The TPRM scoring migration proceeds only if there were no errors during the template migration. If there were errors, the TPRM scoring migration doesn’t occur.
 
-    For more information, see [Configure scoring for an assessment](../../assessment-engine/task/configure-scoring-for-assessments.md) and [Normalization in assessment](../../assessment-engine/concept/normalization-in-assessment.md).
+    For more information, see [Configure scoring for an assessment](../smart-assessment-engine/configure-scoring-for-assessments.md) and [Normalization in assessment](../smart-assessment-engine/normalization-in-assessment.md).
 
 -   Event-driven management rules are the default option for scheduling assessments and replaces Repeating assessments.
 
@@ -64,7 +64,7 @@ After setting the Smart Assessment Engine enabled \(**sn\_vdr\_risk\_asmt.sae\_e
     -   Smart Assessment Response Automation plugin \[com.sn\_smart\_resp\_auto\]
     -   Smart Assessment Scoring plugin \[com.sn\_smart\_scoring\]
 
-**Note:** For more information on these plugins, see [Configuring Smart Assessment Engine](../../assessment-engine/concept/smart-assessment-engine-cf-config.md) and [Smart assessment configuration](../../grc-vendor-risk-implementation/concept/tprm-sae-assessment-config.md).
+**Note:** For more information on these plugins, see [Configuring Smart Assessment Engine](../smart-assessment-engine/smart-assessment-engine-cf-config.md) and [Smart assessment configuration](tprm-sae-assessment-config.md).
 
 ## Migration Overview
 
@@ -85,7 +85,7 @@ The following diagram shows the questionnaire to TPRM SAE template migration wor
 
 4.  Review each assessment template to confirm it’s marked as Supports smart assessment. If an assessment template isn’t marked as Supports smart assessment, manually adding a new TPRM SAE questionnaire template to it updates its status.
 
-For more information, see [Migrate a template to an SAE template](../task/tprm-asmnt-tmplt-migrate-metrics-to.md), [Create a TPRM SAE questionnaire or document request template](../task/create-sae-q-template.md), [Create an external assessment template](../task/create-vendor-risk-assess-temp.md), and [Create an issue generation rule](../task/tprm-generate-issue-rule.md).
+For more information, see [Migrate a template to an SAE template](tprm-asmnt-tmplt-migrate-metrics-to.md), [Create a TPRM SAE questionnaire or document request template](create-sae-q-template.md), [Create an external assessment template](create-vendor-risk-assess-temp.md), and [Create an issue generation rule](tprm-generate-issue-rule.md).
 
 ## Classic assessment engine to Smart Assessment Engine comparison
 
@@ -123,21 +123,21 @@ The following diagram shows the relationship between assessment templates and qu
 **Related topics**  
 
 
-[Smart assessment configuration](../../grc-vendor-risk-implementation/concept/tprm-sae-assessment-config.md)
+[Smart assessment configuration](tprm-sae-assessment-config.md)
 
-[Migrate a template to an SAE template](../task/tprm-asmnt-tmplt-migrate-metrics-to.md)
+[Migrate a template to an SAE template](tprm-asmnt-tmplt-migrate-metrics-to.md)
 
-[Results of migrating a template to a TPRM SAE template](../reference/tprm-migrate-asmnt-template-result.md)
+[Results of migrating a template to a TPRM SAE template](tprm-migrate-asmnt-template-result.md)
 
-[How legacy metric types are migrated to sections in templates](../../assessment-engine/reference/sae-how-legacy-metrics-migrated.md)
+[How legacy metric types are migrated to sections in templates](../smart-assessment-engine/sae-how-legacy-metrics-migrated.md)
 
-[Create a TPRM SAE questionnaire or document request template](../task/create-sae-q-template.md)
+[Create a TPRM SAE questionnaire or document request template](create-sae-q-template.md)
 
-[Add instructions and questions to an assessment template](../../assessment-engine/task/sae-asmnt-template-populate.md)
+[Add instructions and questions to an assessment template](../smart-assessment-engine/sae-asmnt-template-populate.md)
 
-[Add reference information to an assessment template](../../assessment-engine/task/sae-asmnt-add-reference.md)
+[Add reference information to an assessment template](../smart-assessment-engine/sae-asmnt-add-reference.md)
 
-[Scoring assessments](../../assessment-engine/concept/scoring-in-assessments.md)
+[Scoring assessments](../smart-assessment-engine/scoring-in-assessments.md)
 
-[Normalization in assessment](../../assessment-engine/concept/normalization-in-assessment.md)
+[Normalization in assessment](../smart-assessment-engine/normalization-in-assessment.md)
 

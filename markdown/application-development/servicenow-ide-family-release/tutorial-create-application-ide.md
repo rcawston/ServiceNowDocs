@@ -57,7 +57,7 @@ In the ServiceNow IDE, you can develop applications in source code using Service
 
     4.  Enter a scope, such as `x_snc_hello_world`, and press Enter.
 
-        **Important:** The scope name must be unique on the instance, begin with x\_&lt;prefix&gt;, and be 18 characters or fewer. For more information, see [Namespace identifier](../../applications/concept/c_NamespaceIdentifier.md).
+        **Important:** The scope name must be unique on the instance, begin with x\_&lt;prefix&gt;, and be 18 characters or fewer. For more information, see [Namespace identifier](../c_NamespaceIdentifier.md).
 
     5.  Enter a package name, such as `x-snc-hello-world`, and press Enter.
 
@@ -87,12 +87,12 @@ In the ServiceNow IDE, you can develop applications in source code using Service
 
         ![Logs in the Output panel indicating that the application built and installed successfully.](../image/servicenow-ide-deploy-logs.png)
 
-        For information about the application structure, see the [Application structure](../../custom-application/concept/building-applications-source-code.md#application-structure) section of the Building applications in source code topic.
+        For information about the application structure, see the [Application structure](../building-applications-source-code.md#application-structure) section of the Building applications in source code topic.
 
 
 ## What to do next
 
 Continue to [Tutorial part 2: Initialize a repository for your application](tutorial-initialize-repository-ide.md).
 
-**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](../concept/getting-started-create-application-ide.md)
+**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](getting-started-create-application-ide.md)
 

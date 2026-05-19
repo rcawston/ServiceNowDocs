@@ -44,5 +44,5 @@ The fulfillment agent or manager can now approve or reject the order.
 
 ## Configuration requirements
 
-Order enrichment tasks are only created if the enrichment process is explicitly configured in the Order Enrichment Flow Policy in the decision tables for a product or service offering. This process ensures that enrichment is applied selectively and only when necessary. For more information, see [Configure order enrichment flows using Decision Tables](../task/configure-order-enrichment.md).
+Order enrichment tasks are only created if the enrichment process is explicitly configured in the Order Enrichment Flow Policy in the decision tables for a product or service offering. This process ensures that enrichment is applied selectively and only when necessary. For more information, see [Configure order enrichment flows using Decision Tables](configure-order-enrichment.md).
 

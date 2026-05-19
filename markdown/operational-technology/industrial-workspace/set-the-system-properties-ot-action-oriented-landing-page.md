@@ -33,5 +33,5 @@ Role required: configure\_industrial\_workspace
 3.  Select **Save**.
 
 
-**Parent Topic:**[Setting up the Operational Technology Action-Oriented Landing Page](../../operational-technology-management/concept/setting-up-the-ot-task-oriented-landing-page.md)
+**Parent Topic:**[Setting up the Operational Technology Action-Oriented Landing Page](setting-up-the-ot-task-oriented-landing-page.md)
 

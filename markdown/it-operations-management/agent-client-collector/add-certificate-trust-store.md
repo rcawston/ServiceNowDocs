@@ -108,5 +108,5 @@ Role required: agent\_client\_collector\_admin
 
 Your self-signed certificate is on the OS that you are working with.
 
-**Parent Topic:**[Agent Client Collector certificates](../concept/acc-certificates.md)
+**Parent Topic:**[Agent Client Collector certificates](acc-certificates.md)
 

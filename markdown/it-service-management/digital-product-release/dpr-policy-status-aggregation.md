@@ -32,5 +32,5 @@ The following table shows how the aggregated status is calculated from the statu
 |Compliant|Compliant|Compliant|Compliant|**Compliant**|
 |Compliant|Compliant|Compliant|Compliant with exception|**Compliant with exception**|
 
-**Parent Topic:**[Digital Product Release reference](../concept/dpr-reference.md)
+**Parent Topic:**[Digital Product Release reference](dpr-reference.md)
 

@@ -31,7 +31,7 @@ Role required: sn\_hs\_rm.safety\_audit\_manager or sn\_hs\_rm.audit\_schedule\_
 
 5.  On the form, fill in the fields.
 
-    Define the audit scope, finalize the goals, and choose regulations for the audit so that the audit process is well structured and organized. For more information on audit field descriptions, see [Audit schedule form](../reference/hs-audit-schedule-form.md).
+    Define the audit scope, finalize the goals, and choose regulations for the audit so that the audit process is well structured and organized. For more information on audit field descriptions, see [Audit schedule form](hs-audit-schedule-form.md).
 
 6.  Select **Save**.
 
@@ -39,7 +39,7 @@ Role required: sn\_hs\_rm.safety\_audit\_manager or sn\_hs\_rm.audit\_schedule\_
 
 7.  In the **Audit questionnaires** tab, select **New** to add smart assessment orsurveys to be added to each scheduled audit.
 
-    -   For information on audit questionnaire field descriptions, see [Audit questionnaire form](../reference/hs-audit-survey-form.md).
+    -   For information on audit questionnaire field descriptions, see [Audit questionnaire form](hs-audit-survey-form.md).
     -   Audit surveys can also be added to each scheduled audit individually after they’re scheduled.
 8.  To generate the scheduled audit records immediately, select **Create audits**.
 
@@ -61,8 +61,8 @@ Role required: sn\_hs\_rm.safety\_audit\_manager or sn\_hs\_rm.audit\_schedule\_
 -   All required fields are copied from the audit schedule and audit questionnaire to its scheduled audit records.
 -   Any audit questionnaire created for a schedule are automatically added to all its audit records.
 -   The assigned user receives a notification to complete the smart assessment or survey for the generated audits. They can complete the audit in the Employee Center or in the mobile app.
-    -   A smart assessment can be completed in the mobile app. For more information, see [Complete a smart assessment from mobile](../../hs-health-safety-mobile/task/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
+    -   A smart assessment can be completed in the mobile app. For more information, see [Complete a smart assessment from mobile](../health-and-safety/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
     -   A survey can be completed either in the Employee Center or the mobile app. For more information, see [Complete a survey from the Employee Center](hs-complete-safety-insp-survey.md).
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](hs-safety-inspections.md)
 

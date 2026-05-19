@@ -51,5 +51,5 @@ The new installed software record is created and added to the CI Software Instal
 **Related topics**  
 
 
-[ITOM Content Service](../concept/discovery-content-services.md)
+[ITOM Content Service](discovery-content-services.md)
 

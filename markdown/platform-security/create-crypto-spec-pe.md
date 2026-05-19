@@ -19,7 +19,7 @@ Role required: security\_admin  and sn\_kmf.cryptographic\_manager  or sn\_k
 
 ## About this task
 
-This procedure describes options that are available with Field Encryption with the base system and additional configuration options that become available with Field Encryption Enterprise functionality. Field Encryption Enterprise functionality is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md) for supported features and options available with each offering. See [Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
+This procedure describes options that are available with Field Encryption with the base system and additional configuration options that become available with Field Encryption Enterprise functionality. Field Encryption Enterprise functionality is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](platform-encryption/encryption-sku.md) for supported features and options available with each offering. See [Activate Field Encryption](activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 A cryptographic specification will be created by the system when you create a cryptographic module for Field Encryption Enterprise.
 
@@ -40,8 +40,8 @@ A cryptographic specification will be created by the system when you create a cr
 
 Perform one of the following operations:
 
--   Select an entry in the Key Lifecycle table to define key lifecycle behavior. See [Configure key lifecycle states](configure-key-lifecycle-states.md) for details to complete the lifecycle definition for the key.
--   Click **Next** to create a cryptographic key. For details on this process, see [Generate a ServiceNow cryptographic key](generate_sn_key.md).
+-   Select an entry in the Key Lifecycle table to define key lifecycle behavior. See [Configure key lifecycle states](platform-encryption/configure-key-lifecycle-states.md) for details to complete the lifecycle definition for the key.
+-   Click **Next** to create a cryptographic key. For details on this process, see [Generate a ServiceNow cryptographic key](platform-encryption/generate_sn_key.md).
 
-**Parent Topic:**[Using Field Encryption](../../encryption/concept/using-column-level-encryption.md)
+**Parent Topic:**[Using Field Encryption](using-column-level-encryption.md)
 

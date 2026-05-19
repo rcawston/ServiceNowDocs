@@ -36,5 +36,5 @@ Role required: sales\_agent
     |Toggle ![](../image/icon-list-toggle.png)|Toggles between hierarchical view and standard view.|
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

@@ -20,7 +20,7 @@ The Order Acknowledgement Error \[sn\_spend\_intg\_order\_ack\_error\] staging t
 |Sales order line number|String|Unique identifier for each item on a sales order.|
 |Sales order number|String|Unique identifier for a customer's purchase.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

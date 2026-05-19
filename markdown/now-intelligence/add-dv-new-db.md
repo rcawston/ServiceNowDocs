@@ -42,7 +42,7 @@ Result
 
 </td><td>
 
-A new, untitled dashboard opens in the inline dashboard editor. The data visualization is already on this dashboard. Complete the dashboard, adding any more desired elements and naming it. For more information, see [Create a dashboard with the in-line editor](../../dashboards/task/create-db-in-ac.md).
+A new, untitled dashboard opens in the inline dashboard editor. The data visualization is already on this dashboard. Complete the dashboard, adding any more desired elements and naming it. For more information, see [Create a dashboard with the in-line editor](create-db-in-ac.md).
 
 </td></tr><tr><td id="d73090e130">
 
@@ -82,5 +82,5 @@ You have just completed creating the data visualization Open incidents - Priorit
     ![Dashboard showing the added Open incidents - Priority data visualization with its configuration panel open.](../../par-for-workspace/image/dv-to-db-ex-final.png)
 
 
-**Parent Topic:**[Common data visualization tasks](../concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](common-dv-tasks.md)
 

@@ -78,9 +78,9 @@ In the following images, `ServiceNow Inc.` is displayed for the account name in 
 
 You are ready to set up your ServiceNow AI Platform® instance for the integration.
 
-**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+**Parent Topic:**[Microsoft Exchange Online integration](ms-exchange-online-lookups.md)
 
-**Previous topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+**Previous topic:**[Microsoft Exchange Online integration](ms-exchange-online-lookups.md)
 
 **Next topic:**[Install Microsoft Exchange Online application](install-and-configure-ms-exchange-online.md)
 

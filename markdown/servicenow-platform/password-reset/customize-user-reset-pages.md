@@ -61,5 +61,5 @@ Log in as an end user and request password reset.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](customizing-password-reset.md)
 

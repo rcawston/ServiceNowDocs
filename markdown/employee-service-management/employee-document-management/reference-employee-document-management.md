@@ -15,9 +15,9 @@ breadcrumb: [Employee Document Management, HR Documents, HR Service Delivery, Em
 
 More information on other properties of Employee Document Management.
 
--   **[Properties for Employee Document Management application](../reference/employee-doc-properties.md)**  
+-   **[Properties for Employee Document Management application](employee-doc-properties.md)**  
 Activating the Employee Document Management \[com.sn\_employee\_document\_management\] plugin adds the following properties.
--   **[Components installed with Employee Document Management](../reference/installed-w-employee-doc-mngemnt.md)**  
+-   **[Components installed with Employee Document Management](installed-w-employee-doc-mngemnt.md)**  
 Several types of components install with the activation of the Employee Document Management \[com.sn\_employee\_document\_management\] plugin, including tables, user roles, and scheduled jobs.
 
 **Parent Topic:**[Employee Document Management](hr-employee-doc-management.md)

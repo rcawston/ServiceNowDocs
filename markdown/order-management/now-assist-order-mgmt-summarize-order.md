@@ -89,5 +89,5 @@ If you want to check details about the summary, select the more info icon ![](..
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Order Management](../concept/now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](now-assist-order-management-using.md)
 

@@ -29,10 +29,10 @@ There are 2 APIs used for handling refresh workflow scenarios for converting IT 
 The Operational Technology \(OT\) Backup Management provides visibility and actionable insights on the backup of the OT devices. The class tables described below are interconnected and collectively form the Backup Management data model.
 -   **[Operational Technology Version Control data model for Backup Management](ot-version-control-backup-data-model.md)**  
 In Operational Technology \(OT\) Backup Management, you can develop multiple scripts or programs to automate the data backup process of OT devices. The Version Control data model enables you to maintain a record of all the backup scripts or programs you develop for an OT entity.
--   **[Edit the protection policy for an OT View Rule](../task/edit-protection-policy-ot-view-rules.md)**  
+-   **[Edit the protection policy for an OT View Rule](edit-protection-policy-ot-view-rules.md)**  
 Edit the protection policy for an Operational Technology \(OT\) View Rule to edit the View Rule as needed.
 -   **[Related information](otm-related-information.md)**  
 Find more information about the Network Intrusion Detection System \(NIDS\) extension class, OT extension classes, and related applications.
 
-**Parent Topic:**[Operational Technology Manager](../concept/operational-technology-manager.md)
+**Parent Topic:**[Operational Technology Manager](operational-technology-manager.md)
 

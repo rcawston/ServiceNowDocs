@@ -33,7 +33,7 @@ Equipment Model Viewer \[cmdb\_ot\_isa\_viewer\]
 
 </td><td>
 
-Can only view the assigned ISA Equipment Model \[cmdb\_ci\_ot\_isa\_entity\] table records. To learn more, see [Using Industrial Process Manager with the Operational Technology Manager](../concept/using-manufacturing-process-manager.md) and [Managing equipment models](../task/managing-equipment-models-after-data-import.md).
+Can only view the assigned ISA Equipment Model \[cmdb\_ci\_ot\_isa\_entity\] table records. To learn more, see [Using Industrial Process Manager with the Operational Technology Manager](using-manufacturing-process-manager.md) and [Managing equipment models](managing-equipment-models-after-data-import.md).
 
 </td></tr><tr><td>
 
@@ -41,7 +41,7 @@ Equipment Model Editor \[cmdb\_ot\_isa\_editor\]
 
 </td><td>
 
-Can view and edit the assigned ISA Equipment Model \[cmdb\_ci\_ot\_isa\_entity\] records.To learn more, see [Using Industrial Process Manager with the Operational Technology Manager](../concept/using-manufacturing-process-manager.md) and [Managing equipment models](../task/managing-equipment-models-after-data-import.md).
+Can view and edit the assigned ISA Equipment Model \[cmdb\_ci\_ot\_isa\_entity\] records.To learn more, see [Using Industrial Process Manager with the Operational Technology Manager](using-manufacturing-process-manager.md) and [Managing equipment models](managing-equipment-models-after-data-import.md).
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Equipment Model Admin \[cmdb\_ot\_isa\_admin\]
 Inherit the cmdb\_ot\_isa\_editor role and can also do the following actions: -   Use the Industrial Guided Setup to set up the Industrial Process Manager and the Operational Technology Manager.
 -   Edit the Equipment Model Template \[isa\_entity\_template\], \[isa\_entity\_level\], and Equipment Entity type \[isa\_entity\_type\] table records.
 
- To learn more, see [Industrial Workspace Admin application menu and Guided Setup](../task/manufacturing-app-menu-guided-setup.md).
+ To learn more, see [Industrial Workspace Admin application menu and Guided Setup](manufacturing-app-menu-guided-setup.md).
 
 </td></tr><tr><td>
 

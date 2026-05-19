@@ -27,7 +27,7 @@ Role required: sn\_grc\_workspace.admin \(CRUD\), sn\_grc\_workspace.user \(Read
 
 3.  On the Cloud file configuration form, fill in the fields.
 
-    For more information on the fields in the form, see [Cloud file configuration record form](../reference/document-access-configuration-record-form.md). Once the parent cloud file configuration is active, you can configure the File access permissions for the Cloud file configuration record as shown in the example.
+    For more information on the fields in the form, see [Cloud file configuration record form](document-access-configuration-record-form.md). Once the parent cloud file configuration is active, you can configure the File access permissions for the Cloud file configuration record as shown in the example.
 
     ![Cloud file configuration record.](../image/cloud-file-configuration-record.png)
 

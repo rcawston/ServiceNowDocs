@@ -31,7 +31,7 @@ The form you complete varies depending on whether you choose to base your list o
 |Select columns|The columns to display in the list. This field is populated with columns from a Workspace list view if one exists. If a Workspace list doesn't exist, the columns are populated with the Default list view of the table selected.|
 |Add filters|Condition used to filter the list.|
 
-To return to the procedure, see [Create a list in Service Operations Workspace for ITOM](../task/create-list-sow-itom.md)
+To return to the procedure, see [Create a list in Service Operations Workspace for ITOM](create-list-sow-itom.md)
 
-**Parent Topic:**[Service Operations Workspace for ITOM reference](../concept/sow-reference-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM reference](sow-reference-itom.md)
 

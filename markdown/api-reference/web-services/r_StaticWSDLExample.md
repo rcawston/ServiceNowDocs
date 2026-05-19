@@ -33,5 +33,5 @@ This example demonstrates the FakeStockValue WSDL.
 </definitions>
 ```
 
-**Parent Topic:**[Create a static WSDL](../task/t_CreateAStaticWSDL.md)
+**Parent Topic:**[Create a static WSDL](t_CreateAStaticWSDL.md)
 

@@ -153,5 +153,5 @@ Where the case occurred \(Sub-location\)?
 Sub location of the case occurrence. For example, the sub location is **Tokyo**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Report a privacy case from the Employee Center](../task/report-privacy-case-employee-center.md)
+</table>**Parent Topic:**[Report a privacy case from the Employee Center](report-privacy-case-employee-center.md)
 

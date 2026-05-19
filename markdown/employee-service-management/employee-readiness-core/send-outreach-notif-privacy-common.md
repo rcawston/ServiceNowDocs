@@ -17,9 +17,9 @@ Send an Emergency Outreach notification, on demand, to employees to provide a pr
 
 ## Before you begin
 
-Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../../business-continuity/task/install-emergency-outreach.md#).
+Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../emergency-outreach/install-emergency-outreach.md#).
 
-Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../now-mobile-employee-experience/mobile-employee-experience.md).
 
 Role required: sn\_imt\_checkin.checkin\_admin
 
@@ -77,5 +77,5 @@ The notification is sent to the target audience.
 
 If you need to resend the notification, navigate to **Emergency Outreach** &gt; **View Outreaches**, select the outreach, and click **Resend Notification**.
 
-**Parent Topic:**[Maintaining privacy consent in Employee Readiness Core](../concept/employee-readiness-core-privacy-consent.md)
+**Parent Topic:**[Maintaining privacy consent in Employee Readiness Core](employee-readiness-core-privacy-consent.md)
 

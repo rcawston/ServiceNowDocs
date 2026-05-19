@@ -18,7 +18,7 @@ When editing an existing integration, note the following:
 -   You can't edit the application and connection details. To change credentials or connection details, create a integration.
 -   You can only change the capabilities and their API information.
 -   You can add or remove capabilities.
--   After making API updates, select the **Save changes** button. You have to create API endpoint details, generate the parsing and invocation scripts. For more details, see [Add APIs](../task/add-apis.md).
+-   After making API updates, select the **Save changes** button. You have to create API endpoint details, generate the parsing and invocation scripts. For more details, see [Add APIs](add-apis.md).
 -   Once you save and publish your changes, you can’t revert to the previous version from the UI.
 -   When you republish an integration, new capabilities are generated, and any capabilities you removed are marked as inactive.
 

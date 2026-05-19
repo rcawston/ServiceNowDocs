@@ -41,13 +41,13 @@ For a service instance \(formerly application service\), impact analysis outcome
 
 The **Service Classification** attribute identifies the service as a service instance.
 
-See [Use the Dynamic CI Group method to populate application services](../../configuration-management/task/populate-app-service-dynamic-group.md).
+See [Use the Dynamic CI Group method to populate application services](../configuration-management-database-cmdb/populate-app-service-dynamic-group.md).
 
 -   **[Synchronizing group assignment attributes](csdm-data-synchronize.md)**  
 To empower a particular user group to manage a collection of CIs or CI classes, set group assignment attributes through the Technology management offering or the CI Class Manager. The operation synchronizes the group attribute data across all CIs that belong to the specified CI class or groups of CIs.
--   **[Set the group for a CI or an entire class of CIs](../task/csdm-data-synchronize-enable.md)**  
+-   **[Set the group for a CI or an entire class of CIs](csdm-data-synchronize-enable.md)**  
 Synchronize group assignment attributes on entire CI classes and individual CIs using the CI Class Manager.
--   **[Synchronize user groups for a technology management offering](../task/csdm-enable-tso.md)**  
+-   **[Synchronize user groups for a technology management offering](csdm-enable-tso.md)**  
 Synchronize group assignment attributes on entire CI classes and individual CIs by creating a dynamic CI group for use by a Technology management offering.
 
 **Parent Topic:**[Implementing the CSDM framework in stages](csdm-implementation-stages.md)

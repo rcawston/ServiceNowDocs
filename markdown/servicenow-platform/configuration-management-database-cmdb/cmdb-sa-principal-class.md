@@ -89,5 +89,5 @@ Consider the following behavior:
 -   When you mark a class as principal without using the CMDB success advisor after the Data Foundations advisor dashboard scope is configured, the class is marked as principal on the instance but is not automatically added to the Data Foundations advisor dashboard scope.
 -   When you remove the principal designation from a class outside the advisor, the class remains in the Data Foundations advisor dashboard scope until you remove it manually.
 
-To keep the Data Foundations advisor dashboard scope accurate, make all principal class updates directly in CMDB success advisor by selecting **Edit principal classes** on the CMDB success advisor card. For more information, see [Manage Data Foundations advisor scope in CMDB success advisor](../task/cmdb-sa-df-optimize-dashboard.md).
+To keep the Data Foundations advisor dashboard scope accurate, make all principal class updates directly in CMDB success advisor by selecting **Edit principal classes** on the CMDB success advisor card. For more information, see [Manage Data Foundations advisor scope in CMDB success advisor](cmdb-sa-df-optimize-dashboard.md).
 

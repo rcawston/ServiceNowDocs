@@ -74,7 +74,7 @@ Control Admin access levels using CSV imports. Assign NONE, READ, EDIT, or ADMIN
 **Related topics**  
 
 
-[Using CPQ user access management](../concept/cpq-using-uam.md)
+[Using CPQ user access management](cpq-using-uam.md)
 
-[User access](../concept/please_share_your_feedback_on_admin_assist_responses.md)
+[User access](please_share_your_feedback_on_admin_assist_responses.md)
 

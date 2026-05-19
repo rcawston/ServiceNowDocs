@@ -38,5 +38,5 @@ Role required: admin or pa\_admin
 7.  Click **Save**.
 
 
-**Parent Topic:**[Customizing Essential SAFe dashboard reports](../concept/customizing-safe-dashboard-reports.md)
+**Parent Topic:**[Customizing Essential SAFe dashboard reports](customizing-safe-dashboard-reports.md)
 

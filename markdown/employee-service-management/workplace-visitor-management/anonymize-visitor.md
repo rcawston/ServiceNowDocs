@@ -55,7 +55,7 @@ When you anonymize a visitor, the visitor record is deleted. In all current visi
 
 The visitor is anonymized and all the details of the visitor are deleted. Any future registrations for the visitor are canceled, and the data in the fields is replaced with random values.
 
-**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+**Parent Topic:**[Managing visitor registrations](manage-visitor-registrations.md)
 
 **Related topics**  
 
@@ -68,7 +68,7 @@ The visitor is anonymized and all the details of the visitor are deleted. Any fu
 
 [View visitor policy confirmations](view-policy-confirmations.md)
 
-[Visitor registration states](../reference/visitor-registration-states.md)
+[Visitor registration states](visitor-registration-states.md)
 
 [Apply visitor management archive policy](apply-visitor-management-archival-rule.md)
 

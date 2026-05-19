@@ -35,7 +35,7 @@ Response templates are reusable messages that can be used by the legal fulfiller
     -   To modify an existing response template, open it from the list.
 3.  On the form, fill in the fields.
 
-    For field descriptions, see [Response Template form](../reference/response-template-fields.md).
+    For field descriptions, see [Response Template form](response-template-fields.md).
 
 4.  Save the response template.
 
@@ -60,5 +60,5 @@ Response templates are reusable messages that can be used by the legal fulfiller
 
 The response template is ready to be used by the legal fulfiller through the configured channels.
 
-**Parent Topic:**[Configuring Legal Request Management](../concept/legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
 

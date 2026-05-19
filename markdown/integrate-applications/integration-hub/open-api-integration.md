@@ -37,7 +37,7 @@ By default, the system can import OpenAPI Specifications up to 10 MB. To increas
 
 ## Specification management
 
-Import an OpenAPI Specification by selecting options in the REST step. For more information, see [REST step](../../flow-designer/reference/rest-request-action-designer.md). Importing an OpenAPI Specification creates a record in the OpenAPIs \[sys\_openapi\] table. You can view or delete specification records directly from this table. To update a specification, delete it and import it again.
+Import an OpenAPI Specification by selecting options in the REST step. For more information, see [REST step](rest-request-action-designer.md). Importing an OpenAPI Specification creates a record in the OpenAPIs \[sys\_openapi\] table. You can view or delete specification records directly from this table. To update a specification, delete it and import it again.
 
 ## Design considerations
 

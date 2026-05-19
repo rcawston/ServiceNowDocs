@@ -57,7 +57,7 @@ Use Now Assist capabilities to elaborate, shorten, and summarize selected conten
 
 **Note:**
 
--   Now Assist for Docs requires an SPM Pro + license. For more information, see [Configure Now Assist Admin features](../../now-assist-spm/concept/configuring-na-spm.md).
+-   Now Assist for Docs requires an SPM Pro + license. For more information, see [Configure Now Assist Admin features](../now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
 -   If there is more content to summarize, you can remove some content and retry.
 -   Because the information in these fields is AI generated, it's a good idea to review the text and make sure it's accurate.
 

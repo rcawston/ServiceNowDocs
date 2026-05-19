@@ -17,7 +17,7 @@ Configure the settings for the import and export actions of work items between A
 
 To enable synchronization of work items, register webhooks for your Azure DevOps projects and associate your Azure DevOps projects and teams with assignment groups in Agile Development 2.0.
 
-**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](../concept/setting-up-agile-azure-integration.md)
+**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](setting-up-agile-azure-integration.md)
 
 ## Register webhooks for an Azure DevOps project
 
@@ -51,7 +51,7 @@ When you register webhooks in Azure DevOps,it receives the following event updat
 -   Restore a work item
 -   Comment on a work item
 
-For more information on synchronization of work items according to these webhook events, see [Importing and exporting work items between Agile Development and Azure DevOps](../reference/import-export-issues-azure-agile-workflow.md#).
+For more information on synchronization of work items according to these webhook events, see [Importing and exporting work items between Agile Development and Azure DevOps](import-export-issues-azure-agile-workflow.md#).
 
 ### What to do next
 
@@ -66,7 +66,7 @@ Associate your Azure DevOps projects and teams with assignment groups in Agile D
 ### Before you begin
 
 -   [Import areas, teams, and iterations from Azure DevOps](import-areas-teams-azure-agile.md).
--   Create assignment groups in Agile Development. See [Create an assignment group in Agile Development 2.0](../../agile-development/task/create-an-agile-group.md#).
+-   Create assignment groups in Agile Development. See [Create an assignment group in Agile Development 2.0](../agile-development/create-an-agile-group.md#).
 -   Role required: sn\_ado\_int.user
 
 ### About this task
@@ -110,5 +110,5 @@ After you associate an Azure DevOps team with an assignment group, you can:
 **Related topics**  
 
 
-[Importing and exporting work items between Agile Development and Azure DevOps](../reference/import-export-issues-azure-agile-workflow.md#)
+[Importing and exporting work items between Agile Development and Azure DevOps](import-export-issues-azure-agile-workflow.md#)
 

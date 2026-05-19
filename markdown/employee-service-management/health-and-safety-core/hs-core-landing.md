@@ -19,19 +19,19 @@ The ServiceNow® Health and Safety Core application provides the data model that
 
 <table id="table_crx_kff_3fc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how different personas use Health and Safety Core.](../concept/explore-hs-core.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how different personas use Health and Safety Core.](explore-hs-core.md)
 
 </td><td>
 
-[Set up![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Health and Safety Core.](../concept/setting-up-hs-core.md)
+[Set up![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Health and Safety Core.](setting-up-hs-core.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Manage safety meetings, safety actions, and safety documents.](../concept/using-hs-core.md)
+[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Manage safety meetings, safety actions, and safety documents.](using-hs-core.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, tables, plugins, and store applications that are installed.](../concept/hs-core-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, tables, plugins, and store applications that are installed.](hs-core-reference.md)
 
 </td></tr></tbody>
 </table>## Health and Safety Core overview

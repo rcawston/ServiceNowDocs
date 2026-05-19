@@ -21,7 +21,7 @@ The following table describes the setup procedure for activating a unified consu
 
 |Task|Description|
 |----|-----------|
-|Update system property|Update the sn\_customerservice.consumer.allowed\_user\_types system property to display the customer\_contact extension records in the reference list. For more information, see [Activate Unified Consumer](../task/activate-unified-consumer.md).|
+|Update system property|Update the sn\_customerservice.consumer.allowed\_user\_types system property to display the customer\_contact extension records in the reference list. For more information, see [Activate Unified Consumer](activate-unified-consumer.md).|
 |Create and associate consumer user|Create and associate a contact with the consumer user. For more information, see [Create and associate a consumer user](create-and-link-a-unified-consumer-user.md).|
 |Assign role to a contact|Assign role \(sn\_customerservice.consumer\) to a contact. For more information, see [Assign the consumer role to a contact](assign-the-unified-consumer-role-to-a-contact.md).|
 

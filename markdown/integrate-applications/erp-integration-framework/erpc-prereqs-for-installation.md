@@ -24,7 +24,7 @@ You must have a license and get entitlement to Zero Copy Connector for ERP for i
 
 The following plugins and servers are required for installing Zero Copy Connector for ERP:
 
--   Integration Hub plugin \(for more information, see [Request Integration Hub](../../../administer/flow-designer/concept/request-ih-overview.md)\)
+-   Integration Hub plugin \(for more information, see [Request Integration Hub](../integration-hub/request-ih-overview.md)\)
 -   Financial Services Remote Tables plugin \(for more information, see [Activate the remote tables plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/activate-remote-tables-plugin.md)\)
 
 ## MID Server requirements
@@ -103,7 +103,7 @@ Contact the admin of your SAP ECC RFC account to obtain the following SAP propri
 
 The MID Server restarts multiple times during this process.
 
-For details about these files, see [SAP ECC RFC Spoke](../../../administer/integrationhub-store-spokes/concept/sap-ecc-rfc-spoke.md).
+For details about these files, see [SAP ECC RFC Spoke](../integration-hub/sap-ecc-rfc-spoke.md).
 
 ## SAP configuration
 
@@ -117,5 +117,5 @@ Additionally, you need the following on your ERP system:
 -   SAP S/4HANA \(all versions supported\)
 -   SAP Java Connector
 
-**Parent Topic:**[Configuring Zero Copy Connector for ERP](../concept/erp-integration-configuration-overview.md)
+**Parent Topic:**[Configuring Zero Copy Connector for ERP](erp-integration-configuration-overview.md)
 

@@ -54,7 +54,7 @@ Canceling a workflow attempts to stop the workflow gracefully by injecting a can
     **Warning:** Whenever possible, allow a workflow to cancel gracefully. Forcing a workflow to cancel can leave related workflows and scripts in an unresolved state. You can use an on-cancel script to clean up unresolved artifacts from a cancelled workflow.
 
 
-**Parent Topic:**[Administering workflow contexts](../reference/r_AdministeringWorkflowContexts.md)
+**Parent Topic:**[Administering workflow contexts](r_AdministeringWorkflowContexts.md)
 
 ## Cancel a workflow with the cancelContext\(context\) script
 

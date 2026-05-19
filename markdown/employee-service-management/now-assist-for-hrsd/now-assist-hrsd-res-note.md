@@ -77,7 +77,7 @@ Skip adding resolution notes to the case.
     3.  Select **Insert** to add the generated content into the **Close notes** field.
 
 
-**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](../concept/use-now-assist-hr.md)
+**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](use-now-assist-hr.md)
 
 **Related topics**  
 
@@ -96,7 +96,7 @@ Skip adding resolution notes to the case.
 
 [Summarize an HR case using Now Assist for HRSD](now-assist-hrsd-summarize-case.md)
 
-[View employee summary reports](../../td-leader-hub/task/employee-summary-lh.md)
+[View employee summary reports](employee-summary-lh.md)
 
 [Summarize actions while transferring an HR case](tcase-now-assist-hr.md)
 
@@ -108,7 +108,7 @@ Skip adding resolution notes to the case.
 
 [Submit an HR request with Gen AI Virtual Agent](use-genai-hrsd.md)
 
-[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](../concept/integ-now-assist-hrsd.md)
+[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](integ-now-assist-hrsd.md)
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](analyze-sentiments-now-assist.md)
 

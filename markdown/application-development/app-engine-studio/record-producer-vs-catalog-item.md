@@ -128,10 +128,10 @@ Catalog items are typically built in a specific scope, and less flexible.
 For more information, see the following topics:
 
 -   Record producers:
-    -   [Add a record producer](../task/add-a-record-producer.md)
+    -   [Add a record producer](add-a-record-producer.md)
     -   [Sample record producer](record-producers-example.md)
 -   Standard catalog items:
-    -   [Add a standard catalog item](../task/add-standard-catalog-item.md)
+    -   [Add a standard catalog item](add-standard-catalog-item.md)
     -   [Sample standard catalog item](standard-catalog-item-examples.md)
 
 **Parent Topic:**[Add an application experience](add-experience.md)

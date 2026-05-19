@@ -50,10 +50,10 @@ The advanced condition script uses the following business rule global variables:
 
 **Note:** The **Advanced condition** field is evaluated in addition to other conditions you set on the notification. Both the **Condition** and **Advanced condition** must evaluate to true in order to send the notification.
 
-**Parent Topic:**[Create an email notification](../task/t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](t_CreateANotification.md)
 
 **Related topics**  
 
 
-[Create an email notification](../task/t_CreateANotification.md)
+[Create an email notification](t_CreateANotification.md)
 

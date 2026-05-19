@@ -29,7 +29,7 @@ In the list view, you should see the URL hostname that you specified when settin
 
 ![Review the URL hostname that you specified when setting up the connection parameters](../../sgc-ot-discovery/image/mission-secure-outbound-log.png)
 
-By default, the log level is set to Basic, so you can’t see the response body or quest body, but the response status indicates the issue. For example, a 401 in the Response status indicates an unauthorized request. To resolve the issue, navigate to the connection and verify that you have the correct Client ID and Client Secret entered for the connection. For more information, see [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](../../sgc-ot-discovery/task/install-sgc-ot-discovery.md).
+By default, the log level is set to Basic, so you can’t see the response body or quest body, but the response status indicates the issue. For example, a 401 in the Response status indicates an unauthorized request. To resolve the issue, navigate to the connection and verify that you have the correct Client ID and Client Secret entered for the connection. For more information, see [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](install-sgc-ot-discovery.md).
 
 ## Additional diagnosis
 

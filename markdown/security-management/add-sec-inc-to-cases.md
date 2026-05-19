@@ -46,7 +46,7 @@ You need to navigate to the security incidents you want to add to existing cases
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[Security incidents in cases](../concept/case-in-sir.md)
+**Parent Topic:**[Security incidents in cases](case-in-sir.md)
 
 **Related topics**  
 

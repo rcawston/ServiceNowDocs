@@ -36,5 +36,5 @@ Role required: admin
 5.  Select and hold \(or right-click\) on the header form and click **Save**.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

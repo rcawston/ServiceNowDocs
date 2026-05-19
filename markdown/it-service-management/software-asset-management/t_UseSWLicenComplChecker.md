@@ -37,5 +37,5 @@ Role required: sam
     ![Software Counters list](../image/SoftwareLicenseComplianceChecker.png "Software Counters list")
 
 
-**Parent Topic:**[Legacy Software License Compliance Checker](../concept/c_SoftwareLicenseComplianceChecker.md)
+**Parent Topic:**[Legacy Software License Compliance Checker](c_SoftwareLicenseComplianceChecker.md)
 

@@ -97,5 +97,5 @@ Application that is associated with this business calendar. If you are working o
 
 Records are created in the Business Calendar Filter Option \(business\_calendar\_filter\_option\) table. If you create business calendar filtering options in the Business Calendar Filter Options related list in the Business Calendar form, these records are also associated with the specific business calendar.
 
-**Parent Topic:**[Creating business calendars](../concept/business-calendars.md)
+**Parent Topic:**[Creating business calendars](business-calendars.md)
 

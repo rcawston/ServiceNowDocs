@@ -36,7 +36,7 @@ By default, the system property that is used to run automated tests is disabled 
 |CMDB INT: Validate Related Entries|Validate all related classes against the data dictionary for related entries.|Paris|
 |CMDB INT: Validate Relationships|Validate CMDB integration relationships.|Paris|
 
-To learn more about Integration Commons for CMDB, see [Integration Commons for CMDB](../../../product/configuration-management/concept/integration-commons-for-cmdb.md).
+To learn more about Integration Commons for CMDB, see [Integration Commons for CMDB](integration-commons-for-cmdb.md).
 
 **Related topics**  
 

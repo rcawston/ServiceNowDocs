@@ -187,12 +187,12 @@ You can use this script as an example to prepare your own customized script.
 
 ![Event Management script](../image/maintenance-rule-script.png)
 
-**Parent Topic:**[Manage and monitor alerts](../concept/c_EMAlert.md)
+**Parent Topic:**[Manage and monitor alerts](c_EMAlert.md)
 
 **Related topics**  
 
 
-[How alerts work with CIs in maintenance](../concept/c_EMHowImpactTree.md)
+[How alerts work with CIs in maintenance](c_EMHowImpactTree.md)
 
 [Place an alert into maintenance](t_EMPutAnAlertIntoMaintenance.md)
 

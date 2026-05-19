@@ -36,5 +36,5 @@ Role required: sn\_acct\_lc.agent
     For more information, see [Creating guidance and field recommendation in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-config-recommendations.md).
 
 
-**Parent Topic:**[Account onboarding](../concept/account-lifecycle-configure.md)
+**Parent Topic:**[Account onboarding](account-lifecycle-configure.md)
 

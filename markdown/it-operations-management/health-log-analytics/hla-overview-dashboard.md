@@ -15,7 +15,7 @@ breadcrumb: [Platform Analytics Solutions for Health Log Analytics, Analytics an
 
 The Health Log Analytics Overview dashboard has been replaced with the HLA Operational dashboard.
 
-The HLA Operational dashboard uses Performance Analytics to enable you to monitor log data, alerts, and error rate information in Service Operations Workspace and address issues as they occur in the system. For more information, see [HLA Operational dashboard](hla-operational-dashboard.md).
+The HLA Operational dashboard uses Performance Analytics to enable you to monitor log data, alerts, and error rate information in Service Operations Workspace and address issues as they occur in the system. For more information, see [HLA Operational dashboard](../service-operations-workspace-for-itom-apps/hla-operational-dashboard.md).
 
 **Parent Topic:**[Platform Analytics Solutions for Health Log Analytics](hla-content-pack.md)
 

@@ -72,18 +72,18 @@ The Password Change application extends the Password Reset application by lettin
 5.  The user types the new password again in the **Retype password** field, and selects **Change Password**.
 6.  The system notifies the user that the password was changed.
 
--   **[Plan your Password Reset processes](../task/t_PlanPasswordReset.md)**  
+-   **[Plan your Password Reset processes](t_PlanPasswordReset.md)**  
 To ensure security and efficiency, take the time to plan your Password Reset implementation.
--   **[Configure your Password Reset process](../task/t_CreateAPasswordResetProcess.md)**  
+-   **[Configure your Password Reset process](t_CreateAPasswordResetProcess.md)**  
 To implement the process, you configure credentials, verification methods and settings, and enrollment settings. You also specify to which users the process applies.
 -   **[Customizing Password Reset processes](customizing-password-reset.md)**  
 Password Reset scripts enable you to customize Password Reset by creating your own credential store, verification, and identification types, and extend them by defining extension scripts. You can also create a custom credential store type, custom verification type, or verification.
--   **[Reset a password or unlock a user account with service desk assistance](../task/reset-password-for-user.md)**  
+-   **[Reset a password or unlock a user account with service desk assistance](reset-password-for-user.md)**  
 Reset a password or unlock a user account by requesting the assistance of a service desk agent.
--   **[Integrate Password Reset with a Service Portal widget](../task/use-pwd-reset-in-service-portal.md)**  
+-   **[Integrate Password Reset with a Service Portal widget](use-pwd-reset-in-service-portal.md)**  
 You can enable a Password Reset process in a Service Portal page by adding a widget that opens the password reset pages inside the portal.
--   **[Integrate Password Reset with a CMS integration](../../security/task/t_PasswordResetCMSIntegration.md)**  
+-   **[Integrate Password Reset with a CMS integration](t_PasswordResetCMSIntegration.md)**  
 You can configure a site in the ServiceNow content management \(CMS\) application to define a single-site access point that includes the Password Reset service. For example, you can create an employee self-service site that provides Password Reset service.
 
-**Parent Topic:**[Password Reset](../reference/password-reset-landing-page.md)
+**Parent Topic:**[Password Reset](password-reset-landing-page.md)
 

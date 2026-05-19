@@ -33,7 +33,7 @@ User criteria required: Taxonomy Manager.
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields and description, see [Quick Link form](../reference/ec-quick-link-form.md).
+    For more information on the fields and description, see [Quick Link form](ec-quick-link-form.md).
 
     **Note:** You can't add a quick link as a featured item.
 

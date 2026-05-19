@@ -21,7 +21,7 @@ This API allows you to work with currency symbols anywhere on the ServiceNow AI 
 
 This API requires the FX Currency \(com.glide.currency2\) plugin, which is available by default. This API is provided within the `sn_currency` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideCurrencySymbol - getCurrencySymbol\(String letterCode\)
 

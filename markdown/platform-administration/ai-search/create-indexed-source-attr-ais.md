@@ -21,7 +21,7 @@ Role required: ais\_admin
 
 ## About this task
 
-For details on available indexed source attributes and values, see [List of AI Search indexed source attributes](../reference/indexed-source-attrs-ais.md).
+For details on available indexed source attributes and values, see [List of AI Search indexed source attributes](indexed-source-attrs-ais.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ For details on available indexed source attributes and values, see [List of AI S
 
 4.  On the Indexed Source Attribute form, fill in the fields.
 
-    For a description of the field values, see [Indexed Source Attribute form](../reference/indexed-source-attribute-form-ais.md).
+    For a description of the field values, see [Indexed Source Attribute form](indexed-source-attribute-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -46,5 +46,5 @@ The new indexed source attribute appears in the Advanced Configuration related l
 
 To make the new indexed source attribute take effect, perform a full table reindex for the indexed source. For details on this procedure, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
 
-**Parent Topic:**[Indexed source attributes for AI Search](../concept/indexed-source-attributes-ais.md)
+**Parent Topic:**[Indexed source attributes for AI Search](indexed-source-attributes-ais.md)
 

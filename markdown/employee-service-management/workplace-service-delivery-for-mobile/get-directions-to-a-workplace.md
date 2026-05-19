@@ -120,14 +120,14 @@ Using the Workplace Service Delivery for Mobile, get directions for workplace fr
 
 16. To submit a request related to a space, select **Raise a general inquiry**.
 
-    For more information, see [Raise help request for a workplace inquiry](../../workplace-case-mgmt/task/submit-gen-workplace-serv-req.md). The location details are pre-defined.
+    For more information, see [Raise help request for a workplace inquiry](../workplace-case-management/submit-gen-workplace-serv-req.md). The location details are pre-defined.
 
 
 ## Result
 
 The directions are displayed to the desired location.
 
-**Parent Topic:**[Using Workplace Service Delivery for Mobile](../concept/using-wsd-mobile.md)
+**Parent Topic:**[Using Workplace Service Delivery for Mobile](using-wsd-mobile.md)
 
 **Previous topic:**[Make a reservation using the Now Mobile app](make-a-reservation-on-mobile.md)
 

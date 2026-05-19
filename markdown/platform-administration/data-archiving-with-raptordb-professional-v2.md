@@ -46,7 +46,7 @@ Live Archive extends the existing archive rules framework. When records match th
 
     Use archive rules to define which records should be archived. Time-based conditions are common. For example, to archive incidents closed more than two years ago. However, any field-based condition is supported.
 
-    Existing archive rules operate without changes or migration. For guidance on creating and managing archive rules, see [Create an archive rule in Core UI](../task/t_CreateAnArchiveRule.md#).
+    Existing archive rules operate without changes or migration. For guidance on creating and managing archive rules, see [Create an archive rule in Core UI](t_CreateAnArchiveRule.md#).
 
     When an archive rule runs, records and attachments move from live tables to archive tables through the S3 facade.
 
@@ -69,5 +69,5 @@ Live Archive extends the existing archive rules framework. When records match th
     Object storage data is encrypted at rest and in transit without requiring additional configuration.
 
 
-To install Live Archive after upgrading to RaptorDB Professional V2, see [Install Live Archive](../../managing-data/task/install-data-archiving-plugin.md).
+To install Live Archive after upgrading to RaptorDB Professional V2, see [Install Live Archive](install-data-archiving-plugin.md).
 

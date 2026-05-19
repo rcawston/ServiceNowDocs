@@ -41,7 +41,7 @@ To perform the ERP Source configuration for Oracle Financial Cloud, follow these
 1.  Define the ERP source that you want to integrate with Oracle Financial Cloud integration.
 2.  Create a basic authentication profile that can be used for web service integration with Oracle Financial Cloud.
 3.  Register the Oracle Financial Cloud integration username and password to create the authentication profile and associate it to service maps.
-4.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for Oracle Financial Cloud](../task/define-erp-source-config-oracle-fin-cloud.md).
+4.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for Oracle Financial Cloud](define-erp-source-config-oracle-fin-cloud.md).
 5.  Configure service maps for the following entities:
 
     -   **Suppliers**

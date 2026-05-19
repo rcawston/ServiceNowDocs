@@ -50,32 +50,32 @@ To enable email summarization, set the default model for the One Extend capabili
 
 **Note:** Email summarization is not available for supplier records.
 
-**Parent Topic:**[Using Source-to-Pay Workspace](../concept/use-supp-mgr-wsp.md)
+**Parent Topic:**[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
 
 **Related topics**  
 
 
 [Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
 
-[Manage supplier details](../concept/supp-ws-details-page.md)
+[Manage supplier details](supp-ws-details-page.md)
 
-[Manage internal stakeholders](../concept/manage-internal-stakeholders.md)
+[Manage internal stakeholders](manage-internal-stakeholders.md)
 
-[Manage supplier contacts from the Source-to-Pay Workspace](../concept/managing-contacts-smw.md)
+[Manage supplier contacts from the Source-to-Pay Workspace](managing-contacts-smw.md)
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
-[Manage supplier tasks from the Source-to-Pay Workspace](../concept/managing-tasks.md)
+[Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
 [Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 
 [Accept an incoming chat request from the Source-to-Pay Workspace](accept-chat-supp-ws.md)
 
-[Interaction Management in Supplier Lifecycle Operations](../concept/interaction-mgmt-supplier-mgr-ws.md)
+[Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
-[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-slm-workspace.md)
+[Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-slm-workspace.md)
 
-[Overall supplier dashboard](../concept/overall-supplier-db.md)
+[Overall supplier dashboard](overall-supplier-db.md)
 
 [Create supplier case from Universal Request](create-supplier-case.md)
 

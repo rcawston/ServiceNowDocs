@@ -39,7 +39,7 @@ To add forms to an app, you must be given permission to work on the app.
 
 6.  Choose how you want to build the form:
 
-    -   To use Now Assist, stay on the **Build with Now Assist** tab and enter directions to provide a description for the form you want. To learn more, see [Generating forms with Now Assist](../concept/creator-studio-text-to-form.md).
+    -   To use Now Assist, stay on the **Build with Now Assist** tab and enter directions to provide a description for the form you want. To learn more, see [Generating forms with Now Assist](creator-studio-text-to-form.md).
 
         **Note:** You can select **Try an example** to see some examples of the available directions. To see a quick mock up of what the form will look like, select the **Generate form preview** button. If you want a different form, change the provided direction and select **Regenerate preview** for a quick look.
 
@@ -62,5 +62,5 @@ To add forms to an app, you must be given permission to work on the app.
 
 Next, you can edit the form to populate its questions and customize its layout. For more information, see [Customize your form for an app in Creator Studio](creator-studio-edit-form.md).
 
-**Parent Topic:**[Working with forms in Creator Studio](../concept/creator-studio-work-with-forms.md)
+**Parent Topic:**[Working with forms in Creator Studio](creator-studio-work-with-forms.md)
 

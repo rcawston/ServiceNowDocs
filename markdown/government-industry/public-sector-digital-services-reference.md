@@ -27,8 +27,8 @@ Public Sector Digital Services lists and forms
 
 </td><td>
 
--   [Public Sector Digital Services Core Case Forms](../reference/psds-case-forms.md)
--   [Public Sector Digital Services Core Profile Forms](../reference/psds-profile-forms.md)
+-   [Public Sector Digital Services Core Case Forms](psds-case-forms.md)
+-   [Public Sector Digital Services Core Profile Forms](psds-profile-forms.md)
 
 </td></tr><tr><td>
 
@@ -36,11 +36,11 @@ Components installed with Public Sector Digital Services applications
 
 </td><td>
 
--   [Components and Roles installed with Public Sector Digital Services Core](../reference/installed-with-public-sector-digital-services-core.md)
--   [Roles installed with Public Sector Digital Services](../reference/roles-installed-with-public-sector-digital-services.md)
--   [Persona-based Roles in Public Sector Digital Services](../reference/roles-installed-with-public-sector-digital-services.md#section_np1_nbp_3hc)
--   [Plugins installed with Public Sector Digital Services Core](../reference/plugins-installed-with-psds.md)
--   [Properties installed with Public Sector Digital Services](../reference/properties-installed-with-psds.md)
+-   [Components and Roles installed with Public Sector Digital Services Core](installed-with-public-sector-digital-services-core.md)
+-   [Roles installed with Public Sector Digital Services](roles-installed-with-public-sector-digital-services.md)
+-   [Persona-based Roles in Public Sector Digital Services](roles-installed-with-public-sector-digital-services.md#section_np1_nbp_3hc)
+-   [Plugins installed with Public Sector Digital Services Core](plugins-installed-with-psds.md)
+-   [Properties installed with Public Sector Digital Services](properties-installed-with-psds.md)
 
 </td></tr><tr><td>
 
@@ -49,8 +49,8 @@ Data Model and catalog topics
 </td><td>
 
 -   [Public Sector Digital Services Data Model](public-sector-digital-services-data-model.md)
--   [Public Sector Digital Services Core Role Relationships](../reference/psds-core-role-relationships.md)
--   [Government Service Portal service catalog](../reference/psds-service-catalog-list.md)
+-   [Public Sector Digital Services Core Role Relationships](psds-core-role-relationships.md)
+-   [Government Service Portal service catalog](psds-service-catalog-list.md)
 
 </td></tr></tbody>
 </table>

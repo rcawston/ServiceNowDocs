@@ -34,5 +34,5 @@ By default, the system property that is used to run automated tests is disabled 
 3.  Select **Save**.
 
 
-**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](../concept/atf-admin-overview.md)
+**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)
 

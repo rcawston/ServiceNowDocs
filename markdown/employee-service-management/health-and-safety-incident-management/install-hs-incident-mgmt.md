@@ -39,7 +39,7 @@ The following items are installed with Health and Safety Incident Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Health and Safety Incident Management](../reference/components-installed-with-hs-incident-mgmt.md).
+For more information, see [Components installed with Health and Safety Incident Management](components-installed-with-hs-incident-mgmt.md).
 
 This table lists the optional applications that can be installed for additional features:
 
@@ -59,9 +59,9 @@ Anonymous Report Center
 
 </td><td>
 
-Installs anonymous reporting capability for Health and Safety Incident Management.For more information, see [Activate the Anonymous Report Center](../../human-resources/task/arc-activate.md).
+Installs anonymous reporting capability for Health and Safety Incident Management.For more information, see [Activate the Anonymous Report Center](../hr-service-delivery/arc-activate.md).
 
-To configure the **Anonymous report center**, see [Setting up the Anonymous Report Center](../../human-resources/concept/arc-setup.md).
+To configure the **Anonymous report center**, see [Setting up the Anonymous Report Center](../hr-service-delivery/arc-setup.md).
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Health and Safety Case Management \[sn\_hs\_cm\]
 
 </td><td>
 
-Installs case management capability for Health and Safety Incident Management.For more information, see [Install Health and Safety Case Management](../../hs-case-management/task/install-hs-case-management.md).
+Installs case management capability for Health and Safety Incident Management.For more information, see [Install Health and Safety Case Management](../health-and-safety-case-management/install-hs-case-management.md).
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Human Resources Scoped App: Core \[com.sn\_hr\_core\]
 
 </td><td>
 
-Installs Case and Knowledge Management for creating HR cases from injury and illness records.For more information, see [Activate Case and Knowledge Management](../../human-resources/task/activate-case-and-knowledge-management-scoped.md).
+Installs Case and Knowledge Management for creating HR cases from injury and illness records.For more information, see [Activate Case and Knowledge Management](../hr-service-delivery/activate-case-and-knowledge-management-scoped.md).
 
 **Note:** For creating HR cases from injury and illness records, this plugin needs to be activated together with the Health and Safety Case Management \(sn\_hs\_cm\) application. For more information, see [Create an HR case from an injury or illness](create-hr-case-injury-illness.md).
 
@@ -121,7 +121,7 @@ Health and Safety Contractor Management \[sn\_hs\_crm\]
 
 </td><td>
 
-Installs contractor management capability for Health and Safety Incident Management.For more information, see [Install Health and Safety Contractor Management](../../hs-contractor-management/task/hs-install-contractor-management.md).
+Installs contractor management capability for Health and Safety Incident Management.For more information, see [Install Health and Safety Contractor Management](../health-and-safety-contractor-management/hs-install-contractor-management.md).
 
 </td></tr><tr><td>
 
@@ -129,7 +129,7 @@ Health and Safety Incident Management OSHA Content Pack\[com.snc.sn\_hs\_im\_osh
 
 </td><td>
 
-Installs OSHA reporting capability for Health and Safety Incident Management.For more information, see [Install Health and Safety Incident Management OSHA Content Pack](install-hs-osha-content-pack.md).
+Installs OSHA reporting capability for Health and Safety Incident Management.For more information, see [Install Health and Safety Incident Management OSHA Content Pack](../health-and-safety/install-hs-osha-content-pack.md).
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Learning Core\[sn\_lc\]
 
 </td><td>
 
-Installs Learning Core to enable learning content in Health and Safety actions.For more information, see [Configuring Learning Core](../../human-resources/concept/configuring-learning-core.md).
+Installs Learning Core to enable learning content in Health and Safety actions.For more information, see [Configuring Learning Core](../learning-core/configuring-learning-core.md).
 
 </td></tr></tbody>
 </table>## Procedure
@@ -163,5 +163,5 @@ Installs Learning Core to enable learning content in Health and Safety actions.F
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setting up Health and Safety Incident Management](../concept/setting-up-hs-incident-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Incident Management](setting-up-hs-incident-mgmt.md)
 

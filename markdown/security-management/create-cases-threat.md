@@ -53,7 +53,7 @@ Role required: sn\_ti.case\_user\_write
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[IoCs and observables in cases](../concept/cases-in-threat.md)
+**Parent Topic:**[IoCs and observables in cases](cases-in-threat.md)
 
 **Related topics**  
 

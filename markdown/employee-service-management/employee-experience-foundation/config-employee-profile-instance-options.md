@@ -64,5 +64,5 @@ Select to display the left navigation menu \(widget overview panel\).
 **Related topics**  
 
 
-[Employee profile](../concept/employee-profile-portal.md)
+[Employee profile](employee-profile-portal.md)
 

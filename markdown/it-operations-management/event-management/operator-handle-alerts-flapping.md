@@ -94,5 +94,5 @@ The state of the alert before it entered the flapping state.
 5.  After you are certain that the underlying issue is addressed, [close the alert](operator-close-alert.md).
 
 
-**Parent Topic:**[Advanced tasks for the Event Management operator](../concept/operator-advanced-tasks.md)
+**Parent Topic:**[Advanced tasks for the Event Management operator](operator-advanced-tasks.md)
 

@@ -112,7 +112,7 @@ This dashboard displays the trends for the findings ingestion performance metric
 |-----|-----------|----------------------------------------|-----------------|------------------|
 |Configuration|
 |Auto-delete rules|Displays the number of enabled auto-delete rules.|Review and resolve the inactive auto-delete rules.|3|1|
-|Auto-close stale records|Closes stale detections automatically. For more information, see the[Closing stale detections and findings automatically using auto-close rules](../../security-exposure-management-administration/concept/sem-closing-stale-findings-automatically.md).|Reduce the volume of stale detections. Enable this option to close the stale detections that aren’t closed by the scanners.|3|1|
+|Auto-close stale records|Closes stale detections automatically. For more information, see the[Closing stale detections and findings automatically using auto-close rules](sem-closing-stale-findings-automatically.md).|Reduce the volume of stale detections. Enable this option to close the stale detections that aren’t closed by the scanners.|3|1|
 |Implementation health|
 |Customized script includes|Number of 'script includes' customized.|Minimize customized 'script includes' for easier upgrades.|10|12|
 |Business rules on the detections table|Number of customized business rules in the detection table.|Minimize business rules for easier upgrades.|4|8|

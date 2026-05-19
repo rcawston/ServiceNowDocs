@@ -21,7 +21,7 @@ Role required: sn\_hs\_rm.safety\_inspection\_writer
 
 ## About this task
 
-The safety agent assigned to the survey can create actions on the survey. The actions must first be added to the findings related item of a safety inspection record. For information on adding action to findings, see [Add an action for a safety inspection or audit](hs-add-action-safety-inspection.md). Actions can also be created on the Now Agent app in offline mode provided all the inspection records are cached before going offline. For more information, see [Add actions for safety inspections survey in Mobile Agent app](../../hs-health-safety-mobile/task/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
+The safety agent assigned to the survey can create actions on the survey. The actions must first be added to the findings related item of a safety inspection record. For information on adding action to findings, see [Add an action for a safety inspection or audit](hs-add-action-safety-inspection.md). Actions can also be created on the Now Agent app in offline mode provided all the inspection records are cached before going offline. For more information, see [Add actions for safety inspections survey in Mobile Agent app](../health-and-safety/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
 
 ## Procedure
 
@@ -46,7 +46,7 @@ The safety agent assigned to the survey can create actions on the survey. The ac
     |Section|The sections of the survey that you have added response for.|
     |Question|The questions that you responded to in the selected section of the survey|
 
-    For more information to complete the action form, see [Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md).
+    For more information to complete the action form, see [Health and Safety action form](../health-and-safety-core/hs-action-form.md).
 
 6.  Select **Create**.
 
@@ -55,5 +55,5 @@ The safety agent assigned to the survey can create actions on the survey. The ac
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](hs-safety-inspections.md)
 

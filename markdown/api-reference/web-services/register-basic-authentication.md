@@ -75,5 +75,5 @@ Specify the integration name.**Note:** The integration name is auto filled for O
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Registered integrations](../concept/registered-integrations.md)
+**Parent Topic:**[Registered integrations](registered-integrations.md)
 

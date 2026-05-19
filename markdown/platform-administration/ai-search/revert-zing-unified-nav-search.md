@@ -51,5 +51,5 @@ The system reverts to using Zing as the search engine for global search and Next
 
 Notify all users of your instance that they need to log out and back in before they can use Zing search in the Unified Navigation search field.
 
-**Parent Topic:**[Configuring AI Search for Next Experience](../concept/configuring-ais-next-experience.md)
+**Parent Topic:**[Configuring AI Search for Next Experience](configuring-ais-next-experience.md)
 

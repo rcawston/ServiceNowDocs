@@ -102,7 +102,7 @@ Role required: Compliance Admin \(sn\_compliance.admin\)
 
 ## Result
 
-For information about the SOX Compliance Dashboard, see [SOX Content Pack dashboard and reports](../concept/grc-SOX-compliance-content-pack.md).
+For information about the SOX Compliance Dashboard, see [SOX Content Pack dashboard and reports](grc-SOX-compliance-content-pack.md).
 
-**Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](../concept/sn-store-SOX-governance-risk-compliance.md)
+**Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](sn-store-SOX-governance-risk-compliance.md)
 

@@ -31,12 +31,12 @@ Role required: admin
 
 4.  Under **Mobile push application**, select which app type the offline scheduled download should be associated with.
 
-    For more information, see [Scheduled offline caching](../concept/scheduled-offline-caching.md).
+    For more information, see [Scheduled offline caching](scheduled-offline-caching.md).
 
 5.  Under **Settings**, toggle **Offline enabled**.
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](mobile-offline-mode.md)
 

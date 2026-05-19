@@ -70,5 +70,5 @@ This task enables you to update, and delete a record of an item of any inventory
     Fields and the records list are updated.
 
 
-**Parent Topic:**[Inventory number allocation](../concept/vlan_or_lag_number_management.md)
+**Parent Topic:**[Inventory number allocation](vlan_or_lag_number_management.md)
 

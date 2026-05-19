@@ -45,7 +45,7 @@ Specify the fields to be displayed in your Incident record and the order in whic
 
     **Note:**
 
-    -   Certain fields are hidden by default in the Incident and Response Task banners. Change the fields that are hidden or displayed by modifying the `sn_app_secops_ui.form.excluded_fields.incident` and `sn_app_secops_ui.form.excluded_fields.response_task` properties as described in [Security Analyst Workspace properties](../reference/sir-workspace-properties.md).
+    -   Certain fields are hidden by default in the Incident and Response Task banners. Change the fields that are hidden or displayed by modifying the `sn_app_secops_ui.form.excluded_fields.incident` and `sn_app_secops_ui.form.excluded_fields.response_task` properties as described in [Security Analyst Workspace properties](sir-workspace-properties.md).
     -   Specify the number of fields that can be displayed in the Incident and Response Task banners and on the first line of the Incident banner by setting these properties:
         -   sn\_app\_secops\_ui.task\_summary.single\_summary.limit.incident
         -   sn\_app\_secops\_ui.task\_summary.single\_summary.limit.response\_task
@@ -69,5 +69,5 @@ Specify the fields to be displayed in your Incident record and the order in whic
 
 ## Result
 
-The security incident and response task banners are updated in the Security Analyst Workspace \([Manage security threats using the Security Analyst Workspace](../concept/sir-new-ui.md)\).
+The security incident and response task banners are updated in the Security Analyst Workspace \([Manage security threats using the Security Analyst Workspace](sir-new-ui.md)\).
 

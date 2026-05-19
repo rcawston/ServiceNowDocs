@@ -70,5 +70,5 @@ Before you make any modifications to impact calculations, make sure that you und
 
 Your administrator might configure additional impact rules that display when you click a CI in the application service map. You can make adjustments to the **Influence** fields on any impact rule to get the most accurate impact tree.
 
-**Parent Topic:**[Advanced tasks for the Event Management operator](../concept/operator-advanced-tasks.md)
+**Parent Topic:**[Advanced tasks for the Event Management operator](operator-advanced-tasks.md)
 

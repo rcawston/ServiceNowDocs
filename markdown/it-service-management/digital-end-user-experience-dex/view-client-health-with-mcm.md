@@ -40,6 +40,6 @@ Role required: admin
 
 4.  Select **Client health**.
 
-    For more information, see [Installed application — Client health page](../reference/installed-application-client-health-page.md).
+    For more information, see [Installed application — Client health page](installed-application-client-health-page.md).
 
 

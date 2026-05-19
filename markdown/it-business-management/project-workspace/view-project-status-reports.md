@@ -39,7 +39,7 @@ From the **Status Report** tab, you can:
 
     The most recent status report created for the project is displayed.
 
-3.  To [create a status report](t_CreateAProjectStatusReport.md), click **Create new** button in the top right.
+3.  To [create a status report](../project-management/t_CreateAProjectStatusReport.md), click **Create new** button in the top right.
 
 4.  To copy an existing status report:
 
@@ -51,10 +51,10 @@ From the **Status Report** tab, you can:
 
     3.  Select **Save**.
 
-5.  Select a status report from the choice list to view the contents of a [status report](project-status-report.md#table_status_report_project) available for the project.
+5.  Select a status report from the choice list to view the contents of a [status report](../project-management/project-status-report.md#table_status_report_project) available for the project.
 
     The reports are listed in the choice list by their creation date.
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

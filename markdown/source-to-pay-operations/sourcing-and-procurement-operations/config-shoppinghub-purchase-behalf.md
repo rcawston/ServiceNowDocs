@@ -42,5 +42,5 @@ Role required: sn\_shop.procurement\_administrator
 4.  Select **Submit**.
 
 
-**Parent Topic:**[ShoppingHub configuration](../concept/shoppinghub-configurations.md)
+**Parent Topic:**[ShoppingHub configuration](shoppinghub-configurations.md)
 

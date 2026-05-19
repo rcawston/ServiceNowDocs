@@ -19,7 +19,7 @@ The Virtual Agent Designer user input controls and bot responses for creating co
 
 Starting with Version 2.0.0, the card and video bot response controls are supported in Slack conversations. The video control displays a thumbnail image of the video that users select to open the video in their preferred web browser.
 
-For more information about user input controls and bot responses, see [Assistant Designer user input controls](../reference/va-user-inputs.md) and [Assistant Designer bot responses](../reference/va-bot-responses.md), respectively.
+For more information about user input controls and bot responses, see [Assistant Designer user input controls](va-user-inputs.md) and [Assistant Designer bot responses](va-bot-responses.md), respectively.
 
 ## Upload multiple file types
 

@@ -31,7 +31,7 @@ With the ability to integrate with other systems and record impacted areas, the 
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Learn about the tables and roles that are installed with the Privacy Case Management application.](../reference/components-installed-with-pcm.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Learn about the tables and roles that are installed with the Privacy Case Management application.](components-installed-with-pcm.md)
 
 </td><td>
 

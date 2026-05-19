@@ -38,5 +38,5 @@ Use this procedure to assign agents to active requests in service management \(S
     An email notification is automatically sent to the assigned agent when email notifications are set up for the instance.
 
 
-**Parent Topic:**[Agent assignment methods](../../service-management-core/concept/c_AgentAssignment.md)
+**Parent Topic:**[Agent assignment methods](c_AgentAssignment.md)
 

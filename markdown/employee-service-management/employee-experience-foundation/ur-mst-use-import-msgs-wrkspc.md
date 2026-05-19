@@ -77,5 +77,5 @@ Option to import messages into the record. Choices are as follows:-   **Addition
 8.  Click **Import messages**.
 
 
-**Parent Topic:**[Manage chat messages from the Agent Workspace](../concept/ur-mst-use-start-import-chat-aws.md)
+**Parent Topic:**[Manage chat messages from the Agent Workspace](ur-mst-use-start-import-chat-aws.md)
 

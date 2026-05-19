@@ -22,7 +22,7 @@ ServiceNow Role required: sam\_admin or sam\_integrator
 
 **Important:** sam\_user can view the user resolution rules but not create them.
 
-Review the list of unresolved subscriptions on the Subscriptions without user page in the [License operations view](../concept/operations-workspace.md). Note the User principal name value for the subscription and then verify if this value matches any entry in the User \[sys\_user\] table. If no match is found, configure the rule accordingly.
+Review the list of unresolved subscriptions on the Subscriptions without user page in the [License operations view](../software-asset-management/operations-workspace.md). Note the User principal name value for the subscription and then verify if this value matches any entry in the User \[sys\_user\] table. If no match is found, configure the rule accordingly.
 
 ## About this task
 
@@ -36,41 +36,41 @@ SaaS integrations create subscription records in the Software Subscription \[sam
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [User resolution rule fields](../reference/user-resolution-rule-fields.md).
+    For a description of the field values, see [User resolution rule fields](../software-asset-management/user-resolution-rule-fields.md).
 
 4.  Select **Save**.
 
 
 ## Result
 
-If the user resolution rule is correctly configured and the Download subscription job **SAM - Refresh &lt;profile name&gt; Subscriptions** runs successfully, the unresolved subscription you targeted is cleared from the Subscriptions without user page in [License operations view](../concept/operations-workspace.md).
+If the user resolution rule is correctly configured and the Download subscription job **SAM - Refresh &lt;profile name&gt; Subscriptions** runs successfully, the unresolved subscription you targeted is cleared from the Subscriptions without user page in [License operations view](../software-asset-management/operations-workspace.md).
 
 If you find multiple records with the same email address but different User IDs and associated user classes, enable the system property **sn\_itam\_samp.user\_resolution\_exclude\_table**. Provide a list of comma-separated table names that extend the User \[sys\_user\] table to exclude them from user resolution. After making these changes, rerun the Download Subscription job **SAM - Refresh &lt;profile name&gt; Subscriptions** to associate users with their subscription records.
 
-**Parent Topic:**[SaaS License Management](../concept/sam-subscription-management.md)
+**Parent Topic:**[SaaS License Management](sam-subscription-management.md)
 
 **Related topics**  
 
 
 [Request SaaS License Management](request-saas-license-management.md)
 
-[SaaS License Management setup for large companies](../concept/saas-setup-large-companies.md)
+[SaaS License Management setup for large companies](saas-setup-large-companies.md)
 
-[SaaS Overview dashboard](../concept/saas-overview-dashboard.md)
+[SaaS Overview dashboard](saas-overview-dashboard.md)
 
-[Integrate with SaaS applications](../concept/create-integration-profile.md)
+[Integrate with SaaS applications](create-integration-profile.md)
 
-[Integrate with SSO providers](../concept/saas-sso-integration.md)
+[Integrate with SSO providers](saas-sso-integration.md)
 
-[Playbook for SaaS integrations](../concept/playbook-saas-integrations.md)
+[Playbook for SaaS integrations](playbook-saas-integrations.md)
 
-[Viewing your SaaS and SSO subscriptions](../concept/usage-summary-saas.md)
+[Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
 
 [Review a software reclamation rule](add-reclamation-rule-sub.md)
 
-[Reclaiming user subscriptions](../concept/reclaiming-user-subscriptions-saas.md)
+[Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)
 
 [Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)
 
@@ -80,9 +80,9 @@ If you find multiple records with the same email address but different User IDs 
 
 [Disconnect SSO apps](disconnect-azure-ad-apps.md)
 
-[Delete an integration profile](../concept/delete-saas-integration.md)
+[Delete an integration profile](delete-saas-integration.md)
 
-[Subscription identifiers for SaaS and SSO applications](../concept/subscription-identifiers.md#)
+[Subscription identifiers for SaaS and SSO applications](subscription-identifiers.md#)
 
-[Subscription exclusions for SaaS and SSO applications](../concept/subscription-exclusions.md#)
+[Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#)
 

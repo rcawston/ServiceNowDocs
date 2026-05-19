@@ -213,5 +213,5 @@ General instructions or instrument settings that you must follow when performing
 
 Clone the calibration attribute to all applicable enterprise models. See [Clone calibration attributes to an enterprise model](clone-calibration-attributes-enterprise-model.md) for detailed instructions.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

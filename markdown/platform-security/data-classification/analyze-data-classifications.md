@@ -32,7 +32,7 @@ If you have a data classification administrator or auditor role, you can visuali
 
 ## Use cases
 
-For additional examples of how different people in your organization would use this dashboard, see Use Cases in [Data Classification](../concept/data-classification.md).
+For additional examples of how different people in your organization would use this dashboard, see Use Cases in [Data Classification](data-classification.md).
 
 |User|Dashboard use|
 |----|-------------|

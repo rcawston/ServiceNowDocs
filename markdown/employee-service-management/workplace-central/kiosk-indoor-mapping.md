@@ -66,11 +66,11 @@ To access the Kiosk Indoor Mapping module, navigate to **All** &gt; **Workplace 
 
 [Space Planning](space-planning.md)
 
-[Space Optimization](space-optimization.md)
+[Space Optimization](../workplace-space-management/space-optimization.md)
 
-[Scenario Planning](scenario-planning.md)
+[Scenario Planning](../workplace-space-management/scenario-planning.md)
 
-[Schedule Planning](schedule-planning.md)
+[Schedule Planning](../workplace-space-management/schedule-planning.md)
 
 [Space assistance](space-assistance.md)
 

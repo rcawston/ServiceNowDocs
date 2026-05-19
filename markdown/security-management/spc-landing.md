@@ -17,27 +17,27 @@ Gain visibility into your enterprise asset inventory and security tool coverage.
 
 <table id="table_gwg_1kn_g1c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Security Posture Control concepts and features](../concept/spc-overview.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Security Posture Control concepts and features](spc-overview.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Security Posture Control applications](../task/spc-install.md)
+[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Security Posture Control applications](spc-install.md)
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate Service Graph Connectors with Security Posture Control](../concept/spc-use-connectors-policies.md)
+[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate Service Graph Connectors with Security Posture Control](spc-use-connectors-policies.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Learn how to use the workspace to search your assets and identify security gaps](../concept/spc-workspace.md)
+[Use![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Learn how to use the workspace to search your assets and identify security gaps](spc-workspace.md)
 
 </td><td>
 
-[Mitigations Controls Monitoring![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Gain insight into which threats to your assets are mitigated by available mitigation controls](../concept/spc-mitigation-exploring.md)
+[Mitigations Controls Monitoring![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Gain insight into which threats to your assets are mitigated by available mitigation controls](spc-mitigation-exploring.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about scenarios that help you identify specific types of tool coverage gaps. See examples of base, child, and cloned policies, and see a list of supported hardware and software service graph connectors.](../concept/spc-policies.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about scenarios that help you identify specific types of tool coverage gaps. See examples of base, child, and cloned policies, and see a list of supported hardware and software service graph connectors.](spc-policies.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

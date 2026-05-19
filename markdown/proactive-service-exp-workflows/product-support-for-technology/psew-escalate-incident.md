@@ -46,7 +46,7 @@ When an incident is escalated, the status of the Needs attention field is update
 
 **Note:** As a system administrator, you can configure the **Set Needs Attention False** business rule.
 
--   **[Escalate an incident in Proactive Service Experience Workflows](../task/escalate-incident-aw.md)**  
+-   **[Escalate an incident in Proactive Service Experience Workflows](escalate-incident-aw.md)**  
 Escalate an incident to continue the investigation and diagnosis of that incident. By escalating an incident, you can ask for help from a more-experienced resource so that the issue is resolved more quickly.
 
 **Parent Topic:**[Using Proactive Service Experience Workflows](use-assurance-workflows.md)

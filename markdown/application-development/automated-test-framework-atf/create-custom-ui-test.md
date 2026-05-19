@@ -42,7 +42,7 @@ Test components in custom UI pages.
     2.  **Click UI Action**: Click the **Try It** UI action to open the page.
 7.  Add test steps from the Custom UI category to validate the behavior of custom UI components.
 
-    For a list of available Custom UI test steps, see [Custom UI category](../reference/test-steps-custom-ui-category.md#).
+    For a list of available Custom UI test steps, see [Custom UI category](test-steps-custom-ui-category.md#).
 
 8.  Retrieve UI components when adding a test step.
 
@@ -74,7 +74,7 @@ Test components in custom UI pages.
 
 ## What to do next
 
-Consider adding tests to a test suite. For more information, see [Building and running automated test suites](../concept/atf-suites-overview.md).
+Consider adding tests to a test suite. For more information, see [Building and running automated test suites](atf-suites-overview.md).
 
-**Parent Topic:**[Custom UI test steps](../concept/custom-ui-test-steps.md)
+**Parent Topic:**[Custom UI test steps](custom-ui-test-steps.md)
 

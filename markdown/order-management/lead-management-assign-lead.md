@@ -40,7 +40,7 @@ Role required: sales\_agent or sales\_manager
 
 ## What to do next
 
-To learn more, see [Using Lead Management](../concept/lead-management-using.md).
+To learn more, see [Using Lead Management](lead-management-using.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](lead-management-using.md)
 

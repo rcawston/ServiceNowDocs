@@ -72,5 +72,5 @@ Roles required: admin, security\_admin
 
 The trust relationship is established between trusted and protected instances. You’re ready to enable Code Signing. See [Turn on Code Signing](enable-codesiging.md) to complete the steps.
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

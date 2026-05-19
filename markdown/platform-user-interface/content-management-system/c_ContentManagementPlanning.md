@@ -45,7 +45,7 @@ Most of the content in a CMS site is managed in different locations throughout t
 
 [Domain separation and the Content Management System](domain-separation-content-management.md)
 
-[Configure Content Management sites](../task/t_CreateASite.md)
+[Configure Content Management sites](t_CreateASite.md)
 
 [Content Management integration points](c_CMSIntegrationPoints.md)
 

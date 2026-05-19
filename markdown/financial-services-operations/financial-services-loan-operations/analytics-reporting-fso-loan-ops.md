@@ -19,6 +19,6 @@ Use the Performance Analytics widgets on a dashboard to visualize data over time
 
 The following dashboards are available for Financial Services Loan Operations:
 
--   [Business Loan Operations dashboard](../../../use/dashboards/application-content-packs/business-loan-operations-dashboard.md)
--   [Personal Loan Operations dashboard](../../../use/dashboards/application-content-packs/personal-loan-operations-dashboard.md)
+-   [Business Loan Operations dashboard](../business-loan-operations-dashboard.md)
+-   [Personal Loan Operations dashboard](../personal-loan-operations-dashboard.md)
 

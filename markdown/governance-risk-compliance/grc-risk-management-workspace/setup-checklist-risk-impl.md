@@ -44,7 +44,7 @@ A user with the sn\_risk.admin role, can -   define and modify the risk criteria
 -   create assessments
 -   modify the existing assessments
 -   assign roles
- For details, see [Risk Management Administration](../concept/Administration.md).
+ For details, see [Risk Management Administration](Administration.md).
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ A user with the sn\_risk.admin role, can -   define and modify the risk criteria
 
 </td><td>
 
-A user with the sn\_risk.admin role, can also assign roles. For details, see [Roles installed with Risk Management](../reference/r_RolesInstallWRisk.md)
+A user with the sn\_risk.admin role, can also assign roles. For details, see [Roles installed with Risk Management](r_RolesInstallWRisk.md)
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Risk administrators and risk managers can create risk indicators. Risk indicator
 
 </td><td>
 
-Risk administrators and risk managers can create entities manually, rather than generating them from the entity types. For details, see [Create independent entities](../../grc-common/task/create-a-profile.md)
+Risk administrators and risk managers can create entities manually, rather than generating them from the entity types. For details, see [Create independent entities](../grc-common-functions/create-a-profile.md)
 
 </td></tr><tr><td>
 
@@ -100,9 +100,9 @@ Risk administrators and risk managers can create entities manually, rather than 
 
 </td><td>
 
-Risk administrators and risk managers must create and edit entity types and map them to existing ServiceNow® tables for which you must track compliance. Entities are assigned to control objectives and risk statements, which generate controls and risks for every entity type. For details, see [Generate risks and controls from entity types](../../grc-common/task/t_CreateProfileTypes.md)
+Risk administrators and risk managers must create and edit entity types and map them to existing ServiceNow® tables for which you must track compliance. Entities are assigned to control objectives and risk statements, which generate controls and risks for every entity type. For details, see [Generate risks and controls from entity types](../grc-common-functions/t_CreateProfileTypes.md)
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Risk Management implementation](../concept/risk-impl-overview.md)
+**Parent Topic:**[Risk Management implementation](risk-impl-overview.md)
 

@@ -41,7 +41,7 @@ The Now Assist for HRSD application includes the generative AI skills and featur
     -   Live Agent to Live Agent handoff summary: Summarizes the conversation when a live agent hands off a chat to another live agent and displays the summary in the Active Chat window. An agent can view a summary of the actions that were taken by a customer before hand off to another live agent.
     -   Chat wrap up summary: Accelerates the wrap-up time by populating the full chat summary when a conversation ends.
     -   Chat wrap up short description: Accelerates the wrap-up time by populating the short description that summarizes the requester issues when the conversation ends​.
-    For information on activating the chat summarization skill, see [Configure chat summarization and chat reply recommendation skills in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-chat-summarization-in-the-now-assist-admin-console.md). For information on how to use the skill on Agent Workspace for HR Case Management, see [Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)](../task/now-assist-hrsd-chat.md).
+    For information on activating the chat summarization skill, see [Configure chat summarization and chat reply recommendation skills in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-chat-summarization-in-the-now-assist-admin-console.md). For information on how to use the skill on Agent Workspace for HR Case Management, see [Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)](now-assist-hrsd-chat.md).
 
     The following example shows an AI-generated chat summary.
 
@@ -55,7 +55,7 @@ The Now Assist for HRSD application includes the generative AI skills and featur
 
     Provides an agent with a concise summary of a case, including the issue, actions that were taken, SLA, attachment summary and resolution information, depending on the state of the case. An agent can view a case summary to understand the case context, refresh the summary, and post the summary to the case work notes.
 
-    For information on activating the case summarization skill, see [Configure case or incident summarization in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-case-or-incident-summarization-in-the-now-assist-admin-console.md). For information on how to use the skill on Agent Workspace for HR Case Management or Core UI, see [Summarize an HR case using Now Assist for HRSD](../task/now-assist-hrsd-summarize-case.md).
+    For information on activating the case summarization skill, see [Configure case or incident summarization in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-case-or-incident-summarization-in-the-now-assist-admin-console.md). For information on how to use the skill on Agent Workspace for HR Case Management or Core UI, see [Summarize an HR case using Now Assist for HRSD](now-assist-hrsd-summarize-case.md).
 
     The following example shows an AI-generated case summary.
 
@@ -65,7 +65,7 @@ The Now Assist for HRSD application includes the generative AI skills and featur
 
     Automatically generates the resolution notes for an agent when the state of a case is changed to Closed Complete. An agent can accept the AI-generated notes or edit the notes before saving it to the case.
 
-    For information on activating the resolution notes skill, see [Configure Now Assist for HR Service Delivery \(HRSD\)](../task/configure-now-assist-hr.md). For information on how to use the skill on Agent Workspace for HR Case Management, see [Generate resolution notes using Now Assist for HRSD](../task/now-assist-hrsd-res-note.md).
+    For information on activating the resolution notes skill, see [Configure Now Assist for HR Service Delivery \(HRSD\)](configure-now-assist-hr.md). For information on how to use the skill on Agent Workspace for HR Case Management, see [Generate resolution notes using Now Assist for HRSD](now-assist-hrsd-res-note.md).
 
     The following example shows the AI-generated resolution notes.
 
@@ -99,21 +99,21 @@ The admin activates the filters or creates custom filters to enable the Virtual 
 
 ![Options for detected sensitive topics](../image/sensitivity-detection.png)
 
-For more information on the out-of-the-box filters and how they are mapped to chat queues and HR case services, see [Sensitivity detection filters mapping](../reference/reference-sd-info-values.md).
+For more information on the out-of-the-box filters and how they are mapped to chat queues and HR case services, see [Sensitivity detection filters mapping](reference-sd-info-values.md).
 
-For information on setting up sensitivity detection, see [Configure sensitivity detection](../task/config-na-sd-filters.md).
+For information on setting up sensitivity detection, see [Configure sensitivity detection](config-na-sd-filters.md).
 
 ## Sentiment Analysis
 
 Sentiment analysis helps agents prioritize cases based on a sentiment score ranging from -5 to +5 to represent extremely negative to extremely positive. It is available in both the HR Agent workspace and core UI views.
 
-For more information on using sentiment analysis in HR Service Delivery, see [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](../task/analyze-sentiments-now-assist.md).
+For more information on using sentiment analysis in HR Service Delivery, see [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](analyze-sentiments-now-assist.md).
 
 ## Now Assist panel in the Agent Workspace for HR Case Management
 
 The Now Assist panel provides agents with a conversational interface that they can use to request the chat and case summaries on demand.
 
-For more information about the Now Assist panel, see [Use the Now Assist panel in HR Agent Workspace](../task/now-assist-panel-hr.md). ![Now Assist panel menu in Workspace.](../image/now-assist-icon.png)
+For more information about the Now Assist panel, see [Use the Now Assist panel in HR Agent Workspace](now-assist-panel-hr.md). ![Now Assist panel menu in Workspace.](../image/now-assist-icon.png)
 
 ## Now Assist for HR - Galileo Inside
 
@@ -125,5 +125,5 @@ HR professionals, managers, and employees can submit queries on topics including
 
 Galileo Inside uses Retrieval-Augmented Generation \(RAG\) to generate responses to user queries based on relevant articles and research, delivering accurate domain-specific information in real time.
 
-A one-time configuration provides continuous access to the Galileo library with monthly updates to ensure users have the latest information. For more information, see [Configure Now Assist for HR - Galileo Inside](../task/configuring-galileo-inside.md).
+A one-time configuration provides continuous access to the Galileo library with monthly updates to ensure users have the latest information. For more information, see [Configure Now Assist for HR - Galileo Inside](configuring-galileo-inside.md).
 

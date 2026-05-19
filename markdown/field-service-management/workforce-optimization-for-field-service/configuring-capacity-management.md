@@ -19,24 +19,24 @@ Configure Field Service Capacity and Reservations Management to manage the distr
 
 The steps for configuring Field Service Capacity and Reservations Management are:
 
-1.  [Activate Field Service Capacity and Reservations Management](../task/capacity-management-plugin.md)
+1.  [Activate Field Service Capacity and Reservations Management](capacity-management-plugin.md)
 
     You can activate the Field Service Capacity and Reservations Management plugin \(com.snc.fsm\_capacity\_management\) for Field Service Management if you have the admin role.
 
-2.  [Activate Field Service Capacity console](../task/capacity-console-plugin.md) to have the Capacity Console in the CSM/FSM Configurable workspace for capacity planners.
+2.  [Activate Field Service Capacity console](capacity-console-plugin.md) to have the Capacity Console in the CSM/FSM Configurable workspace for capacity planners.
 3.  [Capacity reservation rules](capacity-reservations.md#)
 
     Create capacity reservation rules to use in the capacity definition.
 
-4.  [Create capacity allocation schedule](../task/allocate-schedule-for-capaity-definition.md#)
+4.  [Create capacity allocation schedule](allocate-schedule-for-capaity-definition.md#)
 
     The capacity allocation schedule helps manage and distribute your resource capacity over a set period, ensuring that a certain percentage of your resources are reserved for high-priority or same-day tasks.
 
-5.  [Create a capacity definition](../task/create-capacity-definitions.md)
+5.  [Create a capacity definition](create-capacity-definitions.md)
 
     Allocate work to different task attributes based on their reserved capacity percentage and defined source of capacity.
 
-6.  [Create a demand channel](../task/create-a-demand-channel.md)
+6.  [Create a demand channel](create-a-demand-channel.md)
 
     Demand channels help organize and manage work by efficiently distributing resources. When creating a reservation rule, you can allocate a specific percentage of capacity to a particular demand channel. By tagging work orders or tasks with demand channels, you ensure they’re routed correctly, improving resource allocation and scheduling accuracy.
 
@@ -44,7 +44,7 @@ The steps for configuring Field Service Capacity and Reservations Management are
 
     Create the assignment of work based on the selected source, such as agent schedules, tasks, or hours.
 
-8.  [Create a capacity assignment override](../task/override-capacity-assignment.md)
+8.  [Create a capacity assignment override](override-capacity-assignment.md)
 
     Change the default capacity assignment rules for any change in plan within a capacity definition. You can update the capacity assignments for the existing capacity definition rule at different time intervals and for different capacity buckets rather than creating a new capacity definition.
 
@@ -52,9 +52,9 @@ The steps for configuring Field Service Capacity and Reservations Management are
 **Related topics**  
 
 
-[View Capacity Usages information](../reference/capacity-usage.md)
+[View Capacity Usages information](../field-service-manager-workforce/capacity-usage.md)
 
-[Field Service Capacity and Reservations Management components](../reference/capacity-management-components.md)
+[Field Service Capacity and Reservations Management components](../capacity-management-components.md)
 
-[Field Service Territory Capacity Analytics dashboard](../../../use/dashboards/application-content-packs/capacity-dashboard.md)
+[Field Service Territory Capacity Analytics dashboard](../capacity-dashboard.md)
 

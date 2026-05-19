@@ -36,7 +36,7 @@ Please refer to the user manual of your device to learn how to configure the tab
 -   For Zebra TC52X, TC78x, and MC 900 \(phone with built-in scanner\), see [DataWedge: Append Send Enter or Tab Key after Scanning](https://supportcommunity.zebra.com/s/article/DataWedge-for-Android-Send-Enter-or-Tab-after-scanning?language=en_US).
 -   For Honeywell CT40 \(phone with built-in scanner\), see [Article 000076406](https://sps-support.honeywell.com/s/article/How-to-add-remove-a-suffix-on-an-Android-device-running-CommonES-version-3-or-greater) in the Honeywell knowledge base.
 
-For more information, see [Mobile barcode scanning](../concept/sg-mobile-scanning.md).
+For more information, see [Mobile barcode scanning](sg-mobile-scanning.md).
 
 ## Procedure
 
@@ -80,7 +80,7 @@ Application scope where the mobile property is applied.
 
  To select a different application scope, select the globe icon \(![Globe icon image](../image/globe-icon.png)\) on the instance banner. Then select **Application scope : _application\_scope_**.
 
- For information about how mobile properties are affected by application scope, see [Mobile properties](../concept/mobile-properties.md).
+ For information about how mobile properties are affected by application scope, see [Mobile properties](mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -170,5 +170,5 @@ Mobile application to which you want to send the mobile property. This setting l
 
 After updating this property, the end-user must pull to refresh and get the latest feature configurations.
 
-**Parent Topic:**[Mobile properties](../concept/mobile-properties.md)
+**Parent Topic:**[Mobile properties](mobile-properties.md)
 

@@ -63,7 +63,7 @@ Role required: sn\_hs\_rm.industrial\_hygienist or sn\_hs\_rm.exposure\_writer
 
     -   Select **Add** to link an existing document stored in the **Health and Safety document library** list.
     -   Select **New** to upload a new document.
-    For information on storing documents in the Health and Safety Workspace, see [Add a new Health and Safety related document](../../ohs-incident-management/task/add-hs-related-document.md).
+    For information on storing documents in the Health and Safety Workspace, see [Add a new Health and Safety related document](../health-and-safety-core/add-hs-related-document.md).
 
 9.  In the **Details** tab of the assessment, set the **State** as Active.
 
@@ -88,5 +88,5 @@ Define an action schedule for the people affected by an exposure. The action sch
 -   **[Add a measurement and exposure source for an exposure assessment](hs-add-measurement-exposure-assessment.md)**  
 Add a measurement recorded for the exposure type when performing an exposure assessment.
 
-**Parent Topic:**[Safety exposure management](../concept/hs-safety-exposures.md)
+**Parent Topic:**[Safety exposure management](hs-safety-exposures.md)
 

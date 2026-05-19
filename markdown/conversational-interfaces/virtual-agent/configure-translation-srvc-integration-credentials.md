@@ -19,7 +19,7 @@ Configure the credential and connection for your translation service.
 
 **Note:** The following content is only relevant to NLU conversations and live agent LLM conversations that use Dynamic Translation for Agent Chat.
 
-Complete the [prerequisites for using Dynamic Translation in Virtual Agent](../concept/prereq-using-dt-va.md).
+Complete the [prerequisites for using Dynamic Translation in Virtual Agent](prereq-using-dt-va.md).
 
 Role required: admin
 
@@ -42,5 +42,5 @@ Role required: admin
 
 [Activate your translation service in Dynamic Translation](activate-dt-translation-service.md)
 
-**Parent Topic:**[Localization options for Virtual Agent](../concept/multi-language-options-va.md)
+**Parent Topic:**[Localization options for Virtual Agent](multi-language-options-va.md)
 

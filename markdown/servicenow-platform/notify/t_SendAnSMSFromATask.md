@@ -65,7 +65,7 @@ Click **Add to selected**.
 
 Any SMS records created from a task are associated with that task. You can view associated SMS messages from the task record in the **SMS Messages** related list. You might need to configure the form to add this related list.
 
-**Parent Topic:**[Using Notify with tasks](../concept/c_NotifyOnTask.md)
+**Parent Topic:**[Using Notify with tasks](c_NotifyOnTask.md)
 
 **Related topics**  
 

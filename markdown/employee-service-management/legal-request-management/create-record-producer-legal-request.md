@@ -144,7 +144,7 @@ Name of the [service catalog category](add-catalog-categories.md) in which the i
 
 6.  In the Assigned topics related list, assign the catalog item to a topic in a taxonomy so that the catalog item is added to the Employee Center portal.
 
-    For more information on assigned topics and taxonomy, see [Unified Taxonomy for Employee Center](../../employee-center/concept/config-taxonomy.md).
+    For more information on assigned topics and taxonomy, see [Unified Taxonomy for Employee Center](../employee-experience-foundation/config-taxonomy.md).
 
 7.  In the Applicable For and Not Applicable For related lists, apply the user criteria to control access of the record producer.
 
@@ -214,5 +214,5 @@ Name of the [service catalog category](add-catalog-categories.md) in which the i
         ```
 
 
-**Parent Topic:**[Managing record producers for legal services](../concept/record-producers-legal-services.md)
+**Parent Topic:**[Managing record producers for legal services](record-producers-legal-services.md)
 

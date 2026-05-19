@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns finds Amazon Route 53 domain name systems
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the AWS discovery prerequisites section in [AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md).
+Verify the AWS discovery prerequisites section in [AWS discovery using patterns](data-discovered-aws-patterns.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -47,5 +47,5 @@ The Amazon AWS Route53 pattern creates these relationships to support Amazon Rou
 |DNS Name \[cmdb\_ci\_dns\_name\]|Used by::Uses|DNS Alias \[cmdb\_ci\_dns\_alias\]|
 |DNS Name \[cmdb\_ci\_dns\_name\]|Hosted on::Hosts|Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\]|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

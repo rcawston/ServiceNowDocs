@@ -34,7 +34,7 @@ Retail portal provides a responsive portal experience that can be used by the te
 
 For information on using Retail portal, see the following topics:
 
--   [Add and configure the Retail KPI widget](../task/rahi-portal-configure-retail-kpi-widget.md)
+-   [Add and configure the Retail KPI widget](rahi-portal-configure-retail-kpi-widget.md)
 -   [Create a store inquiry case from the Retail portal](rahi-retail-create-store-service-portal.md)
 -   [Manage a store inquiry case from the Retail portal](rahi-retail-fulfill-retail-store-service-case.md)
 -   [Track cases and tasks from the Retail portal](rahi-retail-navigating-retail.md)

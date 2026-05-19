@@ -21,7 +21,7 @@ LDAP integration requires:
     -   Allows inbound network access through the firewall \(to the LDAP server\)
     -   \(Optional\) Accepts anonymous login
     -   \(Optional\) Supports paging for large LDAP queries
--   The external IP address or fully-qualified domain name of the LDAP server. You can also use a [MID server](../concept/c_LDAPIntegrationViaMIDServer.md).
+-   The external IP address or fully-qualified domain name of the LDAP server. You can also use a [MID server](c_LDAPIntegrationViaMIDServer.md).
 -   A read-only LDAP account of your choosing
 -   For multiple domains, network access for each domain controller
 -   For LDAPS, a PKI certificate

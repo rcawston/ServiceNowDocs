@@ -36,8 +36,8 @@ For more information on the languages available in NLU, see [NLU language suppor
 
 Grouping languages is optional but helps with organizing various language versions of models. There are two methods for ensuring that model languages are grouped:
 
--   You can add a language to a primary model in the model's More options menu, which automatically creates a secondary language model with translation options. For more information on adding and translating a language, see [Translate a multilingual model](../task/translate-multilingual-model.md).
--   You can access the instance model migration page directly by visiting `<instance_name>.service-now.com/$nlu-studio.do#/model-migration`. For more information on language grouping using this method, see [Model language grouping](../reference/model-language-grouping.md).
+-   You can add a language to a primary model in the model's More options menu, which automatically creates a secondary language model with translation options. For more information on adding and translating a language, see [Translate a multilingual model](translate-multilingual-model.md).
+-   You can access the instance model migration page directly by visiting `<instance_name>.service-now.com/$nlu-studio.do#/model-migration`. For more information on language grouping using this method, see [Model language grouping](model-language-grouping.md).
 
 ## Primary and secondary model interactions
 
@@ -47,7 +47,7 @@ When you add an intent to a primary model, the intent is added to all of its sec
 
 When you delete an intent or entity in a primary model, its corresponding intents and entities are also deleted in its secondary models. Therefore, the secondary models follow the status of the primary model content. Although you can't delete intents in secondary models, you can deactivate them.
 
-For more information on intent interactions, see [Import primary model content to a secondary model](../task/import-primary-model-content-to-secondary-model.md).
+For more information on intent interactions, see [Import primary model content to a secondary model](import-primary-model-content-to-secondary-model.md).
 
 You can't delete an entity created in a secondary model if it's a copy of a corresponding entity created in the primary model. However, you can add or delete an entity in a secondary model if it doesn't have a corresponding entity in the primary model.
 
@@ -76,5 +76,5 @@ Following is a list of system behaviors you may encounter when you duplicate the
 -   If you select a secondary model in an existing model group as a new primary model while duplicating the group, all the deactivated entities are enabled for the duplicated version of the secondary model. The secondary model becomes the primary model in the new duplicated model group.
 -   If you duplicate a primary model without any secondary model, the duplicated version becomes a separate primary model.
 
-For more information, see [Duplicate an NLU model](../task/clone-nlu-model.md).
+For more information, see [Duplicate an NLU model](clone-nlu-model.md).
 

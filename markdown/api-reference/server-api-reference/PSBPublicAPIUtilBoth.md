@@ -54,7 +54,7 @@ global.sb.archive(glideRecord);
 global.sb.retire(glideRecord);
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## sb - archive\(glideRecord\)
 

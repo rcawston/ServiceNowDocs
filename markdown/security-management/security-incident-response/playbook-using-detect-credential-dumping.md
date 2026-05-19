@@ -64,5 +64,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 7.  In Action 14, a response task is created to complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for T1003 - Detect Credential Dumping Tools](../concept/playbook-detect-credential-dumping-tools.md)
+**Parent Topic:**[Playbook for T1003 - Detect Credential Dumping Tools](playbook-detect-credential-dumping-tools.md)
 

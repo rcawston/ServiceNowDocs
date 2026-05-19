@@ -60,5 +60,5 @@ Role required: admin \(sb\_admin\)
 **Related topics**  
 
 
-[Service Exchange Center](../concept/se-se-center.md)
+[Service Exchange Center](se-se-center.md)
 

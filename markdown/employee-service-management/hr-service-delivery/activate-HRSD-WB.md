@@ -34,10 +34,10 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with HR Predictive Intelligence Workbench](../reference/installed-with-HRSD-WB.md)**  
+-   **[Components installed with HR Predictive Intelligence Workbench](installed-with-HRSD-WB.md)**  
 Several types of components are installed with activation of the HR Predictive Intelligence Workbench HRSD content plugin \[com.sn\_piwb\_hrsd\_content\] plugin, including user roles.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench administration](../concept/hr-piwb-administration.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench administration](hr-piwb-administration.md)
 
 **Related topics**  
 

@@ -25,19 +25,19 @@ Responses dynamically update risk posture and scoring at the assessment level, a
 
 Optionally, TPRM rules \(such as provider‑based submission rules\) can trigger assessments or create issues/tasks and send notifications when external risk‑intelligence ratings change.
 
-For more information on implementing Risk Management, see [Risk Management implementation](../../grc-risk/concept/risk-impl-overview.md).
+For more information on implementing Risk Management, see [Risk Management implementation](../grc-risk-management-workspace/risk-impl-overview.md).
 
--   **[Manually add a risk to a third party or engagement](../task/tprm-add-risks-tp.md)**  
+-   **[Manually add a risk to a third party or engagement](tprm-add-risks-tp.md)**  
 If you’re using both Risk Management and Third-party Risk Management, you can associate risks and risk statements with third parties and engagements. These associations influence risk posture and scoring.
 
-**Parent Topic:**[Integrating TPRM with other applications](../../grc-vendor-risk/concept/integrating-with-tprm.md)
+**Parent Topic:**[Integrating TPRM with other applications](integrating-with-tprm.md)
 
 **Related topics**  
 
 
-[Define the risk appetite for a risk](../../grc-workspace-risk/task/define-risk-appetite-on-risk.md)
+[Define the risk appetite for a risk](../grc-risk-management-workspace/define-risk-appetite-on-risk.md)
 
-[Create a risk statement](../../grc-risk/task/t_CreateRiskState.md)
+[Create a risk statement](../grc-risk-management-workspace/t_CreateRiskState.md)
 
-[Define the risk appetite for a risk statement](../../grc-workspace-risk/task/define-risk-appetite-on-risk-statement.md)
+[Define the risk appetite for a risk statement](../grc-risk-management-workspace/define-risk-appetite-on-risk-statement.md)
 

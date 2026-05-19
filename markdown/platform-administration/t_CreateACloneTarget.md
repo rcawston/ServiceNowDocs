@@ -17,7 +17,7 @@ A clone target record specifies the instance URL and credentials used for clonin
 
 Role required: clone\_admin
 
-If an error occurs while registering a target instance see [Troubleshooting for registering target instance](../reference/register-target-instance-troubleshooting.md).
+If an error occurs while registering a target instance see [Troubleshooting for registering target instance](register-target-instance-troubleshooting.md).
 
 ## Procedure
 

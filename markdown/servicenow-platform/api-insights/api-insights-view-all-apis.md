@@ -33,7 +33,7 @@ By default, the page displays the following data:
 
 -   **API data table**
 
-    Lists all APIs with detailed columns for the API name, the number of consumers, management platform, life cycle stage, version, and the number of API requests processed per minute for each API listed in the table. This table provides an overview of the APIs and their status within the organization. You can select an API from the **Name** column to view API details and request access to the API managed by your team. See [Request access to an API in API Insights](../task/api-insights-req-access.md).
+    Lists all APIs with detailed columns for the API name, the number of consumers, management platform, life cycle stage, version, and the number of API requests processed per minute for each API listed in the table. This table provides an overview of the APIs and their status within the organization. You can select an API from the **Name** column to view API details and request access to the API managed by your team. See [Request access to an API in API Insights](api-insights-req-access.md).
 
 -   **Available actions and filters in the API data table**
 

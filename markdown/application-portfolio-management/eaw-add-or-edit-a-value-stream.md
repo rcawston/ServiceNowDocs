@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_user
     -   To update details of an existing value stream, select the value stream.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new value stream form](../../reference/eaw-reference/eaw-create-new-value-stream-form.md).
+    For field information, see [Create new value stream form](eaw-create-new-value-stream-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage value streams](../../concept/eaw-concept/eaw-manage-value-streams.md)
+**Parent Topic:**[Manage value streams](eaw-manage-value-streams.md)
 
 **Related topics**  
 

@@ -17,7 +17,7 @@ Use this dashboard to view, maintain, and track the tasks and incidents for oper
 
 **Important:**
 
-Starting in Xanadu release, the ITIL dashboard is deprecated. Users can use [IT Agent dashboard for Service Operations Workspace](../../../product/service-operations-workspace/concept/it-agent-dashboard-sow.md) to view, maintain, and track the tasks and incidents for operating the IT service desk.
+Starting in Xanadu release, the ITIL dashboard is deprecated. Users can use [IT Agent dashboard for Service Operations Workspace](../it-agent-dashboard-sow.md) to view, maintain, and track the tasks and incidents for operating the IT service desk.
 
 ![ITIL Dashboard](../image/itil-dashboard-updated.png "ITIL Dashboard")
 

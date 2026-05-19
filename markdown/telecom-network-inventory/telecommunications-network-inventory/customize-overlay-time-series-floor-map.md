@@ -84,5 +84,5 @@ In the Time Duration Value section, edit the time duration for the overlay that 
 
 Customized time duration options are available on the floor map.
 
-**Parent Topic:**[Configuring overlays on floor map](../concept/configure-overlays-floor-map.md)
+**Parent Topic:**[Configuring overlays on floor map](configure-overlays-floor-map.md)
 

@@ -65,5 +65,5 @@ Before you begin, ensure the following:
 
 3.  Link or unlink existing assessments as needed.
 
-**Parent Topic:**[Access Vulnerability Downstream actions](../concept/downstream-actions-from-the-vulnerability-form-view.md)
+**Parent Topic:**[Access Vulnerability Downstream actions](downstream-actions-from-the-vulnerability-form-view.md)
 

@@ -42,10 +42,10 @@ So Security Incident Response workflows and workflow templates are essentially t
     **Note:** Workflows can be triggered in several different ways. Be aware that associating a workflow with a workflow trigger does not necessarily mean the workflow is active.
 
 
--   **[Security Incident Response Orchestration workflows and activities](../../../product/security-incident-response-orchestration/concept/sec-inc-resp-orchestration-workflows.md)**  
+-   **[Security Incident Response Orchestration workflows and activities](sec-inc-resp-orchestration-workflows.md)**  
 Several workflows and activities are included with Security Incident Response Orchestration.
--   **[Security Incident Response workflow templates](../../../product/security-incident-response-orchestration/concept/sir-orch-workflow-templates.md)**  
+-   **[Security Incident Response workflow templates](sir-orch-workflow-templates.md)**  
 Workflow templates are provided with Security Incident Response Orchestration to allow you to perform basic security operation-related analysis procedures. The templates can be used as is or you can customize them to create workflows to better suit your specific needs. The workflow templates are deactivated by default.
 
-**Parent Topic:**[Security Incident Response Orchestration](../../../product/security-incident-response-orchestration/concept/c_SecIncRespOrchestration.md)
+**Parent Topic:**[Security Incident Response Orchestration](c_SecIncRespOrchestration.md)
 

@@ -101,5 +101,5 @@ Brief description of the regulation violation based on your analysis.
 </table>8.  Select **Save**.
 
 
-**Parent Topic:**[Using Compliance Case Management](../concept/use-compliance-case-management.md)
+**Parent Topic:**[Using Compliance Case Management](use-compliance-case-management.md)
 

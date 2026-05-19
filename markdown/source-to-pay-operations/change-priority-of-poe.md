@@ -38,5 +38,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 The priority level of the purchase order exception is updated to reflect the new value.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
 

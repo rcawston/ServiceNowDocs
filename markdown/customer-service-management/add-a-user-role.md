@@ -36,5 +36,5 @@ The sys\_user is assigned to a unified consumer role \(sn\_customerservice.unifi
 
 ## What to do next
 
-Create and associate a Unified Consumer user to a consumer record. For more information, see [Creating and associating a Unified Consumer user to a consumer record](../concept/associating-users-to-a-consumer-record.md#).
+Create and associate a Unified Consumer user to a consumer record. For more information, see [Creating and associating a Unified Consumer user to a consumer record](associating-users-to-a-consumer-record.md#).
 

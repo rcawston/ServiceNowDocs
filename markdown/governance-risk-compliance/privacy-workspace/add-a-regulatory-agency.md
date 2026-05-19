@@ -27,11 +27,11 @@ Role required: sn\_privacy.analyst
 
 3.  On the form, fill in the fields.
 
-    For a description of the fields, see [Regulatory agency form](../reference/regulatory-agency-form.md) .
+    For a description of the fields, see [Regulatory agency form](regulatory-agency-form.md) .
 
 
--   **[Regulatory agency form](../reference/regulatory-agency-form.md)**  
+-   **[Regulatory agency form](regulatory-agency-form.md)**  
 Use the Create Regulatory Agency form in the Privacy Workspace to create a regulatory agency. The regulatory agency is a new record type that handles regulatory changes.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

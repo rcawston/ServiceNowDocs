@@ -47,5 +47,5 @@ If the user does not have any sessions available to reset, Virtual Agent can ope
 
 This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

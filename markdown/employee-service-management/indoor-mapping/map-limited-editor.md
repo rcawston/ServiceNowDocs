@@ -64,7 +64,7 @@ Role required: map admin
     **Note:** If a user with map editor limited role deletes a building, the building is only made inactive in the database and is not actually deleted from the database.
 
 
-**Parent Topic:**[Configure Indoor Mapping](../concept/configure-ind-mapping.md)
+**Parent Topic:**[Configure Indoor Mapping](configure-ind-mapping.md)
 
 **Previous topic:**[Configure your map instance data](configure-map-data.md)
 

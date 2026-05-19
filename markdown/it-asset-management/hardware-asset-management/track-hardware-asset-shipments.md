@@ -38,12 +38,12 @@ The following fields on the Shipment details form show the tracking details rece
 -   Carrier pick-up date
 -   Carrier delivered date
 
-**Parent Topic:**[Track shipments using the integration framework](../concept/tracking-shipments-using-integration-framework.md)
+**Parent Topic:**[Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
 
 **Related topics**  
 
 
-[Creating an integration script include for third-party carrier applications](../concept/creating-integration-script-include-ham.md)
+[Creating an integration script include for third-party carrier applications](creating-integration-script-include-ham.md)
 
 [Connect your ServiceNow instance with a shipping carrier application](associate-shipping-carrier-int-profile.md)
 
@@ -59,5 +59,5 @@ The following fields on the Shipment details form show the tracking details rece
 
 [View hardware asset shipment details](view-hardware-asset-shipments.md)
 
-[Stale shipments](../concept/stale-shipments.md)
+[Stale shipments](stale-shipments.md)
 

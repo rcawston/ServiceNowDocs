@@ -47,11 +47,11 @@ Role required: sn\_hr\_integrations.admin
 
 .
 
-**Parent Topic:**[Integrating with the Accurate Background service](../concept/integrate-with-accurate-service.md)
+**Parent Topic:**[Integrating with the Accurate Background service](integrate-with-accurate-service.md)
 
 **Previous topic:**[Verify integration for the Accurate service](verify-base-integration-for-accurate.md)
 
-**Next topic:**[Integrating with the Sterling Talent Solutions service](../concept/integrate-with-sterling-service.md)
+**Next topic:**[Integrating with the Sterling Talent Solutions service](integrate-with-sterling-service.md)
 
 **Related topics**  
 

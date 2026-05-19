@@ -44,10 +44,10 @@ The SOW migration utility uses the following sequence to migrate the search conf
 8.  Opens the Global Search View Config reference record that is retrieved using the sys\_aw\_master\_config table in ITSM Agent Workspace and copy all the values to SOW view config record \(SOW page property with name global\_search\_configurations\). The SOW view config record is available in the base system.
 9.  Updates the SOW page property **globalSearchDataConfigId** to have OOB SOW context config record.
 
--   **[Perform post-migration tasks for search configurations](../task/verify-migration-status-search-config.md)**  
+-   **[Perform post-migration tasks for search configurations](verify-migration-status-search-config.md)**  
 Verify that the search configurations in Service Operations Workspace \(SOW\) are consistent with the search configurations in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated search configurations settings in SOW based on your requirements.
 
-**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
+**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
 **Related topics**  
 

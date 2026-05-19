@@ -77,5 +77,5 @@ Optional description for the content category. This field is only visible to oth
 
 ## What to do next
 
-After you finish creating a custom content category, proceed to [Create a Content template](../task/ec-create-content-template.md) or [Create a news article](../task/ec-content-library-news-article.md).
+After you finish creating a custom content category, proceed to [Create a Content template](ec-create-content-template.md) or [Create a news article](ec-content-library-news-article.md).
 

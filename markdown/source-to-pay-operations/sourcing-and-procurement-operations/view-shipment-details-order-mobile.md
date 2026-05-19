@@ -38,5 +38,5 @@ You can view the status, tracking number, and carrier name for your ordered item
     Details of the dispatched items, including tracking number, carrier name, and status, are displayed.
 
 
-**Parent Topic:**[Shopper to-dos on your mobile](../reference/shopper-todos-mobile.md)
+**Parent Topic:**[Shopper to-dos on your mobile](shopper-todos-mobile.md)
 

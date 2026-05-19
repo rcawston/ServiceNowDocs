@@ -44,5 +44,5 @@ Role required: admin
 6.  Select **Install**.
 
 
-**Parent Topic:**[Installing and configuring Leader Hub](../concept/td-lh-install-config.md)
+**Parent Topic:**[Installing and configuring Leader Hub](td-lh-install-config.md)
 

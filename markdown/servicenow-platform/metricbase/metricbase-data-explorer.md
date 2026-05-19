@@ -156,5 +156,5 @@ builder.metric(metric).deviation(model, "chiSquare");
  ![Deviation model](../image/data-explor-chisquare-deviation.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Working with MetricBase demo data](../concept/working-with-metricbase-demo-data.md)
+</table>**Parent Topic:**[Working with MetricBase demo data](working-with-metricbase-demo-data.md)
 

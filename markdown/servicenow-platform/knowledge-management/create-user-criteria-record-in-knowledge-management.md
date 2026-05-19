@@ -19,7 +19,7 @@ Control access to knowledge bases and articles by creating user criteria.
 
 Role required: user\_criteria\_admin
 
-**Note:** To create a user criteria record from the Knowledge module, you must have the user\_criteria\_admin role in addition to the knowledge role. For more information about access, see [Managing access to knowledge bases and knowledge articles](../concept/user-access-knowledge.md).
+**Note:** To create a user criteria record from the Knowledge module, you must have the user\_criteria\_admin role in addition to the knowledge role. For more information about access, see [Managing access to knowledge bases and knowledge articles](user-access-knowledge.md).
 
 ## Procedure
 
@@ -149,7 +149,7 @@ With **Match All** selected, only users that meet all of these conditions are ma
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Managing access to knowledge bases and knowledge articles](../concept/user-access-knowledge.md)
+**Parent Topic:**[Managing access to knowledge bases and knowledge articles](user-access-knowledge.md)
 
 **Related topics**  
 

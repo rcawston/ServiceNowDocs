@@ -101,7 +101,7 @@ Position your cursor over a point in the chart to see the message count and repl
 **Related topics**  
 
 
-[Manage consumer access to replication data in Instance Data Replication](../task/approve-consumer.md)
+[Manage consumer access to replication data in Instance Data Replication](approve-consumer.md)
 
 [Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md)
 
@@ -113,5 +113,5 @@ Position your cursor over a point in the chart to see the message count and repl
 
 [Avoiding insert and update errors in Instance Data Replication](preventing-insert-update-errors.md)
 
-[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
 

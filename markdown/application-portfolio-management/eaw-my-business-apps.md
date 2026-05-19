@@ -28,5 +28,5 @@ Role required: sn\_apm.apm\_user
 4.  Select **My Business Applications**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](eaw-work-with-your-entities.md)
 

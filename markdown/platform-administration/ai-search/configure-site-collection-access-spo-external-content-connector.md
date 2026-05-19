@@ -328,5 +328,5 @@ Application \(client\) ID for the OAuth 2.0 app that's registered in Microsoft E
 
 If you remove FullControl permissions from sites or site collections that are still crawled by the Microsoft SharePoint Online external content connector, the connector will log permissions alerts when it tries to crawl content from those sites or site collections. To eliminate these alerts, ask your connector admin to remove or exclude the affected sites and site collections from the set of sites crawled by the connector.
 
-**Parent Topic:**[Microsoft SharePoint Online external content connector](../concept/microsoft-sharepoint-online-external-content-connector.md)
+**Parent Topic:**[Microsoft SharePoint Online external content connector](microsoft-sharepoint-online-external-content-connector.md)
 

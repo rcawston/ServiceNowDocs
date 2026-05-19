@@ -35,7 +35,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Associate an account with consumers](../task/t_AssociateConsumersToAccounts.md)
+[Associate an account with consumers](t_AssociateConsumersToAccounts.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Enable customer service managers to identify the end consumers who are using pro
 
 </td></tr><tr><td>
 
-[Associate sold products with account consumers](../task/t_AssociateSoldProduct.md)
+[Associate sold products with account consumers](t_AssociateSoldProduct.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Enable customer service managers to track sold products or services by associati
 
 </td></tr><tr><td>
 
-[Associate install base items with account consumers](../task/t_AssociateInstallBaseItems.md)
+[Associate install base items with account consumers](t_AssociateInstallBaseItems.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Enable customer service managers to track the instances provisioned by associati
 
 </td></tr><tr><td>
 
-[View install base information as an account consumer](../task/view-install-base-for-account-consumers.md)
+[View install base information as an account consumer](view-install-base-for-account-consumers.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Track the instances provisioned for your account and which products or services 
 
 </td></tr><tr><td>
 
-[View sold products information as an account consumer](../task/view-sold-products-for-account-consumers.md)
+[View sold products information as an account consumer](view-sold-products-for-account-consumers.md)
 
 </td><td>
 

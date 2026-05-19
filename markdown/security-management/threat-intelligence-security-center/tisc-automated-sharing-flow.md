@@ -80,7 +80,7 @@ Automated sharing of high-risk IOC's with trusted partners triggers only when:
     ![Automated IOC Enrichment in TISC.](../image/tisc-automated-intel-share.png)
 
 
-**Parent Topic:**[Working with automated flows](../concept/tisc-automated-flows.md)
+**Parent Topic:**[Working with automated flows](tisc-automated-flows.md)
 
 **Related topics**  
 
@@ -99,9 +99,9 @@ Automated sharing of high-risk IOC's with trusted partners triggers only when:
 
 [Zero-day vulnerability tracking](tisc-zero-vul.md)
 
-[Automated flows tables](../concept/tisc-flows-tables.md)
+[Automated flows tables](tisc-flows-tables.md)
 
-[Automated Sharing of Outbound Intelligence Records](../concept/tisc-automated-outbound-intel-share.md)
+[Automated Sharing of Outbound Intelligence Records](tisc-automated-outbound-intel-share.md)
 
-[Sharing of Outbound Intelligence Records from GUI](../concept/tisc-create-intel-records-lib.md)
+[Sharing of Outbound Intelligence Records from GUI](tisc-create-intel-records-lib.md)
 

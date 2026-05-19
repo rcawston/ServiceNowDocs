@@ -36,5 +36,5 @@ The customer updates table contains one record per customized object.
 4.  Select and hold \(or right-click\) the update record and select **Compare to Current** to compare to the current version.
 
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](using-system-update-sets.md)
 

@@ -35,11 +35,11 @@ Trends can easily be filtered and viewed to track objectives and outcomes.
 
 ## Using Impact Value Management data collection apps
 
-Impact Value Management data collection apps are a detailed overview of the Report configuration options and potential implementation recommendations for collecting the data required for your value blueprint, outcome performance report, and value reports that are part of the Impact program. See [Set up Impact Value Management data collection apps](data-collection-toolkit.md) for additional information on how to use the data collection apps to simplify and optimize the value metrics data collection process using Performance Analytics \(PA\).
+Impact Value Management data collection apps are a detailed overview of the Report configuration options and potential implementation recommendations for collecting the data required for your value blueprint, outcome performance report, and value reports that are part of the Impact program. See [Set up Impact Value Management data collection apps](../data-collection-toolkit.md) for additional information on how to use the data collection apps to simplify and optimize the value metrics data collection process using Performance Analytics \(PA\).
 
 The Impact Value Management data collection apps are available on the ServiceNow Impact Store Application. These apps are accessible directly on a your instance as part of the Impact package, eliminating the need for separate downloads from the store or individual content packs. By leveraging predefined data definitions within Performance Analytics \(PA\), customers can automatically collect essential data for Value Metrics. This streamlined approach enhances the accuracy and efficiency of data collection for value measurement, providing a seamless experience and improving both customer satisfaction and product evaluation in the Value management within Impact.
 
-For more information on data collection toolkit, see [Set up Impact Value Management data collection apps](data-collection-toolkit.md).
+For more information on data collection toolkit, see [Set up Impact Value Management data collection apps](../data-collection-toolkit.md).
 
 ## Value Reports
 

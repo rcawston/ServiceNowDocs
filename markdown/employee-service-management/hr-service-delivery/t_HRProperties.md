@@ -174,7 +174,7 @@ Determines how you want your instance to behave when you transfer an HR case to 
 
 -   true: Use the default transfer case to use the standard method. The HR case number changes when transferring an HR case from one HR service to another. Both HR case numbers appear on the HR case for reference.
 -   false: Use the reclassify method to transfer an HR case. The HR case number does not change after transferring an HR case from one HR service to another.
-**Note:** For more information, see [Transfer an HR case](../concept/reclassify-hr-case.md#).
+**Note:** For more information, see [Transfer an HR case](reclassify-hr-case.md#).
 
 </td></tr><tr><td>
 
@@ -205,5 +205,5 @@ Limits access to cases, through inactive tasks, based on a time limit in months.
 </table>3.  Click **Save**.
 
 
-**Parent Topic:**[HR Administration](../concept/c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
 

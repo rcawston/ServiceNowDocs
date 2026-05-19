@@ -53,5 +53,5 @@ Role required: sn\_generative\_ai.nsa\_admin
     ![Deprecated skills](../image/na-skill-deprecate.png)
 
 
-**Parent Topic:**[Using Now Assist Admin](../concept/using-now-assist-admin_0.md)
+**Parent Topic:**[Using Now Assist Admin](using-now-assist-admin_0.md)
 

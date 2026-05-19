@@ -95,5 +95,5 @@ sn\_coaching.coach
     The image below show an example of the configured indicator displayed in the Coaching Overview tab.![Coaching quality indicator](../image/coaching-quality-indicator-uib.png)
 
 
-**Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](../concept/setup-coaching-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](setup-coaching-configurable-workforce-optimization-itsm.md)
 

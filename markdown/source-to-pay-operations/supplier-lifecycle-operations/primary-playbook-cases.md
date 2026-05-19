@@ -177,9 +177,9 @@ Updates the case to Closed Rejected.
 
 [Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
-[Configure due dates for supplier cases](../task/configure-case-due-date.md)
+[Configure due dates for supplier cases](configure-case-due-date.md)
 
 [Case playbook for specific supplier case types](gen-playbook-cases.md)
 
-[Create a case on behalf of a supplier from the Source-to-Pay Workspace](../task/create-new-supplier-case.md)
+[Create a case on behalf of a supplier from the Source-to-Pay Workspace](create-new-supplier-case.md)
 

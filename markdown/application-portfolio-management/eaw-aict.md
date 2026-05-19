@@ -103,7 +103,7 @@ An AI system is associated with a business application in one of two ways:
 
     For information on the **Request an AI use case** form fields, see [Request an AI use case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-ai-system-form.md).
 
--   A user with the APM user \(sn\_apm.apm\_user\) role manually adds an AI system from the **AI systems** tab on a business application record in the Enterprise Architecture Workspace. This is useful for associating AI systems that were not submitted through the service portal intake form. For information, see [Add an existing AI system to a business application](../../task/eaw-task/eaw-add-ai-system-to-ba.md).
+-   A user with the APM user \(sn\_apm.apm\_user\) role manually adds an AI system from the **AI systems** tab on a business application record in the Enterprise Architecture Workspace. This is useful for associating AI systems that were not submitted through the service portal intake form. For information, see [Add an existing AI system to a business application](eaw-add-ai-system-to-ba.md).
 
 Only active business applications are available for association. Business applications with a status of Retired or a lifecycle stage of End of Life are excluded automatically, so the associations on an AI system record reflect only applications that are currently in scope for portfolio management.
 
@@ -128,7 +128,7 @@ To view the **AI systems** tab on a business application record, you must have t
 
 [eaw-exploring-the-ai-portfolio.md](eaw-exploring-the-ai-portfolio.md)
 
-[Remove an AI system from a business application](../../task/eaw-task/eaw-unassign-ai-system-from-ba.md)
+[Remove an AI system from a business application](eaw-unassign-ai-system-from-ba.md)
 
-[View AI system details from a business application](../../task/eaw-task/eaw-view-ai-system-in-aict-from-ba.md)
+[View AI system details from a business application](eaw-view-ai-system-in-aict-from-ba.md)
 

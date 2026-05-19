@@ -181,9 +181,9 @@ Because they accept data, input components must handle multiple states. The stat
 
 After developing the component and deploying it to your instance, add it to Virtual Agent Designer using a custom control and definition. For more information, see [Virtual Agent custom controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/custom-controls.md).
 
--   **[Add properties to communicate with Virtual Agent](../task/add-va-properties.md)**  
+-   **[Add properties to communicate with Virtual Agent](add-va-properties.md)**  
 To develop a component for Virtual Agent, add specific properties and actions to interact with the Virtual Agent client interface. The properties required depend on the type of component you are creating.
--   **[Test a component for Virtual Agent](../task/test-va-component.md)**  
+-   **[Test a component for Virtual Agent](test-va-component.md)**  
 Test your Virtual Agent custom component before deploying it to your instance.
 
 **Parent Topic:**[Create custom components using ServiceNow CLI](custom-components.md)

@@ -42,5 +42,5 @@ Suggested reading: [Edit an article using the Now Assist context menu](Now-Assis
     **Note:** The instruction block's content should not include any of the following tags: `img`, `video`, `audio`, `canvas`, `svg`, `iframe`, `script`, `input`, and `button`. Additionally, some elements, when selected on their own, can prevent the Now Assist icon from appearing.
 
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](using-now-assist-in-km.md)
 

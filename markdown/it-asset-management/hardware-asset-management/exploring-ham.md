@@ -24,7 +24,7 @@ Hardware Asset Management enables you to track and manage the end-to-end life-cy
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Manage your asset life-cycle and keep the asset records accurate and up-to-date through an intuitive, centralized, and single-pane view of the hardware asset estate that directs you to critical Hardware Asset Management priorities and activities.|[Hardware Asset Workspace](using-ham-workspace.md)|Executives/Application owners/Asset managers/Inventory users|
-|Leverage mobile devices to receive assets into stockrooms and conduct on-site audits for accurate inventory checks.|[Mobile asset scanning](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)|Asset managers/Asset administrators/Inventory administrators|
+|Leverage mobile devices to receive assets into stockrooms and conduct on-site audits for accurate inventory checks.|[Mobile asset scanning](../asset-management/mobile-my-asset.md)|Asset managers/Asset administrators/Inventory administrators|
 |Streamline your asset life-cycle with pre-built and guided workflows of Hardware Asset Management.|[Asset life-cycle automation](asset-lifecycle-automation.md)|Asset managers/Asset administrators|
 |Automate Return Merchandise Automation \(RMA\) processes for assets to be returned, replaced, or repaired.|[Return Merchandise Authorization](return-merchandise-authorization.md)|Asset managers/Inventory administrators|
 |Manage a complex group of assets as a single parent record.|[Asset bundles](asset-bundles-concept.md)|Asset managers/Asset administrators|
@@ -34,7 +34,7 @@ Hardware Asset Management enables you to track and manage the end-to-end life-cy
 |Handle all loaner asset requests and make sure of the timely preparation and deployment of loaner assets.|[Loaner assets](loaner-asset.md#)|Employees/Inventory administrators|
 |Automate the ordering, asset tagging, and delivery of your employees' hardware asset refresh requests.|[Zero Touch Refresh](zero-touch-asset-refresh.md)|Employees/Asset managers/Inventory administrators|
 |Track shipments by creating connections to carriers via APIs.|[Shipment carrier integration](integrating-with-third-party-carrier-apps.md)|Administrators/Asset managers/ Inventory administrators|
-|Automate and create hardware asset records before they are received.|[Advanced Shipment Notification \(ASN\)](../task/advanced-shipment-notification.md)|Administrators|
+|Automate and create hardware asset records before they are received.|[Advanced Shipment Notification \(ASN\)](advanced-shipment-notification.md)|Administrators|
 |Request hardware products to be used in the organization, onboard the product, and define the TRM life-cycle phases.|[Manage onboarding of hardware products using Application Portfolio Management](trm-for-tech-onboarding.md)|Enterprise architects/Application owners|
 |Get defective hardware assets in a stockroom repaired quickly using the Repair flow.|[Repair flow](requesting-hardware-asset-repair.md)|Asset managers|
 |Locate and pick the assets in your stockroom efficiently by using the ServiceNow Mobile Agent application.|[Inventory picking for Hardware Asset Management](managing-hardware-asset-pickup.md)|Inventory users|

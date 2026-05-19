@@ -17,7 +17,7 @@ Automation logs are series of succession stages or a series of checkpoints that 
 
 Ensure that the **Track Automation Logs** check box on the Bot Process form is enabled. For more information, see [Bot Process form in RPA Hub](select-botprocess.md#).
 
-Ensure to use the log component in the associated automation and populate the required details in RPA Desktop Design Studio. For more information about the component, see [Use the Log component](../../rpa-studio/task/use-general-log.md).
+Ensure to use the log component in the associated automation and populate the required details in RPA Desktop Design Studio. For more information about the component, see [Use the Log component](use-general-log.md).
 
 Role required: sn\_rpa\_fdn.rpa\_business\_user, sn\_rpa\_fdn.rpa\_support\_user, sn\_rpa\_fdn.rpa\_developer, sn\_rpa\_fdn.rpa\_release\_manager, or sn\_rpa\_fdn.rpa\_admin
 
@@ -87,7 +87,7 @@ Action
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)
 
 ## Automation Logs form in RPA Hub
 

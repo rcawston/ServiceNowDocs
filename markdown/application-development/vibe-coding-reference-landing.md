@@ -19,5 +19,5 @@ The ServiceNow AI Platform offers a range of skills that support efficiency in e
 -   **[Example prompts for vibe coding and AI-assisted development](vibe-coding-example-prompts.md)**  
 Use these example prompts to build data models, implement security, create business rules, and generate user interfaces when building an app with ServiceNow AI Platform vibe coding and AI-assisted development tools.
 
-**Parent Topic:**[Vibe coding and AI-assisted development on the ServiceNow AI Platform](../concept/vibe-coding-landing.md)
+**Parent Topic:**[Vibe coding and AI-assisted development on the ServiceNow AI Platform](vibe-coding-landing.md)
 

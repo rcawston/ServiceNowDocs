@@ -148,5 +148,5 @@ The OAuth application is enabled to authenticate the access of Google Sheets fro
 
 To enable OAuth authorization for exporting table records to Google Sheets, register the Google Drive application in your instance. For more information, see [Create an application registry for Google Sheets on a ServiceNow instance](configure-app-registry-gsheets.md).
 
-**Parent Topic:**[Exporting your table records to Google Sheets](../concept/setup-gsheet-export.md)
+**Parent Topic:**[Exporting your table records to Google Sheets](setup-gsheet-export.md)
 

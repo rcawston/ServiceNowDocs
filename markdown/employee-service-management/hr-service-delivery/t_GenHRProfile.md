@@ -43,5 +43,5 @@ Role required: sn\_hr\_core.basic or sn\_hr\_core.manager
     Users are not charged for licensing when their HR profiles are created with External flag = True, or when their existing HR profiles are overridden with External flag = True.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](c_HRProfileRecords.md)
 

@@ -22,5 +22,5 @@ Talent Development uses the **Employee licensing** feature in the Employee Profi
 |**Employee Licensed Application**|The application that the licensing is for.|
 |**Name**|A descriptive name for the access criteria.|
 
-**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+**Parent Topic:**[Talent Development Core application reference](egd-reference.md)
 

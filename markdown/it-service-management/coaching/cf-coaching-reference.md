@@ -173,10 +173,10 @@ Coaching field descriptions also include form related lists and actions.
 Bring in data from other ServiceNow applications to enhance the training of your agents.
 -   **[Resolve Coaching issues](cf-coaching-troubleshooting.md)**  
 Resolve common issues when setting up or running Coaching.
--   **[Domain separation and Coaching](../concept/cf-domain-separation-coaching.md)**  
+-   **[Domain separation and Coaching](cf-domain-separation-coaching.md)**  
 Domain separation is supported in Coaching. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Quick start tests for Coaching](../../../administer/atf-quick-start-tests/reference/cf-quick-start-tests-coaching.md)**  
+-   **[Quick start tests for Coaching](cf-quick-start-tests-coaching.md)**  
 Validate that Coaching still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
-**Parent Topic:**[IT Service Management](../../it-service-management/reference/r_ITServiceManagement.md)
+**Parent Topic:**[IT Service Management](../r_ITServiceManagement.md)
 

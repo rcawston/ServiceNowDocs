@@ -48,5 +48,5 @@ When a guest imports a chat, attachments are not uploaded to the record. Attachm
 8.  Select **Import**.
 
 
-**Parent Topic:**[Request-based chat - Start and import chat as guest user from classic view](../concept/start-import-req-based-chat-as-guest.md)
+**Parent Topic:**[Request-based chat - Start and import chat as guest user from classic view](start-import-req-based-chat-as-guest.md)
 

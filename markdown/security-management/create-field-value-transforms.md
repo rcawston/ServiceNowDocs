@@ -91,5 +91,5 @@ Scope of the application.
 </table>4.  Click **Submit.**
 
 
-**Parent Topic:**[Security Operations field value transforms](../concept/field-value-transforms.md)
+**Parent Topic:**[Security Operations field value transforms](field-value-transforms.md)
 

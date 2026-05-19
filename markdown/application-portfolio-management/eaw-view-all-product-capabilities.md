@@ -28,10 +28,10 @@ Role required: sn\_apm.apm\_user
 4.  Select **Product Capabilities**.
 
 
-**Parent Topic:**[Working with product capabilities](../../concept/eaw-concept/eaw-working-with-product-capabilities.md)
+**Parent Topic:**[Working with product capabilities](eaw-working-with-product-capabilities.md)
 
 **Related topics**  
 
 
-[Exploring product capabilities](../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
+[Exploring product capabilities](eaw-exploring-product-capabilities.md)
 

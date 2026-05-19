@@ -43,7 +43,7 @@ Role required: admin
 
 [Upload an email certificate](upload-email-certificate.md).
 
-**Parent Topic:**[Setting up S/MIME for email](../concept/smime-for-email-signing-and-encryption.md)
+**Parent Topic:**[Setting up S/MIME for email](smime-for-email-signing-and-encryption.md)
 
 **Related topics**  
 
@@ -52,5 +52,5 @@ Role required: admin
 
 [Upload an email certificate](upload-email-certificate.md)
 
-[Enable S/MIME](../concept/enable-smime-for-outbound-and-inbound.md)
+[Enable S/MIME](enable-smime-for-outbound-and-inbound.md)
 

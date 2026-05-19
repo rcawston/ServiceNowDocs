@@ -55,7 +55,7 @@ The discovery and mapping process consists of the following interactions:
         ![Discovery adds the host to the CMDB.](../image/DiscoDiscoveryFlowStage4.png)
 
     10. During the host discovery using probes, Service Mapping checks the ECC queue if this process is complete. When the host discovery is complete, Service Mapping checks whether this host exists in the CMDB.
-    **Note:** For the detailed description of the horizontal discovery flow, refer to [Horizontal discovery process flow with probes and sensors](../../discovery/concept/c_DiscoProcessFlows.md).
+    **Note:** For the detailed description of the horizontal discovery flow, refer to [Horizontal discovery process flow with probes and sensors](../discovery/c_DiscoProcessFlows.md).
 
 3.  Once the host is found in the CMDB, Service Mapping discovers the application running on this host.
     1.  Service Mapping creates an application discovery request for the IP address of the entry point. It then writes the request in the ECC queue and assigns a MID Server to the request.
@@ -82,9 +82,9 @@ The discovery and mapping process consists of the following interactions:
 
 [Service instances \(Application services\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md)
 
-[The ECC queue for Discovery](../../discovery/reference/r_DiscoveryStatusECCQueue.md)
+[The ECC queue for Discovery](../discovery/r_DiscoveryStatusECCQueue.md)
 
-[Horizontal discovery process flow with probes and sensors](../../discovery/concept/c_DiscoProcessFlows.md)
+[Horizontal discovery process flow with probes and sensors](../discovery/c_DiscoProcessFlows.md)
 
 [Traffic-based discovery in Service Mapping](traffic-based-discovery.md)
 

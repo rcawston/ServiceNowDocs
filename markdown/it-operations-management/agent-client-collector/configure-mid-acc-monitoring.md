@@ -21,7 +21,7 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-For details on configuring Agent Client Collector for log monitoring, see [Agent Client Collector Log Analytics](../concept/acc-log-analytics.md).
+For details on configuring Agent Client Collector for log monitoring, see [Agent Client Collector Log Analytics](acc-log-analytics.md).
 
 ## Procedure
 

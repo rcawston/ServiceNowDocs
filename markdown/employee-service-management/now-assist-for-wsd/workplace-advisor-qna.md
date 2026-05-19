@@ -23,8 +23,8 @@ The workplace advisor QnA agentic workflow routes employee queries to agents and
 
 To run the workplace advisor QnA agentic workflow, ensure that you have completed the following configurations:
 
--   [Enable Now Assist panel](../task/enable-now-assist-panel.md)
--   [Configure Now Assist Panel Platform Agent](../task/configure-now-assist-panel-platform-agent.md)
+-   [Enable Now Assist panel](enable-now-assist-panel.md)
+-   [Configure Now Assist Panel Platform Agent](configure-now-assist-panel-platform-agent.md)
 
 ## Accessing the workplace advisor QnA agentic workflow from the AI Agent Studio
 
@@ -41,7 +41,7 @@ The following table lists the agents that are part of the workplace advisor QnA 
 |-----|-----------|-----------|
 |Workplace reservation QnA agent|The workplace reservation QnA agent handles queries related to workplace reservations using a Knowledge Graph. It can answer questions about reservations for a given building, floor, or campus, and other reservable spaces.|Workplace Reservation Graph|
 
--   **[Using Now Assist for workplace queries](../task/using-now-assist-for-workplace-queries.md)**  
+-   **[Using Now Assist for workplace queries](using-now-assist-for-workplace-queries.md)**  
 Use the Now Assist panel to interact with intelligent QnA agents that respond to workplace-related queries using structured data from a Knowledge Graph.
 -   **[Workplace Advisor QnA examples](workplace-advisor-qna-examples.md)**  
 You can interact with the Now Assist panel to retrieve workplace-related information.

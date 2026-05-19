@@ -17,8 +17,8 @@ You can create a metric rule to establish criteria and thresholds for performanc
 
 To create a metric rule, you must perform the following steps.
 
-1.  [Specify metric rule CI](../task/specify-metric-rule-applications.md).
-2.  [Define alert criteria](../task/define-alert-metric-criteria.md).
-3.  [Add an alert action](../task/add-alert-action.md).
-4.  [Define alert rule name and status](../task/define-alert-name-state.md).
+1.  [Specify metric rule CI](specify-metric-rule-applications.md).
+2.  [Define alert criteria](define-alert-metric-criteria.md).
+3.  [Add an alert action](add-alert-action.md).
+4.  [Define alert rule name and status](define-alert-name-state.md).
 

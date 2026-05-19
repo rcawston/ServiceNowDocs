@@ -52,5 +52,5 @@ Role required: live\_feed\_admin and admin
         -   $live\_feed\_small
     -   **Requires role**: in this related list, add roles to define who can access the Live Feed pages. Users who do not have these roles cannot access Live Feed.
 
-**Parent Topic:**[Live Feed security and table access](../reference/r_LiveFeedTableAccessRules.md)
+**Parent Topic:**[Live Feed security and table access](r_LiveFeedTableAccessRules.md)
 

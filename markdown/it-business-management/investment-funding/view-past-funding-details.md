@@ -36,5 +36,5 @@ Role required: sn\_invst\_pln\_v2.investment\_user
     The graph displays the comparison between the total funds received and the total actuals for the fiscal periods in the past one year.
 
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

@@ -119,7 +119,7 @@ Template used for this skill.
 
     These fields provide essential context to the LLM while preserving data integrity. Two input templates are defined based on the record’s state: one for the Default state and another for the New state. Each template includes rule conditions that determine when it’s applied. To enrich the context further, related tables are included, specifically linking regulatory alerts to taxonomy data using fields like taxonomy name and taxonomy category. This setup helps ensure that the LLM receives structured, relevant, and contextual information.
 
-    For more information, see [Choose input data form](../reference/input-data-rcm-skill.md).
+    For more information, see [Choose input data form](input-data-rcm-skill.md).
 
 6.  To specify the conditions when the skill becomes available, select **Define availability**.
 

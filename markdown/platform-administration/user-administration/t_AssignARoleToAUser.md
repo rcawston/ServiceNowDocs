@@ -46,5 +46,5 @@ You can’t delete roles that are assigned to the group from the user record. Yo
 
 **Note:** If the user is logged in when you update their roles and they’re unable to access records enabled by the new role, they may need to log out and back in again.
 
-**Parent Topic:**[Create a role](../../roles/task/t_CreateARole.md)
+**Parent Topic:**[Create a role](t_CreateARole.md)
 

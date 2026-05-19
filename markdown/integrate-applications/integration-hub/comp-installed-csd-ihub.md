@@ -28,5 +28,5 @@ Properties for client software distribution \(CSD\) manage the installation stat
 -   **[Flows and subflows installed](csd-flows-installed.md)**  
 These flows and subflows are installed with the Client Software Distribution plugin.
 
-**Parent Topic:**[Client Software Distribution using Integration Hub](../concept/csd-integrationhub.md)
+**Parent Topic:**[Client Software Distribution using Integration Hub](csd-integrationhub.md)
 

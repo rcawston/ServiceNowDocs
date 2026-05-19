@@ -32,5 +32,5 @@ Role required: notify\_admin
     A disconnection of the Twilio driver is initiated and the Account SID and Auth Token are copied to Twilio Direct's configuration page. Twilio Direct is then autoconnected to that account, and you are redirected to the driver's configuration page.
 
 
-**Parent Topic:**[Notify reference](../concept/notify-reference-section.md)
+**Parent Topic:**[Notify reference](notify-reference-section.md)
 

@@ -44,7 +44,7 @@ For more general instructions on defining indexed source attributes, see [Create
     |everyone\_only|Only tags shared with everyone are indexed.|
     |all\_shared|All shared tags \(**Everyone**, **Groups and Users**\) are indexed.|
 
-    For a description of the field values, see [Indexed Source Attribute form](../reference/indexed-source-attribute-form-ais.md).
+    For a description of the field values, see [Indexed Source Attribute form](indexed-source-attribute-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -57,5 +57,5 @@ The new **index\_tags** indexed source attribute appears in the Advanced Configu
 
 To make the new **index\_tags** attribute take effect, perform a full table reindex for the indexed source. For details on this procedure, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
 
-**Parent Topic:**[Indexed source attributes for AI Search](../concept/indexed-source-attributes-ais.md)
+**Parent Topic:**[Indexed source attributes for AI Search](indexed-source-attributes-ais.md)
 

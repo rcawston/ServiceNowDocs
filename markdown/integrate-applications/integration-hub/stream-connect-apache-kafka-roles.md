@@ -131,5 +131,5 @@ Role with read-only access to Stream Connect configuration and runtime statistic
 -   stream\_connect\_alert\_viewer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integration Hub reference](../concept/integration-hub-reference.md)
+</table>**Parent Topic:**[Integration Hub reference](integration-hub-reference.md)
 

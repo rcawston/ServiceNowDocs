@@ -38,7 +38,7 @@ Role required: admin
     The recently installed plugins and applications show up under Upgrade Plan Items related list.
 
 
-**Parent Topic:**[Upgrade Plans tool in Upgrade Console](../concept/um-upgrade-plans-tool.md)
+**Parent Topic:**[Upgrade Plans tool in Upgrade Console](um-upgrade-plans-tool.md)
 
 **Related topics**  
 

@@ -127,7 +127,7 @@ Assessment, Script
 
 **Assessment**: On questionnaires, users enter a number. ![Number](../images/NumberAssessmentDataType.png "Number")
 
- **Script**: When the script runs, the system populates the **Actual value** and **Scaled value** fields on the [Metric Result](../task/t_ViewAMetricResult.md) form with the appropriate values from the *actual\_result* and *scaled\_result* variables in the metric script.
+ **Script**: When the script runs, the system populates the **Actual value** and **Scaled value** fields on the [Metric Result](t_ViewAMetricResult.md) form with the appropriate values from the *actual\_result* and *scaled\_result* variables in the metric script.
 
 </td></tr><tr><td>
 
@@ -197,9 +197,9 @@ On questionnaires, users select **Yes** or **No** from a list.
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 
-[Create an assessment metric definition](../task/t_CreateAMetricDefinition.md)
+[Create an assessment metric definition](t_CreateAMetricDefinition.md)
 
-[Update a metric minimum and maximum value to match a template](../task/t_UpdAMetrMinMaxValToMatchATmplate.md)
+[Update a metric minimum and maximum value to match a template](t_UpdAMetrMinMaxValToMatchATmplate.md)
 

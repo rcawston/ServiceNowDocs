@@ -36,5 +36,5 @@ Role required: admin or playbook.admin
     **Tip:** You can also just search for variants in the **Quick Find** search bar.
 
 
-**Parent Topic:**[Playbook variants](../concept/playbook-variants.md)
+**Parent Topic:**[Playbook variants](playbook-variants.md)
 

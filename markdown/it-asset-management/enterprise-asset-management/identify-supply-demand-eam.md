@@ -81,5 +81,5 @@ The supply and demand details are stored in the Model and stockrooms \[sn\_asset
     The Supply vs Demand graph updates to show the recently calculated values.
 
 
-**Parent Topic:**[Manage stockrooms with inventory reports in the Enterprise Asset Workspace](../concept/manage-stockroom-inventory-reports.md)
+**Parent Topic:**[Manage stockrooms with inventory reports in the Enterprise Asset Workspace](manage-stockroom-inventory-reports.md)
 

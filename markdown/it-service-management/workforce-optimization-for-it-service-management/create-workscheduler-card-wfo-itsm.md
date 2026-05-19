@@ -69,7 +69,7 @@ Use the **Container** component to add an avatar and the user name of the work i
 9.  [Associate a work scheduler card to the work configuration](associate-card-config-wfo-itsm.md)  
 Associate the work scheduler card that you've created to the work configuration to display the card in the Work scheduler sidebar.
 
-**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for ITSM](../concept/setting-up-work-scheduler.md)
+**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for ITSM](setting-up-work-scheduler.md)
 
 **Related topics**  
 

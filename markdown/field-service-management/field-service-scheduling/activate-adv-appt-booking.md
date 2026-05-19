@@ -34,7 +34,7 @@ The following items are installed with Advanced Appointment Booking:
 -   Plugins
 -   Tables
 
-For more information, see [Advanced appointment booking components](../reference/adv-appt-booking-components.md).
+For more information, see [Advanced appointment booking components](../adv-appt-booking-components.md).
 
 ## Procedure
 

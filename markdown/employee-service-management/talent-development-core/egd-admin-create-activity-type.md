@@ -31,10 +31,10 @@ An **Activity Types** help to identify what an activity is intended to do.
 
 3.  Complete the **Activity Type** form.
 
-    Read details about the different fields in [Talent Activity Types reference](../reference/egd-activity-type-form.md).
+    Read details about the different fields in [Talent Activity Types reference](egd-activity-type-form.md).
 
 4.  Select **Submit**
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

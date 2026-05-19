@@ -105,5 +105,5 @@ Duration of the phase in days. When you submit the form, this field auto-populat
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Using Release Management v2](../concept/c_Release.md)
+**Parent Topic:**[Using Release Management v2](c_Release.md)
 

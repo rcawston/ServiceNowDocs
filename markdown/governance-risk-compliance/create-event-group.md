@@ -37,6 +37,6 @@ Classify the events of a similar type into an event group for your scenario. For
 
 5.  In the **Order** field, enter the order for the event group and click **Submit**.
 
-    For more information on the fields in the Event group form, see [GRC Choice New record form](../reference/event-group-reference.md).
+    For more information on the fields in the Event group form, see [GRC Choice New record form](event-group-reference.md).
 
 

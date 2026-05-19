@@ -28,5 +28,5 @@ Role required: none
     When UiPath data comes to the ServiceNow instance, these routing policies take care of triggering the corresponding flows to store data in ServiceNow tables. By default, the flag is set to **False**.
 
 
-**Parent Topic:**[Configuring UiPath with Automation Center](../concept/uipath-config.md)
+**Parent Topic:**[Configuring UiPath with Automation Center](uipath-config.md)
 

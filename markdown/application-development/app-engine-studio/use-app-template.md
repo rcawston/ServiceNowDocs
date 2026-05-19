@@ -23,7 +23,7 @@ Role required: admin, sn\_app\_eng\_studio.user
 
 ## About this task
 
-Using templates in App Engine Studio helps you save time and effort creating applications. You can download several templates from the ServiceNow Store, or you can create templates from your existing applications. To install a template on your PDI, see [Activating a plugin from your PDI](../../applications/task/activating_a_plugin_from_your_pdi.md).
+Using templates in App Engine Studio helps you save time and effort creating applications. You can download several templates from the ServiceNow Store, or you can create templates from your existing applications. To install a template on your PDI, see [Activating a plugin from your PDI](../activating_a_plugin_from_your_pdi.md).
 
 This video shows you how to perform the following procedure.
 
@@ -47,23 +47,23 @@ Short video of creating an app from a template
 
 8.  From the app home, review the data, experience, logic and automation, and security that was created with the template.
 
-    To tailor the application to your business needs, you can edit these predefined items or add your own. For more information, see [Enhance your app](../concept/customize-application.md).
+    To tailor the application to your business needs, you can edit these predefined items or add your own. For more information, see [Enhance your app](customize-application.md).
 
 
 ## What to do next
 
 After you've finished building your application, submit the application for approval to get it reviewed and deployed by an administrator. For more information, see [Submit your app for approval and publishing](submit-for-approval.md).
 
--   **[Available templates](../concept/template-library.md)**  
+-   **[Available templates](template-library.md)**  
 Use an application template to create an application in App Engine Studio \(AES\) with preconfigured data, experience, logic and automation, and security.
--   **[Build a custom template](../concept/build-custom-template.md)**  
+-   **[Build a custom template](build-custom-template.md)**  
 App Engine Studio \(AES\) provides various predefined application templates. However, creating custom templates can speed up time to production if you have types of applications that you want to create more than once.
 -   **[Update custom template contents and properties](manage-custom-template.md)**  
 Improve the effectiveness of your custom template by updating its contents or properties in App Engine Studio \(AES\).
 -   **[Manage template activation](manage-template-activation.md)**  
 Manage template activation and deactivation to ensure that users creating apps in App Engine Studio \(AES\) have access to the best application templates for their needs.
--   **[App template sharing](../concept/app-template-sharing.md#)**  
+-   **[App template sharing](app-template-sharing.md#)**  
 Specify which users and groups have access to predefined and custom templates in App Engine Studio \(AES\).
 
-**Parent Topic:**[Create your app](../concept/create-application.md)
+**Parent Topic:**[Create your app](create-application.md)
 

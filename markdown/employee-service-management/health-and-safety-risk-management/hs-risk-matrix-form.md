@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Risk Management, Health and Safety, Em
 
 Safety team can use the risk matrixes to create and conduct risk assessments in the Health and Safety Workspace.
 
-For more information, see [Conduct a safety risk assessment](../task/hs-conduct-risk-assessment.md).
+For more information, see [Conduct a safety risk assessment](hs-conduct-risk-assessment.md).
 
 <table id="table_h2z_pzc_c1c"><thead><tr><th>
 
@@ -99,7 +99,7 @@ Risk tolerance
 
 </td><td>
 
-Range, color, and description of the risk level. Select a range and color and enter a title for it.This risk tolerance range and title computes the risk level for a hazard on the **Hazard assessment** form, **Risk analyses** tab, and the risk assessment form header. For more information, see [Assess a hazard and its risk levels](../task/add-a-risk-and-its-controls-for-a-safety-risk-assessment.md).
+Range, color, and description of the risk level. Select a range and color and enter a title for it.This risk tolerance range and title computes the risk level for a hazard on the **Hazard assessment** form, **Risk analyses** tab, and the risk assessment form header. For more information, see [Assess a hazard and its risk levels](add-a-risk-and-its-controls-for-a-safety-risk-assessment.md).
 
 The value of the range is determined by multiplying likelihood level by severity level. For example, according to the grid in the following image, a hazard with a level 3 likelihood \(Once per month\) and a level 2 severity \(Minor\) has a risk tolerance of 3\*2 = 6. The risk level for this hazard lies in the range 3 to 6, therefore, its risk level is displayed as Moderate.
 
@@ -118,5 +118,5 @@ Risk matrix preview
 Heatmap for visual representation of the risk matrix based on the defined levels, colors, and ranges in the real time.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Risk Management reference](../concept/hs-risk-mgmt-reference.md)
+</table>**Parent Topic:**[Health and Safety Risk Management reference](hs-risk-mgmt-reference.md)
 

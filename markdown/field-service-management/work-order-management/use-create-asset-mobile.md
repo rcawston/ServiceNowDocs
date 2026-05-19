@@ -150,5 +150,5 @@ Record the replacement of an asset:
 **Related topics**  
 
 
-[Record asset usage](../../planning-and-policy/task/t_RecordAssetUsage.md)
+[Record asset usage](t_RecordAssetUsage.md)
 

@@ -64,5 +64,5 @@ The functionality is available only for the new customers.
 
 **Previous topic:**[Create a process flow record](t_CreateNewProcessFlowRecord.md)
 
-**Next topic:**[Change flows](../concept/change-flows.md)
+**Next topic:**[Change flows](change-flows.md)
 

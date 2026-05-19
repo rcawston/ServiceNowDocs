@@ -16,7 +16,7 @@ breadcrumb: [Board views in CWM, Manage work using Boards, Use, Collaborative Wo
 
 Switch between List, Gantt, and Kanban views to manage and visualize work on a CWM Board in the way that best fits your team's workflow.
 
-Each CWM Board supports three views: List, Gantt, and Kanban. You can switch between views at any time without losing data, and each view can be personalized to show the columns and attributes most relevant to your team. For more information, see [Personalize List, Gantt and Kanban display for CWM Boards](../task/personalize-cwm-board-views.md).
+Each CWM Board supports three views: List, Gantt, and Kanban. You can switch between views at any time without losing data, and each view can be personalized to show the columns and attributes most relevant to your team. For more information, see [Personalize List, Gantt and Kanban display for CWM Boards](personalize-cwm-board-views.md).
 
 ## List view
 
@@ -71,7 +71,7 @@ The Kanban view organizes work items into columns and rows based on attributes y
     -   Set the vertical lane to **State** and the horizontal lane to **Task type** to view all epics grouped by state, then filter to show only epics.
     -   Set the vertical lane to **Sprint** and the horizontal lane to **Task type** to view connected stories grouped by sprint.
 
--   **[Personalize List, Gantt and Kanban display for CWM Boards](../task/personalize-cwm-board-views.md)**  
+-   **[Personalize List, Gantt and Kanban display for CWM Boards](personalize-cwm-board-views.md)**  
 Show, hide, or rearrange columns and apply sorting or filters to personalize the way data is displayed in Collaborative Work Management Boards based on your workflow.
 
 **Parent Topic:**[Board views in CWM](board-views-in-cwm.md)
@@ -79,7 +79,7 @@ Show, hide, or rearrange columns and apply sorting or filters to personalize the
 **Related topics**  
 
 
-[Personalize List, Gantt and Kanban display for CWM Boards](../task/personalize-cwm-board-views.md)
+[Personalize List, Gantt and Kanban display for CWM Boards](personalize-cwm-board-views.md)
 
 [Scrum tasks for stories in CWM](managing-scrum-tasks-for-stories-cwm.md)
 

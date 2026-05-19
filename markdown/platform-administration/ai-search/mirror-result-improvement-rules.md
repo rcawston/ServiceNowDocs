@@ -17,7 +17,7 @@ Make your search experiences more consistent by configuring a search profile to 
 
 ## Before you begin
 
-You must have [Now Assist in AI Search](../reference/now-assist-ais.md) installed.
+You must have [Now Assist in AI Search](now-assist-ais.md) installed.
 
 Role required: ais\_admin
 
@@ -69,5 +69,5 @@ This check keeps result improvement rule changes in sync across your search prof
     For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
 
-**Parent Topic:**[Result improvement rules](../concept/result-improvement-rules-ais.md)
+**Parent Topic:**[Result improvement rules](result-improvement-rules-ais.md)
 

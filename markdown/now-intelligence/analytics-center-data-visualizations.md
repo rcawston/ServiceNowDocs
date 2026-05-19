@@ -29,15 +29,15 @@ You can also directly access Data Visualizations from the filter navigation in P
 
 </td><td>
 
-[Create data visualizations![](../../../reuse/icons/brand-icons/bus-app-creator.svg)Procedures for creating data visualizations using different data sources](../../reporting/concept/creating-data-visualizations.md)
+[Create data visualizations![](../../../reuse/icons/brand-icons/bus-app-creator.svg)Procedures for creating data visualizations using different data sources](creating-data-visualizations.md)
 
 </td><td>
 
-[Share, edit, delete![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Procedures for performing the most common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+[Share, edit, delete![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Procedures for performing the most common data visualization tasks](common-dv-tasks.md)
 
 </td></tr><tr><td>
 
-[View![](../../../reuse/icons/brand-icons/bus-laptop.svg)Actions viewers can take while looking at a data visualization](../../reporting/concept/common-dv-tasks.md)
+[View![](../../../reuse/icons/brand-icons/bus-laptop.svg)Actions viewers can take while looking at a data visualization](common-dv-tasks.md)
 
 </td><td>
 
@@ -45,7 +45,7 @@ You can also directly access Data Visualizations from the filter navigation in P
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Roles and data sources](../../par-for-workspace/reference/data-visualization-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Roles and data sources](data-visualization-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

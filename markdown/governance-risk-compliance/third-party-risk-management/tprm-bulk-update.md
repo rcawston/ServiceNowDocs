@@ -33,7 +33,7 @@ Only DORA administrators can view the **Upload** option and perform this task.
 
 3.  On the form, select **Download** as the request type and fill in the remaining fields.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](tprm-excel-upload-download-req.md).
 
 4.  Select **Save**.
 
@@ -59,7 +59,7 @@ Only DORA administrators can view the **Upload** option and perform this task.
 
 9.  On the form, select **Upload** as the request type and fill in the remaining fields.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](tprm-excel-upload-download-req.md).
 
     **Note:** Only DORA administrators can view the **Upload** option and perform this task.
 

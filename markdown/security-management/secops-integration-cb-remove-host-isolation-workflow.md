@@ -23,13 +23,13 @@ This flow is not part of a capability and needs a custom orchestration in order 
 
 The flow process activities include:
 
--   [Get IP from CI activity](../reference/get-ip-from-ci-activity.md)
--   If successful- [Collect Carbon Black Configurations Flow Action](../reference/collect-cb-config-activity.md)
--   [Get Sensor ID Flow Action](../reference/get-sensor-id-activity.md)[Get Sensor ID](../reference/get-sensor-id-activity.md)
+-   [Get IP from CI activity](get-ip-from-ci-activity.md)
+-   If successful- [Collect Carbon Black Configurations Flow Action](collect-cb-config-activity.md)
+-   [Get Sensor ID Flow Action](get-sensor-id-activity.md)[Get Sensor ID](get-sensor-id-activity.md)
 -   If- Device supports isolation- and device is not isolated to disabled.
--   [Update Sensor activity](../reference/update-sensor-activity.md)- returns Isolate Host result.
+-   [Update Sensor activity](update-sensor-activity.md)- returns Isolate Host result.
 
 ![Remove Host Isolation low diagram](../image/RemoveHostIsolationWorkflow.png "Carbon Black Integration- Remove Host Isolation")
 
-**Parent Topic:**[Security Operations Integration- Isolate Host capability](../../security-operations-common/concept/isolate-host-capability.md)
+**Parent Topic:**[Security Operations Integration- Isolate Host capability](isolate-host-capability.md)
 

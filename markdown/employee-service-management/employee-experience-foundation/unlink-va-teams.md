@@ -36,5 +36,5 @@ After you unlink your account, you can no longer engage in Virtual Agent convers
     **Note:** Even though you unlinked your account, you can still run public Virtual Agent conversations. To link your account again, repeat steps 1 through 3 for the associated messaging integration and in the **Actions on selected rows...** click **Link account**.
 
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](employee-sn-ms-teams.md)
 

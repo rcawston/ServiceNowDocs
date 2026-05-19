@@ -119,7 +119,7 @@ Expected delivery
 
 </td><td>
 
-The date the purchase order line item is expected to arrive in the stockroom identified in the **Ship to** field on the purchase order record. This field is automatically filled with the value in the **Expected delivery** field on the purchase order record. This field can be edited when the purchase order line item has a **Status** of **Requested**. For more information about this field, see [Purchase order expected delivery date](../reference/r_SetExpectDelDateOnPurchOrder.md).
+The date the purchase order line item is expected to arrive in the stockroom identified in the **Ship to** field on the purchase order record. This field is automatically filled with the value in the **Expected delivery** field on the purchase order record. This field can be edited when the purchase order line item has a **Status** of **Requested**. For more information about this field, see [Purchase order expected delivery date](r_SetExpectDelDateOnPurchOrder.md).
 
 </td></tr><tr><td>
 
@@ -217,7 +217,7 @@ Non-catalog request
 
 Select this check box to create a requisition for an item that is not present in the product catalog of the organization.**Note:**
 
--   This field isn't visible on the form if you haven't published a procurement integration profile. For more information, see [Integrating with external procurement applications](../concept/integrate-ext-proc-ser.md).
+-   This field isn't visible on the form if you haven't published a procurement integration profile. For more information, see [Integrating with external procurement applications](integrate-ext-proc-ser.md).
 -   If you select only a software model in the Product model field, this check box gets displayed on the form.
 -   If you select an item in the Product Catalog field, the check box gets automatically unchecked.
 -   If you haven't selected any item in the Product Catalog field, this check box is automatically checked, which indicates you're submitting a non-catalog request.
@@ -256,5 +256,5 @@ A few words or short phrase describing the purchase order line item.
 **Related topics**  
 
 
-[Vendor catalog items](../../product-catalog/concept/c_ManageVendorCatalogItems.md)
+[Vendor catalog items](../product-catalog/c_ManageVendorCatalogItems.md)
 

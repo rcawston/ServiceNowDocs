@@ -31,7 +31,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 4.  On the New filter configuration form, fill in the fields, and select **Submit**.
 
-    For a description of the field values, see [Request filter configuration form](../reference/filter-config-form-req.md).
+    For a description of the field values, see [Request filter configuration form](filter-config-form-req.md).
 
 
 ## What to do next

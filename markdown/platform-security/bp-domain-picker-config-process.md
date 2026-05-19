@@ -35,36 +35,36 @@ You need to use an "80-15-5" approach in configuring your domains to avoid too l
     -   Look for no-code solutions.
     -   Use server-side scripts, build modular APIs, and build in domain-separated properties.
     -   If you must use client scripting, use only ServiceNow APIs. Limit "synchronous" calls \(those that go back and forth from client to server, also called AJAX\).
-    -   Write all scripts logically to keep them simple and effective. Enforce peer reviews of code changes and make sure everyone is following the [Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md) in this section.
+    -   Write all scripts logically to keep them simple and effective. Enforce peer reviews of code changes and make sure everyone is following the [Domain separation recommended practices for service providers](bp-domain-sep-recommended.md) in this section.
 
-**Parent Topic:**[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+**Parent Topic:**[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 
 **Related topics**  
 
 
 [Domain separation explained](bp-what-is-domain-separation.md)
 
-[Domain separation hierarchies](../reference/bp-domain-sep-hierarchies.md)
+[Domain separation hierarchies](bp-domain-sep-hierarchies.md)
 
 [Context and domain separation](bp-domain-sep-context.md)
 
-[Segregating and securing data with domain separation](../reference/bp-segregate-secure.md)
+[Segregating and securing data with domain separation](bp-segregate-secure.md)
 
-[Alternatives to domain separation](../reference/bp-domain-separation-alternatives.md)
+[Alternatives to domain separation](bp-domain-separation-alternatives.md)
 
-[Evaluating the need for domain separation](../reference/bp-evaluation-dom-sep.md)
+[Evaluating the need for domain separation](bp-evaluation-dom-sep.md)
 
-[Benefits of domain separation](../reference/bp-advantages-dom-sep.md)
+[Benefits of domain separation](bp-advantages-dom-sep.md)
 
 [How a database query works with domain separation](bp-db-query-with-ds.md)
 
-[Domain separation levels of support](../reference/bp-domain-levels.md)
+[Domain separation levels of support](bp-domain-levels.md)
 
-[Service provider reference architecture](../reference/bp-sp-reference-arch-ds.md)
+[Service provider reference architecture](bp-sp-reference-arch-ds.md)
 
-[Domain separation terms](../reference/bp-terms-conditions.md)
+[Domain separation terms](bp-terms-conditions.md)
 
-[Domain-separate a custom table](../reference/bp-ds-custom-table.md)
+[Domain-separate a custom table](bp-ds-custom-table.md)
 
 [Customizing domain properties and themes](bp-domain-prop-themes.md)
 
@@ -88,7 +88,7 @@ You need to use an "80-15-5" approach in configuring your domains to avoid too l
 
 [Avoiding domain path in scripts](bp-no-domain-path-in-scripts.md)
 
-[Domain assignments](../reference/bp-domain-assignment.md)
+[Domain assignments](bp-domain-assignment.md)
 
 [Domain separation and the Customer Service Management \(CSM\) plugin](bp-ds-and-csm.md)
 

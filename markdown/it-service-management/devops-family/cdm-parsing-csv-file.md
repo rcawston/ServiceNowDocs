@@ -158,7 +158,7 @@ To keep the CSV config data in its original format when exporting the config dat
 
 [Uploading your config data](cdm-upload-process.md)
 
-[Add the nodes that will contain config data to a new CDM application](../task/cdm-data-structure-add-for-upload.md)
+[Add the nodes that will contain config data to a new CDM application](cdm-data-structure-add-for-upload.md)
 
 [Parsing of XML files in CDM](cdm-parsing-xml-file.md)
 

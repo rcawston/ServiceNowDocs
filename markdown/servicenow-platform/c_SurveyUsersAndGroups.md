@@ -26,37 +26,37 @@ You can designate survey users from the Survey Designer, the Survey Definition f
 
 **Note:** If there are trigger conditions for a survey, do not create survey users. Instead, use the Trigger Conditions form to assign users.
 
--   **[Create a survey user group](../task/t_CreatingSurveyUserGroups.md)**  
+-   **[Create a survey user group](t_CreatingSurveyUserGroups.md)**  
 Survey user groups are groups that have the **Type** field set to survey and display only the information most relevant to surveys. You can assign survey groups or any user group to surveys.
--   **[Select recipients for a survey in the Survey Designer](../task/t_SelRecipsForASurveyInDesigner.md)**  
+-   **[Select recipients for a survey in the Survey Designer](t_SelRecipsForASurveyInDesigner.md)**  
 You can assign survey users while designing or modifying the survey.
--   **[Designate a survey user](../task/t_SurveyDefinitionForm.md)**  
+-   **[Designate a survey user](t_SurveyDefinitionForm.md)**  
 You can designate one survey user at a time from the Survey Definition form.
--   **[Designate or remove multiple survey users at one time](../task/t_SurveyCategoryForm.md)**  
+-   **[Designate or remove multiple survey users at one time](t_SurveyCategoryForm.md)**  
 Use the Survey Category form to designate or remove multiple survey users at a time.
--   **[Allow recipients to retake a survey](../task/t_AllowRecipientsToRetakeASurvey.md)**  
+-   **[Allow recipients to retake a survey](t_AllowRecipientsToRetakeASurvey.md)**  
 You can configure a survey to allow recipients to resubmit their answers as many times as they like, up to the survey's due date.
 
-**Parent Topic:**[Survey administration](../reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
-[View survey reports](../task/view-survey-overview.md)
+[View survey reports](view-survey-overview.md)
 
 [Survey designer](c_SurveyDesigner.md)
 
-[View a survey instance](../task/t_ViewSurveyInstance.md)
+[View a survey instance](t_ViewSurveyInstance.md)
 
-[Copy a survey](../task/copy-survey.md)
+[Copy a survey](copy-survey.md)
 
-[Publish a survey](../task/t_PublishASurvey.md)
+[Publish a survey](t_PublishASurvey.md)
 
-[Customize the appearance of a survey](../task/t_CustomizingAppearance.md)
+[Customize the appearance of a survey](t_CustomizingAppearance.md)
 
 [Survey definitions](c_SurveyDefinitions.md)
 
-[Create a survey designer template question](../task/t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
 
 [Survey questions](c_SurveyQuestion.md)
 
@@ -64,7 +64,7 @@ You can configure a survey to allow recipients to resubmit their answers as many
 
 [Survey distribution](c_SurveyDistribution.md)
 
-[Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
+[Outlook Actionable Messages](outlook-actionable-messages.md)
 
 [Sentiment analysis for surveys](sentiment-analysis.md)
 
@@ -74,7 +74,7 @@ You can configure a survey to allow recipients to resubmit their answers as many
 
 [Legacy survey migration](c_MigrateSurveys.md)
 
-[Send survey invitations to users](../task/t_SendSurveyInvitationsToUsers.md)
+[Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
 
 [Survey trigger conditions](c_TriggerConditions.md)
 

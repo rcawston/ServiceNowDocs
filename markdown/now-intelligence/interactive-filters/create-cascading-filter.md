@@ -105,7 +105,7 @@ This procedure includes examples based on a cascading interactive filter using m
 1.  After you create all levels of the filter, add it to a dashboard.
 2.  On the dashboard, select the **Edit widget** icon \(![Edit columns icon](../image/icon-cogwheel-ac.png)\) on each visualization on the dashboard that should follow the filter and select **Follow interactive filter**.
 
-**Parent Topic:**[Creating Interactive Filters of different types](../reference/r_AvailableHomepagePublisherTypes.md)
+**Parent Topic:**[Creating Interactive Filters of different types](r_AvailableHomepagePublisherTypes.md)
 
 ## Cascading filters deduplication
 

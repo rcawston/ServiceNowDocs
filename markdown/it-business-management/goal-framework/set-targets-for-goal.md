@@ -62,7 +62,7 @@ Steps
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
 
-    For field information, see [Target form](../reference/target-form.md).
+    For field information, see [Target form](target-form.md).
 
 3.  Click **Submit**.
 

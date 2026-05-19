@@ -62,7 +62,7 @@ On the board, move the story cards into different lanes or add new stories for t
 
 ## What to do next
 
-For the work that you assigned and scheduled, track the progress at different levels of your Agile structure using EAP dashboards. See [EAP reports and dashboards](../concept/using-eap-dashboard.md).
+For the work that you assigned and scheduled, track the progress at different levels of your Agile structure using EAP dashboards. See [EAP reports and dashboards](using-eap-dashboard.md).
 
-**Parent Topic:**[Perform PI planning in EAP](../concept/pi-planning-eap.md)
+**Parent Topic:**[Perform PI planning in EAP](pi-planning-eap.md)
 

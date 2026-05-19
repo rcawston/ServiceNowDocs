@@ -19,7 +19,7 @@ After an availability commitment is added to a service offering or to an applica
 
 Service Portfolio Management runs a daily job to generate the commitment availability reports and uses the system time zone.
 
-For information on adding availability commitments, see [Add a commitment to a service offering](../task/define-SPM2-service-commitments.md).
+For information on adding availability commitments, see [Add a commitment to a service offering](define-SPM2-service-commitments.md).
 
 ## Availability calculator
 

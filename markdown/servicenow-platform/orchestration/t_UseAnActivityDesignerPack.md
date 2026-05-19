@@ -34,5 +34,5 @@ You can organize custom activities into packs and upload them to the ServiceNow 
     ![Workflow activity packs tab](../image/WorkflowActivityPacks.png)
 
 
-**Parent Topic:**[Orchestration activity packs](../../orchestration-activities/concept/c_OrchestrationActivityPacks.md)
+**Parent Topic:**[Orchestration activity packs](c_OrchestrationActivityPacks.md)
 

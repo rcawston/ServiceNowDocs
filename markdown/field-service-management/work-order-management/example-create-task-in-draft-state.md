@@ -40,7 +40,7 @@ Role required: wm\_task\_initiator
 
     3.  Go to the Template field and click **Preview this record** to edit the work order template.
 
-        For more information about editing work order template, see [Create a work order template](../../it-services/task/t_CreateAWorkOrderTemplate.md).
+        For more information about editing work order template, see [Create a work order template](t_CreateAWorkOrderTemplate.md).
 
 5.  Create adhoc work order tasks.
 
@@ -48,7 +48,7 @@ Role required: wm\_task\_initiator
 
     2.  Fill in the required fields.
 
-        For more information, see [Create a work order task](../../planning-and-policy/task/t_CreateAWorkOrderTask.md).
+        For more information, see [Create a work order task](t_CreateAWorkOrderTask.md).
 
     3.  Click **Submit**.
 

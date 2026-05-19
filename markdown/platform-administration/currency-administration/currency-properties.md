@@ -36,7 +36,7 @@ Description
 When **true**, currency fields in audit records are the value entered by the user, in the format `USD;1234.56`. When **false**, the value is the numeric value in the session currency.-   Type: Boolean
 -   Default value: **false**
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Configure default currency fields in audit records](../task/audit-currency-fields.md)
+-   Learn more: [Configure default currency fields in audit records](audit-currency-fields.md)
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ When **true**, currency fields in audit records are the value entered by the use
 When **true**, currency fields have four decimal places. When **false**, two decimal places are used.-   Type: Boolean
 -   Default value: **false**
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Change default currency decimal places](../task/change-currency-fraction-digits.md)
+-   Learn more: [Change default currency decimal places](change-currency-fraction-digits.md)
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ When **true**, currency fields have four decimal places. When **false**, two dec
 When **true**, the optimizer is used. When **false**, the optimizer is not used.-   Type: Boolean
 -   Default value: **true**
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Configure the currency optimizer](../task/configure-currency-optimizer.md)
+-   Learn more: [Configure the currency optimizer](configure-currency-optimizer.md)
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ When **true**, the optimizer is used. When **false**, the optimizer is not used.
 Minimum number of rows in parent table needed for the optimizer. When fewer than this number of rows are present, the optimizer is not used.-   Type: Number
 -   Default value: **4**
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Configure the currency optimizer](../task/configure-currency-optimizer.md)
+-   Learn more: [Configure the currency optimizer](configure-currency-optimizer.md)
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Minimum number of rows in parent table needed for the optimizer. When fewer than
 When **true**, currency fields in a table are output in the user's session currency.-   Type: Boolean
 -   Default value: **false**
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Exporting currency fields to Excel](../../exporting-data/concept/c_ExportingCurrencyFields.md)
+-   Learn more: [Exporting currency fields to Excel](../table-administration-and-data-management/c_ExportingCurrencyFields.md)
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ When **true**, currency fields in a table are output in the user's session curre
 When **true**, currency fields in a table are converted to US dollars.-   Type: Boolean
 -   Default value: **false**
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Exporting currency fields to Excel](../../exporting-data/concept/c_ExportingCurrencyFields.md)
+-   Learn more: [Exporting currency fields to Excel](../table-administration-and-data-management/c_ExportingCurrencyFields.md)
 
 </td></tr><tr><td>
 
@@ -102,13 +102,13 @@ When **true**, currency fields in a table are converted to US dollars.-   Type: 
 Value is of the format `Language.Country` where the language is an ISO 639 language code and the country is an ISO 3166 language code. Internally, this value is used as specified by Java. The system locale setting should be in the [Java supported locales](http://www.oracle.com/technetwork/java/javase/javase7locales-334809.html) list.-   Type: String
 -   Default value: empty
 -   Location: **System Properties** &gt; **System Localization**
--   Learn more: [Locale settings](../concept/locales.md)
+-   Learn more: [Locale settings](locales.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Setting up defaults required for standard currency use](../concept/setting-up-standard-currency-defaults.md)
+</table>**Parent Topic:**[Setting up defaults required for standard currency use](setting-up-standard-currency-defaults.md)
 
 **Related topics**  
 
 
-[Exporting currency fields to Excel](../../exporting-data/concept/c_ExportingCurrencyFields.md)
+[Exporting currency fields to Excel](../table-administration-and-data-management/c_ExportingCurrencyFields.md)
 

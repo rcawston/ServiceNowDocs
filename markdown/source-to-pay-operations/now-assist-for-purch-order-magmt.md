@@ -22,7 +22,7 @@ Use the ServiceNow® Now Assist for Purchase Order Management \(POM\) applicatio
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for POM application to get started](../task/configure-now-assist-purch-order-mgmt.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for POM application to get started](configure-now-assist-purch-order-mgmt.md)
 
 </td><td>
 

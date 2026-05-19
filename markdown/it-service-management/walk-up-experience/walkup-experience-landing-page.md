@@ -23,27 +23,27 @@ Walk-up Experience offers a convenient and efficient way for users to seek immed
 
 <table id="table_mfv_1ql_s1c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Understand Walk-up Experience features and benefits.](../concept/use-walkup-to-manage-demand.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Understand Walk-up Experience features and benefits.](use-walkup-to-manage-demand.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and customize Walk-up Experience to meet your specific needs.](../concept/walkup-experience-configuration.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and customize Walk-up Experience to meet your specific needs.](walkup-experience-configuration.md)
 
 </td></tr><tr><td>
 
-[Plan![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Plan your Walk-up Experience visit.](../task/plan-your-visit.md)
+[Plan![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Plan your Walk-up Experience visit.](plan-your-visit.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage Walk-up Experience queue and interaction.](../concept/use-walkup-to-manage-demand.md)
+[Manage![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage Walk-up Experience queue and interaction.](use-walkup-to-manage-demand.md)
 
 </td></tr><tr><td>
 
-[Monitor![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Monitor Walk-up Experience performance.](../concept/walkup-dashboard-overview.md)
+[Monitor![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Monitor Walk-up Experience performance.](walkup-dashboard-overview.md)
 
 </td><td>
 
-[Walk-up on Now Mobile®.![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Explore Walk-up Experience on Now Mobile®.](../concept/walk-up-experience-now-mobile.md)
+[Walk-up on Now Mobile®.![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Explore Walk-up Experience on Now Mobile®.](walk-up-experience-now-mobile.md)
 
 </td></tr><tr><td>
 

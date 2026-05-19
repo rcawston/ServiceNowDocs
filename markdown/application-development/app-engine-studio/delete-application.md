@@ -17,7 +17,7 @@ If you have the appropriate permissions, you can remove an application from App 
 
 ## Before you begin
 
-Role required: admin, delete application, or delegated developer with permissions. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: admin, delete application, or delegated developer with permissions. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## About this task
 

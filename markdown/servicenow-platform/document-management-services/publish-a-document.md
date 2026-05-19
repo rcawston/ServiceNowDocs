@@ -36,5 +36,5 @@ After a document has been created and edited, a version can be submitted for dra
 5.  Select **Publish Version**.
 
 
-**Parent Topic:**[Document approval and publish process](../concept/document-review-approval.md)
+**Parent Topic:**[Document approval and publish process](document-review-approval.md)
 

@@ -18,7 +18,7 @@ Export all source types related to one or more selected log sources to an update
 
 ## Before you begin
 
-For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md).
+For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](hla-data-input-migration.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -45,5 +45,5 @@ Import the update set to the required ServiceNow instance. For more information,
 
 **Note:** Only the related source types and tables for the selected log sources will be imported, not the data inputs.
 
-**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md)
+**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](hla-data-input-migration.md)
 

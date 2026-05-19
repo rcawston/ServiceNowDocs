@@ -71,5 +71,5 @@ The Notion external content connector is updated with your modified crawl settin
 
 To retrieve content from your Notion source system using your modified crawl settings, create and run a one-time content crawl for your Notion external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Notion external content connector](../concept/notion-external-content-connector.md)
+**Parent Topic:**[Notion external content connector](notion-external-content-connector.md)
 

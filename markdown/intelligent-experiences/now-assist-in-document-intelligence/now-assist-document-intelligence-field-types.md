@@ -18,7 +18,7 @@ The field type specifies the information that is retrieved from a document with 
 
 The following field types are available to administrators when configuring fields for use cases.
 
-**Note:** Some field types convert the extracted value into a standard format. For more information, see [Data normalization](../concept/data-normalization.md).
+**Note:** Some field types convert the extracted value into a standard format. For more information, see [Data normalization](../document-intelligence/data-normalization.md).
 
 <table id="table_nql_cxs_12c"><thead><tr><th>
 

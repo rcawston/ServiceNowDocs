@@ -38,7 +38,7 @@ Metric Intelligence monitors historical data to ensure that metric bounds are ac
 
 ## What to do next
 
-Create an Advanced Promotion Engine Definition, to define the conditions which must be met to promote anomaly alerts to IT alerts. For details, see [Create a definition for the Advanced Promotion Engine](../../agent-client-collector/task/create-advanced-promotion-engine.md).
+Create an Advanced Promotion Engine Definition, to define the conditions which must be met to promote anomaly alerts to IT alerts. For details, see [Create a definition for the Advanced Promotion Engine](create-advanced-promotion-engine.md).
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 

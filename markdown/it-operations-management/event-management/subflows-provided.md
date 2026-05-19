@@ -145,7 +145,7 @@ This subflow applies the alert template.This subflow is provided for instances t
 
 </td></tr></tbody>
 </table>1.  Select the subflow that you need.
-2.  To customize a subflow, see [Create a custom subflow for alerts](../task/create-custom-create-incident-subflow.md). This topic also describes the input parameters in a subflow.
+2.  To customize a subflow, see [Create a custom subflow for alerts](create-custom-create-incident-subflow.md). This topic also describes the input parameters in a subflow.
 3.  To specify when the workflow must be executed, double-click the cell under **Execution**.
 
     ![Subflow execution](../image/subflow-execution.png)
@@ -153,5 +153,5 @@ This subflow applies the alert template.This subflow is provided for instances t
     .
 
 
-**Parent Topic:**[Alert management rules for resolving alerts](../concept/alert-management-rule.md)
+**Parent Topic:**[Alert management rules for resolving alerts](alert-management-rule.md)
 

@@ -32,7 +32,7 @@ Supplier Lifecycle Operations provides the following benefits:
 -   Manage supplier relationship and performance: Monitor and assess supplier performance by setting up criteria for measuring supplier performance though KPIs and thresholds.
 -   Many-to-many \(M2M\) mapping between supplier contact and suppliers: A single supplier contact can be the contact for multiple suppliers, if those suppliers share a parent-subsidiary relationship.
 
-    **Important:** M2M mapping between supplier contact and suppliers is available from the Xanadu December 2024 release onwards. To enable M2M mapping, see [Enable M2M mapping between supplier contact and suppliers](../task/enable-m2m-supplier-contacts.md).
+    **Important:** M2M mapping between supplier contact and suppliers is available from the Xanadu December 2024 release onwards. To enable M2M mapping, see [Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md).
 
 -   Supplier payment optimization: Supplier managers can view the potential returns or savings when a supplier accepts commercial credit card payments. They can convert high-potential suppliers, and capture value through card-based payments.
 
@@ -52,7 +52,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Supplier Case Management](../task/install-supp-mgmt.md)
+[Supplier Case Management](install-supp-mgmt.md)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Provides a common architecture to track data objects related to a supplier used 
 
 </td></tr><tr><td>
 
-[Source-to-Pay Workspace](../../source-to-pay-operations/concept/source-to-pay-ws-overview.md)
+[Source-to-Pay Workspace](../source-to-pay-workspace/source-to-pay-ws-overview.md)
 
 </td><td>
 
@@ -159,7 +159,7 @@ Here are some additional ServiceNow resources that can help you:
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-docs.svg) Release Notes**
 
-    Learn more about what's new and changed. See the [Supplier Lifecycle Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/supplier-lifecycle-operations-rn.md).
+    Learn more about what's new and changed. See the [Supplier Lifecycle Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/supplier-lifecycle-operations-rn.md).
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-learning.svg) ServiceNow University**
 

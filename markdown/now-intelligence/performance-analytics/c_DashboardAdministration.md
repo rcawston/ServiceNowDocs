@@ -17,10 +17,10 @@ Learn about administering dashboards including how to group dashboards, how to m
 
 Users with the dashboard\_admin role have full access including view, edit, delete, and share permissions on all dashboards in an instance, including all inactive dashboards. To view a list of all dashboards in an instance, navigate to **Performance Analytics** &gt; **System** &gt; **Dashboard Administration**. Select the name of a dashboard to view its form.
 
-The fields on the dashboard's form are described in [Create or configure a responsive dashboard in Core UI](../../performance-analytics/task/t_CreateADashboard.md). Use the related links to:
+The fields on the dashboard's form are described in [Create or configure a responsive dashboard in Core UI](t_CreateADashboard.md). Use the related links to:
 
 -   View the dashboard
--   [Launch Dependency Assessment](../task/launch-dependency-assessment.md)
+-   [Launch Dependency Assessment](launch-dependency-assessment.md)
 
 ![Dashboard admin form with both Related Links outlined in red](../image/dashboard-admin.png)
 

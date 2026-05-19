@@ -49,7 +49,7 @@ To support your organization's authentication policies, you can configure a list
     com.servicenow.intune.requestor,com.servicenow.requestor.mam.intune
     ```
 
-    For a list of iOS Bundle IDs and Android Package IDs, see [Bundle and Package IDs for ServiceNow mobile apps](../reference/sg-mobile-package-ids.md).
+    For a list of iOS Bundle IDs and Android Package IDs, see [Bundle and Package IDs for ServiceNow mobile apps](sg-mobile-package-ids.md).
 
 8.  Select **Submit**.
 

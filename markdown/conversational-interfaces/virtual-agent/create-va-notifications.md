@@ -174,5 +174,5 @@ Option to include the user who changed the record or triggered the event.
 -   [Create additional recipients for Virtual Agent notifications](create-additional-recipients.md).
 -   [Define the notification contents](define-va-notif-contents.md).
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](configuring-va-notifications.md)
 

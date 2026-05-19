@@ -106,5 +106,5 @@ Notes
 Provides a space where you can enter your comments regarding the reminder. Maximum number of characters allowed on this field is 8000.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Task table structure](../../table-administration/concept/task-table-structure.md)
+</table>**Parent Topic:**[Task table structure](task-table-structure.md)
 

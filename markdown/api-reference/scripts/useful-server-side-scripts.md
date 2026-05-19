@@ -463,7 +463,7 @@ In a business rule or other server script, the gs.getUser\(\) method returns a u
 
 ### About this task
 
-For a list and description of the available scoped methods for the user object, see [GlideUser](../../../app-store/dev_portal/API_reference/GlideUser_global/concept/GUserAPI.md#).
+For a list and description of the available scoped methods for the user object, see [GlideUser](../server-api-reference/GUserAPI.md#).
 
 ### Procedure
 
@@ -498,9 +498,9 @@ Logs can be at the level of debug, info, notice, warning, err, or crit \(after B
 
 Use for any server-side script where you want to implement event logging.
 
-For the API reference, see [GSLog\(\)](../../../app-store/dev_portal/API_reference/GSLogBoth/concept/GSLogBoth.md#).
+For the API reference, see [GSLog\(\)](../server-api-reference/GSLogBoth.md#).
 
-For more information, see [Debugging scripts](../../debugging/concept/script-debug-overview.md)
+For more information, see [Debugging scripts](script-debug-overview.md)
 
 ## Modify a GlideDateTime field value
 
@@ -547,14 +547,14 @@ gs.info('In ' + GlideSession.get().getTimeZoneName() + ": " + gdt.getDisplayValu
 
 See also:
 
--   [GlideDateTime](../../glide-server-apis/topic/p_GlideServerAPIs.md#)
--   [GlideDate - Global](../../../app-store/dev_portal/API_reference/GlideDate/concept/GlideDateAPI.md#)
--   [GlideDate - Scoped](../../../app-store/dev_portal/API_reference/glideDateScoped/concept/c_GlideDateScopedAPI.md#)
--   [GlideDateTime - Global](../../../app-store/dev_portal/API_reference/GlideDateTime/concept/c_GlideDateTimeAPI.md#)
--   [GlideDateTime - Scoped](../../../app-store/dev_portal/API_reference/glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#)
--   [GlideElement - Global](../../../app-store/dev_portal/API_reference/GlideElement_global/concept/c_GlideElementAPI.md#)
--   [GlideElement - Scoped](../../../app-store/dev_portal/API_reference/glideElement/concept/c_GlideElementScopedAPI.md#)
--   [GlideTime - Scoped](../../../app-store/dev_portal/API_reference/glideTimeScoped/concept/c_GlideTimeScopedAPI.md#)
+-   [GlideDateTime](p_GlideServerAPIs.md#)
+-   [GlideDate - Global](../server-api-reference/GlideDateAPI.md#)
+-   [GlideDate - Scoped](../server-api-reference/c_GlideDateScopedAPI.md#)
+-   [GlideDateTime - Global](../server-api-reference/c_GlideDateTimeAPI.md#)
+-   [GlideDateTime - Scoped](../server-api-reference/c_GlideDateTimeScoped.md#)
+-   [GlideElement - Global](../server-api-reference/c_GlideElementAPI.md#)
+-   [GlideElement - Scoped](../server-api-reference/c_GlideElementScopedAPI.md#)
+-   [GlideTime - Scoped](../server-api-reference/c_GlideTimeScopedAPI.md#)
 
 ## Using custom queues to process events
 

@@ -51,6 +51,6 @@ To open the Health and Safety profile for a user,
 
 ## Assigning Health and Safety profile
 
--   To assign Health and Safety profile for a user, see [Assign Health and Safety profile to a user](../task/assign-hs-profile-user.md).
--   To assign Health and Safety profile for a contract worker, see [Assign Health and Safety profile to a contractor worker](../../hs-contractor-management/task/hs-assign-hs-user-profile-contract-worker.md).
+-   To assign Health and Safety profile for a user, see [Assign Health and Safety profile to a user](assign-hs-profile-user.md).
+-   To assign Health and Safety profile for a contract worker, see [Assign Health and Safety profile to a contractor worker](../health-and-safety-contractor-management/hs-assign-hs-user-profile-contract-worker.md).
 

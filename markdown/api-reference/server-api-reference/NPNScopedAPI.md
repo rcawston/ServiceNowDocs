@@ -17,7 +17,7 @@ The NotifyPhoneNumber API allows you to query information about a Notify phone n
 
 Execute the scoped NotifyPhoneNumber API and its associated methods in the `sn_notify` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped NotifyPhoneNumber - getDialCode\(\)
 

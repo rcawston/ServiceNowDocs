@@ -89,5 +89,5 @@ Date that the contract ends.**Note:** The End date must be later than the Start 
     A contract management request is generated in the Contract documents tab. Select the record to view the document.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

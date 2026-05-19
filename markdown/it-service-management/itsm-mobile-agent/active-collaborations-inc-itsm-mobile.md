@@ -44,5 +44,5 @@ Role required: itil, itil\_admin, or admin
     ![View active collaborations](../image/view-active-collab-inc-itsm-mobile.png)
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](collaboration-incident-itsm-mobile.md)
 

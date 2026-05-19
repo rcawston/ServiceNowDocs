@@ -371,5 +371,5 @@ Default: `.`
 **Related topics**  
 
 
-[Application access settings](../../applications/concept/c_ApplicationAccessSettings.md)
+[Application access settings](c_ApplicationAccessSettings.md)
 

@@ -87,7 +87,7 @@ Description of the reusable test.**Note:** The description of the reusable test 
 
 ![Screenshot showing the reusable test description](../image/atf-reusable-test-description.png)
 
-See [Reusable Tests category](../reference/test-steps-reusable-tests-category.md) for more information.
+See [Reusable Tests category](test-steps-reusable-tests-category.md) for more information.
 
 </td></tr></tbody>
 </table>4.  Select **Save** to create the reusable test.
@@ -97,5 +97,5 @@ See [Reusable Tests category](../reference/test-steps-reusable-tests-category.md
     **Note:** Reusable tests can’t run independently. They can run only when it becomes a part of another test. They also can’t be added to a test suite independently. They must be invoked in another test within a test suite.
 
 
-**Parent Topic:**[Reusable tests](../concept/atf-reuse-tests.md)
+**Parent Topic:**[Reusable tests](atf-reuse-tests.md)
 

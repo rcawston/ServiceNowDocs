@@ -26,5 +26,5 @@ Create a new table by extending an existing table, and then using a Microsoft Ex
 -   **[Modify existing table using spreadsheet import](spreadsheet-import-existing-table.md)**  
 Use a Microsoft Excel spreadsheet import to update an existing application table.
 
-**Parent Topic:**[Create a data model for your application](../concept/add-data.md)
+**Parent Topic:**[Create a data model for your application](add-data.md)
 

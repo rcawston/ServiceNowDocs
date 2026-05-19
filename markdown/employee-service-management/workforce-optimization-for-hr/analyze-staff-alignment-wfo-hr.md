@@ -89,5 +89,5 @@ The **Total coverage/demand** row has indicators for the staff alignment.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
 

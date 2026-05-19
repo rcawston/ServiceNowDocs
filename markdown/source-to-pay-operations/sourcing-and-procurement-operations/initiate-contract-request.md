@@ -46,5 +46,5 @@ Initiate a contract request for purchase requisitions, sourcing requests, negoti
 -   **[Initiate a contract request from the playbook](initiate-contract-from-playbook.md)**  
 Initiate a contract request for sourcing requests or sourcing event from the playbook.
 
-**Parent Topic:**[Source-to-Pay Operations integration with Contract Management Pro](../concept/integration-spo-cmpro.md)
+**Parent Topic:**[Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 

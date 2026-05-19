@@ -129,7 +129,7 @@ Resource Group
 
 </td><td>
 
-Resource group that contains the alert rules. Select the Microsoft Azure service account. For more information on adding a Microsoft Azure service account, see [Add an Azure service account](../../cloud-management-v2-setup/task/azure-service-account-cloud-mgt.md).
+Resource group that contains the alert rules. Select the Microsoft Azure service account. For more information on adding a Microsoft Azure service account, see [Add an Azure service account](../cloud-configuration-governance/azure-service-account-cloud-mgt.md).
 
  The instance creates the alert rules for all the resources that are available in the service account.
 

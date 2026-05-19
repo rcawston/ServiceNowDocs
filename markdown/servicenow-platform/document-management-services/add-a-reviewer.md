@@ -42,5 +42,5 @@ The procedure described in this task applies to newly created records. For exist
 7.  Repeat steps 3–6 to add multiple reviewers.
 
 
-**Parent Topic:**[Document approval and publish process](../concept/document-review-approval.md)
+**Parent Topic:**[Document approval and publish process](document-review-approval.md)
 

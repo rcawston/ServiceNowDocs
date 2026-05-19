@@ -86,7 +86,7 @@ Enables journey owners and mentors to include personalized messages from a journ
 **Related topics**  
 
 
-[Quick Link form](../../employee-center/reference/ec-quick-link-form.md)
+[Quick Link form](../employee-experience-foundation/ec-quick-link-form.md)
 
-[Create a quick link](../../employee-center/task/create-quick-links.md)
+[Create a quick link](../employee-experience-foundation/create-quick-links.md)
 

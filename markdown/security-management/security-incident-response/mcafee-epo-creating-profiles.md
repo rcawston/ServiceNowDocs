@@ -49,7 +49,7 @@ Isolate a host
 
 </td><td>
 
-Verify with your McAfee ePO administrator that you have created the security tags for the isolate host action in your McAfee ePO console. For more information, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](../task/mcafee-epo-setup-mcafee.md).
+Verify with your McAfee ePO administrator that you have created the security tags for the isolate host action in your McAfee ePO console. For more information, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](mcafee-epo-setup-mcafee.md).
 
 </td><td>
 
@@ -61,7 +61,7 @@ Scan and search for threats on your host
 
 </td><td>
 
-Verify with your McAfee ePO administrator that you have created the security tags for the initiate malware scan action in your McAfee ePO console. For more information, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](../task/mcafee-epo-setup-mcafee.md).
+Verify with your McAfee ePO administrator that you have created the security tags for the initiate malware scan action in your McAfee ePO console. For more information, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](mcafee-epo-setup-mcafee.md).
 
 </td><td>
 
@@ -73,7 +73,7 @@ Remove isolation for a host
 
 </td><td>
 
-Verify with your McAfee ePO administrator that you have created the security tags for the isolate host action in your McAfee ePO console. For more information, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](../task/mcafee-epo-setup-mcafee.md).
+Verify with your McAfee ePO administrator that you have created the security tags for the isolate host action in your McAfee ePO console. For more information, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](mcafee-epo-setup-mcafee.md).
 
 </td><td>
 
@@ -92,7 +92,7 @@ None
 **List Threat Events**
 
 </td></tr></tbody>
-</table>-   **[Create a capability profile](../task/mcafee-epo-create-profile.md)**  
+</table>-   **[Create a capability profile](mcafee-epo-create-profile.md)**  
 Create a profile and select the McAfee ePO capabilities that you want the profile to run.
 -   **[Defining triggering conditions with a Configuration item \(CI\) field](mcafee-epo-alternate-ci.md)**  
 After you create a profile and select the McAfee ePO capabilities that you want the profile to run, you configure the settings of the profile so that it runs only when a set of specific conditions are met.
@@ -101,7 +101,7 @@ After you create a profile and select the McAfee ePO capabilities that you want 
 
 **Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[Create an approval group](../task/create-approval-group-mcafee.md)
+**Previous topic:**[Create an approval group](create-approval-group-mcafee.md)
 
-**Next topic:**[Create a capability profile](../task/mcafee-epo-create-profile.md)
+**Next topic:**[Create a capability profile](mcafee-epo-create-profile.md)
 

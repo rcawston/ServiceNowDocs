@@ -17,7 +17,7 @@ ServiceNow Incident Management supports the incident management process with the
 
 ## Incident Management overview
 
-Any user can record an incident and track it until service is restored and the issue is resolved. Each incident is generated as a task record that contains pertinent information. Incidents can be assigned to appropriate service desk members, who resolve the task and document the investigation. After the incident is resolved, you can manually close the incident. You can also close incidents automatically based on the last updated date or the resolution date of the incident. For more information about auto-closing incidents, see [Configure incidents to close automatically](../task/configure-incident-auto-close.md).
+Any user can record an incident and track it until service is restored and the issue is resolved. Each incident is generated as a task record that contains pertinent information. Incidents can be assigned to appropriate service desk members, who resolve the task and document the investigation. After the incident is resolved, you can manually close the incident. You can also close incidents automatically based on the last updated date or the resolution date of the incident. For more information about auto-closing incidents, see [Configure incidents to close automatically](configure-incident-auto-close.md).
 
 Any user can log an incident within the system using the following methods.
 

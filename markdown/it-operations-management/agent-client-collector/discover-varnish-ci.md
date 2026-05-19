@@ -48,5 +48,5 @@ The varnishstat CI is discovered and a record is created in the u\_cmdb\_ci\_var
 
 The Varnish policies and checks are available to run.
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
 

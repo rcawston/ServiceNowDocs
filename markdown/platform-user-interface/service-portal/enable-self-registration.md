@@ -47,5 +47,5 @@ External user self-registration enables a large group of users to register to a 
 
 The login widget includes a link to the registration form that you previously configured.
 
-**Parent Topic:**[Managing portal access](../concept/portal-security.md)
+**Parent Topic:**[Managing portal access](portal-security.md)
 

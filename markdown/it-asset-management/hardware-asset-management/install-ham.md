@@ -29,7 +29,7 @@ The following items are installed with Hardware Asset Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Installed with Hardware Asset Management](../reference/installed-with-ham.md).
+For more information, see [Installed with Hardware Asset Management](installed-with-ham.md).
 
 ## Procedure
 

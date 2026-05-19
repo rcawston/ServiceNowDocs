@@ -75,12 +75,12 @@ You can leverage the Activity center in the Software asset overview landing page
 
     If an import error record doesn't have a software model but the **Publisher** and **Product** fields have valid values, then on selecting **Import**, a software model is automatically created and the status of the record changes to **Manually fixed**.
 
-    For a detailed description of the entitlement import error fields, see [Entitlement import error fields](../reference/entitlement-import-error-fields.md)
+    For a detailed description of the entitlement import error fields, see [Entitlement import error fields](entitlement-import-error-fields.md)
 
 12. Correct the errors and select **Import**.
 
-    The entitlement is successfully created. Further processing of the entitlement continues such as validation of downgrade models for the entitlement. For more information on resolving errors, see [Entitlement import error actions](../reference/import-software-rights-form.md).
+    The entitlement is successfully created. Further processing of the entitlement continues such as validation of downgrade models for the entitlement. For more information on resolving errors, see [Entitlement import error actions](import-software-rights-form.md).
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

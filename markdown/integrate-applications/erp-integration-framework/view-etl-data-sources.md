@@ -58,7 +58,7 @@ Table transform map link
 
 Table that the extracted data is cached and stored in.Select the table name to view the table on the ServiceNow AI Platform in a new browser tab.
 
-For more information on creating table transform maps, see [Create a transform map](../../../script/server-scripting/task/t_CreateATransformMap.md).
+For more information on creating table transform maps, see [Create a transform map](../system-import-sets/t_CreateATransformMap.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Date and time the extraction table record was last saved.
 
 ## What to do next
 
-After the extraction process is run, use import sets to map imported data into ServiceNow AI Platform tables. For more information, see [Import sets](../../../administer/import-sets/reference/import-sets-landing-page.md).
+After the extraction process is run, use import sets to map imported data into ServiceNow AI Platform tables. For more information, see [Import sets](../system-import-sets/import-sets-landing-page.md).
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](erp-canvas-extraction-tables.md)
 

@@ -42,5 +42,5 @@ Document tasks are manually initiated when you click the **Initiate document tas
 
 **Note:** Initiating document tasks from a Preview model is not available for a word document template.
 
-**Parent Topic:**[Using Document Templates: HR Service Delivery](../concept/understanding-doc-templates.md)
+**Parent Topic:**[Using Document Templates: HR Service Delivery](understanding-doc-templates.md)
 

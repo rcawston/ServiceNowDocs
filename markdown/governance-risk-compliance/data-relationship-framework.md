@@ -100,7 +100,7 @@ The Data Relationships Framework application consists of the following modules:
 
     ![Sample main node configuration.](../../grc-business-continuity-management/image/main-node-configuration-bcm.png)
 
-    For information on creating a main node configuration record, see [Create a main node configuration record](../task/create-a-main-node-config-record.md).
+    For information on creating a main node configuration record, see [Create a main node configuration record](create-a-main-node-config-record.md).
 
 2.  Relationship registries: Configure the relationship registries for the main node. Relationship registries are part of the 360-degree configuration in GRC where a user can define how one object has a related object. The configuration details of a relationship registry record such as its name, table, relationship type, relationship table, and so on are shown in the form.
 
@@ -110,13 +110,13 @@ The Data Relationships Framework application consists of the following modules:
 
     ![Sample relationship registry record.](../image/rela-registry-record-sample.png)
 
-    For information on creating a relationship registry record, see [Create a relationship registry record](../task/create-a-rela-registry-record.md).
+    For information on creating a relationship registry record, see [Create a relationship registry record](create-a-rela-registry-record.md).
 
 3.  Properties: Configure the properties of the Data Relationships Framework as shown in the following example.
 
     ![Properties for the Data Relationship Framework.](../image/data-rela-framework-properties.png)
 
-    For information on configuring the properties, see [Configure the properties for the Data Relationships Framework](../task/configure-properties-for-data-rel-framework.md).
+    For information on configuring the properties, see [Configure the properties for the Data Relationships Framework](configure-properties-for-data-rel-framework.md).
 
 
 ## Use cases for the Data Relationships Framework
@@ -168,14 +168,14 @@ The Data Relationships Framework has the following limitations:
 -   The data fetched for an object cannot be reused for another purpose.
 -   The sources provided in the framework must be used for fetching the dependency updates into an object. It is not possible to configure your own sources for fetching the data.
 
-For more information on the administrative setup for the configuration records, see [Dependency Configuration records](../../grc-business-continuity-management/concept/dependency-config-modules.md).
+For more information on the administrative setup for the configuration records, see [Dependency Configuration records](dependency-config-modules.md).
 
--   **[Create a main node configuration record](../task/create-a-main-node-config-record.md)**  
+-   **[Create a main node configuration record](create-a-main-node-config-record.md)**  
 Create a main node configuration record to configure the source for fetching the dependencies. You can configure the details of the main node such as its name, source, table name, filer conditions, and so on.
--   **[Create a relationship registry record](../task/create-a-rela-registry-record.md)**  
+-   **[Create a relationship registry record](create-a-rela-registry-record.md)**  
 Create a relationship registry record to set up relationship between the record and object defined in the table. You can configure the details of the main node such as its name, source, table name, filer conditions, and so on.
--   **[Configure the properties for the Data Relationships Framework](../task/configure-properties-for-data-rel-framework.md)**  
+-   **[Configure the properties for the Data Relationships Framework](configure-properties-for-data-rel-framework.md)**  
 Configure the properties for the Data Relationships Framework application.
 
-**Parent Topic:**[BCM reference](../../grc-business-continuity-management/reference/bcm-reference.md)
+**Parent Topic:**[BCM reference](bcm-reference.md)
 

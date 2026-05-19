@@ -55,7 +55,7 @@ When the Explicit Roles plugin is activated:
 
 Do not move system update sets among instances with and without the Explicit Roles plugin enabled. For more information, see [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/system-update-sets.md).
 
-**Note:** This plugin also requires the [Contextual Security Manager](../../roles/reference/r_ContextualSecurity.md) plugin.
+**Note:** This plugin also requires the [Contextual Security Manager](access-control/r_ContextualSecurity.md) plugin.
 
 ## glide.security.explicit\_roles.do\_not\_fix behavior
 

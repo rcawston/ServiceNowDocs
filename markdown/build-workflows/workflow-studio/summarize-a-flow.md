@@ -49,5 +49,5 @@ Now Assist for Creator generates a summary of the flow. The flow summary also di
 
 You can regenerate the flow summary by selecting the **Refresh summary** icon next to the summary creation date.
 
-**Parent Topic:**[Building flows](../concept/flows.md)
+**Parent Topic:**[Building flows](flows.md)
 

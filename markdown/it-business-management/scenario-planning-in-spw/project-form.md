@@ -299,7 +299,7 @@ Business capabilities of this planning item.
 **Related topics**  
 
 
-[Create planning items from the roadmap view](../../spw-roadmap/task/create-new-items-from-a-roadmap.md)
+[Create planning items from the roadmap view](create-new-items-from-a-roadmap.md)
 
-[Add planning items to Prioritization](../../spw-prioritization/task/add-new-items-to-backlog-alignment-planner-workspace.md)
+[Add planning items to Prioritization](add-new-items-to-backlog-alignment-planner-workspace.md)
 

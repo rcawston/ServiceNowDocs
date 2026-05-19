@@ -26,10 +26,10 @@ Role required:
 
 Inspection and audit agents can also create actions for specific questions while completing a smart assessment or survey from the mobile app. When an agent creates an action for a question, the system also generates a related finding record based on the response. For more information, see the following:
 
--   [Create actions and findings for the smart assessment questionnaire from mobile app](../../hs-health-safety-mobile/task/hs-create-actions-findings-smart-assessments.md).
--   [Create actions and findings for survey responses from mobile app](../../hs-health-safety-mobile/task/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
+-   [Create actions and findings for the smart assessment questionnaire from mobile app](../health-and-safety/hs-create-actions-findings-smart-assessments.md).
+-   [Create actions and findings for survey responses from mobile app](../health-and-safety/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
 
-For information on adding an action for a safety inspection or audit through Mobile Agent, see [Add actions in mobile app](../../hs-health-safety-mobile/task/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
+For information on adding an action for a safety inspection or audit through Mobile Agent, see [Add actions in mobile app](../health-and-safety/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
 
 ## Procedure
 
@@ -85,7 +85,7 @@ Steps
 
 4.  On the form, fill in the fields.
 
-    For information on field descriptions, see [Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md).
+    For information on field descriptions, see [Health and Safety action form](../health-and-safety-core/hs-action-form.md).
 
 5.  Select **Save**.
 
@@ -108,5 +108,5 @@ Steps
     -   The action is duplicated and appears in the **My Tasks** list of the assigned user on the Employee Center.
     -   The action is also listed in the **Actions** list on the Health and Safety Workspace.
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](hs-safety-inspections.md)
 

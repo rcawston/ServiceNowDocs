@@ -57,7 +57,7 @@ Description
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Document Viewer](../../../use/using-forms/concept/Documentviewer.md)
+**Parent Topic:**[Document Viewer](Documentviewer.md)
 
 **Related topics**  
 

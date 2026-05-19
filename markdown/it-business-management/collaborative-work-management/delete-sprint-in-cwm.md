@@ -38,5 +38,5 @@ Role required: sn\_cwm.cwm\_user
 
 The sprint is deleted and any active incomplete work items that were scheduled into this sprint are moved to the backlog.
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](agile-sprint-planning-in-cwm.md)
 

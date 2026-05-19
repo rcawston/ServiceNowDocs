@@ -30,7 +30,7 @@ You control the type of requests that appear by configuring the request filters.
 -   HR child cases that are rolled up with the parent do not appear as separate requests on the requests page.
 -   Non-HR child cases \(such as IT or service catalog requests\) appear both as a separate request and as part of the roll-up on the parent case.
 
-To learn more, including how to configure the view for the subject person of an HR case, see [Use HR Case Management](../../human-resources/concept/c_HRCaseManagement.md).
+To learn more, including how to configure the view for the subject person of an HR case, see [Use HR Case Management](../hr-service-delivery/c_HRCaseManagement.md).
 
 ## Preconfigured filters
 

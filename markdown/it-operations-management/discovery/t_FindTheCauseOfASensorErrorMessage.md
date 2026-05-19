@@ -57,7 +57,7 @@ This process requires that you identify the following:
 8.  After determining the error details, you can fix the JavaScript file.
 
 
-**Parent Topic:**[Discovery error messages](../concept/c_DiscoveryErrorMessages.md)
+**Parent Topic:**[Discovery error messages](c_DiscoveryErrorMessages.md)
 
 **Related topics**  
 

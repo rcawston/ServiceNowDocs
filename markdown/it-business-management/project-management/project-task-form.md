@@ -77,7 +77,7 @@ State
 
 </td><td>
 
-Current state of the project. The states include: Pending, Open, Work in Progress, Closed Complete, Closed Incomplete, Closed Skipped.The state is automatically rolled up from the project tasks. For more information, see [Project calculation](../concept/c_ProjectWorkbenchProjectCalc.md) and [Parent-child rollup task calculations](../concept/c_ParentChildRollupTaskCalcs.md).
+Current state of the project. The states include: Pending, Open, Work in Progress, Closed Complete, Closed Incomplete, Closed Skipped.The state is automatically rolled up from the project tasks. For more information, see [Project calculation](c_ProjectWorkbenchProjectCalc.md) and [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md).
 
 </td></tr><tr><td>
 
@@ -209,7 +209,7 @@ Constraint date
 
 </td><td>
 
-A read-only field that determines the start date for tasks with **Start no earlier than**, **Start no later than**, and **Start on specific date** constraints. Use the **Move project** related link to change this date. For more information, see [Change the planned start date of a project](../task/change-planned-start-date-of-project.md).
+A read-only field that determines the start date for tasks with **Start no earlier than**, **Start no later than**, and **Start on specific date** constraints. Use the **Move project** related link to change this date. For more information, see [Change the planned start date of a project](change-planned-start-date-of-project.md).
 
 </td></tr><tr><td>
 
@@ -281,10 +281,10 @@ Original planned date and time for the task to end.
 
 |Field|Description|
 |-----|-----------|
-|Checklist|[Checklist](../task/t_CreateAProjectTaskChecklist.md) to track items that must be completed for the task.|
+|Checklist|[Checklist](t_CreateAProjectTaskChecklist.md) to track items that must be completed for the task.|
 
 **Related topics**  
 
 
-[Create a project task from a project](../task/t_CreateATaskFromAProject.md)
+[Create a project task from a project](t_CreateATaskFromAProject.md)
 

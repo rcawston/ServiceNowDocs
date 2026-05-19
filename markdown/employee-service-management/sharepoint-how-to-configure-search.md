@@ -63,7 +63,7 @@ Site URL Path
 
 Value of the relative URL of the Microsoft SharePoint site for indexing. For example, if your site URL is [https://sncplatform.sharepoint.com/Company/Medicalbenefits](https://sncplatform.sharepoint.com/Company/Hr), the relative URL of the site is `Company/Medicalbenefits`. **Note:** This URL is case-sensitive.
 
-Subsites are automatically indexed. See [SharePoint Online Search Connector search results](../reference/using-search.md).
+Subsites are automatically indexed. See [SharePoint Online Search Connector search results](using-search.md).
 
 </td></tr><tr><td>
 
@@ -128,14 +128,14 @@ List of URLs that are excluded from indexing. These URLs are not indexed by the 
     |State|Overall crawl status.|
     |Marked for deletion|Value is **False** to keep the subsite. Value is **True** to delete the subsite.|
 
-    To know more about how to exclude sites, see [Exclude sites from indexing](../task/how-to-exclude-sites-indexing.md).
+    To know more about how to exclude sites, see [Exclude sites from indexing](how-to-exclude-sites-indexing.md).
 
 
 ## Result
 
 The sites, subsites, folders, and files are indexed and displayed in your search results. Use filters to verify the progress and manage the indexing status by navigating to **SharePoint Online Search Connector** &gt; **SharePoint Sites**.
 
-After site indexing is complete, you can search and discover the site content from multiple channels, like Employee Service Center, Service Portal, Now Mobile app, and Virtual Agent. For more information, see [SharePoint Online Search Connector search results](../reference/using-search.md).
+After site indexing is complete, you can search and discover the site content from multiple channels, like Employee Service Center, Service Portal, Now Mobile app, and Virtual Agent. For more information, see [SharePoint Online Search Connector search results](using-search.md).
 
 ## What to do next
 

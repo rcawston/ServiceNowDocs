@@ -99,7 +99,7 @@ Role required: requester
     -   Use the instance options on the Order Status page to display the pre-defined columns.
     -   You can display either the RITM number or the name of the catalog item. By default, the name of the catalog item is displayed.
 
-**Parent Topic:**[Service Catalog in Service Portal](../concept/catalog-on-portal.md)
+**Parent Topic:**[Service Catalog in Service Portal](catalog-on-portal.md)
 
 **Related topics**  
 

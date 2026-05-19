@@ -39,5 +39,5 @@ Roles required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, and sn\_
 4.  To save the entity class rule, click **Save**.
 
 
-**Parent Topic:**[Entity class rules](../concept/entity-class-rules-in-risk-ws.md)
+**Parent Topic:**[Entity class rules](entity-class-rules-in-risk-ws.md)
 

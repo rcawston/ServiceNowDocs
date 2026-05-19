@@ -46,5 +46,5 @@ Role required: admin
 8.  Select **Remove** to remove a text.
 
 
-**Parent Topic:**[Drawing and editing tools in the CAD editor](../concept/editing-tools-cad-editor.md)
+**Parent Topic:**[Drawing and editing tools in the CAD editor](editing-tools-cad-editor.md)
 

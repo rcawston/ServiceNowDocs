@@ -23,7 +23,7 @@ The ServiceNow® CMDB Coverage application enables you to assess and improve the
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application](../task/cmdb-coverage-configure-initialize.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application](cmdb-coverage-configure-initialize.md)
 
 </td></tr><tr><td>
 

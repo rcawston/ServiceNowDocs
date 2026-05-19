@@ -16,7 +16,7 @@ Create a schedule within an unattended bot process to enable users to execute jo
 
 ## Before you begin
 
-Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form, while you are creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
+Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form, while you are creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
 
 \(Optional\) Configure the system properties related to **Activity Stream**, to add or remove the fields. The changes to these fields are captured in the work notes. For more information, see [Configure the system properties for an activity stream in RPA Hub](configure-sys-properties-activity.md).
 
@@ -47,7 +47,7 @@ You can also create a schedule from the Robot Calendar tab. For more information
 8.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 
 **Related topics**  
 

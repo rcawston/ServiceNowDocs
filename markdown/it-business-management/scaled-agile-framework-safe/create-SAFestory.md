@@ -180,7 +180,7 @@ Work notes indicating the progress of the story at various stages in its life cy
 
 ## What to do next
 
--   Use the related links and lists of the story to create tasks for this story, or add dependencies of the current story to other stories. You can also convert this story into a SAFe feature or split this story into two, based on your requirements. For more information, see [Related links and lists for a SAFe story](../reference/related-links-and-lists-of-a-safe-story.md).
+-   Use the related links and lists of the story to create tasks for this story, or add dependencies of the current story to other stories. You can also convert this story into a SAFe feature or split this story into two, based on your requirements. For more information, see [Related links and lists for a SAFe story](related-links-and-lists-of-a-safe-story.md).
 -   You can create a story with the same details as this story using the **Insert** or **Insert and Stay** options from the story additional actions \(![Additional options](../../agile-development/image/additional-options.png)\).
 
     When you use **Insert and Stay**, the form of the newly created story remains open so that you can modify its details, create more stories with these details, or do both.
@@ -192,10 +192,10 @@ Work notes indicating the progress of the story at various stages in its life cy
     -   Set the glide.ui.task.insert and glide.ui.advance properties to **true** to access these actions.
     -   These actions are not allowed on stories added from the triage board.
 
--   **[Related links and lists for a SAFe story](../reference/related-links-and-lists-of-a-safe-story.md)**  
+-   **[Related links and lists for a SAFe story](related-links-and-lists-of-a-safe-story.md)**  
 Use the related links and related lists in your SAFe story form based on the actions that you need to perform on your story.
 -   **[Add dependencies to your SAFe stories](add-dependencies-safe-stories.md)**  
 Set dependencies to your SAFe story by adding prerequisite and dependent stories to it. Using the SAFe Planning board, you can distinguish these dependencies between stories during your big room planning and replan the stories as required.
 
-**Parent Topic:**[SAFe entities](../concept/key-entities-SAFe.md)
+**Parent Topic:**[SAFe entities](key-entities-SAFe.md)
 

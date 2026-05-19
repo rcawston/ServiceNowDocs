@@ -45,7 +45,7 @@ The project workbench scales to fit the available browser height. If necessary, 
 
 ![The project workbench](../image/ProjectWorkbench.png "Project Workbench")
 
--   **[Access the project workbench](../task/t_AccessTheProjectWorkbench.md)**  
+-   **[Access the project workbench](t_AccessTheProjectWorkbench.md)**  
 Access the project workbench from the Project form or from the application navigator.
 -   **[Components of project workbench](components-project-workbench.md)**  
 The project workbench displays project information in two distinct areas. The top pane displays the project visualization, and the bottom pane displays phase details in a list view or visual task board. There is also a header above the workbench that includes several buttons and controls.

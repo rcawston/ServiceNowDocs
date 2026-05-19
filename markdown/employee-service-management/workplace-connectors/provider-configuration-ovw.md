@@ -15,14 +15,14 @@ breadcrumb: [Setup Workplace Connectors for badging data, Configure Workplace Co
 
 To register details for a new provider, configure a provider to import data from a badging table or use the web hook APIs. The badging data is shared with Workplace Connectors by badging vendors. The badging data is processed and transformed to derive space occupancy metrics in your organization.
 
-1.  [Configure badging table data](../task/provider-configuration-wsd-connectors.md)  
+1.  [Configure badging table data](provider-configuration-wsd-connectors.md)  
 Register details for a new provider, configure a badging table and import data from the source table to the target table to integrate with the badging system.
-2.  [Configure a webhook event](../task/configure-webhook-restapi.md)  
+2.  [Configure a webhook event](configure-webhook-restapi.md)  
 Configure a webhook API event in the Provider configuration table to enable badging vendors to share the badging data collected from badging tables using the webhook event.
 
 **Parent Topic:**[Setup Workplace Connectors for badging data](setup-workplace-connectors.md)
 
-**Previous topic:**[Configure connectors for badging data](../task/workplace-connector-configuration.md)
+**Previous topic:**[Configure connectors for badging data](workplace-connector-configuration.md)
 
-**Next topic:**[Configure badging table data](../task/provider-configuration-wsd-connectors.md)
+**Next topic:**[Configure badging table data](provider-configuration-wsd-connectors.md)
 

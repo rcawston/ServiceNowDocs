@@ -29,7 +29,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     The Reservation portal is opened with pre-filled details as per your co-worker's reservation. You can select a suitable workplace by yourself.
 
-    For more information on how to make a reservation on the Reservation portal, refer to [Create a reservation](create-reservation-request-1.md).
+    For more information on how to make a reservation on the Reservation portal, refer to [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 4.  To automatically reserve the most suitable and nearby space to your co-worker, select **Reserve a space for me**.
 
@@ -38,12 +38,12 @@ Role required: sn\_wsd\_core.workplace\_user
     **Note:** This option is unavailable for multi-reservation.
 
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -59,7 +59,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

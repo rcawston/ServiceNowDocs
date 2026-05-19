@@ -91,5 +91,5 @@ Your connector admin needs this item to configure a Notion external content conn
 
 For details on creating and configuring a Notion external content connector, see [Create a Notion external content connector](create-ext-cont-connector-notion.md).
 
-**Parent Topic:**[Notion external content connector](../concept/notion-external-content-connector.md)
+**Parent Topic:**[Notion external content connector](notion-external-content-connector.md)
 

@@ -37,10 +37,10 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 6.  Update the details, as required.
 
-    For a description of the field values, see [Create talent form](../reference/new-talent-form.md).
+    For a description of the field values, see [Create talent form](new-talent-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Job prospects](../concept/job-leads.md)
+**Parent Topic:**[Job prospects](job-leads.md)
 

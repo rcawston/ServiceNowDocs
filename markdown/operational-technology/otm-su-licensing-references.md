@@ -13,7 +13,7 @@ breadcrumb: [Operational Technology Management licensing and subscriptions, Oper
 
 Use reference topics to gain valuable insights on the components installed with OTM licensing, subscription forms for OTM products, and an overview of the OTM licensing dashboard. Navigate the subtopics to access specific guidance and references on each of these critical aspects, helping you effectively manage your OTM subscriptions and licensing requirements.
 
--   **[Components installed with ITOM SU Licensing for OTM](../../it-operations-management/reference/components-installed-otm-su-licensing.md)**  
+-   **[Components installed with ITOM SU Licensing for OTM](components-installed-otm-su-licensing.md)**  
 Several types of components are installed with activation of the OTM SU Licensing plugin, including scheduled jobs and tables.
 -   **[Subscriptions form for the OTM products](otm-subscriptions-form.md)**  
 Learn about the essential fields and indicators found on the Subscriptions form for our products, enabling streamlined subscription management and clarity in your OTM product usage.

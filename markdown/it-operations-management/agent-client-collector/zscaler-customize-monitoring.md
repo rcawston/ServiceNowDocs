@@ -21,7 +21,7 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-For details on customizing the Zscaler monitoring check, see [Perform Zscaler remediation](../concept/zscaler-remediation-concept.md).
+For details on customizing the Zscaler monitoring check, see [Perform Zscaler remediation](zscaler-remediation-concept.md).
 
 ## Procedure
 

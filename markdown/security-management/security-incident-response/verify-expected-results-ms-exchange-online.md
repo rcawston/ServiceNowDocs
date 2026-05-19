@@ -325,7 +325,7 @@ Delete this Email Search record from your ServiceNow AI Platform instance. This 
     After an email search is successfully completed, evaluate the results. If you determine that emails require remediation, you are now ready to delete emails, or request delete approval.
 
 
-**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+**Parent Topic:**[Microsoft Exchange Online integration](ms-exchange-online-lookups.md)
 
 **Previous topic:**[Configure the Microsoft Exchange Online integration](msx_configure.md)
 

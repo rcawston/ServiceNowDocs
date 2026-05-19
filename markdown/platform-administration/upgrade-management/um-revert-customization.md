@@ -49,5 +49,5 @@ To identify customized objects, the system adds a corresponding record in the Cu
     -   The **Disposition** changes from **Skipped** to **Reverted**.
     -   After you revert a customization, you have the option to click **Reapply Changes** to reapply your customizations \(undo the revert\).
 
-**Parent Topic:**[Reviewing upgrade history](../concept/um-review-history.md)
+**Parent Topic:**[Reviewing upgrade history](um-review-history.md)
 

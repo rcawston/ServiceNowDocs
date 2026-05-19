@@ -42,12 +42,12 @@ By default, widgets try to load and display data simultaneously. This can cause 
 4.  Click **Save**.
 
 
-**Parent Topic:**[Managing portal performance](../concept/improve-manage.md)
+**Parent Topic:**[Managing portal performance](improve-manage.md)
 
 **Related topics**  
 
 
-[Portal performance optimization](../concept/ec-load-experience-optimization.md)
+[Portal performance optimization](ec-load-experience-optimization.md)
 
 [Manage connected content from topic pages](mnge-content-topics.md)
 

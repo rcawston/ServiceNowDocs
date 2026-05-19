@@ -62,5 +62,5 @@ By default, the system uses the WMI protocol for device classification of Window
 
 ## What to do next
 
-Run a discovery from the [Discovery schedule](../../discovery/task/t_CreateADiscoverySchedule.md#) to find Windows machines on your network.
+Run a discovery from the [Discovery schedule](t_CreateADiscoverySchedule.md#) to find Windows machines on your network.
 

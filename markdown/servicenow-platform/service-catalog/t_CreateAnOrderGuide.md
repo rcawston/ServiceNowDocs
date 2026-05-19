@@ -27,7 +27,7 @@ Role required: catalog\_admin or admin
 
 3.  Fill in the fields as appropriate.
 
-    For more information about the fields and their descriptions on the Order guide form, see [Order guide form](../reference/order-guide-form.md).
+    For more information about the fields and their descriptions on the Order guide form, see [Order guide form](order-guide-form.md).
 
 4.  Right-click the form header and click **Save**.
 
@@ -45,5 +45,5 @@ Role required: catalog\_admin or admin
 -   **[Configure a sequence to fulfill items in order guides](generate-order-guide-sequence.md)**  
 Configure a sequence in Playbooks to fulfill items in order guides. Once you define a sequence, you don't have to manually check whether required items have been fulfilled before fulfilling their dependent items.
 
-**Parent Topic:**[Order guides](../concept/c_ServiceCatalogOrderGuides.md)
+**Parent Topic:**[Order guides](c_ServiceCatalogOrderGuides.md)
 

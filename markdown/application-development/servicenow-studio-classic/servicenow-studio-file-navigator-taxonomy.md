@@ -17,9 +17,9 @@ Learn more about each metadata file type and its corresponding primary table in 
 
 **Note:** Any additional extensions of the sys\_metadata table are automatically included in the Navigator panel in the appropriate section.
 
-For each file category, see the file types that you can create and their corresponding primary table. For more information about navigating to a file's primary table, see [Navigate directly to a table in ServiceNow Studio](../task/qs-navigate-directly-to-table.md).
+For each file category, see the file types that you can create and their corresponding primary table. For more information about navigating to a file's primary table, see [Navigate directly to a table in ServiceNow Studio](qs-navigate-directly-to-table.md).
 
-Metadata-specific admin roles are existing roles on the ServiceNow AI Platform that provide developers with admin access to a specific metadata type. For example, a script include admin allows a developer to create, read, update, or delete any script include on the ServiceNow AI Platform and perform development on script includes in ServiceNow Studio. For more information, see [ServiceNow Studio personas and roles](../concept/sn-studio-personas-roles.md).
+Metadata-specific admin roles are existing roles on the ServiceNow AI Platform that provide developers with admin access to a specific metadata type. For example, a script include admin allows a developer to create, read, update, or delete any script include on the ServiceNow AI Platform and perform development on script includes in ServiceNow Studio. For more information, see [ServiceNow Studio personas and roles](sn-studio-personas-roles.md).
 
 ## AI files
 
@@ -232,7 +232,7 @@ External trigger
 
 </td><td>
 
-External triggers are reusable triggers that respond to external events through webhooks. When an event occurs in the configured third-party application that meets the specified conditions, the trigger is activated.For more information, see [Create a saved external trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-saved-external-trigger.md).
+External triggers are reusable triggers that respond to external events through webhooks. When an event occurs in the configured third-party application that meets the specified conditions, the trigger is activated.For more information, see [Create a saved external trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-workflows/create-saved-external-trigger.md).
 
 </td><td>
 
@@ -320,7 +320,7 @@ Trigger
 
 </td><td>
 
-Triggers contain the start conditions for your automation. You can create separate triggers for each flow or create a reusable saved trigger that you can use in multiple flows.For more information, see [Building triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/building-triggers.md).
+Triggers contain the start conditions for your automation. You can create separate triggers for each flow or create a reusable saved trigger that you can use in multiple flows.For more information, see [Building triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-workflows/building-triggers.md).
 
 </td><td>
 
@@ -689,7 +689,7 @@ Form
 
 A form is a content page that displays fields and values for a single record from a database table.
 
- For more information, see [Forms in Table Builder](../../../administer/form-builder/concept/form-view-configuration.md).
+ For more information, see [Forms in Table Builder](../form-builder-glide-family-release/form-view-configuration.md).
 
 </td><td>
 
@@ -707,7 +707,7 @@ Form section
 
 Use sections to design the layout of a form. For example, you can have one column or two.
 
- For more information, see [Customize your form layout in Table Builder](../../../administer/form-builder/task/customize-form-layout.md).
+ For more information, see [Customize your form layout in Table Builder](../form-builder-glide-family-release/customize-form-layout.md).
 
 </td><td>
 
@@ -761,9 +761,9 @@ Table
 
 Tables are the foundation of how the ServiceNow AI Platform stores data. When you view a table as a list, each row is a record, and each column is a field from the record. For example, the Incident table has a record for every customer interaction, or incident.
 
- For more information, see [ServiceNow AI Platform tables and data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/tables-fields-and-forms.md) and [Table Builder](../../../administer/form-builder/concept/tb-landing-page.md).
+ For more information, see [ServiceNow AI Platform tables and data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/tables-fields-and-forms.md) and [Table Builder](../form-builder-glide-family-release/tb-landing-page.md).
 
- Preferred table admins can configure preferred tables for Table Builder. For more information, see [ServiceNow Studio personas and roles](../concept/sn-studio-personas-roles.md).
+ Preferred table admins can configure preferred tables for Table Builder. For more information, see [ServiceNow Studio personas and roles](sn-studio-personas-roles.md).
 
 </td><td>
 
@@ -781,7 +781,7 @@ Table Column
 
 A table column represents a field from a record. For example, a user record might have a column for first name and a separate column for family name.
 
- For more information, see [Table properties in Table Builder](../../../administer/form-builder/reference/table-parameters.md).
+ For more information, see [Table properties in Table Builder](../form-builder-glide-family-release/table-parameters.md).
 
 </td><td>
 
@@ -2035,7 +2035,7 @@ Fix Script
 
 Fix scripts are server-side JavaScript that run after a custom application is installed or upgraded. You can include fix scripts to make changes that are necessary for the data integrity or product stability of an application.
 
- For more information, see [Fix scripts](../../applications/concept/c_FixScripts.md) and [Create a fix script](../../applications/task/t_CreateFixScripts.md).
+ For more information, see [Fix scripts](../c_FixScripts.md) and [Create a fix script](../t_CreateFixScripts.md).
 
 </td><td>
 
@@ -2144,7 +2144,7 @@ Components
 
 </td><td>
 
-Components are used in the UI Builder to build pages. Components have an interface that an end user can view and interact with. Components can talk to each other through events and properties. Commonly used components include Heading, Image, List, Form, and Button.For more information, see [Customize UI Builder pages using components](../../../administer/ui-builder/concept/work-components.md).
+Components are used in the UI Builder to build pages. Components have an interface that an end user can view and interact with. Components can talk to each other through events and properties. Commonly used components include Heading, Image, List, Form, and Button.For more information, see [Customize UI Builder pages using components](../ui-builder/work-components.md).
 
 </td><td>
 
@@ -2165,7 +2165,7 @@ Controllers are a type of data resource that includes data and event logic and e
 -   Data controllers contain data resources and can be manually added to a page.
 -   UI controllers are added to pages when using page templates and can't be added manually.
 
-For more information, see [Bind data to UI Builder pages using controllers \(advanced feature\)](../../../administer/ui-builder/concept/controllers.md#).
+For more information, see [Bind data to UI Builder pages using controllers \(advanced feature\)](../ui-builder/controllers.md#).
 
 </td><td>
 
@@ -2181,7 +2181,7 @@ Experiences
 
 </td><td>
 
-Experiences are a collection of web pages for users to interact with an application.For more information, see [Create an experience for UI Builder](../../../administer/ui-builder/task/create-experience.md).
+Experiences are a collection of web pages for users to interact with an application.For more information, see [Create an experience for UI Builder](../ui-builder/create-experience.md).
 
 </td><td>
 
@@ -2197,7 +2197,7 @@ Page collections
 
 </td><td>
 
-Page collections are groups of pages that can be reused in experiences within tabs or modals.For more information, see [Page collections](../../../administer/ui-builder/concept/page-collections.md).
+Page collections are groups of pages that can be reused in experiences within tabs or modals.For more information, see [Page collections](../ui-builder/page-collections.md).
 
 </td><td>
 
@@ -2213,7 +2213,7 @@ UI interactions
 
 </td><td>
 
-UI interactions are reusable flows that combine UI elements and logic into a single unit that you can trigger from component events in UI Builder. They help you avoid repeating the same wiring across multiple pages and make your designs easier to maintain.For more information, see [UI interactions](../../../administer/ui-builder/concept/uib-ui-interactions.md).
+UI interactions are reusable flows that combine UI elements and logic into a single unit that you can trigger from component events in UI Builder. They help you avoid repeating the same wiring across multiple pages and make your designs easier to maintain.For more information, see [UI interactions](../ui-builder/uib-ui-interactions.md).
 
 </td><td>
 
@@ -2468,7 +2468,7 @@ Portal
 
 Portals provide users with access to the services, information, and resources they need to get their work done quickly and efficiently. Work with portals in UI Builder.
 
- For more information, see [Configure UI Builder portal experiences](../../../administer/ui-builder/concept/ui-builder-portal-settings.md).
+ For more information, see [Configure UI Builder portal experiences](../ui-builder/ui-builder-portal-settings.md).
 
 </td><td>
 
@@ -2648,7 +2648,7 @@ Workspace
 
 Workspaces are spaces that provide agents and managers with tools to help answer customer questions and resolve customer problems. Workspaces are primarily used for request and fulfillment processes, such as a service desk to manage tickets.
 
- For more information, see [Configurable Workspace UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md) and [Workspace Builder](../../workspace-builder/concept/workspace-builder-landing.md).
+ For more information, see [Configurable Workspace UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md) and [Workspace Builder](../workspace-builder/workspace-builder-landing.md).
 
 </td><td>
 
@@ -2659,5 +2659,5 @@ sys\_ux\_page\_registry
 Workspace Builder
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow Studio reference](../concept/servicenow-studio-reference.md)
+</table>**Parent Topic:**[ServiceNow Studio reference](servicenow-studio-reference.md)
 

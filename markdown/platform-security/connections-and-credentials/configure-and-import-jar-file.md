@@ -28,5 +28,5 @@ The CyberArk external vault stores sensitive credentials and the ServiceNow inst
 2.  [Configure a connection to send OAuth request via the MID Server using external vault](configure-oauth-2-0-authentication.md).
 
 
-**Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](../concept/oauth-2-0-support-in-external-credential.md)
+**Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](oauth-2-0-support-in-external-credential.md)
 

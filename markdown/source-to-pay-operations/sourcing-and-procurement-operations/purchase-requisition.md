@@ -164,7 +164,7 @@ Shipping method
 
 </td><td>
 
-Details of the carrier, the applicable suppliers, and the valid delivery location countries for those suppliers.For more information on shipping methods and handling fees, see [Handling fees](../concept/handling-fees.md).
+Details of the carrier, the applicable suppliers, and the valid delivery location countries for those suppliers.For more information on shipping methods and handling fees, see [Handling fees](handling-fees.md).
 
 </td></tr><tr><td>
 
@@ -259,7 +259,7 @@ Purchase Lines
 
 </td><td>
 
-Provides information of the individual lines under a purchase requisition for the referenced supplier. Handling fees, if applicable, are added as a purchase line for this purchase requisition. For more details, see [Purchase lines](purchase-lines.md).For information on shipping methods and handling fees, see [Handling fees](../concept/handling-fees.md).
+Provides information of the individual lines under a purchase requisition for the referenced supplier. Handling fees, if applicable, are added as a purchase line for this purchase requisition. For more details, see [Purchase lines](purchase-lines.md).For information on shipping methods and handling fees, see [Handling fees](handling-fees.md).
 
 </td></tr><tr><td>
 
@@ -358,7 +358,7 @@ Associated email communication that has been sent.
 -   sn\_shop.spend.requisition.autoorder
 -   sn\_shop.spend.requisition.autoorder.threshold
 
-    For more information on how the auto-order properties affect purchase order creation, see [Purchase requisition auto-order](../concept/pr-auto-order.md).
+    For more information on how the auto-order properties affect purchase order creation, see [Purchase requisition auto-order](pr-auto-order.md).
 
 -   sn\_shop.approval.reassessment.resend
 
@@ -380,7 +380,7 @@ The default states that are available for a purchase requisition are listed.
 
 For a list of all purchase requisition states and the conditions that trigger each state change, see [Purchase requisition, purchase order, and sourcing request states](pr-po-sr-states.md).
 
--   **[Handling fees](../concept/handling-fees.md)**  
+-   **[Handling fees](handling-fees.md)**  
 As an administrator, you can configure the conditions of a purchase request, which when met, adds a handling fee to that purchase request. Any field on the Purchase Request table can be used as part of the conditions to determine if a handling fee is to be applied for a purchase.
 
 **Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)

@@ -128,7 +128,7 @@ Procedure
     -   The state of the entity shouldn't be Expired or Canceled.
 3.  On the Sold Product Covered form, fill in the fields.
 
-    For a description of the field values, see [Sold product form](../../customer-service-management/reference/sold-product-form.md).
+    For a description of the field values, see [Sold product form](sold-product-form.md).
 
 4.  Select **Submit**.
 

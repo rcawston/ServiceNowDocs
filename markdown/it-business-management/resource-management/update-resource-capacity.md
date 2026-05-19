@@ -66,5 +66,5 @@ Capacity and availability for terminated resources is automatically updated to 0
 5.  Select **OK**.
 
 
-**Parent Topic:**[User resources and group resources](../reference/r_UserResourcesAndGroupResources.md)
+**Parent Topic:**[User resources and group resources](r_UserResourcesAndGroupResources.md)
 

@@ -52,9 +52,9 @@ AI Search is a ServiceNow AI Platform feature that is active by default.
 
 AI Search is enabled in Service Portal for all new and zBoot customers by default.
 
-If you're upgrading to Australia as an existing customer, AI Search is inactive in Service Portal by default. You can enable it by updating the portal record. For more information, see [Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md).
+If you're upgrading to Australia as an existing customer, AI Search is inactive in Service Portal by default. You can enable it by updating the portal record. For more information, see [Enable and configure AI Search in Service Portal](enable-ais-sp.md).
 
-**Note:** Search widgets that you copied or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances. For more information, see [Reclassify cloned or customized search widgets](../task/reclassify-search-widgets.md).
+**Note:** Search widgets that you copied or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances. For more information, see [Reclassify cloned or customized search widgets](reclassify-search-widgets.md).
 
 ## Configuring AI Search for Service Portal
 
@@ -69,7 +69,7 @@ Configure AI Search in Service Portal by defining the following:
     Defines how search results are displayed. For more information on defining a search results configuration, see [Define a composite dataset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-composite-dataset.md).
 
 
-You can change the search application configuration or search results configuration that your portal uses by updating the portal record. For more information, see [Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md).
+You can change the search application configuration or search results configuration that your portal uses by updating the portal record. For more information, see [Enable and configure AI Search in Service Portal](enable-ais-sp.md).
 
 To use a different search application or search results configuration for a specific search widget, update the widget instance options. AI Search is used in the following widgets:
 
@@ -79,21 +79,21 @@ To use a different search application or search results configuration for a spec
 -   [Catalog Homepage Search widget](cat-homepage-search-widget.md)
 -   [Knowledge Breadcrumbs widget](knowledge-breadcrumbs.md)
 
-To configure the search results payload to navigate to and display the appropriate portal page for a selected data source, define an AI Search results action. For more information, see [Define an AI Search Results Action](../task/ais-results-action.md).
+To configure the search results payload to navigate to and display the appropriate portal page for a selected data source, define an AI Search results action. For more information, see [Define an AI Search Results Action](ais-results-action.md).
 
 You can configure the action buttons in genius results by defining an Entity View Action Mapping \(EVAM\) action. For more information, see [Define an EVAM action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-evam-action.md).
 
-You can customize the look and feel of the AI Search experience in Service Portal by updating the relevant CSS variables. For more information on these variables, see [Theming for AI Search in Service Portal](../reference/ais-sp-css-vars.md).
+You can customize the look and feel of the AI Search experience in Service Portal by updating the relevant CSS variables. For more information on these variables, see [Theming for AI Search in Service Portal](ais-sp-css-vars.md).
 
 ## Browser support
 
 With AI Search enabled in Service Portal, users must log in with a browser such as Google Chrome, Mozilla Firefox, Microsoft Edge \(Chromium\), or Apple Safari.
 
--   **[Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md)**  
+-   **[Enable and configure AI Search in Service Portal](enable-ais-sp.md)**  
 Enable and define the AI Search experience in your portal.
--   **[Define an AI Search Results Action](../task/ais-results-action.md)**  
+-   **[Define an AI Search Results Action](ais-results-action.md)**  
 Configure which portal page opens when a result is selected from the list of search results.
--   **[Create a CSS include to override theming for AI Search in Service Portal](../task/css-override-ais-theming-sp.md)**  
+-   **[Create a CSS include to override theming for AI Search in Service Portal](css-override-ais-theming-sp.md)**  
 Override theming for AI Search in Service Portal to match your company branding.
 
 **Parent Topic:**[Configuring search in a portal](search-service-portal.md)

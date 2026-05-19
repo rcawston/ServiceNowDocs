@@ -46,5 +46,5 @@ Role required: sales\_agent
 
 [Add lead tasks](lead-management-use-tasks-tab.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](lead-management-using.md)
 

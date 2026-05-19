@@ -126,7 +126,7 @@ Select this check box to automatically look up values whenever a user changes a 
 16. Click **Update**.
 
 
-**Parent Topic:**[Service catalog data lookup](../concept/c_ServiceCatalogDataLookup.md)
+**Parent Topic:**[Service catalog data lookup](c_ServiceCatalogDataLookup.md)
 
 ## Add a data lookup value
 

@@ -65,5 +65,5 @@ Role required:
         -   Shared articles: Shows articles that have been shared with you. Select the article link to view details.
     -   All the activities related to the case task are displayed.
 
-**Parent Topic:**[Account onboarding](../concept/account-lifecycle-use.md)
+**Parent Topic:**[Account onboarding](account-lifecycle-use.md)
 

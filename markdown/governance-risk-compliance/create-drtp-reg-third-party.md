@@ -37,7 +37,7 @@ You can open this tab and set up the digital resilience information details.
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Create New Company form](../reference/create-third-party-company-form.md).
+    For more information, see [Create New Company form](create-third-party-company-form.md).
 
 4.  Select **Save**.
 
@@ -45,7 +45,7 @@ You can open this tab and set up the digital resilience information details.
 
 6.  On the form, fill in the fields.
 
-    For more information, see [Create New ICT third-party service provider form](../reference/create-ICT-thirdparty-serv-prov-form.md). Details on the fields are displayed in the example.
+    For more information, see [Create New ICT third-party service provider form](create-ICT-thirdparty-serv-prov-form.md). Details on the fields are displayed in the example.
 
     ![Resilience details.](../image/tpr-dig-res-info-sample-form.png)
 
@@ -53,7 +53,7 @@ You can open this tab and set up the digital resilience information details.
 
     You can also indicate if the third party is ultimate or a subsidiary. Include the name of the ICT third party and the type of service they provide, such as Software as a Service \(SaaS\). Optionally, you can note if an individual acts on behalf of the organization. Additionally, select the reporting currency and input the total annual expense for this engagement.
 
-    For more information, see [Create New Company form](../reference/create-third-party-company-form.md).
+    For more information, see [Create New Company form](create-third-party-company-form.md).
 
 7.  Select **Save**.
 
@@ -64,10 +64,10 @@ You can open this tab and set up the digital resilience information details.
 10. To delete the third party company record, select it from the list and select **Delete**.
 
 
--   **[Create New Company form](../reference/create-third-party-company-form.md)**  
+-   **[Create New Company form](create-third-party-company-form.md)**  
 On the Create New Company form, fill in the fields for the third party.
--   **[Create New ICT third-party service provider form](../reference/create-ICT-thirdparty-serv-prov-form.md)**  
+-   **[Create New ICT third-party service provider form](create-ICT-thirdparty-serv-prov-form.md)**  
 On the Create New ICT third-party service provider form, fill in the fields.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)
 

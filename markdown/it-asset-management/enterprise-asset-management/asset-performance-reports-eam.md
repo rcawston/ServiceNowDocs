@@ -51,17 +51,17 @@ Asset performance involves assessing how effectively and efficiently assets fulf
 -   Asset key performance indicators \(KPIs\) aren't calculated for pallets, consumable, and bundle assets.
 -   Asset KPIs aren't calculated by default.
 -   To track the asset KPIs that include Asset availability, MTBF, and MTTR, you must perform the following configurations:
-    1.  [Opt in to the model categories of the assets for which you want to monitor the KPIs](../task/opt-in-kpi-tracking-eam.md).
+    1.  [Opt in to the model categories of the assets for which you want to monitor the KPIs](opt-in-kpi-tracking-eam.md).
 
         **Note:** If a model category has child categories, selecting the parent category for performance tracking doesn’t automatically include the child categories. You should opt in to the specific child categories you want to track.
 
     2.  Define an operation schedule, which is a collection of schedule entries that specify the operational status and total operational duration for any entity that references the schedule. The schedule entries define calendar hours of operation within a schedule.
 
-        For details, see [Create an operational schedule for enterprise assets](../task/create-operational-schedule-eam.md)
+        For details, see [Create an operational schedule for enterprise assets](create-operational-schedule-eam.md)
 
         **Note:** If an operational schedule isn't defined, the Default operation schedule is applied.
 
-    3.  [Create an Asset schedule to associate the assets with an operational schedule](../task/create-asset-schedule-eam.md).
+    3.  [Create an Asset schedule to associate the assets with an operational schedule](create-asset-schedule-eam.md).
 
         **Note:** If an asset isn't associated with an operational schedule, the Default asset schedule will be applied.
 
@@ -213,8 +213,8 @@ The count of total outage records for an asset excluding planned outages account
 </table>## Accessing asset KPI reports
 
 -   Contextual side bar: You can view the following reports on the contextual side bar:
-    -   [Asset availability and related KPIs report for an individual asset](../task/view-availability-for-ent-aaset.md).
-    -   [Asset task time summary report for all enterprise assets](../task/view-total-time-spent-on-asset-eam.md).
+    -   [Asset availability and related KPIs report for an individual asset](view-availability-for-ent-aaset.md).
+    -   [Asset task time summary report for all enterprise assets](view-total-time-spent-on-asset-eam.md).
 -   Asset performance tab on the Asset analytics view: You can view the average values of the KPIs, including Average availability, Average MTTR, and Average MTBF, for all the assets that are being tracked. Additionally, you can see a list of the assets that contributed to the calculation of these KPIs. For details, see [Asset analytics overview for Enterprise Asset workspace](eam-asset-dboard.md).
 
 ## Scheduled job for calculation of asset KPIs
@@ -231,7 +231,7 @@ The count of total outage records for an asset excluding planned outages account
     -   Recall task
 -   The **Asset availability data collection** scheduled weekly job runs every Sunday to calculate the average values of the KPIs that includes Average availability, Average MTTR, and Average MTBF. The job then generates the reports in the Asset performance tab of the Asset analytics view.
 
--   **[Monitor enterprise asset performance with Asset KPIs report](../task/view-availability-for-ent-aaset.md)**  
+-   **[Monitor enterprise asset performance with Asset KPIs report](view-availability-for-ent-aaset.md)**  
 Track the asset availability and related KPI values in the report to see how well an enterprise asset is performing.
 
 **Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)

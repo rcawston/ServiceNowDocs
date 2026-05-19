@@ -77,7 +77,7 @@ In addition to the **description** meta tag for a question page, the Communities
 
 2.  In the list of portal pages, click the **ID** of the page to update \(in the example, **community\_question**\).
 
-    See the list of [pages in Communities that support SEO data](../reference/communities-seo-data.md).
+    See the list of [pages in Communities that support SEO data](communities-seo-data.md).
 
 3.  On the Page form:
 
@@ -86,5 +86,5 @@ In addition to the **description** meta tag for a question page, the Communities
     ![Two screenshots: first displaying page details and highlighting the Dynamic page title field, second highlighting the Meta tags tab and Dynamic page title variables tab with the related list.](../images/seo-page-form.png)
 
 
-**Parent Topic:**[Community pages that support SEO data](../reference/communities-seo-data.md)
+**Parent Topic:**[Community pages that support SEO data](communities-seo-data.md)
 

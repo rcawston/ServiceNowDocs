@@ -17,7 +17,7 @@ Publish a custom application to the application repository so that it can be ins
 
 ## Before you begin
 
-To enable a developer to publish an application to the application repository, delegate the Publish to App Repo permission to the developer. For more information, see [Delegate development and deployment permissions to personnel](t_AddADeveloper.md).
+To enable a developer to publish an application to the application repository, delegate the Publish to App Repo permission to the developer. For more information, see [Delegate development and deployment permissions to personnel](../delegated-development-and-deployment/t_AddADeveloper.md).
 
 Role required: admin or delegated\_developer with Publish To App Repo permission enabled
 
@@ -44,5 +44,5 @@ By default, after you publish an application to the application repository, all 
 
 The **Can Edit Application in Studio** property defaults to true for new applications, but you can set it false before publishing.
 
-For more information, see [Manage application entitlements from the application repository](manage-app-entitlements.md) and [Legacy - Access ServiceNow Studio](t_AccessStudio.md).
+For more information, see [Manage application entitlements from the application repository](manage-app-entitlements.md) and [Legacy - Access ServiceNow Studio](../servicenow-studio-classic/t_AccessStudio.md).
 

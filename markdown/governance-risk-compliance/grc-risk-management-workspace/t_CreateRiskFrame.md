@@ -44,5 +44,5 @@ Role required: sn\_risk.manager
 7.  Click **Save**.
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

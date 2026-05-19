@@ -28,9 +28,9 @@ The Hermes Messaging Service architecture is built on the following components.
 
 [Hermes Messaging Service security model](hermes-messaging-service-security-model.md)
 
-[Hermes Messaging Service system properties](../reference/hermes-messaging-service-properties.md)
+[Hermes Messaging Service system properties](hermes-messaging-service-properties.md)
 
-[Hermes Messaging Service roles](../reference/hermes-messaging-service-roles.md#)
+[Hermes Messaging Service roles](hermes-messaging-service-roles.md#)
 
-[Hermes Messaging Service domain separation](../reference/hermes-messaging-service-domain-separation.md)
+[Hermes Messaging Service domain separation](hermes-messaging-service-domain-separation.md)
 

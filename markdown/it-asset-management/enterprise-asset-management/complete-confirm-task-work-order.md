@@ -53,5 +53,5 @@ The state of the Confirm task changes from Open to Closed Complete. The Enterpri
 
 The agent who is assigned to the associated work order must complete and close the Pick Up task.
 
-**Parent Topic:**[Managing work for your enterprise assets](../concept/managing-work-enterprise-assets.md)
+**Parent Topic:**[Managing work for your enterprise assets](managing-work-enterprise-assets.md)
 

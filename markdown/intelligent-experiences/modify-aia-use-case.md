@@ -33,9 +33,9 @@ Role required: sns\_aia.admin
     -   [Determine the channels to invoke your agentic workflow.](channels-access-aw.md).
     **Note:** Some fields aren't editable if the agent is associated with a Now Assist application. If you want to make more modifications, [duplicate the agentic workflow](clone-aia-usecase.md) and make changes to the duplicate.
 
-    -   For the **List of steps** field, you can create multiple versions of the same agentic workflow without losing previous versions. Creating versions enables you to test different instructions to evaluate performance. See [Version control for AI agents and agentic workflows](../concept/version-control.md) for more information.
-    -   For the access control lists \(ACLs\), you can edit the security fields and define who can access the agentic workflow and edit the entity to run the agentic workflow as a dynamic user or an AI user. For more information, see [Implement access control in Now Assist AI agents](../concept/aia-security-implementation.md).
-    -   For more guidance on creating effective instructions, see the [general guidelines for creating AI agents and agentic workflows](../concept/gg-creating-aia.md).
+    -   For the **List of steps** field, you can create multiple versions of the same agentic workflow without losing previous versions. Creating versions enables you to test different instructions to evaluate performance. See [Version control for AI agents and agentic workflows](version-control.md) for more information.
+    -   For the access control lists \(ACLs\), you can edit the security fields and define who can access the agentic workflow and edit the entity to run the agentic workflow as a dynamic user or an AI user. For more information, see [Implement access control in Now Assist AI agents](aia-security-implementation.md).
+    -   For more guidance on creating effective instructions, see the [general guidelines for creating AI agents and agentic workflows](gg-creating-aia.md).
     You can navigate through the steps of the Guided Setup with the **Continue** and **Back** buttons.
 
 4.  Navigate to the last step and select **Save and test** to save your changes and begin testing your modified agentic workflow.

@@ -49,5 +49,5 @@ To create a report on incident-triggered survey responses by Assignment group, s
 
 ![Defining a report on survey responses that are triggered by an incident](../image/SurveyReportCreate.png "Defining a report on survey responses that are triggered by an incident")
 
-**Parent Topic:**[Survey trigger conditions](../concept/c_TriggerConditions.md)
+**Parent Topic:**[Survey trigger conditions](c_TriggerConditions.md)
 

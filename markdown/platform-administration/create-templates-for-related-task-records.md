@@ -25,7 +25,7 @@ Administrators must understand the parent-child relationships between Task table
 
 ## Procedure
 
-1.  From the parent Task table template, [configure the form layout](../concept/configure-form-layout.md#) to add these fields.
+1.  From the parent Task table template, [configure the form layout](configure-form-layout.md#) to add these fields.
 
     -   **Next Related Child Template**
     -   **Next Related Template**
@@ -207,7 +207,7 @@ Change request
 
 [Create a module](t_CreateAModuleForATemplate.md) for the parent Task table template so that child templates can be applied to related task records. For example, create a module for **Add server to network**.
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](c_Templates.md)
 
 **Related topics**  
 
@@ -220,9 +220,9 @@ Change request
 
 [Create a module for a template](t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](template-bar.md)
 
 [Toggle the template bar](t_ToggleTheTemplateBar.md)
 
-[Scripted templates](../reference/r_ScriptedTemplates.md)
+[Scripted templates](r_ScriptedTemplates.md)
 

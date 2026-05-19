@@ -56,7 +56,7 @@ If you have multiple page variants that all have the same conditions, the varian
     **Note:** You can view the structure of your pages and variants in this experience. The **Conditions** column shows a **View** link for each page. You can select **View** to see the condition for that variant \(that is, table=incident\). The **Audiences** column for the Admin only variant shows a 1. You can select the **1** to view the role required to view that variant.
 
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](learning-uib-by-example.md)
 
 **Related topics**  
 

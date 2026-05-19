@@ -34,17 +34,17 @@ Configure the ITSM Success Dashboard KPIs and its related attributes from the ad
 -   Contributing indicators: Modify the base system contributing indicators associated with the primary indicators, or add additional contributing indicators based on your implementation.
 -   Contextual Help content: Add or modify the contextual help content to be displayed for the primary or contributing indicators.
 
--   **[Set the refresh interval for Success Dashboard indicators](../task/configure-knowledge-deflection.md)**  
+-   **[Set the refresh interval for Success Dashboard indicators](configure-knowledge-deflection.md)**  
 Set the refresh interval to calculate the number of incidents deflected within the defined time range when a user reads the KB article recommended by the Virtual Agent.
 -   **[Configure Virtual Agent topics for ITSM Success Dashboard](configure-va.md)**  
 Configure the Virtual Agent \(VA\) topics for ITSM Success Dashboard indicators so that data is displayed correctly if you have topics other than the base system topics.
--   **[Update the live agent script include](../task/update-live-agent-script-include.md)**  
+-   **[Update the live agent script include](update-live-agent-script-include.md)**  
 Live agent configuration is used in the self-solved deflections \(Deflection using KB articles, Deflection using QnA AIS, Deflection using QnA LLM, and Deflection using ITSM VA\). While we configure these deflections, we need to update the live agent script include. Update the SSADeflectionHelper script to override the *checkInteraction* function.
--   **[Set fulfillment automation level of catalog item for the Success Dashboard indicators](../task/set-fulfillment-automation-level-sdb.md)**  
+-   **[Set fulfillment automation level of catalog item for the Success Dashboard indicators](set-fulfillment-automation-level-sdb.md)**  
 Set the fulfillment automation level of catalog items from manual to fully-automate to reduce manual effort and accelerate the turn around time.
--   **[Activate Performance Analytics jobs for ITSM Success Dashboard indicators](../task/activae-pa-indicator-jobs-sdb.md)**  
+-   **[Activate Performance Analytics jobs for ITSM Success Dashboard indicators](activae-pa-indicator-jobs-sdb.md)**  
 Activate the Performance Analytics \(PA\) jobs to collect daily and historical data for the ITSM Success Dashboard indicators.
--   **[Configure Success Dashboard indicators KPIs](../task/config-kpis-sdb.md)**  
+-   **[Configure Success Dashboard indicators KPIs](config-kpis-sdb.md)**  
 Success Dashboard indicators has a prescriptive methodology for measuring performance. But you can reconfigure the source of the Key Performance Indicators \(KPIs\) by replacing the available indicators in the base system or by adding more indicators.
 
 **Parent Topic:**[Configuring ITSM Success Dashboard indicators](configure-success-dashboards.md)

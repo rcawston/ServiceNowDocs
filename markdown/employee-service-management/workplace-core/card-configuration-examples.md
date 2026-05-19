@@ -15,7 +15,7 @@ breadcrumb: [Workplace Core references, Workplace Core, Workplace Service Delive
 
 Add buttons, fields, and sections to the workplace card configuration.
 
-**Note:** The following examples are to customize the card configurations in Workplace Core. For more information about configuring the cards, see [Configure a workplace card](../task/configure-workplace-card.md).
+**Note:** The following examples are to customize the card configurations in Workplace Core. For more information about configuring the cards, see [Configure a workplace card](configure-workplace-card.md).
 
 ## Customizing the card style
 
@@ -157,7 +157,7 @@ After hiding the element, make sure that you remove the custom logic, or surroun
 }); */
 ```
 
-**Parent Topic:**[Workplace Core references](../concept/wsd-references.md)
+**Parent Topic:**[Workplace Core references](wsd-references.md)
 
 **Related topics**  
 

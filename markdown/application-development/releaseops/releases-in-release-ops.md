@@ -29,7 +29,7 @@ For example, an organization might have two release tracks that they define:
 
 The weekly and daily release tracks can coexist without issue.
 
-For more information about creating a release, see [Create a release](../task/create-a-release.md).
+For more information about creating a release, see [Create a release](create-a-release.md).
 
 ## Release types
 

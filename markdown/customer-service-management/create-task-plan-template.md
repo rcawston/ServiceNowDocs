@@ -45,7 +45,7 @@ You can also [clone a task plan template](clone-task-plan-template.md).
 
     3.  The **Target record** identifies the table that the task plan template is applied to.
 
-    For more information about these fields, see [Task Plan Template](../reference/task-plan-template-form.md) form.
+    For more information about these fields, see [Task Plan Template](task-plan-template-form.md) form.
 
 4.  Select **Submit**.
 

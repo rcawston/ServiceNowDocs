@@ -68,5 +68,5 @@ For example, in scenario 2:
 -   If the property is set to Yes, and rules A, B, and C are satisfied as a result of a revision, then all approvals are resent.
 -   If the property is set to Yes, and rules A, C, and a new rule D are satisfied as a result of a revision, then approvals A and C are resent, and a new approval D is sent.
 
-**Parent Topic:**[Create an approval rule](../task/create-approval-rule.md)
+**Parent Topic:**[Create an approval rule](create-approval-rule.md)
 

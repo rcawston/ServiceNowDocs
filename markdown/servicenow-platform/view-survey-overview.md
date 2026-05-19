@@ -30,16 +30,16 @@ The dashboard displays your survey reports arranged in widgets. You can add new 
     For more information about working with dashboards, see [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboards-landing-page.md).
 
 
-**Parent Topic:**[Survey administration](../reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
-[Survey designer](../concept/c_SurveyDesigner.md)
+[Survey designer](c_SurveyDesigner.md)
 
 [View a survey instance](t_ViewSurveyInstance.md)
 
-[Survey users and groups](../concept/c_SurveyUsersAndGroups.md)
+[Survey users and groups](c_SurveyUsersAndGroups.md)
 
 [Copy a survey](copy-survey.md)
 
@@ -47,23 +47,23 @@ The dashboard displays your survey reports arranged in widgets. You can add new 
 
 [Customize the appearance of a survey](t_CustomizingAppearance.md)
 
-[Survey definitions](../concept/c_SurveyDefinitions.md)
+[Survey definitions](c_SurveyDefinitions.md)
 
 [Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
 
-[Survey questions](../concept/c_SurveyQuestion.md)
+[Survey questions](c_SurveyQuestion.md)
 
-[Survey trigger conditions](../concept/c_TriggerConditions.md)
+[Survey trigger conditions](c_TriggerConditions.md)
 
-[Survey distribution](../concept/c_SurveyDistribution.md)
+[Survey distribution](c_SurveyDistribution.md)
 
-[Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
+[Outlook Actionable Messages](outlook-actionable-messages.md)
 
-[Sentiment analysis for surveys](../concept/sentiment-analysis.md)
+[Sentiment analysis for surveys](sentiment-analysis.md)
 
-[Surveys in Service Portal and the Now Mobile app](../concept/c_SurveyServicePortal.md)
+[Surveys in Service Portal and the Now Mobile app](c_SurveyServicePortal.md)
 
-[Surveys in ITSM Virtual Agent](../concept/survey-virtual-agent.md)
+[Surveys in ITSM Virtual Agent](survey-virtual-agent.md)
 
-[Legacy survey migration](../concept/c_MigrateSurveys.md)
+[Legacy survey migration](c_MigrateSurveys.md)
 

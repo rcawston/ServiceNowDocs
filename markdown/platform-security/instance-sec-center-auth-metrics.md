@@ -15,7 +15,7 @@ Analyze authentication metrics to see information related to authentication, suc
 
 Use the **Authentication Metrics** page to view reports relating to your authentication configuration. The following reports are displayed in this tab.
 
-**Note:** The authentication metrics page requires the **REST API Access Policy plugin** \(com.glide.rest.policy\) plugin. For more details about this feature, see [REST API access policies](../../../integrate/authentication/concept/inbound-authentication-profile.md).
+**Note:** The authentication metrics page requires the **REST API Access Policy plugin** \(com.glide.rest.policy\) plugin. For more details about this feature, see [REST API access policies](authentication/inbound-authentication-profile.md).
 
 -   **APIs without authentication policies**
 

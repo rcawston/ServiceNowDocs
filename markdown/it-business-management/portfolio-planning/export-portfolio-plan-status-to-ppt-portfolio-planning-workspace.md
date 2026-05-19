@@ -17,7 +17,7 @@ Export the status of work items, roadmap, and key metrics of your portfolio plan
 
 ## Before you begin
 
-[Install Export to PowerPoint for Strategic Portfolio Management](../../export-to-ppt/task/install-export-to-ppt.md).
+[Install Export to PowerPoint for Strategic Portfolio Management](../export-to-powerpoint-for-application-portfolio-management/install-export-to-ppt.md).
 
 **Important:** Export to PowerPoint is available only in the GCC, NSC, SPP-AU, SPP-SG, and Australia IRAP-Protected data center environments.
 
@@ -30,7 +30,7 @@ The following two PowerPoint templates are provided by default to generate a sta
 -   Portfolio plan status: Contains individual detailed slides for the top five items prioritized by rank.
 -   Roadmap Template - default: Contains slides for Roadmap for this portfolio. You can export roadmap data for a maximum period of a year at a time.
 
-You can customize the type of the data to be shown in the generated report by updating a predefined template or by creating your own branded template. See [Create a Microsoft PowerPoint template](../../export-to-ppt/task/create-ppt-template.md).
+You can customize the type of the data to be shown in the generated report by updating a predefined template or by creating your own branded template. See [Create a Microsoft PowerPoint template](../export-to-powerpoint-for-application-portfolio-management/create-ppt-template.md).
 
 ## Procedure
 

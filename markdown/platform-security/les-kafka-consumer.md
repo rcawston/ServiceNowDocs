@@ -29,7 +29,7 @@ The categories page contains an overview and descriptions of the categories and 
 
 Complete the tasks under each category by following the setup instructions.
 
--   **[Guided setup for Kafka consumers](../task/les-guided-setup-kafka.md)**  
+-   **[Guided setup for Kafka consumers](les-guided-setup-kafka.md)**  
 Implement the following steps for a complete guided setup for Kafka consumers.
 
 **Parent Topic:**[Configuring Log Export Service \(LES\)](les-configure.md)
@@ -39,5 +39,5 @@ Implement the following steps for a complete guided setup for Kafka consumers.
 
 [MID server consumer](les-mid-server-consumer.md)
 
-[Set up a secure connection to the Hermes Messaging Service for LES](../task/les-hermes-cert.md)
+[Set up a secure connection to the Hermes Messaging Service for LES](les-hermes-cert.md)
 

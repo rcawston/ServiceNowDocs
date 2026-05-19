@@ -36,5 +36,5 @@ When running reconciliation manually, allow enough time for the process to compl
     The Reconciliation Results list is shown.
 
 
-**Parent Topic:**[Using Software Asset Management Foundation plugin classic](../concept/using-samf-classic.md)
+**Parent Topic:**[Using Software Asset Management Foundation plugin classic](using-samf-classic.md)
 

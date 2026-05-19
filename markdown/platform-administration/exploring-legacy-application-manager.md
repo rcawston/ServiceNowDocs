@@ -19,7 +19,7 @@ Legacy Application Manager is being deprecated. Starting with Australia patch 1,
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
-A new Application Manager experience is available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all applications, plugins, installed applications, and available updates. For more information, see [Application Manager](../../../administer/application-manager/concept/application-manager.md).
+A new Application Manager experience is available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all applications, plugins, installed applications, and available updates. For more information, see [Application Manager](application-manager/application-manager.md).
 
 ## Legacy Application Manager overview
 
@@ -27,10 +27,10 @@ Before you can use any ServiceNow application, you must verify that you have ent
 
 ## What to explore next
 
-To learn more about using Legacy Application Manager, see [Using Legacy Application Manager](../task/using-legacy-application-manager.md)
+To learn more about using Legacy Application Manager, see [Using Legacy Application Manager](using-legacy-application-manager.md)
 
 -   **[Available actions](app-installation.md)**  
 Before you can use any ServiceNow application, you must verify that you have entitlement to it, meaning that you have valid licenses to use it. Then, you can install the application and its plugins from the ServiceNow Store.
 
-**Parent Topic:**[Legacy Application Manager](../reference/legacy-application-manager-landing.md)
+**Parent Topic:**[Legacy Application Manager](legacy-application-manager-landing.md)
 

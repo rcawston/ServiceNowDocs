@@ -19,14 +19,14 @@ Properties are available to control the URL and target frame used when clicking 
     -   **\_top**to replace the current browser window
     -   **\_blank** for a new window/tab
 
-**Parent Topic:**[Create a company profile](../task/t_CreateACompanyProfile.md)
+**Parent Topic:**[Create a company profile](t_CreateACompanyProfile.md)
 
 **Related topics**  
 
 
-[Customize the banner logo in Core UI](../task/t_CustomizeTheLogoInSysProps.md)
+[Customize the banner logo in Core UI](t_CustomizeTheLogoInSysProps.md)
 
-[Customize the favicon](../task/customize-favicon.md)
+[Customize the favicon](customize-favicon.md)
 
 [Examples of how to modify the banner](c_ExamplesOfHowToModifyTheBanner.md)
 

@@ -25,7 +25,7 @@ Role required: admin
 
     If the upgrade plan has been implemented on the ongoing upgrade, the Review upgrade plan link shows up on the Target version card.
 
-    See Upgrade Plan background operations section in [Upgrade Plans tool in Upgrade Console](../concept/um-upgrade-plans-tool.md) for more information.
+    See Upgrade Plan background operations section in [Upgrade Plans tool in Upgrade Console](um-upgrade-plans-tool.md) for more information.
 
 2.  Check on the date and time of the implemented upgrade plan in the Upgrade duration card once the upgrade completes.
 
@@ -46,7 +46,7 @@ Role required: admin
 -   **[Review skipped records with upgrade plan](um-review-skipped-records-upgrade-plan.md)**  
 Review the skipped records after the completion of the upgrade.
 
-**Parent Topic:**[Upgrade Plans tool in Upgrade Console](../concept/um-upgrade-plans-tool.md)
+**Parent Topic:**[Upgrade Plans tool in Upgrade Console](um-upgrade-plans-tool.md)
 
 **Related topics**  
 

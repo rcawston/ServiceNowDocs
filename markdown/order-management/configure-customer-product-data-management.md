@@ -45,14 +45,14 @@ The following table lists the values that you can set for the sn\_ind\_tmt\_orm.
 7.  Select **Update**.
 
 
-**Parent Topic:**[Configure order fulfillment](../../tmt-order-mgt/concept/configure-order-fulfillment.md)
+**Parent Topic:**[Configure order fulfillment](configure-order-fulfillment.md)
 
 **Related topics**  
 
 
-[Creation of sold product and product inventory records](../../tmt-order-mgt/concept/order-mgt-sold-product-creation.md)
+[Creation of sold product and product inventory records](order-mgt-sold-product-creation.md)
 
-[Managing post-fulfillment order changes](../../tmt-order-mgt/concept/managing-orders.md)
+[Managing post-fulfillment order changes](managing-orders.md)
 
 [Product data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/product-data.md)
 

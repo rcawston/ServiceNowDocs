@@ -35,7 +35,7 @@ Role required: admin
     |Default value|250|
 
 
-**Parent Topic:**[Using formatters](../concept/c_Formatters.md)
+**Parent Topic:**[Using formatters](c_Formatters.md)
 
 **Related topics**  
 

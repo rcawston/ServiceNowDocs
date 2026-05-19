@@ -29,7 +29,7 @@ The Activity Designer contains common steps which are applicable to all the acti
 
     The **Welcome** tab of the Workflow Editor opens.
 
-2.  On the **Custom** tab in the palette, click **+** to create a new activity select the appropriate [template](../concept/c_ActivityDesignerComponents.md) from the list.
+2.  On the **Custom** tab in the palette, click **+** to create a new activity select the appropriate [template](c_ActivityDesignerComponents.md) from the list.
 
     ![Arrow pointing to the plus sign on the Custom tab](../image/custom-activity-icon.png)
 
@@ -45,7 +45,7 @@ The Activity Designer contains common steps which are applicable to all the acti
 
     Create the variables to pass into the activity in the Inputs form of the activity designer.
 
-5.  Add a [pre-processing script](../reference/PreprocessFields.md).
+5.  Add a [pre-processing script](PreprocessFields.md).
 
     For input validation or transforming input data, you might need a pre-processing script.
 
@@ -93,15 +93,15 @@ Post-processing scripts allow you to code your own output data validation, outpu
 </table>10. Click **Continue** to open the [Conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/conditions.md) form to create exit condition rules for your activity and then click **Save**.
 
 
--   **[General properties for activity designer templates](../reference/General-Flds-Templates.md)**  
+-   **[General properties for activity designer templates](General-Flds-Templates.md)**  
 The following General Property fields are common to all activity designer templates.
 -   **[Create input variables](CreateInputVariables.md#)**  
 Create the variables to pass into the activity in the **Inputs** form of the activity designer.
--   **[Data encryption for activity variables](../concept/c_DataEncryptActivityVariables.md)**  
+-   **[Data encryption for activity variables](c_DataEncryptActivityVariables.md)**  
 You can protect sensitive data passed from Orchestration activities by encrypting input and output variables.
--   **[Activity designer template pre-processing fields](../reference/PreprocessFields.md)**  
+-   **[Activity designer template pre-processing fields](PreprocessFields.md)**  
 Use the **Pre Processing** form of the activity designer to define a script to run before the activity executes.
--   **[Template post-processing fields](../reference/template-post-process-field.md)**  
+-   **[Template post-processing fields](template-post-process-field.md)**  
 From the **Post Processing** form in the activity designer you can define a script to run after the activity executes.
 -   **[Auto-map activity output variables](automap-output-variable-inputs.md)**  
 You can map parameter values in a test payload to variables in the **Outputs** tab automatically.
@@ -109,8 +109,8 @@ You can map parameter values in a test payload to variables in the **Outputs** t
 The **Outputs** form in the designer contains a variable builder for creating data structures of objects and arrays.
 -   **[Create a parsing rule](t_CreateAParsingRule.md#)**  
 Populate output variables defined in a custom activity with payload data returned from an inputs test on an external host or endpoint.
--   **[Activity conditions](../reference/conditions.md)**  
+-   **[Activity conditions](conditions.md)**  
 Create the exit conditions for your activity in the **Condition** column and set the order for each..
 
-**Parent Topic:**[Orchestration activity designer](../concept/c_WorkflowActivityDesigner.md)
+**Parent Topic:**[Orchestration activity designer](c_WorkflowActivityDesigner.md)
 

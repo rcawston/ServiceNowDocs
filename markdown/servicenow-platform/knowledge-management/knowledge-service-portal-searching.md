@@ -47,5 +47,5 @@ Users with the system administrator role can enable this feature.
     -   Suggest related searches for knowledge or global search \(glide.ts.dym.enable\_chain\_suggest\).
 3.  Click **Save**.
 
-**Parent Topic:**[Configure the Knowledge Management Service Portal](../concept/knowledge-management-service-portal.md)
+**Parent Topic:**[Configure the Knowledge Management Service Portal](knowledge-management-service-portal.md)
 

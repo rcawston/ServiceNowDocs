@@ -26,7 +26,7 @@ Generative AI Controller enables you to choose between several AI providers or a
 -   IBM watsonx
 -   Amazon Bedrock
 
--   **[Configure API credentials](../concept/configuring-api-credentials-for-generative-ai-capabilities.md)**
+-   **[Configure API credentials](configuring-api-credentials-for-generative-ai-capabilities.md)**
 
     Configure your large language model \(LLM\) credentials to use third-party integrations with OpenAI, Azure OpenAI, Google Cloud, IBM watsonx, Amazon Bedrock, and generic models to control the third-party integration.
 

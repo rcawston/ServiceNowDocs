@@ -60,29 +60,29 @@ When multiple mobile properties of the same name are defined for multiple applic
     In scenario 2, the **clientRefresh** property defined for the agent workspace application scope was the most recently updated. All three mobile properties were updated on 2021-12-06. The property defined for the agent workspace application scope was updated at 12:06:20. That time is almost one and a half hours after the other two. The system chooses the **clientRefresh** property defined for the agent workspace application scope because it's the most recently updated **clientRefresh** property.
 
 
--   **[Turn on or turn off automatic app refresh](../task/enable-disable-auto-app-refresh.md)**  
+-   **[Turn on or turn off automatic app refresh](enable-disable-auto-app-refresh.md)**  
 Use the **clientRefresh** mobile property on your ServiceNow instance to turn on or turn off automatically refreshing your mobile apps. You can also use the **clientRefresh** property to adjust the scope of refresh on your mobile app.
--   **[Enable external users to access attachments](../task/enable-ext-users-attach-access.md)**  
+-   **[Enable external users to access attachments](enable-ext-users-attach-access.md)**  
 Enable users who have been assigned the snc\_external role to be able to view, upload, and download attachments on their ServiceNow mobile app.
--   **[Switch the date/time fields between device time zone and UTC](../task/switch-date-time-timezone-utc.md)**  
+-   **[Switch the date/time fields between device time zone and UTC](switch-date-time-timezone-utc.md)**  
 Use the **ShowDateTimeInUTC** mobile property to determine whether the date/time field values in the Now Mobile app are displayed in the time zone of the user's device \(default\) or are converted to UTC.
--   **[Configure mobile apps to use the date/time format of mobile devices](../task/config-apps2use-devicedatetimeform.md)**  
+-   **[Configure mobile apps to use the date/time format of mobile devices](config-apps2use-devicedatetimeform.md)**  
 Set the **useDeviceSettingsForDateTimeFormats** mobile property to `True` to configure the date/time fields in mobile apps to use the date/time format that is used on the mobile device.
--   **[Hide seconds in date/time fields on mobile cards, record screen details pages, or activity streams](../task/hide-secs-mobcds-recscreen-actstrem.md)**  
+-   **[Hide seconds in date/time fields on mobile cards, record screen details pages, or activity streams](hide-secs-mobcds-recscreen-actstrem.md)**  
 Set the **mobileCardsShowSeconds**, **recordScreenDetailsShowSeconds**, or the **activityStreamShowSeconds** mobile properties to `False` to hide the display of seconds in date/time fields.
--   **[Extend embedded web sessions](../task/extend-embedded-web-sessions.md)**  
+-   **[Extend embedded web sessions](extend-embedded-web-sessions.md)**  
 Extend embedded web sessions to keep mobile users logged in until the mobile OAuth token expires.
--   **[Enable enhanced barcode scanning](../task/enable-enhanced-barcode-scan.md)**  
+-   **[Enable enhanced barcode scanning](enable-enhanced-barcode-scan.md)**  
 Add the **EnableCameraFocusEnhancement** and the **EnableMaxCameraResolution** mobile properties to enhance barcode scanning for Android devices.
--   **[Enable barcode scanning with an external scanner](../task/enable-external-barcode-scanner.md)**  
+-   **[Enable barcode scanning with an external scanner](enable-external-barcode-scanner.md)**  
 Set the **externalScanEnabled** mobile property to `True` to enable barcode scanning with an external scanner while the device camera is available in other parts of the mobile app.
--   **[Configure different mobile attachment capabilities on Android devices based on user roles](../task/mob-attachments-android.md)**  
+-   **[Configure different mobile attachment capabilities on Android devices based on user roles](mob-attachments-android.md)**  
 Use a combination of system properties and mobile properties to enable different users on Android devices to share, download, or view attachments in external applications based on roles.
--   **[Keep native apps active during authentication on Android devices](../task/active-authentication-android.md)**  
+-   **[Keep native apps active during authentication on Android devices](active-authentication-android.md)**  
 Use the **preventAppKillOnAuth** property on your ServiceNow instance to help prevent Android devices from killing the mobile app when put to background during login. Use this configuration to allow for a smoother authentication experience by keeping the app active until users complete or cancel the login process.
--   **[Turn off the Zero Trust Access banner on mobile apps](../task/turn-off-zta-banner.md)**  
+-   **[Turn off the Zero Trust Access banner on mobile apps](turn-off-zta-banner.md)**  
 Learn how to turn off the banner on mobile app screens where Zero Trust Access \(ZTA\) is enabled.
--   **[PIN timeout](../task/pin-timeout.md)**  
+-   **[PIN timeout](pin-timeout.md)**  
 Configure the PINIdleTimeout property to define the PIN timeout for different ServiceNow mobile apps. You can use this property to enhance security by controlling how long users are allowed to remain inactive before being required to reenter their PIN.
 
 **Parent Topic:**[Considerations before implementation](imp-considerations.md)

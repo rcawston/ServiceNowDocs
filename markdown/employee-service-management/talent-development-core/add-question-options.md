@@ -39,7 +39,7 @@ Create a question. See, [Add questions to an exam](add-questions-exam.md).
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values, see [Question option form](../reference/question-option-form.md).
+    For a description of the field values, see [Question option form](question-option-form.md).
 
 7.  Select **Submit**.
 

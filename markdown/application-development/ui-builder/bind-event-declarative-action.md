@@ -29,7 +29,7 @@ Bind a handled event to a component so that an action is performed when a user s
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Open or create a page.
 
@@ -80,5 +80,5 @@ Bind a handled event to a component so that an action is performed when a user s
     ![Complete my work button in UI Builder.](../image/UIB-complete-my-work-button.png)
 
 
-**Parent Topic:**[Bind events to add actions](../concept/bind-events.md)
+**Parent Topic:**[Bind events to add actions](bind-events.md)
 

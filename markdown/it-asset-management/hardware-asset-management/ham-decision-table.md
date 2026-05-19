@@ -136,5 +136,5 @@ Contract renewal tasks
 Contract Renewal Tasks Flow
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 

@@ -19,7 +19,7 @@ Review the arbitration response received from Mastercard and proceed to resolve 
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector.
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -30,7 +30,7 @@ This task displays during one of the possibilities in the chargeback stage:
 
 Review the ruling from Mastercard and choose whether to resolve the dispute or take further action.
 
-If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](../../fso-card-data-security/concept/manage-attachments-in-card-data-security.md).
+If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](manage-attachments-in-card-data-security.md).
 
 ## Procedure
 
@@ -78,7 +78,7 @@ Result
 
 Select this option if you are not happy with the arbitration response from Mastercard. The next task is displayed based on Financial adjustments 2.
 
-For more information about Financial adjustments, see [About Financial adjustments in Mastercard disputes](../concept/financial-adjustments.md).
+For more information about Financial adjustments, see [About Financial adjustments in Mastercard disputes](financial-adjustments.md).
 
 </td></tr><tr><td id="d42909e323">
 
@@ -91,12 +91,12 @@ Select this option if you’re satisfied with the arbitration response and close
 </td></tr></tbody>
 </table>12. Select **Add file** to attach supporting documents to the task.
 
-    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](../../fso-mastercard/reference/mastercard-image-and-document-requirements.md).
+    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](../mastercard-image-and-document-requirements.md).
 
 
 ## What to do next
 
 The task is marked to closure.
 
-**Parent Topic:**[Chargeback in Mastercard transaction disputes](../concept/chargeback-stage-mastercard.md)
+**Parent Topic:**[Chargeback in Mastercard transaction disputes](chargeback-stage-mastercard.md)
 

@@ -151,5 +151,5 @@ Additional information about the recall order.
 
 [Acknowledge enterprise assets in the recall order](acknowledge-recalled-assets-eam.md).
 
-**Parent Topic:**[Managing recalled enterprise assets](../concept/managing-recalled-enterprise-assets.md)
+**Parent Topic:**[Managing recalled enterprise assets](managing-recalled-enterprise-assets.md)
 

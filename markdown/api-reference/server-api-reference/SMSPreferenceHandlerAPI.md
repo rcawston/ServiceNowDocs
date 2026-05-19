@@ -17,7 +17,7 @@ The SMSPreferenceHandler script include provides methods to manage short message
 
 This script include is implemented as the script include SMSPreferenceHandlerSNC and resides in the `sn_sms_pref` namespace. To use this API you must install the Notify plugin \(com.snc.notify\) which requires a separate subscription. You can activate this plugin if you have the admin role.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SMSPreferenceHandlerSNC - SMSPreferenceHandler\(String provider\)
 

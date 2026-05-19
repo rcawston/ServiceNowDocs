@@ -15,12 +15,12 @@ Themes give the user interface a specific look and feel by using different color
 
 System administrators can create themes or customize the existing themes for an instance. To see existing themes, navigate to **System UI** &gt; **Themes**.
 
--   **[Activating CSS theme support](../reference/r_ActivatingCSSThemeSupport.md)**  
+-   **[Activating CSS theme support](r_ActivatingCSSThemeSupport.md)**  
 There are different plugins that activate CSS themes support.
--   **[Create or customize a theme](../task/t_CreateOrCustomizeATheme.md)**  
+-   **[Create or customize a theme](t_CreateOrCustomizeATheme.md)**  
 You can create themes or customize existing themes.
--   **[Default CSS styles](../reference/r_DefaultCSSStyle.md)**  
+-   **[Default CSS styles](r_DefaultCSSStyle.md)**  
 You can use CSS styles to control the appearance of elements in a theme.
 
-**Parent Topic:**[Customizing instance appearance](../reference/customizing-instance-appearance.md)
+**Parent Topic:**[Customizing instance appearance](customizing-instance-appearance.md)
 

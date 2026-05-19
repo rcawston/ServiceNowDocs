@@ -25,5 +25,5 @@ Learn about the fields of the General information form. Use this form to provide
 **Related topics**  
 
 
-[Create a certification policy](../../task/eaw-task/eaw-create-policy.md)
+[Create a certification policy](eaw-create-policy.md)
 

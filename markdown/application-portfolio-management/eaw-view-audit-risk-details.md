@@ -25,11 +25,11 @@ Role required: admin
 
 3.  Select **Technology portfolio audit**.
 
-    For a description of field values, see [Technology portfolio audit form](../../reference/eaw-reference/eaw-technology-portfolio-audit-form.md).
+    For a description of field values, see [Technology portfolio audit form](eaw-technology-portfolio-audit-form.md).
 
 
--   **[Update verification status of TPM audit details](../eaw-update-verif-status.md)**  
+-   **[Update verification status of TPM audit details](eaw-update-verif-status.md)**  
 Change the verification status of a software product or hardware model lifecycle in the TPM technology lifecycle exception table.
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 

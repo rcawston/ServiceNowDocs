@@ -33,7 +33,7 @@ The application TCO cost type helps you to evaluate and manage the capital and o
 
 [Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-manage-application-tco.md)
 
-[Install the Application Total Cost of Ownership \(TCO\) plugin](../../task/eaw-task/eaw-install-app-tco.md)
+[Install the Application Total Cost of Ownership \(TCO\) plugin](eaw-install-app-tco.md)
 
-[Add or edit a total cost of ownership record](../../task/eaw-task/eaw-create-new-tco.md)
+[Add or edit a total cost of ownership record](eaw-create-new-tco.md)
 

@@ -48,7 +48,7 @@ Role required: none
     If the event requires RSVP, select **Yes** or **No**. If you have already specified your RSVP, you can also edit it.
 
 
-**Parent Topic:**[Using Now Assist for Employee Experience](../concept/use-now-assist-for-emp-exp.md)
+**Parent Topic:**[Using Now Assist for Employee Experience](use-now-assist-for-emp-exp.md)
 
 **Related topics**  
 

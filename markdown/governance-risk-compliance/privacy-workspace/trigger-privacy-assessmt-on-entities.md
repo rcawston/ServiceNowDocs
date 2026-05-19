@@ -30,7 +30,7 @@ When you initiate privacy screening assessments for entities, processing activit
 
 After a processing activity is created, based on the assessment configurations, the following events occur:
 
-1.  The necessary information objects are mapped to the processing activity record. To understand more about information objects and their uses, see [Information objects](../../grc-risk/reference/information-objects.md).
+1.  The necessary information objects are mapped to the processing activity record. To understand more about information objects and their uses, see [Information objects](../grc-risk-management-workspace/information-objects.md).
 2.  The necessary controls are mapped to the processing activity record.
 3.  Critical assessment responses such as the purpose of the processing activity, data subject type and so on are copied over to the processing activity record.
 
@@ -38,11 +38,11 @@ After a processing activity is created, based on the assessment configurations, 
 
 ## Privacy assessments
 
-When processing activity records are identified, to understand how a processing activity is processing personal information, various types of privacy assessments such as privacy impact assessments \(PIA\) and transfer impact assessment \(TIA\) are sent. You can trigger PIAs from a single processing activity record. For more information, see [Send a privacy assessment from a processing activity](../task/send-privacy-asmt-from-pa.md). Alternatively, you can send privacy impact assessments to multiple processing activities, using the Entity type capability or from the processing activity list view. For more information on how to send an assessment to multiple entities, see [Send a privacy assessment to multiple entities](../task/send-privacy-assessment.md).
+When processing activity records are identified, to understand how a processing activity is processing personal information, various types of privacy assessments such as privacy impact assessments \(PIA\) and transfer impact assessment \(TIA\) are sent. You can trigger PIAs from a single processing activity record. For more information, see [Send a privacy assessment from a processing activity](send-privacy-asmt-from-pa.md). Alternatively, you can send privacy impact assessments to multiple processing activities, using the Entity type capability or from the processing activity list view. For more information on how to send an assessment to multiple entities, see [Send a privacy assessment to multiple entities](send-privacy-assessment.md).
 
--   **[Send a privacy assessment from an entity](../task/send-privacy-assessmt-entity.md)**  
+-   **[Send a privacy assessment from an entity](send-privacy-assessmt-entity.md)**  
 Send a privacy assessment to an entity owner to determine if there's personal data involved in the processing activities.
--   **[Send a privacy assessment to multiple entities](../task/send-privacy-assessment.md)**  
+-   **[Send a privacy assessment to multiple entities](send-privacy-assessment.md)**  
 Send the privacy screening assessment or the Privacy impact assessment \(PIA\) assessments to multiple entities to understand why and how personal data is being processed.
 
 **Parent Topic:**[Types of privacy assessments](privacy-assessments.md)
@@ -50,5 +50,5 @@ Send the privacy screening assessment or the Privacy impact assessment \(PIA\) a
 **Related topics**  
 
 
-[Send a privacy assessment to multiple entities](../task/send-privacy-assessment.md)
+[Send a privacy assessment to multiple entities](send-privacy-assessment.md)
 

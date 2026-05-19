@@ -39,6 +39,6 @@ Talent Profile helps:
 
 The following are the pre-requisites for using the talent profile functionality within the Hiring Experiences suite.
 
-1.  [Set up Talent Definition](../task/talent-definition-setup.md)
-2.  [Opt in to Talent Profile](../task/opt-in-ta-tp.md)
+1.  [Set up Talent Definition](talent-definition-setup.md)
+2.  [Opt in to Talent Profile](opt-in-ta-tp.md)
 

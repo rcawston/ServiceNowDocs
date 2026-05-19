@@ -21,7 +21,7 @@ For example, if an agent is newly hired, still in training, or unsure about how 
 
 Another scenario is if an agent needs to escalate a customer conversation to a chat manager. Agents can request help and chat managers can join the chat conversations publicly to communicate directly with the customer to help deescalate the situation.
 
-You activate Agent Whisper in Agent Chat settings. For details, see [Setting up Agent Chat](../task/ac-configure-agent-chat.md).
+You activate Agent Whisper in Agent Chat settings. For details, see [Setting up Agent Chat](ac-configure-agent-chat.md).
 
 ## Using the Help quick action
 
@@ -36,7 +36,7 @@ Chat managers can view the conversations with help requested from different view
     ![Help Requested selected in Conversation Monitoring options in Lists view.](../image/agent-whisper-help-list-view.png)
 
 
-To learn more about Workforce Optimization for CSM, see [Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md).
+To learn more about Workforce Optimization for CSM, see [Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/configurable-wfo-cs.md).
 
 ## Sending and receiving messages in Private Chat
 

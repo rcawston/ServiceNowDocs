@@ -85,5 +85,5 @@ Click **Clear breakpoints** under the **Design** tab.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

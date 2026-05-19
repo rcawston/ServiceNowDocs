@@ -33,7 +33,7 @@ Role required: sn\_rvw\_feedback.reviewer
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the Create New Feedback form, see [Feedback Details form](../reference/feedback-details-form.md).
+    For a description of the field values on the Create New Feedback form, see [Feedback Details form](feedback-details-form.md).
 
 7.  Select **Save**.
 
@@ -57,8 +57,8 @@ Role required: sn\_rvw\_feedback.reviewer
     The feedback is raised and assigned to the respondent. The feedback is moved to the Assigned state.
 
 
--   **[Feedback Details form](../reference/feedback-details-form.md)**  
+-   **[Feedback Details form](feedback-details-form.md)**  
 Use the Feedback Details form to provide feedback on a record or fields in a record from the record side panel.
 
-**Parent Topic:**[Create feedback in Advanced Risk](../concept/create-a-feedback-risk.md)
+**Parent Topic:**[Create feedback in Advanced Risk](create-a-feedback-risk.md)
 

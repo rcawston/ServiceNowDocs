@@ -18,5 +18,5 @@ Several types of components are installed with activation of the Individual Life
 -   **[Components installed with Individual Life Underwriting](components-installed-with-individual-life-underwriting.md)**  
 Several types of components are installed with activation of the Individual Life Underwriting plugin, including tables and user roles.
 
-**Parent Topic:**[Individual Life Servicing](../concept/individual-life-servicing.md)
+**Parent Topic:**[Individual Life Servicing](individual-life-servicing.md)
 

@@ -109,5 +109,5 @@ Use this example to see demonstrations of these operations and steps.
 23. Select **Save**.
 
 
-**Parent Topic:**[Complex data](../concept/complex-data.md)
+**Parent Topic:**[Complex data](complex-data.md)
 

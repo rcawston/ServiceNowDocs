@@ -96,12 +96,12 @@ Customized overlay options are displayed on the floor map, and the color legend 
 
 Set up time duration for the operational data. To learn more, see [Customize overlay time series on the floor map](customize-overlay-time-series-floor-map.md).
 
-**Parent Topic:**[Configuring overlays on floor map](../concept/configure-overlays-floor-map.md)
+**Parent Topic:**[Configuring overlays on floor map](configure-overlays-floor-map.md)
 
 **Related topics**  
 
 
-[Capacity management](../concept/capacity-management-reporting.md)
+[Capacity management](capacity-management-reporting.md)
 
-[Time series metrics for datacenter](../reference/time-series-metrics.md)
+[Time series metrics for datacenter](time-series-metrics.md)
 

@@ -14,7 +14,7 @@ The ServiceNow® AI Search application provides a consumer-grade search experien
 
 ## AI Search highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Provide actionable search and chat responses in global and workspace search with support for Now Assist Multi-Content Response Genius Results.
 -   Improve search precision and contextual relevance with hybrid search.

@@ -17,7 +17,7 @@ Configure a record producer with additional details and add it to the reservable
 
 ## Before you begin
 
-Before you configure the record producer, refer to [Additional details record producer - Mapping Variable types and limitations](../reference/custom-fields-record-producer-mapping-variable-type-conditions.md).
+Before you configure the record producer, refer to [Additional details record producer - Mapping Variable types and limitations](custom-fields-record-producer-mapping-variable-type-conditions.md).
 
 **Note:** The record producer is only used to retrieve data related to the additional fields.
 

@@ -103,5 +103,5 @@ Role required: admin, flow designer, action\_designer, usage\_admin, or flow\_op
     6.  Click **Apply**.
 
 
-**Parent Topic:**[Integration Hub Usage Dashboard](../concept/integrationhub-usage-dashboard.md)
+**Parent Topic:**[Integration Hub Usage Dashboard](integrationhub-usage-dashboard.md)
 

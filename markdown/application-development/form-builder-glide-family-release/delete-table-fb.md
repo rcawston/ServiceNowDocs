@@ -19,7 +19,7 @@ Delete a table from your application so that it no longer appears in the app das
 
 **Note:** Parent tables can't be deleted until all existing child tables are deleted.
 
-Role required: Users must have canDelete access to **sys\_db\_object** or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: Users must have canDelete access to **sys\_db\_object** or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -36,5 +36,5 @@ Role required: Users must have canDelete access to **sys\_db\_object** or AES us
 
 The table is no longer available in the app dashboard.
 
-**Parent Topic:**[Data in Table Builder](../concept/table-builder.md)
+**Parent Topic:**[Data in Table Builder](table-builder.md)
 

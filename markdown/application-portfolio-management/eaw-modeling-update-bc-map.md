@@ -50,7 +50,7 @@ Role required: sn\_apm.apm\_user
     -   **Duplicate**: Select this option to duplicate the diagram. For more information, see [Duplicate a modeling diagram](eaw-modeling-duplicate.md).
     -   **Submit for approval**: Select this option to submit the diagram for approval. The approval process can be done through a configured workflow. By default, the approval request is submitted to the Enterprise Architect group. For more information, see [Submit a modeling diagram for approval](eaw-modeling-submit-for-approval.md).
 
-**Parent Topic:**[Working with business capability map](../../concept/eaw-concept/eaw-work-with-bc-map.md)
+**Parent Topic:**[Working with business capability map](eaw-work-with-bc-map.md)
 
 **Related topics**  
 

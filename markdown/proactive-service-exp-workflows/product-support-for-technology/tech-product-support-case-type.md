@@ -35,7 +35,7 @@ Tables
 
 </td><td>
 
-The Technology Product Support Case application includes the Tech Product Support Case \[sn\_tech\_product\_support\_case\] table. This table extends the Case table and can be extended.For a detailed description of the Tech Product Support Case table, including field descriptions, see [Tech Product Support Case table](../reference/tech-product-support-case-table.md).
+The Technology Product Support Case application includes the Tech Product Support Case \[sn\_tech\_product\_support\_case\] table. This table extends the Case table and can be extended.For a detailed description of the Tech Product Support Case table, including field descriptions, see [Tech Product Support Case table](tech-product-support-case-table.md).
 
 </td></tr><tr><td>
 

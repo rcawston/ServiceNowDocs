@@ -35,7 +35,7 @@ When creating a new version, you also have the option to use Now Assist to refin
 
 When you have multiple versions of the same **List of steps** field, you can switch which one is active at any time. Choosing to make a new version active enables you to test it and evaluate its effectiveness.
 
-If you’re updating an agentic workflow, you can [execute an agentic evaluation run](../task/execute-aia-eval.md) to measure performance.
+If you’re updating an agentic workflow, you can [execute an agentic evaluation run](execute-aia-eval.md) to measure performance.
 
 You can decide which version is active by selecting **View versions** in the guided setup. Toggle the **Set as active** field and save your changes to make the new version active.
 

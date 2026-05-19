@@ -65,7 +65,7 @@ Define the type of trigger that determines when to start running your playbook.
 
 Your trigger definition is added to the Trigger Definition \[sys\_pd\_trigger\_definition\] table. You can now select your preset trigger when you [Create a playbook](create-process-definition.md).
 
-**Parent Topic:**[Triggers](../concept/process-automation-designer-triggers.md)
+**Parent Topic:**[Triggers](process-automation-designer-triggers.md)
 
 **Related topics**  
 

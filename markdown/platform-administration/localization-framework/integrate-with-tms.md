@@ -262,5 +262,5 @@ String
     **Note:** Localization Framework depends on Integration Hub to build integrations with third-party systems.
 
 
-**Parent Topic:**[Translation Management System configurations](../concept/tms-configuration.md)
+**Parent Topic:**[Translation Management System configurations](tms-configuration.md)
 

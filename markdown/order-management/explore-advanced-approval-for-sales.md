@@ -69,7 +69,7 @@ Approval request viewer
 Views approval requests and approval steps.
 
 </td></tr></tbody>
-</table>For a complete list of user roles, see [Components installed with Advanced Approval Management](../reference/components-installed-advanced-approval-management-for-sales.md).
+</table>For a complete list of user roles, see [Components installed with Advanced Approval Management](components-installed-advanced-approval-management-for-sales.md).
 
 ## Advanced Approval Management workflow
 
@@ -91,8 +91,8 @@ This section describes the tasks involved in configuring and using Advanced Appr
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Build and automate workflows that can handle sequential or parallel approvals or a combination of both|[Create approval rules](../task/create-approval-rules.md) and [Create approval chains](../task/create-approval-chain.md)|Approval admins|
-|Enforce financial and legal guidelines particularly for high-value deals to reduce financial and legal risk|[Create conditions that trigger approval workflows](../task/set-approval-trigger-conditions.md)|Approval admins and approvers|
+|Build and automate workflows that can handle sequential or parallel approvals or a combination of both|[Create approval rules](create-approval-rules.md) and [Create approval chains](create-approval-chain.md)|Approval admins|
+|Enforce financial and legal guidelines particularly for high-value deals to reduce financial and legal risk|[Create conditions that trigger approval workflows](set-approval-trigger-conditions.md)|Approval admins and approvers|
 |Preview the rules, steps, and approvers before submitting a request|[Submitting approval requests](submitting-approval-requests.md)|Requesters|
 |Monitor approval workflow and status|[Tracking approval status and history](tracking-approval-status.md)|Requesters, approvers, and business stakeholders|
 
@@ -102,5 +102,5 @@ To learn more about configuring and using Advanced Approval Management, see:
 
 -   [Configuring Advanced Approval Management](configuring-advanced-approval-management.md)
 -   [Using Advanced Approval Management](using-advanced-approval-management.md)
--   [Advanced Approval Management reference](../reference/advanced-approval-management-reference.md)
+-   [Advanced Approval Management reference](advanced-approval-management-reference.md)
 

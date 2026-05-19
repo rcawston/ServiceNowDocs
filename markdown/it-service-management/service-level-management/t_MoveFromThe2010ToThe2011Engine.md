@@ -42,5 +42,5 @@ To enable the new functionality:
     By default, the 2011 Engine sets the **Stage** field to **In Progress**, shaded red to indicate the breached status, and sets the **Has Breached** field to true. The SLA continues to run until the stop conditions are met.
 
 
-**Parent Topic:**[Service Level Agreement \(Legacy\) engines](../concept/c_GetStartedWithSLAs.md)
+**Parent Topic:**[Service Level Agreement \(Legacy\) engines](c_GetStartedWithSLAs.md)
 

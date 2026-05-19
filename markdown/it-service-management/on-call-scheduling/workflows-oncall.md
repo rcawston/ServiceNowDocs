@@ -60,5 +60,5 @@ Workflows perform On-Call Scheduling operations.
 -   **[Workflow Activities for On-Call Scheduling](workflow-activities-oncall.md)**  
 Workflow activities in On-Call Scheduling workflows.
 
-**Parent Topic:**[Reference for on-call scheduling](../../user-administration/concept/reference-for-on-call-scheduling.md)
+**Parent Topic:**[Reference for on-call scheduling](reference-for-on-call-scheduling.md)
 

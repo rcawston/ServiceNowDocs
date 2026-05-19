@@ -124,7 +124,7 @@ Creates an Okta application record or updates an existing Okta application recor
 </td></tr></tbody>
 </table>## Available sample conversational subflows
 
-Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](../../integrationhub/concept/conv-spokes-na.md).
+Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](conv-spokes-na.md).
 
 |Conversational subflow|Description|
 |----------------------|-----------|
@@ -597,13 +597,13 @@ Verifies and retrieves an external service endpoint configured for an event hook
 </td></tr></tbody>
 </table>## Available conversational actions
 
-Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](../../integrationhub/concept/conv-spokes-na.md).
+Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](conv-spokes-na.md).
 
 Available conversation action is Create Group that creates a group in Okta with the provided details.
 
 ## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -638,11 +638,11 @@ The Okta spoke requires generating and configuring your Okta account to use a we
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-This spoke uses the Okta Connection &amp; Credential Alias record to authorize actions. For information about setting up the spoke, see [Set up Okta spoke](../task/set-up-okta-v1.1.1.md#).
+This spoke uses the Okta Connection &amp; Credential Alias record to authorize actions. For information about setting up the spoke, see [Set up Okta spoke](set-up-okta-v1.1.1.md#).
 
 ## MID Server requirements
 
 These actions use REST calls that can run either on an instance or, optionally, through a MID Server. Use the connection record associated with the Okta alias to configure where actions run and, if needed, specify MID Server selection attributes. For more information, see [MID server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md).
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

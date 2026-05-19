@@ -84,7 +84,7 @@ Role required: admin
                                             phase](../image/ProgressBarConnect.png)
 
 </td></tr></tbody>
-</table>Make sure that the host machine meets the requirements specified in the [MID Server system requirements](../reference/r_MIDServerSystemRequirements.md).
+</table>Make sure that the host machine meets the requirements specified in the [MID Server system requirements](r_MIDServerSystemRequirements.md).
 
 ### About this task
 

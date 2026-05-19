@@ -17,19 +17,19 @@ Intraday schedule automation updates agents schedules to maximize productivity d
 
 ## Configuration overview
 
-1.  [Activate intra-day schedule automation](../task/activate-intraday-scheduling-plugin.md)
+1.  [Activate intra-day schedule automation](activate-intraday-scheduling-plugin.md)
 
     Administrators must activate the intra-day schedule automation plugin before changing any values.
 
-2.  [Copy intraday schedule automation flows](../task/copy-intraday-scheduleing-flows.md)
+2.  [Copy intraday schedule automation flows](copy-intraday-scheduleing-flows.md)
 
     Copy the intra-day schedule automation flows and change only the copies. This practice ensures that you can copy the originals again if something happens to the versions you configure.
 
-3.  \(Optional\) [Change the value for agents being considered early or late](../task/intraday-scheduling-time-value.md)
+3.  \(Optional\) [Change the value for agents being considered early or late](intraday-scheduling-time-value.md)
 
     Update the value that triggers a notification to the dispatcher indicating whether an agent is early or late.
 
-4.  \(Optional\) [Change the time that determines whether an agent has acted](../task/change-intraday-scheduling-timing.md)
+4.  \(Optional\) [Change the time that determines whether an agent has acted](change-intraday-scheduling-timing.md)
 
     Update the value that determines whether an agent has acted.
 

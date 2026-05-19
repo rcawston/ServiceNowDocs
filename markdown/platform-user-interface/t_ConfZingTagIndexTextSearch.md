@@ -57,5 +57,5 @@ After you turn on text indexing for tags on a table, records on the table are re
 -   When you modify a tag, as long as fewer than 100 records are affected. If there are more records, you must manually reindex.
 -   When you manually reindex an entire table \(required after initial tag indexing setup\).
 
-**Parent Topic:**[Tags](../concept/c_Tags.md)
+**Parent Topic:**[Tags](c_Tags.md)
 

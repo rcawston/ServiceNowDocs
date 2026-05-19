@@ -44,6 +44,6 @@ Role required: oauth\_admin
     -   Your code, if MFA is enabled.
 5.  Click **Allow** or **Deny** to complete the authorization and issue the tokens.
 
-    The process that follows is outlined in [OAuth authorization code grant flow](../concept/c_OAuthAuthorizationCodeFlow.md).
+    The process that follows is outlined in [OAuth authorization code grant flow](c_OAuthAuthorizationCodeFlow.md).
 
 

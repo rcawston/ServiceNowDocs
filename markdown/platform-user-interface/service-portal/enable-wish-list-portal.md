@@ -64,7 +64,7 @@ Role required: admin or sp\_admin
     4.  Select the **Show Add/Update Wish List buttons** check box and click **Save**.
 
 
-**Parent Topic:**[SC Wish List Cart widget](../concept/sc-wish-list.md)
+**Parent Topic:**[SC Wish List Cart widget](sc-wish-list.md)
 
 **Related topics**  
 

@@ -33,7 +33,7 @@ To learn more about configuring and using Workspace Builder, see:
 
 -   **[Accessing Workspace Builder](accessing-workspace-builder-aes-crs.md)**  
 You can access Workspace Builder in both ServiceNow Studio or App Engine Studio \(AES\).
--   **[Sample workspaces you can build](../../app-engine-studio/reference/types-of-workspaces.md)**  
+-   **[Sample workspaces you can build](types-of-workspaces.md)**  
 Workspace Builder provides a basic workspace that includes a home page, record pages, lists, an Analytics Overview, and other functions.
 -   **[Parts of a workspace in Workspace Builder](wb-parts-of-a-workspace.md)**  
 Every workspace has parts that enable workspace users to complete their tasks.

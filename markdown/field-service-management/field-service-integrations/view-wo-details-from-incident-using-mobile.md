@@ -32,5 +32,5 @@ Roles required: wm\_agent, sn\_change\_read
 5.  Tap **Details** to view the incident record details.
 
 
-**Parent Topic:**[Integration with Incident Management](../concept/incident-for-fsm.md)
+**Parent Topic:**[Integration with Incident Management](incident-for-fsm.md)
 

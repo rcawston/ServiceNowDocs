@@ -25,7 +25,7 @@ Role required: sn\_ap\_apm.admin
 
 2.  Select **New**.
 
-    The distribution set form view appears. For more information on the form, see [Distribution set form](../reference/distribution-set-form.md)
+    The distribution set form view appears. For more information on the form, see [Distribution set form](distribution-set-form.md)
 
 3.  Select the **Template** check box if you want the distribution set to be applied as a template to the cost allocation record.
 
@@ -45,7 +45,7 @@ Role required: sn\_ap\_apm.admin
 
     1.  Select **New**.
 
-        A distribution line form appears. For more information on the distribution line form, see [Distribution set form](../reference/distribution-set-form.md).![Distribution line](../image/distribution-line-record.png)
+        A distribution line form appears. For more information on the distribution line form, see [Distribution set form](distribution-set-form.md).![Distribution line](../image/distribution-line-record.png)
 
     2.  Allocate the cost and split the invoice line amount by cost center or general ledger account.
 
@@ -55,7 +55,7 @@ Role required: sn\_ap\_apm.admin
 
 8.  To apply distribution set manually for an invoice line, select **Invoice line**&gt; **Cost allocation**&gt; **New**.
 
-    Create a New Invoice cost allocation form appears. You can choose **Allocation type** as Distribution set. For more information on the form, see [Create invoice cost allocation form](../reference/create-invoice-cost-allocation-form.md).![Distribution set in invoice line](../image/distribution-set-cost-alloc.png)
+    Create a New Invoice cost allocation form appears. You can choose **Allocation type** as Distribution set. For more information on the form, see [Create invoice cost allocation form](create-invoice-cost-allocation-form.md).![Distribution set in invoice line](../image/distribution-set-cost-alloc.png)
 
     If a distribution set is created for cost center, then for subsequent cost allocation, the allocation type is cost center by default.
 
@@ -68,10 +68,10 @@ Role required: sn\_ap\_apm.admin
 
 Distribution set automates cost allocations. Each cost allocation record displays the source whether it’s entered manually, derived from a purchase order, or associated with a specific distribution set number confirming complete traceability.
 
-**Parent Topic:**[Invoice cost allocation](../concept/invoice-line-cost-allocation.md)
+**Parent Topic:**[Invoice cost allocation](invoice-line-cost-allocation.md)
 
 **Related topics**  
 
 
-[Create invoice cost allocation form](../reference/create-invoice-cost-allocation-form.md)
+[Create invoice cost allocation form](create-invoice-cost-allocation-form.md)
 

@@ -23,7 +23,7 @@ The Document Management applications allows management of large numbers of docum
 
 </td><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-manage.svg)Activate Document Management](../task/activate-doc-mgmt-plugin.md)
+[Activate![](../../../reuse/icons/brand-icons/bus-manage.svg)Activate Document Management](activate-doc-mgmt-plugin.md)
 
 </td><td>
 

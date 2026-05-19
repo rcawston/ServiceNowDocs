@@ -15,7 +15,7 @@ Get the value of a specific process parameter you had set for a bot process in R
 
 ## Before you begin
 
-Set at least one process parameter as part of a bot process on the RPA Hub. See [Create a process parameter within a bot process in RPA Hub](../../rpa-hub/task/create-process-parameter-botprocess.md#).
+Set at least one process parameter as part of a bot process on the RPA Hub. See [Create a process parameter within a bot process in RPA Hub](create-process-parameter-botprocess.md#).
 
 Assign the automation to the bot process by using the **Assign bot process** option in the Toolbar of RPA Desktop Design Studio . You must set the same bot process and robot associated with the process parameter.
 
@@ -23,7 +23,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the GetProcessParameter component. For more information about these properties, see [Properties of the Process Parameters components](../reference/processprm-properties.md).
+You can configure the properties for the GetProcessParameter component. For more information about these properties, see [Properties of the Process Parameters components](processprm-properties.md).
 
 ## Procedure
 
@@ -45,5 +45,5 @@ You can configure the properties for the GetProcessParameter component. For more
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Process Parameters](../concept/process-parameters.md)
+**Parent Topic:**[Process Parameters](process-parameters.md)
 

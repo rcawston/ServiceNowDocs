@@ -22,11 +22,11 @@ The system supports Visual Task Boards on most modern browsers.
 -   Safari version 12
 -   Access Visual Task Boards on your mobile device using either a browser or the native mobile app. For more information, see [Tested devices and supported versions for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-supported-devices.md).
 
-For more information, see [Browser support](../../../administer/navigation-and-ui/reference/browser-support.md).
+For more information, see [Browser support](../browser-support.md).
 
 ## Scripting support
 
 Visual task boards do not interact with client scripts. Use a UI policy or a data policy instead.
 
-**Parent Topic:**[Visual Task Boards reference](../concept/vis-task-boards-ref.md)
+**Parent Topic:**[Visual Task Boards reference](vis-task-boards-ref.md)
 

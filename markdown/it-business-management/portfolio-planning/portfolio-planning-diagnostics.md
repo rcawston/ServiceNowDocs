@@ -54,7 +54,7 @@ Verifies that all the planning items that can be added to portfolio plans have t
 
  If this scan fails, the result displays the List views that are missing for certain planning item tables.
 
- To learn how to fix these, see [Create list views for new planning item tables in Strategic Planning](../../alignment-planner-workspace/task/create-list-views-for-new-planning-item-tables-in-strategic-planning.md).
+ To learn how to fix these, see [Create list views for new planning item tables in Strategic Planning](../scenario-planning-in-spw/create-list-views-for-new-planning-item-tables-in-strategic-planning.md).
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Verifies that all the planning items that can be added to portfolio plans have t
 
  If this scan fails, the result displays the Form section views that are missing for certain planning item tables.
 
- To learn how to fix these, see [Create form views for new planning item tables in Strategic Planning](../../alignment-planner-workspace/task/create-form-views-for-planning-item-tables-in-apw.md).
+ To learn how to fix these, see [Create form views for new planning item tables in Strategic Planning](../scenario-planning-in-spw/create-form-views-for-planning-item-tables-in-apw.md).
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Verifies that all the planning items that are allowed on portfolio plans have th
 
  If this scan fails, the result displays the Related list views that are missing for certain planning item tables.
 
- To learn how to fix these, see [Create related list views for new planning item types in Strategic Planning](../../alignment-planner-workspace/task/create-related-list-views-new-planning-item-types-strategic-planning.md).
+ To learn how to fix these, see [Create related list views for new planning item types in Strategic Planning](../scenario-planning-in-spw/create-related-list-views-new-planning-item-types-strategic-planning.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Verifies that all the planning items that are allowed on portfolio plans have th
 
  If this scan fails, the result displays the Default view rule is missing for certain planning item tables.
 
- To learn how to fix these, see [Create workspace view rules for new planning item forms in Strategic Planning](../../alignment-planner-workspace/task/create-workspace-view-rules-for-planning-item-tables.md).
+ To learn how to fix these, see [Create workspace view rules for new planning item forms in Strategic Planning](../scenario-planning-in-spw/create-workspace-view-rules-for-planning-item-tables.md).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Verifies that all the planning items that are allowed on portfolio plans have th
 
  If this scan fails, the result displays the APW Default view rule is missing for certain planning item tables.
 
- To learn how to fix these, see [Create workspace view rules for new planning item forms in Strategic Planning](../../alignment-planner-workspace/task/create-workspace-view-rules-for-planning-item-tables.md).
+ To learn how to fix these, see [Create workspace view rules for new planning item forms in Strategic Planning](../scenario-planning-in-spw/create-workspace-view-rules-for-planning-item-tables.md).
 
 </td></tr><tr><td>
 

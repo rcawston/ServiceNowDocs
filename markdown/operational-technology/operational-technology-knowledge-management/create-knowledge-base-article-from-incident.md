@@ -103,5 +103,5 @@ The knowledge article is now published in your OT knowledge base. To view the kn
 
 **Note:** If you set the **Publish workflow** field in your OT knowledge base to **Knowledge - Approval Publish**, the article must be approved before being published.
 
-**Parent Topic:**[Using Operational Technology Knowledge Management](../concept/using-operational-technology-knowledge-management.md)
+**Parent Topic:**[Using Operational Technology Knowledge Management](using-operational-technology-knowledge-management.md)
 

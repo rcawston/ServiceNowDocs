@@ -53,5 +53,5 @@ If suggested steps are available for a case, Now Assist for CSM generates and di
     These visual updates help users clearly identify AI‑generated experiences, creating a more consistent and intuitive interface.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 

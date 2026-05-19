@@ -19,14 +19,14 @@ Retrieve a credit assessment and evaluate the risks for a customer. You can appr
 
 Role required: sn\_bom\_credit\_asmt.b2c\_agent or sn\_bom\_credit\_asmt.b2c\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
 This credit assessment task is automatically created in one of the following conditions:
 
 -   On completion of the [evaluate product eligibility task](evaluate-product-eligibility.md) for a new credit card case
--   With a credit card service case for [increasing credit limit request](../concept/work-increase-credit-limit-case.md)
+-   With a credit card service case for [increasing credit limit request](work-increase-credit-limit-case.md)
 
 ## Procedure
 

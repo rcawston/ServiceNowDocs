@@ -28,5 +28,5 @@ Role required: assignment\_rule\_admin or admin
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Incident Management](../concept/incident-configuration.md)
+**Parent Topic:**[Configuring Incident Management](incident-configuration.md)
 

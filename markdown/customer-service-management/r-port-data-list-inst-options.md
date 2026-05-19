@@ -107,9 +107,9 @@ Data List Condition Script
 
 </td><td>
 
-Script to show or hide the data list category on the widget. For more information, see [Hide or show categories in the Data List widget](../task/create-cond-script-datalist-widget.md).Script to modify the view on the data list widget. For details, see, [Modify view in the Data List widget](../task/update-view-in-datalist-widget.md).
+Script to show or hide the data list category on the widget. For more information, see [Hide or show categories in the Data List widget](customer-self-service-and-omnichannel-engagement/create-cond-script-datalist-widget.md).Script to modify the view on the data list widget. For details, see, [Modify view in the Data List widget](customer-self-service-and-omnichannel-engagement/update-view-in-datalist-widget.md).
 
-Script to filter records in the Data List widget. For details, [Filter records in the Data List widget](../task/filter-records-in-datalist-widget.md).
+Script to filter records in the Data List widget. For details, [Filter records in the Data List widget](customer-self-service-and-omnichannel-engagement/filter-records-in-datalist-widget.md).
 
 The default script is **DataListCategoryConditionScript**.
 
@@ -117,9 +117,9 @@ The default script is **DataListCategoryConditionScript**.
 </table>**Related topics**  
 
 
-[Portal Data List widget](../concept/portal-data-list-widget.md)
+[Portal Data List widget](customer-self-service-and-omnichannel-engagement/portal-data-list-widget.md)
 
-[Add and configure the Portal Data List widget](../task/config-data-list-widget-inst-optns.md)
+[Add and configure the Portal Data List widget](customer-self-service-and-omnichannel-engagement/config-data-list-widget-inst-optns.md)
 
-[Hide or show categories in the Data List widget](../task/create-cond-script-datalist-widget.md)
+[Hide or show categories in the Data List widget](customer-self-service-and-omnichannel-engagement/create-cond-script-datalist-widget.md)
 

@@ -35,7 +35,7 @@ The disposal order workflow when disposing of a pallet or its assets is as follo
 -   Disposing of only the assets and retaining the pallet: The assets are removed from the pallet after they're verified.
 -   Disposing of the pallet with only some of its assets and retaining the remaining assets: The assets that weren't verified or disposed of are removed from the pallet automatically.
 
-For more information, see [Create a disposal order](../task/create-disposal-order.md).
+For more information, see [Create a disposal order](create-disposal-order.md).
 
 ## Consuming assets from a pallet
 
@@ -49,7 +49,7 @@ Assets contained in a pallet can also be consumed as part of the following workf
 
 -   [Asset Local Stock](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/consume-local-asset-stock.md): When an asset from the pallet is consumed as part of the local stock, the asset is removed from the pallet after the Confirm assigned asset task is closed.
 -   [Loaner](loaner-asset.md#): When an asset from a pallet is consumed as a Loaner asset, the asset is removed from the pallet after the Prepare task of the loaner order is closed.
--   [Return leased assets](../task/return-your-leased-hardware-asset.md): When a leased asset from a pallet is returned, the asset is removed from the pallet after the Shipment task is closed.
+-   [Return leased assets](return-your-leased-hardware-asset.md): When a leased asset from a pallet is returned, the asset is removed from the pallet after the Shipment task is closed.
 -   Swap and deploy tasks from ITSM: When deploy asset action is triggered from ITSM, the asset that must be deployed is removed from the pallet. When swap action is triggered from ITSM, the asset in the pallet that is a replacement for a faulty asset is removed from the pallet.
 
 **Parent Topic:**[Manage your inventory through pallet assets](pallets-for-inventory-management.md)
@@ -57,11 +57,11 @@ Assets contained in a pallet can also be consumed as part of the following workf
 **Related topics**  
 
 
-[Create pallet assets](../task/create-pallet-assets.md)
+[Create pallet assets](create-pallet-assets.md)
 
-[Add assets to a pallet](../task/add-assets-to-pallet.md)
+[Add assets to a pallet](add-assets-to-pallet.md)
 
-[Remove assets from a pallet](../task/remove-assets-from-pallet.md)
+[Remove assets from a pallet](remove-assets-from-pallet.md)
 
-[Delete pallet assets](../task/delete-pallet-assets.md)
+[Delete pallet assets](delete-pallet-assets.md)
 

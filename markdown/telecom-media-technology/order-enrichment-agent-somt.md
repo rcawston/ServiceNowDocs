@@ -19,7 +19,7 @@ The order enrichment AI agent creates a task and triggers the order fulfillment 
 
 For each top order line Item \(OLI\) and its child OLIs, the order enrichment agent uses historical data from similar orders to determine which enrichment tasks are required.
 
-To activate the Group Action Framework \(GAF\), see [Activate Group Action Framework for Now Assist for Sales CRM for Telecommunications](../task/activate-group-action-framework-somt.md).
+To activate the Group Action Framework \(GAF\), see [Activate Group Action Framework for Now Assist for Sales CRM for Telecommunications](activate-group-action-framework-somt.md).
 
 If needed, the outcome of the order tasks can be modified by the agent.
 

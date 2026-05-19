@@ -34,14 +34,14 @@ Deleting expense lines and allocations should be limited to an emergency case on
 4.  In the confirmation dialog box, click **Delete**.
 
 
-**Parent Topic:**[Expense lines and expense allocations](../concept/c_ExpenseLinesAndAllocations.md)
+**Parent Topic:**[Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)
 
 **Related topics**  
 
 
 [Create an allocation rule](t_CreateAnAllocationRule.md)
 
-[Automatic expense line creation](../concept/c_CreateExpenseLinesAutomatically.md)
+[Automatic expense line creation](c_CreateExpenseLinesAutomatically.md)
 
 [Create expense lines manually](t_CreateExpenseLinesManually.md)
 

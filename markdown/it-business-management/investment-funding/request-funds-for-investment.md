@@ -69,5 +69,5 @@ You can withdraw funding requests that are in the requested and planning state a
 -   Funds are requested from the source investments sources for the specified period.
 -   The state of the fund request record changes to Requested.
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

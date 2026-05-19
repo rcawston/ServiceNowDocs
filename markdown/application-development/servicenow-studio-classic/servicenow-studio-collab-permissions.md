@@ -15,7 +15,7 @@ breadcrumb: [Reference, ServiceNow Studio, Developing your application, Building
 
 Collaboration permissions determine what delegated developers can do when working on an app in ServiceNow Studio. They can be set by an admin or the app owner.
 
-For more information, see [Collaborating on apps using ServiceNow Studio](../concept/manage-app-collab-servicenow-studio.md).
+For more information, see [Collaborating on apps using ServiceNow Studio](manage-app-collab-servicenow-studio.md).
 
 ## File types custom collaboration permissions
 
@@ -65,5 +65,5 @@ The default setting for both owners and editors is de-selected.
 |Publish app to repo|Grants access to publish the app to your repo.|No|No|
 |Publish to app store|Grants access to publish the app to your app store.|No|No|
 
-**Parent Topic:**[ServiceNow Studio reference](../concept/servicenow-studio-reference.md)
+**Parent Topic:**[ServiceNow Studio reference](servicenow-studio-reference.md)
 

@@ -133,5 +133,5 @@ Hint that is displayed in the question field before a user enters a value.Applic
 -   Date/Time
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Risk Management reference](../concept/hs-risk-mgmt-reference.md)
+</table>**Parent Topic:**[Health and Safety Risk Management reference](hs-risk-mgmt-reference.md)
 

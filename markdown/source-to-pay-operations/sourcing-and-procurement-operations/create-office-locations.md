@@ -86,5 +86,5 @@ Legal entity that is responsible for this office location.
 -   **[Manage delivery to valid address](manage-shipping-address.md)**  
 As an administrator, you can define one or multiple valid countries where a supplier can deliver the products.
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 

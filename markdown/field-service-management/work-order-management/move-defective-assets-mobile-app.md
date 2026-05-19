@@ -80,5 +80,5 @@ A new transfer order line is created.
 
 -   If a transfer order for the drop-off location does not exist, then a new transfer order is created and the transfer order line added to that transfer order.
 
-For more information on asset transfers, see [Move an asset through the transfer process](../../planning-and-policy/task/create-transfer-order-line-task.md).
+For more information on asset transfers, see [Move an asset through the transfer process](create-transfer-order-line-task.md).
 

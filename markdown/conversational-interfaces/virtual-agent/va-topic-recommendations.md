@@ -25,7 +25,7 @@ The Topic Recommendations app lets you evaluate the common use cases that Virtua
 
 The Topic Recommendations app requires NLU Workbench and ITSM Virtual Agent Conversations from the ServiceNow Store. The Australia release of Topic Recommendations supports only ITSM Virtual Agent recommendations. Although Topic Recommendations uses NLU Workbench for machine learning purposes, it does not require that NLU be enabled in Virtual Agent.
 
-For information about the apps that are automatically installed with Topic Recommendations, see [Update Topic Recommendations](../task/install-tr.md).
+For information about the apps that are automatically installed with Topic Recommendations, see [Update Topic Recommendations](install-tr.md).
 
 ## Required plugins
 
@@ -34,7 +34,7 @@ For information about the apps that are automatically installed with Topic Recom
     -   **Required ServiceNow plugins**
         -   **Glide Virtual Agent \(com.glide.cs.chatbot\)**
 
-            Activates all the plugins needed to run Virtual Agent Pro. For details, see [Activate Virtual Agent](../task/activate-virtual-agent.md).
+            Activates all the plugins needed to run Virtual Agent Pro. For details, see [Activate Virtual Agent](activate-virtual-agent.md).
 
             **Note:** Starting with the San Diego release, the Topic Recommendations app is automatically installed when you initially activate the Glide Virtual Agent plugin \(com.glide.cs.chatbot\). Subsequent updates for this app must be installed from the ServiceNow Store.
 
@@ -92,10 +92,10 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 ## What to do
 
 -   [Get started with Topic Recommendations](getting-started-topic-recommendations.md)
--   [Define default recommendation settings](../task/define-tr-settings.md)
--   [Run a Topic Recommendation analysis](../task/run-tr-analysis.md)
--   [Add recommended topics and intents to Virtual Agent](../task/add-tr-results-va.md)
--   [Link a topic recommendation to an existing Virtual Agent topic](../task/link-tr-existing-va-topic.md)
--   [Unlink a topic recommendation from an existing Virtual Agent topic](../task/unlink-tr-va-topic.md)
+-   [Define default recommendation settings](define-tr-settings.md)
+-   [Run a Topic Recommendation analysis](run-tr-analysis.md)
+-   [Add recommended topics and intents to Virtual Agent](add-tr-results-va.md)
+-   [Link a topic recommendation to an existing Virtual Agent topic](link-tr-existing-va-topic.md)
+-   [Unlink a topic recommendation from an existing Virtual Agent topic](unlink-tr-va-topic.md)
 -   [Troubleshoot issues with Topic Recommendations](tr-troubleshooting.md)
 

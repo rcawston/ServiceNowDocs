@@ -60,16 +60,16 @@ Provides the core SLA functionality.SLA Definitions provide conditions to start,
 -   **[Installed with SLA breakdown definitions](installed-with-sla-breakdowns.md#)**  
 Several types of components are installed with the SLA breakdown definitions.
 
-**Parent Topic:**[Service Level Management plugins](../concept/sla-plugins.md)
+**Parent Topic:**[Service Level Management plugins](sla-plugins.md)
 
 **Related topics**  
 
 
-[Activate Service Level Management](../task/activate-sla-plugin.md)
+[Activate Service Level Management](activate-sla-plugin.md)
 
-[Activate SLA timeline](../task/t_ActivateSLATimeline.md)
+[Activate SLA timeline](t_ActivateSLATimeline.md)
 
-[Activate Service Level Management - SLA Timer Config API](../task/activate-sla-timer-config-api.md)
+[Activate Service Level Management - SLA Timer Config API](activate-sla-timer-config-api.md)
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

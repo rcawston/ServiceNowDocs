@@ -145,8 +145,8 @@ Brief description of the impact.
 
     **Note:** Only those risks and controls that are tagged to the impacted entity can be related to this risk event.
 
-    For more information, see [Create a control](../../grc-policy-and-compliance/task/t_CreateAControl.md).
+    For more information, see [Create a control](../policy-and-compliance-management/t_CreateAControl.md).
 
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

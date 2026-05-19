@@ -29,10 +29,10 @@ The channel partner \[sn\_prm\_channel\_partner\] table is an extension of Exter
 
 3.  On the form, fill in the fields.
 
-    To learn more about the fields on the channel partner table and their descriptions, see [Channel partner table fields](../reference/channel-partner-table-fields.md).
+    To learn more about the fields on the channel partner table and their descriptions, see [Channel partner table fields](channel-partner-table-fields.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Data model for Partner Relationship Management](../concept/data-model-for-partner-relationship-management.md)
+**Parent Topic:**[Data model for Partner Relationship Management](data-model-for-partner-relationship-management.md)
 

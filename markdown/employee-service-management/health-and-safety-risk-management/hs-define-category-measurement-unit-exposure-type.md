@@ -70,5 +70,5 @@ Role required: admin
     The measurement unit is listed as a choice in the **Measurement unit** field during an exposure assessment for the exposure type. For more information, see [Add a measurement and exposure source for an exposure assessment](hs-add-measurement-exposure-assessment.md).
 
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](hs-setting-up-risk-mgmt.md)
 

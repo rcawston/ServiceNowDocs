@@ -37,7 +37,7 @@ In the [Create a standard schedule plan](create-events-based-on-schedules.md) pr
     -   The **Start date/time** and **End date/time** fields are hidden.
     -   A **Start date** field is displayed with date only. Select the date from which the schedule plan starts initiating tasks.
     -   The system automatically calculates the start and end time frames based on the selected shifts and the production day configuration of the functional location.
-    For more information about shift-based scheduling, see [Shift-based scheduling for manufacturing standards](../concept/icw-shift-based-scheduling.md).
+    For more information about shift-based scheduling, see [Shift-based scheduling for manufacturing standards](icw-shift-based-scheduling.md).
 
 2.  Verify the time zone displayed on the custom schedule page.
 

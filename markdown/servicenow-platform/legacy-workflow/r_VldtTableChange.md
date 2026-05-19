@@ -31,7 +31,7 @@ For example, a workflow version that is associated with the Change Request \[cha
     -   Ensure that the current record meets the requirements of the at-risk activities.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md)
+-   Related Information: [Workflow activities](../workflow-activities/c_WorkflowActivities.md)
 
 ## Troubleshooting
 

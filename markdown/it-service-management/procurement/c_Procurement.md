@@ -22,13 +22,13 @@ Procurement offers the ability to perform the following functions.
 -   Create and manage transfer orders
 -   Receive assets
 
--   **[Procurement roles](../reference/r_ProcurementRoles.md)**  
+-   **[Procurement roles](r_ProcurementRoles.md)**  
 The Procurement application uses the following roles.
 -   **[Procurement workflows](c_ProcurementWorkflows.md)**  
 Procurement uses the following workflows. You can edit the existing flows or create a flow in the graphical Workflow Studio to meet your organization's asset procurement process.
--   **[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)**  
+-   **[Use the Procurement Overview module](t_UsingTheProcurementOverviewModule.md)**  
 Use the gauges on the Procurement Overview homepage to help you track and manage requests, purchase orders, and other important aspects of the procurement process.
--   **[Activate Procurement](../task/t_ActivateProcurement.md)**  
+-   **[Activate Procurement](t_ActivateProcurement.md)**  
 You can activate the Procurement plugin that provides core procurement capabilities.
 -   **[Sourcing items in a service catalog request](c_SourcingRequestItems.md)**  
 A service catalog request can contain multiple items that must be sourced.
@@ -39,5 +39,5 @@ Assets can be received and added to the system when they are delivered to a stoc
 -   **[Domain separation and Procurement](domain-separation-procurement.md)**  
 Domain separation is supported in Procurement processing. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Asset Management](../../asset-management/concept/c_AssetManagement.md)
+**Parent Topic:**[Asset Management](../asset-management/c_AssetManagement.md)
 

@@ -44,5 +44,5 @@ You must have access to the list of records that you want to analyze.
     -   There is another filter on the **Filters** panel that has the same target field as the filter you are removing.
     -   You have personalized the source list before launching interactive analysis. You cannot synchronize **Group by** and **Stack by** elements by adding or removing a filter if the column is part of a personalized list.
 
-**Parent Topic:**[Interactive Analysis](../concept/interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](interactive-analysis.md)
 

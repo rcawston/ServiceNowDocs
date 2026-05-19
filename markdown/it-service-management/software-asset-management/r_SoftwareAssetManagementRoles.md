@@ -46,12 +46,12 @@ Can create, edit, change, and manage software licenses.
 </td></tr></tbody>
 </table>Users with the sam or admin role can view the overview page and refresh, add, delete, and rearrange reports and other widgets.
 
-**Parent Topic:**[Legacy Software Asset Management plugin Overview module](../concept/c_SWAssetMgmtOverviewMod.md)
+**Parent Topic:**[Legacy Software Asset Management plugin Overview module](c_SWAssetMgmtOverviewMod.md)
 
 **Related topics**  
 
 
-[Use the legacy Software Asset Management plugin Overview module](../concept/c_UseSWAssetMgmtOverviewMod.md)
+[Use the legacy Software Asset Management plugin Overview module](c_UseSWAssetMgmtOverviewMod.md)
 
 [Installed with the legacy Software Asset Management plugin](r_InstalledWithSoftwareAssetMgmt.md)
 

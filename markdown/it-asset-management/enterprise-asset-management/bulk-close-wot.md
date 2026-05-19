@@ -50,5 +50,5 @@ Role required: enterprise\_asset\_technician
     The selected work orders tasks are closed.
 
 
-**Parent Topic:**[Managing work for your enterprise assets](../concept/managing-work-enterprise-assets.md)
+**Parent Topic:**[Managing work for your enterprise assets](managing-work-enterprise-assets.md)
 

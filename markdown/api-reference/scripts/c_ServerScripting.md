@@ -54,13 +54,13 @@ You can declare functions within the immediately invoked function expression. Th
 var value2 = helperFunction(parameter);//Invalid. This function is not accessible from outside the self-executing function.
 ```
 
--   **[Glide Server APIs](../../glide-server-apis/topic/p_GlideServerAPIs.md#)**  
+-   **[Glide Server APIs](p_GlideServerAPIs.md#)**  
 ServiceNow provides APIs for the Glide Server.
--   **[Classic Business rules](../../business-rules/concept/c_BusinessRules.md#)**  
+-   **[Classic Business rules](../business-rules-classic/c_BusinessRules.md#)**  
 A business rule is a server-side script that runs when a record is displayed, inserted, updated, or deleted, or when a table is queried.
 -   **[Script includes](c_ScriptIncludes.md#)**  
 Script includes are used to store JavaScript that runs on the server.
--   **[Processors](../../processors/concept/c_Processors.md)**  
+-   **[Processors](c_Processors.md)**  
 Processors provide a customizable URL endpoint that can execute arbitrary server-side JavaScript code and produce output such as TEXT or JSON. Creating custom processors is deprecated.
 -   **[Scripts - Background module](c_ScriptsBackground.md)**  
 Administrators can use the Scripts - Background module to run arbitrary JavaScript code from the server.
@@ -76,20 +76,20 @@ Using methods in the GlideRecord API, you can return all records from a table, r
 Service catalog order guides allow customers to make a single service catalog request that can generate several ordered items. Administrators can configure order guides to run automatically, from a workflow or a script to generate a set of ordered items without manually submitting a service catalog request. Administrators can also review and reprocess the order guide failures.
 -   **[Scriptable assignment of execution plans](c_ScptblAsmtExctnPlns.md#)**  
 Each catalog item has an associated execution plan, used whenever an item of that type is ordered; if no plan is specified, the default plan is used. This default is effective for most organizations, but your execution plan may need to vary based on additional criteria.
--   **[Using regular expressions in server-side scripts](../../general-scripting/concept/c_RegularExpressionsInScripts.md)**  
+-   **[Using regular expressions in server-side scripts](c_RegularExpressionsInScripts.md)**  
 JavaScript regular expressions automatically use an enhanced regex engine, which provides improved performance and supports all behaviors of standard regular expressions as defined by Mozilla JavaScript. The enhanced regex engine supports using Java syntax in regular expressions.
 -   **[Scriptable service catalog variables](c_ScriptableServiceCatalogVariables.md)**  
 You can use scripting to reference any request item variable from a table in scoped and non-scoped environment.
--   **[Setting a GlideRecord variable to 'NULL'](../reference/r_SettingAGlideRecordVariableToNull.md)**  
+-   **[Setting a GlideRecord variable to 'NULL'](r_SettingAGlideRecordVariableToNull.md)**  
 GlideRecord variables \(including current\) are initially null in the database. Setting these back to an empty string, a space, or the JavaScript null value will not result in a return to this initial state.
--   **[Schedule Pages](../../server-api/concept/c_SchedulePages.md#)**  
+-   **[Schedule Pages](c_SchedulePages.md#)**  
 A schedule page is a record that contains a collection of scripts that allow for custom generation of a calendar or timeline display.
 -   **[XMLDocument script object](c_XMLDocumentScriptObject.md)**  
 A JavaScript object wrapper for parsing and extracting XML data from an XML document \(String\).
--   **[JavaScript engine on the platform](../../JavaScript-engine-upgrade/concept/c_JS_engine_upgrade.md)**  
+-   **[JavaScript engine on the platform](c_JS_engine_upgrade.md)**  
 The JavaScript engine that evaluates server-side scripts supports the ECMAScript 2021 \(ES12\) standard.
--   **[JavaScript API Context-sensitive help](../../general-scripting/concept/c_ScriptingAssistance.md)**  
+-   **[JavaScript API Context-sensitive help](c_ScriptingAssistance.md)**  
 The syntax editor can display context-sensitive API information.
 
-**Parent Topic:**[Scripting](../../topic/c_Script.md)
+**Parent Topic:**[Scripting](c_Script.md)
 

@@ -33,7 +33,7 @@ Role required: sn\_ppt\_export.ppt\_admin
 
 You can add a custom remote table or a child from the parent table.1.  In the **Related Tables** related list, select **New**.
 
-On the Related tables form, fill the fields. For a description of the field values, see [Related Tables form](../reference/related-tables-form.md).
+On the Related tables form, fill the fields. For a description of the field values, see [Related Tables form](related-tables-form.md).
 
 2.  To add a custom remote table:
     1.  [Create a remote table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/create-remote-table.md).
@@ -53,7 +53,7 @@ The selected table and its relation to the parent table is displayed in the Rela
 </td><td>
 
 1.  In the **Scripted Elements** component, select **New**.
-2.  On Scripted Elements form, fill the fields. For a description of the field values, see [Scripted Elements form](../reference/scripted-elements-form.md).
+2.  On Scripted Elements form, fill the fields. For a description of the field values, see [Scripted Elements form](scripted-elements-form.md).
 3.  Select **Submit**.
 
 
@@ -80,5 +80,5 @@ The selected table and its relation to the parent table is displayed in the Rela
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Export to PowerPoint](../concept/configure-export-to-ppt.md)
+**Parent Topic:**[Configuring Export to PowerPoint](configure-export-to-ppt.md)
 

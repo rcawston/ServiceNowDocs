@@ -28,7 +28,7 @@ You can switch over to using computed score by emptying the **Score** field or s
 To use the ServiceNow Spotlight feature, set the configuration settings.
 -   **[Default criteria](default-spotlight-criteria.md)**  
 ServiceNow Spotlight is available with default criteria. Each field provides a score based on the default criteria.
--   **[Set up ServiceNow Spotlight](../task/setup-spotlight.md)**  
+-   **[Set up ServiceNow Spotlight](setup-spotlight.md)**  
 Set up ServiceNow Spotlight to start using and getting the benefits of this feature. The Spotlight feature automatically calculates the execution priority of the automation requests.
 
 **Parent Topic:**[Configuring Automation Center](automation-center-setup.md)

@@ -66,7 +66,7 @@ For more information, see [Test set creation and management](nlu-test-set-creati
 
 Access the test panel by clicking **Train model** or **Try model** in the **Build and train your model** phase. Training incorporates new content into your model. With **Try model**, you can manually enter individual utterances to test what intents the model predicts for them.
 
-For more information, see [Train and try your NLU model](../task/test-train-nlu-model.md).
+For more information, see [Train and try your NLU model](test-train-nlu-model.md).
 
 You can also use the test panel to provide feedback on your model's predictions. Your feedback helps improve intent prediction. See [Test panel feedback](test-model-panel-feedback.md).
 

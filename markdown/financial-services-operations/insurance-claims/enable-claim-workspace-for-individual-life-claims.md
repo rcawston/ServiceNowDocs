@@ -53,5 +53,5 @@ Navigation to page records
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Setting up Individual Life Claims](../concept/setting-up-individual-life-claims.md)
+**Parent Topic:**[Setting up Individual Life Claims](setting-up-individual-life-claims.md)
 

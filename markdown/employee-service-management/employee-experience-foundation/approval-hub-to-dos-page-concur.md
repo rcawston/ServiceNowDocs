@@ -47,18 +47,18 @@ Role required: sn\_hr\_sp.esc\_admin
     -   The **Comments** tab shows all comments for Concur report. Widget is **Concur Comments**.
 6.  Click **Actions** to search and select the required action group.
 
-    Select the **Concur actions** to display the frequently used actions such as **Approve**, **View receipts**, and **Send back**. For more information, see [Action framework](../concept/action-group-framework.md).
+    Select the **Concur actions** to display the frequently used actions such as **Approve**, **View receipts**, and **Send back**. For more information, see [Action framework](action-group-framework.md).
 
 7.  Click **Submit** or **Update**.
 
 
 ## Result
 
-Based on this configuration, the approvers see the in-context information about the Concur approval and process the approval. For more reference info, see [Approvals experience reference](../reference/approval-hub-ootb.md).
+Based on this configuration, the approvers see the in-context information about the Concur approval and process the approval. For more reference info, see [Approvals experience reference](approval-hub-ootb.md).
 
 ## What to do next
 
 Approver users can see information and process the approvals. For more information, see [Use approval experience](ec-to-dos-use-approval-hub.md)
 
-**Parent Topic:**[Approvals hub integration with SAP Concur](../concept/x-concur-sa-integration.md)
+**Parent Topic:**[Approvals hub integration with SAP Concur](x-concur-sa-integration.md)
 

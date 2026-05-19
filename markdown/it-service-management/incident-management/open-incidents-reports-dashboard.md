@@ -17,7 +17,7 @@ View the current information about open incidents as a list, or as a heatmap or 
 
 **Important:**
 
-Starting in Xanadu release, the Open Incidents Reports dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the current information about open incidents as a list, or as a heatmap or pivot table organized by breakdown.
+Starting in Xanadu release, the Open Incidents Reports dashboard is deprecated. Users can use [Incident management dashboard](../incident.md) to view the current information about open incidents as a list, or as a heatmap or pivot table organized by breakdown.
 
 ![Animated gif taking you through the tabs of the Incident Premium - Open Incidents Reports dashboard](../image/incident-premium-open-incidents-reports-dashboard.gif "Tabs of the Open Incidents Reports dashboard")
 

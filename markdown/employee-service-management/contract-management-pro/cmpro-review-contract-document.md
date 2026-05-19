@@ -245,5 +245,5 @@ Select **Ignore**.
     **Note:** If you download the document to work on it offline, you must upload the document manually by creating a revision. For more information, see [Create a document revision](cncore-create-doc-rev.md).
 
 
-**Parent Topic:**[Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md)
+**Parent Topic:**[Contract analysis using Now Assist in Contract Management](cncore-NA-review-land.md)
 

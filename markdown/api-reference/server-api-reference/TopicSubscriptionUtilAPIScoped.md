@@ -21,7 +21,7 @@ Both script includes run in the `sn_api_notif_mgmt` namespace.
 
 For additional information on topic subscriptions, see [External event management via Telecommunications API notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/telecommunications-api-notification.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TopicSubscriptionUtilOOB - executeRegistrationSubflow\(String topicSubID\)
 

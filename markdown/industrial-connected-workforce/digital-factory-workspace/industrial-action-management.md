@@ -33,13 +33,13 @@ A line manager notices unusual vibrations in a packaging machine during a routin
 
 This use of Action Management enables fast, flexible response to emerging issues, supports traceability, and helps maintain equipment reliability between scheduled tasks.
 
--   **[Create an action](../task/create-industrial-action.md)**  
+-   **[Create an action](create-industrial-action.md)**  
 Create an action in the Digital Factory Workspace.
--   **[Create an action from another task](../task/create-action-from-another-task.md)**  
+-   **[Create an action from another task](create-action-from-another-task.md)**  
 Create an action from another task in the Digital Factory Workspace.
--   **[Create a follow-up action](../task/create-follow-up-action.md)**  
+-   **[Create a follow-up action](create-follow-up-action.md)**  
 Create a follow-up action from a task in the Digital Factory Workspace.
--   **[Priority matrix for actions](../reference/priority-matrix-actions.md)**  
+-   **[Priority matrix for actions](priority-matrix-actions.md)**  
 Use the priority matrix to see how priority is calculated based on impact and urgency.
 
 **Parent Topic:**[Industrial Workflows](industrial-workflows.md)

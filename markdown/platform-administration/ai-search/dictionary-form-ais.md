@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Dictionary and AI Search Dictionary forms contain information about your AI Search typo handling, stop word, and synonym dictionaries. Use these forms when creating or modifying a typo handling, stop word, or synonym dictionary for use with AI Search.
 
-For details on creating and modifying dictionaries, see [Modify settings for a typo handling dictionary](../task/config-typo-handling-dict-ais.md), [Create a stop word dictionary linked to a search profile](../task/create-stop-word-dict-ais.md), and [Create a synonym dictionary linked to a search profile](../task/create-synonym-dict-ais.md).
+For details on creating and modifying dictionaries, see [Modify settings for a typo handling dictionary](config-typo-handling-dict-ais.md), [Create a stop word dictionary linked to a search profile](create-stop-word-dict-ais.md), and [Create a synonym dictionary linked to a search profile](create-synonym-dict-ais.md).
 
 <table id="table_nss_bh5_kmb"><thead><tr><th>
 
@@ -73,7 +73,7 @@ Case sensitive
 
 </td><td>
 
-Option to enable case sensitivity for all terms in the dictionary. For more details on case sensitivity, see [Typo handling](../concept/typo-handling-ais.md), [Stop words](../concept/stop-words-ais.md), or [Synonyms](../concept/synonyms-ais.md).
+Option to enable case sensitivity for all terms in the dictionary. For more details on case sensitivity, see [Typo handling](typo-handling-ais.md), [Stop words](stop-words-ais.md), or [Synonyms](synonyms-ais.md).
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ Punctuation sensitive
 
 </td><td>
 
-Option to enable punctuation sensitivity for all terms in the dictionary. For more details on punctuation sensitivity, see [Typo handling](../concept/typo-handling-ais.md), [Stop words](../concept/stop-words-ais.md), or [Synonyms](../concept/synonyms-ais.md).
+Option to enable punctuation sensitivity for all terms in the dictionary. For more details on punctuation sensitivity, see [Typo handling](typo-handling-ais.md), [Stop words](stop-words-ais.md), or [Synonyms](synonyms-ais.md).
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ Indexed sources
 
 </td><td>
 
-List of indexed sources. The dictionary derives auto-correction terms from content indexed for these sources. This field only displays when editing a typo handling dictionary. For more information on indexed sources, see [Indexed sources in AI Search](../concept/indexed-sources-ais.md).
+List of indexed sources. The dictionary derives auto-correction terms from content indexed for these sources. This field only displays when editing a typo handling dictionary. For more information on indexed sources, see [Indexed sources in AI Search](indexed-sources-ais.md).
 
 </td></tr><tr><td>
 
@@ -125,5 +125,5 @@ Comma-separated list of fields. The dictionary excludes terms found in these fie
 -   **tablename.\***: Exclude terms found in all fields in the specified ServiceNow AI Platform table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

@@ -38,5 +38,5 @@ Domain-separated ServiceNow applications are defined with the following properti
     Handles automatically the data, metadata, business logic, and processing context for tenants that have access to additional tenant data.
 
 
-**Parent Topic:**[Domain separation explained](../concept/bp-what-is-domain-separation.md)
+**Parent Topic:**[Domain separation explained](bp-what-is-domain-separation.md)
 

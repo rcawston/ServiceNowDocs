@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Edge Delta TCP integration configuration forms for Health Log Analytics.
 
-For the Edge Delta TCP integration setup procedure, see [Set up an Edge Delta TCP integration for Health Log Analytics](../task/il-connector-hla-edgedelta-tcp.md).
+For the Edge Delta TCP integration setup procedure, see [Set up an Edge Delta TCP integration for Health Log Analytics](il-connector-hla-edgedelta-tcp.md).
 
 <table id="table_avj_dqh_chc"><thead><tr><th>
 

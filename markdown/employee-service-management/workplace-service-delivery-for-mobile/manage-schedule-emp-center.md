@@ -66,9 +66,9 @@ Role required: sn\_wsd\_core.workplace\_user
         -   Use the chevron expand button \(![chevron button to collapse the calendar view.](../images/wsd-mobile-chevron-down.png)\) to expand the calendar view for a month if it is in a collapsed state \(shows only a week view for a selected month when collapsed\).
     2.  Change your workplace presence information from **In-office**, **Remote**, or **Visiting another office**.
 
-        The application fetches presence information from the Employee presence configuration. For information, see [Set Employee Presence](../../workplace-concierge/concept/use-workplace-concierge.md). This option is not available for creating bulk reservations.
+        The application fetches presence information from the Employee presence configuration. For information, see [Set Employee Presence](../workplace-concierge/use-workplace-concierge.md). This option is not available for creating bulk reservations.
 
-        **Note:** If you try to select a date which is labeled as **Remote**, the Remote day is changed to an **In-office** presence day and this record is updated in the Employee Presence Exceptions table \(**All** &gt; **Workplace Concierge** &gt; **Employee Presence** &gt; **Exceptions**\). The **Location** column in this table is updated with the building name that you using to reserve a space for your **In-office** day. For more information, see [Components installed with Workplace Concierge](../../workplace-concierge/reference/components-installed-with-workplace-concierge.md).
+        **Note:** If you try to select a date which is labeled as **Remote**, the Remote day is changed to an **In-office** presence day and this record is updated in the Employee Presence Exceptions table \(**All** &gt; **Workplace Concierge** &gt; **Employee Presence** &gt; **Exceptions**\). The **Location** column in this table is updated with the building name that you using to reserve a space for your **In-office** day. For more information, see [Components installed with Workplace Concierge](../workplace-concierge/components-installed-with-workplace-concierge.md).
 
         -   **In-office**: Option to indicate your in-office presence or days when you are working from office. For example, if you change your In-office presence day to Remote, the changed location message is displayed.
 
@@ -109,7 +109,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     ![Space card showing the Show on map to find your space on the map.](../images/wsd-workplace-mobile-space-suggestion-get-directions.jpeg)
 
-    Application provides workspace suggestions based on your past and future reservation data, frequently used desk or spaces, preferred locations, favorite spaces, preferred workplace services, and preferred collaborators. The Suggestion tags you have added to the Space Suggestion configuration table is displayed on the Desk suggestions card. For example, **Reserved frequently**, **Your favorite**, and so on. When an employee is visiting another office, the suggestions are provided from the office that an employee is visiting and is not based on the users in-office preferences. For more information, see [Space suggestion Configuration](../../workplace-concierge/task/space-suggestion-configuration.md) and [Properties installed with Workplace Concierge](../../workplace-concierge/reference/properties-installed-with-workplace-concierge.md)
+    Application provides workspace suggestions based on your past and future reservation data, frequently used desk or spaces, preferred locations, favorite spaces, preferred workplace services, and preferred collaborators. The Suggestion tags you have added to the Space Suggestion configuration table is displayed on the Desk suggestions card. For example, **Reserved frequently**, **Your favorite**, and so on. When an employee is visiting another office, the suggestions are provided from the office that an employee is visiting and is not based on the users in-office preferences. For more information, see [Space suggestion Configuration](../workplace-concierge/space-suggestion-configuration.md) and [Properties installed with Workplace Concierge](../workplace-concierge/properties-installed-with-workplace-concierge.md)
 
 8.  To update or change a suggested workspace from Space Suggestions, select the **Suggest another** refresh button icon \(![Select the refresh button to suggest another workspace.](../images/wsd-mobile-refresh-icon-workplace-suggestion.png)\).
 
@@ -133,7 +133,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     When there's no reservations for a selected workday, the application shows "You have no desk reservations for today." If you don't make a reservation, application shows "You have not made a reservation for this week's in-office day for \(&lt;date and month name&gt;\)''. If you select a remote day, application shows "You are working from home this day."
 
-    Reservation timings are based on the **All day**Reservable module configuration set by your administrator. If **All day** is enabled and **All day meaning** is set to **Full day**, you can make a reservation for full day \(one day or entire day based on your building timezone\). For Example, reservation timings is shown from 9.00 am to 5.00 pm based on your office work day start time and end time reservation properties. settings. For more information, see [Properties installed with Workplace Reservation Management](../../wsd-reservation-management/reference/properties-installed-with-wsd-reservation-mgmt.md).
+    Reservation timings are based on the **All day**Reservable module configuration set by your administrator. If **All day** is enabled and **All day meaning** is set to **Full day**, you can make a reservation for full day \(one day or entire day based on your building timezone\). For Example, reservation timings is shown from 9.00 am to 5.00 pm based on your office work day start time and end time reservation properties. settings. For more information, see [Properties installed with Workplace Reservation Management](../workplace-reservation-management/properties-installed-with-wsd-reservation-mgmt.md).
 
 10. Tap the **Reservations** tab to view your reservations in an Agenda view.
 
@@ -172,7 +172,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     5.  Select **Cancel Reservation** to cancel a reservation.
 
-        Employees can directly cancel a reservation if the reservation doesn't require cancel notes. The option to add a cancel note is set by your administrator in the Reservable Module Widget Configuration. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+        Employees can directly cancel a reservation if the reservation doesn't require cancel notes. The option to add a cancel note is set by your administrator in the Reservable Module Widget Configuration. For more information, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
         ![Cancel Reservation dialog box.](../images/wsd-mobile-workplace-cancel-rsv-use.jpeg)
 
@@ -184,7 +184,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 13. Tap and select the **Insights** tab to view your collaborators and get insight on their in-office days.
 
-    Match your In-office days with that of your collaborators to maximize productivity and collaboration. The application fetches your preferred collaborators information from the Employee presence configuration. For information, see [Set Employee Presence](../../workplace-concierge/concept/use-workplace-concierge.md).
+    Match your In-office days with that of your collaborators to maximize productivity and collaboration. The application fetches your preferred collaborators information from the Employee presence configuration. For information, see [Set Employee Presence](../workplace-concierge/use-workplace-concierge.md).
 
     Application shows the following information for your preferred collaborators:
 

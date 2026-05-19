@@ -37,6 +37,6 @@ Role required: admin or flow\_designer
 
     ![Sample user preferences selected](../images/example-user-preferfences-options.png)
 
-    For more information about available user preferences, see [User preferences for flows](../reference/flow-preferences.md).
+    For more information about available user preferences, see [User preferences for flows](flow-preferences.md).
 
 

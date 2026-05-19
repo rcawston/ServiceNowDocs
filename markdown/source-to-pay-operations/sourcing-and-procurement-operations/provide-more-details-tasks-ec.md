@@ -44,5 +44,5 @@ You can provide more information on the queries that the procurement buyer has p
 
 You can view the completed task in the **Completed** tab.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](../concept/employee-center-integration-psm.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](employee-center-integration-psm.md)
 

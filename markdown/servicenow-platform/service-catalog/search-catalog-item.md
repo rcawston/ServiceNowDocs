@@ -58,14 +58,14 @@ The search results are sorted in the following order based on the frequency of t
     2.  Under the **Did You Mean Properties** section, enable the **Suggest alternate search spellings for knowledge, catalog or global search** property.
 
 
-**Parent Topic:**[Configure search and navigation](../concept/c_ConfigSrchNavUseProps.md)
+**Parent Topic:**[Configure search and navigation](c_ConfigSrchNavUseProps.md)
 
 **Related topics**  
 
 
 [Search administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-administration.md)
 
-[Service Catalog for managers and end users](../concept/c_UsingTheServiceCatalog.md)
+[Service Catalog for managers and end users](c_UsingTheServiceCatalog.md)
 
 [Regenerate a text index for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RegenerateATextIndexForATable.md)
 

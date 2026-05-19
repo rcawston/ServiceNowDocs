@@ -17,7 +17,7 @@ The ServiceRegistryQuery script include provides methods to map Shazzam service 
 
 Use this script include during the discovery scanning phase.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ServiceRegistryQuery - ServiceRegistryQuery\(Object source\)
 

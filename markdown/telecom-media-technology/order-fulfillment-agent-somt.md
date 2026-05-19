@@ -25,7 +25,7 @@ When a domain order is created, if a fulfillment process isn’t defined for tha
 
 To modify the order fulfillment AI agent, [Duplicate an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
-The order fulfillment AI agent adds tasks apart from the generated tasks from Group Action Framework \(GAF\). To activate the GAF, see [Activate Group Action Framework for Now Assist for Sales CRM for Telecommunications](../task/activate-group-action-framework-somt.md). The GAF and AI search are both used for order tasks.
+The order fulfillment AI agent adds tasks apart from the generated tasks from Group Action Framework \(GAF\). To activate the GAF, see [Activate Group Action Framework for Now Assist for Sales CRM for Telecommunications](activate-group-action-framework-somt.md). The GAF and AI search are both used for order tasks.
 
 Role required: sn\_somt\_gen\_ai.sales\_and \_order\_fulfillment\_ai\_agent
 

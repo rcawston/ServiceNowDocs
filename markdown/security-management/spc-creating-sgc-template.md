@@ -31,13 +31,13 @@ You use the Connector builder in the Security Posture Control workspace to creat
 
 ## Prerequisites
 
-Before you start creating your API connector, you might prefer to set up any credentials for the service \(vendor\) that you want to implement with and have their API documentation and credentials handy as you work through the Connector builder. See [Enter metadata](../task/spc-sgc-template-stepper1.md) for more information.
+Before you start creating your API connector, you might prefer to set up any credentials for the service \(vendor\) that you want to implement with and have their API documentation and credentials handy as you work through the Connector builder. See [Enter metadata](spc-sgc-template-stepper1.md) for more information.
 
 ## Required applications and plugins
 
 The following applications and plugins are required.
 
-For more information about applications in the ServiceNow® Store, see [Exploring the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/exploring-servicenow-store.md) and downloading and activating applications [Download an application from the ServiceNow Store for the first time](../../security-incident-response/reference/download-app-first-time.md).
+For more information about applications in the ServiceNow® Store, see [Exploring the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/exploring-servicenow-store.md) and downloading and activating applications [Download an application from the ServiceNow Store for the first time](download-app-first-time.md).
 
 **Note:** If you're downloading applications to non-production or development instances, it's not necessary to get entitlements.
 

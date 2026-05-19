@@ -25,7 +25,7 @@ Role required: admin
 
 3.  On the Remediation Action Plan form, fill in the fields.
 
-    For a description of the field values, see [Remediation action plan form](../reference/mco-remediation-action-plan-form.md).
+    For a description of the field values, see [Remediation action plan form](mco-remediation-action-plan-form.md).
 
 4.  Select **Save**.
 

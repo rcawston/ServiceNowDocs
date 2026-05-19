@@ -36,7 +36,7 @@ The way an service instance map displays connection attributes depends on the fo
 
 -   [Views you configure for CIs](t_ConfigurePropertyDisplay.md) define which connection attributes appear in the Properties pane of the map.
 -   Connection lines on the map depend on the [view you select for the map](modify-map-view.md).
--   Attributes available for viewing also depend on the Service Mapping setup, for more information see description of [components installed with Service Mapping](../reference/components-installed-with-service-mapping.md).
+-   Attributes available for viewing also depend on the Service Mapping setup, for more information see description of [components installed with Service Mapping](components-installed-with-service-mapping.md).
 
 ## Procedure
 
@@ -233,5 +233,5 @@ User decision
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

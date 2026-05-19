@@ -43,7 +43,7 @@ Demand managers use the Requirement form to describe the requirement and assign 
     -   To update the details of an existing requirement record, select the record.
 5.  On the Create New Requirement form, fill in the fields.
 
-    For a description of the field names, see [Create requirement form](../reference/requirement-form-dw.md) form.
+    For a description of the field names, see [Create requirement form](requirement-form-dw.md) form.
 
 6.  Select **Save**.
 

@@ -39,5 +39,5 @@ The Model hierarchy option is shown only for a model that's associated with a pa
     -   Quantity is displayed only for consumable models.
     -   The component number is added as a prefix to the model component.
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
 

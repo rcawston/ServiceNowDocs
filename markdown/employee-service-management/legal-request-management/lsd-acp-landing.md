@@ -64,11 +64,11 @@ The Privileged and Confidential status of a legal request and its associated mat
 **Related topics**  
 
 
-[Work on a legal request](../task/work-on-legal-request.md)
+[Work on a legal request](work-on-legal-request.md)
 
 [Disable attorney client privilege for a legal request](lsd-acp-enable.md)
 
-[Manage attachments for a legal request](../task/manage-attachments-legal-request.md)
+[Manage attachments for a legal request](manage-attachments-legal-request.md)
 
-[Transfer a legal request](../task/transfer-existing-legal-request.md)
+[Transfer a legal request](transfer-existing-legal-request.md)
 

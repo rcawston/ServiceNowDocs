@@ -145,5 +145,5 @@ Option to create node logs for the raw data that is exchanged with the email ser
 5.  Test the connection by selecting the **Test Connection** link.
 
 
-**Parent Topic:**[Sending email using client credential flow](../concept/send-email-client-credential-flow.md)
+**Parent Topic:**[Sending email using client credential flow](send-email-client-credential-flow.md)
 

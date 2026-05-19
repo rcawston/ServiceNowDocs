@@ -15,9 +15,9 @@ Create your own custom policies to monitor assets for tool coverage and other hi
 
 ## Before you begin
 
-To help you understand the steps required to create a policy with more details, refer to [Examples of base, child, and cloned policies for Security Posture Control](../concept/spc-policy-examples.md). The examples walk you through the steps required to create a base policy, use the base policy to create a child policy, and clone a policy.
+To help you understand the steps required to create a policy with more details, refer to [Examples of base, child, and cloned policies for Security Posture Control](spc-policy-examples.md). The examples walk you through the steps required to create a base policy, use the base policy to create a child policy, and clone a policy.
 
-For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](../concept/spc-policy-examples.md).
+For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](spc-policy-examples.md).
 
 Roles required: SPC Admin Group or SPC Analyst Group
 
@@ -84,7 +84,7 @@ A unique description for your policy. 
 
 7.  Select one from the list for the Connection field.
 
-    The target Entity field is auto populated based on your choice. A new Criteria field is displayed along with Property, Operator, and Value fields. For more information about asset types and the schema for relationships, see [Policies for Security Posture Control](../concept/spc-policies-overview.md).
+    The target Entity field is auto populated based on your choice. A new Criteria field is displayed along with Property, Operator, and Value fields. For more information about asset types and the schema for relationships, see [Policies for Security Posture Control](spc-policies-overview.md).
 
 8.  Select one from the list for Property.
 

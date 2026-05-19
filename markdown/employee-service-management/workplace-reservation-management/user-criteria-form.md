@@ -29,7 +29,7 @@ Use the User Criteria form field information when creating a new user criteria r
 |Departments|Departments who can access reservable modules when you apply the user criteria. Click the unlock departments icon \(![Unlock departments icon](../image/unlock-icon.png)\) to select the departments.|
 |Match All|Option to make every condition required when the user criteria is applied. The conditions are set in the previous fields, such as **Location**, **Department**, and so on|
 
-**Parent Topic:**[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+**Parent Topic:**[Workplace Reservation Management - Field descriptions](workplace-reservation-management-field-descriptions.md)
 
 **Related topics**  
 
@@ -38,7 +38,7 @@ Use the User Criteria form field information when creating a new user criteria r
 
 [Add a room form](add-room-form.md)
 
-[Create a user criteria record](../task/create-user-criteria.md)
+[Create a user criteria record](create-user-criteria.md)
 
-[Apply user criteria on a reservable module](../task/apply-user-crit-resvbl-module.md)
+[Apply user criteria on a reservable module](apply-user-crit-resvbl-module.md)
 

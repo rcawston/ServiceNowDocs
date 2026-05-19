@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Auto-fill inputs are configured by using mobile client scripts that run as a UI rule action in the UI rule of an input form screen. These scripts run in UI rules with an **OnChange** trigger type. For more information about UI rules and UI rule actions, see [Mobile UI Rules](../concept/mobile-ui-rules.md).
+Auto-fill inputs are configured by using mobile client scripts that run as a UI rule action in the UI rule of an input form screen. These scripts run in UI rules with an **OnChange** trigger type. For more information about UI rules and UI rule actions, see [Mobile UI Rules](mobile-ui-rules.md).
 
 **Note:**
 

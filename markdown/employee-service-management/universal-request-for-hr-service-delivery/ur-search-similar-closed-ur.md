@@ -19,7 +19,7 @@ When creating a Universal Request, search for closed universal requests that are
 
 Role required: admin
 
-**Note:** This search option is available only if you install the Predictive Intelligence plugin \(com.glide.platform\_ml\) plugin and then enable the **Enable related search for similar closed Universal Requests** \(sn\_uni\_req.similar\_closed\_universal\_request\) property. For more information on this property, see [Universal Request properties](../reference/ur-properties.md).
+**Note:** This search option is available only if you install the Predictive Intelligence plugin \(com.glide.platform\_ml\) plugin and then enable the **Enable related search for similar closed Universal Requests** \(sn\_uni\_req.similar\_closed\_universal\_request\) property. For more information on this property, see [Universal Request properties](ur-properties.md).
 
 ## Procedure
 
@@ -36,5 +36,5 @@ Role required: admin
 
 Review the solutions to copy the closed information or mark the solution as **This helped**.
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](using-ur.md)
 

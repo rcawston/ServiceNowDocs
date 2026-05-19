@@ -48,14 +48,14 @@ By default, identifiers in the **Keys** column are displayed as strings in UTF8.
 -   binary: display keys in base64
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hermes Messaging Service reference](../concept/hermes-messaging-service-reference.md)
+</table>**Parent Topic:**[Hermes Messaging Service reference](hermes-messaging-service-reference.md)
 
 **Related topics**  
 
 
-[Hermes Messaging Service components](../concept/hermes-messaging-service-components.md)
+[Hermes Messaging Service components](hermes-messaging-service-components.md)
 
-[Hermes Messaging Service security model](../concept/hermes-messaging-service-security-model.md)
+[Hermes Messaging Service security model](hermes-messaging-service-security-model.md)
 
 [Hermes Messaging Service roles](hermes-messaging-service-roles.md#)
 

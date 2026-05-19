@@ -43,5 +43,5 @@ Perform this task to generate a valid OAuth 2.0 token in Microsoft SharePoint On
     **Note:** External Content Q&amp;A Genius Results respect your Microsoft SharePoint Online user profile security settings. If you're not seeing an expected Genius Result answer, it's a good idea to check with your Microsoft SharePoint Online administrator to make sure you have access to the appropriate source documents.
 
 
-**Parent Topic:**[External Content Q&amp;A Genius Results](../concept/external-content-qna.md)
+**Parent Topic:**[External Content Q&amp;A Genius Results](external-content-qna.md)
 

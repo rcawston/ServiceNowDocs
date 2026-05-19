@@ -21,7 +21,7 @@ Role required: routing\_agent and sn\_hr\_core.case\_writer
 
 ## About this task
 
-The state changes described in the procedure can be configured to suit your requirements. For more information, see [Universal Request state mapping](../../universal-request/task/ur-state-mapping.md)
+The state changes described in the procedure can be configured to suit your requirements. For more information, see [Universal Request state mapping](../universal-request-for-hr-service-delivery/ur-state-mapping.md)
 
 ## Procedure
 

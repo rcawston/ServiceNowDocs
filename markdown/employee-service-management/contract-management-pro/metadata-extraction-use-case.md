@@ -335,5 +335,5 @@ Availability of clause that indicates if the contract renews by default unless s
 has\_auto\_renewal\_clause
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create use cases for contract metadata extraction](../task/cmpro-na-usecase-me.md)
+</table>**Parent Topic:**[Create use cases for contract metadata extraction](cmpro-na-usecase-me.md)
 

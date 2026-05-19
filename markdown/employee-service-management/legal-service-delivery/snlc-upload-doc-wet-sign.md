@@ -74,5 +74,5 @@ For Non-disclosure agreement legal requests, the state of the request updates to
 
 For Third-party contract review requests, the state of the request and the contract status updates to **Contract signed**. To close the contract request, select **Close complete**.
 
-**Parent Topic:**[Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)
+**Parent Topic:**[Signature workflow for a request](snlc-lsd-signature-workflow.md)
 

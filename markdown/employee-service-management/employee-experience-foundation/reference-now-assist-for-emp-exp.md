@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for Employee Experience, Unified Employee Experience, Em
 
 Learn more about the system properties installed with the Now Assist for Employee Experience application.
 
--   **[Properties installed with Now Assist for Employee Experience](../reference/properties-installed-with-now-assist-for-emp-exp.md)**  
+-   **[Properties installed with Now Assist for Employee Experience](properties-installed-with-now-assist-for-emp-exp.md)**  
 Properties available with the Now Assist for Employee Experience application.
 
 **Parent Topic:**[Now Assist for Employee Experience](now-assisit-employee-exp.md)

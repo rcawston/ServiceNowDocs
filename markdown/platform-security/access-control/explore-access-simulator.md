@@ -21,10 +21,10 @@ Access Simulator
 
 Use Access Simulator to pre-validate access for a selected user by:
 
--   [Adding Roles to users](../task/add-role-to-user.md)
--   [Removing Roles from users](../task/remove-role-from-user.md)
--   [Adding users to Groups](../task/add-user-to-group.md)
--   [Removing users from Groups](../task/remove-user-from-group.md)
+-   [Adding Roles to users](add-role-to-user.md)
+-   [Removing Roles from users](remove-role-from-user.md)
+-   [Adding users to Groups](add-user-to-group.md)
+-   [Removing users from Groups](remove-user-from-group.md)
 
-To learn more about Access Simulator settings and Enable Take Actions, see [Configuring the Access Simulator \(Take actions\)](../task/configure-access-simulator.md).
+To learn more about Access Simulator settings and Enable Take Actions, see [Configuring the Access Simulator \(Take actions\)](configure-access-simulator.md).
 

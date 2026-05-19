@@ -41,5 +41,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |response| |
 
-**Parent Topic:**[Security Operations Integration - Sightings Search Flow](../task/secops-integration-sightings-search-workflow.md)
+**Parent Topic:**[Security Operations Integration - Sightings Search Flow](secops-integration-sightings-search-workflow.md)
 

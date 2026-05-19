@@ -66,7 +66,7 @@ Role required: sn\_hr\_integrations.admin
         |HR Integrations Background Check Staging \[sn\_hr\_integrations\_background\_check\_staging\]|HR Talent Management Case \[sn\_hr\_core\_case\_talent\_management\]|
 
 
-**Parent Topic:**[Integrating with the First Advantage service](../concept/hr-integrations-with-first-advantage.md)
+**Parent Topic:**[Integrating with the First Advantage service](hr-integrations-with-first-advantage.md)
 
 **Previous topic:**[Provide source credentials for the First Advantage service](hr-integrations-sources-first-advantage.md)
 

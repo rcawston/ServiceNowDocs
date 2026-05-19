@@ -57,11 +57,11 @@ To create campaigns within the Hiring Experiences workspace:
 -   You must have the Content Experiences plugin \(sn\_ca\) activated.
 -   You must have the sn\_ca.campaign\_manager or the sn\_ca.campaign\_approver role to view the campaigns.
 
-For more information on creating targeted campaigns, see [Creating campaigns](../../employee-center/concept/ecpro-campaigns.md).
+For more information on creating targeted campaigns, see [Creating campaigns](../employee-experience-foundation/ecpro-campaigns.md).
 
 The Talent pool section displays all the Talent pools that you can access that are segregated in three types - Owned, Collaborated, or shared.
 
-You can filter the pools by their types, **Export** the details of the section as a downloadable file, or **Create talent pool** directly from the Talent pool section. For more information, see [Create Talent pools](../task/create-talent-pool.md).
+You can filter the pools by their types, **Export** the details of the section as a downloadable file, or **Create talent pool** directly from the Talent pool section. For more information, see [Create Talent pools](create-talent-pool.md).
 
-Similar options are available for the All talent section where all the talent profiles in your organization are displayed. You can use the **Create talent** button to add a talent profile to the All talent list. For more information, see [Create talent profiles](../task/create-talent-ta.md).
+Similar options are available for the All talent section where all the talent profiles in your organization are displayed. You can use the **Create talent** button to add a talent profile to the All talent list. For more information, see [Create talent profiles](create-talent-ta.md).
 

@@ -28,7 +28,7 @@ Understand how to set up, configure, and use Password Reset and Password Reset W
 **Related topics**  
 
 
-[Installed with Password Reset](../reference/r_InstalledWithPasswordReset.md)
+[Installed with Password Reset](r_InstalledWithPasswordReset.md)
 
 [Domain separation and the Password Reset application](domain-separation-pwd-reset.md)
 

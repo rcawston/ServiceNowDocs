@@ -56,7 +56,7 @@ Name
 
 Name of the floor. Ensure that you enter a unique name. For example, use the location name `<location-name>-16` rather than just `16`.
 
-**Note:** Do not use duplicate names as it may affect the reservation process. If you change the name of a building after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+**Note:** Do not use duplicate names as it may affect the reservation process. If you change the name of a building after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 </td></tr><tr><td>
 
@@ -230,11 +230,11 @@ Usable size on the floor.Depending on the selected unit, the **Usable size** fie
 
     Workplace reservation is created in a location's timezone.
 
-    For more information, see Indoor Mapping place types with Workplace Service Delivery space types, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+    For more information, see Indoor Mapping place types with Workplace Service Delivery space types, see [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 7.  Select **Unlink Floor** to unlink a floor from Indoor Mapping map provider.
 
-    For more information about how to link and synchronize Indoor Mapping map data objects with Workplace Indoor Mapping see, [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+    For more information about how to link and synchronize Indoor Mapping map data objects with Workplace Indoor Mapping see, [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 8.  Select **Block location** to define a time period to block these locations for reservation.
 
@@ -249,38 +249,38 @@ Usable size on the floor.Depending on the selected unit, the **Usable size** fie
 
 The floor is added to the building.
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](../workplace-space-management/Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
-[Add a campus](add-a-campus.md)
+[Add a campus](../workplace-space-management/add-a-campus.md)
 
 [Add a building using Workplace Space Management](add-new-building-1.md)
 
-[Add an area using Workplace Space Management](add-an-area.md)
+[Add an area using Workplace Space Management](../workplace-space-management/add-an-area.md)
 
-[Add a room using Workplace Space Management](add-a-room.md)
+[Add a room using Workplace Space Management](../workplace-space-management/add-a-room.md)
 
-[Add a space using Workplace Space Management](add-a-space.md)
+[Add a space using Workplace Space Management](../workplace-space-management/add-a-space.md)
 
-[Allocate a cost center, department, or workplace entity](add-cost-center-department-floor.md)
+[Allocate a cost center, department, or workplace entity](../workplace-space-management/add-cost-center-department-floor.md)
 
-[Configure a workspace or desk as flexible or permanent](assign-a-flex-perm-space.md)
+[Configure a workspace or desk as flexible or permanent](../workplace-space-management/assign-a-flex-perm-space.md)
 
-[Update the measurement details of a workplace location](update-measurement-details-of-workplace-location.md)
+[Update the measurement details of a workplace location](../workplace-space-management/update-measurement-details-of-workplace-location.md)
 
-[Change the status of a workplace location](change-active-status-of-workplace-location.md)
+[Change the status of a workplace location](../workplace-space-management/change-active-status-of-workplace-location.md)
 
-[Configure a BOMA type](configure-a-boma-type.md)
+[Configure a BOMA type](../workplace-space-management/configure-a-boma-type.md)
 
-[Map a space type with BOMA type](map-a-space-type-with-boma-type.md)
+[Map a space type with BOMA type](../workplace-space-management/map-a-space-type-with-boma-type.md)
 
-[Create a Space Recommender rule](create-a-space-recommender-rule.md)
+[Create a Space Recommender rule](../workplace-space-management/create-a-space-recommender-rule.md)
 
 [Raise a space assistance request](raise-a-space-recommendation-request.md)
 
-[Create a view-by configuration](create-view-by-config.md)
+[Create a view-by configuration](../workplace-space-management/create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](../workplace-space-management/reviewing-allocation-changes.md)
 

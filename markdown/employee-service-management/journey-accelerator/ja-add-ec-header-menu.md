@@ -19,14 +19,14 @@ Add or change the header menu labels. Or, update the My active items list link u
 
 Install the latest Employee Center app from the ServiceNow Store. After you install the EC app, you can modify the labels for header menus or My active items links.
 
-1.  [Install Employee Center](../../employee-center/task/activate-ec.md)
+1.  [Install Employee Center](../employee-experience-foundation/activate-ec.md)
 
     Install the Employee Center app to get the latest EC user interface.
 
-2.  [Update the Employee Center theme](../task/ja-update-ec-ui-theme.md)
+2.  [Update the Employee Center theme](ja-update-ec-ui-theme.md)
 
     Update the Employee Center service portal settings to use the latest theme and menus.
 
-3.  -   [Add a Journey Accelerator action plan link to My Active Items list](../task/add-ja-action-plan-myitems-list.md)
--   [Add a Journey Accelerator action plan menu to the Employee Center](../task/add-ja-action-plan-menu-ec-header.md)
+3.  -   [Add a Journey Accelerator action plan link to My Active Items list](add-ja-action-plan-myitems-list.md)
+-   [Add a Journey Accelerator action plan menu to the Employee Center](add-ja-action-plan-menu-ec-header.md)
 

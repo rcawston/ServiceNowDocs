@@ -60,5 +60,5 @@ Your model must be in Monitoring mode. You can set Monitoring mode on the Assess
 
 ## What to do next
 
-If the accuracy of each field is acceptable, transition your model from monitoring mode to real-time predictions and deploy. If the accuracy of a specific field is not acceptable, you can remove that output field from your model, retrain, and deploy. See [Edit a Task Intelligence model](../concept/edit-a-task-intelligence-model.md) for more information on editing your model.
+If the accuracy of each field is acceptable, transition your model from monitoring mode to real-time predictions and deploy. If the accuracy of a specific field is not acceptable, you can remove that output field from your model, retrain, and deploy. See [Edit a Task Intelligence model](edit-a-task-intelligence-model.md) for more information on editing your model.
 

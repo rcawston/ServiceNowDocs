@@ -32,5 +32,5 @@ Role required: admin
 
 The interaction record will be automatically closed in the Service Operations Workspace once the linked incident is closed.
 
-**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](../concept/configure-interaction-management-sow.md)
+**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](configure-interaction-management-sow.md)
 

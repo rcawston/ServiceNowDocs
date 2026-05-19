@@ -101,7 +101,7 @@ In runtime, a viewer can interact with the visualization to open KPI Details for
 
 ![Opening KPI Details by clicking a Line visualization on a technical dashboard.](../../par-for-workspace/image/db-adv-ex-ddown-indicator.gif)
 
-**Parent Topic:**[Technical dashboards](../../performance-analytics/concept/technical-dashboards.md)
+**Parent Topic:**[Technical dashboards](technical-dashboards.md)
 
 **Related topics**  
 

@@ -123,5 +123,5 @@ Dataset card
 Detailed documentation on dataset's purpose, architecture, performance, and ethical considerations for transparency. For example, this dataset is limited to loan applications from regions 25–35 and may reflect bias due to demographic constraints.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request a dataset](../task/request-dataset.md)
+</table>**Parent Topic:**[Request a dataset](request-dataset.md)
 

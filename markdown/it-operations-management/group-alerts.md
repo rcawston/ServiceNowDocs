@@ -40,7 +40,7 @@ Alert grouping rules automatically combine related alerts that represent the sam
 
     The Group alerts page opens.
 
-5.  Follow the steps in [Create Group automation](../../service-operations-workspace-itom/task/group-alert-sow-itom.md).
+5.  Follow the steps in [Create Group automation](service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
 
 6.  To complete the setup, select **Mark as configured**.
 

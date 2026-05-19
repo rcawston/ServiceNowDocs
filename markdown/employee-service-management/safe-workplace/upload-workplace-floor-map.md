@@ -17,7 +17,7 @@ Upload Drawing eXchange Format \(.dxf\) files of floor plans that you can config
 
 ## Before you begin
 
-Use workplace floor maps to find and reserve a space within Workplace Core. To view the maps in the Location directory and within Workplace Reservation Management, use Mappedin and Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](../../workplace-space-mapping/concept/wsm-mappedin-admin.md).
+Use workplace floor maps to find and reserve a space within Workplace Core. To view the maps in the Location directory and within Workplace Reservation Management, use Mappedin and Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](../wsm-mappedin-admin.md).
 
 To avoid issues while rendering your floor plan, verify that the dxf.json attachment size is 5 MB or smaller. To view the size, download the dxf.json file and view the file properties. If the file size is larger than 5 MB, you can:
 
@@ -186,5 +186,5 @@ Determines the order of processing for your AutoCAD tag to Space Field mapping.*
 
 A new floor record is created with the floor plan attached to it. The Spaces related list is populated with all the workspaces of this floor.
 
-**Parent Topic:**[Providing your workplace data](../concept/providing-your-workplace-data.md)
+**Parent Topic:**[Providing your workplace data](providing-your-workplace-data.md)
 

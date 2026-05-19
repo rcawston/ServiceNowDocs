@@ -35,7 +35,7 @@ Discovery uses the [VMware NSX Advanced load balancer discovery](https://raw.git
 
 This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class.
 
-CMDB CI Class Models: Release 1.10.0 adds the following classes for the VMware NSX load balancer. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+CMDB CI Class Models: Release 1.10.0 adds the following classes for the VMware NSX load balancer. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 |Class|Extends|Description|
 |-----|-------|-----------|
@@ -48,5 +48,5 @@ The [VMware NSX Advanced load balancer discovery](https://raw.githubusercontent.
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](../configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 

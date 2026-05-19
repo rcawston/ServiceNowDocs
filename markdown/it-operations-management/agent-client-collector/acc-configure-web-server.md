@@ -56,5 +56,5 @@ Configure the websocket server on MID Servers to enable connections from agents 
         ![Successful installation JSON script](../image/ACC-websocket-JSON.png "Successful installation JSON script")
 
 
-**Parent Topic:**[Configuring Agent Client Collector with a MID Server](../concept/acc-configuring-with-mid.md)
+**Parent Topic:**[Configuring Agent Client Collector with a MID Server](acc-configuring-with-mid.md)
 

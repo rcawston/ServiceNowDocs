@@ -372,5 +372,5 @@ Days to overdue
 Based on the due date of the risk assessment, this field is the number of days after which an assessment is considered overdue.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure a risk assessment methodology](../task/configure-ram.md)
+</table>**Parent Topic:**[Configure a risk assessment methodology](configure-ram.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [F5 Network Management activity pack, Orchestration activity packs, 
 
 The Delete F5 Pool Member activity deletes an F5 load balancer pool member.
 
-This activity was built using the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#). To access the activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
+This activity was built using the [REST web service activity template](t_CreateARESTWebServiceActivity.md#). To access the activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
 ## REST settings
 
@@ -45,5 +45,5 @@ This activity was built using the [REST web service activity template](../../orc
 |Success|Acivity succeeded in deleting an F5 load balancer pool member.|
 |Failure|Acivity failed to delete an F5 load balancer pool member.|
 
-**Parent Topic:**[F5 Network Management activity pack](../concept/c_OrchF5LoadBalancerActivities.md)
+**Parent Topic:**[F5 Network Management activity pack](c_OrchF5LoadBalancerActivities.md)
 

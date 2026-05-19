@@ -18,5 +18,5 @@ Domain separation is unsupported for Zero Copy Connectors. Domain separation ena
 -   **[Zero Copy Connectors roles](roles-zcc.md#)**  
 Zero Copy Connectors is installed with these roles.
 
-**Parent Topic:**[Zero Copy Connectors](../concept/zero-copy-connectors.md)
+**Parent Topic:**[Zero Copy Connectors](zero-copy-connectors.md)
 

@@ -38,5 +38,5 @@ Use this table to see how the due date for a task is calculated based on its pri
 -   **[ICW Health and Safety Integration reference](icw-health-and-safety-integration-reference.md)**  
 Reference topics provide additional information about ICW Health and Safety Integration.
 
-**Parent Topic:**[Digital Factory Workspace](../concept/icw-digital-factory-workspace-landing-page.md)
+**Parent Topic:**[Digital Factory Workspace](icw-digital-factory-workspace-landing-page.md)
 

@@ -52,7 +52,7 @@ However, after you unlink your messaging account from your ServiceNow account \(
     A confirmation message is displayed at the top of the screen.
 
 
-**Parent Topic:**[Account linking in pre-built messaging integrations](../concept/va-adapter-autolinking.md)
+**Parent Topic:**[Account linking in pre-built messaging integrations](va-adapter-autolinking.md)
 
 **Related topics**  
 

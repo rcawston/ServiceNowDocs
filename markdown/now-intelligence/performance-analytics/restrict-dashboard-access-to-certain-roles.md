@@ -44,5 +44,5 @@ Only users with the restricted role are able to view the dashboard. A message on
 
 ![Restricted roles message in the Sharing panel](../image/dashboard-restricted-to-roles.png)
 
-**Note:** The ability of users to share dashboards may be limited by the administrator. For more information, see [Responsive dashboard properties](../reference/dashboard-properties.md).
+**Note:** The ability of users to share dashboards may be limited by the administrator. For more information, see [Responsive dashboard properties](dashboard-properties.md).
 

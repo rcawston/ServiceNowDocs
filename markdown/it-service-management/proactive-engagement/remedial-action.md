@@ -21,7 +21,7 @@ Remedial action allows you to trigger an action on the end user device. With the
 -   If there are any existing Virtual Agent topics, these can be populated as a resolution to the end user.
 -   When the metric rule criteria is met, a catalog item is displayed for the user to fill and submits.
 
-For creating your own remedial action, see [Configure the Remedial Actions Framework](../../service-operations-workspace/task/config-remedial-action-fw.md).
+For creating your own remedial action, see [Configure the Remedial Actions Framework](../service-operations-workspace/config-remedial-action-fw.md).
 
-**Parent Topic:**[Proactive Engagement reference](../proactive-engagement-reference.md)
+**Parent Topic:**[Proactive Engagement reference](proactive-engagement-reference.md)
 

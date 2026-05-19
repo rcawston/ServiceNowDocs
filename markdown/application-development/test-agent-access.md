@@ -18,7 +18,7 @@ Before you can use Test Agent, your instance must meet specific prerequisite req
 
 Ensure that the following applications are installed:
 
--   Build Agent: See [Install Build Agent](../../../build/build-agent/tasks/install-build-agent.md) for more information.
+-   Build Agent: See [Install Build Agent](install-build-agent.md) for more information.
 
     **Note:** If you install Build Agent, Test Agent is installed automatically as part of Build Agent.
 

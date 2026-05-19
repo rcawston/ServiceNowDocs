@@ -21,7 +21,7 @@ Employee Center uses an algorithm to determine which topics appear on the widget
 
 The popularity is calculated based on a scheduled job that runs daily. The algorithm takes into account all the search history for different topics since the configuration of the Employee Center portal.
 
-For more information on the Popular topics configuration, see [Popular topics widget](../task/config-popular-topics.md).
+For more information on the Popular topics configuration, see [Popular topics widget](config-popular-topics.md).
 
 **Parent Topic:**[Configuring Employee Center for mobile](ec-mobile-configrations.md)
 

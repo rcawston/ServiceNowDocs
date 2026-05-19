@@ -43,7 +43,7 @@ If your model is already published, you can publish it again. However, you must 
 
 4.  On the **Test and publish your model** screen, select **Run new test** to assess the model using its default test set.
 
-    Testing can be skipped, but model performance may not be optimal. If testing is skipped, a confirmation message displays, asking if you want to continue without testing. For more information on testing, see [Test and publish your model](../concept/testing-your-model.md).
+    Testing can be skipped, but model performance may not be optimal. If testing is skipped, a confirmation message displays, asking if you want to continue without testing. For more information on testing, see [Test and publish your model](testing-your-model.md).
 
 5.  Click **Publish model**.
 

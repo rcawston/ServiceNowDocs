@@ -23,9 +23,9 @@ Access Findings is the proactive detection and remediation layer within Access M
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/use-access-findings.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](use-access-findings.md)
 
- [Understand how to use Access findings.](../task/use-access-findings.md)
+ [Understand how to use Access findings.](use-access-findings.md)
 
 </td></tr></tbody>
 </table>

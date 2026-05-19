@@ -88,7 +88,7 @@ String
 Name of the table on the ServiceNow instance that contains the record specified in the **recordSysid** parameter.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowAttachmentUploadConfiguration - init\(tableName: String, recordSysId: SysID, fileName: String, contentType: String, encryptionContext: String?\)
 

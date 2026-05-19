@@ -44,5 +44,5 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
     The state of the case updates to **Awaiting internal info**.
 
 
-**Parent Topic:**[Invoice inquiry cases](../concept/work-with-inquiry-cases.md)
+**Parent Topic:**[Invoice inquiry cases](work-with-inquiry-cases.md)
 

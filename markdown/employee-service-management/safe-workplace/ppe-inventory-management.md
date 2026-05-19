@@ -28,9 +28,9 @@ PPE supplies can easily be ordered from the self-service portal via mobile or de
 
 Workplace PPE Inventory Management is part of a suite of ServiceNow® Safe Workplace suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
 
--   With the [Employee Readiness Surveys](../../business-continuity/concept/employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
--   Before users re-enter workspaces, use the [Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
--   With the [Explore Workplace Core](../../workplace-service-delivery/concept/workplace-service-delivery-overview.md) application, prepare for the return of users by configuring and maintaining clean and socially distanced workspaces for them to use.
+-   With the [Employee Readiness Surveys](employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
+-   Before users re-enter workspaces, use the [Employee Health Screening](employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
+-   With the [Explore Workplace Core](../workplace-core/workplace-service-delivery-overview.md) application, prepare for the return of users by configuring and maintaining clean and socially distanced workspaces for them to use.
 
 All Safe Workplace suite applications are available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -95,24 +95,24 @@ All decisions in connection with the implementation of this application are at t
 
 ## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
--   **[Install Workplace PPE Inventory Management](../task/install-ppe-inventory.md#)**  
+-   **[Install Workplace PPE Inventory Management](install-ppe-inventory.md#)**  
 You can install Workplace PPE Inventory Management if you have the admin role.
--   **[Set up Workplace PPE Inventory Management](../task/set-up-ppe.md)**  
+-   **[Set up Workplace PPE Inventory Management](set-up-ppe.md)**  
 Complete setup tasks to start using Workplace PPE Inventory Management. Create models for PPE items, add PPE items to your service catalog, add PPE stock, and create stock rules.
 -   **[PPE Inventory Overview dashboard](ppe-overview-dashboard.md)**  
 Use the PPE Inventory Overview dashboard to track PPE items that are in stock, on order, and assigned to employees.
--   **[Request PPE](../task/request-ppe.md)**  
+-   **[Request PPE](request-ppe.md)**  
 Use Service Catalog to request personal protective equipment \(PPE\) for you to use at your workplace.
--   **[Fulfill a request for PPE](../task/fulfill-ppe-request.md)**  
+-   **[Fulfill a request for PPE](fulfill-ppe-request.md)**  
 View employee requests for personal protective equipment \(PPE\). Fulfill the requests to make sure that employees get the PPE they need to stay safe at the workplace.
--   **[Assign PPE to employees](../task/assign-ppe.md)**  
+-   **[Assign PPE to employees](assign-ppe.md)**  
 You can assign PPE directly to an employee without them submitting a request.
 
-**Parent Topic:**[Safe Workplace](../../human-resources/concept/safe-workplace.md)
+**Parent Topic:**[Safe Workplace](safe-workplace.md)
 

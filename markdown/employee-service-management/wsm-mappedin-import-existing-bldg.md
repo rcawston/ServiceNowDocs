@@ -40,5 +40,5 @@ Role required: sn\_wsd\_mappedin.admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](../concept/wsm-mappedin-type-table.md)
+**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](wsm-mappedin-type-table.md)
 

@@ -37,9 +37,9 @@ Role required: admin
     The project dashboard opens.
 
 
-**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ggl-dialogflow.md)
+**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ggl-dialogflow.md)
 
-**Previous topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ggl-dialogflow.md)
+**Previous topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ggl-dialogflow.md)
 
 **Next topic:**[Create a service account and private key for the Google Dialogflow project](create-srvc-acct-key-dialogflow.md)
 

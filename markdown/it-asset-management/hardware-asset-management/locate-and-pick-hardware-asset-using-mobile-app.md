@@ -73,12 +73,12 @@ Role required: inventory\_user
     -   The **Location** field of the asset is updated with the drop off location only if you have specified the drop off location.
     -   The Hardware Asset request flow and Hardware Refresh request flow proceed to the next stage.
 
-**Parent Topic:**[Manage hardware asset pick tasks using the Mobile Agent application](../concept/manage-asset-pick-task-ham-mobile-app.md)
+**Parent Topic:**[Manage hardware asset pick tasks using the Mobile Agent application](manage-asset-pick-task-ham-mobile-app.md)
 
 **Related topics**  
 
 
 [Start working on a hardware asset pick task using the Mobile Agent application](start-work-pick-task-mobile-ham.md)
 
-[Record time worked on a hardware asset pick task using the Mobile Agent application](../concept/record-time-pick-task-mobile-agent-ham.md)
+[Record time worked on a hardware asset pick task using the Mobile Agent application](record-time-pick-task-mobile-agent-ham.md)
 

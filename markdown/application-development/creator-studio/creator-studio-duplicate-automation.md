@@ -48,5 +48,5 @@ To copy a playbook, you must be given permission to work on the app.
 
 The duplicated playbook opens, and appears in the navigation panel below the original playbook.
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](creator-studio-working-with-automations.md)
 

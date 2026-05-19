@@ -36,7 +36,7 @@ Starting with version 18.0, because you can’t create a recurring remediation e
 
     You can create one recurring remediation effort per watch topic.
 
-    **Note:** You cannot transfer records from recurring remediation efforts into new remediation efforts. However, you can transfer records from existing, non-recurring remediation efforts into new remediation efforts. See [Transfer records to remediation efforts in the Vulnerability Manager Workspace](../../vulnerability-response/task/vr-ws-transfer-VI-to-RE.md) for more information about transferring records.
+    **Note:** You cannot transfer records from recurring remediation efforts into new remediation efforts. However, you can transfer records from existing, non-recurring remediation efforts into new remediation efforts. See [Transfer records to remediation efforts in the Vulnerability Manager Workspace](vulnerability-manager-workspace/vr-ws-transfer-VI-to-RE.md) for more information about transferring records.
 
 3.  On a watch topic, on the upper right from the Create Remediation Effort list, select **Create Recurring Effort**.
 
@@ -57,7 +57,7 @@ Starting with version 18.0, because you can’t create a recurring remediation e
     -   By Assignment group
     -   By Assignment group and configuration item
     -   By Assignment group and vulnerability
-    -   None \(No remediation tasks are created\). Use this method if you want to add records manually to a remediation task for this effort. See [Create a remediation task on-demand from Remediation Effort in the Vulnerability Manager Workspace](../../vulnerability-response/task/vr-ws-create-rt-frm-re.md).
+    -   None \(No remediation tasks are created\). Use this method if you want to add records manually to a remediation task for this effort. See [Create a remediation task on-demand from Remediation Effort in the Vulnerability Manager Workspace](vulnerability-manager-workspace/vr-ws-create-rt-frm-re.md).
 7.  To automatically refresh the duplicate host vulnerable items, you must select the **Automatically refresh duplicate vulnerable items for the created remediation tasks** option.
 
     **Note:** This check box is available only for Host Vulnerabilities.
@@ -123,7 +123,7 @@ Schedules Remediation Effort everyday.**Note:** This option is available startin
 
     A message is displayed that the recurring remediation record was created. The new remediation effort is not displayed immediately, it is created when you scheduled it. It is displayed on your lists after it is created by the scheduled job.
 
-    The date the remediation effort will be created is shown on the corresponding watch topic. For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by records transfer, see [Life cycles of remediation efforts, remediation tasks, and records in the Vulnerability Response Workspaces](../../vulnerability-response/concept/vr-ws-re-lifecycle.md).
+    The date the remediation effort will be created is shown on the corresponding watch topic. For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by records transfer, see [Life cycles of remediation efforts, remediation tasks, and records in the Vulnerability Response Workspaces](vulnerability-manager-workspace/vr-ws-re-lifecycle.md).
 
 
 **Parent Topic:**[Use Remediation Effort records](sem-ws-remed-eff-rcd.md)

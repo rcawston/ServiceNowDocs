@@ -19,7 +19,7 @@ Work orders are composed of at least one, but usually multiple, work order tasks
 
 Optionally, set up one or more work order task configurations.
 
--   [Create work types for a work order task](../task/create-work-type-fsm.md)
+-   [Create work types for a work order task](create-work-type-fsm.md)
 
     Create different work types for a task to determine and configure the various requirements of the task, such as if the task needs a crew and preference of an assignment group.
 
@@ -27,7 +27,7 @@ Optionally, set up one or more work order task configurations.
 
     Work order tasks states are sequential and progress from one state to the next. Depending on your configuration, work order tasks may follow this sequence, a unique sequence, or automatically move from state to state when defined requirements are met.
 
--   [Configure the Scheduled state](../task/configure-scheduled-state.md)
+-   [Configure the Scheduled state](configure-scheduled-state.md)
 
     Allows for the work order task to be soft booked but not confirmed. In this state, the work order task is pending assignment from the dispatcher.
 
@@ -39,7 +39,7 @@ Optionally, set up one or more work order task configurations.
 
     Use the time recording feature enables agents to record time worked on tasks from the Work Order Task form and time spent on other activities, such as meetings or training, from the Time Worked form.
 
--   [Enable PDF summaries at work order task level](../task/enable-pdf-summary.md)
+-   [Enable PDF summaries at work order task level](enable-pdf-summary.md)
 
     Signed PDF summaries are generated at the work order task level. You can generate these PDF summaries at the work order task level by enabling the SM Config.
 

@@ -44,7 +44,7 @@ Role required: sn\_ti.case\_user\_write
 8.  Click **Search**.
 
 
-**Parent Topic:**[IoCs and observables in cases](../concept/cases-in-threat.md)
+**Parent Topic:**[IoCs and observables in cases](cases-in-threat.md)
 
 **Related topics**  
 

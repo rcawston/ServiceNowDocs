@@ -17,9 +17,9 @@ Enhance security in your MID Web Server extension by enabling mTLS authenticatio
 
 ## Before you begin
 
-Ensure that you have enabled Transport Layer Security \(TLS\) on the agent. For details, see [Connect the agent to the MID Server using mTLS](../../agent-client-collector/task/enable-tls-agent.md).
+Ensure that you have enabled Transport Layer Security \(TLS\) on the agent. For details, see [Connect the agent to the MID Server using mTLS](enable-tls-agent.md).
 
-Ensure that the **insecure-skip-tls-verify** parameter in the `acc.yml` configuration file is set to **false**. For details on the `acc.yml` file, see [Configuration file options](../../agent-client-collector/reference/acc-yml-options.md).
+Ensure that the **insecure-skip-tls-verify** parameter in the `acc.yml` configuration file is set to **false**. For details on the `acc.yml` file, see [Configuration file options](../agent-client-collector/acc-yml-options.md).
 
 Role required: agent\_client\_collector\_admin
 
@@ -82,5 +82,5 @@ The MID Web Server extension searches the following locations \(in the specified
 
 ## What to do next
 
-[Connect the agent to the MID Server using mTLS](../../agent-client-collector/task/enable-tls-agent.md).
+[Connect the agent to the MID Server using mTLS](enable-tls-agent.md).
 

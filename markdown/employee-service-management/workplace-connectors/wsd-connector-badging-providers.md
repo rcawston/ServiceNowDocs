@@ -26,7 +26,7 @@ Role required: sn\_wsd\_wc.admin
 2.  Select **New** and add a new provider to get the badging data from the spoke vendor.
 
 
-**Parent Topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for badging data](setup-workplace-connectors.md)
 
 **Previous topic:**[Configure data Sources and schedule imports](import-data-connector.md)
 

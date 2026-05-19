@@ -15,7 +15,7 @@ Set up the SGC Central application for onboarding and maintaining Service Graph 
 
 ## Configuration checklist
 
-1.  [Install SGC Central](../task/sgcc-install.md).
+1.  [Install SGC Central](sgcc-install.md).
 
     **Note:** If you don't see the SGC Central view in the Service Graph Workspace or CMDB Workspace, clear the browser cache and try accessing the view again.
 

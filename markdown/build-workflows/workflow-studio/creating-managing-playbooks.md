@@ -15,7 +15,7 @@ breadcrumb: [Build Playbooks, Playbooks, Workflow Studio, Build workflows]
 
 Learn how to create and configure a playbook in Workflow Studio.
 
-You can view your list of Playbooks by navigating **Process Automation** &gt; **Workflow Studio** &gt; **Playbooks**. Opening a playbook allows you to edit it. If there are no playbooks in the list, you can create a new one by clicking **New** and selecting **Playbook**. For more information on creating a playbook, see [create a process definition](../task/create-process-definition.md).
+You can view your list of Playbooks by navigating **Process Automation** &gt; **Workflow Studio** &gt; **Playbooks**. Opening a playbook allows you to edit it. If there are no playbooks in the list, you can create a new one by clicking **New** and selecting **Playbook**. For more information on creating a playbook, see [create a process definition](create-process-definition.md).
 
 ## Playbook properties
 
@@ -87,15 +87,15 @@ Refer to these design considerations when working with playbooks:
     Record triggers ignore records added or updated by applying an update set or importing an XML file. These operations apply to the entire application or table rather than an individual record.
 
 
--   **[Create a playbook](../task/create-process-definition.md)**  
+-   **[Create a playbook](create-process-definition.md)**  
 Enable playbook owners to configure and organize multiple instances of Workflow Studio content into an automated business process on the ServiceNow AI Platform®.
--   **[Test a playbook](../task/test-process.md)**  
+-   **[Test a playbook](test-process.md)**  
 Verify that your playbook works as expected by running the playbook with test trigger data. Identify and resolve all errors before activating your playbook.
 -   **[Enabling playbook restart](restart.md)**  
 Learn how playbook restart during runtime works and how restart rules control the behavior of stages and activities during a restarted run.
--   **[Duplicate a playbook](../task/duplicate-process.md)**  
+-   **[Duplicate a playbook](duplicate-process.md)**  
 Make a copy of an existing playbook with the same trigger, stages, activities, and experience configurations as the original. Edit the duplicated playbook to quickly create a working variation.
--   **[Add translations for Playbooks](../task/add-translations-playbooks.md)**  
+-   **[Add translations for Playbooks](add-translations-playbooks.md)**  
 Make Playbooks available in multiple languages during runtime, to support worldwide business processes.
 
 **Parent Topic:**[Building Playbooks](building-a-process.md)
@@ -103,7 +103,7 @@ Make Playbooks available in multiple languages during runtime, to support worldw
 **Related topics**  
 
 
-[Designing Playbook Experience](../../workspace/concept/playbook-experience-admins.md)
+[Designing Playbook Experience](playbook-experience-admins.md)
 
-[Running Playbooks](../../workspace/concept/playbook-agents-and-fulfillers.md)
+[Running Playbooks](playbook-agents-and-fulfillers.md)
 

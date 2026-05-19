@@ -83,5 +83,5 @@ The maximum size, in megabytes, for a scripted REST request body, whether or not
  As a result, even if **glide.rest.scripted.max\_inbound\_content\_length\_mb** or **glide.rest.scripted.max\_inbound\_gzip\_content\_length\_mb** are set, the request body is limited to the value of **glide.rest.max\_content\_length**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a scripted REST API](../task/t_CreateAScriptedRESTService.md)
+</table>**Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
 

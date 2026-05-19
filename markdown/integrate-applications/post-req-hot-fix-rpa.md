@@ -52,14 +52,14 @@ This procedure is applicable if you are using Google Chrome, or Edge application
 4.  Launch either RPA Desktop Design Studio, Unattended Robot, or Attended Robot and proceed.
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 
 **Related topics**  
 
 
-[Universal app connector](../concept/universal-app-connector.md)
+[Universal app connector](universal-app-connector.md)
 
-[Chromium connector](../concept/chrome-connector.md)
+[Chromium connector](chrome-connector.md)
 
-[Configuring RPA Desktop Design Studio](../concept/rpa-studio-configure.md)
+[Configuring RPA Desktop Design Studio](rpa-studio-configure.md)
 

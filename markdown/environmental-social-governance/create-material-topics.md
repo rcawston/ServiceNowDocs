@@ -146,10 +146,10 @@ The material topic is sent to the approver. The state changes to **Review**.
 
 ## What to do next
 
-[Create a metric](../../metrics/task/create-a-metric.md)
+[Create a metric](create-a-metric.md)
 
 -   **[Approve or reject a material topic](approve-a-mt.md)**  
 Review and approve or reject a material topic if it is assigned to you for approval.
 
-**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](../concept/configuring-esg.md)
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](configuring-esg.md)
 

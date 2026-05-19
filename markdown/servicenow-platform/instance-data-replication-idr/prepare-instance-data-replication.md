@@ -25,7 +25,7 @@ Before you create a producer replication set, decide which tables to replicate. 
 
 Avoid continuous replication of CMDB tables. Replicating CMDB data as changes occur can create performance issues or unforeseen consequences with replication due to the number of records involved. If you must replicate CMDB tables, consider scheduling replication or use conditions to constrain the count of replicated records and ensure all required columns are included in the replication set.
 
-For a list of tables to avoid replicating, see [Excluded tables in Instance Data Replication](../reference/IDR-excluded-tables.md).
+For a list of tables to avoid replicating, see [Excluded tables in Instance Data Replication](IDR-excluded-tables.md).
 
 ## Analyzing table hierarchies
 

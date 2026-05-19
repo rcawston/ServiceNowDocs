@@ -36,9 +36,9 @@ Enable access to the Idea Portal module using the Application Menus module.
     For example, if you created an Idea module for your HR department and used **hr** as the **Module Id**, the URL to access the Idea Portal would be as follows: `/idea/?id=ideas_list&sysparm_module_id=hr`.
 
 
-**Parent Topic:**[Idea Portal administration](../concept/idea-portal-administration.md)
+**Parent Topic:**[Idea Portal administration](idea-portal-administration.md)
 
-**Previous topic:**[Idea Portal administration](../concept/idea-portal-administration.md)
+**Previous topic:**[Idea Portal administration](idea-portal-administration.md)
 
 **Next topic:**[Create an Idea module](create-idea-module.md)
 

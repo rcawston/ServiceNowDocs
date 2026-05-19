@@ -16,7 +16,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 Discovery commands are used for both probe and pattern-based discovery to access configuration items \(CIs\) in your environment.
 
-For information about Service Mapping commands, see [Prerequisites for performing top-down discovery using Service Mapping](../../service-mapping/reference/prerequisites-service-mapping.md).
+For information about Service Mapping commands, see [Prerequisites for performing top-down discovery using Service Mapping](../service-mapping/prerequisites-service-mapping.md).
 
 For information about MID Server privileged commands, see [MID Server privileged commands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_PrivilegedCommandsForMIDServer.md).
 
@@ -26,10 +26,10 @@ Discovery runs several different types of commands during probe-based horizontal
 
 |Command/Permission|Resource|
 |------------------|--------|
-|SSH commands requiring a privileged user|[SSH commands requiring a privileged user during probe-based discovery](../reference/discovery-ssh-command-require-priv.md)|
-|SSH commands not requiring a privileged user|[SSH commands not requiring a privileged user during probe-based discovery](../reference/discovery-ssh-probe-commands.md)|
-|Windows commands and permissions|[Windows probes and permissions](../reference/r_DiscoWinProbesAndPermissions.md)|
-|Additional permissions|[Discovery probe permissions](../reference/r_AdditionalPermissions.md)|
+|SSH commands requiring a privileged user|[SSH commands requiring a privileged user during probe-based discovery](discovery-ssh-command-require-priv.md)|
+|SSH commands not requiring a privileged user|[SSH commands not requiring a privileged user during probe-based discovery](discovery-ssh-probe-commands.md)|
+|Windows commands and permissions|[Windows probes and permissions](r_DiscoWinProbesAndPermissions.md)|
+|Additional permissions|[Discovery probe permissions](r_AdditionalPermissions.md)|
 
 ## Pattern-based discovery
 
@@ -49,9 +49,9 @@ View commands used by infrastructure and application patterns
 
 </td><td>
 
--   [View Patterns commands through the Discovery Patterns module](../task/view-command-pattern-discovery.md)\*
--   [View Patterns commands through the Command List module](../task/view-pattern-command-in-command-list.md)
--   [Command List form for pattern-based discovery](../../it-operations-management/reference/commands-list-discovery.md)
+-   [View Patterns commands through the Discovery Patterns module](view-command-pattern-discovery.md)\*
+-   [View Patterns commands through the Command List module](view-pattern-command-in-command-list.md)
+-   [Command List form for pattern-based discovery](commands-list-discovery.md)
 
 </td></tr><tr><td>
 
@@ -59,9 +59,9 @@ Validate commands used by infrastructure and application patterns
 
 </td><td>
 
--   [Validate commands used in pattern-based discovery](../../it-operations-management/task/validate-discovery-commands.md)\*
--   [View command validation task results in pattern-based discovery](../task/view-command-validation-task-results.md)
--   [Command Validation Tasks form for pattern-based discovery](../../it-operations-management/reference/command-validation-reference.md)
+-   [Validate commands used in pattern-based discovery](validate-discovery-commands.md)\*
+-   [View command validation task results in pattern-based discovery](view-command-validation-task-results.md)
+-   [Command Validation Tasks form for pattern-based discovery](command-validation-reference.md)
 
 </td></tr><tr><td>
 

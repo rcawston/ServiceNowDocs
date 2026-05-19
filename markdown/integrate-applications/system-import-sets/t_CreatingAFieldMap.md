@@ -164,5 +164,5 @@ Check box to make case-sensitive coalesce values result in the creation of new r
 7.  Click **Update**.
 
 
-**Parent Topic:**[Importing data using import sets](../../../administer/import-sets/concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

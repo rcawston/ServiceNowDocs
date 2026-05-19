@@ -20,7 +20,7 @@ Confirm a user's reported COVID-19 test results through the Employee Readiness C
 Your organization must install both Health and Safety Testing and Vaccination Status to use the Approval Portal.
 
 -   For information on installing Health and Safety Testing, see [Install Health and Safety Testing](install-health-testing.md#).
--   For information on installing Vaccination Status, see [Install Vaccination Status](../../vaccination-status/task/install-vaccination-status.md#).
+-   For information on installing Vaccination Status, see [Install Vaccination Status](../install-vaccination-status.md#).
 
 Activate the **sn\_imt\_health\_test.allow\_managers\_ability\_to\_update\_test\_result\_records** property to enable all managers to review and verify COVID-19 tests of their direct reports. This property assigns the sn\_imt\_core.approval\_portal\_manager role to managers and grants access to the Approval Portal for test results.
 
@@ -76,5 +76,5 @@ Managers can only confirm the COVID-19 test results of their direct reports. Vac
 -   The **COVID test result verified by** field in the user's test result record is updated with your name to confirm you verified the result.
 -   In the user's vaccine profile, the **Most recent COVID test result verified** option is selected.
 
-**Parent Topic:**[Health and Safety Testing](../concept/health-safety-testing.md)
+**Parent Topic:**[Health and Safety Testing](health-safety-testing.md)
 

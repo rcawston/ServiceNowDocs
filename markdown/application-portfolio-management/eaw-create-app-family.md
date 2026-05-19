@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing application family, select the application family.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new application family form](../../reference/eaw-reference/eaw-create-new-application-family-form.md).
+    For field information, see [Create new application family form](eaw-create-new-application-family-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure application families](../../concept/eaw-concept/eaw-setup-app-families.md)
+**Parent Topic:**[Configure application families](eaw-setup-app-families.md)
 
 **Related topics**  
 

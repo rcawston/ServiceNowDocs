@@ -79,7 +79,7 @@ Redirect URLs
 
 </td><td>
 
-Enter the redirect URL for a client. The authorization code is sent to this URL after authentication. To get the redirect URL, refer to the documentation for your AI application and client.To connect to the ServiceNow MCP client on another instance, use the following redirect URL: `https://<client-instance>.service-now.com/oauth_redirect.do`. For more information, see the [Model Context Protocol Client](../../model-context-protocol-client/reference/mcp-client.md) documentation.
+Enter the redirect URL for a client. The authorization code is sent to this URL after authentication. To get the redirect URL, refer to the documentation for your AI application and client.To connect to the ServiceNow MCP client on another instance, use the following redirect URL: `https://<client-instance>.service-now.com/oauth_redirect.do`. For more information, see the [Model Context Protocol Client](mcp-client.md) documentation.
 
 </td></tr><tr class="sub-head"><td colspan="2">
 
@@ -259,7 +259,7 @@ The client secret from the OAuth inbound integration on the server instance.
 
 ### Connecting to an MCP server from ServiceNow Model Context Protocol Client
 
-This example demonstrates how to connect to a server from an AI agent on another instance using the ServiceNow Model Context Protocol Client. First, you configure the client to call the preconfigured Quickstart Server. From an AI agent, you access the Quickstart Server's list of tools and add individual tools to the agent. Lastly, you test the agent in AI Agent Studio by providing a prompt and seeing the agent's response. For more information, see the [Model Context Protocol Client](../../model-context-protocol-client/reference/mcp-client.md) documentation.
+This example demonstrates how to connect to a server from an AI agent on another instance using the ServiceNow Model Context Protocol Client. First, you configure the client to call the preconfigured Quickstart Server. From an AI agent, you access the Quickstart Server's list of tools and add individual tools to the agent. Lastly, you test the agent in AI Agent Studio by providing a prompt and seeing the agent's response. For more information, see the [Model Context Protocol Client](mcp-client.md) documentation.
 
 Role required: sn\_mcp\_client.admin
 
@@ -272,7 +272,7 @@ Role required: sn\_mcp\_client.admin
 4.  Select **New**.
 5.  Add the Quickstart Server.
 
-    For more information about this step, see [Add an MCP Server with OAuth 2.1](../../model-context-protocol-client/task/add-an-oauth-2-1-mcp-server.md).
+    For more information about this step, see [Add an MCP Server with OAuth 2.1](add-an-oauth-2-1-mcp-server.md).
 
     1.  On the Add MCP server form, fill in the fields.
 
@@ -302,12 +302,12 @@ Role required: sn\_mcp\_client.admin
     2.  Select **Allow** to allow the client to connect to the server.
 7.  Add tools from the Quickstart Server to an AI agent.
 
-    For more information about this step, see [Add an MCP server tool to an AI agent](../../model-context-protocol-client/task/add-mcp-server-tool.md).
+    For more information about this step, see [Add an MCP server tool to an AI agent](add-mcp-server-tool.md).
 
     1.  In AI Agent Studio, select the **Create and manage** tab.
     2.  From the AI agents tab, select an existing agent or create one.
 
-        For information about creating an agent, see [Create an AI agent](../../now-assist-ai-agents/task/configure-next-best-action-agent.md).
+        For information about creating an agent, see [Create an AI agent](configure-next-best-action-agent.md).
 
     3.  Select **Add tools and information**.
     4.  Select **Add tool** &gt; **MCP server tool**.
@@ -324,7 +324,7 @@ Role required: sn\_mcp\_client.admin
     7.  Select **Save and continue**.
 8.  Test the AI agent.
 
-    For more information about this step, see [Test an AI agent](../../model-context-protocol-client/task/test-ai-agent-mcp.md).
+    For more information about this step, see [Test an AI agent](test-ai-agent-mcp.md).
 
     1.  In AI Agent Studio, select the **Testing** tab.
     2.  Select **Start manual test**.

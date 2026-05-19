@@ -68,5 +68,5 @@ One or more customer resource is requested. The specific number of resources pro
 
 The delivery of this Accelerator is subject to a preliminary review by a Value SME to ensure that the availability and quality of data is sufficient to deliver a robust value report.
 
-**Note:** This Accelerator is available for the Impact Guided package. Impact Advanced and Total packages include Value Reports as an entitlement. See [Value Reports](../concept/business-value-reports.md) for more information.
+**Note:** This Accelerator is available for the Impact Guided package. Impact Advanced and Total packages include Value Reports as an entitlement. See [Value Reports](../value-library/business-value-reports.md) for more information.
 

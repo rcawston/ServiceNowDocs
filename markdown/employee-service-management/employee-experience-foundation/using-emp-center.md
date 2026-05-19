@@ -19,9 +19,9 @@ Use the Employee Center portal to raise requests, work on to-dos, and search for
 The Employee Center topic pages contain the breadcrumbs widget, topic header widget, sub-topic widget, and the topic content widget.
 -   **[Topic managers and contributors for topic page management](topic-managers-and-contributors-for-topic-page-management.md)**  
 While topic managers control the topic level decisions, the contributors manage the connected content, quick links, adding applications, and featured content on the topic page.
--   **[Use the My To-dos page](../task/ec-to-dos-use.md)**  
+-   **[Use the My To-dos page](ec-to-dos-use.md)**  
 Use the To-dos page to review all tasks that are assigned to you and prioritize them.
--   **[Use approval experience](../task/ec-to-dos-use-approval-hub.md)**  
+-   **[Use approval experience](ec-to-dos-use-approval-hub.md)**  
 Use the **My tasks** section to track and fulfill the requests from the portal and Now Mobile.
 -   **[Manage approvals from Microsoft Teams](../../sn-teams/task/va-concur.md)**  
 Manage Concur expense approvals using Virtual Agent actionable notifications in Microsoft Teams to resolve the approval directly in the Virtual Agent conversation without involving a live agent.
@@ -31,17 +31,17 @@ Approve or reject Concur expense reports from a Microsoft Outlook email message.
 Use the enhanced filters experience to manage and prioritize the tasks. Using the filters, employees and managers can have better visibility into the time-sensitive and business-critical tasks.
 -   **[View the Recommended for you content](rfy-employee.md)**  
 Access all the content recommended for you from from a central location in one-click.
--   **[Use Employee Center from Zoom](../task/zoom-create-email-notification.md)**  
+-   **[Use Employee Center from Zoom](zoom-create-email-notification.md)**  
 Access and use the ServiceNow® Employee Center capabilities from Zoom client.
 -   **[View employee profile](update-employee-profile.md)**  
 View the employee profile with your personal information from the employee portal and Now Mobile.
 -   **[Use Personalized Answers](using-personalized-search-on-employee-center.md)**  
 Employees can use the AI-search enabled feature to seek information about their leave balance and more on the Employee Center search page.
--   **[Employee Profile org chart widget](../task/view-org-chart.md)**  
+-   **[Employee Profile org chart widget](view-org-chart.md)**  
 Use the Employee Profile org chart widget to easily browse, search, and navigate through the organization chart.
 -   **[RTL support for Employee Center](ec-rtl-language-support.md)**  
 As an employee, you can change the display of the user interface from right-to-left.
--   **[Manage favorites](../task/web-configure-favorites-employee.md)**  
+-   **[Manage favorites](web-configure-favorites-employee.md)**  
 Mark the content as your favorites and easily access all your favorites.
 -   **[Access applications from App Launcher](web-application-employee.md)**  
 Access all your applications from a central location in one-click.

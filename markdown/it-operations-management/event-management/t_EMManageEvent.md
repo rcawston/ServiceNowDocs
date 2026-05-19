@@ -27,7 +27,7 @@ The event monitoring tool generates the values of the source and resource fields
 
 An event source may generate duplicate events with the same identifying information. For events with the same identifying information, Event Management uses the time interval between events to determine whether the events represent an existing issue or new issue.
 
-Additional fields should be included in the **Additional information** field of the event. Do not add additional fields to an event by adding a custom field to the event \[em\_event\] table. For more information about how to include additional fields in events, see [Custom alert fields](../concept/populate-custom-alert-fields.md).
+Additional fields should be included in the **Additional information** field of the event. Do not add additional fields to an event by adding a custom field to the event \[em\_event\] table. For more information about how to include additional fields in events, see [Custom alert fields](populate-custom-alert-fields.md).
 
 **Note:** Avoid writing business rules for event \[em\_event\] tables, as they can result in performance degradation.
 

@@ -61,7 +61,7 @@ Advanced Work Assignment \(AWA\)
 
 </td><td>
 
-Advanced Work Assignment doesn’t support mobile devices or Microsoft Edge browsers. Instead, use Microsoft Edge - Chromium or one of the other supported browsers that are listed in [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+Advanced Work Assignment doesn’t support mobile devices or Microsoft Edge browsers. Instead, use Microsoft Edge - Chromium or one of the other supported browsers that are listed in [Browser support](browser-support.md).
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Configurable Workspace
 
 </td><td>
 
-Configurable Workspace doesn’t support mobile devices, Internet Explorer, or Microsoft Edge. Instead, use Microsoft Edge, Chromium or one of the other supported browsers that are listed in [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+Configurable Workspace doesn’t support mobile devices, Internet Explorer, or Microsoft Edge. Instead, use Microsoft Edge, Chromium or one of the other supported browsers that are listed in [Browser support](browser-support.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Data Management for CSM
 
 </td><td>
 
-Starting with the Australia release, data management for Customer Service Management doesn't support mobile devices and Internet Explorer. For more information, see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+Starting with the Australia release, data management for Customer Service Management doesn't support mobile devices and Internet Explorer. For more information, see [Browser support](browser-support.md).
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Now Assist for Legal Service Delivery \(LSD\)
 
 </td><td>
 
-To see the list of supported browsers for Now Assist for Legal Service Delivery \(LSD\), see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+To see the list of supported browsers for Now Assist for Legal Service Delivery \(LSD\), see [Browser support](browser-support.md).
 
 </td></tr><tr><td>
 
@@ -186,7 +186,7 @@ RPA Hub
 
 </td><td>
 
-ServiceNow workspaces don’t support mobile devices. For more information about the list of supported browsers, see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+ServiceNow workspaces don’t support mobile devices. For more information about the list of supported browsers, see [Browser support](browser-support.md).
 
 </td></tr><tr><td>
 
@@ -194,7 +194,7 @@ Self-service and omnichannel engagement for CSM
 
 </td><td>
 
-Starting with the Australia release, self-service and omnichannel application don't support Internet Explorer. For more information, see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+Starting with the Australia release, self-service and omnichannel application don't support Internet Explorer. For more information, see [Browser support](browser-support.md).
 
 </td></tr><tr><td>
 
@@ -213,5 +213,5 @@ UI Builder
 Internet Explorer isn't supported for UI Builder
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](release-notes-summaries.md)
 

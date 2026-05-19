@@ -29,7 +29,7 @@ The following items are installed with Zoom extension for Omnichannel Callback:
 -   Script includes
 -   Business rules
 
-For more information, see [Components installed with Zoom extension for Omnichannel Callback](../Reference/comp-installed-zoom-extension.md).
+For more information, see [Components installed with Zoom extension for Omnichannel Callback](comp-installed-zoom-extension.md).
 
 ## Procedure
 

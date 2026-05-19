@@ -89,5 +89,5 @@ Option that indicates that this is a top-level investment. This setting cannot b
 -   **[Fund a top-level investment](add-fund-top-investment.md)**  
 Allocate funds to a top-level investment so that the investment owner can distribute funds further.
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

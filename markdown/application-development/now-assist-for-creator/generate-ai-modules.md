@@ -114,5 +114,5 @@ Module generation issues
 4.  \(Optional\) If needed, add, or rearrange modules.
 5.  Select **Done** to finish.
 
-**Parent Topic:**[Using UI generation](../concept/using-ui-generation.md)
+**Parent Topic:**[Using UI generation](using-ui-generation.md)
 

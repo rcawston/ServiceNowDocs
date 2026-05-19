@@ -42,5 +42,5 @@ The Refresh Host Data for Agents scheduled job collects host data and runs every
 2.  Locate the **Host data last collected** column to view when data collection was last performed on the host.
 
 
-**Parent Topic:**[Enabling Agent Client Collector data collection](../concept/data-collection-enabling.md)
+**Parent Topic:**[Enabling Agent Client Collector data collection](data-collection-enabling.md)
 

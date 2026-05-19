@@ -23,7 +23,7 @@ Role required: sn\_hr\_core.ws\_admin and sn\_hr\_core.admin
 
 Guided Setup supports domain separation at the global and at the parent or child levels. You can run the guided setup separately for each domain within HR Service Delivery.
 
-To learn more about domain separation, see [Domain Separation and HR Service Delivery](../concept/hr-domain-separation.md).
+To learn more about domain separation, see [Domain Separation and HR Service Delivery](hr-domain-separation.md).
 
 ## Procedure
 

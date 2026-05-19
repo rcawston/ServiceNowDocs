@@ -83,7 +83,7 @@ Use these general guidelines when working with the Look Up Records action.
 
 -   **Process records with For Each flow logic**
 
-    Use For Each flow logic to iterate through a list of records. For more information about using For Each flow logic, see [For Each flow logic](../concept/flow-logic-for-each.md).
+    Use For Each flow logic to iterate through a list of records. For more information about using For Each flow logic, see [For Each flow logic](flow-logic-for-each.md).
 
 -   **Set Max Results to improve performance**
 
@@ -104,5 +104,5 @@ In this example, the flow starts when an emergency change request is opened in t
 
 In the execution details, the Count output shows three configuration items that are assigned to the requester of the change request. The Records output shows the configuration items by name in the execution details page, but the data pill contains a series of Sys ID values. The Table output is the Configuration Item \[cmdb\_ci\] table.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

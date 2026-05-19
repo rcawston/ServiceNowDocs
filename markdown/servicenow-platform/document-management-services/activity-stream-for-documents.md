@@ -19,11 +19,11 @@ You can include and track attached documents in activity stream journal fields l
 
 To add and attach documents to a record's activity stream, you would need to complete the following tasks:
 
--   [Enable Document actions in activity stream](../task/configure-doc-action-activity-stream.md)
--   [Enable Documents in the record](../task/enable-doc-related-list.md)
--   [Add documents to the record](../task/create-new-doc-parent.md)
+-   [Enable Document actions in activity stream](configure-doc-action-activity-stream.md)
+-   [Enable Documents in the record](enable-doc-related-list.md)
+-   [Add documents to the record](create-new-doc-parent.md)
 
--   **[Include document actions in an activity stream](../task/configure-doc-action-activity-stream.md)**  
+-   **[Include document actions in an activity stream](configure-doc-action-activity-stream.md)**  
 Include document actions in an activity stream to view and track updates to attached documents in a record.
 
 **Parent Topic:**[Using Document Management](using-document-management.md)

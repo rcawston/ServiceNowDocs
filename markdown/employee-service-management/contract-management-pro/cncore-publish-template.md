@@ -46,14 +46,14 @@ The contract template is published.
 
 **Note:** If the contract type associated with the contract template is deactivated when the contract template is in the Draft or Editing state, an error is displayed when you try to publish the template.
 
-**Parent Topic:**[Configure templates for a contract and amendment request in Contract Management Pro](../concept/cncore-document-templates.md)
+**Parent Topic:**[Configure templates for a contract and amendment request in Contract Management Pro](cncore-document-templates.md)
 
 **Related topics**  
 
 
-[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](../concept/cncore-setup-ct-add-in.md)
+[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-setup-ct-add-in.md)
 
-[Create contract template by manually adding content controls](../concept/cncore-setup-ct-manual.md)
+[Create contract template by manually adding content controls](cncore-setup-ct-manual.md)
 
-[Configure dynamic clauses for contract templates](../concept/cncore-clause-and-cv.md)
+[Configure dynamic clauses for contract templates](cncore-clause-and-cv.md)
 

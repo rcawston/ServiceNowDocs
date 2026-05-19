@@ -264,16 +264,16 @@ ACC-VC uses the same classification criteria as IP-based Discovery for classifyi
     A snapshot of a live virtual machine instance persisted to a file system or cloud storage.
 
 
--   **[Agent Client Collector for Visibility - Content default checks and policies](../reference/acc-visibility-checks-policies.md)**  
+-   **[Agent Client Collector for Visibility - Content default checks and policies](acc-visibility-checks-policies.md)**  
 Agent Client Collector for Visibility - Content \(ACC-VC\) provides various checks and policies as well as a business rule.
--   **[Agent Client Collector MID-less installation command parameters](../reference/acc-ics-command-params.md)**  
+-   **[Agent Client Collector MID-less installation command parameters](acc-ics-command-params.md)**  
 Description of the command line parameters used during MID-less Agent Client Collector installation.
--   **[Data collected during Agent Client Collector for Visibility - Content file-based Discovery](../reference/data-collected-file-based-discovery.md)**  
+-   **[Data collected during Agent Client Collector for Visibility - Content file-based Discovery](data-collected-file-based-discovery.md)**  
 The following tables describe the data collected during Agent Client Collector for Visibility - Content file-based Discovery.
--   **[Software edition configuration fields](../reference/software-edition-configuration.md)**  
+-   **[Software edition configuration fields](software-edition-configuration.md)**  
 Description of the software edition configuration fields in use when identifying the edition of Windows software.
--   **[Web usage data collection tables and fields](../reference/web-usage-collection-tables.md)**  
+-   **[Web usage data collection tables and fields](web-usage-collection-tables.md)**  
 Description of the tables and their fields used when gathering web usage data from your Windows and macOS machines.
 
-**Parent Topic:**[Agent Client Collector reference](../reference/acc-reference.md)
+**Parent Topic:**[Agent Client Collector reference](acc-reference.md)
 

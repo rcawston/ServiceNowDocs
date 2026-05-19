@@ -50,5 +50,5 @@ To view the state of the request as a chemical manager on the Health and Safety 
 2.  In the primary navigation, select **Environmental Management** \(![environmental management](../image/icon-hs-envt-mgmt.png)\) icon.
 3.  In the **Chemical requests** list, select the **Approved** section.
 
-**Parent Topic:**[Chemical management](../concept/hs-using-chemical-management.md)
+**Parent Topic:**[Chemical management](hs-using-chemical-management.md)
 

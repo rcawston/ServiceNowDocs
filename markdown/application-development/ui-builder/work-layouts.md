@@ -33,7 +33,7 @@ Upgrade layouts created in Quebec and Rome to the new layout system.
 Create a Flexbox layout in UI Builder to build powerful pages so that you can customize with cascading style sheets \(CSS\) and can improve your performance.
 -   **[Using CSS Grid layouts to build a page](css-grid-uib.md#)**  
 Create a CSS Grid layout in UI Builder to build powerful pages so that you can customize with cascading style sheets \(CSS\) and can improve your performance.
--   **[Change the layout of a page created in Quebec or Rome](../task/change-layout.md)**  
+-   **[Change the layout of a page created in Quebec or Rome](change-layout.md)**  
 Add and modify your layout design to change the way your page looks. Choose how components are displayed on a page through Cascading Style Sheets \(CSS\) web layout technologies, such as Flexbox and CSS Grid.
 
 **Parent Topic:**[Working in UI Builder](using-ui-builder.md)

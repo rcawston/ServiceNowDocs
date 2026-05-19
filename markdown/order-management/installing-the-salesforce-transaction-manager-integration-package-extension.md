@@ -71,7 +71,7 @@ Optionally, allow microphone access for Cosmo Converse \(currently in beta\). Co
 
 ## CPQ: Set up the runtime client token
 
-The CPQ runtime client token facilitates authentication for communications from Salesforce to CPQ. For steps to create a runtime client token in CPQ, see [Set up a runtime client](../task/cpq-set-up-a-runtime-client.md). For this Transaction Manager use case, please be sure to enable permissions on this runtime client for TRANSACTION, and add a valid User ID that is recognized by the corresponding Salesforce environment.
+The CPQ runtime client token facilitates authentication for communications from Salesforce to CPQ. For steps to create a runtime client token in CPQ, see [Set up a runtime client](cpq-set-up-a-runtime-client.md). For this Transaction Manager use case, please be sure to enable permissions on this runtime client for TRANSACTION, and add a valid User ID that is recognized by the corresponding Salesforce environment.
 
 Note that in CPQ Admin, the runtime client token must be updated to include TRANSACTION in its permissions and itself as an origin. \(For example, the runtime client token for `https://test-txn.test02.logik.io` must have an origin of `https://test-txn.test02.logik.io`.\) Also, when a runtime client token includes TRANSACTION, a user must be included. Make sure that the user has permission to perform the Create Transaction event.
 

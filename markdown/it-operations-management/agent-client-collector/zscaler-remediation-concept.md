@@ -29,9 +29,9 @@ By default, the **Zscaler Monitoring Policy** monitoring check runs every 30 min
     -   Maximum amount of data produced by a single agent, per day: 96KB
     -   Maximum amount of data produced by a 20K agents, per day: 1.92GB
 
--   **[Check Zscaler remediation](../task/zscaler-check-remediation.md)**  
+-   **[Check Zscaler remediation](zscaler-check-remediation.md)**  
 Verify that Zscaler remediation stops and starts the Zscaler app after the remediation monitoring check fails.
--   **[Use the Zscaler dashboard](../task/zscaler-dashboard.md)**  
+-   **[Use the Zscaler dashboard](zscaler-dashboard.md)**  
 Use the Zscaler dashboard to view Zscaler monitoring and remediation statuses in graph format.
 
 **Parent Topic:**[Deploying Agent Client Collector on endpoints](acc-endpoint-deployment.md)

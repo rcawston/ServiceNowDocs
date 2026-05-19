@@ -40,7 +40,7 @@ A workplace case is created and is automatically assigned to the Workplace servi
 
 On the Workplace Case form, the universal request number that was used for creating the workplace case is displayed. The Workplace case number appears in the primary **Ticket** field on the Universal Request form and also under the Associated Tickets related list.
 
-**Parent Topic:**[Workplace Service Delivery integration with Universal Request](../concept/wsd-intergration-with-universal-request.md)
+**Parent Topic:**[Workplace Service Delivery integration with Universal Request](wsd-intergration-with-universal-request.md)
 
 **Related topics**  
 

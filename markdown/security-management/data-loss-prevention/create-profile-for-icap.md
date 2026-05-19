@@ -90,5 +90,5 @@ Define and set filter conditions to filter the incoming  DLP  alerts. Determ
 -   **[Schedule the ICAP DLP incidents retrieval](schedule-icap-dlp-incidents-retrieval.md)**  
 Set a schedule to retrieve ICAP DLP alerts that match the criteria in the profile.
 
-**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](../concept/icap-dlp-integration.md)
+**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](icap-dlp-integration.md)
 

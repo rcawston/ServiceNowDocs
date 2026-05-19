@@ -17,9 +17,9 @@ Plan and configure your implementation for Accounts Payable Operations.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
--   **[Install Accounts Payable Invoice Processing](../task/install-acc-pay-mgmt.md)**  
+-   **[Install Accounts Payable Invoice Processing](install-acc-pay-mgmt.md)**  
 You can install the Accounts Payable Invoice Processing \(sn\_ap\_apm\) application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Install Invoice Case Management](../task/install-invoice-case-mgmt.md)**  
+-   **[Install Invoice Case Management](install-invoice-case-mgmt.md)**  
 You can install the Invoice Case Management \(sn\_ap\_cm\) application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Install Accounts Payable Operations integration with Document Intelligence](apm-integration-docintel.md)**  
 Accounts Payable Operations integration with Document Intelligence \(sn\_ap\_ic\) is installed automatically along with Accounts Payable Invoice Processing \(sn\_ap\_apm\).

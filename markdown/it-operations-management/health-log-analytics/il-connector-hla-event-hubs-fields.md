@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Microsoft Azure Event Hubs integration configuration forms for Health Log Analytics.
 
-For the Microsoft Azure Event Hubs integration setup procedure, see [Set up a Microsoft Azure Event Hubs integration for Health Log Analytics](../task/il-connector-hla-event-hubs.md).
+For the Microsoft Azure Event Hubs integration setup procedure, see [Set up a Microsoft Azure Event Hubs integration for Health Log Analytics](il-connector-hla-event-hubs.md).
 
 <table id="table_t11_vvw_jfc"><thead><tr><th>
 

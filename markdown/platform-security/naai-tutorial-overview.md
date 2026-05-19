@@ -29,11 +29,11 @@ Before starting this tutorial, verify the following:
 
 Reviewing the Now Assist security model before you build can help make configuration decisions easier.
 
--   **[Access control lists \(ACLs\)](../../contextual-security/concept/access-control-rules.md)**
+-   **[Access control lists \(ACLs\)](access-control/access-control-rules.md)**
 
     Determine who can discover and invoke an agent or agentic workflow. ACLs are configured on the agent itself and are checked before the agent executes.
 
--   **[User identity](../../general/concept/identity-landing.md)**
+-   **[User identity](identity/identity-landing.md)**
 
     Determines what data the agent can access once invoked. A dynamic user agent inherits the invoking user's roles. An AI user agent runs as a dedicated system user with fixed assigned roles.
 

@@ -64,8 +64,8 @@ The Associated Department \[fm\_m2m\_department\_to\_space\] table extends the f
 The floor plan visualization feature uses files in the GeoJSON format, an open standard for representing geographical features.
 -   **[Customer-created maps](r_Manually-builtMaps.md)**  
 Creating a map begins with the addition of the campus, then the buildings, floors, and other spaces.
--   **[Run transform to update data](../task/t_RunTransform.md)**  
+-   **[Run transform to update data](t_RunTransform.md)**  
 Running a transform exports information from your records into an .xls file. That data can be imported into the ServiceNow space management application.
 
-**Parent Topic:**[Facilities Service Management overview](../concept/c_FacilitiesServiceManagement.md)
+**Parent Topic:**[Facilities Service Management overview](c_FacilitiesServiceManagement.md)
 

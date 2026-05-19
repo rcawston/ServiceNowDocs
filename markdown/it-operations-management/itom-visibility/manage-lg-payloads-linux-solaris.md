@@ -46,5 +46,5 @@ When Linux or Solaris storage sensors process payloads from large disk arrays, w
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Storage discovery](../concept/c_Storage.md)
+**Parent Topic:**[Storage discovery](c_Storage.md)
 

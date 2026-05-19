@@ -21,19 +21,19 @@ The terms "other record" and "parent record" are used interchangeably and refer 
 
 You can use references to link a document record to any other table or record on the platform.
 
--   **[Enable viewing related documents in a parent record](../task/enable-doc-related-list.md)**  
+-   **[Enable viewing related documents in a parent record](enable-doc-related-list.md)**  
 Add the Documents related list to the record to be able to link and view documents related to the record.
--   **[Create a document record in a parent record](../task/create-new-doc-parent.md)**  
+-   **[Create a document record in a parent record](create-new-doc-parent.md)**  
 Add documents to a parent record so they are available for downloading, sharing, or viewing directly from the record.
--   **[Upload a document version in a parent record](../task/upload-new-doc-version.md)**  
+-   **[Upload a document version in a parent record](upload-new-doc-version.md)**  
 Upload a document version for each document in the parent record.
--   **[Download a document from its parent record](../task/download-doc-parent-rec.md)**  
+-   **[Download a document from its parent record](download-doc-parent-rec.md)**  
 Download documents related to a parent record directly from the record.
--   **[Link existing documents to a parent record](../task/link-doc-parent-rec.md)**  
+-   **[Link existing documents to a parent record](link-doc-parent-rec.md)**  
 Link documents that are in your repository to a parent record.
--   **[Unlink documents from a parent record](../task/unlink-docs-parent-rec.md)**  
+-   **[Unlink documents from a parent record](unlink-docs-parent-rec.md)**  
 Remove and unlink documents from a parent record when they are no longer relevant.
--   **[Delete a document from a parent record](../task/delete-doc-parent-rec.md)**  
+-   **[Delete a document from a parent record](delete-doc-parent-rec.md)**  
 Delete documents directly from a parent record.
 
 **Parent Topic:**[Using Document Management](using-document-management.md)

@@ -182,5 +182,5 @@ A list of terms used in CPQ
     Also known as end-user testing, this is a phase near the end of implementation and before going live. A small group of the end-users will run through various scenarios to validate the desired end-user experience and address any issues or bugs before the full launch.
 
 
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
 

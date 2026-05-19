@@ -172,5 +172,5 @@ Similarly, you can report cases on behalf of a business location, against sold p
 **Related topics**  
 
 
-[Track cases on the Business Location Service Portal](../concept/track-cases-for-blsp-portal.md)
+[Track cases on the Business Location Service Portal](track-cases-for-blsp-portal.md)
 

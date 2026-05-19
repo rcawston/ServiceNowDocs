@@ -57,7 +57,7 @@ After installing the Now Assist for Integration Hub application, you can use the
 
 This application provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
-Available AI agent includes, [Meeting scheduler AI agent](../reference/meeting-scheduler-ai-agent.md) that can be used to organize Zoom or Teams meetings and create regular calendar events. This AI agent retrieves details of available rooms, details of the relevant users you want to invite such as, email address and timezone, finds an available time slot, creates a calendar event, and generates a Zoom URL for the meeting.
+Available AI agent includes, [Meeting scheduler AI agent](meeting-scheduler-ai-agent.md) that can be used to organize Zoom or Teams meetings and create regular calendar events. This AI agent retrieves details of available rooms, details of the relevant users you want to invite such as, email address and timezone, finds an available time slot, creates a calendar event, and generates a Zoom URL for the meeting.
 
 ## Role masking
 

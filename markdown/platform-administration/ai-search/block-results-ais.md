@@ -45,5 +45,5 @@ Block actions hide selected search results from the result set. When a result im
 
 To make new or updated result improvement rule settings take effect, publish the search profile that you edited. For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Result improvement rules](../concept/result-improvement-rules-ais.md)
+**Parent Topic:**[Result improvement rules](result-improvement-rules-ais.md)
 

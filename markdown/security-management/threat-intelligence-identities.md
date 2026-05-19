@@ -15,7 +15,7 @@ Identities represent actual individuals, organizations, or groups \(ACME, Inc.\)
 
 The Identity SDO can capture basic identifying information, contact information, and the sectors that the Identity belongs to. Identity represents targets of attacks, information sources, object creators, and threat actor identities.
 
--   **[Define identities](../task/define-identities.md)**  
+-   **[Define identities](define-identities.md)**  
 Define identities who represent actual individuals, organizations, or groups.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

@@ -27,7 +27,7 @@ Name
 
 </td><td>
 
-Name of the scheduled data import, typically matching the alert source record name \(for example, GDAC Feed Source\). For information on configuring scheduled data imports, see [Configure Scheduled Data Imports records](../task/sched-data-imports-crisis-map-uib-ws.md).
+Name of the scheduled data import, typically matching the alert source record name \(for example, GDAC Feed Source\). For information on configuring scheduled data imports, see [Configure Scheduled Data Imports records](sched-data-imports-crisis-map-uib-ws.md).
 
 </td></tr><tr><td>
 
@@ -167,5 +167,5 @@ Post script
 Script to run after the import happens. Visible only if you select **Execute post-import script**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure Scheduled Data Imports records](../task/sched-data-imports-crisis-map-uib-ws.md)
+</table>**Parent Topic:**[Configure Scheduled Data Imports records](sched-data-imports-crisis-map-uib-ws.md)
 

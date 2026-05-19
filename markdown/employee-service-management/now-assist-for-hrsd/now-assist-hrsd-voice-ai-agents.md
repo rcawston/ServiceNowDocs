@@ -21,7 +21,7 @@ HR AI voice agents use generative AI to deliver natural, dynamic conversations t
 
 HR AI Voice agents are managed through the AI Agent Studio, which provides tools for creating, deploying, and monitoring these agents. Each agent is associated with a voice service acting as a virtual HR help desk and can be configured with welcome messages, voice profiles, and fallback options like live agent routing or ticket creation. This setup enables efficient, AI-driven HR support for employees.
 
-To enable employee access and use of Voice AI agents, an admin must install the HR AI Voice Agents \[sn\_hr\_voice\_aia\] plugin and [Configure HR AI voice agents](../task/configure-voice-agents.md).
+To enable employee access and use of Voice AI agents, an admin must install the HR AI Voice Agents \[sn\_hr\_voice\_aia\] plugin and [Configure HR AI voice agents](configure-voice-agents.md).
 
 ## HR AI voice agents
 
@@ -98,12 +98,12 @@ Travel Expense Expert Voice**Note:** Requires integration with Zoho
 Assists employees with tasks related to travel expenses, including submitting expenses, retrieving expenses, and the expense policy.
 
 </td></tr></tbody>
-</table>Certain voice agents require integration with Oracle HCM or Zoho. For more information, see [Integration of HR Service Delivery with third-party systems](integrate-third-party-systems.md).
+</table>Certain voice agents require integration with Oracle HCM or Zoho. For more information, see [Integration of HR Service Delivery with third-party systems](../hr-service-delivery/integrate-third-party-systems.md).
 
 **Related topics**  
 
 
-[Configure HR AI voice agents](../task/configure-voice-agents.md)
+[Configure HR AI voice agents](configure-voice-agents.md)
 
 [Deploy AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/deploy-ai-agents-for-voice.md)
 

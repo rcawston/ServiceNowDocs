@@ -64,5 +64,5 @@ Role required: sn\_si.analyst or sn\_si.manager
 12. To restart a conference call, navigate to the **Completed** section and select the **Reinitiate** option of the required conference call.
 
 
-**Parent Topic:**[Collaborate using conference call or chat in Security Incident Response](../concept/collab-sir-call-chat.md)
+**Parent Topic:**[Collaborate using conference call or chat in Security Incident Response](collab-sir-call-chat.md)
 

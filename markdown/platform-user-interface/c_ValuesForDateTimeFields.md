@@ -26,9 +26,9 @@ For the **at or before** and **at or after** filters, use midnight as a start or
 **Related topics**  
 
 
-[Filtering on empty fields](../task/t_FilteringOnEmptyFields.md)
+[Filtering on empty fields](t_FilteringOnEmptyFields.md)
 
-[Comparing field values](../../../administer/navigation-and-ui/reference/r_ComparingFieldValues.md)
+[Comparing field values](r_ComparingFieldValues.md)
 
 ## Operators and values available for date and time fields
 

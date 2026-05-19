@@ -17,7 +17,7 @@ Use a breakdown relation to set up navigation on an Analytics Hub between a hier
 
 ## Before you begin
 
-Review the use cases for breakdown relations in [Navigating breakdown elements with breakdown relations](../concept/breakdown-relations.md).
+Review the use cases for breakdown relations in [Navigating breakdown elements with breakdown relations](breakdown-relations.md).
 
 **Important:** Platform Analytics features, such as KPI Details and data visualizations, do not support breakdown relations.
 
@@ -131,5 +131,5 @@ After you submit the Breakdown Relation form, the navigation options are availab
 
 View examples of breakdown relations that are shipped by default in every instance. For the Location breakdown, the **Child Location** and **Parent Location** breakdown relations are included. The **Sibling Group** breakdown relation is an example of a sibling or peer relation.
 
-**Parent Topic:**[Navigating breakdown elements with breakdown relations](../concept/breakdown-relations.md)
+**Parent Topic:**[Navigating breakdown elements with breakdown relations](breakdown-relations.md)
 

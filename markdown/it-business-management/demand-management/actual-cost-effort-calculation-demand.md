@@ -83,5 +83,5 @@ The **Demand Actual Cost** and **Demand Actual Effort** fields on the Financials
 2.  If the resource rate for the demand task is derived from the default labor rate \(Scenario 2\), the value in the Demand Actual Cost field is displayed as $3600. The value in the Demand Actual Effort field is displayed as 24 hours.
 3.  If the resource rate for demand task is derived from the default system property \(Scenario 3\), the value in the Demand Actual Cost field is displayed as $1200. The value in the Demand Actual Effort field is displayed as 24 hours.
 
-**Parent Topic:**[Demand Management reference](../../service-portfolio-management2/concept/demand-management-reference.md)
+**Parent Topic:**[Demand Management reference](demand-management-reference.md)
 

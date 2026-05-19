@@ -19,9 +19,9 @@ When using Performance Analytics with domain separation, you can collect domain-
 
 You can keep all Performance Analytics records, such as indicators, breakdowns, and widgets, in the Global domain. In this case, you apply domain separation through domain-specific [data collection jobs](performance-analytics-glossary.md#).
 
-To configure a data collection job to be domain-specific, add a **Run as** user to the job. The **Run as** user determines the domain context of where the data collection job runs. For more information, see [Create or schedule a data collection job](../task/t_CreatASchedDataCollJob.md).
+To configure a data collection job to be domain-specific, add a **Run as** user to the job. The **Run as** user determines the domain context of where the data collection job runs. For more information, see [Create or schedule a data collection job](t_CreatASchedDataCollJob.md).
 
-You can also specify a domain configuration. Domain configurations are part of the Performance Analytics plugin for domain support, intended to help with complex domain management. For more information, see [Associate a domain configuration with a data collection job](../task/associate-domain-config-dc-job.md).
+You can also specify a domain configuration. Domain configurations are part of the Performance Analytics plugin for domain support, intended to help with complex domain management. For more information, see [Associate a domain configuration with a data collection job](associate-domain-config-dc-job.md).
 
 The data collection job collects scores against facts table records in the Global domain. The job also collects scores against records in the domains of the **Run as** user. The job stores the scores in the domain it collected them from. In data visualizations, a user sees only scores from domains they have visibility into.
 

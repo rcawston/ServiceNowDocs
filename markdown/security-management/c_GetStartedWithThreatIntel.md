@@ -43,7 +43,7 @@ The following roles are required for installation, configuration, and verificati
 
 ### Procedure
 
-1.  Follow the instructions for [downloading an application from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+1.  Follow the instructions for [downloading an application from the ServiceNow Store](download-app-first-time.md).
 
 
 ### What to do next

@@ -83,7 +83,7 @@ The process of creating, managing, and executing legal sales contracts from comp
 
 Covered products refer to offerings that act as entitlements or contracts linked to a primary product, such as a warranty purchased with a phone.
 
-For more information, see [Add Covered Products using Contracts and Entitlement Workflow](../../post-sales-support/concept/adding-cov-prod-cceworkflows.md).
+For more information, see [Add Covered Products using Contracts and Entitlement Workflow](adding-cov-prod-cceworkflows.md).
 
 ## configurable pricing plans
 
@@ -587,7 +587,7 @@ A lead meeting specific criteria, ready for sales engagement.
 
 Assigning sales quota targets to representatives or managers based on hierarchy, role, and forecast period.
 
-For more information, see [Set up sales quota](../task/setup-sales-quota.md).
+For more information, see [Set up sales quota](setup-sales-quota.md).
 
 ## sales targets
 
@@ -619,7 +619,7 @@ Delivering ordered products to specified locations.
 
 Individuals designated to sign quote PDF documents.
 
-For more information, see [Set up PDF document signers](../task/quote-mgt-configure-pdf-document-signers.md).
+For more information, see [Set up PDF document signers](quote-mgt-configure-pdf-document-signers.md).
 
 ## staggered decomposition
 
@@ -683,7 +683,7 @@ Tracking or managing different versions of entities in Sales Customer Relationsh
 
 Pricing adjustments based on item quantity.
 
-For more information, see [Configure volume pricing](../task/configure-volume-pricing.md).
+For more information, see [Configure volume pricing](configure-volume-pricing.md).
 
 ## weighted amount
 

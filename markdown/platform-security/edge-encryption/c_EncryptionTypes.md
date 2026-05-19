@@ -58,5 +58,5 @@ You can secure sensitive data found in strings using encryption patterns. Once a
 
 [Encrypt fields using encryption configurations](c_ConfigureCloudEdge.md#)
 
-[Tokenize strings using encryption patterns](../task/t_ConfigureBasicEncryptionPatterns.md)
+[Tokenize strings using encryption patterns](t_ConfigureBasicEncryptionPatterns.md)
 

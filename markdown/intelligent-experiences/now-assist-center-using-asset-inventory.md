@@ -18,9 +18,9 @@ These assets include Now Assist AI capabilities such as AI skills, AI agents, an
 
 ![Asset inventory in Now Assist Center.](../image/now-assist-center-asset-inventory-overview.png "Asset inventory")
 
--   **[View your AI assets in the asset inventory](../task/now-assist-center-view-ai-assets.md)**  
+-   **[View your AI assets in the asset inventory](now-assist-center-view-ai-assets.md)**  
 Use the asset library to view the AI assets in your instance.
--   **[Create an AI asset in the asset inventory](../task/now-assist-center-create-asset.md)**  
+-   **[Create an AI asset in the asset inventory](now-assist-center-create-asset.md)**  
 Use the asset library to create AI assets in your instance.
 
 **Parent Topic:**[Using Now Assist Center](using-now-assist-center.md)

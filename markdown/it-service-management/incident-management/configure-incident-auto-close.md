@@ -40,7 +40,7 @@ A scheduled job called **Autoclose Incidents** \(**System Scheduler** &gt; **Sch
 4.  Click **Save**.
 
 
-**Parent Topic:**[Incident resolution and closure](../concept/c_IncidentResolutionAndRecovery.md)
+**Parent Topic:**[Incident resolution and closure](c_IncidentResolutionAndRecovery.md)
 
 **Related topics**  
 

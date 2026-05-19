@@ -17,7 +17,7 @@ You can activate the Resource Scheduling plugin \(com.snc.fsm\_resource\_schedul
 
 ## Before you begin
 
-Field Service Resource Scheduling requires the Field Service Crew Operations \(com.snc.fsm\_crew\_scheduling\) plugin. For more information about activating Field Service Crew Operations, see [Activate Field Service Crew Operations](activate-fsm-crew-scheduling.md). Ensure that these plugins are activated before you install Field Service Resource Scheduling.
+Field Service Resource Scheduling requires the Field Service Crew Operations \(com.snc.fsm\_crew\_scheduling\) plugin. For more information about activating Field Service Crew Operations, see [Activate Field Service Crew Operations](../workforce-optimization-for-field-service/activate-fsm-crew-scheduling.md). Ensure that these plugins are activated before you install Field Service Resource Scheduling.
 
 Role required: admin
 

@@ -30,7 +30,7 @@ Role required: agent\_client\_collector\_admin
     -   Keybased – See [Configure key-based MID Web Server authentication](configure-mid-web-server-extension-metric-data.md)
     -   Basic – Standard username/password authentication
     -   API key – See [Configure MID Web Server API key authentication](mid-web-server-api-key-authentication.md)
-    -   mTLS – See [MID Web Server and agent mTLS Authentication](../concept/mid-web-server-mTLS-authentication.md)
+    -   mTLS – See [MID Web Server and agent mTLS Authentication](mid-web-server-mTLS-authentication.md)
 4.  Select either the MID unified keystore or the web server keystore.
 
     The MID Web Server unified keystore is the most efficient option. If you want to enable backward compatibility and the ability to store keypairs in an additional keystore, use the Web server keystore \(which allows you to use the MID unified keystore as well\).
@@ -73,5 +73,5 @@ For more information, see the **Install custom certificates in the MID Server un
 **Related topics**  
 
 
-[Connect the agent to the MID Server using mTLS](../../agent-client-collector/task/enable-tls-agent.md)
+[Connect the agent to the MID Server using mTLS](enable-tls-agent.md)
 

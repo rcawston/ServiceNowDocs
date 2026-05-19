@@ -47,7 +47,7 @@ You can configure an icon within the work flow of configuring a screen or you ca
 
     |Style|Value|
     |-----|-----|
-    |Enter `Name`|Enter the name of the image icon to display in the navigation bar. For example, enter the text `Explore` to display the Explore Solid icon. For a list of navigation bar icons, see [Image icons](../reference/image-icons.md).|
+    |Enter `Name`|Enter the name of the image icon to display in the navigation bar. For example, enter the text `Explore` to display the Explore Solid icon. For a list of navigation bar icons, see [Image icons](image-icons.md).|
 
 8.  Select **Save**.
 

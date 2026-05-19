@@ -39,5 +39,5 @@ Role required: cmdb\_inst\_admin
 **Related topics**  
 
 
-[Identification and Reconciliation Engine \(IRE\)](../concept/ire.md)
+[Identification and Reconciliation Engine \(IRE\)](../configuration-management-database-cmdb/ire.md)
 

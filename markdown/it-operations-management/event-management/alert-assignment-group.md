@@ -19,7 +19,7 @@ Admins determine the alert assignment group priority, making sure that alerts ar
 
 The Alert assignment group is determined by the **evt\_mgmt.alert\_auto\_assignment\_field** property value. As an admin, you can choose to set the assignment group based on the alert fields using the property value and the order of the comma-separated fields by editing the property value.
 
--   **[Assigning alert assignment group precedence](../task/assigning-alert-assignment-group-precedence.md)**  
+-   **[Assigning alert assignment group precedence](assigning-alert-assignment-group-precedence.md)**  
 Assign alert assignment group precedence to make sure that alerts are routed to the appropriate team members.
 
 **Parent Topic:**[Manage and monitor alerts](c_EMAlert.md)
@@ -27,11 +27,11 @@ Assign alert assignment group precedence to make sure that alerts are routed to 
 **Related topics**  
 
 
-[Assigning alert assignment group precedence](../task/assigning-alert-assignment-group-precedence.md)
+[Assigning alert assignment group precedence](assigning-alert-assignment-group-precedence.md)
 
-[Team-based integration properties](../reference/team-based-integrations-properties.md)
+[Team-based integration properties](team-based-integrations-properties.md)
 
-[Create or edit an event rule](../task/create-or-edit-event-rule.md)
+[Create or edit an event rule](create-or-edit-event-rule.md)
 
-[Create event field mappings](../task/t_EMCreateEventFieldMapping2.md)
+[Create event field mappings](t_EMCreateEventFieldMapping2.md)
 

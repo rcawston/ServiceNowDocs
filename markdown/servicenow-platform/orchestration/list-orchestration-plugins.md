@@ -48,7 +48,7 @@ Orchestration - Active Directory \[com.snc.orchestration.ad\]
 
 </td><td>
 
-Installs the [Active Directory](../../../administer/orchestration-activities/concept/c_OrchActiveDirectoryActivities.md) activity pack. These activities create, delete, and manage objects in Windows Active Directory.
+Installs the [Active Directory](c_OrchActiveDirectoryActivities.md) activity pack. These activities create, delete, and manage objects in Windows Active Directory.
 
 </td><td>
 
@@ -72,7 +72,7 @@ Orchestration - Azure Active Directory \[com.snc.orchestration.azure.ad\]
 
 </td><td>
 
-Installs the [Azure AD](../../../administer/orchestration-activities/concept/c_AzureADActivityPack.md) activity pack. These activities automate employee onboarding and offboarding functions on Azure Active Directory and manage Office 365 licensing.
+Installs the [Azure AD](c_AzureADActivityPack.md) activity pack. These activities automate employee onboarding and offboarding functions on Azure Active Directory and manage Office 365 licensing.
 
 </td><td>
 
@@ -84,7 +84,7 @@ Orchestration - Client Software Distribution \[com.snc.orchestration.client\_sf\
 
 </td><td>
 
-Allows the [distribution of software](../concept/c_ClientSoftwareDistribution.md) from the service catalog using third party management systems, such as Microsoft System Center Configuration Manager \(SCCM\)**Note:** This plugin is not automatically enabled when Orchestration is active.
+Allows the [distribution of software](c_ClientSoftwareDistribution.md) from the service catalog using third party management systems, such as Microsoft System Center Configuration Manager \(SCCM\)**Note:** This plugin is not automatically enabled when Orchestration is active.
 
 </td><td>
 
@@ -99,7 +99,7 @@ Orchestration - Exchange \[com.snc.orchestration.exchange\]
 
 </td><td>
 
-Installs the [Exchange](../../../administer/orchestration-activities/concept/c_OrchestrationExchangeActivities.md) activity pack. These activities manage Microsoft Exchange mail systems.
+Installs the [Exchange](c_OrchestrationExchangeActivities.md) activity pack. These activities manage Microsoft Exchange mail systems.
 
 </td><td>
 
@@ -111,7 +111,7 @@ Orchestration - F5 network management \[com.snc.orchestration.f5\]
 
 </td><td>
 
-Installs the [F5 Network Management](../../../administer/orchestration-activities/concept/c_OrchF5LoadBalancerActivities.md) activity pack. These activities configure elements of an F5 load balancer, including pools, pool members, and the virtual servers contained in the pool.
+Installs the [F5 Network Management](c_OrchF5LoadBalancerActivities.md) activity pack. These activities configure elements of an F5 load balancer, including pools, pool members, and the virtual servers contained in the pool.
 
 </td><td>
 
@@ -123,7 +123,7 @@ Orchestration - Infoblox DDI Activity Pack \[com.snc.orchestration.infoblox\]
 
 </td><td>
 
-Installs the [Infoblox DDI](../../../administer/orchestration-activities/concept/c_InfobloxDDIActivityPack.md) activity pack. These activities support Infoblox DDI management.
+Installs the [Infoblox DDI](c_InfobloxDDIActivityPack.md) activity pack. These activities support Infoblox DDI management.
 
 </td><td>
 
@@ -135,7 +135,7 @@ Orchestration - PowerShell \[com.snc.orchestration.powershell\]
 
 </td><td>
 
-Installs the [PowerShell](../../../administer/orchestration-activities/concept/c_OrchestrPwrshellActivityPack.md) activity pack. These activities control and automate the administration of Windows machines and applications, using the Windows .NET Framework.
+Installs the [PowerShell](c_OrchestrPwrshellActivityPack.md) activity pack. These activities control and automate the administration of Windows machines and applications, using the Windows .NET Framework.
 
 </td><td>
 
@@ -147,7 +147,7 @@ Orchestration - Probe \[com.snc.orchestration.probe\]
 
 </td><td>
 
-Installs the [Probe](../../../administer/orchestration-activities/concept/probe_activity-pack.md#) activity pack. These activities run ServiceNow®probes on target hosts to return specific information.
+Installs the [Probe](probe_activity-pack.md#) activity pack. These activities run ServiceNow®probes on target hosts to return specific information.
 
 </td><td>
 
@@ -159,7 +159,7 @@ Orchestration - ROI \[com.snc.runbook\_automation.roi\]
 
 </td><td>
 
-Installs an Orchestration application that estimates savings resulting from automated tasks in an instance and computes actual savings. [Orchestration - ROI](../concept/c_OrchestrationROI.md) is activated automatically with a base Orchestration subscription.
+Installs an Orchestration application that estimates savings resulting from automated tasks in an instance and computes actual savings. [Orchestration - ROI](c_OrchestrationROI.md) is activated automatically with a base Orchestration subscription.
 
 </td><td>
 
@@ -198,7 +198,7 @@ Orchestration - SFTP \[com.snc.orchestration.sftp\]
 
 </td><td>
 
-Installs the [SFTP File Transfer](../../../administer/orchestration-activities/concept/c_OrchestrationSFTPActivityPack.md) activity pack. These activities manage files and directories on an SFTP server and move files from one SFTP server to another.
+Installs the [SFTP File Transfer](c_OrchestrationSFTPActivityPack.md) activity pack. These activities manage files and directories on an SFTP server and move files from one SFTP server to another.
 
 </td><td>
 
@@ -210,7 +210,7 @@ Orchestration - SSH \[com.snc.orchestration.ssh\]
 
 </td><td>
 
-Installs the [SSH](../../../administer/orchestration-activities/concept/c_OrchestrationSSHCustomActivities.md) activity pack. These activities read, write, and copy files, and reset user passwords on Linux computers.
+Installs the [SSH](c_OrchestrationSSHCustomActivities.md) activity pack. These activities read, write, and copy files, and reset user passwords on Linux computers.
 
 </td><td>
 
@@ -222,12 +222,12 @@ Orchestration - System Center Configuration Manager \[com.snc.orchestration.sccm
 
 </td><td>
 
-Installs the [System Center Configuration Manager \(SCCM\)](../../../administer/orchestration-activities/concept/c_SCCMActivityPack.md) activity pack. These activities manage software deployments and collections on an SCCM server.
+Installs the [System Center Configuration Manager \(SCCM\)](c_SCCMActivityPack.md) activity pack. These activities manage software deployments and collections on an SCCM server.
 
 </td><td>
 
 Orchestration
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Orchestration](../task/t_ActivateOrchestration.md)
+</table>**Parent Topic:**[Activate Orchestration](t_ActivateOrchestration.md)
 

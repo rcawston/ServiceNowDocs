@@ -21,10 +21,10 @@ In the sample below, a change opened in the category **network** is assigned to 
 
 When an approver is automatically added based on approval rules, the status of the approval automatically defaults to "Requested".
 
-**Parent Topic:**[Classic approvals](../reference/r_Approvals.md)
+**Parent Topic:**[Classic approvals](r_Approvals.md)
 
 **Related topics**  
 
 
-[Classic approvals](../reference/r_Approvals.md)
+[Classic approvals](r_Approvals.md)
 

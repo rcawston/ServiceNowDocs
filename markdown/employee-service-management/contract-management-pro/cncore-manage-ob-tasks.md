@@ -104,5 +104,5 @@ If the obligation task is approved, the assigned user is notified and the state 
 
 When the obligation task is rejected, the assigned user is notified and the state of the obligation task changes to Open.
 
-**Parent Topic:**[Obligation Management](../concept/cncore-obligation-management.md)
+**Parent Topic:**[Obligation Management](cncore-obligation-management.md)
 

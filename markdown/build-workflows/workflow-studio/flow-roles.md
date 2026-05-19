@@ -17,7 +17,7 @@ Create flows and subflows that run with specific roles. Assigning roles enables 
 
 ## Role selection
 
-A flow runs as either the system user or as the user who initiates the session. You can only assign roles to flows that run as the user who initiates the session. When the flow runs as the system user, it runs with the system role, and individual role selection isn't available. For more information, see [Create a flow in Workflow Studio](../task/create-flow.md).
+A flow runs as either the system user or as the user who initiates the session. You can only assign roles to flows that run as the user who initiates the session. When the flow runs as the system user, it runs with the system role, and individual role selection isn't available. For more information, see [Create a flow in Workflow Studio](create-flow.md).
 
 You can assign multiple roles to a flow. Selecting new roles replaces the flow's original roles. If roles aren't selected, the flow runs with the roles of the user who initiates the session.
 

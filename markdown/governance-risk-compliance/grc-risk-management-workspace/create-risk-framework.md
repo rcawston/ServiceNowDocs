@@ -130,5 +130,5 @@ The new risk framework is created.
 -   **[Create a risk statement in the Risk Workspace](create-risk-stmt-workspace.md)**  
 Create risk statements to group risks into manageable categories.
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Reference, Field administration, Forms, fields, and lists, Configur
 
 Several field types are available in the system.
 
-This table shows field types and corresponding MySQL database types. Typically, it isn't necessary to perform any actions at the database level. To learn about changing a field type, see [System dictionary](../../data-dictionary-tables/concept/c_SystemDictionary.md).
+This table shows field types and corresponding MySQL database types. Typically, it isn't necessary to perform any actions at the database level. To learn about changing a field type, see [System dictionary](table-administration-and-data-management/c_SystemDictionary.md).
 
 |Field types|Options|Dictionary XML type|MySQL DB type|
 |-----------|-------|-------------------|-------------|

@@ -59,7 +59,7 @@ Virtual Agent
 Prompts can also be delivered to different Conversational Interface \(CI\) channels through Virtual Agent, for example, Microsoft Teams or Slack.
 
 </td></tr></tbody>
-</table>**Note:** For more information, see [Configure delivery channels in Proactive Prompts](../task/proactive-prompts-config-channels.md).
+</table>**Note:** For more information, see [Configure delivery channels in Proactive Prompts](proactive-prompts-config-channels.md).
 
 ## Configuring data
 
@@ -67,5 +67,5 @@ Configure signals, data sources, channels, categories, actions, and schedules to
 
 ## Proactive Prompts in Manager Hub
 
-Generate and display micro insights to managers using Manager Hub through Proactive Prompts. The insights contain reminders about the team's service requests, journeys, and learnings, accompanied by relevant actions to communicate the information to the employees. For more information, see [Proactive Prompts for managers](../task/insight-based-sug.md).
+Generate and display micro insights to managers using Manager Hub through Proactive Prompts. The insights contain reminders about the team's service requests, journeys, and learnings, accompanied by relevant actions to communicate the information to the employees. For more information, see [Proactive Prompts for managers](../hr-service-delivery/insight-based-sug.md).
 

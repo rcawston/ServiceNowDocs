@@ -59,5 +59,5 @@ Role required: admin
 5.  In the **Notification** form, click **Update**.
 
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](actionable-push-notification.md)
 

@@ -114,12 +114,12 @@ Software
 -   Operating System
 
 </td></tr></tbody>
-</table>-   **[Edit a category or subcategory](../task/configure-category-or-subcategory.md)**  
+</table>-   **[Edit a category or subcategory](configure-category-or-subcategory.md)**  
 Edit your existing Operational Technology incident categories and subcategories to classify your incidents.
--   **[Create a category or subcategory](../task/add-category-or-subcategory.md)**  
+-   **[Create a category or subcategory](add-category-or-subcategory.md)**  
 Create an Operational Technology incident category or subcategory that you want to use to classify incidents.
--   **[Delete a category or subcategory](../task/delete-category-or-subcategory.md)**  
+-   **[Delete a category or subcategory](delete-category-or-subcategory.md)**  
 Delete an Operational Technology incident category or subcategory if your organization no longer uses that category or subcategory.
 
-**Parent Topic:**[Configuring Operational Technology Incident Management](../concept/configuring-operational-technology-incident-mgt.md)
+**Parent Topic:**[Configuring Operational Technology Incident Management](configuring-operational-technology-incident-mgt.md)
 

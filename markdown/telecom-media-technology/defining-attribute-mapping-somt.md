@@ -29,7 +29,7 @@ The ServiceNow AI Platform decomposes orders and order line items into various s
 
 The order fulfillment flow needs prior information on how specification characteristics are mapped and associated so that the characteristics are propagated from one domain order to another domain order. If you're a product catalog manager, you can define rules-driven attribute mappings between and among selected product, service, and resource specifications. When you define attribute mappings, validations run to verify that they're unique, don't conflict with each other, or conflict with defined specification relationships and decomposition rules.
 
-To learn more about specification relationships, see [Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications](../task/create-specification-relationships-somt.md).
+To learn more about specification relationships, see [Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications](create-specification-relationships-somt.md).
 
 The Order Management application executes attribute mappings during the order fulfillment process and sets and propagates order characteristic values across the various suborders.
 

@@ -19,7 +19,7 @@ The ServiceNow® Knowledge Management \(KM\) application enables the sharing of 
 
 <table id="table_sl1_z2h_1xb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Knowledge Management](../topic/exploring-knowledge-management.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Knowledge Management](exploring-knowledge-management.md)
 
 </td><td>
 
@@ -35,7 +35,7 @@ The ServiceNow® Knowledge Management \(KM\) application enables the sharing of 
 
 </td><td>
 
-[Knowledge Management Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Additional information to configure and administer Knowledge Management](../reference/knowledge-management-reference.md)
+[Knowledge Management Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Additional information to configure and administer Knowledge Management](knowledge-management-reference.md)
 
 </td><td>
 

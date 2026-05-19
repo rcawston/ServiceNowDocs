@@ -28,17 +28,17 @@ The Digital Interfaces page displays a list of existing digital interfaces and t
 **Related topics**  
 
 
-[View all digital interfaces](../../task/eaw-task/eaw-view-all-dig-interfaces.md)
+[View all digital interfaces](eaw-view-all-dig-interfaces.md)
 
-[Add or edit a digital interface in the EA Workspace](../../task/eaw-task/eaw-create-digital-interface.md)
+[Add or edit a digital interface in the EA Workspace](eaw-create-digital-interface.md)
 
-[Connect a digital interface with the CMDB API in the EA Workspace](../../task/eaw-task/eaw-relate-dig-interface-api.md)
+[Connect a digital interface with the CMDB API in the EA Workspace](eaw-relate-dig-interface-api.md)
 
-[Manage architectural artifacts of a digital interface in EA Workspace](../../task/eaw-task/eaw-manage-artifacts-digital-interface.md)
+[Manage architectural artifacts of a digital interface in EA Workspace](eaw-manage-artifacts-digital-interface.md)
 
-[Relate an SDLC component to a digital interface](../../task/eaw-task/eaw-dig-interface-add-sdlc-comp.md)
+[Relate an SDLC component to a digital interface](eaw-dig-interface-add-sdlc-comp.md)
 
-[Relate an information object to a digital interface](../../task/eaw-task/eaw-dig-interface-add-info-object.md)
+[Relate an information object to a digital interface](eaw-dig-interface-add-info-object.md)
 
-[Relate credentials to a digital interface](../../task/eaw-task/eaw-dig-interface-add-credential.md)
+[Relate credentials to a digital interface](eaw-dig-interface-add-credential.md)
 

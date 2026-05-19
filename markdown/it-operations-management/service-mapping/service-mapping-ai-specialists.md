@@ -65,11 +65,11 @@ Business App Mapping AI Agent process:
 
 ## Activation and monitoring
 
-Both agents are inactive by default. A user who has the Service Mapping admin role activates them from the Service Mapping home page. For procedural information, see [Activate AI Agents for Service Mapping](../task/activate-sm-ai-specialists.md).
+Both agents are inactive by default. A user who has the Service Mapping admin role activates them from the Service Mapping home page. For procedural information, see [Activate AI Agents for Service Mapping](activate-sm-ai-specialists.md).
 
 No configuration in AI Agent Studio is required for Service Mapping administrators; AI Agent Studio is used by platform administrators or users who have the AI admin role to manage agent definitions and token usage.
 
-After activation, both agents run automatically every 15 minutes. Administrators can monitor activity and review results in the **AI Activity** section of the Service Mapping list navigation. For more information, see [Service Mapping AI Agent activity list tables](../reference/sm-ai-specialist-activity-columns.md).
+After activation, both agents run automatically every 15 minutes. Administrators can monitor activity and review results in the **AI Activity** section of the Service Mapping list navigation. For more information, see [Service Mapping AI Agent activity list tables](sm-ai-specialist-activity-columns.md).
 
 Service maps created by the Service Mapping AI Agent are non-operational by default and can be made operational from the application service record in the Mapped Application Services list.
 
@@ -77,11 +77,11 @@ Service maps created by the Service Mapping AI Agent are non-operational by defa
 
 Each AI Agent can process up to 100 records by default. When an AI Agent reaches this limit, it stops processing and its status is set to **Paused**. The AI Agent can be reactivated only after increasing the quota through the AI Agent Studio. To increase the quota, contact your AI administrator.
 
--   **[Activate AI Agents for Service Mapping](../task/activate-sm-ai-specialists.md)**  
+-   **[Activate AI Agents for Service Mapping](activate-sm-ai-specialists.md)**  
 Activate the Service Mapping AI Agent and the Business App Mapping AI Agent from the Service Mapping home page to start automated service map creation.
--   **[Service Mapping AI Agent activity list tables](../reference/sm-ai-specialist-activity-columns.md)**  
+-   **[Service Mapping AI Agent activity list tables](sm-ai-specialist-activity-columns.md)**  
 Use this reference to interpret the tables in the Service Mapping AI Agent activity list.
--   **[Business App Mapping AI Agent confidence thresholds](../reference/sm-ai-specialist-confidence-thresholds.md)**  
+-   **[Business App Mapping AI Agent confidence thresholds](sm-ai-specialist-confidence-thresholds.md)**  
 Use this reference to understand how the Business App Mapping AI Agent handles matches based on their AI confidence score, and what action is taken for each score range.
 
 **Parent Topic:**[AI capabilities in Service Mapping](ai-workflows-service-mapping.md)

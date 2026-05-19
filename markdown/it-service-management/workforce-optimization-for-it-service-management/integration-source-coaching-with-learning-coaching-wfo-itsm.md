@@ -176,5 +176,5 @@ Integration services interact with ServiceNow University application to pull lea
 -   **Pull user activity:** Pulls details of user activity on learning courses from ServiceNow University into the ServiceNow platform.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integrate Coaching with Learning with third-party learning management systems](../task/integrate-learning-third-party-configurable-wfo-itsm.md)
+</table>**Parent Topic:**[Integrate Coaching with Learning with third-party learning management systems](integrate-learning-third-party-configurable-wfo-itsm.md)
 

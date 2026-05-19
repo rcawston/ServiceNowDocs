@@ -15,9 +15,9 @@ breadcrumb: [HR Service Delivery Integration with Workday Learning, Integration 
 
 Understand how you can use HR Service Delivery Integration with Workday Learning to process employee information at ServiceNow.
 
--   **[View user activity for Workday Learning](../task/sync-user-actitvity-wdl-intg.md)**  
+-   **[View user activity for Workday Learning](sync-user-actitvity-wdl-intg.md)**  
 All user activity data is shipped along with HR Service Delivery Integration with Workday Learning. However, if you want to view or edit the user activity details, you can edit the respective subflow and then edit the respective record.
--   **[View track approval for Workday Learning](../task/track-approval-adl-intg.md)**  
+-   **[View track approval for Workday Learning](track-approval-adl-intg.md)**  
 Track every pull that has been performed from ServiceNow to Workday Learning. View or edit details of the job, such as when did the job begin and end, when did the records start loading into staging tables, or did the job run completely or fail in between.
 -   **[Use transform maps](use-transform-maps-wd-learning.md)**  
 Transform maps specify data relationships between source table and target table.

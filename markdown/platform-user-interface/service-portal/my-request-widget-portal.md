@@ -33,7 +33,7 @@ Use the widget instance options to customize the settings for the My Requests wi
 |Show View|If selected, displays the **View** list. Using this list you can filter for closed or open requests. If deselected, only open requests are displayed.|
 |Items per page|Number of records displayed per page.|
 
--   **[Enable the My Requests menu for an upgrade scenario](../task/enable-requests-menu.md)**  
+-   **[Enable the My Requests menu for an upgrade scenario](enable-requests-menu.md)**  
 Enable the My Requests menu that uses the My Requests \(my-requests-v2\) widget for an upgrade scenario.
 
 **Parent Topic:**[Example widgets](sp-example-widgets.md)
@@ -41,9 +41,9 @@ Enable the My Requests menu that uses the My Requests \(my-requests-v2\) widget 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

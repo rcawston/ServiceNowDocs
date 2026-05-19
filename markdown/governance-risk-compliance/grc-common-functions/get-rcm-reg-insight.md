@@ -22,7 +22,7 @@ Analyze and enrich regulatory alerts by using the get regulatory analysis agenti
 
 Role required: sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user
 
-The recommendations for regulatory alert skills are required for recommending impact areas. For more information, see [AI-generated recommendations for a regulatory alert skill](../../grc-rcm/concept/recommendations-for-a-regulatory-alert.md).
+The recommendations for regulatory alert skills are required for recommending impact areas. For more information, see [AI-generated recommendations for a regulatory alert skill](recommendations-for-a-regulatory-alert.md).
 
 Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
@@ -100,7 +100,7 @@ In the Now Assist panel, ask the agent to check for recommended impacted areas f
 **Related topics**  
 
 
-[Using agentic workflows in IRM](../../grc-common/concept/using-agentic-ai-workflows.md)
+[Using agentic workflows in IRM](using-agentic-ai-workflows.md)
 
 [Activate the get regulatory analysis agentic workflow](activate-rcm-agent-workflow.md)
 

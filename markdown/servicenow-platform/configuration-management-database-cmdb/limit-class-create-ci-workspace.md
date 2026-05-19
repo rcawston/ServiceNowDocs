@@ -25,7 +25,7 @@ Settings for specific classes available for new CIs are stored in the CI class c
 
 For more information:
 
--   About configuration identifiers, see [Configuration identifiers framework](../concept/configuration-identifiers-framework.md).
+-   About configuration identifiers, see [Configuration identifiers framework](configuration-identifiers-framework.md).
 -   About the experience of manually creating a new CI in CMDB Workspace, see [Create a CI manually in CMDB Workspace](create-ci-manual-cmdb-workspace.md).
 
 ## Before you begin
@@ -104,5 +104,5 @@ Include or exclude the **CI class** in the list of classes for a new CI.
 
 When manually creating a new CI in the respective workspace, the specified **CI class** is included in the **Class** drop-down list on the Select class page only if it is set to be available.
 
-**Parent Topic:**[Configuring CMDB Workspace](../concept/configuring-cmdb-workspace.md)
+**Parent Topic:**[Configuring CMDB Workspace](configuring-cmdb-workspace.md)
 

@@ -151,5 +151,5 @@ Details of the metric definition thresholds, such as threshold type, metric defi
 8.  To visually explore the 360° relationship view of the metric definition, select **360° view**.
 
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

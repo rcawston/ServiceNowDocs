@@ -46,8 +46,8 @@ Role required: sam
     |Times used|Total number of times the software was used, based on software usage records for the group.|
     |Duration|Total duration of software usage, based on software usage records for the group. \(Not the sum of Foreground and Background.\)|
     |Related List|
-    |Summary|Breakdown of software counter results by[type](../concept/c_UseTheSoftwareCounter.md). Click a type to view a detailed [summary](t_ViewASoftwareCounterSummary.md).|
+    |Summary|Breakdown of software counter results by[type](c_UseTheSoftwareCounter.md). Click a type to view a detailed [summary](t_ViewASoftwareCounterSummary.md).|
 
 
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
 

@@ -66,7 +66,7 @@ Use the relationship objects to link together two SDOs or STIX Cyber-observable 
 -   **[STIX Visualizer](stix-visualizer.md)**  
 The STIX Visualizer visually represents the structure of the STIX object and its relationship.
 
-**Parent Topic:**[Threat Intelligence](../reference/threat-intel-landing-page.md)
+**Parent Topic:**[Threat Intelligence](threat-intel-landing-page.md)
 
 **Related topics**  
 
@@ -79,11 +79,11 @@ The STIX Visualizer visually represents the structure of the STIX object and its
 
 [MITRE D3FEND framework](mitre-d3fend-framework.md)
 
-[Threat Intelligence administration](../reference/r_ThreatRespAdmin.md)
+[Threat Intelligence administration](r_ThreatRespAdmin.md)
 
 [Threat Intelligence integrations](threat-intelligence-integrations.md)
 
-[Threat Intelligence Orchestration](../../threat-intelligence-orchestration/concept/c_ThreatIntelligenceOrchestration.md)
+[Threat Intelligence Orchestration](c_ThreatIntelligenceOrchestration.md)
 
-[Security Case Management](../../threat-intelligence-case-management/concept/case-mgmt.md)
+[Security Case Management](case-mgmt.md)
 

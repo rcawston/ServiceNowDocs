@@ -135,7 +135,7 @@ Chat Survey
 
 </td><td>
 
-Option to validate if survey questions are supported in a chat survey. Enables conversational questionnaires \(pre-chat and post-chat surveys\) in the chat client. Also enables you to map chat context variables to survey questions. For information on a chat survey in ITSM Virtual Agent, see [Surveys in ITSM Virtual Agent](../concept/survey-virtual-agent.md) **Note:** This field is available only when the Glide Conversation Server plugin \(com.glide.cs\) is activated.
+Option to validate if survey questions are supported in a chat survey. Enables conversational questionnaires \(pre-chat and post-chat surveys\) in the chat client. Also enables you to map chat context variables to survey questions. For information on a chat survey in ITSM Virtual Agent, see [Surveys in ITSM Virtual Agent](survey-virtual-agent.md) **Note:** This field is available only when the Glide Conversation Server plugin \(com.glide.cs\) is activated.
 
 </td></tr><tr><td>
 

@@ -86,7 +86,7 @@ Add collaborators
 
 </td></tr><tr><td colspan="2">
 
-**Note:** You can only edit each item within a personal portfolio if you have edit access based on the ACL for each item that makes up the portfolio. For groups to edit or view personal portfolios, the group must have the DPM manager \[dpm\_manager\] role. See [Roles for Digital Portfolio Management](../reference/dpm-roles.md).
+**Note:** You can only edit each item within a personal portfolio if you have edit access based on the ACL for each item that makes up the portfolio. For groups to edit or view personal portfolios, the group must have the DPM manager \[dpm\_manager\] role. See [Roles for Digital Portfolio Management](dpm-roles.md).
 
 </td></tr></tbody>
 </table>5.  Select **Next**.
@@ -113,12 +113,12 @@ Add collaborators
     When you edit a personal portfolio, only those solutions that aren't already in the personal portfolio are in the selection list to add. **Share** gives you the option to share your personal portfolio with individuals, with groups, or with a combination of both.
 
 
-**Parent Topic:**[Personal portfolios](../concept/dpm-personal-portfolio.md)
+**Parent Topic:**[Personal portfolios](dpm-personal-portfolio.md)
 
 **Related topics**  
 
 
-[Personal portfolios](../concept/dpm-personal-portfolio.md)
+[Personal portfolios](dpm-personal-portfolio.md)
 
-[Personal and enterprise portfolio reference](../reference/dpm-portfolios-reference.md)
+[Personal and enterprise portfolio reference](dpm-portfolios-reference.md)
 

@@ -53,7 +53,7 @@ In the workflow, the admin describes the issue. The tool runs a health check and
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Diagnose general errors, such as error messages and system property issues.|[Diagnose Conversational Interfaces errors](../task/diagnose-general-error.md)|Admins|
-|Identify and solve Microsoft Teams configuration issues.|[Diagnose Microsoft Teams configuration issues](../task/diagnose_ci_plugin_issues.md)|Admins|
-|Identify and resolve common Advanced Work Assignment \(AWA\) configuration issues.|[Diagnose Advanced Work Assignment configuration issues](../task/diagnose-awa-no-agents-avail.md)|Admins|
+|Diagnose general errors, such as error messages and system property issues.|[Diagnose Conversational Interfaces errors](diagnose-general-error.md)|Admins|
+|Identify and solve Microsoft Teams configuration issues.|[Diagnose Microsoft Teams configuration issues](diagnose_ci_plugin_issues.md)|Admins|
+|Identify and resolve common Advanced Work Assignment \(AWA\) configuration issues.|[Diagnose Advanced Work Assignment configuration issues](diagnose-awa-no-agents-avail.md)|Admins|
 

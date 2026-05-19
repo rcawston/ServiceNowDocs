@@ -48,7 +48,7 @@ The API adheres to widely used, publicly documented standards.
 
 ## Granular roles and entities
 
-This SOAP API requires granular roles to access certain MCO features and responsibilities, provide CRU permissions without custom ACLs, and map directly to supported entities. See [Granular roles and entities](../concept/mco-granular-roles-and-entities.md) for information about supported granular roles.
+This SOAP API requires granular roles to access certain MCO features and responsibilities, provide CRU permissions without custom ACLs, and map directly to supported entities. See [Granular roles and entities](mco-granular-roles-and-entities.md) for information about supported granular roles.
 
 ## Endpoint details
 
@@ -970,5 +970,5 @@ Requests and responses are logged by the service for diagnostic and troubleshoot
 
 Refer to the official STAR and W3C documentation for detailed schema and protocol definitions.
 
-**Parent Topic:**[MCO Integration APIs](../integrate/manufacturing-integrate.md)
+**Parent Topic:**[MCO Integration APIs](manufacturing-integrate.md)
 

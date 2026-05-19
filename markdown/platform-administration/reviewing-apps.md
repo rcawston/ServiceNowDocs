@@ -22,10 +22,10 @@ You can view published reviews by selecting **Ratings and Reviews** from the app
 
 The ability to leave reviews is only available to commercial customers at this time.
 
--   **[Review an app](../task/review-an-app.md)**  
+-   **[Review an app](review-an-app.md)**  
 Use your Now Support credentials to log in to the ServiceNow Store and leave a review on any app or integration you have used.
--   **[Submit a guest review](../task/submit-a-guest-review.md)**  
+-   **[Submit a guest review](submit-a-guest-review.md)**  
 Submit a guest review to leave feedback on an app or integration if you don't have a ServiceNow Store account or want to leave an anonymous review.
 
-**Parent Topic:**[Administering applications](../../../build/applications/reference/administering-applications.md)
+**Parent Topic:**[Administering applications](administering-applications.md)
 

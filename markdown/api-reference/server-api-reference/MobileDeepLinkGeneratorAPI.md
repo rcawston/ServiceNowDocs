@@ -24,7 +24,7 @@ For example, create a link from an email, push notification, or Virtual Agent co
 
 For an example of this API used in a push notification, see [Configure push notification message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-push-notification-message-content.md). For additional information on deep links, see [Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## MobileDeepLinkGenerator - MobileDeepLinkGenerator\(String clientType\)
 

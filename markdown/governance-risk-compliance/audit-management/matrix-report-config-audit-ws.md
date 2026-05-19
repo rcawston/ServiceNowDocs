@@ -39,7 +39,7 @@ Role required: sn\_matrix\_report.admin
 
 8.  On the form, fill in the fields.
 
-    For a description of the field values, see [Matrix relationship form](../reference/matrix-rel-audit-report-ws.md).
+    For a description of the field values, see [Matrix relationship form](matrix-rel-audit-report-ws.md).
 
 9.  Select **Submit**.
 

@@ -15,7 +15,7 @@ You can create a list visualization with variables columns based on a data sourc
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -23,7 +23,7 @@ In the Zurich release, this List replaces the simple list visualization. On migr
 
 **Note:**
 
--   You can include Spotlight information in a list visualization. Configure the list to display information from the Spotlight \[spotlight\] table. For more information, see [Spotlights on Platform Analytics dashboards](../../performance-analytics/concept/spotlights-configurable-workspaces.md). For general information about the Spotlight feature, see [Ranking records with Spotlight](../../performance-analytics/concept/spotlight.md).
+-   You can include Spotlight information in a list visualization. Configure the list to display information from the Spotlight \[spotlight\] table. For more information, see [Spotlights on Platform Analytics dashboards](spotlight/spotlights-configurable-workspaces.md). For general information about the Spotlight feature, see [Ranking records with Spotlight](spotlight/spotlight.md).
 -   It is not possible to configure auto refresh on the List visualization. To refresh a List visualization on a dashboard, select the More Options icon ![Context menu icon](../../dashboards/image/icon-vert-3dot-p.png) and choose **Refresh**.
 -   The option to show the total number of records is not available in the new List visualization.
 
@@ -189,7 +189,7 @@ Group by \(optional\)
 The field to group by. For example, in an incident report grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. If the table contains variables or question fields, you have the option to group by one of them at the end of the list of fields.**Note:**
 
 -   It is not possible to group or stack data by the **Tags** field, or by certain field types, such as MEDIUMTEXT.
--   If you want to group by a field with continuous values, such as date or integer, the values are automatically grouped according to any report ranges that are defined for the data. For more information, see [Report ranges](../concept/c_ReportRanges.md#).
+-   If you want to group by a field with continuous values, such as date or integer, the values are automatically grouped according to any report ranges that are defined for the data. For more information, see [Report ranges](reporting/c_ReportRanges.md#).
 
 
 </td></tr><tr id="alternative-group-by"><td>
@@ -200,7 +200,7 @@ Add alternative group by
 
 This selection opens a dialog in which you select additional items that the data in the visualization may be grouped by. The viewer of the visualization can then select which of these items to group the data by. The viewer toggles the visibility of the selector in the visualization's More actions menu. In the additional items dialog, you can set whether this selector is visible by default by toggling **Selector visible by default**.If you select a value in **Group by**, that is the default group-by value. You do not have to select a **Group by** value to specify alternative group-by values. In this case, no default group-by value is used.
 
-For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](../../performance-analytics/concept/select-group-runtime.md).
+For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](select-group-runtime.md).
 
 **Important:**
 

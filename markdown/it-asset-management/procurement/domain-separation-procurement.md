@@ -36,13 +36,13 @@ To create or edit Purchase Orders \(POs\) or PO line items that distinguish the 
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](r_ProcurementRoles.md)
 
 [Procurement workflows](c_ProcurementWorkflows.md)
 
-[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)
+[Use the Procurement Overview module](t_UsingTheProcurementOverviewModule.md)
 
-[Activate Procurement](../task/t_ActivateProcurement.md)
+[Activate Procurement](t_ActivateProcurement.md)
 
 [Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 

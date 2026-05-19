@@ -44,5 +44,5 @@ Access, review and validate the Payers Enrollment details of a healthcare profes
 -   **[Healthcare Employee Onboarding form](hr-emp-onboarding.md)**  
 A hiring agent or a manager places an onboarding request for a healthcare professional via the Healthcare Employee onboarding form in Employee Center.
 
-**Parent Topic:**[HR Service Delivery for Healthcare](../concept/healthcare-hr.md)
+**Parent Topic:**[HR Service Delivery for Healthcare](healthcare-hr.md)
 

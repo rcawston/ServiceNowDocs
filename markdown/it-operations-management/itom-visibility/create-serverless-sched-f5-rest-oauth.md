@@ -77,5 +77,5 @@ Role required: discovery\_admin
 
 Either execute discovery immediately by selecting **Discover now** or wait until the predefined schedule triggers the discovery.
 
-**Parent Topic:**[F5 BIG-IP load balancer discovery](../../discovery/concept/c_LoadBalancerF5BIGIP.md)
+**Parent Topic:**[F5 BIG-IP load balancer discovery](c_LoadBalancerF5BIGIP.md)
 

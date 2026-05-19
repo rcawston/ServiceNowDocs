@@ -17,11 +17,11 @@ Following a request for a hardware asset, an inbound asset order is associated w
 
 Completing the following tasks in the Inbound asset order workflow results in the successful completion of an asset order:
 
-1.  [Create an inbound asset order](../task/create-inbound-order.md)
-2.  [Create an inbound asset order line](../task/create-inbound-order-line.md)
-3.  [Select an asset](../task/select-daas-asset.md)
-4.  [Pick the selected asset](../task/pick-daas-asset.md)
-5.  [Prepare the picked asset](../task/prepare-daas-asset.md)
-6.  [Ship the prepared asset](../task/ship-daas-asset.md)
-7.  [Receive the shipped asset](../task/receive-daas-asset.md)
+1.  [Create an inbound asset order](create-inbound-order.md)
+2.  [Create an inbound asset order line](create-inbound-order-line.md)
+3.  [Select an asset](select-daas-asset.md)
+4.  [Pick the selected asset](pick-daas-asset.md)
+5.  [Prepare the picked asset](prepare-daas-asset.md)
+6.  [Ship the prepared asset](ship-daas-asset.md)
+7.  [Receive the shipped asset](receive-daas-asset.md)
 

@@ -47,7 +47,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 4.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-skill-inputs.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-skill-inputs.md).
 
     1.  Enter a name and description for the skill.
 

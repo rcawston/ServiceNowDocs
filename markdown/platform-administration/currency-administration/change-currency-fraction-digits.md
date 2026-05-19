@@ -31,5 +31,5 @@ Role required: admin
     |true|Uses four decimal places. This value is the default.|
 
 
-**Parent Topic:**[Setting up defaults required for standard currency use](../concept/setting-up-standard-currency-defaults.md)
+**Parent Topic:**[Setting up defaults required for standard currency use](setting-up-standard-currency-defaults.md)
 

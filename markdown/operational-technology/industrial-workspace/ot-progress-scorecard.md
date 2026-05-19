@@ -48,7 +48,7 @@ Overall Score \(%\)
 
 </td><td>
 
-The progress of your site determined by the indicators on the scorecard. You can edit the weightage to control how much an indicator contributes to the overall score. For more information, see [Set the system properties for the Operational Technology Progress Scorecard](../task/set-the-system-properties-for-ot-progress-scorecard.md).
+The progress of your site determined by the indicators on the scorecard. You can edit the weightage to control how much an indicator contributes to the overall score. For more information, see [Set the system properties for the Operational Technology Progress Scorecard](set-the-system-properties-for-ot-progress-scorecard.md).
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ The progress of your site determined by the indicators on the scorecard. You can
 
 </td><td>
 
-The percentage of your OT devices that you expect to have in the Configuration Management Database \(CMDB\).**Note:** If you see a value of -1, then one or more of the values in the % of Expected OT Devices in CMDB indicator is missing the **Expected OT Device** attribute in the OTPSC Attributes table. For information about how to configure expected OT devices see [Configure the expected OT devices for a site](../task/configure-expected-ot-devices.md).
+The percentage of your OT devices that you expect to have in the Configuration Management Database \(CMDB\).**Note:** If you see a value of -1, then one or more of the values in the % of Expected OT Devices in CMDB indicator is missing the **Expected OT Device** attribute in the OTPSC Attributes table. For information about how to configure expected OT devices see [Configure the expected OT devices for a site](configure-expected-ot-devices.md).
 
 </td></tr><tr><td>
 

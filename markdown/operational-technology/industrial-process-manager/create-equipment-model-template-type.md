@@ -50,5 +50,5 @@ You can create types that represent the different types of locations, areas, or 
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Defining equipment model templates](../concept/defining-equipment-model-templates.md)
+**Parent Topic:**[Defining equipment model templates](defining-equipment-model-templates.md)
 

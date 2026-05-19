@@ -29,7 +29,7 @@ Select the category for gifts or entertainment
 
 </td><td>
 
-Category of the transaction.**Note:** You can customize the options by adding subcategory. For more information, see [Add a subcategory for the intake form](../../legal-request-management/task/add-subcategories-intakeform.md).
+Category of the transaction.**Note:** You can customize the options by adding subcategory. For more information, see [Add a subcategory for the intake form](../legal-request-management/add-subcategories-intakeform.md).
 
 </td></tr><tr><td>
 

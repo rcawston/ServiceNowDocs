@@ -17,7 +17,7 @@ Reclaim Asset catalog item integrates Asset Management module with HR module to 
 
 When an employee leaves an organization or moves to a different role, reclaiming the assets assigned to the employee is a troublesome task and needs much coordination between the HR professional and the asset manager. The Reclaim Asset catalog item has prescriptive workflows to efficiently reclaim hardware assets and store them in the inventory, reassign, send it for repair, or dispose of as required.
 
-An HR professional, manager, or employee can submit an asset reclamation request using the Reclaim Asset catalog item. A manager can submit an asset reclamation request for the reporting members. An HR professional can submit an asset reclamation request for any employee in the organization. An employee other than an HR professional and a manager can submit an asset reclamation request for self. For more information, see [Submit an asset reclamation request](../task/submit-asset-reclamation-request.md).
+An HR professional, manager, or employee can submit an asset reclamation request using the Reclaim Asset catalog item. A manager can submit an asset reclamation request for the reporting members. An HR professional can submit an asset reclamation request for any employee in the organization. An employee other than an HR professional and a manager can submit an asset reclamation request for self. For more information, see [Submit an asset reclamation request](submit-asset-reclamation-request.md).
 
 **Note:** You can't reclaim asset bundles and pallets.
 
@@ -34,7 +34,7 @@ The Hardware Asset Reclamation Line also has a stage field, which changes when y
 -   Pending evaluation
 -   Complete
 
-For more information, see [Close an asset reclamation request](../task/close-asset-reclamation-request.md).
+For more information, see [Close an asset reclamation request](close-asset-reclamation-request.md).
 
 The Hardware Asset Reclamation Sub Flow decision table enables you to trigger your custom reclamation sub flow for hardware and consumable assets. Based on the condition related to the asset that you specify in the decision table, the corresponding sub flow is triggered, and the reclamation process completes.
 

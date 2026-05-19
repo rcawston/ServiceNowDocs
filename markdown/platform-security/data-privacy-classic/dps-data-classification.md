@@ -28,7 +28,7 @@ Data classification is a standalone process in which you manually apply data cla
 -   When you classify data, you can use the pre-defined data classifications, or create your own. Although use of pre-defined data classifications is optional, it is advisable do so as a starting point. These pre-defined data classifications are included in demo data that you can install in your instance.
 -   If you create your own data classifications, you can also design a tiered hierarchical system with parent and child data classifications.
 
-**Note:** Data Classification supports domain separation, and the data\_classification table itself is process separated. See [Domain separation and Data Classification](../../security/concept/domain-separation-data-classification.md) for additional information.
+**Note:** Data Classification supports domain separation, and the data\_classification table itself is process separated. See [Domain separation and Data Classification](../data-classification/domain-separation-data-classification.md) for additional information.
 
 ## Use cases
 

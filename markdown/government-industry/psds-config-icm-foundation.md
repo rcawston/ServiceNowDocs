@@ -18,7 +18,7 @@ Configure the foundational details for Investigative Case Management.
 
 [Assign user personas, roles, groups, and responsibilities in Investigative Case Management](psds-config-icm-assign-user-roles-responsibilities.md)
 
-[Investigative Case Management Personas](../reference/psds-data-model-icm-personas.md)
+[Investigative Case Management Personas](psds-data-model-icm-personas.md)
 
 [Configuring Investigative Case Management responsibility definitions](psds-config-icm-create-responsibilities.md)
 

@@ -60,7 +60,7 @@ Role required: admin
 -   **[Preview Upgrade Plan](um-preview-upgrade-plan.md)**  
 Preview your upgrade plan before being implemented in the upgrades. Once the upgrade plan is installed, it auto generates the preview of the upgrade plan.
 
-**Parent Topic:**[Upgrade Plans tool in Upgrade Console](../concept/um-upgrade-plans-tool.md)
+**Parent Topic:**[Upgrade Plans tool in Upgrade Console](um-upgrade-plans-tool.md)
 
 **Related topics**  
 

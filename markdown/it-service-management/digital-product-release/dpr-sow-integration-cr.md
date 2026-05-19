@@ -24,7 +24,7 @@ This seamless experience streamlines collaboration between Change and Release te
 -   Import affected configuration items \(CIs\) from releases into changes.
 -   View release details in the SOW workspace.
 
-For more information, see [Service Operations Workspace for ITSM](../../service-operations-workspace/concept/sow-landing-page.md).
+For more information, see [Service Operations Workspace for ITSM](../service-operations-workspace/sow-landing-page.md).
 
 ## Prerequisites
 
@@ -50,7 +50,7 @@ If a change is associated with a release, the card displays the following key de
 
 To open the release execution page, select the release name link.
 
-For more information, see [Create a change request in Service Operations Workspace](../../service-operations-workspace/task/create-change-sow.md#step-create-CR-link-release).
+For more information, see [Create a change request in Service Operations Workspace](../service-operations-workspace/create-change-sow.md#step-create-CR-link-release).
 
 ## Affected CIs import
 
@@ -58,14 +58,14 @@ You can import affected configuration items \(CIs\) from release phases directly
 
 For large CI sets, the import process runs asynchronously. Manually refresh the list if the imported CIs don’t appear immediately.
 
-For more information, see [Create a change request in Service Operations Workspace](../../service-operations-workspace/task/create-change-sow.md#step-create-CR-add-cis-rls).
+For more information, see [Create a change request in Service Operations Workspace](../service-operations-workspace/create-change-sow.md#step-create-CR-add-cis-rls).
 
 **Parent Topic:**[Exploring Digital Product Release](dpr-exploring-digital-product-release.md)
 
 **Related topics**  
 
 
-[Manage change requests in a release](../task/dpr-work-release-change-request.md)
+[Manage change requests in a release](dpr-work-release-change-request.md)
 
-[Change Management in Service Operations Workspace](../../service-operations-workspace/concept/change-sow.md)
+[Change Management in Service Operations Workspace](../service-operations-workspace/change-sow.md)
 

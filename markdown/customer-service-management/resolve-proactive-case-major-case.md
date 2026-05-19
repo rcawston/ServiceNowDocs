@@ -37,7 +37,7 @@ Role required: sn\_majorissue\_mgt.major\_issue\_manager or sn\_customerservice\
 **Related topics**  
 
 
-[Major issue management overview](../concept/major-issue-management.md)
+[Major issue management overview](major-issue-management.md)
 
 [Create a major case](create-major-case.md)
 

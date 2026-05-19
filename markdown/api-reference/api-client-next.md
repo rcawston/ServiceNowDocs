@@ -15,19 +15,19 @@ breadcrumb: [API reference, API implementation and reference]
 
 This reference contains Glide client-side JavaScript APIs with options and compatibility in Configurable Workspace in the Next Experience UI. You can use the classes and methods along with parameters, descriptions, and examples to help control the end-user experience.
 
--   **[g\_modal \(Next Experience\) - Client](../../../app-store/dev_portal/API_reference/g_modalNX/concept/g_modalClientAPINX.md#)**  
+-   **[g\_modal \(Next Experience\) - Client](g_modalClientAPINX.md#)**  
 The g\_modal API enables you to display a modal window to enhance application functionality.
--   **[GlideForm \(Next Experience\) - Client](../../../app-store/dev_portal/API_reference/GlideFormNX/concept/GlideFormAPINX.md#)**  
+-   **[GlideForm \(Next Experience\) - Client](GlideFormAPINX.md#)**  
 The GlideForm API provides methods to customize forms in the Next Experience UI Framework.
--   **[GlideList \(Next Experience\) - Client](../../../app-store/dev_portal/API_reference/GlideListClientNowEx/concept/GlideListClientAPINEx.md#)**  
+-   **[GlideList \(Next Experience\) - Client](GlideListClientAPINEx.md#)**  
 The GlideList API provides methods to customize lists in the Next Experience UI Framework.
--   **[GlideModal \(Next Experience\) - Client](../../../app-store/dev_portal/API_reference/GlideModalClientNX/concept/GModClientAPINX.md#)**  
+-   **[GlideModal \(Next Experience\) - Client](GModClientAPINX.md#)**  
 The GlideModal API provides methods for displaying a content overlay, known as a modal. Modals are interactive windows that appear above a page and close when a user takes an action. You can use a modal to display information, ask questions, or perform actions.
--   **[GlideNavigation \(Next Experience\) - Client](../../../app-store/dev_portal/API_reference/GlideNavigationClientNX/concept/GlideNavigationClientAPINX.md#)**  
+-   **[GlideNavigation \(Next Experience\) - Client](GlideNavigationClientAPINX.md#)**  
 The GlideNavigation API enables refreshing the navigator and main frame in the Next Experience UI Framework.
--   **[GlideUser \(Next Experience\) - Client](../../../app-store/dev_portal/API_reference/GlideUserNX/concept/GlideUserAPINX.md#)**  
+-   **[GlideUser \(Next Experience\) - Client](GlideUserAPINX.md#)**  
 The GlideUser API provides a method to access information about current user roles in the Next Experience UI Framework.
--   **[StopWatch \(Next Experience\) - Client](../../../app-store/dev_portal/API_reference/StopWatchNX/concept/StopWatchAPINX.md#)**  
+-   **[StopWatch \(Next Experience\) - Client](StopWatchAPINX.md#)**  
 The StopWatch API provides methods to measure durations in the Next Experience UI Framework.
 
 **Parent Topic:**[API reference](api-reference.md)

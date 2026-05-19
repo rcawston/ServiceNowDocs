@@ -37,7 +37,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about supported data models and event types.](../reference/hcls-redox-app-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about supported data models and event types.](hcls-redox-app-reference.md)
 
 </td></tr></tbody>
 </table>

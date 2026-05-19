@@ -28,7 +28,7 @@ A good example of an industry that benefits from multiple case types is the bank
     System administrators configure the case types feature by creating a table for the new case type that extends the Case table and then setting up a number of different processes and components for the case type.
 
     -   The [Case Types Guided Setup](customer-service-case-types.md#section_ls3_dcp_bjb) section below provides an overview of these setup steps.
-    -   For details about the case type guided setup tasks, see [Configure customer service case types](../task/configure-csm-case-types.md).
+    -   For details about the case type guided setup tasks, see [Configure customer service case types](configure-csm-case-types.md).
 -   **Managing case types**
 
     After a case type has been created, system administrators can view the case types, manage settings, and update the configuration. For more information, see [Manage customer service case types](manage-csm-case-types.md).
@@ -103,7 +103,7 @@ To create and configure a new case type:
 -   Create a case type definition record for the new case type and add it to the Case Type table \(sn\_case\_type\).
 -   Configure the **Get Case Types** flow and modify the conditions that determine visibility for a case type.
 
-For more information, see [Configure customer service case types](../task/configure-csm-case-types.md).
+For more information, see [Configure customer service case types](configure-csm-case-types.md).
 
 ## Using case types to create cases
 
@@ -116,6 +116,6 @@ When creating cases, customer service agents select the case type that correspon
 
 In CSM Configurable Workspace, there are several versions of the [case type selector](csm-case-type-select-modals.md) that can be configured for agents to use when creating cases of a specific type. These versions include multi-select, single-select, and Product Service Select. The multi-select version is the default functionality. In CSM Agent Workspace, agents can use the multi-select version of the [case type selector](csm-case-type-select-modals.md).
 
--   [Create a customer service case of a specific type](../task/create-case-of-specific-case-type.md)
--   [Create a case task of a specific type for a customer service case](../task/create-case-task-specific-case-type.md)
+-   [Create a customer service case of a specific type](create-case-of-specific-case-type.md)
+-   [Create a case task of a specific type for a customer service case](create-case-task-specific-case-type.md)
 

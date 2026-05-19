@@ -33,7 +33,7 @@ A firewall is a network security system that, based on security policies, monito
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates.See the class columns table for further details about the columns added for each class. CMDB CI Class Models: Release 1.10.0 adds or updates the following classes for the discovery of network firewall devices. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates.See the class columns table for further details about the columns added for each class. CMDB CI Class Models: Release 1.10.0 adds or updates the following classes for the discovery of network firewall devices. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 <table id="table_kbv_s5d_dlb"><thead><tr><th>
 
@@ -277,5 +277,5 @@ CMDB CI Class Models: Release 1.12.0 adds no columns to the existing classes.
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](../configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 

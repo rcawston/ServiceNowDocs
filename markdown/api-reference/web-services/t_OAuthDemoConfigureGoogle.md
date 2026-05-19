@@ -74,9 +74,9 @@ Configure the Google service in order to obtain a client ID and client secret, a
     You use these values to configure the Google service as an OAuth provider in your instance.
 
 
-**Parent Topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](../concept/c_OAuth2ProfileTutorialGoogle.md)
+**Parent Topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](c_OAuth2ProfileTutorialGoogle.md)
 
-**Previous topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](../concept/c_OAuth2ProfileTutorialGoogle.md)
+**Previous topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](c_OAuth2ProfileTutorialGoogle.md)
 
 **Next topic:**[OAuth 2.0 tutorial - create an OAuth provider and profile](t_OAuthDemoCreateProvider.md)
 

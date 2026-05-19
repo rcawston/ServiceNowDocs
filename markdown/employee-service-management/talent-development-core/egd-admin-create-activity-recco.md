@@ -31,10 +31,10 @@ Controls whether the activity is **Required** or **Recommended** for the growth 
 
 3.  Complete the **Activity Template Recommendation** form.
 
-    Read details about the different fields in [Talent Activity Template Recommendation form](../reference/egd-activity-recommendation-form.md).
+    Read details about the different fields in [Talent Activity Template Recommendation form](egd-activity-recommendation-form.md).
 
 4.  Select **Submit**
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

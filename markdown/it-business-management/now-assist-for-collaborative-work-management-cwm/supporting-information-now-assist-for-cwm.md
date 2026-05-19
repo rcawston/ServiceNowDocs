@@ -30,5 +30,5 @@ Installing the latest Now Assist for Collaborative Work Management \(CWM\) store
 **Related topics**  
 
 
-[Configure Now Assist for Collaborative Work Management \(CWM\)](../task/configure-now-assist-for-collaborative-work-management.md)
+[Configure Now Assist for Collaborative Work Management \(CWM\)](configure-now-assist-for-collaborative-work-management.md)
 

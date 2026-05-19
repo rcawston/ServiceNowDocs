@@ -44,5 +44,5 @@ Role required: admin
 8.  Select **Update**.
 
 
-**Parent Topic:**[Interaction wrap up](../concept/interaction-wrap-up-state.md)
+**Parent Topic:**[Interaction wrap up](interaction-wrap-up-state.md)
 

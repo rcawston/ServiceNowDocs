@@ -40,5 +40,5 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
 6.  Select **Save**.
 
 
-**Parent Topic:**[Working with incidents in SRM](../concept/sr-work-incidents.md)
+**Parent Topic:**[Working with incidents in SRM](sr-work-incidents.md)
 

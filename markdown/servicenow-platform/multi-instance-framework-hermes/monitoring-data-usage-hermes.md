@@ -96,11 +96,11 @@ Topics with the prefix \[Internal\] are for applications used only by ServiceNow
 **Related topics**  
 
 
-[Check the status of and connection to the Hermes Kafka cluster](../task/run-hermes-messaging-service-diagnostics.md)
+[Check the status of and connection to the Hermes Kafka cluster](run-hermes-messaging-service-diagnostics.md)
 
 [Tracking message usage in Hermes](tracking-hermes-messaging-service-usage.md)
 
 [Cloning with Hermes Messaging Service enabled](cloning-with-hermes-messaging-service.md)
 
-[View Hermes Messaging Service log messages](../task/view-hermes-log-messages.md)
+[View Hermes Messaging Service log messages](view-hermes-log-messages.md)
 

@@ -19,7 +19,7 @@ Patterns perform the discovery of Oracle installations. These patterns replace s
 
 **Note:** Oracle DB on Unix and Oracle DB on Windows do not support RAC single-node discovery.
 
-The Oracle DB on Unix and Oracle DB on Windows patterns discover Oracle catalog objects through the pattern extension Get Catalog info. For more information, see [Oracle Catalog discovery](../../service-mapping/reference/oracle-catalog-discovery.md). For general information about database catalog discovery, see [database catalogs](c_DatabaseCatalogs.md).
+The Oracle DB on Unix and Oracle DB on Windows patterns discover Oracle catalog objects through the pattern extension Get Catalog info. For more information, see [Oracle Catalog discovery](../discovery-and-service-mapping-patterns/oracle-catalog-discovery.md). For general information about database catalog discovery, see [database catalogs](c_DatabaseCatalogs.md).
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -62,7 +62,7 @@ The user needs permissions for the SQL\*Plus command line tool and permissions t
 
 </td><td rowspan="2">
 
-You can also use Windows and SSH credentials in addition to applicative credentials. For Windows credentials, the user must have read permissions to the `tnsnames.ora` file. SSH credentials, must allow read permission to the `oratab` file and read permission to the System Parameter file.For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../../service-mapping/reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+You can also use Windows and SSH credentials in addition to applicative credentials. For Windows credentials, the user must have read permissions to the `tnsnames.ora` file. SSH credentials, must allow read permission to the `oratab` file and read permission to the System Parameter file.For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 </td></tr><tr><td>
 
@@ -226,7 +226,7 @@ Application patterns:
 -   Oracle DB On Windows Pattern
 -   Oracle DB on UNIX Pattern
 
- This shared library pattern used by the [Linux Server](../reference/r_DataCollDiscoLinuxComputers.md) pattern:
+ This shared library pattern used by the [Linux Server](r_DataCollDiscoLinuxComputers.md) pattern:
 
  UNIX Cluster - ORACLE Clusterware
 
@@ -247,7 +247,7 @@ none
 </td></tr></tbody>
 </table>**\***Probes inactive for new instances.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected
 
@@ -823,15 +823,15 @@ Linux Server \[cmdb\_ci\_linux\_server\]
 **Related topics**  
 
 
-[Add the Horizontal Pattern probe to a classifier](c-UsingPatternsForHorizontalDiscovery.md#)
+[Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#)
 
-[Horizontal Pattern probe](../reference/r-HorizontalPatternProbe.md)
+[Horizontal Pattern probe](../discovery/r-HorizontalPatternProbe.md)
 
 [Database Administrator \(DBA\) report discovery](dba-report-discovery-pattern.md)
 
-[Oracle Catalog discovery](../../service-mapping/reference/oracle-catalog-discovery.md)
+[Oracle Catalog discovery](../discovery-and-service-mapping-patterns/oracle-catalog-discovery.md)
 
-[Oracle pluggable database and container database discovery](../../service-mapping/reference/oracle-cdb-pdb-discovery.md)
+[Oracle pluggable database and container database discovery](../discovery-and-service-mapping-patterns/oracle-cdb-pdb-discovery.md)
 
-[Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../../service-mapping/reference/oracle-glas-discovery.md)
+[Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../discovery-and-service-mapping-patterns/oracle-glas-discovery.md)
 

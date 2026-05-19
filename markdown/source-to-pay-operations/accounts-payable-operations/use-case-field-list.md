@@ -58,5 +58,5 @@ The **DO NOT USE - Invoice Processing** use case includes the following set of i
 |Line quantity|The number of items that have been invoiced.|
 |Line description|Description for the invoice line.|
 
-**Parent Topic:**[Invoice Processing use case](../concept/docintel-invoice-process-usecase.md)
+**Parent Topic:**[Invoice Processing use case](docintel-invoice-process-usecase.md)
 

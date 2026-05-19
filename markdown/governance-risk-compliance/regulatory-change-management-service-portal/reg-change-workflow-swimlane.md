@@ -25,7 +25,7 @@ The Regulatory Change Management application has the following user roles:
 -   Business user role: A user who has the sn\_grc.business\_user role.
 -   Risk or Compliance manager: A user who has the sn\_risk.manager or sn\_compliance.manager role. This user would perform the changes as part of the Regulatory Change Management application.
 
-For more information about the roles, see [User roles in Regulatory Change Management](../reference/roles-installed-rcm.md).
+For more information about the roles, see [User roles in Regulatory Change Management](roles-installed-rcm.md).
 
 The following infographic shows the Regulatory Change Management process flow.
 
@@ -56,7 +56,7 @@ Utilize the Smart Assessment Engine to perform smart assessments on regulatory a
 
 [Regulatory Change Management application in the Compliance Workspace](rcm-workspace-overview.md)
 
-[Differences between regulatory event alert and source document alert](../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)
+[Differences between regulatory event alert and source document alert](regulatory-event-alert-vs-source-document-alert.md)
 
 [Next Experience Discuss and Chat Collaboration](next-experience-discuss-chat-collaboration.md)
 

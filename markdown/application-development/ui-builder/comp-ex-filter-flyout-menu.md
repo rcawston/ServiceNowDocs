@@ -57,7 +57,7 @@ Record list
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch.
 
@@ -185,5 +185,5 @@ Value to use after triggering event
     ![Preview of UI Builder page showing the record list filtered for a specific priority.](../image/comp-ex-ffm-result.png)
 
 
-**Parent Topic:**[Learn components by example](../concept/learning-components-by-example.md)
+**Parent Topic:**[Learn components by example](learning-components-by-example.md)
 

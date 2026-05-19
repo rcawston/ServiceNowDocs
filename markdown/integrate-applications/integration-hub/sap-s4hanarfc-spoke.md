@@ -129,7 +129,7 @@ The SAP S/4 HANA RFC spoke adds the SAP S4 HANA RFC Spoke application to your in
 |Module|Description|
 |------|-----------|
 |SAP S/4 HANA - RFCs|Displays the list RFCs. Some RFCs are provided along with spoke. You can create additional RFCs as per your requirement. The Execute RFC action uses these records as an input.|
-|SAP S/4 HANA Flow Executions|Displays the dates on which the Retrieve Incoming Invoice flow is executed. After you set up the SAP S4 HANA RFC spoke, create a record to specify the date up to which you want to retrieve the invoice data. For more information, see [Set up the SAP S4 HANA RFC spoke](../task/setup-saphana-rfc.md).|
+|SAP S/4 HANA Flow Executions|Displays the dates on which the Retrieve Incoming Invoice flow is executed. After you set up the SAP S4 HANA RFC spoke, create a record to specify the date up to which you want to retrieve the invoice data. For more information, see [Set up the SAP S4 HANA RFC spoke](setup-saphana-rfc.md).|
 |SAP S/4 HANA Invoice Data|Displays details of the invoice data. Customize and execute the default flow, Retrieve Incoming Invoice to retrieve the invoice data.|
 |SAP S/4 HANA Users Records|Displays details of the users, based on their user role. Customize and execute the default flow, Retrieve Users by Role to retrieve the user information.|
 
@@ -143,12 +143,12 @@ Integration Hub uses aliases to manage connection and credential information. Us
 
 ## MID Server requirements
 
-These actions use Remote Function Call \(RFC\) protocol \(SAP Proprietary protocol – SAP Standard Interface\), which can run on an instance or MID Server. Use the connection record associated with SAP S4 HANA RFC spoke alias to configure where actions run as well as set MID Server selection attributes. For more information about running actions on the MID Server, see [Integration steps](../../integrationhub/concept/integration-steps.md)
+These actions use Remote Function Call \(RFC\) protocol \(SAP Proprietary protocol – SAP Standard Interface\), which can run on an instance or MID Server. Use the connection record associated with SAP S4 HANA RFC spoke alias to configure where actions run as well as set MID Server selection attributes. For more information about running actions on the MID Server, see [Integration steps](integration-steps.md)
 
 **Note:**
 
--   If the MID Server is installed on a Linux machine, perform the configurations as outlined in [Set up the SAP S4 HANA RFC spoke](../task/setup-saphana-rfc.md).
+-   If the MID Server is installed on a Linux machine, perform the configurations as outlined in [Set up the SAP S4 HANA RFC spoke](setup-saphana-rfc.md).
 -   If the MID Server is installed on a Windows machine, no configurations are needed.
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

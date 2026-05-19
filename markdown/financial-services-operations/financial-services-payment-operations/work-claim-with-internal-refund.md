@@ -39,7 +39,7 @@ An internal refund type in a claim indicates that the refund should come from th
     -   To work on a case that is not assigned to you yet, assign it to yourself by clicking **Assign to me**.
     The state of the case updates to Work in Progress.
 
-    For information on the Claim form field descriptions, see [Field descriptions for a claim case](../reference/claim-form-fields.md).
+    For information on the Claim form field descriptions, see [Field descriptions for a claim case](claim-form-fields.md).
 
 5.  In the **Claim type** field, review the claim type.
 
@@ -77,5 +77,5 @@ Create a debit approval case for a claim so that you can request a refund intern
 -   **[Work on a debit approval case to complete a refund](work-debit-approval-case-internal-refund.md)**  
 Work with your internal customer or bank to get the debit amount approved so that you can complete the claim refund.
 
-**Parent Topic:**[Managing payment claims and debit approvals](../concept/managing-payment-claims.md)
+**Parent Topic:**[Managing payment claims and debit approvals](managing-payment-claims.md)
 

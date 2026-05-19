@@ -25,7 +25,7 @@ The Approval Configuration record controls two aspects of the approval experienc
 
 -   **Display experience**
 
-    Defines which fields appear and in what order, both in the Approval Assistance AI agent and the Approval Info Record widget. For more information, see [Platform Approval assistance AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-approval-aia.md) and [Approval Info Record widget](../concept/approval-info-record-widget.md).
+    Defines which fields appear and in what order, both in the Approval Assistance AI agent and the Approval Info Record widget. For more information, see [Platform Approval assistance AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-approval-aia.md) and [Approval Info Record widget](approval-info-record-widget.md).
 
 -   **AI behavior**
 
@@ -183,5 +183,5 @@ Configure fields and AI behavior for a table that goes through the approval work
 11. Select **Update**.
 
 
-**Parent Topic:**[Configuring Service Portal](../concept/configuring-service-portal.md)
+**Parent Topic:**[Configuring Service Portal](configuring-service-portal.md)
 

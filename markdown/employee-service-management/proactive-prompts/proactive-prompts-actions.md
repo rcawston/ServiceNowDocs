@@ -31,7 +31,7 @@ View details
 
 </td><td>
 
-Enables the user to see more details about the prompt, including any URL provided in the signal configuration. Users can also access links directly to the items/tasks/records based on the URL configured in the Script data source. For more information see, [Create a signal in Proactive Prompts](../task/proactive-prompts-signal-create.md).**Note:**
+Enables the user to see more details about the prompt, including any URL provided in the signal configuration. Users can also access links directly to the items/tasks/records based on the URL configured in the Script data source. For more information see, [Create a signal in Proactive Prompts](proactive-prompts-signal-create.md).**Note:**
 
 -   The display of links to items/tasks/records only works with the Script data source.
 -   The details displayed are influenced by the selection in the Collect records field.
@@ -78,7 +78,7 @@ Action groups are a collection of frequently used actions in a framework for qui
 -   Chat action group
 -   Email action group
 
-For more information, see [Action group](../../employee-center/concept/action-group-framework.md).
+For more information, see [Action group](../employee-experience-foundation/action-group-framework.md).
 
 **Parent Topic:**[Reference for Proactive Prompts](proactive-prompts-reference.md)
 

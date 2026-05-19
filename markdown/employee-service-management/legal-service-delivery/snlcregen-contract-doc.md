@@ -19,7 +19,7 @@ As a legal user or legal fulfiller, regenerate the contract document for non-dis
 
 When the parent request is modified, you can use the **Regenerate** option to generate a new contract document from the contract template with the latest metadata, signatories, and tables. You can regenerate a contract document only when the State is Draft or Work in progress.
 
-Any changes made to the signatory information in the contract request will be overwritten by the signatory information from the contract template. If the signatory information is incomplete or inconsistent after regeneration, you can manually update the signatories. For more information, see [Updating and synchronizing signatories](../../contract-mgmt-pro/task/cncore-update-sync-signatories.md).
+Any changes made to the signatory information in the contract request will be overwritten by the signatory information from the contract template. If the signatory information is incomplete or inconsistent after regeneration, you can manually update the signatories. For more information, see [Updating and synchronizing signatories](../contract-management-pro/cncore-update-sync-signatories.md).
 
 You can regenerate a contract document only when the State is Draft or Work in progress.
 

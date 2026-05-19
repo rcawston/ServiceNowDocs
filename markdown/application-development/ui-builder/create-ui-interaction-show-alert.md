@@ -94,5 +94,5 @@ The UI interaction is created and ready to be attached to a component or page ev
 
 To trigger this UI interaction from a form or list button using a declarative action, see [Trigger a UI interaction from a declarative action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-da-ui-interactions.md).
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](uib-ui-interactions.md)
 

@@ -37,7 +37,7 @@ Creating a context variable is similar to creating a column on a table.
 
 4.  On the form, fill in the **Type** field as Choice and the other fields as needed.
 
-    For a description of the field values, see [Context Variable form](../reference/context-variable-form-apw.md).
+    For a description of the field values, see [Context Variable form](context-variable-form-apw.md).
 
 5.  Click **Submit**.
 
@@ -99,5 +99,5 @@ Sys\_id of the choice value for which the context variable is created. You can c
 
 The goal user can configure these choices as context variables on the Target form for which the target source is configured.
 
-**Parent Topic:**[Configuring target source for target automation](../concept/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md)
+**Parent Topic:**[Configuring target source for target automation](setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md)
 

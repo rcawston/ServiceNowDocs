@@ -65,7 +65,7 @@ After Xanadu December 2024 release, you can also invite contacts from other emai
 **Related topics**  
 
 
-[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+[Using Supplier Collaboration Portal](use-supp-central.md)
 
 [Register to the Supplier Collaboration Portal as an invited member](register-invited-member-supp-central.md)
 

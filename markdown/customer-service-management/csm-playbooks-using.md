@@ -26,8 +26,8 @@ Several features are available to agents when using a playbook, depending on the
 
 | | |
 |---|---|
-|[Create a record using a playbook](../task/csm-playbook-create-record.md)|If a playbook is configured to use the record generator feature, customer service agents can create a record using a playbook activity.|
-|[Filter playbook activities](../task/csm-playbook-filter-activities.md)|Filter the activities in playbook stages by the selected user or activity state.|
+|[Create a record using a playbook](csm-playbook-create-record.md)|If a playbook is configured to use the record generator feature, customer service agents can create a record using a playbook activity.|
+|[Filter playbook activities](csm-playbook-filter-activities.md)|Filter the activities in playbook stages by the selected user or activity state.|
 |[Using the activity stream in the contextual side panel](csm-playbooks-using-activity-stream.md)|Customer service agents can access the activity stream in the contextual side panel to communicate with requesters and make internal notes about the work done on a record.|
 |[Viewing dynamic related records in the contextual side panel](csm-playbooks-viewing-rel-records.md)|Customer service agents can view dynamic related records that dynamically change based on the context of the current record or playbook activity.|
 |[Viewing ribbon information in the contextual side panel](csm-playbooks-viewing-ribbon-info.md)|Customer service agents can view ribbon information in the contextual side panel, including the case overview and timeline, Customer 360, and SLAs.|

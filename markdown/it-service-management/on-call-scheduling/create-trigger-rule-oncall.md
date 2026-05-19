@@ -174,7 +174,7 @@ Action that is triggered when the **Match conditions** and **Conditions** are me
     -   For new users, the **Subflow** option is visible while the **Workflow** option is not visible.
     -   For existing or upgrade users, both the **Subflow** and **Workflow** options are visible, and either of them can be selected.
 -   The **Script** option is available only for users with the rota\_admin and admin roles.
-For more information, see [On-Call Scheduling subflows](../reference/on-call-scheduling-subflows-overview.md).
+For more information, see [On-Call Scheduling subflows](on-call-scheduling-subflows-overview.md).
 
 </td></tr><tr><td>
 
@@ -210,5 +210,5 @@ Script \(server-side JavaScript\) to run. Available only if the **Trigger action
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Designing an escalation process](../concept/designing-escalation-process-oncall.md)
+**Parent Topic:**[Designing an escalation process](designing-escalation-process-oncall.md)
 

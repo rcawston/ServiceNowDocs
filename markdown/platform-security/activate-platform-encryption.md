@@ -27,7 +27,7 @@ Customers that were using Column Level Encryption in previous releases, and who 
 
     Column Level Encryption Starter customers can install Field Encryption Starter with no need for re-implementation. Field Encryption Starter takes over the existing configuration and adds new features seamlessly.
 
-    **Warning:** There are differences in entitlement between Column Level Encryption Starter and Field Encryption Starter. Before installing Field Encryption Starter, ensure that your configuration complies with the entitlements. For information on entitlements for Field Encryption Starter, see [Exploring Field Encryption](../../encryption/concept/exploring-fe.md).
+    **Warning:** There are differences in entitlement between Column Level Encryption Starter and Field Encryption Starter. Before installing Field Encryption Starter, ensure that your configuration complies with the entitlements. For information on entitlements for Field Encryption Starter, see [Exploring Field Encryption](exploring-fe.md).
 
 -   **Field Encryption Enterprise**
 
@@ -51,5 +51,5 @@ Customers that were using Column Level Encryption in previous releases, and who 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
 
-**Parent Topic:**[Configuring Field Encryption](../../encryption/concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

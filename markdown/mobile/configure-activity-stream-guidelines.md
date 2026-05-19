@@ -32,10 +32,10 @@ Consider these general guidelines when configuring your activity stream.
     The term Activity stream as a tab name may not be understood by some users. Consider renaming this tab to a term your users are familiar with, such as Updates, History, or Notes.
 
 -   **@mention feature**
-    -   Users can @mention someone in the activity stream, and the mentioned user will receive an email and push notifications based on admin and user preferences. For more information, see [Mobile push notifications](../concept/sg-mobile-push-notifications.md).
+    -   Users can @mention someone in the activity stream, and the mentioned user will receive an email and push notifications based on admin and user preferences. For more information, see [Mobile push notifications](sg-mobile-push-notifications.md).
     -   Supporting @mention mobile push notifications requires configuration and isn’t supported by default for all tables. In this case, consider adding support for tables which require collaboration between users to increase communication efficiency.
 -   **User role user or user criteria permissions**
 
-    You can restrict access to the activity stream segment within the Record screen for specific users by assigning user roles or user criteria permissions. For more information, see [User roles and user criteria permissions for mobile apps](../concept/roles-user-criteria.md).
+    You can restrict access to the activity stream segment within the Record screen for specific users by assigning user roles or user criteria permissions. For more information, see [User roles and user criteria permissions for mobile apps](roles-user-criteria.md).
 
 

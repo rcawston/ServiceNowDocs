@@ -43,7 +43,7 @@ Introduction to incident management
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Incident Management components such as roles and dependent applications.](../reference/reference-section-for-incident-management.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Incident Management components such as roles and dependent applications.](reference-section-for-incident-management.md)
 
 </td></tr><tr><td>
 

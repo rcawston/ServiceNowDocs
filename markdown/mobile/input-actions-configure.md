@@ -159,11 +159,11 @@ Determine where or how the action handles the generated data.**Note:** Unless ot
 
 **DataSourceID**: The data source used for loading data from the database. Used for comment and attachment input action.
 
-**Note:** An *ElementIdentifier* attribute is also required. For more information, see [Data sources](../concept/data-sources.md).
+**Note:** An *ElementIdentifier* attribute is also required. For more information, see [Data sources](data-sources.md).
 
 **ElementIdentifier**: The unique ID contained within a data source, used for loading data from the database. Used for comment and attachment input action.
 
-**Note:** A *DataSourceID* attribute is also required. For more information, see [Data sources](../concept/data-sources.md).
+**Note:** A *DataSourceID* attribute is also required. For more information, see [Data sources](data-sources.md).
 
 **UserActionID**: A unique value that identifies this action record. It's needed to associate the action with a UI rule.
 
@@ -228,7 +228,7 @@ You're returned to the Input form action attribute table.
 
 4.  Select **New** in the Action attributes area.
 5.  Select **ButtonId** in the **Name** field.
-6.  Select a preconfigured navigation type in the **Value** field. For more information on creating navigation buttons, see [Navigation functions](../concept/mobile-nav-functions.md).
+6.  Select a preconfigured navigation type in the **Value** field. For more information on creating navigation buttons, see [Navigation functions](mobile-nav-functions.md).
 
 **Note:** If the navigation function you selected has a Record context \(as opposed to a Global context\), you must map it to the specific record using data sources.
 

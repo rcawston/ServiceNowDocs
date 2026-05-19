@@ -70,7 +70,7 @@ Role required: admin and Microsoft Azure portal administrator
 9.  Navigate to **Overview** &gt; **Endpoints** and copy the **OAuth 2.0 token endpoint \(v2\)** to a text file.
 
 
-**Parent Topic:**[Reading email using Microsoft Graph](../concept/read-email-using-ms-graph.md)
+**Parent Topic:**[Reading email using Microsoft Graph](read-email-using-ms-graph.md)
 
 **Related topics**  
 

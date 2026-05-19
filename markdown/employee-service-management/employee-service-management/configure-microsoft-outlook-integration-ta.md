@@ -43,5 +43,5 @@ Role required: admin
 9.  Select **Update**.
 
 
-**Parent Topic:**[Integrations for Hiring Experiences](../concept/integrate-with-talent-acquisition.md)
+**Parent Topic:**[Integrations for Hiring Experiences](integrate-with-talent-acquisition.md)
 

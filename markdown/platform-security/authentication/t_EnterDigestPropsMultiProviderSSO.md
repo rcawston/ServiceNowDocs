@@ -99,7 +99,7 @@ Select **MultiSSO\_DigestedToken**.
 
 </td><td>
 
-Choose the client type, based on the type of your client. Options:**Iframe Embedded**.**Note:** If client type field is required for your configuration, you can edit the form and add the field. To know more, see [Configure client type for OAuth and SSO records](../../authentication/concept/client-type.md).
+Choose the client type, based on the type of your client. Options:**Iframe Embedded**.**Note:** If client type field is required for your configuration, you can edit the form and add the field. To know more, see [Configure client type for OAuth and SSO records](client-type.md).
 
 </td></tr></tbody>
 </table>3.  Click **Update**.

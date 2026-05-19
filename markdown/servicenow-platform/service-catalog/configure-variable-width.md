@@ -72,5 +72,5 @@ Configures the variable to span 100% of the available screen size.
 </table>3.  Select **Save**.
 
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](r_ExtendedCatalogItemFunctions.md)
 

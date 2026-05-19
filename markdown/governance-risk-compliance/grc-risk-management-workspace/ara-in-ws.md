@@ -15,7 +15,7 @@ breadcrumb: [GRC Risk Workspace, Explore, Risk Management, Governance, Risk, and
 
 The Risk Workspace offers an enhanced and a simplified user experience for users to perform Advanced Risk Assessments. You can quickly access the risk assessments assigned to you or your group from the GRC Risk Portal or the Risk Workspace.
 
-With the new Risk Workspace, your risk assessments are more intuitive with more data readily available for you to refer for every assessment that you perform in the risk assessment instance. As an operational risk manager, when you use Advanced Risk Assessments, on the Home page, in the **Risk Summary** field,you have a filter available to select your risk assessment methodology. For example, you can select the risk assessment methodology that shows you the operational risks assessed. For more information on risk assessment methodologies, see [Advanced Risk Assessment](../../grc-risk/concept/advanced-risk-assessment.md).
+With the new Risk Workspace, your risk assessments are more intuitive with more data readily available for you to refer for every assessment that you perform in the risk assessment instance. As an operational risk manager, when you use Advanced Risk Assessments, on the Home page, in the **Risk Summary** field,you have a filter available to select your risk assessment methodology. For example, you can select the risk assessment methodology that shows you the operational risks assessed. For more information on risk assessment methodologies, see [Advanced Risk Assessment](advanced-risk-assessment.md).
 
 For a new user to understand risk assessments, a Contextual side panel is provided with an explanation about the assessment sections. While a default explanation and a brief training are provided, you can also configure the system to show your training content related to risk assessments. If you do not want to keep the side panel training information open, you can also close it using the information icon.
 
@@ -53,5 +53,5 @@ As a first line risk assessor, you may need to view the qualitative weight, the 
 **Related topics**  
 
 
-[Perform advanced risk assessment in the Risk Workspace](../task/perform-ara-workspace.md)
+[Perform advanced risk assessment in the Risk Workspace](perform-ara-workspace.md)
 

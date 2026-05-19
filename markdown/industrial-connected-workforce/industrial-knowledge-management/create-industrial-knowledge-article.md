@@ -35,7 +35,7 @@ Role required: sn\_icw.knowledge\_manager or sn\_icw.knowledge\_author
 
 5.  On the Industrial knowledge article form, fill in the fields.
 
-    For a description of the field values, see [Industrial knowledge article form](../reference/industrial-knowledge-article-form.md).
+    For a description of the field values, see [Industrial knowledge article form](industrial-knowledge-article-form.md).
 
 6.  Add attachments to the article if needed.
 
@@ -68,5 +68,5 @@ Role required: sn\_icw.knowledge\_manager or sn\_icw.knowledge\_author
 
 Published articles are displayed and available in the search functionality.
 
-**Parent Topic:**[Using Industrial Knowledge Management](../concept/using-industrial-knowledge-mgmt.md)
+**Parent Topic:**[Using Industrial Knowledge Management](using-industrial-knowledge-mgmt.md)
 

@@ -53,5 +53,5 @@ Verify that the following DLP applications and security support common applicati
 -   Data Loss Prevention Incident Response
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+</table>**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 

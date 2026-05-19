@@ -15,7 +15,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 Get a holistic and strategic analysis of all the entities in your clusters in one view on the Software Asset Management application.
 
-The SAM Cluster 360° feature simplifies the process of analyzing a cluster, which is typically a time-consuming task. This feature helps SAM managers to make strategic decisions by providing them with a visually comprehensive view of their cluster setup, licensing, and cluster health issues. Drill down to each node on a cluster for a deeper understanding. For detailed information on your cluster, see [View your cluster setup in 360 degrees](../task/view-360-sam-cluster.md).
+The SAM Cluster 360° feature simplifies the process of analyzing a cluster, which is typically a time-consuming task. This feature helps SAM managers to make strategic decisions by providing them with a visually comprehensive view of their cluster setup, licensing, and cluster health issues. Drill down to each node on a cluster for a deeper understanding. For detailed information on your cluster, see [View your cluster setup in 360 degrees](view-360-sam-cluster.md).
 
 ## Cluster overview
 

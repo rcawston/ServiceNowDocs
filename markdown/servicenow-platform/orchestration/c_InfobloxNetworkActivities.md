@@ -23,7 +23,7 @@ Use these activities to create, list, or delete networks on an Infoblox server.
 
 The Create Network activity creates new networks on a specified Infoblox server.
 
-The network activities use the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The network activities use the [REST web service activity template](t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **Network**.
 
@@ -96,7 +96,7 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 
 The Get Network Details activity retrieves the information about a specific network on an Infoblox server.
 
-The network activities use the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The network activities use the [REST web service activity template](t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **Network**.
 
@@ -197,7 +197,7 @@ The **NetworkOptions** array contains these attributes:-   **reference**: Refere
 
 The Delete Network activity deletes a network from an Infoblox server.
 
-The network activities use the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The network activities use the [REST web service activity template](t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **Network**.
 
@@ -262,7 +262,7 @@ Defines the version of WAPI to use for the integration endpoints. The default va
 
 The List Registered Networks activity retrieves all the networks associated with an Infoblox server.
 
-The network activities use the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The network activities use the [REST web service activity template](t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **Network**.
 

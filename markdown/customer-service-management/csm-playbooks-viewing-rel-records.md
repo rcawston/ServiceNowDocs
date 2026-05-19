@@ -108,7 +108,7 @@ Create a new record for the record type currently selected in the Related Record
 </table>**Related topics**  
 
 
-[Filter playbook activities](../task/csm-playbook-filter-activities.md)
+[Filter playbook activities](csm-playbook-filter-activities.md)
 
 [Using the activity stream in the contextual side panel](csm-playbooks-using-activity-stream.md)
 
@@ -118,5 +118,5 @@ Create a new record for the record type currently selected in the Related Record
 
 [Summarize a case](case-summarization-in-process-page.md)
 
-[Create a record using a playbook](../task/csm-playbook-create-record.md)
+[Create a record using a playbook](csm-playbook-create-record.md)
 

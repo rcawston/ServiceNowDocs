@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Attempted Access to Deactivated Accounts playbook.](../image/playbook-attempted-access-deactivated-trigger.png "Attempted Access to Deactivated Accounts playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for Attempted Access to Deactivated Accounts](../concept/playbook-attempted-access-deactivated-accounts.md)
+**Parent Topic:**[Playbook for Attempted Access to Deactivated Accounts](playbook-attempted-access-deactivated-accounts.md)
 

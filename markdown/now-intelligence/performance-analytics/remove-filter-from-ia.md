@@ -38,5 +38,5 @@ You must have access to the list of records that you want to analyze.
 
 The filter is removed from the Interactive Analysis.
 
-**Parent Topic:**[Interactive Analysis](../concept/interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](interactive-analysis.md)
 

@@ -34,5 +34,5 @@ Setting the system property activates user criteria for Service Portal. When the
 3.  Click **Save**.
 
 
-**Parent Topic:**[User criteria for Service Portal](../concept/user-criteria.md)
+**Parent Topic:**[User criteria for Service Portal](user-criteria.md)
 

@@ -28,7 +28,7 @@ Non-self-served contract requests include the following features:
 
 A workflow for non-self-served contract request might progress as follows:
 
-1.  The Contract requester initiates a contract request from the workspace. For more information, see [Initiating a contract or amendment request](../task/cncore-initiate-contract.md).
+1.  The Contract requester initiates a contract request from the workspace. For more information, see [Initiating a contract or amendment request](../contract-management-pro/cncore-initiate-contract.md).
 2.  A contract request is created in the Draft state.
 3.  The Contract requester uploads a single contract or multiple contracts and their supporting documents and classifies them.
 4.  The contract fulfiller views the contract document attached to the contract request.
@@ -59,20 +59,20 @@ A workflow for non-self-served contract request might progress as follows:
     -   If any changes are required, the signature is declined, and the user who is working on the contract request generates a new document and resends it for signature.
 13. The signed contract is stored on the ServiceNow instance or an external storage system and referenced in the contract repository. The requester and department members can access the signed contract document from the contracts repository.
 
--   **[Modify a non-self-served contract request](../task/cncore-update-nss-contract.md)**  
+-   **[Modify a non-self-served contract request](../contract-management-pro/cncore-update-nss-contract.md)**  
 As a requester, modify the contract request to update the request details or replace the attached contract document with an updated version.
--   **[Work on a non-self-served contract review request](../task/cncore-nss-review-request.md)**  
+-   **[Work on a non-self-served contract review request](../contract-management-pro/cncore-nss-review-request.md)**  
 Review and revise a non-self-served contract document. As a collaborator on the request, you can email the revised document to stakeholders to verify the revisions, and then send the ready document for an e-signature from within the contract request.
--   **[Add contract documents to non-self-served contract request](../task/cncore-nss-add-cont-doc.md)**  
+-   **[Add contract documents to non-self-served contract request](../contract-management-pro/cncore-nss-add-cont-doc.md)**  
 As a contract user or the person for whom the contract was requested, add single or multiple contracts and classify them.
--   **[Reclassify contract documents in third-party contract request](../task/cncore-nss-reclassify-doc.md)**  
+-   **[Reclassify contract documents in third-party contract request](../contract-management-pro/cncore-nss-reclassify-doc.md)**  
 As a contract fulfiller, reclassify the documents submitted in a third-party contract review request. For example, you need to change the contract document type from Non-disclosure Agreement to Partnership Agreement.
--   **[Modify supporting documents in the contract request](../task/cncore-nss-mod-supdoc.md)**  
+-   **[Modify supporting documents in the contract request](../contract-management-pro/cncore-nss-mod-supdoc.md)**  
 As a contract fulfiller, add, classify, or remove supporting documents submitted in the contract request.
--   **[Add supporting documents to the contract request](../task/cncore-ss-add-suprt-doc.md)**  
+-   **[Add supporting documents to the contract request](../contract-management-pro/cncore-ss-add-suprt-doc.md)**  
 As a contract user or fulfiller, add single or multiple supporting documents to the contract request and classify them.
--   **[Reclassify supporting documents in the contract request](../task/cncore-nss-reclassify-supdoc.md)**  
+-   **[Reclassify supporting documents in the contract request](../contract-management-pro/cncore-nss-reclassify-supdoc.md)**  
 As a contract fulfiller, reclassify the supporting documents submitted in the contract request. For example you can reclassify the supporting document as a contract document.
 
-**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](../contract-management-pro/cncore-use-cmpro.md)
 

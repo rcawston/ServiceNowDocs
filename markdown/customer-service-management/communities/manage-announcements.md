@@ -167,5 +167,5 @@ This setting appears for Global announcements only. Determines how the user can 
 -   To update an announcement, update any setting as needed and then click **Update**. If you specified **Send email notification**, then you are prompted to send the updated email message.
 -   To cancel an announcement, clear the **Active** check box.
 
-**Parent Topic:**[Community Service Portal](../concept/community-service-portal.md)
+**Parent Topic:**[Community Service Portal](community-service-portal.md)
 

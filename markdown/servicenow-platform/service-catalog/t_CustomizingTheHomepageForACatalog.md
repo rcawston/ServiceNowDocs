@@ -42,7 +42,7 @@ Role required: admin
 9.  Add a shopping cart on the page.
 
 
-**Parent Topic:**[Service catalog home page configuration](../concept/c_ManagingTheHomepageForACatalog.md)
+**Parent Topic:**[Service catalog home page configuration](c_ManagingTheHomepageForACatalog.md)
 
 ## Display subcategories in a panel
 

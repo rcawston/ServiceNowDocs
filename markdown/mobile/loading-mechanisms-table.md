@@ -16,8 +16,8 @@ Use this table to see which loading mechanisms support specific UI elements in a
 For more information, refer to the following topics:
 
 -   For inputs, see [Input form screen attributes for inputs](parameter-screen-var-attr.md).
--   For input actions, see [Configure input form actions in an input form screen](../task/input-actions-configure.md).
--   For descriptive elements, see [Configure descriptive elements for input form screens](../task/descriptive-elements-script.md).
+-   For input actions, see [Configure input form actions in an input form screen](input-actions-configure.md).
+-   For descriptive elements, see [Configure descriptive elements for input form screens](descriptive-elements-script.md).
 
 <table id="table_bdv_hvb_p2c"><thead><tr><th>
 
@@ -419,7 +419,7 @@ Yes
 
 </td><td>
 
-For configuration of mobile cards, see [Mobile Card Builder](../concept/mobile-card-builder.md).
+For configuration of mobile cards, see [Mobile Card Builder](mobile-card-builder.md).
 
 </td></tr></tbody>
 </table>

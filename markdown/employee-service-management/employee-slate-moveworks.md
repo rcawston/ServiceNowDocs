@@ -36,9 +36,9 @@ Administrators complete the following tasks to enable Moveworks for Employee Sla
 
 |Task|Description|
 |----|-----------|
-|[Set up Moveworks for Employee Slate](../task/empworks-set-up-moveworks.md)|Initial setup and configuration of the Moveworks integration with Employee Slate.|
-|[Configure the Moveworks chat bot for Employee Slate](../task/empworks-configure-moveworks-chatbot.md)|Set up and customize the Moveworks chat bot functionality for Employee Slate users.|
-|[Configure Employee Slate for Moveworks](../task/empworks-configure-employee-slate-moveworks.md)|Configure Employee Slate settings to work with the Moveworks integration.|
+|[Set up Moveworks for Employee Slate](empworks-set-up-moveworks.md)|Initial setup and configuration of the Moveworks integration with Employee Slate.|
+|[Configure the Moveworks chat bot for Employee Slate](empworks-configure-moveworks-chatbot.md)|Set up and customize the Moveworks chat bot functionality for Employee Slate users.|
+|[Configure Employee Slate for Moveworks](empworks-configure-employee-slate-moveworks.md)|Configure Employee Slate settings to work with the Moveworks integration.|
 
 ## Employee tasks
 
@@ -46,11 +46,11 @@ The following tasks cover the core employee workflows on Moveworks:
 
 |Task|Description|
 |----|-----------|
-|[Update personal records with the AI assistant](../task/empworks-update-hr-records.md)|Update personal HR records such as home address and emergency contact information using the AI assistant.|
-|[Research prospects and generate artifacts with the AI assistant](../task/empworks-research-external-content.md)|Use the AI assistant to research potential prospects and create relevant business artifacts and documentation.|
-|[Search enterprise content with Enterprise Search](../task/empworks-search-enterprise-content.md)|Find and access enterprise documents, policies, and information using Enterprise Search capabilities.|
-|[Submit a catalog request in Employee Slate](../task/eslate-submit-catalog-request.md)|Request items and services from the service catalog through the Employee Slate interface.|
-|[Find a policy in Employee Slate](../task/eslate-find-policy.md)|Locate and access company policies and procedures within Employee Slate.|
+|[Update personal records with the AI assistant](empworks-update-hr-records.md)|Update personal HR records such as home address and emergency contact information using the AI assistant.|
+|[Research prospects and generate artifacts with the AI assistant](empworks-research-external-content.md)|Use the AI assistant to research potential prospects and create relevant business artifacts and documentation.|
+|[Search enterprise content with Enterprise Search](empworks-search-enterprise-content.md)|Find and access enterprise documents, policies, and information using Enterprise Search capabilities.|
+|[Submit a catalog request in Employee Slate](eslate-submit-catalog-request.md)|Request items and services from the service catalog through the Employee Slate interface.|
+|[Find a policy in Employee Slate](eslate-find-policy.md)|Locate and access company policies and procedures within Employee Slate.|
 
 ## What employees can do with Moveworks
 

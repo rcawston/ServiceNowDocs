@@ -179,7 +179,7 @@ After you connect the LLM, you can set a provider for the generative AI capabili
 **Related topics**  
 
 
-[Bring your own key for third-party AI provider integration](../concept/byok-for-azure-open-ai.md)
+[Bring your own key for third-party AI provider integration](byok-for-azure-open-ai.md)
 
 [Configure a custom resource path for BYOK models](configure-custom-resource-path-byok.md)
 

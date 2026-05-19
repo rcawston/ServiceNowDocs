@@ -46,7 +46,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Mentoring comes with optional demo data.
 
-For more information, see [Configuring mentoring](configuring-mentoring-egd.md) and [Mentoring reference](../reference/mentoring-egd-reference.md).
+For more information, see [Configuring mentoring](configuring-mentoring-egd.md) and [Mentoring reference](mentoring-egd-reference.md).
 
 ## Using Mentoring
 

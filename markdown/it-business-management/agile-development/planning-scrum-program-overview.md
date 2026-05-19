@@ -49,11 +49,11 @@ Agile Board has a program planning board where you can plan, schedule, and revie
         -   Red: The dependent story is scheduled in a sprint first. Then, the prerequisite story is scheduled in a later sprint. Review the dependency and reschedule the story as required.
         If none of the stories have a prerequisite or dependent story that is associated with them, the dependencies option is not visible.
 
-        For information on how to add story dependencies, see [Add dependencies for Agile Development 2.0 stories](../task/Add-dependencies-to-stories.md).
+        For information on how to add story dependencies, see [Add dependencies for Agile Development 2.0 stories](Add-dependencies-to-stories.md).
 
 -   **Epic Backlog pane**
 
-    Enables you to see a list of all the epics that are based on the filter criteria in the epic backlog definition. For more information, see [Create an epic backlog](../task/create-epic-backlog.md).
+    Enables you to see a list of all the epics that are based on the filter criteria in the epic backlog definition. For more information, see [Create an epic backlog](create-epic-backlog.md).
 
     In the backlog pane, you can do the following actions for an epic:
 
@@ -67,7 +67,7 @@ Agile Board has a program planning board where you can plan, schedule, and revie
 
     You can update a team's information, such as the team members, group capacity, or description, by clicking the team's name.
 
-    If your teams do not have sprints added to them, or if you want to add more sprints, you can [Add sprints from the program planning board](../task/add-sprints-from-planning-page.md) directly.
+    If your teams do not have sprints added to them, or if you want to add more sprints, you can [Add sprints from the program planning board](add-sprints-from-planning-page.md) directly.
 
 -   **Team backlog lane**
 
@@ -112,9 +112,9 @@ Agile Board has a program planning board where you can plan, schedule, and revie
     View a list of all stories of the program using the standard list view icon \(![Standard list view icon.](../images/standard-list-icon.png)\).
 
 
--   **[Plan a scrum program](../task/plan-scrum-program.md)**  
+-   **[Plan a scrum program](plan-scrum-program.md)**  
 Plan work for sprints, using a centralized view on Agile Board, of multiple scrum teams that are working together on a scrum program.
--   **[Add sprints from the program planning board](../task/add-sprints-from-planning-page.md)**  
+-   **[Add sprints from the program planning board](add-sprints-from-planning-page.md)**  
 Add sprints to your scrum teams directly from the scrum program planning board without having to navigate to another module.
 
 **Parent Topic:**[Scrum Programs for Agile Development 2.0](scrum-programs-concept.md)

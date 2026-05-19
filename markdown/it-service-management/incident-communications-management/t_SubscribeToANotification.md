@@ -50,5 +50,5 @@ Role required: itil, ia\_admin, or admin
     You are subscribed to incident communication notification.
 
 
-**Parent Topic:**[Managing Incident Communications](../concept/working-with-inci-comm-mgmt.md)
+**Parent Topic:**[Managing Incident Communications](working-with-inci-comm-mgmt.md)
 

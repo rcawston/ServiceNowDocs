@@ -23,7 +23,7 @@ Content Ownership gives control over three areas of Content Publishing:
 -   Where can a content manager publish content \(Topic or Page\)
 -   What content can the content manager create \(Content item\)
 
-    **Note:** Content Managers can create audiences. To enable this, the Allow Ownership for Audiences option must be turned off. If the Ownership Property is enabled, the Content Manager will not have permission to create audiences. See, [Create an auidence](../task/ec-audiences.md).
+    **Note:** Content Managers can create audiences. To enable this, the Allow Ownership for Audiences option must be turned off. If the Ownership Property is enabled, the Content Manager will not have permission to create audiences. See, [Create an auidence](ec-audiences.md).
 
 
 <table id="table_c3r_454_2bc"><thead><tr><th>
@@ -49,7 +49,7 @@ Who - AudienceAssign content managers the ability to publish content for specifi
 
 </td><td>
 
-[Assign ownership of an audience](../task/ecpro-ca-cd-audience-delegation.md)[Create an audience](../task/ec-audiences.md)
+[Assign ownership of an audience](ecpro-ca-cd-audience-delegation.md)[Create an audience](ec-audiences.md)
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Where - Topic or Portal pageAssign content managers to specific topics or pages
 
 </td><td>
 
-[Assign ownership to a portal page](../task/ecpro-portal-page-restriction.md)[Assign ownership to a topic](../task/ecpro-assign-ownership-topic.md)
+[Assign ownership to a portal page](ecpro-portal-page-restriction.md)[Assign ownership to a topic](ecpro-assign-ownership-topic.md)
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ What - Content itemAssign content managers to specific content items
 
 </td><td>
 
-[Assign ownership of content](../task/ecpro-ca-cd-content-restriction.md)
+[Assign ownership of content](ecpro-ca-cd-content-restriction.md)
 
 </td></tr></tbody>
 </table>## Impact on roles
@@ -106,7 +106,7 @@ The following plug-ins are required:
 -   Content Governance \(only required if using Content Governance features\)
 -   Content Experiences \(only required if using Content Experiences features\)
 
-**Note:** For more information on activating the above plug-ins, see [Employee Center plugins](install-plugins.md) and [Install Employee Center Pro](../task/install-ec-pro.md).
+**Note:** For more information on activating the above plug-ins, see [Employee Center plugins](install-plugins.md) and [Install Employee Center Pro](install-ec-pro.md).
 
-After activating the required plug-ins, enable the Content Manager Ownership properties. See [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md). When the Content Manager Ownership properties are enabled, Content Ownership related lists appear in records for audiences, content items, topics, and portal pages.
+After activating the required plug-ins, enable the Content Manager Ownership properties. See [Properties installed with Content Publishing](properties-with-content-delivery.md). When the Content Manager Ownership properties are enabled, Content Ownership related lists appear in records for audiences, content items, topics, and portal pages.
 

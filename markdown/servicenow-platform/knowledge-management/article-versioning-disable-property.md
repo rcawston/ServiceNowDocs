@@ -44,5 +44,5 @@ Users can still access outdated articles that have been attached to incidents. O
 4.  Click **Save**.
 
 
-**Parent Topic:**[Use article versioning](../concept/use-article-versioning_0.md)
+**Parent Topic:**[Use article versioning](use-article-versioning_0.md)
 

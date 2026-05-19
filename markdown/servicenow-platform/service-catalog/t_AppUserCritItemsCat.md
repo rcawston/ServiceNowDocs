@@ -36,7 +36,7 @@ To apply criteria directly from the User Criteria form, add items to the Availab
 
 The **Not Available For** settings override **Available For** settings. A user on the **Not Available For** list for an item can’t access that item, even if that user is also on the **Available For** list for that item.
 
-**Parent Topic:**[Set security for items and categories](../concept/c_ServiceCatalogAccessControls.md)
+**Parent Topic:**[Set security for items and categories](c_ServiceCatalogAccessControls.md)
 
 ## Apply user criteria to items
 

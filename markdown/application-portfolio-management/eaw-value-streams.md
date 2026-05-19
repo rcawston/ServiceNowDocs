@@ -22,17 +22,17 @@ Hire to Retire is a value stream that encompasses the lifecycle of an employee w
 **Related topics**  
 
 
-[View value streams details](../../task/eaw-task/eaw-view-all-value-streams.md)
+[View value streams details](eaw-view-all-value-streams.md)
 
-[Add or edit a value stream](../../task/eaw-task/eaw-add-or-edit-a-value-stream.md)
+[Add or edit a value stream](eaw-add-or-edit-a-value-stream.md)
 
-[Add value stream stages to a value stream](../../task/eaw-task/eaw-add-vs-stages-to-a-vs.md)
+[Add value stream stages to a value stream](eaw-add-vs-stages-to-a-vs.md)
 
-[Associate an application model to a value stream](../../task/eaw-task/eaw-add-an-application-model-to-a-value-stream.md)
+[Associate an application model to a value stream](eaw-add-an-application-model-to-a-value-stream.md)
 
 [Exploring value stream stages](eaw-value-stream-stage.md)
 
 [Manage value stream stages](eaw-manage-value-stream-stages.md)
 
-[Exploring a business portfolio](../manage-business-portfolio.md)
+[Exploring a business portfolio](manage-business-portfolio.md)
 

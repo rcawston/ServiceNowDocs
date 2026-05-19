@@ -17,7 +17,7 @@ The CriteriaEvaluator script include provides methods to implement a general-pur
 
 The general use pattern is to construct the class, add as many criteria as needed, then evaluate.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CriteriaEvaluator - addCriterion\(String lhComparand, String operator, String rhComparand\)
 

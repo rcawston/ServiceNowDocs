@@ -41,7 +41,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 9.  Record the time worked on the task.
 
-    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Enterprise Asset Workspace](../concept/record-repair-time-eam-ws.md).
+    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Enterprise Asset Workspace](record-repair-time-eam-ws.md).
 
     An entry for the time you worked is created in the **Time Worked** tab of the Evaluate asset task.
 
@@ -69,7 +69,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
     1.  The repair order and the repair order line are in the Completed stage.
     2.  The state of the asset changes to In stock and the substate changes to Available.
 
-**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](../concept/fulfill-eam-repair-orders-in-ws.md)
+**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](fulfill-eam-repair-orders-in-ws.md)
 
 **Related topics**  
 

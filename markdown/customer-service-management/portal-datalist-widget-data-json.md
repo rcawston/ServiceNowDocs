@@ -223,7 +223,7 @@ Used to display items for guest users or not logged in users. Map the view you w
 -   Page containing widget \(For example, Cases and Tasks\)
 -   Page content instance
 
-For details, see [Configure public access on the Portal Data List widget](../task/config-data-list-widget-inst-guest-access.md).
+For details, see [Configure public access on the Portal Data List widget](customer-self-service-and-omnichannel-engagement/config-data-list-widget-inst-guest-access.md).
 
 This parameter is optional.
 
@@ -247,5 +247,5 @@ Order of sorting the data list. Default is ascending.This parameter is optional.
 </table>**Related topics**  
 
 
-[Add and configure the Portal Data List widget](../task/config-data-list-widget-inst-optns.md)
+[Add and configure the Portal Data List widget](customer-self-service-and-omnichannel-engagement/config-data-list-widget-inst-optns.md)
 

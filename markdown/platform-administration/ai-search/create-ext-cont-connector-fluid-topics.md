@@ -111,10 +111,10 @@ To make content crawled by your new connector searchable in portals and search a
 
 -   **Custom search sources**
 
-    You can create your own search sources with filters to specify which content from the connector's indexed source is searchable. To view the connector's indexed source, navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**. For information about creating search sources, see [Search sources in AI Search](../concept/search-sources-ais.md).
+    You can create your own search sources with filters to specify which content from the connector's indexed source is searchable. To view the connector's indexed source, navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**. For information about creating search sources, see [Search sources in AI Search](search-sources-ais.md).
 
 
 You can link connector search sources to search profiles from the External Content Admin Home page. For details on this procedure, see [Connect an external content connector to a search profile](connect-external-content-connector-search-profile.md).
 
-**Parent Topic:**[Fluid Topics external content connector](../concept/fluid-topics-external-content-connector.md)
+**Parent Topic:**[Fluid Topics external content connector](fluid-topics-external-content-connector.md)
 

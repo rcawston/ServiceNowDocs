@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-To configure the properties for the SerializeObject component, see [Properties of the JSON utilities](../reference/properties-utilities-json.md).
+To configure the properties for the SerializeObject component, see [Properties of the JSON utilities](properties-utilities-json.md).
 
 ## Procedure
 
@@ -45,5 +45,5 @@ To configure the properties for the SerializeObject component, see [Properties o
 
 In this example, a JSON object contains the name, date of joining, and the salary of an employee. The JSON object is created by using the SetProperties component. To convert the JSON object to string, we use the SerializeObject component. After you run the automation, point the mouse device over the **Return** Data Out port of the SerializeObject component. The component displays the data as a string.
 
-**Parent Topic:**[JSON](../concept/json.md)
+**Parent Topic:**[JSON](json.md)
 

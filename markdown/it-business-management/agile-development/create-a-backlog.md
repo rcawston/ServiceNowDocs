@@ -89,5 +89,5 @@ Filter criteria that are applied to stories in the backlog.The default filter cr
 
 You can create any number of personal backlogs that match different priorities. Access all your personal backlogs by navigating to **Agile Development** &gt; **Personal Backlogs** and also on the Backlog tab of your Agile Board.
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

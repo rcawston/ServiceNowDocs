@@ -43,7 +43,7 @@ The audit roles are organized in the following hierarchy:
 
     The ham\_admin role is assigned the sn\_itam\_common.asset\_audit\_admin role, enabling full access on all stockrooms.
 
-    **Note:** For more details on stockroom auditing in the Hardware Asset Management application, see [Audit hardware asset inventory](../../hardware-asset-management/concept/ham-inventory-audit.md).
+    **Note:** For more details on stockroom auditing in the Hardware Asset Management application, see [Audit hardware asset inventory](../hardware-asset-management/ham-inventory-audit.md).
 
 -   **Field Service Management**
 
@@ -52,7 +52,7 @@ The audit roles are organized in the following hierarchy:
     **Note:** For more details on stockroom auditing in the Field Service Management application, see [Perform asset audit for personal stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/perform-asset-audit.md).
 
 
--   **[Audit enterprise asset inventory](../task/audit-eam-assetinventory.md)**  
+-   **[Audit enterprise asset inventory](audit-eam-assetinventory.md)**  
 Audit your enterprise asset inventory to learn where your assets are and what their current status is.
 
 **Parent Topic:**[Create and manage enterprise asset inventory](managing-enterprise-asset-inventory.md)

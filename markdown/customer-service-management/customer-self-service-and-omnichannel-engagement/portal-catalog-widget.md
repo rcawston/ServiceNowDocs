@@ -17,5 +17,5 @@ The Portal Catalog Quick Links widget displays catalog items according to filter
 
 ![Portal Catalog Quick Links widget displaying different catalog items.](../image/portal-cat-quick-links-widget.png "Portal Catalog Quick Links widget")
 
-For more information about how to configure the instance options for Portal Catalog Quick Links, see [Add and configure the Portal Catalog Quick Links widget](../task/config-cat-quick-links-inst-optns.md).
+For more information about how to configure the instance options for Portal Catalog Quick Links, see [Add and configure the Portal Catalog Quick Links widget](config-cat-quick-links-inst-optns.md).
 

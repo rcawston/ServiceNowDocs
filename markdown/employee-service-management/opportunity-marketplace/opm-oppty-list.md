@@ -90,5 +90,5 @@ The date the opportunity is closed.
 </td></tr></tbody>
 </table>You can update some of the fields. Double-click \(or use the keyboard shortcut\) to determine if it's editable.
 
-**Parent Topic:**[Reference Opportunity Marketplace roles and tables](../concept/egd-oppt-mrktplc-references.md)
+**Parent Topic:**[Reference Opportunity Marketplace roles and tables](egd-oppt-mrktplc-references.md)
 

@@ -28,7 +28,7 @@ This procedure doesn’t move the content of the dashboard \(such as reports, PA
 
 **Important:** Make sure that the dashboard content is either in the same update set as the dashboard record or is already present in the target instance. Errors result if the moved dashboard points to content that doesn’t exist on the target instance.
 
-Additional steps may be necessary if you are moving a dashboard on a scoped application. For more information, see [Update set id 'global' is different than update set scope id](../concept/troubleshooting-dashboard-update-set.md#).
+Additional steps may be necessary if you are moving a dashboard on a scoped application. For more information, see [Update set id 'global' is different than update set scope id](troubleshooting-dashboard-update-set.md#).
 
 **Tip:** If you have difficulty with this procedure, contact Customer Service and Support.
 
@@ -62,7 +62,7 @@ Additional steps may be necessary if you are moving a dashboard on a scoped appl
 
     For more information, see [Retrieve an update set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/t_RetrieveAnUpdateSet.md).
 
-    On the Remote Instance page, the **Retrieved Update Sets** related list shows all retrieved update sets. Select the update set to see if there are errors. Errors are shown on the **Retrieved Update Set** form in a related list called **Update Set Preview Problems**. See [Solving errors on dashboards moved with update sets](../concept/troubleshooting-dashboard-update-set.md#).
+    On the Remote Instance page, the **Retrieved Update Sets** related list shows all retrieved update sets. Select the update set to see if there are errors. Errors are shown on the **Retrieved Update Set** form in a related list called **Update Set Preview Problems**. See [Solving errors on dashboards moved with update sets](troubleshooting-dashboard-update-set.md#).
 
 8.  On the target instance, make sure that all the tabs of the dashboard have associated portal pages.
 

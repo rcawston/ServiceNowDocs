@@ -23,7 +23,7 @@ The landing page of the Workspace provides an overview of procedure request case
 
 ## Role required
 
-Patient service representatives must have the sn\_previsit.patient\_service\_agent or sn\_hcls.manager role to use the Workspace. For more information, see [Assign roles for Pre-Visit Management users](../task/pre-visit-assign-roles.md).
+Patient service representatives must have the sn\_previsit.patient\_service\_agent or sn\_hcls.manager role to use the Workspace. For more information, see [Assign roles for Pre-Visit Management users](pre-visit-assign-roles.md).
 
 ## Accessing and using the landing page
 
@@ -39,7 +39,7 @@ As a patient service representative, you can perform the following tasks from th
 
 ## Viewing data
 
-The Workspace landing page for procedure request cases is same as the landing page of Workspace for any healthcare-related cases including cases created for addressing procedure requests. For more information, see [View the landing page for healthcare-related cases in Workspace](hcls-viewing-home-page.md).
+The Workspace landing page for procedure request cases is same as the landing page of Workspace for any healthcare-related cases including cases created for addressing procedure requests. For more information, see [View the landing page for healthcare-related cases in Workspace](healthcare-and-life-sciences-service-management-core/hcls-viewing-home-page.md).
 
 **Note:** Your administrator can customize the landing page for Workspace and change the data that appears on it.
 

@@ -34,12 +34,12 @@ You can create location consent records to configure the communication channels 
 
 For more information about configuring the appointment booking feature, see the following topics.
 
-1.  [Opt in to unified appointment booking](../task/opt-in-apt-booking.md)
-2.  [Create an appointment reason](../task/create-apt-reason.md)
-3.  [Configure appointment communication](../task/configure-appt-comms.md)
-4.  [Map category and reasons to a location](../task/map-apt-category-reasons.md)
-5.  [Configure feedback for appointment booking](../task/config-fdbck-appt-booking.md)
-6.  [Configure page routing for appointment booking](../task/config-page-route-apt-booking.md)
+1.  [Opt in to unified appointment booking](opt-in-apt-booking.md)
+2.  [Create an appointment reason](create-apt-reason.md)
+3.  [Configure appointment communication](configure-appt-comms.md)
+4.  [Map category and reasons to a location](map-apt-category-reasons.md)
+5.  [Configure feedback for appointment booking](config-fdbck-appt-booking.md)
+6.  [Configure page routing for appointment booking](config-page-route-apt-booking.md)
 
 ## Using Appointment Booking
 
@@ -47,8 +47,8 @@ As an employee, you can schedule an appointment from Employee Center or Employee
 
 For more information about using the appointment booking feature, see the following topics.
 
--   [Schedule an appointment](../task/schedule-appointment.md)
--   [Manage your appointments](../task/manage-appointments.md)
+-   [Schedule an appointment](schedule-appointment.md)
+-   [Manage your appointments](manage-appointments.md)
 
 ## Managing Appointments
 

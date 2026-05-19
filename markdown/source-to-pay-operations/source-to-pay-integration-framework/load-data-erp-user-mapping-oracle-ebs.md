@@ -54,18 +54,18 @@ Verify that the data records are imported into the target table. You can view th
 
 **Note:** If an ERP user mapping isn’t required, you can deactivate it. To deactivate a mapping, in the ERP User Mapping form, select the **Inactive** check box.
 
-**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](../concept/configuring-source-to-pay-oracle-ebs-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](configuring-source-to-pay-oracle-ebs-integration.md)
 
 **Related topics**  
 
 
-[ERP source configuration for Oracle EBS](../concept/erp-source-configuration-oracle.md)
+[ERP source configuration for Oracle EBS](erp-source-configuration-oracle.md)
 
 [Define ERP source configuration for Oracle EBS](define-erp-source-oracle.md)
 
 [Configure integration services for Oracle EBS](configure-service-maps-oracle-ebs.md)
 
-[Look up primary data in Oracle EBS](../concept/look-up-primary-data-oracle-ebs.md)
+[Look up primary data in Oracle EBS](look-up-primary-data-oracle-ebs.md)
 
-[Scheduled jobs to look up primary data in Oracle EBS](../concept/scheduled-jobs-to-primary-data-oracle-ebs.md)
+[Scheduled jobs to look up primary data in Oracle EBS](scheduled-jobs-to-primary-data-oracle-ebs.md)
 

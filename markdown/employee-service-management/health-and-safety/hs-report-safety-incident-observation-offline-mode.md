@@ -21,7 +21,7 @@ Verify the following conditions:
 
 -   The system properties for the offline mode behavior of the mobile application are configured. For more information, see [Configure offline mode behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-offline-mode.md).
 -   The Health and Safety Incident Management application is configured for offline mobile. For more information, see [Configure offline mode in the Now Mobile app for Health and Safety](hs-configure-offline-mode-health-safety.md).
--   The offline mode for the Now Mobile app on your mobile device is turned on. For more information, see [Offline mode for mobile](../concept/hs-health-safety-mobile.md#section_hs_mobile_offline_mode).
+-   The offline mode for the Now Mobile app on your mobile device is turned on. For more information, see [Offline mode for mobile](hs-health-safety-mobile.md#section_hs_mobile_offline_mode).
 -   The **glide.sg.offline.scheduled\_download.enabled** system property for scheduled offline caching is set. If the property is not set, manually update cache before you go offline. To update cache, navigate to **Settings** and tap **Update Cache**.
 
 Role required: none
@@ -47,5 +47,5 @@ For information on how the offline mode works in the mobile app, see [Offline mo
     -   To view an incident, tap **My H&amp;S incidents** and then tap the incident number.
     -   To view an observation, tap **My H&amp;S observations** and then tap the observation number.
 
-**Parent Topic:**[Mobile experience for Health and Safety](../concept/hs-health-safety-mobile.md)
+**Parent Topic:**[Mobile experience for Health and Safety](hs-health-safety-mobile.md)
 

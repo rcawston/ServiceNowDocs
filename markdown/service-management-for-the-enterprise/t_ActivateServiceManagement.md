@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-For information on subscribing to a service management application, see [Activate Facilities Service Management](../../facilities-service-management/task/t_ActivateFacilitiesSM.md).
+For information on subscribing to a service management application, see [Activate Facilities Service Management](t_ActivateFacilitiesSM.md).
 
 The Service Management Core plugin also activates the following plugins if they are not already active.
 
@@ -37,10 +37,10 @@ The Service Management Core plugin also activates the following plugins if they 
 -   Workbench
 -   Checklist
 
--   **[Activate other Service Management applications](../reference/r_ActivateOtherSMApplications.md)**  
+-   **[Activate other Service Management applications](r_ActivateOtherSMApplications.md)**  
 After the Service Management Core plugin has been activated, you can activate other SM applications, such as Field Service management and facilities service management. You can also activate CMS portals for each of these SM applications to add them to the Service Management Portal.
 
-**Parent Topic:**[Service Management](../concept/c_ServiceManagement.md)
+**Parent Topic:**[Service Management](c_ServiceManagement.md)
 
 **Related topics**  
 

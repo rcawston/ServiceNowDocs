@@ -35,6 +35,6 @@ Role required: impact\_permission\_authorizer
 
     -   A success banner displays with the option to request an Accelerator, as needed, or Close.
     -   The scans are conducted monthly as long as the consent is active.
-5.  Access the Monthly HealthScan reports in the [Health Assessment Dashboard](../concept/health-assessment-dashboard.md).
+5.  Access the Monthly HealthScan reports in the [Health Assessment Dashboard](health-assessment-dashboard.md).
 
 

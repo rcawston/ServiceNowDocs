@@ -181,5 +181,5 @@ Allow problem creation from interactionglide.problem.interaction.allow\_create
 -   Default value: false
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference section for Problem Management](../concept/reference-section-for-problem-management.md)
+</table>**Parent Topic:**[Reference section for Problem Management](reference-section-for-problem-management.md)
 

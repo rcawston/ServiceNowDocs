@@ -33,7 +33,7 @@ Role required: Sequence executor \[sn\_crm\_sequence.executor\]
 
 7.  Select the Call icon ![](../../../reuse/icons/product-icons/phone-fill-24.svg) next to the **Callback number** field to start an outbound call.
 
-    **Note:** The Call icon ![](../../../reuse/icons/product-icons/phone-fill-24.svg) does not appear on the **Callback number** field in Xanadu or in Yokohama if you created the schedule call activity using the Schedule call - Deprecated activity. For compatibility information, see [Compatibility information for Customer Engagement Sequences](../reference/compatibility-matrix-upgrade-info.md).
+    **Note:** The Call icon ![](../../../reuse/icons/product-icons/phone-fill-24.svg) does not appear on the **Callback number** field in Xanadu or in Yokohama if you created the schedule call activity using the Schedule call - Deprecated activity. For compatibility information, see [Compatibility information for Customer Engagement Sequences](compatibility-matrix-upgrade-info.md).
 
 8.  Complete the activity by setting the following fields.
 
@@ -87,7 +87,7 @@ Optional field for capturing internal work notes.
 10. On the Sequence Steps tab, select **Mark Complete** to indicate you have finished all activities in the sequence task.
 
 
-**Parent Topic:**[Using Customer Engagement Sequences](../concept/using-customer-engagement-sequences.md)
+**Parent Topic:**[Using Customer Engagement Sequences](using-customer-engagement-sequences.md)
 
 **Related topics**  
 

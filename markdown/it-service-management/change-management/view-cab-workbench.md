@@ -57,5 +57,5 @@ Click the meeting you want to attend and click **Open** to launch the meeting.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working with the CAB Workbench](../concept/using-cab-workbench-cf.md)
+**Parent Topic:**[Working with the CAB Workbench](using-cab-workbench-cf.md)
 

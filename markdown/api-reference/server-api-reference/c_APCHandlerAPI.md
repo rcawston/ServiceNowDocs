@@ -17,7 +17,7 @@ The APCHandler script include provides methods to handle SNMP classification and
 
 Use this API for SNMP classification and identification.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## APCHandler - classifyAndIdentify\(\)
 

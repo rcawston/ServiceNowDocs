@@ -27,7 +27,7 @@ If you have many filters that apply to many visualizations on a dashboard, it ca
 
 2.  Locate and open or create the dashboard to which you want to add a filter group.
 
-    Technical dashboards are not supported. You can only add a filter group to a dashboard in the inline editor. For more information, see [Edit Platform Analytics dashboards](../../dashboards/task/edit-db-in-ac.md).
+    Technical dashboards are not supported. You can only add a filter group to a dashboard in the inline editor. For more information, see [Edit Platform Analytics dashboards](edit-db-in-ac.md).
 
 3.  Select **Add new element** and add a Filter Group element.
 

@@ -39,5 +39,5 @@ Role required: sn\_ind\_tmt\_orm.order\_agent, sn\_ind\_tmt\_orm.service\_agent
 **Related topics**  
 
 
-[Configuring location-based product transactions](../concept/config-location-transaction.md)
+[Configuring location-based product transactions](config-location-transaction.md)
 

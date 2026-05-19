@@ -17,7 +17,7 @@ Deploy an inactive topic or an updated topic to save it and make it available to
 
 ## Before you begin
 
-**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](../reference/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](vad-prev-topics-page.md).
 
 If you're using Natural Language Understanding \(NLU\) topic discovery, you can publish the model at the same time as the topic if the model meets publication criteria. Make sure that your model has passed through all phases of development and is ready to publish. If you haven’t refined, tested, and optimized your model, you may not be able to publish it in Virtual Agent Designer. For more information, see [Model management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/model-management-phases.md).
 
@@ -78,7 +78,7 @@ Under the **Select assistant** drop-down menu, choose the assistant associated w
 Select **Test active topics**.
 
 </td></tr></tbody>
-</table>    **Note:** For more information about testing Now Assist LLM topics, see [Testing LLM topics](../reference/test-llm-topics.md). For NLU/keyword topics, enter keywords or NLU utterances that correspond to the topic intent. For the pre-built Virtual Agent topics, the bot returns a list of topics that match the entered keyword or utterance. See [Testing NLU/Keyword topics](../reference/va-designer-testing.md) for more information.
+</table>    **Note:** For more information about testing Now Assist LLM topics, see [Testing LLM topics](test-llm-topics.md). For NLU/keyword topics, enter keywords or NLU utterances that correspond to the topic intent. For the pre-built Virtual Agent topics, the bot returns a list of topics that match the entered keyword or utterance. See [Testing NLU/Keyword topics](va-designer-testing.md) for more information.
 
 
 ## Result
@@ -87,5 +87,5 @@ The topic blocks and custom controls are published and are available for use in 
 
 **Note:** Active topics, including setup topics and small talk topics, can also be available for use after the topics are published. For more information, see [Control topic discovery and visibility](manage-topics-task.md).
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 

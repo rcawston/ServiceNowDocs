@@ -17,7 +17,7 @@ The GlideNotification API provides methods that display messages over the page c
 
 Access this API using the `g_notification` global object. List V3 must be activated for the g\_notification object to be available.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideNotification - show\(String type, String message, Number duration\)
 

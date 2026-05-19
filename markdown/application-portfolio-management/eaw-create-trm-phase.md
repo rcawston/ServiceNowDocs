@@ -46,17 +46,17 @@ The color and shape of a phase are used to represent the phase of the TRM produc
     -   To update details of an existing TRM phase, select the TRM phase.
 6.  On the form, fill in the fields.
 
-    For field information, see [TRM Phase form](../../reference/eaw-reference/eaw-trm-phase-form.md).
+    For field information, see [TRM Phase form](eaw-trm-phase-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure TRM phases](../../concept/eaw-concept/eaw-setup-trm-phases.md)
+**Parent Topic:**[Configure TRM phases](eaw-setup-trm-phases.md)
 
 **Related topics**  
 
 
 [View all TRM phases](eaw-view-all-trm-phases.md)
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 

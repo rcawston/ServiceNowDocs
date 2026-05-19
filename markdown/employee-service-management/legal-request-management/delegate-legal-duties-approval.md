@@ -106,5 +106,5 @@ Setting the delegation has the following effects during the specified period:
 -   The delegate can access and perform all the functions that you can do for your assigned legal requests, legal matters, matter tasks, and approvals from the **Delegated to me** list.
 -   Both you and the delegate receive notifications related to activities done on legal requests, legal matters, matter tasks, and approvals.
 
-**Parent Topic:**[Delegation of legal duties and approvals](../concept/legal-services-delegation.md)
+**Parent Topic:**[Delegation of legal duties and approvals](legal-services-delegation.md)
 

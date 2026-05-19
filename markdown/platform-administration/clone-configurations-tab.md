@@ -28,7 +28,7 @@ The clone instances page displays all available instances. You can use instances
 
 ## Clone profiles
 
-Clone profiles display all available profiles. Clone profiles are customizable templates for clones and can be saved and reused to achieve consistent outcomes with each of your clones. To learn more about Clone Profiles, see [Create a custom clone profile](../task/configure-clone-profile.md).
+Clone profiles display all available profiles. Clone profiles are customizable templates for clones and can be saved and reused to achieve consistent outcomes with each of your clones. To learn more about Clone Profiles, see [Create a custom clone profile](configure-clone-profile.md).
 
 The profile System Profile is available by default and can't be modified. Custom profiles use the default Exclusions, Preservers, and Scripts from the System Profile. When creating a custom profile, all existing custom exclusions and preservers are automatically added.
 

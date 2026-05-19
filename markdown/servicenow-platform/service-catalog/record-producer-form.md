@@ -143,7 +143,7 @@ Meta
 
 </td><td>
 
-Comma-separated list of tags used to search for the record producer. See [Configure keyword search for catalog items](../task/search-catalog-item.md).
+Comma-separated list of tags used to search for the record producer. See [Configure keyword search for catalog items](search-catalog-item.md).
 
 </td></tr><tr><td>
 
@@ -259,7 +259,7 @@ Universal Request Config
 
 </td></tr><tr><td colspan="2">
 
-This section is available only when the Universal Request plugin \(com.snc.universal\_request\) is activated. For information about this configuration, see [Service Catalog configuration for Universal Request](../concept/ur-catalog-config.md).
+This section is available only when the Universal Request plugin \(com.snc.universal\_request\) is activated. For information about this configuration, see [Service Catalog configuration for Universal Request](ur-catalog-config.md).
 
 </td></tr><tr><td>
 
@@ -278,7 +278,7 @@ Requires Additional Review
 Option to automatically select the **Needs resolution review** check box on the corresponding universal request. For information about the universal request fields, see [Universal Request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/new-ur-record-form.md).The **Requires Additional Review** field appears only when the **UR certified/enabled item** check box is selected.
 
 </td></tr></tbody>
-</table>For information about creating record producers, see [Create a record producer](../task/t_DefRecProdInSCat.md).
+</table>For information about creating record producers, see [Create a record producer](t_DefRecProdInSCat.md).
 
-**Parent Topic:**[Service Catalog Reference](../concept/service-catalog-reference.md)
+**Parent Topic:**[Service Catalog Reference](service-catalog-reference.md)
 

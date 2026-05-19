@@ -75,7 +75,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Set read-only permissions for the following URL: `https//tagging.<region>.amazonaws.com.`
 -   **Discovery schedule**
 
-    Create a schedule for the relevant AWS service account. For more information, see [Create a discovery schedule in Cloud Discovery Workspace](../../discovery/task/cloud-operations-disco-create-schedule.md).
+    Create a schedule for the relevant AWS service account. For more information, see [Create a discovery schedule in Cloud Discovery Workspace](../discovery/cloud-operations-disco-create-schedule.md).
 
 
 ## Pattern tasks
@@ -188,5 +188,5 @@ rtrn = name;
 
 Similar EVALS are available for patterns where the main identification section does not include ARN information in the main CI type table. When this information is not available, the Tag Extension section must parse a unique ARN used to establish the relationship to the related cloud resource.
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

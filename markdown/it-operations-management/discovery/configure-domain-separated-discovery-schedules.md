@@ -40,5 +40,5 @@ In domain-separated environments, the domain of the user who creates a Discovery
 5.  Select the check mark \(![check mark icon](../../cloud-management-v2/image/icon-check-mark.png)\) icon.
 
 
-**Parent Topic:**[Domain Separation and Discovery](../concept/c_DiscoveryDomainSeparation.md)
+**Parent Topic:**[Domain Separation and Discovery](c_DiscoveryDomainSeparation.md)
 

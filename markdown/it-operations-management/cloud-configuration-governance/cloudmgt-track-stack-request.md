@@ -23,7 +23,7 @@ Role required: sn\_cmp.cloud\_service\_user
 
 If no approval policy is defined, requests are auto-approved. If a policy is defined, then a user on the approver list must approve the request.
 
-If the quota limit exceeds for you or your user group, then an error message appears or the system triggers a policy-based approval. For more information about the quota limits, see [Viewing resource quota limits](../concept/resource-quota.md).
+If the quota limit exceeds for you or your user group, then an error message appears or the system triggers a policy-based approval. For more information about the quota limits, see [Viewing resource quota limits](resource-quota.md).
 
 ## Procedure
 
@@ -89,7 +89,7 @@ Values that the requester submitted on the stack request form.
 
 </td><td>
 
-Lists all the catalog tasks created for stacks that failed to provision. Click a catalog task to view more details about that task. See [Resubmit a failed stack request](../../cloud-management-v2/task/resubmit-failed-request.md).
+Lists all the catalog tasks created for stacks that failed to provision. Click a catalog task to view more details about that task. See [Resubmit a failed stack request](resubmit-failed-request.md).
 
 </td></tr></tbody>
 </table>

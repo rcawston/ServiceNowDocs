@@ -90,7 +90,7 @@ There are three types of identifier entries:
 Follow these guidelines when specifying a lookup table in an identifier entry.
 
 1.  Ensure that lookup tables reference the cmdb\_ci table.
-2.  It is preferable to enforce exact count match \(check box **Enforce exact count match \(Lookup\)**\) for a stronger identification rule. During lookup identification, this option enforces matching only on exact lookup records count match. See [Create a CI identification rule](../task/t_CreateCIIdentificationRule.md) for more details.
+2.  It is preferable to enforce exact count match \(check box **Enforce exact count match \(Lookup\)**\) for a stronger identification rule. During lookup identification, this option enforces matching only on exact lookup records count match. See [Create a CI identification rule](t_CreateCIIdentificationRule.md) for more details.
 3.  Do not create conflicting identification rules especially for lookup-based rule.
 
     Example: In a CI Identifier for the Hardware class, you specify a lookup-based rule for the Network Adapter class and you also define a CI Identifier for the Network Adapter class. Duplicates might potentially be created in the Network Adapter table, because there are contradicting rules to identify a unique CI in that table:
@@ -126,9 +126,9 @@ After you select a related table for the rule, the list in **Referenced field** 
 
 A related entry for a class is derived by child classes for which no related entries are specified.
 
--   **[Create a CI identification rule](../task/t_CreateCIIdentificationRule.md)**  
+-   **[Create a CI identification rule](t_CreateCIIdentificationRule.md)**  
 Identification rules are used to uniquely identify CIs in the CMDB, as part of Identification and Reconciliation \(IRE\) processes. Each CMDB class can be associated with a single identification rule.
--   **[Create an identification inclusion rule](../task/create-id-inclusion-rule.md)**  
+-   **[Create an identification inclusion rule](create-id-inclusion-rule.md)**  
 Narrow the scope of CIs that are included in the identification process by creating an identification inclusion rule.
 -   **[General guidelines for using CMDB Identification](best-practices-id-reconcile.md)**  
 Review the following general guidelines for using CMDB Identification effectively.

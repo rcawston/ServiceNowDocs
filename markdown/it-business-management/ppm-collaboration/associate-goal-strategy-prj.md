@@ -17,7 +17,7 @@ Allocate the percentage of a project's total cost, benefit, and budget to help a
 
 ## Before you begin
 
-You should have an existing [project](../../project-management/task/t_CreateAProject.md).
+You should have an existing [project](../project-management/t_CreateAProject.md).
 
 Execute the following scheduled jobs:
 
@@ -34,7 +34,7 @@ Role required: it\_project\_manager
 
 3.  In the **Business Case** tab, add or update the strategies and goals with which the project is associated.
 
-    For more information, see the Business Case field descriptions in the [Create a project](../../project-management/task/t_CreateAProject.md) documentation topic.
+    For more information, see the Business Case field descriptions in the [Create a project](../project-management/t_CreateAProject.md) documentation topic.
 
 4.  Click **Save**.
 
@@ -54,8 +54,8 @@ Role required: it\_project\_manager
 
 8.  In the Strategy or Goal Allocations related list, click the preview icon \(![Preview record icon](../image/preview_icon.png)\), and then click **Open Record** to view the breakdown of the strategy or goal allocation.
 
-9.  View the trends for planned costs, actual costs, and benefits over time using the [Strategic Spend Tracking for PPM dashboard](../../../use/dashboards/application-content-packs/ppm-strategic-spend-tracking-dashboard.md).
+9.  View the trends for planned costs, actual costs, and benefits over time using the [Strategic Spend Tracking for PPM dashboard](ppm-strategic-spend-tracking-dashboard.md).
 
 
-**Parent Topic:**[Strategic Spend Tracking for PPM](../concept/ppm-strategic-spend-tracking-overview.md)
+**Parent Topic:**[Strategic Spend Tracking for PPM](ppm-strategic-spend-tracking-overview.md)
 

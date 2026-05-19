@@ -20,7 +20,7 @@ Discovery and Service Mapping Patterns finds Azure OS images on your cloud envir
 
 Discovery uses the Azure - Image \(LP\) pattern to discover Azure OS images from your Azure account.
 
-When using the Image \[cmdb\_ci\_os\_template\] table to store Cloud OS images, you may notice an unusually large number of records. To avoid this issue, you can store the discovered OS images in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. When enabled, Discovery launches the Azure - Cloud OS Image \(LP\) pattern, which populates the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. For more information, see [Enable Cloud OS Image discovery](../../discovery/task/enable-cloud-os-image-discovery-pattern.md).
+When using the Image \[cmdb\_ci\_os\_template\] table to store Cloud OS images, you may notice an unusually large number of records. To avoid this issue, you can store the discovered OS images in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. When enabled, Discovery launches the Azure - Cloud OS Image \(LP\) pattern, which populates the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. For more information, see [Enable Cloud OS Image discovery](enable-cloud-os-image-discovery-pattern.md).
 
 ## Pattern-based discovery and mapping requirements
 

@@ -57,5 +57,5 @@ If you want to add exceptions to this life-cycle policy at the module level, see
 -   **[Create module life-cycle policy exceptions](create-module-policy-exceptions.md)**  
 Create a module policy exception to change the life-cycle policy of a key only for a specific on one instance.
 
-**Parent Topic:**[Configuring the Key Management Framework](../../encryption/concept/configure-kmf.md)
+**Parent Topic:**[Configuring the Key Management Framework](configure-kmf.md)
 

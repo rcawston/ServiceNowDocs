@@ -29,7 +29,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 3.  On the Request source form, fill in the fields, and select **Submit**.
 
-    For a description of the field values, see [Request source form](../reference/request-source-form.md).
+    For a description of the field values, see [Request source form](request-source-form.md).
 
 
 ## Result

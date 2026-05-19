@@ -23,7 +23,7 @@ To access the ServiceNow AI Lens functionality, perform the following steps:
 -   Turn on the ServiceNow AI Lens skill to add the generative AI capability. For more information, see [Activate the ServiceNow AI Lens skill](activate-lens-skill.md).
 -   Download the ServiceNow AI Lens installer to scan your desktop screen. For more information, see [Download the ServiceNow AI Lens installer](download-sn-lens-msi.md).
 
-Verify that you've defined the Lens action for this purpose. For more information, see [Define a Lens action.](../concept/servicenow-lens-actions.md#)
+Verify that you've defined the Lens action for this purpose. For more information, see [Define a Lens action.](servicenow-lens-actions.md#)
 
 Verify that ServiceNow AI Lens has access to record the screen on your system. For more information, see [Providing permission to ServiceNow AI Lens](download-sn-lens-msi.md#lens-permission).
 

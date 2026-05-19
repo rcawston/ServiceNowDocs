@@ -49,8 +49,8 @@ To view the script for evaluating this capability, navigate to **MID Server** &g
 
 ![MID capabilities](../image/MIDServerResolveDNS.png)
 
--   **[Configure MID Server capabilities](../../../configure-capabilities.md)**  
+-   **[Configure MID Server capabilities](configure-capabilities.md)**  
 MID Server capabilities define the specific functions of a MID Server within an IP address range, allowing an application to select the most appropriate MID Server. Configure capabilities on MID Servers for applications like Orchestration, , and .
 
-**Parent Topic:**[MID Servers for Orchestration](../../orchestration/concept/c_OrchestrationMID.md)
+**Parent Topic:**[MID Servers for Orchestration](c_OrchestrationMID.md)
 

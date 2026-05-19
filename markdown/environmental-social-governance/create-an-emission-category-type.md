@@ -72,5 +72,5 @@ EEIO emission activity associated with the category type. The selection made in 
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring the Scope 3 dashboard](../concept/configuring-the-scope-3-dashboard.md)
+**Parent Topic:**[Configuring the Scope 3 dashboard](configuring-the-scope-3-dashboard.md)
 

@@ -67,10 +67,10 @@ The Service Operations Workspace migration utility uses the following sequence t
     3.  Searches for Sys Ux M2m Action Layout Item \[sys\_ux\_m2m\_action\_layout\_item\] table records that are mapped to the UX Form Actions Layout \[sys\_ux\_form\_action\_layout\] table record.
     4.  If a mapped record isn’t found, creates a Sys Ux M2m Action Layout Item \[sys\_ux\_m2m\_action\_layout\_item\] table record.
 
--   **[Perform post-migration tasks for UI actions and layouts](../task/verify-migration-status-ui-actions-layouts.md)**  
+-   **[Perform post-migration tasks for UI actions and layouts](verify-migration-status-ui-actions-layouts.md)**  
 Verify that the UI actions and layouts in Service Operations Workspace \(SOW\) are consistent with UI actions and layouts in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated UI actions and layouts settings in SOW based on your requirements.
 
-**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
+**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
 **Related topics**  
 

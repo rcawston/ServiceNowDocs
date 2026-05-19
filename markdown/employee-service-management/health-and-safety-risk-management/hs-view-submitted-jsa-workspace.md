@@ -36,5 +36,5 @@ Role required: sn\_hs\_rm.jsa\_manager or sn\_hs\_rm.job\_safety\_analysis\_read
     Agent assist searches the knowledge base using the text from the JSA's **Short description** field and shows relevant articles.
 
 
-**Parent Topic:**[Job safety analysis](../concept/hs-job-safety-analysis.md)
+**Parent Topic:**[Job safety analysis](hs-job-safety-analysis.md)
 

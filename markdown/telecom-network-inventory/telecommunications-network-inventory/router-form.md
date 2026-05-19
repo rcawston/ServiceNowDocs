@@ -346,10 +346,10 @@ To learn about the remaining configuration fields that are common to most of the
 
 To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](commonly-used-tni-configuration-fields.md).
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a telecommunications equipment instance](../task/define-equipment-type.md)
+[Create a telecommunications equipment instance](define-equipment-type.md)
 

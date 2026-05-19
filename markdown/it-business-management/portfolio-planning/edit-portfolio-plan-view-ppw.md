@@ -67,7 +67,7 @@ Role required: sn\_align\_core.ap\_read\_only
 
 Share the portfolio plan with your stakeholders to start collaborating on the portfolio plan. See [Share a portfolio plan with stakeholders](share-portfolio-plan-in-portfolio-planning-workspace.md).
 
-**Parent Topic:**[Managing portfolio plan views in Portfolio Planning](../concept/managing-portfolio-plan-views-ppw.md)
+**Parent Topic:**[Managing portfolio plan views in Portfolio Planning](managing-portfolio-plan-views-ppw.md)
 
 **Related topics**  
 

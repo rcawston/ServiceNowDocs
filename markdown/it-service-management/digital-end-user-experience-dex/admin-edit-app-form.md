@@ -64,7 +64,7 @@ Enable page-level monitoring
 
 </td><td>
 
-Specific pages to monitor within the domain.You can add a specific page to monitor by selecting **Configure**. See [Set up page-level monitoring](../concept/set-up-page-level-monitoring.md) for more details.
+Specific pages to monitor within the domain.You can add a specific page to monitor by selecting **Configure**. See [Set up page-level monitoring](set-up-page-level-monitoring.md) for more details.
 
 This field appears only if you select a web application to edit.
 
@@ -105,7 +105,7 @@ Option to add a Software Asset Management \(SAM\) product to enable tracking of 
 
 This field appears only when you're editing a web application.
 
-For more information, see [Using DEX or SAM for application monitoring](../concept/using-dex-or-sam-for-app-monitoring.md).
+For more information, see [Using DEX or SAM for application monitoring](using-dex-or-sam-for-app-monitoring.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Administration cards](administration-cards.md)

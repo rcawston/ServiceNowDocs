@@ -25,7 +25,7 @@ Regulatory Intelligence providers deliver regulatory alerts that include a varie
 
 When setting up the Regulatory Change Management application, you have to map the external taxonomy to your own internal taxonomy for standardization. The design elements are created and mapped from the provider’s external taxonomy during the setup process.
 
-After you set up the internal taxonomy, the next step is to update the provider configuration record with the name and description of the providers. To maintain a generic provider configuration, a provider record is used. Providers can send the data via multiple combinations, such as via a single file or as an API. To learn more, see [Map the taxonomy](../task/manage-taxonomy.md).
+After you set up the internal taxonomy, the next step is to update the provider configuration record with the name and description of the providers. To maintain a generic provider configuration, a provider record is used. Providers can send the data via multiple combinations, such as via a single file or as an API. To learn more, see [Map the taxonomy](manage-taxonomy.md).
 
 You can use the Administration module to configure various records. You can do the following:
 

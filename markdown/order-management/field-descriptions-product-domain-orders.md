@@ -25,7 +25,7 @@ The Resource Order form enables you to review and modify domain resource orders 
 **Related topics**  
 
 
-[View domain orders](../task/view-domain-orders.md)
+[View domain orders](view-domain-orders.md)
 
-[Order types in Sales Customer Relationship Management](../concept/som-order-types.md)
+[Order types in Sales Customer Relationship Management](som-order-types.md)
 

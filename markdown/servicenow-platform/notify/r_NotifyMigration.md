@@ -26,5 +26,5 @@ If the Legacy Notify functionality is already enabled, several automatic changes
 -   The notifynow\_admin role allows access to Legacy Notify modules.
 -   All workflow activities from the Legacy Notify application are moved to the **Legacy Notify** group.
 
-**Parent Topic:**[Activate Notify](../task/t_ActivateNotify.md)
+**Parent Topic:**[Activate Notify](t_ActivateNotify.md)
 

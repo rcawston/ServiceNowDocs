@@ -21,12 +21,12 @@ By default, the instance automatically creates a filter and sorting functionalit
 
 ## Custom filters
 
-If the default filters do not fit your requirements, consider creating a customer filter experience for your users. You can manually select the fields available to the map filter, as well as enable keyword filtering. Custom filters can include fields that are not in the map pattern. For more details on creating custom filters, see [Configure a custom filter](../task/config-mobile-list-filter.md).
+If the default filters do not fit your requirements, consider creating a customer filter experience for your users. You can manually select the fields available to the map filter, as well as enable keyword filtering. Custom filters can include fields that are not in the map pattern. For more details on creating custom filters, see [Configure a custom filter](config-mobile-list-filter.md).
 
 **Note:** For those who have upgraded to the Rome release, consider the following:
 
 -   If you did not define filters and are using the default setup, you automatically use the default filters and sorting capabilities after the upgrade.
--   If you defined filters in earlier versions, then after the upgrade your defined filters are still available. However, you must manually configure the sorting capabilities. See, [Configure sorting capabilities within mobile filters](../task/list-filter-sorting.md).
+-   If you defined filters in earlier versions, then after the upgrade your defined filters are still available. However, you must manually configure the sorting capabilities. See, [Configure sorting capabilities within mobile filters](list-filter-sorting.md).
 
 ## Disable filters
 

@@ -25,5 +25,5 @@ Default values for the background and text color for all case states on the Port
 **Related topics**  
 
 
-[Display the integer values of all case states](../task/integer-value-case-states.md)
+[Display the integer values of all case states](customer-self-service-and-omnichannel-engagement/integer-value-case-states.md)
 

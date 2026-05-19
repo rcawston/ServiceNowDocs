@@ -101,5 +101,5 @@ Add yourself as the user to whom the record is applicable. For example, System A
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[DLP Incident Access Restrictions](../concept/dlp-incident-access-restrictions.md)
+**Parent Topic:**[DLP Incident Access Restrictions](dlp-incident-access-restrictions.md)
 

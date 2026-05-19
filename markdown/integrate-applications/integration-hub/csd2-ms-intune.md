@@ -21,7 +21,7 @@ The Microsoft Intune spoke contains actions that CSD 2.0 uses to deploy software
 
 ## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This application provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance. The agents guide you through the required details, confirms actions for safety, and attempts to handle errors while performing operations.
 
@@ -53,7 +53,7 @@ There might be AI agents installed with the Now Assist application that are not 
 
 ## Available sample agentic workflows
 
-Install Now Assist for Integration Hub and start using the available sample agentic workflows and AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available sample agentic workflows and AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 In the ServiceNow agentic system, you can create an agentic workflow that comprises of a set of large language model \(LLM\) instructions along with one or more standalone AI agents to execute an objective. Use the available sample agentic workflow in AI Agent Studio so that AI agents can coordinate to solve complex problems. To modify the available sample agentic workflow as per your requirement, see [Modify an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/modify-aia-use-case.md).
 
@@ -97,19 +97,19 @@ Sample agentic workflow that coordinates between multiple AI agents to handle ta
 No**Note:** To activate the workflow, see [Activate an agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md).
 
 </td></tr></tbody>
-</table>-   **[Configure group assignments](../task/csd2-intune-app.md)**  
+</table>-   **[Configure group assignments](csd2-intune-app.md)**  
 Configure group assignments for all the applications you want to deploy.
--   **[Verify the Microsoft Intune spoke records](../task/csd2-intune.md)**  
+-   **[Verify the Microsoft Intune spoke records](csd2-intune.md)**  
 Verify that the spoke is integrated with CSD 2.0 after setting up and configuring the Microsoft Intune spoke and create server instance record to use Microsoft Intune spoke with CSD 2.0.
--   **[Store details of the Microsoft Intune server](../task/csd2-intune-discapps.md)**  
+-   **[Store details of the Microsoft Intune server](csd2-intune-discapps.md)**  
 Create a server instance record to discover applications and store details of the Microsoft Intune server.
--   **[Set up a software model](../task/csd2-intune-sw.md)**  
+-   **[Set up a software model](csd2-intune-sw.md)**  
 Using the applications discovered on the Microsoft Intune server, set up a software model to manage licenses.
--   **[Define the Microsoft Intune configuration](../task/csd2-intune-coll.md)**  
+-   **[Define the Microsoft Intune configuration](csd2-intune-coll.md)**  
 Associate that software with a group through a Microsoft Intune configuration to create catalog items for Microsoft Intune software deployment or to configure your instance to revoke software through Microsoft Intune.
--   **[Create a catalog item for the Microsoft Intune applications](../task/csd2-intune-create-cat.md)**  
+-   **[Create a catalog item for the Microsoft Intune applications](csd2-intune-create-cat.md)**  
 Create a catalog item for an application you want to offer for distribution from the service catalog using the applications discovered on the Microsoft Intune server.
--   **[Deployment process](../task/csd2-intune-deploy.md)**  
+-   **[Deployment process](csd2-intune-deploy.md)**  
 Order an application from a CSD 2.0 catalog item in the service catalog triggers the Order Client Software flow.
 
 **Parent Topic:**[Client Software Distribution 2.0 application](csd-app-2.md)

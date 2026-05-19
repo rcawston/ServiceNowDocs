@@ -32,10 +32,10 @@ Role required: discovery\_admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 
 **Related topics**  
 
 
-[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

@@ -17,7 +17,7 @@ The ApcPduOutletReconciler API provides methods to reconcile outlets for power d
 
 Use this API for SNMP-related discovery.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ApcPduOutletReconciler - getReconcilationField\(\)
 

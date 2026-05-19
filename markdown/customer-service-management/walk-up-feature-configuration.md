@@ -63,5 +63,5 @@ Enable for authenticated users
 Option for enabling the walk-up feature for users who sign in into the website that hosts the messenger.
 
 </td></tr></tbody>
-</table>Click **Configure walk-up here** to configure details of your customer support centres. For more information, see [Configure Walk-up Experience locations](../task/csm-walkup-define-location.md).
+</table>Click **Configure walk-up here** to configure details of your customer support centres. For more information, see [Configure Walk-up Experience locations](customer-self-service-and-omnichannel-engagement/csm-walkup-define-location.md).
 

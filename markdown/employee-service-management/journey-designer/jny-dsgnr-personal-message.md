@@ -42,10 +42,10 @@ The **Send a note** button is only visible in published journeys.
     An email is sent to the email address that is in the HR profile.
 
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)
 
 **Related topics**  
 
 
-[Journey designer user permissions reference](../reference/jny-dsgnr-user-permission-ref.md)
+[Journey designer user permissions reference](jny-dsgnr-user-permission-ref.md)
 

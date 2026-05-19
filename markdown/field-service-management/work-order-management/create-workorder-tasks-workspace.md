@@ -31,7 +31,7 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 
     -   To create a work order task using a work order template, click the search icon in the **Template** field and select the template for this work order.
     -   To create a work order task manually, click **New** and fill in the required fields.
-    For field descriptions, refer to [Create a work order task](../../planning-and-policy/task/t_CreateAWorkOrderTask.md).
+    For field descriptions, refer to [Create a work order task](t_CreateAWorkOrderTask.md).
 
 5.  Click **Save**.
 
@@ -41,5 +41,5 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 
 [Qualify work order tasks in CSM Agent Workspace](qualify-workorder-tasks-workspace.md)
 
-[Book work order appointment in the CSM Configurable Workspace](book-workorder-appointment-workspace.md)
+[Book work order appointment in the CSM Configurable Workspace](../appointment-booking/book-workorder-appointment-workspace.md)
 

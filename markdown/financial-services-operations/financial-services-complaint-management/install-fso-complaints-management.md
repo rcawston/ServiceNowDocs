@@ -30,7 +30,7 @@ The following items are installed with Financial Services Complaint Management:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Financial Services Complaint Management](../reference/installed-with-fso-complaints-mgmt.md).
+For more information, see [Components installed with Financial Services Complaint Management](installed-with-fso-complaints-mgmt.md).
 
 ## Procedure
 

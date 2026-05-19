@@ -54,5 +54,5 @@ You can run an intent and activity analysis from Analyst workbench or Opportunit
     Use the thumbs up and thumbs down icons to provide feedback for the result that you have received.
 
 
-**Parent Topic:**[Using Now Assist for Process Mining](../concept/use-na-process-mining.md)
+**Parent Topic:**[Using Now Assist for Process Mining](use-na-process-mining.md)
 

@@ -43,5 +43,5 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
     -   Skills that require the most improvement
     -   Employee engagement with the growth tools provided in the Talent Development
 
-**Parent Topic:**[Using Leader Hub](../concept/td-lh-using.md)
+**Parent Topic:**[Using Leader Hub](td-lh-using.md)
 

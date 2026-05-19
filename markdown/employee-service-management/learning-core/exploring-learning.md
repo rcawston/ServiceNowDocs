@@ -63,5 +63,5 @@ To learn more about configuring and using , see:
 
 -   [Install and configure Learning](configuring-learning.md)
 -   [Using My Learning](manage-your-learning.md)
--   [Learning reference](../reference/learning-experience-reference.md)
+-   [Learning reference](learning-experience-reference.md)
 

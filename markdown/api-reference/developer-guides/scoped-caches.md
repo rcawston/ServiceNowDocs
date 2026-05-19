@@ -15,7 +15,7 @@ breadcrumb: [Developer guides, API implementation and reference]
 
 Scoped caches allow customers to store custom data in memory for faster access, and define when it becomes invalidated. This can be useful when working with data takes longer to obtainthat from scratch, such as the results of a query across multiple tables. Use the ScopedCacheManager API to retrieve, set, and flush cache data for scoped applications.
 
-This guide includes instructions for creating a scoped cache and table pair to use with the [ScopedCacheManager API](../../../../app-store/dev_portal/API_reference/ScopedCacheManager/concept/ScopedCacheManagerAPI.md#).
+This guide includes instructions for creating a scoped cache and table pair to use with the [ScopedCacheManager API](../server-api-reference/ScopedCacheManagerAPI.md#).
 
 You can assign the following types of table pairs to a scoped cache:
 

@@ -53,7 +53,7 @@ Alternate configuration item \(CI\) trigger field. Default is disabled. For this
 
  When this check box is selected, and this option is enabled, the Alternate CI trigger field choice list is displayed. Choose any field from this list as an alternate field for the CI.
 
- For more information about the alternate CI trigger field, see [Defining triggering conditions with a Configuration item \(CI\) field](../concept/mcafee-epo-alternate-ci.md) and [Create a capability profile](mcafee-epo-create-profile.md).
+ For more information about the alternate CI trigger field, see [Defining triggering conditions with a Configuration item \(CI\) field](mcafee-epo-alternate-ci.md) and [Create a capability profile](mcafee-epo-create-profile.md).
 
 </td></tr><tr><td id="d353327e186">
 
@@ -106,5 +106,5 @@ Require approval prior to initiating the scan. Default is disabled. When the che
     You have successfully configured the profile so a malware scan is triggered automatically upon incident creation. An alternate CI field is used to populate matching CI results from the scan. The next step is to and preview and test security incidents for this profile.
 
 
-**Parent Topic:**[Configure settings](../concept/mcafee-epo-configuring-profile.md)
+**Parent Topic:**[Configure settings](mcafee-epo-configuring-profile.md)
 

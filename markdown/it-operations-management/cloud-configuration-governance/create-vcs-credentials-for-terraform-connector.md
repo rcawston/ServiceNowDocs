@@ -37,7 +37,7 @@ An API key credential is a secured record in the ServiceNow AI Platform that sto
 
 5.  On the form, fill in the fields.
 
-    For description of the form fields, see [Cloud Services Catalog Terraform Connector API Key Credentials form reference](../reference/cpg-terraform-connector-api-key-credentials-form-reference.md).
+    For description of the form fields, see [Cloud Services Catalog Terraform Connector API Key Credentials form reference](cpg-terraform-connector-api-key-credentials-form-reference.md).
 
 6.  Select **Submit**.
 

@@ -17,7 +17,7 @@ Connect to your GitLab instance using the DevOps Change Workspace playbook to di
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -94,7 +94,7 @@ Steps
 
         -   OAuth 2.0: Enter your OAuth credential.
 
-            For more information on OAuth2.0 credentials, see [Setting up GitLab OAuth 2.0 credentials for DevOps](../concept/setting-up-gitlab-oauth.md#).
+            For more information on OAuth2.0 credentials, see [Setting up GitLab OAuth 2.0 credentials for DevOps](setting-up-gitlab-oauth.md#).
 
     4.  If your GitLab instance is attached to a MID Server, select the **MID Server** option and enter its details.
 
@@ -106,7 +106,7 @@ Steps
 
 5.  Permission checks are run on the credentials that you entered.
 
-    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see GitLab permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see GitLab permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
     You can choose to continue with the tool connection even if you don't have all the required permissions.
 
@@ -135,7 +135,7 @@ Steps
 
 8.  Select the projects for which you want to configure webhooks automatically.
 
-    You can also choose to enable nightly polling to retrieve data for any tracked pipelines by selecting the **Enable Polling** property option in the **Administration** module. See [DevOps Change Velocity properties](../concept/dev-ops-administration.md).
+    You can also choose to enable nightly polling to retrieve data for any tracked pipelines by selecting the **Enable Polling** property option in the **Administration** module. See [DevOps Change Velocity properties](dev-ops-administration.md).
 
 9.  Select **Configure**.
 
@@ -176,7 +176,7 @@ You’ve successfully onboarded your GitLab tool to DevOps Change Velocity.
 
 **Note:** If your tool credential changes, you must also update the credentials in DevOps Change. For more information, see [Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md).
 
-**Parent Topic:**[GitLab integration with DevOps Change Velocity](../concept/gitlab-integration-dev-ops.md)
+**Parent Topic:**[GitLab integration with DevOps Change Velocity](gitlab-integration-dev-ops.md)
 
 **Related topics**  
 

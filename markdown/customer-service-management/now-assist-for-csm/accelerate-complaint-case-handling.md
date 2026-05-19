@@ -21,9 +21,9 @@ The Accelerate complaint case handling collection includes AI agents and a speci
 
 The accelerate complaint case handling collection and agentic workflow uses a team of AI agents and skills to triage customer complaints, summarize cases, and help research customer cases. The complaint case intake agent is not part of the agentic workflow, since it is used with Virtual Agent.
 
-To install the AI agents and skills for the Accelerate complaint case handling collection, see [Install the Now Assist for Complaint Case \(CSM\) application](../task/acc-complaint-case-handling-collection.md).
+To install the AI agents and skills for the Accelerate complaint case handling collection, see [Install the Now Assist for Complaint Case \(CSM\) application](acc-complaint-case-handling-collection.md).
 
-For more information on configuring the Accelerate complaint case handling agentic workflow, see [Configure the Accelerate Complaint Case Handling agentic workflow](../task/acc-complaint-case-handling-agentic-wkfl.md).
+For more information on configuring the Accelerate complaint case handling agentic workflow, see [Configure the Accelerate Complaint Case Handling agentic workflow](acc-complaint-case-handling-agentic-wkfl.md).
 
 <table id="table_bst_k4t_mhc"><thead><tr><th>
 

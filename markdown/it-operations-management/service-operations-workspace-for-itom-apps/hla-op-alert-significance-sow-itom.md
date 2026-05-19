@@ -15,5 +15,5 @@ breadcrumb: [Log Analytics in SOW for ITOM, Using SOW for ITOM, Service Operatio
 
 Label an alert as meaningful or insignificant, or restore normal importance to the metric involved in generating it.
 
-**Parent Topic:**[Log Analytics in Service Operations Workspace for ITOM](../../health-log-analytics-operator/concept/hla-op-binder-sow.md)
+**Parent Topic:**[Log Analytics in Service Operations Workspace for ITOM](hla-op-binder-sow.md)
 

@@ -37,12 +37,12 @@ Role required: sn\_apm.apm\_analyst
     -   To update an existing interface, select a digital integration link to open it.
 6.  On the Digital Interface form, fill in the fields.
 
-    For field information, see [Digital interface form](../../reference/eaw-reference/eaw-digital-interface-form.md).
+    For field information, see [Digital interface form](eaw-digital-interface-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with digital interfaces](../../concept/eaw-concept/eaw-work-with-digital-interfaces.md)
+**Parent Topic:**[Working with digital interfaces](eaw-work-with-digital-interfaces.md)
 
 **Related topics**  
 

@@ -86,5 +86,5 @@ Contains customizable TEAM\_LIMIT and STORY\_LIMIT properties.
 
 **Note:** Increasing the values might result in longer loading times and degraded performance of the scrum program planning board.
 
-**Parent Topic:**[Scrum Programs for Agile Development 2.0](../concept/scrum-programs-concept.md)
+**Parent Topic:**[Scrum Programs for Agile Development 2.0](scrum-programs-concept.md)
 

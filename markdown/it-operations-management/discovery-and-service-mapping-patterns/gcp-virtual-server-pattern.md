@@ -305,7 +305,7 @@ Provider \[provider\]
 The cloud provider, which is **GCP**. This field is only populated in Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table.
 
 </td></tr></tbody>
-</table>**Note:** When using the Image \[cmdb\_ci\_os\_template\] table to store Cloud OS images, you may notice an unusually large number of records. To avoid this issue, you can store the discovered OS images in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. For more information, see [Enable Cloud OS Image discovery](../../discovery/task/enable-cloud-os-image-discovery-pattern.md).
+</table>**Note:** When using the Image \[cmdb\_ci\_os\_template\] table to store Cloud OS images, you may notice an unusually large number of records. To avoid this issue, you can store the discovered OS images in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. For more information, see [Enable Cloud OS Image discovery](enable-cloud-os-image-discovery-pattern.md).
 
 <table id="table_hardware_type"><thead><tr><th>
 
@@ -380,7 +380,7 @@ Provider \[provider\]
 The cloud provider, which is **GCP**. This field is only populated in Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table.
 
 </td></tr></tbody>
-</table>**Note:** When using the Hardware Type \[cmdb\_ci\_compute\_template\] table to store the hardware types, you may notice an unusually large number of records. To avoid this issue, you can store the discovered hardware types in the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table. For more information, see [Enable the Cloud Hardware Type class extension](../../discovery/task/enable-hardware-type-class-extension.md).
+</table>**Note:** When using the Hardware Type \[cmdb\_ci\_compute\_template\] table to store the hardware types, you may notice an unusually large number of records. To avoid this issue, you can store the discovered hardware types in the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table. For more information, see [Enable the Cloud Hardware Type class extension](enable-hardware-type-class-extension.md).
 
 ## CI relationships
 

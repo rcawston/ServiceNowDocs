@@ -325,5 +325,5 @@ NLU Workbench - Advanced Features
 False
 
 </td></tr></tbody>
-</table>To get more feedback data from Virtual Agent \(VA\) chat logs, refer to the **Procuring additional VA feedback data on demand** section in the [Expert Feedback Loop documentation](../concept/nlu-expert-feedback-loop.md).
+</table>To get more feedback data from Virtual Agent \(VA\) chat logs, refer to the **Procuring additional VA feedback data on demand** section in the [Expert Feedback Loop documentation](nlu-expert-feedback-loop.md).
 

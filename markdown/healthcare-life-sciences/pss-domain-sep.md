@@ -33,7 +33,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Patient Support Services overview
 
-The Patient Support Services application includes domain separation for transactional data like enrollment cases and healthcare tasks including program tasks and program service tasks. The application is based on the [Healthcare and Life Sciences data model](hcls-serv-mgmt-core.md) that also includes domain separation.
+The Patient Support Services application includes domain separation for transactional data like enrollment cases and healthcare tasks including program tasks and program service tasks. The application is based on the [Healthcare and Life Sciences data model](healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core.md) that also includes domain separation.
 
 ## How domain separation works in Patient Support Services
 
@@ -43,5 +43,5 @@ For customers using the Patient Support Services application to raise enrollment
 
 When healthcare providers have their healthcare data separated by domains, the healthcare requests and corresponding fulfillment tasks are associated with the respective customer domains.
 
-**Parent Topic:**[Patient Support Services reference](../reference/pss-reference.md)
+**Parent Topic:**[Patient Support Services reference](pss-reference.md)
 

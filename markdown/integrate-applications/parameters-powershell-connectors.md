@@ -26,7 +26,7 @@ Learn about the various parameters of the Microsoft PowerShell connector methods
 
 ## Input parameter values
 
-To input the parameter values, see [Configure port properties](../task/configure-input-port-properties.md).
+To input the parameter values, see [Configure port properties](configure-input-port-properties.md).
 
-**Parent Topic:**[ITSM connector](../concept/itsm.md)
+**Parent Topic:**[ITSM connector](itsm.md)
 

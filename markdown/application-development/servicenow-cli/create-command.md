@@ -427,5 +427,5 @@ Required. Command that the argument applies to.
 
 When the user runs the ServiceNow CLI command, the system executes the associated REST API call and returns the result to the ServiceNow CLI.
 
-**Parent Topic:**[ServiceNow CLI](../concept/servicenow-cli.md)
+**Parent Topic:**[ServiceNow CLI](servicenow-cli.md)
 

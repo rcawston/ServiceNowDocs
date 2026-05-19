@@ -49,7 +49,7 @@ Users with certain roles and access can use Universal Request.
 The Universal Request \(UR\) state is determined by the state of the primary ticket. The primary ticket for a UR is a child department ticket, such as an IT incident or a HR case. A Universal Request can have only one primary ticket at a time.
 -   **[Mobile experience for Universal Request](ur-mobile-exp.md)**  
 Create universal requests from a mobile device using the Now Mobile application. Stay connected and access information in real time.
--   **[Guided setup for Universal Request](../reference/ur-guided-setup.md)**  
+-   **[Guided setup for Universal Request](ur-guided-setup.md)**  
 Before you start using the ServiceNow® Universal Request application in your organization, you must set up Universal Request. Work with your stakeholders to define requirements for setting up the application effectively to meet the needs of your organization.
 
 **Parent Topic:**[Universal Request](ur-landing-limitedaccess.md)

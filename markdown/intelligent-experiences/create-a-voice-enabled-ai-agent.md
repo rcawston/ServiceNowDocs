@@ -172,7 +172,7 @@ Necessary steps to be followed by the AI agent while carrying out its role.
 
             -   Emphasize the benefits and outcomes of using the AI agent.
             -   Example: Using the AI agent leads to faster resolution times and higher customer satisfaction scores.
-        By following these general guidelines, you can create clear and effective prompt instructions that enable you to use AI agents to their fullest potential. For more information and examples, see [General guidelines for creating AI agents](../concept/gg-creating-aia.md).
+        By following these general guidelines, you can create clear and effective prompt instructions that enable you to use AI agents to their fullest potential. For more information and examples, see [General guidelines for creating AI agents](gg-creating-aia.md).
 
     3.  Determine if the AI agent can be accessed by third parties.
 
@@ -188,17 +188,17 @@ Necessary steps to be followed by the AI agent while carrying out its role.
 
     The following tools are available for AI voice agents:
 
-    -   [File upload](../task/add-file-retrieval.md): Different file types such as PDF, DOCX, or TXT formats that you can add to your AI agent.
-    -   [Flow action](../task/add-flow-action-ai-agent.md): Custom automated processes in your system that you can add to your AI agent. Example for the Incident manager agent: Fetch details of the incident.
-    -   [Knowledge Graph](../task/add-knowledge-graph.md): Various Knowledge Graph items that you can add to you AI agent.
-    -   [MCP server tool](../../model-context-protocol-client/task/add-mcp-server-tool.md): An MCP server tool that you can to your AI agent.
-    -   [Record operation](../task/add-database-op-ai-agent.md): Different record operations that you can add to your AI agent.
-    -   [Script](../task/add-script-ai-agent.md): Editable scripts and APIs that you can add to your AI agent.
-    -   [Search retrieval](../task/add-retriever-ai-agent.md): Information retrieval processes in your system that you can add to your AI agent.
+    -   [File upload](add-file-retrieval.md): Different file types such as PDF, DOCX, or TXT formats that you can add to your AI agent.
+    -   [Flow action](add-flow-action-ai-agent.md): Custom automated processes in your system that you can add to your AI agent. Example for the Incident manager agent: Fetch details of the incident.
+    -   [Knowledge Graph](add-knowledge-graph.md): Various Knowledge Graph items that you can add to you AI agent.
+    -   [MCP server tool](add-mcp-server-tool.md): An MCP server tool that you can to your AI agent.
+    -   [Record operation](add-database-op-ai-agent.md): Different record operations that you can add to your AI agent.
+    -   [Script](add-script-ai-agent.md): Editable scripts and APIs that you can add to your AI agent.
+    -   [Search retrieval](add-retriever-ai-agent.md): Information retrieval processes in your system that you can add to your AI agent.
 
         **Note:** Create a dedicated search profile that includes only the KB articles for AI voice agents to reduce the search scope and minimize latency.
 
-    -   [Sub flow](../task/add-sub-flow-ai-agent.md): Automated flows in your system that you can add to your AI agent.
+    -   [Sub flow](add-sub-flow-ai-agent.md): Automated flows in your system that you can add to your AI agent.
 4.  In the Define security controls tab, define who can access the AI agent and what data the AI agent has access to.
 
     1.  Define the users who can access this AI agent \(ACLs\).

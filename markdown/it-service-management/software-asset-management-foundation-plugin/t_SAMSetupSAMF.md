@@ -25,11 +25,11 @@ Once you have [requested](t_RequSoftwareAssetMgmtSAMF.md) Software Asset Managem
 
 ## Procedure
 
-1.  Determine whether you are currently running the ITSM Software Asset Management feature of Asset Management using the [Legacy Software Asset Management plugin](../../asset-management/concept/c_SoftwareAssetManagement.md).
+1.  Determine whether you are currently running the ITSM Software Asset Management feature of Asset Management using the [Legacy Software Asset Management plugin](../software-asset-management/c_SoftwareAssetManagement.md).
 
     Check the list of plugins to see if the Software Asset Management \(com.snc.software\_asset\_management\) plugin is active.
 
-    -   If so, complete the [Software Asset Management Foundation plugin migration](../concept/c_SAMMigrationSAMF.md) procedure.
+    -   If so, complete the [Software Asset Management Foundation plugin migration](c_SAMMigrationSAMF.md) procedure.
 
         This step automatically converts and adds new tables, forms and lists, fields and values, and disables deprecated functionality. It also contains manual procedures for you to complete for successful migration.
 
@@ -51,12 +51,12 @@ Once you have [requested](t_RequSoftwareAssetMgmtSAMF.md) Software Asset Managem
 
 -   **[Request Software Asset Management Foundation plugin](t_RequSoftwareAssetMgmtSAMF.md)**  
 The Software Asset Management Foundation \(com.snc.sams\) plugin must be activated by ServiceNow personnel. This plugin includes demo data.
--   **[Manage a SAM Foundation software suite](../concept/manage-samf-software-suite.md)**  
+-   **[Manage a SAM Foundation software suite](manage-samf-software-suite.md)**  
 Create a suite and add the corresponding components to the suite so the rights that your organization owns are counted accurately during reconciliation.
 -   **[Customize a Discovery pattern for Software Asset Management Foundation plugin](t_CustomPatternSAMSAMF.md)**  
 Software Asset Management Foundation plugin automatically leverages SQL Server, Exchange, and Oracle Database Discovery patterns, but you can perform steps for Software Asset Management Foundation plugin to utilize additional Discovery patterns, if needed.
 -   **[Get started with Software Asset Management Foundation plugin](t_SAMGetStartedSAMF.md)**  
 Get started with Software Asset Management Foundation plugin to optimize management of software installations in your environment.
 
-**Parent Topic:**[Software Asset Management Foundation plugin](../concept/c_SoftwareAssetMgmtSAMF.md)
+**Parent Topic:**[Software Asset Management Foundation plugin](c_SoftwareAssetMgmtSAMF.md)
 

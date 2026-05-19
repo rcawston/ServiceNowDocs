@@ -36,5 +36,5 @@ Role required: admin
 6.  Select **Save**.
 
 
-**Parent Topic:**[Configure search criteria](../concept/sg-create-custom-search.md)
+**Parent Topic:**[Configure search criteria](sg-create-custom-search.md)
 

@@ -18,5 +18,5 @@ A connection admin can create a connection to Exasol and give data stewards acce
 **Related topics**  
 
 
-[Create an Exasol connection](../task/create-exasol-connection-zcc.md)
+[Create an Exasol connection](create-exasol-connection-zcc.md)
 

@@ -66,7 +66,7 @@ Test customized user interfaces such as UI pages and UI macros by retrieving the
 
 -   **Use HTML attributes to override page component testing properties**
 
-    Change the testing properties of a particular page component using HTML attributes that are specific to Automated Test Framework. See [Override component test actions](../task/develop-testable-components.md#).
+    Change the testing properties of a particular page component using HTML attributes that are specific to Automated Test Framework. See [Override component test actions](develop-testable-components.md#).
 
 -   **Retrieve page components again when you move tests to another instance**
 

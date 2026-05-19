@@ -32,5 +32,5 @@ Public Access to Favorites is compliant when **glide.ui.magellan.favorites.allow
 |Security risk|\(Medium\) If this property isn’t enabled, there’s a risk of unauthorized access to sensitive data.|
 |References|[Configure favorites option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-configure-favorites-admin.md)|
 
-**Parent Topic:**[Access control](../../security-center/reference/sc-access-control.md)
+**Parent Topic:**[Access control](sc-access-control.md)
 

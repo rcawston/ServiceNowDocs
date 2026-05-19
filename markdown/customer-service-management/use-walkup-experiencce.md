@@ -15,14 +15,14 @@ Customers can use the Walk-up Experience feature to check in at a walk-up locati
 
 Customers can use the Walk-up Experience feature to complete the following tasks:
 
--   [Check in at a walk-up location](../task/csm-walkup-checkin.md) and join a requester queue.
--   [Schedule an appointment or join a requester queue from the Customer Service Portal](../task/csm-walkup-checkin-online.md).
--   [Schedule an appointment as a guest user](../task/csm-walkup-appt-guest.md).
--   [Modify or cancel a walk-up appointment as a guest user](../task/csm-walkup-modify-cancel-appt-guest.md).
--   [Monitor requester queues](../task/csm-walkup-monitor-queues.md).
+-   [Check in at a walk-up location](csm-walkup-checkin.md) and join a requester queue.
+-   [Schedule an appointment or join a requester queue from the Customer Service Portal](csm-walkup-checkin-online.md).
+-   [Schedule an appointment as a guest user](csm-walkup-appt-guest.md).
+-   [Modify or cancel a walk-up appointment as a guest user](csm-walkup-modify-cancel-appt-guest.md).
+-   [Monitor requester queues](csm-walkup-monitor-queues.md).
 
 Walk-up experience technicians and managers can view and manage walk-up interactions and queues and view the CSM Walk-up Experience dashboard.
 
--   [CSM Walk-up Experience dashboard](../../../use/dashboards/application-content-packs/csm-walkup-experience-dashboard.md)
+-   [CSM Walk-up Experience dashboard](csm-walkup-experience-dashboard.md)
 -   [Manage queues and interactions](csm-walkup-manage-demand.md)
 

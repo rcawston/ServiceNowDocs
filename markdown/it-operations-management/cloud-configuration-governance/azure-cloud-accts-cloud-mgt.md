@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-See [Cloud accounts](../../cloud-management-v2/concept/cloud-accounts.md) for more information about cloud accounts.
+See [Cloud accounts](cloud-accounts.md) for more information about cloud accounts.
 
 **Note:** Cloud providers often use different names for accounts, regions, and credential settings. Because the ServiceNow application supports several cloud providers, the app uses general-purpose names for the settings. In Azure, the region-specific containers for virtual resources are called regions. In Cloud Provisioning and Governance, regions are called datacenters or logical datacenters \(LDCs\). The term logical is used to reinforce the idea that Cloud Provisioning is provider-agnostic. All infrastructure or applications that are deployed using Cloud Provisioning are associated with a datacenter..
 

@@ -43,7 +43,7 @@ Expense lines on a demand record track the costs incurred during the demand eval
     -   To update the details of an existing expense line, select the record.
 5.  On the Create New Expense Line form, fill in the fields.
 
-    For a description of the field names, see [Create expense line form](../reference/expense-line-form-dw.md).
+    For a description of the field names, see [Create expense line form](expense-line-form-dw.md).
 
 6.  Select **Save**.
 

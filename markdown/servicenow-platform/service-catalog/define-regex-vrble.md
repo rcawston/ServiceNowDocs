@@ -92,7 +92,7 @@ Character set that is considered while validating the regular expression.-   Non
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](r_ExtendedCatalogItemFunctions.md)
 
 **Related topics**  
 

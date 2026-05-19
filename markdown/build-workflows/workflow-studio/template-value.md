@@ -60,5 +60,5 @@ When creating or updating a record in a subflow action or action step, you can s
 
 When the subflow or action is added to a flow, a flow author can set field values for the record being created or updated.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

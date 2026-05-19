@@ -17,7 +17,7 @@ You can create a new communication plan or add a new communication task to an ex
 
 ## Before you begin
 
-Ensure you have installed the required plugins to be able to use Major Incident Management \(MIM\) workbench. For more information, see [ServiceNow for Microsoft Teams and Microsoft 365](../concept/c_ServiceNowForMSTeams.md).
+Ensure you have installed the required plugins to be able to use Major Incident Management \(MIM\) workbench. For more information, see [ServiceNow for Microsoft Teams and Microsoft 365](c_ServiceNowForMSTeams.md).
 
 Role required: major\_incident\_manager
 
@@ -54,5 +54,5 @@ Send a Microsoft Teams notification to the stakeholders associated with a major 
 -   **[View notifications for a major incident](notifications-major-incident.md)**  
 View the notifications that are sent during specific events in a major incident. These notifications are sent to all the stakeholders associated with the major incident.
 
-**Parent Topic:**[Agent actions](../concept/agent-sn-ms-teams.md)
+**Parent Topic:**[Agent actions](agent-sn-ms-teams.md)
 

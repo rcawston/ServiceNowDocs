@@ -111,7 +111,7 @@ If you want to check some details about the summary, select the more info icon \
 
 </td></tr><tr></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 
 **Related topics**  
 

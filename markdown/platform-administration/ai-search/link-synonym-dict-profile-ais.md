@@ -39,7 +39,7 @@ You can link a single synonym dictionary to multiple search profiles.
 
     3.  Select **Submit**.
 
-    For a description of the field values, see [Search Profile - Dictionary Mapping form](../reference/search-prof-dict-mapping-form-ais.md).
+    For a description of the field values, see [Search Profile - Dictionary Mapping form](search-prof-dict-mapping-form-ais.md).
 
 
 ## Result
@@ -50,5 +50,5 @@ The selected synonym dictionary appears in the search profile's Synonyms related
 
 To make the new synonym dictionary linking take effect, publish the search profile. For more information on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Synonyms](../concept/synonyms-ais.md)
+**Parent Topic:**[Synonyms](synonyms-ais.md)
 

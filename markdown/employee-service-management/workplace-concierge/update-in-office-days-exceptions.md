@@ -41,10 +41,10 @@ Role required: sn\_wsd\_core.workplace\_user
 
 4.  Select **Make a reservation** to reserve a space for the day you're visiting the office.
 
-    For information about making a reservation, see [Create a reservation](../../wsd-reservation-management/task/create-reservation-request-1.md).
+    For information about making a reservation, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 
-**Parent Topic:**[Set Employee Presence](../concept/use-workplace-concierge.md)
+**Parent Topic:**[Set Employee Presence](use-workplace-concierge.md)
 
 **Related topics**  
 
@@ -57,5 +57,5 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Remove a collaborator](remove-a-collaborator.md)
 
-[Managing presence privacy settings](../concept/manage-presence-privacy-settings.md#)
+[Managing presence privacy settings](manage-presence-privacy-settings.md#)
 

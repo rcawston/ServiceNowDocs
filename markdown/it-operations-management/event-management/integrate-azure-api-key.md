@@ -50,5 +50,5 @@ Role required: evt\_mgmt\_integration
     ![Rest API token generated in the Token field.](../image/em-rest-api-token.png)
 
 
-**Parent Topic:**[Integrate Azure Monitor as an authenticated data source](../concept/azure-integration.md)
+**Parent Topic:**[Integrate Azure Monitor as an authenticated data source](azure-integration.md)
 

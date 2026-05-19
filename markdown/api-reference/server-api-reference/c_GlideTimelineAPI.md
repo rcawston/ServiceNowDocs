@@ -17,7 +17,7 @@ The GlideTimeline API provides the core implementation for configuring and displ
 
 For security, the GlideTimeline has already been instantiated as a single instance variable called *GlideTimeline*. All configurations should be made in the client script section of the corresponding schedule page that references this instance variable.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideTimeline - groupByParent\(Boolean b\)
 

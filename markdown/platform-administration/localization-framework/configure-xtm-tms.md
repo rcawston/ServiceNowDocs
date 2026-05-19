@@ -62,5 +62,5 @@ Roles required: connection\_admin
     Once the OAuth token is created, the ServiceNow® platform regenerates the token until the refresh token expires.
 
 
-**Parent Topic:**[Translation Management System configurations](../concept/tms-configuration.md)
+**Parent Topic:**[Translation Management System configurations](tms-configuration.md)
 

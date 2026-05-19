@@ -15,9 +15,9 @@ Indicators provide the data used in most of the dashboard’s visualizations. Th
 
 This dashboard employs all three kinds of indicators, Automated, Formula, and Manual. For more information about configuring indicators, see
 
--   [Automated indicators](../../performance-analytics/concept/automated-indicators.md)
--   [Formula indicators](../../performance-analytics/concept/formula-indicators.md)
--   [Manual indicators](../../performance-analytics/task/t_CreateAManualIndicator.md)
+-   [Automated indicators](performance-analytics/automated-indicators.md)
+-   [Formula indicators](performance-analytics/formula-indicators.md)
+-   [Manual indicators](performance-analytics/t_CreateAManualIndicator.md)
 
 <table id="table_zcc_dry_mgc"><thead><tr><th>
 

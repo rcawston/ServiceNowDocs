@@ -26,7 +26,7 @@ Role required: sn\_si.read or higher
     If you have the Security Incident Response plugin activated, the search criteria you entered present any matching short description text, CIs, IP addresses, or URLs in your security incidents, Security Incident Response tasks, or security requests. If you have the Vulnerability Response or Threat Intelligence plugins activated, the search results include vulnerabilities, vulnerable items, vulnerable entries, observables, IoCs, and attack mode/methods.
 
 
-**Parent Topic:**[Security Operations common functionality](../concept/sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
 
 **Related topics**  
 

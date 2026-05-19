@@ -16,7 +16,7 @@ Administrators can view information about domain separation, identify potential 
 You can perform these advanced administrative tasks on domains:
 
 -   [Use domain selection menus](c_DisplayingDomainSelectionMenus.md)
--   [View domain relationships](../task/t_ViewDomainRelationships.md)
+-   [View domain relationships](t_ViewDomainRelationships.md)
 
 -   **[Use domain selection menus](c_DisplayingDomainSelectionMenus.md)**  
 The instance offers domain selection via two menu formats.
@@ -28,41 +28,41 @@ The Domain Separation plugin has two new tables to give service providers more f
 **Related topics**  
 
 
-[Request domain separation](../task/t_ActivateDomainSeparation.md)
+[Request domain separation](t_ActivateDomainSeparation.md)
 
 [Domain separation plugin](domain-sep-plugin.md)
 
-[Domain system properties and user preferences](../reference/r_DefaultDomainScope.md)
+[Domain system properties and user preferences](r_DefaultDomainScope.md)
 
-[Create a domain](../task/t_CreateADomain.md)
+[Create a domain](t_CreateADomain.md)
 
-[Make a domain the default](../task/t_MakeAnMSPDomainTheDefault.md)
+[Make a domain the default](t_MakeAnMSPDomainTheDefault.md)
 
-[Manually manage the domain for particular records](../task/t_ManuManDomPartRec.md)
+[Manually manage the domain for particular records](t_ManuManDomPartRec.md)
 
 [Domain Separated Tables](domain-separated-tables.md)
 
 [Domain Override Viewer](domain-sep-override-viewer.md)
 
-[Enable or disable a domain](../task/t_ActivateDeactivateADomainForMSP.md)
+[Enable or disable a domain](t_ActivateDeactivateADomainForMSP.md)
 
-[Add a domain field to a table](../task/t_AddADomainFieldToATable.md)
+[Add a domain field to a table](t_AddADomainFieldToATable.md)
 
-[View upgraded processes or records in the global domain](../task/t_view-upgraded-overriden-domains.md)
+[View upgraded processes or records in the global domain](t_view-upgraded-overriden-domains.md)
 
-[View domain relationships](../task/t_ViewDomainRelationships.md)
+[View domain relationships](t_ViewDomainRelationships.md)
 
-[Create a domain-specific choice list](../task/t_CreateADomainSpecificChoiceList.md)
+[Create a domain-specific choice list](t_CreateADomainSpecificChoiceList.md)
 
 [Domain Migration Tool](tenant-domain-migration-tool.md#)
 
 [Process administration](c_DelegatedAdministration.md)
 
-[Enable verbose domain logging and debug messages](../task/t_EnableDomainLogDebugMsgs.md)
+[Enable verbose domain logging and debug messages](t_EnableDomainLogDebugMsgs.md)
 
 [Post-Production Domain Separation Activation Utility](post-prod-domain-sep-utility.md)
 
 [Domain Job Management](domain-job-manger.md)
 
-[Delete by domain](../task/delete-by-domain.md)
+[Delete by domain](delete-by-domain.md)
 

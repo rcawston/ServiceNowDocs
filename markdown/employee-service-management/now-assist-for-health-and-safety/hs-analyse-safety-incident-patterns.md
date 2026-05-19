@@ -19,10 +19,10 @@ The tab is designed to help the safety teams quickly understand where risks are 
 
 ## Prerequisites
 
--   Verify that the Health and Safety Incident Management application is installed. For more information, see [Health and Safety Incident Management](../../ohs-incident-management/concept/hs-incident-mgmt-landing-page.md).
+-   Verify that the Health and Safety Incident Management application is installed. For more information, see [Health and Safety Incident Management](../health-and-safety-incident-management/hs-incident-mgmt-landing-page.md).
 -   Verify that the generative AI \[com.snc.sn\_hs\_gen\_ai\] plugin is installed.
--   Configure the inclusion of incident records that contain sensitive data. For more information, see [Configure the inclusion of sensitive data in incident patterns](../task/hs-configure-sensitive-data-incident-pattern.md).
--   Verify that all the jobs are running. For more information on configuring the interval at which these jobs run, see [Configure the generation of incident patterns](../task/hs-configure-generation-incident-pattern.md).
+-   Configure the inclusion of incident records that contain sensitive data. For more information, see [Configure the inclusion of sensitive data in incident patterns](hs-configure-sensitive-data-incident-pattern.md).
+-   Verify that all the jobs are running. For more information on configuring the interval at which these jobs run, see [Configure the generation of incident patterns](hs-configure-generation-incident-pattern.md).
 
 ## Role required
 

@@ -56,5 +56,5 @@ AI resource finder helps resource and project managers identify the best-fit res
     The resource is assigned to the task.
 
 
-**Parent Topic:**[Resource assignments in Project Workspace](../../pw-resource-management/concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](resource-assignments-pw.md)
 

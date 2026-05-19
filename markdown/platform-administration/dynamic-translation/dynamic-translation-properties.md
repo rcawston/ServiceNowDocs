@@ -63,7 +63,7 @@ Exclusion Frameworksn\_dt.dynamic\_framework.enable\_exclusion\_framework
 
 </td><td>
 
-Enables [Exclusion Framework](../concept/dyn-translation-exclusion-framework.md) on the instance. Defaults to enabled when Dynamic Translation is activated.
+Enables [Exclusion Framework](dyn-translation-exclusion-framework.md) on the instance. Defaults to enabled when Dynamic Translation is activated.
 
  On a domain-separated instance, this property applies to all of the domains. It is not possible to enable Exclusion Framework on a per-domain basis.
 

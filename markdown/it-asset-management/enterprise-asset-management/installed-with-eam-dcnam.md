@@ -85,5 +85,5 @@ sn\_eam.asset\_technician
 |Risk Heat Map \(com.sn\_risk\_heatmap\)|Provides a heatmap component that enables you to visualize the risk posture of your organization.|
 |Geo Map Component \(com.sn\_geo\_map\)|Provides capabilities to track asset locations using indoor maps.|
 
-**Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](../concept/eam-dcnam.md)
+**Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](eam-dcnam.md)
 

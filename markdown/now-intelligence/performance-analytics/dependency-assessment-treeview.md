@@ -21,7 +21,7 @@ The Dependency Assessment tree view consists of a variety of possible nodes and 
 
 The tree view header contains choice lists for changing the PA entity type and a value. The tree view updates according to your choices. Click the reset button \(![](../image/tree-view-reset-icon.png)\) to return the tree view to the starting point with just the first level parent and its immediate child nodes.
 
-Each node has a context menu \(![Admin console tree view context menu button](../image/admin-console-treeview-menu.png)\) where you can choose from a number of actions. Choose **Show Used By** to change the tree view to show where a node is used in your instance. See [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) for more information.
+Each node has a context menu \(![Admin console tree view context menu button](../image/admin-console-treeview-menu.png)\) where you can choose from a number of actions. Choose **Show Used By** to change the tree view to show where a node is used in your instance. See [Bottom-up tree view](dependency-assessment-show-used-by.md) for more information.
 
 ![Top-down dependency assessment with list of remaining nodes](../image/impact-analysis-remaining-nodes2.png "Dependency assessment tree view")
 

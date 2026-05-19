@@ -15,7 +15,7 @@ breadcrumb: [Post CSV or Excel files directly to an import set, Importing data u
 
 An example using Perl to post a CSV file with basic auth credentials and Java Apache HttpClient class to post a CSV file with basic auth credentials.
 
-For more information, see [Post CSV or Excel files directly to an import set](../task/t_PostCSVOrExcelFilesToImportSet.md).
+For more information, see [Post CSV or Excel files directly to an import set](t_PostCSVOrExcelFilesToImportSet.md).
 
 ## Perl example
 
@@ -113,5 +113,5 @@ try {
 }
 ```
 
-**Parent Topic:**[Post CSV or Excel files directly to an import set](../task/t_PostCSVOrExcelFilesToImportSet.md)
+**Parent Topic:**[Post CSV or Excel files directly to an import set](t_PostCSVOrExcelFilesToImportSet.md)
 

@@ -17,7 +17,7 @@ The GlideXMLUtil API provides methods to remove invalid characters from an XML s
 
 Access these methods using the static object GlideXMLUtil. This class is available in scoped and global scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideXMLUtil - removeInvalidChars\(String xmlString\)
 

@@ -15,6 +15,6 @@ Create structured and flexible data models to represent the need across various 
 
 |Task|Description|
 |----|-----------|
-|[Configure Service Model Foundation](../task/configure-industry-data-model.md)|Create foundational data models, such as service organizations, internal and external business locations, and households.|
+|[Configure Service Model Foundation](configure-industry-data-model.md)|Create foundational data models, such as service organizations, internal and external business locations, and households.|
 |[Configure customer data models for B2B2C](configure-customer-data-model-b2b2c.md)|Configure the B2B2C data model to let business customers support end consumers by creating cases and tracking services for the products and offerings they use.|
 

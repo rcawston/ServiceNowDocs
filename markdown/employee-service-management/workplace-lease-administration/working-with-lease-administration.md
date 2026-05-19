@@ -23,13 +23,13 @@ Create and manage workplace contracts from the Workplace Central.
     -   Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central** &gt; **Lease Administration**
     -   Navigate to **Workspaces** &gt; **Workplace Central** &gt; **Lease Administration**
 
-For information about installing Workplace Lease Administration, see [Activate Workplace Lease Administration](../task/install-lease-administration.md).
+For information about installing Workplace Lease Administration, see [Activate Workplace Lease Administration](install-lease-administration.md).
 
--   **[Create workplace contracts in Workplace Central](../task/wpc-create-lease-contracts.md)**  
+-   **[Create workplace contracts in Workplace Central](wpc-create-lease-contracts.md)**  
 As a lease administrator or manager, you can create workplace contracts and also add assets, terms and conditions, contract locations, and documents to a contract.
--   **[Submit a workplace contract for review in Workplace Central](../task/wpc-submit-lease-contract-review.md)**  
+-   **[Submit a workplace contract for review in Workplace Central](wpc-submit-lease-contract-review.md)**  
 You can send a contract that is in Draft state for approval.
--   **[Approve or reject workplace contract in Workplace Central](../task/wpc-approve-lease-contract.md)**  
+-   **[Approve or reject workplace contract in Workplace Central](wpc-approve-lease-contract.md)**  
 Approve or reject a workplace contract after it is submitted for review.
 
 **Parent Topic:**[Using Workplace Lease Administration](use-lease-administration.md)

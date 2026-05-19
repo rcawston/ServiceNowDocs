@@ -17,7 +17,7 @@ By using extension points, you can easily integrate customizations without havin
 
 To view the extension points that are available by default, navigate to **System Extension Points** &gt; **Scripted Extension Points** and group by the ServiceNow Voice application.
 
-**Note:** You should install the ServiceNow Voice, ServiceNow Voice for ITSM, ServiceNow Voice for CSM, and ServiceNow Voice with Amazon Connect applications from the ServiceNow® Store. For information about these installations, see [Install ServiceNow Voice applications](../task/install-ccc-apps.md), [Install ServiceNow Voice for ITSM](../task/install-ccc-itsm.md), and [Install ServiceNow Voice for CSM](../task/install-ccc-csm.md).
+**Note:** You should install the ServiceNow Voice, ServiceNow Voice for ITSM, ServiceNow Voice for CSM, and ServiceNow Voice with Amazon Connect applications from the ServiceNow® Store. For information about these installations, see [Install ServiceNow Voice applications](install-ccc-apps.md), [Install ServiceNow Voice for ITSM](install-ccc-itsm.md), and [Install ServiceNow Voice for CSM](install-ccc-csm.md).
 
 |Extension point|Description|
 |---------------|-----------|

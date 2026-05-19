@@ -89,5 +89,5 @@ If fewer than five search results are returned, they are summarized. If more res
 
 To learn more about using the Now Assist panel, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
-**Parent Topic:**[Using agentic workflows in Now Assist for CMDB](../../configuration-management/concept/now-assist-cmdb-using.md)
+**Parent Topic:**[Using agentic workflows in Now Assist for CMDB](now-assist-cmdb-using.md)
 

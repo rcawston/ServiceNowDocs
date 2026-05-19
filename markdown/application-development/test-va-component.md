@@ -157,10 +157,10 @@ If your component is working as expected, deploy it to your instance. For instru
 
 After developing the component and deploying it to your instance, add it to Virtual Agent Designer using a custom control and definition. For more information, see [Virtual Agent custom controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/custom-controls.md).
 
-**Parent Topic:**[Develop a component for Virtual Agent](../concept/va-components.md)
+**Parent Topic:**[Develop a component for Virtual Agent](va-components.md)
 
 **Related topics**  
 
 
-[Create custom components using ServiceNow CLI](../concept/custom-components.md)
+[Create custom components using ServiceNow CLI](custom-components.md)
 

@@ -29,7 +29,7 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 4.  On the Breakdown analysis form, fill in the field Description and change other fields as needed.
 
-    For a description of the field values, see [Root cause analysis form](../reference/root-cause-analysis-form.md).
+    For a description of the field values, see [Root cause analysis form](root-cause-analysis-form.md).
 
 5.  Select **Save**.
 
@@ -37,11 +37,11 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 6.  From the Recommendations sidebar, attach a standard related to the breakdown analysis.
 
-    To learn more about the Recommended Actions in the Digital Factory Workspace, see [Recommended Actions for the Industrial Connected Workforce](../../icw-industrial-connected-workforce/concept/recommended-actions-icw.md).
+    To learn more about the Recommended Actions in the Digital Factory Workspace, see [Recommended Actions for the Industrial Connected Workforce](recommended-actions-icw.md).
 
 7.  On the Review information form, fill in the fields.
 
-    For a description of the field values, see [Breakdown analysis form](../reference/breakdown-analysis-form.md).
+    For a description of the field values, see [Breakdown analysis form](breakdown-analysis-form.md).
 
 8.  Select **Mark Complete**.
 
@@ -59,7 +59,7 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 11. To create a follow-up action, select **Create New Follow-up Action** and fill in the fields.
 
-    For a description of the field values, see [Action form](../reference/action-form.md).
+    For a description of the field values, see [Action form](action-form.md).
 
 12. After you're done with this step, select **Mark complete**.
 
@@ -78,5 +78,5 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 The state of the analysis moves to Closed and the record is displayed in **Lists** &gt; **Root cause analyses** &gt; **Done**.
 
-**Parent Topic:**[Breakdown Management](../concept/breakdown-analysis.md)
+**Parent Topic:**[Breakdown Management](breakdown-analysis.md)
 

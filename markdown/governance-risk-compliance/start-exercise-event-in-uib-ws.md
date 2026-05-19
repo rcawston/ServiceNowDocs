@@ -25,7 +25,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 2.  Fill in the required fields in the **Details** tab.
 
-    For more information on the fields, see [Create Exercise Event form](../reference/create-exercise-event-ref-form.md).
+    For more information on the fields, see [Create Exercise Event form](create-exercise-event-ref-form.md).
 
     The exercise event is created in the **Pending** state and it is displayed in the List view. The state and details of the exercise event are displayed in the tabs:
 
@@ -54,8 +54,8 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     The event is saved in the **Pending** state.
 
 
--   **[Create Exercise Event form](../reference/create-exercise-event-ref-form.md)**  
+-   **[Create Exercise Event form](create-exercise-event-ref-form.md)**  
 Use the Create Exercise Event form in BCM UIB Workspace to add details about an Exercise event.
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
 

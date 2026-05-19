@@ -25,5 +25,5 @@ The following system properties, located in **Geolocation** &gt; **Administratio
 -   Number of days to keep history data: Time period for which the system retains history data.
 -   Minimum amount of time between updating the user's location \(in seconds\): Time period the system waits before updating a user's location, regardless of how often the user accesses tasks.
 
-**Parent Topic:**[Geolocation](../concept/c_Geolocation.md)
+**Parent Topic:**[Geolocation](c_Geolocation.md)
 

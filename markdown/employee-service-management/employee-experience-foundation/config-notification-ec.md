@@ -29,7 +29,7 @@ Role required: notification\_provider\_admin
 
 3.  On the Portal notification configuration form, fill in the fields.
 
-    For a description of the field values, see [Portal notification configuration form](../reference/portal-notif-config-form.md).
+    For a description of the field values, see [Portal notification configuration form](portal-notif-config-form.md).
 
     You can also configure the notification content and the trigger conditions for each notification type. For more information, see [Configure notification content for portal](config-notif-content.md) and [Configure notification triggers](setup-notif-content-triggers.md).
 

@@ -53,7 +53,7 @@ Configure the profile so that it runs only when the conditions you specify are f
 
     Additional Configuration: When the Configuration item \(CI\) field is not populated on the security incident with a host name, or an IP address that matches the database, you can select an alternate field on the security incident to query the Microsoft Defender for Endpoint APIs.
 
-    **Note:** For more information, see [Trigger conditions in a configuration item](../reference/trigger-conditions-configuration-item.md).
+    **Note:** For more information, see [Trigger conditions in a configuration item](trigger-conditions-configuration-item.md).
 
     1.  Select the **Define Alternative Field** option.
 

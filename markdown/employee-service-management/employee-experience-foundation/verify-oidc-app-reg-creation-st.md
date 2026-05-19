@@ -70,7 +70,7 @@ For more information, see [Create a Microsoft Teams application registry entry t
 
 ## What to do next
 
-[Configure Notify connector for Microsoft Teams](../concept/config-notify-ms-teams.md).
+[Configure Notify connector for Microsoft Teams](config-notify-ms-teams.md).
 
-**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](../concept/setup-notify-ms-teams-single-tenant.md)
+**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](setup-notify-ms-teams-single-tenant.md)
 

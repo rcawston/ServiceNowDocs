@@ -24,9 +24,9 @@ You can grant specific agents access to read particular policies. By creating se
 **Related topics**  
 
 
-[Create an insurance policy table](../task/create-an-insurance-policy-table.md)
+[Create an insurance policy table](create-an-insurance-policy-table.md)
 
-[Create a role to access insurance policy tables](../task/create-roles-acls-and-grant-access.md)
+[Create a role to access insurance policy tables](create-roles-acls-and-grant-access.md)
 
-[Create an insurance policy](../task/create-an-insurance-policy-for-a-consumer.md)
+[Create an insurance policy](create-an-insurance-policy-for-a-consumer.md)
 

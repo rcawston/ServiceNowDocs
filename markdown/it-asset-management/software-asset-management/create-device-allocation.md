@@ -49,7 +49,7 @@ Role required: sam\_admin or sam\_user
 -   Device allocation record is created for the device and listed in the **Device Allocations** tab.
 -   The device allocation record is saved in the Device Allocations \[alm\_entitlement\_asset\] table.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 
 **Related topics**  
 
@@ -58,5 +58,5 @@ Role required: sam\_admin or sam\_user
 
 [Create entitlements in workspace](create-entitlements-workspace.md)
 
-[Allocation management on Software Asset Management](../concept/allocation-management-sam.md)
+[Allocation management on Software Asset Management](allocation-management-sam.md)
 

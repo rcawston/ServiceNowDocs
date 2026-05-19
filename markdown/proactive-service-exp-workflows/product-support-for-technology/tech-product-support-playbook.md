@@ -230,7 +230,7 @@ These sections can be expanded and collapsed to display the fields within each s
 
 The Workspace form view also includes a menu with additional form actions, such as personalizing the form, exporting data, and copying the URL.
 
-For more information about the fields that appear in these sections, see [Tech Product Support Case table](../reference/tech-product-support-case-table.md).
+For more information about the fields that appear in these sections, see [Tech Product Support Case table](tech-product-support-case-table.md).
 
 </td></tr></tbody>
 </table>## Action bar

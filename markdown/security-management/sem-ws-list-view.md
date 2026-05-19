@@ -28,7 +28,7 @@ Role required:
 
 2.  Select the **List** icon.
 
-    The consolidated list of records, remediation tasks, remediation efforts, libraries are displayed. For more information on the type of lists on the List page, see [Security Exposure Management Workspace List view](../concept/sem-workspace-list-page.md).
+    The consolidated list of records, remediation tasks, remediation efforts, libraries are displayed. For more information on the type of lists on the List page, see [Security Exposure Management Workspace List view](sem-workspace-list-page.md).
 
 3.  Select **My Lists** to create a list.
 
@@ -126,5 +126,5 @@ Select a cell in a column and refine the data displayed by choosing one:-   Show
 -   **[Create a customized list of records](sem-create-custom-list.md)**  
 You can create a customized list in the Security Exposure Management Workspace.
 
-**Parent Topic:**[Using Unified Security Exposure Management](../concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](using-unified-security-exposure-management.md)
 

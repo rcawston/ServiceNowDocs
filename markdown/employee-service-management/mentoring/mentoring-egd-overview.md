@@ -21,25 +21,25 @@ Mentoring has the following features:
 
 ## Enrollment
 
-Employees can choose to enroll as either a Mentee/Mentor or as both roles by indicating their enrollment preferences – skills, focus areas and other preference for mentorship. For more information, see [Enroll as a mentor or mentee](../task/enroll-mentoring.md).
+Employees can choose to enroll as either a Mentee/Mentor or as both roles by indicating their enrollment preferences – skills, focus areas and other preference for mentorship. For more information, see [Enroll as a mentor or mentee](enroll-mentoring.md).
 
 ## Skills Preferences
 
-Mentees can choose skills as of one of their Mentorship enrollment preferences. Mentors can choose skills that they can provide mentorship assistance. For more information, see [Search and add skills](../task/search-add-skills-mentoring.md).
+Mentees can choose skills as of one of their Mentorship enrollment preferences. Mentors can choose skills that they can provide mentorship assistance. For more information, see [Search and add skills](search-add-skills-mentoring.md).
 
 ## Suggested Mentors
 
-Enrolled Mentees can instantly view Mentor suggestions based on their enrollment preferences and also view additional match insights &amp; mentor expertise to be able to choose an appropriate mentor. For more information, see [View suggested mentors](../task/view-suggested-mentors.md).
+Enrolled Mentees can instantly view Mentor suggestions based on their enrollment preferences and also view additional match insights &amp; mentor expertise to be able to choose an appropriate mentor. For more information, see [View suggested mentors](view-suggested-mentors.md).
 
 ## Mentor Search
 
 Employees can search for mentors by name, job profile. They can also use additional filters to search from the list of mentors.
 
-For more information, see [Search for a mentor](../task/search-mentors-egd.md).
+For more information, see [Search for a mentor](search-mentors-egd.md).
 
 ## Match Insights Card
 
-Employees, both mentees and mentors can view the match insights based on the match score calculated based on the skills and preferences set by them. For more information, see [View match insights](../task/view-match-insights.md).
+Employees, both mentees and mentors can view the match insights based on the match score calculated based on the skills and preferences set by them. For more information, see [View match insights](view-match-insights.md).
 
 ## Get started
 
@@ -57,7 +57,7 @@ Employees, both mentees and mentors can view the match insights based on the mat
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-documentation.svg)Get details about components like fields and properties](../reference/mentoring-egd-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-documentation.svg)Get details about components like fields and properties](mentoring-egd-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

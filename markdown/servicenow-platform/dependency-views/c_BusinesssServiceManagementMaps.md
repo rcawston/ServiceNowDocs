@@ -17,7 +17,7 @@ ServiceNow® Dependency Views graphically displays an infrastructure view for a 
 
 If Service Mapping is activated, Dependency Views maps are enhanced to display dependencies that reflect connections in service maps.
 
-As an alternative to Dependency Views, you can use [Unified Map](../../configuration-management/reference/unified-map-landing-page.md) in the [CMDB Workspace store app](../../configuration-management/concept/cmdb-workspace.md)or in the [Service Graph Workspace store app](../../configuration-management/concept/sg-workspace.md).
+As an alternative to Dependency Views, you can use [Unified Map](../unified-map/unified-map-landing-page.md) in the [CMDB Workspace store app](../configuration-management-database-cmdb/cmdb-workspace.md)or in the [Service Graph Workspace store app](../configuration-management-database-cmdb/sg-workspace.md).
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
@@ -30,24 +30,24 @@ Explore
 
 Administer
 
- -   [Create or modify map indicators](../task/t_CreateModifyNGBSMMapIndicators.md)
--   [Create or modify map icons](../task/t_CreateModifyNGBSMMapIcons.md)
--   [Create a predefined filter](../task/create-predefined-filter.md)
--   [Create or modify Map Related Items](../task/t_CreateModifyNGBSMMapRelatedItems.md)
--   [Create or modify Dependency Views menu actions](../task/t_CreateModifyNGBSMMenuActions.md)
--   [Create or edit a dependency type](../task/t_CreateMapScript.md)
+ -   [Create or modify map indicators](t_CreateModifyNGBSMMapIndicators.md)
+-   [Create or modify map icons](t_CreateModifyNGBSMMapIcons.md)
+-   [Create a predefined filter](create-predefined-filter.md)
+-   [Create or modify Map Related Items](t_CreateModifyNGBSMMapRelatedItems.md)
+-   [Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
+-   [Create or edit a dependency type](t_CreateMapScript.md)
 
 </td><td>
 
 Use
 
  -   [Dependency Views map](c_NextGenBSMMaps.md)
--   [Dependency Views map menus and controls](../reference/r_NGBSMMenus.md)
--   [View a Dependency Views map](../task/t_AccessNGBSM.md)
--   [Change the layout of Dependency Views map](../task/t_ChangeLayoutNGBSMMap.md)
--   [Filter the view of a Dependency Views map](../task/t_FilterViewNGBSMMap.md)
--   [Perform actions on nodes in a Dependency Views map](../task/t_PerformActionsOnNGBSMMap.md)
--   [Supported browsers for Dependency Views](../reference/r_SupportedBrowsersForNGBSM.md)
+-   [Dependency Views map menus and controls](r_NGBSMMenus.md)
+-   [View a Dependency Views map](t_AccessNGBSM.md)
+-   [Change the layout of Dependency Views map](t_ChangeLayoutNGBSMMap.md)
+-   [Filter the view of a Dependency Views map](t_FilterViewNGBSMMap.md)
+-   [Perform actions on nodes in a Dependency Views map](t_PerformActionsOnNGBSMMap.md)
+-   [Supported browsers for Dependency Views](r_SupportedBrowsersForNGBSM.md)
 
 </td></tr><tr><td>
 
@@ -55,8 +55,8 @@ Develop
 
  -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
--   [Properties for Dependency Views](../reference/properties-dependency-views.md)
--   [Components installed with Dependency Views](../reference/r_InstalledWithDependencyViews.md)
+-   [Properties for Dependency Views](properties-dependency-views.md)
+-   [Components installed with Dependency Views](r_InstalledWithDependencyViews.md)
 
 </td><td>
 

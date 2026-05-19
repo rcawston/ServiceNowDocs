@@ -75,5 +75,5 @@ Your connector admin needs these items to configure an Adobe Experience Manager 
 
 For details on creating and configuring an Adobe Experience Manager as a Cloud Service external content connector, see [Create an Adobe Experience Manager as a Cloud Service external content connector](create-ext-cont-connector-adobe-expmgr-cs.md).
 
-**Parent Topic:**[Adobe Experience Manager as a Cloud Service external content connector](../concept/adobe-expmgr-cs-external-content-connector.md)
+**Parent Topic:**[Adobe Experience Manager as a Cloud Service external content connector](adobe-expmgr-cs-external-content-connector.md)
 

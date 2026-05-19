@@ -54,5 +54,5 @@ On the Project Task form, a notification appears at the top specifying that the 
 **Related topics**  
 
 
-[Change requests and project tasks](../concept/c_ChangeRequestsAndProjectTasks.md)
+[Change requests and project tasks](c_ChangeRequestsAndProjectTasks.md)
 

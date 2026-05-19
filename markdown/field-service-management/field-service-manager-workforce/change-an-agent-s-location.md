@@ -21,7 +21,7 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner, sn\_fsm\_tp.fsm\_territory\_
 
 ## About this task
 
-You can move the map marker icons from the current location to the new location only when the `Enable location change on map` field is selected and a valid `Script` is provided while creating the marker layer overlays. For more information, see [Create a marker layer overlay](../concept/configuring-map-overlay.md#).
+You can move the map marker icons from the current location to the new location only when the `Enable location change on map` field is selected and a valid `Script` is provided while creating the marker layer overlays. For more information, see [Create a marker layer overlay](../configuring-map-overlay.md#).
 
 ## Procedure
 
@@ -49,7 +49,7 @@ Do the following
 
 **Note:**
 
-You can move the map marker icon from the current location to the new location only when the `Enable location change on map` field is selected and a valid `Script` is provided while creating the marker layer overlays. For more information, see [Create a marker layer overlay](../concept/configuring-map-overlay.md#).
+You can move the map marker icon from the current location to the new location only when the `Enable location change on map` field is selected and a valid `Script` is provided while creating the marker layer overlays. For more information, see [Create a marker layer overlay](../configuring-map-overlay.md#).
 
 -   Drag and drop the map marker to the desired location or enter the address manually in the **New Location** field.
 

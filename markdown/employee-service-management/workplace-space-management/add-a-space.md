@@ -55,7 +55,7 @@ Name
 
 Name of the space.Ensure that you enter a unique name. For example, use the location name `<location-name>-16` rather than just `16`.
 
-**Note:** Do not use duplicate names as it may affect the reservation process. If you change the name of a building after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+**Note:** Do not use duplicate names as it may affect the reservation process. If you change the name of a building after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 </td></tr><tr><td>
 
@@ -179,7 +179,7 @@ Space type
 
 </td><td>
 
-Type of the office space. To configure a new space type, see [Add a space type configuration](../../workplace-service-delivery/task/add-space-type-configuration-wsd.md).
+Type of the office space. To configure a new space type, see [Add a space type configuration](../workplace-core/add-space-type-configuration-wsd.md).
 
 </td></tr><tr><td>
 
@@ -291,14 +291,14 @@ Size Square Feet
 
 </td><td>
 
-Surface area computed in square feet or square meters.Ability to compute surface area automatically in square meters or square feet from the CAD polylines if polylines are defined as closed shapes or if a unit is set. For more information, see [Compute CAD file properties to extract space or room surface area](../../wsd-indoor-mapping/task/compute-cad-properties.md).
+Surface area computed in square feet or square meters.Ability to compute surface area automatically in square meters or square feet from the CAD polylines if polylines are defined as closed shapes or if a unit is set. For more information, see [Compute CAD file properties to extract space or room surface area](../indoor-mapping/compute-cad-properties.md).
 
 </td></tr></tbody>
 </table>6.  Select **Create QR code** to generate and print QR codes for this space.
 
 7.  Select **Unlink Space** to unlink a space from Indoor Mapping map provider.
 
-    For more information about how to link and synchronize Indoor Mapping map data objects with Workplace Indoor Mapping see, [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+    For more information about how to link and synchronize Indoor Mapping map data objects with Workplace Indoor Mapping see, [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 8.  Select **Block location** to define a time period to block these locations for reservation.
 
@@ -324,16 +324,16 @@ Add an allocation, that is, associate the space to a cost center, department and
 -   **[Configure a space type as usable with Workplace Space Management](assign-a-space-as-usable.md)**  
 Specify if a space type is usable or not by using the Space type configuration functionality. Specify if the space can or cannot be used for reservations.
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
 [Add a campus](add-a-campus.md)
 
-[Add a building using Workplace Space Management](add-new-building-1.md)
+[Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](add-a-floor-1.md)
+[Add a floor using Workplace Space Management](../employee-service-management/add-a-floor-1.md)
 
 [Add an area using Workplace Space Management](add-an-area.md)
 
@@ -357,5 +357,5 @@ Specify if a space type is usable or not by using the Space type configuration f
 
 [Create a view-by configuration](create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](reviewing-allocation-changes.md)
 

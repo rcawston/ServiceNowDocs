@@ -44,5 +44,5 @@ Role required: sn\_uni\_task.template\_admin
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Universal Task templates](../concept/ut-task-template-landing.md)
+**Parent Topic:**[Universal Task templates](ut-task-template-landing.md)
 

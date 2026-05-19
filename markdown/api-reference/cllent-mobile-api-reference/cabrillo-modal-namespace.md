@@ -15,7 +15,7 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 Cabrillo JS functions for presenting web content inside of native modals.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](api-client-mobile.md)
 
 ## cabrillo.modal - dismissModal\(Object data\)
 
@@ -101,7 +101,7 @@ Close button style of the modal interface. Possible values:
 -   cabrillo.modal.CLOSE\_BUTTON\_STYLE\_CLOSE
 -   cabrillo.modal.CLOSE\_BUTTON\_STYLE\_DONE
 
-For more information, see [Cabrillo JS constants - close button styles](../../namespace-topics/concept/cabrillo-constants.md#).
+For more information, see [Cabrillo JS constants - close button styles](cabrillo-constants.md#).
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Presentation style of the modal interface. Possible values:
 -   cabrillo.modal.MODAL\_PRESENTATION\_STYLE\_FULL\_SCREEN
 -   cabrillo.modal.MODAL\_PRESENTATION\_STYLE\_FORM\_SHEET
 
-For more information, see [Cabrillo JS constants - modal presentation styles](../../namespace-topics/concept/cabrillo-constants.md#).
+For more information, see [Cabrillo JS constants - modal presentation styles](cabrillo-constants.md#).
 
 **Note:** This parameter is only supported on Apple iOS.
 

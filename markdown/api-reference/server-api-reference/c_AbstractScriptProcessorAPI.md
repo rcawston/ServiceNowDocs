@@ -17,7 +17,7 @@ The AbstractScriptProcessor script include is a base JavaScript processor class 
 
 Extend this class to create your own JavaScript processors.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## AbstractScriptProcessor - initialize\(String request, String response, String process\)
 

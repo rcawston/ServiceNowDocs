@@ -42,5 +42,5 @@ Once you clear credentials from the current instance, the ServiceNow Extensions 
     **Note:** To re-enter your credentials, navigate to **Code** **Preferences** **Settings** **Workspace** **Extensions** **Now**. Enter your credentials in **Username** and **Password** fields.
 
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
 

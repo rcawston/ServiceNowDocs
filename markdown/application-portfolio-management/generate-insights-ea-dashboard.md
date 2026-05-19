@@ -151,12 +151,12 @@ Use this option to enable Now Assist to generate its own insights into the widge
         ![Screenshot of the AI Data Explorer window displaying the more actions drop-down menu.](../image/explore-ai-share.png)
 
 
-**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](../concept/using-now-assist-for-ea.md)
+**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)
 
 **Related topics**  
 
 
 [Configure AI Data Explorer and Query Generation skills](configure-ai-data-explr-qry-genr-skills.md)
 
-[Explore the Enterprise Architecture Workspace dashboard](../../../use/dashboards/concept/eaw-workspace-dashboard.md)
+[Explore the Enterprise Architecture Workspace dashboard](eaw-workspace-dashboard.md)
 

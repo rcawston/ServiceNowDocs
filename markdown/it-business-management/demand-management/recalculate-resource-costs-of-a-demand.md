@@ -26,7 +26,7 @@ Role required: demand\_manager
 
 ## About this task
 
-This option recalculates the costs of all resource assignments of the demand at once. You can also open a resource assignment from the **Resource assignments** related list to [recalculate the resource costs of an individual resource assignment](../../resource-management/task/recalculate-resource-costs.md).
+This option recalculates the costs of all resource assignments of the demand at once. You can also open a resource assignment from the **Resource assignments** related list to [recalculate the resource costs of an individual resource assignment](../resource-management/recalculate-resource-costs.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ This option recalculates the costs of all resource assignments of the demand at 
 
 4.  In the Recalculate Resource Cost form, fill in the fields.
 
-    For a description of the field names, see [Recalculate resource costs form](../reference/recalculate-resource-costs-form.md).
+    For a description of the field names, see [Recalculate resource costs form](recalculate-resource-costs-form.md).
 
 5.  Select **OK**.
 

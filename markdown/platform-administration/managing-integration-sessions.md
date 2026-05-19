@@ -62,7 +62,7 @@ Integrations are logged out of the instance after the time specified and their c
 **Related topics**  
 
 
-[Configure a maximum active time for user sessions](../../administer/user-sessions/concept/c_ManageUserSessions.md#)
+[Configure a maximum active time for user sessions](user-administration/c_ManageUserSessions.md#)
 
 ## Modify integration session timeout after inactivity
 
@@ -97,5 +97,5 @@ By default, after one minute of inactivity, the platform ends an integration ses
 **Related topics**  
 
 
-[Modify user session timeout after inactivity](../../administer/user-sessions/concept/c_ManageUserSessions.md#)
+[Modify user session timeout after inactivity](user-administration/c_ManageUserSessions.md#)
 

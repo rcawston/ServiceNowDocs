@@ -85,7 +85,7 @@ Manage Developers
 
 Modal that enables the application-specific admin to manage these tasks: -   Designate developers for the application.
 -   Make themselves a delegated developer. After the application-specific admin becomes a delegated developer, the application-specific admin can perform a subset of administration tasks without having the system-level admin role.
- Learn more: [Delegated development and deployment](../concept/c_DelegatedDevelopment.md)
+ Learn more: [Delegated development and deployment](delegated-development-and-deployment/c_DelegatedDevelopment.md)
 
 </td></tr><tr><td>
 

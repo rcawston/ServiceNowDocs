@@ -115,7 +115,7 @@ As a trainee, you can get trained to address your skill gaps.
 **Related topics**  
 
 
-[Setting up skill prediction in Workforce Optimization for Customer Service](../task/setting-up-skill-prediction-configurable-cs.md#)
+[Setting up skill prediction in Workforce Optimization for Customer Service](setting-up-skill-prediction-configurable-cs.md#)
 
 [Coaching in Workforce Optimization for Customer Service](coaching-configurable-wfo-cs.md#)
 

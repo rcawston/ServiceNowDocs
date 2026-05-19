@@ -61,7 +61,7 @@ Created as part of log analytics event processing.
 
 </td><td>
 
-[Kinds of Health Log Analytics alerts](../../health-log-analytics-operator/reference/hla-op-log-analytics-alert-types.md)
+[Kinds of Health Log Analytics alerts](../health-log-analytics/hla-op-log-analytics-alert-types.md)
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Created via business rule \(Calculate correlation rule\) on em\_alert table when
 </td><td>
 
 -   [Rule-based alert grouping](c_EMEventCorrelationRules.md)
--   [Create an alert correlation rule](../task/t_EMConfigureAnEventCorrelationRule.md)
+-   [Create an alert correlation rule](t_EMConfigureAnEventCorrelationRule.md)
 
 </td></tr><tr><td>
 
@@ -204,8 +204,8 @@ Created manually by the user.
 
 </td><td>
 
-[Manual alert grouping](../task/t_SAAddAlertCorrelatedAlertGrp.md)
+[Manual alert grouping](t_SAAddAlertCorrelatedAlertGrp.md)
 
 </td></tr></tbody>
-</table>For information on scheduled jobs and parameters, refer to [Scheduled jobs and parameters for alert grouping](alert-grp-jobs-parameters.md). For detailed information on configuring alert correlation logic order, see [Configure alert correlation logic order](../task/configure-alert-correlation-logic-order.md).
+</table>For information on scheduled jobs and parameters, refer to [Scheduled jobs and parameters for alert grouping](alert-grp-jobs-parameters.md). For detailed information on configuring alert correlation logic order, see [Configure alert correlation logic order](configure-alert-correlation-logic-order.md).
 

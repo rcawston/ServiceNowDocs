@@ -17,7 +17,7 @@ Source parts from your preferred stockrooms or assignment groups to ensure work 
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../../planning-and-policy/reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 

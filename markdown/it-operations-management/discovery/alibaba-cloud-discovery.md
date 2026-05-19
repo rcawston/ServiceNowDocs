@@ -29,7 +29,7 @@ Patterns also support OS level discovery, for example OS images.
 
 Discovery and Service Mapping Patterns create configuration items \(CIs\) for your Alibaba Cloud resources. Additionally, patterns discover the relationships between your organization's Alibaba Cloud resources, such as Hosted On :: Hosts.
 
-See [Alibaba Cloud discovery using patterns](../../service-mapping/concept/alibaba-cloud-discovery-pattern.md) to learn about all Alibaba Cloud resources you can discover using Patterns.
+See [Alibaba Cloud discovery using patterns](../discovery-and-service-mapping-patterns/alibaba-cloud-discovery-pattern.md) to learn about all Alibaba Cloud resources you can discover using Patterns.
 
 ## Verify the REST API Permissions
 
@@ -83,7 +83,7 @@ Install the store applications and update them on every store release:-   Discov
 
 </td><td>
 
-[ITOM Store upgrades](store-upgrades-landing.md)
+[ITOM Store upgrades](../store-upgrades-landing.md)
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Install a MID Server.
 
 -   [Install a MID Server on Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_InstallAMIDServerOnLinux.md)
 -   [Install a MID Server on Windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md)
--   [Install and configure MID Servers to access cloud environments](../../it-operations-management/task/mid-server-configuration-cloud.md)
+-   [Install and configure MID Servers to access cloud environments](../mid-server-configuration-cloud.md)
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ Creating Alibaba Cloud service accounts
 
 </td><td>
 
-[Set up Alibaba Cloud service accounts](../task/set-up-alibaba-cloud-service-account.md)
+[Set up Alibaba Cloud service accounts](set-up-alibaba-cloud-service-account.md)
 
 </td></tr><tr><td>
 
@@ -182,7 +182,7 @@ Configuring Alibaba Cloud API credentials
 
 </td><td>
 
-[Create Alibaba Cloud API Credentials](../task/create-alibaba-cloud-api-credentials.md)
+[Create Alibaba Cloud API Credentials](create-alibaba-cloud-api-credentials.md)
 
 </td></tr><tr><td>
 
@@ -198,7 +198,7 @@ Use Discovery and Service Mapping Patterns
 
 </td><td>
 
-[Alibaba Cloud discovery using patterns](../../service-mapping/concept/alibaba-cloud-discovery-pattern.md)
+[Alibaba Cloud discovery using patterns](../discovery-and-service-mapping-patterns/alibaba-cloud-discovery-pattern.md)
 
 </td></tr><tr><td>
 
@@ -214,17 +214,17 @@ Set up a discovery schedule for Alibaba Cloud
 
 </td><td>
 
--   [Create a Discovery schedule for Alibaba Cloud](../task/create-alibaba-cloud-discovery-schedule.md)
--   [Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](../task/create-alibaba-schedule-DAW.md)
+-   [Create a Discovery schedule for Alibaba Cloud](create-alibaba-cloud-discovery-schedule.md)
+-   [Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](create-alibaba-schedule-DAW.md)
 
 </td></tr></tbody>
-</table>-   **[Create Alibaba Cloud API Credentials](../task/create-alibaba-cloud-api-credentials.md)**  
+</table>-   **[Create Alibaba Cloud API Credentials](create-alibaba-cloud-api-credentials.md)**  
 Create Alibaba Cloud API credentials on the ServiceNow AI Platform to enable access to your Alibaba Cloud resources during Alibaba Cloud discovery.
--   **[Set up Alibaba Cloud service accounts](../task/set-up-alibaba-cloud-service-account.md)**  
+-   **[Set up Alibaba Cloud service accounts](set-up-alibaba-cloud-service-account.md)**  
 Create Alibaba Cloud infrastructure service accounts on the ServiceNow AI Platform to access your Alibaba Cloud account during Alibaba Cloud discovery.
--   **[Create a Discovery schedule for Alibaba Cloud](../task/create-alibaba-cloud-discovery-schedule.md)**  
+-   **[Create a Discovery schedule for Alibaba Cloud](create-alibaba-cloud-discovery-schedule.md)**  
 Create a Discovery schedule to run Alibaba Cloud discovery.
--   **[Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](../task/create-alibaba-schedule-DAW.md)**  
+-   **[Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](create-alibaba-schedule-DAW.md)**  
 Use the Discovery Admin Workspace dashboard to create an Alibaba Cloud Discovery schedule.
 
 **Parent Topic:**[Discovery for cloud environment](cloud-discovery-wizard.md)

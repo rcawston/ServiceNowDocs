@@ -397,7 +397,7 @@ For example: In case if you have selected space arrangements as an extra service
 -   Application tries to retain the services. In case while updating a reservation, the space or location is not changed, then the services are visible and employees can update the reservation after changing the date and time.
 -   In case, if space or location is changed while updating a reservation, then the application tries to propose the available services and applicable for a new location. Employees must select the suggested services and add it to their reservation while updating it.
 -   In case if you are adding a space while updating a reservation, then you must add the services manually.
-**Note:** In case, if you add a service item, a new case is created. If you update the reservation date, time, or location and update services by retaining or discarding them, then a reference is added to the new service \(replacement case for\) on the new case record and also a reference is added to the old service. A summary is added to the new case for items that are added, updated, or removed. For more information, see [View and track workplace cases](../../workplace-case-mgmt/task/view-workplace-cases.md).
+**Note:** In case, if you add a service item, a new case is created. If you update the reservation date, time, or location and update services by retaining or discarding them, then a reference is added to the new service \(replacement case for\) on the new case record and also a reference is added to the old service. A summary is added to the new case for items that are added, updated, or removed. For more information, see [View and track workplace cases](../workplace-case-management/view-workplace-cases.md).
 
 </td></tr><tr><td>
 
@@ -426,7 +426,7 @@ Click **Remove** to remove the services from a reservation. A confirmation messa
 
 16. When you update a reservation, the Reservation details page shows the **Retain extra services** option to retain the services from the previous location and reservation.
 
-    For more information about how to retain services, see [Create a reservation](create-reservation-request-1.md).
+    For more information about how to retain services, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 17. Click **Submit reservation**.
 
@@ -482,7 +482,7 @@ Click **Remove** to remove the services from a reservation. A confirmation messa
 
 25. An email notification is sent with the details of your reservation and the reservation is updated with your changes.
 
-    In case of multi-day, reservation, the email notification contains the multi-day reservation details along with the number of days and hours a space is reserved for. For more information, about sharing a reservation, see [Create a reservation](create-reservation-request-1.md).
+    In case of multi-day, reservation, the email notification contains the multi-day reservation details along with the number of days and hours a space is reserved for. For more information, about sharing a reservation, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
     ![Email notification for multi-day reservation showing the number of days a space has been reserved for.](../image/wsd-email-notification-multi-day.png)
 
@@ -596,17 +596,17 @@ Review your reservation details on the Reservation summary page.
     -   When a reservation is created, they will receive an email notification that they are invited to the reservation.
     -   When a reservation is cancelled or updated.
     -   When an invitee or visitor is removed from the reservation, they will receive an email notification that the invite has been canceled for them.
-    **Note:** If push notifications are enabled in your organization and you have the Workplace Service Delivery for Mobile application, you will receive notifications for your reservation on your mobile device. For more information on reservation-related push notifications, see [Mobile push notifications for workplace reservations](../reference/reservation-push-notifications.md).
+    **Note:** If push notifications are enabled in your organization and you have the Workplace Service Delivery for Mobile application, you will receive notifications for your reservation on your mobile device. For more information on reservation-related push notifications, see [Mobile push notifications for workplace reservations](reservation-push-notifications.md).
 
     For more information about making multi-day reservation using the Space Details page, see [Set a location as favorite using the Space details page](set-a-location-as-favorite.md).
 
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -620,7 +620,7 @@ Review your reservation details on the Reservation summary page.
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

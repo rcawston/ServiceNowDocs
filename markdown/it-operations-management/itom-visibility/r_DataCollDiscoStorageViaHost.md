@@ -822,5 +822,5 @@ computer
 -   Windows - Storage 2012
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Storage discovery](../concept/c_Storage.md)
+</table>**Parent Topic:**[Storage discovery](c_Storage.md)
 

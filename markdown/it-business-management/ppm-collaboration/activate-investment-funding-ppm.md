@@ -47,14 +47,14 @@ The plugin activates the related plugins if they are not already active. It also
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[PPM Standard \(Project Portfolio Management\)](../../project-portfolio-suite-with-financials/concept/c_ProjectPortfolioSuiteWithFinancials.md)
+**Parent Topic:**[PPM Standard \(Project Portfolio Management\)](c_ProjectPortfolioSuiteWithFinancials.md)
 
 **Related topics**  
 
 
-[Currencies and budget reference rates](../../project-management/concept/c_BudgetReferenceRates.md)
+[Currencies and budget reference rates](c_BudgetReferenceRates.md)
 
-[Install Investment Funding](activate-investment-funding.md)
+[Install Investment Funding](../investment-funding/activate-investment-funding.md)
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

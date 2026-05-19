@@ -17,8 +17,8 @@ Manage your work, task assignments, requests, approvals, and other follow-up act
 
 Starting with New York, the following applications provide mobile access:
 
--   [Managing mobile experience for GRC Policy and Compliance](../../grc-policy-and-compliance/concept/mobile-policy_compliance-ovrvw.md)
--   [Mobile experience for GRC Risk Management](../../grc-risk/concept/mobile-risk-overview.md)
+-   [Managing mobile experience for GRC Policy and Compliance](../policy-and-compliance-management/mobile-policy_compliance-ovrvw.md)
+-   [Mobile experience for GRC Risk Management](../grc-risk-management-workspace/mobile-risk-overview.md)
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
 

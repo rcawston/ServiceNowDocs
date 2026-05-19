@@ -24,7 +24,7 @@ Security Incident Response supports two types of Playbooks:
 
 In addition to the listed playbooks, there are also subflows in Security Operations Spoke that can be called from the flows playbook. Ransomware is one of that subflows.
 
-Activate these flows before you use them. For more information, see [Activate a Security Incident Response flow](../task/getting-started-phishing-playbook.md).
+Activate these flows before you use them. For more information, see [Activate a Security Incident Response flow](getting-started-phishing-playbook.md).
 
 -   **[Process-based Playbooks](playbooks-process-based.md)**  
 The playbook component works only for playbooks built in Workflow Studio and not for flows. However, existing flow-based playbooks will continue to work and the activities will be continuing to be rendered as response tasks.

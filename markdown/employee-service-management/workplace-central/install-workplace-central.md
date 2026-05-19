@@ -61,7 +61,7 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configure Workplace Central](../concept/configure-workplace-central.md)
+**Parent Topic:**[Configure Workplace Central](configure-workplace-central.md)
 
 **Related topics**  
 

@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the Discovery patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
 
-For information about performing a container image scan, see [Scan container images](../task/container-image-task.md).
+For information about performing a container image scan, see [Scan container images](container-image-task.md).
 
 The Scan Container Image pattern supports Aqua Trivy starting with version 0.44.0. The last version validated is 0.68.2.
 
@@ -34,7 +34,7 @@ Starting with Discovery and Service Mapping Patterns version 1.18.0, the Scan Co
 -   Self-hosted private repositories
 -   Amazon Elastic Container Registry \(Amazon ECR\), both public and private repositories
 
-Starting with version 1.27.0, Discovery and Service Mapping Patterns enables you to control whether to link software packages to containers or only to images. For more information, see [Link software package information to images only](../task/link-software-package-only-image.md).
+Starting with version 1.27.0, Discovery and Service Mapping Patterns enables you to control whether to link software packages to containers or only to images. For more information, see [Link software package information to images only](link-software-package-only-image.md).
 
 ## Data collected by Discovery for container image scans
 
@@ -330,12 +330,12 @@ Runs::Runs on
 cmdb\_ci\_docker\_container
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Container image scanning for software decomposition](../concept/container-image-concept.md)
+</table>**Parent Topic:**[Container image scanning for software decomposition](container-image-concept.md)
 
 **Related topics**  
 
 
-[Docker virtualization](../../discovery/concept/c-docker-virtualization.md)
+[Docker virtualization](../itom-visibility/c-docker-virtualization.md)
 
-[Kubernetes discovery using patterns](../concept/kubernetes-discovery.md)
+[Kubernetes discovery using patterns](kubernetes-discovery.md)
 

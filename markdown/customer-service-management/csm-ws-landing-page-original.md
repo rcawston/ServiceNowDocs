@@ -84,7 +84,7 @@ Select an indicator to display either a filtered list of records or a KPI detail
 </td></tr></tbody>
 </table>## Create a landing page for CSM Configurable Workspace
 
-Use UI Builder to create landing pages for your agents. For more information, see [Create a CSM Configurable Workspace landing page](../task/config-csm-config-ws-landing-page.md).
+Use UI Builder to create landing pages for your agents. For more information, see [Create a CSM Configurable Workspace landing page](config-csm-config-ws-landing-page.md).
 
 ## Create multiple landing pages
 

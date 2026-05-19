@@ -37,5 +37,5 @@ Use the Attachments tab to add supporting attachments to the journey, if needed.
 -   **[Employees view and complete journeys](jny-dsgnr-employee-journey-tasks.md)**  
 Employees have access to the journeys that are assigned to them.
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)
 

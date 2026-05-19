@@ -47,7 +47,7 @@ Test generation has the following users.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Automate test generation|[Generate a test using Test generation](../task/tg-implement.md)|System Administrator and Creator Pro|
+|Automate test generation|[Generate a test using Test generation](tg-implement.md)|System Administrator and Creator Pro|
 |Edit a generated test after the preview|[Edit a generated test using Test generation](tg-edit-test.md)|System Administrator and Creator Pro|
 
 ## What to explore next

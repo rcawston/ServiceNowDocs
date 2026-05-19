@@ -162,5 +162,5 @@ Additional comments \(Customer visible\)
 Additional information about the feedback that you want to share with the customers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create feedback in the Risk Workspace](../task/create-feedback.md)
+</table>**Parent Topic:**[Create feedback in the Risk Workspace](create-feedback.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Secrets Management, Platform Security]
 
 Use ServiceNow Secrets Management for granular management of access to your passwords to fit your business needs.
 
-**Important:** Admins must have the role to see modules and records related to Secrets Management. For secrets management role information, see [Secrets Management roles](../reference/roles-sec-man.md#).
+**Important:** Admins must have the role to see modules and records related to Secrets Management. For secrets management role information, see [Secrets Management roles](roles-sec-man.md#).
 
 ## Select from Core and Enterprise versions of Secrets Management
 
@@ -108,7 +108,7 @@ For client-side secret groups, Secrets Management uses a new encryption scheme. 
 </td></tr></tbody>
 </table>## Apply module access policies to your groups
 
-After you’ve grouped your secrets into a secret group, you can apply policies that determine how you can access them at a group level. Module access policies are the access control mechanisms that you apply to cryptographic modules to define instance-level controls, such as a validity time frame for the cryptographic key. For more information on module access policies, see [Module access policy overview](../../key-management-framework/concept/module_access_policy_overview.md).
+After you’ve grouped your secrets into a secret group, you can apply policies that determine how you can access them at a group level. Module access policies are the access control mechanisms that you apply to cryptographic modules to define instance-level controls, such as a validity time frame for the cryptographic key. For more information on module access policies, see [Module access policy overview](platform-encryption/module_access_policy_overview.md).
 
 ## Tables installed with Secrets Management
 

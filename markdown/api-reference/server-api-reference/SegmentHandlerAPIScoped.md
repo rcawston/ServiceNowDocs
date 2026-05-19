@@ -24,11 +24,11 @@ The SegmentHandler class:
 -   Owns the root data object and the IDoc segment schema.
 -   Enables creating top-level segments. For example, `E1EDK01`, `E1EDP01`, and so on.
 
-For handling lower-level instances of a segment, such as a header or item, refer to [SegmentHandle API - Scoped](../../SegmentHandleScoped/concept/SegmentHandleAPIScoped.md#).
+For handling lower-level instances of a segment, such as a header or item, refer to [SegmentHandle API - Scoped](SegmentHandleAPIScoped.md#).
 
-See also [sn\_erp\_integration API - Scoped, Global](../../sn_erp_integrationBoth/concept/sn_erp_integrationBothAPI.md#).
+See also [sn\_erp\_integration API - Scoped, Global](sn_erp_integrationBothAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SegmentHandler - SegmentHandler\(String operationId\)
 
@@ -120,7 +120,7 @@ Adds a predefined top-level segment of the type segmentName to the payload.
 
 |Type|Description|
 |----|-----------|
-|Object|[SegmentHandle](../../SegmentHandleScoped/concept/SegmentHandleAPIScoped.md#) for the new segment instance.|
+|Object|[SegmentHandle](SegmentHandleAPIScoped.md#) for the new segment instance.|
 
 The following example shows how to build a header and item with nested segments in one fluent chain. The structure depends on the configured schema. The schema pattern is arrays of segments with nested arrays.
 

@@ -19,7 +19,7 @@ You can update a custom application record to add new features or change applica
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 Role required: admin or a delegated developer role granting full access
 
@@ -75,7 +75,7 @@ Scope
 
 </td><td>
 
-\[Read Only\] Displays the unique application scope set during the creation process. You can change this value only by deleting and recreating the application with a new value. For more information about the protections offered, see [Application scope](../concept/c_ApplicationScope.md).
+\[Read Only\] Displays the unique application scope set during the creation process. You can change this value only by deleting and recreating the application with a new value. For more information about the protections offered, see [Application scope](../c_ApplicationScope.md).
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Application administration
 
 </td><td>
 
-Select whether to protect sensitive application data by restricting how users acquire application-specific roles. See [Application administration](../concept/application-administration.md).
+Select whether to protect sensitive application data by restricting how users acquire application-specific roles. See [Application administration](../application-administration.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -151,7 +151,7 @@ Menu
 
 </td><td>
 
-Select the application menu where you want to display modules. For more information about menus and modules, see [Create an application menu](../../../administer/auto-test-framework/reference/test-steps-app-navigator-category.md#).
+Select the application menu where you want to display modules. For more information about menus and modules, see [Create an application menu](../automated-test-framework-atf/test-steps-app-navigator-category.md#).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -195,7 +195,7 @@ Dependencies
 
 </td><td>
 
-View or add tables or applications on which this application depends. The system automatically adds records to this list when you extend tables or when another application creates application files for this application. Add script-based dependencies. See [Dependencies for custom applications](../concept/c_ApplicationDependencies.md).
+View or add tables or applications on which this application depends. The system automatically adds records to this list when you extend tables or when another application creates application files for this application. Add script-based dependencies. See [Dependencies for custom applications](../c_ApplicationDependencies.md).
 
 </td></tr><tr><td>
 
@@ -203,7 +203,7 @@ Cross scope privileges
 
 </td><td>
 
-View or create cross-scope privilege records to determine which script operations and targets the system allows to run. See [Cross-scope privilege record](../reference/c_CrossScopePrivilegeRecord.md).
+View or create cross-scope privilege records to determine which script operations and targets the system allows to run. See [Cross-scope privilege record](../c_CrossScopePrivilegeRecord.md).
 
 </td></tr><tr><td>
 
@@ -211,11 +211,11 @@ Design Access
 
 </td><td>
 
-View or specify which other applications have design access to tables or records in this application. See [Application design access record](../concept/c_ApplicationDesignAccessRecord.md).
+View or specify which other applications have design access to tables or records in this application. See [Application design access record](../c_ApplicationDesignAccessRecord.md).
 
 </td></tr></tbody>
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[Legacy - ServiceNow Studio](../concept/c_ServiceNowStudio.md)
+**Parent Topic:**[Legacy - ServiceNow Studio](c_ServiceNowStudio.md)
 

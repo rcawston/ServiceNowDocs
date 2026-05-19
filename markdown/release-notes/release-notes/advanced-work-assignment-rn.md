@@ -35,7 +35,7 @@ AWA is a ServiceNow AI Platform feature that is available with activation of the
 
 ## Browser requirements
 
-Advanced Work Assignment doesn’t support mobile devices or Microsoft Edge browsers. Instead, use Microsoft Edge - Chromium or one of the other supported browsers that are listed in [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+Advanced Work Assignment doesn’t support mobile devices or Microsoft Edge browsers. Instead, use Microsoft Edge - Chromium or one of the other supported browsers that are listed in [Browser support](../browser-support.md).
 
 ## Related ServiceNow applications and features
 

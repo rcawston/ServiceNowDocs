@@ -142,7 +142,7 @@ Timezone used to run the scan.
     The scan that has been scheduled displays under Schedule related list.
 
 
-**Parent Topic:**[Using Instance Scan](../concept/hs-using-scans.md)
+**Parent Topic:**[Using Instance Scan](hs-using-scans.md)
 
 **Related topics**  
 
@@ -151,15 +151,15 @@ Timezone used to run the scan.
 
 [Create a check suite](hc-create-check-suite.md)
 
-[Executing a scan](../reference/hs-execute-scans.md)
+[Executing a scan](hs-execute-scans.md)
 
 [Schedule a full scan](hs-schedule-full-scan.md)
 
 [Monitoring a scan](hs-progress-status-full-scan.md)
 
-[Parallel scans](../concept/hs-parallel-scan.md)
+[Parallel scans](hs-parallel-scan.md)
 
-[Reviewing of scans](../reference/hs-review-scans.md)
+[Reviewing of scans](hs-review-scans.md)
 
 [Queue your scan](hs-queue-scan.md)
 

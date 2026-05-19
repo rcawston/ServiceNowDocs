@@ -32,7 +32,7 @@ The following items are installed with Automation Center:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Automation Center](../reference/components-installed-with-automation-center.md).
+For more information, see [Components installed with Automation Center](components-installed-with-automation-center.md).
 
 ## Procedure
 
@@ -61,5 +61,5 @@ For more information, see [Components installed with Automation Center](../refer
 
 The data in Automation Center Value dashboard is derived from the Performance Analytics \(PA\) tables. The PA jobs are scheduled to run at a specific time in the day. If you want to view the data immediately after the installation and before the scheduled run, then you have to manually run the PA jobs.
 
-**Parent Topic:**[Configuring Automation Center](../concept/automation-center-setup.md)
+**Parent Topic:**[Configuring Automation Center](automation-center-setup.md)
 

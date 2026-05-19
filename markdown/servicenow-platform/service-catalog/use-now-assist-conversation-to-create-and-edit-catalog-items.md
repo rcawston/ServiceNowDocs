@@ -67,5 +67,5 @@ Create a catalog item conversationally using Now Assist and make the item availa
 -   **[Edit already published catalog items using Now Assist](edit-already-published-catalog-items-using-now-assist.md)**  
 You can edit published catalog items conversationally using Now Assist. If you’ve already started editing a published catalog item, you can still use Now Assist to edit the draft of that published catalog item. You can edit variables and UI policies in this mode.
 
-**Parent Topic:**[Now Assist in Catalog Builder](../concept/now-assist-for-catalog-generation.md)
+**Parent Topic:**[Now Assist in Catalog Builder](now-assist-for-catalog-generation.md)
 

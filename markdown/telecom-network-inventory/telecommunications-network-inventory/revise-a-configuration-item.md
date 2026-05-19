@@ -27,7 +27,7 @@ Role required: sn\_ni\_core.inventory\_admin
 
 3.  Select the desired change request.
 
-    To create a change request, see [Create a change request from Network Inventory Workspace](../task/create_a_change_request_in_tni.md).
+    To create a change request, see [Create a change request from Network Inventory Workspace](create_a_change_request_in_tni.md).
 
 4.  Select the **Change Tasks** tab.
 
@@ -68,7 +68,7 @@ Role required: sn\_ni\_core.inventory\_admin
 
 ## What to do next
 
-You can update the cloned CI and operationalize the CIs. To learn more about operationalization, see [Operationalize a configuration item](../task/operationalize-a-configuration-item.md).
+You can update the cloned CI and operationalize the CIs. To learn more about operationalization, see [Operationalize a configuration item](operationalize-a-configuration-item.md).
 
 **Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 

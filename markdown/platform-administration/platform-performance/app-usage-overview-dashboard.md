@@ -95,5 +95,5 @@ Shows any of the following items, depending on your licensing agreement:
 -   Physical node count
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Monitoring instance usage](../../subscription-management/concept/usage-analytics-module-subscription.md)
+</table>**Parent Topic:**[Monitoring instance usage](usage-analytics-module-subscription.md)
 

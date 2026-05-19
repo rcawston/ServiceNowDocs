@@ -17,7 +17,7 @@ Quickly identify the relationships between Performance Analytics elements, such 
 
 ## Explore dashboards example
 
-To see all the [automated indicators](../../performance-analytics/concept/performance-analytics-glossary.md#) related to the Incident dashboard group based on the Incident table:
+To see all the [automated indicators](performance-analytics-glossary.md#) related to the Incident dashboard group based on the Incident table:
 
 1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Admin Console**
 2.  Select **Dashboards** in the Explore and Manage tile.
@@ -52,41 +52,41 @@ Click **Dashboard** or **Dashboard Groups** to view a dashboard that provides in
 
     Filters:
 
-    -   Type — Choose **All** or filter on one or more widget types. See [Performance Analytics widgets](../../performance-analytics/concept/c_Widgets.md).
+    -   Type — Choose **All** or filter on one or more widget types. See [Performance Analytics widgets](c_Widgets.md).
     -   Visualization — Choose **All** or filter on one or more report visualization types from a list.
 -   **Indicators**
 
-    A list of all indicators used in your instance's dashboards. Filters: You can filter the list on **Indicator Table**, **Type**, **Frequency**, **Indicator Source**, **Units**, **Direction**, **Scripted**, and **Aggregation Type**. Click the name of the **Indicator** or **Indicator Source** to view and edit its details. For more information, see [Performance Analytics indicators](../../performance-analytics/concept/c_Indicators.md).
+    A list of all indicators used in your instance's dashboards. Filters: You can filter the list on **Indicator Table**, **Type**, **Frequency**, **Indicator Source**, **Units**, **Direction**, **Scripted**, and **Aggregation Type**. Click the name of the **Indicator** or **Indicator Source** to view and edit its details. For more information, see [Performance Analytics indicators](c_Indicators.md).
 
 -   **Indicator Sources**
 
-    A list of all indicator sources in your instance. You can filter the list on **Indicator Table** and **Frequency**. Click the name of the **Indicator Source** to view and edit its details. For more information, see [Indicator sources](../../performance-analytics/concept/c_IndicatorSources.md#).
+    A list of all indicator sources in your instance. You can filter the list on **Indicator Table** and **Frequency**. Click the name of the **Indicator Source** to view and edit its details. For more information, see [Indicator sources](c_IndicatorSources.md#).
 
 -   **Breakdowns**
 
-    A list of all breakdowns in your instance. You can filter the list on one or more **Breakdown Tables**. Click the names of the breakdown and the breakdown source to view and edit their details. For more information, see [Performance Analytics breakdowns](../../performance-analytics/concept/c_CreatingBreakdowns.md).
+    A list of all breakdowns in your instance. You can filter the list on one or more **Breakdown Tables**. Click the names of the breakdown and the breakdown source to view and edit their details. For more information, see [Performance Analytics breakdowns](c_CreatingBreakdowns.md).
 
 -   **Breakdown Sources**
 
-    A list of all breakdown sources in your instance. You can filter the list on one or more **Breakdown Tables**. Click the name of the breakdown source to view and edit its details. For more information, see [Define a breakdown source](../../performance-analytics/task/t_DefiningABreakdownSource.md).
+    A list of all breakdown sources in your instance. You can filter the list on one or more **Breakdown Tables**. Click the name of the breakdown source to view and edit its details. For more information, see [Define a breakdown source](t_DefiningABreakdownSource.md).
 
 -   **Jobs**
 
-    A list of all jobs created in your instance. The **Run** column shows how often the job runs. The **Time** column shows how long the job took the last time it ran. The list also shows whether the job is **Active**. Click the name of the job to view its details. For more information, see [Configure a job indicator](../../performance-analytics/task/configure-job-indicator.md).
+    A list of all jobs created in your instance. The **Run** column shows how often the job runs. The **Time** column shows how long the job took the last time it ran. The list also shows whether the job is **Active**. Click the name of the job to view its details. For more information, see [Configure a job indicator](configure-job-indicator.md).
 
 -   **Reports**
 
-    A list of all reports created on your instance. You can filter the list on one or more Report Tables and one or more Report Types. Click the title of a report to view its details. For more information, see [Create a report visualization](../../reporting/task/t_CreateYourOwnReport.md#).
+    A list of all reports created on your instance. You can filter the list on one or more Report Tables and one or more Report Types. Click the title of a report to view its details. For more information, see [Create a report visualization](../reporting/t_CreateYourOwnReport.md#).
 
 -   **Interactive Filters**
 
-    A list of all interactive filters configured on your instance. You can filter on what tables and fields the interactive filter is based on and one or more UI control types. Click the **Look up name** to view and edit the details of the interactive filter. For more information, see [Interactive Filters](../concept/c_HomepagePublishers.md).
+    A list of all interactive filters configured on your instance. You can filter on what tables and fields the interactive filter is based on and one or more UI control types. Click the **Look up name** to view and edit the details of the interactive filter. For more information, see [Interactive Filters](../interactive-filters/c_HomepagePublishers.md).
 
 
 **Related topics**  
 
 
-[Tree view navigation](../../performance-analytics/reference/admin-console-tree-view-nav.md)
+[Tree view navigation](admin-console-tree-view-nav.md)
 
-[Performance Analytics terms](../../performance-analytics/concept/performance-analytics-glossary.md#)
+[Performance Analytics terms](performance-analytics-glossary.md#)
 

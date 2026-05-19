@@ -28,5 +28,5 @@ Role required: sn\_rtl\_instore\_ops.manager or sn\_rtl\_instore\_ops.associate
 3.  Select a matching store case as task as needed.
 
 
-**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](../concept/rahi-retail-fulfill-in-store-ops-mobile.md)
+**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](rahi-retail-fulfill-in-store-ops-mobile.md)
 

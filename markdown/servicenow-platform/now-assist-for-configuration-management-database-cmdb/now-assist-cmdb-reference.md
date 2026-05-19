@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for Configuration Management Database \(CMDB\), Configur
 
 Reference topics provide additional information about the property settings that you use to configure and administer Now Assist for CMDB.
 
--   **[Property settings for Now Assist for CMDB](../../now-assist-cmdb/reference/na-data-fdn-properties.md)**  
+-   **[Property settings for Now Assist for CMDB](na-data-fdn-properties.md)**  
 List of system properties for the agents used by Now Assist for CMDB agents.
 
 **Parent Topic:**[Now Assist for Configuration Management Database \(CMDB\)](now-assist-landing-cmdb.md)

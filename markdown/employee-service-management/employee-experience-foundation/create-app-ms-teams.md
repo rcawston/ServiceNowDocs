@@ -191,5 +191,5 @@ Link to the terms and conditions for your app.
 
 Assign permissions to users to access the new bot. For more information, see [Manage permissions and authenticate the Notify connector app/bot in Microsoft Azure portal](manage-permissions-notify.md).
 
-**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](../concept/setup-notify-ms-teams-single-tenant.md)
+**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](setup-notify-ms-teams-single-tenant.md)
 

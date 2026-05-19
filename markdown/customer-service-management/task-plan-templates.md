@@ -15,13 +15,13 @@ Use a task plan template to define the repeatable tasks and records that must be
 
 ![The template items list includes a hierarchical list of the tasks, child, cases, records, and other items that are part of the template.](../image/task-plan-template-items-list.png "Template items list for a task plan template")
 
-A [task plan template](../task/create-task-plan-template.md) is a group of tasks and records, called template items, that are automatically created when the template is applied. A task plan template also includes conditions that determine when the template is applicable.
+A [task plan template](create-task-plan-template.md) is a group of tasks and records, called template items, that are automatically created when the template is applied. A task plan template also includes conditions that determine when the template is applicable.
 
-A [template item](../task/create-task-plan-template-item.md) can be a task, a record, or a child task. When you create a template item, you identify the type of item to be created by selecting the table where that item is to be created. For example, to create a case task, select the Task \[sn\_customerservice\_task\] table. For each template item, you can create [conditions](../task/create-task-plan-template-item-condition.md) that determine when the template item is created.
+A [template item](create-task-plan-template-item.md) can be a task, a record, or a child task. When you create a template item, you identify the type of item to be created by selecting the table where that item is to be created. For example, to create a case task, select the Task \[sn\_customerservice\_task\] table. For each template item, you can create [conditions](create-task-plan-template-item-condition.md) that determine when the template item is created.
 
-A [task plan template configuration](../task/task_plan_template_configurations.md) defines pre-set fields to streamline the process of creating task plan templates.
+A [task plan template configuration](task_plan_template_configurations.md) defines pre-set fields to streamline the process of creating task plan templates.
 
-You can also create a hierarchy of the tasks and records to be created when the task plan template is applied by creating [child template items](../task/create-task-plan-template-child-item.md) for a template item. For example, you can create a template item that is a case record and then create child template items that are case tasks for that case record.
+You can also create a hierarchy of the tasks and records to be created when the task plan template is applied by creating [child template items](create-task-plan-template-child-item.md) for a template item. For example, you can create a template item that is a case record and then create child template items that are case tasks for that case record.
 
 ## Defining a process with a task plan template
 
@@ -70,7 +70,7 @@ Explanation
 
 </th></tr></thead><tbody><tr><td>
 
-[Create a task plan template](../task/create-task-plan-template.md).
+[Create a task plan template](create-task-plan-template.md).
 
 </td><td>
 
@@ -79,7 +79,7 @@ Create the template and set the conditions as to when the template applies.-   T
 
 </td></tr><tr><td>
 
-[Create one or more template items](../task/create-task-plan-template-item.md).
+[Create one or more template items](create-task-plan-template-item.md).
 
 </td><td>
 
@@ -88,7 +88,7 @@ Create the template items to include in the task plan template. These items can 
 
 </td></tr><tr><td>
 
-[Create conditions for template items](../task/create-task-plan-template-item-condition.md).
+[Create conditions for template items](create-task-plan-template-item-condition.md).
 
 </td><td>
 
@@ -119,7 +119,7 @@ Explanation
 
 </th></tr></thead><tbody><tr><td>
 
-[Clone a task plan template](../task/clone-task-plan-template.md).
+[Clone a task plan template](clone-task-plan-template.md).
 
 </td><td>
 
@@ -129,7 +129,7 @@ The system clones the task plan template, gives it a unique record number, and o
 
 </td></tr><tr><td>
 
-[Clone a template item](../task/clone-task-plan-template-item.md).
+[Clone a template item](clone-task-plan-template-item.md).
 
 </td><td>
 
@@ -172,9 +172,9 @@ The Get Started tab in the contextual side panel in CSM Configurable Workspace d
 
 This tab is available for the following tables:
 
--   [Task Plan Template](../reference/task-plan-template-form.md) \[sn\_task\_plan\_template\]
--   [Template Item](../reference/task-plan-template-item-form.md) \[sn\_task\_plan\_template\_item\]
--   [Template Item Condition](../reference/task-plan-template-item-condition-form.md) \[sn\_task\_plan\_template\_item\_condition\]
+-   [Task Plan Template](task-plan-template-form.md) \[sn\_task\_plan\_template\]
+-   [Template Item](task-plan-template-item-form.md) \[sn\_task\_plan\_template\_item\]
+-   [Template Item Condition](task-plan-template-item-condition-form.md) \[sn\_task\_plan\_template\_item\_condition\]
 
 <table id="table_dly_ysr_qfc"><thead><tr><th>
 

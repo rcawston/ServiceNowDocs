@@ -30,7 +30,7 @@ Any of these conditions cause the workflow to hang when the workflow activity in
 -   Suggested Action: Remove the link in the parent workflow to the questionable subflow, examine the subflow to ensure that it is valid and published, or that it is checked out to the current user. After making the correction to the state of the subflow, run the validation again to test your changes.
 -   Publishable: No
 -   Runnable: No
--   Related Information: [Workflows used as subflows](../../workflow-activities/reference/workflows-as-subflows.md)
+-   Related Information: [Workflows used as subflows](workflows-as-subflows.md)
 
 ## Troubleshooting
 

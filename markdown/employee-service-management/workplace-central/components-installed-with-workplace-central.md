@@ -53,7 +53,7 @@ A table to store Capacity and Utilization drilled down to the area level.​
 |-----|-----------|
 |WSDSpaceMgmtAnalyticsSNC|Script which populates the capacity vs utilization table for Space Management in Workplace Analytics​|
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

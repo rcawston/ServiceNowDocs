@@ -17,7 +17,7 @@ Verify that your vulnerable items have been remediated between scheduled scannin
 
 ## Before you begin
 
-To initiate a rescan for the Qualys product from the classic environment, see [Initiate rescan for the Qualys Vulnerability Integration](../concept/advanced-modifications.md#).
+To initiate a rescan for the Qualys product from the classic environment, see [Initiate rescan for the Qualys Vulnerability Integration](../vulnerability-response/advanced-modifications.md#).
 
 The Qualys scanners are deactivated by default in the Vulnerability Response application. If you try to perform a rescan from the vulnerable items or remediation tasks that have these applications as a source, the **Rescan** button is not available.
 
@@ -31,7 +31,7 @@ To activate these scanners, as a user with the sn\_vul.vulnerability\_admin role
     The product you activated is displayed in the Source field on vulnerable item and remediation task records after the next import, and **Rescan** is available as a UI action.
 
 
-For more information about setting up your Qualys scanner, see [Set up scanner appliances](../concept/advanced-modifications.md#) and [Advanced Qualys configurations and modifications](../concept/advanced-modifications.md#).
+For more information about setting up your Qualys scanner, see [Set up scanner appliances](../vulnerability-response/advanced-modifications.md#) and [Advanced Qualys configurations and modifications](../vulnerability-response/advanced-modifications.md#).
 
 -   You can initiate rescans on-demand for vulnerable items and remediation tasks that have the Qualys product as the source from the IT Remediation Workspace in your ServiceNow AI Platform.
 -   On a remediation task record, the record can be in any state other than **Closed**, and all the associated VIs must be from the Qualys product.
@@ -68,7 +68,7 @@ Description
 
 </td><td>
 
-This is the option profile that is set as the default for the integration instance. You select this profile when you set up your Qualys scanner. See [Set up scanner appliances](../concept/advanced-modifications.md#) for more information.
+This is the option profile that is set as the default for the integration instance. You select this profile when you set up your Qualys scanner. See [Set up scanner appliances](../vulnerability-response/advanced-modifications.md#) for more information.
 
 </td></tr><tr><td id="d176532e292">
 

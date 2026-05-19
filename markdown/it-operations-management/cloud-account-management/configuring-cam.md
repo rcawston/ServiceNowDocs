@@ -52,7 +52,7 @@ Purpose
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-email-server.svg)[Set up and verify root email in AWS](../task/aws-setup.md)
+![](../../../reuse/icons/brand-icons/bus-email-server.svg)[Set up and verify root email in AWS](aws-setup.md)
 
 </td><td>
 
@@ -110,7 +110,7 @@ A centralized IAM user in the management account efficiently manages multiple AW
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-whitepaper.svg)[Set up suspension of an AWS account using service control policy](../task/configure-suspension-policy.md)
+![](../../../reuse/icons/brand-icons/bus-whitepaper.svg)[Set up suspension of an AWS account using service control policy](configure-suspension-policy.md)
 
 </td><td>
 
@@ -180,7 +180,7 @@ GitHub templates deployed to Terraform Cloud or Enterprise streamline account cr
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)[Create a cloud native interface account configuration](../task/create-cloud-native-interface-config.md)
+![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)[Create a cloud native interface account configuration](create-cloud-native-interface-config.md)
 
 **Note:** This step isn’t required if Terraform is used for provisioning the account.
 
@@ -202,7 +202,7 @@ None
 
 </td><td>
 
-No additional procedure is needed for cloud native interface. You can proceed to [Install Cloud Workspace](../task/activate-cloud-account-management.md).
+No additional procedure is needed for cloud native interface. You can proceed to [Install Cloud Workspace](activate-cloud-account-management.md).
 
 </td></tr><tr><td>
 
@@ -212,8 +212,8 @@ No additional procedure is needed for cloud native interface. You can proceed to
 
 ![](../../../reuse/icons/brand-icons/bus-work-order.svg)[Populate Cloud Account Management dependent tables](add-account-details.md)
 
-1.  [Create a service account](../task/create-service-account.md)
-2.  [Define and run discovery schedule](../task/define-run-discovery-schedule.md)
+1.  [Create a service account](create-service-account.md)
+2.  [Define and run discovery schedule](define-run-discovery-schedule.md)
 
 </td><td>
 
@@ -247,7 +247,7 @@ Cloud Discovery or Service Graph Connector for AWS to import cloud organization 
 
 ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)[Provisioning modes for Cloud Account Management in Cloud Workspace](supported-provision-modes.md)
 
--   [Set up Terraform API key in ServiceNow](../task/configure-api-key.md)
+-   [Set up Terraform API key in ServiceNow](../../platform-security/authentication/configure-api-key.md)
 -   [Set up AWS API configuration information in ServiceNow](configure-aws-api-key-in-servicenow.md)
 
 </td><td>
@@ -284,7 +284,7 @@ Streamline provisioning with flexible modes like Terraform and cloud native inte
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-investor-relations-1.svg)[Set up scan configuration for data visualization](../task/set-up-data-visualization.md)
+![](../../../reuse/icons/brand-icons/bus-investor-relations-1.svg)[Set up scan configuration for data visualization](set-up-data-visualization.md)
 
 </td><td>
 
@@ -312,7 +312,7 @@ Data visualization requires scanning all account violations based on the policy 
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-3-person.svg)[Add members to the group](../task/add-member-group.md)
+![](../../../reuse/icons/brand-icons/bus-3-person.svg)[Add members to the group](add-member-group.md)
 
 </td><td>
 
@@ -368,7 +368,7 @@ Configure before creating, suspending, or scanning accounts.
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-compliance.svg)[Review default Cloud Account Management certification policy](../task/policy-setup.md)
+![](../../../reuse/icons/brand-icons/bus-compliance.svg)[Review default Cloud Account Management certification policy](policy-setup.md)
 
 </td><td>
 
@@ -453,7 +453,7 @@ Purpose
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-whitepaper.svg)[Configure account suspension in Azure](../task/configuring-azure-suspension-permission.md)
+![](../../../reuse/icons/brand-icons/bus-whitepaper.svg)[Configure account suspension in Azure](configuring-azure-suspension-permission.md)
 
 </td><td>
 
@@ -517,7 +517,7 @@ Provide the Azure credentials obtained from your Azure administrator. These cred
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)[Create a cloud native interface account configuration](../task/create-cloud-native-interface-config.md)
+![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)[Create a cloud native interface account configuration](create-cloud-native-interface-config.md)
 
 **Note:** This step isn’t required if Terraform is used for provisioning the account.
 
@@ -539,7 +539,7 @@ None
 
 </td><td>
 
-No additional procedure is needed for cloud native interface. You can proceed to [Install Cloud Workspace](../task/activate-cloud-account-management.md).
+No additional procedure is needed for cloud native interface. You can proceed to [Install Cloud Workspace](activate-cloud-account-management.md).
 
 </td></tr><tr><td>
 
@@ -549,8 +549,8 @@ No additional procedure is needed for cloud native interface. You can proceed to
 
 ![](../../../reuse/icons/brand-icons/bus-work-order.svg)[Populate Cloud Account Management dependent tables](add-account-details.md)
 
-1.  [Create a service account](../task/create-service-account.md)
-2.  [Define and run discovery schedule](../task/define-run-discovery-schedule.md)
+1.  [Create a service account](create-service-account.md)
+2.  [Define and run discovery schedule](define-run-discovery-schedule.md)
 
 </td><td>
 
@@ -582,7 +582,7 @@ Cloud Discovery import cloud organization structures and create subscription acc
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-investor-relations-1.svg)[Set up scan configuration for data visualization](../task/set-up-data-visualization.md)
+![](../../../reuse/icons/brand-icons/bus-investor-relations-1.svg)[Set up scan configuration for data visualization](set-up-data-visualization.md)
 
 </td><td>
 
@@ -610,7 +610,7 @@ Data visualization requires scanning all account violations based on the policy 
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-3-person.svg)[Add members to the group](../task/add-member-group.md)
+![](../../../reuse/icons/brand-icons/bus-3-person.svg)[Add members to the group](add-member-group.md)
 
 </td><td>
 
@@ -666,7 +666,7 @@ Configure before creating, suspending, or scanning accounts.
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-compliance.svg)[Review default Cloud Account Management certification policy](../task/policy-setup.md)
+![](../../../reuse/icons/brand-icons/bus-compliance.svg)[Review default Cloud Account Management certification policy](policy-setup.md)
 
 </td><td>
 

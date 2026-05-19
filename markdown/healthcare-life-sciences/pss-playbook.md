@@ -89,7 +89,7 @@ In the **Intake** stage of the playbook, complete the following activities:
 
 3.  **Review prescription**: Capture or review the prescription ordered for a patient. You can add a new prescription record to include the prescription details. If there is no prescription available to you, contact the prescriber to enter the prescription details.
 
-    To add a new prescription, click **Add new**, fill in the details of the prescription in the Medication Prescription form, and click **Save**. For more information, see [Medication Prescription form](../reference/hcls-med-prescription-form.md).
+    To add a new prescription, click **Add new**, fill in the details of the prescription in the Medication Prescription form, and click **Save**. For more information, see [Medication Prescription form](healthcare-and-life-sciences-service-management-core/hcls-med-prescription-form.md).
 
     **Note:** If there is no medication product associated with the program, the **Review prescription** activity doesn't appear in the playbook.
 
@@ -102,7 +102,7 @@ In the **Benefit investigation** stage of the playbook, complete the following a
 
 1.  **Review patient preference**: Review the benefits investigation preference opted by the patient.
 2.  **Review specialty pharmacy details**: Review the specialty pharmacy details as provided by the patient. The **Review specialty pharmacy details** activity appears only when the patient has selected specialty pharmacy in the enrollment request form.
-3.  **Review pre-authorization**: Review and verify if pre-authorization is required for the program. If pre-authorization is required, click **Add new**, fill in the details of pre-authorization details provided by a payer organization in the Pre-authorization request form, and click **Save**. For more information, see [Pre-authorization request form](../reference/hcls-pre-auth-form.md).
+3.  **Review pre-authorization**: Review and verify if pre-authorization is required for the program. If pre-authorization is required, click **Add new**, fill in the details of pre-authorization details provided by a payer organization in the Pre-authorization request form, and click **Save**. For more information, see [Pre-authorization request form](healthcare-and-life-sciences-service-management-core/hcls-pre-auth-form.md).
 
     **Note:** If pre-authorization is not required for the medication prescription, you can skip this activity.
 

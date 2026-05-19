@@ -31,5 +31,5 @@ The CSD 2.0 application can be integrated with Microsoft Endpoint Configuration 
     -   Service Catalog Scoped API \(com.glideapp.servicecatalog.scoped.api\)
 -   See [Legal schedules - IntegrationHub overview](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/snc-addendum-integrationhub.pdf) for more information about the required Integration Hub subscription.
 
-**Parent Topic:**[Client Software Distribution 2.0 application](../concept/csd-app-2.md)
+**Parent Topic:**[Client Software Distribution 2.0 application](csd-app-2.md)
 

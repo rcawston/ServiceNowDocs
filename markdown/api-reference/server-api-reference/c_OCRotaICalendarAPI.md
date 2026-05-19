@@ -15,5 +15,5 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The OCRotaICalendar script include is an extension of the OCRotaICalendarSNC script include.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 

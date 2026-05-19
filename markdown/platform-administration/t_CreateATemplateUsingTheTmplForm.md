@@ -115,7 +115,7 @@ Template that links a child table with the template for the parent table. In the
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](c_Templates.md)
 
 **Related topics**  
 
@@ -128,9 +128,9 @@ Template that links a child table with the template for the parent table. In the
 
 [Create a module for a template](t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](template-bar.md)
 
 [Toggle the template bar](t_ToggleTheTemplateBar.md)
 
-[Scripted templates](../reference/r_ScriptedTemplates.md)
+[Scripted templates](r_ScriptedTemplates.md)
 

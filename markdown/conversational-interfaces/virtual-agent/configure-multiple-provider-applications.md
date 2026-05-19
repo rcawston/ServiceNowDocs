@@ -85,5 +85,5 @@ Be sure you are in Virtual Agent API application scope.
     You can test the configuration by viewing the outbound HTTP logs to verify that your response endpoint was called.
 
 
-**Parent Topic:**[Using Virtual Agent API](../concept/use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](use-virtual-agent-api.md)
 

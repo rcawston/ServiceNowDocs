@@ -80,5 +80,5 @@ Fields are represented as variables in blueprints. To add a field, you add a var
     ![Publish the blueprint](../image/draft-published-slider.png)
 
 
-**Parent Topic:**[Form configuration with blueprints](../concept/blueprint-form-configuration.md)
+**Parent Topic:**[Form configuration with blueprints](blueprint-form-configuration.md)
 

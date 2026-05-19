@@ -35,5 +35,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 5.  Restore the original alert group description by selecting the revert icon \(![Revert icon.](../image/icon-revert.png)\) next to **Update description** and then choosing **Restore**.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](now-assist-itom-use.md)
 

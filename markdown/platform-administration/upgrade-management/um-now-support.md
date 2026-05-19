@@ -17,7 +17,7 @@ Try contacting Now Support if you need any assistance regarding Upgrade Console.
 
 Click [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case) for more information.
 
-**Parent Topic:**[Upgrade Console tools](../reference/um-tools.md)
+**Parent Topic:**[Upgrade Console tools](um-tools.md)
 
 **Related topics**  
 

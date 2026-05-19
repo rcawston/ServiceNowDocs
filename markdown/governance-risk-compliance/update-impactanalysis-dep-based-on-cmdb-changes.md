@@ -39,7 +39,7 @@ For more information on setting up the Impact analysis dependency update configu
 
 Beginning with the Xanadu release, you can use the updated dependencies from the latest BIA record to conduct a dependency assessment on an asset. Information from the columns labeled Related item BIA, Related item Recovery Time Objective \(RTO\), Related item Recovery Point Objective \(RPO\), and Related item Recovery Tier is used to ascertain the required recovery timeframe and data backup needs, which are then displayed in the Required Recovery Timeframe and Required Data Backup columns of the BIA record.
 
-For more information on the source BIA records option in the Dependency configuration modules, see [Set up Planning dependency update configuration](../task/conf-plan-dep-update-confi-module.md).
+For more information on the source BIA records option in the Dependency configuration modules, see [Set up Planning dependency update configuration](conf-plan-dep-update-confi-module.md).
 
 ## Using the scheduled job to auto-update the dependencies
 
@@ -87,7 +87,7 @@ See the workflow for using the **Update dependencies** UI action and updating th
     -   If the BIA record matches any configuration filter, the application gets the dependencies in real time according to the sources in the configuration. Then, update the BIA record according to the **Fields to be updated** in the configuration. The BIA workflow then continues for the next steps.
     -   If the BIA record does not match the configuration filter, the BIA workflow then continues for the next steps.
 
-For more information on updating the dependencies manually, see [Update the BIA dependencies](../task/imp-analysis-dep-update-config.md).
+For more information on updating the dependencies manually, see [Update the BIA dependencies](imp-analysis-dep-update-config.md).
 
 **Note:**
 
@@ -122,9 +122,9 @@ A user who can update the dependency assessment can import the dependency update
 
 When you perform a business impact analysis \(BIA\) on an asset, you must evaluate the dependencies of the BIA by performing a dependency assessment. If the dependencies in the CMDB are updated, importing them manually in a BIA can be a tedious activity. Beginning with the Australia release, the Data Relationships Framework application \(com.sn\_app\_grc\_relationship\_config\) supports the BCM application with the underlying framework to fetch the dependencies in the BIA. The Data Relationships Framework application is installed with the BCM application by default.
 
-For more information on the Data Relationships Framework, see [Data Relationships Framework](../../grc-common/concept/data-relationship-framework.md).
+For more information on the Data Relationships Framework, see [Data Relationships Framework](data-relationship-framework.md).
 
--   **[Update the BIA dependencies](../task/imp-analysis-dep-update-config.md)**  
+-   **[Update the BIA dependencies](imp-analysis-dep-update-config.md)**  
 Update the business impact analysis \(BIA\) dependencies manually from the snapshot if the scheduled job is not activated in the Impact analysis dependency update configuration module. You can update the dependencies in an active BIA.
 
 **Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)

@@ -113,5 +113,5 @@ If an ESG reporting disclosure manager wants to understand the total emissions f
 -   **[Add related fields to a Microsoft 365 configuration record](add-related-fields-0365.md)**  
 Add related fields to filter values based on the chosen primary field. These filter values will automatically adjust according to the selected filter criteria.
 
-**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](../concept/integrating-o365-with-servicenow.md)
+**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](integrating-o365-with-servicenow.md)
 

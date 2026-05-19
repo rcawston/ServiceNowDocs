@@ -27,7 +27,7 @@ The following items are installed with Order Management:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Order Management](../reference/components-installed-with-order-management.md).
+For more information, see [Components installed with Order Management](components-installed-with-order-management.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ For more information, see [Components installed with Order Management](../refere
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Order Management](../concept/order-mgt-configuring.md)
+**Parent Topic:**[Configuring Order Management](order-mgt-configuring.md)
 

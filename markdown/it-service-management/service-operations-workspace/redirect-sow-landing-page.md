@@ -47,5 +47,5 @@ Ensure that Next Experience is enabled on your instance. For information about i
     2.  Modify the property and select **Update**.
 
 
-**Parent Topic:**[Landing page redirection in Service Operations Workspace for ITSM](../concept/landing-page-redirection-sow-itsm.md)
+**Parent Topic:**[Landing page redirection in Service Operations Workspace for ITSM](landing-page-redirection-sow-itsm.md)
 

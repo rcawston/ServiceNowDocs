@@ -31,7 +31,7 @@ Configure the criteria for an inherent risk assessment by adding the factors, sc
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the inherent assessment form, see [Inherent Assessment form](../reference/inherent-assessment-form.md).
+    For a description of the field values on the inherent assessment form, see [Inherent Assessment form](inherent-assessment-form.md).
 
 4.  To add factors, select the Factors related list.
 
@@ -134,8 +134,8 @@ Risk appetite scale for the risk rating criteria. The appetite scales must be ma
 
 The assessment type is published.
 
--   **[Inherent Assessment form](../reference/inherent-assessment-form.md)**  
+-   **[Inherent Assessment form](inherent-assessment-form.md)**  
 Use the Inherent Assessment form in the Advanced Risk application to assess the inherent risks in your organization.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

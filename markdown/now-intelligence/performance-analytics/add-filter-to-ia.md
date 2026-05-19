@@ -44,5 +44,5 @@ You must have access to the list of records that you want to analyze.
 
 The new filter is applied to the interactive analysis. Click the information icon \(![Info icon](../../common-ui-elements/image/PreviewIcon.png)\) to view the filters in the source filter summary.
 
-**Parent Topic:**[Interactive Analysis](../concept/interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](interactive-analysis.md)
 

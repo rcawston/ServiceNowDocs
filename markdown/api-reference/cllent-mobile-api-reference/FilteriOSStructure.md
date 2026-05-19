@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The Filter structure provides the ability to configure filters that define the data to return in the return results of a REST endpoint query.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## Filter - init\(criteria criteriaList: \[Criteria\], sortBy: \[Sort\]? = nil, queryCategory: String? = nil\)
 

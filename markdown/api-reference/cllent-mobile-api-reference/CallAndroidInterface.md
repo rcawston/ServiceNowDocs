@@ -28,7 +28,7 @@ A call object cannot be processed twice.
 |----|----|-----------|
 |request|Request|Original request that initiated this call.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## Call - cancel\(\)
 

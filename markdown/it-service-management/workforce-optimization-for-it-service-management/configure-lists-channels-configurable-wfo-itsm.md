@@ -93,5 +93,5 @@ Number that displays the order.**Note:** The first three lists with the lowest o
     The supervisor list is added to the service channels and appears in the Channels module in Manager Workspace.
 
 
-**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](../concept/setup-channels-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](setup-channels-configurable-workforce-optimization-itsm.md)
 

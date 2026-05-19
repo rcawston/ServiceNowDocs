@@ -38,5 +38,5 @@ Role required: admin
 5.  Click **Cleanup**.
 
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

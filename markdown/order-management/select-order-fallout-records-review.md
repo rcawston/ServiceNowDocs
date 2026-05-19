@@ -33,7 +33,7 @@ You select fallout records to review in CSM Configurable Workspace. You can also
 
 4.  Select the fallout record you want to view.
 
-    For information about field descriptions, see the Fallout workspace fields section in [Fallout form fields](../reference/fields-create-fallout-form.md).
+    For information about field descriptions, see the Fallout workspace fields section in [Fallout form fields](fields-create-fallout-form.md).
 
 5.  To view the associated order line item, select **Open Context Record**.
 
@@ -42,5 +42,5 @@ You select fallout records to review in CSM Configurable Workspace. You can also
 
 [Update a fallout record](review-update-selected-order-fallout-records.md)
 
-**Parent Topic:**[Managing order fallout](../concept/fallout-management-overview.md)
+**Parent Topic:**[Managing order fallout](fallout-management-overview.md)
 

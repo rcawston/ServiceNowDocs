@@ -59,9 +59,9 @@ If the number of blocked or locked users exceeds the limit within a defined time
 **Related topics**  
 
 
-[Password Reset and Password Change reports and logs](../concept/c_MonitorPasswordResetActivity.md)
+[Password Reset and Password Change reports and logs](c_MonitorPasswordResetActivity.md)
 
 [Configure Password Reset properties](t_SetPwdResetProps.md)
 
-[Password Reset and Password Change reports and logs](../concept/c_MonitorPasswordResetActivity.md)
+[Password Reset and Password Change reports and logs](c_MonitorPasswordResetActivity.md)
 

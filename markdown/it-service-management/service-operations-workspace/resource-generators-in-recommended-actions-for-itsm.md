@@ -144,5 +144,5 @@ Similar resolved incidents using similarity
 The recommendation- **Similar Resolved Incidents \(Similarity\)**, uses this resource generator to return resolved incidents whose resolution can be copied to the current incident.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Recommended Actions for ITSM reference](../concept/recommended-actions-for-itsm-reference.md)
+</table>**Parent Topic:**[Recommended Actions for ITSM reference](recommended-actions-for-itsm-reference.md)
 

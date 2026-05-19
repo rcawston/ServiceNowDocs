@@ -18,7 +18,7 @@ Implement prebuilt, certified integrations with Contact Center as a Service \(CC
 
 The Interaction Controls Component \(ICC\) feature enables CCaaS providers to display native voiceand callbackintegrations so agents can manage customer calls directly from their configurable workspace.
 
-For more information, see [Interaction Controls Component \(ICC\) for voice calls](../concept/contact-center-integration-with-icc.md) and [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](../concept/interaction-controls-component-icc-callback-integration-features.md).
+For more information, see [Interaction Controls Component \(ICC\) for voice calls](contact-center-integration-with-icc.md) and [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](interaction-controls-component-icc-callback-integration-features.md).
 
 The voice controls and callback controls display under the following conditions:
 

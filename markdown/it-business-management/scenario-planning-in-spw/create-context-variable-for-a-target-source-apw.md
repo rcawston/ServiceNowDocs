@@ -39,10 +39,10 @@ To create a context variable for the target source type PA Indicator and the bre
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Context Variable form](../reference/context-variable-form-apw.md).
+    For a description of the field values, see [Context Variable form](context-variable-form-apw.md).
 
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring target source for target automation](../concept/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md)
+**Parent Topic:**[Configuring target source for target automation](setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md)
 

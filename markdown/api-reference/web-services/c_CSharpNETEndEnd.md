@@ -17,7 +17,7 @@ Examples demonstrating how to use .NET to consume a ServiceNow web service.
 
 This tutorial will show you how to configure ServiceNow correctly to receive a web service request from your .NET client, as well as how to consume our web services using C\# .NET.
 
--   **[Configure C sharp with .NET](../task/t_ConfigureCSharpWith.NET.md)**  
+-   **[Configure C sharp with .NET](t_ConfigureCSharpWith.NET.md)**  
 Configure web services within ServiceNow.
 -   **[Call a web service in visual studio .NET](c_CallAWebServiceInVisualStudioNET.md)**  
 Call a web service using Visual Studio 2008.

@@ -43,14 +43,14 @@ Certain views are included in the base system with the Database Views and Databa
 |sc\_task\_metric|Join sc\_task to metric definition to metric instance creating a view that can be reported on for things like: Catalog tasks that were closed by item|Catalog Task Metric|
 |sc\_task\_sla|Join sc\_task to sla\(task\_sla\) to report on things like tasks by sla.|Catalog Task SLA|
 
-**Parent Topic:**[Working with database views for reporting](../concept/c_DatabaseViews.md)
+**Parent Topic:**[Working with database views for reporting](c_DatabaseViews.md)
 
 **Related topics**  
 
 
-[Joining tables using database views](../task/c_CreatingDatabaseViews.md)
+[Joining tables using database views](c_CreatingDatabaseViews.md)
 
-[Displaying function results in a database view](../task/displaying-function-results-in-a-database-view.md)
+[Displaying function results in a database view](displaying-function-results-in-a-database-view.md)
 
-[Using disjunctions in complex queries](../concept/c_UseDisjunctionsInComplexQueries.md)
+[Using disjunctions in complex queries](c_UseDisjunctionsInComplexQueries.md)
 

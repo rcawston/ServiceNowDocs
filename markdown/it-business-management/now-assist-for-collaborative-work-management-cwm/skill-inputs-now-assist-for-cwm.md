@@ -63,5 +63,5 @@ Tag a story as a reference when it contains ideal acceptance criteria. These tag
 </table>**Related topics**  
 
 
-[Configure Now Assist for Collaborative Work Management \(CWM\)](../task/configure-now-assist-for-collaborative-work-management.md)
+[Configure Now Assist for Collaborative Work Management \(CWM\)](configure-now-assist-for-collaborative-work-management.md)
 

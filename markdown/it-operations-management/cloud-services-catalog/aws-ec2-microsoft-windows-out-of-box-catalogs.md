@@ -62,5 +62,5 @@ The provisioning work-flow will notify the windows admin password to the request
 -   **[Amazon Web Services EC2 Windows Out Of Box permissions](aws-ec2-windows-oob-permissions.md)**  
 Amazon Web Services EC2 Windows OOB catalog items permissions
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

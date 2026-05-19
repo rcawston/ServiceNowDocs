@@ -19,13 +19,13 @@ The GlideRecord API is the primary means of interfacing with the database on the
 
 To use this API to create dynamic attributes you must have the dynamic\_schema\_writer role. To read dynamic data using this API you must have the dynamic\_schema\_reader role.
 
-For information on a class that performs the same functions as GlideRecord and enforces ACLs, see [Using GlideRecordSecure](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
+For information on a class that performs the same functions as GlideRecord and enforces ACLs, see [Using GlideRecordSecure](../scripts/p_GlideServerAPIs.md#).
 
 See also [Dynamic Schema](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-schema.md).
 
 See the [GlideRecord](https://developer.servicenow.com/dev.do#!/learn/courses/utah/app_store_learnv2_scripting_utah_scripting_in_servicenow/app_store_learnv2_scripting_utah_server_side_scripting/app_store_learnv2_scripting_utah_gliderecord) article for details on building and running queries.
 
-For information about GlideRecordSecure, which is a class inherited from GlideRecord that performs the same functions as GlideRecord and also enforces ACLs, see the [GlideServer APIs](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
+For information about GlideRecordSecure, which is a class inherited from GlideRecord that performs the same functions as GlideRecord and also enforces ACLs, see the [GlideServer APIs](../scripts/p_GlideServerAPIs.md#).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -48,15 +48,15 @@ var mgr = current.caller_id.manager.toString();
 
 ## Dynamic attributes
 
-There are methods in this API that have the same functionality as dynamic schema methods in the [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#) API. Use the dynamic attribute methods in this API to perform actions on a specified GlideRecord. Use the methods in the GlideDynamicAttributeStore API if you want to set the same group of dynamic attributes on multiple records. Using this API, you can stage a GlideDynamicAttributeStore object with the desired attributes and then copy that object to multiple GlideRecords using the various setDynamicAttributeValues\(\) methods.
+There are methods in this API that have the same functionality as dynamic schema methods in the [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#) API. Use the dynamic attribute methods in this API to perform actions on a specified GlideRecord. Use the methods in the GlideDynamicAttributeStore API if you want to set the same group of dynamic attributes on multiple records. Using this API, you can stage a GlideDynamicAttributeStore object with the desired attributes and then copy that object to multiple GlideRecords using the various setDynamicAttributeValues\(\) methods.
 
 See also:
 
--   [GlideAggregate](../../GlideAggregate/concept/c_GlideAggregateAPI.md#)
--   [GlideElement](../../GlideElement_global/concept/c_GlideElementAPI.md#)
--   [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
+-   [GlideAggregate](c_GlideAggregateAPI.md#)
+-   [GlideElement](c_GlideElementAPI.md#)
+-   [GlideQuery](GlideQueryGlobalAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideRecord - GlideRecord\(String tableName\)
 
@@ -90,7 +90,7 @@ inc.query();
 
 ### Scoped equivalent
 
-To use the addActiveQuery\(\) method in a scoped application, use the corresponding scoped method: [addActiveQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the addActiveQuery\(\) method in a scoped application, use the corresponding scoped method: [addActiveQuery\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - addDomainQuery\(Object glideRecord\)
 
@@ -203,7 +203,7 @@ var queryString = "priority=1^ORpriority=2";
 
 ### Scoped equivalent
 
-To use the addEncodedQuery\(\) method in a scoped application, use the corresponding scoped method: [addEncodedQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the addEncodedQuery\(\) method in a scoped application, use the corresponding scoped method: [addEncodedQuery\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - addExtraField\(String dotWalkedField\)
 
@@ -335,7 +335,7 @@ inc.query();
 
 ### Scoped equivalent
 
-In scoped applications use the scoped method [addQuery\("active","false"\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+In scoped applications use the scoped method [addQuery\("active","false"\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - addJoinQuery\(String table\)
 
@@ -391,7 +391,7 @@ while (now_GR.next()) {
 
 ### Scoped equivalent
 
-To use the addJoinQuery\(\) method in a scoped application, use the corresponding scoped method: [addJoinQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the addJoinQuery\(\) method in a scoped application, use the corresponding scoped method: [addJoinQuery\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - addJoinQuery\(String table, String primaryField\)
 
@@ -424,7 +424,7 @@ now_GR.query();
 
 ### Scoped equivalent
 
-To use the addJoinQuery\(\) method in a scoped application, use the corresponding scoped method: [addJoinQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the addJoinQuery\(\) method in a scoped application, use the corresponding scoped method: [addJoinQuery\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - addJoinQuery\(String table, String primaryField, String joinTableField\)
 
@@ -458,7 +458,7 @@ now_GR.query();
 
 ### Scoped equivalent
 
-To use the addJoinQuery\(\) method in a scoped application, use the corresponding scoped method: [addJoinQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the addJoinQuery\(\) method in a scoped application, use the corresponding scoped method: [addJoinQuery\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - addNotNullQuery\(String fieldName\)
 
@@ -483,7 +483,7 @@ var target = new GlideRecord('incident');
 
 ### Scoped equivalent
 
-To use the addNotNullQuery\(\) method in a scoped application, use the corresponding scoped method: [addNotNullQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the addNotNullQuery\(\) method in a scoped application, use the corresponding scoped method: [addNotNullQuery\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - addNullQuery\(String fieldName\)
 
@@ -508,17 +508,17 @@ var target = new GlideRecord('incident');
 
 ### Scoped equivalent
 
-To use the addNullQuery\(\) method in a scoped application, use the corresponding scoped method: [addNullQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the addNullQuery\(\) method in a scoped application, use the corresponding scoped method: [addNullQuery\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - addQuery\(String name, Object operator, Object value\)
 
 Provides the ability to build a request, which when executed, returns the rows from the specified table that match the request.
 
-If you're familiar with SQL, this method is similar to the "where" clause. You can make one or more addQuery\(\) calls in a single query. For this method the queries are AND'ed. If any of the query statements need to be OR'ed, use the class [GlideQueryCondition](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#).
+If you're familiar with SQL, this method is similar to the "where" clause. You can make one or more addQuery\(\) calls in a single query. For this method the queries are AND'ed. If any of the query statements need to be OR'ed, use the class [GlideQueryCondition](c_GlideQueryConditionAPI.md#).
 
 addQuery\(\) is typically called with three parameters; table field, operator, and comparison value. It can be called with only two parameters, table field and comparison value, such as `myObj.addQuery('category','Hardware');`. The operator in this case is assumed to be "equal to".
 
-For additional information on using queries, see [Querying tables in script](../../../../../script/server-scripting/concept/c_UsingGlideRecordToQueryTables.md#).
+For additional information on using queries, see [Querying tables in script](../scripts/c_UsingGlideRecordToQueryTables.md#).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -676,7 +676,7 @@ while(gr_Inc.next()) {
 
 ### Scoped equivalent
 
-To use the addQuery\(\) method in a scoped application, use the corresponding scoped method: [addQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the addQuery\(\) method in a scoped application, use the corresponding scoped method: [addQuery\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - addSystemEncodedQuery\(String query\)
 
@@ -689,10 +689,10 @@ Additional methods for system-level access that bypass query ACL checks:
 -   [addSystemOrderBy\(\)](c_GlideRecordAPI.md#)
 -   [addSystemOrderByDesc\(\)](c_GlideRecordAPI.md#)
 -   [addSystemQuery\(\)](c_GlideRecordAPI.md#)
--   [GlideQueryCondition - addSystemCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
--   [GlideQueryCondition - addSystemOrCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addSystemCondition\(\)](c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addSystemOrCondition\(\)](c_GlideQueryConditionAPI.md#)
 
-For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#enforcing_query_ACLs).
+For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../scripts/p_GlideServerAPIs.md#enforcing_query_ACLs).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -748,8 +748,8 @@ Additional methods for system-level access that bypass query ACL checks:
 
 -   [addSystemEncodedQuery\(\)](c_GlideRecordAPI.md#)
 -   [addSystemQuery\(\)](c_GlideRecordAPI.md#)
--   [GlideQueryCondition - addSystemCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
--   [GlideQueryCondition - addSystemOrCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addSystemCondition\(\)](c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addSystemOrCondition\(\)](c_GlideQueryConditionAPI.md#)
 
 Call this method more than once to order by multiple columns. Results are arranged in ascending order. To arrange records in descending order, see [addSystemOrderByDesc\(\)](c_GlideRecordAPI.md#).
 
@@ -799,8 +799,8 @@ Additional methods for system-level access that bypass query ACL checks:
 
 -   [addSystemEncodedQuery\(\)](c_GlideRecordAPI.md#)
 -   [addSystemQuery\(\)](c_GlideRecordAPI.md#)
--   [GlideQueryCondition - addSystemCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
--   [GlideQueryCondition - addSystemOrCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addSystemCondition\(\)](c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addSystemOrCondition\(\)](c_GlideQueryConditionAPI.md#)
 
 Call this method more than once to order by multiple columns. Results are arranged in descending order. To arrange records in ascending order, see [addSystemOrderBy\(\)](c_GlideRecordAPI.md#).
 
@@ -851,8 +851,8 @@ Additional methods for system-level access that bypass query ACL checks:
 -   [addSystemEncodedQuery\(\)](c_GlideRecordAPI.md#)
 -   [addSystemOrderBy\(\)](c_GlideRecordAPI.md#)
 -   [addSystemOrderByDesc\(\)](c_GlideRecordAPI.md#)
--   [GlideQueryCondition - addSystemCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
--   [GlideQueryCondition - addSystemOrCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addSystemCondition\(\)](c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addSystemOrCondition\(\)](c_GlideQueryConditionAPI.md#)
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -960,7 +960,7 @@ Value on which to query \(not case-sensitive\).
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|[GlideQueryCondition](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)|The query condition that was added to the GlideRecord.|
+|[GlideQueryCondition](c_GlideQueryConditionAPI.md#)|The query condition that was added to the GlideRecord.|
 
 The following example shows how to explicitly return all active users named Fred.
 
@@ -989,7 +989,7 @@ This method returns only records that the current user has query access to \(bas
 
 Related methods:
 
--   [addEncodedQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) provides the same functionality without ACL enforcement.
+-   [addEncodedQuery\(\)](c_GlideRecordScopedAPI.md#) provides the same functionality without ACL enforcement.
 -   [addSystemEncodedQuery\(\)](c_GlideRecordAPI.md#) bypasses query access checks.
 
 Additional methods for enforcing query ACL checks:
@@ -997,10 +997,10 @@ Additional methods for enforcing query ACL checks:
 -   [addUserOrderBy\(\)](c_GlideRecordAPI.md#)
 -   [addUserOrderByDesc\(\)](c_GlideRecordAPI.md#)
 -   [addUserQuery\(\)](c_GlideRecordAPI.md#)
--   [GlideQueryCondition - addUserCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
--   [GlideQueryCondition - addUserOrCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addUserCondition\(\)](c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addUserOrCondition\(\)](c_GlideQueryConditionAPI.md#)
 
-For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#enforcing_query_ACLs).
+For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../scripts/p_GlideServerAPIs.md#enforcing_query_ACLs).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -1061,8 +1061,8 @@ Additional methods for enforcing query ACL checks:
 
 -   [addUserEncodedQuery\(\)](c_GlideRecordAPI.md#)
 -   [addUserQuery\(\)](c_GlideRecordAPI.md#)
--   [GlideQueryCondition - addUserCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
--   [GlideQueryCondition - addUserOrCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addUserCondition\(\)](c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addUserOrCondition\(\)](c_GlideQueryConditionAPI.md#)
 
 Call this method more than once to order by multiple columns. Results are arranged in ascending order. To arrange records in descending order, see [addUserOrderByDesc\(\)](c_GlideRecordAPI.md#).
 
@@ -1117,8 +1117,8 @@ Additional methods for enforcing query ACL checks:
 
 -   [addUserEncodedQuery\(\)](c_GlideRecordAPI.md#)
 -   [addUserQuery\(\)](c_GlideRecordAPI.md#)
--   [GlideQueryCondition - addUserCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
--   [GlideQueryCondition - addUserOrCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addUserCondition\(\)](c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addUserOrCondition\(\)](c_GlideQueryConditionAPI.md#)
 
 Call this method more than once to order by multiple columns. Results are arranged in descending order. To arrange records in ascending order, see [addUserOrderBy\(\)](c_GlideRecordAPI.md#).
 
@@ -1174,8 +1174,8 @@ Additional methods for enforcing query ACL checks:
 -   [addUserOrderBy\(\)](c_GlideRecordAPI.md#)
 -   [addUserEncodedQuery\(\)](c_GlideRecordAPI.md#)
 -   [addUserOrderByDesc\(\)](c_GlideRecordAPI.md#)
--   [GlideQueryCondition - addUserCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
--   [GlideQueryCondition - addUserOrCondition\(\)](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addUserCondition\(\)](c_GlideQueryConditionAPI.md#)
+-   [GlideQueryCondition - addUserOrCondition\(\)](c_GlideQueryConditionAPI.md#)
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -1283,7 +1283,7 @@ Value on which to query \(not case-sensitive\).
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|[GlideQueryCondition](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)|The query condition that was added to the GlideRecord.|
+|[GlideQueryCondition](c_GlideQueryConditionAPI.md#)|The query condition that was added to the GlideRecord.|
 
 The following shows how to return only users named Fred that the current user has permission to see.
 
@@ -1527,7 +1527,7 @@ canCreateBenefitPlan : function() {
 
 ### Scoped equivalent
 
-To use the canCreate\(\) method in a scoped application, use the corresponding scoped method: [canCreate\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the canCreate\(\) method in a scoped application, use the corresponding scoped method: [canCreate\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - canDelete\(\)
 
@@ -1568,7 +1568,7 @@ gs.log('canDelete: ' + canDelete);
 
 ### Scoped equivalent
 
-To use the canDelete\(\) method in a scoped application, use the corresponding scoped method: [canDelete\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the canDelete\(\) method in a scoped application, use the corresponding scoped method: [canDelete\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - canRead\(\)
 
@@ -1615,7 +1615,7 @@ while (grTable.next()) {
 
 ### Scoped equivalent
 
-To use the canRead\(\) method in a scoped application, use the corresponding scoped method: [canRead\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the canRead\(\) method in a scoped application, use the corresponding scoped method: [canRead\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - canWrite\(\)
 
@@ -1656,7 +1656,7 @@ canWriteBenefitPlan : function() {
 
 ### Scoped equivalent
 
-To use the canWrite\(\) method in a scoped application, use the corresponding scoped method: [canWrite\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the canWrite\(\) method in a scoped application, use the corresponding scoped method: [canWrite\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - changes\(\)
 
@@ -1862,7 +1862,7 @@ now_GR.deleteMultiple();
 
 ### Scoped equivalent
 
-To use the deleteMultiple\(\) method in a scoped application, use the corresponding scoped method: [deleteMultiple\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the deleteMultiple\(\) method in a scoped application, use the corresponding scoped method: [deleteMultiple\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - deleteRecord\(\)
 
@@ -1931,7 +1931,7 @@ true
 
 ### Scoped equivalent
 
-To use the deleteRecord\(\) method in a scoped application, use the corresponding scoped method: [deleteRecord\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the deleteRecord\(\) method in a scoped application, use the corresponding scoped method: [deleteRecord\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - disableSysIdInOptimization\(\)
 
@@ -2088,7 +2088,7 @@ gs.info(grIncident.number); // logs Incident Number
 
 ### Scoped equivalent
 
-To use the get\(\) method in a scoped application, use the corresponding scoped method: [get\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the get\(\) method in a scoped application, use the corresponding scoped method: [get\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getAttribute\(String fieldName\)
 
@@ -2117,7 +2117,7 @@ function doit() {
 
 ### Scoped equivalent
 
-To use the getAttribute\(\) method in a scoped application, use the corresponding scoped method: [getAttribute\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getAttribute\(\) method in a scoped application, use the corresponding scoped method: [getAttribute\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getClassDisplayValue\(\)
 
@@ -2148,7 +2148,7 @@ The table label is Incident.
 
 ### Scoped equivalent
 
-To use the getClassDisplayValue\(\) method in a scoped application, use the corresponding scoped method: [getClassDisplayValue\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getClassDisplayValue\(\) method in a scoped application, use the corresponding scoped method: [getClassDisplayValue\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getDisplayValue\(String name\)
 
@@ -2240,7 +2240,7 @@ Attr2 value: true
 
 ### Scoped equivalent
 
-To use the getDisplayValue\(\) method in a scoped application, use the corresponding scoped method: [getDisplayValue\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getDisplayValue\(\) method in a scoped application, use the corresponding scoped method: [getDisplayValue\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getDynamicAttribute\(String fullPath\)
 
@@ -2250,9 +2250,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_rgk_h1x_1bc" class="parameters"><thead><tr><th>
 
@@ -2331,9 +2331,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_yzz_p1x_1bc" class="parameters"><thead><tr><th>
 
@@ -2420,9 +2420,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_oh3_x1x_1bc" class="parameters"><thead><tr><th>
 
@@ -2505,9 +2505,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_n1f_fbx_1bc" class="parameters"><thead><tr><th>
 
@@ -2598,9 +2598,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_nht_nbx_1bc" class="parameters"><thead><tr><th>
 
@@ -2683,9 +2683,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_vm3_wbx_1bc" class="parameters"><thead><tr><th>
 
@@ -2799,7 +2799,7 @@ Table Descriptor is - incident
 
 ### Scoped equivalent
 
-To use the getED\(\) method in a scoped application, use the corresponding scoped method: [getED\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getED\(\) method in a scoped application, use the corresponding scoped method: [getED\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getElement\(String fieldName\)
 
@@ -2820,7 +2820,7 @@ If dot-walking through a GlideElement object is necessary, use the toString\(\) 
 var mgr = current.caller_id.manager.toString();
 ```
 
-See also: [GlideElement - toString\(\)](../../GlideElement_global/concept/c_GlideElementAPI.md#).
+See also: [GlideElement - toString\(\)](c_GlideElementAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -2844,7 +2844,7 @@ function compareElement(comment, table, element, /*{}*/ expected) {
 
 ### Scoped equivalent
 
-To use the getElement\(\) method in a scoped application, use the corresponding scoped method: [getElement\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getElement\(\) method in a scoped application, use the corresponding scoped method: [getElement\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getEncodedQuery\(\)
 
@@ -2884,7 +2884,7 @@ function createAcl(table, role) {
 
 ### Scoped equivalent
 
-To use the getEncodedQuery\(\) method in a scoped application, use the corresponding scoped method: [getEncodedQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getEncodedQuery\(\) method in a scoped application, use the corresponding scoped method: [getEncodedQuery\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getEscapedDisplayValue\(\)
 
@@ -3015,7 +3015,7 @@ var nicePrice = now_GR.price.toString();
 
 ### Scoped equivalent
 
-To use the getLabel\(\) method in a scoped application, use the corresponding scoped method: [getLabel\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getLabel\(\) method in a scoped application, use the corresponding scoped method: [getLabel\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getLink\(Boolean noStack\)
 
@@ -3071,7 +3071,7 @@ if(rec.next()){
 
 ### Scoped equivalent
 
-To use the getLink\(\) method in a scoped application, use the corresponding scoped method: [getLink\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getLink\(\) method in a scoped application, use the corresponding scoped method: [getLink\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getLocation\(\)
 
@@ -3136,7 +3136,7 @@ throw "GlideRecord.getPlural() returned unexpected value for table 'incident': "
 
 ### Scoped equivalent
 
-To use the getPlural\(\) method in a scoped application, use the scoped [GlideRecord.getED\(\)](c_GlideRecordAPI.md#) method to obtain the field's descriptor, and then use the scoped [GlideElementDescriptor.getPlural\(\)](../../glideElementDescriptor/concept/c_GlideElementDescriptorScopedAPI.md#) method.
+To use the getPlural\(\) method in a scoped application, use the scoped [GlideRecord.getED\(\)](c_GlideRecordAPI.md#) method to obtain the field's descriptor, and then use the scoped [GlideElementDescriptor.getPlural\(\)](c_GlideElementDescriptorScopedAPI.md#) method.
 
 ## GlideRecord - getRecordClassName\(\)
 
@@ -3173,7 +3173,7 @@ function TaskAssignmentFilter() {
 
 ### Scoped equivalent
 
-To use the getRecordClassName\(\) method in a scoped application, use the corresponding scoped method: [getRecordClassName\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getRecordClassName\(\) method in a scoped application, use the corresponding scoped method: [getRecordClassName\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getRelatedLists\(\)
 
@@ -3229,7 +3229,7 @@ Retrieves the number of rows \(records\) in the current GlideRecord object.
 
 -   **Retrieving the number of records in GlideRecord or GlideAggregate**
 
-    The GlideRecord getRowCount\(\) and [GlideAggregate getAggregate\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#) APIs offer similar information. Use the following criteria to determine which option is best for you.
+    The GlideRecord getRowCount\(\) and [GlideAggregate getAggregate\(\)](c_GlideAggregateScopedAPI.md#) APIs offer similar information. Use the following criteria to determine which option is best for you.
 
     -   The GlideRecord getRowCount\(\) method tells you how many records have been returned from a query along with the records themselves. If you need the number of records in the result set before or after you iterate over the set to perform actions on the records, use this method.
     -   The GlideAggregate getAggregate\(\) method retrieves only a count of records matching the query, excluding the actual records. The aggregate must be set on the GlideAggregate object before issuing the query.
@@ -3313,7 +3313,7 @@ Rowcount: 200
 
 ### Scoped equivalent
 
-To use the getRowCount\(\) method in a scoped application, use the corresponding scoped method: [getRowCount\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getRowCount\(\) method in a scoped application, use the corresponding scoped method: [getRowCount\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getRowNumber\(\)
 
@@ -3377,7 +3377,7 @@ if(item.next()){
 
 ### Scoped equivalent
 
-To use the getTableName\(\) method in a scoped application, use the corresponding scoped method: [getTableName\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getTableName\(\) method in a scoped application, use the corresponding scoped method: [getTableName\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - getUniqueValue\(\)
 
@@ -3506,7 +3506,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the getValue\(\) method in a scoped application, use the corresponding scoped method: [getValue\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the getValue\(\) method in a scoped application, use the corresponding scoped method: [getValue\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - hasAttachments\(\)
 
@@ -3558,7 +3558,7 @@ if (now_GR.hasNext()) {
 
 ### Scoped equivalent
 
-To use the hasNext\(\) method in a scoped application, use the corresponding scoped method: [hasNext\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the hasNext\(\) method in a scoped application, use the corresponding scoped method: [hasNext\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - initialize\(\)
 
@@ -3584,7 +3584,7 @@ now_GR.insert();
 
 ### Scoped equivalent
 
-To use the initialize\(\) method in a scoped application, use the corresponding scoped method: [initialize\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the initialize\(\) method in a scoped application, use the corresponding scoped method: [initialize\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - insert\(\)
 
@@ -3610,7 +3610,7 @@ now_GR.insert();
 
 ### Scoped equivalent
 
-To use the insert\(\) method in a scoped application, use the corresponding scoped method: [insert\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the insert\(\) method in a scoped application, use the corresponding scoped method: [insert\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - insertWithReferences\(\)
 
@@ -3757,7 +3757,7 @@ gs.print(testTable.isValid());
 
 ### Scoped equivalent
 
-To use the isValid\(\) method in a scoped application, use the corresponding scoped method: [isValid\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the isValid\(\) method in a scoped application, use the corresponding scoped method: [isValid\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - isValidField\(String columnName\)
 
@@ -3796,7 +3796,7 @@ if (!gobj.next()) {
 
 ### Scoped equivalent
 
-To use the isValidField\(\) method in a scoped application, use the corresponding scoped method: [isValidField\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the isValidField\(\) method in a scoped application, use the corresponding scoped method: [isValidField\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - isValidRecord\(\)
 
@@ -3845,7 +3845,7 @@ function(sysId) {
 
 ### Scoped equivalent
 
-To use the isValidRecord\(\) method in a scoped application, use the corresponding scoped method: [isValidRecord\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the isValidRecord\(\) method in a scoped application, use the corresponding scoped method: [isValidRecord\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - newRecord\(\)
 
@@ -3876,7 +3876,7 @@ gs.print("Is this a new record: " + now_GR2.isNewRecord());
 
 ### Scoped equivalent
 
-To use the newRecord\(\) method in a scoped application, use the corresponding scoped method: [newRecord\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the newRecord\(\) method in a scoped application, use the corresponding scoped method: [newRecord\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - next\(\)
 
@@ -3924,7 +3924,7 @@ while (rec.next()) {
 
 ### Scoped equivalent
 
-To use the next\(\) method in a scoped application, use the corresponding scoped method: [next\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the next\(\) method in a scoped application, use the corresponding scoped method: [next\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - \_next\(\)
 
@@ -3948,7 +3948,7 @@ while (rec._next()) {
 
 ### Scoped equivalent
 
-To use the \_next\(\) method in a scoped application, use the corresponding scoped method: [\_next\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the \_next\(\) method in a scoped application, use the corresponding scoped method: [\_next\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - operation\(\)
 
@@ -3956,7 +3956,7 @@ Determines if an operation is insert, update, or delete.
 
 Knowing the operation enables using current.operation\(\) to make a generic business rule which can handle each operation uniquely.
 
-For information on using the global variable current, refer to [Global variables in business rules](../../../../../script/business-rules/concept/c_BusinessRules.md#).
+For information on using the global variable current, refer to [Global variables in business rules](../business-rules-classic/c_BusinessRules.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -4015,7 +4015,7 @@ function createNewTransferOrder() {
 
 ### Scoped equivalent
 
-To use the operation\(\) method in a scoped application, use the corresponding scoped method: [operation\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the operation\(\) method in a scoped application, use the corresponding scoped method: [operation\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - orderBy\(String fieldName\)
 
@@ -4107,7 +4107,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the orderBy\(\) method in a scoped application, use the corresponding scoped method: [orderBy\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the orderBy\(\) method in a scoped application, use the corresponding scoped method: [orderBy\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - orderByDesc\(String fieldName\)
 
@@ -4199,13 +4199,13 @@ Output:
 
 ### Scoped equivalent
 
-To use the orderByDesc\(\) method in a scoped application, use the corresponding scoped method: [orderByDesc\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the orderByDesc\(\) method in a scoped application, use the corresponding scoped method: [orderByDesc\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - query\(String field, String value\)
 
 Runs a query against the table based on the filters specified in the query methods such as addQuery\(\) and addEncodedQuery\(\).
 
-This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../../../../../script/server-scripting/concept/c_UsingGlideRecordToQueryTables.md#).
+This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../scripts/c_UsingGlideRecordToQueryTables.md#).
 
 **Note:** This method fails if there is a field in the table called "query". If that is the case, use the method [\_query\(\)](c_GlideRecordAPI.md#). To run queries in a domain-separated instance, use the method [queryNoDomain\(\)](c_GlideRecordAPI.md#).
 
@@ -4213,9 +4213,9 @@ See the [GlideRecord](https://developer.servicenow.com/dev.do#!/learn/courses/ut
 
 See also:
 
--   [GlideAggregate - Global](../../GlideAggregate/concept/c_GlideAggregateAPI.md#)
--   [GlideQuery\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
--   [GlideQueryCondition - Global](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideAggregate - Global](c_GlideAggregateAPI.md#)
+-   [GlideQuery\(\)](GlideQueryGlobalAPI.md#)
+-   [GlideQueryCondition - Global](c_GlideQueryConditionAPI.md#)
 
 <table id="id_g13_kwd_lpb" class="parameters"><thead><tr><th>
 
@@ -4294,21 +4294,21 @@ kb_feedback
 
 ### Scoped equivalent
 
-To use the query\(\) method in a scoped application, use the corresponding scoped method: [query\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the query\(\) method in a scoped application, use the corresponding scoped method: [query\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - \_query\(String field, String value\)
 
 Runs a query against the table based on the filters specified in the query methods such as addQuery\(\) and addEncodedQuery\(\). This method is intended to be used on tables in which there's a column named "query", which might cause errors running the query\(\) method.
 
-This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../../../../../script/server-scripting/concept/c_UsingGlideRecordToQueryTables.md#).
+This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../scripts/c_UsingGlideRecordToQueryTables.md#).
 
 See the [GlideRecord](https://developer.servicenow.com/dev.do#!/learn/courses/utah/app_store_learnv2_scripting_utah_scripting_in_servicenow/app_store_learnv2_scripting_utah_server_side_scripting/app_store_learnv2_scripting_utah_gliderecord) article for details on building and running queries.
 
 See also:
 
--   [GlideAggregate - Global](../../GlideAggregate/concept/c_GlideAggregateAPI.md#)
--   [GlideQuery\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
--   [GlideQueryCondition - Global](../../GlideQueryCondition/concept/c_GlideQueryConditionAPI.md#)
+-   [GlideAggregate - Global](c_GlideAggregateAPI.md#)
+-   [GlideQuery\(\)](GlideQueryGlobalAPI.md#)
+-   [GlideQueryCondition - Global](c_GlideQueryConditionAPI.md#)
 
 <table id="id_z1c_ptd_lpb" class="parameters"><thead><tr><th>
 
@@ -4374,13 +4374,13 @@ KB0000005 comment:
 
 ### Scoped equivalent
 
-To use the \_query\(\) method in a scoped application, use the corresponding scoped method: [\_query\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the \_query\(\) method in a scoped application, use the corresponding scoped method: [\_query\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - queryNoDomain\(String field, String value\)
 
 Used in domain-separated instances. Similar to query\(\), runs the query against the table based on the filters specified by addQuery\(\) and addEncodedQuery\(\), but ignores domains.
 
-This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../../../../../script/server-scripting/concept/c_UsingGlideRecordToQueryTables.md#).
+This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../scripts/c_UsingGlideRecordToQueryTables.md#).
 
 <table id="id_n1d_1jk_lpb" class="parameters"><thead><tr><th>
 
@@ -4533,7 +4533,7 @@ if ((!current.u_date1.nil()) && (!current.u_date2.nil())) {
 
 ### Scoped equivalent
 
-To use the setAbortAction\(\) method in a scoped application, use the corresponding scoped method: [setAbortAction\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the setAbortAction\(\) method in a scoped application, use the corresponding scoped method: [setAbortAction\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - setDisplayValue\(String name, Object value\)
 
@@ -4630,9 +4630,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_ynk_tdx_1bc" class="parameters"><thead><tr><th>
 
@@ -4730,9 +4730,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_l12_f2x_1bc" class="parameters"><thead><tr><th>
 
@@ -4846,9 +4846,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_g4h_s2x_1bc" class="parameters"><thead><tr><th>
 
@@ -4940,9 +4940,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_l1k_1fx_1bc" class="parameters"><thead><tr><th>
 
@@ -5044,9 +5044,9 @@ Dynamic attributes have a defined data type and a sys\_id. For more details on d
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
 
 <table id="table_r5l_4fx_1bc" class="parameters"><thead><tr><th>
 
@@ -5078,7 +5078,7 @@ values
 
 </td><td>
 
-[GlideDynamicAttributeStore](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
+[GlideDynamicAttributeStore](GlideDynamicAttStoreAPI.md#)
 
 </td><td>
 
@@ -5197,7 +5197,7 @@ now_GR.query();
 
 ### Scoped equivalent
 
-To use the setLimit\(\) method in a scoped application, use the corresponding scoped method: [setLimit\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the setLimit\(\) method in a scoped application, use the corresponding scoped method: [setLimit\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - setLocation\(Number rowNumber\)
 
@@ -5297,7 +5297,7 @@ if (!gobj.next()) {
 
 ### Scoped equivalent
 
-To use the setNewGuidValue\(\) method in a scoped application, use the corresponding scoped method: [setNewGuidValue\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the setNewGuidValue\(\) method in a scoped application, use the corresponding scoped method: [setNewGuidValue\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - setNoCount\(\)
 
@@ -5346,7 +5346,7 @@ Incident Number: INC0010004, Short Description: Incident for assessment not gene
 
 ### Scoped equivalent
 
-To use the setNoCount\(\) method in a scoped application, use the corresponding scoped method: [setNoCount\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the setNoCount\(\) method in a scoped application, use the corresponding scoped method: [setNoCount\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - setQueryReferences\(Boolean queryReferences\)
 
@@ -5462,7 +5462,7 @@ Normally a script would do a direct assignment, for example `now_GR.category = v
 
 If the value parameter is null, the record isn't updated, and an error isn't thrown.
 
-**Note:** This method can't be used on journal fields. Use [GlideElement.setJournalEntry\(\)](../../GlideElement_global/concept/c_GlideElementAPI.md#) instead.
+**Note:** This method can't be used on journal fields. Use [GlideElement.setJournalEntry\(\)](c_GlideElementAPI.md#) instead.
 
 **Note:** If the Field Encryption Enterprise plugin is enabled and the instance has access to the key, this method can insert encrypted data into encrypted fields. If the instance does not have access to the key, this method returns an error. For more information, see [Platform Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-landing.md).
 
@@ -5579,7 +5579,7 @@ used_car.insert();
 
 ### Scoped equivalent
 
-To use the setValue\(\) method in a scoped application, use the corresponding scoped method: [setValue\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the setValue\(\) method in a scoped application, use the corresponding scoped method: [setValue\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - setWorkflow\(Boolean enable\)
 
@@ -5660,7 +5660,7 @@ function doit(username1,username2) {
 
 ### Scoped equivalent
 
-To use the setWorkflow\(\) method in a scoped application, use the corresponding scoped method: [setWorkflow\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the setWorkflow\(\) method in a scoped application, use the corresponding scoped method: [setWorkflow\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - update\(Object reason\)
 
@@ -5692,13 +5692,13 @@ if (count > 0) {
 
 ### Scoped equivalent
 
-To use the update\(\) method in a scoped application, use the corresponding scoped method: [update\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the update\(\) method in a scoped application, use the corresponding scoped method: [update\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - updateMultiple\(\)
 
 Updates each GlideRecord in a stated query with a specified set of changes.
 
-For information on adding journal entries, refer to the [setJournalEntry\(\)](../../GlideElement_global/concept/c_GlideElementAPI.md#) method.
+For information on adding journal entries, refer to the [setJournalEntry\(\)](c_GlideElementAPI.md#) method.
 
 The **glide.db.forced.chunk.threshold** system property sets the threshold above which forces chunk record deletions and updates. Chunking helps to prevent non-primary key deletions on huge tables from causing replication problems. For more information, see [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
@@ -5706,7 +5706,7 @@ The **glide.db.forced.chunk.threshold** system property sets the threshold above
 
 **Note:** Do not use this method with the chooseWindow\(\) or setLimit\(\) methods when working with large tables.
 
-This method sets new values and does not clear existing values. To clear an existing value, use the setValue\(\) method and set the field to 'NULL'. For more information, see [Setting a GlideRecord variable to 'NULL'](../../../../../script/server-scripting/reference/r_SettingAGlideRecordVariableToNull.md).
+This method sets new values and does not clear existing values. To clear an existing value, use the setValue\(\) method and set the field to 'NULL'. For more information, see [Setting a GlideRecord variable to 'NULL'](../scripts/r_SettingAGlideRecordVariableToNull.md).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -5738,7 +5738,7 @@ test.updateMultiple();
 
 ### Scoped equivalent
 
-To use the updateMultiple\(\) method in a scoped application, use the corresponding scoped method: [updateMultiple\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+To use the updateMultiple\(\) method in a scoped application, use the corresponding scoped method: [updateMultiple\(\)](c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord - updateWithReferences\(Object reason\)
 

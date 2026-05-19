@@ -19,11 +19,11 @@ If ServiceNow Spotlight and Automation Center are installed, you get the followi
 
 -   System properties: sn\_ac.use.spotlight.score.for.requests, sn\_ac.use.spotlight.group.for.requests
 
-    For detailed description of the system properties, see [Automation Center properties](../reference/automation-center-properties.md).
+    For detailed description of the system properties, see [Automation Center properties](automation-center-properties.md).
 
 -   Scheduled job: **Automation Center: Copy spotlight score into request**
 
-    For detailed description, see [Components installed with Automation Center](../reference/components-installed-with-automation-center.md).
+    For detailed description, see [Components installed with Automation Center](components-installed-with-automation-center.md).
 
 -   Spotlight Group: If ServiceNow Spotlight is enabled, you have the Spotlight group named “Automation request group” with default Spotlight criteria set up.
 

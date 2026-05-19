@@ -23,8 +23,8 @@ Robot pool feature is applicable for unattended robots only.
 
 There are two ways to assign robots:
 
--   Manual robot assignment: After you create a bot process, assign robots from the **Assign Robots** tab. For more information, see [Assign a robot to a bot process in RPA Hub](../task/assign-robots.md).
--   Robot Pool: On the Details tab of the bot process form, enable the robot pool option. For more information, see [Enable robot pool for a bot process in RPA Hub](../task/enable-robot-pool.md).
+-   Manual robot assignment: After you create a bot process, assign robots from the **Assign Robots** tab. For more information, see [Assign a robot to a bot process in RPA Hub](assign-robots.md).
+-   Robot Pool: On the Details tab of the bot process form, enable the robot pool option. For more information, see [Enable robot pool for a bot process in RPA Hub](enable-robot-pool.md).
 
 ## Challenges with manual robot assignment
 
@@ -60,7 +60,7 @@ The Invoice bot process also uses SLA based allocation type and has high priorit
 
 After R1 gracefully completes Order Management bot process execution, it can be used to start the execution on Invoicing Processing. After all the invoices are processed, R1 can be considered again to execute the Order Processing bot process with the help of a new execution. That is, by triggering the Invoice Processing bot process via the **Start Process** action manually or via a schedule.
 
-For more details about start process action, see [Workflow Studio actions and subflow in RPA Hub](../reference/rpa-hub-actions.md). For more information about graceful stop and stopping a bot process, see [Using Graceful Stop functionality in RPA Hub](graceful-stop-rpa.md) and [Stop an unattended bot process in RPA Hub](../task/stop-bot-process.md).
+For more details about start process action, see [Workflow Studio actions and subflow in RPA Hub](rpa-hub-actions.md). For more information about graceful stop and stopping a bot process, see [Using Graceful Stop functionality in RPA Hub](graceful-stop-rpa.md) and [Stop an unattended bot process in RPA Hub](stop-bot-process.md).
 
 ![Snapshot of assigning robots in RPA Hub.](../image/robot-pool-assignment.png "Robot assignment in RPA Hub")
 
@@ -68,12 +68,12 @@ For more details about start process action, see [Workflow Studio actions and su
 
 To enable the robot pool feature for a bot process in RPA Hub, do the following actions:
 
--   Create a robot pool. For more information, see [Create a robot pool in RPA Hub](../task/create-robot-pool.md).
--   Enable robot pool option for a bot process to map a bot process to the robot pool. For more information, see [Enable robot pool for a bot process in RPA Hub](../task/enable-robot-pool.md).
+-   Create a robot pool. For more information, see [Create a robot pool in RPA Hub](create-robot-pool.md).
+-   Enable robot pool option for a bot process to map a bot process to the robot pool. For more information, see [Enable robot pool for a bot process in RPA Hub](enable-robot-pool.md).
 
 **Note:** A queue must be associated to a bot process for enabling robot pool. One queue is mapped to one bot process.
 
-You can associate a queue to bot process from the related list. For more information, see [c to the bot process from the related list](../task/associate-queue-botprocess.md).
+You can associate a queue to bot process from the related list. For more information, see [c to the bot process from the related list](associate-queue-botprocess.md).
 
 On the Bot Process form, as an Robotic Process Automation \(RPA\) release manager or an RPA admin, you can configure the following new fields in the Robot Pool section:
 
@@ -82,7 +82,7 @@ On the Bot Process form, as an Robotic Process Automation \(RPA\) release manage
 -   **Allocation Type**
 -   **Percentage Reduction** \(if you select the **Allocation Type** as **Percentage Reduction**\)
 
-For more information about these fields, see [Bot Process form in RPA Hub](../task/select-botprocess.md#).
+For more information about these fields, see [Bot Process form in RPA Hub](select-botprocess.md#).
 
 ## Robots calculation
 
@@ -95,13 +95,13 @@ On the Queue form, as an RPA release manager or an RPA admin, you can configure 
 -   **Include All Work Items**
 -   **Work Item Count**
 
-For more information about these fields, see [Queue form in RPA Hub](../reference/queue-form.md). Configure these fields to calculate the number of robots required in robot pool for a successful execution of a bot process.
+For more information about these fields, see [Queue form in RPA Hub](queue-form.md). Configure these fields to calculate the number of robots required in robot pool for a successful execution of a bot process.
 
--   **[Create a robot pool in RPA Hub](../task/create-robot-pool.md)**  
+-   **[Create a robot pool in RPA Hub](create-robot-pool.md)**  
 Create a robot pool in RPA Hub for an optimum utilization of robots to execute the bot processes.
--   **[Enable robot pool for a bot process in RPA Hub](../task/enable-robot-pool.md)**  
+-   **[Enable robot pool for a bot process in RPA Hub](enable-robot-pool.md)**  
 Enable robot pool for a bot process in RPA Hub to effectively allocate robots for it's execution and for distribution of work load.
--   **[Calculate the number of robots in RPA Hub](../task/calculate-robots.md)**  
+-   **[Calculate the number of robots in RPA Hub](calculate-robots.md)**  
 Calculate the number of robots that you need to complete an unattended bot process execution that is based on the allocation type, for example, the SLA Based and Percentage Reduction.
 
 **Parent Topic:**[Using RPA Hub](managing-rpa-hub.md)

@@ -169,18 +169,18 @@ The catering request is submitted.
 
 The state of the request changes to Awaiting approval for approval by the respective manager. After the request is approved, the state of the request changes to Work in progress. Depending on the progress of the background tasks that are assigned to fulfill the request, the state of the request further changes.
 
-For more information about blocking the workplace location for a reservation, refer to [Block a workplace location](../../workplace-service-delivery/task/block-workplace-location.md)
+For more information about blocking the workplace location for a reservation, refer to [Block a workplace location](../workplace-core/block-workplace-location.md)
 
-**Parent Topic:**[Requesting a workplace service](../concept/request-workplace-services.md)
+**Parent Topic:**[Requesting a workplace service](request-workplace-services.md)
 
 **Related topics**  
 
 
-[Reconfigure an office space](Reconfig-office-space-1.md)
+[Reconfigure an office space](../employee-service-management/Reconfig-office-space-1.md)
 
 [Raise help request for a workplace inquiry](submit-gen-workplace-serv-req.md)
 
-[Raise a move request for a space change](../../workplace-move-mgmt/task/request-desk-change.md)
+[Raise a move request for a space change](request-desk-change.md)
 
 [Request furniture for a space](request-furniture.md)
 

@@ -25,7 +25,7 @@ Role required: Administrator
 
 1.  Ensure that you have the **Project Portfolio Management Standard** plugin installed.
 
-2.  [Add the desired indicator data source](../../../use/performance-analytics/concept/c_IndicatorSources.md#) to the Summary and insights page.
+2.  [Add the desired indicator data source](../performance-analytics/c_IndicatorSources.md#) to the Summary and insights page.
 
     For demands, the KPIs are **Active Demands** and **Average Days Demand Open**. ![Process Mining dashboard](../image/pm-demand-kpis.png)
 

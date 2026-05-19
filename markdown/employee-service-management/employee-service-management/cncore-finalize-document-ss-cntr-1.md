@@ -96,7 +96,7 @@ The document is automatically saved in the external storage.
         -   **External Storage**- In the Document field, select the document. This option is displayed only if external storage is configured
 8.  Get approval of the updated document from stakeholders.
 
-    For more information, see [Initiate an ad hoc approval for a contract document revision](cmpro-initiate-approval-contract-request.md).
+    For more information, see [Initiate an ad hoc approval for a contract document revision](../contract-management-pro/cmpro-initiate-approval-contract-request.md).
 
 9.  Return the contract document to the requester.
 
@@ -109,5 +109,5 @@ The document is automatically saved in the external storage.
 
 The document is sent back to the user and the Contract status updates to Document ready to indicate that the contract document has addressed the change request.
 
-**Parent Topic:**[Reviewing and finalizing a self-serve contract document](cncore-review-finalize-contract.md)
+**Parent Topic:**[Reviewing and finalizing a self-serve contract document](../contract-management-pro/cncore-review-finalize-contract.md)
 

@@ -29,7 +29,7 @@ Operational Technology Incident Management enables manufacturers to manage OT de
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](../reference/oper-tech-incident-management-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](oper-tech-incident-management-reference.md)
 
 </td></tr></tbody>
 </table>

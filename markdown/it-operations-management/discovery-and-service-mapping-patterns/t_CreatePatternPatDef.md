@@ -107,7 +107,7 @@ Provide a description for this pattern.
 </td></tr></tbody>
 </table>4.  When creating an application pattern, make the MID Server run this pattern only if the process identified on a CI matches the classification criteria for this pattern, select **Enforce Process Classification**.
 
-    All simplified patterns created from generic applications, have this attribute enabled. For more information about creating process classification, see [Discovery classifiers](../../discovery/concept/discovery-classifiers.md).
+    All simplified patterns created from generic applications, have this attribute enabled. For more information about creating process classification, see [Discovery classifiers](../discovery/discovery-classifiers.md).
 
 5.  Define a set of identification steps for every incoming connection of a configuration item \(CI\) as described in [KB1698521: Create or customize patterns](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1698521).
 
@@ -130,7 +130,7 @@ Provide a description for this pattern.
 
 For application type patterns, continue with creating a connection section as described in the KB article [KB1698521: Create or customize patterns](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1698521).
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
 **Previous topic:**[Create entry point types for Service Mapping](t_CreateEntryPoint.md)
 
@@ -139,7 +139,7 @@ For application type patterns, continue with creating a connection section as de
 **Related topics**  
 
 
-[Discovery for cloud environment](../../discovery/concept/cloud-discovery-wizard.md)
+[Discovery for cloud environment](../discovery/cloud-discovery-wizard.md)
 
 [KB0747679: Pre/Post Processing Scripts for patterns](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0747679)
 

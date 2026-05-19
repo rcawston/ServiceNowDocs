@@ -21,7 +21,7 @@ You must have the dynamic\_schema\_writer role to execute any of the clear\(\) m
 
 See also [Dynamic Schema](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-schema.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DynamicSchemaAPI - clearDynamicCategoryCache\(\)
 

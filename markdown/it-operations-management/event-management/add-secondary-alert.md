@@ -44,5 +44,5 @@ The alert you select to add to a new group may already be part of another group.
 
 The alert is added as a secondary alert to the selected parent alert.
 
-**Parent Topic:**[Manual alert grouping](../concept/manual-alert-grouping.md)
+**Parent Topic:**[Manual alert grouping](manual-alert-grouping.md)
 

@@ -62,7 +62,7 @@ Users with the sn\_cmdb\_admin role can configure the application. These users c
 -   Discovery schedule gap \[sn\_cmdb\_ip\_cov\_discovery\_schedule\_gap\]
 -   Discovery schedule gaps to allocated IP \[sn\_cmdb\_ip\_cov\_m2m\_discovery\_schedule\_gap\]
 
-**Note:** The sn\_cmdb\_ip\_cov\_m2m\_discovery\_schedule\_gap table is not populated by default. For information about how to populate data in this table, see [Custom system property](../reference/cmdb-coverage-properties.md#section_d4d_xmw_l3c).
+**Note:** The sn\_cmdb\_ip\_cov\_m2m\_discovery\_schedule\_gap table is not populated by default. For information about how to populate data in this table, see [Custom system property](cmdb-coverage-properties.md#section_d4d_xmw_l3c).
 
 
 </td></tr><tr><td>
@@ -90,7 +90,7 @@ Identify potential gaps between IPAM data and what is scheduled to be discovered
 
 </td><td>
 
-[Find missing IPAM IP addresses in discovery](../reference/cmdb-coverage-scheduled-jobs.md#section_hyl_mpv_l3c)
+[Find missing IPAM IP addresses in discovery](cmdb-coverage-scheduled-jobs.md#section_hyl_mpv_l3c)
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Understand the completeness of the CMDB discovery data.
 
 </td><td>
 
-[Reconcile and correlate IPAM data with discovered CIs](../reference/cmdb-coverage-scheduled-jobs.md#section_m5f_xtv_l3c)
+[Reconcile and correlate IPAM data with discovered CIs](cmdb-coverage-scheduled-jobs.md#section_m5f_xtv_l3c)
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Identify the number of free, reserved, and allocated IP addresses per subnet.
 
 </td><td>
 
-[Analyze IP address usage per subnet](../reference/cmdb-coverage-scheduled-jobs.md#section_l1x_c5v_l3c)
+[Analyze IP address usage per subnet](cmdb-coverage-scheduled-jobs.md#section_l1x_c5v_l3c)
 
 </td></tr></tbody>
 </table>## CMDB Coverage dashboard
@@ -128,7 +128,7 @@ The CMDB Coverage dashboard provides the following information:
 
 To learn more about configuring and using CMDB Coverage, see:
 
--   [Configure CMDB Coverage](../task/cmdb-coverage-configure-initialize.md)
+-   [Configure CMDB Coverage](cmdb-coverage-configure-initialize.md)
 -   [Using CMDB Coverage dashboard](cmdb-coverage-use.md)
 -   [CMDB Coverage reference](cmdb-coverage-reference.md)
 

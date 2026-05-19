@@ -21,7 +21,7 @@ You can call this class in scoped and global server scripts. This class runs in 
 
 This class is part of the MetricBase application.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped Data - getEnd\(\)
 

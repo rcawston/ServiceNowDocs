@@ -38,19 +38,19 @@ Activating this plugin provides the ability to set a preferred SLA for a given t
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with Service Level Management - SLA Timer Config API](../reference/installed-with-sla-timer-config.md)**  
+-   **[Installed with Service Level Management - SLA Timer Config API](installed-with-sla-timer-config.md)**  
 The Service Level Management - SLA Timer Config API \(com.sn\_slm\_timer\) plugin installs the admin role.
--   **[Script Includes installed with SLA Timer Config API](../concept/sla-timer-rest-api.md)**  
+-   **[Script Includes installed with SLA Timer Config API](sla-timer-rest-api.md)**  
 When SLA Timer Config API is activated, script includes are installed.
 
-**Parent Topic:**[Service Level Management plugins](../concept/sla-plugins.md)
+**Parent Topic:**[Service Level Management plugins](sla-plugins.md)
 
 **Related topics**  
 
 
 [Activate Service Level Management](activate-sla-plugin.md)
 
-[Activate SLA Breakdown definitions](../reference/activate-sla-breakdowns-plugin.md)
+[Activate SLA Breakdown definitions](activate-sla-breakdowns-plugin.md)
 
 [Activate SLA timeline](t_ActivateSLATimeline.md)
 

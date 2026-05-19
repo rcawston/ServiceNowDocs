@@ -50,5 +50,5 @@ Create a country code and add conditions to it so that you can manage, review, o
 
 Create an area code. For information, see [Create an area code](create_an_area_code.md).
 
-**Parent Topic:**[Create the components of a telephone number](../concept/create_components_of_a_telephone_number.md)
+**Parent Topic:**[Create the components of a telephone number](create_components_of_a_telephone_number.md)
 

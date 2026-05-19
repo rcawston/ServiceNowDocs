@@ -44,5 +44,5 @@ Role required: none
 8.  Insert the code snippet into your script where you want to call the decision table and define the data to use for each input variable.
 
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](using-decision-builder.md)
 

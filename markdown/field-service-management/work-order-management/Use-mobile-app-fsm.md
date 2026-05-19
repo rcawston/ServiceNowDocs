@@ -27,7 +27,7 @@ Completing work order on ServiceNow Agent can include one or more of the followi
 
     Create a personal event, like a doctor’s appointment, on your mobile device so you don’t get a task scheduled during your appointment.
 
--   [Create a task on ServiceNow Agent](../task/mobile-agent-create-a-wot.md)
+-   [Create a task on ServiceNow Agent](mobile-agent-create-a-wot.md)
 
     Field Service agents can create work order tasks from their mobile device incase there some work that was missed when the work order was created.
 
@@ -59,11 +59,11 @@ Completing work order on ServiceNow Agent can include one or more of the followi
 
     Field Service agents, managers ,and dispatchers can all use push notifications to stay informed of any updates related to tasks, groups, or individual agents.
 
--   [Start a Sidebar discussion on the Mobile Agent application](../task/start-sidebar-mobile.md)
+-   [Start a Sidebar discussion on the Mobile Agent application](start-sidebar-mobile.md)
 
     Connect with your customers or peers using the Mobile Agent app to get more information when you are at a task location.
 
--   [Job site maps on ServiceNow Agent](../task/navigate-job-sites-mobile.md)
+-   [Job site maps on ServiceNow Agent](navigate-job-sites-mobile.md)
 
     View a map of the job site, or get step-by-step directions all from the Mobile Agent app.
 
@@ -95,5 +95,5 @@ Completing work order on ServiceNow Agent can include one or more of the followi
 **Related topics**  
 
 
-[Configure the Now Mobile Agent application](../task/configure-field-service-mobile.md)
+[Configure the Now Mobile Agent application](../mobile-experience-for-field-service-management-glide-family/configure-field-service-mobile.md)
 

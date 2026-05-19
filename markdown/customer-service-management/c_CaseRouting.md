@@ -46,9 +46,9 @@ When you create an assignment rule, you select the following:
 
 Alternately, you can create a script to further customize the assignment rule.
 
--   **[Invoke the MatchingRuleProcessor API](../task/t_InvokeMatchingRuleAPI.md)**  
+-   **[Invoke the MatchingRuleProcessor API](t_InvokeMatchingRuleAPI.md)**  
 After you create one or more matching rules, you can invoke the MatchingRuleProcessor API and run the rules.
--   **[Reverse matching](../task/t_ReverseMatching.md)**  
+-   **[Reverse matching](t_ReverseMatching.md)**  
 Reverse matching uses the same matching rules to match tasks to a resource rather than resources to a task.
 
 **Parent Topic:**[Customer Service Management](c_CustomerServiceManagement.md)

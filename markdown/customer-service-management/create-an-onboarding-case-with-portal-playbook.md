@@ -21,7 +21,7 @@ These playbooks are designed to guide you through the steps of the intake proces
 
 ## Navigating the catalog to create an onboarding request
 
-You can navigate the catalog to create a new onboarding request from the Customer or Consumer Service Portals. For detailed steps, see [Create an onboarding request from the service catalog](../task/create-an-onboarding-request-from-catalog.md).
+You can navigate the catalog to create a new onboarding request from the Customer or Consumer Service Portals. For detailed steps, see [Create an onboarding request from the service catalog](create-an-onboarding-request-from-catalog.md).
 
 ## Workflow steps
 
@@ -46,5 +46,5 @@ The following diagram shows how a customer creates a case.
 
 [Creating a guided onboarding case from CSM Configurable Workspace](create-a-guided-onboarding-case-from-workspace.md)
 
-[Create an onboarding request from the service catalog](../task/create-an-onboarding-request-from-catalog.md)
+[Create an onboarding request from the service catalog](create-an-onboarding-request-from-catalog.md)
 

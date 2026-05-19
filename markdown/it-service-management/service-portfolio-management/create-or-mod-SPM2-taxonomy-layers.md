@@ -17,7 +17,7 @@ Create an unlimited number of taxonomy layers to organize, label, and manage you
 
 ## Before you begin
 
-**Important:** This task applies if you are using the legacy portfolio structure. For information on the legacy and standard portfolio structures, see [Service Portfolio Management taxonomy](../concept/SPM2-taxonomy.md).
+**Important:** This task applies if you are using the legacy portfolio structure. For information on the legacy and standard portfolio structures, see [Service Portfolio Management taxonomy](SPM2-taxonomy.md).
 
 Role required: portfolio\_admin
 
@@ -91,8 +91,8 @@ Brief detail about the taxonomy layer purpose.
 
 5.  Click the newly created taxonomy layer definition in the list.
 
-    The Taxonomy Nodes and Portfolio Metrics Related Lists appear on the Service Portfolio form. Refer to [Service Portfolio Management taxonomy](../concept/SPM2-taxonomy.md) for detailed information regarding creating and adding taxonomy nodes within your service portfolio structure.
+    The Taxonomy Nodes and Portfolio Metrics Related Lists appear on the Service Portfolio form. Refer to [Service Portfolio Management taxonomy](SPM2-taxonomy.md) for detailed information regarding creating and adding taxonomy nodes within your service portfolio structure.
 
 
-**Parent Topic:**[Service Portfolio Management taxonomy](../concept/SPM2-taxonomy.md)
+**Parent Topic:**[Service Portfolio Management taxonomy](SPM2-taxonomy.md)
 

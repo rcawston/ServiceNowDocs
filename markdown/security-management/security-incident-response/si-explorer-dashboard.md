@@ -61,5 +61,5 @@ The Security Incident Explorer dashboard presents the following key performance 
 
 [Security Incident Management dashboard](security-incident-mgmt-dashboard.md)
 
-[Security Operations Efficiency dashboard](../../../product/security-incident-response/concept/cj-sir-socpa-dashboard.md)
+[Security Operations Efficiency dashboard](cj-sir-socpa-dashboard.md)
 

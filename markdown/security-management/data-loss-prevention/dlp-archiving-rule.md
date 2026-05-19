@@ -33,7 +33,7 @@ Role required: admin
 
     **Note:** For information on how the archival rules are created, see [Create an archive rule](https://servicenow.com/docs/bundle/vancouver-platform-administration/page/administer/database-rotation/task/t_CreateAnArchiveRule.html).
 
-    For information on how to view the archived incidents, see [View archived DLP incidents](../concept/using-dlp-ops-portal.md#).
+    For information on how to view the archived incidents, see [View archived DLP incidents](using-dlp-ops-portal.md#).
 
 3.  **Update** the rule.
 
@@ -41,7 +41,7 @@ Role required: admin
 -   **[Archive DLP related records](archive-dlp-related-records.md)**  
 Use the Archive Related Records related list for DLP incidents to add the related records to the archive rule.
 
-**Parent Topic:**[DLP Incident Response Administration](../concept/data-loss-prevention-administration.md)
+**Parent Topic:**[DLP Incident Response Administration](data-loss-prevention-administration.md)
 
 **Related topics**  
 
@@ -80,11 +80,11 @@ Use the Archive Related Records related list for DLP incidents to add the relate
 
 [Create additional incident data fields](create-custom-fields-dlp.md)
 
-[DLP SLA Definition form](../reference/dlp-sla-def-properties.md)
+[DLP SLA Definition form](dlp-sla-def-properties.md)
 
 [Configure advanced settings](configure-advanced-settings-dlp.md)
 
-[Monitor DLP Integration Run process](../../dlp-microsoft/concept/configure-microsoft-dlp-integration-run-process.md)
+[Monitor DLP Integration Run process](configure-microsoft-dlp-integration-run-process.md)
 
-[DLP Incident Access Restrictions](../concept/dlp-incident-access-restrictions.md)
+[DLP Incident Access Restrictions](dlp-incident-access-restrictions.md)
 

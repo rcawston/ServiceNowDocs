@@ -29,7 +29,7 @@ The following steps walk you through the process of configuring a button to open
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Open or create a page variant.
 
@@ -154,5 +154,5 @@ The following steps walk you through the process of configuring a button to open
     ![Minimized dialogs component selected with the drop down showing the draft email option.](../image/modeless-dialog-minimized-component.png)
 
 
-**Parent Topic:**[Create modeless dialogs in UI Builder](../concept/uib-modeless-dialog.md)
+**Parent Topic:**[Create modeless dialogs in UI Builder](uib-modeless-dialog.md)
 

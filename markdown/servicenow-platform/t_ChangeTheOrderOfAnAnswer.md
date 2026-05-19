@@ -41,5 +41,5 @@ The **Order** column is hidden in the base system.
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 

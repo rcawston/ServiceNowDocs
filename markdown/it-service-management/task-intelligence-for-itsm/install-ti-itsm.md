@@ -31,7 +31,7 @@ The following items are installed with Task Intelligence for ITSM:
 -   Roles
 -   Tables
 
-For more information on what is installed, see [Components installed with Task Intelligence for ITSM](../reference/components-installed-ti-itsm.md).
+For more information on what is installed, see [Components installed with Task Intelligence for ITSM](components-installed-ti-itsm.md).
 
 ## Procedure
 
@@ -56,5 +56,5 @@ For more information on what is installed, see [Components installed with Task I
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Task Intelligence for ITSM](../concept/configure-task-intelligence-for-itsm.md)
+**Parent Topic:**[Configuring Task Intelligence for ITSM](configure-task-intelligence-for-itsm.md)
 

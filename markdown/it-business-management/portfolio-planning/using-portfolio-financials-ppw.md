@@ -23,10 +23,10 @@ Using the portfolio financials, portfolio managers can:
 
 -   Track the financial performance and status of planning items.
 -   Arrive at an informed decision by analyzing the estimated cost and benefits of a planning item while planning and prioritizing for the next Portfolio cycle.
--   View the financials based on the expense type or cost type depending on the [budget attribute configuration](../task/config-budget-allocation-attribute-ppw.md).
+-   View the financials based on the expense type or cost type depending on the [budget attribute configuration](config-budget-allocation-attribute-ppw.md).
 -   Avoid overspending on planning items by comparing the approved budget with the latest forecast and actuals.
 
-**Important:** New and existing customers need to configure the portfolio financials to view the financials of your planning items at portfolio level. For more information, see [Configure portfolio financials in Portfolio Planning](../task/config-portfolio-fin-ppw.md).
+**Important:** New and existing customers need to configure the portfolio financials to view the financials of your planning items at portfolio level. For more information, see [Configure portfolio financials in Portfolio Planning](config-portfolio-fin-ppw.md).
 
 The portfolio financials view supports Demands and Projects with Fiscal Calendar type configuration only.
 

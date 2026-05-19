@@ -31,5 +31,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 4.  In the Actions on selected items list, select **Exclude from this source**.
 
 
-**Parent Topic:**[Identifying related alerts in log data by using log correlators in Health Log Analytics](../../health-log-analytics-operator/concept/hla-op-correlator-what-is-a.md)
+**Parent Topic:**[Identifying related alerts in log data by using log correlators in Health Log Analytics](hla-op-correlator-what-is-a.md)
 

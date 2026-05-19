@@ -62,9 +62,9 @@ If you set the domain table to the Group \[sys\_user\_group\] table, users can i
 
 [Concepts for service providers](sp-concepts.md)
 
-[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)
+[Installed with domain separation](r_InstalledWithDomainSeparation.md)
 
 [Contains queries and domain access](bp-contains-domain-visibility.md)
 
-[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 

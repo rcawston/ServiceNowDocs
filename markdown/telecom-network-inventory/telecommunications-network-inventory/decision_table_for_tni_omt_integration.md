@@ -51,5 +51,5 @@ Let's say that you add a service order with the category broadband service. Afte
 
 To transfer the order characteristics in the TNI Record Producer Variable Policy decision table, the order characteristics map with the record producer.
 
-**Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](../concept/decision_tables.md)
+**Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](decision_tables.md)
 

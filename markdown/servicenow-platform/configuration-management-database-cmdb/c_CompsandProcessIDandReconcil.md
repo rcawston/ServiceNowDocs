@@ -19,17 +19,17 @@ The CMDB Identification and Reconciliation functionality is supported by the Ide
 
 -   **Identification**
 
-    Process of uniquely identifying CIs, to determine if a CI already exists in the CMDB or if it is a newly discovered CI that must be added to the CMDB. Identification processes rely on [identification rules](../task/t_CreateCIIdentificationRule.md), or on unique IDs for CIs that data sources can provide.
+    Process of uniquely identifying CIs, to determine if a CI already exists in the CMDB or if it is a newly discovered CI that must be added to the CMDB. Identification processes rely on [identification rules](t_CreateCIIdentificationRule.md), or on unique IDs for CIs that data sources can provide.
 
 -   **Reconciliation**
 
-    Process of reconciling CIs and CI attributes by allowing only designated authoritative data sources to write to the CMDB at the CI table and attribute level. The CMDB is updated in real time as records are being processed. There is no staging area to verify the reconciliation activities before they are committed. Reconciliation processes rely on [reconciliation rules](create-reconciliation-rule.md#) and [IRE data source rules](../task/create-ire-data-source-rule.md).
+    Process of reconciling CIs and CI attributes by allowing only designated authoritative data sources to write to the CMDB at the CI table and attribute level. The CMDB is updated in real time as records are being processed. There is no staging area to verify the reconciliation activities before they are committed. Reconciliation processes rely on [reconciliation rules](create-reconciliation-rule.md#) and [IRE data source rules](create-ire-data-source-rule.md).
 
     Reconciliation is required only for update operations, when the identification process identifies a CI in the CMDB that matches an incoming CI in the payload. When IRE inserts a new CI, reconciliation is not applied.
 
 -   **De-duplication tasks**
 
-    If the instance encounters duplicate CIs during the Identification and Reconciliation process, it groups each set of duplicate CIs into a [de-duplication task](../task/t_ResolveDeDuplicationTask.md). Review the information in these tasks to see how it was determined that these CIs are duplicates.
+    If the instance encounters duplicate CIs during the Identification and Reconciliation process, it groups each set of duplicate CIs into a [de-duplication task](t_ResolveDeDuplicationTask.md). Review the information in these tasks to see how it was determined that these CIs are duplicates.
 
 -   **Reclassification tasks**
 

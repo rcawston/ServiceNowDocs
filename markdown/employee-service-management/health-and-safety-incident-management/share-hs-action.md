@@ -43,5 +43,5 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 -   The action appears in the **My Tasks** list of the assigned user on the Employee Center.
 -   The action is also listed in the **Actions** list on the Health and Safety Workspace.
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](managing-hs-incidents-obs.md)
 

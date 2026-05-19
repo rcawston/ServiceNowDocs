@@ -29,7 +29,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
 
 4.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New ICT third-party service provider form](../reference/tprm-create-ICT-thirdparty-serv-prov-form.md).
+    For descriptions of all these fields, see [Create New ICT third-party service provider form](tprm-create-ICT-thirdparty-serv-prov-form.md).
 
 5.  Select **Save**.
 

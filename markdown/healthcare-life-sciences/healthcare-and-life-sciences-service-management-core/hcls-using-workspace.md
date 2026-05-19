@@ -41,7 +41,7 @@ Accept a work item and use an interaction record to respond to a healthcare requ
 
 </td></tr><tr><td>
 
-[Associate a patient record with an interaction in Workspace](../task/hcls-verify-patient.md).
+[Associate a patient record with an interaction in Workspace](hcls-verify-patient.md).
 
 </td><td>
 

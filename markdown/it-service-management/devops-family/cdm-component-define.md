@@ -195,9 +195,9 @@ Option to specify that the value of the CDI should be encrypted. This option app
 
 [Manage files in the config data model using file nodes](cdm-manage-file-config-data-file-node.md)
 
-[CDM data model](../reference/cdm-data-model.md)
+[CDM data model](cdm-data-model.md)
 
-[Viewing and editing config data](../concept/cdm-editing-config-data-changesets.md)
+[Viewing and editing config data](cdm-editing-config-data-changesets.md)
 
-[How encrypted data is handled](../concept/cdm-secrets-managing.md)
+[How encrypted data is handled](cdm-secrets-managing.md)
 

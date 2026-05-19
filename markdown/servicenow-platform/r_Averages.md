@@ -25,12 +25,12 @@ In the following example, the ratings of the current group are compared against 
 
 ![Group scorecard with ratings filter](../images/GroupScorecardWithRatingsFilter.png "Group scorecard with ratings filter")
 
-**Parent Topic:**[View an assessment scorecard](../task/t_ViewAnAssessmentScorecard.md)
+**Parent Topic:**[View an assessment scorecard](t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
 
-[Create a link to a scorecard](../task/t_CreateALinkToAScorecard.md)
+[Create a link to a scorecard](t_CreateALinkToAScorecard.md)
 
 [Assessment scorecard categories](r_Categories.md)
 

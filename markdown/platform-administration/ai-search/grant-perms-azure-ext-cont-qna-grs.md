@@ -87,5 +87,5 @@ Role required: admin
 
 Configure the OAuth 2.0 settings in your ServiceNow AI Platform® instance that are needed for External Content Q&amp;A Genius Results. For details on this procedure, see [Configure OAuth settings for External Content Q&amp;A Genius Results](configure-oauth-ext-cont-qna-gr.md).
 
-**Parent Topic:**[External Content Q&amp;A Genius Results](../concept/external-content-qna.md)
+**Parent Topic:**[External Content Q&amp;A Genius Results](external-content-qna.md)
 

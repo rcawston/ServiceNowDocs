@@ -40,7 +40,7 @@ After you map an application service, send it to the application service owner f
 -   **[Review application service maps](review-service-map.md)**  
 As the application service owner for the application service map, you receive an email notification that the application service map is assigned to you for review. Review mapping results for correctness and either provide your feedback or approve the application service map. The review and approval process is available only for discovered and manually created service instances.
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
@@ -59,7 +59,7 @@ As the application service owner for the application service map, you receive an
 
 [Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

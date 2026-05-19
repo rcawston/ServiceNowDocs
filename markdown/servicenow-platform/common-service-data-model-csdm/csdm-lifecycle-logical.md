@@ -17,7 +17,7 @@ The intangible/logical life-cycle value pairs represent the overall life cycle o
 
 ## Life-cycle values for intangible/logical CIs, assets, and IBIs
 
-For definitions of the values in the diagram, see [Definitions of life-cycle values for intangible/logical entities](../reference/csdm-lifecycle-df-intangible-logical.md).
+For definitions of the values in the diagram, see [Definitions of life-cycle values for intangible/logical entities](csdm-lifecycle-df-intangible-logical.md).
 
 ![Relationships between CSDM stages and life cycle values.](../image/csdm-lifecycle-vp-intangible-logical.png)
 
@@ -27,11 +27,11 @@ For definitions of the values in the diagram, see [Definitions of life-cycle val
 
 Because service instances are logical in nature, they should use the Logical life-cycle value pairs. Service instances follow the same life-cycle guidance as any other logical CI.
 
-See [Use Service instance \(Application Services\) dashboard to monitor health](../../configuration-management/task/app-service-dashboard.md).
+See [Use Service instance \(Application Services\) dashboard to monitor health](../configuration-management-database-cmdb/app-service-dashboard.md).
 
--   **[Definitions of life-cycle values for intangible/logical entities](../reference/csdm-lifecycle-df-intangible-logical.md)**  
+-   **[Definitions of life-cycle values for intangible/logical entities](csdm-lifecycle-df-intangible-logical.md)**  
 The intangible/logical life-cycle value pairs represent the overall life cycle of logical assets and CIs as related to their products. A logical or software asset includes items like applications, services, and licenses. The life cycle stage and life cycle stage status values of logical items are visible only in tables related to intangible/logical items in Asset Management and the CMDB.
--   **[Intangible/logical tables in the CMDB](../reference/csdm-lifecy-tables-intang-logical.md)**  
+-   **[Intangible/logical tables in the CMDB](csdm-lifecy-tables-intang-logical.md)**  
 List of intangible/logical tables.
 
 **Parent Topic:**[CSDM reference](csdm-content-frame-reference.md)
@@ -39,5 +39,5 @@ List of intangible/logical tables.
 **Related topics**  
 
 
-[Intangible/logical tables in the CMDB](../reference/csdm-lifecy-tables-intang-logical.md)
+[Intangible/logical tables in the CMDB](csdm-lifecy-tables-intang-logical.md)
 

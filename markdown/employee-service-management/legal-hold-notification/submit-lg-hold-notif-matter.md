@@ -17,7 +17,7 @@ Create a Legal Hold Notification matter to initiate the process of preserving th
 
 ## Before you begin
 
-If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](../../legal-request-management/concept/install-legal-counsel-center-workspace.md).
+If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](../legal-service-delivery/install-legal-counsel-center-workspace.md).
 
 Role required: sn\_lg\_hold.legal\_hold\_fulfiller or sn\_lg\_ops.legal\_fulfiller
 
@@ -59,7 +59,7 @@ Description
 </td></tr></tbody>
 </table>2.  On the Legal Hold Notification matter intake form, fill in the fields.
 
-    **Note:** For a description of the field values, see [Legal hold notification matter intake form](../reference/lg-hold-notif-form.md).
+    **Note:** For a description of the field values, see [Legal hold notification matter intake form](lg-hold-notif-form.md).
 
 3.  Select **Submit**.
 
@@ -72,5 +72,5 @@ In the **Legal Hold Matter** page, under the **Tasks** tab, a task is created wi
 
 In the **Custodians** tab, the custodian details are added.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](use-lg-hold-notif.md)
 

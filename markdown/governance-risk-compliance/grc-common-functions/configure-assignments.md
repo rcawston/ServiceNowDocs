@@ -31,7 +31,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For information on the fields in the form, see [Assignment Configuration New Record](../reference/assignment-configuration-new-record.md).
+    For information on the fields in the form, see [Assignment Configuration New Record](assignment-configuration-new-record.md).
 
     **Note:** You cannot have more than one approval configuration applying to the table with the same priority.
 

@@ -43,7 +43,7 @@ Version 0.3 of A2A is supported.
 
 An AI agent's Agent Card uses standardized JSON to help different providers understand its capabilities. The Agent Card is accessed by a specific type of endpoint from a provider's server. Execution plans are communicated through an execution endpoint so that both the provider's server and the ServiceNow AI Platform can track what the external AI agent is doing.
 
-See [Create an external AI agent with the Agent2Agent protocol](../task/create-a2a-agent.md) for instructions for using this protocol to create an AI agent.
+See [Create an external AI agent with the Agent2Agent protocol](create-a2a-agent.md) for instructions for using this protocol to create an AI agent.
 
 ## Configuring A2A authentication
 

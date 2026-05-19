@@ -29,21 +29,21 @@ The architectural artifacts feature extends the functionality of the ServiceNowÂ
 **Related topics**  
 
 
-[View all architectural artifacts](../../task/eaw-task/eaw-view-all-architectural-artifacts.md)
+[View all architectural artifacts](eaw-view-all-architectural-artifacts.md)
 
-[Create or edit an architectural artifact from Portfolio page](../../task/eaw-task/eaw-create-architectural-artifact.md)
+[Create or edit an architectural artifact from Portfolio page](eaw-create-architectural-artifact.md)
 
 [eaw-add-an-architectural-artifact-version]
 
-[Add a related entity to an architectural artifact](../../task/eaw-task/eaw-add-a-related-entity-to-an-architectural-artifact.md)
+[Add a related entity to an architectural artifact](eaw-add-a-related-entity-to-an-architectural-artifact.md)
 
-[Share an architectural artifact with users or groups](../../task/eaw-task/eaw-share--archi-artft-with-users-groups.md)
+[Share an architectural artifact with users or groups](eaw-share--archi-artft-with-users-groups.md)
 
-[Manage access to architectural artifacts](../../task/eaw-task/eaw-manage-access-to-architectural-artifacts.md)
+[Manage access to architectural artifacts](eaw-manage-access-to-architectural-artifacts.md)
 
-[Request approval for an architectural artifact of type URL or Attachment](../../task/eaw-task/eaw-req-approval-artifact-version.md)
+[Request approval for an architectural artifact of type URL or Attachment](eaw-req-approval-artifact-version.md)
 
-[Download an architectural artifact version](../../task/eaw-task/eaw-download-artifact-version.md)
+[Download an architectural artifact version](eaw-download-artifact-version.md)
 
-[Delete an architectural artifact version](../../task/eaw-task/eaw-delete-an-architectural-artifact-version.md)
+[Delete an architectural artifact version](eaw-delete-an-architectural-artifact-version.md)
 

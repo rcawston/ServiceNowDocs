@@ -111,7 +111,7 @@ Condition
 
 </td><td>
 
-Condition builder for specifying the experience context. See the list of the [available context variables](../reference/live-agent-chat-context-vars.md) that can be specified.For example, a Simple, no-code condition might specify the devicetype \(ios or android\) and the portal to which it applies. In this case, the condition applies to the Service Portal \(sp\). ![Simple condition builder for a custom chat experience, showing devicetype is iOS, or devicetype is android, and portal is SP conditions.](../images/va-custom-chat-condition-bldr.png)
+Condition builder for specifying the experience context. See the list of the [available context variables](../live-agent-chat-context-vars.md) that can be specified.For example, a Simple, no-code condition might specify the devicetype \(ios or android\) and the portal to which it applies. In this case, the condition applies to the Service Portal \(sp\). ![Simple condition builder for a custom chat experience, showing devicetype is iOS, or devicetype is android, and portal is SP conditions.](../images/va-custom-chat-condition-bldr.png)
 
 </td></tr><tr><td>
 
@@ -221,5 +221,5 @@ For example, **Anything Else topic**.
     **Note:** Although you can change the **Search UI \(EVAM\) Configuration**, the Virtual Agent Search \(EVAM\) configuration provides the appropriate card views and lists of Virtual Agent search results. If you want to create your own EVAM configuration for use, see [Create an EVAM definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-composite-dataset.md).
 
 
-**Parent Topic:**[Customizing a Virtual Agent chat experience](../concept/va-conversation-settings.md)
+**Parent Topic:**[Customizing a Virtual Agent chat experience](va-conversation-settings.md)
 

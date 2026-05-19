@@ -32,30 +32,30 @@ Parallel scan uses a queue-based execution model when `glide.scan.queue.enabled`
 
 **Note:** Parallel scan is applicable on full scan, test scan, suite scan, and reactive scan. It is not applicable with point scan.
 
-See [Instance Scan properties](../reference/hs-sys-properties.md) for more information.
+See [Instance Scan properties](hs-sys-properties.md) for more information.
 
 **Parent Topic:**[Using Instance Scan](hs-using-scans.md)
 
 **Related topics**  
 
 
-[Create a check](../task/hs-create-health-check.md)
+[Create a check](hs-create-health-check.md)
 
-[Create a check suite](../task/hc-create-check-suite.md)
+[Create a check suite](hc-create-check-suite.md)
 
-[Executing a scan](../reference/hs-execute-scans.md)
+[Executing a scan](hs-execute-scans.md)
 
-[Schedule a full scan](../task/hs-schedule-full-scan.md)
+[Schedule a full scan](hs-schedule-full-scan.md)
 
-[Schedule a suite scan](../task/hc-schedule-suite-scan.md)
+[Schedule a suite scan](hc-schedule-suite-scan.md)
 
-[Monitoring a scan](../task/hs-progress-status-full-scan.md)
+[Monitoring a scan](hs-progress-status-full-scan.md)
 
-[Reviewing of scans](../reference/hs-review-scans.md)
+[Reviewing of scans](hs-review-scans.md)
 
-[Queue your scan](../task/hs-queue-scan.md)
+[Queue your scan](hs-queue-scan.md)
 
-[Cancel a scan](../task/hs-cancel-scan.md)
+[Cancel a scan](hs-cancel-scan.md)
 
-[Using the Instance Scan dashboard](../task/hs-implement-dashboard.md)
+[Using the Instance Scan dashboard](hs-implement-dashboard.md)
 

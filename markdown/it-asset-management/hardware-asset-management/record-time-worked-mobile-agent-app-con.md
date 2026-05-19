@@ -15,9 +15,9 @@ breadcrumb: [Manage hardware asset repair tasks using the Mobile Agent applicati
 
 Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate asset tasks using the Mobile Agent application. After you start working on a task, you can pause and resume work. You can also record the time worked manually.
 
--   **[Pause a hardware asset repair task using the Mobile Agent application](../task/pause-repair-task-ham-mobile-agent.md)**  
+-   **[Pause a hardware asset repair task using the Mobile Agent application](pause-repair-task-ham-mobile-agent.md)**  
 Record a break from a repair task for the hardware assets using the Mobile Agent application if you’re not continuing to work on it.
--   **[Record time worked on a hardware asset repair task manually using the Mobile Agent application](../task/record-time-ham-repair-mobile-agent.md)**  
+-   **[Record time worked on a hardware asset repair task manually using the Mobile Agent application](record-time-ham-repair-mobile-agent.md)**  
 Record time worked on a hardware asset repair task manually and provide any additional comments on the task using the Mobile Agent application.
 
 **Parent Topic:**[Manage hardware asset repair tasks using the Mobile Agent application](repair-orders-mobile-agent-ham.md)
@@ -25,9 +25,9 @@ Record time worked on a hardware asset repair task manually and provide any addi
 **Related topics**  
 
 
-[View your hardware asset repair tasks using the Mobile Agent application](../task/view-ham-repair-tasks-using-mobile-agent.md)
+[View your hardware asset repair tasks using the Mobile Agent application](view-ham-repair-tasks-using-mobile-agent.md)
 
-[Start working on a hardware asset repair task using the Mobile Agent application](../task/start-work-repair-task-mobile-ham.md)
+[Start working on a hardware asset repair task using the Mobile Agent application](start-work-repair-task-mobile-ham.md)
 
-[Close a hardware asset repair task using the Mobile Agent application](../task/complete-repair-task-mobile-app-ham.md)
+[Close a hardware asset repair task using the Mobile Agent application](complete-repair-task-mobile-app-ham.md)
 

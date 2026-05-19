@@ -30,5 +30,5 @@ Supported CI class types for AWS enable assigning cost and usage data correctly 
 |cmdb\_ci\_vm\_instance| |
 |cmdb\_ci\_kubernetes\_cluster| |
 
-**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+**Parent Topic:**[Cloud Cost Management reference](reference-cloudinsights.md)
 

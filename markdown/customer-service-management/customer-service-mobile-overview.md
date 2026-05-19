@@ -137,12 +137,12 @@ Agents can receive notifications in the Customer Service mobile application when
 |Case escalation|When an escalation is raised, users who are part of the group that has permissions to approve are notified. The approvers review and approve them.|
 |Change requests|When a change request is raised, users who are part of the group that has permissions to approve are notified. The approvers review and approve them.|
 
-**Parent Topic:**[Mobile experience for CSM](../concept/customer-service-mobile-interface.md)
+**Parent Topic:**[Mobile experience for CSM](customer-service-mobile-interface.md)
 
 **Related topics**  
 
 
-[Get started with the Customer Service mobile application](../task/install-customer-service-mobile-app.md)
+[Get started with the Customer Service mobile application](install-customer-service-mobile-app.md)
 
 [Applet launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md)
 

@@ -55,5 +55,5 @@ If you have already created / onboarded tools with a connection and credential a
 
 Verify that the parent alias is set to sn\_jira\_spoke.Jira for Jira, sn\_github\_spoke.GitHub for GitHub, and sn\_jenkins\_v2\_spoke.Jenkins\_v2 for Jenkins in the **Connection &amp; Credentials Aliases** form.
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

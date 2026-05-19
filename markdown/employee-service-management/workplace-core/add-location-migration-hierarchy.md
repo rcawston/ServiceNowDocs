@@ -36,7 +36,7 @@ The following location hierarchy is followed throughout the Workplace Service De
 |Area|Room|
 |Area|Space|
 
-For more information about location migration configuration and conditions, refer to [Location migration](../concept/location-migration.md).
+For more information about location migration configuration and conditions, refer to [Location migration](location-migration.md).
 
 After you create the location migration configurations, you must perform the migration separately. To perform the migration after location migration configuration, refer to [Migrate locations from Location table to Workplace locations table](migrate-locations-from-loc-table-to-workplaceloc-table.md).
 

@@ -123,7 +123,7 @@ Add tags to track analytics for the voice assistant. For example: HR Business Un
 
     1.  Integrate a telephony provider to connect to the voice assistant.
 
-        For more information, see [Integrating voice assistant with CCaaS provider](../concept/integrating-voice-service-with-ccaas-providers.md).
+        For more information, see [Integrating voice assistant with CCaaS provider](integrating-voice-service-with-ccaas-providers.md).
 
     2.  Configure your voice assistant to be accessible through mobile app voice launcher function.
 

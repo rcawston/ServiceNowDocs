@@ -82,5 +82,5 @@ The Cloud Provisioning and Governance application is bundled with several useful
 
 After you add this resource block to a blueprint, the parameters you added are available for you to customize.
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](resource-blocks.md)
 

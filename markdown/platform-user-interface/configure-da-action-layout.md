@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-A form action layout combines multiple [form action layout items](../../workspace/configurable-workspace-glossary.md#) and [form action layout groups](../../workspace/configurable-workspace-glossary.md#) into a single table-based layout that determines which actions appear on the form.
+A form action layout combines multiple [form action layout items](configurable-workspace-glossary.md#) and [form action layout groups](configurable-workspace-glossary.md#) into a single table-based layout that determines which actions appear on the form.
 
 The form action layout chosen to appear on the form is determined in the following ways:
 

@@ -53,5 +53,5 @@ Role required: tm\_tester
     For more information, see [Update the status of a test case](t_UpdateTheStatusOfATestCase.md).
 
 
-**Parent Topic:**[Performing tests and updating the test status](../concept/c_Tester.md)
+**Parent Topic:**[Performing tests and updating the test status](c_Tester.md)
 

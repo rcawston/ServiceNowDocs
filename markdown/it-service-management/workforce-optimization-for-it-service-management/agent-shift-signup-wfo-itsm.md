@@ -212,5 +212,5 @@ Schedule plan is closed for agents to sign up.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](scheduling-configurable-workforce-optimization-itsm.md)
 

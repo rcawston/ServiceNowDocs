@@ -53,8 +53,8 @@ API tests are a way to ensure that your API is behaving as you expect it to. To 
 
     You can check the response of your payload and your communication status in the response section.
 
-    -   If your instance is on asynchronous mode, you have to check enabling Virtual Agent API logging. See [Common errors in Virtual Agent API](../reference/virtual-agent-common-errors.md) for more information.
+    -   If your instance is on asynchronous mode, you have to check enabling Virtual Agent API logging. See [Common errors in Virtual Agent API](virtual-agent-common-errors.md) for more information.
     -   If your instance is on synchronous mode, you have to check the Body of the response.
 
-**Parent Topic:**[Configuring Virtual Agent API](../concept/configure-virtual-agent-api.md)
+**Parent Topic:**[Configuring Virtual Agent API](configure-virtual-agent-api.md)
 

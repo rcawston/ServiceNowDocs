@@ -120,5 +120,5 @@ You can create and schedule recurring remediation efforts that are generated aut
 -   **[Transfer records to remediation efforts in the Security Exposure Management Workspace](sem-transfer-VI-to-RE.md)**  
 You can transfer records from existing remediation efforts into new remediation efforts in the Vulnerability Manager Workspace.
 
-**Parent Topic:**[Using Unified Security Exposure Management](../concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](using-unified-security-exposure-management.md)
 

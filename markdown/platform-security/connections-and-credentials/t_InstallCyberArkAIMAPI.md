@@ -44,5 +44,5 @@ Before starting this procedure, ensure that the [External Credential Storage plu
     2.  Add the Credential Provider and application users as members of the Password Safes where the application passwords are stored.
 
 
-**Parent Topic:**[CyberArk integration configuration](../concept/c_CyberArkIntegrationConfiguration.md)
+**Parent Topic:**[CyberArk integration configuration](c_CyberArkIntegrationConfiguration.md)
 

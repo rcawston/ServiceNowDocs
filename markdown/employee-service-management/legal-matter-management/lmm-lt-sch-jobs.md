@@ -26,5 +26,5 @@ Scheduled jobs that are installed when the Legal Tracker spoke is enabled. These
 |Fetch Practice Group Data|LegalTracker Practice Group \[sn\_lg\_matter\_legal\_tr acker\_practice\_group\]|True|Retrieves Practice Group data from the Legal Tracker portal.|
 |Fetch Substantive Law Data|Legal Tracker Substantive Law \[sn\_lg\_matter\_legal\_tr acker\_substantive\_law\]|True|Retrieves Substantive Law data from the Legal Tracker portal.|
 
-**Parent Topic:**[Legal Matter Management reference](../../legal-matter-management/reference/legal-matter-management-reference.md)
+**Parent Topic:**[Legal Matter Management reference](legal-matter-management-reference.md)
 

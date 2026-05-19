@@ -19,7 +19,7 @@ All SDK feature services must implement this protocol.
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Service configuration to associate with the protocol.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)|Service configuration to associate with the protocol.|
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 

@@ -113,7 +113,7 @@ Navigate to the Adobe Cloud Guided Setup using either of the following ways:
 
 [Software Asset Management publisher pack for Microsoft](microsoft-publisher-pack.md)
 
-[Integrate with SaaS applications](create-integration-profile.md)
+[Integrate with SaaS applications](../saas-license-management/create-integration-profile.md)
 
 [Software Asset Management publisher pack for Adobe](adobe-publisher-pack.md)
 

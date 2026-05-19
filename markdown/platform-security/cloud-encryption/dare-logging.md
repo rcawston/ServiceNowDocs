@@ -55,5 +55,5 @@ Looking at the Sys Audits\[sys\_audit\] table, admins can the Cloud Encryption K
 
 ![Key definition for a withdrawn key](../image/dare-log-2.png "Audit logs for a withdrawn key")
 
-**Parent Topic:**[Cloud Encryption with Key Management](../concept/dare-overview.md)
+**Parent Topic:**[Cloud Encryption with Key Management](dare-overview.md)
 

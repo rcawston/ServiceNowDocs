@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-Network interfaces are used for the interconnection of signaling, or for the Internet Protocol \(IP\) or ATM networks. When you create a network interface record, it creates a corresponding configuration item \(CI\) record in the Network Interface \[cmdb\_ci\_interface\] table. To learn more, see [Data model](../concept/uses-for-network-inventory-data.md).
+Network interfaces are used for the interconnection of signaling, or for the Internet Protocol \(IP\) or ATM networks. When you create a network interface record, it creates a corresponding configuration item \(CI\) record in the Network Interface \[cmdb\_ci\_interface\] table. To learn more, see [Data model](uses-for-network-inventory-data.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Network interfaces are used for the interconnection of signaling, or for the Int
 
     The fields in the following table are unique to the Network Interface form.
 
-    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](../reference/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](commonly-used-tni-identification-fields.md).
 
     |Field|Description|
     |-----|-----------|
@@ -45,7 +45,7 @@ Network interfaces are used for the interconnection of signaling, or for the Int
 
     The following table lists the fields that are unique to the Configuration section.
 
-    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](../reference/commonly-used-tni-configuration-fields.md).
+    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](commonly-used-tni-configuration-fields.md).
 
 <table id="table_inq_wc2_wrb"><thead><tr><th>
 
@@ -172,7 +172,7 @@ Optical wavelength of a port.
 
 7.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 8.  Click **Save**.
 
@@ -186,7 +186,7 @@ Optical wavelength of a port.
 
 11. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Add Packs** to capture the attributes for a configuration item \(CI\) record.
 
-    To learn more, see [Attribute pack for CI records](../concept/using-pack-table-ci-record.md).
+    To learn more, see [Attribute pack for CI records](using-pack-table-ci-record.md).
 
 12. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Decommission** to decommission a CI record.
 
@@ -194,7 +194,7 @@ Optical wavelength of a port.
 
 13. Click **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 14. To view the associated network inventories, click the brick icon \(![Brick icon.](../image/infrastructure-relashionship.png)\).
 
@@ -203,14 +203,14 @@ Optical wavelength of a port.
 
 ## What to do next
 
--   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+-   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 -   To delete an inventory record, see [Delete a record](delete-inventory-record.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Modeling your workflow](../concept/telecommunications-network-inventory-workflow.md)
+[Modeling your workflow](telecommunications-network-inventory-workflow.md)
 

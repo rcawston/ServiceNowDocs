@@ -43,7 +43,7 @@ When you share a project with the right to edit, that user has the same rights t
 6.  Select **Share** or **Cancel**.
 
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](kpi-composer-projects.md)
 
 **Previous topic:**[Write journal entries for a project](write-journal-entries-kpi-composer.md)
 

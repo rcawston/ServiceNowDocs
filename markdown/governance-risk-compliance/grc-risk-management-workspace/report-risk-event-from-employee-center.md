@@ -154,5 +154,5 @@ Provide the actions taken to reduce the impact of this risk event. For example, 
 
 The risk event is submitted for review.
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

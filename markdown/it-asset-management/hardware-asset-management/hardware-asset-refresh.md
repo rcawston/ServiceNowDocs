@@ -38,7 +38,7 @@ While customizing a Hardware Asset Refresh catalog item on the Catalog Item form
 |Variable Sets|Hardware Asset Management process set|
 |Hardware Asset Management sourcing set|
 
-**Note:** There are readily available decision tables that you can use to customize the Hardware Asset Refresh Line Flow. For more details, see [Hardware Asset Management flow customization](../concept/readily-available-dec-tables-ham.md).
+**Note:** There are readily available decision tables that you can use to customize the Hardware Asset Refresh Line Flow. For more details, see [Hardware Asset Management flow customization](readily-available-dec-tables-ham.md).
 
 ## Procedure
 
@@ -103,7 +103,7 @@ Aged Hardware assets that you want to replace. You can use a filter to search fo
 
 5.  Select **Order Now**.
 
-    You can't view an excluded asset. For more information, see [Hardware Asset Management license exclusion](../concept/ham-license-exclusion.md).
+    You can't view an excluded asset. For more information, see [Hardware Asset Management license exclusion](ham-license-exclusion.md).
 
 
 ## Result
@@ -112,24 +112,24 @@ The aged assets are set to get refreshed. In the Hardware table under the Dispos
 
 An Order status page appears and it displays the details of the order. A request is created to source the new hardware assets and to replace the aged hardware assets. The Request form shows the total price of all the new hardware asset models.
 
-**Parent Topic:**[Using Hardware Asset Management](../concept/using-ham-classic.md)
+**Parent Topic:**[Using Hardware Asset Management](using-ham-classic.md)
 
 **Related topics**  
 
 
-[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+[Work with hardware normalization](Work-with-hardware-normalization.md)
 
 [Manage asset bundles from your inventory](create-bundled-assets.md)
 
-[Manage your inventory through pallet assets](../concept/pallets-for-inventory-management.md)
+[Manage your inventory through pallet assets](pallets-for-inventory-management.md)
 
 [Manage loaner assets](manage-loaner-asset.md)
 
-[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+[Donate assets to charity organizations](donate-asset-to-charity-organizations.md)
 
 [Use Advanced Shipment Notification](advanced-shipment-notification.md)
 
-[Manage RMA requests](../concept/manage-rma-req.md)
+[Manage RMA requests](manage-rma-req.md)
 
 [Create an inventory stock order request](create-inventory-stock-order.md)
 
@@ -137,41 +137,41 @@ An Order status page appears and it displays the details of the order. A request
 
 [Use a hardware asset request flow](hardware-request-flow.md)
 
-[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+[Audit hardware asset inventory](ham-inventory-audit.md)
 
 [Manage your expiring contracts for leased hardware assets](manage-your-leased-hw-asts-expiring-contract.md)
 
-[Reclaim hardware assets](../concept/manage-asset-reclaim.md)
+[Reclaim hardware assets](manage-asset-reclaim.md)
 
 [View RFID information of assets](view-rfid-info.md)
 
-[Manage the lifecycle of hardware models with calculated lifecycle templates](../concept/manage-ham-lifecycle-temp.md)
+[Manage the lifecycle of hardware models with calculated lifecycle templates](manage-ham-lifecycle-temp.md)
 
-[Receive asset warranty details from Lenovo](../concept/receive-warranty-details-lenovo.md)
+[Receive asset warranty details from Lenovo](receive-warranty-details-lenovo.md)
 
-[Manage stockrooms](../concept/manage-your-stockrooms.md)
+[Manage stockrooms](manage-your-stockrooms.md)
 
-[Track shipments using the integration framework](../concept/tracking-shipments-using-integration-framework.md)
+[Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
 
 [Track asset location using indoor maps](track-asset-location-using-indoor-maps.md)
 
-[Assess performance of Hardware Asset Management](../concept/suc-goal-act-hw.md)
+[Assess performance of Hardware Asset Management](suc-goal-act-hw.md)
 
-[Manage refresh of assets using Zero Touch Refresh](../concept/refresh-hardware-uisng-ztr.md)
+[Manage refresh of assets using Zero Touch Refresh](refresh-hardware-uisng-ztr.md)
 
-[Configure the Total Cost of Ownership of assets](../concept/configure-ham-tco.md)
+[Configure the Total Cost of Ownership of assets](configure-ham-tco.md)
 
-[Manage Hardware Asset Management subscriptions](../concept/managing-ham-subscriptions.md)
+[Manage Hardware Asset Management subscriptions](managing-ham-subscriptions.md)
 
-[Manage repair of defective assets in your stockroom in the Hardware Asset Workspace](../concept/manage-repair-of-defective-ham-assets.md)
+[Manage repair of defective assets in your stockroom in the Hardware Asset Workspace](manage-repair-of-defective-ham-assets.md)
 
-[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](../concept/manage-asset-picking-stockroom-ham-ws.md)
+[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](manage-asset-picking-stockroom-ham-ws.md)
 
-[Manage hardware asset tasks using the Mobile Agent application](../concept/manage-hardware-asset-tasks-mobile-agent.md)
+[Manage hardware asset tasks using the Mobile Agent application](manage-hardware-asset-tasks-mobile-agent.md)
 
-[Manage asset put away using the Hardware Asset Workspace](../concept/manage-asset-putaway-stockroom-hardware-asset-workspace.md)
+[Manage asset put away using the Hardware Asset Workspace](manage-asset-putaway-stockroom-hardware-asset-workspace.md)
 
-[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
 
 [Acknowledge receipt of assets on the Employee Center portal](receive-assets-employee-center.md)
 
@@ -241,7 +241,7 @@ Action
 
     You can source items in the request by consuming the local stock, through purchase orders, or through transfer orders.
 
-    For more details on sourcing items, see [Sourcing items in a service catalog request](../../procurement/concept/c_SourcingRequestItems.md).
+    For more details on sourcing items, see [Sourcing items in a service catalog request](../procurement/c_SourcingRequestItems.md).
 
     After the new asset is received, the following events happens:
 

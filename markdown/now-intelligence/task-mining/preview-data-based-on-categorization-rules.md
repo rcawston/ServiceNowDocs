@@ -49,7 +49,7 @@ Share the analysis with interested process owners by adding shared users to the 
 **Related topics**  
 
 
-[Task Mining analyses](../concept/task-mining-dashboard.md)
+[Task Mining analyses](task-mining-dashboard.md)
 
 [Categorize workstation activities to simplify analysis](define-default-categorization-rules.md)
 

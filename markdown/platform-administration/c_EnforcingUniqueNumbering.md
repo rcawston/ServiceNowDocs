@@ -16,14 +16,14 @@ Although duplicate numbers are rare, numbering does not enforce uniqueness, by d
 To enforce uniqueness, you can:
 
 -   Create a before business rule on insert only to check for duplicate values and replace duplicates with the next available number.
--   Enable a unique index on the table. For more information, see [Create a table index](../../table-administration/task/t_CreateCustomIndex.md).
+-   Enable a unique index on the table. For more information, see [Create a table index](table-administration-and-data-management/t_CreateCustomIndex.md).
 
     **Note:** While unique indexes ensure data integrity they also prevent any insert involving a duplicate number. This may cause unexpected errors during data entry.
 
 
 ## Sample business rule
 
-This sample script can be used as part of a before business rule on insert only to check for duplicate numbers and replace them with the next available number. The following script references a script created in [Configure left padding of a system number in a table](../task/t_RenumberingRecords.md).
+This sample script can be used as part of a before business rule on insert only to check for duplicate numbers and replace them with the next available number. The following script references a script created in [Configure left padding of a system number in a table](t_RenumberingRecords.md).
 
 ```javascript
 var curNum = current.number + '';

@@ -34,5 +34,5 @@ The title of the Timeline view for an alert group summarizes the group's descrip
 **Related topics**  
 
 
-[View a timeline of the alerts in an alert group](../task/el-timeline-view.md)
+[View a timeline of the alerts in an alert group](el-timeline-view.md)
 

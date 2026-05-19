@@ -31,7 +31,7 @@ Interview phase
 
 Phase you're scheduling the interview for.**Note:**
 
--   You must have interview phase set up for the job requisition to be able to select this. For more information, see [Add interview phase](../task/add-interview-phase.md).
+-   You must have interview phase set up for the job requisition to be able to select this. For more information, see [Add interview phase](add-interview-phase.md).
 -   If you select an interview phase, the associated **Interview type**, **Duration**, **Format**, **Interviewers**, **Channel**, and **Interview title** are auto-populated.
 -   You can leave this field blank to schedule ad-hoc interview rounds.
 
@@ -153,7 +153,7 @@ Select template
 
 </td><td>
 
-Predefined interview invite email template.For more information, see [Create interview invite email template](../task/create-interview-email-template.md).
+Predefined interview invite email template.For more information, see [Create interview invite email template](create-interview-email-template.md).
 
 </td></tr><tr><td>
 
@@ -172,5 +172,5 @@ Meeting invite
 Body text of the interview invite email. It’s auto-generated if you have selected an email template and can be edited.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Interview Management reference](../concept/interview-management-reference.md)
+</table>**Parent Topic:**[Interview Management reference](interview-management-reference.md)
 

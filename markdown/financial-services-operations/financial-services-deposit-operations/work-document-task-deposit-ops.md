@@ -54,5 +54,5 @@ The Document Management Service determines which documents are required in a wor
 -   The document task moves to the Closed Complete state.
 -   In the parent deposit case, the Verify documents stage in the case playbook shows as complete and the case moves to the next stage.
 
-**Parent Topic:**[Using Financial Services Deposit Operations](../concept/using-deposit-ops.md)
+**Parent Topic:**[Using Financial Services Deposit Operations](using-deposit-ops.md)
 

@@ -101,7 +101,7 @@ Users
 
 </td><td>
 
-[No-code interface to build customer engagement sequences](../task/create-customer-engagement-sequence.md)
+[No-code interface to build customer engagement sequences](create-customer-engagement-sequence.md)
 
 </td><td>
 
@@ -113,7 +113,7 @@ Reduce duplicating sequence workflows by specifying multiple record-based trigge
 
 </td><td>
 
-[Define trigger conditions](../task/define-trigger-conditions.md)
+[Define trigger conditions](define-trigger-conditions.md)
 
 </td><td>
 
@@ -125,7 +125,7 @@ Design telesales-oriented sequences using the schedule call activity, and enable
 
 </td><td>
 
-[Add a schedule call activity to a telesales workflow sequence](../task/add-schedule-call-activity.md)
+[Add a schedule call activity to a telesales workflow sequence](add-schedule-call-activity.md)
 
 </td><td>
 
@@ -139,7 +139,7 @@ Sequence admin, sequence writer
 
 </td><td>
 
-[Predefined activities that align with business goals and outreach strategy](../task/execute-sequence-steps.md)
+[Predefined activities that align with business goals and outreach strategy](execute-sequence-steps.md)
 
 </td><td>
 
@@ -151,7 +151,7 @@ Use the click-to-call capability to connect with prospective customers from the 
 
 </td><td>
 
-[Fulfill a telesales sequence](../task/complete-telesales-sequences.md)
+[Fulfill a telesales sequence](complete-telesales-sequences.md)
 
 </td><td>
 
@@ -164,6 +164,6 @@ The following topics provide more information about configuring and using Custom
 
 -   [Configuring Customer Engagement Sequences](configuring-customer-engagement-sequences.md)
 -   [Using Customer Engagement Sequences](using-customer-engagement-sequences.md)
--   [Components installed with Customer Engagement Sequences](../reference/components-installed-customer-engagement-sequences.md)
+-   [Components installed with Customer Engagement Sequences](components-installed-customer-engagement-sequences.md)
 -   [Exploring Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/exploring-workflow-studio.md)
 

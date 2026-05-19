@@ -22,5 +22,5 @@ Use the Related Tables form to define the child tables for the configured parent
 -   **[Scripted Elements form](scripted-elements-form.md)**  
 Use the Scripted Elements form to define the data script to fetch data for a complex report type such as line chart or bar chart.
 
-**Parent Topic:**[Export to PowerPoint for Strategic Portfolio Management](../concept/export-ppt-landing-page.md)
+**Parent Topic:**[Export to PowerPoint for Strategic Portfolio Management](export-ppt-landing-page.md)
 

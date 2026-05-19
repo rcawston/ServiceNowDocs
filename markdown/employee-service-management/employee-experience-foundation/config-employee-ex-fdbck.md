@@ -33,7 +33,7 @@ The feedback configuration is generic for all feedback types and definitions.
 
 3.  On the feedback configuration form, fill in the fields.
 
-    For a description of the field values, see [Feedback configuration form](../reference/ex-feedback-new-record.md).
+    For a description of the field values, see [Feedback configuration form](ex-feedback-new-record.md).
 
 4.  Select **Submit**.
 

@@ -60,5 +60,5 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
         The email is sent to the recipients and can be viewed from the touchpoint's **Emails** tab.
 
 
-**Parent Topic:**[Using Activity Management](../concept/using-activity-management.md)
+**Parent Topic:**[Using Activity Management](using-activity-management.md)
 

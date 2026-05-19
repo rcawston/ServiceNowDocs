@@ -17,7 +17,7 @@ The IDResult script include is a container class for the result of a CI Identifi
 
 Use with any server-side discovery script.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## IDResult - IDResult\(Boolean explore, String sysID\)
 

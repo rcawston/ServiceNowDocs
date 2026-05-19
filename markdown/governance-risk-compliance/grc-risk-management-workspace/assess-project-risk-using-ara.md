@@ -48,7 +48,7 @@ If the Project Risk integration Configuration form has **Stakeholders** selected
 
 The risk moves to the risk assessor's workflow.
 
-**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](../concept/risk-and-ppm-better-together.md)
+**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](risk-and-ppm-better-together.md)
 
 **Related topics**  
 

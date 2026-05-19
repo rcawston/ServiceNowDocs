@@ -47,5 +47,5 @@ A record for mapping is successfully created. The statuses of the ServiceNow inc
 
 When you change the status of any DLP incident on your ServiceNow instance, then the status of the associated Proofpoint DLP incident will be changed on the source Proofpoint platform as per the mapping set in the record.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](../concept/dlp-incident-response-integration-proofpoint.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](dlp-incident-response-integration-proofpoint.md)
 

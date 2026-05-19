@@ -47,10 +47,10 @@ In the example below, the Subcategory field is made dependent upon the Category 
 
 ![Dependent Value](../image/DependentValue.png)
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
 
-[Reference qualifiers](../../../script/server-scripting/concept/c_ReferenceQualifiers.md)
+[Reference qualifiers](c_ReferenceQualifiers.md)
 

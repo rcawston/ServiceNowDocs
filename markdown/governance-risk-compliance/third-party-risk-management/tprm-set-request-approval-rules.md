@@ -43,7 +43,7 @@ Each approval level can contain multiple approval rules. Each approval rule can 
 
 7.  Select the source for the request.
 
-    For descriptions of all these fields, see [Approval rule form](../reference/tprm-ar-form.md).
+    For descriptions of all these fields, see [Approval rule form](tprm-ar-form.md).
 
 8.  Select **Submit**.
 

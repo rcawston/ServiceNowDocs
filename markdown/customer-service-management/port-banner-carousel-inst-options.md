@@ -27,7 +27,7 @@ Slides
 
 </td><td>
 
-The images to appear on the widget chosen from a set of predefined slides or slides that you have created.For more information, see [Create a slide for the Portal Banner Carousel widget](../task/create-carousel-slides.md).
+The images to appear on the widget chosen from a set of predefined slides or slides that you have created.For more information, see [Create a slide for the Portal Banner Carousel widget](customer-self-service-and-omnichannel-engagement/create-carousel-slides.md).
 
 </td></tr></tbody>
 </table><table id="table_abz_c25_2zb"><thead><tr><th>
@@ -67,9 +67,9 @@ The alignment of content inside the widget for all carousel slides.
 </table>**Related topics**  
 
 
-[Portal Banner Carousel widget](../concept/csm-portal-carousel-widget.md)
+[Portal Banner Carousel widget](customer-self-service-and-omnichannel-engagement/csm-portal-carousel-widget.md)
 
-[Add and configure the Portal Banner Carousel widget](../task/config-portal-banner-carousel-widget.md)
+[Add and configure the Portal Banner Carousel widget](customer-self-service-and-omnichannel-engagement/config-portal-banner-carousel-widget.md)
 
-[Create a slide for the Portal Banner Carousel widget](../task/create-carousel-slides.md)
+[Create a slide for the Portal Banner Carousel widget](customer-self-service-and-omnichannel-engagement/create-carousel-slides.md)
 

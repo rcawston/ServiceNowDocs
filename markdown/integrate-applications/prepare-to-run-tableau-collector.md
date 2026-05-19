@@ -42,7 +42,7 @@ The collector uses the Tableau Metadata API to harvest metadata. You must enable
     See [Set up a YAML file for hostnames mapping](prepare-to-run-tableau-collector.md#).
 
 
-**Parent Topic:**[Tableau metadata collector](../concept/tableau-metadata-collector.md)
+**Parent Topic:**[Tableau metadata collector](tableau-metadata-collector.md)
 
 ## Enable Tableau Metadata API
 

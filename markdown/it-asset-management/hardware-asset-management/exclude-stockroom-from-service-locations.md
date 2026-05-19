@@ -41,5 +41,5 @@ Role required: inventory\_admin
 -   The stockroom isn't shown in the Stockrooms missing service locations important actions card even if the stockroom doesn't support service locations.
 -   The **Service location** tab doesn't show the **Add** option for adding service locations to the stockroom.
 
-**Parent Topic:**[Manage stockrooms](../concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](manage-your-stockrooms.md)
 

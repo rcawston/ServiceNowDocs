@@ -36,5 +36,5 @@ Role required: discovery\_admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Nutanix Acropolis discovery](../reference/nutanix-pattern.md)
+**Parent Topic:**[Nutanix Acropolis discovery](nutanix-pattern.md)
 

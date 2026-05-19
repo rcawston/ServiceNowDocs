@@ -419,5 +419,5 @@ The vendor of the storage switch.
 
 ![infinibox class model.](../image/infinibox-class-model.png "Infinibox Class Model")
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

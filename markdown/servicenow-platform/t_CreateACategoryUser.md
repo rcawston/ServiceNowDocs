@@ -34,12 +34,12 @@ When you create category users, choose users who are knowledgeable and can answe
 4.  Select the appropriate users for this category.
 
 
-**Parent Topic:**[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+**Parent Topic:**[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 **Related topics**  
 
 
-[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 [Associate multiple category users to multiple assessable records](t_AssocMultCatUsrsToMultAssessRecs.md)
 

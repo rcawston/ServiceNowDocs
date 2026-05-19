@@ -44,7 +44,7 @@ Role required: itil or admin
     The selected records are associated with the interaction.
 
 
-**Parent Topic:**[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+**Parent Topic:**[Interaction Management in Service Operations Workspace](interaction-sow.md)
 
 **Related topics**  
 

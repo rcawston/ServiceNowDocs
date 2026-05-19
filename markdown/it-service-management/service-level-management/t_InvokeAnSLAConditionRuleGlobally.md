@@ -34,10 +34,10 @@ By default, the SLAConditionBase is used for the SLA condition rules. This can b
     **Note:** This is the default condition rule, if no condition rule is specified on an SLA definition.
 
 
-**Parent Topic:**[Extend SLA condition rules](../concept/c_ExtendSLAConditionRules.md)
+**Parent Topic:**[Extend SLA condition rules](c_ExtendSLAConditionRules.md)
 
 **Related topics**  
 
 
-[SLA condition rules](../concept/c_SLAConditionRules.md)
+[SLA condition rules](c_SLAConditionRules.md)
 

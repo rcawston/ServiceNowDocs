@@ -123,13 +123,13 @@ Prevents the deletion of a policy if the policy is specified in the **Default ta
 **Related topics**  
 
 
-[Intelligent Task Recommendation](../concept/fsm-task-recommendation.md)
+[Intelligent Task Recommendation](fsm-task-recommendation.md)
 
-[Configuring Intelligent Task Recommendations](../concept/administer-task-recommendations.md)
+[Configuring Intelligent Task Recommendations](field-service-scheduling/administer-task-recommendations.md)
 
-[Assign work order tasks to agents using Intelligent Task Recommendation](../concept/manage-work-order-tasks-dw.md#)
+[Assign work order tasks to agents using Intelligent Task Recommendation](field-service-scheduling/manage-work-order-tasks-dw.md#)
 
-[Assign tasks to yourself based on Intelligent Task Recommendation](../task/recommend-task-fsm-mobile.md)
+[Assign tasks to yourself based on Intelligent Task Recommendation](work-order-management/recommend-task-fsm-mobile.md)
 
 ## Intelligent Task Recommendations system properties
 

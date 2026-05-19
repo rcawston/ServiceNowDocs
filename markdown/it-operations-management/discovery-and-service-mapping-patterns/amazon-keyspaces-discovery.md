@@ -40,5 +40,5 @@ Keyspaces are stored in Cloud Databases \[cmdb\_ci\_cloud\_database\] table.
 |FQDN|Fully qualified domain name of the region where the keyspace is located.|
 |Port|Port used for incoming TLS connections \(9142\).|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

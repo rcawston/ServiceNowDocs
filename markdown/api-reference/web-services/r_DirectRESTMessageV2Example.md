@@ -43,5 +43,5 @@ gs.info("Response: " + responseBody);
 gs.info("HTTP Status: " + status);
 ```
 
-**Parent Topic:**[Scripting outbound REST](../../../../../integrate/outbound-rest/concept/c_ScriptingOutboundREST.md)
+**Parent Topic:**[Scripting outbound REST](c_ScriptingOutboundREST.md)
 

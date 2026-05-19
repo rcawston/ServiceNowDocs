@@ -55,12 +55,12 @@ You can create a business capability by navigating to **All** &gt; **CSDM** &gt;
     -   On the business capability record, in the Related Items section.
     -   In the DPM Workspace, on the Info tab of a service or business application.
 
-**Parent Topic:**[Configuring Digital Portfolio Management](../concept/dpm-configure-cfw.md)
+**Parent Topic:**[Configuring Digital Portfolio Management](dpm-configure-cfw.md)
 
 **Related topics**  
 
 
-[View service and service offering details](../concept/dpm-service-details.md)
+[View service and service offering details](dpm-service-details.md)
 
-[View business application details](../concept/dpm-business-apps-details.md)
+[View business application details](dpm-business-apps-details.md)
 

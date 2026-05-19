@@ -70,5 +70,5 @@ To confirm risk-based assessments on AI assets and risk roll-up function correct
 
 [Create control attestations for AI asset](attest-controls-for-ai-systems.md)
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

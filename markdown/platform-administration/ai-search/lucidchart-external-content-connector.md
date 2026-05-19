@@ -20,11 +20,11 @@ Connector administrators can run or schedule content crawls to retrieve updated 
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
--   **[Configure Lucidchart for external content indexing](../task/configure-lucidchart-external-content-indexing.md)**  
+-   **[Configure Lucidchart for external content indexing](configure-lucidchart-external-content-indexing.md)**  
 Create and authorize an OAuth 2.0 application in the Lucid developer tools and enable the SCIM API in the Lucid admin tools to allow the Lucidchart external content connector to access your Lucidchart content.
--   **[Create a Lucidchart external content connector](../task/create-ext-cont-connector-lucidchart.md)**  
+-   **[Create a Lucidchart external content connector](create-ext-cont-connector-lucidchart.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Lucidchart source system.
--   **[Configure crawl settings for a Lucidchart external content connector](../task/configure-crawl-settings-lucidchart-external-content-connector.md)**  
+-   **[Configure crawl settings for a Lucidchart external content connector](configure-crawl-settings-lucidchart-external-content-connector.md)**  
 Specify the folders you want your Lucidchart external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -32,7 +32,7 @@ Specify the folders you want your Lucidchart external content connector to crawl
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

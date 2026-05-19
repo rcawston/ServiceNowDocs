@@ -17,7 +17,7 @@ You can generate user stories from open or resolved findings to facilitate the r
 
 Role required: admin
 
-**Note:** The Scan Engine integrates with Agile project management tools, including Jira, Azure DevOps, and ServiceNow Agile development. For information on configuring integration properties to automatically create work items from findings, refer to [User story integration](../concept/user-story-integration-properties.md).
+**Note:** The Scan Engine integrates with Agile project management tools, including Jira, Azure DevOps, and ServiceNow Agile development. For information on configuring integration properties to automatically create work items from findings, refer to [User story integration](user-story-integration-properties.md).
 
 ## Procedure
 

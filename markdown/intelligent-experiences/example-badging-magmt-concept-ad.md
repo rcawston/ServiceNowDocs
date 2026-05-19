@@ -25,8 +25,8 @@ Automate various badge-related tasks through desktop actions in AI Desktop Actio
 
 To access the AI Desktop Actions functionality, perform the following steps:
 
--   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [Configure AI Desktop Actions](../task/configure-agentic-desktop.md).
--   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [Download AI Desktop Actions installer](../task/download-agentic-desktop-installer.md).
+-   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [Configure AI Desktop Actions](configure-agentic-desktop.md).
+-   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [Download AI Desktop Actions installer](download-agentic-desktop-installer.md).
 
 Confirm that the following system requirements are met:
 
@@ -127,7 +127,7 @@ Role required: sn\_aia.admin
     |Screen2 &gt; Click2|Delay after|5|
     |Screen3 &gt; Click2|Delay after|10|
 
-    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md).
+    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](screen-anchor-and-action-properties-ad.md).
 
 16. Modify the auto-generated names for all added screens, anchors, and steps.
 
@@ -147,7 +147,7 @@ Role required: sn\_aia.admin
 
 20. Test and activate the desktop action.
 
-    For more information, see [Test and activate a desktop action in AI Desktop Actions](../task/test-activate-desktop-action-ad.md).
+    For more information, see [Test and activate a desktop action in AI Desktop Actions](test-activate-desktop-action-ad.md).
 
 21. Similarly, create and activate the following desktop actions.
 
@@ -270,11 +270,11 @@ List of steps
 
 6.  Complete the remaining steps that are necessary.
 
-    For more information, see [Create an AI agent](../../../administer/now-assist-ai-agents/task/configure-next-best-action-agent.md).
+    For more information, see [Create an AI agent](configure-next-best-action-agent.md).
 
 7.  Select **Save and test** to complete the configuration steps or review a previous step by selecting **Back**.
 
-    Selecting Save and test leads you to the AI agent testing page, where you can test the AI agent that you created. For more information, see [Manually test the execution of an AI agent](../../../administer/now-assist-ai-agents/task/test-ai-agent.md).
+    Selecting Save and test leads you to the AI agent testing page, where you can test the AI agent that you created. For more information, see [Manually test the execution of an AI agent](test-ai-agent.md).
 
     To test the AI agent, you must have the sn\_aia.admin role and any roles the ACLs configured for the AI agent and its tools require, if applicable.
 
@@ -283,5 +283,5 @@ List of steps
 
 Enable your HR representatives to trigger AI agents from the Now Assist panel to address badge-related requests.
 
-For more information, see [Example: Use AI agents to process badge-related requests automatically](../task/example-use-badging-ai-agent-ad.md).
+For more information, see [Example: Use AI agents to process badge-related requests automatically](example-use-badging-ai-agent-ad.md).
 

@@ -15,7 +15,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 Users can view all active announcements. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-This widget lists the active announcements for a portal from the Announcement \[announcement\] table. To see the list of active announcements, navigate to **All** &gt; **Service Portal** &gt; **Announcements**. For information about creating announcements, see [Create an announcement](../task/create-announcement.md).
+This widget lists the active announcements for a portal from the Announcement \[announcement\] table. To see the list of active announcements, navigate to **All** &gt; **Service Portal** &gt; **Announcements**. For information about creating announcements, see [Create an announcement](create-announcement.md).
 
 ![](../image/announcement-widget.png "Announcements widget")
 
@@ -103,9 +103,9 @@ Control who can and cannot view a widget instance with [user criteria](user-crit
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

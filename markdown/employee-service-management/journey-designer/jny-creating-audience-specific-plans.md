@@ -15,9 +15,9 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 Administrators can develop Journey Accelerator templates for customized plans with stages that include user tasks for different audiences.
 
--   **[Create and manage action plan task templates](../task/jny-create-manage-task-templates.md)**  
+-   **[Create and manage action plan task templates](jny-create-manage-task-templates.md)**  
 Create and manage the task templates that managers, mentors, and employees can use for their Journey designer plans. Use task templates to provide a consistent and streamlined experience for creating Journey designer plans.
--   **[Manage to-do templates created by managers in Journey designer](../task/jny-manager-todo-templates.md)**  
+-   **[Manage to-do templates created by managers in Journey designer](jny-manager-todo-templates.md)**  
 Modify and manage to-do task templates that managers create.
 
 **Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)

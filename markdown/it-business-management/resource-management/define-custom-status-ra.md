@@ -44,5 +44,5 @@ Role required: admin
     **Important:** Selecting **Save** or **Update** overwrites the selected resource status in Step 4.
 
 
-**Parent Topic:**[Configure Resource Management Workspace](../concept/configure-rmw.md)
+**Parent Topic:**[Configure Resource Management Workspace](configure-rmw.md)
 

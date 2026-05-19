@@ -87,5 +87,5 @@ Evaluate the conditions and script specified for the recommendation.
 -   Score
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Spokes](../concept/spokes.md)
+</table>**Parent Topic:**[Spokes](spokes.md)
 

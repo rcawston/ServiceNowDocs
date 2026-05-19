@@ -48,10 +48,10 @@ Role required: admin
 
 When the predefined schedule triggers the Linux server discovery or a scheduled horizontal discovery runs, only the specific network adapters and their primary IP addresses are included in the discovery process.
 
-For more information, see [Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#).
+For more information, see [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#).
 
 **Related topics**  
 
 
-[Linux discovery](../../discovery/reference/r_DataCollDiscoLinuxComputers.md)
+[Linux discovery](r_DataCollDiscoLinuxComputers.md)
 

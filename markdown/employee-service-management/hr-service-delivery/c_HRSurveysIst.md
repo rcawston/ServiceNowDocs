@@ -31,13 +31,13 @@ When defining conditions like case sensitivity or null values, see API [GlideFil
 
 For more detailed information about working with surveys, trigger conditions, and survey questions, see [Get started with Survey Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyManagementLandingPage.md).
 
--   **[Add or modify an HR survey](../task/t_CreateOrModifyAnHRSurvey.md)**  
+-   **[Add or modify an HR survey](t_CreateOrModifyAnHRSurvey.md)**  
 You can modify the predefined HR satisfaction surveys to suit the needs of the organization, and create HR surveys.
--   **[Add or modify HR survey categories and questions](../task/t_CreateOrModifyHRSurveyQuestionsIst.md)**  
+-   **[Add or modify HR survey categories and questions](t_CreateOrModifyHRSurveyQuestionsIst.md)**  
 When an HR survey definition is created, a survey category is automatically added. You can create questions that are associated with this category or define another category for questions.
--   **[Publish a new HR survey](../task/t_PublishANewHRSurveyIst.md)**  
+-   **[Publish a new HR survey](t_PublishANewHRSurveyIst.md)**  
 Publish a new survey so users can complete it.
--   **[Add a trigger condition for an HR survey](../task/t_CreateTriggerConditionForHRSurveyIst.md)**  
+-   **[Add a trigger condition for an HR survey](t_CreateTriggerConditionForHRSurveyIst.md)**  
 When you create an HR survey, you can add a trigger condition to specify when the survey is sent and to whom.
 
 **Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)

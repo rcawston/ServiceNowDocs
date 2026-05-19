@@ -47,7 +47,7 @@ Source Type
 
 Types of log sources-   Node Log
 -   Table
-See [Log sources](../concept/les-log-sources-export.md) for more information.
+See [Log sources](les-log-sources-export.md) for more information.
 
 </td></tr><tr><td>
 
@@ -113,5 +113,5 @@ Conditions to forward logs selectively.**Note:** This field is visible only if y
 -   **[Create source type and multi topics in the LES source table](les-multi-topics-v2.md)**  
 Consume logs for each source type by creating multiple topics per source type. You can now leverage the option of customized selection of specific topics for different log sources during the debugging process, without impacting the other log tables.
 
-**Parent Topic:**[Administering Log Export Service \(LES\)](../concept/les-administer.md)
+**Parent Topic:**[Administering Log Export Service \(LES\)](les-administer.md)
 

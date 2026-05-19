@@ -70,7 +70,7 @@ Role required: asset, sn\_itam\_common.asset\_audit\_admin, or sn\_itam\_common.
         **Note:** You can start a new scan as many times as you need while the audit is in progress. After you mark the audit as **Complete**, you can't scan any more assets.
 
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](ham-inventory-audit.md)
 
 **Related topics**  
 

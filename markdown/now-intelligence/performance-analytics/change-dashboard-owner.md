@@ -24,7 +24,7 @@ Role required: Only users with the dashboard\_admin or admin role can change a d
 
 To learn who owns a dashboard, navigate to pa\_dashboards\_list.do and search for the dashboard.
 
-This topic refers to owners of Core UI dashboards. To change the owner of a dashboard in Platform Analytics experience, see [Configure Platform Analytics dashboard details](config-db-in-ac.md).
+This topic refers to owners of Core UI dashboards. To change the owner of a dashboard in Platform Analytics experience, see [Configure Platform Analytics dashboard details](../config-db-in-ac.md).
 
 ## Procedure
 

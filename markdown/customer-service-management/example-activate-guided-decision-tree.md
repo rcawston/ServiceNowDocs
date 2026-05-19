@@ -27,7 +27,7 @@ If you change an activated decision tree, remember to activate the decision tree
 
 1.  In Decision Tree Builder, select **Activate**.
 
-    -   If there are errors in your decision tree, error icons and alert messages are displayed. You must resolve the errors before you can activate the decision tree. For more information, see [Validation error notifications in Decision Tree Builder](../concept/validation-errors-builder.md).
+    -   If there are errors in your decision tree, error icons and alert messages are displayed. You must resolve the errors before you can activate the decision tree. For more information, see [Validation error notifications in Decision Tree Builder](validation-errors-builder.md).
     -   If there are no errors, a confirmation dialog box displays.
 2.  In the confirmation dialog box, select **Activate now**.
 

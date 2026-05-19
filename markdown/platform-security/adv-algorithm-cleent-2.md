@@ -98,7 +98,7 @@ Option to provide Integrity in GCM operation and does not apply for Column Level
 </td></tr></tbody>
 </table>3.  Click **Submit**.
 
-    The following example shows AES CBC-256 encryption. When Column Level Encryption Enterprise is active and the parent module is column\_level\_encryption, only Symmetric Data Encryption/Decryption AES CBC-256 applies as the crypto purpose. See [Cryptographic specification overview](../concept/cryptographic-purpose.md) for details.
+    The following example shows AES CBC-256 encryption. When Column Level Encryption Enterprise is active and the parent module is column\_level\_encryption, only Symmetric Data Encryption/Decryption AES CBC-256 applies as the crypto purpose. See [Cryptographic specification overview](platform-encryption/cryptographic-purpose.md) for details.
 
     ![Shows the AES-CBC-256 encryption configuration options.](../image/algorithm-definition.png)
 
@@ -107,11 +107,11 @@ Option to provide Integrity in GCM operation and does not apply for Column Level
 
 Perform one of the following operations:
 
--   Select an entry in the Key Lifecycle table to define key lifecycle behavior. See [Configure key lifecycle states](configure-key-lifecycle-states.md) for details to complete the lifecycle definition for the key.
+-   Select an entry in the Key Lifecycle table to define key lifecycle behavior. See [Configure key lifecycle states](platform-encryption/configure-key-lifecycle-states.md) for details to complete the lifecycle definition for the key.
 -   Select **Next** to create a cryptographic key. See one of the following tasks for key generation:
-    -   [Generate a ServiceNow cryptographic key](generate_sn_key.md).
-    -   [Configure properties for customer-supplied keys](../../encryption/concept/customer-supplied-keys.md).
-    -   [Import the wrapping / unwrapping key pair](../concept/import-key-webservice-1.md#).
+    -   [Generate a ServiceNow cryptographic key](platform-encryption/generate_sn_key.md).
+    -   [Configure properties for customer-supplied keys](customer-supplied-keys.md).
+    -   [Import the wrapping / unwrapping key pair](platform-encryption/import-key-webservice-1.md#).
 
-**Parent Topic:**[Using Column Level Encryption](../../encryption/concept/using-column-level-encryption-2.md)
+**Parent Topic:**[Using Column Level Encryption](using-column-level-encryption-2.md)
 

@@ -42,17 +42,17 @@ You can also view cases and case tasks directly from the Workbench Overview that
 
 [Creating cases using Threat Analyst Workbench](create-cases-using-threat-analyst-workbench.md)
 
-[Creating case task using Threat Analyst Workbench](../task/tisc-create-case-task.md)
+[Creating case task using Threat Analyst Workbench](tisc-create-case-task.md)
 
 [Working with Investigation Canvas](tisc-investigation-canvases.md)
 
-[Add artifacts to case\(s\) or case task\(s\)](../task/add-artifacts-to-a-case-s.md)
+[Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
 
-[Run Enrichment Actions within a case](../task/run-enrichment-results.md)
+[Run Enrichment Actions within a case](run-enrichment-results.md)
 
-[View Case Reports](../task/view-case-reports.md)
+[View Case Reports](view-case-reports.md)
 
-[Create a security incident from a TISC case](../task/tisc-create-si-case.md)
+[Create a security incident from a TISC case](tisc-create-si-case.md)
 
-[Upload Secure File Attachments](../task/secure-file-attachments.md)
+[Upload Secure File Attachments](secure-file-attachments.md)
 

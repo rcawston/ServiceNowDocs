@@ -46,10 +46,10 @@ Activating the On-Call Scheduling plugin activates the following third-party lib
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configuring On-Call Scheduling](../concept/configuration.md)
+**Parent Topic:**[Configuring On-Call Scheduling](configuration.md)
 
 **Related topics**  
 
 
-[On-Call Scheduling](../../on-call-scheduling/concept/c_OnCallScheduling.md)
+[On-Call Scheduling](c_OnCallScheduling.md)
 

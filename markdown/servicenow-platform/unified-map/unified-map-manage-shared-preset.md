@@ -50,7 +50,7 @@ Configuration settings for shared presets are saved in the **Unified Map shared 
 
 ## Result
 
-The new shared preset is listed in the **Unified map shared presets** related list on the Configuration Identifier form. In addition, shared presets used in a map profile are listed in the **Node Map Profiles** related list. For more information, see [How configuration settings for Unified Map are stored](../concept/unified-map-config-settings-viewing.md)
+The new shared preset is listed in the **Unified map shared presets** related list on the Configuration Identifier form. In addition, shared presets used in a map profile are listed in the **Node Map Profiles** related list. For more information, see [How configuration settings for Unified Map are stored](unified-map-config-settings-viewing.md)
 
 ## What to do next
 
@@ -75,7 +75,7 @@ The new shared preset is listed in the **Unified map shared presets** related li
     Select **Reset filter**.
 
 
-**Parent Topic:**[Configuring Unified Map — admin settings](../concept/administer-unified-map.md)
+**Parent Topic:**[Configuring Unified Map — admin settings](administer-unified-map.md)
 
 **Related topics**  
 

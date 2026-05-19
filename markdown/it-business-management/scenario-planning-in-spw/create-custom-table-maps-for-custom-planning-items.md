@@ -27,7 +27,7 @@ Role required: sn\_align\_core.apw\_admin
 
 3.  Create a new table map by selecting **New** in the **Table maps** tab.
 
-4.  In the [Table map form](../reference/table-map-form.md), fill in the fields.
+4.  In the [Table map form](table-map-form.md), fill in the fields.
 
 5.  Select **Submit**.
 

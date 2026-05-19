@@ -116,7 +116,7 @@ Role required: sam\_user or sam\_admin
 
     3.  Update the corresponding Entitlement Import Error form as needed to resolve the error.
 
-        For descriptions of the Entitlement Import Error form fields, see [Entitlement import error fields](../reference/entitlement-import-error-fields.md). For details about the actions that you can take on entitlement import errors, see [Entitlement import error actions](../reference/import-software-rights-form.md).
+        For descriptions of the Entitlement Import Error form fields, see [Entitlement import error fields](entitlement-import-error-fields.md). For details about the actions that you can take on entitlement import errors, see [Entitlement import error actions](import-software-rights-form.md).
 
     4.  Select **Import**.
 
@@ -125,5 +125,5 @@ Role required: sam\_user or sam\_admin
     5.  Repeat steps a-d for each error that you want to resolve.
 
 
-**Parent Topic:**[Importing Microsoft entitlements from a Microsoft License Statement \(MLS\)](../concept/importing-mls-entitlements.md)
+**Parent Topic:**[Importing Microsoft entitlements from a Microsoft License Statement \(MLS\)](importing-mls-entitlements.md)
 

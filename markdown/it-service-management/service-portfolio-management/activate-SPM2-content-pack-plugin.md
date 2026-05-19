@@ -30,7 +30,7 @@ Installing the Service Portfolio Management Taxonomy Content Pack \(com.snc.spm.
 -   Access sample lists of service data.
 -   Link to periphery example data, such as vendors and contracts.
 
-You can view the sample content in the **Service Portfolios** module of the Service Portfolio Management application as **Sample IT Services Portfolio**. Alternatively, you can view data in the DPM Workspace. For more information, see [Digital Portfolio Management](../../digital-portfolio-management/reference/dpm-landing.md).
+You can view the sample content in the **Service Portfolios** module of the Service Portfolio Management application as **Sample IT Services Portfolio**. Alternatively, you can view data in the DPM Workspace. For more information, see [Digital Portfolio Management](../digital-portfolio-management/dpm-landing.md).
 
 **Important:** For Step 2 in the procedure, enter `com.snc.spm.content` in the Search field, and check the box to **Load demo data**.
 
@@ -52,5 +52,5 @@ You can view the sample content in the **Service Portfolios** module of the Serv
 -   **[View Service Portfolio Management sample IT services portfolio content](use-SPM2-sample-service-portfolio.md)**  
 Access, view, and analyze the Service Portfolio Management sample IT services portfolio content to plan and create your service portfolio. Consider the sample structure as a starting point. You can add to it or modify it to suit the specific needs of your organization.
 
-**Parent Topic:**[Configuring Service Portfolio Management](../concept/SPM2-configuring.md)
+**Parent Topic:**[Configuring Service Portfolio Management](SPM2-configuring.md)
 

@@ -32,5 +32,5 @@ To use Threat Intelligence Orchestration you need a fully populated CMDB with do
     You are now ready to use Threat Intelligence Orchestration activities within a workflow.
 
 
-**Parent Topic:**[Threat Intelligence Orchestration](../concept/c_ThreatIntelligenceOrchestration.md)
+**Parent Topic:**[Threat Intelligence Orchestration](c_ThreatIntelligenceOrchestration.md)
 

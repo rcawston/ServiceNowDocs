@@ -19,5 +19,5 @@ The following illustration shows the default card view with cases that are curre
 
 ![Portal Case Cards widget displaying case cards.](../image/portal-case-cards-widget.png "Portal Case Cards widget")
 
-For more information about how to configure the instance options for the Portal Case Cards widget, see [Add and configure the Portal Case Cards widget](../task/portal-case-card-widget-inst-optns.md).
+For more information about how to configure the instance options for the Portal Case Cards widget, see [Add and configure the Portal Case Cards widget](portal-case-card-widget-inst-optns.md).
 

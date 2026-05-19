@@ -30,5 +30,5 @@ Identify, manage, and complete all your learning goals from the Learning tab in 
 -   **[Opportunity Marketplace overview](egd-opportunity-marketplace-ovrvw.md)**  
 The Opportunity Marketplace is a single, unified space where individuals and organizations can share opportunities that are discoverable by employees.
 
-**Parent Topic:**[HR Service Delivery](../../human-resources/concept/hr-service-delivery.md)
+**Parent Topic:**[HR Service Delivery](../hr-service-delivery/hr-service-delivery.md)
 

@@ -21,5 +21,5 @@ Regular expressions with the additional flag work in all places that expect a re
 |----|-----------|
 |j|Defines a regular expression that executes using the Java regular expression engine. It can be used to access Java-only features of regular expressions \(such as look behind, negative look behind\) or to use Java regular expressions without translating them into JavaScript regular expressions. For example: `var regex = /ex(am)ple/j;`|
 
-**Parent Topic:**[Using regular expressions in server-side scripts](../concept/c_RegularExpressionsInScripts.md)
+**Parent Topic:**[Using regular expressions in server-side scripts](c_RegularExpressionsInScripts.md)
 

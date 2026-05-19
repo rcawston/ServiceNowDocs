@@ -26,5 +26,5 @@ Understand the fields of the table map form. This form is used to create a new c
 |Active flag|Ensures that the table map sync is active. This field is checked by default.|
 |Sync attachments|Ensures that the attachments are synced between the applications. This field is checked by default.|
 
-**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

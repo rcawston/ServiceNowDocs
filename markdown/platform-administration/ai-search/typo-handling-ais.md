@@ -19,7 +19,7 @@ To define auto-correction terms for a search profile, modify settings in the pro
 
 AI Search automatically creates a typo handling dictionary for a search profile when you link search sources to that profile. You can't delete a typo handling dictionary, unlink it from its search profile, or link it to any other search profile.
 
-To disable typo handling auto-correction for a search application, deselect the **Enable Typo Handling** option in the search application configuration. For more details on search application configuration settings, see [Create a search application configuration for AI Search](../task/create-search-app-config-ais.md).
+To disable typo handling auto-correction for a search application, deselect the **Enable Typo Handling** option in the search application configuration. For more details on search application configuration settings, see [Create a search application configuration for AI Search](create-search-app-config-ais.md).
 
 ## Conditions for auto-correction term eligibility
 
@@ -80,7 +80,7 @@ Search query term excluded from typo handling dictionary
 
 </td><td>
 
-Auto-correction ignores search query terms excluded from the typo handling dictionary. For instructions on excluding terms from a typo handling dictionary, see [Exclude a term from a typo handling dictionary](../task/exclude-typo-handling-terms-ais.md).
+Auto-correction ignores search query terms excluded from the typo handling dictionary. For instructions on excluding terms from a typo handling dictionary, see [Exclude a term from a typo handling dictionary](exclude-typo-handling-terms-ais.md).
 
 </td></tr></tbody>
 </table>## Automatic refresh of auto-correction term lists
@@ -150,9 +150,9 @@ If a misspelled search query term is defined as a stop word, AI Search auto-corr
 If a misspelled search query term is defined as a synonym, AI Search expands that synonym without auto-correcting it.
 
 </td></tr></tbody>
-</table>-   **[Modify settings for a typo handling dictionary](../task/config-typo-handling-dict-ais.md)**  
+</table>-   **[Modify settings for a typo handling dictionary](config-typo-handling-dict-ais.md)**  
 Modify typo handling dictionary settings for a search profile.
--   **[Exclude a term from a typo handling dictionary](../task/exclude-typo-handling-terms-ais.md)**  
+-   **[Exclude a term from a typo handling dictionary](exclude-typo-handling-terms-ais.md)**  
 Prevent AI Search from auto-correcting a term in user search queries by excluding the term from a typo handling dictionary.
 
 **Parent Topic:**[Search profiles in AI Search](defining-search-profiles-ais.md)

@@ -38,7 +38,7 @@ Role required: None
     ![Catalog item Gen AI request](../image/hr-case.png "Example: Gen AI Virtual Agent assistance in creating an HR case after requesting a catalog item")
 
 
-**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](../concept/use-now-assist-hr.md)
+**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](use-now-assist-hr.md)
 
 **Related topics**  
 
@@ -59,7 +59,7 @@ Role required: None
 
 [Generate resolution notes using Now Assist for HRSD](now-assist-hrsd-res-note.md)
 
-[View employee summary reports](../../td-leader-hub/task/employee-summary-lh.md)
+[View employee summary reports](employee-summary-lh.md)
 
 [Summarize actions while transferring an HR case](tcase-now-assist-hr.md)
 
@@ -69,7 +69,7 @@ Role required: None
 
 [Use the Now Assist panel in HR Agent Workspace](now-assist-panel-hr.md)
 
-[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](../concept/integ-now-assist-hrsd.md)
+[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](integ-now-assist-hrsd.md)
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](analyze-sentiments-now-assist.md)
 

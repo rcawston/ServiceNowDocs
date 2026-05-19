@@ -33,5 +33,5 @@ Use launcher screen font icons in the upper right corner of your mobile screen. 
 |Megaphone Solid|e949|New York|![Megaphone Solid example](../image/mab-icon-launch-megafon-sol.png)|![Reversed Megaphone Solid example](../image/mab-icon-launch-megafon-sol-rtl.png)|
 |Web-Link Solid|f2d0|New York|![Web-Link Solid example](../image/mab-icon-launch-weblink-sol.png)| |
 
-**Parent Topic:**[Mobile icon reference](../concept/mobile-icon-reference.md)
+**Parent Topic:**[Mobile icon reference](mobile-icon-reference.md)
 

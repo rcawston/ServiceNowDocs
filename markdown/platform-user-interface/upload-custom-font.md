@@ -90,5 +90,5 @@ Add a new style such as bold or italic to your custom font family in Theme Build
 -   **[Delete a custom font from your theme](delete-custom-font.md)**  
 Delete and remove a custom font family or font face you no longer need from your Theme Builder theme.
 
-**Parent Topic:**[Working with Global styles](../concept/working-with-global-styles.md)
+**Parent Topic:**[Working with Global styles](working-with-global-styles.md)
 

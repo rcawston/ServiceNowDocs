@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the WriteToCSV component. For more information about these properties, see [Properties of the Data Writer components](../reference/util-datawriter-prop.md).
+You can configure the properties for the WriteToCSV component. For more information about these properties, see [Properties of the Data Writer components](util-datawriter-prop.md).
 
 ## Procedure
 
@@ -113,5 +113,5 @@ Boolean
 </table>4.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Data Writer](../concept/datawriter-utility.md)
+**Parent Topic:**[Data Writer](datawriter-utility.md)
 

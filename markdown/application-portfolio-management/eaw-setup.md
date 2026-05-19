@@ -17,11 +17,11 @@ You can configure the following categories:
 
 -   **Information Data Domains**
 
-    Data domain is a collection of information objects. Relate an information object to the database catalog of a database instance to collect the physical data. ServiceNow Discovery finds database catalog that lists all the catalog objects, or databases, discovered for an instance of a database. To create a data domain, see [Add or edit an information data domain](../../task/eaw-task/eaw-add-edit-info-data-domain.md).
+    Data domain is a collection of information objects. Relate an information object to the database catalog of a database instance to collect the physical data. ServiceNow Discovery finds database catalog that lists all the catalog objects, or databases, discovered for an instance of a database. To create a data domain, see [Add or edit an information data domain](eaw-add-edit-info-data-domain.md).
 
 -   **Architectural Artifact Categories**
 
-    The architectural artifact categories enable you to categorize and manage artifacts more efficiently. To create an architectural artifact category, see [Add or edit an architectural artifact category](../../task/eaw-task/eaw-add-edit-arch-art-category.md).
+    The architectural artifact categories enable you to categorize and manage artifacts more efficiently. To create an architectural artifact category, see [Add or edit an architectural artifact category](eaw-add-edit-arch-art-category.md).
 
 -   **TCO**
 
@@ -55,7 +55,7 @@ Enterprise Modeling and Visualization refers to the modeling and diagramming too
 -   **[Manage certification policies](eaw-config-cert-schedules.md)**  
 You can configure certification policies to keep your business applications inventory up to date. Keeping your business application data current helps you to assess your business applications precisely as there are indicators that are dependent on these business applications.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 **Related topics**  
 

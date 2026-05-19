@@ -21,5 +21,5 @@ Use the Diagnostic Scripts form to scan the data in your application for any cor
 |Description|Details of the diagnostic script. The description enables the user to understand the functions of the script.|
 |Diagnostic script|The actual code for the diagnostic script.|
 
-**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

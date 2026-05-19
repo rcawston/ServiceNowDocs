@@ -32,5 +32,5 @@ Role required: You can edit any data visualization you own unless it is a shared
     ![Element configuration- Data update section](../../dashboards/image/db-config-data-update-ac.png)
 
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](configure-data-visualizations.md)
 

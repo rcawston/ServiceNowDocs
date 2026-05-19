@@ -69,5 +69,5 @@ Custom Platform URL to be inspected.**Note:** Don’t copy-paste the complete UR
 </table>3.  Click **Inspect**.
 
 
-**Parent Topic:**[Page Inspector](../concept/atf-page-inspector.md)
+**Parent Topic:**[Page Inspector](atf-page-inspector.md)
 

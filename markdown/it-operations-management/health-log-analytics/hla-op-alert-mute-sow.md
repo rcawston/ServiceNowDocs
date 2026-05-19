@@ -47,7 +47,7 @@ When you mute an alert that is based on the keyword metric or the pattern severi
 -   **[View the list of muted metrics in Health Log Analytics](hla-op-alert-view-ignored-list.md)**  
 View the list of metrics that were muted so that they no longer generate alerts.
 
-**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](../concept/hla-op-alert-significance.md)
+**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](hla-op-alert-significance.md)
 
 **Related topics**  
 

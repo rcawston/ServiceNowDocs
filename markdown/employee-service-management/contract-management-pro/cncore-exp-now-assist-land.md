@@ -31,13 +31,13 @@ The following AI capabilities are available to a contract fulfiller:
 
     Extracts metadata from a signed contract in contract repository record and displays the information on the Document Intelligence interface.
 
-    For more information on activating the skill, see [Configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md). For more information on extracting the metadata from a contract, see [Contract metadata extraction using Now Assist in Contract Management](cncore-metadata-extract-land.md).
+    For more information on activating the skill, see [Configure Now Assist in Contract Management](confg-na-in-cmpro.md). For more information on extracting the metadata from a contract, see [Contract metadata extraction using Now Assist in Contract Management](cncore-metadata-extract-land.md).
 
 -   **Contract analysis**
 
     Reviews the contract document for non-standard and missing clauses.
 
-    For more information on activating the skill, see [Configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md). For more information on contract analysis, see [Contract analysis using Now Assist in Contract Management](cncore-NA-review-land.md).
+    For more information on activating the skill, see [Configure Now Assist in Contract Management](confg-na-in-cmpro.md). For more information on contract analysis, see [Contract analysis using Now Assist in Contract Management](cncore-NA-review-land.md).
 
 -   **Contract obligation extraction**
 
@@ -45,7 +45,7 @@ The following AI capabilities are available to a contract fulfiller:
 
     **Note:** Obligation extraction is available only with the manage contract repository agentic workflow.
 
-    For more information on activating the skill, see [Configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md).
+    For more information on activating the skill, see [Configure Now Assist in Contract Management](confg-na-in-cmpro.md).
 
 -   **Conversational contract search and insights**
 
@@ -61,7 +61,7 @@ The following AI capabilities are available to a contract fulfiller:
 
     -   No support for search within scanned PDF documents
     -   Search functionality is limited to contracts stored in internal storage only
-    For more information on activating the skill, see [Configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md).
+    For more information on activating the skill, see [Configure Now Assist in Contract Management](confg-na-in-cmpro.md).
 
 
 You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).
@@ -113,7 +113,7 @@ The following workflow shows how different users work together to configure and 
 4.  In the system properties, the administrator specifies whether the metadata extraction should be automatically or manually initiated.
 5.  When a contract repository record is created with a signed contract, a contract manager with the sn\_cm\_gen\_ai.ai\_contract\_fulfiller role initiates the metadata extraction process.
 
-    The system properties can also be configured to initiate the metadata extraction process automatically when the contract repository record is created. For more information, see [Configure system properties for contract metadata extraction](../task/cncore-conf-sys-prop-na.md).
+    The system properties can also be configured to initiate the metadata extraction process automatically when the contract repository record is created. For more information, see [Configure system properties for contract metadata extraction](cncore-conf-sys-prop-na.md).
 
 6.  The contract manager receives a notification when the metadata extraction is successfully completed.
 
@@ -150,6 +150,6 @@ The following sample end-to-end workflow shows how different users work together
 
 To learn more about configuring and using Now Assist in Contract Management, see the following topics:
 
--   [Configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md)
+-   [Configure Now Assist in Contract Management](confg-na-in-cmpro.md)
 -   [Using Now Assist in Contract Management](cncore-use-now-assist-land.md)
 

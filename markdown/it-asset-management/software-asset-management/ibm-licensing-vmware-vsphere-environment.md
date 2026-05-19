@@ -37,7 +37,7 @@ When you install and run an IBM software product on a VM, you must license each 
 
 </td></tr><tr><td>
 
-Sub-capacity**Note:** You can use sub-capacity licensing only if you configure and specify a VM manager for your VMs. For more information on VM managers, see [Specify the virtual machine managers \(VMMs\) for which you are tracking IBM licenses](../task/specify-vm-managers-anglepoint-integration.md).
+Sub-capacity**Note:** You can use sub-capacity licensing only if you configure and specify a VM manager for your VMs. For more information on VM managers, see [Specify the virtual machine managers \(VMMs\) for which you are tracking IBM licenses](specify-vm-managers-anglepoint-integration.md).
 
 </td><td>
 

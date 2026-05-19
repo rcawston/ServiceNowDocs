@@ -70,7 +70,7 @@ Role required: sn\_eam.enterprise\_admin, sn\_eam.enterprise\_asset\_manager, sn
 
 ## Result
 
-The audit result field values are updated on the **Details** tab screen. For a detailed field description, see [Audit results](../reference/audit-results-eam.md).
+The audit result field values are updated on the **Details** tab screen. For a detailed field description, see [Audit results](audit-results-eam.md).
 
 ## What to do next
 
@@ -80,7 +80,7 @@ The audit result field values are updated on the **Details** tab screen. For a d
 **Related topics**  
 
 
-[Audit results](../reference/audit-results-eam.md)
+[Audit results](audit-results-eam.md)
 
 [Create an enterprise asset from the inventory audit screen](inventory-audit-create-asset-eam.md)
 

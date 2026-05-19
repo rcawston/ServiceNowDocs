@@ -52,5 +52,5 @@ A knowledge article is published depending on the workflow setting of its knowle
 
 For more information, see [Schedule a knowledge article for publishing in Microsoft Word](schedule-article-publishing-word.md).
 
-If the article versioning feature is enabled, the version of the article is incremented based on the [version number pattern](../concept/knowledge-article-version-numbers.md).
+If the article versioning feature is enabled, the version of the article is incremented based on the [version number pattern](knowledge-article-version-numbers.md).
 

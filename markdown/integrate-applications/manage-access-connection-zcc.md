@@ -77,5 +77,5 @@ The df\_data\_steward role is granted to or removed from the selected roles. Eac
 
 After access is granted, ITSM data stewards can only access and manage external ITSM data, while finance data stewards can only access and manage external finance data.
 
-**Parent Topic:**[Managing zero copy connections](../concept/managing-connections-zcc.md)
+**Parent Topic:**[Managing zero copy connections](managing-connections-zcc.md)
 

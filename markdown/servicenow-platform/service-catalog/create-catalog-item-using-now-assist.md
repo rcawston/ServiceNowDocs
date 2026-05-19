@@ -58,5 +58,5 @@ Role required: catalog\_builder\_editor
 **Related topics**  
 
 
-[Suggestions to describe catalog items](../reference/how-to-describe-catalog-item.md)
+[Suggestions to describe catalog items](how-to-describe-catalog-item.md)
 

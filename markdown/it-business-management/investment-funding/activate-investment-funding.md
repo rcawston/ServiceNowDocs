@@ -94,10 +94,10 @@ The following components are installed with installation of the Investment Fundi
 -   Roles
 -   Tables
 
-See [Components installed with Investment Funding](../reference/installed-with-investment-funding.md) for more information.
+See [Components installed with Investment Funding](installed-with-investment-funding.md) for more information.
 
--   **[Components installed with Investment Funding](../reference/installed-with-investment-funding.md)**  
+-   **[Components installed with Investment Funding](installed-with-investment-funding.md)**  
 Several types of components are installed with activation of the Investment Funding \(sn\_invst\_pln\) plugin, including tables and user roles.
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

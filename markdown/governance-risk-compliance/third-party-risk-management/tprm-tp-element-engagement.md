@@ -21,7 +21,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor that is the due diligence re
 
 ## About this task
 
-You can assign third-party elements to an engagement after they’ve been reviewed and approved by the third-party risk manager and internal stakeholders. For more information, see [Monitoring third-party elements](../concept/tprm-monitor-tp-elements.md) and [Create a third-party element record](tprm-tp-element-create.md).
+You can assign third-party elements to an engagement after they’ve been reviewed and approved by the third-party risk manager and internal stakeholders. For more information, see [Monitoring third-party elements](tprm-monitor-tp-elements.md) and [Create a third-party element record](tprm-tp-element-create.md).
 
 ## Procedure
 

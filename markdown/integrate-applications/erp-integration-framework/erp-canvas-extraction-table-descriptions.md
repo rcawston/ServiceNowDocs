@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The Extraction table form in Zero Copy Connector for ERP \(Enterprise Resource Planning\) enables you to create and edit extraction tables in the ERP model.
 
-For process details, see [Add a new ERP extraction table in Zero Copy Connector for ERP](../task/erp-canvas-add-new-extraction-table.md).
+For process details, see [Add a new ERP extraction table in Zero Copy Connector for ERP](erp-canvas-add-new-extraction-table.md).
 
 <table id="table_cv1_h3z_wxb"><thead><tr><th>
 

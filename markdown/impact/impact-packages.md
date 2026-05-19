@@ -32,7 +32,7 @@ If you have purchased an Impact offering, the applicable Impact Package descript
 
 ## Accelerator consumption per Impact package
 
-Depending on the Impact package that you have purchased, there’s an allotment of how many Accelerators from each sub-catalog that can be consumed consecutively. See [Accelerator catalog](../concept/accelerator-catalog.md) for additional information on Accelerators and sub-catalogs.
+Depending on the Impact package that you have purchased, there’s an allotment of how many Accelerators from each sub-catalog that can be consumed consecutively. See [Accelerator catalog](accelerator-and-initiative-list/accelerator-catalog.md) for additional information on Accelerators and sub-catalogs.
 
 The following consumption allocations apply to all variations \(for example, US PubSec, MSP Dedicated\) and versions \(for example, V3 &amp; V4\) of Impact packages, unless otherwise specified.
 
@@ -85,11 +85,11 @@ Managed Support
 
 -   Upgraded P1/P2 level issue initial target response times
 -   Additional SAM coverage on 1 instance
--   Five [Impact Developer Support](../concept/developer-support.md) seats
+-   Five [Impact Developer Support](developer-support.md) seats
 
 </td></tr><tr><td>
 
-[Monitoring instance health with Instance Observer](../concept/io-overview.md) Features
+[Monitoring instance health with Instance Observer](io-overview.md) Features
 
 </td><td align="left">
 
@@ -106,7 +106,7 @@ Ten Instance Observer seats, in addition to the procured Impact package
 
 </td></tr><tr><td>
 
-[Preventive Care](../concept/preventive-care.md)
+[Preventive Care](accelerator-and-initiative-list/preventive-care.md)
 
 </td><td align="left">
 

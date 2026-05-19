@@ -42,5 +42,5 @@ Role required: sn\_wsd\_kiosk.operator
     You have successfully setup the kiosk on your device for workplace visitors and guests to make a reservation. For more information, see [Make workplace reservations on the kiosk](rsv-space-kiosk-map.md).
 
 
-**Parent Topic:**[Configuring Workplace Services Kiosk](../concept/configure-workplace-services-kiosk.md)
+**Parent Topic:**[Configuring Workplace Services Kiosk](configure-workplace-services-kiosk.md)
 

@@ -85,5 +85,5 @@ Intraday Optimization is configured to run at defined intervals and on demand, a
 **Related topics**  
 
 
-[Configuring Schedule Optimization](../concept/schedule-optimization-engine.md)
+[Configuring Schedule Optimization](schedule-optimization-engine.md)
 

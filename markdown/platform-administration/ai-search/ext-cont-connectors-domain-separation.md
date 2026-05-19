@@ -27,7 +27,7 @@ For more information on support levels, see [Application support for domain sepa
 
 The External Content Connectors ServiceNow® Store application allows you to make content from external source system documents searchable in AI Search applications. External content connectors do not support domain separation.
 
-**Note:** The External Content Connectors application includes an External Content Connectors Service Account user that's assigned to the global domain by default. If your instance has domain separation configured, assigning this user to another domain can prevent user permission crawls from correctly mapping permissions to users in your instance. To correct this behavior, reassign the External Content Connectors Service Account user to the global domain. For details on this procedure, see [Reassign the External Content Connectors Service Account user to the global domain](../task/reassign-ext-cont-connectors-svc-acct-usr-global-domain.md).
+**Note:** The External Content Connectors application includes an External Content Connectors Service Account user that's assigned to the global domain by default. If your instance has domain separation configured, assigning this user to another domain can prevent user permission crawls from correctly mapping permissions to users in your instance. To correct this behavior, reassign the External Content Connectors Service Account user to the global domain. For details on this procedure, see [Reassign the External Content Connectors Service Account user to the global domain](reassign-ext-cont-connectors-svc-acct-usr-global-domain.md).
 
 **Parent Topic:**[Exploring External Content Connectors](exploring-ext-cont-connectors.md)
 

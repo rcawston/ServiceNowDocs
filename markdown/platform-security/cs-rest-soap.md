@@ -23,5 +23,5 @@ Sign and validate the existing REST and SOAP messages by enabling the Code Signi
 -   **[Sign new REST and SOAP messages](cs-new-rest-soap.md)**  
 Sign and validate the new REST and SOAP messages from the trusted instance by enabling the Code Signing in protected and trusted instances.
 
-**Parent Topic:**[Using Code Signing](../concept/using-code-signing.md)
+**Parent Topic:**[Using Code Signing](using-code-signing.md)
 

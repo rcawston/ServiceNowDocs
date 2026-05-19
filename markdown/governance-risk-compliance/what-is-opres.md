@@ -38,7 +38,7 @@ As stated earlier, Operational Resilience provides a clear understanding of your
 
 Users, managers, and administrators with an Operational Resilience IRM Pro license can now access the associated reports, charts, and data. Similarly, those with an Operational Resilience BCM Pro license can also access their respective reports, charts, and data.
 
-For more information on the updated roles, see [Roles installed with Operational Resilience](../reference/roles-installed-with-op-res.md).
+For more information on the updated roles, see [Roles installed with Operational Resilience](roles-installed-with-op-res.md).
 
 ## Operational Resilience workflow
 
@@ -69,10 +69,10 @@ The Operational Resilience application provides the following benefits:
 
 |Benefits|Features|Users|
 |--------|--------|-----|
-|Analyze the importance and impact tolerance of a business service.|[Performing Importance and impact tolerance assessment](../../grc-operational-res-ws/concept/analyze-impact-tolerance-importance-of-service-in-ws.md)|Operational Resilience managers and users|
-|Perform a scenario analysis in Operational Resilience workspace.|[Conducting a Scenario analysis](../../grc-operational-res-ws/concept/scenario-analysis-in-ws.md)|Operational Resilience managers and users|
-|Self-attest the business services in Operational Resilience workspace.|[Certifying services using self-attestation](../../grc-operational-res-ws/concept/self-attestation-in-ws.md)|Operational Resilience managers and users|
-|Add an issue, change request, incident, and outage in Operational Resilience workspace.|[Creating or adding an issue](../../grc-operational-res-ws/concept/issue-architecture-changes.md)|Operational Resilience managers and users|
+|Analyze the importance and impact tolerance of a business service.|[Performing Importance and impact tolerance assessment](analyze-impact-tolerance-importance-of-service-in-ws.md)|Operational Resilience managers and users|
+|Perform a scenario analysis in Operational Resilience workspace.|[Conducting a Scenario analysis](scenario-analysis-in-ws.md)|Operational Resilience managers and users|
+|Self-attest the business services in Operational Resilience workspace.|[Certifying services using self-attestation](self-attestation-in-ws.md)|Operational Resilience managers and users|
+|Add an issue, change request, incident, and outage in Operational Resilience workspace.|[Creating or adding an issue](issue-architecture-changes.md)|Operational Resilience managers and users|
 |Add or remove an operational vulnerability in Operational Resilience workspace.|[Managing Operational vulnerability](operational-vulnerability.md)|Operational Resilience managers and users|
 
 ## Coral theme

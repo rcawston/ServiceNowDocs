@@ -23,7 +23,7 @@ Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
 ## About this task
 
-For the application, you specify the number of deployables to generate and the SDLC environment that the deployables represent. When you upload existing config data into the application, the system maps the data as `[name:value]` pairs \(config data items — CDIs\) in the appropriate node in the data structure of the CDM application. For an overview of the process of preparing a new application to receive config data, see [Preparing an application for config data upload](../concept/cdm-prep-app-for-upload.md).
+For the application, you specify the number of deployables to generate and the SDLC environment that the deployables represent. When you upload existing config data into the application, the system maps the data as `[name:value]` pairs \(config data items — CDIs\) in the appropriate node in the data structure of the CDM application. For an overview of the process of preparing a new application to receive config data, see [Preparing an application for config data upload](cdm-prep-app-for-upload.md).
 
 ## Procedure
 
@@ -161,5 +161,5 @@ The application is not yet structured to accept config data, so the next step is
 **Related topics**  
 
 
-[CDM data model](../reference/cdm-data-model.md)
+[CDM data model](cdm-data-model.md)
 

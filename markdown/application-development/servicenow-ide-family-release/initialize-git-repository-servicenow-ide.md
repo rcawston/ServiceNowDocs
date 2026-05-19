@@ -19,7 +19,7 @@ Initialize a local Git repository for an application and push it to a remote Git
 
 -   Create or convertan application with the ServiceNow IDE. For more information, see [Create an application with the ServiceNow IDE](create-application-servicenow-ide.md)or [Convert an application with the ServiceNow IDE](convert-application-servicenow-ide.md).
 -   Create a dedicated Git repository for the application from your Git provider.
--   Set your basic or OAuth 2.0 credentials for the ServiceNow IDE to connect to your Git repository. For more information, see [Connect to a Git provider using basic authentication with the ServiceNow IDE](connect-git-provider-basic-auth.md) or [Configure OAuth 2.0 credentials to connect to a Git provider with the ServiceNow IDE](../concept/connect-git-provider-oauth-2.md#).
+-   Set your basic or OAuth 2.0 credentials for the ServiceNow IDE to connect to your Git repository. For more information, see [Connect to a Git provider using basic authentication with the ServiceNow IDE](connect-git-provider-basic-auth.md) or [Configure OAuth 2.0 credentials to connect to a Git provider with the ServiceNow IDE](connect-git-provider-oauth-2.md#).
 
 Role required: admin
 
@@ -58,18 +58,18 @@ If your Git credentials aren't configured or are inactive, the application isn't
 
 ## What to do next
 
-You can check out or create branches in the repository and push changes to the remote repository. For more information, see [Using source control in the ServiceNow IDE](../concept/using-source-control-servicenow-ide.md).
+You can check out or create branches in the repository and push changes to the remote repository. For more information, see [Using source control in the ServiceNow IDE](using-source-control-servicenow-ide.md).
 
-**Parent Topic:**[Integrating source control with the ServiceNow IDE](../concept/integrating-source-control-servicenow-ide.md)
+**Parent Topic:**[Integrating source control with the ServiceNow IDE](integrating-source-control-servicenow-ide.md)
 
 **Related topics**  
 
 
 [Connect to a Git provider using basic authentication with the ServiceNow IDE](connect-git-provider-basic-auth.md)
 
-[Connect to a Git provider using OAuth 2.0 with the ServiceNow IDE](../concept/connect-git-provider-oauth-2.md#)
+[Connect to a Git provider using OAuth 2.0 with the ServiceNow IDE](connect-git-provider-oauth-2.md#)
 
 [Configure a MID Server to use source control with the ServiceNow IDE](configure-mid-server-source-control.md)
 
-[Using source control in the ServiceNow IDE](../concept/using-source-control-servicenow-ide.md)
+[Using source control in the ServiceNow IDE](using-source-control-servicenow-ide.md)
 

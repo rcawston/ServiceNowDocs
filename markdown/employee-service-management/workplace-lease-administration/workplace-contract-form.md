@@ -321,9 +321,9 @@ Percentage increase or decrease in price of contract. A negative percentage indi
  You can specify a value for either **Cost adjustment** or **Cost adjustment percentage** but not both.
 
 </td></tr></tbody>
-</table>For detailed information on how to create workplace contract, see [Create workplace contracts in Core UI](../task/create-lease-contracts.md)
+</table>For detailed information on how to create workplace contract, see [Create workplace contracts in Core UI](create-lease-contracts.md)
 
-**Parent Topic:**[Workplace Lease Administration references](../concept/workplace-lease-references.md)
+**Parent Topic:**[Workplace Lease Administration references](workplace-lease-references.md)
 
 **Related topics**  
 

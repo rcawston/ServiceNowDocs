@@ -32,5 +32,5 @@ To learn more about configuring and using RPA Desktop Design Studio, see:
 -   [Building automations](rpa-studio-build.md)
 -   [Using automations](rpa-studio-use.md)
 -   [Automation components](rpa-studio-automation-components.md)
--   [RPA Desktop Design Studio reference](../reference/rpa-studio-reference.md)
+-   [RPA Desktop Design Studio reference](rpa-studio-reference.md)
 

@@ -19,7 +19,7 @@ This action is similar to the **Get All Opportunities** action.
 
 In addition to the maximum number of records to be returned by the query, this action also takes a Salesforce Account Id as input to be used as a query parameter. The value of this parameter is provided by the relationship that links the customer account and the Salesforce opportunity through the associated Salesforce Account Id. For more information, see [Create defined related lists](csm-account-opportunities-action.md).
 
-The specific relationship needed for the reference example is also described in the [Using a related list to create the connection between the Customer Account and Salesforce Opportunities](../concept/csm-related-list-opportunity-table.md) topic.
+The specific relationship needed for the reference example is also described in the [Using a related list to create the connection between the Customer Account and Salesforce Opportunities](csm-related-list-opportunity-table.md) topic.
 
 The Salesforce Account Id action input parameter has no default value.
 
@@ -55,5 +55,5 @@ The pre-processing output is a query, similar to the **Get All Opportunities** a
 
 These steps and outputs are the same as for the **Get All Opportunities** action.
 
-**Parent Topic:**[Create Salesforce spoke actions to retrieve opportunities](../concept/csm-integration-salesforce-spoke.md)
+**Parent Topic:**[Create Salesforce spoke actions to retrieve opportunities](csm-integration-salesforce-spoke.md)
 

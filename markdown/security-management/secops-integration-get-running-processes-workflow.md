@@ -17,7 +17,7 @@ Role required: sn\_si.analyst
 
 ![Security Operations - Get Running Processes Flow](../image/get-running-processes-flow.png "Get Running Processes")
 
-Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](common-wf-activities.md).
 
-**Parent Topic:**[Security Operations Integration- Get Running Processes capability](../../security-operations-common/concept/get-running-processes-capability.md)
+**Parent Topic:**[Security Operations Integration- Get Running Processes capability](get-running-processes-capability.md)
 

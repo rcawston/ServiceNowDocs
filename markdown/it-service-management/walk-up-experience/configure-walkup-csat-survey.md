@@ -32,5 +32,5 @@ Creating a new customer satisfaction survey requires that you first define a new
 3.  To modify or complete the form, refer to [Modify a survey definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifySurveyDefinitions.md).
 
 
-**Parent Topic:**[Configure Walk-up Experience customer satisfaction surveys](../concept/walkup-survey.md)
+**Parent Topic:**[Configure Walk-up Experience customer satisfaction surveys](walkup-survey.md)
 

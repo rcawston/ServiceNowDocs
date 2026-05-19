@@ -91,5 +91,5 @@ Steps
 8.  View the created request by selecting **View Details**.
 
 
-**Parent Topic:**[Request Management in Service Operations Workspace](../concept/request-sow.md)
+**Parent Topic:**[Request Management in Service Operations Workspace](request-sow.md)
 

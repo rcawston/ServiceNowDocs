@@ -28,7 +28,7 @@ Role required: sn\_apm.apm\_user
 4.  Select **Architectural Documents**.
 
 
-**Parent Topic:**[Manage architectural documents](../../concept/eaw-concept/manage-arch-documents.md)
+**Parent Topic:**[Manage architectural documents](manage-arch-documents.md)
 
 **Related topics**  
 
@@ -39,9 +39,9 @@ Role required: sn\_apm.apm\_user
 
 [Add a related entity to an architectural document](add-related-entity-arch-doc.md)
 
-[Manage artifact content](../../reference/eaw-reference/manage-artifact-content.md)
+[Manage artifact content](manage-artifact-content.md)
 
 [Delete an architectural document](delete-architectural-document.md)
 
-[Working with the document templates](../../concept/eaw-concept/document-templates-for-ea.md)
+[Working with the document templates](document-templates-for-ea.md)
 

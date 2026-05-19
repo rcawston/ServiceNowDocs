@@ -15,7 +15,7 @@ Column Level Encryption permits and denies access to encrypted data based on use
 
 **Important:**
 
-Starting with the Zurich release, Column Level Encryption \(CLE\) and Column Level Encryption Enterprise \(CLEE\) are being prepared for future deprecation. They will be hidden and no longer activated on new instances but will continue to be supported. [Field Encryption](field-encryption.md) and [Field Encryption Enterprise](../../now-platform-encryption/concept/now-platform-encryption.md) provide the latest experience for this functionality.
+Starting with the Zurich release, Column Level Encryption \(CLE\) and Column Level Encryption Enterprise \(CLEE\) are being prepared for future deprecation. They will be hidden and no longer activated on new instances but will continue to be supported. [Field Encryption](field-encryption.md) and [Field Encryption Enterprise](now-platform-encryption.md) provide the latest experience for this functionality.
 
 For details, see the Deprecation Process \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] article in the Now Support knowledge base.
 
@@ -59,5 +59,5 @@ Learn how to activate and configure Column Level Encryption and manage migration
 -   **[Using Column Level Encryption](using-column-level-encryption-2.md)**  
 Use Column Level Encryption to manage access to encrypted data on your instances.
 
-**Parent Topic:**[Encryption](../../security/concept/encryption-landing.md)
+**Parent Topic:**[Encryption](encryption-landing.md)
 

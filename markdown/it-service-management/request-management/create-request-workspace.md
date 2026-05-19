@@ -126,5 +126,5 @@ Steps
 6.  To view the created request, click **View Details**.
 
 
-**Parent Topic:**[Using Request Management](../../request-management/concept/using-request-management.md)
+**Parent Topic:**[Using Request Management](using-request-management.md)
 

@@ -17,7 +17,7 @@ Create Help Center content to provide your users with helpful information about 
 
 ## Before you begin
 
-Create or edit an embedded help record before creating a guidance record by following the steps in [Add custom Embedded Help content](../../help-guided-tours/task/add-custom-help-topic.md) to create content or [Add custom Embedded Help from a copy](../../help-guided-tours/task/add-custom-help-copy.md) to modify existing content.
+Create or edit an embedded help record before creating a guidance record by following the steps in [Add custom Embedded Help content](add-custom-help-topic.md) to create content or [Add custom Embedded Help from a copy](add-custom-help-copy.md) to modify existing content.
 
 Role required: admin
 
@@ -91,7 +91,7 @@ Embedded help content
 
 </td><td>
 
-The content of your guidance, which is displayed to users in the Help Center. Select an existing embedded help record, or create an embedded help record as described in [Add custom Embedded Help content](../../help-guided-tours/task/add-custom-help-topic.md).
+The content of your guidance, which is displayed to users in the Help Center. Select an existing embedded help record, or create an embedded help record as described in [Add custom Embedded Help content](add-custom-help-topic.md).
 
 </td></tr><tr><td>
 

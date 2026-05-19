@@ -22,16 +22,16 @@ Discovery supports Bourne Shell \(sh\) and Bourne-again Shell \(bash\) commands.
 
 **Note:** To discover network devices, such as routers and switches, use [SNMP credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_SNMPCredentials.md) credentials, not SSH credentials.
 
--   **[SSHCommand parameters](../reference/r_Parameters.md)**  
+-   **[SSHCommand parameters](r_Parameters.md)**  
 Several parameters are available for the SSHCommand probe.
 -   **[SSHCommand path](c_SSHCommandPath.md)**  
 The SSHCommand probe computes the default path from the following sources.
--   **[Shell script options](../reference/r_ShellScriptOptions.md)**  
+-   **[Shell script options](r_ShellScriptOptions.md)**  
 The SSHCommand probe supports the following scripting options in the ECC queue name field.
--   **[SSH commands not requiring a privileged user during probe-based discovery](../reference/discovery-ssh-probe-commands.md)**  
+-   **[SSH commands not requiring a privileged user during probe-based discovery](discovery-ssh-probe-commands.md)**  
 These tables display the SSH commands run by Discovery probes on target devices during horizontal discovery. These SSH commands don’t require elevated privileges to run.
--   **[SSH commands requiring a privileged user during probe-based discovery](../reference/discovery-ssh-command-require-priv.md)**  
+-   **[SSH commands requiring a privileged user during probe-based discovery](discovery-ssh-command-require-priv.md)**  
 These tables display the SSH commands run by Discovery probes during horizontal discovery. These SSH commands require elevated privileges to run.
 
-**Parent Topic:**[List of Discovery probes](../reference/r_ListOfDiscoveryProbes.md)
+**Parent Topic:**[List of Discovery probes](r_ListOfDiscoveryProbes.md)
 

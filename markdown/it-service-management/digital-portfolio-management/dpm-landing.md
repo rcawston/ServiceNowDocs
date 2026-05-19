@@ -23,19 +23,19 @@ This video provides an overview to manage your service-related data in the DPM W
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the Digital Portfolio Management \(DPM\) Workspace concepts and features.](../concept/dpm-explore-cfw.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the Digital Portfolio Management \(DPM\) Workspace concepts and features.](dpm-explore-cfw.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the DPM Workspace environment, tools, and user access.](../concept/dpm-configure-cfw.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the DPM Workspace environment, tools, and user access.](dpm-configure-cfw.md)
 
 </td></tr><tr><td>
 
-[Get started![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Get started with the DPM Workspace and manage your solutions.](../concept/dpm-using-cfx.md)
+[Get started![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Get started with the DPM Workspace and manage your solutions.](dpm-using-cfx.md)
 
 </td><td>
 
-[Work with portfolios![](../../../reuse/icons/brand-icons/bus-asset.svg)Work with personal and enterprise portfolios in the DPM Workspace.](../concept/dpm-explore-portfolios.md)
+[Work with portfolios![](../../../reuse/icons/brand-icons/bus-asset.svg)Work with personal and enterprise portfolios in the DPM Workspace.](dpm-explore-portfolios.md)
 
 </td></tr><tr><td>
 

@@ -60,5 +60,5 @@ Types of system reports include:
 8.  Click **Update**.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

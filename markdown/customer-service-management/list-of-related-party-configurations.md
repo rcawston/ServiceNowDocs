@@ -57,7 +57,7 @@ Types and responsibilities for install bases are listed in the following table.
 |Listed Member|Not applicable|
 |Listed Service Organization|Not applicable|
 
-For more information on install base related parties, see [Add related parties to an install base item](../task/add-related-party-install-base.md).
+For more information on install base related parties, see [Add related parties to an install base item](add-related-party-install-base.md).
 
 ## Related party configurations for account team members
 

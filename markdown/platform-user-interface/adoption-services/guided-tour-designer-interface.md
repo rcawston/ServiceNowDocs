@@ -67,9 +67,9 @@ The GTD has the following features:
 **Related topics**  
 
 
-[GTD triggers](../reference/guided-tour-triggers.md)
+[GTD triggers](guided-tour-triggers.md)
 
-[Create Guided Tours](../task/add-guided-tour.md)
+[Create Guided Tours](add-guided-tour.md)
 
 [Guided Tour Designer use case](guided-tour-designer-use-case.md)
 

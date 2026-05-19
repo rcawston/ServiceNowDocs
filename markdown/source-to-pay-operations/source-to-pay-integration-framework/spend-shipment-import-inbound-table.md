@@ -45,7 +45,7 @@ The following table lists both the mandatory and optional fields for the Spend S
 |Tracking number|String|Tracking number of the shipment.|
 |Zip code|String|ZIP code of the shipment.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

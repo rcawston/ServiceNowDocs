@@ -50,5 +50,5 @@ For more details on calibration attributes, see [Add calibration attributes to a
 
 The quality standard is available to apply to your calibration attributes.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

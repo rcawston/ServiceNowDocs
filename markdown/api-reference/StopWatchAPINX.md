@@ -19,7 +19,7 @@ The StopWatch API provides methods to measure durations in the Next Experience U
 |----|----|-----------|
 |started|[Date object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)|Start date and time for the StopWatch. This value is set when calling the constructor [StopWatch\(Object started\)](StopWatchAPINX.md#) or the [restart\(\)](StopWatchAPINX.md#) method.|
 
-**Parent Topic:**[Client Next Experience API reference](../../../../../build/applications/concept/api-client-next.md)
+**Parent Topic:**[Client Next Experience API reference](api-client-next.md)
 
 ## StopWatch \(Next Experience\) - StopWatch\(Object started\)
 

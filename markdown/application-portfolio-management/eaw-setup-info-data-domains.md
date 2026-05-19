@@ -15,7 +15,7 @@ A data domain is a structured grouping of information objects that are categoriz
 
 You can add a new information data domain or edit an existing one.
 
--   **[Add or edit an information data domain](../../task/eaw-task/eaw-add-edit-info-data-domain.md)**  
+-   **[Add or edit an information data domain](eaw-add-edit-info-data-domain.md)**  
 Create or edit an information data domain to logically group related information objects and govern how information is organized and linked to underlying data sources across business applications.
 
 **Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)
@@ -25,5 +25,5 @@ Create or edit an information data domain to logically group related information
 
 [Manage information data domains](eaw-config-info-data-domains.md)
 
-[View information data domains](../../task/eaw-task/eaw-view-info-data-domains.md)
+[View information data domains](eaw-view-info-data-domains.md)
 

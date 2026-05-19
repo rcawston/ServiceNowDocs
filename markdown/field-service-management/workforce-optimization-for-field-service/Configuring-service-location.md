@@ -29,23 +29,23 @@ The steps for configuring Field Service with Service Locations are:
 
     Map a service location to a parent location by setting parent determination rules.
 
-3.  [Set the default validation option for service locations](../task/set-default-validation-option-for-service-locations.md)
+3.  [Set the default validation option for service locations](set-default-validation-option-for-service-locations.md)
 
     Set the default validation option that will be used when adding locations to a work order or work order task.
 
-4.  [Customize fields for mapping location](../task/customize-fields-for-mapping-location.md)
+4.  [Customize fields for mapping location](customize-fields-for-mapping-location.md)
 
     Customize ad-hoc fields for setting location appropriate location for work orders pr work order tasks when you add location using map interface.
 
-5.  [Add Service Locations functionality to a work order catalog item in the Customer Service Portal](../task/configure-service-location-record-producer.md)
+5.  [Add Service Locations functionality to a work order catalog item in the Customer Service Portal](configure-service-location-record-producer.md)
 
     Add Service Locations functionality to a work order or work order task catalog item to enable the ability to add a location on demand.
 
-6.  [Set the limit of maximum service locations added per day](../task/set-max-locations-limit.md)
+6.  [Set the limit of maximum service locations added per day](set-max-locations-limit.md)
 
     Set the limit of maximum service locations that can be added per day by an external user.
 
-7.  [Set the default location on a map](../task/set-default-location-while-using-map.md)
+7.  [Set the default location on a map](set-default-location-while-using-map.md)
 
     Set the initial default location for a service location on a map.
 

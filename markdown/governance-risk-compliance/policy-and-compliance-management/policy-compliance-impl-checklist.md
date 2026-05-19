@@ -46,7 +46,7 @@ As a user with the Compliance Administrator or Compliance Manager role, verify t
  1.  To verify the GRC: GRC Profile Dependencies core application is installed on your instance, navigate to **Plugins** and search for GRC Profile.
 2.  If the GRC Profile core application is not already installed, click **Install** to install it.
 3.  After the GRC Profile application is installed, install the Policy and Compliance Management core application.
- If Policy and Compliance Management is not visible in your instance, all of the GRC core applications are available from the ServiceNow Store. For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](../../grc-common/concept/grc-and-store.md).
+ If Policy and Compliance Management is not visible in your instance, all of the GRC core applications are available from the ServiceNow Store. For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](../grc-and-store.md).
 
 </td></tr><tr><td>
 
@@ -121,6 +121,6 @@ As a user with the Compliance Administrator or Compliance Manager role, create c
 </td></tr></tbody>
 </table>    Congratulations! You have successfully set up the GRC: Policy and Compliance Management base system. Depending on the needs of your organization, optional setup procedures are available. For example, if you integrate with Network Frontiers Unified Compliance Framework \(UCF\), procedures for managing the integration are here. Or if you want to set up the mobile experience for GRC: Policy and Compliance Management, those procedures are also here.
 
-    For detailed instructions for optional features, see [Policy and Compliance Management enhancement steps](../concept/policy-compliance-optional-steps.md).
+    For detailed instructions for optional features, see [Policy and Compliance Management enhancement steps](policy-compliance-optional-steps.md).
 
 

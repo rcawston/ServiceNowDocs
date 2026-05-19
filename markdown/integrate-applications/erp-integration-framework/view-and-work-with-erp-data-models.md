@@ -31,7 +31,7 @@ Role required: sn\_erp\_integration.erp\_admin
 
 A model functions as a staging area that contains all potential fields you can add to remote and extraction tables, as well as, create, read, and update operations. You can then use the tables and queried data as a data source on the ServiceNow AI Platform.
 
-Zero Copy Connector for ERP provides a standard set of models, such as SAP Material Stock and SAP Purchase Document. For a list, see [Standard ERP models and extraction tables for Zero Copy Connector for ERP](../reference/erp-canvas-standard-extraction-tables.md). For information about building new models, see [Create a model](erpc-add-new-data-model.md). Use Zero Copy Connector for ERP data products, sets of predefined models and process extensions, as examples to help you implement and deploy applications with less manual work. For more information, see [Zero Copy Connector for ERP content packs](../concept/erp-canvas-content-packs.md).
+Zero Copy Connector for ERP provides a standard set of models, such as SAP Material Stock and SAP Purchase Document. For a list, see [Standard ERP models and extraction tables for Zero Copy Connector for ERP](erp-canvas-standard-extraction-tables.md). For information about building new models, see [Create a model](erpc-add-new-data-model.md). Use Zero Copy Connector for ERP data products, sets of predefined models and process extensions, as examples to help you implement and deploy applications with less manual work. For more information, see [Zero Copy Connector for ERP content packs](erp-canvas-content-packs.md).
 
 ## Procedure
 
@@ -190,14 +190,14 @@ Number of times the model entity was updated.
 
 9.  View and confirm the table entity fields included in the ERP model by selecting the **Entity fields** tab of the ERP model record.
 
-    For a description of the field values, see [Zero Copy Connector for ERP ERP model table field descriptions](../reference/erp-canvas-erp-data-model-table-fields.md).
+    For a description of the field values, see [Zero Copy Connector for ERP ERP model table field descriptions](erp-canvas-erp-data-model-table-fields.md).
 
     ![Table entity fields for an ERP model](../image/erpc-material-stock.png "Zero Copy Connector for ERP table entity fields")
 
 
 ## What to do next
 
-After you have noted the available fields and tables, you can add new table entities to a model by managing the model. When you manage the model, you can also create read, update, and create operations using table reads and BAPIs \(Business Application Programming Interface\). For more information, see [Managing how models read and update the ERP system](../concept/erpc-managing-models-read.md).
+After you have noted the available fields and tables, you can add new table entities to a model by managing the model. When you manage the model, you can also create read, update, and create operations using table reads and BAPIs \(Business Application Programming Interface\). For more information, see [Managing how models read and update the ERP system](erpc-managing-models-read.md).
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

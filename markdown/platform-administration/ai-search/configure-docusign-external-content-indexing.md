@@ -84,5 +84,5 @@ Your connector admin needs these items to configure a Docusign external content 
 
 For details on creating and configuring a Docusign external content connector, see [Create a Docusign external content connector](create-ext-cont-connector-docusign.md).
 
-**Parent Topic:**[Docusign external content connector](../concept/docusign-external-content-connector.md)
+**Parent Topic:**[Docusign external content connector](docusign-external-content-connector.md)
 

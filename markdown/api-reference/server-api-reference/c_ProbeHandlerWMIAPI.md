@@ -17,7 +17,7 @@ The ProbeHandlerWMI script include is the discovery probe handler for Windows Ma
 
 You can use this script include in any server-side script where you need to configure an WMI probe.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ProbeHandlerWMI - getParameters\(\)
 

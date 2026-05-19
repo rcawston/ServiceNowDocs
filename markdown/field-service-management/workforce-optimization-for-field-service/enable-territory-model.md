@@ -38,7 +38,7 @@ Activate the Field Service Territory Planning plugin \(com.snc.fsm\_territory\_p
 
 After activating the Field Service territory model successfully, the **Territory** field is added to the work order task form. It allows you to assign tasks to agents or crews to specific territories.
 
-The agent's calendar filters based on territories in the Dispatcher Workspace, and the **Qualifier type for Schedule Optimization** system property is automatically set to **Territory**. For more information, see [Schedule Optimization properties](../reference/schedule-optimization-properties.md).
+The agent's calendar filters based on territories in the Dispatcher Workspace, and the **Qualifier type for Schedule Optimization** system property is automatically set to **Territory**. For more information, see [Schedule Optimization properties](../schedule-optimization-properties.md).
 
 Moreover, with **sn\_fsm.use\_query\_rules** query rule being active, agents, dispatchers, and qualifiers can view the work order tasks if they are created in their territories, ensuring data security.
 

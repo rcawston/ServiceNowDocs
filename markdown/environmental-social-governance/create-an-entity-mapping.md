@@ -42,5 +42,5 @@ You can map the existing data in your system, such as an entity, an entity type,
 
 The identifier is added to the entity. When the system detects the record identifier text during the importing of data, the record will be mapped to the correct entity.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](../concept/integrate-esg-with-watershed.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](integrate-esg-with-watershed.md)
 

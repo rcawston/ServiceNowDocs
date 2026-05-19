@@ -21,7 +21,7 @@ Evidence is defined as any digital artifacts gathered as part of an investigatio
 
 Set up HR Service Delivery Management so your agents can collect evidence and information related to Employee Relation \(ER\) cases.
 
-You can activate Evidence Management \[com.sn\_evidence\_management\] plugin if you have the admin role. This plugin activates when the Human Resources Scoped App: Employee Relations \[com.sn\_hr\_employee\_realtions\] plugin is activated. For more information, see [Activate Employee Relations](../task/activate-hr-employee-relations.md#).
+You can activate Evidence Management \[com.sn\_evidence\_management\] plugin if you have the admin role. This plugin activates when the Human Resources Scoped App: Employee Relations \[com.sn\_hr\_employee\_realtions\] plugin is activated. For more information, see [Activate Employee Relations](activate-hr-employee-relations.md#).
 
 ### Roles
 

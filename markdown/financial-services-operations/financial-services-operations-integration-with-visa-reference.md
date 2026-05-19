@@ -27,5 +27,5 @@ These plugins are installed with the Financial Services Operations Integration w
 -   **[Financial Services Operations Integration with Visa subflows](components-installed-with-the-financial-services-operations-integration-with-visa.md)**  
 You can use the following Financial Services Operations Integration with Visa application subflows to handle the card dispute management process.
 
-**Parent Topic:**[Financial Services Operations Integration with Visa reference](../concept/FSO-integration-with-visa-reference.md)
+**Parent Topic:**[Financial Services Operations Integration with Visa reference](FSO-integration-with-visa-reference.md)
 

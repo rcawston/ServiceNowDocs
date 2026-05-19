@@ -116,5 +116,5 @@ Your connector admin needs these items to configure a Workday external content c
 
 For details on creating and configuring a Workday external content connector, see [Create a Workday external content connector](create-ext-cont-connector-workday.md).
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](workday-external-content-connector.md)
 

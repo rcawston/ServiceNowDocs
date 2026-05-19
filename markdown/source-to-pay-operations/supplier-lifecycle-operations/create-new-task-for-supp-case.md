@@ -120,13 +120,13 @@ Create a task for an internal employee
 
 
 </td></tr></tbody>
-</table>    For more information about the form fields and descriptions on the Create a new task form, see [Create new task form](../reference/create-new-supplier-task-form.md).
+</table>    For more information about the form fields and descriptions on the Create a new task form, see [Create new task form](create-new-supplier-task-form.md).
 
 4.  Select **Submit**.
 
 5.  On the Task form, fill in the fields.![Create New Supplier task form.](../image/create-supplier-case-task-from-source-to-pay-workspace.png)
 
-    For more information about the form fields and descriptions, see [Task form](../reference/slo-task-form.md).
+    For more information about the form fields and descriptions, see [Task form](slo-task-form.md).
 
 6.  Select **Save**.
 
@@ -145,9 +145,9 @@ An email notification is triggered to the assigned stakeholder. They can complet
 
 ## What to do next
 
-The supplier contact to whom this task is assigned can view it on the **My To-dos** page. For more information, see [Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md).
+The supplier contact to whom this task is assigned can view it on the **My To-dos** page. For more information, see [Viewing supplier contact tasks from the Supplier Collaboration Portal](my-to-dos.md).
 
-**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](../concept/managing-tasks.md)
+**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
 **Related topics**  
 

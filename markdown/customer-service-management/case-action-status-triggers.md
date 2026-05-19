@@ -63,5 +63,5 @@ If a problem is associated with a case with the **Need task resolution** blockin
 
 If a problem is associated with a case with the **Need PRB workaround** blocking reason, a case flow is provided to resolve the blocking task when a workaround is provided or the problem record is closed or cancelled.
 
-**Parent Topic:**[Administering case action status](../concept/customer-service-case-action-status.md)
+**Parent Topic:**[Administering case action status](customer-service-case-action-status.md)
 

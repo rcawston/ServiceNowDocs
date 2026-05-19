@@ -86,5 +86,5 @@ Workflow publisher
 Checks out with force checkout option, validates, publishes, and deletes graphical workflows.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow administration](../concept/c_WorkflowAdministration.md)
+</table>**Parent Topic:**[Workflow administration](c_WorkflowAdministration.md)
 

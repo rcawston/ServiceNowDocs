@@ -17,7 +17,7 @@ The DateTimeUtils script include is a collection of date/time functions.
 
 You can use this script include in any server-side script, and is available through GlideAjax.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DateTimeUtils - int8ToGlideDateTime\(Number int64\)
 

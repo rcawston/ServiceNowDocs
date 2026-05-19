@@ -40,5 +40,5 @@ Role required: document\_management\_user
     After the initial document is uploaded, subsequent revisions can be created by checking out the document.
 
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](c_CreateADocument.md)
 

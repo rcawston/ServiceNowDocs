@@ -56,5 +56,5 @@ Configure AI Search Assist Actions for authenticated external users in Business 
 7.  Select **Update**.
 
 
-**Parent Topic:**[AI Search Assist for authenticated external users](../concept/enable-ai-search-for-business-portal-auth-external.md)
+**Parent Topic:**[AI Search Assist for authenticated external users](enable-ai-search-for-business-portal-auth-external.md)
 

@@ -20,9 +20,9 @@ You can configure the system to send certificate ownership attestation reviews b
 **Related topics**  
 
 
-[Configure a certificate attestation review](../task/configure-certificate-attestation.md)
+[Configure a certificate attestation review](configure-certificate-attestation.md)
 
-[Attest or Reject Certificate Ownership by Email](../task/attest-reject-certificate-notification.md)
+[Attest or Reject Certificate Ownership by Email](attest-reject-certificate-notification.md)
 
-[Reassign Certificate Ownership](../task/reassign-certificate-ownership.md)
+[Reassign Certificate Ownership](reassign-certificate-ownership.md)
 

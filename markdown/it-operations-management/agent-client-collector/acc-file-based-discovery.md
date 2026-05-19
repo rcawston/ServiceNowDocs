@@ -49,5 +49,5 @@ Role required: discovery\_admin
 
 ## Result
 
-When running Discovery for java installation, data is discovered through file-based discovery and is stored in the `ora_java_audit` table. For details on the data stored in this table, see [Data collected during Agent Client Collector for Visibility - Content file-based Discovery](../reference/data-collected-file-based-discovery.md).
+When running Discovery for java installation, data is discovered through file-based discovery and is stored in the `ora_java_audit` table. For details on the data stored in this table, see [Data collected during Agent Client Collector for Visibility - Content file-based Discovery](data-collected-file-based-discovery.md).
 

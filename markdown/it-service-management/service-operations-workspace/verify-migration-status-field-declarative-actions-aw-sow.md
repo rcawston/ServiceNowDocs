@@ -56,5 +56,5 @@ At the end of the migration process, a confirmation message specifies if the mig
         -   [Migrate the client action from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](migrate-field-declarative-client-action-aw-sow.md)
         -   [Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](migrate-field-declarative-ui-component-aw-sow.md)
 
-**Parent Topic:**[Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/field-declarative-actions-aw-sow.md)
+**Parent Topic:**[Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM](field-declarative-actions-aw-sow.md)
 

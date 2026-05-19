@@ -50,5 +50,5 @@ This example extends the sample flow for inbound email flow handling to add the 
 
 In this example, the Email Record was a received email that contained multiple attachments. The runtime value is the Sys ID reference to the received email record. The Target record was incident record INC0010220, which was updated by the email in flow step 1.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

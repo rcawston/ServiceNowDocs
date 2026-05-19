@@ -74,7 +74,7 @@ Multiple planning item types
 </td></tr></tbody>
 </table>3.  On the form, fill in the required field information.
 
-    For full field information, see [Demand planning item form](../reference/demand-form-portfolio-planning.md) or [Project planning item form](../reference/project-form-portfolio-planning.md).
+    For full field information, see [Demand planning item form](demand-form-portfolio-planning.md) or [Project planning item form](project-form-portfolio-planning.md).
 
 4.  Select **Submit**.
 
@@ -88,5 +88,5 @@ If you don’t fill both the approved start and end date fields, the item that y
 -   **[Modify planning items from roadmap](modify-planning-items-from-roadmap-portfolio-planning.md)**  
 Update the details of planning items or delete them from a portfolio plan or free-form roadmap so that your roadmap reflects the latest plans.
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](planning-roadmaps-in-portfolio-planning.md)
 

@@ -23,7 +23,7 @@ To view all the assets that are assigned to you, navigate to **My Items** &gt; *
 
 When you are away from your office, you can remotely receive an asset that is in transit. Scan the QR code for the asset tag so that you can automatically notify the IT department that you have received the asset.
 
-**Parent Topic:**[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+**Parent Topic:**[Mobile app for Hardware Asset Management](mobile-my-asset.md)
 
 **Related topics**  
 

@@ -14,11 +14,11 @@ The ServiceNow® Regulatory Change Management application enables you to check u
 
 ## Regulatory Change Management highlights for the Australia release
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](../australia-all-other-fixes.md)
 
 Review the updated skill family name for Regulatory change management Now Assist skills.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 Review the updated AI experience with three licensing tiers.
 

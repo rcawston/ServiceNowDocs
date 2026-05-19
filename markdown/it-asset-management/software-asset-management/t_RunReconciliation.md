@@ -38,5 +38,5 @@ When running reconciliation manually, allow enough time for the process to compl
     The reconciliation process may take an extended amount of time to complete. Once reconciliation is complete, the reconciliation results are shown.
 
 
-**Parent Topic:**[Software license usage](../concept/sam-license-workbench.md)
+**Parent Topic:**[Software license usage](sam-license-workbench.md)
 

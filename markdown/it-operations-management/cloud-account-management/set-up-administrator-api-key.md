@@ -45,15 +45,15 @@ Role required: Terraform admin
 
 ## What to do next
 
-[Setting up Cloud Account Management in Cloud Workspace](../concept/configuring-cloud-workspace.md)
+[Setting up Cloud Account Management in Cloud Workspace](configuring-cloud-workspace.md)
 
 [Add members to the group](add-member-group.md)
 
-[Set up Terraform API key in ServiceNow](configure-api-key.md).
+[Set up Terraform API key in ServiceNow](../../platform-security/authentication/configure-api-key.md).
 
 [Set up scan configuration for data visualization](set-up-data-visualization.md).
 
-**Parent Topic:**[Setting up Terraform and GitHub](../concept/about-terraform-git-and-servicenow_0.md)
+**Parent Topic:**[Setting up Terraform and GitHub](about-terraform-git-and-servicenow_0.md)
 
 **Related topics**  
 

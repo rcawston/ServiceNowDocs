@@ -17,7 +17,7 @@ Simplified navigation helps use an intuitive navigation for better information a
 
 ## Before you begin
 
-Before you start, ensure that you understand the useful information available in [EC Information architecture](../concept/ec-information-architecture.md).
+Before you start, ensure that you understand the useful information available in [EC Information architecture](ec-information-architecture.md).
 
 Role required: Admin and SP Admin
 

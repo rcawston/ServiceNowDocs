@@ -46,7 +46,7 @@ The Create Work Order agentic workflow allows users to create work orders from t
 
 ### Result
 
-The Create Work Order agentic workflow will appear in the Now Assist panel. The workflow can be triggered by asking Now Assist to create a work order, or by selecting the Create Work Order button. For more information, see [Create a work order using Now Assist for Field Service Management \(FSM\)](../task/create-work-order-now-assist-fsm.md).
+The Create Work Order agentic workflow will appear in the Now Assist panel. The workflow can be triggered by asking Now Assist to create a work order, or by selecting the Create Work Order button. For more information, see [Create a work order using Now Assist for Field Service Management \(FSM\)](create-work-order-now-assist-fsm.md).
 
 ## Configure the Create Work Order AI Agent for the Now Assist Virtual Agent
 
@@ -79,5 +79,5 @@ The Create Work Order AI agent allows users to create work orders in the Service
 
 ### Result
 
-The Create Work Order AI agent will appear in the ServiceNow Agent mobile application. The agent can be triggered by asking Now Assist to create a work order, or by selecting the Create Work Order button. For more information, see [Create a work order on ServiceNow Agent using Now Assist for Field Service Management \(FSM\)](../task/create-work-order-mobile-now-assist-fsm.md).
+The Create Work Order AI agent will appear in the ServiceNow Agent mobile application. The agent can be triggered by asking Now Assist to create a work order, or by selecting the Create Work Order button. For more information, see [Create a work order on ServiceNow Agent using Now Assist for Field Service Management \(FSM\)](create-work-order-mobile-now-assist-fsm.md).
 

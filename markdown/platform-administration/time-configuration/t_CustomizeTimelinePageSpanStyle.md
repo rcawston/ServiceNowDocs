@@ -35,5 +35,5 @@ The Timeline Page Span Styles related list allows you to define conditional span
     |Timeline page|Timeline page to which the span style applies. By default, the span applies to the current timeline.|
 
 
-**Parent Topic:**[Timeline pages](../concept/c_TimelinePages.md)
+**Parent Topic:**[Timeline pages](c_TimelinePages.md)
 

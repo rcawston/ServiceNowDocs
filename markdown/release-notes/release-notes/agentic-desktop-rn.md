@@ -14,7 +14,7 @@ The ServiceNow® AI Desktop Actions application enables you to design, configure
 
 ## AI Desktop Actions highlights for the Australia release
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](../australia-patch-2.md)
 
 -   The name of the application is now changed to AI Desktop Actions from Agentic Desktop.
 -   Use the desktop action to automate dynamic steps that are determined by AI, in addition to automating the recorded steps.
@@ -22,7 +22,7 @@ The ServiceNow® AI Desktop Actions application enables you to design, configure
 -   Use the **Show Inputs** / **Show All** buttons in the Test modal to filter required input fields.
 -   Use the latest LLM version for improved performance.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Improved error and informational messages for better guidance and troubleshooting.
 -   Added a **Delete** button to the image canvas to remove a screen.
@@ -130,7 +130,7 @@ Now Assist AI agents support various browsers, including Google Chrome and Micro
     The ServiceNow® Generative AI Controller lets you integrate third-party LLMs with your workflows.
 
 
-**Parent Topic:**[AI Experiences release notes](../analytics-intelligence-reporting/intelligent-experiences-rn-landing.md)
+**Parent Topic:**[AI Experiences release notes](intelligent-experiences-rn-landing.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

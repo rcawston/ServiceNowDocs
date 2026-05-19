@@ -68,6 +68,6 @@ Select the number of the anomaly alert to open the alert record.
     -   **Week ago**
 6.  Review relevant logs in context by selecting the Open in Surrounding logs icon:![Open in Surrounding logs icon](../image/icon-anomaly-logs-link.png).
 
-    The **Surrounding logs** tab displays the list of log lines that were generated one minute before and one second after the Log Analytics alert. For more information, see [How Health Log Analytics generates alerts](../../health-log-analytics-operator/concept/hla-op-anomalies-detecting.md).
+    The **Surrounding logs** tab displays the list of log lines that were generated one minute before and one second after the Log Analytics alert. For more information, see [How Health Log Analytics generates alerts](../health-log-analytics/hla-op-anomalies-detecting.md).
 
 

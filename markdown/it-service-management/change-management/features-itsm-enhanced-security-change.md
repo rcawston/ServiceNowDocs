@@ -46,10 +46,10 @@ The change task table is a child of the task \[task\] table and inherits all the
 </td></tr></tbody>
 </table>**Note:** For new or zboot instances, the ITSM Enhanced Security Features \(com.snc.itsm.enhanced\_security\) plugin is automatically installed.
 
-The ITSM Enhanced Security Features \(com.snc.itsm.enhanced\_security\) plugin can be installed and activated by an admin via a support request. Existing or upgrade users must test and evaluate the results in their non-production instance and then install the plugin and implement the security change in their production instance. For more information, see [Activate ITSM Enhanced Security Features for Change Management](../task/activate-itsm-enhanced-security-change.md).
+The ITSM Enhanced Security Features \(com.snc.itsm.enhanced\_security\) plugin can be installed and activated by an admin via a support request. Existing or upgrade users must test and evaluate the results in their non-production instance and then install the plugin and implement the security change in their production instance. For more information, see [Activate ITSM Enhanced Security Features for Change Management](activate-itsm-enhanced-security-change.md).
 
--   **[Activate ITSM Enhanced Security Features for Change Management](../task/activate-itsm-enhanced-security-change.md)**  
+-   **[Activate ITSM Enhanced Security Features for Change Management](activate-itsm-enhanced-security-change.md)**  
 Prevent unauthorized access to change-related tables using deny-unless ACLs by activating the ITSM Enhanced Security Features \(com.snc.itsm.enhanced\_security\) plugin.
 
-**Parent Topic:**[Reference section for Change Management](../concept/reference-change-management.md)
+**Parent Topic:**[Reference section for Change Management](reference-change-management.md)
 

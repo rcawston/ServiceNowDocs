@@ -18,7 +18,7 @@ Verify that your Windows Management Instrumentation \(WMI\) credential is encryp
 Role required: admin, KMF\_admin, sn\_secrets.secret\_manager, and sn\_kmf.cryptographic\_manager
 
 -   Integration Hub Enterprise must be active on your instance. For details, see [Request an Integration Hub plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/request-integrationhub.md).
--   You must have a configured secrets group on your instance. See steps 1 through 3 listed in [Configuring client accessible secrets](../concept/client-access-secret-landing.md).
+-   You must have a configured secrets group on your instance. See steps 1 through 3 listed in [Configuring client accessible secrets](client-access-secret-landing.md).
 -   You must have a configured credential encrypted with Secrets Management. See steps 1 through 9 listed in [Create credentials and test credential encryption](client-access-example-4.md).
 
 ## Procedure
@@ -33,7 +33,7 @@ Role required: admin, KMF\_admin, sn\_secrets.secret\_manager, and sn\_kmf.crypt
 
     2.  Open your credential record.
 
-        Verify that you have a credential alias listed in the **Credential alias** field. If you have not created one already, see [Create a Connection &amp; Credential alias](../../../product/credentials/task/connection-alias.md).
+        Verify that you have a credential alias listed in the **Credential alias** field. If you have not created one already, see [Create a Connection &amp; Credential alias](connections-and-credentials/connection-alias.md).
 
     3.  Select and hold \(or right-click\) the header of your credentials record, and select **Show XML** from the list.
 
@@ -169,5 +169,5 @@ Select **Run on a MID Server or have your script establish a remote session**
     ![Test file within a host server's file system](../images/test_flow_example_4.png)
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](client-access-secret-landing.md)
 

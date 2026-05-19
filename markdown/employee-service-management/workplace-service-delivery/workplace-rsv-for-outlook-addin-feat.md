@@ -27,7 +27,7 @@ Reserve a workplace space in less than a minute without using the Reservation po
 
 </td></tr><tr><td>
 
-[Reserve![](../../../reuse/icons/brand-icons/bus-headset.svg) Make a reservation using the Workplace Reservations for Microsoft Outlook Add-in.](../task/make-reservation-using-outlook-add-in.md)
+[Reserve![](../../../reuse/icons/brand-icons/bus-headset.svg) Make a reservation using the Workplace Reservations for Microsoft Outlook Add-in.](make-reservation-using-outlook-add-in.md)
 
 </td><td>
 

@@ -39,7 +39,7 @@ Analyze the data by drilling down into the data for a team, a specific team memb
 
 4.  Select a date range to view your team's performance for that time period.
 
-    You can set the default date range using the **sn\_optimize.default\_date\_range** [system property](../reference/configurable-wfo-itsm-teams-reference.md).
+    You can set the default date range using the **sn\_optimize.default\_date\_range** [system property](configurable-wfo-itsm-teams-reference.md).
 
     All teams that you manage are identified with a **My team** highlight in the group header. You can also see the team that you have visibility into.
 
@@ -89,5 +89,5 @@ Click the **Performance** tab to analyze skills for each agent in your team.1.  
 </table>    You can also review incidents, details of assignment groups, additional managers, and information that is relevant to the team.
 
 
-**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](../concept/teams-workforce-optimization-configurable-wfo-itsm.md)
+**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](teams-workforce-optimization-configurable-wfo-itsm.md)
 

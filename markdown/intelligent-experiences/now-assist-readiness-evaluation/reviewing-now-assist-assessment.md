@@ -18,7 +18,7 @@ This automated assessment process evaluates potential implementation impacts and
 
 Navigate to **Workspaces** &gt; **Now Assist Readiness Evaluation** and select the assessment icon ![](../image/na-assessment-icon.png) to review your Now Assist assessment.
 
-**Note:** Before viewing your Now Assist assessments, you must first have run the scheduled jobs to get the assessment results. If you haven't run your scheduled jobs, you are prompted to do so on an individual job level. For more information on running scheduled jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](../task/run-genai-agenticai-assessment-scheduled-job.md) and [Configure the Now Assist Readiness Evaluation guided setup](../task/configure-nare-guided-setup.md).
+**Note:** Before viewing your Now Assist assessments, you must first have run the scheduled jobs to get the assessment results. If you haven't run your scheduled jobs, you are prompted to do so on an individual job level. For more information on running scheduled jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](run-genai-agenticai-assessment-scheduled-job.md) and [Configure the Now Assist Readiness Evaluation guided setup](configure-nare-guided-setup.md).
 
 The summary tab provides a consolidated summary of features, including Now Assist capabilities across AI Search, Virtual Agent \(VA\), IT Service Management \(ITSM\), Customer Service Management \(CSM\), and HR Service Delivery \(HRSD\), as well as their corresponding estimated remediation efforts. The results shown are estimates. You should evaluate results provided by Now Assist Readiness Evaluation for accuracy and appropriateness for your use case.
 
@@ -49,5 +49,5 @@ You can select **Download Report** to export the entire Now Assist assessment re
 
 ![Now Assist for Virtual Agent assessment is shown, along with relevant Virtual Agent questions and answers.](../image/nare-assessment-nava.png "Example of the Now Assist for Virtual Agent assessment")
 
-After reviewing the assessment and making the suggested assessment changes, rerun your scheduled jobs to see how your results improve. For more information on rerunning a specific job or all jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](../task/run-genai-agenticai-assessment-scheduled-job.md).
+After reviewing the assessment and making the suggested assessment changes, rerun your scheduled jobs to see how your results improve. For more information on rerunning a specific job or all jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](run-genai-agenticai-assessment-scheduled-job.md).
 

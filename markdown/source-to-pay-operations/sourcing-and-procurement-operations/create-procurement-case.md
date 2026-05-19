@@ -268,10 +268,10 @@ Reason why the case was created.
 </table>7.  Select **Save**.
 
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](using-pcm.md)
 
 **Related topics**  
 
 
-[Base system procurement case type reference](../reference/base-system-procurement-case-types.md)
+[Base system procurement case type reference](base-system-procurement-case-types.md)
 

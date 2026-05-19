@@ -36,5 +36,5 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Approval with e-signature](../../../administer/service-administration/concept/approval-with-e-signature.md)
+**Parent Topic:**[Approval with e-signature](approval-with-e-signature.md)
 

@@ -221,10 +221,10 @@ Service
 Type of service.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Inventory number allocation](../concept/vlan_or_lag_number_management.md)
+[Inventory number allocation](vlan_or_lag_number_management.md)
 

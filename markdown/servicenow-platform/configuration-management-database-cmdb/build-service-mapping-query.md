@@ -27,7 +27,7 @@ Build the query by dragging the CI classes that you want to include in the query
 
 As you step through building a query, list options and other user interface elements of the CMDB Query Builder, are dynamically filtered as appropriate to your selections.
 
-See [Example queries](../concept/sample-queries.md) for a step-by-step walk through of building a Service Mapping query in the CMDB Query Builder.
+See [Example queries](sample-queries.md) for a step-by-step walk through of building a Service Mapping query in the CMDB Query Builder.
 
 ## Procedure
 
@@ -111,25 +111,25 @@ See [Example queries](../concept/sample-queries.md) for a step-by-step walk thro
     The query results pane displays only the first 100 results of the query.
 
     -   Select **Load More Results** to display the next set of 100 results.
-    -   Select **Load All Results** to display the rest of the query results, up to the number specified by the [glide.cmdb.query.max\_results\_limit](../reference/cmdb-querybldr-sysproprties.md) system property \(10,000 by default\).
+    -   Select **Load All Results** to display the rest of the query results, up to the number specified by the [glide.cmdb.query.max\_results\_limit](cmdb-querybldr-sysproprties.md) system property \(10,000 by default\).
     Select a CI to open its CI form, and on the CI form select **Open in CMDB Workspace** to view CI health in the CI Health tile in CMDB Workspace. This operation requires the sn\_cmdb\_user \(CMDB user\) role.
 
     **Note:** When a query is running, wait for it to complete or to time out before opening or running another query.
 
 -   [Modify Query Builder settings](cmdb-querybldr-config-display.md): Select the Settings icon to open the **Query Builder Settings** dialog box.
 -   Copy and share the URL of a saved query with users that have access to the CMDB Query Builder. Pasting the shared URL in a new internet browser window, directly opens the saved query in the CMDB Query Builder.
--   [Create a report in CMDB Query Builder](../concept/create-query-results-report.md).
+-   [Create a report in CMDB Query Builder](create-query-results-report.md).
 -   [Create a schedule](create-cmdb-query-schedule.md) to run the query at a future time, and to email the results to interested parties.
 -   Export query results:
 
     Export query results that are visible: Select the Query Results context menu and select **Export**. Even if the **Load More Results** button is visible, indicating that there are additional query results, only the results that are visible are exported.
 
 -   [Export and import a CMDB query](export-import-query.md) to port a query definition between instances.
--   [Populate a CMDB group](../concept/cmdb-groups.md#) using the saved query.
+-   [Populate a CMDB group](cmdb-groups.md#) using the saved query.
 -   [Delete a CMDB query](delete-cmdb-query.md).
 
 **Related topics**  
 
 
-[Example queries](../concept/sample-queries.md)
+[Example queries](sample-queries.md)
 

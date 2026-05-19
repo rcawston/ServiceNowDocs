@@ -23,7 +23,7 @@ Role required: admin
 
 The instance can track deletions on any table, and references on audited tables, with a few exceptions. Record deletions are not tracked in these circumstances:
 
--   Record deletions are not tracked on tables with the `no_audit_delete=true` [dictionary attribute](../../reference-pages/concept/c_DictionaryAttributes.md).
+-   Record deletions are not tracked on tables with the `no_audit_delete=true` [dictionary attribute](c_DictionaryAttributes.md).
 -   Not all tables with a sys prefix track deletions by default. You can [Enable auditing for a system table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ConSysTablDelAud.md).
 -   References are restored only if the reference field is on an audited table and the Restore Deleted Record plugin is activated.
 -   References that use an **Image** field type are not restored.
@@ -76,5 +76,5 @@ The undelete operation performs an insert, which can trigger business rules. Thi
 
 When the process completes, a Restore Summary itemizes the changes and provides links for viewing the restored record or returning to the deleted records list.
 
-**Parent Topic:**[Roll back and delete recovery](../concept/rollback-delete-recovery.md)
+**Parent Topic:**[Roll back and delete recovery](rollback-delete-recovery.md)
 

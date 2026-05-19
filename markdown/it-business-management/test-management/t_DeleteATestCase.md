@@ -36,5 +36,5 @@ Role required: tm\_test\_manager
 
 The test case is removed from the list and all the associated tests are deleted.
 
-**Parent Topic:**[Test cases](../concept/c_TestCases.md)
+**Parent Topic:**[Test cases](c_TestCases.md)
 

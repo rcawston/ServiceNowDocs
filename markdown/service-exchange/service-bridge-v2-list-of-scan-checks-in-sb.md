@@ -88,5 +88,5 @@ Multiple scan checks are available in Service Exchange to help you identify issu
 **Related topics**  
 
 
-[Instance scan checks](../concept/service-bridge-v2-scan-checks.md)
+[Instance scan checks](service-bridge-v2-scan-checks.md)
 

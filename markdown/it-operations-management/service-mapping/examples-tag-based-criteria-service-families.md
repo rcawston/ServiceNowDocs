@@ -15,9 +15,9 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 When preparing to map application services based on tags, create tag categories that contain tags with similar use. Define a tag-based service family and the tags you want to use for mapping. In addition to tag categories, you can also define tag values to narrow the criteria for the service candidates created by Service Mapping. Use these examples for guidance.
 
-For detailed information about defining service families in tag-based mapping, see [Prepare for mapping application services based on tags](../task/prepare-map-service-tag.md).
+For detailed information about defining service families in tag-based mapping, see [Prepare for mapping application services based on tags](prepare-map-service-tag.md).
 
-**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](../concept/tag-discovery-service-mapping-workspace.md).
+**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](tag-discovery-service-mapping-workspace.md).
 
 <table id="table_zbx_gvs_djb"><thead><tr><th>
 

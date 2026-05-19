@@ -41,7 +41,7 @@ Avoid and solve service issues effectively
 
 ![Visibility into discovered resources](../image/visibility-infrastructure_50.png)
 
-Instantly see the service impact of your infrastructure issues and changes, simplify root-cause analysis, and reduce mean time to repair \(MTTR\). End-to-end discovery and service mapping gives you an accurate, up-to-date CMDB view of your IT infrastructure and services. The resulting complete and reliable record is used by other ServiceNow applications, such as ITOM AIOps, ITOM Optimization, and Software Asset Management. In this way, you can improve service quality, strengthen change processes, reduce risk, optimize infrastructure spend, and minimize software compliance issues. For more information, see [ITOM Visibility](itom-visibility-landing-page.md).
+Instantly see the service impact of your infrastructure issues and changes, simplify root-cause analysis, and reduce mean time to repair \(MTTR\). End-to-end discovery and service mapping gives you an accurate, up-to-date CMDB view of your IT infrastructure and services. The resulting complete and reliable record is used by other ServiceNow applications, such as ITOM AIOps, ITOM Optimization, and Software Asset Management. In this way, you can improve service quality, strengthen change processes, reduce risk, optimize infrastructure spend, and minimize software compliance issues. For more information, see [ITOM Visibility](itom-visibility/itom-visibility-landing-page.md).
 
 ## Avoid and solve service issues effectively
 
@@ -80,18 +80,18 @@ The ServiceNow Product Documentation doesn't provide information on prices, pack
 ## Applications and features
 
 -   [ITOM licensing and subscriptions](itom-su-licensing-landing-page.md)
--   [ITOM Cloud Accelerate](../../itom-cloud-accelerate/reference/itom-cloud-accelerate-landing-page.md)
--   [ITOM Visibility](itom-visibility-landing-page.md)
--   [Visibility: Discovery](../../discovery/reference/r-discovery.md)
--   [Visibility: Service Mapping](../../service-mapping/reference/c_ServiceMappingOverview.md)
+-   [ITOM Cloud Accelerate](itom-cloud-accelerate/itom-cloud-accelerate-landing-page.md)
+-   [ITOM Visibility](itom-visibility/itom-visibility-landing-page.md)
+-   [Visibility: Discovery](discovery/r-discovery.md)
+-   [Visibility: Service Mapping](service-mapping/c_ServiceMappingOverview.md)
 -   
--   [Health: Event Management](../../event-management/concept/c_EM.md)
--   [Health: Health Log Analytics](../../health-log-analytics-admin/reference/hla-landing-page.md)
--   [Health: Agent Client Collector](../../agent-client-collector/concept/acc-landing-page.md)
+-   [Health: Event Management](event-management/c_EM.md)
+-   [Health: Health Log Analytics](health-log-analytics/hla-landing-page.md)
+-   [Health: Agent Client Collector](agent-client-collector/acc-landing-page.md)
 -   [ITOM Optimization](itom-optimization-landing-page.md)
--   [Optimization: Cloud Provisioning and Governance](../../cloud-management-v2/concept/cloud-management-v2-landing-page.md)
--   [Service Reliability Management](../../service-reliability/reference/sr-landing-page.md)
--   [SLO Management](../../slo-management/reference/slo-landing-page.md)
--   [Service Observability](../../service-observability/concept/service-observability.md)
--   [Synthetic monitoring](../../synthetic-monitoring/concept/synthetic-monitoring-landing-page.md)
+-   [Optimization: Cloud Provisioning and Governance](cloud-configuration-governance/cloud-management-v2-landing-page.md)
+-   [Service Reliability Management](service-reliability-management/sr-landing-page.md)
+-   [SLO Management](service-level-objective-management/slo-landing-page.md)
+-   [Service Observability](service-observability/service-observability.md)
+-   [Synthetic monitoring](synthetic-monitoring-landing-page.md)
 

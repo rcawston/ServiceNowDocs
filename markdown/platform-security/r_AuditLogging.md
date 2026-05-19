@@ -23,7 +23,7 @@ The event logs show all ServiceNow logins to a customer instance.
 
 </td></tr><tr><td>
 
-[Transaction logs](../../time/reference/r_TransactionLogs.md)
+[Transaction logs](r_TransactionLogs.md)
 
 </td><td>
 

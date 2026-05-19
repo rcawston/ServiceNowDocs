@@ -77,5 +77,5 @@ Set a numeric value in hours that is the maximum time allotment for the minimum 
 
 The withdrawal actions are available in [Key management operations](key-mgmt-operations-ce.md#).
 
-**Parent Topic:**[Quorum Control Policy](../concept/quorum-ctrl-policy.md)
+**Parent Topic:**[Quorum Control Policy](quorum-ctrl-policy.md)
 

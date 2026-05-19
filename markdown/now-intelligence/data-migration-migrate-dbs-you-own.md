@@ -20,7 +20,7 @@ Role required: You can migrate any dashboard you own. Users with admin or dashbo
 
 ## About this task
 
-To learn about migration and its benefits, see [Platform Analytics Migration Center](../concept/data-migration.md).
+To learn about migration and its benefits, see [Platform Analytics Migration Center](data-migration.md).
 
 **Note:** If content on a dashboard is used in only one dashboard, it will be available only on that dashboard after migration. If it is used in more than one dashboard, that content is migrated to the Platform Analytics experience library.
 
@@ -51,7 +51,7 @@ The migrated dashboard appears in the Platform Analytics library. Links to the o
 
 ## What to do next
 
-Verify that the migrated dashboard has all the features of the Core UI dashboard, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](../reference/data-mig-unmigrated-content.md).
+Verify that the migrated dashboard has all the features of the Core UI dashboard, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](data-mig-unmigrated-content.md).
 
 To roll back a migrated dashboard, select the More actions menu ![More actions menu icon](../../../administer/integrationhub/images/more-actions-menu-icon.png) and choose **Switch to the Core UI**. This option is available to analytics managers and admins for all migrated dashboards. Other dashboard owners can only roll back migrations on dashboards they have migrated themselves.
 

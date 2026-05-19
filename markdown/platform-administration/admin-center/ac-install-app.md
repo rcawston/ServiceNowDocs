@@ -39,5 +39,5 @@ Role required: admin
     **Note:** Some applications and plugins show dependency applications and roles that need to be installed.![Image showing technical details of certain applications](../image/ac-dependency-app.png)
 
 
-**Parent Topic:**[Adoption blueprints](../concept/ac-achieve-business-objective.md)
+**Parent Topic:**[Adoption blueprints](ac-achieve-business-objective.md)
 

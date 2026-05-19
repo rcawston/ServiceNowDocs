@@ -347,5 +347,5 @@ You have a custom action that looks up the Users for a given department and conv
 
 Customize this action to use your own logic.
 
-**Parent Topic:**[Script support for complex data](../concept/script-support-complex-data.md)
+**Parent Topic:**[Script support for complex data](script-support-complex-data.md)
 

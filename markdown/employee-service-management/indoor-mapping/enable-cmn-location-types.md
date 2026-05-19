@@ -78,7 +78,7 @@ Role required: admin
 
 The CMN location types are added and ready to be mapped with corresponding Indoor Mapping places.
 
-**Parent Topic:**[Synchronize Indoor Mapping with CMN Locations](../concept/sync-cmn-location.md)
+**Parent Topic:**[Synchronize Indoor Mapping with CMN Locations](sync-cmn-location.md)
 
 **Previous topic:**[Enable the CMN location property](enable-cmn-sys-property.md)
 

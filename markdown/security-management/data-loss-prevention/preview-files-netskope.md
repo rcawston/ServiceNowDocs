@@ -21,7 +21,7 @@ Preview DLP incident evidence files in the DLP IR Analyst workspace.
 -   Navigate to **All** &gt; **DLP Administration** &gt; **Advanced Settings**.
 -   Make sure the **sn\_ns\_dlp.enable\_evidence\_file\_preview** property is already enabled.
 
-**Important:** While using the Evidence files action in the DLP analyst workspace, the evidence files are temporarily stored in the ServiceNow database in an unencrypted format for the duration you have selected using **sn\_dlir.preview\_temp\_files\_cleanup\_interval** property from the **Advanced Settings** page. You can disable the **Evidence Files** preview feature if you don't want to store any data in the ServiceNow database. For more information, see [Configure advanced settings](../../data-loss-prevention/task/configure-advanced-settings-dlp.md).
+**Important:** While using the Evidence files action in the DLP analyst workspace, the evidence files are temporarily stored in the ServiceNow database in an unencrypted format for the duration you have selected using **sn\_dlir.preview\_temp\_files\_cleanup\_interval** property from the **Advanced Settings** page. You can disable the **Evidence Files** preview feature if you don't want to store any data in the ServiceNow database. For more information, see [Configure advanced settings](configure-advanced-settings-dlp.md).
 
 Role required: sn\_dlir.analyst
 
@@ -74,5 +74,5 @@ Role required: sn\_dlir.analyst
     **Note:** Evidence Files apart from the office docs, eml files, text, and image extensions won’t be supported for preview. Binary files won’t be rendered and have to be downloaded to preview their content. The preview evidence file feature also works for archived incidents.
 
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 

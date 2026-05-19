@@ -27,7 +27,7 @@ By default, the property is set to true for new instances.
 
 2.  Set the properties **glide.html.sanitize\_all\_fields** and **glide.translated\_html.sanitize\_all\_fields** to **true**.
 
-    **Note:** To learn more about this property, see [Enable HTML Sanitizer \[Updated in Security Center 1.3\]](../../security-center/reference/sc-html-sanitizer.md) in Instance Security Hardening Settings.
+    **Note:** To learn more about this property, see [Enable HTML Sanitizer \[Updated in Security Center 1.3\]](instance-security-hardening-settings/sc-html-sanitizer.md) in Instance Security Hardening Settings.
 
     If the properties do not exist in the System Properties table, you can add them.
 

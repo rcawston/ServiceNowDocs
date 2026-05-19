@@ -66,11 +66,11 @@ Results are displayed on the **Observable Enrichment Results** tab on the Observ
 
 If you cannot locate child observables or enrichment results, verify that the Reverse Whois integration ran successfully and returned domains. Also, refer to the work notes on the record for more information.
 
-**Parent Topic:**[Reverse Whois integration](../concept/reversewhois-lookups.md)
+**Parent Topic:**[Reverse Whois integration](reversewhois-lookups.md)
 
 **Previous topic:**[Verify expected results for Reverse Whois](verify-expected-rslts-rvrsewhois.md)
 
-**Next topic:**[RISKIQ and WHOISIQ integration](../../secops-integration-riskiq/concept/riskiq-lookups.md)
+**Next topic:**[RISKIQ and WHOISIQ integration](riskiq-lookups.md)
 
 **Related topics**  
 

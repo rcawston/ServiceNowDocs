@@ -114,5 +114,5 @@ Use either of the following methods to add a business application:
 **Related topics**  
 
 
-[CI relationships in the CMDB](../../configuration-management/concept/c_CIRelationships.md)
+[CI relationships in the CMDB](../configuration-management-database-cmdb/c_CIRelationships.md)
 

@@ -29,7 +29,7 @@ ServiceNow Contact Tracing integrates with an external application, Mist Systems
 
     -   By default, the asset data is available in the Computer table \[cmdb\_ci\_computer\]. If you are using a different table, specify it using the **sn\_imt\_tracing.wifi\_client\_table** property.
     -   Ensure that the MAC address is populated in the **mac\_address** field in the table that has the asset data.
-    For more information, see [System properties for tracing systems in Emergency Exposure Management](../../business-continuity/reference/list-of-tracing-system-sys-properties.md).
+    For more information, see [System properties for tracing systems in Emergency Exposure Management](../emergency-exposure-management/list-of-tracing-system-sys-properties.md).
 
 2.  Set up the Contact Tracing BLE properties.
 
@@ -73,12 +73,12 @@ ServiceNow Contact Tracing integrates with an external application, Mist Systems
 
     3.  Click **Run Diagnostics**.
 
-    For more information about how to run a diagnostic request, see [Run a diagnostic request](../../business-continuity/task/use-emergency-exposure-mgnt.md).
+    For more information about how to run a diagnostic request, see [Run a diagnostic request](../emergency-exposure-management/use-emergency-exposure-mgnt.md).
 
 
 ## Result
 
 Mist Systems identifies the MAC addresses of the affected user for the specified start date and end date. The MAC addresses identify the zones visited by the affected employee. Potentially exposed employees who visited those zones are identified and displayed in the related list of the diagnostic request.
 
-**Parent Topic:**[Retrieving Wi-Fi access log data](../concept/wifi-access-management.md)
+**Parent Topic:**[Retrieving Wi-Fi access log data](wifi-access-management.md)
 

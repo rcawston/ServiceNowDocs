@@ -82,7 +82,7 @@ As an employee, you will receive push notification for the following scenarios:
     Push notification is received that you are yet to check out the reservation even after the reservation time has started.
 
 
-**Parent Topic:**[Workplace Reservation Management references](../concept/rsv-mgmt-references.md)
+**Parent Topic:**[Workplace Reservation Management references](rsv-mgmt-references.md)
 
 **Related topics**  
 
@@ -91,11 +91,11 @@ As an employee, you will receive push notification for the following scenarios:
 
 [Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md)
 
-[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+[Workplace Reservation Management - Field descriptions](workplace-reservation-management-field-descriptions.md)
 
 [Proximity calculation when browsing near a person](proximity-calculation-for-browse-near-person.md)
 
-[Reservable module derivation logic for Space details](../concept/reservation-logic-for-myfavorites-space-details.md)
+[Reservable module derivation logic for Space details](reservation-logic-for-myfavorites-space-details.md)
 
 [Location privacy settings and impact](location-privacy-settings-and-impact.md)
 

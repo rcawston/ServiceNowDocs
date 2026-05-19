@@ -147,5 +147,5 @@ Summary of the execution of this job. This field is read only.
 15. Select **Commit Update Set**.
 
 
-**Parent Topic:**[Sign specific records or attachments](../concept/sign-specific-records.md#)
+**Parent Topic:**[Sign specific records or attachments](sign-specific-records.md#)
 

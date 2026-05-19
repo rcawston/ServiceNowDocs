@@ -15,7 +15,7 @@ breadcrumb: [Life-cycle management, Explore, Digital Portfolio Management, IT Se
 
 View information about service instances that may impact your solutions. Each Digital Portfolio Management \(DPM\) page presents the service instance life-cycle phase information in tabs, primarily Run and Info. The Risk tab displays when you have the Technology Portfolio Management plugin \[sn\_apm\_tpm\] installed.
 
-As you view the following tables, keep in mind that what you are able to see in DPM depends on what your product license permits from the source application. See [Digital Portfolio Management related applications and data sources](../reference/dpm-related-products.md) for the required installs and plugins to see each data element.
+As you view the following tables, keep in mind that what you are able to see in DPM depends on what your product license permits from the source application. See [Digital Portfolio Management related applications and data sources](dpm-related-products.md) for the required installs and plugins to see each data element.
 
 ## KPI groups for service instances
 
@@ -255,7 +255,7 @@ The Needs attention panel includes the following icons for service instances:
 
 [Enterprise portfolios](dpm-enterprise-portfolios.md)
 
-[Create enterprise portfolios in Digital Portfolio Management](../task/dpm-create-enterprise-portfolios.md)
+[Create enterprise portfolios in Digital Portfolio Management](dpm-create-enterprise-portfolios.md)
 
 [Work with Needs attention panels in Digital Portfolio Management](dpm-needs-attn-panels.md)
 

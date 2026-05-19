@@ -29,7 +29,7 @@ The Idea Portal is where you share your product, feature, change, or enhancement
 
 2.  On the form, fill in the fields.
 
-    For more information on fields and description, see [Create an Idea form](../reference/create-an-idea-form.md).
+    For more information on fields and description, see [Create an Idea form](create-an-idea-form.md).
 
 3.  If you have attachments related to the idea, select **Add attachments** and attach them.
 
@@ -44,5 +44,5 @@ The Idea Portal is where you share your product, feature, change, or enhancement
 -   [Evaluate an idea](evaluate-an-idea.md)
 -   [Create a task for an idea](create-a-task-for-an-idea.md)
 
-**Parent Topic:**[Managing ideas using Innovation Management](../concept/using-innovation-management.md)
+**Parent Topic:**[Managing ideas using Innovation Management](using-innovation-management.md)
 

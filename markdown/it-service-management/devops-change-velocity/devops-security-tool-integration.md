@@ -15,9 +15,9 @@ breadcrumb: [User created, Integrate, DevOps Change Velocity, IT Service Managem
 
 You can integrate additional security tools that are not supported in the base system in DevOps Change Velocity.
 
--   **[Configure user-created security tool](../task/configure-a-user-created-security-tool.md)**  
+-   **[Configure user-created security tool](configure-a-user-created-security-tool.md)**  
 Connect your custom security tool that is integrated with your CI/CD pipelines to DevOps Change Velocity to retrieve security scan results.
--   **[Integrate security tools with GitLab](../task/configure-security-tool-for-gitlab.md)**  
+-   **[Integrate security tools with GitLab](configure-security-tool-for-gitlab.md)**  
 Configure security tool for GitLab which is not supported in the base system.
 
 **Parent Topic:**[User-created integrations in DevOps Change Velocity](dev-ops-tool-integration.md)

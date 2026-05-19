@@ -26,5 +26,5 @@ For description of the field values, see the table.
 |Description|Brief description of the impact category.|
 |Helper text|Field to add the helper text. It provides a hint to the users on how to respond to the assessment questions. The helper text is then displayed for the user in the business impact analysis record.|
 
-**Parent Topic:**[Configure impact category for BIA](../task/configure-impact-category-uib-ws.md)
+**Parent Topic:**[Configure impact category for BIA](configure-impact-category-uib-ws.md)
 

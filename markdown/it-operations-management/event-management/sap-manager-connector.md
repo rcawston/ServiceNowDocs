@@ -46,21 +46,21 @@ Data moves between SAP and Event Management using both Push and Pull interfaces.
     After Event Management creates alerts, a business rule listens for a change to the alert. If it detects a change, Event Management updates the SAP Solution Manager alerts.
 
 
--   **[Use the SAP Solution Manager Pull connector](../task/sap-pull-connector.md)**  
+-   **[Use the SAP Solution Manager Pull connector](sap-pull-connector.md)**  
 The SAP Solution Manager Pull connector sends information from Event Management to the SAP Solution Manager. The Pull connector sends responses received from a Push connector in a bi-directional environment.
--   **[Use the SAP Solution Manager Push connector](../task/sap-push-connector.md)**  
+-   **[Use the SAP Solution Manager Push connector](sap-push-connector.md)**  
 The MID Server web service Event Collector enables you to collect alerts sent from the SAP Solution Manager through event stream notification capabilities. The interface runs both a Push and a Pull interface to interact directly with the SAP Solution Manager.
 -   **[SAP Solution Manager setup configurations](sap-solman-configurations.md)**  
 As part of the SAP Solution Manager setup, you must perform several configurations to enable SAP Solution Manager to interact with Event Management.
--   **[SAP Solution Manager transaction codes](../reference/sapsolman-transaction-codes.md)**  
+-   **[SAP Solution Manager transaction codes](sapsolman-transaction-codes.md)**  
 The transaction code abbreviations that you can use in the SAP interface when working with the SAP Solution Manager connector.
 
-**Parent Topic:**[Configure SAP Solution Manager connector](../task/configure-sapsolman-connector.md)
+**Parent Topic:**[Configure SAP Solution Manager connector](configure-sapsolman-connector.md)
 
 **Related topics**  
 
 
 [Event Management Integrations](c_EMEvent.md)
 
-[Use the SAP Solution Manager Pull connector](../task/sap-pull-connector.md)
+[Use the SAP Solution Manager Pull connector](sap-pull-connector.md)
 

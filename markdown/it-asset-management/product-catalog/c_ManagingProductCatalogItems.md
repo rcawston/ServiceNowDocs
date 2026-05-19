@@ -17,13 +17,13 @@ Product catalog items are hardware and software that you can track and offer in 
 
 The product catalog is an extension of the [Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md) that contains a list of available [Models](c_Models.md). Users with the catalog\_admin role can create, activate, and deactivate product catalog items.
 
--   **[Create a product catalog item](../task/t_CreateAProductCatalogItem.md)**  
+-   **[Create a product catalog item](t_CreateAProductCatalogItem.md)**  
 Create hardware and software product catalog items to include in the product catalog and the service catalog.
--   **[Activate a product catalog item](../task/t_ActivateAProductCatalogItem.md)**  
+-   **[Activate a product catalog item](t_ActivateAProductCatalogItem.md)**  
 Activate a product catalog item to make it available in the product catalog and the service catalog.
--   **[Deactivate a product catalog item](../task/t_DeactivateAProductCatalogItem.md)**  
+-   **[Deactivate a product catalog item](t_DeactivateAProductCatalogItem.md)**  
 Deactivate a product catalog item to remove it from the product catalog and the service catalog.
--   **[Import a Product Catalog item](../task/migrate-product-catalog-item.md)**  
+-   **[Import a Product Catalog item](migrate-product-catalog-item.md)**  
 Import a hardware and software product catalog item from one ServiceNow instance to another ServiceNow instance to include it in the product catalog.
 
 **Parent Topic:**[Product Catalog](c_ProductCatalog.md)
@@ -31,7 +31,7 @@ Import a hardware and software product catalog item from one ServiceNow instance
 **Related topics**  
 
 
-[Components installed with Product Catalog](../reference/r_InstalledWithProductCatalog.md)
+[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)
 
 [Models](c_Models.md)
 

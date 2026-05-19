@@ -175,7 +175,7 @@ Use the search bar to start a new search. The search is executed in the current 
 -   If enabled, users can subscribe to articles, view article versions, and create feedback for articles that are rated as not helpful.
 -   The dynamic titles don’t apply to the knowledge article view page in the Knowledge Management Service Portal.
 
--   **[Knowledge article URL parameters](../reference/knowledge-article-URL-parameters.md#)**  
+-   **[Knowledge article URL parameters](knowledge-article-URL-parameters.md#)**  
 You can add parameters to an article URL to view the latest version and an existing translation.
 
 **Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)

@@ -19,13 +19,13 @@ The Anonymous Report Center promotes anonymous reporting of safety incidents, ob
 
 Use the Employee Center to report an anonymous concern and use the Health and Safety Workspace to manage the anonymous safety concern.
 
-The **Anonymous report center** \[com.sn\_anonymous\_report\_center\] plugin must be installed to enable reporting a safety concern anonymously. For more information, see [Activate the Anonymous Report Center](../../human-resources/task/arc-activate.md).
+The **Anonymous report center** \[com.sn\_anonymous\_report\_center\] plugin must be installed to enable reporting a safety concern anonymously. For more information, see [Activate the Anonymous Report Center](../hr-service-delivery/arc-activate.md).
 
--   **[Submit an anonymous safety concern](../task/submit_anonymous_safety_concern.md)**  
+-   **[Submit an anonymous safety concern](submit_anonymous_safety_concern.md)**  
 Report a safety concern or observation without revealing your identity.
--   **[Follow up on an anonymous report](../task/follow-up-on-anonymous-report.md)**  
+-   **[Follow up on an anonymous report](follow-up-on-anonymous-report.md)**  
 You can retrieve your anonymous report to submit or view comments and updates from the agents working on your anonymous report. You must have the report key and report number to access your anonymous report.
--   **[Work on an anonymous safety concern](../task/work-anonymous-safety-concern.md)**  
+-   **[Work on an anonymous safety concern](work-anonymous-safety-concern.md)**  
 Only an agent with the sensitive content role \[sn\_ohs\_im.sensitive\_observation\_content\_user\] can view and work on the anonymous report in the Health and Safety Workspace.
 
 **Parent Topic:**[Manage incidents, observations, and anonymous safety concerns](hs-manage-incidents-observations-annonymous-concerns.md)

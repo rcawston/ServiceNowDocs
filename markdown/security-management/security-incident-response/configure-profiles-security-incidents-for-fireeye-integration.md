@@ -43,7 +43,7 @@ Configure the profile so that it runs only when the conditions you specify are f
         -   Select the **Define Alternative Field** option to define an alternative input field.
         -   Select the input field from the **Alternate CI Trigger Field**.
 
-            **Note:** For more information, see [Understand how trigger conditions work with a configuration item](../concept/understand-trigger-conditions-work-with-configuration-item.md).
+            **Note:** For more information, see [Understand how trigger conditions work with a configuration item](understand-trigger-conditions-work-with-configuration-item.md).
 
         ![Additional Configuration section for FireEye Capability Profile.](../image/additional-config.png)
 

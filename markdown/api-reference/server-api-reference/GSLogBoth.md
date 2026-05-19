@@ -21,9 +21,9 @@ Logs can be at the level of debug, info, notice, warning, err, or crit \(after B
 
 Use for any server-side script where you want to implement event logging.
 
-For more information, see [Debugging scripts](../../../../../script/debugging/concept/script-debug-overview.md).
+For more information, see [Debugging scripts](../scripts/script-debug-overview.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GSLog – GSLog\(\)
 

@@ -19,7 +19,7 @@ Application developers access ServiceNow Studio to create, import, or open appli
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 Role required: admin
 
@@ -58,5 +58,5 @@ Role required: admin
     **Note:** The linked icon ![Linked icon](../image/local-changes-linked.png) indicates that there are uncommitted local changes in the application. The property is ignored for your company applications in development. The **Can Edit Application in Studio** property for a store application determines if the application can be edited in Studio. If set to false, you see a warning that you cannot edit the application in Studio. But you can open the application in Studio to use Source Control features or to publish its customizations to the application repository. The default is true for new applications. The application's owner can change the property value before releasing a new version.
 
 
-**Parent Topic:**[Legacy - ServiceNow Studio](../concept/c_ServiceNowStudio.md)
+**Parent Topic:**[Legacy - ServiceNow Studio](c_ServiceNowStudio.md)
 

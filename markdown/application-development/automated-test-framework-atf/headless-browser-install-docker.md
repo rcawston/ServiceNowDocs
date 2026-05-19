@@ -19,7 +19,7 @@ Step 1 in the Windows setup for the ServiceNow® Headless Browser for Automated 
 
 Role required: admin
 
--   See Prerequisites in the [Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md) topic.
+-   See Prerequisites in the [Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md) topic.
 -   **Tip:** To make remembering these easier, set the following environment variables:
 
 -   set PASSWORD=&lt;password&gt;
@@ -53,9 +53,9 @@ Role required: admin
     `Restart-Computer -Force`
 
 
-**Parent Topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Parent Topic:**[Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md)
 
-**Previous topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Previous topic:**[Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md)
 
 **Next topic:**[Generate certificates for Headless Browser setup for Microsoft Windows](headless-browser-certificates-windows.md)
 

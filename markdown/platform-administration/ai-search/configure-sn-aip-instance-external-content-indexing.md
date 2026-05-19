@@ -32,9 +32,9 @@ Perform all of these steps on the ServiceNow AI Platform instance that you want 
 
 1.  On your source instance, create a new non-interactive user and save its user ID.
 
-    1.  Create a new user by following the steps from [Create a user](../../users-and-groups/task/t_CreateAUser.md).
+    1.  Create a new user by following the steps from [Create a user](../user-administration/t_CreateAUser.md).
 
-        **Note:** Make sure to select the **Web service access only** option on the new user record. This option designates your new user as a non-interactive user. To learn more about how non-interactive users differ from interactive users, see [Non-interactive sessions](../../users-and-groups/concept/c_NonInteractiveSessions.md#).
+        **Note:** Make sure to select the **Web service access only** option on the new user record. This option designates your new user as a non-interactive user. To learn more about how non-interactive users differ from interactive users, see [Non-interactive sessions](../user-administration/c_NonInteractiveSessions.md#).
 
     2.  Copy the **User ID** for your new source instance user account and store it in a secure location.
 
@@ -48,13 +48,13 @@ Perform all of these steps on the ServiceNow AI Platform instance that you want 
 
         **Important:** Your connector admin needs this user account's password when configuring the ServiceNow instance external content connector on your destination instance.
 
-3.  On your source instance, add your new user to the **MFA Exempted User Group** by following the steps from [Add a user to a group](../../users-and-groups/task/t_AddAUserToAGroup.md).
+3.  On your source instance, add your new user to the **MFA Exempted User Group** by following the steps from [Add a user to a group](../user-administration/t_AddAUserToAGroup.md).
 
     **Note:** Inclusion in this group exempts your new user from the default requirement to use multi-factor authentication \(MFA\) when logging in to your source instance. This configuration is needed for proper operation of the ServiceNow instance external content connector.
 
 4.  On your source instance, create a new custom role in the Global application scope.
 
-    1.  Select the Global application scope, following the steps from [Select an application from the application picker](../../../build/applications/task/t_SelectAnAppFromTheAppPicker.md).
+    1.  Select the Global application scope, following the steps from [Select an application from the application picker](../t_SelectAnAppFromTheAppPicker.md).
 
     2.  Navigate to **All** &gt; **User Administration** &gt; **Roles**.
 
@@ -149,18 +149,18 @@ Insert a new row with the name of your new custom role.
 
 6.  On your source instance, assign roles to your new user.
 
-    1.  Assign your new custom role to your new user by following the steps from [Assign a role to a user](../../users-and-groups/task/t_AssignARoleToAUser.md).
+    1.  Assign your new custom role to your new user by following the steps from [Assign a role to a user](../user-administration/t_AssignARoleToAUser.md).
 
-    2.  Assign each of the following roles to your new user by following the steps from [Assign a role to a user](../../users-and-groups/task/t_AssignARoleToAUser.md).
+    2.  Assign each of the following roles to your new user by following the steps from [Assign a role to a user](../user-administration/t_AssignARoleToAUser.md).
 
         |Role|Description|
         |----|-----------|
         |access\_analyzer\_admin|Grants the user access to tables relating to access control in your source instance, including the Access Control \[sys\_security\_acl\], Role \[sys\_user\_role\], and Table \[sys\_db\_object\] tables. To learn more about access control, see [Access Control List Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-control-rules.md).|
-        |catalog\_manager|Grants the user access to Service Catalog items in your source instance. For more details on this base system role, see [Base system roles](../../roles/reference/r_BaseSystemRoles.md).|
-        |itil|Grants the user access to incidents and user criteria in your source instance. For more details on this base system role, see [Base system roles](../../roles/reference/r_BaseSystemRoles.md).|
-        |knowledge\_admin|Grants the user access to KB articles in your source instance. For more details on this base system role, see [Base system roles](../../roles/reference/r_BaseSystemRoles.md).|
-        |snc\_platform\_rest\_api\_access|Grants the user access to Platform Rest APIs in your source instance. The ServiceNow instance external content connector uses the [Attachment API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_AttachmentAPI.md) and [Table API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_TableAPI.md) to access your source instance during crawls. For more details on this base system role, see [Base system roles](../../roles/reference/r_BaseSystemRoles.md).|
-        |snc\_read\_only|Restricts the user to read-only access on all tables that it has access to. For more details on this base system role, see [Read-only role](../../user-administration/concept/c_ReadOnlyRole.md#).|
+        |catalog\_manager|Grants the user access to Service Catalog items in your source instance. For more details on this base system role, see [Base system roles](../user-administration/r_BaseSystemRoles.md).|
+        |itil|Grants the user access to incidents and user criteria in your source instance. For more details on this base system role, see [Base system roles](../user-administration/r_BaseSystemRoles.md).|
+        |knowledge\_admin|Grants the user access to KB articles in your source instance. For more details on this base system role, see [Base system roles](../user-administration/r_BaseSystemRoles.md).|
+        |snc\_platform\_rest\_api\_access|Grants the user access to Platform Rest APIs in your source instance. The ServiceNow instance external content connector uses the [Attachment API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_AttachmentAPI.md) and [Table API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_TableAPI.md) to access your source instance during crawls. For more details on this base system role, see [Base system roles](../user-administration/r_BaseSystemRoles.md).|
+        |snc\_read\_only|Restricts the user to read-only access on all tables that it has access to. For more details on this base system role, see [Read-only role](../user-administration/c_ReadOnlyRole.md#).|
 
 
 ## What to do next
@@ -175,5 +175,5 @@ Your connector admin needs these items to configure a ServiceNow instance extern
 
 For details on creating and configuring a ServiceNow instance external content connector, see [Create a ServiceNow instance external content connector](create-ext-cont-connector-snow-instance.md).
 
-**Parent Topic:**[ServiceNow instance external content connector](../concept/servicenow-instance-external-content-connector.md)
+**Parent Topic:**[ServiceNow instance external content connector](servicenow-instance-external-content-connector.md)
 

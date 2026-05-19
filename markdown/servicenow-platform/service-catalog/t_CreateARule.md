@@ -117,5 +117,5 @@ Option to select the default quantity of a catalog item for the order guide. Whe
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Order guides](../concept/c_ServiceCatalogOrderGuides.md)
+**Parent Topic:**[Order guides](c_ServiceCatalogOrderGuides.md)
 

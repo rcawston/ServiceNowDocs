@@ -93,7 +93,7 @@ Role required: virtual\_agent\_admin or admin
 
 Your topic is ready to test. Test the topic, making sure you go through each possible workflow in the conversation and make any needed adjustments.
 
-For more information about testing topics, see [Testing NLU/Keyword topics](../reference/va-designer-testing.md). If you're using NLU discovery, [add utterances](modify-nlu-utterances-va-topic.md) to the intent and [train and test your NLU model.](train-test-publish-nlu-model-vad.md)
+For more information about testing topics, see [Testing NLU/Keyword topics](va-designer-testing.md). If you're using NLU discovery, [add utterances](modify-nlu-utterances-va-topic.md) to the intent and [train and test your NLU model.](train-test-publish-nlu-model-vad.md)
 
 When you're finished, [publish the topic](publish-virtual-agent-topic.md).
 
@@ -104,5 +104,5 @@ When you're finished, [publish the topic](publish-virtual-agent-topic.md).
 **Related topics**  
 
 
-[Improving the user experience with AI Search](../concept/va-ai-search.md)
+[Improving the user experience with AI Search](va-ai-search.md)
 

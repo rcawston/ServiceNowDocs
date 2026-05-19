@@ -26,7 +26,7 @@ Also, HVA uses the range information provided by NVD to assess vulnerabilities m
 -   In case there’s a version information unavailable for a CPE, the range information available for a specific OT device publisher and model is used to perform a hardware vulnerability assessment.
 -   For versions, a comparison algorithm is used to determine if the input version is in range.
 
-**Important:** If you’re already using HVA, rerun the NVD Integrations to use the range information feature. For more information, see [Run NVD Integrations for Hardware Vulnerability Assessment](../task/jobs-hwd-nvd-integration.md).
+**Important:** If you’re already using HVA, rerun the NVD Integrations to use the range information feature. For more information, see [Run NVD Integrations for Hardware Vulnerability Assessment](jobs-hwd-nvd-integration.md).
 
 You must activate and schedule the following scheduled jobs to perform hardware vulnerability assessment automatically and periodically:
 
@@ -67,21 +67,21 @@ The HVA menu displays HVA records created for the OT devices. These assessment r
 
 ## Additional Resources
 
--   **[Confidence score calculation for hardware vulnerability assessment](../reference/otvr-hva-confidence-score-sample.md)**  
+-   **[Confidence score calculation for hardware vulnerability assessment](otvr-hva-confidence-score-sample.md)**  
 Confidence Score is displayed for partially matched assessments, vulnerable items \(VITs\), and ignored assessments.
--   **[Confidence score reference tables for hardware vulnerability assessment](../reference/otvr-hva-confidence-score-ref.md)**  
+-   **[Confidence score reference tables for hardware vulnerability assessment](otvr-hva-confidence-score-ref.md)**  
 Reference values used to calculate the confidence score.
 
-**Parent Topic:**[Exploring the Industrial Workspace](../../operational-technology-management/concept/exploring-industrial-workspace.md)
+**Parent Topic:**[Exploring the Industrial Workspace](exploring-industrial-workspace.md)
 
 **Related topics**  
 
 
 [Enterprise Asset Management normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/normalization-eam.md)
 
-[Industrial Workspace](../../operational-technology-management/concept/industrial-workspace-for-operational-technology.md)
+[Industrial Workspace](industrial-workspace-for-operational-technology.md)
 
-[Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup](../task/configure-hva-using-guided-setup.md)
+[Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup](configure-hva-using-guided-setup.md)
 
-[Use the Hardware Vulnerability Assessment menu in the Industrial Workspace](../task/using-hva-tabs-.md)
+[Use the Hardware Vulnerability Assessment menu in the Industrial Workspace](using-hva-tabs-.md)
 

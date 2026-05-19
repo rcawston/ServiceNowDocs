@@ -30,5 +30,5 @@ Add the desired Key Performance Indicators \(KPIs\) to monitor the performance o
 -   **[Configure insights for SPM demands in the Process Mining dashboard](configure-insights-for-spm.md)**  
 Configure rule definitions for demands to discover insights in the Summary and insights page.
 
-**Parent Topic:**[Activate content packs](../task/activate-po-content-pack.md)
+**Parent Topic:**[Activate content packs](activate-po-content-pack.md)
 

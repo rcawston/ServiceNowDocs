@@ -31,7 +31,7 @@ Role required: sn\_uni\_task.emp\_form\_admin or sn\_uni\_task.emp\_form\_creato
 
 3.  On the form, fill in the fields.
 
-    For more information on form fields and descriptions, see [Employee form](../reference/ut-emp-form.md).
+    For more information on form fields and descriptions, see [Employee form](ut-emp-form.md).
 
 4.  Right-click the form header and click **Save**.
 
@@ -52,5 +52,5 @@ You can now assign the form to an employee by using the Collect Employee input t
 
 **Note:** You must have specific roles to view the employee responses. For more information, see [Configure the roles to view employee forms](ut-config-empform-view-roles.md)
 
-**Parent Topic:**[Using Universal Task](../concept/use-universal-task.md)
+**Parent Topic:**[Using Universal Task](use-universal-task.md)
 

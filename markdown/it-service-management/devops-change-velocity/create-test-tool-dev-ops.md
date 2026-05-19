@@ -48,7 +48,7 @@ Name of the entity specified in the selected table.
 </td></tr></tbody>
 </table>    ![DevOps test mapping entity id](../image/dev-ops-test-map-entity-id.png "DevOps test mapping entity ID")
 
-    See the [Test type mapping](../concept/dev-ops-test-tool-integration.md#section_opj_n5l_vlb) section for more details.
+    See the [Test type mapping](dev-ops-test-tool-integration.md#section_opj_n5l_vlb) section for more details.
 
 4.  To capture the raw test payload of non-JUnit or -TestNG tests, enter an .xml filename and path \(comma separate multiple files\).
 
@@ -56,7 +56,7 @@ Name of the entity specified in the selected table.
 
     **Note:** You must create the custom subflow that transforms the raw payload.
 
-    See the [Transforming a raw test payload](../concept/dev-ops-test-tool-integration.md#section_evb_tzv_pnb) section for more details on configuring decision tables.
+    See the [Transforming a raw test payload](dev-ops-test-tool-integration.md#section_evb_tzv_pnb) section for more details on configuring decision tables.
 
 5.  Run the test and view test results by navigating to **DevOps** &gt; **Test Results** \(Test Summaries and Performance Test Summaries\).
 
@@ -67,5 +67,5 @@ Name of the entity specified in the selected table.
 
 ![DevOps test scripted pipeline](../image/dev-ops-test-scripted-pipeline.png "Scripted pipeline example with test configuration")
 
-**Parent Topic:**[DevOps test tool integration](../concept/dev-ops-test-tool-integration.md)
+**Parent Topic:**[DevOps test tool integration](dev-ops-test-tool-integration.md)
 

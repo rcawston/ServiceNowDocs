@@ -160,12 +160,12 @@ When your playbook's trigger conditions are met, your playbook runs.
 
 Update the system property to add the playbook in the Design and Assign home page. To learn more, see [Update system property to configure the Design and Assign home page](update-system-property-configure-design-assign-home-page.md).
 
-**Parent Topic:**[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+**Parent Topic:**[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
 **Related topics**  
 
 
-[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
-[Configure a Design and Assign function example](../concept/configure-design-assign-playbook-use-case.md)
+[Configure a Design and Assign function example](configure-design-assign-playbook-use-case.md)
 

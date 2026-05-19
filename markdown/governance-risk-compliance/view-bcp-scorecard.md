@@ -41,7 +41,7 @@ Your emergency action plan must be customized to your workplace and include info
 
     The different scorecards that are available to view in the **Overview** tab depends on the value that has been selected in the **Plan authoring type** field of the [Configure a business continuity plan template](configure-bcp-template.md) used in this plan.
 
-    **Note:** If your plan is in **Approved** state, then you can view the **Plan Usage and Results** section. However, you can view all the details of a plan in the **Plan Details** section irrespective of the plan being in any state. For more information, see [Plan overview scorecards for plan usage details](../concept/plan-overview-scorecards.md).
+    **Note:** If your plan is in **Approved** state, then you can view the **Plan Usage and Results** section. However, you can view all the details of a plan in the **Plan Details** section irrespective of the plan being in any state. For more information, see [Plan overview scorecards for plan usage details](plan-overview-scorecards.md).
 
 5.  To complete the documentation sections that are in **Pending** state, identify teams and individuals for the unassigned recovery teams, or assign groups to carry out specific plan activities, click go to section icon \(![Go to section icon](../image/GoToSectionIcon.png)\) in the respective scorecard widget to add the required information and set the plan to complete.
 

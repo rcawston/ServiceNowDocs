@@ -27,7 +27,7 @@ Role required: pa\_kpi\_signal\_admin, pa\_admin, or admin
 
     ![The Make me Responsible button in the KPI Signals panel](../image/kpi-signals-make-self-responsible.png)
 
-    KPI Signals monitoring cannot be active for a indicator unless there is at least one responsible user. Therefore, when you activate monitoring, you automatically make yourself a responsible user. You can then reassign responsibility. For more information, see [Configure responsibility for KPI Signals](../concept/kpi-signals-responsible-users.md#).
+    KPI Signals monitoring cannot be active for a indicator unless there is at least one responsible user. Therefore, when you activate monitoring, you automatically make yourself a responsible user. You can then reassign responsibility. For more information, see [Configure responsibility for KPI Signals](kpi-signals-responsible-users.md#).
 
 3.  Select a start date from which to evaluate the indicator for signals.
 
@@ -54,5 +54,5 @@ After you activate KPI Signals monitoring for an indicator, you can:
 
 For more information, see [Configure signal detection](configure-signal-detection.md).
 
-**Parent Topic:**[Configuring KPI Signals for an indicator](../concept/configuring-kpi-signals.md)
+**Parent Topic:**[Configuring KPI Signals for an indicator](configuring-kpi-signals.md)
 

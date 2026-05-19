@@ -41,7 +41,7 @@ For general information about import sets, see [Import sets](https://raw.githubu
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## ImportSet object
 
@@ -213,7 +213,7 @@ Script
 
 A script that transforms field values in the source table to the target table. This property supports a function from a JavaScript module, a reference to another file in the application that contains a script, or inline JavaScript. Expects a function of type `(source, target, map, log, isUpdate) => void`.Format:
 
--   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../concept/javascript-modules-third-party-libraries.md).
+-   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md).
 -   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
@@ -387,7 +387,7 @@ Script
 
 A script that transforms field values in the source table to the target table. This property supports a function from a JavaScript module, a reference to another file in the application that contains a script, or inline JavaScript. Expects a function of type `(source) => any`.Format:
 
--   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../concept/javascript-modules-third-party-libraries.md).
+-   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md).
 -   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
@@ -565,7 +565,7 @@ Script
 
 A script that modifies the transformation behavior at the stage specified with the when property. This property supports a function from a JavaScript module, a reference to another file in the application that contains a script, or inline JavaScript. Expects a function of type `(source, map, log, target) => void`.Format:
 
--   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../concept/javascript-modules-third-party-libraries.md).
+-   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md).
 -   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 

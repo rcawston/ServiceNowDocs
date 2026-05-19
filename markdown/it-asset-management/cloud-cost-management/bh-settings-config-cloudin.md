@@ -165,7 +165,7 @@ Default value: 1000
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Improve resource usage with Business hours](../concept/improve-res-use-business.md)
+**Parent Topic:**[Improve resource usage with Business hours](improve-res-use-business.md)
 
 **Related topics**  
 

@@ -55,12 +55,12 @@ A KPI collection task is also generated when an automated KPI fails to extract d
 
 The KPI collection task is marked as complete.
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 **Related topics**  
 
 
-[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 [Run segmentation rule](run-segmentation-rule.md)
 

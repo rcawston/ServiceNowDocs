@@ -19,7 +19,7 @@ You can use Observed Data by itself \(without relationships\) to convey raw data
 
 For example, Observed Data can capture information about an IP address, a network connection, a file, or a registry key. Observed Data is not an intelligence assertion, it is simply the raw information without any context for what it means.
 
--   **[Define observed data](../task/observed-data.md)**  
+-   **[Define observed data](observed-data.md)**  
 Define observed data that conveys information about cyber security-related entities such as files, systems, and networks using the STIX Cyber-observable Objects \(SCOs\).
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

@@ -23,10 +23,10 @@ Additional information on the required permissions for SQL Server Linked Servers
 
 **Note:** Review this information if you encounter permission errors with SQL Server.
 
--   **[ODBC SQL Server video tutorials](../reference/r_ODBCSQLServerVideos.md)**  
+-   **[ODBC SQL Server video tutorials](r_ODBCSQLServerVideos.md)**  
 Watch video tutorials about configuring and troubleshooting the ODBC driver with a SQL Linked Server.
--   **[Configure SQL Server](../task/t_ConfiguringSQLServer.md)**  
+-   **[Configure SQL Server](t_ConfiguringSQLServer.md)**  
 The following example configuration was performed on SQL Server 2008, installed on Windows Server 2008.
 
-**Parent Topic:**[ODBC and client applications](../reference/r_ODBCAndClientApplications.md)
+**Parent Topic:**[ODBC and client applications](r_ODBCAndClientApplications.md)
 

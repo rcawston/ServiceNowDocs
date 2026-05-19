@@ -40,5 +40,5 @@ Role required: none
 
 A universal request is created for the issue.
 
-**Parent Topic:**[Employee actions](../concept/ur-ms-teams-use-employee.md)
+**Parent Topic:**[Employee actions](ur-ms-teams-use-employee.md)
 

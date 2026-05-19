@@ -100,5 +100,5 @@ Universal Task Dynamic Template Mapping \[sn\_uni\_task\_dynamic\_template\_mapp
 Stores the dynamic template mappings between Universal Task fields and parent table fields.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal Task in Service Operations Workspace](../concept/using-ut-sow.md)
+</table>**Parent Topic:**[Universal Task in Service Operations Workspace](using-ut-sow.md)
 

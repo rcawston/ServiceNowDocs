@@ -25,7 +25,7 @@ Role required: sales\_agent
 
 3.  Fill in the information on the Details tab.
 
-    For more information, see [Opportunity details form](../reference/opportunity-details-form-fields.md).
+    For more information, see [Opportunity details form](opportunity-details-form-fields.md).
 
 4.  Select **Save**.
 

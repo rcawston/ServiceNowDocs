@@ -15,13 +15,13 @@ Platform Analytics dashboards have few role restrictions. Editing rights are gra
 
 Users with any role can create dashboards and share them with groups, users, and roles. These users can share a dashboard that has been shared with them if sharing rights were also granted. They can pass along editing rights if granted.
 
-The dashboard\_admin role allows a user to configure, edit, or delete any dashboards, regardless of ownership or editing rights. Certain configuration tasks also require dashboard\_admin, as described in [Configuring dashboards](../../dashboards/concept/configuring-dashboards.md).
+The dashboard\_admin role allows a user to configure, edit, or delete any dashboards, regardless of ownership or editing rights. Certain configuration tasks also require dashboard\_admin, as described in [Configuring dashboards](configuring-dashboards.md).
 
-Tasks that integrate dashboards with Process Mining require the sn\_process\_optimization\_analyst role. These tasks are listed in [Configuring dashboards](../../dashboards/concept/configuring-dashboards.md).
+Tasks that integrate dashboards with Process Mining require the sn\_process\_optimization\_analyst role. These tasks are listed in [Configuring dashboards](configuring-dashboards.md).
 
 Users with the analytics\_categories\_admin role can create, edit, or delete dashboard categories.
 
-For a full guide to roles connected to Platform Analytics dashboards, see [Platform Analytics roles](../reference/platform-analytics-roles.md).
+For a full guide to roles connected to Platform Analytics dashboards, see [Platform Analytics roles](platform-analytics-roles.md).
 
 <table id="table_d1r_2vc_k2c"><thead><tr><th>
 
@@ -117,7 +117,7 @@ Any role, if you created the dashboard.dashboard\_admin or higher for any dashbo
 
 </td></tr><tr><td>
 
-[Configure dashboard details](../../dashboards/task/config-db-in-ac.md)
+[Configure dashboard details](config-db-in-ac.md)
 
 </td><td>
 
@@ -125,7 +125,7 @@ Any role, if you created the dashboard or have had it shared with you with editi
 
 </td></tr><tr><td>
 
-[Configure dashboard settings](../../dashboards/task/configure-ac-db-settings.md) except scheduled refreshes
+[Configure dashboard settings](configure-ac-db-settings.md) except scheduled refreshes
 
 </td><td>
 
@@ -133,7 +133,7 @@ Any role, if you created the dashboard or have had it shared with you with editi
 
 </td></tr><tr><td>
 
-[Schedule dashboard refreshes](../../dashboards/task/configure-ac-db-settings.md)
+[Schedule dashboard refreshes](configure-ac-db-settings.md)
 
 </td><td>
 
@@ -141,7 +141,7 @@ dashboard\_admin or higher
 
 </td></tr><tr><td>
 
-[Configure dashboard tab cache timeout](../../dashboards/task/configure-ac-db-timeout.md)
+[Configure dashboard tab cache timeout](configure-ac-db-timeout.md)
 
 </td><td>
 
@@ -149,7 +149,7 @@ admin
 
 </td></tr><tr><td>
 
-[Create dashboard categories](../../dashboards/task/db-categories.md#)
+[Create dashboard categories](db-categories.md#)
 
 </td><td>
 
@@ -157,7 +157,7 @@ analytics\_categories\_admin or higher
 
 </td></tr><tr><td>
 
-[Assign categories to a dashboard](../../dashboards/task/db-categories.md#)
+[Assign categories to a dashboard](db-categories.md#)
 
 </td><td>
 

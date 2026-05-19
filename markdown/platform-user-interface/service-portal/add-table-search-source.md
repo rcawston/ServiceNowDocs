@@ -190,5 +190,5 @@ Define an advanced search source to return data from any source on the Internet.
 -   **[Example: set up a GitHub search source](search-sp-advanced.md)**  
 Set up an advanced search source that queries data from an external website.
 
-**Parent Topic:**[Zing search in Service Portal](../concept/zing-search-service-portal.md)
+**Parent Topic:**[Zing search in Service Portal](zing-search-service-portal.md)
 

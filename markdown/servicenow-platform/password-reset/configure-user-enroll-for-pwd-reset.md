@@ -29,7 +29,7 @@ To enable users to enroll, you configure settings for the verification type that
 
 2.  Click the verification type for the verification that your Password Reset process uses.
 
-    The verification type for each base-system verification is identified in [Password Reset verifications](../../login/concept/c_PWRVerifications.md).
+    The verification type for each base-system verification is identified in [Password Reset verifications](c_PWRVerifications.md).
 
 3.  On the **Verification Types** page, specify the following settings:
 
@@ -54,28 +54,28 @@ A verification type must also define a verification UI macro and a corresponding
 
 ![Verification processor](../image/VerificationTypeSMSProcessor.png "Verification processor script")
 
-**Parent Topic:**[Configure your Password Reset process](../../login/task/t_CreateAPasswordResetProcess.md)
+**Parent Topic:**[Configure your Password Reset process](t_CreateAPasswordResetProcess.md)
 
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../../login/reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](pwd-reset-process-recommend.md)
 
-[Configure password expiration reminder](../../login/task/password-reset-expiration-setup.md)
+[Configure password expiration reminder](password-reset-expiration-setup.md)
 
-[Credential stores for Password Reset](../../login/concept/c_CredentialStores.md)
+[Credential stores for Password Reset](c_CredentialStores.md)
 
-[Password Reset verifications](../../login/concept/c_PWRVerifications.md)
+[Password Reset verifications](c_PWRVerifications.md)
 
 [Configure your Password Reset process to auto-enroll users](configure-auto-enroll-for-pwd-reset.md)
 
-[Configure Password Reset properties](../../login/task/t_SetPwdResetProps.md)
+[Configure Password Reset properties](t_SetPwdResetProps.md)
 
-[Send email to remind users to enroll for Password Reset](../../login/task/config-pwd-reset-enroll-reminder.md)
+[Send email to remind users to enroll for Password Reset](config-pwd-reset-enroll-reminder.md)
 
-[Configure the required strength for passwords](../../login/task/config-pwd-strength-rqmts.md)
+[Configure the required strength for passwords](config-pwd-strength-rqmts.md)
 
 [Specify lockout for failed login attempts](t_LockoutForFailedLogins.md)
 
-[Configure Google reCAPTCHA for the password reset process](../../login/task/t_ConfigureGoogleRecaptcha.md)
+[Configure Google reCAPTCHA for the password reset process](t_ConfigureGoogleRecaptcha.md)
 

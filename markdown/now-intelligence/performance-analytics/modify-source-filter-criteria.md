@@ -44,7 +44,7 @@ You must have access to the list of records that you want to analyze.
 
 The interactive analysis updates with the new source filter. The **Filter Info** panel shows the updated conditions.
 
-**Parent Topic:**[Interactive Analysis](../../dashboards/concept/interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](interactive-analysis.md)
 
 **Related topics**  
 

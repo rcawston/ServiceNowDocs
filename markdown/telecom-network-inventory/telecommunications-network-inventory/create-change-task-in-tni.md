@@ -19,11 +19,11 @@ Create a change task after you create a change request in the Telecommunications
 
 -   1.  Navigate to **Telecom Network Inventory** &gt; **Inventory Models**, create your inventory models, and define their relationships.
 
-    To learn more, see [Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md).
+    To learn more, see [Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md).
 
 2.  Navigate to **Telecom Network Inventory** &gt; **Network Inventory Templates**, create the inventory templates for your equipment, and establish the template relationships.
 
-    To learn more, see [Create inventory template for network asset instantiation](../concept/preparing-inv-templates-network-asset-generation.md).
+    To learn more, see [Create inventory template for network asset instantiation](preparing-inv-templates-network-asset-generation.md).
 
 -   Role required: sn\_ni\_core.inventory\_template\_manager, sn\_ni\_core.inventory\_admin, sn\_ni\_core.telco\_inventory\_catalog\_manager, sn\_ni\_core.inventory\_agent.
 
@@ -63,13 +63,13 @@ Based on the details in the change request form, a change task is created automa
 
 11. On the form, fill in the fields.
 
-    To learn more about the fields, see [Change request and change task forms](../concept/change_request_forms.md).
+    To learn more about the fields, see [Change request and change task forms](change_request_forms.md).
 
     **Note:** For the design assign link aggregation group and GPON broadband service, see [Create a Link Aggregation Group using design and assign function](create_a_change_request_by_using_the_design_assign_link_aggregation_group.md) and [Design your GPON Broadband Service](gpon-broadband-change-model.md).
 
 12. Select **Submit**.
 
-    The **Details** tab is updated with the provided details and required modification to the CI is performed. All performed changes are updated in the work notes. To learn more about the fields, see [Change request and change task forms](../concept/change_request_forms.md).
+    The **Details** tab is updated with the provided details and required modification to the CI is performed. All performed changes are updated in the work notes. To learn more about the fields, see [Change request and change task forms](change_request_forms.md).
 
     **Note:** The removal of equipment or a shelf from a rack also removes all associated CI relationships between the equipment/shelf and the rack, along with the selected CI.
 
@@ -82,5 +82,5 @@ Based on the details in the change request form, a change task is created automa
 15. Select **Save**.
 
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 

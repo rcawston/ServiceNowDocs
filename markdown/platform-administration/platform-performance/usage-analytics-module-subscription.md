@@ -35,10 +35,10 @@ The ServiceNow Store Usage Overview dashboard contains information about applica
 
 To view the ServiceNow Store Usage Overview, navigate to **Self-Service** &gt; **Dashboards**. From the available dashboards, select **ServiceNow Store Usage Overview**.
 
--   **[Application usage overview dashboard](../../platform-performance/reference/app-usage-overview-dashboard.md)**  
+-   **[Application usage overview dashboard](app-usage-overview-dashboard.md)**  
 The Application Usage Overview dashboard displays reports on the use of ServiceNow applications on your instance.
--   **[ServiceNow Store usage overview dashboard](../../platform-performance/reference/store-usage-overview-dash.md)**  
+-   **[ServiceNow Store usage overview dashboard](store-usage-overview-dash.md)**  
 The ServiceNow Store Usage Overview dashboard displays reports on the use of ServiceNow Store applications on your instance.
 
-**Parent Topic:**[Monitoring platform performance](../../platform-performance/concept/monitoring-platform-performance.md)
+**Parent Topic:**[Monitoring platform performance](monitoring-platform-performance.md)
 

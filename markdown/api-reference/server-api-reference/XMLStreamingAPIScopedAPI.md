@@ -19,7 +19,7 @@ Use these methods in a Workflow Studio Script step with the `sn_ih` namespace id
 
 **Note:** You can only use this API within the Workflow Studio environment.
 
-There is no constructor for this class. Instead, you must call the build\(\) method in the [XMLStreamingBuilder](../../XMLStreamingBuilder/concept/XMLStreamingBuilderScopedAPI.md#) class to return an XMLStreamingAPI object.
+There is no constructor for this class. Instead, you must call the build\(\) method in the [XMLStreamingBuilder](XMLStreamingBuilderScopedAPI.md#) class to return an XMLStreamingAPI object.
 
 ## API call order
 
@@ -141,7 +141,7 @@ Output:
 </phoneNumber>
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## XMLStreamingAPI - close\(\)
 
@@ -381,7 +381,7 @@ try {
 
 Returns the XML document as a string.
 
-To return the XML document as a string, don't call the getAttachementId\(\) method in the XMLStreamingBuilder class. For more information, see [XMLStreamingBuilder - Scoped](../../XMLStreamingBuilder/concept/XMLStreamingBuilderScopedAPI.md#).
+To return the XML document as a string, don't call the getAttachementId\(\) method in the XMLStreamingBuilder class. For more information, see [XMLStreamingBuilder - Scoped](XMLStreamingBuilderScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

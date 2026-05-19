@@ -17,7 +17,7 @@ Reference topics provide detailed descriptions of tables, properties, forms, and
 
 ## Basics
 
-[CSDM terms](../reference/csdm-term-definitions.md)
+[CSDM terms](csdm-term-definitions.md)
 
 [CI relationships in the CSDM](ci-relationships.md)
 
@@ -35,31 +35,31 @@ Reference topics provide detailed descriptions of tables, properties, forms, and
 
 [Life cycle of product entities](csdm-lifecycle-product.md)
 
--   **[CSDM resources](../reference/csdm-resources.md)**  
+-   **[CSDM resources](csdm-resources.md)**  
 Resources and videos that complement the documentation.
--   **[CSDM terms](../reference/csdm-term-definitions.md)**  
+-   **[CSDM terms](csdm-term-definitions.md)**  
 Most ServiceNow products and ServiceNow AI Platform applications align closely with the Common Service Data Model. This table defines terms as they are used across the ServiceNow AI Platform.
 -   **[How CSDM concepts map to CMDB tables](csdm-to-cmdb-mapping.md)**  
 The objects in the conceptual CSDM framework must map to the physical model objects \(CIs and CI class tables\) in the CMDB. You can navigate in the platform to see dictionary attributes.
 -   **[CI relationships in the CSDM](ci-relationships.md)**  
 For configuration management to be most effective, establish relationships between the objects and CIs in the conceptual CSDM.
--   **[How life-cycle values for Asset, CI, and IBI are synchronized](../reference/cmdb-asset-CI-IBI-sync-options.md)**  
+-   **[How life-cycle values for Asset, CI, and IBI are synchronized](cmdb-asset-CI-IBI-sync-options.md)**  
 Your organization gains significant value from your ServiceNow AI Platform applications when you take advantage of the option to directly map legacy status values to CSDM **life cycle stage** and **life cycle stage status** values and auto-synchronize the values going forward.
--   **[Asset status values aligned to CSDM life cycle values](../../configuration-management/reference/csdm-lifecycle-map-csdm-to-asset.md)**  
+-   **[Asset status values aligned to CSDM life cycle values](csdm-lifecycle-map-csdm-to-asset.md)**  
 Legacy status values for Asset and Hardware Asset CIs are aligned with CSDM life cycle stage and life cycle stage status values.
--   **[Life cycle mapping form](../../configuration-management/reference/csdm-life-cycle-mapping-form.md)**  
+-   **[Life cycle mapping form](csdm-life-cycle-mapping-form.md)**  
 Use the Life Cycle Mapping module to specify how existing legacy status values should be converted to CSDM life-cycle value pairs \(**life cycle stage** and **life cycle stage status**\). You map both asset and CI legacy status values to life-cycle value pairs.
--   **['Foundation' stage reports on the CSDM Data Foundations dashboard](../reference/csdm-datafdn-dash-foundation-tab.md)**  
+-   **['Foundation' stage reports on the CSDM Data Foundations dashboard](csdm-datafdn-dash-foundation-tab.md)**  
 The **Foundation** tab on the CSDM Data Foundations dashboard identifies data that might be missing from the CMDB.
--   **['Crawl' stage reports on the CSDM Data Foundations dashboard](../reference/csdm-datafdn-dash-crawl-tab.md)**  
+-   **['Crawl' stage reports on the CSDM Data Foundations dashboard](csdm-datafdn-dash-crawl-tab.md)**  
 Crawl stage reports on the CSDM Data Foundations dashboard
--   **['Walk' stage reports on the CSDM Data Foundations dashboard](../reference/csdm-datafdn-dash-walk-tab.md)**  
+-   **['Walk' stage reports on the CSDM Data Foundations dashboard](csdm-datafdn-dash-walk-tab.md)**  
 Walk stage reports on the CSDM Data Foundations dashboard
--   **['Run' stage reports on the CSDM Data Foundations dashboard](../reference/csdm-datafdn-dash-run-tab.md)**  
+-   **['Run' stage reports on the CSDM Data Foundations dashboard](csdm-datafdn-dash-run-tab.md)**  
 Run stage reports on the CSDM Data Foundations dashboard
--   **['Fly' stage reports on the CSDM Data Foundations dashboard](../reference/csdm-datafdn-dash-fly-tab.md)**  
+-   **['Fly' stage reports on the CSDM Data Foundations dashboard](csdm-datafdn-dash-fly-tab.md)**  
 Fly stage reports on the CSDM Data Foundations dashboard
--   **[CSDM life-cycle terms](../../configuration-management/reference/csdm-life-cyle-terms.md)**  
+-   **[CSDM life-cycle terms](csdm-life-cyle-terms.md)**  
 Most ServiceNow products and ServiceNow AI Platform applications align closely with the Common Service Data Model. This table defines terms as they are used across the ServiceNow AI Platform.
 -   **[Life cycle of document and contract entities](csdm-lifecycle-document.md)**  
 The document and contract life-cycle value pairs represent the overall life cycle of document assets \(contracts\) and CIs \(business process documentation\) as related to their products. The life-cycle values for the document and contract life-cycle process are visible only in tables related to document entities in Contracts and CMDB.

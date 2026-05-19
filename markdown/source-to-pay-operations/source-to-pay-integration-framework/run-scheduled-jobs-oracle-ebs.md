@@ -36,5 +36,5 @@ Executes on-demand scheduled jobs on true entities of an ERP source target and f
     Entity inbound tables are populated with primary data.
 
 
-**Parent Topic:**[Scheduled jobs to look up primary data in Oracle EBS](../concept/scheduled-jobs-to-primary-data-oracle-ebs.md)
+**Parent Topic:**[Scheduled jobs to look up primary data in Oracle EBS](scheduled-jobs-to-primary-data-oracle-ebs.md)
 

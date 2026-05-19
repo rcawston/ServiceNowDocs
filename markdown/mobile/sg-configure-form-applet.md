@@ -85,7 +85,7 @@ Settings that determine when data is loaded in your screens. Select from the fol
 -   **Background**: The app makes a background network request to load embedded screens or record screen segments.
 -   **Dynamic prefetch**: Screens for the first 10 rows load as described for the **Prefetch** fetch type. After the 10 first rows load, additional rows of screens load with the **On-demand** fetch type.
 -   **On-demand**: The app sends a network request to load the app only when end users navigate to it.
- For more information about fetch types, see [Mobile fetch types](../reference/applet-fetch-types.md).
+ For more information about fetch types, see [Mobile fetch types](applet-fetch-types.md).
 
 </td></tr><tr><td>
 

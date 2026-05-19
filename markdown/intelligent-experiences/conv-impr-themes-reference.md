@@ -19,5 +19,5 @@ Several types of components are part of Conversation Improvement Themes, includi
 -   **[Troubleshooting for Conversation Improvement Themes](conv-impr-themes-ts.md)**  
 Troubleshooting steps for errors that might occur in Conversation Improvement Themes.
 
-**Parent Topic:**[Conversation Improvement Themes](../concept/conv-impr-themes-landing.md)
+**Parent Topic:**[Conversation Improvement Themes](conv-impr-themes-landing.md)
 

@@ -60,7 +60,7 @@ The state of the legal matter updates to Work in Progress.
 
 
 </td></tr></tbody>
-</table>4.  To add a matter task, in the **Tasks** tab, click **New** to [add a task](../../legal-matter-management/task/add-tasks-to-legal-matter.md).
+</table>4.  To add a matter task, in the **Tasks** tab, click **New** to [add a task](legal-matter-management/add-tasks-to-legal-matter.md).
 
     The matter task is created and **Artifacts**, **Approvers**, and **Data Source Details** tabs are displayed.
 
@@ -133,7 +133,7 @@ Option for indicating that the custodian has been notified of the legal hold on 
 
     -   In the **Instructions** section, click **Add** to add instructions for the assigned user to do for completing the task.
     -   In the **Checklist** section, click **Create** to add to-do items to track the progress of activities in the matter task.
-7.  [Add an artifact \(folder\)](../../legal-matter-management/task/add-artifact-to-legal-matter.md) in which you or the assigned person can upload files related to the task or its investigation.
+7.  [Add an artifact \(folder\)](legal-matter-management/add-artifact-to-legal-matter.md) in which you or the assigned person can upload files related to the task or its investigation.
 
 8.  In the **Details** tab of the Task form, select a user in the **Assigned to** field to assign the task to work on.
 

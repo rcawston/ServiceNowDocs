@@ -36,5 +36,5 @@ When set to **True**, all the active users, active trainings, incomplete to-dos 
  **Note:** If there is no information on the last successful schedule run time, the first pull will always be a full pull.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[HR Service Delivery Integration with SuccessFactors reference](../concept/hr-service-delivery-integration-with-success-factors-reference.md)
+</table>**Parent Topic:**[HR Service Delivery Integration with SuccessFactors reference](hr-service-delivery-integration-with-success-factors-reference.md)
 

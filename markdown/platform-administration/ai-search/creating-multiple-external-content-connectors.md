@@ -71,5 +71,5 @@ When creating multiple external content connectors of the same type, bear the fo
     Running crawl jobs for multiple external content connectors of the same type in parallel can cause contention when they send retrieved content to their shared indexed source. This contention may reduce the connectors' retrieval rate when their crawl jobs are run in parallel.
 
 
-**Parent Topic:**[Creating external content connectors](../task/creating-ext-cont-connectors.md)
+**Parent Topic:**[Creating external content connectors](creating-ext-cont-connectors.md)
 

@@ -65,5 +65,5 @@ Type of VMM. Select one of the following options:-   **vCenter**
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](../concept/ibm-asp-integration.md)
+**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](ibm-asp-integration.md)
 

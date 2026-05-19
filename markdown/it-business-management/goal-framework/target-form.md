@@ -85,7 +85,7 @@ Progress = (Actual value - Base value) / (Target value - Base value) x 100
 Progress = (Base value - Actual value) / (Base value - Target value) x 100
 ```
 
- For more information on how the progress value is calculated when weight scale is defined, see [progress value calculation](../concept/progress-value-calculation.md).
+ For more information on how the progress value is calculated when weight scale is defined, see [progress value calculation](progress-value-calculation.md).
 
 </td></tr><tr><td>
 
@@ -210,7 +210,7 @@ Check-in frequency
 
 </td><td>
 
-Option to specify breakdown intervals for the target and how frequently the owner or contributor should update the actual value of the target. Breaking down the target into smaller periods helps you set a target for smaller periods and focus on the specific breakdown targets. The available options are **Daily**, **Weekly**, **Monthly**, **Quarterly**, and **Yearly**. Target breakdowns are automatically created when you set this field to any of the available options other than **None**. For more details on target breakdowns, see [Target breakdowns in Strategic Planning](../../spw-goals/concept/target-breakdowns.md).**Note:** The target breakdowns feature isn’t supported for qualitative targets.
+Option to specify breakdown intervals for the target and how frequently the owner or contributor should update the actual value of the target. Breaking down the target into smaller periods helps you set a target for smaller periods and focus on the specific breakdown targets. The available options are **Daily**, **Weekly**, **Monthly**, **Quarterly**, and **Yearly**. Target breakdowns are automatically created when you set this field to any of the available options other than **None**. For more details on target breakdowns, see [Target breakdowns in Strategic Planning](../scenario-planning-in-spw/target-breakdowns.md).**Note:** The target breakdowns feature isn’t supported for qualitative targets.
 
 </td></tr><tr><td>
 

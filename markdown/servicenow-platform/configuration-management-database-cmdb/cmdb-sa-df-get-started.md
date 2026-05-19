@@ -31,13 +31,13 @@ For guidance on choosing the right classes, see the [Guidance on designating pri
 
 1.  On the CMDB success advisor landing page, select **Select principal classes**.
 
-    See [Viewing the CMDB success advisor landing page](../concept/cmdb-sa-landing-page.md).
+    See [Viewing the CMDB success advisor landing page](cmdb-sa-landing-page.md).
 
 2.  On the Select principal classes dialog box, select a group to choose all its classes or expand a group to select individual classes, then move them from the **Available classes** column to the **Selected classes** column.
 
     Any CI classes added to an application-specific advisor dashboard such as for Hardware Asset Management \(HAM\) are automatically monitored as principal classes. You can select up to 50 classes.
 
-    **Tip:** The **Recommended** group, shown at the top of the Group list, includes CI classes based on the recent incident, problem, and change \(IPC\) activity, ranked by task volume. You can start with these recommended principal classes to improve foundational CMDB data and maximize operational value. To learn more, see [CI class recommendations](../concept/cmdb-sa-df-class-recom.md).
+    **Tip:** The **Recommended** group, shown at the top of the Group list, includes CI classes based on the recent incident, problem, and change \(IPC\) activity, ranked by task volume. You can start with these recommended principal classes to improve foundational CMDB data and maximize operational value. To learn more, see [CI class recommendations](cmdb-sa-df-class-recom.md).
 
 3.  To remove a CI class, select the X icon next to the class in the **Selected classes** column.
 

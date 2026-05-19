@@ -71,7 +71,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude assets with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported asset file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported asset file extensions, see [Binary file extensions supported in External Content Connectors](file-extensions-ext-cont-connector.md).
 
 6.  Select **Save and validate**.
 
@@ -84,5 +84,5 @@ The Adobe Experience Manager as a Cloud Service external content connector is up
 
 To retrieve content from your Adobe Experience Manager as a Cloud Service source system using your modified crawl settings, create and run a one-time content crawl for your Adobe Experience Manager as a Cloud Service external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Adobe Experience Manager as a Cloud Service external content connector](../concept/adobe-expmgr-cs-external-content-connector.md)
+**Parent Topic:**[Adobe Experience Manager as a Cloud Service external content connector](adobe-expmgr-cs-external-content-connector.md)
 

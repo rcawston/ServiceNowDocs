@@ -28,5 +28,5 @@ Role required: admin
 3.  Select the confirm icon \(![Confirm icon.](../../../reuse/icons/brand-icons/bus-checkmark-circle.svg)\) to confirm the status.
 
 
-**Parent Topic:**[Reference](../concept/reference-email-admin.md)
+**Parent Topic:**[Reference](reference-email-admin.md)
 

@@ -103,5 +103,5 @@ Placeholder for HTML text and variables. The variables are resolved when the PDF
 7.  Review the look of the PDF document by impersonating a workplace manager and signing a closed task.
 
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 

@@ -24,7 +24,7 @@ The following end-to-end workflow shows how a contract manager extracts metadata
 1.  The contract repository record is created once the signed contract is attached to the contract request.
 2.  A contract manager with the appropriate role \(sn\_cm\_gen\_ai.ai\_contract\_fulfiller\) initiates metadata extraction in the contract repository record.
 
-    The metadata extraction is automatically initiated on creation of the contract repository record, if the automatic extraction process is enabled in system properties. For more information, see [Configure system properties for contract metadata extraction](../task/cncore-conf-sys-prop-na.md).
+    The metadata extraction is automatically initiated on creation of the contract repository record, if the automatic extraction process is enabled in system properties. For more information, see [Configure system properties for contract metadata extraction](cncore-conf-sys-prop-na.md).
 
 3.  The contract manager receives a notification once the metadata extraction is successfully completed.
 
@@ -34,11 +34,11 @@ The following end-to-end workflow shows how a contract manager extracts metadata
 5.  The contract manager submits the verified information to update it in the contract repository.
 6.  When the extraction process is completed, the **Extraction results** tab opens on the contract repository record displaying the status of the processed information.
 
--   **[Initiate metadata extraction from a contract](../task/cncore-extract-metadata.md)**  
+-   **[Initiate metadata extraction from a contract](cncore-extract-metadata.md)**  
 Use generative AI capabilities to extract metadata from a signed contract attached in a contract repository record.
--   **[Work with extracted metadata](../task/cncore-review-metatdata.md)**  
+-   **[Work with extracted metadata](cncore-review-metatdata.md)**  
 Review the metadata extracted from a contract and add it to the contract repository.
--   **[Metadata extraction results](../reference/cncore-metadata-ext-results.md)**  
+-   **[Metadata extraction results](cncore-metadata-ext-results.md)**  
 The Extraction results tab in the contract repository record displays the processed metadata and their statuses, indicating whether the metadata have been successfully added to the mapped fields in the contract repository.
 
 **Parent Topic:**[Using Now Assist in Contract Management](cncore-use-now-assist-land.md)

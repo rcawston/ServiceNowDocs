@@ -39,7 +39,7 @@ Role required: sn\_audit.admin and sn\_audit.manager
 
 7.  Select the **Test steps** tab to view the list of test steps and create a new test step.
 
-    **Note:** You can also view the list of control test steps that are generated from the test plan within the engagement. For more information, see [Automatically generate control tests from an engagement](../../grc-audit/task/automatically-generate-control-test.md).
+    **Note:** You can also view the list of control test steps that are generated from the test plan within the engagement. For more information, see [Automatically generate control tests from an engagement](automatically-generate-control-test.md).
 
 8.  Select **New** to create a new test step plan for the control test.
 

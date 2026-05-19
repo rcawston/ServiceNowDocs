@@ -82,5 +82,5 @@ Area![area visualization](../image/inline-data-vis-area.png)
 Resembles a line visualization, but the area between the axis and line is emphasized with colors. Use with multiple data sources to highlight the relative contribution that each data source makes to the whole.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create time series data visualizations](../task/create-dv-time-series-ac.md)
+</table>**Parent Topic:**[Create time series data visualizations](create-dv-time-series-ac.md)
 

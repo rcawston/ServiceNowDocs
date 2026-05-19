@@ -289,5 +289,5 @@ None
 </table>**Related topics**  
 
 
-[Launch a feature in Engagement Messenger using custom code](../task/contextual-launch-using-script-engagement-messenger.md)
+[Launch a feature in Engagement Messenger using custom code](customer-self-service-and-omnichannel-engagement/contextual-launch-using-script-engagement-messenger.md)
 

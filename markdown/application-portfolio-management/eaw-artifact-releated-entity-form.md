@@ -26,5 +26,5 @@ Enterprise Architecture Workspace enables the Enterprise Architects to associate
 **Related topics**  
 
 
-[Add a related entity to an architectural artifact](../../task/eaw-task/eaw-add-a-related-entity-to-an-architectural-artifact.md)
+[Add a related entity to an architectural artifact](eaw-add-a-related-entity-to-an-architectural-artifact.md)
 

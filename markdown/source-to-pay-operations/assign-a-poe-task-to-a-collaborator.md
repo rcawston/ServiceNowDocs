@@ -56,5 +56,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 The task is assigned to the assignee. You can't make any changes to the record until the assignee completes the task.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
 

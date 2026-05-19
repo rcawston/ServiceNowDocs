@@ -106,5 +106,5 @@ Short description
 Description of the widget.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

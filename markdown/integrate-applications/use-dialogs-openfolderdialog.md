@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-There are properties that you configure for the OpenFolderDialog component. For more information, see [Dialog component properties](../reference/dialog-component-properties.md).
+There are properties that you configure for the OpenFolderDialog component. For more information, see [Dialog component properties](dialog-component-properties.md).
 
 ## Procedure
 
@@ -47,5 +47,5 @@ There are properties that you configure for the OpenFolderDialog component. For 
 7.  To test the component, click **Run** under the **DESIGN** tab.
 
 
-**Parent Topic:**[Dialogs](../concept/dialogs.md)
+**Parent Topic:**[Dialogs](dialogs.md)
 

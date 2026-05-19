@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideSession API provides methods to find information about the current session.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideSession - clearClientData\(String paramName\)
 
@@ -79,7 +79,7 @@ Harry
 
 ### Scoped equivalent
 
-To use the getClientData\(\) method in a scoped application, use the corresponding scoped method: [getClientData\(\)](../../GlideSessionScoped/concept/c_GlideSessionScopedAPI.md#).
+To use the getClientData\(\) method in a scoped application, use the corresponding scoped method: [getClientData\(\)](c_GlideSessionScopedAPI.md#).
 
 ## GlideSession - getLanguage\(\)
 
@@ -107,7 +107,7 @@ en
 
 ### Scoped equivalent
 
-To use the getLanguage\(\) method in a scoped application, use the corresponding scoped method: [getLanguage\(\)](../../GlideSessionScoped/concept/c_GlideSessionScopedAPI.md#).
+To use the getLanguage\(\) method in a scoped application, use the corresponding scoped method: [getLanguage\(\)](c_GlideSessionScopedAPI.md#).
 
 ## GlideSession - getRoles\(\)
 
@@ -159,7 +159,7 @@ US/Pacific
 
 ### Scoped equivalent
 
-To use the getTimeZoneName\(\) method in a scoped application, use the corresponding scoped method: [getTimeZoneName\(\)](../../GlideSessionScoped/concept/c_GlideSessionScopedAPI.md#).
+To use the getTimeZoneName\(\) method in a scoped application, use the corresponding scoped method: [getTimeZoneName\(\)](c_GlideSessionScopedAPI.md#).
 
 ## GlideSession - isInteractive\(\)
 
@@ -190,7 +190,7 @@ false
 
 ### Scoped equivalent
 
-To use the isInteractive\(\) method in a scoped application, use the corresponding scoped method: [isInteractive\(\)](../../GlideSessionScoped/concept/c_GlideSessionScopedAPI.md#).
+To use the isInteractive\(\) method in a scoped application, use the corresponding scoped method: [isInteractive\(\)](c_GlideSessionScopedAPI.md#).
 
 ## GlideSession - isLoggedIn\(\)
 
@@ -218,7 +218,7 @@ true
 
 ### Scoped equivalent
 
-To use the isLoggedIn\(\) method in a scoped application, use the corresponding scoped method: [isLoggedIn\(\)](../../GlideSessionScoped/concept/c_GlideSessionScopedAPI.md#).
+To use the isLoggedIn\(\) method in a scoped application, use the corresponding scoped method: [isLoggedIn\(\)](c_GlideSessionScopedAPI.md#).
 
 ## GlideSession - putClientData\(String paramName, String paramValue\)
 
@@ -248,5 +248,5 @@ Harry
 
 ### Scoped equivalent
 
-To use the putClientData\(\) method in a scoped application, use the corresponding scoped method: [putClientData\(\)](../../GlideSessionScoped/concept/c_GlideSessionScopedAPI.md#).
+To use the putClientData\(\) method in a scoped application, use the corresponding scoped method: [putClientData\(\)](c_GlideSessionScopedAPI.md#).
 

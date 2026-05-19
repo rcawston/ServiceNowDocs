@@ -25,7 +25,7 @@ Process Mining evaluation project for Customer Service Management \(CSM\) enable
 Process Mining evaluation project for Human Resources \(HR\) enables you to familiarize with improving your process with Process Mining capability.
 -   **[Process Mining evaluation project for Security Incident](evaluation-security.md)**  
 Process Mining evaluation project for Security Incident enables you to familiarize with improving your process with Process Mining capability.
--   **[Run the Process Mining evaluation project](../task/run-evaluation-project.md)**  
+-   **[Run the Process Mining evaluation project](run-evaluation-project.md)**  
 Run the Process Mining evaluation project to familiarize with improving your process with Process Mining capability.
 
 **Parent Topic:**[Exploring Process Mining](explore-process-mining.md)

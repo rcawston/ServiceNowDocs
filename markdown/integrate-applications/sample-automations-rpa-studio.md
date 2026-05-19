@@ -77,5 +77,5 @@ Use the following unattended and attended sample automations that were added to 
 |-----------------|-----------|
 |Copying a Range from One Excel File to Another|This automation copies a range of data from one Excel file to another. The automation is designed to identify the specific range of cells in the source Excel file, extract the data, and then paste it into the designated range in the destination Excel file. This use case is useful for tasks such as data consolidation, report generation, and data migration, where manual copying and pasting can be time-consuming and prone to errors.|
 
-**Parent Topic:**[Use sample automations in RPA Desktop Design Studio](../task/use-sample-automation.md)
+**Parent Topic:**[Use sample automations in RPA Desktop Design Studio](use-sample-automation.md)
 

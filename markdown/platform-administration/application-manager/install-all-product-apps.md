@@ -44,7 +44,7 @@ Role required: admin, sn\_appclient.app\_client\_user, or sn\_appclient.app\_cli
 
     2.  Procure any dependencies that aren't licensed from the ServiceNow Store.
 
-        For more information, see [Getting apps and trials from the ServiceNow Store](../../servicenow-store/concept/getting-apps-trials.md).
+        For more information, see [Getting apps and trials from the ServiceNow Store](../getting-apps-trials.md).
 
     3.  Go back to the product details page and repeat for each application dependency.
 
@@ -93,5 +93,5 @@ Procedure
 
 If you choose to install the product now, it and its dependencies begin to install immediately. Scheduled installations begin at the chosen date and time.
 
-**Parent Topic:**[Installing applications, plugins, and products](../concept/installing-apps-app-manager.md)
+**Parent Topic:**[Installing applications, plugins, and products](installing-apps-app-manager.md)
 

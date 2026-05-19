@@ -53,7 +53,7 @@ This task provides guidance on updating the **Planning work types** or **Backlog
 **Related topics**  
 
 
-[Manage team backlog in EAP](../concept/using-eap.md)
+[Manage team backlog in EAP](using-eap.md)
 
-[Perform PI planning in EAP](../concept/pi-planning-eap.md)
+[Perform PI planning in EAP](pi-planning-eap.md)
 

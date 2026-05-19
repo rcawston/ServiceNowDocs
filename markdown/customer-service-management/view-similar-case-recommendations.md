@@ -46,5 +46,5 @@ Any changes made to the current case and saved will trigger a refresh of the rec
 
 Plugins: The configuration for the similar case recommendation feature is included with the Customer Service plugin \(com.sn\_customerservice\). The similar case recommendation feature has a dependency on Major Issue Management – activate the Major Issue Management plugin \(com.sn\_majorissue\_mgt\).
 
-For more info, see [Similar case user actions](../reference/similar-cases-user-actions.md)
+For more info, see [Similar case user actions](similar-cases-user-actions.md)
 

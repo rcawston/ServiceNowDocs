@@ -17,9 +17,9 @@ To work effectively with intent and activity analysis using Now Assist, you must
 
 This section covers the following topic:
 
--   **[Activate Intent and Activity Analysis skill](../task/activate-intent-skill.md)**  
+-   **[Activate Intent and Activity Analysis skill](activate-intent-skill.md)**  
 Activate the Intent and Activity analysis skill to be able to use Now Assist for Process Mining to understand the intent of the requester and gain insight into the related tasks and actions needed to complete the tasks.
--   **[Configure intent and activity analysis](../configure/configure-intent.md)**  
+-   **[Configure intent and activity analysis](configure-intent.md)**  
 Configure intent and activity analysis for a process table so that any project that is based on the process table has work notes analysis configured.
 
 **Parent Topic:**[Configuring Now Assist for Process Mining](config-na-proc-min.md)

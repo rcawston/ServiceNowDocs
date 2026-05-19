@@ -42,7 +42,7 @@ A risk tolerance is the standard deviation from the defined risk appetite that a
 
 ## Setting up a risk appetite and tolerance
 
-A risk administrator can configure and set up a risk appetite for your organization in the Advanced Risk application. For more information, see [Risk appetite setup](../../grc-risk/concept/risk-appetite-setup.md).
+A risk administrator can configure and set up a risk appetite for your organization in the Advanced Risk application. For more information, see [Risk appetite setup](risk-appetite-setup.md).
 
-**Parent Topic:**[Advanced Risk Assessment](../../grc-risk/concept/advanced-risk-assessment.md)
+**Parent Topic:**[Advanced Risk Assessment](advanced-risk-assessment.md)
 

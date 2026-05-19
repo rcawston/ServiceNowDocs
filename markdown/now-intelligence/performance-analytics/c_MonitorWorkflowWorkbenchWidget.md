@@ -15,7 +15,7 @@ breadcrumb: [Performance Analytics widgets, Reporting, dashboards, and Performan
 
 A workbench process widget is a collection of indicators that tell a story. The widget enables you to analyze multiple facets of multiple indicators on one screen without drilling down. This widget is useful when you want to monitor a process or service that has a workflow.
 
-**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -118,7 +118,7 @@ Specifies that a breakdown element applied to the dashboard where the widget is 
 
  **Warning:** Workbench widgets do not support multiple element selection on breakdown dashboards. If you select multiple elements on a breakdown dashboard with this widget, the widget ignores your selection.
 
- For more information, see [Configure widgets for breakdown dashboards](../task/set-up-widgets-for-breakdown-dashboards.md).
+ For more information, see [Configure widgets for breakdown dashboards](set-up-widgets-for-breakdown-dashboards.md).
 
 </td></tr><tr><td>
 

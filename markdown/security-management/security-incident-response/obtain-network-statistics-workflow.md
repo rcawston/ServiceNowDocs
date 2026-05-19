@@ -29,15 +29,15 @@ Existing security incidents are automatically updated when you are in the **Anal
 
 The flow process actions include:
 
--   [Get Configuration Item FQDN Flow Action](../../security-operations-orchestration/reference/get-config-FQDN-activity.md)
+-   [Get Configuration Item FQDN Flow Action](../get-config-FQDN-activity.md)
 -   Determine Shell Script by OS
 -   If statement is executed by Powershell
--   [Execution Tracking - Begin Flow Action](../../security-operations-common/concept/execution-tracking-begin.md)
--   [Get Network Statistics via netstat Flow Action](../../security-operations-orchestration/reference/get-network-stats-netstat-activity.md)
--   [Capability Execution Tracking- Failure Flow Action](../../security-operations-common/concept/capability-execution-tracking-failure.md)
--   [Create Enrichment Data records Flow Action](../../security-operations-common/concept/create-enrich-data-records.md)
--   [Capability Execution Tracking- Failure Flow Action](../../security-operations-common/concept/capability-execution-tracking-failure.md) - Returns enrichment ID.
--   [Capability Execution Tracking - Complete Flow Action](../../security-operations-common/concept/capability-execution-tracking-complete.md)
+-   [Execution Tracking - Begin Flow Action](../execution-tracking-begin.md)
+-   [Get Network Statistics via netstat Flow Action](../get-network-stats-netstat-activity.md)
+-   [Capability Execution Tracking- Failure Flow Action](../capability-execution-tracking-failure.md)
+-   [Create Enrichment Data records Flow Action](../create-enrich-data-records.md)
+-   [Capability Execution Tracking- Failure Flow Action](../capability-execution-tracking-failure.md) - Returns enrichment ID.
+-   [Capability Execution Tracking - Complete Flow Action](../capability-execution-tracking-complete.md)
 
 ## Procedure
 
@@ -49,14 +49,14 @@ The flow process actions include:
 
 4.  Click **Update**.
 
-    Security Incident Response Orchestration provides network statistics information in the **Related Links** &gt; **Security Incident Enrichments** tab. For more information see, [Security Operations enrichment data mapping](../../security-operations-common/concept/enrichment-data-mapping.md).
+    Security Incident Response Orchestration provides network statistics information in the **Related Links** &gt; **Security Incident Enrichments** tab. For more information see, [Security Operations enrichment data mapping](../enrichment-data-mapping.md).
 
-    Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+    Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](../common-wf-activities.md).
 
 
-**Parent Topic:**[Security Incident Response Orchestration workflows and activities](../concept/sec-inc-resp-orchestration-workflows.md)
+**Parent Topic:**[Security Incident Response Orchestration workflows and activities](sec-inc-resp-orchestration-workflows.md)
 
-**Parent Topic:**[Security Operations Integration- Get Network Statistics capability](../../security-operations-common/concept/get-network-statistics-capability.md)
+**Parent Topic:**[Security Operations Integration- Get Network Statistics capability](../get-network-statistics-capability.md)
 
 **Related topics**  
 
@@ -65,7 +65,7 @@ The flow process actions include:
 
 [Security Incident Response - Get Running Services workflow](get-running-services-workflow.md)
 
-[Run procdump flow](../concept/invoke_procdump.md)
+[Run procdump flow](invoke_procdump.md)
 
 [Security Incident - Evaluate response task outcome workflow](si-evaluate-response-task-outcome-workflow.md)
 

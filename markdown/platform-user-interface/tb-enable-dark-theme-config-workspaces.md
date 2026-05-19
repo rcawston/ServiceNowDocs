@@ -32,5 +32,5 @@ Role required: admin
     **Note:** If you select the dark theme, the dark theme only applies to the configurable workspaces. The classic environment remains in the default theme.
 
 
-**Parent Topic:**[Working with the dark theme](../concept/tb-working-in-dark-theme.md)
+**Parent Topic:**[Working with the dark theme](tb-working-in-dark-theme.md)
 

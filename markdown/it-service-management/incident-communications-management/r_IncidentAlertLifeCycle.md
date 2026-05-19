@@ -17,7 +17,7 @@ Incident communication plan state model helps you to understand the different st
 
 Incident alerts are created with a **New** state. They follow a process that finishes with the **Closed** or **Canceled** state.
 
-**Note:** The state model shown below is available only for customers prior to the London release. Beginning London release, customers who have upgraded to the latest release, can refer to [Incident communication plan state model](../concept/incident-comm-plan-new-state-model.md).
+**Note:** The state model shown below is available only for customers prior to the London release. Beginning London release, customers who have upgraded to the latest release, can refer to [Incident communication plan state model](incident-comm-plan-new-state-model.md).
 
 ![Stages of an incident communication plan](../image/IncidentAlertStages.png "Incident communication plan stages")
 

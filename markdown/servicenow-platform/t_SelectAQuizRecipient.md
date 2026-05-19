@@ -38,5 +38,5 @@ The system also creates a link to the quiz in the recipients' **My Assessments &
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](c_QuizDesigner.md)
 

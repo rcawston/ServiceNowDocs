@@ -15,7 +15,7 @@ The architectural artifact categories enable you to categorize and manage artifa
 
 You can add a new architectural artifact category or edit an existing one.
 
--   **[Add or edit an architectural artifact category](../../task/eaw-task/eaw-add-edit-arch-art-category.md)**  
+-   **[Add or edit an architectural artifact category](eaw-add-edit-arch-art-category.md)**  
 Add  or edit an artifact category. Assign the category to an architectural artifact. Categories enable you to categorize and manage artifacts more efficiently.
 
 **Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)

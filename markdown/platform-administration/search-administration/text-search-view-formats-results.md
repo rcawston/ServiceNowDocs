@@ -72,7 +72,7 @@ Global search uses the first string field in the table's text\_search list view 
 </td></tr></tbody>
 </table>By default, the system uses the text\_search list view for a table to format global text search results for that table. If a text\_search view doesn't exist for the table, the system instead formats search results using the table's default form view. Implementers can specify which view the system uses to format search results by modifying the value of the **glide.ui.text\_search.view** system property.
 
--   **[Default display fields for global search tables](../reference/global-search-default-tables.md)**  
+-   **[Default display fields for global search tables](global-search-default-tables.md)**  
 Multiple tables are enabled for global search in the base system. Each global search table has its own set of fields included in the table's default text\_search list view. The system uses fields from this view to format global search results from these tables.
 
 **Parent Topic:**[Global search finds records from multiple tables](c_GlobalTextSearch.md)
@@ -88,15 +88,15 @@ Multiple tables are enabled for global search in the base system. Each global se
 
 [Global search displays your most recent search queries and results in Next Experience UI](global-search-recent-queries-results.md)
 
-[Set global text search properties](../task/set-global-text-search-properties.md)
+[Set global text search properties](set-global-text-search-properties.md)
 
-[Set the preview limit for global or workspace search in Next Experience UI](../task/set-app-preview-limit-polaris-ui.md)
+[Set the preview limit for global or workspace search in Next Experience UI](set-app-preview-limit-polaris-ui.md)
 
-[Hide per-table search result counts in Next Experience UI](../task/hide-result-counts-polaris-ui.md)
+[Hide per-table search result counts in Next Experience UI](hide-result-counts-polaris-ui.md)
 
-[Add a workspace application to the Unified Navigation search context menu](../task/add-app-search-context-polaris-ui.md)
+[Add a workspace application to the Unified Navigation search context menu](add-app-search-context-polaris-ui.md)
 
-[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+[Global text search suggestions](r_GlobalTextSearchSuggestions.md)
 
 [Create and delete views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-delete-view.md)
 

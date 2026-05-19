@@ -39,10 +39,10 @@ In this configuration, the workflow does not run the same subflow containing a *
 
 ![](../image/WorkflowCreateTaskSubflow2Diagram.png "Running different subflows containing the Create Task activity")
 
--   **[Pass a variable from a workflow to a subflow](../task/t_VariableWorkflowSubflow.md#)**  
+-   **[Pass a variable from a workflow to a subflow](t_VariableWorkflowSubflow.md#)**  
 Use this process to pass variables from a parent workflow to a subflow.
--   **[Prepare a subflow](../task/t_PrepareASubflow.md#)**  
+-   **[Prepare a subflow](t_PrepareASubflow.md#)**  
 Review the process of preparing a subflow for use in a parent workflow, and for preparing the parent workflow to use a subflow.
 
-**Parent Topic:**[Workflow management](../../workflow-administration/concept/managing-workflows.md)
+**Parent Topic:**[Workflow management](managing-workflows.md)
 

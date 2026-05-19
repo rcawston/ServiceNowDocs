@@ -128,8 +128,8 @@ if(test-path env:\SNC_user) {
 }
 ```
 
--   **[Create a custom PowerShell probe](../../orchestration/task/t_CreateACustomPowershellProbe.md)**  
+-   **[Create a custom PowerShell probe](t_CreateACustomPowershellProbe.md)**  
 You can create your own PowerShell probe and configure probe parameters.
 
-**Parent Topic:**[List of Discovery probes](../reference/r_ListOfDiscoveryProbes.md)
+**Parent Topic:**[List of Discovery probes](r_ListOfDiscoveryProbes.md)
 

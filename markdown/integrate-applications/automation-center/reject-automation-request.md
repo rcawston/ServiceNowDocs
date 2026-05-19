@@ -46,5 +46,5 @@ Rejecting an automation request is one of the life-cycle stages of an automation
 
 The Rejected state is the end state of a request. There are no operations possible after that state.
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

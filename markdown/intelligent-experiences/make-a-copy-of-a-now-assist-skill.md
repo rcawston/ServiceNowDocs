@@ -56,5 +56,5 @@ If you're making a copy of the case or incident summarization skill and would li
 -   **[Configure case or incident summarization in the Now Assist Admin console](configure-case-or-incident-summarization-in-the-now-assist-admin-console.md)**  
 Configure case or incident summarization by using the guided setup in the Now Assist Admin console. You can choose the input tables and fields as well as customize the prompt output for copies of the record summarization skills.
 
-**Parent Topic:**[Using Now Assist Admin](../concept/using-now-assist-admin_0.md)
+**Parent Topic:**[Using Now Assist Admin](using-now-assist-admin_0.md)
 

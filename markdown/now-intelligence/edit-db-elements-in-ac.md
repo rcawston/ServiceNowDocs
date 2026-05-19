@@ -16,7 +16,7 @@ You can edit the contents of a dashboard or dashboard tab, including data visual
 
 ## Before you begin
 
-Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
+Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
 
 ## Procedure
 
@@ -54,7 +54,7 @@ Steps
 
 </td><td>
 
-Focus on the element and select **Configure**. The configuration panel opens.Configuration options depend on the element type. For data visualizations and filters, they also depend on the visualization or filter type, respectively. For more information, see [Creating data visualizations](../../reporting/concept/creating-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+Focus on the element and select **Configure**. The configuration panel opens.Configuration options depend on the element type. For data visualizations and filters, they also depend on the visualization or filter type, respectively. For more information, see [Creating data visualizations](creating-data-visualizations.md) or [Filters in Platform Analytics](interactive-filters-workspace.md).
 
 **Note:** There are role and ownership requirements for editing a component that is shared from a library. If you aren’t allowed to edit an element, create a local version that is not linked to the library and edit that one. For more information, see [Edit a copy of a shared dashboard element](editing-local-copy-saved-dv.md).
 
@@ -116,7 +116,7 @@ When you have multiple tabs, you can move elements from tab to another or to the
 
 </td><td>
 
-Data visualizations follow filters by default. A data visualization follows filters in the same tab as itself or above the tabs. Data visualizations either follow all such tabs that target their data sources, or none.For configuration instructions, see [Configure a data visualization to follow filters or not](../../par-for-workspace/task/configure-dv-follow-filters-or-not.md).
+Data visualizations follow filters by default. A data visualization follows filters in the same tab as itself or above the tabs. Data visualizations either follow all such tabs that target their data sources, or none.For configuration instructions, see [Configure a data visualization to follow filters or not](configure-dv-follow-filters-or-not.md).
 
 </td></tr><tr><td id="d89902e377">
 
@@ -124,8 +124,8 @@ Data visualizations follow filters by default. A data visualization follows filt
 
 </td><td>
 
-Choose what happens when you select a visualization or one of its segments. The procedure depends on the type of dashboard. The default drilldown from a dashboard opened in Platform Analytics experience or any other workspace/experience is to Core UI artifacts.-   For a dashboard created in the inline editor and viewed in Platform Analytics experience, choose a preconfigured Chart Interaction. For more information, see [Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md).
--   For a dashboard created in the inline editor and viewed in a workspace/experience other than the Platform Analytics experience, see [Configure custom redirection from a dashboard component](../../performance-analytics/task/config-custom-redirection-from-db.md). The inline dashboard first has to be enabled to be viewed in the workspace, and then has to be referenced from a page built from the Dashboards page template, as described in [Add a dashboard to a Dashboards page](../../performance-analytics/task/add-dashboard-to-workspace.md).
+Choose what happens when you select a visualization or one of its segments. The procedure depends on the type of dashboard. The default drilldown from a dashboard opened in Platform Analytics experience or any other workspace/experience is to Core UI artifacts.-   For a dashboard created in the inline editor and viewed in Platform Analytics experience, choose a preconfigured Chart Interaction. For more information, see [Chart interactions in a data visualization](dv-chart-interactions.md).
+-   For a dashboard created in the inline editor and viewed in a workspace/experience other than the Platform Analytics experience, see [Configure custom redirection from a dashboard component](config-custom-redirection-from-db.md). The inline dashboard first has to be enabled to be viewed in the workspace, and then has to be referenced from a page built from the Dashboards page template, as described in [Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md).
 -   For a technical dashboard, see [Add a drilldown event to a data visualization on a technical dashboard](add-custom-drilldown-event.md).
 
 

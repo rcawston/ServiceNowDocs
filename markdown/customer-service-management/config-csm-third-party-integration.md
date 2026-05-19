@@ -29,7 +29,7 @@ Role required: admin
 
 2.  Identify the spoke action that retrieves the desired third-party data.
 
-    You can find the list of available actions in the spoke documentation. If an action that performs the desired task does not exist, you can create your own action by copying an existing action and modifying it to suit your needs. You can find an example of the custom spoke actions in [Create Salesforce spoke actions to retrieve Opportunities for use in the remote table definition](../concept/csm-integration-salesforce-spoke.md).
+    You can find the list of available actions in the spoke documentation. If an action that performs the desired task does not exist, you can create your own action by copying an existing action and modifying it to suit your needs. You can find an example of the custom spoke actions in [Create Salesforce spoke actions to retrieve Opportunities for use in the remote table definition](csm-integration-salesforce-spoke.md).
 
     **Note:** Data Stream Actions cannot be used with the remote table.
 

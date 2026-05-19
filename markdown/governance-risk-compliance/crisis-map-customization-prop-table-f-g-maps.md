@@ -25,7 +25,7 @@ Description
 
 Defines which method of authentication should be used for Google Mapsgoogle.maps.method
 
-**Note:** The "Name of the customization property" column refers to the customization properties mentioned in the [Customization properties for Google Maps](../concept/crisis-map-customization-properties-for-g-maps.md) topic.
+**Note:** The "Name of the customization property" column refers to the customization properties mentioned in the [Customization properties for Google Maps](crisis-map-customization-properties-for-g-maps.md) topic.
 
 </td><td>
 
@@ -113,5 +113,5 @@ Enable this property only when you want to alter the Google map's behavior based
 -   Type: yes or no
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customization properties for Google Maps](../concept/crisis-map-customization-properties-for-g-maps.md)
+</table>**Parent Topic:**[Customization properties for Google Maps](crisis-map-customization-properties-for-g-maps.md)
 

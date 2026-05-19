@@ -27,7 +27,7 @@ The SLA engine performs the following passes:
     4.  If the SLA is active, the Pause condition is true, and the SLA stage is **In Progress**, the SLA is paused.
     5.  If the SLA is active, the Pause condition is false, and the SLA stage is **Paused**, the SLA changes back to **In Progress**.
 
--   **[Actual and business elapsed times](../reference/r_ElapsedTimeCounting.md)**  
+-   **[Actual and business elapsed times](r_ElapsedTimeCounting.md)**  
 Task SLA records contain two sets of timing information: **Actual elapsed** and **Business elapsed**.
 
 **Parent Topic:**[Exploring Service Level Management](exploring-slm.md)

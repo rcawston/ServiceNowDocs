@@ -24,7 +24,7 @@ Role required: An Impact role
 
 ## Procedure
 
-1.  [Install the Impact Store Application from the ServiceNow Store](../task/install-impact-innovation-lab.md).
+1.  [Install the Impact Store Application from the ServiceNow Store](install-impact-innovation-lab.md).
 
 2.  Log in to the Impact Store Application.
 
@@ -101,11 +101,11 @@ Contact \(administrator who receives the email to complete setup\)
 
 ## What to do next
 
-The named contact administrator will [Use manual registration to establish the connection to the provider instance](../task/connect-instance-impact-store-app.md).
+The named contact administrator will [Use manual registration to establish the connection to the provider instance](connect-instance-impact-store-app.md).
 
 **Parent Topic:**[Use manual registration to configure the Impact Store Application](use_manual_registration_configure_impact_store_application.md)
 
 **Previous topic:**[Use manual registration to configure the Impact Store Application](use_manual_registration_configure_impact_store_application.md)
 
-**Next topic:**[Use manual registration to establish the connection to the provider instance](../task/connect-instance-impact-store-app.md)
+**Next topic:**[Use manual registration to establish the connection to the provider instance](connect-instance-impact-store-app.md)
 

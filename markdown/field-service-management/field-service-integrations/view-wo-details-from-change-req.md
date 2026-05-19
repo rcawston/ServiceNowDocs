@@ -17,7 +17,7 @@ View or track the progress of a work order in the associated change request from
 
 ## Before you begin
 
-Enable the activity function using the ChangeWorkOrderIntegration extension point. For more information, see [Using an extension point to synchronize work orders with change requests](../reference/using-extention-point-for-chnge-mngmnt.md).
+Enable the activity function using the ChangeWorkOrderIntegration extension point. For more information, see [Using an extension point to synchronize work orders with change requests](using-extention-point-for-chnge-mngmnt.md).
 
 Role required: itil, wm\_admin, and sn\_change\_read
 

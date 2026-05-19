@@ -28,6 +28,6 @@ Evaluate the allocation of configuration items \(CIs\) and their allocation leve
 
 1.  To view subscription information for OTM subscriptions purchased a la carte, navigate to **OTM License** &gt; **License Summary**.
 
-2.  Review the details presented on the form, as outlined in the [Subscriptions form for the OTM products](../../operational-technology-management/reference/otm-subscriptions-form.md).
+2.  Review the details presented on the form, as outlined in the [Subscriptions form for the OTM products](otm-subscriptions-form.md).
 
 

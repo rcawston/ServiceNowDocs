@@ -19,6 +19,6 @@ Use the ServiceNow® Performance Analytics widgets on a dashboard to visualize d
 
 The following dashboards are available for Financial Services Customer Lifecycle Operations:
 
--   [Business Lifecycle Operations dashboard](../../../use/dashboards/application-content-packs/fso-business-lifecycle-dashboard.md)
--   [Client Lifecycle dashboard](../../../use/dashboards/application-content-packs/fso-client-lifecycle-dashboard.md)
+-   [Business Lifecycle Operations dashboard](../fso-business-lifecycle-dashboard.md)
+-   [Client Lifecycle dashboard](../fso-client-lifecycle-dashboard.md)
 

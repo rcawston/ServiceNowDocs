@@ -25,7 +25,7 @@ A change request records the detailed information about the change, such as the 
 
 If you use conflict detection, the planned start and end dates and the configuration item \(CI\) are required.
 
-**Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+**Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ If you use conflict detection, the planned start and end dates and the configura
 
 You can create all three types of change from the **Change** module.1.  Navigate to **All** &gt; **Change** &gt; **Create New**.
 2.  Select **Normal**, **Emergency**, or **Standard** changes.
- If you're an upgrade customer and willing to use change models, you must enable the change model properties. For information on change models and its properties, see [Change models](../concept/change-models.md).
+ If you're an upgrade customer and willing to use change models, you must enable the change model properties. For information on change models and its properties, see [Change models](change-models.md).
 
  When you enable the change model properties, you see the following tabs when you navigate to **All** &gt; **Change** &gt; **Create New**.
 
@@ -81,7 +81,7 @@ If the administrator enabled the change request copy option, you can create a ne
 4.  View the new change request record created using the selected template by selecting **Continue**.
  **Note:** When you select an existing template, information in the predefined fields will be populated. Template fields are either read-only or mandatory depending on the template field policies configured while creating the template.
 
-For more information on change templates, see [Change templates](../concept/change-templates.md).
+For more information on change templates, see [Change templates](change-templates.md).
 
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
@@ -148,7 +148,7 @@ CI that the change applies to. Change requests can be associated with any type o
 
  **Note:** By default, Service Offering is filtered out and CIs with Principal Class are selected. The Principal Class filter functionality is applicable to new customers starting the Paris release.
 
- See [Refresh impacted services properties](../reference/refreshing-impacted-services-properties.md)
+ See [Refresh impacted services properties](refreshing-impacted-services-properties.md)
 
 </td></tr><tr><td>
 
@@ -164,7 +164,7 @@ Risk
 
 </td><td>
 
-Risk level for the change. The Risk value is **-- None --** until you define it as **High**, **Moderate**, or **Low**. You can also use [Risk Calculation and Risk Assessment](../concept/c_RskAsmtCalc.md) to drive the risk value of the change.
+Risk level for the change. The Risk value is **-- None --** until you define it as **High**, **Moderate**, or **Low**. You can also use [Risk Calculation and Risk Assessment](c_RskAsmtCalc.md) to drive the risk value of the change.
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Model
 
 </td><td>
 
-Change model being used for the change request.For information about Change models, see [Change models](../concept/change-models.md).
+Change model being used for the change request.For information about Change models, see [Change models](change-models.md).
 
 </td></tr><tr><td>
 
@@ -273,7 +273,7 @@ Detailed description of the change.
 
     3.  If there is an unplanned CI activity, select the **Unauthorized** check box to determine if the change is an unauthorized change.
 
-        For more information, see [Unauthorized change request](../concept/unauthorized-change-request.md).
+        For more information, see [Unauthorized change request](unauthorized-change-request.md).
 
         **Note:** This check box is available only for emergency change requests.
 
@@ -396,17 +396,17 @@ You can create a standard change request from the published standard change cata
 You can copy details of an active or canceled change request to a new change request.
 -   **[Create a change task](create-a-change-task.md)**  
 You can create change tasks for a change request. A change task is a piece of work related to the change request. For example, there can be tasks to plan the change, implement the change, and test, and review the work.
--   **[Unauthorized change request](../concept/unauthorized-change-request.md)**  
+-   **[Unauthorized change request](unauthorized-change-request.md)**  
 Understand how an unauthorized change activity on a configuration item \(CI\) is captured and managed, so that you can review and take timely action on this change.
 
-**Parent Topic:**[Using Change Management](../concept/using-change-management.md)
+**Parent Topic:**[Using Change Management](using-change-management.md)
 
 **Related topics**  
 
 
-[Legacy: State model and transitions](../concept/c_ChangeStateModel.md)
+[Legacy: State model and transitions](c_ChangeStateModel.md)
 
 [Place a change request on hold](t_PlaceAChangeRequestOnHold.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](change-conflict-calendar.md)
 

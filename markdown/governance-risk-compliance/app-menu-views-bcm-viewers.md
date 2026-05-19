@@ -78,5 +78,5 @@ BCM viewer
 To view the workspace: **Business Continuity** &gt; **Business Continuity Workspace**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Setup by system administrators](../concept/set-up-bcm-sys-admin-tasks.md)
+</table>**Parent Topic:**[Setup by system administrators](set-up-bcm-sys-admin-tasks.md)
 

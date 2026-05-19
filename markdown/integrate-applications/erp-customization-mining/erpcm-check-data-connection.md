@@ -25,7 +25,7 @@ Role required: sn\_erp\_mining.erp\_admin and sn\_erp\_mining.erp\_user
 
 To verify that ServiceNow AI Platform® is synchronized with the ERP system of record, ServiceNow AI Platform reloads data every 24 hours from the system of record.
 
-You can receive email notifications for connection task success and failures. For more information, see [Getting notifications for ERP Semantic Mining connection updates](../concept/erpcm-notifications.md).
+You can receive email notifications for connection task success and failures. For more information, see [Getting notifications for ERP Semantic Mining connection updates](erpcm-notifications.md).
 
 ## Procedure
 
@@ -93,7 +93,7 @@ List of scan results that have been saved, exported, and imported.
     -   Use **Reset AI/ML analysis** to reset the analysis so the flow can run again. This reset enables you to control the ML training in the mining process.
 6.  View the information for each task and note actions that you must take by scrolling to the task list.
 
-    For a description of the field values, see [ERP Semantic Mining task list field descriptions](../reference/erpcm-task-list-details.md).
+    For a description of the field values, see [ERP Semantic Mining task list field descriptions](erpcm-task-list-details.md).
 
     For any column, you can select the more options icon ![](../../../administer/integrationhub/images/more-options-icon.png) to perform additional actions, such as **Show matching** and **Filter out**.
 
@@ -110,5 +110,5 @@ List of scan results that have been saved, exported, and imported.
 8.  Refresh the Issues to review list and the Executed tasks list by selecting their respective refresh icons ![](../image/refresh-icon.png).
 
 
-**Parent Topic:**[Configuring ERP Semantic Mining](../concept/configuring-ecm.md)
+**Parent Topic:**[Configuring ERP Semantic Mining](configuring-ecm.md)
 

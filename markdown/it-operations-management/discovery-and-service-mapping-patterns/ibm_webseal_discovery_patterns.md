@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Detailed information on IBM WebSEAL**
 
-    For information, see [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md)
+    For information, see [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md)
 
 -   **Authentication**
 
@@ -57,7 +57,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **HTTP Classification enabled**
 
-    The IBM WebSEAL Pattern is triggered when you run the discovery on the server that the WebSEAL is on. Ensure that the HTTP Classification is present in the instance. For more information, see [Create an HTTP classification](../../discovery/task/create-an-http-classifier.md) and [Run discovery through an HTTP or HTTPS REST call](../../discovery/task/run-http-discovery.md)
+    The IBM WebSEAL Pattern is triggered when you run the discovery on the server that the WebSEAL is on. Ensure that the HTTP Classification is present in the instance. For more information, see [Create an HTTP classification](../discovery/create-an-http-classifier.md) and [Run discovery through an HTTP or HTTPS REST call](../itom-visibility/run-http-discovery.md)
 
 
 ## Data collected during horizontal discovery
@@ -430,5 +430,5 @@ Webseal \[cmdb\_ci\_app\_server\_webseal\]
 </td></tr></tbody>
 </table>**Note:** Currently, the relation between the back-end servers and actual server CIs in the CMDB isn’t possible for HD.
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

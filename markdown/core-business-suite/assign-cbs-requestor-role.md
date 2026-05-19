@@ -44,5 +44,5 @@ Role required: admin, sn\_cbs.admin
 7.  On the manage requester role page, select **Mark as configured**.
 
 
-**Parent Topic:**[Configure Core Business Suite Foundation](../concept/configure-cbs.md)
+**Parent Topic:**[Configure Core Business Suite Foundation](configure-cbs.md)
 

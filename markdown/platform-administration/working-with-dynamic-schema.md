@@ -24,27 +24,27 @@ After planning your metadata strategy, you can start building out your schema by
 
 Implement Dynamic Schema using the following process.
 
-1.  [Create a dynamic attribute store field](../task/create-dynamic-attribute-store-field.md)
+1.  [Create a dynamic attribute store field](create-dynamic-attribute-store-field.md)
 
     Get started by creating a dynamic attribute field for storing your dynamic attributes.
 
-2.  [Create a dynamic attribute](../task/add-dynamic-attributes.md)
+2.  [Create a dynamic attribute](add-dynamic-attributes.md)
 
     Define one or more dynamic attributes in the dynamic namespace that's associated with the dynamic store field.
 
-3.  [Create a dynamic category](../task/create-dynamic-category.md)
+3.  [Create a dynamic category](create-dynamic-category.md)
 
     Define one or more dynamic categories in the dynamic namespace.
 
-4.  [Include dynamic attributes in a dynamic category](../task/add-dynamic-attributes-dynamic-category.md)
+4.  [Include dynamic attributes in a dynamic category](add-dynamic-attributes-dynamic-category.md)
 
     Organize your dynamic attributes using the dynamic categories that you defined.
 
-5.  [Create a dynamic choice set](../task/create-choice-set.md)
+5.  [Create a dynamic choice set](create-choice-set.md)
 
     Define a fixed set of choices for an attribute and create choice overrides as needed.
 
-6.  [Add dynamic attributes to a record](../task/add-dynamic-attributes-record.md)
+6.  [Add dynamic attributes to a record](add-dynamic-attributes-record.md)
 
     Populate the dynamic attribute store field using the GlideRecord setValue\(\) method or by entering attributes and values as JSON.
 

@@ -46,5 +46,5 @@ Role required: Procurement specialist
 6.  Select **Update**.
 
 
-**Parent Topic:**[Routing NDAs to suppliers](../concept/routing-ndas-to-suppliers.md)
+**Parent Topic:**[Routing NDAs to suppliers](routing-ndas-to-suppliers.md)
 

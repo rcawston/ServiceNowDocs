@@ -16,9 +16,9 @@ breadcrumb: [Reference, App generation, Use generative AI, Now Assist for Creato
 
 Assign the correct role before using the Now Assist for Creator app generation skill. The role you need depends on whether you are creating or editing an application.
 
-To edit \(not create\) applications using app generation, assign the delegated\_developer or now\_assist\_panel\_user role. For more information, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md).
+To edit \(not create\) applications using app generation, assign the delegated\_developer or now\_assist\_panel\_user role. For more information, see [Delegated development and deployment](../delegated-development-and-deployment/c_DelegatedDevelopment.md).
 
-**Parent Topic:**[App generation reference](../concept/sns-app-gen-reference-landing.md)
+**Parent Topic:**[App generation reference](sns-app-gen-reference-landing.md)
 
 ## Administrator \[admin\] role for app generation
 

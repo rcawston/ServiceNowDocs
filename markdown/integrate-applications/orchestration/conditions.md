@@ -27,5 +27,5 @@ The following are possible conditions you might create for an activity:
 
 ![Sample activity conditions](../image/CustomActivityConditions.png)
 
-**Parent Topic:**[Create custom activities using custom activity designer templates](../task/create-custom-activities.md)
+**Parent Topic:**[Create custom activities using custom activity designer templates](create-custom-activities.md)
 

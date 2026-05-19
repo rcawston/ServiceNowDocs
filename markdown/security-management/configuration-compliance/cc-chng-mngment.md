@@ -31,7 +31,7 @@ The Configuration Compliance application works with the ServiceNow AI Platform®
 
 With change management in the Configuration Compliance application, you can associate test results to existing change requests, or split a remediation task and create a new remediation task only for selected test results.
 
-For more information, see [Create a change request in Configuration Compliance](../task/cc-CR-v12-create.md).
+For more information, see [Create a change request in Configuration Compliance](cc-CR-v12-create.md).
 
 ## Key terms
 

@@ -57,7 +57,7 @@ You can run a health check scan to find the health score for the complete config
 **Related topics**  
 
 
-[Software Asset Management health check](../concept/sam-health-check.md)
+[Software Asset Management health check](sam-health-check.md)
 
-[Health check](../concept/health-check-dboard.md)
+[Health check](health-check-dboard.md)
 

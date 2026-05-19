@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-A relationship data item is required to create an embedded list. Embedded lists are lists that can be embedded within a record screen. For more information on embedded lists in mobile, see [Embedded lists for a record screen](../concept/sg-embedded-list.md).
+A relationship data item is required to create an embedded list. Embedded lists are lists that can be embedded within a record screen. For more information on embedded lists in mobile, see [Embedded lists for a record screen](sg-embedded-list.md).
 
 ## Procedure
 

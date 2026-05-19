@@ -41,5 +41,5 @@ Roles required:
 
 **Now Virtual Agent** no longer appears on the list of integrations in Workplace from Facebook. The instance receives uninstallation information from Workplace from Facebook, and the app configuration and user information are deleted within 15 days.
 
-**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](../concept/configuring-ci-workplace-fb.md)
+**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](configuring-ci-workplace-fb.md)
 

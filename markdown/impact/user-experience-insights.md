@@ -81,7 +81,7 @@ Track applications that have performance issues by using the average response ti
 -   Network latency
 -   Content download time
 
-For more information, see [Track the response time of applications to monitor their performance](../task/monitor-apps-user-experience-io.md).
+For more information, see [Track the response time of applications to monitor their performance](monitor-apps-user-experience-io.md).
 
 </td></tr><tr><td>
 

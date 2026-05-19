@@ -27,9 +27,9 @@ You can make the topic pages include the most updated content available for the 
 
 Connected content is available on the Browser Extension for Employee Center. For more information, see [Browser Extension for Employee Center](ecbe-intro.md).
 
--   **[Manage connected content from topic pages](../task/mnge-content-topics.md)**  
+-   **[Manage connected content from topic pages](mnge-content-topics.md)**  
 Link your desired categories to the topics and track the additions and removals to have easier management of unconnected content.
--   **[Manage outdated connected content](../task/may-manage-outdated-content-topics.md)**  
+-   **[Manage outdated connected content](may-manage-outdated-content-topics.md)**  
 Improve performance by tracking and removing outdated content from connected content from a dedicated tab. .
 
 **Parent Topic:**[Setup Employee Center browse experience features](setup-browse-experience.md)

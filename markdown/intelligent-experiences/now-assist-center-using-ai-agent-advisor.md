@@ -18,9 +18,9 @@ AI Agent Advisor analyzes your instance data to identify where AI can improve ou
 
 Perform the following activities to use AI Agent Advisor in Now Assist Center.
 
--   **[View your automation opportunities](../task/now-assist-center-view-automation-opportunities.md)**  
+-   **[View your automation opportunities](now-assist-center-view-automation-opportunities.md)**  
 Review the automation opportunities that AI Agent Advisor has identified for your instance.
--   **[Implement an automation opportunity from Now Assist Center](../task/activate-automation-opportunity-now-assist-center.md)**  
+-   **[Implement an automation opportunity from Now Assist Center](activate-automation-opportunity-now-assist-center.md)**  
 Deploy a matched AI agent or a new agent to automate a resolution for an identified automation opportunity.
 
 **Parent Topic:**[Using Now Assist Center](using-now-assist-center.md)

@@ -15,7 +15,7 @@ Set up AI Enhanced Recommended Actions for Operational Technology Service Manage
 
 ## Before you begin
 
-Ensure you have Recommended Actions for OTSM installed and configured. For more information, see [Set up Recommended Actions for OTSM](../../operational-technology-recommended-actions/task/set-up-recommended-actions-for-otsm.md).
+Ensure you have Recommended Actions for OTSM installed and configured. For more information, see [Set up Recommended Actions for OTSM](recommended-actions-for-otsm/set-up-recommended-actions-for-otsm.md).
 
 Role required: admin
 
@@ -52,5 +52,5 @@ Role required: admin
 
 After you set up AI Enhanced Recommended Actions for OTSM, you can use the feature in the Industrial Workspace. For more information see, [Contextualize an external document](use-ai-enhanced-ra-otsm.md).
 
-**Parent Topic:**[Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](../concept/configure-ai-enhanced-ra-otsm.md)
+**Parent Topic:**[Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](configure-ai-enhanced-ra-otsm.md)
 

@@ -356,5 +356,5 @@ This topic block is used in the [virtual machine management CAI](manage-virtual-
 -   **[Employee Experience topic blocks](employee-experience-va-topicblocks.md)**  
 ITSM Virtual Agent helps you manage meetings in Microsoft Exchange Online. Using the Manage Meetings EXO v1.0 topic, you can schedule, reschedule, and cancel a meeting.
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

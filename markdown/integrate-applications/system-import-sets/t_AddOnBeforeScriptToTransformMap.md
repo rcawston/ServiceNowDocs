@@ -62,7 +62,7 @@ Role required: admin.
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Using XML import sets](../concept/c_XMLImportSets.md)
+**Parent Topic:**[Using XML import sets](c_XMLImportSets.md)
 
 **Previous topic:**[Create a transform map](t_CreateATransformMap.md)
 

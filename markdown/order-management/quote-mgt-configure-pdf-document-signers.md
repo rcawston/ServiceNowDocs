@@ -23,7 +23,7 @@ Contacts listed in the account for a quote can be external signers. The email li
 
 Internal signers are all the users that have either sales\_agent or sales\_ops\_specialist roles.
 
-To assign roles for internal users, see [Assign user roles in Sales Customer Relationship Management applications](../concept/configure-SOM-roles.md).
+To assign roles for internal users, see [Assign user roles in Sales Customer Relationship Management applications](configure-SOM-roles.md).
 
 ## Procedure
 

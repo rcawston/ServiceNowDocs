@@ -102,7 +102,7 @@ The email or emails to be notified of the clone process and clone completion.
 
 4.  Select the options to configure for your clone.
 
-    **Note:** For information on all available options see [Clone options](../reference/clone-options.md). For information on general guidelines to expedite your clone request see [General guidelines for optimizing your clone duration](../reference/clone-duration-optimization.md).
+    **Note:** For information on all available options see [Clone options](clone-options.md). For information on general guidelines to expedite your clone request see [General guidelines for optimizing your clone duration](clone-duration-optimization.md).
 
 5.  Select **Continue**.
 

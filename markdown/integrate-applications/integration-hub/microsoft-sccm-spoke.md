@@ -56,11 +56,11 @@ This spoke uses the SCCM alias record to authorize actions on a Microsoft System
 |----------------|-----------|--------------|
 |SCCM|Connection to the SCCM server.|The URL of the host machine where the SCCM server is installed.|
 
-For information about setting up the spoke, see [Set up the Microsoft SCCM spoke](../../integrationhub-store-spokes/task/set-up-sccm.md#).
+For information about setting up the spoke, see [Set up the Microsoft SCCM spoke](set-up-sccm.md#).
 
 ## MID server requirements
 
 To use these actions, your instance must have a MID Server set up and configured to use PowerShell. For more information about running actions on the MID Server, see [Integration steps](integration-steps.md). For information, see [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md).
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../../integrationhub-store-spokes/task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

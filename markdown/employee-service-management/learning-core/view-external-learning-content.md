@@ -27,7 +27,7 @@ Role required: sb\_lc.learning\_admin
 
 3.  On the Learning External Content form, view the fields.
 
-    For a description of the field values, see [Learning External Content form](../reference/learning-external-content-form.md).
+    For a description of the field values, see [Learning External Content form](learning-external-content-form.md).
 
 
 -   **[Define user access to course within external learning content](define-external-content-user-access.md)**  
@@ -54,7 +54,7 @@ Add associated skills to external learning content in Learning.
 
 [Create user achievements](create-user-achievements.md)
 
-[Create an achievement rule](../task/create-achievement-rule.md)
+[Create an achievement rule](create-achievement-rule.md)
 
-[Create an achievement rule item](../task/achievement-rule-item.md)
+[Create an achievement rule item](achievement-rule-item.md)
 

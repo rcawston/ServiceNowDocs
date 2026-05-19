@@ -17,7 +17,7 @@ Create a personal authentication mode application registry for Google Calendar w
 
 ## Before you begin
 
-[Authenticate Google for calendar synchronization](../task/authenticate-google-for-calendar-sync.md)
+[Authenticate Google for calendar synchronization](authenticate-google-for-calendar-sync.md)
 
 Ensure that the application scope is set to **Google Calendar Spoke**. Otherwise, do the following:
 

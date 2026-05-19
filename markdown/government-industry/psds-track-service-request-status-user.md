@@ -107,7 +107,7 @@ State
 
 </td><td>
 
-Current status of the case for the given stage. For a detailed explanation of each case state, see [Government Service Portal Case states](../reference/government-service-case-states.md).
+Current status of the case for the given stage. For a detailed explanation of each case state, see [Government Service Portal Case states](government-service-case-states.md).
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ Stage
 
 </td><td>
 
-Phase through which a case moves. For a detailed explanation of each case stage, see [Government Service Case type](../concept/government-service-case-type.md).
+Phase through which a case moves. For a detailed explanation of each case stage, see [Government Service Case type](government-service-case-type.md).
 
 </td></tr><tr><td>
 

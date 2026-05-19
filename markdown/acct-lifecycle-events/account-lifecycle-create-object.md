@@ -193,5 +193,5 @@ Any internal notes regarding this objective.
 </table>4.  Select **Save** to create a success objective.
 
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](account-lifecycle-basic-config.md)
 

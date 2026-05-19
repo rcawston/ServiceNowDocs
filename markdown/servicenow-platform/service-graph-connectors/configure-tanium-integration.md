@@ -23,8 +23,8 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 
 **Note:** If you have an earlier version of the Service Graph Connector for Tanium, then do not migrate data from the old connector. You must uninstall the previous version and run the new integration.

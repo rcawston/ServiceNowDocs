@@ -39,5 +39,5 @@ Role required: admin
 4.  Click **Save**.
 
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](actionable-push-notification.md)
 

@@ -29,8 +29,8 @@ Role required: admin
 
     The following service channels are specific to Advanced Work Assignment for Source-to-Pay Operations.
 
-    -   Procurement Cases: For more information,see [Automatic case creation from emails](../concept/case-creation-from-emails.md).
-    -   Chat. For more information,see [Using Advanced Work Assignment for Source-to-Pay Operations](../concept/using-awa-spo.md).
+    -   Procurement Cases: For more information,see [Automatic case creation from emails](case-creation-from-emails.md).
+    -   Chat. For more information,see [Using Advanced Work Assignment for Source-to-Pay Operations](using-awa-spo.md).
     **Note:** Procurement administrators can also configure custom service channels for any work that may come through modes other than emails and chat, like SMS, or phone, for example.
 
     After you’ve created a service channel, do the following:
@@ -55,5 +55,5 @@ Role required: admin
     For detailed instructions on how to configure Advanced Work Assignment, see [Configuring Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/installing-awa.md).
 
 
-**Parent Topic:**[Setting up Advanced Work Assignment for Source-to-Pay Operations](../concept/awa-spo-setup.md)
+**Parent Topic:**[Setting up Advanced Work Assignment for Source-to-Pay Operations](awa-spo-setup.md)
 

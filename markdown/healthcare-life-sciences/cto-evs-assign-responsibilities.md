@@ -43,7 +43,7 @@ You can edit the responsibilities of Care Team Operations for Environmental Serv
 
     If a newly added user isn’t populated in the Available list, search for them manually using the lookup icon.
 
-    On occasion, newly added members don’t appear within the Selected panel due to property configurations. If this occurs, see [Configure global system properties to edit members in Healthcare Operations Core](hcls-cto-configure-properties-edit-members.md).
+    On occasion, newly added members don’t appear within the Selected panel due to property configurations. If this occurs, see [Configure global system properties to edit members in Healthcare Operations Core](healthcare-operations-core/hcls-cto-configure-properties-edit-members.md).
 
 7.  Select **Save**.
 

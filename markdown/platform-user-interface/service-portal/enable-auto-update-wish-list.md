@@ -52,7 +52,7 @@ Role required: admin or sp\_admin
     ![Screenshot to automatically update the wish list](../image/auto-update-wish-list.png "Automatic updates to the wish list")
 
 
-**Parent Topic:**[SC Wish List Cart widget](../concept/sc-wish-list.md)
+**Parent Topic:**[SC Wish List Cart widget](sc-wish-list.md)
 
 **Related topics**  
 

@@ -50,7 +50,7 @@ Users with the admin or report\_admin role can see if a report has been publishe
     **Note:** Business rules may affect how records are collected for public reports.
 
 
-**Parent Topic:**[Distribute reports](../concept/c_DistributeReports.md)
+**Parent Topic:**[Distribute reports](c_DistributeReports.md)
 
 ## Unpublish a report
 

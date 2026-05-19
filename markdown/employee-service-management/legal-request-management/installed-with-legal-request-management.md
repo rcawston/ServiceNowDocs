@@ -289,7 +289,7 @@ sn\_lg\_ops.request\_fulfiller
 </td></tr></tbody>
 </table>## Scheduled jobs
 
-**Note:** The following scheduled jobs are applicable when the **Enable External Storage for attachment** option is added to an intake form. For more information, see [Add an intake form to a practice area](../task/associate-categories-practice-area.md).
+**Note:** The following scheduled jobs are applicable when the **Enable External Storage for attachment** option is added to an intake form. For more information, see [Add an intake form to a practice area](associate-categories-practice-area.md).
 
 |Scheduled job|Description|
 |-------------|-----------|
@@ -338,7 +338,7 @@ Document\(sn\_lg\_ops\_external\_document\)
 
 </td><td>
 
-Stores the details of the documents for legal requests stored in an external storage.This table is applicable when the **Enable External Storage for attachment** option is added to an intake form. For more information, see [Add an intake form to a practice area](../task/associate-categories-practice-area.md).
+Stores the details of the documents for legal requests stored in an external storage.This table is applicable when the **Enable External Storage for attachment** option is added to an intake form. For more information, see [Add an intake form to a practice area](associate-categories-practice-area.md).
 
 </td></tr><tr><td>
 
@@ -394,7 +394,7 @@ Legal External Folder\(sn\_lg\_ops\_external\_folder\)​
 
 </td><td>
 
-Stores URLs and details of folders created in the external storage system to save documents for each legal request.This table is applicable when the **Enable External Storage for attachment** option is added to an intake form. For more information, see [Add an intake form to a practice area](../task/associate-categories-practice-area.md).
+Stores URLs and details of folders created in the external storage system to save documents for each legal request.This table is applicable when the **Enable External Storage for attachment** option is added to an intake form. For more information, see [Add an intake form to a practice area](associate-categories-practice-area.md).
 
 </td></tr><tr><td>
 
@@ -458,7 +458,7 @@ Option\[sn\_lg\_ops\_option\]
 
 </td><td>
 
-Stores the predefined options to change the default behavior of legal requests and legal matters.​ You can set these options while configuring the intake form of a practice area. For more information, see [Add an intake form to a practice area](../task/associate-categories-practice-area.md).Extends the Application File \[sys\_metadata\] table.
+Stores the predefined options to change the default behavior of legal requests and legal matters.​ You can set these options while configuring the intake form of a practice area. For more information, see [Add an intake form to a practice area](associate-categories-practice-area.md).Extends the Application File \[sys\_metadata\] table.
 
 </td></tr><tr><td>
 

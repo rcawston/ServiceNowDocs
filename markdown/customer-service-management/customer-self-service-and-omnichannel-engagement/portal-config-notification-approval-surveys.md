@@ -35,7 +35,7 @@ Role required: sp\_admin
 
     1.  On the form, fill in the fields.
 
-        For a description of the field values, see [Portal Header notification, approval, and survey form](../reference/portalheader-notification-approval-survey-form.md).
+        For a description of the field values, see [Portal Header notification, approval, and survey form](../portalheader-notification-approval-survey-form.md).
 
     2.  Select **Submit**.
 
@@ -43,7 +43,7 @@ Role required: sp\_admin
 
     1.  On the form, fill the fields.
 
-        For a description of the field values, see [Portal Header notification, approval, and survey form](../reference/portalheader-notification-approval-survey-form.md).
+        For a description of the field values, see [Portal Header notification, approval, and survey form](../portalheader-notification-approval-survey-form.md).
 
     2.  Select **Submit**.
 
@@ -51,7 +51,7 @@ Role required: sp\_admin
 
     1.  On the form, fill the fields.
 
-        For a description of the field values, see [Portal Header notification, approval, and survey form](../reference/portalheader-notification-approval-survey-form.md).
+        For a description of the field values, see [Portal Header notification, approval, and survey form](../portalheader-notification-approval-survey-form.md).
 
     2.  Select **Submit**.
 

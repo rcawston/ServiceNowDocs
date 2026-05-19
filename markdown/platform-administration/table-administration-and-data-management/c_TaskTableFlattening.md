@@ -55,8 +55,8 @@ To find records in the Table per partition extension model, the system queries t
 
 The system uses the Table per partition extension model for the Base Configuration Item \[cmdb\] table hierarchy on MySQL databases. To use Table per partition on an Oracle database, contact Technical Support.
 
--   **[View a table hierarchy and the extension model](../task/t_TableHierarchyAndTheExtModel.md)**  
+-   **[View a table hierarchy and the extension model](t_TableHierarchyAndTheExtModel.md)**  
 Determine the extension model used by a table.
 
-**Parent Topic:**[Managing tables and indexes](../../table-administration/concept/using-table-administration.md)
+**Parent Topic:**[Managing tables and indexes](using-table-administration.md)
 

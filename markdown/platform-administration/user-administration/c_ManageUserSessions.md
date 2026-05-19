@@ -21,7 +21,7 @@ Regardless of the number of windows you have open in a browser, it’s considere
 -   Locking a user out of the system means they can no longer log in or generate any actions from any email messages that they send to the instance. Locking users out also terminates their sessions.
 -   Making a user inactive means they don't show up in any fields that reference active users on the **User** table.
 
-**Parent Topic:**[Monitoring user activity](../../roles/concept/user-admin-tools-landing.md)
+**Parent Topic:**[Monitoring user activity](user-admin-tools-landing.md)
 
 ## Configure a maximum active time for user sessions
 
@@ -53,7 +53,7 @@ By default, sessions expire only after a period of inactivity. Enforcing a maxim
 **Related topics**  
 
 
-[Configure a maximum active time for integration sessions](../../../integrate/concept/managing-integration-sessions.md#)
+[Configure a maximum active time for integration sessions](../managing-integration-sessions.md#)
 
 ## Modify user session timeout after inactivity
 
@@ -108,7 +108,7 @@ Administrators can also add the following properties to configure additional tim
 **Related topics**  
 
 
-[Modify integration session timeout after inactivity](../../../integrate/concept/managing-integration-sessions.md#)
+[Modify integration session timeout after inactivity](../managing-integration-sessions.md#)
 
 ## Prompting users to extend a session
 

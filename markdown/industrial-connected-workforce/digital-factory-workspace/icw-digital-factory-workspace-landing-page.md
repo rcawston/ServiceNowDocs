@@ -31,7 +31,7 @@ Digital Factory Workspace helps standardize processes and improve efficiency on 
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Digital Factory Workspace components such as forms, fields, roles, and properties.](../reference/digital-factory-workspace-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Digital Factory Workspace components such as forms, fields, roles, and properties.](digital-factory-workspace-reference.md)
 
 </td></tr></tbody>
 </table>Digital Factory Workspace acts as a centralized operational hub for Industrial Connected Workforce ICW, which enables operators and equipment owners to manage deviations, breakdowns, actions, and root cause analysis through structured task flows. Digital Factory Workspace enables you to use access and use:
@@ -47,8 +47,8 @@ The Digital Factory Workspace is a workspace that enables the Industrial Connect
 Set up prerequisite tasks before proceeding to use the Digital Factory Workspace.
 -   **[Using Digital Factory Workspace](using-digital-factory-workspace.md)**  
 Use the Digital Factory Workspace to manage your Industrial Connected Workforce \(ICW\) data.
--   **[Digital Factory Workspace reference](../reference/digital-factory-workspace-reference.md)**  
+-   **[Digital Factory Workspace reference](digital-factory-workspace-reference.md)**  
 Reference topics provide additional information about Digital Factory Workspace.
 
-**Parent Topic:**[Industrial Connected Workforce](../../icw-industrial-connected-workforce/concept/industrial-connected-workforce-overview.md)
+**Parent Topic:**[Industrial Connected Workforce](../industrial-connected-workforce-overview.md)
 

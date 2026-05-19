@@ -39,7 +39,7 @@ Getting started with Event Management
 
 3.  On the **Alert Query** form, fill in the fields.
 
-    For a description of the field values, see [Alert Query form](../reference/alert-query-form.md)
+    For a description of the field values, see [Alert Query form](alert-query-form.md)
 
     **Note:** In the **Filter** field:
 
@@ -49,7 +49,7 @@ Getting started with Event Management
 4.  Select **Update**.
 
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](application-service-event-management.md)
 
 **Related topics**  
 

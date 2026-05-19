@@ -33,7 +33,7 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
 3.  In **Data to filter**, specify a table field, indicator breakdown, or Usage Insights property to filter.
 
-    You can add any number of targets to the filter. Select either a table and field or all indicators with a particular breakdown. If you select a table, you can also select to apply the filter to the hierarchy of related tables: Parents, children, siblings, and any [database views](../../performance-analytics/concept/performance-analytics-glossary.md#) that contain the table.
+    You can add any number of targets to the filter. Select either a table and field or all indicators with a particular breakdown. If you select a table, you can also select to apply the filter to the hierarchy of related tables: Parents, children, siblings, and any [database views](performance-analytics/performance-analytics-glossary.md#) that contain the table.
 
     MetricBase and Workflow Data Fabric tables can be filtered, and are listed with the other tables.
 
@@ -64,7 +64,7 @@ If you have the required roles, add the filter to the filter library. You can al
 **Related topics**  
 
 
-[Applying filters to Process Mining maps](../concept/applying-filters-to-process-optimization-maps.md)
+[Applying filters to Process Mining maps](applying-filters-to-process-optimization-maps.md)
 
 [Edit a Platform Analytics filter on a dashboard](edit-filters-configurable-workspaces.md)
 

@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-You must create a choice record for a new translation in the Choice \[sys\_choice\] table. For more information about this table, see [Choice table](../reference/r_ChoicesTable.md).
+You must create a choice record for a new translation in the Choice \[sys\_choice\] table. For more information about this table, see [Choice table](r_ChoicesTable.md).
 
 ## Procedure
 
@@ -53,5 +53,5 @@ You must create a choice record for a new translation in the Choice \[sys\_choic
 **Related topics**  
 
 
-[Choice table](../reference/r_ChoicesTable.md)
+[Choice table](r_ChoicesTable.md)
 

@@ -36,7 +36,7 @@ The SRM admin can add and create teams. They can also manage data across all SRM
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
 **Previous topic:**[Install Service Reliability Management from Admin Center or ServiceNow Store](sr-install-sr-store-app.md)
 

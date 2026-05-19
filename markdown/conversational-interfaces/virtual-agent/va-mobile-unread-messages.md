@@ -52,5 +52,5 @@ The content of Virtual Agent push notification messages sent to Now Mobile users
 
 **Note:** System action messages that are displayed to users during live chat or virtual agent conversations are not included in Virtual Agent push notifications or in the count of unread messages. The exception is the system message for the live agent timeout: `The conversation is timing out, are you still there?` This message is sent as a push notification since it is time-sensitive and informs users that the conversation might be closed if they do not respond.
 
-**Parent Topic:**[Configure Virtual Agent for a ServiceNow mobile application](../task/configure-va-mobile-web-client.md)
+**Parent Topic:**[Configure Virtual Agent for a ServiceNow mobile application](configure-va-mobile-web-client.md)
 

@@ -161,7 +161,7 @@ This probe relies on the statistics intervals configured for the vCenter. By def
  **Important:** To modify the default values for this probe, coordinate with the administrator responsible for the vCenter management. For more information, see [VMware documentation](https://communities.vmware.com/t5/Storage-Performance/vCenter-Performance-Counters/ta-p/2790328).
 
 </td></tr></tbody>
-</table>\*For more information, see [VMware tags](data-collected-vmware-cloud-disco.md#section_v5k_psr_jhb).
+</table>\*For more information, see [VMware tags](../itom-visibility/data-collected-vmware-cloud-disco.md#section_v5k_psr_jhb).
 
 Consider the following when setting these parameters:
 

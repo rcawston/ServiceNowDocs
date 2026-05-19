@@ -39,7 +39,7 @@ With the article versioning feature, the knowledge article number also includes 
 
 ## Activation information
 
-The article versioning feature requires the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) to be activated and the **glide.knowman.versioning.enabled** property to be set to true \(default value\). For more information, see [Activate the Knowledge Management Advanced plugin](../task/activate-knowledge-advanced-plugin.md) and [Article versioning properties](../reference/r_KnowledgeProperties.md#).
+The article versioning feature requires the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) to be activated and the **glide.knowman.versioning.enabled** property to be set to true \(default value\). For more information, see [Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md) and [Article versioning properties](r_KnowledgeProperties.md#).
 
 **Related topics**  
 

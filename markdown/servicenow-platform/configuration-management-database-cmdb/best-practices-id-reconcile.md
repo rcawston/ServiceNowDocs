@@ -140,7 +140,7 @@ Create the payload using the following order of importance:
 **Related topics**  
 
 
-[Create a CI identification rule](../task/t_CreateCIIdentificationRule.md)
+[Create a CI identification rule](t_CreateCIIdentificationRule.md)
 
-[Create an identification inclusion rule](../task/create-id-inclusion-rule.md)
+[Create an identification inclusion rule](create-id-inclusion-rule.md)
 

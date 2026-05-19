@@ -49,5 +49,5 @@ Role required: admin and catalog\_builder\_developer
 **Related topics**  
 
 
-[Catalog builder developer \[catalog\_builder\_developer\]](../reference/r_ServiceCatalogManagementTermsandRoles.md#)
+[Catalog builder developer \[catalog\_builder\_developer\]](r_ServiceCatalogManagementTermsandRoles.md#)
 

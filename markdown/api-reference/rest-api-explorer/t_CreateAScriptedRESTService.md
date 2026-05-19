@@ -64,10 +64,10 @@ Use sample requests made to an API resource to generate request header associati
 Requests to scripted REST APIs respect platform ACLs, and the requesting user must meet any table ACL requirements to access instance data. Additionally, you can configure the scripted REST API to require a specific ACL.
 -   **[Enable versioning for a scripted REST API](t_EnableVersioning.md)**  
 Enable versioning for a scripted REST API to provide multiple versions of the API while maintaining compatibility with existing integrations.
--   **[Control request and response content type](../concept/c_SpecifyContentType.md)**  
+-   **[Control request and response content type](c_SpecifyContentType.md)**  
 Controls which content types are allowed in scripted REST API requests and responses.
--   **[Controlling maximum request size](../reference/r_ControllingMaxRequestSize.md)**  
+-   **[Controlling maximum request size](r_ControllingMaxRequestSize.md)**  
 You can specify the maximum file size allowed in a scripted REST API request payload.
 
-**Parent Topic:**[Scripted REST APIs](../concept/c_CustomWebServices.md)
+**Parent Topic:**[Scripted REST APIs](c_CustomWebServices.md)
 

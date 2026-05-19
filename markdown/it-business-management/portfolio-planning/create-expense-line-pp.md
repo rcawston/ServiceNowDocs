@@ -74,7 +74,7 @@ Select **New expense line** using the More actions option.![GIF showing the sele
 </td></tr></tbody>
 </table>4.  On the Create expense line form, fill the fields.
 
-    For a description of the field names, see [Create expense line form](../reference/create-exp-line-form-pp.md).
+    For a description of the field names, see [Create expense line form](create-exp-line-form-pp.md).
 
 5.  Select **Save**.
 

@@ -34,5 +34,5 @@ ServiceNow Express used the legacy Escalation Engine to process SLAs. If for any
     ServiceNow recommends using the 2011 SLA Engine.
 
 
-**Parent Topic:**[Service Level Agreement \(Legacy\) engines](../concept/c_GetStartedWithSLAs.md)
+**Parent Topic:**[Service Level Agreement \(Legacy\) engines](c_GetStartedWithSLAs.md)
 

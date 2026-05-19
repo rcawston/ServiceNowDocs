@@ -129,18 +129,18 @@ Owner
 Owner for the risk.**Note:** The owner is always added as a respondent.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manually add a risk to a third party or engagement](../../grc-vendor-risk-implementation/task/tprm-add-risks-tp.md)
+</table>**Parent Topic:**[Manually add a risk to a third party or engagement](tprm-add-risks-tp.md)
 
 **Related topics**  
 
 
-[Integrating Third-party Risk Management with Risk Management](../../grc-vendor-risk-implementation/concept/rm-assessment-integration.md)
+[Integrating Third-party Risk Management with Risk Management](rm-assessment-integration.md)
 
-[Create a risk statement](../../grc-risk/task/t_CreateRiskState.md)
+[Create a risk statement](../grc-risk-management-workspace/t_CreateRiskState.md)
 
-[Define the risk appetite for a risk statement](../../grc-workspace-risk/task/define-risk-appetite-on-risk-statement.md)
+[Define the risk appetite for a risk statement](../grc-risk-management-workspace/define-risk-appetite-on-risk-statement.md)
 
-[Create a risk manually](../../grc-risk/task/t_CreateRisk.md)
+[Create a risk manually](../grc-risk-management-workspace/t_CreateRisk.md)
 
-[Define the risk appetite for a risk](../../grc-workspace-risk/task/define-risk-appetite-on-risk.md)
+[Define the risk appetite for a risk](../grc-risk-management-workspace/define-risk-appetite-on-risk.md)
 

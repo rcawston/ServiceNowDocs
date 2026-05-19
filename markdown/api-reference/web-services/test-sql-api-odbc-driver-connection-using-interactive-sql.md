@@ -50,5 +50,5 @@ Role required: local administrator on client machine
     ![Sample SQL Query.](../../odbc-driver/image/SampleSQLQuery.png)
 
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](configuring-sql-api.md)
 

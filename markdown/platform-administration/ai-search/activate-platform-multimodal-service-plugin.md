@@ -44,5 +44,5 @@ To use the automatic caption generation feature, you must activate the Platform 
 
 With the plugin activated, AI Search administrators can activate automatic image captioning for individual AI Search indexed sources. For details on this procedure, see [Activate automatic image captioning for attachments from an indexed source](activate-automatic-image-captioning.md).
 
-**Parent Topic:**[Configuring AI Search](../concept/configuring-ais.md)
+**Parent Topic:**[Configuring AI Search](configuring-ais.md)
 

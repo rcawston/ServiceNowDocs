@@ -36,8 +36,8 @@ Event rules and alert suppression give you control over how alerts are generated
 
 For instructions on how to configure Event Management solutions, see the following documentation:
 
--   [Configure a webhook](../task/configure-fault-management.md)
--   [Configure an event pull connector](../task/configure-an-event-pull-connector.md)
+-   [Configure a webhook](configure-fault-management.md)
+-   [Configure an event pull connector](configure-an-event-pull-connector.md)
 -   [Cisco Meraki installed integrations](meraki-installed-integrations.md)
 -   [Fortinet installed integrations](fortinet-installed-integrations.md)
 

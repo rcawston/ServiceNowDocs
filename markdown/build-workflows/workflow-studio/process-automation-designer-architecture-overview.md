@@ -37,7 +37,7 @@ Workflow Studio produces these runtime components for Playbooks:
 During runtime for a playbook, your instance:
 
 1.  Evaluates any conditions specified in the trigger definition and processes the trigger.
-2.  Processes the [Events](../../platform-events/concept/events.md) and starts running the playbook in the background.
+2.  Processes the [Events](../system-events/events.md) and starts running the playbook in the background.
 3.  Builds the automation plans from each activity into an entire process plan.
 4.  Runs the process plan for your playbook.
 5.  Stores the process execution information in the Process Execution \[sys\_pd\_context\] table.

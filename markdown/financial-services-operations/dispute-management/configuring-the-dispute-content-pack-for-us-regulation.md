@@ -15,5 +15,5 @@ breadcrumb: [Dispute Content Pack for US Regulations, Dispute Management, Bankin
 
 You can set up your implementation of the Dispute Content Pack for US Regulations application by installing the application from the ServiceNow Store.
 
-**Parent Topic:**[Dispute Content Pack for US Regulations](../concept/dispute-content-pack-for-us-regulation-landing-page.md)
+**Parent Topic:**[Dispute Content Pack for US Regulations](dispute-content-pack-for-us-regulation-landing-page.md)
 

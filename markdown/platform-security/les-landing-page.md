@@ -43,7 +43,7 @@ To configure and manage LES you need to install it from ServiceNow Store. The LE
 
 ![Navigation filter](../image/les-module.png)
 
-**Note:** You can also create a new source configuration. See [Create a log source configuration](../task/les-create-source-configuration.md) for more information.
+**Note:** You can also create a new source configuration. See [Create a log source configuration](les-create-source-configuration.md) for more information.
 
 ## Log Export Service users
 
@@ -58,9 +58,9 @@ Log Export Service has the following users.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Create log source configuration to set filters on the logs|[Create a log source configuration](../task/les-create-source-configuration.md)|Application admin|
-|Experience guided setup for Kafka consumers|[Guided setup for Kafka consumers](../task/les-guided-setup-kafka.md)|System administrator|
-|Experience guided setup for MID server consumers|[Guided setup for MID Server consumers](../task/les-guided-setup-mid-server.md)|System administrator|
+|Create log source configuration to set filters on the logs|[Create a log source configuration](les-create-source-configuration.md)|Application admin|
+|Experience guided setup for Kafka consumers|[Guided setup for Kafka consumers](les-guided-setup-kafka.md)|System administrator|
+|Experience guided setup for MID server consumers|[Guided setup for MID Server consumers](les-guided-setup-mid-server.md)|System administrator|
 |Examine the log report dashboard to analyze the size of each data log|[Review log report](les-use.md#)|System administrator or Application admin|
 
 ## What to explore next

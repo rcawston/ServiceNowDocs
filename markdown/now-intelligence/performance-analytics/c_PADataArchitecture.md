@@ -23,7 +23,7 @@ Without a paid Performance Analytics subscription, your use is limited to 180 da
 From a single console, administrators can manage Platform Analytics Solution content, manage Performance Analytics widgets and dashboards, diagnose and resolve errors, view usage analytics, modify configuration settings and access ServiceNow help.
 -   **[Collecting indicator scores](c_ClctData.md)**  
 Performance Analytics uses data collection jobs to collect and clean scores and snapshots. You can also set indicator scores manually.
--   **[Ranking records with Spotlight](spotlight.md)**  
+-   **[Ranking records with Spotlight](../spotlight/spotlight.md)**  
 Use Spotlight to identify and rank records of interest based on multiple weighted criteria.
 -   **[Data collection process and logging](data-collection-process-logging.md)**  
 Performance Analytics data collection jobs collect indicator scores. To debug data collection, it is helpful to understand the data collection process and how it is reflected in the job logs.

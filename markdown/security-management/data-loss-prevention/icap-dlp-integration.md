@@ -35,27 +35,27 @@ This integration includes the following key features:
 Before you can use the integration, you must download it from the ServiceNow® Store
 -   **[Install and configure the ICAP DLP integration](install-icap-dlp-integration.md)**  
 Install and configure the  provider ICAP DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  provider ICAP DLP incident data.
--   **[Create a profile for ICAP DLP integration](../task/create-profile-for-icap.md)**  
+-   **[Create a profile for ICAP DLP integration](create-profile-for-icap.md)**  
 Create an incident profile in your  ServiceNow AI Platform instance. Determine the  ICAP DLP alerts that are suitable for creating DLP incidents.
--   **[View sensitive information for DLP alerts](../task/view-match-content.md)**  
+-   **[View sensitive information for DLP alerts](view-match-content.md)**  
 View the detected sensitive information for DLP alerts.
--   **[Download evidence files for DLP alerts](../task/download-icap-evidence-files.md)**  
+-   **[Download evidence files for DLP alerts](download-icap-evidence-files.md)**  
 Download files that violate the DLP policy on provider that supports ICAP. Download this file onto your local machine from the DLP IR Analyst workspace and DLP IR End user workspace for approvers.
--   **[Preview evidence files for ICAP](../task/preview-file-icap.md)**  
+-   **[Preview evidence files for ICAP](preview-file-icap.md)**  
 Preview DLP incident evidence files in the DLP IR Analyst workspace.
--   **[Review the ICAP DLP integration settings](../task/review-the-icap-dlp-integration-settings.md)**  
+-   **[Review the ICAP DLP integration settings](review-the-icap-dlp-integration-settings.md)**  
 Review the provider ICAP DLP integration settings and modify the default system properties to suit your environment.
 
-**Parent Topic:**[DLP integrations](../../data-loss-prevention/concept/dlp-integrations.md)
+**Parent Topic:**[DLP integrations](dlp-integrations.md)
 
 **Related topics**  
 
 
-[Symantec Integration for Data Loss Prevention Incident Response](../../dlp-symantec/concept/symantec-dlp-integration.md)
+[Symantec Integration for Data Loss Prevention Incident Response](symantec-dlp-integration.md)
 
-[Data Loss Prevention Incident Response Integration with Proofpoint](../../dlp-proofpoint/concept/dlp-incident-response-integration-proofpoint.md)
+[Data Loss Prevention Incident Response Integration with Proofpoint](dlp-incident-response-integration-proofpoint.md)
 
-[Data Loss Prevention Incident Response Integration with Netskope](../../dlp-netskope/concept/dlp-incident-response-integration-netskope.md)
+[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 
-[Data Loss Prevention Incident Response with Microsoft](../../dlp-microsoft/concept/dlp-integration-microsoft.md)
+[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
 

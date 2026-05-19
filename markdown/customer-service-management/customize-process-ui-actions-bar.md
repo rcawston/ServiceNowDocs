@@ -33,7 +33,7 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 **Related topics**  
 
 
-[UI Action Bar](../concept/migration-form-ui-actions.md)
+[UI Action Bar](migration-form-ui-actions.md)
 
 [Set up a form action in CSM Configurable Workspace](config-csm-config-ws-form-action.md)
 

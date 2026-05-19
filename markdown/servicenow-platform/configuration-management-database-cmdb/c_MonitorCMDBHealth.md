@@ -44,7 +44,7 @@ Role requirement: Using the CMDB Health Dashboard requires the asset, sn\_cmdb\_
 
 By default, all metrics and KPIs are set with a specific percentage weight in score calculations. However, you can use legacy calculation methods which were used up until the Washington DC release by toggling the **Use legacy calculation methods** switch \(requires the sn\_cmdb\_admin role\) on the CMDB Health Dashboard. In those methods, calculating aggregation scores is based on weights settings for metrics within their KPI, and KPIs within the overall score. Use the legacy calculation methods when it is important to reflect on specific weights of metrics and KPIs in the assessment of CMDB health in your organization.
 
-For more information about customizing calculation weights for metrics, KPIs, and the overall score, see [Configure aggregation weights for CMDB Health scores](../task/config-cmdb-health-metric-weights.md).
+For more information about customizing calculation weights for metrics, KPIs, and the overall score, see [Configure aggregation weights for CMDB Health scores](config-cmdb-health-metric-weights.md).
 
 ## KPI tiles
 
@@ -99,7 +99,7 @@ Settings affecting the service view:
 
 -   The service view uses the settings for the **Business Service**, **Manual Service**, and **Technology Management Service** classes.
 -   The service view doesn’t include all services from the Service \[cmdb\_ci\_service\] table. Only services from the cmdb\_ci\_service\_auto table and its descendants \(cmdb\_ci\_service\_discovered, cmdb\_ci\_service\_manual, cmdb\_ci\_query\_based\_service\), are included.
--   Property settings, such as **glide.cmdb.services\_query\_limit**, **glide.cmdb.services\_hierarchy\_limit**, and **glide.cmdb.service\_associated\_ci\_query\_limit**. For information about how you can use these properties to control the number of items that appear in the service view, see [Components installed with CMDB Health](../reference/r_TablesInstalledCMDBHealth.md).
+-   Property settings, such as **glide.cmdb.services\_query\_limit**, **glide.cmdb.services\_hierarchy\_limit**, and **glide.cmdb.service\_associated\_ci\_query\_limit**. For information about how you can use these properties to control the number of items that appear in the service view, see [Components installed with CMDB Health](r_TablesInstalledCMDBHealth.md).
 
 **Parent Topic:**[CMDB Health](c_CMDBHealth.md)
 
@@ -110,11 +110,11 @@ Settings affecting the service view:
 
 [CMDB Health experience in CMDB Workspace and in Service Graph Workspace](cmdb-health-exp-cmdb-workspace.md)
 
-[View relationships health](../task/t_ViewRelationshipsHealth.md)
+[View relationships health](t_ViewRelationshipsHealth.md)
 
-[View CI health](../task/t_ViewCIHealth.md)
+[View CI health](t_ViewCIHealth.md)
 
-[Create a CMDB remediation rule](../task/t_CreateCMDBRemediationRule.md)
+[Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)
 
 [CMDB Health process tracking and troubleshooting](c_CMDBHealthTroubleshooting.md)
 

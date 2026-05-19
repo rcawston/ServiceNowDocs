@@ -19,20 +19,20 @@ Workplace Connectors Environmental data table \(sn\_wsd\_wc\_space\_environment\
 
 **Note:** Workplace Connectors customers are expected to build their own environmental data framework for using Environmental sensor data records. For more information about how to implement the Workplace Connectors framework and environmental sensor data, see Workplace Connectors Implementation Guide V1.0 Aug 2024 on the ServiceNow Community.
 
-1.  [Set up Connector Configuration for Environmental sensor data](../task/wsd-connectorconfiguration-environment.md)  
+1.  [Set up Connector Configuration for Environmental sensor data](wsd-connectorconfiguration-environment.md)  
 Configure the Connector Configurations table for loading the Environmental data. Connector configuration table retrieves the sensor data from different environmental sensor data providers.
-2.  [Provider Connector Configuration for Environmental sensors](../task/wsd-env-provider-connectorconfig.md)  
+2.  [Provider Connector Configuration for Environmental sensors](wsd-env-provider-connectorconfig.md)  
 Configure the provider connector configuration for setting up environmental sensors in workplace locations.
-3.  [Set up the Units of measure data table for environmental sensors](../task/wsd-enviromental-unit-measure.md)  
+3.  [Set up the Units of measure data table for environmental sensors](wsd-enviromental-unit-measure.md)  
 Configure the unit of measure for air quality \(Carbon dioxide and Ozone metric\) and temperature units \(degree celsius and micrograms per cubic meter\) for a workplace location. The Workplace Connectors environmental sensors checks for the air and temperature quality metrics in a workplace location.
-4.  [Configure environmental sensor data for a workplace location](../task/config-connectors-env-sensor.md)  
+4.  [Configure environmental sensor data for a workplace location](config-connectors-env-sensor.md)  
 Create environmental sensor data for a workplace location in Workplace Connectors. The Environmental Data \(sn\_wsd\_wc\_space\_environment\) table checks for air quality, temperature, and humidity levels at a workplace location.
-5.  [Archive and purge Environmental data](../task/archive-purge-environmental-data.md)  
+5.  [Archive and purge Environmental data](archive-purge-environmental-data.md)  
 Use the archive rules and destroy rules to archive and purge the environmental data. Archive and purge the Environmental data \(sn\_wsd\_wc\_space\_envrionment\) table records.
 
 **Parent Topic:**[Configure Workplace Connectors](configure-workplace-connectors.md)
 
-**Previous topic:**[Archive and Purge space occupancy data](../task/archive-purge-occupancy-data.md)
+**Previous topic:**[Archive and Purge space occupancy data](archive-purge-occupancy-data.md)
 
-**Next topic:**[Set up Connector Configuration for Environmental sensor data](../task/wsd-connectorconfiguration-environment.md)
+**Next topic:**[Set up Connector Configuration for Environmental sensor data](wsd-connectorconfiguration-environment.md)
 

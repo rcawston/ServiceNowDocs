@@ -95,5 +95,5 @@ Steps
 
 ## What to do next
 
-Add your own [diagnostic scans](../../project-portfolio-suite-with-financials/task/create-diagnostic-scan-map-script.md) and [fix scripts](../../project-portfolio-suite-with-financials/task/add-diagnostic-and-fix-script.md).
+Add your own [diagnostic scans](create-diagnostic-scan-map-script.md) and [fix scripts](add-diagnostic-and-fix-script.md).
 

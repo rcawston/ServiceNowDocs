@@ -185,5 +185,5 @@ To add a new action to the activity card, you must create a record in the **Play
 -   **[Create an Activity Action](steps-to-create-an-activity-action.md)**  
 Following is procedure to create an activity action.
 
-**Parent Topic:**[Activity Definitions](../concept/build-activities.md)
+**Parent Topic:**[Activity Definitions](build-activities.md)
 

@@ -15,10 +15,10 @@ breadcrumb: [Conversational Interfaces Diagnostic Tool, Conversational Interface
 
 Use the tool to diagnose general Conversational Interfaces errors and system property settings, as well as issues with Microsoft Teams and Advanced Work Assignment configuration.
 
--   **[Diagnose Conversational Interfaces errors](../task/diagnose-general-error.md)**  
+-   **[Diagnose Conversational Interfaces errors](diagnose-general-error.md)**  
 Use the Conversational Interfaces Diagnostic Tool to resolve issues related to conversational interfaces such as error messages and system property issues before reaching out to Now Support.
--   **[Diagnose Microsoft Teams configuration issues](../task/diagnose_ci_plugin_issues.md)**  
+-   **[Diagnose Microsoft Teams configuration issues](diagnose_ci_plugin_issues.md)**  
 Use the Conversational Interfaces Diagnostic Tool to identify and help solve Microsoft Teams configuration issues before reaching out to Now Support.
--   **[Diagnose Advanced Work Assignment configuration issues](../task/diagnose-awa-no-agents-avail.md)**  
+-   **[Diagnose Advanced Work Assignment configuration issues](diagnose-awa-no-agents-avail.md)**  
 Use the Conversational Interfaces Diagnostic Tool to identify and resolve common Advanced Work Assignment \(AWA\) configuration issues before reaching out to Now Support.
 

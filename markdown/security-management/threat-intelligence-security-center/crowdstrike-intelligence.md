@@ -21,7 +21,7 @@ Role required: sn\_sec\_tisc.admin
 
 **Note:** The Threat Intelligence Security Center and VirusTotal Threat Lookup plugins must be installed and active.
 
-Download the VirusTotal integration from the ServiceNow Store. Confirm you have a valid VirusTotal account before use. For more information, see [Download the integration from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+Download the VirusTotal integration from the ServiceNow Store. Confirm you have a valid VirusTotal account before use. For more information, see [Download the integration from the ServiceNow Store](../download-app-first-time.md).
 
 ## About this task
 
@@ -58,12 +58,12 @@ Obtain the API Client ID and API Client Secret under your CrowdStrike Falcon Int
 
 After you configure it, CrowdStrike Falcon Intelligence can be selected for performing lookups on observables in Threat Intelligence Security Center.
 
-**Parent Topic:**[TISC CrowdStrike Falcon Intelligence integration](../concept/tisc-crowdstrike-falcon-intelligence-integration.md)
+**Parent Topic:**[TISC CrowdStrike Falcon Intelligence integration](tisc-crowdstrike-falcon-intelligence-integration.md)
 
 **Related topics**  
 
 
-[Threat Lookup](../concept/tisc-threat-lookup.md)
+[Threat Lookup](tisc-threat-lookup.md)
 
 [Configure and enable VirusTotal Integration](tisc-virustotal-integration.md)
 

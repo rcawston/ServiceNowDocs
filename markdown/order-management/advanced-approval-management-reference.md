@@ -21,5 +21,5 @@ Field descriptions for the Approval Configuration form in Advanced Approval Mana
 -   **[Create Approval Rule form](create-approval-rule-form.md)**  
 Field descriptions for the Create Approval Rule form in Advanced Approval Management.
 
-**Parent Topic:**[Configure, price, quote reference](../concept/reference-cpq.md)
+**Parent Topic:**[Configure, price, quote reference](reference-cpq.md)
 

@@ -162,11 +162,11 @@ Not supported
 
 Agents whose **Status = Down** or **Disconnected** which haven't been deleted are deleted automatically after 30 days. You can modify this setting on the Autoflush form page \(see [Autoflush form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-auto-flush.md)\).
 
-Use the Manual Transport Layer Security protocol \(mTLS\) for secure authentication between your MID Web Server and the agent \(the client\). For details, see [Connect the agent to the MID Server using mTLS](../task/enable-tls-agent.md).
+Use the Manual Transport Layer Security protocol \(mTLS\) for secure authentication between your MID Web Server and the agent \(the client\). For details, see [Connect the agent to the MID Server using mTLS](../event-management/enable-tls-agent.md).
 
 For details on using Agent Client Collector in an air-gapped environment, see the [Agent Client Collector Framework Air Gapped Configuration Item Management Solution \[KB1585753\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1585753) article in the Now Support Knowledge Base.
 
-Golden image mode enables cloning of additional agents. Setting golden image mode is described in the installation procedure prerequisites for each OS. For information on the structure and modularity of the golden image plugin by operating system, see [Golden image structure and modularity](../reference/golden-image-structure-modularity.md).
+Golden image mode enables cloning of additional agents. Setting golden image mode is described in the installation procedure prerequisites for each OS. For information on the structure and modularity of the golden image plugin by operating system, see [Golden image structure and modularity](golden-image-structure-modularity.md).
 
 Agent Client Collector supports domain separation. The domain of the agent and the CIs it creates is determined by the domain of the MID Server that the agent is connected to. The user's domain must be the lowest domain level \(known as a leaf domain\) to enable creating a Websocket endpoint extension for the MID Server.
 
@@ -175,7 +175,7 @@ Agent Client Collector supports domain separation. The domain of the agent and t
 
 [Agent Client Collector installation on a Linux OS system](acc-install-linux-concept.md)
 
-[Install the Agent Client Collector on a Windows machine manually](../task/acc-install-windows.md)
+[Install the Agent Client Collector on a Windows machine manually](acc-install-windows.md)
 
 [Agent Client Collector installation on a macOS system](acc-install-mac-os.md)
 

@@ -20,40 +20,40 @@ Glossary terms are grouped alphabetically.
 
 [A](apo-glossary.md#) \| [B](apo-glossary.md#)\| [C](apo-glossary.md#)\| [D](apo-glossary.md#) \| [E](apo-glossary.md#) \| [G](apo-glossary.md#) \| [I](apo-glossary.md#) \| [L](apo-glossary.md#) \| [N](apo-glossary.md#) \| [O](apo-glossary.md#) \| [P](apo-glossary.md#) \| [R](apo-glossary.md#) \| [S](apo-glossary.md#) \| [T](apo-glossary.md#) \| [U](apo-glossary.md#) \| [V](apo-glossary.md#) \| [W](apo-glossary.md#)
 
-**Parent Topic:**[Accounts Payable Operations reference](../reference/acc-pay-reference.md)
+**Parent Topic:**[Accounts Payable Operations reference](acc-pay-reference.md)
 
 **Related topics**  
 
 
-[Accounts Payable Operations properties](../reference/acc-pay-properties.md)
+[Accounts Payable Operations properties](acc-pay-properties.md)
 
-[Create New Invoice Line form](../reference/create-invoice-line-form.md)
+[Create New Invoice Line form](create-invoice-line-form.md)
 
-[Create invoice cost allocation form](../reference/create-invoice-cost-allocation-form.md)
+[Create invoice cost allocation form](create-invoice-cost-allocation-form.md)
 
-[Outbound cost allocation staging table](../reference/outbound-cost-allocation-table.md)
+[Outbound cost allocation staging table](outbound-cost-allocation-table.md)
 
-[Distribution set form](../reference/distribution-set-form.md)
+[Distribution set form](distribution-set-form.md)
 
-[Create New Invoice case form](../reference/create-new-ap-case-form.md)
+[Create New Invoice case form](create-new-ap-case-form.md)
 
-[Create New Invoice task form](../reference/create-apm-task-form.md)
+[Create New Invoice task form](create-apm-task-form.md)
 
-[Invoice processing case form](../reference/invoice-processing-case-form.md)
+[Invoice processing case form](invoice-processing-case-form.md)
 
-[Tax lines](../reference/create-tax-lines-apo.md)
+[Tax lines](create-tax-lines-apo.md)
 
-[Invoice exception form](../reference/exception-form-fields.md)
+[Invoice exception form](exception-form-fields.md)
 
-[Request Help form](../reference/ur-request-help-form.md)
+[Request Help form](ur-request-help-form.md)
 
-[Master data table for Accounts Payable Operations](../reference/master-data-table-apo.md)
+[Master data table for Accounts Payable Operations](master-data-table-apo.md)
 
-[Invoice exception definition form](../reference/invoice-exception-definition-form.md)
+[Invoice exception definition form](invoice-exception-definition-form.md)
 
-[Approval Rule form](../reference/new-approval-rule-form.md)
+[Approval Rule form](new-approval-rule-form.md)
 
-[Approval Plan form](../reference/approval-plan-form.md)
+[Approval Plan form](approval-plan-form.md)
 
 ## A
 

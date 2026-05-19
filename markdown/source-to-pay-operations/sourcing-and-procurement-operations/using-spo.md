@@ -17,7 +17,7 @@ Employees, shoppers, or requesters can use Sourcing and Procurement Operations t
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
--   **[Using Shopping Hub](../reference/use-shoppinghub-portal.md)**  
+-   **[Using Shopping Hub](use-shoppinghub-portal.md)**  
 Use the Shopping Hub module to request pricing or place an order for products and services. You can also request for products or services that you don’t see in the catalog, revise, replace, or return your ordered products and services, customize your top suppliers, work on your to-dos, and much more.
 -   **[Using Shopping Hub Mobile](using-sh-mobile.md)**  
 The ServiceNow Shopping Hub Mobile app enables you to engage with procurement organizations from a mobile device.

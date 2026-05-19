@@ -92,7 +92,7 @@ Creates different types of factors like manual factors, query factors, and autom
 Orlando
 
 </td></tr></tbody>
-</table>To learn more about Advanced Risk, see [Download Advanced Risk](../../../product/grc-risk/task/download-risk-advanced.md)
+</table>To learn more about Advanced Risk, see [Download Advanced Risk](download-risk-advanced.md)
 
-**Parent Topic:**[Risk Management detailed setup](../../../product/grc-risk/concept/setup-risk-management.md)
+**Parent Topic:**[Risk Management detailed setup](setup-risk-management.md)
 

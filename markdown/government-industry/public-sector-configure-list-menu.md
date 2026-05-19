@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-To configure the List Menu, you can follow this procedure or use [guided setup](../concept/configure-psds-foundation-data.md#) for the Public Sector Digital Services Core application.
+To configure the List Menu, you can follow this procedure or use [guided setup](configure-psds-foundation-data.md#) for the Public Sector Digital Services Core application.
 
 ## Procedure
 
@@ -65,5 +65,5 @@ To configure the List Menu, you can follow this procedure or use [guided setup](
 
 [Configure the Public Sector landing page using UI Builder.](public-sector-configure-landing-page.md)
 
-**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](../concept/setting-up-csm-fsm.md)
+**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](setting-up-csm-fsm.md)
 

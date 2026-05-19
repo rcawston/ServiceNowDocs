@@ -33,7 +33,7 @@ Assessments can be created on-demand or can recur on a specified schedule. When 
 
 2.  Create an external assessment by selecting **New** and fill in the form.
 
-    For descriptions of all these fields, see [Third-party risk assessment form](../reference/tprm-create-assessment-form.md).
+    For descriptions of all these fields, see [Third-party risk assessment form](tprm-create-assessment-form.md).
 
 3.  Select **Submit**.
 
@@ -51,7 +51,7 @@ Assessments can be created on-demand or can recur on a specified schedule. When 
 
 5.  Select **Submit to third party**.
 
-    **Important:** When the TPR manager or TPR assessor adds a questionnaire to an assessment, they have the option to select or deselect the Include previous responses option on the questionnaire page. The option can’t be changed after the questionnaire is sent to the third party. For more information, see [Create a questionnaire or document request template](create-questionnaire-template.md) and [Assessment metric type form](../reference/tprm-create-q-template-form.md).
+    **Important:** When the TPR manager or TPR assessor adds a questionnaire to an assessment, they have the option to select or deselect the Include previous responses option on the questionnaire page. The option can’t be changed after the questionnaire is sent to the third party. For more information, see [Create a questionnaire or document request template](create-questionnaire-template.md) and [Assessment metric type form](tprm-create-q-template-form.md).
 
     -   The state of the assessment changes to Submitted to third party.
     -   The templates that you selected generate questionnaires or document requests.
@@ -62,7 +62,7 @@ Assessments can be created on-demand or can recur on a specified schedule. When 
 
 6.  When the third-party contact is ready to respond to the assessment, they open the assessment in the Third-party portal.
 
-    **Note:** If your questionnaire is set up to require a signature, the third party or reviewer must save and e-sign the questionnaire or document request before it can be submitted. The signature feature isn’t supported for SAE questionnaires. For more information, see [E-signatures on questionnaires or document requests](../../grc-workspace-vrm/task/tprm-ws-approve-with-e-sig.md).
+    **Note:** If your questionnaire is set up to require a signature, the third party or reviewer must save and e-sign the questionnaire or document request before it can be submitted. The signature feature isn’t supported for SAE questionnaires. For more information, see [E-signatures on questionnaires or document requests](tprm-ws-approve-with-e-sig.md).
 
 7.  The TPR assessor moves the state of the assessment to Generating Observations.
 
@@ -80,7 +80,7 @@ The TPR assessor works through the third-party portal with the third party to cl
 **Related topics**  
 
 
-[Assessing your third-party risk](../concept/tprm-assessing-tpr.md)
+[Assessing your third-party risk](tprm-assessing-tpr.md)
 
-[Review responses to external questionnaires](../../grc-workspace-vrm/task/tprm-ws-assessment-rvw-response.md)
+[Review responses to external questionnaires](tprm-ws-assessment-rvw-response.md)
 

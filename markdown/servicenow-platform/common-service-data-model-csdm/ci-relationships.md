@@ -40,5 +40,5 @@ For an extended explanation of the business application reference attribute's ro
 **Related topics**  
 
 
-[CSDM resources](../reference/csdm-resources.md)
+[CSDM resources](csdm-resources.md)
 

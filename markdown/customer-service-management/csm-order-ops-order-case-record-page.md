@@ -102,7 +102,7 @@ The case summarization component appears above the Order Case Line list. When an
 -   Generate knowledge articles.
 -   Generate email reply recommendation.
 
-**Note:** The case summarization component requires the [Now Assist for Customer Service Management \(CSM\)](now-assist-csm.md) application to be activated and configured.
+**Note:** The case summarization component requires the [Now Assist for Customer Service Management \(CSM\)](now-assist-for-csm/now-assist-csm.md) application to be activated and configured.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ Active
 
 </td><td>
 
-Enabling the **Active** check box makes the page available to the selected audience. The Order case record page is active by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+Enabling the **Active** check box makes the page available to the selected audience. The Order case record page is active by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 </td></tr><tr><td>
 

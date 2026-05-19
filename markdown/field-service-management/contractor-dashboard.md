@@ -60,5 +60,5 @@ Reviews the work order task progress and agent feedback results based on the sel
 |Contractor|Reference|Select Single Input|Filter the report results based on a selected contractor company or all.|
 |Date Range|Date|Select Single Input|Filter the report results based on the selected date range, such as last 30 days.|
 
-**Parent Topic:**[Analytics and reporting for Field Service Management](../../../product/field-service-management/concept/analytics-reporting-fsm.md)
+**Parent Topic:**[Analytics and reporting for Field Service Management](analytics-reporting-fsm.md)
 

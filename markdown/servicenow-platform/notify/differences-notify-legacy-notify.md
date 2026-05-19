@@ -23,5 +23,5 @@ Describes the differences between the Notify and Legacy Notify applications, inc
 |Hard-coded join conference SMS and IVR prompts for joining a conference call.|Includes a configurable workflow for handling SMS and Voice IVR prompts.|
 |Support for SMS-based answers.|Notify On Task support for sending SMS and initiating conference calls from any task.|
 
-**Parent Topic:**[Activate Notify](../task/t_ActivateNotify.md)
+**Parent Topic:**[Activate Notify](t_ActivateNotify.md)
 

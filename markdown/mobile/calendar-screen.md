@@ -19,7 +19,7 @@ Users use a calendar screen to display records when the dates relating to those 
 
  The calendar screen displays a calendar interface. Each date on the screen displays an indicator below any date that has at least one record associated with it.
 
- Below the calendar, is the events list where your users can see a list of records associated with the date selected in the calendar. You can configure the calendar app to display these records in a record screen when the user taps them. For more information, see [Using the calendar screen](../reference/calendar-screen-using.md).
+ Below the calendar, is the events list where your users can see a list of records associated with the date selected in the calendar. You can configure the calendar app to display these records in a record screen when the user taps them. For more information, see [Using the calendar screen](calendar-screen-using.md).
 
 </td><td>
 
@@ -30,15 +30,15 @@ Users use a calendar screen to display records when the dates relating to those 
 
 Consider these general guidelines when configuring your calendar screen.
 
-**Note:** For configuration instructions, see [Configure a calendar screen](../task/configure-calendar-1.md). For design considerations and user experience general guidelines when configuring your calendar screen, refer to the [Calendar screen](https://horizon.servicenow.com/native-mobile/screens/calendar-screen) section in the Horizon design system website.
+**Note:** For configuration instructions, see [Configure a calendar screen](configure-calendar-1.md). For design considerations and user experience general guidelines when configuring your calendar screen, refer to the [Calendar screen](https://horizon.servicenow.com/native-mobile/screens/calendar-screen) section in the Horizon design system website.
 
 -   **Swipe functions**
 
-    Consider configuring swipe functions in the list view area to access quick actions like deleting a record or changing its state. For more information, see [Configure a calendar screen](../task/configure-calendar-1.md) and [Quick actions](../task/sg-config-quick-actions.md).
+    Consider configuring swipe functions in the list view area to access quick actions like deleting a record or changing its state. For more information, see [Configure a calendar screen](configure-calendar-1.md) and [Quick actions](sg-config-quick-actions.md).
 
 -   **Top menu actions**
 
-    Consider configuring a top menu actions in the calendar screen for more complex or global actions, such as creating an appointment. For more information, see [Use your navigation function as a top menu selection](../task/sg-launcher-navigation-example-3.md).
+    Consider configuring a top menu actions in the calendar screen for more complex or global actions, such as creating an appointment. For more information, see [Use your navigation function as a top menu selection](sg-launcher-navigation-example-3.md).
 
 -   **Template calendar card**
 

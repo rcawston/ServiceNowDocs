@@ -23,7 +23,7 @@ Only reports with a **Type** value of pie, donut, semi donut, funnel, or pyramid
 
 **Note:**
 
--   This documentation refers to Core UI reports and responsive dashboards. For information about making Platform Analytics data visualizations act as filters on dashboards, see [Make a data visualization act as a filter](../../par-for-workspace/task/make-dv-act-as-filter.md).
+-   This documentation refers to Core UI reports and responsive dashboards. For information about making Platform Analytics data visualizations act as filters on dashboards, see [Make a data visualization act as a filter](../make-dv-act-as-filter.md).
 -   When a report is acting as an interactive filter, it is not possible to drill down into the report's segments.
 
 ## Procedure
@@ -51,7 +51,7 @@ Only reports with a **Type** value of pie, donut, semi donut, funnel, or pyramid
 
 Select a subset of data in the report, such as a slice of pie in a pie chart, to filter all subscriber reports for the same table. All reports on the dashboard that are based on the same table show information about that subset of data only.
 
-**Parent Topic:**[Interactive Filters on dashboards](../concept/c_PublishersOnHomepages.md)
+**Parent Topic:**[Interactive Filters on dashboards](c_PublishersOnHomepages.md)
 
 **Related topics**  
 

@@ -94,12 +94,12 @@ Normalizes firmware models using the newly downloaded content.
 |Manage firmware library \[sn\_itam\_firmware\_manage\_library\]|Stores import and export content data.|
 |Firmware configuration \[sn\_itam\_firmware\_configuration\]|Stores opt-in and opt-out data.|
 
-**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](domain-separation-eam.md)
 
 [Enterprise Asset Management roles](eam-roles.md)
 

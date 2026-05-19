@@ -61,7 +61,7 @@ Description
 </td></tr></tbody>
 </table>2.  On the Third Party Contract Review form, fill in the fields.
 
-    For a description of the field values, see [Third Party Contract Review form](../reference/tpc-request-intake-form-fields.md).
+    For a description of the field values, see [Third Party Contract Review form](tpc-request-intake-form-fields.md).
 
 3.  Click **Submit**.
 
@@ -70,11 +70,11 @@ Description
 
 A legal request for reviewing of the attached third-party contract document is created in the New state.
 
-For more information on how to view and track the legal request, see [View and track legal request details](../../legal-request-management/task/view-legal-request-details.md).
+For more information on how to view and track the legal request, see [View and track legal request details](../legal-request-management/view-legal-request-details.md).
 
 ## What to do next
 
 As a member of the legal department contract support team, you can work on the request to review the contract and get it signed. For more information, see [Work on a TPC review request](work-tpc-review-request.md).
 
-**Parent Topic:**[Third-party contract review requests](../concept/legal-request-third-party-contract.md)
+**Parent Topic:**[Third-party contract review requests](legal-request-third-party-contract.md)
 

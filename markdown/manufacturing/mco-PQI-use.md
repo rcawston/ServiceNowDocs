@@ -13,7 +13,7 @@ breadcrumb: [Agent management, Use, Manufacturing Commercial Operations]
 
 The Agents workspace enables you to create and view product quality investigation cases.
 
--   **[Create a product quality investigation](../task/mco-create-product-quality-investigation.md)**  
+-   **[Create a product quality investigation](mco-create-product-quality-investigation.md)**  
 Create a product quality investigation report.
 
 **Parent Topic:**[Agent management](mco-agent-management.md)

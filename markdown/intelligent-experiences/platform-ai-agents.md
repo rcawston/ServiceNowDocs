@@ -14,7 +14,7 @@ breadcrumb: [Now Assist AI assets, Enable AI experiences]
 
 Explore different AI agents available in platform Now Assist applications.
 
-There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](../task/find-ai-agents.md).
+There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](find-ai-agents.md).
 
 AI agents are also provided with some of the Integration Hub spokes or plugins that are preconfigured and are callable from interfaces such as AI Agent Studio and Virtual Agent. For more information, see [Available AI agents for Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/available-spk-ai-agents.md).
 
@@ -27,5 +27,5 @@ The Request status AI agent is an AI agent that enables you to view tickets and 
 -   **[Domain Separation AI agent](domain-sep-aia.md)**  
 The Domain Visibility AI agent enables Domain Admins to manage user domain visibility using guided, conversational workflows in the Now Assist panel.
 
-**Parent Topic:**[Now Assist AI assets](../../now-assist-skills/concept/platform-ai-assets-section.md)
+**Parent Topic:**[Now Assist AI assets](platform-ai-assets-section.md)
 

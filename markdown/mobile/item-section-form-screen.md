@@ -34,7 +34,7 @@ Role required: admin
 
             **Note:** The icon selected is not displayed in this configuration.
 
-        3.  **Fetch Type**: Select either `Prefetch`, `On-demand`, or `Background` as required according to your setup. For more information about these options, see [Mobile fetch types](../reference/applet-fetch-types.md).
+        3.  **Fetch Type**: Select either `Prefetch`, `On-demand`, or `Background` as required according to your setup. For more information about these options, see [Mobile fetch types](applet-fetch-types.md).
     4.  Right-click in the header and select **Save**.
 
 2.  Add record UI sections to the selected section screen.

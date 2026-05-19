@@ -33,7 +33,7 @@ To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Works
 
     Set the **sn\_acc\_vis\_content.enable\_full\_monitoring** property to **True**.
 
-    For more information, see [Collect web usage data using Agent Client Collector for Visibility - Content](../../agent-client-collector/task/collect-web-data-usage-accvc.md).
+    For more information, see [Collect web usage data using Agent Client Collector for Visibility - Content](../agent-client-collector/collect-web-data-usage-accvc.md).
 
 
 ## Required ServiceNow AI Platform roles

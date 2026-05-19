@@ -23,5 +23,5 @@ Select either of the two storage types based on what is being configured at the 
 
 **Note:** We recommend using the **Custom Managed Store** because Microsoft currently does not provide any APIs to retrieve evidence files from the **Microsoft Managed Store**. As a result, preview and download functionality is not supported for evidence stored in the Microsoft Managed Store. We have raised a case with Microsoft regarding this limitation.
 
-**Parent Topic:**[Create a new incident profile for Microsoft DLP integration](../task/create-profile-microsoft-dlp-integration.md)
+**Parent Topic:**[Create a new incident profile for Microsoft DLP integration](create-profile-microsoft-dlp-integration.md)
 

@@ -32,5 +32,5 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Read or send emails using Microsoft Graph](../concept/read-send-emails-ms-graph.md)
+**Parent Topic:**[Read or send emails using Microsoft Graph](read-send-emails-ms-graph.md)
 

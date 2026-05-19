@@ -127,5 +127,5 @@ Actions listed in an event parameter.Users and actions cannot both be passed int
 
 Enable Virtual Agent notifications. For more information, see [Enable Virtual Agent notifications](enable-va-notifications.md).
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](configuring-va-notifications.md)
 

@@ -42,9 +42,9 @@ Domain separation is supported.
 
 [Activate Workforce Optimization for HR](activate-wfo-hr.md)
 
-[Setting up Scheduling for Workforce Optimization for HR](../task/setup-scheduling-wfo-hr.md)
+[Setting up Scheduling for Workforce Optimization for HR](setup-scheduling-wfo-hr.md)
 
-[Setting up Teams in Workforce Optimization for HR](../task/setup-team-workforce-wfo-hr.md)
+[Setting up Teams in Workforce Optimization for HR](setup-team-workforce-wfo-hr.md)
 
 [Setting up Coaching in Workforce Optimization for HR](setup-coaching-wfo-hr.md)
 

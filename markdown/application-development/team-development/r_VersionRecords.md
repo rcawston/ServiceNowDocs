@@ -89,7 +89,7 @@ Reverted from
 
 </td><td>
 
-A reference to the older version record, if this version was created by [reverting to an older version](../task/t_RevertAChange.md).
+A reference to the older version record, if this version was created by [reverting to an older version](t_RevertAChange.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -124,10 +124,10 @@ Version List
 All versions of the customized record that are available on the instance.
 
 </td></tr></tbody>
-</table>-   **[Merge tool](../concept/diff-merge-tool.md)**  
+</table>-   **[Merge tool](diff-merge-tool.md)**  
 The Diff Merge tool enables administrative users to compare differences between two versions of a record.
 
-**Parent Topic:**[Versions](../concept/c_Versions.md)
+**Parent Topic:**[Versions](c_Versions.md)
 
 **Related topics**  
 

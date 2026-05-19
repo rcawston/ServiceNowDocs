@@ -37,7 +37,7 @@ Language
 
 List of available languages in Virtual Agent.
 
- Only installed languages are displayed \(the language plugins are activated\). If a language appears as unavailable, it means the language plugin is installed, but it has not been activated in Virtual Agent settings or in the Localization Framework. For more information, see [Configure Natural Language Understanding in Virtual Agent](../task/configure-nlu-settings.md) and [Languages table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_LanguagesTable.md).
+ Only installed languages are displayed \(the language plugins are activated\). If a language appears as unavailable, it means the language plugin is installed, but it has not been activated in Virtual Agent settings or in the Localization Framework. For more information, see [Configure Natural Language Understanding in Virtual Agent](configure-nlu-settings.md) and [Languages table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_LanguagesTable.md).
 
 </td></tr><tr><td>
 
@@ -84,9 +84,9 @@ Click the link to test the topic in a particular language.
 
 If you've enabled NLU on your instance, you can view or modify the topic mappings on this tab. You can also map your entities and test the translated topic here.
 
-**Note:** Unless you're using legacy, single-language models, all secondary languages in a topic must be mapped to the same model group. In most cases, changing the mapping for one secondary language will change the mappings for all secondary languages in the topic. For more information, see [NLU model mapping in Virtual Agent Designer](../concept/nlu-model-binding-vad.md).
+**Note:** Unless you're using legacy, single-language models, all secondary languages in a topic must be mapped to the same model group. In most cases, changing the mapping for one secondary language will change the mappings for all secondary languages in the topic. For more information, see [NLU model mapping in Virtual Agent Designer](nlu-model-binding-vad.md).
 
 ![View NLU bindings and entity mapping.](../images/vad-languages-nlu-mapping-tab.png "Example NLU language mapping tab")
 
-**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
 

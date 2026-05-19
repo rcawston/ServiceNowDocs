@@ -35,7 +35,7 @@ As a customer service agent \(sn\_customerservice\_agent\), you can use the busi
 **Related topics**  
 
 
-[Business Location 360 components](../concept/ui-components-under-business-location-360.md)
+[Business Location 360 components](ui-components-under-business-location-360.md)
 
 [Access Business Location 360 as a customer service manager](access-business-location-360-as-csm-managers.md)
 

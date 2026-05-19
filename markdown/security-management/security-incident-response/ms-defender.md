@@ -49,5 +49,5 @@ Microsoft Defender integration tasks involve the following roles.
 -   sn\_si.ingestion\_profile\_admin: Can read, write, and delete records.
 -   sn\_si.analyst: Can read, write, and delete records.
 
-For more information on Roles installed, see [Components installed with Security Incident Response](../../../security-incident-response/reference/installed-with-sir.md)
+For more information on Roles installed, see [Components installed with Security Incident Response](installed-with-sir.md)
 

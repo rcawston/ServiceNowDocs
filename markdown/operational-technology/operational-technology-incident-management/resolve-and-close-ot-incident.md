@@ -57,7 +57,7 @@ Incident was resolved by the user who contacted the OT engineer for the issue.
 
 Incident was resolved with an OT change request.
 
-For more information about OT change requests, see [Create a change request](create-ot-change-request.md).
+For more information about OT change requests, see [Create a change request](../operational-technology-change-management/create-ot-change-request.md).
 
 -   **Resolved by problem**
 
@@ -69,7 +69,7 @@ For more information about problems, see [Managing Problems](https://raw.githubu
 
 Incident was resolved by an OT request.
 
-For more information about OT requests, see [Create an Operational Technology request on the Industrial Workspace](../../operational-technology-request-management/task/create-ot-service-request-industrial-workspace.md).
+For more information about OT requests, see [Create an Operational Technology request on the Industrial Workspace](../operational-technology-request-management/create-ot-service-request-industrial-workspace.md).
 
 -   **Solution provided**
 
@@ -89,5 +89,5 @@ Describes how the incident was resolved.
 5.  Click **Update**.
 
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

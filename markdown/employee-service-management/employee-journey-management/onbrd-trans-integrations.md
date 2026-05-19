@@ -22,5 +22,5 @@ Automatically provision relevant applications for new hires as part of the onboa
 -   **[Sailpoint integration for new hire onboarding](sailpoint-integration-for-new-hire-onboarding.md)**  
 Provide relevant applications for new hires automatically as part of the onboarding process with the Sailpoint integration.
 
-**Parent Topic:**[Lifecyle events for enterprise](../reference/enterprise-onboarding-transitions-landing-page.md)
+**Parent Topic:**[Lifecyle events for enterprise](enterprise-onboarding-transitions-landing-page.md)
 

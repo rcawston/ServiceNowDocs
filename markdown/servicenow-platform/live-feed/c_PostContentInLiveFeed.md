@@ -31,26 +31,26 @@ You can also include links to user-defined URLs and knowledge articles contained
 
 **Note:** The functionality described here applies to HTML5-compliant browsers, such as Chrome, Firefox, Safari, and Internet Explorer 10 and above. Significant differences while using different browsers are highlighted.
 
--   **[Post a Live Feed message](../task/t_PostLiveFeedMessages.md)**  
+-   **[Post a Live Feed message](t_PostLiveFeedMessages.md)**  
 You can post a message to open a new feed.
--   **[Reply to a Live Feed message](../task/t_ReplyToAMessage.md)**  
+-   **[Reply to a Live Feed message](t_ReplyToAMessage.md)**  
 To participate in an existing thread of a feed, you can compose and submit a reply message. By default, the message is visible to all members of the feed.
--   **[Attach a file to a post or reply](../task/t_AttachAFileToAPostOrReply.md)**  
+-   **[Attach a file to a post or reply](t_AttachAFileToAPostOrReply.md)**  
 You can attach files to a post by dragging a file into a post or pasting an image from the clipboard.
--   **[Copy an image from the clipboard](../task/t_CopyAnImageFromTheClipboard.md)**  
+-   **[Copy an image from the clipboard](t_CopyAnImageFromTheClipboard.md)**  
 In addition to adding files to a message, you can also copy images to the clipboard and paste them into a message or reply.
--   **[Add a link to a post or reply](../task/t_AddALinkToAPostOrReply.md)**  
+-   **[Add a link to a post or reply](t_AddALinkToAPostOrReply.md)**  
 Add or modify a link to a Live Feed post.
--   **[Add a knowledge article link to a post or reply](../task/t_AddKnowledgeArtLinkPostRep.md)**  
+-   **[Add a knowledge article link to a post or reply](t_AddKnowledgeArtLinkPostRep.md)**  
 Use the ID of a knowledge article to post it as a reply to a Live Feed conversation.
--   **[Add a poll to a message](../task/t_AddAPollToAMessage.md)**  
+-   **[Add a poll to a message](t_AddAPollToAMessage.md)**  
 When you are posting a message, you have the option of creating a poll in order to record your viewers' opinions. As users take the poll, their feedback statistics are displayed within the feed.
--   **[Add mentions to a message](../task/add-mentions-to-message.md)**  
+-   **[Add mentions to a message](add-mentions-to-message.md)**  
 An @mention is any posted update that contains @username anywhere in the body of the message.
--   **[Like a message](../task/t_LikeAMessage.md)**  
+-   **[Like a message](t_LikeAMessage.md)**  
 Like a message to provide feedback to the author.
--   **[Delete a message](../task/t_DeleteAMessage.md)**  
+-   **[Delete a message](t_DeleteAMessage.md)**  
 Users can delete any of their own posts or replies. A conversation administrator can also delete messages.
 
-**Parent Topic:**[Manage people and work capabilities](../../../administer/general/concept/manage-people.md)
+**Parent Topic:**[Manage people and work capabilities](../manage-people.md)
 

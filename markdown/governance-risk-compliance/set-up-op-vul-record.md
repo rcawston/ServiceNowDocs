@@ -40,7 +40,7 @@ Users of the operational vulnerability are listed in the Assignment section on t
 
 4.  On the Vulnerability New record form, fill in the fields.
 
-    To view more information on the fields, see the [Create New Operational vulnerability form](../reference/create-new-op-vul-form.md).
+    To view more information on the fields, see the [Create New Operational vulnerability form](create-new-op-vul-form.md).
 
 5.  Select the treatment decision for the vulnerability.
 

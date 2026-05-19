@@ -45,7 +45,7 @@ Step Environment
 
 </td><td>
 
-The [step environment](../concept/step-environments-module.md) in which a step with this configuration can run.
+The [step environment](step-environments-module.md) in which a step with this configuration can run.
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Category
 
 </td><td>
 
-The [category](../concept/step-configuration-categories-module.md) assigned to a step with this configuration.
+The [category](step-configuration-categories-module.md) assigned to a step with this configuration.
 
 </td></tr><tr><td>
 
@@ -139,5 +139,5 @@ Output variables related list
 The variables that act as outputs for a step with this config.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Step configurations](../concept/step-configurations-module.md)
+</table>**Parent Topic:**[Step configurations](step-configurations-module.md)
 

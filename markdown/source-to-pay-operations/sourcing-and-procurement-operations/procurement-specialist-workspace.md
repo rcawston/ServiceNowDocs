@@ -80,7 +80,7 @@ canvas\_admin
 
 [Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 
 [Procurement Case Management](psd-overview.md)
 

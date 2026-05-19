@@ -59,7 +59,7 @@ Consider the following steps to determine the schedule adherence and conformance
 
 [Configure properties for schedule adherence and conformance](setup-scheduling-configurable-wfo-cs.md#)
 
-[Monitor schedule adherence of your agents](../task/view-schedule-adherence-configurable-wfo.md)
+[Monitor schedule adherence of your agents](view-schedule-adherence-configurable-wfo.md)
 
-[Analyze adherence and conformance from the time worked summary](../task/analyze-time-worked-summary-configurable-wfo-cs.md)
+[Analyze adherence and conformance from the time worked summary](analyze-time-worked-summary-configurable-wfo-cs.md)
 

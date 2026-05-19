@@ -30,6 +30,6 @@ If you have the application-specific admin role or the system-level admin role, 
 
 To learn more about configuring and using Delegated Development, see:
 
--   [Configuring Delegated Development](../task/configuring-delegated-development.md)
--   [Administer Delegated Development Delegated Development](../task/administer-delegated-development.md)
+-   [Configuring Delegated Development](configuring-delegated-development.md)
+-   [Administer Delegated Development Delegated Development](administer-delegated-development.md)
 

@@ -38,7 +38,7 @@ A system property and scheduled jobs control the data retention policy for conta
 
         Tables impacted: Case \[sn\_imt\_tracing\_case\], Case Task \[sn\_imt\_tracing\_case\_task\], Exposed Contacts \[sn\_imt\_tracing\_exposed\_contact\], Diagnostic Request \[sn\_imt\_diagnosis\_diagnostic\_request\], Diagnostics Events \[sn\_imt\_diagnosis\_diagnostics\_event\], and Potential Workplace Exposure \[sn\_imt\_diagnosis\_potential\_workplace\_exposure\]
 
-        The Diagnostic Request and Diagnostics Events tables are installed with the [Emergency Exposure Management](../../business-continuity/concept/emergency-exposure-management.md) application.
+        The Diagnostic Request and Diagnostics Events tables are installed with the [Emergency Exposure Management](../emergency-exposure-management/emergency-exposure-management.md) application.
 
         **Note:** A survey associated with cases that are eligible for deletion after the retention period is not deleted because surveys have their own retention period. For more information, see [Clean up assessment data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CleanUpAssessmentData.md).
 
@@ -93,5 +93,5 @@ A system property and scheduled jobs control the data retention policy for conta
     7.  Click **Update**.
 
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

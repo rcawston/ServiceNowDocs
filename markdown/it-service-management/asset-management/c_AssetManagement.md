@@ -33,14 +33,14 @@ Asset Management and the Configuration Management Database \(CMDB\) are related,
 
 -   **[ITSM Software Asset Management](itsm-sam.md)**  
 The software asset management features of the ITSM suite can be activated using one of the plugins in the feature table.
--   **[Contract Management](../../contract-management/concept/c_ContractManagement.md)**  
+-   **[Contract Management](../contract-management/c_ContractManagement.md)**  
 Manage and track contracts with the ServiceNow® Contract Management application.
--   **[Procurement](../../procurement/concept/c_Procurement.md)**  
+-   **[Procurement](../procurement/c_Procurement.md)**  
 Procurement managers can use the ServiceNow® Procurement application to create purchase orders and to obtain items for fulfilling service catalog requests.
--   **[Product Catalog](../../product-catalog/concept/c_ProductCatalog.md)**  
+-   **[Product Catalog](../product-catalog/c_ProductCatalog.md)**  
 The product catalog is a set of information about individual models. Models are specific versions or various configurations of an asset. Asset managers use the product catalog as a centralized repository for model information.
 
-**Parent Topic:**[IT Service Management](../../it-service-management/reference/r_ITServiceManagement.md)
+**Parent Topic:**[IT Service Management](../r_ITServiceManagement.md)
 
 **Related topics**  
 

@@ -77,5 +77,5 @@ After the import process is complete, you can validate the imported staging reco
 -   **[Prepare your Pre-import OT Worksheet Entry Review tool for Service Graph Connector import](preparing-your-pre-import-ot-worksheet-entry-review-tool-for-sgc-import.md)**  
 Prepare your spreadsheet by positioning your existing data in the correct columns is crucial to the success of your upload.
 
-**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](../concept/use-excel-sgc-through-import-tasks.md)
+**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](use-excel-sgc-through-import-tasks.md)
 

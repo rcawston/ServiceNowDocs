@@ -39,6 +39,6 @@ When you select a case in the Mobile Agent app, a form opens with the following 
 
 3.  Select the information request case that you want to see more details for.
 
-    For a detailed description of the information request case fields, see [Information Request case form](../reference/information-request-case-form.md#).
+    For a detailed description of the information request case fields, see [Information Request case form](information-request-case-form.md#).
 
 

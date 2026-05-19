@@ -69,10 +69,10 @@ CI class inclusion
 Choose the CI classes that you want to include and monitor for an unauthorized change to be created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Unauthorized change request](../concept/unauthorized-change-request.md)
+</table>**Parent Topic:**[Unauthorized change request](unauthorized-change-request.md)
 
 **Related topics**  
 
 
-[Disable the creation of an unauthorized change request](../task/disable-unauth-notification.md)
+[Disable the creation of an unauthorized change request](disable-unauth-notification.md)
 

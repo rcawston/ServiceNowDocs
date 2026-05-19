@@ -40,5 +40,5 @@ The execution process involves:
 3.  Run the job by selecting **Execute Now**.
 
 
-**Parent Topic:**[Insight cards on the Workplace Central dashboard](../concept/insight-cards-on-the-workplace-central-dashboard.md)
+**Parent Topic:**[Insight cards on the Workplace Central dashboard](insight-cards-on-the-workplace-central-dashboard.md)
 

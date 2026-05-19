@@ -220,7 +220,7 @@ Re-evaluate License Distribution
 
 </td><td>
 
-Schedule runs on demand to validate the distribution of license records.For more information, see [Re-evaluate license distribution by executing RPA scripts](../task/execute-rpa-script.md).
+Schedule runs on demand to validate the distribution of license records.For more information, see [Re-evaluate license distribution by executing RPA scripts](execute-rpa-script.md).
 
 </td></tr></tbody>
 </table>## Tables installed

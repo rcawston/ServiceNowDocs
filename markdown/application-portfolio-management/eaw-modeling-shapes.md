@@ -50,5 +50,5 @@ ArchiMate® shapes are industry-standard elements used by enterprise architects 
 -   **[Business Process Modeling Notation \(BPMN\) shapes](eaw-modeling-bpmn-shapes.md)**  
 Use the BPMN shapes to generate diagrams for your current business processes and model the future state of the business processes.
 
-**Parent Topic:**[Exploring Enterprise Modeling and Visualization in the EA Workspace](../../concept/eaw-concept/eaw-modeling.md)
+**Parent Topic:**[Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-modeling.md)
 

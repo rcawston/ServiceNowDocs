@@ -117,9 +117,9 @@ Enables the debug log to display responses from the third-party system. Turn on 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Integrating with the First Advantage service](../concept/hr-integrations-with-first-advantage.md)
+**Parent Topic:**[Integrating with the First Advantage service](hr-integrations-with-first-advantage.md)
 
-**Previous topic:**[Integrating with the First Advantage service](../concept/hr-integrations-with-first-advantage.md)
+**Previous topic:**[Integrating with the First Advantage service](hr-integrations-with-first-advantage.md)
 
 **Next topic:**[Verify integration for the First Advantage service](verify-base-inbound-integration-for-first-advantage.md)
 

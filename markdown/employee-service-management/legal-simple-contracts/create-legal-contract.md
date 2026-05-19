@@ -27,7 +27,7 @@ The legal support for a contract request works based on a workflow, so you must 
 
 1.  Create a record producer for a new contract type.
 
-    For more information, see [Create or modify a record producer for legal services through Classic environment](../../legal-request-management/task/create-record-producer-legal-request.md). On the form, you must provide the following specifications in the record producer for a new contract type:
+    For more information, see [Create or modify a record producer for legal services through Classic environment](../legal-request-management/create-record-producer-legal-request.md). On the form, you must provide the following specifications in the record producer for a new contract type:
 
     1.  In the **Table name** field, select the General Contract Support \[sn\_lg\_ops\_general\_contract\_support\] table.
 
@@ -45,7 +45,7 @@ The legal support for a contract request works based on a workflow, so you must 
 
 2.  Add a new intake form in the Contracts practice area.
 
-    For more information, see [Add an intake form to a practice area](../../legal-request-management/task/associate-categories-practice-area.md). Ensure to provide the following details in the respective fields.
+    For more information, see [Add an intake form to a practice area](../legal-request-management/associate-categories-practice-area.md). Ensure to provide the following details in the respective fields.
 
     1.  From the **Type** drop-down list, select **Request**.
 
@@ -57,7 +57,7 @@ The legal support for a contract request works based on a workflow, so you must 
 
 3.  Create legal contract templates.
 
-    -   For more information, see [Legal contract templates](../concept/document-template-block.md).
+    -   For more information, see [Legal contract templates](document-template-block.md).
     -   In the **Conditions**, you must select the new category added for the new contract.
 4.  [Configure a rule for selecting a legal contract template](configure-legal-contract-template-rules.md) when a legal contract request is being created by a user.
 

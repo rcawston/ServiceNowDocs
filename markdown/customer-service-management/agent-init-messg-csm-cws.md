@@ -34,7 +34,7 @@ Role required: agent\_workspace\_user
 
 4.  On the Details tab of the workspace form, fill in the details for a new interaction or modify the details.
 
-    For more information about the form, see [CSM workspace form features](../reference/csm-workspace-agent-actions.md).
+    For more information about the form, see [CSM workspace form features](csm-workspace-agent-actions.md).
 
     **Note:** The user profile associated with an interaction is configured by an administrator by using the sn\_agent\_initiated.AgentInitiatedMessagingUserDocument extension point. The AgentMessagingInteractionUserDocument script include that implements the sn\_agent\_initiated.AgentInitiatedMessagingUserDocument extension point is available for the Agent-Initiated Messaging Interface application. For more information, see [Associate user profiles with agent-initiated messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/agent-init-messg-user-record-ext-pt.md).
 

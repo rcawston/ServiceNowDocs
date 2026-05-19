@@ -33,7 +33,7 @@ Role required: sn\_oper\_res.admin
 
     ![Edge status configuration.](../image/edge-status-new-config.png)![Edge status configuration example.](../image/edge-status-config-example.png)
 
-    For more information on the fields, see [Edge status configuration form](../reference/edge-status-configuration-form.md).
+    For more information on the fields, see [Edge status configuration form](edge-status-configuration-form.md).
 
     The Edge status configuration record is displayed in which the **Edge configuration** and **Relationship table** are auto-populated.
 

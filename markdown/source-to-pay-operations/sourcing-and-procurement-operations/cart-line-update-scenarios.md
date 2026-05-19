@@ -29,5 +29,5 @@ Cart lines are created, updated, or deleted based on the updates that you make t
 
 -   If you move a product, some quantity of which already exists in your cart, from your **Purchase later** section to your shopping cart, the cart lines merge and the purchase quantity is updated accordingly.
 
-**Parent Topic:**[Shopping cart](../concept/shopping-cart.md)
+**Parent Topic:**[Shopping cart](shopping-cart.md)
 

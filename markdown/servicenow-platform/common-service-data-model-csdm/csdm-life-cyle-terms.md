@@ -65,7 +65,7 @@ The table typically contains multiple record entries per class, each entry that 
 
 ![Mapping rule that specifies the mapping between a legacy status value and the equivalent CSDM life cycle stage and life cycle stage status values.](../../csdm-implementation/image/csdm-lifecycle-mapping-form-annota.png)
 
-See [Map legacy status values to CSDM life-cycle values](../concept/csdm-life-cycle-standard-values.md#) and [How life-cycle values for Asset, CI, and IBI are synchronized](../../csdm-implementation/reference/cmdb-asset-CI-IBI-sync-options.md).
+See [Map legacy status values to CSDM life-cycle values](csdm-life-cycle-standard-values.md#) and [How life-cycle values for Asset, CI, and IBI are synchronized](cmdb-asset-CI-IBI-sync-options.md).
 
 ## Life Cycle Stage inheritance for Business Application records
 
@@ -73,5 +73,5 @@ Business Application records define a restricted set of Life Cycle Stage values 
 
 In contrast, in sys\_choice inheritance definitions in child tables override the values in parent tables.
 
-**Parent Topic:**[CSDM reference](../../csdm-implementation/concept/csdm-content-frame-reference.md)
+**Parent Topic:**[CSDM reference](csdm-content-frame-reference.md)
 

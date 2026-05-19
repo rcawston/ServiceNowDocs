@@ -46,7 +46,7 @@ Configure your add-in with customizable office controls.
 
 </td><td>
 
-[Create a manifest file](../task/create-ms365-addin-manifest.md)
+[Create a manifest file](create-ms365-addin-manifest.md)
 
 </td><td>
 
@@ -58,8 +58,8 @@ Map email fields to a catalog or form to reduce the time taken by employees to r
 
 </td><td>
 
--   [Map email fields to a catalog item](../task/map-email-catalog.md)
--   [Map email fields to a form](../task/map-email-form.md)
+-   [Map email fields to a catalog item](map-email-catalog.md)
+-   [Map email fields to a form](map-email-form.md)
 
 </td><td>
 
@@ -71,7 +71,7 @@ Raise a request from a Microsoft 365 application.
 
 </td><td>
 
-[Raise a request using the ServiceNow Add-in for Microsoft 365](../task/raise-request-addin-ms365.md)
+[Raise a request using the ServiceNow Add-in for Microsoft 365](raise-request-addin-ms365.md)
 
 </td><td>
 
@@ -84,5 +84,5 @@ To learn more about configuring and using ServiceNow Add-in for Microsoft 365, s
 
 -   [Configuring ServiceNow Add-in for Microsoft 365](configuring-sn-addin-for-ms365.md)
 -   [Using ServiceNow Add-in for Microsoft 365](using-sn-addin-for-ms365.md)
--   [ServiceNow Add-in for Microsoft 365 reference](../reference/sn-addin-for-ms365-reference.md)
+-   [ServiceNow Add-in for Microsoft 365 reference](sn-addin-for-ms365-reference.md)
 

@@ -36,5 +36,5 @@ Users with the Audit Administrator, Audit User, and Audit Manager roles view the
 |Audit Task Breakdown|Bar Chart|Count of audit tasks grouped by Task Type, Assigned to, Top Task and State. Stacked by Task Type, Assigned to, Top Task, and State.|
 |Overdue Audit Tasks|List|List of open audit tasks that have exceeded the planned end date.|
 
-**Parent Topic:**[Manage GRC key risk and control indicators](../../grc-indicators/reference/continuous-monitoring.md)
+**Parent Topic:**[Manage GRC key risk and control indicators](continuous-monitoring.md)
 

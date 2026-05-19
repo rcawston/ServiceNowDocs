@@ -22,14 +22,14 @@ After a contract record is created, you can change the end date, parent contract
 -   **[Configure fields in contract template to display correct sys\_id value in contract documents](cncore-addin-adv-script.md)**  
 As a contract configurator, update an advanced script to print the correct display value for sys\_id variables in the generated contract document.
 
-**Parent Topic:**[Managing Contract Management Pro](../concept/cncore-manage-cmpro.md)
+**Parent Topic:**[Managing Contract Management Pro](cncore-manage-cmpro.md)
 
 **Related topics**  
 
 
-[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+[Manage clauses, tables, and contract templates](cncore-manage-clauses-ctemplates.md)
 
-[Platform Analytics Solutions for Contract Management Pro](../../../use/application-content-packs/concept/cncore-analytics-pa.md)
+[Platform Analytics Solutions for Contract Management Pro](cncore-analytics-pa.md)
 
 [Modify assignment rule for contract requests](cncore-create-assign-rule.md)
 

@@ -66,9 +66,9 @@ The **AI Insights** tab introduces the following capabilities:
 **Related topics**  
 
 
-[Create Manager Workspace Landing Page](../task/create-configurable-csm-landing-page.md#)
+[Create Manager Workspace Landing Page](create-configurable-csm-landing-page.md#)
 
-[Use sentiment analysis dashboard](../../customer-service-management/concept/use-sentiment-analysis-dashboard.md)
+[Use sentiment analysis dashboard](../now-assist-for-csm/use-sentiment-analysis-dashboard.md)
 
-[View trending topics dashboard](../../customer-service-management/concept/view-trending-topics-dashboard.md)
+[View trending topics dashboard](../now-assist-for-csm/view-trending-topics-dashboard.md)
 

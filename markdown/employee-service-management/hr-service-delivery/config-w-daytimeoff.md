@@ -19,7 +19,7 @@ Complete the one time set up of pulling time offs from Workday into the ServiceN
 
 Role required: sn\_hr\_workday.admin
 
-Configure the required reports for the Time Off request functionality. See [Configure reports HR Service Delivery Advanced Integration with Workday](../concept/awd-config-re.md#).
+Configure the required reports for the Time Off request functionality. See [Configure reports HR Service Delivery Advanced Integration with Workday](awd-config-re.md#).
 
 ## Procedure
 
@@ -37,5 +37,5 @@ Configure the required reports for the Time Off request functionality. See [Conf
 3.  Open the Time Off Request – Link to Workday record and modify the URL field.
 4.  Navigate to Employee Service Center. In the Catalog menu, open **Benefits Category** &gt; **Time Off Request –Link to Workday**. You are directed to the Workday Time Off request page.
 
-**Parent Topic:**[Time off request to Workday](../concept/w-timeoff.md)
+**Parent Topic:**[Time off request to Workday](w-timeoff.md)
 

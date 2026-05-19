@@ -15,7 +15,7 @@ Use a single score visualization when you want to show a single value or metric,
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](../reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -25,7 +25,7 @@ In this example, you create a single score visualization that shows the number o
 
 ## Procedure
 
-1.  Follow the first steps to [Create a single score data visualization](../../reporting/task/create-dv-sing-sc-ac.md):
+1.  Follow the first steps to [Create a single score data visualization](create-dv-sing-sc-ac.md):
 
     1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
@@ -138,5 +138,5 @@ In this example, you create a single score visualization that shows the number o
 
 You have created a single score visualization based on a single metric, open incidents. You have also configured user options regarding filters and drilldowns, and configured a color, an icon, and coloring rules.
 
-**Parent Topic:**[Create a single score data visualization](../../reporting/task/create-dv-sing-sc-ac.md)
+**Parent Topic:**[Create a single score data visualization](create-dv-sing-sc-ac.md)
 

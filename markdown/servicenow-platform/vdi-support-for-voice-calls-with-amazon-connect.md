@@ -60,5 +60,5 @@ Agents working in a VDI environment can do the following:
     3.  Assign agents to the appropriate group based on their desktop environment.
     4.  Verify that agents can log in to the Amazon Connect CCP and handle calls from within their VDI session.
 
-**Parent Topic:**[Integrate ServiceNow Voice with Amazon Connect](../task/integrate-ccc-amazonconnect.md)
+**Parent Topic:**[Integrate ServiceNow Voice with Amazon Connect](integrate-ccc-amazonconnect.md)
 

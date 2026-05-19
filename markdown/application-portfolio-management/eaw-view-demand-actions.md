@@ -28,12 +28,12 @@ Role required: admin
 4.  Select **All**.
 
 
-**Parent Topic:**[Working with the Setup page](../../concept/eaw-concept/eaw-work-with-setup-page.md)
+**Parent Topic:**[Working with the Setup page](eaw-work-with-setup-page.md)
 
 **Related topics**  
 
 
-[Manage demand actions](../../concept/eaw-concept/eaw-config-demand-actions.md)
+[Manage demand actions](eaw-config-demand-actions.md)
 
 [Add or edit a demand action](eaw-add-edit-demand-action.md)
 

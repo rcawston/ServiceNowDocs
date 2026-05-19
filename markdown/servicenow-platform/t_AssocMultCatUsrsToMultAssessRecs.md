@@ -51,12 +51,12 @@ You can select category users from one category at a time.
 -   **[Delete a stakeholder for multiple assessable records](t_DelAStakeholderForMultAssessRecs.md)**  
 You can delete stakeholders for multiple assessable records.
 
-**Parent Topic:**[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+**Parent Topic:**[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 **Related topics**  
 
 
-[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 [Create a category user](t_CreateACategoryUser.md)
 

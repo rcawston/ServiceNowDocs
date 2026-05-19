@@ -25,5 +25,5 @@ The values that roll up are:
 
 The percent occupied calculation takes place based on the current and max occupancy values.
 
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](r_Manually-builtMaps.md)
 

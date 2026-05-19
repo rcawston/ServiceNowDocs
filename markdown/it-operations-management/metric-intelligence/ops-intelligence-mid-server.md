@@ -21,7 +21,7 @@ To support the specified throughput, create a distributed cluster with a single 
 
 A MID Server supporting Discovery can also be used with other applications.
 
-For details on setting up Metric Intelligence, see [Get started with Metric Intelligence](../task/get-started-metrics.md).
+For details on setting up Metric Intelligence, see [Get started with Metric Intelligence](get-started-metrics.md).
 
 ## MID Server distributed clusters
 

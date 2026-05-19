@@ -27,10 +27,10 @@ Each bubble also includes a label with the name of the demand.
 
 From the demand workbench bubble chart, you can perform the following actions:
 
--   Hover over a bubble to [view a summary of the demand](../task/t_ViewADemandSummary.md), including the demand name and the risk, value, and size.
--   Select a bubble to open a sizing window and [change the size of the demand](../task/t_MoveAndResizeADemand.md).
+-   Hover over a bubble to [view a summary of the demand](t_ViewADemandSummary.md), including the demand name and the risk, value, and size.
+-   Select a bubble to open a sizing window and [change the size of the demand](t_MoveAndResizeADemand.md).
 -   Select and drag a bubble to increase or decrease the risk or value of the demand.
--   Right-click a bubble to view the demand, [create an artifact](../task/t_CrtArtftDmdMnu.md), or [view an artifact](../task/t_ViewAnArtifactCreatedFromADemand.md) that has been created from a demand.
+-   Right-click a bubble to view the demand, [create an artifact](t_CrtArtftDmdMnu.md), or [view an artifact](t_ViewAnArtifactCreatedFromADemand.md) that has been created from a demand.
 
     **Note:** If Agile Development 2.0 isn’t activated, you won’t find the options to create an enhancement or a defect
 

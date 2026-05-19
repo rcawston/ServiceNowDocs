@@ -130,25 +130,25 @@ When you create a widget, a record is created in the sp\_widget table. However, 
 When developing custom widgets, keep these general guidelines in mind for optimal performance, scalable development, and a good user experience.
 -   **[Tutorial: Build a custom widget](adv-widget-tutorial.md#)**  
 Follow this tutorial to build a custom widget that displays Service Catalog items. Use this tutorial as a model to help you understand the advanced scripting power of the Service Portal.
--   **[Clone a widget](../task/t_CloneAndEditAWidget.md)**  
+-   **[Clone a widget](t_CloneAndEditAWidget.md)**  
 Take advantage of existing code by cloning and editing an existing widget.
--   **[Create a new widget](../task/create-new-widget.md)**  
+-   **[Create a new widget](create-new-widget.md)**  
 Create a new widget to build a custom widget from scratch.
 -   **[Widget option schema](c_WidgetInstanceOptions.md#)**  
 Widget instances allow users to uniquely configure each widget they add to a page. Use the option schema to define the parameters for your widget.
--   **[Widget API reference](../reference/widget-api-reference.md#)**  
+-   **[Widget API reference](widget-api-reference.md#)**  
 Service Portal includes client and server side APIs to use in widget client and server scripts.
--   **[Reuse components with Angular Providers](../task/angular-providers.md)**  
+-   **[Reuse components with Angular Providers](angular-providers.md)**  
 Angular Providers are reusable components that can be injected into multiple widgets. To ensure quick loading widgets and a high performing portal, create Angular Providers instead of overloading your client controllers with persistent data and additional logic. With Angular Providers, you can maintain data for the lifetime of your Service Portal and reuse components and data objects across multiple widgets.
 -   **[Embedded widgets](c_NestedWidgets.md#)**  
 Embed a widget in the HTML template, server script, or client script.
--   **[Create a widget dependency](../task/widget-dependencies.md)**  
+-   **[Create a widget dependency](widget-dependencies.md)**  
 In Service Portal, you can link JavaScript and CSS files to widgets to create dependencies between widgets and third-party libraries, external style sheets, and angular modules.
 -   **[Internationalize a widget](c_WidgetLocalization.md)**  
 Use the `${}` or `gs.getMessage()` syntax in the **HTML Template**, **Client Script**, or **Server Script** fields of a widget to tag strings for translation so you can localize your Service Portal content.
--   **[Replace a Service Catalog form script with a widget](../task/ui-macro-widget.md)**  
+-   **[Replace a Service Catalog form script with a widget](ui-macro-widget.md)**  
 You can use widgets in Service Portal to replace UI Macros. If your Service Catalog form includes a UI Macro that references other fields or variables on the form, you can create a widget to hold reusable code and embed it within the Service Catalog form. Use special syntax to access any variable fields on the form.
--   **[Widget troubleshooting guide](../reference/widget-troubleshooting-guide.md)**  
+-   **[Widget troubleshooting guide](widget-troubleshooting-guide.md)**  
 Use the following tools to investigate and resolve unexpected behavior in your custom Service Portal widgets.
 
 **Parent Topic:**[Service Portal](c_ServicePortal.md)

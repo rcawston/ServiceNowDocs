@@ -74,7 +74,7 @@ CDM tables include a **Domain** column.
 -   sn\_cdm\_restricted\_groups
 -   sn\_cdm\_snapshot
 
-**Parent Topic:**[Domain separation and DevOps Config](../../devops-config/concept/devops-config-domain-separation.md)
+**Parent Topic:**[Domain separation and DevOps Config](devops-config-domain-separation.md)
 
 **Related topics**  
 

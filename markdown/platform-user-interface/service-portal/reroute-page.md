@@ -54,5 +54,5 @@ Creating a record in the Page Route Map table only redirects references to a pag
 
 All references to the page listed in the **Route from** field redirect to the page in the **Route to** field.
 
-**Parent Topic:**[Creating portal pages](../concept/c_Pages.md)
+**Parent Topic:**[Creating portal pages](c_Pages.md)
 

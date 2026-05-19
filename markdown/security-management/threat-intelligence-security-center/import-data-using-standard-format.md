@@ -121,7 +121,7 @@ Select a Taxonomy
 
 </td><td>
 
-Select the taxonomy for the imported data. Using taxonomies, define dictionaries that can be used as taxonomies assigned to threat intelligence records. For example, CAPEC nomenclature. For more information, see [Creating Taxonomies](../concept/create-taxonomies.md).
+Select the taxonomy for the imported data. Using taxonomies, define dictionaries that can be used as taxonomies assigned to threat intelligence records. For example, CAPEC nomenclature. For more information, see [Creating Taxonomies](create-taxonomies.md).
 
 </td></tr><tr><td>
 
@@ -171,7 +171,7 @@ Select this check box if you wish to over ride the source values for TLP, Confid
 12. Click **Go Back** to go back to the previous page and review the record, if necessary.
 
 
-**Parent Topic:**[Import Intelligence in TISC](../concept/importing-threat-intelligence.md)
+**Parent Topic:**[Import Intelligence in TISC](importing-threat-intelligence.md)
 
 **Related topics**  
 

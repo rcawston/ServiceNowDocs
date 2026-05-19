@@ -29,7 +29,7 @@ Kong is an API management platform that enables enterprise companies to better m
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 CMDB CI Class Models: Release 1.49.0 adds the following classes for Kong.
 

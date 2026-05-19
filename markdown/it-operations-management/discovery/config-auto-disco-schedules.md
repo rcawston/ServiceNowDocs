@@ -64,5 +64,5 @@ After you enable auto-created schedules and configure the IP data refresh settin
 **Related topics**  
 
 
-[IPAM Discovery integration](../concept/ipv6-ipam-disco-integration.md)
+[IPAM Discovery integration](ipv6-ipam-disco-integration.md)
 

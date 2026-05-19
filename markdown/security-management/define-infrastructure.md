@@ -173,5 +173,5 @@ Vulnerabilities
 Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Infrastructure](../concept/threat-intelligence-infrastructure.md)
+</table>**Parent Topic:**[Infrastructure](threat-intelligence-infrastructure.md)
 

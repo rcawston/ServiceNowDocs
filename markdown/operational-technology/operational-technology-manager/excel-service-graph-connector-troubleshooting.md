@@ -74,7 +74,7 @@ The validation state is set to Pending validation, when the following attributes
 -   Rack Number
 -   Slot Number
 
- For more information about the system properties, see [Review the system properties used by the Service Graph Connector for Microsoft Excel](../task/access-system-properties-used-by-service-graph-connector.md).
+ For more information about the system properties, see [Review the system properties used by the Service Graph Connector for Microsoft Excel](access-system-properties-used-by-service-graph-connector.md).
 
 </td></tr><tr><td>
 
@@ -107,5 +107,5 @@ Only the existing site records in the CMDB are considered.
  If the entity\_name for the site does not match, the value is set to empty.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](../concept/configuring-service-graph-connector-for-excel.md)
+</table>**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](configuring-service-graph-connector-for-excel.md)
 

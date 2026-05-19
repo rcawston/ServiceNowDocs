@@ -48,5 +48,5 @@ This procedure uses the KPI groups **Copy** button. To see the **Copy** button o
     -   Select **Delete** while viewing the KPI group \(it's next to **Copy**\).
     -   Select the box next to the KPI group name in the KPI group list, and then navigate to **Actions on selected rows** &gt; **Delete**.
 
-**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi-groups.md)
+**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](dpm-configure-kpi-groups.md)
 

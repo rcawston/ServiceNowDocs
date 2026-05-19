@@ -87,5 +87,5 @@ You can use the related links and related lists of the new test suite for the fo
 -   Create a copy of this test suite by clicking the **Create duplicate** related link. For more information, see [Create a copy of an existing test suite](t_CopyATestSuite.md).
 -   Associate test cases to this test suite by using the Test Cases related list. For more information, see [Add a test case to a test suite](t_AddANewTestCaseToATestSuite.md).
 
-**Parent Topic:**[Test suites](../concept/c_TestSuites.md)
+**Parent Topic:**[Test suites](c_TestSuites.md)
 

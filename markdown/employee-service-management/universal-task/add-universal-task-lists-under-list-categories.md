@@ -38,7 +38,7 @@ Role required: admin
 
 The lists under the Universal Task list category are added.
 
--   **[UX List Form SOW](../reference/ux-list-form-sow.md)**  
+-   **[UX List Form SOW](ux-list-form-sow.md)**  
 Learn about the fields of the UX List form. Use this form to create additional lists in the Lists menu of Service Operations Workspace.
 
 **Parent Topic:**[Adding a Universal Task list category in SOW core](add-universal-task-list-categories.md)

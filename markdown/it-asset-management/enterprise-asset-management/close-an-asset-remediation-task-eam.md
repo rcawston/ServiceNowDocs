@@ -70,7 +70,7 @@ For this new asset record, the application can’t automatically determine the *
     The closed asset remediation task isn’t listed on the Open asset remediation tasks list.
 
 
-**Parent Topic:**[Create and manage enterprise asset inventory](../concept/managing-enterprise-asset-inventory.md)
+**Parent Topic:**[Create and manage enterprise asset inventory](managing-enterprise-asset-inventory.md)
 
 **Related topics**  
 

@@ -65,7 +65,7 @@ Role required: sn\_align\_core.ap\_read\_only
 
 Share the free-form roadmap with your stakeholders to start collaborating on the free-form roadmap. See [Share a free-form roadmap with stakeholders](share-a-roadmap-with-stakeholders.md).
 
-**Parent Topic:**[Managing free-form roadmap views](../concept/managing-free-form-roadmap-views-spw.md)
+**Parent Topic:**[Managing free-form roadmap views](managing-free-form-roadmap-views-spw.md)
 
 **Related topics**  
 

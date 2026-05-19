@@ -23,7 +23,7 @@ Role required: sn\_hr\_wfo.admin
 
 -   Adherence is a metric to analyze how closely agents follow their schedule in completing the work assignments. Conformance measures the work completed, regardless of when it was completed.
 -   A high adherence rate indicates that agents are sticking to their schedules and offering customer service when expected. Low adherence suggests changing the processes or decisions to manage the team efficiently. The numbers are highlighted in red for non-adherent agents.
--   Schedule adherence and conformance calculations are based on the formulas, agents' actual and planned work timings. The following are the default formulas that are used to calculate adherence and conformance for agents. However, your administrator can change the [formulas](../concept/eventy-type-extension-points-wfo-hr.md), as required. The following components and formulas are used to calculate adherence and conformance:
+-   Schedule adherence and conformance calculations are based on the formulas, agents' actual and planned work timings. The following are the default formulas that are used to calculate adherence and conformance for agents. However, your administrator can change the [formulas](eventy-type-extension-points-wfo-hr.md), as required. The following components and formulas are used to calculate adherence and conformance:
     -   The **shift\_planning\_clock-in** and **shift\_planning\_clock-out** scripts generate the agents' clock-in and clock-out events from the login and logout sessions. The business rule **Agent Time Work Event Trigger** generates clock-in and clock-out events whenever there is a change in agent's presence state.
     -   **Schedule Adherence**= \(Minutes worked in shift/Scheduled shift time in minutes + Overtime\)
     -   **Conformance**= \(Minutes worked in shift + Overtime\)/Scheduled shift time in minutes
@@ -70,5 +70,5 @@ Example: A clock-in event gets generated when an agent logs in or changes the pr
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
 

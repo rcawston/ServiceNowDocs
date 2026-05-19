@@ -35,5 +35,5 @@ Role required: none
     |**To see the location of the space or user on the floor plan**|Tap the pin ![pin icon](../image/PinIcon.png) icon, beside the link for the user or space.|
 
 
-**Parent Topic:**[Interactive facility maps](../concept/c_InteractiveFacilityMaps.md)
+**Parent Topic:**[Interactive facility maps](c_InteractiveFacilityMaps.md)
 

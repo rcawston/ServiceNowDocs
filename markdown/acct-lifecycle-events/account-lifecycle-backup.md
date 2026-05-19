@@ -43,5 +43,5 @@ Data present in the staging table backed up if:
 
 A CSV file is created and attached to the import task. The file name includes the name of the staging file and the creation date in the format `stagingTable-dateCreated.csv`.
 
-**Parent Topic:**[Account onboarding](../concept/account-lifecycle-configure.md)
+**Parent Topic:**[Account onboarding](account-lifecycle-configure.md)
 

@@ -26,11 +26,11 @@ When you accept a chat, an interaction record is automatically created and captu
 **Related topics**  
 
 
-[Activate Agent Chat and load demo data](../task/load-demo-agent-chat.md)
+[Activate Agent Chat and load demo data](load-demo-agent-chat.md)
 
 [Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)
 
 [Using Advanced Work Assignment for Supplier Lifecycle Operations](use-awa-slm.md)
 
-[Activate Agent Chat and load demo data](../task/load-demo-agent-chat.md)
+[Activate Agent Chat and load demo data](load-demo-agent-chat.md)
 

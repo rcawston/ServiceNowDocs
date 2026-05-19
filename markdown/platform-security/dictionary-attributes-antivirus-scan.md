@@ -15,7 +15,7 @@ Dictionary attributes alter the behavior of the table or element that the dictio
 
 |Name|Value|Target element|Description|
 |----|-----|--------------|-----------|
-|Exclude\_from\_antivirus\_scan|true/false|any table|If true, file attachments on the table are excluded from the antivirus scan. See [Configuring Antivirus Scanning](../task/configure-antivirus-protection.md)|
+|Exclude\_from\_antivirus\_scan|true/false|any table|If true, file attachments on the table are excluded from the antivirus scan. See [Configuring Antivirus Scanning](configure-antivirus-protection.md)|
 |Supress\_antivirus\_email\_notification|true/false|any table|If true, stops sending Platform-generated email notifications when a potentiality-infected file is identified.|
 |Suppress\_antivirus\_ui\_notification|true/false|any table|If true, stops Platform-generated UI notifications when a potentially-infected file is identified.|
 

@@ -19,7 +19,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-The Sightings Search capability has a flow, [Security Operations Integration - Sightings Search Flow](../../security-operations-integrations/task/secops-integration-sightings-search-workflow.md), that executes the sightings search. This flow accepts a list of observables, finds any implementing capabilities, creates the queries based on Sightings Search Configurations, and executes the searches based on the configured flow.
+The Sightings Search capability has a flow, [Security Operations Integration - Sightings Search Flow](secops-integration-sightings-search-workflow.md), that executes the sightings search. This flow accepts a list of observables, finds any implementing capabilities, creates the queries based on Sightings Search Configurations, and executes the searches based on the configured flow.
 
 **Note:** An active implementation must be configured. Sightings Search supports Elasticsearch, Splunk, McAfee ESM, HPE ArcSight Logger, and QRadar incident enrichment. If no implementations are available, capability actions, such as **Run Sightings Search**, are not displayed in product menus.
 
@@ -91,5 +91,5 @@ Range of dates to search. Default dates are:-   The date and time the incident w
     |Updated|Date and time of the last modification.|
 
 
-**Parent Topic:**[Create sightings search configuration records](../../security-incident-response/task/sightings-search-configurations.md)
+**Parent Topic:**[Create sightings search configuration records](sightings-search-configurations.md)
 

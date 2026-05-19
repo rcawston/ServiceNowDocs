@@ -17,15 +17,15 @@ Use Twilio to schedule conference calls with stakeholders to resolve incidents i
 
 Ensure that Twilio is configured to make conference calls from Service Operations Workspace. To configure Twilio, refer [Configure Notify with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md).
 
--   **[Start and end a conference call from Twilio in Service Operations Workspace](../task/start-conference-call-telephony.md)**  
+-   **[Start and end a conference call from Twilio in Service Operations Workspace](start-conference-call-telephony.md)**  
 Start a conference call using Twilio to collaborate with others to work toward the resolution of an incident. End the call when the discussion is over.
--   **[Join or leave a conference call from Twilio in Service Operations Workspace](../task/join-conference-call-telephony.md)**  
+-   **[Join or leave a conference call from Twilio in Service Operations Workspace](join-conference-call-telephony.md)**  
 Join an existing Twilio conference call to participate in a discussion to resolve an incident. You can leave the call without affecting other participants.
--   **[Administer an existing Twilio call in Service Operations Workspace](../task/add-participants-conference-call-telephony.md)**  
+-   **[Administer an existing Twilio call in Service Operations Workspace](add-participants-conference-call-telephony.md)**  
 Add or mute participants in a Twilio conference call.
--   **[Reinitiate a conference call from Twilio in Service Operations Workspace](../task/reinitiate-conference-call-telephony.md)**  
+-   **[Reinitiate a conference call from Twilio in Service Operations Workspace](reinitiate-conference-call-telephony.md)**  
 Reinitiate a Twilio conference call that was ended to discuss about the resolution of an incident.
--   **[View a conference call recording from Twilio in Service Operations Workspace](../task/view-call-recording-twilio-sow.md)**  
+-   **[View a conference call recording from Twilio in Service Operations Workspace](view-call-recording-twilio-sow.md)**  
 View details for a recorded conference call in Service Operations Workspace by accessing the associated conference record as a reference.
 
 **Parent Topic:**[Notify in Service Operations Workspace](notify-sow.md)

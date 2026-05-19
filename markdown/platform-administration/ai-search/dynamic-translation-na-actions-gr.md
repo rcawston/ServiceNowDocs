@@ -25,7 +25,7 @@ Dynamic Translation expands the range of languages supported by Now Assist Actio
 |Search translation|The Now LLM Service automatically translates non-English searches into English and uses the translated search to find Catalog Items and Virtual Agent topics for inclusion in Now Assist Actions Genius Result answers.|
 |Answer translation|When you search in a non-English language, the Now LLM Service automatically translates Now Assist Actions Genius Result answers into your search language. The Genius Result answer card displays the translated text.|
 
-To read more about the capabilities of Dynamic Translation and learn how to activate it, see [Dynamic Translation](../../dynamic-translation/concept/dynamic-translation-overview.md).
+To read more about the capabilities of Dynamic Translation and learn how to activate it, see [Dynamic Translation](../dynamic-translation/dynamic-translation-overview.md).
 
 ## Languages supported
 

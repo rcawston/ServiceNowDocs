@@ -22,7 +22,7 @@ ServiceNow AI Lens is supported from Yokohama Patch 6 and Zurich Patch 1.
 
 ## Supported user interfaces
 
-To scan artifacts such as images, scanned handwritten notes, Excel sheets, web pages using Now Assist, enable the ServiceNow AI Lens application and then activate the ServiceNow AI Lens skill. For more information, see [Configure ServiceNow AI Lens](../task/install-sn-lens.md).
+To scan artifacts such as images, scanned handwritten notes, Excel sheets, web pages using Now Assist, enable the ServiceNow AI Lens application and then activate the ServiceNow AI Lens skill. For more information, see [Configure ServiceNow AI Lens](install-sn-lens.md).
 
 The ServiceNow AI Lens application includes the skills that are listed in the following table.
 

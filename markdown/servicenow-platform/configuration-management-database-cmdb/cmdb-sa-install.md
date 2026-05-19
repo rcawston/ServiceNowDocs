@@ -30,7 +30,7 @@ The following items are installed with CMDB success advisor:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with CMDB success advisor](../reference/cmdb-sa-components-installed.md).
+For more information, see [Components installed with CMDB success advisor](cmdb-sa-components-installed.md).
 
 ## Procedure
 

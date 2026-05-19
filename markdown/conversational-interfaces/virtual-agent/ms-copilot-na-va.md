@@ -34,17 +34,17 @@ The default Conversational Integration with Microsoft Teams plugin \(sn\_va\_tea
     -   Before the integration, make sure that Copilot is enabled on your Microsoft Teams tenant.
     -   No configuration changes are required on your ServiceNow instance to integrate with Microsoft Copilot.
     -   There are no additional configurations required for Copilot.
--   The Now Assist license and verify that the Now Assist in Virtual Agent is configured. For more information, see [Configuring assistants overview](../../now-assist-in-va/task/configure-now-assist-va.md).
+-   The Now Assist license and verify that the Now Assist in Virtual Agent is configured. For more information, see [Configuring assistants overview](../now-assist-in-virtual-agent/configure-now-assist-va.md).
 -   Enable the teams bot \(the Now Virtual Agent bot or the Self-configured bot, which you would like to use for Copilot integration\) for the Now Assist Conversations in the **All** &gt; **Conversational Interfaces** &gt; **Assistants** &gt; **Display experience** &gt; **Channels** section.
 
-    For more information, see [Configuring assistants overview](../../now-assist-in-va/task/configure-now-assist-va.md).
+    For more information, see [Configuring assistants overview](../now-assist-in-virtual-agent/configure-now-assist-va.md).
 
 
 ## Integrate Microsoft Copilot with Now Virtual Agent bot
 
 If you're using the default Now Virtual Agent bot, no additional setup is required. The process of integrating the Now Virtual Agent bot with Microsoft Copilot is similar to that of integrating the Now Virtual Agent bot with Microsoft Teams.
 
-For more information, see [Integrate Virtual Agent with Microsoft Teams](../task/va-integ-msteams.md).
+For more information, see [Integrate Virtual Agent with Microsoft Teams](va-integ-msteams.md).
 
 To interact with the Now Virtual Agent bot within Copilot, you can either @-mention the bot name and invoke it or navigate to the Agents section on the right panel within Copilot to select it for direct interaction.
 

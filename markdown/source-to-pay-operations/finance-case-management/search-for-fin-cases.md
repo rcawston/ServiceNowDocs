@@ -34,5 +34,5 @@ Role required: sn\_fin\_ops.specialist
 
 The search results show the finance case, if it exists.
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](using-fin-case-mgmt-workspace.md)
 

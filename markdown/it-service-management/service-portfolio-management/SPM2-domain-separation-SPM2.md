@@ -29,7 +29,7 @@ For more information on support levels, see [Application support for domain sepa
 
 \*All components of Service Portfolio Management \(SPM\) and Service Owner Workspace \(SOW\) are domain-separated in releases of New York and forward. If using Financial Management for the SPM plugin for estimated spend, there can be only one fiscal calendar defined per instance. When this plugin is activated, there can be only one approach for service offering cost modeling per instance \(using either the Financial Management engine or local data. Different domains cannot choose their own spend model.
 
-**Parent Topic:**[Service Portfolio Management reference](../reference/SPM2-reference.md)
+**Parent Topic:**[Service Portfolio Management reference](SPM2-reference.md)
 
 **Related topics**  
 

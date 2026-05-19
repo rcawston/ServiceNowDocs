@@ -28,5 +28,5 @@ Role required: none
 3.  Select the version and select **Submit Version**.
 
 
-**Parent Topic:**[Document approval and publish process](../concept/document-review-approval.md)
+**Parent Topic:**[Document approval and publish process](document-review-approval.md)
 

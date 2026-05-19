@@ -43,6 +43,6 @@ Role required: sn\_audit.admin, sn\_audit.manager, sn\_grc\_workspace.user
 
     The reference cloud file that is already associated to other GRC records is now linked. After the file is connected to Microsoft, the auditor or engagement lead gets read or write access based on the defined access permissions.
 
-    For information on File access permissions, see [Create Cloud File Access on engagements and audit tasks](../concept/document-access-configuration.md).
+    For information on File access permissions, see [Create Cloud File Access on engagements and audit tasks](document-access-configuration.md).
 
 

@@ -30,7 +30,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [List Applicability form](../reference/list-applicability-form.md).
+    For field information, see [List Applicability form](list-applicability-form.md).
 
 4.  Select **Submit**.
 

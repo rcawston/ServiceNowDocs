@@ -29,5 +29,5 @@ If the cursor is adjacent to a text string, the system searches for script eleme
 
 Context-sensitive suggestions are based on script type. For example, when working on a business rule, only suggestions from the server API and for objects such as **current** and **previous** display. When working on a client script, the system only displays suggestions from the client API.
 
-**Parent Topic:**[Server-side scripting](../../server-scripting/concept/c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
 

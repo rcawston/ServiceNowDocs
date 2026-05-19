@@ -31,7 +31,7 @@ Benefits and uses of the Mobile App Builder include the following:
 
 Mobile App Builder \(MAB\) is automatically installed on your instance with the base system plugin sn\_mab. Starting in version 22.6, when there is a new version of the plugin, a banner appears at the top of the MAB screen indicating a new version is available. Select **Update** in the banner to install the new version.
 
-For more information about the MAB plugin and its associated plugins for the Mobile App Builder API and Mobile Card Builder, see [Mobile plugins](../reference/sg-mobile-plugins.md).
+For more information about the MAB plugin and its associated plugins for the Mobile App Builder API and Mobile Card Builder, see [Mobile plugins](sg-mobile-plugins.md).
 
 ## Mobile App Builder workflow
 

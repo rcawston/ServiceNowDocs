@@ -39,5 +39,5 @@ Role required: sn\_wsd\_core.workplace\_user
     -   If you found the article useful, Select **Yes**. If not, select **No**.
     -   Leave a comment about the article and select **Submit**. You can also attach files.
 
-**Parent Topic:**[Workplace knowledge management](../concept/workplace-knowledge-mgmt-wsd.md)
+**Parent Topic:**[Workplace knowledge management](workplace-knowledge-mgmt-wsd.md)
 

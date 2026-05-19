@@ -25,7 +25,7 @@ When you change the **State** field on the Project form to **Work in Progress**,
 
 You can create a project from the Projects list or from the Project Workspace. You must have the Agile Development 2.0 plugin to create an Agile or Hybrid project and the Test Management plugin to create a test phase for your project.
 
-**Note:** You can also create a project from the [demand workbench](../../planning-and-policy/task/t_CrtArtftDmdMnu.md).
+**Note:** You can also create a project from the [demand workbench](../demand-management/t_CrtArtftDmdMnu.md).
 
 After you start the project:
 
@@ -36,7 +36,7 @@ After you start the project:
     **Note:** Once a project is in the **Work in Progress** state, it does not mean that the state of every task will start updating automatically based on planned start date. Other than the project tasks that you schedule to start **ASAP** when the project starts, project tasks are not started automatically. Continue to manage the project and change the state of each task to **Work in Progress**.
 
 
-You can also use the multi-currency feature to create a project in a local currency different from your functional currency. You must enable the PPM Standard Multicurrency plugin \(com.snc.ppm\_multicurrency\) and switch to the Project Currency view for the additional fields in the **Financials** tab of the Project form. For more information, see [Multi-currency in project financials](../../project-portfolio-suite-with-financials/concept/multicurrency-pps.md).
+You can also use the multi-currency feature to create a project in a local currency different from your functional currency. You must enable the PPM Standard Multicurrency plugin \(com.snc.ppm\_multicurrency\) and switch to the Project Currency view for the additional fields in the **Financials** tab of the Project form. For more information, see [Multi-currency in project financials](multicurrency-pps.md).
 
 ## Procedure
 
@@ -93,7 +93,7 @@ Create a cost plan to specify the unit cost of a cost type for a fiscal period. 
 Recalculate the resource costs of all resource plans in a project whenever the hourly rates change in the associated rate model so that the plan costs are up to date.
 -   **[Create an expense line](t_CreateAExpenseLine.md)**  
 A project expense line is cost associated with a specific source, such as a user, fixed asset, or a CI. Expense lines are part of project cost plans.
--   **[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)**  
+-   **[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)**  
 Plan, create, and manage projects using the Waterfall methodology.
 -   **[Schedule a project from a start date](schedule-a-project-pm.md)**  
 Schedule a project from a start date and plan tasks and milestones based on your project requirements.
@@ -115,7 +115,7 @@ The following email notifications for the Project Management application are ava
 Adjust the schedule of a project by changing the planned start date of a project and shifting it later or earlier than the current planned schedule.
 -   **[Create a cost type definition](t_CreateAResourceTypeDefinition.md)**  
 Create a cost type definition to associate a cost type, operating, or capital, to an account in the General Ledger from the Financial Management application. Create a cost type definition if you are using Project Portfolio Management with Financials.
--   **[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)**  
+-   **[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)**  
 The Project Management costing add-on connects the Project Management application to the Cost Management application to allow for estimating and tracking the costs associated with projects.
 -   **[Generate labor costs](gen-cost-pln-prj-wrkspc.md)**  
 Generate labor costs based on the planning attributes configured for financials in the planning attributes page for the resource assignments in a project.
@@ -128,7 +128,7 @@ Migrate the project budget to Next Experience to manage the financials using Pro
 -   **[Migrate financial baselines of projects to Next Experience](migrate-fin-baselines-projects.md)**  
 Migrate the financial baselines of your project to Next Experience to manage the financial using Project Workspace.
 
-**Parent Topic:**[Using Project Management](../concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 
 **Related topics**  
 
@@ -137,5 +137,5 @@ Migrate the financial baselines of your project to Next Experience to manage the
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
-[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+[Project Portfolio Management](../ppm-collaboration/c_ProjectPortfolioSuite.md)
 

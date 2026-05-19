@@ -67,7 +67,7 @@ Starting Page
 </td><td>
 
 Select the page that the tour starts on:-   If your tour type is Standard UI, your choices include pages that show lists and forms.
--   If your tour type is [Service Portal](../../service-portal/concept/c_ServicePortal.md), your choices include [Service Portal](../../service-portal/concept/c_ServicePortal.md) pages.
+-   If your tour type is [Service Portal](../service-portal/c_ServicePortal.md), your choices include [Service Portal](../service-portal/c_ServicePortal.md) pages.
 
 **Note:** In the base system, you can only launch tours from pages that use the SP Header Menu. Manually launched tours do not display on pages with custom header menus.
 
@@ -132,7 +132,7 @@ Select the roles that can access the guided tour and move them from the Availabl
 
         You can change the direction of the callout by selecting the correct option under **Placement**. Only the placement options applicable to the selected element are enabled.
 
-    3.  [Select the trigger](../reference/guided-tour-triggers.md) from the **Choose action** list. Only triggers applicable to the selected element appears in the list.
+    3.  [Select the trigger](guided-tour-triggers.md) from the **Choose action** list. Only triggers applicable to the selected element appears in the list.
 
         ![Callout trigger](../image/guided-tour-delegate-callout-london.png)
 
@@ -186,5 +186,5 @@ The guided tour is created and listed in the Help Center. Each guided tour is al
 **Related topics**  
 
 
-[Exploring Guided Tours](../concept/exploring-guided-tours.md)
+[Exploring Guided Tours](exploring-guided-tours.md)
 

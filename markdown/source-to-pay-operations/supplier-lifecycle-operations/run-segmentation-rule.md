@@ -40,12 +40,12 @@ Running the segmentation rule does the following:
 
 **Note:** If the number of suppliers to be processed in the segmentation rule is too large, it may lead to a risk of a timeout.
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 **Related topics**  
 
 
-[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 [Complete a KPI collection task from the Source-to-Pay Workspace](complete-kpi-task-spw.md)
 

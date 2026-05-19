@@ -42,5 +42,5 @@ The quote must be in an Active state and the quote state must be set to Complete
     The **Order Line Item** view displays the order line items, pricing adjustments, and order tasks.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

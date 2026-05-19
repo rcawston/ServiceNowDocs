@@ -22,9 +22,9 @@ The add-on is installed from [Splunkbase.](https://splunkbase.splunk.com/)
 **Related topics**  
 
 
-[Setup Splunk environment](../task/setup-chg-instance.md)
+[Setup Splunk environment](setup-chg-instance.md)
 
-[Configure Application Registry on the ServiceNow instance](../task/configure-application-registry-splunk.md)
+[Configure Application Registry on the ServiceNow instance](configure-application-registry-splunk.md)
 
-[Using ServiceNow Security Operations Integration add-on](../task/using-sn-secops-int-addon.md)
+[Using ServiceNow Security Operations Integration add-on](using-sn-secops-int-addon.md)
 

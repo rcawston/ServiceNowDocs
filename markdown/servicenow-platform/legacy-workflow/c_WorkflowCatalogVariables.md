@@ -21,7 +21,7 @@ The inputs into this workflow are essentially question:answer pairings that, whe
 
 For the purposes of Service Catalog and workflow, a variable’s scope determines its availability to a catalog task activity within a workflow. You can define variables as global or catalog item-specific. When a variable is associated to a catalog item and the workflow generating the catalog task is associated to the catalog item, the variable scope determines which variables are available for mapping within the catalog task activity in a workflow. If a workflow is associated with Requested Item \[sc\_request\_item\], and is not specifically associated with a catalog item, any catalog variable with a blank Cat Item field value is available to all catalog task activities within the workflow.
 
-**Parent Topic:**[Workflow management](../../workflow-administration/concept/managing-workflows.md)
+**Parent Topic:**[Workflow management](managing-workflows.md)
 
 ## Declaration
 

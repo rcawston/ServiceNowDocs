@@ -15,9 +15,9 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The OCRotation script include provides methods to build a data structure that is used to display a calendar.
 
-The code builds up the GlideAJAXSchedulePage object which stores a list of span items. You can use this type for the Gwt \(legacy\) calendar. See the [OCRotationV2 - Global](../../OCRotationV2/Concept/c_OCRotationV2.md#) script include for other calender types. This is part of On-Call Scheduling.
+The code builds up the GlideAJAXSchedulePage object which stores a list of span items. You can use this type for the Gwt \(legacy\) calendar. See the [OCRotationV2 - Global](c_OCRotationV2.md#) script include for other calender types. This is part of On-Call Scheduling.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## OCRotation - buildRotas\(\)
 
@@ -34,7 +34,7 @@ Builds the on-call coverage based on your groups, rotas, and rosters. This is us
 **Related topics**  
 
 
-[OCRotationV2 - getSpans\(\)](../../OCRotationV2/Concept/c_OCRotationV2.md#)
+[OCRotationV2 - getSpans\(\)](c_OCRotationV2.md#)
 
 ## OCRotation - getEndDate\(\)
 
@@ -151,7 +151,7 @@ Set the end date for the time period for which you want to retrieve on-call cove
 **Related topics**  
 
 
-[OCRotationV2 - getSpans\(\)](../../OCRotationV2/Concept/c_OCRotationV2.md#)
+[OCRotationV2 - getSpans\(\)](c_OCRotationV2.md#)
 
 ## OCRotation - setGroupIds\(String groupIds\)
 
@@ -168,7 +168,7 @@ Filters the schedules return by groups. Set comma separated list of group sys\_i
 **Related topics**  
 
 
-[OCRotationV2 - getSpans\(\)](../../OCRotationV2/Concept/c_OCRotationV2.md#)
+[OCRotationV2 - getSpans\(\)](c_OCRotationV2.md#)
 
 ## OCRotation - setRosterIds\(String rosterIds\)
 
@@ -185,7 +185,7 @@ Sets the rosters according to the selected rotas. Use in conjunction with OCRota
 **Related topics**  
 
 
-[OCRotationV2 - getSpans\(\)](../../OCRotationV2/Concept/c_OCRotationV2.md#)
+[OCRotationV2 - getSpans\(\)](c_OCRotationV2.md#)
 
 ## OCRotation - setRotaIds\(String rotaIds\)
 
@@ -202,7 +202,7 @@ Sets the rotas for the groups on your calendar. Use in conjunction with OCRotati
 **Related topics**  
 
 
-[OCRotationV2 - getSpans\(\)](../../OCRotationV2/Concept/c_OCRotationV2.md#)
+[OCRotationV2 - getSpans\(\)](c_OCRotationV2.md#)
 
 ## OCRotation - setStartDate\(String startDate\)
 
@@ -219,7 +219,7 @@ Sets the start date for the time period for which you want to retrieve on-call c
 **Related topics**  
 
 
-[OCRotationV2 - getSpans\(\)](../../OCRotationV2/Concept/c_OCRotationV2.md#)
+[OCRotationV2 - getSpans\(\)](c_OCRotationV2.md#)
 
 ## OCRotation - setTimezone\(String timezone\)
 
@@ -236,7 +236,7 @@ Sets the timezone that your on-call calendar will use. Use in conjunction with O
 **Related topics**  
 
 
-[OCRotationV2 - getSpans\(\)](../../OCRotationV2/Concept/c_OCRotationV2.md#)
+[OCRotationV2 - getSpans\(\)](c_OCRotationV2.md#)
 
 ## OCRotation - setUserIds\(String userIds\)
 
@@ -253,5 +253,5 @@ Sets comma separated list of user sys\_id \(sys\_user\) values used to filter on
 **Related topics**  
 
 
-[OCRotationV2 - getSpans\(\)](../../OCRotationV2/Concept/c_OCRotationV2.md#)
+[OCRotationV2 - getSpans\(\)](c_OCRotationV2.md#)
 

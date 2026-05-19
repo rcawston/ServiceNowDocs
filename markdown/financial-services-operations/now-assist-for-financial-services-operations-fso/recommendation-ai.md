@@ -65,7 +65,7 @@ This agent reviews past disputes with similar transaction values to recommend an
 
 12. Once the dispute agent selects the appropriate action, the **ACH dispute return recommendation action** is updated with the **Final action** and **Resolution reason**.
 
-    For information about recommendation analysis in ACH disputes, see and [Review ACH dispute return recommendation](../../fso-card-operations/task/fso-ach-review-recommendation.md).
+    For information about recommendation analysis in ACH disputes, see and [Review ACH dispute return recommendation](../dispute-management/fso-ach-review-recommendation.md).
 
 
 ## Result

@@ -139,5 +139,5 @@ Subflow that is run to determine if the exception exists for a given invoice.
 
 [Approval Plan form](approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

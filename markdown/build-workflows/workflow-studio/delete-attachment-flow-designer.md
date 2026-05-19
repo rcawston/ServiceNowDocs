@@ -64,5 +64,5 @@ Delete All Attachments?
 Select to delete all attachments associated with the selected record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+</table>**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

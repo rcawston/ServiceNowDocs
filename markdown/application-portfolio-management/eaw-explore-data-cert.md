@@ -13,24 +13,24 @@ breadcrumb: [Exploring Enterprise Architecture Workspace, Enterprise Architectur
 
 Data certification is a governance process that ensures the accuracy, completeness, and reliability of critical data within an organization. It is essential for data integrity, compliance, decision-making, and risk reduction. Ensures accurate data for application portfolio decisions. Certified data strengthens enterprise modeling and visualization.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 **Related topics**  
 
 
 [Working with data certification](eaw-work-with-data-cert.md)
 
-[Create a certification policy](../../task/eaw-task/eaw-create-policy.md)
+[Create a certification policy](eaw-create-policy.md)
 
-[Edit a certification policy](../../task/eaw-task/eaw-data-cert-edit-policy.md)
+[Edit a certification policy](eaw-data-cert-edit-policy.md)
 
-[Run certification for a policy](../../task/eaw-task/eaw-data-cert-run-certification.md)
+[Run certification for a policy](eaw-data-cert-run-certification.md)
 
-[Track progress of a certification policy](../../task/eaw-task/eaw-data-cert-track-progress.md)
+[Track progress of a certification policy](eaw-data-cert-track-progress.md)
 
-[Activate a certification policy](../../task/eaw-task/eaw-data-cert-activate.md)
+[Activate a certification policy](eaw-data-cert-activate.md)
 
-[Delete a certification policy](../../task/eaw-task/eaw-delete-data-cert.md)
+[Delete a certification policy](eaw-delete-data-cert.md)
 
-[Deactivate a certification policy](../../task/eaw-task/eaw-data-cert-deactivate.md)
+[Deactivate a certification policy](eaw-data-cert-deactivate.md)
 

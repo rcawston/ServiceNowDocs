@@ -87,5 +87,5 @@ Reassign an **Assessment type** case task to another user. A case analyst or a c
 -   **[Review and close a case task](review-a-case-task.md)**  
 Review a case task after a case task owner provides their responses and observations for the case.
 
-**Parent Topic:**[Case task workflow](../concept/case-task-workflow.md)
+**Parent Topic:**[Case task workflow](case-task-workflow.md)
 

@@ -56,7 +56,7 @@ Configure the relevant questions in this manner.
     Once you select sourcing checkout, shoppers can view, select, and provide relevant information associated with the procurement of the product or service.
 
 
-**Parent Topic:**[Sourcing checkout](../concept/sourcing-checkout.md)
+**Parent Topic:**[Sourcing checkout](sourcing-checkout.md)
 
 **Related topics**  
 

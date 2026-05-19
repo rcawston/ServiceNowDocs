@@ -26,20 +26,20 @@ When transfer order line stages change for non-consumables, it affects asset sub
 -   **[Transfer order line asset tracking consumables](r_TrsferOrderLneAssetTrackConsum.md)**  
 When a consumable is added to a transfer order line, the stock for the consumable is split into two records and the transfer order links to the newly created stock line.
 
-**Parent Topic:**[Manage transfer order](../concept/manage-transfer-orders.md)
+**Parent Topic:**[Manage transfer order](manage-transfer-orders.md)
 
 **Related topics**  
 
 
-[Transfer order flow](../concept/transfer-order-flows.md)
+[Transfer order flow](transfer-order-flows.md)
 
-[Transfer order tasks](../concept/work-with-transfer-orders.md)
+[Transfer order tasks](work-with-transfer-orders.md)
 
-[Customize transfer order line tasks](../concept/customize-transfer-order-line-tasks.md)
+[Customize transfer order line tasks](customize-transfer-order-line-tasks.md)
 
-[Delete a transfer order](../task/t_DeleteATransferOrder.md)
+[Delete a transfer order](t_DeleteATransferOrder.md)
 
-[Delete a transfer order line](../task/t_DeleteATransferOrderLine.md)
+[Delete a transfer order line](t_DeleteATransferOrderLine.md)
 
-[Return items received in a transfer order](../task/t_ReturnItemsRecInXferOrder.md)
+[Return items received in a transfer order](t_ReturnItemsRecInXferOrder.md)
 

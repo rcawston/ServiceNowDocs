@@ -109,7 +109,7 @@ Manage \[Create and update\]
 Cloud admins must map templates to appropriate resource profiles. To collaborate or reuse existing resource profiles and templates.
 
 </td></tr></tbody>
-</table>-   **[Assign a cloud permission](../task/create-permissions.md)**  
+</table>-   **[Assign a cloud permission](create-permissions.md)**  
 Assign a permission to refine the actions that are allowed or prohibited for users based on the user group they belong to.
 
 **Parent Topic:**[Cloud Admin Portal](cloud-admin-portal.md)

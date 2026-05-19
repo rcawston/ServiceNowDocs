@@ -42,5 +42,5 @@ You can delete controls if the control objectives associated with those controls
 
 The selected controls are deleted from the processing activity.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

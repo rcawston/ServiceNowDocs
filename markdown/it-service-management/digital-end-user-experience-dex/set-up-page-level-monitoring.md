@@ -111,7 +111,7 @@ Check box to initiate monitoring the page.This check box is selected by default.
 
 ## Result
 
-When the metrics for the page are collected, you can see them from the Metrics analyzer. See [View collected metrics with Metrics analyzer](../task/view-dex-metrics.md) for more details.
+When the metrics for the page are collected, you can see them from the Metrics analyzer. See [View collected metrics with Metrics analyzer](view-dex-metrics.md) for more details.
 
 **Parent Topic:**[DEX application monitoring](dex-application-monitoring.md)
 

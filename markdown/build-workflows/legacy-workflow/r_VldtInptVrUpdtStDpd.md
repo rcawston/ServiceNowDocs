@@ -27,13 +27,13 @@ The **ValidateInputVarUpdateSetDependencies** validator examines update sets to 
 -   Suggested Action: If the deletion is not intended to be separate from the workflow, ensure that both update sets are committed concurrently to the new instance, or merge both payloads into a single update set.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow movement with update sets](../../workflow-administration/concept/c_WorkflowMovementWithUpdateSets.md#)
+-   Related Information: [Workflow movement with update sets](c_WorkflowMovementWithUpdateSets.md#)
 
 ## Troubleshooting
 
 Workflow input variables get individual entries in the **Customer Update** related list in the current user's update set. This validator reports to the user when workflow input deletions have happened in an update set other than the current user's update set.
 
-Follow the instructions for [Input variable removal](../../workflow-administration/concept/c_InputVariableRemoval.md#) when the validator issues this warning.
+Follow the instructions for [Input variable removal](c_InputVariableRemoval.md#) when the validator issues this warning.
 
 **Parent Topic:**[Workflow validator](r_WorkflowValidator.md)
 

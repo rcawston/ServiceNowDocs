@@ -38,7 +38,7 @@ State alignment between SPO PO records and ITAM PO follows the mappings in this 
 |POL|Payment Pending|Received|
 |POL|Processing|Ordered|
 
-**Parent Topic:**[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+**Parent Topic:**[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
 **Related topics**  
 

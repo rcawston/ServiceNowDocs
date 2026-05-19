@@ -32,7 +32,7 @@ The layout of Backlog across different team levels such as Agile Team, Agile Rel
 
 Any work item that doesn't fall into any of these groups is displayed in the Backlog section.
 
-By default, the number of iterations that the Backlog page displays is set to 6. You can work with your admin to modify this number using a system property. For more information, see [Configure the display limit of iterations in EAP Backlog](../task/configure-the-display-limit-of-iterations-in-eap-backlog.md).
+By default, the number of iterations that the Backlog page displays is set to 6. You can work with your admin to modify this number using a system property. For more information, see [Configure the display limit of iterations in EAP Backlog](configure-the-display-limit-of-iterations-in-eap-backlog.md).
 
 ## Layout and default grouping for Kanban teams
 
@@ -54,7 +54,7 @@ For example, in the screenshot, **Capability** is the default item type mapped t
 
 View the details of any work item in the side panel by selecting its primary column. To access all the fields and related lists of the work item, select **Full details** from the side panel.
 
-**Note:** The Backlog page for an EAP team shows only those work items that are enabled in its default configuration. For example, for an ART with Full Configuration, the Backlog might show only Features by default. If you want to view other work item types such as Capabilities, Epics, or Stories, work with your admin to update the required EAP configuration details. For more information, see [Configure display of other work item types in EAP Backlog and Planning board](../task/configure-other-work-item-types-for-eap-teams-in-backlog-and-planning-board.md).
+**Note:** The Backlog page for an EAP team shows only those work items that are enabled in its default configuration. For example, for an ART with Full Configuration, the Backlog might show only Features by default. If you want to view other work item types such as Capabilities, Epics, or Stories, work with your admin to update the required EAP configuration details. For more information, see [Configure display of other work item types in EAP Backlog and Planning board](configure-other-work-item-types-for-eap-teams-in-backlog-and-planning-board.md).
 
 ## Column-level filtering of data
 
@@ -82,33 +82,33 @@ Within the Backlog, you can perform the following actions:
 
 Use the following tasks to start creating and scheduling work for teams in EAP.
 
--   **[Create next PI and Sprint from EAP Backlog](../task/create-pi-sprint-eap-backlog.md)**  
+-   **[Create next PI and Sprint from EAP Backlog](create-pi-sprint-eap-backlog.md)**  
 Create iterations of Planning Intervals \(PI\) and Sprints so that teams can start prioritizing and scheduling their work from the Backlog in Enterprise Agile Planning \(EAP\).
--   **[Update iteration details in EAP](../task/edit-pi-sprint-iteration-details-in-eap.md)**  
+-   **[Update iteration details in EAP](edit-pi-sprint-iteration-details-in-eap.md)**  
 Edit details of a PI or a Sprint to update details such as name, team capacity, committed points.
--   **[Create work items for teams in EAP Backlog](../task/create-work-items-for-teams-in-eap-backlog.md)**  
+-   **[Create work items for teams in EAP Backlog](create-work-items-for-teams-in-eap-backlog.md)**  
 Create stories, features, epics, or capabilities for teams to add work to their backlog in Enterprise Agile Planning.
--   **[Breakdown work from parent work item into child items in EAP](../task/breakdown-work-eap-epics-capabilities-child-work.md)**  
+-   **[Breakdown work from parent work item into child items in EAP](breakdown-work-eap-epics-capabilities-child-work.md)**  
 Streamline breaking down work by creating child work items directly from the parent record page in Enterprise Agile Planning workspace.
--   **[Create stories for work items in EAP](../task/create-single-or-multiple-child-items-for-epic-in-eap.md)**  
+-   **[Create stories for work items in EAP](create-single-or-multiple-child-items-for-epic-in-eap.md)**  
 Create stories directly from a work item's form. Create them manually or save time by generating them using Now Assist in the Enterprise Agile Planning \(EAP\) workspace.
--   **[Assess the status of an epic using Now Assist for Strategic Portfolio Management \(SPM\)](../../now-assist-spm/task/assess-epic-status-now-assist-eap.md)**  
+-   **[Assess the status of an epic using Now Assist for Strategic Portfolio Management \(SPM\)](assess-epic-status-now-assist-eap.md)**  
 Use the Epic status assessment skill to evaluate epic health across six risk dimensions in Enterprise Agile Planning \(EAP\). Now Assist returns a red, yellow, or green health status with plain-English reasoning, giving portfolio managers a consolidated view of epic risks.
--   **[Generate a story from an epic using Now Assist for SPM in EAP](../../now-assist-spm/task/generate-stories-quickly-for-eap-and-agile-2-0.md)**  
+-   **[Generate a story from an epic using Now Assist for SPM in EAP](generate-stories-quickly-for-eap-and-agile-2-0.md)**  
 Generate a complete user story directly from an epic using Quick story generation feature in EAP. Provide brief context, and Now Assist generates a story title, description, and acceptance criteria that you can review and edit before saving.
--   **[Generate multiple stories at once in EAP using Now Assist for SPM](../../now-assist-spm/task/generate-stories-from-epics-now-assist-eap.md)**  
+-   **[Generate multiple stories at once in EAP using Now Assist for SPM](generate-stories-from-epics-now-assist-eap.md)**  
 Breakdown epics and features into stories using the Now Assist panel in the Enterprise Agile Planning \(EAP\) workspace. Based on the work item details, Now Assist generates stories.
--   **[Generate acceptance criteria for EAP stories using Now Assist for Strategic Portfolio Management \(SPM\)](../../now-assist-spm/task/eap-generate-acceptance-criteria-for-stories.md)**  
+-   **[Generate acceptance criteria for EAP stories using Now Assist for Strategic Portfolio Management \(SPM\)](eap-generate-acceptance-criteria-for-stories.md)**  
 Create clear, comprehensive, and testable acceptance criteria for user stories without writing them manually in Enterprise Agile Planning \(EAP\). Review and refine suggested options to ensure they meet your requirements.
--   **[Create a copy of work items in EAP Backlog](../task/create-copy-of-work-items-in-eap-backlog.md)**  
+-   **[Create a copy of work items in EAP Backlog](create-copy-of-work-items-in-eap-backlog.md)**  
 For creating work items with details similar to an existing item, save time and effort by creating a copy of the existing item.
--   **[Schedule work items into iterations in EAP Backlog](../task/schedule-work-items-into-iterations-in-eap-backlog.md)**  
+-   **[Schedule work items into iterations in EAP Backlog](schedule-work-items-into-iterations-in-eap-backlog.md)**  
 Perform backlog grooming and schedule work from the team's backlog for the upcoming iteration Enterprise Agile Planning.
--   **[Start or complete iterations in EAP](../task/start-or-complete-iteration-in-eap.md)**  
+-   **[Start or complete iterations in EAP](start-or-complete-iteration-in-eap.md)**  
 Start an iteration of a Sprint or PI so that your team can start working and tracking progress of work, and after your team finishes the assigned work, mark this iteration as complete, directly from the Backlog in Enterprise Agile Planning.
--   **[Add or remove teams from Favorites in EAP](../task/mark-teams-as-favorite-in-eap.md)**  
+-   **[Add or remove teams from Favorites in EAP](mark-teams-as-favorite-in-eap.md)**  
 Add the EAP teams that you frequently work with to Favorites so that you can save time navigating to them in the workspace without searching for them.
--   **[Personalize and filter data in EAP Backlog](../task/personalize-and-filter-data-in-eap-backlog.md)**  
+-   **[Personalize and filter data in EAP Backlog](personalize-and-filter-data-in-eap-backlog.md)**  
 View the information that is most relevant to you and your team on the Backlog tab by choosing the columns to be displayed and applying filters to narrow down the data on the page.
 
 **Parent Topic:**[Using Enterprise Agile Planning](using-enterprise-agile-planning.md)

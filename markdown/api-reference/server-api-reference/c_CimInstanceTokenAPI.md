@@ -17,7 +17,7 @@ The CimInstanceToken script include provides methods to represent the unique que
 
 Use with any server-side discovery script.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CimInstanceToken - getHashToken\(String cimomip\)
 

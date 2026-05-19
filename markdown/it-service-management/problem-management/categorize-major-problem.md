@@ -39,7 +39,7 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Problem Management](../concept/configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](configuring-problem-mgmt.md)
 
 **Previous topic:**[Define an assignment rule for problems](t_DefineAnAssignRuleForPRBs.md)
 

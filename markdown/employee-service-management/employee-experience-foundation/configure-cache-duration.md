@@ -38,5 +38,5 @@ Role required: admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[User Presence Indicator](../concept/user-presence-indicator.md)
+**Parent Topic:**[User Presence Indicator](user-presence-indicator.md)
 

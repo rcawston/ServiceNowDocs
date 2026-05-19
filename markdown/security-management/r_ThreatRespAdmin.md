@@ -17,7 +17,7 @@ The following applications are available under the **Administration** module of 
 
 |Application|Description|
 |-----------|-----------|
-|Properties|Threat Intelligence [properties](../concept/c_GetStartedWithThreatIntel.md#) allow you to control how different aspects of the system function, including the setting of API keys.|
+|Properties|Threat Intelligence [properties](c_GetStartedWithThreatIntel.md#) allow you to control how different aspects of the system function, including the setting of API keys.|
 |Attack Mechanisms|This module organizes attack patterns hierarchically, based on mechanisms that are frequently employed when exploiting a vulnerability.|
 |Attack Motivations|This module lists the possible attack motivations that shape intensity of an attack by a threat actor or intrusion set.|
 |Discovery Methods|This module describes how security incidents are discovered.|
@@ -32,6 +32,6 @@ The following applications are available under the **Administration** module of 
 |Report Types|This module lists the possible classifications of threat reports.|
 |Threat Actor Roles|This module lists the roles the threat actors play.|
 |Threat Actor Types|This module characterizes malicious actors \(or adversaries\) representing a cyber attack threat, including presumed intent and historically observed behavior.|
-|Threat Lookup Finding Calculators|This module calculates the findings based on the responses received. For third-party integrations that provide the computed results, the threat lookup finding calculator maps the results to supported findings in the system. For more information, see [Threat Lookup Finding Calculators](../concept/threat-lookup-finding-calculators.md).|
+|Threat Lookup Finding Calculators|This module calculates the findings based on the responses received. For third-party integrations that provide the computed results, the threat lookup finding calculator maps the results to supported findings in the system. For more information, see [Threat Lookup Finding Calculators](threat-lookup-finding-calculators.md).|
 |Tool Types|This module lists the possible classification of tools.|
 

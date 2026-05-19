@@ -40,7 +40,7 @@ Role required: sn\_ni\_core.inventory\_admin
 
 ## What to do next
 
-Create a network instance instantiation. For information, see [Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md).
+Create a network instance instantiation. For information, see [Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md).
 
-**Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](../concept/decision_tables.md)
+**Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](decision_tables.md)
 

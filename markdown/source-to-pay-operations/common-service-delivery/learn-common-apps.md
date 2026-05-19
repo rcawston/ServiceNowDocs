@@ -39,7 +39,7 @@ Finance Common Architecture \[sn\_fin\]
 
 Maintains primary data such as Enterprise Resource Planning \(ERP\) sources, legal entities, accounting periods, and so on.
 
- For more information about the components installed with this plugin, see [Components installed with Finance Common Architecture](../../sourcing-procurement-operations/reference/installed-with-finance-common.md).
+ For more information about the components installed with this plugin, see [Components installed with Finance Common Architecture](installed-with-finance-common.md).
 
 </td><td>
 
@@ -58,7 +58,7 @@ ERP Integration Framework \[sn\_fcms\_integrations\]**Important:** Check your en
 
 </td><td>
 
-Provides integration support between the Platform and common ERP systems.For more information about the components installed with this plugin, see [Components installed with ERP Integration Framework](../../sourcing-procurement-operations/reference/installed-with-FSC-ERP.md).
+Provides integration support between the Platform and common ERP systems.For more information about the components installed with this plugin, see [Components installed with ERP Integration Framework](installed-with-FSC-ERP.md).
 
 </td><td>
 

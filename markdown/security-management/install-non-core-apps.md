@@ -41,7 +41,7 @@ Store installations require a Now Support account and permission to request appl
 
 4.  If the integration has any core application dependencies, such as Security Incident Response, to which your company is not yet entitled:
 
-    1.  [Follow these instructions to obtain entitlements, download dependency plugins, and activate the applications](../reference/download-app-first-time.md).
+    1.  [Follow these instructions to obtain entitlements, download dependency plugins, and activate the applications](download-app-first-time.md).
 
     2.  Return to this procedure.
 

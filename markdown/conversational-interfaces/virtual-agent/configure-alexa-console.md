@@ -105,5 +105,5 @@ The shared secret string that the instance and the OAuth application use to auth
 9.  Click **Save**.
 
 
-**Parent Topic:**[Account linking with Alexa](../concept/account-linking-alexa.md)
+**Parent Topic:**[Account linking with Alexa](account-linking-alexa.md)
 

@@ -27,11 +27,11 @@ Overview of assessments, surveys, and quizzes
 
 </td></tr><tr><td>
 
-[Use surveys ![Use surveys](../images/request.png) Learn how you can use surveys.](../../survey-administration/concept/using-surveys.md)
+[Use surveys ![Use surveys](../images/request.png) Learn how you can use surveys.](using-surveys.md)
 
 </td><td>
 
-[Surveys reference ![Surveys reference](../../../common/image/icon-reference.png) Get details about surveys, such as fields and properties.](../../survey-administration/reference/survey-reference.md)
+[Surveys reference ![Surveys reference](../../../common/image/icon-reference.png) Get details about surveys, such as fields and properties.](survey-reference.md)
 
 </td></tr><tr><td>
 
@@ -39,7 +39,7 @@ Overview of assessments, surveys, and quizzes
 
 </td><td>
 
-[Assessments reference ![Surveys reference](../../../common/image/icon-reference.png) Get details about assessments, such as fields and properties.](../reference/assessment-reference.md)
+[Assessments reference ![Surveys reference](../../../common/image/icon-reference.png) Get details about assessments, such as fields and properties.](assessment-reference.md)
 
 </td></tr><tr><td>
 
@@ -58,16 +58,16 @@ Overview of assessments, surveys, and quizzes
 
 -   **[Exploring Assessments and Surveys](assessments-and-surveys.md)**  
 The Assessments and Surveys application helps you create, send, and collect responses for surveys. The application also helps you evaluate, score, and rank records from any table in the system. Create questionnaires that you can assign to one or more users to assess their knowledge of any subject.
--   **[Surveys](../../survey-administration/reference/r_SurveyManagementLandingPage.md)**  
+-   **[Surveys](r_SurveyManagementLandingPage.md)**  
 
--   **[Assessments](../reference/r_Assessments.md)**  
+-   **[Assessments](r_Assessments.md)**  
 Use assessments to evaluate, score, and rank records from any table in the system.
--   **[Installed with Assessments and Surveys](../reference/r_InstalledWithAssessments.md)**  
+-   **[Installed with Assessments and Surveys](r_InstalledWithAssessments.md)**  
 Several types of components are installed with the activation of Assessments and Surveys.
--   **[Quick start tests for Assessments and Surveys](../../atf-quick-start-tests/reference/quick-start-tests-survey.md)**  
+-   **[Quick start tests for Assessments and Surveys](quick-start-tests-survey.md)**  
 Validate that Assessments and Surveys still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 -   **[Quizzes](c_Quizzes.md)**  
 Quizzes are questionnaires that you can assign to one or more users to assess their knowledge of any subject. The quiz functionality is built on the assessment engine and provides many of the same features as assessments and surveys.
 
-**Parent Topic:**[Exploring Service Administration](../../service-administration/concept/c_ServiceAdministration.md)
+**Parent Topic:**[Exploring Service Administration](c_ServiceAdministration.md)
 

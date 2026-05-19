@@ -56,32 +56,32 @@ Map playbook activity states to states from the given experience record.
 -   **[Playbook activity state-mapping permissions](playbook-act-state-permissions.md)**  
 User permissions must be assigned to allow agents to complete or skip activities in playbook using activity state mapping.
 
-**Parent Topic:**[Stages and activities](../../process-automation-designer/concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](../../process-automation-designer/task/add-configure-stage.md)
+[Add and configure a stage in a playbook](add-configure-stage.md)
 
-[Activity definitions](../../process-automation-designer/concept/activity-definitions.md)
+[Activity definitions](activity-definitions.md)
 
-[Add and configure an activity in a playbook](../../process-automation-designer/task/add-configure-activity.md)
+[Add and configure an activity in a playbook](add-configure-activity.md)
 
-[Use AI agent as an activity](../../process-automation-designer/task/ai-agent-as-activity.md)
+[Use AI agent as an activity](ai-agent-as-activity.md)
 
-[Automation Assets](../../process-automation-designer/concept/automation-assets.md)
+[Automation Assets](automation-assets.md)
 
-[Start with delay input properties](../../process-automation-designer/reference/start-with-delay-properties.md)
+[Start with delay input properties](start-with-delay-properties.md)
 
-[Optional activities](../../process-automation-designer/concept/optional-activities.md#)
+[Optional activities](optional-activities.md#)
 
-[Decision activities](../../process-automation-designer/task/create-a-decision-activity.md)
+[Decision activities](create-a-decision-activity.md)
 
-[Decision stages](../../process-automation-designer/task/create-decision-stage.md)
+[Decision stages](create-decision-stage.md)
 
-[Questionnaire activity](../../process-automation-designer/reference/questionnaire-activity.md)
+[Questionnaire activity](questionnaire-activity.md)
 
-[Parallel branches](../../process-automation-designer/task/create-parallel-activity.md)
+[Parallel branches](create-parallel-activity.md)
 
-[Add dynamic inputs to an activity](../../process-automation-designer/task/add-dynamic-inputs-to-activity.md)
+[Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
 

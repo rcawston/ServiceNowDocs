@@ -25,5 +25,5 @@ The Developers page in AEMC shows all developers with the AES Users role, AES Us
 
 Select a developer record to see more information about the custom apps they have created and their intake requests, app requests,collaboration requests, and deployment requests. You can filter the content on each tab to find specific results, or select an app from this page to see its usage, deployment history, and collaborators. Select any of the displayed records to view the history or to approve, reject, or delete the requests.
 
-**Parent Topic:**[Managing app development using the App Engine Management Center](../../app-engine-management-center/concept/managing-app-development-using-aemc.md)
+**Parent Topic:**[Managing app development using the App Engine Management Center](managing-app-development-using-aemc.md)
 

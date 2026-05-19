@@ -25,11 +25,11 @@ The Personal Lines Claims application enables your organization to quickly set u
 
 </td></tr><tr><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](../reference/components-installed-personal-lines-claims.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](components-installed-personal-lines-claims.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor key statistics and track performance with preconfigured dashboard.](../../../use/application-content-packs/concept/fso-content-pack.md)
+[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor key statistics and track performance with preconfigured dashboard.](../fso-content-pack.md)
 
 </td></tr></tbody>
 </table>

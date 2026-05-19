@@ -33,7 +33,7 @@ Role required: sn\_align\_core.apw\_admin
 
 5.  Create a new choice map by selecting **New** in the Choice Maps tab.
 
-6.  In the [Choice map form](../reference/choice-map-form.md), fill in the fields.
+6.  In the [Choice map form](choice-map-form.md), fill in the fields.
 
 7.  Click **Submit**.
 

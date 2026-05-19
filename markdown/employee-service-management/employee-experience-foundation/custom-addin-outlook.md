@@ -40,5 +40,5 @@ Role required: None
 
 The custom add-in is added to your Microsoft Outlook client. You can use it to request catalog items or open incidents and cases based on your emails.
 
-**Parent Topic:**[Using ServiceNow Add-in for Microsoft 365](../concept/using-sn-addin-for-ms365.md)
+**Parent Topic:**[Using ServiceNow Add-in for Microsoft 365](using-sn-addin-for-ms365.md)
 

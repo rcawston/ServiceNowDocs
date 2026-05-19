@@ -31,7 +31,7 @@ Some general guidelines for changing the table are:
 -   The request\_type field for the new table should have the label **Request type**, and it should be a reference to the Record Producer table.
 -   If the new table isn’t in the same scope as the app, the scope of the table must allow updates from other scopes.
 
-See [Changing the table for an app](../concept/creator-studio-admin-app-table-about.md) for more information.
+See [Changing the table for an app](creator-studio-admin-app-table-about.md) for more information.
 
 Role required: admin, app configurator \(sn\_creatorstudio.app\_configurator\), or Creator Studio configuration admin \(sn\_creatorstudio.configuration\_admin\). For more information on working with granular roles, see [Granular admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/granular-admin-roles.md).
 
@@ -57,16 +57,16 @@ To ensure that forms and automations work, a general guideline is to change the 
 
     -   Selecting the **here** in the message "To edit the record click here."
     -   Selecting the application scope icon ![](../../applications/image/icon-scope-changed.png) and choosing the appropriate scope.
-    For more information on scopes, see [Application scope](../../applications/concept/c_ApplicationScope.md).
+    For more information on scopes, see [Application scope](../c_ApplicationScope.md).
 
 5.  Enter the name of the table you want the app to write to in the **Request table** field.
 
-    The table should extend the Request Task table and have the **request\_type** field. For more details on what table you can use, see [Requirements for changing the table for an app](../concept/creator-studio-admin-app-table-about.md#crs-requirements-change-table).
+    The table should extend the Request Task table and have the **request\_type** field. For more details on what table you can use, see [Requirements for changing the table for an app](creator-studio-admin-app-table-about.md#crs-requirements-change-table).
 
     ![Request App Config form with Color field showing dropdown list of table options.](../image/crs-change-app-table2.png "List of apps to configure")
 
 6.  Select **Update** to save your changes.
 
 
-**Parent Topic:**[Administering an app's associated table](../concept/creator-studio-admin-app-table.md)
+**Parent Topic:**[Administering an app's associated table](creator-studio-admin-app-table.md)
 

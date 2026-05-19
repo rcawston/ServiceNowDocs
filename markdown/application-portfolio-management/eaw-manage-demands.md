@@ -13,9 +13,9 @@ breadcrumb: [Using business architecture, Working with Portfolio list view, Mana
 
 The structured process of capturing, evaluating, prioritizing, and tracking business demands—such as new applications, enhancements, or rationalization initiatives—across the application lifecycle. It ensures that IT investments align with strategic business goals and that resources are allocated efficiently.
 
--   **[View all demands](../../task/eaw-task/eaw-view-all-demands.md)**  
+-   **[View all demands](eaw-view-all-demands.md)**  
 You can create or edit a demand as a step to identify cost-saving opportunities on applications or capabilities, to meet the target.
--   **[Add or edit a demand](../../task/eaw-task/eaw-create-demand-ba.md)**  
+-   **[Add or edit a demand](eaw-create-demand-ba.md)**  
 You can create or edit a demand as a step to identify cost-saving opportunities on applications or capabilities, to meet a target.
 
 **Parent Topic:**[Using business architecture](eaw-using-business-architecture.md)

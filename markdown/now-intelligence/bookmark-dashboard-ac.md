@@ -35,7 +35,7 @@ In the **Dashboards** overview, the selected dashboard appears in the Bookmarked
 
 To remove a bookmark, choose the bookmarked dashboard and select **Remove bookmark** from the More actions menu \(![More actions menu icon](../image/icon-vert-3dot-p.png)\).
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -46,13 +46,13 @@ To remove a bookmark, choose the bookmarked dashboard and select **Remove bookma
 
 [Share a Platform Analytics dashboard](share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](duplicate-db.md#)
 
 [Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
 
 [Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](schedule-export-dboards-data-viz.md)
 
 [Delete a Platform Analytics dashboard](delete-db-in-ac.md)
 

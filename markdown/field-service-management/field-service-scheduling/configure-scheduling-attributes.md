@@ -19,7 +19,7 @@ Create scheduling attributes to specify which tasks to optimize and define the r
 
 Role required: wm\_admin
 
-You must [Configure Schedule Optimization](../concept/schedule-optimization-engine.md).
+You must [Configure Schedule Optimization](schedule-optimization-engine.md).
 
 ## About this task
 
@@ -41,7 +41,7 @@ This video demonstrates how to create a scheduling attribute for Schedule Optimi
 
     4.  Select a secondary travel estimate provider.
 
-        If you do not set up a secondary travel estimate provider and your primary configuration is unavailable, optimization will use the default straight-line configuration. For more information, see [Setting up a travel estimate provider](../concept/setting-up-a-travel-estimate-provider.md).
+        If you do not set up a secondary travel estimate provider and your primary configuration is unavailable, optimization will use the default straight-line configuration. For more information, see [Setting up a travel estimate provider](setting-up-a-travel-estimate-provider.md).
 
 4.  Select **Submit**.
 
@@ -57,7 +57,7 @@ This video demonstrates how to create a scheduling attribute for Schedule Optimi
 
     4.  Select **Submit**.
 
-        If your task filter references a custom field or a custom table, you must grant the sharedservice.worker user read access to those elements. For example, this applies if you use a table other than the default work order task table to submit work orders. For details, see [User access requirements](../reference/schedule-optimization-integration-user-access-requirements.md).
+        If your task filter references a custom field or a custom table, you must grant the sharedservice.worker user read access to those elements. For example, this applies if you use a table other than the default work order task table to submit work orders. For details, see [User access requirements](../schedule-optimization-integration-user-access-requirements.md).
 
         The **Optimization Restricted** tab is displayed after the task filter record is created. This read-only field shows the conditions of work order tasks that are excluded from the optimization run.
 

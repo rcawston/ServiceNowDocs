@@ -23,7 +23,7 @@ var response = sn_cmdbgroup.CMDBGroupAPI.getManualCIList(groupSysId, false);
 
 To access this API you must have the itil or asset role.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CMDBGroupAPI - getAllCI\(String groupId, Boolean requireCompleteSet, Boolean requireAllQueryNodesCis\)
 

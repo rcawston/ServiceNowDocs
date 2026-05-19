@@ -59,5 +59,5 @@ Using the calendar, you can do the following:
     If you approve the request, the schedule gets updated in the team calendar based on the approvals.
 
 
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
 

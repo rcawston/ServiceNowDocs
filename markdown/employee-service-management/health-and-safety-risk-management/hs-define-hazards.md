@@ -56,5 +56,5 @@ Review and update your hazard list regularly to verify its continued effectivene
     -   **Add hazards** window on a JSA form.
     -   **Hazard being assessed** field on the Hazard assessment form when conducting a risk assessment.
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](hs-setting-up-risk-mgmt.md)
 

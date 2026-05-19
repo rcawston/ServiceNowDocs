@@ -41,10 +41,10 @@ You can allow multiple or individual client errors. For each client error, you m
     The Automated Test Framework allows the selected client errors and displays a status message at the top of the form.
 
 
-**Parent Topic:**[Allowed client errors](../concept/whitelisted-client-errors.md)
+**Parent Topic:**[Allowed client errors](whitelisted-client-errors.md)
 
 **Related topics**  
 
 
-[Allowed client errors](../concept/whitelisted-client-errors.md)
+[Allowed client errors](whitelisted-client-errors.md)
 

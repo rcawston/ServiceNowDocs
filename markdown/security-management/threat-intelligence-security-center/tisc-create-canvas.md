@@ -125,12 +125,12 @@ Select the state of the canvas.
 17. Click **Duplicate** to duplicate the canvas data and nodes within the canvas.
 
 
-**Parent Topic:**[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+**Parent Topic:**[Working with Investigation Canvas](tisc-investigation-canvases.md)
 
 **Related topics**  
 
 
-[Working with Actions on the Investigation Canvas](../concept/tisc-canvas-actions.md)
+[Working with Actions on the Investigation Canvas](tisc-canvas-actions.md)
 
 [Linking Canvas from a Case](tisc-link-canvas-from-case.md)
 

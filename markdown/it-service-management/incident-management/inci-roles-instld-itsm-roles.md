@@ -111,5 +111,5 @@ Configures all Incident Management features including incident management proper
 -   sn\_bm\_client\_benchmark\_data\_viewer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request ITSM Roles — Incident Management](../task/req-itsm-roles-inci-mgmt.md)
+</table>**Parent Topic:**[Request ITSM Roles — Incident Management](req-itsm-roles-inci-mgmt.md)
 

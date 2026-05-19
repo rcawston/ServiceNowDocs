@@ -13,7 +13,7 @@ breadcrumb: [Configure, Next Experience UI, Configure UIs and portals, Configure
 
 Themes enable you to tailor the visual experience for your users, helping to update the look and feel to be more like your brand.
 
-Quickly create, edit, preview, and publish themes to your experiences using Theme Builder. See [Configure Next Experience with Theme Builder](../task/configuring-next-experience-with-theme-builder.md) for more information.
+Quickly create, edit, preview, and publish themes to your experiences using Theme Builder. See [Configure Next Experience with Theme Builder](configuring-next-experience-with-theme-builder.md) for more information.
 
 **Important:** Theming applies to the classic environment in Lists, Forms, and Dashboards. Custom components don't reflect theming.
 
@@ -27,7 +27,7 @@ Quickly create, edit, preview, and publish themes to your experiences using Them
 
 New customers launching on Zurich will have the Next Experience Coral theme enabled by default on their instance.
 
-Existing customers upgrading from a previous release will continue to see the theme they've applied to their instance prior to upgrade, for example the Next Experience Polaris theme or a theme created in Theme Builder. Use [Theme Builder to publish Coral theme to your instance](../task/tb-apply-theme.md) or [add Coral theme to the Next Experience UX Parent App Theme table.](../task/configure-presentation-order-of-themes.md)
+Existing customers upgrading from a previous release will continue to see the theme they've applied to their instance prior to upgrade, for example the Next Experience Polaris theme or a theme created in Theme Builder. Use [Theme Builder to publish Coral theme to your instance](tb-apply-theme.md) or [add Coral theme to the Next Experience UX Parent App Theme table.](configure-presentation-order-of-themes.md)
 
 ![Theme preference with Polaris and Coral themes displayed.](../image/next-exp-coral-polaris.png "Next Experience default themes in Preferences modal")
 
@@ -37,7 +37,7 @@ Existing customers upgrading from a previous release will continue to see the th
 
 ## Theme record
 
-This image shows the default Polaris theme, which is read-only. You create your own themes and styles to be used by experiences in your instance by either cloning the Polaris or Coral theme or [by cloning a Theme Builder theme record](../task/create-custom-theme-using-theme-builder-record.md). If you clone either the Polaris or Coral theme, you also must clone the styles under UX Theme Styles and make changes to those styles, as desired. At least one Core type style must be defined.
+This image shows the default Polaris theme, which is read-only. You create your own themes and styles to be used by experiences in your instance by either cloning the Polaris or Coral theme or [by cloning a Theme Builder theme record](create-custom-theme-using-theme-builder-record.md). If you clone either the Polaris or Coral theme, you also must clone the styles under UX Theme Styles and make changes to those styles, as desired. At least one Core type style must be defined.
 
 ![Next Experience Polaris UX theme main record with Applicability, Order, Style and Type columns highlighted](../image/comp-theme-overview.png)
 
@@ -51,11 +51,11 @@ You can configure a theme to match your company brand look and feel in ServiceNo
 
 -   **Style**
 
-    Style records define reusable styles that together comprise a theme. Core styles include color, shape and form, typography, and imagery. Variants are a different version of the theme, commonly different colors, that users can select in preferences. The most common use of variants is for accessibility purposes, particularly to account for color blindness. If you decide to use a dark theme, consider selecting the Polaris or Coral theme or [create a dark alternate color palette in Theme Builder](../task/tb-edit-color-palette.md).
+    Style records define reusable styles that together comprise a theme. Core styles include color, shape and form, typography, and imagery. Variants are a different version of the theme, commonly different colors, that users can select in preferences. The most common use of variants is for accessibility purposes, particularly to account for color blindness. If you decide to use a dark theme, consider selecting the Polaris or Coral theme or [create a dark alternate color palette in Theme Builder](tb-edit-color-palette.md).
 
 -   **Type**
 
-    Styles can be of either the Core type or the Variant type. Core styles are active by default. Users can choose from available variants from their Theme user preference, and those variant styles override the core style. Theme Builder doesn’t automatically generate dark theme variants; however, you can create a dark alternate color palette with limited customization. For more information, see [Add an alternate color palette](../task/tb-edit-color-palette.md). The Polaris and Coral themes include a Dark Theme variant that is available on instances with Next Experience enabled.
+    Styles can be of either the Core type or the Variant type. Core styles are active by default. Users can choose from available variants from their Theme user preference, and those variant styles override the core style. Theme Builder doesn’t automatically generate dark theme variants; however, you can create a dark alternate color palette with limited customization. For more information, see [Add an alternate color palette](tb-edit-color-palette.md). The Polaris and Coral themes include a Dark Theme variant that is available on instances with Next Experience enabled.
 
 
 -   **[Guided tours in Theme Builder](guided-tours-theme-builder.md)**  
@@ -64,21 +64,21 @@ Learn about Theme Builder guided tours, including how to access and take them to
 Learn how to switch to dark mode in Theme Builder.
 -   **[Get help with Theme Builder](theme-builder-get-help-now.md)**  
 To get help with Theme Builder, your ServiceNow instance, plugins, permissions, and more, watch a short video to contact the ServiceNow admin who works in your company.
--   **[Configuring Next Experience with Theme Builder](../task/configuring-next-experience-with-theme-builder.md)**  
+-   **[Configuring Next Experience with Theme Builder](configuring-next-experience-with-theme-builder.md)**  
 Reflect your company's brand on your ServiceNow instance by managing, editing, and implementing Next Experience themes in an easy, efficient, and upgrade-safe way using Theme Builder. Theme Builder is included as a core plugin with the Next Experience and is available by default.
 -   **[Working with the dark theme](tb-working-in-dark-theme.md)**  
 The dark theme emits less blue light, making the display easier for your eyes and less disturbing in low-light settings. The dark theme is supported for configurable workspaces, lists, forms, dashboards, and reports.
 -   **[Working with theme-able empty state images](themeable-empty-state-images.md)**  
 Add theme-able empty state images to customize empty states and improve the user experience. Empty states include guidance or actions for users to add or create content.
--   **[Configuring Next Experience themes and preferences](../task/config-next-experience-themes-prefs.md)**  
+-   **[Configuring Next Experience themes and preferences](config-next-experience-themes-prefs.md)**  
 Theming in Next Experience applies to individual experiences. As an admin user, you can configure the variables for colors, shapes, fonts, and other aspects of the user experience.
--   **[Configure login theming in Next Experience](../task/edit-login-features-u-n.md)**  
+-   **[Configure login theming in Next Experience](edit-login-features-u-n.md)**  
 Configure Next Experience login illustrations and welcome text to provide a login experience that reflects your branding.
--   **[Customize the Next Experience login background illustration](../task/customize-login-background.md)**  
+-   **[Customize the Next Experience login background illustration](customize-login-background.md)**  
 Customize and change the background illustration applied to your Next Experience login page.
--   **[Customize the Next Experience login background color](../task/customize-ne-login-background-color.md)**  
+-   **[Customize the Next Experience login background color](customize-ne-login-background-color.md)**  
 Customize and change the background color applied to your Next Experience login page.
--   **[Remove the gradient from the Next Experience login page](../task/remove-gradient-from-login-page.md)**  
+-   **[Remove the gradient from the Next Experience login page](remove-gradient-from-login-page.md)**  
 Remove the gradient from the Next Experience login page and restore the solid color of your default theme.
 
 **Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)

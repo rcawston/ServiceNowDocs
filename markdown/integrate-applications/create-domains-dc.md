@@ -61,5 +61,5 @@ You can create root domains at the top level and subdomains \(child domains\) un
 
 After creating domain, apply them to data assets in the Domains field of the Classification section when editing a data asset. For details, see [Update a data asset](update-data-asset.md).
 
-**Parent Topic:**[Governing the Data Catalog](../concept/manage-data-catalog.md)
+**Parent Topic:**[Governing the Data Catalog](manage-data-catalog.md)
 

@@ -71,5 +71,5 @@ Select to measure any user sessions.
     You can view your funnel directly from Platform Analytics. When you create a new dashboard in Platform Analytics, select **add new element** and then **Usage Insights Funnel**.![View Usage Insights funnel in Platform Analytics](../image/uxa-view-funnnel-pa.png)
 
 
-**Parent Topic:**[Funnel reports in Usage Insights](../concept/funnel-reports-uxa.md)
+**Parent Topic:**[Funnel reports in Usage Insights](funnel-reports-uxa.md)
 

@@ -43,7 +43,7 @@ Tokenizer service
 
 </td></tr><tr><td>
 
-[Set up integration with the Third-Party System](../../fso-common/concept/fso-integrate-other-applications.md)
+[Set up integration with the Third-Party System](../fso-integrate-other-applications.md)
 
 </td><td>
 
@@ -93,7 +93,7 @@ ServiceNow
 
 </td></tr><tr><td>
 
-[Create a REST message function](../task/set-up-a-rest-message-function.md)
+[Create a REST message function](set-up-a-rest-message-function.md)
 
 </td><td>
 

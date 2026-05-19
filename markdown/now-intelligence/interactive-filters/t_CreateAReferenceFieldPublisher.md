@@ -23,7 +23,7 @@ When a user selects `All`, they do not see a report with all filter options appl
 
 ![Reference list filter example with the All option selected](../image/if-ex-rf.png)
 
-**Note:** If the interactive filter has a default value or specifies the last selected value, non-responsive dashboards do not apply this value automatically. This feature is only available on [Responsive dashboards](../concept/c_ResponsiveDashboards.md).
+**Note:** If the interactive filter has a default value or specifies the last selected value, non-responsive dashboards do not apply this value automatically. This feature is only available on [Responsive dashboards](../performance-analytics/c_ResponsiveDashboards.md).
 
 ## Procedure
 
@@ -91,7 +91,7 @@ UI control type
 
 </td><td>
 
-Select how the available filtering options for this filter appear on the dashboard widget. See [Available interactive filter UI control types](../reference/r_HomepagePublisherUIControlTypes.md).
+Select how the available filtering options for this filter appear on the dashboard widget. See [Available interactive filter UI control types](r_HomepagePublisherUIControlTypes.md).
 
 </td></tr><tr><td>
 
@@ -102,9 +102,9 @@ Show only search results that start with keyword
 When selected, searches return only the results that start with the search term. Otherwise, searches return results that contain the search term anywhere. Consider this option when you are setting up a reference filter on a very large table, for example one with millions of records. A search on a common term may return too many records to be managed.
 
 </td></tr></tbody>
-</table>8.  Select **Apply filter to database views and tables** to apply the filter to widgets based on both [database views](../../performance-analytics/concept/performance-analytics-glossary.md#) and tables.
+</table>8.  Select **Apply filter to database views and tables** to apply the filter to widgets based on both [database views](../performance-analytics/performance-analytics-glossary.md#) and tables.
 
-    **Note:** It is not possible to apply filters to tables that extend the database view’s tables. For more information, see [Interactive filters on database views and table hierarchies](../../reporting/task/apply-filter-to-all-tables-in-hierarchy.md).
+    **Note:** It is not possible to apply filters to tables that extend the database view’s tables. For more information, see [Interactive filters on database views and table hierarchies](apply-filter-to-all-tables-in-hierarchy.md).
 
 9.  Right-click on the form header and select **Save**.
 
@@ -161,14 +161,14 @@ Repeat steps 10–13 as needed for each reference field you want to filter on. A
 1.  After you create the filter, add it to a dashboard.
 2.  On the dashboard, select the **Edit widget** icon \(![Edit columns icon](../image/icon-cogwheel-ac.png)\) on each visualization on the dashboard that should follow the filter and select **Follow interactive filter**.
 
-**Parent Topic:**[Creating Interactive Filters of different types](../reference/r_AvailableHomepagePublisherTypes.md)
+**Parent Topic:**[Creating Interactive Filters of different types](r_AvailableHomepagePublisherTypes.md)
 
 **Related topics**  
 
 
 [Reference field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceField.md)
 
-[Creating Interactive Filters of different types](../reference/r_AvailableHomepagePublisherTypes.md)
+[Creating Interactive Filters of different types](r_AvailableHomepagePublisherTypes.md)
 
 [Add related list conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-related-list-query.md)
 

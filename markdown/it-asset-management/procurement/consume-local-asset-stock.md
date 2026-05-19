@@ -27,7 +27,7 @@ You can source a request by using assets from the requester's local stockroom.
 
 The Workflow Studio application is used to create the Asset Local Stock subflow to take you through the process of using assets from your local stockroom to source your request. As the subflow takes you through the various stages, the asset details are automatically updated. You can open the Asset Local Stock subflow to view the status of the stages in the subflow.
 
-**Note:** Use decision tables to customize the Asset Local Stock subflow. For more details, see [Hardware Asset Management flow customization](../../hardware-asset-management/concept/readily-available-dec-tables-ham.md).
+**Note:** Use decision tables to customize the Asset Local Stock subflow. For more details, see [Hardware Asset Management flow customization](../hardware-asset-management/readily-available-dec-tables-ham.md).
 
 Role required:
 
@@ -66,7 +66,7 @@ Role required:
 
 8.  Select **Source Stockroom** to select the stockroom from where you want to source the assets.
 
-    If your location is associated with a stockroom as a service location, you can source from this stockroom along with the local stockroom. Service location capabilities enable a single stockroom to support multiple locations and consume the local stock efficiently. For more information on Service locations, see [Associate a stockroom with service locations](../../hardware-asset-management/task/associate-stockroom-with-service-locations.md).
+    If your location is associated with a stockroom as a service location, you can source from this stockroom along with the local stockroom. Service location capabilities enable a single stockroom to support multiple locations and consume the local stock efficiently. For more information on Service locations, see [Associate a stockroom with service locations](../hardware-asset-management/associate-stockroom-with-service-locations.md).
 
     If the Asset pick task is enabled for the source stockroom, then this task is added to the Hardware Asset Refresh Request and Hardware Asset Request flows.
 
@@ -93,7 +93,7 @@ Role required:
     -   For hardware assets: Assets are auto-assigned to sourcing tasks but you can change an asset by selecting the **Asset** list. After you’re done, select **Close Task**.
     -   For consumable assets: The model for the asset appears on the form layout instead of the asset. Select **Close Task** or **Consume and Close**. If you select **Consume and Close**, the reserved asset is automatically picked up and assigned to the user. If you select **Close Task**, you must go to the Consumable form layout and assign an asset to the user manually.
 
-**Parent Topic:**[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+**Parent Topic:**[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 
 **Related topics**  
 

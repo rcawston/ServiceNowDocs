@@ -28,7 +28,7 @@ The Create Directory activity creates a new directory on an SFTP server.
 
 |Variable|Description|
 |--------|-----------|
-|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](../../orchestration-activity-designer/task/t_CreateAParsingRule.md#). If this variable is not null, the operation has failed.|
+|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](t_CreateAParsingRule.md#). If this variable is not null, the operation has failed.|
 |result|Text message advising that the command was executed successfully.|
 
 ## Conditions
@@ -38,5 +38,5 @@ The Create Directory activity creates a new directory on an SFTP server.
 |Success|The activity succeeded in creating the directory.|
 |Failure|The activity failed to create the directory.|
 
-**Parent Topic:**[SFTP File Transfer activity pack](../concept/c_OrchestrationSFTPActivityPack.md)
+**Parent Topic:**[SFTP File Transfer activity pack](c_OrchestrationSFTPActivityPack.md)
 

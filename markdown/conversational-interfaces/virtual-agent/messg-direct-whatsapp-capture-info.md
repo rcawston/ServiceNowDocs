@@ -15,7 +15,7 @@ breadcrumb: [Using, Conversational Integration with WhatsApp \(WhatsApp Cloud AP
 
 Use the collection of input controls provided by the Virtual Agent Designer to prompt and capture information from a requester in a WhatsApp chat conversation.
 
-Virtual Agent Designer is a diagram tool for creating and managing topics, which are blueprints for conversations between a virtual agent and user. For more information, see [Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md).
+Virtual Agent Designer is a diagram tool for creating and managing topics, which are blueprints for conversations between a virtual agent and user. For more information, see [Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md).
 
 ## User notification consent
 
@@ -40,7 +40,7 @@ The Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application 
 |Date Time|User selects a calendar date, time \(hours and minutes\), or both.|
 |Carousel|User selects a single item from the carousel.|
 
-For more information about configuring user input controls, see [Assistant Designer user input controls](../reference/va-user-inputs.md).
+For more information about configuring user input controls, see [Assistant Designer user input controls](va-user-inputs.md).
 
 The Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application supports the following bot responses in Virtual Agent Designer.
 
@@ -142,7 +142,7 @@ Table
 Bot response is displayed as a table.
 
 </td></tr></tbody>
-</table>For more information about configuring bot responses, see [Assistant Designer bot responses](../reference/va-bot-responses.md).
+</table>For more information about configuring bot responses, see [Assistant Designer bot responses](va-bot-responses.md).
 
 **Parent Topic:**[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](messg-direct-whatsapp-using.md)
 

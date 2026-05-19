@@ -36,7 +36,7 @@ Test designers and developers typically allow client-side JavaScript errors to p
     Temporarily allow client errors until a fix is available. Prior to reporting a platform bug to ServiceNow Technical Support, investigate the error, verify it is not a customization error, and identify the type of platform bug involved. For example, a UI policy generates an error during a test. Your investigation verifies that the issue is not a customization error and identifies a platform issue with the UI policy.
 
 
-**Note:** While adding client errors to the allowed client errors list allows the test framework to continue testing, it does not guarantee that your tests pass. Test designers and developers should always investigate client errors to determine if there are issues with your business process. For more details, see [Identify and resolve client errors](../task/identify-and-resolve-client-errors.md#).
+**Note:** While adding client errors to the allowed client errors list allows the test framework to continue testing, it does not guarantee that your tests pass. Test designers and developers should always investigate client errors to determine if there are issues with your business process. For more details, see [Identify and resolve client errors](identify-and-resolve-client-errors.md#).
 
 ## Report levels for allowed client errors
 
@@ -57,13 +57,13 @@ The Automated Test Framework identifies allowed client errors using a contains s
 
 When client errors occur, the Automated Test Framework fails the test on the step that was executing when the error occurred.
 
--   **[Allow client errors from test results](../task/whitelist-errors-from-test-results.md)**  
+-   **[Allow client errors from test results](whitelist-errors-from-test-results.md)**  
 Allow client errors as you review test results.
--   **[Allow client errors from step results](../task/whitelist-errors-from-step-results-related-list.md)**  
+-   **[Allow client errors from step results](whitelist-errors-from-step-results-related-list.md)**  
 Allow client errors as you review step results.
--   **[Allow client errors from the test logs](../task/whitelist-errors-from-test-log-related-list.md)**  
+-   **[Allow client errors from the test logs](whitelist-errors-from-test-log-related-list.md)**  
 Allow client errors as you review test logs.
--   **[Manually allow client errors](../task/atf-view-manually-add-whitelisted-browser-errors.md)**  
+-   **[Manually allow client errors](atf-view-manually-add-whitelisted-browser-errors.md)**  
 Manually create allowed client error entries as needed in the Allowed Client Errors table.
 
 **Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)

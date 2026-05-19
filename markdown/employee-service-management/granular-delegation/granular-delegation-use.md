@@ -25,7 +25,7 @@ Role required: none
 
 You can also delegate an assigned task from the ServiceNow® mobile. For more information, see [Using granular delegation on ServiceNow mobile](granular-delegation-use.md#).
 
-**Note:** You must create delegation rules before you can delegate on-demand tasks. For more information, see [Create delegation rules](../task/create-delegation-rules.md).
+**Note:** You must create delegation rules before you can delegate on-demand tasks. For more information, see [Create delegation rules](create-delegation-rules.md).
 
 ### Procedure
 
@@ -105,7 +105,7 @@ Use the **Granular Delegates** list to view a list of employees that you have de
 -   Create one or more Delegation Rule records
 -   Verify that your delegate has access to the records specified by your delegation rules
 
-**Note:** Admins can use the **Create New Delegate** form to assign tasks from a delegator to a delegate. For more information, see [Create a delegate](../task/create-delegation-admin.md).
+**Note:** Admins can use the **Create New Delegate** form to assign tasks from a delegator to a delegate. For more information, see [Create a delegate](create-delegation-admin.md).
 
 ### Procedure
 
@@ -372,7 +372,7 @@ You can use the ServiceNow® mobile to view tasks delegated to you.
 
 Role required: sn\_hr\_core.case\_writer
 
-Notification of delegated tasks are sent to your email address if your HR profile contains that information. For more information, see [HR Profile](../../../human-resources/concept/c_HRProfileRecords.md).
+Notification of delegated tasks are sent to your email address if your HR profile contains that information. For more information, see [HR Profile](../hr-service-delivery/c_HRProfileRecords.md).
 
 **Note:** If your company uses Connect, you can choose what notifications you receive. For more information on notifications, see [Enable or disable Connect notifications globally](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_EnableDisableConnectNotifications.md).
 

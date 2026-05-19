@@ -17,7 +17,7 @@ The CartJS API provides methods that enable you to access a user's shopping cart
 
 This API runs in the `sn_sc` namespace. The Service Catalog Scoped API plugin \(ID: com.glideapp.servicecatalog.scoped.api\) that is enabled by default is required to access the CartJS API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CartJS - CartJS\(String cartName\)
 

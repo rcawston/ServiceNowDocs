@@ -52,5 +52,5 @@ Use some of the following guidance and tips.
     **Note:** For top navigation option, sync supports up to three levels of sub-navigation.
 
 
-For configuration steps, see [Configure simplified left navigation](../task/config-simplified-nav-as-menu.md).
+For configuration steps, see [Configure simplified left navigation](config-simplified-nav-as-menu.md).
 

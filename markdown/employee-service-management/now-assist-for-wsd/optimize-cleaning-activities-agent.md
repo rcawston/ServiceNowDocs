@@ -39,7 +39,7 @@ Case aggregator AI agent
 
 </td><td>
 
-This agent fetches all the open maintenance cases based on the maintenance plan ID. Each workplace maintenance case represents a cleaning or a maintenance case for a location for a scheduled interval. The optimization is done on a floor of a selected building. It fetches all the maintenance plan records that satisfy certain criteria. For example, it fetches a set of maintenance plans, and looks for cases that are open for the next 48 hours. The state of the cases should be in **Draft**, **Ready**, or **Awaiting for approval**. For more information, see [Create and publish maintenance plans](../../workplace-maintenance-management/task/create-publish-maintenance-plans.md).
+This agent fetches all the open maintenance cases based on the maintenance plan ID. Each workplace maintenance case represents a cleaning or a maintenance case for a location for a scheduled interval. The optimization is done on a floor of a selected building. It fetches all the maintenance plan records that satisfy certain criteria. For example, it fetches a set of maintenance plans, and looks for cases that are open for the next 48 hours. The state of the cases should be in **Draft**, **Ready**, or **Awaiting for approval**. For more information, see [Create and publish maintenance plans](../workplace-maintenance-management/create-publish-maintenance-plans.md).
 
 This agent also considers workplace reservations on a floor. If a case is opened for washroom maintenance, the agent identifies the floor on which the washroom is located. It also considers the number of workplace reservations, visitor registrations, and permanent seat assignments before retrieving the space optimization threshold value.
 

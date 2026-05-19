@@ -39,5 +39,5 @@ ITSM base system includes the following guidances.
 |\[Task\] Order item|This guidance action shows relevant information and action of catalog item. This guidance can be shown on any task type.|
 |\[Non-ML\] Create known error article|Applicable only for Non-ML recommendations. Creates a known error article for a high-impact problem.|
 
-**Parent Topic:**[Recommended Actions for ITSM reference](../concept/recommended-actions-for-itsm-reference.md)
+**Parent Topic:**[Recommended Actions for ITSM reference](recommended-actions-for-itsm-reference.md)
 

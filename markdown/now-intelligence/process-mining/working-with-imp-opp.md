@@ -27,7 +27,7 @@ There are two types of improvement opportunities:
 -   Automated improvement opportunities: These improvement opportunities are displayed based on the default patterns that are already available for selection.
 
 
--   **[Set rule-based improvement opportunity](../task/rule-based-builder.md)**  
+-   **[Set rule-based improvement opportunity](rule-based-builder.md)**  
 Rule-based finding definition is a custom rule that displays improvement opportunities for a use case on the Summary and insights page.
 -   **[Setting Automated improvement opportunities](automated-findings.md)**  
 Automated improvement opportunities highlight potential areas for process optimization based on a set of prebuilt patterns.

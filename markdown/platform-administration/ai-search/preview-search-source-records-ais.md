@@ -27,7 +27,7 @@ Role required: ais\_admin
 
 3.  On the Search Source form, select the **preview** link in the informational message that reports the number of matching records.
 
-    For a description of the field values, see [Search Source form](../reference/search-source-form-ais.md).
+    For a description of the field values, see [Search Source form](search-source-form-ais.md).
 
 
 ## Result
@@ -36,5 +36,5 @@ The ServiceNow AI Platform table specified in the search source's indexed source
 
 **Note:** Preview uses the saved conditions from the search source. If you change a search source's conditions, preview doesn't reflect your changes until you save them.
 
-**Parent Topic:**[Search sources in AI Search](../concept/search-sources-ais.md)
+**Parent Topic:**[Search sources in AI Search](search-sources-ais.md)
 

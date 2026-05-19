@@ -18,5 +18,5 @@ You can access the frequently asked questions page by navigating to **Resources*
 **Related topics**  
 
 
-[Portal FAQ widget](../concept/portal-faq-widget.md)
+[Portal FAQ widget](customer-self-service-and-omnichannel-engagement/portal-faq-widget.md)
 

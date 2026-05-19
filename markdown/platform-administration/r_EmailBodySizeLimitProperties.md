@@ -68,10 +68,10 @@ For outbound emails, the system enforces the maximum body size as set by the **g
 -   The system truncates the Body text on the Email form.
 -   The system logs a warning and sets the Error string field on the Email form. The log message for such an email might look like this: `Email set to send-ignored because its size exceeds the value set in **glide.email.outbound.max\_body\_chars**. 1337 character(s) were truncated from the body field.`
 
-**Parent Topic:**[Email size limits](../concept/c_EmailAttachmentLimits.md)
+**Parent Topic:**[Email size limits](c_EmailAttachmentLimits.md)
 
 **Related topics**  
 
 
-[Advanced email properties](../../reference-pages/reference/r_AdditionalProperties.md)
+[Advanced email properties](r_AdditionalProperties.md)
 

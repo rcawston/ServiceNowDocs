@@ -52,5 +52,5 @@ Role required: sn\_lg\_ops.legal\_user
 
 The matter task is completed and sent to the matter owner for approval.
 
-**Parent Topic:**[Managing digital forensics requests](../concept/managing-legal-dft-request.md)
+**Parent Topic:**[Managing digital forensics requests](managing-legal-dft-request.md)
 

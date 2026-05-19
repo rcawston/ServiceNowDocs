@@ -31,7 +31,7 @@ The following table lists the features and skills that you can access from the N
 
 1.  Install the OT Manager Foundation plugin \(sn\_otm\_gen\_ai\).
 
-    -   For information about the application dependencies, see [Supporting information for OT Manager Foundation](../concept/supporting-information-for-now-assist-otm.md).
+    -   For information about the application dependencies, see [Supporting information for OT Manager Foundation](supporting-information-for-now-assist-otm.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin**.
 
@@ -64,5 +64,5 @@ The following table lists the features and skills that you can access from the N
     3.  In the **Toggle display** screen, select the **Status** toggle if the toggle isn't already selected.
 
 
-**Parent Topic:**[Configuring the OT Manager Foundation](../concept/configuring-na-otm.md)
+**Parent Topic:**[Configuring the OT Manager Foundation](configuring-na-otm.md)
 

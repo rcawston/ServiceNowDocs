@@ -37,7 +37,7 @@ Role required: none
 **Related topics**  
 
 
-[Merge tool](../concept/diff-merge-tool.md)
+[Merge tool](diff-merge-tool.md)
 
 [Compare to the current version](t_CompareToCurrentVersion.md)
 
@@ -49,5 +49,5 @@ Role required: none
 
 [Revert a change](t_RevertAChange.md)
 
-[View customizations and compare with current version](../../system-update-sets/task/view-customer-update-records.md)
+[View customizations and compare with current version](../system-update-sets/view-customer-update-records.md)
 

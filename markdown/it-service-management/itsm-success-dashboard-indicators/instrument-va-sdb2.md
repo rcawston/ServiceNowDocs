@@ -42,5 +42,5 @@ To update the live agent script include see, [Update the live agent script inclu
 8.  Select **Save**.
 
 
-**Parent Topic:**[Configure Virtual Agent topics for ITSM Success Dashboard](../concept/configure-va.md)
+**Parent Topic:**[Configure Virtual Agent topics for ITSM Success Dashboard](configure-va.md)
 

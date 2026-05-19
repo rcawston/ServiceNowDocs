@@ -53,5 +53,5 @@ All the conditions met in the past 30 days.
 **Related topics**  
 
 
-[Configure watchdog](../task/sem-watchdog-configure.md)
+[Configure watchdog](sem-watchdog-configure.md)
 

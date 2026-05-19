@@ -48,7 +48,7 @@ Role required: sn\_critical.agent
 8.  Select **Export**.
 
 
-**Parent Topic:**[Managing impacted people](../concept/manage-impacted-people.md)
+**Parent Topic:**[Managing impacted people](manage-impacted-people.md)
 
 **Related topics**  
 

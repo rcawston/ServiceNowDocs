@@ -46,7 +46,7 @@ Role required: Any Impact role, admin
 
 8.  Select **Install** to complete the installation.
 
-    Refer to [Dependent applications installed with the Impact Store App](../reference/data-sync-idi-store.md) for the tables installed.
+    Refer to [Dependent applications installed with the Impact Store App](data-sync-idi-store.md) for the tables installed.
 
 9.  Select **Configure**.
 
@@ -59,9 +59,9 @@ Role required: Any Impact role, admin
 
 [Use Guided Setup for Impact Store Application configuration](guided-setup-impact-in-app.md).
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](configuring-impact-platform.md)
 
-**Previous topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Previous topic:**[Configure the Impact Store Application](configuring-impact-platform.md)
 
 **Next topic:**[Use Guided Setup for Impact Store Application configuration](guided-setup-impact-in-app.md)
 

@@ -29,12 +29,12 @@ The default table on which the contact import rule is applied is the User table 
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Contact Import Rules form](../reference/contact-import-rules-form.md).
+    For more information, see [Contact Import Rules form](contact-import-rules-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Contact Import Rules form](../reference/contact-import-rules-form.md)**  
+-   **[Contact Import Rules form](contact-import-rules-form.md)**  
 Use the Contact Import Rules form to create a contact import rule that you can apply on the User table.
 
 **Parent Topic:**[Create contacts for emergency notifications](create-contacts-emergency-noti-uib-ws.md)

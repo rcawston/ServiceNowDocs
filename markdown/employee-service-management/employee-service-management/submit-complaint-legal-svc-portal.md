@@ -18,7 +18,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## About this task
 
-To submit a complaint anonymously, see [Submit a complaint through the Anonymous Report Center portal](submit-complaint-arc.md).
+To submit a complaint anonymously, see [Submit a complaint through the Anonymous Report Center portal](../legal-investigations/submit-complaint-arc.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ To submit a complaint anonymously, see [Submit a complaint through the Anonymous
 
     1.  On the Add Row dialog box, fill in the fields.
 
-        For a description of the field values, see [Ethics complaints intake form](../reference/ethics-complaint-intake-form.md).
+        For a description of the field values, see [Ethics complaints intake form](../legal-investigations/ethics-complaint-intake-form.md).
 
     2.  Click **Add**.
 

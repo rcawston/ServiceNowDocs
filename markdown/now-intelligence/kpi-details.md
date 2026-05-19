@@ -21,7 +21,7 @@ KPI Details page enables you to delve into the information inside your Performan
 
 </td><td>
 
-[Investigate indicators![](../../../reuse/icons/brand-icons/bus-scan.svg)How to extract information from an indicator using KPI Details](../reference/kpi-details-components.md)
+[Investigate indicators![](../../../reuse/icons/brand-icons/bus-scan.svg)How to extract information from an indicator using KPI Details](kpi-details-components.md)
 
 </td></tr><tr><td>
 

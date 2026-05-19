@@ -17,7 +17,7 @@ Use the SaaS detection report to discover and manage all SaaS applications acces
 
 **Important:** To view the SaaS detection report, you must do the following:
 
--   Request and install the latest version of the Software Asset Management -SaaS License Management application from the [ServiceNow Store](https://store.servicenow.com/). For more information, see [Request SaaS License Management](../task/request-saas-license-management.md).
+-   Request and install the latest version of the Software Asset Management -SaaS License Management application from the [ServiceNow Store](https://store.servicenow.com/). For more information, see [Request SaaS License Management](../saas-license-management/request-saas-license-management.md).
 -   Install the Agent Client Collector for Visibility - Content \(ACC-VC\) product version 1.3.0 or later.
 
 This report helps you manage your shadow IT spend more effectively by viewing all the users who access these applications, the usage of these applications, and how long each application has been used.

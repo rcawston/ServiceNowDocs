@@ -42,5 +42,5 @@ Role required: sn\_apm.apm\_user
 
 The business application is removed from the TRM product.
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 

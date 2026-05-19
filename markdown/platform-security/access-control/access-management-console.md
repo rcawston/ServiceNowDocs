@@ -23,7 +23,7 @@ Learn the features and business value of Access management console.](../../secur
 
 </td><td>
 
-[Use](../task/use-access-management-console.md)![Use](../../../reuse/icons/brand-icons/bus-sdlc.svg)
+[Use](use-access-management-console.md)![Use](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
 Understand how to use Access management console.
 

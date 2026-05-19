@@ -46,7 +46,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 4.  In the General details step, fill in the fields.
 
-    For information about the inputs for each skill, see [Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](../reference/now-assist-slo-skill-input-triggers.md).
+    For information about the inputs for each skill, see [Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-skill-input-triggers.md).
 
     1.  Enter a name and description for the skill.
 
@@ -188,5 +188,5 @@ Closed
 
 [Customize Now Assist for Supplier Lifecycle Operations \(SLO\) to use the Virtual Agent chat](cust-now-assist-slo-va.md)
 
-[Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](../reference/now-assist-slo-skill-input-triggers.md)
+[Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-skill-input-triggers.md)
 

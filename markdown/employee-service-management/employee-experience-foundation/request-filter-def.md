@@ -34,7 +34,7 @@ Create a filter definition for the Requests page to have multiple filter support
 
 3.  On the Request filter definition form, fill in the fields and select **Submit**.
 
-    For a description of the field values, see [Request filter definition form](../reference/filter-def-request-form.md).
+    For a description of the field values, see [Request filter definition form](filter-def-request-form.md).
 
 
 ## Result

@@ -19,7 +19,7 @@ Service Reliability Management \(SRM\) works with integrations to prioritize and
 
 **Note:** You might want multiple tool integrations to monitor eachtechnology management service and receive events from those tools. See [Working with integrations in SRM](sr-work-integrations.md) for more information.
 
-In addition, you can create reliability metrics for the service. See [Working with reliability metrics](../../slo-management/concept/sr-work-SLI-SLO.md).
+In addition, you can create reliability metrics for the service. See [Working with reliability metrics](../service-level-objective-management/sr-work-SLI-SLO.md).
 
 Tying a team and policies to that service makes it easier to divide responsibilities and track technical outcomes. It also makes it easier to automate response routines and focus on who you notify and when.
 
@@ -51,9 +51,9 @@ The cards on the Overview tab display the following metrics. By default, the lis
 You can interact with the list in the following ways:
 
 -   Group or filter columns to customize the view.
--   Edit, sort, or export the list as needed. See [Export list information to a file](../task/sr-export-to-file.md).
+-   Edit, sort, or export the list as needed. See [Export list information to a file](sr-export-to-file.md).
 
-For more information about individual service details, see [Edit service details form](../reference/sr-edit-service-form.md).
+For more information about individual service details, see [Edit service details form](sr-edit-service-form.md).
 
 ## Services list view definitions
 
@@ -68,13 +68,13 @@ The columns include the following details:
 
 ## Service reliability
 
-The Service reliability tab is a customizable dashboard showing high-level service performance. For more information about the dashboard, see [Visualizations in the Service reliability dashboard](../reference/sr-service-dashboard-visualizations.md).
+The Service reliability tab is a customizable dashboard showing high-level service performance. For more information about the dashboard, see [Visualizations in the Service reliability dashboard](../service-level-objective-management/sr-service-dashboard-visualizations.md).
 
--   **[Add a service to SRM](../task/sr-add-service.md)**  
+-   **[Add a service to SRM](sr-add-service.md)**  
 Add services to Service Reliability Management \(SRM\) to help your teams manage service health.
--   **[Edit service details in SRM](../task/sr-edit-service.md)**  
+-   **[Edit service details in SRM](sr-edit-service.md)**  
 Edit an existing service owned by your team. For each service that you support in SRM provide general information about the service and the SRM team that supports it.
--   **[Remove a service from SRM](../task/sr-remove-service.md)**  
+-   **[Remove a service from SRM](sr-remove-service.md)**  
 Remove a service from Service Reliability Management \(SRM\) when you no longer need to track or monitor its reliability.
 -   **[Working with integrations in SRM](sr-work-integrations.md)**  
 Connect your services to monitoring tools using the Integrations Launchpad . Integrations send information to Service Reliability Management \(SRM\), helping you track alerts, manage incidents, and maintain service health.
@@ -83,5 +83,5 @@ Connect your services to monitoring tools using the Integrations Launchpad . Int
 
 **Previous topic:**[Using Service Reliability Management](using-service-reliability-management.md)
 
-**Next topic:**[Add a service to SRM](../task/sr-add-service.md)
+**Next topic:**[Add a service to SRM](sr-add-service.md)
 

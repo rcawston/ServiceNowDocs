@@ -44,7 +44,7 @@ A change request summary provides you with a concise summary of a change request
 -   Conflict status
 -   Type
 
-For information about the change request states, see [State progression for normal, standard, and emergency changes](../../change-management/concept/normal-standard-emergency-states.md).
+For information about the change request states, see [State progression for normal, standard, and emergency changes](../change-management/normal-standard-emergency-states.md).
 
 You can summarize a change request in Core UI and Service Operations Workspace for ITSM.
 

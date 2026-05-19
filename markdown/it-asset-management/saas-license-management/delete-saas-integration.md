@@ -32,7 +32,7 @@ An SSO integration is created using a directory integration. When you delete an 
 **Related topics**  
 
 
-[Request SaaS License Management](../task/request-saas-license-management.md)
+[Request SaaS License Management](request-saas-license-management.md)
 
 [SaaS License Management setup for large companies](saas-setup-large-companies.md)
 
@@ -46,21 +46,21 @@ An SSO integration is created using a directory integration. When you delete an 
 
 [Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
 
-[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)
+[Review a software reclamation rule](add-reclamation-rule-sub.md)
 
 [Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)
 
-[Create a child alias to set up multiple Cisco Webex integration profiles](../task/create-child-alias-webex.md)
+[Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)
 
-[Create a child alias to set up multiple Confluence Cloud integration profiles](../task/create-child-alias-confluence.md)
+[Create a child alias to set up multiple Confluence Cloud integration profiles](create-child-alias-confluence.md)
 
-[Create a child alias to set up multiple Jira integration profiles](../task/create-child-alias-jira.md)
+[Create a child alias to set up multiple Jira integration profiles](create-child-alias-jira.md)
 
-[Associate a user with subscription records](../task/map-user-data.md)
+[Associate a user with subscription records](map-user-data.md)
 
-[Disconnect SSO apps](../task/disconnect-azure-ad-apps.md)
+[Disconnect SSO apps](disconnect-azure-ad-apps.md)
 
 [Subscription identifiers for SaaS and SSO applications](subscription-identifiers.md#)
 

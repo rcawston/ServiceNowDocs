@@ -76,5 +76,5 @@ Exception roles that the restrictions don't apply to. **Note:** An example of th
 -   admin
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform performance reference](../concept/platform-performance-references.md)
+</table>**Parent Topic:**[Platform performance reference](platform-performance-references.md)
 

@@ -22,9 +22,9 @@ You can configure chat queues using one of the given options.
 
 By default, a sample Universal Request Chat Queue is available for both the options. You can create your own queue or customize the default queue.
 
--   **[Configure Advanced Work Assignment chat queue](../task/ur-config-awa-queue.md)**  
+-   **[Configure Advanced Work Assignment chat queue](ur-config-awa-queue.md)**  
 Create or modify the default chat queue for UR in Advanced Work Assignment automatically assign work items to your agents, based on their availability.
--   **[Configure Connect chat support queue](../task/ur-connect-chat-queue.md)**  
+-   **[Configure Connect chat support queue](ur-connect-chat-queue.md)**  
 Connect Support is a real-time messaging tool that enables support agents to easily track their support cases, find solutions, and resolve problems quickly.
 
 **Parent Topic:**[Configuring Universal Request](configure-ur.md)

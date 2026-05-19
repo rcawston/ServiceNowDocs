@@ -55,7 +55,7 @@ Role required: sn\_lep.achievement\_manager
 
 [Create an achievement definition](create-achievement.md)
 
-[Create an achievement rule](../task/create-achievement-rule.md)
+[Create an achievement rule](create-achievement-rule.md)
 
-[Create an achievement rule item](../task/achievement-rule-item.md)
+[Create an achievement rule item](achievement-rule-item.md)
 

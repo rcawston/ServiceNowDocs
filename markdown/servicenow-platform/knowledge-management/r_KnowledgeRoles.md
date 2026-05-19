@@ -15,7 +15,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 Certain roles are required to use Knowledge Management functionality.
 
-**Note:** The user criteria determine the access to knowledge articles. For more information, see [Managing access to knowledge bases and knowledge articles](../concept/user-access-knowledge.md).
+**Note:** The user criteria determine the access to knowledge articles. For more information, see [Managing access to knowledge bases and knowledge articles](user-access-knowledge.md).
 
 The kcs\_candidate, kcs\_contributor, and kcs\_publisher roles also include the knowledge role. For more information about these KCS-related roles, see [KCS v6 Practices Guide](https://library.serviceinnovation.org/KCS/KCS_v6/KCS_v6_Practices_Guide).
 

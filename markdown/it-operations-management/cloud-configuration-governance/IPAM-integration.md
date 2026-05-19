@@ -17,7 +17,7 @@ Use an IP address management \(IPAM\) tool like Infoblox to manage cloud IP addr
 
 ## Infoblox integration
 
-By default, Cloud Provisioning and Governance supports Infoblox integration. You can create Infoblox credentials and then set up an Infoblox instance record. See [Register an Infoblox server](../task/create-infoblox.md) for instructions.
+By default, Cloud Provisioning and Governance supports Infoblox integration. You can create Infoblox credentials and then set up an Infoblox instance record. See [Register an Infoblox server](create-infoblox.md) for instructions.
 
 **Note:** IPAM integration is not supported with template based cloud catalog items.
 

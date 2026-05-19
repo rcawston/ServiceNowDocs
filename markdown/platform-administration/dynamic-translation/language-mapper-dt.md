@@ -17,10 +17,10 @@ Dynamic Translation enables you to add mapping between the ServiceNow® language
 
 -   You can create a language code to map the ServiceNow® language code.
 -   You can view the default language code mapping records in the Language Code Mapping \[sn\_trans\_commons\_language\_code\_mapping\] table.
--   You can associate the language code mapping to a translator configuration record. For more information, see [Create a custom translator configuration](../task/create-custom-translator.md).
+-   You can associate the language code mapping to a translator configuration record. For more information, see [Create a custom translator configuration](create-custom-translator.md).
 
     **Note:** By default, language code mappings are included in the records of Microsoft Azure Translator Service and Google Cloud Translator Service. These preconfigured records for third-party providers are available in the Translator Configurations \[sn\_dt\_translator\_configuration\] table.
 
 
-To add a new language code mapping, see [Create a language code mapping](../task/create-language-code-mapping.md).
+To add a new language code mapping, see [Create a language code mapping](create-language-code-mapping.md).
 

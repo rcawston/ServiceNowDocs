@@ -63,5 +63,5 @@ This example illustrates getting all attachments from an incident record. Leavin
 
 In this example, the incident record contained two attachments.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

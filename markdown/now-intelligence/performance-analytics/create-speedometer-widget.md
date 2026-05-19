@@ -21,7 +21,7 @@ Role required: pa\_admin or admin
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -29,11 +29,11 @@ A speedometer visualization shows the latest score with a needle on a speedomete
 
 The speedometer is particularly useful when a target is set on the indicator. If a direction is set on the indicator \(minimize or maximize\), the visualization reproduces the target and the 3- or 5-color traffic light set on the indicator. For example, the following speedometer shows the Average age open incidents indicator with a Minimize direction, a target of 10, and a 3-color traffic light.
 
-To create a target color scheme, see [Indicator targets](../concept/pa-targets.md#).
+To create a target color scheme, see [Indicator targets](pa-targets.md#).
 
 ![Speedometer of the average age of open incidents with a target of 10 and a three color traffic light. Ten to 11 is yellow and more than11 is red.](../image/speedometer-score-widget.png "Speedometer visualization - score widget")
 
-The dial visualization does not show the indicator [target](../concept/performance-analytics-glossary.md#).
+The dial visualization does not show the indicator [target](performance-analytics-glossary.md#).
 
 ![Dial visualization of the latest score of average age of open incidents](../image/dial-score-widget.png "Dial visualization - score widget")
 
@@ -67,7 +67,7 @@ Breakdown and Element
 
 </td><td>
 
-Only the scores that match the specified element of this breakdown are shown. Select values for both **Breakdown** and **Element**. Otherwise, only scores that are not associated with any element of the breakdown are shown. **Note:** Instead of specifying an element for the first-level breakdown, you can specify an elements filter in the **Elements Settings** tab. Use elements filters for creating personal visualizations. For more information, see [Additional settings for time series widgets](../reference/optional-settings-ts-widgets.md#).
+Only the scores that match the specified element of this breakdown are shown. Select values for both **Breakdown** and **Element**. Otherwise, only scores that are not associated with any element of the breakdown are shown. **Note:** Instead of specifying an element for the first-level breakdown, you can specify an elements filter in the **Elements Settings** tab. Use elements filters for creating personal visualizations. For more information, see [Additional settings for time series widgets](optional-settings-ts-widgets.md#).
 
  **Important:** If the widget is for a formula indicator, all contributing indicators in the formula must support the breakdown. Otherwise an error message instead of a value appears in the widget on a dashboard.
 
@@ -89,7 +89,7 @@ Time series
 
 </td><td>
 
-Runs a function on the indicator scores for a specific time period, such as a 7-day sum or average. For more information, see [Applying time series aggregations](../concept/applying-time-series-aggregations.md#).**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget for an indicator that uses such a calendar.
+Runs a function on the indicator scores for a specific time period, such as a 7-day sum or average. For more information, see [Applying time series aggregations](applying-time-series-aggregations.md#).**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget for an indicator that uses such a calendar.
 
 </td></tr></tbody>
 </table>7.  To have the widget follow the breakdown elements that are selected on a breakdown dashboard, follow these steps:
@@ -112,7 +112,7 @@ Runs a function on the indicator scores for a specific time period, such as a 7-
 
 9.  In the **Element Settings** tab, you can select an element filter instead of selecting a specific element in the **Element** field.
 
-    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using element filters to personalize widgets, see [Personalized visuals](../concept/personalized-visuals.md#).
+    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using element filters to personalize widgets, see [Personalized visuals](personalized-visuals.md#).
 
 10. Click **Submit**.
 
@@ -124,9 +124,9 @@ To view the widget, add it to a dashboard or a portal.
 **Related topics**  
 
 
-[Edit a responsive dashboard](../../dashboards/task/t_EditADashboard.md)
+[Edit a responsive dashboard](t_EditADashboard.md)
 
-[Performance Analytics widgets on Service Portal](../concept/service-portal-pa-widget.md#)
+[Performance Analytics widgets on Service Portal](service-portal-pa-widget.md#)
 
-[Indicator targets](../concept/pa-targets.md#)
+[Indicator targets](pa-targets.md#)
 

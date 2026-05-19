@@ -73,5 +73,5 @@ The Aha! Roadmaps external content connector is updated with your modified crawl
 
 To retrieve content from your Aha! Roadmaps source system using your modified crawl settings, create and run a one-time content crawl for your Aha! Roadmaps external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Aha! Roadmaps external content connector](../concept/aha-roadmaps-external-content-connector.md)
+**Parent Topic:**[Aha! Roadmaps external content connector](aha-roadmaps-external-content-connector.md)
 

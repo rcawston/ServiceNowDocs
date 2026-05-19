@@ -47,5 +47,5 @@ gs.info("HTTP Status: " + status);
 
 **Note:** This example uses `waitForResponse` to pause for a response, and then details how the response is handled. However, when using `executeAsync`, consider processing the response body in a separate business rule to take advantage of the asynchronous call rather than using `waitForResponse`.
 
-**Parent Topic:**[Scripting outbound REST](../../../../../integrate/outbound-rest/concept/c_ScriptingOutboundREST.md)
+**Parent Topic:**[Scripting outbound REST](c_ScriptingOutboundREST.md)
 

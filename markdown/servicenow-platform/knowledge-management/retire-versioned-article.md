@@ -54,5 +54,5 @@ Beginning with the Utah release, you can give a replacement article while retiri
 
 The selected article is retired and can be accessed from **Knowledge** &gt; **Articles** &gt; **Retired**
 
-**Parent Topic:**[Use article versioning](../concept/use-article-versioning_0.md)
+**Parent Topic:**[Use article versioning](use-article-versioning_0.md)
 

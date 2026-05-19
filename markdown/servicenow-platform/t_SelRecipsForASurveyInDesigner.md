@@ -28,7 +28,7 @@ Role required: admin or survey\_admin
 4.  Click **Save**.
 
 
-**Parent Topic:**[Survey users and groups](../concept/c_SurveyUsersAndGroups.md)
+**Parent Topic:**[Survey users and groups](c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 

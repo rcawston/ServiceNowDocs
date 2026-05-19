@@ -39,7 +39,7 @@ Role required:
     For information on editing improvement opportunities, see the following topics:
 
     -   [Set rule-based improvement opportunity](rule-based-builder.md)
-    -   [Setting Automated improvement opportunities](../concept/automated-findings.md)
+    -   [Setting Automated improvement opportunities](automated-findings.md)
 
-**Parent Topic:**[Setting improvement opportunity for projects](../concept/project-imp-opp.md)
+**Parent Topic:**[Setting improvement opportunity for projects](project-imp-opp.md)
 

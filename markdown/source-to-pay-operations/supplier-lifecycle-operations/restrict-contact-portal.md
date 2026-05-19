@@ -44,12 +44,12 @@ The **Restrict access** option is available only to the primary supplier contact
 
 The Primary contact column is set to **false** for this contact on the Vendor Contacts page, and the contact no longer has the primary contact role.
 
-**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
 **Related topics**  
 
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
 [Elevate a contact to the primary contact role from the Supplier Collaboration Portal](elevate-contact-portal.md)
 

@@ -31,5 +31,5 @@ Role required: admin
 4.  In the **Global behavior** section, toggle off the switch for using Build Agent.
 
 
-**Parent Topic:**[Configuring app generation](../concept/sns-app-gen-config-landing.md)
+**Parent Topic:**[Configuring app generation](sns-app-gen-config-landing.md)
 

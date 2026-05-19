@@ -42,8 +42,8 @@ Create multi-component models and assets
 
 </td><td>
 
--   [Create a multi-component model](../task/create-multicomponent-model.md)
--   [Create a multi-component asset](../task/create-multicomponent-asset.md)
+-   [Create a multi-component model](create-multicomponent-model.md)
+-   [Create a multi-component asset](create-multicomponent-asset.md)
 
 </td></tr><tr><td>
 
@@ -56,8 +56,8 @@ Create enterprise models and assets
 
 </td><td>
 
--   [Create enterprise models](../task/create-model-eam.md)
--   [Create enterprise assets](../task/create-asset-eam.md)
+-   [Create enterprise models](create-model-eam.md)
+-   [Create enterprise assets](create-asset-eam.md)
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Create enterprise model components
 
 </td><td>
 
-[Create enterprise model components](../task/create-model-components-eam.md)
+[Create enterprise model components](create-model-components-eam.md)
 
 </td></tr><tr><td>
 
@@ -83,8 +83,8 @@ Create and import classification codes
 
 </td><td>
 
--   [Create classification codes](../task/create-classification-codes.md)
--   [Import classification codes](../task/import-class-codes-eam.md)
+-   [Create classification codes](create-classification-codes.md)
+-   [Import classification codes](import-class-codes-eam.md)
 
 </td></tr><tr><td>
 
@@ -97,10 +97,10 @@ Add or clone calibration attributes to an enterprise model and asset
 
 </td><td>
 
--   [Add calibration attributes to an enterprise model](../task/add-calibration-attributes-enterprise-model.md)
--   [Clone calibration attributes to an enterprise model](../task/clone-calibration-attributes-enterprise-model.md)
--   [Add calibration attributes to an enterprise asset](../task/add-calibration-attributes-enterprise-asset.md)
--   [Clone a calibration attribute to an enterprise asset](../task/clone-calibration-attributes-enterprise-asset.md)
+-   [Add calibration attributes to an enterprise model](add-calibration-attributes-enterprise-model.md)
+-   [Clone calibration attributes to an enterprise model](clone-calibration-attributes-enterprise-model.md)
+-   [Add calibration attributes to an enterprise asset](add-calibration-attributes-enterprise-asset.md)
+-   [Clone a calibration attribute to an enterprise asset](clone-calibration-attributes-enterprise-asset.md)
 
 </td></tr><tr><td>
 
@@ -112,8 +112,8 @@ sn\_eam.enterprise\_asset\_manager
 
 </td><td>
 
--   [Create linear assets](../task/create-linear-asset.md)
--   [Create linear asset types](../task/create-linear-asset-types.md)
+-   [Create linear assets](create-linear-asset.md)
+-   [Create linear asset types](create-linear-asset-types.md)
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Create pallet assets
 
 </td><td>
 
-[Create pallet assets in the Enterprise Asset Workspace](../task/create-pallet-asset-eam.md)
+[Create pallet assets in the Enterprise Asset Workspace](create-pallet-asset-eam.md)
 
 </td></tr><tr><td>
 
@@ -150,8 +150,8 @@ sn\_eam.enterprise\_asset\_manager
 
 </td><td>
 
--   [Create an asset onboarding process](../task/create-asset-onboarding-task-eam.md)
--   [Create a multi-asset onboarding process](../task/create-multi-asset-onboarding.md)
+-   [Create an asset onboarding process](create-asset-onboarding-task-eam.md)
+-   [Create a multi-asset onboarding process](create-multi-asset-onboarding.md)
 
 </td></tr><tr><td>
 
@@ -164,7 +164,7 @@ Track assets using Indoor maps
 
 </td><td>
 
-[Track assets using indoor maps in the Enterprise Asset Workspace](../task/track-enterprise-assets-indoor-maps.md)
+[Track assets using indoor maps in the Enterprise Asset Workspace](track-enterprise-assets-indoor-maps.md)
 
 </td></tr><tr><td>
 
@@ -236,7 +236,7 @@ sn\_eam.enterprise\_admin
 
 </td><td>
 
-[Create a knowledge article for Enterprise Asset Management](../task/create-eam-knowledge-article.md)
+[Create a knowledge article for Enterprise Asset Management](create-eam-knowledge-article.md)
 
 </td></tr></tbody>
 </table>

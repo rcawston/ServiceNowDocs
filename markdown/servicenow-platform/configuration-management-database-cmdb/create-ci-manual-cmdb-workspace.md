@@ -17,7 +17,7 @@ Create a new CI in CMDB Workspace, while applying Identification and Reconciliat
 
 ## About this task
 
-Creating specialty CIs such as an application service, isn't supported in this Create CI experience. Typically, such CIs aren't discoverable and you must create them manually using specific wizards, such as the [Application service wizard](../../service-mapping/task/create-it-services.md).
+Creating specialty CIs such as an application service, isn't supported in this Create CI experience. Typically, such CIs aren't discoverable and you must create them manually using specific wizards, such as the [Application service wizard](create-it-services.md).
 
 You can access the Create CI experience in either of the following ways:
 
@@ -26,12 +26,12 @@ You can access the Create CI experience in either of the following ways:
 
 As you progress through the procedure, fields appear dynamically according to your selections and entries on the current or previous pages.
 
-To manually create a new CI without applying IRE processes \(Core UI\), see [Populating the CMDB](../concept/c_OptionsToPopulateCMDB.md). For more information about mandatory attributes, IRE processes, dependent CIs, and the CI relationship editor \(Core UI\), see:
+To manually create a new CI without applying IRE processes \(Core UI\), see [Populating the CMDB](c_OptionsToPopulateCMDB.md). For more information about mandatory attributes, IRE processes, dependent CIs, and the CI relationship editor \(Core UI\), see:
 
 -   [Set a CI attribute to be mandatory](t_SetCIFieldMandatory.md)
--   [Identification rules](../concept/c_IdentificationRules.md)
--   [CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
--   [CI relationship editor](../concept/c_RelationshipEditor.md)
+-   [Identification rules](c_IdentificationRules.md)
+-   [CMDB classifications and class dependency](c_CMDBClassifications.md)
+-   [CI relationship editor](c_RelationshipEditor.md)
 
 ## Before you begin
 
@@ -132,7 +132,7 @@ In the new CI, **Discovery source** is set to **Manual via IRE**.
 
 ## What to do next
 
-You can view the new CI or other CIs, using CI Form in CMDB Workspace. For more information about using the CI Form, see [Manage CI details using CI Form in CMDB Workspace](../concept/ci-form-cmdb-workspace.md).
+You can view the new CI or other CIs, using CI Form in CMDB Workspace. For more information about using the CI Form, see [Manage CI details using CI Form in CMDB Workspace](ci-form-cmdb-workspace.md).
 
-**Parent Topic:**[CMDB Workspace store app](../concept/cmdb-workspace.md)
+**Parent Topic:**[CMDB Workspace store app](cmdb-workspace.md)
 

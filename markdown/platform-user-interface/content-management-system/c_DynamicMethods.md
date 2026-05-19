@@ -21,7 +21,7 @@ Reference common code in the system to make long-term maintenance of the site ea
 
 -   **Dynamic Blocks**
 
-    These blocks are where the majority of your work resides. For more information, see [Configure dynamic blocks](../task/t_CreateADynamicBlock.md).
+    These blocks are where the majority of your work resides. For more information, see [Configure dynamic blocks](t_CreateADynamicBlock.md).
 
 -   **Frames**
 
@@ -29,7 +29,7 @@ Reference common code in the system to make long-term maintenance of the site ea
 
 -   **Lists**
 
-    Lists generate links to records based on the filtering rules you define. Lists can be sorted for presentation by any field in the corresponding record. Lists help supplement navigation and pull data from outside the CMS. For more information, see [Customize the list block](../task/t_DefineTheListBlock.md).
+    Lists generate links to records based on the filtering rules you define. Lists can be sorted for presentation by any field in the corresponding record. Lists help supplement navigation and pull data from outside the CMS. For more information, see [Customize the list block](t_DefineTheListBlock.md).
 
 -   **Content Types**
 
@@ -37,11 +37,11 @@ Reference common code in the system to make long-term maintenance of the site ea
 
 -   **List Definitions**
 
-    List definitions enable you to extend the summary template defaults defined on the site level. Used with [frames](c_StyleInContentManagement.md), list definitions render the same data differently based on the placement on the page or site. For more information, see [Configure list definitions](../task/t_ConfigureListDefinitions.md).
+    List definitions enable you to extend the summary template defaults defined on the site level. Used with [frames](c_StyleInContentManagement.md), list definitions render the same data differently based on the placement on the page or site. For more information, see [Configure list definitions](t_ConfigureListDefinitions.md).
 
 -   **Detailed Content**
 
-    Detailed content in page detail settings\) are blocks that display the content of an existing document as a block on a content page. For more information, see [Configure a detailed content block](../task/t_DetailedContentBlock.md).
+    Detailed content in page detail settings\) are blocks that display the content of an existing document as a block on a content page. For more information, see [Configure a detailed content block](t_DetailedContentBlock.md).
 
 
 **Parent Topic:**[Content Management integration points](c_CMSIntegrationPoints.md)

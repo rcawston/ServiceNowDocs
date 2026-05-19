@@ -22,7 +22,7 @@ Matching rules look for:
 -   If there are no involved parties with type of complainant, look for involved parties with type of subject of allegation and use their country.
 -   If there are no involved parties with a country that can be used, then only skills are used.
 
-**Note:** For more information, see [Add or modify a matching rule](../task/CreateModMatchingRule.md).
+**Note:** For more information, see [Add or modify a matching rule](CreateModMatchingRule.md).
 
-You can restrict an ER case to be assigned to only members of a specific group. See [Configure an employee relations case restriction](../task/hr-er-create-case-restriction.md).
+You can restrict an ER case to be assigned to only members of a specific group. See [Configure an employee relations case restriction](hr-er-create-case-restriction.md).
 

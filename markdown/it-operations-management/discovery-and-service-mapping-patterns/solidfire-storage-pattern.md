@@ -171,5 +171,5 @@ The Dependency Views map shows all discovered SolidFire storage system clusters 
 |Storage server \(main CI\)|Runs On::Runs|Storage cluster|
 |Storage server \(main CI\)|Contains::Contained By|Disk|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

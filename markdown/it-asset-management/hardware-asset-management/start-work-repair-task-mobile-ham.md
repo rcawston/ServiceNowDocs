@@ -52,16 +52,16 @@ On the **Details** tab, the **Start work** link changes to **Start timer**, **Re
 
 ## What to do next
 
-[Record time worked on a hardware asset repair task using the Mobile Agent application](../concept/record-time-worked-mobile-agent-app-con.md).
+[Record time worked on a hardware asset repair task using the Mobile Agent application](record-time-worked-mobile-agent-app-con.md).
 
-**Parent Topic:**[Manage hardware asset repair tasks using the Mobile Agent application](../concept/repair-orders-mobile-agent-ham.md)
+**Parent Topic:**[Manage hardware asset repair tasks using the Mobile Agent application](repair-orders-mobile-agent-ham.md)
 
 **Related topics**  
 
 
 [View your hardware asset repair tasks using the Mobile Agent application](view-ham-repair-tasks-using-mobile-agent.md)
 
-[Record time worked on a hardware asset repair task using the Mobile Agent application](../concept/record-time-worked-mobile-agent-app-con.md)
+[Record time worked on a hardware asset repair task using the Mobile Agent application](record-time-worked-mobile-agent-app-con.md)
 
 [Close a hardware asset repair task using the Mobile Agent application](complete-repair-task-mobile-app-ham.md)
 

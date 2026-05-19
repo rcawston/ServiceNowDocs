@@ -21,7 +21,7 @@ With this due diligence playbook, procurement specialists, sourcing managers, an
 
 The tiering assessor must complete the tiering questionnaire after the supply manager submits the tiering questionnaire. The state of the tiering assessment questionnaire changes to Awaiting response.
 
-The supplier contact completes the risk assessment from the supplier collaboration portal. For more information on this, see [Complete a risk assessment from the Supplier Collaboration Portal](../../supplier-lifecycle-operations/task/complete-risk-assessments.md).
+The supplier contact completes the risk assessment from the supplier collaboration portal. For more information on this, see [Complete a risk assessment from the Supplier Collaboration Portal](../supplier-lifecycle-operations/complete-risk-assessments.md).
 
 Note the following scenarios:
 
@@ -29,11 +29,11 @@ Note the following scenarios:
 -   When Supplier Lifecycle Operations is installed, but the supplier is old and already onboarded, the DDR is created as a procurement case.
 -   When Supplier Lifecycle Operations is not installed, irrespective of whether the supplier is old or new, the DDR is created in Sourcing and Procurement Operations as a procurement case.
 
-For information on how Supplier Lifecycle Operations similarly assesses suppliers during the onboarding process, see [Minimize risk by assessing suppliers during the onboarding process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/better-together/better-tprm-slo.md). For detailed information on the supplier onboarding playbook, see [Use the supplier onboarding playbook to onboard suppliers](../../supplier-lifecycle-operations/concept/use-playbooks-onboard-supp.md#).
+For information on how Supplier Lifecycle Operations similarly assesses suppliers during the onboarding process, see [Minimize risk by assessing suppliers during the onboarding process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/better-together/better-tprm-slo.md). For detailed information on the supplier onboarding playbook, see [Use the supplier onboarding playbook to onboard suppliers](../supplier-lifecycle-operations/use-playbooks-onboard-supp.md#).
 
 For information on how to configure TPRM, see [Configuring Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-configuring.md). For detailed information on the due diligence workflow, see [Due diligence workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-workflow-in-workspace.md).
 
--   **[Track risk assessments from the due diligence playbook](../task/track-risk-assess-due-diligence-playbook.md)**  
+-   **[Track risk assessments from the due diligence playbook](track-risk-assess-due-diligence-playbook.md)**  
 As procurement specialists, use the due diligence playbook to track supplier risk assessments and complete the associated tasks.
 
 **Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](work-playbooks-spo.md)
@@ -41,15 +41,15 @@ As procurement specialists, use the due diligence playbook to track supplier ris
 **Related topics**  
 
 
-[Process a purchase order edit in playbook](../task/process-purchase-order.md)
+[Process a purchase order edit in playbook](process-purchase-order.md)
 
-[Process a purchase requisition edit request in playbook](../task/playbook-edit-request-flow.md)
+[Process a purchase requisition edit request in playbook](playbook-edit-request-flow.md)
 
-[Process a return request in playbook](../task/playbook-return-request.md)
+[Process a return request in playbook](playbook-return-request.md)
 
-[Process a replacement request in playbook](../task/playbook-replacement-request.md)
+[Process a replacement request in playbook](playbook-replacement-request.md)
 
-[Process an edit receipt request in playbook](../task/playbook-process-edit-receipt.md)
+[Process an edit receipt request in playbook](playbook-process-edit-receipt.md)
 
 [Fulfilling request for copy of contract in playbook](fulfilling-request-for-contract.md)
 

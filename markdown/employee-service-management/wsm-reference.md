@@ -13,9 +13,9 @@ breadcrumb: [Workplace Space Mapping, Workplace Service Delivery, Employee Servi
 
 Learn more about Workplace Space Mapping and the components installed with it, such as specific user roles.
 
--   **[Components installed with Workplace Space Mapping](../reference/wsm-mappedin-components.md)**  
+-   **[Components installed with Workplace Space Mapping](wsm-mappedin-components.md)**  
 Several types of components are installed with Workplace Space Mapping, including tables and user roles.
--   **[Properties installed with Workplace Space Mapping](../reference/wsd-space-mapping-properties.md)**  
+-   **[Properties installed with Workplace Space Mapping](wsd-space-mapping-properties.md)**  
 The following properties are installed with Workplace Space Mapping. Navigate to **All** &gt; **Workplace Space Mapping** &gt; **Properties** or enter sys\_properties.list in the context menu and search for Workplace Space Mapping properties.
 
 **Parent Topic:**[Workplace Space Mapping](wsm-mappedin-admin.md)

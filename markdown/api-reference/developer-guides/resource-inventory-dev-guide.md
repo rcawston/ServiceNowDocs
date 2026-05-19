@@ -15,7 +15,7 @@ breadcrumb: [Developer guides, API implementation and reference]
 
 Use the Resource Inventory Open API to create, retrieve, update, and delete resources such as interface cards, logical and physical connections, network sites, and more.
 
-This developer guide provides information on how to extend the [Resource Inventory Open API](../../../inbound-rest/concept/resource-inventory-api.md#) to make various customizations.
+This developer guide provides information on how to extend the [Resource Inventory Open API](../rest-apis/resource-inventory-api.md#) to make various customizations.
 
 ## Extending the Resource Inventory Open API
 

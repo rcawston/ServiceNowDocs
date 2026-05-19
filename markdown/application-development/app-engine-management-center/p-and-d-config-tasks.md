@@ -41,7 +41,7 @@ Configure environment credentials.
 
 </td><td>
 
-Configure credentials for each instance in your pipeline so that the flows used by AEMC can access the instances in your pipelines.For more information, see [Configure environment credentials](../task/create-pipeline-credentials.md).
+Configure credentials for each instance in your pipeline so that the flows used by AEMC can access the instances in your pipelines.For more information, see [Configure environment credentials](create-pipeline-credentials.md).
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ Configure environments.
 
 </td><td>
 
-Set up your production and non-production \(that is, development, test, and/or staging\) environments by adding the URLs and credentials used to access each instance.For more information, see [Configure your pipeline environments](../task/config-pipeline-environments.md).
+Set up your production and non-production \(that is, development, test, and/or staging\) environments by adding the URLs and credentials used to access each instance.For more information, see [Configure your pipeline environments](config-pipeline-environments.md).
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ Configure pipelines.
 
 </td><td>
 
-Set up and configure each pipeline by naming the pipeline, identifying each of the environments associated with the pipeline, and specifying the order in which apps are deployed between the environments in that pipeline.For more information, see [Configure your pipeline](../task/config-pipeline.md).
+Set up and configure each pipeline by naming the pipeline, identifying each of the environments associated with the pipeline, and specifying the order in which apps are deployed between the environments in that pipeline.For more information, see [Configure your pipeline](config-pipeline.md).
 
 </td></tr><tr><td>
 
@@ -65,9 +65,9 @@ Add users to the App Engine admin group.
 
 </td><td>
 
-Add users involved with this flow of tasks to the App Engine admin group.**Note:** If already added users on the production instance using [AES guided setup](../../app-engine-studio/concept/configure-aes.md) or [Configure Application Intake](../../app-engine-studio/task/config-app-intake.md) guided setup, you can skip this step.
+Add users involved with this flow of tasks to the App Engine admin group.**Note:** If already added users on the production instance using [AES guided setup](../app-engine-studio/configure-aes.md) or [Configure Application Intake](config-app-intake.md) guided setup, you can skip this step.
 
-For more information, see [Add users to the App Engine Admin group](../../app-engine-studio/task/add-users-to-admin-grp.md).
+For more information, see [Add users to the App Engine Admin group](../app-engine-studio/add-users-to-admin-grp.md).
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Add Automated Test Framework \(ATF\) and Instance Scan suites.
 
 Add your customized test suites as part of an application deployment in addition to the instance scan and ATF testing suites that are standard in AEMC.
 
- For more information, see [Add ATF and instance scan suites for testing](../../app-engine-studio/task/add-atf-instance-scan-suite-testing.md).
+ For more information, see [Add ATF and instance scan suites for testing](add-atf-instance-scan-suite-testing.md).
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Enable Change Management integration
 
 Connect an existing Change Management program with AEMC so that deployments through the pipeline to the production environment are automatically scheduled based on the Change request state and planned change window.
 
- For more information, see [Enable Change Management integration](../task/enable-change-management-integration.md).
+ For more information, see [Enable Change Management integration](enable-change-management-integration.md).
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ Configure properties to integrate Change Management
 
 Change requests and configuration items \(CIs\) are created using specifications set up in your existing Change Management program. If you want to change the change model, change template, or CI creation subflows used during app deployments, you must configure these properties during Guided Setup.
 
- For more information, see [Configure properties to integrate Change Management](../concept/configure-properties-integrate-cm.md#).
+ For more information, see [Configure properties to integrate Change Management](configure-properties-integrate-cm.md#).
 
 </td></tr><tr><td rowspan="5">
 
@@ -109,7 +109,7 @@ Configure environment credentials
 
 </td><td>
 
-For more information, see [Configure environment credentials](../task/create-pipeline-credentials.md).
+For more information, see [Configure environment credentials](create-pipeline-credentials.md).
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Configure the controller instance
 
 Identify the controller instance that contains the pipeline deployment flows, as well as all of the data associated with the pipeline. As each instance completes its assigned tasks, it communicates with the controller instance to determine where the next stage of deployment takes place.**Note:** Your production instance should be identified as the controller.
 
-For more information, see [Configure your controller instance](../task/config-controller-instance.md).
+For more information, see [Configure your controller instance](config-controller-instance.md).
 
 </td></tr><tr><td>
 
@@ -129,7 +129,7 @@ Enable ATF properties on instances of type Testing.
 
 Enable system properties that allow the ATF suite to run during the deployment process. If you do not enable these properties, a warning displays during the deployment process, but you can continue with the deployment.**Note:** If you plan on cloning your production instance to one or more non-production instances, you should either create a data preserver for these settings or enable these settings on your production instance. For more information, see [Create a clone preserver](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-new-clone-preserver.md).
 
-For more information, see [Enable Automated Test Framework \(ATF\) properties](../task/enable-atf-properties.md).
+For more information, see [Enable Automated Test Framework \(ATF\) properties](enable-atf-properties.md).
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Configure Automated Test Framework \(ATF\) suite
 
 </td><td>
 
-For more information, see [Exploring Automated Test Framework](../../../administer/auto-test-framework/concept/automated-test-framework.md).
+For more information, see [Exploring Automated Test Framework](../automated-test-framework-atf/automated-test-framework.md).
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Configure environment credentials
 
 </td><td>
 
-For more information, see [Configure environment credentials](../task/create-pipeline-credentials.md).
+For more information, see [Configure environment credentials](create-pipeline-credentials.md).
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ Configure the controller instance in your non-production instances
 
 </td><td>
 
-For more information, see [Configure properties to integrate Change Management](../concept/configure-properties-integrate-cm.md#).
+For more information, see [Configure properties to integrate Change Management](configure-properties-integrate-cm.md#).
 
 </td></tr></tbody>
 </table>

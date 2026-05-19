@@ -37,21 +37,21 @@ Role required: sn\_apm.apm\_user
 
 8.  On the form, fill in the field.
 
-    For a description of the field values, see [Create new business capability form](../../reference/eaw-reference/eaw-cap-form.md).
+    For a description of the field values, see [Create new business capability form](eaw-cap-form.md).
 
 9.  Select **Save**.
 
     You can also add a sub-capability from the Business Portfolio page. For more information, see [Create a sub-capability](eaw-create-sub-capability.md).
 
 
-**Parent Topic:**[Manage business capabilities](../../concept/eaw-concept/eaw-manage-business-capabilities.md)
+**Parent Topic:**[Manage business capabilities](eaw-manage-business-capabilities.md)
 
 **Related topics**  
 
 
 [View all business capabilities on the Portfolio page](eaw-view-all-capabilities-on-the-portfolio-page.md)
 
-[Create diagram for a business capability form](../../reference/eaw-reference/eaw-create-diagram-bc.md)
+[Create diagram for a business capability form](eaw-create-diagram-bc.md)
 
 [Add or edit a business capability from the Portfolio page](eaw-add-capability.md)
 
@@ -59,19 +59,19 @@ Role required: sn\_apm.apm\_user
 
 [Manage architectural artifacts of a business capability in EA Workspace](eaw-assoicate-artifact-bc.md)
 
-[Add a business capability](../add-a-capability.md)
+[Add a business capability](add-a-capability.md)
 
 [Create a demand towards achievement of a capability](eaw-create-a-demand-towards-achievement-of-capability.md)
 
-[Update the hierarchy of a business capability](../update-hierarchy.md)
+[Update the hierarchy of a business capability](update-hierarchy.md)
 
 [Create a sub-capability](eaw-create-sub-capability.md)
 
-[Assign a business application](../assign-a-business-application.md)
+[Assign a business application](assign-a-business-application.md)
 
 [Unassign a business application from a capability](unassign-a-business-application-from-a-capability.md)
 
-[Delete a capability from the hierarchy](../delete-a-capability.md)
+[Delete a capability from the hierarchy](delete-a-capability.md)
 
 [View a roadmap of a business capability](eaw-view-roadmap-bc.md)
 

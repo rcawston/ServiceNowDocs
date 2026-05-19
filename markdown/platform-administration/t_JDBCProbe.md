@@ -38,16 +38,16 @@ Contact Customer Service and Support to activate the **Integration - JDBC** \(co
 4.  Select **Activate**.
 
 
--   **[Direct JDBC Probe](../concept/c_DirectJDBCProbe.md)**  
+-   **[Direct JDBC Probe](c_DirectJDBCProbe.md)**  
 A direct JDBC probe specifies all the parameters necessary in the outbound ECC Queue XML payload.
--   **[JDBC Probes via Data Source](../concept/c_JDBCProbesViaDataSource.md)**  
+-   **[JDBC Probes via Data Source](c_JDBCProbesViaDataSource.md)**  
 JDBC probes are executed via a JDBC data source when an import is running against the data source.
--   **[Select \* JDBC Probe short cut](../concept/c_SelectJDBCProbeShortCut.md)**  
+-   **[Select \* JDBC Probe short cut](c_SelectJDBCProbeShortCut.md)**  
 Alternatively, you may specify a **table\_name** parameter instead of a work element and the following query could be executed.
--   **[Parameters](../reference/r_DirectJDBCProbeParameters.md)**  
+-   **[Parameters](r_DirectJDBCProbeParameters.md)**  
 The following parameters are available in a direct JDBC probe.
--   **[Using the Work Element](../concept/c_UsingTheWorkElement.md)**  
+-   **[Using the Work Element](c_UsingTheWorkElement.md)**  
 The work element encodes SQL statements to be executed by the probe.
 
-**Parent Topic:**[Supported integration interfaces](../../vendor-specific-integrations/reference/r_SupportedIntegrationInterfaces.md)
+**Parent Topic:**[Supported integration interfaces](r_SupportedIntegrationInterfaces.md)
 

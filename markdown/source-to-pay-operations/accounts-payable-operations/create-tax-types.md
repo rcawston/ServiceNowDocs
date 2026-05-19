@@ -86,5 +86,5 @@ State to make the tax type available.
 
 The tax type details are added.
 
-**Parent Topic:**[Tax calculations](../concept/tax-calculations-in-apo.md)
+**Parent Topic:**[Tax calculations](tax-calculations-in-apo.md)
 

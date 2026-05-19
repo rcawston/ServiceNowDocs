@@ -17,8 +17,8 @@ Create external AI agents in AI Agent Studio to connect the ServiceNow AI Platfo
 Integrate and configure external agents with the ServiceNow agentic AI system using Agent2Agent \(A2A\) protocol integration to use in agentic workflows created in the AI Agent Studio.
 -   **[ServiceNow AI agents as secondary agents](secondary-agent.md)**  
 Integrate ServiceNow AI agents into other agentic AI systems, such as Google Cloud or Azure OpenAI.
--   **[Create an external AI agent with the Agent2Agent protocol](../task/create-a2a-agent.md)**  
+-   **[Create an external AI agent with the Agent2Agent protocol](create-a2a-agent.md)**  
 Create external AI agents in AI Agent Studio to connect the ServiceNow AI Platform with third-party agentic AI providers.
 
-**Parent Topic:**[Create an AI agent](../task/configure-next-best-action-agent.md)
+**Parent Topic:**[Create an AI agent](configure-next-best-action-agent.md)
 

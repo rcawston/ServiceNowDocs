@@ -126,5 +126,5 @@ hot fixes
 
 DevOps Config manages and validates your configuration data in a centralized location as the single source of truth.
 
-**Parent Topic:**[DevOps Config reference](../reference/devops-config-reference.md)
+**Parent Topic:**[DevOps Config reference](devops-config-reference.md)
 

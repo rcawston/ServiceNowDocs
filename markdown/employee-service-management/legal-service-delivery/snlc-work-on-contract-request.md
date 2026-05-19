@@ -17,7 +17,7 @@ As a member of the legal contracts support team, work on the legal request. Uplo
 
 ## Before you begin
 
-The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../../legal-request-management/task/assign-legal-request-1.md).
+The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../employee-service-management/assign-legal-request-1.md).
 
 Role required: sn\_lg\_cnt.contract\_fulfiller
 
@@ -29,7 +29,7 @@ As a collaborator added to a request, you can access and work on the request jus
 
 1.  Assign a legal request to yourself or to someone in your assignment group.
 
-    For more information, see [Assign a legal request](../../legal-request-management/task/assign-legal-request-1.md)
+    For more information, see [Assign a legal request](../employee-service-management/assign-legal-request-1.md)
 
 2.  Start working on a legal request.
 
@@ -208,7 +208,7 @@ The fields **Authorized signatory name**, **Signatory**, and **Signatory email**
 
         Using response templates, you can insert predefined content into the email body. Select the response template icon \(![Response template icon.](../../legal-request-management/image/response-template-email-icon.png)\) and find an appropriate response template based on the subject of your email. Copy and paste the template's content into the email body.
 
-        **Note:** Only response templates configured for the email channel are available to use. For more information, see [Response templates configured for email channel](../../legal-request-management/task/create-lsd-response-template.md).
+        **Note:** Only response templates configured for the email channel are available to use. For more information, see [Response templates configured for email channel](../legal-request-management/create-lsd-response-template.md).
 
     7.  Either send the email immediately or indicate that it should be sent later.
 
@@ -230,8 +230,8 @@ Review and finalize the contract document generated after the self-serve contrac
 Initiate an ad hoc approval for a contract document revision from a user or a user group.
 -   **[Send a non-disclosure agreement document for signature](snlc-send-doc-sign-nda.md)**  
 After a non-disclosure agreement contract document has been reviewed and finalized, send the document for signature.
--   **[Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)**  
+-   **[Signature workflow for a request](snlc-lsd-signature-workflow.md)**  
 Contract Management Pro for Legal Service Delivery supports electronic signature or wet \(manual\) signature for a contract request.
 
-**Parent Topic:**[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+**Parent Topic:**[Non-disclosure agreement requests](../employee-service-management/snlc-request-nda-1.md)
 

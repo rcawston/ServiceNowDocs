@@ -120,7 +120,7 @@ All instance question records that store user response values for each question 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Quizzes](../concept/using-quizzes.md)
+**Parent Topic:**[Using Quizzes](using-quizzes.md)
 
 **Related topics**  
 

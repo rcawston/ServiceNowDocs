@@ -26,7 +26,7 @@ To view this page, follow these steps:
 You can see the following details:
 
 -   Engagement details: This section shows the details of the engagement for which the risk signal has been generated. It includes the Contract value, Stage, Next Renewal date, Health, and so on.
--   Risk signal details: The risk signal details including probability, tracking method, category, and so on. See [Create a risk signal](../task/account-lifecycle-create-risk-signal.md) for details.
+-   Risk signal details: The risk signal details including probability, tracking method, category, and so on. See [Create a risk signal](account-lifecycle-create-risk-signal.md) for details.
 -   Risk occurrence: List of risk occurrences based on the scheduled job. This includes the start and end dates on which the scheduled job was executed, the current value, threshold value, and the gap. Select the link to drill down to the Risk Occurrence page.
 
 The following options are available:
@@ -36,7 +36,7 @@ The following options are available:
     **Note:** This option is available only for unaddressed risks and requires the Now Assist for TMT to be installed.
 
 -   **Discuss**: Select this option to start a sidebar discussion about this risk signal. In the pop-up window, select the participants who must participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the Activity stream.
--   **Create success play**: See [Create a success play](../task/account-lifecycle-create-success-play.md)
+-   **Create success play**: See [Create a success play](account-lifecycle-create-success-play.md)
 
     The success play created from a risk signal is automatically tagged as a risk solution record.
 

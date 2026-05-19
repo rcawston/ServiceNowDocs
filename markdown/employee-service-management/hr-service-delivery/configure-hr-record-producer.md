@@ -128,9 +128,9 @@ Expand help for all questions
 9.  Click **Update** on the HR service form.
 
 
-**Parent Topic:**[HR service configuration](../concept/hr-service-configuration.md)
+**Parent Topic:**[HR service configuration](hr-service-configuration.md)
 
 **Previous topic:**[Configure an HR case template](configure-hr-case-template.md)
 
-**Next topic:**[HR service catalog management](../concept/hr-service-catalog-management.md)
+**Next topic:**[HR service catalog management](hr-service-catalog-management.md)
 

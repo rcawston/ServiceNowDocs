@@ -51,5 +51,5 @@ Role required: resource\_user, resource\_manager
 
 Let's consider a resource assignment for Website Overhaul task is assigned to Grace Lee. The task duration is from August 01, 2025 to August 31, 2025. The assignment duration is from August 01, 2025 to August 20, 2025. Now, when you move the assignment start date to August 15, 2025; the new assignment dates will honor the task dates and will auto-assign the work from August 15, 2025 to August 31, 2025. The remaining efforts of the resource are cleared and the cleared capacity is shown as available.
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](using-rmw.md)
 

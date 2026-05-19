@@ -97,5 +97,5 @@ Score shows the total number of items that were processed during the content cra
 |----------------------------|-----------|
 |Average crawl speed|Score shows the average speed of the content crawl, expressed in documents \(items\) processed per second of crawl time.|
 
-**Parent Topic:**[External Content Connectors reference](../concept/reference-ext-cont-connectors.md)
+**Parent Topic:**[External Content Connectors reference](reference-ext-cont-connectors.md)
 

@@ -40,5 +40,5 @@ Role required: asset, itil, itil\_admin
     You return to the consumable record. A message appears at the top of the form layout with the number of assets that you have retired.
 
 
-**Parent Topic:**[Consumables life cycle](../../asset-management/concept/c_FollowLifeCycleConsumbl.md)
+**Parent Topic:**[Consumables life cycle](c_FollowLifeCycleConsumbl.md)
 

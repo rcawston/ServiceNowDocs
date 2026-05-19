@@ -12,7 +12,7 @@ reading_time_minutes: 1
 
 The Create Network activity creates new networks on a specified Infoblox server.
 
-The network activities use the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The network activities use the [REST web service activity template](../orchestration/t_CreateARESTWebServiceActivity.md#) to manage network addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **Network**.
 

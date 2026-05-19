@@ -17,9 +17,9 @@ Manual alert grouping involves organizing and categorizing alerts based on user-
 
 You can manually select and group alerts to better manage and resolve incidents by tailoring the grouping based on specific needs, relevance, or context. This approach ensures that alerts are categorized effectively, enhancing overall incident management and response efficiency.
 
--   **[Create alert group manually](../task/t_SAAddAlertCorrelatedAlertGrp.md)**  
+-   **[Create alert group manually](t_SAAddAlertCorrelatedAlertGrp.md)**  
 Manually create an alert group to organize and manage related alerts when not using scheduled jobs. This provides flexibility to group alerts on-demand for effective resolution.
--   **[Add secondary alert manually to an existing alert group](../task/add-secondary-alert.md)**  
+-   **[Add secondary alert manually to an existing alert group](add-secondary-alert.md)**  
 Add any relevant alert discovered during the review of an automated alert group as a secondary alert to improve the group's completeness and utility for incident troubleshooting.
 
 **Parent Topic:**[Event Management](c_EM.md)

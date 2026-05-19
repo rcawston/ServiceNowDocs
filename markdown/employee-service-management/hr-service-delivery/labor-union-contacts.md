@@ -89,5 +89,5 @@ The contact person's role within the labor union.
 </table>4.  Select **Save** or **Submit**.
 
 
-**Parent Topic:**[Setting up labor unions](../concept/labor-unions-setting-up.md)
+**Parent Topic:**[Setting up labor unions](labor-unions-setting-up.md)
 

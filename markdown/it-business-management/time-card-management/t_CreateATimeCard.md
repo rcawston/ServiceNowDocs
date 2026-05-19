@@ -23,7 +23,7 @@ Role required: timecard\_user
 
 Starting Australia release, users can select a resource assignment to associate it with time cards to calculate the actual efforts and tag them to the respective projects.
 
-The **Allow time card reporting on** field on the [project form](../../../product/project-management/task/t_CreateAProject.md) determines the level at which the time cards for the project tasks can be created.
+The **Allow time card reporting on** field on the [project form](../project-management/t_CreateAProject.md) determines the level at which the time cards for the project tasks can be created.
 
 **Note:** Time Cards created from Project form do not populate Resource plans automatically to avoid random allocations. For more information, see [KB0814884](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0814884) article in the Now Support Knowledge Base.
 
@@ -40,7 +40,7 @@ Time cards can be created automatically or manually.
 
             Configure time cards to be created when a user records **Time worked**. A time card is created if a time card does not exist for the task. The time sheet policy **Auto fill time card with time worked entries** controls this behavior and is set to false by default.
 
-            In **Project Task**, **Incident**, **Problem**, and **Change** records, the [**Time worked**](../concept/c_RecordTimeWorked.md) field does not appear by default and must be configured on the form.
+            In **Project Task**, **Incident**, **Problem**, and **Change** records, the [**Time worked**](c_RecordTimeWorked.md) field does not appear by default and must be configured on the form.
 
     -   By scheduled job: Configure time cards for the project tasks to be generated automatically for users through a [scheduled job](auto-generate-time-cards.md). Only the admin can configure a scheduled job.
     **Note:** Time cards cannot be created automatically when you use the mobile interface. Use the desktop interface if you want to use the automatic time card feature.
@@ -211,7 +211,7 @@ Another option for creating time cards is to copy them from an existing timeshee
 -   **[Auto-generate time cards](auto-generate-time-cards.md)**  
 As an admin, you can configure a scheduled job to generate time cards automatically for project tasks assigned to time card users.
 
-**Parent Topic:**[Time cards](../concept/c_TimeCards.md)
+**Parent Topic:**[Time cards](c_TimeCards.md)
 
 **Related topics**  
 

@@ -50,5 +50,5 @@ Allocate, manage, and approve budget for your projects. Lean budgeting enables y
 
 Budget widget is updated to reflect the latest approved budget. Project Manager can view the approved budget and compare it with the planned costs using the **budget vs cost** view by cost type.
 
-**Parent Topic:**[Managing financials for your projects](../concept/using-financials-prj-wrkspc.md)
+**Parent Topic:**[Managing financials for your projects](using-financials-prj-wrkspc.md)
 

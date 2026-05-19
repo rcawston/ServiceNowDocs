@@ -93,7 +93,7 @@ Order
 
 Order in which the steps are run.
 
- **Note:** The step order determines the order of the cards in the [Pipeline UI](../concept/dev-ops-pipeline-ui.md).
+ **Note:** The step order determines the order of the cards in the [Pipeline UI](dev-ops-pipeline-ui.md).
 
 The order of the cards in the Pipeline UI is by task execution.
 
@@ -121,9 +121,9 @@ Configuration service that applies to the step.
 4.  Enable change control automatically or manually.
 
     -   If you are using the ServiceNow DevOps extension for Azure DevOps, run your Azure DevOps pipeline to automatically enable change control.
-    -   If you are configuring change control manually, select the **Change control** check box in a step to enable [change acceleration](../concept/dev-ops-change-acceleration.md) and the corresponding configuration fields. For Azure release \(CD\) pipelines, enable change control in the first step of the required stage only. Change control for Azure release \(CD\) pipelines is supported only in pre-deployment gates.
+    -   If you are configuring change control manually, select the **Change control** check box in a step to enable [change acceleration](dev-ops-change-acceleration.md) and the corresponding configuration fields. For Azure release \(CD\) pipelines, enable change control in the first step of the required stage only. Change control for Azure release \(CD\) pipelines is supported only in pre-deployment gates.
 
-        **Note:** ServiceNow [Change Management](../../change-management/concept/c_ITILChangeManagement.md) must be installed for change acceleration.
+        **Note:** ServiceNow [Change Management](../change-management/c_ITILChangeManagement.md) must be installed for change acceleration.
 
 <table id="table_xm1_tdf_llb"><tbody><tr><td>
 
@@ -164,7 +164,7 @@ Change model
 
 </td><td>
 
-Change model for the change request. For more information, see [DevOps change models](../concept/devops-change-multimodel.md).
+Change model for the change request. For more information, see [DevOps change models](devops-change-multimodel.md).
 
 </td></tr><tr><td>
 
@@ -197,12 +197,12 @@ Change controlled branches
 \(Multibranch only\) Comma-separated list of branches under change control. Wildcards are supported.
 
 </td></tr></tbody>
-</table>        You can set up change control in your Azure DevOps YAML or Classic Azure pipeline using the [Azure Invoke REST API](../concept/dev-ops-azure-change-control-api.md) or the [ServiceNow DevOps extension for Azure DevOps](config-dev-ops-extensions-azure.md#).
+</table>        You can set up change control in your Azure DevOps YAML or Classic Azure pipeline using the [Azure Invoke REST API](dev-ops-azure-change-control-api.md) or the [ServiceNow DevOps extension for Azure DevOps](config-dev-ops-extensions-azure.md#).
 
 
 ## What to do next
 
-[Configure the Azure pipeline for DevOps](../concept/config-azure-pipeline-dev-ops.md)
+[Configure the Azure pipeline for DevOps](config-azure-pipeline-dev-ops.md)
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 

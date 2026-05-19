@@ -16,7 +16,7 @@ breadcrumb: [Use, Resource Management Workspace, Project Portfolio Management, S
 
 Create custom resource board views of persistent portfolios to view the current resource allocation and resource requests for all of your resources and work.
 
-Resource assignments from different planning workspaces are pulled into this dedicated view for Resource Managers to give you an overall work view. Resource Managers can access the dashboard to view the assignment details at high level and [create resource cards](../task/rmw-create-rsrc-card.md) to build persistent portfolios and view the resource allocations.
+Resource assignments from different planning workspaces are pulled into this dedicated view for Resource Managers to give you an overall work view. Resource Managers can access the dashboard to view the assignment details at high level and [create resource cards](rmw-create-rsrc-card.md) to build persistent portfolios and view the resource allocations.
 
 Quickly create multiple portfolios using resource cards and navigate between these cards to work on the resource requests. Use the advanced condition builder to customize these portfolios based on the teams, attributes, groups, and so on, to view the resource allocation.
 
@@ -239,9 +239,9 @@ Indicates changes to start or end date, allocated hours, and so on, to the appro
 
     **Note:** If you edit the allocations for any approved group assignment, a confirmation window appears. Once approved, the state is changed to Pending.
 
--   [Assign the unassigned](../task/allocate-resources-rmw.md) tasks.
--   [Approve or unapprove](../task/allocate-resources-rmw.md) the assigned tasks.
--   [Split a resource assignment](../task/split-resource-assignment-rmw.md) into two for one resource at the required date.
+-   [Assign the unassigned](allocate-resources-rmw.md) tasks.
+-   [Approve or unapprove](allocate-resources-rmw.md) the assigned tasks.
+-   [Split a resource assignment](split-resource-assignment-rmw.md) into two for one resource at the required date.
 
 Once you access these resource cards, you get a similar view as the following example with extensive insights.![Resource Portfolio view depicting resource allocation and unassigned tasks.](../images/rmw-rsrc-portfolio-view.png)
 
@@ -305,7 +305,7 @@ The new heatmap modal gives you the following insights for a resource such as th
 
 From the preceding example, you can see the breakdown of the approved work items along with the rolled up efforts, Utilization percentage, and the Remaining capacity for the month of January 2025. The approved work is within the resource capacity as the remaining capacity is 120 hours. A Resource manager can use these insights to decide and allocate the pending work items to another resource with available effort.
 
-**Important:** Resource efforts calculations are driven by the `com.snc.resource_management.exclude_status_from_capacity` property. Admin can configure this property to calculate efforts for certain defined resource assignments only. For more information, see [Resource Management properties](../../resource-management/reference/r_ResourceProperties.md).
+**Important:** Resource efforts calculations are driven by the `com.snc.resource_management.exclude_status_from_capacity` property. Admin can configure this property to calculate efforts for certain defined resource assignments only. For more information, see [Resource Management properties](r_ResourceProperties.md).
 
 Using the `com.snc.resource_management.exclude_status_from_capacity` property, Resources managers can customize to view the resource assignments with a specific state in their workspace and what to view in the total allocation modal. For example, you can view resource assignments in either Approved, Unapproved, and Pending resource assignments, or the ones in Approved and Pending states only.
 
@@ -327,29 +327,29 @@ If you group the resource board by **Primary Group**, you see the list of primar
 
 Resource Managers can use this information to plan the resources and manage assignments.
 
-**Tip:** Grouping the resources based on the primary attributes helps Resource Managers to easily reassign the work as the primary attributes should match to reassign work. For more information on how to reassign a work, see [Reassign or unassign work using Resource Management Workspace](../task/rmw-reassign-unassign-work.md).
+**Tip:** Grouping the resources based on the primary attributes helps Resource Managers to easily reassign the work as the primary attributes should match to reassign work. For more information on how to reassign a work, see [Reassign or unassign work using Resource Management Workspace](rmw-reassign-unassign-work.md).
 
 ![Resource board grouped by Primary Group attribute.](../images/rmw-board-groupby-primary-group.png)
 
--   **[Create a resource card](../task/rmw-create-rsrc-card.md)**  
+-   **[Create a resource card](rmw-create-rsrc-card.md)**  
 Create a custom resource card to view resources and unassigned tasks, and work on resource mapping for your persistent and focused portfolios.
--   **[Create resource assignments and operation resource assignments in Resource Management Workspace](../task/create-ra-rmw.md)**  
+-   **[Create resource assignments and operation resource assignments in Resource Management Workspace](create-ra-rmw.md)**  
 Create and assign resource assignments and operation resource assignments from Resource Management Workspace.
--   **[View unassigned tasks using Resource Management Workspace](../task/view-unassigned-work-rmw.md)**  
+-   **[View unassigned tasks using Resource Management Workspace](view-unassigned-work-rmw.md)**  
 Filter unassigned tasks to view custom requests to match with your organization's priorities and planning, and assign them to resources.
--   **[Assign unassigned work using Resource finder](../task/assign-resources-using-resource-finder.md)**  
+-   **[Assign unassigned work using Resource finder](assign-resources-using-resource-finder.md)**  
 Assign resource using the AI suggestions which match the skill-set and primary attributes requirements.
--   **[Assign and approve unassigned work using Resource Management Workspace](../task/allocate-resources-rmw.md)**  
+-   **[Assign and approve unassigned work using Resource Management Workspace](allocate-resources-rmw.md)**  
 Filter the unassigned work to view priority requests and assign them to resources. Quickly connect with the requester via Microsoft Teams to get additional insights and approve the assigned work using the inline editing feature.
--   **[Move a resource assignment](../task/move-ra-rmw.md)**  
+-   **[Move a resource assignment](move-ra-rmw.md)**  
 Move a resource assignment to a different start and end dates depending on the availability of the resource.
--   **[Reassign or unassign work using Resource Management Workspace](../task/rmw-reassign-unassign-work.md)**  
+-   **[Reassign or unassign work using Resource Management Workspace](rmw-reassign-unassign-work.md)**  
 Reassign or unassign any assigned work from the Resource Management Workspace. You can group the resource board by primary attributes to identify the resources with same primary attributes.
--   **[Split resource assignments using Resource Management Workspace](../task/split-resource-assignment-rmw.md)**  
+-   **[Split resource assignments using Resource Management Workspace](split-resource-assignment-rmw.md)**  
 Splitting a resource assignment at a specific date creates a resource assignment for the same user.
--   **[Manage resource allocations in Resource Management Workspace](../task/manage-resource-allocations-rmw.md)**  
+-   **[Manage resource allocations in Resource Management Workspace](manage-resource-allocations-rmw.md)**  
 Manage resource allocations to change efforts, start and end dates, extend and so on to adjust resources based on their availability and the priority of the tasks.
--   **[Export resource portfolio view to Excel or CSV format](../task/export-rmw-card-view.md)**  
+-   **[Export resource portfolio view to Excel or CSV format](export-rmw-card-view.md)**  
 Export your resource portfolio view in Resource Management Workspace as Microsoft Excel or CSV format to review or share the resource status with stakeholders, even if they don't have access to your instance.
 
 **Parent Topic:**[Use resource assignments](use-resource-assignment.md)

@@ -214,5 +214,5 @@ Name of the user who most recently updated the message.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring Agent Chat](../concept/ci-agent-chat-configuring.md)
+**Parent Topic:**[Configuring Agent Chat](ci-agent-chat-configuring.md)
 

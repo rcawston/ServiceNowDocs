@@ -59,11 +59,11 @@ None
 
 </td><td>
 
-[Initial build](../task/request-private-branded-ios-app.md)
+[Initial build](request-private-branded-ios-app.md)
 
 </td></tr><tr><td>
 
-[Update existing app](../task/update-branded-app.md)
+[Update existing app](update-branded-app.md)
 
 </td></tr><tr><td rowspan="3">
 
@@ -85,11 +85,11 @@ None
 
 </td><td>
 
-[Initial build](../task/request-public-branded-ios-app.md)
+[Initial build](request-public-branded-ios-app.md)
 
 </td></tr><tr><td>
 
-[Update existing app](../task/update-branded-app.md)
+[Update existing app](update-branded-app.md)
 
 </td></tr><tr><td>
 
@@ -131,11 +131,11 @@ None
 
 </td><td>
 
-[Initial build](../task/request-private-branded-android-app.md)
+[Initial build](request-private-branded-android-app.md)
 
 </td></tr><tr><td>
 
-[Update existing app](../task/update-branded-app.md)
+[Update existing app](update-branded-app.md)
 
 </td></tr><tr><td rowspan="3">
 
@@ -157,11 +157,11 @@ None
 
 </td><td>
 
-[Initial build](../task/request-public-branded-android-app.md)
+[Initial build](request-public-branded-android-app.md)
 
 </td></tr><tr><td>
 
-[Update existing app](../task/update-branded-app.md)
+[Update existing app](update-branded-app.md)
 
 </td></tr><tr><td>
 
@@ -182,15 +182,15 @@ None
 </td></tr></tbody>
 </table>-   **[Mobile Publishing build statuses](mob-pub-build-statuses.md)**  
 Learn what the Mobile Publishing build statuses "Build in progress" and "Ready for testing" mean and what actions they require from you.
--   **[Request a new branded Android app for private distribution](../task/request-private-branded-android-app.md)**  
+-   **[Request a new branded Android app for private distribution](request-private-branded-android-app.md)**  
 Request, test, and publish a custom Android app that has your unique company identity. Then make the app available for private distribution.
--   **[Request a new branded iOS app for private distribution](../task/request-private-branded-ios-app.md)**  
+-   **[Request a new branded iOS app for private distribution](request-private-branded-ios-app.md)**  
 Request, test, and publish a custom iOS app that has your unique company identity. Then make the app available for private distribution.
--   **[Request a new branded Android app for public distribution](../task/request-public-branded-android-app.md)**  
+-   **[Request a new branded Android app for public distribution](request-public-branded-android-app.md)**  
 Request, test, and publish a custom Android app that has your unique company identity. Then make the app available for public distribution on the Google Play Store.
--   **[Request a new branded iOS app for public distribution](../task/request-public-branded-ios-app.md)**  
+-   **[Request a new branded iOS app for public distribution](request-public-branded-ios-app.md)**  
 Request, test, and publish a custom iOS app that has your unique company identity. Then make the app available for public distribution on the Apple store.
--   **[Update a branded app](../task/update-branded-app.md)**  
+-   **[Update a branded app](update-branded-app.md)**  
 Request and publish an update to a ServiceNow® mobile app that has been branded with your unique company identity. Updates can only be requested for approved, completed builds of branded apps.
 
 **Parent Topic:**[Publish mobile apps with custom branding](mobile-publishing.md)

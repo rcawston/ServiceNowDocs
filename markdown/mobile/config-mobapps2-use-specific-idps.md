@@ -82,5 +82,5 @@ Open the mobile app on a mobile device and select the instance. You should be re
 
 **Note:** If **login\_locate\_sso.do** was saved as the Login URL and no default IdP is configured or the **sso\_source** for the user isn’t set, then an error displays when the user name is entered. This behavior is similar to web UI behavior.
 
-**Parent Topic:**[Mobile authentication](../concept/mobile-authentication.md)
+**Parent Topic:**[Mobile authentication](mobile-authentication.md)
 

@@ -27,7 +27,7 @@ The Device health check widget on Desktop Assistant is visible only if you have 
 
 1.  Open Desktop Assistant.
 
-    For information, see [Open and log in to Desktop Assistant](open-desktop-exp.md).
+    For information, see [Open and log in to Desktop Assistant](../digital-end-user-experience-dex/open-desktop-exp.md).
 
 2.  On the  **Desktop Assistant** home page, select **Device health check **.
 
@@ -37,7 +37,7 @@ The Device health check widget on Desktop Assistant is visible only if you have 
 
 5.  Select a Poor or Average performance category to view the issues and suggested resolutions.
 
-    The resolutions can be remedial action buttons, self-help instructions, or links to resources that provide resolutions. For more information, see [Resolution for Proactive Engagement](../../proactive-engagement/reference/resolutions.md).
+    The resolutions can be remedial action buttons, self-help instructions, or links to resources that provide resolutions. For more information, see [Resolution for Proactive Engagement](../proactive-engagement/resolutions.md).
 
 6.  Implement the suggested resolutions to improve device, application, or network performance.
 

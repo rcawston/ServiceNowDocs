@@ -37,5 +37,5 @@ Role required: admin
     **Note:** You can view the settings defined in the Remote Record Producers and Remote Task Definitions tabs but cannot modify them.
 
 
-**Parent Topic:**[Using Service Exchange for providers](../concept/service-bridge-v2-administer.md)
+**Parent Topic:**[Using Service Exchange for providers](service-bridge-v2-administer.md)
 

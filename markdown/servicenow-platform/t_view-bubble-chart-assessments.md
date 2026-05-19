@@ -28,14 +28,14 @@ Role required: assessment\_admin or admin
     **Note:** Demand managers and vendor managers can view bubble charts through the Demand Management and Vendor Performance applications. See [Project Portfolio Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md) for more information.
 
 
--   **[Bubble charts for assessments](../concept/c_bubble-chart-assessments.md)**  
+-   **[Bubble charts for assessments](c_bubble-chart-assessments.md)**  
 A bubble chart is a dynamically updated graph that plots assessment results for multiple assessable records.
--   **[Create a bubble chart](../reference/r_CreateBubbleCharts.md)**  
+-   **[Create a bubble chart](r_CreateBubbleCharts.md)**  
 Assessment administrators can create bubble charts to compare the relative standing of assessable records in three metric categories.
--   **[Bubble chart components](../reference/r_BubbleChartComponents.md)**  
+-   **[Bubble chart components](r_BubbleChartComponents.md)**  
 The X- and Y-axes each represent a different metric category. Assessable records are plotted on the chart as circular markers, or bubbles, which vary in size according to scores for the third category.
--   **[Assessable record score summaries](../reference/r_AssessableRecordScoreSummaries.md)**  
+-   **[Assessable record score summaries](r_AssessableRecordScoreSummaries.md)**  
 Point to a bubble to display a score summary for the assessable record the bubble represents.
 
-**Parent Topic:**[View a metric result](../../assessments/task/t_ViewAMetricResult.md)
+**Parent Topic:**[View a metric result](t_ViewAMetricResult.md)
 

@@ -21,13 +21,13 @@ For more information about DEX Score tables and filters, see the [DEX Score - Ge
 
 ![Digital Experience Overview page displaying the digital experience score for employees across the organization.](../image/dex-score-digital-experience-overview.png "Digital experience score")
 
--   **[Track application experience scores](../task/dexscr-track-app-experience-score.md)**  
+-   **[Track application experience scores](dexscr-track-app-experience-score.md)**  
 Track and drill down into the quantitative and qualitative data on the Digital Experience Score​ dashboard to gain a comprehensive view into employee experiences of using work applications.
--   **[Track experience scores of an individual application](../task/dexscr-track-application-experience.md)**  
+-   **[Track experience scores of an individual application](dexscr-track-application-experience.md)**  
 Track and drill down into the quantitative and qualitative data of an application's metrics to gain a comprehensive view into employee experiences of using it.
--   **[Track device experience score](../task/dexscr-track-device-experience-score.md)**  
+-   **[Track device experience score](dexscr-track-device-experience-score.md)**  
 Track and drill down into the quantitative and qualitative data on the Digital Experience Score​ dashboard to gain a comprehensive view into employee experiences of using work devices.
--   **[Track experience scores of an individual device group](../task/dexscr-track-device-group-experience.md)**  
+-   **[Track experience scores of an individual device group](dexscr-track-device-group-experience.md)**  
 Track and drill down into the quantitative and qualitative data of a device group's metrics to gain a comprehensive view into employee experiences of using the devices.
 
 **Parent Topic:**[Digital Experience Score​](dexscr-digital-experience-score.md)

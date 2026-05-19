@@ -32,5 +32,5 @@ View Usage Insights in the application navigator. Assigned users have viewer rol
 -   **[Web analytics viewer \[web\_analytics\_viewer\]](uxa-role-6.md)**  
 View Usage Insights in the application navigator. Assigned users have viewer role permissions for Usage Insights for web applications.
 
-**Parent Topic:**[Usage Insights reference](../content-framework/landing-page/user-experience-analytics-reference.md)
+**Parent Topic:**[Usage Insights reference](user-experience-analytics-reference.md)
 

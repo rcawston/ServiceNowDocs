@@ -38,5 +38,5 @@ If you're assigned as the manager of an OT knowledge base receive, you can recei
 
 The user who created the approval request is notified via email.
 
-**Parent Topic:**[Using Operational Technology Knowledge Management](../concept/using-operational-technology-knowledge-management.md)
+**Parent Topic:**[Using Operational Technology Knowledge Management](using-operational-technology-knowledge-management.md)
 

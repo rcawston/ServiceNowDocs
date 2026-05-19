@@ -57,5 +57,5 @@ Role required: sp\_admin or admin
 **Related topics**  
 
 
-[My active items widget configuration](../concept/my-activity-config.md)
+[My active items widget configuration](my-activity-config.md)
 

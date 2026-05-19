@@ -22,7 +22,7 @@ You must have contribute access to the knowledge base that stores the knowledge 
 Ensure that the system administrator verifies the following settings:
 
 -   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated. For more information, see [Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md).
--   The article versioning feature is enabled. For more information, see [Article versioning](../concept/article-versioning.md).
+-   The article versioning feature is enabled. For more information, see [Article versioning](article-versioning.md).
 
 Role required: knowledge
 
@@ -63,7 +63,7 @@ The knowledge article is published on the scheduled publish date depending on th
     -   If the approvals are completed before the scheduled publish date, the **Workflow** field on the Knowledge form of the article is updated to **Scheduled for publish** and the article is published on the scheduled publish date.
     -   If the approvals are completed after the scheduled publish date, the article is published immediately on the approval completion.
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 
 **Related topics**  
 

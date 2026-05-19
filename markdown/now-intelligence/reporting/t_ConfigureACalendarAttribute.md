@@ -58,7 +58,7 @@ The calendar entries display the attributes you have added for the selected tabl
 
 ![Calendar entry with number, short description, and added state attribute](../image/calendar-attribute-change-result-rd.png)
 
-**Parent Topic:**[Customize calendar reports](../concept/c_CustomizeCalendarReports.md)
+**Parent Topic:**[Customize calendar reports](c_CustomizeCalendarReports.md)
 
 **Related topics**  
 

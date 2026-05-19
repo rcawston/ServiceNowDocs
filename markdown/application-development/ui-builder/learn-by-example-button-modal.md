@@ -35,7 +35,7 @@ Role required: ui\_builder\_admin
 
     ![Components tab with arrow pointing to Button component.](../image/add-button.png "Add a button")
 
-    **Note:** When you have selected the component, the Page configuration pane includes some presets you can use to automatically configure components on compatible pages. For the sake of this exercise, however, you will be configuring the component manually. For more information on presets, see [Customize UI Builder pages using components](../concept/work-components.md).
+    **Note:** When you have selected the component, the Page configuration pane includes some presets you can use to automatically configure components on compatible pages. For the sake of this exercise, however, you will be configuring the component manually. For more information on presets, see [Customize UI Builder pages using components](work-components.md).
 
 6.  Select **Add**.
 

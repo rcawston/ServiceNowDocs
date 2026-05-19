@@ -33,7 +33,7 @@ For more information on creating and scheduling content, see [Creating employee 
 
 ![Topic header widget showing the HR topic.](../images/topic-widget.png "Topic header widget")
 
-You can modify the widget display by configuring the instance options. For more information, see [Modify the topic header widget display](../task/config-topic-widget.md).
+You can modify the widget display by configuring the instance options. For more information, see [Modify the topic header widget display](config-topic-widget.md).
 
 ## Sub-topics widget
 
@@ -43,7 +43,7 @@ The sub-topics widget displays all the child topics of the parent topic. The sub
 
 The sub-topics widget shows only six child topics by default. If the parent topic has more child topics, click **View all** to view all the child topics and click the one you want to open.
 
-You can modify the widget display by configuring the instance options. For more information, see [Modify the sub-topics widget display](../task/config-child-topic-widget.md).
+You can modify the widget display by configuring the instance options. For more information, see [Modify the sub-topics widget display](config-child-topic-widget.md).
 
 ## Topic content widget
 
@@ -123,7 +123,7 @@ The Unified Browse widget has **Courses** as an addition to the **Filter by** li
 
 ![The Filter by field listed options has All, Articles, Requests, and Courses.](../images/topic-page-courses.jpg "Filter by options")
 
-You can modify the widget display by configuring the widget instance options. For more information, see [Modify the topic content widget display](../task/config-topic-content-widget.md).
+You can modify the widget display by configuring the widget instance options. For more information, see [Modify the topic content widget display](config-topic-content-widget.md).
 
 **Parent Topic:**[Using Employee Center](using-emp-center.md)
 
@@ -132,9 +132,9 @@ You can modify the widget display by configuring the widget instance options. Fo
 
 [Topic managers and contributors for topic page management](topic-managers-and-contributors-for-topic-page-management.md)
 
-[Use the My To-dos page](../task/ec-to-dos-use.md)
+[Use the My To-dos page](ec-to-dos-use.md)
 
-[Use approval experience](../task/ec-to-dos-use-approval-hub.md)
+[Use approval experience](ec-to-dos-use-approval-hub.md)
 
 [Manage approvals from Microsoft Teams](../../sn-teams/task/va-concur.md)
 
@@ -144,17 +144,17 @@ You can modify the widget display by configuring the widget instance options. Fo
 
 [View the Recommended for you content](rfy-employee.md)
 
-[Use Employee Center from Zoom](../task/zoom-create-email-notification.md)
+[Use Employee Center from Zoom](zoom-create-email-notification.md)
 
 [View employee profile](update-employee-profile.md)
 
 [Use Personalized Answers](using-personalized-search-on-employee-center.md)
 
-[Employee Profile org chart widget](../task/view-org-chart.md)
+[Employee Profile org chart widget](view-org-chart.md)
 
 [RTL support for Employee Center](ec-rtl-language-support.md)
 
-[Manage favorites](../task/web-configure-favorites-employee.md)
+[Manage favorites](web-configure-favorites-employee.md)
 
 [Access applications from App Launcher](web-application-employee.md)
 

@@ -19,7 +19,7 @@ Role required: sn\_cto.care\_team\_agent or sn\_cto.care\_team\_agent\_manager
 
 ## About this task
 
-For more information on care team cases and tasks, see [Care team cases and tasks](../concept/ctwm-care-team-case.md).
+For more information on care team cases and tasks, see [Care team cases and tasks](ctwm-care-team-case.md).
 
 ## Procedure
 

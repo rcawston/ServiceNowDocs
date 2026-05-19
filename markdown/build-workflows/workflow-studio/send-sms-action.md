@@ -91,5 +91,5 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 |`No active SMS device was found for users(s) with sys_id(s): %s`|Appears when no SMS device is configured and found for one or more recipients.|
 |`Email sending is currently disabled. Please enable it via the property to send SMS using email gateway`|Appears when email sending is disabled.|
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

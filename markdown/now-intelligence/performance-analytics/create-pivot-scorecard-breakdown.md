@@ -21,7 +21,7 @@ Role required: pa\_admin or admin
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -64,9 +64,9 @@ If you want to see the same breakdown applied to more than one indicator in the 
 **Related topics**  
 
 
-[Edit a responsive dashboard](../../dashboards/task/t_EditADashboard.md)
+[Edit a responsive dashboard](t_EditADashboard.md)
 
-[Performance Analytics widgets on Service Portal](../concept/service-portal-pa-widget.md#)
+[Performance Analytics widgets on Service Portal](service-portal-pa-widget.md#)
 
-[Grouping by breakdown and filtering by breakdown](../concept/grouping-filtering-breakdown.md)
+[Grouping by breakdown and filtering by breakdown](grouping-filtering-breakdown.md)
 

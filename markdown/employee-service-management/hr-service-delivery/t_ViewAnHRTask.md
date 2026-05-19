@@ -83,7 +83,7 @@ Stage
 
 The stage \(bundle\) of a lifecycle event case.Use this field to define what activity set in a lifecycle event case you want to add an ad hoc task to.
 
- For more information, see [Ad hoc cases and tasks for lifecycle event cases](../concept/le-ad-hoc-task.md#).
+ For more information, see [Ad hoc cases and tasks for lifecycle event cases](../lifecycle-events/le-ad-hoc-task.md#).
 
 </td></tr><tr><td>
 
@@ -163,7 +163,7 @@ Collect Employee Input
 
 </td><td>
 
-Collects information from employees. In the **Employee form** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](../concept/employee-form-configuration.md) for more information.
+Collects information from employees. In the **Employee form** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](employee-form-configuration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ E-signature
 
 User electronically signs a document. In the **E-signature template** field, select the e-signature template to use.**Note:**
 
--   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR document templates. You can type or draw your signature, credentials, or acknowledgment. See [HR e-signature](../concept/hr-e-signature.md) for more information.
+-   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR document templates. You can type or draw your signature, credentials, or acknowledgment. See [HR e-signature](hr-e-signature.md) for more information.
 -   If HR document template has a document type of e-signature template, select the HR document template that the signatory signs on the HR case form. See [Select an HR document template for an e-signature task](select-hr-document-template-for-e-signature-task.md) for more information.
 
 
@@ -225,7 +225,7 @@ Take Survey
 
 </td><td>
 
-In the **Survey** field, select a survey that the user is assigned to take.**Note:** For lifecycle event cases, this feature also works if the subject person or anyone that has access to the original lifecycle event case can answer the survey question. For more information, see [Triggering an activity from upstream activities](configure-hr-lifecycle-event-activity.md#).
+In the **Survey** field, select a survey that the user is assigned to take.**Note:** For lifecycle event cases, this feature also works if the subject person or anyone that has access to the original lifecycle event case can answer the survey question. For more information, see [Triggering an activity from upstream activities](../lifecycle-events/configure-hr-lifecycle-event-activity.md#).
 
 </td></tr><tr><td>
 

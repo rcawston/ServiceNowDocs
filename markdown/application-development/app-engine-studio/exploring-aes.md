@@ -60,7 +60,7 @@ ServiceNow resources
 
 </th></tr></thead><tbody><tr><td rowspan="5">
 
-App Engine Studio is a guided, low-code tool for developing rich web applications to store information, automate business processes, and solve business problems. **Note:** AES requires an App Engine subscription or product packaged with one. For more information, refer to [Installing App Engine Studio](../task/install-aes.md). Contact your account representative for details.
+App Engine Studio is a guided, low-code tool for developing rich web applications to store information, automate business processes, and solve business problems. **Note:** AES requires an App Engine subscription or product packaged with one. For more information, refer to [Installing App Engine Studio](install-aes.md). Contact your account representative for details.
 
 </td><td>
 
@@ -103,10 +103,10 @@ App Engine Studio provides the following benefits.
 
 |Benefit|Feature|Role|
 |-------|-------|----|
-|Submit ideas for an app, which admins then approve.|[Submit your idea for app development](../task/submit-intake-request.md)|Citizen developer|
-|Use templates for standard application types, such as procurement portal or time off request, as a starting point to create and customize new apps quickly.|[Create your app using an application template](../task/use-app-template.md)|Citizen developer|
+|Submit ideas for an app, which admins then approve.|[Submit your idea for app development](../application-intake/submit-intake-request.md)|Citizen developer|
+|Use templates for standard application types, such as procurement portal or time off request, as a starting point to create and customize new apps quickly.|[Create your app using an application template](use-app-template.md)|Citizen developer|
 |Access multiple development tools in one interface, such as Table Builder and Workspace Builder.|[Integrated development tools for AES](aes-integration-with-development-tools.md)|Citizen developer|
-|Scale development while maintaining process to review and test applications before deployment.|[Managing app development using the App Engine Management Center](../../app-engine-management-center/concept/managing-app-development-using-aemc.md)|Administrator|
+|Scale development while maintaining process to review and test applications before deployment.|[Managing app development using the App Engine Management Center](../app-engine-management-center/managing-app-development-using-aemc.md)|Administrator|
 
 ## Accelerate your low-code development with AES
 
@@ -167,5 +167,5 @@ To learn more about configuring and using App Engine Studio, see:
 
 -   [Configuring App Engine Studio and related apps](aes-setup.md)
 -   [Building apps in App Engine Studio](aes-app-creation.md)
--   [App Engine Studio reference](../reference/aes-reference.md)
+-   [App Engine Studio reference](aes-reference.md)
 

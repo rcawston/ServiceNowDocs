@@ -132,14 +132,14 @@ Indicates that you want to write debug statements to the system log during the s
 </td></tr></tbody>
 </table>    **Note:** For more information on credentials and aliases, see [Introduction to credentials, connections, and aliases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-connections-alias.md).
 
-    For more information on domain separation, see [Domain Separation and HR Service Delivery](../concept/hr-domain-separation.md).
+    For more information on domain separation, see [Domain Separation and HR Service Delivery](../hr-service-delivery/hr-domain-separation.md).
 
 3.  Select **Save**, **Submit**, or **Update**.
 
     The Employee Document Import Sources and Employee Document Import Map tabs appear.
 
 
-**Parent Topic:**[Employee document management bulk imports](../concept/edm-bulk-uploads.md)
+**Parent Topic:**[Employee document management bulk imports](edm-bulk-uploads.md)
 
 ## Create or edit import configuration
 

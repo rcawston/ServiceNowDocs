@@ -46,5 +46,5 @@ When an executive dashboard displays consolidated metrics, the central instance 
 **Related topics**  
 
 
-[Create a ServiceNow Remote Instance connection](../task/create-servicenow-remote-instance-connection.md)
+[Create a ServiceNow Remote Instance connection](create-servicenow-remote-instance-connection.md)
 

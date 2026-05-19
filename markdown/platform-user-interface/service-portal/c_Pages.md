@@ -40,13 +40,13 @@ You can also edit a container by navigating to the Page Editor and selecting the
 -   Add an background image to a portion of a page.
 -   View the current layout of the widgets within the page.
 
--   **[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)**  
+-   **[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)**  
 Create or edit a page and use layouts to organize the columns that house the widgets.
 -   **[Standard ticket page](standard-ticket-page.md)**  
 Configure individual request types to display the request-specific information, while still having a consistent layout that is similar to other request types. This configuration verifies a consistent experience when viewing submitted requests.
--   **[Redirect a reference to a page ID](../task/reroute-page.md)**  
+-   **[Redirect a reference to a page ID](reroute-page.md)**  
 Redirect all references from Service Portal widgets to route to a new page with a single record to avoid manually replacing the hard-coded page ID in widgets.
--   **[Attaching files to records from portal pages](../task/attaching-files-portal-pages.md#)**  
+-   **[Attaching files to records from portal pages](attaching-files-portal-pages.md#)**  
 Attachments can be added to records from portal pages by navigating the file system, pasting files from the clipboard, or dragging and dropping files.
 
 **Parent Topic:**[Configuring Service Portal](configuring-service-portal.md)

@@ -69,5 +69,5 @@ Role required: sn\_acct\_lc.customer\_success\_agent
     **Note:** If after creating the renewal playbook, you close or cancel the playbook, all pending activities, and lanes are automatically canceled and the playbook State is set to Canceled.
 
 
-**Parent Topic:**[Manage customer success playbooks](../concept/account-lifecycle-manage-cust-succ-playbooks.md)
+**Parent Topic:**[Manage customer success playbooks](account-lifecycle-manage-cust-succ-playbooks.md)
 

@@ -65,5 +65,5 @@ If only the Industrial Process Manager is installed, the following setup functio
 
 To learn more about Guided Setups and their use, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-**Parent Topic:**[Configuring the Industrial Process Manager](../concept/configuring-manufacturing-process-mgr.md)
+**Parent Topic:**[Configuring the Industrial Process Manager](configuring-manufacturing-process-mgr.md)
 

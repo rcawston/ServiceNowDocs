@@ -17,7 +17,7 @@ Set up and configure Instance Data Replication \(IDR\).
 
 ## Configuration overview
 
--   **[Request an Instance Data Replication subscription](../task/request-instance-data-replication.md)**  
+-   **[Request an Instance Data Replication subscription](request-instance-data-replication.md)**  
  The Instance Data Replication \(IDR\) plugin requires a separate subscription and must be activated by ServiceNow personnel.
 -   **[Preparing for Instance Data Replication](prepare-instance-data-replication.md)**  
 Before you set up Instance Data Replication \(IDR\), analyze the tables and columns in the producer and consumer instances to replicate data successfully.

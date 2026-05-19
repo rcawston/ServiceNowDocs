@@ -36,5 +36,5 @@ When you clone a request that contains a multi-row variable set, the information
 3.  Click **Order Now**.
 
 
-**Parent Topic:**[Service Catalog for managers and end users](../concept/c_UsingTheServiceCatalog.md)
+**Parent Topic:**[Service Catalog for managers and end users](c_UsingTheServiceCatalog.md)
 

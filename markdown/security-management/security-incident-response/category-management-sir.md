@@ -15,12 +15,12 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 
 Configure security incident categories and subcategories for granular classification of incidents, which helps you accurately route security incidents.
 
--   **[Create a security incident category](../task/create-category-sir.md)**  
+-   **[Create a security incident category](create-category-sir.md)**  
 Create a security incident category to use to classify security incidents in Security Incident Response Workspace.
--   **[Create a security incident subcategory](../task/create-subcategory-sir.md)**  
+-   **[Create a security incident subcategory](create-subcategory-sir.md)**  
 Create subcategories for a category for a deeper classification of a security incident in Security Incident Response Workspace.
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
@@ -31,7 +31,7 @@ Create subcategories for a category for a deeper classification of a security in
 
 [SIR Workspace Related Records](sir-records.md#)
 
-[Define the new Risk Score Calculator Rules](../task/define-risk-score-calculator-rules-sir.md)
+[Define the new Risk Score Calculator Rules](define-risk-score-calculator-rules-sir.md)
 
 [Configure Shift Handover](config-shift-handover.md)
 
@@ -43,5 +43,5 @@ Create subcategories for a category for a deeper classification of a security in
 
 [View and update Security Incident Response system properties](view-update-sirw-system-properties.md)
 
-[Create quick filters for Security Incidents and Response Tasks lists](../task/create-quick-filters-for-security-incidents.md)
+[Create quick filters for Security Incidents and Response Tasks lists](create-quick-filters-for-security-incidents.md)
 

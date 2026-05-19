@@ -43,5 +43,5 @@ Column visibility, order, and width preferences are saved to your user profile a
 **Related topics**  
 
 
-[Work item hierarchy for EAP teams](../concept/eap-hierarchy-tab.md)
+[Work item hierarchy for EAP teams](eap-hierarchy-tab.md)
 

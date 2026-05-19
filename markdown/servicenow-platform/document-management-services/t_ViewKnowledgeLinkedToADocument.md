@@ -110,5 +110,5 @@ A few words or short phrase describing the Knowledge article. Adds the short des
 
 The uploaded document is added as an attachment to a Knowledge article. Depending on the **Behavior** field value specified in the Knowledge settings related list, the Knowledge article is created or updated with the document.
 
-**Parent Topic:**[Knowledge Document plugin](../concept/c_KnowledgeDocument.md)
+**Parent Topic:**[Knowledge Document plugin](c_KnowledgeDocument.md)
 

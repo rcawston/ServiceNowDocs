@@ -20,5 +20,5 @@ The following properties can be set for each of the Email connector methods. To 
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Email connector](../concept/email-connectors.md)
+**Parent Topic:**[Email connector](email-connectors.md)
 

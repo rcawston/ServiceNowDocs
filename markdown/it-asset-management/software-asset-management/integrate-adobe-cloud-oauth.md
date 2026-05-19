@@ -15,6 +15,6 @@ breadcrumb: [Integrating with Adobe Cloud, Software Asset Management publisher p
 
 Integrate your ServiceNow® instance with Adobe Cloud services by using OAuth Server-to-Server credentials by following the steps.
 
-1.  [Create a project and add APIs using OAuth](../task/create-adobe-cloud-oauth.md)
-2.  [Create an Adobe Cloud integration profile using OAuth](../task/create-adobe-cloud-integration-oauth.md)
+1.  [Create a project and add APIs using OAuth](create-adobe-cloud-oauth.md)
+2.  [Create an Adobe Cloud integration profile using OAuth](create-adobe-cloud-integration-oauth.md)
 

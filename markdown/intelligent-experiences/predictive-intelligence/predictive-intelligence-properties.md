@@ -195,11 +195,11 @@ Sets the maximum number of records you can include in a cluster. -   Type: Integ
 **Related topics**  
 
 
-[Domain separation and Predictive Intelligence](../concept/domain-separation-predictive-intelligence.md)
+[Domain separation and Predictive Intelligence](domain-separation-predictive-intelligence.md)
 
 [Data Encryption in Predictive Intelligence](predictive-intelligence-encryption.md)
 
-[Predictive Intelligence language support](../concept/predictive-intelligence-localization.md)
+[Predictive Intelligence language support](predictive-intelligence-localization.md)
 
 [Predictive Intelligence roles](predictive-intelligence-roles.md#)
 

@@ -27,5 +27,5 @@ Runbook tasks are activities that pause the progression of a playbook until the 
 
 When the playbook executes and encounters a runbook task, the playbook pauses progression until the runbook task is resolved.
 
-To add runbook tasks to your deployment requests, see [Create a runbook task](../task/create-runbook-task.md).
+To add runbook tasks to your deployment requests, see [Create a runbook task](create-runbook-task.md).
 

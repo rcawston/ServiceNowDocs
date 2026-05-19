@@ -28,15 +28,15 @@ Expense lines can also be imported from external systems or generated from scrip
 **Related topics**  
 
 
-[Create an allocation rule](../task/t_CreateAnAllocationRule.md)
+[Create an allocation rule](t_CreateAnAllocationRule.md)
 
-[Create expense lines manually](../task/t_CreateExpenseLinesManually.md)
+[Create expense lines manually](t_CreateExpenseLinesManually.md)
 
-[Delete an expense line](../task/t_DeleteAnExpenseLine.md)
+[Delete an expense line](t_DeleteAnExpenseLine.md)
 
-[Create a sample allocation rule](../task/t_SampleAllocationRule.md)
+[Create a sample allocation rule](t_SampleAllocationRule.md)
 
-[Use a scripted allocation](../task/t_UseAScriptedAllocation.md)
+[Use a scripted allocation](t_UseAScriptedAllocation.md)
 
 [Create or edit a CI relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIRelationship.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Digital Experience Score, Digital End-User Experience, I
 
 Update the configuration for sending the surveys to collect feedback from employees on the usage of applications and devices.
 
-For more information, see [Update DEX Score survey configuration](../task/dexscr-set-survey-config.md).
+For more information, see [Update DEX Score survey configuration](dexscr-set-survey-config.md).
 
 <table id="table_wdl_bcc_lyb"><thead><tr><th>
 
@@ -84,5 +84,5 @@ Minimum threshold value for the trigger criteria so that the survey is triggered
 This field appears only when **Application** is selected from**Survey feedback type**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Experience Score​ reference](../concept/dexscr-dex-score-reference.md)
+</table>**Parent Topic:**[Digital Experience Score​ reference](dexscr-dex-score-reference.md)
 

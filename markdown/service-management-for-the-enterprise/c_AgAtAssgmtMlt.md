@@ -53,5 +53,5 @@ Auto assignment for the agents uses this calculation:
 
 In this example, Agent A is auto assigned the task.
 
-**Parent Topic:**[Agent auto assignment](../../service-management-core/concept/c_AgentAutoAssignment.md)
+**Parent Topic:**[Agent auto assignment](c_AgentAutoAssignment.md)
 

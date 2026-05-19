@@ -74,7 +74,7 @@ Change the default Social Benefit Requests service channel attributes in Advance
 
 -   [Activate the Advanced Work Assignment plugin \(com.glide.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
 -   [Activate the Agent Chat plugin \(com.glide.interaction.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-related-plugins.md).
--   [Install the Social Benefits Playbook application](../task/install-psds-social-benefits-playbook.md).
+-   [Install the Social Benefits Playbook application](install-psds-social-benefits-playbook.md).
 
 Role required: admin, awa\_admin
 
@@ -178,7 +178,7 @@ Change the default License and Permit Requests service channel attributes in Adv
 
 -   [Activate the Advanced Work Assignment plugin \(com.glide.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
 -   [Activate the Agent Chat plugin \(com.glide.interaction.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-related-plugins.md).
--   [Install the License and Permit Request Playbook application](../task/install-psds-license-permit-request-playbook.md).
+-   [Install the License and Permit Request Playbook application](install-psds-license-permit-request-playbook.md).
 
 Role required: awa\_admin, admin
 
@@ -283,7 +283,7 @@ Change the default Information Requests service channel attributes in Advanced W
 
 -   [Activate the Advanced Work Assignment plugin \(com.glide.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
 -   [Activate the Agent Chat plugin \(com.glide.interaction.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-related-plugins.md).
--   [Install the Information Request Playbook application](../task/install-psds-information-request-playbook.md).
+-   [Install the Information Request Playbook application](install-psds-information-request-playbook.md).
 
 Role required: sn\_gsm\_info\_req.admin, awa\_admin, admin
 
@@ -388,7 +388,7 @@ Change the default Service Requests service channel attributes in Advanced Work 
 
 -   [Activate the Advanced Work Assignment plugin \(com.glide.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
 -   [Activate the Agent Chat plugin \(com.glide.interaction.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-related-plugins.md).
--   [Install the Service Request Playbook application](../task/install-psds-service-request-playbook.md).
+-   [Install the Service Request Playbook application](install-psds-service-request-playbook.md).
 
 Role required: awa\_admin or admin
 

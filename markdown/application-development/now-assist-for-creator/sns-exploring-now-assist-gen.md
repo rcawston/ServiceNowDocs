@@ -27,8 +27,8 @@ Before you begin, confirm that you have the required roles:
 -   To use Now Assist, you must have the now\_assist\_panel\_user role.
 -   To create an application with the Now Assist for Creator app generation skill, you must have the admin role or the sn\_g\_app\_creator.app\_creator role.
 -   To edit \(not create\) an application with app generation, you must have the delegated developer role and be assigned to the application.
--   To add a workspace to an application created using app generation, enable the Now Assist for Creator experience generation skill. For more information, see [Create an AI-generated experience](../../../administer/ui-generation/task/generate-ui.md#).
--   To add a flow to an application created using app generation, enable the Now Assist for Creator flow generation skill and confirm that you have a flow\_designer role. For more information, see [Flow generation](../../../administer/flow-designer/reference/flow-generation-landing.md).
+-   To add a workspace to an application created using app generation, enable the Now Assist for Creator experience generation skill. For more information, see [Create an AI-generated experience](generate-ui.md#).
+-   To add a flow to an application created using app generation, enable the Now Assist for Creator flow generation skill and confirm that you have a flow\_designer role. For more information, see [Flow generation](flow-generation-landing.md).
 
 ![Infographic that shows the four phases to using app generation, with a fifth on verifying the app in ServiceNow Studio.](../images/app-generation-workflow-infographic-asset-0020323v2.png "App generation workflow")
 
@@ -58,8 +58,8 @@ On the ServiceNow Studio home page and on the application details tab, apps crea
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Create applications quickly by describing what you need using natural language.|[General guidelines for using app generation](sns-app-gen-guidelines.md)|Developer|
-|Refine application details through conversation with Now Assist.|[Generate apps with Now Assist for ServiceNow Studio](../task/sns-app-gen-using-landing.md)|Developer|
-|Edit existing applications faster using Now Assist.|[Review and edit applications built using app generation](../task/sns-app-gen-review-apps.md)|Developer|
+|Refine application details through conversation with Now Assist.|[Generate apps with Now Assist for ServiceNow Studio](sns-app-gen-using-landing.md)|Developer|
+|Edit existing applications faster using Now Assist.|[Review and edit applications built using app generation](sns-app-gen-review-apps.md)|Developer|
 
 -   **[General guidelines for using app generation](sns-app-gen-guidelines.md)**  
 To get the best results from app generation, provide clear and detailed descriptions of your application requirements during your conversation with Now Assist.

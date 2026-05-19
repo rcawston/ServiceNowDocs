@@ -42,5 +42,5 @@ When you add a template checklist to a record, you can add, edit, or remove chec
 6.  Select **Save**.
 
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 

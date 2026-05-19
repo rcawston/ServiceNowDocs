@@ -87,7 +87,7 @@ The following list describes how content for different roles can be targeted for
     Explains what the user can review and modify in the Self-Service view of the Incident form.
 
 
--   **[Modify embedded help role priority](../task/modify-embedded-help-role-priority.md)**  
+-   **[Modify embedded help role priority](modify-embedded-help-role-priority.md)**  
 You can modify the default order of priority that is assigned to a role in the Embedded Help Role Priority \[sys\_embedded\_help\_role\] table. The priority order determines what embedded help content a user accesses on a UI page, based on roles assigned to the user.
 
 **Parent Topic:**[Embedded Help planning](embedded-help-planning.md)

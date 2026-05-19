@@ -70,7 +70,7 @@ The following device types haven’t been verified for IPv6 discovery:
     -   Membership in the Distributed COM Users local security group.
 -   **\(Optional\) Populate Virtual Machine Object field in Hardware \[cmdb\_ci\_hardware\] table**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating the Virtual Machine Object field in the Hardware \[cmdb\_ci\_hardware\] table. For more information, see [Improved query performance with direct field population in CI tables](../../service-mapping/concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating the Virtual Machine Object field in the Hardware \[cmdb\_ci\_hardware\] table. For more information, see [Improved query performance with direct field population in CI tables](../discovery-and-service-mapping-patterns/query-service-account-ldc-fields.md).
 
 
 ## Classifiers, probes, and patterns
@@ -137,7 +137,7 @@ Windows OS - Server
 
 ^These probes remain active by default, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected
 
@@ -203,10 +203,10 @@ Discovery can find software that has been installed on a Windows machine by look
 -   **[Windows server cluster discovery](r_WindowsServerClusterDiscovery.md)**  
 Discovery establishes the relationships between a Windows server cluster and its nodes.
 
-**Parent Topic:**[Operating systems discovery](../concept/c_Computers.md)
+**Parent Topic:**[Operating systems discovery](c_Computers.md)
 
 **Related topics**  
 
 
-[Windows probes and permissions](r_DiscoWinProbesAndPermissions.md)
+[Windows probes and permissions](../discovery/r_DiscoWinProbesAndPermissions.md)
 

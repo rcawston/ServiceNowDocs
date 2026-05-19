@@ -17,7 +17,7 @@ Exclude a table to create an empty but usable table on the target instance.
 
 Role required: clone\_admin
 
-For information on excluding a table from cloning, see [General guidelines for excluding a table from cloning](../reference/clone-exclusions-guidelines.md).
+For information on excluding a table from cloning, see [General guidelines for excluding a table from cloning](clone-exclusions-guidelines.md).
 
 ## About this task
 

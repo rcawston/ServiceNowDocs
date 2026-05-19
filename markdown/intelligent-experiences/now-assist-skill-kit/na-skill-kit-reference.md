@@ -22,5 +22,5 @@ Now Assist Skill Kit is included in various Now Assist packages that cover a giv
 -   **[Web search custom skill](web-search-custom-skill.md)**  
 The web search custom skill performs an internet search to answer a query. Web search is used whenever the LLM and AI Search are unable to provide results or whenever web search mode is activated.
 
-**Parent Topic:**[Now Assist Skill Kit](../concept/now-assist-skill-kit-landing.md)
+**Parent Topic:**[Now Assist Skill Kit](now-assist-skill-kit-landing.md)
 

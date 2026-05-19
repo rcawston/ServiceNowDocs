@@ -51,12 +51,12 @@ On the **Details** tab, the **Start work** link changes to **Start timer**, **Lo
 
 Complete the Asset pick task assigned to you. For details, see [Locate and pick the hardware assets in your stockroom using the Mobile Agent application](locate-and-pick-hardware-asset-using-mobile-app.md).
 
-**Parent Topic:**[Manage hardware asset pick tasks using the Mobile Agent application](../concept/manage-asset-pick-task-ham-mobile-app.md)
+**Parent Topic:**[Manage hardware asset pick tasks using the Mobile Agent application](manage-asset-pick-task-ham-mobile-app.md)
 
 **Related topics**  
 
 
-[Record time worked on a hardware asset pick task using the Mobile Agent application](../concept/record-time-pick-task-mobile-agent-ham.md)
+[Record time worked on a hardware asset pick task using the Mobile Agent application](record-time-pick-task-mobile-agent-ham.md)
 
 [Locate and pick the hardware assets in your stockroom using the Mobile Agent application](locate-and-pick-hardware-asset-using-mobile-app.md)
 

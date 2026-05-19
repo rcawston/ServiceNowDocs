@@ -44,7 +44,7 @@ To view the AI Agent, do the following:
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview**.
 2.  Select **Company News &amp; Events AI Agent**.
 
-To activate, refer to [Activate Company News and Events AI Agent](../task/enable-company-news-and-events-ai-agent.md).
+To activate, refer to [Activate Company News and Events AI Agent](enable-company-news-and-events-ai-agent.md).
 
 ## Tools used by Company News &amp; Events AI Agent
 

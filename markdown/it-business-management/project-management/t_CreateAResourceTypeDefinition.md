@@ -53,7 +53,7 @@ Role required: it\_pps\_admin
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -73,7 +73,7 @@ Role required: it\_pps\_admin
 
 [Change the planned start date of a project](change-planned-start-date-of-project.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 

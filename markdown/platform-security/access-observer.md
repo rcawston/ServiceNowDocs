@@ -27,8 +27,8 @@ Find the results of your observations on the Access Observer log record table. O
 
 ![Access Observer log records showing details of an observation](../images/data-obs-2.png)
 
--   **[Configure access observation](../task/config-access-observation.md)**  
+-   **[Configure access observation](config-access-observation.md)**  
 Create an access observation record to review access to a data column during a specified time window.
--   **[Review Access Observer logs](../reference/review-access-obs-logs.md)**  
+-   **[Review Access Observer logs](review-access-obs-logs.md)**  
 Use information in the Access Observer log records for insights on how your data is accessed.
 

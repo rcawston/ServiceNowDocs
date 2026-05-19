@@ -32,5 +32,5 @@ To edit the schedule or filter of an existing notification message:
 3.  Select **Update**.
 
 
-**Parent Topic:**[Create a notification filter](../../../administer/notification/task/t_NotificationFilters.md)
+**Parent Topic:**[Create a notification filter](t_NotificationFilters.md)
 

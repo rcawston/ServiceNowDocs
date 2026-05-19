@@ -59,7 +59,7 @@ Oracle Analytics Server consists of integrated components that provide business 
     -   Linux: Configure SSH credentials. For more information, see [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md).
 -   **Schedule a horizontal discovery**
 
-    For more information, see [Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#).
+    For more information, see [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -114,5 +114,5 @@ The Oracle Analytics Server patterns create these relationships to support Oracl
     |Oracle BI Scheduler \[cmdb\_ci\_oracle\_bi\_scheduler\]|Runs on::Runs|Windows Server \[cmdb\_ci\_win\_server\] or Linux Server \[cmdb\_ci\_linux\_server\]|
 
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

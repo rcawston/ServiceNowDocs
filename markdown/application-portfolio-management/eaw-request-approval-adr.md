@@ -38,7 +38,7 @@ Role required: sn\_apm.apm\_user
 
 The record version is submitted for the approval to an Enterprise Architect. An email notification is sent to the approver.
 
-**Parent Topic:**[Manage architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-manage-adr.md)
+**Parent Topic:**[Manage architectural decision records \(ADR\)](eaw-manage-adr.md)
 
 **Related topics**  
 

@@ -33,7 +33,7 @@ Beginning with Release 20.1.x, the Operational Resilience application supports t
 
 4.  On the Impacted area form, fill in the fields.
 
-    To view more information on the fields, see the [Impacted area form](../reference/impacted-area-form.md).
+    To view more information on the fields, see the [Impacted area form](impacted-area-form.md).
 
 5.  Select **Save**.
 

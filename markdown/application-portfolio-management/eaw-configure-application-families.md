@@ -22,7 +22,7 @@ You can define application families based on how you want to evaluate and compar
 **Related topics**  
 
 
-[View all application families](../../task/eaw-task/eaw-view-all-application-families.md)
+[View all application families](eaw-view-all-application-families.md)
 
-[Add or edit an application family](../../task/eaw-task/eaw-create-app-family.md)
+[Add or edit an application family](eaw-create-app-family.md)
 

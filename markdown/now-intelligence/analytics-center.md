@@ -35,7 +35,7 @@ Library pages like this one include a navigation pane that provides access to th
 
 ![Left navigation pane in PA library for analytics admin users](../../par-for-workspace/image/overview-left-nav-admin.png "Platform Analytics library navigation for analytics admin users")
 
-**Note:** Users with non-admin roles \(roles other than analytics admin category\) can only access Dashboards, Data Visualizations, and Indicators in the left navigation pane. For more information on role-based access and enabled actions, see [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+**Note:** Users with non-admin roles \(roles other than analytics admin category\) can only access Dashboards, Data Visualizations, and Indicators in the left navigation pane. For more information on role-based access and enabled actions, see [Platform Analytics roles](platform-analytics-roles.md).
 
 ![Left navigation pane in PA library for users with non-admin roles](../../par-for-workspace/image/overview-left-nav-non-admin.png "Platform Analytics library navigation for non-admin users")
 

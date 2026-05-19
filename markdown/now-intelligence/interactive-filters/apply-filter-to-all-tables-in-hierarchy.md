@@ -23,7 +23,7 @@ When you create an interactive filter, you can:
 
     Specify any possible targets in the **Interactive Filter References** section for this selection to be respected.
 
--   **Select __Apply filter to both [database views](../../performance-analytics/concept/performance-analytics-glossary.md#) and tables__.**
+-   **Select __Apply filter to both [database views](../performance-analytics/performance-analytics-glossary.md#) and tables__.**
 
     If the source table is incident, then the interactive filter applies to both incident and, for example, the \[incident\_sla\] database view.
 
@@ -46,5 +46,5 @@ Interactive filters applied to extended tables also apply to the other tables in
 
 **Note:** Interactive filters on a database view do not apply automatically to the siblings of the database view's source table. For example, \[problem\_sla\] is a database view created on the table \[task\_problem\]. Interactive filters applied to \[problem\_sla\] do not apply automatically to widgets based on the \[task\_change\] table, a sibling of \[task\_problem\], even if you have selected both options.
 
-**Parent Topic:**[Creating Interactive Filters of different types](../../dashboards/reference/r_AvailableHomepagePublisherTypes.md)
+**Parent Topic:**[Creating Interactive Filters of different types](r_AvailableHomepagePublisherTypes.md)
 

@@ -228,5 +228,5 @@ Option to provide access to the selected users and user groups. Add users or gro
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Enterprise Architecture Workspace](../concept/eaw-concept/configure-eaw.md)
+**Parent Topic:**[Configuring Enterprise Architecture Workspace](configure-eaw.md)
 

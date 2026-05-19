@@ -17,20 +17,20 @@ Content pages are the core of the Content Management System. A content page is a
 
 Pages are built from content blocks and organized into sites. Pages display as regular webpages that are rendered in HTML. Constructing a content page requires a basic knowledge of HTML. Content pages are formed by arranging content blocks in predefined layouts. They can be used to present login pages, search pages, or ServiceNow content.
 
--   **[Create a content page](../task/t_CreateAContentPage.md)**  
+-   **[Create a content page](t_CreateAContentPage.md)**  
 Pages are built from content blocks and organized into sites.
--   **[Add content to a page](../task/t_AddContentToAPage.md)**  
+-   **[Add content to a page](t_AddContentToAPage.md)**  
 After you define the page settings, set the content of the page by adding content blocks. Setting content blocks is similar to how you add content to homepages.
--   **[Copy a page](../task/t_CopyAPage.md)**  
+-   **[Copy a page](t_CopyAPage.md)**  
 Copying pages is an efficient way to avoid duplicating the same work and to create pages quickly from a guiding base template.
--   **[Assign a page to a site](../task/t_AssignAPageToASite.md)**  
+-   **[Assign a page to a site](t_AssignAPageToASite.md)**  
 If you have created multiple sites, you can add pages from one site to another site.
--   **[Add a page to an application](../task/t_AddAPageUpateSetsApps.md)**  
+-   **[Add a page to an application](t_AddAPageUpateSetsApps.md)**  
 Homepages and content pages are not added automatically to update sets and applications. They must be manually added.
--   **[Configure a private UI page for CMS links](../task/t_ConfigurePrivateCMSLinks.md)**  
+-   **[Configure a private UI page for CMS links](t_ConfigurePrivateCMSLinks.md)**  
 With single sign-on \(SSO\) in place, you can generate email links that take users directly to tickets and applications through the CMS interface.
 
-**Parent Topic:**[Configure Content Management sites](../task/t_CreateASite.md)
+**Parent Topic:**[Configure Content Management sites](t_CreateASite.md)
 
 **Related topics**  
 

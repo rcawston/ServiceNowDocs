@@ -50,5 +50,5 @@ Case action status provides a Customer Service-specific application of the Actio
 **Related topics**  
 
 
-[Case action status](../concept/case-action-status-csm-workspace.md)
+[Case action status](case-action-status-csm-workspace.md)
 

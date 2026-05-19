@@ -27,11 +27,11 @@ Use ServiceNow® Upgrade Center
 
 </td></tr><tr><td>
 
-[Administer![](../image/uc-administer-icon.png)Administering Upgrade Center](../reference/uc-administration.md)
+[Administer![](../image/uc-administer-icon.png)Administering Upgrade Center](uc-administration.md)
 
 </td><td>
 
-[Reference![](../image/uc-reference-icon.png) Learn miscellaneous information about Upgrade Center](../reference/uc-reference.md)
+[Reference![](../image/uc-reference-icon.png) Learn miscellaneous information about Upgrade Center](uc-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

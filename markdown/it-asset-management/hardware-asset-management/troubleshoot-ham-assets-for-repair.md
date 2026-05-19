@@ -41,7 +41,7 @@ Role required: asset
 
 9.  Record the time worked on the task.
 
-    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Hardware Asset Workspace](../concept/record-repair-time-ham-ws.md).
+    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Hardware Asset Workspace](record-repair-time-ham-ws.md).
 
     An entry for the time you worked is created in the **Time Worked** tab of the Troubleshoot asset task.
 
@@ -80,7 +80,7 @@ Role required: asset
 
 [Complete the repair asset task in the Hardware Asset Workspace](repair-ham-assets-ws.md).
 
-**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](../concept/fulfill-ham-repair-orders-ws.md)
+**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](fulfill-ham-repair-orders-ws.md)
 
 **Related topics**  
 

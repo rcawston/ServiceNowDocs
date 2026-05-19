@@ -54,14 +54,14 @@ Based on your existing role, you can provide certain permissions.
     The architectural artifact access is updated.
 
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 
 
 [Share an architectural artifact with users or groups](eaw-share--archi-artft-with-users-groups.md)
 
-[Exploring architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-managing-arch-decision-records.md)
+[Exploring architectural decision records \(ADR\)](eaw-managing-arch-decision-records.md)
 
 [Download an architectural artifact version](eaw-download-artifact-version.md)
 

@@ -17,7 +17,7 @@ Use Spend and Savings Management to import and manage your organization's catego
 
 -   **[Map spend categories to product categories using an Excel file](map-spend-product-categories-excel.md)**  
 You can map spend categories to product categories using an Excel file to better organize and manage your organization’s expenses by grouping similar goods or services into logical categories.
--   **[Map spend categories to product categories manually](../task/map-spend-product-categories.md)**  
+-   **[Map spend categories to product categories manually](map-spend-product-categories.md)**  
 You can manually map spend categories to product categories to better organize and manage your organization’s expenses by grouping similar goods or services into logical categories.
 
 **Parent Topic:**[Use Sourcing and Procurement Operations](using-spo.md)
@@ -25,7 +25,7 @@ You can manually map spend categories to product categories to better organize a
 **Related topics**  
 
 
-[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+[Using Shopping Hub](use-shoppinghub-portal.md)
 
 [Using Shopping Hub Mobile](using-sh-mobile.md)
 

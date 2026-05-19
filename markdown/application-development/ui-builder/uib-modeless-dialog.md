@@ -31,9 +31,9 @@ A modeless dialog consists of three parts:
 
 ![New modeless dialog with header, body, footer section identified with text.](../image/modeless-dialog-anatomy.png)
 
--   **[Add modeless dialog to a UI Builder page](../task/add-modeless-dialog.md)**  
+-   **[Add modeless dialog to a UI Builder page](add-modeless-dialog.md)**  
 Learn how to add a modeless dialog in UI Builder. A modeless dialog is a floating window containing content above a page.
--   **[Add modeless dialog event to a UI Builder page](../task/add-modeless-dialog-event.md)**  
+-   **[Add modeless dialog event to a UI Builder page](add-modeless-dialog-event.md)**  
 Learn how to add and configure a modeless dialog event, such as open, close, or minimize in UI Builder. A modeless dialog is a floating window containing content above a page.
 
 **Parent Topic:**[Customize UI Builder pages using components](work-components.md)

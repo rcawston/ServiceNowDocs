@@ -48,5 +48,5 @@ You can submit AI‑related cases or inquiries by sending emails to configured a
 
 Emails sent to the configured group email address and the instance email address create corresponding intake records in AI Risk and Compliance.
 
-For more information, see [Automatic creation of AI cases and inquiries from inbound email](../concept/automatic-creation-cases-inquiries-from-email.md).
+For more information, see [Automatic creation of AI cases and inquiries from inbound email](automatic-creation-cases-inquiries-from-email.md).
 

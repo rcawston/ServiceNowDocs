@@ -17,20 +17,20 @@ The GlideImportLog API provides methods to write log entries directly to the Imp
 
 A GlideImportLog object is consumable by the GlideImportSetTransformer API. This object is not required for the GlideImportSetTransformer API, it enables you to associate import logs with a specific Import Set transformation.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 **Related topics**  
 
 
-[GlideImportSetRun](../../GlideImportSetRun/concept/GlideImportSetRunAPI.md#)
+[GlideImportSetRun](GlideImportSetRunAPI.md#)
 
-[GlideImportSetTable](../../GlideImportSetTable/concept/GlideImportSetTableAPI.md#)
+[GlideImportSetTable](GlideImportSetTableAPI.md#)
 
-[GlideImportSetTransformer](../../GlideImportSetTransformer/concept/GlideImportSetTransformerAPI.md#)
+[GlideImportSetTransformer](GlideImportSetTransformerAPI.md#)
 
-[GlideImportSetTransformMap](../../GlideImportSetTransformMap/concept/GlideImportSetTransformMapAPI.md#)
+[GlideImportSetTransformMap](GlideImportSetTransformMapAPI.md#)
 
-[GlideTransformLog](../../GlideTransformLog/concept/GlideTransformLogAPI.md#)
+[GlideTransformLog](GlideTransformLogAPI.md#)
 
 ## GlideImportLog - GlideImportLog\(GlideImportSetRun importSetRun, String source\)
 

@@ -101,7 +101,7 @@ The work order plan template is created and appears in the **Work order plan tem
 
 Use this work order plan template when you [create a work order plan](create-work-order-plan-eam.md).
 
-**Parent Topic:**[Manage asset-centric work tasks using work order plans](../concept/manage-work-order-plans.md)
+**Parent Topic:**[Manage asset-centric work tasks using work order plans](manage-work-order-plans.md)
 
 **Related topics**  
 

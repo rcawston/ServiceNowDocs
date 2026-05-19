@@ -25,7 +25,7 @@ You can pass data from one test step to another using input variables and output
 
 ## Reuse common sequences of steps with templates
 
-If you frequently add the same sequence of steps to your tests, save time by creating a template. To learn more about templates, see [Add a predefined list of steps \(template\) to an automated test](../task/atf-use-template.md)
+If you frequently add the same sequence of steps to your tests, save time by creating a template. To learn more about templates, see [Add a predefined list of steps \(template\) to an automated test](atf-use-template.md)
 
 **Parent Topic:**[Getting started with the Automated Test Framework](atf-intro.md)
 

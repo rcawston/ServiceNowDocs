@@ -54,9 +54,9 @@ Only the default field values are migrated. The custom field values aren't migra
 
 For Tokyo and earlier releases, you must restructure the RPA Hub tables before migration. For more information, see [Restructuring RPA Hub tables](restructured-rpa-hub-tables-utah.md).
 
--   **[Mark the bot process as ready for migration in RPA Hub](../task/mark-bot-process-ready-for-migration.md)**  
+-   **[Mark the bot process as ready for migration in RPA Hub](mark-bot-process-ready-for-migration.md)**  
 Mark the bot process as ready for migration in RPA Hub so that the bot process configuration and associated assets can be migrated to another environment. With this feature, you can create an automation and test it in a lower environment and then migrate it to a higher or production environment.
--   **[Migrate the bot process configuration to another environment in RPA Hub](../task/migrate-bot-process.md)**  
+-   **[Migrate the bot process configuration to another environment in RPA Hub](migrate-bot-process.md)**  
 Migrate the bot process configuration and associated assets to another environment in RPA Hub. With this feature, you can create an automation and test it in a lower environment and then migrate it to a higher or production environment.
 
 **Parent Topic:**[Migrating data in RPA Hub](migrating-data-rpa-hub.md)
@@ -64,7 +64,7 @@ Migrate the bot process configuration and associated assets to another environme
 **Related topics**  
 
 
-[Mark the bot process as ready for migration in RPA Hub](../task/mark-bot-process-ready-for-migration.md)
+[Mark the bot process as ready for migration in RPA Hub](mark-bot-process-ready-for-migration.md)
 
-[Migrate the bot process configuration to another environment in RPA Hub](../task/migrate-bot-process.md)
+[Migrate the bot process configuration to another environment in RPA Hub](migrate-bot-process.md)
 

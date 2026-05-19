@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Search and select the quick start tests you want to run.
 
-    For information on available quick start tests, see [Quick start tests for Talent Development Core](../reference/egd-quick-start-tests-td-core.md).
+    For information on available quick start tests, see [Quick start tests for Talent Development Core](egd-quick-start-tests-td-core.md).
 
 3.  Click **Run Test**.
 
@@ -38,5 +38,5 @@ Role required: admin
 
 Use Performance Profiling to compare tests to detect performance degradation when you upgrade your instance, so you can investigate and fix the issues. See [Performance profiling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-perf-prof.md).
 
-**Parent Topic:**[Quick start tests for Talent Development Core](../reference/egd-quick-start-tests-td-core.md)
+**Parent Topic:**[Quick start tests for Talent Development Core](egd-quick-start-tests-td-core.md)
 

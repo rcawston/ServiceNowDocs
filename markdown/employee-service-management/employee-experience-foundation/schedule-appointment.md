@@ -91,7 +91,7 @@ While scheduling a walk-up, select **Schedule appointment instead**.
 
 3.  On the Schedule appointment form, fill in the fields.
 
-    For a description of the field values, see [Schedule appointment form](../reference/schedule-appointment-form.md)
+    For a description of the field values, see [Schedule appointment form](schedule-appointment-form.md)
 
     **Note:** Some fields might not be available based on the configuration set by the admin.
 

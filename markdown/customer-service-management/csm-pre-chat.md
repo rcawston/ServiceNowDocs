@@ -29,5 +29,5 @@ Role required: sn\_customerservice.consumer
 **Related topics**  
 
 
-[Pre-chat surveys](../concept/csm-pre-chat-overview.md)
+[Pre-chat surveys](csm-pre-chat-overview.md)
 

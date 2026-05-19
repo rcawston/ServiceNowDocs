@@ -43,7 +43,7 @@ Visually analyze how your team is performing on sourcing requests, purchase requ
 
 [Shopping Hub Mobile](shoppinghub-mobile.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 
 [Procurement Case Management](psd-overview.md)
 
@@ -57,7 +57,7 @@ Visually analyze how your team is performing on sourcing requests, purchase requ
 
 [AI Search for Sourcing and Procurement Operations](ai-search-sourcing-procurement-operations.md)
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md)
 

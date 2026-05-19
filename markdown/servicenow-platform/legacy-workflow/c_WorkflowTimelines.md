@@ -19,7 +19,7 @@ Timelines display a linear calendar of activities, such as tasks and approvals, 
 
 **Note:** Workflow timelines reflect context history only and are not real-time gauges of workflow activity.
 
-**Parent Topic:**[Workflow administration](../../workflow/concept/c_WorkflowAdministration.md)
+**Parent Topic:**[Workflow administration](c_WorkflowAdministration.md)
 
 ## Use a timeline
 

@@ -39,7 +39,7 @@ The context of the user session includes the user's home domain and any child do
 
 Service accounts that are used for integrations also have user session context. There is user context and records context, each with its own data in its own domain. These contexts affect the integrations. Database queries \(records\) are limited in the same way as interactive users \(users\), meaning that they work as normal but are limited by whatever constraints the developer has configured.
 
-You can learn about additional ways to add domains to a user’s session context in [Service provider reference architecture](../reference/bp-sp-reference-arch-ds.md).
+You can learn about additional ways to add domains to a user’s session context in [Service provider reference architecture](bp-sp-reference-arch-ds.md).
 
 ## Record context
 
@@ -54,32 +54,32 @@ A record’s domain dictates the process, data, and the availability of UI eleme
 
 ![Record context](../image/bp-record-context.png)
 
-**Parent Topic:**[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+**Parent Topic:**[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 
 **Related topics**  
 
 
 [Domain separation explained](bp-what-is-domain-separation.md)
 
-[Domain separation hierarchies](../reference/bp-domain-sep-hierarchies.md)
+[Domain separation hierarchies](bp-domain-sep-hierarchies.md)
 
-[Segregating and securing data with domain separation](../reference/bp-segregate-secure.md)
+[Segregating and securing data with domain separation](bp-segregate-secure.md)
 
-[Alternatives to domain separation](../reference/bp-domain-separation-alternatives.md)
+[Alternatives to domain separation](bp-domain-separation-alternatives.md)
 
-[Evaluating the need for domain separation](../reference/bp-evaluation-dom-sep.md)
+[Evaluating the need for domain separation](bp-evaluation-dom-sep.md)
 
-[Benefits of domain separation](../reference/bp-advantages-dom-sep.md)
+[Benefits of domain separation](bp-advantages-dom-sep.md)
 
 [How a database query works with domain separation](bp-db-query-with-ds.md)
 
-[Domain separation levels of support](../reference/bp-domain-levels.md)
+[Domain separation levels of support](bp-domain-levels.md)
 
-[Service provider reference architecture](../reference/bp-sp-reference-arch-ds.md)
+[Service provider reference architecture](bp-sp-reference-arch-ds.md)
 
-[Domain separation terms](../reference/bp-terms-conditions.md)
+[Domain separation terms](bp-terms-conditions.md)
 
-[Domain-separate a custom table](../reference/bp-ds-custom-table.md)
+[Domain-separate a custom table](bp-ds-custom-table.md)
 
 [Customizing domain properties and themes](bp-domain-prop-themes.md)
 
@@ -105,7 +105,7 @@ A record’s domain dictates the process, data, and the availability of UI eleme
 
 [Avoiding domain path in scripts](bp-no-domain-path-in-scripts.md)
 
-[Domain assignments](../reference/bp-domain-assignment.md)
+[Domain assignments](bp-domain-assignment.md)
 
 [Domain separation and the Customer Service Management \(CSM\) plugin](bp-ds-and-csm.md)
 

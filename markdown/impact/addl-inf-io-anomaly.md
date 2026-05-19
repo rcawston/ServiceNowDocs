@@ -344,7 +344,7 @@ Max
     -   Default chart metric values will not match with anomaly chart metric values for node-level metrics, because the default chart aggregates at the node level whereas the anomaly chart aggregates at the instance level. Note that the aggregation type \(Max\) remains the same across both charts for these metrics.
     -   Anomaly chart data is available for a maximum of 28 days from the current date.
 
-**Parent Topic:**[Overview of Instance Observer metrics](../concept/instance-observer-ovr-metric.md)
+**Parent Topic:**[Overview of Instance Observer metrics](instance-observer-ovr-metric.md)
 
 **Related topics**  
 

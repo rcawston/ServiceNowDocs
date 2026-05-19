@@ -77,6 +77,6 @@ Comment box to provide a resolution.
 
     You can use the **Feedback tasks** filter option to view both your open and completed tasks.
 
-    **Note:** A feedback notification is sent to the feedback provider when it's resolved. For more information, see [Feedback task notification](../concept/fdbck-task-notification.md).
+    **Note:** A feedback notification is sent to the feedback provider when it's resolved. For more information, see [Feedback task notification](fdbck-task-notification.md).
 
 

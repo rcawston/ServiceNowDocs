@@ -44,10 +44,10 @@ Query for data by issuing an HTTPS GET request to the instance.
 -   **[JSON Data Modification API](c_DataModificationAPI.md)**  
 Modify data using the JSON web service by sending an HTTPS POST request to the instance.
 
-**Parent Topic:**[Inbound web services](../../web-services/concept/inbound-web-services.md)
+**Parent Topic:**[Inbound web services](inbound-web-services.md)
 
 **Related topics**  
 
 
-[SOAP web services security](../../inbound-soap/concept/c_SOAPWebService.md)
+[SOAP web services security](c_SOAPWebService.md)
 

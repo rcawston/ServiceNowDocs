@@ -68,5 +68,5 @@ Your connector admin needs these items to configure a Smartsheet external conten
 
 For details on creating and configuring a Smartsheet external content connector, see [Create a Smartsheet external content connector](create-ext-cont-connector-smartsheet.md).
 
-**Parent Topic:**[Smartsheet external content connector](../concept/smartsheet-external-content-connector.md)
+**Parent Topic:**[Smartsheet external content connector](smartsheet-external-content-connector.md)
 

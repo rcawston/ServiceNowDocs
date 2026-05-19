@@ -25,11 +25,11 @@ Creating an inventory of all technologies used in the enterprise helps to:
 -   Plan to retire them just like the applications they support, at a definite date
 -   Support upgrade processes
 
-The data for the software products are populated from the Computer \(CMDB\_CI\_Computer\) and all similar instances of the table, Docker Container \(CMDB\_CI\_Docker\_Container\), and Serverless Hardwares \(CMDB\_CI\_Serverless\_Hardware\) tables, by default. However, if you want to include other CMDB tables that contain software products, you must update the system property **sn\_apm\_tpm.configurationItemsWithSoftwareInstalls**. For information on how to update the system property, see [Update the system property to gather software products from a CMDB table](../../task/eaw-task/eaw-update-system-property-gather-software-cmdb.md).
+The data for the software products are populated from the Computer \(CMDB\_CI\_Computer\) and all similar instances of the table, Docker Container \(CMDB\_CI\_Docker\_Container\), and Serverless Hardwares \(CMDB\_CI\_Serverless\_Hardware\) tables, by default. However, if you want to include other CMDB tables that contain software products, you must update the system property **sn\_apm\_tpm.configurationItemsWithSoftwareInstalls**. For information on how to update the system property, see [Update the system property to gather software products from a CMDB table](eaw-update-system-property-gather-software-cmdb.md).
 
 ## Installing the Technology Portfolio Management plugin
 
-For instructions to install Technology Portfolio Management, see [Activate the Technology Portfolio Management \(TPM\) plugin](../../task/eaw-task/eaw-install-tpm.md).
+For instructions to install Technology Portfolio Management, see [Activate the Technology Portfolio Management \(TPM\) plugin](eaw-install-tpm.md).
 
 **Important:** Technology Portfolio Management \(TPM\) fetches the hardware life-cycle data for your enterprise. To fetch the software life-cycle data, you must activate the Software Asset Management \(SAM\) Professional plugin. Before installing the SAM Foundation plugin, carefully review the [Software Asset Management Foundation plugin migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMMigrationSAMF.md) documentation.
 
@@ -58,7 +58,7 @@ The following is the technology discovery and alignment process for business app
     ![Service Configuration Item Associations](../../image/eaw-image/eaw-tpm-serv-con-item-asso.png "Service Configuration Item Associations")
 
 -   For each computer identified in the Service Configuration Item Associations \[svc\_ci\_assoc\] table, you can see the installed software by selecting the Software Installations tab. Also, if a Hardware Model is associated with the computer, you can see the Hardware type details in the TPM Discovered Technologies tab.
--   For each software install, you can see the associated discovery model. The software discovery models must be of a product type Licensable or Unknown and they must be normalized or manually normalized to get any appropriate information. You can also also use the **sn\_apm\_tpm.softwareDiscoveryModelProductFilterForTPMsystem** property to gather data on non-licensable software products. For information see, [Filter software results using an encoded query in TPM](../../task/eaw-task/use-tpm-encoded-query.md).
+-   For each software install, you can see the associated discovery model. The software discovery models must be of a product type Licensable or Unknown and they must be normalized or manually normalized to get any appropriate information. You can also also use the **sn\_apm\_tpm.softwareDiscoveryModelProductFilterForTPMsystem** property to gather data on non-licensable software products. For information see, [Filter software results using an encoded query in TPM](use-tpm-encoded-query.md).
 -   For each discovery model, create a TPM Discovered Technology record.
 -   When you create a record for the TPM Discovered Technology, it triggers the creation of an associated TPM Technology Lifecycles record and it fetches the lifecycle information for the hardware or software technology. An unique TPM lifecycle record identifier is also generated. On selecting the record identifier, more information on the TPM lifecycle record is displayed.
 
@@ -66,7 +66,7 @@ The following is the technology discovery and alignment process for business app
 
     **Note:**
 
-    -   TPM lifecycle record identifiers are automatically generated on creating a TPM record using the Technology Portfolio Management \(sn\_apm\_tpm\) plugin version 1.9.0. However, for TPM lifecycle records generated using previous versions of the TPM plugin don't have any lifecycle record identifiers. The TPM record identifiers of these TPM lifecycle records must be generated using the Populate Number field in TPM Discovered Technologies job. For information, see [Run a scheduled job to populate Technology Portfolio Management lifecycle record identifier](../../task/eaw-task/eaw-run-job-to-populate-tpm-lifecycle-identifier.md).
+    -   TPM lifecycle record identifiers are automatically generated on creating a TPM record using the Technology Portfolio Management \(sn\_apm\_tpm\) plugin version 1.9.0. However, for TPM lifecycle records generated using previous versions of the TPM plugin don't have any lifecycle record identifiers. The TPM record identifiers of these TPM lifecycle records must be generated using the Populate Number field in TPM Discovered Technologies job. For information, see [Run a scheduled job to populate Technology Portfolio Management lifecycle record identifier](eaw-run-job-to-populate-tpm-lifecycle-identifier.md).
 
     -   You can zoom on this page to 200% or 400% through your browser settings without the loss of content or functionality. Page layouts are transformed into a vertical, stacked view automatically.
 
@@ -91,7 +91,7 @@ Hardware requires the Hardware Model reference on the Computer be populated.
 
 ## Update TPM Data for a business application or application service
 
-You can manually refresh the TPM life-cycle data manually for a selected business application or application service. A scheduled job **Populate TPM Discovered Technologies and Life-cycles** is also run on schedule or on-demand to update the life-cycle data for all business applications and application services​​. For more details, see [Update TPM data for a business application or application service](../../task/eaw-task/update-tpm-data.md) and [Run a scheduled job to generate TPM lifecycle data](../../task/eaw-task/eaw-run-scheduled-job-update-tpm-data.md).
+You can manually refresh the TPM life-cycle data manually for a selected business application or application service. A scheduled job **Populate TPM Discovered Technologies and Life-cycles** is also run on schedule or on-demand to update the life-cycle data for all business applications and application services​​. For more details, see [Update TPM data for a business application or application service](update-tpm-data.md) and [Run a scheduled job to generate TPM lifecycle data](eaw-run-scheduled-job-update-tpm-data.md).
 
 ## View insights for technology life-cycle risks
 
@@ -103,7 +103,7 @@ You can track the technology lifecycle risk for business applications, applicati
 
     The data in the Technology lifecycle risks table is fetched from the TPM Discovered Technologies \[sn\_apm\_tpm\_discovered\_technology\] table.
 
--   Execute the Populate Technology Lifecycle Risks scheduled job to generate the TPM technology lifecycle risks. This scheduled job populates the risk scores for business applications \(BA\), application services \(AS\), software products, and hardware models for a fiscal period of type month in the Technology lifecycle risks \(sn\_apm\_tpm\_technology\_risk\) table. For more details, see [Schedule a job to generate TPM technology risk](../../task/eaw-task/eaw-schedule-job-generate-tpm-risk.md).
+-   Execute the Populate Technology Lifecycle Risks scheduled job to generate the TPM technology lifecycle risks. This scheduled job populates the risk scores for business applications \(BA\), application services \(AS\), software products, and hardware models for a fiscal period of type month in the Technology lifecycle risks \(sn\_apm\_tpm\_technology\_risk\) table. For more details, see [Schedule a job to generate TPM technology risk](eaw-schedule-job-generate-tpm-risk.md).
 
 ## View TPM analysis run logs
 
@@ -113,13 +113,13 @@ You can track the progress of TPM analysis by examining the TPM Discovered Techn
 
 For the Technology Portfolio Management \(TPM\), the business applications and their related application services \(associated hardware models and software products\) are displayed in a hierarchical structure. The corresponding timelines of the application services are displayed as bars on the Gantt chart.
 
-The application services \(composed of software products and hardware models\) have lifecycle timelines determined for them. On the Gantt chart, the earliest TPM phase start date of either the software products or hardware models are rolled up to calculate the TPM phase start date of the overall application service. That is, the earliest TPM phase start date of any software product or hardware model is taken as the TPM phase start date of the application service, overall. For more details, see [TPM lifecycle timelines on Gantt chart](eaw-tpm-lifecycle-timelines-on-gantt-chart.md) and [View TPM and TRM lifecycle timelines on the Gantt chart](../../task/eaw-task/eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md).
+The application services \(composed of software products and hardware models\) have lifecycle timelines determined for them. On the Gantt chart, the earliest TPM phase start date of either the software products or hardware models are rolled up to calculate the TPM phase start date of the overall application service. That is, the earliest TPM phase start date of any software product or hardware model is taken as the TPM phase start date of the application service, overall. For more details, see [TPM lifecycle timelines on Gantt chart](eaw-tpm-lifecycle-timelines-on-gantt-chart.md) and [View TPM and TRM lifecycle timelines on the Gantt chart](eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md).
 
 ![TPM Gantt chart](../../image/eaw-image/TPM-gantt-chart.png)
 
 ## Data visualization for TPM data
 
-In the Enterprise Architecture Workspace Dashboard, the 'Top 10 business applications with normalized TPM risk' widget shows the top 10 business applications having normalized TPM risk. For more details, see [Explore the Enterprise Architecture Workspace dashboard](../../../../use/dashboards/concept/eaw-workspace-dashboard.md).
+In the Enterprise Architecture Workspace Dashboard, the 'Top 10 business applications with normalized TPM risk' widget shows the top 10 business applications having normalized TPM risk. For more details, see [Explore the Enterprise Architecture Workspace dashboard](eaw-workspace-dashboard.md).
 
 -   **[Working with technology portfolio audit details](eaw-view-technology-portfolio-audit-risk.md)**  
 The  **Technology portfolio audit** tab shows audit information for your applications. An entry in this table indicates that at least one lifecycle for that software product or hardware model was either approximated, or not found, or doesn’t exist.
@@ -135,5 +135,5 @@ The  **Technology portfolio audit** tab shows audit information for your appli
 
 [TPM lifecycle timelines on Gantt chart](eaw-tpm-lifecycle-timelines-on-gantt-chart.md)
 
-[View TPM and TRM lifecycle timelines on the Gantt chart](../../task/eaw-task/eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md)
+[View TPM and TRM lifecycle timelines on the Gantt chart](eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md)
 

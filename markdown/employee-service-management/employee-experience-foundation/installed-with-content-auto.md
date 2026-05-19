@@ -216,7 +216,7 @@ Content Experiences: Update Campaign Audience
 
 Reevaluates the audience for a campaign and removes employees that no longer satisfy the criteria. Adds users that match your defined criteria to the campaign. Users show up in the Campaign Targets related list for a campaign.
 
- You can view the updated audience from the Campaign Targets tab of a campaign. See [View campaign targets](../task/manage-campaign-targets.md).
+ You can view the updated audience from the Campaign Targets tab of a campaign. See [View campaign targets](manage-campaign-targets.md).
 
  Runs daily by default.
 
@@ -239,9 +239,9 @@ Reevaluates the audience for a campaign and removes employees that no longer sat
 
 [Block content form](block-content-form.md)
 
-[Campaign overview and Campaign analytics dashboards](../concept/ecpro-content-automation-content-pack.md)
+[Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md)
 
-[Components installed with Employee Center Pro](components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)
 
 [Components installed with Content engagement](installed-content-engagement.md)
 
@@ -249,13 +249,13 @@ Reevaluates the audience for a campaign and removes employees that no longer sat
 
 [Components installed with Content Governance](ec-installed-content-governance.md)
 
-[Components installed with Content Analytics](ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)
 
-[Content Analytics dashboards](../concept/content-analytics-dashboards.md)
+[Content Analytics dashboards](content-analytics-dashboards.md)
 
-[Content engagement dashboard](../concept/ec-pro-content-engagement-dashboard.md)
+[Content engagement dashboard](ec-pro-content-engagement-dashboard.md)
 
-[Content Library Overview dashboard](../concept/content-library-overview-dashboard.md)
+[Content Library Overview dashboard](content-library-overview-dashboard.md)
 
 [Employee Center Pro widgets](employee-center-pro-widgets-list.md)
 

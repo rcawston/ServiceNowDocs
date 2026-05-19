@@ -99,5 +99,5 @@ EXEC sp_addlinkedserver
 
 After creating the linked server, you must update its properties to specify the login credentials.
 
-**Parent Topic:**[ODBC driver in SQL Server](../concept/c_ODBCDrvrSQL20082012.md)
+**Parent Topic:**[ODBC driver in SQL Server](c_ODBCDrvrSQL20082012.md)
 

@@ -43,7 +43,7 @@ For an upgraded instance to use ACR, you must do the following:
 
 -   Before enabling SSO property \(`glide.authenticate.multisso.enabled`\), the administrator must enroll as an ACR user.
 
-    **Note:** Setting this property to false will not disable multi-provider SSO if Account Recovery \(ACR\) is also enabled on the instance. To log in with a username and password ACR must also be disabled using the **glide.sso.acr.enabled** property. For details on this property see [Account recovery properties](../reference/acr-properties.md).
+    **Note:** Setting this property to false will not disable multi-provider SSO if Account Recovery \(ACR\) is also enabled on the instance. To log in with a username and password ACR must also be disabled using the **glide.sso.acr.enabled** property. For details on this property see [Account recovery properties](acr-properties.md).
 
 -   Administrator must set a password for local login and register MFA before enrolling as an ACR user.
 

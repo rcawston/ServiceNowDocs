@@ -36,7 +36,7 @@ Roles required in the ServiceNow environment:
 
 Enter the connection details, API Key credentials and update the credential record.
 
-Create an API key for the AI Connector to authenticate with LangGraph. For more information on creating API Key in LangGraph, see [Create an API Key](../task/create-an-api-key-in-langgraph-environment.md)
+Create an API key for the AI Connector to authenticate with LangGraph. For more information on creating API Key in LangGraph, see [Create an API Key](create-an-api-key-in-langgraph-environment.md)
 
 **Note:** To access the latest and most comprehensive guidelines for managing API keys, see [About LangGraph](https://docs.langchain.com/)
 

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Industrial Process Manager, Operational Technology]
 
 Enable the system properties for the ISA Equipment Model as needed.
 
-You can access the system properties for the ISA Equipment Model by navigating to **All** &gt; **Industrial Workspace Admin** &gt; **All OT Properties**. For more information about how to view and edit the OT system properties, see [View and edit OT system properties](../task/view-and-edit-ot-system-properties.md).
+You can access the system properties for the ISA Equipment Model by navigating to **All** &gt; **Industrial Workspace Admin** &gt; **All OT Properties**. For more information about how to view and edit the OT system properties, see [View and edit OT system properties](view-and-edit-ot-system-properties.md).
 
 The following table describes the system properties for the ISA Equipment Model.
 

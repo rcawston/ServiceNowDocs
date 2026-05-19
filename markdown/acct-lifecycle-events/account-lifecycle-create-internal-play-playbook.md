@@ -51,5 +51,5 @@ Create an internal play to define a planned or unplanned activity during the eng
 -   **[Close or cancel an internal play](account-lifecycle-cancel-internal-play.md)**  
 You can close or cancel an internal play and all the related tasks.
 
-**Parent Topic:**[Manage customer success playbooks](../concept/account-lifecycle-manage-cust-succ-playbooks.md)
+**Parent Topic:**[Manage customer success playbooks](account-lifecycle-manage-cust-succ-playbooks.md)
 

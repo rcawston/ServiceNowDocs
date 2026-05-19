@@ -55,10 +55,10 @@ HAProxy provides load balancing and reverse proxy capabilities for both HTTP and
     `http://<HAProxyServer>:8080/stats`
 
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
 
 **Related topics**  
 
 
-[HAProxy default checks and policies](../reference/haproxy-checks-policies.md)
+[HAProxy default checks and policies](haproxy-checks-policies.md)
 

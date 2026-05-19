@@ -76,5 +76,5 @@ sn\_imt\_core.admin
 |Employee Testing Rate \(Monthly\)|Line![Line icon](../../performance-analytics/image/line-icon.png)|Testing rate of users in your organization for the month.|
 |Test Results \(Monthly\)|Stacked bar chart![Stacked bar chart icon](../image/stacked-bar-chart.png)|The monthly number of test results reported \(positive, negative, and inconclusive\).|
 
-**Parent Topic:**[Health and Safety Testing](../../../product/health-safety-testing/concept/health-safety-testing.md)
+**Parent Topic:**[Health and Safety Testing](health-safety-testing.md)
 

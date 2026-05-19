@@ -55,5 +55,5 @@ The CI lists for empty application services, that do not contain any CIs contain
 7.  Select **View map** to navigate to the application service map.
 
 
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

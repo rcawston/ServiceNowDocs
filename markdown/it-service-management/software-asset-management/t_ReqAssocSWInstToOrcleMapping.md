@@ -41,10 +41,10 @@ Role required: admin
 
     The **License metric** \(metric\_type\) field on the Software License table is a reference field to the License Calculation table.
 
-6.  [Create a software counter](../concept/c_CreatingAnOracleSoftwareCounter.md) to calculate Oracle licenses with the matching license type.
+6.  [Create a software counter](c_CreatingAnOracleSoftwareCounter.md) to calculate Oracle licenses with the matching license type.
 
 7.  Count licenses to determine compliance with Oracle guidelines.
 
 
-**Parent Topic:**[Legacy Oracle process pack](../concept/c_OracleProcessPack.md)
+**Parent Topic:**[Legacy Oracle process pack](c_OracleProcessPack.md)
 

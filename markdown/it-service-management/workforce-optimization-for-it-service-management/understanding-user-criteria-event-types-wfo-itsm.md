@@ -19,7 +19,7 @@ You can include or exclude Create, Read, Write or Update, and Delete \(CRUD\) ri
 
 **Note:** By default:
 
--   Users have [role-based access](../reference/configurable-wfo-itsm-scheduling-reference.md) to manage event types.
+-   Users have [role-based access](configurable-wfo-itsm-scheduling-reference.md) to manage event types.
 -   Team members don’t have read-access to events of type **Actual work**.
 
 For additional flexibility around managing the CRUD access, you can set the user criteria for each event type. For example, if team members don't have access to edit their work shifts using their role-based access, you can set that access using user criteria. You can set this access for specific team members or for the whole group.
@@ -43,11 +43,11 @@ When the user criteria rules get evaluated, it's done in the following order:
 
 **Note:** The exclusion access always takes precedence over the inclusion access. If no inclusion or exclusion access is set, then the role-based access is used for managing event types.
 
--   **[Create user criteria for event types in Workforce Optimization for ITSM](../task/user-criteria-event-types-wfo-itsm.md)**  
+-   **[Create user criteria for event types in Workforce Optimization for ITSM](user-criteria-event-types-wfo-itsm.md)**  
 Add a user criteria record to specify which users, roles, and groups can access event types in Workforce Optimization for ITSM.
--   **[Include or exclude user access for event types​](../task/include-or-exclude-user-access-for-event-types.md)**  
+-   **[Include or exclude user access for event types​](include-or-exclude-user-access-for-event-types.md)**  
 Add or remove access to users for any event type so that they can view event types that are relevant only to them.​
--   **[Verify access criteria for a group or a team member in Workforce Optimization for ITSM](../task/verify-user-access-wfo-itsm.md)**  
+-   **[Verify access criteria for a group or a team member in Workforce Optimization for ITSM](verify-user-access-wfo-itsm.md)**  
 Check what create, read, update, and delete rights your groups or your team members have for events to make sure that they have the correct permissions that they need.
 
 **Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](scheduling-configurable-workforce-optimization-itsm.md)

@@ -17,7 +17,7 @@ Use the Upgrade Console experience to access all the tools, information, and gui
 
 Review the following for a seamless upgrade experience.
 
--   **[Upgrade Console tools](../reference/um-tools.md)**  
+-   **[Upgrade Console tools](um-tools.md)**  
 Access all the necessary tools you might require for a seamless upgrade experience on your instance.
 
 **Parent Topic:**[Upgrade Console](um-landing-page.md)

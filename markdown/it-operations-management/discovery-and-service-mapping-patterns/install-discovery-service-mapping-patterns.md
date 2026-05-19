@@ -45,5 +45,5 @@ Multiple tables are installed with Discovery and Service Mapping Patterns.
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Pattern Designer and related applications](../reference/configuring-pattern-designer-plugins.md)
+**Parent Topic:**[Configuring Pattern Designer and related applications](configuring-pattern-designer-plugins.md)
 

@@ -46,5 +46,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
     Select ![View details icon](../image/worknotes-icon.png) to view all items with the same reasons.
 
 
-**Parent Topic:**[Work notes analysis](../concept/worknotes-analysis.md)
+**Parent Topic:**[Work notes analysis](worknotes-analysis.md)
 

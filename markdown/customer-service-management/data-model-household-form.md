@@ -155,5 +155,5 @@ Cases that have been created for this household and the members of this househol
 </table>**Related topics**  
 
 
-[Create or update a household](../task/create-consumer-household.md)
+[Create or update a household](create-consumer-household.md)
 

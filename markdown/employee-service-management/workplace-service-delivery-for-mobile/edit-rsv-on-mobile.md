@@ -60,7 +60,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 The reservation is updated or canceled accordingly.
 
-**Parent Topic:**[Using Workplace Service Delivery for Mobile](../concept/using-wsd-mobile.md)
+**Parent Topic:**[Using Workplace Service Delivery for Mobile](using-wsd-mobile.md)
 
 **Previous topic:**[Get directions to a workplace](get-directions-to-a-workplace.md)
 

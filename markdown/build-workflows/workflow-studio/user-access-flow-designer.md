@@ -210,7 +210,7 @@ Specify the user roles necessary to access Workflow Studio flow content. For exa
 
 ## Role-based feature access
 
-Specify additional user roles necessary to access the UI elements of Workflow Studio flows. For example, specify a role to access the buttons to save, test, or activate a flow or to access the option to copy a code snippet. Manage feature access directly through the Feature Access List. For more information, see [Manage access to Workflow Studio flow features](../task/manage-access-features.md).
+Specify additional user roles necessary to access the UI elements of Workflow Studio flows. For example, specify a role to access the buttons to save, test, or activate a flow or to access the option to copy a code snippet. Manage feature access directly through the Feature Access List. For more information, see [Manage access to Workflow Studio flow features](manage-access-features.md).
 
 **Note:** Your users must have the flow\_designer role to create and edit flows. You can specify the additional roles that a user must have to access particular features or content.
 

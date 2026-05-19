@@ -34,7 +34,7 @@ By default, text searches don't use text index synonyms.
 
 Text searches use active synonym dictionaries to expand keyword searches.
 
-**Parent Topic:**[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+**Parent Topic:**[Zing can expand search results with synonyms](search-synonyms-expand-results.md)
 
 **Related topics**  
 

@@ -30,7 +30,7 @@ To resolve such errors, review the scope of the planning items and update the st
 **Related topics**  
 
 
-[Add dependencies for roadmap items](../../spw-roadmap/task/create-planning-item-dependencies-in-a-roadmap.md)
+[Add dependencies for roadmap items](create-planning-item-dependencies-in-a-roadmap.md)
 
-[Update roadmap item dependencies](../../spw-roadmap/task/manage-planning-item-dependencies-apw.md)
+[Update roadmap item dependencies](manage-planning-item-dependencies-apw.md)
 

@@ -15,7 +15,7 @@ Configure a user-selected start page to override the administrator‑configured 
 
 ## Before you begin
 
-Ensure you have enabled the Next Experience prior to beginning this task. For more information, see [Considerations for activating Next Experience](../concept/next-experience-adoption-paths.md#).
+Ensure you have enabled the Next Experience prior to beginning this task. For more information, see [Considerations for activating Next Experience](next-experience-adoption-paths.md#).
 
 Role required: none
 
@@ -47,5 +47,5 @@ Role required: none
     |Continue where I last left off|Set the last page you visited in ServiceNow as the start page when you next log in.|
 
 
-**Parent Topic:**[Next Experience landing pages](../concept/next-experience-landing-pages.md)
+**Parent Topic:**[Next Experience landing pages](next-experience-landing-pages.md)
 

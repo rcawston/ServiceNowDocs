@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-Optical fiber cables are installed between sites with open endpoints, indicating that the cables don’t terminate directly on equipment. The cables are pulled through utility holes and spliced together to extend the connection between sites, depending on the distance requirements. When you create a cable record, it creates a corresponding configuration item \(CI\) record in the Fiber Optical Cable \[cmdb\_ci\_fiber\_optical\_cable\] table. To learn more, see [Data model](../concept/uses-for-network-inventory-data.md).
+Optical fiber cables are installed between sites with open endpoints, indicating that the cables don’t terminate directly on equipment. The cables are pulled through utility holes and spliced together to extend the connection between sites, depending on the distance requirements. When you create a cable record, it creates a corresponding configuration item \(CI\) record in the Fiber Optical Cable \[cmdb\_ci\_fiber\_optical\_cable\] table. To learn more, see [Data model](uses-for-network-inventory-data.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ Optical fiber cables are installed between sites with open endpoints, indicating
 
 4.  On the **Details** tab, fill in the fields.
 
-    To learn more about the fields in the Cable form, see [Cable form](../reference/cable-form.md).
+    To learn more about the fields in the Cable form, see [Cable form](cable-form.md).
 
 5.  To create the Telecommunications Network Inventory attributes for the Cable form, select **Set Inventory Attributes**.
 
@@ -45,7 +45,7 @@ Optical fiber cables are installed between sites with open endpoints, indicating
 
 6.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 7.  Select **Save**.
 
@@ -55,7 +55,7 @@ Optical fiber cables are installed between sites with open endpoints, indicating
 
 9.  Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 10. To view the visual representation of the selected record, select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Open Map**.
 
@@ -63,17 +63,17 @@ Optical fiber cables are installed between sites with open endpoints, indicating
 
 11. Capture the attributes for a configuration item \(CI\) record by selecting **Add Packs**.
 
-    To learn more, see [Attribute pack for CI records](../concept/using-pack-table-ci-record.md).
+    To learn more, see [Attribute pack for CI records](using-pack-table-ci-record.md).
 
 12. To view the associated network inventories, select the brick icon \(![Brick icon.](../image/infrastructure-relashionship.png)\).
 
     The Infrastructure Relationships section shows all the associated network inventories grouped by the individual network asset instances.
 
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Modeling your workflow](../concept/telecommunications-network-inventory-workflow.md)
+[Modeling your workflow](telecommunications-network-inventory-workflow.md)
 

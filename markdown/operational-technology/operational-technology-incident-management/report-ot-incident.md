@@ -222,5 +222,5 @@ Now, the assignment group and assignee are aware that there's an OT incident tha
 
 You can view an OT incident record created for an OT device directly in the device record by opening the device record, clicking the **Related Records** tab, and selecting **OT Incidents**.
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

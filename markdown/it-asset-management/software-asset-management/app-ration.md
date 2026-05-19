@@ -160,5 +160,5 @@ Creating demands enables you to take meaningful action against any redundant sof
 
 **Note:** The PPM Standard plugin \(com.snc.financial\_planning\_pmo\) must be installed to create demands.
 
-Select **Create demand** to rationalize software applications. For more information, see [Create demand to rationalize software applications](../task/soft-asset-demand.md).
+Select **Create demand** to rationalize software applications. For more information, see [Create demand to rationalize software applications](soft-asset-demand.md).
 

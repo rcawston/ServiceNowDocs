@@ -42,5 +42,5 @@ By default, there are no restrictions in the CMDB CI Lifecycle Management on app
 
 If an API attempts to apply the specified action to the specified CIs, while it is in the specified operational state, the operation fails and an error is logged.
 
-**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](../concept/cmdb-ci-lifecycle-mgmt.md)
+**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](cmdb-ci-lifecycle-mgmt.md)
 

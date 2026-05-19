@@ -19,7 +19,7 @@ Use visualizations to monitor log data on the built-in Operational Dashboard in 
 
 Role required: evt\_mgmt\_operator or viz\_admin
 
-**Important:** From the Vancouver release onward, this feature is deprecated and replaced with the AIOps [HLA Operational dashboard](../../../use/dashboards/application-content-packs/hla-operational-dashboard.md). For more information about AIOps dashboards, see [AIOps Dashboards in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/aiops-dashboards-sow-itom.md). You can also build a custom dashboard per your needs. For more information, see [Create log data dashboards and visualizations in Health Log Analytics](../../health-log-analytics-admin/task/hla-log-data-dashboard-create.md).
+**Important:** From the Vancouver release onward, this feature is deprecated and replaced with the AIOps [HLA Operational dashboard](hla-operational-dashboard.md). For more information about AIOps dashboards, see [AIOps Dashboards in Service Operations Workspace for ITOM](aiops-dashboards-sow-itom.md). You can also build a custom dashboard per your needs. For more information, see [Create log data dashboards and visualizations in Health Log Analytics](hla-log-data-dashboard-create.md).
 
 ## Procedure
 
@@ -127,5 +127,5 @@ Ensure that Critical and Error level rates are as expected.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Dashboards for real-time visualization of log data in Health Log Analytics](../../health-log-analytics-admin/concept/hla-dashboard-visualizations.md)
+**Parent Topic:**[Dashboards for real-time visualization of log data in Health Log Analytics](hla-dashboard-visualizations.md)
 

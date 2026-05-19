@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_admin
 
 Table rotation ensures that event tables grow to a reasonable size.
 
-Each table rotation has a schedule, according to which new data is written to one of the tables in the rotation group. A table rotation group includes the original table plus several additional tables. After the rotation procedure has written the last table in a rotation, the rotation overwrites the first table in the rotation. By default, the table rotation for Event Management is to rotate the em\_table to an offload table and the base table cleanup takes place after seven table rotations. For information about backing up events to a custom table, see [Event Management configuration preferences](../reference/r_EMBestPractice.md).
+Each table rotation has a schedule, according to which new data is written to one of the tables in the rotation group. A table rotation group includes the original table plus several additional tables. After the rotation procedure has written the last table in a rotation, the rotation overwrites the first table in the rotation. By default, the table rotation for Event Management is to rotate the em\_table to an offload table and the base table cleanup takes place after seven table rotations. For information about backing up events to a custom table, see [Event Management configuration preferences](r_EMBestPractice.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Each table rotation has a schedule, according to which new data is written to on
 4.  Select **Update**.
 
 
-**Parent Topic:**[Rotate event and alert table for cleanup](../concept/rotate-tables-purge-data.md)
+**Parent Topic:**[Rotate event and alert table for cleanup](rotate-tables-purge-data.md)
 
 **Related topics**  
 
@@ -45,5 +45,5 @@ Each table rotation has a schedule, according to which new data is written to on
 
 [Apply table rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ApplyTableRotation.md)
 
-[Rotate event and alert table for cleanup](../concept/rotate-tables-purge-data.md)
+[Rotate event and alert table for cleanup](rotate-tables-purge-data.md)
 

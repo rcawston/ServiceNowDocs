@@ -13,7 +13,7 @@ breadcrumb: [Enable communication channels, Configure, Customer Service Manageme
 
 Omnichannel for Customer Service Management \(CSM\) provides a unified way to handle customer interactions across multiple channels from a single workspace, with centralized routing through Advanced Work Assignment \(AWA\). Consumer messaging apps are a supported channel type, allowing customers to contact support through familiar messaging platforms while agents work in the same environment.
 
-See [Integrating with consumer messaging apps](../task/messg-integrate-channels.md).
+See [Integrating with consumer messaging apps](messg-integrate-channels.md).
 
 Omnichannel for ServiceNow supports the following consumer messaging platforms:
 

@@ -15,7 +15,7 @@ Map pages display ServiceNow data graphically on a Google map page based on loca
 
 You can create as many map pages as required to define the types of data to display, the links to show, and the appearance of the map. After creating the map pages, you can create modules to display the map pages.
 
-**Note:** Map pages are subject to the non-production access limitations. See [Set up Google Maps API](../task/set-up-google-maps-api.md) for details.
+**Note:** Map pages are subject to the non-production access limitations. See [Set up Google Maps API](set-up-google-maps-api.md) for details.
 
 ## Map locations
 
@@ -184,20 +184,20 @@ After the latitude and longitude are populated, Map Pages can be defined that di
 
 **Note:** Latitude and longitude are expressed as a floating point data type. Previous releases expressed this information as a string. During an upgrade, the system converts the data where possible.
 
--   **[Set up Google Maps API](../task/set-up-google-maps-api.md)**  
+-   **[Set up Google Maps API](set-up-google-maps-api.md)**  
 You enable the geolocation feature using the appropriate entries from a Google Maps API for Business license, or a Google Maps JavaScript API Key.
--   **[Create a map page](../task/t_CreateAMapPage.md)**  
+-   **[Create a map page](t_CreateAMapPage.md)**  
 Your ServiceNow instance provides several default map pages. You can also create custom map pages with the script examples described in this page.
--   **[Create a map page module](../task/create-map-page-module.md)**  
+-   **[Create a map page module](create-map-page-module.md)**  
 You can create a new application module for desktop or smartphone users to display a Google map page.
--   **[Create an advanced Map Page](../task/create-advanced-map-page.md)**  
+-   **[Create an advanced Map Page](create-advanced-map-page.md)**  
 Use advanced configuration to set up Map Pages without scripting.
--   **[Set map application scope](../task/set-map-application-scope.md)**  
+-   **[Set map application scope](set-map-application-scope.md)**  
 Enable map application scope to specify which application can modify your Map Page configuration.
--   **[Create a smartphone map page module](../task/t_CreateASmartphoneMapPageModule.md)**  
+-   **[Create a smartphone map page module](t_CreateASmartphoneMapPageModule.md)**  
 You can create a custom smartphone module that links directly to a map page.
--   **[Scripting for map pages](../reference/scripting-for-map-pages.md)**  
+-   **[Scripting for map pages](scripting-for-map-pages.md)**  
 The Script field on the Map Page form allows the use of attributes or custom code to define map characteristics, such as marker appearance, display information, and more.
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 

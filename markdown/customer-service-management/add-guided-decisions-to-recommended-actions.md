@@ -39,7 +39,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 **Related topics**  
 
 
-[Configuring Guided Decisions](../concept/setting-up-guided-decisions.md)
+[Configuring Guided Decisions](setting-up-guided-decisions.md)
 
-[Configuring guidances and decision trees](../concept/configuring-guided-decisions.md)
+[Configuring guidances and decision trees](configuring-guided-decisions.md)
 

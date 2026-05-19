@@ -17,9 +17,9 @@ Configure a table to support record feeds. You can add the Show Live Feed button
 
 By default, the Show Live Feed icon appears on the form header for all tables that extend task, including the Incident, Change Request, and Problem tables, and in the list and form context menus for all task tables.
 
--   **[Add Live Feed to a form header](../task/t_AddLiveFeedToAFormHeader.md)**  
+-   **[Add Live Feed to a form header](t_AddLiveFeedToAFormHeader.md)**  
 Add the **Live Feed** button in the form header for a table.
--   **[Add Live Feed to a context menu](../task/t_AddLiveFeedToAContextMenu.md)**  
+-   **[Add Live Feed to a context menu](t_AddLiveFeedToAContextMenu.md)**  
 Add Live Feed UI actions on a table.
 
 **Parent Topic:**[Record feeds](c_RecordFeeds.md)

@@ -100,7 +100,7 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 4.  Click **Activate**.
 
 
-**Parent Topic:**[Employee Travel Safety](../concept/employee-travel-safety.md)
+**Parent Topic:**[Employee Travel Safety](employee-travel-safety.md)
 
 ## Components installed with Employee Travel Safety
 

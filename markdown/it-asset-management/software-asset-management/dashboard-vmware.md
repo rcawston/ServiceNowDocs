@@ -54,7 +54,7 @@ Product Results
 
 </td><td>
 
-Number of products that have at least one software model out of compliance.Select the report to view the results in the [Software license usage](../concept/sam-license-workbench.md).
+Number of products that have at least one software model out of compliance.Select the report to view the results in the [Software license usage](sam-license-workbench.md).
 
 </td></tr><tr><td>
 
@@ -143,5 +143,5 @@ Number of products in each software lifecycle phase, including End of Extended S
 </td></tr></tbody>
 </table>The **vSphere Deployment** related link shows the VMware Discovered License Key Consumptions list.
 
-**Parent Topic:**[Software Asset Management publisher pack for VMware](../concept/vmware-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for VMware](vmware-publisher-pack.md)
 

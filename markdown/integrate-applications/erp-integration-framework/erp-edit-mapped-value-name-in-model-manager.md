@@ -36,7 +36,7 @@ Let's step through an example. In Zero Copy Connector for ERP, create a model. F
 
     ![Add entity page with T005 entity selected.](../image/erpc-mapped-value-example1.png)
 
-    For more information, see [Add an entity to a model](../concept/add-an-entity-to-model.md).
+    For more information, see [Add an entity to a model](add-an-entity-to-model.md).
 
 3.  After data is retrieved, select **Specify inputs**.
 
@@ -71,5 +71,5 @@ Let's step through an example. In Zero Copy Connector for ERP, create a model. F
 -   If the same field exists in both input and output, but they have different mapped values, the name of the output field is given precedence and used.
 -   If you want to revert to the system-generated name at any time, remove the field and then add it again. Another option is to change the mapping type and then change it back.
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

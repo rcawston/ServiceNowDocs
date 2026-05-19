@@ -44,7 +44,7 @@ Configure sighting searches and create saved configurations for SIEMs or other l
 **Related topics**  
 
 
-[Create sightings search configuration records](../task/sightings-search-configurations.md)
+[Create sightings search configuration records](../sightings-search-configurations.md)
 
 ## Perform an email sightings search for user-reported phishing attacks
 

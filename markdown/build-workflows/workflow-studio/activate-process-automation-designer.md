@@ -27,11 +27,11 @@ Each application subscription entitles you to create playbooks for its associate
 
 See the following sections to learn how to activate Workflow Studio Playbooks for your application.
 
--   **[Activate Playbooks for App Engine](../task/activate-process-automation-designer-for-app-engine.md)**  
+-   **[Activate Playbooks for App Engine](activate-process-automation-designer-for-app-engine.md)**  
 Activate Playbooks on your instance to create playbooks in App Engine.
--   **[Activate Playbooks for Customer Service Management \(CSM\)](../task/activate-process-automation-designer-for-csm.md)**  
+-   **[Activate Playbooks for Customer Service Management \(CSM\)](activate-process-automation-designer-for-csm.md)**  
 Activate Workflow Studio Playbooks on your instance so that you can create Playbooks triggered by CSM tables.
--   **[Activate Playbooks for Field Service Management](../task/activate-process-automation-designer-for-fsm.md)**  
+-   **[Activate Playbooks for Field Service Management](activate-process-automation-designer-for-fsm.md)**  
 Activate Workflow Studio Playbooks on your instance so that you can create Playbooks triggered by tables.
 
 **Parent Topic:**[Configuring Playbooks](setting-up-process-automation-designer.md)

@@ -48,26 +48,26 @@ Typically, neither of the following definitions would be appropriate:
 -   a rack runs on a server
 -   a server runs on a database
 
-For descriptions of some key relationships, see [CI relationships in the CMDB](../concept/c_CIRelationships.md).
+For descriptions of some key relationships, see [CI relationships in the CMDB](c_CIRelationships.md).
 
-**Parent Topic:**[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+**Parent Topic:**[CI relationships in the CMDB](c_CIRelationships.md)
 
 **Related topics**  
 
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](t_AddANewSuggestedRelationship.md)
 
-[Relationship governance rules](../concept/relationship-governance.md)
+[Relationship governance rules](relationship-governance.md)
 
-[CI relations formatter](../concept/c_CIRelationsFormatterNG.md)
+[CI relations formatter](c_CIRelationsFormatterNG.md)
 
-[CI relationship editor](../concept/c_RelationshipEditor.md)
+[CI relationship editor](c_RelationshipEditor.md)
 
-[Relation qualifier](../concept/c_RelationQualifier.md)
+[Relation qualifier](c_RelationQualifier.md)
 
-[CI relationship security](../concept/c_CIRelationshipSecurity.md)
+[CI relationship security](c_CIRelationshipSecurity.md)
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](t_CreateACIRelationRollup.md)
 
-[CI Class Manager](../task/t_AddANewSuggestedRelationship.md)
+[CI Class Manager](t_AddANewSuggestedRelationship.md)
 

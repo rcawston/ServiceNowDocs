@@ -19,7 +19,7 @@ Role required: sn\_customerservice\_manager
 
 ## About this task
 
-This task provides steps for a user with the sn\_customerservice\_manager role to access Zoom meeting details from an interaction record. For information about how users with other Notify roles view Zoom meeting details, see [Using Chat Zoom Connector](../concept/using-chat-zoom-connector.md).
+This task provides steps for a user with the sn\_customerservice\_manager role to access Zoom meeting details from an interaction record. For information about how users with other Notify roles view Zoom meeting details, see [Using Chat Zoom Connector](using-chat-zoom-connector.md).
 
 ## Procedure
 

@@ -60,7 +60,7 @@ Trigger Workday Learning Integration Flow
 
 </td><td>
 
-Pulls data from Workday Learning to ServiceNow. By default the flow is in inactive state. For information on how to activate the flow, see [Activating schedule flows](../task/activate-w-schedule-flow.md).
+Pulls data from Workday Learning to ServiceNow. By default the flow is in inactive state. For information on how to activate the flow, see [Activating schedule flows](activate-w-schedule-flow.md).
 
 </td></tr></tbody>
 </table>## Tables installed

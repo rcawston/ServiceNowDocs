@@ -71,7 +71,7 @@ Enable Auto-refresh
 
 </td><td>
 
-Automatically refreshes the agent's calendar when an event such as a meeting, training, time-off request, personal, or an ad hoc work event is created.**Note:** This option appears only when the Enable Auto-refresh system property is enabled. For more information, see [Configure settings for Dispatcher Workspace](configure-workspce-settings.md).
+Automatically refreshes the agent's calendar when an event such as a meeting, training, time-off request, personal, or an ad hoc work event is created.**Note:** This option appears only when the Enable Auto-refresh system property is enabled. For more information, see [Configure settings for Dispatcher Workspace](../configure-workspce-settings.md).
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ Territory
 
 </td><td>
 
-Option to display the assigned territory. **Note:** This field appears when the Territory Planning plugin is activated. For more information, see [Activate Field Service Territory Planning](Activate-fsm-territory-planning.md) and [Enable the Field Service territory model](enable-territory-model.md).
+Option to display the assigned territory. **Note:** This field appears when the Territory Planning plugin is activated. For more information, see [Activate Field Service Territory Planning](../workforce-optimization-for-field-service/Activate-fsm-territory-planning.md) and [Enable the Field Service territory model](../workforce-optimization-for-field-service/enable-territory-model.md).
 
 </td></tr><tr><td>
 
@@ -322,7 +322,7 @@ Territory
 
 </td><td>
 
-Option to display the assigned territory. For more information, see [Activate Field Service Territory Planning](Activate-fsm-territory-planning.md) and [Enable the Field Service territory model](enable-territory-model.md).
+Option to display the assigned territory. For more information, see [Activate Field Service Territory Planning](../workforce-optimization-for-field-service/Activate-fsm-territory-planning.md) and [Enable the Field Service territory model](../workforce-optimization-for-field-service/enable-territory-model.md).
 
 </td></tr><tr><td>
 

@@ -77,5 +77,5 @@ If the initial delay is 2000, the final delay \(with jitter\) can be a value bet
 
 With a custom backoff retry strategy, you define the **Max retries** and **Response codes** and create your own **Mid script include** that defines how requests are retried using the **getDelay\(\)** function. For more information, see [Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
 
-**Parent Topic:**[Install and configure MID Servers to access cloud environments](../task/mid-server-configuration-cloud.md)
+**Parent Topic:**[Install and configure MID Servers to access cloud environments](mid-server-configuration-cloud.md)
 

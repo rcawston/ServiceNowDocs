@@ -53,5 +53,5 @@ Role required: admin
 
 ## What to do next
 
-Enable voice search so that your users can search using native speech recognition. For more details, see [Turn on voice search](../../mobile-employee/task/turn-on-voice-search.md)
+Enable voice search so that your users can search using native speech recognition. For more details, see [Turn on voice search](turn-on-voice-search.md)
 

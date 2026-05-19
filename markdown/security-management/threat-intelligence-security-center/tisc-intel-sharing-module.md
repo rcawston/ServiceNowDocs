@@ -39,10 +39,10 @@ As a TISC analyst, you can review and approve or reject them before they are ing
 
 Trusted Automated Exchange of Intelligence Information \(TAXII\) is a protocol used for sharing of threat intelligence. For more information, see [Exploring TAXII Outbound Server](tisc-taxii-outbound-server.md).
 
--   **[Viewing Outbound Intelligence](../task/tisc-view-outbound-intel.md)**  
+-   **[Viewing Outbound Intelligence](tisc-view-outbound-intel.md)**  
 Use this section to view all outbound intelligence sharing records. Review the intelligence data and take necessary actions to approve or reject them.
--   **[Viewing Inbound Intelligence](../task/tisc-view-inbound-intel.md)**  
+-   **[Viewing Inbound Intelligence](tisc-view-inbound-intel.md)**  
 Use this section to view all inbound intelligence sharing records. Review the intelligence data and take necessary actions to approve or reject them.
--   **[Viewing TAXII Collections](../task/tisc-view-taxii-collections.md)**  
+-   **[Viewing TAXII Collections](tisc-view-taxii-collections.md)**  
 Use this section to view the TAXII collections that are configured as part of TAXII Outbound Server.
 

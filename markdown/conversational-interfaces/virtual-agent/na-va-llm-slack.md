@@ -66,12 +66,12 @@ The Now Assist provides a new AI Search experience in channels with the followin
 
 **Note:** When using Now Assist in Slack, users can provide quick feedback on the LLM generated virtual agent responses by selecting the Thumbs up \( ![](../images/llm-thumbs-up-like.png)\)or Thumbs down \( ![](../images/llm-thumbs-down-dislike.png)\) icons.
 
-For more information about enabling LLM for your bots that are integrated with Slack, see [Enable Now Assist in Virtual Agent for Slack](../task/enable-na-llm-slack.md).
+For more information about enabling LLM for your bots that are integrated with Slack, see [Enable Now Assist in Virtual Agent for Slack](enable-na-llm-slack.md).
 
--   **[Enable Now Assist in Virtual Agent for Slack](../task/enable-na-llm-slack.md)**  
+-   **[Enable Now Assist in Virtual Agent for Slack](enable-na-llm-slack.md)**  
 Enable the large language model \(LLM\)-based conversational experience with Now Assist in your Virtual Agent integrated with Slack.
 -   **[Synthesized response in Slack conversations](slack-synthesized-response.md)**  
 Synthesized responses in Slack conversations provide a smarter experience with Large Language Models \(LLM\) based results summarized in a single response for users to see information in a conversational way, and avoid browsing through carousels.
 
-**Parent Topic:**[Conversational Integration with Slack](../task/mssg-slack.md)
+**Parent Topic:**[Conversational Integration with Slack](mssg-slack.md)
 

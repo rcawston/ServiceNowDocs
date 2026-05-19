@@ -17,15 +17,15 @@ Administer email features that aren't configured in UI Builder with components.
 
     Configure emails that send a digital signature to verify you as an authentic sender and an email encryption to certify authentic recipients.
 
--   **[Configure an email template](../../workspace/task/configure-email-templates.md)**
+-   **[Configure an email template](configure-email-templates.md)**
 
     Configure an email template in Configurable Workspace to quickly create emails for common issues.
 
--   **[Configure a collapsible template](../../workspace/task/configure-collapsible-email-templates.md)**
+-   **[Configure a collapsible template](configure-collapsible-email-templates.md)**
 
     Configure an email template with collapsed content by hiding it behind an ellipsis.
 
--   **[Disable response templates](../../workspace/task/configure-response-templates.md)**
+-   **[Disable response templates](configure-response-templates.md)**
 
     Disable response templates for journal fields in Configurable Workspace.
 

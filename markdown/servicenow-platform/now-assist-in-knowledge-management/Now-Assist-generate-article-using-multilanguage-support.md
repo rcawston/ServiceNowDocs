@@ -50,5 +50,5 @@ Role required: author or agent
     Now Assist generates the Knowledge article in the language selected.
 
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](using-now-assist-in-km.md)
 

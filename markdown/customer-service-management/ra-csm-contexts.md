@@ -33,7 +33,7 @@ The Recommended Actions component can be configured in UI Builder to use the act
 
 You can access context records by navigating to **All** &gt; **Recommended Actions** &gt; **Contexts**. The Contexts list displays a brief description of each context and the table that the context applies to.
 
-The Context form includes the name and description of the context, the selected table, parent context,and a search application configuration for AI search. When you [create a context](../task/ra-csm-contexts-create.md), provide this information and save the record. After saving, the Context form displays the following related lists.
+The Context form includes the name and description of the context, the selected table, parent context,and a search application configuration for AI search. When you [create a context](ra-csm-contexts-create.md), provide this information and save the record. After saving, the Context form displays the following related lists.
 
 -   **Rules**: Displays the rules that have been created for the context, including the selected user roles. You can create a rule only from the Rules related list on the Context form. For more information on rules, see [Rules in Recommended Actions](ra-csm-rules.md).
 -   **Recommendations**: Displays the recommendations associated with the context rules, including the action type and action. You can create a recommendation only from the Recommendation related list on the Rule form. For more information on the recommendations, see [Recommendations in Recommended Actions](ra-csm-recommendations.md).
@@ -124,9 +124,9 @@ If an upgrade customer has one or more context records for the Case table availa
 **Related topics**  
 
 
-[Create a context in Recommended Actions](../task/ra-csm-contexts-create.md)
+[Create a context in Recommended Actions](ra-csm-contexts-create.md)
 
-[Create a rule in Recommended Actions](../task/ra-csm-rules-create.md)
+[Create a rule in Recommended Actions](ra-csm-rules-create.md)
 
-[Create a recommendation in Recommended Actions](../task/ra-csm-recommendations-create.md)
+[Create a recommendation in Recommended Actions](ra-csm-recommendations-create.md)
 

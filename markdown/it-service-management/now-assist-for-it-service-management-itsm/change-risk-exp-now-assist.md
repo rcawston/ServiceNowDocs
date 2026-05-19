@@ -38,7 +38,7 @@ Additional inputs include:
 -   Risk condition that was met
 -   Risk assessment
 
-    By default, the assessment uses the top five normalized risk values sorted in descending order. If there’s a tie between the two values, the one with the lower order number is used. For information on risk assessment, see [Risk assessment](../../change-management/concept/c_RskAsmtCalc.md).
+    By default, the assessment uses the top five normalized risk values sorted in descending order. If there’s a tie between the two values, the one with the lower order number is used. For information on risk assessment, see [Risk assessment](../change-management/c_RskAsmtCalc.md).
 
 
 You can also add custom input fields.

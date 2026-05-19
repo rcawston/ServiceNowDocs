@@ -21,15 +21,15 @@ v18.0 IT Remediation Workspace demo
 
 <table id="table_ocs_2gm_qzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-itro-wkspce.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the IT Remediation Workspace](vr-ws-itro-wkspce.md)
 
 </td><td>
 
-[Remediate![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to remediate vulnerabilities and misconfigurations from the IT Remediation Workspace](../concept/using-it-remediation-workspace.md)
+[Remediate![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to remediate vulnerabilities and misconfigurations from the IT Remediation Workspace](using-it-remediation-workspace.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information that you use to configure and administer IT Remediation Workspace](../concept/it-remediation-workspace-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information that you use to configure and administer IT Remediation Workspace](it-remediation-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

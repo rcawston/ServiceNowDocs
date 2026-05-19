@@ -18,7 +18,7 @@ Set up message and topic replications to replicate data between your Apache Kafk
 ## Before you begin
 
 -   Role required: message\_replication\_admin
--   This feature requires a subscription. For more information, see [Using Stream Connect for Apache Kafka](../concept/stream-connect-apache-kafka.md).
+-   This feature requires a subscription. For more information, see [Using Stream Connect for Apache Kafka](stream-connect-apache-kafka.md).
 -   Verify the Hermes Messaging Service and Instance PKI Certificate Generator are working.
     -   [Check the status of and connection to the Hermes Kafka cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/run-hermes-messaging-service-diagnostics.md).
     -   Check the [Key Management Framework Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/kmf_diagnostics.md) to verify that all three items in the Instance PKI section are operational.
@@ -155,5 +155,5 @@ If you're replicating messages from your local Kafka into ServiceNow, you can co
 
 If you're replicating messages from ServiceNow to your local Kafka, you can use a [Kafka Producer step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/kafka-producer-action-designer.md) in Workflow Studio or use the [ProducerV2 API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ProducerV2ScopedAPI.md) to publish messages to the Hermes topic and your local Kafka.
 
-**Parent Topic:**[Stream Connect Message Replication](../concept/stream-connect-message-replication.md)
+**Parent Topic:**[Stream Connect Message Replication](stream-connect-message-replication.md)
 

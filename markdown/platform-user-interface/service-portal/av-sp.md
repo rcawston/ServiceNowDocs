@@ -43,5 +43,5 @@ Review these scanning scenarios to understand how Antivirus Scanning interacts w
     1.  A user opens a record with an infected attachment.
     2.  The file is unavailable for download. If viewing the record in the Ticket Form page, the thumbnail does not display.
 
-**Parent Topic:**[Supported features in Service Portal](../reference/unsupported-features-sp.md)
+**Parent Topic:**[Supported features in Service Portal](unsupported-features-sp.md)
 

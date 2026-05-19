@@ -45,7 +45,7 @@ Template mappings automatically insert default information in the contract docum
 
 The user who with the sn\_cm\_core.contract\_config role can update template mappings to pre-fill information that's placed in the contract document. For more information, [Update contract template mappings](cncore-template-mapping.md).
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

@@ -210,9 +210,9 @@ The threshold settings for adherence and conformance indicate how many minutes e
 
 [Scheduling in Workforce Optimization for Customer Service](explore-scheduling-configurable-wfo-cs.md)
 
-[Monitor schedule adherence of your agents](../task/view-schedule-adherence-configurable-wfo.md)
+[Monitor schedule adherence of your agents](view-schedule-adherence-configurable-wfo.md)
 
-[Analyze adherence and conformance from the time worked summary](../task/analyze-time-worked-summary-configurable-wfo-cs.md)
+[Analyze adherence and conformance from the time worked summary](analyze-time-worked-summary-configurable-wfo-cs.md)
 
 ## Modify schedule adherence and conformance formulas by using extension points
 

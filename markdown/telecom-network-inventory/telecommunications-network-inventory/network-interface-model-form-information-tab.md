@@ -115,10 +115,10 @@ Port position
 Position of a physical or logical port on an equipment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a network interface model](../task/create-network-interface-model.md)
+[Create a network interface model](create-network-interface-model.md)
 

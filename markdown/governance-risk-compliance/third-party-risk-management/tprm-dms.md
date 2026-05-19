@@ -31,15 +31,15 @@ The DMS is accessible for external users through the Third-party portal as shown
 
 -   Third-party contacts can upload and manage documents using the third-party portal.
 
-    For more information, see [Upload and manage documents in the third-party portal](../task/tprm-add-document-portal.md).
+    For more information, see [Upload and manage documents in the third-party portal](tprm-add-document-portal.md).
 
 -   Internal users can create and access document records through the Documents module in the Vendor Management Workspace.
 
-    For more information, see [Create a document record](../task/tprm-create-document.md).
+    For more information, see [Create a document record](tprm-create-document.md).
 
 -   Users can manage document versions, download attachments, and track their metadata.
 
-    For more information, see [Create a document version](../task/tprm-create-document-version.md).
+    For more information, see [Create a document version](tprm-create-document-version.md).
 
 -   Documents can be linked to multiple TPRM record types with auto-rollup:
 
@@ -47,11 +47,11 @@ The DMS is accessible for external users through the Third-party portal as shown
     -   Issues
     -   Engagements
     -   Assessments
-    For more information, see [Link documents to a TPRM record](../task/tprm-link-document.md).
+    For more information, see [Link documents to a TPRM record](tprm-link-document.md).
 
 -   Internal users can manage role-based permissions for primary contacts and other internal users.
 
-    For more information, see [Define document sharing permissions](../task/tprm-doc-share-permissions.md).
+    For more information, see [Define document sharing permissions](tprm-doc-share-permissions.md).
 
 -   Each document version supports download options, advanced search and reporting for metadata and relationships, and complete audit tracking of actions and version history.
 
@@ -105,15 +105,15 @@ For more information on Now Assist for Document Management skills, see [Explore 
 **Related topics**  
 
 
-[Create a document record](../task/tprm-create-document.md)
+[Create a document record](tprm-create-document.md)
 
-[Create a document version](../task/tprm-create-document-version.md)
+[Create a document version](tprm-create-document-version.md)
 
-[Link documents to a TPRM record](../task/tprm-link-document.md)
+[Link documents to a TPRM record](tprm-link-document.md)
 
-[Define document sharing permissions](../task/tprm-doc-share-permissions.md)
+[Define document sharing permissions](tprm-doc-share-permissions.md)
 
-[Upload and manage documents in the third-party portal](../task/tprm-add-document-portal.md)
+[Upload and manage documents in the third-party portal](tprm-add-document-portal.md)
 
 [Document approval and publish process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-review-approval.md)
 

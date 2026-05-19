@@ -54,7 +54,7 @@ The following table describes the icons used in Document Viewer.
 **Related topics**  
 
 
-[View attachments with Document Viewer](../task/view-attachment-doc-viewer.md)
+[View attachments with Document Viewer](view-attachment-doc-viewer.md)
 
-[Enable Document Viewer](../../../administer/form-administration/task/enable-document-viewer.md)
+[Enable Document Viewer](enable-document-viewer.md)
 

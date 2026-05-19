@@ -45,8 +45,8 @@ Role required: df\_connection\_admin or a role containing the df\_data\_steward 
 ## What to do next
 
 -   Identify the tables and columns that you want to map to a data fabric table.
--   Create a data fabric table and map source columns to the target table. See [Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md).
+-   Create a data fabric table and map source columns to the target table. See [Managing data fabric tables](managing-data-fabric-tables-zcc.md).
 -   Consult with the data source administrator if the required schema and tables aren't available from this connection.
 
-**Parent Topic:**[Managing zero copy connections](../concept/managing-connections-zcc.md)
+**Parent Topic:**[Managing zero copy connections](managing-connections-zcc.md)
 

@@ -17,7 +17,7 @@ Create a telephone block to organize and categorize all sequential telephone num
 
 ## Before you begin
 
--   Ensure that the Telecommunications Network Inventory application includes all the required components of your telephone number. To learn more, see [Create the components of a telephone number](../concept/create_components_of_a_telephone_number.md).
+-   Ensure that the Telecommunications Network Inventory application includes all the required components of your telephone number. To learn more, see [Create the components of a telephone number](create_components_of_a_telephone_number.md).
 -   Role required: sn\_inv\_num\_mgmt.inventory\_number\_manager
 
 ## About this task
@@ -73,7 +73,7 @@ To number
 Last number of the series where you want to stop adding numbers to this block.**Note:** The same or overlapping series of numbers aren’t enabled to include in a block. For example, if a block 100–200 exists, then the new block of 150-200 or 100–200 can’t be enabled.
 
 </td></tr></tbody>
-</table>    To learn about the other fields, see [Inventory number allocation fields](../reference/inventory-number-allocation-fields.md).
+</table>    To learn about the other fields, see [Inventory number allocation fields](inventory-number-allocation-fields.md).
 
 5.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
 
@@ -108,13 +108,13 @@ Available quantity
 Number of telephone numbers that aren’t assigned or available.**Note:** This field is auto-populated after creating a telephone block. However, you can always update this field as required.
 
 </td></tr></tbody>
-</table>    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](../reference/commonly-used-tni-identification-fields.md).
+</table>    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](commonly-used-tni-identification-fields.md).
 
 8.  Select **Save**.
 
 9.  On the related tabs, view or update the related tab information.
 
-    To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    To learn more about the related tabs, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 10. View the related network inventories by selecting the brick icon \(![Infrastructure relationship icon.](../image/infrastructure-relashionship.png)\).
 
@@ -125,5 +125,5 @@ Number of telephone numbers that aren’t assigned or available.**Note:** This f
 
 You can review and update the fields, create a related tab record, or delete a record. To learn more, see [Update or delete a record of an inventory number allocation](update_and_delete_ip_address_space.md).
 
-**Parent Topic:**[Create a telephone infrastructure](../concept/telephone_block_telephone_number_and_telephone_number.md)
+**Parent Topic:**[Create a telephone infrastructure](telephone_block_telephone_number_and_telephone_number.md)
 

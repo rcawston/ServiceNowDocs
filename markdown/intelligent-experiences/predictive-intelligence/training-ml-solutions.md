@@ -23,21 +23,21 @@ Select the best framework for your desired prediction:
 
 -   Classification solutions:
 
-    Sets field values during record creation to automatically categorize and route work based on past records. See [Create and train a classification solution](../task/create-solution-definition.md).
+    Sets field values during record creation to automatically categorize and route work based on past records. See [Create and train a classification solution](create-solution-definition.md).
 
 -   Similarity solutions:
 
-    Identifies similarities between new and existing records to recommend resolutions. See [Create and train a similarity solution](../task/create-similarity-solution.md).
+    Identifies similarities between new and existing records to recommend resolutions. See [Create and train a similarity solution](create-similarity-solution.md).
 
 -   Clustering solutions:
 
-    Groups similar records into clusters to identify patterns and major incidents. See [Create and train a clustering solution](../task/create-clustering-solution.md).
+    Groups similar records into clusters to identify patterns and major incidents. See [Create and train a clustering solution](create-clustering-solution.md).
 
 -   Regression solutions:
 
     **Note:** From the Washington DC release, support for creating new regression solutions was removed. You can still edit and train existing regression solutions, but you won't be able to initiate new ones.
 
-    Uses historic data to predict numeric outputs, such as estimating the time it takes to resolve an incident or case. See [Create and train a regression solution](../task/create-regression-solution.md).
+    Uses historic data to predict numeric outputs, such as estimating the time it takes to resolve an incident or case. See [Create and train a regression solution](create-regression-solution.md).
 
 
 ## Selecting data records for training your solution

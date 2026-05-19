@@ -36,7 +36,7 @@ For more information about MetricBase time-series data transformations, see [Met
 
 ## Data Explorer
 
-Experiment and get familiar with the JavaScript APIs by using the [MetricBase Data Explorer](../task/metricbase-data-explorer.md) that comes with the MetricBase Demo.
+Experiment and get familiar with the JavaScript APIs by using the [MetricBase Data Explorer](metricbase-data-explorer.md) that comes with the MetricBase Demo.
 
 **Parent Topic:**[MetricBase reference](reference-metricbase.md)
 
@@ -45,5 +45,5 @@ Experiment and get familiar with the JavaScript APIs by using the [MetricBase Da
 
 [Domain separation and MetricBase](domain-separation-metricbase.md)
 
-[MetricBase roles](../reference/metricbase-roles.md#)
+[MetricBase roles](metricbase-roles.md#)
 

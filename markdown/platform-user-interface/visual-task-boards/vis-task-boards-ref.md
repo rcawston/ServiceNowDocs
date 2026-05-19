@@ -17,10 +17,10 @@ The following sections describe the installed components and properties for Visu
 
 -   **[Domain separation and Visual Task Boards](domain-separation-visual-task-boards.md)**  
 Domain separation is supported in the Visual Task Boards application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Supported browsers for Visual Task Boards](../reference/r_BrowsersVTB.md)**  
+-   **[Supported browsers for Visual Task Boards](r_BrowsersVTB.md)**  
 The system supports Visual Task Boards on most modern browsers.
--   **[Installed with Visual Task Boards](../reference/r_InstalledWithVisualTaskBoards.md#)**  
+-   **[Installed with Visual Task Boards](r_InstalledWithVisualTaskBoards.md#)**  
 Several types of components are installed with Visual Task Boards.
 
-**Parent Topic:**[Configure UIs and portals](../../../administer/general/concept/configure-uis-and-portals.md)
+**Parent Topic:**[Configure UIs and portals](../configure-uis-and-portals.md)
 

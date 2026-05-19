@@ -37,7 +37,7 @@ Businesses can encounter invoice issues for many reasons including price or quan
 
 ## Overview of creating an invoice case
 
-The following table provides an overview of the process for creating an invoice case. For detailed steps, see [Create an invoice case](../task/invoice-ops-create-invoice-case.md).
+The following table provides an overview of the process for creating an invoice case. For detailed steps, see [Create an invoice case](invoice-ops-create-invoice-case.md).
 
 <table id="table_hpc_lhk_fdc"><thead><tr><th>
 

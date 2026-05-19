@@ -15,7 +15,7 @@ Map the different states that are part of your process and the transitions betwe
 
 ## Before you begin
 
-You should be familiar with Process Mining and Process projects. For more information, see [Process Mining](../../../administer/process-mining/concept/process-mining.md).
+You should be familiar with Process Mining and Process projects. For more information, see [Process Mining](process-mining/process-mining.md).
 
 The relevant Process project must already exist.
 
@@ -25,13 +25,13 @@ Role required: sn\_process\_optimization\_analyst
 
 The Process Mining Map component enables users to visualize how a process is being executed for a particular data set that is being analyzed. For example, you can show users the number of records for a specific date range, business area, and region.
 
-This component offers similar content on any dashboard that you get from process maps in the Process Mining Workspace. For more information about process maps, see [Process details page](../../../administer/process-mining/concept/project-view-screen.md).
+This component offers similar content on any dashboard that you get from process maps in the Process Mining Workspace. For more information about process maps, see [Process details page](process-mining/project-view-screen.md).
 
 ## Procedure
 
 1.  Create a dashboard, or navigate to a dashboard that you are allowed to edit.
 
-    For more information, see [Create a dashboard with the in-line editor](../../dashboards/task/create-db-in-ac.md).
+    For more information, see [Create a dashboard with the in-line editor](create-db-in-ac.md).
 
 2.  Select **Edit** to enter editing mode.
 
@@ -47,7 +47,7 @@ This component offers similar content on any dashboard that you get from process
 
 6.  For the map to follow filters on the dashboard, select **Follow filters**.
 
-    For more information, see [Applying filters to Process Mining maps](../concept/applying-filters-to-process-optimization-maps.md).
+    For more information, see [Applying filters to Process Mining maps](applying-filters-to-process-optimization-maps.md).
 
 7.  Set the percentage of connections to show.
 
@@ -77,9 +77,9 @@ Outside of editing mode, a user can expand the settings ![Cogwheel](../../perfor
 **Related topics**  
 
 
-[Process Mining](../../../administer/process-mining/concept/process-mining.md)
+[Process Mining](process-mining/process-mining.md)
 
-[Analyst workbench page](../../../administer/process-mining/concept/analyst-workbench-dashboard.md)
+[Analyst workbench page](process-mining/analyst-workbench-dashboard.md)
 
-[Refining a process map](../../../administer/process-mining/concept/analyze-data.md)
+[Refining a process map](process-mining/analyze-data.md)
 

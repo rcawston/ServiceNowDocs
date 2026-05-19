@@ -29,9 +29,9 @@ This task provides the general steps to integrate the LINE messaging app with a 
 
 2.  [Set up Conversational Integration with LINE](messg-line-setup.md).
 
-3.  [Design Virtual Agent topics to capture information from a LINE chat conversation](../concept/messg-line-capture-info.md).
+3.  [Design Virtual Agent topics to capture information from a LINE chat conversation](messg-line-capture-info.md).
 
-4.  [Close idle LINE chat conversations](../concept/messg-line-open-conv.md).
+4.  [Close idle LINE chat conversations](messg-line-open-conv.md).
 
 5.  [Transfer LINE chat conversations to live agents](messg-line-live-agent-conv.md).
 

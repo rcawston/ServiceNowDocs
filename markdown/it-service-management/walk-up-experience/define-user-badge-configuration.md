@@ -47,5 +47,5 @@ The user ID and badge ID mapping configuration is used to retrieve the user ID o
 
 The mapping configuration is created. You can select this mapping configuration in the Badge Reader form to retrieve the user ID from the badge ID based on this mapping configuration.
 
-**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](../concept/walkup-badge-read-integ-config.md)
+**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](walkup-badge-read-integ-config.md)
 

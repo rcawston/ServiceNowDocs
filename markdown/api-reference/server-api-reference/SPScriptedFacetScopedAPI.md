@@ -17,9 +17,9 @@ Defines facet items, filters, or mapped queries for a facets object.
 
 You can only use the SPScriptedFacet API in a facet generation script in a Service Portal search source. The facet generation script is only visible when **Is scripted source** is selected.
 
-There is no constructor for this class. Instead, use the [createFacet\(\)](../../SPScriptedFacetService/concept/SPScriptedFacetServiceScopedAPI.md#) or [createMultiChoiceFacet\(\)](../../SPScriptedFacetService/concept/SPScriptedFacetServiceScopedAPI.md#) methods of the [SPScriptedFacetService](../../SPScriptedFacetService/concept/SPScriptedFacetServiceScopedAPI.md#) class to generate a facets object.
+There is no constructor for this class. Instead, use the [createFacet\(\)](SPScriptedFacetServiceScopedAPI.md#) or [createMultiChoiceFacet\(\)](SPScriptedFacetServiceScopedAPI.md#) methods of the [SPScriptedFacetService](SPScriptedFacetServiceScopedAPI.md#) class to generate a facets object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SPScriptedFacet - addFacetItem\(String label, Object valueObj\)
 

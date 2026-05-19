@@ -37,7 +37,7 @@ Ensure that your MID Servers can authenticate on the devices they find and class
 
 1.  Use the Discovery Configuration Console to get started with Discovery. The console provides configuration options which let you choose the types of devices, applications, software files, and software CIs you want Discovery to find. If you select a CI to exclude from scanning, the instance disables the related probe or classifier that Discovery uses to identify the CI. See [Discovery Configuration Console](c_DiscoveryConfigurationConsole.md#) to get started.
 2.  Determine what type of discovery to run:
-    -   [Run a Configuration item \(CI\) discovery](../task/t_CreateADiscoverySchedule.md#) to find the devices, computers, and applications on your network. This is the most common type of discovery. Run CI discovery from the Discovery Schedule, where you to set up a recurring schedule or run a discovery on demand. The Discovery Schedule also provides configuration options for MID Servers and the Shazzam port probe.
+    -   [Run a Configuration item \(CI\) discovery](t_CreateADiscoverySchedule.md#) to find the devices, computers, and applications on your network. This is the most common type of discovery. Run CI discovery from the Discovery Schedule, where you to set up a recurring schedule or run a discovery on demand. The Discovery Schedule also provides configuration options for MID Servers and the Shazzam port probe.
     -   [Run a Network Discovery](c_NetworkDiscovery.md#) to find the internal IP networks within your organization. If you already know the IP address ranges in your network, it is not necessary to run Network Discovery. It is intended for organizations that do not have complete knowledge of the IP addresses available for Discovery in their networks.
     -   [Run a Serverless Discovery](serverless-discovery.md) to find applications on host machines without the need to discover the host first. Serverless Discovery relies on infrastructure patterns to explore CIs on a host. This kind of discovery skips the scanning and classification phases of discovery. You need an advanced knowledge of patterns to use this type of discovery. Refer to [Patterns and horizontal discovery](c-UsingPatternsForHorizontalDiscovery.md#) to get started with patterns.
 3.  After you run a discovery, monitor the results of the discovery and resolve errors if they occurred:
@@ -48,5 +48,5 @@ Ensure that your MID Servers can authenticate on the devices they find and class
 **Related topics**  
 
 
-[Discovery resource utilization](../reference/discovery-resource-utilization.md)
+[Discovery resource utilization](discovery-resource-utilization.md)
 

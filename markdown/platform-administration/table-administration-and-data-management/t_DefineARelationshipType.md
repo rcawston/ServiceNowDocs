@@ -32,5 +32,5 @@ Role required: admin
     The Name field automatically populates with the Parent and Child descriptors.
 
 
-**Parent Topic:**[Creating many-to-many task relations](../concept/c_ManyToManyTaskRelations.md)
+**Parent Topic:**[Creating many-to-many task relations](c_ManyToManyTaskRelations.md)
 

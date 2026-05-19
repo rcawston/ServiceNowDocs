@@ -22,7 +22,7 @@ In this tutorial, you learn how to set up a custom channel that:
 -   Displays the change request number, short description, and type on the inbox card
 -   Enables the agent to accept or reject change requests
 
-For information on setting up custom service channels, see [Set up a custom service channel](../task/setup-custom-channel.md).
+For information on setting up custom service channels, see [Set up a custom service channel](setup-custom-channel.md).
 
 Before you begin:
 

@@ -23,7 +23,7 @@ Exception approver level 1 user group members can approve the level 1 exception 
 
 **Note:**
 
-If you are deploying the VR application for the first time, the flow designer for exception management is enabled by default. If you are already using the workflow, you can update to the flow designer. In both cases, you cannot change it back to workflow. To configure approval rules for exception management and false positive, see [Configure approval rules for Exception Management](../../vulnerability-response/task/exception-mgt-approval-rules.md).
+If you are deploying the VR application for the first time, the flow designer for exception management is enabled by default. If you are already using the workflow, you can update to the flow designer. In both cases, you cannot change it back to workflow. To configure approval rules for exception management and false positive, see [Configure approval rules for Exception Management](vulnerability-response/exception-mgt-approval-rules.md).
 
 ## Procedure
 
@@ -38,5 +38,5 @@ If you are deploying the VR application for the first time, the flow designer fo
 5.  Approve or reject the request with and explain why you approved or rejected the request.
 
 
-**Parent Topic:**[Configuring an exception rule](../concept/sem-configure-exception-rule.md)
+**Parent Topic:**[Configuring an exception rule](sem-configure-exception-rule.md)
 

@@ -44,5 +44,5 @@ This step is only required if the upn is different from the email ID.
 6.  Select **Update**.
 
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](c_employee_ex_tnt.md)
 

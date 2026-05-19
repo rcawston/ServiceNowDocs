@@ -74,5 +74,5 @@ The following report types are not supported on forms: List, Pivot, Multilevel P
 
 The selected report appears on all forms which are of the same type as the one selected. These reports are filtered based on the report condition extensions.
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
 

@@ -15,9 +15,9 @@ breadcrumb: [Reference, Document Intelligence, Enable AI experiences]
 
 There are several important limitations to be aware of when you’re using Document Intelligence.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../concept/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
-For a list of the important limitations in Now Assist in Document Intelligence that differ from the limitations in Document Intelligence, see [Limitations in Now Assist in Document Intelligence](now-assist-document-intelligence-limitations.md).
+For a list of the important limitations in Now Assist in Document Intelligence that differ from the limitations in Document Intelligence, see [Limitations in Now Assist in Document Intelligence](../now-assist-in-document-intelligence/now-assist-document-intelligence-limitations.md).
 
 The following table is a list of the important limitations in Document Intelligence.
 
@@ -59,7 +59,7 @@ Supported languages
 
 </td><td>
 
-For information on supported languages, see [Languages supported by Document Intelligence](../concept/languages-supported-by-document-intelligence.md).
+For information on supported languages, see [Languages supported by Document Intelligence](languages-supported-by-document-intelligence.md).
 
 </td></tr><tr><td>
 
@@ -138,11 +138,11 @@ The maximum number of fields per document extraction use case is 50.
 
 [Components installed with Document Intelligence](installed-with-document-intelligence.md)
 
-[Confidence scores](../concept/docintel-confidence-scores.md)
+[Confidence scores](docintel-confidence-scores.md)
 
 [Data extraction modes](data-extraction-modes.md)
 
-[Data normalization](../concept/data-normalization.md)
+[Data normalization](data-normalization.md)
 
 [Document field statuses](docintel-field-statuses.md)
 
@@ -152,11 +152,11 @@ The maximum number of fields per document extraction use case is 50.
 
 [Document Intelligence roles](document-intelligence-user-roles.md#)
 
-[Document Intelligence terminology](../concept/docintel-terminology.md#)
+[Document Intelligence terminology](docintel-terminology.md#)
 
 [Document task statuses](docintel-task-statuses.md)
 
 [Domain separation and Document Intelligence](domain-separation-and-doc-intel.md)
 
-[Languages supported by Document Intelligence](../concept/languages-supported-by-document-intelligence.md)
+[Languages supported by Document Intelligence](languages-supported-by-document-intelligence.md)
 

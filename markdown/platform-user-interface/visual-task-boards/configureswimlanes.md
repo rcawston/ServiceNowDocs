@@ -80,5 +80,5 @@ When you select swimlanes in Visual Task Boards, you can do the following:
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Customizing and configuring Visual Task Boards](../concept/configuring-vis-task-boards.md)
+**Parent Topic:**[Customizing and configuring Visual Task Boards](configuring-vis-task-boards.md)
 

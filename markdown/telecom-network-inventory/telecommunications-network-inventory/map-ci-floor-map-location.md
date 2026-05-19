@@ -89,12 +89,12 @@ CI that you want to map to the place.**Note:** A CI must be mapped to only one p
 
 The CI is mapped to the place on the floor map. The color of the place is changed and reflects the selected inventory class according to the map legend. Select the CI on the map pane to view its details.
 
-**Parent Topic:**[Floor map](../concept/using-floor-map.md)
+**Parent Topic:**[Floor map](using-floor-map.md)
 
 **Related topics**  
 
 
-[Floor map](../concept/visualization-floor-maps.md)
+[Floor map](visualization-floor-maps.md)
 
 [Upload and manage floor map for your datacenter](create-floor-map-data-center.md)
 

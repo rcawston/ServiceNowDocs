@@ -32,7 +32,7 @@ For example, you can create a custom metric to avoid over counting installs for 
 
 You can use the Resource Value \[samp\_sw\_resource\_value\] table to enhance the custom license metric capability by doing a 1:1 calculation between the Units consumed column in the Resource Value \[samp\_sw\_resource\_value\] table and the Licenses required column in the License Metric Results \[samp\_license\_metric\_result\] table. You can create your own calculations in your custom license metric scripts and write your own logic to further customize your custom license metric. For information on adding resource values to the Resource Value \[samp\_sw\_resource\_value\] table, see [Specify resource values for your custom license metrics](specify-resource-values-custom-license-metrics.md).
 
-Custom metrics can be disabled using the custom license metric [property](../reference/sam-properties.md). This feature is enabled by default.
+Custom metrics can be disabled using the custom license metric [property](sam-properties.md). This feature is enabled by default.
 
 ## Procedure
 
@@ -120,10 +120,10 @@ The calculation method for the license metric is script. Specify the reconciliat
 </table>2.  Select **Submit**.
 
 
--   **[Custom license metric example script](../reference/custom-license-example-script.md)**  
+-   **[Custom license metric example script](custom-license-example-script.md)**  
 The following is an example of a custom license metric script.
 -   **[Specify resource values for your custom license metrics](specify-resource-values-custom-license-metrics.md)**  
 If you create a custom license metric based on resource values, specify the resource value for each software product that you want to calculate licensing requirements for.
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
 

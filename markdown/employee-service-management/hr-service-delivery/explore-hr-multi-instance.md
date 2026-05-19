@@ -33,7 +33,7 @@ Partners and service providers for HR service fulfillment often are running thei
 **Note:** HR Multi Instance Integration is dependent on the following plugins:
 
 -   [Service Bridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
--   [Human Resources Scoped App: Core](../reference/case-knowledge-management-landing-page.md)
+-   [Human Resources Scoped App: Core](case-knowledge-management-landing-page.md)
 
 ## HR Multi Instance Integration users
 
@@ -161,5 +161,5 @@ To learn more about configuring and using HR Multi Instance Integration, see:
 
 -   [Configuring HR Multi Instance Integration](config-hr-mii-bs.md)
 -   [Using HR Multi Instance Integration](using-hr-mii.md)
--   [Reference for HR Multi Instance Integration](../reference/reference-hr-multi-instance.md#)
+-   [Reference for HR Multi Instance Integration](reference-hr-multi-instance.md#)
 

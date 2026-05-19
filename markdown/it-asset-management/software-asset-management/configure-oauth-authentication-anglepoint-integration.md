@@ -38,5 +38,5 @@ Role required: admin
 
 The Anglepoint Elevate platform sends the credential information that you specified for your API connection to `https://*&lt;servicenow-instance-url&gt;*.service-now.com/oauth_token.do` using an HTTP Post request. Your ServiceNow instance responds to the request by generating OAuth tokens and then sending them to the Anglepoint Elevate platform. The Anglepoint Elevate platform can then use these tokens to make API requests for accessing the Anglepoint integration resources on your ServiceNow instance.
 
-**Parent Topic:**[Configuring the API authentication method for the Anglepoint integration](../concept/configuring-auth-method-anglepoint-integration.md)
+**Parent Topic:**[Configuring the API authentication method for the Anglepoint integration](configuring-auth-method-anglepoint-integration.md)
 

@@ -40,5 +40,5 @@ Role required: admin
 
 The user is assigned as the legal user role and can be added as a custodian when issuing a legal hold notice.
 
-**Parent Topic:**[Configure Legal Hold Notification](../concept/config-lg-hold-notif.md)
+**Parent Topic:**[Configure Legal Hold Notification](config-lg-hold-notif.md)
 

@@ -46,7 +46,7 @@ Role required: sn\_msi.workspace\_manager
 9.  To restart a conference call, navigate to the Completed section and select the **Reinitiate** option of the required conference call.
 
 
-**Parent Topic:**[Major Security Incident Management Conference Call Integration](../concept/integrate-msim-conference-calls.md)
+**Parent Topic:**[Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
 
 **Related topics**  
 
@@ -57,9 +57,9 @@ Role required: sn\_msi.workspace\_manager
 
 [Mute participants in a conference call](mute-unmute-participants.md)
 
-[Integrate MSIM Conference Calls with Microsoft Teams](../concept/integrate-msim-conf-call-ms-teams.md)
+[Integrate MSIM Conference Calls with Microsoft Teams](integrate-msim-conf-call-ms-teams.md)
 
-[Integrate MSIM Conference Calls with Zoom](../concept/integrate-msim-conf-calls-zoom.md)
+[Integrate MSIM Conference Calls with Zoom](integrate-msim-conf-calls-zoom.md)
 
-[Integrate MSIM Conference Calls with Cisco Webex](../concept/integrate-msim-conf-calls-webex.md)
+[Integrate MSIM Conference Calls with Cisco Webex](integrate-msim-conf-calls-webex.md)
 

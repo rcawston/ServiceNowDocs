@@ -48,7 +48,7 @@ Triage and categorize ITSM incidents
 
 </td></tr><tr><td>
 
-[Change management application](../../change-management/concept/now-assist-itsm-agentic-ai-in-change.md)
+[Change management application](../change-management/now-assist-itsm-agentic-ai-in-change.md)
 
 </td><td>
 

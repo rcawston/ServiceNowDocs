@@ -86,5 +86,5 @@ Accepts a PowerShell object and returns the object as a string.
     [Return \(String\)](parameters-powershell-connectors.md#Serialize-output-Return)
 
 
-**Parent Topic:**[ITSM connector](../concept/itsm.md)
+**Parent Topic:**[ITSM connector](itsm.md)
 

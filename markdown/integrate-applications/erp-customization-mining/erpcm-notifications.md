@@ -28,7 +28,7 @@ The notification email that you receive contains a link that takes you to the re
 
 ## Selecting your email notifications
 
-Notification emails aren’t enabled by default, and you must configure them for yourself in your ServiceNow AI Platform preferences. For details on configuring notifications, see [Configure notifications for ERP Semantic Mining tasks](../task/erpcm-enable-notifications.md).
+Notification emails aren’t enabled by default, and you must configure them for yourself in your ServiceNow AI Platform preferences. For details on configuring notifications, see [Configure notifications for ERP Semantic Mining tasks](erpcm-enable-notifications.md).
 
 Before you can set up notifications for yourself, your admin must add you to the ERP Semantic Mining Notification group. For more information, see [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AddAUserToAGroup.md).
 

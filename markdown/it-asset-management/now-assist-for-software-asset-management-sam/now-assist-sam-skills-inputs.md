@@ -21,7 +21,7 @@ Depending on the selected skill, you can configure the inputs or triggers. These
 
 ## Publisher compliance summarization skill
 
-For the publisher compliance summarization skill, select the triggers that determine when a publisher compliance summary is generated. You can also select the properties that control how a publisher compliance summary is displayed. To display the publisher compliance summary, you need to select the **Display** toggle button on the Choose where to display page while configuring Now Assist for SAM. For details on the **Display** toggle button, see [Configuring Now Assist for Software Asset Management \(SAM\)](../task/configure-now-assist-sam.md).
+For the publisher compliance summarization skill, select the triggers that determine when a publisher compliance summary is generated. You can also select the properties that control how a publisher compliance summary is displayed. To display the publisher compliance summary, you need to select the **Display** toggle button on the Choose where to display page while configuring Now Assist for SAM. For details on the **Display** toggle button, see [Configuring Now Assist for Software Asset Management \(SAM\)](configure-now-assist-sam.md).
 
 The following table lists the triggers that determine when a publisher compliance summary is generated and how a publisher compliance summary is displayed.
 
@@ -39,7 +39,7 @@ The following table lists the inputs for the publisher compliance summarization 
 
 ## Product compliance summarization skill
 
-For the product compliance summarization skill, select the triggers that determine when a product compliance summary is generated. You can also select the properties that control how a product compliance summary is displayed. To display the product compliance summary, you need to select the **Display** toggle button on the Choose where to display page while configuring Now Assist for SAM. For details on the **Display** toggle button, see [Configuring Now Assist for Software Asset Management \(SAM\)](../task/configure-now-assist-sam.md).
+For the product compliance summarization skill, select the triggers that determine when a product compliance summary is generated. You can also select the properties that control how a product compliance summary is displayed. To display the product compliance summary, you need to select the **Display** toggle button on the Choose where to display page while configuring Now Assist for SAM. For details on the **Display** toggle button, see [Configuring Now Assist for Software Asset Management \(SAM\)](configure-now-assist-sam.md).
 
 The following table lists the triggers that determine when a product compliance summary is generated and how a product compliance summary is displayed.
 
@@ -119,7 +119,7 @@ Contains information on all software installed in your environment.
 </td></tr></tbody>
 </table>## Recommended actions skill
 
-For the recommended actions skill, select the triggers that determine when a list of recommended actions is generated. You can also select the properties that control how recommended actions is displayed. To display recommended actions, you need to select the **Display** toggle button on the Choose where to display page while configuring Now Assist for SAM. For details on the **Display** toggle button, see [Configuring Now Assist for Software Asset Management \(SAM\)](../task/configure-now-assist-sam.md).
+For the recommended actions skill, select the triggers that determine when a list of recommended actions is generated. You can also select the properties that control how recommended actions is displayed. To display recommended actions, you need to select the **Display** toggle button on the Choose where to display page while configuring Now Assist for SAM. For details on the **Display** toggle button, see [Configuring Now Assist for Software Asset Management \(SAM\)](configure-now-assist-sam.md).
 
 The following table lists the triggers that determine when recommended actions are generated and how the list of recommended actions is displayed.
 
@@ -345,5 +345,5 @@ An entitlement is automatically generated from a contract when the user manually
 |-----|-----------|
 |The contract document|The contract document that the user uploads that is used for extracting the entitlement information.|
 
-**Parent Topic:**[Configuring Now Assist for Software Asset Management \(SAM\)](../task/configure-now-assist-sam.md)
+**Parent Topic:**[Configuring Now Assist for Software Asset Management \(SAM\)](configure-now-assist-sam.md)
 

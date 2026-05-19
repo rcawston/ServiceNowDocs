@@ -23,7 +23,7 @@ Document types are at the center of the Employee Document Management application
 -   Associate a retention policy. Retention policies determine how long to keep a document and who the document is applicable to.
 -   Place a legal hold. Legal holds temporarily prevent document purging or changes to the document.
 -   Allow access to employees.
--   Configure employee documents to be moved automatically when an HR case is closed. See [Configure an HR service](../task/configure-hr-service.md).
+-   Configure employee documents to be moved automatically when an HR case is closed. See [Configure an HR service](../hr-service-delivery/configure-hr-service.md).
 
 ![How document types pull together topic detail, security policy, retention policy and expiration policy.](../image/doc-type.png)
 
@@ -32,7 +32,7 @@ Document types are at the center of the Employee Document Management application
 **Related topics**  
 
 
-[Activate Employee Document Management](../task/activate-employee-doc-mgmnt.md#)
+[Activate Employee Document Management](activate-employee-doc-mgmnt.md#)
 
 ## Define policies for a document type
 
@@ -44,7 +44,7 @@ Role required: sn\_hr\_ef.manager
 
 ### About this task
 
-Document types combine topic detail, retention policies, and legal holds. The default retention period for a document type is defined on the corresponding Center of Excellence \(COE\). For details on COEs, see [HR Centers of Excellence data model](hr-centers-of-excellence-coes.md).
+Document types combine topic detail, retention policies, and legal holds. The default retention period for a document type is defined on the corresponding Center of Excellence \(COE\). For details on COEs, see [HR Centers of Excellence data model](../hr-service-delivery/hr-centers-of-excellence-coes.md).
 
 **Note:** The base system provides various document types as examples.
 
@@ -438,7 +438,7 @@ Users are granted access to employee documents by:
 
 The security policy can require authorization to purge and requires a user to belong to the group that has purge authorization.
 
-See [Manage HR Groups](../task/t_ManageHRGroups.md) and [Manage HR roles](c_ManageRoles.md).
+See [Manage HR Groups](../hr-service-delivery/t_ManageHRGroups.md) and [Manage HR roles](../hr-service-delivery/c_ManageRoles.md).
 
 ### Procedure
 
@@ -514,7 +514,7 @@ Users are granted access to employee documents by:
 
 The security policy can require authorization to purge and requires a user to belong to a group that has purge authorization.
 
-See [Manage HR Groups](../task/t_ManageHRGroups.md) and [Manage HR roles](c_ManageRoles.md). Or see [Groups](../task/t_ManageHRGroups.md) and [Roles](c_ManageRoles.md).
+See [Manage HR Groups](../hr-service-delivery/t_ManageHRGroups.md) and [Manage HR roles](../hr-service-delivery/../hr-service-delivery/c_ManageRoles.md). Or see [Groups](../hr-service-delivery/t_ManageHRGroups.md) and [Roles](../hr-service-delivery/../hr-service-delivery/c_ManageRoles.md).
 
 ### Procedure
 

@@ -29,7 +29,7 @@ The Now Assist skills for Sales CRM:
 -   Order summarization for order capture
 -   Order summarization for order fulfillment
 
-For information on customizing the order summarization skill, see [Customize an order summarization skill in Now Assist for Order Management](../task/customize-order-summarization-skill-now-assist-order-management.md).
+For information on customizing the order summarization skill, see [Customize an order summarization skill in Now Assist for Order Management](customize-order-summarization-skill-now-assist-order-management.md).
 
 **Note:** Microsoft Azure, Amazon bedrock, Now LLM, Now LLM LTS, and Google Cloud vertex AI are currently the providers for this Now Assist application's skills.
 
@@ -37,8 +37,8 @@ For information on customizing the order summarization skill, see [Customize an 
 
 Business-to-business \(B2B\) customers can submit order cases using Now Assist Virtual Assistant from the Business Portal. Interaction channels include chat and voice options. Before you can use the AI agents for managing order operations from the Business Portal:
 
--   [Enable the manage order operations agent on the Business Portal](../task/enable-manage-order-operations-ai-agent.md)
--   [Configure ATP API for the manage order operations agent](../task/create-atp-api-call.md)
+-   [Enable the manage order operations agent on the Business Portal](enable-manage-order-operations-ai-agent.md)
+-   [Configure ATP API for the manage order operations agent](create-atp-api-call.md)
 
 Enable AI voice agent support on your phone channels by installing the Now Assist Voice \[sn\_voice\_aia\] plugin. For more information, see [Deploy AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/deploy-ai-agents-for-voice.md).
 
@@ -46,10 +46,10 @@ Enable AI voice agent support on your phone channels by installing the Now Assis
 
 Business-to-business \(B2B\) customers can submit invoice cases using Now Assist Virtual Assistant from the Business Portal. Interaction channels include chat and voice options. Billing specialists and agents can use the invoice dispute assist agentic workflow from the CSM/FSM Configurable Workspace to resolve invoice cases. Before you can use the AI agents for managing order operations agent in the Business Portal:
 
--   [Configure AI-assisted invoice dispute intake on the Business Portal](../task/enable-manage-invoice-operations-ai-agent.md)
--   [Configure the invoice quantity validation extension point](../task/configure-invoice-quantity-check-ep.md)
--   [Configure the invoice dispute resolution extension point](../task/configure-invoice-case-resolution-ep.md)
--   [Make the invoice dispute assist workflow available in the Now Assist panel](../task/enable-invoice-dispute-assist-agentic-workflow.md)
+-   [Configure AI-assisted invoice dispute intake on the Business Portal](enable-manage-invoice-operations-ai-agent.md)
+-   [Configure the invoice quantity validation extension point](configure-invoice-quantity-check-ep.md)
+-   [Configure the invoice dispute resolution extension point](configure-invoice-case-resolution-ep.md)
+-   [Make the invoice dispute assist workflow available in the Now Assist panel](enable-invoice-dispute-assist-agentic-workflow.md)
 
 Enable AI voice agent support on your phone channels by installing the Now Assist Voice \[sn\_voice\_aia\] plugin. For more information, see [Deploy AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/deploy-ai-agents-for-voice.md).
 

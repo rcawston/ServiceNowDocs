@@ -15,7 +15,7 @@ breadcrumb: [Threat Lookup, TISC Enrichment integrations, TISC Integrations, Int
 
 Request analysis of suspicious IP addresses, file hashes, and URLs through VirusTotal integration to determine if they are malicious during security investigations.
 
--   **[Configure and enable VirusTotal Integration](../task/tisc-virustotal-integration.md)**  
+-   **[Configure and enable VirusTotal Integration](tisc-virustotal-integration.md)**  
 Set up VirusTotal integration with Threat Intelligence Security Center to perform threat lookups on observables.
 
 **Parent Topic:**[Threat Lookup](tisc-threat-lookup.md)

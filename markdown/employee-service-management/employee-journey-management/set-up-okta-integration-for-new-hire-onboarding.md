@@ -46,5 +46,5 @@ Role required: admin
     For instructions on how to configure the business roles and map them to the relevant groups, see [Configure a business role](configure-business-role.md).
 
 
-**Parent Topic:**[Okta integration for new hire onboarding](../concept/integrating-with-okta-service.md)
+**Parent Topic:**[Okta integration for new hire onboarding](integrating-with-okta-service.md)
 

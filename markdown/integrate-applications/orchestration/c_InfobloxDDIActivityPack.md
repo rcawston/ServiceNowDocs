@@ -26,13 +26,13 @@ Supported for Infoblox:
 -   WAPI version 2.0 for REST messages
 -   NIOS appliance version 7.0
 
-**Note:** To use the Infoblox DDI activities and workflow, you must [request activation](../task/t_ActivateAnActivityPack.md) of the Orchestration - Infoblox DDI Activty Pack plugin.
+**Note:** To use the Infoblox DDI activities and workflow, you must [request activation](t_ActivateAnActivityPack.md) of the Orchestration - Infoblox DDI Activty Pack plugin.
 
--   **[Create a REST credential for Infoblox activities](../task/t_CreateRESTCredRecInfoBloxAct.md)**  
+-   **[Create a REST credential for Infoblox activities](t_CreateRESTCredRecInfoBloxAct.md)**  
 All Infoblox activities require a REST credential to manage IP addresses from the Infoblox DDI server.
--   **[Infoblox workflows](../reference/r_InfobloxWorkflows.md)**  
+-   **[Infoblox workflows](r_InfobloxWorkflows.md)**  
 The Infobox DDI activity pack includes two default workflows, one that reserves and registers IP addresses and another that releases IP addresses.
--   **[Infoblox roles and permissions](../reference/infoblox-roles-permissions.md)**  
+-   **[Infoblox roles and permissions](infoblox-roles-permissions.md)**  
 Define the roles and permissions that the Infoblox activities need to access the various resources on the Infoblox server.
 -   **[Infoblox DHCP activities](c_InfobloxDHCPActivities.md#)**  
 The Infoblox DHCP activities manage the IP addresses reserved for DHCP in your network.

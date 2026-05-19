@@ -32,7 +32,7 @@ Agentic workflows can access this AI agent in Core UI or CSM/FSM workspace.
 
 ## Configure AI Search for the Troubleshooting steps identification AI agent
 
-You must configure AI Search so that this AI agent can fetch similar cases and relevant knowledge articles For more information, see [Configure AI Search to use with the Troubleshooting steps identification AI agent](../task/configure-ai-search-troubleshooting-ai-agent.md) and [Configure the Troubleshooting steps identification AI agent to use the Search retrieval tool](../task/enhance-search-retrieval-tool-troubleshooting-steps-ai-agent.md).
+You must configure AI Search so that this AI agent can fetch similar cases and relevant knowledge articles For more information, see [Configure AI Search to use with the Troubleshooting steps identification AI agent](configure-ai-search-troubleshooting-ai-agent.md) and [Configure the Troubleshooting steps identification AI agent to use the Search retrieval tool](enhance-search-retrieval-tool-troubleshooting-steps-ai-agent.md).
 
 ## Limitations
 

@@ -36,28 +36,28 @@ Role required: sn\_si.analyst
     The tactics and techniques that you have added appear in the MITRE-ATT&amp;CK Card.![This illustration shows how to associate MITRE information with a security case.](../../threat-intelligence/image/mitre-case-management.gif)
 
 
-**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](../../threat-intelligence/concept/mitre-att-ck-features.md)
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](mitre-att-ck-features.md)
 
 **Parent Topic:**[Create cases in Security Case Management](create-cases-in-case-mgmt.md)
 
 **Related topics**  
 
 
-[Associate MITRE-ATT&amp;CK information with security incidents](../../threat-intelligence/task/associate-mitre-with-sir.md#)
+[Associate MITRE-ATT&amp;CK information with security incidents](associate-mitre-with-sir.md#)
 
-[Associate MITRE-ATT&amp;CK information with observables](../../threat-intelligence/task/associate-mitre-observables.md)
+[Associate MITRE-ATT&amp;CK information with observables](associate-mitre-observables.md)
 
-[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](../../threat-intelligence/task/rollup-threat-lookup-results.md)
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](rollup-threat-lookup-results.md)
 
-[Rollup MITRE-ATT&amp;CK information from detection rules](../../threat-intelligence/task/rollup-mitre-attack-information-detection-rules.md)
+[Rollup MITRE-ATT&amp;CK information from detection rules](rollup-mitre-attack-information-detection-rules.md)
 
-[Rollup MITRE-ATT&amp;CK information from child security incidents](../../threat-intelligence/task/rollup-mitre-att-ck-information-from-child-security-incidents.md)
+[Rollup MITRE-ATT&amp;CK information from child security incidents](rollup-mitre-att-ck-information-from-child-security-incidents.md)
 
-[Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](../../threat-intelligence/task/link-analysis-threat-hunt-mitre.md)
+[Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](link-analysis-threat-hunt-mitre.md)
 
-[MITRE-ATT&amp;CK heat map and navigator](../../threat-intelligence/concept/mitre-att-ck-heatmap-and-navigator.md#)
+[MITRE-ATT&amp;CK heat map and navigator](mitre-att-ck-heatmap-and-navigator.md#)
 
-[Using the MITRE-ATT&amp;CK dashboard](../../threat-intelligence/concept/mitre-dashboards.md#)
+[Using the MITRE-ATT&amp;CK dashboard](mitre-dashboards.md#)
 
 [Add artifacts to a case](add-records-to-cases.md)
 

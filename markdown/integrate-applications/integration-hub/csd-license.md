@@ -34,7 +34,7 @@ You can create software licenses and counters in Software Asset Management for s
 5.  Run the counter to retrieve the software license information.
 
 
-**Parent Topic:**[Client Software Distribution using Integration Hub](../concept/csd-integrationhub.md)
+**Parent Topic:**[Client Software Distribution using Integration Hub](csd-integrationhub.md)
 
 ## Client software distribution ordering process
 

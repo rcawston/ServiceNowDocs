@@ -80,10 +80,10 @@ Provides Employee Center.
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Lifecycle event script includes and APIs](../concept/LEScriptIncludes.md)**  
+-   **[Lifecycle event script includes and APIs](LEScriptIncludes.md)**  
 Script includes call workflows within Lifecycle Events.
--   **[Lifecycle Events workflows](../concept/LEWorkflow.md)**  
+-   **[Lifecycle Events workflows](LEWorkflow.md)**  
 The **HR Activity Set Launcher** workflow drives the entire lifecycle event process. Associated workflows drive each of the activity sets within a lifecycle event.
 
-**Parent Topic:**[Configuring Lifecycle Events](../concept/configuring-lifecycle-events.md)
+**Parent Topic:**[Configuring Lifecycle Events](configuring-lifecycle-events.md)
 

@@ -15,11 +15,11 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideDate class provides methods for performing operations on GlideDate objects, such as instantiating GlideDate objects or working with GlideDate fields.
 
-For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
+For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](../scripts/p_GlideServerAPIs.md#).
 
-See also [GlideDateTime - Global](../../GlideDateTime/concept/c_GlideDateTimeAPI.md#).
+See also [GlideDateTime - Global](c_GlideDateTimeAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideDate - GlideDate\(\)
 
@@ -67,7 +67,7 @@ Output:
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getByFormat\(String format\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getByFormat\(String format\)](c_GlideDateScopedAPI.md#).
 
 ## GlideDate - getDayOfMonthNoTZ\(\)
 
@@ -95,13 +95,13 @@ Output:
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getMonthNoTZ\(\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getMonthNoTZ\(\)](c_GlideDateScopedAPI.md#).
 
 ## GlideDate - getDisplayValue\(\)
 
 Gets the date and time field value in the UTC time zone.
 
-See also: [Scoped GlideDate - getDisplayValue\(\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#)
+See also: [Scoped GlideDate - getDisplayValue\(\)](c_GlideDateScopedAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -125,7 +125,7 @@ Output:
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getDisplayValue\(\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getDisplayValue\(\)](c_GlideDateScopedAPI.md#).
 
 ## GlideDate - getDisplayValueEx\(String style\)
 
@@ -188,7 +188,7 @@ Tuesday, January 27, 2026  //full
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getDisplayValueEx\(String style\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getDisplayValueEx\(String style\)](c_GlideDateScopedAPI.md#).
 
 ## GlideDate - getDisplayValueInternal\(\)
 
@@ -230,7 +230,7 @@ Output:
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getDisplayValueInternal\(\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getDisplayValueInternal\(\)](c_GlideDateScopedAPI.md#).
 
 ## GlideDate - getDisplayValueLang\(String style\)
 
@@ -399,7 +399,7 @@ Output:
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getMonthNoTZ\(\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getMonthNoTZ\(\)](c_GlideDateScopedAPI.md#).
 
 ## GlideDate - getYearNoTZ\(\)
 
@@ -427,7 +427,7 @@ Output:
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getYearNoTZ\(\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - getYearNoTZ\(\)](c_GlideDateScopedAPI.md#).
 
 ## GlideDate - parseDate\(String date, String language, String country\)
 
@@ -565,7 +565,7 @@ Output:
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - setDisplayValue\(String asDisplayed\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - setDisplayValue\(String asDisplayed\)](c_GlideDateScopedAPI.md#).
 
 ## GlideDate - setDisplayValueEx\(String date, String style\)
 
@@ -642,7 +642,7 @@ Wednesday, January 28, 2026
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - setDisplayValueEx\(String date, String style\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - setDisplayValueEx\(String date, String style\)](c_GlideDateScopedAPI.md#).
 
 ## GlideDate - setDisplayValueLang\(String date, String style\)
 
@@ -848,5 +848,5 @@ Output:
 
 ### Scoped equivalent
 
-To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - setValue\(String o\)](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#).
+To use this method in a scoped application, use the corresponding scoped method: [Scoped GlideDate - setValue\(String o\)](c_GlideDateScopedAPI.md#).
 

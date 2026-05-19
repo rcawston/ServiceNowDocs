@@ -34,12 +34,12 @@ Use your existing product or department table to define dynamic idea categories.
 
 2.  On the form, fill in the fields.
 
-    For more information, see [Idea Category Configuration form](../reference/idea-category-configurations-form.md).
+    For more information, see [Idea Category Configuration form](idea-category-configurations-form.md).
 
 3.  Create filter conditions to determine the idea categories to be listed on the Idea Portal.
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Innovation Management](../concept/configuring-innovation-management.md)
+**Parent Topic:**[Configuring Innovation Management](configuring-innovation-management.md)
 

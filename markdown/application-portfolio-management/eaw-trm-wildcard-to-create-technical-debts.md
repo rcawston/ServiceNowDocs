@@ -15,7 +15,7 @@ You can use Technology Reference Model \(TRM\) lifecycles with wildcards to upda
 
 A TRM lifecycle with a wildcard is a TRM software product that has lifecycle version that ends with a '\*'. The '\*' means that exact specific version details aren’t provided.
 
-**Note:** To define a version for a specific TRM product, see [Add a TRM product lifecycle](../../task/eaw-task/eaw-create-trm-prod-lifecycle-req.md).
+**Note:** To define a version for a specific TRM product, see [Add a TRM product lifecycle](eaw-create-trm-prod-lifecycle-req.md).
 
 ## Use of TRM lifecycle with wildcard
 
@@ -27,7 +27,7 @@ Suppose you use Microsoft PowerPoint and have multiple versions like 1.1, 1.2, 1
 
 ## Create a TRM lifecycle with wildcard
 
-A TRM lifecycle with wildcard is created in a similar process as to how you would request a TRM product lifecycle. For information on how to add a TRM product lifecycle, see [Add a TRM product lifecycle](../../task/eaw-task/eaw-create-trm-prod-lifecycle-req.md).
+A TRM lifecycle with wildcard is created in a similar process as to how you would request a TRM product lifecycle. For information on how to add a TRM product lifecycle, see [Add a TRM product lifecycle](eaw-create-trm-prod-lifecycle-req.md).
 
 The only difference is, the TRM wildcard version ends with a ‘\*’.
 
@@ -44,11 +44,11 @@ A TRM wildcard can’t create technical debts when the full version of a particu
 
 [Manage TRM technical debt](eaw-manage-trm-technical-debt.md)
 
-[View TRM technical debts](../../task/eaw-task/view-trm-tech-debt.md)
+[View TRM technical debts](view-trm-tech-debt.md)
 
 [TRM Technical Debt calculation in Enterprise Architecture Workspace](eaw-trm-technical-debt-calc.md)
 
-[Run a scheduled job to update TRM technical debt data in EA Workspace](../../task/eaw-task/eaw-run-job-trm-tech-debts.md)
+[Run a scheduled job to update TRM technical debt data in EA Workspace](eaw-run-job-trm-tech-debts.md)
 
-[Add a TRM product lifecycle](../../task/eaw-task/eaw-create-trm-prod-lifecycle-req.md)
+[Add a TRM product lifecycle](eaw-create-trm-prod-lifecycle-req.md)
 

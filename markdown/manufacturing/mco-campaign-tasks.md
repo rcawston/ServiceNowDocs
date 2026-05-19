@@ -25,7 +25,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 3.  On the Campaign tasks form, fill in the fields.
 
-    For a description of the field values, see [Campaign tasks form](../reference/mco-campaign-tasks-form.md).
+    For a description of the field values, see [Campaign tasks form](mco-campaign-tasks-form.md).
 
 4.  Select **Save**.
 

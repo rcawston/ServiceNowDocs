@@ -21,7 +21,7 @@ Role required: sn\_wsd\_case.case\_reader, sn\_wsd\_case.case\_writer, sn\_wsd\_
 
 ## About this task
 
-As a case admin, you can view a case report that includes reservation details, services, and other relevant information. You can also configure the Workplace Case, Workplace Reservation, and Workplace Task document templates as required. For more information, see [Configuring Document Templates](../../human-resources/concept/set-up-doc-temp.md).
+As a case admin, you can view a case report that includes reservation details, services, and other relevant information. You can also configure the Workplace Case, Workplace Reservation, and Workplace Task document templates as required. For more information, see [Configuring Document Templates](../hr-service-delivery/set-up-doc-temp.md).
 
 **Note:** Enable the Print case feature by installing the Document Templates plugin.
 
@@ -48,7 +48,7 @@ As a case admin, you can view a case report that includes reservation details, s
     **Note:** The **Print case** button is visible to users with the sn\_wsd\_case.case\_reader role only.
 
 
-**Parent Topic:**[Managing Workplace cases](../concept/manage-workplace-cases.md)
+**Parent Topic:**[Managing Workplace cases](manage-workplace-cases.md)
 
 **Related topics**  
 
@@ -59,5 +59,5 @@ As a case admin, you can view a case report that includes reservation details, s
 
 [View change event reservation case details](view-case-change-event-reservation.md)
 
-[Managing print cases](../concept/manage-case-print.md#)
+[Managing print cases](manage-case-print.md#)
 

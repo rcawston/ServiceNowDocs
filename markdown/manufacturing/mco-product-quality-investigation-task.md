@@ -25,17 +25,17 @@ Role required: admin
 
 3.  On the Product Quality Investigation Task form, fill in the fields.
 
-    For a description of the field values, see [Product quality investigation task form](../reference/mco-product-quality-investigation-task-form.md).
+    For a description of the field values, see [Product quality investigation task form](mco-product-quality-investigation-task-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Related list for quality issues](../concept/mco-related-list-for-pqi.md)
+**Parent Topic:**[Related list for quality issues](mco-related-list-for-pqi.md)
 
 **Related topics**  
 
 
-[Discuss form](../reference/mco-discuss-sidebar.md)
+[Discuss form](mco-discuss-sidebar.md)
 
-[Notes form](../reference/mco-notes.md)
+[Notes form](mco-notes.md)
 

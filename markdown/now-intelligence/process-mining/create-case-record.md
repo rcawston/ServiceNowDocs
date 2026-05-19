@@ -40,5 +40,5 @@ Role required: sn\_process\_mining\_admin
     ![External dataset created](../image/ext-data-edit.png)
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](external-dataset.md)
 

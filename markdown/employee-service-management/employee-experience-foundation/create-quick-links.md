@@ -22,7 +22,7 @@ Role required: sp\_admin, taxonomy\_manager, or taxonomy\_admin
 
 ## About this task
 
-You can associate quick links to topics in a taxonomy or to the Employee Center and Employee Center Pro home pages. For more information, see [EC Information architecture](../concept/ec-information-architecture.md).
+You can associate quick links to topics in a taxonomy or to the Employee Center and Employee Center Pro home pages. For more information, see [EC Information architecture](ec-information-architecture.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ You can associate quick links to topics in a taxonomy or to the Employee Center 
 
 3.  On the form, fill in the fields.
 
-    For more information about the form fields and descriptions, see [Quick Link form](../reference/ec-quick-link-form.md).
+    For more information about the form fields and descriptions, see [Quick Link form](ec-quick-link-form.md).
 
 4.  Click **Save** or **Submit**.
 
@@ -55,7 +55,7 @@ After you create a quick link, you can assign topics to the quick link. The quic
 -   **[Restrict access to a quick link](restrict-access-to-quick-links.md)**  
 Restrict access to quick links by setting the user criteria, which allows access only to specific users, groups, roles, and more.
 
-**Parent Topic:**[Quick links](../concept/emp-center-quick-link-config.md)
+**Parent Topic:**[Quick links](emp-center-quick-link-config.md)
 
 **Related topics**  
 
@@ -68,5 +68,5 @@ Restrict access to quick links by setting the user criteria, which allows access
 
 [Create an external link](create-external-links.md)
 
-[Guided Self-Service in Employee Center](../concept/gss-guided-self-service-overview.md)
+[Guided Self-Service in Employee Center](gss-guided-self-service-overview.md)
 

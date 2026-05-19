@@ -31,7 +31,7 @@ The following is a short summary of each of the navigation tab types:
 -   Notifications: This option opens the Notifications page showing user-related notifications within the mobile app experience.
 -   Settings: This option opens the Settings page where the user controls their mobile experience.
 
-**Note:** Your navigation bar should only contain one of each of the following tab types, saved, notifications, and settings tabs. For more information, see the General guidelines for the navigation bar section in the topic [Navigation bar](../concept/sg-mobile-tab-bar.md).
+**Note:** Your navigation bar should only contain one of each of the following tab types, saved, notifications, and settings tabs. For more information, see the General guidelines for the navigation bar section in the topic [Navigation bar](sg-mobile-tab-bar.md).
 
 ## Procedure
 
@@ -88,7 +88,7 @@ Procedure
             1.  Enter a name for the icon.
             2.  From the **Type** field, select `Image`.
             3.  In the Set appearance section, in the **Style** field, enter `Name`.
-            4.  In the Set appearance section, in the **Value** field, enter the name of an image icon. For a list of image icon names, see [Image icons](../reference/image-icons.md).
+            4.  In the Set appearance section, in the **Value** field, enter the name of an image icon. For a list of image icon names, see [Image icons](image-icons.md).
 4.  Select **Save**.
 
 
@@ -112,7 +112,7 @@ Procedure
             1.  Enter a name for the icon.
             2.  From the **Type** list, select `Image`.
             3.  In the Set appearance section, in the **Style** field, enter `Name`.
-            4.  In the Set appearance section, in the **Value** field, enter the name of an image icon. For a list of image icon names, see [Image icons](../reference/image-icons.md).
+            4.  In the Set appearance section, in the **Value** field, enter the name of an image icon. For a list of image icon names, see [Image icons](image-icons.md).
             5.  Select **Save**.
     5.  Add a badge count to indicate the number of records that await your users’ attention for this tab.
         1.  Select **New** in the Badge count section.
@@ -122,7 +122,7 @@ Procedure
         5.  In the Conditions section, create conditions used to count records that match the condition to determine the badge count. The records that match the condition are displayed as a count on the navigation tab. For more information on configuring badge counts in the web-based UI, see [Configure badge counts on navigation bars](config-badge-counts-nav-bars.md).
         6.  In the Badge placement section, the fields **Location**, **Mobile component**, and **Component** all contain predefined values.
         7.  Select **Save**.
-    6.  Add user criteria permissions to determine what criteria a user must meet in order to see this tab in their navigation bar. For more information,see [User roles and user criteria permissions for mobile apps](../concept/roles-user-criteria.md).
+    6.  Add user criteria permissions to determine what criteria a user must meet in order to see this tab in their navigation bar. For more information,see [User roles and user criteria permissions for mobile apps](roles-user-criteria.md).
 4.  Select **Save**.
 
 

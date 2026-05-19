@@ -34,5 +34,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 [View clusters in a treemap](view-cluster-analysis.md)
 
-**Parent Topic:**[Cluster analysis](../concept/cluster-analysis.md)
+**Parent Topic:**[Cluster analysis](cluster-analysis.md)
 

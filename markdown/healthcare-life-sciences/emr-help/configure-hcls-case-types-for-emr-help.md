@@ -19,7 +19,7 @@ The base healthcare case type \[sn\_hcls\_case\] is an abstract case type, which
 
 EMR Help provides a default record producer and request definition built on this base case type as an example of how you might configure your own.
 
-You must configure your own healthcare case type to fulfill records created against the abstract case type. For more information on the abstract Healthcare case type, see [Healthcare case table](../reference/hcls-case-table.md).
+You must configure your own healthcare case type to fulfill records created against the abstract case type. For more information on the abstract Healthcare case type, see [Healthcare case table](../healthcare-and-life-sciences-service-management-core/hcls-case-table.md).
 
 The following steps walk you through creating a case type and modifying the default record producer and request definition to support it.
 

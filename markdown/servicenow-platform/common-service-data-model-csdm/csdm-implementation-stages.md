@@ -21,15 +21,15 @@ The CSDM is the data model that admins should follow when they set up ServiceNow
 
 ## Activating CSDM
 
--   **[Activate the CSDM plugin](../task/csdm-enable.md)**
+-   **[Activate the CSDM plugin](csdm-enable.md)**
 
     Activate the CSDM plugin so you can begin implementing the CSDM data model.
 
--   **[Enabling life-cycle synchronization from legacy to asset](../../configuration-management/concept/csdm-life-cycle-standard-values.md#)**
+-   **[Enabling life-cycle synchronization from legacy to asset](csdm-life-cycle-standard-values.md#)**
 
     You can align life-cycle values for each product instance on the asset, CI, and IBI tables. A one-time process moves legacy status values for asset and CI across the platform to standard CSDM life-cycle value pairs \(*life cycle stage* and *life cycle stage status*\). Business rules then run regularly to promote identical IBI, asset, and CI life-cycle data for each product instance.
 
--   **[Migrate and synchronize existing data to the CSDM framework](../task/migrate.md)**
+-   **[Migrate and synchronize existing data to the CSDM framework](migrate.md)**
 
     You complete several tasks to confirm that your existing application data migrates successfully to the required tables in the CMDB.
 
@@ -76,7 +76,7 @@ It's best to use a staged approach when you implement the CSDM framework. Each i
 
 The CSDM Assessment provides Impact Customers with leading practices and prescriptive guidance on the CSDM and how it supports processes on the ServiceNow AI Platform. To help your organization plan for and implement CSDM, the assessment includes interactions with ServiceNow CSDM experts and personalized content. See .
 
--   **[Enabling life-cycle synchronization from legacy to asset](../../configuration-management/concept/csdm-life-cycle-standard-values.md#)**  
+-   **[Enabling life-cycle synchronization from legacy to asset](csdm-life-cycle-standard-values.md#)**  
 You can align life-cycle values for each product instance on the asset, CI, and IBI tables. A one-time process moves legacy status values for asset and CI across the platform to standard CSDM life-cycle value pairs \(*life cycle stage* and *life cycle stage status*\). Business rules then run regularly to promote identical IBI, asset, and CI life-cycle data for each product instance.
 -   **[Matching the usage of dynamic CI groups to service type](csdm-dynamic-ci-groups-by-service.md)**  
 The type of service determines how you use dynamic CI groups.

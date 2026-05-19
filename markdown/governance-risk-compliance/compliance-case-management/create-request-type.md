@@ -27,7 +27,7 @@ Role required: sn\_compliance\_case\_admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the request type form, see [Request type form](../reference/request-type-form.md).
+    For a description of the field values on the request type form, see [Request type form](request-type-form.md).
 
 4.  Open the form context menu and select **Save**.
 
@@ -53,8 +53,8 @@ Role required: sn\_compliance\_case\_admin
 9.  To create an assignment rule instead of using the default rule, see [Create an assignment rule](create-assignment-rule.md).
 
 
--   **[Request type form](../reference/request-type-form.md)**  
+-   **[Request type form](request-type-form.md)**  
 Use the Request Type form in the Compliance Case Management application to categorize the compliance requests by their type.
 
-**Parent Topic:**[Configuring Compliance Case Management](../concept/configure-compliance-case-management.md)
+**Parent Topic:**[Configuring Compliance Case Management](configure-compliance-case-management.md)
 

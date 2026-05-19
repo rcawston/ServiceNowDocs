@@ -46,7 +46,7 @@ Operationalize a Configuration Item so that you can finalize the changes and app
 
 8.  Select **Operationalize CI** in the **Request type** field and fill other fields.
 
-    To learn more about other fields, see [Change request and change task forms](../concept/change_request_forms.md).
+    To learn more about other fields, see [Change request and change task forms](change_request_forms.md).
 
 9.  Select **Save**.
 
@@ -59,5 +59,5 @@ Operationalize a Configuration Item so that you can finalize the changes and app
     **Note:** On selecting a change request, all the revised Configuration Items \(CIs\) listed under the **Affected CIs** tab are operationalized and the work notes are updated accordingly.
 
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 

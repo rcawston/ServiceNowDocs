@@ -66,5 +66,5 @@ As a coach, you can monitor the quality of agents resolving issues and take corr
 |Trainings|List![List](../../../reuse/reporting/image/score-list-tile.svg)|Assigned Training \[sn\_coaching\_assessment\_recommended\_learning\]|List of training that agents need to complete.|
 |Coaching Assessments|List![List](../../../reuse/reporting/image/score-list-tile.svg)|Assessed Record \[sn\_coaching\_assessed\_records\]|List of assessments that coaches need to complete for their agents.|
 
-**Parent Topic:**[Workforce Optimization for ITSM landing pages](../../../product/configurable-workforce-optimization-itsm/concept/configurable-wfo-itsm-landing-pages.md)
+**Parent Topic:**[Workforce Optimization for ITSM landing pages](configurable-wfo-itsm-landing-pages.md)
 

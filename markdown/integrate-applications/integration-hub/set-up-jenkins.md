@@ -43,7 +43,7 @@ Role required: admin
 
         ![Connection template for Jenkins V2](../image/jenkins-v2-conn-template.png)
 
-    -   To manage more than oneJenkins v2 spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than oneJenkins v2 spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Jenkins v2 connection configuration](../image/jenkins-v2-conn-config.png)

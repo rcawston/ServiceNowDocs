@@ -21,7 +21,7 @@ Role required: it\_portfolio\_manager
 
 ## About this task
 
-Allocate budget in a similar manner as you do with functional currency. For more information, see [Allocate budget to a project](../../project-management/task/allocate-budget-to-project.md).
+Allocate budget in a similar manner as you do with functional currency. For more information, see [Allocate budget to a project](allocate-budget-to-project.md).
 
 Enable the project currency view of the Project form to allocate budget in project.
 
@@ -77,5 +77,5 @@ Sum of Capex and Opex amounts.The total project funding budget amount rolls up t
 
 ## What to do next
 
-The project target and budget expense values for both capital and operating expenses for a single fiscal period is stored in the [Project Funding \[project\_funding\] table](../reference/multicurrency-fields-project-form.md#project_funding_project_curr). When you update the project funding record, the amounts are converted to project currency.
+The project target and budget expense values for both capital and operating expenses for a single fiscal period is stored in the [Project Funding \[project\_funding\] table](multicurrency-fields-project-form.md#project_funding_project_curr). When you update the project funding record, the amounts are converted to project currency.
 

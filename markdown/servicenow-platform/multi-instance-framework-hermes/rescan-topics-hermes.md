@@ -32,5 +32,5 @@ Role required: kafka\_admin
 
 Topic records are added to the Kafka Topics \[sys\_kafka\_topic\] table for each topic discovered in the Hermes Kafka cluster. The topic refresh date and time that appears in **All** &gt; **Hermes Messaging Service** &gt; **Topics** is updated.
 
-**Parent Topic:**[Managing topics in Hermes](../concept/managing-topics-hermes.md)
+**Parent Topic:**[Managing topics in Hermes](managing-topics-hermes.md)
 

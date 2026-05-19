@@ -71,5 +71,5 @@ The Asana external content connector is updated with your modified crawl setting
 
 To retrieve content from your Asana source system using your modified crawl settings, create and run a one-time content crawl for your Asana external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Asana external content connector](../concept/asana-external-content-connector.md)
+**Parent Topic:**[Asana external content connector](asana-external-content-connector.md)
 

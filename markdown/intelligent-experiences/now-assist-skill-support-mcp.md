@@ -57,14 +57,14 @@ In addition, you can create tools from the following Now Assist skills or from c
 -   Text2Test Skill
 -   Vulnerable item deduplication
 
-**Parent Topic:**[MCP Server Console reference](../concept/mcp-server-console-reference.md)
+**Parent Topic:**[MCP Server Console reference](mcp-server-console-reference.md)
 
 **Related topics**  
 
 
-[Create a tool for a Model Context Protocol server](../task/create-tool-mcp-server.md)
+[Create a tool for a Model Context Protocol server](create-tool-mcp-server.md)
 
-[Now Assist skills](../../now-assist-skills/concept/now-assist-skills.md)
+[Now Assist skills](now-assist-skills/now-assist-skills.md)
 
-[Now Assist Skill Kit](../../now-assist-skill-kit/concept/now-assist-skill-kit-landing.md)
+[Now Assist Skill Kit](now-assist-skill-kit/now-assist-skill-kit-landing.md)
 

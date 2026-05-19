@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Amazon Data Firehose integration configuration forms for Health Log Analytics.
 
-For the Amazon Data Firehose integration setup procedure, see [Set up an Amazon Data Firehose \(MID-less\) integration for Health Log Analytics](../task/il-connector-hla-firehose.md).
+For the Amazon Data Firehose integration setup procedure, see [Set up an Amazon Data Firehose \(MID-less\) integration for Health Log Analytics](il-connector-hla-firehose.md).
 
 <table id="table_dsj_f1f_52c"><thead><tr><th>
 

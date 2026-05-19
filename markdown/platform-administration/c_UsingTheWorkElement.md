@@ -91,10 +91,10 @@ A delete SQL can be executed by specifying the table and optional where clause.
 ...
 ```
 
-**Parent Topic:**[JDBCProbe](../task/t_JDBCProbe.md)
+**Parent Topic:**[JDBCProbe](t_JDBCProbe.md)
 
 **Related topics**  
 
 
-[JDBCProbe](../task/t_JDBCProbe.md)
+[JDBCProbe](t_JDBCProbe.md)
 

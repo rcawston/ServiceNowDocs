@@ -24,7 +24,7 @@ Developer Sandboxes automatically backs up any update sets from the sandboxes an
 -   The update set must contain at least one change since the sandbox was created for it to be backed up.
 -   Incomplete update sets are backed up as long as there's at least one change.
 
-Backups are found in the retrieved update sets table, identified by the name of the sandbox they were backed up from. For example, "DSB \[sandboxname\] \(backup date\): \[Original update set name\]". For more information, see [Preview a remote update set](../../system-update-sets/task/t_PreviewARemoteUpdateSet.md#) and [Commit an update set](../../system-update-sets/task/t_CommitAnUpdateSet.md).
+Backups are found in the retrieved update sets table, identified by the name of the sandbox they were backed up from. For example, "DSB \[sandboxname\] \(backup date\): \[Original update set name\]". For more information, see [Preview a remote update set](../system-update-sets/t_PreviewARemoteUpdateSet.md#) and [Commit an update set](../system-update-sets/t_CommitAnUpdateSet.md).
 
 Review the update sets, then preview and commit them in each sandbox as needed.
 

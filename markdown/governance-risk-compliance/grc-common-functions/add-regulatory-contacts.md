@@ -39,5 +39,5 @@ As a compliance\_case\_manager, you can map one contact or multiple contacts to 
 -   **[Create New Regulatory Contact form](create-new-regulatory-contact-form.md)**  
 Use the Create New Regulatory Contact form in Compliance Workspace to create a regulatory contact to either a regulatory agency or a jurisdiction.
 
-**Parent Topic:**[Regulatory Agency Library](../../grc-rcm/concept/regulatory-agency-library-rcm.md)
+**Parent Topic:**[Regulatory Agency Library](regulatory-agency-library-rcm.md)
 

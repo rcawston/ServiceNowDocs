@@ -39,7 +39,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
     A red dot indicates that the sentiment was updated due to recent activity. Sentiment updates automatically every 30 minutes.
 
 
-**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo-using.md)
+**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-using.md)
 
 **Related topics**  
 
@@ -50,7 +50,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 
 [Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](request-gen-ai-capabilities-spo-now-assist-panel.md)
 
-[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](../concept/now-assist-spo-va-using.md)
+[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](now-assist-spo-va-using.md)
 
 [Generate email responses](email-response-na-spo.md)
 

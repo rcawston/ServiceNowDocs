@@ -33,20 +33,20 @@ When you create a cabinet record, it creates a corresponding configuration item 
 
 4.  In the displayed form, fill in the fields.
 
-    To learn more, see [Equipment Holder form](../reference/tni-equipment-holder-form-configuration.md).
+    To learn more, see [Equipment Holder form](tni-equipment-holder-form-configuration.md).
 
 5.  Select **Set Inventory Attributes**.
 
 6.  In the displayed form, fill in the fields.
 
-    To learn more about the fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 7.  Select **Save**.
 
-    A cabinet record is created and related tabs are created. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md)
+    A cabinet record is created and related tabs are created. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md)
 
 
--   **[Edit a cabinet](../task/edit-a-cabinet.md)**  
+-   **[Edit a cabinet](edit-a-cabinet.md)**  
 Edit a cabinet to remove, add, or move the equipment from the selected cabinet. Organize and upgrade the components within the cabinet using the Telecommunications Network Inventory application.
 
 **Parent Topic:**[Create and maintain racks and cabinets](create-and-maintain-rack-and-cabinet.md)
@@ -54,5 +54,5 @@ Edit a cabinet to remove, add, or move the equipment from the selected cabinet. 
 **Related topics**  
 
 
-[Edit a cabinet](../task/edit-a-cabinet.md)
+[Edit a cabinet](edit-a-cabinet.md)
 

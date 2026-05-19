@@ -17,11 +17,11 @@ Heatmap reports display aggregate data visually using colors to represent differ
 
 **Note:** When accessibility is enabled, this visualization includes a report that screen readers can interpret. For more information, see [Enabling accessibility features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md).
 
-On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../../performance-analytics/concept/explore-data-vis-library.md).
+On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../explore-data-vis-library.md).
 
 In the figure, the cell for confirmed low priority problems is filled to highlight the large value.![A heatmap report](../image/heatmapExample.png)
 
-**Parent Topic:**[Report types](../reference/report-types-creation-details-rd.md)
+**Parent Topic:**[Report types](report-types-creation-details-rd.md)
 
 ## Create a heatmap report
 
@@ -65,7 +65,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d223359e279">
 
@@ -96,7 +96,7 @@ Row
 
 </td><td>
 
-Field used as the source of the data for the rows in the heatmap. To select a source field on an extended table, see [How to report on extended tables.](../task/t_AccessFieldExtendedTable.md#) Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field.
+Field used as the source of the data for the rows in the heatmap. To select a source field on an extended table, see [How to report on extended tables.](t_AccessFieldExtendedTable.md#) Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field.
 
 **Note:** Label names longer than 20 characters may show or print a truncated view.
 
@@ -106,7 +106,7 @@ Column
 
 </td><td>
 
-Field used as the source of the data for the columns in the heatmap. To select a source field on an extended table, see [How to report on extended tables.](../task/t_AccessFieldExtendedTable.md#) Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field.
+Field used as the source of the data for the columns in the heatmap. To select a source field on an extended table, see [How to report on extended tables.](t_AccessFieldExtendedTable.md#) Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field.
 
 **Note:** Label names longer than 20 characters may show or print a truncated view.
 
@@ -132,9 +132,9 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 
  Select **Minimum** or **Maximum** to show the maximum or minimum value for each segment of the report.
 
- For more information on aggregation options, see [Aggregation in reporting](../reference/aggregation-reporting.md).
+ For more information on aggregation options, see [Aggregation in reporting](aggregation-reporting.md).
 
- If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+ If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](t_AccessFieldExtendedTable.md#).
 
  For information about aggregating on FX currency values, see [FX Currency values in reporting](fx-currency-values-reporting.md#).
 
@@ -375,7 +375,7 @@ Show legend
 
 </td><td>
 
-Enable this option to show a chart legend. This check box appears when a **Group by** field is selected on the report form.Legends are truncated by default. To adjust truncation lengths, configure the properties **glide.chart.label.legend.truncate\_to** and **glide.chart.label.legend.truncate\_to.large**. For more information, see [Reporting properties](../reference/reporting-properties.md).
+Enable this option to show a chart legend. This check box appears when a **Group by** field is selected on the report form.Legends are truncated by default. To adjust truncation lengths, configure the properties **glide.chart.label.legend.truncate\_to** and **glide.chart.label.legend.truncate\_to.large**. For more information, see [Reporting properties](reporting-properties.md).
 
 </td></tr><tr><td>
 

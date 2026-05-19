@@ -17,7 +17,7 @@ The ExpenseLine script include is used by various cost management processes and 
 
 This script include requires the Cost Management \(com.snc.cost\_management\) plugin.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ExpenseLine - ExpenseLine \(GlideRecord source, Number amount, String description\)
 

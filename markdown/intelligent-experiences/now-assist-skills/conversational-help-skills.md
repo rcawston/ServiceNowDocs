@@ -58,5 +58,5 @@ The Now LLM retrieves the most relevant result from [https://www.servicenow.com/
 
 ![Now Assist Conversational Help skill](../image/na-conversational-help-skills.png)
 
-For more information, see [Fetch end points in Now Assist Conversational Help skills](../reference/fetch-end-points-in-conversational-help-skill.md).
+For more information, see [Fetch end points in Now Assist Conversational Help skills](../fetch-end-points-in-conversational-help-skill.md).
 

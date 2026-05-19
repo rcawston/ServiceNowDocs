@@ -26,7 +26,7 @@ Configure state flow records with an ending state only and create the correct be
 **Related topics**  
 
 
-[Request states](../../planning-and-policy/reference/r_SMRequestStates.md)
+[Request states](r_SMRequestStates.md)
 
-[Request task states](../../planning-and-policy/reference/r_SMRequestTaskStates.md)
+[Request task states](r_SMRequestTaskStates.md)
 

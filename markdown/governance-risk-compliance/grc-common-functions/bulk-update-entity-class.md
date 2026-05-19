@@ -50,5 +50,5 @@ The classes are only added for the entities that match the filter conditions and
 
 The entity classes for multiple entities are updated.
 
-**Parent Topic:**[Entity classes](../concept/entity-class-in-risk-ws.md)
+**Parent Topic:**[Entity classes](entity-class-in-risk-ws.md)
 

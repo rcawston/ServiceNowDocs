@@ -120,5 +120,5 @@ Your theme is saved as a draft in Theme Builder and appears in the Unpublished s
 
 Customize and publish your theme in Theme Builder. See [Manage or edit a theme with Theme Builder](tb-edit-theme.md)\[Publish a theme\] and [Publish your themes with Theme Builder](tb-apply-theme.md).
 
-**Parent Topic:**[Theme creation with AI](../concept/theme-creation-with-ai.md)
+**Parent Topic:**[Theme creation with AI](theme-creation-with-ai.md)
 

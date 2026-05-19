@@ -35,7 +35,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 5.  On the Applicant task form, fill in the fields.
 
-    For a description of the field values, see [Applicant task form](../reference/applicant-task-form.md).
+    For a description of the field values, see [Applicant task form](applicant-task-form.md).
 
 6.  Select **Save**.
 
@@ -44,5 +44,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 View the new task from the **Lists** view of an application page in a job requisition. The list-view provides a consolidated and efficient task management option.
 
-**Parent Topic:**[Hiring tasks](../concept/applicant-tasks-recruitr.md)
+**Parent Topic:**[Hiring tasks](applicant-tasks-recruitr.md)
 

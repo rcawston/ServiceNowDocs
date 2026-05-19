@@ -15,7 +15,7 @@ Learn how to qualify and manage service orders, work with external product inven
 
 -   **[External product inventory ID](ext-inventory-id.md)**  
 You can use a product inventory ID from external Configure, Price, and Quote \(CPQ\) systems in the Order Management application to complete the order fulfillment flow for various actions on the product and service orders.
--   **[Create outbound requests for service orders](../task/order-mgt-outbound-request.md)**  
+-   **[Create outbound requests for service orders](order-mgt-outbound-request.md)**  
 As a provider, create an outbound request for the service orders. You can interact with the external Service Order Management \(SOM\) or Technical Order Management \(TOM\) systems to manage the end-to-end order fulfillment process.
 -   **[Orders for 5G sliced networks](network-slice.md)**  
 A communication service provider \(CSP\) can define 5G services in the technical catalog and manage the creation and fulfillment of these orders for a sliced network.

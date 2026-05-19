@@ -21,7 +21,7 @@ Role required: admin \[sn\_jny.admin\]
 
 ## About this task
 
-The Learning Posts app must be integrated with the Journey designer app for the recommended learning feature to be available. For details about Learning integration see, [Learning Core](../concept/learning-core_overview.md).
+The Learning Posts app must be integrated with the Journey designer app for the recommended learning feature to be available. For details about Learning integration see, [Learning Core](../learning-core/learning-core_overview.md).
 
 ## Procedure
 
@@ -46,7 +46,7 @@ The Learning Posts app must be integrated with the Journey designer app for the 
     -   Recommended learning added to a journey configuration by an administrator is included in all journeys created with that journey configuration.
     -   Only an administrator can delete a recommended learning entry from a journey configuration.
 
-**Parent Topic:**[Recommended learning in journey configurations](../concept/jny-dsgnr-ml-learning-recom.md)
+**Parent Topic:**[Recommended learning in journey configurations](jny-dsgnr-ml-learning-recom.md)
 
 **Related topics**  
 

@@ -235,5 +235,5 @@ Clear the check box to make Blocked by capability work.
 6.  Select **Save** to create touchpoint.
 
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](account-lifecycle-basic-config.md)
 

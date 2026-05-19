@@ -135,7 +135,7 @@ System Address Filter
 
 System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or outbound email.
 
- For more information, see [System address filters](../../notification/concept/system-address-filters.md).
+ For more information, see [System address filters](system-address-filters.md).
 
 </td></tr><tr><td>
 
@@ -175,5 +175,5 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
 ![Flow diagram that shows the steps that show how email is received on your POP3 server](../image/AlternateEmailConfigurationUsingYourOwnPOP3Server.png "Receiving email using your own POP3 server")
 
-**Parent Topic:**[Advanced email setup](../concept/c_AlternateEmailConfigurations.md)
+**Parent Topic:**[Advanced email setup](c_AlternateEmailConfigurations.md)
 

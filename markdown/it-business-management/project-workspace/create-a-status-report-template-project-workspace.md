@@ -31,7 +31,7 @@ Role required: it\_project\_manager
 
 4.  On the Create new document template form, fill in the fields.
 
-    For a description of the field values, see [Create new document template form](../reference/create-new-document-template-form.md).
+    For a description of the field values, see [Create new document template form](create-new-document-template-form.md).
 
     ![Create status report template](../image/create-status-report-template.png)
 
@@ -48,12 +48,12 @@ Role required: it\_project\_manager
 
 The template you created appears as an option when you try to create a status report: [Create a status report in Project Workspace](create-a-status-report-in-project-workspace.md).
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 
 **Related topics**  
 
 
-[Status reporting in Project Workspace](../concept/status-reporting-in-pw.md)
+[Status reporting in Project Workspace](status-reporting-in-pw.md)
 
 [Create a status report in Project Workspace](create-a-status-report-in-project-workspace.md)
 

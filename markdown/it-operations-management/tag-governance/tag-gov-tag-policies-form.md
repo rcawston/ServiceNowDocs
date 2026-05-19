@@ -227,5 +227,5 @@ User
 Specific user from the assignment group to whom you want to assign the task. Use lookup lists to select a user.This field appears only when you select the **Create Tasks** check box.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Tag Governance reference](../../it-operations-management/concept/reference-tag-governance.md)
+</table>**Parent Topic:**[Tag Governance reference](reference-tag-governance.md)
 

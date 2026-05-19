@@ -90,10 +90,10 @@ Work notes \(Private\)
 Internal notes visible only to team members with appropriate access.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Opportunity Management reference](../concept/opportunity-management-reference.md)
+</table>**Parent Topic:**[Opportunity Management reference](opportunity-management-reference.md)
 
 **Related topics**  
 
 
-[Create a related task from a touchpoint](../task/create-touchpoint-related-tasks.md)
+[Create a related task from a touchpoint](create-touchpoint-related-tasks.md)
 

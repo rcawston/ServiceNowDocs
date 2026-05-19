@@ -73,7 +73,7 @@ Role required: admin
 
 3.  Create or open a page or page variant.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 4.  Open the toolbox.
 

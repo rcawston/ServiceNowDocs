@@ -150,7 +150,7 @@ Expiry
 
 </td><td>
 
-Time after which the credential is no longer valid. Empty value means no expiration.**Note:** For more information, about expiry of token, see [Cleaning up token Expiry](../concept/token-expiry-api-and-hmac.md) .
+Time after which the credential is no longer valid. Empty value means no expiration.**Note:** For more information, about expiry of token, see [Cleaning up token Expiry](token-expiry-api-and-hmac.md) .
 
 </td></tr></tbody>
 </table>    4.  Submit the form.

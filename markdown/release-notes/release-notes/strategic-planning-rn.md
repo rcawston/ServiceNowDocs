@@ -157,7 +157,7 @@ See [Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNow
 
 ## Changed in this release
 
-[Australia Patch 2](../quality/australia-patch-1.md)
+[Australia Patch 2](../australia-patch-1.md)
 
 -   **[Demand summarization skill enhancements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-summary-demand-classic.md)**
 

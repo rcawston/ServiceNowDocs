@@ -68,7 +68,7 @@ Grant editing rights to the users, groups, or roles you share the visualization 
 </table>7.  Select **Confirm**.
 
 
-**Parent Topic:**[Common data visualization tasks](../concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](common-dv-tasks.md)
 
 ## Manage data visualization access
 

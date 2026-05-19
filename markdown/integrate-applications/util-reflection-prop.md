@@ -19,5 +19,5 @@ Learn about the properties of the Reflection components in RPA Desktop Design St
 |Delay After Execution|The number of seconds to pause after running.|
 |Delay Before Execution|The number of seconds to pause before running.|
 
-**Parent Topic:**[Reflection](../concept/reflection-utility.md)
+**Parent Topic:**[Reflection](reflection-utility.md)
 

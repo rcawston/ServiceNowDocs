@@ -17,7 +17,7 @@ Discovery uses the Horizontal Pattern probe to launch patterns for horizontal di
 
 The Horizontal Pattern probe works with the Horizontal Discovery sensor to enable Discovery to use patterns for discovery. When you see messages in the ECC Queue from this probe, they appear with the ECC queue name **Pattern Launcher**, followed by the name of the pattern. The probe contains a sensor named **Horizontal Discovery Sensor**, which performs the actual updates of the CMDB based on identification rules.
 
-If you create your own device or process classifier and you want to use patterns for discovery, you must [specify this probe in the classifier record](../concept/c-UsingPatternsForHorizontalDiscovery.md#). You do not need to modify this probe or the Horizontal Discovery sensor.
+If you create your own device or process classifier and you want to use patterns for discovery, you must [specify this probe in the classifier record](c-UsingPatternsForHorizontalDiscovery.md#). You do not need to modify this probe or the Horizontal Discovery sensor.
 
 ## Splitting payload
 

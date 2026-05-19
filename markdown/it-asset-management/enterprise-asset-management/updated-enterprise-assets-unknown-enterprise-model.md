@@ -52,5 +52,5 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
     **Note:** If the selected enterprise asset type, enterprise model category, and enterprise model update the enterprise asset to a user-assembled multi-component asset, the **State** field on the asset record automatically changes to **Build**. The **Assemble** and **Auto assemble** buttons also appear on the asset record. You can use these buttons to initiate the assembly process for the enterprise asset. For more information on user-assembled multi-component assets, see [Select assets for user-assembled asset](assemble-assets-eam.md).
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

@@ -52,5 +52,5 @@ A case has now been created and can be worked on through the Investigative Case 
 
 ## What to do next
 
-Add supporting details to the case narrative. For information on how to do this, see [Create an investigative case narrative in Investigative Case Management](../task/psds-using-icm-create-a-case-narrative.md).
+Add supporting details to the case narrative. For information on how to do this, see [Create an investigative case narrative in Investigative Case Management](psds-using-icm-create-a-case-narrative.md).
 

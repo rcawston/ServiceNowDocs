@@ -19,7 +19,7 @@ CVE is a list of information security vulnerabilities and exposures that provide
 
 For example, if a piece of malware exploits CVE-2015-12345, a Malware object could be linked to a Vulnerability object that references CVE-2015-12345.
 
--   **[Define vulnerabilities](../task/define-vulnerabilities.md)**  
+-   **[Define vulnerabilities](define-vulnerabilities.md)**  
 Define vulnerability as a weakness or defect in a software or hardware component that attackers exploit.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

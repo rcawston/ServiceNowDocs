@@ -82,11 +82,11 @@ Description
 
 </td><td>
 
-Creates an incident for the alerts that match the specified filter.For details on mapping the alert fields to the incident fields, see [Alert field mapping on the Respond page](../reference/alert-field-mapping-respond-page.md).
+Creates an incident for the alerts that match the specified filter.For details on mapping the alert fields to the incident fields, see [Alert field mapping on the Respond page](alert-field-mapping-respond-page.md).
 
 **Note:** If you want incident fields to be automatically populated with default values, consider using **Create Incident \(advanced\)** in the **Response subflows** field. **Create Incident \(advanced\)** pre-populates incident fields even when you don’t explicitly customize them, which helps ensure consistent incident data and reduces configuration effort.
 
-The **Create incident and other response actions** option also executes selected subflows from Workflow Studio for alerts that match the specified condition. For example, you may select [out-of-the-box subflows](../../event-management/reference/subflows-provided.md) to restart services. You can also create your own [custom subflows](../../event-management/task/create-custom-create-incident-subflow.md), leveraging hundreds of integrations available in Integration Hub.
+The **Create incident and other response actions** option also executes selected subflows from Workflow Studio for alerts that match the specified condition. For example, you may select [out-of-the-box subflows](../event-management/subflows-provided.md) to restart services. You can also create your own [custom subflows](../event-management/create-custom-create-incident-subflow.md), leveraging hundreds of integrations available in Integration Hub.
 
 ![Response subflow](../image/respond-automation-actions-details.png)
 
@@ -127,7 +127,7 @@ To add another response action, select **+ Add response action**.
 
 Sends notifications to other systems using outbound webhooks. For example, this capability can be used to send a chat notification, create a case, or trigger an external runbook to remediate the issue.
 
- For details on configuring an outbound webhook, see [Outbound webhook parameters](../reference/outbound-webhook-parameters.md).
+ For details on configuring an outbound webhook, see [Outbound webhook parameters](outbound-webhook-parameters.md).
 
  To create an additional property, select **+ Add property**. The property can be any custom key-value pair that you want to include in the webhook payload, such as "Content-Type: application/json" or "Authorization: Bearer &lt;token&gt;".
 

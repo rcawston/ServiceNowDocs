@@ -32,5 +32,5 @@ Role required: import\_scheduler
 
 The metrics are created by using the configured entities and metric definitions.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](../concept/integrating-esg-management-with-urjanet.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](integrating-esg-management-with-urjanet.md)
 

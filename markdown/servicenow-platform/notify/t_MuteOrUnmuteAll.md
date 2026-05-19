@@ -57,5 +57,5 @@ Click this button to unmute all the participants in the conference
     ![Screenshot for Unmute All](../image/UnmuteAll.png)
 
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](c_NotifyConferenceCalls.md)
 

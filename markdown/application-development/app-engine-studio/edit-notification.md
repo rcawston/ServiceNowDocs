@@ -17,7 +17,7 @@ Edit an email notification created for an app in App Engine Studio \(AES\) to ch
 
 ## Before you begin
 
-You can perform this task if you're either an administrator or a developer for the application. The required developer permission is **All File Types**. For more information on being a developer for an application, see [Delegated development in App Engine Studio](../concept/aes-app-dev-workflow.md).
+You can perform this task if you're either an administrator or a developer for the application. The required developer permission is **All File Types**. For more information on being a developer for an application, see [Delegated development in App Engine Studio](aes-app-dev-workflow.md).
 
 Role required: admin or delegated\_developer
 

@@ -51,17 +51,17 @@ The alert insight tabs are:
 
 For more information about the alert insight tabs, see [Alert insight information](alert-insight-information.md).
 
--   **[Find similar alerts](../task/find-similar-alerts.md)**  
+-   **[Find similar alerts](find-similar-alerts.md)**  
 You can find alerts similar to the alert currently being investigated. Save troubleshooting time by reviewing similar alerts to see how they were resolved.
 -   **[Similarity solutions](word-collection-similarity-solution.md)**  
 Similarity solutions enable you to use Machine Learning \(ML\) to compare the text in a resolved alert record to an open alert record to reuse its resolution approach.
--   **[Create an Event Management similarity solution](../task/create-solution-similarity.md)**  
+-   **[Create an Event Management similarity solution](create-solution-similarity.md)**  
 Create and train a solution that applies machine learning to a collection of words to target and suggest similar alerts in your instance dataset. For example, you can compare the text in a resolved alert record to an open alert record to reuse its resolution approach.
--   **[View Event Management solution training progress](../task/view-solution-training-progress.md)**  
+-   **[View Event Management solution training progress](view-solution-training-progress.md)**  
 View solution training progress or statistics to determine whether a solution is available or how long the next training cycle might take to complete.
--   **[Review Event Management similarity examples](../task/view-similarity-examples.md)**  
+-   **[Review Event Management similarity examples](view-similarity-examples.md)**  
 Review the similarity examples and scores that the system provides during solution training to see how the selected alert record compares to existing alert records. For example, you can modify the similarity score threshold to increase the accuracy of your similarity recommendations.
--   **[Activate Event Management solution version](../task/solution-version-activated.md)**  
+-   **[Activate Event Management solution version](solution-version-activated.md)**  
 The system activates the most recent version of the solution, but you can activate any previously trained Event Management solution version if it is more appropriate.
 
 **Parent Topic:**[Manage and monitor alerts](c_EMAlert.md)

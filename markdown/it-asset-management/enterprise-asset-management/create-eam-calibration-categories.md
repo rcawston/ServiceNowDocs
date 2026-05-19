@@ -47,5 +47,5 @@ For more details on calibration attributes, see [Add calibration attributes to a
 
 The calibration category is available to use in your calibration attributes.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

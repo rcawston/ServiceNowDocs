@@ -115,13 +115,13 @@ On the **Outbound Entries** tab, click an outbound entry.
 
 9.  Click the adapter that you want to use and then configure it.
 
-    For more information about configuring adapters, see [Adapter descriptions](../reference/adapter-descriptions.md).
+    For more information about configuring adapters, see [Adapter descriptions](adapter-descriptions.md).
 
     **Note:** Adapters do not modify the data on the producer instance.
 
 
--   **[Warning and error messages in Instance Data Replication](../reference/schema-warnings-error.md)**  
+-   **[Warning and error messages in Instance Data Replication](schema-warnings-error.md)**  
 Understand error and warning messages related to schema definitions. You can then troubleshoot or fix Instance Data Replication \(IDR\) replication issues.
 
-**Parent Topic:**[Replicating data with Instance Data Replication](../concept/replicating-data.md)
+**Parent Topic:**[Replicating data with Instance Data Replication](replicating-data.md)
 

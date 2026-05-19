@@ -37,7 +37,7 @@ The skill collects data from predefined fields and related lists across the priv
 
 **Important:** Be sure to check AI-generated summaries for accuracy.
 
-If the **Summarize** option isn’t visible, an admin has to activate the skill from the Now Assist Admin console. For more information, refer to [Activate the GRC case summarization skill](../../now-assist-irm/task/activate-grc-case-summarization-skill.md).
+If the **Summarize** option isn’t visible, an admin has to activate the skill from the Now Assist Admin console. For more information, refer to [Activate the GRC case summarization skill](../grc-common-functions/activate-grc-case-summarization-skill.md).
 
 ## Procedure
 
@@ -53,7 +53,7 @@ If the **Summarize** option isn’t visible, an admin has to activate the skill 
 
 6.  Select **Summarize**.
 
-    The summary is displayed. For a description of each section included in it, see [Components of a privacy case summary](../concept/privacy-case-summarization-skill.md#section_rfw_5rz_k3c).
+    The summary is displayed. For a description of each section included in it, see [Components of a privacy case summary](privacy-case-summarization-skill.md#section_rfw_5rz_k3c).
 
 7.  Review the summary and complete any of the following options.
 

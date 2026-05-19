@@ -17,7 +17,7 @@ The WorkflowModelManagerAjax script include provides an AjaxProcessor wrapper fo
 
 Use this class in the Workflow Debug context menus.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## WorkflowModelManagerAjax - getExecutedHistory\( \)
 

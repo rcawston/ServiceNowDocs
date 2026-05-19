@@ -29,9 +29,9 @@ For each password credential store record in the Password Reset Credential Store
 
     Navigate to the Password Policy \[password\_policy\] record referenced in the record's **Password policy** field. Ensure that the **Minimum Password Length** field is set to at least 15 and **Maximum Password Length** field is set to at least 64.
 
-3.  Further instructions on configuring a password policy can be in the documentation: [Enable password policies on your instance](../../../integrate/authentication/task/enable-password-policies.md)
+3.  Further instructions on configuring a password policy can be in the documentation: [Enable password policies on your instance](../authentication/enable-password-policies.md)
 
-Further instructions on configuring a password policy, see [Enable password policies on your instance](../../../integrate/authentication/task/enable-password-policies.md).
+Further instructions on configuring a password policy, see [Enable password policies on your instance](../authentication/enable-password-policies.md).
 
 ## More information
 

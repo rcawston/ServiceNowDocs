@@ -23,7 +23,7 @@ Turn on Full automation mode to automatically complete and submit document tasks
 
 ## About this task
 
-The extraction mode determines how Now Assist in Document Intelligence processes document tasks for a use case. For more information, see [Data extraction modes in Now Assist in Document Intelligence](../reference/data-extraction-modes-now-assist-document-intelligence.md).
+The extraction mode determines how Now Assist in Document Intelligence processes document tasks for a use case. For more information, see [Data extraction modes in Now Assist in Document Intelligence](data-extraction-modes-now-assist-document-intelligence.md).
 
 Turn on Full automation mode if you want Now Assist to bypass the agent review used to check the accuracy of the predicted values. Now Assist auto-fills the values for all required fields or marks them as missing in the document. Document tasks created for the use case are automatically completed and submitted by Now Assist.
 
@@ -48,7 +48,7 @@ Turn on Full automation mode if you want Now Assist to bypass the agent review u
 8.  Close the Settings box.
 
 
-**Parent Topic:**[Configuring Now Assist in Document Intelligence](../concept/docintel-configuring-now-assist.md)
+**Parent Topic:**[Configuring Now Assist in Document Intelligence](docintel-configuring-now-assist.md)
 
 **Related topics**  
 

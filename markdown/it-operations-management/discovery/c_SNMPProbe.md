@@ -21,14 +21,14 @@ Discovery supports SNMP versions 1, 2c, and 3. The default value is ALL. If you 
 
 ## SNMP patterns
 
-The Network Router pattern replaces the several SNMP-related probes for the discovery of routers and switches. See [Available discovery patterns](../../service-mapping/concept/available-patterns.md) for a list of patterns.
+The Network Router pattern replaces the several SNMP-related probes for the discovery of routers and switches. See [Available discovery patterns](../discovery-and-service-mapping-patterns/available-patterns.md) for a list of patterns.
 
--   **[SNMP probe parameters](../reference/r_SNMPProbeParameters.md)**  
+-   **[SNMP probe parameters](r_SNMPProbeParameters.md)**  
 This list of parameters may be passed to the SNMP probes.
--   **[Load a MIB module](../task/t_LoadAMIBModule.md)**  
+-   **[Load a MIB module](t_LoadAMIBModule.md)**  
 You can load an additional Management Information Base \(MIB\) module by creating a new ecc\_agent\_mib record and attaching the actual MIB file to the record.
--   **[SNMP probe MIB modules](../reference/r_SNMPProbeMIBModules.md)**  
+-   **[SNMP probe MIB modules](r_SNMPProbeMIBModules.md)**  
 A management information base module \(MIB\) is a database that is used to manage elements in a network.
 
-**Parent Topic:**[List of Discovery probes](../reference/r_ListOfDiscoveryProbes.md)
+**Parent Topic:**[List of Discovery probes](r_ListOfDiscoveryProbes.md)
 

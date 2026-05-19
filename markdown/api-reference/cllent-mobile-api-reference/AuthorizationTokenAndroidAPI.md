@@ -56,7 +56,7 @@ Type of authorization token.Valid values \(case-sensitive\):
 -   OAuthRefresh
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+</table>**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## AuthorizatonToken - AuthorizationToken\(type: AuthorizationTokenType, token: String\)
 

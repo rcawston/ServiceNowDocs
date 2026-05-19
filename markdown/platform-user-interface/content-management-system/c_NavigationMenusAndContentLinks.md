@@ -27,13 +27,13 @@ Menu items are similar to content links except they are called by the list block
 
 ![Content link example](../image/ContentLink.png "Content link")
 
--   **[View menu and list examples](../task/t_ExampleMenuSection.md)**  
+-   **[View menu and list examples](t_ExampleMenuSection.md)**  
 Menu sections define groups of links and how the links behave.
 
-**Parent Topic:**[Create a navigation menu block](../task/t_CreateNavigationMenuBlock.md)
+**Parent Topic:**[Create a navigation menu block](t_CreateNavigationMenuBlock.md)
 
 **Related topics**  
 
 
-[View links between system elements and URLs](../task/t_LinkToContent.md)
+[View links between system elements and URLs](t_LinkToContent.md)
 

@@ -43,7 +43,7 @@ The following items are installed with Risk Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Risk Management](../reference/r_InstallWRisk.md).
+For more information, see [Components installed with Risk Management](r_InstallWRisk.md).
 
 ## Procedure
 
@@ -66,5 +66,5 @@ For more information, see [Components installed with Risk Management](../referen
 5.  Select **Install**.
 
 
-**Parent Topic:**[Risk Management implementation](../concept/risk-impl-overview.md)
+**Parent Topic:**[Risk Management implementation](risk-impl-overview.md)
 

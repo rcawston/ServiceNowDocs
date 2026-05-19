@@ -32,7 +32,7 @@ When you select the **Chat Survey** check box for a survey, the following condit
     -   Scale
     -   String
 
-For information on configuring a survey, see [Modify a survey definition](../task/t_ModifySurveyDefinitions.md) and [Configure a survey in the survey designer](../task/t_ConfigSurveyInSurveyDesgnr.md).
+For information on configuring a survey, see [Modify a survey definition](t_ModifySurveyDefinitions.md) and [Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md).
 
 The following capabilities are supported for the survey:
 
@@ -46,28 +46,28 @@ After a survey is submitted in a Virtual Agent conversation, a survey instance i
 -   Trigger ID, which is the sys\_id of the associated interaction ID created in the Virtual Agent chat
 -   Trigger table, which is the interaction table
 
-**Parent Topic:**[Survey administration](../reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
-[View survey reports](../task/view-survey-overview.md)
+[View survey reports](view-survey-overview.md)
 
 [Survey designer](c_SurveyDesigner.md)
 
-[View a survey instance](../task/t_ViewSurveyInstance.md)
+[View a survey instance](t_ViewSurveyInstance.md)
 
 [Survey users and groups](c_SurveyUsersAndGroups.md)
 
-[Copy a survey](../task/copy-survey.md)
+[Copy a survey](copy-survey.md)
 
-[Publish a survey](../task/t_PublishASurvey.md)
+[Publish a survey](t_PublishASurvey.md)
 
-[Customize the appearance of a survey](../task/t_CustomizingAppearance.md)
+[Customize the appearance of a survey](t_CustomizingAppearance.md)
 
 [Survey definitions](c_SurveyDefinitions.md)
 
-[Create a survey designer template question](../task/t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
 
 [Survey questions](c_SurveyQuestion.md)
 
@@ -75,7 +75,7 @@ After a survey is submitted in a Virtual Agent conversation, a survey instance i
 
 [Survey distribution](c_SurveyDistribution.md)
 
-[Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
+[Outlook Actionable Messages](outlook-actionable-messages.md)
 
 [Sentiment analysis for surveys](sentiment-analysis.md)
 

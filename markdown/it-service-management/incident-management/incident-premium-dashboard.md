@@ -17,7 +17,7 @@ This dashboard uses Workbench widgets and other advanced Platform Analytics feat
 
 **Important:**
 
-Starting in Xanadu release, the Incident Premium dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) for Workbench widgets and other advanced Platform Analytics features to know about the Incident process in one place.
+Starting in Xanadu release, the Incident Premium dashboard is deprecated. Users can use [Incident management dashboard](../incident.md) for Workbench widgets and other advanced Platform Analytics features to know about the Incident process in one place.
 
 ![Incident Premium dashboard tabs](../image/incident-premium-tab-p.gif "Tabs of the Incident Premium dashboard")
 

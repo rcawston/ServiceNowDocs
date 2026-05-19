@@ -32,5 +32,5 @@ Role required: localization\_admin and script\_include\_admin
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Artifact configurations](../concept/framework-configuration.md)
+**Parent Topic:**[Artifact configurations](framework-configuration.md)
 

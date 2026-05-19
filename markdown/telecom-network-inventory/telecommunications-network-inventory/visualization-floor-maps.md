@@ -149,7 +149,7 @@ Rack view shows the visual representation of a rack. The Rack view also shows th
 </td></tr></tbody>
 </table>## Managing your floor map
 
-You can upload and manage the datacenter map objects using the Indoor Mapping Map Studio. You can view the respective floor plans for a selected building in a datacenter campus using the floor map. To learn more, see [Upload and manage floor map for your datacenter](../task/create-floor-map-data-center.md).
+You can upload and manage the datacenter map objects using the Indoor Mapping Map Studio. You can view the respective floor plans for a selected building in a datacenter campus using the floor map. To learn more, see [Upload and manage floor map for your datacenter](create-floor-map-data-center.md).
 
 ## Access
 

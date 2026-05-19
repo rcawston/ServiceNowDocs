@@ -125,5 +125,5 @@ The exposure type is listed in the **Exposure types** list and is saved in the E
 1.  Create exposure assessment records for all locations in your organization that this exposure type applies to. For more information, see [Create an exposure assessment for an exposure type](hs-create-exposure-assessment.md).
 2.  Perform exposure assessments across different locations for this exposure type. For more information, see [Perform an exposure assessment for a location](hs-perform-exposure-assessment.md).
 
-**Parent Topic:**[Safety exposure management](../concept/hs-safety-exposures.md)
+**Parent Topic:**[Safety exposure management](hs-safety-exposures.md)
 

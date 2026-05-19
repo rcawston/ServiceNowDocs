@@ -54,5 +54,5 @@ The following items are installed with Individual Life Claims:
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setting up Individual Life Claims](../concept/setting-up-individual-life-claims.md)
+**Parent Topic:**[Setting up Individual Life Claims](setting-up-individual-life-claims.md)
 

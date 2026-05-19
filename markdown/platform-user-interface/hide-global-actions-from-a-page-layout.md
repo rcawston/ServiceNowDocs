@@ -15,7 +15,7 @@ Configure a global form action to exclude a specified page or experience.
 
 ## Before you begin
 
-Add a UX Form Actions Layout to a workspace page in UI Builder. The UX Form Action Layout record configured on the workspace page must contain the form action you want to hide from the page. For instructions, see [Configure an action layout for a workspace page](../task/configure-da-action-layout.md).
+Add a UX Form Actions Layout to a workspace page in UI Builder. The UX Form Action Layout record configured on the workspace page must contain the form action you want to hide from the page. For instructions, see [Configure an action layout for a workspace page](configure-da-action-layout.md).
 
 Role required: admin
 

@@ -70,13 +70,13 @@ Phase 1 - Read the release notes and plan your upgrade
 
 </td></tr><tr><td>
 
-[1](task/upgrades-phase-1.md)
+[1](upgrades-phase-1.md)
 
 </td><td>
 
-Review the [Australia release notes](../family-release-notes.md) for the target ServiceNow feature release and patch, in addition to product and release documentation.
+Review the [Australia release notes](family-release-notes.md) for the target ServiceNow feature release and patch, in addition to product and release documentation.
 
- For Australia -specific upgrade considerations, see [Pre- and post-upgrade tasks for various products](reference/upgrade-and-migration-tasks.md).
+ For Australia -specific upgrade considerations, see [Pre- and post-upgrade tasks for various products](upgrade-and-migration-tasks.md).
 
 </td><td>
 
@@ -140,7 +140,7 @@ Confirm the instance hosting model. For example, ServiceNow cloud, on-premise, o
 
 </td><td>
 
-Based on the [Australia release notes](../family-release-notes.md) and other release materials, determine new functionality or notable changes that need to be validated after the upgrade.
+Based on the [Australia release notes](family-release-notes.md) and other release materials, determine new functionality or notable changes that need to be validated after the upgrade.
 
 </td><td>
 
@@ -180,7 +180,7 @@ Confirm plans to enable or disable features introduced in the new product releas
 
 </td><td>
 
-Review the [Browser support](../../administer/navigation-and-ui/reference/browser-support.md) to determine browser prerequisites. For example, versions and types supported, and additional requirements for new UI versions. Compare these supported browsers to your corporate standard and identify any gaps.
+Review the [Browser support](browser-support.md) to determine browser prerequisites. For example, versions and types supported, and additional requirements for new UI versions. Compare these supported browsers to your corporate standard and identify any gaps.
 
 </td><td>
 
@@ -466,7 +466,7 @@ There may be a service charge and require professional services engagement.
 
 </td></tr><tr><td>
 
-[20](task/upgrades-phase-2.md#Phase3Step1Clone)
+[20](upgrades-phase-2.md#Phase3Step1Clone)
 
 </td><td>
 
@@ -494,7 +494,7 @@ Phase 3 - Verify your upgrade configurations and schedule the development instan
 
 </td></tr><tr><td>
 
-[21](task/upgrades-phase-3.md#Phase3Step1CheckUpgradeJob)
+[21](upgrades-phase-3.md#Phase3Step1CheckUpgradeJob)
 
 </td><td>
 
@@ -514,7 +514,7 @@ Check the configuration of the **Check distribution for possible upgrade** sched
 
 </td></tr><tr><td>
 
-[22](task/upgrades-phase-3.md#Phase3Step2UpgradeSysTrigger)
+[22](upgrades-phase-3.md#Phase3Step2UpgradeSysTrigger)
 
 </td><td>
 
@@ -534,7 +534,7 @@ Verify that the **Check distribution for possible upgrade** sys\_trigger is set 
 
 </td></tr><tr><td>
 
-[23](task/upgrades-phase-3.md#Phase3Step3CheckUpgradeSysTrigger)
+[23](upgrades-phase-3.md#Phase3Step3CheckUpgradeSysTrigger)
 
 </td><td>
 
@@ -554,7 +554,7 @@ Verify that the **Check database for possible upgrade** sys\_trigger is set prop
 
 </td></tr><tr><td>
 
-[24](task/upgrades-phase-3.md#Phase3Step4ScheduleUpgrade)
+[24](upgrades-phase-3.md#Phase3Step4ScheduleUpgrade)
 
 </td><td>
 
@@ -574,7 +574,7 @@ Schedule the upgrade in Now Support.
 
 </td></tr><tr><td>
 
-[25](task/upgrades-phase-3.md#Phase3Step5RequestEnt)
+[25](upgrades-phase-3.md#Phase3Step5RequestEnt)
 
 </td><td>
 
@@ -598,7 +598,7 @@ Phase 4 - Upgrade and validate the development instance
 
 </td></tr><tr><td>
 
-[26](task/upgrades-phase-4.md#Phase4Step1Validate)
+[26](upgrades-phase-4.md#Phase4Step1Validate)
 
 </td><td>
 
@@ -618,7 +618,7 @@ Using the Upgrade Monitor, monitor the upgrade to your instance and validate tha
 
 </td></tr><tr><td>
 
-[27](task/upgrades-phase-4.md#Phase4Step2SkippedList)
+[27](upgrades-phase-4.md#Phase4Step2SkippedList)
 
 </td><td>
 
@@ -638,7 +638,7 @@ After the upgrade for your development instance is complete, [process the skippe
 
 </td></tr><tr><td>
 
-[28](task/upgrades-phase-4.md#Phase4Step3UpdateSets)
+[28](upgrades-phase-4.md#Phase4Step3UpdateSets)
 
 </td><td>
 
@@ -658,7 +658,7 @@ Identify your update sets.
 
 </td></tr><tr><td>
 
-[29](task/upgrades-phase-4.md#Phase4Step4FunctionalTesting)
+[29](upgrades-phase-4.md#Phase4Step4FunctionalTesting)
 
 </td><td>
 
@@ -682,7 +682,7 @@ Phase 5 - If applicable: Upgrade and validate your other non-production instance
 
 </td></tr><tr><td>
 
-[30](task/upgrades-phase-2.md#Phase3Step1Clone)
+[30](upgrades-phase-2.md#Phase3Step1Clone)
 
 </td><td>
 
@@ -702,7 +702,7 @@ On your production instance, create a system clone and select your development i
 
 </td></tr><tr><td>
 
-[31](task/upgrades-phase-5.md)
+[31](upgrades-phase-5.md)
 
 </td><td>
 
@@ -722,7 +722,7 @@ Schedule the non-production upgrade in Now Support and verify your upgrade confi
 
 </td></tr><tr><td>
 
-[32](task/upgrades-phase-5.md)
+[32](upgrades-phase-5.md)
 
 </td><td>
 
@@ -742,7 +742,7 @@ Validate that the upgrade to your non-production instance is complete.
 
 </td></tr><tr><td>
 
-[33](task/upgrades-phase-5.md)
+[33](upgrades-phase-5.md)
 
 </td><td>
 
@@ -762,7 +762,7 @@ Install any optional plugins that were installed on your development instance.
 
 </td></tr><tr><td>
 
-[34](task/upgrades-phase-5.md)
+[34](upgrades-phase-5.md)
 
 </td><td>
 
@@ -782,7 +782,7 @@ Install any custom applications and post-upgrade fix scripts that you need.
 
 </td></tr><tr><td>
 
-[35](task/upgrades-phase-5.md)
+[35](upgrades-phase-5.md)
 
 </td><td>
 
@@ -802,7 +802,7 @@ Install update sets.
 
 </td></tr><tr><td>
 
-[36](task/upgrades-phase-5.md)
+[36](upgrades-phase-5.md)
 
 </td><td>
 
@@ -980,7 +980,7 @@ Responsible: Customer
 
 </td></tr><tr><td>
 
-[44](task/upgrades-phase-6.md#Phase6Step1BenchmarkPerf)
+[44](upgrades-phase-6.md#Phase6Step1BenchmarkPerf)
 
 </td><td>
 
@@ -1000,7 +1000,7 @@ Profile the performance of your instance before upgrading.
 
 </td></tr><tr><td>
 
-[45](task/upgrades-phase-6.md#Phase6Step2PerfDashboard)
+[45](upgrades-phase-6.md#Phase6Step2PerfDashboard)
 
 </td><td>
 
@@ -1020,7 +1020,7 @@ Use the ServiceNow Performance homepage to document the performance of your inst
 
 </td></tr><tr><td>
 
-[46](task/upgrades-phase-6.md#Phase6Step3FunctionalTesting)
+[46](upgrades-phase-6.md#Phase6Step3FunctionalTesting)
 
 </td><td>
 
@@ -1044,7 +1044,7 @@ Phase 7 - Upgrade the production instance
 
 </td></tr><tr><td>
 
-[47](task/upgrades-phase-7.md#Phase7Step1ScheduleUpgrade)
+[47](upgrades-phase-7.md#Phase7Step1ScheduleUpgrade)
 
 </td><td>
 
@@ -1064,7 +1064,7 @@ Schedule the upgrade in Now Support.
 
 </td></tr><tr><td>
 
-[48](task/upgrades-phase-7.md#Phase7Step2RequestEntitlement)
+[48](upgrades-phase-7.md#Phase7Step2RequestEntitlement)
 
 </td><td>
 
@@ -1084,7 +1084,7 @@ If applicable, request a version entitlement.
 
 </td></tr><tr><td>
 
-[49](task/upgrades-phase-7.md#Phase7Step3VerifyUpgrade)
+[49](upgrades-phase-7.md#Phase7Step3VerifyUpgrade)
 
 </td><td>
 
@@ -1104,7 +1104,7 @@ Monitor the upgrade to your instance and validate that the upgrade to your produ
 
 </td></tr><tr><td>
 
-[50](task/upgrades-phase-7.md#Phase7Step4UpdateSets)
+[50](upgrades-phase-7.md#Phase7Step4UpdateSets)
 
 </td><td>
 
@@ -1124,7 +1124,7 @@ Apply any update sets and post-upgrade fix scripts that you have.
 
 </td></tr><tr><td>
 
-[51](task/upgrades-phase-7.md#Phase7Step5ValidateTest)
+[51](upgrades-phase-7.md#Phase7Step5ValidateTest)
 
 </td><td>
 

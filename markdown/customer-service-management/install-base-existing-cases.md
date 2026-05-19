@@ -20,5 +20,5 @@ var installBaseMigrationUtil = new sn_install_base.InstallBaseMigrationUtils();â
 installBaseMigrationUtil.populateInstallBaseOnCases(); 
 ```
 
-The migration script populates cases with the install base information, only if the case is associated with the install base item. To associate a case to an install base item, see [Associate multiple install base items to a case](../task/associate-multiple-install-base-items-case.md).
+The migration script populates cases with the install base information, only if the case is associated with the install base item. To associate a case to an install base item, see [Associate multiple install base items to a case](associate-multiple-install-base-items-case.md).
 

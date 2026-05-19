@@ -74,5 +74,5 @@ Describe your query. Based on your input here, related search results are displa
 
 A procurement case of type Inquiry is created under **Procurement Cases** in Source-to-Pay Workspace, which is assigned to a fulfiller. The fulfiller can then help you with your inquiry.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](../concept/employee-center-integration-psm.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](employee-center-integration-psm.md)
 

@@ -28,7 +28,7 @@ Role required: sn\_align\_ws.spw\_capacity\_user
 
 2.  Select the **Manage resource capacity** option \(![Manage resource capacity option.](../../spw-capacity-planning/images/cp-manage-resource-capacity-icon.png)\).
 
-    **Note:** If planning attributes aren’t enabled for capacity planning, you see an empty state screen with an option to configure. Contact your admin to enable planning attributes for capacity planning. For more information, see [enable planning attributes for capacity planning](../../spw-capacity-planning/task/cp-enable-planning-attributes-spw.md).
+    **Note:** If planning attributes aren’t enabled for capacity planning, you see an empty state screen with an option to configure. Contact your admin to enable planning attributes for capacity planning. For more information, see [enable planning attributes for capacity planning](../scenario-planning-in-spw/cp-enable-planning-attributes-spw.md).
 
 3.  Use one the following options to view and regenerate the capacity details.
 

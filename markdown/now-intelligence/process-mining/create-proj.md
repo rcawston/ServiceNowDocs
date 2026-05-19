@@ -33,7 +33,7 @@ Configure a project definition that displays visualized, interactive routes of f
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Project definition form](../reference/new-project-def.md).
+    For a description of the field values, see [Project definition form](new-project-def.md).
 
 4.  Select **Save**.
 
@@ -46,16 +46,16 @@ Define the kind of data or process that you want to view and analyse in your gra
 Report on steps that occur within your business process.
 -   **[Configure a breakdown definition](configure-breakdown.md)**  
 Add a breakdown to filter records and analyze a process map by categories.
--   **[Configuring improvement opportunities](../concept/configuring-finding-definitions.md)**  
+-   **[Configuring improvement opportunities](configuring-finding-definitions.md)**  
 Configure an improvement opportunities to view the insights on the Summary and insights page.
 -   **[Import improvement opportunities](import-finding-definitions.md)**  
 Import improvement opportunities as templates into the project associated with the table. Improvement opportunities from the parent table that are in Active state are available for import. If you don’t import the improvement opportunities from the process table, the improvement opportunities aren’t used during project mining.
 -   **[Mine a project](generate-process-map.md#)**  
 After you’ve configured the data you want to visualize, you can begin mining the project.
--   **[Schedule a Process Mining job](../reference/schedule-mining-job.md)**  
+-   **[Schedule a Process Mining job](schedule-mining-job.md)**  
 Schedule a Process Mining job to mine one or more projects later.
 -   **[Manage a project](edit-project.md#)**  
 Edit or delete a project from the Project Definition form. Delete a project if you are not using it and want to clean up data. Deleting a project deletes the project's configurations and versions or projects it has generated.
 
-**Parent Topic:**[Using Process Mining](../concept/use-process-mining.md)
+**Parent Topic:**[Using Process Mining](use-process-mining.md)
 

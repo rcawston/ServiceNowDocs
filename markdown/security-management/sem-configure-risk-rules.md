@@ -13,7 +13,7 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 Configure roll-up calculator rules to compute the cumulative risk score for remediation tasks and imported vulnerabilities.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 

@@ -17,9 +17,9 @@ You can optimize Discovery properties to adjust throughput and enhance safety wh
 
 |Issue|Action|Related task|
 |-----|------|------------|
-|Your instance is slow|Decrease the scale factor|[Adjust the scale factor for Event Framework jobs](../task/t_AjustScaleFactorEF.md)|
-|Discovery is slow|Increase the scale factor|[Adjust the scale factor for Event Framework jobs](../task/t_AjustScaleFactorEF.md)|
-|Discovery is slow when both Cloud and IP Discovery are running|Use a single queue for both Cloud and IP-based events|[Configure a single queue for Cloud-based and IP-based events](../task/t_CombineCloudIPJobQueueEF.md)|
-|Discovery is preempting other work|Reduce the worker priority of the background job|[Configure the job priority of background workers for Event Framework](../task/t_ConfigureBackgroundWorkerJobPriorityEF.md)|
-|Nodes are executing too many Discovery jobs simultaneously|Configure event processors to execute on specific nodes|[Configure event processors to execute on specific nodes](../task/t_ConfigureEventProcessorsEF.md)|
+|Your instance is slow|Decrease the scale factor|[Adjust the scale factor for Event Framework jobs](t_AjustScaleFactorEF.md)|
+|Discovery is slow|Increase the scale factor|[Adjust the scale factor for Event Framework jobs](t_AjustScaleFactorEF.md)|
+|Discovery is slow when both Cloud and IP Discovery are running|Use a single queue for both Cloud and IP-based events|[Configure a single queue for Cloud-based and IP-based events](t_CombineCloudIPJobQueueEF.md)|
+|Discovery is preempting other work|Reduce the worker priority of the background job|[Configure the job priority of background workers for Event Framework](t_ConfigureBackgroundWorkerJobPriorityEF.md)|
+|Nodes are executing too many Discovery jobs simultaneously|Configure event processors to execute on specific nodes|[Configure event processors to execute on specific nodes](t_ConfigureEventProcessorsEF.md)|
 

@@ -68,7 +68,7 @@ Role required: sn\_si.analyst in the ServiceNow AI Platform for completing a suc
     10. Follow the steps described in [Recover deleted items or email in Outlook Web App](https://support.office.com/en-us/article/recover-deleted-items-or-email-in-outlook-web-app-c3d8fc15-eeef-4f1c-81df-e27964b7edd4?ui=en-US&rs=en-US&ad=US) on the Microsoft documentation website.
 
 
-**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+**Parent Topic:**[Microsoft Exchange Online integration](ms-exchange-online-lookups.md)
 
 **Previous topic:**[Approve delete email requests for the Microsoft Exchange Online integration](ms-approve-delete.md)
 

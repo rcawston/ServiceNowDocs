@@ -74,7 +74,7 @@ Integration Job Tracker\[sn\_hr\_integr\_fw\_job\_tracker\]
 
 </td><td>
 
-Stores source job details, such as start time, run end time, and state. For more information, see [View job tracker details](../task/hr-integration-job-tracker.md).
+Stores source job details, such as start time, run end time, and state. For more information, see [View job tracker details](hr-integration-job-tracker.md).
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Integration Service Job Tracker\[sn\_hr\_integr\_fw\_service\_job\_tracker\]
 
 </td><td>
 
-Stores service job details such as start time, end time, and state. For more information, see [View job tracker details](../task/hr-integration-job-tracker.md).
+Stores service job details such as start time, end time, and state. For more information, see [View job tracker details](hr-integration-job-tracker.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Pulled Integration To-do\[sn\_hr\_integr\_fw\_todo\_inbound\]
 
 </td><td>
 
-Stores tasks that are pulled from the third-party system into Enterprise Service Management Integrations Framework. For more information, see [View tasks of a third-party system](../task/display-todos.md).
+Stores tasks that are pulled from the third-party system into Enterprise Service Management Integrations Framework. For more information, see [View tasks of a third-party system](display-todos.md).
 
 </td></tr><tr><td>
 
@@ -101,5 +101,5 @@ External Interface\[sn\_hr\_integr\_fw\_ext\_interface\]
 Stores modified records that are pushed from a ServiceNow application into a third-party system.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Service Management Integrations Framework reference](../task/ent-service-mgmt-int-framework-reference.md)
+</table>**Parent Topic:**[Enterprise Service Management Integrations Framework reference](ent-service-mgmt-int-framework-reference.md)
 

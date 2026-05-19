@@ -195,15 +195,15 @@ Feeds configured with custom parsers.**Note:** Only URLs, domains, file names, h
 </td></tr></tbody>
 </table>For configuration steps, refer to the respective topic for your feed type.
 
--   **[Configure a new threat intelligence feed](../task/tisc-new-data-source.md)**  
+-   **[Configure a new threat intelligence feed](tisc-new-data-source.md)**  
 Add external threat intelligence sources to your TISC environment. Configure feed parameters, authentication, scheduling, and data processing to automatically ingest threat indicators from various sources.
--   **[Configure Custom Field Mapping](../task/tisc-field-mapping.md)**  
+-   **[Configure Custom Field Mapping](tisc-field-mapping.md)**  
 Field Mapping allows you to configure how each field in a data feed such as Text, CSV or JSON is interpreted and assigned to the corresponding observable.
 -   **[View Threat Intel Feeds](base-system-threat-intel-feeds.md)**  
 View threat intelligence feeds that automatically imports security data into your TISC ServiceNow instance. This enables real-time threat detection and response capabilities.
 -   **[About STIX TAXII](threat-intelligence-security-center-feeds.md)**  
 Structured Threat Information Expression \(STIX\) is a language and serialization format used to exchange cyberthreat intelligence \(CTI\). Trusted Automated Exchange of Intelligence Information \(TAXII\) is a protocol used to exchange cyberthreat intelligence \(CTI\) over HTTPS.
--   **[Duplicate threat intelligence feeds](../task/tisc-duplicate-feeds.md)**  
+-   **[Duplicate threat intelligence feeds](tisc-duplicate-feeds.md)**  
 Duplicate a threat feed to create an exact copy with all associated observables, indicators, and actors when you want to modify settings without affecting the original feed.
 
 **Parent Topic:**[Integrate](integrating-threat-intelligence-security-center.md)

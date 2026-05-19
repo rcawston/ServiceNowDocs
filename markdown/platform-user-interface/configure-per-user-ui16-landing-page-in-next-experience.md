@@ -48,5 +48,5 @@ Next Experience landing pages provide the information you need to start working.
 
 The user sees the specified landing page when they log on to ServiceNow® or when they select the company logo.
 
-**Parent Topic:**[Next Experience landing pages](../concept/next-experience-landing-pages.md)
+**Parent Topic:**[Next Experience landing pages](next-experience-landing-pages.md)
 

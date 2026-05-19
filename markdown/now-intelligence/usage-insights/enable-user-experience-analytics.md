@@ -33,5 +33,5 @@ Usage Insights is enabled by default for all applications.
 -   **[Enable Usage Insights for specific applications](config-analytics-settings.md)**  
 You can enable or turn off Usage Insights for specific Core UI, Next Experience, and Mobile applications on the Usage Insights Settings table.
 
-**Parent Topic:**[Configuring Usage Insights](../content-framework/create/configuring-user-exp-analytics.md)
+**Parent Topic:**[Configuring Usage Insights](configuring-user-exp-analytics.md)
 

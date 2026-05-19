@@ -61,7 +61,7 @@ Refer to the following guidance to troubleshoot common validation issues when su
 -   Validation report is difficult to interpret: The report lacks context or field labels are unclear. Download the template and use it to cross-reference the row number, sheet name, and record identifier. This helps locate the affected record and understand the validation error in context.
 -   File size or encoding issues: The uploaded ZIP file exceeds the 5 MB limit or uses unsupported encoding. Compress the file to meet the size requirement and ensure all CSV files use UTF-8 encoding. Re-upload the corrected package.
 
-For more information, see [Validate the Register of Information packages](../task/opres-drtp-validate-roi.md).
+For more information, see [Validate the Register of Information packages](opres-drtp-validate-roi.md).
 
 **Parent Topic:**[Exploring Digital resilience third-party registers](exploring-digi-resi-third-party-registers.md)
 

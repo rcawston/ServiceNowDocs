@@ -35,7 +35,7 @@ For more information, see [Request IntegrationHub](https://raw.githubusercontent
 
 To configure the MSIM Conference Call Cisco Webex integration using the Notify communication channel, see [Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-cisco-webex-notify.md).
 
--   **[Use the Conference Calls Cisco Webex integration](../task/using-conf-call-webex-integration.md)**  
+-   **[Use the Conference Calls Cisco Webex integration](using-conf-call-webex-integration.md)**  
 The following steps give you a walkthrough of how you can manage and initiate a Cisco Webex conference call directly from a major security incident.
 
 **Parent Topic:**[Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
@@ -43,13 +43,13 @@ The following steps give you a walkthrough of how you can manage and initiate a 
 **Related topics**  
 
 
-[Start a conference call](../task/start-conference-call.md)
+[Start a conference call](start-conference-call.md)
 
-[Add participants to a conference call](../task/add-participants-conference-call.md)
+[Add participants to a conference call](add-participants-conference-call.md)
 
-[Mute participants in a conference call](../task/mute-unmute-participants.md)
+[Mute participants in a conference call](mute-unmute-participants.md)
 
-[View conference call details](../task/view-conference-call-details.md)
+[View conference call details](view-conference-call-details.md)
 
 [Integrate MSIM Conference Calls with Microsoft Teams](integrate-msim-conf-call-ms-teams.md)
 

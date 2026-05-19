@@ -35,7 +35,7 @@ The Privacy Management application helps you to manage multiple privacy regulati
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-profile.svg) Get details about components like tables and roles.](../reference/privacy-mgmt-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-profile.svg) Get details about components like tables and roles.](privacy-mgmt-reference.md)
 
 </td><td>
 

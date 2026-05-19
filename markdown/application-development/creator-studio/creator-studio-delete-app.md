@@ -17,7 +17,7 @@ Delete an app to remove it from Creator Studio.
 
 ## Before you begin
 
-To delete an app, you must be given permission to delete apps. For more information, see [Customized app collaboration permissions in Creator Studio](../reference/creator-studio-collab-custom-permissions.md).
+To delete an app, you must be given permission to delete apps. For more information, see [Customized app collaboration permissions in Creator Studio](creator-studio-collab-custom-permissions.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ To delete an app, you must be given permission to delete apps. For more informat
 
 The app is removed from Creator Studio, but if it was deployed, the deployed app is still available.
 
-**Parent Topic:**[App creation in Creator Studio](../concept/creator-studio-creating-apps.md)
+**Parent Topic:**[App creation in Creator Studio](creator-studio-creating-apps.md)
 

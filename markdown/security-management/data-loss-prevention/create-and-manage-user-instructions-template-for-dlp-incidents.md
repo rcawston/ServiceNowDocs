@@ -124,13 +124,13 @@ Add instructions in the rich text editor with variables available at an incident
 
     The user instructions templates are now created and you can click on any user instruction header to know the additional details of a DLP incident.
 
-    For more information, see [Data Loss Prevention Incident Response User Workspace](../concept/using-dlp-end-user-portal.md).
+    For more information, see [Data Loss Prevention Incident Response User Workspace](using-dlp-end-user-portal.md).
 
 
 -   **[Configure DLP UI user instructions](configure-dlp-ui-user-instructions.md)**  
 Configure the system UI messages to add detailed user instruction headers as required.
 
-**Parent Topic:**[DLP Incident Response Administration](../concept/data-loss-prevention-administration.md)
+**Parent Topic:**[DLP Incident Response Administration](data-loss-prevention-administration.md)
 
 **Related topics**  
 
@@ -167,13 +167,13 @@ Configure the system UI messages to add detailed user instruction headers as req
 
 [Create additional incident data fields](create-custom-fields-dlp.md)
 
-[DLP SLA Definition form](../reference/dlp-sla-def-properties.md)
+[DLP SLA Definition form](dlp-sla-def-properties.md)
 
 [Configure advanced settings](configure-advanced-settings-dlp.md)
 
-[Monitor DLP Integration Run process](../../dlp-microsoft/concept/configure-microsoft-dlp-integration-run-process.md)
+[Monitor DLP Integration Run process](configure-microsoft-dlp-integration-run-process.md)
 
-[DLP Incident Access Restrictions](../concept/dlp-incident-access-restrictions.md)
+[DLP Incident Access Restrictions](dlp-incident-access-restrictions.md)
 
 [DLP Incidents Archival](dlp-archiving-rule.md)
 

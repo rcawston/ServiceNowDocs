@@ -19,7 +19,7 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 ## Procedure
 
-1.  Open KPI Details for a native Data snapshots indicator, as described in [View KPI Details](../../performance-analytics/task/view-kpi-details.md).
+1.  Open KPI Details for a native Data snapshots indicator, as described in [View KPI Details](view-kpi-details.md).
 
 2.  Open the **Properties** panel.
 
@@ -34,16 +34,16 @@ Role required: None. However, upgraded instances may require pa\_viewer.
     |Enable abbreviation|Option to use an alphabetical abbreviation. For example, M to represent million.|
 
 
-**Parent Topic:**[Examining indicators with KPI Details](../reference/kpi-details-components.md)
+**Parent Topic:**[Examining indicators with KPI Details](kpi-details-components.md)
 
 **Related topics**  
 
 
-[View contributing indicators to a formula in KPI Details](../concept/view-formula-components.md)
+[View contributing indicators to a formula in KPI Details](view-formula-components.md)
 
-[Show, compare, create, and edit records in KPI Details](../concept/show-compare-edit-records.md#)
+[Show, compare, create, and edit records in KPI Details](show-compare-edit-records.md#)
 
-[Chart options in KPI Details](../reference/chart-options.md)
+[Chart options in KPI Details](chart-options.md)
 
 [Select time aggregation in KPI Details](select-time-series-aggregation.md)
 

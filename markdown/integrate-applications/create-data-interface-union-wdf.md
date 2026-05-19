@@ -19,7 +19,7 @@ Before you begin, verify the following:
 
 -   All source tables are discoverable in the Data Catalog.
 -   The source tables have compatible schemas. Columns that you map to the same target column must have compatible data types.
--   For tables in external systems, a zero copy connector for each system is configured in Connect Hub. For setup instructions, see the [Zero copy connectors documentation](../../../build/zero-copy-connectors/concept/zero-copy-connectors.md).
+-   For tables in external systems, a zero copy connector for each system is configured in Connect Hub. For setup instructions, see the [Zero copy connectors documentation](zero-copy-connectors.md).
 -   Role required: df\_data\_steward
 
 ## Procedure
@@ -97,5 +97,5 @@ The data interface is published and visible in Data Workbench. After the metadat
 
 To package this data interface into a data product, see [Create a data product](create-data-product-wdf.md).
 
-**Parent Topic:**[Managing data interfaces](../concept/manage-data-interfaces_wdf.md)
+**Parent Topic:**[Managing data interfaces](manage-data-interfaces_wdf.md)
 

@@ -37,8 +37,8 @@ You can manually archive email messages that meet these archive rules or any add
 
 4.  Select **Run Archive Now**.
 
-    **Note:** You can also [Create an archive rule](../../database-rotation/task/t_CreateAnArchiveRule.md#).
+    **Note:** You can also [Create an archive rule](t_CreateAnArchiveRule.md#).
 
 
-**Parent Topic:**[Email retention](../concept/email-retention.md)
+**Parent Topic:**[Email retention](email-retention.md)
 

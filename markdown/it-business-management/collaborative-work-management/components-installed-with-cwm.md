@@ -402,5 +402,5 @@ MyWork Table Mapping
 Stores information of tasks shown in My Work such as dates, states, and assigned users.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Collaborative Work Management reference](../concept/reference-cwm.md)
+</table>**Parent Topic:**[Collaborative Work Management reference](reference-cwm.md)
 

@@ -20,7 +20,7 @@ The Australia EA Hotfix 1 release contains fixes to these problems.
     Build tag: glide-australia-02-11-2026\_\_patch0-hotfix1-03-16-2026
 
 
-**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](../upgrades/reference/upgrade.md).
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -72,5 +72,5 @@ Unless any exceptions are noted, you can safely upgrade to this release version 
 -   [Australia security and notable fixes](australia-security-notables.md)
 -   [All other Australia fixes](australia-all-other-fixes.md)
 
-**Parent Topic:**[Available patches and hotfixes](../available-versions.md)
+**Parent Topic:**[Available patches and hotfixes](available-versions.md)
 

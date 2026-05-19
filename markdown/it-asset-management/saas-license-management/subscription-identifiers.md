@@ -22,7 +22,7 @@ Subscription identifiers uniquely identify your SaaS and SSO applications. Each 
 **Related topics**  
 
 
-[Request SaaS License Management](../task/request-saas-license-management.md)
+[Request SaaS License Management](request-saas-license-management.md)
 
 [SaaS License Management setup for large companies](saas-setup-large-companies.md)
 
@@ -36,21 +36,21 @@ Subscription identifiers uniquely identify your SaaS and SSO applications. Each 
 
 [Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
 
-[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)
+[Review a software reclamation rule](add-reclamation-rule-sub.md)
 
 [Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)
 
-[Create a child alias to set up multiple Cisco Webex integration profiles](../task/create-child-alias-webex.md)
+[Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)
 
-[Create a child alias to set up multiple Confluence Cloud integration profiles](../task/create-child-alias-confluence.md)
+[Create a child alias to set up multiple Confluence Cloud integration profiles](create-child-alias-confluence.md)
 
-[Create a child alias to set up multiple Jira integration profiles](../task/create-child-alias-jira.md)
+[Create a child alias to set up multiple Jira integration profiles](create-child-alias-jira.md)
 
-[Associate a user with subscription records](../task/map-user-data.md)
+[Associate a user with subscription records](map-user-data.md)
 
-[Disconnect SSO apps](../task/disconnect-azure-ad-apps.md)
+[Disconnect SSO apps](disconnect-azure-ad-apps.md)
 
 [Delete an integration profile](delete-saas-integration.md)
 
@@ -138,7 +138,7 @@ The ServiceNow AI Platform marks a subscription identifier as unrecognized when 
 
 1.  Send unrecognized subscription identifiers back to the ServiceNow content team by opting in to the Software Asset Management content service.
 
-    When you opt in to the Software Asset Management content service, verify that the **Unrecognized Subscription Identifier** KPI is enabled. See [Enable sharing information with Software Asset Management content service](../task/t_EnableSAMContentService.md) for detailed instructions.
+    When you opt in to the Software Asset Management content service, verify that the **Unrecognized Subscription Identifier** KPI is enabled. See [Enable sharing information with Software Asset Management content service](../software-asset-management/t_EnableSAMContentService.md) for detailed instructions.
 
 2.  Navigate to **SaaS License** &gt; **Unrecognized Subscription Identifiers**.
 

@@ -15,7 +15,7 @@ Analyze adaptive authentication metrics to monitor and add insights on how adapt
 
 View reports, settings, and policies associated with adaptive authentication in on place using the adaptive authentication metrics page. Security administrators can use reports to monitor the results of their adaptive authentication policies. Use this data to gain insights and adapt your policies to improve their performance.
 
-**Note:** The adaptive authentication metrics page requires the **Adaptive Authentication** \(com.snc.adaptive\_authentication\) plugin. For more details about this feature, see [Adaptive authentication](../../../integrate/authentication/concept/adaptive-authentication.md).
+**Note:** The adaptive authentication metrics page requires the **Adaptive Authentication** \(com.snc.adaptive\_authentication\) plugin. For more details about this feature, see [Adaptive authentication](authentication/adaptive-authentication.md).
 
 ## Metrics
 
@@ -35,11 +35,11 @@ Use the **Show** list to select a time span for the displayed reports
 
 ## Adaptive Auth Policies
 
-Use the **Adaptive Auth Policies** tab to view the adaptive authentication policies and policy contexts on your instance. Click on any entry on these lists to view the associated record. For more details on these records, see [Adaptive authentication](../../../integrate/authentication/concept/adaptive-authentication.md)
+Use the **Adaptive Auth Policies** tab to view the adaptive authentication policies and policy contexts on your instance. Click on any entry on these lists to view the associated record. For more details on these records, see [Adaptive authentication](authentication/adaptive-authentication.md)
 
 ## Settings
 
-Use the settings tab to view and configure adaptive authentication system properties. For more information on these properties, see [Configure adaptive authentication properties](../../../integrate/authentication/task/configure-adaptive-auth-properties.md)
+Use the settings tab to view and configure adaptive authentication system properties. For more information on these properties, see [Configure adaptive authentication properties](authentication/configure-adaptive-auth-properties.md)
 
 **Parent Topic:**[Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
 

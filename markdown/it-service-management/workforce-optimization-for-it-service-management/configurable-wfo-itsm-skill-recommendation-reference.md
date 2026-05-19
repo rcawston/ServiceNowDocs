@@ -180,5 +180,5 @@ Task Predicted Skill \[sn\_sre\_task\_predicted\_skill\]
 -   Tables created over 60 days ago are automatically deleted from this table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](../concept/skills-management-wfo-itsm.md)
+</table>**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](skills-management-wfo-itsm.md)
 

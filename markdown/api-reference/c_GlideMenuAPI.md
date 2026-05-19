@@ -20,7 +20,7 @@ There is no constructor for the GlideMenu class. Access GlideMenu methods using 
 -   `g_menu` is the UI context menu that is about to be shown. The `onShow` script can make changes to the appearance of the menu before it is displayed using these methods.
 -   `g_item` is the current UI context menu item that is about to be shown. It is used in several of the g\_menu methods to specify an item.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideMenu - clearImage\(GlideMenuItem item\)
 

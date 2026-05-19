@@ -124,7 +124,7 @@ authenticate
 
 </td><td>
 
-Authenticates a user based on the PIN. For information on PIN configuration, see [Configuring a phone PIN](../concept/set-pin-ccc.md#).
+Authenticates a user based on the PIN. For information on PIN configuration, see [Configuring a phone PIN](set-pin-ccc.md#).
 
 </td></tr><tr><td>
 

@@ -15,7 +15,7 @@ Schedule appointments with customers and stakeholders directly from a touchpoint
 
 ## Before you begin
 
-You can create appointments only after creating a lead or opportunity task. For information on how to create an opportunity task from the Touchpoints module, see [Create a related task from a touchpoint](create-touchpoint-related-tasks.md). Alternatively, you can create an opportunity task from the Opportunity module in the CSM/FSM Configurable Workspace. For details, see [Add opportunity tasks](../concept/opportunity-management-tasks-tab.md) and [Add lead tasks](lead-management-use-tasks-tab.md).
+You can create appointments only after creating a lead or opportunity task. For information on how to create an opportunity task from the Touchpoints module, see [Create a related task from a touchpoint](create-touchpoint-related-tasks.md). Alternatively, you can create an opportunity task from the Opportunity module in the CSM/FSM Configurable Workspace. For details, see [Add opportunity tasks](opportunity-management-tasks-tab.md) and [Add lead tasks](lead-management-use-tasks-tab.md).
 
 Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
@@ -45,8 +45,8 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
     |CRM entity|Form field descriptions|
     |----------|-----------------------|
-    |**Lead**|[Create new appointment form](../reference/create-lead-appointment-form.md)|
-    |**Opportunity**|[Create new appointment form](../reference/create-appointments-form.md)|
+    |**Lead**|[Create new appointment form](create-lead-appointment-form.md)|
+    |**Opportunity**|[Create new appointment form](create-appointments-form.md)|
 
 10. Select **Save**.
 
@@ -55,5 +55,5 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 The appointment is scheduled and can be viewed from the touchpoint record's **Appointments** tab.
 
-**Parent Topic:**[Using Activity Management](../concept/using-activity-management.md)
+**Parent Topic:**[Using Activity Management](using-activity-management.md)
 

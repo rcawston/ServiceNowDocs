@@ -32,5 +32,5 @@ Role required: sn\_bcm.admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

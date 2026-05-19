@@ -57,5 +57,5 @@ Add filter components to the UI Builder page and configure them for relevant val
 **Related topics**  
 
 
-[Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md)
+[Filters in Platform Analytics](interactive-filters-workspace.md)
 

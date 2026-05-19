@@ -25,11 +25,11 @@ A component triggers an event when a certain condition is met or on user interac
 **Related topics**  
 
 
-[Configure the Knowledge article view component instance](../task/config-know-article-view-comp.md)
+[Configure the Knowledge article view component instance](customer-self-service-and-omnichannel-engagement/config-know-article-view-comp.md)
 
-[Embed the Knowledge article view component instance on the third-party website](../task/embed-know-article-view-comp.md)
+[Embed the Knowledge article view component instance on the third-party website](customer-self-service-and-omnichannel-engagement/embed-know-article-view-comp.md)
 
 [Component properties for the Knowledge article view](we-know-article-view-comp-prop.md)
 
-[Sample code for the Knowledge article view component](we-know-article-view-sample-code.md)
+[Sample code for the Knowledge article view component](customer-self-service-and-omnichannel-engagement/we-know-article-view-sample-code.md)
 

@@ -82,5 +82,5 @@ All of these changes are withing the application changeset.
 **Related topics**  
 
 
-[Sharing components among applications — Component libraries](../concept/cdm-component-libraries.md)
+[Sharing components among applications — Component libraries](cdm-component-libraries.md)
 

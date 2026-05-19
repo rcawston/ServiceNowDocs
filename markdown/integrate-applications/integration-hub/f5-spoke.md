@@ -77,7 +77,7 @@ The F5 BIG-IP spoke provides actions to automate F5 tasks when events occur in S
 
 ## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -131,11 +131,11 @@ Connection to the F5 BIG-IP system.
 -   Connection URL: URL of the host machine where the F5 server is installed.
 
 </td></tr></tbody>
-</table>To use the spoke connection alias, create an associated Connection record and an associated Credential record. For information about setting up the spoke, see [Configure a connection for the F5 BIG-IP spoke](../task/set-up-f5.md).
+</table>To use the spoke connection alias, create an associated Connection record and an associated Credential record. For information about setting up the spoke, see [Configure a connection for the F5 BIG-IP spoke](set-up-f5.md).
 
 ## MID Server requirements
 
 These actions use REST calls that can run either on an instance or, optionally, through a MID Server. Use the connection record associated with the F5 BIG-IP alias to configure where actions run and, if needed, specify MID Server selection attributes. For more information, see [MID server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md).
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

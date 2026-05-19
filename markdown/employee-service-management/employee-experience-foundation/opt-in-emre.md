@@ -43,7 +43,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
     3.  Save the form.
 
-        You are opted to mobile experience. To view the requests on your mobile, refer to [Enhanced Requests Experience on Now Mobile](../concept/enhanced-req-exp-ec-mobile.md).
+        You are opted to mobile experience. To view the requests on your mobile, refer to [Enhanced Requests Experience on Now Mobile](enhanced-req-exp-ec-mobile.md).
 
 
 ## Result

@@ -67,7 +67,7 @@ Role required: itil, sn\_change\_write, or admin
 **Related topics**  
 
 
-[Mass Update CI](../concept/bulk-ci-change.md)
+[Mass Update CI](bulk-ci-change.md)
 
 [Activate Change Management - Mass Update CI](t_ActivateChangeManagementBulkCI.md)
 

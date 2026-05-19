@@ -140,8 +140,8 @@ App secret of the map provider \(Mappedin\). Available only if you have installe
 
     **Note:** The **CustomMapConfigId** is mapped with sys Id of mapped reservations of Indoor Mapping and Mappedin. To get Indoor Mapping maps, users must update **CustomMapDefaultProviderId** and **CustomMapConfigId** in both **location\_custom\_map** and **locations\_custom\_map**. The **CustomMapDefaultProviderId** is the sys Id of Indoor Mapping associated record in the custom map provider. For more information, see [Enable map view to create reservations](enable-map-view-mobile-reservations.md).
 
-    For more information on how to select a map provider map properties, see [Customize the map properties](../../workplace-space-mapping/task/wsm-configure-map-properties.md).
+    For more information on how to select a map provider map properties, see [Customize the map properties](../wsm-configure-map-properties.md).
 
 
-**Parent Topic:**[Mobile Wayfinding Administration](../concept/mobile-wayfinding.md)
+**Parent Topic:**[Mobile Wayfinding Administration](mobile-wayfinding.md)
 

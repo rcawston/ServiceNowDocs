@@ -15,7 +15,7 @@ breadcrumb: [Cart layout, Service Catalog customization, Types of catalog items,
 
 You can configure shopping cart status screens for desktop and Classic Mobile orders.
 
-**Parent Topic:**[Cart layout](../concept/c_ConfigureCartLayout.md)
+**Parent Topic:**[Cart layout](c_ConfigureCartLayout.md)
 
 ## Configure desktop order status screen
 

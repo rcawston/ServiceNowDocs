@@ -33,7 +33,7 @@ For example, once a security incident is linked to MSI, the related information 
 **Related topics**  
 
 
-[Configure Linked Records in Major Security Incident Management](../task/configuring-linked-records-in-major-security-incident-management.md)
+[Configure Linked Records in Major Security Incident Management](configuring-linked-records-in-major-security-incident-management.md)
 
 [Configure Rollup Records in Major Security Incident Management](roll-up-record-configuration-in-major-security-incident-management.md)
 

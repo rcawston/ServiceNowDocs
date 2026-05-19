@@ -21,10 +21,10 @@ Make sure that you have created a scenario, and it is in the Draft state. For mo
 
 Make sure that you have selected Indoor Mapping as your map provider to view maps.
 
--   For more information about selecting a map provider, see [Customize the map properties](../../workplace-space-mapping/task/wsm-configure-map-properties.md).
--   For more information about indoor mapping, see [Indoor Mapping](../../wsd-indoor-mapping/reference/Indoor-mapping.md).
+-   For more information about selecting a map provider, see [Customize the map properties](../wsm-configure-map-properties.md).
+-   For more information about indoor mapping, see [Indoor Mapping](../indoor-mapping/Indoor-mapping.md).
 
-**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](../../workplace-space-management/concept/reviewing-allocation-changes.md).
+**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](../workplace-space-management/reviewing-allocation-changes.md).
 
 ![Space details panel displaying a warning about reviewing allocation changes.](../images/wsd-central-review-changes.png)
 
@@ -231,7 +231,7 @@ The specified opacity value is set for the colored spaces.
     If **Neighborhood** is selected as the group by option, only assignments that have the **Neighborhood assignment** type are applicable. For any other group by option, assignments that have the **Location assignment** type are applicable.
 
 
-**Parent Topic:**[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+**Parent Topic:**[Viewing or editing a scenario](viewing-editing-scenario.md)
 
 **Related topics**  
 

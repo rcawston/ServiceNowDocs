@@ -26,7 +26,7 @@ Dependencies and requirements:
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 -   The Industrial Core plugin. You must activate this plugin.
 
-    The Industrial Core plugin is required to access the class mappings table for the Service Graph Connector for Microsoft Defender for IoT \(Azure\). For more information about the Industrial Core plugin, see [Industrial Core plugin](../reference/industrial-core-plugin.md).
+    The Industrial Core plugin is required to access the class mappings table for the Service Graph Connector for Microsoft Defender for IoT \(Azure\). For more information about the Industrial Core plugin, see [Industrial Core plugin](industrial-core-plugin.md).
 
 
 Role required: admin
@@ -262,7 +262,7 @@ Query to filter other attributes for Active Scan devices. For example, to allow 
 
 11. When configuration items \(CIs\) are created in the CMDB, asset records are created.
 
-    The asset record contains the model category of the CI. For more information about the model categories for Operational Technology \(OT\), see [Model categories for Operational Technology](../reference/model-categories-for-ot.md). To view the model category for an OT device, complete the following:
+    The asset record contains the model category of the CI. For more information about the model categories for Operational Technology \(OT\), see [Model categories for Operational Technology](model-categories-for-ot.md). To view the model category for an OT device, complete the following:
 
     1.  Navigate to **All** &gt; **Operational Technology \(OT\)** &gt; **All OT Devices**.
     2.  Select an OT device to view its asset record in a new tab.
@@ -291,5 +291,5 @@ Query to filter other attributes for Active Scan devices. For example, to allow 
 
 You can now connect Microsoft Defender for IoT \(Azure\) with the ServiceNow Service Graph Connector for Microsoft Defender for IoT \(Azure\). For more information, see [Connecting your Microsoft Defender for IoT \(Azure\) subscription to the ServiceNow Service Graph Connector for Microsoft Defender for IoT \(Azure\) \(KB1587770\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1587770).
 
-**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](../concept/integration-sgc-microsoft-defender-iot-azure.md)
+**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](integration-sgc-microsoft-defender-iot-azure.md)
 

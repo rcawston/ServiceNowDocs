@@ -115,5 +115,5 @@ Select this option turn on the CORS rule.
 6.  Select **Submit**.
 
 
-**Parent Topic:**[REST APIs](../concept/c_RESTAPI.md)
+**Parent Topic:**[REST APIs](c_RESTAPI.md)
 

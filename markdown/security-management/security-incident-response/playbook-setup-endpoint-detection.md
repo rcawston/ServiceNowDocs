@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Endpoint Detection playbook.](../image/playbook-endpoint-detection-trigger.png)
 
 
-**Parent Topic:**[Playbook for Endpoint Detection](../concept/playbook-endpoint-detection.md)
+**Parent Topic:**[Playbook for Endpoint Detection](playbook-endpoint-detection.md)
 

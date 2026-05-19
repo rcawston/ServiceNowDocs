@@ -24,5 +24,5 @@ The following types of Portal Quick Links widgets display quick links related to
 
 ![Portal Quick Links widget displaying different quick links.](../image/portal-quick-links-widget.png "Portal Quick Links widget")
 
-For more information, see [Add and configure the Portal Quick Links widget](../task/config-portal-quick-links-widget-inst-optns.md).
+For more information, see [Add and configure the Portal Quick Links widget](config-portal-quick-links-widget-inst-optns.md).
 

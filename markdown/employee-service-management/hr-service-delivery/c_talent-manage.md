@@ -17,9 +17,9 @@ Talent Profile management activities help keep data set up to date and clutter-f
 
 For more information, see:
 
--   [Modify purge policies to clean up data](../task/set-up-purge-pollicies-ta.md).
--   [Rules to archive data](archive-data-ta.md).
--   [Cascade rules for cleaning data](../reference/cascade-rule-ta.md).
+-   [Modify purge policies to clean up data](../employee-service-management/set-up-purge-pollicies-ta.md).
+-   [Rules to archive data](../employee-service-management/archive-data-ta.md).
+-   [Cascade rules for cleaning data](../employee-service-management/cascade-rule-ta.md).
 
 **Parent Topic:**[Configuring Talent profile](config-tp.md)
 

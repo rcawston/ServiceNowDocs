@@ -58,5 +58,5 @@ Automatically assigns all OT control modules to equipment model entities based o
 Override location of an OT device with subnet's location. If checked, the location of the subnet takes precedence over OT device's location when it's mapped with the subnet. Default is Yes.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Industrial Process Manager reference](../../mftg-manufacturing-process-mgr/reference/manufacturing-process-mgr-reference.md)
+</table>**Parent Topic:**[Industrial Process Manager reference](manufacturing-process-mgr-reference.md)
 

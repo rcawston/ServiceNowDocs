@@ -13,7 +13,7 @@ breadcrumb: [Customer Service forms, Reference, Customer Service Management]
 
 The Customer Service Management application uses the Account form to store customer account information.
 
-For information about creating a customer account, see [Configure accounts and contacts](../task/configure-csm-accounts-contacts.md).
+For information about creating a customer account, see [Configure accounts and contacts](configure-csm-accounts-contacts.md).
 
 <table id="table_fyv_dtr_bs"><thead><tr><th>
 
@@ -53,7 +53,7 @@ Parent Account
 
 </td><td>
 
-The parent account for this account. Use this field to create an [Account hierarchy](../concept/c_AccountHierarchy.md).
+The parent account for this account. Use this field to create an [Account hierarchy](c_AccountHierarchy.md).
 
 </td></tr><tr><td>
 

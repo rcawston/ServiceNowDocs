@@ -23,7 +23,7 @@ Role required: admin or service\_mapping\_admin
 
 ## About this task
 
-In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by configuring Service Mapping to use VPC Flow Logs. For more information about the Service Mapping discovery flow based on VPC Flow logs, see [Data collection and discovery using VPC Flow Logs](../concept/data-collection-vpc-mapping.md).
+In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by configuring Service Mapping to use VPC Flow Logs. For more information about the Service Mapping discovery flow based on VPC Flow logs, see [Data collection and discovery using VPC Flow Logs](data-collection-vpc-mapping.md).
 
 Amazon VPC hosts Amazon Elastic Compute Cloud \(EC2\) instances that provide Amazon Web Services. VPC flow logs collect data on IP traffic going to and from network interfaces in the VPC.
 

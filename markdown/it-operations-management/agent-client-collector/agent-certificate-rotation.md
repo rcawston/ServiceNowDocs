@@ -25,7 +25,7 @@ When an Agent Client Collector's certificate expiration is approaching, system p
 **Related topics**  
 
 
-[View the Agent Client Collector configuration file for an agent](../task/acc-yml-view.md)
+[View the Agent Client Collector configuration file for an agent](acc-yml-view.md)
 
-[Configuration file options](../reference/acc-yml-options.md)
+[Configuration file options](acc-yml-options.md)
 

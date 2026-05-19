@@ -60,5 +60,5 @@ With the property in place, the app is blurred when not in focus.
 
 ![App is blurred when not in focus](../image/BlurApp.png)
 
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](additional-mobile-configuration.md)
 

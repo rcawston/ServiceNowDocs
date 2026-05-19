@@ -24,7 +24,7 @@ To show Spotlight in Platform Analytics, create a dashboard in the inline editor
 **Related topics**  
 
 
-[Dashboards in Platform Analytics](../../par-for-workspace/concept/analytics-center-dashboards.md)
+[Dashboards in Platform Analytics](../analytics-center-dashboards.md)
 
-[Create a list visualization in the Visualization Designer](../../reporting/task/create-dv-analytics-list.md)
+[Create a list visualization in the Visualization Designer](../create-dv-analytics-list.md)
 

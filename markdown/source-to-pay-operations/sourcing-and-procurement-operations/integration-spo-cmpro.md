@@ -39,9 +39,9 @@ The following roles are required to initiate, view, and manage contract executio
 
 You can assign your procurement and contracting professionals to these roles as required.
 
--   **[Integrate with Contract Management Pro](../task/integrate-spo-with-cmpro.md)**  
+-   **[Integrate with Contract Management Pro](integrate-spo-with-cmpro.md)**  
 Contract Management Pro provides an integration with the Sourcing and Procurement Operations application. With this integration, procurement specialists can initiate contract requests \(CRs\) manually throughout the sourcing and purchasing process.
--   **[Initiate a contract request](../task/initiate-contract-request.md)**  
+-   **[Initiate a contract request](initiate-contract-request.md)**  
 Initiate a contract request from the Source-to-Pay workspace.
 -   **[Using Now Assist for Contract Management in Sourcing and Procurement Operations](use-now-assist-cmpro-spo.md)**  
 With the sn\_cm\_gen\_ai.ai\_contract\_fulfiller role, you can review non-standard or missing clauses in procurement contracts and extract key details to update the contract repository using Now Assist for Contract Management within the Source-to-Pay Workspace.
@@ -65,7 +65,7 @@ With the sn\_cm\_gen\_ai.ai\_contract\_fulfiller role, you can review non-standa
 
 [Sourcing and Procurement Operations integration with Field Service Management](integration-psm-fsm.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [SpendInt APIs](spendint-api.md)
 

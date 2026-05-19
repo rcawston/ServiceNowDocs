@@ -24,7 +24,7 @@ You can use the following keyboard shortcuts.
 |Open the domain picker. \(This shortcut only works if domain separation is enabled.\)|`Control + Alt (Option) + D`|
 |Opens the **Data** tab|`Control + Alt (Option) + 1`|
 
-**Parent Topic:**[Reporting reference](../concept/reporting-reference.md)
+**Parent Topic:**[Reporting reference](reporting-reference.md)
 
 **Related topics**  
 

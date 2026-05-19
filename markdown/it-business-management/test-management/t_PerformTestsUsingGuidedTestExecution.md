@@ -48,5 +48,5 @@ When the guided testing is initiated, the testers assigned to the test cases in 
 6.  Click **Save**.
 
 
-**Parent Topic:**[Performing tests and updating the test status](../concept/c_Tester.md)
+**Parent Topic:**[Performing tests and updating the test status](c_Tester.md)
 

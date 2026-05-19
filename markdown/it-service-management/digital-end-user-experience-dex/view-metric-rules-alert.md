@@ -27,6 +27,6 @@ Role required: sn\_dex.user or sn\_dex.admin
 
     **Note:** When multiple alerts are triggered for events that are part of the same rule, these alerts are automatically grouped.
 
-    For more information on alert grouping, see [DEX alert grouping](../concept/alert-grouping.md).
+    For more information on alert grouping, see [DEX alert grouping](alert-grouping.md).
 
 

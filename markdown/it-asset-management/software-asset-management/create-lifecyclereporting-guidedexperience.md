@@ -64,7 +64,7 @@ creating a life cycle report using a guided experience
 
 10. On the form, fill in the fields.
 
-    For a description of each field, see [SAM Success Goal Details](../reference/sam-success-goal-details.md).
+    For a description of each field, see [SAM Success Goal Details](sam-success-goal-details.md).
 
 11. Select **Save** to move to the next page.
 
@@ -80,7 +80,7 @@ creating a life cycle report using a guided experience
 
 14. On the form, fill in the fields.
 
-    For a description of each field, see [SAM Success Activity](../reference/sam-success-activity.md).
+    For a description of each field, see [SAM Success Activity](sam-success-activity.md).
 
     If your role or any other role that has permission to submit content requests, can create and submit a content request.
 
@@ -123,7 +123,7 @@ creating a life cycle report using a guided experience
 
 23. On the form, fill in the fields.
 
-    For a description of each field, see [SAM Success Activity](../reference/sam-success-activity.md)
+    For a description of each field, see [SAM Success Activity](sam-success-activity.md)
 
 24. Select **Submit** and then select **Mark Complete** to move to the Input lifecycle averages page.
 
@@ -168,5 +168,5 @@ creating a life cycle report using a guided experience
     This completes the playbook and you can exit the playbook.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

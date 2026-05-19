@@ -29,6 +29,6 @@ Role required: admin
 
 3.  Select **System compliance**.
 
-    For more information about the system compliance metrics, see [DEX Insights reports](../reference/insights-reports.md).
+    For more information about the system compliance metrics, see [DEX Insights reports](insights-reports.md).
 
 

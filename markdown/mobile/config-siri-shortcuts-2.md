@@ -38,5 +38,5 @@ As an admin, you can change the destination screen of the three of default Siri 
 3.  In the screen shortcut record, update the **Screen** field by clicking the reference icon \(![Reference lookup icon](../image/reference-lookup-icon.png)\) and selecting a screen. This screen displays to your users when they access the associated Siri shortcut.
 
 
-**Parent Topic:**[Siri shortcuts](../concept/siri-shortcuts.md)
+**Parent Topic:**[Siri shortcuts](siri-shortcuts.md)
 

@@ -29,7 +29,7 @@ This task: Now that you have configured the host machine, you will set up the in
 
     1.  Navigate to **All** &gt; **User Administration** &gt; **Users** and select **New**.
     2.  Create a user - User ID, which can be whatever you want, as well as a user name and password. The password should be the same as the one you created for your Docker Secret container.
-    3.  Add the role **atf\_test\_designer** for this user. To learn more, see the User Roles section in the [Exploring Automated Test Framework](../concept/automated-test-framework.md) topic.
+    3.  Add the role **atf\_test\_designer** for this user. To learn more, see the User Roles section in the [Exploring Automated Test Framework](automated-test-framework.md) topic.
 2.  Create certificate:
 
     1.  Navigate to **System Definition** &gt; **Certificates** to open the **sys\_ certificate** table. Create a new certificate \(the name can be whatever you prefer\):
@@ -73,7 +73,7 @@ This task: Now that you have configured the host machine, you will set up the in
     You need to do this only when using self-signed certificates. To learn more, see [Generate certificates for Headless Browser setup for Microsoft Windows](headless-browser-certificates-windows.md).
 
 
-**Parent Topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Parent Topic:**[Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md)
 
 **Previous topic:**[Add secrets to Docker for Headless Browser setup in Microsoft Windows](headless-browser-add-secrets-docker-windows.md)
 

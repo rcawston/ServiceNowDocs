@@ -55,5 +55,5 @@ Role required: discovery\_admin or agent\_client\_collector\_admin
     **Note:** The pattern allow list generator does not add an entry for commands nested under EVAL\(\) in the pattern steps.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on endpoints](../concept/acc-endpoint-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on endpoints](acc-endpoint-deployment.md)
 

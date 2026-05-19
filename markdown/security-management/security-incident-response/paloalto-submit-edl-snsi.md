@@ -76,7 +76,7 @@ Users with the sn\_si.analyst role submit EDL entries by requesting a block on o
 
 Approve EDL entries.
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
 **Previous topic:**[Activate an EDL for Palo Alto Networks Next-Generation Firewall with a change request](paloalto_sncr_edl.md)
 
@@ -85,5 +85,5 @@ Approve EDL entries.
 **Related topics**  
 
 
-[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](../reference/paloalto-edl-execptions.md)
+[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](paloalto-edl-execptions.md)
 

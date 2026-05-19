@@ -55,5 +55,5 @@ Install conditions define where a software product can be installed. Product ins
     The install conditions are added for the complete suite of the software product. You can view the install conditions you have created on the Product install condition landing page.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

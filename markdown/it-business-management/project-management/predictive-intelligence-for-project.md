@@ -71,7 +71,7 @@ View similar projects based on the **Project Name** and **Description** fields. 
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Train the similarity solution for Project Management to find similar projects](../task/train-similarity-solution-pm.md)
+[Train the similarity solution for Project Management to find similar projects](train-similarity-solution-pm.md)
 
-[Starting a project](../task/t_CreateAProject.md)
+[Starting a project](t_CreateAProject.md)
 

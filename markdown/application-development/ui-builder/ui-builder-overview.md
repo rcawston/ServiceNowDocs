@@ -68,5 +68,5 @@ UI Builder can be used by application developers with a variety of skill levels.
 -   **[Component Builder](component-builder-uib.md)**  
 Learn how to use Component Builder to assemble reusable components for your UI Builder pages.
 
-**Parent Topic:**[Builder library](../../../build/custom-application/concept/builder-library-table.md)
+**Parent Topic:**[Builder library](../builder-library-table.md)
 

@@ -22,7 +22,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-For more information about writing scripts for Virtual Agent, see [Virtual Agent scripts](../concept/virtual-agent-scripts.md).
+For more information about writing scripts for Virtual Agent, see [Virtual Agent scripts](virtual-agent-scripts.md).
 
 ## Procedure
 

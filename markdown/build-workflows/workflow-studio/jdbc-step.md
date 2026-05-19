@@ -202,7 +202,7 @@ Test JDBC Step
 
 </td><td>
 
-Test the JDBC step. View test results directly in the Test JDBC Step window. For more information, see [Test JDBC step](../task/test-jdbc-step.md).
+Test the JDBC step. View test results directly in the Test JDBC Step window. For more information, see [Test JDBC step](test-jdbc-step.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -214,7 +214,7 @@ Enable Retry Policy
 
 </td><td>
 
-Option to enable the retry policy. For more information, see [Retry policy](../concept/retry-policy.md#).
+Option to enable the retry policy. For more information, see [Retry policy](retry-policy.md#).
 
 </td></tr><tr><td>
 
@@ -239,11 +239,11 @@ Default retry policy associated with **Connection Alias**. If **Override Default
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
--   **[Test JDBC step](../task/test-jdbc-step.md)**  
+-   **[Test JDBC step](test-jdbc-step.md)**  
 Test the JDBC step before testing or publishing an action that contains the JDBC step.
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

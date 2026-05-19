@@ -248,7 +248,7 @@ Option for overwriting data from an earlier download attempt.
     1.  **Ready**: The job is in the queue. For example, when a job is created to download billing data for a few months, the jobs for all months except the latest month are in Ready state.
     2.  **Requested**: The job is fetched and processed immediately. For example, the job that's created to download billing data for a month is in the Requested state. Also, when a job is created to download billing data for more than a month, the latest month job is also in the Requested state.
 
-        **Note:** If you have installed the Cloud Cost Management Infra Stack application, it takes some time for the job to change from Ready to Requested state for AWS billing download job with Assume role authentication. This is because it takes time for the files to be downloaded to Cloud Cost Management MID Server. For details, see [Processing AWS billing jobs with Assume role authentication](../concept/process-aws-assume-infra.md).
+        **Note:** If you have installed the Cloud Cost Management Infra Stack application, it takes some time for the job to change from Ready to Requested state for AWS billing download job with Assume role authentication. This is because it takes time for the files to be downloaded to Cloud Cost Management MID Server. For details, see [Processing AWS billing jobs with Assume role authentication](process-aws-assume-infra.md).
 
     3.  **Reserved**: Job is picked by the Kubernetes cluster for processing. The Kubernetes cluster also sends the Job Id to Cloud Cost Management Glide to show which Kubernetes job is processing the billing job.
 

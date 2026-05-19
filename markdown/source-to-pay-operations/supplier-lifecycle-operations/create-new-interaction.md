@@ -109,12 +109,12 @@ Additional information or comments added to the interaction.
 
 The interaction record is created and linked to an existing supplier case or task, which needs a supplier manager's involvement for investigation.
 
-**Parent Topic:**[Interaction Management in Supplier Lifecycle Operations](../concept/interaction-mgmt-supplier-mgr-ws.md)
+**Parent Topic:**[Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
 **Related topics**  
 
 
-[Interaction Management in Supplier Lifecycle Operations](../concept/interaction-mgmt-supplier-mgr-ws.md)
+[Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
 [Associate an interaction record to a supplier case](associate-interaction-supplier-case.md)
 

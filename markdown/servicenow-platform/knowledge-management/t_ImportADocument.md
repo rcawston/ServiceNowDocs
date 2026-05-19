@@ -21,7 +21,7 @@ You must have contribute access for at least one active knowledge base.
 
 **Note:**
 
-Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](../concept/knowledge-service-portal-pages.md).
+Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](knowledge-service-portal-pages.md).
 
 The **Import Articles** button does not appear in the following conditions:
 
@@ -105,7 +105,7 @@ The following styles and elements are preserved when importing a .doc or .docx f
     If any errors occur during the upload, a popup window appears to display the error.
 
 
-**Parent Topic:**[Using the homepage of Knowledge Management v3](../concept/c_KnowledgeHomepage.md)
+**Parent Topic:**[Using the homepage of Knowledge Management v3](c_KnowledgeHomepage.md)
 
 **Related topics**  
 

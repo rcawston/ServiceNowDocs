@@ -83,7 +83,7 @@ Crypto Module
 
 </td><td>
 
-Select the cryptographic module to use with this group. This module encrypts and decrypts your data. This field is only visible when **Autogen Module** isn’t selected. For details on module access policies, see [Module access policy overview](../../key-management-framework/concept/module_access_policy_overview.md) **Note:** You can review the module access policies related to your secret group using the **Manage instance access** button.
+Select the cryptographic module to use with this group. This module encrypts and decrypts your data. This field is only visible when **Autogen Module** isn’t selected. For details on module access policies, see [Module access policy overview](platform-encryption/module_access_policy_overview.md) **Note:** You can review the module access policies related to your secret group using the **Manage instance access** button.
 
 </td></tr></tbody>
 </table>5.  Click **Submit**.
@@ -91,5 +91,5 @@ Select the cryptographic module to use with this group. This module encrypts and
     **Note:** When created, a secret group is inactive by default. Return to the group record and select **Active** to activate the group.
 
 
-**Parent Topic:**[Secrets Management dashboard](../concept/secrets-dashboard.md)
+**Parent Topic:**[Secrets Management dashboard](secrets-dashboard.md)
 

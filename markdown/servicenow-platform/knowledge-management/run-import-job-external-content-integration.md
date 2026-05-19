@@ -44,5 +44,5 @@ For each file in the external content source, a blank knowledge article is creat
 
 **Note:** If the externally imported content is infected, a notification about each infected file is sent to the users with the knowledge\_admin role and Knowledge Base owners. The notified users can then take required actions on the infected files.
 
-**Parent Topic:**[Integration with external knowledge sources](../concept/knowledge-external-content-integration.md)
+**Parent Topic:**[Integration with external knowledge sources](knowledge-external-content-integration.md)
 

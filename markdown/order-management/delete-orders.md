@@ -32,5 +32,5 @@ Role required: order\_approver, order\_viewer, sn\_ind\_tmt\_orm.order-fulfillme
 5.  Select **Delete** from the More actions icon ![](../image/icon-three-dot-menu.png).
 
 
-**Parent Topic:**[Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
+**Parent Topic:**[Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
 

@@ -17,7 +17,7 @@ Choose a decision tree from your Guided Decisions framework to step agents throu
 
 ## Roles and availability
 
-This activity is available with a subscription to App Engine or Customer Service Management \(CSM\). For more information on how to enable this activity for use in Playbooks, see [Activate Playbooks for Customer Service Management \(CSM\)](../task/activate-process-automation-designer-for-csm.md).
+This activity is available with a subscription to App Engine or Customer Service Management \(CSM\). For more information on how to enable this activity for use in Playbooks, see [Activate Playbooks for Customer Service Management \(CSM\)](activate-process-automation-designer-for-csm.md).
 
 ## Inputs
 
@@ -102,7 +102,7 @@ Option to wait for a duration of time before running an activity or stage. When 
 </td></tr></tbody>
 </table>## Advanced inputs
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](activity-definitions.md#activity-experience).
 
 |Input|Type|Description|
 |-----|----|-----------|

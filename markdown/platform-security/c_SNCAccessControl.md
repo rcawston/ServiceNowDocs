@@ -21,21 +21,21 @@ The SNC Access Control plugin \(com.snc.snc\_access\_control\) enables you to co
 
 </td><td>
 
-[Activate ServiceNow access control![Activate access control](../../../common/image/icon-workspace.png)](../task/t_ActivateSNCAccessControl.md)
+[Activate ServiceNow access control![Activate access control](../../../common/image/icon-workspace.png)](t_ActivateSNCAccessControl.md)
 
- [Active ServiceNow® access control.](../task/t_ActivateSNCAccessControl.md)
+ [Active ServiceNow® access control.](t_ActivateSNCAccessControl.md)
 
 </td></tr><tr><td>
 
-[Configure ServiceNow access control![Configure access control](../../../common/image/icon-set-up.png)](../task/t_ConfigureAccessControl.md)
+[Configure ServiceNow access control![Configure access control](../../../common/image/icon-set-up.png)](t_ConfigureAccessControl.md)
 
- [Understand how to configure ServiceNow® access control.](../task/t_ConfigureAccessControl.md)
+ [Understand how to configure ServiceNow® access control.](t_ConfigureAccessControl.md)
 
 </td><td>
 
-[Audit Logging![Reference access control](../../../common/image/icon-reference.png)](../../login/reference/r_AuditLogging.md)
+[Audit Logging![Reference access control](../../../common/image/icon-reference.png)](r_AuditLogging.md)
 
- [Learn and review the ServiceNow® access control audit logging.](../../login/reference/r_AuditLogging.md)
+ [Learn and review the ServiceNow® access control audit logging.](r_AuditLogging.md)
 
 </td></tr></tbody>
 </table>

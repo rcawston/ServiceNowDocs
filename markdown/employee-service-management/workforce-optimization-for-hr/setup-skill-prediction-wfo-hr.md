@@ -43,5 +43,5 @@ Role required: sn\_hr\_wfo.admin
 -   **[Use extension points for skill prediction in Workforce Optimization for HR](use-extension-points-skill-wfo-hr.md)**  
 Use scripted extension points to customize skill prediction for tasks.
 
-**Parent Topic:**[Setting up Coaching in Workforce Optimization for HR](../concept/setup-coaching-wfo-hr.md)
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for HR](setup-coaching-wfo-hr.md)
 

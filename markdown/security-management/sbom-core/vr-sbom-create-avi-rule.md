@@ -17,7 +17,7 @@ Set up the conditions under which application vulnerable items \(AVITs\) are cre
 
 ## Before you begin
 
-The SBOM Response application is required if you want to create application vulnerable items. See [Exploring Software Bill of Materials](../concept/vr-sbom-exploring.md) for more information.
+The SBOM Response application is required if you want to create application vulnerable items. See [Exploring Software Bill of Materials](vr-sbom-exploring.md) for more information.
 
 Role required: sn\_sbom\_resp.manage\_avi\_rule.
 

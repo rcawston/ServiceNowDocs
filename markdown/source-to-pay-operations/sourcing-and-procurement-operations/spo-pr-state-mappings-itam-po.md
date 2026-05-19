@@ -24,7 +24,7 @@ State alignment between SPO PR records and ITAM PO follows the mappings in this 
 |PR|Closed Rejected|Closed Cancel|
 |PR|Any other state|Requested|
 
-**Parent Topic:**[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+**Parent Topic:**[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
 **Related topics**  
 

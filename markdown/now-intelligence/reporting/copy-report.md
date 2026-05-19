@@ -28,7 +28,7 @@ If you save a global report as a group or personal report, the platform copies t
 -   If you open a personal report and save it as a group or global report, only the security state is changed. The report itself is not copied.
 -   When you select **Insert and Stay** to copy a report, sharing settings are not copied to the new report.
 
-This topic refers to Reporting in the Core UI. If your instance is a new Australia instance or migrated to Platform Analytics experience, see [Duplicate a visualization in the Visualization Designer](duplicate-dv-ac.md).
+This topic refers to Reporting in the Core UI. If your instance is a new Australia instance or migrated to Platform Analytics experience, see [Duplicate a visualization in the Visualization Designer](../duplicate-dv-ac.md).
 
 ## Procedure
 
@@ -52,14 +52,14 @@ This topic refers to Reporting in the Core UI. If your instance is a new Austral
 
 6.  Modify the report.
 
-    See [Report types](../reference/report-types-creation-details-rd.md).
+    See [Report types](report-types-creation-details-rd.md).
 
 7.  Change the report visibility.
 
     In the upper right side of the report form, click the **Sharing** icon \(![](../../../common/image/Form_ShareIcon.png)\) and select **Share**.
 
 
-**Parent Topic:**[Using reporting](../concept/c_GenerateReports.md)
+**Parent Topic:**[Using reporting](c_GenerateReports.md)
 
 **Related topics**  
 

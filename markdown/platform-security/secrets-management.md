@@ -15,7 +15,7 @@ Use ServiceNow Secrets Management for granular management of access to your pass
 
 **Important:**
 
-Secrets Management has begun its End of Life process, and has reached the End Of Sale and End of Renewal milestones as of the Yokohama release. For support storing passwords with two-way encryption, see [Password2 encryption with the Key Management Framework \(KMF\)](../../key-management-framework/concept/password-2way-encrypted-fields.md).
+Secrets Management has begun its End of Life process, and has reached the End Of Sale and End of Renewal milestones as of the Yokohama release. For support storing passwords with two-way encryption, see [Password2 encryption with the Key Management Framework \(KMF\)](platform-encryption/password-2way-encrypted-fields.md).
 
 Secrets Management has two available versions. Secrets Management Core is included on the ServiceNow platform at no additional cost and Secrets Management Enterprise is a premium, subscription version of the product. For more information on the difference between these versions, see [Exploring Secrets Management](exploring-secrets-management.md).
 
@@ -49,5 +49,5 @@ Learn how to configure your instance to use client accessible secrets.
 -   **[Secrets Management dashboard](secrets-dashboard.md)**  
 Use the Secrets Management dashboard to review the secret groups configured on your instance and learn about any security issues.
 
-**Parent Topic:**[Platform Security](../../general/concept/platsec-sublanding.md)
+**Parent Topic:**[Platform Security](platsec-sublanding.md)
 

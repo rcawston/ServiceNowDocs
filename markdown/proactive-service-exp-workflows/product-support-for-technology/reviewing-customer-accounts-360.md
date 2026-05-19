@@ -29,11 +29,11 @@ The data visualized inside of Operations Account 360 view inside of Service Oper
 
 Additionally, the Operations Account 360 View only works for company records with the class value equals to account. Company records with the class value of company shows the traditional default workspace view of Service Operations Workspace.
 
-To learn more about getting the account insights, see [Review an account by using the 360 View in Proactive Service Experience Workflows](../task/review-customer-account-360-psew.md).
+To learn more about getting the account insights, see [Review an account by using the 360 View in Proactive Service Experience Workflows](review-customer-account-360-psew.md).
 
 To learn more about Analytics dashboards, see [Service delivery overview](account-360-analytics-dashboard.md).
 
--   **[Review an account by using the 360 View in Proactive Service Experience Workflows](../task/review-customer-account-360-psew.md)**  
+-   **[Review an account by using the 360 View in Proactive Service Experience Workflows](review-customer-account-360-psew.md)**  
 Review a customer or partner's account by using the Operations Account 360 view provided by the Proactive Service Experience Workflows application inside of Service Operations Workspace. You can track your data and tasks related to customer's or partner's and then take action to improve your delivery of service.
 -   **[Service delivery overview](account-360-analytics-dashboard.md)**  
 Use the Service delivery overview to view the Analytics dashboards of the customer accounts. You can explore the details about the operational status of the accounts.

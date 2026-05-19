@@ -21,7 +21,7 @@ You must log in to your CCaaS account and ServiceNow Configurable Workspace to r
 
 ## About this task
 
-The callback interaction is either routed in the customer-first or agent-first method by CCaaS to the agent. The interaction appears like any other voice interaction in a customer-first scenario. The interaction appears with callback actions component and callback context card for an agent-first scenario. For more information on the agent-first and customer-first modes, see [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](../concept/interaction-controls-component-icc-callback-integration-features.md). The following procedure is applicable for the agent-first scenario.
+The callback interaction is either routed in the customer-first or agent-first method by CCaaS to the agent. The interaction appears like any other voice interaction in a customer-first scenario. The interaction appears with callback actions component and callback context card for an agent-first scenario. For more information on the agent-first and customer-first modes, see [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](interaction-controls-component-icc-callback-integration-features.md). The following procedure is applicable for the agent-first scenario.
 
 ## Procedure
 
@@ -49,7 +49,7 @@ Description
 
 </td><td>
 
-Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [Callback actions component](../concept/csm-native-voice-record-page.md#section-ccaas-callback-actions).
+Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [Callback actions component](csm-native-voice-record-page.md#section-ccaas-callback-actions).
 
 </td></tr><tr><td id="d257700e141">
 
@@ -62,7 +62,7 @@ Select this button to reject the callback interaction request.The callback inter
 </td></tr></tbody>
 </table>3.  View the Callback context card for the details of the callback.
 
-    For more information on the Callback context card, see [Callback context card](../concept/csm-native-voice-record-page.md#section-callback-context).
+    For more information on the Callback context card, see [Callback context card](csm-native-voice-record-page.md#section-callback-context).
 
 4.  Use the callback actions card to perform the following actions.
 
@@ -103,7 +103,7 @@ When you select the Transfer callback button, the Transfer callback subcomponent
     -   In the Queues list, select the queue for transfer to which you want to transfer the callback.
     -   In the Agents list, select the agent to whom you want to transfer the callback.
 2.  Select the ![Transfer callback arrow](../image/Transfer_queue_arrow.png) icon to initiate the transfer callback. When transferring a callback, the Callback actions component displays a Transferring callback, please wait... message and a 'Cancel callback transfer' button.
-3.  Select the **Cancel callback transfer** button to cancel the transfer before the receiving agent accepts the request. For more details on how it’s displayed in the UI, see [CSM voice interaction record page](../concept/csm-native-voice-record-page.md).
+3.  Select the **Cancel callback transfer** button to cancel the transfer before the receiving agent accepts the request. For more details on how it’s displayed in the UI, see [CSM voice interaction record page](csm-native-voice-record-page.md).
 
 
 </td></tr><tr><td>
@@ -162,9 +162,9 @@ Once the new agent accepts the call, you can select **Merge calls** to merge you
 **Related topics**  
 
 
-[Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](../concept/interaction-controls-component-icc-callback-integration-features.md)
+[Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](interaction-controls-component-icc-callback-integration-features.md)
 
-[Callback interaction features](../concept/contact-center-intergration-with-icc-callback.md)
+[Callback interaction features](contact-center-intergration-with-icc-callback.md)
 
 [Manage a CCaaS callback request using Global Voice Control](handle-ccaas-callback-gvc.md)
 

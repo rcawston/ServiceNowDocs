@@ -14,7 +14,7 @@ Leverage your digital healthcare platform with the ServiceNow® Healthcare and L
 
 <table id="table_b4t_hhl_nnb" class="nav-card"><tbody><tr><td>
 
-[Healthcare and Life Sciences Service Management![](../../../reuse/icons/brand-icons/ind-healthcare.svg)Streamline patient workflows with playbooks and case management.](hcls-service-mgmt-overview.md)
+[Healthcare and Life Sciences Service Management![](../../../reuse/icons/brand-icons/ind-healthcare.svg)Streamline patient workflows with playbooks and case management.](healthcare-and-life-sciences-service-management/hcls-service-mgmt-overview.md)
 
 </td><td>
 

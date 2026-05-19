@@ -69,7 +69,7 @@ As a workplace manager, you can approve a scenario. The Workplace Core Approval 
 
 The scenario is approved or rejected based on what action you performed. If the scenario is approved, then the state of the scenario changes to Approved. If it is rejected, then the scenario state is changed to Rejected.
 
-**Parent Topic:**[Manage Workplace Central](../concept/manage-workplace-central.md)
+**Parent Topic:**[Manage Workplace Central](manage-workplace-central.md)
 
 **Related topics**  
 

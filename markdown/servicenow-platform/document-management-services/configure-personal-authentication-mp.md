@@ -23,13 +23,13 @@ Role required: admin
 
 For Microsoft OneDrive:
 
-1.  [Install the Microsoft OneDrive Spoke for Document Services Framework](../concept/onedrive-spoke-document-services-framework.md)
+1.  [Install the Microsoft OneDrive Spoke for Document Services Framework](onedrive-spoke-document-services-framework.md)
 2.  [Setup Microsoft OneDrive for Document Services](configure-ms-onedrive-doc-services.md)
 3.  [Register Microsoft OneDrive as an OAuth provider for Document Services](register-ms-onedrive-oauth-provider.md)
 
 For Google Drive
 
-1.  [Install the Google Drive Spoke for Document Services Framework](../concept/google-drive-spoke-document-services.md)
+1.  [Install the Google Drive Spoke for Document Services Framework](google-drive-spoke-document-services.md)
 2.  [Set up Document Services framework for Google Drive](setup-gdrive-spoke-document-services.md)
 
 ## Procedure
@@ -39,5 +39,5 @@ For Google Drive
 2.  [Set up personal authentication](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB1629872).
 
 
-**Parent Topic:**[Personal authentication](../concept/personal-authentication-documents.md)
+**Parent Topic:**[Personal authentication](personal-authentication-documents.md)
 

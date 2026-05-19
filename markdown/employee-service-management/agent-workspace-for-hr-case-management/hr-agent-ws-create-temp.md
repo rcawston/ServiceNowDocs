@@ -37,7 +37,7 @@ Role required: sn\_hr\_core.case\_writer
 
     ![Initiating document tasks](../image/initiate-tasks.png)
 
-    For more information, see [Document tasks generation in Document Templates](task-mapped-participants.md).
+    For more information, see [Document tasks generation in Document Templates](../hr-service-delivery/task-mapped-participants.md).
 
     Document tasks that are part of the selected HR case are generated and listed in the **Document tasks** tab. The participants will receive document tasks as configured in the template
 

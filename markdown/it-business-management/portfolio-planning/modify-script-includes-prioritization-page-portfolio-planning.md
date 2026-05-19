@@ -41,5 +41,5 @@ Role required: admin
 
 [Create new highlighted values for Prioritization columns in Portfolio Planning](create-highlighted-values-prioritization-portfolio-planning.md)
 
-**Parent Topic:**[Customizing highlighted fields on prioritization tab of Portfolio Planning workspace](../concept/customizing-highlighted-fields-prioritization-page-portfolio-planning-workspace.md)
+**Parent Topic:**[Customizing highlighted fields on prioritization tab of Portfolio Planning workspace](customizing-highlighted-fields-prioritization-page-portfolio-planning-workspace.md)
 

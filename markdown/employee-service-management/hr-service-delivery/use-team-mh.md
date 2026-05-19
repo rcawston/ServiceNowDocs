@@ -37,6 +37,6 @@ Personalised and seasonally-based content from target communications and campaig
 
 5.  Click the quick links that navigate you through ServiceNow applications that are integrated with Manager Hub.
 
-    For more information, refer to [Integrate Manager Hub](../reference/integrate-mh-jc.md).
+    For more information, refer to [Integrate Manager Hub](integrate-mh-jc.md).
 
 

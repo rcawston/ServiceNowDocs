@@ -103,5 +103,5 @@ Detailed description for the manifest file.
     Manifest file is downloaded on your system.
 
 
-**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](../concept/setup-meeting-extensibility-multi-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](setup-meeting-extensibility-multi-tenant.md)
 

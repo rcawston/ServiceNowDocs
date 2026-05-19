@@ -44,7 +44,7 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 [Complete clause mapping to build a clause library](cncore-clause-map-addin.md).
 
-**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](../concept/cncore-setup-ct-add-in.md)
+**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-setup-ct-add-in.md)
 
 **Related topics**  
 

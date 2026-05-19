@@ -30,5 +30,5 @@ Role required: admin or delegated developer
     The Script Debugger opens in a new tab outside of ServiceNow Studio. Some tabs and features are role-dependent. For more information about using Script Debugger, see [Script Debugger and Session Log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debugger.md).
 
 
-**Parent Topic:**[Using ServiceNow Studio](../concept/using-servicenow-studio.md)
+**Parent Topic:**[Using ServiceNow Studio](using-servicenow-studio.md)
 

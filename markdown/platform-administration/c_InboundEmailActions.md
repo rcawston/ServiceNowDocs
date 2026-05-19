@@ -100,7 +100,7 @@ If an inbound email contains one or more email attachments, the inbound email ac
 -   If the email encoding is ISO-8859-1, the inbound email action attempts to convert the email to Windows 1252.
 -   Inbound email actions convert any other encodings \(for example, Mac OS Roman\) to plain text, which may or may not be readable.
 
-See the [System email log and mailboxes](../../time/reference/r_EmailLogs.md) for examples of what you might see if a notification or inbound email action is not processed.
+See the [System email log and mailboxes](r_EmailLogs.md) for examples of what you might see if a notification or inbound email action is not processed.
 
 **Note:** The state of all incoming emails that have been run against inbound email actions, even if there is no matching action, is changed to **Processed**.
 

@@ -32,11 +32,11 @@ On most reports, you can select an item to view the underlying data.
 
 -   **Risk overview tab**
 
-    The Risk overview tab displays engagement name and process information, risk intelligence scores, summary reports, and tracking data for issues and tasks. See [Viewing summarized risk information for an engagement](../reference/tprm-ws-tab-eng-risk-overview.md).
+    The Risk overview tab displays engagement name and process information, risk intelligence scores, summary reports, and tracking data for issues and tasks. See [Viewing summarized risk information for an engagement](tprm-ws-tab-eng-risk-overview.md).
 
 -   **Details tab**
 
-    The **Details** tab displays overview and process tracking information and offers actions for managing the third party or engagement. See [Viewing general information on a third party](../reference/tprm-ws-tab-tp-details.md)
+    The **Details** tab displays overview and process tracking information and offers actions for managing the third party or engagement. See [Viewing general information on a third party](tprm-ws-tab-tp-details.md)
 
 
 **Note:** When you select the More tab, you can view additional tabs that will show other types of relevant information such as, associated assessments, issues, tasks, risk components, entity types, and more.

@@ -112,7 +112,7 @@ Specify a due date in the provided format.
 
     ![Moving from task window to checklist window](../images/golive-check.png)
 
-    You can also select the available checklist that is provided with the product. For information, see [Working with golive checklists](../concept/working-golive.md).
+    You can also select the available checklist that is provided with the product. For information, see [Working with golive checklists](working-golive.md).
 
 9.  Select the + icon if you want to add more tasks to the checklist.
 
@@ -121,5 +121,5 @@ Specify a due date in the provided format.
     The Details form is displayed. Fill in the details.
 
 
-**Parent Topic:**[Working with golive checklists](../concept/working-golive.md)
+**Parent Topic:**[Working with golive checklists](working-golive.md)
 

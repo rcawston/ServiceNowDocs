@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Apache Kafka integration configuration forms for Health Log Analytics.
 
-For the Apache Kafka integration setup procedure, see [Set up an Apache Kafka integration for Health Log Analytics](../task/il-connector-hla-kafka.md).
+For the Apache Kafka integration setup procedure, see [Set up an Apache Kafka integration for Health Log Analytics](il-connector-hla-kafka.md).
 
 <table id="table_cnt_1x5_l2c"><thead><tr><th>
 

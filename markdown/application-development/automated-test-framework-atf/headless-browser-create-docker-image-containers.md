@@ -38,7 +38,7 @@ Role required: admin on your ServiceNow instance and local administrator on the 
     **Note:** The instance-to-image compatibility makes sure that the automation script inside the Docker image is compatible with the instance code. Elements such as the user interface might change over time to support new features or upgrades.
 
 
-**Parent Topic:**[Headless Browser setup for Linux](../concept/headless-browser-procedure-linux.md)
+**Parent Topic:**[Headless Browser setup for Linux](headless-browser-procedure-linux.md)
 
 **Previous topic:**[Configure Docker for Headless Browser setup in Linux](headless-browser-configure-docker.md)
 

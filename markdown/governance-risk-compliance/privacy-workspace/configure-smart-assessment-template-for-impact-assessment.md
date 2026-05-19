@@ -137,5 +137,5 @@ Domain of the configuration. When accessed from the Privacy Workspace, this fiel
     For example, for the Personal data section, you can add Data elements, Data subject types, Hierarchy, and Legal basis. The details in the **Guidance** field of the subsections appear during the assessment to help the responder understand the questions in the assessment.
 
 
-**Parent Topic:**[Configuring Privacy Management](../concept/configure-privacy-mgmt.md)
+**Parent Topic:**[Configuring Privacy Management](configure-privacy-mgmt.md)
 

@@ -112,5 +112,5 @@ The Execution Dashboard provides various analytics across different tabs, includ
 |--------------------|-----------|
 |Planned cost by location|Estimated cost by location for executing the plan.|
 
-**Parent Topic:**[Using dashboards in Portfolio Planning](../../ppw-dashboards/concept/using-dashboards-in-ppw.md)
+**Parent Topic:**[Using dashboards in Portfolio Planning](using-dashboards-in-ppw.md)
 

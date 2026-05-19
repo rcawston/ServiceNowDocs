@@ -92,5 +92,5 @@ The Total coverage/demand row has indicators for the staff alignment.
 </table>    The following image shows an example of the staffing alignment in a Week view. The misaligned staffing indicator in the pop-up window shows that the forecast manager has scheduled four agents for each shift but more agents are needed to cover the shifts.![Demand Forecast](../image/demand-forecast-rome.gif)
 
 
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](scheduling-configurable-workforce-optimization-itsm.md)
 

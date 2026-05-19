@@ -17,12 +17,12 @@ Admins can change the default table that apps built in Creator Studio save their
 
 **Note:** There are two ways to change an app's associated table:
 
--   You can use Guided Setup, which is an easier, more streamlined process. For more information, see [Configure the table for Creator Studio apps](../task/config-creator-studio-guided-setup.md#).
--   You can update several tables on the ServiceNow AI Platform. For more information, see [Change a Creator Studio app's table](../task/creator-studio-change-app-table.md).
+-   You can use Guided Setup, which is an easier, more streamlined process. For more information, see [Configure the table for Creator Studio apps](config-creator-studio-guided-setup.md#).
+-   You can update several tables on the ServiceNow AI Platform. For more information, see [Change a Creator Studio app's table](creator-studio-change-app-table.md).
 
 -   **[Changing the table for an app](creator-studio-admin-app-table-about.md)**  
 Admins can change the associated table for an app built in Creator Studio. That is, you can change the table that the app saves its requests to.
--   **[Change a Creator Studio app's table](../task/creator-studio-change-app-table.md)**  
+-   **[Change a Creator Studio app's table](creator-studio-change-app-table.md)**  
 Change the table associated with an app if you want one that differs from the default.
 
 **Parent Topic:**[Administering Creator Studio](administering-creator-studio.md)

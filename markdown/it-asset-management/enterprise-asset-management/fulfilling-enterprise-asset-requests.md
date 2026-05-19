@@ -15,10 +15,10 @@ breadcrumb: [Using Service Catalog for Enterprise Asset Management requests and 
 
 You can fulfill enterprise asset requests that have been submitted through the Service Catalog application. You can fulfill these requests either manually or through the help manage enterprise asset requests agentic workflow.
 
--   **[Fulfill enterprise asset requests by using the help manage enterprise asset requests agentic workflow](../../now-assist-eam/concept/now-assist-eam-help-manage-enterprise-asset-requests-workflow.md)**  
+-   **[Fulfill enterprise asset requests by using the help manage enterprise asset requests agentic workflow](now-assist-eam-help-manage-enterprise-asset-requests-workflow.md)**  
 You can use the help manage enterprise asset requests agentic workflow to fulfill enterprise asset requests autonomously. The workflow uses a collection of AI agents to automatically source assets for these requests.
--   **[Manually fulfill enterprise asset requests by using the enterprise asset request flow](../task/create-eam-assetrequest.md)**  
+-   **[Manually fulfill enterprise asset requests by using the enterprise asset request flow](create-eam-assetrequest.md)**  
 Use the enterprise asset request flow to request, source, and deploy catalog items from the Service Catalog application.
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 

@@ -38,5 +38,5 @@ Playbook variants are evaluated from the top down at every level. The first vari
     Variants cannot be moved to different levels. They can only be reordered at the sibling level.
 
 
-**Parent Topic:**[Playbook variants](../concept/playbook-variants.md)
+**Parent Topic:**[Playbook variants](playbook-variants.md)
 

@@ -284,5 +284,5 @@ Users can opt in or opt out of Usage Insights advanced tracking at any time thro
 **Related topics**  
 
 
-[Web Embeddables component events](../reference/we-events-detail.md)
+[Web Embeddables component events](../we-events-detail.md)
 

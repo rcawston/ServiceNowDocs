@@ -18,7 +18,7 @@ Search for mapped and unmapped services to unify. The flow is available using th
 
 ## About this task
 
-[Multi-source service mapping](../concept/multi-source-service-mapping.md)
+[Multi-source service mapping](multi-source-service-mapping.md)
 
 ## Before you begin
 
@@ -132,7 +132,7 @@ Provide a brief summary of what this service instance does. For example: Unified
     The unified service is created as non-operational by default. All selected unmapped services convert into non-operational mapped services.
 
 
-**Parent Topic:**[Using Service Mapping](../concept/using-service-mapping.md)
+**Parent Topic:**[Using Service Mapping](using-service-mapping.md)
 
 **Related topics**  
 

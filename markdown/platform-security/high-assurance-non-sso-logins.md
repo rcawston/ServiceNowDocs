@@ -38,5 +38,5 @@ An high assurance session established for the user is limited to the High Assura
 
 [Pre-work for Continuous Authentication](pre-work-ca.md)
 
-[Configuring Continuous Authentication](../task/configure-ca.md)
+[Configuring Continuous Authentication](configure-ca.md)
 

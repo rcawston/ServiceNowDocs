@@ -17,7 +17,7 @@ The FlowScriptAPI API provides a method to return the context ID of the running 
 
 You cannot instantiate objects of this type. Objects of this type are created automatically and are accessible only in script steps and inline scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## FlowScriptAPI - getContextID\(\)
 

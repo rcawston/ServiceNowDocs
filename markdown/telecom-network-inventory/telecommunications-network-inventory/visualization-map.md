@@ -147,7 +147,7 @@ You can access the geo map in the Telecommunications Network Inventory workspace
 2.  Select the blue hub icon \(![Blue Hub Icon.](../image/icon-blue-hub.png)\) to open the Network visualization window.
 3.  Select **Geo map** tab.
 
-To learn more about how to use the geo map, see [View details of the geo map](../task/view-details-network-site-map.md).
+To learn more about how to use the geo map, see [View details of the geo map](view-details-network-site-map.md).
 
 **Related topics**  
 

@@ -58,7 +58,7 @@ Role required: now\_assist\_data\_privacy\_admin
 
 7.  To add a data pattern to de-identify, select **Select Data Patterns**.
 
-8.  To create your own data pattern, see [Configure Data Discovery patterns](../task/configure-data-discovery-patterns.md).
+8.  To create your own data pattern, see [Configure Data Discovery patterns](../data-discovery/configure-data-discovery-patterns.md).
 
 9.  Select your data patterns, then select **Save**.
 

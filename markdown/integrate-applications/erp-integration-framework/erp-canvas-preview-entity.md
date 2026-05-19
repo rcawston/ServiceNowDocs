@@ -97,7 +97,7 @@ After viewing tables, select **Manage entities**, then **Select entity**. In **S
 
 ![Manage model page with manage entities option highlighted.](../image/erpc-preview-entity-manage-entities.png)
 
-For detailed information about adding entities, see [Add an entity to a model](../concept/add-an-entity-to-model.md).
+For detailed information about adding entities, see [Add an entity to a model](add-an-entity-to-model.md).
 
-**Parent Topic:**[Add an entity to a model](../concept/add-an-entity-to-model.md)
+**Parent Topic:**[Add an entity to a model](add-an-entity-to-model.md)
 

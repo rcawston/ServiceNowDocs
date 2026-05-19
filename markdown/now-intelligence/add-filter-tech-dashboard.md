@@ -19,7 +19,7 @@ Role required: ui\_builder\_admin, admin
 
 ## Procedure
 
-1.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](../../dashboards/task/edit-db-in-ac.md).
+1.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](edit-db-in-ac.md).
 
     If the dashboard is a technical dashboard, you see an **Edit in UI Builder** button. If it is in the inline editor, you see an **Edit** button. In the latter case, go to [Create or add a filter on an inline dashboard](select-workspace-filter-type.md).
 

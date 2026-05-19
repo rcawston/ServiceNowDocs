@@ -21,7 +21,7 @@ Text search
 
  Use search in the launcher screen header to quickly find information within the defined search sources while on your mobile device.
 
- Your administrator can configure global search within a launcher screen header and define a set of tables that can be searched through. For details on how an administrator can configure global search, see [Enable global search in your screen launcher](../task/sg-configure-alp-search.md).
+ Your administrator can configure global search within a launcher screen header and define a set of tables that can be searched through. For details on how an administrator can configure global search, see [Enable global search in your screen launcher](sg-configure-alp-search.md).
 
 </td><td>
 
@@ -35,7 +35,7 @@ Text search
 
 Voice search
 
- If enabled by your administrator, you can tap to talk on the microphone icon \(![Search icon](../image/search-mic.png)\) to the right of the search bar. You can then speak to your device and your voice is captured as search text. For details on how an administrator can configure voice search, see [Enable voice search](../../mobile-employee/task/turn-on-voice-search.md).
+ If enabled by your administrator, you can tap to talk on the microphone icon \(![Search icon](../image/search-mic.png)\) to the right of the search bar. You can then speak to your device and your voice is captured as search text. For details on how an administrator can configure voice search, see [Enable voice search](turn-on-voice-search.md).
 
 </td></tr><tr><td>
 

@@ -24,21 +24,21 @@ If you notice that the supplier catalog item records have been skipped during th
 **Related topics**  
 
 
-[Run fix script to update the KPI weighted score field in the KPI score table](../task/run-fixscript-update-kpi-weighted-score.md)
+[Run fix script to update the KPI weighted score field in the KPI score table](run-fixscript-update-kpi-weighted-score.md)
 
-[Run fix script to update the Aggregation method field in the KPI table](../task/run-fixscript-update-kpi-aggregation-method.md)
+[Run fix script to update the Aggregation method field in the KPI table](run-fixscript-update-kpi-aggregation-method.md)
 
-[Run fix script to update the KPI Instruction field in the Supplier Task table](../task/run-fixscript-update-kpi-instruction.md)
+[Run fix script to update the KPI Instruction field in the Supplier Task table](run-fixscript-update-kpi-instruction.md)
 
-[Run fix scripts to enable Automated KPI collection](../task/run-fixscript-automated-kpis.md)
+[Run fix scripts to enable Automated KPI collection](run-fixscript-automated-kpis.md)
 
-[Run fix script to migrate existing data from the deprecated Action type column after upgrade](../task/fix-script-deprecated-column.md)
+[Run fix script to migrate existing data from the deprecated Action type column after upgrade](fix-script-deprecated-column.md)
 
-[Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](../task/access-smw-after-upgrade.md)
+[Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](access-smw-after-upgrade.md)
 
-[Enable deprecated case types after upgrade](../task/enable-deprecated-case-types.md)
+[Enable deprecated case types after upgrade](enable-deprecated-case-types.md)
 
-[Enable deprecated case types after upgrade](../task/enable-deprecated-case-types.md)
+[Enable deprecated case types after upgrade](enable-deprecated-case-types.md)
 
 [Restructured Supplier Task table](supplier-task-table-restructure.md)
 

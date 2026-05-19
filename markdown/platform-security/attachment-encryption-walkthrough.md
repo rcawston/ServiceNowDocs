@@ -15,7 +15,7 @@ This walkthrough shows you how to encrypt an attachment in your instance using F
 
 ## Before you begin
 
-**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
+**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 Role required: sn\_kmf.cryptographic\_manager
 
@@ -134,7 +134,7 @@ The **Single Module** option is used to apply the policies for one module. **Mul
 </td></tr></tbody>
 </table>7.  Select **Save**.
 
-    Establish a Module Access Policy \(MAP\) to assign access to the cryptographic module. Refer to [Create a module access policy](create-module-access-policy.md) for additional information.
+    Establish a Module Access Policy \(MAP\) to assign access to the cryptographic module. Refer to [Create a module access policy](platform-encryption/create-module-access-policy.md) for additional information.
 
 8.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience** &gt; **Configurations** &gt; **Access Policies**.
 
@@ -174,5 +174,5 @@ The **Single Module** option is used to apply the policies for one module. **Mul
 
 You have successfully used your customer-supplied key to control access to a specific attachment using Field Encryption Enterprise.
 
-**Parent Topic:**[Column Level Encryption Enterprise examples](../concept/kmf-walkthroughs-tutorials-2.md)
+**Parent Topic:**[Column Level Encryption Enterprise examples](kmf-walkthroughs-tutorials-2.md)
 

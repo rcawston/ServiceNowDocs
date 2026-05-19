@@ -30,7 +30,7 @@ Preconditions:
 -   Incident manager created an improvement request.
 -   Improvement Manager accepted and assigned the improvement request.
 
-By default, an improvement requires approval before it can progress to the Implement state. You can disable the approval requirement using the **sn\_cim.need\_approval** [property](../reference/cim-reference.md). When disabled, the **Approver group** field and the **Approvers** related list on the Improvement Initiative form are not shown.
+By default, an improvement requires approval before it can progress to the Implement state. You can disable the approval requirement using the **sn\_cim.need\_approval** [property](cim-reference.md). When disabled, the **Approver group** field and the **Approvers** related list on the Improvement Initiative form are not shown.
 
 ## Procedure
 
@@ -58,10 +58,10 @@ As part of the approval process, an Approver group member assessed the details o
 |Approving|CIM0000135|
 |Comments|--|
 
-**Parent Topic:**[Managing improvements](../concept/cim-improvement-initiative-mgmt.md)
+**Parent Topic:**[Managing improvements](cim-improvement-initiative-mgmt.md)
 
 **Related topics**  
 
 
-[Improvement field descriptions](../reference/cim-field-descriptions.md)
+[Improvement field descriptions](cim-field-descriptions.md)
 

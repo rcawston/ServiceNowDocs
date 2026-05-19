@@ -46,7 +46,7 @@ Use the [UserSkillAnalyzer API](https://raw.githubusercontent.com/ServiceNow/Ser
     The API retrieves a list of qualified users based on matching and mandatory skills and skill levels.
 
 
-**Parent Topic:**[Routing work items to agents based on skills](../concept/skill-based-routing.md)
+**Parent Topic:**[Routing work items to agents based on skills](skill-based-routing.md)
 
 **Related topics**  
 

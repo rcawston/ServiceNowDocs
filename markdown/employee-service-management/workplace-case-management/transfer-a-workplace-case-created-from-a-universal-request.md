@@ -79,7 +79,7 @@ Option to copy the comments and attachments of this case while transferring. The
 
 The case is transferred to the selected department.
 
-**Parent Topic:**[Workplace Service Delivery integration with Universal Request](../concept/wsd-intergration-with-universal-request.md)
+**Parent Topic:**[Workplace Service Delivery integration with Universal Request](wsd-intergration-with-universal-request.md)
 
 **Related topics**  
 

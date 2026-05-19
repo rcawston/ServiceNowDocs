@@ -17,7 +17,7 @@ Multiple messages that are used within the incident escalation flows are availab
 
 These messages provide instructions to technical support engineers to troubleshoot, escalate, and resolve incidents. The ones provided with the base system address common network initiated incidents, but can be modified for your troubleshooting processes.
 
--   **[Customize message files for Proactive Service Experience Workflows](../task/configure-msg-file-taw.md)**  
+-   **[Customize message files for Proactive Service Experience Workflows](configure-msg-file-taw.md)**  
 Customize the messages that provide instructions to the network engineers that are working on network-initiated issues for different subcategories, levels of escalation, and personas in Proactive Service Experience Workflows.
 
 **Parent Topic:**[Using Proactive Service Experience Workflows](use-assurance-workflows.md)

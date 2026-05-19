@@ -58,7 +58,7 @@ To create a quote from an RFQ, you must first assign an RFQ record to an agent a
 
 ## What to do next
 
-View quotes, generate PDFs share to share quotes with customers for acceptance, create sales agreements, or convert quotes to orders to continue the sales process. For more information, see [Using Quote Management](../concept/quote-mgmt-using.md).
+View quotes, generate PDFs share to share quotes with customers for acceptance, create sales agreements, or convert quotes to orders to continue the sales process. For more information, see [Using Quote Management](quote-mgmt-using.md).
 
 **Related topics**  
 

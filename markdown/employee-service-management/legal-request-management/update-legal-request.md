@@ -113,5 +113,5 @@ A link to the document is listed in the **External URL** column of the documents
     **Note:** The **Legal Matters** tab appears only when the legal request is associated with a legal matter, and you have permission to view legal matters.
 
 
-**Parent Topic:**[Using Legal Request Management](../concept/submitting-legal-request.md)
+**Parent Topic:**[Using Legal Request Management](submitting-legal-request.md)
 

@@ -27,7 +27,7 @@ Each search profile includes its own relevancy model. You can't view, modify, or
 
 ## Search signals and machine learning relevancy tuning
 
-AI Search UX components record signals associated with user searches. These search signals include data on how search users interact with the search input field, auto-complete suggestions, facet and source facet bucket filters, Genius Result answer cards, and search results. To learn more about how search signals are recorded and stored, see [Search signals](../../search-administration/concept/search-signals.md).
+AI Search UX components record signals associated with user searches. These search signals include data on how search users interact with the search input field, auto-complete suggestions, facet and source facet bucket filters, Genius Result answer cards, and search results. To learn more about how search signals are recorded and stored, see [Search signals](../search-administration/search-signals.md).
 
 Machine learning relevancy uses data from these search signals to intelligently tune relevancy models on a continual basis. Every 30 days, AI Search computes a new version of each relevancy model, iteratively modifying its parameters and regression testing it against aggregated search signal data for the search profile. When this tuning process is complete, AI Search compares the existing and new relevancy models to see which one produces better matches for user search behavior as recorded in the historical signal data.
 
@@ -49,7 +49,7 @@ AI Search uses a dedicated relevancy model to rank records for display as auto-c
 
 ## Viewing relevancy scores for search results
 
-Search administrators can view the scores for search results in the Search Preview UI from the Advanced AI Search Management Tools ServiceNow® Store application. For details on using this feature to investigate search behavior, see [Search Preview UI for AI Search](../../../use/dashboards/application-content-packs/ai-search-preview.md#).
+Search administrators can view the scores for search results in the Search Preview UI from the Advanced AI Search Management Tools ServiceNow® Store application. For details on using this feature to investigate search behavior, see [Search Preview UI for AI Search](ai-search-preview.md#).
 
 **Parent Topic:**[Administering AI Search](administer-ais.md)
 

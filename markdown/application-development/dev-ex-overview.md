@@ -17,8 +17,8 @@ Find the ServiceNow developer product that can help you build amazing products o
 
 Use the following tools to find ServiceNow developer products:
 
--   [ServiceNow Widget](../../custom-application/concept/finding_products_widget.md) that guides you to developer products
--   [ServiceNow Table](../../custom-application/concept/developer_navigation_table.md) that lists developer products
+-   [ServiceNow Widget](finding_products_widget.md) that guides you to developer products
+-   [ServiceNow Table](developer_navigation_table.md) that lists developer products
 
 If you're still not sure where to start, contact your sales representative. They can help you figure out what problems you're trying to solve and how to solve them.
 

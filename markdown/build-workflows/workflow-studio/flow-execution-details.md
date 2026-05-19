@@ -60,11 +60,11 @@ Each reporting level generates progressively more flow execution details.
 
 If a flow runs while reporting is off, past execution details are never available for the flow, even if the reporting level later changes. If a flow runs while reporting is on, execution details are available for that flow execution, even if the reporting level changes. The reporting level has no effect on context and log records.
 
-You can configure the default reporting level the system uses to generate execution details each time a flow is run. For more information, see [Activate flow reporting](../task/enable-flow-reporting.md#).
+You can configure the default reporting level the system uses to generate execution details each time a flow is run. For more information, see [Activate flow reporting](enable-flow-reporting.md#).
 
 ## Refresh flow data
 
-Update flow runtime data as needed. Set a flow preference to refresh flow data automatically when you run a test. See [User preferences for flows](../reference/flow-preferences.md).
+Update flow runtime data as needed. Set a flow preference to refresh flow data automatically when you run a test. See [User preferences for flows](flow-preferences.md).
 
 ## Flow state
 
@@ -166,7 +166,7 @@ The following types of execution details are available.
 
     Use the list of steps to identify any configuration errors with the action. Each step has its own row displaying the variable name, data type, configuration settings, and runtime value. Core actions don’t display steps because you can’t change their configuration.
 
-    Change the **com.snc.process\_flow.reporting.serialized.val\_size\_limit** system property to truncate runtime values in the flow execution details step configuration. To learn more, see [Workflow Studio flow system properties](../reference/flow-designer-system-properties.md).
+    Change the **com.snc.process\_flow.reporting.serialized.val\_size\_limit** system property to truncate runtime values in the flow execution details step configuration. To learn more, see [Workflow Studio flow system properties](flow-designer-system-properties.md).
 
 -   **Start time**
 

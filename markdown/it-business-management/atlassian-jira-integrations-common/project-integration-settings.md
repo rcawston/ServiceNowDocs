@@ -18,7 +18,7 @@ Associate your Jira projects and boards with assignment groups in Agile Developm
 ## Before you begin
 
 -   [Discover and import Jira projects and boards](discover-projects.md).
--   Create assignment groups in Agile Development 2.0. See [Create an assignment group in Agile Development 2.0](../../agile-development/task/create-an-agile-group.md#).
+-   Create assignment groups in Agile Development 2.0. See [Create an assignment group in Agile Development 2.0](../agile-development/create-an-agile-group.md#).
 -   Ensure that your Jira project has a defined mapping configuration.
 -   Role required: sn\_jira\_int.user
 
@@ -50,7 +50,7 @@ Create team integration settings to associate a Jira project and Jira board with
 
 You can import or issues from this Jira project or sprints from this Jira board to the associated assignment group.
 
-**Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](../concept/importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
+**Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
 
 **Related topics**  
 

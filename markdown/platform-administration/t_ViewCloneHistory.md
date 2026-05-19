@@ -25,7 +25,7 @@ The `clone_instance` table stores records for all previously and currently sched
 
 1.  Navigate to **All** &gt; **Instance Clone** &gt; **Live Clones** &gt; **Clone History**.
 
-    Clone history also displays the **State** for current and past clones. Clones in the **Draft** state don’t appear on the clone history table. For more information see [Clone states](../reference/clone-states.md).
+    Clone history also displays the **State** for current and past clones. Clones in the **Draft** state don’t appear on the clone history table. For more information see [Clone states](clone-states.md).
 
 2.  Select a record to view its history.
 

@@ -22,8 +22,8 @@ Because of this, field encryption modules on the target clone instance may have 
 
     The active module encryption key is used to encrypt inserted data as needed on the target clone instance. The deactivated module is used to decrypt existing data that was cloned over as part of the system clone.
 
-    To use a single key to decrypt and encrypt all data, you can run a module rekeying job. For more information about module rekeying jobs, see [Schedule mass encryption, decryption, and rekeying jobs](../../encryption/task/schedule-mass-jobs.md).
+    To use a single key to decrypt and encrypt all data, you can run a module rekeying job. For more information about module rekeying jobs, see [Schedule mass encryption, decryption, and rekeying jobs](schedule-mass-jobs.md).
 
 
-**Parent Topic:**[Configuring Field Encryption](../../encryption/concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

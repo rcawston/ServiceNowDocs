@@ -43,5 +43,5 @@ current.u_affected_value = 'NULL';
 current.update();
 ```
 
-**Parent Topic:**[Server-side scripting](../concept/c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
 

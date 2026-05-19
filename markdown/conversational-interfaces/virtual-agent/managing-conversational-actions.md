@@ -16,7 +16,7 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 View and manage conversational actions through Assistant Designer.
 
-**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](../reference/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](vad-prev-topics-page.md).
 
 When you have the admin or virtual\_agent\_admin role, you can work with conversational actions in Assistant Designer.
 
@@ -51,5 +51,5 @@ Conversational subflows and actions only appear to users during a Virtual Agent 
 -   For more information on conversational actions, see [Conversational actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/conversational-actions.md).
 -   For more information on integrating actions that are not conversational into Virtual Agent Designer assets, see [Integrating Virtual Agent with Workflow Studio workflows](va-flow-designer-integration.md).
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 

@@ -25,5 +25,5 @@ The Cloud Cost Management Workspace contains the following views:
 -   [Operations view](operation-view-ccm-ws.md): View and manage recommendations, cost usage tags, and admin-related operations.
 -   [Admin view](guided-setup-view-ccm-ws.md): Install, set up, and configure Cloud Cost Management through a guided experience.
 
-**Note:** You can view the reports and data based on your role. For more information, see [Cloud Cost Management roles](../reference/cloud-insights-roles.md).
+**Note:** You can view the reports and data based on your role. For more information, see [Cloud Cost Management roles](cloud-insights-roles.md).
 

@@ -21,7 +21,7 @@ For additional information on FX Currency configuration, see [Setting up and ope
 
 This class runs is in the `sn_currency` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideCurrencyConfig - GlideCurrencyConfig\(\)
 

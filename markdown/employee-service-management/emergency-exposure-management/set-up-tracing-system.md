@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-For more information about the available tracing systems, see [Tracing systems in Emergency Exposure Management](../concept/tracing-systems-exposure-mgnt.md).
+For more information about the available tracing systems, see [Tracing systems in Emergency Exposure Management](tracing-systems-exposure-mgnt.md).
 
 ## Procedure
 
@@ -121,7 +121,7 @@ Legend icon
 
 </td><td>
 
-Icon representing the tracing system as data source for the potentially exposed contact's in the potentially exposed contacts visualization on the Case form.For more information, see [Working on a case through contact tracing visualization](../../contact-tracing/reference/contact-tracing-case-visualization.md).
+Icon representing the tracing system as data source for the potentially exposed contact's in the potentially exposed contacts visualization on the Case form.For more information, see [Working on a case through contact tracing visualization](../contact-tracing/contact-tracing-case-visualization.md).
 
 </td></tr><tr><td>
 

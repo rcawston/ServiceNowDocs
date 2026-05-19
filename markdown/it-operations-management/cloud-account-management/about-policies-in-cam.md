@@ -17,15 +17,15 @@ Cloud Account Management provides policy-driven rules to automate account provis
 
 Cloud Account Management provides policies that you can use for the following purposes:
 
--   Suspending or reactivating AWS accounts. For more details, see [Set up suspension of an AWS account using service control policy](../task/configure-suspension-policy.md).
--   Auditing accounts and promoting compliance with security and governance standards. For more details, see [Review default Cloud Account Management certification policy](../task/policy-setup.md).
+-   Suspending or reactivating AWS accounts. For more details, see [Set up suspension of an AWS account using service control policy](configure-suspension-policy.md).
+-   Auditing accounts and promoting compliance with security and governance standards. For more details, see [Review default Cloud Account Management certification policy](policy-setup.md).
 -   Automating general approval, budget approval, and configuration assignments through the request policies listed in the following table.
 
     |Request policy|For more information|
     |--------------|--------------------|
-    |Subscription Account Creation General Approval|[Automate General Approval policy process](../task/automate-account-creation-approval.md)|
-    |Subscription Account Creation Budget Approval|[Automate Budget Approval policy process](../task/automate-account-budget-approval.md)|
-    |Subscription Account Creation Configuration Assignment|[Automate Configuration Assignment policy process](../task/automate-account-creation-config-assign.md)|
+    |Subscription Account Creation General Approval|[Automate General Approval policy process](automate-account-creation-approval.md)|
+    |Subscription Account Creation Budget Approval|[Automate Budget Approval policy process](automate-account-budget-approval.md)|
+    |Subscription Account Creation Configuration Assignment|[Automate Configuration Assignment policy process](automate-account-creation-config-assign.md)|
 
 
 ## Benefits of Cloud Account Management request policies

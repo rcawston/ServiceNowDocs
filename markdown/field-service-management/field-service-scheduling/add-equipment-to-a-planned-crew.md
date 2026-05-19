@@ -50,7 +50,7 @@ Equipment is added to the planned crew. This crew is eligible for tasks with equ
 **Related topics**  
 
 
-[Create crews in Field Service Management](create-crews-fsm.md)
+[Create crews in Field Service Management](../workforce-optimization-for-field-service/create-crews-fsm.md)
 
 ## Assign equipment to planned crews through Dispatcher Workspace
 
@@ -109,7 +109,7 @@ Equipment is added to the planned crew. This crew is eligible for tasks with equ
 **Related topics**  
 
 
-[Create crews in Field Service Management](create-crews-fsm.md)
+[Create crews in Field Service Management](../workforce-optimization-for-field-service/create-crews-fsm.md)
 
 ## Assign equipment to planned crews through the Now Mobile app
 

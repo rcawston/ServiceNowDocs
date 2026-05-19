@@ -27,7 +27,7 @@ The lists and links on the List page provide you with easy access to records and
 -   **Lists** tab: Displays the default lists for remediation efforts, remediation tasks, vulnerable items \(VITs, AVITs, or CVITs\), solutions, exceptions, and configuration test results \(TRs\), etc. For more information, see the following table.
 -   **My Lists** tab: Displays any list that you’ve renamed from the List tab and any list that you create.
 
-    You can also create your own list of records. For more information, see [Create a list in the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-IT-list-view.md).
+    You can also create your own list of records. For more information, see [Create a list in the IT Remediation Workspace](vr-ws-IT-list-view.md).
 
 
 **Tip:**
@@ -309,5 +309,5 @@ sn\_vulc.remediation\_owner
 </table>**Related topics**  
 
 
-[Use the List view in the Vulnerability Manager Workspace](../../vr-vulnerability-manager-workspace/task/vr-ws-vmws-list-view-duplicate.md)
+[Use the List view in the Vulnerability Manager Workspace](../vulnerability-manager-workspace/vr-ws-vmws-list-view-duplicate.md)
 

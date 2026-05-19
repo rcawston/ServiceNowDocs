@@ -26,5 +26,5 @@ Use the Alexa intents supported by Conversational Integration with Alexa to rece
 |AMAZON.StopIntent|stop, off, and shut up|End conversation; End Alexa Session|
 |AMAZON.CancelIntent|cancel, never mind, and forget it|End conversation; End Alexa Session|
 
-**Parent Topic:**[Set up Conversational Integration with Alexa](../task/setup-alexa.md)
+**Parent Topic:**[Set up Conversational Integration with Alexa](setup-alexa.md)
 

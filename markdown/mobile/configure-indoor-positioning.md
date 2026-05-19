@@ -17,7 +17,7 @@ Indoor positioning enables end users to see their live location on an Indoor Way
 
 Before you can configure indoor positioning, you must have completed the following configurations:
 
--   Configure Indoor Wayfinding. For more information, see [Indoor Wayfinding configuration](../concept/indoor-wayfinding-config.md).
+-   Configure Indoor Wayfinding. For more information, see [Indoor Wayfinding configuration](indoor-wayfinding-config.md).
 -   Set up at least one custom map provider in the Custom Map Provider \[sys\_sg\_custom\_map\_provider\] table. For more information, see [Configure a custom map provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/configure-custom-map-provider.md)
 
 Role required: admin
@@ -29,7 +29,7 @@ Consider the following requirements that are related to this task.
 -   If all buildings use the same location provider, only one custom map provider record is needed.
 -   If different location providers are needed for each building, create a custom map provider record for each building and select the building as the key. Then assign location providers to your mobile devices.
 
-For information about the features this configuration enables for end users, see [Indoor positioning](../concept/indoor-positioning-end-user.md).
+For information about the features this configuration enables for end users, see [Indoor positioning](indoor-positioning-end-user.md).
 
 ## Procedure
 
@@ -58,5 +58,5 @@ For information about the features this configuration enables for end users, see
 8.  Select **Save**.
 
 
-**Parent Topic:**[Indoor Wayfinding configuration](../concept/indoor-wayfinding-config.md)
+**Parent Topic:**[Indoor Wayfinding configuration](indoor-wayfinding-config.md)
 

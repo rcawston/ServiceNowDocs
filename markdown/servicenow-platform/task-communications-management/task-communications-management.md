@@ -44,5 +44,5 @@ Assume that you want an incident communication plan generated for a high-priorit
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Parent Topic:**[Task Communications Management](../reference/tcm-landing-page.md)
+**Parent Topic:**[Task Communications Management](tcm-landing-page.md)
 

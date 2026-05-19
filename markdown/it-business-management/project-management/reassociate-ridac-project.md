@@ -47,7 +47,7 @@ You can associate one record with multiple different records. For example, you c
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](ridac-entries-for-project.md)
 
 [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project](convert-ridac-for-project.md)
 

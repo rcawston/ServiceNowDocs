@@ -29,5 +29,5 @@ Use GlideRecordSecure when querying data to ensure the highest level of security
 
 **Warning:** The `sys_class_name, sys_id` and `sys_domain` are ignored for ACL checks.
 
-To learn more about this property, see [Require AJAXGlideRecord ACL checking](../../security-center/reference/sc-enabling-ajaxgliderecord-acl-checking.md) in Instance Security Hardening Settings.
+To learn more about this property, see [Require AJAXGlideRecord ACL checking](../instance-security-hardening-settings/sc-enabling-ajaxgliderecord-acl-checking.md) in Instance Security Hardening Settings.
 

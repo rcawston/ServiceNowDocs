@@ -91,5 +91,5 @@ Custom events take effect when you create them. You cannot use them to analyze d
     The Events page appears, which lists all custom events. You can open the **Custom Events** tab on the dashboard to see the custom event. This custom event is not retroactive; the dashboard only displays new events that satisfy the custom event criteria.
 
 
-**Parent Topic:**[Setting up the Conversational Analytics dashboard](../concept/setting-up-va-dashboard-overview1-pae.md)
+**Parent Topic:**[Setting up the Conversational Analytics dashboard](setting-up-va-dashboard-overview1-pae.md)
 

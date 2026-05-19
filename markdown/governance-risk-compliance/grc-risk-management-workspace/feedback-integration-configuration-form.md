@@ -80,5 +80,5 @@ Respondent field
 User or group field on the target record. For example, if you want the record owner to respond to the raised feedback, select `Owner` in this field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure a feedback integration](../task/configure-feedback-integration.md)
+</table>**Parent Topic:**[Configure a feedback integration](configure-feedback-integration.md)
 

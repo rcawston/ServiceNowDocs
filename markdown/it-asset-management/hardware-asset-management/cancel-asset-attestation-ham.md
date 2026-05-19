@@ -43,5 +43,5 @@ An asset attestation that's in the In progress state can only be canceled.
 -   The state of the asset attestation changes to Canceled.
 -   The status of the assets in the asset attestation that aren't confirmed by the employees' changes from Open to Canceled.
 
-**Parent Topic:**[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+**Parent Topic:**[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
 

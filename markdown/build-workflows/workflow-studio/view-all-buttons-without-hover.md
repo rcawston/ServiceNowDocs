@@ -35,5 +35,5 @@ When you hover over or select an element in the playbook diagram, buttons such a
     To learn more about how you can make the UI most accessible for you, see [Configure Next Experience accessibility preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-accessibility-preferences.md)
 
 
-**Parent Topic:**[Configuring Playbooks](../concept/setting-up-process-automation-designer.md)
+**Parent Topic:**[Configuring Playbooks](setting-up-process-automation-designer.md)
 

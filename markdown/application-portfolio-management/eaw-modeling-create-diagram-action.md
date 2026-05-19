@@ -35,12 +35,12 @@ After creating custom shapes and adding the custom shapes to the shape library, 
 
 6.  On the Diagram Action form, fill in the fields.
 
-    For field information, see [Create diagram action form](../../reference/eaw-reference/eaw-diagram-action-form.md).
+    For field information, see [Create diagram action form](eaw-diagram-action-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-setup-modeling.md)
+**Parent Topic:**[Configure Enterprise Modeling and Visualization](eaw-setup-modeling.md)
 
 **Related topics**  
 

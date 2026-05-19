@@ -75,13 +75,13 @@ Exclusively Used
 By default, it is selected as **Yes**. Select **No** if you want to use the rack unit for multiple pieces of equipment. Also, on not selecting this field, you can place equipments in both the front and rear sides of the rack.**Note:**
 
 -   On selecting yes, the selected equipment occupies both front and rear of rack units.
--   You can place multiple pieces of equipment only on a **Shelf** equipment holder type. To learn more, see [994adcaad828f977d9cc3746ca467b88e162a370.dita](../task/define-tni-equipment-holders.md).
+-   You can place multiple pieces of equipment only on a **Shelf** equipment holder type. To learn more, see [994adcaad828f977d9cc3746ca467b88e162a370.dita](define-tni-equipment-holders.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Add an equipment to rack or cabinet](../task/add-equipment-rack.md)
+[Add an equipment to rack or cabinet](add-equipment-rack.md)
 

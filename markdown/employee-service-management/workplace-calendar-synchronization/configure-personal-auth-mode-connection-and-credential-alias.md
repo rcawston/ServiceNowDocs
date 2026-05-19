@@ -76,7 +76,7 @@ Configure the default connection and credential alias to use the default entity 
 
 The Connection and credential alias is set.
 
-**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](../concept/personal-auth-mode-connection-with-msex.md)
+**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](personal-auth-mode-connection-with-msex.md)
 
 **Related topics**  
 

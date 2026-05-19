@@ -48,5 +48,5 @@ The table below shows the skill determination rules available for Workforce Opti
     For information, see [Create Skill Determination rules to assign skills to work items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/conf-simple-skill-determination-rule.md).
 
 
-**Parent Topic:**[Routing work based on skills in Workforce Optimization for ITSM](../concept/skill-determination-configurable-wfo-itsm.md)
+**Parent Topic:**[Routing work based on skills in Workforce Optimization for ITSM](skill-determination-configurable-wfo-itsm.md)
 

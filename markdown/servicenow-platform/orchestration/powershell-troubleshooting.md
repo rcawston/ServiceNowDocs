@@ -19,7 +19,7 @@ Use these procedures for troubleshooting authentication failures with Orchestrat
 
 ![Authentication error message](../image/AuthenticationErrorMsg.png "Authentication error message")
 
-**Parent Topic:**[PowerShell protocols and troubleshooting](../reference/powershell-protocols.md)
+**Parent Topic:**[PowerShell protocols and troubleshooting](powershell-protocols.md)
 
 ## Authentication failure in an Active Directory activity
 

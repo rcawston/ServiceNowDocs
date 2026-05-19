@@ -105,7 +105,7 @@ Applies to
 Conditions under which the contract configuration is applied. For example, to apply a configuration when a contract request is submitted in the Non-disclosure agreement category, you would enter the following condition: **\[Category\]\[is\]\[ Non-disclosure agreement\]**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+</table>**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
 
 **Related topics**  
 
@@ -134,7 +134,7 @@ Conditions under which the contract configuration is applied. For example, to ap
 
 [Obligation Management notifications](cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](contract-management-pro-glossary.md#)
 
 [Contract Management solutions](cmpro-cml-feature-compare.md)
 

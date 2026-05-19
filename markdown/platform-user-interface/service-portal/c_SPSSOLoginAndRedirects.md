@@ -29,7 +29,7 @@ You can configure the **glide.service\_portal.sso.early\_redirect.portals** syst
 
 ## Require authentication for a Service Portal page
 
-If you want to require authentication for a Service Portal page, confirm that the **Public** flag on the page record is not selected. For more information, see [Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#). If a user navigates to a non-public page, they are redirected to the login page for the requested portal.
+If you want to require authentication for a Service Portal page, confirm that the **Public** flag on the page record is not selected. For more information, see [Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#). If a user navigates to a non-public page, they are redirected to the login page for the requested portal.
 
 Because every page request is routed through the **$sp** page, this page must be public. The following values in the Public Pages `sys_public` table define the page as public:
 

@@ -31,5 +31,5 @@ If the response is received asynchronously, the response should be passed to the
 
 In this example response, the `qualificationresult` is set to Qualified for all the service orders in the hierarchy and the final `result` is also set to Qualified.
 
-**Parent Topic:**[Service qualification requests](../concept/order-mgt-tsq-about.md)
+**Parent Topic:**[Service qualification requests](order-mgt-tsq-about.md)
 

@@ -36,5 +36,5 @@ Role required: evt\_mgmt\_admin
     **Note:** If the current event rule regex expressions do not match the selected event after the refresh, the update fails and an error message appears specifying the problematic fields. This safeguard ensures that your previously defined event rule regex expressions are not broken due to the refresh.
 
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](create-event-rules.md)
 

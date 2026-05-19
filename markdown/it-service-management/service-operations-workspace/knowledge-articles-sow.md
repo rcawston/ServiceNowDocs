@@ -23,7 +23,7 @@ Agents can also use knowledge blocks to reuse content within knowledge articles.
 
 **Note:** The list of knowledge blocks is available only when the Knowledge Blocks plugin \(com.snc.knowledge\_blocks\) is activated.
 
--   **[Work on a knowledge article in Service Operations Workspace](../task/work-knowledge-article.md)**  
+-   **[Work on a knowledge article in Service Operations Workspace](work-knowledge-article.md)**  
 Share information across your organization using a knowledge article.
 
 **Parent Topic:**[Managing IT services in your organization](managing-services-operations-in-organization.md)

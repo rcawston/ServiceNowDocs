@@ -235,15 +235,15 @@ Manage activity definition access by specifying the **Required Roles** to access
 
 ![Read-only view of activities in Workflow Studio for restricted activity definitions](../images/activity-definition-read-only.gif)
 
-To learn more about activity definitions, see [Create an activity definition](../task/create-activity-definition.md) and [Activity definitions](activity-definitions.md).
+To learn more about activity definitions, see [Create an activity definition](create-activity-definition.md) and [Activity definitions](activity-definitions.md).
 
 **Note:** Both playbook.admin and pd\_content\_author roles can edit activity definitions, but only the playbook.admin role can edit the **Required Roles** field.
 
 -   **[Content filtering for Playbook](content-filtering-playbooks.md)**  
 Specify which content a user can access based on the user's role.
--   **[Configure content filtering definitions for Playbook](../task/configure-content-filtering-definitions-playbooks.md)**  
+-   **[Configure content filtering definitions for Playbook](configure-content-filtering-definitions-playbooks.md)**  
 Specify which content a user can access by creating content definitions.
--   **[Configure content filtering rules for Playbook](../task/configure-content-filtering-rules-playbooks.md)**  
+-   **[Configure content filtering rules for Playbook](configure-content-filtering-rules-playbooks.md)**  
 Use content filtering rules to specify the role a user must have to access content.
 
 **Parent Topic:**[Administering Playbooks](administering-process-automation-designer.md)

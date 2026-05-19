@@ -15,9 +15,9 @@ Enable robot pool for a bot process in RPA Hub to effectively allocate robots fo
 
 ## Before you begin
 
-Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](robot-pool-rpa.md).
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Create a robot pool. For more information, see [Create a robot pool in RPA Hub](create-robot-pool.md).
 
@@ -57,7 +57,7 @@ Enable Robot Pool
 
 Option to enable the robot pool for the bot process.On enabling this option, the **Assign Robots** tab on the bot process is hidden.
 
-For more information about robot pool, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+For more information about robot pool, see [Robot pool in RPA Hub](robot-pool-rpa.md).
 
 </td></tr><tr><td>
 
@@ -111,5 +111,5 @@ Robots are allocated to distribute the workload, based on the percentage you sel
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Robot pool in RPA Hub](../concept/robot-pool-rpa.md)
+**Parent Topic:**[Robot pool in RPA Hub](robot-pool-rpa.md)
 

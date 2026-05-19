@@ -54,5 +54,5 @@ Topic authors can also see the test results in the Conversation Task FDIH Invoca
 5.  Select **Save** when you're finished.
 
 
-**Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](../concept/va-flow-designer-integration.md)
+**Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](va-flow-designer-integration.md)
 

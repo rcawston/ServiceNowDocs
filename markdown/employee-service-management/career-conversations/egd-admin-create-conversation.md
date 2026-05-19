@@ -30,5 +30,5 @@ Role required: sn\_egd\_act.admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Install and configure Career Conversations](../concept/egd-activities-install-config.md)
+**Parent Topic:**[Install and configure Career Conversations](egd-activities-install-config.md)
 

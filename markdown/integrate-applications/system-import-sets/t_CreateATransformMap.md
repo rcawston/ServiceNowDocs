@@ -142,7 +142,7 @@ Option to use a secondary database to look up reference fields.
 
  A secondary database is always slightly out of date compared to the primary database. If your import requires completely up-to-date data, don't use secondary storage.
 
- This field appears only when the Secondary Database Pools \[com.glide.secondary\_db\_pools\] plugin has been activated, and the import\_reference\_resoultion secondary database category has been configured and enabled. For more information, see [Large data imports with many reference fields](../../../administer/technical-best-practice/concept/c_TroubleshootImportSetPerformance.md#).
+ This field appears only when the Secondary Database Pools \[com.glide.secondary\_db\_pools\] plugin has been activated, and the import\_reference\_resoultion secondary database category has been configured and enabled. For more information, see [Large data imports with many reference fields](c_TroubleshootImportSetPerformance.md#).
 
 </td></tr><tr><td>
 
@@ -164,5 +164,5 @@ Transform map script that transforms field values in the source table to the tar
 </table>    **Important:** The string `NULL` is a reserved word. It should not be used as a field value in import set transform maps or anywhere in the **First name** or **Last name** fields. The reserved word is `NULL` in all capital letters. A field with the value `Null` or `null`, for example, is acceptable. `NULL` should be used only to clear out a particular field.
 
 
-**Parent Topic:**[Importing data using import sets](../../../administer/import-sets/concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

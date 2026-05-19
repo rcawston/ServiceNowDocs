@@ -24,5 +24,5 @@ The Process agent rating, Daily Data Collection job runs every night to refresh 
 **Related topics**  
 
 
-[Configuring Field Service Management Customer Experience](Configuring-cust-exp.md#)
+[Configuring Field Service Management Customer Experience](../work-order-management/Configuring-cust-exp.md#)
 

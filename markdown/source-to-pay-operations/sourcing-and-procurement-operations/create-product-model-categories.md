@@ -141,7 +141,7 @@ Sourcing time in days
 
 </td><td>
 
-Number of days that are required to source a product of this category from the supplier.For details, see [Lead time calculations](../reference/lead-time-calculations.md).
+Number of days that are required to source a product of this category from the supplier.For details, see [Lead time calculations](lead-time-calculations.md).
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ Supplier onboarding time in days
 
 </td><td>
 
-Number of days that are required for a new supplier of a product in this category to onboard.For details, see [Lead time calculations](../reference/lead-time-calculations.md).
+Number of days that are required for a new supplier of a product in this category to onboard.For details, see [Lead time calculations](lead-time-calculations.md).
 
 </td></tr><tr><td>
 

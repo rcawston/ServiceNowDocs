@@ -27,7 +27,7 @@ Role required: admin
 
 3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
-    For a description of the field names, see [Scheduled Script Execution form to generate labor costs for projects and demands](../reference/gen-labor-costs-scheduled-script-form-pp.md).
+    For a description of the field names, see [Scheduled Script Execution form to generate labor costs for projects and demands](gen-labor-costs-scheduled-script-form-pp.md).
 
 4.  Select **Update** to save your changes or **Execute Now** to run the scheduled job.
 

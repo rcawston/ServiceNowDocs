@@ -33,7 +33,7 @@ You can't allocate an excluded loaner asset. For more information, see [Hardware
 **Related topics**  
 
 
-[Manage loaner assets](../task/manage-loaner-asset.md)
+[Manage loaner assets](manage-loaner-asset.md)
 
 ## Loaner asset reservation
 

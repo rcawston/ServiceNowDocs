@@ -28,12 +28,12 @@ Role required: assessment\_admin or admin
     -   To delete a single record, open the record and click **Delete**.
     -   To delete multiple records, use the Assessable Records list.
 
-**Parent Topic:**[Assessable records](../concept/c_assessable-records.md)
+**Parent Topic:**[Assessable records](c_assessable-records.md)
 
-**Parent Topic:**[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+**Parent Topic:**[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
-[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 

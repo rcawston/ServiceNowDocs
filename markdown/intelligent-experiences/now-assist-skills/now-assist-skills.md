@@ -18,13 +18,13 @@ Now Assist products provide generative AI skills that are tailored to meet the n
 
 The following sections describe the available Now Assist skills.
 
-By default, all skills exist in the global domain. When you use Now Assist in a domain-separated environment, users are only able to access data in their domain. For example, if a user uses the summarization skill, Now Assist only uses material that exists in the user's domain when generating that summary. Additionally, there is no co-mingling of data for domain-separated instances when using generative AI skills. The data resides only on the instance, and the shared services used for generative AI do not persist any requests \(prompts\) and responses. For more information, see [Domain separation in the Now Assist Admin console](../../now-assist-admin/concept/domain-separation-in-the-now-assist-admin-console.md). \(Note that global domain is not the same as global scope. For more information, see [Exploring Next Experience pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-pickers.md).\)
+By default, all skills exist in the global domain. When you use Now Assist in a domain-separated environment, users are only able to access data in their domain. For example, if a user uses the summarization skill, Now Assist only uses material that exists in the user's domain when generating that summary. Additionally, there is no co-mingling of data for domain-separated instances when using generative AI skills. The data resides only on the instance, and the shared services used for generative AI do not persist any requests \(prompts\) and responses. For more information, see [Domain separation in the Now Assist Admin console](../domain-separation-in-the-now-assist-admin-console.md). \(Note that global domain is not the same as global scope. For more information, see [Exploring Next Experience pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-pickers.md).\)
 
 **Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](now-assist-skills-on-by-default.md).
 
 **Note:** Some workflow skills support Now Assist functionality. Deactivating these skills may negatively impact some features.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../ai-native-sku-overview.md).
 
 ## Now Assist skills overview
 
@@ -617,25 +617,25 @@ Platform
 
 </td><td>
 
-[Now Assist Platform](../../now-assist-platform/concept/platform-now-assist-landing.md)
+[Now Assist Platform](../platform-now-assist-landing.md)
 
 </td><td>
 
 -   [Article optimization](now-assist-article-optimization.md)
--   [Complete record generation](../../now-assist-data-kit/concept/now-assist-data-kit-landing.md)
+-   [Complete record generation](../now-assist-data-kit/now-assist-data-kit-landing.md)
 -   [Conversational Help](conversational-help-skills.md)
 -   [Document summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/generate-document-summary-now-assist.md)
 -   [Dynamic Guidance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/dynamic-guidance.md)
 -   [Extract information from documents](now-assist-extract-information-from-documents.md)
--   [GAF skills](../../now-assist-ai-agents/task/configure-gaf.md)
+-   [GAF skills](../configure-gaf.md)
 -   [Knowledge content recommendation](now-assist-platform-knowledge.md)
--   [Multimodal chat](../../document-intelligence/concept/docintel-exploring-now-assist.md)
+-   [Multimodal chat](../now-assist-in-document-intelligence/docintel-exploring-now-assist.md)
 -   [Navigation](now-assist-global-navigation.md)
--   [New column data generation](../../now-assist-data-kit/concept/now-assist-data-kit-landing.md)
+-   [New column data generation](../now-assist-data-kit/now-assist-data-kit-landing.md)
 -   [Potential knowledge gaps](potential-knowledge-gaps.md)
 -   [Requester approval checklist](service-portal-approval-checklist-skill.md)
--   [ServiceNow Lens](../../../product/servicenow-lens/concept/servicenow-lens-landing-page.md)
--   [TextToResult](../../knowledge-graph/concept/knowledge-graph-landing.md)
+-   [ServiceNow Lens](../servicenow-lens/servicenow-lens-landing-page.md)
+-   [TextToResult](../knowledge-graph/knowledge-graph-landing.md)
 
 </td></tr><tr><td>
 

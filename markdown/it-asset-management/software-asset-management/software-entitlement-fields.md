@@ -133,7 +133,7 @@ License metric
 
 </td><td>
 
-License metric for the license group that the software license is counted against when reconciliation is run. The options for license metric change based on the **Metric group** field.For more information, see [Software license metrics](../concept/c_SAMLicenseMetrics.md).
+License metric for the license group that the software license is counted against when reconciliation is run. The options for license metric change based on the **Metric group** field.For more information, see [Software license metrics](c_SAMLicenseMetrics.md).
 
  **Note:**
 
@@ -230,7 +230,7 @@ Unit cost
 
 </td><td>
 
-Unit cost of the software. **Note:** Required for total cost and savings calculations on the [Software Asset Management dashboard.](../concept/c_SAMDashboard.md)
+Unit cost of the software. **Note:** Required for total cost and savings calculations on the [Software Asset Management dashboard.](c_SAMDashboard.md)
 
 From the Australia release, revenue-based licensing support is enabled for this field for SAP Engine products. This support enables using higher value revenue-based SAP Engine products.
 
@@ -407,7 +407,7 @@ Cost center financially responsible for the asset.
 </td></tr></tbody>
 </table>## Contracts tab
 
-When [importing software entitlements](../task/view-entitlement-import-errors.md), use the **Contract number** column on the downloadable template to link the contracts to the entitlements. Since the **Contract number** is a reference field, the system first searches for matches to existing contracts, so enter existing contract numbers. If no matching contract number is found, entitlement import errors are generated.
+When [importing software entitlements](view-entitlement-import-errors.md), use the **Contract number** column on the downloadable template to link the contracts to the entitlements. Since the **Contract number** is a reference field, the system first searches for matches to existing contracts, so enter existing contract numbers. If no matching contract number is found, entitlement import errors are generated.
 
 You should be able to create the contract from the error, enabling for the creation of the entitlement and the appearance of the contract on the entitlement form in the Contracts related list. You can also skip the contract creation process and still create the entitlement, but without a contract.
 
@@ -444,7 +444,7 @@ Assigned to
 
 </td><td>
 
-User that the associated rights are allocated to.**Note:** If you’re using a client access record to track and manage the users that are accessing your server software, this field displays the name of each user that you assigned the associated client access licenses \(CALs\) to. See [Add a software client access record in Software Asset Management classic](../task/t_AddAClientAccessRec.md) for detailed instructions on how to assign CALs to users in the Software Asset Management classic application. See [Create a software client access record in workspace](../task/create-clientaccess-workspace.md) for detailed instructions on how to assign CALs to users in the Software Asset Workspace.
+User that the associated rights are allocated to.**Note:** If you’re using a client access record to track and manage the users that are accessing your server software, this field displays the name of each user that you assigned the associated client access licenses \(CALs\) to. See [Add a software client access record in Software Asset Management classic](t_AddAClientAccessRec.md) for detailed instructions on how to assign CALs to users in the Software Asset Management classic application. See [Create a software client access record in workspace](create-clientaccess-workspace.md) for detailed instructions on how to assign CALs to users in the Software Asset Workspace.
 
 </td></tr><tr><td>
 
@@ -497,7 +497,7 @@ Assigned to
 
 </td><td>
 
-Device that the associated rights are allocated to.**Note:** If you’re using a client access record to track and manage the devices that are accessing your server software, this field displays the name of each device that you assigned the associated client access licenses \(CALs\) to. See [Add a software client access record in Software Asset Management classic](../task/t_AddAClientAccessRec.md) for detailed instructions on how to assign CALs to devices in the Software Asset Management classic application. See [Create a software client access record in workspace](../task/create-clientaccess-workspace.md) for detailed instructions on how to assign CALs to devices in the Software Asset Workspace.
+Device that the associated rights are allocated to.**Note:** If you’re using a client access record to track and manage the devices that are accessing your server software, this field displays the name of each device that you assigned the associated client access licenses \(CALs\) to. See [Add a software client access record in Software Asset Management classic](t_AddAClientAccessRec.md) for detailed instructions on how to assign CALs to devices in the Software Asset Management classic application. See [Create a software client access record in workspace](create-clientaccess-workspace.md) for detailed instructions on how to assign CALs to devices in the Software Asset Workspace.
 
 </td></tr><tr><td>
 
@@ -678,7 +678,7 @@ End date of the downgrade.
 |-----|-----------|
 |Software entitlement|The software entitlement that the consumption is linked to.|
 |Consumption rule|The consumption rule linked to the entitlement.|
-|License pool|License pool associated with the consumption rule. For details on license pools, see [Reconciliation of licenses across global entities](../concept/reconcile-licenses-global-entities.md).|
+|License pool|License pool associated with the consumption rule. For details on license pools, see [Reconciliation of licenses across global entities](reconcile-licenses-global-entities.md).|
 
 ## License Key related list
 

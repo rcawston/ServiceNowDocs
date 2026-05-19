@@ -46,7 +46,7 @@ Role required: admin
 **Related topics**  
 
 
-[Service Graph Connector for OpenTelemetry properties](../reference/sgc-cmdb-otel-props.md)
+[Service Graph Connector for OpenTelemetry properties](sgc-cmdb-otel-props.md)
 
-[Accessing the connection details of Service Graph Connectors](integration-commons-conn-fw.md)
+[Accessing the connection details of Service Graph Connectors](../cmdb-integration-commons/integration-commons-conn-fw.md)
 

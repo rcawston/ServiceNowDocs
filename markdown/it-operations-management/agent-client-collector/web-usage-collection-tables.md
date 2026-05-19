@@ -176,5 +176,5 @@ Metric monitoring \(monitored\)
 Indicates whether the application is monitored for metrics. Read-only.Default: false
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector for Visibility - Content reference](../concept/agent-client-collector-for-visibility-references.md)
+</table>**Parent Topic:**[Agent Client Collector for Visibility - Content reference](agent-client-collector-for-visibility-references.md)
 

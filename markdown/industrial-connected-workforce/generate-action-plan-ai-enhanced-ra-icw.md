@@ -51,10 +51,10 @@ The AI Enhanced recommended actions for ICW enables you to generate a structured
 
 The action plan appears in Work notes of the deviation record that you can refer to as the remediation work progresses.
 
-**Parent Topic:**[Using AI Enhanced recommended actions for Industrial Connected Workforce](../concept/using-ai-enhanced-ra-icw.md)
+**Parent Topic:**[Using AI Enhanced recommended actions for Industrial Connected Workforce](using-ai-enhanced-ra-icw.md)
 
 **Related topics**  
 
 
-[Generate an action plan using AI Enhanced recommended actions for ICW Mobile](../../icw-mobile-experience/task/generate-action-plan-ai-enhanced-ra-icw-mobile.md)
+[Generate an action plan using AI Enhanced recommended actions for ICW Mobile](industrial-connected-workforce-mobile-experience/generate-action-plan-ai-enhanced-ra-icw-mobile.md)
 

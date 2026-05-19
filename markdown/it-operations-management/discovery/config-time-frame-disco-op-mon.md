@@ -51,7 +51,7 @@ Role required: discovery\_admin
 **Related topics**  
 
 
-[Discovery Operations Monitor dashboard](../concept/disco-operations-monitor.md)
+[Discovery Operations Monitor dashboard](disco-operations-monitor.md)
 
 [Configure the time interval for a Discovery Operations Monitor visualization](config-interval-disco-op-mon.md)
 

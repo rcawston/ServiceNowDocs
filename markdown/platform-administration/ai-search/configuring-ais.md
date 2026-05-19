@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Assign roles to AI Search administrators and users](../task/assign-ais-admin-role.md)
+[Assign roles to AI Search administrators and users](assign-ais-admin-role.md)
 
 </td><td>
 
@@ -77,7 +77,7 @@ Specify AI Search as the search engine in supported ServiceNow AI Platform appli
 
 </td></tr><tr><td>
 
-[Create a custom search matcher for global search](../task/create-search-matcher-ais.md)
+[Create a custom search matcher for global search](create-search-matcher-ais.md)
 
 </td><td>
 
@@ -90,9 +90,9 @@ Guided setup provides a sequence of tasks that help you configure AI Search on y
 
 For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
--   **[Assign roles to AI Search administrators and users](../task/assign-ais-admin-role.md)**  
+-   **[Assign roles to AI Search administrators and users](assign-ais-admin-role.md)**  
 Grant users the ais\_admin, ais\_external\_content, ais\_high\_security\_admin, and search\_application\_admin roles so they can configure and manage settings and content for AI Search and search applications.
--   **[Activate the Platform Multimodal Service plugin](../task/activate-platform-multimodal-service-plugin.md)**  
+-   **[Activate the Platform Multimodal Service plugin](activate-platform-multimodal-service-plugin.md)**  
 Enable automatic generation of searchable captions for images found in indexed attachments.
 -   **[Indexed sources in AI Search](indexed-sources-ais.md)**  
 Indexed sources designate ServiceNow AI Platform® tables and external document sets with alphanumeric text and string field content that you want to make searchable. AI Search ingests text and string fields from table records or external documents and stores their searchable alphanumeric content in its search index.
@@ -102,13 +102,13 @@ Define search sources to make your searchable content available in search experi
 Search profiles contain settings for a search experience, including synonyms, stop words, typo handling, Genius Results, and result improvement rules. Define a search profile for each unique search experience that you want to offer in a ServiceNow AI Platform® application. Publish search profiles to make them available in your search applications.
 -   **[Search application configurations](defining-search-app-cfgs-ais.md)**  
 A search application configuration specifies the search engine and settings to use for search in a ServiceNow AI Platform® application. When you choose AI Search as an application's search engine, you can select a search profile for the application and configure its search result display and refinement settings.
--   **[Activate fuzzy numeric search in AI Search](../task/activate-fuzzy-numeric-search-ais.md)**  
+-   **[Activate fuzzy numeric search in AI Search](activate-fuzzy-numeric-search-ais.md)**  
 Activate fuzzy numeric search to let users find indexed records by their Number field values without needing to enter alphabetic prefixes or leading zeroes.
--   **[Configure EVAM display settings for search results in AI Search applications](../task/configure-search-result-card-opts.md)**  
+-   **[Configure EVAM display settings for search results in AI Search applications](configure-search-result-card-opts.md)**  
 Customize display settings for Search Result EVAM \(Entity View Action Mapping\) cards in portal and non-portal AI Search applications.
 -   **[Enabling and configuring AI Search in ServiceNow AI Platform applications](enable-configure-apps-ais.md)**  
 Configure and use the AI Search engine in the Customer Service Management, Now Mobile, Service Portal, and Virtual Agent applications.
--   **[Create a custom search matcher for global search](../task/create-search-matcher-ais.md)**  
+-   **[Create a custom search matcher for global search](create-search-matcher-ais.md)**  
 Customize the global search experience to return exact match search results from a specified table and column \(field\). You can configure custom search matchers for search terms with prefixes followed by numbers, such as `INT470271`, or for numeric search terms with delimiter characters, such as `525-326-3827` or `2016/01/08`.
 -   **[Domain separation and AI Search](ai-search-domain-separation.md)**  
 Domain separation is unsupported for the AI Search application tables, but user search queries respect domain restrictions from indexed ServiceNow AI Platform® table records. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.

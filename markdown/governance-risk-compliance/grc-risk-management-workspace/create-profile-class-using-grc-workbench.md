@@ -34,5 +34,5 @@ Role required: sn\_grc\_manager
 
 [Create relationships between entity classes using the GRC: Workbench](create-relationships-between-profile-classes.md).
 
-**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](../concept/grc-workbench.md)
+**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](grc-workbench.md)
 

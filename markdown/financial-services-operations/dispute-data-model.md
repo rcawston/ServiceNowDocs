@@ -62,8 +62,8 @@ The following diagram shows the tables and their relationships within the card d
 |Consumer|csm\_consumer|Store information for B2C \(individual\) customers.|
 |Contact|customer\_contact|Maintain customer contact information.|
 
--   **[Dispute decision tables](../concept/dispute-decision-tables.md)**  
+-   **[Dispute decision tables](dispute-decision-tables.md)**  
 Decision tables in Dispute Management provide decision logic for card dispute processing.
 
-**Parent Topic:**[Data Models](../../fso-common/reference/data-models.md)
+**Parent Topic:**[Data Models](data-models.md)
 

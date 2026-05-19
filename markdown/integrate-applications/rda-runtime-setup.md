@@ -17,19 +17,19 @@ You can plan and configure an Attended Robot implementation in your organization
 
 Perform the following tasks to download the installation package and configure the Attended Robot after installation.
 
-1.  [Download Attended Robot from RPA Hub](../../rpa-hub/task/download-installer-rpa.md).
+1.  [Download Attended Robot from RPA Hub](download-installer-rpa.md).
 
     Select and download the Attended Robot application in your Windows machine from RPA Hub as a prerequisite for installing the application.
 
-2.  [Install Attended Robot](../task/install-rda-runtime.md)
+2.  [Install Attended Robot](install-rda-runtime.md)
 
     You can install the Attended Robot application in your Windows machine if you have the admin role.
 
-3.  [Set up Attended Robot](../task/set-up-rda-runtime.md)
+3.  [Set up Attended Robot](set-up-rda-runtime.md)
 
     Establish a connection between the Attended Robot and the ServiceNow RPA Hub instance.
 
-4.  [Connect to an RPA Hub instance from Attended Robot](../task/connect-rda-instance-rpa.md)
+4.  [Connect to an RPA Hub instance from Attended Robot](connect-rda-instance-rpa.md)
 
     Establish a connection between the Attended Robot and ServiceNow RPA Hub instance to connect to an RPA Hub instance in three ways by using Connection Manager.
 

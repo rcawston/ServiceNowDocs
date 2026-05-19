@@ -178,7 +178,7 @@ View information in the following related lists:
 
 Tests created through this workflow are automatically linked to the story. To confirm the link, open the story record and locate the **Tests** related list, which displays all tests associated with that story.
 
-**Parent Topic:**[Sprint testing](../concept/sprint-testing.md)
+**Parent Topic:**[Sprint testing](sprint-testing.md)
 
 **Related topics**  
 

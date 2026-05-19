@@ -18,51 +18,51 @@ Use the base system auto-extraction rules to import the MITRE-ATT&amp;CK informa
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](domain-separation-and-mitre-att-ck.md)
 
-[Set up the MITRE-ATT&amp;CK framework](../task/setup-mitre-profile.md)
+[Set up the MITRE-ATT&amp;CK framework](setup-mitre-profile.md)
 
-[Manage matrices](../task/view-mitre-collection.md)
+[Manage matrices](view-mitre-collection.md)
 
-[Manage techniques](../task/view-techniques.md)
+[Manage techniques](view-techniques.md)
 
-[Manage mitigations](../task/manage-mitigations.md)
+[Manage mitigations](manage-mitigations.md)
 
-[Manage groups](../task/manage-groups-threat-intel.md)
+[Manage groups](manage-groups-threat-intel.md)
 
-[Manage malware](../task/manage-malware.md)
+[Manage malware](manage-malware.md)
 
-[Manage tools](../task/manage-tools.md)
+[Manage tools](manage-tools.md)
 
-[Manage MITRE relationships](../task/manage-mitre-relationships.md)
+[Manage MITRE relationships](manage-mitre-relationships.md)
 
-[Manage CVE and technique mapping](../task/manage-cve-and-technique-mapping.md)
+[Manage CVE and technique mapping](manage-cve-and-technique-mapping.md)
 
-[Extend the MITRE-ATT&amp;CK data](../task/view-and-extend-information.md)
+[Extend the MITRE-ATT&amp;CK data](view-and-extend-information.md)
 
-[Define the data source and detection tool mapping](../task/manage-mitre-att-ck-data-sources.md)
+[Define the data source and detection tool mapping](manage-mitre-att-ck-data-sources.md)
 
-[Define the data source and data component mapping](../task/map-the-data-source-and-data-components.md)
+[Define the data source and data component mapping](map-the-data-source-and-data-components.md)
 
-[Define the technique detection coverage](../task/define-technique-coverage.md)
+[Define the technique detection coverage](define-technique-coverage.md)
 
-[Map your technique detection coverage to a technique](../task/map-technique-coverage.md)
+[Map your technique detection coverage to a technique](map-technique-coverage.md)
 
-[Define the mitigation coverage](../task/define-the-mitigation-coverage.md)
+[Define the mitigation coverage](define-the-mitigation-coverage.md)
 
-[Map your mitigation coverage to a technique](../task/map-your-mitigation-coverage-to-a-technique.md)
+[Map your mitigation coverage to a technique](map-your-mitigation-coverage-to-a-technique.md)
 
-[Create and map detection rules](../task/create-detection-rules.md)
+[Create and map detection rules](create-detection-rules.md)
 
-[Review threat group and MITRE-ATT&amp;CK techniques mapping](../task/review-threat-group-and-techniques-mapping.md)
+[Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
 
-[Threat group to technique heatmap definition](../task/threat-group-to-technique-heatmap-definition.md)
+[Threat group to technique heatmap definition](threat-group-to-technique-heatmap-definition.md)
 
-[Review the MITRE-ATT&amp;CK system properties](../task/configure-mitre-att-ck-properties.md)
+[Review the MITRE-ATT&amp;CK system properties](configure-mitre-att-ck-properties.md)
 
 ## Use threat-lookup auto-extraction rules
 
@@ -79,7 +79,7 @@ Role required:
 
 When any Threat Intelligence integration, such as Sandbox or a TIP, supports the MITRE-ATT&amp;CK framework and if the MITRE-ATT&amp;CK information is parsed at each integration level, then the information is displayed in each threat lookup result record. However, not all Threat Intelligence integrations parse the MITRE-ATT&amp;CK information. The threat lookup global auto-extraction rule can extract MITRE-ATT&amp;CK information from all Threat Intelligence integrations.
 
-You can choose to roll up the MITRE-ATT&amp;CK information automatically from the threat lookup results to a security incident. For automatic rollup of threat lookup results to security incidents, [enable the system property](../task/configure-mitre-att-ck-properties.md). Alternatively, you can [rollup the information manually](../task/associate-mitre-observables.md) for each individual threat lookup.
+You can choose to roll up the MITRE-ATT&amp;CK information automatically from the threat lookup results to a security incident. For automatic rollup of threat lookup results to security incidents, [enable the system property](configure-mitre-att-ck-properties.md). Alternatively, you can [rollup the information manually](associate-mitre-observables.md) for each individual threat lookup.
 
 The base system Threat Intelligence automatically extracts the MITRE-ATT&amp;CK information from the third-party integrations raw payload to the threat lookup result record, if the Threat Intelligence integration provides you with MITRE-ATT&amp;CK information like the technique or tactic.
 

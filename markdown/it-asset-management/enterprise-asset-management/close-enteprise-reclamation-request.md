@@ -145,5 +145,5 @@ Any additional information that you want to mention.
     **Note:** When the stage of all Enterprise Asset Reclamation Lines has changed to **Closed Complete**, the state of the Asset Reclamation Request also changes to **Complete**.
 
 
-**Parent Topic:**[Create and manage enterprise asset inventory](../concept/managing-enterprise-asset-inventory.md)
+**Parent Topic:**[Create and manage enterprise asset inventory](managing-enterprise-asset-inventory.md)
 

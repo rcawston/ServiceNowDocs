@@ -56,5 +56,5 @@ In your condition script for the topic, use a context variable to identify the m
 
 Publishing the topic deploys it to the Virtual Agent messaging channels, except for the Virtual Agent channels that you specified in the topic condition script. A keyword or an intent \(if using NLU\) does not trigger the topic.
 
-**Parent Topic:**[Integrating Virtual Agent with messaging apps](../concept/va-integration-messaging-apps.md)
+**Parent Topic:**[Integrating Virtual Agent with messaging apps](va-integration-messaging-apps.md)
 

@@ -126,7 +126,7 @@ Default = `servicenow`
 When using the SYSTEM, LOCALSERVICE, or DOMAIN\\gMSA$ accounts:
 
 -   You do not have to configure a password.
--   You must run the relevant .msi command, as described in [Account commands for LocalService, LocalSystem, and gMSA during Windows installation](../reference/gmsa-and-local-account-commands.md).
+-   You must run the relevant .msi command, as described in [Account commands for LocalService, LocalSystem, and gMSA during Windows installation](gmsa-and-local-account-commands.md).
 
 
 </td></tr><tr><td>
@@ -202,5 +202,5 @@ Indicates the installation path for the agent's application files. Enclose the p
 -   **[Uninstall Agent Client Collector from a Windows system using a single-line command](acc-uninstall-windows-single-line.md)**  
 Uninstall the Agent Client Collector from a Windows machine by running an efficient single-line command. If the script is not connected to the instance, you might have to uninstall Agent Client Collector manually.
 
-**Parent Topic:**[Agent Client Collector installation on a Windows machine](../concept/acc-windows-install-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Windows machine](acc-windows-install-concept.md)
 

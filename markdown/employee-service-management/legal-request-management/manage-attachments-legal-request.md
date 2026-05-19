@@ -23,7 +23,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 You can also use these artifacts as a reference material to solve similar requests in future.
 
-If the [external storage option](associate-categories-practice-area.md) is enabled, you can manage document access for users to see these attachments. For more information, see [Document access in a legal request](../concept/document-access-legal-request.md#).
+If the [external storage option](associate-categories-practice-area.md) is enabled, you can manage document access for users to see these attachments. For more information, see [Document access in a legal request](document-access-legal-request.md#).
 
 If the Privileged and Confidential status is enabled on a legal request, you can change the permission of attached documents from the Privileged Document Access tab.
 
@@ -114,7 +114,7 @@ In the **Documents** tab, a link to the document is listed in the **External URL
 
     1.  In the **Documents** tab, select a document from the list that you want to delete.
     2.  Select **Delete**.
-Access to these documents to various users is controlled in multiple ways. For more information on managing document access, see [Document access in a legal request](../concept/document-access-legal-request.md#).
+Access to these documents to various users is controlled in multiple ways. For more information on managing document access, see [Document access in a legal request](document-access-legal-request.md#).
 
 </td></tr><tr><td id="d78477e348">
 
@@ -135,7 +135,7 @@ Change permissions for documents.1.  In the **Privileged Document Access** tab, 
 
 </td></tr></tbody>
 </table>
--   **[Document access in a legal request](../concept/document-access-legal-request.md#)**  
+-   **[Document access in a legal request](document-access-legal-request.md#)**  
 Documents attached to legal requests are uploaded to the configured external storage system when the external storage option is enabled on the legal request intake form. The access of these documents to various personas is controlled in real time, via a scheduled job, or on-demand.
 
 **Parent Topic:**[Work on a legal request](work-on-legal-request.md)

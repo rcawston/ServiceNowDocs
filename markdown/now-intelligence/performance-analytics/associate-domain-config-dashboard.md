@@ -48,5 +48,5 @@ A user who has visibility to all the domains in the domain configuration, such a
 
 If you open the Analytics Hub from a dashboard with a domain picker, you see only the scores collected for the selected domain. Any target, threshold, or comment you add is automatically associated with the current domain. The **Edit scores** option is not available.
 
-**Parent Topic:**[Grouping domains in Performance Analytics domain configurations](../concept/pa-domain-separation-msp.md)
+**Parent Topic:**[Grouping domains in Performance Analytics domain configurations](pa-domain-separation-msp.md)
 

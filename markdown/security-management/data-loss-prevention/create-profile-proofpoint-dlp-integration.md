@@ -77,10 +77,10 @@ Description to help distinguish this profile from other profiles.
 4.  Click **Continue** and move to the Filtering section.
 
 
--   **[Define filters to apply for the Incident creation](../concept/define-filters-incident-creation-proofpoint.md)**  
+-   **[Define filters to apply for the Incident creation](define-filters-incident-creation-proofpoint.md)**  
 Define and set filter conditions to filter the incoming  Proofpoint DLP  incidents. Control which DLP incidents should be created on ServiceNow®.
 -   **[Preview evidence files](preview-file-proofpoint.md)**  
 Preview Data Loss Prevention Incident Response evidence files in the DLP IR Analyst workspace.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](../concept/dlp-incident-response-integration-proofpoint.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](dlp-incident-response-integration-proofpoint.md)
 

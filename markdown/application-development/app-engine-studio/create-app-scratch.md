@@ -43,7 +43,7 @@ Role required: admin, sn\_app\_eng\_studio.user
 
 8.  On the summary screen, select **Go to app dashboard**.
 
-9.  If you want a more advanced app development environment to work in, you can open your app in [Legacy - ServiceNow Studio](../../applications/concept/c_ServiceNowStudio.md) by selecting **Try it out** in the banner.
+9.  If you want a more advanced app development environment to work in, you can open your app in [Legacy - ServiceNow Studio](../servicenow-studio-classic/c_ServiceNowStudio.md) by selecting **Try it out** in the banner.
 
     ![Try opening your app in ServiceNow Studio for a more advanced app development experience.](../../servicenow-studio/image/sn-studio-entry-aes.png)
 
@@ -53,14 +53,14 @@ Role required: admin, sn\_app\_eng\_studio.user
 
     For more information, see the following topics:
 
-    -   [Create a data model for your application](../concept/add-data.md)
-    -   [Add an application experience](../concept/add-experience.md)
-    -   [Add logic and automation](../concept/add-automation.md)
-    -   [Add application security](../concept/add-security.md)
+    -   [Create a data model for your application](add-data.md)
+    -   [Add an application experience](add-experience.md)
+    -   [Add logic and automation](add-automation.md)
+    -   [Add application security](add-security.md)
 
 ## What to do next
 
 After you've finished building your application, submit the application for approval to get it reviewed and deployed by an administrator. For more information, see [Submit your app for approval and publishing](submit-for-approval.md).
 
-**Parent Topic:**[Create your app](../concept/create-application.md)
+**Parent Topic:**[Create your app](create-application.md)
 

@@ -49,7 +49,7 @@ In this procedure, define an assignment rule to assign database problems to the 
     4.  Open the problem and verify that the assignment group was added.
 
 
-**Parent Topic:**[Configuring Problem Management](../concept/configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](configuring-problem-mgmt.md)
 
 **Previous topic:**[Configure problem categories](configure-problem-categories.md)
 

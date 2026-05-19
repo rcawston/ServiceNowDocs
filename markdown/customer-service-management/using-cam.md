@@ -22,5 +22,5 @@ Customer access management enables you to support multiple contacts and consumer
 
 [Configuring customer access management](configuring-cam.md)
 
-[Restrict contact access](../task/manage-account-access-cam.md)
+[Restrict contact access](manage-account-access-cam.md)
 

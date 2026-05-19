@@ -15,11 +15,11 @@ You can install the Unattended Robot application in your Windows machine if you 
 
 ## Before you begin
 
-Download and unzip the installation file for the Unattended Robot application. For more information, see [Download the RPA applications from RPA Hub](../../rpa-hub/task/download-installer-rpa.md).
+Download and unzip the installation file for the Unattended Robot application. For more information, see [Download the RPA applications from RPA Hub](download-installer-rpa.md).
 
 ![Download the Unattended Robot application from the RPA Downloads page.](../image/install-unattended-downloads-rpa.png "Download Unattended Robot application")
 
-Ensure that you follow the hardware and software requirements. For more information, see [Requirements for Unattended Robot](../reference/requirements-unattended-robot.md).
+Ensure that you follow the hardware and software requirements. For more information, see [Requirements for Unattended Robot](requirements-unattended-robot.md).
 
 Ensure that you meet the following set up requirements:
 

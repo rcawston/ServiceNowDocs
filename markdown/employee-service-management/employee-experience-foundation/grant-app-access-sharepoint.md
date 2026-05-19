@@ -51,12 +51,12 @@ First grant app access in Microsoft SharePoint and then publish the card.
 
     5.  On the form, fill in the fields.
 
-        For more information, see [Microsoft Viva integrations card properties](../reference/viva-card-properties.md).
+        For more information, see [Microsoft Viva integrations card properties](viva-card-properties.md).
 
     6.  Select **Republish**.
 
         The card is now available for use.
 
 
-**Parent Topic:**[Managing Employee Center for Microsoft Viva Connections](../concept/manage-viva.md)
+**Parent Topic:**[Managing Employee Center for Microsoft Viva Connections](manage-viva.md)
 

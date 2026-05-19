@@ -54,16 +54,16 @@ Role required: it\_project\_manager
 
 ## What to do next
 
-[Update resource assignment from Project Workspace](../../pw-resource-management/task/update-resource-assignment-pw.md)
+[Update resource assignment from Project Workspace](../project-workspace/update-resource-assignment-pw.md)
 
-**Parent Topic:**[Manage resource assignments from Project Workspace](../concept/use-ra-rmw.md)
+**Parent Topic:**[Manage resource assignments from Project Workspace](use-ra-rmw.md)
 
 **Related topics**  
 
 
-[Delete a resource assignment from Project Workspace](../../pw-resource-management/task/delete-resource-assignment-pw.md)
+[Delete a resource assignment from Project Workspace](../project-workspace/delete-resource-assignment-pw.md)
 
-[Update the resource allocation in a heatmap](../../pw-resource-management/task/view-allocations-heatmap-prj-wksp.md)
+[Update the resource allocation in a heatmap](../project-workspace/view-allocations-heatmap-prj-wksp.md)
 
-[Realign resource assignment to project task](../../pw-resource-management/task/realign-resource-assignment-to-task.md)
+[Realign resource assignment to project task](../project-workspace/realign-resource-assignment-to-task.md)
 

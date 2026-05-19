@@ -38,7 +38,7 @@ A user with the administrator role can create a household. This user can also de
 
 2.  Select **New** on the Households list.
 
-3.  Fill in the fields on the [Household](../reference/data-model-household-form.md) form.
+3.  Fill in the fields on the [Household](data-model-household-form.md) form.
 
 4.  Select **Submit**.
 
@@ -48,7 +48,7 @@ A user with the administrator role can create a household. This user can also de
 **Related topics**  
 
 
-[Configuring households](../concept/configure-households.md)
+[Configuring households](configure-households.md)
 
-[Service Model Foundation relationships](../reference/csm-data-model-relationships.md)
+[Service Model Foundation relationships](csm-data-model-relationships.md)
 

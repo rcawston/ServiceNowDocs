@@ -37,7 +37,7 @@ To become familiar with the process before handling more complex operations, you
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../reference/create-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](create-excel-upload-download-req.md).
 
 4.  For the Upload request, select the **Attach file** option in the **Select file** field.
 
@@ -78,9 +78,9 @@ When making a download request for a Third-Party Information Register record, se
 </td></tr></tbody>
 </table>    For information on Register of information regulatory packages, see the following topics:
 
-    -   [Register of Information \(ROI\) regulatory packages](../concept/opres-dora-roi-reg-pkg.md)
+    -   [Register of Information \(ROI\) regulatory packages](opres-dora-roi-reg-pkg.md)
     -   [Generate a Register of Information package](opres-drtp-gen-roi-pkg.md)
-    -   [Validation framework for Register of Information in Operational Resilience](../concept/opres-dora-validate-roi.md)
+    -   [Validation framework for Register of Information in Operational Resilience](opres-dora-validate-roi.md)
     -   [Validate the Register of Information packages](opres-drtp-validate-roi.md)
 9.  Add the name that you want for the Microsoft Excel file and select **Save**.
 
@@ -150,8 +150,8 @@ Action to export the record.
 
 </td></tr></tbody>
 </table>
--   **[Create New Excel download/upload request form](../reference/create-excel-upload-download-req.md)**  
+-   **[Create New Excel download/upload request form](create-excel-upload-download-req.md)**  
 On the Create New Excel download/upload request form, fill in the fields.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)
 

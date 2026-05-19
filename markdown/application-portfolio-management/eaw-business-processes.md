@@ -45,11 +45,11 @@ Use business processes to model internal workflows and relate them to supporting
 **Related topics**  
 
 
-[View all business processes](../../task/eaw-task/eaw-view-all-business-processes.md)
+[View all business processes](eaw-view-all-business-processes.md)
 
-[Add or edit a business process](../../task/eaw-task/eaw-create-business-process.md)
+[Add or edit a business process](eaw-create-business-process.md)
 
-[Manage architectural artifacts of a business process](../../task/eaw-task/eaw-assoicate-artifact-bp.md)
+[Manage architectural artifacts of a business process](eaw-assoicate-artifact-bp.md)
 
-[Add or remove a business process from a value stream stage](../../task/eaw-task/eaw-assoc-bp-with-vs-stage.md)
+[Add or remove a business process from a value stream stage](eaw-assoc-bp-with-vs-stage.md)
 

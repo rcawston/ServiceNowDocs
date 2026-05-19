@@ -150,7 +150,7 @@ Script should rollup information to Linked Record\(sn\_msi\_m2m\_child\) table.-
 **Related topics**  
 
 
-[Configure Linked Records in Major Security Incident Management](../task/configuring-linked-records-in-major-security-incident-management.md)
+[Configure Linked Records in Major Security Incident Management](configuring-linked-records-in-major-security-incident-management.md)
 
 [Configure List Layout in Major Security Incident Management](list-layout-confguration.md)
 

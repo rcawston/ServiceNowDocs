@@ -51,7 +51,7 @@ Enable Connect in the framesetcollaboration.frameset
 Determines whether the Connect overlay is visible \(enabled\). This property also impacts Connect Support.-   **Type**: true \| false
 -   Default value: true
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
--   Learn more: [Disable the Connect overlay](../task/t_DisableTheCollaborationOverlay.md)
+-   Learn more: [Disable the Connect overlay](t_DisableTheCollaborationOverlay.md)
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Number of minutes to wait before collecting unread messages and sending an email
 Sets the number of minutes the system waits before sending a Connect notification email to an inactive user.-   **Type**: integer
 -   Default value: 3
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
--   Learn more: [Configure the email notification interval](../concept/c_CollaborationAdministration.md#)
+-   Learn more: [Configure the email notification interval](c_CollaborationAdministration.md#)
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Audio file to play to notify users of new messages, support conversation transfe
 Specifies the audio file to play to notify users of new messages, support conversation transfers, and @mentions in Connect. This property's value must point to the **Name** field of a record in the Audio File \[db\_audio\] table. This property also impacts Connect Support.-   **Type**: string
 -   Default value: connect\_alert.mp3
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
--   Learn more: [Customize the Connect audio notification sound](../task/t_CustomizeConnectAudioNotifSound.md)
+-   Learn more: [Customize the Connect audio notification sound](t_CustomizeConnectAudioNotifSound.md)
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Determines whether the show Live Feed icon \(![Show Live Feed icon](../../live-f
     -   **live\_feed**: enables the show Live Feed icon.
     -   **none**: disables both the show Live Feed icon and the **Follow** button.
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
--   Learn more: [Configure record conversations](../concept/c_CollaborationAdministration.md#)
+-   Learn more: [Configure record conversations](c_CollaborationAdministration.md#)
 
 </td></tr><tr><td>
 

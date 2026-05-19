@@ -60,5 +60,5 @@ Maximum number of decision questions that can be defined on a decision table \(s
 -   A warning message is displayed when the inputs or decisions exceed the maximum limit set by the administrator.
 -   By default, decision tables in Decision Builder display the first 20 rows. To view 20 more rows, select **Show more**.
 
-**Parent Topic:**[Decision tables reference](../concept/decision-builder-reference.md)
+**Parent Topic:**[Decision tables reference](decision-builder-reference.md)
 

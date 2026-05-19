@@ -57,11 +57,11 @@ Role required: sn\_hr\_sf.admin
 **Related topics**  
 
 
-[View to dos](../task/view-to-dos-sf.md)
+[View to dos](view-to-dos-sf.md)
 
-[Use transform maps](../reference/use-transform-maps-sf.md)
+[Use transform maps](use-transform-maps-sf.md)
 
-[Field mappings](../reference/field-mappings-sf.md)
+[Field mappings](field-mappings-sf.md)
 
 [Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](na-va-sf.md)
 

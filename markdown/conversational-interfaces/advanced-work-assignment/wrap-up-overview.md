@@ -17,7 +17,7 @@ When agents close an interaction, the wrap up feature enables them to enter clos
 
 To configure the wrap up feature, follow these steps:
 
--   [Wrap up configuration](../task/wrap-up-configuration.md)
--   [Wrap up codes](../task/wrap-up-codes.md)
--   [Wrap up segments](../task/wrap-up-segments.md)
+-   [Wrap up configuration](wrap-up-configuration.md)
+-   [Wrap up codes](wrap-up-codes.md)
+-   [Wrap up segments](wrap-up-segments.md)
 

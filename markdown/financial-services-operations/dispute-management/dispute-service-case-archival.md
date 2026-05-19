@@ -34,5 +34,5 @@ Role required: admin
 3.  Update the rule and its parameters, if necessary.
 
 
-**Parent Topic:**[Dispute management reference](../concept/dispute-management-reference.md)
+**Parent Topic:**[Dispute management reference](dispute-management-reference.md)
 

@@ -54,14 +54,14 @@ Action
 
 </td><td>
 
-See the [Create an Issue form](../reference/create-issue-compliance-ws.md).
+See the [Create an Issue form](create-issue-compliance-ws.md).
 
 </td></tr></tbody>
 </table>5.  Select **Save**.
 
 
--   **[Create an Issue form](../reference/create-issue-compliance-ws.md)**  
+-   **[Create an Issue form](create-issue-compliance-ws.md)**  
 Use the Create an Issue form in GRC: Compliance Case Management to add an issue to a compliance case, report findings or observations or compliance deficiencies, or matters that require immediate attention from the respective owners.
 
-**Parent Topic:**[Using Compliance Case Management](../concept/use-compliance-case-management.md)
+**Parent Topic:**[Using Compliance Case Management](use-compliance-case-management.md)
 

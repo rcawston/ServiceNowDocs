@@ -32,9 +32,9 @@ Role required: admin \(sn\_wsd\_wc.admin\)
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Workplace Connectors](../concept/configure-workplace-connectors.md)
+**Parent Topic:**[Configure Workplace Connectors](configure-workplace-connectors.md)
 
-**Previous topic:**[Install Workplace Connectors](../concept/install-workplace-connectors.md)
+**Previous topic:**[Install Workplace Connectors](install-workplace-connectors.md)
 
-**Next topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Next topic:**[Setup Workplace Connectors for badging data](setup-workplace-connectors.md)
 

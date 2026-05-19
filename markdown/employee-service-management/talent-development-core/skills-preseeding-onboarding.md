@@ -54,5 +54,5 @@ Role required: sn\_skills\_int.emp
 10. Select **View profile** to verify that the skills that were added.
 
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](using-skills-intelligence.md)
 

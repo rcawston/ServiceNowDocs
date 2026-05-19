@@ -63,7 +63,7 @@ To create an automation project using Now Assist, see [Create an automation with
 10. Select **Create**.
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 
 **Related topics**  
 

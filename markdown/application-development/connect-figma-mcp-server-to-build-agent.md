@@ -24,7 +24,7 @@ Connecting the Figma MCP server to the Build Agent enables the Build Agent to ac
 
 Visit the Figma Developer Portal to connect the Figma MCP server to the Build Agent. Create an OAuth app to obtain your Client ID and Client Secret. Then, configure the ServiceNow IDE to handle the OAuth process using the credentials.
 
--   For more information on Build Agent and the Figma MCP server, see [MCP connections and Build Agent](../concept/accelerate-design-to-development-with-figma-mcp-server.md).
+-   For more information on Build Agent and the Figma MCP server, see [MCP connections and Build Agent](accelerate-design-to-development-with-figma-mcp-server.md).
 -   For details on connecting to other supported MCP servers, see [Connect Build Agent to a supported MCP server](ba-connct-mcp-server.md).
 
 ## Procedure

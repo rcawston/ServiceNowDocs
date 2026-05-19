@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The Flow API provides methods to run activated Workflow Studio flows.
 
-This API is deprecated and replaced by the [ScriptableFlowRunner - Scoped](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#) and [ScriptableFlowRunnerResult - Scoped](../../ScriptableFlowRunnerResultScoped/concept/ScriptableFlowRunnerResultScopedAPI.md#)APIs.
+This API is deprecated and replaced by the [ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#) and [ScriptableFlowRunnerResult - Scoped](ScriptableFlowRunnerResultScopedAPI.md#)APIs.
 
 The Flow API can only be used in server scripts.
 
@@ -25,7 +25,7 @@ Before interacting with a flow using the Flow API, you must first create and act
 
 **Note:** To optimize instance performance, avoid calling these methods from an asynchronous business rule script. Instead, create a scheduled job record within the Workflow Studio UI.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Flow - startAsync\(String scopeName.flowName, Map flowInputs\)
 

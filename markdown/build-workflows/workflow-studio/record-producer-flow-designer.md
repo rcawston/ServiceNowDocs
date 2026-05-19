@@ -97,7 +97,7 @@ Completion status of the action. The flow execution details page displays one of
 </td></tr></tbody>
 </table>## Error messages
 
-If an error occurs with this action, the following error messages appear in the [execution details](../concept/flow-execution-details.md) page.
+If an error occurs with this action, the following error messages appear in the [execution details](flow-execution-details.md) page.
 
 |Error message|Description|
 |-------------|-----------|
@@ -113,8 +113,8 @@ Follow these design considerations when creating flows that contain Record Produ
 
 -   **Use transform functions to validate data pills**
 
-    Whenever you use a data pill to provide data for an action input, you can use a transform function to validate the data. See [Transform functions](../concept/transform-functions.md) for a list of available transform functions.
+    Whenever you use a data pill to provide data for an action input, you can use a transform function to validate the data. See [Transform functions](transform-functions.md) for a list of available transform functions.
 
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

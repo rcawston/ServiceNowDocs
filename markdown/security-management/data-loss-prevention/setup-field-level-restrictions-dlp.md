@@ -134,5 +134,5 @@ Select the custom fields that you want to allow access to from the Available col
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[DLP Incident Access Restrictions](../concept/dlp-incident-access-restrictions.md)
+**Parent Topic:**[DLP Incident Access Restrictions](dlp-incident-access-restrictions.md)
 

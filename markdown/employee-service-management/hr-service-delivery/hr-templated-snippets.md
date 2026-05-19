@@ -49,7 +49,7 @@ HR administrators and managers can create response templates. Each template is a
 
 For more information on creating or modifying a response template, see [Create or modify an HR Service Delivery response template](hr-templated-snippets.md#).
 
-Response templates appear for an HR case form for templates associated with the Form channel and satisfy the conditions on the response template. For the HR case form, the **Responses** button appears at the top. If there are multiple templates available, you can select the appropriate one. See [Work an HR case](../task/t_CreateAnHRCase.md).
+Response templates appear for an HR case form for templates associated with the Form channel and satisfy the conditions on the response template. For the HR case form, the **Responses** button appears at the top. If there are multiple templates available, you can select the appropriate one. See [Work an HR case](t_CreateAnHRCase.md).
 
 **Note:** For more information on using a response template with an HR case, see [Copy a response template to an HR case](hr-templated-snippets.md#).
 

@@ -69,9 +69,9 @@ More computationally expensive alternate content security implementation that po
 -   To make AI Search use late binding security for all results from an indexed source, set the value of that indexed source's **Force Late Binding** field to **true**.
 -   To make AI Search use late binding security for all search results, set the value of the **Force AI Search to use late binding for ACL evaluation** \(**glide.ais.security.force\_late\_binding**\) system property to **true**.
 
- If AI Search applies late binding security to any results from an indexed source used by a facet, the list of available filter selections for the facet changes. When this happens, the facet only displays field values found in the current page of search results. For details on facets, see [Create a facet in an AI Search application configuration](../task/create-facet-ais.md).
+ If AI Search applies late binding security to any results from an indexed source used by a facet, the list of available filter selections for the facet changes. When this happens, the facet only displays field values found in the current page of search results. For details on facets, see [Create a facet in an AI Search application configuration](create-facet-ais.md).
 
- When you enable search result counts for facets in a search application, the counts indicate the number of results that matched the user's search. Late binding security can remove results after they’re counted, causing the actual number of displayed results to be lower than the count. For more information on search result counts for facets, see [Show search result counts for facets on the results page for a search application](../task/display-result-counts-ais.md).
+ When you enable search result counts for facets in a search application, the counts indicate the number of results that matched the user's search. Late binding security can remove results after they’re counted, causing the actual number of displayed results to be lower than the count. For more information on search result counts for facets, see [Show search result counts for facets on the results page for a search application](display-result-counts-ais.md).
 
 </td></tr></tbody>
 </table>## Content security for external content

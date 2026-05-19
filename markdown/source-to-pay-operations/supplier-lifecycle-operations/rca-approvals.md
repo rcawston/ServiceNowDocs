@@ -15,17 +15,17 @@ breadcrumb: [Install Supplier Collaboration Portal, Configure, Supplier Lifecycl
 
 After you install the Supplier Collaboration Portal application from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request. You can approve the RCA privileges either manually or by running the fix script.
 
--   **[Approve restricted caller access privileges manually](../task/approve-rca-for-supp-central.md)**  
+-   **[Approve restricted caller access privileges manually](approve-rca-for-supp-central.md)**  
 Approve restricted caller access \(RCA\) privileges to allow cross-scope access to the Supplier Collaboration Portal.
--   **[Run the fix script for RCA approvals](../task/run-rca-fix-script.md)**  
+-   **[Run the fix script for RCA approvals](run-rca-fix-script.md)**  
 After you install the Supplier Collaboration Portal application from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
 
-**Parent Topic:**[Install Supplier Collaboration Portal](../task/install-supp-central.md)
+**Parent Topic:**[Install Supplier Collaboration Portal](install-supp-central.md)
 
 **Related topics**  
 
 
-[Approve restricted caller access privileges manually](../task/approve-rca-for-supp-central.md)
+[Approve restricted caller access privileges manually](approve-rca-for-supp-central.md)
 
-[Run the fix script for RCA approvals](../task/run-rca-fix-script.md)
+[Run the fix script for RCA approvals](run-rca-fix-script.md)
 

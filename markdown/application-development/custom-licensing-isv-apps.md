@@ -27,9 +27,9 @@ Custom licensing functions through the usage analytics \(com.glide.usageanalytic
 
 ## Custom license definitions
 
-Custom licensing is achieved by creating a definition. A definition is a set of licensing metrics that you define based on what usage information you want to collect for your application. See [Create a definition for your store application](../task/create-definition-store-apps.md).
+Custom licensing is achieved by creating a definition. A definition is a set of licensing metrics that you define based on what usage information you want to collect for your application. See [Create a definition for your store application](create-definition-store-apps.md).
 
--   **[Create a definition for your store application](../task/create-definition-store-apps.md)**  
+-   **[Create a definition for your store application](create-definition-store-apps.md)**  
 Create a definition for your store app to define the licensing metrics you want collected.
 
 **Parent Topic:**[Application sharing](c_SharingApplications.md)

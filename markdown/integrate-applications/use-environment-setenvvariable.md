@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the SetEnvironmentVariable component. For more information about these properties, see [Properties of the Environment components](../reference/util-environment-prop.md).
+You can configure the properties for the SetEnvironmentVariable component. For more information about these properties, see [Properties of the Environment components](util-environment-prop.md).
 
 ## Procedure
 
@@ -66,5 +66,5 @@ You want your robot to process files and save logs to different folders dependin
     The robot now logs to the production folder automatically, because it reads the `LOG_PATH` value from the environment variable.
 
 
-**Parent Topic:**[Environment](../concept/environment-utility.md)
+**Parent Topic:**[Environment](environment-utility.md)
 

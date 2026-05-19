@@ -34,15 +34,15 @@ The Project Status mobile application runs on the ServiceNow® mobile platform. 
 **Related topics**  
 
 
-[Activate Mobile Project Status](../task/activate-ppm-mobile.md)
+[Activate Mobile Project Status](activate-ppm-mobile.md)
 
-[Get started with Project Status app](../task/getstarted-project-status-app-mobile.md)
+[Get started with Project Status app](getstarted-project-status-app-mobile.md)
 
-[View project details on the mobile app](../task/view-project-details-mobile.md)
+[View project details on the mobile app](view-project-details-mobile.md)
 
-[View project status report](../task/view-project-status-mobile.md)
+[View project status report](view-project-status-mobile.md)
 
-[Create RIDAC \(Risk, Issues, Decisions, Actions, and Request Changes\) records](../task/create-ridac-mobile.md)
+[Create RIDAC \(Risk, Issues, Decisions, Actions, and Request Changes\) records](create-ridac-mobile.md)
 
-[Collaborate with project stakeholders](../task/collaborate-on-project-mobile.md)
+[Collaborate with project stakeholders](collaborate-on-project-mobile.md)
 

@@ -51,7 +51,7 @@ A default recommendation context named `Suggest business operations affected by 
 
 **Note:** Only users with the sn\_grc\_comp\_genai.reg\_change\_ai\_user role can see the option to generate recommendations for a regulatory alert. This role must be manually assigned to an RCM user.
 
-To understand how you can create recommendations for a regulatory alert and activate the Regulatory alert impacted citations and Regulatory alert impacted control objectives skills, refer to [Activate Regulatory alert recommendation skills](../../now-assist-irm/task/configure-recommendation-skill-for-a-regulatory-alert.md), and [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](../../now-assist-irm/task/create-recommendation-reg-alert.md).
+To understand how you can create recommendations for a regulatory alert and activate the Regulatory alert impacted citations and Regulatory alert impacted control objectives skills, refer to [Activate Regulatory alert recommendation skills](configure-recommendation-skill-for-a-regulatory-alert.md), and [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](create-recommendation-reg-alert.md).
 
 ## Viewing a recommendation
 
@@ -98,7 +98,7 @@ Control objectives
 Details of the control objective. For example, the name of the control objective and parent.
 
 </td></tr></tbody>
-</table>**Note:** For more information about citations and control objectives, see [Structural overview of Policy and Compliance Management](../../grc-policy-and-compliance/concept/pc-structural-overview-policy-comp.md).
+</table>**Note:** For more information about citations and control objectives, see [Structural overview of Policy and Compliance Management](../policy-and-compliance-management/pc-structural-overview-policy-comp.md).
 
 |Field|Description|
 |-----|-----------|
@@ -112,12 +112,12 @@ Details of the control objective. For example, the name of the control objective
 
 Feedback trail side-panel: The feedback side-panel displays the history of user interactions with recommended items. This can include what the user accepted, what they skipped or ignored, and what they dismissed.
 
-For more information on generating recommendations, see [Generate a regulatory alert summary](../../now-assist-irm/task/create-a-summary-of-a-reg-alert.md).
+For more information on generating recommendations, see [Generate a regulatory alert summary](create-a-summary-of-a-reg-alert.md).
 
 **Related topics**  
 
 
-[Activate Regulatory alert recommendation skills](../../now-assist-irm/task/configure-recommendation-skill-for-a-regulatory-alert.md)
+[Activate Regulatory alert recommendation skills](configure-recommendation-skill-for-a-regulatory-alert.md)
 
-[Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](../../now-assist-irm/task/create-recommendation-reg-alert.md)
+[Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](create-recommendation-reg-alert.md)
 

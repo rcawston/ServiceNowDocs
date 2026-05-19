@@ -111,7 +111,7 @@ The activity view determines how the stages and activities are displayed in the 
 -   **Focused**: Displays the stages and activities in the playbook lifecycle panel and the current activity in the playbook work area.
 -   **Stacked**: Displays the stages in the playbook lifecycle panel and cards for each of the activities in the current stage in the playbook work area.
 
-The system administrator can configure the playbook activity view in UI Builder. For more information, see [Select a playbook activity view](../task/playbook-select-activity-view.md).
+The system administrator can configure the playbook activity view in UI Builder. For more information, see [Select a playbook activity view](playbook-select-activity-view.md).
 
 ## Playbook stages
 
@@ -147,7 +147,7 @@ When an agent opens a record that uses a playbook, it opens to the current stage
 
 When an agent selects an available activity, it becomes the current activity. An agent can navigate stages and activities in any order as long as there is at least one available activity to select.
 
-**Note:** The playbook configuration determines the visibility and accessibility of pending stages and activities. For more information, see [Configure playbook stage and activity visibility](../task/playbook-config-activity-visibility.md).
+**Note:** The playbook configuration determines the visibility and accessibility of pending stages and activities. For more information, see [Configure playbook stage and activity visibility](playbook-config-activity-visibility.md).
 
 ## Using keyboard navigation in a playbook
 
@@ -175,5 +175,5 @@ Users with the admin role can configure the visibility of playbook stages and ac
 -   Showing or hiding stages and activities that are pending.
 -   Showing or hiding stages and activities where a user does not have access.
 
-The administrator configures these settings in the Playbook Experience record. For more information, see [Configure playbook stage and activity visibility](../task/playbook-config-activity-visibility.md).
+The administrator configures these settings in the Playbook Experience record. For more information, see [Configure playbook stage and activity visibility](playbook-config-activity-visibility.md).
 

@@ -36,5 +36,5 @@ Role required: sn\_hr\_sp.esc\_admin
 
 The workflow feedback widget is customized according to your preference.
 
-**Parent Topic:**[Integrated service and experience feedback management](../concept/ex-fdbck-manage.md)
+**Parent Topic:**[Integrated service and experience feedback management](ex-fdbck-manage.md)
 

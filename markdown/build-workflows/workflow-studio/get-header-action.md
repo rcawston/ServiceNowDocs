@@ -61,5 +61,5 @@ Testing the flow with a sample email record produces the header value as a data 
 
 ![Sample header value with a unique notification ID.](../images/get-email-header-example-execution-details.png)
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

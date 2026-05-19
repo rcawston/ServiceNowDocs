@@ -38,5 +38,5 @@ Configure your instance to send an email notification when a user mentions a con
 7.  Verify that **Allow Notifications** is enabled.
 
 
-**Parent Topic:**[Configure notifications for mobile activity stream mentions](../concept/notification-activity-stream.md)
+**Parent Topic:**[Configure notifications for mobile activity stream mentions](notification-activity-stream.md)
 

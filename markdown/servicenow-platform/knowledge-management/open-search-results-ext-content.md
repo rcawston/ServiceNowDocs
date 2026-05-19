@@ -53,5 +53,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Integration with external knowledge sources](../concept/knowledge-external-content-integration.md)
+**Parent Topic:**[Integration with external knowledge sources](knowledge-external-content-integration.md)
 

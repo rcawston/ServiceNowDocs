@@ -19,7 +19,7 @@ For example, data may be shared with the restriction that it must not be reshare
 
 In STIX, data markings are specified using the marking definition object. These definitions are applied to STIX Objects using object markings and to individual properties of STIX Objects via granular markings.
 
--   **[Define marking definitions](../task/define-marking-definitions.md)**  
+-   **[Define marking definitions](define-marking-definitions.md)**  
 Define marking definitions that represent a specific data marking.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

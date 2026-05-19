@@ -30,5 +30,5 @@ The Office Mailbox to Catalog Field Mappings form helps you map an email field t
 -   **[Office Mailbox to Form Field Mappings form](mailbox-form-mapping-form.md)**  
 The Office Mailbox to Form Field Mappings form helps you map an email field to a form field.
 
-**Parent Topic:**[ServiceNow Add-in for Microsoft 365](../concept/sn-addin-for-ms365.md)
+**Parent Topic:**[ServiceNow Add-in for Microsoft 365](sn-addin-for-ms365.md)
 

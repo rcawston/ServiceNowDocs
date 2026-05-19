@@ -29,7 +29,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Planning item type form](../reference/new-planning-item-planning-org-form.md).
+    For field information, see [Planning item type form](new-planning-item-planning-org-form.md).
 
 4.  Deselect the **Create module** checkbox.
 

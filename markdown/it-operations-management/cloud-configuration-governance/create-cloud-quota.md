@@ -59,7 +59,7 @@ Resource Name
 
 </td><td>
 
-The Resource Block type to apply the quota to. Select from the lookup list. For example, select Cloud Resource for any template-based cloud resource. For more information, see [Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md).
+The Resource Block type to apply the quota to. Select from the lookup list. For example, select Cloud Resource for any template-based cloud resource. For more information, see [Resource blocks in Cloud Provisioning and Governance](resource-blocks.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Attribute
 
 </td><td>
 
-The column name from the underlying CI type on the [resource block](../concept/resource-blocks.md) that holds the value to restrict with the quota. For example, if your quota limits the CPU count on a virtual server, the table of the underlying CI type is cmdb\_ci\_vm\_instance. The **cpus** column holds that CPU data. So you would enter `cpus`.You can also enter `instance`.
+The column name from the underlying CI type on the [resource block](resource-blocks.md) that holds the value to restrict with the quota. For example, if your quota limits the CPU count on a virtual server, the table of the underlying CI type is cmdb\_ci\_vm\_instance. The **cpus** column holds that CPU data. So you would enter `cpus`.You can also enter `instance`.
 
 </td></tr><tr><td>
 
@@ -150,10 +150,10 @@ A column from the table you specified in the Template field. This it the attribu
 
 You have specified the cloud quota definitions and quota limits for users and user groups.
 
-**Parent Topic:**[Quotas and resource order controls](../concept/quotas.md)
+**Parent Topic:**[Quotas and resource order controls](quotas.md)
 
 **Related topics**  
 
 
-[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+[Resource blocks in Cloud Provisioning and Governance](resource-blocks.md)
 

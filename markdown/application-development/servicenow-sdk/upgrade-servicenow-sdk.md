@@ -100,9 +100,9 @@ now-sdk -v
 
 Install the ServiceNow Fluent Language server to get language processing and validation for ServiceNow Fluent in Visual Studio Code. For more information, see [Install the ServiceNow Fluent Language server in Visual Studio Code](install-fluent-language-extension-vs-code.md).
 
-Use the ServiceNow SDK to authenticate to a ServiceNow instance. For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](../concept/authenticate-instance-now-sdk.md).
+Use the ServiceNow SDK to authenticate to a ServiceNow instance. For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](authenticate-instance-now-sdk.md).
 
-**Parent Topic:**[Configuring the ServiceNow SDK](../concept/configuring-servicenow-sdk.md)
+**Parent Topic:**[Configuring the ServiceNow SDK](configuring-servicenow-sdk.md)
 
 **Related topics**  
 

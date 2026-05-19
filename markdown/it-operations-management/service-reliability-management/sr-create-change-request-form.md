@@ -17,7 +17,7 @@ Fill out the fields in the forms to create a change task to implement a controll
 
 ## Change request form
 
-Create a new change request. For more information, see [Manually create an SRM change task](../task/sr-create-change.md).
+Create a new change request. For more information, see [Manually create an SRM change task](sr-create-change.md).
 
 <table id="id_pmn_dcs_1bc"><thead><tr><th>
 

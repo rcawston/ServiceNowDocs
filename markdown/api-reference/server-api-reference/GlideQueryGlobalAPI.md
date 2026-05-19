@@ -33,7 +33,7 @@ This script include requires the GlideQuery \[com.sn\_glidequery\] plugin.
 
 ## Implementation
 
-This script include works together with the [Stream](../../Stream/concept/StreamGlobalAPI.md#) and [Optional](../../Optional/concept/OptionalGlobalAPI.md#) APIs in a builder pattern where the method calls chain together, each method building on the returned result of the previous method. Use methods to define the attributes of the query. The methods do not execute until you call a terminal method, a method that returns a query result, allowing you to define the requirements of the query before executing it.
+This script include works together with the [Stream](StreamGlobalAPI.md#) and [Optional](OptionalGlobalAPI.md#) APIs in a builder pattern where the method calls chain together, each method building on the returned result of the previous method. Use methods to define the attributes of the query. The methods do not execute until you call a terminal method, a method that returns a query result, allowing you to define the requirements of the query before executing it.
 
 If the query returns a single record, the system wraps the result in an Optional object. If the query returns a stream of records, the system wraps the result in a Stream object. These objects let you manage the result using a set of methods in each API.
 
@@ -132,7 +132,7 @@ The GlideQuery script include does not support:
 
 ## Intermediate and terminal methods in GlideQuery
 
-The GlideQuery script include uses two categories of methods: intermediate and terminal. Intermediate methods are those methods that return a [Stream](../../Stream/concept/StreamGlobalAPI.md#), an API used for interacting with a stream of items like records, allowing a fluent style of syntax where calls are chained together. Terminal methods are those methods that do not return a stream and therefore stop the chain of Stream method calls.
+The GlideQuery script include uses two categories of methods: intermediate and terminal. Intermediate methods are those methods that return a [Stream](StreamGlobalAPI.md#), an API used for interacting with a stream of items like records, allowing a fluent style of syntax where calls are chained together. Terminal methods are those methods that do not return a stream and therefore stop the chain of Stream method calls.
 
 In the GlideQuery script include, methods such as where\(\), orderBy\(\), and disableWorkflow\(\) are intermediate methods that return a new GlideQuery object. Similarly, the GlideQuery script include's most popular terminal methods, select\(\) and selectOne\(\), are terminal methods. These methods are called when GlideQuery is done being configured and is ready to start processing records. The differences between these two method types is important to keep in mind when configuring calls to the GlideQuery script include according to your specific use cases. For more information about intermediate and terminal methods, see the article [GlideQuery - Stream Processing Part 1](https://developer.servicenow.com/blog.do?p=/post/glidequery-p6/).
 
@@ -175,7 +175,7 @@ The following methods are classified as terminal:
 
 **Note:** parse\(String table, String encoded\_query\) is neither intermediate or terminal, but static.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideQuery - GlideQuery\(String table\)
 
@@ -1496,7 +1496,7 @@ GlideQuery.parse('task', 'active=true^ORDERBYpriority') // Pass the encoded quer
 
 Returns the results of the query as a Stream object containing the specified fields.
 
-**Note:** Use a terminal method in the Stream class to get the result of the query. For more information, see [Stream](../../Stream/concept/StreamGlobalAPI.md#).
+**Note:** Use a terminal method in the Stream class to get the result of the query. For more information, see [Stream](StreamGlobalAPI.md#).
 
 You can append a flag to a field name to return the field's metadata instead of the field's value. For example, using the field name `company$DISPLAY` returns the display value of a company field. Possible flags include:
 
@@ -1701,7 +1701,7 @@ Output:
 
 Returns a GlideRecord object that represents the current query. Returns a GlideAggregrate object if the query uses the GlideQuery.aggregate\(\) method.
 
-After transforming the query, use the query\(\) method in the [GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) or [GlideAggregate](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#) classes to query the database.
+After transforming the query, use the query\(\) method in the [GlideRecord](c_GlideRecordScopedAPI.md#) or [GlideAggregate](c_GlideAggregateScopedAPI.md#) classes to query the database.
 
 |Name|Type|Description|
 |----|----|-----------|

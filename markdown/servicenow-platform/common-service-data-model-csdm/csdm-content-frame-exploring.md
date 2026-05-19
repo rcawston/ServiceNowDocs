@@ -17,7 +17,7 @@ The CSDM is the data model that admins should follow when they set up ServiceNow
 
 ## Definitions of CSDM terms
 
-See [CSDM terms](../reference/csdm-term-definitions.md).
+See [CSDM terms](csdm-term-definitions.md).
 
 ## Goal of following the CSDM guidelines
 

@@ -54,5 +54,5 @@ Role required: admin
 
 [Associate a feedback or a product idea record with a non-planning item](associate-feedback-with-non-planning-item.md)
 
-**Parent Topic:**[Configuring Feedback application in Strategic Planning](../concept/configuring-product-feedback-in-sp.md)
+**Parent Topic:**[Configuring Feedback application in Strategic Planning](configuring-product-feedback-in-sp.md)
 

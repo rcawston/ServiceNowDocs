@@ -51,7 +51,7 @@ The following image shows the **Failure Modes** tab available when viewing part 
 
 ![Overview of failure modes for the selected functional location with the highlighted Failure Modes tab](../image/failure-modes.png)
 
--   **[Create a failure mode from a functional location](../task/create-failure-mode.md)**  
+-   **[Create a failure mode from a functional location](create-failure-mode.md)**  
 Create a failure mode from a functional location in the Digital Factory Workspace to help identify and organize equipment or process issues.
 
 **Parent Topic:**[Using Digital Factory Workspace](using-digital-factory-workspace.md)

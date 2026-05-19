@@ -58,7 +58,7 @@ Role required: sn\_cm\_core.contract\_config
 -   Map any new meta data found during parsing. For more information, see [Update contract template mappings](cncore-template-mapping.md).
 -   Classify new clauses found during parsing. For more information, see [Classify and map imported clauses](cncore-import-clauses.md)
 
-**Parent Topic:**[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+**Parent Topic:**[Manage clauses, tables, and contract templates](cncore-manage-clauses-ctemplates.md)
 
 **Related topics**  
 

@@ -34,5 +34,5 @@ Trigger points at which the compliance score of an entity is impacted and the en
 7.  When a control is added to an entity or deleted from an entity.
 8.  When the control's status changes.
 
-The **Compliance Score V2** scheduled job picks up the records from the compliance score table to calculate the score. Based on the **Entity hierarchy based scoring** property value, the logic in calculating the entity's compliance score is determined. For more information, see [Properties installed with GRC: Policy and Compliance Management](../../grc-policy-and-compliance/reference/r_InstallWPolAndCompl.md#).
+The **Compliance Score V2** scheduled job picks up the records from the compliance score table to calculate the score. Based on the **Entity hierarchy based scoring** property value, the logic in calculating the entity's compliance score is determined. For more information, see [Properties installed with GRC: Policy and Compliance Management](../policy-and-compliance-management/r_InstallWPolAndCompl.md#).
 

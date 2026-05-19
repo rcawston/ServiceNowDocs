@@ -54,5 +54,5 @@ An Agile structure is defined for Jira Configuration in EAP.
 
 ## What to do next
 
-[Start using SPW and EAP with Jira integration](../concept/using-eap-with-spw-jira-integrations.md).
+[Start using SPW and EAP with Jira integration](using-eap-with-spw-jira-integrations.md).
 

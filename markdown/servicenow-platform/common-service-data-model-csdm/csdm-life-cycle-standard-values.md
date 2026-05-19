@@ -18,15 +18,15 @@ You can align life-cycle values for each product instance on the asset, CI, and 
 This topic provides an overview of the entire align and synchronize process.
 
 -   Detailed instructions for running the align and synchronize process appears in [Migrate legacy asset and CI settings to CSDM life-cycle values](csdm-life-cycle-standard-values.md#).
--   A detailed reference to all synchronization options appears in [How life-cycle values for Asset, CI, and IBI are synchronized](../../csdm-implementation/reference/cmdb-asset-CI-IBI-sync-options.md).
+-   A detailed reference to all synchronization options appears in [How life-cycle values for Asset, CI, and IBI are synchronized](cmdb-asset-CI-IBI-sync-options.md).
 
-**Tip:** Terms used in this document are defined in [CSDM life-cycle terms](../reference/csdm-life-cyle-terms.md).
+**Tip:** Terms used in this document are defined in [CSDM life-cycle terms](csdm-life-cyle-terms.md).
 
 ## Why enable CSDM life-cycle synchronization between CI and asset entities
 
 When the one-time data synchronization operation finishes, CSDM life-cycle values for each product instance as represented in the asset and CI tables will be identical. Business rules then synchronize life-cycle value pairs among the asset, CI, and IBI tables. The business rules then run on regular schedules to promote that life-cycle values for the asset, CI, and IBI tables remain aligned.
 
-See [How life-cycle values for Asset, CI, and IBI are synchronized](../../csdm-implementation/reference/cmdb-asset-CI-IBI-sync-options.md).
+See [How life-cycle values for Asset, CI, and IBI are synchronized](cmdb-asset-CI-IBI-sync-options.md).
 
 The following products, for example, benefit from the standardized values:
 
@@ -36,7 +36,7 @@ The following products, for example, benefit from the standardized values:
 
 ## How the mapping between legacy status values and CSDM life-cycle values is specified
 
-A life-cycle value pair is the combination life cycle stage and life cycle stage status values for a CI, asset, or IBI over the life cycle of a product instance. The base system includes the life-cycle mapping \[life\_cycle\_mapping\] table that holds mapping rules. The default rules specify how to align common legacy status values to a CSDM life-cycle value pair. You can update and add rules as needed. \(The table is described more fully in [Life cycle mapping table](../reference/csdm-life-cyle-terms.md#section_csdm-lifecycle-mapping-table).\)
+A life-cycle value pair is the combination life cycle stage and life cycle stage status values for a CI, asset, or IBI over the life cycle of a product instance. The base system includes the life-cycle mapping \[life\_cycle\_mapping\] table that holds mapping rules. The default rules specify how to align common legacy status values to a CSDM life-cycle value pair. You can update and add rules as needed. \(The table is described more fully in [Life cycle mapping table](csdm-life-cyle-terms.md#section_csdm-lifecycle-mapping-table).\)
 
 ![Mapping rule that specifies the mapping between a legacy status value and the equivalent CSDM life-cycle value pair.](../../csdm-implementation/image/csdm-lifecycle-mapping-form-annota.png)
 
@@ -129,7 +129,7 @@ Immediately after synchronization operations are completed, business rules run t
 
 Instructions [Migrate legacy asset and CI settings to CSDM life-cycle values](csdm-life-cycle-standard-values.md#)
 
-**Parent Topic:**[Implementing the CSDM framework in stages](../../csdm-implementation/concept/csdm-implementation-stages.md)
+**Parent Topic:**[Implementing the CSDM framework in stages](csdm-implementation-stages.md)
 
 ## Map legacy status values to CSDM life-cycle values
 
@@ -141,11 +141,11 @@ Role required: itil\_admin or asset\_admin
 
 ### About this task
 
-Several legacy statuses are automatically mapped to the **Life Cycle Stage** and **Life Cycle Stage Status** fields. For more information, see [Legacy status values that are auto-updated](../../csdm-implementation/reference/csdm-lifecycle-status-auto-updated.md).
+Several legacy statuses are automatically mapped to the **Life Cycle Stage** and **Life Cycle Stage Status** fields. For more information, see [Legacy status values that are auto-updated](csdm-lifecycle-status-auto-updated.md).
 
 Because the base system includes many default mappings, you might not have to create many custom mappings. To view the list of default mappings, navigate to **All** &gt; **CSDM** &gt; **Life Cycle Mapping**.
 
-**Tip:** Terms used in this document are defined in [CSDM life-cycle terms](../reference/csdm-life-cyle-terms.md).
+**Tip:** Terms used in this document are defined in [CSDM life-cycle terms](csdm-life-cyle-terms.md).
 
 In the following example, your existing data uses a status attribute named **Install Status** for hardware CIs. You configure the Life cycle mapping form to map the existing **Pending Install** value of the **Install Status** attribute to the **Deploy/Test** life-cycle value pair in the CMDB.
 
@@ -155,7 +155,7 @@ In the following example, your existing data uses a status attribute named **Ins
 
 1.  Navigate to **All** &gt; **CSDM** &gt; **Life Cycle Mapping**.
 
-2.  On the Life cycle mappings list view, select **New** and then fill in the Life cycle mapping form as described in [Life cycle mapping form](../reference/csdm-life-cycle-mapping-form.md).
+2.  On the Life cycle mappings list view, select **New** and then fill in the Life cycle mapping form as described in [Life cycle mapping form](csdm-life-cycle-mapping-form.md).
 
 3.  Select **Submit**.
 
@@ -170,7 +170,7 @@ Activate life-cycle synchronization to migrate your legacy asset and CI status s
 
 ### Before you begin
 
-**Tip:** Terms used in this document are defined in [CSDM life-cycle terms](../reference/csdm-life-cyle-terms.md).
+**Tip:** Terms used in this document are defined in [CSDM life-cycle terms](csdm-life-cyle-terms.md).
 
 Before you enable life-cycle synchronization, navigate to **CSDM** &gt; **Life Cycle Mapping**. Review the prepopulated mappings in the **Life Cycle Mappings** list view:
 
@@ -208,5 +208,5 @@ Business rules now perform ongoing alignment of life-cycle data as described in 
 After the data has migrated successfully, you can start managing data following the CSDM model:
 
 1.  [Activate the CSDM Activation \(com.snc.cmdb.csdm.activation\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
-2.  Use the [CMDB Data Manager](cmdb-data-management.md) to centrally govern the life cycle of CIs in bulk and in a standard and consistent way.
+2.  Use the [CMDB Data Manager](../configuration-management-database-cmdb/cmdb-data-management.md) to centrally govern the life cycle of CIs in bulk and in a standard and consistent way.
 

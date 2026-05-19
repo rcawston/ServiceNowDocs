@@ -44,5 +44,5 @@ Role required: admin
 8.  Review the Test Check status to confirm that the remedial action defined in the Powershell script is successfully executed.
 
 
-**Parent Topic:**[Creating and executing a PowerShell script-based remedial action](../concept/remedial-actions-ps.md)
+**Parent Topic:**[Creating and executing a PowerShell script-based remedial action](remedial-actions-ps.md)
 

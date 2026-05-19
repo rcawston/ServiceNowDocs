@@ -40,5 +40,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Include On-call scheduling users to initiate Microsoft Teams chat](../concept/on-call-users-start-chat-it.md)
+**Parent Topic:**[Include On-call scheduling users to initiate Microsoft Teams chat](on-call-users-start-chat-it.md)
 

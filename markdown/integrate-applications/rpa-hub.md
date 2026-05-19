@@ -23,7 +23,7 @@ The Process parameters components enable you to get or update the values of the 
 The Queue connector enables you to create and manage work items on a queue created in the RPA Hub.
 -   **[Shared Parameters](shared-parameters.md)**  
 You can set parameters and their values that are shared across bot processes in the RPA Hub. The Shared Parameters components enable you to get the values of one or more such parameters.
--   **[Use the Log component](../task/use-general-log.md)**  
+-   **[Use the Log component](use-general-log.md)**  
 Capture custom messages as automation logs by using the Log component in an automation in RPA Desktop Design Studio. With this component, you can write custom messages as automation logs and view them from a unified space so that you can track the progress of an automation.
 
 **Parent Topic:**[Automation components](rpa-studio-automation-components.md)

@@ -19,9 +19,9 @@ Configure Agent Client Collector to discover and map application services withou
 
 Confirm that you have installed both Agent Client Collector for Visibility - Content version 3.5.0 and the Kubernetes Visibility Agent \(KVA\) from the ServiceNow® Store.
 
-Ensure that Agent Client Collector has been configured. For more information, see [Application patterns for the Agent Client Collector](../../agent-client-collector/concept/application-patterns-acc.md).
+Ensure that Agent Client Collector has been configured. For more information, see [Application patterns for the Agent Client Collector](../agent-client-collector/application-patterns-acc.md).
 
-Verify that agents have the necessary privileges to execute the required application pattern commands for successful completion of top-down discovery. For more information, see [SSH commands requiring a privileged user during probe-based discovery](../../discovery/reference/discovery-ssh-command-require-priv.md) and [SSH commands not requiring a privileged user during probe-based discovery](../../discovery/reference/discovery-ssh-probe-commands.md).
+Verify that agents have the necessary privileges to execute the required application pattern commands for successful completion of top-down discovery. For more information, see [SSH commands requiring a privileged user during probe-based discovery](../discovery/discovery-ssh-command-require-priv.md) and [SSH commands not requiring a privileged user during probe-based discovery](../discovery/discovery-ssh-probe-commands.md).
 
 **Important:** This configuration requires a MID Server that is up and running to work correctly. Service Mapping selects the MID Server to which the target agent connects, in order to run commands through the agent.
 

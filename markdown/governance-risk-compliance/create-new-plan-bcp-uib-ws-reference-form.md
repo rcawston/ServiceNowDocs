@@ -249,5 +249,5 @@ Template
 Panel to populate the template for the business continuity plan. You can view all or customized templates in this panel.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a business continuity plan](../task/create-bcp-plan-in-uib-ws.md)
+</table>**Parent Topic:**[Create a business continuity plan](create-bcp-plan-in-uib-ws.md)
 

@@ -48,5 +48,5 @@ Set any RGB value for the background color. However, the login modal continues t
 
 Log out of your experience to view the new login page background color.
 
-**Parent Topic:**[Working with themes in Next Experience](../concept/next-experience-theming.md)
+**Parent Topic:**[Working with themes in Next Experience](next-experience-theming.md)
 

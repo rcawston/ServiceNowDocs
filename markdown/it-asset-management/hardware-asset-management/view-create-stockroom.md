@@ -74,5 +74,5 @@ Action
 
 The stockroom is added to the list shown in the All stockrooms tab.
 
-**Parent Topic:**[Manage stockrooms](../concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](manage-your-stockrooms.md)
 

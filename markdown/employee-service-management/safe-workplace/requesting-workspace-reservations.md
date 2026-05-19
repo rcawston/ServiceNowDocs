@@ -46,9 +46,9 @@ The notification contains campus details, space details, and the reservation dur
 
 ![Reservation details like the campus, space, and duration.](../../workplace-service-delivery/images/wsd-core-notification.png)
 
--   **[Request a workplace reservation for multiple days](../task/request-workspace-reservations-for-multiple-days.md)**  
+-   **[Request a workplace reservation for multiple days](request-workspace-reservations-for-multiple-days.md)**  
 Request a workplace reservation for the days during which you want to return to office by using Workplace Core.
--   **[Reserve a workplace for a day](../task/reserve-space-for-a-day.md)**  
+-   **[Reserve a workplace for a day](reserve-space-for-a-day.md)**  
 Reserve workplaces for a day on which you want to return to the office by using Workplace Core.
 
 **Parent Topic:**[Workplace Core](workplace-safety-mgmt-hr.md)

@@ -47,7 +47,7 @@ Scheduled
 
 </td><td>
 
-The work order task is soft booked but not confirmed. The work order task is pending assignment from the dispatcher.**Note:** This state only shows if use scheduled state is enabled. For more information, see [Configure the Scheduled state](../task/configure-scheduled-state.md).
+The work order task is soft booked but not confirmed. The work order task is pending assignment from the dispatcher.**Note:** This state only shows if use scheduled state is enabled. For more information, see [Configure the Scheduled state](configure-scheduled-state.md).
 
 </td></tr><tr><td>
 

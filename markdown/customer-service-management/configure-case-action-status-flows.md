@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-The actionable case flows included with the Case Action Status plugin are enabled by default. If you do not want to create blocking tasks for a specific action, you need to disable the associated flow. For more information about the case flows included with the plugin, see [Actionable case flows](../reference/case-action-status-triggers.md).
+The actionable case flows included with the Case Action Status plugin are enabled by default. If you do not want to create blocking tasks for a specific action, you need to disable the associated flow. For more information about the case flows included with the plugin, see [Actionable case flows](case-action-status-triggers.md).
 
 **Note:** The Case Action Status plugin provides case flows that create and resolve blocking tasks for problems associated with cases. To get complete functionality, you must also activate the Customer Service with Service Management plugin \(com.sn\_cs\_sm\). For more information, see [Integrate with Service Management](configure-csm-sm-integration.md).
 
@@ -35,5 +35,5 @@ The actionable case flows included with the Case Action Status plugin are enable
 **Related topics**  
 
 
-[Case action status](../concept/case-action-status-csm-workspace.md)
+[Case action status](case-action-status-csm-workspace.md)
 

@@ -28,5 +28,5 @@ The Telecommunications Customer 360 \(com.sn\_telecom\_c360\) plugin activates t
 |Customer Service Problem Management|`com.sn_sprb_mgmt`|
 |Customer 360 data configuration|`com.sn_c360_dataconfig`|
 
-**Parent Topic:**[Configure Telecommunications Customer 360](../task/c360-configure.md)
+**Parent Topic:**[Configure Telecommunications Customer 360](c360-configure.md)
 

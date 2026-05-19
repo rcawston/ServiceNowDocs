@@ -50,5 +50,5 @@ Users that the investment owner adds in the **Viewable by** field can also revie
 5.  Click the **Actions** menu and select **View Investment** to navigate to the investment grid.
 
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

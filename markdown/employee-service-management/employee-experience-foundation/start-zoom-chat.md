@@ -155,7 +155,7 @@ Chat transcript.
     -   To continue the chat from the record with the same user, select **Continue Chat**.
     -   To start a new chat that includes additional users, add the users and provide a title for the chat in the **Chat title ** field and an opening message in the **Create an opening message** field.
 
-**Parent Topic:**[Starting and importing a Zoom Team Chat](../concept/start-import-chat.md)
+**Parent Topic:**[Starting and importing a Zoom Team Chat](start-import-chat.md)
 
 ## Reassign a ticket
 

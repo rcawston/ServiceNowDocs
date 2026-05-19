@@ -85,7 +85,7 @@ When testing topic blocks and custom controls, you can edit the variables found 
 
 The **Context** tab appears when you’re testing topics, setup topics, or small talk topics, to specify a different context for the chat. Choose a context variable from the list. The variables contain contextual information that can be used to determine topic intent or control how chats are routed to live agents. For example, you could select **portal** from the list of variables and enter the portal name **IT Express**. The **Context** tab is unavailable when creating test cases.
 
-For more information about defining context variables, see [Configure context variables for storing chat-related information](../../conversational-interfaces/task/ac-configure-context-variables.md). For more information about live agent variables that are included with Virtual Agent, see [Live agent chat context variables](live-agent-chat-context-vars.md).
+For more information about defining context variables, see [Configure context variables for storing chat-related information](../ac-configure-context-variables.md). For more information about live agent variables that are included with Virtual Agent, see [Live agent chat context variables](../live-agent-chat-context-vars.md).
 
 ![Context tab with the context portal value of service portal.](../images/va-context-llm.png)
 

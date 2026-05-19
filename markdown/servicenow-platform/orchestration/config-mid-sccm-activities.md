@@ -40,7 +40,7 @@ Role required: admin
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring SCCM](../../../product/orchestration/concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](configuring-sccm.md)
 
-**Parent Topic:**[SCCM activity pack](../concept/c_SCCMActivityPack.md)
+**Parent Topic:**[SCCM activity pack](c_SCCMActivityPack.md)
 

@@ -19,9 +19,9 @@ Quick start test for certificate discovery for GoDaddy, Entrust, Digicert, Setig
 |----|-----------|
 |Certificate Discovery|Certificate discovery for GoDaddy, Entrust, Digicert, and Setigo. Discovery brings the certificates and persist them in cmdb\_ci\_certificate table. This test validates the certificates and CIs in the cmdb\_ci\_certificate tables.|
 
-To learn more about Certificate Inventory and Management, see [Certificate Inventory and Management](../../../product/discovery/reference/cert-inventory-mgmt.md).
+To learn more about Certificate Inventory and Management, see [Certificate Inventory and Management](cert-inventory-mgmt.md).
 
-**Parent Topic:**[Certificate Inventory and Management reference](../../../product/discovery/reference/cert-invt-mgmt-references.md)
+**Parent Topic:**[Certificate Inventory and Management reference](cert-invt-mgmt-references.md)
 
 **Related topics**  
 

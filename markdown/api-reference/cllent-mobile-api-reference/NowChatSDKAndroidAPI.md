@@ -17,7 +17,7 @@ The NowChatService class provides the function necessary to create a NowChatServ
 
 For additional information on Live Agent and Virtual Agent, see [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md).
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowChatSDK - makeChatService\(instanceURL: URL, nowChatSdkCallbacks\)
 
@@ -26,7 +26,7 @@ Creates a NowChat service. This is a suspend function.
 |Name|Type|Description|
 |----|----|-----------|
 |instanceURL|[URL](https://developer.android.com/reference/kotlin/java/net/URL.html)|URL of the ServiceNow instance that the NowChatService should interact with.|
-|nowChatSdkCallbacks|[NowChatSdkCallbacks](../../NowChatSdkCallbacks/concept/NowChatSdkCallbacksAndroidInt.md#)|Callbacks for the host application to use to configure the NowChatService.|
+|nowChatSdkCallbacks|[NowChatSdkCallbacks](NowChatSdkCallbacksAndroidInt.md#)|Callbacks for the host application to use to configure the NowChatService.|
 
 |Type|Description|
 |----|-----------|

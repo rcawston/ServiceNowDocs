@@ -37,7 +37,7 @@ An implementation is available in the base system for scripted extension points.
 
     -   Create and register a custom script include.
 
-        For more information, see [Registering custom script includes against the scripted extension points](../../../build/applications/concept/impl-scripted-ext-pts-custom-code.md).
+        For more information, see [Registering custom script includes against the scripted extension points](impl-scripted-ext-pts-custom-code.md).
 
     -   Modify the existing script include by going to the Implementations related list and selecting a script include in the **Class** column. The script includes are displayed in the **Class** column.
 

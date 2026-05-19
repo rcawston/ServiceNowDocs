@@ -44,7 +44,7 @@ By default, the Survey Creators user group is available. When you add a user to 
     3.  Click **Save**.
 
 
-**Parent Topic:**[Survey users and groups](../concept/c_SurveyUsersAndGroups.md)
+**Parent Topic:**[Survey users and groups](c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 

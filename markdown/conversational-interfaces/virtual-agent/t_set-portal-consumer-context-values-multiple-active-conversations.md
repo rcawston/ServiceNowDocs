@@ -52,5 +52,5 @@ With consumer context added to a portal configuration, that portal acts as conte
 
 Set a default context for your conversations. See [Set a default NLU context value for multiple active conversations](t_set-default-context-value-multiple-active-conversations.md) for more information.
 
-**Parent Topic:**[Using multiple active conversations in Virtual Agent](../concept/c_multiple-active-conversations-va.md)
+**Parent Topic:**[Using multiple active conversations in Virtual Agent](c_multiple-active-conversations-va.md)
 

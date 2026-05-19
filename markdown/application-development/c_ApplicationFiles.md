@@ -30,5 +30,5 @@ Administrators can:
 **Related topics**  
 
 
-[Legacy - Add an application file to an application](../task/t_AddAnAppFileToAnApp.md)
+[Legacy - Add an application file to an application](servicenow-studio-classic/t_AddAnAppFileToAnApp.md)
 

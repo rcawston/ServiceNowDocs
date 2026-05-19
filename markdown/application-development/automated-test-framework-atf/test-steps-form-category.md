@@ -116,7 +116,7 @@ Name of the view in which you want this form to open. The testing user must have
 
 Open a form to an existing record in the specified table and **Form UI**.
 
-**Note:** Using an existing record may cause unexpected behavior for this test. See [Automated Test Framework design considerations](../concept/automated-test-framework-design-considerations.md) for more information.
+**Note:** Using an existing record may cause unexpected behavior for this test. See [Automated Test Framework design considerations](automated-test-framework-design-considerations.md) for more information.
 
 <table id="table_od3_dgb_hzb"><thead><tr><th>
 

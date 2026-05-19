@@ -134,5 +134,5 @@ Enables you to assess your teams' abilities to resolve incidents efficiently.
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Getting started with Workforce Optimization for ITSM](../concept/getting-started-workforce-optimization-itsm.md)
+**Parent Topic:**[Getting started with Workforce Optimization for ITSM](getting-started-workforce-optimization-itsm.md)
 

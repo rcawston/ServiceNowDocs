@@ -24,7 +24,7 @@ Custom metrics enable you to choose you measure your AI agents and agentic workf
 -   Testing that a certain phrase is in the response
 -   Measuring the length of a response to test verbosity
 
-When writing the script, you have access to the output of a parser tool. See [agentic evaluation parser tool](../concept/eval-parser-tool.md) for more details on how it works.
+When writing the script, you have access to the output of a parser tool. See [agentic evaluation parser tool](eval-parser-tool.md) for more details on how it works.
 
 ## Procedure
 

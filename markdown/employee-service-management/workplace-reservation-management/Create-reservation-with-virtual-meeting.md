@@ -17,7 +17,7 @@ Enable employees who are located outside the office to join a reservation by usi
 
 ## Before you begin
 
-**Note:** You can create a virtual meeting link only if your administrator has enabled the virtual meeting configuration. For more information, see [Configure a reservable purpose](configure-reservable-purpose.md) and [Create a reservation](create-reservation-request-1.md).
+**Note:** You can create a virtual meeting link only if your administrator has enabled the virtual meeting configuration. For more information, see [Configure a reservable purpose](configure-reservable-purpose.md) and [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -78,7 +78,7 @@ Navigate to **Workplace Reservation Management** &gt; **Portal** &gt; **New Rese
 
     **Note:** While browsing near a person, if there are any private spaces, then they are not displayed in the search result.
 
-    **Note:** You can switch between the **Card view** tab and **Schedule view** tab to review the availability of workplace items. If your company uploads floor maps, view the maps using Mappedin or Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](../../workplace-space-mapping/concept/wsm-mappedin-admin.md).
+    **Note:** You can switch between the **Card view** tab and **Schedule view** tab to review the availability of workplace items. If your company uploads floor maps, view the maps using Mappedin or Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](../wsm-mappedin-admin.md).
 
 5.  Sort the workplace items in alphabetical order or by using a filter with the **Show filter** option.
 
@@ -217,12 +217,12 @@ To view the reservation recording, go to Reservation summary of the reservation 
 
 -   **Any other virtual meeting providers**: The meeting link is added in the **Location** field of the email containing the meeting invite.
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -238,7 +238,7 @@ To view the reservation recording, go to Reservation summary of the reservation 
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

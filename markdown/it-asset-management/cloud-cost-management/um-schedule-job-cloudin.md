@@ -129,7 +129,7 @@ This field appears only when the **Approval type** is selected as **Auto approva
 
 The Unused resources job is created and runs at the scheduled time.
 
-**Parent Topic:**[Manage unused resources](../concept/manage-unused-mac.md)
+**Parent Topic:**[Manage unused resources](manage-unused-mac.md)
 
 **Related topics**  
 

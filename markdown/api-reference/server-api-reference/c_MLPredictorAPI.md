@@ -21,7 +21,7 @@ The MLPredictor API requires the Predictive Intelligence plugin \(com.glide.plat
 
 This class contains all methods necessary to get prediction results from input data.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## MLPredictor - MLPredictor\(\)
 

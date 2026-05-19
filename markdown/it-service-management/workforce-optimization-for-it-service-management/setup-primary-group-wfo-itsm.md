@@ -34,5 +34,5 @@ Before you set up Workforce Optimization for ITSM, you must assign each agent in
     If you do not see the **Primary Assignment Group** field, select the gear icon and add the **Primary Assignment Group** field to the **Selected** column and select **OK**.
 
 
-**Parent Topic:**[Configuring groups in Workforce Optimization for ITSM](../concept/configuring-groups-wfo-itsm.md)
+**Parent Topic:**[Configuring groups in Workforce Optimization for ITSM](configuring-groups-wfo-itsm.md)
 

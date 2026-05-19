@@ -23,7 +23,7 @@ For further information on managed IT resources and Subscription Unit ratios, se
 
 -   **[Managed IT Resource types](managed-it-resource-ccm.md)**  
 There are three IT Resource categories in ServiceNow Cloud Cost Management - Server, PaaS Resources, and IaaS Storage.
--   **[View the license report for the Cloud Cost Management application](../task/view-license-report-ccm.md)**  
+-   **[View the license report for the Cloud Cost Management application](view-license-report-ccm.md)**  
 View details of the subscriptions purchased and consumed by your organization for the managed IT resource types such as Server, End User Computing Device, and Database using the ITAM License Report.
 
 **Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)

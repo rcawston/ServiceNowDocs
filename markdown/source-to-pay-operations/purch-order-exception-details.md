@@ -20,11 +20,11 @@ A purchase order exception refers to any discrepancy or problem that arises duri
 -   Goods receipt exceptions: Wrong material or lot received, or quality issues.
 -   Delivery plan exceptions: The supplier can’t deliver the full quantity or on time, or can’t deliver at all.
 
-On the Purchase Order Management, navigate to **Lists** &gt; **My work** &gt; **Open purchase order exceptions**. Select a purchase order exception number link from the Number column to open the purchase order exception Details page. For a description of the field values, see [Purchase order exception form](../reference/purch-order-exception-form.md).
+On the Purchase Order Management, navigate to **Lists** &gt; **My work** &gt; **Open purchase order exceptions**. Select a purchase order exception number link from the Number column to open the purchase order exception Details page. For a description of the field values, see [Purchase order exception form](purch-order-exception-form.md).
 
 |Option|Description|
 |------|-----------|
-|Multi-tab interface|For each purchase order exception, the details are displayed in tabs. For more information, see [Purchase order exception form tabs](../reference/purch-order-exception-form-tabs.md).|
+|Multi-tab interface|For each purchase order exception, the details are displayed in tabs. For more information, see [Purchase order exception form tabs](purch-order-exception-form-tabs.md).|
 |Activity stream|Displays processing activities, comments, and changes to the state of the exception. You can filter activities by post types, field changes, and flagged activities.|
 |Contextual side panel|Includes options to add attachments and templates related to the purchase order exception.|
 

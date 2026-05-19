@@ -23,7 +23,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 2.  Select **New**.
 
-3.  Fill in the fields on the [MCO input attributes form](../reference/mco-input-atrributes_form.md)form, as appropriate.
+3.  Fill in the fields on the [MCO input attributes form](mco-input-atrributes_form.md)form, as appropriate.
 
 4.  Select **Save**.
 

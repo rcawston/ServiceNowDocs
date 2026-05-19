@@ -34,10 +34,10 @@ No path found between the sites &lt;site1\_name&gt; and &lt;site2\_name&gt;.
 Create a connection between the sites.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Design your GPON Broadband Service](../task/gpon-broadband-change-model.md)
+[Design your GPON Broadband Service](gpon-broadband-change-model.md)
 

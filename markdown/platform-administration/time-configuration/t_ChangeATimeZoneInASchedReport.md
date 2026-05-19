@@ -27,11 +27,11 @@ For example, a report on 'incidents open today' resolves 'today' based on the us
 
 3.  Add Run as fields to the layout.
 
-    1.  Configure the form layout to add the **Run as tz** field to the **Scheduled Report** form. See [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#) for instructions.
+    1.  Configure the form layout to add the **Run as tz** field to the **Scheduled Report** form. See [Configuring the form layout](../configure-form-layout.md#) for instructions.
 
         The Run as tz field lets you choose either a the time zone of the user who configured the schedule, or a specific time zone.
 
-    2.  Configure the form layout to add the **Run as \[+\]** field to the **Scheduled Report** form. See [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#) for instructions.
+    2.  Configure the form layout to add the **Run as \[+\]** field to the **Scheduled Report** form. See [Configuring the form layout](../configure-form-layout.md#) for instructions.
 
         The Run as \[+\] field lets you choose a specific user to run the report as.
 
@@ -42,5 +42,5 @@ For example, a report on 'incidents open today' resolves 'today' based on the us
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Using time configuration](../using-time-configuration.md)
+**Parent Topic:**[Using time configuration](using-time-configuration.md)
 

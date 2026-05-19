@@ -86,12 +86,12 @@ Engineering lead
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Define release readiness targets for single or recurring release schedules.|[Release readiness target](../task/dpr-create-rls-readiness-target.md)|Release manager|
-|Define release templates that include phases, tasks, policies, and approval tasks.|[Release templates](../task/dpr-create-release-template.md#)|Release manageror Release template admin|
-|Create policies to automate the release process.|[Policy administration](../reference/dpr-policies.md)|Release manager|
-|Manage products, services,features, product enhancements,versions, and initiate a release.|[Release planning](../task/dpr-plan-feature-version.md)|Product manager|
-|Generate AI-powered release notes that streamline release documentation, reduces manual effort, and improves clarity for stakeholders.|[Generate AI-powered release notes for a release](../task/dpr-generate-release-notes.md)|Product manager|
-|Plan and manage the release process from start to finish.|[Release execution](../task/dpr-work-release.md#)|Release manager|
+|Define release readiness targets for single or recurring release schedules.|[Release readiness target](dpr-create-rls-readiness-target.md)|Release manager|
+|Define release templates that include phases, tasks, policies, and approval tasks.|[Release templates](dpr-create-release-template.md#)|Release manageror Release template admin|
+|Create policies to automate the release process.|[Policy administration](dpr-policies.md)|Release manager|
+|Manage products, services,features, product enhancements,versions, and initiate a release.|[Release planning](dpr-plan-feature-version.md)|Product manager|
+|Generate AI-powered release notes that streamline release documentation, reduces manual effort, and improves clarity for stakeholders.|[Generate AI-powered release notes for a release](dpr-generate-release-notes.md)|Product manager|
+|Plan and manage the release process from start to finish.|[Release execution](dpr-work-release.md#)|Release manager|
 
 ## Digital Product Release key terms
 
@@ -163,5 +163,5 @@ Service Operations Workspace \(SOW\) and Digital Product Release \(DPR\) workspa
 -   **[Associating change requests with releases in Service Operations Workspace](dpr-sow-integration-cr.md)**  
 The integration between Service Operations Workspace \(SOW\) and Digital Product Release \(DPR\) workspaces provide a unified release and change management experience. You can associate releases with change requests across both workspaces.
 
-**Parent Topic:**[Digital Product Release](../reference/dpr-landing-page.md)
+**Parent Topic:**[Digital Product Release](dpr-landing-page.md)
 

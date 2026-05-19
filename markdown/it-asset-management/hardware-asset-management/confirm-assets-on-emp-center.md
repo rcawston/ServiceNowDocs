@@ -66,7 +66,7 @@ To view the **My Assets** option on the global header navigation bar of the Empl
     -   If you selected **Yes**, the **Status** field changes from **Open** to **Yes**.
     -   If you selected **No**, the **Status** field changes from **Open** to **No**. Also, a remediation task is created for that attestation. The administrator can work on that task and initiate an investigation to find the asset status.
 
-**Parent Topic:**[Confirming the assigned serialized hardware assets](../concept/confirming-assets-emp-portal-mobile.md)
+**Parent Topic:**[Confirming the assigned serialized hardware assets](confirming-assets-emp-portal-mobile.md)
 
 **Related topics**  
 

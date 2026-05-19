@@ -60,7 +60,7 @@ The location is the site. Every user must set their location in the user profile
 
 The functional location of the type site is available in the Digital Factory Workspace, from where you can create child functional locations.
 
-**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](../concept/setting-up-prerequisites-digital-factory-workspace.md)
+**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](setting-up-prerequisites-digital-factory-workspace.md)
 
 **Related topics**  
 

@@ -36,7 +36,7 @@ Role required: knowledge\_admin or admin
 
     Add questions and adjust the weight of the questions until the combined weight of all questions is equal to 100. The weight defines the score that is added to the total AQI review score of the article when the answer for that question is set to **true**. The maximum score that can be applied to an article in an AQI review is 100.
 
-    **Note:** The default AQI pass score is 70. You can change the pass score in the [Article Quality Index properties](../reference/r_KnowledgeProperties.md#).
+    **Note:** The default AQI pass score is 70. You can change the pass score in the [Article Quality Index properties](r_KnowledgeProperties.md#).
 
     To add a question:
 
@@ -100,5 +100,5 @@ A value for the question to score the article quality. This value is added to th
 
 After you create a checklist, [assign it to a knowledge base](assign-an-aqi-checklist-to-a-knowledgebase.md).
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](use-article-quality-index.md)
 

@@ -88,7 +88,7 @@ Session Id
 Unique identifier for the user session.
 
 </td></tr></tbody>
-</table>For information about finding the source used for searching a knowledge article, see [View the source of a knowledge article search](../task/find-knowledge-search-source.md).
+</table>For information about finding the source used for searching a knowledge article, see [View the source of a knowledge article search](find-knowledge-search-source.md).
 
-**Parent Topic:**[View knowledge logs](../task/view-knowledge-logs.md)
+**Parent Topic:**[View knowledge logs](view-knowledge-logs.md)
 

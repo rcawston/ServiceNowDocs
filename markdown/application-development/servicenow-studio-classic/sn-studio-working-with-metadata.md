@@ -19,7 +19,7 @@ ServiceNow Studio enables you to work with all types of metadata that the Servic
 
 The **File Categories** section of the Navigator panel enables you to quickly view all types of metadata that you have access to, arranged by taxonomy category. Expanding each metadata file category shows its subcategories. For example, expanding the **Automation** category provides access to view all of the sub-types of automation metadata, such as actions, flows, and playbooks.
 
-**Note:** To see a complete list of each category's file types and information about each file, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md).
+**Note:** To see a complete list of each category's file types and information about each file, see [ServiceNow Studio Navigator panel taxonomy](servicenow-studio-file-navigator-taxonomy.md).
 
 ![Expanded AI section of the File Categories section of the Navigator](../image/sn-studio-file-nav-expanded.png "Metadata sections in the File Categories section of the Navigator")
 
@@ -29,17 +29,17 @@ When you select a sub-type of an expanded file category, ServiceNow Studio displ
 
 ![The base table for the app file type appears at the top of the list](../image/sn-studio-file-category-table-name.png "Table for app files")
 
-For more information on using the Navigator panel to find app files by their metadata category, see [Find an app or app file using the Navigator panel](../task/qs-find-app-app-file-using-navigator-panel.md).
+For more information on using the Navigator panel to find app files by their metadata category, see [Find an app or app file using the Navigator panel](qs-find-app-app-file-using-navigator-panel.md).
 
 ## Metadata table and its extended tables
 
 Metadata lives as application files in their corresponding tables on the ServiceNow AI Platform. The main metadata table is sys\_metadata, but specific types of metadata extend the sys\_metadata table. For example, flows and sub-flows use the extended sys\_hub\_flow table.
 
-See [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md) for a list of available metadata and corresponding tables that extend sys\_metadata.
+See [ServiceNow Studio Navigator panel taxonomy](servicenow-studio-file-navigator-taxonomy.md) for a list of available metadata and corresponding tables that extend sys\_metadata.
 
 ## Metadata by category
 
-Each file category has different types of metadata available for automations, data, integration, mobile app builder, UI, and other categories. For a list of each type of file, its primary table, primary builder experience, and more, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md).
+Each file category has different types of metadata available for automations, data, integration, mobile app builder, UI, and other categories. For a list of each type of file, its primary table, primary builder experience, and more, see [ServiceNow Studio Navigator panel taxonomy](servicenow-studio-file-navigator-taxonomy.md).
 
 **Note:** You can group or ungroup the metadata categories in the File Categories menu by selecting the more options icon ![more options icon](../image/sn-studio-more-options-icon.png) and selecting or deselecting **Show parent categories**.
 

@@ -50,5 +50,5 @@ Role required: sn\_icw.application\_admin
     5.  Select **Submit**.
 
 
-**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](../concept/setting-up-prerequisites-digital-factory-workspace.md)
+**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](setting-up-prerequisites-digital-factory-workspace.md)
 

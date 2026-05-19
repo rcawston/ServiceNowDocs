@@ -25,21 +25,21 @@ Workflow Studio flows, subflows, and actions are ServiceNow AI Platform features
 |--------------------|---------|
 |Retain flow execution details|[Flow execution details retention](flow-reporting.md)|
 |Create flow-specific execution settings|[Flow execution settings](flow-execution-settings.md)|
-|Enable flow reporting|[Activate flow reporting](../task/enable-flow-reporting.md#)|
+|Enable flow reporting|[Activate flow reporting](enable-flow-reporting.md#)|
 |View flow and action dashboards|[FDIH Dashboard](fdih-dashboard.md)|
 |Set flow priority|[Flow priority](flow-priority.md)|
 
 |Configuration option|Reference|
 |--------------------|---------|
 |Grant users access to build flows by role|[User access to Workflow Studio flows](user-access-flow-designer.md)|
-|Restrict access to individual flow and action features by custom roles|[Manage access to Workflow Studio flow features](../task/manage-access-features.md)|
+|Restrict access to individual flow and action features by custom roles|[Manage access to Workflow Studio flow features](manage-access-features.md)|
 |Filter flow and action content by role|[Content filtering for Workflow Studio flows](content-filtering-flow-designer.md)|
 
 |Configuration option|Reference|
 |--------------------|---------|
 |Grant access to flow and action APIs|[API access to Workflow Studio flows](api-access-flow-designer.md)|
-|Create code snippets|[Create code snippets for flows, subflows, and actions](../task/flow-design-code-snippet.md)|
-|Create a client callable flow, subflow, or action|[Create a client callable flow, subflow, or action](../task/grant-access-flow-apis.md)|
+|Create code snippets|[Create code snippets for flows, subflows, and actions](flow-design-code-snippet.md)|
+|Create a client callable flow, subflow, or action|[Create a client callable flow, subflow, or action](grant-access-flow-apis.md)|
 
 |Configuration option|Reference|
 |--------------------|---------|
@@ -48,6 +48,6 @@ Workflow Studio flows, subflows, and actions are ServiceNow AI Platform features
 
 |Configuration option|Reference|
 |--------------------|---------|
-|Update flow diagramming|[Update to the latest version of Flow Diagramming](../task/update-to-latest-version-flow-diagramming.md)|
-|Update Workflow Studio and all of its dependencies|[Update to the latest version of Workflow Studio](../../workflow-studio/task/update-to-the-latest-version-of-workflow-studio.md)|
+|Update flow diagramming|[Update to the latest version of Flow Diagramming](update-to-latest-version-flow-diagramming.md)|
+|Update Workflow Studio and all of its dependencies|[Update to the latest version of Workflow Studio](update-to-the-latest-version-of-workflow-studio.md)|
 

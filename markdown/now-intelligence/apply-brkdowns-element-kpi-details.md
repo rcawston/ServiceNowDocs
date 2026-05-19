@@ -21,7 +21,7 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 You can select as many breakdowns as the indicator supports.
 
-For classic indicators, you can select up to two levels of breakdown, and you can select multiple elements on the first breakdown. [Breakdown matrix collection](../../performance-analytics/task/create-breakdown-mapping.md#) must be enabled on the indicator to have more than one breakdown. For classic formula indicators, breakdown matrix collection must be enabled on the contributing automated indicators.
+For classic indicators, you can select up to two levels of breakdown, and you can select multiple elements on the first breakdown. [Breakdown matrix collection](performance-analytics/create-breakdown-mapping.md#) must be enabled on the indicator to have more than one breakdown. For classic formula indicators, breakdown matrix collection must be enabled on the contributing automated indicators.
 
 For indicators with Data snapshots enabled, you can select any number of breakdowns and elements.
 
@@ -94,7 +94,7 @@ The following indicators support an aggregate score of multiple elements:
 
 -   Manual indicators
 -   External indicators that do not use `SQL AVG()` or `SQL COUNT(DISTINCT...)` in their SQL statement
--   Formula indicators that have aggregate element views enabled on their indicator records. For more information, see the entry on the **Allow aggregation of multiple breakdown element scores** field on the Other tab in [Create a formula indicator](../../performance-analytics/task/t_CreateAFormulaIndicator.md).
+-   Formula indicators that have aggregate element views enabled on their indicator records. For more information, see the entry on the **Allow aggregation of multiple breakdown element scores** field on the Other tab in [Create a formula indicator](performance-analytics/t_CreateAFormulaIndicator.md).
 
 **Note:** When you navigate to KPI Details from a Performance Analytics widget on a Workspace Experience, and this widget uses an element filter that returns more than one element, only the first element is applied.
 
@@ -120,5 +120,5 @@ The following formula indicator does not have aggregate views of multiple elemen
 **Related topics**  
 
 
-[Indicator breakdowns](../../performance-analytics/concept/c_CreatingBreakdowns.md)
+[Indicator breakdowns](performance-analytics/c_CreatingBreakdowns.md)
 

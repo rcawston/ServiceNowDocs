@@ -39,7 +39,7 @@ Role required: admin or ih\_import.
         |-----|-----------|
         |Target table|Name of the table to transform your data to.|
         |Run table's business rules when importing|Option to run the target table's business rules when you import the data.|
-        |Run the import synchronously|Option to run the import synchronously. When data is transformed in parallel, and there are multiple source records with a specific coalesce value, checking this option ensures that only one record with that coalesce value is inserted at a time. For more information, see the Synchronized inserts section on the [Concurrent imports](../../import-sets/concept/concurrent-imports.md) page.|
+        |Run the import synchronously|Option to run the import synchronously. When data is transformed in parallel, and there are multiple source records with a specific coalesce value, checking this option ensures that only one record with that coalesce value is inserted at a time. For more information, see the Synchronized inserts section on the [Concurrent imports](../system-import-sets/concurrent-imports.md) page.|
 
     3.  Select **Save**.
 
@@ -108,5 +108,5 @@ Role required: admin or ih\_import.
 
 [Run or schedule a data import](run-schedule-data-imports.md).
 
-**Parent Topic:**[Integration Hub - Import](../concept/integrationhub-imports.md)
+**Parent Topic:**[Integration Hub - Import](integrationhub-imports.md)
 

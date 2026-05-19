@@ -47,7 +47,7 @@ Role required: sp\_admin
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [Portal Knowledge Quick Links widget instance options form](../reference/r-port-know-quick-links-inst-options.md).
+    For a description of the field values, see [Portal Knowledge Quick Links widget instance options form](../r-port-know-quick-links-inst-options.md).
 
 12. Select **Save**.
 

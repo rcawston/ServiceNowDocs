@@ -53,7 +53,7 @@ Navigate to **Problem** &gt; **Create New**.
 </td></tr></tbody>
 </table>2.  On the Problem form, fill in the fields.
 
-    For a description of the field values, see [Problem form](../reference/problem-form.md)
+    For a description of the field values, see [Problem form](problem-form.md)
 
 3.  Click **Submit**.
 
@@ -79,5 +79,5 @@ Assess the problem.
 -   **[Create a problem \(legacy\)](create-problem.md#)**  
 A problem is a cause of one or more incidents. Create a problem to identify the root cause of the incidents and try to prevent them from happening again.
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

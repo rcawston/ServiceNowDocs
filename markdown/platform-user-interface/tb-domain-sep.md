@@ -20,7 +20,7 @@ Domain separation enables you to separate data, processes, and administrative ta
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Configuring Next Experience with Theme Builder](../task/configuring-next-experience-with-theme-builder.md)
+**Parent Topic:**[Configuring Next Experience with Theme Builder](configuring-next-experience-with-theme-builder.md)
 
 **Related topics**  
 

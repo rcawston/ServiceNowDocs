@@ -15,9 +15,9 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 Assess the resource capacity and review existing allocations, which help you to make informed decisions while working on assigning resources in Strategic Planning.
 
-Use the [manage resource capacity](../task/manage-rsrc-cap-spw.md) screen to generate resource capacity details.
+Use the [manage resource capacity](manage-rsrc-cap-spw.md) screen to generate resource capacity details.
 
-Use the [Capacity screen](../task/using-cap-planning-screen-spw.md) to view detailed information about the resource capacity mapping to a portfolio.
+Use the [Capacity screen](using-cap-planning-screen-spw.md) to view detailed information about the resource capacity mapping to a portfolio.
 
 ## Manage resource capacity
 
@@ -82,7 +82,7 @@ Using Capacity, you can:
 
 ## Calculation of Operational Resource Assignment in Capacity
 
-As a Resource Manager, you can [create operation resource assignments](../../resource-management/task/create-op-rsrc-asgnmnts-ppm.md) or [migrate existing operational resource plans](../../resource-management/task/migrate-operational-rsrc-plans.md) of your employees to handle the required meetings, trainings, time off and so on to meet your work requirements.
+As a Resource Manager, you can [create operation resource assignments](../resource-management/create-op-rsrc-asgnmnts-ppm.md) or [migrate existing operational resource plans](../resource-management/migrate-operational-rsrc-plans.md) of your employees to handle the required meetings, trainings, time off and so on to meet your work requirements.
 
 Consider a group with capacity of 2 FTE and resource manager creates a Group type operation resource assignment for 10% of the capacity for training. This operational assignment can be viewed in the **Operational work** line item in the top-tray of the Capacity screen. The value of the **Operational work** line item will be 0.2, which is 10% of total capacity of the group.
 

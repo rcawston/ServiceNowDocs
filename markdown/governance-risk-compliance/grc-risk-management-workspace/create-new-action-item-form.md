@@ -40,5 +40,5 @@ See the following table for a description of the field values.
 |Assignee comment|Comments or actions taken by the assignee responsible for implementing the action item. This field is read only for risk response task owner.|
 |Additional comments|Additional information or details about the action item.|
 
-**Parent Topic:**[Create an action item in the risk response task](../task/create-action-item-risk-response-task.md)
+**Parent Topic:**[Create an action item in the risk response task](create-action-item-risk-response-task.md)
 

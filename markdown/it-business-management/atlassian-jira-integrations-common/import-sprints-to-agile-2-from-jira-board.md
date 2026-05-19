@@ -43,5 +43,5 @@ Import completed and current sprints of Jira board into Agile Development 2.0.
     An import request of type Import Sprints is created in the Jira Import Requests related list. Once the state of this request changes to Completed, you can view all the imported sprint data in the Sprints related list of the associated assignment group in Agile Development.
 
 
-**Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](../concept/importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
+**Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
 

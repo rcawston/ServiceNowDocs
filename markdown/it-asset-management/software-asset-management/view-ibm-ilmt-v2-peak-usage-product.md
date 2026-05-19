@@ -32,5 +32,5 @@ Role required: sam\_admin or sam\_user
     The Software Asset Management application displays the highest usage within an aggregated time period of up to 90 days. You can define this aggregated time period in ILMT or BigFix Inventory.
 
 
-**Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](../concept/integrating-ilmt-bigfix-v2-apis.md)
+**Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](integrating-ilmt-bigfix-v2-apis.md)
 

@@ -99,5 +99,5 @@ Double click
 The tour moves to the next step when the user double-clicks an element.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Guided Tour Designer](../concept/guided-tours-designer.md)
+</table>**Parent Topic:**[Guided Tour Designer](guided-tours-designer.md)
 

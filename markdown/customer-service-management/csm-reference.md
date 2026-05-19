@@ -27,7 +27,7 @@ Customer Service lists and forms
 
 </td><td>
 
--   [Customer Service Cases list](../concept/c_CustomerServiceCaseList.md)
+-   [Customer Service Cases list](c_CustomerServiceCaseList.md)
 -   [Customer Service forms](csm-reference-forms.md)
 -   [Chat Setup configuration form](em-advanced-chat-setup.md)
 

@@ -27,7 +27,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Action Assignment form](../../portfolio-planning/reference/action-assignment-form.md).
+    For a description of the field values, see [Action Assignment form](../portfolio-planning/action-assignment-form.md).
 
 4.  Select **Submit**.
 

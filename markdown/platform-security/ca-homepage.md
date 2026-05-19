@@ -21,15 +21,15 @@ ServiceNow's continuous authentication enables you to reverify and authenticate 
 
 </td><td>
 
-[Activate![Use](../../../common/image/icon-set-up.png)](../task/activate-continuous-authentication.md)
+[Activate![Use](../../../common/image/icon-set-up.png)](activate-continuous-authentication.md)
 
- [Understand how to Activate Continuous Authentication.](../task/activate-continuous-authentication.md)
+ [Understand how to Activate Continuous Authentication.](activate-continuous-authentication.md)
 
 </td></tr><tr><td>
 
-[Configure![Configure](../../../common/image/icon-manage.png)](../task/configure-ca.md)
+[Configure![Configure](../../../common/image/icon-manage.png)](configure-ca.md)
 
- [Configure Continuous Authentication.](../task/configure-ca.md)
+ [Configure Continuous Authentication.](configure-ca.md)
 
 </td><td>
 

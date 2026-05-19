@@ -21,7 +21,7 @@ To enable IP address filtering in the Hermes cluster, you must submit a request 
 
 For details on configuring access rules in the IP Address Access Control module, see [IP Address Access Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_AccessControl.md).
 
--   **[Create an alert for unauthorized access](../task/create-alert-notification-hermes.md)**  
+-   **[Create an alert for unauthorized access](create-alert-notification-hermes.md)**  
 Receive a notification when an attempt to access Hermes is received from an unauthorized IP address.
 
 **Parent Topic:**[Configuring Hermes Messaging Service](configuring-hermes-messaging-service.md)
@@ -31,7 +31,7 @@ Receive a notification when an attempt to access Hermes is received from an unau
 
 [Activating the Hermes Messaging Service](hermes-messaging-service-activation.md)
 
-[Set up a secure connection to the Hermes Messaging Service](../task/set-up-secure-connection-to-hermes.md)
+[Set up a secure connection to the Hermes Messaging Service](set-up-secure-connection-to-hermes.md)
 
-[Revoke a Hermes certificate](../task/revoke-certificate.md)
+[Revoke a Hermes certificate](revoke-certificate.md)
 

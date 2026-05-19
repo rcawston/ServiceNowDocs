@@ -31,7 +31,7 @@ Role required: compliance\_admin, compliance\_manager, or sn\_compliance.user
 
 4.  Click **New**.
 
-    For field descriptions of the Create New Issue form, see [Compliance workspace issue form](../reference/new-issue-form-compliance-ws.md).
+    For field descriptions of the Create New Issue form, see [Compliance workspace issue form](new-issue-form-compliance-ws.md).
 
     **Note:** Starting with Version 12.0.1 of the Policy and Compliance Management application, the minimum role for the **Assigned to** user on the Issues form is GRC Business User \[sn\_grc.business\_user\]. The minimum role for the **Issue manager** is GRC User \[sn\_grc.\_user\].
 
@@ -43,7 +43,7 @@ Role required: compliance\_admin, compliance\_manager, or sn\_compliance.user
 
     If the due date for the SLA changes, a new SLA is created. The SLA is completed when the issue transitions to **Closed Complete** or **Closed Incomplete**. Also, if the **Due date** or **Assigned to** fields are empty, or the state is New, the SLA is cancelled.
 
-    Also starting with Version 12.0.1, remediation tasks can be created by users with the **Assigned to** user and issue manager, as well as any user with the [GRC Business User role](../../grc-policy-compliance-implementation/task/assign-user-roles.md).
+    Also starting with Version 12.0.1, remediation tasks can be created by users with the **Assigned to** user and issue manager, as well as any user with the [GRC Business User role](../policy-and-compliance-management/assign-user-roles.md).
 
     You can navigate to the issue record that you created and use the related lists to.
 

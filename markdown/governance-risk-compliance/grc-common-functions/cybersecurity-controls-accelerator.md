@@ -19,7 +19,7 @@ CIS Control adoption is further enhanced by targeting the leading cybersecurity 
 
 The Cybersecurity Controls Accelerator contains the CIS Controls version 7.1 authority document, 191 associated CIS citations, and 191 CIS control objectives that are related to the citations.
 
-The [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) application \(com.sn\_grc\_infosec\), which must also be downloaded to use the Cybersecurity Controls Accelerator, includes 171 \(26 basic\) predefined indicator templates that are mapped to the CIS Controls. These indicator templates provide automated control validation and continuous monitoring.
+The [Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md) application \(com.sn\_grc\_infosec\), which must also be downloaded to use the Cybersecurity Controls Accelerator, includes 171 \(26 basic\) predefined indicator templates that are mapped to the CIS Controls. These indicator templates provide automated control validation and continuous monitoring.
 
 ## Support for CIS Controls ™ v8
 
@@ -29,7 +29,7 @@ Beginning with the Australia release, Cybersecurity Controls Accelerator support
 
 Beginning with the Australia release, Cybersecurity Controls Accelerator supports the Cloud Security Alliance Cloud Controls Matrix \(CSA CCM v4.0\) content such as Authority Document, Citations, and Control Objectives.
 
-**Parent Topic:**[Governance, Risk, and Compliance use case accelerators](../../grc-common/reference/grc-use-case-accelerators.md)
+**Parent Topic:**[Governance, Risk, and Compliance use case accelerators](grc-use-case-accelerators.md)
 
 ## Download the Cybersecurity Controls Accelerator
 
@@ -47,7 +47,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../download-grc-first-time.md).
 
 
 ## Monitoring cybersecurity controls
@@ -112,9 +112,9 @@ Indicator Templates
 The **Indicator Templates** module provides a list of predefined indicator templates that are mapped to the CIS Controls. The indicator templates automate control validation and provide continuous monitoring.Indicator Template Reference to Content \[sn\_grc\_m2m\_ind\_temp\_cont\]
 
 </td></tr></tbody>
-</table>As previously mentioned, the [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) application \(com.sn\_grc\_infosec\) is a dependant application when you download the Cybersecurity Controls Accelerator application. The [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) application provides predefined indicator templates that are mapped to the CIS Controls.
+</table>As previously mentioned, the [Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md) application \(com.sn\_grc\_infosec\) is a dependant application when you download the Cybersecurity Controls Accelerator application. The [Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md) application provides predefined indicator templates that are mapped to the CIS Controls.
 
-**Note:** Should you decide not to implement the Cybersecurity Controls Accelerator application, you can still use the [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) to validate compliance with CIS and ISO 27002 via the Unified Compliance Framework \(UCF\) from the Policy and Compliance Management application. For more information, see [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md).
+**Note:** Should you decide not to implement the Cybersecurity Controls Accelerator application, you can still use the [Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md) to validate compliance with CIS and ISO 27002 via the Unified Compliance Framework \(UCF\) from the Policy and Compliance Management application. For more information, see [Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md).
 
 ## UCF controls mapped to indicator templates
 

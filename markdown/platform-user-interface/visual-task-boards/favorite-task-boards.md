@@ -34,5 +34,5 @@ Adding a board as a favorite is only available in Core UI.
     ![Navigation panel open to information tab with the favorite star icon highlighted](../image/FavoriteABoard.png)
 
 
-**Parent Topic:**[Viewing and sharing Visual Task Boards](../concept/viewing-sharing-vis-task-brds.md)
+**Parent Topic:**[Viewing and sharing Visual Task Boards](viewing-sharing-vis-task-brds.md)
 

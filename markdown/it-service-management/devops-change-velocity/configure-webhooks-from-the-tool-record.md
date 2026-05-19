@@ -59,7 +59,7 @@ Configures a webhook with a new token.**Note:** The SN\_DEVOPS\_INTEGRATION\_TOK
 
 </td><td>
 
--   [Configure webhooks in Azure DevOps manually](../concept/configure-test-webhooks.md#)
+-   [Configure webhooks in Azure DevOps manually](configure-test-webhooks.md#)
 -   [Configure webhooks in GitHub manually](config-webhooks-github-manually.md)
 -   [Configure webhooks in GitLab manually](configure-webhooks-in-gitlab.md)
 -   [Configure webhooks in Jira manually](config-webhooks-jira-manually.md)
@@ -72,5 +72,5 @@ Configures a webhook with a new token.**Note:** The SN\_DEVOPS\_INTEGRATION\_TOK
 </table>    Webhooks are configured in your third-party tool's instance to send data to DevOps Change Velocity.
 
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

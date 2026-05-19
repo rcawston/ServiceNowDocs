@@ -19,7 +19,7 @@ The **For Each** flow logic applies one or more actions to a list of records. Th
 
 **Note:** When you set a data pill value from inside a For each item branch of flow logic, the data pill value is only available to other actions in the same branch. Referencing a data pill value that was set inside a For each branch from outside of the flow logic branch produces a null value.
 
-Iterating over a large number of records can be resource intensive, especially when the For Each logic block includes complex actions for each iteration. To avoid performance issues, turn off reporting using the **com.snc.process\_flow.reporting.level** system property. For more information, see [Workflow Studio flow system properties](../reference/flow-designer-system-properties.md).
+Iterating over a large number of records can be resource intensive, especially when the For Each logic block includes complex actions for each iteration. To avoid performance issues, turn off reporting using the **com.snc.process\_flow.reporting.level** system property. For more information, see [Workflow Studio flow system properties](flow-designer-system-properties.md).
 
 ## Inputs
 
@@ -27,7 +27,7 @@ Iterating over a large number of records can be resource intensive, especially w
 
     Data type: **Records**
 
-    List of Sys ID values or Records data pill specifying the records to process in sequence. You can use a Look Up Records action to generate a list of records. For more information, see [Look Up Records action](../reference/lookup-records-flow-designer.md).
+    List of Sys ID values or Records data pill specifying the records to process in sequence. You can use a Look Up Records action to generate a list of records. For more information, see [Look Up Records action](lookup-records-flow-designer.md).
 
     **Note:** If you want to process items in a particular order, you must first sort the items in this input in advance. For example, use the Order by option to sort the results of a Look Up Records action.
 
@@ -75,7 +75,7 @@ Use these general guidelines with a For Each flow logic.
 **Related topics**  
 
 
-[Append to Flow Variables flow logic](../reference/append-to-flow-variables-flow-logic.md)
+[Append to Flow Variables flow logic](append-to-flow-variables-flow-logic.md)
 
 [Assign subflow outputs flow logic](flow-logic-assign-subflow-outputs.md)
 
@@ -89,11 +89,11 @@ Use these general guidelines with a For Each flow logic.
 
 [End Flow flow logic](flow-logic-end-action.md)
 
-[Exit Loop flow logic](../reference/exit-loop-flow-logic.md)
+[Exit Loop flow logic](exit-loop-flow-logic.md)
 
-[Get Flow Outputs flow logic](../reference/get-flow-outputs-flow-logic.md)
+[Get Flow Outputs flow logic](get-flow-outputs-flow-logic.md)
 
-[Go back to flow logic](../reference/go-back-to-flow-logic.md)
+[Go back to flow logic](go-back-to-flow-logic.md)
 
 [If flow logic](flow-logic-if.md)
 
@@ -101,7 +101,7 @@ Use these general guidelines with a For Each flow logic.
 
 [Set Flow Variables flow logic](flow-logic-set-flow-variables.md)
 
-[Skip Iteration flow logic](../reference/skip-iteration-flow-logic.md)
+[Skip Iteration flow logic](skip-iteration-flow-logic.md)
 
 [Try flow logic](flow-logic-try.md)
 

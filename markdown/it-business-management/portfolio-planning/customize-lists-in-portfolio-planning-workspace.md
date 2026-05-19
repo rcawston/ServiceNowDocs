@@ -45,8 +45,8 @@ For more information of configuring lists in a workspace, see [Lists](https://ra
 
 4.  On the form, fill in the fields.
 
-    -   [UX List Category form](../reference/ux-list-category-form-portfolio-planning.md).
-    -   [UX List form](../reference/ux-list-form-portfolio-planning.md).
+    -   [UX List Category form](ux-list-category-form-portfolio-planning.md).
+    -   [UX List form](ux-list-form-portfolio-planning.md).
 5.  Select **Submit**.
 
     Repeat this procedure until you've created all the custom categories and lists.

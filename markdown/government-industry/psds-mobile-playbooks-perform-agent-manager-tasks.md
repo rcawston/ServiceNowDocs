@@ -37,7 +37,7 @@ View the details of a case and determine if you need to make any changes or take
 3.  Select a case to view its details.
 4.  Determine if you need to make any changes or take other actions. If so, perform any of the tasks in this table.
 
- For details on viewing a case in the Mobile Agent, see [Track government service requests with the Mobile Agent app](../task/psds-mobile-playbook-view-service-requests-agent.md).
+ For details on viewing a case in the Mobile Agent, see [Track government service requests with the Mobile Agent app](psds-mobile-playbook-view-service-requests-agent.md).
 
 </td></tr><tr><td>
 
@@ -48,7 +48,7 @@ Edit a case
 1.  From the Service Requests list, open a case.
 2.  Tap the More actions icon \(![Mobile Agent More actions icon.](../image/psds-mobile-agent-top-menu.png)\) and select **Edit Case**.
 
-For details on the case fields, see [Service Request case form](../reference/service-request-case-form-new.md#).
+For details on the case fields, see [Service Request case form](service-request-case-form-new.md#).
 
 
 </td></tr><tr><td>
@@ -128,7 +128,7 @@ View the details of a case and determine if you need to make any changes or take
 3.  Select a case to view its details.
 4.  Determine if you need to make any changes or take other actions. If so, perform any of the tasks in this table.
 
- For details on viewing a case in the Mobile Agent, see [Track information requests with the Mobile Agent](../task/psds-mobile-playbook-view-info-requests-agent.md).
+ For details on viewing a case in the Mobile Agent, see [Track information requests with the Mobile Agent](psds-mobile-playbook-view-info-requests-agent.md).
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Edit a case
 1.  From the Information Requests list, open a case.
 2.  Tap the More actions icon \(![Mobile Agent More actions icon.](../image/psds-mobile-agent-top-menu.png)\) and select **Edit Case**.
 
-For details on the case fields, see [Information Request case form](../reference/information-request-case-form.md#).
+For details on the case fields, see [Information Request case form](information-request-case-form.md#).
 
 
 </td></tr><tr><td>

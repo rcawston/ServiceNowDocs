@@ -49,7 +49,7 @@ To see the changes that have been made to the software library, review the SAM C
 
 **Note:** Content updates don't have an impact on any custom products or custom discovery maps.
 
-For more information on how to send your content to ServiceNow, see [Enable sharing information with Software Asset Management content service](../task/t_EnableSAMContentService.md). For more information on content updates, see [KB0824127](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0824127).
+For more information on how to send your content to ServiceNow, see [Enable sharing information with Software Asset Management content service](t_EnableSAMContentService.md). For more information on content updates, see [KB0824127](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0824127).
 
 **Parent Topic:**[Software Asset Management Content Service](c_SAMContentService.md)
 

@@ -37,7 +37,7 @@ Setting the planned disposition of a business application results in better data
 5.  Select **Update**.
 
 
-**Parent Topic:**[Use list view](../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
+**Parent Topic:**[Use list view](eaw-using-app-rat-list-view.md)
 
 **Related topics**  
 

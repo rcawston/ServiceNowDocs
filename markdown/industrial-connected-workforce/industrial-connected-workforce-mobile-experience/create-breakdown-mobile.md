@@ -29,13 +29,13 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 3.  On the Breakdown form, fill in the fields.
 
-    For a description of the field values, see [Deviation form](../reference/deviation-form-mobile.md).
+    For a description of the field values, see [Deviation form](deviation-form-mobile.md).
 
 4.  Select **Next**.
 
 5.  On the Deviation form, fill in the fields.
 
-    For a description of the field values, see [Deviation form](../reference/deviation-form-mobile.md).
+    For a description of the field values, see [Deviation form](deviation-form-mobile.md).
 
 6.  Select **Next**.
 
@@ -54,5 +54,5 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 The breakdown is created and displayed in the list of industrial tasks. You can choose to initiate a breakdown analysis from the newly created breakdown.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)
 

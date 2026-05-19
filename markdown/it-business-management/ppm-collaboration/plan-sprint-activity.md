@@ -73,5 +73,5 @@ This option can be used to move stories only within a backlog or a sprint.
         The sprint disappears from the **Sprint Planning** tab and appears in the Sprint list as complete.
 
 
-**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](../../sdlc-scrum/concept/c_SDLCIntegrationWithProjectPortfolioSuite.md)
+**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](c_SDLCIntegrationWithProjectPortfolioSuite.md)
 

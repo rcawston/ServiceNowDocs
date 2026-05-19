@@ -50,5 +50,5 @@ Routing agent \[sn\_uni\_req.routing\_agent, sn\_uni\_req.universal\_request\_wr
 Handle interactions and create universal request from interaction.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal Request in Service Operations Workspace](../concept/using-ur-sow.md)
+</table>**Parent Topic:**[Universal Request in Service Operations Workspace](using-ur-sow.md)
 

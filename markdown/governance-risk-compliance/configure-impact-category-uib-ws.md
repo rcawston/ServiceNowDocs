@@ -29,13 +29,13 @@ Role required: sn\_bcm.admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Impact Category record form](../reference/impact-category-new-record-form.md).
+    For more information on the fields in the form, see [Impact Category record form](impact-category-new-record-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Impact Category record form](../reference/impact-category-new-record-form.md)**  
+-   **[Impact Category record form](impact-category-new-record-form.md)**  
 Use the Impact Category record form to add details about the impact category such as name, criteria that the impact category contributes to, applicable timeframes, maximum RTO value, and so on in BCM UIB Workspace.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

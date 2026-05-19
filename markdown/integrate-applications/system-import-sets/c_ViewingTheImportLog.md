@@ -21,5 +21,5 @@ To view the import log, navigate to **All** &gt; **System Import Sets** &gt; **A
 
 ![The import log showing import log messages with the date, message level, message, and data source.](../image/ImportLog.png "Import Log")
 
-**Parent Topic:**[Importing data using import sets](../../import-sets/concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

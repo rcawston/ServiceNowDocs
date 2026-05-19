@@ -15,11 +15,11 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The scoped GlideDate class provides methods for performing operations on GlideDate objects, such as instantiating GlideDate objects or working with GlideDate fields.
 
-For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
+For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](../scripts/p_GlideServerAPIs.md#).
 
-See also [GlideDateTime - Scoped](../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#).
+See also [GlideDateTime - Scoped](c_GlideDateTimeScoped.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped GlideDate - GlideDate\(\)
 

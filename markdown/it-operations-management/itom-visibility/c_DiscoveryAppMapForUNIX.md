@@ -21,7 +21,7 @@ On Linux machines, Discovery uses the `lsof` command \(installed by default on L
 
 **Note:** Discovery of active connections on HP-UX is not supported.
 
--   **[Using the lsof Command](../task/t_UsingTheLsofCommand.md)**  
+-   **[Using the lsof Command](t_UsingTheLsofCommand.md)**  
 Use the ls of command to return active TCP connections and can be installed on Solaris and AIX target machines.
 
 **Parent Topic:**[Software discovery](c_Software.md)

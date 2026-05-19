@@ -44,5 +44,5 @@ Query routing takes the load off the primary database for SELECT queries that ta
 6.  Select **Save**.
 
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](configuring-sql-api.md)
 

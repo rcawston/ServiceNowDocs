@@ -46,9 +46,9 @@ Role required: admin
     Destroys archived records for sn\_wsd\_wc\_space\_environment table. The data table records are deleted permanently.
 
 
-**Parent Topic:**[Setup Workplace Connectors for environmental data](../concept/setup-environmental-data-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for environmental data](setup-environmental-data-connectors.md)
 
 **Previous topic:**[Configure environmental sensor data for a workplace location](config-connectors-env-sensor.md)
 
-**Next topic:**[Workplace Connectors references](../concept/workplace-connectors-references.md)
+**Next topic:**[Workplace Connectors references](workplace-connectors-references.md)
 

@@ -56,9 +56,9 @@ Select the Search tab to search through the service graph data. Search provides 
     To access all of the functionality, including follow up questions, the following requirements must be met:
 
     -   Role: sn\_cmdb\_user and now\_assist\_panel\_user
-    -   This skill is available starting with the [Now Assist for CMDB](now-assist-landing-cmdb.md) version 3.0 store app, which must be installed
+    -   This skill is available starting with the [Now Assist for CMDB](../now-assist-for-configuration-management-database-cmdb/now-assist-landing-cmdb.md) version 3.0 store app, which must be installed
     -   The Now Assist skill Search result classifier, must be activated
-    For more information, see [Search the Service Graph database using natural language](../../now-assist-cmdb/task/na-cmdb-skill-search-result-classfy.md).
+    For more information, see [Search the Service Graph database using natural language](../now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-search-result-classfy.md).
 
 -   **Intelligent Search**
 
@@ -82,7 +82,7 @@ You can:
         Only the first 100 results of the query appear in the results pane.
 
         -   Select **Load More Results** to view the next set of 100 results.
-        -   Select **Load All Results** to view the rest of the query results, up to the number specified by the [glide.cmdb.query.max\_results\_limit](../reference/cmdb-querybldr-sysproprties.md) system property \(10,000 by default\).
+        -   Select **Load All Results** to view the rest of the query results, up to the number specified by the [glide.cmdb.query.max\_results\_limit](cmdb-querybldr-sysproprties.md) system property \(10,000 by default\).
         If the constructed CMDB query contains more than a single table, then the **View in Query Builder** button appears. Select the button to open the [CMDB Query Builder](querying-cmdb.md) with your query fully constructed on the Query Builder canvas. You can use the Query Builder to continue editing the query.
 
     -   If there are any ambiguities with table names or relationship types in the search string, then the search string can't be converted into a valid CMDB query. In this case, the Refine your query dialog box appears letting you select from suggested CI classes and continue to parse your search string into a valid CMDB query. Those suggested CI classes are based on phrases in your search string. Use the drop-down lists to select the CI classes that match your intended search and then select **View search results** to run the query.
@@ -100,7 +100,7 @@ You can:
 -   Select **New condition set** to add a condition phrase.
 -   Select **Related List Condition** to [add a condition phrase for related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-related-list-query.md).
 -   Select **Search** to search through the CMDB.
--   Add and then adjust the **sn\_cmdb\_ws.list.record\_count\_limit** system property to limit the record count summation and so to minimize the performance impact of that operation. The record count shows on the Conditional search page, for example, above the results list. For more information about adding and modifying that system property, see [Components installed with Service Graph Workspace](../reference/installed-with-sg-workspace.md).
+-   Add and then adjust the **sn\_cmdb\_ws.list.record\_count\_limit** system property to limit the record count summation and so to minimize the performance impact of that operation. The record count shows on the Conditional search page, for example, above the results list. For more information about adding and modifying that system property, see [Components installed with Service Graph Workspace](installed-with-sg-workspace.md).
 
 In the results list, select a CI to see its details in [CI Form](ci-form-sg-workspace.md).
 

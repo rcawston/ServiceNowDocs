@@ -26,6 +26,6 @@ After these definitions or roles, are created, the sn\_customerservice\_manager 
 
 The users who have been assigned to this role are displayed in the Account Team Members related list on the Responsibility Definition form. For more information, see the following topics:
 
--   [Create a responsibility definition](../task/t_CreateAResponsibilityDefinition.md)
--   [Configure access through the responsibility access configuration](../task/declarative-resposibility-framework.md)
+-   [Create a responsibility definition](t_CreateAResponsibilityDefinition.md)
+-   [Configure access through the responsibility access configuration](declarative-resposibility-framework.md)
 

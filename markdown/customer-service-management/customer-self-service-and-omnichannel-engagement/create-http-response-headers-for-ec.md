@@ -18,7 +18,7 @@ Configure a name-value pair for HTTP response headers for the Engagement Messeng
 ## Before you begin
 
 -   [Configure Engagement Messenger](create-engagement-messenger-module.md).
--   [Create an identity provider \(IdP\) for Engagement Messenger](../concept/create-identity-providers-for-engagement-messenger.md).
+-   [Create an identity provider \(IdP\) for Engagement Messenger](create-identity-providers-for-engagement-messenger.md).
 -   [Configure a CORS rule for Engagement Messenger](create-cors-for-rest-api-ec.md).
 -   Role required: admin
 

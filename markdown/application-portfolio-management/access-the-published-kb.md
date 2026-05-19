@@ -38,12 +38,12 @@ When a TRM catalog is published, it becomes available as knowledge base content.
     ![Access the published TRM catalog knowledge base](../../image/eaw-image/access-cat-link.png)
 
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 
 
-[Published TRM catalog experience](../../reference/eaw-reference/published-trm-cat-exp.md)
+[Published TRM catalog experience](published-trm-cat-exp.md)
 
 [Create a new configuration to publish TRM data](config-trm-data-to-publish.md)
 
@@ -53,5 +53,5 @@ When a TRM catalog is published, it becomes available as knowledge base content.
 
 [View publishing status and run log](view-run-log.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](understand-publishing-output.md)
 

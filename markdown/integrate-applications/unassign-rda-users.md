@@ -15,7 +15,7 @@ Unassign an attended user or a group from an attended bot process if the user is
 
 ## Before you begin
 
-Do this task only when you select the **Process Type** field as **Attended** on the Bot process configuration form, while creating a bot process. You can't perform this task unless you select that field. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
+Do this task only when you select the **Process Type** field as **Attended** on the Bot process configuration form, while creating a bot process. You can't perform this task unless you select that field. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager, sn\_rpa\_fdn.rpa\_support\_user, or sn\_rpa\_fdn.rpa\_admin
 
@@ -61,10 +61,10 @@ Action
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 
 **Related topics**  
 
 
-[Robot license distribution in RPA Hub](../concept/license-rpa-hub.md)
+[Robot license distribution in RPA Hub](license-rpa-hub.md)
 

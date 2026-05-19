@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The AI Search Genius Result Configuration NLU Model Mapping form contains information about relationships between Genius Result configurations and NLU models for AI Search. Use this form when linking Genius Result configurations to NLU models.
 
-For details on linking Genius Result configurations to NLU models, see [Link an NLU model and intents to a Genius Result configuration](../task/link-nlu-model-genius-result-ais.md).
+For details on linking Genius Result configurations to NLU models, see [Link an NLU model and intents to a Genius Result configuration](link-nlu-model-genius-result-ais.md).
 
 |Field|Description|
 |-----|-----------|
@@ -26,5 +26,5 @@ For details on linking Genius Result configurations to NLU models, see [Link an 
 |Order|Order of evaluation for the NLU model in the context of the Genius Result configuration.|
 |Application|Application scope for the NLU model link. This field is automatically set.|
 
-**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+**Parent Topic:**[AI Search reference](reference-ais.md)
 

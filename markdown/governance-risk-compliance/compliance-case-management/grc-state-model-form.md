@@ -27,5 +27,5 @@ See the following table for a description of the field values.
 |State field|Field to hold the state value in a table that this state model applies to. It is dependent on Table name. This field is automatically set to **State**. You can change the value to match your configuration.|
 |Manage Attachments|Select this icon and choose the required files to attach.|
 
-**Parent Topic:**[Create a compliance state model](../task/create-state-model.md)
+**Parent Topic:**[Create a compliance state model](create-state-model.md)
 

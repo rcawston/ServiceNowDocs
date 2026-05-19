@@ -51,7 +51,7 @@ Until
 
 Select the date when the Defer state expires and the remediation task is reactivated.
 
- After the record is submitted, if [email notifications](../../vulnerability-response/task/t_DefineEmailNotifications.md) are defined, members of the group receive an email when the expiration date is within one week. When the defer date expires, the remediation task is set back to **Open** and a second email notification is sent out.
+ After the record is submitted, if [email notifications](vulnerability-response/t_DefineEmailNotifications.md) are defined, members of the group receive an email when the expiration date is within one week. When the defer date expires, the remediation task is set back to **Open** and a second email notification is sent out.
 
 </td></tr><tr><td>
 
@@ -83,5 +83,5 @@ Enter any other relevant information.
     The group is marked In Review. A **Reopen** related link appears. The reopen date and reason appear in work notes under the **Change Approvals** tab.
 
 
-**Parent Topic:**[Exception Management Overview](../concept/sem-exception-management-overview.md)
+**Parent Topic:**[Exception Management Overview](sem-exception-management-overview.md)
 

@@ -45,7 +45,7 @@ Create inventory equipment
 
 </td><td>
 
-Change model to create a change request for creating inventory equipment. To learn more, see the create equipment form in [Change request and change task forms](change_request_forms.md).**Note:** To see the compute and create logical connection form, see [Compute and Create Logical Connection form](../reference/compute-and-create-logical-connection-form.md).
+Change model to create a change request for creating inventory equipment. To learn more, see the create equipment form in [Change request and change task forms](change_request_forms.md).**Note:** To see the compute and create logical connection form, see [Compute and Create Logical Connection form](compute-and-create-logical-connection-form.md).
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ Create logical connection
 Change model to create a change request for creating a logical connection. To learn more, see the [Change request and change task forms](change_request_forms.md).**Note:**
 
 -   To update or revise a logical connection CI, see [Revise a configuration item using design and assign](revise-a-configuration-item.md).
--   To modify logical connection endpoints, see [Modify logical connection endpoints model](../task/create-a-change-request-by-using-modify-logical-connection-endpoints-model.md).
+-   To modify logical connection endpoints, see [Modify logical connection endpoints model](create-a-change-request-by-using-modify-logical-connection-endpoints-model.md).
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Create physical connection
 Change model to create a change request for creating a physical connection. To learn more, see [Change request and change task forms](change_request_forms.md).**Note:**
 
 -   To update or revise a physical connection CI, see [Revise a configuration item using design and assign](revise-a-configuration-item.md).
--   To modify physical connection endpoints, see [Modify physical connection endpoints](../task/create-a-change-request-by-using-modify-physical-connection.md).
+-   To modify physical connection endpoints, see [Modify physical connection endpoints](create-a-change-request-by-using-modify-physical-connection.md).
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Change model to create a change request for creating and visualizing a rack or c
     -   A template in the inventory template where the **inventory model** has a rack model.
 A rack is created based on the selected rack model in the template, and the rack slots are created based on the rack template.
 
-2.  To add equipment to a rack, see [Create a change request from Network Inventory Workspace](../task/create_a_change_request_in_tni.md).
+2.  To add equipment to a rack, see [Create a change request from Network Inventory Workspace](create_a_change_request_in_tni.md).
 
 </td></tr><tr><td>
 
@@ -413,11 +413,11 @@ For the instantiation of physical or logical connections, you must select a phys
 
 This type of request definition has a set of site and equipment fields for start and end locations.
 
-For initiation of the path compute of the logical connection, you must select logical connection model. To learn more, see [Compute and Create Logical Connection form](../reference/compute-and-create-logical-connection-form.md).
+For initiation of the path compute of the logical connection, you must select logical connection model. To learn more, see [Compute and Create Logical Connection form](compute-and-create-logical-connection-form.md).
 
 -   **Modify members of a topology**
 
-This type of request definition enables you to create a cable record. o learn more about modifying a network topology record, see [Add or remove a member to network topology record](../task/modify-network-topology-record-design-assign.md).
+This type of request definition enables you to create a cable record. o learn more about modifying a network topology record, see [Add or remove a member to network topology record](modify-network-topology-record-design-assign.md).
 
 -   **IP Address Allocation**
 

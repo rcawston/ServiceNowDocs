@@ -33,10 +33,10 @@ Role required: sn\_apm\_mdtl\_com.mdtl\_com\_admin
     -   To update an existing relationship, select an relationship, then select **Edit**.
 6.  On the Relationship form, fill in the fields.
 
-    For field information, see [Relationship configuration form](../../reference/eaw-reference/eaw-relationship-form.md).
+    For field information, see [Relationship configuration form](eaw-relationship-form.md).
 
 
-**Parent Topic:**[Configure Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-setup-modeling.md)
+**Parent Topic:**[Configure Enterprise Modeling and Visualization](eaw-setup-modeling.md)
 
 **Related topics**  
 

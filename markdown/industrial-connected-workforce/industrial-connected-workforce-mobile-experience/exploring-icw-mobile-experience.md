@@ -31,7 +31,7 @@ The Industrial Connected Workforce Mobile Experience enables operators to:
 
 </td><td align="left">
 
-[Create an Industrial Guided Task with the Industrial Connected Workforce Mobile Experience](../task/create-igt-icw-mobile.md)-   Request standards to create guided tasks
+[Create an Industrial Guided Task with the Industrial Connected Workforce Mobile Experience](create-igt-icw-mobile.md)-   Request standards to create guided tasks
 -   Standardize operations and support safe, reliable production
 
 </td></tr><tr><td align="left">
@@ -40,7 +40,7 @@ The Industrial Connected Workforce Mobile Experience enables operators to:
 
 </td><td align="left">
 
-[Create an action in the Industrial Connected Workforce Mobile application](../task/create-action-mobile.md)-   Automate steps of an industrial process
+[Create an action in the Industrial Connected Workforce Mobile application](create-action-mobile.md)-   Automate steps of an industrial process
 -   Create temporary, short-term specific tasks, such as inspection
 
 </td></tr><tr><td align="left">
@@ -49,7 +49,7 @@ The Industrial Connected Workforce Mobile Experience enables operators to:
 
 </td><td align="left">
 
-[Create a deviation in the Industrial Connected Workforce Mobile application](../task/create-deviation-mobile.md)-   Report non-conformance
+[Create a deviation in the Industrial Connected Workforce Mobile application](create-deviation-mobile.md)-   Report non-conformance
 -   Set category, impact, urgency, or attach media
 
 </td></tr><tr><td align="left">

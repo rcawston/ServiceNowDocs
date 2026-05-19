@@ -19,7 +19,7 @@ The Featured News widget displays featured articles on company news and announce
 
 Role required: sp\_admin or admin
 
-Learn more about the news widgets: [News articles](../concept/ec-news-articles.md)
+Learn more about the news widgets: [News articles](ec-news-articles.md)
 
 ## Procedure
 
@@ -119,5 +119,5 @@ Enables viewing of nested call insights for total load time in parent and child 
 </table>5.  Select **Save**.
 
 
-**Parent Topic:**[Configure employee communications widgets](../concept/employee-comms-widgets.md)
+**Parent Topic:**[Configure employee communications widgets](employee-comms-widgets.md)
 

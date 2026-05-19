@@ -48,7 +48,7 @@ Do this
 </td><td>
 
 1.  Click **New**.
-2.  On the form, fill in the fields. For more information about the form fields and descriptions, see [User Criteria form](../reference/ec-user-criteria-form.md).
+2.  On the form, fill in the fields. For more information about the form fields and descriptions, see [User Criteria form](ec-user-criteria-form.md).
 3.  Click **Submit**.
 
 

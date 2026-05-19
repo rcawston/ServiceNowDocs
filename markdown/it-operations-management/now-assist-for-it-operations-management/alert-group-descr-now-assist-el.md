@@ -37,5 +37,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
     The AI-generated summary content replaces the original description of the alert group.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](now-assist-itom-use.md)
 

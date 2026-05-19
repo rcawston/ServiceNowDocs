@@ -54,10 +54,10 @@ Role required: admin
     -   Resource Management Workspace
     -   Strategic Portfolio Workspace
 
-**Parent Topic:**[Configuring security for a project in Project Workspace](../concept/configuring-security-for-a-project-in-pw.md)
+**Parent Topic:**[Configuring security for a project in Project Workspace](configuring-security-for-a-project-in-pw.md)
 
 **Related topics**  
 
 
-[Configuring security for a project in Project Workspace](../concept/configuring-security-for-a-project-in-pw.md)
+[Configuring security for a project in Project Workspace](configuring-security-for-a-project-in-pw.md)
 

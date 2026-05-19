@@ -80,7 +80,7 @@ Scope: sn\_lf\_hub
 
 </td><td>
 
-It's a framework that enables to fulfill the translation requests received from Localization Framework Spoke. After installation and configuration, the hub instance manages incoming translation requests.For more information, see [Localization Framework Hub and Spoke architecture](../concept/localization-framework-hub-spoke-architecture.md).
+It's a framework that enables to fulfill the translation requests received from Localization Framework Spoke. After installation and configuration, the hub instance manages incoming translation requests.For more information, see [Localization Framework Hub and Spoke architecture](localization-framework-hub-spoke-architecture.md).
 
 </td></tr><tr><td>
 
@@ -160,10 +160,10 @@ TMS Configuration\(Sn Lf Tms Config\)
 sn\_lf\_tms\_config
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activating the Localization Framework](../concept/activation-localization-framework.md)
+</table>**Parent Topic:**[Activating the Localization Framework](activation-localization-framework.md)
 
 **Related topics**  
 
 
-[Find components installed with an application](../../plugins/task/find-components.md)
+[Find components installed with an application](../find-components.md)
 

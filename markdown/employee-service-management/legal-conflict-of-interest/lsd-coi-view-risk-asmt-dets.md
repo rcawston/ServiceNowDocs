@@ -56,5 +56,5 @@ When an employee submits a COI disclosure, the risk assessment evaluates the req
     2.  Select the record associated with the legal request number for which you want to view the overall risk assessment.
 
 
-**Parent Topic:**[Using Legal Conflict of Interest](../concept/lsd-coi-use-landing.md)
+**Parent Topic:**[Using Legal Conflict of Interest](lsd-coi-use-landing.md)
 

@@ -308,5 +308,5 @@ The following attributes in the Virtual Machine Instance \[cmdb\_ci\_vm\_instanc
 **Related topics**  
 
 
-[Service Graph Connector for SolarWinds](../concept/cmdb-integration-solarwinds.md)
+[Service Graph Connector for SolarWinds](cmdb-integration-solarwinds.md)
 

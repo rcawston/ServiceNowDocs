@@ -71,13 +71,13 @@ Provides GraphQL schema for contextual search services.
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Contextual Search](../reference/components-installed-with-cxs.md)**  
+-   **[Components installed with Contextual Search](components-installed-with-cxs.md)**  
 Several types of components are installed with the activation of the Contextual Search plugin \(com.snc.contextual\_search\), including tables and user roles.
 
-**Parent Topic:**[Contextual search plugin](../concept/contextual-search-plugins.md)
+**Parent Topic:**[Contextual search plugin](contextual-search-plugins.md)
 
 **Related topics**  
 
 
-[List of plugins \( Australia \)](../../plugins/reference/list-of-plugins.md#)
+[List of plugins \( Australia \)](../list-of-plugins.md#)
 

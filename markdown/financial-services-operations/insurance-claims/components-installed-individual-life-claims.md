@@ -25,7 +25,7 @@ Several types of components are installed with the activation of the Individual 
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](../../fso-common/reference/financial-services-operations-core-data-model.md).|
+|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](../financial-services-operations-core-data-model.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, enabling consistent responses to commonly encountered situations. For more information, see[Playbook capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 
 ## Roles installed
@@ -134,5 +134,5 @@ sn\_ins\_claim\_indl.dbn\_adjuster
 |Related Death Policy Claim \[sn\_ins\_claim\_indl\_rel\_death\_case\]|Stores information about the related death claims from each policy that is attached to the customer.|
 |Individual Death Claim Task \[sn\_ins\_claim\_indl\_death\_task\]|Stores information about all the individual death claims tasks for all the individual life claims. This table extends the Financial Task \[sn\_bom\_task\] table.|
 
-**Parent Topic:**[Individual Life Claims reference](../concept/individual-life-claims-reference.md)
+**Parent Topic:**[Individual Life Claims reference](individual-life-claims-reference.md)
 

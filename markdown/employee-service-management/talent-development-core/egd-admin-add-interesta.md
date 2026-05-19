@@ -27,10 +27,10 @@ Role required: sn\_egd\_core.admin, sn\_egd\_core.content\_manager
 
 3.  Complete the **Interests** form.
 
-    To see details about the different fields, see [Talent Interest form](../reference/egd-interests-form.md).
+    To see details about the different fields, see [Talent Interest form](egd-interests-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

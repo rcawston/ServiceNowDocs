@@ -54,7 +54,7 @@ Role required: sn\_imt\_tracing.badge\_manager
 6.  Verify that the data records were imported into the Badge Access Register table by navigating to **Contact Tracing** &gt; **Badge Management** &gt; **Badge Access Register**.
 
 
-**Parent Topic:**[Collecting user badge data](../concept/badge-management.md)
+**Parent Topic:**[Collecting user badge data](badge-management.md)
 
 **Related topics**  
 

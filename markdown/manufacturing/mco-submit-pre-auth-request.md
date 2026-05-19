@@ -23,7 +23,7 @@ Role required: sn\_dealer\_mgmt.dealer\_service\_advisor
 
 2.  On the Submit claim case form, fill in the fields.
 
-    For a description of the field values, see [Pre-authorization form](../reference/mco-pre-auth-form.md).
+    For a description of the field values, see [Pre-authorization form](mco-pre-auth-form.md).
 
 3.  Select **Continue**.
 
@@ -37,7 +37,7 @@ Role required: sn\_dealer\_mgmt.dealer\_service\_advisor
     -   Goodwill: Repair services that may be free or discounted at the manufacturer's discretion.
 6.  On the Claim jobs form, fill in the fields.
 
-    For a description of the field values, see [Pre-authorization job details form](../reference/mco-pre-auth-job-details-form.md).
+    For a description of the field values, see [Pre-authorization job details form](mco-pre-auth-job-details-form.md).
 
 7.  Select **Save**.
 

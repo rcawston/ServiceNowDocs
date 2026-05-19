@@ -48,5 +48,5 @@ You can link an SCCM application to an existing software model or create a new m
         The view returns to the SCCM Applications form.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](configuring-sccm.md)
 

@@ -51,5 +51,5 @@ When you create a version for a currently published product offering, the Servic
     -   **Initial Version**. The name of the base version of the product offering appears but can't be changed.
     -   **Previous Version**: The name of the product offering is as it was in the previous version.
 
-When you publish the updated product version, additional validations are performed on your edits. To learn more, see the Updating and validating copied rules for a new specification version section in [Create and publish a specification version](../task/create-publish-new-specification-somt.md).
+When you publish the updated product version, additional validations are performed on your edits. To learn more, see the Updating and validating copied rules for a new specification version section in [Create and publish a specification version](create-publish-new-specification-somt.md).
 

@@ -36,7 +36,7 @@ You must run this job to see the products that are not approved for usage in you
 
 After executing the scheduled job, the Technical Debt \[sn\_apm\_trm\_standards\_technical\_debt\] table gets updated with the latest technical debt data for your application portfolio. It updates the values in the table each time after you run the job.
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 

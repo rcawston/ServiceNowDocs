@@ -32,5 +32,5 @@ Role required: none
     **Note:** If you navigate away from the Live Feed application and then back again, the system displays the feed you last visited if you are a member of it.
 
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
 

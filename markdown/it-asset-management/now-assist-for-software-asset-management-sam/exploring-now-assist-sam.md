@@ -84,7 +84,7 @@ Additionally, you also get AI-powered recommended actions that help you to mitig
 
     Once the document is uploaded to DocIntel, a flow designer flow is executed to retrieve the values from the document and populate the ITAM Contract Import \[itam\_contract\_import\] table.
 
-    For extracting entitlements from contracts, you can opt in to participate in the Software Asset Management Content Service. The Software Asset Management Content Service is an IT Asset Management shared service that provides users with continual software recognition improvements. For additional details, see [Software Asset Management Content Service](../../software-asset-management2/concept/c_SAMContentService.md).
+    For extracting entitlements from contracts, you can opt in to participate in the Software Asset Management Content Service. The Software Asset Management Content Service is an IT Asset Management shared service that provides users with continual software recognition improvements. For additional details, see [Software Asset Management Content Service](../software-asset-management/c_SAMContentService.md).
 
 
 -   **[Supporting information for Now Assist for Software Asset Management \(SAM\)](supporting-information-now-assist-sam.md)**  

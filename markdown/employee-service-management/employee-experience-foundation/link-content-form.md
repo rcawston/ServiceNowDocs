@@ -47,7 +47,7 @@ To-do content
 
 The to-do content you want to reference to your link content.This field only appears when you select **To-do** from the **Type** field.
 
-**Note:** Use this field to reference your to-do content to a link that can be used in a banner or styled content. For more information, see [Creating to-do content](../concept/ecpro-content-to-dos.md).
+**Note:** Use this field to reference your to-do content to a link that can be used in a banner or styled content. For more information, see [Creating to-do content](ecpro-content-to-dos.md).
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ The type of link for the content.-   Video: Link is a video.
 
 -   Forums Link: Link to a Communities forum post. Only appears when Communities plugin \[com.sn\_communities\] is installed.
 
- **Note:** After link content is associated with Portal Content, the **Type** cannot be modified. See [Portal content](../concept/ec-streamline-content.md).
+ **Note:** After link content is associated with Portal Content, the **Type** cannot be modified. See [Portal content](ec-streamline-content.md).
 
 </td></tr><tr><td>
 
@@ -122,9 +122,9 @@ The list of posts from the topic or forum the link appears. For example:
 
 [Block content form](block-content-form.md)
 
-[Campaign overview and Campaign analytics dashboards](../concept/ecpro-content-automation-content-pack.md)
+[Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md)
 
-[Components installed with Employee Center Pro](components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)
 
 [Components installed with Content engagement](installed-content-engagement.md)
 
@@ -134,13 +134,13 @@ The list of posts from the topic or forum the link appears. For example:
 
 [Components installed with Content Governance](ec-installed-content-governance.md)
 
-[Components installed with Content Analytics](ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)
 
-[Content Analytics dashboards](../concept/content-analytics-dashboards.md)
+[Content Analytics dashboards](content-analytics-dashboards.md)
 
-[Content engagement dashboard](../concept/ec-pro-content-engagement-dashboard.md)
+[Content engagement dashboard](ec-pro-content-engagement-dashboard.md)
 
-[Content Library Overview dashboard](../concept/content-library-overview-dashboard.md)
+[Content Library Overview dashboard](content-library-overview-dashboard.md)
 
 [Employee Center Pro widgets](employee-center-pro-widgets-list.md)
 

@@ -36,7 +36,7 @@ Role required: admin or catalog\_admin
 6.  Click **Save**.
 
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](p_ServiceCatalogCustomization.md)
 
 **Related topics**  
 
@@ -47,5 +47,5 @@ Role required: admin or catalog\_admin
 
 [Request an order guide from Service Portal](request-order-guide-portal.md)
 
-[Delegated request experience](../concept/delegated-request-exp.md)
+[Delegated request experience](delegated-request-exp.md)
 

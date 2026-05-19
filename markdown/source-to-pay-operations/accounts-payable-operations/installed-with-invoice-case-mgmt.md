@@ -101,7 +101,7 @@ Create Inquiry Case on Invoice email
 
 </td><td>
 
-Creates an invoice inquiry case from the information in an inbound email.You must activate the flow to use it. For information on how to activate the flow, see [Activate the Create Inquiry Case on Invoice email flow](../task/activate-inquiry-email-flow.md).
+Creates an invoice inquiry case from the information in an inbound email.You must activate the flow to use it. For information on how to activate the flow, see [Activate the Create Inquiry Case on Invoice email flow](activate-inquiry-email-flow.md).
 
 </td></tr></tbody>
 </table>## Tables installed
@@ -131,8 +131,8 @@ Invoice task \[sn\_ap\_cm\_ap\_task\]
 Extends the Service Task table. Stores the invoice task records.
 
 </td></tr></tbody>
-</table>-   **[Activate the Create Inquiry Case on Invoice email flow](../task/activate-inquiry-email-flow.md)**  
+</table>-   **[Activate the Create Inquiry Case on Invoice email flow](activate-inquiry-email-flow.md)**  
 Activate the **Create Inquiry Case on Invoice email** flow to automatically create an invoice inquiry case based on the information in an inbound email.
 
-**Parent Topic:**[Install Invoice Case Management](../task/install-invoice-case-mgmt.md)
+**Parent Topic:**[Install Invoice Case Management](install-invoice-case-mgmt.md)
 

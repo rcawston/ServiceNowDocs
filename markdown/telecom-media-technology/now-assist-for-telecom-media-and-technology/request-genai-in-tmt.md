@@ -42,5 +42,5 @@ For more information about the Now Assist panel, see [Now Assist panel](https://
     -   To summarize the service problem case, select **Summarize a record**.
     -   To generate the service problem case resolution notes, select **Generate resolution notes**.
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

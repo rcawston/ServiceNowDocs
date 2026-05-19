@@ -16,10 +16,10 @@ breadcrumb: [Explore, External Content Connectors, ServiceNow Store applications
 
 Connector administrators can create external content connectors to retrieve searchable content and metadate and security permissions from supported source systems.
 
--   **[Creating multiple external content connectors of the same type](../concept/creating-multiple-external-content-connectors.md)**  
+-   **[Creating multiple external content connectors of the same type](creating-multiple-external-content-connectors.md)**  
 Admins can create multiple external content connectors of the same type. These connectors can crawl different source systems or the same source system. Connectors that crawl the same source system can include overlapping crawl locations.
 
-**Parent Topic:**[Exploring External Content Connectors](../concept/exploring-ext-cont-connectors.md)
+**Parent Topic:**[Exploring External Content Connectors](exploring-ext-cont-connectors.md)
 
 **Related topics**  
 

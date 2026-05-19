@@ -17,7 +17,7 @@ Configure the Auto-Responder feature for sharing relevant content in email notif
 
 Role required: admin
 
-Activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [Predictive Intelligence for CSM solution definitions](../concept/predictive-intelligence-for-csm.md).
+Activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [Predictive Intelligence for CSM solution definitions](predictive-intelligence-for-csm.md).
 
 ## About this task
 
@@ -35,7 +35,7 @@ You can also configure the Auto-Responder feature for tasks other than customer 
 
 2.  Follow the steps in this link: [Train the similarity solution for finding Auto-Responder notification content](train-sol-defn-auto-responder.md).
 
-3.  Follow the steps in this link: [Configure the search context for Auto-Responder](../concept/config-context-auto-responder.md).
+3.  Follow the steps in this link: [Configure the search context for Auto-Responder](config-context-auto-responder.md).
 
 4.  Follow the steps in this link: [Limit the number of articles in Auto-Responder notifications for cases](config-limit-auto-responder.md).
 
@@ -55,5 +55,5 @@ You can also configure the Auto-Responder feature for tasks other than customer 
 **Related topics**  
 
 
-[Using Auto-Responder for case deflections](../concept/auto-responder-case.md)
+[Using Auto-Responder for case deflections](auto-responder-case.md)
 

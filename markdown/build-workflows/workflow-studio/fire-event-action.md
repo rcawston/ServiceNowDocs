@@ -64,5 +64,5 @@ This action has no outputs.
 
 This example creates an incident.escalated event when an incident record is updated to change the value of the Escalation field. The incident.escalated event expects the value of parameter 1 to be the current value of the Escalation field and parameter 2 to be the previous value of the Escalation field.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

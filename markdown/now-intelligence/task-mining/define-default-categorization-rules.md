@@ -25,7 +25,7 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 Four predefined categorization rules are provided and can't be changed. The first three rules classify inactive time. The MAX rule applies last and represents uncategorized activity that doesn’t match any rule, and is the source for categorizing activities. This uncategorized data is anonymized by default.
 
-For more information, see [Categorization concepts in Task Mining](../concept/configuration-concepts.md).
+For more information, see [Categorization concepts in Task Mining](configuration-concepts.md).
 
 ## Procedure
 
@@ -73,7 +73,7 @@ For more information, see [Categorization concepts in Task Mining](../concept/co
 
     To match the activity record exactly, leave the default conditions as-is. To make a more generalized rule, leave the field empty to allow any value, or use \(.\*\) to replace any value with any number of characters.
 
-    For a description of the field values, see [Categorization rule form in Task Mining](../reference/categorization-rules.md).
+    For a description of the field values, see [Categorization rule form in Task Mining](categorization-rules.md).
 
 7.  Select **Save rule**.
 
@@ -87,7 +87,7 @@ For more information, see [Categorization concepts in Task Mining](../concept/co
 
 [Refine the presentation of your data](preview-data-based-on-categorization-rules.md)
 
-[Categorization concepts in Task Mining](../concept/configuration-concepts.md)
+[Categorization concepts in Task Mining](configuration-concepts.md)
 
-[Categorization rule form in Task Mining](../reference/categorization-rules.md)
+[Categorization rule form in Task Mining](categorization-rules.md)
 

@@ -52,14 +52,14 @@ If you have custom roles that require access to this skill, update the ACLs for 
     Now Assist creates stories with the confirmed recommendations. The newly created stories are displayed in the Stories tab of the epic or feature details page.
 
 
-**Parent Topic:**[Manage team backlog in EAP](../../spw-eap/concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../now-assist-for-strategic-portfolio-management-spm/using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
 [Configure Create stories agentic workflow with Now Assist for SPM](configure-create-stories-agentic-workflow-now-assist-for-spm.md)
 
-[Create stories agentic workflow using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/generate-agile-story-planning-items.md)
+[Create stories agentic workflow using Now Assist for Strategic Portfolio Management \(SPM\)](generate-agile-story-planning-items.md)
 

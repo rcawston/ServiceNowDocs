@@ -17,7 +17,7 @@ Within the platform, problems are handled using the task record system. Each pro
 
 ## Identify and log problems
 
-A problem can be created in several ways. For detailed information, refer [Create a problem](../task/create-a-problem-v2.md).
+A problem can be created in several ways. For detailed information, refer [Create a problem](create-a-problem-v2.md).
 
 Associating a problem with a configuration item using CMDB helps the Problem Management team see the affected items and its relationship to other configuration items.
 
@@ -33,7 +33,7 @@ You can use the other active tasks icon next to **Configuration item** to look u
 
 The platform provides escalations rules to ensure that problems are handled promptly. Two types of escalation rules are available in the system.
 
--   [Service level agreements](../../service-level-management/concept/service-level-management-concepts.md): SLAs can be used to ensure that problems are highlighted. As investigating and fixing a problem could be a long-term effort, it is not recommended that you apply SLAs to an overall problem. SLAs are also used as a performance indicator for the Problem Management team.
+-   [Service level agreements](../service-level-management/service-level-management-concepts.md): SLAs can be used to ensure that problems are highlighted. As investigating and fixing a problem could be a long-term effort, it is not recommended that you apply SLAs to an overall problem. SLAs are also used as a performance indicator for the Problem Management team.
 -   [Inactivity monitors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_SetAnInactivityMonitor.md) : The inactivity monitors prevent problems from being overlooked by generating an event. When a problem has not been updated within a certain amount of time, the event can create an email notification or trigger a script.
 
 ## Resolve problems

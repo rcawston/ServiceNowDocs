@@ -12,11 +12,11 @@ reading_time_minutes: 4
 
 ServiceNow® Sales Customer Relationship Management is a set of new and updated applications and features in the Australia release. These applications enable you to manage the product sales life cycle in your organization, including leads, pre-sales opportunities, sales quote generation, order capture, order fulfillment, and post-sales order changes and renewals.
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](../australia-patch-2.md)
 
 Sales and Order Management \(SOM\) is now known as Sales Customer Relationship Management \(Sales CRM\) to align with the updated product taxonomy. There is no change to functionality or existing customer configurations.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -30,7 +30,7 @@ Sales and Order Management \(SOM\) is now known as Sales Customer Relationship M
 
 **Note:**
 
-Sales Customer Relationship Management includes workflows for Customer Lifecycle Operations \(Customer Life Cycle Management\). For details on these features in the Australia release, see the [Data Management release notes](../now-platform-administration/data-management-rn.md) release notes.
+Sales Customer Relationship Management includes workflows for Customer Lifecycle Operations \(Customer Life Cycle Management\). For details on these features in the Australia release, see the [Data Management release notes](data-management-rn.md) release notes.
 
 Also, agents can use the Case Management for Order Operations and Case Management for Invoice Operations application to display order and invoice cases and case line items in CSM Configurable Workspace. The Case lines and workflows application provide the ability to reference multiple order line items on a case record.
 

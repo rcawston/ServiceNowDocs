@@ -44,5 +44,5 @@ Alternatively, you can also use the Kanban or Hierarchy tab to review and manage
 
 To get started with managing your work pipeline in Strategic Planning, see [Prioritizing portfolio plan work in Strategic Planning Workspace](managing-backlog-alignment-planner-workspace.md).
 
-**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](../../alignment-planner-workspace/concept/alignment-planner-workspace.md)
+**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](alignment-planner-workspace.md)
 

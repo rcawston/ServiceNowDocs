@@ -39,7 +39,7 @@ Use the knowledge tool to research user questions and provide solutions quickly 
 
 3.  Search for articles related to the user's issue.
 
-    For more information about finding knowledge, see [Search using Knowledge Management v3](../../../product/knowledge-management/reference/r_KnowledgeSearch.md).
+    For more information about finding knowledge, see [Search using Knowledge Management v3](../knowledge-management/r_KnowledgeSearch.md).
 
 4.  To share an article in the conversation, drag a knowledge article link to the conversation pane and drop it anywhere in the drop zone that appears.
 

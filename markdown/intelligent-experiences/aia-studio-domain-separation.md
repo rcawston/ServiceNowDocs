@@ -26,7 +26,7 @@ Now Assist AI agents use basic domain separation capabilities to help protect yo
 
     Refers to the agentic conversation on the Now Assist panel, web client, or any conversational channel. In the agentic conversations, the user that the agent impersonates functions as an agent with any AI agents who initiate the conversation on demand. For example, if the conversation is happening via a trigger mentioned on the **Run as** field on the Trigger form of an agentic workflow. If the user that the agent impersonates belongs to the same or a higher domain, that agent can access and use configurations that are associated with that domain.
 
-    The domain visibility for an agentic workflow is resolved during run time based on the **Run as** attribute in the agentic workflow trigger condition. For more information, see [defining a trigger for an agentic workflow](../task/configure-use-case-ai-agents.md).
+    The domain visibility for an agentic workflow is resolved during run time based on the **Run as** attribute in the agentic workflow trigger condition. For more information, see [defining a trigger for an agentic workflow](configure-use-case-ai-agents.md).
 
 
 When an agentic conversation is triggered on demand, the domain visibility is applied to the particular agent in action. When an agentic conversation is initiated through a trigger, the domain visibility is applied to the user who resolves the caller \(in an incident record where the **Run as** attribute is set to **Caller**\), when the conversation runs against the incident record.

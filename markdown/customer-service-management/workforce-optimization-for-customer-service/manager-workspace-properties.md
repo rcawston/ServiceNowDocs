@@ -58,5 +58,5 @@ Set the inactivity period \(in days\) after which an interaction is closed if no
 -   Location: **All****&gt; System Properties****&gt; All Properties**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Workforce Optimization for Customer Service](../concept/setup-configurable-wfo-cs.md)
+</table>**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
 

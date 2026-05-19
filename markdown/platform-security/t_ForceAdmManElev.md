@@ -34,12 +34,12 @@ Role required: security\_admin
 
 When the user logs in, they are presented with a dialog window to select the role to which they can elevate.
 
-**Parent Topic:**[Elevated privilege roles](../concept/c_ElevatedPrivilege.md)
+**Parent Topic:**[Elevated privilege roles](c_ElevatedPrivilege.md)
 
 **Related topics**  
 
 
-[Security\_admin role](../concept/security-admin-role.md)
+[Security\_admin role](security-admin-role.md)
 
 [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md)
 

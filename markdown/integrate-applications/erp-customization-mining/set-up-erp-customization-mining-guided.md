@@ -48,5 +48,5 @@ Alternatively, you can configure ERP Semantic Mining without Guided Setup. For m
     2.  Select **Validate the connection status**, follow the steps, and select **Continue**.
 
 
-**Parent Topic:**[Configuring ERP Semantic Mining](../concept/configuring-ecm.md)
+**Parent Topic:**[Configuring ERP Semantic Mining](configuring-ecm.md)
 

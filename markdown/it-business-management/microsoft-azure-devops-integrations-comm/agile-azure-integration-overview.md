@@ -31,14 +31,14 @@ Starting with version 1.3, Microsoft Azure DevOps Integration for Agile Developm
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
--   **[Components installed with Microsoft Azure DevOps integration for Agile Development](../task/components-installed-with-agile-azure-integration.md)**  
+-   **[Components installed with Microsoft Azure DevOps integration for Agile Development](components-installed-with-agile-azure-integration.md)**  
 Several types of components are installed with activation of the Microsoft Azure DevOps integration for Agile Development application, including user roles, scheduled jobs, and tables.
 -   **[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](setting-up-agile-azure-integration.md)**  
 Understand the setup process of Microsoft Azure DevOps Integration for Agile Development 2.0.
--   **[Importing and exporting work items between Agile Development and Azure DevOps](../reference/import-export-issues-azure-agile-workflow.md#)**  
+-   **[Importing and exporting work items between Agile Development and Azure DevOps](import-export-issues-azure-agile-workflow.md#)**  
 Understand the workflow for the import and export of work items between Agile Development and Azure DevOps.
--   **[Troubleshooting issues for Azure DevOps integration with Agile Development](../reference/troubleshooting-issues-agile-azure-int.md)**  
+-   **[Troubleshooting issues for Azure DevOps integration with Agile Development](troubleshooting-issues-agile-azure-int.md)**  
 Resolve common issues that you might face while working with the integration of Azure DevOps and Agile Development 2.0.
 
-**Parent Topic:**[Strategic Portfolio Management](../../it-business-management/reference/r_ITBusinessManagement.md)
+**Parent Topic:**[Strategic Portfolio Management](../r_ITBusinessManagement.md)
 

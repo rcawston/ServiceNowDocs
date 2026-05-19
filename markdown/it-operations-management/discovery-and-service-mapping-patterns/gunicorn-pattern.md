@@ -40,7 +40,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Schedule a horizontal discovery**
 
-    For more information, see [Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#).
+    For more information, see [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -54,5 +54,5 @@ Discovery populates the data in the CMDB when running the GUNICORN pattern.
 |Installation directory \[install\_directory\]|Installation directory of the Python environment containing Gunicorn.|
 |TCP port\(s\) \[tcp\_port\]|TCP port or ports on which the Gunicorn server is listening.|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

@@ -69,5 +69,5 @@ The sourcing event that you plan to work on, and all its associated negotiations
 
 The sourcing event is moved to Closed Complete, with the individual negotiations under it moved to Closed Decided or Closed Rejected based on your selection. The awarded sourcing requests are moved to Closed Complete, with purchase requisitions automatically created for the purchase lines. In addition, the spend and savings data is updated in the associated pipeline project.
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](use-pipeline-sourcing-mgmt.md)
 

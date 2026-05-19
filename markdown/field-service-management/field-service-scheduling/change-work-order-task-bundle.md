@@ -31,7 +31,7 @@ Role required: wm\_dispatcher
 
 5.  Make your desired changes.
 
-    See [Field Service Task Bundling fields](../reference/work-order-task-bundling-fields.md) for information on the fields that you can change.
+    See [Field Service Task Bundling fields](../work-order-task-bundling-fields.md) for information on the fields that you can change.
 
 6.  Select **Save**.
 

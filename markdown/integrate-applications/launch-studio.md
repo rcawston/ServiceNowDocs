@@ -15,7 +15,7 @@ Review, edit, and debug automations by opening the associated package version of
 
 ## Before you begin
 
-Associate a package and a package version to the bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Associate a package and a package version to the bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Role required: sn\_rpa\_fdn.rpa\_developer, sn\_rpa\_fdn.rpa\_support\_user or sn\_rpa\_fdn.rpa\_admin
 
@@ -77,5 +77,5 @@ Select **Launch**.The associated package version opens in the Windows machine \(
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)
 

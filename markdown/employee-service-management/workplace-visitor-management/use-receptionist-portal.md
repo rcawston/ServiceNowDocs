@@ -174,19 +174,19 @@ Alternatively, you can drag the visitor card into the checked out visitors colum
 1.  Select **Create new visit**.
 2.  On the New visit form, fill in the fields.
 
-For a description of the field values, see [New visit form](../reference/new-visit-form.md).
+For a description of the field values, see [New visit form](new-visit-form.md).
 
 3.  Select **Create Visit**.
 4.  Add internal or external visitors.
 
-For more information about adding visitors, see [Adding visitors](../concept/adding-visitors.md#).
+For more information about adding visitors, see [Adding visitors](adding-visitors.md#).
 
 5.  Select **Confirm**.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+**Parent Topic:**[Managing visitor registrations](manage-visitor-registrations.md)
 
 **Related topics**  
 
@@ -197,7 +197,7 @@ For more information about adding visitors, see [Adding visitors](../concept/add
 
 [View visitor policy confirmations](view-policy-confirmations.md)
 
-[Visitor registration states](../reference/visitor-registration-states.md)
+[Visitor registration states](visitor-registration-states.md)
 
 [Anonymize a visitor](anonymize-visitor.md)
 

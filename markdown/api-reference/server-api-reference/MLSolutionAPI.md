@@ -31,16 +31,16 @@ This API provides methods commonly used among all solution capabilities and meth
 
 The MLSolution API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-The methods in this object are instantiated using [MLSolutionFactory](../../MLSolutionFactory/concept/MLSolutionFactoryAPI.md#).
+The methods in this object are instantiated using [MLSolutionFactory](MLSolutionFactoryAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 **Related topics**  
 
 
-[MLSolutionUtil](../../MLSolutionUtil/concept/MLSolutionUtilAPI.md#)
+[MLSolutionUtil](MLSolutionUtilAPI.md#)
 
-[REST API: Get predictions for multiple solutions](../../../../../integrate/inbound-rest/concept/agent-intelligence-api.md#)
+[REST API: Get predictions for multiple solutions](../rest-apis/agent-intelligence-api.md#)
 
 ## MLSolution - applyPrediction\(GlideRecord now\_GR\)
 
@@ -422,7 +422,7 @@ Object
 
 </td><td>
 
-[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
+[GlideRecord](c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
 
 </td></tr><tr><td>
 

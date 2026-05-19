@@ -21,7 +21,7 @@ The following visualizations are displayed for the account, consumer, or contact
     -   Contact context: Score is calculated from surveys taken directly by that contact.
     -   Consumer context: Score is calculated from surveys taken by the primary user associated with the consumer record.
 
-You can configure variables such as tables, display fields, and query conditions. See [Configure the data visualization group variables](../task/c360-configure-data-card.md) for details.
+You can configure variables such as tables, display fields, and query conditions. See [Configure the data visualization group variables](c360-configure-data-card.md) for details.
 
 You can add custom visualizations to the data visualizations card. For details, see [Platform Analytics experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/par-workspace.md).
 

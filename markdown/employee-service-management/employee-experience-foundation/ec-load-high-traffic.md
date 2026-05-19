@@ -26,5 +26,5 @@ Employees see slow or unresponsive pages with clear message on the home page and
 **Related topics**  
 
 
-[Modify homepage banner instance for high-traffic](../task/config-defer-load-widget-instance-options.md)
+[Modify homepage banner instance for high-traffic](config-defer-load-widget-instance-options.md)
 

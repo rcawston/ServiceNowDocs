@@ -23,7 +23,7 @@ Role required: sn\_jira\_int.user
 
 ## About this task
 
-Review the predefined table, field, and choice mapping configuration for a Jira Project. For more information on the default configuration for Epics, Stories, and Sprints, see [Default mapping configuration for SPW Jira Integrations](../reference/default-mapping-configuration-spw-jira.md).
+Review the predefined table, field, and choice mapping configuration for a Jira Project. For more information on the default configuration for Epics, Stories, and Sprints, see [Default mapping configuration for SPW Jira Integrations](default-mapping-configuration-spw-jira.md).
 
 ## Procedure
 
@@ -50,5 +50,5 @@ Review the predefined table, field, and choice mapping configuration for a Jira 
 
 ## What to do next
 
-If the available mapping configuration doesn't fit your team's requirements or processes, you can create custom mappings between entities of Jira and SPW. For more information, see [Custom mapping configuration for SPW Jira Integrations](../concept/custom-mapping-configuration-spw-jira.md#).
+If the available mapping configuration doesn't fit your team's requirements or processes, you can create custom mappings between entities of Jira and SPW. For more information, see [Custom mapping configuration for SPW Jira Integrations](custom-mapping-configuration-spw-jira.md#).
 

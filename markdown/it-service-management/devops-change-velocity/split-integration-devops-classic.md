@@ -25,7 +25,7 @@ This integration extends the ServiceNow platform to manage the CHG approval proc
 -   Users can set CHG request fields to enable Split.io for CHG control.
 -   Upon approval/rejection of a CHG request, the callback URL in Split.io for the split or segment is invoked to resume implementation of the update to the split and segment.
 
--   **[Onboard Split to DevOps Change Velocity — Classic](../task/create-split-tool-record-devops.md)**  
+-   **[Onboard Split to DevOps Change Velocity — Classic](create-split-tool-record-devops.md)**  
 Create a Split tool record to connect and discover workspaces, environments, segments, and feature flags from the connected Split tool.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)

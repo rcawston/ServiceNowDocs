@@ -42,5 +42,5 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 The incident or observation moves to the Closed Complete state.
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](managing-hs-incidents-obs.md)
 

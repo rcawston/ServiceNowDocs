@@ -44,7 +44,7 @@ Role required: admin
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Add a Universal Task related list](create-relatedlist-ur.md)
 

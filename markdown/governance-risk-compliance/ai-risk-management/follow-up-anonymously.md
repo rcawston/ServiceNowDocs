@@ -90,7 +90,7 @@ Use the report to add new information or to respond to investigator comments.
 
 [Report an AI case anonymously](report-ai-case-anon.md)
 
-[Anonymous Reporting Center](../../grc-common/concept/grc-anonymous-reporting-center.md)
+[Anonymous Reporting Center](../grc-common-functions/grc-anonymous-reporting-center.md)
 
-[AI cases and inquiries](../concept/airc-cases-inquiries.md)
+[AI cases and inquiries](airc-cases-inquiries.md)
 

@@ -89,5 +89,5 @@ Parent application that you want the theme to apply to.
     After the record has been added to the UX Parent App Themes table, you’re able to change the **Applicability**, **Order**, and **UX App** fields, as needed. If no records are listed in the table and the **glide.ui.polaris.theme.custom** value is empty, the Unified Navigation base theme is displayed.
 
 
-**Parent Topic:**[Multi-theme management](../concept/multi-theme-management.md)
+**Parent Topic:**[Multi-theme management](multi-theme-management.md)
 

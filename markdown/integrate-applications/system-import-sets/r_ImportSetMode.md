@@ -121,5 +121,5 @@ The message related to a status of error. When an error occurs, setting this val
 
 It is possible to include information other than the information specified in the WSDL by overwriting the contents of status\_message using the transform script.
 
-**Parent Topic:**[Web service import sets](../concept/c_WebServiceImportSets.md)
+**Parent Topic:**[Web service import sets](c_WebServiceImportSets.md)
 

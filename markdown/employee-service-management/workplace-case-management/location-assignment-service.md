@@ -44,7 +44,7 @@ The service contains the following activities:
     This activity is triggered if no recommended locations are found for the employee. The activity creates a task where a space planner must manually assign a location to the employee.
 
 
-**Parent Topic:**[Workplace Case Management references](../concept/workpalce-case-mgmt-references.md)
+**Parent Topic:**[Workplace Case Management references](workpalce-case-mgmt-references.md)
 
 **Related topics**  
 

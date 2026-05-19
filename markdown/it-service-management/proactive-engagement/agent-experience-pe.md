@@ -23,5 +23,5 @@ The reason for failure could be resolution execution failure or if the employee 
 
 The agents can refer to the Experience Issue that is tagged as the Origin of the Incidents created as a fallback.
 
-**Parent Topic:**[Using Proactive Engagement](../using-proactive-engagement.md)
+**Parent Topic:**[Using Proactive Engagement](using-proactive-engagement.md)
 

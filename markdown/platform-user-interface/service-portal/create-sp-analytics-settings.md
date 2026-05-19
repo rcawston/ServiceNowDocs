@@ -48,7 +48,7 @@ Portals that have been configured for tracking are listed in the Usage Insights 
 
 You can now view user analytics tracking for the selected portal by navigating to **All** &gt; **Platform Analytics** &gt; **Usage Insights**. For more information on using the Usage Insights application, see [Overview of the Usage Insights application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-dashboard.md).
 
-**Parent Topic:**[Usage Insights for Service Portal](../concept/sp-analytics.md)
+**Parent Topic:**[Usage Insights for Service Portal](sp-analytics.md)
 
 **Related topics**  
 

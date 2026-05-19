@@ -46,5 +46,5 @@ A virtual agent chatbot enables customers to request an exception. The chatbot a
     You can see the chat icon at the bottom-right of the screen.![Virtual agent chat icon](../image/chat_icon.png)
 
 
-**Parent Topic:**[Policy and Compliance Management enhancement steps](../../grc-policy-compliance-implementation/concept/policy-compliance-optional-steps.md)
+**Parent Topic:**[Policy and Compliance Management enhancement steps](policy-compliance-optional-steps.md)
 

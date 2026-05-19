@@ -19,7 +19,7 @@ Response templates are reusable messages that agents can copy to case or task fo
 
 For additional information on response templates, see [Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/response-templates-templated-snippets.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ResponseTemplate - ResponseTemplate\(\)
 
@@ -170,7 +170,7 @@ Object
 
 </td><td>
 
-Optional. Parameters to pass to the sn\_templated\_snip.response\_template extension point. The format and content of these parameters are dependent on the implementation of the extension point. For additional information on extension points, see [Using extension points to extend application functionality](../../../../../build/applications/concept/extension-points.md).
+Optional. Parameters to pass to the sn\_templated\_snip.response\_template extension point. The format and content of these parameters are dependent on the implementation of the extension point. For additional information on extension points, see [Using extension points to extend application functionality](../web-services/extension-points.md).
 
 </td></tr></tbody>
 </table><table id="table_cq2_kgr_vhb" class="returns"><thead><tr><th>
@@ -331,7 +331,7 @@ Object
 
 </td><td>
 
-Optional. Parameters to pass to the sn\_templated\_snip.response\_template extension point. The format and content of these parameters are dependent on the implementation of the extension point. For additional information on extension points, see [Using extension points to extend application functionality](../../../../../build/applications/concept/extension-points.md).
+Optional. Parameters to pass to the sn\_templated\_snip.response\_template extension point. The format and content of these parameters are dependent on the implementation of the extension point. For additional information on extension points, see [Using extension points to extend application functionality](../web-services/extension-points.md).
 
 </td></tr></tbody>
 </table><table id="table_vwn_2fr_vhb" class="returns"><thead><tr><th>

@@ -32,5 +32,5 @@ Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer
 4.  On the dialog box that appears, enter `delete` and then select **Delete**.
 
 
-**Parent Topic:**[Add application security](../concept/add-security.md)
+**Parent Topic:**[Add application security](add-security.md)
 

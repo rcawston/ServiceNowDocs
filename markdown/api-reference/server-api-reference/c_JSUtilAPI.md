@@ -17,7 +17,7 @@ The JSUtil script include provides shortcuts for common JavaScript routines.
 
 This API is available in global server-side scripts, not scoped scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## JSUtil - doesNotHave\(Object item\)
 

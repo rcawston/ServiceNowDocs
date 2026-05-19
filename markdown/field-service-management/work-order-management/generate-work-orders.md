@@ -33,7 +33,7 @@ When the work order is generated, the dates are set as follows:
 -   When grouping of work orders is enabled, a single work order is generated for a group of schedule occurrences. The parent work order contains details of the individual work orders and their corresponding tasks.
 -   The related list **Work Plan Task Group Items** is added to the corresponding tasks that provides the details of all the tasks of the grouped work order.
 
-To run a scheduled job to generate work orders, see [Run a scheduled job to execute a planned work schedule](../task/run-schedule-job-planned-work.md).
+To run a scheduled job to generate work orders, see [Run a scheduled job to execute a planned work schedule](run-schedule-job-planned-work.md).
 
-To generate work orders manually, see [Generate work orders for schedule occurrences](../task/create_wo_schedule_occurrence.md).
+To generate work orders manually, see [Generate work orders for schedule occurrences](create_wo_schedule_occurrence.md).
 

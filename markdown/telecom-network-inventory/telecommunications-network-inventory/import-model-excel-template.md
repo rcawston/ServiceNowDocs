@@ -278,10 +278,10 @@ RU naming pattern
 Controls how the application automatically generates names for rack unit positions within the component.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Import a model](../task/import-models.md)
+[Import a model](import-models.md)
 

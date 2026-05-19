@@ -48,5 +48,5 @@ Role required: asset\_technician
 
 Each time you pause or resume work on the repair task, the actual time you worked on the task is automatically calculated. An entry for the time worked is created in the Time worked section of the Related tab.
 
-**Parent Topic:**[Record time worked on an enterprise asset repair task using the Mobile Agent application](../concept/record-time-worked-repair-task-mobile-agent-eam.md)
+**Parent Topic:**[Record time worked on an enterprise asset repair task using the Mobile Agent application](record-time-worked-repair-task-mobile-agent-eam.md)
 

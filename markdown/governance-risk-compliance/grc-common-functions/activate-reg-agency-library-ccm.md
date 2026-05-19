@@ -50,5 +50,5 @@ Role required: admin
 6.  Select **Install**.
 
 
-**Parent Topic:**[Regulatory Agency Library](../../grc-rcm/concept/regulatory-agency-library-rcm.md)
+**Parent Topic:**[Regulatory Agency Library](regulatory-agency-library-rcm.md)
 

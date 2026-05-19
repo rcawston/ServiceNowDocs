@@ -21,10 +21,10 @@ Tax specialists create tax types of either indirect tax or withholding tax. One 
 
 For example, for an invoice line amount of $1000, add a tax line of the indirect tax type with a supplier tax of $100. The final tax amount would be calculated as the sum of $1000 and $100, for a total of $1100. If you select the withholding tax type, the final tax amount is calculated as the difference between the invoice line amount of $1000 and the supplier tax of $100, for a total of $900.
 
--   **[Create tax codes to be added in an invoice](../task/create-tax-code.md)**  
+-   **[Create tax codes to be added in an invoice](create-tax-code.md)**  
 Create tax codes to be added in an invoice.
--   **[Create tax types to be used in an invoice](../task/create-tax-types.md)**  
+-   **[Create tax types to be used in an invoice](create-tax-types.md)**  
 Create tax types to be added in the invoice.
 
-**Parent Topic:**[Create an invoice manually](../task/create-invoice.md)
+**Parent Topic:**[Create an invoice manually](create-invoice.md)
 

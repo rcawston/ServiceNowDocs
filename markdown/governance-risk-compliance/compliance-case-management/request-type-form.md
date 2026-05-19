@@ -25,9 +25,9 @@ The following table lists the descriptions of the field values.
 |Active|Option to select the request type as active or inactive.|
 |Description|Description about this request type. This description is for the administrator to understand the request type.|
 |State Model|
-|State Model|Workflow states for the request type. For more information, see [Create a compliance state model](../task/create-state-model.md).|
+|State Model|Workflow states for the request type. For more information, see [Create a compliance state model](create-state-model.md).|
 |Template Configuration|
 |Document templates|Template to generate Portable Document Format \(PDF\) reports for compliance requests associated with this request type.|
 
-**Parent Topic:**[Create a request type](../task/create-request-type.md)
+**Parent Topic:**[Create a request type](create-request-type.md)
 

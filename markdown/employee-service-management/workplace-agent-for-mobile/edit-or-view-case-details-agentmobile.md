@@ -25,7 +25,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 The application enables you to edit any type of workplace case such as a regular workplace case, maintenance case, move case, space configuration case, and reservation case.
 
-For information about all the details, related lists and actions that are available on a case details page, refer to [Workplace Agent for mobile - Key features, actions, and case details](../reference/workplace-agent-mob-key-features-workstats-casedetailspage.md).
+For information about all the details, related lists and actions that are available on a case details page, refer to [Workplace Agent for mobile - Key features, actions, and case details](workplace-agent-mob-key-features-workstats-casedetailspage.md).
 
 ## Procedure
 
@@ -104,7 +104,7 @@ For information about all the details, related lists and actions that are availa
     The case is saved. You can select the **Saved** tab at the bottom of the screen to view the case.
 
 
-**Parent Topic:**[Use Workplace Agent for mobile](../concept/use-workplace-agent-mobile.md)
+**Parent Topic:**[Use Workplace Agent for mobile](use-workplace-agent-mobile.md)
 
 **Related topics**  
 

@@ -60,7 +60,7 @@ The size and format limitations for each of the four file sizes are as follows:
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[Override icon illustrations with custom images](../task/override-icon-with-custom-image.md)**  
+-   **[Override icon illustrations with custom images](override-icon-with-custom-image.md)**  
 Modify or override the default icon illustrations with your own custom images to promote visual elements that reflect your company's branding. When you override an icon, Theme Builder updates the icon wherever it is used across the interface.
 
 **Parent Topic:**[Working with Image styles](working-with-image-styles.md)

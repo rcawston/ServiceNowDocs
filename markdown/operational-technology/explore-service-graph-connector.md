@@ -18,11 +18,11 @@ The Service Graph Connector \(SGC\) for ServiceNow OT Discovery imports data fro
 Go through each step to install and setup the SGC.
 
 1.  [Service Graph Connector prerequisites and settings](sgc-prereq-settings.md)
-2.  [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](../../sgc-ot-discovery/task/install-sgc-ot-discovery.md)
-3.  [Service Graph Connector for OT Discovery guided setup](../task/sgc-ot-discovery-guided-setup.md)
-4.  [Configure the OT Discovery connections &amp; credentials](../task/configure-the-ot-discovery-connections-credentials.md)
-5.  [Generate imports and validate the connections](../task/generate-imports-validate-connections.md)
-6.  [Review and configure integration settings](../task/review-configure-integration-settings.md)
-7.  [Set up scheduled import jobs](../task/setup-scheduled-jobs.md)
-8.  [Use advanced configurations](../task/advanced-configuration-sgc-ot-discovery.md)
+2.  [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](install-sgc-ot-discovery.md)
+3.  [Service Graph Connector for OT Discovery guided setup](sgc-ot-discovery-guided-setup.md)
+4.  [Configure the OT Discovery connections &amp; credentials](configure-the-ot-discovery-connections-credentials.md)
+5.  [Generate imports and validate the connections](generate-imports-validate-connections.md)
+6.  [Review and configure integration settings](review-configure-integration-settings.md)
+7.  [Set up scheduled import jobs](setup-scheduled-jobs.md)
+8.  [Use advanced configurations](advanced-configuration-sgc-ot-discovery.md)
 

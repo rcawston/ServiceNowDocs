@@ -34,5 +34,5 @@ Roles required: admin and security\_admin.
 
 The ACL Assessment for Reports application includes the users you deleted from this report the next time you run the assessment.
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](report-view-acl-dashboard.md)
 

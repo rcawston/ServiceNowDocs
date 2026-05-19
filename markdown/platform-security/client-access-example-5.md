@@ -82,5 +82,5 @@ Ensure that the system you perform these steps on has access to both the MID Ser
     Restarting the MID Server synchronizes the uploaded key pair in the MID keystore for use with operations. Wait for the MID Server to restart, with a status of **Up** and a validated value of **Yes** before continuing.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](client-access-secret-landing.md)
 

@@ -18,7 +18,7 @@ Select a bot process configuration record to associate it with a bot process. Th
 
 Create a package. For more information, see [Create a package to assign to a bot process](create-package.md#).
 
-Create a robot. For more information, see [Robots in RPA Hub](../concept/robots-rpa-hub.md).
+Create a robot. For more information, see [Robots in RPA Hub](robots-rpa-hub.md).
 
 Configure the related system property to view the activity stream. For more information, see [Display an activity stream for bot processes and robots in RPA Hub](display-activity-stream-sys-property-rpahub.md).
 
@@ -38,7 +38,7 @@ You can create a bot process configuration record in two ways. The first way is 
 
 The second way is when you move an update set from a lower environment to a higher environment, an orphan bot process configuration record is created. After you select the **Assign Configuration** button and its record, the bot process record that is associated to the bot process configuration is created.
 
-For more information about migrating your metadata from a lower environment to a higher environment, see [Migrating your data from a lower environment to a higher environment in RPA Hub](../concept/migrate-data-rpa-hub.md).
+For more information about migrating your metadata from a lower environment to a higher environment, see [Migrating your data from a lower environment to a higher environment in RPA Hub](migrate-data-rpa-hub.md).
 
 ## Procedure
 
@@ -98,9 +98,9 @@ For a description of the field values, see [Bot Process form in RPA Hub](select-
 </table>
 ## What to do next
 
-You can add other details that pertain to the bot process, such as the business applications, credential groups, robots, process robot credential sets, schedules, process parameters, attended users, or groups. For more information, see [Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md).
+You can add other details that pertain to the bot process, such as the business applications, credential groups, robots, process robot credential sets, schedules, process parameters, attended users, or groups. For more information, see [Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md).
 
-**Parent Topic:**[Configuring a bot process record in RPA Hub](../concept/create-botprocess.md)
+**Parent Topic:**[Configuring a bot process record in RPA Hub](create-botprocess.md)
 
 **Related topics**  
 
@@ -169,7 +169,7 @@ Priority order of execution for the bot process. -   **1**: Highest priority
 
 If more than one unattended bot process is scheduled to start at the same time, the one with the highest priority runs, and the others are marked as **Skipped**.
 
-If multiple bot processes have the same priority and schedule, one bot process is chosen at random to run.For more information, see [Execution priority of bot processes in RPA Hub](../concept/bot-process-prioritization-order-rpa-hub.md).
+If multiple bot processes have the same priority and schedule, one bot process is chosen at random to run.For more information, see [Execution priority of bot processes in RPA Hub](bot-process-prioritization-order-rpa-hub.md).
 
 The default value is set to `1`.
 
@@ -259,9 +259,9 @@ Enable Embedded Task Automation
 
 </td><td>
 
-Option to trigger the attended bot process \(automation\) from the associated ServiceNow form that is mapped in the attended configuration record. For more information about the attended configuration record, see [Attended Configuration form in RPA Hub](../reference/attended-config-form-rpa.md).On enabling the **Embedded Task Automation** check box, two additional tabs, **Process Field Parameters** and **Attended Configuration**, are displayed on the bot process form.
+Option to trigger the attended bot process \(automation\) from the associated ServiceNow form that is mapped in the attended configuration record. For more information about the attended configuration record, see [Attended Configuration form in RPA Hub](attended-config-form-rpa.md).On enabling the **Embedded Task Automation** check box, two additional tabs, **Process Field Parameters** and **Attended Configuration**, are displayed on the bot process form.
 
-For more information about Embedded Task Automation, see [Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md).
+For more information about Embedded Task Automation, see [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md).
 
 </td></tr><tr><td>
 
@@ -425,13 +425,13 @@ When you choose the **Flat File** option to store the execution logs, two flat f
 
 -   File name in the format `ddMMMyyyy HHmmss.txt` \(For example, `28Dec2023 125036.txt`\): Contains the execution log entries. For example, the file gives the name of the Activity, component execution start and end time, duration, and the result in boolean, if applicable.
 
-The flat files follow the rules on data purging set in the **sn\_rpa\_fdn.purge\_client\_logs** system property. For more information about the system property, see [Configure RPA Hub properties](../reference/rpahub-sys-properties.md).
+The flat files follow the rules on data purging set in the **sn\_rpa\_fdn.purge\_client\_logs** system property. For more information about the system property, see [Configure RPA Hub properties](rpahub-sys-properties.md).
 
 **Important:** In RPA Desktop Design Studio, if you mark one or more input or output ports of one or more components or methods in an automation as **Mark Data as Sensitive**, the flat file does not log the execution data of its corresponding process job. Instead, in the JSON file the data corresponding to the port appears as **SENSITIVE**. The following image gives an example.
 
 ![Port indicated as sensitive.](../../rpa-studio/image/flat-file-sensitive.png "Port indicated as sensitive")
 
-For more information about marking an input or output port as **Mark Data as Sensitive**, see [Configure port properties](../../rpa-studio/task/configure-input-port-properties.md)
+For more information about marking an input or output port as **Mark Data as Sensitive**, see [Configure port properties](configure-input-port-properties.md)
 
 Since the actual data for the execution logs contain abundant data, the required data is only preserved. The content in text file is JSON type.​
 
@@ -466,7 +466,7 @@ Track automation logs that are generated by the robot. The robot logs the automa
 
 To view automation logs of a bot process, in RPA Desktop Design Studio, use the Log component in the associated automation and populate the required details.
 
-For more information about the Log component, see [Use the Log component](../../rpa-studio/task/use-general-log.md).
+For more information about the Log component, see [Use the Log component](use-general-log.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -496,7 +496,7 @@ Enable Robot Pool
 
 Option to enable the robot pool for the bot process.On enabling this option, the **Assign Robots** tab on the bot process is hidden.
 
-For more information about robot pool, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+For more information about robot pool, see [Robot pool in RPA Hub](robot-pool-rpa.md).
 
 </td></tr><tr><td>
 
@@ -574,5 +574,5 @@ Additional comments that are related to the bot process.
 
 [Create a bot process configuration record in RPA Hub](create-botprocess-config.md#)
 
-[Configuring a bot process record in RPA Hub](../concept/create-botprocess.md)
+[Configuring a bot process record in RPA Hub](create-botprocess.md)
 

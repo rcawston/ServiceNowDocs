@@ -164,19 +164,19 @@ In the conversational integrations for Slack, Microsoft Teams, Workplace from Fa
 
 ## What to do next
 
--   **[Create Virtual Agent notifications](../task/create-va-notifications.md)**  
+-   **[Create Virtual Agent notifications](create-va-notifications.md)**  
 Create a notification that is sent directly to users via the Virtual Agent chatbot. The notification specifies when users receive the notification \(triggers for the notification\) and who receives it \(recipients with and without accounts in the User \[sys\_user\] table\).
--   **[Create additional recipients for Virtual Agent notifications](../task/create-additional-recipients.md)**  
+-   **[Create additional recipients for Virtual Agent notifications](create-additional-recipients.md)**  
 Create and define additional recipients for a Virtual Agent notification to be delivered on chat channels or messaging channels.
--   **[Define Virtual Agent notification contents](../task/define-va-notif-contents.md)**  
+-   **[Define Virtual Agent notification contents](define-va-notif-contents.md)**  
 Create the content for a Virtual Agent notification delivered in a chat or messaging channel.
--   **[Configure a delivery channel for Virtual Agent notification](../task/configure-delivery-channel.md)**  
+-   **[Configure a delivery channel for Virtual Agent notification](configure-delivery-channel.md)**  
 Configure a delivery channel for Virtual Agent notifications by specifying the messaging channel information to send notifications to users.
--   **[Define Virtual Agent notification actions](../task/define-va-notif-actions.md)**  
+-   **[Define Virtual Agent notification actions](define-va-notif-actions.md)**  
 Create the actions for a Virtual Agent chat or messaging channel to send actionable notifications.
--   **[Define the Virtual Agent link actions to notification content](../task/define-va-notif-link-actions.md)**  
+-   **[Define the Virtual Agent link actions to notification content](define-va-notif-link-actions.md)**  
 Create the link actions for Virtual Agent notification content to be delivered in a chat or messaging channel as actionable notifications.
--   **[Enable Virtual Agent notifications](../task/enable-va-notifications.md)**  
+-   **[Enable Virtual Agent notifications](enable-va-notifications.md)**  
 Enable Virtual Agent notifications so that your end users can receive notifications in supported Virtual Agent channels.
 
 **Parent Topic:**[Configuring Virtual Agent](configure-virtual-agent.md)

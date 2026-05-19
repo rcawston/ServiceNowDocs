@@ -96,5 +96,5 @@ View the list of all the calls related to an incident. Tap on any of the calls t
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Breached Incidents](../concept/breached-incidents.md)
+**Parent Topic:**[Breached Incidents](breached-incidents.md)
 

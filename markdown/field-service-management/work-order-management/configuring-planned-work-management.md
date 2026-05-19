@@ -19,11 +19,11 @@ Configure Planned Work Management to create and manage the planned work activiti
 
 The steps for setting up planned work management are:
 
-1.  [Install Planned Work Management](../task/Activate-planned-work-management.md)
+1.  [Install Planned Work Management](Activate-planned-work-management.md)
 
     Install the Planned Work Management application \(com.snc.fsm\_planned\_work\_management\) if you have the admin role.
 
-2.  \(Optional\) [Use extension point for planned work management](../reference/extention-point-template-management.md)
+2.  \(Optional\) [Use extension point for planned work management](extention-point-template-management.md)
 
     Use extension points to build on the Field Service Management functionality without changing the application code.
 
@@ -45,7 +45,7 @@ The steps for setting up planned work management are:
 
 [Create a work order for the planned work](creating-work-orders-from-planned-work.md)
 
-[Work plan example](../reference/example-planned-work.md#)
+[Work plan example](example-planned-work.md#)
 
-[Planned Work Management Home page](../../../use/dashboards/application-content-packs/pwm-dashboard.md)
+[Planned Work Management Home page](pwm-dashboard.md)
 

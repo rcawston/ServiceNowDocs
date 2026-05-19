@@ -27,7 +27,7 @@ Role required: admin
 
 ### About this task
 
-To support multiple languages, use [message records](../../localization/reference/r_MessageTable.md) to translate annotation text.
+To support multiple languages, use [message records](system-localization/r_MessageTable.md) to translate annotation text.
 
 ### Procedure
 

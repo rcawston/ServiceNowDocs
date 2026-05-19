@@ -46,5 +46,5 @@ Role required: admin
     The **Create Finance case on Inbound email inquiry** flow is activated and a finance inquiry case is created automatically based on the information in an inbound email.
 
 
-**Parent Topic:**[Components installed with Finance Case Management](../reference/installed-with-fin-ops.md)
+**Parent Topic:**[Components installed with Finance Case Management](installed-with-fin-ops.md)
 

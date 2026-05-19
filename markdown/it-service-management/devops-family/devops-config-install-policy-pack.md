@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-The DevOps Config Policy content pack contains a set of [default DevOps Config policies](../reference/devops-config-default-policies.md) to validate your configuration data.
+The DevOps Config Policy content pack contains a set of [default DevOps Config policies](devops-config-default-policies.md) to validate your configuration data.
 
 ## Procedure
 

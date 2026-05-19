@@ -15,6 +15,6 @@ breadcrumb: [API Insights, Configuration Management Database \(CMDB\), Configura
 
 You can view the status of your API data connections, including success rates, processing status, and ongoing executions, and monitor the progress of connections added using Service Graph Connectors in API Insights.
 
--   [View the status of API data connections in API Insights](../task/api-insights-view-conn.md).
--   [Monitor configuration progress of connections in API Insights](../task/api-insights-monitor-con.md).
+-   [View the status of API data connections in API Insights](api-insights-view-conn.md).
+-   [Monitor configuration progress of connections in API Insights](api-insights-monitor-con.md).
 

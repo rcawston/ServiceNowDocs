@@ -54,7 +54,7 @@ Account
 The name of the account associated with this contract.**Note:**
 
 -   A customer contract can be associated with either an account or a consumer.
--   An account can be created if no account is found by selecting **New** on the Accounts form. For more information on the fields in the Account form, see [Account form](../../customer-service-management/reference/customer-service-account-form.md).
+-   An account can be created if no account is found by selecting **New** on the Accounts form. For more information on the fields in the Account form, see [Account form](customer-service-account-form.md).
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Consumer
 
 </td><td>
 
-The name of the consumer associated with this contract.**Note:** If no consumer record is found, you can create a consumer and add it to the customer contract. For more information, see [Create a consumer record](../../customer-service-management/task/create-a-consumer-record.md).
+The name of the consumer associated with this contract.**Note:** If no consumer record is found, you can create a consumer and add it to the customer contract. For more information, see [Create a consumer record](create-a-consumer-record.md).
 
 </td></tr><tr><td>
 

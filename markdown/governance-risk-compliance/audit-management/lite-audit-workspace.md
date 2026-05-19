@@ -59,9 +59,9 @@ Scoping an entity in an engagement identifies which entities are involved in the
 
 ## Activity Audit task
 
-Audit activities involve collecting and documenting evidence to show that the organization complies with external regulations and internal policies. For more information, see [Create an audit task activity](../../grc-audit/task/t_CreateAnActivity.md).
+Audit activities involve collecting and documenting evidence to show that the organization complies with external regulations and internal policies. For more information, see [Create an audit task activity](t_CreateAnActivity.md).
 
 ## Evidence request
 
-Audit evidence refers to all information used by auditors to form their audit opinion. This includes data from accounting records, financial statements, and other relevant sources. Evidence is cumulative and may come from current audit procedures as well as prior audits. For more information, see [Request evidence for audit](../../grc-audit/task/request-evidence.md).
+Audit evidence refers to all information used by auditors to form their audit opinion. This includes data from accounting records, financial statements, and other relevant sources. Evidence is cumulative and may come from current audit procedures as well as prior audits. For more information, see [Request evidence for audit](request-evidence.md).
 

@@ -29,7 +29,7 @@ The maturity of your SAM program is divided into three stages:
 -   Walk
 -   Run
 
-For more information, see [Maturity stages of your Software Asset Management program](../reference/sam-maturity-stages.md).
+For more information, see [Maturity stages of your Software Asset Management program](sam-maturity-stages.md).
 
 **Note:** The maturity level can’t be modified for a required maturity item.
 
@@ -43,7 +43,7 @@ For more information, see [Maturity stages of your Software Asset Management pro
 
 3.  Select a maturity item to view its details.
 
-    For a description of the field values, see [Maturity item details](../reference/sam-maturity-item-details.md).
+    For a description of the field values, see [Maturity item details](sam-maturity-item-details.md).
 
 4.  If you want to create a Value builder task for the maturity item, select the **Value builder tasks** tab.
 

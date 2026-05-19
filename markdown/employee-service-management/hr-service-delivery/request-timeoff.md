@@ -43,5 +43,5 @@ Request a time off to Workday from Employee Center.
     An HR case is created. If the time off is submitted successfully, the HR case changes to Closed complete state. If the time off is not submitted successfully, the HR case changes to Closed Incomplete state.
 
 
-**Parent Topic:**[Time off request to Workday](../concept/w-timeoff.md)
+**Parent Topic:**[Time off request to Workday](w-timeoff.md)
 

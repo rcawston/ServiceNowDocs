@@ -60,5 +60,5 @@ Role required: sam
         The Software Model form is updated.
 
 
-**Parent Topic:**[License upgrade and downgrade with the legacy Software Asset Management plugin](../concept/c_UpgradingAndDowngradingLicenses.md)
+**Parent Topic:**[License upgrade and downgrade with the legacy Software Asset Management plugin](c_UpgradingAndDowngradingLicenses.md)
 

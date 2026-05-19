@@ -60,12 +60,12 @@ The TLS/SSL certificates are populated in the following tables:
 
 A CI relationship is created between the discovered certificates and the corresponding Host CI \(in this case, the agent's server\).
 
-**Parent Topic:**[Agent Client Collector certificates](../concept/acc-certificates.md)
+**Parent Topic:**[Agent Client Collector certificates](acc-certificates.md)
 
 **Related topics**  
 
 
-[Certificate Inventory and Management](../../discovery/reference/cert-inventory-mgmt.md)
+[Certificate Inventory and Management](../discovery/cert-inventory-mgmt.md)
 
-[Run Certificate Discovery via port scans](../../discovery/task/run-cert-inventory-mgmt-ports.md)
+[Run Certificate Discovery via port scans](../discovery/run-cert-inventory-mgmt-ports.md)
 

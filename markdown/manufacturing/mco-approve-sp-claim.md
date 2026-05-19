@@ -36,5 +36,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 6.  View the sales promotion claim summary details by selecting **Claim Summary**
 
 
-**Parent Topic:**[Reviewing and approving the sales promotion claims](../concept/mco-approve-sales-promotion-claims.md)
+**Parent Topic:**[Reviewing and approving the sales promotion claims](mco-approve-sales-promotion-claims.md)
 

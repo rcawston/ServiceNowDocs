@@ -91,10 +91,10 @@ Topology connections
 Connections that are associated with the topology. You can select multiple connection records.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a network topology record by using design and assign](../task/instantiate-network-topology-design-assign.md)
+[Create a network topology record by using design and assign](instantiate-network-topology-design-assign.md)
 

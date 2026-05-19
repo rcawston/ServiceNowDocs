@@ -55,7 +55,7 @@ Role required: admin
 -   **[Preview Upgrade Plan](uc-preview-upgrade-plan.md)**  
 Preview your upgrade plan before being implemented in the upgrades. Once the upgrade plan is installed, it auto generates the preview of the upgrade plan.
 
-**Parent Topic:**[Preparing your upgrade plan](../concept/uc-prepare-up.md)
+**Parent Topic:**[Preparing your upgrade plan](uc-prepare-up.md)
 
 **Related topics**  
 

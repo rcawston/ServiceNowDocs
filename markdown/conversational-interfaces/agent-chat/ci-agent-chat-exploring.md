@@ -42,7 +42,7 @@ Requesters start chats with virtual chat. When they request to chat with a live 
 
 ## Unfurling links
 
-If an agent or requester enters a link during an Agent Chat conversation, the links are "unfurled" or displayed with a preview of the website's content. Links in Agent Chat conversations are unfurled in the same manner as Virtual Agent. For more information, see [Using link unfurling in Virtual Agent](../../virtual-agent/concept/va-link-unfurling.md).
+If an agent or requester enters a link during an Agent Chat conversation, the links are "unfurled" or displayed with a preview of the website's content. Links in Agent Chat conversations are unfurled in the same manner as Virtual Agent. For more information, see [Using link unfurling in Virtual Agent](../virtual-agent/va-link-unfurling.md).
 
 ## Cross-channel conversation history and cross-channel message-level sentiment
 

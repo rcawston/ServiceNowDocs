@@ -2827,5 +2827,5 @@ cmdb\_ci\_server
 Same as when the operating system isn't present.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](../concept/integration-sgc-microsoft-defender-iot-azure.md)
+</table>**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](integration-sgc-microsoft-defender-iot-azure.md)
 

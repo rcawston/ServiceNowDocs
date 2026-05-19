@@ -19,7 +19,7 @@ Create an operational resource plan and allocate a certain portion of your team 
 
 **Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged [migrate your existing resource plans](../concept/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](../../resource-management-workspace/task/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
+You're encouraged [migrate your existing resource plans](rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
 
 Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_manager, admin
 
@@ -35,12 +35,12 @@ For more information on operational resource plans, see [Operational Resource Pl
 
 2.  On the Resource form, fill in the fields.
 
-    For a description of the field names, see [Resource form](../reference/rsrc-form.md).
+    For a description of the field names, see [Resource form](rsrc-form.md).
 
 3.  Select **Save**.
 
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -75,9 +75,9 @@ For more information on operational resource plans, see [Operational Resource Pl
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 
-[Map a time card category with operational work types](../../../administer/task-table/task/map-time-card-category.md)
+[Map a time card category with operational work types](../time-card-management/map-time-card-category.md)
 

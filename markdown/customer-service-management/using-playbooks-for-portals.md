@@ -38,5 +38,5 @@ The playbook includes multiple stages. Each stage has one or more activities to 
 
 [Creating a guided onboarding case from CSM Configurable Workspace](create-a-guided-onboarding-case-from-workspace.md)
 
-[Create an onboarding request from the service catalog](../task/create-an-onboarding-request-from-catalog.md)
+[Create an onboarding request from the service catalog](create-an-onboarding-request-from-catalog.md)
 

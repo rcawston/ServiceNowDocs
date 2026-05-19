@@ -48,12 +48,12 @@ In this example, you define a user group that can manage all CIs belonging to th
 2.  Select **Basic Info** and, in the **Managed By Group** attribute, select **sys\_user\_group** and then select **Save**.
 3.  To verify that the attribute was updated, select **CI List** and navigate to the Linux Server class. You will see that the **Managed By Group** attribute has been updated to **sys\_user\_group**.
 
-**Parent Topic:**[Matching the usage of dynamic CI groups to service type](../concept/csdm-dynamic-ci-groups-by-service.md)
+**Parent Topic:**[Matching the usage of dynamic CI groups to service type](csdm-dynamic-ci-groups-by-service.md)
 
 **Related topics**  
 
 
-[Synchronizing group assignment attributes](../concept/csdm-data-synchronize.md)
+[Synchronizing group assignment attributes](csdm-data-synchronize.md)
 
 [Synchronize user groups for a technology management offering](csdm-enable-tso.md)
 

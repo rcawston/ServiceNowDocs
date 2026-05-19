@@ -34,5 +34,5 @@ Role required: ham\_admin
 
 The category that you add gets listed as an option in the **Category** field while creating a success goal for Hardware Asset Management. For more information, see [Create a success goal for Hardware Asset Management](create-suc-goal.md).
 
-**Parent Topic:**[Assess performance of Hardware Asset Management](../concept/suc-goal-act-hw.md)
+**Parent Topic:**[Assess performance of Hardware Asset Management](suc-goal-act-hw.md)
 

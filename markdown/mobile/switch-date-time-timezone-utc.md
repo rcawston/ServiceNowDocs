@@ -21,10 +21,10 @@ Role required: admin
 
 The **ShowDateTimeInUTC** mobile property value is **false** and not defined by default. When set to **false** or not defined, the Now Mobile app displays the time and date according to the time zone of a user’s device. Instead, set **ShowDateTimeInUTC** to **true** to display the time and date according to Coordinated Universal Time \(UTC\).
 
-Both [Mobile Card Builder](../concept/mobile-card-builder.md) and the following mobile screens support the **ShowDateTimeInUTC** property:
+Both [Mobile Card Builder](mobile-card-builder.md) and the following mobile screens support the **ShowDateTimeInUTC** property:
 
--   [Input form screen](../concept/parameter-input-screen.md)
--   [Record screen](../concept/form-screen.md)
+-   [Input form screen](parameter-input-screen.md)
+-   [Record screen](form-screen.md)
 
 Mobile properties are configured as records in the sys\_sg\_properties table on the ServiceNow® Platform server. The ServiceNow instance sends the mobile property to mobile apps after authentication. Then the property turns on or turns off a feature on the mobile app.
 
@@ -58,7 +58,7 @@ Application
 
 </td><td>
 
-Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe icon.](../image/globe-icon.png)\) on the instance banner. Then select **Application scope:_application\_scope_**. For information about how mobile properties are affected by application scope, see [Mobile properties](../concept/mobile-properties.md).
+Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe icon.](../image/globe-icon.png)\) on the instance banner. Then select **Application scope:_application\_scope_**. For information about how mobile properties are affected by application scope, see [Mobile properties](mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -132,5 +132,5 @@ Mobile application that you want to send the mobile property to. This setting li
 
 After updating this property, the end user must refresh the data from the instance to get the latest feature configurations.
 
-**Parent Topic:**[Mobile properties](../concept/mobile-properties.md)
+**Parent Topic:**[Mobile properties](mobile-properties.md)
 

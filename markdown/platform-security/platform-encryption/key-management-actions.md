@@ -76,10 +76,10 @@ Extends the life of the current key. The **Renew** button becomes available unde
 -   An expiration date is set in the module life cycle definition.
 
 </td></tr></tbody>
-</table>-   **[View and manage keys](../task/view-manage-keys.md)**  
+</table>-   **[View and manage keys](view-manage-keys.md)**  
 Review the status of any key to determine further key action, such as when to renew, rotate, suspend, deactivate, or destroy a current key.
--   **[Rotate keys](../../encryption/task/rotate-cust-supplied-keys.md)**  
+-   **[Rotate keys](rotate-cust-supplied-keys.md)**  
 For increased security, you can rotate your cryptographic keys on a pre-determined schedule. Key rotation is when you retire an encryption key and replace that old key by generating a new cryptographic key.
 
-**Parent Topic:**[Key Management Framework](../../encryption/concept/encryption.md)
+**Parent Topic:**[Key Management Framework](../encryption.md)
 

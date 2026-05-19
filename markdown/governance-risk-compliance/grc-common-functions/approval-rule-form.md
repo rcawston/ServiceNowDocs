@@ -174,5 +174,5 @@ Script
 Script to determine approvers; **users** and **groups** in the script are selected as approvers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Set up an approval rule for the approval level](../task/set-up-approval-rules.md)
+</table>**Parent Topic:**[Set up an approval rule for the approval level](set-up-approval-rules.md)
 

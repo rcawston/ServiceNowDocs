@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-See [Cloud accounts](../../cloud-management-v2/concept/cloud-accounts.md) for detailed information.
+See [Cloud accounts](cloud-accounts.md) for detailed information.
 
 ## Procedure
 

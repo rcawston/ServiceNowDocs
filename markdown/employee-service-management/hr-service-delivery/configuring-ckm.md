@@ -20,10 +20,10 @@ Install the plugin and configure features to enable HR agents to work on request
 
 Guided setup provides a sequence of tasks that help you configure Case and Knowledge Management on your  instance. To open guided setup for Case and Knowledge Management, navigate to **HR Administration** &gt; **Guided Setup**.
 
-For more information, see [Guided setup for HR Service Delivery](../task/guided-set-up-hr.md).
+For more information, see [Guided setup for HR Service Delivery](guided-set-up-hr.md).
 
 **Related topics**  
 
 
-[Components installed with Case and Knowledge Management](../reference/components-installed-with-case-and-knowledge-management.md)
+[Components installed with Case and Knowledge Management](components-installed-with-case-and-knowledge-management.md)
 

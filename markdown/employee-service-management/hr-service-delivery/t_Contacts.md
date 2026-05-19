@@ -40,5 +40,5 @@ For information on creating or editing an HR profile, see [Add or modify an HR p
 7.  Click **Submit** and return to the **HR Contacts** list or **Save** and remain on the **HR Contact** form.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](c_HRProfileRecords.md)
 

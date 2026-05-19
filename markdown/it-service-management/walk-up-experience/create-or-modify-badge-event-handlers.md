@@ -56,5 +56,5 @@ The code entered in the **Script** field of the Badge Event Handler form is exec
 6.  Click **Submit** to create the record.
 
 
-**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](../concept/walkup-badge-read-integ-config.md)
+**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](walkup-badge-read-integ-config.md)
 

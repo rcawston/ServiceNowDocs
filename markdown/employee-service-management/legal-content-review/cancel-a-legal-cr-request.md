@@ -38,5 +38,5 @@ Role required: sn\_lg\_ops.legal\_user
     Any associated active flows are terminated.
 
 
-**Parent Topic:**[Legal Content Review requests](../concept/legal-content-review-requests.md)
+**Parent Topic:**[Legal Content Review requests](legal-content-review-requests.md)
 

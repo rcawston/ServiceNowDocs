@@ -37,7 +37,7 @@ Applies only to Platform Analytics experience:
 
  When false, **Go to data** chart interactions for visualizations of tables open the Platform Analytics list of table records. Redirections in general that open lists or charts open Platform Analytics lists and charts.
 
- For more information, see [Chart interactions in a data visualization](../concept/dv-chart-interactions.md).
+ For more information, see [Chart interactions in a data visualization](dv-chart-interactions.md).
 
  -   Type: true \| false \(Boolean\)
 -   Default value: true

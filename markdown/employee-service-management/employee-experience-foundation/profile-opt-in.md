@@ -50,6 +50,6 @@ Before opting in, create an active employee definition. For more information, se
 When you opt in, your employees can have the following benefits:
 
 -   View a customizable **Employee Profile** page that details the contact info, job description, and more.
--   Navigate through an enhanced **Org Chart** experience that offers organization chart, team hierarchy, and better search. For more information, see [Organization chart in Employee Center Pro](../concept/employee-profile-org-chart.md).
+-   Navigate through an enhanced **Org Chart** experience that offers organization chart, team hierarchy, and better search. For more information, see [Organization chart in Employee Center Pro](employee-profile-org-chart.md).
 -   Use employee profile in AI and ML profile data models.
 

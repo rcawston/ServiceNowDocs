@@ -36,14 +36,14 @@ User: owner
     -   To delete a single document, open the document record and select **Delete**.
     -   To delete multiple documents, select the document record entries, and from the Actions on selected rows drop-down menu, select **Delete**.
 
-**Parent Topic:**[Document repository](../concept/doc-mgt-view-documents-repo.md)
+**Parent Topic:**[Document repository](doc-mgt-view-documents-repo.md)
 
 **Related topics**  
 
 
 [Create a document record](create-new-doc.md)
 
-[Document versions](../concept/document-mgt-versions.md)
+[Document versions](document-mgt-versions.md)
 
 [Download a document](downloading-a-document.md)
 
@@ -51,7 +51,7 @@ User: owner
 
 [Modify a shared link access](modify-access-shared-link.md)
 
-[Configure document permissions](../concept/document-configuration.md)
+[Configure document permissions](document-configuration.md)
 
 [Delete a document link](delete-document-link.md)
 

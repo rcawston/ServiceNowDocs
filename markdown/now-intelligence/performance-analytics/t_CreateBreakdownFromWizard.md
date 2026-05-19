@@ -85,5 +85,5 @@ If a breakdown and breakdown source exist for the specified table, and a breakdo
     A check mark appears next to each record after it is created. When all records are created the **Create another breakdown** button appears.
 
 
-**Parent Topic:**[Indicator breakdowns](../concept/c_CreatingBreakdowns.md)
+**Parent Topic:**[Indicator breakdowns](c_CreatingBreakdowns.md)
 

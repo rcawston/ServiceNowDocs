@@ -26,7 +26,7 @@ Supporting information can be collected for indicators through automatic data co
     Indicator templates allow the creation of multiple indicators for similar controls or risks.
 
 
-**Note:** The Entity Based Access provides a framework for more granular approach to management of data access to objects associated with an entity. Administrators can grant access to an entity's related records by adding users or user groups, or by using entity user fields for entity-based access configuration. For more information, see [Entity Based Access](../../grc-common/concept/entity-based-access.md). When a user is qualified based on these configurations and has the minimum required roles, they will have access to the following tables:
+**Note:** The Entity Based Access provides a framework for more granular approach to management of data access to objects associated with an entity. Administrators can grant access to an entity's related records by adding users or user groups, or by using entity user fields for entity-based access configuration. For more information, see [Entity Based Access](../grc-common-functions/entity-based-access.md). When a user is qualified based on these configurations and has the minimum required roles, they will have access to the following tables:
 
 -   Indicator
 -   Indicator task
@@ -50,7 +50,7 @@ Authority documents define policies, risks, controls, audits, and other processe
 
 The relationships of these authority document related list items are visible in the GRC Workbench in the Policy and Compliance Management application.
 
-**Note:** You can [add content reference tags to authority documents](../../grc-common/concept/content-references.md#). Content reference tags allow you to filter records in order to more easily identify the content packs, integrations, and use case accelerators associated with the authority documents.
+**Note:** You can [add content reference tags to authority documents](../grc-common-functions/content-references.md#). Content reference tags allow you to filter records in order to more easily identify the content packs, integrations, and use case accelerators associated with the authority documents.
 
 ## Citations
 
@@ -58,7 +58,7 @@ Citations contain the provisions of the authority document, which can be interre
 
 You can create citations or import them from UCF authority documents and then create any necessary relationships between the citations.
 
-**Note:** You can [add content reference tags to citations](../../grc-common/concept/content-references.md#). Content reference tags allow you to filter records in order to more easily identify the content packs, integrations, and use case accelerators associated with the citations.
+**Note:** You can [add content reference tags to citations](../grc-common-functions/content-references.md#). Content reference tags allow you to filter records in order to more easily identify the content packs, integrations, and use case accelerators associated with the citations.
 
 **Parent Topic:**[Classic UI for Policy and Control Management](using-policy-compliance-legacy-ui.md)
 
@@ -290,14 +290,14 @@ Supporting data fields based on the selected table.
 
     As a user with the Business User Lite role, you can navigate to **Policy and Compliance** &gt; **Indicators** &gt; **My Indicator Tasks** to view the indicator tasks that are assigned to you. You can view the indicator by selecting the information icon next to the Indicator field. You can also update the **Result** field, **State** field, **Value** field, **Additional comments**, and **Work notes** in the Indicator Task form.
 
-    To accomplish similar tasks from the employee center, see [GRC tasks in the employee center portal](../task/grc-assessments-employee-center.md#grc-tasks-bu-lite).
+    To accomplish similar tasks from the employee center, see [GRC tasks in the employee center portal](grc-assessments-employee-center.md#grc-tasks-bu-lite).
 
 
 ### What to do next
 
-If you’re implementing the [Policy and Compliance Management](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) software, then you've completed the required setup steps. Return to the [Policy and Compliance Management setup checklist](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) and proceed to the optional steps, as needed.
+If you’re implementing the [Policy and Compliance Management](policy-compliance-impl-checklist.md) software, then you've completed the required setup steps. Return to the [Policy and Compliance Management setup checklist](policy-compliance-impl-checklist.md) and proceed to the optional steps, as needed.
 
-**Parent Topic:**[Policy and Compliance Management mandatory setup](../../grc-policy-compliance-implementation/concept/policy-compliance-mandatory-setup.md)
+**Parent Topic:**[Policy and Compliance Management mandatory setup](policy-compliance-mandatory-setup.md)
 
 ## Create a GRC indicator template
 
@@ -552,7 +552,7 @@ Due date duration in days between the creation and due date of the indicator tas
 
 This field appears only when **Manual** is selected from the **Type** field.
 
-For more information, see [Performance enhancements for Indicator nightly job](../../grc-workspace-compliance/concept/performance-enhancements-indicator-jobs.md).
+For more information, see [Performance enhancements for Indicator nightly job](../grc-compliance-management-workspace/performance-enhancements-indicator-jobs.md).
 
 </td></tr></tbody>
 </table>4.  When you have completed these entries, you can also view information on the following related lists:

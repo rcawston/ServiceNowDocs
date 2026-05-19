@@ -33,11 +33,11 @@ The image shows the MID server request authentication process.
 
 ![MID server request authentication process.](../image/oauth-2.0-external-storage.png)
 
--   **[Configure a JAR file and credential identifiers](../task/configure-and-import-jar-file.md)**  
+-   **[Configure a JAR file and credential identifiers](configure-and-import-jar-file.md)**  
 Configure a JAR file and credential identifiers so that the JAR file resolves the credential identifiers into actual credentials from the CyberArk external vault. The process enables the MID Server to get and include OAuth 2.0 credentials in the OAuth token request.
--   **[Configure CyberArk](../task/configure-cyberark.md)**  
+-   **[Configure CyberArk](configure-cyberark.md)**  
 Configure the CyberArk vault to store OAuth 2.0 credentials and respond to requests for OAuth 2.0 credentials from the MID Server.
--   **[Configure a connection to send OAuth request via the MID Server using external vault](../task/configure-oauth-2-0-authentication.md)**  
+-   **[Configure a connection to send OAuth request via the MID Server using external vault](configure-oauth-2-0-authentication.md)**  
 Configure a connection to send requests for OAuth 2.0 tokens to a third-party auth server via the MID Server. The MID Server adds OAuth 2.0 credentials \(Client ID and Client Secret\) from the CyberArk external vault, OAuth scope, and token URL from the instance to the request and sends them to the third-party auth server.
 
 **Parent Topic:**[External credential storage](c_ExternalCredentialStorage.md)

@@ -55,5 +55,5 @@ Logpoints belong to the developer who sets them. Developers must set and remove 
 6.  When debugging is complete, remove logpoints from the script.
 
 
-**Parent Topic:**[Script Debugger and Session Log](../concept/script-debugger.md)
+**Parent Topic:**[Script Debugger and Session Log](script-debugger.md)
 

@@ -39,7 +39,7 @@ Add Scrum Tasks
 
 Enables you to create multiple scrum tasks for the current story. The scrum tasks are listed in the Scrum Tasks related list of the story.
 
- For more information, see [Create multiple scrum tasks for stories in Agile Development 2.0](../task/create-multiple-scrum-tasks.md).
+ For more information, see [Create multiple scrum tasks for stories in Agile Development 2.0](create-multiple-scrum-tasks.md).
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Scrum Tasks
 
 </td><td>
 
-Lists the scrum tasks created for the story. Click **New** to create a scrum task. For more information, see [Create a scrum task for Agile Development 2.0 stories](../task/create-a-scrum-task.md).
+Lists the scrum tasks created for the story. Click **New** to create a scrum task. For more information, see [Create a scrum task for Agile Development 2.0 stories](create-a-scrum-task.md).
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ Adds existing tests to the story.These tests are also listed on the **Sprint Tra
 **Related topics**  
 
 
-[Create a story in Agile Development 2.0](../task/create-a-story.md)
+[Create a story in Agile Development 2.0](create-a-story.md)
 
-[Writing effective stories in Agile Development 2.0](../concept/how-to-write-stories.md)
+[Writing effective stories in Agile Development 2.0](how-to-write-stories.md)
 

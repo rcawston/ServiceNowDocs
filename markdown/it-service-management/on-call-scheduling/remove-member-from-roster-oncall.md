@@ -93,10 +93,10 @@ Name of the shift.
 </table>7.  Click **Submit**.
 
 
-**Parent Topic:**[Managing roster members](../concept/managing-roster-members.md)
+**Parent Topic:**[Managing roster members](managing-roster-members.md)
 
 **Related topics**  
 
 
-[Assigning On-Call Scheduling roles](../concept/roles-assigning-oncall.md)
+[Assigning On-Call Scheduling roles](roles-assigning-oncall.md)
 

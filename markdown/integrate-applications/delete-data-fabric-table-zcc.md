@@ -39,5 +39,5 @@ Role required: One of the following role combinations or admin.
 
 The data fabric table is deleted and its data is no longer available on your instance.
 
-**Parent Topic:**[Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](managing-data-fabric-tables-zcc.md)
 

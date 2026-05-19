@@ -46,5 +46,5 @@ Role required: sam\_user
     The new consumption rule appears in the Consumption rules list view. You must [link this rule](link-consumption-rules.md) to one or many entitlements.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

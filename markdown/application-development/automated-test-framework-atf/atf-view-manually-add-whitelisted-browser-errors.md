@@ -77,10 +77,10 @@ Description of the error you want to allow. If this client error was allowed fro
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Allowed client errors](../concept/whitelisted-client-errors.md)
+**Parent Topic:**[Allowed client errors](whitelisted-client-errors.md)
 
 **Related topics**  
 
 
-[Allowed client errors](../concept/whitelisted-client-errors.md)
+[Allowed client errors](whitelisted-client-errors.md)
 

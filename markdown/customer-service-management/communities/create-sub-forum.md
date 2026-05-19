@@ -31,7 +31,7 @@ There are two ways of creating a sub forum in Communities.
     -   Locate the forum to create a sub forum in, click its name, and then click the **Sub Forums** related list.
 2.  Fill in the fields on the **Forum New record** form.
 
-    For field description, see [Forum form fields](../reference/forum-form-fields.md).
+    For field description, see [Forum form fields](forum-form-fields.md).
 
 
 ## Result

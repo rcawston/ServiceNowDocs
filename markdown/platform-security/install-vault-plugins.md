@@ -44,15 +44,15 @@ Installation page
 
 </th></tr></thead><tbody><tr><td>
 
-[Data Discovery](../../security/concept/data-discovery-landing.md)
+[Data Discovery](data-discovery/data-discovery-landing.md)
 
 </td><td>
 
-[Activating Data Discovery](../../security/task/activate-data-discovery.md)
+[Activating Data Discovery](data-discovery/activate-data-discovery.md)
 
 </td></tr><tr><td>
 
-[Data Classification](../../security/concept/data-classification.md)
+[Data Classification](data-classification/data-classification.md)
 
 </td><td>
 
@@ -60,15 +60,15 @@ Included with the platform.
 
 </td></tr><tr><td>
 
-[Data anonymization](../../data-privacy-store/concept/dps-data-anonymization.md)
+[Data anonymization](data-privacy-classic/dps-data-anonymization.md)
 
 </td><td>
 
-[Activate data privacy](../../data-privacy-store/task/dps-activate-data-privacy.md)**Note:** Data anonymization is installed as part of [Data privacy](../../data-privacy-store/concept/dps-data-privacy.md).
+[Activate data privacy](data-privacy-classic/dps-activate-data-privacy.md)**Note:** Data anonymization is installed as part of [Data privacy](data-privacy-classic/dps-data-privacy.md).
 
 </td></tr><tr><td>
 
-[Cloud Encryption with Key Management](../../encryption-dare/concept/dare-overview.md)
+[Cloud Encryption with Key Management](cloud-encryption/dare-overview.md)
 
 </td><td>
 
@@ -76,22 +76,22 @@ Included with the platform.
 
 </td></tr><tr><td>
 
-[Field Encryption](../../encryption/concept/field-encryption.md)
+[Field Encryption](field-encryption.md)
 
 </td><td>
 
-[Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md)
+[Activate Field Encryption](activate-platform-encryption.md)
 
 </td></tr><tr><td>
 
--   [Zero Trust Access \(ZTA\)](../../../integrate/authentication/concept/session-access.md)
--   [Continuous Authentication \(CA\)](../../../integrate/authentication/concept/ca-homepage.md)
+-   [Zero Trust Access \(ZTA\)](session-access.md)
+-   [Continuous Authentication \(CA\)](ca-homepage.md)
 
 
 </td><td>
 
--   [Activating Zero Trust Access](../../../integrate/authentication/task/activate-session-access.md)
--   [Activating Continuous Authentication](../../../integrate/authentication/task/activate-continuous-authentication.md)
+-   [Activating Zero Trust Access](activate-session-access.md)
+-   [Activating Continuous Authentication](activate-continuous-authentication.md)
 
 
 </td></tr></tbody>

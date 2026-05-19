@@ -53,7 +53,7 @@ This spoke has no flows and subflows.
 
 ## Available sample conversational subflows
 
-Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](../../integrationhub/concept/conv-spokes-na.md).
+Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](conv-spokes-na.md).
 
 |Conversational subflow|Description|
 |----------------------|-----------|
@@ -309,5 +309,5 @@ Retrieves the list of tags for the specified region.
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Amazon EC2 spoke](../task/setup-amazon-ec2.md#).
+For information about setting up the spoke, see [Set up the Amazon EC2 spoke](setup-amazon-ec2.md#).
 

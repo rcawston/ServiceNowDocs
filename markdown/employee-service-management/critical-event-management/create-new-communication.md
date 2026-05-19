@@ -31,7 +31,7 @@ Role required: sn\_critical.agent
 
 5.  In the Communication form, fill in the fields.
 
-    For a description of the field values, see [Communication form](../reference/create-new-communication-form.md).
+    For a description of the field values, see [Communication form](create-new-communication-form.md).
 
 6.  Select **Compose communication**.
 
@@ -47,5 +47,5 @@ If you chose **Now** from the **Compose and send communication** field on the Co
 **Related topics**  
 
 
-[Manage the recipients of a communication task](../concept/manage-recipients.md)
+[Manage the recipients of a communication task](manage-recipients.md)
 

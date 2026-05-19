@@ -21,22 +21,22 @@ When you install the Playbooks for Sourcing and Procurement Operations applicati
 
 -   **[Purchase revision roles and responsibilities](purchase-revision-flows-roles.md)**  
 As a procurement administrator, you can create workflows that blend automation, integration, and human review to process the purchase modification requests raised by shoppers.
--   **[Edit a purchase line from a purchase requisition or order](../task/edit-pur-req-line.md)**  
+-   **[Edit a purchase line from a purchase requisition or order](edit-pur-req-line.md)**  
 You can edit and revise the quantity of a product or delivery location of a purchase line directly from a purchase requisition or order. You can also view the existing or current quantity or delivery date of the purchase requisition or order.
--   **[Add a line to an existing purchase requisition or order](../task/add-line-pur-req-order.md)**  
+-   **[Add a line to an existing purchase requisition or order](add-line-pur-req-order.md)**  
 You can add a new purchase line to an existing purchase requisition or order.
--   **[Edit a purchase requisition line](../task/edit-request.md)**  
+-   **[Edit a purchase requisition line](edit-request.md)**  
 You can edit and revise the quantity of the product, budget, or delivery location of a purchase requisition line in a purchase requisition based on your requirements.
--   **[Edit a purchase order line](../task/edit-purchase-order.md)**  
+-   **[Edit a purchase order line](edit-purchase-order.md)**  
 You can edit and revise the quantity of the product, budget, or delivery location of a purchase order line in a purchase order based on your requirements.
--   **[Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](../task/edit-pur-req-emp-central.md)**  
+-   **[Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](edit-pur-req-emp-central.md)**  
 You can edit and revise the quantity of a product or delivery location of a purchase line from Employee Center. You can also view the existing or current quantity or delivery date of the purchase requisition or order.
 -   **[Editing purchase requisitions and orders with cost allocation adjustments](edit-purchase-cost-allocation.md)**  
 As a shopper, you can modify purchase requisitions \(PRs\) and purchase orders \(POs\) while maintaining cost allocation across multiple cost centers.
--   **[Raise a cancel request](../task/cancel-request.md)**  
+-   **[Raise a cancel request](cancel-request.md)**  
 As a shopper, you can cancel an entire purchase request, purchase order, or individual line items.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 
 **Related topics**  
 

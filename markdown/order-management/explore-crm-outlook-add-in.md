@@ -44,10 +44,10 @@ The following workflow illustration shows how a sales representative captures an
 
 |Benefits|Feature|Users|
 |--------|-------|-----|
-|Locate CRM records such as leads, opportunities, accounts, or contacts, and link emails without leaving Outlook.|[Associate an email with an existing CRM record](../task/associate-email-crm-outlook.md)|Sales representative, Sales manager|
-|Capture new prospects immediately from inbound inquiries with auto-populated sender information and associate emails in a single action.|[Create a CRM record from Microsoft Outlook](../task/create-crm-entity-outlook.md)|Sales representative|
-|Promote emails from the Staged Email \[sys\_email\_staging\] table to the Email \[sys\_email\] table, making them visible to agents in the workspace.|[Make emails associated through the CRM Outlook Add-in visible to agents](../task/promote-crm-outlook-emails.md)|CRM administrator|
-|View associated emails from the CRM entity records.|[Track emails linked from Microsoft Outlook](../task/view-associated-emails-crm.md)|CRM administrator|
+|Locate CRM records such as leads, opportunities, accounts, or contacts, and link emails without leaving Outlook.|[Associate an email with an existing CRM record](associate-email-crm-outlook.md)|Sales representative, Sales manager|
+|Capture new prospects immediately from inbound inquiries with auto-populated sender information and associate emails in a single action.|[Create a CRM record from Microsoft Outlook](create-crm-entity-outlook.md)|Sales representative|
+|Promote emails from the Staged Email \[sys\_email\_staging\] table to the Email \[sys\_email\] table, making them visible to agents in the workspace.|[Make emails associated through the CRM Outlook Add-in visible to agents](promote-crm-outlook-emails.md)|CRM administrator|
+|View associated emails from the CRM entity records.|[Track emails linked from Microsoft Outlook](view-associated-emails-crm.md)|CRM administrator|
 
 ## Related links
 

@@ -15,8 +15,8 @@ You can compose, reply to, and preview emails directly from cases in CSM Configu
 
 You can perform the following email tasks from cases in CSM Configurable Workspace:
 
--   [Compose an email from a case](../task/compose-email-cases.md)
--   [Compose an email from the ribbon component](../task/open-email-customer-360.md)
--   [Send an email response from a case activity stream](../task/respond-cases-reply-forward.md)
--   [Preview an email from the Emails related list](../task/preview-email-cases.md)
+-   [Compose an email from a case](compose-email-cases.md)
+-   [Compose an email from the ribbon component](open-email-customer-360.md)
+-   [Send an email response from a case activity stream](respond-cases-reply-forward.md)
+-   [Preview an email from the Emails related list](preview-email-cases.md)
 

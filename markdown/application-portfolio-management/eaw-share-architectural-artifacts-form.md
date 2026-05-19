@@ -63,7 +63,7 @@ Select **Manage access** to view the existing collaborators on the architectural
 **Related topics**  
 
 
-[Share an architectural artifact with users or groups](../../task/eaw-task/eaw-share--archi-artft-with-users-groups.md)
+[Share an architectural artifact with users or groups](eaw-share--archi-artft-with-users-groups.md)
 
-[Manage access to architectural artifacts](../../task/eaw-task/eaw-manage-access-to-architectural-artifacts.md)
+[Manage access to architectural artifacts](eaw-manage-access-to-architectural-artifacts.md)
 

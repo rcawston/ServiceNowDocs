@@ -17,7 +17,7 @@ Create a configuration setting rule that refines the level of anomaly detection 
 
 Anomaly detection consists of multiple levels of processing. At the lowest level, metric data is gathered from data sources. At the highest level, statistical models are created, anomaly scores are calculated, and anomaly alerts and IT alerts are created. You can apply the full anomaly detection process or a reduced level of processing, for specific data series.
 
-Use the **anomaly\_detection\_action\_level** configuration setting in a [configuration setting rule](../task/create-config-overriding-rule.md) to set the level of processing for specific CIs and metrics. For example, you can initially set only a small percentage of CIs and metrics to generate anomaly alerts, and later increase that percentage.
+Use the **anomaly\_detection\_action\_level** configuration setting in a [configuration setting rule](create-config-overriding-rule.md) to set the level of processing for specific CIs and metrics. For example, you can initially set only a small percentage of CIs and metrics to generate anomaly alerts, and later increase that percentage.
 
 ## Action levels
 
@@ -46,10 +46,10 @@ Action levels from lowest to highest:
     'Anomaly Alerts' processing level and in addition creates IT alerts which are based on anomaly alerts, as applicable.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../../agent-client-collector/concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
 
 **Related topics**  
 
 
-[Create a configuration settings rule](../task/create-config-overriding-rule.md)
+[Create a configuration settings rule](create-config-overriding-rule.md)
 

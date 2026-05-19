@@ -19,7 +19,7 @@ You can change data visualization types via a drop-down in the configuration pan
 
 ![Data visualization type options in a drop-down.](../image/hot-swap-drop-down.png)
 
-A preview of the data visualization you selected appears in your page. For information about adding data visualization components to your experience, see [Add and configure components](../task/add-components.md#).
+A preview of the data visualization you selected appears in your page. For information about adding data visualization components to your experience, see [Add and configure components](add-components.md#).
 
 **Parent Topic:**[Customize UI Builder pages using components](work-components.md)
 

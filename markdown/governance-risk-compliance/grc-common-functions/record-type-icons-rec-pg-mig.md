@@ -43,5 +43,5 @@ The table gives you a list of icons configured for the forms in the Audit Worksp
 |Citation|sn\_compliance\_citation|![Citation record type icon.](../../grc-workspace-compliance/image/rec-type-icon-citation.png)|connect-view-document-outline|
 |Control objective|sn\_compliance\_policy\_statement|![Control objective record type icon.](../../grc-workspace-compliance/image/rec-type-icon-control-objective.png)|clipboard-lines-outline|
 
-**Parent Topic:**[Configure workspace page](../task/configure-workspace-page.md)
+**Parent Topic:**[Configure workspace page](configure-workspace-page.md)
 

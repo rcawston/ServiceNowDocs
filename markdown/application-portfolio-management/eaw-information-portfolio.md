@@ -39,7 +39,7 @@ Architectural artifacts are created to describe a system, solution, or state of 
 -   **[Exploring architectural decision records \(ADR\)](eaw-managing-arch-decision-records.md)**  
 Use the Architectural Decision Records \(ADR\) to explain your infrastructure. ADR is a type of artifact that helps you to understand the background of a specific architectural decision.
 
-**Parent Topic:**[Exploring Portfolio list view](../portfolio-list-view.md)
+**Parent Topic:**[Exploring Portfolio list view](portfolio-list-view.md)
 
 **Related topics**  
 

@@ -18,5 +18,5 @@ A connection admin can create a connection to MariaDB and give data stewards acc
 **Related topics**  
 
 
-[Create a MariaDB connection](../task/create-mariadb-connection-zcc.md)
+[Create a MariaDB connection](create-mariadb-connection-zcc.md)
 

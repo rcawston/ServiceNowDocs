@@ -59,5 +59,5 @@ Role required: sales\_agent
 
 Add a pricing adjustment to a quote line item. See [View and update manual pricing adjustments in quotes](quote-management-pricing-adjustments-tab.md) for more information.
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

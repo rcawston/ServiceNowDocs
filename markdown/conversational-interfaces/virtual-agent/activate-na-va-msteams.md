@@ -20,7 +20,7 @@ Add Now Assist in Virtual Agent to your Microsoft Teams and Microsoft Copilot bo
 
 Role required: admin or virtual\_agent\_admin
 
-Create a self-configured bot for Microsoft Copilot. For more information, see [Setting up the Self-configured bot for using Microsoft Copilot](../concept/setup-self-bot-copilot.md).
+Create a self-configured bot for Microsoft Copilot. For more information, see [Setting up the Self-configured bot for using Microsoft Copilot](setup-self-bot-copilot.md).
 
 **Note:** Ensure you've updated the version of your Microsoft Teams app in the **Version** field.
 

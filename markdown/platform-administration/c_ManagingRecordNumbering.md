@@ -21,11 +21,11 @@ You can renumber auto-incremented tables that extend the task table or manage nu
 
 **Note:** If you reset numbering in Number Maintenance, it only renumbers new records. It leaves the numbering as-is for existing records in system tables.
 
--   **[Add auto-numbering records in a table](../task/t_AutoNumberingRecordsInATable.md)**  
+-   **[Add auto-numbering records in a table](t_AutoNumberingRecordsInATable.md)**  
 You can define one number format per table in the system.
--   **[Prepare to left-pad number fields in custom tables](../task/t_PrepToLeftPadNumFldsInCustmTbls.md)**  
+-   **[Prepare to left-pad number fields in custom tables](t_PrepToLeftPadNumFldsInCustmTbls.md)**  
 Before you configure left padding of number fields on a custom table or a table that does not extend the task table, you must prepare business rules and script includes.
--   **[Prevent numbering gaps](../task/t_PreventNumberingGaps.md)**  
+-   **[Prevent numbering gaps](t_PreventNumberingGaps.md)**  
 By default, numbers are generated every time a new record is created.
 -   **[Enforcing unique numbering](c_EnforcingUniqueNumbering.md)**  
 Although duplicate numbers are rare, numbering does not enforce uniqueness, by default.

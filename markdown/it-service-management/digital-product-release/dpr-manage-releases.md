@@ -30,11 +30,11 @@ Role required: sn\_dpr\_model.release\_coordinator, sn\_dpr\_model.product\_mana
 4.  If the release isn't in progress, select **Start release**.
 
 
--   **[Managing timeline-oriented releases](../concept/dpr-working-timeline-release.md)**  
+-   **[Managing timeline-oriented releases](dpr-working-timeline-release.md)**  
 Managing a timeline-oriented release involves following a series of deadlines and milestones and adjusting as necessary to keep your release on track.
--   **[Managing stage-oriented releases](../concept/dpr-working-stage-release.md)**  
+-   **[Managing stage-oriented releases](dpr-working-stage-release.md)**  
 Managing a stage-oriented release involves completing objectives and closing the release when the work is done and meets the defined release criteria, rather than waiting for the planned end date.
--   **[Managing multiple releases through release bundles](../concept/dpr-release-bundle.md)**  
+-   **[Managing multiple releases through release bundles](dpr-release-bundle.md)**  
 Release bundles help you to group multiple releases to track and manage them concurrently from a single place.
 -   **[Review and update release details](dpr-work-release-details.md)**  
 Review and modify the details of a release. You can also retarget the readiness date of the release as required.
@@ -59,5 +59,5 @@ Change the release readiness target to reschedule the release period.
 -   **[Close a release](dpr-complete-release.md)**  
 Complete a release after all tasks have been completed and all phases are in compliance with the mapped policies.
 
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](dpr-using-digital-product-release.md)
 

@@ -30,22 +30,22 @@ Role required: admin
 3.  Select **Resume**.
 
 
-**Parent Topic:**[Using My Learning](../concept/manage-your-learning.md)
+**Parent Topic:**[Using My Learning](manage-your-learning.md)
 
 **Related topics**  
 
 
 [Enroll in a course collection on My Learning](enroll-course-lxp.md)
 
-[Create a personal course collection](../concept/create-personal-collection.md)
+[Create a personal course collection](create-personal-collection.md)
 
-[Create a Learning challenge](../concept/learning-challenge.md)
+[Create a Learning challenge](learning-challenge.md)
 
-[View recent activity](../concept/view-recent-activity-lxp.md)
+[View recent activity](view-recent-activity-lxp.md)
 
 [Assign Learning to your team](assign-learning-lxp.md)
 
-[Manage Learning](../concept/manage-learning-achievements.md)
+[Manage Learning](manage-learning-achievements.md)
 
-[Skill sensing for learning content](../concept/skill-sensing-for-learning-content.md)
+[Skill sensing for learning content](skill-sensing-for-learning-content.md)
 

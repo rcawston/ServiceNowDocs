@@ -85,12 +85,12 @@ String field that identifies the MID Application name that is used to communicat
 
 After you successfully validate and submit the configuration, the MISP - SIR/TI Integration is saved on the Security Integrations page as a tile.
 
-**Parent Topic:**[MISP administration](../concept/misp-administration.md)
+**Parent Topic:**[MISP administration](misp-administration.md)
 
 **Related topics**  
 
 
-[Getting started with MISP integration for Security Operations](../reference/get-started-with-misp-integration-for-security-operations.md)
+[Getting started with MISP integration for Security Operations](get-started-with-misp-integration-for-security-operations.md)
 
 [Review the MISP integration settings](review-the-misp-integration-settings.md)
 
@@ -98,13 +98,13 @@ After you successfully validate and submit the configuration, the MISP - SIR/TI 
 
 [Configure how an automatic event is created](configure-automatic-event-creation-profile.md#)
 
-[MISP event data](../concept/misp-event-data.md)
+[MISP event data](misp-event-data.md)
 
-[Associated MISP events](../reference/associated-misp-events.md)
+[Associated MISP events](associated-misp-events.md)
 
-[MISP user information](../reference/misp-user-information.md)
+[MISP user information](misp-user-information.md)
 
-[Domain separation and MISP](../reference/domain-separation-and-misp.md)
+[Domain separation and MISP](domain-separation-and-misp.md)
 
-[Troubleshooting MISP integration](../reference/troubleshooting-misp-integration.md)
+[Troubleshooting MISP integration](troubleshooting-misp-integration.md)
 

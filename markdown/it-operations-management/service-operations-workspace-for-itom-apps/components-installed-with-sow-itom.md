@@ -119,7 +119,7 @@ Performance Analytics - Content Pack - Event Management\[com.snc.pa.premium\]
 Includes core out-of-the-box Key Performance Indicators \(KPIs\). Activating this plugin on production instances may require a separate Performance Analytics license.
 
 </td></tr></tbody>
-</table>To return to the procedure, see [Install Service Operations Workspace for ITOM application](../task/install-sow-itom-apps.md).
+</table>To return to the procedure, see [Install Service Operations Workspace for ITOM application](install-sow-itom-apps.md).
 
-**Parent Topic:**[Service Operations Workspace for ITOM reference](../concept/sow-reference-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM reference](sow-reference-itom.md)
 

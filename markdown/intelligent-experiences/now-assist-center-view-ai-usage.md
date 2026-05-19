@@ -36,7 +36,7 @@ Role required: sn\_na\_center.nac\_admin
 
 4.  Select the tab for the data visualizations you want to view.
 
-    The Skills tab provides dashboards showing usage and performance metrics for Now Assist skills. The dashboards are featured in the Performance section of the Now Assist Admin console. For more information, see [Analyzing Now Assist performance](../../now-assist-analytics/concept/now-assist-analytics.md).
+    The Skills tab provides dashboards showing usage and performance metrics for Now Assist skills. The dashboards are featured in the Performance section of the Now Assist Admin console. For more information, see [Analyzing Now Assist performance](now-assist-analytics.md).
 
 <table id="table_rh3_45z_x3c"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Usage Summary
 
 The Usage summary dashboard page includes indicators on total and daily Now Assist actions, skill distribution and engagement trend, and daily unique users who have engaged with Now Assist.
 
- For more information, see [Usage and adoption](../../now-assist-analytics/concept/usage-and-adoption.md).
+ For more information, see [Usage and adoption](usage-and-adoption.md).
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Offensiveness
 
 The Offensive content dashboard page helps you monitor and evaluate the effectiveness of Now Assist Guardian guardrails in tracking and analyzing requests sent to large language models \(LLM\) and their responses.
 
- For more information, see [Now Assist Guardian analytics](../../now-assist-analytics/concept/now-assist-guardian-analytics.md).
+ For more information, see [Now Assist Guardian analytics](now-assist-guardian-analytics.md).
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Context Menu
 
 The Now Assist context menu dashboard page helps you to evaluate the effectiveness of context menu actions in assisting agents with summarizing, creating, and editing emails and chat replies.
 
- For more information, see [Now Assist context menu analytics](../../now-assist-analytics/concept/now-assist-context-menu-analytics.md).
+ For more information, see [Now Assist context menu analytics](now-assist-context-menu-analytics.md).
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Adoption
 
 The Adoption dashboard page tracks the departments with the highest Now Assist usage, comparison of actions by department, and feedback and error details.
 
- For more information, see [Usage and adoption](../../now-assist-analytics/concept/usage-and-adoption.md).
+ For more information, see [Usage and adoption](usage-and-adoption.md).
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Skill Performance
 
 The Skills performance dashboard page contains indicators that help you analyze the usage and performance of active skills.
 
- For more information, see [Skills performance](../../now-assist-analytics/concept/skill-usage.md).
+ For more information, see [Skills performance](skill-usage.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Prompt Injection
 
 The Prompt Injection dashboard page helps you monitor and evaluate the effectiveness of Now Assist Guardian guardrails in tracking and analyzing requests sent to large language models \(LLM\) and their responses.
 
- For more information, see [Now Assist Guardian analytics](../../now-assist-analytics/concept/now-assist-guardian-analytics.md).
+ For more information, see [Now Assist Guardian analytics](now-assist-guardian-analytics.md).
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ User Search Analyser
 
 The User search analyzer dashboard page contains indicators that help you understand the effectiveness of search in enhancing the self-service experience.
 
- For more information, see [User search analyzer](../../now-assist-analytics/concept/user-search-analyser.md).
+ For more information, see [User search analyzer](user-search-analyser.md).
 
 </td></tr></tbody>
 </table>    The AI Agents tab provides dashboards showing usage and performance metrics for AI agents. The dashboards are featured on the AI Agent Analytics page of the AI Agent Studio. For more information, see AI Agent Analytics dashboard.
@@ -264,10 +264,10 @@ The Documentation &amp; Analytics Resources page provides links to additional an
 
 </td></tr></tbody>
 </table>
--   **[Now Assist Center Overview dashboard](../concept/now-assist-center-overview-dashboard.md)**  
+-   **[Now Assist Center Overview dashboard](now-assist-center-overview-dashboard.md)**  
 Use the Now Assist Center Overview dashboard to monitor key metrics for AI asset activation, adoption, and usage across your organization.
 
-**Parent Topic:**[Monitoring in Now Assist Center](../concept/now-assist-center-monitoring.md)
+**Parent Topic:**[Monitoring in Now Assist Center](now-assist-center-monitoring.md)
 
 **Related topics**  
 

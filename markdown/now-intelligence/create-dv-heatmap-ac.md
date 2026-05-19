@@ -16,7 +16,7 @@ Use a heatmap visualization to show the relationship between two table fields or
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -163,11 +163,11 @@ Specify the text color of the title. The default title color is black, but you c
 </td></tr></tbody>
 </table>5.  Choose a data source.
 
-    For general descriptions of the data sources, see [Data sources for data visualizations](../../par-for-workspace/reference/data-sources-visualizations.md).
+    For general descriptions of the data sources, see [Data sources for data visualizations](data-sources-visualizations.md).
 
     -   Table \(available in the base system\). When you select a table, you can filter it by conditions.
 
-        Configured report sources appear in the **Predefined conditions** list. For more information, see [Report sources](../concept/c_ReportSources.md#).
+        Configured report sources appear in the **Predefined conditions** list. For more information, see [Report sources](reporting/c_ReportSources.md#).
 
         To help you create a custom filter, there is a preview list of records that would be included in the visualization. You can change which fields are shown as columns and the width of columns in the list actions.
 
@@ -181,12 +181,12 @@ Specify the text color of the title. The default title color is black, but you c
 
         **Note:**
 
-        You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](../../performance-analytics/concept/condition-operators-ind-bkdowns.md#section_breakdown-operators).
+        You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](performance-analytics/condition-operators-ind-bkdowns.md#section_breakdown-operators).
 
 6.  Select the options for your data source.
 
-    -   If your visualization represents table data, go to [Table data options for heatmap visualizations](../reference/config-dv-heatmap-table.md).
-    -   If your visualization represents indicator data, go to [Indicator data options for heatmap visualizations](../reference/config-dv-heatmap-ind.md).
+    -   If your visualization represents table data, go to [Table data options for heatmap visualizations](config-dv-heatmap-table.md).
+    -   If your visualization represents indicator data, go to [Indicator data options for heatmap visualizations](config-dv-heatmap-ind.md).
 7.  Under **Presentation**, provide display and color information.
 
 <table id="table_gvk_2mr_qtb"><thead><tr><th>
@@ -290,9 +290,9 @@ Action
 
 </td><td>
 
-Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md).
+Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [Chart interactions in a data visualization](dv-chart-interactions.md).
 
--   **Go to data view** opens a list view, KPI Details page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [Data views for different data sources](../../dashboards/reference/visualization-drilldown-in-config-ws.md).
+-   **Go to data view** opens a list view, KPI Details page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [Data views for different data sources](visualization-drilldown-in-config-ws.md).
 -   **Go to URL** opens the specified URL, which can be on the instance or external. You have the option of specifying a page name to appear in the tooltip, for those visualizations with tooltips.
 -   **Drill down to chart** \(Visualization Designer only\) Opens a different data visualization that is filtered by the selected data. You can add a drill-down visualization for each metric on the parent visualization.
 
@@ -310,14 +310,14 @@ Choose the event that occurs when a user clicks in a visualization or one of its
 
 -   [Add a visualization to a dashboard from the Visualization Designer](add-dv-new-db.md)
 -   [Share a data visualization in the Visualization Designer](share-dv-ac.md#)
--   [Bookmark a visualization in the Visualization Designer](../../dashboards/task/bookmark-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](bookmark-dv-ac.md)
 
--   **[Table data options for heatmap visualizations](../reference/config-dv-heatmap-table.md)**  
+-   **[Table data options for heatmap visualizations](config-dv-heatmap-table.md)**  
 When you select a table data source for a heatmap visualization, the following Data configuration options are available.
--   **[Indicator data options for heatmap visualizations](../reference/config-dv-heatmap-ind.md)**  
+-   **[Indicator data options for heatmap visualizations](config-dv-heatmap-ind.md)**  
 When you select an indicator data source for a heatmap visualization, the following Data configuration options are available.
--   **[Heatmap visualization example](../../par-for-workspace/task/dv-example-heatmap.md)**  
+-   **[Heatmap visualization example](dv-example-heatmap.md)**  
 The heatmap data visualization shows the relationship between two table fields or indicator breakdowns as a spectrum of shading between two colors. The changes in color as you move along the axes reveal patterns in the value of one or both fields or breakdowns.
 
-**Parent Topic:**[Creating data visualizations](../concept/creating-data-visualizations.md)
+**Parent Topic:**[Creating data visualizations](creating-data-visualizations.md)
 

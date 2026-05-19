@@ -65,7 +65,7 @@ Response template icon \(![Response template icon.](../image/response-template-i
 
 </td><td>
 
-Reusable messages that you can copy and paste into the cases and case tasks. For more information on using and creating response templates, see [Use response templates in Service Request Playbook](../task/use-response-templates-psds.md).
+Reusable messages that you can copy and paste into the cases and case tasks. For more information on using and creating response templates, see [Use response templates in Service Request Playbook](use-response-templates-psds.md).
 
 </td></tr><tr><td>
 

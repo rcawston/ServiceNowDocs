@@ -252,7 +252,7 @@ To modify the data retention policy, change the value of **Age in seconds** in t
 
 ## Connection and credential alias requirements
 
-This spoke doesn't require configuration of connection and credential alias. For information about setting up the spoke, see [Create schema](../task/create-schema.md).
+This spoke doesn't require configuration of connection and credential alias. For information about setting up the spoke, see [Create schema](create-schema.md).
 
 ## MID Server requirements
 
@@ -263,5 +263,5 @@ These actions use REST calls that can run either on an instance or, optionally, 
 -   The Build Zip action in the spoke requires at least one MID Server with the capability IntegrationHub Utilities or ALL. To set up and configure the MID Server, user must have the role sn\_utility\_spoke.utility\_actions\_admin role.
 -   [Create a MID Server property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md) with **Value** as `*.service-now.com`.
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

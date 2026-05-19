@@ -17,7 +17,7 @@ The GlideGuid API provides methods to create a globally unique identifier.
 
 You access the GlideGuidV3 methods using the `g_guid` global object.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideGuid - generate\(Number stringLength\)
 

@@ -68,11 +68,11 @@ Clustering
 Analyzes and suggests opportunities for Standard Change proposal templates that can be used for automatically creating a change. This solution uses similarity and clustering solution type to identify the common fields in the records and make it a template.
 
 </td></tr></tbody>
-</table>-   **[Intelligent solutions system properties](../reference/change-mgmt-intelligentsoln-properties.md)**  
+</table>-   **[Intelligent solutions system properties](change-mgmt-intelligentsoln-properties.md)**  
 Administrators can configure the Change Management Intelligent solutions system properties to use predictive intelligence \(PI\) capabilities.
--   **[Train the Risk Intelligence solution](../task/train-risk-intelligence-solution.md)**  
+-   **[Train the Risk Intelligence solution](train-risk-intelligence-solution.md)**  
 Create Risk categorization or similarity solution definitions to use the predictive intelligence that helps in accessing change risk.
--   **[Train the clustering solution for standard change proposal](../task/train-std-chg-proposal-soln.md)**  
+-   **[Train the clustering solution for standard change proposal](train-std-chg-proposal-soln.md)**  
 Train the Standard change proposal solution definition to use clustering capabilities to identify and suggest Standard Change templates to create a change.
 
 **Parent Topic:**[Configuring Change Management](configure-change-management.md)

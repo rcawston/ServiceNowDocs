@@ -27,7 +27,7 @@ Now Assist for Sales Force Automation \(SFA\) application packages ServiceNow® 
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SFA application to get started](../task/configure-now-assist-som.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SFA application to get started](configure-now-assist-som.md)
 
 </td><td>
 
@@ -56,7 +56,7 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 -   **[Exploring Now Assist for SFA](exploring-now-assist-for-som.md)**  
 With the Now Assist for Sales Force Automation \(SFA\) application, sales agents can manage the lifecycle of leads by automating outreach, follow-up communications, demo bookings, and handling lead disinterest or opt-outs. It can operate independently or under human supervision, thereby streamlining engagement and demo scheduling.
--   **[Configure Now Assist for Sales Force Automation \(SFA\)](../task/configure-now-assist-som.md)**  
+-   **[Configure Now Assist for Sales Force Automation \(SFA\)](configure-now-assist-som.md)**  
 If you have the admin role, you can configure the Now Assist for Sales Force Automation \(SFA\) application so that agents can use the generative AI capabilities in the CSM Configurable Workspace.
 -   **[Use agentic workflows in Now Assist for Sales Force Automation \(SFA\)](using-agentic-worklflows-in-lead-management.md)**  
 Use the Now Assist for Sales Force Automation \(SFA\) AI agent collection to complete tasks autonomously.

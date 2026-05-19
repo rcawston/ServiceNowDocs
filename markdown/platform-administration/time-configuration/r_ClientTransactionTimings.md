@@ -145,10 +145,10 @@ A more detailed breakdown of the client timings for all Form rendering \(but not
 |Name|Descriptive name of this particular operation|
 |Duration|Number of ms this operation took to complete.|
 
--   **[Components installed with Client Transaction Timings](../concept/c_InstalledComponents.md)**  
+-   **[Components installed with Client Transaction Timings](c_InstalledComponents.md)**  
 The Client Transaction Timings plugin installs several components.
 -   **[Timing values](r_TimingValues.md)**  
 Timing values are broken down into several sections.
 
-**Parent Topic:**[Time configuration references](../reference-time-configuration.md)
+**Parent Topic:**[Time configuration references](reference-time-configuration.md)
 

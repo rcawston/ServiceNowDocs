@@ -76,5 +76,5 @@ The swap functionality is available only for the parent asset of a multicomponen
 -   The state of the swapped-out asset changes to In stock and the substate changes to Pending repair. If the asset is a consumable, the state changes to In stock and the and substate changes to Pending disposal.
 -   The stockroom of the swapped out asset changes to the stockroom that you selected in the **Choose stockroom for asset swap** field.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

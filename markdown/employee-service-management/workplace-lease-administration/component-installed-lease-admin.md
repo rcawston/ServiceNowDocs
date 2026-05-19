@@ -110,7 +110,7 @@ Workplace Contract Service\[sn\_wsd\_la\_workplace\_contract\_service\]
 Stores workplace contract services related to the contract.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Lease Administration references](../concept/workplace-lease-references.md)
+</table>**Parent Topic:**[Workplace Lease Administration references](workplace-lease-references.md)
 
 **Related topics**  
 

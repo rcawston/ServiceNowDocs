@@ -28,7 +28,7 @@ A risk assessor can do the following:
 -   Assess the risks that were added for a project.
 -   Decide if the risks must be elevated to enterprise risks.
 
-To understand how to assess risks on a risk assessment instance and how to respond to the questions, refer to [Understanding the risk assessment instance](../concept/understanding-risk-assessment-instance.md).
+To understand how to assess risks on a risk assessment instance and how to respond to the questions, refer to [Understanding the risk assessment instance](understanding-risk-assessment-instance.md).
 
 ## Procedure
 
@@ -67,5 +67,5 @@ To understand how to assess risks on a risk assessment instance and how to respo
 
 [Elevate a project risk to enterprise risk](Elevating-a-risk.md).
 
-**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](../concept/risk-and-ppm-better-together.md)
+**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](risk-and-ppm-better-together.md)
 

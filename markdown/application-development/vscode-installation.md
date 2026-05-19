@@ -40,5 +40,5 @@ In order to install ServiceNow Extensions for Visual Studio Code, you must have 
 
 Once you reload VS Code [activate](activate-servicenow-ext.md) the ServiceNow extension.
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
 

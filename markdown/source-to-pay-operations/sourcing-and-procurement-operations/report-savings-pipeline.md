@@ -56,5 +56,5 @@ The sourcing event that you plan to work on, and all its associated negotiations
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](use-pipeline-sourcing-mgmt.md)
 

@@ -23,15 +23,15 @@ Roles required: admin and sn\_dlir.admin
 
 ## Procedure
 
-1.  Follow the instructions for [downloading an application from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+1.  Follow the instructions for [downloading an application from the ServiceNow Store](../download-app-first-time.md).
 
 2.  After you have downloaded the **DLP Incident Response** application and all of its dependency applications, navigate to **All** &gt; **DLP Administration** &gt; **Default Configuration** to complete the rest of the [application configuration](configure-data-loss-prevention.md).
 
 
-**Parent Topic:**[Installing and configuring DLP IR Incident Response](../concept/install-dlp.md)
+**Parent Topic:**[Installing and configuring DLP IR Incident Response](install-dlp.md)
 
 **Related topics**  
 
 
-[Domain separation and DLP Incident Response](../reference/domain-separation-and-dlp.md)
+[Domain separation and DLP Incident Response](domain-separation-and-dlp.md)
 

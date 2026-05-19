@@ -54,5 +54,5 @@ When you create a location in the Workplace Core application, that location is a
 
 The location type is set for the selected location table.
 
-**Parent Topic:**[Location migration](../concept/location-migration.md)
+**Parent Topic:**[Location migration](location-migration.md)
 

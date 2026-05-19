@@ -63,7 +63,7 @@ Creating a scripted GraphQL API includes these parts:
 
 To learn more about the GraphQL query language, see the [GraphQL website](https://graphql.org/).
 
-To test queries to your GraphQL APIs, you can use the GraphQL Explorer, an integrated GraphQL testing tool. For more information, see [Test GraphQL APIs with GraphQL Explorer](../task/test-gql-schema.md).
+To test queries to your GraphQL APIs, you can use the GraphQL Explorer, an integrated GraphQL testing tool. For more information, see [Test GraphQL APIs with GraphQL Explorer](test-gql-schema.md).
 
 ## Limitations
 
@@ -74,7 +74,7 @@ The following GraphQL features aren't supported:
 
 ## Introspection
 
-By default, introspective queries into your custom schemas aren’t enabled. To turn on introspection, see [Enable introspective queries for GraphQL schemas](../task/enable-introspective-queries-graphql-schemas.md).
+By default, introspective queries into your custom schemas aren’t enabled. To turn on introspection, see [Enable introspective queries for GraphQL schemas](enable-introspective-queries-graphql-schemas.md).
 
 ## Namespaces
 
@@ -146,16 +146,16 @@ query {
 
 To see a demo GraphQL PTO calendar schema with mutations and queries, enable the GraphQL Framework Demo Application plugin \(com.glide.graphql.framework.demo\).
 
--   **[Create a GraphQL schema](../task/build-graphql-scripted-schema.md#)**  
+-   **[Create a GraphQL schema](build-graphql-scripted-schema.md#)**  
 Create a GraphQL schema to make data available to GraphQL queries.
--   **[Enable introspective queries for GraphQL schemas](../task/enable-introspective-queries-graphql-schemas.md)**  
+-   **[Enable introspective queries for GraphQL schemas](enable-introspective-queries-graphql-schemas.md)**  
 Discover the queries and mutations supported by schemas on your instance by enabling introspection.
--   **[Test GraphQL APIs with GraphQL Explorer](../task/test-gql-schema.md)**  
+-   **[Test GraphQL APIs with GraphQL Explorer](test-gql-schema.md)**  
 Test query your GraphQL APIs using an integrated GraphQL testing tool.
--   **[Query a GraphQL schema from a component](../task/query-schema-from-component.md)**  
+-   **[Query a GraphQL schema from a component](query-schema-from-component.md)**  
 Access record data in a component by querying your scripted GraphQL schema.
--   **[GraphQL system properties](../reference/graphql-properties.md)**  
+-   **[GraphQL system properties](graphql-properties.md)**  
 Configure GraphQL API framework behavior. For example, you can configure whether to allow introspective queries into your schema.
 
-**Parent Topic:**[Additional integration resources](../../outbound-web-services/concept/additional-integration-resources.md)
+**Parent Topic:**[Additional integration resources](additional-integration-resources.md)
 

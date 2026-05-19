@@ -103,12 +103,12 @@ Message
 Additional details or notes about the appointment. This field supports rich text formatting.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Opportunity Management reference](../concept/opportunity-management-reference.md)
+</table>**Parent Topic:**[Opportunity Management reference](opportunity-management-reference.md)
 
 **Related topics**  
 
 
-[Create an appointment from Opportunity Management](../concept/opportunity-management-create-an-appoinment.md)
+[Create an appointment from Opportunity Management](opportunity-management-create-an-appoinment.md)
 
-[Schedule an appointment from a touchpoint](../task/schedule-appointment-crm-touchpoint.md)
+[Schedule an appointment from a touchpoint](schedule-appointment-crm-touchpoint.md)
 

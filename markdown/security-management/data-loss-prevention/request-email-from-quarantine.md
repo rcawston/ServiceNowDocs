@@ -17,7 +17,7 @@ Use this feature to release the email that is quarantined from the Microsoft Pur
 
 ## Before you begin
 
-By default, the base system provides the **Request email release from quarantine** response option and **MSFT Quarantine Release Response Option Rule** to release the email from quarantine. This default record also has the **Quarantine Release Approval Rule** configured with it to leverage the approval functionality for this action. For more information, see [Create incident response option rules](../../data-loss-prevention/task/configure-end-user-action.md), [Configure response option for your DLP incidents](../../data-loss-prevention/task/configure-response-option-mapping.md), and [Create Approval Rules](../../data-loss-prevention/task/configure-approval-rules.md).
+By default, the base system provides the **Request email release from quarantine** response option and **MSFT Quarantine Release Response Option Rule** to release the email from quarantine. This default record also has the **Quarantine Release Approval Rule** configured with it to leverage the approval functionality for this action. For more information, see [Create incident response option rules](configure-end-user-action.md), [Configure response option for your DLP incidents](configure-response-option-mapping.md), and [Create Approval Rules](configure-approval-rules.md).
 
 ![Default MSFT Quarantine Release Response Option Rule](../../data-loss-prevention/image/dlp-default-incident-response-rule.png "MSFT Quarantine Release Response Option Rule")
 
@@ -28,7 +28,7 @@ By default, the base system provides the **Request email release from quarantine
 1.  Exchange Online PowerShell module need to be installed on the MID server. For more information, see [Install and maintain the Exchange Online PowerShell](https://learn.microsoft.com/en-us/powershell/exchange/exchange-online-powershell-v2?view=exchange-ps#install-and-maintain-the-exchange-online-powershell-module).
 2.  The MID server needs to communicate with the Exchange server, which is also a cloud service. Therefore, the MID server requires continuous internet access.
 
-**Note:** If you are using this response option then make sure the mid server is up and running with PowerShell capability. If a mid server is not up and running and doesn't have PowerShell capability then the end user will not be able to select **Request email release from quarantine** action from the DLP Users workspace. For more information, see [Create incident response option rules](../../data-loss-prevention/task/configure-end-user-action.md) and [Configure response option for your DLP incidents](../../data-loss-prevention/task/configure-response-option-mapping.md).
+**Note:** If you are using this response option then make sure the mid server is up and running with PowerShell capability. If a mid server is not up and running and doesn't have PowerShell capability then the end user will not be able to select **Request email release from quarantine** action from the DLP Users workspace. For more information, see [Create incident response option rules](configure-end-user-action.md) and [Configure response option for your DLP incidents](configure-response-option-mapping.md).
 
 -   If you want a specific MID server from the list then you have to configure the MID app and make it visible in the list, and then at least one MID server which is configured should be up and running from the selected mid applications and should have the Power Shell capability.
 -   For you to use the Release from quarantine option, you need API permissions. On the Microsoft API permissions page, verify **Office 365 Exchange Online** &gt; **Exchange.ManageAsApp** is listed and contains the following values:
@@ -65,5 +65,5 @@ The following procedure explains on how to submit this action from the DLP User 
     **Note:** When an approval rule is configured for this action, the approval flow will be triggered first and after receiving all the approvals, the Request email release from quarantine flow will be triggered and the email will be released from quarantine. The state of the DLP Incident will be updated to **Released from Quarantine** after successful release.
 
 
-**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](../concept/dlp-integration-microsoft.md)
+**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
 

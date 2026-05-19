@@ -67,5 +67,5 @@ To use your duplicated interaction, trigger it using one of these methods:
 -   From declarative action: Corresponding declarative actions are inactive by default and must be enabled to test.
 -   From UI Builder page event. See [Trigger a UI interaction from a page event](trigger-ui-interaction-from-page-event.md).
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](uib-ui-interactions.md)
 

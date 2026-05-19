@@ -15,5 +15,5 @@ breadcrumb: [Managing major incidents using Major Incident applet, ITSM Mobile A
 
 Initiate and manage the collaboration for the major incident records from the ITSM Mobile Agent app.
 
-You need to add the deep linking support for ITSM Mobile Agent on the Mobile studio. For more information on adding the deep linking support, refer [Add deep linking support to ITSM Mobile Agent](../task/deep-link-itsm-mobile-agent.md)
+You need to add the deep linking support for ITSM Mobile Agent on the Mobile studio. For more information on adding the deep linking support, refer [Add deep linking support to ITSM Mobile Agent](deep-link-itsm-mobile-agent.md)
 

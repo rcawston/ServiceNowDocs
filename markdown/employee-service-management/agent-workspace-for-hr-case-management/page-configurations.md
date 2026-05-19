@@ -27,6 +27,6 @@ Role required: admin
 
 3.  Personalize your page configurations![Page configurations](../image/page-config-aws.png).
 
-    For a description of the fields, see [Page Configurations reference](../reference/configuration-settings.md).
+    For a description of the fields, see [Page Configurations reference](configuration-settings.md).
 
 

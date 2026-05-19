@@ -34,7 +34,7 @@ Google Translate API version v3.
 
 ## Scope of the spoke in the Dynamic Translation framework
 
-To use Google Cloud Translator Service spoke in the Dynamic Translation framework, ensure that the spoke is installed in ServiceNow Store and the Dynamic Translation plugin is active. For more information, see [Dynamic Translation](../../dynamic-translation/concept/dynamic-translation-overview.md).
+To use Google Cloud Translator Service spoke in the Dynamic Translation framework, ensure that the spoke is installed in ServiceNow Store and the Dynamic Translation plugin is active. For more information, see [Dynamic Translation](dynamic-translation-overview.md).
 
 ## Spoke flows
 
@@ -67,10 +67,10 @@ The Google Cloud Translator Service spoke requires configuring your Google Cloud
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-This spoke uses the GoogleTranslation alias record \(sn\_google\_trans.GoogleTranslation\) to authorize actions. For information about setting up the spoke, see [Set up the Google Cloud Translator Service spoke](../task/setup-google-translator.md).
+This spoke uses the GoogleTranslation alias record \(sn\_google\_trans.GoogleTranslation\) to authorize actions. For information about setting up the spoke, see [Set up the Google Cloud Translator Service spoke](setup-google-translator.md).
 
--   **[Set up the Google Cloud Translator Service spoke](../task/setup-google-translator.md)**  
+-   **[Set up the Google Cloud Translator Service spoke](setup-google-translator.md)**  
 Integrate your Google account with your ServiceNow instance.
 
-**Parent Topic:**[Integration with other translation services](../../dynamic-translation/concept/integration-with-other-translation-services.md)
+**Parent Topic:**[Integration with other translation services](integration-with-other-translation-services.md)
 

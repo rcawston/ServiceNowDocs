@@ -112,5 +112,5 @@ If you cannot view the Instances screen after you tap the **ServiceNow Agent** a
 
 Select one of the following topics for more information about each applet.
 
-**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](../concept/mobile-policy_compliance-ovrvw.md)
+**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](mobile-policy_compliance-ovrvw.md)
 

@@ -54,7 +54,7 @@ Install and activate the Mappedin integration
 
 </td><td>
 
-Install and activate the Mappedin integration in order to use Workplace Space Mapping to manage imported data and customize the map. For more information, see [Install the Mappedin integration](../task/wsm-mappedin-activate.md)
+Install and activate the Mappedin integration in order to use Workplace Space Mapping to manage imported data and customize the map. For more information, see [Install the Mappedin integration](wsm-mappedin-activate.md)
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Enter credentials in Workplace Space Mapping
 
 </td><td>
 
-You must enter your Mappedin credentials in Workplace Space Mapping. For more [Maintain Workplace Service Delivery Mappedin credentials](../task/wsm-mappedin-credentials.md)
+You must enter your Mappedin credentials in Workplace Space Mapping. For more [Maintain Workplace Service Delivery Mappedin credentials](wsm-mappedin-credentials.md)
 
 </td></tr><tr><td>
 
@@ -73,9 +73,9 @@ Configure a connection in Workplace Space Mapping
 The base system provides a pre-configured connection to Mappedin.
 
 </td></tr></tbody>
-</table>-   **[Maintain Workplace Service Delivery Mappedin credentials](../task/wsm-mappedin-credentials.md)**  
+</table>-   **[Maintain Workplace Service Delivery Mappedin credentials](wsm-mappedin-credentials.md)**  
 To configure and work with Mappedin ensure that you have a valid login credential. Work with the Mappedin to obtain these credentials.
--   **[Customize the map properties](../task/wsm-configure-map-properties.md)**  
+-   **[Customize the map properties](wsm-configure-map-properties.md)**  
 Customize how your map renders in the Workplace Service Portal by configuring Workplace Space Mapping properties.
 
 **Parent Topic:**[Configuring Workplace Space Mapping](wsm-config_space_mapping.md)

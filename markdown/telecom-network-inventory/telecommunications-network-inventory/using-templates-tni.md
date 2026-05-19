@@ -23,7 +23,7 @@ A template includes the rules on how the equipment configurations should be gene
 
 -   **Inventory Template**
 
-    A network inventory template contains a set of detailed business guidance rules from a telecommunications provider. These rules state how the equipment configurations should be generated and are based on certain operating requirements. For example, based on the equipment model that you develop, you can create a template for use in densely populated metropolitan areas and then you can create another equipment model template for use in sparsely populated rural areas. To learn more about how to create an inventory template, see [Create an inventory template](../task/create-inventory-templates.md).
+    A network inventory template contains a set of detailed business guidance rules from a telecommunications provider. These rules state how the equipment configurations should be generated and are based on certain operating requirements. For example, based on the equipment model that you develop, you can create a template for use in densely populated metropolitan areas and then you can create another equipment model template for use in sparsely populated rural areas. To learn more about how to create an inventory template, see [Create an inventory template](create-inventory-templates.md).
 
     Inventory templates also have an internal attribute that shows if an entry in an inventory template list is a singular template or a template relationship. A template relationship designates that there’s a relationship between this template and another template. These associated templates appear in the Related Template tab in the Inventory template form. To learn more about the template relationship, see [Create inventory template relationship](creating-inventory-templates-telco-equipment.md).
 
@@ -34,7 +34,7 @@ A template includes the rules on how the equipment configurations should be gene
 
     You can define multiple default templates for a single CI, such as equipment, when there are multiple business requirements for capturing different sets of attribute default values. When you create a default template and you select a CI, you can also select an associated attribute of that CI and set a value for it.
 
-    To learn more about how to create a default template, see [Create a default template](../task/create-default-templates.md).
+    To learn more about how to create a default template, see [Create a default template](create-default-templates.md).
 
 
 ## Accessing the Network Inventory Template node

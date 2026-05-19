@@ -30,5 +30,5 @@ Role required: sn\_rtl\_instore\_ops.manager
     You can edit and save case details, or select **Close case** to close the case.
 
 
-**Parent Topic:**[Track In-store operations cases and tasks](../concept/rahi-retail-in-store-ops-track.md)
+**Parent Topic:**[Track In-store operations cases and tasks](rahi-retail-in-store-ops-track.md)
 

@@ -34,5 +34,5 @@ Role required: now\_assist\_explorer\_admin or higher
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Configure AI Data Explorer](../concept/configure-now-ass-explorer.md)
+**Parent Topic:**[Configure AI Data Explorer](configure-now-ass-explorer.md)
 

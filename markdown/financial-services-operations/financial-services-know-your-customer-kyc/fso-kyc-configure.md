@@ -17,7 +17,7 @@ Review the components that are installed with the Financial Services Know Your C
 
 ## Before you begin
 
-Financial Services Know Your Customer is automatically installed when you install certain Financial Services Operations applications. For more information, see [Components installed with Financial Services Know Your Customer](../reference/fso-kyc-installed-with.md).
+Financial Services Know Your Customer is automatically installed when you install certain Financial Services Operations applications. For more information, see [Components installed with Financial Services Know Your Customer](fso-kyc-installed-with.md).
 
 Role required: sn\_bom\_kyc.admin and admin
 
@@ -27,8 +27,8 @@ Role required: sn\_bom\_kyc.admin and admin
 
     |Task|Description|
     |----|-----------|
-    |**Configure service definitions**|[Configure service definitions](../../fso-common/task/configure-service-definitions.md) to enable specific views for KYC service cases and tasks.|
-    |**Configure record producers**|[Create or modify record producers](../../fso-common/task/create-modify-record-producers-fso-apps.md) to define request forms.|
-    |**Edit or create new flows**|[Edit or create new flows](../../fso-common/task/configure-flow-designer-flows-fso-apps.md) using ServiceNow® Workflow Studio.|
+    |**Configure service definitions**|[Configure service definitions](../configure-service-definitions.md) to enable specific views for KYC service cases and tasks.|
+    |**Configure record producers**|[Create or modify record producers](../create-modify-record-producers-fso-apps.md) to define request forms.|
+    |**Edit or create new flows**|[Edit or create new flows](../configure-flow-designer-flows-fso-apps.md) using ServiceNow® Workflow Studio.|
 
 

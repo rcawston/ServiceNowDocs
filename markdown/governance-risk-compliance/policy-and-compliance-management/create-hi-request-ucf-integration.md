@@ -104,5 +104,5 @@ Select your answer.
     Customer Service and Support initiates the OAuth integration process and contacts the requester with the integration information.
 
 
-**Parent Topic:**[Integrate with UCF Common Controls Hub to manage compliance frameworks](../concept/c_UCF.md)
+**Parent Topic:**[Integrate with UCF Common Controls Hub to manage compliance frameworks](c_UCF.md)
 

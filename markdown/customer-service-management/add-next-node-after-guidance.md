@@ -24,7 +24,7 @@ You can only add a decision node after a guidance node.
 -   You can add an intermediate decision node to add another guidance node.
 -   You can configure a linking node after this decision node to link another decision tree.
 
-You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](../concept/decision-trees-in-gdb.md).
+You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](decision-trees-in-gdb.md).
 
 ## Procedure
 

@@ -203,5 +203,5 @@ Any internal notes regarding this engagement.
 
 After you have created the engagement, you can create objectives, outcomes, touchpoints, and risk signals for the customer account associated with this engagement.
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](account-lifecycle-basic-config.md)
 

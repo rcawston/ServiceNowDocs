@@ -31,10 +31,10 @@ When creating a module access policy that is set to the script type, there is an
 
 ## Configure script access to encrypted data
 
-Execute a script to run the cryptographic module policy for a cryptographic purpose. Specific read \(decrypt/unwrap\) or write \(encrypt, wrap\) access can be defined based on the module access policy operation granularity. See [Configure script access to encrypted data](../task/configure-script-encryption.md).
+Execute a script to run the cryptographic module policy for a cryptographic purpose. Specific read \(decrypt/unwrap\) or write \(encrypt, wrap\) access can be defined based on the module access policy operation granularity. See [Configure script access to encrypted data](configure-script-encryption.md).
 
--   **[Configure script access to encrypted data](../task/configure-script-encryption.md)**  
+-   **[Configure script access to encrypted data](configure-script-encryption.md)**  
 Execute a script to run the cryptographic module policy for a cryptographic purpose. Specific read \(decrypt/unwrap\) or write \(encrypt, wrap\) access can be defined based on the module access policy operation granularity.
 
-**Parent Topic:**[Encrypting fields and attachments](../../encryption/concept/field-encryption-key-management.md)
+**Parent Topic:**[Encrypting fields and attachments](field-encryption-key-management.md)
 

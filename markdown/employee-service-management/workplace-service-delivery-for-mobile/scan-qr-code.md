@@ -44,7 +44,7 @@ Role required: sn\_wsd\_core.workplace\_user
         -   Suggestion for available reservation time slots is displayed in horizontal blocks with a scroll bar.
         -   To view the time slots in a vertical list, select **View all**.
 
-            The time slot duration is dependent on the **Max duration**and **Min duration** values configured by your administrator in the Reservable Module configuration. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+            The time slot duration is dependent on the **Max duration**and **Min duration** values configured by your administrator in the Reservable Module configuration. For more information, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
             The time displayed in the time slot considers the Start time of the working day \(sn\_wsd\_rsv.day\_start\) and End time of the working day \(sn\_wsd\_rsv.day\_end\) properties set by your administrator. If office hours are from 9 AM to 5 PM, then all the available reservation slots between 9 to 5 are divided into 2-hour intervals \(based on the values that you’ve provided for Max and Min duration\). However, if there are any existing reservations, then these aren’t displayed. Only available time slots for a reservation are displayed. If the available slot for a reservation is from 9 AM to 12 PM, and the maximum duration for a meeting is two hours, then 9–11 is the first time slot and 11–12 is the next time slot.
 
@@ -99,7 +99,7 @@ Role required: sn\_wsd\_core.workplace\_user
     2.  To edit the reservation, tap **Edit reservation**.
 
 
-**Parent Topic:**[Using Workplace Service Delivery for Mobile](../concept/using-wsd-mobile.md)
+**Parent Topic:**[Using Workplace Service Delivery for Mobile](using-wsd-mobile.md)
 
 **Previous topic:**[Share your reservation details with other users](share-rsv-details.md)
 

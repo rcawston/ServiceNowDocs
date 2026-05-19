@@ -18,19 +18,19 @@ Generate and export Platform Analytics artifacts from conversational interaction
 
 <table id="table_yj4_1lk_12c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about how you can work with Platform Analytics in the Now Assist panel](../concept/exploring-analytics-assist.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about how you can work with Platform Analytics in the Now Assist panel](exploring-analytics-assist.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable visualization generation and export skills for an instance](../concept/configuring-now-ass-skills-pa.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable visualization generation and export skills for an instance](configuring-now-ass-skills-pa.md)
 
 </td><td>
 
-[Generate data visualizations![](../../../reuse/icons/brand-icons/bus-app-creator.svg)How to create data visualizations conversationally in the Now Assist panel](../task/use-dv-generation.md)
+[Generate data visualizations![](../../../reuse/icons/brand-icons/bus-app-creator.svg)How to create data visualizations conversationally in the Now Assist panel](use-dv-generation.md)
 
 </td></tr><tr><td>
 
-[Export dashboards and data visualizations![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use AI to export dashboards and data visualizations conversationally in the Now Assist panel](../task/export-db-dv-now-assist-panel.md)
+[Export dashboards and data visualizations![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use AI to export dashboards and data visualizations conversationally in the Now Assist panel](export-db-dv-now-assist-panel.md)
 
 </td><td>
 
@@ -62,16 +62,16 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
--   **[Explore generating or exporting dashboards and visualizations in the Now Assist panel](../concept/exploring-analytics-assist.md)**  
+-   **[Explore generating or exporting dashboards and visualizations in the Now Assist panel](exploring-analytics-assist.md)**  
 Generate and export Platform Analytics artifacts from conversational interactions. For example, ask for information about the number of open incidents and get a single-score data visualization. Then export that visualization as a PDF file, all in the Now Assist panel.
--   **[Configuring Now Assist panel skills for Platform Analytics](../concept/configuring-now-ass-skills-pa.md)**  
+-   **[Configuring Now Assist panel skills for Platform Analytics](configuring-now-ass-skills-pa.md)**  
 Activate the skills for generating and exporting Platform Analytics dashboards and data visualizations from conversations in the Now Assist panel.
--   **[Generate visualizations in the Now Assist panel](../task/use-dv-generation.md)**  
+-   **[Generate visualizations in the Now Assist panel](use-dv-generation.md)**  
 Request generative AI to create a visualization of data that you want to see. If you are on a dashboard that you can edit, you can add the visualization to that dashboard.
--   **[Export dashboards and data visualizations from the Now Assist panel](../task/export-db-dv-now-assist-panel.md)**  
+-   **[Export dashboards and data visualizations from the Now Assist panel](export-db-dv-now-assist-panel.md)**  
 Export or schedule the export of dashboards and data visualizations conversationally through AI instead of going through the Platform Analytics user interface.
 -   **[Reference for dashboard and visualization skills](analgen-reference.md)**  
 Information about the roles, tables, and scheduled jobs included with the data visualization generation and dashboard and visualization export skills.
 
-**Parent Topic:**[Now Assist in Platform Analytics](../../performance-analytics/concept/now-assist-platform-analytics.md)
+**Parent Topic:**[Now Assist in Platform Analytics](now-assist-platform-analytics.md)
 

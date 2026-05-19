@@ -91,5 +91,5 @@ The **Usage** section displays the total number of executions for each AI asset 
     This area of the dashboard displays a trend line chart showing the total executions for skills, assistants, and AI agents over the selected time range. Use the trend lines to compare usage volumes across asset types and monitor changes in execution patterns over time.
 
 
-**Parent Topic:**[View AI assets usage and performance in Now Assist Center](../task/now-assist-center-view-ai-usage.md)
+**Parent Topic:**[View AI assets usage and performance in Now Assist Center](now-assist-center-view-ai-usage.md)
 

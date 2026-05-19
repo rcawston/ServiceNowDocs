@@ -24,7 +24,7 @@ In this flow, the following occurs:
 3.  During the onboarding process, the playbook automatically creates the risk and tiering assessments. The assessment records are listed in the **Risk Assessments** and **Tiering Assessments** tabs.
 4.  The supplier manager assigns the risk and tiering assessments to the third-party risk assessor.
 5.  The TPR assessor assigns the assessments to the supplier contact.
-6.  The supplier contact logs in to the Supplier Collaboration Portal and completes the risk and tiering assessments. For more information, see [Complete a risk assessment from the Supplier Collaboration Portal](../task/complete-risk-assessments.md).
+6.  The supplier contact logs in to the Supplier Collaboration Portal and completes the risk and tiering assessments. For more information, see [Complete a risk assessment from the Supplier Collaboration Portal](complete-risk-assessments.md).
 7.  After the risk assessment has been completed, the supplier manager evaluates the risk information in combination with any other data and determines whether to continue or cancel the onboarding process.
 
     After the assessments are completed, you can continue with completing the activities in the Activation stage.

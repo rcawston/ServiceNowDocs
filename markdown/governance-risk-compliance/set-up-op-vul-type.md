@@ -31,7 +31,7 @@ Administrators of Operational Resilience can create only one Vulnerability Type 
 
     ![Vulnerability Type record.](../image/vul-type.png)![Assessment.](../image/vul-type-asmt-config.png)![Template.](../image/vul-type-temp-config.png)
 
-    For more information on the fields, see [Vulnerability Type form](../reference/vul-type-form.md).
+    For more information on the fields, see [Vulnerability Type form](vul-type-form.md).
 
 3.  Select the Smart Assessment template for the vulnerability type.
 

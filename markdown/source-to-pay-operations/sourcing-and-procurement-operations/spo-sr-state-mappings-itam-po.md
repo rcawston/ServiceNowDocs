@@ -25,7 +25,7 @@ State alignment between SPO SR records and ITAM PO follows the mappings in this 
 |SR|Closed No Decision|Closed Cancel|
 |SR|Any other state|Requested|
 
-**Parent Topic:**[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+**Parent Topic:**[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
 **Related topics**  
 

@@ -23,14 +23,14 @@ The Major Security Incident Management \(MSIM\) UI actions are displayed on the 
 
 ![MSI integration](../image/msi-records.png)
 
--   **[Propose as Major Security Incident](../task/propose-to-major-security-incident.md)**  
+-   **[Propose as Major Security Incident](propose-to-major-security-incident.md)**  
 Propose a security incident as a Major Security Incident \(MSI\).
--   **[Promote to Major Security Incident](../task/promote-to-major-security-incident.md)**  
+-   **[Promote to Major Security Incident](promote-to-major-security-incident.md)**  
 Promote a security incident to major security incident.
--   **[Link to Major Security Incident](../task/link-to-major-security-incident.md)**  
+-   **[Link to Major Security Incident](link-to-major-security-incident.md)**  
 Link a security incident to a major security incident as child security incident\(s\).
 
-**Parent Topic:**[Using SIR Workspace](../reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](using-sir-workspace.md)
 
 **Related topics**  
 
@@ -39,17 +39,17 @@ Link a security incident to a major security incident as child security incident
 
 [Security Incident Playbook](security-incident-playbook.md#)
 
-[Prerequisites for the Playbooks](../../playbook-migration-guide/concept/getting-started-with-processes.md)
+[Prerequisites for the Playbooks](getting-started-with-processes.md)
 
-[Rebuilding existing playbooks in Workflow Studio](../../playbook-migration-guide/concept/rebuilding-existing-playbooks-on-pad.md)
+[Rebuilding existing playbooks in Workflow Studio](rebuilding-existing-playbooks-on-pad.md)
 
-[Activity Definitions](../../playbook-migration-guide/concept/build-activities.md)
+[Activity Definitions](build-activities.md)
 
-[Sample Playbooks for SIR Workspace](../../playbook-migration-guide/concept/sir-workspace-playbooks.md)
+[Sample Playbooks for SIR Workspace](sir-workspace-playbooks.md)
 
 [Working with Form UI actions](enable_workspace_form_ui_actions.md)
 
 [Security Incident Closure workflow](security-incident-closure-workflow_0.md)
 
-[Handle security incidents using Advanced Work Assignment](../task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](handle-incidents-using-awa.md)
 

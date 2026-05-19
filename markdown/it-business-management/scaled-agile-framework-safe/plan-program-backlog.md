@@ -96,5 +96,5 @@ Use the keyboard to move and arrange SAFe features in the **Backlog** tab of the
 -   **[Arrange multiple features in the SAFe Board using the keyboard](arrange-multiple-features-in-the-safe-board-using-the-keyboard-.md)**  
 Use the keyboard to move and arrange multiple SAFe features in the **Backlog** tab of your SAFe Board.
 
-**Parent Topic:**[SAFe Board — ART level](../concept/program-level-tabs.md)
+**Parent Topic:**[SAFe Board — ART level](program-level-tabs.md)
 

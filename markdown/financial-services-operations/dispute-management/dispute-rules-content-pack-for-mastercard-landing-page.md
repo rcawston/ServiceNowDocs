@@ -28,7 +28,7 @@ The Dispute Rules Content Pack for Mastercard application can help you do the fo
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration](../task/configuring-the-dispute-rules-content-pack-for-mastercard.md#)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration](configuring-the-dispute-rules-content-pack-for-mastercard.md#)
 
 </td></tr><tr><td>
 
@@ -53,14 +53,14 @@ Before you can use Dispute Rules Content Pack for Mastercard, you must first dow
 
 -   **[Exploring Dispute Rules Content Pack for Mastercard](exploring-the-dispute-rules-content-pack-for-mastercard.md)**  
 Learn how the Dispute Rules Content Pack for Mastercard application uses dispute mapping to ensure that your organization can properly categorize and process disputes.
--   **[Install the Dispute Rules Content Pack for Mastercard](../task/install-the-dispute-rules-content-pack-for-mastercard.md)**  
+-   **[Install the Dispute Rules Content Pack for Mastercard](install-the-dispute-rules-content-pack-for-mastercard.md)**  
 If you have the admin role, you can install the Dispute Rules Content Pack for Mastercard application.
--   **[Setting up Dispute Rules Content Pack for Mastercard](../task/configuring-the-dispute-rules-content-pack-for-mastercard.md#)**  
+-   **[Setting up Dispute Rules Content Pack for Mastercard](configuring-the-dispute-rules-content-pack-for-mastercard.md#)**  
 You can set up your implementation of the Dispute Rules Content Pack for Mastercard application by installing the application from the ServiceNow Store.
 -   **[Using the Dispute Rules Content Pack for Mastercard](using-the-dispute-rules-content-pack-for-mastercard.md)**  
 By using the Dispute Rules Content Pack for Mastercard's questionnaire, your agents can help customers complete the reason code mapping for their disputes. This mapping enables the agents to categorize the dispute and determine the chargeback eligibility according to the Mastercard Chargeback Guide.
 -   **[Dispute Rules Content Pack for Mastercard reference](dispute-rules-content-pack-for-mastercard-reference.md)**  
 Learn about the components and properties that are installed with the Dispute Rules Content Pack for Mastercard application.
 
-**Parent Topic:**[Dispute Management](../../fso-card-operations/concept/dispute-management.md)
+**Parent Topic:**[Dispute Management](dispute-management.md)
 

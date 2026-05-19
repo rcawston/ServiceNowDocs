@@ -56,5 +56,5 @@ Major Security Incident Management persona contains sn\_msi.linkedsivi\_read rol
 6.  Verify that the roles are added successfully to the **Contains Roles** related list section.
 
 
-**Parent Topic:**[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+**Parent Topic:**[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
 

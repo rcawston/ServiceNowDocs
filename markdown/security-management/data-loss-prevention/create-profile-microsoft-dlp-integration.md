@@ -87,7 +87,7 @@ Unique description for the profile.
 
 To move to the Filtering section,  click **Continue**.
 
--   **[Microsoft purview endpoint storage configuration](../concept/microsoft-purview-endpoint.md)**  
+-   **[Microsoft purview endpoint storage configuration](microsoft-purview-endpoint.md)**  
 Microsoft Purview endpoint evidence files storage configuration tells you where the endpoint evidence files are being stored by the purview- Custom managed store or Microsoft managed storage environments.
 -   **[Define filters to apply for the Incident creation](define-filters-profile-microsoft.md)**  
 Define and set filter conditions to filter the incoming  Microsoft DLP  events. Control which of these events should be created as DLP IR incidents on your ServiceNow instance.
@@ -96,5 +96,5 @@ Provide the configuration to store the sensitive information internally, on the 
 -   **[Schedule the DLP IR Microsoft incident retrieval](schedule-profile-microsoft.md)**  
 Set a schedule to retrieve the incident data and ingest Microsoft DLP IR incidents that match the criteria in the profile. Configure the schedule to define how and when you pull incidents from Microsoft.
 
-**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](../concept/dlp-integration-microsoft.md)
+**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
 

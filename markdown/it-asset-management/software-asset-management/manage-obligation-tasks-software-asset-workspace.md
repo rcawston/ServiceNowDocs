@@ -28,9 +28,9 @@ An obligation record can have the following types of obligation tasks:
     The obligation task is required at regular intervals to fulfill the contract obligations. Recurring obligation tasks are automatically created based on the defined schedule.
 
 
--   **[Create an obligation record in the Software Asset Workspace](../task/create-obligation-record-sam.md)**  
+-   **[Create an obligation record in the Software Asset Workspace](create-obligation-record-sam.md)**  
 Create obligation records for signed contracts in Software Asset Workspace to fulfill the responsibilities specified in the contract through obligation tasks.
--   **[Create an ad hoc obligation task in Software Asset Workspace](../task/create-adhoc-obligation-task-sam.md)**  
+-   **[Create an ad hoc obligation task in Software Asset Workspace](create-adhoc-obligation-task-sam.md)**  
 Create an obligation task required only once or at irregular intervals to track and fulfill an obligation specified in a contract.
 
 **Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)

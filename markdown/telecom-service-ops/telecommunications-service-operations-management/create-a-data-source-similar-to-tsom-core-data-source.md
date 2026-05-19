@@ -86,7 +86,7 @@ After the data source is created and tested:
 **Related topics**  
 
 
-[Standardized JSON common data set to support all service graph connectors](../concept/overview-of-standardized-json-common-data-set.md)
+[Standardized JSON common data set to support all service graph connectors](overview-of-standardized-json-common-data-set.md)
 
 [Duplicate the Telecom Discovery Builder framework ETL into a connector scope](duplicate-the-generic-etl-to-use-a-specific-connector.md)
 

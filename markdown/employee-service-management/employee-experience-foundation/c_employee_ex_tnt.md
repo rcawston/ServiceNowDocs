@@ -15,21 +15,21 @@ breadcrumb: [Setup for integrating pre-published apps, Setup the Servicenow inst
 
 Set up pre-published apps to integrate with IT, HR, and Universal Request through Microsoft Teams. Employees can interact with the agents from within Microsoft Teams to resolve their issues.
 
--   **[Connect your ServiceNow instance to your Microsoft Teams tenant](../task/connect-sn-instance-ms-teams-mt.md)**  
+-   **[Connect your ServiceNow instance to your Microsoft Teams tenant](connect-sn-instance-ms-teams-mt.md)**  
 Connect your ServiceNow instance to your Microsoft Teams tenant to enable users to create their requests from within Microsoft Teams.
--   **[Grant permissions to required Microsoft Azure apps](../task/authorize-multi-tenant-apps-mt.md)**  
+-   **[Grant permissions to required Microsoft Azure apps](authorize-multi-tenant-apps-mt.md)**  
 Authorize the required pre-published apps to enable your ServiceNow instance to make API calls to Microsoft Azure to enable ServiceNow for Teams application workflows.
--   **[Enable connecting to meetings from Microsoft Teams](../task/create-oauth-oidc-record.md)**  
+-   **[Enable connecting to meetings from Microsoft Teams](create-oauth-oidc-record.md)**  
 Create the OIDC provider configuration record that enables users to connect to meetings in the Microsoft Teams application.
--   **[Change tenant to configure pre-published apps](../task/change-tenant.md#)**  
+-   **[Change tenant to configure pre-published apps](change-tenant.md#)**  
 Change the tenant to use pre-published apps in your environment.
--   **[Create and download the manifest file for pre-published apps](../task/download-manifest-file-mt.md)**  
+-   **[Create and download the manifest file for pre-published apps](download-manifest-file-mt.md)**  
 Create and download the ServiceNow for Microsoft Teams manifest file from your instance to enable Microsoft Teams to use the ServiceNow for Teams app.
--   **[Upload manifest file in Microsoft Teams](../task/upload-manifest-ms-teams.md)**  
+-   **[Upload manifest file in Microsoft Teams](upload-manifest-ms-teams.md)**  
 Upload the manifest file in Microsoft Teams to integrate Microsoft Teams with your ServiceNow instance.
--   **[Update the app ID in the ServiceNow instance](../task/update-app-id-instance-mt.md)**  
+-   **[Update the app ID in the ServiceNow instance](update-app-id-instance-mt.md)**  
 Update the ServiceNow for Teams app ID from the Microsoft Teams admin center in your ServiceNow instance.
--   **[Disable the Now Virtual Agent](../task/disable-now-virtual-agent-ms-teams.md)**  
+-   **[Disable the Now Virtual Agent](disable-now-virtual-agent-ms-teams.md)**  
 Disable the Now Virtual Agent app to avoid duplicate notifications from Microsoft Teams when you install and integrate ServiceNow for Microsoft Teams with your ServiceNow instance.
 -   **[Translate the Microsoft Teams manifest file](localize-manifest-file.md)**  
 ServiceNow for Microsoft Teams supports localization to multiple languages, using UTF-8 for international characters.

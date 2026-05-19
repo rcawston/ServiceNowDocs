@@ -78,7 +78,7 @@ The confidence level indicates the likelihood of this connection being part of t
 
 If the confidence level appears as **N/A**, wait until the application fingerprints training is complete. See the [Application fingerprint training status report](readiness-dashboard-ml.md).
 
- Confidence level is available only if fingerprint based discovery is enabled. See [Discover applications based on fingerprints](../../discovery/task/discover-application-based-process.md) for more information.
+ Confidence level is available only if fingerprint based discovery is enabled. See [Discover applications based on fingerprints](../discovery/discover-application-based-process.md) for more information.
 
 </td></tr><tr><td>
 
@@ -131,9 +131,9 @@ The timestamp of when this connection last changed.
 **Related topics**  
 
 
-[Discovery based on Predictive Intelligence](../concept/predictive-intelligence-discovery.md)
+[Discovery based on Predictive Intelligence](predictive-intelligence-discovery.md)
 
-[Add or remove CIs for single application services using connection suggestions](../task/add-remove-ci-connections-services.md)
+[Add or remove CIs for single application services using connection suggestions](add-remove-ci-connections-services.md)
 
-[Add or remove CIs for multiple application services using connection suggestions](../task/manipulate-connections-suggestions-in-bulk.md)
+[Add or remove CIs for multiple application services using connection suggestions](manipulate-connections-suggestions-in-bulk.md)
 

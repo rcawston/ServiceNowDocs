@@ -32,7 +32,7 @@ Role required: model\_manager
     |Name|The name of the item is built from information in the **Product Model**, **Vendor**, and **Product ID** fields.|
     |Vendor|The supplier that provides the item.|
     |Product model|The specific version or configuration of the item.|
-    |Out of stock|The option that indicates whether the item is unavailable for order. This field is important if you are [sourcing request items](../../procurement/concept/c_SourcingRequestItems.md). Clear this check box if the item is available to order.|
+    |Out of stock|The option that indicates whether the item is unavailable for order. This field is important if you are [sourcing request items](../procurement/c_SourcingRequestItems.md). Clear this check box if the item is available to order.|
     |Product ID|The item identification number assigned by your organization.|
     |List price|The price at which the item retails, excluding vendor discounts.|
     |Vendor price|The price at which the item is available in the vendor catalog. If the vendor offers a discount, the vendor price reflects the discounted price.|
@@ -59,12 +59,12 @@ After you create a hardware item for the vendor catalog, publish it to the hardw
 -   **[Publish an item to the software catalog](t_PublishAnItemToTheSoftwareCatalog.md)**  
 After you create a software item for the vendor catalog, publish it to the software catalog for viewing. The software catalog is a section within the service catalog.
 
-**Parent Topic:**[Vendor catalog items](../concept/c_ManageVendorCatalogItems.md)
+**Parent Topic:**[Vendor catalog items](c_ManageVendorCatalogItems.md)
 
 **Related topics**  
 
 
-[Synchronize information](../concept/c_SynchronizeInformation.md)
+[Synchronize information](c_SynchronizeInformation.md)
 
 [View a vendor list](t_ViewAVendorList.md)
 

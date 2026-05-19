@@ -62,13 +62,13 @@ Create financial baseline window appears with the Name field is auto-populated w
 
 1.  Select the **Baselines** \(![Baselines tab.](../images/fin-baselines-tab.png)\) tab to view the list of existing baselines.
 2.  Select any two baselines and select the **Compare baselines** \(![Compare baselines button.](../images/fin-compare-baselines-button.png)\) button.
- Comparison view of the selected baselines is displayed. For more details, see [Using baseline comparison view.](../concept/using-financials-spw.md#section_bkp_g2l_2zb)
+ Comparison view of the selected baselines is displayed. For more details, see [Using baseline comparison view.](using-financials-spw.md#section_bkp_g2l_2zb)
 
 </td></tr></tbody>
 </table>    **Tip:** You can migrate existing financials baselines of your projects or demands from Classic UI to Financials in Next Experience.
 
-    For more information on how to migrate financial baselines of demands, see [Migrate financial baselines of demands to Next Experience](../../planning-and-policy/task/migrate-fin-baselines-demands.md).
+    For more information on how to migrate financial baselines of demands, see [Migrate financial baselines of demands to Next Experience](../demand-management/migrate-fin-baselines-demands.md).
 
-    For more information on how to migrate financial baselines of projects, see [Migrate financial baselines of projects to Next Experience](../../project-management/task/migrate-fin-baselines-projects.md).
+    For more information on how to migrate financial baselines of projects, see [Migrate financial baselines of projects to Next Experience](../project-management/migrate-fin-baselines-projects.md).
 
 

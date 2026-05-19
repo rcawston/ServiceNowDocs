@@ -37,7 +37,7 @@ The Problem Management form references the following CSDM elements \(attributes 
 
 ![Problem Management form with numbered fields.](../image/prob-mang-form.png "Problem form")
 
--   **[Problem Management and CSDM tables](../reference/pm-use-case.md)**  
+-   **[Problem Management and CSDM tables](pm-use-case.md)**  
 Problem Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Problem Management.
 -   **[Problem Management use case](pm-use-case-example.md)**  
 The Problem Management use case is described in this section.
@@ -46,7 +46,7 @@ Consider these points while implementing the CSDM framework.
 
 **Parent Topic:**[Configuring Problem Management](configuring-problem-mgmt.md)
 
-**Previous topic:**[Create a problem task model](../task/create-problem-task-model.md)
+**Previous topic:**[Create a problem task model](create-problem-task-model.md)
 
-**Next topic:**[Problem Management and CSDM tables](../reference/pm-use-case.md)
+**Next topic:**[Problem Management and CSDM tables](pm-use-case.md)
 

@@ -20,5 +20,5 @@ Several types of components are installed with activation of the HR Service Deli
 -   **[Default entities](default-ent-magnit.md)**  
 Default entities are available to use on activating HR Service Delivery Integration with Magnit application.
 
-**Parent Topic:**[HR Service Delivery Integration with Magnit](../concept/hr-magnit-int.md)
+**Parent Topic:**[HR Service Delivery Integration with Magnit](hr-magnit-int.md)
 

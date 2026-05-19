@@ -64,5 +64,5 @@ Copies the details of an existing active story to a new story. The tests and tas
 |Dependent Stories|Lists the stories that depend on the current story. Click **Edit** to add dependent stories.|
 |Tests|Lists the tests that are used for the story. Add existing tests to the story.|
 
-**Parent Topic:**[Define a story in SAFe](../task/create-SAFestory.md)
+**Parent Topic:**[Define a story in SAFe](create-SAFestory.md)
 

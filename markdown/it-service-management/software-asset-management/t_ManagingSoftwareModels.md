@@ -402,33 +402,33 @@ An image of the software logo.
 </table>    Any software licenses you create and assign to the new model are displayed in the **Licenses** embedded list on the Software Model form.
 
 
--   **[Create and manage software suites using the legacy Software Asset Management plugin](../concept/c_CreateAndManageSWSuite.md)**  
+-   **[Create and manage software suites using the legacy Software Asset Management plugin](c_CreateAndManageSWSuite.md)**  
 Software uses the concept of suites instead of bundles.
 
-**Parent Topic:**[Legacy Software Asset Management plugin](../concept/c_SoftwareAssetManagement.md)
+**Parent Topic:**[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
 
 **Related topics**  
 
 
-[Legacy Software Asset Management plugin Overview module](../concept/c_SWAssetMgmtOverviewMod.md)
+[Legacy Software Asset Management plugin Overview module](c_SWAssetMgmtOverviewMod.md)
 
-[Legacy Software Asset Management plugin setup process](../concept/c_SetupProcess.md)
+[Legacy Software Asset Management plugin setup process](c_SetupProcess.md)
 
-[Determine where software is installed using the legacy Software Asset Management plugin](../concept/c_DeterminWhereSWInstalled.md)
+[Determine where software is installed using the legacy Software Asset Management plugin](c_DeterminWhereSWInstalled.md)
 
-[Software licenses in the legacy Software Asset Management plugin](../concept/c_SoftwareLicenses.md)
+[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 
-[License calculations with the legacy Software Asset Management plugin](../concept/c_UseLicenseCalculations.md)
+[License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 
-[Software discovery models in the legacy Software Asset Management plugin](../concept/c_UsingSoftwareDiscoveryModels.md)
+[Software discovery models in the legacy Software Asset Management plugin](c_UsingSoftwareDiscoveryModels.md)
 
-[Legacy Software License Compliance Checker](../concept/c_SoftwareLicenseComplianceChecker.md)
+[Legacy Software License Compliance Checker](c_SoftwareLicenseComplianceChecker.md)
 
-[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
 
-[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
 
-[Software contracts for the legacy Software Asset Management plugin](../concept/c_SoftwareContracts.md)
+[Software contracts for the legacy Software Asset Management plugin](c_SoftwareContracts.md)
 
-[Legacy Oracle process pack](../concept/c_OracleProcessPack.md)
+[Legacy Oracle process pack](c_OracleProcessPack.md)
 

@@ -48,5 +48,5 @@ Use the **Create Proxy** option to add or modify some functionalities of an alre
     ![DayOfWeek as Saturday in the DateTime component.](../image/data-proxy-dayofweek.png "DayOfWeek as Saturday in the DateTime component")
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

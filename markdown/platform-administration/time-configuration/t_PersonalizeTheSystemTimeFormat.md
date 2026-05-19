@@ -17,7 +17,7 @@ You can personalize the format in which time values appear in your instance.
 
 ## Before you begin
 
-An administrator must add the **Time format** field to the Self-Service view of the User form. For more information, see [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#).
+An administrator must add the **Time format** field to the Self-Service view of the User form. For more information, see [Configuring the form layout](../configure-form-layout.md#).
 
 Role required: Admin
 
@@ -34,7 +34,7 @@ Personalizing the time format does not change global settings or impact the way 
 3.  Select **Update**.
 
 
-**Parent Topic:**[Global date and time field format](../reference/r_FormatDateAndTimeFields.md)
+**Parent Topic:**[Global date and time field format](r_FormatDateAndTimeFields.md)
 
 **Related topics**  
 

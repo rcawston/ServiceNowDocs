@@ -15,7 +15,7 @@ Commercial Lines Servicing contains preconfigured dashboards with actionable dat
 
 Use the Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
-The [Commercial Lines Servicing dashboard](../../../use/dashboards/application-content-packs/commercial-lines-servicing-dashboard.md) is available for Commercial Lines Servicing.
+The [Commercial Lines Servicing dashboard](commercial-lines-servicing-dashboard.md) is available for Commercial Lines Servicing.
 
 **Parent Topic:**[Commercial Lines Servicing](fso-ins-commercial-policy-ops-landing-page.md)
 

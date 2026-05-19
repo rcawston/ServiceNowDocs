@@ -137,5 +137,5 @@ Opens a list of existing assessment that you can select and edit.
 </table>    Unlike other types of assessments, risk assessments do not appear in the **Self-Service** &gt; **My assessments &amp; surveys** module, because hundreds of control attestations could be generated at once. Instead,risk assessments are shown as a list in the **Risk** &gt; **Risk Register** &gt; **My Assessments** and **Risk** &gt; **Risk Register** &gt; **All Assessments** module.
 
 
-**Parent Topic:**[Assess risks](../concept/assess-risk-old-way.md)
+**Parent Topic:**[Assess risks](assess-risk-old-way.md)
 

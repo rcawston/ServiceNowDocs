@@ -44,5 +44,5 @@ If there are no people in the approval group, the flow will skip past the approv
     The request is approved by a user with the itil role in the badge reader approvers group. If there is no badge reader approvers group or the group is empty, then the badge reader is activated when a user with the sn\_badge.badge\_admin role requests activation.
 
 
-**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](../concept/walkup-badge-read-integ-config.md)
+**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](walkup-badge-read-integ-config.md)
 

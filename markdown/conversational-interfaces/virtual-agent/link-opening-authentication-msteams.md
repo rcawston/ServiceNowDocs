@@ -70,7 +70,7 @@ To configure smart links to open in a pop-up or Microsoft Teams tab, admins must
     You receive a confirmation that your app ID has been saved successfully. You notice that the status of against SSO is green.
 
 
--   **[Configuring smart links in Microsoft Teams](../concept/va-teams-sso.md)**  
+-   **[Configuring smart links in Microsoft Teams](va-teams-sso.md)**  
 Configure smart links for your Virtual Agent app in Microsoft Teams to enable different link opening experiences.
 
 **Parent Topic:**[Configure Virtual Agent for Microsoft Teams](configure-va-msteams-settings.md)

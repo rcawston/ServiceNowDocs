@@ -34,20 +34,20 @@ A rack contains rack units represented as slots having shelves, and equipment in
 
 4.  On the Equipment Holder form, fill in the fields.
 
-    To learn more, see [Equipment Holder form](../reference/tni-equipment-holder-form-configuration.md).
+    To learn more, see [Equipment Holder form](tni-equipment-holder-form-configuration.md).
 
 5.  Select **Set Inventory Attributes**.
 
 6.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 7.  Select **Save**.
 
 
 ## Result
 
-A rack record is created and related tabs are created. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+A rack record is created and related tabs are created. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 ## What to do next
 
@@ -56,5 +56,5 @@ See [Optimizing rack and cabinet usage](subsequent-actions.md) to learn about th
 -   **[Edit rack](edit-rack.md)**  
 Edit a rack to remove, add, or move the equipment from the selected rack. Organize and upgrade the components within the rack using the Telecommunications Network Inventory application.
 
-**Parent Topic:**[Create and maintain racks and cabinets](../concept/create-and-maintain-rack-and-cabinet.md)
+**Parent Topic:**[Create and maintain racks and cabinets](create-and-maintain-rack-and-cabinet.md)
 

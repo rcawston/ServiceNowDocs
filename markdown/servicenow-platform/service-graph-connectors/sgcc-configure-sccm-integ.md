@@ -27,7 +27,7 @@ To access Microsoft SCCM data, you must have appropriate access to the Microsoft
     2.  Choose the Microsoft SCCM database that ServiceNow data sources will connect to.
     3.  Assign the db\_datareader role membership to the Microsoft SCCM user.
 
-Air gap connections are available from version 3.7.0 of the Service Graph Connector for Microsoft SCCM. You can add either standard data sources or air gap data sources. Before you set up air gap data sources, you must configure the air gap solution for the Service Graph Connector for Microsoft SCCM in your high-secure server and low-secure server. See [Configuring air gap connections for Microsoft SCCM](../../configuration-management/concept/sgc-sccm-airgap.md).
+Air gap connections are available from version 3.7.0 of the Service Graph Connector for Microsoft SCCM. You can add either standard data sources or air gap data sources. Before you set up air gap data sources, you must configure the air gap solution for the Service Graph Connector for Microsoft SCCM in your high-secure server and low-secure server. See [Configuring air gap connections for Microsoft SCCM](sgc-sccm-airgap.md).
 
 Role required: The following table shows the roles required for each stage of the playbook.
 
@@ -36,11 +36,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -56,7 +56,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](../sgcc-first-time-setup.md).
 
 5.  Select an air gap template ora template that matches the credentials for establishing a Java Database Connectivity \(JDBC\) connection to the SCCM database.
 
@@ -68,7 +68,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
             **Note:** The new user must be assigned the db\_datareader role membership. For more information, see [Create a database user](https://learn.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-database-user?view=sql-server-ver15).
 
-        -   **SCCM Air Gap**: Select this option to use an air gap connection if you're working with restricted environments that don't have direct internet access \(see [Configuring air gap connections for Microsoft SCCM](../../configuration-management/concept/sgc-sccm-airgap.md)\).
+        -   **SCCM Air Gap**: Select this option to use an air gap connection if you're working with restricted environments that don't have direct internet access \(see [Configuring air gap connections for Microsoft SCCM](sgc-sccm-airgap.md)\).
         -   **SCCM JDBC Conn Cred \(Integrated Auth\)**: Select this option to use Windows JDBC-integrated authentication, which uses domain credentials, for authenticating a JDBC connection to the SCCM database.
 
             **Note:** The account that runs the MID Server agent must have the db\_datareader role to access the SCCM DB.
@@ -81,7 +81,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
     The **PowerShell Script Download** activity appears only when you select **SCCM Air Gap** as the template in step [5.b](sgcc-configure-sccm-integ.md#substep_tk2_qgs_4gc).
 
-    **Note:** Before you add an air gap connection, you must configure the air gap solution for the Service Graph Connector for Microsoft SCCM in your high-secure and low-secure servers. See [Configuring air gap connections for Microsoft SCCM](../../configuration-management/concept/sgc-sccm-airgap.md).
+    **Note:** Before you add an air gap connection, you must configure the air gap solution for the Service Graph Connector for Microsoft SCCM in your high-secure and low-secure servers. See [Configuring air gap connections for Microsoft SCCM](sgc-sccm-airgap.md).
 
     1.  In the **Setup** stage of the playbook, select the **PowerShell Script Download** activity.
 
@@ -258,7 +258,7 @@ MID server
 
 </td><td>
 
-Name of the MID Server that you deployed in your low-secure server.See [Configure air gap solution for Microsoft SCCM in a low-secure server](../../configuration-management/task/sgc-sccm-airgap-low-secure.md).
+Name of the MID Server that you deployed in your low-secure server.See [Configure air gap solution for Microsoft SCCM in a low-secure server](sgc-sccm-airgap-low-secure.md).
 
 </td></tr></tbody>
 </table>    3.  Select **Create and test connection**.
@@ -319,13 +319,13 @@ Select **View all connections** to review the connection details. The created co
 **Related topics**  
 
 
-[Service Graph Connector for Microsoft SCCM](../../configuration-management/concept/cmdb-integration-sccm.md)
+[Service Graph Connector for Microsoft SCCM](cmdb-integration-sccm.md)
 
-[CMDB classes targeted in Service Graph Connector for Microsoft SCCM](../../configuration-management/reference/cmdb-sccm-classes.md)
+[CMDB classes targeted in Service Graph Connector for Microsoft SCCM](cmdb-sccm-classes.md)
 
-[Enable Software Editions in Service Graph Connector for Microsoft SCCM](../../configuration-management/task/enable-software-editions-sccm.md)
+[Enable Software Editions in Service Graph Connector for Microsoft SCCM](enable-software-editions-sccm.md)
 
-[Accessing the connection details of Service Graph Connector for Microsoft SCCM](../../configuration-management/concept/sgc-cmdb-sccm-conn.md#)
+[Accessing the connection details of Service Graph Connector for Microsoft SCCM](sgc-cmdb-sccm-conn.md#)
 
-[Configuring air gap connections for Microsoft SCCM](../../configuration-management/concept/sgc-sccm-airgap.md)
+[Configuring air gap connections for Microsoft SCCM](sgc-sccm-airgap.md)
 

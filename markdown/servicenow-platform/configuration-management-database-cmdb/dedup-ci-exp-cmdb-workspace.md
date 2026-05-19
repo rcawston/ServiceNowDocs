@@ -20,7 +20,7 @@ Use the De-duplication dashboard in [CMDB Workspace](cmdb-workspace.md) or in [S
 More information:
 
 -   To learn about general duplicate CI remediation concepts, restrictions, and special cases such as remediations that involve a large number of duplicate CIs, see [Duplicate CIs remediation](de-duplication-tasks.md).
--   To process a single de-duplication task manualy, using the Duplicate CI Remediator, see [Remediate a de-duplication task \(manual\)](../task/reconcile-dup-task.md).
+-   To process a single de-duplication task manualy, using the Duplicate CI Remediator, see [Remediate a de-duplication task \(manual\)](reconcile-dup-task.md).
 -   To learn about Identification and Reconciliation \(IRE\) processes that detect duplicate CIs and other concepts related to duplication CI, see [Detecting duplicate CIs](id-detect-dup-ci.md).
 
 ## Access
@@ -71,19 +71,19 @@ Review the de-duplication templates and ensure that they're properly configured 
 
 You can use the manage duplicate CIs skill that Now Assist for CMDB provides to get step-by-step guidance through the de-duplication process. The manage duplicate CIs skill guides you through reviewing de-duplication templates, assigning tasks to the templates, and then running the templates. The manage duplicate CIs skill presents you with relevant options for your next step, as you go, until you complete the remediation.
 
-For more information, see [Now Assist for Configuration Management Database \(CMDB\)](now-assist-landing-cmdb.md).
+For more information, see [Now Assist for Configuration Management Database \(CMDB\)](../now-assist-for-configuration-management-database-cmdb/now-assist-landing-cmdb.md).
 
--   **[Create a de-duplication template](../task/workspc-dedup-create-template.md)**  
+-   **[Create a de-duplication template](workspc-dedup-create-template.md)**  
 Create a de-duplication template that you can then run to apply pre-configured and consistent remediation to de-duplication tasks, in bulk. Organize your templates in libraries that make sense in your organization.
--   **[Run a template to process de-duplication tasks](../task/workspc-dedup-run-template.md)**  
+-   **[Run a template to process de-duplication tasks](workspc-dedup-run-template.md)**  
 Run a de-duplication template to run de-duplication tasks that remediate duplicate CIs, in bulk. A de-duplication template is pre-configured with remediation settings per class. Running a de-duplication template, processes its assigned de-duplication tasks, consistently, according to the template settings.
--   **[Remediate a single de-duplication task](../task/workspc-dedup-remediate-single-task.md)**  
+-   **[Remediate a single de-duplication task](workspc-dedup-remediate-single-task.md)**  
 Remediate a single de-duplilcation task using a de-duplication template in CMDB Workspace,in Service Graph Workspace, or manually, using the Duplicate CI Remediator.
--   **[Publish or unpublish a de-duplication template](../task/workspc-dedup-unpublish-template.md)**  
+-   **[Publish or unpublish a de-duplication template](workspc-dedup-unpublish-template.md)**  
 After creating a de-duplication template, you must publish the draft template to make it available to run. You might also need to unpublish a published de-duplication template so it's temporarily unavailable for de-duplication remediation, until you republish it again.
--   **[Schedule a de-duplication template](../task/workspc-dedup-schedule-template.md)**  
+-   **[Schedule a de-duplication template](workspc-dedup-schedule-template.md)**  
 Create a schedule, such as a monthly schedule, for a published de-duplication template so it will automatically run on a recurring interval.
--   **[Retire a de-duplication template](../task/workspc-dedup-retire-template.md)**  
+-   **[Retire a de-duplication template](workspc-dedup-retire-template.md)**  
 Retire a template that is no longer needed for processing its de-duplication tasks which remediate duplicate CIs.
 
 **Parent Topic:**[Duplicate CIs remediation](de-duplication-tasks.md)

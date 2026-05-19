@@ -44,5 +44,5 @@ Demonstrates configuring service catalogs, knowledge bases, and My Requests in t
 
 Your users can view and request items from all added catalogs.
 
-**Parent Topic:**[Configuring Now Mobile](../concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](setup-mobile-employee.md)
 

@@ -51,7 +51,7 @@ Users with the password\_reset\_admin role configure how the process of resettin
     Users request the assistance of a service desk agent, over the phone or in person. In this process, users don't reset passwords.
 
 
-For more information, see [Configuring Password Reset](password-reset-admin-guide.md) and [Plan your Password Reset processes](../task/t_PlanPasswordReset.md).
+For more information, see [Configuring Password Reset](password-reset-admin-guide.md) and [Plan your Password Reset processes](t_PlanPasswordReset.md).
 
 ## Self-service and Service Desk - assisted processes
 

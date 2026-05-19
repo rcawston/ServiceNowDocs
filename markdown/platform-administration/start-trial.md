@@ -49,7 +49,7 @@ Confirmation emails for the application and any dependencies that were procured 
 
 ## What to do next
 
-Use the Application Manager to install the app on non-production instances for evaluation. For more information about the Application Manager, see [Application Manager](../../application-manager/concept/application-manager.md).
+Use the Application Manager to install the app on non-production instances for evaluation. For more information about the Application Manager, see [Application Manager](application-manager/application-manager.md).
 
-You can track the trial expiration date through the **Store Applications** section of the My Store Activity page. For more information, see [Tracking your ServiceNow Store activity](../concept/tracking-store-activity.md).
+You can track the trial expiration date through the **Store Applications** section of the My Store Activity page. For more information, see [Tracking your ServiceNow Store activity](tracking-store-activity.md).
 

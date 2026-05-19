@@ -39,7 +39,7 @@ The IdP's certificate is located within the IdP's metadata. The IdP developer de
 
     |Field|Description|
     |-----|-----------|
-    |Name|The certificate name. Do not change the Name entry. The name of the X.509 certificate must be SAML 2.0 in order for the integration to use it. This requirement is only true if you are not using [Multi-Provider single sign-on \(SSO\)](../../single-sign-on/concept/c_MultipleProviderSingleSignOn.md).|
+    |Name|The certificate name. Do not change the Name entry. The name of the X.509 certificate must be SAML 2.0 in order for the integration to use it. This requirement is only true if you are not using [Multi-Provider single sign-on \(SSO\)](c_MultipleProviderSingleSignOn.md).|
     |Expiration notification|Select this option to send a notification to the users selected in the **Notify on expiration** field. By default, this is enabled.|
     |Notify on expiration|Select the users to revive the notification regarding certificate expiration. If no users are selected, the logged in user is added by default, along with the last two logged in users with the administrator role.|
     |Warn in days to expire|The number of days before expiration that the instance send the notification. Enter a value of at least 20. Instances upgraded to Istanbul and later releases have this value set to 20 unless a greater value is specified.|

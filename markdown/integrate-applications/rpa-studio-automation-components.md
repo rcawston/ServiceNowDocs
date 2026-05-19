@@ -15,7 +15,7 @@ Design automations using various components in RPA Desktop Design Studio.
 
 Make sure you're familiar with the basics of using a component, connector, activity, variable, and the various actions using automations. For more information, see the topics listed in [Building automations](rpa-studio-build.md) and [Using automations](rpa-studio-use.md).
 
--   **[List of components compatible with latest version](../reference/list-components-upgrade.md)**  
+-   **[List of components compatible with latest version](list-components-upgrade.md)**  
 Learn about the list of components that are executed in their latest versions in the RPA Desktop Design Studio and robots, irrespective of the version they were used during the automation design.
 -   **[Actions \(UI\)](actions-ui.md)**  
 The Actions \(UI\) group of components work on and with browsers, browser elements, applications, and the desktop in the RPA Desktop Design Studio.
@@ -42,5 +42,5 @@ The Utilities components in the RPA Desktop Design Studio enable diverse and wid
 -   **[Wait](wait.md)**  
 The Wait components in the RPA Desktop Design Studio enable you to detain or change the automation execution using the criteria provided in the component.
 
-**Parent Topic:**[Workflow Data Fabric](../../../build/create-integrations-apps/concept/create-integrations-applications.md)
+**Parent Topic:**[Workflow Data Fabric](create-integrations-applications.md)
 

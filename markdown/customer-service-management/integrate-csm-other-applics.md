@@ -25,10 +25,10 @@ Customer Service Management provides integrations with the applications listed i
 |[Integrating with Customer Project Management](csm-ppm-integration.md)|Use this integration to create projects and project tasks for your customer accounts.|
 |[Integrating with Financial Management](csm-integration-financial-mgmt.md)|Allocate, track, and get report on expenses in your organization using this integration.|
 |[Integrating with Adobe Experience Manager](aem-integration.md)|Deliver a pre-integrated web experience built on AEM by embedding Customer Service Management and Knowledge Management capabilities.|
-|[Integrating with Computer Telephony Integration \(CTI\)](../../../administer/workspace/task/cti-csm-integration.md)|Enable the Customer Service application to support inbound and outbound telephone calls with this integration.|
+|[Integrating with Computer Telephony Integration \(CTI\)](cti-csm-integration.md)|Enable the Customer Service application to support inbound and outbound telephone calls with this integration.|
 |[Integrating with Microsoft Outlook](integrating-with-microsoft-outlook.md)|Manage contacts and cases from within Microsoft Outlook using this integration.|
 |[Integrating with Safe Workplace applications](csm-integration-safe-workplace.md)|Enable contacts or consumers to safely enter locations and comply with health and safety policies after emergencies and pandemics|
-|[Integrating with consumer messaging apps](../task/messg-integrate-channels.md)|Let customers use their choice of messaging apps to message anytime to your company's account.|
+|[Integrating with consumer messaging apps](messg-integrate-channels.md)|Let customers use their choice of messaging apps to message anytime to your company's account.|
 |[Integrating with Process Mining](process-opt-csm.md)|Analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.|
 |[Integrating with contact centers](contactcenter-integration.md)|Integrate with your contact center as a service \(CCaaS\) provider.|
 

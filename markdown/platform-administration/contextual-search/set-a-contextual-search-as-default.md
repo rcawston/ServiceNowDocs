@@ -32,5 +32,5 @@ Role required: admin
     ![Search Context form showing Set As Default button.](../image/set-as-default.png)
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

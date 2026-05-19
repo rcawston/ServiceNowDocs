@@ -113,5 +113,5 @@ If the requested item was assigned to a user group for approval, then the state 
 -   Any approver who isn’t added to **Watch list** in the legal matter would lose access to the approved item.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+</table>**Parent Topic:**[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 

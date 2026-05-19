@@ -73,12 +73,12 @@ The data displayed in visualizations corresponds to the selected campus.
 |Workplace requests created today|Single score ![Single-score icon](../../performance-analytics/image/single-score.png)|Total number of workplace reservation requests created by the employees today.|
 |Workplace requests by day|Trend ![Trend over time icon](../../performance-analytics/image/column-time-icon.png)|Trend of the number of workplace reservation requests created per day.|
 
-**Parent Topic:**[Workplace dashboards](../concept/wsd-workplace-dashboards.md)
+**Parent Topic:**[Workplace dashboards](wsd-workplace-dashboards.md)
 
 **Related topics**  
 
 
-[Create workplace reservations for an employee](../../../product/workplace-service-delivery/task/reserve-workspaces-for-employees-wsd.md)
+[Create workplace reservations for an employee](reserve-workspaces-for-employees-wsd.md)
 
-[Create an ad hoc workplace task](../../../product/workplace-service-delivery/task/create-adhoc-workplace-task-wsd.md)
+[Create an ad hoc workplace task](create-adhoc-workplace-task-wsd.md)
 

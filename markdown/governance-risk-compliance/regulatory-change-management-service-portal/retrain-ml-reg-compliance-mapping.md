@@ -32,7 +32,7 @@ Role required: ml\_admin
 
 3.  On the Similarity Definition form, fill in the fields.
 
-    For a description of the fields, see [Similarity Definition Form](../reference/similarity-definition-form.md).
+    For a description of the fields, see [Similarity Definition Form](similarity-definition-form.md).
 
 4.  Select the appropriate button for the solution definition.
 
@@ -44,10 +44,10 @@ Role required: ml\_admin
 
 -   **[Auto-assign configuration for regulatory alerts](set-up-assignment-configuration.md)**  
 Set up an assignment configuration record to enable auto-assignments for regulatory alerts of the type regulatory event.
--   **[Similarity Definition Form](../reference/similarity-definition-form.md)**  
+-   **[Similarity Definition Form](similarity-definition-form.md)**  
 Use the Similarity Definition Form form in Compliance Workspace to create a similarity definition for regulatory compliance mapping.
 
-**Parent Topic:**[Regulatory alerts](../concept/regulatory-feeds.md)
+**Parent Topic:**[Regulatory alerts](regulatory-feeds.md)
 
 **Related topics**  
 

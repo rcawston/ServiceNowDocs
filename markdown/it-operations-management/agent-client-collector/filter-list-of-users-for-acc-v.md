@@ -37,5 +37,5 @@ You can filter the types of users by using the system property: **sn\_acc\_visib
     Use OSquery commands to get user information through ACC-VC: select `uid`, `username`, `directory` from users. User names that are preceded by ‘\_’ are treated as system accounts. Others are local accounts.
 
 
-**Parent Topic:**[Agent Client Collector Discovery](../concept/acc-discovery.md)
+**Parent Topic:**[Agent Client Collector Discovery](acc-discovery.md)
 

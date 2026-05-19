@@ -33,7 +33,7 @@ Description
 
 </td><td>
 
-Exports the display value \(**true**\) or raw value \(**false**\) for the CSV, XLS, XLSX, and XML file formats.See [Field types affected by export controls](../reference/field-types-affected.md) for more information.
+Exports the display value \(**true**\) or raw value \(**false**\) for the CSV, XLS, XLSX, and XML file formats.See [Field types affected by export controls](field-types-affected.md) for more information.
 
 </td></tr><tr><td>
 
@@ -41,7 +41,7 @@ Exports the display value \(**true**\) or raw value \(**false**\) for the CSV, X
 
 </td><td>
 
-Exports the display value \(**true**\), raw value \(**false**\), or both \(**All**\) for the JSON file format.See [Field types affected by export controls](../reference/field-types-affected.md) for more information.
+Exports the display value \(**true**\), raw value \(**false**\), or both \(**All**\) for the JSON file format.See [Field types affected by export controls](field-types-affected.md) for more information.
 
 </td></tr><tr><td>
 
@@ -89,5 +89,5 @@ Exports the CSV, XLS, and XLSX file formats with the field label \(**true**\) or
     ![Example: sysparm_export_column_header_label = false](../image/sysparm_export_column_header_label-false.png)
 
 
-**Parent Topic:**[Data export reference](../reference/data-export-reference.md)
+**Parent Topic:**[Data export reference](data-export-reference.md)
 

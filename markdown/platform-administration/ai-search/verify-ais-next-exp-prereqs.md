@@ -76,5 +76,5 @@ The **Prerequisites** Guided Setup tasks walk you through verifying that your in
 
 Now that you've satisfied the prerequisites, it's time to migrate your existing Zing search application configurations for use with AI Search. For details on this procedure, see [Migrate Zing search application configurations to AI Search](migrate-srch-apps-ais-next-exp.md).
 
-**Parent Topic:**[Configuring AI Search for Next Experience](../concept/configuring-ais-next-experience.md)
+**Parent Topic:**[Configuring AI Search for Next Experience](configuring-ais-next-experience.md)
 

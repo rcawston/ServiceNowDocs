@@ -22,7 +22,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Strategic Planning](../concept/roadmap-planning-overview.md).
+Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Strategic Planning](roadmap-planning-overview.md).
 
 Select a source table as a starting point to base your roadmap on. Select one of project, epic, program, demand, SAFe epic, and SAFe feature tables for a simple roadmap or Planning Item table for a hybrid roadmap.
 
@@ -38,7 +38,7 @@ Select a source table as a starting point to base your roadmap on. Select one of
 
     1.  Select a source table to base your roadmap on.
 
-        Your admin can configure other tables to be visible in this list. For more information, see [Portfolio plan configuration form](../../alignment-planner-workspace/reference/portfolio-plan-configuration-form.md).
+        Your admin can configure other tables to be visible in this list. For more information, see [Portfolio plan configuration form](portfolio-plan-configuration-form.md).
 
     2.  Add conditions to filter the data from the source table.
 

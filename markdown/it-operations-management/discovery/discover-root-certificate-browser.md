@@ -31,7 +31,7 @@ To discover root certificates stored outside your server, create a special Disco
 
 3.  On the Discovery Schedule form, fill in the fields.
 
-    For a description of the field values, see [Discovery schedule form table](../reference/discovery-schedule-form-table.md).
+    For a description of the field values, see [Discovery schedule form table](discovery-schedule-form-table.md).
 
 4.  Save this record by selecting **Update**.
 

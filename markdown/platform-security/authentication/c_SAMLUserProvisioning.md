@@ -24,5 +24,5 @@ When SAML user provisioning is enabled and the system encounters a new user that
 When the user logs in, they access an IdP to log in.
 
 -   The system presents a list of all IdPs that are able to use SAML user provisioning. If there is only one IdP that can use SAML user provisioning, that one is used automatically.
--   If none of the above conditions are true, the system uses the [Auto Redirect IdP](../../single-sign-on/task/t_CreateASAML2Upd1SSOConfigMultiSSO.md).
+-   If none of the above conditions are true, the system uses the [Auto Redirect IdP](t_CreateASAML2Upd1SSOConfigMultiSSO.md).
 

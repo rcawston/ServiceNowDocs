@@ -91,7 +91,7 @@ Detailed location information on where the discrimination occurred, such as the 
     **Note:** Only HR agents and admins that have access to the Anonymous Report Center and can access reports. For more details, see [Access an anonymous report](arc-access-anon-report.md).
 
 
-**Parent Topic:**[Using the Anonymous Report Center](../concept/arc-use.md)
+**Parent Topic:**[Using the Anonymous Report Center](arc-use.md)
 
 **Related topics**  
 

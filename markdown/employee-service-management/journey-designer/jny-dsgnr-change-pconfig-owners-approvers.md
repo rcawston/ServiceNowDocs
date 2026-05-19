@@ -40,5 +40,5 @@ Administrators may need to change owners or approvers for Journey designer plan 
 6.  Select **Update**.
 
 
-**Parent Topic:**[Setup the Journey designer plan configuration review and approval process](../concept/jny-dsgnr-plan-config-admin.md)
+**Parent Topic:**[Setup the Journey designer plan configuration review and approval process](jny-dsgnr-plan-config-admin.md)
 

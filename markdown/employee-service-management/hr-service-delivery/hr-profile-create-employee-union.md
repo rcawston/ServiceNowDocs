@@ -38,5 +38,5 @@ Role required: admin
 5.  After entering the required information, select **Save** or **Submit**.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](c_HRProfileRecords.md)
 

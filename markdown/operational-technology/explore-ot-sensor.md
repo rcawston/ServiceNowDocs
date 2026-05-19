@@ -75,5 +75,5 @@ The Actions menu in the top right corner of the Sensor Information page provides
 
 ## What to do next
 
-To get started with the installation of the Discovery Sensor for OT, see [Configure the Discovery Sensor for OT](../task/configure-ot-discovery-sensor.md).
+To get started with the installation of the Discovery Sensor for OT, see [Configure the Discovery Sensor for OT](configure-ot-discovery-sensor.md).
 

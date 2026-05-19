@@ -42,9 +42,9 @@ Using the Hierarchy view, review the work pipeline and drill down to the low lev
 
 For example, as an EPMO, you can view the epics associated to each initiative. Also, you can view and manage the goals that these initiatives are aligned to.
 
-By default, you can use Initiatives or Strategic Programs from the Strategic Investments lens or Programs \(pm\_program\) from the Project Program lens to create high-level portfolio plans. See [Create a high-level portfolio plan](../task/high-level-portfolio-plan-strategic-wkspc.md).
+By default, you can use Initiatives or Strategic Programs from the Strategic Investments lens or Programs \(pm\_program\) from the Project Program lens to create high-level portfolio plans. See [Create a high-level portfolio plan](high-level-portfolio-plan-strategic-wkspc.md).
 
-If you need high-level planning enabled for items other than Initiatives, Strategic Programs, Programs \(pm\_program\), work with your ServiceNow admin to complete the additional configuration. See [High-level planning configuration in Strategic Planning](../task/high-level-portfolio-planning-configuration.md).
+If you need high-level planning enabled for items other than Initiatives, Strategic Programs, Programs \(pm\_program\), work with your ServiceNow admin to complete the additional configuration. See [High-level planning configuration in Strategic Planning](high-level-portfolio-planning-configuration.md).
 
 Here's a sample portfolio plan that shows a few strategic programs of the company and the low-level work \(projects and demands\) that are aligned with them.![High-level portfolio plan hierarchy view.](../images/high-level-pp-hierarchy-view.png)
 

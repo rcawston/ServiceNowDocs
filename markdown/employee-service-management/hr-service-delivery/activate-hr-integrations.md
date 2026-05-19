@@ -38,8 +38,8 @@ Human Resources Scoped App: Integrations allows you to integrate HR Service Deli
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with HR Integrations](../reference/components-installed-with-hr-integrations.md)**  
+-   **[Components installed with HR Integrations](components-installed-with-hr-integrations.md)**  
 Several types of components install with the activation of the HR Integrations plugin, including tables, user roles, and scheduled jobs.
 
-**Parent Topic:**[HR Integrations](../concept/scoped-hr-third-party-integrations.md)
+**Parent Topic:**[HR Integrations](scoped-hr-third-party-integrations.md)
 

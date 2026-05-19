@@ -38,5 +38,5 @@ Role required: organizational supporter \[sn\_egd\_lh.supporter\]
 7.  Select **Send email** to send a message to the employee who you have been requested to contact.
 
 
-**Parent Topic:**[Using Leader Hub](../concept/td-lh-using.md)
+**Parent Topic:**[Using Leader Hub](td-lh-using.md)
 

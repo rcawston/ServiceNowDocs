@@ -17,7 +17,7 @@ Advanced Portal Navigation \(APN\) helps you design and configure an intuitive n
 
 ## Before you begin
 
-Before you start, ensure you understand the useful information available in [EC Information architecture](../concept/ec-information-architecture.md).
+Before you start, ensure you understand the useful information available in [EC Information architecture](ec-information-architecture.md).
 
 Role required: Admin and SP Admin
 
@@ -158,7 +158,7 @@ Submenu display type
 
 Indicates the rendering type that you want to display in the menu. This field appears only when **Menu** is selected at the root-level hierarchy.-   **Expanded**: Select this option to display in the expanded view.
 -   **Standard**: Select this option to display in the standard view. Out-of-the-box is Standard.
-For more information, see [EC Information architecture](../concept/ec-information-architecture.md).
+For more information, see [EC Information architecture](ec-information-architecture.md).
 
 </td></tr><tr><td>
 
@@ -236,5 +236,5 @@ All active navigation items associated with the portal and taxonomy are fetched 
 
 **Note:** For successful sync, ensure that the SP Menu Items are associated with the portal for which the Advanced Portal navigation record is configured.
 
-For more information, see [EC Information architecture](../concept/ec-information-architecture.md).
+For more information, see [EC Information architecture](ec-information-architecture.md).
 

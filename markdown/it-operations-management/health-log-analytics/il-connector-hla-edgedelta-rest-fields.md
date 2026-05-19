@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Edge Delta REST integration configuration form for Health Log Analytics.
 
-For the Edge Delta REST integration setup procedure, see [Set up an Edge Delta REST integration for Health Log Analytics](../task/il-connector-hla-edgedelta-rest.md).
+For the Edge Delta REST integration setup procedure, see [Set up an Edge Delta REST integration for Health Log Analytics](il-connector-hla-edgedelta-rest.md).
 
 <table id="table_vkg_k5h_chc"><thead><tr><th>
 

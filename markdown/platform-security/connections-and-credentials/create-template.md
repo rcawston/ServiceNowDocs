@@ -347,5 +347,5 @@ When the user navigates to the associated Connection &amp; Credential alias and 
 
 Test the template by navigating to the associated Connection &amp; Credential alias and selecting **Create New Connection &amp; Credential**. Verify that the dialog collects the expected data and creates the required records in the system.
 
-**Parent Topic:**[Connection &amp; Credential configuration templates](../concept/spoke-configuration-template.md)
+**Parent Topic:**[Connection &amp; Credential configuration templates](spoke-configuration-template.md)
 

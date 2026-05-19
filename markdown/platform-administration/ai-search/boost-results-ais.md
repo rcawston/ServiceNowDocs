@@ -44,7 +44,7 @@ When a single search result is affected by multiple boost actions, AI Search add
 
 1.  In the Actions related list, select **Create Boost Action**.
 
-2.  On [the Rule - Action Mapping form](../reference/rule-action-map-form-ais.md), set the boost weight and fill in the other fields.
+2.  On [the Rule - Action Mapping form](rule-action-map-form-ais.md), set the boost weight and fill in the other fields.
 
 3.  Select **Submit**.
 
@@ -55,7 +55,7 @@ When a single search result is affected by multiple boost actions, AI Search add
 
 To make new or updated result improvement rule settings take effect, publish the search profile you edited. For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Result improvement rules](../concept/result-improvement-rules-ais.md)
+**Parent Topic:**[Result improvement rules](result-improvement-rules-ais.md)
 
 ## List of result improvement rule boost types
 
@@ -85,7 +85,7 @@ Boost By User Context \(dynamic\)
 
 Applies relevancy boost to search results from the selected indexed source if they include a value for the selected field that matches a field value specified in the dynamically populated user context. As an example, you might boost all results from the Knowledge Table indexed source with Short description field values that contain matches for the city specified in the current search user's location, as set in their user context. This configuration could end up boosting different records when you search from Paris than when you search from New York City.
 
-**Note:** Starting in the Xanadu release, AI Search expands user context field values using published, active synonyms defined in dictionaries linked to the current search profile. As an example, if the user context location is `Paris` and you define a synonym that defines `Paris` and `France` as equivalent, your result improvement rule boosts documents containing `France` as well as those containing `Paris`. For more details on synonym expansion, see [Synonyms](../concept/synonyms-ais.md).
+**Note:** Starting in the Xanadu release, AI Search expands user context field values using published, active synonyms defined in dictionaries linked to the current search profile. As an example, if the user context location is `Paris` and you define a synonym that defines `Paris` and `France` as equivalent, your result improvement rule boosts documents containing `France` as well as those containing `Paris`. For more details on synonym expansion, see [Synonyms](synonyms-ais.md).
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Applies relevancy boost to search results from the selected indexed source if th
 
  The selected synonym dictionary must be published, active, and linked to the current search profile. AI Search only checks for matches against published and active synonyms in the dictionary.
 
- For more details on synonyms and synonym dictionaries, see [Synonyms](../concept/synonyms-ais.md).
+ For more details on synonyms and synonym dictionaries, see [Synonyms](synonyms-ais.md).
 
 </td></tr></tbody>
 </table>

@@ -162,7 +162,7 @@ The contract template is saved in the Draft state.
 
 3.  Select **Publish**.
 
-**Parent Topic:**[Create contract template by manually adding content controls](../concept/cncore-setup-ct-manual.md)
+**Parent Topic:**[Create contract template by manually adding content controls](cncore-setup-ct-manual.md)
 
 **Related topics**  
 

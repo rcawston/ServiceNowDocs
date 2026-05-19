@@ -31,7 +31,7 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SAM application to get started](../task/configure-now-assist-sam.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SAM application to get started](configure-now-assist-sam.md)
 
 </td><td>
 
@@ -67,12 +67,12 @@ For more information, see the [Now Assist documentation](https://raw.githubuserc
 
 -   **[Exploring Now Assist for Software Asset Management \(SAM\)](exploring-now-assist-sam.md)**  
 With the Now Assist for Software Asset Management \(SAM\) application, Software Asset Management managers can use generative AI capabilities for tasks such as generating compliance summaries, optimization recommendations, and automating SaaS user resolution.
--   **[Configuring Now Assist for Software Asset Management \(SAM\)](../task/configure-now-assist-sam.md)**  
+-   **[Configuring Now Assist for Software Asset Management \(SAM\)](configure-now-assist-sam.md)**  
 If you have the admin role, you can configure the Now Assist for Software Asset Management \(SAM\) application to use generative AI skills in the Software Asset Workspace.
 -   **[Using agentic workflows in Now Assist for SAM](using-now-assist-sam-ai-agents-usecases.md)**  
 Use the Now Assist for SAM AI agent collection to complete tasks autonomously.
 -   **[Using generative AI skills in Now Assist for SAM](using-now-assist-sam.md)**  
 If you have a Software Asset Management manager role, you can use generative AI capabilities to streamline your daily Software Asset Management workflow.
 
-**Parent Topic:**[Software Asset Management](../../software-asset-management2/concept/c_SoftwareAssetMgmt.md)
+**Parent Topic:**[Software Asset Management](../software-asset-management/c_SoftwareAssetMgmt.md)
 

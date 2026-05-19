@@ -17,13 +17,13 @@ SAFe — Unified Backlog allows you to maintain a centralized backlog containing
 
 **Important:**
 
-Starting with the Xanadu release, the plugins Portfolio SAFe, Essential SAFe, Performance Analytics Content Pack for Essential SAFe, Work Progress Status for SAFe, Agile - Scaled Agile Framework - Unified Backlog, and Read only roles for SAFe are being prepared for future deprecation. These plugins will be hidden and can no longer be activated on new instances but will continue to be supported. [Enterprise Agile Planning in Strategic Planning](../../spw-eap/concept/eap-landing.md) provides the latest experience for this functionality.
+Starting with the Xanadu release, the plugins Portfolio SAFe, Essential SAFe, Performance Analytics Content Pack for Essential SAFe, Work Progress Status for SAFe, Agile - Scaled Agile Framework - Unified Backlog, and Read only roles for SAFe are being prepared for future deprecation. These plugins will be hidden and can no longer be activated on new instances but will continue to be supported. [Enterprise Agile Planning in Strategic Planning](../enterprise-agile-planning/eap-landing.md) provides the latest experience for this functionality.
 
 For more information on the deprecation process and its impact, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 The flow described below represents the common practice of creating and managing records using SAFe — Unified Backlog along with Essential SAFe.
 
--   **[Setting up a triage board](../task/safe-setup-triage-board.md)**
+-   **[Setting up a triage board](safe-setup-triage-board.md)**
 
     You can set up a triage board by defining filter criteria, and view records of a specific task type on the triage board. For example, you can create one triage board for defects and another for incidents. Records are dynamically updated in all triage boards.
 
@@ -36,23 +36,23 @@ The flow described below represents the common practice of creating and managing
     As you work with stories, work with the triaged records \(represented by stories\) in the **Sprint Tracking** tab, Board view. When you move a triaged record from one lane to another, the state of its wrapper story changes, but the state of the original triaged record remains the same. To change the state of the original triaged record, you would need to open the record in a form and update the state.
 
 
--   **[Set up a triage board in SAFe](../task/safe-setup-triage-board.md)**  
+-   **[Set up a triage board in SAFe](safe-setup-triage-board.md)**  
 Set up your own triage board by defining filter criteria, and view records that are important to your team, such as problems, incident tasks, defects, or change requests. For example, you can create one triage board for defects and another for incidents.
 
-**Parent Topic:**[Scaled Agile Framework \(SAFe\)](../../agile-SAFe/concept/SAFeoverview.md)
+**Parent Topic:**[Scaled Agile Framework \(SAFe\)](SAFeoverview.md)
 
 **Related topics**  
 
 
-[Domain separation and Scaled Agile Framework \(SAFe\)](../../agile-SAFe/concept/domain-separation-scaled-agile-framework.md)
+[Domain separation and Scaled Agile Framework \(SAFe\)](domain-separation-scaled-agile-framework.md)
 
-[Business stakeholder role for Essential SAFe and Portfolio SAFe](../../agile-SAFe/reference/business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
+[Business stakeholder role for Essential SAFe and Portfolio SAFe](business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
 
-[Essential SAFe](../../agile-SAFe/concept/essential-overview.md)
+[Essential SAFe](essential-overview.md)
 
-[Portfolio SAFe](../../agile-SAFe/concept/portfolio-overview.md)
+[Portfolio SAFe](portfolio-overview.md)
 
-[Performance Analytics Content Pack for Essential SAFe](../../../use/dashboards/application-content-packs/pa-content-pack-essential-safe.md)
+[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
 
-[Work Progress Status for SAFe](../../work-progress-status-safe/concept/work-progress-status-safe-overview.md)
+[Work Progress Status for SAFe](work-progress-status-safe-overview.md)
 

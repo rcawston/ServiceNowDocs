@@ -19,7 +19,7 @@ The custom table must extend the Data Lookup Matcher Rules \[dl\_matcher\] table
 
 For example, you can create a Server Offering Lookups table. It stores information about matcher offerings \(bronze, silver, and gold\) and associated setter values \(memory and disk space\) for each matcher offering.
 
-**Parent Topic:**[Service catalog data lookup](../concept/c_ServiceCatalogDataLookup.md)
+**Parent Topic:**[Service catalog data lookup](c_ServiceCatalogDataLookup.md)
 
 ## Create a custom data lookup
 

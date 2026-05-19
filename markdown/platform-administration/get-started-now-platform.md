@@ -19,15 +19,15 @@ ServiceNow AI Platform is the exclusive ServiceNow platform. It provides a range
 
 </td><td>
 
-[Basic system configuration ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Customize UI and forms, create a mobile experience, and adjust other settings in applications across the ServiceNow AI Platform.](../../core-configuration/concept/p_CoreConfigurationOverview.md)
+[Basic system configuration ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Customize UI and forms, create a mobile experience, and adjust other settings in applications across the ServiceNow AI Platform.](p_CoreConfigurationOverview.md)
 
 </td></tr><tr><td>
 
-[Admin Center ![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Admin Center provides a central hub for you to access platform capabilities, discover new applications, and get intelligent, actionable insights.](../../admin-center/concept/admin-center-intro.md)
+[Admin Center ![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Admin Center provides a central hub for you to access platform capabilities, discover new applications, and get intelligent, actionable insights.](admin-center/admin-center-intro.md)
 
 </td><td>
 
-[Subscription Management ![](../../../reuse/icons/brand-icons/bus-learn.svg) With the ServiceNow® Subscription Management application, you can manage how your ServiceNow subscriptions are used on your instances.](../../subscription-management/reference/subscription-management-landing-page-v2.md)
+[Subscription Management ![](../../../reuse/icons/brand-icons/bus-learn.svg) With the ServiceNow® Subscription Management application, you can manage how your ServiceNow subscriptions are used on your instances.](subscription-management-landing-page-v2.md)
 
 </td></tr></tbody>
 </table>## How the ServiceNow AI Platform works
@@ -48,15 +48,15 @@ Manage your ServiceNow subscriptions and how they’re used on your instances wi
 
 -   **[How the ServiceNow AI Platform works](how-now-platform-works.md)**  
 ServiceNow® offers a flexible, secure platform with a vast set of options, all following a single data model. Begin here to learn more about the platform.
--   **[Basic system configuration](../../core-configuration/concept/p_CoreConfigurationOverview.md)**  
+-   **[Basic system configuration](p_CoreConfigurationOverview.md)**  
 Basic system configuration encompasses changes made to the platform as well as supporting applications. These changes can affect global settings as well as settings for particular applications.
--   **[Admin Center](../../admin-center/concept/admin-center-intro.md)**  
+-   **[Admin Center](admin-center/admin-center-intro.md)**  
 Admin Center provides a central hub for platform owners and admins to access platform capabilities, discover new applications, and get intelligent, actionable insights.
--   **[Administering applications](../../../build/applications/reference/administering-applications.md)**  
+-   **[Administering applications](administering-applications.md)**  
 You can install, update, and remove applications without leaving your instance.
--   **[Now Assist for Setup](../../implementation-agent/concept/ia-landing.md)**  
+-   **[Now Assist for Setup](ia-landing.md)**  
 Now Assist for Setup provides a guided experience to install, configure, and deploy ServiceNow products. It automates installation, applies best-practice configurations, tracks progress, and packages changes for production, which reduces complexity, minimizes manual effort, and significantly shortens time to deployment.
--   **[Subscription Management](../../subscription-management/reference/subscription-management-landing-page-v2.md)**  
+-   **[Subscription Management](subscription-management-landing-page-v2.md)**  
 Subscription Management enables you to proactively manage your subscriptions and monitor subscription usage on your instances.
 -   **[Now Support administration](now-support-administration.md)**  
 The Now Support portal is where you can access self-help, get technical support, and manage your ServiceNow instances.

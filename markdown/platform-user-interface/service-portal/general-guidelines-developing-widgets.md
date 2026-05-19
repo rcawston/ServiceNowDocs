@@ -53,7 +53,7 @@ When developing custom widgets, keep these general guidelines in mind for optima
     -   Share a reusable, lightweight subsection of a widget.
     -   Share a common UI feature, such as a list or an avatar.
     -   Augment widget behavior.
-    Learn more: [Reuse components with Angular Providers](../task/angular-providers.md).
+    Learn more: [Reuse components with Angular Providers](angular-providers.md).
 
 -   **Use a service or factory to share data and persist state**
 
@@ -62,7 +62,7 @@ When developing custom widgets, keep these general guidelines in mind for optima
     -   Keep widgets synchronized when changing records or filters.
     -   Share data between widgets.
     -   Develop more performant widgets.
-    Learn more: [Reuse components with Angular Providers](../task/angular-providers.md).
+    Learn more: [Reuse components with Angular Providers](angular-providers.md).
 
 -   **Handle events with a publish/subscribe service**
 

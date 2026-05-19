@@ -31,7 +31,7 @@ Set up the features, components, and integrations that you must provide service 
 
 </td><td>
 
-[Set up self-service ![](../../../reuse/icons/brand-icons/bus-personalized-self-service-portal.svg) Create self-service portals for customers that are integrated with knowledge, communities, service catalogs, and chatbots.](set-up-self-service.md)
+[Set up self-service ![](../../../reuse/icons/brand-icons/bus-personalized-self-service-portal.svg) Create self-service portals for customers that are integrated with knowledge, communities, service catalogs, and chatbots.](customer-self-service-and-omnichannel-engagement/set-up-self-service.md)
 
 </td><td>
 
@@ -100,7 +100,7 @@ Sarah implements Recommended Actions to guide agents in assisting customers quic
 
 </td></tr><tr><td>
 
-[Set Up Self-Service](set-up-self-service.md)
+[Set Up Self-Service](customer-self-service-and-omnichannel-engagement/set-up-self-service.md)
 
 </td><td>
 

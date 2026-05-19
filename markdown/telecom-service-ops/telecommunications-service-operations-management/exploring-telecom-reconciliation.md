@@ -114,9 +114,9 @@ Automate reconciliation of network inventory discrepancies and enhance operation
 
 [Discrepancy identification – types of discrepancies](discrepancy-identification-types-of-discrepancies.md)
 
-[Activate Telecom Discrepancy Identification and Reconciliation](../task/configure-telecom-reconciliation.md)
+[Activate Telecom Discrepancy Identification and Reconciliation](configure-telecom-reconciliation.md)
 
-[Run Telecom Discrepancy audit](../task/run-audits.md#)
+[Run Telecom Discrepancy audit](run-audits.md#)
 
 [System components installed with Telecom Discrepancy Identification &amp; Reconciliation](system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
 

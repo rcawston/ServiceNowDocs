@@ -17,7 +17,7 @@ You can add custom tables to the Lists menu in Portfolio Planning Workspace and 
 
 Perform the following tasks to customize Lists and manage access to the newly created categories and lists in the Lists page of Portfolio Planning Workspace:
 
--   Add the **New** button to the APW List Menu Configuration page. For more information, see [Enable adding custom tables to the Lists menu](../task/enable-adding-custom-tables-to-the-lists-menu.md).
--   Add custom tables to the Lists menu. For more information, see [Customize Lists in Portfolio Planning Workspace](../task/customize-lists-in-portfolio-planning-workspace.md).
--   Manage who can view the newly created categories and lists in the Lists page. For more information, see [Define audience for new lists in Portfolio Planning](../task/define-audience-for-new-lists-portfolio-planning.md).
+-   Add the **New** button to the APW List Menu Configuration page. For more information, see [Enable adding custom tables to the Lists menu](enable-adding-custom-tables-to-the-lists-menu.md).
+-   Add custom tables to the Lists menu. For more information, see [Customize Lists in Portfolio Planning Workspace](customize-lists-in-portfolio-planning-workspace.md).
+-   Manage who can view the newly created categories and lists in the Lists page. For more information, see [Define audience for new lists in Portfolio Planning](define-audience-for-new-lists-portfolio-planning.md).
 

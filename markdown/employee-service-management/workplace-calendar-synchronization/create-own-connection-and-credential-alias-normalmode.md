@@ -107,7 +107,7 @@ The connection and credential record is created with specified credentials and c
 
 To use it for the calendar provider, see [Configure Microsoft Exchange Online calendar provider](configure-xsex-calendar-provider-in-normal-mode.md).
 
-**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](../concept/create-connection-with-msex-in-normal-mode.md)
+**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](create-connection-with-msex-in-normal-mode.md)
 
 **Related topics**  
 

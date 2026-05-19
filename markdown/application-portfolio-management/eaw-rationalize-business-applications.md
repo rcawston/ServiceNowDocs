@@ -28,7 +28,7 @@ You can perform the following using application rationalization:
 
 You can view all the business applications in a bubble chart view or in a list view. However, business applications marked as **Retired** or in **End of Life** lifecycle stage aren’t displayed on the Application Rationalization bubble chart or list view pages. However, you can view those business applications by updating the **sn\_apm\_ws.business\_application\_default\_filter** system property. Contact your ServiceNow® account service manager to update the system property.
 
-You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md).
+You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](generate-insights-into-ba.md).
 
 ![Bubble chart view in the Application Rationalization page.](../../image/eaw-image/bubble-chart-view.png "Bubble chart view")
 
@@ -65,15 +65,15 @@ The latest fiscal period is derived from the apm\_app\_indicator\_score list. Th
 Bubble charts are interactive graphs that position applications in different quadrants, based on their indicator scores. Based on the position of the business application in the quadrants, enterprise architects can take decisions to invest in, sustain, migrate, or retire the business applications.
 -   **[List view of application rationalization](eaw-list-view.md)**  
 As an Enterprise Architect, you can view the list of all business applications. The List view enables you to see high-level information on all your business applications and all the indicator scores that are attached to them.
--   **[Tech debt indicator score for application rationalization](../../reference/eaw-reference/trm-tech-debt-indicator-for-app-rat.md)**  
+-   **[Tech debt indicator score for application rationalization](trm-tech-debt-indicator-for-app-rat.md)**  
 The Technology Reference Model \(TRM\) Technical Debt indicator is a customizable application metric that evaluates the technical debt score for each Business Application. This score reflects the number of associated technologies that don’t comply with established TRM standards. It offers a clear and measurable value that can be leveraged across the Enterprise Architecture workspace for scoring, analysis, and visualization.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 **Related topics**  
 
 
 [Working with application rationalization](eaw-work-with-app-rat.md)
 
-[Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md)
+[Generate insights into business applications](generate-insights-into-ba.md)
 

@@ -56,7 +56,7 @@ Role required: evt\_mgmt\_admin
 
     1.  Check the box next to the log path configuration that you want to delete.
 
-        **Note:** You can select multiple log path configurations, but a check must have at least one log path configured for it to enable streaming logs. For more information about checks, see [Checks and policies](../concept/checks-policies.md).
+        **Note:** You can select multiple log path configurations, but a check must have at least one log path configured for it to enable streaming logs. For more information about checks, see [Checks and policies](checks-policies.md).
 
     2.  Select **Delete**.
 

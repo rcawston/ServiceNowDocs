@@ -21,7 +21,7 @@ This API is only supported in Workspaces and Service Portal. It is not supported
 
 To use this API, the **UI Type** field must be set to **Mobile / Service Portal** or **All** on both the client script and the UI script. It cannot be set to **Desktop**.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideUIScripts - getUIScript\(String scriptName\)
 

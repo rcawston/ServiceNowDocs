@@ -25,7 +25,7 @@ You can deactivate or activate any policy at any time.
 
 For activated policies:
 
--   The policy must include a Current \(published\) version. For more information, see [Manage PaCE policy versions](../concept/pace-policy-versions.md).
+-   The policy must include a Current \(published\) version. For more information, see [Manage PaCE policy versions](pace-policy-versions.md).
 -   The policy is auto-validated when you activate it \(if the policy has mapping inputs defined\). Validation verifies the validity of mapping inputs, and checks that all required inputs were set. For more information, see the Validate mapping inputs section.
 
 Deactivating a policy enables you to place the policy into a maintenance-like mode. You can make changes, safe in the knowledge that no one is using the policy. While deactivated, the policy mappings are kept, but the policy cannot be executed. After you are done with any changes, you can reactivate the policy and any existing mappings are reused.

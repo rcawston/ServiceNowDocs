@@ -28,22 +28,22 @@ Role required: procurement\_admin or procurement\_user
     For example, click a request number to view the request record.
 
 
-**Parent Topic:**[Procurement](../concept/c_Procurement.md)
+**Parent Topic:**[Procurement](c_Procurement.md)
 
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](r_ProcurementRoles.md)
 
-[Procurement workflows](../concept/c_ProcurementWorkflows.md)
+[Procurement workflows](c_ProcurementWorkflows.md)
 
 [Activate Procurement](t_ActivateProcurement.md)
 
-[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 
-[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+[Procurement purchase order management for assets](c_UseProcurement.md)
 
-[Receive assets](../concept/c_ReceiveAssets.md)
+[Receive assets](c_ReceiveAssets.md)
 
-[Domain separation and Procurement](../concept/domain-separation-procurement.md)
+[Domain separation and Procurement](domain-separation-procurement.md)
 

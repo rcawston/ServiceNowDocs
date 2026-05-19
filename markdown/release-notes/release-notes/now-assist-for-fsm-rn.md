@@ -104,5 +104,5 @@ The Now Assist for FSM application requires Field Service Management.
 
 **Parent Topic:**[Field Service Management release notes](field-service-management-rn.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

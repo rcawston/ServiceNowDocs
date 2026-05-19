@@ -37,12 +37,12 @@ Only the owner or contributors of the goal can edit the goal.
 
 4.  Select the Row context menu icon \(![Row context menu icon.](../../alignment-planner-workspace/images/more-actions.png)\) of the goal or target that you want to copy and then select **Duplicate**.
 
-    -   For a goal, the Goal modal opens with all details of the goal you copied from. You can update the details for the goal as needed and then select **Save** to save the goal or select **Save and add a target** to save the goal and add a target for the goal. For a description of the field values, see [Goal form](../reference/goal-form-egm.md).
-    -   For a target, the New target window opens with all details of the target you copied from. You can update the details for the target as needed and then select **Save** to save the target or select **Save and add a new target** to save the target and add another target for the goal. For a description of the field values, see [Target form](../reference/target-form-egm.md).
+    -   For a goal, the Goal modal opens with all details of the goal you copied from. You can update the details for the goal as needed and then select **Save** to save the goal or select **Save and add a target** to save the goal and add a target for the goal. For a description of the field values, see [Goal form](goal-form-egm.md).
+    -   For a target, the New target window opens with all details of the target you copied from. You can update the details for the target as needed and then select **Save** to save the target or select **Save and add a new target** to save the target and add another target for the goal. For a description of the field values, see [Target form](target-form-egm.md).
     By default, the name is **Copy of ABC** where ABC is the name of the goal or target you copied from.
 
 
 ## What to do next
 
-Set more targets for the goals. For more information, see [Add targets for a goal in Strategic Planning](set-targets-for-goal-egm.md) or [Configuring target source for target automation](../concept/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md).
+Set more targets for the goals. For more information, see [Add targets for a goal in Strategic Planning](set-targets-for-goal-egm.md) or [Configuring target source for target automation](setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md).
 

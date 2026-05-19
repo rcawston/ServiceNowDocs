@@ -66,7 +66,7 @@ If activation fails, check roles and skill configuration.
 **Related topics**  
 
 
-[Post activation indexing and customization](../task/post-activation-indexing-and-customization_0.md)
+[Post activation indexing and customization](post-activation-indexing-and-customization_0.md)
 
-[Report a GRC issue](../task/report-a-grc-issue.md)
+[Report a GRC issue](report-a-grc-issue.md)
 

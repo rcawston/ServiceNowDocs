@@ -17,7 +17,7 @@ The hrActivityUtils script include enables you to create HR cases from a record 
 
 This script include requires the HR Lifecycle Events plugin \(com.sn\_hr\_lifecycle\_events\) and runs in the `sn_hr_le` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## hr\_ActivityUtils - createCaseFromProducer\(GlideRecord current, Object producer, String cat\_item.sys\_id\)
 

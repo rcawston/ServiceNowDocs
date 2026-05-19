@@ -36,7 +36,7 @@ After an application has been linked to source control, application developers c
 -   Switch branches.
 -   Import an application from a remote repository.
 
-Source control integration does not support managing applications on a production instance. Instead, you can manage applications on a production instance using the application repository, an update set, or App Engine Studio. For more information about managing applications on a production instance, see [Application sharing](../../applications/concept/c_SharingApplications.md).
+Source control integration does not support managing applications on a production instance. Instead, you can manage applications on a production instance using the application repository, an update set, or App Engine Studio. For more information about managing applications on a production instance, see [Application sharing](../c_SharingApplications.md).
 
 ## Options available from a Git repository
 
@@ -60,9 +60,9 @@ The source control integration sanitizes only content within the application pat
 
 Use an existing MID Server to connect to a source control repository. Accessing an application through a MID Server enables access to repositories behind a firewall.
 
--   **[Source control operations in App Engine Studio](../reference/source-control-operations.md)**  
+-   **[Source control operations in App Engine Studio](source-control-operations.md)**  
 The source control integration primarily supports operations from App Engine Studio \(AES\), but can also support some operations directly from the Git repository.
--   **[Import application or application-customization from source control](../task/source-control-import.md)**  
+-   **[Import application or application-customization from source control](source-control-import.md)**  
 Import an app or app customization from a source control repository into App Engine Studio \(AES\) to continue developing it on this instance.
 -   **[Work with changes in Git](work-changes-in-git.md)**  
 Developers using App Engine Studio \(AES\) can pull and commit changes in their Git repository.
@@ -70,11 +70,11 @@ Developers using App Engine Studio \(AES\) can pull and commit changes in their 
 App developers using App Engine Studio \(AES\) can create versions and branches in their Git repositories.
 -   **[Stash changes](stash-changes.md)**  
 Developers can remove and save changes locally to apply them later, and manage stashed changes from App Engine Studio \(AES\).
--   **[Resolve conflicts](../task/source-control-resolve-conflicts.md)**  
+-   **[Resolve conflicts](source-control-resolve-conflicts.md)**  
 App developers can select the app file version to use when applying remote or stashed changes in App Engine Studio \(AES\).
--   **[View commit history](../task/source-control-view-commit-history.md)**  
+-   **[View commit history](source-control-view-commit-history.md)**  
 App developers can view the commit history of apps linked to a source control repository in App Engine Studio \(AES\).
--   **[Move application files in a Git repository](../task/source-control-move-files-git.md)**  
+-   **[Move application files in a Git repository](source-control-move-files-git.md)**  
 Move application files linked to source control to any folder of the repository when working in App Engine Studio \(AES\). Allow application developers to store supporting content such as automated tests in the same repository as the applications they support.
 
 **Parent Topic:**[Building apps in App Engine Studio](aes-app-creation.md)

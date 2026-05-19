@@ -73,14 +73,14 @@ Activate the applications in the following order:
 2.  Supplier Case Management \(com.snc.sn\_supplier\_mgmt\)
 3.  Now Assist for Supplier Lifecycle Operations \(SLO\) \(com.snc.sn\_supplier\_gen\_ai\)
 
-For more information, see [Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../task/now-assist-slo-configuring.md).
+For more information, see [Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-configuring.md).
 
 **Related topics**  
 
 
 [Explore Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-exploring.md)
 
-[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../task/now-assist-slo-configuring.md)
+[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-configuring.md)
 
 [Use Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-using.md)
 

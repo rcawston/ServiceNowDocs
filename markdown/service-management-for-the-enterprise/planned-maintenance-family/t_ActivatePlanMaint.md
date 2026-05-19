@@ -36,8 +36,8 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with SM Planned Maintenance](../reference/r_InstallWServMgmtPlanMaint.md)**  
+-   **[Installed with SM Planned Maintenance](r_InstallWServMgmtPlanMaint.md)**  
 The SM Planned Maintenance core plugin also includes demo data.
 
-**Parent Topic:**[Planned Maintenance](../concept/c_SMPlanMaint.md)
+**Parent Topic:**[Planned Maintenance](c_SMPlanMaint.md)
 

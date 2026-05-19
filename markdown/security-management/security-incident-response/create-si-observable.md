@@ -49,7 +49,7 @@ Select classification tag
 
 </td><td>
 
-If you set up and activated [security tags](../../security-operations-common/task/create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the observable. If you did not set up or activate security tags, this drop-down list is not displayed.
+If you set up and activated [security tags](../create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the observable. If you did not set up or activate security tags, this drop-down list is not displayed.
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ Select one of the following:-   **Malicious**: Indicates that the observable is 
 -   **Suspicious**: Indicates that the observable might be harmful to the organization.
 -   **Clean**: Indicates that the observable is not harmful to the organization.
 -   **Unknown**: Indicates that we are yet to determine the observable's finding.
--   Default value: Unknown. For more information, see [Threat Lookup Finding Calculators](../../threat-intelligence/concept/threat-lookup-finding-calculators.md).
+-   Default value: Unknown. For more information, see [Threat Lookup Finding Calculators](../threat-lookup-finding-calculators.md).
 
  **Note:** After an upgrade, existing observables are marked Malicious.
 
@@ -125,7 +125,7 @@ Location
 
 </td><td>
 
-Using the settings in two properties and a script include definition, you can load [Load more IoC data](../../threat-intelligence/task/t_LoadAdditionalIoCData.md) in this field.
+Using the settings in two properties and a script include definition, you can load [Load more IoC data](../t_LoadAdditionalIoCData.md) in this field.
 
 </td></tr><tr><td>
 
@@ -185,7 +185,7 @@ Context
 
 Selected by the user. Choices are:-   IP - Source or Destination
 
-**Note:** If Threat Intelligence and Palo Alto Networks - Firewall are activated, changing or adding a value to this field causes the [Get Log Data Flow](../../secops-integration-sir/secops-integration-palo-alto-firewall/task/get-threat-log-data.md#) [Security Operations Palo Alto Networks - Get Log Data](../../secops-integration-sir/secops-integration-palo-alto-firewall/task/get-threat-log-data.md#) workflow to execute. The workflow retrieves enriched threat log data from the firewall and attaches it to the security incident. The information is also parsed and displayed in the [Firewall Logs](t_ManuallyCreateSecurityIncident.md) section under the **Enrichment Data** tab.
+**Note:** If Threat Intelligence and Palo Alto Networks - Firewall are activated, changing or adding a value to this field causes the [Get Log Data Flow](get-threat-log-data.md#) [Security Operations Palo Alto Networks - Get Log Data](get-threat-log-data.md#) workflow to execute. The workflow retrieves enriched threat log data from the firewall and attaches it to the security incident. The information is also parsed and displayed in the [Firewall Logs](t_ManuallyCreateSecurityIncident.md) section under the **Enrichment Data** tab.
 
 -   URL - Referrer
 

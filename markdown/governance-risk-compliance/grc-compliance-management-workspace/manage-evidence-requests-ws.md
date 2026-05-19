@@ -21,7 +21,7 @@ An evidence request is frequently introduced during the audit preparation or pla
 
 Starting with version 11.0.2 release, an unplanned evidence request is supported by the Audit Management and Policy and Compliance Management applications in the following ways.
 
--   Evidence can be requested from an engagement and all audit tables. To understand how to request evidence, see [Request evidence for audit](../../grc-audit/task/request-evidence.md).
+-   Evidence can be requested from an engagement and all audit tables. To understand how to request evidence, see [Request evidence for audit](../audit-management/request-evidence.md).
 -   Compliance teams can request evidence from control owners, business stakeholders, and process owners.
 -   Audit teams can request evidence from control owners, business stakeholders, process owners, and compliance teams.
 -   Assigned users can provide evidence directly from the Service Portal.

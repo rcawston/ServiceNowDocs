@@ -118,7 +118,7 @@ There may be discovery errors not assigned to any category:
 8.  If you performed an action on a selection and the error was resolved, you can click **Resolve All** to apply the same action to all items in the list.
 
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
@@ -137,7 +137,7 @@ There may be discovery errors not assigned to any category:
 
 [Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

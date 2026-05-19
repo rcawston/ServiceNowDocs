@@ -24,7 +24,7 @@ To integrate with Microsoft 365, activate the following plugins:
 -   Software Asset Management Professional for Microsoft \(com.snc.samp.microsoft\) plugin
 -   Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) plugin from the [ServiceNow Store](https://store.servicenow.com/)
 
-    For more information, see [Request SaaS License Management](request-saas-license-management.md).
+    For more information, see [Request SaaS License Management](../saas-license-management/request-saas-license-management.md).
 
 
 ## About this task
@@ -139,7 +139,7 @@ The type of permission for the integration profile to access data correctly and 
 </td></tr></tbody>
 </table>5.  In the Process configuration section, view the required user roles or API permissions to minimize security risks and optimize SaaS licenses.
 
-    **Note:** For more information about the required roles and scopes, see [Minimal user permissions](../concept/integrate-with-microsoft.md) table.
+    **Note:** For more information about the required roles and scopes, see [Minimal user permissions](integrate-with-microsoft.md) table.
 
     -   The **Download subscriptions** check box is selected by default and you can't clear it.
     -   The **Download Activity** check box is selected by default. If you clear it, activity data for this integration profile isn't pulled.
@@ -170,7 +170,7 @@ After creating an integration profile, view information about the profile in the
 -   Subscription Identifier Exclusion Rule
 -   Subscription User Exclusion Rule
 
-After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](../concept/subscription-exclusions.md#).
+After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](../saas-license-management/subscription-exclusions.md#).
 
 When you create an integration profile, a reclamation rule is automatically created for the software. It's important that you review the reclamation rule to ensure that it meets your specifications. You can view all automatically generated reclamation rules for Office 365 by navigating to **Software Asset** &gt; **Administration** &gt; **Reclamation Rules**. Reclamation rules are applied based on the Microsoft System Center Configuration Management \(SCCM\) usage data that is pulled through the Microsoft SCCM usage integration. For more information on these reclamation rules, see [Create a reclamation rule to import Microsoft SCCM usage data](create-reclamation-rule-sccm.md).
 
@@ -179,9 +179,9 @@ When you create an integration profile, a reclamation rule is automatically crea
 **Related topics**  
 
 
-[Review a software reclamation rule](add-reclamation-rule-sub.md)
+[Review a software reclamation rule](../saas-license-management/add-reclamation-rule-sub.md)
 
-[Reclamation rules for Microsoft 365 integration](../reference/m365-reclamation-rules.md)
+[Reclamation rules for Microsoft 365 integration](m365-reclamation-rules.md)
 
-[Software Asset Management software suites](../concept/software-suites.md)
+[Software Asset Management software suites](software-suites.md)
 

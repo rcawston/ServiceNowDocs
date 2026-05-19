@@ -79,5 +79,5 @@ Role required:
 9.  In Action 26, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for T1070 - Windows Events Logs Cleared](../concept/playbook-windows-events-log.md)
+**Parent Topic:**[Playbook for T1070 - Windows Events Logs Cleared](playbook-windows-events-log.md)
 

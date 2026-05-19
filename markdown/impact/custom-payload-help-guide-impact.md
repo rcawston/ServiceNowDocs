@@ -117,5 +117,5 @@ Example: Third-party request body:
     Sends a sample notification to verify webhook integration.
 
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](io-alerts-intro.md)
 

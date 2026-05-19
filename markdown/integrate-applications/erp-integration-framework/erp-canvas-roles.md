@@ -145,5 +145,5 @@ If users need access to work with specific ERP data models, such as purchasing o
 |Vendor invoice user|sn\_erp\_integration.sap\_vendor\_invoice\_user|
 |Vendor user|sn\_erp\_integration.sap\_vendor\_user|
 
-**Parent Topic:**[Configuring Zero Copy Connector for ERP](../concept/erp-integration-configuration-overview.md)
+**Parent Topic:**[Configuring Zero Copy Connector for ERP](erp-integration-configuration-overview.md)
 

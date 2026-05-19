@@ -35,7 +35,7 @@ Setting this property may make it difficult to debug connection and access issue
 
 3.  Open the `edgeencryption.properties` file.
 
-4.  Set the [password encryption property](../reference/edge-encryption-proxy-server-properties.md).
+4.  Set the [password encryption property](edge-encryption-proxy-server-properties.md).
 
 5.  Save and close the `edgeencryption.properties` file.
 

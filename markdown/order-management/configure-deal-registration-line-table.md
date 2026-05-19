@@ -37,7 +37,7 @@ The deal registration line table contains line items linked to a deal registrati
 
 5.  On the form, fill in the fields.
 
-    To learn about the fields on the form, see [Deal registration line table fields](../reference/deal-registration-line-table-fields.md).
+    To learn about the fields on the form, see [Deal registration line table fields](deal-registration-line-table-fields.md).
 
 6.  Select **Submit**.
 

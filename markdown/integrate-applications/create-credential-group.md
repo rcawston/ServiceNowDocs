@@ -15,7 +15,7 @@ Create a credential group to include a robot credential and application credenti
 
 ## Before you begin
 
-Familiarize yourself with the credential management concept. For more information, see [Credential Management in RPA Hub](../concept/credential-management-rpa-hub.md).
+Familiarize yourself with the credential management concept. For more information, see [Credential Management in RPA Hub](credential-management-rpa-hub.md).
 
 Create a robot credential. For more information, see [Create a robot credential in RPA Hub](create-credential-set-botprocess.md).
 
@@ -58,7 +58,7 @@ Associate one or more application credentials to the credential group in RPA Hub
 
 ### Before you begin
 
-Familiarize yourself with the credential management concept. For more information, see [Credential Management in RPA Hub](../concept/credential-management-rpa-hub.md).
+Familiarize yourself with the credential management concept. For more information, see [Credential Management in RPA Hub](credential-management-rpa-hub.md).
 
 Create a credential group. For more information, see [Create a credential group in RPA Hub](create-credential-group.md#).
 
@@ -93,13 +93,13 @@ Associate one or more unattended bot processes to a credential group in RPA Hub 
 
 ### Before you begin
 
-Familiarize yourself with the credential management concept. For more information, see [Credential Management in RPA Hub](../concept/credential-management-rpa-hub.md).
+Familiarize yourself with the credential management concept. For more information, see [Credential Management in RPA Hub](credential-management-rpa-hub.md).
 
 Create a credential group. For more information, see [Create a credential group in RPA Hub](create-credential-group.md#).
 
 Create a robot credential. For more information, see [Create a robot credential in RPA Hub](create-credential-set-botprocess.md).
 
-Create an unattended bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create an unattended bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 You can't edit the **Process Credential Mappings** record when the life-cycle stage status of the associated bot process is set to **Published**.
 
@@ -144,7 +144,7 @@ Provide access to either all users or specific users in the Managed by group of 
 
 ### Before you begin
 
-Familiarize yourself with the credential management concept. For more information, see [Credential Management in RPA Hub](../concept/credential-management-rpa-hub.md).
+Familiarize yourself with the credential management concept. For more information, see [Credential Management in RPA Hub](credential-management-rpa-hub.md).
 
 Create a credential group. For more information, see [Create a credential group in RPA Hub](create-credential-group.md#).
 

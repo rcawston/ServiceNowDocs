@@ -157,5 +157,5 @@ Specification that is associated with an install base item. Option that helps in
 **Related topics**  
 
 
-[Create an install base item](../concept/mco-create-install-base-item.md)
+[Create an install base item](mco-create-install-base-item.md)
 

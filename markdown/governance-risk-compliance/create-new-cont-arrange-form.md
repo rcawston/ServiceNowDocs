@@ -743,5 +743,5 @@ Identification of alternative ICT TPP
 Supplementary details on the identification of alternative ICT third-party providers \(TPP\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a contract and enhance digital resilience data](../task/create-drtp-reg-contract.md)
+</table>**Parent Topic:**[Create a contract and enhance digital resilience data](create-drtp-reg-contract.md)
 

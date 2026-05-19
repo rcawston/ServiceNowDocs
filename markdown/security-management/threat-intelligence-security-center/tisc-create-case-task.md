@@ -58,19 +58,19 @@ Role required: sn\_sec\_tisc.analyst, sn\_sec\_tisc.admin
 
     Your case task will be associated with your case.
 
-    **Note:** After saving the case task, you can add tags and taxonomies to the task. For more information, see [Creating Taxonomies](../concept/create-taxonomies.md).
+    **Note:** After saving the case task, you can add tags and taxonomies to the task. For more information, see [Creating Taxonomies](create-taxonomies.md).
 
 
-**Parent Topic:**[Threat Analyst Workbench](../concept/threat-analyst-workbench.md)
+**Parent Topic:**[Threat Analyst Workbench](threat-analyst-workbench.md)
 
 **Related topics**  
 
 
-[Workbench Overview](../concept/workbench-overview.md)
+[Workbench Overview](workbench-overview.md)
 
-[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+[Creating cases using Threat Analyst Workbench](create-cases-using-threat-analyst-workbench.md)
 
-[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+[Working with Investigation Canvas](tisc-investigation-canvases.md)
 
 [Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
 

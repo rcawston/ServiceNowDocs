@@ -74,5 +74,5 @@ In this scenario, the existing Unclassed Hardware CI is not reclassified as a Wi
 **Related topics**  
 
 
-[Reclassify unclassed hardware](../../security-exposure-management-remediation/task/sem-reclassify-unclassed-hardware.md)
+[Reclassify unclassed hardware](sem-reclassify-unclassed-hardware.md)
 

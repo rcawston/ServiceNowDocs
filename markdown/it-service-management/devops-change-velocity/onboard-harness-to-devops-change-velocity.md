@@ -17,7 +17,7 @@ Connect to your Harness instance using the DevOps Change Workspace playbook to d
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -140,5 +140,5 @@ You’ve successfully onboarded your Harness tool to DevOps Change Velocity.
 
 **Note:** If your tool credential changes, you must also update the credentials in DevOps Change. For more information, see [Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md).
 
-**Parent Topic:**[Harness integration with DevOps Change Velocity](../concept/harness-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Harness integration with DevOps Change Velocity](harness-integration-with-devops-change-velocity.md)
 

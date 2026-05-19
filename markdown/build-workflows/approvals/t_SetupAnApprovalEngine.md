@@ -15,7 +15,7 @@ breadcrumb: [Approval engines, Classic approvals, Build workflows]
 
 To manage the approvals for each of the Task tables in the system, set up an approval engine.
 
-**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](../../flow-designer/reference/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
+**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](../workflow-studio/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: none
 
     ![Approval engine page](../image/ApprovalEnginePage.png)
 
-2.  Select the [approval engine option](../concept/c_ApprovalEngines.md#table_ApprovalEngineOptions) for each Task table from the choice list.
+2.  Select the [approval engine option](c_ApprovalEngines.md#table_ApprovalEngineOptions) for each Task table from the choice list.
 
 3.  Click **Save**.
 

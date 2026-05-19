@@ -106,5 +106,5 @@ Detailed instructions for each procedure follow this overview.
 
 ## Next steps
 
-When you have finished all Day-1 and Day-2 procedures in this setup guide, see the [Cloud Provisioning and Governance administration guide](../../cloud-management-v2/concept/cloud-configuration.md) for information on using the Cloud Provisioning and Governance application in your organization.
+When you have finished all Day-1 and Day-2 procedures in this setup guide, see the [Cloud Provisioning and Governance administration guide](cloud-configuration.md) for information on using the Cloud Provisioning and Governance application in your organization.
 

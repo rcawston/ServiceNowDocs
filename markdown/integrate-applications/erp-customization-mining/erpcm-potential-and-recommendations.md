@@ -24,7 +24,7 @@ Every candidate has an ERP module specified in the candidate details in ERP Sema
 
 **Note:**
 
-Admins must first configure the connection to the ERP system in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](../../erp-integration/concept/erp-canvas-work-with-systems.md).
+Admins must first configure the connection to the ERP system in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](../erp-integration-framework/erp-canvas-work-with-systems.md).
 
 ## High and low scores for candidate potential
 

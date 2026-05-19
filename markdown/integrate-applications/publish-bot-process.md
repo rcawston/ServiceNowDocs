@@ -15,11 +15,11 @@ Publish a bot process so that you can get it ready to execute a process.
 
 ## Before you begin
 
-Ensure that the associated package version complies with the code quality check system property **sn\_rpa\_fdn.restrict\_package\_by\_severity**, to verify if the code quality check is enabled in the RPA Hub instance. For more information about the system property, see [Configure RPA Hub properties](../reference/rpahub-sys-properties.md). For more information about the compliance rules, see [Code quality check compliance for RPA Hub](../reference/cqc-publish-rpa-hub.md).
+Ensure that the associated package version complies with the code quality check system property **sn\_rpa\_fdn.restrict\_package\_by\_severity**, to verify if the code quality check is enabled in the RPA Hub instance. For more information about the system property, see [Configure RPA Hub properties](rpahub-sys-properties.md). For more information about the compliance rules, see [Code quality check compliance for RPA Hub](cqc-publish-rpa-hub.md).
 
 Ensure that you complete the following tasks to publish an unattended bot process in the order that they’re presented.
 
-1.  Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+1.  Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 2.  Associate a credential group. For more information, see [Associate a credential group to a bot process in RPA Hub](map-credential-groups-to-bot-process.md).
 3.  Assign a robot to a bot process. For more information, see [Assign a robot to a bot process in RPA Hub](assign-robots.md).
 4.  Assign a process robot credential within a bot process. For more information, see [Assign a process robot credential within a bot process in RPA Hub](assign-process-robot-cred-botprocess.md).
@@ -27,7 +27,7 @@ Ensure that you complete the following tasks to publish an unattended bot proces
 
 Ensure that you complete the following tasks to publish an attended bot process in the order that they’re presented.
 
-1.  Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+1.  Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 2.  Assign an attended user or group to an attended bot process. For more information, see [Assign an attended user or group to an attended bot process](assign-rda-users-botprocess.md).
 
 If you are publishing an unattended bot process that is assigned to a robot pool, then ensure that the following conditions are met:
@@ -43,7 +43,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager, sn\_rpa\_fdn.rpa\_developer, 
 
 ## About this task
 
-Publishing a bot process is one of the life-cycle stages of a bot process. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](../reference/lifecycle-stages-botprocess.md).
+Publishing a bot process is one of the life-cycle stages of a bot process. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](lifecycle-stages-botprocess.md).
 
 ## Procedure
 
@@ -68,5 +68,5 @@ After you publish a bot process, the added schedule \(if any\) takes effect.
 
 If there is no schedule, the published bot process is ready to be triggered by the API.
 
-**Parent Topic:**[Configuring a bot process record in RPA Hub](../concept/create-botprocess.md)
+**Parent Topic:**[Configuring a bot process record in RPA Hub](create-botprocess.md)
 

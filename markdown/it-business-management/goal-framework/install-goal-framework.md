@@ -53,7 +53,7 @@ The following components are installed with installation of the Goal Framework o
 -   Scheduled jobs
 -   Target automation script for benefit plans \(installed with Goal Framework for SPM\)
 
-As part of Goal Framework for SPM installation, components of both Goal Framework and Goal Framework for SPM are installed. See [Components installed with Goal Framework and Goal Framework for SPM](../reference/components-installed-with-goal-framework.md) for more information.
+As part of Goal Framework for SPM installation, components of both Goal Framework and Goal Framework for SPM are installed. See [Components installed with Goal Framework and Goal Framework for SPM](components-installed-with-goal-framework.md) for more information.
 
-**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](../concept/configuring-goal-framework.md)
+**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](configuring-goal-framework.md)
 

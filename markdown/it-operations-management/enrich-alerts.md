@@ -40,7 +40,7 @@ Alert enrichment rules automatically enhance incoming alerts with additional con
 
     The Enrich alerts page opens.
 
-5.  Follow the steps in [Create Enrich automation](../../service-operations-workspace-itom/task/enrich-alert-sow-itom.md).
+5.  Follow the steps in [Create Enrich automation](service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
 6.  To complete the setup, select **Mark as configured**.
 

@@ -63,9 +63,9 @@ The following lineage information is collected by the dbt Cloud collector.
 
 Snowflake is the currently supported data source for cross-system lineage.
 
--   **[Prepare to run the dbt Cloud collector](../task/prepare-to-run-dbt-cloud-collector.md#)**  
+-   **[Prepare to run the dbt Cloud collector](prepare-to-run-dbt-cloud-collector.md#)**  
 Configure dbt Cloud and create authentication tokens before running the collector.
--   **[Create a dbt Cloud metadata collector](../task/create-dbt-cloud-metadata-collector.md)**  
+-   **[Create a dbt Cloud metadata collector](create-dbt-cloud-metadata-collector.md)**  
 Create a collector to import metadata from dbt Cloud.
 
 **Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)

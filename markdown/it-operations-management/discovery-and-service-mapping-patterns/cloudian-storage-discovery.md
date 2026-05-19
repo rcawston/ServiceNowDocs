@@ -422,5 +422,5 @@ Storage Server to Disks and File Systems
 |cmdb\_ci\_storage\_server|Virtualized by::Virtualizes|cmdb\_ci\_vm\_instance|
 |cmdb\_ci\_disk|Provides::Provided by|cmdb\_ci\_file\_system|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

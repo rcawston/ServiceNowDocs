@@ -71,7 +71,7 @@ Anyone with whom the exploration is shared either without editing rights or with
 
 To learn more about configuring and using AI Data Explorer, see:
 
--   [Activate AI Data Explorer skills](../task/activate-now-ass-explorer.md)
+-   [Activate AI Data Explorer skills](activate-now-ass-explorer.md)
 -   [Using AI Data Explorer](use-now-assist-explorer.md)
 -   [AI Data Explorer reference](now-assist-explorer-reference.md)
 

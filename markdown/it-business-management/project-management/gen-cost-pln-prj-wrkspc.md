@@ -17,14 +17,14 @@ Generate labor costs based on the planning attributes configured for financials 
 
 ## Before you begin
 
--   Review the planning attributes enabled for financials. For more information, see [Using the Planning attributes](../concept/planning-attributes.md).
+-   Review the planning attributes enabled for financials. For more information, see [Using the Planning attributes](planning-attributes.md).
 -   Role required: it\_project\_manager
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **All** and select the required project.
 
-    Make sure that the resource assignments are finalized to generate cost plans. If there are no resource assignments for the project, migrate the resource plans to resource assignments. For more information, see [Migrate resource plans and cost plans for projects and demands](../../resource-management/task/migrate-rsrc-plan-rsrc-asgnmnt.md).
+    Make sure that the resource assignments are finalized to generate cost plans. If there are no resource assignments for the project, migrate the resource plans to resource assignments. For more information, see [Migrate resource plans and cost plans for projects and demands](../resource-management/migrate-rsrc-plan-rsrc-asgnmnt.md).
 
 2.  Generate labor costs using one of the following options.
 
@@ -65,7 +65,7 @@ Select the **Generate Labor Costs** related link.
 2.  Filter the Name field to locate the **Generate labor costs for demands and projects** scheduled job and open it.
 3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
-For a description of the field names, see [Scheduled Script Execution Form](../reference/scheduled-script-execution-form.md).
+For a description of the field names, see [Scheduled Script Execution Form](scheduled-script-execution-form.md).
 
 4.  Select **Update**.
 
@@ -102,7 +102,7 @@ Activate and trigger a scheduled job to generate attribute-based labor costs for
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -124,7 +124,7 @@ Activate and trigger a scheduled job to generate attribute-based labor costs for
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Create a project status report](t_CreateAProjectStatusReport.md)
 
@@ -136,5 +136,5 @@ Activate and trigger a scheduled job to generate attribute-based labor costs for
 
 [Activate a scheduled job to generate labor costs](gen-labor-costs-scheduled-job-ppm.md#)
 
-[Scheduled Script Execution Form](../reference/scheduled-script-execution-form.md)
+[Scheduled Script Execution Form](scheduled-script-execution-form.md)
 

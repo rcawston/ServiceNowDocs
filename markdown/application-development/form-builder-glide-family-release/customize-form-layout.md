@@ -17,13 +17,13 @@ Visually design the look of the forms your users see by customizing form views i
 
 ## Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](../concept/accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](../concept/form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](../concept/fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-**Note:** To understand how to approach customizing your forms, review [Table Builder workflow and navigation](../concept/form-builder-workflow.md).
+**Note:** To understand how to approach customizing your forms, review [Table Builder workflow and navigation](form-builder-workflow.md).
 
-Role required: personalize\_form or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_form or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -108,5 +108,5 @@ Detach a section. You can split two previously merged sections apart into separa
 5.  Select **Save**.
 
 
-**Parent Topic:**[Forms in Table Builder](../concept/form-view-configuration.md)
+**Parent Topic:**[Forms in Table Builder](form-view-configuration.md)
 

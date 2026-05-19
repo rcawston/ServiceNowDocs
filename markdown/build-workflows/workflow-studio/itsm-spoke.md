@@ -50,5 +50,5 @@ Users with the admin, flow\_designer, or action\_designer roles can open and vie
 
 For example, the Create Normal Change Request from Incident action uses the common Task table fields for Short description, Configuration Item, Priority, Domain, Company, and Description to create a Change Request from an Incident.
 
-**Parent Topic:**[Spokes](../concept/spokes.md)
+**Parent Topic:**[Spokes](spokes.md)
 

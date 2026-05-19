@@ -15,11 +15,11 @@ breadcrumb: [UI generation, Use generative AI, Now Assist for Creator, Vibe codi
 
 Reference topics provide additional information about configuration properties, roles, and more.
 
--   **[UI generation roles](../reference/ui-generation-roles.md)**  
+-   **[UI generation roles](ui-generation-roles.md)**  
 The following roles are installed for use with UI generation.
--   **[Roles and permissions matrix](../reference/roles-and-permissions-matrix.md)**  
+-   **[Roles and permissions matrix](roles-and-permissions-matrix.md)**  
 Learn about the roles required to access each UI Generation feature.
--   **[Natural language synonyms for formula operators](../reference/natural-language-synonyms-for-formula-operators.md)**  
+-   **[Natural language synonyms for formula operators](natural-language-synonyms-for-formula-operators.md)**  
 Data Binding Generation enables Now Assist to recognize property names by using a set of frequently used synonyms.
 
 **Parent Topic:**[UI generation](ui-generation-landing.md)

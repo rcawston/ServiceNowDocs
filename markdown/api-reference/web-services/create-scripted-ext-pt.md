@@ -47,5 +47,5 @@ By creating a good definition, you provide a structure for the extensions.
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Creating and adding a scripted extension point](../concept/impl-scripted-ext-pts-base-code.md)
+**Parent Topic:**[Creating and adding a scripted extension point](impl-scripted-ext-pts-base-code.md)
 

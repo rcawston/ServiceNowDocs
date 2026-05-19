@@ -62,5 +62,5 @@ You can create as many locations as needed, but you must have at least one locat
 
 [Create and edit a synthetic monitor](create-synthetic-monitor.md)
 
-**Parent Topic:**[Configuring synthetic monitoring](../concept/configuring-synthetic-monitoring.md)
+**Parent Topic:**[Configuring synthetic monitoring](configuring-synthetic-monitoring.md)
 

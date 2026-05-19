@@ -17,7 +17,7 @@ Manage documents by uploading, updating and downloading the required documents f
 
 ## Before you begin
 
-Ensure that you have created a supplier document configuration. For more information, see [Supplier Document Management](../concept/supp-doc-mgmt-overview.md).
+Ensure that you have created a supplier document configuration. For more information, see [Supplier Document Management](supp-doc-mgmt-overview.md).
 
 Role required: sn\_slm.contact or sn\_slm.admin
 
@@ -43,20 +43,20 @@ You can upload, update, and download documents and document templates from the d
 -   **[Upload document from My Tasks page](upload-document-from-my-tasks-page.md)**  
 Complete the document upload tasks assigned to you from the My tasks page on the Supplier Collaboration Portal.
 
-**Parent Topic:**[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+**Parent Topic:**[Using Supplier Collaboration Portal](use-supp-central.md)
 
 **Related topics**  
 
 
 [Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)
 
-[Supplier contact self-registration](../concept/supp-contact-self-reg.md)
+[Supplier contact self-registration](supp-contact-self-reg.md)
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
-[Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md)
+[Viewing supplier contact tasks from the Supplier Collaboration Portal](my-to-dos.md)
 
 [View or update your user profile from the Supplier Collaboration Portal](view-update-supp-profile.md)
 
@@ -70,9 +70,9 @@ Complete the document upload tasks assigned to you from the My tasks page on the
 
 [Complete a risk assessment from the Supplier Collaboration Portal](complete-risk-assessments.md)
 
-[Create a Universal Request from the Supplier Collaboration Portal](../concept/create-universal-request.md)
+[Create a Universal Request from the Supplier Collaboration Portal](create-universal-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 [View all your requests from the Supplier Collaboration Portal](view-supp-case-sc.md)
 

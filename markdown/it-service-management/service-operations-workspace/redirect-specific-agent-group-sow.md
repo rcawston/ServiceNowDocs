@@ -45,5 +45,5 @@ Only the agents who are part of specified user groups are redirected to Service 
         2.  On the **Edit Members** form, add the itil role from the **Collection** list to the **Roles List** list.
         3.  Select **Save**.
 
-**Parent Topic:**[Landing page redirection in Service Operations Workspace for ITSM](../concept/landing-page-redirection-sow-itsm.md)
+**Parent Topic:**[Landing page redirection in Service Operations Workspace for ITSM](landing-page-redirection-sow-itsm.md)
 

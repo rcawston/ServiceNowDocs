@@ -25,5 +25,5 @@ Properties control how skills approvals are managed and whether Skills Foundatio
 
 Select the check box to set the property to **Yes**. When the property is set to yes, all activities in the growth plan are automatically set to the ready state.
 
-**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+**Parent Topic:**[Talent Development Core application reference](egd-reference.md)
 

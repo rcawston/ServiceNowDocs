@@ -29,10 +29,10 @@ Every shape in Enterprise Modeling and Visualization is associated with an image
 
 3.  Fill in the details in the new image form.
 
-    For more details, see [New image form](../../reference/eaw-reference/eaw-modeling-image-form.md).
+    For more details, see [New image form](eaw-modeling-image-form.md).
 
 
-**Parent Topic:**[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+**Parent Topic:**[Working with custom shapes](eaw-working-custom-shapes.md)
 
 **Related topics**  
 

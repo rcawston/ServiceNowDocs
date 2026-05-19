@@ -130,5 +130,5 @@ After you have customized the display of your search results, select the AI Sear
 
 Consider configuring a customized empty state display to inform users that their search has not produced any results. If you do not customize an empty state, a preconfigured default empty state is displayed. To customize an empty state, see [Configure an empty state for search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/empty-state-search-results.md).
 
-**Parent Topic:**[AI Search in mobile](../concept/text-search-advanced-now.md)
+**Parent Topic:**[AI Search in mobile](text-search-advanced-now.md)
 

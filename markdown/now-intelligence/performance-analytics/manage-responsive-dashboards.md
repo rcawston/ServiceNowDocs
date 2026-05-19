@@ -26,7 +26,7 @@ Role required: dashboard\_admin or admin, or be the owner of the dashboard.
 
 Inform any users that you have shared the dashboard with that you are deleting it. Users may have bookmarked the dashboard or marked it as a favorite. Those users see an error when they try to access a deleted dashboard.
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Delete a Platform Analytics dashboard](delete-db-in-ac.md).
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Delete a Platform Analytics dashboard](../delete-db-in-ac.md).
 
 ### Procedure
 
@@ -68,7 +68,7 @@ When you duplicate a responsive dashboard, its widget layout is preserved. Howev
 
 ### Before you begin
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#).
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Duplicate a Platform Analytics dashboard](../duplicate-db.md#).
 
 Role required: Any user who can share a dashboard can copy it.
 
@@ -99,7 +99,7 @@ Provide a more useful name for your dashboard by renaming it.
 
 ### Before you begin
 
-Role required: Users can edit dashboards that they own, or ones that they have the right to edit. See [Dashboard permissions](../concept/c_DashboardRoles.md) for more information about viewing and editing rights on dashboards.
+Role required: Users can edit dashboards that they own, or ones that they have the right to edit. See [Dashboard permissions](c_DashboardRoles.md) for more information about viewing and editing rights on dashboards.
 
 ### Procedure
 
@@ -128,7 +128,7 @@ Users with the dashboard\_admin or admin role can remove users, groups, or roles
 
 Users with the pa\_admin or pa\_power\_user role can remove users, groups, or roles from any dashboard that they can edit. These dashboards include dashboards that a user owns, and dashboards to which they have been granted edit rights.
 
-For more information, see [Dashboard permissions](../concept/c_DashboardRoles.md).
+For more information, see [Dashboard permissions](c_DashboardRoles.md).
 
 ### Procedure
 

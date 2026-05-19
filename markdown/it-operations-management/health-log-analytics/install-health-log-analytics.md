@@ -86,11 +86,11 @@ The Health Log Analytics application is installed and provisioned on your instan
 
 ## What to do next
 
--   [Set up the data input process for Health Log Analytics](../concept/hla-implement.md)
+-   [Set up the data input process for Health Log Analytics](hla-implement.md)
 -   \(Optional\) Install the ServiceNow® Agent Client Collector Log Analytics \(ACC-L\) plugin.
 
-    Agent Client Collector Log Analytics enables you to stream log data from Linux and Windows hosts to a ServiceNow instance using the Agent Client Collector. For more information, see the [Agent Client Collector Log Analytics](../../agent-client-collector/concept/acc-log-analytics.md) documentation.
+    Agent Client Collector Log Analytics enables you to stream log data from Linux and Windows hosts to a ServiceNow instance using the Agent Client Collector. For more information, see the [Agent Client Collector Log Analytics](../agent-client-collector/acc-log-analytics.md) documentation.
 
 
-**Parent Topic:**[Configuring Health Log Analytics](../concept/hla-configuring.md)
+**Parent Topic:**[Configuring Health Log Analytics](hla-configuring.md)
 

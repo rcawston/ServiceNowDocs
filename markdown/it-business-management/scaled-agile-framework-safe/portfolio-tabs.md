@@ -30,9 +30,9 @@ In addition, you can move an epic from one lane to another, which in turn update
 
 The **Backlog** tab enables you to manage your portfolio backlog, which comprises epics.
 
--   **[Track your epics](../task/track-epics.md)**  
+-   **[Track your epics](track-epics.md)**  
 Using the Board tab, track all epics of your portfolio and view their transition from one state \(lane\) to another.
--   **[Manage your portfolio backlog](../task/manage-your-portfolio-backlog.md)**  
+-   **[Manage your portfolio backlog](manage-your-portfolio-backlog.md)**  
 Manage, evaluate, prioritize, and sequence epics in your portfolio backlog.
 
 **Parent Topic:**[Portfolio SAFe](portfolio-overview.md)
@@ -40,7 +40,7 @@ Manage, evaluate, prioritize, and sequence epics in your portfolio backlog.
 **Related topics**  
 
 
-[Components installed with Portfolio SAFe](../reference/installed-with-portfolioSAFe.md)
+[Components installed with Portfolio SAFe](installed-with-portfolioSAFe.md)
 
-[Define a portfolio](../task/create-SAFeportfolio.md)
+[Define a portfolio](create-SAFeportfolio.md)
 

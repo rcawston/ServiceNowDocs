@@ -22,5 +22,5 @@ If upgrading from a previous release, take advantage of the latest article view 
 -   **[Activate Service Portal validation scripts](activate-sp-validation-scripts.md)**  
 Validate user input in a specific field type using a validation script. In new instances, Service Portal includes XML, Script, Script \(Plain\), Email, and Version validation scripts by default. If upgrading from a previous release, the Mobile and Service Portal version is not active by default. You must activate the Mobile and Service Portal version of the validation script to validate user input in the Service Portal.
 
-**Parent Topic:**[Configuring Service Portal](../concept/configuring-service-portal.md)
+**Parent Topic:**[Configuring Service Portal](configuring-service-portal.md)
 

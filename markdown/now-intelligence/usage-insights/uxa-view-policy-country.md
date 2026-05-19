@@ -40,5 +40,5 @@ Role required: admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Types of tracking consent policies in Usage Insights](../reference/uxa-tracking-types.md)
+**Parent Topic:**[Types of tracking consent policies in Usage Insights](uxa-tracking-types.md)
 

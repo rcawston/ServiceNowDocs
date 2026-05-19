@@ -1090,5 +1090,5 @@ Xamarin University
 Application Services
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+</table>**Parent Topic:**[Cloud Cost Management reference](reference-cloudinsights.md)
 

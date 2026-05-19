@@ -32,7 +32,7 @@ Use distributed topic management by establishing two new user criteria, **Topic 
 
 ## Result
 
-Admins can configure additional permission levels to delegate topic management level tasks to these two user criteria. For more information on these two user criteria, see [Topic managers and contributors for topic page management](../concept/topic-managers-and-contributors-for-topic-page-management.md).
+Admins can configure additional permission levels to delegate topic management level tasks to these two user criteria. For more information on these two user criteria, see [Topic managers and contributors for topic page management](topic-managers-and-contributors-for-topic-page-management.md).
 
 ## What to do next
 

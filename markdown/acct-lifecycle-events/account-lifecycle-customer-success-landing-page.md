@@ -15,9 +15,9 @@ Define and track objectives, outcomes, milestones, and plans to achieve shared g
 
 **Important:** Account Lifecycle Events has been renamed to Customer Success Management in Zurich.
 
--   **[Account onboarding](../concept/account-lifecycle-use.md)**  
+-   **[Account onboarding](account-lifecycle-use.md)**  
 With the account onboarding solution, service providers can repeatedly define, measure, and collaborate with customers on the activities needed to onboard rapidly.
--   **[Customer success](../concept/account-lifecycle-use-cust-success.md)**  
+-   **[Customer success](account-lifecycle-use-cust-success.md)**  
 Learn how your organization can use the customer success solution to engage with your customers, mitigate risks by running success plays, and identify opportunities for expansion and renewals.
 
 **Parent Topic:**[Customer Success Management](account-lifecycle-events-landing.md)

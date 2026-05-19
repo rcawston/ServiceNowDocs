@@ -19,7 +19,7 @@ You can perform sighting searches on observables in the MISP instance to determi
 By enriching observables with additional information from various MISP sources during incident response investigations, you can contain identified threats.
 -   **[Managing events in MISP](events-in-misp.md#)**  
 You can create events in MISP automatically or manually from the ServiceNow AI Platform. You can also edit the event data in MISP from the ServiceNow AI Platform.
--   **[Roll up MITRE-ATT&amp;CK information using MISP enrichment results](../task/rollup-mitre-information-using-misp-enrichment-results.md)**  
+-   **[Roll up MITRE-ATT&amp;CK information using MISP enrichment results](rollup-mitre-information-using-misp-enrichment-results.md)**  
 Roll up the MISP enrichment results manually if you haven't enabled the automatic rollup of MISP information.
 
 **Parent Topic:**[MISP integration for Security Operations](misp-integration-for-security-operations.md)

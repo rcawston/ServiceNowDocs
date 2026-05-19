@@ -50,5 +50,5 @@ Role required: admin
 
 The Core Business Suite business unit appears in the installation section.
 
-**Parent Topic:**[Configure Core Business Suite Foundation](../concept/configure-cbs.md)
+**Parent Topic:**[Configure Core Business Suite Foundation](configure-cbs.md)
 

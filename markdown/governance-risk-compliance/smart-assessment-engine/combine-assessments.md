@@ -32,5 +32,5 @@ Combining assessments in Smart Assessment Engine enables multiple benefits to as
 -   By consolidating fragmented and repetitive assessment requests, combined assessments help prevent cognitive overload for assessors, making the process smoother and less stressful.
 -   Submission and auditability of combined assessments remain consistent with existing procedures, ensuring changes are traceable and compliance with audit requirements is maintained.
 
-For more information on how to combine assessments, see [Submit combined assessments](../task/sae-asmnt-combine.md).
+For more information on how to combine assessments, see [Submit combined assessments](sae-asmnt-combine.md).
 

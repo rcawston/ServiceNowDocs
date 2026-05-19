@@ -29,5 +29,5 @@ The default extension points that are provided with an application cannot be mod
     **Note:** API names used in the implementation must remain the same so the extension point can identify the implementation. Otherwise, an error will result.
 
 
-**Parent Topic:**[Setting up Incident Management for Field Service](../concept/setting-up-incident-fsm.md)
+**Parent Topic:**[Setting up Incident Management for Field Service](setting-up-incident-fsm.md)
 

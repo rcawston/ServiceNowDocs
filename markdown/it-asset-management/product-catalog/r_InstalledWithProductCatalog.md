@@ -28,18 +28,18 @@ Product Catalog plugin adds the following client script.
 -   **[Business rules installed with Product Catalog](r_BusinessRulesProductCatalog.md)**  
 Product Catalog plugin adds the following business rules.
 
-**Parent Topic:**[Product Catalog](../concept/c_ProductCatalog.md)
+**Parent Topic:**[Product Catalog](c_ProductCatalog.md)
 
 **Related topics**  
 
 
-[Models](../concept/c_Models.md)
+[Models](c_Models.md)
 
-[Vendor catalog items](../concept/c_ManageVendorCatalogItems.md)
+[Vendor catalog items](c_ManageVendorCatalogItems.md)
 
-[Product catalog items](../concept/c_ManagingProductCatalogItems.md)
+[Product catalog items](c_ManagingProductCatalogItems.md)
 
-[Model categories](../concept/c_ModelCategories.md)
+[Model categories](c_ModelCategories.md)
 
-[Domain separation and Product Catalog](../concept/domain-separation-product-catalog.md)
+[Domain separation and Product Catalog](domain-separation-product-catalog.md)
 

@@ -33,9 +33,9 @@ If you attempt to attach a single IP address to an EDL, and this IP address is p
 
 ![EDL entry CIDR conflict message.](../image/4-30-cidr-ip.png)
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
-**Previous topic:**[Approve EDL entries for Palo Alto Networks Next-Generation Firewall](../task/paloalto-apprv-edl-entries-sncr.md)
+**Previous topic:**[Approve EDL entries for Palo Alto Networks Next-Generation Firewall](paloalto-apprv-edl-entries-sncr.md)
 
-**Next topic:**[\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](../task/paloalto_edit_sectag_name.md)
+**Next topic:**[\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](paloalto_edit_sectag_name.md)
 

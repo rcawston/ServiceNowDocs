@@ -58,5 +58,5 @@ The Operational Technology Vulnerability Response \(PA\) dashboard is now showin
 
 Now, you can review the indicator sources and determine if you need to override the default records collection. For more information, see [Review the indicator sources for a larger number of records](update-indicator-source-to-collect-more-records.md).
 
-**Parent Topic:**[Setting up the Operational Technology Vulnerability Response \(PA\) dashboard](../../operational-technology-management/concept/setting-up-the-otvr-pa-dashboard.md)
+**Parent Topic:**[Setting up the Operational Technology Vulnerability Response \(PA\) dashboard](setting-up-the-otvr-pa-dashboard.md)
 

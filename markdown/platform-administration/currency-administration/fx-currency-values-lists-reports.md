@@ -20,7 +20,7 @@ By default, the currency values that appear in the FX Currency fields in lists a
 In lists, FX Currency values appear as a formatted currency string returned from getDisplayValue\(\).
 
 -   The settings in the **Display Digits** and **Display Value Currency** fields in **System Localization** &gt; **FX Currency Configuration** determine how the currency values appear in lists.
--   To learn more, see [Identify the FX Currency field and its display parameters](../task/fx-currency-display-parameters.md).
+-   To learn more, see [Identify the FX Currency field and its display parameters](fx-currency-display-parameters.md).
 
 For an FX Currency field that depends on another FX Currency field, the currency value comes from the Currency Instance \[fx\_currency2\_instance\] record associated with the latter. The display value format is based on how you configured its display settings in **System Localization** &gt; **FX Currency Configuration.**
 
@@ -87,7 +87,7 @@ You can also use a Group By command on FX Currency fields.
 **Related topics**  
 
 
-[Configuring FX Currency global settings](../task/fx-currency-configure.md)
+[Configuring FX Currency global settings](fx-currency-configure.md)
 
 [Configuring FX Currency field behavior](configure-fx-currency-field-behavior.md)
 

@@ -19,8 +19,8 @@ The CI Form feature is a centralized location with a comprehensive set of CI det
 
 General operations you can perform in CI Form:
 
--   Select the Now Assist for CMDB CI Summarization skill: Requires that Now Assist for CMDB is set up. For more information, see [Configure the CI summarization skill](../task/now-assist-cmdb-config-ci-summary.md).
--   Select **Open map** to open the CI map in [Unified Map](cmdb-workspace-unified-map.md). This function isn't available for a non-operational CI. For information about using the **Life cycle stage** attribute to define a CI's operational state, see [Configure CIs to appear based on life cycle stage value](../task/unified-map-confg-operational-state.md).
+-   Select the Now Assist for CMDB CI Summarization skill: Requires that Now Assist for CMDB is set up. For more information, see [Configure the CI summarization skill](../now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-config-ci-summary.md).
+-   Select **Open map** to open the CI map in [Unified Map](../unified-map/cmdb-workspace-unified-map.md). This function isn't available for a non-operational CI. For information about using the **Life cycle stage** attribute to define a CI's operational state, see [Configure CIs to appear based on life cycle stage value](../unified-map/unified-map-confg-operational-state.md).
 
 In general, a CMDB Admin and a CMDB Editor can view and edit CI records, and a CMDB User can view CI details on the form.
 
@@ -36,7 +36,7 @@ You can control the use and content of CI Form as follows:
 
 -   Set system property **sn\_cmdb\_ws.explore\_ci.record.enabled**:
 
-    This property toggles the use of CI Form when viewing CI records in CMDB Workspace, or in another workspace, if applicable. This property is set to **true** by default, enabling the experience of CI Form. For more information about this property, see [Components installed with CMDB Workspace](../reference/installed-with-cmdb-workspace.md).
+    This property toggles the use of CI Form when viewing CI records in CMDB Workspace, or in another workspace, if applicable. This property is set to **true** by default, enabling the experience of CI Form. For more information about this property, see [Components installed with CMDB Workspace](installed-with-cmdb-workspace.md).
 
 -   Configure the Explore CI view:
 
@@ -88,9 +88,9 @@ A CI that is updated in CI Form, has its **discovery\_source** attribute set to 
 More information:
 
 -   [Identification and Reconciliation Engine \(IRE\)](ire.md)
--   [Reconciliation rules](../reference/r_ReconciliationRulesPrinciples.md)
+-   [Reconciliation rules](r_ReconciliationRulesPrinciples.md)
 -   [Identification rules](c_IdentificationRules.md)
--   [Mandatory attributes](../task/t_SetCIFieldMandatory.md)
+-   [Mandatory attributes](t_SetCIFieldMandatory.md)
 
 Role requirements for operations in this section:
 
@@ -133,7 +133,7 @@ In this section, you can:
 
     -   If the related list table is within the cmdb\_ci hierarchy, has an IRE identification rule, and isn't an excluded table, then you're navigated to the Create CI experience in CMDB Workspace or another workspace if applicable. In the Create CI experience, some CI attributes are pre-populated with the proper values for the class. For example, in the Required attributes section for dependent CIs, the **Dependent-upon CI** attribute is pre-populated with the parent of the current CI. Relationships and resources are also pre-populated according to the CI class definitions.
 
-        For information about the Create CI experience, see [Create a CI manually in CMDB Workspace](../task/create-ci-manual-cmdb-workspace.md).
+        For information about the Create CI experience, see [Create a CI manually in CMDB Workspace](create-ci-manual-cmdb-workspace.md).
 
     -   If the related list table doesn't have an IRE identification rule, then you're navigated to a basic list view page instead of CI Form.
     -   The system automatically creates the matching reference back to the current class. For example, for a dependent CI the system creates the file system and the necessary relationship to connect the file system to the computer CI.
@@ -194,7 +194,7 @@ In this section, you can:
     -   Relationship levels set to 1 level.
     -   Layers set to show Business, Service Instances, Applications, and infrastructure.
     -   Layout is set to Vertical.
-    This function isn't available for a non-operational CI. For information about using the **Life cycle stage** attribute to define a CI's operational state, see [Configure CIs to appear based on life cycle stage value](../task/unified-map-confg-operational-state.md).
+    This function isn't available for a non-operational CI. For information about using the **Life cycle stage** attribute to define a CI's operational state, see [Configure CIs to appear based on life cycle stage value](../unified-map/unified-map-confg-operational-state.md).
 
     If the CI class is a Service Instance \[cmdb\_ci\_service\_auto\] or a derived class, then you must either use Service Mapping \(if installed\) to edit a map for a Service Instance, or edit dependency relationships in Unified Map.
 
@@ -203,10 +203,10 @@ In this section, you can:
 More information about relationships and about editing relationships in Unified Map:
 
 -   [CI relationships in the CMDB](c_CIRelationships.md)
--   [Edit relationships in Unified Map](../task/unified-map-edit-connection.md)
+-   [Edit relationships in Unified Map](../unified-map/unified-map-edit-connection.md)
 -   [CI relationship editor](c_RelationshipEditor.md)
 -   [Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ServiceMappingOverview.md)
--   [Unified Map](cmdb-workspace-unified-map.md)
+-   [Unified Map](../unified-map/cmdb-workspace-unified-map.md)
 
 Role requirements for operations in this section: **Edit relationships** requires sn\_cmdb\_editor
 
@@ -223,10 +223,10 @@ Select a tile to drill down to the specific records associated with the tile.
 
 More information:
 
--   [CSDM terms](../../csdm-implementation/reference/csdm-term-definitions.md)
--   [Service Delivery domain in the CSDM model](../../csdm-implementation/concept/manage-tech-servs-domain.md)
--   [Access CSDM features](../../csdm-implementation/concept/csdm-content-frame-using.md)
--   [CSDM implementation stage — Walk](../../csdm-implementation/concept/csdm-implement-walk-stage.md)
+-   [CSDM terms](../common-service-data-model-csdm/csdm-term-definitions.md)
+-   [Service Delivery domain in the CSDM model](../common-service-data-model-csdm/manage-tech-servs-domain.md)
+-   [Access CSDM features](../common-service-data-model-csdm/csdm-content-frame-using.md)
+-   [CSDM implementation stage — Walk](../common-service-data-model-csdm/csdm-implement-walk-stage.md)
 -   [Service instances \(Application services\)](application-services.md)
 
 ## Health
@@ -238,7 +238,7 @@ This section shows meaningful details only if CMDB Health is set up and the asso
 More information:
 
 -   [CMDB Health](c_CMDBHealth.md)
--   [CMDB Health KPIs and metrics](../reference/r_CMDBHealthMetrics.md)
+-   [CMDB Health KPIs and metrics](r_CMDBHealthMetrics.md)
 -   [CIs attestation](attesting-cis.md)
 -   [Configuring CMDB Health](c_CMDBHealthSetupandConfig.md)
 
@@ -252,7 +252,7 @@ More information:
 
 -   [CMDB 360](multisource-cmdb.md)
 -   [CMDB 360 experience in CMDB Workspace and in Service Graph Workspace](cmdb360-exp-cmdb-workspace.md)
--   [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](../task/workspc-mltsrc-configure.md)
+-   [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](workspc-mltsrc-configure.md)
 
 **Parent Topic:**[CMDB Workspace store app](cmdb-workspace.md)
 

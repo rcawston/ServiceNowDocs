@@ -28,5 +28,5 @@ Turning off Use scheduled state moves all tasks from Scheduled to Assigned. A pr
 **Related topics**  
 
 
-[Configure the Scheduled state](../task/configure-scheduled-state.md)
+[Configure the Scheduled state](../work-order-management/configure-scheduled-state.md)
 

@@ -46,5 +46,5 @@ Encryption modules, unlike encryption contexts, support a rekey of records for r
     There’s an extra module key listed in the table. The newly rotated key becomes "Active" and the last key is "Deactivated."
 
 
-**Parent Topic:**[Key management actions](../../key-management-framework/reference/key-management-actions.md)
+**Parent Topic:**[Key management actions](key-management-actions.md)
 

@@ -82,15 +82,15 @@ With the Content Experience Builder, you can complete the entire workflow of con
 
     **Note:** News articles are not yet supported.
 
-2.  [Create a campaign](../task/ecpro-create-campaign.md)
+2.  [Create a campaign](ecpro-create-campaign.md)
 
     Create a campaign to define the audience, content approvers, and start and end dates.
 
-3.  [Create campaign stages with Content Experience Builder](../task/ecpro-campaign-builder.md)
+3.  [Create campaign stages with Content Experience Builder](ecpro-campaign-builder.md)
 
     Add stages to your campaign to define what content users will see and when they will see it. You can also use stages to further refine the audience. For example, you can create one stage to hold content for managers and another stage to hold content for direct reports.
 
-4.  [Add content to a campaign using Content Experience Builder](../task/ecpro-campaigns-manage-content-builder.md)
+4.  [Add content to a campaign using Content Experience Builder](ecpro-campaigns-manage-content-builder.md)
 
     You can add content from the Content library and create a variety of content types in the Content Experience Builder.
 
@@ -114,11 +114,11 @@ If you prefer to create campaigns using records and forms, or if you are publish
 
     You can create a variety of content types that can be delivered via the employee portal, email, SMS, or push notification.
 
-2.  [Create a campaign](../task/ecpro-manage-campaigns.md)
+2.  [Create a campaign](ecpro-manage-campaigns.md)
 
     Create a campaign to define the audience, content approvers, and start and end dates.
 
-3.  [Create a campaign stage](../task/ecpro-manage-campaign-bundles.md)
+3.  [Create a campaign stage](ecpro-manage-campaign-bundles.md)
 
     Add stages to your campaign to define what content users will see and when they will see it. You can also use stages to further refine the audience. For example, you can create one stage to hold content for managers and another stage to hold content for direct reports.
 

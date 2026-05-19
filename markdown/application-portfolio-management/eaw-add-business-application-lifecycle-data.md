@@ -62,12 +62,12 @@ Action
 </td></tr></tbody>
 </table>5.  On the Application model life-cycle details form, fill in the fields.
 
-    For a description of the field values, see [Application model life-cycle details form](../../reference/eaw-reference/eaw-application-model-lifecycle-details-form.md).
+    For a description of the field values, see [Application model life-cycle details form](eaw-application-model-lifecycle-details-form.md).
 
 6.  Select **Create**.
 
 
-**Parent Topic:**[Use bubble chart view](../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
+**Parent Topic:**[Use bubble chart view](eaw-using-app-rat-bubble-chart-view.md)
 
 **Related topics**  
 

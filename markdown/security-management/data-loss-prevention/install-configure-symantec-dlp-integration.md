@@ -99,5 +99,5 @@ The MID Application name that is used to communicate with Symantec.This field is
 
 After you successfully validate and submit the configuration, the Symantec DLP Integration is saved on the Security Integrations page as a tile.
 
-**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](../concept/symantec-dlp-integration.md)
+**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](symantec-dlp-integration.md)
 

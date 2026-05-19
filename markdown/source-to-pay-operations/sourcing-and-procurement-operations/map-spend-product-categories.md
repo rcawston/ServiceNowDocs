@@ -88,10 +88,10 @@ Select the **Ledger Assignment Rules** related list and select **New**. For more
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Spend and Savings Management](../concept/using-spend-mgmt.md)
+**Parent Topic:**[Using Spend and Savings Management](using-spend-mgmt.md)
 
 **Related topics**  
 
 
-[Map spend categories to product categories using an Excel file](../concept/map-spend-product-categories-excel.md)
+[Map spend categories to product categories using an Excel file](map-spend-product-categories-excel.md)
 

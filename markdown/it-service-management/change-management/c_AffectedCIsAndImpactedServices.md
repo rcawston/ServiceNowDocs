@@ -31,7 +31,7 @@ The **Impacted Services/CIs** and **Service Offering** related lists represents 
 -   Refresh Impacted Services was only available for Change Request table. From this release, it is available for tables that extend the Task table. The list of these tables is driven by the **com.snc.task.refresh\_impacted\_services** property. This UI action populates the Impacted Services/CIs related list based on the primary CI i.e. the CI that is mentioned on the form.
 -   The Impacted Services list includes application services discovered by Service Mapping.
 
-**Parent Topic:**[Process a change request](../task/t_ProcessAChangeRequest.md)
+**Parent Topic:**[Process a change request](t_ProcessAChangeRequest.md)
 
 ## Add affected CIs to change requests using dependency views
 

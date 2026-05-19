@@ -39,12 +39,12 @@ Role required: sn\_devops.admin or sn\_devops.tool\_owner
     |Tool username, password or access token|Login credentials of the global admin for the existing JFrog instance.|
     |Use MidServer|Optional. Select MID Server for an on-premises tool that is attached to a MID Server. Application is automatically set to DevOps  and capability is set to REST.|
 
-    For a list of all the permissions required on the credentials for connecting to JFrog, see JFrog permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+    For a list of all the permissions required on the credentials for connecting to JFrog, see JFrog permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
 5.  Select **Order Now**.
 
     A request is created. When the request is approved, the tool is connected.
 
 
-**Parent Topic:**[JFrog integration with DevOps Change Velocity](../concept/devops-jfrog-integration.md)
+**Parent Topic:**[JFrog integration with DevOps Change Velocity](devops-jfrog-integration.md)
 

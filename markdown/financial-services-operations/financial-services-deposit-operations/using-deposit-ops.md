@@ -23,7 +23,7 @@ Contributors and back-office agents use personalized Workspace to work on all as
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md).
+For more information, see [Workspaces](../fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -71,7 +71,7 @@ Deposit admin
 
 </td><td>
 
-Configures the deposit workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Configures the deposit workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Automated workflows
@@ -94,13 +94,13 @@ Performance Analytics give business owners an insight into how the team and busi
 The Financial Services Deposit Operations application installs automated workflows for origination, servicing, and closure of deposit accounts. These workflows enable routing of cases and tasks to different teams, including the deposit and document agents.
 -   **[Submitting a deposit service request](submit-deposit-request.md)**  
 Bank workers can begin the deposit workflow by submitting a deposit service request received from customers \(consumer or business contact\). Customers \(consumer or contact\) can also directly submit a request from the service catalog.
--   **[Submit a deposit service case for fulfillment](../task/submit-deposit-service-application-fulfilment.md)**  
+-   **[Submit a deposit service case for fulfillment](submit-deposit-service-application-fulfilment.md)**  
 Collect all required information and documents from the customer and submit the deposit service case to back-office agents for fulfillment.
--   **[Work on a deposit service case](../task/work-deposit-service-case.md)**  
+-   **[Work on a deposit service case](work-deposit-service-case.md)**  
 Work on a deposit case to collect applicant information, ensure that any outstanding tasks are completed, and fulfill the deposit product request.
--   **[Work on a document task to verify documents for a deposit case](../task/work-document-task-deposit-ops.md)**  
+-   **[Work on a document task to verify documents for a deposit case](work-document-task-deposit-ops.md)**  
 Work on a document task to verify inbound documents that are needed for a deposit service case.
--   **[Work on a deposit task for fulfillment](../task/work-fso-deposit-task.md)**  
+-   **[Work on a deposit task for fulfillment](work-fso-deposit-task.md)**  
 Work on a deposit task to perform a fulfillment activity for the parent deposit service case.
 
 **Parent Topic:**[Financial Services Deposit Operations](fso-deposit-ops-landing-page.md)

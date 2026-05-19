@@ -78,11 +78,11 @@ Select the date and time to activate the plugin.
 **Related topics**  
 
 
-[Day 1 setup guide for Amazon Web Services on Cloud Provisioning and Governance](../concept/cloud-mgt-aws-setup-day-1.md)
+[Day 1 setup guide for Amazon Web Services on Cloud Provisioning and Governance](cloud-mgt-aws-setup-day-1.md)
 
-[Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning and Governance](../concept/cloud-mgt-azure-setup-guide.md)
+[Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning and Governance](cloud-mgt-azure-setup-guide.md)
 
-[Day 1 setup guide for Google Cloud through Cloud Services Catalog Terraform Connector](../concept/cloud-mgt-gcp-setup-day-1.md)
+[Day 1 setup guide for Google Cloud through Cloud Services Catalog Terraform Connector](cloud-mgt-gcp-setup-day-1.md)
 
-[Day 1 setup guide for VMware on Cloud Provisioning and Governance](../concept/cloud-mgt-vmware-setup-guide.md)
+[Day 1 setup guide for VMware on Cloud Provisioning and Governance](cloud-mgt-vmware-setup-guide.md)
 

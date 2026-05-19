@@ -19,13 +19,13 @@ Role required: none
 
 ## About this task
 
-Configure the properties for the ActionSet SendKeys action. For more information about these properties, see [ActionSet Send Keys properties](../reference/actionset-actions-properties.md#actionset-sendkeys).
+Configure the properties for the ActionSet SendKeys action. For more information about these properties, see [ActionSet Send Keys properties](actionset-actions-properties.md#actionset-sendkeys).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    To know about the anchor, see [Anchor](../concept/anchor.md).
+    To know about the anchor, see [Anchor](anchor.md).
 
 2.  Click **Send Keys**.
 

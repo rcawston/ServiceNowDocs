@@ -85,5 +85,5 @@ Time span by when the task must be executed after the task initiates.
 9.  Select **Add**.
 
 
-**Parent Topic:**[Using the Notify Cisco Webex Connector with a major incident](../concept/use-cisco-webex-notify-mi.md)
+**Parent Topic:**[Using the Notify Cisco Webex Connector with a major incident](use-cisco-webex-notify-mi.md)
 

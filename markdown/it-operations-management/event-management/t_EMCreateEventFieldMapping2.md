@@ -618,5 +618,5 @@ Transform Value Pairs
 
 Test an event field mapping by sending an event that includes a field that is present in the event field mapping.
 
-**Parent Topic:**[Event field mapping configuration](../concept/c_EMEventFieldMapping.md)
+**Parent Topic:**[Event field mapping configuration](c_EMEventFieldMapping.md)
 

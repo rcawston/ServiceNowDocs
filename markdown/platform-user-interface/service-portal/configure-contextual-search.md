@@ -27,7 +27,7 @@ With contextual search enabled, users only see type-ahead results for specific s
     Search sources listed for contextual search can be limited to just one, several, or all search sources.
 
 
-Default search sources are defined in the **glide.service\_portal.default\_search\_sources** property, so even if you do not have search sources configured, type-ahead search widget still shows type-ahead suggestions. For more information on default search sources, see [Set the default portal search source](../task/default-search-sources.md).
+Default search sources are defined in the **glide.service\_portal.default\_search\_sources** property, so even if you do not have search sources configured, type-ahead search widget still shows type-ahead suggestions. For more information on default search sources, see [Set the default portal search source](default-search-sources.md).
 
 **Parent Topic:**[Zing search in Service Portal](zing-search-service-portal.md)
 

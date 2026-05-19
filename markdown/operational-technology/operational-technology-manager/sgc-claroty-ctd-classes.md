@@ -404,5 +404,5 @@ A default class mapping is shipped with the Service Graph Connector Integration 
 |eVOIPAccessPoint​|\(Empty\)​|cmdb\_ci\_ip\_switch​| |eVOIPAccessPoint = 71​|
 |eVulnerabilityScanner​|\(Empty\)​|cmdb\_ci\_server​| |eVulnerabilityScanner = 70​|
 
-**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](../concept/sgc-cmdb-integration-claroty-ctd.md)
+**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](sgc-cmdb-integration-claroty-ctd.md)
 

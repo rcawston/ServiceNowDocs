@@ -42,5 +42,5 @@ If users revert previous activities, the points associated with these activities
 **Related topics**  
 
 
-[Create a gamification rule](../task/gamification-create-rule.md)
+[Create a gamification rule](gamification-create-rule.md)
 

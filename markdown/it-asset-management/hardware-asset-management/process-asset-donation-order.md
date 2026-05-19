@@ -115,7 +115,7 @@ You can cancel an Asset Donation Order until it reaches the transit stage in the
 
 All the asset donation tasks are in the Closed Complete state and the Asset Donation Order stage changes to Completed.
 
-**Parent Topic:**[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+**Parent Topic:**[Donate assets to charity organizations](donate-asset-to-charity-organizations.md)
 
 **Related topics**  
 

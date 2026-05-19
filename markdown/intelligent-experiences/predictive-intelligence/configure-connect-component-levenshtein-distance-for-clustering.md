@@ -79,7 +79,7 @@ In this example scenario, you train your solution definition by using the third 
     ![The three solution parameters you configured on the Advanced Solution Settings section of your clustering solution.](../images/configure-connect-component-levenshtein-distance-for-clustering5.png)
 
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 

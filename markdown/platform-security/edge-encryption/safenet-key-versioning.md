@@ -27,7 +27,7 @@ If using SafeNet versioned keys, the Change Default Keys section of the Encrypti
 
 ![Change default keys, Key version](../images/safenet-key-versioning.png)
 
-For procedures, see [Configure encryption keys on the instance](../task/t_RotateEncryptionKeys.md).
+For procedures, see [Configure encryption keys on the instance](t_RotateEncryptionKeys.md).
 
 ## Versioned keys
 

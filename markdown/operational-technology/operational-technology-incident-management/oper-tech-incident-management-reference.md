@@ -22,5 +22,5 @@ Several types of components may be installed with activation of the Operational 
 -   **[Related information](otim-related-information.md)**  
 Find more information about the OT extension classes and related applications.
 
-**Parent Topic:**[Operational Technology Incident Management](../concept/operational-technology-incident-management-landing-page.md)
+**Parent Topic:**[Operational Technology Incident Management](operational-technology-incident-management-landing-page.md)
 

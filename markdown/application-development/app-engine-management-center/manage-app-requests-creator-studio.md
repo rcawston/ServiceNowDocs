@@ -32,5 +32,5 @@ Role required: sn\_app\_eng\_notify.app\_engine\_admin
     -   If the app is useful to your organization, approve the request.
     -   If you see issues with the app request, reject the request. If an app request is rejected, the original requestor must put in a new request for the app with changes for reconsideration.
 
-**Parent Topic:**[Managing requests using AEMC](../concept/manage-aemc-requests.md)
+**Parent Topic:**[Managing requests using AEMC](manage-aemc-requests.md)
 

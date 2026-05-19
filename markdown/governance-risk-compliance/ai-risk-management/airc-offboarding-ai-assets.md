@@ -44,7 +44,7 @@ For more information about the AI governance life cycle and how offboarding fits
 
 In AIRC, practitioners can perform activities such as reviewing regulatory risk classifications, completing or updating impact assessments, and conducting conformity or policy-alignment reviews as part of the AI life cycle.
 
-For more information, see [Perform impact assessment on an AI use case](../task/perform-impact-assessment-of-ai-use-case.md) and [Initiate risk assessment on AI asset](../task/initiate-risk-assessment-on-ai-systems.md).
+For more information, see [Perform impact assessment on an AI use case](perform-impact-assessment-of-ai-use-case.md) and [Initiate risk assessment on AI asset](initiate-risk-assessment-on-ai-systems.md).
 
 AIRC maintains governance records related to AI assets, including assessments, controls, issues, and attestations. These records remain available after an AI asset is retired, supporting audit readiness and historical traceability.
 
@@ -52,7 +52,7 @@ Risks and issues identified during offboarding review can be tracked and formall
 
 Offboarding is considered complete when required governance reviews are finished, related issues are resolved or formally accepted, and the AI asset life-cycle status is updated to retired.
 
-For more information about resolving governance issues before asset retirement, see [Remediate an issue in AI Risk and Compliance](../task/remediate-an-issue-in-airc.md).
+For more information about resolving governance issues before asset retirement, see [Remediate an issue in AI Risk and Compliance](remediate-an-issue-in-airc.md).
 
 ## Assessment behavior during offboarding
 
@@ -76,5 +76,5 @@ Conformity or policy‑alignment reviews may be performed for AI assets subject 
 
 The creation and sequencing of offboarding‑related assessment tasks are managed through AI Control Tower, while AI Risk and Compliance provides the governance context, assessment records, and audit traceability needed to support offboarding decisions.
 
-For more information about performing specific assessment types, see [Perform impact assessment on an AI use case](../task/perform-impact-assessment-of-ai-use-case.md), [Perform risk assessments on AI systems](../task/perform-risk-assessments-on-ai-systems.md), [Initiate risk assessment on AI asset](../task/initiate-risk-assessment-on-ai-systems.md), and [Initiate risk assessment on AI asset's risks](../task/request-risk-assessments-for-ai-systems.md).
+For more information about performing specific assessment types, see [Perform impact assessment on an AI use case](perform-impact-assessment-of-ai-use-case.md), [Perform risk assessments on AI systems](perform-risk-assessments-on-ai-systems.md), [Initiate risk assessment on AI asset](initiate-risk-assessment-on-ai-systems.md), and [Initiate risk assessment on AI asset's risks](request-risk-assessments-for-ai-systems.md).
 

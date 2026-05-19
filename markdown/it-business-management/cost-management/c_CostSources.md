@@ -93,5 +93,5 @@ To view the sample rates, navigate to **Financial Management** &gt; **Labor Rate
 
 The conditions state that for users in the **Development** department, time worked costs will use $100 as the hourly rate.
 
-**Parent Topic:**[Cost Management](../reference/r_CostManagement.md)
+**Parent Topic:**[Cost Management](r_CostManagement.md)
 

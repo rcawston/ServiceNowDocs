@@ -17,8 +17,8 @@ You can activate the Google Cloud Logging \(formerly Stackdriver Logging\) servi
 
 ## Before you begin
 
--   Activate Discovery and Service Mapping Patterns. For more information, see [Google Cloud Platform Discovery](../../service-mapping/reference/google-gcp-discovery-pattern.md).
--   Verify that Discovery has successfully discovered logical datacenters of the Google Cloud project. For more information, see [Set up a cloud account and service account for Google Cloud Platform](../../cloud-management-v2-setup/task/gcp-first-cld-and-srvc-accts.md).
+-   Activate Discovery and Service Mapping Patterns. For more information, see [Google Cloud Platform Discovery](google-gcp-discovery-pattern.md).
+-   Verify that Discovery has successfully discovered logical datacenters of the Google Cloud project. For more information, see [Set up a cloud account and service account for Google Cloud Platform](../cloud-configuration-governance/gcp-first-cld-and-srvc-accts.md).
 
     **Note:** Verify that you have selected the **Should pull events** check box in the Google Service Account page before you execute datacenter discovery.
 

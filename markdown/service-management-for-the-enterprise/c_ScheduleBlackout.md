@@ -21,7 +21,7 @@ Blackout business rules check the **Schedules** field of the **Location** field 
 |Display Space Schedule Conflicts \(facilities\_request\_task business rule\)|If the current.expected\_start and current.estimated\_end are populated and the location is a facilities space, informs the user of any possible schedule conflicts.|
 |Prevent Space Schedule Conflicts \(facilities\_request\_task business rule\)|If there are any possible schedule conflicts between `now` and `now + estimated_work_duration`, prevent the user from starting work. To override, a facilities\_admin can use a field override\_schedule\_conflict|
 
--   **[Create a facilities schedule blackout](../task/t_CreateFacScheduleBlackout.md)**  
+-   **[Create a facilities schedule blackout](t_CreateFacScheduleBlackout.md)**  
 Blackout periods can be defined for spaces, levels, buildings, campuses, and zones. The Facilities\_admin can override blackout period requests.
 
 **Parent Topic:**[Facilities requests](c_FacilitiesRequests.md)

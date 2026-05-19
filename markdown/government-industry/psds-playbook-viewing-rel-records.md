@@ -15,7 +15,7 @@ You can view the dynamic related records in the playbook contextual side panel i
 
 ## Using related records in Service Request Playbook
 
-You can view, search, and sort the records in the **Related Records** tab in the contextual side panel after you create a service request record. For details on how to create a record, see [Create a service request record using playbooks in Public Sector Digital Services](../task/psds-playbook-create-record.md).
+You can view, search, and sort the records in the **Related Records** tab in the contextual side panel after you create a service request record. For details on how to create a record, see [Create a service request record using playbooks in Public Sector Digital Services](psds-playbook-create-record.md).
 
 The **Related Records** tab displays the related records that dynamically change based on the context of the current record or playbook activity. The records that are displayed in the **Related Records** tab depend on the following settings:
 
@@ -156,7 +156,7 @@ Select the type of related record to view
 
 </td><td>
 
-Filter at the top of the Related Records list where you can select the type of related records to view. You can also use the filter to see the current selection. For more information, see [Customize the related records view in Service Request Playbook](../task/psds-playbook-customizing-rel-records-view.md).
+Filter at the top of the Related Records list where you can select the type of related records to view. You can also use the filter to see the current selection. For more information, see [Customize the related records view in Service Request Playbook](psds-playbook-customizing-rel-records-view.md).
 
 </td></tr><tr><td>
 
@@ -164,7 +164,7 @@ Search the related records list
 
 </td><td>
 
-Search field at the top of the Related Records list to perform a text search. Records that match the search text are highlighted. For more information, see [Customize the related records view in Service Request Playbook](../task/psds-playbook-customizing-rel-records-view.md).
+Search field at the top of the Related Records list to perform a text search. Records that match the search text are highlighted. For more information, see [Customize the related records view in Service Request Playbook](psds-playbook-customizing-rel-records-view.md).
 
 </td></tr><tr><td>
 

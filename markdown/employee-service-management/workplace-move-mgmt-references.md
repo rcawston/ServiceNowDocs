@@ -15,7 +15,7 @@ Several components and properties are installed with Workplace Move Management.
 
 Many Roles, tables, and properties are installed with Workplace Move Management.
 
--   **[Components installed with Workplace Move Management](../reference/components-installed-with-workplace-move-mgmt.md)**  
+-   **[Components installed with Workplace Move Management](components-installed-with-workplace-move-mgmt.md)**  
 Several types of components are installed with the Workplace Move Management application, including tables and user roles.
 
 **Parent Topic:**[Workplace Move Management](workplace-move-mgmt-overview.md)

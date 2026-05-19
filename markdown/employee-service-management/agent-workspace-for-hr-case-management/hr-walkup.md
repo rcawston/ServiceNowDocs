@@ -23,7 +23,7 @@ The HR Walk-up feature offers a convenient and efficient way for users to seek i
 
     Every employee or a guest can check in and get support at an established walk-up service center.
 
--   **[Employee Center Pro Kiosk](../../employee-center/concept/deskless-kiosk-overview.md)**
+-   **[Employee Center Pro Kiosk](../employee-experience-foundation/deskless-kiosk-overview.md)**
 
     Employee Center Pro Kiosk enables all deskless workers with simplified access to information and services for self-serve and improved productivity.
 

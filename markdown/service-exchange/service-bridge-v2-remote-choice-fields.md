@@ -20,5 +20,5 @@ Remote choice fields enable consumers to view the choice list for a catalog refe
 -   Removes the need to replicate foundation data.
 -   Reduces the cost and maintenance of integrations.
 
-You can control the data that your consumers access by defining a remote choice field. To learn more, see [Create remote choice definitions in Service Exchange for Providers](../task/service-bridge-v2-create-remote-choice-fld-defs.md).
+You can control the data that your consumers access by defining a remote choice field. To learn more, see [Create remote choice definitions in Service Exchange for Providers](service-bridge-v2-create-remote-choice-fld-defs.md).
 

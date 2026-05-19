@@ -18,5 +18,5 @@ A connection admin can create a connection to Apache Hudi and give data stewards
 **Related topics**  
 
 
-[Create an Apache Hudi connection](../task/create-apache-hudi-connection-zcc.md)
+[Create an Apache Hudi connection](create-apache-hudi-connection-zcc.md)
 

@@ -38,7 +38,7 @@ Role required: sn\_sec\_tisc.analyst
     For more information, see [Remove Observables from EDL](remove-observables-edl.md).
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](palo-alto-networks-integration.md)
 
 **Related topics**  
 

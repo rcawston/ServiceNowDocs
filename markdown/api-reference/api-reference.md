@@ -25,23 +25,23 @@ Use ServiceNow APIs to change functionality and add features on the ServiceNow A
 
 </td><td>
 
-[Client mobile ![](../../../reuse/icons/brand-icons/bus-mobile-native.svg) Build custom mobile experiences inside of ServiceNow AI Platform native mobile apps.](api-client-mobile.md)
+[Client mobile ![](../../../reuse/icons/brand-icons/bus-mobile-native.svg) Build custom mobile experiences inside of ServiceNow AI Platform native mobile apps.](cllent-mobile-api-reference/api-client-mobile.md)
 
 </td><td>
 
-[Mobile SDK ![](../../../reuse/icons/brand-icons/bus-mobile-phone.svg) Leverage the ServiceNow AI Platform within standalone Android and iOS apps.](api-mobile_sdk.md)
+[Mobile SDK ![](../../../reuse/icons/brand-icons/bus-mobile-phone.svg) Leverage the ServiceNow AI Platform within standalone Android and iOS apps.](cllent-mobile-api-reference/api-mobile_sdk.md)
 
 </td></tr><tr><td>
 
-[Server ![](../../../reuse/icons/brand-icons/bus-server.svg) Build and update applications.](api-server.md)
+[Server ![](../../../reuse/icons/brand-icons/bus-server.svg) Build and update applications.](server-api-reference/api-server.md)
 
 </td><td>
 
-[REST ![](../../../reuse/icons/brand-icons/bus-cloud.svg) Access and update data.](api-rest.md)
+[REST ![](../../../reuse/icons/brand-icons/bus-cloud.svg) Access and update data.](rest-apis/api-rest.md)
 
 </td><td>
 
-[UI Builder ![](../../../reuse/icons/brand-icons/bus-service-map.svg) Build client scripts in UI Builder.](api-uib.md)
+[UI Builder ![](../../../reuse/icons/brand-icons/bus-service-map.svg) Build client scripts in UI Builder.](ui-builder-api-reference/api-uib.md)
 
 </td><td>
 
@@ -54,8 +54,8 @@ Use client-side JavaScript APIs to control how the ServiceNow AI Platform functi
 
 Common use cases:
 
--   Use the [GlideAjax](../../../app-store/dev_portal/API_reference/GlideAjax/concept/c_GlideAjaxAPI.md#) API to call server-side code from a client script.
--   Use the [GlideForm](../../../app-store/dev_portal/API_reference/GlideForm/concept/c_GlideFormAPI.md#) API to customize forms.
+-   Use the [GlideAjax](c_GlideAjaxAPI.md#) API to call server-side code from a client script.
+-   Use the [GlideForm](c_GlideFormAPI.md#) API to customize forms.
 
 ## Client mobile
 
@@ -81,9 +81,9 @@ Use server-side JavaScript APIs to change the functionality of existing applicat
 
 Common use cases:
 
--   Use the [GlideRecord](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) or [GlideQuery](../../../app-store/dev_portal/API_reference/GlideQuery/concept/GlideQueryGlobalAPI.md#) APIs to perform create, read, update, and delete operations on record data from server-side scripts.
--   Use the [GlideSystem](../../../app-store/dev_portal/API_reference/glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) API to access information about the instance or the current user session and to write informational or error messages.
--   Use [FlowAPI](../../../app-store/dev_portal/API_reference/ScriptableFlowAPI/concept/ScriptableFlowAPI.md#) methods to trigger flows, subflows, and actions from server-side scripts.
+-   Use the [GlideRecord](server-api-reference/c_GlideRecordScopedAPI.md#) or [GlideQuery](server-api-reference/GlideQueryGlobalAPI.md#) APIs to perform create, read, update, and delete operations on record data from server-side scripts.
+-   Use the [GlideSystem](server-api-reference/c_GlideSystemScopedAPI.md#) API to access information about the instance or the current user session and to write informational or error messages.
+-   Use [FlowAPI](server-api-reference/ScriptableFlowAPI.md#) methods to trigger flows, subflows, and actions from server-side scripts.
 
 ## REST
 
@@ -91,9 +91,9 @@ Use REST APIs to access and update data on the ServiceNow AI Platform. You can d
 
 Common use cases:
 
--   Use the [Attachment API](../../../integrate/inbound-rest/concept/c_AttachmentAPI.md#) to upload and query file attachments.
--   Use the [Email API](../../../integrate/inbound-rest/concept/email-api.md#) to send and receive email messages.
--   Use the [Table API](../../../integrate/inbound-rest/concept/c_TableAPI.md#) to create, read, update, and delete records in a table.
+-   Use the [Attachment API](rest-apis/c_AttachmentAPI.md#) to upload and query file attachments.
+-   Use the [Email API](rest-apis/email-api.md#) to send and receive email messages.
+-   Use the [Table API](rest-apis/c_TableAPI.md#) to create, read, update, and delete records in a table.
 
 ## UI Builder
 

@@ -43,7 +43,7 @@ Workflow Studio provides administrators and flow operators these modules to mana
 
 -   **Complex Object Templates**
 
-    Displays templates for complex objects that you can use in flows with Integration Hub integrations. To learn more about creating and using complex object templates, see [create an action](../task/create-action.md) and the [Object data type](../reference/object-data.md).
+    Displays templates for complex objects that you can use in flows with Integration Hub integrations. To learn more about creating and using complex object templates, see [create an action](create-action.md) and the [Object data type](object-data.md).
 
 -   **Usage Overview**
 
@@ -54,13 +54,13 @@ Workflow Studio provides administrators and flow operators these modules to mana
 Due to the large amount of data consumed by flow execution details, your instance uses data retention policies to delete this data after a set time period.
 -   **[Flow execution settings](flow-execution-settings.md)**  
 Specify the runtime settings for an individual flow, subflow, or action such as the run priority, reporting level, and logging level.
--   **[Activate flow reporting](../task/enable-flow-reporting.md#)**  
+-   **[Activate flow reporting](enable-flow-reporting.md#)**  
 Choose whether to generate execution details for all flows and actions run, just for individual flows and actions, or just when you test a flow or action. Specify the level of detail the execution details contain.
 -   **[FDIH Dashboard](fdih-dashboard.md)**  
 Use a single dashboard to view usage, execution, and debug information for Workflow Studio and Integration Hub transactions. Open links to related Workflow Studio properties, logs, events, and editors.
 -   **[Flow priority](flow-priority.md)**  
 Specify the priority that you want a background flow to have in relation to other flows waiting to be run. Run a group of higher priority flows before running any lower priority flows.
--   **[See related flows for action](../task/see-related-flows-for-action.md)**  
+-   **[See related flows for action](see-related-flows-for-action.md)**  
 See the list of flows that include a custom action. Determine the impact that changes to an action have on published and draft flows.
 
 **Parent Topic:**[Configuring flows](configuring-flow-designer.md)

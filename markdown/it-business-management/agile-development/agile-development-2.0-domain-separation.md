@@ -30,9 +30,9 @@ For more information on support levels, see [Application support for domain sepa
 ## How domain separation works in Agile Development 2.0
 
 -   The entities in Agile 2.0 extend the functions of task, so they inherit the domain behavior of tasks. The new entries you create go into the domain of the user currently logged in.
--   [Agile Board](../../sdlc-scrum/concept/agile-board.md) honors domain separation and lists the groups that the user belongs to for Sprint Planning and Sprint Tracking pages. The backlog entries that display are in the same domain as those that the current user owns or shares with other users. The stories that display in Agile Board are limited to the domain of the current logged-in user.
+-   [Agile Board](agile-board.md) honors domain separation and lists the groups that the user belongs to for Sprint Planning and Sprint Tracking pages. The backlog entries that display are in the same domain as those that the current user owns or shares with other users. The stories that display in Agile Board are limited to the domain of the current logged-in user.
 
-**Parent Topic:**[Agile Development 2.0 reference](../reference/agile-development-2-reference.md)
+**Parent Topic:**[Agile Development 2.0 reference](agile-development-2-reference.md)
 
 **Related topics**  
 

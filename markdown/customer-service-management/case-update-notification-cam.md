@@ -23,7 +23,7 @@ For case resolved emails, related parties with the Authorized Representative res
 
 ## Enable case update notification
 
-To receive notifications when a customer replies to a case, related parties added to cases must be assigned a Customer Access Management \(CAM\) role, such as the sn\_customerservice.case\_authorized\_contributor role. For more information, see [Roles installed with Customer Access Management](../reference/r_rolesinstalledwithcustaccessmgmt.md).
+To receive notifications when a customer replies to a case, related parties added to cases must be assigned a Customer Access Management \(CAM\) role, such as the sn\_customerservice.case\_authorized\_contributor role. For more information, see [Roles installed with Customer Access Management](r_rolesinstalledwithcustaccessmgmt.md).
 
 ## Configure notifications for related parties
 

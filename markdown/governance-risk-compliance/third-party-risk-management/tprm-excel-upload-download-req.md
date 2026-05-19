@@ -160,7 +160,7 @@ Enable currency conversion
 
 Option to convert each contract’s annual expense into a single base currency using historical exchange rates from the European Central Bank \(ECB\).**Note:** The Reference Date on the report determines the exchange rate used. Converted amounts appear only in the generated package; source records are unchanged.
 
-For more information, see [Currency conversion and third-party total expense aggregation](../concept/tprm-dora-currency-aggregation.md)
+For more information, see [Currency conversion and third-party total expense aggregation](tprm-dora-currency-aggregation.md)
 
 </td></tr><tr><td>
 
@@ -170,7 +170,7 @@ Enable third‑party total expense aggregation
 
 Option to aggregate annual expenses across all contracts belonging to the same third‑party provider or third‑party engagement.**Note:** Aggregation only happens if all eligibility rules are met: All contracts for the provider must meet provider eligibility criteria \(for example, single‑provider contracts and currency alignment\). If currency conversion is not enabled, all contracts must already be in base currency. If currency conversion is enabled, all conversions must succeed.
 
-For more information, see [Currency conversion and third-party total expense aggregation](../concept/tprm-dora-currency-aggregation.md)
+For more information, see [Currency conversion and third-party total expense aggregation](tprm-dora-currency-aggregation.md)
 
 </td></tr><tr><td>
 

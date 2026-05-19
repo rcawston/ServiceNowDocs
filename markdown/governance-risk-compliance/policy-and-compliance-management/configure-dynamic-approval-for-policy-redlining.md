@@ -33,7 +33,7 @@ To use dynamic approval for policy redlining, ensure that the redlining setup is
 
 3.  Navigate to **Compliance library** &gt; **My policies** and open a policy record.
 
-    You can [create a new policy](../../grc-workspace-compliance/task/create-policy-ws.md) or open a policy record to enable the redlining feature.
+    You can [create a new policy](../grc-compliance-management-workspace/create-policy-ws.md) or open a policy record to enable the redlining feature.
 
 4.  Select the Policy text related list to view the contents of the policy text.
 
@@ -53,7 +53,7 @@ To use dynamic approval for policy redlining, ensure that the redlining setup is
 
 7.  Select the **Complete publishing checklist** button.
 
-    You can complete the tasks in the publishing checklist. For more information on redlining, see [Policy authoring and redlining in Compliance Workspace](../concept/policy-authoring-redlining.md).
+    You can complete the tasks in the publishing checklist. For more information on redlining, see [Policy authoring and redlining in Compliance Workspace](policy-authoring-redlining.md).
 
 8.  Select **Save**.
 

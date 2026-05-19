@@ -22,5 +22,5 @@ Order an AWS S3 storage bucket that includes security measures such as the preve
 -   **[Amazon Web Services S3 Bucket Out Of Box permissions](aws-s3-bucket-oob-permissions.md)**  
 AWS S3 Bucket OOB catalog items permissions. S3 Bucket supports provision and deprovision only.
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

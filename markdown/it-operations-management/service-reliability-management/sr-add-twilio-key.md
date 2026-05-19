@@ -44,7 +44,7 @@ You can adjust what gets sent from Twilio by editing the on-call workflow in the
 7.  Select **Connect** to activate the key or **Save** to save your changes without activating.
 
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
 **Previous topic:**[Configure fields for escalation triggers](srm-configure-trigger-fields.md)
 

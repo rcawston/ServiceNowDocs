@@ -21,9 +21,9 @@ The following video provides an overview on how to configure the mobile onboardi
 
 Watch this video to learn how to configure and test the Mobile Onboarding app.
 
--   **[Configure a media section for Now Mobile](../task/configure-mobile-onboarding-media-section.md)**  
+-   **[Configure a media section for Now Mobile](configure-mobile-onboarding-media-section.md)**  
 Configure one or more of the media sections for Now Mobile to provide relevant content to new hires at different stages of the onboarding process.
--   **[Enable Agent Chat in Now Mobile](../task/enable-agent-chat-in-mobile-onboarding-app.md)**  
+-   **[Enable Agent Chat in Now Mobile](enable-agent-chat-in-mobile-onboarding-app.md)**  
 Activate the Chat quick action so that your new hires can chat with a live or virtual agent.
 
 **Parent Topic:**[HR Service Delivery for mobile](mobile-employee-experience-for-hr-service-delivery.md)

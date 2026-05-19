@@ -19,8 +19,8 @@ Configure the OT device mapping flow to automatically map OT devices to sites an
 
 The following plugins must be installed:
 
--   [Operational Technology Manager](../../mftg-manufacturing-oper-tech-mgr/concept/operational-technology-manager.md)
--   [Industrial Process Manager](../../mftg-manufacturing-process-mgr/concept/industrial-process-manager-overview.md)
+-   [Operational Technology Manager](../operational-technology-manager/operational-technology-manager.md)
+-   [Industrial Process Manager](industrial-process-manager-overview.md)
 
 Role required: admin
 

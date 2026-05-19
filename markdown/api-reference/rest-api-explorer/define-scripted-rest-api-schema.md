@@ -21,7 +21,7 @@ Role required: web\_service\_admin
 
 ## About this task
 
-Schemas are records that define the structure and format of request and response bodies and headers for a REST API in the OpenAPI 3.0.1 format. When you define a schema in the ServiceNow AI Platform, the schema is used to define the structure of requests and responses within the associated REST API. The schema data for the requests and responses is then available in the exportable OpenAPI specification for the API. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](../../inbound-rest/task/export-openapi-specification.md).
+Schemas are records that define the structure and format of request and response bodies and headers for a REST API in the OpenAPI 3.0.1 format. When you define a schema in the ServiceNow AI Platform, the schema is used to define the structure of requests and responses within the associated REST API. The schema data for the requests and responses is then available in the exportable OpenAPI specification for the API. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](export-openapi-specification.md).
 
 The following procedure describes the process for manual schema definition. For details about automatically generating request schema definitions in non-production instances, see [Automatically generate API request definitions](autogenerate-api-request-definitions.md).
 

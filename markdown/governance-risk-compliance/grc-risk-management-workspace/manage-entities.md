@@ -26,5 +26,5 @@ Entity classes are used to tag your entities and to provide a complete view of t
 -   **[Entity tiers in GRC](entity-tier.md)**  
 By creating entity tiers, you can prioritize the entity classes.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 

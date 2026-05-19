@@ -25,5 +25,5 @@ Sample text is content that is used in different types of content in a selected 
 |**Sample text**|The sample text that's used in the selected document.|
 |**Table**|The table used to track where the sample text is used.|
 
-**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+**Parent Topic:**[Talent Development Core application reference](egd-reference.md)
 

@@ -41,7 +41,7 @@ An external inquiry is the inquiry that comes from a third-party bank, which mea
 
 7.  On the form, fill in the required fields and any other information that is related to the request that you've received from the sender bank.
 
-    For information on Payment Inquiry Case form field descriptions, see [Field descriptions for a payment inquiry case](../reference/payment-inquiry-case-form-fields.md).
+    For information on Payment Inquiry Case form field descriptions, see [Field descriptions for a payment inquiry case](payment-inquiry-case-form-fields.md).
 
 8.  Click **Save**.
 
@@ -56,5 +56,5 @@ The payment inquiry case is created in the New state and is assigned to an assig
 
 -   You can also assign the case to any other inquiry agent. For more information, see [Assign a payment inquiry case](assign-payment-inquiry-case.md).
 
-**Parent Topic:**[Managing payment inquiries](../concept/managing-payment-inquiries.md)
+**Parent Topic:**[Managing payment inquiries](managing-payment-inquiries.md)
 

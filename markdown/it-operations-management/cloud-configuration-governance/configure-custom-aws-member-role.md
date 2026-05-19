@@ -53,7 +53,7 @@ Role session name \[role\_session\_name\]
 
 </td><td>
 
-Name for the session using the temporary security credentials that may help in distinguishing use of a role by a principal or purpose. This session name is visible in the AWS Cloud Trail logs. See [Cloud API Trail](../concept/cloud-api-trail.md#) and the [AWS documentation](https://aws.amazon.com/documentation/) on AWS Cloud Trail for details.Default: master\_account\_id\_\_&lt;management account ID number&gt; An example of this is: `master_account_id__321003876149`.
+Name for the session using the temporary security credentials that may help in distinguishing use of a role by a principal or purpose. This session name is visible in the AWS Cloud Trail logs. See [Cloud API Trail](cloud-api-trail.md#) and the [AWS documentation](https://aws.amazon.com/documentation/) on AWS Cloud Trail for details.Default: master\_account\_id\_\_&lt;management account ID number&gt; An example of this is: `master_account_id__321003876149`.
 
 </td></tr><tr><td>
 

@@ -42,7 +42,7 @@ To create a role:
 
 For more information about modifying ACLs and query business rules, see [KB0685767](https://support.servicenow.com/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0685767%26sysparm_stack%3D%26sysparm_view%3D).
 
-**Parent Topic:**[Roles installed with Customer Service Management](../reference/r_RolesInstalledWithCustomerService.md)
+**Parent Topic:**[Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md)
 
 **Related topics**  
 

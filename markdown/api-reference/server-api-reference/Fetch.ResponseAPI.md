@@ -259,7 +259,7 @@ const myURL = myRequest.url; // "https://github.com/mdn/dom-examples/tree/main/f
 ```
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+</table>**Parent Topic:**[Server API reference](api-server.md)
 
 ## Fetch Response - Response\(Object body, Object options\)
 

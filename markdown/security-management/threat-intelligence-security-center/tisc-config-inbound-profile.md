@@ -159,7 +159,7 @@ Specifies the tags to be added to all the inbound intelligence received from ext
 9.  Select **Send** to send the details to the external user.
 
 
-**Parent Topic:**[Exploring Inbound Intel Sharing](../concept/tisc-inbound-intel-sharing.md)
+**Parent Topic:**[Exploring Inbound Intel Sharing](tisc-inbound-intel-sharing.md)
 
 **Related topics**  
 

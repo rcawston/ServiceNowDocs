@@ -68,7 +68,7 @@ For more information about creating the security tag names in your McAfee ePO co
     You have successfully edited the EPO Tag Names for the malware scan and the isolate host capabilities in your ServiceNow AI Platform instance. The next step is to create a profile for your capabilities.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
 **Previous topic:**[Install the application and configure a server for the McAfee ePO integration](mcaffe-epo-install.md)
 

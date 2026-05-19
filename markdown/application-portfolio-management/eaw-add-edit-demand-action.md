@@ -33,12 +33,12 @@ Role required: admin
     -   To update details of an existing demand action, select an action, then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Demand Actions Form](../../reference/eaw-reference/eaw-demand-action-form.md).
+    For field information, see [Demand Actions Form](eaw-demand-action-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure demand actions](../../concept/eaw-concept/eaw-setup-demand-actions.md)
+**Parent Topic:**[Configure demand actions](eaw-setup-demand-actions.md)
 
 **Related topics**  
 

@@ -17,7 +17,7 @@ Question templates define reusable rating scales for answering questions, where 
 
 ![Template definition](../image/TemplateDefinition.png "Template definition")
 
-Templates are available for survey questions that have **Data type** set to **Template**. The following question templates are available in the base system. You can create or update a template as described in [Create a survey question template](../task/t_CreateASurveyQuestionTemplate.md).
+Templates are available for survey questions that have **Data type** set to **Template**. The following question templates are available in the base system. You can create or update a template as described in [Create a survey question template](t_CreateASurveyQuestionTemplate.md).
 
 |Name|Template definitions|
 |----|--------------------|
@@ -29,9 +29,9 @@ Templates are available for survey questions that have **Data type** set to **Te
 |Satisfaction|Very Dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied|
 |Size|Very Small, Small, Average, Large, Very Large|
 
--   **[Create a survey question template](../task/t_CreateASurveyQuestionTemplate.md)**  
+-   **[Create a survey question template](t_CreateASurveyQuestionTemplate.md)**  
 You can create and administer question templates.
--   **[Update min and max values to match templates](../task/t_UpdateQMinAndMaxToMatchTemplates.md)**  
+-   **[Update min and max values to match templates](t_UpdateQMinAndMaxToMatchTemplates.md)**  
 If you use survey result calculation data, ensure that the **Min** and **Max** values for a question that uses a template are equal to the smallest and largest template definition **Value**.
 
 **Parent Topic:**[Survey questions](c_SurveyQuestion.md)
@@ -39,13 +39,13 @@ If you use survey result calculation data, ensure that the **Min** and **Max** v
 **Related topics**  
 
 
-[Create or modify survey questions](../task/t_CreateOrModifySurveyQuestions.md)
+[Create or modify survey questions](t_CreateOrModifySurveyQuestions.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
-[Add a metric category and metric in the question bank for surveys](../task/add-questionbank-for-survey.md)
+[Add a metric category and metric in the question bank for surveys](add-questionbank-for-survey.md)
 
-[Create or modify answer options](../task/t_CreateOrModifyAnswerOptions.md)
+[Create or modify answer options](t_CreateOrModifyAnswerOptions.md)
 
-[Change the order of survey questions](../task/t_ChangeTheOrderOfSurveyQuestions.md)
+[Change the order of survey questions](t_ChangeTheOrderOfSurveyQuestions.md)
 

@@ -69,5 +69,5 @@ The following operations occur:
 
 **Note:** For list of known files that don’t have customer update records and are untracked, see [Customer Updates table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_CustomerUpdatesTable.md).
 
-**Parent Topic:**[Work with changes in Git](../concept/sns-sc-work-with-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](sns-sc-work-with-changes-in-git.md)
 

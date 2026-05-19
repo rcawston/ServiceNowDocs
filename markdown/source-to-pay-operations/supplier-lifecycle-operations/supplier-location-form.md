@@ -122,15 +122,15 @@ You can select multiple values from the choice list.
 
 [Primary data tables for Supplier Lifecycle Operations](slo-primary-data-tables.md)
 
-[Domain separation and Supplier Lifecycle Operations](../concept/supplier-domain-separation.md)
+[Domain separation and Supplier Lifecycle Operations](supplier-domain-separation.md)
 
 [Supplier Lifecycle Operations data model](slo-data-model.md)
 
-[Supplier Relationship and Performance Management reference](../concept/supplier-relationship-and-performance-management-reference.md)
+[Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md)
 
-[Supplier Payment Optimization reference](../concept/supp-payment-opt-ref.md)
+[Supplier Payment Optimization reference](supp-payment-opt-ref.md)
 
-[Supplier Lifecycle Operations glossary](../concept/slo-glossary.md#)
+[Supplier Lifecycle Operations glossary](slo-glossary.md#)
 
-[Add a supplier location from the Source-to-Pay Workspace](../task/add-supplier-location.md)
+[Add a supplier location from the Source-to-Pay Workspace](add-supplier-location.md)
 

@@ -18,7 +18,7 @@ Integrate Oracle Cloud Infrastructure \(OCI\) alarms with Event Management to se
 ## Before you begin
 
 -   Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
--   Oracle Cloud Discovery must be performed to ensure that the created alerts are bound to the configuration items in the ServiceNow AI Platform. For more information, see [Oracle Cloud Infrastructure Discovery](../../service-mapping/reference/oracle-cloud-infrastructure-discovery.md).
+-   Oracle Cloud Discovery must be performed to ensure that the created alerts are bound to the configuration items in the ServiceNow AI Platform. For more information, see [Oracle Cloud Infrastructure Discovery](../discovery-and-service-mapping-patterns/oracle-cloud-infrastructure-discovery.md).
 -   Role required: evt\_mgmt\_integration
 
 ## About this task

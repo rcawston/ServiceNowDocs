@@ -61,5 +61,5 @@ Options for capturing the type of operation or a combination of operations that 
 **Related topics**  
 
 
-[Manage information objects of a business application in EA Workspace](../../task/eaw-task/eaw-associate-info-obj-ba.md)
+[Manage information objects of a business application in EA Workspace](eaw-associate-info-obj-ba.md)
 

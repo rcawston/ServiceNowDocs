@@ -44,7 +44,7 @@ Role required: SRM approval team or admin
     On approval, the new service is created and added to the SRM team. The owner is set to the person shown in the Assigned to field. And the Managed by group is set to the SRM team associated with the assignee.
 
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
 **Previous topic:**[Configure error budget actions for breached SRM SLOs](sr-configure-error-budget.md)
 

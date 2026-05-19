@@ -56,7 +56,7 @@ The import pauses and displays an error message.
  ![Import template server validation](../image/ImportTemplateServerValidation.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Easy import](../concept/c_EasyImport.md)
+</table>**Parent Topic:**[Easy import](c_EasyImport.md)
 
 ## Template data validation
 

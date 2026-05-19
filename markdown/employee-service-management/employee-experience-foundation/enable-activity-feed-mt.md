@@ -50,5 +50,5 @@ Role required: admin
     For more information about creating a manifest file, see [Create and download the manifest file for pre-published apps](download-manifest-file-mt.md). For more information about uploading a manifest file, see [Upload manifest file in Microsoft Teams](upload-manifest-ms-teams.md).
 
 
-**Parent Topic:**[Sending notifications to employees using Microsoft Teams](../concept/using-campaigns-ms-teams-mt.md)
+**Parent Topic:**[Sending notifications to employees using Microsoft Teams](using-campaigns-ms-teams-mt.md)
 

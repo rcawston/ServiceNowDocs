@@ -41,11 +41,11 @@ Domain separation in the identification engine is enforced when users activate t
     If any application is already using IRE effectively in domain separated environment, then there's no advantage in switching to platform domain separation mode that might create some risk.
 
 
-Use the [glide.identification\_engine.platform\_domain\_separation\_enabled](../reference/properties-id-reconciliation.md) system property to switch between those two modes for IRE domain separation. By default, this property is set to **false**.
+Use the [glide.identification\_engine.platform\_domain\_separation\_enabled](properties-id-reconciliation.md) system property to switch between those two modes for IRE domain separation. By default, this property is set to **false**.
 
 ## Platform domain separation mode
 
-Set the system property [glide.identification\_engine.platform\_domain\_separation\_enabled](../reference/properties-id-reconciliation.md) to **true** to enable the platform domain separation mode for IRE processing. With the platform domain separation mode, parent domains can access all of their child domains during IRE processing. For example, IRE can detect a matching CI in a child domain and then update that CI instead of creating a new one.
+Set the system property [glide.identification\_engine.platform\_domain\_separation\_enabled](properties-id-reconciliation.md) to **true** to enable the platform domain separation mode for IRE processing. With the platform domain separation mode, parent domains can access all of their child domains during IRE processing. For example, IRE can detect a matching CI in a child domain and then update that CI instead of creating a new one.
 
 In the platform domain separation mode for IRE:
 
@@ -59,15 +59,15 @@ In the platform domain separation mode for IRE:
 
 Domain separation during the Identification process is enforced as follows:
 
--   Regardless of the setting of the [glide.identification\_engine.platform\_domain\_separation\_enabled](../reference/properties-id-reconciliation.md) system property:
+-   Regardless of the setting of the [glide.identification\_engine.platform\_domain\_separation\_enabled](properties-id-reconciliation.md) system property:
     -   Domain IDs don't need to be explicitly sent in the input payload of the identification engine APIs. Internally, the identification engine causes the current domain ID of the user to call the identification engine APIs.
     -   During matching, if no records are found and a CI is inserted, the CI domain ID is the same as the domain ID of the logged-in user’s domain. When updating a CI, the CI domain ID doesn't change.
     -   During matching, if duplicates are found, De-Duplication tasks created in the \[reconcile\_duplicate\_task\] table have the same domain ID as of the duplicate CIs.
     -   During matching, if reclassification of the CI isn't allowed, reclassification tasks are created in the \[reclassification\_task\] table, with the same domain ID as the CI for which reclassification is needed.
--   When the system property [glide.identification\_engine.platform\_domain\_separation\_enabled](../reference/properties-id-reconciliation.md) is set to **false**:
+-   When the system property [glide.identification\_engine.platform\_domain\_separation\_enabled](properties-id-reconciliation.md) is set to **false**:
     -   Only CIs that have the same domain ID as the currently logged-in user's domain are used during matching.
     -   Duplicate CIs that exist across domains \(including parent and child domains\) aren't considered as duplicate CIs by IRE.
--   When the system property [glide.identification\_engine.platform\_domain\_separation\_enabled](../reference/properties-id-reconciliation.md) is set to **true**:
+-   When the system property [glide.identification\_engine.platform\_domain\_separation\_enabled](properties-id-reconciliation.md) is set to **true**:
     -   Duplicate CIs that exist across domains \(such as parent and child domains\) are considered as duplicate CIs by IRE.
     -   CIs from the logged in user domain and child domains are used during matching.
 

@@ -38,5 +38,5 @@ Role required: sn\_dex.admin
 
 The list displays all the administrators available for DEX.
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](dex-application-monitoring.md)
 

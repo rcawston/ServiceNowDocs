@@ -56,7 +56,7 @@ You can share certain entities while excluding specific records within those ent
     -   Enabling templates or sharing from GUI is not allowed while the Outbound Intelligence Data Exclusion Rule is in the edit mode.
     -   The automated sharing and automatic addition of records to TAXII collections will also fail while the exclusion rule remains in edit mode.
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 

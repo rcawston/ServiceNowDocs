@@ -21,7 +21,7 @@ Role required: sn\_lg\_ops.legal\_admin
 
 ## About this task
 
-You can create record producers for external users to submit requests through the External Legal Service Center. For more information, see [Managing record producers for legal services](../../legal-request-management/concept/record-producers-legal-services.md).
+You can create record producers for external users to submit requests through the External Legal Service Center. For more information, see [Managing record producers for legal services](../legal-request-management/record-producers-legal-services.md).
 
 ## Procedure
 

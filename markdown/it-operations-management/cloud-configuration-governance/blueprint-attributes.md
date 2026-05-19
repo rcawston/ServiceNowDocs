@@ -28,14 +28,14 @@ When you add a blueprint operation to a resource, the system adds the appropriat
 
 **Warning:** It is recommended that you do not use **KeyPreference**. If you use the attribute, do not set **KeyPreference** to `user`.
 
-**Parent Topic:**[Build a Cloud Provisioning blueprint](../task/create-blueprint-cmp.md)
+**Parent Topic:**[Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)
 
 **Related topics**  
 
 
-[Add a resource operation to the execution plan](../task/add-resource-operation-cmp.md)
+[Add a resource operation to the execution plan](add-resource-operation-cmp.md)
 
-[Execute blueprint operations in parallel](../task/execute-blueprint-operations-parallel.md)
+[Execute blueprint operations in parallel](execute-blueprint-operations-parallel.md)
 
-[Configure a blueprint rule](../task/configure-a-blueprint-rule.md#)
+[Configure a blueprint rule](configure-a-blueprint-rule.md#)
 

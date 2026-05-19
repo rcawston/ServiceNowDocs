@@ -19,7 +19,7 @@ A service account is a secure record on your instance that stores the credential
 
 Role required: none
 
--   Download and activate the CSC Terraform Connector from the ServiceNow® Store. To try out the [Out Of Box Catalogs using Cloud Services Catalog](../../cloud-services-catalog/concept/out-of-the-box-catalog-items.md) for Google, install the CSC content pack.
+-   Download and activate the CSC Terraform Connector from the ServiceNow® Store. To try out the [Out Of Box Catalogs using Cloud Services Catalog](../cloud-services-catalog/out-of-the-box-catalog-items.md) for Google, install the CSC content pack.
 -   Operations in the Google Cloud Console require the Google administrator role.
 -   Operations in Cloud Provisioning and Governance require the sn\_cmp.cloud\_admin role.
 
@@ -46,7 +46,7 @@ When you finish the Day-1 setup process, your cloud account might look like this
 
 4.  From the JSON key file that is associated with the service account, populate the **project\_id** value into the **Account ID** field.
 
-    **Note:** You can use the import JSON file option to populate. For more details, see [Configure the Google API credentials for Cloud Discovery](../../discovery/task/itom-create-google-api-credentials.md).
+    **Note:** You can use the import JSON file option to populate. For more details, see [Configure the Google API credentials for Cloud Discovery](../itom-create-google-api-credentials.md).
 
 5.  In the **Discovery credentials** field, select the appropriate credentials for the service account.
 
@@ -95,5 +95,5 @@ After you complete all procedures in this initial "Day 1" setup, you can create 
 
 [\(Optional\) Add a Google Cloud Platform service account to the cloud account](gcp-add-service-account-cloud-mgt.md)
 
-[Discovery for Google Cloud Platform](../../service-mapping/reference/google-gcp-discovery-pattern.md)
+[Discovery for Google Cloud Platform](../discovery/google-gcp-discovery-pattern.md)
 

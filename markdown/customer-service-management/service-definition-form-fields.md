@@ -73,7 +73,7 @@ Playbook record generator
 
 </td><td>
 
-The playbook record generator associated with the service definition.If a service definition has an associated playbook, the agent can use the playbook in a tab on the case record. For more information, see [Associate a playbook with a service definition](../task/service-def-associate-playbook.md).
+The playbook record generator associated with the service definition.If a service definition has an associated playbook, the agent can use the playbook in a tab on the case record. For more information, see [Associate a playbook with a service definition](service-def-associate-playbook.md).
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ Image
 
 </td><td>
 
-The image associated with the service definition.Service definitions appear in the [case type selector](../concept/csm-case-type-select-modals.md) or [case task type selector](../concept/csm-case-task-type-select-modal.md) in a card view. The image appears in the card for a service definition along with the name and description.
+The image associated with the service definition.Service definitions appear in the [case type selector](csm-case-type-select-modals.md) or [case task type selector](csm-case-task-type-select-modal.md) in a card view. The image appears in the card for a service definition along with the name and description.
 
 </td></tr><tr><td>
 

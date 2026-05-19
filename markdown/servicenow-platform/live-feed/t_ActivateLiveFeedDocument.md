@@ -38,5 +38,5 @@ Administrators can enable record feeds in an instance by activating the Live Fee
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Record feeds](../concept/c_RecordFeeds.md)
+**Parent Topic:**[Record feeds](c_RecordFeeds.md)
 

@@ -130,7 +130,7 @@ The width of the Special Handling Notes pop-up window in pixels. The default wid
 -   **Location**: **Special Handling Notes** &gt; **Properties**
 
 </td></tr></tbody>
-</table>To learn more about the special handling notes properties, see [Configure special handling notes properties](../task/t_EnableOnScreenAlertProperties.md).
+</table>To learn more about the special handling notes properties, see [Configure special handling notes properties](t_EnableOnScreenAlertProperties.md).
 
 ## Business rules installed with Special Handling Notes
 

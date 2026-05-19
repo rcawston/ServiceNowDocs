@@ -81,7 +81,7 @@ Role required: sn\_map\_core.map\_admin
 10. Repeat the steps for the layers that you want to import to your CAD source file.
 
 
-**Parent Topic:**[Configure CAD objects using the Map Configuration tab](../concept/manage-cad-map-config.md)
+**Parent Topic:**[Configure CAD objects using the Map Configuration tab](manage-cad-map-config.md)
 
 **Previous topic:**[Georeference your floor plan](georeference-floor-plan.md)
 

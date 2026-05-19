@@ -130,7 +130,7 @@ An assessment can be closed only when it is in the **Approved** state. To close 
 </td></tr></tbody>
 </table>**Note:** If you have the sn\_oper\_res.admin role, you can delete the assessment in any state.​
 
-If you have the sn\_oper\_res.admin role, you can set up the assessment ratings by updating the criticality and order of the assessment rating in the Important choices module. For more information on setting up the assessment rating, see [Update the Important choices module](../../grc-operational-res/task/set-up-important-choices.md).
+If you have the sn\_oper\_res.admin role, you can set up the assessment ratings by updating the criticality and order of the assessment rating in the Important choices module. For more information on setting up the assessment rating, see [Update the Important choices module](set-up-important-choices.md).
 
-For more information on the Operational Resilience roles, see [Roles installed with Operational Resilience](../../grc-operational-res/reference/roles-installed-with-op-res.md).
+For more information on the Operational Resilience roles, see [Roles installed with Operational Resilience](roles-installed-with-op-res.md).
 

@@ -89,5 +89,5 @@ Document ID
 Document ID of the column from the selected reference table.The suggested values in this field depend on the reference table selected in the **Table** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

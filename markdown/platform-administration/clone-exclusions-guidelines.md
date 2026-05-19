@@ -19,7 +19,7 @@ A reference topic that includes general guidelines to exclude a table from cloni
 
 -   **Excluding child tables of the task table**
 
-    When excluding child tables of the task table, which use the [table per hierarchy extension model](../../platform-performance/concept/c_TaskTableFlattening.md), child tables are excluded. You don’t need to exclude the parent Task table together with the child table.
+    When excluding child tables of the task table, which use the [table per hierarchy extension model](table-administration-and-data-management/c_TaskTableFlattening.md), child tables are excluded. You don’t need to exclude the parent Task table together with the child table.
 
 -   **Using wildcards**
 

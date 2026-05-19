@@ -17,7 +17,7 @@ Keyboard shortcuts are enabled by default. You can disable all keyboard shortcut
 
 Role required: admin
 
-For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](../reference/r_KeyboardShortcuts.md).
+For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](r_KeyboardShortcuts.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](../
     3.  Select **Update**.
 
 
-**Parent Topic:**[Core UI keyboard shortcuts](../reference/r_KeyboardShortcuts.md)
+**Parent Topic:**[Core UI keyboard shortcuts](r_KeyboardShortcuts.md)
 

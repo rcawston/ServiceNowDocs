@@ -19,7 +19,7 @@ Use Guided Tours for onboarding new users, training on new features, and providi
 Guided Tour Designer is an interactive guide that assist administrators in creating and editing guided tours for ServiceNow® applications, service portals, and custom applications.
 -   **[Start a guided tour](accessing-guided-tours.md#)**  
 Guided Tours are available across four user interface types: Standard, Service Portal, Workspace, and Custom UI.
--   **[Guided Tours dashboard](../reference/guided-tour-overview.md)**  
+-   **[Guided Tours dashboard](guided-tour-overview.md)**  
 The Guided Tours Overview dashboard provides statistics related to guided tour usage.
 
 **Parent Topic:**[Guided Tours](guided-tours.md)

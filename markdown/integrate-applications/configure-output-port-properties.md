@@ -53,5 +53,5 @@ Field that appears for Data Out ports only. There are two options:-   **Connecti
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

@@ -32,5 +32,5 @@ The Mobile Agent mobile application runs on the Mobile App Builder mobile platfo
 3.  Download and install the ServiceNow Agent application.
 
 
-**Parent Topic:**[Mobile experience for Change Management](../concept/mobile-experience-cm.md)
+**Parent Topic:**[Mobile experience for Change Management](mobile-experience-cm.md)
 

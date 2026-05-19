@@ -80,5 +80,5 @@ Update Cells action: The action input, Value 1 corresponds to the first row in y
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Microsoft 365 Excel spoke](../task/setup-office-365-excel.md#).
+For information about setting up the spoke, see [Set up the Microsoft 365 Excel spoke](setup-office-365-excel.md#).
 

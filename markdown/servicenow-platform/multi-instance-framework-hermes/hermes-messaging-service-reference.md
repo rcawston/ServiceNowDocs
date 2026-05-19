@@ -19,12 +19,12 @@ Reference topics provide details on the Hermes Messaging Service components and 
 The Hermes Messaging Service architecture is built on the following components.
 -   **[Hermes Messaging Service security model](hermes-messaging-service-security-model.md)**  
 The Hermes Messaging Service security model relies on the following capabilities.
--   **[Hermes Messaging Service system properties](../reference/hermes-messaging-service-properties.md)**  
+-   **[Hermes Messaging Service system properties](hermes-messaging-service-properties.md)**  
 These system properties control the behavior of the Hermes Messaging Service.
--   **[Hermes Messaging Service roles](../reference/hermes-messaging-service-roles.md#)**  
+-   **[Hermes Messaging Service roles](hermes-messaging-service-roles.md#)**  
 Hermes Messaging Service is installed with these roles.
--   **[Hermes Messaging Service domain separation](../reference/hermes-messaging-service-domain-separation.md)**  
+-   **[Hermes Messaging Service domain separation](hermes-messaging-service-domain-separation.md)**  
 Domain separation is supported for the Hermes Messaging Service. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Manage service capabilities](../../general/concept/manage-services.md)
+**Parent Topic:**[Manage service capabilities](../manage-services.md)
 

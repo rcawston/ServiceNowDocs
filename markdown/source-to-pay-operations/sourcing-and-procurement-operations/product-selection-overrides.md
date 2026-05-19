@@ -27,5 +27,5 @@ A ShoppingHub administrator can set shopping controls to restrict your access to
 
 In your shopping cart, if you have any such product that has restricted access, a message is displayed stating that the product has been removed and is no longer available for purchase. You can select the link in the message to view similar products from other suppliers, if they exist. The visibility status of such a product is updated to Product Access Denied on the cart line.
 
-**Parent Topic:**[Shopping cart](../concept/shopping-cart.md)
+**Parent Topic:**[Shopping cart](shopping-cart.md)
 

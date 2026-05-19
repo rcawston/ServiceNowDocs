@@ -23,8 +23,8 @@ Role required: sn\_lg\_ops.legal\_user
 
 You can also submit a legal request through your mobile device or the Virtual Agent chat.
 
--   For more information on submitting a legal request through a mobile device, see [Submit a legal request through Now Mobile](../../legal-mobile/task/submit-legal-request-mobile.md).
--   To submit a legal request through Virtual Agent chat, you must have the Legal Virtual Agent Conversations application installed on your instance. For more information, see [Legal Virtual Agent Conversations](../concept/legal-va-conversations.md).
+-   For more information on submitting a legal request through a mobile device, see [Submit a legal request through Now Mobile](../legal-mobile/submit-legal-request-mobile.md).
+-   To submit a legal request through Virtual Agent chat, you must have the Legal Virtual Agent Conversations application installed on your instance. For more information, see [Legal Virtual Agent Conversations](../legal-service-delivery/legal-va-conversations.md).
 
 ## Procedure
 
@@ -63,5 +63,5 @@ You can also submit a legal request through your mobile device or the Virtual Ag
     -   Request Details: Review request details.
 -   If the administrator has configured notifications, you receive notifications about the progress of the request.
 
-**Parent Topic:**[Using Legal Request Management](../concept/submitting-legal-request.md)
+**Parent Topic:**[Using Legal Request Management](submitting-legal-request.md)
 

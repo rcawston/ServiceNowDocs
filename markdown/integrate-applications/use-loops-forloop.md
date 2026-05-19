@@ -50,5 +50,5 @@ You can configure the properties for the For Loop component.
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Loops](../concept/loops.md)
+**Parent Topic:**[Loops](loops.md)
 

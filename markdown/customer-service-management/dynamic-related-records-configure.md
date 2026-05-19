@@ -65,7 +65,7 @@ Defines the relationship between a context record and its associated definition 
  When you open a context record, you can see the associated definition records in the Context Related Record Definitions related list.
 
 </td></tr></tbody>
-</table>For more information about these tables, including field descriptions, see [Dynamic related record tables](../reference/dynamic-related-record-tables.md).
+</table>For more information about these tables, including field descriptions, see [Dynamic related record tables](dynamic-related-record-tables.md).
 
 ## How the context and definition records work
 

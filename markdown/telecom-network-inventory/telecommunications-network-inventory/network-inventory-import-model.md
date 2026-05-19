@@ -34,9 +34,9 @@ If you're looking to export models and templates from one ServiceNow instance an
 **Related topics**  
 
 
-[Import a model](../task/import-models.md)
+[Import a model](import-models.md)
 
-[Import templates](../task/import-templates.md)
+[Import templates](import-templates.md)
 
-[Import models and templates in JSON format](../task/import-models-templates-json.md)
+[Import models and templates in JSON format](import-models-templates-json.md)
 

@@ -23,7 +23,7 @@ Role required: admin
 
 If the information in the CMDB changes, unmatched CI information is not reconciled. To reconcile, apply CI lookup rules on the test results that are in an unmatched state when the CMDB is updated with the latest CIs.
 
-A schedule job is run on demand to reapply the CI matching rule for the discovered items in an unmatched state. If the CI changes after reapplying the lookup rules, the discovered items are updated with the new CI. Impacted test results are also updated. For details, see [CI changes for discovered items for Configuration Compliance](../concept/reapply-discovered-items-ci-changes-cc.md).
+A schedule job is run on demand to reapply the CI matching rule for the discovered items in an unmatched state. If the CI changes after reapplying the lookup rules, the discovered items are updated with the new CI. Impacted test results are also updated. For details, see [CI changes for discovered items for Configuration Compliance](reapply-discovered-items-ci-changes-cc.md).
 
 **Note:**
 

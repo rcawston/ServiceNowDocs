@@ -21,7 +21,7 @@ Role required: major\_incident\_manager
 
 ## Procedure
 
-1.  Navigate to [Major incident workbench](../concept/major-incident-workbench.md).
+1.  Navigate to [Major incident workbench](major-incident-workbench.md).
 
 2.  Click the **Communications** tab and then click **Add** that appears in Communication Tasks section to display the Adhoc Communication pop-up window.
 
@@ -37,5 +37,5 @@ Role required: major\_incident\_manager
     |Due in \(Minutes\)|Time span when the task must be executed after the task initiates. For recurring tasks, it also indicates the time span after which the task must repeat.|
 
 
-**Parent Topic:**[Major incident workbench](../concept/major-incident-workbench.md)
+**Parent Topic:**[Major incident workbench](major-incident-workbench.md)
 

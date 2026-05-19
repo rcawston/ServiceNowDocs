@@ -20,7 +20,7 @@ The Localization Framework provides the means to select one or more activated la
 -   Define localization preferences for the languages available in the instance to request translations.
 -   Lists only the activated languages in the instance to choose for localization of the content.
 
-    **Note:** Before you request for translations, ensure to activate all the required languages in the instance. For more information, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+    **Note:** Before you request for translations, ensure to activate all the required languages in the instance. For more information, see [Activate a language](../system-localization/t_ActivateALanguage.md).
 
 -   Displays the translation status for each activated language only if translations have been requested for insights in those languages. The translation status is updated when the insights dashboard is generated.
 -   Enables you to request translations from English into the selected language from the localization dashboard for the selected insights records.
@@ -34,5 +34,5 @@ The Localization Framework provides the means to select one or more activated la
 -   **[Request translations](language-picker-ui.md)**  
 The Localization Framework enables you to select one or more activated languages while requesting translations for artifacts.
 
-**Parent Topic:**[ServiceNow AI Platform translation and localization](../../managing-data/concept/translation-and-localization.md)
+**Parent Topic:**[ServiceNow AI Platform translation and localization](../system-localization/translation-and-localization.md)
 

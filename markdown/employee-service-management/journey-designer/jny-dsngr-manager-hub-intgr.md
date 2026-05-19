@@ -17,10 +17,10 @@ Integrate Manager Hub with Journey designer to facilitate daily activities among
 
 Follow the instructions in the Manager Hub documentation to install and configure the application for Journey designer.
 
-**Parent Topic:**[Integrations for Journey designer app](jny-integrations-1.md)
+**Parent Topic:**[Integrations for Journey designer app](../employee-service-management/jny-integrations-1.md)
 
 **Related topics**  
 
 
-[Manager Hub](manager-hub-overview.md)
+[Manager Hub](../hr-service-delivery/manager-hub-overview.md)
 

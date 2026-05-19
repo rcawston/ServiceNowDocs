@@ -162,5 +162,5 @@ Description about the digital integration. Describe in detail why the integratio
 **Related topics**  
 
 
-[Add or edit a digital integration in the EA Workspace](../../task/eaw-task/eaw-create-digital-integ.md)
+[Add or edit a digital integration in the EA Workspace](eaw-create-digital-integ.md)
 

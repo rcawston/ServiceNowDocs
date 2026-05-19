@@ -19,7 +19,7 @@ Role required: sn\_ti.write
 
 ## Procedure
 
-1.  After the scheduled job has retrieved IoC data from the [defined data source](../concept/c_GetStartedWithThreatIntel.md#), navigate to **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicators**.
+1.  After the scheduled job has retrieved IoC data from the [defined data source](c_GetStartedWithThreatIntel.md#), navigate to **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicators**.
 
     The retrieved IoCs are listed.
 
@@ -41,7 +41,7 @@ Select classification tag
 
 </td><td>
 
-If you set up and activated [security tags](../../security-operations-common/task/create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the IoC. If you did not set up or activate security tags, this drop-down list is not displayed.
+If you set up and activated [security tags](create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the IoC. If you did not set up or activate security tags, this drop-down list is not displayed.
 
 </td></tr><tr><td>
 
@@ -224,7 +224,7 @@ Lists individuals, groups, or organizations who act with malicious intent associ
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Indicators of compromise](../concept/c_IoCs.md)
+**Parent Topic:**[Indicators of compromise](c_IoCs.md)
 
 **Related topics**  
 

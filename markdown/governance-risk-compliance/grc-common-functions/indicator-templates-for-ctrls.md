@@ -17,9 +17,9 @@ The Technology Controls Monitoring Accelerator includes 273 indicator templates 
 
 When the Technology Controls Monitoring Accelerator is used along with the Cybersecurity Controls Accelerator application, you can manage indicator templates within the Cybersecurity Controls Accelerator application.
 
-When Technology Controls Monitoring Accelerator is run as a standalone application; however, it can be run with the Policy and Compliance Management application. You can also [map UCF controls to indicator templates](../../grc-cybersec-controls/concept/cybersecurity-controls-accelerator.md#) from with the Policy and Compliance Management application.
+When Technology Controls Monitoring Accelerator is run as a standalone application; however, it can be run with the Policy and Compliance Management application. You can also [map UCF controls to indicator templates](cybersecurity-controls-accelerator.md#) from with the Policy and Compliance Management application.
 
-**Note:** For information on the different types of indicator templates, see [Using indicator templates](../../grc-cybersec-controls/concept/using-indicator-templates.md).
+**Note:** For information on the different types of indicator templates, see [Using indicator templates](using-indicator-templates.md).
 
 ## Indicator templates for CIS v8 Controls
 

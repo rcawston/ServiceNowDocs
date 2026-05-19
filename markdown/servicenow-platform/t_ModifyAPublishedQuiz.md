@@ -25,7 +25,7 @@ Role required: none
     -   Changes to existing questions are immediately available to users before the quiz is submitted or during the [retake period](t_EnableAQuizRetake.md). This includes changes to the answers, such as additional choices or changes to the data type.
     -   Deleted questions are also deleted from the distributed quizzes in users' queues.
 
-**Parent Topic:**[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+**Parent Topic:**[Create quizzes with forms](c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 

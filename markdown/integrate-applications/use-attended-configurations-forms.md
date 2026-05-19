@@ -17,7 +17,7 @@ When you use the AttendedConfigurations component, it shows a list of attended c
 
 If you are running an automation from RPA Desktop Design Studio, then assign the automation to the bot process by using the **Assign bot process** option from the **Design** tab of RPA Desktop Design Studio. In the **Bot Process** field, ensure to select an attended bot process that is enabled with Embedded Task Automation. In the **Attended Config** field, ensure to select an associated attended configuration. In the **Record Context** field, ensure to enter the Sys ID or URL of the ServiceNow form record. For more information, see [Assign bot process to an automation project](assign-bot-process.md).
 
-Ensure you are familiar with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../../rpa-hub/concept/embedded-task-auto-rpa.md).
+Ensure you are familiar with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md).
 
 Role required:
 
@@ -30,7 +30,7 @@ The AttendedConfigurations component segregates the execution of the automations
 
 If you are triggering the automation from the ServiceNow form's UI action \(button\) and it executes using the Attended Robot application, then the AttendedConfigurations component routes the automation flow from the associated attended configuration.
 
-You can configure the properties for the AttendedConfigurations component. For more information about these properties, see [Properties of the Forms components](../reference/sn-forms-properties.md).
+You can configure the properties for the AttendedConfigurations component. For more information about these properties, see [Properties of the Forms components](sn-forms-properties.md).
 
 For example, if an automation requires two UI actions, create two attended configurations in RPA Hub, that are associated to the same bot process and table. Define the automation logics separately for these UI actions, under different activities.
 
@@ -66,5 +66,5 @@ Let's consider a currency price retrieval use case, where one automation is buil
 7.  To test the component, right-click the title bar of the component and select **Run From Here**.
 
 
-**Parent Topic:**[Forms](../concept/forms_sn_rpa_studio.md)
+**Parent Topic:**[Forms](forms_sn_rpa_studio.md)
 

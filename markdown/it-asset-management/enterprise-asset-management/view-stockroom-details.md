@@ -209,5 +209,5 @@ Create and view audits for your enterprise asset inventory.
         You can also determine if the corresponding model has reached the end of sale.
 
 
-**Parent Topic:**[Create and manage enterprise asset inventory](../concept/managing-enterprise-asset-inventory.md)
+**Parent Topic:**[Create and manage enterprise asset inventory](managing-enterprise-asset-inventory.md)
 

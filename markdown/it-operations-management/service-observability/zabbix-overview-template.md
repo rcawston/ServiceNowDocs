@@ -54,7 +54,7 @@ SLO Error Budget
 
 </td><td>
 
-Information about your current error budget for this service, as configured in Service Reliability Management \(SRM\).For more information on error budgets, see [Create SLOs, SLIs, and error budget policies](../../slo-management/task/sr-create-slo-sli.md).
+Information about your current error budget for this service, as configured in Service Reliability Management \(SRM\).For more information on error budgets, see [Create SLOs, SLIs, and error budget policies](../service-level-objective-management/sr-create-slo-sli.md).
 
 </td><td>
 

@@ -46,5 +46,5 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 **Related topics**  
 
 
-[Contract approval flow](../concept/contract-approval-workflow.md)
+[Contract approval flow](contract-approval-workflow.md)
 

@@ -22,7 +22,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Portfolio Planning](../concept/roadmaps-in-portfolio-planning.md).
+Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Portfolio Planning](roadmaps-in-portfolio-planning.md).
 
 Select a source table as a starting point to base your roadmap on. Select one of project or demand for a simple roadmap or Planning Item table for a hybrid roadmap.
 
@@ -65,8 +65,8 @@ Update the details of a free-form roadmap to reflect the changes in priorities o
 Add people from your organization who are the stakeholders for the work involved in your roadmap plan so that they have visibility into the roadmap's progress.
 -   **[Collaborate on a free-form roadmap with stakeholders](collaborate-free-form-roadmap-portfolio-planning.md)**  
 Add comments and attachments to a free-form roadmap for other users of your organization can review and share their feedback. Collaborate and ensure that your roadmap aligns with your company's priorities.
--   **[Managing free-form roadmap views](../concept/managing-free-form-roadmap-views-ppw.md)**  
+-   **[Managing free-form roadmap views](managing-free-form-roadmap-views-ppw.md)**  
 Portfolio managers can create customized views for their free-form roadmap by applying personalization settings such as grouping, milestones selection, dependencies selection, and tracking mode. Portfolio owners or editors can share these personalized views with stakeholders to enable easier collaboration on the free-form roadmaps.
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](planning-roadmaps-in-portfolio-planning.md)
 

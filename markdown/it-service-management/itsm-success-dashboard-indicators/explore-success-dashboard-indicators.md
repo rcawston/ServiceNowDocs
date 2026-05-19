@@ -23,7 +23,7 @@ The IT leadership team can analyze and understand the key metrics such as call d
 -   The number of times Predictive Intelligence successfully predicted an incident field, which in turn has a downstream impact on the resolution time.
 -   The formulae and definitions of the data being presented.
 -   The data trend for month-on-month, quarter-on-quarter, or year-on-year.
--   The Key Performance Indicators \(KPIs\) metrics on the dashboard for a selected period. For more information to view metrics for a selected period, see [View metrics for selected period in ITSM Success Dashboard indicators](../task/view-metrics-selected-period.md).
+-   The Key Performance Indicators \(KPIs\) metrics on the dashboard for a selected period. For more information to view metrics for a selected period, see [View metrics for selected period in ITSM Success Dashboard indicators](view-metrics-selected-period.md).
 
 Also, process owners can view the records that contribute to these insights, do a deep dive analysis, and drive improvement plans.
 

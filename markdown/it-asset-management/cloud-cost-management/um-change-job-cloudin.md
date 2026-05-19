@@ -121,5 +121,5 @@ This field appears only when the **Approval type** is selected as **Auto approva
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Manage unused resources](../concept/manage-unused-mac.md)
+**Parent Topic:**[Manage unused resources](manage-unused-mac.md)
 

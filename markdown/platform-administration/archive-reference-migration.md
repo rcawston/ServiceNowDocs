@@ -88,5 +88,5 @@ trigger.setValue('trigger_class', 'com.glide.db.auxiliary.job.ArchiveRefJob');
 trigger.insert();
 ```
 
-**Parent Topic:**[Managing data growth in Core UI](../../managing-data/concept/data-management-policies.md)
+**Parent Topic:**[Managing data growth in Core UI](data-management-policies.md)
 

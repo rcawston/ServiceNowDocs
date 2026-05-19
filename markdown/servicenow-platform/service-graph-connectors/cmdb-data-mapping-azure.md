@@ -355,7 +355,7 @@ SG-Azure TCP
 
 </td><td>
 
-SG-Azure TCP \[sn\_sg\_azure\_integ\_tcp\]**Note:** The SG-Azure TCP data source imports the TCP and processes data from the VMConnection and VMProcess tables in the Log Analytics workspace of Azure. To populate the tables, you must first enable the VM insights feature in the Azure portal. For more information, see [Enabling VM insights for collecting Azure data](../concept/sgc-cmdb-azure-vm-insights.md).
+SG-Azure TCP \[sn\_sg\_azure\_integ\_tcp\]**Note:** The SG-Azure TCP data source imports the TCP and processes data from the VMConnection and VMProcess tables in the Log Analytics workspace of Azure. To populate the tables, you must first enable the VM insights feature in the Azure portal. For more information, see [Enabling VM insights for collecting Azure data](sgc-cmdb-azure-vm-insights.md).
 
 </td><td>
 
@@ -432,7 +432,7 @@ SG-Azure Kubernetes Cluster \[sn\_sg\_azure\_integ\_kubernetes\_cluster\]
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from Azure, see [CMDB classes targeted in Service Graph Connector for Microsoft Azure](cmdb-azure-classes.md) and [Supported Microsoft Azure resource types](cmdb-sgc-azure-resource-types.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../concept/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 
 Additional information about Azure data sources:
 

@@ -28,12 +28,12 @@ When the Trigger CSOD Sync schedule flow is run, users are pulled from the Corne
 
 **Note:** In case you want to use **CSOD ID**, **CSOD user**, and **CSOD User ID** fields for mapping users, you must override the getUser method in CSODIntegrationsUtil script.
 
-**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](../reference/reference-ondemand.md)
+**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](reference-ondemand.md)
 
 **Related topics**  
 
 
-[Components installed with HR Service Delivery Integration with Cornerstone OnDemand](../reference/installed-with-hr-corn-int.md)
+[Components installed with HR Service Delivery Integration with Cornerstone OnDemand](installed-with-hr-corn-int.md)
 
 [Source for HR Service Delivery Integration with Cornerstone OnDemand](hr-cornerstone-properties.md)
 
@@ -43,5 +43,5 @@ When the Trigger CSOD Sync schedule flow is run, users are pulled from the Corne
 
 [Status mapping in Cornerstone OnDemand System](status-cornerstone.md)
 
-[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](../reference/transform-maps-cornerstone.md)
+[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](transform-maps-cornerstone.md)
 

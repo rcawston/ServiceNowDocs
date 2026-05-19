@@ -27,5 +27,5 @@ Closing a task in the hardware disposal process completes that task and automati
 |Completed|None|Hardware disposal record request is completed.|
 |Cancelled|None|Disposal order can be canceled only until the transit stage.|
 
-**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 

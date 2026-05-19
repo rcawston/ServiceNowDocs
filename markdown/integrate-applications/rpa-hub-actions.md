@@ -19,11 +19,11 @@ The flows and actions are built using ServiceNow Workflow Studio, so make sure y
 
 ## Invoke flows or subflow
 
-Invoke the flow or subflow via RPA Desktop Design Studio, Unattended Robot, or Attended Robot. For more information, see the topics listed in [Flow Designer components](../../rpa-studio/concept/flow-designer-components.md).
+Invoke the flow or subflow via RPA Desktop Design Studio, Unattended Robot, or Attended Robot. For more information, see the topics listed in [Flow Designer components](flow-designer-components.md).
 
 ## Enable the client callable option for a flow or subflow
 
-Enable a client script to trigger an RPA Hub flow or subflow. For more information, see [Enable the client callable option on a flow or subflow in RPA Hub](../../rpa-studio/task/enable-client-flow-rpa.md).
+Enable a client script to trigger an RPA Hub flow or subflow. For more information, see [Enable the client callable option on a flow or subflow in RPA Hub](enable-client-flow-rpa.md).
 
 ## RPA Hub actions
 
@@ -257,11 +257,11 @@ Stops a bot process. If Graceful Stop is enabled, this action gracefully stops t
 
 If this check box is selected, then bot process must stop gracefully.
 
-For more information about stopping a bot process, see [Stop an unattended bot process in RPA Hub](../task/stop-bot-process.md).
+For more information about stopping a bot process, see [Stop an unattended bot process in RPA Hub](stop-bot-process.md).
 
-For more information about Graceful stop, see [Using Graceful Stop functionality in RPA Hub](../concept/graceful-stop-rpa.md).
+For more information about Graceful stop, see [Using Graceful Stop functionality in RPA Hub](graceful-stop-rpa.md).
 
-For more information about Robot Pool, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+For more information about Robot Pool, see [Robot pool in RPA Hub](robot-pool-rpa.md).
 
 
 </td><td>
@@ -369,7 +369,7 @@ Verify HashCode of a Package Version
 
 </td><td>
 
-Verifies the HashCode of a package version in RPA Hub to validate the HashCode of the manually uploaded automation zip file with the associated package version record.For more information about verifying the HashCode of a package version, see [Verify the HashCode of a package version in RPA Hub](../task/view-hash-code.md).
+Verifies the HashCode of a package version in RPA Hub to validate the HashCode of the manually uploaded automation zip file with the associated package version record.For more information about verifying the HashCode of a package version, see [Verify the HashCode of a package version in RPA Hub](view-hash-code.md).
 
 </td><td>
 
@@ -408,7 +408,7 @@ Import Package Version Attachment Subflow
 
 </td><td>
 
-Imports the package version attachments automatically for a package version. To automatically migrate the package attachment \(automation zip file\) from a lower \(non-production\) to a higher \(production\) environment.For more information about importing a package version attachment in RPA Hub, see [Import a package version attachment in RPA Hub](../task/import-attachment-package-version.md).
+Imports the package version attachments automatically for a package version. To automatically migrate the package attachment \(automation zip file\) from a lower \(non-production\) to a higher \(production\) environment.For more information about importing a package version attachment in RPA Hub, see [Import a package version attachment in RPA Hub](import-attachment-package-version.md).
 
 </td><td>
 
@@ -470,8 +470,8 @@ Triggers a specific bot process to stop in RPA Hub. Returns robots details and p
 -   **Result**: String
 
 </td></tr></tbody>
-</table>-   **[Enable the client callable option on a flow or subflow in RPA Hub](../../rpa-studio/task/enable-client-flow-rpa.md)**  
+</table>-   **[Enable the client callable option on a flow or subflow in RPA Hub](enable-client-flow-rpa.md)**  
 Enable a client script to trigger an RPA Hub flow or subflow.
 
-**Parent Topic:**[Using RPA Hub](../concept/managing-rpa-hub.md)
+**Parent Topic:**[Using RPA Hub](managing-rpa-hub.md)
 

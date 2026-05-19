@@ -55,5 +55,5 @@ The Agent Workspace Migration Request \(sn\_sow\_migration\_aw\_migration\_reque
 6.  Select **Install**.
 
 
-**Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../concept/migration-from-itsm-aw-sow.md)
+**Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](migration-from-itsm-aw-sow.md)
 

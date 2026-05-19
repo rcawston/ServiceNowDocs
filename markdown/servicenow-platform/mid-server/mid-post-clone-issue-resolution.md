@@ -30,7 +30,7 @@ A cleanup script called Bad MID Server credentials after clone runs on the targe
 
 These jobs log to the MID Server Issue \[ecc\_agent\_issue\] table any MID Servers that existed on the target instance prior to the clone that are in the **Down** state. These MID Servers are not ready for normal processing and might be down due to invalid credentials resulting from the cloning process. The state of MID Servers added to the target instance after the clone is not evaluated.
 
-**Note:** The [MID Server log](../concept/ecc-queue-mid-server.md#) shows that the MID Server user associated with the target instance could not be authenticated or was missing the proper role.
+**Note:** The [MID Server log](ecc-queue-mid-server.md#) shows that the MID Server user associated with the target instance could not be authenticated or was missing the proper role.
 
 ## Business rule that checks for bad credentials
 

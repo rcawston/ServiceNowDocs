@@ -29,7 +29,7 @@ Role required: sn\_jira\_int.admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Jira Instance form](../reference/jira-instance-form.md).
+    For field information, see [Jira Instance form](jira-instance-form.md).
 
 4.  Select **Submit**.
 
@@ -38,5 +38,5 @@ Role required: sn\_jira\_int.admin
 
 [Connect SPW to Jira](connect-spw-to-jira.md).
 
-**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](../concept/setting-up-jira-instance-spw.md)
+**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](setting-up-jira-instance-spw.md)
 

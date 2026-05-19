@@ -33,10 +33,10 @@ Role required: web\_service\_admin or admin
     |Type|Select whether the SOAP security policy applies to inbound or outbound traffic.|
     |Required to Sign SOAP Request|Select this checkbox to require signed SOAP requests. Clear the checkbox to allow unsigned SOAP requests. When enabled, the instance will produce an error for any SOAP request that does not include a valid signature. When disabled, the instance still verifies any signature included with a SOAP request.|
     |Authenticate|Select if a SOAP request must authenticate against all security profiles or at least one security profile.|
-    |Security Profiles|Select the [security profiles](../reference/ws-security-reference.md) you want to apply to this SOAP security policy. You must select at least one security profile.|
+    |Security Profiles|Select the [security profiles](ws-security-reference.md) you want to apply to this SOAP security policy. You must select at least one security profile.|
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

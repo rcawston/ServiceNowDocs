@@ -15,7 +15,7 @@ Common Service Data Model \(CSDM\) is a standardized framework and CMDB data mod
 
 ![CSDM shapes library](../../image/eaw-image/modeling/modeling-csdm-diagram.png)
 
--   **[Create a diagram using CSDM shapes](../../task/eaw-task/eaw-modeling-create-diagram-csdm.md)**  
+-   **[Create a diagram using CSDM shapes](eaw-modeling-create-diagram-csdm.md)**  
 The CSDM shapes represent objects visually in diagrams, enabling architects to model business capabilities, applications, services, and technical components in alignment with the Now Platform.
 
 **Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)

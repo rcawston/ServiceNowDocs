@@ -111,11 +111,11 @@ By default, when a user requests a reset, the instance sends the user a URL with
 ### Restrictions on the Password Reset Windows Application
 
 -   The Password Reset Windows Application does not support custom verifications.
--   The Password Reset Windows Application uses the base-system CAPTCHA service even if the Password Reset application is configured to use Google reCAPTCHA with the web interface. See the section titled "Settings on the Details tab" in [Configure your Password Reset process](../task/t_CreateAPasswordResetProcess.md). .
--   The Password strength indicator is not supported. See [Configure the connection to a credential store for the Password Reset processes](../task/t_CreateACredentialStore.md).
+-   The Password Reset Windows Application uses the base-system CAPTCHA service even if the Password Reset application is configured to use Google reCAPTCHA with the web interface. See the section titled "Settings on the Details tab" in [Configure your Password Reset process](t_CreateAPasswordResetProcess.md). .
+-   The Password strength indicator is not supported. See [Configure the connection to a credential store for the Password Reset processes](t_CreateACredentialStore.md).
 -   For some verification types, you can use only one verification. Custom verifications are not supported. See [Password Reset verifications](c_PWRVerifications.md) for details.
 -   Custom UI macros configured on the **Process** &gt; **Advanced** page are not supported \(for example, entry, success, or failure macros\). The system displays only the default success and failure messages.
--   The Password Reset Windows Application supports newline characters in the **Password rule hint** text. Other formatting is not supported \(bold, underline, hyperlink, and so on\). See [Configure the connection to a credential store for the Password Reset processes](../task/t_CreateACredentialStore.md).
+-   The Password Reset Windows Application supports newline characters in the **Password rule hint** text. Other formatting is not supported \(bold, underline, hyperlink, and so on\). See [Configure the connection to a credential store for the Password Reset processes](t_CreateACredentialStore.md).
 
 ### Password Reset Windows Application installation requirements
 

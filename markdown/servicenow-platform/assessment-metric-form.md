@@ -284,5 +284,5 @@ Displays improvement initiatives associated with the survey.**Note:** This relat
 **Related topics**  
 
 
-[Configure an assessment](../task/configure-assessment.md)
+[Configure an assessment](configure-assessment.md)
 

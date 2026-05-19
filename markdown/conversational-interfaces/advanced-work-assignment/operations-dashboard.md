@@ -15,7 +15,7 @@ breadcrumb: [Analytics &amp; Reporting Solutions, Reference, Advanced Work Assig
 
 Enable managers to monitor work items across all service channels so that their agents can better support customer needs.
 
-This dashboard is available in the Advanced Work Assignment content pack. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](../../../use/application-content-packs/concept/awa-content-pack.md).
+This dashboard is available in the Advanced Work Assignment content pack. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](awa-content-pack.md).
 
 ![The dashboard displays indicators and reports to track agent interactions with customers.](../image/awa-operations-dashboard-update.png "Advanced Work Assignment dashboard for Operations")
 

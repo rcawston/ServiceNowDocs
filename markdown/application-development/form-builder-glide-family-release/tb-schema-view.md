@@ -17,11 +17,11 @@ Use **Schema** view in Table Builder to explore data relationships for your appl
 
 ## Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](../concept/accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](../concept/form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](../concept/fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -120,5 +120,5 @@ Select the **View Table** icon \(![Navigate to Table Builder icon.](../image/icn
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Data in Table Builder](../concept/table-builder.md)
+**Parent Topic:**[Data in Table Builder](table-builder.md)
 

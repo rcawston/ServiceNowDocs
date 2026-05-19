@@ -70,7 +70,7 @@ This field is displayed when the File Type is selected as **URL**.
 **Related topics**  
 
 
-[Create an architectural artifact and associate it with a business application](../../task/eaw-task/eaw-assoicate-artifact-ba.md)
+[Create an architectural artifact and associate it with a business application](eaw-assoicate-artifact-ba.md)
 
-[Create or edit an architectural artifact from Portfolio page](../../task/eaw-task/eaw-create-architectural-artifact.md)
+[Create or edit an architectural artifact from Portfolio page](eaw-create-architectural-artifact.md)
 

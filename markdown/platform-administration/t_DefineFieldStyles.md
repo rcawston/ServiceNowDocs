@@ -110,12 +110,12 @@ color:white;
     javascript: current.state == "Completed" && current.error_tables > 0
     ```
 
-4.  To add alternative text for a style, [configure the form](../../form-administration/concept/configure-form-layout.md#) to add the alternative text field.
+4.  To add alternative text for a style, [configure the form](configure-form-layout.md#) to add the alternative text field.
 
     For styles like the VIP style icon, you can add alternative text so that screen readers can differentiate between the style and the text.
 
 5.  Select **Submit** or **Update**.
 
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../../field-administration/concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](customize-fields-now-platform-landing.md)
 

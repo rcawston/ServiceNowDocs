@@ -25,7 +25,7 @@ Role required: itil, major\_incident\_manager, communication\_manager, incident\
 
 ## Procedure
 
-1.  Navigate to [Major incident workbench](../concept/major-incident-workbench.md).
+1.  Navigate to [Major incident workbench](major-incident-workbench.md).
 
 2.  Select the **Summary** tab.
 
@@ -36,5 +36,5 @@ Role required: itil, major\_incident\_manager, communication\_manager, incident\
     The similar child incidents appear under the Child Incidents section.
 
 
-**Parent Topic:**[Major incident workbench](../concept/major-incident-workbench.md)
+**Parent Topic:**[Major incident workbench](major-incident-workbench.md)
 

@@ -60,7 +60,7 @@ If the lookup does not successfully complete, verify that the search terms you e
 
 For more enrichment data on the domain lookup results, you can run the Whois integration to perform enrichment lookups on the child observables returned by the Reverse Whois integration. This enrichment data on the child observables includes information on registration date, name of registrar, and country of origin.
 
-**Parent Topic:**[Reverse Whois integration](../concept/reversewhois-lookups.md)
+**Parent Topic:**[Reverse Whois integration](reversewhois-lookups.md)
 
 **Previous topic:**[Initiate the lookup for Reverse Whois](manually-attch-an-obsvrble-reversewhois.md)
 

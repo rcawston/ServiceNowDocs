@@ -27,16 +27,16 @@ The ServiceNow AI Platform stores date and date/time information in records usin
 |Duration|**glide\_duration**|DATETIME|
 |Due date|**due\_date**|DATETIME|
 
-For the full listing of field types, see [Introduction to Fields](../../reference-pages/concept/c_IntroductionToFields.md).
+For the full listing of field types, see [Introduction to Fields](../c_IntroductionToFields.md).
 
 -   **[Global date and time field format](r_FormatDateAndTimeFields.md)**  
 You define default date and time formats globally using system properties.
--   **[Configure the date picker for the list editor](../task/t_ConfigureDatePickerForListEditor.md)**  
+-   **[Configure the date picker for the list editor](t_ConfigureDatePickerForListEditor.md)**  
 A system property enables you to choose between two date picker configurations for the list editor.
--   **[Default date and time fields](../concept/c_DefaultDateAndTimeFields.md)**  
+-   **[Default date and time fields](c_DefaultDateAndTimeFields.md)**  
 Certain time fields are provided by default to store particular date and time fields.
--   **[Export date and time formats](../concept/c_ExportDateAndTimeInformation.md)**  
+-   **[Export date and time formats](c_ExportDateAndTimeInformation.md)**  
 Because some export formats are intended for human consumption and others for database usage, various methods are used to provide date and time field information in different formats.
 
-**Parent Topic:**[Exploring time configuration](../exploring-time-configuration.md)
+**Parent Topic:**[Exploring time configuration](exploring-time-configuration.md)
 

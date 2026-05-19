@@ -21,7 +21,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 Linked inputs can be used to create path conditions.
 
-For more information about input mapping and exceptions related to input mapping, see [Linking inputs in decision tree nodes](../reference/guided-decision-tree-input-mapping.md).
+For more information about input mapping and exceptions related to input mapping, see [Linking inputs in decision tree nodes](guided-decision-tree-input-mapping.md).
 
 ## Procedure
 

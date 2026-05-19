@@ -17,5 +17,5 @@ If you are currently running a family release \(Australia, for example\) and wan
 
 The application is automatically updated when the platform is updated to the minimum required version.
 
-**Parent Topic:**[AES and the ServiceNow Store](../concept/aes-installation-store.md)
+**Parent Topic:**[AES and the ServiceNow Store](aes-installation-store.md)
 

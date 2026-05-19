@@ -33,7 +33,7 @@ The following steps describe information that is specific to SAP. For general in
 
 2.  On the form, fill in the fields.
 
-    **Note:** Only the fields that are specific to SAP software models are shown below. For detailed descriptions of all software model fields, see [Software model fields](../reference/software-model-fields.md).
+    **Note:** Only the fields that are specific to SAP software models are shown below. For detailed descriptions of all software model fields, see [Software model fields](software-model-fields.md).
 
 <table id="table_nr2_nd1_y4"><thead><tr><th>
 
@@ -91,12 +91,12 @@ Some SAP engines allow a certain amount of unlicensed usage before your licence 
 
 [Create a software entitlement](create-entitlement-sap.md) to record your licenses for the software model.
 
-**Parent Topic:**[Software Asset Management publisher pack for SAP](../concept/sap-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for SAP](sap-publisher-pack.md)
 
 **Related topics**  
 
 
-[Tables installed with the SAP publisher pack](../concept/component-installed-sap-plugin.md)
+[Tables installed with the SAP publisher pack](component-installed-sap-plugin.md)
 
 [Deploy the ABAP program for SAP](import-abap-program-sap.md)
 
@@ -116,13 +116,13 @@ Some SAP engines allow a certain amount of unlicensed usage before your licence 
 
 [Import custom SAP price lists](import-custom-sap-price-list.md)
 
-[SAP USMM-based optimization](../concept/usmm-optimization.md)
+[SAP USMM-based optimization](usmm-optimization.md)
 
-[User transaction activity for named user types](../concept/sap-named-user-transaction-activity.md)
+[User transaction activity for named user types](sap-named-user-transaction-activity.md)
 
-[Self-declaring SAP engine license usage](../concept/self-declaring-sap-engine-usage.md)
+[Self-declaring SAP engine license usage](self-declaring-sap-engine-usage.md)
 
-[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](../reference/dashboard-sap.md)
+[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](dashboard-sap.md)
 
-[Publisher overview for SAP in the Software Asset Workspace](../reference/publisher-overview-sap.md)
+[Publisher overview for SAP in the Software Asset Workspace](publisher-overview-sap.md)
 

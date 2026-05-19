@@ -24,7 +24,7 @@ Restrict access by Center of Excellence \(COE\) for specific groups:
 
 The base system provides one case restriction configuration that enables the HR Confidential group to access ER cases.
 
-For more information, see [Manage HR Groups](../task/t_ManageHRGroups.md).
+For more information, see [Manage HR Groups](t_ManageHRGroups.md).
 
 **Note:** When creating case restrictions, be sure that you have at least one configuration that enables you to read these cases.
 
@@ -42,7 +42,7 @@ You can then restrict the COE with read and write capabilities.
 
 **Note:** If you choose to restrict other COEs besides Employee Relations Case \[sn\_hr\_er\_case\], you can cause performance issues. ER cases numbering more than 100 K can impact performance.
 
-For more information, see [Create a COE security policy](../task/hr-create-coe-security-policy.md).
+For more information, see [Create a COE security policy](hr-create-coe-security-policy.md).
 
 COE security policies are a way to easily restrict access to different COEs via configuration. The underlying COE security policy implementations are [ServiceNow ACLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-control-rules.md).
 

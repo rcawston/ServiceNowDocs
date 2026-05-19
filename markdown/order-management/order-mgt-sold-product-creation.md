@@ -15,7 +15,7 @@ Learn how the Order Management application creates and maintains the customer pr
 
 ## Customer product data record creation
 
-Sold product records are created and added to the Sold Product \[sn\_install\_base\_sold\_product\] table after an order line is marked as closed complete. Product inventory records are created and added to the Product Inventory \[sn\_prd\_invt\_product\_inventory\] table after an order is decomposed, completed, and fulfilled. Product inventory records are created for products with specifications. Depending on how your admin has configured the sn\_ind\_tmt\_orm.enable\_prod\_invt\_for\_order\_management system property, either sold products or product inventory records are created. For more information, see [Configure customer product data management](../../customer-service-management/task/configure-customer-product-data-management.md).
+Sold product records are created and added to the Sold Product \[sn\_install\_base\_sold\_product\] table after an order line is marked as closed complete. Product inventory records are created and added to the Product Inventory \[sn\_prd\_invt\_product\_inventory\] table after an order is decomposed, completed, and fulfilled. Product inventory records are created for products with specifications. Depending on how your admin has configured the sn\_ind\_tmt\_orm.enable\_prod\_invt\_for\_order\_management system property, either sold products or product inventory records are created. For more information, see [Configure customer product data management](configure-customer-product-data-management.md).
 
 The Product Inventory table extends the Sold Product table. Only the items from the product inventory are available for change, disconnect, suspend, or resume type orders.
 
@@ -52,5 +52,5 @@ The change order workflow is as follows:
 
 [Managing post-fulfillment order changes](managing-orders.md)
 
-[Request post-sale change orders](../task/create-macd-orders.md)
+[Request post-sale change orders](create-macd-orders.md)
 

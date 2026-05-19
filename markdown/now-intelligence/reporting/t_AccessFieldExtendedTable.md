@@ -74,7 +74,7 @@ The video shows how to create a report with data from multiple tables using the 
     The report shows the open incidents and their categories and the open problems with the number of their related incidents.
 
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
 
 ## Related tables in reporting
 

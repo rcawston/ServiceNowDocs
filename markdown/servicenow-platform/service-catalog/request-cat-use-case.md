@@ -68,5 +68,5 @@ The CIs can include:
     Exposes the creator \(Record Producer\) of customer service cases and displays the Record Producer in the relevant self-service catalogs \(for example, Self-service Portal, Mobile, and Virtual Agent\).
 
 
-**Parent Topic:**[Service Catalog and CSDM](../concept/request-cat-use-case-product-view.md)
+**Parent Topic:**[Service Catalog and CSDM](request-cat-use-case-product-view.md)
 

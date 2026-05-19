@@ -21,5 +21,5 @@ These pre-defined keys allow you to generate input variables for workflows that 
 -   **SetRevocationData**: Generates the input variables for the revocation workflow.
 -   **CheckRevocable**: Specifies the conditions that determine if an installation can be revoked. If the software configuration associated with the installed software allows uninstallation, the installed software can be revoked.
 
-**Parent Topic:**[Client software distribution extension framework](../concept/c_CSDExtensionFramework.md)
+**Parent Topic:**[Client software distribution extension framework](c_CSDExtensionFramework.md)
 

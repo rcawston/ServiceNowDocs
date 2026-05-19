@@ -19,7 +19,7 @@ You can view the Threat Lookup Finding Calculator to calculate the observable fi
 
 Role required: sn\_sec\_tisc.admin
 
-To learn more about the Threat Lookup Reputation Calculators, see [Managing the Threat Lookup Reputation Calculator](../concept/manage-threat-lookup-reputation-calculator.md).
+To learn more about the Threat Lookup Reputation Calculators, see [Managing the Threat Lookup Reputation Calculator](manage-threat-lookup-reputation-calculator.md).
 
 ## Procedure
 

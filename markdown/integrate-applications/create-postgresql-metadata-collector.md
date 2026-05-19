@@ -17,7 +17,7 @@ Create a collector to import metadata from PostgreSQL.
 
 Before you begin, verify the following:
 
--   A MID Server is setup for the collectors. For more information, see [MID Server for metadata collectors](../concept/mid-server-for-metadata-collectors-dc.md).
+-   A MID Server is setup for the collectors. For more information, see [MID Server for metadata collectors](mid-server-for-metadata-collectors-dc.md).
 -   All per-requisite tasks are completed. For more information, see [Prepare to run the PostgreSQL collector](prepare-to-run-postgresql-collector.md).
 -   Role required: connection-admin
 
@@ -215,7 +215,7 @@ After creating the collector, you can perform any of the following tasks:
 -   Run the collector manually to harvest metadata immediately. See [Run metadata collectors manually](run_metadata-collectors-manually.md).
 -   Automate metadata collection by scheduling regular collector runs. See [Schedule metadata collector runs](schedule-metadata-collector-runs.md).
 -   Monitor execution status and troubleshoot issues by viewing the runtime logs. See [View runtime logs for collector runs](view-runtime-logs-for-collector-runs.md).
--   Discover and evaluate the harvested data assets in the Data Catalog. See [Governing the Data Catalog](../concept/manage-data-catalog.md).
+-   Discover and evaluate the harvested data assets in the Data Catalog. See [Governing the Data Catalog](manage-data-catalog.md).
 
-**Parent Topic:**[PostgreSQL metadata collector](../concept/postgresql-metadata-collector.md)
+**Parent Topic:**[PostgreSQL metadata collector](postgresql-metadata-collector.md)
 

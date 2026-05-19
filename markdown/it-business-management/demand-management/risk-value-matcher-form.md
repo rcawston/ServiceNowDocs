@@ -85,5 +85,5 @@ Numerical value to indicate the probability. This value is multiplied by the val
  The calculated risk rank and the risk rank color are displayed in the **Risk rank** field of the Risk form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

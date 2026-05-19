@@ -43,5 +43,5 @@ Activate the following Lifecycle Events activities to enable support for the Pre
 -   Account/role setup and notification
 -   Transition pre-hire to employee
 
-**Parent Topic:**[Enable and configure the Pre-hire Experience](../concept/jny-pre-hire-enable-configure.md)
+**Parent Topic:**[Enable and configure the Pre-hire Experience](jny-pre-hire-enable-configure.md)
 

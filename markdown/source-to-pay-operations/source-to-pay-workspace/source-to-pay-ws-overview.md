@@ -19,15 +19,15 @@ The Source-to-Pay Operations \(S2P\) product suite includes the following produc
 
 <table id="table_vcl_vhr_tcc" class="nav-card"><tbody><tr><td>
 
-[Procurement Service Management Workspace![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the Procurement Service Management Workspace](../../sourcing-procurement-operations/concept/procurement-workspace-landing-page.md)
+[Procurement Service Management Workspace![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the Procurement Service Management Workspace](procurement-workspace-landing-page.md)
 
 </td><td>
 
-[Supplier Lifecycle Management Workspace![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Learn about the Supplier Lifecycle Management Workspace](../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
+[Supplier Lifecycle Management Workspace![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Learn about the Supplier Lifecycle Management Workspace](supp-manager-ws-home.md)
 
 </td><td>
 
-[Accounts Payable Operations Workspace![](../../../reuse/icons/brand-icons/bus-work-order.svg)Learn about the Accounts Payable Operations Workspace](../../accounts-payable-operations/concept/acc-pay-workspace-landing-page.md)
+[Accounts Payable Operations Workspace![](../../../reuse/icons/brand-icons/bus-work-order.svg)Learn about the Accounts Payable Operations Workspace](acc-pay-workspace-landing-page.md)
 
 </td></tr></tbody>
 </table>Regardless of whether you have installed the entire Source-to-Pay \(S2P\) product suite or any of the individual products that are part of the S2P suite, you use the Source-to-Pay Workspace to manage and work on all aspects and activities of Source-to-Pay Operations. Access to the landing pages and list views within the Source-to-Pay Workspace is role-based.
@@ -116,14 +116,14 @@ Supplier Administrator: Create, view, update, and delete all the suppliers, case
 sn\_slm.admin
 
 </td></tr></tbody>
-</table>-   **[Explore Source-to-Pay Operations Workspace](../../accounts-payable-operations/concept/exploring-source-to-pay-operations.md)**  
+</table>-   **[Explore Source-to-Pay Operations Workspace](exploring-source-to-pay-operations.md)**  
 Learn about the key features and capabilities of Source-to-Pay Operations.
--   **[Configure Source-to-Pay Workspace](../../accounts-payable-operations/concept/configuring-source-to-pay-ws.md)**  
+-   **[Configure Source-to-Pay Workspace](configuring-source-to-pay-ws.md)**  
 Plan and configure your implementation for Source-to-Pay Workspace.
--   **[Use Source-to-Pay Workspace](../../accounts-payable-operations/concept/using-source-to-pay-ws.md)**  
+-   **[Use Source-to-Pay Workspace](using-source-to-pay-ws.md)**  
 Procurement specialists, sourcing managers, supplier managers, supplier contacts, accounts payable specialists use the Source-to-Pay Workspace to work on various requests, cases, negotiations, accelerate supplier onboarding, minimize supplier risk, validate invoice processing cases, and maximize productivity.
--   **[Source-to-Pay Workspace Reference](../../accounts-payable-operations/reference/source-to-pay-ws-reference.md)**  
+-   **[Source-to-Pay Workspace Reference](source-to-pay-ws-reference.md)**  
 Reference topics provide additional information about articles, lists and forms that you use in Source-to-Pay Workspace.
 
-**Parent Topic:**[Source-to-Pay Operations](../reference/source-to-pay-operations-overview.md)
+**Parent Topic:**[Source-to-Pay Operations](../source-to-pay-operations-overview.md)
 

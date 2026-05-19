@@ -88,5 +88,5 @@ Icon that displays for your navigation tab.
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[Mobile experience for Health and Safety](../concept/hs-health-safety-mobile.md)
+**Parent Topic:**[Mobile experience for Health and Safety](hs-health-safety-mobile.md)
 

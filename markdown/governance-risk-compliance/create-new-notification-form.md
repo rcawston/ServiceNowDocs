@@ -138,5 +138,5 @@ SMS text
 Text message sent through short message service \(SMS\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create emergency notifications](../task/create-emergency-notification-uib-ws.md)
+</table>**Parent Topic:**[Create emergency notifications](create-emergency-notification-uib-ws.md)
 

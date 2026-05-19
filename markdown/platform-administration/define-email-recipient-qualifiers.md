@@ -114,5 +114,5 @@ If you selected Script for the **Type**, enter a script that uses these variable
     The recipient qualifier configuration is added to the Recipient Qualifier \[sys\_recipient\_qualifier\] table and is available for use in an email client configuration.
 
 
-**Parent Topic:**[Email client configurations](../concept/email-client-configuration.md)
+**Parent Topic:**[Email client configurations](email-client-configuration.md)
 

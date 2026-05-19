@@ -53,7 +53,7 @@ Edit using one of the following ways. These actions are applicable for both high
 -   Hierarchy: Double-click an item's field on the grid to make inline edits or select the short description to open the full details page.
  The full details page shows the item's related lists such as Goal Relationships, Milestones, Dependencies, and others.
 
- For field information, see [Planning item form](../../alignment-planner-workspace/reference/planning-item-form.md).
+ For field information, see [Planning item form](planning-item-form.md).
 
 </td></tr><tr><td id="d197343e174">
 

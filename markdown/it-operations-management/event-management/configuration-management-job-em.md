@@ -21,7 +21,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-You can customize the **event-forwarding** job behavior through related system properties. For more information, see [Event forwarding properties](../reference/event-forwarding-properties-em.md).
+You can customize the **event-forwarding** job behavior through related system properties. For more information, see [Event forwarding properties](event-forwarding-properties-em.md).
 
 **Note:** To minimize the performance impact, the scheduled job sends events not older than the latest hour when it ran for the first time after setting up event forwarding.
 

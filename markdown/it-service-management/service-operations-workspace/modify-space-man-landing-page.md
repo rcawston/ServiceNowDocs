@@ -36,5 +36,5 @@ The image on the banner of the header section in the SOW landing page supports c
     **Note:** The image supports custom themes for a more personalized experience.
 
 
-**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](../concept/landing-page-configurations-sow-itsm.md)
+**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](landing-page-configurations-sow-itsm.md)
 

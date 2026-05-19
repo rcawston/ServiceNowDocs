@@ -25,7 +25,7 @@ When you create a custom template, the pre-scan checks to make sure that everyth
 
 **Note:** Creating an AES template using an application that contains a workspace is not supported.
 
-For more information on the template creation process, see [Build a custom template](../concept/build-custom-template.md).
+For more information on the template creation process, see [Build a custom template](build-custom-template.md).
 
 ## Supported metadata
 

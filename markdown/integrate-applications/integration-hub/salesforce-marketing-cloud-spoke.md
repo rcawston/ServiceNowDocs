@@ -93,5 +93,5 @@ Displays the list of Salesforce Marketing Cloud configurations, such as data ext
 
 The Salesforce Marketing Cloud spoke uses a Connection &amp; Credential alias for the connection setup and the user profile that is attached to the SOAP security policies for the credential setup. If you are connecting to multiple Salesforce Marketing Cloud environments, you must use the same credential information in each environment.
 
-For information about setting up the spoke, see [Set up the Salesforce Marketing Cloud spoke](../task/setup-salesforce-marketing-cloud.md#).
+For information about setting up the spoke, see [Set up the Salesforce Marketing Cloud spoke](setup-salesforce-marketing-cloud.md#).
 

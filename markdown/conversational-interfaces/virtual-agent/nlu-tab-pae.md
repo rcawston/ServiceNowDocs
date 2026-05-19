@@ -49,7 +49,7 @@ Clicking anywhere on the NLU Prediction indicator opens the Model Performance pa
 
 See [Activate the NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/activate-nlu-workbench.md) for information on how to use NLU Workbench to improve NLU predictions.
 
--   **[Modify models](../task/modify-model-pae.md)**  
+-   **[Modify models](modify-model-pae.md)**  
 Test and modify the Virtual Agent models so they more accurately predict user intents.
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](use-the-dashboard-overview-pae.md)

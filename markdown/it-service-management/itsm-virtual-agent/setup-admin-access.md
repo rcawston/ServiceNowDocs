@@ -44,5 +44,5 @@ Role required: virtual\_agent\_admin or admin
     To view, duplicate, preview, or publish IT Service Management topics in the Virtual Agent Designer, see [Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md).
 
 
-**Parent Topic:**[Setting up ITSM Virtual Agent](../concept/setting-up-itsm-va.md)
+**Parent Topic:**[Setting up ITSM Virtual Agent](setting-up-itsm-va.md)
 

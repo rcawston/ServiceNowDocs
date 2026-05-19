@@ -124,5 +124,5 @@ chars: 20,731, SQL time: 50 (count: 34), business rule: 0 (count: 0), phase 1
 form length 56,464, largest chunk written: 10,428, request parms size: 40, largest input read: 0
 ```
 
-**Parent Topic:**[Script Debugger user interface](../reference/parts-script-debugger-interface.md)
+**Parent Topic:**[Script Debugger user interface](parts-script-debugger-interface.md)
 

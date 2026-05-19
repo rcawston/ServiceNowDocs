@@ -44,11 +44,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   `https://" + nodeIp + "/irisservices/api/v1/nexus/node/hardware_info`
 -   **Create an alias for the basic authentication credential**
 
-    For more information, see [Create an alias for a basic authentication credential for Cohesity storage system discovery](../task/create-alias-basic-auth-cred-cohesity.md).
+    For more information, see [Create an alias for a basic authentication credential for Cohesity storage system discovery](create-alias-basic-auth-cred-cohesity.md).
 
 -   **Create a serverless discovery schedule**
 
-    For more information, see [Create a serverless schedule for Cohesity storage system discovery](../task/create-serverless-schedule-cohesity.md).
+    For more information, see [Create a serverless schedule for Cohesity storage system discovery](create-serverless-schedule-cohesity.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -132,5 +132,5 @@ Hosted on::Hosts
 Chassis \[cmdb\_ci\_chassis\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+</table>**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

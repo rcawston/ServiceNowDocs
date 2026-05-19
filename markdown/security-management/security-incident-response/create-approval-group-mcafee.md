@@ -19,7 +19,7 @@ Create an approval group for the McAfee ePO for Security Operations integration 
 
 You can't reassign the approval authority to a group, unless an approval group is available in your instance.
 
-**Note:** The approvals option in the [Configure settings](../concept/mcafee-epo-configuring-profile.md) appears only for Isolate Host and Remove Host Isolation capabilities.
+**Note:** The approvals option in the [Configure settings](mcafee-epo-configuring-profile.md) appears only for Isolate Host and Remove Host Isolation capabilities.
 
 Role required: ServiceNow AI Platform® Security incident administrator \(sn\_si.admin\)
 
@@ -57,9 +57,9 @@ Approval requests submitted by the security incident analyst to isolate host mac
     To monitor and process requests submitted by users with the sn\_si.analyst role, each member of the approval group navigates to **My Approvals** tab in the ServiceNow AI Platform.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
 **Previous topic:**[Edit security tags in the ServiceNow AI Platform for the McAfee ePO integration](mcafee-epo-match-tags.md)
 
-**Next topic:**[McAfee ePO integration capability profiles](../concept/mcafee-epo-creating-profiles.md)
+**Next topic:**[McAfee ePO integration capability profiles](mcafee-epo-creating-profiles.md)
 

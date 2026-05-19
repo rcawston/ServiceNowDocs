@@ -317,8 +317,8 @@ In the Formula section, select **Edit** or **+ Add** to edit or add a formula.
 
 -   **[Formulas for column values in Table Builder](formulas-columns-table-builder.md#)**  
 You can use a predefined function and create a formula to calculate the value of a column without writing a script. Use a predefined function or create a nested formula by using the existing predefined functions to calculate the column value type.
--   **[Add a formula to a column in Table Builder](../task/add-formula-column-table-builder.md)**  
+-   **[Add a formula to a column in Table Builder](add-formula-column-table-builder.md)**  
 Use a predefined function or create a formula to calculate a value for a column without writing a script in Table Builder. You can use two or more functions to create a formula according to your requirements.
 
-**Parent Topic:**[Table Builder reference](../concept/fb-reference.md)
+**Parent Topic:**[Table Builder reference](fb-reference.md)
 

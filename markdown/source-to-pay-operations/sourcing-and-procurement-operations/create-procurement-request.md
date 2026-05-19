@@ -55,5 +55,5 @@ Role required: sn\_spend\_psd.requestor
 -   Track the progress of your request by monitoring the request fulfillment with the procurement organization.
 
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](using-pcm.md)
 

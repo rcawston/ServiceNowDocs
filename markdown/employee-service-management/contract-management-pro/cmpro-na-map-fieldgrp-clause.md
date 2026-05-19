@@ -98,7 +98,7 @@ The field groups are mapped to clauses of the clause library. Now Assist uses th
 
 [Map a field to an expected response](cmpro-na-exp-res-mapping.md)
 
-**Parent Topic:**[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+**Parent Topic:**[Configuring contract analysis](cmpro-conf-contract-analysis.md)
 
 **Related topics**  
 

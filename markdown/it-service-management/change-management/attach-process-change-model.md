@@ -34,5 +34,5 @@ You can also evaluate a Change model for a specific Change request using this ev
 |----------|---------|-----------|
 |change\_model.evaluate|Change Request sys\_id|Process that may affect the state of the Change request but doesn't change the Change request record.|
 
-**Parent Topic:**[Create a Change model](../task/create-a-change-model.md)
+**Parent Topic:**[Create a Change model](create-a-change-model.md)
 

@@ -44,14 +44,14 @@ System administrators, network administrators, and security team members have di
     -   Configure load balancer pools and settings.
 -   Your security administrator must determine the encryption types to be assigned to each field.
 
--   **[Edge Encryption system requirements](../reference/r_CloudEdgeSystemRequirements.md)**  
+-   **[Edge Encryption system requirements](r_CloudEdgeSystemRequirements.md)**  
 You can run the Edge Encryption proxy application on servers or virtual machines that run on Microsoft Windows or Linux operating systems. For optimum performance, ensure that your configuration meets these requirements.
 -   **[Sizing your Edge Encryption environment](edge-environment-size.md)**  
 Choosing the number of proxy servers for your environment is an important task. Consider the number of users, redundancy needs, and acceptable latency.
--   **[Calculate the order-preserving and tokenization database size](../task/size-db.md)**  
+-   **[Calculate the order-preserving and tokenization database size](size-db.md)**  
 If using order-preserving encryption or encryption patterns, determine the size of your MySQL database by multiplying the number of potential records by record size.
--   **[Edge Encryption limitations](../reference/edge-encryption-limitations.md)**  
+-   **[Edge Encryption limitations](edge-encryption-limitations.md)**  
 Edge Encryption impacts system functions. Carefully evaluate the impact of encrypting a field.
 
-**Parent Topic:**[Edge Encryption](../reference/edge-encryption.md)
+**Parent Topic:**[Edge Encryption](edge-encryption.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Activate Change Management - Change Schedule, Change Management plu
 
 Several types of components are installed with the Change Management - Change Schedule.
 
-**Parent Topic:**[Activate Change Management - Change Schedule](../task/activate-changemgmt-changeschedule.md)
+**Parent Topic:**[Activate Change Management - Change Schedule](activate-changemgmt-changeschedule.md)
 
 ## Plugins installed with Change Management - Change Schedule
 

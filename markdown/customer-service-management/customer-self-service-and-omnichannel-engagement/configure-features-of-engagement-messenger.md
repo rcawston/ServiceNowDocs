@@ -39,21 +39,21 @@ Use the Features section of the guided configuration to customize the messenger 
 
 4.  Open one of the following features and modify the values:
 
-    -   Greeting: See [Greeting feature configuration](../reference/greeting-feature-configuration-fields.md).
-    -   Knowledge: See [Knowledge feature configuration](../reference/knowledge-feature-configuration-fields.md).
-    -   Search: See [Search feature configuration](../reference/search-feature-configuration-fields.md).
-    -   Case: See [Case management feature configuration](../reference/case-management-feature-configuration-fields.md).
-    -   Catalog: See [Catalog feature configuration](../reference/catalog-feature-configuration.md).
-    -   Field service: See [Field service feature configuration](../reference/field-service-feature-configuration.md).
-    -   Walk-up: See [Walk-up feature configuration](../reference/walk-up-feature-configuration.md).
-    -   Chat with an agent: See [Chat feature configuration form fields](../reference/agent-chat-feature-configuration-fields.md).
+    -   Greeting: See [Greeting feature configuration](../greeting-feature-configuration-fields.md).
+    -   Knowledge: See [Knowledge feature configuration](../knowledge-feature-configuration-fields.md).
+    -   Search: See [Search feature configuration](../search-feature-configuration-fields.md).
+    -   Case: See [Case management feature configuration](../case-management-feature-configuration-fields.md).
+    -   Catalog: See [Catalog feature configuration](../catalog-feature-configuration.md).
+    -   Field service: See [Field service feature configuration](../field-service-feature-configuration.md).
+    -   Walk-up: See [Walk-up feature configuration](../walk-up-feature-configuration.md).
+    -   Chat with an agent: See [Chat feature configuration form fields](../agent-chat-feature-configuration-fields.md).
 
         **Note:**
 
         -   The knowledge article, catalog item, and case links sent by an agent can be opened within Engagement Messenger. You can configure how links should be open in a messenger. For more information, see [Create a smart link preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-smart-link-preference.md).
         -   You can also enable the Now Assist in Virtual Agent in Engagement Messenger by [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md) and then [Display your assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-assistant-portal-channel.md) in Engagement Messenger.
-    -   Configurable Cards: See [Configurable Cards feature configuration](../reference/configurable-card.md).
-    -   Callback: See [Callback feature configuration form](../reference/em-callback.md).
+    -   Configurable Cards: See [Configurable Cards feature configuration](../configurable-card.md).
+    -   Callback: See [Callback feature configuration form](../em-callback.md).
 5.  You can also add a feature in the **Features** section using Configurable Cards.
 
     1.  Select **Add custom feature**.
@@ -62,7 +62,7 @@ Use the Features section of the guided configuration to customize the messenger 
 
     3.  Select **Add**.
 
-    For more information, see [Configurable Cards feature configuration](../reference/configurable-card.md).
+    For more information, see [Configurable Cards feature configuration](../configurable-card.md).
 
 6.  Select **Update**.
 
@@ -77,5 +77,5 @@ Use the Features section of the guided configuration to customize the messenger 
 
 ## What to do next
 
-[Create an identity provider \(IdP\) for Engagement Messenger](../concept/create-identity-providers-for-engagement-messenger.md)
+[Create an identity provider \(IdP\) for Engagement Messenger](create-identity-providers-for-engagement-messenger.md)
 

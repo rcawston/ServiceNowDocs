@@ -37,7 +37,7 @@ Role required: sn\_apm.apm\_user
 
 8.  In the **New architectural artifact** pop-up window, fill in the form fields.
 
-    For field information, see [New architectural artifact form](../../reference/eaw-reference/eaw-new-arct-artfct-form.md).
+    For field information, see [New architectural artifact form](eaw-new-arct-artfct-form.md).
 
 9.  Select **Create**.
 
@@ -50,7 +50,7 @@ Role required: sn\_apm.apm\_user
 
 The newly created architectural artifact is added to the business application.
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

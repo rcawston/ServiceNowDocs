@@ -101,5 +101,5 @@ The state of the Pick Up task changes from Open to Closed Complete.
 
 Complete all required work for the enterprise asset so that you can close the work order.
 
-**Parent Topic:**[Managing work for your enterprise assets](../concept/managing-work-enterprise-assets.md)
+**Parent Topic:**[Managing work for your enterprise assets](managing-work-enterprise-assets.md)
 

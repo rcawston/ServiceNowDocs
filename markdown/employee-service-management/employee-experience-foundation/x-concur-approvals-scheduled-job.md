@@ -68,5 +68,5 @@ You can navigate to **All** &gt; **Employee Center** &gt; **SAP Concur Spoke** &
 
 Proceed to To-dos Configuration and use the default **Approval \| SAP Concur** task configuration.
 
-**Parent Topic:**[Approvals hub integration with SAP Concur](../concept/x-concur-sa-integration.md)
+**Parent Topic:**[Approvals hub integration with SAP Concur](x-concur-sa-integration.md)
 

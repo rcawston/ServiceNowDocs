@@ -134,7 +134,7 @@ Business Application records define a restricted set of Life Cycle Stage values 
 
 In contrast, in sys\_choice inheritance definitions in child tables override the values in parent tables.
 
-**Parent Topic:**[CSDM reference](../../csdm-implementation/concept/csdm-content-frame-reference.md)
+**Parent Topic:**[CSDM reference](csdm-content-frame-reference.md)
 
 **Related topics**  
 

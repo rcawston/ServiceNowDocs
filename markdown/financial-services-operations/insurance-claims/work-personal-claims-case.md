@@ -174,7 +174,7 @@ Depending on the current stage of the case:
 **Related topics**  
 
 
-[Generate and view a claim's fraud score](../../fso-commercial-lines-claims/task/view-claim-fraud-score.md)
+[Generate and view a claim's fraud score](view-claim-fraud-score.md)
 
-[View a claim's summary](../../fso-commercial-lines-claims/concept/view-claim-summary.md)
+[View a claim's summary](view-claim-summary.md)
 

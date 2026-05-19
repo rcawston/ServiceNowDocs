@@ -63,7 +63,7 @@ There could be a lot of apps listed on the Creator Studio home page. Here’s ho
     -   **Your apps**: Displays only the apps that you created. \(You own the apps that you create.\)
     -   **Shared with you**: Displays only the apps you didn’t create, but the owner said you could work on.
 
-        For more information about working collaboratively on an app, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md).
+        For more information about working collaboratively on an app, see [Delegated development and deployment](../delegated-development-and-deployment/c_DelegatedDevelopment.md).
 
 5.  Sort the list of displayed apps by selecting the drop-down sorting menu and then selecting one of the following options:
 
@@ -78,7 +78,7 @@ There could be a lot of apps listed on the Creator Studio home page. Here’s ho
     -   **Open in new tab**: Open the app in a different browser tab.
     -   **Open in ServiceNow Studio**: Open the app in ServiceNow Studio to make more advanced edits.
 
-        **Note:** You must have access to ServiceNow Studio for this option to appear. For more information on ServiceNow Studio, see [Using ServiceNow Studio](../../servicenow-studio/concept/using-servicenow-studio.md).
+        **Note:** You must have access to ServiceNow Studio for this option to appear. For more information on ServiceNow Studio, see [Using ServiceNow Studio](../servicenow-studio-classic/using-servicenow-studio.md).
 
     -   **Manage collaborators**: If you’re the app owner, you can invite others to work on the app with you. For more information, see [Manage collaborators for an app in Creator Studio](creator-studio-manage-collaborators.md).
     -   **Copy link**: Send collaborators a link to the app so they can find it.
@@ -92,5 +92,5 @@ There could be a lot of apps listed on the Creator Studio home page. Here’s ho
 
 **Congrats:** Congratulations! You’ve found and opened an app or performed an action on it. Next, we’ll see how to work on it.
 
-**Parent Topic:**[Building apps with Creator Studio](../concept/building-apps-with-creator-studio.md)
+**Parent Topic:**[Building apps with Creator Studio](building-apps-with-creator-studio.md)
 

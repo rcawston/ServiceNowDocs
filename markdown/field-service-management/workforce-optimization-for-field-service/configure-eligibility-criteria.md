@@ -27,7 +27,7 @@ Ensure that the Field Service Marketplace plugin is active. For more information
 
 Field Service Marketplace comes with the **Marketplace tasks** filter, which determines if work order tasks are eligible for marketplace. This task filter is shipped as demo data with the Field Service Marketplace plugin.
 
-For more information on task filters, see [Create a task filter for dynamic scheduling](create-dynamic-scheduling-config.md#).
+For more information on task filters, see [Create a task filter for dynamic scheduling](../field-service-scheduling/create-dynamic-scheduling-config.md#).
 
 ## Procedure
 

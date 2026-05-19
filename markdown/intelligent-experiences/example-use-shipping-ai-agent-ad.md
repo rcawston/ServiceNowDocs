@@ -37,7 +37,7 @@ Confirm that the following system requirements are met:
 
 **Note:** Screen resolution and scaling must be the same between the systems used for recording and execution of desktop actions that are created prior to AI Desktop Actions v1.0.1.
 
-Familiarize yourself with the AI Desktop Actions Execution workspace. For more information, see [AI Desktop Actions Execution workspace](../concept/agentic-desktop-excution-workspace.md).
+Familiarize yourself with the AI Desktop Actions Execution workspace. For more information, see [AI Desktop Actions Execution workspace](agentic-desktop-excution-workspace.md).
 
 Role required: now\_assist\_panel\_user
 
@@ -101,7 +101,7 @@ The AI agent shows the steps as it executes them in the panel.The outcome of exe
 
 Once the plan is received, the AI agent starts executing the automation in the Execution workspace. **Note:** If any pop up is blocking the automation from running, step in to clear the pop up so that AI agent can proceed with the execution.
 
-The AI agent performs the tasks same as a human would. The Execution workspace shows the status of the execution. For more information, see [Execution statuses](../concept/agentic-desktop-excution-workspace.md#ad-execution-status).
+The AI agent performs the tasks same as a human would. The Execution workspace shows the status of the execution. For more information, see [Execution statuses](agentic-desktop-excution-workspace.md#ad-execution-status).
 
 </td></tr></tbody>
 </table>5.  Interact with the automation when your inputs are required.
@@ -144,5 +144,5 @@ If the desktop session isn't sized correctly and mouse actions aren't working as
 
 `Ctrl + Shift + D`: Resize to actual desktop view.
 
-**Parent Topic:**[Examples of executing desktop actions using AI agents](../concept/use-agentic-desktop.md)
+**Parent Topic:**[Examples of executing desktop actions using AI agents](use-agentic-desktop.md)
 

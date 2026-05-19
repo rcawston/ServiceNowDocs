@@ -86,5 +86,5 @@ Date until which the capacity definition and reservations should applied.
 **Related topics**  
 
 
-[Configuring Field Service Capacity and Reservations Management](../concept/configuring-capacity-management.md)
+[Configuring Field Service Capacity and Reservations Management](../workforce-optimization-for-field-service/configuring-capacity-management.md)
 

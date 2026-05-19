@@ -29,7 +29,7 @@ The following items are installed with Commercial Lines Servicing.
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Commercial Lines Servicing](../reference/components-installed-with-insurance-policy-operations-business-lines-servicing.md).
+For more information, see [Components installed with Commercial Lines Servicing](components-installed-with-insurance-policy-operations-business-lines-servicing.md).
 
 ## Procedure
 
@@ -52,5 +52,5 @@ For more information, see [Components installed with Commercial Lines Servicing]
 5.  Select **Install**.
 
 
-**Parent Topic:**[Commercial Lines Servicing](../concept/fso-ins-commercial-policy-ops-landing-page.md)
+**Parent Topic:**[Commercial Lines Servicing](fso-ins-commercial-policy-ops-landing-page.md)
 

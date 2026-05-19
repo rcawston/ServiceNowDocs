@@ -172,5 +172,5 @@ Advanced Condition Script
 Configuration for Advanced Condition Script. This field appears if the **Advanced** option is selected. Enter a script to filter feeds based on a criteria, for example, active alerts.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure alert rules](../task/conf-alert-rule-uib-ws.md)
+</table>**Parent Topic:**[Configure alert rules](conf-alert-rule-uib-ws.md)
 

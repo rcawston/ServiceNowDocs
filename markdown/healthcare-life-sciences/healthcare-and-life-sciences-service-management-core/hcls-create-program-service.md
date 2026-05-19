@@ -109,7 +109,7 @@ Summary of the program service.
 7.  [Publish the program service](hcls-create-program-service.md#).
 
 
-**Parent Topic:**[Configure programs and program services for Healthcare and Life Sciences workflows](../concept/hcls-program-setup.md)
+**Parent Topic:**[Configure programs and program services for Healthcare and Life Sciences workflows](hcls-program-setup.md)
 
 ## Configure a specification characteristic for a program service
 

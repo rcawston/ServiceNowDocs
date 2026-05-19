@@ -17,7 +17,7 @@ Use the widget authoring shortcuts to create and edit rich, banner, styled, and 
 
 ## Before you begin
 
-Role required: sn\_cd.content\_manager and editing permission for this topic or page. For more information on ownership permissions, see [Content Ownership](../concept/ecpro-content-restriction.md)
+Role required: sn\_cd.content\_manager and editing permission for this topic or page. For more information on ownership permissions, see [Content Ownership](ecpro-content-restriction.md)
 
 ## About this task
 
@@ -30,7 +30,7 @@ The following widgets offer authoring shortcuts:
     **Note:** On the topic page, selecting any heading—including quick link headings—allows you to access **Instance options**. Within the instance window, you can modify the current heading levels. Once changes are made, select **Save** to apply the changes; the updated heading level will be reflected on the topic page, enhancing overall visibility.
 
 
-For more information on which widgets support which content type, see [Publishing content](../concept/ec-content-publishing-schedule.md).
+For more information on which widgets support which content type, see [Publishing content](ec-content-publishing-schedule.md).
 
 ![Enable the Author view toggle to create and edit content from widgets](../images/edit-content-widget.png)
 

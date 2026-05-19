@@ -28,18 +28,18 @@ A category can have one or more assigned users, and the same user can be assigne
     ![Quiz category users](../images/Quiz_Category_Users.png)
 
 
-**Parent Topic:**[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+**Parent Topic:**[Create quizzes with forms](c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
-[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+[Create quizzes with forms](c_CreateQuizzesWithForms.md)
 
 [Create a quiz](t_CreateaQuiz.md)
 
 [Set up a category](t_SetUpACategory.md)
 
-[Data types for quizzes](../reference/r_AvailableDataTypes.md)
+[Data types for quizzes](r_AvailableDataTypes.md)
 
 [Change the order of an answer](t_ChangeTheOrderOfAnAnswer.md)
 

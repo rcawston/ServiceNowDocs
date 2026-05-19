@@ -21,7 +21,7 @@ Use the ITSM change management agentic workflows to manage and complete tasks au
 To access the change request agentic workflows, make sure that you install the following applications:
 
 1.  Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
-2.  Change Management application. For more information, see [Configuring Change Management](../../change-management/concept/configure-change-management.md).
+2.  Change Management application. For more information, see [Configuring Change Management](../change-management/configure-change-management.md).
 
 **Note:**
 

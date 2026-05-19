@@ -35,9 +35,9 @@ You can configure the Employee Profile header fields to be displayed for all emp
 
 2.  On the Employee Profile Header Configuration form, fill in the fields.
 
-    For a description of the field values, see [Employee Profile Header Configuration form](../reference/profile-header-config-form.md).
+    For a description of the field values, see [Employee Profile Header Configuration form](profile-header-config-form.md).
 
-    **Note:** For information about the field values of the default profile header record, see [Default Employee Profile Header Configuration record](../reference/default-profile-header.md).
+    **Note:** For information about the field values of the default profile header record, see [Default Employee Profile Header Configuration record](default-profile-header.md).
 
 3.  Select **Update**.
 

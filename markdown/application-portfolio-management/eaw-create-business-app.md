@@ -37,16 +37,16 @@ If you have an Enterprise Architecture user role \(sn\_apm.apm\_user\), use the 
 
     -   To add a business application, select **New**.
     -   To update the details of an existing business application, select the record and then select **Edit**.
-    **Note:** You can also generate insights into a business application using Now Assist, by selecting the **Generate Insights** button available in the **Insights** tab on the side panel. For more details, see [Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md).
+    **Note:** You can also generate insights into a business application using Now Assist, by selecting the **Generate Insights** button available in the **Insights** tab on the side panel. For more details, see [Generate insights into business applications](generate-insights-into-ba.md).
 
 6.  On the form, fill in the fields.
 
-    For field information, see [Business application form](../../reference/eaw-reference/eaw-business-application-form.md).
+    For field information, see [Business application form](eaw-business-application-form.md).
 
 7.  Select **Save** or **Update**.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

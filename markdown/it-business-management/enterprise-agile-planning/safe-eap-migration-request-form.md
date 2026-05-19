@@ -102,7 +102,7 @@ Status of the migration request.
 **Related topics**  
 
 
-[Start migration of SAFe data to EAP](../task/migrate-safe-data-to-eap.md)
+[Start migration of SAFe data to EAP](migrate-safe-data-to-eap.md)
 
-[Migrating from SAFe to EAP](../concept/migrating-from-safe-to-eap.md)
+[Migrating from SAFe to EAP](migrating-from-safe-to-eap.md)
 

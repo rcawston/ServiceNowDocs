@@ -42,7 +42,7 @@ Threat feeds provide a situational awareness of potential or current threats to 
 
 3.  On the form, fill in the fields.
 
-    For more information on the Scheduled Data Imports form, see [Scheduled Data Imports form](../reference/scheduled-data-imports-form.md).
+    For more information on the Scheduled Data Imports form, see [Scheduled Data Imports form](scheduled-data-imports-form.md).
 
 4.  Select **Submit**.
 
@@ -67,8 +67,8 @@ Threat feeds provide a situational awareness of potential or current threats to 
 
 The data import record is displayed in the **Scheduled Data Imports** record page.
 
--   **[Scheduled Data Imports form](../reference/scheduled-data-imports-form.md)**  
+-   **[Scheduled Data Imports form](scheduled-data-imports-form.md)**  
 Use the Scheduled Data Imports form in the BCM Configurable Workspace to add details about a Scheduled data imports record.
 
-**Parent Topic:**[Setup for Crisis map](../concept/crisis-map-admin-tasks.md)
+**Parent Topic:**[Setup for Crisis map](crisis-map-admin-tasks.md)
 

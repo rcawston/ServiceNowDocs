@@ -37,7 +37,7 @@ The Trainee Dashboard lets you manage your assessments and track results.
 |My Survey Results|Survey feedback results of the coach to the trainee.|
 |My Assessment Details|List of active coaching assessments and trainings.|
 
--   **[Work with your coach](../task/cf-work-with-your-coach.md)**  
+-   **[Work with your coach](cf-work-with-your-coach.md)**  
 Use your assessments to work with your coach, including assigned training and due dates. You can view your assessments and track your results using the Trainee Dashboard.
 
 **Parent Topic:**[Training agents using Coaching with Learning](cf-train-your-agents.md)

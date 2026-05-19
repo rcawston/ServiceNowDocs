@@ -19,14 +19,14 @@ Old experience - Inbound integrations.
 
 You can perform the OAuth inbound configuration, depending on the following type of grant type:
 
--   [OAuth authorization code grant flow](../../../administer/security/concept/c_OAuthAuthorizationCodeFlow.md)
+-   [OAuth authorization code grant flow](c_OAuthAuthorizationCodeFlow.md)
 
     **Note:** For authorization code flow, user needs to complete the Authentication by local login, SSO or MFA and then provide consent.
 
--   [Password grant](../../../administer/security/task/t_AuthorizeAccessEndpiont.md)
--   [JWT bearer grant flow](../../../administer/security/task/create-jwt-endpoint.md)
--   [ID token flow](../../../administer/security/task/add-OIDC-entity.md)
--   [OAuth implicit grants](../../../administer/security/concept/c_OAuthImplicitGrants.md)
+-   [Password grant](t_AuthorizeAccessEndpiont.md)
+-   [JWT bearer grant flow](create-jwt-endpoint.md)
+-   [ID token flow](add-OIDC-entity.md)
+-   [OAuth implicit grants](c_OAuthImplicitGrants.md)
 -   [Client Credentials](client-credentials.md)
 
 Configure OAuth integration that includes the following enhancements from Zurich release:

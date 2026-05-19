@@ -31,7 +31,7 @@ Admins must install the ITSM Process Mining Content Pack from the ServiceNow® S
 The Digital Portfolio Management \(DPM\) persona is a solution owner — That is one that owns services, service offerings, business applications, or service instances.
 -   **[Digital Portfolio Management views](dpm-views.md)**  
 The Digital Portfolio Management \(DPM\) workspace pulls in data from various ServiceNow applications. The views show where the data is coming from.
--   **[Domain separation and Digital Portfolio Management](../concept/dpm-domain-separation.md)**  
+-   **[Domain separation and Digital Portfolio Management](dpm-domain-separation.md)**  
 Domain separation is supported in Digital Portfolio Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Parent Topic:**[Digital Portfolio Management](dpm-landing.md)

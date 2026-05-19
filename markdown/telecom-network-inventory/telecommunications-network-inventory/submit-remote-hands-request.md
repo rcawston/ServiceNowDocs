@@ -41,10 +41,10 @@ The Remote Hand Request form enables your customers to request services for equi
 
 5.  On the Remote Hands Request form, fill in the fields.
 
-    To learn about the fields in the Remote Hands Request form, see [Remote Hands Request form](../reference/remote-hands-request-form.md)
+    To learn about the fields in the Remote Hands Request form, see [Remote Hands Request form](remote-hands-request-form.md)
 
 6.  Select **Submit**
 
 
-**Parent Topic:**[Remote Hands Request](../concept/remote-hands-request.md)
+**Parent Topic:**[Remote Hands Request](remote-hands-request.md)
 

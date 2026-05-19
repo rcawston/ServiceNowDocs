@@ -17,15 +17,15 @@ As a workplace manager or administrator, use the Workplace Analytics dashboard t
 
 Ensure that you have the required set of permissions to view the dashboards.
 
--   **[View Space Optimization metrics](../task/view-space-opt-analytics.md)**  
+-   **[View Space Optimization metrics](view-space-opt-analytics.md)**  
 Use the Space Optimization dashboard Workplace Analytics to analyze space capacity and utilization trends to achieve optimal use of workspaces.
--   **[View Occupancy Dashboard](../../workplace-connectors/task/view-badging-tables.md)**  
+-   **[View Occupancy Dashboard](view-badging-tables.md)**  
 Workplace administrators and managers can view the workspace occupancy metrics to plan and optimize the workplace space utilization.
--   **[View Lease Administration metrics](../task/view-lease-admin-analytics.md)**  
+-   **[View Lease Administration metrics](view-lease-admin-analytics.md)**  
 Use the Lease Administration dashboard to get insight into the number of total contracts, active contracts, draft contracts, and expiring contracts.
--   **[View Maintenance Management metrics](../task/view-maintenence-mgmt-analytics.md)**  
+-   **[View Maintenance Management metrics](view-maintenence-mgmt-analytics.md)**  
 Use the Maintenance Management dashboard to get an insight into maintenance cases, their trends, and maintenance plan compliance. These insights enable you to create an efficient maintenance plan to improve workflows and reduce maintenance activities and their related costs.
--   **[Manage Workplace Dashboards](../task/workplace-dashboards-wsd-central.md)**  
+-   **[Manage Workplace Dashboards](workplace-dashboards-wsd-central.md)**  
 Manage Workplace Dashboards in Workplace Central to get insights and metrics of Reservations, Visitors, Workplace Manager activities, Workplace Cases, and Synchronizations.
 
 **Parent Topic:**[Use Workplace Central](use-workplace-central.md)

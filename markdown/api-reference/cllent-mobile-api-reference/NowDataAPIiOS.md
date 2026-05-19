@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The NowData framework contains methods that enable the instantiation of NowData services, such as NowGraphQLService, NowTableService, NowAPIService \(for custom APIs\), andNowAttachmentService.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowData - makeApiService\(instanceUrl: URL, path: String, completion: @escaping \(\(Result&lt;NowApiService, NowServiceError&gt;\) -&gt; Void\)\)
 
@@ -63,7 +63,7 @@ completion
 
 </td><td>
 
-@escaping \(\(Result​&lt;[NowApiService](../../NowAPIService/concept/NowAPIServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)
+@escaping \(\(Result​&lt;[NowApiService](NowAPIServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)
 
 </td><td>
 
@@ -101,7 +101,7 @@ Creates an instance of NowAttachmentService, and after completion, calls the spe
 |Name|Type|Description|
 |----|----|-----------|
 |instanceUrl|URL|URL of the ServiceNow instance whose attachments are to be accessed by the service.|
-|completion|@escaping \(\(Result​&lt;[NowAttachmentService](../../NowAttachmentService/concept/NowAttachmentServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called with a `Result<NowAttachmentService, NowServiceError>` containing either an initialized `NowAttachmentService` instance or a `NowServiceError` indicating why the initialization failed.|
+|completion|@escaping \(\(Result​&lt;[NowAttachmentService](NowAttachmentServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called with a `Result<NowAttachmentService, NowServiceError>` containing either an initialized `NowAttachmentService` instance or a `NowServiceError` indicating why the initialization failed.|
 
 |Type|Description|
 |----|-----------|
@@ -151,7 +151,7 @@ Creates an instance of NowGraphQLService, and once complete, calls the specified
 |Name|Type|Description|
 |----|----|-----------|
 |instanceUrl|URL|URL of the ServiceNow instance providing GraphQL services.|
-|completion|@escaping \(\(Result​&lt;[NowGraphQLService](../../NowGraphQLService/concept/NowGraphQLServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called with a `Result<NowGraphQLService, NowServiceError>` containing either an initialized `NowGraphQLService` instance or a `NowServiceError` indicating why the initialization failed.|
+|completion|@escaping \(\(Result​&lt;[NowGraphQLService](NowGraphQLServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called with a `Result<NowGraphQLService, NowServiceError>` containing either an initialized `NowGraphQLService` instance or a `NowServiceError` indicating why the initialization failed.|
 
 |Type|Description|
 |----|-----------|
@@ -178,7 +178,7 @@ Creates an instance of NowTableService, and after it completes, calls the specif
 |Name|Type|Description|
 |----|----|-----------|
 |instanceUrl|URL|URL of the ServiceNow instance whose tables are to be accessed by the service.|
-|completion|@escaping \(\(Result​&lt;[NowTableService](../../NowTableService/concept/NowTableServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called with a `Result<NowTableService, NowServiceError>` containing either an initialized `NowTableService` instance or a `NowServiceError` indicating why the initialization failed.|
+|completion|@escaping \(\(Result​&lt;[NowTableService](NowTableServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called with a `Result<NowTableService, NowServiceError>` containing either an initialized `NowTableService` instance or a `NowServiceError` indicating why the initialization failed.|
 
 |Type|Description|
 |----|-----------|

@@ -29,7 +29,7 @@ The Alumni Center portal provides the following benefits to the alumni and organ
 
 ## Content analytics
 
-The Alumni Center provides a separate content analytics tracking profile. For more information, see [Create a Content Analytics tracking profile](../../employee-center/task/ecpro-content-analytics-setup.md).
+The Alumni Center provides a separate content analytics tracking profile. For more information, see [Create a Content Analytics tracking profile](../employee-experience-foundation/ecpro-content-analytics-setup.md).
 
 ## Employee to alumni transition
 

@@ -32,7 +32,7 @@ The dashboard is updated whenever a new reconciliation result is available. You 
 
 You can manage Adobe subscription information with Adobe I/O authentication integration.
 
-**Note:** The add-on Adobe publisher pack \(com.sn\_samp\_adobe\) [plugin](../task/t_RequSoftwareAssetMgmt.md) must be installed to view Adobe subscription reporting.
+**Note:** The add-on Adobe publisher pack \(com.sn\_samp\_adobe\) [plugin](t_RequSoftwareAssetMgmt.md) must be installed to view Adobe subscription reporting.
 
 Only Adobe software products that are recognized as subscription software are shown. [Adobe integration](adobe-cloud-integration.md) must be set up to view compliance information.
 

@@ -189,5 +189,5 @@ Option to enable searching as a different user. The message box describes the se
     **Note:** Search results only appear for Search Fields that are visible on the form.
 
 
-**Parent Topic:**[Configuring contextual search](../concept/configuring-contextual-search.md)
+**Parent Topic:**[Configuring contextual search](configuring-contextual-search.md)
 

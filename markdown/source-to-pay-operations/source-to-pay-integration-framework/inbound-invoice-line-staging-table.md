@@ -368,22 +368,22 @@ String
 The unit or rate in which this product is sold by the supplier.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Inbound staging tables for Accounts Payable Operations](../../accounts-payable-operations/concept/inbound-staging-tables-for-apo.md)
+</table>**Parent Topic:**[Inbound staging tables for Accounts Payable Operations](inbound-staging-tables-for-apo.md)
 
 **Related topics**  
 
 
 [Invoice import inbound staging table](inbound-invoice-import-staging-table.md)
 
-[Import error staging table](../../accounts-payable-operations/reference/import-error-staging-table.md)
+[Import error staging table](import-error-staging-table.md)
 
-[Invoice payment detail import inbound table](../../accounts-payable-operations/reference/invoice-payment-detail-staging-table.md)
+[Invoice payment detail import inbound table](invoice-payment-detail-staging-table.md)
 
 [Organization tax details inbound staging table](slo-org-tax-details-inbound-table.md)
 
-[Invoice tax line staging table](../../source-to-pay-operations/reference/inbound-invoice-tax-line-staging-table-apo.md)
+[Invoice tax line staging table](inbound-invoice-tax-line-staging-table-apo.md)
 
-[Invoice staging table](../../accounts-payable-operations/reference/invoice-staging-table.md)
+[Invoice staging table](invoice-staging-table.md)
 
-[Invoice line stage table](../../accounts-payable-operations/reference/invoice-line-staging-table.md)
+[Invoice line stage table](invoice-line-staging-table.md)
 

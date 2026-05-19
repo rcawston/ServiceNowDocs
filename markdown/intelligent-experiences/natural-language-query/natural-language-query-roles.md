@@ -33,13 +33,13 @@ The administrator for Natural Language Query.
 Has full access to the following modules:
 
 -   NLQ Cmdb Implicit Relationships. For more information see [Intelligent Search for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/intelligent-search-cmdb.md).
--   [NLQ Query Logs](../task/view-nlq-logs.md)
--   [NLQ Semantic Shortcuts](../task/create-nlq-shortcut.md).
--   [NLQ Synonyms](../task/create-nlq-synonym.md).
+-   [NLQ Query Logs](view-nlq-logs.md)
+-   [NLQ Semantic Shortcuts](create-nlq-shortcut.md).
+-   [NLQ Synonyms](create-nlq-synonym.md).
 
 Has read-only access to the following module:
 
-[NLQ Table Guesser Query Logs](../task/view-nlq-table-guesser-logs.md).
+[NLQ Table Guesser Query Logs](view-nlq-table-guesser-logs.md).
 
 ### Contains Roles
 

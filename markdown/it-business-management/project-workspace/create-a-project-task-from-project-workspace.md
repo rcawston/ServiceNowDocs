@@ -45,7 +45,7 @@ Role required: it\_project\_manager
 
     For notifications to work, your admin must enable them by setting the **Project task assigned to** notification record as **true** in Email Notifications and Provider Notifications.
 
-    Team members can access project tasks assigned to them from Collaborative Work Management workspace. For more information, see [Managing SPM work in Collaborative Work Management](../../collab-work-mgmt/concept/cwm-team-member-roles.md).
+    Team members can access project tasks assigned to them from Collaborative Work Management workspace. For more information, see [Managing SPM work in Collaborative Work Management](../collaborative-work-management/cwm-team-member-roles.md).
 
 
 ## What to do next
@@ -56,5 +56,5 @@ Role required: it\_project\_manager
 -   **[Update a project task from the Project Workspace](update-project-task-from-project-workspace.md)**  
 Update the details of existing tasks from the planning page of the Project Workspace.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

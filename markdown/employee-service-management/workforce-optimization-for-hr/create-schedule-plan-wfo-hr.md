@@ -57,5 +57,5 @@ You can set the number of days to cache agent schedules using the **sn\_shift\_p
     **Note:** It may take a few minutes for the screen to refresh.
 
 
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
 

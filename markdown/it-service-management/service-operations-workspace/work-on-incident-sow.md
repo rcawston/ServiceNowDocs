@@ -161,7 +161,7 @@ Select the **More actions** icon \(![more actions icon](../../itsm-workspace/ima
 
 </td><td>
 
-From the contextual side panel, select the **Recommendations** icon \(![recommendations icon](../image/recommendation-icon.png)\). See [Recommendation Framework in Service Operations Workspace](../concept/recommendation-framework-sow.md).
+From the contextual side panel, select the **Recommendations** icon \(![recommendations icon](../image/recommendation-icon.png)\). See [Recommendation Framework in Service Operations Workspace](recommendation-framework-sow.md).
 
 </td></tr><tr><td id="d74516e404">
 
@@ -186,7 +186,7 @@ If the logged-in user is a member of multiple assignment groups, the following s
 
     -   If the user is a member of that assignment group, the **Assigned to** field retains the logged-in user.
     -   If the user is not a member of that assignment group, the **Assigned to** field becomes empty.
-For more information, see [Viewing incident record information using the Contextual side panel](../concept/view-inc-record-info-contextual-sidepanel.md).
+For more information, see [Viewing incident record information using the Contextual side panel](view-inc-record-info-contextual-sidepanel.md).
 
 </td></tr><tr><td id="d74516e495">
 
@@ -204,7 +204,7 @@ For more information, see [Viewing incident record information using the Context
 
 </td><td>
 
-From the contextual side panel, select the **Experts on-call** icon \(![experts on-call icon](../image/experts-on-call.png)\). See [On-call support for an incident in Service Operations Workspace](../concept/on-call-sow.md#).
+From the contextual side panel, select the **Experts on-call** icon \(![experts on-call icon](../image/experts-on-call.png)\). See [On-call support for an incident in Service Operations Workspace](on-call-sow.md#).
 
 </td></tr><tr><td id="d74516e547">
 
@@ -212,7 +212,7 @@ From the contextual side panel, select the **Experts on-call** icon \(![experts 
 
 </td><td>
 
-From the contextual side panel, select the **On-call escalations** icon ![on-call escalations icon](../image/on-call-escalation.png)\). See [On-call support for an incident in Service Operations Workspace](../concept/on-call-sow.md#).
+From the contextual side panel, select the **On-call escalations** icon ![on-call escalations icon](../image/on-call-escalation.png)\). See [On-call support for an incident in Service Operations Workspace](on-call-sow.md#).
 
 </td></tr><tr><td id="d74516e572">
 
@@ -220,7 +220,7 @@ From the contextual side panel, select the **On-call escalations** icon ![on-cal
 
 </td><td>
 
-From the contextual side panel, select the **Collaborate** icon \(![collaborate icon](../image/collaborate-sidebar.png)\). See [ServiceNow integrations with Microsoft Teams in Service Operations Workspace](../concept/msteams-sow.md).
+From the contextual side panel, select the **Collaborate** icon \(![collaborate icon](../image/collaborate-sidebar.png)\). See [ServiceNow integrations with Microsoft Teams in Service Operations Workspace](msteams-sow.md).
 
 </td></tr><tr><td id="d74516e609">
 
@@ -252,7 +252,7 @@ From the contextual side panel, select the **Templates** icon \(![templates icon
 
 </td><td>
 
-From the contextual side panel, select the **Playbook** icon \(![Playbook icon](../image/playbook_icon.png)\) to open the playbook and execute the remedial actions on a separate panel. For more information, see [Remedial actions using Playbook](../concept/remedial-actions-playbook.md).
+From the contextual side panel, select the **Playbook** icon \(![Playbook icon](../image/playbook_icon.png)\) to open the playbook and execute the remedial actions on a separate panel. For more information, see [Remedial actions using Playbook](remedial-actions-playbook.md).
 
 </td></tr><tr><td id="d74516e699">
 
@@ -264,7 +264,7 @@ From the contextual side panel, select the **Response template** icon \(![Respon
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace](incident-sow.md)
 
 **Related topics**  
 
@@ -273,15 +273,15 @@ From the contextual side panel, select the **Response template** icon \(![Respon
 
 [View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md)
 
-[Viewing incident record information using the Contextual side panel](../concept/view-inc-record-info-contextual-sidepanel.md)
+[Viewing incident record information using the Contextual side panel](view-inc-record-info-contextual-sidepanel.md)
 
 [Work on an incident list page in Service Operations Workspace](work-incident-list-page-sow.md)
 
-[Remedial actions using Playbook](../concept/remedial-actions-playbook.md)
+[Remedial actions using Playbook](remedial-actions-playbook.md)
 
 [Close resolved incident](close-resolved-incident-sow.md)
 
 [Reopen an incident in Service Operations Workspace](reopen-incident-sow.md)
 
-[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+[Incident Management in Service Operations Workspace reference](sow-im-reference.md)
 

@@ -21,7 +21,7 @@ Expand a publisher in the left menu bar to see their products. Select a publishe
 
 Sharing the dashboard's URL displays your currently selected publisher, product, and date range. To view the applied filters, the URL recipients must already be logged in to their ServiceNow instance.
 
-**Note:** Transactions that aren't labeled with a software publisher aren't included in the dashboard. You can manually update these transactions with a publisher to add them to the dashboard. For more information, see [Manually update transactions](../task/manually-update-transactions.md).
+**Note:** Transactions that aren't labeled with a software publisher aren't included in the dashboard. You can manually update these transactions with a publisher to add them to the dashboard. For more information, see [Manually update transactions](manually-update-transactions.md).
 
 ![Software Spend Detection dashboard for all publishers and their spend data](../image/spend-detection-dashboard.png)
 

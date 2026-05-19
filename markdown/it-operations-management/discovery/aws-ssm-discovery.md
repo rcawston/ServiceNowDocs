@@ -43,7 +43,7 @@ Confirm that you have the required versions of the following applications and pl
 -   CMDB CI Class Models version 1.74.0 or later.
 -   Discovery and Service Mapping Patterns version 1.27.0 or later.
 
-Install the MID Server. For more information, see [Install and configure the MID Servers](../../it-operations-management/task/mid-server-configuration-cloud.md).
+Install the MID Server. For more information, see [Install and configure the MID Servers](../mid-server-configuration-cloud.md).
 
 Verify that you have an AWS user account with administrative access.
 
@@ -100,7 +100,7 @@ For more information on AWS Management Console configuration, see the [Amazon SS
 
 -   **Define root and non-root credentials**
 
-    The MID Server property **mid.discovery.aws\_ssm.linux.fallback\_root\_user** enables EC2 instances to default to the root user. By default, this setting is **false**, but if you don’t want to set up alternate user credentials, you can enable it to run commands as root. If you leave this setting turned off, you must create a credential record in the AWS SSM Instance Users \[aws\_ssm\_instance\_user\_credentials\] table, where you simply provide the user name that should be used to run commands on the instance. For more information, [Enable root fallback](../task/enable-root-fallback.md) and [Configure custom user credentials](../task/configure-custom-user-credentials.md).
+    The MID Server property **mid.discovery.aws\_ssm.linux.fallback\_root\_user** enables EC2 instances to default to the root user. By default, this setting is **false**, but if you don’t want to set up alternate user credentials, you can enable it to run commands as root. If you leave this setting turned off, you must create a credential record in the AWS SSM Instance Users \[aws\_ssm\_instance\_user\_credentials\] table, where you simply provide the user name that should be used to run commands on the instance. For more information, [Enable root fallback](enable-root-fallback.md) and [Configure custom user credentials](configure-custom-user-credentials.md).
 
 -   **Configure MID Server properties**
 
@@ -110,7 +110,7 @@ For more information on AWS Management Console configuration, see the [Amazon SS
     -   **mid.discovery.aws\_ssm.kms\_key\_region**
     -   **mid.discovery.aws\_ssm.s3\_bucket\_name**
     -   **mid.discovery.aws\_ssm.s3\_bucket\_region**
-    For more information, see [Configure MID Server for AWS S3 access](../task/configure-mid-server-aws-s3-access.md) and [Configure MID Server for AWS KMS access](../task/config-mid-server-aws-kms-access.md).
+    For more information, see [Configure MID Server for AWS S3 access](configure-mid-server-aws-s3-access.md) and [Configure MID Server for AWS KMS access](config-mid-server-aws-kms-access.md).
 
 -   **Enable MID Server capability**
 
@@ -121,6 +121,6 @@ For more information on AWS Management Console configuration, see the [Amazon SS
 
 -   **Create a Cloud Discovery schedule**
 
-    SSM discovery can be deployed within an AWS-based Cloud Discovery schedule in the Discovery Admin Workspace. To do this, go to the Deep discovery step, enable the **Create an IP-based discovery schedule** toggle, and select **Discover servers though AWS Systems Manager \(SSM\) Agent** as the Discovery method. For more information, see [Create an AWS Discovery schedule in Discovery Admin Workspace](../task/create-AWS-schedule-DAW.md).
+    SSM discovery can be deployed within an AWS-based Cloud Discovery schedule in the Discovery Admin Workspace. To do this, go to the Deep discovery step, enable the **Create an IP-based discovery schedule** toggle, and select **Discover servers though AWS Systems Manager \(SSM\) Agent** as the Discovery method. For more information, see [Create an AWS Discovery schedule in Discovery Admin Workspace](create-AWS-schedule-DAW.md).
 
 

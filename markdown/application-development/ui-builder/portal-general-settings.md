@@ -27,7 +27,7 @@ Role required: ui\_builder\_admin
 
 2.  Open a portal experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Select **Experience settings** in the UI Builder header.
 
@@ -53,5 +53,5 @@ Role required: ui\_builder\_admin
 
 When you go back to your portal experience settings in UI Builder, you see the changes that you made to the general settings.
 
-**Parent Topic:**[Configure UI Builder portal experiences](../concept/ui-builder-portal-settings.md)
+**Parent Topic:**[Configure UI Builder portal experiences](ui-builder-portal-settings.md)
 

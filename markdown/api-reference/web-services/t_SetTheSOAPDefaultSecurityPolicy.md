@@ -28,5 +28,5 @@ Role required: web\_service\_admin or admin
 3.  Click **Save**.
 
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

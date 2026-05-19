@@ -15,24 +15,24 @@ breadcrumb: [Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery
 
 Update, put it on hold, send a requisition for approval, or close it.
 
--   **[Put a job requisition on hold](../../talent-acquisition/task/put-req-on-hold.md)**  
+-   **[Put a job requisition on hold](put-req-on-hold.md)**  
 Put a job requisition on hold if the requirement changes.
--   **[Withdraw hold on a job requisition](../../talent-acquisition/task/off-hold-job-req.md)**  
+-   **[Withdraw hold on a job requisition](off-hold-job-req.md)**  
 Withdraw the hold put on a job requisition when it is needed.
--   **[Duplicate a job requisition](../../talent-acquisition/task/duplicate-job-req.md)**  
+-   **[Duplicate a job requisition](duplicate-job-req.md)**  
 Duplicate an existing job requisition to save time.
--   **[Close a job requisition](../../talent-acquisition/task/close-a-job-req.md)**  
+-   **[Close a job requisition](close-a-job-req.md)**  
 Close a job requisition if it’s no longer required.
--   **[Reopen a job requisition](../../talent-acquisition/task/reopen-job-req.md)**  
+-   **[Reopen a job requisition](reopen-job-req.md)**  
 Reopen a job requisition that is already in closed state.
--   **[Submit a job requisition for approval](../../talent-acquisition/task/submit-for-approval-job-req.md)**  
+-   **[Submit a job requisition for approval](submit-for-approval-job-req.md)**  
 Submit a job requisition for approval to higher management.
--   **[Cancel a submitted approval request](../../talent-acquisition/task/cancel-approval-job-req.md)**  
+-   **[Cancel a submitted approval request](cancel-approval-job-req.md)**  
 Cancel a submitted approval request if it's no longer needed.
--   **[Resend a job requisition for approval](../../talent-acquisition/task/resubmit-approval-job-req.md)**  
+-   **[Resend a job requisition for approval](resubmit-approval-job-req.md)**  
 Resend a job requisition for approval if last-minute changes or technical faults.
--   **[Open a job requisition in your ATS](../../talent-acquisition/task/open-a-job-req-for-ats.md)**  
+-   **[Open a job requisition in your ATS](open-a-job-req-for-ats.md)**  
 Open a job requisition in your ATS after it’s approved and ready.
 
-**Parent Topic:**[Using Recruitment workspace](../../talent-acquisition/concept/use-recruit-workspace.md)
+**Parent Topic:**[Using Recruitment workspace](use-recruit-workspace.md)
 

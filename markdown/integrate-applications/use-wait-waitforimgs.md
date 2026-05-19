@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Wait For Images component. For more information about these properties, see [Properties of the Wait components](../reference/wait-properties.md).
+You can configure the properties for the Wait For Images component. For more information about these properties, see [Properties of the Wait components](wait-properties.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ You can configure the properties for the Wait For Images component. For more inf
 7.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Wait](../concept/wait.md)
+**Parent Topic:**[Wait](wait.md)
 

@@ -35,7 +35,7 @@ In the cloning process, the following information is copied from the source task
     The application creates a task in **Draft** state. The **Work Notes** field contains the original task number and text stating that the task is a clone.
 
 
-**Parent Topic:**[Facilities request tasks](../concept/c_FacRequestTasks.md)
+**Parent Topic:**[Facilities request tasks](c_FacRequestTasks.md)
 
-**Parent Topic:**[Request task management](../concept/c_RequestTasksMgmt.md)
+**Parent Topic:**[Request task management](c_RequestTasksMgmt.md)
 

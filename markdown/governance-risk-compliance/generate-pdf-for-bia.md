@@ -58,10 +58,10 @@ Beginning with the Xanadu release, the content in PDFs of Business Impact Analys
 
     Generate a report of the BIA record in Microsoft Word format. The Microsoft Word copy of the BIA record is successfully generated that you can download.
 
-    For more information on generating reports in Microsoft Word format using Document designer, see [Generating reports using Document designer](../concept/integrating-document-designer-with-bcm.md).
+    For more information on generating reports in Microsoft Word format using Document designer, see [Generating reports using Document designer](integrating-document-designer-with-bcm.md).
 
 8.  To print the BIA report, open the saved PDF or Microsoft Word copy and select **Print**.
 
 
-**Parent Topic:**[Structured workflows for BIAs](../concept/bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
 

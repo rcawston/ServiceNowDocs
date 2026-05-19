@@ -69,7 +69,7 @@ The **Give feedback** window opens. You can select a rating and provide addition
 
  This option is available only if the appointment state is **Complete**. You can only give one feedback for an appointment.
 
- For more information about providing feedback, see [Use the integrated experience and service feedback](../concept/using-ex-fdback.md).
+ For more information about providing feedback, see [Use the integrated experience and service feedback](using-ex-fdback.md).
 
 </td></tr></tbody>
 </table>

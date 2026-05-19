@@ -48,7 +48,7 @@ Threshold type
 Type of threshold. The available options are:-   **Static**: A fixed value used as a limit for tracking a metric.
 -   **Dynamic**: Percentage-based thresholds where variance is calculated based on metric direction and previous period data.
 
-For more information, see [Thresholds in Integrated Risk Management](../concept/thresholds-in-irm.md).
+For more information, see [Thresholds in Integrated Risk Management](thresholds-in-irm.md).
 
 </td></tr><tr><td>
 
@@ -107,5 +107,5 @@ Actions
 Actions to execute when the threshold is exceeded. Available actions include Send email and create issue.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a threshold for a metric definition](../task/t_create-threshold-for-metrics.md)
+</table>**Parent Topic:**[Create a threshold for a metric definition](t_create-threshold-for-metrics.md)
 

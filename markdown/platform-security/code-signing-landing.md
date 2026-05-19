@@ -51,7 +51,7 @@ The Circle of Trust requires an initial trust relationship between trusted and p
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties and troubleshooting](../reference/code-signing-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties and troubleshooting](code-signing-reference.md)
 
 </td></tr><tr><td>
 
@@ -78,10 +78,10 @@ Code Signing provides cryptographic verification to ensure that only authorized 
 Activate and configure Code Signing to verify the authenticity and integrity of your data.
 -   **[Using Code Signing](using-code-signing.md)**  
 Learn how to sign records, messages, and attachments to help verify the authenticity and integrity of your data.
--   **[Code Signing Health and Status Dashboard](../../code-signing/concept/code-signing-health-and-status-dashboard.md)**  
+-   **[Code Signing Health and Status Dashboard](code-signing-health-and-status-dashboard.md)**  
 The Code Signing Health and Status dashboard provides a centralized, user-friendly view of your Code Signing environment's health and configuration. Use it to identify issues, verify configuration accuracy, and support secure, uninterrupted code-signing operations.
--   **[Code Signing reference](../reference/code-signing-reference.md)**  
+-   **[Code Signing reference](code-signing-reference.md)**  
 Reference topics provide additional information to administer and troubleshoot Code Signing.
 
-**Parent Topic:**[Platform Security](../../general/concept/platsec-sublanding.md)
+**Parent Topic:**[Platform Security](platsec-sublanding.md)
 

@@ -63,7 +63,7 @@ Name and quantity of the assets that you want to donate. For example, `Request t
 5.  View the status of your Asset Donation Order by navigating to **All** &gt; **Self-Service** &gt; **My Requests**.
 
 
-**Parent Topic:**[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+**Parent Topic:**[Donate assets to charity organizations](donate-asset-to-charity-organizations.md)
 
 **Related topics**  
 

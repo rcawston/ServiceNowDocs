@@ -47,5 +47,5 @@ When a user accesses a UI page, the embedded help process displays a custom topi
     -   If the topic was not updated, it displays the local cached or database topic, and updates the **Last sync** date.
 3.  If the topic was not in the local database, it pulls the topic into the table if it exists on the CDN. If it does not exist, there is no action.
 
-The administrator can modify the default 15-day synchronization duration in [system properties](../reference/embedded-help-sys-properties.md)
+The administrator can modify the default 15-day synchronization duration in [system properties](embedded-help-sys-properties.md)
 

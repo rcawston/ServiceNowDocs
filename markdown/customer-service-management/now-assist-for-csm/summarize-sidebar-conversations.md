@@ -79,5 +79,5 @@ If you'd like to provide feedback, select either the helpful icon \(![Helpful ic
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 

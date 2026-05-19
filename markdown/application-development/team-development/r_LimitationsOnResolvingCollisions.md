@@ -123,5 +123,5 @@ The following field types do not support individual merging between versions or 
 **Related topics**  
 
 
-[Resolve a collision in Team Development](../task/t_ResolveACollision.md)
+[Resolve a collision in Team Development](t_ResolveACollision.md)
 

@@ -56,12 +56,12 @@ Role required:
 
     **Note:**
 
-    Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](../concept/s2p-transform-maps-flows.md).
+    Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](s2p-transform-maps-flows.md).
 
     You have successfully copied and executed the flow.
 
 
-**Parent Topic:**[Use schedule flows in SAP](../concept/using-schedule-flows-sap.md)
+**Parent Topic:**[Use schedule flows in SAP](using-schedule-flows-sap.md)
 
 **Related topics**  
 

@@ -21,7 +21,7 @@ As a manager, you can monitor the demand for agents and skills in your organizat
 
 As an agent, you can manage your own schedule, access the schedules of your peers and request time off or shift swaps.
 
-To plan for your Workforce Optimization for ITSM implementation, see [Getting started with Workforce Optimization for ITSM](../concept/getting-started-workforce-optimization-itsm.md).
+To plan for your Workforce Optimization for ITSM implementation, see [Getting started with Workforce Optimization for ITSM](getting-started-workforce-optimization-itsm.md).
 
 ## Workforce Optimization for ITSM workflow
 
@@ -90,9 +90,9 @@ Easily find tasks that you must complete in a module in Workforce Optimization f
 
 |Workforce Optimization for ITSM modules|Benefit|Finding tasks to complete in the module|
 |---------------------------------------|-------|---------------------------------------|
-|Channels|Automatically route work to assigned groups|[Getting started with Channels in Workforce Optimization for ITSM](../concept/exploring-channels-configurable-workforce-optimization-itsm.md)|
-|Schedule|Schedule your teams' work using Schedule|[Getting started with Scheduling in Workforce Optimization for ITSM](../concept/explore-schedule-configurable-wfo-itsm.md)|
-|Work Scheduler|Assign work using Work scheduler|[Getting started with Work scheduler in Workforce Optimization for ITSM](../concept/work-scheduling-wfo-itsm.md)|
-|Teams|Analyze team performance using Teams|[Getting started with Teams in Workforce Optimization for ITSM](../concept/explore-teams-configurable-workforce-optimization-itsm.md)|
-|Coaching|Train your teams with Coaching with Learning|[Getting started with Coaching in Workforce Optimization for ITSM](../concept/explore-coaching-configurable-workforce-optimization-itsm.md)|
+|Channels|Automatically route work to assigned groups|[Getting started with Channels in Workforce Optimization for ITSM](exploring-channels-configurable-workforce-optimization-itsm.md)|
+|Schedule|Schedule your teams' work using Schedule|[Getting started with Scheduling in Workforce Optimization for ITSM](explore-schedule-configurable-wfo-itsm.md)|
+|Work Scheduler|Assign work using Work scheduler|[Getting started with Work scheduler in Workforce Optimization for ITSM](work-scheduling-wfo-itsm.md)|
+|Teams|Analyze team performance using Teams|[Getting started with Teams in Workforce Optimization for ITSM](explore-teams-configurable-workforce-optimization-itsm.md)|
+|Coaching|Train your teams with Coaching with Learning|[Getting started with Coaching in Workforce Optimization for ITSM](explore-coaching-configurable-workforce-optimization-itsm.md)|
 

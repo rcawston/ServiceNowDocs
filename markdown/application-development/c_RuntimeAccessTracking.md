@@ -86,5 +86,5 @@ The system blocks the tracked operation from running until an Administrator manu
 </td></tr></tbody>
 </table>During development, application designers must run all of an application's script logic to ensure the system tracks and authorizes the access requests to other applications.
 
-**Parent Topic:**[Application design and runtime settings](../reference/r_ApplicationDesignAndRuntimeSettings.md)
+**Parent Topic:**[Application design and runtime settings](r_ApplicationDesignAndRuntimeSettings.md)
 

@@ -19,9 +19,9 @@ Pipelines are powered by the ServiceNow CICD spoke, which enables you to automat
 
 **Note:** Deploying scoped apps using pipelines in App Engine Management Center \(AEMC\) is a premium feature that might require an additional license. For more information, see [Installing ServiceNow Studio](installing-servicenow-studio.md).
 
-If you're an admin, you might work with pipelines to move changes to your apps through your instances. For more information about configuring pipelines, see [Configure Pipelines and Deployments](../../pipelines-and-deployments/task/config-p-and-d.md).
+If you're an admin, you might work with pipelines to move changes to your apps through your instances. For more information about configuring pipelines, see [Configure Pipelines and Deployments](../app-engine-management-center/config-p-and-d.md).
 
-If you have the App Engine Management Center \(AEMC\) installed, you can manage deployment requests that are created when a developer selects **Deploy** in ServiceNow Studio. For more information, see [Managing deployments using Pipelines and Deployments](../../app-engine-studio/concept/manage-deployments-using-p-and-d-aemc.md).
+If you have the App Engine Management Center \(AEMC\) installed, you can manage deployment requests that are created when a developer selects **Deploy** in ServiceNow Studio. For more information, see [Managing deployments using Pipelines and Deployments](../app-engine-management-center/manage-deployments-using-p-and-d-aemc.md).
 
 **Note:** If your app was created in ServiceNow IDE and converted to Fluent, you must switch from ServiceNow Studio back into the ServiceNow IDE for the publishing and deployment process.
 

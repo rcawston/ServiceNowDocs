@@ -122,8 +122,8 @@ The email address of the user is displayed. You must ask the email address of th
 
 10. Select **Exit** in the confirmation modal displays to indicate that the password has been shared with the user.
 
-    To know about errors that you encounter while you reset the password, refer [Password Reset in Service Operations Workspace reference](../reference/pr-sow-reference.md).
+    To know about errors that you encounter while you reset the password, refer [Password Reset in Service Operations Workspace reference](pr-sow-reference.md).
 
 
-**Parent Topic:**[Resetting password using Service-desk assisted Password Reset in Service Operations Workspace](../concept/resetting-password-pr-sow.md)
+**Parent Topic:**[Resetting password using Service-desk assisted Password Reset in Service Operations Workspace](resetting-password-pr-sow.md)
 

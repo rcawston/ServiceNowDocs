@@ -19,23 +19,23 @@ Overview of creating and populating Platform Analytics experience dashboards inc
 
 <table id="table_o5y_trj_mcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Guide to the layouts and content of a dashboard and how to find a dashboard in the library](../../dashboards/reference/ac-elements.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Guide to the layouts and content of a dashboard and how to find a dashboard in the library](ac-elements.md)
 
 </td><td>
 
-[Create, edit, share![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Procedures for performing the most common dashboard tasks](../../dashboards/concept/common-dashboard-tasks.md)
+[Create, edit, share![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Procedures for performing the most common dashboard tasks](common-dashboard-tasks.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set refresh periods and other one-time settings as an owner or administrator](../../dashboards/concept/configuring-dashboards.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set refresh periods and other one-time settings as an owner or administrator](configuring-dashboards.md)
 
 </td></tr><tr><td>
 
-[Proactive analytics Insights![](../../../reuse/icons/brand-icons/bus-light-bulb.svg)Automate the extraction of insights from your indicator data sources](proactive-analytics.md)
+[Proactive analytics Insights![](../../../reuse/icons/brand-icons/bus-light-bulb.svg)Automate the extraction of insights from your indicator data sources](proactive-analytics/proactive-analytics.md)
 
 </td><td>
 
-[Technical dashboards![](../../../reuse/icons/brand-icons/ind-nuclear-energy.svg)Create dashboards as UI Builder pages, with all of UI Builder's customizability and complexity. Developers only.](../../performance-analytics/concept/technical-dashboards.md)
+[Technical dashboards![](../../../reuse/icons/brand-icons/ind-nuclear-energy.svg)Create dashboards as UI Builder pages, with all of UI Builder's customizability and complexity. Developers only.](technical-dashboards.md)
 
 </td><td>
 

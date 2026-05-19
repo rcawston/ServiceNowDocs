@@ -98,11 +98,11 @@ open(secondaryURL,'_self');
 **Related topics**  
 
 
-[Configure the Catalog item component instance](../task/configure-catalog-item-component-on-instance.md)
+[Configure the Catalog item component instance](configure-catalog-item-component-on-instance.md)
 
-[Embed the Catalog item component instance on the third-party website](../task/embed-catalog-item-component-on-third-party-website.md)
+[Embed the Catalog item component instance on the third-party website](embed-catalog-item-component-on-third-party-website.md)
 
-[Component properties for the Catalog item](component-properties-for-catalog-item.md)
+[Component properties for the Catalog item](../component-properties-for-catalog-item.md)
 
-[Event handler in the Catalog item component](we-catalog-item-event-handler.md)
+[Event handler in the Catalog item component](../we-catalog-item-event-handler.md)
 

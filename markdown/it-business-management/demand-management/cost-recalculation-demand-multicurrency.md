@@ -36,5 +36,5 @@ Updating the unit cost, quantity, or fiscal period of a cost plan updates all th
     -   The **Total planned cost** of the cost plan is recalculated in demand currency.
     -   The values in the **Capital expense in demand currency**, **Operating expense in demand currency**, and the **Total planned cost in demand currency** fields of the demand are recalculated.
 
-**Parent Topic:**[Enable demand currency view](../task/enable-multicurrency-demand.md)
+**Parent Topic:**[Enable demand currency view](enable-multicurrency-demand.md)
 

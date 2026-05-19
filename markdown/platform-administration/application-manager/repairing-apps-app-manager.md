@@ -27,8 +27,8 @@ It’s assumed the complete set of customizations for an application is within t
 
 For more information about customizations, see [Customization vs. configuration with Creator Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-custom-vs-config.md).
 
--   **[Repair an application or plugin](../task/repair-application-app-mgr.md)**  
+-   **[Repair an application or plugin](repair-application-app-mgr.md)**  
 Repair an application procured through the ServiceNow Store or a plugin included in your instance. Repairing apps or plugins can resolve issues caused by unintentional modifications, corrupted files, or partial deletion.
 
-**Parent Topic:**[Administering applications](../../../build/applications/reference/administering-applications.md)
+**Parent Topic:**[Administering applications](../administering-applications.md)
 

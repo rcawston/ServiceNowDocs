@@ -79,10 +79,10 @@ Assume that there is a record in the cmdb\_ci\_linux\_server table and an entity
 
 **Scenario 3**: If the entity's source record doesn't satisfy any of the class rule filters, then the class **Linux Server** is auto-populated as an entity class.
 
--   **[Create an entity class rule](../task/create-new-entity-class-rule-ws.md)**  
+-   **[Create an entity class rule](create-new-entity-class-rule-ws.md)**  
 Create a rule for an entity class. Entity class rules provide the classification of the entities at the class level. You can create a new entity class rule for an entity class that is associated with a table. After creating the new entity class rule, the Entity class rules table is updated with the new record.
--   **[Create an entity class rule filter](../task/create-new-entity-class-rule-filter.md)**  
+-   **[Create an entity class rule filter](create-new-entity-class-rule-filter.md)**  
 You can create an entity class rule filter to assign classes at the filter level on the same table that is defined on the class rule.
 
-**Parent Topic:**[Exploring the entities](../../grc-common/concept/exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](exploring-the-entities.md)
 

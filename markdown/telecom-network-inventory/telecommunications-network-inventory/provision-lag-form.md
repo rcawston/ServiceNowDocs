@@ -99,10 +99,10 @@ Interface Z
 Text field where you can select a destination interface.**Note:** The interface Z list doesn’t display the interfaces that are marked as virtual.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a Link Aggregation Group using design and assign function](../task/create_a_change_request_by_using_the_design_assign_link_aggregation_group.md)
+[Create a Link Aggregation Group using design and assign function](create_a_change_request_by_using_the_design_assign_link_aggregation_group.md)
 

@@ -38,5 +38,5 @@ When a requester sends a message, the system checks if there is an existing user
     |global.AgentInitiatedConversationUtil|Get From and To options to show in UI for agent initiated conversations|
 
 
-**Parent Topic:**[Configuring Agent Chat](../concept/ci-agent-chat-configuring.md)
+**Parent Topic:**[Configuring Agent Chat](ci-agent-chat-configuring.md)
 

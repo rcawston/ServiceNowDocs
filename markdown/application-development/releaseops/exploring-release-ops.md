@@ -115,9 +115,9 @@ To learn more about configuring and using ReleaseOps, see:
 
 -   [Configuring ReleaseOps](configuring-releaseops.md)
 -   [Using ReleaseOps to manage deployments](using-releaseops-to-manage-deployments.md)
--   [Promote an update set for deployment](../task/promote-update-set-for-deployment.md)
--   [Create a deployment request for a scheduled release](../task/create-a-new-deployment-request.md)
--   [Create a deployment request for an on-demand release](../task/create-a-deployment-request-for-on-demand-release.md)
--   [Attach an update set to an existing deployment request](../task/attach-an-update-set-to-existing-deployment-request.md)
--   [Create a release](../task/create-a-release.md)
+-   [Promote an update set for deployment](promote-update-set-for-deployment.md)
+-   [Create a deployment request for a scheduled release](create-a-new-deployment-request.md)
+-   [Create a deployment request for an on-demand release](create-a-deployment-request-for-on-demand-release.md)
+-   [Attach an update set to an existing deployment request](attach-an-update-set-to-existing-deployment-request.md)
+-   [Create a release](create-a-release.md)
 

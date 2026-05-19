@@ -15,7 +15,7 @@ breadcrumb: [Viewing links between alerts in alert groups in Express List, Expre
 
 Use Link View in Express List to see why alerts in a log analytics-based alert group are correlated together through the visualization of shared attributes.
 
-Link View for log analytics-based alert groups shows the connections between component-based alerts. Each component-based alert may involve multiple host configuration items \(CIs\). A component represents a logical part of a service instance where the alert was detected. Components can consist of multiple CIs that perform the same function, such as multiple redundant hosts. For more information, see [Types of Health Log Analytics alerts](../../health-log-analytics-operator/reference/hla-op-log-analytics-alert-types.md).
+Link View for log analytics-based alert groups shows the connections between component-based alerts. Each component-based alert may involve multiple host configuration items \(CIs\). A component represents a logical part of a service instance where the alert was detected. Components can consist of multiple CIs that perform the same function, such as multiple redundant hosts. For more information, see [Types of Health Log Analytics alerts](../health-log-analytics/hla-op-log-analytics-alert-types.md).
 
 The colored tags in the link view represent attributes of the alerts such as hosts, users, or correlation indicators extracted from the logs. The lines connect attributes that share the same alert. This visualization helps you understand the relationships between different alerts in the group using their shared attributes.
 
@@ -25,7 +25,7 @@ Log analytics-based groups often contain multiple correlation attributes within 
 
 In this sample Link View, a component attribute is shown for each child alert in the log analytics alert group. Other attributes show connections between the component alerts.
 
-The Link View legend lists the meaning of the symbols used to represent the attributes. You can toggle between hiding and showing attributes types to reduce noise. For a description of each attribute, see [Attributes in Express List Link View](../reference/link-view-tags-icons-descriptions.md).
+The Link View legend lists the meaning of the symbols used to represent the attributes. You can toggle between hiding and showing attributes types to reduce noise. For a description of each attribute, see [Attributes in Express List Link View](link-view-tags-icons-descriptions.md).
 
 ![Sample log analytics-based Link View legend.](../image/el-link-view-log-analytics-legend.png)
 

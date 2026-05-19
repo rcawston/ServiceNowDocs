@@ -29,7 +29,7 @@ There are a few different reasons why an evaluation run may fail to execute prop
 
 -   **Data format errors**
 
-    Verify that the dataset conforms to the required format. Malformed records can cause the evaluation to fail. See [Data requirements for agentic evaluations](../reference/ref-aia-eval.md#data-reqs) for the supported data types.
+    Verify that the dataset conforms to the required format. Malformed records can cause the evaluation to fail. See [Data requirements for agentic evaluations](ref-aia-eval.md#data-reqs) for the supported data types.
 
 -   **Metric and data mismatch**
 

@@ -40,7 +40,7 @@ Incident creation rules automatically generate incident records from alerts that
 
     The Respond to alert page opens.
 
-5.  Follow the steps in [Create Respond automation](../../service-operations-workspace-itom/task/respond-alert-sow-itom.md).
+5.  Follow the steps in [Create Respond automation](service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
 
 6.  To complete the setup, select **Mark as configured**.
 

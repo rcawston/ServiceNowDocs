@@ -25,13 +25,13 @@ A task template can have static and dynamic mappings. In static mappings, the va
 -   Create text templates for fields in the parent table.
 -   Offset date fields by specific durations.
 
--   **[Create a template using the Universal Task template form](../task/ut-create-task-template.md)**  
+-   **[Create a template using the Universal Task template form](ut-create-task-template.md)**  
 Create a template for any service table to automatically populate fields on a form. Creating templates for common use cases enables agents to create universal tasks faster and ensures uniformity of field values.
--   **[Create a task template by saving a form](../task/ut-tasktemplate-saveform.md)**  
+-   **[Create a task template by saving a form](ut-tasktemplate-saveform.md)**  
 Save a populated Universal Task form as a template. This is an alternative method for creating a task template.
--   **[Create dynamic template mapping](../task/ut-create-dynamic-tmplt-map.md)**  
+-   **[Create dynamic template mapping](ut-create-dynamic-tmplt-map.md)**  
 Create dynamic templates to map fields on a Universal task form to corresponding fields on the parent table form. Dynamic templates help agents to map parent table fields to Universal task fields.
--   **[Use Task templates](../task/ut-use-task-template.md)**  
+-   **[Use Task templates](ut-use-task-template.md)**  
 Use a task template to auto-populate a Universal Task form. Using a task template enables agents to create tasks faster.
 
 **Parent Topic:**[Using Universal Task](use-universal-task.md)

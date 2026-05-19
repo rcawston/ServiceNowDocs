@@ -48,7 +48,7 @@ The fields of a formula indicator are similar to the fields of an automated indi
 
 2.  Follow one of these procedures to start creating a Data snapshots automated indicator:
 
-    -   Create an indicator from the Indicator library, as described in [Create an indicator from the library](create-indicator-from-library.md).
+    -   Create an indicator from the Indicator library, as described in [Create an indicator from the library](../create-indicator-from-library.md).
     -   Navigate to **All** &gt; **Data Snapshots** &gt; **Indicators** &gt; **Formula Indicators - Data Snapshots** and select **New**.
 3.  If you selected **Create indicator** from the indicator library, select the Formula indicator type and Data snapshots source type.
 
@@ -87,5 +87,5 @@ The fields of a formula indicator are similar to the fields of an automated indi
 10. Select **Submit** or **Update**.
 
 
-**Parent Topic:**[Data snapshots and multiple breakdowns](../concept/multi-level-breakdowns.md)
+**Parent Topic:**[Data snapshots and multiple breakdowns](multi-level-breakdowns.md)
 

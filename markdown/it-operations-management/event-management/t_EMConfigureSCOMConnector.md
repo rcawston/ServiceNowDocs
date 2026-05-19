@@ -17,7 +17,7 @@ Configure the Microsoft System Center Operations Manager \(SCOM\) connector inst
 
 ## Before you begin
 
-To activate **Metric Collection**, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](configure-itoa-metric-extension.md).
+To activate **Metric Collection**, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](../metric-intelligence/configure-itoa-metric-extension.md).
 
 Windows authentication is used by the connector to access the SCOM database \(OperationsManagerDW\). Therefore, if **Metric Collection** is selected and the **Database login with Windows authentication** option is also selected, ensure that the MID Server service runs with a user having read access to the SCOM database. Ensure that the correct credentials are used:
 
@@ -171,7 +171,7 @@ SCOM path and library names
 
 6.  Click **New** and create a new connector instance.
 
-    For details on the connector instance fields displayed on the page, see [SCOM connector instance form](../reference/scom-connector-instance-form.md).
+    For details on the connector instance fields displayed on the page, see [SCOM connector instance form](scom-connector-instance-form.md).
 
 7.  Select and hold \(or right-click\) the form header and select **Save**.
 

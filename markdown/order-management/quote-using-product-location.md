@@ -32,5 +32,5 @@ Role required: sales\_agent
     The products in the catalog are filtered according to the selected location.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

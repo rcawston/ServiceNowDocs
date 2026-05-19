@@ -25,7 +25,7 @@ Before approving or rejecting a request, you can review the risk assessment resu
 
 The multi-level approval flow for a conflict of interest disclosure request is automated through the **COI Approval flow**. The flow controls the request to advance to the next approval level when approved at one approval level. After the final-level approval, a conflict of interest disclosure record is created. The approval or rejection of the request and the end date specified in the request determines the state of the newly created disclosure record.
 
-For more information on approval flow, see [Conflict of Interest – Approval flow](../concept/conflict-of-interest-overview.md#section_COI_Approal_Flow).
+For more information on approval flow, see [Conflict of Interest – Approval flow](conflict-of-interest-overview.md#section_COI_Approal_Flow).
 
 **Note:** If the approval is assigned to an approval group, any member from the group can approve or reject the request.
 
@@ -86,5 +86,5 @@ The state of the conflict of interest disclosure record is based on the followin
 -   For an existing request, the related conflict of interest disclosure record is updated without changing its existing state.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Legal Conflict of Interest](../concept/lsd-coi-use-landing.md)
+</table>**Parent Topic:**[Using Legal Conflict of Interest](lsd-coi-use-landing.md)
 

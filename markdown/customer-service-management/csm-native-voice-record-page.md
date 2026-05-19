@@ -84,7 +84,7 @@ Active
 
 </td><td>
 
-Enabling the **Active** check box makes the page variant available to the selected audience. The CSM voice interaction record page variant is inactive by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+Enabling the **Active** check box makes the page variant available to the selected audience. The CSM voice interaction record page variant is inactive by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 </td></tr><tr><td>
 
@@ -253,7 +253,7 @@ The callback actions component contains:
 -   Call number button: Enables you to call the number in the drop-down.
 -   Retry call: Enables you to redial the customer number when the customer doesn’t answer the call.
 -   Close the callback button: Enables you to wrap up callback interactions.
--   Enables you to transfer an ASAP or Scheduled callback to another queue or agent before the call to the customer begins. For more information, see [Manage a CCaaS callback request in the Configurable Workspace](../task/ccaas-address-callback-requests.md).
+-   Enables you to transfer an ASAP or Scheduled callback to another queue or agent before the call to the customer begins. For more information, see [Manage a CCaaS callback request in the Configurable Workspace](ccaas-address-callback-requests.md).
 
 ![The CCaaS callback actions component displays a callback number drop-down, timer, and Transfer callback, call number, and close callback buttons.](../image/Tranfer_callback_button.png "Callback actions component")
 
@@ -296,7 +296,7 @@ For more information about the callback feature, see the following topics:
 
 -   [Configuring Omnichannel Callback for Customer Service Management](configure-omni-callback.md)
 -   [Using Omnichannel Callback for Customer Service Management](csm-omnichannel-callback.md)
--   [Address a callback request from a customer](../task/callback-customer.md)
+-   [Address a callback request from a customer](callback-customer.md)
 
 ## Customer History component
 
@@ -380,7 +380,7 @@ The CSM voice interaction record page supports actions from the following Custom
 -   Time Recording for Customer Service \(com.snc.csm\_time\_recording\)
 -   Omni-Experience Standard Feature Set
 
-If you’re using any additional plugins, you must add the actions from those plugins to the CSM voice interaction record page action bar. For more information, see the configuration steps in this topic: [Configure the Front-line case page action bar](../task/config-front-line-case-page-action-bar.md).
+If you’re using any additional plugins, you must add the actions from those plugins to the CSM voice interaction record page action bar. For more information, see the configuration steps in this topic: [Configure the Front-line case page action bar](config-front-line-case-page-action-bar.md).
 
 ## Contextual side panel component
 
@@ -413,7 +413,7 @@ Depending on the source type, agents can do the following:
 -   Mark an article as helpful.
 -   Order a catalog item.
 
-For more information, see [Use AI search in Recommended Actions to resolve cases](../task/nba-use-ai-search.md).
+For more information, see [Use AI search in Recommended Actions to resolve cases](nba-use-ai-search.md).
 
 **Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
@@ -488,5 +488,5 @@ The agent can switch between phone interactions and chat interactions. If an int
 **Related topics**  
 
 
-[Manage a CCaaS callback request using Global Voice Control](../task/handle-ccaas-callback-gvc.md)
+[Manage a CCaaS callback request using Global Voice Control](handle-ccaas-callback-gvc.md)
 

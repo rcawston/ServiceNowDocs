@@ -88,5 +88,5 @@ The fakeOutTradePriceRequest function is the implementation of the only availabl
 
 The generateSoapFault function returns a SOAP error that can be called if there are problems.
 
-**Parent Topic:**[Create a static WSDL script include](../task/t_CreateAStatickWSDLScriptInclude.md)
+**Parent Topic:**[Create a static WSDL script include](t_CreateAStatickWSDLScriptInclude.md)
 

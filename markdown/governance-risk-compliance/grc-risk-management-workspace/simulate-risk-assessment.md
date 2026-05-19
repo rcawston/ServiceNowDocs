@@ -48,5 +48,5 @@ To modify the configuration of a published RAM, you need to delete all its asses
 6.  To view all the simulated assessments for the selected RAM, click **View simulated assessments**.
 
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

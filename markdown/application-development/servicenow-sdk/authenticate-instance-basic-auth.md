@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-This procedure uses the ServiceNow SDK command-line interface \(CLI\). From a command-line tool, enter `now-sdk --help` to get information about the available commands and global options. To get additional information about a command and its parameters, enter the command and `--help` or `-h`. For example, `now-sdk auth --help`. For more information about the CLI, see [ServiceNow SDK CLI](../reference/servicenow-sdk-cli-commands.md#).
+This procedure uses the ServiceNow SDK command-line interface \(CLI\). From a command-line tool, enter `now-sdk --help` to get information about the available commands and global options. To get additional information about a command and its parameters, enter the command and `--help` or `-h`. For example, `now-sdk auth --help`. For more information about the CLI, see [ServiceNow SDK CLI](servicenow-sdk-cli-commands.md#).
 
 ## Procedure
 
@@ -95,7 +95,7 @@ The alias and credentials are stored in the device keychain or credential manage
 
 ## What to do next
 
-Add an application to your local system with the ServiceNow SDK. For more information, see [Adding applications with the ServiceNow SDK](../concept/creating-applications-servicenow-sdk.md).
+Add an application to your local system with the ServiceNow SDK. For more information, see [Adding applications with the ServiceNow SDK](creating-applications-servicenow-sdk.md).
 
-**Parent Topic:**[Authenticating to a ServiceNow instance with the ServiceNow SDK](../concept/authenticate-instance-now-sdk.md)
+**Parent Topic:**[Authenticating to a ServiceNow instance with the ServiceNow SDK](authenticate-instance-now-sdk.md)
 

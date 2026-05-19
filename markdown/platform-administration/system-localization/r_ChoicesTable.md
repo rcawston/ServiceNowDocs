@@ -33,7 +33,7 @@ The main fields for this table are:
 **Related topics**  
 
 
-[Create a language choice for users](../task/t_CreateANewChoiceRecord.md)
+[Create a language choice for users](t_CreateANewChoiceRecord.md)
 
-[Ensure that translated choices appear for applications added by plugins](../task/activate-translated-choices-plugins.md)
+[Ensure that translated choices appear for applications added by plugins](activate-translated-choices-plugins.md)
 

@@ -43,7 +43,7 @@ The report contains the reservation details and the requested service item detai
     **Note:** The Print reservation feature is only available for single- and multi-child reservations and isn’t available for blocker reservations and multi-parent reservations.
 
 
-**Parent Topic:**[Manage employee reservations](../concept/manage-reservation-requests.md)
+**Parent Topic:**[Manage employee reservations](manage-reservation-requests.md)
 
 **Related topics**  
 

@@ -26,11 +26,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -48,7 +48,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](../sgcc-first-time-setup.md).
 
 5.  Enter connection details and test the API connection for importing Infoblox data.
 
@@ -181,9 +181,9 @@ Select **View all connections** to review the connection details. The configured
 **Related topics**  
 
 
-[Service Graph Connector for Infoblox](../../configuration-management/concept/sgc-cmdb-integration-infoblox.md)
+[Service Graph Connector for Infoblox](sgc-cmdb-integration-infoblox.md)
 
-[CMDB classes targeted in Service Graph Connector for Infoblox](../../configuration-management/reference/sgc-cmdb-infoblox-classes.md)
+[CMDB classes targeted in Service Graph Connector for Infoblox](sgc-cmdb-infoblox-classes.md)
 
-[Accessing the connection details of Service Graph Connector for Infoblox](../../configuration-management/concept/sgc-cmdb-infoblox-conn.md#)
+[Accessing the connection details of Service Graph Connector for Infoblox](sgc-cmdb-infoblox-conn.md#)
 

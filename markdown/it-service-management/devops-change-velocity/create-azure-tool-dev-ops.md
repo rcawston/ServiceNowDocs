@@ -28,7 +28,7 @@ Actions:
 -   **Configure** webhooks in Azure DevOps.
 -   **Import** work item, plan version, and feature records, branch and commit records, and task execution and step execution records.
 
-To [customize Azure Boards import](../reference/dev-ops-azure-work-item-import.md) of work item states or types, use the **DevOpsAzureDevOpsWorkItemHelper** script include.
+To [customize Azure Boards import](dev-ops-azure-work-item-import.md) of work item states or types, use the **DevOpsAzureDevOpsWorkItemHelper** script include.
 
 ## Procedure
 
@@ -91,7 +91,7 @@ Type of credential, **Basic Auth** or **OAuth 2.0**.**Basic Auth**
 
 **Note:**
 
-When you generate a Personal access token \(PAT\) for Azure DevOps, you must select the scopes to authorize if you aren’t granting complete access. See [Azure DevOps PAT scopes for DevOps](../reference/dev-ops-pat-scopes-azure.md).
+When you generate a Personal access token \(PAT\) for Azure DevOps, you must select the scopes to authorize if you aren’t granting complete access. See [Azure DevOps PAT scopes for DevOps](dev-ops-pat-scopes-azure.md).
 
 **OAuth 2.0**
 
@@ -107,7 +107,7 @@ Pre-requisites:
 In the **Tool credential** field, select an OAuth 2.0 tool credential record.**Note:** Only records that are not in use and configured for ADO can be selected as an existing credential record.
 
 </td></tr></tbody>
-</table>    For a list of all the permissions required on the credentials for connecting to Azure DevOps, see Azure DevOps permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+</table>    For a list of all the permissions required on the credentials for connecting to Azure DevOps, see Azure DevOps permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
 3.  If your Azure DevOps instance is attached to a MID Server, select the **Use MID Server** option and enter its details.
 
@@ -195,5 +195,5 @@ For Azure pipelines, [Model an Azure pipeline in DevOps](model-azure-pipeline-de
 -   Create pipeline steps and map each step to an Azure pipeline job.
 -   Configure change control.
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 

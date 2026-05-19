@@ -23,7 +23,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Create the criteria for a service organization](../task/create-service-organization-criteria.md)
+[Create the criteria for a service organization](create-service-organization-criteria.md)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Create the records for the organization criteria that define the list of matchin
 
 </td></tr><tr><td>
 
-[Define the configuration type for customers or business locations](../task/associate-customer-criteria-to-service-organization.md)
+[Define the configuration type for customers or business locations](associate-customer-criteria-to-service-organization.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Define the configuration type for the customers served to provide your service o
 
 </td></tr><tr><td>
 
-[Associate customers or business locations to a service organization](../task/associate-customers-or-bus-loc-to-so.md)
+[Associate customers or business locations to a service organization](associate-customers-or-bus-loc-to-so.md)
 
 </td><td>
 

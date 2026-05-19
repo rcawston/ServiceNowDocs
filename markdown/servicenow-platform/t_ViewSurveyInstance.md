@@ -30,7 +30,7 @@ Role required: admin or survey\_admin
     -   **All**: Displays survey instances in all states. By default, these instances are sorted in ascending order by the **Number** field.
 2.  Open a survey instance from the required sub-module.
 
-    By default, you can view the following fields in the [Survey Instance form](../reference/survey-instance-form.md) for all sub-modules other than **Completed**.
+    By default, you can view the following fields in the [Survey Instance form](survey-instance-form.md) for all sub-modules other than **Completed**.
 
     -   **Number**
     -   **Metric type**
@@ -47,16 +47,16 @@ Role required: admin or survey\_admin
     -   When you open an instance in the **Completed** sub-module, you are redirected to the User's Response page.
     -   Each survey instance is stored as a record on the Assessment Instance \[asmt\_assessment\_instance\] table with a modified view for survey use.
 
-**Parent Topic:**[Survey administration](../reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
 [View survey reports](view-survey-overview.md)
 
-[Survey designer](../concept/c_SurveyDesigner.md)
+[Survey designer](c_SurveyDesigner.md)
 
-[Survey users and groups](../concept/c_SurveyUsersAndGroups.md)
+[Survey users and groups](c_SurveyUsersAndGroups.md)
 
 [Copy a survey](copy-survey.md)
 
@@ -64,27 +64,27 @@ Role required: admin or survey\_admin
 
 [Customize the appearance of a survey](t_CustomizingAppearance.md)
 
-[Survey definitions](../concept/c_SurveyDefinitions.md)
+[Survey definitions](c_SurveyDefinitions.md)
 
 [Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
 
-[Survey questions](../concept/c_SurveyQuestion.md)
+[Survey questions](c_SurveyQuestion.md)
 
-[Survey trigger conditions](../concept/c_TriggerConditions.md)
+[Survey trigger conditions](c_TriggerConditions.md)
 
-[Survey distribution](../concept/c_SurveyDistribution.md)
+[Survey distribution](c_SurveyDistribution.md)
 
-[Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
+[Outlook Actionable Messages](outlook-actionable-messages.md)
 
-[Sentiment analysis for surveys](../concept/sentiment-analysis.md)
+[Sentiment analysis for surveys](sentiment-analysis.md)
 
-[Surveys in Service Portal and the Now Mobile app](../concept/c_SurveyServicePortal.md)
+[Surveys in Service Portal and the Now Mobile app](c_SurveyServicePortal.md)
 
-[Surveys in ITSM Virtual Agent](../concept/survey-virtual-agent.md)
+[Surveys in ITSM Virtual Agent](survey-virtual-agent.md)
 
-[Legacy survey migration](../concept/c_MigrateSurveys.md)
+[Legacy survey migration](c_MigrateSurveys.md)
 
-[Schedule periods](../concept/c_SchedulePeriods.md)
+[Schedule periods](c_SchedulePeriods.md)
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduleEvents.md)
 

@@ -46,11 +46,11 @@ Plugin dependencies - Ensure the following plugins are installed and activated:
 **Related topics**  
 
 
-[Discrepancy identification – types of discrepancies](../concept/discrepancy-identification-types-of-discrepancies.md)
+[Discrepancy identification – types of discrepancies](discrepancy-identification-types-of-discrepancies.md)
 
-[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](../concept/system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
+[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
 
-[Telecom Discrepancy Identification and Reconciliation](../concept/exploring-telecom-reconciliation.md)
+[Telecom Discrepancy Identification and Reconciliation](exploring-telecom-reconciliation.md)
 
 [Run Telecom Discrepancy audit](run-audits.md#)
 

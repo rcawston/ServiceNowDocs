@@ -21,13 +21,13 @@ As an administrator, you can use templates to dynamically identify the informati
 
 -   Enable the work order templates to map information from source table to work order attributes. For more information, see [Configuring data mapping](setting-up-wo-temp-copy-source-info-wo.md).
 -   Identify and create appropriate tasks for a work order based on the defined filtering conditions. For more information, see [Configuring standalone task templates](setting-up-wotemp-create-stand-alone-tasks.md).
--   Use extension points to customize the process of identifying the source of work order. For more information, see [Extension points in Field Service Management](../reference/extension-points-field-service.md).
+-   Use extension points to customize the process of identifying the source of work order. For more information, see [Extension points in Field Service Management](../extension-points-field-service.md).
 
 ## Configuration overview
 
 The steps for setting up template management are:
 
-1.  [Activate Template Management for Field Service](../task/activate-template-management.md)
+1.  [Activate Template Management for Field Service](activate-template-management.md)
 
     Install the Template Management for Field Service plugin \(com.snc.fsm\_template\_management\) if you have the admin role.
 

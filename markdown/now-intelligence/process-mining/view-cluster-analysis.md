@@ -72,5 +72,5 @@ You can use a treemap visualization to help you better understand different aspe
 
 For additional information on using a treemap, see [Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md).
 
-**Parent Topic:**[Cluster analysis](../concept/cluster-analysis.md)
+**Parent Topic:**[Cluster analysis](cluster-analysis.md)
 

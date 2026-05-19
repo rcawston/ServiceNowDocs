@@ -38,5 +38,5 @@ Role required: admin
 
 ## What to do next
 
-[Open an HR case to create a Journey Accelerator action plan](create-journey-accelerator-plan.md)
+[Open an HR case to create a Journey Accelerator action plan](../hr-service-delivery/create-journey-accelerator-plan.md)
 

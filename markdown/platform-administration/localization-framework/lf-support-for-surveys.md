@@ -24,10 +24,10 @@ The extension of the Localization Framework capabilities to surveys enables you 
 -   Translate the content of the surveys directly using the edit translations option.
 -   Read, edit, and machine translate the content. You can also send the content to TMS or via email. You can export and import the content of the survey elements.
 
-    **Note:** Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework. For more information, see [Exploring Dynamic Translation](../../dynamic-translation/concept/exploring-dynamic-translation.md).
+    **Note:** Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework. For more information, see [Exploring Dynamic Translation](../dynamic-translation/exploring-dynamic-translation.md).
 
 -   Approve and publish the translated content.
--   Monitor the overall localization health of the surveys from the [Localization Insights dashboard](../../../use/dashboards/application-content-packs/localization-insights-dashboard.md).
+-   Monitor the overall localization health of the surveys from the [Localization Insights dashboard](localization-insights-dashboard.md).
 
 For more information on requesting and editing translation for surveys, see [Request translations for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/request-translations-for-surveys.md) and [Edit translations for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/edit-translations-for-surveys.md).
 

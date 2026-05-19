@@ -23,7 +23,7 @@ If you add complex functionality to an app in another builder and then re-open t
 
 For more information, see the following products:
 
--   [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md)
+-   [ServiceNow Studio](../servicenow-studio-classic/servicenow-studio-landing.md)
 -   [Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-builder.md)
 
 ## Opening apps built in other products in Creator Studio

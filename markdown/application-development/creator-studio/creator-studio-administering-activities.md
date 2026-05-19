@@ -23,11 +23,11 @@ You may want to create custom activities for complex or company-specific workflo
 
 -   **[Steps to create a custom activity in Creator Studio](creator-studio-custom-activity-workflow.md)**  
 There are multiple steps to add custom activities for use in Creator Studio automations.
--   **[Make a custom activity available for playbooks in Creator Studio](../task/creator-studio-add-custom-activity.md)**  
+-   **[Make a custom activity available for playbooks in Creator Studio](creator-studio-add-custom-activity.md)**  
 You must add custom activities to the Creator Studio Activities table \[sn\_creatorstudio\_activity\] before users can add them to playbooks when building apps.
--   **[Reorder how activities appear in a playbook's activity picker](../task/creator-studio-reorder-activities.md)**  
+-   **[Reorder how activities appear in a playbook's activity picker](creator-studio-reorder-activities.md)**  
 Change the order that activities appear in the activity picker in Creator Studio to present them in the order you want.
--   **[Make an activity unavailable in playbooks](../task/creator-studio-hide-activity.md)**  
+-   **[Make an activity unavailable in playbooks](creator-studio-hide-activity.md)**  
 Deactivate an activity to stop users from adding it to playbooks in Creator Studio.
 
 **Parent Topic:**[Administering Creator Studio](administering-creator-studio.md)

@@ -40,10 +40,10 @@ You can acknowledge a heuristic lifecycle match of a product by changing its sta
 7.  Select **Save**.
 
 
-**Parent Topic:**[View technology portfolio audit risk details](eaw-task/eaw-view-audit-risk-details.md)
+**Parent Topic:**[View technology portfolio audit risk details](eaw-view-audit-risk-details.md)
 
 **Related topics**  
 
 
-[View technology portfolio audit risk details](eaw-task/eaw-view-audit-risk-details.md)
+[View technology portfolio audit risk details](eaw-view-audit-risk-details.md)
 

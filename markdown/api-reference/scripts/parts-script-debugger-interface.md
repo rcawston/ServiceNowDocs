@@ -51,16 +51,16 @@ The Script Debugger user interface \(UI\) displays information about breakpoints
 |Message Type|Option to filter logs based on the dynamically log levels. For example, **Info**.|
 |Clear log|Clears all logs.|
 |Download log|Download the logs in HTML file format.|
-|Settings|Session debug options. For information about the debug options, see [Session debug](../concept/c_SessionDebug.md#).|
+|Settings|Session debug options. For information about the debug options, see [Session debug](c_SessionDebug.md#).|
 
--   **[Script Tracer and debugging scripts](../concept/script-tracer.md)**  
+-   **[Script Tracer and debugging scripts](script-tracer.md)**  
 The Script Tracer can help you filter your debugging search to quickly narrow down script problems. You can identify lines of scripts in the Glide record that have undergone change during execution. Finding those specific lines of scripts rather than doing a wide search helps save time and improves productivity.
--   **[Script Debugger status](../concept/script-debugger-status.md)**  
+-   **[Script Debugger status](script-debugger-status.md)**  
 The Script Debugger status determines what debugging actions are available and what information it can display.
--   **[Transaction details](../concept/transaction-details.md#)**  
+-   **[Transaction details](transaction-details.md#)**  
 The Script Debugger displays transaction details for the current paused user session.
 -   **[Script Debugger step-through and console controls](step-through-controls.md)**  
 After the Script Debugger pauses a script, use the step-through controls to move between script lines and move between scripts in the call stack. Use the Console controls to expand console, collapse console, clear console, and rerun expressions.
 
-**Parent Topic:**[Script Debugger and Session Log](../concept/script-debugger.md)
+**Parent Topic:**[Script Debugger and Session Log](script-debugger.md)
 

@@ -36,13 +36,13 @@ The **Recently Viewed** list shows the most recently viewed search results from 
 
 [Global search displays exact matching records](exact-matches-global-search.md#)
 
-[Set global text search properties](../task/set-global-text-search-properties.md)
+[Set global text search properties](set-global-text-search-properties.md)
 
-[Set the preview limit for global or workspace search in Next Experience UI](../task/set-app-preview-limit-polaris-ui.md)
+[Set the preview limit for global or workspace search in Next Experience UI](set-app-preview-limit-polaris-ui.md)
 
-[Hide per-table search result counts in Next Experience UI](../task/hide-result-counts-polaris-ui.md)
+[Hide per-table search result counts in Next Experience UI](hide-result-counts-polaris-ui.md)
 
-[Add a workspace application to the Unified Navigation search context menu](../task/add-app-search-context-polaris-ui.md)
+[Add a workspace application to the Unified Navigation search context menu](add-app-search-context-polaris-ui.md)
 
-[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+[Global text search suggestions](r_GlobalTextSearchSuggestions.md)
 

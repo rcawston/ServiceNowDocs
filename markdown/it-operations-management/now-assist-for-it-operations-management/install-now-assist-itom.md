@@ -18,7 +18,7 @@ Install the ITOM plugin in the ServiceNow® Now Assist feature.
 
 ## Before you begin
 
-Install the AIOps Experience \[sn\_sow\_aiops\] application from the ServiceNow Store. See [Install Service Operations Workspace for ITOM application](../../service-operations-workspace-itom/task/install-sow-itom-apps.md) for more information.
+Install the AIOps Experience \[sn\_sow\_aiops\] application from the ServiceNow Store. See [Install Service Operations Workspace for ITOM application](../service-operations-workspace-for-itom-apps/install-sow-itom-apps.md) for more information.
 
 Role required: admin
 
@@ -43,7 +43,7 @@ Install Now Assist plugins to enable generative AI and agentic AI on your instan
     3.  Select **Install**.
 
 
-**Parent Topic:**[Configure Now Assist for ITOM](../concept/now-assist-itom-configure.md)
+**Parent Topic:**[Configure Now Assist for ITOM](now-assist-itom-configure.md)
 
 **Related topics**  
 

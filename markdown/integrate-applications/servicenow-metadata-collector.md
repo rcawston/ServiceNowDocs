@@ -116,9 +116,9 @@ Supports ServiceNow instances that expose the Table API. Tested with ServiceNow 
 
 The collector authenticates to ServiceNow using Basic Authentication \(User name and Password\).
 
--   **[Prepare to run the ServiceNow collector](../task/prepare-to-run-servicenow-collector.md)**  
+-   **[Prepare to run the ServiceNow collector](prepare-to-run-servicenow-collector.md)**  
 Create a ServiceNow user and configure permissions before running the collector.
--   **[Create a ServiceNow metadata collector](../task/create-servicenow-metadata-collector.md)**  
+-   **[Create a ServiceNow metadata collector](create-servicenow-metadata-collector.md)**  
 Create a collector to import metadata from ServiceNow.
 
 **Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)

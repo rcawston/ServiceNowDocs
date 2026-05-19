@@ -29,7 +29,7 @@ When creating a new Notify workflow activity, follow these design principles.
 -   Within the onUpdate event handler function, deserialize the NotifyAction object from the notify\_wf\_activity table and use this object to perform any other operations.
 -   Use the other event handler functions and the Notify as needed to implement the desired activity behavior.
 
-**Parent Topic:**[Notify workflow activities](../../../administer/workflow-activities/concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 
 **Related topics**  
 

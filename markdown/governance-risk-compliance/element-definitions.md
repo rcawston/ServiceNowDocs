@@ -38,7 +38,7 @@ The example shows the configuration of an element definition by the Business Con
 
 ## Configuration of an element definition
 
-For more information on configuring an element definition with the BCM administrator role, see [Configure element definition](../task/configure-element-definition-bia-uib-ws.md).
+For more information on configuring an element definition with the BCM administrator role, see [Configure element definition](configure-element-definition-bia-uib-ws.md).
 
 **Note:** Starting with the Xanadu release, the element definition filter for the Hardware element definition has been updated. You can now add a Windows server asset in the Windows server element definition or a Linux server asset in the Linux server element definition. However, you cannot add the Windows server asset or the Linux server asset in the filter of the Hardware element definition.
 
@@ -48,5 +48,5 @@ As a functional system administrator, you can set up an element variable that is
 
 ![Configuration of an element variable.](../image/new-element-variable.png)
 
-For more information on how to configure an element variable in the Business Continuity Management application with an administrator role, see [Configure element variables for element definitions](../task/configure-element-variable-uib-ws.md).
+For more information on how to configure an element variable in the Business Continuity Management application with an administrator role, see [Configure element variables for element definitions](configure-element-variable-uib-ws.md).
 

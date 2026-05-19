@@ -15,7 +15,7 @@ Space administrators configure properties on the workbench. In the application n
 
 ## Map properties
 
-Map properties allow some customization on the floor plan. For a full description of each property, see [Space Management properties](../../facilities-service-management/reference/SpaceMgmntProperties.md).
+Map properties allow some customization on the floor plan. For a full description of each property, see [Space Management properties](SpaceMgmntProperties.md).
 
 ## Parsing configuration
 
@@ -113,5 +113,5 @@ The URL parameters supported are:
 |sysparm\_tab|Specify the number of the tab to default to on the map.|
 |sysparm\_fromWidget|Triggers event "space.clicked" on a space click, which returns \{'sys\_id': SPACESYSID, 'displayName': SPACEDISPLAYNAME\}, or hiding space which returns \{'sys\_id':", 'displayName':"\};|
 
-**Parent Topic:**[Activate Facilities Visualization Workbench](../task/t_ActivateFacVisWorkbench.md)
+**Parent Topic:**[Activate Facilities Visualization Workbench](t_ActivateFacVisWorkbench.md)
 

@@ -28,7 +28,7 @@ You can configure AI-based catalog search experience in portals and Now Mobile. 
 
 Each of these search application configurations have an associated search profile based on which the search results are filtered and displayed.
 
-**Note:** If the AI Search is enabled for Now Mobile, the **Experience for items not available in NOW Mobile** \(**glide.sc.mobile.unsupported\_discover**\) property is not applicable. For information on Now Mobile properties, see [Service Catalog properties](../reference/r_ServiceCatalogProperties.md).
+**Note:** If the AI Search is enabled for Now Mobile, the **Experience for items not available in NOW Mobile** \(**glide.sc.mobile.unsupported\_discover**\) property is not applicable. For information on Now Mobile properties, see [Service Catalog properties](r_ServiceCatalogProperties.md).
 
 Following are a few limitations for AI-based catalog search experience:
 
@@ -64,7 +64,7 @@ Following are a few limitations for AI-based catalog search experience:
     5.  Click **Update**.
 
 
-**Parent Topic:**[Configure search and navigation](../concept/c_ConfigSrchNavUseProps.md)
+**Parent Topic:**[Configure search and navigation](c_ConfigSrchNavUseProps.md)
 
 **Related topics**  
 

@@ -217,12 +217,12 @@ The external storage system integration is published and is ready for storing do
 
 Add the **Enable External Storage for attachment** option in the intake forms so that the documents attached to those legal requestsor legal mattersare stored in the configured external storage. For more information, see [Add an intake form to a practice area](associate-categories-practice-area.md).
 
-Configure the system properties for Legal Service Delivery apps to administer integration with the external storage provider. For more information, see [Legal Service Delivery properties](../reference/legal-properties.md).
+Configure the system properties for Legal Service Delivery apps to administer integration with the external storage provider. For more information, see [Legal Service Delivery properties](legal-properties.md).
 
--   **[Integrating Legal Service Delivery applications with iManage storage](../reference/configuring-imanage-integration.md)**  
+-   **[Integrating Legal Service Delivery applications with iManage storage](configuring-imanage-integration.md)**  
 Integrate iManage storage with Legal Service Delivery applications to provide more security to the files.
 -   **[Create implementation in Scripted Extension Point](create-scripted-extension-point.md)**  
 Create the implementation in the Scripted Extension Point, provided out-of-the-box, by placing it in the script include in the base application code.
 
-**Parent Topic:**[Configuring Legal Request Management](../concept/legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
 

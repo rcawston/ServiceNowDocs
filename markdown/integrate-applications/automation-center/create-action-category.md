@@ -45,5 +45,5 @@ The action category is created.
 
 [Create an action type](create-action-type.md)
 
-**Parent Topic:**[Creating an action](../concept/creating-action.md)
+**Parent Topic:**[Creating an action](creating-action.md)
 

@@ -35,12 +35,12 @@ After creating custom shapes and adding the custom shapes to the shape library, 
 
 6.  On the Diagram Action form, fill in the fields.
 
-    For field information, see [Create diagram action form](../../reference/eaw-reference/eaw-diagram-action-form.md).
+    For field information, see [Create diagram action form](eaw-diagram-action-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+**Parent Topic:**[Working with custom shapes](eaw-working-custom-shapes.md)
 
 **Related topics**  
 

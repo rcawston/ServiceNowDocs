@@ -34,7 +34,7 @@ When you view the citations and authority documents in an instance, all the cita
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](../concept/configuring-esg.md)
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](configuring-esg.md)
 
 **Related topics**  
 

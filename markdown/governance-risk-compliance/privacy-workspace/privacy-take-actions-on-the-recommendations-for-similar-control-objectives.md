@@ -21,7 +21,7 @@ Act on the recommendations, like accept as duplicate, retain as primary, or dism
 
 Role required: sn\_reco\_template.rationalization\_process\_writer and sn\_grc\_shared\_genai.compliance\_gen\_ai\_user
 
-For more information on related roles, see [Roles installed with GRC: Policy and Compliance Management](../../grc-policy-and-compliance/reference/r_InstallWPolAndCompl.md#).
+For more information on related roles, see [Roles installed with GRC: Policy and Compliance Management](../policy-and-compliance-management/r_InstallWPolAndCompl.md#).
 
 ## About this task
 

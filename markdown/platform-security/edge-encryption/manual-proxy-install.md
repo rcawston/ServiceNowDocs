@@ -25,7 +25,7 @@ If order preserving encryption types or encryption patterns are to be used, set 
 
 ## About this task
 
-First, set up a single Edge Encryption proxy server. After your first proxy server is successfully running, add additional proxy servers for one instance to ensure an optimal environment. See [Sizing your Edge Encryption environment](../concept/edge-environment-size.md) to determine the number of additional proxy servers needed.
+First, set up a single Edge Encryption proxy server. After your first proxy server is successfully running, add additional proxy servers for one instance to ensure an optimal environment. See [Sizing your Edge Encryption environment](edge-environment-size.md) to determine the number of additional proxy servers needed.
 
 1.  [Install the Edge Encryption proxy server \(command line installer\)](install-edge-linux-windows.md)  
 Install an Edge Encryption proxy on a 64-bit Windows or Linux computer.
@@ -50,5 +50,5 @@ Obfuscate passwords in the `edgeencryption.properties` file to be able to share 
 11. [Manually add an additional proxy](t_AddAdditionalProxies.md)  
 After the first Edge Encryption proxy is properly configured and tested, you can set up additional proxies on a Linux or Windows machine. Installing multiple proxies on the same machine is not recommended.
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](c_InstallEdgeEncryptionProxy.md)
 

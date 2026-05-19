@@ -89,7 +89,7 @@ Select **Browse** in the **Attachments** section or select the attachment icon t
 </table>## Working on third-party risk assessments
 
 -   **Risk overview tab on the External assessments page**
-    -   The symbols indicate the current state of the external assessment process for the engagement request. See [Life cycle states of a external assessment](../../grc-vendor-risk/concept/tprm-external-assessment-lifecycle.md) for descriptions of the states.
+    -   The symbols indicate the current state of the external assessment process for the engagement request. See [Life cycle states of a external assessment](tprm-external-assessment-lifecycle.md) for descriptions of the states.
 
         ![Symbols identify the state of the third-party risk assessment process.](../image/tprm-ws-vra-stage-indicators.png)
 
@@ -105,65 +105,65 @@ Select **Browse** in the **Attachments** section or select the attachment icon t
         -   **Comments**: Comments about the third-party risk assessment are visible both to internal users and to third-party contacts.
 -   **Questionnaire templates tab on the External assessments page**
 
-    The tab lists the questionnaires that the third-party contact will respond to. Select a name to view the details. For more information, see [Create a questionnaire or document request template](../../grc-vendor-risk/task/create-questionnaire-template.md) and [Create a questionnaire or document request template using the Designer](../../grc-vendor-risk/task/create-question-template.md).
+    The tab lists the questionnaires that the third-party contact will respond to. Select a name to view the details. For more information, see [Create a questionnaire or document request template](create-questionnaire-template.md) and [Create a questionnaire or document request template using the Designer](create-question-template.md).
 
     To enable TPR assessors to modify responses, configure the **Allow TPR assessors to modify responses in third-party questionnaires** \[`sn_svdp.allow_assessor_edit`\] system property. You can set the following options:
 
     -   Enable TPR assessors to answer questions or modify responses \(default\)
     -   Enable TPR assessors to modify responses
     -   Do not enable TPR assessors to answer questions or modify responses
-    See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+    See [Configure TPRM properties](tprm-properties-configure.md).
 
 -   **Document templates tab on the External assessments page**
 
-    The tab lists the requests for documents that the third-party contact should return. The information in the columns helps you to prioritize your work in following up with third-party contact. In particular, the state and percent complete values are key indicators. Select a name to view the details. For more information, see [Create a questionnaire or document request template](../../grc-vendor-risk/task/create-questionnaire-template.md) and [Create a questionnaire or document request template using the Designer](../../grc-vendor-risk/task/create-question-template.md).
+    The tab lists the requests for documents that the third-party contact should return. The information in the columns helps you to prioritize your work in following up with third-party contact. In particular, the state and percent complete values are key indicators. Select a name to view the details. For more information, see [Create a questionnaire or document request template](create-questionnaire-template.md) and [Create a questionnaire or document request template using the Designer](create-question-template.md).
 
 -   **Fourth-party templates tab on the External assessments page**
 
-    The tab lists the fourth-party questionnaires that the third-party contact will respond to. Select a name to view the details. For more information, see [Monitoring your fourth-nth parties](../../grc-vendor-risk/concept/tprm-monitor-fourth-parties.md).
+    The tab lists the fourth-party questionnaires that the third-party contact will respond to. Select a name to view the details. For more information, see [Monitoring your fourth-nth parties](tprm-monitor-fourth-parties.md).
 
 -   **Third-party risk areas tab on the External assessments page**
 
-    A risk domain defines the type of risk to assess for a third party. For example, you might want to assess a data-management third party in terms of security risk and a bank in terms of financial risk. Security risk and financial risk are risk domains. Some platform applications refer to risk domains as "risk areas." See [Define a third-party risk domain](../../grc-vendor-risk/task/tprm-risk-domain-define.md).
+    A risk domain defines the type of risk to assess for a third party. For example, you might want to assess a data-management third party in terms of security risk and a bank in terms of financial risk. Security risk and financial risk are risk domains. Some platform applications refer to risk domains as "risk areas." See [Define a third-party risk domain](tprm-risk-domain-define.md).
 
 -   **Issues tab on the External assessments page**
 
-    In an iterative process, before the TPR manager closes an assessment, the TPR manager can generate non-compliance issues and tasks. The TPR manager communicates with the TP contacts and engagement contacts by using comments to close the issues and tasks. The TPR manager can also assign different contacts as needed. See [Create an issue for a third party or engagement](../../grc-vendor-risk/task/tprm-ws-issue-create.md) and [Manage issues](../../grc-vendor-risk/task/tprm-ws-issue-manage.md).
+    In an iterative process, before the TPR manager closes an assessment, the TPR manager can generate non-compliance issues and tasks. The TPR manager communicates with the TP contacts and engagement contacts by using comments to close the issues and tasks. The TPR manager can also assign different contacts as needed. See [Create an issue for a third party or engagement](tprm-ws-issue-create.md) and [Manage issues](tprm-ws-issue-manage.md).
 
 -   **Tasks tab on the External assessments page**
 
-    In an iterative process, before the TPR manager closes an assessment, the TPR manager can generate non-compliance issues and tasks. The TPR manager communicates with the TP contacts and engagement contacts by using comments to close the issues and tasks. The TPR manager can also assign different contacts as needed. See [Create a task for a third party or engagement](../../grc-vendor-risk/task/tprm-ws-task-create.md) and [Manage a task for a third party or engagement](../../grc-vendor-risk/task/tprm-ws-task-manage.md).
+    In an iterative process, before the TPR manager closes an assessment, the TPR manager can generate non-compliance issues and tasks. The TPR manager communicates with the TP contacts and engagement contacts by using comments to close the issues and tasks. The TPR manager can also assign different contacts as needed. See [Create a task for a third party or engagement](tprm-ws-task-create.md) and [Manage a task for a third party or engagement](tprm-ws-task-manage.md).
 
 
--   **[Life cycle states of a external assessment](../../grc-vendor-risk/concept/tprm-external-assessment-lifecycle.md)**  
+-   **[Life cycle states of a external assessment](tprm-external-assessment-lifecycle.md)**  
 The process of collecting assessment data from a third party moves between several states. For example, during the **Submitted to third party** state, the third party responds to tasks, issues, and works to complete the questionnaires.
--   **[Assessment metric type form](../../grc-vendor-risk/reference/tprm-create-q-template-form.md)**  
+-   **[Assessment metric type form](tprm-create-q-template-form.md)**  
 Use the assessment metric type form to capture all the information that you need to create a questionnaire template using the Third-party Risk Management application. As a third-party risk admin, you can create a questionnaire template.
--   **[Create new external assessment template form](../../grc-vendor-risk/reference/create-assess-template-form.md)**  
+-   **[Create new external assessment template form](create-assess-template-form.md)**  
 Use the external assessment template form to capture all the information that you need to create an external assessment template. As a third-party risk manager, you can create an assessment template.
 -   **[Create New TPRM SAE questionnaire template form](../../grc-vendor-risk/reference/create-sae-q-template-form.md)**  
 Use the Create New TPRM questionnaire template form to capture all the information that you need to create a TPRM SAE questionnaire template using the Smart Assessment template designer. As a third-party risk admin, you can create a questionnaire template.
--   **[Third-party risk assessment form](../../grc-vendor-risk/reference/tprm-create-assessment-form.md)**  
+-   **[Third-party risk assessment form](tprm-create-assessment-form.md)**  
 Use the third-party risk assessment form to capture all the information that you need to create an assessment using the Third-party Risk Management application. As a third-party risk assessor or manager, you can create an external assessment.
 -   **[Third-party element form](tprm-tpe-form.md)**  
 Use the third-party element form to capture all the information that you need to create a third-party element record using the Third-party Risk Management application. As a third-party risk manager, third-party risk assessor, or due diligence request owner, you can create a third-party element record.
 
-**Parent Topic:**[Third-party Risk Management reference](../../grc-vendor-risk/concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 
 **Related topics**  
 
 
-[Life cycle states of a external assessment](../../grc-vendor-risk/concept/tprm-external-assessment-lifecycle.md)
+[Life cycle states of a external assessment](tprm-external-assessment-lifecycle.md)
 
-[Define a third-party risk domain](../../grc-vendor-risk/task/tprm-risk-domain-define.md)
+[Define a third-party risk domain](tprm-risk-domain-define.md)
 
-[Manage issues](../../grc-vendor-risk/task/tprm-ws-issue-manage.md)
+[Manage issues](tprm-ws-issue-manage.md)
 
-[Manage a task for a third party or engagement](../../grc-vendor-risk/task/tprm-ws-task-manage.md)
+[Manage a task for a third party or engagement](tprm-ws-task-manage.md)
 
-[Assessment metric type form](../../grc-vendor-risk/reference/tprm-create-q-template-form.md)
+[Assessment metric type form](tprm-create-q-template-form.md)
 
-[Third-party risk assessment form](../../grc-vendor-risk/reference/tprm-create-assessment-form.md)
+[Third-party risk assessment form](tprm-create-assessment-form.md)
 
 [Third-party element form](tprm-tpe-form.md)
 

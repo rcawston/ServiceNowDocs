@@ -27,7 +27,7 @@ With Employee Relations \(ER\), handle a sensitive complaint with tighter securi
 
 </td><td>
 
-[Reporting![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Use historical trends and data comparisons for Employee Relations to assess organizational performance.](../../../use/application-content-packs/concept/er-hr-par.md)
+[Reporting![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Use historical trends and data comparisons for Employee Relations to assess organizational performance.](er-hr-par.md)
 
 </td></tr><tr><td>
 

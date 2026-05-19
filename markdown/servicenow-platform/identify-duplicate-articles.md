@@ -45,5 +45,5 @@ The duplicate articles are resolved, improving content accuracy and reducing red
 **Related topics**  
 
 
-[Merge duplicate articles](../../knowledge-management/task/merge-duplicate-articles.md)
+[Merge duplicate articles](now-assist-in-knowledge-management/merge-duplicate-articles.md)
 

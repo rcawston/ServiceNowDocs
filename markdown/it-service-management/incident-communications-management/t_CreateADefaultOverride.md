@@ -27,7 +27,7 @@ The Default overrides related list is available only if you select **Default ove
 
 1.  Navigate to **All** &gt; **Incident Communications Management** &gt; **Contact Administration** &gt; **Contact Definitions**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 2.  Open the contact definition record.
 
@@ -83,12 +83,12 @@ The conditions defining whether the default override values are to be applied. I
     Default override and its conditions are defined for a contact definition.
 
 
-**Parent Topic:**[Incident Communications Management and Contacts](../concept/c_IncidentAlertContact.md)
+**Parent Topic:**[Incident Communications Management and Contacts](c_IncidentAlertContact.md)
 
 **Related topics**  
 
 
-[Responsibilities for Incident Communication Plan](../reference/r_ResponsibilitiesForIncidentAlerts.md)
+[Responsibilities for Incident Communication Plan](r_ResponsibilitiesForIncidentAlerts.md)
 
 [Define contact responsibilities](t_CreateAContactResponsibility.md)
 

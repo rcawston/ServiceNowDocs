@@ -197,7 +197,7 @@ Specifies the maximum number of records displayed in the feedback or product ide
 -   Location: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>For more information on components installed with Strategic Planning, see [Components installed with Strategic Planning Workspace](../../alignment-planner-workspace/reference/components-installed-with-alignment-planner-workspace.md).
+</table>For more information on components installed with Strategic Planning, see [Components installed with Strategic Planning Workspace](../scenario-planning-in-spw/components-installed-with-alignment-planner-workspace.md).
 
 **Parent Topic:**[Feedback reference](product-feedback-reference.md)
 

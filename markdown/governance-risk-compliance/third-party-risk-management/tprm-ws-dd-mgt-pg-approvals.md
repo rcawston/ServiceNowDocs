@@ -46,7 +46,7 @@ Select the **State** value for a request to view the **Details** tab for the req
 
 ![Viewing approval levels.](../image/tprm-ws-dd-mgt-approval-levels-tab.png)
 
-**Note:** For more information on how Third-party risk \(TPR\) admins can set approval levels and rules, see [Set up the approval levels for due diligence requests](../task/tprm-set-request-approval-levels.md) and [Set up the approval rules for due diligence requests](../task/tprm-set-request-approval-rules.md).
+**Note:** For more information on how Third-party risk \(TPR\) admins can set approval levels and rules, see [Set up the approval levels for due diligence requests](tprm-set-request-approval-levels.md) and [Set up the approval rules for due diligence requests](tprm-set-request-approval-rules.md).
 
 ## Approval business rules
 
@@ -63,16 +63,16 @@ The following business rules are included when the Third-party Risk Due Diligenc
 -   **[Approval rule form](tprm-ar-form.md)**  
 The approval rule form captures all the information needed to create an approval rule. An admin or third-party risk admin can create an approval rule.
 
-**Parent Topic:**[Third-party Risk Management reference](../../grc-vendor-risk/concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 
 **Related topics**  
 
 
-[Approving or rejecting requests for due diligence](../../grc-vendor-risk/concept/tprm-approving.md)
+[Approving or rejecting requests for due diligence](tprm-approving.md)
 
-[Set up the approval levels for due diligence requests](../task/tprm-set-request-approval-levels.md)
+[Set up the approval levels for due diligence requests](tprm-set-request-approval-levels.md)
 
-[Set up the approval rules for due diligence requests](../task/tprm-set-request-approval-rules.md)
+[Set up the approval rules for due diligence requests](tprm-set-request-approval-rules.md)
 
 [Approval rule form](tprm-ar-form.md)
 

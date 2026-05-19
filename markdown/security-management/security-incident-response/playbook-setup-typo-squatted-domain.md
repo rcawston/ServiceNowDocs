@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Typo Squatted Domain playbook.](../image/playbook-typo-squatted-trigger.png)
 
 
-**Parent Topic:**[Playbook for Typo Squatted Domain](../concept/playbook-typo-squatted-domain.md)
+**Parent Topic:**[Playbook for Typo Squatted Domain](playbook-typo-squatted-domain.md)
 

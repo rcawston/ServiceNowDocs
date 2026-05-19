@@ -49,5 +49,5 @@ The following components are installed with installation of the Strategic Planni
 -   Roles
 -   Tables
 
-See [Components installed with Strategic Planning Workspace](../reference/components-installed-with-alignment-planner-workspace.md) for more information.
+See [Components installed with Strategic Planning Workspace](components-installed-with-alignment-planner-workspace.md) for more information.
 

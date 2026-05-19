@@ -19,7 +19,7 @@ Use encryption modules to set field-level security in article templates and disp
 
 Role required: security\_admin
 
-**Note:** Use Knowledge blocks to restrict the content within the same field. For more information, see [Knowledge blocks](../concept/knowledge-blocks.md).
+**Note:** Use Knowledge blocks to restrict the content within the same field. For more information, see [Knowledge blocks](knowledge-blocks.md).
 
 ## Procedure
 
@@ -103,7 +103,7 @@ Method
 
 Depending on their role permissions defined for the encrypted field, users can view the field on the article template.
 
-**Parent Topic:**[Configure knowledge article templates](../concept/configure-knowledge-article-templates.md)
+**Parent Topic:**[Configure knowledge article templates](configure-knowledge-article-templates.md)
 
 **Related topics**  
 

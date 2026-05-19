@@ -33,7 +33,7 @@ Status
 
 </th></tr></thead><tbody><tr><td>
 
-[Zing text indexing and search engine](../concept/c_ZingTextSearch.md)
+[Zing text indexing and search engine](c_ZingTextSearch.md)
 
 </td><td>
 
@@ -41,9 +41,9 @@ Index and search record data by table.
 
 </td><td>
 
--   [Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#)
--   [Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
--   [Zing can include attachments in search results](../concept/c_SearchingForAttachments.md)
+-   [Configure a table for indexing and searching](configure-single-table-for-indexing.md#)
+-   [Zing can expand search results with synonyms](search-synonyms-expand-results.md)
+-   [Zing can include attachments in search results](c_SearchingForAttachments.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Active
 
 </td></tr><tr><td>
 
-[Contextual search](../../contextual-search/concept/c_ContextualSearch.md)
+[Contextual search](../contextual-search/c_ContextualSearch.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Display search results on forms and record producers when users enter text in a 
 
 </td><td>
 
-[Define a search context](../../contextual-search/task/t_DefineSearchContext.md)
+[Define a search context](../contextual-search/t_DefineSearchContext.md)
 
 </td><td>
 

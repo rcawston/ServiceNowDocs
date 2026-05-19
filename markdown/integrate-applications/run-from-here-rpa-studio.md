@@ -26,5 +26,5 @@ Role required: none
 2.  Select **Run From Here**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

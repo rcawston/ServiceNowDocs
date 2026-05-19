@@ -31,7 +31,7 @@ Role required: pps\_admin
 
 4.  On the Widget Association form, fill in the fields.
 
-    For a description of the field names, see [Widget Association form](../reference/widget-association-form.md).
+    For a description of the field names, see [Widget Association form](widget-association-form.md).
 
 
 **Parent Topic:**[Configure a widget for the financial metrics of a demand](configure-widget-demand-financials.md)

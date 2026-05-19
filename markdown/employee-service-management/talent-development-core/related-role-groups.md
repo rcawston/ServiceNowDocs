@@ -83,7 +83,7 @@ The default value of the **From role group** field is the selected role group.
 
 A new relation between two role groups is created.
 
-**Parent Topic:**[Working with job architecture](../concept/job-architecture-working.md)
+**Parent Topic:**[Working with job architecture](job-architecture-working.md)
 
 **Related topics**  
 

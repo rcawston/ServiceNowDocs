@@ -62,7 +62,7 @@ When an asset that is a parent to other assets is added to a pallet, all its chi
 
     The assets that you added to the pallet are added to the list shown in the Assets tab. The state, substate, location, stockroom, aisle, and space details of the assets are synced with the pallet.
 
-    **Note:** Only the substate of pre-allocated assets isn't synced with the pallet. For more information, see [Create pre-allocated assets](../../asset-management/task/t_CreatingPreAllocatedAssets.md#).
+    **Note:** Only the substate of pre-allocated assets isn't synced with the pallet. For more information, see [Create pre-allocated assets](../asset-management/t_CreatingPreAllocatedAssets.md#).
 
 6.  Add consumable assets to the pallet.
 
@@ -77,7 +77,7 @@ When an asset that is a parent to other assets is added to a pallet, all its chi
     The consumable asset that you added to the pallet is added to the list shown in the Assets tab.
 
 
-**Parent Topic:**[Manage your inventory through pallet assets](../concept/pallets-for-inventory-management.md)
+**Parent Topic:**[Manage your inventory through pallet assets](pallets-for-inventory-management.md)
 
 **Related topics**  
 
@@ -88,5 +88,5 @@ When an asset that is a parent to other assets is added to a pallet, all its chi
 
 [Delete pallet assets](delete-pallet-assets.md)
 
-[Using pallet assets for managing inventory](../concept/using-pallet-assets-for-inventory-mgmt.md)
+[Using pallet assets for managing inventory](using-pallet-assets-for-inventory-mgmt.md)
 

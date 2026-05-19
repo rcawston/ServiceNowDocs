@@ -72,5 +72,5 @@ Active
 Option for making the template available for use. A template must be active to be used.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal Task reference](../concept/universal-task-reference.md)
+</table>**Parent Topic:**[Universal Task reference](universal-task-reference.md)
 

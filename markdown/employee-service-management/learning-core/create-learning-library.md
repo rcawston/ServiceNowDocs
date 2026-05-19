@@ -27,7 +27,7 @@ Role required: sn\_lc.catalog\_manager, sn\_lc.catalog\_group\_manager
 
 3.  On the Learning library form, fill in the fields.
 
-    For a description of the field values, see [Learning library form](../reference/learning-library-form_0.md).
+    For a description of the field values, see [Learning library form](learning-library-form_0.md).
 
 4.  Select **Submit**.
 
@@ -54,11 +54,11 @@ You can add applicable users to a learning library.
 
 [Create user achievements](create-user-achievements.md)
 
-[Create an achievement rule](../task/create-achievement-rule.md)
+[Create an achievement rule](create-achievement-rule.md)
 
-[Create an achievement rule item](../task/achievement-rule-item.md)
+[Create an achievement rule item](achievement-rule-item.md)
 
-[Learning library form](../reference/learning-library-form_0.md)
+[Learning library form](learning-library-form_0.md)
 
 [Add course items to learning library](add-learning-library-course-items.md)
 

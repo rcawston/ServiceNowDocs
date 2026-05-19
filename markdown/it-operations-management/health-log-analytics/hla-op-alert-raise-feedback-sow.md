@@ -44,5 +44,5 @@ Selecting the Raise feedback option raises the threshold for generating alerts w
     2.  Confirm the action in the dialog box.
 
 
-**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](../concept/hla-op-alert-significance.md)
+**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](hla-op-alert-significance.md)
 

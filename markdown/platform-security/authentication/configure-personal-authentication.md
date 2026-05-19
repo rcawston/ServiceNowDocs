@@ -35,7 +35,7 @@ For information to generate the initial token for a user, who doesn’t have acc
 
 2.  Navigate to **Connection &amp; Credentials Aliases**, and create a connection alias.
 
-    This alias is used in the REST steps. For more information, see [Create a Connection &amp; Credential alias](../../../product/credentials/task/connection-alias.md).
+    This alias is used in the REST steps. For more information, see [Create a Connection &amp; Credential alias](../connections-and-credentials/connection-alias.md).
 
 3.  Navigate to **HTTP\(s\) Connection**, and update the external end-point details for the connection record created in the previous step.
 

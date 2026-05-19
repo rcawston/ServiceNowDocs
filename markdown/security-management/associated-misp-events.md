@@ -62,22 +62,22 @@ Automatic Event Creation Profile
 Event creation profile that is used to create the automatic event.Click the profile to view the Automatic MISP Event Creation Profile.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[MISP administration](../concept/misp-administration.md)
+</table>**Parent Topic:**[MISP administration](misp-administration.md)
 
 **Related topics**  
 
 
 [Getting started with MISP integration for Security Operations](get-started-with-misp-integration-for-security-operations.md)
 
-[Install and configure the MISP integration for Security Operations](../task/install-and-configure-misp.md)
+[Install and configure the MISP integration for Security Operations](install-and-configure-misp.md)
 
-[Review the MISP integration settings](../task/review-the-misp-integration-settings.md)
+[Review the MISP integration settings](review-the-misp-integration-settings.md)
 
-[Configure MISP sighting searches](../task/configure-sightings-search.md)
+[Configure MISP sighting searches](configure-sightings-search.md)
 
-[Configure how an automatic event is created](../task/configure-automatic-event-creation-profile.md#)
+[Configure how an automatic event is created](configure-automatic-event-creation-profile.md#)
 
-[MISP event data](../concept/misp-event-data.md)
+[MISP event data](misp-event-data.md)
 
 [MISP user information](misp-user-information.md)
 

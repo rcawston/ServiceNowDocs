@@ -43,7 +43,7 @@ To edit the minimum and maximum values for a question that has the Template data
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 
 [Create an assessment metric for a category](t_CreateAMetric.md)
 

@@ -88,5 +88,5 @@ The Lucidchart external content connector is updated with your modified crawl se
 
 To retrieve content from your Lucidchart source system using your modified crawl settings, create and run a one-time content crawl for your Lucidchart external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Lucidchart external content connector](../concept/lucidchart-external-content-connector.md)
+**Parent Topic:**[Lucidchart external content connector](lucidchart-external-content-connector.md)
 

@@ -535,9 +535,9 @@ Sync script Notification
 A notification is sent to the administrator if changes were made to Indoor Mapping map data objects and the synchronization script is not run. The notification reminds the administrator that the data might not be in synchronized and that the synchronization process must be run.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+</table>**Parent Topic:**[Indoor Mapping references](indoor-mapping-references.md)
 
-**Previous topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+**Previous topic:**[Indoor Mapping references](indoor-mapping-references.md)
 
 **Next topic:**[Indoor Mapping terminology](indoor-mapping-common-terminology.md)
 

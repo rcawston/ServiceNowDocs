@@ -249,7 +249,7 @@ Complete the KB curation configuration form to define the scheduled jobs for dem
 **Related topics**  
 
 
-[Predictive Intelligence for Knowledge Management](../concept/predictive-intelligence-for-km.md)
+[Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md)
 
 [Create and train a similarity solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-similarity-solution.md)
 

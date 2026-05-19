@@ -51,14 +51,14 @@ Role required: admin
     **Important:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
 
-**Parent Topic:**[Configure Workplace Core](../concept/configure-wsd.md)
+**Parent Topic:**[Configure Workplace Core](configure-wsd.md)
 
 **Related topics**  
 
 
 [Install Workplace Core](install-workplace-service-delivery.md)
 
-[Providing your workplace data](../concept/providing-your-workplace-data-wsd.md)
+[Providing your workplace data](providing-your-workplace-data-wsd.md)
 
-[Configuring spreadsheets to import workplace data](../concept/importing-workspace-data-wsd.md#)
+[Configuring spreadsheets to import workplace data](importing-workspace-data-wsd.md#)
 

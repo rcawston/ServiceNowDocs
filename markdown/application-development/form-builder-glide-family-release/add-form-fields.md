@@ -17,13 +17,13 @@ Visually add and arrange fields within a form layout to create a form that match
 
 ## Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](../concept/accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](../concept/form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](../concept/fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-**Note:** To understand how to approach customizing your forms, review [Table Builder workflow and navigation](../concept/form-builder-workflow.md).
+**Note:** To understand how to approach customizing your forms, review [Table Builder workflow and navigation](form-builder-workflow.md).
 
-Role required: personalize\_form or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_form or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -75,7 +75,7 @@ Action
 3.  In the **Column name** field, enter the internal name for the field.
 4.  Select the type of field from the **Type** list.
 
-To set additional properties for the field that you are creating, click **Advanced settings**. For information on field types and advanced settings, see [Field configuration in Table Builder](../reference/field-parameters.md).
+To set additional properties for the field that you are creating, click **Advanced settings**. For information on field types and advanced settings, see [Field configuration in Table Builder](field-parameters.md).
 
 5.  To add the new field to the table, click **Add**.
 
@@ -97,5 +97,5 @@ The new field is displayed at the top of the Fields list and can be dragged onto
 </table>5.  Select **Save**.
 
 
-**Parent Topic:**[Forms in Table Builder](../concept/form-view-configuration.md)
+**Parent Topic:**[Forms in Table Builder](form-view-configuration.md)
 

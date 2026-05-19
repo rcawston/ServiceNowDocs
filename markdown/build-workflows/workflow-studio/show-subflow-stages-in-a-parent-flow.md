@@ -17,7 +17,7 @@ Show subflow stages as part of the execution details of a parent flow.
 
 ## Before you begin
 
-This task assumes that you are familiar with flow and subflow stages, stage fields, and stage sets. For more information about stages, see [Flow and subflow stages](../concept/flow-designer-stages.md).
+This task assumes that you are familiar with flow and subflow stages, stage fields, and stage sets. For more information about stages, see [Flow and subflow stages](flow-designer-stages.md).
 
 Role required: flow\_designer or admin
 
@@ -48,5 +48,5 @@ Role required: flow\_designer or admin
     For example, add the Manager Approval and Completed stages to the parent flow.
 
 
-**Parent Topic:**[Flow and subflow stages](../concept/flow-designer-stages.md)
+**Parent Topic:**[Flow and subflow stages](flow-designer-stages.md)
 

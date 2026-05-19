@@ -57,9 +57,9 @@ Use the Import Builder to configure the account onboarding data import task.
 
 ## What to do next
 
-Add this newly created activity definition in the Process Automation Designer and follow the instructions in [Add the data import task](../concept/account-lifecycle-add-data-import.md) section to create an onboarding playbook task.
+Add this newly created activity definition in the Process Automation Designer and follow the instructions in [Add the data import task](account-lifecycle-add-data-import.md) section to create an onboarding playbook task.
 
 .
 
-**Parent Topic:**[Data capture and validation](../concept/account-lifecycle-use-playbook-data-capture.md)
+**Parent Topic:**[Data capture and validation](account-lifecycle-use-playbook-data-capture.md)
 

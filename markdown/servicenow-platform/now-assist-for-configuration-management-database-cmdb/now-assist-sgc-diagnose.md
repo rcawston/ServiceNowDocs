@@ -133,7 +133,7 @@ Select the copy to clipboard icon ![](../image/icon-clipboard.png) to use the co
 </table>**Related topics**  
 
 
-[CMDB Workspace store app](../concept/cmdb-workspace.md)
+[CMDB Workspace store app](../configuration-management-database-cmdb/cmdb-workspace.md)
 
-[Service Graph Workspace store app](../concept/sg-workspace.md)
+[Service Graph Workspace store app](../configuration-management-database-cmdb/sg-workspace.md)
 

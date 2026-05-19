@@ -117,5 +117,5 @@ To calculate the product adoption score for two or more products, you can config
 
 ## What to do next
 
-After defining the segments and segment configurations, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md) for details.
+After defining the segments and segment configurations, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](account-lifecycle-define-context-engine-mapper.md) for details.
 

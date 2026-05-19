@@ -21,16 +21,16 @@ For example, to identify messages associated with VPN questions, add the hashtag
 
 -   **[Tag messages](c_TagMessages.md)**  
 To tag a keyword or topic in a message, enter a \# symbol before the word. A link to the hashtag is added beneath the message and all feed users can search and filter by the hashtag to find the message.
--   **[View an available hashtag](../task/t_ViewAnAvailableHashtag.md)**  
+-   **[View an available hashtag](t_ViewAnAvailableHashtag.md)**  
 View a hashtag from any feed.
--   **[Change a hashtag name and merge a hashtag](../task/t_ChngHTNameMergeHT.md)**  
+-   **[Change a hashtag name and merge a hashtag](t_ChngHTNameMergeHT.md)**  
 Over time, users may create many hashtags with similar names, such as competitive, competitor, and competition. To combine hashtags for better searching and filtering, change the names of similar hashtags to a standard name.
--   **[Add an image to a hashtag](../task/t_AddAnImageToAHashtag.md)**  
+-   **[Add an image to a hashtag](t_AddAnImageToAHashtag.md)**  
 You can add an image at the domain level of already defined hashtags if you have the admin role.
--   **[Follow and unfollow a hashtag](../task/t_FollowAndUnfollowAHashtag.md)**  
+-   **[Follow and unfollow a hashtag](t_FollowAndUnfollowAHashtag.md)**  
 You can view all postings assigned a specific hashtag by following the hashtag. You can also unfollow the hashtag if you no longer want to view those postings.
--   **[Remove a hashtag from a posted message](../task/t_RemoveAHashtagFromAPostedMessage.md)**  
+-   **[Remove a hashtag from a posted message](t_RemoveAHashtagFromAPostedMessage.md)**  
 As a participant in a conversation, you can remove hashtags from messages that have already been posted.
 
-**Parent Topic:**[Manage people and work capabilities](../../../administer/general/concept/manage-people.md)
+**Parent Topic:**[Manage people and work capabilities](../manage-people.md)
 

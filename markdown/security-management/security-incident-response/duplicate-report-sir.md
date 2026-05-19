@@ -44,5 +44,5 @@ The contents of the selected template are duplicated and copy of the selected te
 
 [Edit a report template in Security Incident Response](edit-template-sir.md)
 
-**Parent Topic:**[Configure report templates in Security Incident Response](../concept/daily-status-sir.md)
+**Parent Topic:**[Configure report templates in Security Incident Response](daily-status-sir.md)
 

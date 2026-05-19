@@ -193,5 +193,5 @@ Option to select when the recipients are from more than 2 tables. These are dyna
     All the validation messages given by different providers are retained. Warning messages of one provider is not overridden by warning messages of another provider.
 
 
-**Parent Topic:**[Using Conversational Integration with WhatsApp \(powered by Twilio\)](../../virtual-agent/concept/messg-whatsapp-using.md)
+**Parent Topic:**[Using Conversational Integration with WhatsApp \(powered by Twilio\)](messg-whatsapp-using.md)
 

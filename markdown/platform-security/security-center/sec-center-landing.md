@@ -31,11 +31,11 @@ Use information in the Posture section to set and maintain the best security pos
 
 ## Access management
 
-View access issues and misconfiguration on your instance. You can information about access findings and evaluate permissions for users, roles, and groups. You can also review additional resources to learn about user administration on ServiceNow instances. To learn more, see [Explore Access management console](access-controls-console.md).
+View access issues and misconfiguration on your instance. You can information about access findings and evaluate permissions for users, roles, and groups. You can also review additional resources to learn about user administration on ServiceNow instances. To learn more, see [Explore Access management console](../access-control/access-controls-console.md).
 
 ## Machine identity
 
-Manage service accounts and third-party integrations. To learn more, see [Machine Identity Console](../../../integrate/machine-identity/concept/machine-identity-console.md).
+Manage service accounts and third-party integrations. To learn more, see [Machine Identity Console](../identity/machine-identity-console.md).
 
 ## Other configuration tools
 

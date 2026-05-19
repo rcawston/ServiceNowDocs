@@ -47,7 +47,7 @@ Action
 
 </td><td>
 
-Create a job requisition by answering the prompts, which are used to fill the Job requisition form.For a description of the field values, see [Job requisition form](../reference/new-job-form.md).
+Create a job requisition by answering the prompts, which are used to fill the Job requisition form.For a description of the field values, see [Job requisition form](../recruitment-workspace/new-job-form.md).
 
 </td></tr><tr><td id="d413319e170">
 
@@ -65,7 +65,7 @@ Duplicate an existing job requisition by selecting it from the provided list.**I
 
 A new job requisition is created.
 
-**Note:** When a job request is created by a hiring manager, the recruiter can see the open request on the overview page of the Recruitment workspace. For more information, see [Get overview of recruitment workload](../concept/recruitment-workspace-oveview.md).
+**Note:** When a job request is created by a hiring manager, the recruiter can see the open request on the overview page of the Recruitment workspace. For more information, see [Get overview of recruitment workload](../recruitment-workspace/recruitment-workspace-oveview.md).
 
 **Parent Topic:**[Create a job requisition as a hiring manager](request-req-hm.md)
 

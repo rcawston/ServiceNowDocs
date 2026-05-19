@@ -24,7 +24,7 @@ After the agent completes the work, send customers a survey link to gather feedb
 **Related topics**  
 
 
-[Activate Field Service Management Customer Experience](Configuring-cust-exp.md#)
+[Activate Field Service Management Customer Experience](work-order-management/Configuring-cust-exp.md#)
 
-[Customer or Consumer Service Portal](use-customer-experience.md)
+[Customer or Consumer Service Portal](customer-experience-for-field-service-management/use-customer-experience.md)
 

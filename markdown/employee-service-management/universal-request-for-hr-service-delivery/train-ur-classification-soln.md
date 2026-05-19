@@ -38,5 +38,5 @@ Set the **Enable universal request auto categorization** property to true by nav
     For more information about the Classification Definition form fields, see [Create and train classification solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md).
 
 
-**Parent Topic:**[Predictive Intelligence for Universal Request](../concept/predictive-intelligence-ur.md)
+**Parent Topic:**[Predictive Intelligence for Universal Request](predictive-intelligence-ur.md)
 

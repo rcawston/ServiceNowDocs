@@ -21,7 +21,7 @@ Role required: none
 
 For example, in an assisted automation, a component could evaluate a user input and show a message `Incorrect Date of Birth` through the Show component.
 
-You can configure the properties for the Show component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Show component. For more information about these properties, see [Properties of the General components](Properties-general-components.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ You can configure the properties for the Show component. For more information ab
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

@@ -101,7 +101,7 @@ The privacy assessment legal request that was part of Legal Request Management h
     9.  Select **Update**.
 
 
-**Parent Topic:**[Configure Legal Simple Privacy](../concept/setting-up-legal-simple-privacy.md)
+**Parent Topic:**[Configure Legal Simple Privacy](setting-up-legal-simple-privacy.md)
 
 **Related topics**  
 

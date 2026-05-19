@@ -28,5 +28,5 @@ Create a learning library that includes learning content from internal and exter
 -   **[Create a learning task](ln-task-le.md)**  
 Assign a learning task to an employee that can be completed from the To-dos page in Employee Center.
 
-**Parent Topic:**[Learning Core](../concept/learning-core_overview.md)
+**Parent Topic:**[Learning Core](learning-core_overview.md)
 

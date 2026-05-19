@@ -30,9 +30,9 @@ When using a workflow to manage task assignments, add a brief [Timer workflow ac
 
 [Precedence between data lookup, assignment, and business rules](c_PrecBetweenAssignmentAndBusRules.md)
 
-[Baseline assignment rules example](../reference/r_BaselineAssignmentRulesExample.md)
+[Baseline assignment rules example](r_BaselineAssignmentRulesExample.md)
 
-[Create an assignment rule](../task/t_AssignmentModuleRule.md)
+[Create an assignment rule](t_AssignmentModuleRule.md)
 
-[Create an assignment data lookup rule](../task/t_DataLookupRule.md)
+[Create an assignment data lookup rule](t_DataLookupRule.md)
 

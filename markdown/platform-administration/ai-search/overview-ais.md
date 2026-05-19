@@ -50,5 +50,5 @@ Watch this short video to see how users can find answers using AI Search.
 
 ## Extend AI Search with apps from the ServiceNow® Store
 
-Analyze trends for search query traffic, review indexed record counts and configuration settings, and preview search query results with [Advanced AI Search Management Tools](../../../use/dashboards/application-content-packs/adv-ais-mgmt-tools-content-pack.md).
+Analyze trends for search query traffic, review indexed record counts and configuration settings, and preview search query results with [Advanced AI Search Management Tools](adv-ais-mgmt-tools-content-pack.md).
 

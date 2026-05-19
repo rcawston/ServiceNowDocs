@@ -41,10 +41,10 @@ The document and contract life-cycle value pairs represent the overall life cycl
     -   **Expired**: Date-limited material such as contracts that are past their expiration date.
     -   **Retired**: Materials that are no longer needed by the organization.
 
-**Parent Topic:**[Life cycle of document and contract entities](../concept/csdm-lifecycle-document.md)
+**Parent Topic:**[Life cycle of document and contract entities](csdm-lifecycle-document.md)
 
 **Related topics**  
 
 
-[Life cycle of document and contract entities](../concept/csdm-lifecycle-document.md)
+[Life cycle of document and contract entities](csdm-lifecycle-document.md)
 

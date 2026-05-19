@@ -90,5 +90,5 @@ Accounts Payable specialist uses the organization tax table to view the supplier
 
 [Approval Plan form](approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

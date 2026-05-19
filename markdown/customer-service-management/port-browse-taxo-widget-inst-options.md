@@ -126,7 +126,7 @@ The Catalog Order Guide page that opens when the catalog order guide is accessed
 </table>**Related topics**  
 
 
-[Portal Browse Taxonomy widget](../concept/browse-taxo-widget.md)
+[Portal Browse Taxonomy widget](customer-self-service-and-omnichannel-engagement/browse-taxo-widget.md)
 
-[Add and configure the Portal Browse Taxonomy widget](../task/config-portal-browse-taxo-widget.md)
+[Add and configure the Portal Browse Taxonomy widget](customer-self-service-and-omnichannel-engagement/config-portal-browse-taxo-widget.md)
 

@@ -23,7 +23,7 @@ The UFX Add on Event mapping form to configure the display of declarative action
 |Source component|The component where the button will appear. For example, the Action bar.|
 |Controller|A controller that handles the target event. For example, Form.|
 
-**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
 
 **Related topics**  
 
@@ -52,7 +52,7 @@ The UFX Add on Event mapping form to configure the display of declarative action
 
 [Obligation Management notifications](cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](contract-management-pro-glossary.md#)
 
 [Contract Management solutions](cmpro-cml-feature-compare.md)
 

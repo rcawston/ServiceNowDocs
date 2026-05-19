@@ -25,5 +25,5 @@ Configure a knowledge base so that guest users can publish the knowledge base ar
 **Related topics**  
 
 
-[Install Finance Case Management](../task/install-fin-case-mgmt.md)
+[Install Finance Case Management](install-fin-case-mgmt.md)
 

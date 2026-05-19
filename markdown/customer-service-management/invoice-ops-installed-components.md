@@ -335,8 +335,8 @@ Invoice cases include the following related lists:
 
 For more information, see the following topics:
 
--   [Invoice case form](../reference/invoice-case-form.md)
--   [Invoice case line form](../reference/invoice-case-lines-form.md)
+-   [Invoice case form](invoice-case-form.md)
+-   [Invoice case line form](invoice-case-lines-form.md)
 
 ## Invoice case archive rules
 

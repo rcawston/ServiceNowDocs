@@ -15,7 +15,7 @@ Configure internal wrap-up codes that agents use to categorize email interaction
 
 ## Before you begin
 
-Default wrap-up codes are read-only. The system uses ACLs to restrict list-edit operations and data policies to restrict edits in form view. You can’t configure multiple default wrap-up codes for different use cases. For more information on wrap-up codes, see [Wrap-up codes for email interactions](../reference/wrap-up-codes-email-interactions-r.md).
+Default wrap-up codes are read-only. The system uses ACLs to restrict list-edit operations and data policies to restrict edits in form view. You can’t configure multiple default wrap-up codes for different use cases. For more information on wrap-up codes, see [Wrap-up codes for email interactions](wrap-up-codes-email-interactions-r.md).
 
 Role required: admin
 

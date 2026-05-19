@@ -30,5 +30,5 @@ Configure policies with the necessary level of permissions to provide access to 
     -   [Google Cloud Platform Load Balancer Out Of Box permissions](gcp-load-balancer-oob-permissions.md)
     -   [CSC GCP Windows OOB permissions](gcp-windows-oob-permissions.md)
 
-**Parent Topic:**[Cloud Services Catalog administration guide](../concept/cloud-services-catalog-administration-guide.md)
+**Parent Topic:**[Cloud Services Catalog administration guide](cloud-services-catalog-administration-guide.md)
 

@@ -50,9 +50,9 @@ Role required: admin or sp\_admin
 5.  Click **Update**.
 
 
--   **[Access Management Automation](../concept/access-management.md)**  
+-   **[Access Management Automation](access-management.md)**  
 Automate access management request fulfillment using the Service Catalog or Service Portal. The catalog items and flows support requests in Okta, Microsoft Entra ID \(formerly Microsoft Entra ID\), and Microsoft Active Directory.
--   **[Cloud Deployment Automation](../../../administer/integrationhub-store-spokes/concept/cloud-dep-auto.md)**  
+-   **[Cloud Deployment Automation](cloud-dep-auto.md)**  
 Automates the deployment and provisioning of the AWS CloudFormation services using Service Catalog or Service Portal.
 
 **Parent Topic:**[Create a portal](create-a-portal.md)

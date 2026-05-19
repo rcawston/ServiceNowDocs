@@ -27,9 +27,9 @@ To use the Document Templates application for filling, signing, and approving a 
 
 1.  Configure a document template by defining participants, defining tasks for participants, and inserting signatures. For configuring PDF document templates, see [Document Templates of type PDF \(Advanced forms\)](document-templates-PDF-flow.md), and for configuring HTML document templates, see [Document Templates of type HTML](document-templates-flow-html.md).
 2.  Associate the document template to an HR case template.
-3.  Add the HR case template while you [Configure an HR service](../task/configure-hr-service.md).
+3.  Add the HR case template while you [Configure an HR service](configure-hr-service.md).
 4.  Create a case under the configured HR service.
-5.  Generate document tasks manually or automatically, see [Document tasks generation](../task/task-mapped-participants.md). Participants receive document tasks for filling, signing, and reviewing a document. When the document tasks of all the participants are complete, the final document is added as an attachment to the case.
+5.  Generate document tasks manually or automatically, see [Document tasks generation](task-mapped-participants.md). Participants receive document tasks for filling, signing, and reviewing a document. When the document tasks of all the participants are complete, the final document is added as an attachment to the case.
 
 End to end flow for document tasks 
 
@@ -42,7 +42,7 @@ To use the Document Templates application for generating a PDF document, perform
     **Note:** Defining participants and inserting signatures is not required if you want to use Document Templates only for generating documents.
 
 2.  Associate the document template to an HR case template.
-3.  Add the HR case template while you [Configure an HR service](../task/configure-hr-service.md).
+3.  Add the HR case template while you [Configure an HR service](configure-hr-service.md).
 4.  Create a case under the configured HR service.
 5.  Click **Preview document**.
 6.  If you want to modify the content in the document template, click **Edit**.
@@ -51,7 +51,7 @@ To use the Document Templates application for generating a PDF document, perform
 
 7.  To generate a PDF copy of the document template, click Re**generate**.
 
--   **[Document tasks generation](../task/task-mapped-participants.md)**  
+-   **[Document tasks generation](task-mapped-participants.md)**  
 Document tasks can be generated either automatically or manually. The tasks get generated in the order defined for the participants.
 
 **Parent Topic:**[Using Document Templates](using-doc-templates.md)
@@ -59,9 +59,9 @@ Document tasks can be generated either automatically or manually. The tasks get 
 **Related topics**  
 
 
-[Using Document Templates: Custom use case](../task/doc-temp-gen.md)
+[Using Document Templates: Custom use case](doc-temp-gen.md)
 
-[Working on a document task](../task/work-doctemp-tasks.md)
+[Working on a document task](work-doctemp-tasks.md)
 
-[Using Guided Tours in Document Templates](../task/guided-tours-doc-temp.md)
+[Using Guided Tours in Document Templates](guided-tours-doc-temp.md)
 

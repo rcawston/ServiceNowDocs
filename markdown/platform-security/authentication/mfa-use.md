@@ -43,7 +43,7 @@ You can use authenticator apps to use a second factor of authentication.
 
 </td><td>
 
-If your administrator has enabled multi-factor authentication \(MFA\) on your instance, you are prompted for a second authentication after entering your user name and password. For details on the MFA login process, see [Log in with Multi-factor Authentication](../task/t_LogOnWithMultifactorAuth.md).
+If your administrator has enabled multi-factor authentication \(MFA\) on your instance, you are prompted for a second authentication after entering your user name and password. For details on the MFA login process, see [Log in with Multi-factor Authentication](t_LogOnWithMultifactorAuth.md).
 
 </td></tr><tr><td>
 
@@ -54,7 +54,7 @@ Enter the code displayed on your authenticator app to login.
 
 </td><td>
 
-If you haven't configured a second form of authentication, you will see a configuration page after logging in to guide you through the process of setting up an authentication app. For details on this setup, see [Set up Multi-factor authentication for the first time](../task/t_SetUpMultiFactorAuthUponLogin.md).
+If you haven't configured a second form of authentication, you will see a configuration page after logging in to guide you through the process of setting up an authentication app. For details on this setup, see [Set up Multi-factor authentication for the first time](t_SetUpMultiFactorAuthUponLogin.md).
 
 ![Authenticator](../images/auth-app.png)
 
@@ -67,7 +67,7 @@ After you've configured an authentication app, you can register other methods fo
 
 -   **Biometric authenticators**
 
-You can use biometric authenticators like fingerprint or facial recognition as your second MFA authentication. If your administrator allows this option, you can configure biometric authenticators using the steps in [Register a biometric authenticator](../task/mfa-setup-bio-auth.md).
+You can use biometric authenticators like fingerprint or facial recognition as your second MFA authentication. If your administrator allows this option, you can configure biometric authenticators using the steps in [Register a biometric authenticator](mfa-setup-bio-auth.md).
 
 
 </td><td>
@@ -78,7 +78,7 @@ You can use biometric authenticators like fingerprint or facial recognition as y
 
 -   **Hardware key authenticators**
 
-Hardware keys are physical security devices you can use for authentication. You can register a hardware device for use with your instance using the steps in [Register a hardware security key](../task/mfa-setup-hardware-key-auth.md).
+Hardware keys are physical security devices you can use for authentication. You can register a hardware device for use with your instance using the steps in [Register a hardware security key](mfa-setup-hardware-key-auth.md).
 
 
 </td><td>

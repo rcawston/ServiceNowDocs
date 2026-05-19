@@ -90,7 +90,7 @@ Select **Open playbook** in the email notification that you receive after the me
 
 5.  Select **Submit**.
 
-    The reviewed metadata is added to the contract repository fields and the **Extracted results** tab opens on the contract repository record. For more information, see [Metadata extraction results](../reference/cncore-metadata-ext-results.md).
+    The reviewed metadata is added to the contract repository fields and the **Extracted results** tab opens on the contract repository record. For more information, see [Metadata extraction results](cncore-metadata-ext-results.md).
 
 6.  Select the **Playbook** tab.
 
@@ -123,9 +123,9 @@ The contract reminder date is saved, and configured users will receive a notific
 **Related topics**  
 
 
-[Manage contract repository agentic workflow](../concept/cmpro-na-reminder-agentic-wf.md)
+[Manage contract repository agentic workflow](cmpro-na-reminder-agentic-wf.md)
 
-[Reviewing AI-extracted results in the playbook](../concept/cmpro-na-review-ai.md)
+[Reviewing AI-extracted results in the playbook](cmpro-na-review-ai.md)
 
 [Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
 

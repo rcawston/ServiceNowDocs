@@ -37,16 +37,16 @@ Role required: it\_project\_manager
     -   **Add Existing** to add existing stories to this project.
     -   **New** to create a story and add it to this project.
 
-        For information on the form fields, see the descriptions in [Story form](../../agile-development/task/create-a-story.md#table_story_form).
+        For information on the form fields, see the descriptions in [Story form](../agile-development/create-a-story.md#table_story_form).
 
 4.  Save the project form.
 
 
 ## What to do next
 
--   Create scrum tasks for this story. See [Create a scrum task for Agile Development 2.0 stories](../../agile-development/task/create-a-scrum-task.md).
--   Use the related links and lists of the story for more actions that you can perform. See [Related links and lists for a Story in Agile Development 2.0](../../agile-development/reference/agile-2-0-story-related-lists-related-links.md).
--   [Add dependencies for Agile Development 2.0 stories](../../scrum-programs/task/Add-dependencies-to-stories.md)
+-   Create scrum tasks for this story. See [Create a scrum task for Agile Development 2.0 stories](../agile-development/create-a-scrum-task.md).
+-   Use the related links and lists of the story for more actions that you can perform. See [Related links and lists for a Story in Agile Development 2.0](../agile-development/agile-2-0-story-related-lists-related-links.md).
+-   [Add dependencies for Agile Development 2.0 stories](../agile-development/Add-dependencies-to-stories.md)
 -   You can create a story with the same details as this story by using the **Insert** or **Insert and Stay** options from the story additional actions \(![Additional actions icon.](../../agile-development/image/additional-options.png)\).
 
     When you use **Insert and Stay**, the form of the newly created story stays open. You can modify the details of the story or create more stories with these details. On the Agile board, the new story is positioned right below the original story. The global rank of the new story is set accordingly.
@@ -54,5 +54,5 @@ Role required: it\_project\_manager
     **Note:** Set the **glide.ui.task.insert** and **glide.ui.advance** properties to **true** to access these actions. These actions are not allowed on stories added from the triage board.
 
 
-**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](../concept/c_SDLCIntegrationWithProjectPortfolioSuite.md)
+**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](c_SDLCIntegrationWithProjectPortfolioSuite.md)
 

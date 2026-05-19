@@ -39,7 +39,7 @@ You can improve this template by incorporating the following features:
 -   Add performance improvement plan \(PIP\) process/individual development plans
 -   Include compensation info/annual performance review \(APR\)
 
-For more information on creating an application using a template, see [Create your app using an application template](../task/use-app-template.md).
+For more information on creating an application using a template, see [Create your app using an application template](use-app-template.md).
 
 **Parent Topic:**[Available templates](template-library.md)
 

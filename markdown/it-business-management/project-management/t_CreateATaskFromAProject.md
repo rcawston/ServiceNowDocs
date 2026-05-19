@@ -29,7 +29,7 @@ Role required: it\_project\_manager
 
 4.  On the form, fill in the fields.
 
-    For more information on project task form, see [Project task form](../reference/project-task-form.md).
+    For more information on project task form, see [Project task form](project-task-form.md).
 
 5.  Select **Submit**.
 
@@ -46,7 +46,7 @@ If you change the state of a project task from **Work in progress** to **Closed 
 
 The **Percent complete** field appears in the Gantt chart for parent tasks as a light-colored bar \(the part of the task that is complete\). The bar overlaps the darker, underlying bar \(the full task\). For example, a Demo project is 5.41% complete as shown in a pop-up window. The **Phase 1** task is about 50% complete \(not shown in the pop-up window\).
 
-The Project Tasks list and the Project Tasks related list on the Project form include a **Dependency** field. Any dependencies for a task, such as a parent task, are displayed in this field. Click a dependency record. See [Predecessor dependencies in the planning console](../reference/r_ProjectTaskDependencyValues.md) for a description of what you see in this column.
+The Project Tasks list and the Project Tasks related list on the Project form include a **Dependency** field. Any dependencies for a task, such as a parent task, are displayed in this field. Click a dependency record. See [Predecessor dependencies in the planning console](r_ProjectTaskDependencyValues.md) for a description of what you see in this column.
 
 -   **[Create a task from an incident, problem, or change request](t_CreateTaskIntPrblmChange.md)**  
 You can create a new project task from the Project Task related list on the Incident, Problem, and Change Request forms. The tasks you create from these forms makes the project task a child of the incident, problem, or change, rather than a project.
@@ -86,7 +86,7 @@ You can create a checklist in a project task to track items that must be complet
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -108,7 +108,7 @@ You can create a checklist in a project task to track items that must be complet
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 

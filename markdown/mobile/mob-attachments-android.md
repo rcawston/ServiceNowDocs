@@ -263,5 +263,5 @@ Mobile application that you want to send the mobile property to. This setting li
 
 After updating these properties, the end user must pull to refresh and get the latest feature configurations.
 
-**Parent Topic:**[Mobile properties](../concept/mobile-properties.md)
+**Parent Topic:**[Mobile properties](mobile-properties.md)
 

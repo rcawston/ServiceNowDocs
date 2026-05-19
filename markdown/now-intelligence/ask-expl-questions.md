@@ -13,11 +13,11 @@ breadcrumb: [Use, AI Data Explorer, Now Assist in Platform Analytics, Platform A
 
 Ask the AI specific questions in AI Data Explorer, to which it responds with data visualizations, a summary, and suggested follow-up questions.
 
-To ask a question in an exploration, launch AI Data Explorer from a data visualization or list or open an existing exploration. You will see a field with the placeholder "Ask Now Assist a question about data." For more information, see [Launch AI Data Explorer](../task/launch-now-assist-explorer.md).
+To ask a question in an exploration, launch AI Data Explorer from a data visualization or list or open an existing exploration. You will see a field with the placeholder "Ask Now Assist a question about data." For more information, see [Launch AI Data Explorer](launch-now-assist-explorer.md).
 
 **Note:**
 
--   The question you ask has to be about data in one of the tables listed in the Query Generation Semantic Table Configuration table. These tables can include database views and Workflow Data Fabric tables. For more information, see [Add a table to the semantic data layer](../task/add-table-semantic-layer.md#).
+-   The question you ask has to be about data in one of the tables listed in the Query Generation Semantic Table Configuration table. These tables can include database views and Workflow Data Fabric tables. For more information, see [Add a table to the semantic data layer](add-table-semantic-layer.md#).
 -   If the data is from a protected application scope, access to that scope must be configured for AI Data Explorer. For more information, see [Enabling access to protected scope applications for AI Data Explorer and Query Generation](enable-aide-secure-scope-apps.md).
 -   When you have submitted a question, you cannot submit another question or do other work in the exploration until your question is processed. You can cancel the processing of your question.
 
@@ -25,7 +25,7 @@ When you write a question in an exploration, the AI converts the question to a d
 
 -   ![Area 1](../image/callout-1.png) Your original question. You can edit this question to generate new output.
 -   ![Area 2](../image/callout-2.png) The title of the response and a summarization of the AI findings.
--   ![Area 3](../image/callout-3.png) A list or data visualization. This response can be an existing visualization instead of a generated one. For more information, see [Launch AI Data Explorer](../task/launch-now-assist-explorer.md).You can change the height of the list or visualization by interacting with the double arrow icon in its corner. You can also drag a visualization to other places in the exploration.
+-   ![Area 3](../image/callout-3.png) A list or data visualization. This response can be an existing visualization instead of a generated one. For more information, see [Launch AI Data Explorer](launch-now-assist-explorer.md).You can change the height of the list or visualization by interacting with the double arrow icon in its corner. You can also drag a visualization to other places in the exploration.
 -   ![Area 4](../image/callout-4.png) Suggestions for follow-up questions.
 
 You can select and drag these sections of the response to change their order.
@@ -75,7 +75,7 @@ The goal of AI Data Explorer is to understand your prompts in your own words, de
 
 -   **Edit and refine queries**
 
-    If the generated query isn't quite right, you can manually edit the filter conditions. The AI model will learn from your edits and apply them to future questions in the same document. For more information, see [Change the question or filter conditions](../task/manually-edit-source-conditions.md)
+    If the generated query isn't quite right, you can manually edit the filter conditions. The AI model will learn from your edits and apply them to future questions in the same document. For more information, see [Change the question or filter conditions](manually-edit-source-conditions.md)
 
     Example: You ask "Show me critical incidents from the network team" but are not satisfied with the response. Instead of asking repeated variations of the same question, hoping for a better result, edit the filter to find records where Assignment Group is ‘Network Operations’ and Priority is ‘1 - Critical’. Then ask "Show me the inflow trend for these incidents over time”.
 
@@ -94,13 +94,13 @@ Once you have a productive exploration going, with a lot of context, you may fin
 
 -   **[Extended analysis](hidden-insights.md)**  
 Generate a deeper level of analysis that can reveal new insights, enabling you to make more informed decisions.
--   **[Add a data visualization from an exploration to a dashboard](../task/add-data-viz-from-expl-to-dboard.md)**  
+-   **[Add a data visualization from an exploration to a dashboard](add-data-viz-from-expl-to-dboard.md)**  
 Put the visualization contained in a response from AI Data Explorer on a new or existing dashboard. Do so without interrupting your workflow in your exploration.
--   **[Refresh a response with new data](../task/refresh-response.md)**  
+-   **[Refresh a response with new data](refresh-response.md)**  
 Look at the age of the response to a question in an AI Data Explorer exploration. Then regenerate the response with fresh data.
--   **[Change the question or filter conditions](../task/manually-edit-source-conditions.md)**  
+-   **[Change the question or filter conditions](manually-edit-source-conditions.md)**  
 Regenerate the response to a question after you change the question or the filter conditions.
--   **[Duplicate, delete, copy to another exploration, or move an answer in an exploration](../task/nowass-expl-dup-del-question-resp.md)**  
+-   **[Duplicate, delete, copy to another exploration, or move an answer in an exploration](nowass-expl-dup-del-question-resp.md)**  
 Duplicate, delete or reorder an individual question and response from inside an exploration. Yiou can also copy a response to another exploration.
 
 **Parent Topic:**[Using AI Data Explorer](use-now-assist-explorer.md)

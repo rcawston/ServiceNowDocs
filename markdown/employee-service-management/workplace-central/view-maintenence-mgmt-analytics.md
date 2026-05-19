@@ -18,8 +18,8 @@ Use the Maintenance Management dashboard to get an insight into maintenance case
 ## Prerequisites for accessing the View Maintenance Management dashboard
 
 -   Ensure that the Workplace Central application is installed. For more information, see [Install Workplace Central](install-workplace-central.md)
--   Ensure that the Workplace Maintenance Management \(sn\_wsd\_maintenance\) application is installed. For more information, see [Install Workplace Maintenance Management](../../workplace-maintenance-management/task/intall-workplace-maintenance-mgmt.md).
--   Create and publish a maintenance plan. For more information, see [Create and publish maintenance plans](../../workplace-maintenance-management/task/create-publish-maintenance-plans.md) and [Workplace maintenance cases](../../workplace-maintenance-management/task/create-maint-cases.md).
+-   Ensure that the Workplace Maintenance Management \(sn\_wsd\_maintenance\) application is installed. For more information, see [Install Workplace Maintenance Management](../workplace-maintenance-management/intall-workplace-maintenance-mgmt.md).
+-   Create and publish a maintenance plan. For more information, see [Create and publish maintenance plans](../workplace-maintenance-management/create-publish-maintenance-plans.md) and [Workplace maintenance cases](../workplace-maintenance-management/create-maint-cases.md).
 
     You can also create a maintenance plan record by using the Preventative Maintenance option on the Workplace central home page. Navigate to **All** &gt; **Workplace Central**. Select the Preventative Maintenance icon \(![Preventative Maintenance icon on the context side bar to create a maintenance plan.](../images/icon-preventative-maintenance.png)\) on the context side bar to create a maintenance plan.
 
@@ -171,14 +171,14 @@ Workplace.Maintenance.Case.Opened
 -   **[Run the scheduled job for the Maintenance Management dashboard](run-job-for-wmm-dashboard.md)**  
 As an admin, run the scheduled job **Workplace Maintenance Case Historical Data Collection** to collect data for the past year that is used by the Maintenance Management dashboard.
 
-**Parent Topic:**[Working with Workplace Analytics](../concept/working-with-workplace-analytics.md)
+**Parent Topic:**[Working with Workplace Analytics](working-with-workplace-analytics.md)
 
 **Related topics**  
 
 
 [View Space Optimization metrics](view-space-opt-analytics.md)
 
-[View Occupancy Dashboard](../../workplace-connectors/task/view-badging-tables.md)
+[View Occupancy Dashboard](view-badging-tables.md)
 
 [View Lease Administration metrics](view-lease-admin-analytics.md)
 

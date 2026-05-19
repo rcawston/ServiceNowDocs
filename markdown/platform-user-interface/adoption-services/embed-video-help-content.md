@@ -25,7 +25,7 @@ You cannot use the insert/edit video icon in the HTML editor to embed the video.
 
 ![Use the source code icon, not the insert video icon, to embed video.](../image/html-editor-video.png "HTML editor icons")
 
-The administrator can disable the ability for users to see embedded video in the [Embedded Help system properties](../reference/embedded-help-sys-properties.md).
+The administrator can disable the ability for users to see embedded video in the [Embedded Help system properties](embedded-help-sys-properties.md).
 
 ## Procedure
 
@@ -81,5 +81,5 @@ The administrator can disable the ability for users to see embedded video in the
 7.  To test that the video appears, open the page that displays the content you just updated, and then open the help panel.
 
 
-**Parent Topic:**[Configuring Embedded Help](../concept/configuring-embedded-help.md)
+**Parent Topic:**[Configuring Embedded Help](configuring-embedded-help.md)
 

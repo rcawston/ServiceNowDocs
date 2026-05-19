@@ -43,7 +43,7 @@ Role required: sn\_oper\_res.manager
 
     The source of the vulnerability is the Self-attestation. Therefore, the **Source** field on the form shows the source as Self attestation and the **Source table** field on the form shows the table as Self attestation. The **Source table** field is auto-filled.
 
-    To view more information on the fields, see the [Create New Operational vulnerability form](../reference/create-new-op-vul-form.md).
+    To view more information on the fields, see the [Create New Operational vulnerability form](create-new-op-vul-form.md).
 
 8.  Select **Save**.
 

@@ -46,27 +46,27 @@ Assignments for tasks depend on the task type:
 
 For audit and compliance of workplace activities, workplace managers can electronically sign the completed workplace tasks. This action generates a PDF of the signed form and attaches it to the task.
 
--   **[Configure a workplace task template](../task/configure-workplace-task-template-wsd.md)**  
+-   **[Configure a workplace task template](configure-workplace-task-template-wsd.md)**  
 Configure templates in Workplace Core that can be used to create workplace tasks. You can either modify predefined workplace task templates or create your own templates and associate them with workplace tasks.
--   **[Create a workplace task checklist](../task/create-workplace-task-checklist-wsd.md)**  
+-   **[Create a workplace task checklist](create-workplace-task-checklist-wsd.md)**  
 You can create a unique checklist for each workplace task template in Workplace Core. You can also quickly create a checklist from an existing checklist template.
--   **[Save a workplace task checklist as a template](../task/save-workplace-task-checklist-template-wsd.md)**  
+-   **[Save a workplace task checklist as a template](save-workplace-task-checklist-template-wsd.md)**  
 You can save a Workplace Core workplace task checklist as a template for easy reuse. A template saves time by adding checklist items automatically in a record where you use it.
--   **[Configure a workplace task signing template](../task/configure-workplace-pdf-document-template-wsd.md)**  
+-   **[Configure a workplace task signing template](configure-workplace-pdf-document-template-wsd.md)**  
 Configure a signing template that you want to make available for signing the completed Workplace Core workplace tasks. You can configure the default signing template available with the application or create a new template.
--   **[Create planned task definitions](../task/create-planned-task-definitions-wsd.md)**  
+-   **[Create planned task definitions](create-planned-task-definitions-wsd.md)**  
 Create planned task definitions in Workplace Core to help workplace managers easily generate tasks that are often repeated and independent of shifts such as cleaning coffee vending machines or cleaning floors. You can quickly specify the task details and the frequency at which the task is to be performed.
--   **[Generate planned workplace tasks](../task/generate-planned-workplace-tasks-wsd.md)**  
+-   **[Generate planned workplace tasks](generate-planned-workplace-tasks-wsd.md)**  
 Using planned task definitions in Workplace Core to create planned tasks independent of shifts for recurring activities. For example, you can generate tasks for a selected number of days for cleaning all floors and buildings at midnight every day.
--   **[Create an ad hoc workplace task](../task/create-adhoc-workplace-task-wsd.md)**  
+-   **[Create an ad hoc workplace task](create-adhoc-workplace-task-wsd.md)**  
 Create an ad hoc task in Workplace Core for unplanned activities. For example, if you notice that something isn't clean in an area or want the area to be cleaned again, you can create an ad hoc workplace task to get the cleaning done immediately.
--   **[Sign a completed workplace task](../task/sign-completed-task-wsd.md)**  
+-   **[Sign a completed workplace task](sign-completed-task-wsd.md)**  
 As the workplace manager for a space, sign the workplace tasks Workplace Core for complete and closed activities. Signing a task generates a PDF document for the workplace activity, which is useful for compliance procedures.
--   **[Print workplace tasks](../task/print-workplace-tasks-core.md)**  
+-   **[Print workplace tasks](print-workplace-tasks-core.md)**  
 Workplace coordinators can print the workplace task details and the associated workplace activities that are created and scheduled in the workplace for each shift. The task reports contain reservation details, description, services, and all other relevant information for effective task management and resolution.
 -   **[Manage print tasks](manage-print-tasks.md#)**  
 Filter workplace tasks using criteria such as Short Description, Workplace Location, or other relevant fields to generate a consolidated report using the Workplace Central Case management workspace.
--   **[Apply the archive rule](../task/wsd-tables-purge-policy.md)**  
+-   **[Apply the archive rule](wsd-tables-purge-policy.md)**  
 Apply the archival policy for Workplace Core to archive old table records.
 
 **Parent Topic:**[Manage workplace safety activities](manage-wsd-activites.md)
@@ -74,25 +74,25 @@ Apply the archival policy for Workplace Core to archive old table records.
 **Related topics**  
 
 
-[Import your workspaces data from an Excel spreadsheet](../task/import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](import-excel-spreadsheet-workspace-data-wsd.md)
 
-[Add a space type configuration](../task/add-space-type-configuration-wsd.md)
+[Add a space type configuration](add-space-type-configuration-wsd.md)
 
-[Configure a workplace card](../task/configure-workplace-card.md)
+[Configure a workplace card](configure-workplace-card.md)
 
-[Block a workplace location](../task/block-workplace-location.md)
+[Block a workplace location](block-workplace-location.md)
 
 [Configure Workplace entity and entity types](workplace-entity.md)
 
-[Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
+[Managing Neighborhoods](neighborhoods.md)
 
-[Enable favorites option for Workplace Service Portal](../task/confgure-favourites-option-for-ws-portal-wsd.md)
+[Enable favorites option for Workplace Service Portal](confgure-favourites-option-for-ws-portal-wsd.md)
 
-[Create a workplace performer criteria](../task/create-workplace-performer-criteria.md)
+[Create a workplace performer criteria](create-workplace-performer-criteria.md)
 
 [Mapping employees to their designated workspaces](mapping-employees-to-existing-work-locations-wsd.md)
 
-[Assign the workplace user role to employees](../task/assign-workplace-user-role-to-employees-of-a-location-wsd.md)
+[Assign the workplace user role to employees](assign-workplace-user-role-to-employees-of-a-location-wsd.md)
 
 [Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 
@@ -102,7 +102,7 @@ Apply the archival policy for Workplace Core to archive old table records.
 
 [Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace-wsd.md)
 
-[Approve employee workplace reservation requests](../task/approve-workplace-reservation-requests-wsd.md)
+[Approve employee workplace reservation requests](approve-workplace-reservation-requests-wsd.md)
 
 [Workplace knowledge management](workplace-knowledge-mgmt-wsd.md)
 
@@ -110,5 +110,5 @@ Apply the archival policy for Workplace Core to archive old table records.
 
 [Location migration](location-migration.md)
 
-[View workplace service usage analytics with Usage Insights](../reference/appsee-intergration-wsd.md)
+[View workplace service usage analytics with Usage Insights](appsee-intergration-wsd.md)
 

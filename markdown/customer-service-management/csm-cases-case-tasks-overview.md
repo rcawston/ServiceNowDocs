@@ -68,9 +68,9 @@ Information that is gathered as part of resolving a case can be included in the 
 </td></tr></tbody>
 </table>For more information about cases and case records, see the following topics:
 
--   [Create a customer service case](../task/t_CreateACaseFromCustServApp.md)
--   [Create a customer service case of a specific type](../task/create-case-of-specific-case-type.md)
--   [Customer service case form](../reference/r_CustomerServiceCaseForm.md)
+-   [Create a customer service case](t_CreateACaseFromCustServApp.md)
+-   [Create a customer service case of a specific type](create-case-of-specific-case-type.md)
+-   [Customer service case form](r_CustomerServiceCaseForm.md)
 
 ## Case tasks
 
@@ -93,8 +93,8 @@ Depending on a user's assigned roles, case tasks appear in a number of different
 
 For more information about case tasks and case task records, see the following topics:
 
--   [Create a task for a customer service case](../task/create-task-for-cust-service-case.md)
--   [Case task form](../reference/csm-case-task-form.md)
+-   [Create a task for a customer service case](create-task-for-cust-service-case.md)
+-   [Case task form](csm-case-task-form.md)
 
 ## Cases, case tasks and related parties
 

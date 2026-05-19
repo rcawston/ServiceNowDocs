@@ -53,7 +53,7 @@ Starting with the Australia release, idea states are stored in and retrieved fro
 
 ## Idea categories
 
-Organize your ideas using categories, for example, to group ideas that are relevant to a particular product, department, or business unit. If your existing ideas are not associated with any category, [create new categories](../task/category-configuration-existing-table.md) or select an existing table to [define categories](../task/category-configuration-existing-table.md) to which you can map your ideas. The Ideas application also installs a set of default new categories to which you can associate your existing ideas.
+Organize your ideas using categories, for example, to group ideas that are relevant to a particular product, department, or business unit. If your existing ideas are not associated with any category, [create new categories](category-configuration-existing-table.md) or select an existing table to [define categories](category-configuration-existing-table.md) to which you can map your ideas. The Ideas application also installs a set of default new categories to which you can associate your existing ideas.
 
 If your ideas are already associated with categories and you want to use the new categories, you can map your existing idea categories to the default new categories. You then write and use a script to create m2m mapping between existing ideas and categories.
 
@@ -75,5 +75,5 @@ Review the existing business rules in the idea table. Set the business rules tha
 
 To encourage your users to submit ideas through the new Idea Portal, remove navigation for old Idea application from the application menu and deactivate the Submit an Idea option from the Service Catalog. For more information see, [Enable or disable an application menu or module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EnDisableAppMenuOrMod.md).
 
-**Parent Topic:**[Configuring Innovation Management](../concept/configuring-innovation-management.md)
+**Parent Topic:**[Configuring Innovation Management](configuring-innovation-management.md)
 

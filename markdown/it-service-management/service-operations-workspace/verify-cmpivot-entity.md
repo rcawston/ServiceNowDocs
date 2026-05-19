@@ -48,5 +48,5 @@ Role required: admin
     ![Verify the CMPivot entity](../image/verify-cmpivot.png)
 
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](config-ci-metrics-mecm-adapter.md)
 

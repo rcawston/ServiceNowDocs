@@ -168,7 +168,7 @@ For an example of a VM in Azure, see [Azure VM provisioning walkthrough](walk-th
 
         This script is the response processors that updates the CMDB in your instance after the virtual machine is created in AWS.
 
-    19. View an explanation of the script and the example that is a part of the topic at [Create a Response Processor](../reference/response-processor-example.md).
+    19. View an explanation of the script and the example that is a part of the topic at [Create a Response Processor](response-processor-example.md).
 
         When you finish reviewing that topic, return to this topic.
 
@@ -271,7 +271,7 @@ Credentials
 
 </td><td>
 
-The secret key is used with the access key for authentication. You configured this value in your AWS credential record during setup. To refer to that procedure, see [Configure access to the AWS accounts using permanent AWS credentials](../../it-operations-management/task/aws-create-creds-cloud-mgt.md).
+The secret key is used with the access key for authentication. You configured this value in your AWS credential record during setup. To refer to that procedure, see [Configure access to the AWS accounts using permanent AWS credentials](../aws-create-creds-cloud-mgt.md).
 
 </td></tr><tr><td>
 
@@ -406,5 +406,5 @@ VM properties in the Cloud User Portal
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](cloud-management-v2-landing-page.md)
 

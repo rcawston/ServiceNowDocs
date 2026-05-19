@@ -95,7 +95,7 @@ Sub flows consist of properties, inputs or outputs, sequence of actions, and dat
     The occupancy data from the Actions Configurations table is loaded into the final or target table [Retrieving Space Occupancy Data](space-occupancy-data.md) table.
 
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](setup-occupancy-connectors.md)
 
 **Previous topic:**[Configure Provider Space Mapping for occupancy data](provider-space-mappings-occupancy.md)
 

@@ -54,5 +54,5 @@ The EAM Populate Licensing Data job runs every Sunday and populates the ITAM Lic
     -   **Subscription Unit Ratio**: Predefined ratios that determine how many assets of a Resource category require a subscription. For example, the defined ratio of 25:1 for Industrial Consumable means that every 25 assets of that resource category require one Subscription Unit.
     -   **Total Subscription Units Consumed**: The number of subscriptions per Resource category that your organization consumed. The licensing module calculates this number by applying the Subscription Unit Ratio to the Resource Total Count for each Resource Category.
 
-**Parent Topic:**[OT Asset Management licensing](../concept/licensing-ot-asset-management.md)
+**Parent Topic:**[OT Asset Management licensing](licensing-ot-asset-management.md)
 

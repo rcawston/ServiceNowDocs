@@ -21,7 +21,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## About this task
 
-The live agent support enables a chat interaction between an employees and legal department users. For more information, see [Live agent support for legal services](../concept/legal-va-live-agent.md).
+The live agent support enables a chat interaction between an employees and legal department users. For more information, see [Live agent support for legal services](legal-va-live-agent.md).
 
 ## Procedure
 
@@ -43,13 +43,13 @@ The live agent support enables a chat interaction between an employees and legal
 
         Using response templates, you can insert predefined content in your chat conversations. Select the response template icon \(![Response template icon.](../../human-resources/reference/images/response-template-icon.png)\) and find an appropriate response template. Copy and paste the template's content into the chat.
 
-        **Note:** Only response templates configured for a chat channel are available to use. For more information see [Response templates configured for chat channel](create-lsd-response-template.md).
+        **Note:** Only response templates configured for a chat channel are available to use. For more information see [Response templates configured for chat channel](../legal-request-management/create-lsd-response-template.md).
 
     -   To send an attachment, click the send attachment to chat icon \(![Send attachment to chat icon.](../image/add-attachment-icon.png)\), select the file to attach, and click **Open**.
     -   To transfer the chat to another queue, click the transfer to queue icon \(![Transfer to queue icon.](../image/transfer-queue-icon.png)\) and select the queue.
     -   To transfer the chat to another available agent, click the transfer to agent icon \(![Transfer to agent icon.](../image/transfer-queue-icon.png)\) and select the agent name.
 
-**Parent Topic:**[Legal Virtual Agent Conversations](../concept/legal-va-conversations.md)
+**Parent Topic:**[Legal Virtual Agent Conversations](legal-va-conversations.md)
 
 **Related topics**  
 

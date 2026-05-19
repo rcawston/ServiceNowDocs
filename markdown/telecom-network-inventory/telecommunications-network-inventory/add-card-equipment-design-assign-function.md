@@ -38,7 +38,7 @@ Add a card to equipment record using design and assign function in the Telecommu
 
 6.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](change_request_forms.md).
 
 7.  Select **Save**.
 
@@ -48,12 +48,12 @@ Add a card to equipment record using design and assign function in the Telecommu
 
 9.  On the **Task Attributes** tab, fill in the fields.
 
-    To learn more, see [Task attributes in Add Card form](../reference/task-attributes-add-card-form.md).
+    To learn more, see [Task attributes in Add Card form](task-attributes-add-card-form.md).
 
 10. Select **Submit**.
 
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 
 **Related topics**  
 

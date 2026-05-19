@@ -19,11 +19,11 @@ You can create the following types of template:
 
 -   **Case template**: A case template auto-populates fields when a case is being created.
 
-    For information about creating case templates, see [Create a Workplace case template](../task/wsd-case-template.md).
+    For information about creating case templates, see [Create a Workplace case template](wsd-case-template.md).
 
 -   **Task template**: A task template auto-populates fields when a task is being created. You can modify predefined workplace task templates or create your own templates and associate them with workplace tasks.
 
-    For information about creating task templates, see [Create a Workplace task template](../task/wsd-task-template.md).
+    For information about creating task templates, see [Create a Workplace task template](wsd-task-template.md).
 
 -   **Smart assessment template**: A Smart Assessment template defines a structured set of instructions, sections, and questions that guide agents in completing workplace cases or tasks. You can create and publish the template in the Smart Assessment workspace by selecting the appropriate Workplace table and configuring the assessment content. Once published, the template can be associated with trigger conditions so that it automatically attaches to qualifying workplace cases or tasks.
 

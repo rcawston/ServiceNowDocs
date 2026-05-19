@@ -25,9 +25,9 @@ Role required: none
 
 You can specify a conditional expression in the component. If the expression contains any parameters, they appear as input ports. If the expression is correct based on the inputs provided, then the True Output Port takes control. Else, the False Output port takes control and executes the automation.
 
-For defining conditions, the Decision component provides many functions, operators, and expressions. For more information, see [Functions, data types, and operators](../reference/conditions-decision-func-opr.md).
+For defining conditions, the Decision component provides many functions, operators, and expressions. For more information, see [Functions, data types, and operators](conditions-decision-func-opr.md).
 
-To configure the properties for the Decision component, see [Properties of the Conditions components](../reference/conditions-properties.md).
+To configure the properties for the Decision component, see [Properties of the Conditions components](conditions-properties.md).
 
 ## Procedure
 
@@ -56,5 +56,5 @@ To configure the properties for the Decision component, see [Properties of the C
 
 In the DECISION component, a conditional expression "i=10" is set. Since "i" is the parameter, an input port is dynamically created in the component. The Variable \([Create and use a variable in RPA Desktop Design Studio](configure-variables-rpa-studio.md)\) component provides the input "5" to the Decision component which is False. Hence, the False Output port takes control and the Show \([Use the Show component](use-general-messagebox-show.md)\) component shows the message "False." ![Use of the Decision component](../image/Decision.PNG)
 
-**Parent Topic:**[Conditions](../concept/conditions-components.md)
+**Parent Topic:**[Conditions](conditions-components.md)
 

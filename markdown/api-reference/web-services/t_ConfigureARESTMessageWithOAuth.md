@@ -51,10 +51,10 @@ Before starting this procedure, ensure:
 
 Test the REST message to ensure you receive the expected response. You can optionally specify different authentication settings for each HTTP method related to this REST message, overriding the parent REST message settings.
 
--   **[Use a third-party OAuth provider](../../../administer/security/task/t_UseAThirdPartyOAuthProvider.md)**  
+-   **[Use a third-party OAuth provider](t_UseAThirdPartyOAuthProvider.md)**  
 Each client application must register with the instance to participate in OAuth authorization.
--   **[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](../concept/c_OAuth2ProfileTutorialGoogle.md)**  
+-   **[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](c_OAuth2ProfileTutorialGoogle.md)**  
 This tutorial explains how to use an OAuth 2.0 profile to authenticate an outbound REST message with Google to retrieve contact information.
 
-**Parent Topic:**[Outbound REST authentication](../concept/c_OutboundRESTAuth.md)
+**Parent Topic:**[Outbound REST authentication](c_OutboundRESTAuth.md)
 

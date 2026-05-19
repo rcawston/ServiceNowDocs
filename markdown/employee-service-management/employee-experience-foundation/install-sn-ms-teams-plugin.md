@@ -74,5 +74,5 @@ Role required: admin
     The ![Microsoft Teams](../images/teams-decorator.png) icon is displayed as a field decorator in a record.
 
 
-**Parent Topic:**[Plan your installation](../concept/plan-installation-ms-teams.md)
+**Parent Topic:**[Plan your installation](plan-installation-ms-teams.md)
 

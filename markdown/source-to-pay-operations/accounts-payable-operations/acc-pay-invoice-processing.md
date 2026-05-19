@@ -17,7 +17,7 @@ Accounts Payable Invoice Processing \(com.sn\_ap\_apm\) enables Accounts Payable
 
 Accounts Payable Invoice Processing also enables purchase order matching, invoice exception management, and invoice approval management. Thus, enabling Account Payable Specialists to manage the entire life cycle of an invoice, from its ingestion to approval.
 
-For more information about installing Accounts Payable Invoice Processing, see [Install Accounts Payable Invoice Processing](../task/install-acc-pay-mgmt.md).
+For more information about installing Accounts Payable Invoice Processing, see [Install Accounts Payable Invoice Processing](install-acc-pay-mgmt.md).
 
 **Parent Topic:**[Explore Accounts Payable Operations](explore-acc-pay-mgmt.md)
 

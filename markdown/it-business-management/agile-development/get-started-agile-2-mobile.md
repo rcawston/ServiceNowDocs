@@ -58,8 +58,8 @@ New user
 
 Go to
 
--   [Managing stories on Agile Development v2 mobile app](../reference/manage-stories-agile-dev-mobile.md#).
--   [Managing scrum tasks on Agile Development v2 mobile app](../reference/manage-scrum-tasks-agile-mobile.md#).
+-   [Managing stories on Agile Development v2 mobile app](manage-stories-agile-dev-mobile.md#).
+-   [Managing scrum tasks on Agile Development v2 mobile app](manage-scrum-tasks-agile-mobile.md#).
 
-**Parent Topic:**[Mobile experience for Agile Development 2.0](../concept/agile-2-mobile-app-overview.md)
+**Parent Topic:**[Mobile experience for Agile Development 2.0](agile-2-mobile-app-overview.md)
 

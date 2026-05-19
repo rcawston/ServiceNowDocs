@@ -300,5 +300,5 @@ Backup assignee
 Assignees that are used as a backup if the automated task fails during the execution.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Add recovery tasks](../task/add-a-recovery-task.md)
+</table>**Parent Topic:**[Add recovery tasks](add-a-recovery-task.md)
 

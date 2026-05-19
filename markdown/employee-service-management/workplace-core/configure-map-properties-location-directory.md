@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Configure the map properties for the Location directory.
 
-    For more information about the map properties, see [Properties installed with Workplace Space Mapping](../../workplace-space-mapping/reference/wsd-space-mapping-properties.md).
+    For more information about the map properties, see [Properties installed with Workplace Space Mapping](../wsd-space-mapping-properties.md).
 
 3.  Select **Save**.
 

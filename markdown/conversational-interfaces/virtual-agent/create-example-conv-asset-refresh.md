@@ -45,10 +45,10 @@ Role required: virtual\_agent\_admin or admin
 
 For more information about building topics and the Virtual Agent Designer interface, see the following topics:
 
--   [Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+-   [Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 -   [Creating a Virtual Agent topic](create-virtual-agent-topic.md)
--   [Assistant Designer controls](../concept/virtual-agent-controls.md)
--   [Assistant Designer interface reference](../concept/vad-reference.md)
+-   [Assistant Designer controls](virtual-agent-controls.md)
+-   [Assistant Designer interface reference](vad-reference.md)
 
 **Tip:** Look through existing conversations to ensure you are not duplicating effort, and familiarize yourself with Virtual Agent and the flow of topics. Additionally, it may be helpful to outline the flow of a conversation before building it in Virtual Agent Designer.
 
@@ -70,11 +70,11 @@ For more information about building topics and the Virtual Agent Designer interf
 
         ![In the Associated Intent field, select an existing intent or create a new one for your topic.](../images/example-create-intent-vad.png)
 
-        For descriptions of all field values, see [Create a topic form](../reference/vad-topic-creation-form.md).
+        For descriptions of all field values, see [Create a topic form](vad-topic-creation-form.md).
 
     4.  Select **Create**.
 
-    The **Flow** tab appears with Start and End nodes. For an overview of this screen and its components, see [Topic Flow tab](../reference/vad-topic-flow-tab.md).
+    The **Flow** tab appears with Start and End nodes. For an overview of this screen and its components, see [Topic Flow tab](vad-topic-flow-tab.md).
 
 4.  Create your initial message to greet the user.
 
@@ -198,5 +198,5 @@ For more information about building topics and the Virtual Agent Designer interf
 **Related topics**  
 
 
-[Maximizing code reuse with topic blocks](../concept/topic-blocks-overview.md)
+[Maximizing code reuse with topic blocks](topic-blocks-overview.md)
 

@@ -34,7 +34,7 @@ Role required: sn\_ti.write
 7.  Click **Save**.
 
 
-**Parent Topic:**[Indicators of compromise](../concept/c_IoCs.md)
+**Parent Topic:**[Indicators of compromise](c_IoCs.md)
 
 **Related topics**  
 

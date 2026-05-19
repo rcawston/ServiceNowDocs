@@ -23,7 +23,7 @@ The ServiceNow® Resource Management Workspace helps Resource Managers have a ce
 
 </td><td>
 
-[Configure![](../images/rmw-config.png)Install the application, dependent applications or plugins](../task/config-rmw.md)
+[Configure![](../images/rmw-config.png)Install the application, dependent applications or plugins](config-rmw.md)
 
 </td><td>
 
@@ -45,5 +45,5 @@ The Resource Management Workspace is presented as a new approach to assigning re
 -   **[Resource Management Workspace references](rmw-references.md)**  
 Reference fields and form details for Resource Management Workspace.
 
-**Parent Topic:**[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](../ppm-collaboration/c_ProjectPortfolioSuite.md)
 

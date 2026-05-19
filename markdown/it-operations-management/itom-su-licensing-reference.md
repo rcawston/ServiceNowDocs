@@ -17,7 +17,7 @@ Reference topics provide additional information about scheduled jobs, tables, su
 Several types of components are installed with activation of the ITOM/OT SU Licensing plugin, including tables and scheduled jobs.
 -   **[Subscriptions form for the ITOM products](itom-subscriptions-form.md)**  
 Description of the fields on the Subscriptions form for the ITOM products.
--   **[ITOM/OT SU Licensing dashboard](../../../use/dashboards/application-content-packs/itom-licensing-dashboard.md)**  
+-   **[ITOM/OT SU Licensing dashboard](itom-licensing-dashboard.md)**  
 Use the ITOM Licensing dashboard to review the statistics of the resource consumption and status against your purchased subscriptions. This dashboard contains reports for each ITOM application. The reports offer visualization of the daily usage count and of the average consumption of subscription units for 90 days.
 -   **[License Report form](license-report-form.md)**  
 Description of the fields on the License Report form.

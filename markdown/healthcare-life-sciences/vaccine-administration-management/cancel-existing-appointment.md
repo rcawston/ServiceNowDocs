@@ -36,5 +36,5 @@ Role required: sn\_vaccine\_sm.clinician
 
 [Reschedule existing appointments](reschedule-existing-appointment.md).
 
-**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](../concept/user-appt-mngt-clinicans-agents.md)
+**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](user-appt-mngt-clinicans-agents.md)
 

@@ -71,7 +71,7 @@ Uninstall the connected Microsoft Teams tenant from the original/registered Serv
 
 You must upload the manifest file in Microsoft Teams. For more information, refer [Create and download the manifest file for pre-published apps](download-manifest-file-mt.md).
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](c_employee_ex_tnt.md)
 
 ## Override Microsoft Teams tenant connection
 

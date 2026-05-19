@@ -13,7 +13,7 @@ breadcrumb: [Configure the HTML toolbar, Configure a field editor for the HTML f
 
 Several editing functions are built into TinyMCE.
 
-You can add more edit functions to TinyMCE v6.8.3 using the **glide.ui.html.editor.toolbar** property and properties on the **UI Properties** page. For more information on configuring the edit functions, see [Configure the HTML toolbar](../../../administer/form-administration/task/t_ConfigureTheTinyMCEHTMLToolbar.md).
+You can add more edit functions to TinyMCE v6.8.3 using the **glide.ui.html.editor.toolbar** property and properties on the **UI Properties** page. For more information on configuring the edit functions, see [Configure the HTML toolbar](t_ConfigureTheTinyMCEHTMLToolbar.md).
 
 <table id="table_xg1_bcg_vq"><thead><tr><th>
 

@@ -60,5 +60,5 @@ Use the **List** tab in Digital Portfolio Management \(DPM\), to view lists of s
         The copied link contains a unique list ID so when selected, it goes directly to the list that you want to share.
 
 
-**Parent Topic:**[Work with solution data in Digital Portfolio Management](../reference/dpm-working-with.md)
+**Parent Topic:**[Work with solution data in Digital Portfolio Management](dpm-working-with.md)
 

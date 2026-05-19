@@ -47,7 +47,7 @@ You receive the details of a Zero Touch Refresh Fulfillment Request from your cu
 
     2.  For each field you create, fill in the fields and then select **Submit**.
 
-        For the required details of the inbound fields that you must create, see [Remote task definition inbound and outbound fields](../reference/inbound-outbound-fields-for-rtd.md).
+        For the required details of the inbound fields that you must create, see [Remote task definition inbound and outbound fields](inbound-outbound-fields-for-rtd.md).
 
 8.  Create the outbound fields, which enable you to send data to the customer's instance when a remote task is created or updated.
 
@@ -55,7 +55,7 @@ You receive the details of a Zero Touch Refresh Fulfillment Request from your cu
 
     2.  For each field you create, fill in the fields and then select **Submit**.
 
-        For the required details of the outbound fields that you must create, see [Remote task definition inbound and outbound fields](../reference/inbound-outbound-fields-for-rtd.md).
+        For the required details of the outbound fields that you must create, see [Remote task definition inbound and outbound fields](inbound-outbound-fields-for-rtd.md).
 
 9.  Set customer criteria, which specify the customers who can use this remote task definition.
 

@@ -43,8 +43,8 @@ You can move the task cards into different lanes or add new task for a story, to
 
     2.  On the form, fill in the fields and click **Submit**.
 
-        For field information, see [Create a scrum task for Agile Development 2.0 stories](../../agile-development/task/create-a-scrum-task.md).
+        For field information, see [Create a scrum task for Agile Development 2.0 stories](create-a-scrum-task.md).
 
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

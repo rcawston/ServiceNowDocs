@@ -75,5 +75,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[SCCM activity pack](../../../administer/orchestration-activities/concept/c_SCCMActivityPack.md)
+**Parent Topic:**[SCCM activity pack](c_SCCMActivityPack.md)
 

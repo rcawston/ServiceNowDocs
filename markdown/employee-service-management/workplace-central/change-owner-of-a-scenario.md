@@ -98,14 +98,14 @@ The stack plan view of the building opens.
 
 The scenario is moved to the selected space planners. You can no longer change the scenario. You can make changes to a scenario only if you are assigned as the owner of the scenario.
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](working-with-space-optimization.md)
 
 **Related topics**  
 
 
 [Create a scenario](create-a-scenario.md)
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](viewing-editing-scenario.md)
 
 [Review a scenario](review-a-scenario.md)
 
@@ -123,5 +123,5 @@ The scenario is moved to the selected space planners. You can no longer change t
 
 [Work on a space assist request](work-on-space-assist-request.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](map-based-space-administration.md)
 

@@ -38,10 +38,10 @@ TPSM combines purpose-built applications for technology providers with Customer 
 
 |Application|Value|
 |-----------|-----|
-|[Now Assist for Telecommunications, Media and Technology \(TMT\)](../../tmt-spmc/reference/now-assist-spmc.md)|Use AI-powered industry workflows to supercharge insights, actions, and self-service experiences.|
-|[Customer Success Management](../../tmt-account-lifecycle/reference/account-lifecycle-events-landing.md)|Drive adoption, mitigate risk, and maximize customer value with proactive success strategies, real-time health monitoring, and intelligent automation.|
-|[Service Exchange](../../tmt-service-bridge/concept/tmt-service-bridge-both-landing-page.md)|Quickly connect enterprise customers and suppliers running ServiceNow® to optimize work across the value chain.|
-|[Product Support for Technology](../../tmt-assurance-workflows/concept/assurance-workflows.md)|Proactively notify customers of service disruptions and provide real-time resolution tracking.|
+|[Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-for-telecom-media-and-technology/now-assist-spmc.md)|Use AI-powered industry workflows to supercharge insights, actions, and self-service experiences.|
+|[Customer Success Management](account-lifecycle-events-landing.md)|Drive adoption, mitigate risk, and maximize customer value with proactive success strategies, real-time health monitoring, and intelligent automation.|
+|[Service Exchange](tmt-service-bridge-both-landing-page.md)|Quickly connect enterprise customers and suppliers running ServiceNow® to optimize work across the value chain.|
+|[Product Support for Technology](assurance-workflows.md)|Proactively notify customers of service disruptions and provide real-time resolution tracking.|
 
 ## Additional resources
 

@@ -21,9 +21,9 @@ You can upload or retrieve a single file with each request. NowAttachmentService
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Configuration settings provided when the service was initialized.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)|Configuration settings provided when the service was initialized.|
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowAttachmentService - attachment\(for sysId: String, validateAttachment: Boolean\) async throws
 
@@ -225,13 +225,13 @@ completion
 
 </td><td>
 
-@escaping \(Result​&lt;[NowAttachment](../../NowAttachment/concept/NowAttachmentiOSStructure.md#), NowDataError&gt;\)
+@escaping \(Result​&lt;[NowAttachment](NowAttachmentiOSStructure.md#), NowDataError&gt;\)
 
 </td><td>
 
 Completion handler to execute after the attachment is retrieved. Return values for the completion handler:
 
--   Success: [NowAttachment](../../NowAttachment/concept/NowAttachmentiOSStructure.md#) - Requested attachment
+-   Success: [NowAttachment](NowAttachmentiOSStructure.md#) - Requested attachment
 -   Failure: NowDataError
     -   `accessToken(AccessTokenProviderError)`
 
@@ -376,11 +376,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-AnyPublisher​&lt;[NowAttachment](../../NowAttachment/concept/NowAttachmentiOSStructure.md#), NowDataError&gt;
+AnyPublisher​&lt;[NowAttachment](NowAttachmentiOSStructure.md#), NowDataError&gt;
 
 </td><td>
 
-Success: [NowAttachment](../../NowAttachment/concept/NowAttachmentiOSStructure.md#) - Contains the specified attachment.Failure: NowDataError
+Success: [NowAttachment](NowAttachmentiOSStructure.md#) - Contains the specified attachment.Failure: NowDataError
 
 -   `accessToken(AccessTokenProviderError)`
 
@@ -486,7 +486,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilteriOSStructure.md#)
+[Filter](FilteriOSStructure.md#)
 
 </td><td>
 
@@ -625,7 +625,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilteriOSStructure.md#)
+[Filter](FilteriOSStructure.md#)
 
 </td><td>
 
@@ -649,7 +649,7 @@ completion
 
 </td><td>
 
-@escaping \(Result​&lt;\[[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#)\], NowDataError&gt;\)
+@escaping \(Result​&lt;\[[NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#)\], NowDataError&gt;\)
 
 </td><td>
 
@@ -770,7 +770,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilteriOSStructure.md#)
+[Filter](FilteriOSStructure.md#)
 
 </td><td>
 
@@ -799,7 +799,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-AnyPublisher​&lt;\[[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#)\], NowDataError&gt;
+AnyPublisher​&lt;\[[NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#)\], NowDataError&gt;
 
 </td><td>
 
@@ -1024,13 +1024,13 @@ completion
 
 </td><td>
 
-@escaping \(Result​&lt;[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#), NowDataError&gt;\)
+@escaping \(Result​&lt;[NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#), NowDataError&gt;\)
 
 </td><td>
 
 Completion handler to execute after the metadata is retrieved. Return values for the completion handler:
 
--   Success: [NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#) - Requested metadata
+-   Success: [NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#) - Requested metadata
 -   Failure: NowDataError
     -   `accessToken(AccessTokenProviderError)`
 
@@ -1140,7 +1140,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-AnyPublisher​&lt;\[[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#)\], NowDataError&gt;
+AnyPublisher​&lt;\[[NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#)\], NowDataError&gt;
 
 </td><td>
 
@@ -1249,7 +1249,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilteriOSStructure.md#)
+[Filter](FilteriOSStructure.md#)
 
 </td><td>
 
@@ -1278,7 +1278,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Paginator](../../Paginator/concept/PaginatorIOSAPI.md#)​&lt;\[[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#)\]&gt;
+[Paginator](PaginatorIOSAPI.md#)​&lt;\[[NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#)\]&gt;
 
 </td><td>
 
@@ -1715,7 +1715,7 @@ configuration
 
 </td><td>
 
-[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
+[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)
 
 </td><td>
 
@@ -1787,7 +1787,7 @@ configuration
 
 </td><td>
 
-[NowAttachmentUpload Configuration](../../NowAttachmentUploadConfiguration/concept/NowAttachUploadConfigiOSStruct.md#)
+[NowAttachmentUpload Configuration](NowAttachUploadConfigiOSStruct.md#)
 
 </td><td>
 
@@ -1956,7 +1956,7 @@ configuration
 
 </td><td>
 
-[NowAttachmentUpload Configuration](../../NowAttachmentUploadConfiguration/concept/NowAttachUploadConfigiOSStruct.md#)
+[NowAttachmentUpload Configuration](NowAttachUploadConfigiOSStruct.md#)
 
 </td><td>
 
@@ -1987,13 +1987,13 @@ completion
 
 </td><td>
 
-@escaping \(Result&lt;[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#), NowDataError&gt;\)
+@escaping \(Result&lt;[NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#), NowDataError&gt;\)
 
 </td><td>
 
 Completion handler to execute after the metadata is uploaded. Return values for the completion handler:
 
--   Success: [NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#) - Object containing the metadata for the uploaded attachment.
+-   Success: [NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#) - Object containing the metadata for the uploaded attachment.
 -   Error: NowDataError
     -   `accessToken(AccessTokenProviderError)`
 
@@ -2138,7 +2138,7 @@ configuration
 
 </td><td>
 
-[NowAttachmentUploadConfiguration](../../NowAttachmentUploadConfiguration/concept/NowAttachUploadConfigiOSStruct.md#)
+[NowAttachmentUploadConfiguration](NowAttachUploadConfigiOSStruct.md#)
 
 </td><td>
 
@@ -2174,11 +2174,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-AnyPublisher​&lt;[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#), NowDataError&gt;
+AnyPublisher​&lt;[NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#), NowDataError&gt;
 
 </td><td>
 
-Success: [NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#) - Object that contains the metadata for the requested attachment.Failure: NowDataError
+Success: [NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#) - Object that contains the metadata for the requested attachment.Failure: NowDataError
 
 -   `accessToken(AccessTokenProviderError)`
 

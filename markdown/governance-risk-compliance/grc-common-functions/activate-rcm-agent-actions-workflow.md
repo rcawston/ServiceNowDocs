@@ -20,7 +20,7 @@ Configure and activate the generate regulatory action plan agentic workflow. Thi
 
 Install the Now Assist for IRM plugin \(sn\_irm\_gen\_ai\).
 
-The regulatory alert recommendation skill and a regulatory alert with impacted areas defined are required to generate an action plan. For more information, see [AI-generated recommendations for a regulatory alert skill](../../grc-rcm/concept/recommendations-for-a-regulatory-alert.md).
+The regulatory alert recommendation skill and a regulatory alert with impacted areas defined are required to generate an action plan. For more information, see [AI-generated recommendations for a regulatory alert skill](recommendations-for-a-regulatory-alert.md).
 
 Role required: sn\_nowassist\_admin.nsa\_admin or sn\_aia.admin
 

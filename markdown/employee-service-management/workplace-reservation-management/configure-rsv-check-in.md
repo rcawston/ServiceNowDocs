@@ -15,7 +15,7 @@ breadcrumb: [Configure Workplace Reservation Management portal, Workplace Reserv
 
 Configure automatic reservation check-in using the Occupancy state of a location or space. If a location is using occupancy data sensors, it checks for Occupancy state of each space in the Space Occupancy data table
 
-The Workplace Reservation Management scheduled job **Check-in/out reminder** runs every half an hour \(30 minutes\) daily. It checks for the location state \(Occupied, Unoccupied, Invalid, currently not occupied, etc.\) in the Space Occupancy data table. It also checks if the reservation is checked in or checked out. For more information, see [Retrieving Space Occupancy Data](../../workplace-connectors/task/space-occupancy-data.md).
+The Workplace Reservation Management scheduled job **Check-in/out reminder** runs every half an hour \(30 minutes\) daily. It checks for the location state \(Occupied, Unoccupied, Invalid, currently not occupied, etc.\) in the Space Occupancy data table. It also checks if the reservation is checked in or checked out. For more information, see [Retrieving Space Occupancy Data](../workplace-connectors/space-occupancy-data.md).
 
 **Note:** Reservation check-in and check-out is currently not supported for multi-location reservations \(combining two or more reservations into one reservation\). Check-in or check-out of reservations with multiple locations for the same date and time and with the same reservation owner is not allowed by the application. In case of group reservations, each space is assigned to a different employee, check-in for group reservations is also not allowed in bulk. You have to check-in a reservation one at a time.
 
@@ -51,41 +51,41 @@ In Reservation properties list \(**All** &gt; **Workplace Reservation Management
 **Related topics**  
 
 
-[Install Workplace Reservation Management](../task/install-wsd-reservation-mgmt.md)
+[Install Workplace Reservation Management](install-wsd-reservation-mgmt.md)
 
-[Add a workplace space for reservation](../task/add-reservable-items.md)
+[Add a workplace space for reservation](add-reservable-items.md)
 
-[Add a workplace room for reservation](../task/add-workplace-rooms.md)
+[Add a workplace room for reservation](add-workplace-rooms.md)
 
-[Configure a reservable module](../task/config-reservable-module.md)
+[Configure a reservable module](config-reservable-module.md)
 
-[Assign spaces to an area](../task/add-neighbourhood-spaces-to-an-area.md)
+[Assign spaces to an area](add-neighbourhood-spaces-to-an-area.md)
 
-[Create a standard service](../task/add-standard-services.md)
+[Create a standard service](add-standard-services.md)
 
-[Create a flexible service](../task/add-flexible-service.md)
+[Create a flexible service](add-flexible-service.md)
 
-[Create a workplace service to provide an extra service for a reservation](../task/create-workplace-service-to-provide-extra-service.md)
+[Create a workplace service to provide an extra service for a reservation](create-workplace-service-to-provide-extra-service.md)
 
-[Create a reservable view](../task/create-a-reservable-view.md)
+[Create a reservable view](create-a-reservable-view.md)
 
-[Create a user criteria record](../task/create-user-criteria.md)
+[Create a user criteria record](create-user-criteria.md)
 
-[Configure a reservable purpose](../task/configure-reservable-purpose.md)
+[Configure a reservable purpose](configure-reservable-purpose.md)
 
-[Create a quick reservation time slot](../task/add-reservable-time-slots.md)
+[Create a quick reservation time slot](add-reservable-time-slots.md)
 
-[Configure virtual meeting providers](../task/configure-virtual-meeting-providers.md)
+[Configure virtual meeting providers](configure-virtual-meeting-providers.md)
 
-[Configure Microsoft Teams as virtual meeting provider](../task/configure-msteams-as-virtual-meeting-provider.md)
+[Configure Microsoft Teams as virtual meeting provider](configure-msteams-as-virtual-meeting-provider.md)
 
-[Connect Workplace Reservation Management with Microsoft Teams](../task/connect-rsv-mgmt-with-teams.md)
+[Connect Workplace Reservation Management with Microsoft Teams](connect-rsv-mgmt-with-teams.md)
 
-[Connect Workplace Reservation Management with Zoom](../task/connect-rsv-mtm-with-zoom.md)
+[Connect Workplace Reservation Management with Zoom](connect-rsv-mtm-with-zoom.md)
 
-[Display permanent seat assignments on floor maps](../task/display-permanent-seats-on-maps.md)
+[Display permanent seat assignments on floor maps](display-permanent-seats-on-maps.md)
 
-[Display name of the person reserving a space](../task/displayname-person-booking-rsv.md)
+[Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
 [Manage check-in and check-out reservations](check-in-check-out-process.md)
 

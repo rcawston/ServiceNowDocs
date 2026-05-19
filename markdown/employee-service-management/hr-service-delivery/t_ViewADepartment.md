@@ -48,5 +48,5 @@ The base system provides various departments. You can create or edit existing de
 10. Click **Save** to stay on the **Departments** form or Update to return to the **Departments** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

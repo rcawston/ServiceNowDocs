@@ -23,7 +23,7 @@ Role required: admin or delegated\_developer
 
 The Navigator panel organizes apps and app files alphabetically by metadata type. For example, to find an audio app file, navigate to **File Categories** &gt; **Content** &gt; **Audio**.
 
-For more information about the file types available in the Navigator panel, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md).
+For more information about the file types available in the Navigator panel, see [ServiceNow Studio Navigator panel taxonomy](servicenow-studio-file-navigator-taxonomy.md).
 
 ## Procedure
 
@@ -81,7 +81,7 @@ Enter an app or app file name in the Filter list box to display only matching re
 
 </td><td>
 
-**Note:** Only used when finding app files. For more information, see [Working with metadata app file categories in the ServiceNow Studio Navigator](../concept/sn-studio-working-with-metadata.md).
+**Note:** Only used when finding app files. For more information, see [Working with metadata app file categories in the ServiceNow Studio Navigator](sn-studio-working-with-metadata.md).
 
 Expand the metadata section that contains the app file you want. For example, to find a flow file, expand **Automation** and select **Flow**.
 

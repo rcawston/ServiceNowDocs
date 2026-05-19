@@ -49,5 +49,5 @@ You can link a Microsoft Intune application to an existing software model or cre
         The view returns to the Microsoft Intune Applications list.
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Intune](../concept/csd2-ms-intune.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Intune](csd2-ms-intune.md)
 

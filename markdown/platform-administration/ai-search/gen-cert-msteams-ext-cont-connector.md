@@ -115,5 +115,5 @@ JKS keystore file and password
 Provide this Java KeyStore file and its password to your ServiceNow AI Platform admins. They will need the file and password when configuring the Microsoft Teams external content connector. For details on creating and configuring the Microsoft Teams external content connector, see [Create a Microsoft Teams external content connector](create-ext-cont-connector-msteams.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft Teams external content connector](../concept/microsoft-teams-external-content-connector.md)
+</table>**Parent Topic:**[Microsoft Teams external content connector](microsoft-teams-external-content-connector.md)
 

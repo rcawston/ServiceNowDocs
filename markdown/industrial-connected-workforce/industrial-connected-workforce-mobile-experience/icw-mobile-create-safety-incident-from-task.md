@@ -46,14 +46,14 @@ The task must be active on ICW Mobile application for you to create a safety inc
 
 The safety incident is created and linked to the originating task. The incident can be viewed in the workspace for detailed triage and investigation.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)
 
 **Related topics**  
 
 
-[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](../../icw-digital-factory-workspace/concept/icw-health-and-security-integraton.md)
+[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](../digital-factory-workspace/icw-health-and-security-integraton.md)
 
 [Report safety incident from ICW Mobile](icw-mobile-report-safety-incident.md)
 
-[Using ICW Health and Safety Integration](../../icw-digital-factory-workspace/concept/using-icw-health-and-safety-integration.md)
+[Using ICW Health and Safety Integration](../digital-factory-workspace/using-icw-health-and-safety-integration.md)
 

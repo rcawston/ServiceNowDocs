@@ -36,12 +36,12 @@ Role required: sn\_apm.apm\_user
 
 A list of product capabilities associated with the TRM product is displayed.
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 
 
-[Exploring product capabilities](../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
+[Exploring product capabilities](eaw-exploring-product-capabilities.md)
 
 [Create product capabilities and associate it with a Technology Reference Model product](eaw-create-a-new-product-capability-and-assoc-trm-product.md)
 

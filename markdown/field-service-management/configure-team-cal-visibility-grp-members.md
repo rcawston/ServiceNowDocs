@@ -46,7 +46,7 @@ The Team calendar includes a list of the members in an assignment group and thei
 **Related topics**  
 
 
-[Workforce system properties](../concept/workforce-system-properties.md)
+[Workforce system properties](workforce-system-properties.md)
 
-[Managing agents and tasks from Workforce](../concept/using-manager-workforce.md)
+[Managing agents and tasks from Workforce](field-service-manager-workforce/using-manager-workforce.md)
 

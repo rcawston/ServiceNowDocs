@@ -18,7 +18,7 @@ Work prioritization automatically assigns a priority level to purchase requisiti
 
 When procurement records arrive in a specialist's queue, they have no automatic signal indicating which items are most urgent. Without prioritization, a minor catalog update and a high-value supplier renegotiation appear identical. Work prioritization solves this by evaluating each record against a set of administrator-defined rules and stamping it with a priority level before a specialist opens it. The result is a work queue that specialists can sort and filter by priority, with the most business-critical records surfaced at the top.
 
-Priority is assigned automatically. Specialists and requesters do not set it manually. Administrators control the rules that determine how priority is calculated, through decision tables they configure for each record type. For more information about configuring decision table rules to automatically assign priority to purchase requisitions, sourcing requests, and procurement cases, see [Configuring work prioritization](../concept/configuring-work-prioritization.md).
+Priority is assigned automatically. Specialists and requesters do not set it manually. Administrators control the rules that determine how priority is calculated, through decision tables they configure for each record type. For more information about configuring decision table rules to automatically assign priority to purchase requisitions, sourcing requests, and procurement cases, see [Configuring work prioritization](configuring-work-prioritization.md).
 
 ## Priority levels
 
@@ -75,5 +75,5 @@ A record with Planning priority indicates that no rule matched — not that an a
 -   **[Work prioritization example](work-prioritization-example.md)**  
 This example shows how an organization might configure work prioritization rules for all three record types, and what happens when records are evaluated against those rules.
 
-**Parent Topic:**[Procurement Case Management](../concept/psd-overview.md)
+**Parent Topic:**[Procurement Case Management](psd-overview.md)
 

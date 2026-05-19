@@ -19,10 +19,10 @@ This API requires the Document Management plugin \(com.snc.platform\_document\_m
 
 The following APIs enable you to define and manage documents:
 
--   [SystemDocument](../../SystemDocument/concept/SystemDocumentBothAPI.md#) – Define a document object.
--   [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) – Add, update, or delete a document.
+-   [SystemDocument](SystemDocumentBothAPI.md#) – Define a document object.
+-   [DocumentService](DocumentServiceBothAPI.md#) – Add, update, or delete a document.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DocumentReferenceService - DocumentReferenceService\(\)
 

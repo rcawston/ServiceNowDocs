@@ -19,7 +19,7 @@ Role required: admin, sn\_esg.admin, or sn\_risk.admin
 
 ## About this task
 
-In the manual metric definition, you can choose between a simple or advanced option for the assignment of data owners. For the advanced option, you must configure how the data owner is assigned by creating a new assignment configuration record. For more information, on the manual metric definition form and fields, see [Manual metric definition fields](../reuse/manual-md-reuse.md).
+In the manual metric definition, you can choose between a simple or advanced option for the assignment of data owners. For the advanced option, you must configure how the data owner is assigned by creating a new assignment configuration record. For more information, on the manual metric definition form and fields, see [Manual metric definition fields](manual-md-reuse.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ Data owners will be assigned to metrics based on the parameters set in your assi
 
 **Note:** If the assignment configuration does not return any results the user defined in the **Data owner** field of the metric definition record will be the assigned as the data owner.
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

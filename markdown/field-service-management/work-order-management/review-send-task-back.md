@@ -40,5 +40,5 @@ When an agent closes a task, the task will be sent to you for review. You can cl
 
 If the task details are sufficient, the task is closed.
 
-If more information was required, the task is sent back to the agent and the substate is set to Needs information. The agent will receive a notification that the selected work order task needs more information. In the Mobile Agent® application, the agent can update the work order task with the requested details and send the task back to the reviewer. For more information, see [Respond to a reviewed work order task](../concept/close-wo-wot-mobile.md#).
+If more information was required, the task is sent back to the agent and the substate is set to Needs information. The agent will receive a notification that the selected work order task needs more information. In the Mobile Agent® application, the agent can update the work order task with the requested details and send the task back to the reviewer. For more information, see [Respond to a reviewed work order task](close-wo-wot-mobile.md#).
 

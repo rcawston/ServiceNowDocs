@@ -31,7 +31,7 @@ Invoices are created automatically by integration with Document Intelligence. Ho
 
 3.  On the Create New Invoice form, fill in the fields.
 
-    For a description of the field values, see [Create New Invoice form](../reference/create-new-invoice-form.md).
+    For a description of the field values, see [Create New Invoice form](create-new-invoice-form.md).
 
 4.  Select **Save**.
 
@@ -46,10 +46,10 @@ Create invoice lines for the invoice. For more information, see [Create an invoi
 
 -   **[Create an invoice line manually](create-invoice-line.md)**  
 Create invoice lines manually for an invoice when the invoice automation process doesn't capture this information from an incoming invoice.
--   **[Invoice cost allocation](../concept/invoice-line-cost-allocation.md)**  
+-   **[Invoice cost allocation](invoice-line-cost-allocation.md)**  
 Cost allocation is a process of identifying and allocating the costs across different cost centers or ledger accounts. Accounts Payable specialists allocate invoice line cost across multiple cost centers or ledger accounts for accurate cost analysis and invoice processing.
--   **[Tax calculations](../concept/tax-calculations-in-apo.md)**  
+-   **[Tax calculations](tax-calculations-in-apo.md)**  
 Calculate the final tax for an invoice based on the tax type and the tax tolerance variance.
 
-**Parent Topic:**[Work with invoices](../concept/work-with-invoices.md)
+**Parent Topic:**[Work with invoices](work-with-invoices.md)
 

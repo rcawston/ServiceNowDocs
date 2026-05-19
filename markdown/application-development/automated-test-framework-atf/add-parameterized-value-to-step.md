@@ -47,5 +47,5 @@ When the test runs, Automated Test Framework replaces the parameter with test ru
 
 [Add parameterized data sets](add-parameterized-data.md).
 
-**Parent Topic:**[Parameterized tests](../concept/parameterized-tests.md)
+**Parent Topic:**[Parameterized tests](parameterized-tests.md)
 

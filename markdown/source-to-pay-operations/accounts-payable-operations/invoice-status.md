@@ -90,7 +90,7 @@ Exceptions found
 
 </td><td>
 
-An invoice is updated with the status Exceptions found, when it finds any one or more of the exceptions that were defined in Accounts Payable Operations. For more information on exceptions, see [Invoice exceptions](../concept/work-with-invoice-exceptions.md).
+An invoice is updated with the status Exceptions found, when it finds any one or more of the exceptions that were defined in Accounts Payable Operations. For more information on exceptions, see [Invoice exceptions](work-with-invoice-exceptions.md).
 
 </td></tr><tr><td>
 

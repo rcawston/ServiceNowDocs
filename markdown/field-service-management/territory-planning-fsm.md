@@ -55,9 +55,9 @@ The following screenshot highlights data items and a contextual side panel. Sele
 **Related topics**  
 
 
-[Configuring Field Service Territory Planning](configuring-territory-planning-fsm.md)
+[Configuring Field Service Territory Planning](workforce-optimization-for-field-service/configuring-territory-planning-fsm.md)
 
-[Managing territories and agents from Territory Planning console](using-territory-planning-console.md)
+[Managing territories and agents from Territory Planning console](field-service-manager-workforce/using-territory-planning-console.md)
 
-[Field Service Territory Performance Analytics dashboard](../../../use/dashboards/application-content-packs/territory-planning-dashboard.md)
+[Field Service Territory Performance Analytics dashboard](territory-planning-dashboard.md)
 

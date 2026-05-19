@@ -27,5 +27,5 @@ An overview of the different roles and user criteria in Hiring Experiences.
 |Talent Profile user \[sn\_ta\_tp.talent\_profile\_user\]|This role is required to use the Talent Profile functionalities.|
 |admin|This is the administrator role. This role has access to all the system features, functions, and data, regardless of the security constraints.|
 
-**Parent Topic:**[Hiring Experiences reference](../reference/reference-frmwrk-ta.md)
+**Parent Topic:**[Hiring Experiences reference](reference-frmwrk-ta.md)
 

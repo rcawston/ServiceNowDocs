@@ -31,7 +31,7 @@ You can design the approval workflow for the removal of assignments from vulnera
 |AVIT|Application vulnerable item field change request|Application vulnerability field change request|Unassign app vulnerability item|
 |CVIT|Approval for container management|Default Configuration Unassign CVIT|CVIT unassign approval level - 1|
 
-For more information on how to approve unassign requests, see [Approve or reject an unassign request in Vulnerability Response](../../vulnerability-response/task/vr-approve-unassign-requests.md).
+For more information on how to approve unassign requests, see [Approve or reject an unassign request in Vulnerability Response](vulnerability-response/vr-approve-unassign-requests.md).
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
 

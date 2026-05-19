@@ -40,5 +40,5 @@ When a UI action is defined for the Task table, it applies to all tasks, includi
     2.  Add the condition **current.getRecordClassName\(\) !='incident'**.
 
 
-**Parent Topic:**[Defining UI actions](../concept/c_UIActions.md)
+**Parent Topic:**[Defining UI actions](c_UIActions.md)
 

@@ -77,7 +77,7 @@ Only when these conditions are met, the template is available for selection in t
 
  Operational Resilience administrators can edit or create Smart Assessment templates in the base version and update their automation logic to suit the business needs.
 
- **Note:** For information on setting up Smart Assessment templates, see [Create a Smart Assessment template](../../grc-operational-res/task/create-sm-asmt-temp-as-ws.md) and [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+ **Note:** For information on setting up Smart Assessment templates, see [Create a Smart Assessment template](create-sm-asmt-temp-as-ws.md) and [Create an assessment template](smart-assessment-engine/sae-asmnt-template-create.md).
 
 </td></tr><tr><td id="d185642e324">
 
@@ -94,7 +94,7 @@ Legacy assessment method for performing the importance and impact tolerance asse
 
     **Note:** The approver must be a user other than the owner and assessor.
 
-    For a description of the field values on the Importance and impact tolerance assessment form, see [Create New Importance and impact tolerance assessment form](../reference/importance-and-impact-tolerance-assessment-reference-in-ws.md).
+    For a description of the field values on the Importance and impact tolerance assessment form, see [Create New Importance and impact tolerance assessment form](importance-and-impact-tolerance-assessment-reference-in-ws.md).
 
 6.  In the **Assessment due date** field under the Milestones panel, select the due date for the assessment.
 

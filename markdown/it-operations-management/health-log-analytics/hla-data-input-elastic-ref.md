@@ -555,5 +555,5 @@ The number of seconds before current time to query to include delayed data.The c
 **Note:** If this value is 0 and data is collected from multiple clusters simultaneously, the query may not include data that was sent with a delay on one of the clusters,
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+</table>**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

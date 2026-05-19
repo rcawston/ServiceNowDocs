@@ -44,7 +44,7 @@ Role required: sn\_customerservice.customer
         |Field|Description|
         |-----|-----------|
         |Number|Unique cart ID.|
-        |State|State of the cart. For more information, see [Request for quote \(RFQ\) states](../reference/rfq-states.md).|
+        |State|State of the cart. For more information, see [Request for quote \(RFQ\) states](rfq-states.md).|
         |Created|Cart creation timestamp.|
         |Qty|Product quantity.|
         |Unit list price|Price of a single unit of product or service before adjustments.|

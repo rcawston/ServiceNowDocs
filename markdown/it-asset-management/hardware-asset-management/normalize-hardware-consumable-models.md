@@ -125,5 +125,5 @@ Select **Save**.
 
 The **Normalization Status** field displays **Manually Normalized**.
 
-**Parent Topic:**[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+**Parent Topic:**[Work with hardware normalization](Work-with-hardware-normalization.md)
 

@@ -25,7 +25,7 @@ Run a tag audit to audit discovered CIs for the following tag policy types:
 
 Specify string value or tag keys that you are looking for in a comma-separated format in the Tag Presence policy type. You can also specify a number in the Tag Count check policy type to identify CIs with one or more tags. After you run the tag audits, you can view audit results and configure remediation measures that are based on the compliance index quality. Optionally, you can also assign remediation tasks for non-compliant CIs to user groups and users for follow-on tasks.
 
-Auto-remediation works with the Assume Role on AWS to automate the tagging of cloud resources, by following the steps in [Configure access using temporary credentials based on trusted AWS accounts with AWS credentials](../task/configure-iam-role-aws-account.md).
+Auto-remediation works with the Assume Role on AWS to automate the tagging of cloud resources, by following the steps in [Configure access using temporary credentials based on trusted AWS accounts with AWS credentials](../configure-iam-role-aws-account.md).
 
 The Assume Role must have the following permissions \(policy\) for remediation to work:
 
@@ -81,5 +81,5 @@ While performing tag remediation, if it is found that Discovery is credential-le
 
 **Note:** You must have the ITOM Visibility entitlements to run remediation on CIs in the CMDB. For more information, [contact Customer Service and Support.](https://www.servicenow.com/support/contact-support.html)
 
-**Parent Topic:**[Tag Governance reference](../concept/reference-tag-governance.md)
+**Parent Topic:**[Tag Governance reference](reference-tag-governance.md)
 

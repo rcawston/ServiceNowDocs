@@ -135,5 +135,5 @@ Users who must approve the disclosure.
 -   **[Upload a disclosure document](upload-a-disclosure-document.md)**  
 Upload locally created disclosures in the Operational Sustainability Management application instance.
 
-**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](../concept/esg-disclosures.md)
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](esg-disclosures.md)
 

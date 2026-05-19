@@ -39,10 +39,10 @@ Ensure you have the latest versions of the following plugins:
 Before you start working on the Workday integration, get familiar with the following steps.
 
 -   Ensure you have the HRSD pro/Enterprise license that includes EC Pro. Workday integration is not available for Employee Center Pro standalone.​
--   Understand how Enterprise Service Management Integrations Framework works, see [Using Enterprise Service Management Integrations Framework](../../human-resources/task/use-integrations-framework.md) and [View tasks of a third-party system](../../human-resources/task/display-todos.md)
+-   Understand how Enterprise Service Management Integrations Framework works, see [Using Enterprise Service Management Integrations Framework](../hr-service-delivery/use-integrations-framework.md) and [View tasks of a third-party system](../hr-service-delivery/display-todos.md)
 -   Integrate Workday with ServiceNow, as explained in [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/workday-hr-spoke.md) and [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
--   Activate and run the schedule flow that pulls record details. For more information, see [Activating schedule flows](../../human-resources/task/activate-w-schedule-flow.md).
--   Understand the installed components as explained in [Components installed with HR Service Delivery Integration with Workday](../../human-resources/reference/installed-with-wd.md)
+-   Activate and run the schedule flow that pulls record details. For more information, see [Activating schedule flows](../hr-service-delivery/activate-w-schedule-flow.md).
+-   Understand the installed components as explained in [Components installed with HR Service Delivery Integration with Workday](../hr-service-delivery/installed-with-wd.md)
 -   Understand the basics of [Workday integration](https://www.workday.com/en-us/products/platform-product-extensions/integrations.html) and business processes.
 
 **Note:** The RCAs that are generated after the installation are in the **Requested** state and you must manually mark the RCAs as **Allowed**, which can be time-consuming. To automate the RCA approvals for any record, you can run the EC bulk RCAs approval script where the source scope is one of the Employee Experience applications.
@@ -67,13 +67,13 @@ By default, todos configurations are available for **Open** and **Completed**.
 
 **Note:** For more information the field-level info about leaves, timesheets, timeoffs, compensation change, job change, job requisition, or leave of absence, see [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/workday-hr-spoke.md).
 
-For additional reference information, see [Approvals experience reference](../reference/approval-hub-ootb.md).
+For additional reference information, see [Approvals experience reference](approval-hub-ootb.md).
 
--   **[Fetch Workday reports](../task/wd-ec-approvals-scheduled-job.md)**  
+-   **[Fetch Workday reports](wd-ec-approvals-scheduled-job.md)**  
 As an administrator, fetch the reports metadata from other business applications such as Workday. View the Workday reports, leaves, compensation, and other information from your ServiceNow instance.
--   **[Configure Workday to-dos](../task/config-workday-raas-report.md)**  
+-   **[Configure Workday to-dos](config-workday-raas-report.md)**  
 Store one-time configuration parameters to pull tasks from Workday into the ServiceNow application.
--   **[Use task configuration for Workday approvals](../task/wd-approval-hub-to-dos-page.md)**  
+-   **[Use task configuration for Workday approvals](wd-approval-hub-to-dos-page.md)**  
 Using the default To-dos configuration, you can provide the approvers with more in-context information about the approval requests for better approval workflows.
 
 **Parent Topic:**[Approval hub integrations](approvals-int-concept.md)

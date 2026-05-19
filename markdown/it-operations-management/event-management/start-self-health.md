@@ -44,5 +44,5 @@ Configure the self-health monitoring property to monitor and track application s
 
 The ServiceNow Event Management application services is set according to the value selected for the **evt\_mgmt.self\_health\_active** property.
 
-**Parent Topic:**[Self-health monitors for Event Management](../concept/self-monitoring.md)
+**Parent Topic:**[Self-health monitors for Event Management](self-monitoring.md)
 

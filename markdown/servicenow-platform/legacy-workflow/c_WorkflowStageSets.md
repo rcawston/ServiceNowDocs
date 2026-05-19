@@ -106,7 +106,7 @@ Create a choice list as follows:
 -   Configure the custom field to use a choice list.
 -   If you are creating a new field, set the **Choice List type** to **Display without --None--** and create the choices for the newly created field.
 
-For more information, see [Create a workflow stage field](../../workflow-administration/task/t_CreateAWorkflowStageField.md).
+For more information, see [Create a workflow stage field](t_CreateAWorkflowStageField.md).
 
 ### Procedure
 
@@ -181,5 +181,5 @@ When multiple stage sets have stage set entries with the same **Value**, the sta
 
 ### What to do next
 
-After you add all necessary stage sets to the workflow, you can add them to the workflow activities. For more information, see [Add a stage to a workflow activity](../task/add-translate-stages.md#).
+After you add all necessary stage sets to the workflow, you can add them to the workflow activities. For more information, see [Add a stage to a workflow activity](add-translate-stages.md#).
 

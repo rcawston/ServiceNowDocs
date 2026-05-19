@@ -33,7 +33,7 @@ Health and Safety Core
 
 Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
- For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md).
+ For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
@@ -41,7 +41,7 @@ Health and Safety Risk Management
 
 </td><td>
 
-Installs the Health and Safety Risk Management application. For more information on store applications, roles, and tables installed with Health and Safety Risk Management, see [Components installed with Health and Safety Risk Management](../../hs-risk-management/reference/components-installed-with-hs-risk-mgmt.md)
+Installs the Health and Safety Risk Management application. For more information on store applications, roles, and tables installed with Health and Safety Risk Management, see [Components installed with Health and Safety Risk Management](../health-and-safety-risk-management/components-installed-with-hs-risk-mgmt.md)
 
 </td></tr></tbody>
 </table>## Roles installed
@@ -348,5 +348,5 @@ Service provider request
 Stores records of data requested from the 3E system.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Environmental Management reference](../concept/hs-reference-environmental-management.md)
+</table>**Parent Topic:**[Health and Safety Environmental Management reference](hs-reference-environmental-management.md)
 

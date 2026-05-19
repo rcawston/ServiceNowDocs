@@ -144,9 +144,9 @@ None
 
 After the sn\_hr\_le.admin role has been assigned, remove the role from the admin role to suppress the IT system administrator from viewing sensitive HR information. The removal of the sn\_hr\_le.admin role from admin role ensures that only the Lifecycle Events administrator has access to the sensitive information.
 
-For more information about the process to remove an HR administrator role from the admin role, see [Remove HR Administrator role from IT System Administrators](../task/t_HRRemoveAdminRole.md).
+For more information about the process to remove an HR administrator role from the admin role, see [Remove HR Administrator role from IT System Administrators](../hr-service-delivery/t_HRRemoveAdminRole.md).
 
-The Lifecycle Events administrator \(sn\_hr\_le.admin\) role with the Delegated Developer \(delegated\_developer\) role can also configure and create COEs. For more information, see [HR Centers of Excellence data model](../concept/hr-centers-of-excellence-coes.md).
+The Lifecycle Events administrator \(sn\_hr\_le.admin\) role with the Delegated Developer \(delegated\_developer\) role can also configure and create COEs. For more information, see [HR Centers of Excellence data model](../hr-service-delivery/hr-centers-of-excellence-coes.md).
 
 You can assign these roles to the appropriate roles, groups, or users in your application.
 
@@ -277,5 +277,5 @@ Tracks details about activities waiting to be triggered.
 </td></tr></tbody>
 </table>For further information on table administration and how to manage data, see [Table administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TableAdministration.md).
 
-**Parent Topic:**[Lifecycle Events reference](../concept/lifecycle-events-reference.md)
+**Parent Topic:**[Lifecycle Events reference](lifecycle-events-reference.md)
 

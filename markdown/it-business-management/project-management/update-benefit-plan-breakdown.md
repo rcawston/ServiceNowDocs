@@ -35,7 +35,7 @@ Role required: it\_project\_manager
 
 7.  On the Monetary Benefit Plan Breakdown form, view and update the enabled fields.
 
-    For more information, see [Monetary Benefit Plan Breakdown form](../reference/monetary-benefit-plan-breakdown-form.md).
+    For more information, see [Monetary Benefit Plan Breakdown form](monetary-benefit-plan-breakdown-form.md).
 
 8.  Select **Update**.
 

@@ -63,5 +63,5 @@ Role required: sn\_dex\_desktop.user or sn\_dex\_desktop.admin
 **Related topics**  
 
 
-[Resolve Desktop Assistant screen loading issue](../reference/resolve-loading-da-screen.md)
+[Resolve Desktop Assistant screen loading issue](resolve-loading-da-screen.md)
 

@@ -58,7 +58,7 @@ Initial diagnostic scan \(Scheduled scan\)
 
 **Note:** The first executed instance scan is a full scan.
 
-See [Run your first scan with the Scan Engine](../task/run-scan-engine.md) for first time setup.
+See [Run your first scan with the Scan Engine](run-scan-engine.md) for first time setup.
 
 -   View existing or resolved findings that resulted from the instance scans as well as summarized and detailed scan information.
 
@@ -73,7 +73,7 @@ Diagnostic scans- On-demand scan \(subsequent delta scans\)
 -   Delta scans always look for definitions marked to return one row check per system property.
 -   Scans for specific definitions that were identified as development issues in a previous scan.
 
-**Note:** See [Configure Scan Engine properties](../task/configure-scan-engine-properties.md) for on-demand scan configuration options.
+**Note:** See [Configure Scan Engine properties](configure-scan-engine-properties.md) for on-demand scan configuration options.
 
 
 </td></tr><tr><td>
@@ -88,7 +88,7 @@ The initial Update set scan is a full scan of all open update sets. Subsequent s
 
 -   Child update set findings are visible from the parent update set findings summary scan record.
 
-**Note:** See [Configure update set scanning properties](../task/update-set-scanning-properties.md) for details.
+**Note:** See [Configure update set scanning properties](update-set-scanning-properties.md) for details.
 
 
 </td></tr><tr><td>
@@ -97,12 +97,12 @@ Application scan
 
 </td><td>
 
-Scan applications to identify definition findings before publishing to the application repository. **Note:** See [Initiate application scans](../task/initiating-on-demand-scans-scan-engine.md)for details.
+Scan applications to identify definition findings before publishing to the application repository. **Note:** See [Initiate application scans](initiating-on-demand-scans-scan-engine.md)for details.
 
 </td></tr></tbody>
 </table>## Configuration overview
 
-For more information on configuring and running the Scan Engine, see [Running on-demand scans](../task/using-impact-scan-engine.md), and [Analytics Dashboards](scan-engine-diagnostic-dashboards.md).
+For more information on configuring and running the Scan Engine, see [Running on-demand scans](using-impact-scan-engine.md), and [Analytics Dashboards](scan-engine-diagnostic-dashboards.md).
 
 **Note:** Scan Engine findings are not transmitted to Impact Delivery Instance through the Guided Setup integration.
 

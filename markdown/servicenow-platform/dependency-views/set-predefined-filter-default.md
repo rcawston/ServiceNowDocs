@@ -42,7 +42,7 @@ Role required: sn\_cmdb\_admin or admin
 
 In **Map Settings**, when you select the `Default` option for **Predefined Filters**, the custom predefined filter that was set, will be applied.
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](p_AdministerNGBSM.md)
 
 **Related topics**  
 
@@ -57,7 +57,7 @@ In **Map Settings**, when you select the `Default` option for **Predefined Filte
 
 [Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](condition-script-parameters.md)
 
 [Create or edit a dependency type](t_CreateMapScript.md)
 

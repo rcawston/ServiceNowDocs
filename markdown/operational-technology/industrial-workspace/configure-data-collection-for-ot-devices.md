@@ -50,5 +50,5 @@ The OT Visibility dashboard is now showing the correct data for the collected OT
 
 Now, you can review the indicator sources and determine if you need to override the default records collection. For more information, see [Review the indicator sources for a large number of records](change-indicator-sources-for-larger-number-of-records-otm.md).
 
-**Parent Topic:**[Setting up the Operational Technology Visibility dashboard](../concept/setting-up-the-ot-devices-dashboard.md)
+**Parent Topic:**[Setting up the Operational Technology Visibility dashboard](setting-up-the-ot-devices-dashboard.md)
 

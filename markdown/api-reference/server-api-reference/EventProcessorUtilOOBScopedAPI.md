@@ -19,7 +19,7 @@ If you want to change the default functionality of this script include, you need
 
 This script include runs in the `sn_api_notif_mgmt` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## EventProcessorUtilOOB - constructandPublishEvent\(Object inboundEventPayloadRecord, String eventId\)
 
@@ -77,7 +77,7 @@ You will need to override this method if your implementation does any of the fol
 
 You may also need to override the methods within the `TroubleTicketNotificationUtil` script include to add attributes to the returned TMF-compliant payload or modify the default handling of the payload.
 
-For additional information, see [Configure trouble ticket notifications using the Producer Event Notification Framework](../../../../../integrate/guides/ProducerEventNotifFramework/concept/prd_evt_not-dev_gd-cfg_trbl_tkt_not.md).
+For additional information, see [Configure trouble ticket notifications using the Producer Event Notification Framework](../developer-guides/prd_evt_not-dev_gd-cfg_trbl_tkt_not.md).
 
 <table id="table_bq5_4nz_5zb" class="parameters"><thead><tr><th>
 

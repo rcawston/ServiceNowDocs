@@ -59,11 +59,11 @@ There are a few limitations for GitHub Actions support, see [GitHub Actions conf
 
 Use one of the following options to onboard GitHub. For a guided experience, use the workspace to onboard a tool. Alternatively, you can use the Service Catalog or Classic experience.
 
--   **[Onboard GitHub to DevOps Change Velocity — Workspace](../task/playbook-enter-github-instance-details.md)**  
+-   **[Onboard GitHub to DevOps Change Velocity — Workspace](playbook-enter-github-instance-details.md)**  
 Connect to your GitHub instance using the DevOps Change Workspace playbook to discover, configure, and import repositories, plans, and pipelines.
--   **[Onboard GitHub to DevOps Change Velocity — Service Catalog](../task/sc-github.md)**  
+-   **[Onboard GitHub to DevOps Change Velocity — Service Catalog](sc-github.md)**  
 Create, connect, discover, and configure your GitHub instance using the ServiceNow Service Catalog.
--   **[Onboard GitHub to DevOps Change Velocity — Classic](../task/create-github-tool-dev-ops.md)**  
+-   **[Onboard GitHub to DevOps Change Velocity — Classic](create-github-tool-dev-ops.md)**  
 Connect your GitHub instance to discover, configure, and import repositories, plans, and pipelines.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)

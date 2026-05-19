@@ -19,7 +19,7 @@ Although decision tables are built in Workflow Studio, the actual execution of t
 
 ## Decision tables in flows
 
-In Workflow Studio, decisions are executed as part of the **Make a decision** flow logic. For more information, see [Make a decision flow logic](../../flow-designer/concept/flow-logic-make-decision.md).
+In Workflow Studio, decisions are executed as part of the **Make a decision** flow logic. For more information, see [Make a decision flow logic](flow-logic-make-decision.md).
 
 ## Decision tables in APIs
 

@@ -19,7 +19,7 @@ Create a visual playbook flow of activities so that employees can find informati
 
 Understand the basics of playbooks and workflow studio [Building Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/building-a-process.md).
 
-Review the information from [Guided Self-Service reference](../reference/gss-guided-self-service-reference-info.md).
+Review the information from [Guided Self-Service reference](gss-guided-self-service-reference-info.md).
 
 Role required: sn\_hr\_sp.esc\_admin, playbook.write
 
@@ -63,5 +63,5 @@ Role required: sn\_hr\_sp.esc\_admin, playbook.write
 
 ## Result
 
-GSS is configured to guide employees. For more information, see [Use Guided Self-Service](../concept/gss-guided-self-service-homepage.md).
+GSS is configured to guide employees. For more information, see [Use Guided Self-Service](gss-guided-self-service-homepage.md).
 

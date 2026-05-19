@@ -56,8 +56,8 @@ When the administrator first examines an issue in the MID Server Issue \[ecc\_ag
 Administrators have the opportunity to resolve any resource issues with a MID Server when they receive notification of the event. Follow these recommendations for reducing the strain on MID Server resources:
 
 -   **JVM memory**:
-    -   Allocate more max memory to the MID Server. For more information, see [Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md).
-    -   Add additional MID Servers to share the workload. For more information, see [MID Server clusters](../task/t_ConfigureAMIDServerCluster.md#).
+    -   Allocate more max memory to the MID Server. For more information, see [Set the MID Server JVM memory size](t_MIDServerOptionalConfiguration.md).
+    -   Add additional MID Servers to share the workload. For more information, see [MID Server clusters](t_ConfigureAMIDServerCluster.md#).
     -   Reduce the amount of concurrent processing for the MID Server. This includes segmenting IP Address ranges into smaller segments for a Discovery schedule or loading smaller segments of data within an import job.
 -   **CPU**: Reduce the activity on the host or migrate the MID Server to a new host with more available resources.
 
@@ -173,7 +173,7 @@ Usage percentage of the total memory resources that initiates a threshold breach
 </td></tr></tbody>
 </table>## MID Server resource reporting
 
-The [MID Server dashboard](../concept/c_MIDServerDashboard.md) contains two reports that give you views into the consumption of CPU and JVM memory resources. These reports show usage over the previous 30 days.
+The [MID Server dashboard](c_MIDServerDashboard.md) contains two reports that give you views into the consumption of CPU and JVM memory resources. These reports show usage over the previous 30 days.
 
 -   **Avg Percentage of CPU Used**: Trending the daily average on CPU usage helps illustrate the amount of CPU processing that the MID Server host consumes. MID Servers deployed on the same host will report the same CPU usage.
 -   **Avg Percentage of Max Memory Used**: The maximum used percentage \(**max\_used\_pct**\) is a useful metric for determining if the MID Server has enough memory resources. This metric is a percentage of the max used memory over the total available memory. Trending this over time provides a visualization of how much memory is needed by the MID Server.

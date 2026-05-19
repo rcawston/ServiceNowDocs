@@ -42,16 +42,16 @@ Role required: sn\_apm.apm\_analyst
 
 The existing TRM product is added to the business application.
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[Manage the Technology Reference Model in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-managing-the-technology-portfolio.md)
+[Manage the Technology Reference Model in Enterprise Architecture Workspace](eaw-managing-the-technology-portfolio.md)
 
-[Exploring business applications](../../concept/eaw-concept/eaw-manage-business-applications.md)
+[Exploring business applications](eaw-manage-business-applications.md)
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
-[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 

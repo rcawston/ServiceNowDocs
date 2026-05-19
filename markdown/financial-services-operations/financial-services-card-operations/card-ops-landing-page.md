@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Card Operations.](../task/set-up-card-operations.md)
+[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Card Operations.](set-up-card-operations.md)
 
 </td></tr><tr><td>
 

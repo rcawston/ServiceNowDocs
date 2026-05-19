@@ -59,7 +59,7 @@ The Request elevated access catalog item is available only to the secondary cont
     After the primary contact approves the request, the secondary contact role is elevated to that of the primary contact.
 
 
-**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 **Related topics**  
 
@@ -84,5 +84,5 @@ The Request elevated access catalog item is available only to the secondary cont
 
 [Request something else using the supplier catalog](submit-general-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 

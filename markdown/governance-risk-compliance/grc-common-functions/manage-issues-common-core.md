@@ -17,8 +17,8 @@ You can measure the effectiveness of your company's risk management program by h
 
 Issues can be submitted using two methods, depending on the type of user involved:
 
--   Employees and business users within your company can [self-identify an issue and submit it via the ServiceNow® Service Portal.](../../grc-policy-and-compliance/task/create-self-identified-issues.md) Following submission, a triage issue is automatically created and the issue triage process begins.
--   GRC users can [manually create an issue](../task/t_CreateAnIssue.md) from within their instance to document audit observations and remediations, and compliance and risk issues.
+-   Employees and business users within your company can [self-identify an issue and submit it via the ServiceNow® Service Portal.](../policy-and-compliance-management/create-self-identified-issues.md) Following submission, a triage issue is automatically created and the issue triage process begins.
+-   GRC users can [manually create an issue](../audit-management/t_CreateAnIssue.md) from within their instance to document audit observations and remediations, and compliance and risk issues.
 
 **Note:** Various types of issues can also be automatically generated under the following conditions \(these types of issues are not triaged\):
 
@@ -62,8 +62,8 @@ Issue intake
 
 </td><td>
 
-As described earlier, issues can be submitted using two methods, depending on the type of user involved:-   Employees and business users within your company can self-identify an issue and submit it via the ServiceNow® Service Portal. Following submission, a triage issue is automatically created and the [issue triage process](../../grc-policy-and-compliance/task/triage-issue.md) begins.
--   GRC users can [manually create an issue](../task/t_CreateAnIssue.md) from within their instance. These types of issues are not triaged.
+As described earlier, issues can be submitted using two methods, depending on the type of user involved:-   Employees and business users within your company can self-identify an issue and submit it via the ServiceNow® Service Portal. Following submission, a triage issue is automatically created and the [issue triage process](../policy-and-compliance-management/triage-issue.md) begins.
+-   GRC users can [manually create an issue](../audit-management/t_CreateAnIssue.md) from within their instance. These types of issues are not triaged.
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Prior to closing the issue, the policy owner reviews and approves it. The review
 </td></tr></tbody>
 </table>-   **[Issues in the Workspace](issues-in-workspace.md)**  
 You can track all your issues or one specific issue from the Workspace. Issues are listed under the **Issues** module in the list view of the Workspace.
--   **[Group issues in the Workspace](../task/issue-grouping-in-workspaces.md)**  
+-   **[Group issues in the Workspace](issue-grouping-in-workspaces.md)**  
 Group issues within your workspaces to organize and manage related issues. Grouping similar issues can streamline your workflow and save time.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)

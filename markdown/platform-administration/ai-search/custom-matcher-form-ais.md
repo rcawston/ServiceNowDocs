@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Custom Matcher form includes information about global search custom matchers defined for AI Search. Use this form when creating a custom matcher to return exact-match results from a specific table and column for search terms matching a regular expression.
 
-For details on creating a global search custom matcher, see [Create a custom search matcher for global search](../task/create-search-matcher-ais.md).
+For details on creating a global search custom matcher, see [Create a custom search matcher for global search](create-search-matcher-ais.md).
 
 <table id="table_lxb_c1j_kvb"><thead><tr><th>
 
@@ -74,5 +74,5 @@ Active
 Option to activate the custom matcher. To deactivate the matcher, clear the **Active** option.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Use, ServiceNow Studio, Developing your application, Building appli
 
 An update set is a group of configuration changes that can be moved from one instance to another. This feature allows administrators to group a series of changes into a named set and then move them as a unit to other systems for testing or deployment.
 
-If you're an admin, you might work with update sets in ServiceNow Studio to move changes through your instances. Access update sets from within an individual application or from the **Deployment** tab. Most of the ways you can interact with update sets in ServiceNow Studio are very similar to how you would use them on the ServiceNow AI Platform. For more information about tasks you can accomplish with update sets, see [System update sets](../../system-update-sets/concept/system-update-sets.md).
+If you're an admin, you might work with update sets in ServiceNow Studio to move changes through your instances. Access update sets from within an individual application or from the **Deployment** tab. Most of the ways you can interact with update sets in ServiceNow Studio are very similar to how you would use them on the ServiceNow AI Platform. For more information about tasks you can accomplish with update sets, see [System update sets](../system-update-sets/system-update-sets.md).
 
 Administrators have the following options with update sets.
 
@@ -30,7 +30,7 @@ Administrators have the following options with update sets.
 -   Apply retrieved update sets.
 -   Back out changes applied from an update set.
 -   Set system properties related to update sets.
--   Promote update sets for deployment via ReleaseOps. For more information, see [ReleaseOps](../../release-ops/concept/releaseops-landing.md).
+-   Promote update sets for deployment via ReleaseOps. For more information, see [ReleaseOps](../releaseops/releaseops-landing.md).
 
 Delegated developers have the following options with update sets in ServiceNow Studio.
 
@@ -41,9 +41,9 @@ Delegated developers have the following options with update sets in ServiceNow S
     **Note:** If your app was created in ServiceNow IDE and converted to Fluent, you must switch from ServiceNow Studio back into the ServiceNow IDE for the publishing and deployment process.
 
 
--   **[Create an update set in ServiceNow Studio](../task/sn-studio-create-update-set.md)**  
+-   **[Create an update set in ServiceNow Studio](sn-studio-create-update-set.md)**  
 Create an update set to package app changes for deployment in ServiceNow Studio.
--   **[Mark an update set complete in ServiceNow Studio](../task/mark-update-set-complete.md)**  
+-   **[Mark an update set complete in ServiceNow Studio](mark-update-set-complete.md)**  
 Mark an update set as **Complete** in ServiceNow Studio to enable your changes to be retrieved by other instances.
 
 **Parent Topic:**[Using ServiceNow Studio](using-servicenow-studio.md)

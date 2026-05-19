@@ -33,7 +33,7 @@ ServiceNow® Robotic Process Automation Hub \(RPA Hub\) is a powerful platform f
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about RPA Hub components like fields, tables, and properties.](../reference/rpa-hub-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about RPA Hub components like fields, tables, and properties.](rpa-hub-reference.md)
 
 </td><td>
 
@@ -46,6 +46,6 @@ ServiceNow® Robotic Process Automation Hub \(RPA Hub\) is a powerful platform f
 -   [Ask or answer questions in the community forum](https://www.servicenow.com/community/automation-engine/ct-p/automation-engine)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
--   [Robotic Process Automation \(RPA\) Hub glossary](../reference/rpa-hub-glossary.md#)
+-   [Robotic Process Automation \(RPA\) Hub glossary](rpa-hub-glossary.md#)
 -   [RPA General Guidelines](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1651495)
 

@@ -30,10 +30,10 @@ After submitting a self-serve contract request, a contract document is generated
 
 -   **[Review a contract document in your workspace](cncore-request-changes-ss-cntr.md)**  
 As a contract user, review a contract document and submit a change request to the contract fulfiller if changes are required in the contract document.
--   **[Work on a contract change request](cncore-finalize-document-ss-cntr-1.md)**  
+-   **[Work on a contract change request](../employee-service-management/cncore-finalize-document-ss-cntr-1.md)**  
 As a contract fulfiller, review the change request, update the contract document, and send it back to the contract user.
 -   **[Send a contract document for signature](cncore-send-doc-signature.md)**  
 After a contract document has been reviewed and finalized, send the document for signature.
 
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](../employee-service-management/cncore-request-ss-contract-1.md)
 

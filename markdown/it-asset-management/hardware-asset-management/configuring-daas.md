@@ -41,7 +41,7 @@ Get the Hardware Asset Management application from the [ServiceNow Store](https:
 
 </td><td>
 
-[Install Hardware Asset Management](../../hardware-asset-management/task/install-ham.md)
+[Install Hardware Asset Management](install-ham.md)
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Get the Hardware Asset Management for DaaS application from the [ServiceNow Stor
 
 </td><td>
 
-[Install Hardware Asset Management for DaaS](../task/install-daas.md)
+[Install Hardware Asset Management for DaaS](install-daas.md)
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Mark your assets as DaaS assets on the Hardware Asset Details form.
 
 </td><td>
 
-[Asset record fields](../../asset-management/reference/asset-record-fields.md)
+[Asset record fields](asset-record-fields.md)
 
 </td></tr><tr><td>
 

@@ -24,14 +24,14 @@ Create a function field that displays the results of a database function, such a
 -   **[Display function results in a database view](display-function-results-in-a-database-view.md)**  
 Add a function field to the output of a database view to see function results.
 
-**Parent Topic:**[Working with database views for reporting](../concept/c_DatabaseViews.md)
+**Parent Topic:**[Working with database views for reporting](c_DatabaseViews.md)
 
 **Related topics**  
 
 
 [Joining tables using database views](c_CreatingDatabaseViews.md)
 
-[Using disjunctions in complex queries](../concept/c_UseDisjunctionsInComplexQueries.md)
+[Using disjunctions in complex queries](c_UseDisjunctionsInComplexQueries.md)
 
-[Database views in the base system](../reference/r_DatabaseViewsInTheBaseSystem.md)
+[Database views in the base system](r_DatabaseViewsInTheBaseSystem.md)
 

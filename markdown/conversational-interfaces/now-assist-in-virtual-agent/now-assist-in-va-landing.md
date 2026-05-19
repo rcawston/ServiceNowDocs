@@ -27,7 +27,7 @@ Building a Virtual Agent with Now Assist
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Now Assist in Virtual Agent and configure generative AI skills.](../task/configure-now-assist-va.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Now Assist in Virtual Agent and configure generative AI skills.](configure-now-assist-va.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Analyze![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Mo
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about user input and bot responses supported by Now Assist in Virtual Agent.](../reference/now-assist-in-va-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about user input and bot responses supported by Now Assist in Virtual Agent.](now-assist-in-va-reference.md)
 
 </td><td>
 

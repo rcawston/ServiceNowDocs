@@ -44,5 +44,5 @@ The preferred reporting unit for any data is specified in a metric definition. W
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](configuring-irm-metrics.md)
 

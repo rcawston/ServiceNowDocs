@@ -16,9 +16,9 @@ Reference topics provide additional information such as default notifications, r
 
 -   **[Default Model Risk Management email notifications](mrm-default-notifications.md)**  
 Default Model Risk Management notifications inform users about important events and status changes throughout the Model Risk Management workflow.
--   **[Roles installed with Model Risk Management](../reference/roles-installed-with-mrm.md)**  
+-   **[Roles installed with Model Risk Management](roles-installed-with-mrm.md)**  
 The Model Risk Management application installs the essential roles to perform respective day-to-day operational tasks for managing models.
--   **[Tables installed with Model Risk Management](../reference/tables-installed-with-mrm.md)**  
+-   **[Tables installed with Model Risk Management](tables-installed-with-mrm.md)**  
 Tables are added with the activation of the Model Risk Management application.
 
 **Parent Topic:**[Model Risk Management](model-risk-management.md)

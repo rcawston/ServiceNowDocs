@@ -21,7 +21,7 @@ You can configure a filter to refine the data further and select the aggregation
 
 ![pivot table example](../image/PivotTable.png "Pivot table")
 
-**Parent Topic:**[Report types](../reference/report-types-creation-details-rd.md)
+**Parent Topic:**[Report types](report-types-creation-details-rd.md)
 
 ## Create a pivot table
 
@@ -37,7 +37,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../../dashboards/reference/differences-between-core-ui-ne-dbs.md).
+2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../differences-between-core-ui-ne-dbs.md).
 
 3.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -65,7 +65,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d176022e286">
 
@@ -98,7 +98,7 @@ Row
 
 </td><td>
 
-Select one field for the chart rows. The chart displays data broken down by a combination of row and column values. To select a source field on extended table, see [How to report on extended tables.](../task/t_AccessFieldExtendedTable.md#) Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field.
+Select one field for the chart rows. The chart displays data broken down by a combination of row and column values. To select a source field on extended table, see [How to report on extended tables.](t_AccessFieldExtendedTable.md#) Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Column
 
 </td><td>
 
-Select one field for the chart columns. The chart displays data broken down by a combination of row and column values. To select a source field on an extended table, see [How to report on extended tables.](../task/t_AccessFieldExtendedTable.md#) Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field.
+Select one field for the chart columns. The chart displays data broken down by a combination of row and column values. To select a source field on an extended table, see [How to report on extended tables.](t_AccessFieldExtendedTable.md#) Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field.
 
 </td></tr><tr><td>
 
@@ -130,9 +130,9 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 
  Select **Minimum** or **Maximum** to show the maximum or minimum value for each segment of the report.
 
- For more information on aggregation options, see [Aggregation in reporting](../reference/aggregation-reporting.md).
+ For more information on aggregation options, see [Aggregation in reporting](aggregation-reporting.md).
 
- If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+ If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](t_AccessFieldExtendedTable.md#).
 
  For information about aggregating on FX currency values, see [FX Currency values in reporting](fx-currency-values-reporting.md#).
 

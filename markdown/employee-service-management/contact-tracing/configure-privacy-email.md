@@ -63,5 +63,5 @@ Role required: admin
 11. Click **Update**.
 
 
-**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](../concept/set-up-privacy-consent-settings.md)
+**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](set-up-privacy-consent-settings.md)
 

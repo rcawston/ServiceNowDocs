@@ -22,7 +22,7 @@ Nacha, originally known as the National Automated Clearinghouse Association, is 
 
 The Dispute Rules Content Pack for Nacha application enables your agents to access Nacha operating guidelines to check the eligibility of disputed ACH transactions. It provides a central reference for ACH return reason codes and the logic used to determine them based on the operating guidelines.
 
-Dispute Rules Content Pack for Nacha includes 10 reason codes and the predefined logic to determine if the codes apply to a disputed transaction. See [Dispute Reason Codes](../reference/components-installed-with-dispute-rules-content-pack-for-nacha.md#section_upm_p2c_xgc) for more information.
+Dispute Rules Content Pack for Nacha includes 10 reason codes and the predefined logic to determine if the codes apply to a disputed transaction. See [Dispute Reason Codes](components-installed-with-dispute-rules-content-pack-for-nacha.md#section_upm_p2c_xgc) for more information.
 
 ## Dispute Rules Content Pack for Nacha users
 
@@ -57,7 +57,7 @@ Key benefits of using the Dispute Rules Content Pack for Nacha include:
 
 To learn more about configuring and using Dispute Rules Content Pack for Nacha, see:
 
--   [Installing Dispute Rules Content Pack for Nacha](../task/dispute-rules-content-pack-nacha-install.md)
--   [Using Dispute Rules Content Pack for Nacha](../task/dispute-rules-content-pack-nacha-use.md)
--   [Dispute Rules Content Pack for Nacha reference](../reference/dispute-rules-content-pack-nacha-reference.md)
+-   [Installing Dispute Rules Content Pack for Nacha](dispute-rules-content-pack-nacha-install.md)
+-   [Using Dispute Rules Content Pack for Nacha](dispute-rules-content-pack-nacha-use.md)
+-   [Dispute Rules Content Pack for Nacha reference](dispute-rules-content-pack-nacha-reference.md)
 

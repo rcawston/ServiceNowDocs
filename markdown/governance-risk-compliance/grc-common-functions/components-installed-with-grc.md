@@ -19,5 +19,5 @@ Reference topics provide additional information about components that are instal
 
 Demo data is available for this feature.
 
-**Parent Topic:**[Governance, Risk, and Compliance reference](../concept/grc-reference.md)
+**Parent Topic:**[Governance, Risk, and Compliance reference](grc-reference.md)
 

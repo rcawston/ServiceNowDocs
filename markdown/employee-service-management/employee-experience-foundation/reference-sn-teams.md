@@ -23,8 +23,8 @@ The following properties are installed with the IT Service Management for Micros
 The following properties are installed with the HR Service Delivery for Microsoft 365 plugin.
 -   **[ServiceNow for Microsoft Teams integration API permissions for Request-based chat and SSO](request-based-chat-api-permissions.md)**  
 Following are API permissions requested by the ServiceNow® integration with Microsoft Teams for Request-based chat and SSO.
--   **[ServiceNow for Microsoft Teams integration API permissions for Notify connector and Meeting Extensions](../../notify2/reference/nc-meeting-ext-api-permissions.md)**  
+-   **[ServiceNow for Microsoft Teams integration API permissions for Notify connector and Meeting Extensions](nc-meeting-ext-api-permissions.md)**  
 Following are API permissions requested by the ServiceNow® integration with Microsoft Teams for Notify connector and Meeting Extensions.
 
-**Parent Topic:**[ServiceNow for Microsoft Teams and Microsoft 365](../concept/c_ServiceNowForMSTeams.md)
+**Parent Topic:**[ServiceNow for Microsoft Teams and Microsoft 365](c_ServiceNowForMSTeams.md)
 

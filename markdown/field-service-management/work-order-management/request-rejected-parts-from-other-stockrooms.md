@@ -46,5 +46,5 @@ A part request is created in the Draft state.
 
 ## What to do next
 
-You can source parts for the part request that is created. For more information, see [Request inventory](../concept/request-inventory.md#).
+You can source parts for the part request that is created. For more information, see [Request inventory](request-inventory.md#).
 

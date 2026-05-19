@@ -797,7 +797,7 @@ Gets the site details.
 </td></tr></tbody>
 </table>## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -828,7 +828,7 @@ There might be AI agents installed with the Now Assist application that are not 
 
 ## SharePoint Online account requirements
 
-The Microsoft SharePoint Online spoke requires that you create a custom app on your SharePoint Online account to generate OAuth 2.0 tokens. See [Configure OAuth application in Microsoft Azure](../task/configure-oauth-application-in-microsoft-azure.md).
+The Microsoft SharePoint Online spoke requires that you create a custom app on your SharePoint Online account to generate OAuth 2.0 tokens. See [Configure OAuth application in Microsoft Azure](configure-oauth-application-in-microsoft-azure.md).
 
 ## Connection and credential alias requirements
 
@@ -840,7 +840,7 @@ Integration Hub uses aliases to manage connection and credential information, an
 
 -   **Multiple tenants**
 
-    This spoke includes the MicrosoftSharepointOnline alias record to authorize actions on Microsoft SharePoint Online. Create a connection and credential alias record for each additional tenant site that you want to support. Select the correct alias in the Tenant record to authorize changes in Microsoft SharePoint Online. Create a connection and credential alias record for each additional tenant site that you want to support. Select the correct alias in the Tenant record to authorize changes in Microsoft SharePoint Online. See [Create aliases for multiple tenants](../task/create-aliases-sharepoint.md).
+    This spoke includes the MicrosoftSharepointOnline alias record to authorize actions on Microsoft SharePoint Online. Create a connection and credential alias record for each additional tenant site that you want to support. Select the correct alias in the Tenant record to authorize changes in Microsoft SharePoint Online. Create a connection and credential alias record for each additional tenant site that you want to support. Select the correct alias in the Tenant record to authorize changes in Microsoft SharePoint Online. See [Create aliases for multiple tenants](create-aliases-sharepoint.md).
 
 
 **Note:**

@@ -17,7 +17,7 @@ The scoped GlideSession API provides methods to find information about the curre
 
 There are no constructors for creating an instance of a scoped GlideSession object. Instead, use the getSession\(\) method of the scoped GlideSystem API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped GlideSession - getClientData\(String paramName\)
 

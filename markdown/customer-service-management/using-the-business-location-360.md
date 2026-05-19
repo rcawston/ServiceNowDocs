@@ -36,9 +36,9 @@ By using the Business Location 360, your location staff members get the followin
 **Related topics**  
 
 
-[Access Business Location 360 as a customer service agent](../task/access-business-location-360-as-agents.md)
+[Access Business Location 360 as a customer service agent](access-business-location-360-as-agents.md)
 
-[Access Business Location 360 as a customer service manager](../task/access-business-location-360-as-csm-managers.md)
+[Access Business Location 360 as a customer service manager](access-business-location-360-as-csm-managers.md)
 
 [Business Location 360 components](ui-components-under-business-location-360.md)
 

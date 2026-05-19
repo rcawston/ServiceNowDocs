@@ -85,7 +85,7 @@ You must configure the instance either as a builder or a consumer. You must buil
 
 [Upgrade Center VTB Labels list](uc-vtb-labels-list.md)
 
-[Default skipped rules](../concept/uc-default-skipped-rules.md)
+[Default skipped rules](uc-default-skipped-rules.md)
 
 [Upgrade Center roles](uc-roles.md)
 

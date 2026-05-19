@@ -36,7 +36,7 @@ Role required: admin
 6.  Click **Save**.
 
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](c_Templates.md)
 
 **Related topics**  
 
@@ -49,11 +49,11 @@ Role required: admin
 
 [Create a module for a template](t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](template-bar.md)
 
 [Toggle the template bar](t_ToggleTheTemplateBar.md)
 
-[Scripted templates](../reference/r_ScriptedTemplates.md)
+[Scripted templates](r_ScriptedTemplates.md)
 
 [ACL rule types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/acl-rule-types.md)
 

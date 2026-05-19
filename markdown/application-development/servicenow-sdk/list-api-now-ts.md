@@ -24,7 +24,7 @@ For general information about lists, see [ServiceNow AI Platform® list administ
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## List object
 

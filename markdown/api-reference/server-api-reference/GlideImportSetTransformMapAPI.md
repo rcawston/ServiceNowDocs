@@ -17,20 +17,20 @@ The GlideImportSetTransformMap API provides methods to create transform maps and
 
 You can use the GlideImportSetTransformMap methods in global and scoped scripts. Use the `sn_impex` namespace identifier to create a GlideImportSetTransformMap object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 **Related topics**  
 
 
-[GlideImportLog](../../GlideImportLog/concept/GlideImportLogAPI.md#)
+[GlideImportLog](GlideImportLogAPI.md#)
 
-[GlideImportSetRun](../../GlideImportSetRun/concept/GlideImportSetRunAPI.md#)
+[GlideImportSetRun](GlideImportSetRunAPI.md#)
 
-[GlideImportSetTable](../../GlideImportSetTable/concept/GlideImportSetTableAPI.md#)
+[GlideImportSetTable](GlideImportSetTableAPI.md#)
 
-[GlideImportSetTransformer](../../GlideImportSetTransformer/concept/GlideImportSetTransformerAPI.md#)
+[GlideImportSetTransformer](GlideImportSetTransformerAPI.md#)
 
-[GlideTransformLog](../../GlideTransformLog/concept/GlideTransformLogAPI.md#)
+[GlideTransformLog](GlideTransformLogAPI.md#)
 
 ## GlideImportSetTransformMap - GlideImportSetTransformMap\(String transformMapName, String importSetTableName, String targetTableName\)
 

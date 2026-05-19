@@ -44,7 +44,7 @@ The following Security Operations applications must be installed and activated f
 2.  Security Support Common
 3.  Security Incident Response
 
-For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](../entitle-secops-product.md) and [Activate a ServiceNow Store application](../activate-entitled-store-app.md).
 
 ## ServiceNow Addons
 
@@ -92,5 +92,5 @@ Splunk product website
 </td></tr></tbody>
 </table>## Checklist
 
-For a printable checklist of these topics, see [Checklist for Splunk Enterprise Security Notable Event Ingestion integration](../task/splunk-event-ingest-checklist-security.md). You can use this list to monitor your progress as you work through the tasks of the integration.
+For a printable checklist of these topics, see [Checklist for Splunk Enterprise Security Notable Event Ingestion integration](splunk-event-ingest-checklist-security.md). You can use this list to monitor your progress as you work through the tasks of the integration.
 

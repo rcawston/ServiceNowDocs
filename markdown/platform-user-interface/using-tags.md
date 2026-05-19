@@ -65,7 +65,7 @@ Role required: none
 
 ### About this task
 
-An administrator can configure the fields that appear on the tagged document cards by configuring the mobile view of the task, for example, the mobile view of the Incident form. If there isn’t a mobile view available for the page, the record reverts to the default view. For more information, see [Create and delete views](../../../administer/navigation-and-ui/task/create-delete-view.md).
+An administrator can configure the fields that appear on the tagged document cards by configuring the mobile view of the task, for example, the mobile view of the Incident form. If there isn’t a mobile view available for the page, the record reverts to the default view. For more information, see [Create and delete views](create-delete-view.md).
 
 ### Procedure
 

@@ -30,7 +30,7 @@ Role required: admin
 4.  Attach the required headers at call time.
 
 
--   **[Storing credentials for Verifi CDRN](../reference/store-credentials-for-verifi-cdrn.md)**  
+-   **[Storing credentials for Verifi CDRN](store-credentials-for-verifi-cdrn.md)**  
 Credential storage information for securely managing Issuer ID and Shared Secret values for Financial Services Operations Integration with Verifi.
 
 **Parent Topic:**[configure-financial-services-integration-with-verifi-cdrn.md](configure-financial-services-integration-with-verifi-cdrn.md)

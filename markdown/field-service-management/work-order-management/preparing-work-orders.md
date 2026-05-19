@@ -21,11 +21,11 @@ Create, approve, qualify, or close work orders and manage SLAs using the Field S
 
 The steps for preparing work orders are:
 
-1.  [Manage work orders](../../planning-and-policy/concept/c_ManageWorkOrders.md)
+1.  [Manage work orders](c_ManageWorkOrders.md)
 
     Managing work orders includes the creation, assignment, and tracking of work orders through their completion.
 
-2.  [Manage work order tasks](../../planning-and-policy/concept/c_WorkOrderTasks.md)
+2.  [Manage work order tasks](c_WorkOrderTasks.md)
 
     Work order tasks are an integral part of work orders, they define the activities that must be completed in the work order. Each work order has at least one work order task.
 

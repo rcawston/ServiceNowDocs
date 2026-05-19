@@ -28,5 +28,5 @@ To change the time zone of the scheduled data import:
 3.  Click **Update**.
 
 
-**Parent Topic:**[Using time configuration](../using-time-configuration.md)
+**Parent Topic:**[Using time configuration](using-time-configuration.md)
 

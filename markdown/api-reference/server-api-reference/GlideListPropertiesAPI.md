@@ -19,9 +19,9 @@ To use this class, you must first instantiate a GlideListProperties object using
 
 For an example of this class in the base system, configure a list and select **All**. The tabbed list of options uses the personalize\_all UI page and personalize\_all\_list UI macro to set list properties such as title, context menu, and breadcrumbs.
 
-This API includes methods that provide information about existing GlideList settings and provides options for setting various GlideList properties. For information on how to modify settings in the UI, see [GlideList2 \(g\_list\) - Client](../../GlideList2/concept/c_GlideList2API.md#) or [GlideList \(Next Experience\) - Client](../../GlideListClientNowEx/concept/GlideListClientAPINEx.md#).
+This API includes methods that provide information about existing GlideList settings and provides options for setting various GlideList properties. For information on how to modify settings in the UI, see [GlideList2 \(g\_list\) - Client](../c_GlideList2API.md#) or [GlideList \(Next Experience\) - Client](../GlideListClientAPINEx.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideListProperties - GlideListProperties\(\)
 

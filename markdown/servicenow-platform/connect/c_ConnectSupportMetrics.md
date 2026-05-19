@@ -52,7 +52,7 @@ Performance Analytics - Context Sensitive Analytics for Chat\[com.snc.pa.chat.co
 Provides in-form analytics for Connect Support. These analytics are available as a related link on the Chat Queue Entry \[chat\_queue\_entry\] form, and also as the **Context Sensitive Analytics - Chat** dashboard.
 
 </td></tr></tbody>
-</table>**Note:** For more information about these plugins, including which other plugins they activate, see [Additional plugins for Connect Support](../task/t_ActivateConnectSupport.md#).
+</table>**Note:** For more information about these plugins, including which other plugins they activate, see [Additional plugins for Connect Support](t_ActivateConnectSupport.md#).
 
 **Related topics**  
 

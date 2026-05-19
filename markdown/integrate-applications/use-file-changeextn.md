@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the ChangeExtension component. For more information about these properties, see [Properties of the File components](../reference/util-file-prop.md).
+You can configure the properties for the ChangeExtension component. For more information about these properties, see [Properties of the File components](util-file-prop.md).
 
 ## Procedure
 
@@ -117,5 +117,5 @@ Your RPA robot processes a batch of report files downloaded with `.txt` extensio
 
 ![changeExtension component with .docx extension.](../image/change-extension-rpa.png)
 
-**Parent Topic:**[File](../concept/file.md)
+**Parent Topic:**[File](file.md)
 

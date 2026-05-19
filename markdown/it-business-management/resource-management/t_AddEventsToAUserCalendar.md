@@ -56,7 +56,7 @@ Select a User record to open the User form, and then select the **View Calendar*
 -   When you add a calender event, the resource aggregate daily, weekly, and monthly tables are updated. The resource aggregate daily table isn’t enabled by default. To generate daily aggregates and store them in this table, create the **com.snc.resource\_management.generate\_daily\_aggregates** property and set the value to true.
 -   All the non-project events created for a user from the calender appear as Operational Work for the user in [Resource Finder](create-resource-plan-with-finder.md).
 
-**Parent Topic:**[My Calendar](../concept/c_MyCalendar.md)
+**Parent Topic:**[My Calendar](c_MyCalendar.md)
 
 **Related topics**  
 

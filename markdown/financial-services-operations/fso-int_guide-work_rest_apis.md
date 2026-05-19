@@ -13,7 +13,7 @@ breadcrumb: [Developer resources, Financial Services Operations \(FSO\)]
 
 Financial Services Operations \(FSO\) leverages the REST Table API to enable external sources, such as bank applications, to interact with the FSO data stored on a ServiceNow instance. The Table API provides endpoints that enable you to perform all CRUD operations \(create, read, update, and delete\) on your FSO centric tables from an external source.
 
-For example, you will use this API to locate customer records and query specific FSO information, such as customer credit cards, payments, and loans. For additional information on the available tables within FSO, see [Financial Services Operations Core](../../../../product/fso-common/reference/financial-services-operations-core-data-model.md) and the [FSO table definitions](../reference/fso-int_guide-table_defs.md).
+For example, you will use this API to locate customer records and query specific FSO information, such as customer credit cards, payments, and loans. For additional information on the available tables within FSO, see [Financial Services Operations Core](financial-services-operations-core-data-model.md) and the [FSO table definitions](fso-int_guide-table_defs.md).
 
 You must ensure that the user that you use when calling these REST endpoints has the required roles assigned to them. The following are the roles required based on the table that you are trying to access:
 
@@ -22,7 +22,7 @@ You must ensure that the user that you use when calling these REST endpoints has
 -   Financial Services Business Loan Operations: sn\_bom\_loan\_b2b.admin and admin
 -   Financial Services Personal Loan Operations: sn\_bom\_loan.b2c\_admin and admin
 
-For a list of all of the FSO roles and descriptions, see [User roles and FSO Business rules](../../../../product/fso-common/reference/fso-core-roles.md).
+For a list of all of the FSO roles and descriptions, see [User roles and FSO Business rules](fso-core-roles.md).
 
 ## Test driving ServiceNow® REST APIs
 

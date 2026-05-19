@@ -32,5 +32,5 @@ Role required: evt\_mgmt\_admin
 5.  View which event rules and event field mapping rules were applied and the event field values by selecting the **Activities** tab.
 
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](create-event-rules.md)
 

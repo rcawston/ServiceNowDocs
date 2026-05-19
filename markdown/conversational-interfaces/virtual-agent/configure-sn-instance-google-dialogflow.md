@@ -43,7 +43,7 @@ Role required: admin
 5.  Click **Create and Get OAuth Token**.
 
 
-**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ggl-dialogflow.md)
+**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ggl-dialogflow.md)
 
 **Previous topic:**[Generate a Java Keystore file from the JSON private key file](generate-jks-from-json-dialogflow.md)
 

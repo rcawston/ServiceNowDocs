@@ -45,7 +45,7 @@ Role required: model\_manager
 
 [Add substitute models to a hardware model](t_AddingSubModelsToHrdwModel.md)
 
-[Models](../concept/c_Models.md)
+[Models](c_Models.md)
 
-[Bundled models](../concept/c_CreatingBundledModels.md)
+[Bundled models](c_CreatingBundledModels.md)
 

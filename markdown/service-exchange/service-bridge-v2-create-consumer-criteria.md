@@ -50,7 +50,7 @@ From the list, select an existing condition.
 1.  In the Entity Criteria popup, select **New**.
 2.  On the Consumer criteria new record form, fill in the fields.
 
-For a description of the field values, see [Consumer criteria new record form](../reference/service-bridge-v2-consumer-criteria-new-record-form.md).
+For a description of the field values, see [Consumer criteria new record form](service-bridge-v2-consumer-criteria-new-record-form.md).
 
 3.  Select **Submit.**
 4.  From the criteria list, select your criteria.

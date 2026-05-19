@@ -34,7 +34,7 @@ The Rule form provides information about the rule, including a description, the 
 
 When you create a rule, provide this information and save the record. After saving, you can see the Recommendations related list.
 
-You can access the rule records by navigating to **All** &gt; **Recommended Actions** &gt; **Rules**. New rules can only be created from within a context. For more information, see [Create a rule](../task/ra-csm-rules-create.md).
+You can access the rule records by navigating to **All** &gt; **Recommended Actions** &gt; **Rules**. New rules can only be created from within a context. For more information, see [Create a rule](ra-csm-rules-create.md).
 
 <table id="table_urf_5cf_ztb"><thead><tr><th>
 
@@ -120,5 +120,5 @@ Determines the order in which the rule is applied.
 </table>**Related topics**  
 
 
-[Create a rule in Recommended Actions](../task/ra-csm-rules-create.md)
+[Create a rule in Recommended Actions](ra-csm-rules-create.md)
 

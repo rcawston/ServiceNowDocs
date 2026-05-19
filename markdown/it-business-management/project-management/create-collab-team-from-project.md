@@ -48,10 +48,10 @@ Role required: it\_project\_manager
 
 If you are unable to create a team, retry the procedure after sometime. If the issue persists, contact your system administrator.
 
-**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 
 **Related topics**  
 
 
-[Collaborate with your project teams using PPM Collaboration application](../concept/ppm-collab-overview.md)
+[Collaborate with your project teams using PPM Collaboration application](ppm-collab-overview.md)
 

@@ -32,17 +32,17 @@ As compared to a plan, a scenario additionally has the following:
     -   Start and end dates within the portfolio plan dates.
 -   **Date** fields: The **Start date** and **End date** fields for the scenario are automatically populated based on either the planned or actual start and end dates of the planning items. You can update these dates during the scenario planning process. Once the scenario is approved, the updated dates are recorded as the approved dates for the planning items. If the updated dates fall outside the acceptable range, they’re highlighted in yellow.
 
-For more information on portfolio plans, see [Portfolio plans in Portfolio Planning](../../portfolio-planning/concept/portfolio-plans-in-portfolio-planning-ppw.md).
+For more information on portfolio plans, see [Portfolio plans in Portfolio Planning](portfolio-plans-in-portfolio-planning-ppw.md).
 
-By comparing scenarios side by side, you can assess the differences in goal alignment and trade-offs between each scenario. This comparative analysis helps identify the scenario that best meets strategic objectives. For more information on comparing the scenarios, see [Compare scenarios](../task/compare-scenarios-in-portfolio-planning.md).
+By comparing scenarios side by side, you can assess the differences in goal alignment and trade-offs between each scenario. This comparative analysis helps identify the scenario that best meets strategic objectives. For more information on comparing the scenarios, see [Compare scenarios](compare-scenarios-in-portfolio-planning.md).
 
 ## Scenario planning workflow in Portfolio Planning
 
 Using the Scenario Planning feature in Portfolio Planning, you can perform the following activities:
 
--   Create a scenario to explore different strategic approaches and business outcomes. For more information, see [Create a scenario](../task/create-a-scenario-in-portfolio-planning.md).
--   Adjust and compare multiple scenarios side by side to evaluate differences in goal alignment and trade-offs. For more information, see [Compare scenarios](../task/compare-scenarios-in-portfolio-planning.md).
--   Approve the best scenario that aligns with the organizational goals. For more information, see [Approve a scenario](../task/approve-a-scenario-in-portfolio-planning.md).
+-   Create a scenario to explore different strategic approaches and business outcomes. For more information, see [Create a scenario](create-a-scenario-in-portfolio-planning.md).
+-   Adjust and compare multiple scenarios side by side to evaluate differences in goal alignment and trade-offs. For more information, see [Compare scenarios](compare-scenarios-in-portfolio-planning.md).
+-   Approve the best scenario that aligns with the organizational goals. For more information, see [Approve a scenario](approve-a-scenario-in-portfolio-planning.md).
 -   Set a target portfolio budget for each of your planning cycle, which can be for fiscal period, quarter, yearly, or portfolio timeline.
 -   Evaluate the target vs proposed budget of In-plan items and review the monetary benefit from the prioritized items.
 
@@ -60,5 +60,5 @@ The scenario planning workflow involves an execution owner and a portfolio owner
 
 For more detailed guidance on using scenario planning to enhance your Portfolio Planning process, see [Optimizing planning with scenario planning in Portfolio Planning](optimizing-scenarios-in-portfolio-planning.md).
 
-**Parent Topic:**[Exploring Portfolio Planning](../../portfolio-planning/concept/exploring-portfolio-planning.md)
+**Parent Topic:**[Exploring Portfolio Planning](exploring-portfolio-planning.md)
 

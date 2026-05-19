@@ -23,9 +23,9 @@ Admins can configure dynamic bundling policies and rules to bundle work order ta
 
 ## Activation
 
-For information about activating the Field Service Task Bundling plugin \(com.snc.fsm\_task\_bundle\), see [Activate Field Service Task Bundling](../task/activate-work-order-task-bundling.md).
+For information about activating the Field Service Task Bundling plugin \(com.snc.fsm\_task\_bundle\), see [Activate Field Service Task Bundling](activate-work-order-task-bundling.md).
 
 ## Components
 
-For a detailed list of components added by Field Service Task Bundling, see [Field Service Task Bundling components](../reference/task-bundling-components.md).
+For a detailed list of components added by Field Service Task Bundling, see [Field Service Task Bundling components](../task-bundling-components.md).
 

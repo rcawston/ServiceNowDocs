@@ -31,7 +31,7 @@ With a service definition, you establish connections between the public services
 
 Service definitions are available with the Customer Service Case Types plugin \(com.snc.csm\_case\_types\) that is automatically activated when you enable the Public Sector Digital Services Core plugin.
 
-For more information on how to create a service definition, see [Configure a service definition for Playbooks in Public Sector Digital Services](../task/psds-create-new-service-definition.md).
+For more information on how to create a service definition, see [Configure a service definition for Playbooks in Public Sector Digital Services](psds-create-new-service-definition.md).
 
 ## Service definition tasks for administrators
 

@@ -88,5 +88,5 @@ Description of the deny list record.
 
 The Edge Encryption proxy server terminates any connection from IP addresses, ranges, or network masks on the deny list and cannot forward the request to the instance.
 
-**Parent Topic:**[Configuring Edge Encryption](../concept/edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](edge-config.md)
 

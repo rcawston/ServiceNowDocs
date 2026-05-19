@@ -66,5 +66,5 @@ For more information on Analytics Overview, see [Platform Analytics overview](ht
 
 ![Example Analytics Center for a workspace](../image/sample-worksapce-analytics-next-exp.png "Analytics Overview")
 
-**Parent Topic:**[Exploring Workspace Builder](../../workspace-builder/concept/exploring-workspace-builder.md)
+**Parent Topic:**[Exploring Workspace Builder](exploring-workspace-builder.md)
 

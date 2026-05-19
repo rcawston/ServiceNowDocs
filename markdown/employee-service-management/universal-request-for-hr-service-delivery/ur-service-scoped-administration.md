@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-After you [configure your service](../concept/config-service-for-ur.md), you must perform these steps and create the following ACL-inheritance entries. This enables Universal Request to use your application’s service and service set data.
+After you [configure your service](config-service-for-ur.md), you must perform these steps and create the following ACL-inheritance entries. This enables Universal Request to use your application’s service and service set data.
 
 Only UR administrator \[sn\_uni\_req.ur\_admin\] can assign scoped UR roles.
 
@@ -56,5 +56,5 @@ After granting access, define the **sn\_uni\_req.min\_admin\_count** property in
     Creates an ACL inheritance record for the service configuration table in your scoped application.
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](config-service-for-ur.md)
 

@@ -69,10 +69,10 @@ Validators display three notification levels: CRITICAL, WARN, and INFO. The desi
     The validation message provides a detailed description of the results, including table names, update sets, and other specifics.
 
 
-For the procedure to validate a workflow and generate a validation report, see [Validate a workflow](../../workflow-administration/task/work-on-workflows.md#)
+For the procedure to validate a workflow and generate a validation report, see [Validate a workflow](work-on-workflows.md#)
 
--   **[Workflow validator](../reference/r_WorkflowValidator.md)**  
+-   **[Workflow validator](r_WorkflowValidator.md)**  
 ServiceNow offers several workflow validators for workflow designers to test their workflows.
 
-**Parent Topic:**[Workflow management](../../workflow-administration/concept/managing-workflows.md)
+**Parent Topic:**[Workflow management](managing-workflows.md)
 

@@ -28,7 +28,7 @@ You can use a combination of remote tables and extraction tables to retrieve dat
 
 Replatforming is the process of scanning legacy ERP system code to find potential candidates to move onto your ServiceNow AI Platform instance as new apps. You can use data from the ERP system as a source for apps built on the ServiceNow AI Platform, improving performance, enhancing security, and reducing maintenance.
 
-When you find ERP candidates to replatform, ERP Semantic Mining also provides suggestions for next actions and similar candidates. ERP Semantic Mining supports any ERP modules, or functional areas that admins configure in Zero Copy Connector for ERP. Some example modules are Finance, Procurement, and Sales. For more information, see [Building and managing models to work with ERP data](../../erp-integration/concept/work-with-erp-data-models.md).
+When you find ERP candidates to replatform, ERP Semantic Mining also provides suggestions for next actions and similar candidates. ERP Semantic Mining supports any ERP modules, or functional areas that admins configure in Zero Copy Connector for ERP. Some example modules are Finance, Procurement, and Sales. For more information, see [Building and managing models to work with ERP data](../erp-integration-framework/work-with-erp-data-models.md).
 
 Replatformed data is immediately available, mirrored in easy-to-manage tables and apps. Users no longer must request information from database administrators, which can take weeks. Replatformed apps use the ERP system of record as the live data source.
 
@@ -39,14 +39,14 @@ Complete the following workflow to replatform legacy ERP data with custom code f
 1.  Run an analysis with ERP Semantic Mining on the ERP system of record.
 2.  Connect the ERP system of record to the ServiceNow instance with Zero Copy Connector for ERP.
 
-    ERP Semantic Mining uses the system connections configured in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](../../erp-integration/concept/erp-canvas-work-with-systems.md).
+    ERP Semantic Mining uses the system connections configured in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](../erp-integration-framework/erp-canvas-work-with-systems.md).
 
-3.  Use Zero Copy Connector for ERP to build ERP models from fields on the available remote tables. For more information, see [Building and managing models to work with ERP data](../../erp-integration/concept/work-with-erp-data-models.md).
-4.  Run ERP Semantic Mining to find candidates. Candidates are custom code in the system of record that you can replace with ServiceNow apps. For more information, see [Browse an overview of candidates in ERP Semantic Mining](../task/erpcm-view-home-page-overview.md).
-5.  Choose the candidate to replatform. For more information, see [Save potential candidates to replatform](../task/erpcm-find-candidates.md).
-6.  Use the candidate details in ERP Semantic Mining as a central place to enter comments and save attachments relating to the candidate. For more information, see [View and work with candidate details in ERP Semantic Mining](../task/erpcm-view-work-with-candidate-details.md).
+3.  Use Zero Copy Connector for ERP to build ERP models from fields on the available remote tables. For more information, see [Building and managing models to work with ERP data](../erp-integration-framework/work-with-erp-data-models.md).
+4.  Run ERP Semantic Mining to find candidates. Candidates are custom code in the system of record that you can replace with ServiceNow apps. For more information, see [Browse an overview of candidates in ERP Semantic Mining](erpcm-view-home-page-overview.md).
+5.  Choose the candidate to replatform. For more information, see [Save potential candidates to replatform](erpcm-find-candidates.md).
+6.  Use the candidate details in ERP Semantic Mining as a central place to enter comments and save attachments relating to the candidate. For more information, see [View and work with candidate details in ERP Semantic Mining](erpcm-view-work-with-candidate-details.md).
 7.  In the candidate details, identify any similar candidates that you could combine into a single replatformed app. For more information, see [Determining candidate score and potential](erpcm-potential-and-recommendations.md).
-8.  Return to Zero Copy Connector for ERP to continue building data models with remote tables and extraction tables. Confirm that all the necessary data is available in the ServiceNow AI Platform. For more information, see [Building and managing models to work with ERP data](../../erp-integration/concept/work-with-erp-data-models.md).
+8.  Return to Zero Copy Connector for ERP to continue building data models with remote tables and extraction tables. Confirm that all the necessary data is available in the ServiceNow AI Platform. For more information, see [Building and managing models to work with ERP data](../erp-integration-framework/work-with-erp-data-models.md).
 9.  In ServiceNow Studio or another ServiceNow application, build a scoped app by using the replatformed data as a source.
 10. Measure and monitor the performance of the new app using applicable metrics and parameters with your preferred analytic tools.
 
@@ -54,9 +54,9 @@ Complete the following workflow to replatform legacy ERP data with custom code f
 
 |Benefit|Feature|Role|
 |-------|-------|----|
-|Quickly identify candidates with custom code to replatform without waiting for your ERP administrator|[Save potential candidates to replatform](../task/erpcm-find-candidates.md)|sn\_erp\_mining.erp\_admin, sn\_erp\_mining.erp\_user|
-|View suggestions for next steps and actions to guide you in replatforming|[Check candidate recommendations in ERP Semantic Mining](../task/erpcm-work-with-recommendations.md)|sn\_erp\_mining.erp\_admin, sn\_erp\_mining.erp\_user|
-|Compile selected candidates in a list by saving them|[Save potential candidates to replatform](../task/erpcm-find-candidates.md)|sn\_erp\_mining.erp\_admin, sn\_erp\_mining.erp\_user|
+|Quickly identify candidates with custom code to replatform without waiting for your ERP administrator|[Save potential candidates to replatform](erpcm-find-candidates.md)|sn\_erp\_mining.erp\_admin, sn\_erp\_mining.erp\_user|
+|View suggestions for next steps and actions to guide you in replatforming|[Check candidate recommendations in ERP Semantic Mining](erpcm-work-with-recommendations.md)|sn\_erp\_mining.erp\_admin, sn\_erp\_mining.erp\_user|
+|Compile selected candidates in a list by saving them|[Save potential candidates to replatform](erpcm-find-candidates.md)|sn\_erp\_mining.erp\_admin, sn\_erp\_mining.erp\_user|
 
 ## Additional resources for ERP Semantic Mining
 

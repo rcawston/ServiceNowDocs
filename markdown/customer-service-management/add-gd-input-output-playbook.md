@@ -21,7 +21,7 @@ Role required: admin, pd\_content\_author
 
 The Guided Decision with Inputs and Outputs activity is a playbook activity that enables decision trees to be used in playbooks with the ability to pass input parameters and retrieve output values. This activity allows you to select a specific decision tree version and configure input parameters that map to the questions defined in the first node of the decision tree. The activity supports versioning, where each activation of the decision tree builder creates a new version, and playbook activities continue using their configured version until manually updated. When a decision tree is activated to create a new version, you receive a notification message listing all playbooks and activities that reference the decision tree, with direct links to facilitate version updates.
 
-For more details on playbooks for Customer Service Management, see [Playbooks for Customer Service Management](../concept/customer-service-case-playbooks.md).
+For more details on playbooks for Customer Service Management, see [Playbooks for Customer Service Management](customer-service-case-playbooks.md).
 
 ## Procedure
 
@@ -188,7 +188,7 @@ The decision tree is added to the playbook. Depending on the context of the case
 **Related topics**  
 
 
-[Configuring Guided Decisions](../concept/setting-up-guided-decisions.md)
+[Configuring Guided Decisions](setting-up-guided-decisions.md)
 
-[Configuring guidances and decision trees](../concept/configuring-guided-decisions.md)
+[Configuring guidances and decision trees](configuring-guided-decisions.md)
 

@@ -160,7 +160,7 @@ If you encounter issues with time card creation or time logging, try the followi
 
 For issues you cannot resolve, contact your system administrator or the user with the timecard\_admin role in your organization.
 
-**Parent Topic:**[Time Sheet Portal](../concept/worker-portal.md)
+**Parent Topic:**[Time Sheet Portal](worker-portal.md)
 
 **Related topics**  
 

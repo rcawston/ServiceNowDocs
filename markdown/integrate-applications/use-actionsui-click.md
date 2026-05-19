@@ -21,7 +21,7 @@ Role required: none
 
 The Click component uses the Inter-Process Communication \(IPC\) to send the click events to an application. Use it to click buttons, controls, or anything that typically expects a mouse click.
 
-The properties of the Click component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](../reference/properties-actions-ui-components.md).
+The properties of the Click component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](properties-actions-ui-components.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ The properties of the Click component are common with other Actions UI component
 
 7.  Add an anchor to the captured image by doing the following actions.
 
-    An anchor is a unique identifier that enables the Click component to identify the content where the mouse device actions are simulated. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Click component treats the whole captured image as an anchor. For more information on anchor, see the steps to use the [Anchor](../concept/anchor.md).
+    An anchor is a unique identifier that enables the Click component to identify the content where the mouse device actions are simulated. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Click component treats the whole captured image as an anchor. For more information on anchor, see the steps to use the [Anchor](anchor.md).
 
     1.  In the Click component, right-click the image, and click **Add Anchor**.
 
@@ -90,5 +90,5 @@ The properties of the Click component are common with other Actions UI component
 
 The Click component automates the clicking of the **Home** HTML button on the window. As a result, the user navigates to the home screen or window.
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

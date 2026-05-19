@@ -85,5 +85,5 @@ MID Servers that have been validated are displayed. The MID Server status and th
 
 You can select the configuration item that has a critical alert and change the impact from parent to application service.
 
-**Parent Topic:**[Self-health monitors for Event Management](../concept/self-monitoring.md)
+**Parent Topic:**[Self-health monitors for Event Management](self-monitoring.md)
 

@@ -29,10 +29,10 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 4.  Change the fields as needed and select **Save**.
 
-    Configure which fields are duplicated. For more information, see [Configure the fields to be duplicated in a job requisition](../concept/config-dplcte-fields.md).
+    Configure which fields are duplicated. For more information, see [Configure the fields to be duplicated in a job requisition](config-dplcte-fields.md).
 
 
-**Parent Topic:**[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)
+**Parent Topic:**[Manage the job requisitions as a recruiter](manage-job-reqs.md)
 
 **Related topics**  
 

@@ -36,5 +36,5 @@ Role required: it\_project\_user or it\_project\_manager
 4.  Click the required tab in project workspace to work in it.
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

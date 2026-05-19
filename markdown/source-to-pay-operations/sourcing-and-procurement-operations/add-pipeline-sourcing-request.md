@@ -87,5 +87,5 @@ Add the sourcing request to a new pipeline project.
     The sourcing request is associated with either an existing or a new pipeline project. It is displayed in the **Sourcing Requests** tab of the pipeline project.
 
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](use-pipeline-sourcing-mgmt.md)
 

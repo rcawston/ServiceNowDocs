@@ -84,7 +84,7 @@ Validation status:-   Not validated: This is the initial snapshot state where no
 -   In progress: The validation flow is running and policies are currently executing.
 -   Passed: The snapshot has passed all policies.
 -   Failed: The snapshot has failed one or more policies.
--   Execution error: A policy failed to run to completiondue to an unexpected error, mostly when the [CdmPolicyUtil script include](../reference/cdm-about-cdmpolicyutil.md) is not used to provide warning and failure messages..
+-   Execution error: A policy failed to run to completiondue to an unexpected error, mostly when the [CdmPolicyUtil script include](cdm-about-cdmpolicyutil.md) is not used to provide warning and failure messages..
 
 
 </td></tr><tr><td>

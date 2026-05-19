@@ -56,14 +56,14 @@ To avoid timing out for very large surveys, you can disable the transaction quot
 
 The **Migrate to Assessment** related link on the legacy survey record becomes unavailable after the migration. However, if you delete the record referenced in the **Assessment** field, the related link reappears and you can migrate the legacy survey again.
 
-**Parent Topic:**[Legacy survey migration](../concept/c_MigrateSurveys.md)
+**Parent Topic:**[Legacy survey migration](c_MigrateSurveys.md)
 
 **Related topics**  
 
 
-[Survey question migration](../reference/r_SurveyQuestionMigration.md)
+[Survey question migration](r_SurveyQuestionMigration.md)
 
-[Migrated components](../reference/r_MigratedComponents.md)
+[Migrated components](r_MigratedComponents.md)
 
-[Migrated question review](../reference/r_ReviewMigratedQuestions.md)
+[Migrated question review](r_ReviewMigratedQuestions.md)
 

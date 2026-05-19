@@ -84,5 +84,5 @@ The following is a list of available functions to call on the node object.
 
 For more information, see [LinterCheckAstNode API - Scoped, Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/LinterCheckAstNodeAPIBoth.md).
 
-**Parent Topic:**[Create a linter check](../task/hc-linter-check.md)
+**Parent Topic:**[Create a linter check](hc-linter-check.md)
 

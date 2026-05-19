@@ -215,7 +215,7 @@ The form is auto-filled.
 
     The fields that are auto-filled by Now Assist are highlighted with the Sparkle icon ![](../../../common/image/icon-ai-sparkle.png).
 
-    Only the fields that are supported by ServiceNow AI Lens get auto-populated with the extracted data. If you don’t have any supported fields in your form, then ServiceNow AI Lens won’t update the record. For more information about the supported fields, see [Field types supported](../reference/field-types-supported.md).
+    Only the fields that are supported by ServiceNow AI Lens get auto-populated with the extracted data. If you don’t have any supported fields in your form, then ServiceNow AI Lens won’t update the record. For more information about the supported fields, see [Field types supported](field-types-supported.md).
 
 <table id="choicetable_jjf_zx2_s2c"><thead><tr><th align="left" id="d62727e883">
 
@@ -249,9 +249,9 @@ You can analyze the artifacts as many times as needed without reloading the form
 **Related topics**  
 
 
-[Supporting information for ServiceNow AI Lens](../concept/sn-lens-supporting-info.md)
+[Supporting information for ServiceNow AI Lens](sn-lens-supporting-info.md)
 
-[ServiceNow AI Lens limitations](../reference/sn-lens-limitations.md)
+[ServiceNow AI Lens limitations](sn-lens-limitations.md)
 
 [Create a record in an instance by using ServiceNow AI Lens](create-record-sn-lens.md)
 

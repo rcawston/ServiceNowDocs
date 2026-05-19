@@ -50,7 +50,7 @@ After you have created a contract or the contract has expired, you can renew the
 -   **[Cancel a contract](t_CancelAContract.md)**  
 You can cancel a contract when the **State** is **Active**.
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](c_Contracts.md)
 
 **Related topics**  
 
@@ -61,7 +61,7 @@ You can cancel a contract when the **State** is **Active**.
 
 [Send the contract for approval](t_SendTheContractForApproval.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](c_TermsAndConditions.md)
 
 [Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
 

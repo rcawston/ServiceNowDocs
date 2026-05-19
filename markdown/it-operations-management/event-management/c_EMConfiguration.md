@@ -20,13 +20,13 @@ After activating Event Management, set it up to receive and process events, and 
 Set up Event Management by completing these tasks in the following order:
 
 1.  Configure a [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerSystemRequirements.md) to receive and process events via the MID Server.
-2.  [Configure the MID Web Server extension](../task/configure-mid-web-server-extension.md).
-3.  Configure [Configure Event Management connectors](../reference/connectors-and-listeners.md).
+2.  [Configure the MID Web Server extension](configure-mid-web-server-extension.md).
+3.  Configure [Configure Event Management connectors](connectors-and-listeners.md).
 4.  Configure [event field mappings](c_EMEventFieldMapping.md) and [Binding alerts to CIs](ci-binding-alert.md) to manage alert generation.
-5.  [Alert management rules for resolving alerts](alert-management-rule.md), perform, and [CI remediation](../task/t_SACreateCIRemediation.md) for alert management.
-6.  [Request Service Mapping](../../service-mapping/task/t_ActivateServiceMappingPlugin.md) and get a top-down [discovery](../task/t_EMGetBaselineServiceMapping.md) to receive CI relationships for software and hardware.
+5.  [Alert management rules for resolving alerts](alert-management-rule.md), perform, and [CI remediation](t_SACreateCIRemediation.md) for alert management.
+6.  [Request Service Mapping](../service-mapping/t_ActivateServiceMappingPlugin.md) and get a top-down [discovery](t_EMGetBaselineServiceMapping.md) to receive CI relationships for software and hardware.
 7.  Configure [impact calculation](c_EMImpactCalculation.md) for services, to establish priority for alert resolution.
-8.  Configure [alert groups](../task/t_EMCreateAlertGroup.md) to consolidate related alerts.
+8.  Configure [alert groups](t_EMCreateAlertGroup.md) to consolidate related alerts.
 9.  Configure the Predictive Intelligence plugin \(com.glide.platform\_ml\) to enable machine learning and finding similar alerts.
 10. Configure any other general tasks that appear in this section as appropriate.
 

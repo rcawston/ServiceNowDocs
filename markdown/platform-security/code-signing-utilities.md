@@ -18,7 +18,7 @@ You can find detailed explanations on each dashboard tile in these sections.
 
 ## Maintenance Tasks
 
--   **[Generate batch signatures](../task/batch-signature-generator.md)**
+-   **[Generate batch signatures](batch-signature-generator.md)**
 
     You can use this utility to convert a CSV of records with missing or invalid signatures into optimized batches and produce update sets for import to a protected instance.
 

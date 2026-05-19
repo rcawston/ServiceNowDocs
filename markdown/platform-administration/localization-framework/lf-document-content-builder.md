@@ -194,5 +194,5 @@ saveTranslatedContent: function(documentContent) {
 }
 ```
 
-**Parent Topic:**[Artifact configurations](../concept/framework-configuration.md)
+**Parent Topic:**[Artifact configurations](framework-configuration.md)
 

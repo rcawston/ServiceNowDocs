@@ -39,7 +39,7 @@ By using the Consumer Profile Location \[sn\_csm\_consumer\_profile\_location\] 
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Consumer Profile Location table](../reference/consumer-profile-location-table.md).
+    For a description of the field values, see [Consumer Profile Location table](consumer-profile-location-table.md).
 
 6.  Select **Submit**.
 

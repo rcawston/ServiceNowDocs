@@ -28,7 +28,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 3.  Select **Resend for approval**.
 
     -   The requisition which was in **Ready** state before goes back to **Pending approval** state.
-    -   For more information on the state management system, see [Job requisition state management](../reference/job-req-state-mngmnt.md).
+    -   For more information on the state management system, see [Job requisition state management](job-req-state-mngmnt.md).
 
 ## Result
 
@@ -36,7 +36,7 @@ The approval request is resend to the assigned approver.
 
 On the **Approvers** tab, the state of the approval request changes to Requested.
 
-**Parent Topic:**[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)
+**Parent Topic:**[Manage the job requisitions as a recruiter](manage-job-reqs.md)
 
 **Related topics**  
 

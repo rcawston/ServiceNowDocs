@@ -17,5 +17,5 @@ Conference calls are listed as system activities in the **Activity** section of 
 
 ![View conference call information from incident communication plan](../image/ViewConfCall.png "View conference call information")
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](c_NotifyConferenceCalls.md)
 

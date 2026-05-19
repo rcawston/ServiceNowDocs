@@ -38,5 +38,5 @@ Create experiences using AI-powered UI generation.
     None
 
 
-**Parent Topic:**[UI generation reference](../concept/ui-generation-reference.md)
+**Parent Topic:**[UI generation reference](ui-generation-reference.md)
 

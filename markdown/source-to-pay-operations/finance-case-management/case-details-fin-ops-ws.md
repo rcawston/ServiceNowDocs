@@ -33,7 +33,7 @@ Multi-tab interface
 
 </td><td>
 
-For each finance case, the details are displayed in tabs. For more information, see [Finance Case form tabs](../reference/fin-case-form-tabs.md)
+For each finance case, the details are displayed in tabs. For more information, see [Finance Case form tabs](fin-case-form-tabs.md)
 
 </td></tr><tr><td>
 
@@ -43,7 +43,7 @@ Compose
 
 -   Work notes \(Private\): Enter information that must be private to the logged-in user.
 -   Comments: Enter details that are visible to everyone.
--   Email: Send emails related to the finance case. For more information on sending emails, see [Send emails from Finance Operations Workspace](../task/send-emails-fin-ops-ws.md)
+-   Email: Send emails related to the finance case. For more information on sending emails, see [Send emails from Finance Operations Workspace](send-emails-fin-ops-ws.md)
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Contextual side panel
 Includes options to access Agent assist and add attachments related to the finance case.
 
 </td></tr></tbody>
-</table>-   **[Send emails from Finance Operations Workspace](../task/send-emails-fin-ops-ws.md)**  
+</table>-   **[Send emails from Finance Operations Workspace](send-emails-fin-ops-ws.md)**  
 Send emails related to a specific finance case.
 -   **[Agent assist in Finance Operations Workspace](agent-assist-in-fin-ops-ws.md)**  
 Agent assist displays relevant search results based on the search text. The text is defaulted with the short description of the finance case you’re working on.

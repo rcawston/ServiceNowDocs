@@ -63,7 +63,7 @@ Use update set scan to execute applicable checks against records that are affect
 -   **[Execute an app scan](hs-execute-app-scan.md)**  
 Scan the installed files of an application as well as the application record itself with applicable checks by executing an application scan.
 
-**Parent Topic:**[Executing a scan](../reference/hs-execute-scans.md)
+**Parent Topic:**[Executing a scan](hs-execute-scans.md)
 
 **Related topics**  
 

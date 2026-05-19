@@ -17,7 +17,7 @@ Place requests to the Human Capital Management \(HCM\) system using the HR Servi
 
 ## HCM AI agents Overview
 
-You can submit requests to the HCM system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure HCM AI agents from the HR Service Delivery AI Agent Collection](../task/configure-hcm-agents.md).
+You can submit requests to the HCM system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure HCM AI agents from the HR Service Delivery AI Agent Collection](configure-hcm-agents.md).
 
 ## Worker profile retriever AI agent
 

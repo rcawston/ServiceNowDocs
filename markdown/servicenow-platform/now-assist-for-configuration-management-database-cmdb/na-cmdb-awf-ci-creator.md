@@ -29,7 +29,7 @@ Occasionally, you might create a CI manually. To help you, the Create configurat
 
 The Create configuration item agentic workflow is particularly useful for adding CIs to tables accessed by Operational Technology because users might add physical CIs while unaware of the importance of managing CI data in the CMDB.
 
-**Note:** The workflow helps avoid creation of a CI whose class does not have an identification rule. For more information, see [Identification rules](../../configuration-management/concept/c_IdentificationRules.md).
+**Note:** The workflow helps avoid creation of a CI whose class does not have an identification rule. For more information, see [Identification rules](../configuration-management-database-cmdb/c_IdentificationRules.md).
 
 To learn more about using the Now Assist panel, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
@@ -77,5 +77,5 @@ If you think that data might have changed after you viewed the response, select 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using agentic workflows in Now Assist for CMDB](../../configuration-management/concept/now-assist-cmdb-using.md)
+**Parent Topic:**[Using agentic workflows in Now Assist for CMDB](now-assist-cmdb-using.md)
 

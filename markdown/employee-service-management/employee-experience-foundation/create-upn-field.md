@@ -84,5 +84,5 @@ Role required: admin
     **Note:** Ensure that the email address for all the users for the newly created field is updated with the email associated with Microsoft Teams app.
 
 
-**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](../concept/sn-ms-teams-config-hr.md)
+**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](sn-ms-teams-config-hr.md)
 

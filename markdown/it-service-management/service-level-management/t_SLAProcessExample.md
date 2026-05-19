@@ -72,5 +72,5 @@ This example demonstrates how an SLA can be attached to an incident, then progre
     ![Task SLAs related list on Incident form - Priority 2 SLA completed](../image/TaskSLAIncidentForm-Resolved.png)
 
 
-**Parent Topic:**[Service Level Management reference](../concept/service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
 

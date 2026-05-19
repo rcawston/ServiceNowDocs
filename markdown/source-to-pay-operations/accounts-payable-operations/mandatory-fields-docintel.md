@@ -22,5 +22,5 @@ The Accounts Payable Operations integration with Document Intelligence applicati
 |Invoice amount|Line unit price|
 |Supplier|Invoiced quantity|
 
-**Parent Topic:**[How Accounts Payable Operations integration with Document Intelligence works](../concept/apm-docintel-how-it-works.md)
+**Parent Topic:**[How Accounts Payable Operations integration with Document Intelligence works](apm-docintel-how-it-works.md)
 

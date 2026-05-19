@@ -186,5 +186,5 @@ Select this check box to activate the action.
 </table>7.  Select **Submit**.
 
 
-**Parent Topic:**[Shared data transformation](../concept/shared-data-transformation.md)
+**Parent Topic:**[Shared data transformation](shared-data-transformation.md)
 

@@ -27,13 +27,13 @@ Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)
 
 Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
- [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](../../sgc-ot-discovery/task/install-sgc-ot-discovery.md)
+ [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](install-sgc-ot-discovery.md)
 
 </td></tr><tr><td colspan="2">
 
 Setup![](../images/BUS_64px_Actionable-Analytics_YG.png)
 
- [Service Graph Connector for OT Discovery guided setup](../task/sgc-ot-discovery-guided-setup.md)
+ [Service Graph Connector for OT Discovery guided setup](sgc-ot-discovery-guided-setup.md)
 
 </td></tr></tbody>
 </table>## Troubleshooting

@@ -79,14 +79,14 @@ You can apply a recall value to one class per solution definition.
 
 Train your saved classification solution so that your updates are incorporated.
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 
 
 [Create and train a classification solution](create-solution-definition.md)
 
-[Configuring target metrics for a trained classification solution](../concept/configuring-target-metrics-trained-classification-solution.md)
+[Configuring target metrics for a trained classification solution](configuring-target-metrics-trained-classification-solution.md)
 
 [Configure TF-IDF for solutions](configure-tf-idf-classification-similarity.md)
 

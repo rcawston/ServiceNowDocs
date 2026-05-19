@@ -142,5 +142,5 @@ Enter what was done to reduce the impact of this risk event. For example, if the
 
 The risk event is created in the system and is ready to be analyzed by the risk manager. When an action is taken on the event, you will receive notifications on the status. You can respond to queries or track the status of the event during its life cycle.
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

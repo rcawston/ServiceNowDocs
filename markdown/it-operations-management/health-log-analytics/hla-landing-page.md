@@ -28,31 +28,31 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_yzn_x2s_ncc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Health Log Analytics workflow, architecture, and high-level tasks.](../concept/hla-exploring.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Health Log Analytics workflow, architecture, and high-level tasks.](hla-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Health Log Analytics setup and configuration tasks.](../concept/hla-configuring.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Health Log Analytics setup and configuration tasks.](hla-configuring.md)
 
 </td></tr><tr><td>
 
-[Remediate![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Investigate log data and take action to resolve the underlying issue.](../../health-log-analytics-operator/concept/hla-analyzing-resolving-hla-alert.md)
+[Remediate![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Investigate log data and take action to resolve the underlying issue.](hla-analyzing-resolving-hla-alert.md)
 
 </td><td>
 
-[Control![](../../../reuse/icons/brand-icons/bus-anomaly-detection.svg)Influence how HLA generates and prioritizes alerts and detects anomalies.](../../health-log-analytics-operator/concept/hla-controlling-alert-generation.md)
+[Control![](../../../reuse/icons/brand-icons/bus-anomaly-detection.svg)Influence how HLA generates and prioritizes alerts and detects anomalies.](hla-controlling-alert-generation.md)
 
 </td></tr><tr><td>
 
-[System features and health alerts![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)View system features and core components with related system health alerts.](../../health-log-analytics-operator/concept/hla-system-health-and-features-parent.md)
+[System features and health alerts![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)View system features and core components with related system health alerts.](hla-system-health-and-features-parent.md)
 
 </td><td>
 
-[Analytics and reports![](../../../reuse/icons/brand-icons/bus-management-console.svg)Gain insights into the number of issues predicted before users were affected and the money that was saved.](../../health-log-analytics-operator/concept/hla-analytics-reporting.md)
+[Analytics and reports![](../../../reuse/icons/brand-icons/bus-management-console.svg)Gain insights into the number of issues predicted before users were affected and the money that was saved.](hla-analytics-reporting.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about Health Log Analytics.](../concept/hla-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about Health Log Analytics.](hla-reference.md)
 
 </td><td>
 
@@ -61,11 +61,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 </td></tr></tbody>
 </table>## Health Log Analytics licensing
 
-The ServiceNow AI Platform® uses a licensing method where your organization is billed for using Health Log Analytics, which is available as a separate license from ITOM AIOps. The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [ITOM/OT SU Licensing and subscriptions](../../it-operations-management/reference/itom-su-licensing-landing-page.md).
+The ServiceNow AI Platform® uses a licensing method where your organization is billed for using Health Log Analytics, which is available as a separate license from ITOM AIOps. The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [ITOM/OT SU Licensing and subscriptions](../itom-su-licensing-landing-page.md).
 
 ## Dependencies
 
-For a list of Health Log Analytics plugin dependencies, see [Plugins or applications installed with ITOM AIOps](../../it-operations-management/reference/plugin-app-itom-health.md).
+For a list of Health Log Analytics plugin dependencies, see [Plugins or applications installed with ITOM AIOps](../plugin-app-itom-health.md).
 
 ## Troubleshoot and get help
 

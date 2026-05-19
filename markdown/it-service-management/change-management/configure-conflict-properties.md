@@ -36,7 +36,7 @@ By default, not all properties are selected in the Change Management Conflict An
 4.  Select **Save**.
 
 
-**Parent Topic:**[Conflict detection](../concept/c_ConflictDetection.md)
+**Parent Topic:**[Conflict detection](c_ConflictDetection.md)
 
 **Related topics**  
 
@@ -45,7 +45,7 @@ By default, not all properties are selected in the Change Management Conflict An
 
 [Configure a change request to monitor outside maintenance schedule conflicts](monitor-maintenance-schedule.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](change-conflict-calendar.md)
 
 [Enable automatic change conflict detection](t_RunAutomatedConflictDetection.md)
 

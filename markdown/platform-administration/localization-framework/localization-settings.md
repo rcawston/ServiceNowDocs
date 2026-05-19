@@ -28,13 +28,13 @@ You can enable one or more of the following translation modes to define the tran
     .
 
 -   Configure a TMS service of your choice if you want to send the content to a translation management system for translation. For more information, see [Translation Management System configurations](tms-configuration.md).
--   Configure an email subflow if you want to use a subflow other than the default subflow for sending the translatable content file for translation via email. For more information, see [Create a custom email subflow](../task/create-email-subflow.md).
+-   Configure an email subflow if you want to use a subflow other than the default subflow for sending the translatable content file for translation via email. For more information, see [Create a custom email subflow](create-email-subflow.md).
 
--   **[Create a custom email subflow](../task/create-email-subflow.md)**  
+-   **[Create a custom email subflow](create-email-subflow.md)**  
 Create an email subflow according to your requirements. You can then select this subflow to define translation preferences for a language.
 -   **[Translation Management System configurations](tms-configuration.md)**  
 The Localization Framework supports integration with a translation management system to localize the content.
--   **[Configure the Localization Framework preferences](../task/define-translation-preferences.md)**  
+-   **[Configure the Localization Framework preferences](define-translation-preferences.md)**  
 Configure the preferences to request the translation in the activated languages.
 -   **[Localization Framework Properties: Update Set Strategies](lf-update-set-strategies.md)**  
 Use update sets to migrate your translations to another instance. Configure properties for update sets according to your business requirements.

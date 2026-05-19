@@ -53,5 +53,5 @@ Review your analysis to see whether it needs further refinement. For more inform
 **Related topics**  
 
 
-[Task Mining analyses](../concept/task-mining-dashboard.md)
+[Task Mining analyses](task-mining-dashboard.md)
 

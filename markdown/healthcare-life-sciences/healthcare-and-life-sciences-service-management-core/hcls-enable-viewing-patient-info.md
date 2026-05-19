@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Extend the healthcare case table](../task/hcls-extend-table.md).
+[Extend the healthcare case table](hcls-extend-table.md).
 
 </td><td>
 

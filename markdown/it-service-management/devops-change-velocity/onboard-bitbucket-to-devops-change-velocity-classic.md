@@ -19,7 +19,7 @@ Create, connect, discover, and configure your Bitbucket instance using the Class
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
-Complete the steps specified in the [Getting started](../concept/setting-up-devops-change-velocity.md) section before connecting to a tool.
+Complete the steps specified in the [Getting started](setting-up-devops-change-velocity.md) section before connecting to a tool.
 
 ## About this task
 
@@ -67,7 +67,7 @@ Tool username, Tool password / Access token
 Login credentials of the existing Bitbucket instance.
 
 </td></tr></tbody>
-</table>    For a list of all the permissions required on the credentials for connecting to Bitbucket, see Bitbucket permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+</table>    For a list of all the permissions required on the credentials for connecting to Bitbucket, see Bitbucket permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
 3.  Select **MID Server** for an on-premises tool that is attached to a MID Server.
 
@@ -107,5 +107,5 @@ Login credentials of the existing Bitbucket instance.
 10. In the **App** field, click the lookup list and select an App record to associate with the repository, or click **New** to create one.
 
 
-**Parent Topic:**[Bitbucket integration with DevOps Change Velocity](../concept/bitbucket-integration-dev-ops.md)
+**Parent Topic:**[Bitbucket integration with DevOps Change Velocity](bitbucket-integration-dev-ops.md)
 

@@ -37,10 +37,10 @@ Role required: srm\_admin, srm\_manager, or srm\_responder
 
 5.  Fill in or edit the fields.
 
-    For more information on the field descriptions, see [Edit service details form](../reference/sr-edit-service-form.md).
+    For more information on the field descriptions, see [Edit service details form](sr-edit-service-form.md).
 
 6.  To save the updated service details after editing, select **Save**.
 
 
-**Parent Topic:**[Working with SRM services](../concept/sr-work-services.md)
+**Parent Topic:**[Working with SRM services](sr-work-services.md)
 

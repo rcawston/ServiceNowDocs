@@ -29,7 +29,7 @@ A method of increasing page usability is to tailor components using different st
 
 2.  Open an experience to work in or create an experience by selecting **Create &gt; Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch with responsive authoring.
 
@@ -112,5 +112,5 @@ A method of increasing page usability is to tailor components using different st
 12. Select the tablet and the desktop form factor icons at the top to confirm that no changes were made to the larger form factors.
 
 
-**Parent Topic:**[Responsive authoring](../concept/responsive-authoring.md)
+**Parent Topic:**[Responsive authoring](responsive-authoring.md)
 

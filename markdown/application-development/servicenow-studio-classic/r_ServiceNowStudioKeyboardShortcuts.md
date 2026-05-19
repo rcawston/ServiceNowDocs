@@ -17,7 +17,7 @@ ServiceNow Studio supports various keyboard shortcuts to manage and edit applica
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 <table id="table_ServiceNowStudioKeyboardShortcuts"><thead><tr><th>
 
@@ -68,10 +68,10 @@ Windows: Control+Shift+X
 **Close Tab**. Close the current tab. If the tab contains unsaved changes, the system prompts the user to save them.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legacy - ServiceNow Studio](../concept/c_ServiceNowStudio.md)
+</table>**Parent Topic:**[Legacy - ServiceNow Studio](c_ServiceNowStudio.md)
 
 **Related topics**  
 
 
-[Legacy - ServiceNow Studio](../concept/c_ServiceNowStudio.md)
+[Legacy - ServiceNow Studio](c_ServiceNowStudio.md)
 

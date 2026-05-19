@@ -50,5 +50,5 @@ The process is terminated.
 
 In the contextual side panel, select the Playbook icon \(![Playbook icon](../image/icon-playbook.png)\) to access the current action of the device and to review the action execution history of the device.
 
-**Parent Topic:**[DEX remedial actions](../concept/dex-remedial-actions.md)
+**Parent Topic:**[DEX remedial actions](dex-remedial-actions.md)
 

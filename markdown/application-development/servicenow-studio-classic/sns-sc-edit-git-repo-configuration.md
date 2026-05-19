@@ -95,5 +95,5 @@ Saved credentials to use for the source control connection. All application deve
 6.  Select **Save**.
 
 
-**Parent Topic:**[Source control integration in ServiceNow Studio](../concept/source-control-integration.md)
+**Parent Topic:**[Source control integration in ServiceNow Studio](source-control-integration.md)
 

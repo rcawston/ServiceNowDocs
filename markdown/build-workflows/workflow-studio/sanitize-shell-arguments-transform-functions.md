@@ -15,7 +15,7 @@ breadcrumb: [Transform functions, Flows, subflows, and actions reference, Flows,
 
 Use sanitize shell arguments transform functions to remove any potentially unsafe command injections in String data pills to be used for Bash shell scripting.
 
-Sanitize shell arguments transform functions require a String input data pill. Make sure to use the correct input [data pill type](action-inputs-outputs.md) when applying sanitize shell arguments transform functions. If a sanitize shell arguments transform function is applied to an improper data type, the data is not transformed at runtime and the input value is returned instead. For more information on confirming your flow runtime values, see [Test a flow](../task/flow-test.md).
+Sanitize shell arguments transform functions require a String input data pill. Make sure to use the correct input [data pill type](action-inputs-outputs.md) when applying sanitize shell arguments transform functions. If a sanitize shell arguments transform function is applied to an improper data type, the data is not transformed at runtime and the input value is returned instead. For more information on confirming your flow runtime values, see [Test a flow](flow-test.md).
 
 **Note:** When a data pill is dropped into the **Command** input for an [SSH step](ssh-step-action-designer.md), the sanitize shell arguments transform function category automatically appears.
 
@@ -27,5 +27,5 @@ Returns a String free of any unsafe command injections in your Bash shell script
 |---------------|----------------|
 |String|String - String with Bash shell arguments properly escaped|
 
-**Parent Topic:**[Transform functions](../concept/transform-functions.md)
+**Parent Topic:**[Transform functions](transform-functions.md)
 

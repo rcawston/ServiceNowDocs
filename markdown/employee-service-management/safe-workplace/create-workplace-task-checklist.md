@@ -89,7 +89,7 @@ Steps
 
 ## What to do next
 
-You can [save the checklist as a template](../../workplace-service-delivery/task/save-workplace-task-checklist-template-wsd.md) for easy reuse, if required.
+You can [save the checklist as a template](../workplace-core/save-workplace-task-checklist-template-wsd.md) for easy reuse, if required.
 
 -   **[Save a workplace task checklist as a template](save-workplace-task-checklist-template.md)**  
 You can save a Workplace Core workplace task checklist as a template for easy reuse. A template saves time by adding checklist items automatically in a record where you use it.

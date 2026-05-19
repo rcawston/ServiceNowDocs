@@ -51,7 +51,7 @@ Agent Assist: Provides relevant knowledge articles about the case. You can also 
 
 </td><td>
 
-Employee Documents: Lists documents related to the case you are on. Select the document and you can download it or rename it.**Note:** The Contextual side panel requires the Employee Document Management \[com.sn\_employee\_document\_management\] plugin to display the employee documents. For more information, see [Employee Document Management](hr-employee-doc-management.md).
+Employee Documents: Lists documents related to the case you are on. Select the document and you can download it or rename it.**Note:** The Contextual side panel requires the Employee Document Management \[com.sn\_employee\_document\_management\] plugin to display the employee documents. For more information, see [Employee Document Management](../employee-document-management/hr-employee-doc-management.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Response Templates: Displays reusable messages that you can use when responding 
 
  An HR service configures response templates and are a fast, consistent, and efficient way to respond to common questions related to HR cases.
 
- For more information, see [Response templates for HR Service Delivery](hr-templated-snippets.md#).
+ For more information, see [Response templates for HR Service Delivery](../hr-service-delivery/hr-templated-snippets.md#).
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Response Templates: Displays reusable messages that you can use when responding 
 
 Fulfillment Instructions: Provides you with focused and targeted information on how to complete an HR case faster and more efficiently. Can include specific instructions, KB articles, or a checklist of what to do on the case.
 
- For more information, see [HR fulfillment instructions](hr-fulfillment-instructions.md).
+ For more information, see [HR fulfillment instructions](../hr-service-delivery/hr-fulfillment-instructions.md).
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Checklist: Provides you with a list of things that need to be checked or done. C
 
 </td><td>
 
-Use personal notes to add information that is not finalized and must not be tracked within the case history.For more information, see [Add personal notes](../task/add-pn-aws.md)
+Use personal notes to add information that is not finalized and must not be tracked within the case history.For more information, see [Add personal notes](add-pn-aws.md)
 
 </td></tr></tbody>
 </table>

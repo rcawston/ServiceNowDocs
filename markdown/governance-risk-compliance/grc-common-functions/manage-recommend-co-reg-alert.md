@@ -22,7 +22,7 @@ Accept recommendations to mark specific business areas as impacted, helping comp
 
 Role required: To view your assigned regulatory alerts, you need the sn\_grc\_reg\_change.user and sn\_grc\_comp\_genai.reg\_change\_ai\_user roles.
 
-For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](../../grc-rcm/reference/user_roles_and_actions.md).
+For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](../regulatory-change-management-service-portal/user_roles_and_actions.md).
 
 **Important:** Be sure to check AI-generated recommendations for accuracy. If no information is available, the generated recommendations display "No recommendations available", “None", "No records to display", and so on.
 
@@ -46,7 +46,7 @@ For more information on related roles and regulatory alerts, see [Types of alert
 
     ![Details of the recommended control objective.](../../grc-rcm/image/reco-co-details.png)
 
-    **Note:** The `Suggest business operations affected by regulatory alert recommendation context` provides the recommendations that you see here. For more information, see [Recommendation contexts and templates](../../grc-rcm/concept/recommendation-contexts.md).
+    **Note:** The `Suggest business operations affected by regulatory alert recommendation context` provides the recommendations that you see here. For more information, see [Recommendation contexts and templates](recommendation-contexts.md).
 
     If recommendations are available, you can scroll through the generated list of control objectives recommendation cards and review the information about each control, such as its name and compliance status.
 
@@ -169,7 +169,7 @@ Related risk statements that can be associated with the control objective.For ea
 
 
 </td></tr></tbody>
-</table>    For full descriptions of these fields, see [Create a control objective](../../grc-policy-and-compliance/task/t_CreateAPolicyStatement.md), [Create a policy](../../grc-policy-and-compliance/task/t_DefineAPolicy.md), [Create a control](../../grc-policy-and-compliance/task/t_CreateAControl.md), and [Create a risk manually](../../grc-risk/task/t_CreateRisk.md).
+</table>    For full descriptions of these fields, see [Create a control objective](../../grc-policy-and-compliance/task/t_CreateAPolicyStatement.md), [Create a policy](../../grc-policy-and-compliance/task/t_DefineAPolicy.md), [Create a control](../policy-and-compliance-management/t_CreateAControl.md), and [Create a risk manually](../grc-risk-management-workspace/t_CreateRisk.md).
 
 5.  To associate child control objectives, policies, controls, or risk statements with your recommendation, navigate to the corresponding tab and select the check box for each record you want to include as part of the impacted areas.
 

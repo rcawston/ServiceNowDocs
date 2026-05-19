@@ -30,12 +30,12 @@ Role required: sn\_apm.apm\_user
 4.  Update the details and select **Save**.
 
 
-**Parent Topic:**[Working with Enterprise Architecture workspace home page](../../concept/eaw-concept/eaw-work-with-ea-workspace-homepage.md)
+**Parent Topic:**[Working with Enterprise Architecture workspace home page](eaw-work-with-ea-workspace-homepage.md)
 
 **Related topics**  
 
 
 [Approve or reject TRM requests](eaw-approve-trm-req.md)
 
-[Manage the Technology Reference Model in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-managing-the-technology-portfolio.md)
+[Manage the Technology Reference Model in Enterprise Architecture Workspace](eaw-managing-the-technology-portfolio.md)
 

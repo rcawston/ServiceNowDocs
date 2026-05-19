@@ -25,7 +25,7 @@ Keep the following in mind when working with the product catalog.
 -   A model can only have one product catalog item.
 -   A vendor catalog item can only have a single product catalog item.
 
--   **[Components installed with Product Catalog](../reference/r_InstalledWithProductCatalog.md)**  
+-   **[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)**  
 The following components are installed with the Product Catalog plugin.
 -   **[Models](c_Models.md)**  
 Models are specific versions or various configurations of an asset. Models are used for managing and tracking assets through various ServiceNow platform asset applications, including Product Catalog, Asset Management, and Procurement.
@@ -38,7 +38,7 @@ Model categories associate CI classes with asset classes. Model categories are p
 -   **[Domain separation and Product Catalog](domain-separation-product-catalog.md)**  
 Domain separation is supported in the Product Catalog. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Asset Management](../../asset-management/concept/c_AssetManagement.md)
+**Parent Topic:**[Asset Management](../asset-management/c_AssetManagement.md)
 
 **Related topics**  
 

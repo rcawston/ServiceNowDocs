@@ -29,5 +29,5 @@ The Licensable Software Products Deployed on Containers report is available only
 |Virtual CPU|Number of virtual CPUs \(vCPUs\) that are assigned to the Docker container.|
 |Software Installed|Software product that you are deploying through the Docker container.|
 
-**Parent Topic:**[Microsoft SQL Server licensing in container deployments](../concept/microsoft-licensing-software-containers.md)
+**Parent Topic:**[Microsoft SQL Server licensing in container deployments](microsoft-licensing-software-containers.md)
 

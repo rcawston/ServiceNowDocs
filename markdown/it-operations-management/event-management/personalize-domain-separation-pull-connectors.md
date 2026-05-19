@@ -125,7 +125,7 @@ The key in the payload that has the domain identifier. For example, if the paylo
     -   **connectorDomainInfoColumnName** - user\_name
     -   **connectorDomainIdColumnName** - sys\_domain
     -   **connectorDomainPathColumnName** - sys\_domain\_path
-    For more information, see [Connector domain metadata](../reference/connector-domain-metadata.md).
+    For more information, see [Connector domain metadata](connector-domain-metadata.md).
 
     | | | |
     |---|---|---|
@@ -139,5 +139,5 @@ The key in the payload that has the domain identifier. For example, if the paylo
 
 The Event Management connector is set up for domain separation.
 
-**Parent Topic:**[Event Management Connectors domain personalization](../concept/domain-separation-connectors-personalization.md)
+**Parent Topic:**[Event Management Connectors domain personalization](domain-separation-connectors-personalization.md)
 

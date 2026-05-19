@@ -52,26 +52,26 @@ Role required: sn\_shop.shopping\_hub\_admin or sn\_shop.procurement\_administra
 
 The newly added button is displayed in Shopping Hub.
 
-**Parent Topic:**[Configure Sourcing and Procurement Operations](../concept/configuring-spo.md)
+**Parent Topic:**[Configure Sourcing and Procurement Operations](configuring-spo.md)
 
 **Related topics**  
 
 
 [Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 
 [Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 
-[Configuring work prioritization](../concept/configuring-work-prioritization.md)
+[Configuring work prioritization](configuring-work-prioritization.md)
 
 [Customize your top suppliers on Shopping Hub](customize-top-suppliers.md)
 
 [Configure conditions for merging purchase requisitions](config-pr-merge.md)
 
-[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 
 [Install ShoppingHub Mobile](install-shoppinghub-mobile.md)
 
-[Advanced Work Assignment for Source-to-Pay Operations](../concept/awa-spo.md)
+[Advanced Work Assignment for Source-to-Pay Operations](awa-spo.md)
 

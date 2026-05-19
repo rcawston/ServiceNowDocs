@@ -61,5 +61,5 @@ Use list modules to provide quick access to pre-filled data, eliminating the nee
     ![Arrow pointing the open module icon in the header.](../image/neame-open-list-module.png)
 
 
-**Parent Topic:**[Next Experience All Menu Editing](../concept/next-experience-all-menu-editing.md)
+**Parent Topic:**[Next Experience All Menu Editing](next-experience-all-menu-editing.md)
 

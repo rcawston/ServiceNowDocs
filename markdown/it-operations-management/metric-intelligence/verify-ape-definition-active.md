@@ -38,5 +38,5 @@ You can't modify the conditions of the definitions that come with the base syste
 4.  Select **Save**.
 
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 

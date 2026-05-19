@@ -27,12 +27,12 @@ Role required: sn\_lep.achievement\_manager
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Achievement form](../reference/achievements-definitions-form.md).
+    For a description of the field values, see [Achievement form](achievements-definitions-form.md).
 
 
 -   **[Define user access for achievements](user-access-achievements.md)**  
 Define user access to the collection to configure who has can and can’t read access to the achievements.
--   **[Add associated skills to an achievement](../task/associate-skills-achievements.md)**  
+-   **[Add associated skills to an achievement](associate-skills-achievements.md)**  
 Add associated skills to define the scope of an achievement.
 
 **Parent Topic:**[Manage Learning](manage-learning-achievements.md)
@@ -52,7 +52,7 @@ Add associated skills to define the scope of an achievement.
 
 [Create user achievements](create-user-achievements.md)
 
-[Create an achievement rule](../task/create-achievement-rule.md)
+[Create an achievement rule](create-achievement-rule.md)
 
-[Create an achievement rule item](../task/achievement-rule-item.md)
+[Create an achievement rule item](achievement-rule-item.md)
 

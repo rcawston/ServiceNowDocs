@@ -36,10 +36,10 @@ Role required: admin
 
 [Import an S/MIME key pair](import-smime-key-pair.md)
 
-**Parent Topic:**[Email encryption - S/MIME protocol](../concept/smime-inbound-outbound-mails.md)
+**Parent Topic:**[Email encryption - S/MIME protocol](smime-inbound-outbound-mails.md)
 
 **Related topics**  
 
 
-[Setting up S/MIME for email](../concept/smime-for-email-signing-and-encryption.md)
+[Setting up S/MIME for email](smime-for-email-signing-and-encryption.md)
 

@@ -35,7 +35,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 6.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](change_request_forms.md).
 
 7.  Select **Save**.
 
@@ -58,7 +58,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 The equipment or rack record is removed from the logical composite record.
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 
 **Related topics**  
 

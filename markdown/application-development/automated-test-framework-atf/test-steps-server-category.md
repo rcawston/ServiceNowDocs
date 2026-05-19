@@ -1019,7 +1019,7 @@ The javascript for the server to execute. Supports the Jasmine testing framework
     assertEqual(testAssertion); // throws Error, logs message to test step output
     ```
 
--   See [Step Execution Scripts](../concept/atf-config-script.md) for Run Server Side script example.
+-   See [Step Execution Scripts](atf-config-script.md) for Run Server Side script example.
 
 ## Replay Request Item
 
@@ -1106,7 +1106,7 @@ The request item to be replayed.
 **Related topics**  
 
 
-[Automated Test Framework use case: test a Service Catalog request](../task/atf-serv-cat-use.md)
+[Automated Test Framework use case: test a Service Catalog request](atf-serv-cat-use.md)
 
 ## Log
 
@@ -1184,7 +1184,7 @@ Log
 
 </td><td id="atf-log">
 
-The message to be logged. To include the value of an output variable from a previous step, click the input value icon \(![Input value icon](../image/rem-value-icon.png)\) and follow the procedure to [Pass values from one automated test step to another](../task/atf-retrieve-value.md).
+The message to be logged. To include the value of an output variable from a previous step, click the input value icon \(![Input value icon](../image/rem-value-icon.png)\) and follow the procedure to [Pass values from one automated test step to another](atf-retrieve-value.md).
 
 </td></tr></tbody>
 </table>## Add Attachments to Existing Record
@@ -1396,7 +1396,7 @@ Special instructions for the request.
 
 Provides an example of scripts for a custom step configuration.
 
-This example checks if the user name provided starts with the letter A. This step is useful primarily to users with the \[atf\_test\_admin\] role. Users with the \[atf\_test\_admin\] role can view the example scripts by opening the record for this step in [Step configurations](../concept/step-configurations-module.md).
+This example checks if the user name provided starts with the letter A. This step is useful primarily to users with the \[atf\_test\_admin\] role. Users with the \[atf\_test\_admin\] role can view the example scripts by opening the record for this step in [Step configurations](step-configurations-module.md).
 
 <table id="table_dd3_bp2_kfb"><thead><tr><th>
 
@@ -1468,7 +1468,7 @@ User
 
 </td><td id="atf-custom-script-user">
 
-The user whose name the system checks to see if it starts with the letter **A**. To include the value of an output variable from a previous step, click the input value icon \(![Input value icon](../image/rem-value-icon.png)\) and follow the procedure to [Pass values from one automated test step to another](../task/atf-retrieve-value.md).
+The user whose name the system checks to see if it starts with the letter **A**. To include the value of an output variable from a previous step, click the input value icon \(![Input value icon](../image/rem-value-icon.png)\) and follow the procedure to [Pass values from one automated test step to another](atf-retrieve-value.md).
 
 </td></tr></tbody>
 </table>|Field|Description|
@@ -1478,9 +1478,9 @@ The user whose name the system checks to see if it starts with the letter **A**.
 **Related topics**  
 
 
-[Create custom step configuration](../task/atf-create-custom-step.md)
+[Create custom step configuration](atf-create-custom-step.md)
 
-[Step execution scripts](../concept/atf-config-script.md)
+[Step execution scripts](atf-config-script.md)
 
-[Step description generation script](../concept/atf-config-desc-script.md)
+[Step description generation script](atf-config-desc-script.md)
 

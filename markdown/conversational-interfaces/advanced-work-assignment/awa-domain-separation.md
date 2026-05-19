@@ -42,7 +42,7 @@ When an instance has a domain hierarchy where users and groups belong to differe
     -   To route all work items in domain X and its child domains to a queue, use the **Domain Path** field and specify a condition such as: **\[Domain Path\] \[starts with\] \[!!!/!!\#/\]**
 -   **Assign work to agents in the appropriate domain**
 
-    To assign work items to agents in the appropriate domain, ensure that the assignment groups specified in the queue [Eligibility Assignment pools](../task/awa-specify-assignment-eligibility.md) have agents that belong to the domains where they can see the work items routed to the queue.
+    To assign work items to agents in the appropriate domain, ensure that the assignment groups specified in the queue [Eligibility Assignment pools](awa-specify-assignment-eligibility.md) have agents that belong to the domains where they can see the work items routed to the queue.
 
     If a mismatch occurs, and agents in an eligible assignment group cannot see a work item in a queue, AWA may temporarily assign an item to an agent. However, before the item is moved to the agent's inbox, AWA automatically rejects the assignment with the reason **No access**. AWA reassigns the work item to a different agent who might have access. If none of the available agents can see the work item, the item could be rejected multiple times.
 

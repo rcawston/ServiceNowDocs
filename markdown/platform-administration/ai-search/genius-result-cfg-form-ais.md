@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The AI Search Genius Result Configuration form contains information about Genius Result configurations defined for your search profiles in AI Search. Use this form when creating or modifying a Genius Result configuration.
 
-For details on creating or editing a Genius Result configuration, see [Create a Genius Result configuration](../task/create-genius-results-config-ais.md).
+For details on creating or editing a Genius Result configuration, see [Create a Genius Result configuration](create-genius-results-config-ais.md).
 
 <table id="table_wqk_ttg_trb"><thead><tr><th>
 
@@ -42,7 +42,7 @@ Trigger condition
 Condition that triggers evaluation of the Genius Result configuration. Supported values:
 
 -   **Always**: The Genius Result configuration triggers for every search query.
--   **NLU**: The Genius Result configuration triggers when the search query's detected intent matches an [NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-models.md) intent. To use this trigger condition, you must link the NLU model and one or more of its intents to your Genius Result configuration. For instructions, see [Link an NLU model and intents to a Genius Result configuration](../task/link-nlu-model-genius-result-ais.md).
+-   **NLU**: The Genius Result configuration triggers when the search query's detected intent matches an [NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-models.md) intent. To use this trigger condition, you must link the NLU model and one or more of its intents to your Genius Result configuration. For instructions, see [Link an NLU model and intents to a Genius Result configuration](link-nlu-model-genius-result-ais.md).
 
 **Note:**
 
@@ -138,5 +138,5 @@ To view the list of AI Search index fields, see [AI Search index fields](index-f
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

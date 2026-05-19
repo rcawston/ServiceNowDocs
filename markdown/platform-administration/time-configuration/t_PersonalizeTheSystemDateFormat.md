@@ -33,7 +33,7 @@ Personalizing the date format does not change global settings or impact the way 
 3.  Click **Update**.
 
 
-**Parent Topic:**[Global date and time field format](../reference/r_FormatDateAndTimeFields.md)
+**Parent Topic:**[Global date and time field format](r_FormatDateAndTimeFields.md)
 
 **Related topics**  
 

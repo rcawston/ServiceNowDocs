@@ -56,5 +56,5 @@ Enterprise agile iteration \[sn\_apw\_advanced\_eap\_iteration\] in Strategic Pl
 **Related topics**  
 
 
-[Review default mapping configuration for Jira projects in SPW](../task/review-default-map-config-jira-projects-spw.md)
+[Review default mapping configuration for Jira projects in SPW](review-default-map-config-jira-projects-spw.md)
 

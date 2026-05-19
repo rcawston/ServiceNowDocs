@@ -71,11 +71,11 @@ The **Sprint Tracking** tab provides the following views:
     ![Sprint Tracking List](../images/team-list.png)
 
 
--   **[Manage your team backlog](../task/manage-team-backlog.md#)**  
+-   **[Manage your team backlog](manage-team-backlog.md#)**  
 Manage, evaluate, prioritize, and sequence stories in your team backlog.
--   **[Track your SAFe tasks from the Board view](../task/track-stories-board.md)**  
+-   **[Track your SAFe tasks from the Board view](track-stories-board.md)**  
 Track the progress of your SAFe stories and scrum tasks. View their transition from one state \(lane\) to another in a visual task board.
--   **[Track your SAFe team work from the list view](../task/safe-sprint-tracking-list.md)**  
+-   **[Track your SAFe team work from the list view](safe-sprint-tracking-list.md)**  
 Create, execute, track, and complete the scrum tasks and tests of a SAFe story from the list view.
 
 **Parent Topic:**[Essential SAFe](essential-overview.md)
@@ -83,9 +83,9 @@ Create, execute, track, and complete the scrum tasks and tests of a SAFe story f
 **Related topics**  
 
 
-[Components installed with Essential SAFe](../reference/installed-with-EssentialSAFe.md)
+[Components installed with Essential SAFe](installed-with-EssentialSAFe.md)
 
-[Quick start tests for Essential SAFe](../../../administer/atf-quick-start-tests/reference/quick-start-tests-essentialSAFe.md)
+[Quick start tests for Essential SAFe](quick-start-tests-essentialSAFe.md)
 
 [SAFe entities](key-entities-SAFe.md)
 

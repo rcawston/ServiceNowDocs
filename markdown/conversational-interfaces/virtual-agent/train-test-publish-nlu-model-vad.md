@@ -58,5 +58,5 @@ You can publish the model at the same time as the Virtual Agent topic if the mod
 
 For more information on providing feedback using thumbs icons in the results, see [Test panel feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/test-model-panel-feedback.md).
 
-**Parent Topic:**[Testing NLU/Keyword topics](../reference/va-designer-testing.md)
+**Parent Topic:**[Testing NLU/Keyword topics](va-designer-testing.md)
 

@@ -96,8 +96,8 @@ The person responsible for assigning users to open spaces in a scenario. Refer t
     ![In this figure, the users have been added to the move scenario and show as pending on the floor to which they have been assigned.](../image/AddUsersScenarios.png "Pending assignment")
 
 
--   **[Lounge](../concept/c_Lounge.md)**  
+-   **[Lounge](c_Lounge.md)**  
 When a facilities administrator sets up a move scenario without specifying the destination building or floor, the users are moved to the lounge.
 
-**Parent Topic:**[Enterprise move scenarios](../reference/r_EnterMoveScenarios.md)
+**Parent Topic:**[Enterprise move scenarios](r_EnterMoveScenarios.md)
 

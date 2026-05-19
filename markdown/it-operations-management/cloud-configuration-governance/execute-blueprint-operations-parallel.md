@@ -47,7 +47,7 @@ By default, the blueprint resource operations are listed serially and follow an 
 
 [Add a resource operation to the execution plan](add-resource-operation-cmp.md)
 
-[Blueprint attributes](../reference/blueprint-attributes.md)
+[Blueprint attributes](blueprint-attributes.md)
 
 [Configure a blueprint rule](configure-a-blueprint-rule.md#)
 

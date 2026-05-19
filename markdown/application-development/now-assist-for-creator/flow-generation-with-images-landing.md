@@ -19,11 +19,11 @@ Create a flow or a subflow from an image by using Now Assist.
 
 <table id="table_xnt_mfd_1gc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about flow generation with images](../concept/exploring-flow-generation-with-images.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about flow generation with images](exploring-flow-generation-with-images.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate the Now Assist for Creator plugin and the flow generation with images skill](../task/turn-on-the-flow-generation-with-images-skill.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate the Now Assist for Creator plugin and the flow generation with images skill](turn-on-the-flow-generation-with-images-skill.md)
 
 </td></tr><tr><td>
 
@@ -31,7 +31,7 @@ Create a flow or a subflow from an image by using Now Assist.
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist for Creator roles](../../creator/reference/creator-roles-1.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist for Creator roles](creator-roles-1.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -41,10 +41,10 @@ Create a flow or a subflow from an image by using Now Assist.
 -   Some Now Assist products/features are currently available only for customers in some regions. Be sure to check for availability updates in future releases.
 -   Some AI products and skills are not available in Regulated Markets. For more information, see [KB2593939: Regulated Markets AI Products/Skills Not Available](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=e8d7cc82475aba90b7832920326d4362). Be sure to check for availability updates in future releases.
 
--   **[Exploring Flow generation with images](../concept/exploring-flow-generation-with-images.md)**  
+-   **[Exploring Flow generation with images](exploring-flow-generation-with-images.md)**  
 Create a flow or a subflow from an image by using Now Assist. Capture the detailed process in an image and attach the image to Workflow Studio. Now Assist generates a preview of the flow that you can modify and regenerate.
--   **[Turn on the flow generation with images skill](../task/turn-on-the-flow-generation-with-images-skill.md)**  
+-   **[Turn on the flow generation with images skill](turn-on-the-flow-generation-with-images-skill.md)**  
 Turn on the flow generation with images skill to use generative AI to create flows and subflows from an image.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../../build/now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](using-gen-ai-now-assist-for-creator.md)
 

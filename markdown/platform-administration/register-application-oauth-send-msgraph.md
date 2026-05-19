@@ -111,5 +111,5 @@ Redirect URL
 12. Select **Update**.
 
 
-**Parent Topic:**[Sending email using Microsoft Graph](../concept/send-email-using-ms-graph.md)
+**Parent Topic:**[Sending email using Microsoft Graph](send-email-using-ms-graph.md)
 

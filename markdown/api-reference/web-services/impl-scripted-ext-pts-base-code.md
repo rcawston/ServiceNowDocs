@@ -17,9 +17,9 @@ When developing an application, create scripted extension points and add them to
 
 **Note:** For an example of a scripted extension point, see [Using extension points to extend application functionality](extension-points.md).
 
--   **[Create a scripted extension point](../task/create-scripted-ext-pt.md)**  
+-   **[Create a scripted extension point](create-scripted-ext-pt.md)**  
 Create a scripted extension point that can be placed in a script include in the base application code. By placing the scripted extension point, you designate the specific location in the application code where data or objects can be sent to a customization and where data is returned.
--   **[Add a scripted extension point in the base application code](../task/add-scripted-ext-pt-base-script-include.md)**  
+-   **[Add a scripted extension point in the base application code](add-scripted-ext-pt-base-script-include.md)**  
 Add the scripted extension point into a script include in the base application code. To add the extension point, include an API call that identifies the location at which registered custom artifacts execute.
 
 **Parent Topic:**[Using scripted extension points in server-side scripts](scripted-extension-points.md)

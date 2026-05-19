@@ -54,5 +54,5 @@ With success plays, you can use Flow Designer and playbooks to quickly create ac
 -   **[Define subflows for success plays](account-lifecycle-config-subflow.md)**  
 Before you create a success play, you must define a subflow and add it to the Definition Records table.
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](account-lifecycle-basic-config.md)
 

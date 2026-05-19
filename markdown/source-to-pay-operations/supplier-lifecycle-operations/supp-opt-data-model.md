@@ -19,5 +19,5 @@ The diagram shows the tables and their relationships that comprise the Supplier 
 
 ![Supplier payment optimization data model](../image/supp-opt-data-model2.png)
 
-**Parent Topic:**[Supplier Payment Optimization reference](../concept/supp-payment-opt-ref.md)
+**Parent Topic:**[Supplier Payment Optimization reference](supp-payment-opt-ref.md)
 

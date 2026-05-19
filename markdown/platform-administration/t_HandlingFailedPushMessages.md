@@ -21,7 +21,7 @@ Role required: admin
 
 **Note:** There is no way for the instance to guarantee or confirm push message delivery. For more information on how Apple handles push notifications, see the [Local and Remote Notification Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html#/apple_ref/doc/uid/TP40008194-CH8-SW1) for Apple developers.
 
-Messages can also fail to send for several reasons, such as a large message queue or other issue with the instance. You can use a [system property](../reference/r_PushNotificationProperties.md) to control how long the instance queues a push notification after it is triggered.
+Messages can also fail to send for several reasons, such as a large message queue or other issue with the instance. You can use a [system property](r_PushNotificationProperties.md) to control how long the instance queues a push notification after it is triggered.
 
 Push notification message payload size is limited by provider:
 
@@ -43,27 +43,27 @@ Your instance does not send push messages that exceed this limitation. System lo
 
 3.  If some push notifications continue to fail, consider increasing the value in the **glide.push.notification.ttl\_seconds** property.
 
-    See [Push notification properties](../reference/r_PushNotificationProperties.md) for more information.
+    See [Push notification properties](r_PushNotificationProperties.md) for more information.
 
 
-**Parent Topic:**[Push notifications](../concept/c_PushNotifications.md)
+**Parent Topic:**[Push notifications](c_PushNotifications.md)
 
 **Related topics**  
 
 
-[Push notification system](../reference/r_PushMessageArchitecture.md)
+[Push notification system](r_PushMessageArchitecture.md)
 
 [Activate push notifications](t_ActivatePushNotifications.md)
 
 [Enable push notifications for logged-out users](enable-notifications-logged-out-users.md)
 
-[Installed with push notifications](../reference/r_InstalledWithPushNotifications.md#)
+[Installed with push notifications](r_InstalledWithPushNotifications.md#)
 
-[Push notification properties](../reference/r_PushNotificationProperties.md)
+[Push notification properties](r_PushNotificationProperties.md)
 
-[Push notification setup with the ServiceNow mobile app](../reference/r_PushNotificationSetupSN.md)
+[Push notification setup with the ServiceNow mobile app](r_PushNotificationSetupSN.md)
 
-[Push notification setup with a custom push application for ServiceNow mobile apps](../reference/r_PushNotificationSetupCustom.md)
+[Push notification setup with a custom push application for ServiceNow mobile apps](r_PushNotificationSetupCustom.md)
 
-[Push notification retention](../concept/push-notification-retention.md)
+[Push notification retention](push-notification-retention.md)
 

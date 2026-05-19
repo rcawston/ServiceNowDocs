@@ -57,7 +57,7 @@ Service catalog category
 
 </td><td>
 
-Name of the [catalog category](add-catalog-categories.md) under which the new intake forms for the practice area are organized in the Legal Service Portal.**Note:** This field is applicable only if you use the Legal Service Portal for legal services. To enable legal services on the Employee Center, use the taxonomy mapping. For more information, see [Legal services on the Employee Center portal](../concept/legal-services-employee-center.md).
+Name of the [catalog category](add-catalog-categories.md) under which the new intake forms for the practice area are organized in the Legal Service Portal.**Note:** This field is applicable only if you use the Legal Service Portal for legal services. To enable legal services on the Employee Center, use the taxonomy mapping. For more information, see [Legal services on the Employee Center portal](../legal-service-delivery/legal-services-employee-center.md).
 
 </td></tr><tr><td>
 

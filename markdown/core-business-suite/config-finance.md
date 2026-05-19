@@ -98,5 +98,5 @@ Role required: admin, sn\_cbs.admin
     -   To create Portal or Workspace notification, see [Trigger conditions form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notif-trigger-form.md).
     -   After configuring notifications, select **Mark as configured**.
 
-**Parent Topic:**[Configure Core Business Suite using guided setup](../concept/config-cbs-using-guided-setup.md)
+**Parent Topic:**[Configure Core Business Suite using guided setup](config-cbs-using-guided-setup.md)
 

@@ -40,5 +40,5 @@ Role required:
     **Note:** To view the DLP Incident details, click on ![Add icon - My approval rules](../image/dlp-my-info-approvals.png) info icon available on the **Approve** field.
 
 
-**Parent Topic:**[Data Loss Prevention Incident Response User Workspace](../concept/using-dlp-end-user-portal.md)
+**Parent Topic:**[Data Loss Prevention Incident Response User Workspace](using-dlp-end-user-portal.md)
 

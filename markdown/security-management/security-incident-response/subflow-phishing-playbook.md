@@ -21,5 +21,5 @@ In the Subflow Designer page, you can see the inputs and outputs for this subflo
 
 **Note:** This subflow is read only and cannot be edited. You can add or delete subflows to the step but you cannot modify the subflow.
 
-**Parent Topic:**[Run the automated phishing response playbook flow](../task/run-phishing-playbook.md)
+**Parent Topic:**[Run the automated phishing response playbook flow](run-phishing-playbook.md)
 

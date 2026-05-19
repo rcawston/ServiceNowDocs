@@ -23,11 +23,11 @@ Use Now Assist to generate playbook outlines from text or image inputs. For exam
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Playbook generation](../task/turn-on-playbook-generation-skill.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Playbook generation](turn-on-playbook-generation-skill.md)
 
 </td><td>
 
-[Generate playbooks![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Generate playbook outlines with placeholder activities](../task/generate-a-playbook-outline.md)
+[Generate playbooks![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Generate playbook outlines with placeholder activities](generate-a-playbook-outline.md)
 
 </td></tr></tbody>
 </table>**Important:** Some Now Assist products/features are currently unavailable for customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected data centers, self-hosted customers, or in other restricted environments. For more information, see the [KB0743854](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0743854) article in the Now Support Knowledge Base. Please check for availability updates in future releases.
@@ -54,12 +54,12 @@ For more information, see the [Now Assist documentation](https://raw.githubuserc
 
 -   **[Exploring Now Assist for Playbooks](playbook-assist.md)**  
 Use Now Assist to generate playbook outlines from text or image inputs. For example, you can enter a text description to generate a playbook outline for managing customer support cases. Playbook Assist is part of the Now Assist for Creator application.
--   **[Turn on the playbook generation skill](../task/turn-on-playbook-generation-skill.md)**  
+-   **[Turn on the playbook generation skill](turn-on-playbook-generation-skill.md)**  
 Turn on the Now Assist for Creator playbook generation skill to use generative AI to create playbook outlines.
--   **[Generate a playbook](../task/generate-a-playbook-outline.md)**  
+-   **[Generate a playbook](generate-a-playbook-outline.md)**  
 Provide text directions to Now Assist to generate a playbook outline with placeholder activities.
--   **[Roles in Now Assist for Playbooks](../reference/playbook-assist-roles.md)**  
+-   **[Roles in Now Assist for Playbooks](playbook-assist-roles.md)**  
 The following roles are installed for use with the Now Assist for Creator playbook generation skill.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../../build/now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](using-gen-ai-now-assist-for-creator.md)
 

@@ -31,7 +31,7 @@ Role required: admin
     -   Navigation
     -   URL
     -   Chat launcher
-    For information on function types, and detailed steps for creating functions, see [Mobile functions](../concept/sg-studio-mobile-button-types.md).
+    For information on function types, and detailed steps for creating functions, see [Mobile functions](sg-studio-mobile-button-types.md).
 
 4.  Create additional functions for each push action.
 
@@ -42,5 +42,5 @@ Role required: admin
 
 You have functions to perform actions for each of the buttons that display in your push notification. In the next steps, you will associate these functions to the notification actions so your functions trigger when users tap the buttons.
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](actionable-push-notification.md)
 

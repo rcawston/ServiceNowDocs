@@ -164,7 +164,7 @@ User is delegated
 -   Ad hoc approvers lose document access after they approve or reject the requested item.
 -   Delegates lose access after the delegation period expires.
 
-**Parent Topic:**[Manage attachments for a legal request](../task/manage-attachments-legal-request.md)
+**Parent Topic:**[Manage attachments for a legal request](manage-attachments-legal-request.md)
 
 ## Request document access for a legal request
 

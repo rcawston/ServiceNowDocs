@@ -13,7 +13,7 @@ breadcrumb: [View, Data visualizations, Platform Analytics experience, Platform 
 
 A viewer of a data visualization can select the value for grouping the data in the visualization.
 
-If a data visualization is configured with alternative group-by values, a viewer can pick which value to apply. No editing rights are required. On a visualization that shows Service Catalog data, the options can include Service Catalog variables, as described in [Service catalog variables in data visualizations](../../reporting/concept/dv-rep-sc-variables.md#).
+If a data visualization is configured with alternative group-by values, a viewer can pick which value to apply. No editing rights are required. On a visualization that shows Service Catalog data, the options can include Service Catalog variables, as described in [Service catalog variables in data visualizations](dv-rep-sc-variables.md#).
 
 **Note:** Instructions for configuring alternative group by are included in the data options topics for the relevant data visualizations.
 

@@ -17,7 +17,7 @@ All automated purchasing tasks and procurement cases are created using flow desi
 
 ## Conditions and triggers for task and case creation
 
-While the **Sourcing decision dependent on case** and **Order dependent on case** fields in the Finance Case table determine the need for a [procurement case](../concept/spo-glossary.md#) to be created, the **Sourcing decision dependent on task** and **Order dependent on task** fields in the Finance Task table determine the need for a [procurement task](../concept/spo-glossary.md#) to be created.
+While the **Sourcing decision dependent on case** and **Order dependent on case** fields in the Finance Case table determine the need for a [procurement case](spo-glossary.md#) to be created, the **Sourcing decision dependent on task** and **Order dependent on task** fields in the Finance Task table determine the need for a [procurement task](spo-glossary.md#) to be created.
 
 Tasks and cases are generated when the following rules are triggered, with the decision tables supporting this generation via decision inputs.
 
@@ -279,7 +279,7 @@ Question &amp; Answer
 This section contains the information of the questions posed to the shopper and the responses that the shopper provides.
 
 </td></tr></tbody>
-</table>-   **[Purchasing task and procurement case creation](../concept/automated-purchasing-task-creation-from-flow-designer.md)**  
+</table>-   **[Purchasing task and procurement case creation](automated-purchasing-task-creation-from-flow-designer.md)**  
 Create purchasing tasks and procurement cases in sourcing requests and purchase requisitions.
 
 **Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)

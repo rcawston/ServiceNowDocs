@@ -48,17 +48,17 @@ CAM supports the Open Security Controls Assessment Language \(OSCAL\) used by th
 
 Using the CAM export OSCAL feature, you can perform the following:
 
--   [Export OSCAL catalog](../task/export-catalog-cam-ws.md)
--   [Export OSCAL SSP](../task/generate-oscal-models.md)
--   [Export an OSCAL Assessment Plan](../../grc-cam/task/export-oscal-assessment-plan.md)
+-   [Export OSCAL catalog](export-catalog-cam-ws.md)
+-   [Export OSCAL SSP](generate-oscal-models.md)
+-   [Export an OSCAL Assessment Plan](export-oscal-assessment-plan.md)
 
-For more information about OSCAL Assessment Plan export, see [OSCAL Assessment Plan export and import](../../grc-cam/concept/oscal-assessment-plan-import-export.md).
+For more information about OSCAL Assessment Plan export, see [OSCAL Assessment Plan export and import](oscal-assessment-plan-import-export.md).
 
--   **[Export OSCAL catalog](../task/export-catalog-cam-ws.md)**  
+-   **[Export OSCAL catalog](export-catalog-cam-ws.md)**  
 From the Control objective list view page, you can export the catalog in OSCAL JSON format for the selected control objectives. This action enables you to export your control objectives from CAM.
--   **[Export OSCAL SSP](../task/generate-oscal-models.md)**  
+-   **[Export OSCAL SSP](generate-oscal-models.md)**  
 From the Authorization package overview record page, generate zip files and export the record's mapped content details in OSCAL format. To generate OSCAL SSP, the selected Authorization package must be in implemented state or after that. This action enables you to export your authorization package from CAM.
--   **[Export an OSCAL Assessment Plan](../../grc-cam/task/export-oscal-assessment-plan.md)**  
+-   **[Export an OSCAL Assessment Plan](export-oscal-assessment-plan.md)**  
 Export engagement data as OSCAL Assessment Plan files to share testing plans with auditors or import into external systems.
 
 **Parent Topic:**[CAM OSCAL](oscal-cam-ws.md)

@@ -31,7 +31,7 @@ Role required:sn\_lg\_investigate.fulfiller
 
 4.  On the form, fill in the fields.
 
-    For field descriptions, see [Legal Matter Task form for legal investigations](../reference/legal-investigations-matter-task-form.md) and [fields specific to the interview](../reference/legal-investigations-matter-task-form.md#p_interview_fields) task type.
+    For field descriptions, see [Legal Matter Task form for legal investigations](legal-investigations-matter-task-form.md) and [fields specific to the interview](legal-investigations-matter-task-form.md#p_interview_fields) task type.
 
 5.  Save the legal matter task.
 

@@ -221,7 +221,7 @@ Date and time of the first scheduled job generation. Select the calendar date an
 </table>**Related topics**  
 
 
-[Generate labor costs](../task/gen-cost-pln-prj-wrkspc.md)
+[Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 
-[Activate a scheduled job to generate labor costs](../task/gen-labor-costs-scheduled-job-ppm.md#)
+[Activate a scheduled job to generate labor costs](gen-labor-costs-scheduled-job-ppm.md#)
 

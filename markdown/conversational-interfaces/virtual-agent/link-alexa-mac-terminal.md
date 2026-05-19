@@ -75,5 +75,5 @@ Your Alexa account is linked with your ServiceNow instance.
 
 Your Alexa account is linked with your ServiceNow instance.
 
-**Parent Topic:**[Account linking with Alexa](../concept/account-linking-alexa.md)
+**Parent Topic:**[Account linking with Alexa](account-linking-alexa.md)
 

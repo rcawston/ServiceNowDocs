@@ -65,7 +65,7 @@ Displays a message if the employee presence isn’t set to five days in the offi
 |Presence Calendar Insight|Displays the insight in the calendar week view.|
 |Presence Dashboard Insight|Displays the insight on the Presence dashboard.|
 
-**Parent Topic:**[Workplace Concierge - Components](../concept/workplace-concierge-references.md)
+**Parent Topic:**[Workplace Concierge - Components](workplace-concierge-references.md)
 
 **Related topics**  
 

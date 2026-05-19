@@ -113,5 +113,5 @@ Release Items \[rm\_m2m\_release\_task\]
 Represents work items and change records associated to the release.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Release Management](../task/t_ActivateReleaseManagement.md)
+</table>**Parent Topic:**[Activate Release Management](t_ActivateReleaseManagement.md)
 

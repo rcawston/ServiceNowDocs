@@ -56,5 +56,5 @@ Role required: sn\_cwm.cwm\_user
 
 [Manage or delete automations in CWM](manage-or-delete-automations-in-cwm.md).
 
-**Parent Topic:**[Work item automations in CWM](../concept/implementing-automations-in-collaborative-work-management.md)
+**Parent Topic:**[Work item automations in CWM](implementing-automations-in-collaborative-work-management.md)
 

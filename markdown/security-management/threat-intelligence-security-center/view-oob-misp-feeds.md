@@ -45,5 +45,5 @@ Role required: sn\_sec\_tisc.analyst
 5.  Select **Save** to apply the changes.
 
 
-**Parent Topic:**[View Threat Intel Feeds](../concept/base-system-threat-intel-feeds.md)
+**Parent Topic:**[View Threat Intel Feeds](base-system-threat-intel-feeds.md)
 

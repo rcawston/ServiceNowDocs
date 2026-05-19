@@ -86,7 +86,7 @@ Upon opening the Operational Resilience Workspace, the menu featuring Digital re
 
 ## Digital resilience third-party registers in the TPRM Workspace
 
-For information on Digital resilience third-party registers in the TPRM Workspace, see [Third-party Risk Management](../../grc-vendor-risk/concept/third-party-risk-mgt-landing-page.md).
+For information on Digital resilience third-party registers in the TPRM Workspace, see [Third-party Risk Management](third-party-risk-management/third-party-risk-mgt-landing-page.md).
 
 -   **[Use cases for updating the information registers](use-cases-for-contra-arrangements.md)**  
 Users with third-party registers and contractual details spread across various systems can automate the process of populating their information registers. This section outlines common scenarios for recording third-party data into Digital resilience third-party registers.

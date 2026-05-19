@@ -23,7 +23,7 @@ Role required: flow\_designer or admin
 
 Flow Service Catalog variables display in the **Catalog Variables** field of the Create Catalog Task and Get Catalog Variables actions. They display in the **Flow:variablename** format and are only available to the flow in which they are defined.
 
-For more information about Service Catalog actions, see [Create Catalog Task action](../reference/create-catalog-task-flow-designer.md) and [Get Catalog Variables action](../reference/get-cat-variables-flow-designer.md).
+For more information about Service Catalog actions, see [Create Catalog Task action](create-catalog-task-flow-designer.md) and [Get Catalog Variables action](get-cat-variables-flow-designer.md).
 
 ## Procedure
 

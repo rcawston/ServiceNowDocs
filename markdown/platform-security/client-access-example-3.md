@@ -113,5 +113,5 @@ Role required: admin, sn\_kmf.admin, sn\_secrets.admin
 29. Select **Update** to save the record.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](client-access-secret-landing.md)
 

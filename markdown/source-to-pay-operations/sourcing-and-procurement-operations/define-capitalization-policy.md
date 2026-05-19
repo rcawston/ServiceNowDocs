@@ -45,5 +45,5 @@ You can define a capitalization policy from the Sourcing and Purchasing Automati
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 

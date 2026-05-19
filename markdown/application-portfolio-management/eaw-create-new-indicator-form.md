@@ -178,9 +178,9 @@ A script to evaluate and score business applications and capabilities using stan
 **Related topics**  
 
 
-[Manage indicators](../../concept/eaw-concept/eaw-configure-indicators.md)
+[Manage indicators](eaw-configure-indicators.md)
 
-[Add or edit an application indicator](../../task/eaw-task/eaw-create-indicator.md)
+[Add or edit an application indicator](eaw-create-indicator.md)
 
-[Add or edit a capability indicator](../../task/eaw-task/eaw-add-or-edit-a-capability-indicator.md)
+[Add or edit a capability indicator](eaw-add-or-edit-a-capability-indicator.md)
 

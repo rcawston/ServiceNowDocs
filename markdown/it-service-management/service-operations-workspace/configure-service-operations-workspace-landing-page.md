@@ -34,12 +34,12 @@ Role required: admin
     To redirect the user to the Service Operations Workspace home page, enter the value **home**. To redirect the user to the Service Operations Workspace list page, enter the value **list**.
 
 
-**Parent Topic:**[Customizing Service Operations Workspace for ITSM to align with your requirements](../concept/customize-sow-landing-page.md)
+**Parent Topic:**[Customizing Service Operations Workspace for ITSM to align with your requirements](customize-sow-landing-page.md)
 
 **Related topics**  
 
 
 [Create a copy of the Service Operations Workspace landing page](create-copy-sow-landing-page.md)
 
-[Customize the incident record page](../concept/customize-the-incident-record-page.md#)
+[Customize the incident record page](customize-the-incident-record-page.md#)
 

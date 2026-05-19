@@ -16,7 +16,7 @@ breadcrumb: [Start remediation of a Log Analytics alert, Log Analytics in SOW fo
 
 The **Overview** tab in the Service Operations Workspace helps you understand Log Analytics alerts.
 
-For a detailed description of Log Analytics alerts, see [Types of Health Log Analytics alerts](hla-op-log-analytics-alert-types.md).
+For a detailed description of Log Analytics alerts, see [Types of Health Log Analytics alerts](../health-log-analytics/hla-op-log-analytics-alert-types.md).
 
 ## Summary
 
@@ -26,7 +26,7 @@ For a detailed description of Log Analytics alerts, see [Types of Health Log Ana
 
     ![Identified issue appears here and in alert title.](../image/identified-issue-card-loganalytics-alert-sow.png "Identified issue")
 
-    Select **View surrounding logs** to view the log lines that were generated one minute before and one minute after the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](../task/hla-op-surrounding-logs-view-sow.md).
+    Select **View surrounding logs** to view the log lines that were generated one minute before and one minute after the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](../health-log-analytics/hla-op-surrounding-logs-view-sow.md).
 
 -   **Anomaly**
 
@@ -42,7 +42,7 @@ For a detailed description of Log Analytics alerts, see [Types of Health Log Ana
 
     ![Baseline values for same hour in previous week.](../image/anomaly-week-earlier.png "Anomaly card with baseline values one week earlier")
 
-    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](hla-op-anomalous-behavior-types.md).
+    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](../health-log-analytics/hla-op-anomalous-behavior-types.md).
 
 
 ## Impact
@@ -67,5 +67,5 @@ For a detailed description of Log Analytics alerts, see [Types of Health Log Ana
     ![Meaningful log properties shows relative frequency of occurrence for property values.](../image/meaningful-log-properties-card-sow.png "Meaningful log properties")
 
 
-**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](../task/hla-op-overview-tab-view-sow.md)
+**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](hla-op-overview-tab-view-sow.md)
 

@@ -106,11 +106,11 @@ Content Delivery manager \[sn\_cd.content\_manager\]
     -   View video
 -   **Adding content**
 
-    The Alumni Center uses the same widgets as the HR Service Delivery Employee Center. For more information, see [Employee Center widget instance options](../../employee-center/concept/emp-center-topic-inst-options.md).
+    The Alumni Center uses the same widgets as the HR Service Delivery Employee Center. For more information, see [Employee Center widget instance options](../employee-experience-foundation/emp-center-topic-inst-options.md).
 
-    Use Content Publishing to add and display content to your Alumni Center. For more information, see [Content Publishing](../../employee-center/concept/ec-publish-content.md).
+    Use Content Publishing to add and display content to your Alumni Center. For more information, see [Content Publishing](../employee-experience-foundation/ec-publish-content.md).
 
-    To add content as part of a campaign, use **Content Automation**. For more information, see [Working on Campaigns](../../employee-center/concept/ecpro-campaigns.md).
+    To add content as part of a campaign, use **Content Automation**. For more information, see [Working on Campaigns](../employee-experience-foundation/ecpro-campaigns.md).
 
 -   **Load data**
 

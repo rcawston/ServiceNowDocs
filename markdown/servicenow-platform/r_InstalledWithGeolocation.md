@@ -15,7 +15,7 @@ Several component types are installed with Geolocation.
 
 The Geolocation plugin adds a field called [Geolocation tracked](r_InstalledWithGeolocation.md#) to the User `[sys_user]` table. This field allows the system to track individual users by their geographical coordinates.
 
-**Parent Topic:**[Geolocation](../concept/c_Geolocation.md)
+**Parent Topic:**[Geolocation](c_Geolocation.md)
 
 ## Business rules installed with geolocation
 

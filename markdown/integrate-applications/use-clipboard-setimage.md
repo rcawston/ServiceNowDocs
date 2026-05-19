@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the SetImage component. For more information about these properties, see [Properties of the Data Writer components](../reference/util-datawriter-prop.md).
+You can configure the properties for the SetImage component. For more information about these properties, see [Properties of the Data Writer components](util-datawriter-prop.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ You can configure the properties for the SetImage component. For more informatio
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Clipboard](../concept/clipboard.md)
+**Parent Topic:**[Clipboard](clipboard.md)
 

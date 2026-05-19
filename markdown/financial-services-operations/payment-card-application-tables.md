@@ -27,7 +27,7 @@ The Expanded Model and Asset Classes Store application contains a Payment Card M
 
 For more information, see [Expanded Model and Asset Classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes-app.md).
 
-**Parent Topic:**[Payment card](../concept/payment-card-application.md)
+**Parent Topic:**[Payment card](payment-card-application.md)
 
 **Related topics**  
 

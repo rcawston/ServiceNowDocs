@@ -51,5 +51,5 @@ Role required: sn\_grc.admin
 7.  To update the issue page configuration record, click **Update**.
 
 
-**Parent Topic:**[Issue Page Configuration module](../../grc-common-workspace/concept/issue-page-config-record.md)
+**Parent Topic:**[Issue Page Configuration module](issue-page-config-record.md)
 

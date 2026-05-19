@@ -43,5 +43,5 @@ By default, the following roles can’t be delegated.
 5.  Select **Update**.
 
 
-**Parent Topic:**[Delegating roles](../concept/c_DelegateRoles.md)
+**Parent Topic:**[Delegating roles](c_DelegateRoles.md)
 

@@ -33,7 +33,7 @@ Role required: admin
 
     ![Script for workspace URL in metadata extraction email notification.](../image/cmpro-me-workspace-url.png "Extension point for workspace URL")
 
-    For a description of the field values, see [Scripted Extension Point form fields](../../legal-request-management/reference/scripted-extension-point-form-fields.md).
+    For a description of the field values, see [Scripted Extension Point form fields](../legal-request-management/scripted-extension-point-form-fields.md).
 
 6.  In the **Script** field, update the script to define the parent record’s table and specify the workspace URL to be included in the email notifications.
 

@@ -37,7 +37,7 @@ When a record in created in ServiceNow AI Platform as a configuration item in CM
 
     When you are in the planning stage, if you have scoped the BIA-dependent item and added it as the scope, then the dependencies of the scoped item are available as Related Assets. Also, the plans existing for these assets are available as Related Plans. In addition, you can add new plans also. For example, a plan is created for Data Center: NYC, along with which the related plans of the related assets such as SAP on-premise application and Facility: New York \(created in BIA\) also move in to the planning phase automatically. In addition to the items that came from the BIA, you can also add new assets manually to the plan.
 
-    In the **Recovery Tasks** tab of a plan, you can also [refer to a different plan](../task/bcp-recovery-tasks-grid.md#refer-related-plan-bcp) and select the plan from the list of related plans.
+    In the **Recovery Tasks** tab of a plan, you can also [refer to a different plan](bcp-recovery-tasks-grid.md#refer-related-plan-bcp) and select the plan from the list of related plans.
 
 -   **Exercise**
 

@@ -19,9 +19,9 @@ A program within the Healthcare and Life Sciences Service Management Core applic
 
 A program service within Healthcare and Life Sciences Service Management application is a product catalog item offered within a program by healthcare life organizations to their patients or consumers.
 
--   **[Configure a program service](../task/hcls-create-program-service.md#)**  
+-   **[Configure a program service](hcls-create-program-service.md#)**  
 Add a program service for use within the programs associated with the Healthcare and Life Sciences Service Management applications.
--   **[Configure a program](../task/hcls-create-program.md#)**  
+-   **[Configure a program](hcls-create-program.md#)**  
 Add a program for use within the Healthcare and Life Sciences Service Management applications.
 
 **Parent Topic:**[Configuring Healthcare and Life Sciences Service Management Core](hcls-configuring-serv-mgmt-core.md)

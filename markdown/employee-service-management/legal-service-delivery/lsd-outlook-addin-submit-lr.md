@@ -35,7 +35,7 @@ Role required: sn\_lg\_ops.request\_fulfiller or sn\_lg\_matter.matter\_fulfille
 
 5.  In the pop-up, select the legal request category.
 
-    To see the legal request categories, enable the respective intake forms for the Outlook add-in. For more information, see [Enable intake forms for Microsoft Outlook Add-In for Legal Service Delivery](../task/lsd-enable-intake-forms-addin.md)
+    To see the legal request categories, enable the respective intake forms for the Outlook add-in. For more information, see [Enable intake forms for Microsoft Outlook Add-In for Legal Service Delivery](lsd-enable-intake-forms-addin.md)
 
 6.  Select **Create**.
 

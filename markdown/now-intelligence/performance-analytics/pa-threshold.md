@@ -21,13 +21,13 @@ A threshold can be personal or global. A personal threshold is visible only to t
 
 |Platform Analytics experience feature|Equivalent Core UI feature|Global or Personal targets|
 |-------------------------------------|--------------------------|--------------------------|
-|[KPI Details](../../par-for-workspace/concept/kpi-details.md)|[Analytics Hub](c_UsePerformanceAnalyticsScorecards.md)|Global and personal|
-|[Time series Platform Analytics data visualizations](../../reporting/task/create-dv-time-series-ac.md)|[Time series Performance Analytics widgets](../reference/time-series-widgets.md)|Global|
-|[Dashboards in Platform Analytics](../../par-for-workspace/concept/analytics-center-dashboards.md) containing time series data visualizations that show thresholds|[Responsive dashboards](../../dashboards/reference/dashboards-landing-page.md) containing Time series Performance Analytics widgets that show thresholds|Global|
-|[Proactive analytics insights cards](../../par-for-workspace/concept/proactive-analytics.md) on Platform Analytics dashboards, which show thresholds being breached|No equivalent|Global|
+|[KPI Details](../kpi-details.md)|[Analytics Hub](c_UsePerformanceAnalyticsScorecards.md)|Global and personal|
+|[Time series Platform Analytics data visualizations](../create-dv-time-series-ac.md)|[Time series Performance Analytics widgets](time-series-widgets.md)|Global|
+|[Dashboards in Platform Analytics](../analytics-center-dashboards.md) containing time series data visualizations that show thresholds|[Responsive dashboards](dashboards-landing-page.md) containing Time series Performance Analytics widgets that show thresholds|Global|
+|[Proactive analytics insights cards](../proactive-analytics/proactive-analytics.md) on Platform Analytics dashboards, which show thresholds being breached|No equivalent|Global|
 |UI Builder pages containing time series data visualizations that show thresholds|No equivalent|Global|
 
-Global thresholds can also appear on Performance Analytics [time series widgets](../reference/time-series-widgets.md) and [data visualizations](../../reporting/task/create-dv-time-series-ac.md). Platform Analytics dashboards can alert viewers to events related to thresholds through [proactive analytics insights cards](../../par-for-workspace/concept/proactive-analytics.md).
+Global thresholds can also appear on Performance Analytics [time series widgets](time-series-widgets.md) and [data visualizations](../create-dv-time-series-ac.md). Platform Analytics dashboards can alert viewers to events related to thresholds through [proactive analytics insights cards](../proactive-analytics/proactive-analytics.md).
 
 **Parent Topic:**[Performance Analytics targets and thresholds](pa-targets-thresholds.md)
 
@@ -85,7 +85,7 @@ After you create a threshold, set up threshold notifications.
 **Related topics**  
 
 
-[KPI Details](../../par-for-workspace/concept/kpi-details.md)
+[KPI Details](../kpi-details.md)
 
 ## Configure which users receive a threshold notification
 

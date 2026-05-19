@@ -15,7 +15,7 @@ breadcrumb: [Universal Task, Employee Service Management]
 
 You must set up and configure the Universal Task application before you can enable agents to assign tasks to employees in order to fulfill a request.
 
--   **[Install Universal Task](../task/install-universal-task.md)**  
+-   **[Install Universal Task](install-universal-task.md)**  
 You can install the Universal Task application \(sn\_uni\_task\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Configuring your service for Universal Task](config-service-for-ut.md)**  
 You can configure the UI actions and related lists for the Universal Task application so that you can view and create universal tasks for your service. Services are the various departments in your organization, such as IT, HR, and Legal.

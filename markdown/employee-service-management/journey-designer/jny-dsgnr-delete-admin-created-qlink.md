@@ -32,5 +32,5 @@ Role required: sn\_jny.admin
     Deleting the record removes the quick link from all journeys of that **Journey Type**.
 
 
-**Parent Topic:**[Creating and managing quick links for journeys](../concept/jny-dsgnr-quick-links-why-who.md)
+**Parent Topic:**[Creating and managing quick links for journeys](jny-dsgnr-quick-links-why-who.md)
 

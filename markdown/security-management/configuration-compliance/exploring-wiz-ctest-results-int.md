@@ -29,5 +29,5 @@ Import issues data from Wiz to help vulnerability managers, analysts, and cloud 
 
 These findings are also mapped to CTRs with `Wiz Issues` labeled as the source in the Configuration Compliance application to help you track and remediate assets that may pose complex multi-vector risks.
 
-For more information about the other integrations that are included with the Wiz Vulnerability Response Integration and installation and configuration steps, see [Understanding the Wiz Vulnerability Response Integration](../../../secops-integration-vr/wiz-host-vuln-integration/concept/vr-wiz-exploring-host-cf.md).
+For more information about the other integrations that are included with the Wiz Vulnerability Response Integration and installation and configuration steps, see [Understanding the Wiz Vulnerability Response Integration](../vulnerability-response/vr-wiz-exploring-host-cf.md).
 

@@ -38,5 +38,5 @@ Create position records for your organization. Other organization information, s
 5.  Click **Save** to stay on the **Positions** form or **Submit** or **Update** to return to the **Positions** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

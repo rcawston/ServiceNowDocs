@@ -156,5 +156,5 @@ Check to make this mapping active and available for use.
 </table>9.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Link generator for HR Service Delivery](../concept/HRLinkGenerator.md)
+**Parent Topic:**[Link generator for HR Service Delivery](HRLinkGenerator.md)
 

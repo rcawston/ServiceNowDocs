@@ -28,9 +28,9 @@ Linear asset support provides the following benefits:
 **Related topics**  
 
 
-[Activate linear assets support in Field Service Management](../task/activate-linear-assets.md)
+[Activate linear assets support in Field Service Management](work-order-management/activate-linear-assets.md)
 
-[Assign work orders for linear assets in Field Service Management](managing-linear-assets-fsm.md)
+[Assign work orders for linear assets in Field Service Management](work-order-management/managing-linear-assets-fsm.md)
 
-[Linear assets on ServiceNow Agent](working-on-linear-asset-wot.md)
+[Linear assets on ServiceNow Agent](work-order-management/working-on-linear-asset-wot.md)
 

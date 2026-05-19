@@ -17,7 +17,7 @@ Schedule your arrival at a workplace location by using Workplace Core. Prevent l
 
 ## Before you begin
 
-To schedule an arrival using your mobile device, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To schedule an arrival using your mobile device, you must have the [Now® Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app.
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -52,12 +52,12 @@ You can check the details of your arrival schedule anytime.
     -   On the Now Mobile navigation bar, tap **For Me** and scroll down to the My Request section to view your requests.
 2.  If you want to cancel your arrival, select the arrival request and select **Cancel arrival**.
 
-**Parent Topic:**[Request employee-related services](../concept/request-employee-services.md)
+**Parent Topic:**[Request employee-related services](request-employee-services.md)
 
 **Related topics**  
 
 
-[Making workplace reservations](../concept/making-workspace-reservations.md)
+[Making workplace reservations](making-workspace-reservations.md)
 
 [Manage workplace activities and services with Location directory](../concept/location-directory.md)
 

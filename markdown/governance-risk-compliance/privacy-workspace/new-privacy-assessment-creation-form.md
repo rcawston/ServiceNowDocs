@@ -41,5 +41,5 @@ Use the fields on the new privacy assessment creation form to create a new priva
 |Work notes \(Private\)|Work notes for the assessment.|
 |Additional comments \(Customer visible\)|Comments for updating this assessment.|
 
-**Parent Topic:**[Send a privacy assessment from an entity](../task/send-privacy-assessmt-entity.md)
+**Parent Topic:**[Send a privacy assessment from an entity](send-privacy-assessmt-entity.md)
 

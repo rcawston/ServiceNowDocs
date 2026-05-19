@@ -15,14 +15,14 @@ The VB.Net connector enables you to write and execute VB.Net scripts as part of 
 
 You must first use and then expose the methods in the VB.Net connector to use its methods.
 
--   To use the connector, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   To configure the VB.Net connector, see [Configure the VB.Net connector](../task/configure-vbnet-connector.md).
--   To expose the methods, see [Use connector method](../task/use-connector-method.md).
--   To use the methods, see [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+-   To use the connector, see [Use a connector in RPA Desktop Design Studio](use-connector.md).
+-   To configure the VB.Net connector, see [Configure the VB.Net connector](configure-vbnet-connector.md).
+-   To expose the methods, see [Use connector method](use-connector-method.md).
+-   To use the methods, see [Use a component in RPA Desktop Design Studio](configure-components.md).
 
--   **[Configure the VB.Net connector](../task/configure-vbnet-connector.md)**  
+-   **[Configure the VB.Net connector](configure-vbnet-connector.md)**  
 Write and validate a custom VB.Net script before executing it as part of a Workflow in the RPA Desktop Design Studio.
--   **[VB connector methods](../reference/connector-vb-methods.md)**  
+-   **[VB connector methods](connector-vb-methods.md)**  
 The VB connector method executes the VB.Net script you had written as part of the VB.NET connector configuration.
 
 **Parent Topic:**[Connectors](connectors.md)

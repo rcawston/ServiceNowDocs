@@ -48,5 +48,5 @@ The request is reopened, and its state changes to Work in Progress. The request 
 
 If the administrator has configured email notifications, the assigned user, practice area lead, assignment group manager,and any collaborators added to the request will receive notifications about the reopening of the request by the requester. If the legal request assignment group permissions is not No Access then all assignment group members also notified.
 
-**Parent Topic:**[Using Legal Request Management](../concept/submitting-legal-request.md)
+**Parent Topic:**[Using Legal Request Management](submitting-legal-request.md)
 

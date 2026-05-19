@@ -32,17 +32,17 @@ An update might involve adding CIs of the following CI types, which cannot be ad
 -   Qualifier \[cmdb\_ci\_qualifier\]
 -   Application cluster \[cmdb\_ci\_application\_cluster\]
 
-There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table. See [Components installed with application services](../../configuration-management/reference/components-installed-app-services.md#manual-ci-inclusion-exclusion-list) for more information.
+There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table. See [Components installed with application services](components-installed-app-services.md#manual-ci-inclusion-exclusion-list) for more information.
 
 **Note:** The Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table doesn't include CIs added using traversal rules.
 
 Also, the system can connect a CI from the service instance only to actual CIs that exist in the CMDB, not a visualization of other items on the map like clusters or boundaries.
 
-The maximum number of CI connections added to application services during this operation is controlled by the [sa.service.max\_ci\_service\_population](../../configuration-management/reference/components-installed-app-services.md) property. By default, the value is 1,000 \(one thousand connections\). Increasing the number of CI connections may cause performance issues. To adjust the maximum number of added CI connections, add the sa.service.max\_ci\_service\_population property, as described in [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
+The maximum number of CI connections added to application services during this operation is controlled by the [sa.service.max\_ci\_service\_population](components-installed-app-services.md) property. By default, the value is 1,000 \(one thousand connections\). Increasing the number of CI connections may cause performance issues. To adjust the maximum number of added CI connections, add the sa.service.max\_ci\_service\_population property, as described in [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
 In environments with domain separation, only CIs belonging to the same domain as the service instance are added into the service instance. If there is a domain hierarchy, CIs must belong to the same child domain.
 
-You can also update application services by using [APIs](../../configuration-management/concept/use-app-services-api.md).
+You can also update application services by using [APIs](use-app-services-api.md).
 
 ## Procedure
 

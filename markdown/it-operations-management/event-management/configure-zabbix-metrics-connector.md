@@ -17,7 +17,7 @@ Configure the Zabbix Metric connector instance to receive Metric Intelligence ra
 
 ## Before you begin
 
-To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](configure-itoa-metric-extension.md).
+To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](../metric-intelligence/configure-itoa-metric-extension.md).
 
 Create basic authentication credentials on ServiceNow instance with Zabbix server username and password.
 
@@ -36,7 +36,7 @@ ServiceNow does not support discovery for Zabbix, so CI entries must be manually
 
 2.  Select **New** and create a connector instance.
 
-    For details on the connector instance fields displayed on the page, see [Zabbix connector instance form](../reference/zabbix-connector-instance-form.md).
+    For details on the connector instance fields displayed on the page, see [Zabbix connector instance form](zabbix-connector-instance-form.md).
 
 3.  Select and hold \(or right-click\) the form header and select **Save**.
 
@@ -44,7 +44,7 @@ ServiceNow does not support discovery for Zabbix, so CI entries must be manually
 
 4.  In the Connector Instance Values section, you can edit the values of the mandatory Zabbix parameters.
 
-    For details on the connector instance value parameters, see [Zabbix connector instance value parameters](../reference/zabbix-connector-instance-value-parameters.md).
+    For details on the connector instance value parameters, see [Zabbix connector instance value parameters](zabbix-connector-instance-value-parameters.md).
 
 5.  In the MID Servers for Connectors section, add a MID Server for the Zabbix connector to use.
 

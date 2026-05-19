@@ -21,7 +21,7 @@ To view the effect of each question's ratings on the entire category's ratings, 
 
 ![Average ratings detail](../image/SurveyScorecardRatingDetail.png "Average ratings detail")
 
-**Parent Topic:**[View a survey scorecard](../task/t_ViewAScorecard.md)
+**Parent Topic:**[View a survey scorecard](t_ViewAScorecard.md)
 
 **Related topics**  
 
@@ -32,5 +32,5 @@ To view the effect of each question's ratings on the entire category's ratings, 
 
 [Survey scorecard history](r_SurveyScorecardHistory.md)
 
-[Export a survey scorecard as an image](../task/t_ExportAScorecardAsAnImage.md)
+[Export a survey scorecard as an image](t_ExportAScorecardAsAnImage.md)
 

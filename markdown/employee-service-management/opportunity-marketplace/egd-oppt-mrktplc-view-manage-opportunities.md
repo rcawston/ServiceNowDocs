@@ -88,5 +88,5 @@ The date that the opportunity is available to applicants.
 4.  Select **Update**.
 
 
-**Parent Topic:**[Install and configure Opportunity Marketplace](../concept/egd-oppt-mrktplc-inst-config.md)
+**Parent Topic:**[Install and configure Opportunity Marketplace](egd-oppt-mrktplc-inst-config.md)
 

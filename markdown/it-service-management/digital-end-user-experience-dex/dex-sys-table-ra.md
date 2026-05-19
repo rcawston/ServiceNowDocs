@@ -50,5 +50,5 @@ Maps the relationship between tracking and actual execution.
 
 **Note:** For more information on the base system remedial actions, see [Digital End-User Experience Remedial Actions](dex-diff-ra.md).
 
-**Parent Topic:**[DEX remedial actions](../concept/dex-remedial-actions.md)
+**Parent Topic:**[DEX remedial actions](dex-remedial-actions.md)
 

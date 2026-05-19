@@ -15,7 +15,7 @@ breadcrumb: [Software Asset Management for Red Hat Enterprise Linux, Software As
 
 Software entitlements define the license details for your Red Hat Enterprise Linux \(RHEL\) products. You can create individual entitlements or import a list of entitlements from a spreadsheet.
 
-**Important:** You can create and import entitlements in both the Software Asset Management classic application and the Software Asset Workspace. The following sections provide details on how to create and import entitlements in the Software Asset Management classic application. For details on how to create entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md). For details on how to import entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](../task/import-entitlements-workspace.md).
+**Important:** You can create and import entitlements in both the Software Asset Management classic application and the Software Asset Workspace. The following sections provide details on how to create and import entitlements in the Software Asset Management classic application. For details on how to create entitlements in the Software Asset Workspace, see [Create entitlements in workspace](create-entitlements-workspace.md). For details on how to import entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](import-entitlements-workspace.md).
 
 **Parent Topic:**[Software Asset Management for Red Hat Enterprise Linux](rhel-publisher-pack.md)
 
@@ -27,7 +27,7 @@ Create individual software entitlements for your Red Hat Enterprise Linux \(RHEL
 
 Role required: sam\_user or sam\_admin
 
-**Important:** You can create entitlements in both the Software Asset Management classic application and the Software Asset Workspace. The following steps provide details on how to create entitlements in the Software Asset Management classic application. For details on how to create entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
+**Important:** You can create entitlements in both the Software Asset Management classic application and the Software Asset Workspace. The following steps provide details on how to create entitlements in the Software Asset Management classic application. For details on how to create entitlements in the Software Asset Workspace, see [Create entitlements in workspace](create-entitlements-workspace.md).
 
 ### Procedure
 
@@ -199,7 +199,7 @@ Import a list of Red Hat Enterprise Linux \(RHEL\) software entitlements from a 
 
 Role required: sam\_admin
 
-**Important:** You can import software entitlements in both the Software Asset Management classic application and the Software Asset Workspace. The following steps provide details on how to import software entitlements in the Software Asset Management classic application. For details on how to import software entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](../task/import-entitlements-workspace.md).
+**Important:** You can import software entitlements in both the Software Asset Management classic application and the Software Asset Workspace. The following steps provide details on how to import software entitlements in the Software Asset Management classic application. For details on how to import software entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](import-entitlements-workspace.md).
 
 ### Procedure
 

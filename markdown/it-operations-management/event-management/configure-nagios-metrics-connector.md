@@ -17,7 +17,7 @@ Configure the Nagios metric connector instance to receive Metric Intelligence ra
 
 ## Before you begin
 
-To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](configure-itoa-metric-extension.md).
+To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](../metric-intelligence/configure-itoa-metric-extension.md).
 
 -   Create basic authentication credentials on ServiceNow instance with Nagios SQL database username and password.
 -   ServiceNow does not support discovery for Nagios. Therefore, create the CI entry manually in the respective table using the hostname configured on the Nagios platform.
@@ -39,7 +39,7 @@ If you are running any other checks on HTTP endpoints or MySQL, you can edit the
 
 2.  Select **New** and create a connector instance.
 
-    For details on the connector instance fields displayed on the page, see [Nagios connector instance form](../reference/nagios-connector-instance-form.md).
+    For details on the connector instance fields displayed on the page, see [Nagios connector instance form](nagios-connector-instance-form.md).
 
 3.  Select and hold \(or right-click\) the form header and select **Save**.
 
@@ -47,7 +47,7 @@ If you are running any other checks on HTTP endpoints or MySQL, you can edit the
 
 4.  In the Connector Instance Values section, you can edit the values of the mandatory Nagios parameters.
 
-    For details on the connector instance value parameters, see [Nagios connector instance value parameters](../reference/nagios-connector-instance-value-parameters.md).
+    For details on the connector instance value parameters, see [Nagios connector instance value parameters](nagios-connector-instance-value-parameters.md).
 
 5.  In the MID Servers for Connectors section, add a MID Server for the Nagios connector to use.
 

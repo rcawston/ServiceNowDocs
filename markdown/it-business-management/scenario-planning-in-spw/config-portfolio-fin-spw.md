@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Enable integration for an internal planning item type.
 
-    For more information, see [Generate default mapping configurations](../../apw-internal-integrations/task/generate-default-mapping-configurations.md).
+    For more information, see [Generate default mapping configurations](generate-default-mapping-configurations.md).
 
 2.  Activate the investment entities for Demands, Projects, and Epics.
 

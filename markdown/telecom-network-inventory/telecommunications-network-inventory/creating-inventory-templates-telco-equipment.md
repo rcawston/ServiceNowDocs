@@ -25,8 +25,8 @@ When you create an equipment or card template, the associated slots and interfac
 
 The names for these associated templates are mapped from the **Slot naming pattern** or **Interface naming pattern** fields in the **Information** tab of the Equipment Model or Interface Model forms.
 
--   To learn more about the **Slot naming pattern** or **Interface naming pattern** fields, see [Inventory Model form - Information](../reference/tni-model-form-information.md).
--   To learn more about the naming convention, see [Naming convention for associated templates](../reference/name-convention-templates.md).
+-   To learn more about the **Slot naming pattern** or **Interface naming pattern** fields, see [Inventory Model form - Information](tni-model-form-information.md).
+-   To learn more about the naming convention, see [Naming convention for associated templates](name-convention-templates.md).
 
 To establish the proper relationships between these elements for your equipment, perform these tasks in the following order.
 
@@ -36,7 +36,7 @@ The first step in this process is to create an appropriate default template for 
 
 Default templates capture the default attribute values for a configuration item \(CI\) class. A template defines the set of attribute values for any resource \(equipment, card, and so on\). When this default template is associated with an inventory template, it adds these attribute values to the resource that is instantiated using that template.
 
-To learn more, see [Create a default template](../task/create-default-templates.md).
+To learn more, see [Create a default template](create-default-templates.md).
 
 ## What's next
 

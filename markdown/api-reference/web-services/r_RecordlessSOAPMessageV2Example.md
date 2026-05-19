@@ -28,5 +28,5 @@ var xmldoc = new XMLDocument(response.getBody());
 var incident_sysid = xmldoc.getNodeText('//sys_id');
 ```
 
-**Parent Topic:**[Scripting outbound SOAP](../../../../../integrate/outbound-soap/reference/r_ScriptingOutboundSOAP.md)
+**Parent Topic:**[Scripting outbound SOAP](r_ScriptingOutboundSOAP.md)
 

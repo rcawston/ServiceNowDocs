@@ -72,7 +72,7 @@ The device experience score is the average device experience score of DEX monito
 **Related topics**  
 
 
-[DEX Score metrics calculation](../reference/dexscr-dex-score-metrics-calc.md)
+[DEX Score metrics calculation](dexscr-dex-score-metrics-calc.md)
 
-[DEX Score normalization for metric scores](../reference/dexscr-dex-score-normalization.md)
+[DEX Score normalization for metric scores](dexscr-dex-score-normalization.md)
 

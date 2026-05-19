@@ -41,12 +41,12 @@ Use the Prioritization page of your portfolio plan to add new planning items or 
 
 5.  If you're using PPM to execute the planned work, you can also import your work items from the application.
 
-    For more information, see [Executing Portfolio Planning work in PPM](../concept/executing-portfolio-planning-with-ppm.md).
+    For more information, see [Executing Portfolio Planning work in PPM](executing-portfolio-planning-with-ppm.md).
 
 
 ## What to do next
 
 -   [Rank planning items](rank-and-prioritize-work-portfolio-planning-workspace.md).
 -   [Update planning item details from Prioritization view](modify-planing-item-details-from-prioritization-portfolio-planning-workspace.md).
--   [Personalizing views for prioritization](../concept/personalizing-prioritization-page-views-in-portfolio-planning-workspace.md).
+-   [Personalizing views for prioritization](personalizing-prioritization-page-views-in-portfolio-planning-workspace.md).
 

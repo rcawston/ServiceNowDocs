@@ -803,5 +803,5 @@ Enter the list of import set table names for which the DB Load is to be enabled 
 
 [CMDB classes targeted in Service Graph Connector for AWS](cmdb-aws-classes.md)
 
-**Parent Topic:**[Service Graph Connector for AWS reference](../concept/sgc-cmdb-aws-reference.md)
+**Parent Topic:**[Service Graph Connector for AWS reference](sgc-cmdb-aws-reference.md)
 

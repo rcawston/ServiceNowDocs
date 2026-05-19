@@ -168,5 +168,5 @@ View the asset attestation or the attestation schedule that's created.
     -   Navigate to the **Asset operations** view and select **Attestations** from the Attestation list.
 -   To view the attestation schedule record, navigate to **Asset operations** and select **Schedule** from the Attestation list.
 
-**Parent Topic:**[Playbook for asset attestation](../concept/playbook-asset-attestation-ham.md)
+**Parent Topic:**[Playbook for asset attestation](playbook-asset-attestation-ham.md)
 

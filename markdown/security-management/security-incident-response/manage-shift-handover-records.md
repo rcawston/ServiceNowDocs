@@ -26,7 +26,7 @@ Role required:
 -   sn\_si.admin - Inherits the sn\_escm\_sh.shift\_admin role.
 -   sn\_escm\_sh.shift\_admin - Inherits the sn\_escm\_sh.shift\_owner role
 
-**Important:** To learn how to configure the Shift Handover Template as an Admin, see [Configure Shift Handover Templates](../task/configure-shift-handover-templates.md).
+**Important:** To learn how to configure the Shift Handover Template as an Admin, see [Configure Shift Handover Templates](configure-shift-handover-templates.md).
 
 ## About this task
 
@@ -202,11 +202,11 @@ The shift name containing the shift start and shift end details. For example, US
 
 [Assign Security Incidents](assign-security-incident.md)
 
-[Close multiple security incidents](../task/close-multiple-incidents-sir.md)
+[Close multiple security incidents](close-multiple-incidents-sir.md)
 
-[Assign Response Tasks](../task/assign_response_tasks.md)
+[Assign Response Tasks](assign_response_tasks.md)
 
-[Report Phish Email](../task/report-phish-email.md)
+[Report Phish Email](report-phish-email.md)
 
 [Working with quick filters](configure-quick-filters.md)
 

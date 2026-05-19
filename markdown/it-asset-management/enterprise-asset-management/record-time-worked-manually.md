@@ -60,7 +60,7 @@ You can record time for a work order task or an asset task that is in progress.
 
 The Time worked form is saved and the time card is added to the Time worked list.
 
-**Parent Topic:**[Record time worked on a task using the Mobile Agent application](../concept/record-time-mobile-agent-app.md)
+**Parent Topic:**[Record time worked on a task using the Mobile Agent application](record-time-mobile-agent-app.md)
 
 **Related topics**  
 

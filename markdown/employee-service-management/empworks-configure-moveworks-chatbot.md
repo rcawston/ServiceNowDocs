@@ -26,7 +26,7 @@ Role required: System administrator.
 
 ## About this task
 
-The Moveworks chat bot configuration captures two related setups. The first is the chat bot record itself. The second is the internal connector that connects the chat bot to ServiceNow identity. For field definitions, see [Moveworks chat bot configuration fields](../reference/empworks-moveworks-chatbot-fields.md).
+The Moveworks chat bot configuration captures two related setups. The first is the chat bot record itself. The second is the internal connector that connects the chat bot to ServiceNow identity. For field definitions, see [Moveworks chat bot configuration fields](empworks-moveworks-chatbot-fields.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ The Moveworks chat bot configuration captures two related setups. The first is t
 
 3.  Set the chat bot fields for the Employee Slate surface.
 
-    For each field and the value to use, see the chat bot record table in [Moveworks chat bot configuration fields](../reference/empworks-moveworks-chatbot-fields.md). The required value is **Surface** = **Unified Front Door**, which lets Employee Slate render the chat bot.
+    For each field and the value to use, see the chat bot record table in [Moveworks chat bot configuration fields](empworks-moveworks-chatbot-fields.md). The required value is **Surface** = **Unified Front Door**, which lets Employee Slate render the chat bot.
 
 4.  Select **Submit** to save the chat bot record.
 
@@ -50,7 +50,7 @@ The Moveworks chat bot configuration captures two related setups. The first is t
 
 6.  Set the internal setup fields for User Inbox, the ServiceNow connector, the trusted issuer, and the Universal Assistance suggested prompts.
 
-    For each field and the value to use, see the internal setup table in [Moveworks chat bot configuration fields](../reference/empworks-moveworks-chatbot-fields.md).
+    For each field and the value to use, see the internal setup table in [Moveworks chat bot configuration fields](empworks-moveworks-chatbot-fields.md).
 
     To verify the correct connector label for the instance, open the core platform connector list under **Manage Applications**. The default Moveworks label is **snow**.
 

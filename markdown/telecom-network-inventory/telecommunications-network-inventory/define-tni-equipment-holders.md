@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you create an equipment holder record, it creates a corresponding configuration item \(CI\) record in the Equipment Holder extension class table. To learn more about the Equipment Holder extension class table, see [Equipment holder extension classes](../reference/equipment-holder-types.md).
+When you create an equipment holder record, it creates a corresponding configuration item \(CI\) record in the Equipment Holder extension class table. To learn more about the Equipment Holder extension class table, see [Equipment holder extension classes](equipment-holder-types.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ When you create an equipment holder record, it creates a corresponding configura
 
 3.  Select **New** and then select the equipment holder type from the list.
 
-    To learn more about the equipment holder types, see [Equipment holder extension classes](../reference/equipment-holder-types.md).
+    To learn more about the equipment holder types, see [Equipment holder extension classes](equipment-holder-types.md).
 
 4.  Select **Submit**.
 
@@ -39,29 +39,29 @@ When you create an equipment holder record, it creates a corresponding configura
 
 5.  On the **Details** tab, fill in the form.
 
-    To learn more about the field information, see [Equipment Holder form](../reference/tni-equipment-holder-form-configuration.md)
+    To learn more about the field information, see [Equipment Holder form](tni-equipment-holder-form-configuration.md)
 
-6.  Create the [Telecommunications Network Inventory](../concept/telecom-network-inventory.md) attributes for the Equipment Holder form by selecting **Set Inventory Attributes**.
+6.  Create the [Telecommunications Network Inventory](telecom-network-inventory.md) attributes for the Equipment Holder form by selecting **Set Inventory Attributes**.
 
     When you select the **Set Inventory Attributes** button, it creates a reference in the CI table.
 
     **Note:**
 
-    If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a [Telecommunications Network Inventory](../concept/telecom-network-inventory.md) CI record.
+    If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a [Telecommunications Network Inventory](telecom-network-inventory.md) CI record.
 
 7.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the [Telecommunications Network Inventory](../concept/telecom-network-inventory.md) attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the [Telecommunications Network Inventory](telecom-network-inventory.md) attribute fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 8.  Select **Save**.
 
-    The [Telecommunications Network Inventory](../concept/telecom-network-inventory.md) attribute fields are displayed on the Equipment Holder form after you save the TNI CI Attributes form. The **Set Inventory Attributes** doesn't appear when you reopen the CI record.
+    The [Telecommunications Network Inventory](telecom-network-inventory.md) attribute fields are displayed on the Equipment Holder form after you save the TNI CI Attributes form. The **Set Inventory Attributes** doesn't appear when you reopen the CI record.
 
 9.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
 
 10. Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Telecommunications Network Inventory](../concept/telecom-network-inventory.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Telecommunications Network Inventory](telecom-network-inventory.md).
 
 11. View the associated network inventories by selecting the brick icon \(![Brick icon.](../image/infrastructure-relashionship.png)\).
 
@@ -77,7 +77,7 @@ When you create an equipment holder record, it creates a corresponding configura
 
 14. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Add Packs** to capture the attributes for a configuration item \(CI\) record.
 
-    To learn more, see [Attribute pack for CI records](../concept/using-pack-table-ci-record.md).
+    To learn more, see [Attribute pack for CI records](using-pack-table-ci-record.md).
 
 15. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Decommission** to decommission a CI record.
 
@@ -86,14 +86,14 @@ When you create an equipment holder record, it creates a corresponding configura
 
 ## What to do next
 
--   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+-   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 -   To delete an inventory record, see [Delete a record](delete-inventory-record.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Modeling your workflow](../concept/telecommunications-network-inventory-workflow.md)
+[Modeling your workflow](telecommunications-network-inventory-workflow.md)
 

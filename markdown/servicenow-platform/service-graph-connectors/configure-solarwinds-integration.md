@@ -23,12 +23,12 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Before you start the configuration, navigate to **System Definition** &gt; **Business Rules**, and deactivate the **ValidateServiceAccountID** business rule.
 
-Air gap connections are available from version 2.5.0 of the Service Graph Connector for SolarWinds. You can set up either regular data sources or air gap data sources. Before you set up air gap data sources, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure server and low-secure server. See [Configuring air gap connections for Service Graph Connector for SolarWinds](../concept/airgap-solarwinds.md).
+Air gap connections are available from version 2.5.0 of the Service Graph Connector for SolarWinds. You can set up either regular data sources or air gap data sources. Before you set up air gap data sources, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure server and low-secure server. See [Configuring air gap connections for Service Graph Connector for SolarWinds](airgap-solarwinds.md).
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   Discovery Core plugin \(com.snc.discovery.core\), which is automatically installed by Discovery.
 -   ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
@@ -244,7 +244,7 @@ Order in which credentials are tried. Smaller numbers are tried first.
         -   To add or edit regular data sources, select **Regular Data Sources**.
         -   To add or edit air gap data sources, select **Airgap Data Sources**.
 
-            **Note:** Before you add an air gap data source, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure and low-secure servers. See [Configuring air gap connections for Service Graph Connector for SolarWinds](../concept/airgap-solarwinds.md).
+            **Note:** Before you add an air gap data source, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure and low-secure servers. See [Configuring air gap connections for Service Graph Connector for SolarWinds](airgap-solarwinds.md).
 
     3.  Either create or edit a connection.
 
@@ -370,13 +370,13 @@ Folder where the data is to be archived if the **Archive Data After Retrieval** 
 **Related topics**  
 
 
-[Service Graph Connector for SolarWinds](../concept/cmdb-integration-solarwinds.md)
+[Service Graph Connector for SolarWinds](cmdb-integration-solarwinds.md)
 
-[CMDB classes targeted in Service Graph Connector for SolarWinds](../reference/cmdb-solarwinds-classes.md)
+[CMDB classes targeted in Service Graph Connector for SolarWinds](cmdb-solarwinds-classes.md)
 
-[Configure Service Graph Connector for SolarWinds using SGC Central](../../sgc-central/task/sgcc-configure-solarwinds-integ.md)
+[Configure Service Graph Connector for SolarWinds using SGC Central](sgcc-configure-solarwinds-integ.md)
 
-[Accessing the connection details of Service Graph Connector for SolarWinds](../concept/sgc-cmdb-solarwinds-conn.md#)
+[Accessing the connection details of Service Graph Connector for SolarWinds](sgc-cmdb-solarwinds-conn.md#)
 
-[Configuring air gap connections for Service Graph Connector for SolarWinds](../concept/airgap-solarwinds.md)
+[Configuring air gap connections for Service Graph Connector for SolarWinds](airgap-solarwinds.md)
 

@@ -27,7 +27,7 @@ Role required: sequence viewer \[sn\_crm\_sequence.viewer\]
 
 4.  View your in-progress sequence tasks by selecting **My Active Sequence Tasks**.
 
-    For more information, see [My sequence task list view](../reference/sequence-task-list-view.md).
+    For more information, see [My sequence task list view](sequence-task-list-view.md).
 
 5.  View the sequence steps for a record by selecting it.
 
@@ -36,5 +36,5 @@ Role required: sequence viewer \[sn\_crm\_sequence.viewer\]
 
 Engage with your prospective customers by following the activities in the sequence steps. For more information, see [Complete predefined customer engagement tasks](execute-sequence-steps.md).
 
-**Parent Topic:**[Using Customer Engagement Sequences](../concept/using-customer-engagement-sequences.md)
+**Parent Topic:**[Using Customer Engagement Sequences](using-customer-engagement-sequences.md)
 

@@ -25,7 +25,7 @@ Role required: admin
 
 3.  On the Channel partner form, fill in the fields.
 
-    For a description of the field values, see [Channel partner form](../reference/mco-cp-form.md).
+    For a description of the field values, see [Channel partner form](mco-cp-form.md).
 
 4.  Select **Save**.
 

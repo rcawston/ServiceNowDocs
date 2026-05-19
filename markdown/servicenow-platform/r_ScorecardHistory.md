@@ -13,7 +13,7 @@ breadcrumb: [Quiz scorecards, View a quiz designer scorecard, View a quiz result
 
 The History view compares the current ratings for the categories and their questions with ratings from the previous three years or four quarters..
 
-Ratings that have declined are highlighted in red and display negative numbers. Ratings that have improved are highlighted in green with positive numbers. Arrow icons beside the values in the **Diff** column indicate the trend of the current ratings against the previous ratings. Ratings are only calculated for [scored questions](../task/t_ConfigureAScoredQuestion.md) questions.
+Ratings that have declined are highlighted in red and display negative numbers. Ratings that have improved are highlighted in green with positive numbers. Arrow icons beside the values in the **Diff** column indicate the trend of the current ratings against the previous ratings. Ratings are only calculated for [scored questions](t_ConfigureAScoredQuestion.md) questions.
 
 Point to a category to display a line chart that shows the rating trend for that category. Click a category to view the Metric Category form containing the questions.
 
@@ -27,5 +27,5 @@ Point to a category to display a line chart that shows the rating trend for that
 
 ![](../images/QuizScorecardHistory4qtr.png "Scorecard history - 4 quarters")
 
-**Parent Topic:**[Quiz scorecards](../concept/c_QuizScorecards.md)
+**Parent Topic:**[Quiz scorecards](c_QuizScorecards.md)
 

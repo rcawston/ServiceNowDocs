@@ -302,16 +302,16 @@ The delete script definition removes a record from the external source. This scr
 </table>6.  Select **Submit**.
 
 
--   **[Example 1: Retrieving all incident records from an external source](../reference/remote-table-script-def-example1.md)**  
+-   **[Example 1: Retrieving all incident records from an external source](remote-table-script-def-example1.md)**  
 These are examples of script definitions you might create for retrieval and caching of data from sources external to your current instance. In this first example, we create a script to load all incident records from an external source.
--   **[Example 2: Retrieving specific records from a third-party source](../reference/remote-table-script-def-example2.md)**  
+-   **[Example 2: Retrieving specific records from a third-party source](remote-table-script-def-example2.md)**  
 In this example, we create a script to retrieve specific types of incident records from a third-party source.
--   **[Example 3: Insert a record in an external source](../reference/remote-table-script-def-example3.md)**  
+-   **[Example 3: Insert a record in an external source](remote-table-script-def-example3.md)**  
 In this example, we create a script to insert an incident record into the external source.
--   **[Example 4: Update a record in an external source](../reference/remote-table-script-def-example4.md)**  
+-   **[Example 4: Update a record in an external source](remote-table-script-def-example4.md)**  
 In this example, we create a script to update an incident record in the external source.
--   **[Example 5: Delete a record in an external source](../reference/remote-table-script-def-example5.md)**  
+-   **[Example 5: Delete a record in an external source](remote-table-script-def-example5.md)**  
 In this example, we create a script to delete an incident record from the external source.
 
-**Parent Topic:**[Remote tables](../concept/remote-tables.md)
+**Parent Topic:**[Remote tables](remote-tables.md)
 

@@ -43,7 +43,7 @@ To edit the settings for a form, you must be given permission to work on the app
 
 6.  Update settings on the **General** tab.
 
-    For details on specific form settings, see [Creator Studio form settings](../reference/creator-studio-form-settings.md).
+    For details on specific form settings, see [Creator Studio form settings](creator-studio-form-settings.md).
 
     ![Option to hide a form](../image/cs-form-settings-hide.png "Form settings modal")
 
@@ -87,7 +87,7 @@ To edit the settings for a form, you must be given permission to work on the app
 
     5.  Select the roles and groups that shouldn’t have access to the form.
 
-        Work with your admin to restrict or provide access to the roles and groups for this setting in non-production and production environments. For more information, see [Administering user access for deployed Creator Studio apps](../concept/creator-studio-administering-user-access-apps.md).
+        Work with your admin to restrict or provide access to the roles and groups for this setting in non-production and production environments. For more information, see [Administering user access for deployed Creator Studio apps](creator-studio-administering-user-access-apps.md).
 
     6.  Select the **Apply** button to save your changes.
 
@@ -98,5 +98,5 @@ To edit the settings for a form, you must be given permission to work on the app
 
 The form's settings are updated. Remember: You just updated the settings for the form you selected, not for all of the app's forms if it has multiple.
 
-**Parent Topic:**[Working with forms in Creator Studio](../concept/creator-studio-work-with-forms.md)
+**Parent Topic:**[Working with forms in Creator Studio](creator-studio-work-with-forms.md)
 

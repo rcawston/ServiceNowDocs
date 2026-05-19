@@ -26,5 +26,5 @@ Administrators create aspiration types that are use by employees and managers.
 |**Tip**|Text that's display in the UI with each listed aspiration type.|
 |**Title**|The UI text that's visible for each listed aspiration type.|
 
-**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+**Parent Topic:**[Talent Development Core application reference](egd-reference.md)
 

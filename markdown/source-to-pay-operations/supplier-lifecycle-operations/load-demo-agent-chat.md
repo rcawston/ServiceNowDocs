@@ -30,16 +30,16 @@ Role required: admin
 4.  In the Activate Plugin dialog box, select the **Load demo data** check box, and then select **Activate**.
 
 
-**Parent Topic:**[Advanced Work Assignment for Supplier Lifecycle Operations](../concept/supplier-awa.md)
+**Parent Topic:**[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
 
 **Related topics**  
 
 
-[Source-to-Pay Workspace agent inbox](../concept/agent-inbox-ws.md)
+[Source-to-Pay Workspace agent inbox](agent-inbox-ws.md)
 
-[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](../concept/awa-slm-config.md)
+[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)
 
-[Using Advanced Work Assignment for Supplier Lifecycle Operations](../concept/use-awa-slm.md)
+[Using Advanced Work Assignment for Supplier Lifecycle Operations](use-awa-slm.md)
 
-[Source-to-Pay Workspace agent inbox](../concept/agent-inbox-ws.md)
+[Source-to-Pay Workspace agent inbox](agent-inbox-ws.md)
 

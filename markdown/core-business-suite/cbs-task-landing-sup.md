@@ -34,7 +34,7 @@ Accounts Payable Operations![](../../../reuse/icons/brand-icons/bus-compliance.s
 
 ![Image displays General inquiry form template in SLO.](../image/slo-form-dec.png)
 
-Ask a general category question, using the supplier catalog. For more information, [Raise a general supplier request](../task/request-slo.md).
+Ask a general category question, using the supplier catalog. For more information, [Raise a general supplier request](request-slo.md).
 
 ## Accounts Payable requests
 
@@ -42,7 +42,7 @@ Ask a general category question, using the supplier catalog. For more informatio
 
 As a supplier, use the Supplier Collaboration Portal to create an inquiry related to an invoice and submit it to the Accounts Payable Operations team to evaluate and resolve the inquiry.
 
-For more information, see [Raise an invoice request](../task/request-apo.md).
+For more information, see [Raise an invoice request](request-apo.md).
 
 ## Workflows and applications
 

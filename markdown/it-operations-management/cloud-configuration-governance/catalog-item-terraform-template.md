@@ -103,7 +103,7 @@ Create a catalog item from the Terraform template to request cloud resource prov
 
         -   **organization** is the name of the Microsoft Azure DevOps organization.
         -   **project** is the name of the Microsoft Azure DevOps project.
-    For more information on the API credentials, see [Cloud Services Catalog Terraform Connector API Key Credentials form reference](../reference/cpg-terraform-connector-api-key-credentials-form-reference.md).
+    For more information on the API credentials, see [Cloud Services Catalog Terraform Connector API Key Credentials form reference](cpg-terraform-connector-api-key-credentials-form-reference.md).
 
 
 Role required: sn\_cmp.cloud\_service\_designer
@@ -203,5 +203,5 @@ Name of the Terraform config provider that you want to use.
 
 Verify that the catalog item appears in the Cloud User Portal.
 
-**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](../concept/using-ccg-terraform-connector.md)
+**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](using-ccg-terraform-connector.md)
 

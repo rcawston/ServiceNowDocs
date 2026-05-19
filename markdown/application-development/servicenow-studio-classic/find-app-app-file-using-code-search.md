@@ -37,7 +37,7 @@ Role required: admin or delegated developer
     -   Choose **Select specific app** and then enter the name of the app in the search bar that appears.
 5.  Limit the search to a table by entering the name of the table in the **File types / tables** field.
 
-    Only tables in the same scope are available. For a list of supported file types, see [ServiceNow Studio supported file types using code search](../reference/sn-studio-file-types.md).
+    Only tables in the same scope are available. For a list of supported file types, see [ServiceNow Studio supported file types using code search](sn-studio-file-types.md).
 
 6.  Run the search by selecting **View results**.
 
@@ -58,5 +58,5 @@ Role required: admin or delegated developer
     The complete script appears in a new tab in ServiceNow Studio.
 
 
-**Parent Topic:**[Working with applications in ServiceNow Studio](../concept/working-with-apps-in-servicenow-studio.md)
+**Parent Topic:**[Working with applications in ServiceNow Studio](working-with-apps-in-servicenow-studio.md)
 

@@ -26,5 +26,5 @@ A reference topic that contains information on the system properties used with u
 -   **[Important considerations before deleting update sets](delete-update-set-cautions.md)**  
 Revert a customization, back out the update set rather than deleting it.
 
-**Parent Topic:**[System update sets](../concept/system-update-sets.md)
+**Parent Topic:**[System update sets](system-update-sets.md)
 

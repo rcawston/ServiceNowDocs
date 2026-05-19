@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_analyst
     -   To update details of an existing capability, select the capability, then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new business capability form](../../reference/eaw-reference/eaw-cap-form.md).
+    For field information, see [Create new business capability form](eaw-cap-form.md).
 
 7.  Select **Save**.
 
-    You can also add capabilities from the Business Portfolio page. For more information, see [Add a business capability](../add-a-capability.md).
+    You can also add capabilities from the Business Portfolio page. For more information, see [Add a business capability](add-a-capability.md).
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](eaw-work-with-your-entities.md)
 

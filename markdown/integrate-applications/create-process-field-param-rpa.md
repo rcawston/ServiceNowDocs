@@ -15,11 +15,11 @@ Define process field parameters \(dynamic parameters\) that are required in the 
 
 ## Before you begin
 
-Familiarize yourself with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md).
+Familiarize yourself with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md).
 
-Verify that you’ve completed the tasks that are related to configuring the Embedded Task Automation in RPA Hub. For more information, see [List of steps for configuring embedded task automation](../reference/list-steps-eta-rpa.md).
+Verify that you’ve completed the tasks that are related to configuring the Embedded Task Automation in RPA Hub. For more information, see [List of steps for configuring embedded task automation](list-steps-eta-rpa.md).
 
-Create an attended bot process. For more information about creating an attended bot process, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create an attended bot process. For more information about creating an attended bot process, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Verify that the **Enable Embedded Task Automation** check box is selected in the associated attended bot process form. For more information about the bot process form, see [Bot Process form in RPA Hub](select-botprocess.md#).
 
@@ -83,20 +83,20 @@ Brief description of the parameter.
     **Note:** If a parameter is mapped in the attended configuration record, then you must delete the mapping to delete the parameter. You can’t delete a parameter, if the associated bot process is published.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 
 **Related topics**  
 
 
 [Create an attended configuration record in RPA Hub](create-attended-config-rpa.md)
 
-[Attended Configuration form in RPA Hub](../reference/attended-config-form-rpa.md)
+[Attended Configuration form in RPA Hub](attended-config-form-rpa.md)
 
 [Deactivate an attended configuration record in RPA Hub](deactivate-attend-config-rpa.md)
 
 [Delete an attended configuration record in RPA Hub](delete-attended-config-rpa.md)
 
-[Invoke Embedded Task Automation via API in RPA Hub](../concept/create-button-att-config-rpa.md)
+[Invoke Embedded Task Automation via API in RPA Hub](create-button-att-config-rpa.md)
 
-[Conditions for the visibility of UI action \(button\)](../reference/visibility-cond-button-rpa.md)
+[Conditions for the visibility of UI action \(button\)](visibility-cond-button-rpa.md)
 

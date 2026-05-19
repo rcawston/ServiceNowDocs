@@ -31,7 +31,7 @@ The BCP Plan Manager \(sn\_bcp.plan\_manager\) now includes the Doc writer \(sn\
 
 3.  Fill in the required fields in the **Details** tab of the **Create New Plan** form.
 
-    For more information on the fields, see [Create New Plan form](../reference/create-new-plan-bcp-uib-ws-reference-form.md).
+    For more information on the fields, see [Create New Plan form](create-new-plan-bcp-uib-ws-reference-form.md).
 
     The business continuity plan \(BCP\) is created in the **Draft** state and it’s displayed in the List view. The state and details of the business continuity plan are displayed in the tabs.
 
@@ -245,8 +245,8 @@ If you have over 500 recovery tasks and the dependencies are updated, the planne
 14. Select **Delete** to delete the plan.
 
 
--   **[Create New Plan form](../reference/create-new-plan-bcp-uib-ws-reference-form.md)**  
+-   **[Create New Plan form](create-new-plan-bcp-uib-ws-reference-form.md)**  
 Use the Create New Plan form in BCM UIB Workspace to add the details about the business continuity plan \(BCP\).
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)
 

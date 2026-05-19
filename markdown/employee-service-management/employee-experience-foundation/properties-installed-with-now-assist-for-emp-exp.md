@@ -53,5 +53,5 @@ Set this property to **true** to display the AI agent output to users while usin
 -   Default value: False
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist for Employee Experience reference](../concept/reference-now-assist-for-emp-exp.md)
+</table>**Parent Topic:**[Now Assist for Employee Experience reference](reference-now-assist-for-emp-exp.md)
 

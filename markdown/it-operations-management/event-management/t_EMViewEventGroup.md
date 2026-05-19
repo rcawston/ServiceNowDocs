@@ -38,5 +38,5 @@ Events are grouped according to their source and description.
     ![Event Groups](../image/EventManagementGroups.png)
 
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](create-event-rules.md)
 

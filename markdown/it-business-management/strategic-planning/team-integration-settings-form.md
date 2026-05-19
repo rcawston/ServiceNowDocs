@@ -58,5 +58,5 @@ Jira board for the selected Jira project.
 **Related topics**  
 
 
-[Associate Jira projects with EAP teams](../task/create-team-integration-settings-for-jira-project-in-spw.md)
+[Associate Jira projects with EAP teams](create-team-integration-settings-for-jira-project-in-spw.md)
 

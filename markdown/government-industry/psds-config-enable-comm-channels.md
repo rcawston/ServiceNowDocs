@@ -19,7 +19,7 @@ Configure communication channels such as chat, email, phone, virtual agent, and 
 
 </td><td>
 
-[Engagement Messenger![](../../../reuse/icons/brand-icons/bus-chat.svg)Set up Engagement Messenger to enable your users to find the information or service that they need from third-party web applications.](../task/psds-configure-engagement-messenger.md#)
+[Engagement Messenger![](../../../reuse/icons/brand-icons/bus-chat.svg)Set up Engagement Messenger to enable your users to find the information or service that they need from third-party web applications.](psds-configure-engagement-messenger.md#)
 
 </td></tr><tr><td>
 

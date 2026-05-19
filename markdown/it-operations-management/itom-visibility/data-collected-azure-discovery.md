@@ -28,11 +28,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Visibility Content
 -   **Create Azure cloud credentials**
 
-    Create Microsoft Azure credentials that can access the Microsoft Azure account. For more information, see [Create Azure cloud credentials](../task/create-azure-cloud-credentials.md).
+    Create Microsoft Azure credentials that can access the Microsoft Azure account. For more information, see [Create Azure cloud credentials](../discovery/create-azure-cloud-credentials.md).
 
 -   **Configure a discovery schedule**
 
-    [Create a discovery schedule in Cloud Discovery Workspace](../task/cloud-operations-disco-create-schedule.md)
+    [Create a discovery schedule in Cloud Discovery Workspace](../discovery/cloud-operations-disco-create-schedule.md)
 
 
 ## Verify the REST API Permissions
@@ -321,9 +321,9 @@ category
 **Related topics**  
 
 
-[Microsoft Azure Cloud discovery using patterns](../../service-mapping/reference/azure-cloud-discovery-patterns.md)
+[Microsoft Azure Cloud discovery using patterns](../discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 
 [Service Graph Connector for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-azure.md)
 
-[Agent Client Collector Discovery](../../agent-client-collector/concept/acc-discovery.md)
+[Agent Client Collector Discovery](../agent-client-collector/acc-discovery.md)
 

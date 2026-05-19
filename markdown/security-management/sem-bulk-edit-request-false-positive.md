@@ -45,8 +45,8 @@ When you raise a false positive request for one or more records from the Bulk ed
     -   Configuration Test Results
 3.  Perform one of the following:
 
-    -   Select the check box next to each item if you want to use the Only Selected Items option in the [**Record selection**](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-request-false-positive.md#record-slection-field) field.
-    -   Apply filters if you want to use the All records that match filter option in the [**Record selection**](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-request-false-positive.md#record-slection-field) field.
+    -   Select the check box next to each item if you want to use the Only Selected Items option in the [**Record selection**](vulnerability-manager-workspace/vmws-bulk-edit-request-false-positive.md#record-slection-field) field.
+    -   Apply filters if you want to use the All records that match filter option in the [**Record selection**](vulnerability-manager-workspace/vmws-bulk-edit-request-false-positive.md#record-slection-field) field.
 4.  Select the **Bulk Edit** button.
 
 5.  On the form, fill in the fields to request false positive for multiple records.
@@ -135,7 +135,7 @@ Text that you enter to describe the changes.
 
     A remediation task is created with the selected records. Your request is submitted for approval and the State of the remediation task changes to  In Review.
 
-    **Note:** The **Take Questionnaire** modal appears only when the questionnaire is enabled for false positive requests in the Exception Management form. For more information on configuring a questionnaire for false positive requests, see [Configure Exception Management for Vulnerability Response](../../vulnerability-response/task/configure-exception-management-settings.md), [Configure Exception Management for Application Vulnerability Response](../../vulnerability-app-vuln-mgmt/task/configure-exception-management-application-vulnerability-response.md), and [Configure Exception Management for Container Vulnerability Response](../../container-vulnerability-response/task/configure-exception-management-for-container-vulnerability-response.md).
+    **Note:** The **Take Questionnaire** modal appears only when the questionnaire is enabled for false positive requests in the Exception Management form. For more information on configuring a questionnaire for false positive requests, see [Configure Exception Management for Vulnerability Response](vulnerability-response/configure-exception-management-settings.md), [Configure Exception Management for Application Vulnerability Response](application-vulnerability-response/configure-exception-management-application-vulnerability-response.md), and [Configure Exception Management for Container Vulnerability Response](container-vulnerability-response/configure-exception-management-for-container-vulnerability-response.md).
 
     The approver receives an email notification about your request.
 
@@ -151,5 +151,5 @@ In the Security Exposure Management Workspace, on the List page, navigate to **E
 
 In the **Activity stream** of a record or remediation task, you can view the entire workflow of your request.
 
-**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](../concept/sem-using-bulk-edit.md)
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](sem-using-bulk-edit.md)
 

@@ -87,8 +87,8 @@ A data management policy is established for the designated table. You can now cr
 
 Define archive and cleanup rules for the table by creating rules in the data management policy.
 
--   [Create an archive rule in Core UI](../../database-rotation/task/t_CreateAnArchiveRule.md#)
+-   [Create an archive rule in Core UI](t_CreateAnArchiveRule.md#)
 -   [Create a table cleanup rule in Core UI](activate-table-cleanup.md)
 
-**Parent Topic:**[Managing data growth in Core UI](../concept/data-management-policies.md)
+**Parent Topic:**[Managing data growth in Core UI](data-management-policies.md)
 

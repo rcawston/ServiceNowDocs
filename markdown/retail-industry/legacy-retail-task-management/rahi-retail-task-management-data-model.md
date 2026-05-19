@@ -39,7 +39,7 @@ Installing the Multi-case creation plugin adds the Multiple case creation config
 
 The Multi Case Creation Config table holds the necessary information for multiple case creations.
 
-For more detailed information on how these fields are involved with the multi-store creation process, refer to [Configuring Retail Task Management](../concept/rahi-retail-task-management-configuring.md).
+For more detailed information on how these fields are involved with the multi-store creation process, refer to [Configuring Retail Task Management](rahi-retail-task-management-configuring.md).
 
-**Parent Topic:**[Retail Task Management reference](../concept/rahi-retail-task-management-reference.md)
+**Parent Topic:**[Retail Task Management reference](rahi-retail-task-management-reference.md)
 

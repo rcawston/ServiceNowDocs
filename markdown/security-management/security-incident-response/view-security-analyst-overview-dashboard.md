@@ -31,6 +31,6 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(Write\)
 
     ![Security Analysts Overview dashboard](../image/security-analysts-overview-dashboard.png)
 
-    View the Security Analyst Overview dashboard for further action. For detailed information on Security Analyst Overview dashboard, see [Security Incident Response Platform Analytics Solutions](../../../use/dashboards/application-content-packs/security-incident-content-pack.md).
+    View the Security Analyst Overview dashboard for further action. For detailed information on Security Analyst Overview dashboard, see [Security Incident Response Platform Analytics Solutions](security-incident-content-pack.md).
 
 

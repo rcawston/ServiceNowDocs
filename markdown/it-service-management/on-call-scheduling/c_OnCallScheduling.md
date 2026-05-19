@@ -25,23 +25,23 @@ The On-Call Scheduling application helps you to ensure that dedicated support te
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Configure environment, tools, and user access.](../../user-administration/concept/configuration.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Configure environment, tools, and user access.](configuration.md)
 
 </td><td>
 
-[View Schedules![](../../../reuse/icons/brand-icons/bus-events.svg)Learn how to view schedules and request time-off.](../../user-administration/concept/viewing-schedules-and-escalation.md)
+[View Schedules![](../../../reuse/icons/brand-icons/bus-events.svg)Learn how to view schedules and request time-off.](viewing-schedules-and-escalation.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-monitor.svg)Manage shifts and time-off requests.](../../user-administration/concept/manage-schedules-and-shifts.md)
+[Manage![](../../../reuse/icons/brand-icons/bus-monitor.svg)Manage shifts and time-off requests.](manage-schedules-and-shifts.md)
 
 </td></tr><tr><td>
 
-[View On-Call Scheduling reports![](../../../reuse/icons/brand-icons/bus-improve-it-costs.svg)Generate and view reports. Premium dashboard user can view performance report.](../../user-administration/concept/viewing-reports.md)
+[View On-Call Scheduling reports![](../../../reuse/icons/brand-icons/bus-improve-it-costs.svg)Generate and view reports. Premium dashboard user can view performance report.](viewing-reports.md)
 
 </td><td>
 
-[Define On-Call Scheduling escalation process![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Define escalation trigger rules and policies.](../../user-administration/concept/defining-escalation-process-and-template.md)
+[Define On-Call Scheduling escalation process![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Define escalation trigger rules and policies.](defining-escalation-process-and-template.md)
 
 </td><td>
 
@@ -49,7 +49,7 @@ The On-Call Scheduling application helps you to ensure that dedicated support te
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about On-Call Scheduling components such as roles and dependent applications.](../../user-administration/concept/reference-for-on-call-scheduling.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about On-Call Scheduling components such as roles and dependent applications.](reference-for-on-call-scheduling.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

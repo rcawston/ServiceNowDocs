@@ -24,10 +24,10 @@ When you assign the snc\_external role to users who are external to your organiz
 You can use the mobile property **allow\_snc\_external\_attachment\_access** to remove restrictions on attachments for users assigned the snc\_external role. When the **allow\_snc\_external\_attachment\_access** mobile property is set `true`, external users can use the mobile offline mode and access attachments from the following components and locations:
 
 -   [Activity streams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_activity-streams.md)
--   [Legacy parameter screen \(UI parameters\), Quebec and earlier](../concept/parameter-input-screen.md)
--   [Input form screen \(sys\_sg\_parameter\_screen table\), Rome and later](../concept/parameter-input-screen.md)
--   [Details screen using the Attachment list](../concept/sg-mobile-attachments.md)
--   [Offline mode](../concept/mobile-offline-mode.md)
+-   [Legacy parameter screen \(UI parameters\), Quebec and earlier](parameter-input-screen.md)
+-   [Input form screen \(sys\_sg\_parameter\_screen table\), Rome and later](parameter-input-screen.md)
+-   [Details screen using the Attachment list](sg-mobile-attachments.md)
+-   [Offline mode](mobile-offline-mode.md)
 
 The **allow\_snc\_external\_attachment\_access** mobile property is turned off by default and external users can't access attachments.
 
@@ -65,7 +65,7 @@ Application
 
 </td><td>
 
-Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe UI icon.](../image/globe-icon.png)\) on the instance banner. Then select **Application scope: _application\_scope_**. For information about how mobile properties are affected by application scope, see [Mobile properties](../concept/mobile-properties.md).
+Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe UI icon.](../image/globe-icon.png)\) on the instance banner. Then select **Application scope: _application\_scope_**. For information about how mobile properties are affected by application scope, see [Mobile properties](mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -141,5 +141,5 @@ Mobile application to which you want to send the mobile property. This setting l
 
 After updating this property, the end user must pull to refresh on the launcher screen to get the latest feature configurations.
 
-**Parent Topic:**[Mobile properties](../concept/mobile-properties.md)
+**Parent Topic:**[Mobile properties](mobile-properties.md)
 

@@ -58,5 +58,5 @@ Next steps:
 -   [Set up module access policies to control who can view the encrypted data](ekms-set-up-maps.md)
 -   [Test an external key definition](ekms-test-external-key-definition.md)
 
-**Parent Topic:**[Configuring External Key Management Service](../concept/ekms-configuring-external-key-management.md)
+**Parent Topic:**[Configuring External Key Management Service](ekms-configuring-external-key-management.md)
 

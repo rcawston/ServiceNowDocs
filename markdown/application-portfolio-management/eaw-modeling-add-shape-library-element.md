@@ -35,12 +35,12 @@ Role required: sn\_apm.apm\_admin
 
 8.  On the Shape Library Element form, fill in the fields.
 
-    For field information, see [Shape library element form](../../reference/eaw-reference/eaw-modeling-shape-library-element-form.md).
+    For field information, see [Shape library element form](eaw-modeling-shape-library-element-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Configure Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-setup-modeling.md)
+**Parent Topic:**[Configure Enterprise Modeling and Visualization](eaw-setup-modeling.md)
 
 **Related topics**  
 

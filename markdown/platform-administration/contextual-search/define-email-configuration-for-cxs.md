@@ -44,5 +44,5 @@ When Knowledge articles are associated with a record, those search results can b
 -   **[Provide knowledge in incident email notification](t_ProvideKnowledgeIEN.md)**  
 Contextual search results are included in email notifications that are sent to users who create a new incident.
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

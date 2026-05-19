@@ -24,12 +24,12 @@ There are four data collection frequencies that are supported for the fiscal yea
 -   Semi-annually
 -   Annually
 
-After you create fiscal calendars, you must map the calendars to specify which is your target calendar and your source calendar. You can then use these calendars in metric definitions and metrics. The calendar specified on the metric is used for data collection and the calendar specified on the metric definition is used for data aggregation. This means that if the metric definition has **Global calendar** specified, and the metric has **US calendar** specified, then the Global calendar will be used for data aggregation. For more information on mapping calendars, see [Map target and source calendars](../task/map-target-and-source-calendars.md).
+After you create fiscal calendars, you must map the calendars to specify which is your target calendar and your source calendar. You can then use these calendars in metric definitions and metrics. The calendar specified on the metric is used for data collection and the calendar specified on the metric definition is used for data aggregation. This means that if the metric definition has **Global calendar** specified, and the metric has **US calendar** specified, then the Global calendar will be used for data aggregation. For more information on mapping calendars, see [Map target and source calendars](map-target-and-source-calendars.md).
 
 **Note:** The calendars must begin on the first of every month.
 
 **Related topics**  
 
 
-[Create fiscal calendars](../task/enable-custom-fiscal-year.md)
+[Create fiscal calendars](enable-custom-fiscal-year.md)
 

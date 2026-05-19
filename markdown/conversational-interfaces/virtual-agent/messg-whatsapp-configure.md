@@ -29,10 +29,10 @@ This task provides the general steps to integrate the WhatsApp messaging app wit
 
 2.  [Set up Conversational Integration with WhatsApp \(powered by Twilio\)](messg-whatsapp-setup.md).
 
-3.  [Design virtual agent topics to capture information from a WhatsApp chat conversation](../concept/messg-whatsapp-capture-info.md).
+3.  [Design virtual agent topics to capture information from a WhatsApp chat conversation](messg-whatsapp-capture-info.md).
 
-4.  [Close idle WhatsApp chat conversations](../concept/messg-whatsapp-open-conv.md).
+4.  [Close idle WhatsApp chat conversations](messg-whatsapp-open-conv.md).
 
-5.  [Integrate WhatsApp with other ServiceNow applications](../concept/messg-whatsapp-integrating-apps.md).
+5.  [Integrate WhatsApp with other ServiceNow applications](messg-whatsapp-integrating-apps.md).
 
 

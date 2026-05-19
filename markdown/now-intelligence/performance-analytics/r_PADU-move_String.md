@@ -29,5 +29,5 @@ var pa = new SNC.PADomainUtils();
 pa.move('774190f01f1310005a3637b8ec8b70ef')
 ```
 
-**Parent Topic:**[PADomainUtils - Global](../concept/c_PADomainUtils.md)
+**Parent Topic:**[PADomainUtils - Global](c_PADomainUtils.md)
 

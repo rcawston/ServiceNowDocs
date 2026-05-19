@@ -85,5 +85,5 @@ Using this window, you can directly change the dates, effort value, and status t
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](using-rmw.md)
 

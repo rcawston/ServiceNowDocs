@@ -15,7 +15,7 @@ breadcrumb: [Transform functions, Flows, subflows, and actions reference, Flows,
 
 Use utilities transform functions to return a Complex Object from an Array, or a value associated with a specific key.
 
-Utilities transform functions require an Array, Name-Value Pair, String, Integer, or Choice input data pill. Make sure to use the correct input [data pill type](action-inputs-outputs.md) when applying utilities transform functions. If a utility transform function is applied to an improper data type, the data is not transformed at runtime and the input value is returned instead. For more information on confirming your flow runtime values, see [Test a flow](../task/flow-test.md).
+Utilities transform functions require an Array, Name-Value Pair, String, Integer, or Choice input data pill. Make sure to use the correct input [data pill type](action-inputs-outputs.md) when applying utilities transform functions. If a utility transform function is applied to an improper data type, the data is not transformed at runtime and the input value is returned instead. For more information on confirming your flow runtime values, see [Test a flow](flow-test.md).
 
 ## Get First Item from Array
 
@@ -233,5 +233,5 @@ Example usage:
 -   Parameters: `<`
 -   Output: `1<2<3`
 
-**Parent Topic:**[Transform functions](../concept/transform-functions.md)
+**Parent Topic:**[Transform functions](transform-functions.md)
 

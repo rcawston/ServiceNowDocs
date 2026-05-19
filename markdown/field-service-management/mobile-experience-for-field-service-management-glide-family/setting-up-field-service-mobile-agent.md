@@ -32,7 +32,7 @@ If you have the wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager role,
 
 The steps for setting up Field Service Mobile Agent are:
 
-1.  [Configure the Now Mobile Agent application](../task/configure-field-service-mobile.md)
+1.  [Configure the Now Mobile Agent application](configure-field-service-mobile.md)
 
     Configure the Mobile Agent application and customize it for field service agents and dispatchers.
 
@@ -48,7 +48,7 @@ The steps for setting up Field Service Mobile Agent are:
 
     Site Mapping for Field Service Management helps agents navigate job sites when their tasks are in large indoor facilities.
 
-5.  [Activate Sidebar for the Field Service Mobile Agent application](../task/activate-sidebar-mobile.md)
+5.  [Activate Sidebar for the Field Service Mobile Agent application](activate-sidebar-mobile.md)
 
     You can activate the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\) for Field Service Management if you have the admin role. Activating this plugin enables the Sidebar feature on the Mobile Agent application.
 
@@ -56,11 +56,11 @@ The steps for setting up Field Service Mobile Agent are:
 
     Configure notifications to ensure agents and dispatchers receive timely updates and alerts on their mobile devices. This feature keeps them informed about important tasks and changes in real-time.
 
-7.  [Activate Field Service Manager Mobile](../task/activate-manager-mobile.md)
+7.  [Activate Field Service Manager Mobile](activate-manager-mobile.md)
 
     Activate Field Service Manager Mobile so users with the wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager can access the app.
 
-8.  [Change Field Service Manager Mobile to use assignment groups or territories](../task/change-manager-territory.md)
+8.  [Change Field Service Manager Mobile to use assignment groups or territories](change-manager-territory.md)
 
     Change the Field Service Manager Mobile app to use territories instead of the default assignment groups.
 

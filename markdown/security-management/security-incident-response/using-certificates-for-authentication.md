@@ -67,5 +67,5 @@ Add a JSON Web Token \(JWT\) provider to your ServiceNow instance.
 -   **[Establish a connection using certificates](establish-a-connection-using-certificates.md)**  
 Establish a connection between newly created Microsoft Teams graph application using certificates.
 
-**Parent Topic:**[Establish MS Teams Graph connection on ServiceNow AI Platform](../../security-incident-response/task/msim-micorsoft-team-requirements.md)
+**Parent Topic:**[Establish MS Teams Graph connection on ServiceNow AI Platform](msim-micorsoft-team-requirements.md)
 

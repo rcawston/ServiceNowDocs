@@ -19,7 +19,7 @@ This video show you how to perform the following procedure.This video shows you 
 
 ## Before you begin
 
-You must be in the correct application scope to edit the experience settings. If you're in a different scope, the experience settings are read-only. To change your application scope, go to the main header, select the application picker \(![Application picker.](../image/application-picker.png)\), and then select the application scope that you want. For more information about the application scope, see [Application scope](../../../build/applications/concept/c_ApplicationScope.md).
+You must be in the correct application scope to edit the experience settings. If you're in a different scope, the experience settings are read-only. To change your application scope, go to the main header, select the application picker \(![Application picker.](../image/application-picker.png)\), and then select the application scope that you want. For more information about the application scope, see [Application scope](../c_ApplicationScope.md).
 
 Role required: ui\_builder\_admin
 
@@ -29,7 +29,7 @@ Role required: ui\_builder\_admin
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Select **Experience settings** in the upper right.
 
@@ -51,5 +51,5 @@ Role required: ui\_builder\_admin
 6.  Click **Save**.
 
 
-**Parent Topic:**[Configure UI Builder workspace experiences](../concept/ui-builder-workspace-settings.md)
+**Parent Topic:**[Configure UI Builder workspace experiences](ui-builder-workspace-settings.md)
 

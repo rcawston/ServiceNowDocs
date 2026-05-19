@@ -110,7 +110,7 @@ Procedure
 </td></tr></tbody>
 </table>7.  On the form, fill in the fields.
 
-    For a description of the field values, see [Edit view config form](../reference/ais-edit-view-config-form.md).
+    For a description of the field values, see [Edit view config form](ais-edit-view-config-form.md).
 
 8.  In the Preview Card section, review the auto-generated JSON to verify the edits that you made to the view configuration.
 
@@ -125,5 +125,5 @@ Changes made to search result EVAM cards take effect immediately in AI Search ap
 
 After creating a view configuration, you must activate it. For more information, see [Activate or deactivate an EVAM view configuration](enable-evam-config-ais-admin-console.md).
 
-**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](../concept/ais-admin-console-managing-evam.md)
+**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](ais-admin-console-managing-evam.md)
 

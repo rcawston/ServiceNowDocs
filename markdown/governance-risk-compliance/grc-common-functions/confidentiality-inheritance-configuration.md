@@ -29,7 +29,7 @@ Role required: sn\_grc.admin
 
 4.  On the form, fill in the fields.
 
-    The following example shows how to configure the confidentiality inheritance. For more information about the fields, see [Confidentiality Inheritance Configuration form](../reference/confidentiality-inheritance-configuration-record.md).
+    The following example shows how to configure the confidentiality inheritance. For more information about the fields, see [Confidentiality Inheritance Configuration form](confidentiality-inheritance-configuration-record.md).
 
     ![Confidentiality inheritance configuration.](../image/confidentiality-inheritance-configuration.png "Confidentiality inheritance configuration")
 

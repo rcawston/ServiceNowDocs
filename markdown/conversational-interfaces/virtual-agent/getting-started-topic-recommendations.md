@@ -31,7 +31,7 @@ Each analysis report is based on the following:
 
 You can also add conditions to your analysis reports and configure them to run on a schedule. When new recommendations are available, a notification appears in the Virtual Agent Designer Topics page.
 
-Configure analysis reports for Topic Recommendations in Virtual Agent settings. For details, see [Configure analysis reports for Topic Recommendations](../task/define-tr-settings.md).
+Configure analysis reports for Topic Recommendations in Virtual Agent settings. For details, see [Configure analysis reports for Topic Recommendations](define-tr-settings.md).
 
 ## Step 2: Run an analysis report
 
@@ -43,7 +43,7 @@ During analysis, the Topic Recommendations app does the following:
 -   Maps the matched intents to pre-built topics in Virtual Agent. If intents don’t have associated pre-built topics, the app recommends them as new topics that you can build because they were requested frequently enough by your users.
 -   Displays the analysis results as topic cards in the Topic Recommendations page.
 
-For more information, see [Run a Topic Recommendation analysis](../task/run-tr-analysis.md).
+For more information, see [Run a Topic Recommendation analysis](run-tr-analysis.md).
 
 ## Step 3: Review report results and add or link topics and intents
 
@@ -60,7 +60,7 @@ Results are sorted into the following groups:
 
 The results are displayed in descending order of matches to your data source. The top 20 intent matches are displayed. If there are more than 20 intents, you can view them in NLU Workbench.
 
-For more information about adding a recommendation to Virtual Agent, see [Add recommended topics and intents to Virtual Agent](../task/add-tr-results-va.md). You can also [link a recommendation to an existing topic](../task/link-tr-existing-va-topic.md).
+For more information about adding a recommendation to Virtual Agent, see [Add recommended topics and intents to Virtual Agent](add-tr-results-va.md). You can also [link a recommendation to an existing topic](link-tr-existing-va-topic.md).
 
 ![Topic Recommendations analyzes your data and combines it with an understanding of the product area to suggest pre-built topics and intents or new content for Virtual Agent.](../images/tr-flow-diagram.png "Mapping recommendations to Virtual Agent topics")
 

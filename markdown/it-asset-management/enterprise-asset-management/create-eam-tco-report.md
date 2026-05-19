@@ -121,5 +121,5 @@ The workspace that you are currently logged into. By default, the value for this
     The report is created and the TCO report sources related list appears. You can now add the report sources.
 
 
-**Parent Topic:**[Total Cost of Ownership \(TCO\) for enterprise assets](../concept/confifure-eam-asset-tco.md)
+**Parent Topic:**[Total Cost of Ownership \(TCO\) for enterprise assets](confifure-eam-asset-tco.md)
 

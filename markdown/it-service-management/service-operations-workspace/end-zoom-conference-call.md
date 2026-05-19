@@ -40,5 +40,5 @@ Role required: itil
 9.  Select **End call**.
 
 
-**Parent Topic:**[Use Zoom to make conference calls in Service Operations Workspace](../concept/zoom-sow.md)
+**Parent Topic:**[Use Zoom to make conference calls in Service Operations Workspace](zoom-sow.md)
 

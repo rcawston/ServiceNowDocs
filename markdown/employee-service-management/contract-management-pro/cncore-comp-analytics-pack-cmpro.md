@@ -91,7 +91,7 @@ Provides an immediate insight from your existing contract request data.
 2.  Contracts Core: Monthly Data Collection
 3.  Contracts Core: Historical Data Collection
 
-**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
 
 **Related topics**  
 
@@ -120,7 +120,7 @@ Provides an immediate insight from your existing contract request data.
 
 [Obligation Management notifications](cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](contract-management-pro-glossary.md#)
 
 [Contract Management solutions](cmpro-cml-feature-compare.md)
 

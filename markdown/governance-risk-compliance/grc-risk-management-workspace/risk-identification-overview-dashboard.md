@@ -134,5 +134,5 @@ Bar graph![Bar graph icon.](../../../use/reporting/image/icon-bar-report.png)
 The number of upcoming questionnaires assigned to a user based on the due dates. This is a weekly report.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and reporting solutions for Risk Management](../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
+</table>**Parent Topic:**[Analytics and reporting solutions for Risk Management](grc-risk-mgmt-content-pack.md)
 

@@ -33,7 +33,7 @@ Role required: admin
 
     ![Scripted extension point for non-task table.](../image/cmpro-non-task-table.png "Scripted extension point")
 
-    For a description of the field values, see [Scripted Extension Point form fields](../../legal-request-management/reference/scripted-extension-point-form-fields.md).
+    For a description of the field values, see [Scripted Extension Point form fields](../legal-request-management/scripted-extension-point-form-fields.md).
 
 6.  In the **Script** field, enter the name of non-task tables that you want to configure for contract templates.
 
@@ -68,7 +68,7 @@ The non-task tables are available for selection in the **table** drop-down list 
 
 For more information, see [Create a contract template](cncore-create-contract-template.md).
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

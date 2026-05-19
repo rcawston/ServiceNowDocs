@@ -55,5 +55,5 @@ The **Reset Requests** module displays the status of each password reset request
 -   **[Unblock a Password Reset user](t_UnblockAUser.md)**  
 If a user is manually banned or is flagged as exceeding max attempts, the user can be blocked \(not allowed to use the Password Reset application\). You can unblock a blocked user.
 
-**Parent Topic:**[Configuring Password Reset](../concept/password-reset-admin-guide.md)
+**Parent Topic:**[Configuring Password Reset](password-reset-admin-guide.md)
 

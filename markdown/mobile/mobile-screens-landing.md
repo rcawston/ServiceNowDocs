@@ -55,7 +55,7 @@ Select a tile to get information about the different screens you can use in your
 
 </td></tr><tr><td>
 
-[Mobile fetch types ![](../../../reuse/icons/brand-icons/bus-cloud-download.svg) Configure your fetch type to optimize load time performance for your screens.](../reference/applet-fetch-types.md)
+[Mobile fetch types ![](../../../reuse/icons/brand-icons/bus-cloud-download.svg) Configure your fetch type to optimize load time performance for your screens.](applet-fetch-types.md)
 
 </td><td>
 

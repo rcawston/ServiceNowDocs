@@ -32,7 +32,7 @@ Cabrillo JS APIs are only supported when executing in ServiceNow native mobile a
 
 **Note:** Cabrillo JS APIs are unavailable in GlideForm client scripts.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](api-client-mobile.md)
 
 ## cabrillo - isNative\(\)
 

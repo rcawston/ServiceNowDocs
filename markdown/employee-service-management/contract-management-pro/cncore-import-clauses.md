@@ -92,7 +92,7 @@ Steps
 6.  View the clause variations associated with a clause by selecting the Display/hide hierarchical lists icon \(![Display/hide hierarchical lists](../image/lsd-icon-hirerachy-lists.png) for a clause.
 
 
-**Parent Topic:**[Create contract template by manually adding content controls](../concept/cncore-setup-ct-manual.md)
+**Parent Topic:**[Create contract template by manually adding content controls](cncore-setup-ct-manual.md)
 
 **Related topics**  
 

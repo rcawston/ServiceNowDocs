@@ -21,7 +21,7 @@ To request an app to be created for you, the admin needs to assign you the role 
 
 ## About this task
 
-When you ask an admin to create an app for you, you automatically become the owner of it. For more information, see [Collaborating with others to build apps in Creator Studio](../reference/creator-studio-collaboration-roles.md).
+When you ask an admin to create an app for you, you automatically become the owner of it. For more information, see [Collaborating with others to build apps in Creator Studio](creator-studio-collaboration-roles.md).
 
 Here’s how to ask an admin to create an app for you.
 
@@ -62,12 +62,12 @@ Here’s how to ask an admin to create an app for you.
 
 After you ask your admin to create the app, they'll review and approve the request. They might need more details about the app from you. You'll get an email notification once they approve and create it. At that point, you’re the owner of the app. You can find your app in Creator Studio and start building out the app's forms, automation, and workspace category.
 
-To learn all the things you can do as the app owner when building the app, see [Application collaboration](../../applications/concept/application-collaboration.md).
+To learn all the things you can do as the app owner when building the app, see [Application collaboration](../application-collaboration.md).
 
 **For admins:**
 
--   Every app built in Creator Studio adds a record in the Request App Config table. The table’s name follows the format of scope\_request, for example, x\_snc\_02\_03\_request.However, your admin can change the table for an app after you create it. For more details, check out [Administering an app's associated table](../concept/creator-studio-admin-app-table.md).
+-   Every app built in Creator Studio adds a record in the Request App Config table. The table’s name follows the format of scope\_request, for example, x\_snc\_02\_03\_request.However, your admin can change the table for an app after you create it. For more details, check out [Administering an app's associated table](creator-studio-admin-app-table.md).
 -   You’ll review and approve app requests in the Application Tasks table of the Request App Administration app.
 
-**Parent Topic:**[App creation in Creator Studio](../concept/creator-studio-creating-apps.md)
+**Parent Topic:**[App creation in Creator Studio](creator-studio-creating-apps.md)
 

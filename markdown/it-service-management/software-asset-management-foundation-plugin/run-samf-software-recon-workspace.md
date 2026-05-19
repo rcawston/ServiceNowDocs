@@ -134,5 +134,5 @@ The date and time when the particular reconciliation process was completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[License usage view for Software Asset Management Foundation plugin](../concept/license-usage-view-for-samf.md)
+**Parent Topic:**[License usage view for Software Asset Management Foundation plugin](license-usage-view-for-samf.md)
 

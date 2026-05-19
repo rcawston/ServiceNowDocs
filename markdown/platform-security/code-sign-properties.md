@@ -179,7 +179,7 @@ true\|false
 
 </td><td>
 
-Whether the Root of Trust feature is active. The default value is `false`, meaning that ServiceNow build certificates are trusted.**Important:** This property can only be changed using a signed scheduled job from a user with the admin, security admin and KMF manager roles. For details on changing your Root of Trust, see [Change your Root of Trust configuration](../concept/change-rot-overview.md).
+Whether the Root of Trust feature is active. The default value is `false`, meaning that ServiceNow build certificates are trusted.**Important:** This property can only be changed using a signed scheduled job from a user with the admin, security admin and KMF manager roles. For details on changing your Root of Trust, see [Change your Root of Trust configuration](change-rot-overview.md).
 
 </td></tr><tr><td>
 

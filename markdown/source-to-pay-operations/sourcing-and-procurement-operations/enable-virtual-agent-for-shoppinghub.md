@@ -37,5 +37,5 @@ The base system provides predefined Virtual Agent topics \(chatbot conversations
     **Note:** It is recommended that you use the conversation flow as delivered for optimum results.
 
 
-**Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](../concept/virtual-agent-for-psm.md)
+**Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](virtual-agent-for-psm.md)
 

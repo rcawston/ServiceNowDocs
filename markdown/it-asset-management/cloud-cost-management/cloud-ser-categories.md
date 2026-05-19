@@ -19,7 +19,7 @@ To perform targeted analysis, you can filter for particular services within a se
 
 Here are the supported cloud service categories in Cloud Cost Management:
 
--   [Cloud service categories in Cloud Cost Management for Microsoft Azure services](../reference/azure-service-category-crossref.md)
--   [Cloud service categories in Cloud Cost Management for Amazon AWS Cloud services](../reference/aws-service-category-crossref.md)
--   [Cloud service categories in Cloud Cost Management for Google Cloud services](../reference/gcp-service-category-crossref.md)
+-   [Cloud service categories in Cloud Cost Management for Microsoft Azure services](azure-service-category-crossref.md)
+-   [Cloud service categories in Cloud Cost Management for Amazon AWS Cloud services](aws-service-category-crossref.md)
+-   [Cloud service categories in Cloud Cost Management for Google Cloud services](gcp-service-category-crossref.md)
 

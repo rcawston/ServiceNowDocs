@@ -126,5 +126,5 @@ Edit your custom messages to ensure that your conversations are optimized for Co
 -   **[Provider properties for Amazon Connect](provider-properties-ivr.md)**  
 View and update the provider properties available for Amazon Connect
 
-**Parent Topic:**[Configuring Conversational IVR with Amazon Connect](../concept/configuring-ci-ivr-amazon-connect.md)
+**Parent Topic:**[Configuring Conversational IVR with Amazon Connect](configuring-ci-ivr-amazon-connect.md)
 

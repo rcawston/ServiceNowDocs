@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-By default, the Experience Configurations table \[sn\_udc\_experience\_configuration\] gives admins and delegated developers access to see the experience switcher. However, you can add non-default roles to the Experience Visibility Controls table \[sn\_udc\_experience\_visibility\_control\] to give access to the experience switcher. For more information about the default roles, see [Working with roles and access in app development tools](../concept/working-with-roles-and-access.md).
+By default, the Experience Configurations table \[sn\_udc\_experience\_configuration\] gives admins and delegated developers access to see the experience switcher. However, you can add non-default roles to the Experience Visibility Controls table \[sn\_udc\_experience\_visibility\_control\] to give access to the experience switcher. For more information about the default roles, see [Working with roles and access in app development tools](working-with-roles-and-access.md).
 
 -   Admins and delegated developers can use the experience switcher because they may need access to any product where they've been delegated to administer or develop an app.
 -   Creator Studio users and Creator Studio restricted users don't generally have access to the experience switcher because administrators limit them to a more curated experience.
@@ -55,5 +55,5 @@ By default, the Experience Configurations table \[sn\_udc\_experience\_configura
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Managing access to the experience switcher](../concept/managing-access-experience-switcher.md)
+**Parent Topic:**[Managing access to the experience switcher](managing-access-experience-switcher.md)
 

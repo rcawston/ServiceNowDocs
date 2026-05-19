@@ -21,5 +21,5 @@ The following figure shows the risk statement form where users can associate ent
 
 ![Form where the users can associate entities to risk statements at 0 level](../image/associate-entities-to-rs.png "Associate entities to risk statements at any level")
 
-**Parent Topic:**[Risk hierarchy and scoring](../reference/risk-hierarchy-scoring.md)
+**Parent Topic:**[Risk hierarchy and scoring](risk-hierarchy-scoring.md)
 

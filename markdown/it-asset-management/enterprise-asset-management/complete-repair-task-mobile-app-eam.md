@@ -97,12 +97,12 @@ In the **Evaluation result** field, select any of the following:-   **Redeployab
 
 The state of the repair task changes to Closed Complete.
 
-**Parent Topic:**[Manage enterprise asset repair tasks using the Mobile Agent application](../concept/repair-orders-mobile-agent-eam.md)
+**Parent Topic:**[Manage enterprise asset repair tasks using the Mobile Agent application](repair-orders-mobile-agent-eam.md)
 
 **Related topics**  
 
 
 [Start working on a enterprise asset repair task using the Mobile Agent application](start-work-repair-task-mobile-eam.md)
 
-[Record time worked on an enterprise asset repair task using the Mobile Agent application](../concept/record-time-worked-repair-task-mobile-agent-eam.md)
+[Record time worked on an enterprise asset repair task using the Mobile Agent application](record-time-worked-repair-task-mobile-agent-eam.md)
 

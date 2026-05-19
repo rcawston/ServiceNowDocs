@@ -76,5 +76,5 @@ Set a password for the DevOps integration user by navigating to **All** &gt; **U
 ## What to do next
 
 -   [Onboard to DevOps Change Velocity using Workspace](onboarding-using-devops-change-workspace.md)
--   [Start integrating DevOps Change Velocity with third-party tools](../concept/integrating-devops-change-with-third-party-tools.md).
+-   [Start integrating DevOps Change Velocity with third-party tools](integrating-devops-change-with-third-party-tools.md).
 

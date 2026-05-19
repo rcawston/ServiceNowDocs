@@ -55,28 +55,28 @@ Privacy assessment requests enables employees to seek services from the Legal Pr
 -   **[Legal Simple Privacy Reference](legal-simple-privacy-reference.md)**  
 Reference topics provide additional information about the lists and forms that you use in Legal Simple Privacy.
 
-**Parent Topic:**[Legal Service Delivery Practice Applications](../../legal-request-management/concept/lsd-practice-app-landing.md)
+**Parent Topic:**[Legal Service Delivery Practice Applications](../legal-service-delivery/lsd-practice-app-landing.md)
 
 **Related topics**  
 
 
-[Legal Content Review](../../legal-content-review/reference/legal-content-review.md)
+[Legal Content Review](../legal-content-review/legal-content-review.md)
 
-[Legal Digital Forensics](../../legal-digital-forensics/reference/legal-digital-forensics-landing-page.md)
+[Legal Digital Forensics](../legal-digital-forensics-landing-page.md)
 
-[Legal Invention Disclosure](../../legal-invention-disclosure/reference/legal-invention-disclosure-landing.md)
+[Legal Invention Disclosure](../legal-invention-disclosure/legal-invention-disclosure-landing.md)
 
-[Legal Investigations](../../legal-investigations/reference/legal-investigations-landing-page.md)
+[Legal Investigations](../legal-investigations/legal-investigations-landing-page.md)
 
-[Legal Simple Contracts](../../legal-simple-contracts/reference/legal-simple-contracts-landing-page.md)
+[Legal Simple Contracts](../legal-simple-contracts/legal-simple-contracts-landing-page.md)
 
-[Legal Simple Compliance](../../legal-simple-compliance/concept/legal-simple-compliance-applications.md)
+[Legal Simple Compliance](../legal-simple-compliance/legal-simple-compliance-applications.md)
 
-[Gifts and Entertainment Compliance](../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md)
+[Gifts and Entertainment Compliance](../legal-gifts-and-entertainment/lsd-ge-landing-page.md)
 
-[Legal Conflict of Interest](../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md)
+[Legal Conflict of Interest](../legal-conflict-of-interest/legal-conflict-of-interest-landing-page.md)
 
-[Legal Stock Preclearance](../../legal-stock-preclearance/reference/legal-stock-preclearance-landing-page.md)
+[Legal Stock Preclearance](../legal-stock-preclearance/legal-stock-preclearance-landing-page.md)
 
-[Legal Hold Notification](../../legal-hold-notification/concept/lg-hold-notif-landing-page.md)
+[Legal Hold Notification](../legal-hold-notification/lg-hold-notif-landing-page.md)
 

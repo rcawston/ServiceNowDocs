@@ -13,8 +13,8 @@ breadcrumb: [Engagement Messenger reference, Reference, Customer Service Managem
 
 Description of the Callback feature configuration form fields.
 
--   For more information about how to configure Omnichannel Callback for Customer Service Management \(CSM\), see[Configuring Omnichannel Callback for Customer Service Management](../concept/configure-omni-callback.md)
--   For more information about how to manage a callback from an agent using Engagement Messenger, see [Working with callback requests using Engagement Messenger](../concept/request-callback-from-em.md#)
+-   For more information about how to configure Omnichannel Callback for Customer Service Management \(CSM\), see[Configuring Omnichannel Callback for Customer Service Management](configure-omni-callback.md)
+-   For more information about how to manage a callback from an agent using Engagement Messenger, see [Working with callback requests using Engagement Messenger](request-callback-from-em.md#)
 
 <table id="table_opq_wb1_g4b"><thead><tr><th>
 

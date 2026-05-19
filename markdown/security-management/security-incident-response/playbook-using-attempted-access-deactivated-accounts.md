@@ -79,5 +79,5 @@ Role required:
     5.  In Action 24, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Attempted Access to Deactivated Accounts](../concept/playbook-attempted-access-deactivated-accounts.md)
+**Parent Topic:**[Playbook for Attempted Access to Deactivated Accounts](playbook-attempted-access-deactivated-accounts.md)
 

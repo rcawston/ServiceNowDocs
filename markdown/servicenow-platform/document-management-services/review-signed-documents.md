@@ -32,5 +32,5 @@ Role required: none
     -   To approve the document, select **Approve**.
     -   To reject the document, select **Reject** and provide a reason for the rejection.
 
-**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](../concept/digital-signature.md)
+**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](digital-signature.md)
 

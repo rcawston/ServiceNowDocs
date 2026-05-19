@@ -97,6 +97,6 @@ List screen primary screen
 ## What to do next
 
 -   **Use embedded screens within your list screen**- List screens can be configured to include record screens. Adding an embedded screen enables users to tap on a record, the contents of which are displayed in a new screen. As an admin, you configure this option in the List item config record. For more information, see [Configure a record screen for use with a list screen](sg-configure-form-applet.md).
--   **Configure mobile functions for your list screen** - The List screen can include top menu functions and footer functions to determine the type of action users can perform on a list screen. As an admin, you configure this option in the List screen record. For more information see, [Mobile functions](../concept/sg-studio-mobile-button-types.md) and [Associate a function with a location in the app](../reference/sg-studio-button-instances.md).
+-   **Configure mobile functions for your list screen** - The List screen can include top menu functions and footer functions to determine the type of action users can perform on a list screen. As an admin, you configure this option in the List screen record. For more information see, [Mobile functions](sg-studio-mobile-button-types.md) and [Associate a function with a location in the app](sg-studio-button-instances.md).
 -   **Configure role access for records in your list screen** - Use the role access option to configure the records in your list screen to only display to selected roles. As an admin, you configure this option in the List screen record.
 

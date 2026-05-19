@@ -29,13 +29,13 @@ Users with the Manage collaborators permission can adjust who can collaborate on
 
 1.  Navigate to **All** &gt; **App Engine** &gt; **Collaboration** &gt; **Descriptors**.
 
-2.  Edit the permissions for a [collaboration descriptor](../concept/creator-studio-glossary.md#), such as owner or editor.
+2.  Edit the permissions for a [collaboration descriptor](creator-studio-glossary.md#), such as owner or editor.
 
     1.  Find and select the **Name** of the descriptor you want to modify.
 
     2.  Choose a **Development permission set**, such as **Service Catalog**, to update its permissions.
 
-        For a list of permissions, see [Collaboration permissions](../../applications/reference/collaboration-permissions.md).
+        For a list of permissions, see [Collaboration permissions](../collaboration-permissions.md).
 
     3.  Select **Save** and **Update**.
 
@@ -53,8 +53,8 @@ Users with the Manage collaborators permission can adjust who can collaborate on
 
         For more information, see the following topics:
 
-        -   [Assign collaboration descriptors to users](../../applications/task/assign-descriptor-user.md)
-        -   [Assign collaboration descriptors to groups](../../applications/task/assign-descriptor-group.md)
+        -   [Assign collaboration descriptors to users](../assign-descriptor-user.md)
+        -   [Assign collaboration descriptors to groups](../assign-descriptor-group.md)
     5.  Select **Save**.
 
 4.  If you need a new collaboration descriptor, create a custom one.
@@ -111,7 +111,7 @@ Option for inviting other collaborators with this role.
 
 ## Result
 
-You've now set up collaboration descriptors, defined permissions, and assigned roles to users and groups for specific apps. For complete details on using the Collaboration app, see [Application collaboration](../../applications/concept/application-collaboration.md).
+You've now set up collaboration descriptors, defined permissions, and assigned roles to users and groups for specific apps. For complete details on using the Collaboration app, see [Application collaboration](../application-collaboration.md).
 
-**Parent Topic:**[Administering collaboration in Creator Studio](../concept/creator-studio-admin-collab-tasks.md)
+**Parent Topic:**[Administering collaboration in Creator Studio](creator-studio-admin-collab-tasks.md)
 

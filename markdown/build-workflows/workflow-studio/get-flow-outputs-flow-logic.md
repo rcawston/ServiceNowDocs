@@ -21,7 +21,7 @@ Available as part of ServiceNow Core.
 
 -   **Role requirements**
 
-    This flow logic requires roles granted by delegated development or assigned to the user. For more information, see [User access to Workflow Studio flows](../concept/user-access-flow-designer.md).
+    This flow logic requires roles granted by delegated development or assigned to the user. For more information, see [User access to Workflow Studio flows](user-access-flow-designer.md).
 
 
 ## Inputs
@@ -64,40 +64,40 @@ You can use these outputs as inputs for other items.
 
 The Advanced Work Assignment \(AWA\) application includes a read-only flow called AWA send external routing event. This flow runs a dynamic flow based on several input values. The Get Flow Outputs flow logic is configured to use the AWA send event flow as the **Flow Template** input value, and uses the output of the Dynamic Flow flow logic as the **Context** input value. The flow stores the **Response** output of the Get Flow Outputs flow logic as a flow variable. This flow variable is also assigned as a subflow output for use in other flows.
 
-**Parent Topic:**[Workflow Studio flow logic](../concept/flow-logic.md)
+**Parent Topic:**[Workflow Studio flow logic](flow-logic.md)
 
 **Related topics**  
 
 
 [Append to Flow Variables flow logic](append-to-flow-variables-flow-logic.md)
 
-[Assign subflow outputs flow logic](../concept/flow-logic-assign-subflow-outputs.md)
+[Assign subflow outputs flow logic](flow-logic-assign-subflow-outputs.md)
 
-[Call a workflow flow logic](../concept/flow-logic-call-workflow.md)
+[Call a workflow flow logic](flow-logic-call-workflow.md)
 
-[Do the following until flow logic](../concept/flow-logic-do-until.md)
+[Do the following until flow logic](flow-logic-do-until.md)
 
-[Do the following in parallel flow logic](../concept/flow-logic-do-following-in-parallel.md)
+[Do the following in parallel flow logic](flow-logic-do-following-in-parallel.md)
 
-[Dynamic flows flow logic](../concept/flow-logic-dynamic-flow.md)
+[Dynamic flows flow logic](flow-logic-dynamic-flow.md)
 
-[End Flow flow logic](../concept/flow-logic-end-action.md)
+[End Flow flow logic](flow-logic-end-action.md)
 
 [Exit Loop flow logic](exit-loop-flow-logic.md)
 
-[For Each flow logic](../concept/flow-logic-for-each.md)
+[For Each flow logic](flow-logic-for-each.md)
 
 [Go back to flow logic](go-back-to-flow-logic.md)
 
-[If flow logic](../concept/flow-logic-if.md)
+[If flow logic](flow-logic-if.md)
 
-[Make a decision flow logic](../concept/flow-logic-make-decision.md)
+[Make a decision flow logic](flow-logic-make-decision.md)
 
-[Set Flow Variables flow logic](../concept/flow-logic-set-flow-variables.md)
+[Set Flow Variables flow logic](flow-logic-set-flow-variables.md)
 
 [Skip Iteration flow logic](skip-iteration-flow-logic.md)
 
-[Try flow logic](../concept/flow-logic-try.md)
+[Try flow logic](flow-logic-try.md)
 
-[Wait for a duration flow logic](../concept/flow-logic-wait-for-a-duration.md)
+[Wait for a duration flow logic](flow-logic-wait-for-a-duration.md)
 

@@ -21,20 +21,20 @@ A scheduled job named Scripted Import Set Deleter runs every seven days by defau
 
 You can use the GlideImportSetTable methods in global and scoped scripts. Use the `sn_impex` namespace identifier to create a GlideImportSetTable object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 **Related topics**  
 
 
-[GlideImportLog](../../GlideImportLog/concept/GlideImportLogAPI.md#)
+[GlideImportLog](GlideImportLogAPI.md#)
 
-[GlideImportSetRun](../../GlideImportSetRun/concept/GlideImportSetRunAPI.md#)
+[GlideImportSetRun](GlideImportSetRunAPI.md#)
 
-[GlideImportSetTransformer](../../GlideImportSetTransformer/concept/GlideImportSetTransformerAPI.md#)
+[GlideImportSetTransformer](GlideImportSetTransformerAPI.md#)
 
-[GlideImportSetTransformMap](../../GlideImportSetTransformMap/concept/GlideImportSetTransformMapAPI.md#)
+[GlideImportSetTransformMap](GlideImportSetTransformMapAPI.md#)
 
-[GlideTransformLog](../../GlideTransformLog/concept/GlideTransformLogAPI.md#)
+[GlideTransformLog](GlideTransformLogAPI.md#)
 
 ## GlideImportSetTable - GlideImportSetTable\(String tableLabel\)
 

@@ -62,7 +62,7 @@ Synchronize reservations using a connection with the Microsoft Exchange Online s
 
 [Set up OAuth connection with Microsoft Exchange Online](setup-connectivity-with-msexchange-for-calendar-sync.md)
 
-**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](../concept/create-connection-with-msex-in-normal-mode.md)
+**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](create-connection-with-msex-in-normal-mode.md)
 
 **Related topics**  
 

@@ -73,7 +73,7 @@ Cloud providers provide a way to execute scripts at boottime for virtual machine
 
     In this example, the Apache cloud script is mapped to the Centos OS profile. If needed, you can override the script parameters in the OS Profile Mapping Overrides section.
 
--   Resource blocks: While mapping a cloud script to an OS profile, you can choose whether to execute the cloud script for a specific resource block used in a blueprint and against a particular resource alias. See [Create an OS profile](../task/create-os-profile.md).
+-   Resource blocks: While mapping a cloud script to an OS profile, you can choose whether to execute the cloud script for a specific resource block used in a blueprint and against a particular resource alias. See [Create an OS profile](create-os-profile.md).
 
 ## Cloud scripts as Postinit
 

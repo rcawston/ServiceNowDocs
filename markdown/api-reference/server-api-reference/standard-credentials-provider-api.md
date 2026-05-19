@@ -40,7 +40,7 @@ for (var i = 0; i < credentials.length; i++) {
 }
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## StandardCredentialsProvider - StandardCredentialsProvider\(\)
 

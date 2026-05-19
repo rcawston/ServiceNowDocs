@@ -44,7 +44,7 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 -   If the contract has a substate of Approved, the system changes the state to Active and removes the Substate value.
 -   When a contract with a state of Draft and a start date set to a date in the past is approved, the State value is automatically set to Active and the Substate value is left empty.
 
-**Parent Topic:**[Working with Workplace Lease Administration from the Workplace Central](../concept/working-with-lease-administration.md)
+**Parent Topic:**[Working with Workplace Lease Administration from the Workplace Central](working-with-lease-administration.md)
 
 **Related topics**  
 

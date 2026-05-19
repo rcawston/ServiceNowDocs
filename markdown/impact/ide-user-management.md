@@ -15,7 +15,7 @@ Impact admins can create, view, and manage their users with Impact User Manageme
 
 ## Before you begin
 
-**Note:** See [Roles installed with Impact](../reference/impact-roles.md) for information about Impact role permissions.
+**Note:** See [Roles installed with Impact](impact-roles.md) for information about Impact role permissions.
 
 Role required: Impact admin
 
@@ -42,9 +42,9 @@ Update a role for an Impact user role after the initial assignment in the Impact
 -   **[Remove Impact user permissions in the Impact Delivery Instance](remove-impact-user-permissions.md#)**  
 Remove permissions that you've assigned to an Impact user if that user should no longer have access to the Impact Delivery Instance.
 
-**Parent Topic:**[Configure the Impact Delivery Instance](../concept/configuring-impact-idi.md)
+**Parent Topic:**[Configure the Impact Delivery Instance](configuring-impact-idi.md)
 
-**Previous topic:**[Configure the Impact Delivery Instance](../concept/configuring-impact-idi.md)
+**Previous topic:**[Configure the Impact Delivery Instance](configuring-impact-idi.md)
 
 **Next topic:**[Edit a role for an Impact user in the Impact Delivery Instance](edit-impact-user.md#)
 

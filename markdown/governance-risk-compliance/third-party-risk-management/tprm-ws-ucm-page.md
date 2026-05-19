@@ -23,9 +23,9 @@ TPR managers can use this library to activate and update ready-to-use questionna
 
 ![Access Your smart assessment templates.](../../grc-vendor-risk/image/tprm-ws-ucm-page.png)
 
-For more information, see [Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md) and [TPRM Unified content management page](tprm-ws-ucm-page.md).
+For more information, see [Viewing third-party risk reports](unified-vrm-workspace.md) and [TPRM Unified content management page](tprm-ws-ucm-page.md).
 
-For a list of questionnaires that are provided as part of the base system, see [Sample questionnaires](../reference/tprm-questionnaire-types.md).
+For a list of questionnaires that are provided as part of the base system, see [Sample questionnaires](tprm-questionnaire-types.md).
 
-**Parent Topic:**[Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md)
+**Parent Topic:**[Viewing third-party risk reports](unified-vrm-workspace.md)
 

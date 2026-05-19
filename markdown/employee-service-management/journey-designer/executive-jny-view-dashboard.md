@@ -254,5 +254,5 @@ Choice
 Displays tasks based on the start date of the employee.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Journey designer dashboards and reports](../reference/jny-report-dashboards.md)
+</table>**Parent Topic:**[Journey designer dashboards and reports](jny-report-dashboards.md)
 

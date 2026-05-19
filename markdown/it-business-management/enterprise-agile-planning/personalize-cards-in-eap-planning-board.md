@@ -45,5 +45,5 @@ Role required: sn\_apw\_advanced.eap\_user
 5.  After making all the required selections, close the side panel.
 
 
-**Parent Topic:**[Perform PI planning in EAP](../concept/pi-planning-eap.md)
+**Parent Topic:**[Perform PI planning in EAP](pi-planning-eap.md)
 

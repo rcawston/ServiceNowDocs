@@ -51,7 +51,7 @@ There might be AI agents installed with the Now Assist application that are not 
 
 -   **[Help resolve friendly fraud disputes agentic workflow](friendly-fraud-agentic-ai-workflow.md)**  
 Use this agentic workflow to assist human agents with analyzing friendly fraud cases, selecting a course of action, and drafting a decision response to customers.
--   **[Resolve friendly fraud by using agentic AI](../task/resolve-friendly-fraud-using-agentic-ai.md)**  
+-   **[Resolve friendly fraud by using agentic AI](resolve-friendly-fraud-using-agentic-ai.md)**  
 Resolve friendly fraud by using the friendly fraud AI agent to determine the actions to take for the disputed amount, the customer relationship, and assessing the outcome of the detection logic to evaluate the results.
 
 **Parent Topic:**[Agentic AI use cases for FSO](usecase-now-assist.md)

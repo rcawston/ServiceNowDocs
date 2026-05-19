@@ -46,5 +46,5 @@ These instructions are for Microsoft 2012 R2 Server.
     This action establishes the environment path to PowerShell for the logged in Application Administrator user.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](configuring-sccm.md)
 

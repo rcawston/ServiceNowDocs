@@ -41,14 +41,14 @@ The discovery\_admin role is required to access the **Discovery Patterns** modul
 
 You’re redirected to the Command List form filtered for the selected pattern.
 
-For more information on the Command List form fields, see [Command List form for pattern-based discovery](../../it-operations-management/reference/commands-list-discovery.md).
+For more information on the Command List form fields, see [Command List form for pattern-based discovery](commands-list-discovery.md).
 
 **Related topics**  
 
 
-[Discovery commands for probes and patterns](../concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](discovery-command-probe-pattern.md)
 
-[Validate commands used in pattern-based discovery](../../it-operations-management/task/validate-discovery-commands.md)
+[Validate commands used in pattern-based discovery](validate-discovery-commands.md)
 
 [View command validation task results in pattern-based discovery](view-command-validation-task-results.md)
 

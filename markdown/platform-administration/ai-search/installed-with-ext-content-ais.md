@@ -42,5 +42,5 @@ AI Search External Search User Mapping Table Data Source Relationship \[ais\_ext
 Stores links between user mapping tables and indexed sources.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Indexing and searching external content in AI Search](../concept/external-content-ais.md)
+</table>**Parent Topic:**[Indexing and searching external content in AI Search](external-content-ais.md)
 

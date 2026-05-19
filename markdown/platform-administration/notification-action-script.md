@@ -51,5 +51,5 @@ Role required: admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Create provider notification](../concept/create-provider-notification-using.md)
+**Parent Topic:**[Create provider notification](create-provider-notification-using.md)
 

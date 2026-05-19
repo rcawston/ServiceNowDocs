@@ -119,5 +119,5 @@ DEX Score Metric Definition
 Stores the metric definition with predefined values for the upper bound, lower bound, and other info.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Experience Score​ reference](../concept/dexscr-dex-score-reference.md)
+</table>**Parent Topic:**[Digital Experience Score​ reference](dexscr-dex-score-reference.md)
 

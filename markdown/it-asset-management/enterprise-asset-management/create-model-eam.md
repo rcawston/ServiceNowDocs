@@ -95,7 +95,7 @@ The category that the model belongs to.
 
 6.  On the form, fill in the details.
 
-    For a detailed description of the fields, see [Model fields for Enterprise Asset Management](../reference/eam-model-fields.md).
+    For a detailed description of the fields, see [Model fields for Enterprise Asset Management](eam-model-fields.md).
 
 7.  Select **Save**.
 
@@ -112,5 +112,5 @@ The category that the model belongs to.
     After the **EAM - Update model risk values to asset** scheduled job is completed, the risk values for all the assets associated with this model is updated.
 
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
 

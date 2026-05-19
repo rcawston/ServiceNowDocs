@@ -46,5 +46,5 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 ## What to do next
 
-System property to use Smart Documents skill features [System property for Smart Documents skill](../reference/system-property-smart-documents.md).
+System property to use Smart Documents skill features [System property for Smart Documents skill](system-property-smart-documents.md).
 

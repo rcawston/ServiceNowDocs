@@ -33,5 +33,5 @@ The Data Loss Prevention Incident Response application includes the following ca
 **Related topics**  
 
 
-[Get started with DLP Incident Response](../reference/get-started-with-dlp.md)
+[Get started with DLP Incident Response](get-started-with-dlp.md)
 

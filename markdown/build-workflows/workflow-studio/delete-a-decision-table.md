@@ -30,5 +30,5 @@ Role required: admin
 4.  Select **Delete**.
 
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](using-decision-builder.md)
 

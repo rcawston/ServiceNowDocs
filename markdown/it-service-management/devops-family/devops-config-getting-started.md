@@ -23,7 +23,7 @@ DevOps Config investigation with config data
 
 Use root cause analysis of configuration-related outages or alerts to quickly identify and resolve unintended config data changes, also known as configuration "drift." Compare current and past versions of intended config data changes attached to change requests, and roll back to the desired state when needed.
 
-For more information, see [Investigate an alert that involves a change to config data](../../configuration-data-management/task/cdm-d2a-investigate-cfg-changes.md).
+For more information, see [Investigate an alert that involves a change to config data](cdm-d2a-investigate-cfg-changes.md).
 
 ![DevOps Config Use Cases for applications and Infrastructure as Code](../image/devops-config-explore.png)
 
@@ -71,7 +71,7 @@ DevOps Change Velocity collects data from all of your DevOps tools, providing vi
 When you create an app in DevOps Config, not only is it the container for the config data of the application, but the application model you choose links DevOps Config with other ServiceNow products, including DevOps Change Velocity.
 -   **[DevOps Config powered by CDM and PaCE](devops-config-capabilities.md)**  
 DevOps Config uses Configuration Data Management and Policy as Code Engine platform capabilities to manage configuration data and policies.
--   **[DevOps Config terms](../reference/devops-config-terms.md)**  
+-   **[DevOps Config terms](devops-config-terms.md)**  
 These are some of the common DevOps Config terms.
 
 **Parent Topic:**[DevOps Config](devops-config-landing-page.md)

@@ -86,7 +86,7 @@ Glossary terms are grouped alphabetically.
 
 ### execution logs
 
-Logs that are captured when an automation is executed by either an attended or an unattended robot. These logs help in understanding the errors and the end-to-end logging of automation execution. For more information, see [Bot Process form in RPA Hub](../task/select-botprocess.md#).
+Logs that are captured when an automation is executed by either an attended or an unattended robot. These logs help in understanding the errors and the end-to-end logging of automation execution. For more information, see [Bot Process form in RPA Hub](select-botprocess.md#).
 
 ## G
 

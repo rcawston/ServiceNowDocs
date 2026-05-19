@@ -123,8 +123,8 @@ State
 
 </td><td>
 
-State of the product or service order. To learn more, see these two topics:-   [Customer order states](../reference/order-mgt-state-values.md)
--   [Service order states](../reference/service-order-mgt-state-values.md).
+State of the product or service order. To learn more, see these two topics:-   [Customer order states](order-mgt-state-values.md)
+-   [Service order states](service-order-mgt-state-values.md).
 
 
 </td></tr></tbody>
@@ -272,5 +272,5 @@ Name of the customer contact that is associated with the order. To view the deta
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Reviewing customer or partner accounts](../concept/reviewing-customer-accounts.md)
+**Parent Topic:**[Reviewing customer or partner accounts](reviewing-customer-accounts.md)
 

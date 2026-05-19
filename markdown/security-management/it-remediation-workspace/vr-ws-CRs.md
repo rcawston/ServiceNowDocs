@@ -30,7 +30,7 @@ Role required:
 
 There might be various reasons that you want to create a change request for a remediation task. Usually, it is because your investigation requires manual intervention to fix the vulnerabilities.
 
-For more information about the change requests and creating change requests from the classic environment, see [Change management for Vulnerability Response](../concept/vuln-change_mgmnt_ovrvw.md).
+For more information about the change requests and creating change requests from the classic environment, see [Change management for Vulnerability Response](../vulnerability-response/vuln-change_mgmnt_ovrvw.md).
 
 **Note:** Starting with v19.0 of Vulnerability Response, the following terms have been renamed:
 
@@ -54,7 +54,7 @@ For more information about the change requests and creating change requests from
     -   **Add to existing change**
 5.  To create a new change request, in the modal that displays, fill in the fields.
 
-    For information on the form fields, see [Create change request form fields](../../vr-it-remediation-workspace/reference/itr-ws-create-cr-fields.md).
+    For information on the form fields, see [Create change request form fields](itr-ws-create-cr-fields.md).
 
 6.  Select **Create Change Request**.
 
@@ -90,6 +90,6 @@ For more information about the change requests and creating change requests from
 
         -   Click the **View change** link in the message to open the change request \(CHG\) record.
         -   Select the **Change Requests** related item menu link on the remediation task record to view all the change requests associated with the record.
-        Alternatively, in the classic environment, navigate to **Self-service** &gt; **My Requests**. After you submit the change and it is implemented, if state synchronization is enabled, the remediation task automatically moves to `Resolved`. For more information about states and state synchronization in change requests, see [Create a change request from a remediation task](vuln-change_mgmnt_create_change.md).
+        Alternatively, in the classic environment, navigate to **Self-service** &gt; **My Requests**. After you submit the change and it is implemented, if state synchronization is enabled, the remediation task automatically moves to `Resolved`. For more information about states and state synchronization in change requests, see [Create a change request from a remediation task](../vulnerability-response/vuln-change_mgmnt_create_change.md).
 
 

@@ -42,5 +42,5 @@ Role required: sn\_acct\_lc.agent
         **Note:** Before you close an account onboarding case, you must close or cancel or the related account onboarding case tasks. If an associated child task is still open, a warning message is displayed. You must first close or cancel the child tasks and then proceed with closing the account onboarding case.
 
 
-**Parent Topic:**[Set up the account onboarding playbook](../concept/account-lifecycle-use-playbook.md)
+**Parent Topic:**[Set up the account onboarding playbook](account-lifecycle-use-playbook.md)
 

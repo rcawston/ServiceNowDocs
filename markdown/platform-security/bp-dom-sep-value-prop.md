@@ -31,5 +31,5 @@ Here is an quick view of these benefits.
 |Data segregation|Services provided by the instance owner|
 |Global reporting| |
 
-**Parent Topic:**[Domain separation explained](../concept/bp-what-is-domain-separation.md)
+**Parent Topic:**[Domain separation explained](bp-what-is-domain-separation.md)
 

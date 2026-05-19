@@ -52,5 +52,5 @@ Role required: sn\_walkup.walkup\_manager
 
 You can integrate multiple badge readers with walk-up location.
 
-**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](../concept/walkup-badge-read-integ-config.md)
+**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](walkup-badge-read-integ-config.md)
 

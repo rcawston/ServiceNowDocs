@@ -163,5 +163,5 @@ When you create applications, you can see the list of custom apps.
 
 ## What to do next
 
-Your employees can access all applications and associated topics. See [Access applications from App Launcher](../concept/web-application-employee.md).
+Your employees can access all applications and associated topics. See [Access applications from App Launcher](web-application-employee.md).
 

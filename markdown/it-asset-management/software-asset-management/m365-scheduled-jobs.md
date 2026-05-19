@@ -27,5 +27,5 @@ Your Microsoft 365 integration profile is set to fetch subscription and usage in
 **Related topics**  
 
 
-[Integrating with Microsoft 365](../concept/integrate-with-microsoft.md)
+[Integrating with Microsoft 365](integrate-with-microsoft.md)
 

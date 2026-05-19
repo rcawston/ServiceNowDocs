@@ -50,5 +50,5 @@ Last sync on
 Date on which the group was last synchronized with Everbridge.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create notification contact groups](../task/create-notification-contact-group-uib-ws.md)
+</table>**Parent Topic:**[Create notification contact groups](create-notification-contact-group-uib-ws.md)
 

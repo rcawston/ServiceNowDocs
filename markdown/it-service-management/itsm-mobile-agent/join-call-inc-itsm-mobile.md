@@ -44,5 +44,5 @@ Role required: itil, itil\_admin, or admin
     ![Join active conf call](../image/join-call-inc-itsm-mobile2.png)
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](collaboration-incident-itsm-mobile.md)
 

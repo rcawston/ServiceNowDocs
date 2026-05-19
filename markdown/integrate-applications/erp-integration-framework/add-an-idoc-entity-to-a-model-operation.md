@@ -57,5 +57,5 @@ Explore the API for interacting with Zero Copy Connector for ERP models. For det
     ![IDoc operation entities card with retrieval date and time.](../image/erp-add-idoc-entity-to-model2.png)
 
 
-**Parent Topic:**[Add an entity to a model](../concept/add-an-entity-to-model.md)
+**Parent Topic:**[Add an entity to a model](add-an-entity-to-model.md)
 

@@ -67,5 +67,5 @@ The Google Cloud Translator Service spoke requires configuring your Google Cloud
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-This spoke uses the GoogleTranslation alias record \(sn\_google\_trans.GoogleTranslation\) to authorize actions. For information about setting up the spoke, see [Set up the Google Cloud Translator Service spoke](../task/setup-google-translator.md#).
+This spoke uses the GoogleTranslation alias record \(sn\_google\_trans.GoogleTranslation\) to authorize actions. For information about setting up the spoke, see [Set up the Google Cloud Translator Service spoke](setup-google-translator.md#).
 

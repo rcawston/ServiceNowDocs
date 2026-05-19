@@ -58,5 +58,5 @@ Use the Contract Management application to set a software license as enterprise 
     **Note:** In the Software Licenses list, enterprise licenses display **0** in the **Rights** column. The concept of rights is not used with enterprise licenses.
 
 
-**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](../concept/c_SoftwareLicenses.md)
+**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 

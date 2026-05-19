@@ -235,7 +235,7 @@ The map does not show ignored errors.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 
 **Related topics**  
 

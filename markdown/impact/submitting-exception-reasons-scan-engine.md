@@ -44,5 +44,5 @@ Generally, exceptions require approval from a system administrator. However, cer
 
 ## What to do next
 
-For more information on configuring exception properties, refer to [Configure exception reason properties](../task/exception-reason-properties.md).
+For more information on configuring exception properties, refer to [Configure exception reason properties](exception-reason-properties.md).
 

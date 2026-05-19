@@ -20,5 +20,5 @@ Twilio installs the following business rules.
 -   **[Tables installed with Twilio Direct driver](tables-twilio.md)**  
 The tables installed with Twilio Direct driver are described below.
 
-**Parent Topic:**[Notify reference](../concept/notify-reference-section.md)
+**Parent Topic:**[Notify reference](notify-reference-section.md)
 

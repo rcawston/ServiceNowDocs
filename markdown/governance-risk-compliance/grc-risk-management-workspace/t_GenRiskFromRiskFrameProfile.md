@@ -32,5 +32,5 @@ Role required: sn\_risk.admin and sn\_risk.manager
     One risk is generated for each entity in the entity type based on the risk statement.
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

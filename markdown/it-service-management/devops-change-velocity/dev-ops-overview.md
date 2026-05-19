@@ -159,7 +159,7 @@ Additional extensions may be required for applications such as Jenkins or Azure 
 
     Use the **ServiceNow DevOps** extension on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ServiceNow.vss-services-servicenow-devops) if you plan to integrate your Azure DevOps pipeline with ServiceNow DevOps.
 
-    For more information, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](../task/config-dev-ops-extensions-azure.md#).
+    For more information, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](config-dev-ops-extensions-azure.md#).
 
 -   **ServiceNow DevOps custom actions for GitHub Actions**
 

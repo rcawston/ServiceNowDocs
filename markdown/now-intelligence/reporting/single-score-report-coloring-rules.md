@@ -21,7 +21,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 This task is part of configuring the style options of a single score report.
 
-See [Single score data visualization example](../../par-for-workspace/task/dv-example-single-score.md) for example steps to implement a coloring rule.
+See [Single score data visualization example](../dv-example-single-score.md) for example steps to implement a coloring rule.
 
 ## Procedure
 
@@ -93,5 +93,5 @@ A numerical value that determines the order in which the color rules apply. Rule
 
 The colors you specify in the rules apply to the single score report that you’re editing.
 
-**Parent Topic:**[Administering reports](../concept/c_AdminsteringReports.md)
+**Parent Topic:**[Administering reports](c_AdminsteringReports.md)
 

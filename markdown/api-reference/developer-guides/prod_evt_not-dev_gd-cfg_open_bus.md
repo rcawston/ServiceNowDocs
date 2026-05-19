@@ -27,7 +27,7 @@ For additional information on the publishing of messages using the open message 
 
     For additional information on synchronizing topics, see [Producing outbound trouble ticket notifications using the open message bus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/trouble-ticket-workflow-using-pub-sub-model.md).
 
-2.  Customize the [OpenMessageBusEventPublisherOOB - publishMessageToComptibleRestProxy\(Object tmfEventPayload, Array compatibleTopicArr\)](../../../../app-store/dev_portal/API_reference/OpenMessageBusEventPublisherOOB/concept/OpenMsgBusEvtPubScopedAPI.md#) method to send messages directly to a preconfigured REST action.
+2.  Customize the [OpenMessageBusEventPublisherOOB - publishMessageToComptibleRestProxy\(Object tmfEventPayload, Array compatibleTopicArr\)](../server-api-reference/OpenMsgBusEvtPubScopedAPI.md#) method to send messages directly to a preconfigured REST action.
 
     This method is responsible for sending a message to the custom message platform’s REST proxy using spoke selector. The custom message platform is your message-bus through which messages are published.
 

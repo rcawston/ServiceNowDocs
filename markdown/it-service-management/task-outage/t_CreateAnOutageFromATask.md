@@ -45,5 +45,5 @@ The **Create Outage** UI action is added for the Task \[task\] table. When the T
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Task Outage](../concept/task-outage.md)
+**Parent Topic:**[Task Outage](task-outage.md)
 

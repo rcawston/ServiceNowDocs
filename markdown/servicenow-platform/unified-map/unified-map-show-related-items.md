@@ -26,7 +26,7 @@ Role required:
 
 ## About this task
 
-**Note:** The timeline also indicates related items \(events\). One important difference is that the timeline indicates only historical related items — events that occurred before the timeline's map time. In contrast, the **Related items** panel lists all related items. For more information, see [Viewing related items on the Unified Map timeline](../concept/unified-map-timeline-working-on.md).
+**Note:** The timeline also indicates related items \(events\). One important difference is that the timeline indicates only historical related items — events that occurred before the timeline's map time. In contrast, the **Related items** panel lists all related items. For more information, see [Viewing related items on the Unified Map timeline](unified-map-timeline-working-on.md).
 
 ## Procedure
 

@@ -25,7 +25,7 @@ Become familiar with the following features:
 -   Workflow Studio concepts and tasks. For more information, see [Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/workflow-studio.md).
 -   Assistant Designer utilities, such as the Lookup utility, and the Script Action utility.
 
-    Use these utilities to control the actions within the Virtual Agent conversation. For more information about these utilities, see [Assistant Designer utilities](../reference/va-utilities.md).
+    Use these utilities to control the actions within the Virtual Agent conversation. For more information about these utilities, see [Assistant Designer utilities](va-utilities.md).
 
 -   Virtual Agent controls. You may be asked to enter any of the following:
 
@@ -33,7 +33,7 @@ Become familiar with the following features:
     -   Data pills
     -   Strings with embedded data pills
     -   Scripts that return strings
-    For more information, see [Assistant Designer controls](../concept/virtual-agent-controls.md).
+    For more information, see [Assistant Designer controls](virtual-agent-controls.md).
 
 
 **Note:** If you have turned on and set up Now Assist in Virtual Agent, you can work with conversational actions and subflows from the home page. For more information on conversational actions and subflows, see [Conversational actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/conversational-actions.md) and [Conversational subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/conversational-subflows.md). You can still integrate actions and subflows that are not conversational from Workflow Studio into Virtual Agent topics via . The following content is only relevant to actions or subflows that can't be made conversational in Workflow Studio.
@@ -160,5 +160,5 @@ No-code condition statement or low-code script that specifies a condition for pr
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](../concept/va-flow-designer-integration.md)
+**Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](va-flow-designer-integration.md)
 

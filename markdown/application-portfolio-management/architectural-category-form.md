@@ -21,10 +21,10 @@ Architectural category enables Enterprise architects to categorize and manage ar
 |Description|Description of the category.|
 |Parent Category|Hierarchical category. Select the parent category from the Architectural Categories page.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference/eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit an architectural artifact category](../task/eaw-task/eaw-add-edit-arch-art-category.md)
+[Add or edit an architectural artifact category](eaw-add-edit-arch-art-category.md)
 

@@ -47,8 +47,8 @@ At the end of the migration process, a confirmation message specifies if the mig
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/list-categories-modules-migration-itsm-aw-sow.md) section.
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](list-categories-modules-migration-itsm-aw-sow.md) section.
 
 
-**Parent Topic:**[List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/list-categories-modules-migration-itsm-aw-sow.md)
+**Parent Topic:**[List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](list-categories-modules-migration-itsm-aw-sow.md)
 

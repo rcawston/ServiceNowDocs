@@ -23,9 +23,9 @@ The SCIM Client facilitates provisioning and updates on identity resources throu
 
 </td><td>
 
-[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/activate-scim-client-plugin.md)
+[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](activate-scim-client-plugin.md)
 
- [Activate SCIM Client.](../task/activate-scim-client-plugin.md)
+ [Activate SCIM Client.](activate-scim-client-plugin.md)
 
 </td></tr><tr><td>
 
@@ -35,9 +35,9 @@ The SCIM Client facilitates provisioning and updates on identity resources throu
 
 </td><td>
 
-[Troubleshoot![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](../reference/scim-client-troubleshooting.md)
+[Troubleshoot![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](scim-client-troubleshooting.md)
 
- [Learn more about source definition for SCIM.](../reference/scim-client-troubleshooting.md)
+ [Learn more about source definition for SCIM.](scim-client-troubleshooting.md)
 
 </td></tr></tbody>
 </table>

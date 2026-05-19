@@ -28,5 +28,5 @@ When message replications are running, the system creates a metrics record for e
 |Direction|Direction of the replication, either **To ServiceNow** or **From ServiceNow**.|
 |MID Server|Reference to the MID Server responsible for replication.|
 
-**Parent Topic:**[Stream Connect Message Replication](../concept/stream-connect-message-replication.md)
+**Parent Topic:**[Stream Connect Message Replication](stream-connect-message-replication.md)
 

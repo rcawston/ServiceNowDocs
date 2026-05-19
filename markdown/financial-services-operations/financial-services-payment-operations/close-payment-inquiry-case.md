@@ -54,5 +54,5 @@ For more information, see [Accept or reject a case solution from the Consumer Se
 
 A pre-configured email about the case closure is sent to the customer.
 
-**Parent Topic:**[Managing payment inquiries](../concept/managing-payment-inquiries.md)
+**Parent Topic:**[Managing payment inquiries](managing-payment-inquiries.md)
 

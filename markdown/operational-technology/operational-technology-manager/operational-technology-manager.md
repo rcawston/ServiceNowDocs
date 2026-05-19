@@ -35,7 +35,7 @@ Watch an overview about Operational Technology and the ServiceNow Operational Te
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](../reference/operational-technology-manager-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](operational-technology-manager-reference.md)
 
 </td><td>
 

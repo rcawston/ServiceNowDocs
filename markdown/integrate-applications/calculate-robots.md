@@ -15,7 +15,7 @@ Calculate the number of robots that you need to complete an unattended bot proce
 
 ## Before you begin
 
-Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](robot-pool-rpa.md).
 
 Create a robot pool. For more information, see [Create a robot pool in RPA Hub](create-robot-pool.md).
 
@@ -23,7 +23,7 @@ Enable robot pool for the bot process. For more information, see [Bot Process fo
 
 Associate a queue to the bot process. For more information, see [c to the bot process from the related list](associate-queue-botprocess.md).
 
-Define Average Handling Time \(AHT\) details on the queue form. For more information, see [Queue form in RPA Hub](../reference/queue-form.md).
+Define Average Handling Time \(AHT\) details on the queue form. For more information, see [Queue form in RPA Hub](queue-form.md).
 
 Ensure that multiple queues are not associated to a bot process.
 
@@ -39,7 +39,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
 If the value of the calculation is in decimals, the value is rounded off to the next higher value. For example, if the calculation result is 2.2 robots, the result that is displayed is 3. That means that 3 robots are required to execute the bot process.
 
-queryConditions included in the PickWorkItem component are considered for calculating the number of robots required to complete an unattended bot process execution, if the bot process is enabled with robot pool. For more information about PickWorkItem component, see [Queue connector methods](../../rpa-studio/reference/connectors-queues-methods.md).
+queryConditions included in the PickWorkItem component are considered for calculating the number of robots required to complete an unattended bot process execution, if the bot process is enabled with robot pool. For more information about PickWorkItem component, see [Queue connector methods](connectors-queues-methods.md).
 
 ## Procedure
 
@@ -58,5 +58,5 @@ queryConditions included in the PickWorkItem component are considered for calcul
     A message is displayed about the number of robots that are required to execute the bot process.
 
 
-**Parent Topic:**[Robot pool in RPA Hub](../concept/robot-pool-rpa.md)
+**Parent Topic:**[Robot pool in RPA Hub](robot-pool-rpa.md)
 

@@ -42,10 +42,10 @@ GRC: Vendor Portal \[sn\_grc\_vendor\_portal\]
 Enables Supplier Contacts to view a list of open and closed risk assessments on the Vendor Risk page in the Vendor Assessment Portal \(Governance, Risk, and Compliance \(GRC\): Vendor Portal\).**Note:** The GRC: Vendor Portal is installed as a dependent plugin with GRC: Vendor Risk Management.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Supplier Collaboration Portal](../task/install-supp-central.md)
+</table>**Parent Topic:**[Install Supplier Collaboration Portal](install-supp-central.md)
 
 **Related topics**  
 
 
-[Install Supplier Collaboration Portal](../task/install-supp-central.md)
+[Install Supplier Collaboration Portal](install-supp-central.md)
 

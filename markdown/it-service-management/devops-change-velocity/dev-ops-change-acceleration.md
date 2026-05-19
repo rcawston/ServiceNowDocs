@@ -15,13 +15,13 @@ breadcrumb: [DevOps Change Velocity, IT Service Management]
 
 Enable the change acceleration feature of DevOps Change Velocity for automatic change request creation in your pipeline, and use change approval flows and policies to automate approval under certain conditions.
 
-**Note:** ServiceNow [Change Management](../../change-management/concept/c_ITILChangeManagement.md) must be installed for change acceleration.
+**Note:** ServiceNow [Change Management](../change-management/c_ITILChangeManagement.md) must be installed for change acceleration.
 
 Enable and set up change control when you model your pipeline in DevOps:
 
--   [Model an Azure pipeline in DevOps](../task/model-azure-pipeline-dev-ops.md)
--   [Model a GitLab basic CI pipeline in DevOps](../task/model-gitlab-pipeline-dev-ops.md)
--   [Model a Jenkins pipeline in DevOps](../task/model-jenkins-pipeline-dev-ops.md)
+-   [Model an Azure pipeline in DevOps](model-azure-pipeline-dev-ops.md)
+-   [Model a GitLab basic CI pipeline in DevOps](model-gitlab-pipeline-dev-ops.md)
+-   [Model a Jenkins pipeline in DevOps](model-jenkins-pipeline-dev-ops.md)
 
 You can view details for active change requests by navigating to **DevOps** &gt; **Orchestrate** &gt; **Pipeline Change Requests**.
 
@@ -135,7 +135,7 @@ The DevOps Change Request Minimal Automation Policy and DevOps Change Request Ad
 -   DevOps Change Request Minimal Automation Policy
 -   DevOps Change Request Advanced Automation Policy
 
-For more information on change approval policies, see [Change approval policies](../../change-management/concept/change-approval-policy.md).
+For more information on change approval policies, see [Change approval policies](../change-management/change-approval-policy.md).
 
 The DevOps automated approval flows use change approval policies and DevOps data \(such as work items, commits, pull requests, test summaries, security summaries, and quality summaries\) to automatically update the change record state and step execution state to approved, rejected, or canceled. You can view and edit these policies based on your business requirements, or create your own in the decision table. See the following decision tables.
 
@@ -149,7 +149,7 @@ The three outcomes for the DevOps Change Request Minimal Automation and DevOps C
 -   Auto reject: If one or more of the conditions specified in the policy are not met, the change request is automatically rejected.
 -   Manual approval: If one or more conditions need manual approval by a user or group, that is specified in the policy. Notifications are sent by the policy to the relevant users or groups to expedite the manual approval and progress the change request.
 
-You can apply your change approval policy in the Change Management Workflow Studio action to control the approval process for a change request. For more information, [Use the Apply Change Approval Policy flow action](../../change-management/task/use-apply-change-approval-policy-flow-activity.md).
+You can apply your change approval policy in the Change Management Workflow Studio action to control the approval process for a change request. For more information, [Use the Apply Change Approval Policy flow action](../change-management/use-apply-change-approval-policy-flow-activity.md).
 
 ## Change approval work notes
 
@@ -300,13 +300,13 @@ You can view pipeline activity by navigating to **DevOps** &gt; **Orchestrate** 
 
 -   **[Customizing DevOps flows](using-dev-ops-model-change-flow.md)**  
 Customize or recreate the DevOps Change Request Manual Approval, DevOps Change Request Minimal Automation Approval, and DevOps Change Request Advanced Automation Approval flows based on your requirements using a flow or a script.
--   **[Automate DevOps change request creation](../task/automate-devops-change-request.md)**  
+-   **[Automate DevOps change request creation](automate-devops-change-request.md)**  
 Modify your pipeline to automatically create a DevOps change request.
--   **[Create a DevOps Change request and associate existing DevOps data — Workspace](../task/devops-wkspc-chg-create-manual.md)**  
+-   **[Create a DevOps Change request and associate existing DevOps data — Workspace](devops-wkspc-chg-create-manual.md)**  
 Create a DevOps change request and associate existing DevOps data through the Workspace UI.
--   **[Create a DevOps change request and associate existing DevOps data — Classic](../task/create-devops-change-request-manual.md)**  
+-   **[Create a DevOps change request and associate existing DevOps data — Classic](create-devops-change-request-manual.md)**  
 Create a DevOps change request and associate existing DevOps data through the Classic UI.
--   **[DevOps change request without mandating category as DevOps](../task/create-devops-change-any-category.md)**  
+-   **[DevOps change request without mandating category as DevOps](create-devops-change-any-category.md)**  
 Enable categorizing DevOps change request from DevOps properties. Change requests that are created as part of pipeline execution steps can be created with a category other than DevOps.
 -   **[Change request creation with DevOps data retrieval errors](change-request-creation-with-devops-data-retrieval-errors.md)**  
 Create change requests even with errors in DevOps data retrieval.
@@ -318,9 +318,9 @@ Use the Pipeline UI to visualize interactions and results across a pipeline exec
 Configure how the closure information, change state, and change request fields are updated from within a pipeline in the change step of the pipeline.
 -   **[DevOps change models](devops-change-multimodel.md)**  
 DevOps Change Velocity enables you to use fit-for-purpose change models that allow better flexibility in defining change models or processes to reflect modern development practices.
--   **[Retrieve change request data using DevOpsChangeRelationshipHelper script](../task/retrieve-change-request-data-using-devopschangerelationshiphelper-script.md)**  
+-   **[Retrieve change request data using DevOpsChangeRelationshipHelper script](retrieve-change-request-data-using-devopschangerelationshiphelper-script.md)**  
 Retrieve data associated with a change request based on the specified relation type using the DevOpsChangeRelationshipHelper script include.
--   **[Manage Pull Requests \(PR\) or Merge Requests in DevOps Change Velocity](../task/manage-pull-request-pipelines.md)**  
+-   **[Manage Pull Requests \(PR\) or Merge Requests in DevOps Change Velocity](manage-pull-request-pipelines.md)**  
 Manage Jenkins, GitHub Actions, and Azure DevOps \(ADO\) pipeline’s pull requests for GitHub, Bitbucket, and ADO coding sources from ServiceNow DevOps. You can enable the change approval process on your pull request to control pull request merge approvals from ServiceNow DevOps and monitor pull request details associated with the change request.
 -   **[DevOps change request attributes](apis-for-change-actions-in-devops.md)**  
 Add or update DevOps change request attributes using the changeInfo REST API, the Default Change Handler subflow, by passing attributes through the pipeline, Update function, or automated flows.

@@ -47,11 +47,11 @@ Keep the following tips in mind when creating and using bundled models.
 
 To create an abstract model, set the model category to **Bundle** and add the components. To create a concrete model, create a model in the **Product Catalog** &gt; **Product Model** &gt; **Bundled Models** module and add components.
 
--   **[Add model components to a bundle](../task/t_AddingModelComponentsToABundle.md)**  
+-   **[Add model components to a bundle](t_AddingModelComponentsToABundle.md)**  
 Add model components to a model as needed, for example, when you upgrade a bundle to include additional assets.
--   **[Remove model components from a bundle](../task/t_RemoveModelCompsFromABundle.md)**  
+-   **[Remove model components from a bundle](t_RemoveModelCompsFromABundle.md)**  
 Remove a component from a bundled model, for example, when you want to replace it with a different component.
--   **[Publish bundled models to product catalog](../task/publish-product-catalog-bundledmodles.md)**  
+-   **[Publish bundled models to product catalog](publish-product-catalog-bundledmodles.md)**  
 You can publish bundled models to the product catalog to make the bundled models available in the service catalog.
 
 **Parent Topic:**[Models](c_Models.md)

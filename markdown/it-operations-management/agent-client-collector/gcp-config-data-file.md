@@ -31,10 +31,10 @@ The GCP configuration data file is a .json file which contains all of the metric
 
 3.  Download and add the GCP metrics to the configuration file that you want to be monitored.
 
-    For details on the available GCP metrics, see [Google Cloud Platform \(GCP\) metrics](../reference/gcp-metrics.md).
+    For details on the available GCP metrics, see [Google Cloud Platform \(GCP\) metrics](gcp-metrics.md).
 
 4.  Select the Manage Attachments icon \(![](../image/paper-clip-icon.png)\) to attach the updated configuration file.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
 

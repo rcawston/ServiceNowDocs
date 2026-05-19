@@ -49,5 +49,5 @@ For more information on the AP invoice API, see [AP Invoice API Developer Guide]
 
 [Invoice approvals](invoice-approvals.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](view-invoice-attachment.md)
 

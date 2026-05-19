@@ -34,5 +34,5 @@ Role required: none
     You can click the unsubscribe icon to stop receiving email notifications.
 
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](c_UseTeamsInLiveFeed.md)
 

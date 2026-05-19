@@ -66,12 +66,12 @@ Role required: admin or sp\_admin
 
     You can use the following to access variable or catalog item fields:
 
-    -   `$scope.page.g_form()`: The g\_form instance on the form. You can use all supported g\_form methods described in [Service Portal and client scripts](../concept/unsupported_client_scripts.md). For example, `g_form.setValue('variable_name', 'new value');`.
+    -   `$scope.page.g_form()`: The g\_form instance on the form. You can use all supported g\_form methods described in [Service Portal and client scripts](unsupported_client_scripts.md). For example, `g_form.setValue('variable_name', 'new value');`.
     -   `$scope.page.field()`: The object that represents the variable.
     When you open the catalog item in the Service Portal, the embedded widget accesses the variable fields associated with the catalog item.
 
     ![The input to the variable displays in the embedded widget.](../image/macro-var.png)
 
 
-**Parent Topic:**[Developing custom widgets](../concept/widget-dev-guide.md)
+**Parent Topic:**[Developing custom widgets](widget-dev-guide.md)
 

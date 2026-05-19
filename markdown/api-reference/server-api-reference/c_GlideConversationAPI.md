@@ -23,7 +23,7 @@ Access GlideConversation properties through a global object \(conversation\) tha
 
 Connect conversations are stored on the Live Group Profile \[live\_group\_profile\] table.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideConversation - description
 

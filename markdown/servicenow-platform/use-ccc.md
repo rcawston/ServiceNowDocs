@@ -44,7 +44,7 @@ As an agent, you can initiate outbound calls using the click-to-call feature whe
 **Note:**
 
 -   If not available, you can add the **Caller** field to an incident form.
--   The phone number of a user should be in the E.164 format. For information about configuring a phone number in this format, see [Configure the E.164 format for a consumer phone number](../task/configure-e614-consumer.md).
+-   The phone number of a user should be in the E.164 format. For information about configuring a phone number in this format, see [Configure the E.164 format for a consumer phone number](configure-e614-consumer.md).
 
 You should have any of the following roles to initiate an outbound call:
 

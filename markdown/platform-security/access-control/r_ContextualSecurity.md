@@ -53,7 +53,7 @@ The Contextual Security Manager is active in the base system. If there are many 
 
 **Note:** After activating Role Management V2, you must set the glide.role\_management.v2.audit\_roles system property to allow the Audit Roles table to create audit records related to user roles. To learn more about setting this property and about the Audit Roles table, see:
 
--   [Enable role auditing with Contextual Security: Role Management V2](../task/enable-audit-roles.md).
--   [Hardening settings](../../security-center/reference/security-hardening-settings.md) in Instance Security Hardening Settings.
+-   [Enable role auditing with Contextual Security: Role Management V2](enable-audit-roles.md).
+-   [Hardening settings](../instance-security-hardening-settings/security-hardening-settings.md) in Instance Security Hardening Settings.
 -   [Audit user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/audit-user-roles.md)
 

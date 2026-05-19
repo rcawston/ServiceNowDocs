@@ -111,7 +111,7 @@ Brief description about the recall campaign phase.
 **Related topics**  
 
 
-[Create a campaign phase](../concept/mco-rc-all-campaign-phases.md)
+[Create a campaign phase](mco-rc-all-campaign-phases.md)
 
-[Create My campaign phases](../concept/mco-rc-my-campaign-phases.md)
+[Create My campaign phases](mco-rc-my-campaign-phases.md)
 

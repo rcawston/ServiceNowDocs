@@ -38,5 +38,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 The applicant receives the email. The email is also added to the activity stream of the application record.
 
-**Parent Topic:**[Using Recruitment workspace](../concept/use-recruit-workspace.md)
+**Parent Topic:**[Using Recruitment workspace](use-recruit-workspace.md)
 

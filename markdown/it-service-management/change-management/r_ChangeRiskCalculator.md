@@ -61,10 +61,10 @@ None
 Disables the processing of risk and impact rules.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Risk conditions and calculation](../../../product/change-management/concept/change-risk-assess-detect-conflict.md)
+</table>**Parent Topic:**[Risk conditions and calculation](change-risk-assess-detect-conflict.md)
 
 **Related topics**  
 
 
-[Add or modify risk and impact conditions](../../../product/change-management/task/define-risk-and-impact-conditions.md)
+[Add or modify risk and impact conditions](define-risk-and-impact-conditions.md)
 

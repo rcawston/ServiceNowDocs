@@ -46,5 +46,5 @@ Role required: Procurement specialist, agent
 7.  View information about the assigned virtual agent, attachments added to the interaction, and templates for use in the contextual side panel.
 
 
-**Parent Topic:**[Interaction Management in Source-to-Pay Workspace](../concept/interaction-management-in-procurement-operations-workspace.md)
+**Parent Topic:**[Interaction Management in Source-to-Pay Workspace](interaction-management-in-procurement-operations-workspace.md)
 

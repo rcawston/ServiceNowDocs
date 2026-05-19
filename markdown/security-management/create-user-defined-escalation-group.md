@@ -38,5 +38,5 @@ Role required: sn\_si.admin
     An escalation group is available for all security incidents in the initial group. You can create multiple groups.
 
 
-**Parent Topic:**[Security Operations user-defined escalation](../concept/user-defined-escalation.md)
+**Parent Topic:**[Security Operations user-defined escalation](user-defined-escalation.md)
 

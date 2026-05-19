@@ -42,7 +42,7 @@ Role required: sn\_ti.case\_user\_write
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[IoCs and observables in cases](../concept/cases-in-threat.md)
+**Parent Topic:**[IoCs and observables in cases](cases-in-threat.md)
 
 **Related topics**  
 

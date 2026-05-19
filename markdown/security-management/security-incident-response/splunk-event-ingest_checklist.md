@@ -65,7 +65,7 @@ Roles required: Roles are listed for each step below.
     2.  Export attachment data manually from Splunk Enterprise for an event.
     3.  Edit the default mapping configuration.
     4.  Optionally add filtering criteria, append an alert to an existing security incident, and use the script editor.
-    For more information, see [Mapping alerts and events for the Splunk Enterprise Event Ingestion integration](../concept/splunk-event-ingest-mapping.md) and [Map alerts for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-map-alerts.md).
+    For more information, see [Mapping alerts and events for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-mapping.md) and [Map alerts for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-map-alerts.md).
 
 6.  As a user with the ServiceNow AI Platform **sn\_si.ingestion\_profile\_admin** role, preview the data from Splunk Enterprise that is displayed on a ServiceNow AI Platform security incident.
 
@@ -78,5 +78,5 @@ Roles required: Roles are listed for each step below.
     For more information, see [Schedule and retrieve alerts for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-schedule.md).
 
 
-**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](../concept/splunk-event-ingest-integration-architecture.md)
+**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-integration-architecture.md)
 

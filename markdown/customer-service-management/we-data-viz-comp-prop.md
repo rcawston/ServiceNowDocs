@@ -362,11 +362,11 @@ Determines the color for the chart. You can set color type to default, or single
 </table>**Related topics**  
 
 
-[Configure the Data visualization component instance](../task/config-data-viz-comp.md)
+[Configure the Data visualization component instance](customer-self-service-and-omnichannel-engagement/config-data-viz-comp.md)
 
-[Embed the Data visualization component instance on the third-party website](../task/embed-data-viz-comp.md)
+[Embed the Data visualization component instance on the third-party website](customer-self-service-and-omnichannel-engagement/embed-data-viz-comp.md)
 
 [Event handler in the Data visualization component](we-data-viz-event-handler.md)
 
-[Sample code for the Data visualization component](we-data-viz-sample-code.md)
+[Sample code for the Data visualization component](customer-self-service-and-omnichannel-engagement/we-data-viz-sample-code.md)
 

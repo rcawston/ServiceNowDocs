@@ -64,14 +64,14 @@ The case action status feature uses actionable case flows to automatically deter
 
 For more information, see the following topics:
 
--   [Actionable case flows](../reference/case-action-status-triggers.md)
--   [Configure actionable case flows](../task/configure-case-action-status-flows.md)
+-   [Actionable case flows](case-action-status-triggers.md)
+-   [Configure actionable case flows](configure-case-action-status-flows.md)
 
 ## Blocking tasks
 
 A blocking task is something that prevents an agent from making progress toward case resolution. For example, a case might have one or more open related case task records or be waiting for customer feedback.
 
-Certain agent actions trigger case flows that create and resolve blocking tasks for customer service cases. These tasks determine the case action status. Additionally, there are actions that resolve these blocking tasks, such as the customer responding to an agent’s question or an internal user resolving a problem task. For more information, see [Blocking tasks](../reference/case-action-status-blocking-tasks.md).
+Certain agent actions trigger case flows that create and resolve blocking tasks for customer service cases. These tasks determine the case action status. Additionally, there are actions that resolve these blocking tasks, such as the customer responding to an agent’s question or an internal user resolving a problem task. For more information, see [Blocking tasks](case-action-status-blocking-tasks.md).
 
 ## Blocked by related list
 
@@ -101,7 +101,7 @@ Users with the admin role can configure notification triggers by navigating to *
 **Related topics**  
 
 
-[Configure case action status](../task/configure-case-action-status.md)
+[Configure case action status](configure-case-action-status.md)
 
 [Administering case action status](customer-service-case-action-status.md)
 

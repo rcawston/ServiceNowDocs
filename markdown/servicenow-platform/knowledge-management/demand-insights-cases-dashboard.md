@@ -15,7 +15,7 @@ breadcrumb: [Analytics and Reporting Solutions for Knowledge Management, Knowled
 
 The Demand Insights for Cases dashboard enables you as a customer service case manager to identify which cases have no or insufficient knowledge coverage. You can then create feedback tasks for knowledge gaps to deflect such cases.
 
-The Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\) includes the Demand Insights for Cases dashboard. For more information, see [Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](../reference/additional-plugins-km.md). The navigation path for viewing this dashboard is **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**. Using the search field, look for the dashboard.
+The Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\) includes the Demand Insights for Cases dashboard. For more information, see [Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](additional-plugins-km.md). The navigation path for viewing this dashboard is **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**. Using the search field, look for the dashboard.
 
 ![Demand Insights for Cases dashboard](../image/Demand-insights-cases-db.png)
 

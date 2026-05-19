@@ -27,7 +27,7 @@ The following AI capabilities are available:
 
 For more information on generative AI skills, including case and customer profile summarization, see [Using generative AI in Now Assist for Financial Services Operations \(FSO\)](using-now-assist-for-financial-services-operations-fso.md).
 
-For more information on AI agents and agentic workflows, see [Agentic AI use cases for FSO](../../fso-now-assist/concept/usecase-now-assist.md).
+For more information on AI agents and agentic workflows, see [Agentic AI use cases for FSO](usecase-now-assist.md).
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 

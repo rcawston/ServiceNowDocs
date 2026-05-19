@@ -38,7 +38,7 @@ You can have a comprehensive view of the employee information to drive business 
 
 ## Configure employee profile
 
-As an admin, you can create an active employee definition and configure the profile components. Manage updates to the employee profile from a central location. See [Configure the Employee Profile overview widget](../task/config-employee-profile-widget.md).
+As an admin, you can create an active employee definition and configure the profile components. Manage updates to the employee profile from a central location. See [Configure the Employee Profile overview widget](config-employee-profile-widget.md).
 
 **Note:** Actions that require the **admin** role, can also be performed with the **sn\_employee.admin** role.
 

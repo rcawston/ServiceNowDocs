@@ -58,7 +58,7 @@ Large-scale software metering
 SAMScalable beyond 200 apps
 
 </td></tr></tbody>
-</table>For more information for application monitoring with DEX, see [Add an application for monitoring](../task/add-new-application.md).
+</table>For more information for application monitoring with DEX, see [Add an application for monitoring](add-new-application.md).
 
 For more information on application monitoring with SAM, see the following:
 

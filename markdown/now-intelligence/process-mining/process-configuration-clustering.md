@@ -49,5 +49,5 @@ Configure a process to be able to generate a cluster analysis.
 
 [Perform a cluster analysis](request-cluster-analysis.md)
 
-**Parent Topic:**[Cluster analysis](../concept/cluster-analysis.md)
+**Parent Topic:**[Cluster analysis](cluster-analysis.md)
 

@@ -37,5 +37,5 @@ This fully functional catalog item creates a Classic Application Load Balancer -
 </table>-   **[Google Cloud Platform Load Balancer Out Of Box permissions](gcp-load-balancer-oob-permissions.md)**  
 Google Cloud Platform HTTP Load Balancer Out Of Box permissions
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

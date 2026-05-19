@@ -27,7 +27,7 @@ Available as a Workflow Studio ServiceNow core action. Users with the flow\_desi
 
 ## Output
 
-This action generates a list of Email Attachment \[sys\_email\_attachment\] records, which list the attachments that are associated with a given email record. To perform an action on an attachment, add flow logic that runs for each Attachment pill under the Email Attachment Record pill. For more information, see [For each flow logic](../concept/flow-logic-for-each.md).
+This action generates a list of Email Attachment \[sys\_email\_attachment\] records, which list the attachments that are associated with a given email record. To perform an action on an attachment, add flow logic that runs for each Attachment pill under the Email Attachment Record pill. For more information, see [For each flow logic](flow-logic-for-each.md).
 
 ## Example
 
@@ -35,5 +35,5 @@ In the following example, a process owner adds the Look up email attachments act
 
 ![Email attachments action in a flow](../images/lookup-email-attach-example.png "Email attachments action in a flow")
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

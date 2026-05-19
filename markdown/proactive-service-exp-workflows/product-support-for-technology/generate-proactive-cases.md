@@ -48,5 +48,5 @@ Role required: admin
 9.  Select **Create proactive cases**.
 
 
-**Parent Topic:**[Auto-creation of cases and updates from incidents](../concept/psew-auto-creation-case.md)
+**Parent Topic:**[Auto-creation of cases and updates from incidents](psew-auto-creation-case.md)
 

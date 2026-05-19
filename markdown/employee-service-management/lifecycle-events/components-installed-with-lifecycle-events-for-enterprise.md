@@ -46,5 +46,5 @@ Lifecycle events for enterprise administrator\[sn\_hr\_le\_ent.admin\]
 None
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Lifecycle Events reference](../concept/lifecycle-events-reference.md)
+</table>**Parent Topic:**[Lifecycle Events reference](lifecycle-events-reference.md)
 

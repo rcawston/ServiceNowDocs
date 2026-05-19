@@ -101,5 +101,5 @@ Virtual Agent uses the Branding Setup \[sys\_cs\_branding\_setup\] table to defi
 
 Catalog color themes now match your branding.
 
-**Parent Topic:**[Using catalogs and autopilot in Virtual Agent](../concept/va-catalogs.md)
+**Parent Topic:**[Using catalogs and autopilot in Virtual Agent](va-catalogs.md)
 

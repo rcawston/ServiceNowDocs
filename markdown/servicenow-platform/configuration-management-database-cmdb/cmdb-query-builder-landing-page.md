@@ -27,19 +27,19 @@ The CMDB Query Builder enables you to build complex infrastructure and service q
 
 </td><td>
 
-[Build a CMDB query![](../../../reuse/icons/brand-icons/bus-manage.svg)Construct the classes, and the relationships and references that connect them, to query on.](../task/use-cmdb-query-builder.md)
+[Build a CMDB query![](../../../reuse/icons/brand-icons/bus-manage.svg)Construct the classes, and the relationships and references that connect them, to query on.](use-cmdb-query-builder.md)
 
 </td></tr><tr><td>
 
-[Build a Service Mapping query![](../../../reuse/icons/brand-icons/bus-it-leader.svg)Construct the pattern of classes and their relationships to query Service Mapping services on.](../task/build-service-mapping-query.md)
+[Build a Service Mapping query![](../../../reuse/icons/brand-icons/bus-it-leader.svg)Construct the pattern of classes and their relationships to query Service Mapping services on.](build-service-mapping-query.md)
 
 </td><td>
 
-[Run a partial query![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Run only a section of a query for a quick validation.](../task/run-partial-cmdb-query.md)
+[Run a partial query![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Run only a section of a query for a quick validation.](run-partial-cmdb-query.md)
 
 </td><td>
 
-[Schedule a query![](../../../reuse/icons/brand-icons/bus-calendar.svg)Schedule a saved query to run once at a scheduled time or on a recurring schedule, and to email the query results to users.](../task/create-cmdb-query-schedule.md)
+[Schedule a query![](../../../reuse/icons/brand-icons/bus-calendar.svg)Schedule a saved query to run once at a scheduled time or on a recurring schedule, and to email the query results to users.](create-cmdb-query-schedule.md)
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ The CMDB Query Builder enables you to build complex infrastructure and service q
 
 </td><td>
 
-[Export or import queries![](../../../reuse/icons/brand-icons/bus-workflow.svg)Export and then import and run a saved query definition between instances, such as between a development and a production environment.](../task/export-import-query.md)
+[Export or import queries![](../../../reuse/icons/brand-icons/bus-workflow.svg)Export and then import and run a saved query definition between instances, such as between a development and a production environment.](export-import-query.md)
 
 </td><td>
 

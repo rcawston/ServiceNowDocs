@@ -40,14 +40,14 @@ Publish the assessment.
 
 The system generates an assessment instance assigned to the selected users.
 
-**Parent Topic:**[On-demand assessments](../concept/c_OnDemandAssessments.md)
+**Parent Topic:**[On-demand assessments](c_OnDemandAssessments.md)
 
 **Related topics**  
 
 
-[Assessment generation](../concept/c_AssessmentGeneration.md)
+[Assessment generation](c_AssessmentGeneration.md)
 
-[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+[Scheduled assessments](c_ScheduledAssessments.md)
 
 [Clean up assessment data](t_CleanUpAssessmentData.md)
 

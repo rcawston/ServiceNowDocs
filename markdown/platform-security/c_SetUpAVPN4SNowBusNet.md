@@ -20,13 +20,13 @@ Use a virtual private network \(VPN\) to integrate your instance with external d
 
 </td><td>
 
-[Activate![Activate](../../../common/image/icon-workspace.png)](../task/t_RequestAVPNService.md)
+[Activate![Activate](../../../common/image/icon-workspace.png)](t_RequestAVPNService.md)
 
  Active the virtual private network.
 
 </td></tr><tr><td>
 
-[Configure![Configure](../../../common/image/icon-set-up.png)](../task/t_CreateAnAddressForVPNComms.md)
+[Configure![Configure](../../../common/image/icon-set-up.png)](t_CreateAnAddressForVPNComms.md)
 
  Understand how to configure virtual private network.
 

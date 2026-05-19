@@ -32,7 +32,7 @@ Description
 Customer Central provides customer service agents with all the information about the customer in one central place. -   The Customer Information view displays key information about the customer.
 -   The Customer History view displays recent customer touch points in an activity feed.
 
- Use Customer Service guided setup to [Configure Customer Central](../task/configure-customer-central.md).
+ Use Customer Service guided setup to [Configure Customer Central](configure-customer-central.md).
 
 </td></tr><tr><td>
 
@@ -40,7 +40,7 @@ Customer Central provides customer service agents with all the information about
 
 </td><td>
 
-Configure case types to handle different types of customer issues. A case type identifies the processes and the data needed to resolve a specific type of issue, such as a lost or missing credit card. Use Customer Service guided setup to [Configure customer service case types](../task/configure-csm-case-types.md).
+Configure case types to handle different types of customer issues. A case type identifies the processes and the data needed to resolve a specific type of issue, such as a lost or missing credit card. Use Customer Service guided setup to [Configure customer service case types](configure-csm-case-types.md).
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Resolve complex cases faster and more efficiently by guiding customer service ag
 
 </td></tr><tr><td>
 
-[Lookup and verify](../../../administer/workspace/concept/lookup-and-verify-overview.md)
+[Lookup and verify](lookup-and-verify-overview.md)
 
 </td><td>
 
@@ -84,7 +84,7 @@ This feature enables customer service agents to quickly look up contacts or cons
 
 </td><td>
 
-Use machine learning to predict the estimated time to resolve a case \(ETTR\) based on case attributes such as the short description, category, priority, and assignment group. For details, see [Configure estimated time to resolve a case](../task/ettr_configure.md).
+Use machine learning to predict the estimated time to resolve a case \(ETTR\) based on case attributes such as the short description, category, priority, and assignment group. For details, see [Configure estimated time to resolve a case](ettr_configure.md).
 
 </td></tr></tbody>
 </table>

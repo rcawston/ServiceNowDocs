@@ -15,7 +15,7 @@ breadcrumb: [Assign a playbook to Major Incident Management, Configuring Major I
 
 Use Playbooks to design your own playbook by creating custom flows, and then configure trigger rules to activate the playbook for Major Incident Management.
 
-Select the **Process Automation Designer** link in the Create new playbook section of the Assign Playbook page in Admin Center to open the Playbooks page. For more information on how to assign a playbook, see [Assign a playbook to Major Incident Management](../task/assign-playbook-mim-sow.md).
+Select the **Process Automation Designer** link in the Create new playbook section of the Assign Playbook page in Admin Center to open the Playbooks page. For more information on how to assign a playbook, see [Assign a playbook to Major Incident Management](assign-playbook-mim-sow.md).
 
 The Playbooks home page displays a list of available processes including the following playbooks that are available in the base system:
 

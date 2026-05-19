@@ -18,7 +18,7 @@ Create a schedule on the **Robot Calendar** tab in RPA Hub to execute unattended
 
 Perform the following tasks before you create a schedule on the robot calendar:
 
--   Ensure you are familiar with robot calendar concepts. For more information, see [Using the robot calendar for RPA Hub](../concept/robot-calendar-rpa.md) and [View current robot events in RPA Hub](view-robot-calendar.md).
+-   Ensure you are familiar with robot calendar concepts. For more information, see [Using the robot calendar for RPA Hub](robot-calendar-rpa.md) and [View current robot events in RPA Hub](view-robot-calendar.md).
 -   Create an unattended robot. On the robot form, ensure that you select the **Robot Type** field as **Unattended**. For more information, see [Create an unattended robot in RPA Hub](create-unattended-robot.md).
 -   Establish the robot connection to an unattended bot process. For more information, see [Assign a robot to a bot process in RPA Hub](assign-robots.md).
 -   Verify that the life-cycle stage of the associated bot process isn’t set to **Retired**.
@@ -110,7 +110,7 @@ Action
     |**Save the schedule and publish the bot process**|Select the down arrow in the **Save** button and then select **Save and Publish**.|
 
 
-**Parent Topic:**[Using the robot calendar for RPA Hub](../concept/robot-calendar-rpa.md)
+**Parent Topic:**[Using the robot calendar for RPA Hub](robot-calendar-rpa.md)
 
 ## Schedule form in RPA Hub
 

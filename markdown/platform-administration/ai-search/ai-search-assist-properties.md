@@ -42,5 +42,5 @@ com.snc.ai\_search\_assist.wait\_time
 The time elapsed after the user finishes entering characters in the search field before the search begins. **Note:** If you set the time to '-1', the search begins when the user leaves the search field. This behavior is known as 'Search on tab'.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search Assist record producer integration for Service Portal](../concept/ai-search-assist.md)
+</table>**Parent Topic:**[AI Search Assist record producer integration for Service Portal](ai-search-assist.md)
 

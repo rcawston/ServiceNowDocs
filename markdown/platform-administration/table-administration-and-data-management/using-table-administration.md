@@ -47,28 +47,28 @@ Many-to-many \(M2M\) table relationships enable administrators to associate reco
 
 **Note:** It is to be noted that when you de-activate or delete a field from the dictionary on a table, it might impact on the personalized UI view lists and will remove all regardless if they contain the de-activated/deleted field.
 
--   **[Create a table](../task/t_CreateATable.md)**  
+-   **[Create a table](t_CreateATable.md)**  
 Administrators and application developers can create custom tables to store application data. After you create a table, you can also modify field types and field labels.
 -   **[Deleting custom tables](c_DeleteATable.md)**  
 Administrators can delete custom tables that are no longer needed. For example, delete a table from an application that is under development because the business requirements change.
--   **[Modify dictionary entries](../../data-dictionary-tables/task/t_ModifyADictionaryEntryFromAForm.md)**  
+-   **[Modify dictionary entries](t_ModifyADictionaryEntryFromAForm.md)**  
 Modify dictionary entries by configuring a field on a form or from the Dictionary module.
 -   **[Configuring read-only security options](read-only-option.md)**  
 Control the ability to edit read-only fields by configuring read-only options.
--   **[Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md)**  
+-   **[Altering tables and fields using dictionary attributes](c_DictionaryAttributes.md)**  
 Dictionary attributes alter the behavior of the table or field that the dictionary record describes. Administrators can add or modify dictionary attributes.
--   **[Dictionary overrides](../../data-dictionary-tables/concept/c_DictionaryOverrides.md)**  
+-   **[Dictionary overrides](c_DictionaryOverrides.md)**  
 Dictionary overrides provide the ability to define a field on an extended table differently from the field on the parent table.
--   **[Table flattening](../../platform-performance/concept/c_TaskTableFlattening.md)**  
+-   **[Table flattening](c_TaskTableFlattening.md)**  
 Table flattening stores a hierarchy of related tables as one table in a relational database.
 -   **[Viewing table references and extensions](c_SchemaMapForTables.md)**  
 View table relationships in a visual manner using the schema map.
--   **[Create a table index](../task/t_CreateCustomIndex.md)**  
+-   **[Create a table index](t_CreateCustomIndex.md)**  
 Build indexes to access the data held in your tables more easily.
--   **[Drop a custom index](../task/drop-custom-index.md)**  
+-   **[Drop a custom index](drop-custom-index.md)**  
 Remove a custom index by dropping it from a table.
--   **[Create a many-to-many table relationship](../task/t_CreateAManyToManyRelationship.md)**  
+-   **[Create a many-to-many table relationship](t_CreateAManyToManyRelationship.md)**  
 Create a bi-directional relationship between two tables, so that the related records are visible from both tables in a related list.
 
-**Parent Topic:**[ServiceNow AI Platform tables and data](../../general/concept/tables-fields-and-forms.md)
+**Parent Topic:**[ServiceNow AI Platform tables and data](tables-fields-and-forms.md)
 

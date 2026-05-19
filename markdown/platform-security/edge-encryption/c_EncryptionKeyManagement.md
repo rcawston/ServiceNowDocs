@@ -15,7 +15,7 @@ breadcrumb: [Exploring Edge Encryption, Edge Encryption, Encryption]
 
 You are responsible for providing and managing the encryption keys used by Edge Encryption.
 
-This topic refers to keys for the Edge Encryption product. If you are looking for information on the Key Management Framework, which can be used with Field Encryption, see [Key Management Framework](../../key-management-framework/concept/understanding-kmf.md).
+This topic refers to keys for the Edge Encryption product. If you are looking for information on the Key Management Framework, which can be used with Field Encryption, see [Key Management Framework](../platform-encryption/understanding-kmf.md).
 
 When obtaining and creating encryption keys to support the encryption types used by Edge Encryption, consider the following:
 

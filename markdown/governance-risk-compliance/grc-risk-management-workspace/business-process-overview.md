@@ -43,5 +43,5 @@ The following image shows an example of how to define a business process, such a
 **Related topics**  
 
 
-[Create a business process](../task/create-a-business-process.md)
+[Create a business process](create-a-business-process.md)
 

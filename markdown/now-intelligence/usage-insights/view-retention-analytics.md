@@ -36,7 +36,7 @@ View data such as how many new users you have, how many never returned, and how 
 
 3.  Filter the data.
 
-    The default filters are **Aggregation** \(daily, weekly, or monthly\), **Date Range**, and **Country**. For more information on filters in Usage Insights, see [Filter data in Usage Insights](../task/filter-user-list.md).
+    The default filters are **Aggregation** \(daily, weekly, or monthly\), **Date Range**, and **Country**. For more information on filters in Usage Insights, see [Filter data in Usage Insights](filter-user-list.md).
 
     |KPI|Description|
     |---|-----------|

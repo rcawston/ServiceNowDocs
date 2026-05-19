@@ -38,7 +38,7 @@ You can execute performance profiling on any of your ATF tests or suites. For ea
 
 [Parallel testing](parallel-testing.md)
 
-[Accelerate ATF tests failure resolution](../task/atf-test-triage.md)
+[Accelerate ATF tests failure resolution](atf-test-triage.md)
 
 ## Execute performance profiling
 

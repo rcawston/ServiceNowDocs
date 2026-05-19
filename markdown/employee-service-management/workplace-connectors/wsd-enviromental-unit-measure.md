@@ -75,7 +75,7 @@ Units for the metrics selected in the Metrics filed. For example, **Parts per mi
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Setup Workplace Connectors for environmental data](../concept/setup-environmental-data-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for environmental data](setup-environmental-data-connectors.md)
 
 **Previous topic:**[Provider Connector Configuration for Environmental sensors](wsd-env-provider-connectorconfig.md)
 

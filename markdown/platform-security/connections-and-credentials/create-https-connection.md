@@ -179,5 +179,5 @@ The default OData ping URL is /sap/bc/ping. To edit the ping URL for OData heart
     You are ready to create a custom HTTP\(s\) action or activity.
 
 
-**Parent Topic:**[Get started with connections](../reference/connection-information.md)
+**Parent Topic:**[Get started with connections](connection-information.md)
 

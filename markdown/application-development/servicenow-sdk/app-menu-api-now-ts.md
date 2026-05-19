@@ -17,14 +17,14 @@ The Application Menu API defines menus in the application navigator \[sys\_app\_
 
 **Note:** For the latest ServiceNow Fluent API documentation and examples, see the [ServiceNow Fluent API reference](https://servicenow.github.io/sdk/) and [ServiceNow SDK examples repository](https://github.com/ServiceNow/sdk-examples) on GitHub.
 
-For general information about application menus, see [Create an application menu](../../../administer/auto-test-framework/reference/test-steps-app-navigator-category.md#).
+For general information about application menus, see [Create an application menu](../automated-test-framework-atf/test-steps-app-navigator-category.md#).
 
 **Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## ApplicationMenu object
 

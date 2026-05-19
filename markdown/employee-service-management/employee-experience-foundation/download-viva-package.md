@@ -32,5 +32,5 @@ Role required: external\_app\_install\_admin
 
 Ensure that the Microsoft Viva integrations package is deployed in Microsoft SharePoint, either by you if you have Microsoft SharePoint administrator privileges or by your site's Microsoft SharePoint administrator. For more information, see [Deploy the Microsoft Viva integrations package in Microsoft SharePoint](deploy-viva-sharepoint.md).
 
-**Parent Topic:**[Managing Employee Center for Microsoft Viva Connections](../concept/manage-viva.md)
+**Parent Topic:**[Managing Employee Center for Microsoft Viva Connections](manage-viva.md)
 

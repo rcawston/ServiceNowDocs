@@ -30,7 +30,7 @@ The inventory\_user, asset, or procurement\_user role can only access the Transf
 3.  From the Actions on the selected rows menu at the bottom of the list, select **Delete**.
 
 
-**Parent Topic:**[Transfer order tasks](../concept/work-with-transfer-orders.md)
+**Parent Topic:**[Transfer order tasks](work-with-transfer-orders.md)
 
 **Related topics**  
 

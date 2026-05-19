@@ -25,5 +25,5 @@ AI Search excludes the following ServiceNow AI Platform tables when indexing con
 -   Replicated Operation \[sys\_replication\_queue\]
 -   Sys Audit \[sys\_audit\]
 
-**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+**Parent Topic:**[AI Search reference](reference-ais.md)
 

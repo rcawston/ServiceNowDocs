@@ -43,5 +43,5 @@ Role required: sn\_ext\_conn.xcc\_admin
 6.  Enter a new name for the connector, then select **Save**.
 
 
-**Parent Topic:**[Configuring External Content Connectors](../concept/configuring-ext-cont-connectors.md)
+**Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
 

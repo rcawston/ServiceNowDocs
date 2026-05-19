@@ -44,5 +44,5 @@ The Task Hierarchy can be added to any planned task table by:
     The hierarchy should now be available as a UI Action on the form of the new table.
 
 
-**Parent Topic:**[Extending the Task table with Planned tasks](../concept/c_PlannedTask.md)
+**Parent Topic:**[Extending the Task table with Planned tasks](c_PlannedTask.md)
 

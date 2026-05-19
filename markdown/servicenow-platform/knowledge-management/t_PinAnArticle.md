@@ -57,7 +57,7 @@ Adding an article to featured content requires associating an article to specifi
 
 The featured content on the knowledge service portal displays the article.
 
-**Parent Topic:**[Configuration tasks for knowledge managers](../concept/c_KnowledgeManager.md)
+**Parent Topic:**[Configuration tasks for knowledge managers](c_KnowledgeManager.md)
 
 **Related topics**  
 

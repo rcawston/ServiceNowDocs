@@ -20,12 +20,12 @@ Meet the business needs of your organization by building custom applications in 
 At a high level, there are seven main steps for building a new application in App Engine Studio. Select each step to see more information.
 
 1.  [Plan your app development](before-you-begin.md)
-2.  [Submit your idea for app development](../task/submit-intake-request.md)
+2.  [Submit your idea for app development](../application-intake/submit-intake-request.md)
 3.  [Delegate developers using AES](aes-app-dev-workflow.md)
 4.  [Create your app](create-application.md)
 5.  [Collaborate with other developers](aes-collaboration-feature-overview.md#)
-6.  [Submit your app for approval and publishing](../task/submit-for-approval.md)
-7.  [Managing deployments using Pipelines and Deployments](manage-deployments-using-p-and-d-aemc.md)
+6.  [Submit your app for approval and publishing](submit-for-approval.md)
+7.  [Managing deployments using Pipelines and Deployments](../app-engine-management-center/manage-deployments-using-p-and-d-aemc.md)
 
 ## Considerations
 

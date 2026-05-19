@@ -75,7 +75,7 @@ In our example, a customer purchased a sold product but now requests a modificat
 3.  The **delta\(\)** JSON is then transformed into a JSON of type order using the effect\(\) method.
 4.  The order JSON is committed to the database using the commitInstance\(\) method.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## LeadtoCashCore - getPrimitivesEPService\(String sourceToTargetConfigID, Object context\)
 

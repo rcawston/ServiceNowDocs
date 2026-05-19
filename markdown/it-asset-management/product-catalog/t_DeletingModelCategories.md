@@ -34,7 +34,7 @@ Only model categories that are not referenced by any models can be deleted.
 4.  Click **Delete**.
 
 
-**Parent Topic:**[Model categories](../concept/c_ModelCategories.md)
+**Parent Topic:**[Model categories](c_ModelCategories.md)
 
 **Related topics**  
 

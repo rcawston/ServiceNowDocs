@@ -20,11 +20,11 @@ Connector administrators can run or schedule content crawls to retrieve updated 
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
--   **[Configure Workvivo for external content indexing](../task/configure-workvivo-external-content-indexing.md)**  
+-   **[Configure Workvivo for external content indexing](configure-workvivo-external-content-indexing.md)**  
 Create and authorize a new application in your Workvivo instance to allow the Workvivo external content connector to access your source system and content.
--   **[Create a Workvivo external content connector](../task/create-ext-cont-connector-workvivo.md)**  
+-   **[Create a Workvivo external content connector](create-ext-cont-connector-workvivo.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Workvivo source system.
--   **[Configure crawl settings for a Workvivo external content connector](../task/configure-crawl-settings-workvivo-external-content-connector.md)**  
+-   **[Configure crawl settings for a Workvivo external content connector](configure-crawl-settings-workvivo-external-content-connector.md)**  
 Define inclusion or exclusion filters to control the attachment file types the Workvivo external content connector retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -32,7 +32,7 @@ Define inclusion or exclusion filters to control the attachment file types the W
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

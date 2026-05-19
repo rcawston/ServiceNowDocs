@@ -15,14 +15,14 @@ For every assessment group, there are assessment results.
 
 Data calculated from an evaluation of one metric is classified as a metric result. Data calculated from the weighted average of all metric results in a category is classified as a category result. The system calculates some assessment results when the assessment is generated, and others when users complete questionnaires.
 
-**Parent Topic:**[View a metric result](../task/t_ViewAMetricResult.md)
+**Parent Topic:**[View a metric result](t_ViewAMetricResult.md)
 
 **Related topics**  
 
 
-[Generate a scheduled assessment manually](../task/t_GenSchedAssessmentManually.md)
+[Generate a scheduled assessment manually](t_GenSchedAssessmentManually.md)
 
-[Generate a vendor type assessment manually](../task/t_GenAVendorTypeAssmtManually.md)
+[Generate a vendor type assessment manually](t_GenAVendorTypeAssmtManually.md)
 
 [Assessment groups](c_AssessmentGroups.md)
 

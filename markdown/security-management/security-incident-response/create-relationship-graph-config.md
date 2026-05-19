@@ -41,5 +41,5 @@ Role required: sn\_si.admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Viewing incident details with a relationship graph](../concept/sir-relationship-graph.md)
+**Parent Topic:**[Viewing incident details with a relationship graph](sir-relationship-graph.md)
 

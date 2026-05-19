@@ -27,8 +27,8 @@ Role required: admin
 
 Activity configurations enable administrators to control the actions of links associated with applications and features. For more information about activity configuration:
 
--   [Activity Configuration form](../../employee-center/reference/ec-activity-configuration-form.md)
--   [Activity Configuration Detail form](../../employee-center/reference/activity-configuration-detail-form.md)
+-   [Activity Configuration form](../employee-experience-foundation/ec-activity-configuration-form.md)
+-   [Activity Configuration Detail form](../employee-experience-foundation/activity-configuration-detail-form.md)
 
 The scope of an activity configuration is associated with an application. Availability of fields in an activity form depends on the selected application. This task starts in the Employee Center application and creates conditional filters applied to the Journey Accelerator application.
 

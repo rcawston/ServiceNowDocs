@@ -44,5 +44,5 @@ Assignment rules automatically assign tasks to users and groups when the conditi
 **Related topics**  
 
 
-[Routing and assigning customer service cases](../concept/c_CaseRouting.md)
+[Routing and assigning customer service cases](c_CaseRouting.md)
 

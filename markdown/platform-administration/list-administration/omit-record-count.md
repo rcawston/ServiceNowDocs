@@ -50,5 +50,5 @@ To load lists faster, you can remove the page calculation for all or only specif
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring lists on the ServiceNow AI Platform](../concept/c_ListConfiguration.md)
+**Parent Topic:**[Configuring lists on the ServiceNow AI Platform](c_ListConfiguration.md)
 

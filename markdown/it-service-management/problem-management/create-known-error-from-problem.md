@@ -43,12 +43,12 @@ After you create a known error article from a problem, the article is saved in t
 
     **Note:** Click **Search for Duplicates** to search for existing known error articles. The search is based on short description, category, and topic.
 
-    For a description of the field values, see [Known error article form](../reference/known-error-article-form.md).
+    For a description of the field values, see [Known error article form](known-error-article-form.md).
 
 
 ## What to do next
 
 Click **Publish** to send the article for review and approval. Depending on the Knowledge base where the article is stored and the Knowledge Base access controls, this Known Error article may be available to search for users outside of the IT team to help with Incident deflection.
 
-**Parent Topic:**[Communicating the outcome of a problem](../concept/communicate-outcome-of-problem.md)
+**Parent Topic:**[Communicating the outcome of a problem](communicate-outcome-of-problem.md)
 

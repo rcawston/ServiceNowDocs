@@ -15,18 +15,18 @@ breadcrumb: [Configure dynamic blocks, Types of content blocks, Content blocks, 
 
 The catalog cart block is a dynamic block provided in the base system.
 
-This block provides the same cart that is available within the service catalog. If the [site definition](../task/t_CreateANewSite.md) has the **Use external cart** option selected, include this block in the site so users can interact with their catalog cart.
+This block provides the same cart that is available within the service catalog. If the [site definition](t_CreateANewSite.md) has the **Use external cart** option selected, include this block in the site so users can interact with their catalog cart.
 
 Catalog cart block is available when the **glide.sc.use\_cart\_layouts** property is set to false.
 
-**Parent Topic:**[Configure dynamic blocks](../task/t_CreateADynamicBlock.md)
+**Parent Topic:**[Configure dynamic blocks](t_CreateADynamicBlock.md)
 
 **Related topics**  
 
 
 [Content blocks](c_ContentBlocks.md)
 
-[Configure a content block](../task/t_CreateAContentBlock.md)
+[Configure a content block](t_CreateAContentBlock.md)
 
-[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+[Types of content blocks](r_TypesOfContentBlocks.md)
 

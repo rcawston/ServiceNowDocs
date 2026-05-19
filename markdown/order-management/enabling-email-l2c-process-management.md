@@ -26,5 +26,5 @@ Sales process managers can compose and send emails related to a sales process re
 
 [Email client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EnableTheEmailClient.md)
 
-[View and send emails in Lead-to-Cash Process Management](../task/view-send-emails-sales-process.md)
+[View and send emails in Lead-to-Cash Process Management](view-send-emails-sales-process.md)
 

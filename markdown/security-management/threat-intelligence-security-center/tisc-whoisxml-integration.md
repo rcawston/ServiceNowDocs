@@ -15,10 +15,10 @@ breadcrumb: [Configure Observable Enrichment, TISC Enrichment integrations, TISC
 
 Submit Whois lookups on domain names and URLs to gather threat intelligence and assess potential security risks. Use this integration to obtain registration details, ownership information, and other contextual data for suspicious domains.
 
--   **[Configure and enable Whois integration](../task/tisc-whoisxml-api-integration.md)**  
+-   **[Configure and enable Whois integration](tisc-whoisxml-api-integration.md)**  
 Set up WHOIS integration with TISC to perform domain and URL lookups for threat intelligence enrichment. This integration provides context on observables to help determine potential threats.
 
-**Parent Topic:**[Configure Observable Enrichment](../task/configure-observable-enrichment.md)
+**Parent Topic:**[Configure Observable Enrichment](configure-observable-enrichment.md)
 
 **Parent Topic:**[Observable Enrichment](tisc-observable-enrichment.md)
 

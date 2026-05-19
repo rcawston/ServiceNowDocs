@@ -161,5 +161,5 @@ sn\_claim\_cmn.warranty\_specialist
 **Related topics**  
 
 
-[Explore Manufacturing Commercial Operations](../concept/manufacturing-explore.md)
+[Explore Manufacturing Commercial Operations](manufacturing-explore.md)
 

@@ -23,13 +23,13 @@ Role required: none
 
 The ActionSet OCR \(optical character recognition\) Read Text action can capture text from images and return it in standard text format.
 
-You can configure the properties for the OCR Read Text component. For more information about these properties, see [ActionSet OCR Read Text properties](../reference/actionset-actions-properties.md#ActionSet-OCR-ReadText).
+You can configure the properties for the OCR Read Text component. For more information about these properties, see [ActionSet OCR Read Text properties](actionset-actions-properties.md#ActionSet-OCR-ReadText).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    To know about the anchor, see how to use the [Anchor](../concept/anchor.md).
+    To know about the anchor, see how to use the [Anchor](anchor.md).
 
 2.  Navigate to **OCR** &gt; **Read Text**.
 

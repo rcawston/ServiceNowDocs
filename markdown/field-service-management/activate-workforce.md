@@ -29,7 +29,7 @@ Role required: admin
 
 Installing Field Service Manager Workforce also installs Dispatcher Workspace \(sn\_fsm\_disp\_wrkspc\).
 
-For more information, see [Configuring Workforce](../concept/configuring-workforce.md).
+For more information, see [Configuring Workforce](configuring-workforce.md).
 
 ## Procedure
 

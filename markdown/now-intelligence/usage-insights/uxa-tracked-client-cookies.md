@@ -65,5 +65,5 @@ Data is encrypted at rest. It’s stored in a central ServiceNow® multitenant r
 
 Data is anonymized before it’s sent to storage, and deleted at the database level after a retention period of two years.
 
-**Parent Topic:**[Tracked analytics fields and cookies](../concept/uxa-tracked-fields-and-cookies.md)
+**Parent Topic:**[Tracked analytics fields and cookies](uxa-tracked-fields-and-cookies.md)
 

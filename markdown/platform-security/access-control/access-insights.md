@@ -23,15 +23,15 @@ Access Insights helps you analyze or troubleshoot Role and Group entitlements th
 
 </td><td>
 
-[Configure ![Use](../../../common/image/icon-set-up.png)](../task/configure-access-insights.md)
+[Configure ![Use](../../../common/image/icon-set-up.png)](configure-access-insights.md)
 
- [Understand how to configure Access Insights.](../task/configure-access-insights.md)
+ [Understand how to configure Access Insights.](configure-access-insights.md)
 
 </td></tr><tr><td>
 
-[Use ![Settings](../../../common/image/icon-manage.png)](../task/use-access-insights.md)
+[Use ![Settings](../../../common/image/icon-manage.png)](use-access-insights.md)
 
- [Know how to use Access Insights.](../task/use-access-insights.md)
+ [Know how to use Access Insights.](use-access-insights.md)
 
 </td><td>
 

@@ -27,7 +27,7 @@ For example, you create a new custom table, named `transactions`, that stores tr
 
 1.  Follow the normal procedures to add a table, or access an existing table.
 
-    To learn more about creating and modifying tables in an instance, see [Create a table](../../table-administration/task/t_CreateATable.md).
+    To learn more about creating and modifying tables in an instance, see [Create a table](../table-administration-and-data-management/t_CreateATable.md).
 
 2.  In the **Columns** section, use the **Table Columns** embedded list to add columns to the table.
 
@@ -46,7 +46,7 @@ For example, you create a new custom table, named `transactions`, that stores tr
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Setting up defaults required for FX Currency use](../concept/setting-up-defaults-fx-currency-use.md)
+**Parent Topic:**[Setting up defaults required for FX Currency use](setting-up-defaults-fx-currency-use.md)
 
 **Related topics**  
 
@@ -55,7 +55,7 @@ For example, you create a new custom table, named `transactions`, that stores tr
 
 [Configuring FX Currency global settings](fx-currency-configure.md)
 
-[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+[Configuring FX Currency field behavior](configure-fx-currency-field-behavior.md)
 
 [Update a Currency Instance record](updating-fx-currency-instance-record.md)
 

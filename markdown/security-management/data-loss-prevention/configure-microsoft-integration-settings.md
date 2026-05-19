@@ -75,5 +75,5 @@ By default, the value is **db**.
 
 Your modified integration settings are applied in the next polling interval as defined in the profile.
 
-**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](../concept/dlp-integration-microsoft.md)
+**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
 

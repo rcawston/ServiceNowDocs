@@ -53,6 +53,6 @@ Role required: sn\_oper\_res.admin
 
     ![Positions of the relationships.](../image/conf-360-view-f-bs-form.png)
 
-    For more information on 360º views, see [Exploring the 360º view](../../grc-360-degree-rel-vis/concept/understanding-360-view.md#).
+    For more information on 360º views, see [Exploring the 360º view](grc-360-degree-relationship-visualization/understanding-360-view.md#).
 
 

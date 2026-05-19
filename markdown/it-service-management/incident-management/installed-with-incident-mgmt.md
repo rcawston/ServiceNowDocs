@@ -36,5 +36,5 @@ Incident KCS Article\[kb\_template\_incident\_kcs\_article\]
 The table is used to store knowledge articles created from the Incident KCS template.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate KCS Integration for Incident Management](../task/activate-kcs-integration-for-im.md)
+</table>**Parent Topic:**[Activate KCS Integration for Incident Management](activate-kcs-integration-for-im.md)
 

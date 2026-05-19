@@ -40,10 +40,10 @@ Role required: sn\_erp\_integration.erp\_admin
 
     ![New outbound message configuration record with fields completed.](../image/erp-create-idoc-outbound-message1.png)
 
-    For a detailed description of the field values, see [Outbound message configuration fields](../reference/erp-canvas-add-new-outbound-message-configuration-fields.md).
+    For a detailed description of the field values, see [Outbound message configuration fields](erp-canvas-add-new-outbound-message-configuration-fields.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Create and change SAP business entities with IDoc](../concept/create-and-change-sap-business-entities-with-idoc.md)
+**Parent Topic:**[Create and change SAP business entities with IDoc](create-and-change-sap-business-entities-with-idoc.md)
 

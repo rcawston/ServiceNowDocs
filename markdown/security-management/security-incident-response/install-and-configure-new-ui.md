@@ -26,7 +26,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [downloading an application from the ServiceNow Store](../reference/download-app-first-time.md) and install the **Security Incident Response UI** application.
+1.  Follow the instructions for [downloading an application from the ServiceNow Store](../download-app-first-time.md) and install the **Security Incident Response UI** application.
 
 2.  After installation is complete, you can open the Security Analyst Workspace by navigating to **Security Incident** &gt; **Incidents \(New UI\)**
 

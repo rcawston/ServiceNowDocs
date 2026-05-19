@@ -26,7 +26,7 @@ The genius results include:
 -   Now Assist Actionable genius result: Request for a Service Catalog item by search.
 -   Now Assist Q&amp;A genius result: View the entire Knowledge Base article with **Show more** functionality from the search results.
 
-**Note:** You must enable the **Now Assist in AI Search Setup** in the required applications where you want to use genius results. For more information, see [Enable Now Assist genius results](../task/na-qa-activate.md).
+**Note:** You must enable the **Now Assist in AI Search Setup** in the required applications where you want to use genius results. For more information, see [Enable Now Assist genius results](na-qa-activate.md).
 
 **Parent Topic:**[Employee Center Integrations](integrate-ec.md)
 

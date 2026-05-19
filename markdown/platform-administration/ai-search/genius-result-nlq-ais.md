@@ -60,7 +60,7 @@ When you select **View full table** in an NLQ Genius Result answer card, the act
 -   If the table was found by an Analytics Overview table query, the system displays it in list view.
 -   If the table was found by a CMDB table query, the system displays it in the [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md).
 
-Search administrators can customize these actions. For more information, see the [Configure navigation actions for NLQ Genius Result answer cards](../task/configure-nav-action-nlq-grs.md) section.
+Search administrators can customize these actions. For more information, see the [Configure navigation actions for NLQ Genius Result answer cards](configure-nav-action-nlq-grs.md) section.
 
 ## Review feedback
 
@@ -83,11 +83,11 @@ NLQ Genius Results don't support the following table query options:
 -   Trend and single score visualizations
 -   Keywords that return results in non-list formats, such as `total`, `count`, or `average`
 
--   **[Display NLQ Genius Result answers in Service Portal search applications](../task/display-nlq-gr-service-portal-apps.md)**  
+-   **[Display NLQ Genius Result answers in Service Portal search applications](display-nlq-gr-service-portal-apps.md)**  
 Configure the system to display search result preview lists for NLQ Genius Result answers in Service Portal search applications.
--   **[Configure navigation actions for NLQ Genius Result answer cards](../task/configure-nav-action-nlq-grs.md)**  
+-   **[Configure navigation actions for NLQ Genius Result answer cards](configure-nav-action-nlq-grs.md)**  
 Configure the navigation actions that trigger when a user selects **View full table** on an NLQ Genius Result action card. Each navigation action includes a redirection payload and can optionally include filters for a table's name, the NLQ source that returned the table, or the search profile used by the search application.
--   **[System properties for NLQ Genius Results](../reference/sys-properties-nlq-gr.md)**  
+-   **[System properties for NLQ Genius Results](sys-properties-nlq-gr.md)**  
 A system property determines whether the system displays search result preview lists for NLQ Genius Result answers in Service Portal search applications.
 
 **Parent Topic:**[Genius Result configurations in the base system](default-genius-result-configs-ais.md)

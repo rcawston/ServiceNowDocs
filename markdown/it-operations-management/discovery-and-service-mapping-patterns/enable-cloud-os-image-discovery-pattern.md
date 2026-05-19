@@ -51,9 +51,9 @@ Each cloud service provider offers OS images to launch a Compute/VM instance. Cl
 1.  Clean up the Image records. For more information, see the Knowledge Base article [KB1537376](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1537376).
 2.  Rerun the Cloud Discovery.
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../../service-mapping/concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Activate a disabled pattern](../../service-mapping/task/activate-disabled-pattern.md)
+**Previous topic:**[Activate a disabled pattern](activate-disabled-pattern.md)
 
-**Next topic:**[Discover datacenters only for new cloud accounts](../../service-mapping/task/discover-datacenter-only-new-account.md)
+**Next topic:**[Discover datacenters only for new cloud accounts](discover-datacenter-only-new-account.md)
 

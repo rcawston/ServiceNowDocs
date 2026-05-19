@@ -93,11 +93,11 @@ You can use the Operational Technology \(OT\) Action-Oriented Landing Page to tr
 The Dashboard Library in the Industrial Workspace contains the Operational Technology Visibility dashboard, the Operational Technology Vulnerability Response \(PA\) dashboard, and the Operational Technology Vulnerability Risk Rollup dashboard.
 -   **[Operational Technology Progress Scorecard](ot-progress-scorecard.md)**  
 The Operational Technology \(OT\) Progress Scorecard lets you compare device and vulnerable item data between your sites.
--   **[Operational Technology Unified Map experience in the Industrial Workspace](../../ot-industrial-workspace/concept/unified-maps-experience-iw.md)**  
+-   **[Operational Technology Unified Map experience in the Industrial Workspace](unified-maps-experience-iw.md)**  
 The Operational Technology \(OT\) Unified Map available in the Industrial Workspace provides a unified experience to view the relationships between devices and other configuration items \(CIs\), and view related items, like OT incidents and change requests.
--   **[Operational Technology Hardware Vulnerability Assessment](../../mftg-manufacturing-ot-vulnerability-response/concept/understanding-hwd-vuln-assessment.md)**  
+-   **[Operational Technology Hardware Vulnerability Assessment](understanding-hwd-vuln-assessment.md)**  
 The Operational Technology \(OT\) Hardware Vulnerability Assessment \(HVA\) application enables you to assess the firmware vulnerabilities of the OT devices in inventory and create vulnerable items \(VIT\) against the impacted OT devices.
--   **[Operational Technology Network Map](../../ot-industrial-workspace/concept/utilizing-ot-network-map.md)**  
+-   **[Operational Technology Network Map](utilizing-ot-network-map.md)**  
 The Operational Technology \(OT\) Network Map is an interactive map that visualizes your OT network through connected nodes.
 
 **Parent Topic:**[Industrial Workspace](industrial-workspace-for-operational-technology.md)

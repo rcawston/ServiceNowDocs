@@ -37,5 +37,5 @@ For Notify calls where the source is specified, such as a task number, the sourc
 |invalid|The call could not be connected since input is invalid.|
 |unknown|The driver does not support the status|
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](c_NotifyConferenceCalls.md)
 

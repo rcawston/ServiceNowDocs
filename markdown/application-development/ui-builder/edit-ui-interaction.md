@@ -157,5 +157,5 @@ Select the event on the diagram and select the delete icon ![](../image/uib-dele
 
 The updated UI interaction is saved. Any page events or declarative actions that reference this interaction automatically use the updated flow the next time the interaction is triggered.
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](uib-ui-interactions.md)
 

@@ -54,5 +54,5 @@ Visit the app store [Collaboration Services](https://store.servicenow.com/sn_app
     The ![Start Zoom chat](../images/icon-start-zoom-chat.png) icon is displayed as a field decorator in a record.
 
 
-**Parent Topic:**[Configuring Collaboration services for Zoom](../concept/configure-sn-zoom.md)
+**Parent Topic:**[Configuring Collaboration services for Zoom](configure-sn-zoom.md)
 

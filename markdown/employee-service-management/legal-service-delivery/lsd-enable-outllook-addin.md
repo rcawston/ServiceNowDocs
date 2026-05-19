@@ -40,5 +40,5 @@ The ServiceNow for Legal Add-in is available in the Outlook ribbon.
 
 If you do not want to open the ServiceNow for Legal add-in each time you select a new email, keep it pinned by making changes to the manifest file. For more information on the changes to be made to the manifest file, see [Implement a pinnable task pane in Outlook](https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/pinnable-taskpane?tabs=jsonmanifest) topic in the Microsoft Outlook documentation.
 
-**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](../concept/lsd-outlook-addin-configure.md)
+**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-configure.md)
 

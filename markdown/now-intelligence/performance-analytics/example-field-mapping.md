@@ -31,5 +31,5 @@ Finally, you see the Category field of some records on the Incidents table. This
 
 ![Category fields of Incident records. Field values match the Label field on the Choices table, to which the Category field is mapped.](../image/incident-table-category.png)
 
-**Parent Topic:**[Create a breakdown mapping on a breakdown record](../task/t_CrtBkdnBreakdownMpngs.md)
+**Parent Topic:**[Create a breakdown mapping on a breakdown record](t_CrtBkdnBreakdownMpngs.md)
 

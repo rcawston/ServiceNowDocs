@@ -25,7 +25,7 @@ You can use the Microsoft Windows and SQL Server infrastructure details reports 
 
 You can use the Azure BYOL Realized Savings report to gain visibility into the potential and actual cost savings for your Microsoft SQL Server and Microsoft Windows Server deployments on Microsoft Azure when using Azure Hybrid Benefit, which is the bring your own license \(BYOL\) licensing model for Microsoft Azure.
 
-The Azure BYOL Realized Savings report is generated only if you have requested and installed the ServiceNow® Cloud Cost Management application from the ServiceNow Store. See [Cloud Cost Management application](../../cloud-insights/reference/cloud-insights-landing-page.md) for more information on Cloud Cost Management.
+The Azure BYOL Realized Savings report is generated only if you have requested and installed the ServiceNow® Cloud Cost Management application from the ServiceNow Store. See [Cloud Cost Management application](../cloud-cost-management/cloud-insights-landing-page.md) for more information on Cloud Cost Management.
 
 **Note:** This report is available only in the Software Asset Workspace. This report isn’t available in the Software Asset Management classic application.
 
@@ -49,5 +49,5 @@ To view this report, launch the Software Asset Workspace by navigating to **Soft
 |Actual price per month with AHB|Actual VM cost per month when Azure Hybrid Benefit is enabled. This value is based on the actual number of hours that the VM was running for within a month.|
 |Actual Savings Realized|Actual VM cost saved per month by using Azure Hybrid Benefit. This value is based on the actual number of hours that the VM was running for within a month.|
 
-**Parent Topic:**[Bring your own license or subscription to the public cloud](../concept/byol-concepts.md)
+**Parent Topic:**[Bring your own license or subscription to the public cloud](byol-concepts.md)
 

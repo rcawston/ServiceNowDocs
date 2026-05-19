@@ -96,7 +96,7 @@ glide.canvas.grid.widget\_performance\_threshold
 -   Default value: none
 -   Location: **System Properties** &gt; **Dashboard Properties**
 
- For more information, see [Optimize widget rendering time on responsive dashboards](../task/t_optimizeWidgetRenderingTime.md).
+ For more information, see [Optimize widget rendering time on responsive dashboards](t_optimizeWidgetRenderingTime.md).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ glide.canvas.grid.widget\_render\_concurrent\_max
 -   Default value: 3
 -   Location: **System Properties** &gt; **Dashboard Properties**
 
- For more information, see [Optimize widget rendering time on responsive dashboards](../task/t_optimizeWidgetRenderingTime.md).
+ For more information, see [Optimize widget rendering time on responsive dashboards](t_optimizeWidgetRenderingTime.md).
 
 </td></tr><tr><td>
 

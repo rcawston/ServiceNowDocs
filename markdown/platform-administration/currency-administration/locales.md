@@ -22,7 +22,7 @@ You set the system locale using the **glide.system.locale** property. The value 
 -   `Language` is an ISO 639 language code.
 -   `Country` is an ISO 3166 language code.
 
-Internally, this value is used as specified by Java. The system locale setting should be in the [Java supported locales](http://www.oracle.com/technetwork/java/javase/javase7locales-334809.html) list. Set the system locale once after a fresh zBoot, because reference currency values that appear in currency fields are in the currency implied by the system locale. To set this property, see [Control default currency field configuration and use in an instance](../reference/currency-properties.md).
+Internally, this value is used as specified by Java. The system locale setting should be in the [Java supported locales](http://www.oracle.com/technetwork/java/javase/javase7locales-334809.html) list. Set the system locale once after a fresh zBoot, because reference currency values that appear in currency fields are in the currency implied by the system locale. To set this property, see [Control default currency field configuration and use in an instance](currency-properties.md).
 
 **Note:** Do not change the system locale after currency values have been entered into the instance. When you change the system locale, the reference currency values are not adjusted. There is no rate conversion. This persistence results in invalid aggregations and filtering.
 

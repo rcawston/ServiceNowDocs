@@ -17,7 +17,7 @@ You can map spend categories to product categories using an Excel file to better
 
 The process for mapping spend categories to product categories using an Excel file includes the following tasks:
 
-1.  [Add spend category data in an Excel file](../task/add-spend-data-spo.md).
-2.  [Load and map spend categories to existing product categories](../task/load-spend-categories.md).
-3.  [Run transform to import spend category data into the Spend Category primary table](../task/spend-category-run-trasnform.md).
+1.  [Add spend category data in an Excel file](add-spend-data-spo.md).
+2.  [Load and map spend categories to existing product categories](load-spend-categories.md).
+3.  [Run transform to import spend category data into the Spend Category primary table](spend-category-run-trasnform.md).
 

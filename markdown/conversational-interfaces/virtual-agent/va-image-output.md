@@ -60,7 +60,7 @@ Image alt text
 
 </td><td>
 
-Alternative, screen-readable text included for accessibility. This text is used along with the image. Enter the text using the text field, data pill, or script. For more information about using data pills or scripts, see [Assistant Designer controls](../concept/virtual-agent-controls.md).
+Alternative, screen-readable text included for accessibility. This text is used along with the image. Enter the text using the text field, data pill, or script. For more information about using data pills or scripts, see [Assistant Designer controls](virtual-agent-controls.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -94,7 +94,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 |LINE|Supported|File size limits may vary. For details, see the LINE documentation.|
 |WhatsApp|Supported|File size limits may vary. For details, see the WhatsApp documentation.|
 |Apple Messages for Business|Supported|None|
-|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the user receives a message: `We found an image`. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](../concept/va-settings-for-alexa.md).|
+|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the user receives a message: `We found an image`. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](va-settings-for-alexa.md).|
 
 ## Example Image bot response control
 

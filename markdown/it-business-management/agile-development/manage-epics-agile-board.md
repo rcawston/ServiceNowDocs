@@ -104,5 +104,5 @@ Use the keyboard to rearrange a group of epics
 10. To view the backlog in a standard platform list, click the standard list view icon \(![Standard list view icon](../images/standard-list-icon.png)\).
 
 
-**Parent Topic:**[Scrum Programs for Agile Development 2.0](../concept/scrum-programs-concept.md)
+**Parent Topic:**[Scrum Programs for Agile Development 2.0](scrum-programs-concept.md)
 

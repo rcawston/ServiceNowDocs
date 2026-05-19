@@ -94,5 +94,5 @@ Option to activate the topic.
 
 The topic appears in both the Kafka Topics \[sys\_kafka\_topic\] table and in Hermes. If, for some reason, a topic can't be created in Hermes, it won't be created in the Kafka Topics \[sys\_kafka\_topic\] table either.
 
-**Parent Topic:**[Managing topics in Hermes](../concept/managing-topics-hermes.md)
+**Parent Topic:**[Managing topics in Hermes](managing-topics-hermes.md)
 

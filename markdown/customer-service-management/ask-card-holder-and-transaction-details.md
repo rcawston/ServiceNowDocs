@@ -126,5 +126,5 @@ In the question node, you can add the questions that you want to ask customers o
 
 ## What to do next
 
-[Add paths and configure conditions for transactions](../concept/configuring-paths-for-next-nodes.md#) when the next question or guidance node is displayed in a decision tree.
+[Add paths and configure conditions for transactions](configuring-paths-for-next-nodes.md#) when the next question or guidance node is displayed in a decision tree.
 

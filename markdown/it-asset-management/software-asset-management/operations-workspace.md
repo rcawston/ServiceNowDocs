@@ -26,39 +26,39 @@ The License operations view includes the following categories:
 -   **Licensing**
     -   **Software entitlements**
 
-        View the details of the software entitlements that record the terms of your software licenses. You can also create entitlements to enter your license details and allocate purchased rights to users or devices. For more information, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
+        View the details of the software entitlements that record the terms of your software licenses. You can also create entitlements to enter your license details and allocate purchased rights to users or devices. For more information, see [Create entitlements in workspace](create-entitlements-workspace.md).
 
     -   **Software models**
 
-        View the details of the software models created and also create a software model. For more information, see [Create a software model in the Software Asset Workspace](../task/create-swmodels-workspace.md).
+        View the details of the software models created and also create a software model. For more information, see [Create a software model in the Software Asset Workspace](create-swmodels-workspace.md).
 
     -   **Entitlement import**
 
-        View the details of the imported entitlements and also import entitlements at one go. For more information, see [Import bulk entitlements in workspace](../task/import-entitlements-workspace.md).
+        View the details of the imported entitlements and also import entitlements at one go. For more information, see [Import bulk entitlements in workspace](import-entitlements-workspace.md).
 
     -   **Entitlement import error**
 
-        View the details on entitlement import errors that are generated while importing software entitlements. For more information, see [Entitlement import error fields](../reference/entitlement-import-error-fields.md).
+        View the details on entitlement import errors that are generated while importing software entitlements. For more information, see [Entitlement import error fields](entitlement-import-error-fields.md).
 
     -   **Software lifecycle averages**
 
-        Create averages to calculate the End of Life \(EOL\) and End of Support \(EOS\) life cycles of your software. For more information, see [Create averages for product life cycles in workspace](../task/create-lifecycle-averages-workspace.md).
+        Create averages to calculate the End of Life \(EOL\) and End of Support \(EOS\) life cycles of your software. For more information, see [Create averages for product life cycles in workspace](create-lifecycle-averages-workspace.md).
 
     -   **Consumption rules**
 
-        Create consumption rules to restrict license consumption to certain entities within your organization. You must link this rule to one or many entitlements. For more information, see [Create consumption rules](../task/create-consumption-rule.md) and [Link consumption rules to entitlements](../task/link-consumption-rules.md).
+        Create consumption rules to restrict license consumption to certain entities within your organization. You must link this rule to one or many entitlements. For more information, see [Create consumption rules](create-consumption-rule.md) and [Link consumption rules to entitlements](link-consumption-rules.md).
 
     -   **Product install condition**
 
-        View the product install condition that accounts for all software model installations for a product during reconciliation. These installation conditions are applicable for the software product and all its components. For example, if you have purchased Microsoft Visual Studio, set  up product installation conditions for using Visual Studio only to consume licenses in your non-production  environment. These same conditions then apply across all software models under Visual Studio, including downgrades and  editions. For more information, see [Create product install conditions](../task/create-product-install-condition.md).
+        View the product install condition that accounts for all software model installations for a product during reconciliation. These installation conditions are applicable for the software product and all its components. For example, if you have purchased Microsoft Visual Studio, set  up product installation conditions for using Visual Studio only to consume licenses in your non-production  environment. These same conditions then apply across all software models under Visual Studio, including downgrades and  editions. For more information, see [Create product install conditions](create-product-install-condition.md).
 
     -   **Software installs**
 
-        View the details of software installation such as discovery model, publisher, and reconciliation details. The list view also shows the total number of software installation records for your organization. For more information, see [Software installation fields](../reference/software-installation-fields.md).
+        View the details of software installation such as discovery model, publisher, and reconciliation details. The list view also shows the total number of software installation records for your organization. For more information, see [Software installation fields](software-installation-fields.md).
 
 -   **Contract - Software contracts**
 
-    Create a software contract to bind agreement between two parties. [Create a contract](../../contract-management/task/t_CreateAContract.md).
+    Create a software contract to bind agreement between two parties. [Create a contract](../contract-management/t_CreateAContract.md).
 
 -   **Discovery**
     -   **Discovery models**
@@ -67,7 +67,7 @@ The License operations view includes the following categories:
 
     -   **Software usage**
 
-        View software usage records to track the usage of software products for which you have created reclamation rules. You can also create software usage records manually from third party integrations or Microsoft System Center Configuration Manager \(SCCM\) integrations. For more information, see [View or create software usage](../task/view-sw-usage-workspace.md).
+        View software usage records to track the usage of software products for which you have created reclamation rules. You can also create software usage records manually from third party integrations or Microsoft System Center Configuration Manager \(SCCM\) integrations. For more information, see [View or create software usage](view-sw-usage-workspace.md).
 
     -   **All SAP engines**
 
@@ -75,15 +75,15 @@ The License operations view includes the following categories:
 
     -   **All SAP users**
 
-        View all the discovered users pulled from the SAP systems and their details such as SAP user roles, SAP user active transactions, SAP user activities, and SAP web activities. For more information, see [View SAP users in workspace](../task/view-sapusers-workspace.md).
+        View all the discovered users pulled from the SAP systems and their details such as SAP user roles, SAP user active transactions, SAP user activities, and SAP web activities. For more information, see [View SAP users in workspace](view-sapusers-workspace.md).
 
     -   **SAP named user types**
 
-        Create a custom-named user type that can be used with your SAP software entitlement. Creating a custom-named user type enables users to track licenses of their SAP systems. For more information, see [Create a custom named user type in workspace](../task/sap-named-usertypes-workspace.md).
+        Create a custom-named user type that can be used with your SAP software entitlement. Creating a custom-named user type enables users to track licenses of their SAP systems. For more information, see [Create a custom named user type in workspace](sap-named-usertypes-workspace.md).
 
     -   **SAP price lists**
 
-        Create custom SAP price lists so that you can track and manage SAP licenses based on the contracts of your SAP system. For more information, see [Create custom SAP price lists in workspace](../task/sap-prcielists-workspace.md).
+        Create custom SAP price lists so that you can track and manage SAP licenses based on the contracts of your SAP system. For more information, see [Create custom SAP price lists in workspace](sap-prcielists-workspace.md).
 
     -   **SAP USMM rules**
 
@@ -91,36 +91,36 @@ The License operations view includes the following categories:
 
     -   **SSO applications**
 
-        View details related to applications that you can connect through an SSO provider. For more information, see [View SSO applications in workspace](../task/view-ssoapps-workspace.md).
+        View details related to applications that you can connect through an SSO provider. For more information, see [View SSO applications in workspace](view-ssoapps-workspace.md).
 
     -   **SSO groups**
 
-        View details related to all SSO groups that have access to an SSO application. For more information, see [View SSO groups in workspace](../task/view-ssogroups-workspace.md).
+        View details related to all SSO groups that have access to an SSO application. For more information, see [View SSO groups in workspace](view-ssogroups-workspace.md).
 
     -   **SSO users**
 
-        View details of all users that have direct access to an SSO application, but not through membership in a group. For more information, see [View SSO users in workspace](../task/view-ssousers-workspace.md).
+        View details of all users that have direct access to an SSO application, but not through membership in a group. For more information, see [View SSO users in workspace](view-ssousers-workspace.md).
 
 -   **Client access**
 
-    View the details of software client access records. You can also create a record to track and manage the users or devices that are accessing a version of your server software using a client access license \(CAL\). For more information, see [Create a software client access record in workspace](../task/create-clientaccess-workspace.md).
+    View the details of software client access records. You can also create a record to track and manage the users or devices that are accessing a version of your server software using a client access license \(CAL\). For more information, see [Create a software client access record in workspace](create-clientaccess-workspace.md).
 
 -   **Resource value**
 
-    View and create Resource value records for the software models. For more information, see [Create a resource value record](../task/create-resource-value-record.md).
+    View and create Resource value records for the software models. For more information, see [Create a resource value record](create-resource-value-record.md).
 
 -   **User subscription**
     -   **User subscription**
 
-        View the details of the software subscriptions for SaaS and SSO applications. You can also create a software subscription. For more information, see [Create user subscriptions in the workspace](../task/view-user-subscription-workspace.md).
+        View the details of the software subscriptions for SaaS and SSO applications. You can also create a software subscription. For more information, see [Create user subscriptions in the workspace](view-user-subscription-workspace.md).
 
     -   **Direct integration profiles**
 
-        View the details of the already created SaaS integration profiles. You can also create an integration profile by selecting the integration type to view software usage and optimize stale licenses. For the supported SaaS applications and procedures, see [Integrate with SaaS applications](create-integration-profile.md).
+        View the details of the already created SaaS integration profiles. You can also create an integration profile by selecting the integration type to view software usage and optimize stale licenses. For the supported SaaS applications and procedures, see [Integrate with SaaS applications](../saas-license-management/create-integration-profile.md).
 
     -   **SSO integration profiles**
 
-        View the details of the already created SSO integration profiles. You can also create an SSO integration profile by selecting the integration type to view software usage and track user login data for all connected SSO applications, and reclaim unused licenses. For the supported SSO applications and procedures, see [Integrate with SSO providers](saas-sso-integration.md).
+        View the details of the already created SSO integration profiles. You can also create an SSO integration profile by selecting the integration type to view software usage and track user login data for all connected SSO applications, and reclaim unused licenses. For the supported SSO applications and procedures, see [Integrate with SSO providers](../saas-license-management/saas-sso-integration.md).
 
     -   **Subscriptions without user**
 
@@ -128,7 +128,7 @@ The License operations view includes the following categories:
 
     -   **User resolution rules**
 
-        Create a user resolution rule to map user subscriptions from SaaS applications to the User \[sys\_user\] table in ServiceNow AI Platform. For more information, see [Associate a user with subscription records](../task/map-user-data.md).
+        Create a user resolution rule to map user subscriptions from SaaS applications to the User \[sys\_user\] table in ServiceNow AI Platform. For more information, see [Associate a user with subscription records](../saas-license-management/map-user-data.md).
 
     -   **SaaS feature usage**
 
@@ -136,7 +136,7 @@ The License operations view includes the following categories:
 
     -   **Software storage usage**
 
-        View the usage information for various SaaS applications including details on the allocated storage and used storage in bytes that is stored in the Software storage usage \[saas\_sw\_storage\_usage\] table. For more information, see [Software storage usage fields](../reference/software-storage-usage.md).
+        View the usage information for various SaaS applications including details on the allocated storage and used storage in bytes that is stored in the Software storage usage \[saas\_sw\_storage\_usage\] table. For more information, see [Software storage usage fields](software-storage-usage.md).
 
     -   **CrowdStrike product usage**
 
@@ -144,7 +144,7 @@ The License operations view includes the following categories:
 
     -   **CrowdStrike product workload mappings**
 
-        View the list of CrowdStrike products mapped with the types of workloads they manage \(for example, servers, workstations, containers\). With workload mapping, you can correctly count license usage and ensure compliance. Select a record in the list to view its details. For more information on creating a new product workload mapping, see [Create a product workload mapping for CrowdStrike products](../task/create-product-workload-mapping-crowdstrike.md).
+        View the list of CrowdStrike products mapped with the types of workloads they manage \(for example, servers, workstations, containers\). With workload mapping, you can correctly count license usage and ensure compliance. Select a record in the list to view its details. For more information on creating a new product workload mapping, see [Create a product workload mapping for CrowdStrike products](create-product-workload-mapping-crowdstrike.md).
 
     -   **CrowdStrike raw usage**
 
@@ -162,27 +162,27 @@ The License operations view includes the following categories:
 -   **Software asset success**
     -   **Software maturity**
 
-        View the list of Software Asset Management maturity item details. For more information, see [View all maturity items for Software Asset Management](../task/view-maturity-items.md).
+        View the list of Software Asset Management maturity item details. For more information, see [View all maturity items for Software Asset Management](view-maturity-items.md).
 
     -   **Success goals**
 
-        Create success goals to track the success of your Software Asset Management application and view the list of created success goals. For more information, see [Create success goals for Software Asset Management](../task/create-success-goals.md).
+        Create success goals to track the success of your Software Asset Management application and view the list of created success goals. For more information, see [Create success goals for Software Asset Management](create-success-goals.md).
 
     -   **Success activities**
 
-        Create success activities to track the success of your goals and view the list of already created ones. For more information, see [Create success activities for Software Asset Management](../task/create-success-activity.md).
+        Create success activities to track the success of your goals and view the list of already created ones. For more information, see [Create success activities for Software Asset Management](create-success-activity.md).
 
     -   **Success categories**
 
-        Create success categories to add categories to your success goal and view the list of already created ones. For more information, see [Create a success goal category for software assets](../task/create-sam-suc-cat.md).
+        Create success categories to add categories to your success goal and view the list of already created ones. For more information, see [Create a success goal category for software assets](create-sam-suc-cat.md).
 
     -   **All active value builder tasks**
 
-        Create Value builder tasks for publisher packs that aren’t being fully used and view the list of already created ones. For more information, see [Create a Value builder task](../task/create-valuebuilder-task.md).
+        Create Value builder tasks for publisher packs that aren’t being fully used and view the list of already created ones. For more information, see [Create a Value builder task](create-valuebuilder-task.md).
 
     -   **My value builder tasks**
 
-        Create Value builder tasks and view the list of tasks assigned to you. For more information, see [Value builder](sam-value-builder.md) and [Create a Value builder task](../task/create-valuebuilder-task.md).
+        Create Value builder tasks and view the list of tasks assigned to you. For more information, see [Value builder](sam-value-builder.md) and [Create a Value builder task](create-valuebuilder-task.md).
 
 -   **Cloud cost simulator - Settings**
 
@@ -191,36 +191,36 @@ The License operations view includes the following categories:
 -   **IBM ASP integration**
     -   **Daily aggregated peak usage**
 
-        View the highest daily sub capacity and full capacity usage of your IBM software products based on the edition, license metric, domain, and region of each product. For more information, see [View the daily aggregated peak usage of your IBM software products](../task/view-daily-aggregated-peak-usage-ibm-products.md).
+        View the highest daily sub capacity and full capacity usage of your IBM software products based on the edition, license metric, domain, and region of each product. For more information, see [View the daily aggregated peak usage of your IBM software products](view-daily-aggregated-peak-usage-ibm-products.md).
 
     -   **Daily high water mark usage**
 
-        View the breakdown for the highest daily usage of your IBM software products by physical host based on both the edition and license metric of each product. For more information, see [View devices with the highest daily usage of your IBM software products](../task/view-daily-high-water-mark-usage-ibm-products.md).
+        View the breakdown for the highest daily usage of your IBM software products by physical host based on both the edition and license metric of each product. For more information, see [View devices with the highest daily usage of your IBM software products](view-daily-high-water-mark-usage-ibm-products.md).
 
     -   **Product classification**
 
-        View the product classifications for all IBM components that are installed in your environment. These product classifications enable you to track and manage licensing for your IBM components. For more information, see [View product classifications for your IBM components](../task/view-product-classifications-ibm-components.md).
+        View the product classifications for all IBM components that are installed in your environment. These product classifications enable you to track and manage licensing for your IBM components. For more information, see [View product classifications for your IBM components](view-product-classifications-ibm-components.md).
 
     -   **Devices to scan**
 
-        Specify the virtual machine \(VM\) managers, such as VMware vCenter Servers and IBM Hardware Management Consoles \(HMCs\), for which you want to track IBM licenses. You can track licenses for IBM software that is discovered within these specified VM managers only. For more information about updating the VM managers, see [Specify the virtual machine managers \(VMMs\) for which you are tracking IBM licenses](../task/specify-vm-managers-anglepoint-integration.md).
+        Specify the virtual machine \(VM\) managers, such as VMware vCenter Servers and IBM Hardware Management Consoles \(HMCs\), for which you want to track IBM licenses. You can track licenses for IBM software that is discovered within these specified VM managers only. For more information about updating the VM managers, see [Specify the virtual machine managers \(VMMs\) for which you are tracking IBM licenses](specify-vm-managers-anglepoint-integration.md).
 
     -   **Device settings**
 
-        To improve the accuracy of your IBM license calculations, verify the meta data for the physical hosts that your IBM software is installed on. Update any meta data that is incorrect or out of date. For information about updating meta data, see [Verify the meta data for your IBM hosts](../task/verify-ibm-device-meta-data.md).
+        To improve the accuracy of your IBM license calculations, verify the meta data for the physical hosts that your IBM software is installed on. Update any meta data that is incorrect or out of date. For information about updating meta data, see [Verify the meta data for your IBM hosts](verify-ibm-device-meta-data.md).
 
 -   **IBM ILMT V2 integration**
     -   **Peak consumption by product**
 
-        View the highest sub capacity and full capacity usage of your IBM software products based on the product name and the discovery model. For more information, see [View the peak usage of your IBM software products](../task/view-ibm-ilmt-v2-peak-usage-product.md).
+        View the highest sub capacity and full capacity usage of your IBM software products based on the product name and the discovery model. For more information, see [View the peak usage of your IBM software products](view-ibm-ilmt-v2-peak-usage-product.md).
 
     -   **Peak consumption breakdown by device**
 
-        View the breakdown for the highest sub capacity and full capacity usage of your IBM software products by physical host based on the discovered device. For more information, see [View the peak usage of your IBM software products by device](../task/view-ibm-ilmt-v2-peak-usage-device.md).
+        View the breakdown for the highest sub capacity and full capacity usage of your IBM software products by physical host based on the discovered device. For more information, see [View the peak usage of your IBM software products by device](view-ibm-ilmt-v2-peak-usage-device.md).
 
     -   **ILMT discovered computer**
 
-        View details for the discovered device including the server name, server id, server type, hardware model, hardware serial number, hardware vendor, total processor, and CMDB computer. For more information, see [View the devices that are running your IBM software products](../task/view-ibm-ilmt-v2-discovered-computer.md).
+        View details for the discovered device including the server name, server id, server type, hardware model, hardware serial number, hardware vendor, total processor, and CMDB computer. For more information, see [View the devices that are running your IBM software products](view-ibm-ilmt-v2-discovered-computer.md).
 
 -   **Engineering apps integration**
     -   **License server**
@@ -249,7 +249,7 @@ The License operations view includes the following categories:
 
     -   **Unrecognized publisher integration map**
 
-        View or create unrecognized publisher-to-subscription integration mappings. You should create these mappings when the content resolver doesn't automatically recognize a specific publisher. For more information, see [Create an unrecognized publisher integration mapping](../task/map-unid-pub-integration.md).
+        View or create unrecognized publisher-to-subscription integration mappings. You should create these mappings when the content resolver doesn't automatically recognize a specific publisher. For more information, see [Create an unrecognized publisher integration mapping](map-unid-pub-integration.md).
 
 -   **SAM implementation - Published products**
 

@@ -42,5 +42,5 @@ Role required: sn\_audit.admin, sn\_audit.manager, or sn\_audit.user
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Manage test templates and test plans](../concept/c_AuditTesting.md)
+**Parent Topic:**[Manage test templates and test plans](c_AuditTesting.md)
 

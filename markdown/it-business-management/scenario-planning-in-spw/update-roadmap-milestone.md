@@ -67,7 +67,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     -   To update, edit the field details and click **Save**.
 
-        For information on the form fields, see [Roadmap configuration form](../reference/roadmap-preference-form.md).
+        For information on the form fields, see [Roadmap configuration form](roadmap-preference-form.md).
 
     -   To delete the milestone, click **Delete.**
 
@@ -79,5 +79,5 @@ From the Free-form Roadmaps tab, select a roadmap.
 **Related topics**  
 
 
-[Customizing milestones display on roadmap in Strategic Planning Workspace](../../alignment-planner-workspace/concept/personalizing-the-milestones-display-on-the-roadmap.md)
+[Customizing milestones display on roadmap in Strategic Planning Workspace](personalizing-the-milestones-display-on-the-roadmap.md)
 

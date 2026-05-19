@@ -55,5 +55,5 @@ The table below shows what tables Zing searches when you use keywords based on t
 |sn\_fsm\_resource| | | |![](../../../reuse/icons/product-icons/circle-check-fill-24.svg)| |
 |wm\_crew| | |![](../../../reuse/icons/product-icons/circle-check-fill-24.svg)| | |
 
-For examples on how to use Zing keywords in Dispatcher Workspace, see [Searching in Dispatcher Workspace examples](search-keyword-example.md).
+For examples on how to use Zing keywords in Dispatcher Workspace, see [Searching in Dispatcher Workspace examples](field-service-scheduling/search-keyword-example.md).
 

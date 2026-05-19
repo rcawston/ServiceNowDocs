@@ -76,7 +76,7 @@ Retain indefinitely
 
 </td><td>
 
-Check box to keep this record even after the specified data retention period has passed. For more information, see [Table Cleanup](../concept/table-cleanup.md).
+Check box to keep this record even after the specified data retention period has passed. For more information, see [Table Cleanup](table-cleanup.md).
 
 </td></tr><tr><td>
 
@@ -141,7 +141,7 @@ Summary
 
 The following text indicates that a client error occurred at this step, and includes the detailed error message:`This step failed because the client error 'DETAILED ERROR MESSAGE' was detected on the page being tested. See failing Test Logs. To ignore these errors in the next test run, use ‘Add all client errors to warning/ignored list’ links.`
 
- Test designers and developers should always investigate client errors to determine if there are issues with your business process. For more details, see [Identify and resolve client errors](../task/identify-and-resolve-client-errors.md#).
+ Test designers and developers should always investigate client errors to determine if there are issues with your business process. For more details, see [Identify and resolve client errors](identify-and-resolve-client-errors.md#).
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ First failing client error
 
 </td><td>
 
-Reference to the first client error that failed during the test. Click the information icon \( ![Reference field icon](../image/atf-test-results-item.png)\) to view detailed test results and error information in the Test Logs form.**Note:** For details on how to allow client errors as ignored or warning entries, refer to [Allowed client errors](../concept/whitelisted-client-errors.md)
+Reference to the first client error that failed during the test. Click the information icon \( ![Reference field icon](../image/atf-test-results-item.png)\) to view detailed test results and error information in the Test Logs form.**Note:** For details on how to allow client errors as ignored or warning entries, refer to [Allowed client errors](whitelisted-client-errors.md)
 
 </td></tr><tr><td>
 
@@ -245,20 +245,20 @@ Warnings
 List of test logs containing client errors with a warning status. The Warnings related list only appears on test results with warnings.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Test results](../concept/atf-test-results-module.md)
+</table>**Parent Topic:**[Test results](atf-test-results-module.md)
 
 **Related topics**  
 
 
-[View test results and automated test results](../task/atf-view-results-consolidated.md)
+[View test results and automated test results](atf-view-results-consolidated.md)
 
 [Test logs record](atf-test-log-record.md)
 
 [Step results record](atf-step-result-record.md)
 
-[Allowed client errors](../concept/whitelisted-client-errors.md)
+[Allowed client errors](whitelisted-client-errors.md)
 
-[Allow client errors from step results](../task/whitelist-errors-from-step-results-related-list.md)
+[Allow client errors from step results](whitelist-errors-from-step-results-related-list.md)
 
-[Allow client errors from the test logs](../task/whitelist-errors-from-test-log-related-list.md)
+[Allow client errors from the test logs](whitelist-errors-from-test-log-related-list.md)
 

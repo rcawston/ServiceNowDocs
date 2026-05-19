@@ -54,7 +54,7 @@ Role required: admin
 
         -   To set up an existing connection, select **Configure** or **Edit**.
         -   To create and configure a new connection, select **Add Connection**.
-        **Note:** To support multiple connections through a spoke, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+        **Note:** To support multiple connections through a spoke, see [Supporting multiple connections](support-multiple-connections.md).
 
     2.  On the configuration form, fill in the fields.
 

@@ -21,7 +21,7 @@ Role required: wm\_admin
 
 ## About this task
 
-Constraints are mandatory conditions embedded in policies that determine whether an assignment group can be considered for a task. If an assignment group does not meet a constraint, it is excluded from consideration. For example, if the Enable Mandatory Skills constraint is active, only assignment groups with agents who have the required skills are considered for task assignments. For a list of constraints, see [Objectives and constraints used with Schedule Optimization](../reference/hard-soft-constraints.md).
+Constraints are mandatory conditions embedded in policies that determine whether an assignment group can be considered for a task. If an assignment group does not meet a constraint, it is excluded from consideration. For example, if the Enable Mandatory Skills constraint is active, only assignment groups with agents who have the required skills are considered for task assignments. For a list of constraints, see [Objectives and constraints used with Schedule Optimization](../hard-soft-constraints.md).
 
 ## Procedure
 

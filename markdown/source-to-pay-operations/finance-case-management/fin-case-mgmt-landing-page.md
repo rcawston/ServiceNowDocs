@@ -29,7 +29,7 @@ The ServiceNow® Finance Case Management application enables your employees and 
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](../reference/fin-case-mgmt-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](fin-case-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>## Next Experience themes
@@ -50,13 +50,13 @@ Learn about the benefits and capabilities of Finance Case Management.
 Plan and configure your implementation for Finance Case Management.
 -   **[UseFinance Case Management](using-fin-case-mgmt.md)**  
 Finance specialists can create, track, and resolve finance requests efficiently.
--   **[Finance Case Management Reference](../reference/fin-case-mgmt-reference.md)**  
+-   **[Finance Case Management Reference](fin-case-mgmt-reference.md)**  
 Reference topics provide additional information about the lists and forms that you use in Finance Case Management.
 
-**Parent Topic:**[Finance and Supply Chain applications](../../sourcing-procurement-operations/concept/fsc-common-apps-landing.md)
+**Parent Topic:**[Finance and Supply Chain applications](../fsc-common-apps-landing.md)
 
 **Related topics**  
 
 
-[Common applications in FSC](../../source-to-pay-operations/concept/fsc-common-apps.md)
+[Common applications in FSC](../common-service-delivery/fsc-common-apps.md)
 

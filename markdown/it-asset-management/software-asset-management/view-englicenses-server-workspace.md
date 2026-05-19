@@ -30,5 +30,5 @@ Role required: sam\_admin or sam\_user
 2.  Select a license server record to view its details.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

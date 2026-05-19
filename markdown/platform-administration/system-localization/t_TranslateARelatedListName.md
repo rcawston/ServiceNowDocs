@@ -36,6 +36,6 @@ Role required: personalize\_control
 
 5.  Select **Submit** or **Update**.
 
-    The system creates a new entry in the Translated Name / Field \[sys\_translated\] table or updates the existing entry for this language. For more information about this table, see [Translated Name / Field table](../reference/r_TranslatedNameFieldTable.md).
+    The system creates a new entry in the Translated Name / Field \[sys\_translated\] table or updates the existing entry for this language. For more information about this table, see [Translated Name / Field table](r_TranslatedNameFieldTable.md).
 
 

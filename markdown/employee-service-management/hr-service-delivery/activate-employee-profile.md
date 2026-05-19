@@ -34,8 +34,8 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Employee Profile](../reference/installed-with-employee-profile.md)**  
+-   **[Components installed with Employee Profile](installed-with-employee-profile.md)**  
 Several types of components are installed with activation of the Employee Profile \[sn\_employee\_profile\] plugin, including tables, user roles, and scheduled jobs.
 
-**Parent Topic:**[Employee Profile table](../concept/employee-profile.md)
+**Parent Topic:**[Employee Profile table](employee-profile.md)
 

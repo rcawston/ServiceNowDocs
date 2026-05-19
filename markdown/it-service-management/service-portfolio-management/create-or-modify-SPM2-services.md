@@ -23,7 +23,7 @@ Role required: portfolio\_admin or service\_editor
 
 All occurrences of the table and reference field label **Business Service** throughout the product have changed to **Service**. For example, the Business Service form has changed to Service form. This change is for new instances only and doesn't affect existing upgraded instances.
 
-**Note:** You can also create and edit services and service offerings by using the Service Builder application. Service Builder provides a walk-through experience with contextual help along the way. For more information, see [Service Builder](../../service-builder/concept/service-builder.md).
+**Note:** You can also create and edit services and service offerings by using the Service Builder application. Service Builder provides a walk-through experience with contextual help along the way. For more information, see [Service Builder](../service-builder/service-builder.md).
 
 ## Procedure
 
@@ -252,5 +252,5 @@ The date the service was last reviewed.
 10. Select **Submit** to save your service or select **Update** after editing a service.
 
 
-**Parent Topic:**[Using Service Portfolio Management](../concept/SPM2-using.md)
+**Parent Topic:**[Using Service Portfolio Management](SPM2-using.md)
 

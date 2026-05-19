@@ -121,7 +121,7 @@ Global search enables you to search multiple record types at once from the Next 
 
 </td></tr><tr><td>
 
-[AI tools](now-assist-csm-exploring.md)
+[AI tools](now-assist-for-csm/now-assist-csm-exploring.md)
 
 </td><td>
 
@@ -145,7 +145,7 @@ Visual indicators on chat session tabs, such as colors and icons, alert agents t
 
 </td></tr><tr><td>
 
-[Lookup and verify](../../../administer/workspace/concept/lookup-and-verify-overview.md)
+[Lookup and verify](lookup-and-verify-overview.md)
 
 </td><td>
 
@@ -169,7 +169,7 @@ A number of additional applications are available for use with CSM Configurable 
 |[AWA for CSM](awa-csm-overview.md)|Use Advanced Work Assignment \(AWA\) to automatically assign work items to agents based on their availability, capacity, and skills.|
 |[Customer Central](customer-central.md)|Use Customer Central to provide agents with all of the information about a customer in one central location. This feature enables agents to quickly zoom in on the customer issue and provide efficient and supportive service.|
 |[ServiceNow Link Manager](csm-workspace-chrome-link-manager.md)|Use the ServiceNow Link Manager feature to manage and organize browser tabs within a ServiceNow instance.|
-|[Workforce Optimization for Customer Service](../../workforce-optimization-for-customer-service-configurable/concept/configurable-wfo-cs.md)|Use Workforce Optimization for Customer Service to manage and maintain the productivity of your workforce. Efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.|
+|[Workforce Optimization for Customer Service](workforce-optimization-for-customer-service/configurable-wfo-cs.md)|Use Workforce Optimization for Customer Service to manage and maintain the productivity of your workforce. Efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.|
 |[Customer Service Case Types](customer-service-case-types.md)|Use case types to handle different types of customer issues. A case type identifies the processes and the data needed to resolve a specific type of issue, such as a lost or missing credit card.|
 |[Proactive Customer Service Operations](proactive-service-operations.md)|Use this feature to track the digital services used by your customers and to proactively create cases for service disruptions.|
 |[Playbooks for Customer Service Management](customer-service-case-playbooks.md)|Use playbooks to provide step-by-step guidance for completing the tasks needed to resolve specific types of customer service cases.|

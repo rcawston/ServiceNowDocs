@@ -71,7 +71,7 @@ When you create an action, you must choose whether the function context is **rec
 
 ## Function locations
 
-For each function you create for an application, you must associate it with a specific location. You can associate most functions with a top menu, a swipe, or a specific field. For details on this configuration, see [Associate a function with a location in the app](../reference/sg-studio-button-instances.md)
+For each function you create for an application, you must associate it with a specific location. You can associate most functions with a top menu, a swipe, or a specific field. For details on this configuration, see [Associate a function with a location in the app](sg-studio-button-instances.md)
 
 ## Carried parameters
 

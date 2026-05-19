@@ -17,7 +17,7 @@ Request a background check for an employee through a third-party background chec
 
 ## Before you begin
 
-An HR integrations administrator must have set up the integration between HR Service Delivery and the third-party background check system before requests can be made. See [HR Integrations](../concept/scoped-hr-third-party-integrations.md) for more information.
+An HR integrations administrator must have set up the integration between HR Service Delivery and the third-party background check system before requests can be made. See [HR Integrations](scoped-hr-third-party-integrations.md) for more information.
 
 Role required: sn\_hr\_core.case\_writer
 

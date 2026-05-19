@@ -35,31 +35,31 @@ For example, you can create a business application record for the ServiceNow® p
 **Related topics**  
 
 
-[View all business applications](../../task/eaw-task/view-all-business-apps.md)
+[View all business applications](view-all-business-apps.md)
 
-[Add or edit a business application](../../task/eaw-task/eaw-create-business-app.md)
+[Add or edit a business application](eaw-create-business-app.md)
 
-[View business capabilities associated with a business application](../../task/eaw-task/eaw-view-business-capabilities-assoc-with-ba.md)
+[View business capabilities associated with a business application](eaw-view-business-capabilities-assoc-with-ba.md)
 
-[Add an existing business capability to a business application](../../task/eaw-task/eaw-add-existing-business-capability-to-ba.md)
+[Add an existing business capability to a business application](eaw-add-existing-business-capability-to-ba.md)
 
-[Remove business capabilities associated with a business application](../../task/eaw-task/eaw-unassign-business-capabilities-from-ba.md)
+[Remove business capabilities associated with a business application](eaw-unassign-business-capabilities-from-ba.md)
 
-[Create a Lucidchart diagram for a business application in the EA Workspace](../../task/eaw-task/eaw-create-lucid-diagram-ba.md)
+[Create a Lucidchart diagram for a business application in the EA Workspace](eaw-create-lucid-diagram-ba.md)
 
-[Open business application form in Core UI from EA Workspace](../../task/eaw-task/view-ba-form-in-coreui.md)
+[Open business application form in Core UI from EA Workspace](view-ba-form-in-coreui.md)
 
-[View a unified map for a business application](../../task/eaw-task/eaw-open-map-ba.md)
+[View a unified map for a business application](eaw-open-map-ba.md)
 
-[View roadmap of a business application](../../task/eaw-task/eaw-view-roadmap-ba.md)
+[View roadmap of a business application](eaw-view-roadmap-ba.md)
 
-[Manage information objects of a business application in EA Workspace](../../task/eaw-task/eaw-associate-info-obj-ba.md)
+[Manage information objects of a business application in EA Workspace](eaw-associate-info-obj-ba.md)
 
-[View architectural artifacts associated with a business application](../../task/eaw-task/eaw-view-archi-artfct-assoc-with-ba.md)
+[View architectural artifacts associated with a business application](eaw-view-archi-artfct-assoc-with-ba.md)
 
-[Create an architectural artifact and associate it with a business application](../../task/eaw-task/eaw-assoicate-artifact-ba.md)
+[Create an architectural artifact and associate it with a business application](eaw-assoicate-artifact-ba.md)
 
-[Add an existing architectural artifact to a business application](../../task/eaw-task/eaw-add--existing-archi-artfct-to-a-ba.md)
+[Add an existing architectural artifact to a business application](eaw-add--existing-archi-artfct-to-a-ba.md)
 
-[Remove architectural artifacts associated with a business application](../../task/eaw-task/eaw-unassign-archi-artfct-assoc-ba.md)
+[Remove architectural artifacts associated with a business application](eaw-unassign-archi-artfct-assoc-ba.md)
 

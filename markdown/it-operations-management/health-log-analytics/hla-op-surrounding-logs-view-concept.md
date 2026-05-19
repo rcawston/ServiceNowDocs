@@ -29,5 +29,5 @@ Health Log Analytics enables you to view the anomalous log data graphically on t
 **Related topics**  
 
 
-[Analyze log lines that surround an anomaly in Health Log Analytics](../task/hla-op-surrounding-logs-view-sow.md)
+[Analyze log lines that surround an anomaly in Health Log Analytics](hla-op-surrounding-logs-view-sow.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Creating portal pages, Configuring Service Portal, Service Portal, 
 
 Configure individual request types to display the request-specific information, while still having a consistent layout that is similar to other request types. This configuration verifies a consistent experience when viewing submitted requests.
 
-For new instances, the standard ticket page is available by default. For upgraded instances, you must activate the Standard Ticket Route page route map. For information about activating this page route map, see [Activate the page route map for the standard ticket page](../task/config-pageroutemap-stpage.md).
+For new instances, the standard ticket page is available by default. For upgraded instances, you must activate the Standard Ticket Route page route map. For information about activating this page route map, see [Activate the page route map for the standard ticket page](config-pageroutemap-stpage.md).
 
 The information displayed in each section of a standard ticket page depends on the individual request type. If a configurable section has no specified values or if a user doesn’t have access to the information, it isn’t visible.
 
@@ -87,9 +87,9 @@ Ticket configurations are process domain-separated. For any request type record,
 
 **Note:** For a table, only one active configuration is enabled per domain.
 
--   **[Configure the standard ticket page](../task/configure-st-page.md)**  
+-   **[Configure the standard ticket page](configure-st-page.md)**  
 Give Service Portal users a consistent way to view their submitted requests. You can configure the standard ticket page for different request types.
--   **[Activate the page route map for the standard ticket page](../task/config-pageroutemap-stpage.md)**  
+-   **[Activate the page route map for the standard ticket page](config-pageroutemap-stpage.md)**  
 If you have upgraded your instance, redirect the ticket page to standard\_ticket page in Service Portal and view requests on the standard ticket page.
 
 **Parent Topic:**[Creating portal pages](c_Pages.md)
@@ -101,5 +101,5 @@ If you have upgraded your instance, redirect the ticket page to standard\_ticket
 
 [Incident standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-stnd-ticket-page.md)
 
-[Configure the standard ticket page](../task/configure-st-page.md)
+[Configure the standard ticket page](configure-st-page.md)
 

@@ -74,5 +74,5 @@ Applies to
 Table from which a record is submitted for approval, such as business impact analysis or compliance policy. Only tables preconfigured in the base system are supported. For the full list, see [Base system tables configured with GRC: Approver Configurator](oob-tables-configured-with-approver-configurator.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Set up an approval configuration record](../task/set-up-approval-configurator.md)
+</table>**Parent Topic:**[Set up an approval configuration record](set-up-approval-configurator.md)
 

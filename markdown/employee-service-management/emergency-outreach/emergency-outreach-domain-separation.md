@@ -39,5 +39,5 @@ Some modules in the Emergency Outreach application are affected by domain separa
     Reporting dashboard, shows aggregate of all notifications and their acknowledgment status.
 
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](emergency-outreach.md)
 

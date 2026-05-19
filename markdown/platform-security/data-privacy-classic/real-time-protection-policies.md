@@ -29,7 +29,7 @@ Role required: data\_privacy\_admin
 
 2.  Select **Create new policy.**
 
-    **Note:** In order to create real time protection polices, you must first create at least one[alert data pattern](../concept/alert-data-patterns.md).
+    **Note:** In order to create real time protection polices, you must first create at least one[alert data pattern](alert-data-patterns.md).
 
 3.  Fill in the fields on the form:
 
@@ -81,7 +81,7 @@ Alert data pattern
 
 </td><td>
 
-Select the data pattern that defines what sensitive data to detect. **Note:** You can create [Alert data patterns](../concept/alert-data-patterns.md) if none exist.
+Select the data pattern that defines what sensitive data to detect. **Note:** You can create [Alert data patterns](alert-data-patterns.md) if none exist.
 
 </td></tr><tr><td>
 

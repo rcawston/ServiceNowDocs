@@ -21,7 +21,7 @@ The Jamf spoke contains actions that CSD 2.0 uses to deploy software from a serv
 
 ## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This application provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance. The agents guide you through the required details, confirms actions for safety, and attempts to handle errors while performing operations.
 
@@ -53,7 +53,7 @@ There might be AI agents installed with the Now Assist application that are not 
 
 ## Available sample agentic workflows
 
-Install Now Assist for Integration Hub and start using the available sample agentic workflows and AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available sample agentic workflows and AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 In the ServiceNow agentic system, you can create an agentic workflow that comprises of a set of large language model \(LLM\) instructions along with one or more standalone AI agents to execute an objective. Use the available sample agentic workflow in AI Agent Studio so that AI agents can coordinate to solve complex problems. To modify the available sample agentic workflow as per your requirement, see [Modify an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/modify-aia-use-case.md).
 
@@ -97,17 +97,17 @@ Sample agentic workflow that coordinates between multiple AI agents to handle ta
 No**Note:** To activate the workflow, see [Activate an agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md).
 
 </td></tr></tbody>
-</table>-   **[Verify the Jamf spoke records](../task/csd2-jamf.md)**  
+</table>-   **[Verify the Jamf spoke records](csd2-jamf.md)**  
 Verify that the spoke is integrated with CSD 2.0 after setting up and configuring the Jamf spoke and create server instance record to use Jamf spoke with CSD 2.0.
--   **[Store details of the Jamf server](../task/csd2-discapps-jamf.md)**  
+-   **[Store details of the Jamf server](csd2-discapps-jamf.md)**  
 Create a server instance record to discover applications and store details of the Jamf server.
--   **[Set up a software model](../task/csd2-jamf-sw.md)**  
+-   **[Set up a software model](csd2-jamf-sw.md)**  
 Using the applications discovered on the Jamf server, set up a software model to manage licenses.
--   **[Define the Jamf configuration](../task/csd2-jamf-coll.md)**  
+-   **[Define the Jamf configuration](csd2-jamf-coll.md)**  
 Associate that software with a group through a Jamf configuration to create catalog items for Jamf software deployment or to configure your instance to revoke software through .
--   **[Create a catalog item for the Jamf application](../task/csd2-create-cat-jamf.md)**  
+-   **[Create a catalog item for the Jamf application](csd2-create-cat-jamf.md)**  
 Create a catalog item for an application you want to offer for distribution from the service catalog using the applications discovered on the Jamf server.
--   **[Deployment process](../task/csd2-jamf-deploy.md)**  
+-   **[Deployment process](csd2-jamf-deploy.md)**  
 Order an application from a CSD 2.0 catalog item in the service catalog triggers the Order Client Software flow.
 
 **Parent Topic:**[Client Software Distribution 2.0 application](csd-app-2.md)

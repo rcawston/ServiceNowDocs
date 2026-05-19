@@ -79,16 +79,16 @@ To change debugging options for attachment indexing, add these system properties
 
 **Note:** To learn more about the properties that affect attachments processing, see Attachments \(instance security hardening\) in Instance Security Hardening Settings.
 
--   **[Configure attachment system properties](../task/t_DisablingTheDragAndDropFeature.md#)**  
+-   **[Configure attachment system properties](t_DisablingTheDragAndDropFeature.md#)**  
 You can disable the drag-and-drop feature. \(Users can still upload attachments by browsing to the file.\) You can also limit the attachment file size, restrict who can upload attachments, and restrict what file extensions can be uploaded.
--   **[Disable attachments on a table](../task/disable-attachments-on-table.md)**  
+-   **[Disable attachments on a table](disable-attachments-on-table.md)**  
 You can prevent users from adding attachments to records on a specific table.
--   **[Index attachments on a table](../task/t_DisablingAttachmentsOnATable.md)**  
+-   **[Index attachments on a table](t_DisablingAttachmentsOnATable.md)**  
 You can enable attachment indexing for a table so text searches can return matches from the record and its file attachments.
--   **[Hide the attachment \[view\] link](../task/t_HidingTheAttachmentViewLink.md)**  
+-   **[Hide the attachment \[view\] link](t_HidingTheAttachmentViewLink.md)**  
 Users can open an attachment by clicking either the file name or the **\[view\]** link. The **\[view\]** link opens the file from within the browser, which executes JavaScript code as part of the attachment. You can hide the **\[view\]** link. Users can still view attachments by clicking the file name.
--   **[Configure attachment icons](../task/t_ConfiguringAttachmentIcons.md)**  
+-   **[Configure attachment icons](t_ConfiguringAttachmentIcons.md)**  
 Configure the icon that appears beside an attachment of a particular file type.
 
-**Parent Topic:**[Administering forms on the ServiceNow AI Platform](../concept/form-administration.md)
+**Parent Topic:**[Administering forms on the ServiceNow AI Platform](form-administration.md)
 

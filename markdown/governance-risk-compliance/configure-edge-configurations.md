@@ -25,7 +25,7 @@ Role required: sn\_oper\_res.admin
 
 3.  In the Edge configurations related list, select **New**.
 
-    For more information on the fields, see [Edge configuration form](../reference/edge-configuration-form.md).
+    For more information on the fields, see [Edge configuration form](edge-configuration-form.md).
 
     ![Edge configurations related list.](../image/edge-config-record.png)
 

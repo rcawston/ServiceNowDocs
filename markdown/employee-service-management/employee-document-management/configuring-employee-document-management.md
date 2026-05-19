@@ -15,7 +15,7 @@ breadcrumb: [Employee Document Management, HR Documents, HR Service Delivery, Em
 
 Configure Employee Document Management.
 
--   **[Activate Employee Document Management](../task/activate-employee-doc-mgmnt.md#)**  
+-   **[Activate Employee Document Management](activate-employee-doc-mgmnt.md#)**  
 You can activate the Employee Document Management \[com.sn\_employee\_document\_management\] plugin with the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Defining and setting for employee documents](hr-doc-management-config.md#)**  
 Use Employee Document Management to configure how employee documents should be handled based on company policy, processes, and regulatory compliance.

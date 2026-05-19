@@ -24,5 +24,5 @@ Role required: none
 1.  Drag-and-drop group feeds and hashtags from the Feed Summary section to the Edge for quick access.
 
 
-**Parent Topic:**[Live Feed UI overview](../reference/r_LiveFeedUIOverview.md)
+**Parent Topic:**[Live Feed UI overview](r_LiveFeedUIOverview.md)
 

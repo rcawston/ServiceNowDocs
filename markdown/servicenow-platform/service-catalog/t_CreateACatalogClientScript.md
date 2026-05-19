@@ -122,7 +122,7 @@ Applies on Requested Items
 
 </td><td>
 
-Check box to apply the catalog client script on a Requested Item form, after the item is requested. Available in the fulfiller view. See [VEditor](../concept/service-catalog-variable-editor.md#cat-VEditor).
+Check box to apply the catalog client script on a Requested Item form, after the item is requested. Available in the fulfiller view. See [VEditor](service-catalog-variable-editor.md#cat-VEditor).
 
 </td></tr><tr><td>
 
@@ -130,7 +130,7 @@ Applies on Catalog Tasks
 
 </td><td>
 
-Check box to apply the catalog client script when a Catalog Task form for the item is being displayed. Available in the fulfiller view. See [VEditor](../concept/service-catalog-variable-editor.md#cat-VEditor).
+Check box to apply the catalog client script when a Catalog Task form for the item is being displayed. Available in the fulfiller view. See [VEditor](service-catalog-variable-editor.md#cat-VEditor).
 
 </td></tr><tr><td>
 
@@ -138,11 +138,11 @@ Applies on the Target Record
 
 </td><td>
 
-Check box to support the catalog client script on a record created for task-extended tables via record producers. See [Default variable editor](../concept/service-catalog-variable-editor.md#cat-default-variable-editor).
+Check box to support the catalog client script on a record created for task-extended tables via record producers. See [Default variable editor](service-catalog-variable-editor.md#cat-default-variable-editor).
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Service Catalog items](../concept/c_IntroductionToCatalogItems.md)
+**Parent Topic:**[Service Catalog items](c_IntroductionToCatalogItems.md)
 

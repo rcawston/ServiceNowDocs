@@ -44,5 +44,5 @@ Role required: admin
     A draft version is created and sent to approvers to approve or reject. Once the article is approved, it is displayed in the **Article Versions** related list.
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 

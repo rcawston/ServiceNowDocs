@@ -28,7 +28,7 @@ The following items are installed with Recommended Actions:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Recommended Actions](../reference/ra-csm-installed-components.md).
+For more information, see [Components installed with Recommended Actions](ra-csm-installed-components.md).
 
 To create recommendations based on Artificial Intelligence and Machine Learning models developed using ServiceNow® Predictive Intelligence, install Recommended Actions - Advanced.
 

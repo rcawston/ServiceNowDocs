@@ -47,13 +47,13 @@ Role required: admin
 
     The options available in these fields correspond to the selection made in the **Input type** field from the Input form.
 
-    **Note:** For a list of the attributes to use in offline mode, see [Reference field attributes for input form screens in offline mode](../reference/reference-fields-offline-attributes.md).
+    **Note:** For a list of the attributes to use in offline mode, see [Reference field attributes for input form screens in offline mode](reference-fields-offline-attributes.md).
 
 11. Select **Save**.
 
 
--   **[Reference field attributes for input form screens in offline mode](../reference/reference-fields-offline-attributes.md)**  
+-   **[Reference field attributes for input form screens in offline mode](reference-fields-offline-attributes.md)**  
 Configure the fields that you want to use and the data you want to display in offline mode by using various input attributes.
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](mobile-offline-mode.md)
 

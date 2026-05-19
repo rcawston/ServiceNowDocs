@@ -41,7 +41,7 @@ Indicates whether canceled transactions are to be logged to the Transaction Canc
 
  Default value: true
 
- Location: [Add to the System Properties](../../reference-pages/reference/r_AvailableSystemProperties.md#) \[sys\_properties\] table
+ Location: [Add to the System Properties](../r_AvailableSystemProperties.md#) \[sys\_properties\] table
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Transaction cancellation](transaction-cancellation.md)

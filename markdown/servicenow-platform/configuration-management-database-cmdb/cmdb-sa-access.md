@@ -27,7 +27,7 @@ You can access the CMDB success advisor app from either CMDB Workspace or Servic
 
 ## Procedure
 
--   From the [CMDB Workspace](../../configuration-management/concept/cmdb-workspace.md):
+-   From the [CMDB Workspace](cmdb-workspace.md):
 
     1.  Navigate to **Workspaces** &gt; **CMDB Workspace**.
 
@@ -46,7 +46,7 @@ You can access the CMDB success advisor app from either CMDB Workspace or Servic
 
     1.  Navigate to Service Graph Workspace.
 
-        To learn more on how to set up Service Graph Workspace, see [Set up Service Graph Workspace](../../configuration-management/concept/setup-service-graph-workspace.md).
+        To learn more on how to set up Service Graph Workspace, see [Set up Service Graph Workspace](setup-service-graph-workspace.md).
 
     2.  In the Data Governance view in Service Graph Workspace, select an action based on your progress.
 

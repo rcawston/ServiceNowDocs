@@ -40,5 +40,5 @@ User permission is assigned to all users, even if they don’t have a role assig
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Document security and access](../concept/document-access-settings.md)
+**Parent Topic:**[Document security and access](document-access-settings.md)
 

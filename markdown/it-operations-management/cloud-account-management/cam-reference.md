@@ -31,10 +31,10 @@ A list of default policies provided for scanning the cloud accounts.
 Access control lists \(ACLs\), groups, and roles in Cloud Account Management control how access permissions are organized and managed within a cloud environment.
 -   **[Permissions required for Azure Service Principal](permissions-required-for-azure-service-principal.md)**  
 This table provides the permissions needed to create, close or cancel an Azure subscription, download billing details, and tag subscriptions.
--   **[Cloud Asset Collection table](../concept/cloud-asset-collection-table.md)**  
+-   **[Cloud Asset Collection table](cloud-asset-collection-table.md)**  
 Stores metadata of cloud assets collected from providers for IT operations.
 -   **[Cloud account details](cloud-accounts-details.md)**  
 The Cloud account details table provides detailed information about each account.
 
-**Parent Topic:**[Cloud Account Management](../concept/cam-landing.md)
+**Parent Topic:**[Cloud Account Management](cam-landing.md)
 

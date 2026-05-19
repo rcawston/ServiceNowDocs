@@ -19,14 +19,14 @@ The Craft.co Integration for Supplier Lifecycle Operations plugin \(com.snc.sn\_
 
 Craft is a third-party supplier intelligence platform that offers most up-to-date, validated, and comprehensive information about any supplier you are working with.
 
-Ensure that you have configured the **sn\_supplier\_craft.craft.api.key** system property, which enables you to import supplier information automatically from Craft. For more information, see [Configure properties for Supplier Case Management](../reference/config-prop-supp-mgmt.md).
+Ensure that you have configured the **sn\_supplier\_craft.craft.api.key** system property, which enables you to import supplier information automatically from Craft. For more information, see [Configure properties for Supplier Case Management](config-prop-supp-mgmt.md).
 
 The integration with Craft provides the following advantages:
 
 -   Import suppliers automatically without manually entering supplier details.
 -   Synchronize supplier information stored in your system with that in Craft, thus ensuring that you always view the most up-to-date supplier data.
 
--   **[Synchronize supplier data using external third-party application](../task/sync-supp-data-craft.md)**  
+-   **[Synchronize supplier data using external third-party application](sync-supp-data-craft.md)**  
 Synchronize supplier data with any external third-party application to ensure that you are working with the latest data in the Source-to-Pay Workspace.
 
 **Parent Topic:**[Integrate Supplier Lifecycle Operations with other applications](integrate-slo.md)
@@ -40,5 +40,5 @@ Synchronize supplier data with any external third-party application to ensure th
 
 [Relish Integration for Supplier Lifecycle Operations](relish-slo-connector.md)
 
-[Synchronize supplier data using external third-party application](../task/sync-supp-data-craft.md)
+[Synchronize supplier data using external third-party application](sync-supp-data-craft.md)
 

@@ -67,7 +67,7 @@ The SaaS License Management Roadmunk integration does not support reclamation th
 
     The users are deactivated and added to the list of inactive users.
 
-    **Note:** By default, the Roadmunk Download Subscriptions subflow within the ServiceNow SaaS License Management Roadmunk integration downloads all users in your Roadmunk account, including both active and inactive users. To download only the active users in your account, you must download your Roadmunk User Report and then attach it to the Roadmunk integration profile on your ServiceNow instance. See step 7 of [Create a Roadmunk integration profile](../concept/integrate-with-roadmunk.md#) for detailed instructions.
+    **Note:** By default, the Roadmunk Download Subscriptions subflow within the ServiceNow SaaS License Management Roadmunk integration downloads all users in your Roadmunk account, including both active and inactive users. To download only the active users in your account, you must download your Roadmunk User Report and then attach it to the Roadmunk integration profile on your ServiceNow instance. See step 7 of [Create a Roadmunk integration profile](integrate-with-roadmunk.md#) for detailed instructions.
 
 3.  Delete deactivated users from your Roadmunk account.
 

@@ -61,8 +61,8 @@ When there are errors in the document:
 -   Check the HR case to ensure correct case information.
 -   Check the document template for errors within the body of the document, incorrect field mapping, or variable information.
 
--   **[Edit a generated document](../task/agent-edit-document.md)**  
+-   **[Edit a generated document](agent-edit-document.md)**  
 Support rendering values of variables, scripts, and blocks in edit mode in Preview Document. View the content of variables, scripts, or blocks rather than only viewing the variable or block names.
 
-**Parent Topic:**[Work an HR case](../task/t_CreateAnHRCase.md)
+**Parent Topic:**[Work an HR case](t_CreateAnHRCase.md)
 

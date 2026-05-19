@@ -105,7 +105,7 @@ Normalized value
 
 </td><td>
 
-Adjusted value that accounts for the **Scale definition** setting, minimum and maximum values, and other factors. The equation that generates the value and an example calculation appear in [Normalized value for an assessment](../../orchestration-activity-designer/reference/example-normalized-value-calc.md).
+Adjusted value that accounts for the **Scale definition** setting, minimum and maximum values, and other factors. The equation that generates the value and an example calculation appear in [Normalized value for an assessment](example-normalized-value-calc.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ String value
 Value that displays the response as it appears on a questionnaire. In some cases this is the same as the **Actual value**, such as when the question data type is **Percentage**. The string value is `N/A` for unanswered questions of certain data types.
 
 </td></tr></tbody>
-</table>-   **[Normalized value for an assessment](../../orchestration-activity-designer/reference/example-normalized-value-calc.md)**  
+</table>-   **[Normalized value for an assessment](example-normalized-value-calc.md)**  
 The normalized value is calculated based on a linear equation and the scale definition of the metric. This value can be used for risk assessment.
 
 **Parent Topic:**[Surveys reference](survey-reference.md)

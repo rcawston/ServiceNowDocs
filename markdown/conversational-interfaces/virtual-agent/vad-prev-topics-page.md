@@ -44,7 +44,7 @@ See Topic Recommendations
 
 </td><td>
 
-Button that opens Topic Recommendations \(if installed\). Review recommendations and manage jobs. For more information, see [Using Virtual Agent Topic Recommendations](../concept/va-topic-recommendations.md).
+Button that opens Topic Recommendations \(if installed\). Review recommendations and manage jobs. For more information, see [Using Virtual Agent Topic Recommendations](va-topic-recommendations.md).
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Manage NLU/keyword test cases
 
 </td><td>
 
-Button that opens the Manage test cases page, where you can manage automated testing for Virtual Agent topics. For more information, see [Automated testing for Virtual Agent topics that use NLU topic discovery](../concept/automated-testing-va-topics.md).
+Button that opens the Manage test cases page, where you can manage automated testing for Virtual Agent topics. For more information, see [Automated testing for Virtual Agent topics that use NLU topic discovery](automated-testing-va-topics.md).
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Category
 
 Filter that displays a list of topics belonging to a category that you specify. A category is a label that identifies a group of assets, such as setup topics or prebuilt topics for a particular business application.
 
- You can also define your own custom categories. For details, see [Create or modify custom Virtual Agent categories](../task/create-topic-category.md).
+ You can also define your own custom categories. For details, see [Create or modify custom Virtual Agent categories](create-topic-category.md).
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ NLU Language
 
 Filter that is displayed only if you're using multi-language NLU models. Lists NLU -enabled topics by the language that you select.
 
- Enable the languages for the NLU service in [NLU settings](../task/configure-nlu-settings.md).
+ Enable the languages for the NLU service in [NLU settings](configure-nlu-settings.md).
 
  This field is available only when NLU discovery is enabled on the instance.
 
@@ -187,11 +187,11 @@ Icon that opens a drop-down menu with the following options:
     -   Unpublished topics
     -   Any NLU/Keyword topics
 
-**Note:** You can promote NLU topics in Conversational Interfaces settings, under **Virtual Agent Custom Greetings and Setup**. For more information, see [Configure a Virtual Agent chat experience](../task/configure-default-chat-experience.md).
+**Note:** You can promote NLU topics in Conversational Interfaces settings, under **Virtual Agent Custom Greetings and Setup**. For more information, see [Configure a Virtual Agent chat experience](configure-default-chat-experience.md).
 
 -   **Demote topic**: Replaces the **Promote** option in a promoted topic, to remove the `Promoted` flag.
 -   **Delete topic**: Opens a confirmation dialog box to delete the topic.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+</table>**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
 

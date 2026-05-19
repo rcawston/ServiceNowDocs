@@ -39,7 +39,7 @@ Input variables determine the initial behavior of the flow action.
 
 There are no output variables.
 
-**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](../../security-operations-integrations/concept/secops-integration-cb-get-running-processes-workflow.md)
+**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](secops-integration-cb-get-running-processes-workflow.md)
 
 **Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

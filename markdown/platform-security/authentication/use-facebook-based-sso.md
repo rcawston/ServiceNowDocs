@@ -201,7 +201,7 @@ List of roles applied to the newly provisioned users.
 </td></tr></tbody>
 </table>5.  In the **OIDC Entity** tab, view and modify the OIDC client configuration and OIDC connect flow using the entity record.
 
-    For more information related to OIDC-based configuration, see [Configure an OAuth OIDC provider for accepting third-party token](../../../administer/security/task/add-OIDC-entity.md)
+    For more information related to OIDC-based configuration, see [Configure an OAuth OIDC provider for accepting third-party token](add-OIDC-entity.md)
 
 6.  In the **OIDC Provider Configuration** tab, view and modify the well-know configuration URL of the OIDC IdP.
 

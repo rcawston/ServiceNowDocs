@@ -28,7 +28,7 @@ Role required:
 
 1.  Import your financial accounts, financial products, financial institutions, and transactions data into ServiceNow tables.
 
-    For more information, see [Import your financial data using import sets](../../fso-common/task/import-financial-accounts-products-institutions.md).
+    For more information, see [Import your financial data using import sets](../import-financial-accounts-products-institutions.md).
 
 2.  Review the installed components.
 
@@ -48,7 +48,7 @@ Description
 
 </td><td>
 
-[Configure service definitions](../../fso-common/task/configure-service-definitions.md) to enable unique flows and views for deposit service cases and tasks. You can add new case types and configure service definitions for each type.
+[Configure service definitions](../configure-service-definitions.md) to enable unique flows and views for deposit service cases and tasks. You can add new case types and configure service definitions for each type.
 
 </td></tr><tr><td id="d109569e193">
 
@@ -56,7 +56,7 @@ Description
 
 </td><td>
 
-[Edit or create flows](../../fso-common/task/configure-flow-designer-flows-fso-apps.md) using Workflow Studio.
+[Edit or create flows](../configure-flow-designer-flows-fso-apps.md) using Workflow Studio.
 
 </td></tr><tr><td id="d109569e215">
 
@@ -64,7 +64,7 @@ Description
 
 </td><td>
 
-[Edit or create a new playbook](../../fso-common/task/configure-playbooks-fso-apps.md) using Playbooks.
+[Edit or create a new playbook](../configure-playbooks-fso-apps.md) using Playbooks.
 
 </td></tr><tr><td id="d109569e237">
 
@@ -72,7 +72,7 @@ Description
 
 </td><td>
 
-[Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md) to enable agents to interact with customers and create and work on cases.
+[Configure CSM Configurable Workspace](../configure-csm-workspace-fso-apps.md) to enable agents to interact with customers and create and work on cases.
 
 </td></tr><tr><td id="d109569e265">
 
@@ -80,7 +80,7 @@ Description
 
 </td><td>
 
-[Configure the installed SLAs](../../fso-common/task/configure-sla-definitions-fso-cases.md) to configure SLA timings for deposit service cases and tasks.
+[Configure the installed SLAs](../configure-sla-definitions-fso-cases.md) to configure SLA timings for deposit service cases and tasks.
 
 </td></tr><tr><td id="d109569e284">
 
@@ -88,7 +88,7 @@ Description
 
 </td><td>
 
-[Configure user groups](../../fso-common/task/configure-groups-fso.md) for assignment of cases and tasks. You can also assign roles to groups and users.Configure agent connector and contributor roles for the groups, if required. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+[Configure user groups](../configure-groups-fso.md) for assignment of cases and tasks. You can also assign roles to groups and users.Configure agent connector and contributor roles for the groups, if required. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 </td></tr><tr><td id="d109569e321">
 
@@ -96,7 +96,7 @@ Description
 
 </td><td>
 
-[Configure assignment rules](../../fso-common/task/configure-assignment-rules-fso-applications.md) to identify cases that meet certain conditions and then route those cases to agents.
+[Configure assignment rules](../configure-assignment-rules-fso-applications.md) to identify cases that meet certain conditions and then route those cases to agents.
 
 </td></tr><tr><td id="d109569e337">
 
@@ -104,7 +104,7 @@ Description
 
 </td><td>
 
-[Configure Document Processor](../../fso-common/concept/configuring-fso-document-processor.md) for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
+[Configure Document Processor](../configuring-fso-document-processor.md) for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
 
 </td></tr></tbody>
 </table>

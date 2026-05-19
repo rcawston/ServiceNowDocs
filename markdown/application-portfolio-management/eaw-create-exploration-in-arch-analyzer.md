@@ -87,10 +87,10 @@ In the Architecture Analyzer you can also perform the following:
 
         2.  In the **Delete** pop-up window, select **Delete**. The exploration is permanently deleted.
 
-**Parent Topic:**[Working with architecture analyzer](../../concept/eaw-concept/eaw-work-with-architecture-analyzer.md)
+**Parent Topic:**[Working with architecture analyzer](eaw-work-with-architecture-analyzer.md)
 
 **Related topics**  
 
 
-[Exploring the architecture analyzer](../../concept/eaw-concept/eaw-explore-arch-analyzer.md)
+[Exploring the architecture analyzer](eaw-explore-arch-analyzer.md)
 

@@ -76,5 +76,5 @@ Add text to your landing page with a rich text component to explain parts of you
 
 For more information on rich text components, see the [Developer site Rich text component reference](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-rich-text/overview).
 
-**Parent Topic:**[Workspace Builder reference](../../workspace-builder/concept/workspace-builder-reference.md)
+**Parent Topic:**[Workspace Builder reference](workspace-builder-reference.md)
 

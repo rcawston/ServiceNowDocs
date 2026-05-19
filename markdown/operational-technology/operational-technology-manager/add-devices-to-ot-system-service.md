@@ -45,5 +45,5 @@ After you add the OT devices, the following relationships are created:
 -   The Depends on::Used by relationship between the selected configuration item \(CI\) and the OT system service
 -   The Managed by::Manages relationship between the OT system service and CI's equipment model entity.
 
-**Parent Topic:**[Modeling an Operational Technology system service](../concept/modeling-ot-system.md)
+**Parent Topic:**[Modeling an Operational Technology system service](modeling-ot-system.md)
 

@@ -30,5 +30,5 @@ Installing approval with e-signature installs certain properties.
 
 Installing the plugin also disables the two out-of-the-box Approve UI Actions on the `sysapproval_approver` table.
 
-**Parent Topic:**[Approval with e-signature](../concept/approval-with-e-signature.md)
+**Parent Topic:**[Approval with e-signature](approval-with-e-signature.md)
 

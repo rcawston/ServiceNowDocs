@@ -30,5 +30,5 @@ Role required: admin
     The From address is added to the Email Client From Address \[sys\_email\_client\_from\_address\] table.
 
 
-**Parent Topic:**[Email client configurations](../concept/email-client-configuration.md)
+**Parent Topic:**[Email client configurations](email-client-configuration.md)
 

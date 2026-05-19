@@ -102,16 +102,16 @@ Select this check box to add the related records of the selected observables, in
 
 Activate the flow.
 
-**Parent Topic:**[Exploring TAXII Outbound Server](../concept/tisc-taxii-outbound-server.md)
+**Parent Topic:**[Exploring TAXII Outbound Server](tisc-taxii-outbound-server.md)
 
 **Related topics**  
 
 
-[Create TAXII Collection](../concept/tisc-create-taxii-collection.md)
+[Create TAXII Collection](tisc-create-taxii-collection.md)
 
-[Viewing TAXII Collection Records](../concept/tisc-view-taxii-collection.md)
+[Viewing TAXII Collection Records](tisc-view-taxii-collection.md)
 
-[Create TAXII Collection](../concept/tisc-create-taxii-collection.md)
+[Create TAXII Collection](tisc-create-taxii-collection.md)
 
 [Configuring Outbound Intel Sharing Controls](tisc-outbound-sharing.md)
 

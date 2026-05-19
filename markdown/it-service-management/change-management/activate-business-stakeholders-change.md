@@ -19,7 +19,7 @@ Activate the Business Stakeholder plugin \(com.snc.business\_stakeholder\) if yo
 
 Role required: admin
 
-**Note:** Ensure that ITSM Roles plugin \(com.snc.itsm.roles\) is activated before you activate the Business Stakeholder plugin. For more information to activate ITSM Roles plugin, refer [Request ITSM Roles- Change Management](../../../product/change-management/task/request-itsm-roles-cm.md).
+**Note:** Ensure that ITSM Roles plugin \(com.snc.itsm.roles\) is activated before you activate the Business Stakeholder plugin. For more information to activate ITSM Roles plugin, refer [Request ITSM Roles- Change Management](request-itsm-roles-cm.md).
 
 ## Procedure
 
@@ -39,58 +39,58 @@ Role required: admin
 -   **[Installed with Business Stakeholder](../reference/installed-with-business-stakeholder.md)**  
 The Business Stakeholder plugin \(com.snc.business\_stakeholder\) installs the Business Stakeholder role when activated.
 
-**Parent Topic:**[Change Management plugins](../../../product/change-management/concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
-**Parent Topic:**[Incident Management plugins](../../../product/incident-management/concept/incident-mgmt-plugins.md)
+**Parent Topic:**[Incident Management plugins](../incident-management/incident-mgmt-plugins.md)
 
-**Parent Topic:**[Problem Management plugins](../../../product/problem-management/concept/problem-mgmt-plugins.md)
+**Parent Topic:**[Problem Management plugins](../problem-management/problem-mgmt-plugins.md)
 
-**Parent Topic:**[Request Management reference](../../../product/request-management/concept/request-management-reference.md)
+**Parent Topic:**[Request Management reference](../request-management/request-management-reference.md)
 
 **Related topics**  
 
 
-[Request ITSM Roles- Change Management](../../../product/change-management/task/request-itsm-roles-cm.md)
+[Request ITSM Roles- Change Management](request-itsm-roles-cm.md)
 
-[Activate Change Management - State Model](../../../product/change-management/task/t_ActivateStateModel.md)
+[Activate Change Management - State Model](t_ActivateStateModel.md)
 
-[Activate Change Management - Collision Detector](../../../product/change-management/task/t_ActivateConflictDetection.md)
+[Activate Change Management - Collision Detector](t_ActivateConflictDetection.md)
 
-[Activate Best Practice - Change Risk Calculator](../../../product/change-management/task/activate-change-risk-calculator.md)
+[Activate Best Practice - Change Risk Calculator](activate-change-risk-calculator.md)
 
-[Activate Change Management - Change Schedule](../../../product/change-management/task/activate-changemgmt-changeschedule.md)
+[Activate Change Management - Change Schedule](activate-changemgmt-changeschedule.md)
 
-[Activate Change Management - Risk Assessment](../../../product/change-management/task/activate-change-risk-assessment.md)
+[Activate Change Management - Risk Assessment](activate-change-risk-assessment.md)
 
-[Activate Change Management - Standard Change Catalog](../../../product/change-management/task/t_ActivateStandardChangeCatalog.md)
+[Activate Change Management - Standard Change Catalog](t_ActivateStandardChangeCatalog.md)
 
-[Activate Change Management - Change Success Score](../../../product/change-management/task/activate-change-success-score.md)
+[Activate Change Management - Change Success Score](activate-change-success-score.md)
 
-[Activate Change Management - Mass Update CI](../../../product/change-management/task/t_ActivateChangeManagementBulkCI.md)
+[Activate Change Management - Mass Update CI](t_ActivateChangeManagementBulkCI.md)
 
-[Activate Change Management -Approval policy](../../../product/change-management/task/activate-change-approval-policy.md)
+[Activate Change Management -Approval policy](activate-change-approval-policy.md)
 
-[Activate Change Management - CAB Workbench](../../../product/change-management/task/activate-cab-workbench.md)
+[Activate Change Management - CAB Workbench](activate-cab-workbench.md)
 
-[Activate Change Management ATF Tests](../../../product/change-management/task/activate-changemgmt-atftests.md)
+[Activate Change Management ATF Tests](activate-changemgmt-atftests.md)
 
-[Activate Change Management - Core](../../../product/change-management/task/t_ActivateChangeMgmtCore.md)
+[Activate Change Management - Core](t_ActivateChangeMgmtCore.md)
 
-[Request Change Management - Risk Assessment](../../../product/change-management/task/request-cm-risk-assessment.md)
+[Request Change Management - Risk Assessment](request-cm-risk-assessment.md)
 
-[Request Change Management - Standard Change Template Intelligence](../../../product/change-management/task/request-cm-std-chg-template-intelligence.md)
+[Request Change Management - Standard Change Template Intelligence](request-cm-std-chg-template-intelligence.md)
 
-[Change Management - Predictive Intelligence Core](../../../product/change-management/task/request-cm-picore.md)
+[Change Management - Predictive Intelligence Core](request-cm-picore.md)
 
-[Activate Change Management - Change Flows](../../../product/change-management/task/activate-change-flows.md)
+[Activate Change Management - Change Flows](activate-change-flows.md)
 
-[Activate Change Management - Change Velocity dashboard](../../../product/change-management/task/activate-change-velocity-dashboard.md)
+[Activate Change Management - Change Velocity dashboard](activate-change-velocity-dashboard.md)
 
-[Activate Change Management - Change Models](../../../product/change-management/task/activate-change-models.md)
+[Activate Change Management - Change Models](activate-change-models.md)
 
-[Activate Change Management Success Probability](../../../product/change-management/task/install-chg-mgmt-success-probability.md)
+[Activate Change Management Success Probability](install-chg-mgmt-success-probability.md)
 
-[Activate Change Management - Data Archiving](../../../product/change-management/task/activate-data-retention-archive-rule.md)
+[Activate Change Management - Data Archiving](activate-data-retention-archive-rule.md)
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

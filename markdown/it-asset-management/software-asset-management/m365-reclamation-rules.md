@@ -104,11 +104,11 @@ For example, if Office 365 Enterprise E5, Windows, and EMS subscriptions exist, 
 **Related topics**  
 
 
-[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)
+[Review a software reclamation rule](../saas-license-management/add-reclamation-rule-sub.md)
 
-[Evaluating software usage activity for Microsoft 365 subscriptions](../concept/o365-usage-activity.md)
+[Evaluating software usage activity for Microsoft 365 subscriptions](o365-usage-activity.md)
 
 [Publisher optimizations for Microsoft](pub-opt-microsoft.md)
 
-[Integrating with Microsoft 365](../concept/integrate-with-microsoft.md)
+[Integrating with Microsoft 365](integrate-with-microsoft.md)
 

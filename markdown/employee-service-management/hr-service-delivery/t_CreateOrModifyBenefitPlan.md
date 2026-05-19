@@ -107,5 +107,5 @@ Click and enter the website or link to the benefit plan.
 </table>4.  Click **Save** to stay on the **HR Benefit Plan** form or **Update** to return to the **HR Benefit Plans** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

@@ -33,7 +33,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilteriOSStructure.md#)
+[Filter](FilteriOSStructure.md#)
 
 </td><td>
 
@@ -57,14 +57,14 @@ readConfiguration
 
 </td><td>
 
-[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigurationiOSStruct.md#)
+[FieldReadConfiguration](FieldReadConfigurationiOSStruct.md#)
 
 </td><td>
 
 Optional. Configuration of the fields returned in the response.Default: nil - All fields are returned.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## FetchConfiguration - init\(filter: Filter? = nil, limit: Int? = nil, readConfiguration: FieldReadConfiguration? = nil\)
 
@@ -88,7 +88,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilteriOSStructure.md#)
+[Filter](FilteriOSStructure.md#)
 
 </td><td>
 
@@ -112,7 +112,7 @@ readConfiguration
 
 </td><td>
 
-[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigurationiOSStruct.md#)
+[FieldReadConfiguration](FieldReadConfigurationiOSStruct.md#)
 
 </td><td>
 

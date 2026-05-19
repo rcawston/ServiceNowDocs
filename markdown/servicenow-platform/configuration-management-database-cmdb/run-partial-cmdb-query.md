@@ -29,7 +29,7 @@ While building a query or reviewing a saved query, you can run only a section of
 
 2.  On the CMDB Query Builder page, select a tile to open an existing query.
 
-3.  Select the selection tool under the [navigation tool](../reference/navigation-cmdb-query-builder.md) to switch to a section selection mode.
+3.  Select the selection tool under the [navigation tool](navigation-cmdb-query-builder.md) to switch to a section selection mode.
 
 4.  Border a section of the query:
 

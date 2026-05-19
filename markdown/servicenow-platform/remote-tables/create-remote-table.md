@@ -73,7 +73,7 @@ Remote Table
 
 </td><td>
 
-Option to designate this table as a remote table. A remote table is a table to which you can associate a script definition for retrieval of data from an external data source. Unlike a standard internal table, the data doesn’t come from records in the current instance. To learn more about remote tables, see [Remote tables](../concept/remote-tables.md).
+Option to designate this table as a remote table. A remote table is a table to which you can associate a script definition for retrieval of data from an external data source. Unlike a standard internal table, the data doesn’t come from records in the current instance. To learn more about remote tables, see [Remote tables](remote-tables.md).
 
 </td></tr></tbody>
 </table>4.  In the Columns section, use the **Table Columns** embedded list to add columns to the remote table like you do when you create columns for a standard internal table.
@@ -87,7 +87,7 @@ Option to designate this table as a remote table. A remote table is a table to w
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Remote tables](../concept/remote-tables.md)
+**Parent Topic:**[Remote tables](remote-tables.md)
 
 **Related topics**  
 

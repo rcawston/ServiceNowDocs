@@ -23,5 +23,5 @@ The following image shows the Now Mobile Agent application open in Studio. The N
 
 ![Now Mobile Agent application opened in Studio](../image/icw-mobile-studio.png)
 
-**Parent Topic:**[Configure the Now Mobile Agent application](../task/configure-now-mobile-agent-application-icw-mobile.md)
+**Parent Topic:**[Configure the Now Mobile Agent application](configure-now-mobile-agent-application-icw-mobile.md)
 

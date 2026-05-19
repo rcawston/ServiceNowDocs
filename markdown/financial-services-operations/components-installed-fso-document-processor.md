@@ -217,8 +217,8 @@ Document Processor
 
 </td><td>
 
-This UI Builder page displays the list of required documents defined in the document list definition as a playbook activity. If the document list item indicates that the document can be deferred or have an exception, these options appear in this page. See [Create document list item definitions for a document list definition](../task/doc-processor-associate-document-list-items-to-category.md) for more information.**Note:** This component requires CSM workspace to be installed.
+This UI Builder page displays the list of required documents defined in the document list definition as a playbook activity. If the document list item indicates that the document can be deferred or have an exception, these options appear in this page. See [Create document list item definitions for a document list definition](doc-processor-associate-document-list-items-to-category.md) for more information.**Note:** This component requires CSM workspace to be installed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Operations Document Processor reference](../concept/financial-document-processor-reference.md)
+</table>**Parent Topic:**[Financial Services Operations Document Processor reference](financial-document-processor-reference.md)
 

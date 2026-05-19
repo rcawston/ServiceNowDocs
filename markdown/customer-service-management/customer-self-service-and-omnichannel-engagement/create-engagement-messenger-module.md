@@ -202,7 +202,7 @@ Theme for other styling options of the messenger.
 
  This field is automatically set to **CWF Engagement Messenger Theme**.
 
- If you want to select a different theme, ensure that the theme that you select here must match certain criteria. For more information, see [Engagement Messenger module theme requirements](../reference/engagement-messenger-theme-requirements.md).
+ If you want to select a different theme, ensure that the theme that you select here must match certain criteria. For more information, see [Engagement Messenger module theme requirements](engagement-messenger-theme-requirements.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -254,7 +254,7 @@ Option for enabling the collection of Usage Insights from users of your Engageme
 
 </td></tr><tr><td colspan="2">
 
-As an administrator, you can configure the Proactive Recommendations feature for Engagement Messenger. For more information, see [Proactive Recommendations configuration for Engagement Messenger](../reference/em-behav-recom.md).
+As an administrator, you can configure the Proactive Recommendations feature for Engagement Messenger. For more information, see [Proactive Recommendations configuration for Engagement Messenger](em-behav-recom.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -289,7 +289,7 @@ Authentication type for this embedded messenger. Select one of the following opt
 -   Open ID connect \(OIDC\)-based
  If you want to enable only the guest user experience for the messenger in your website, set this field to **None**.
 
- Ensure that you create an identity provider \(IdP\) for the authentication type you select in this field. For more information, see [Create an identity provider \(IdP\) for Engagement Messenger](../concept/create-identity-providers-for-engagement-messenger.md).
+ Ensure that you create an identity provider \(IdP\) for the authentication type you select in this field. For more information, see [Create an identity provider \(IdP\) for Engagement Messenger](create-identity-providers-for-engagement-messenger.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -376,7 +376,7 @@ The icon appears at the top of the list page and shows applied filters icon in m
 
 6.  Select **Email instructions** to notify your security administrator to complete the following tasks:
 
-    1.  [Create an identity provider \(IdP\) for Engagement Messenger](../concept/create-identity-providers-for-engagement-messenger.md).
+    1.  [Create an identity provider \(IdP\) for Engagement Messenger](create-identity-providers-for-engagement-messenger.md).
     2.  [Configure a CORS rule for Engagement Messenger](create-cors-for-rest-api-ec.md).
     3.  [Create HTTP response headers for Engagement Messenger](create-http-response-headers-for-ec.md).
     **Note:** Engagement Messenger extends service portal capabilities that don’t support domain separation. For more information, see [Domain separation and Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/domain-separation-service-portal.md). However, other tables that are used in Engagement Messenger may support domain separation according to the configurations with which they're created.
@@ -388,10 +388,10 @@ A new messenger configuration is created and listed in the Modules module of the
 
 ## What to do next
 
-1.  [Engagement Messenger properties](../reference/additional-config-for-engagement-messenger.md).
+1.  [Engagement Messenger properties](additional-config-for-engagement-messenger.md).
 2.  [configure the features of Engagement Messenger](configure-features-of-engagement-messenger.md).
 3.  Share the messenger module code with your developer using the **Email code** to embed Engagement Messenger in your website.
 4.  Following are the advanced formatting changes that are available as an optional configuration in Engagement Messenger:
-    -   [Engagement Messenger module theme requirements](../reference/engagement-messenger-theme-requirements.md) to reuse Service Portal theme to customize the visual appearance in Engagement Messenger.
+    -   [Engagement Messenger module theme requirements](engagement-messenger-theme-requirements.md) to reuse Service Portal theme to customize the visual appearance in Engagement Messenger.
     -   [Default font sizes for search result text in Engagement Messenger](modify-search-result-font-size-auto-spell-correction-text.md).
 

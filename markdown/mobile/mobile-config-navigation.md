@@ -40,7 +40,7 @@ Starting with the Australia release, Mobile Studio is being prepared for future 
 
 </td></tr><tr><td>
 
-[Additional Resources![](../image/additional-resources.png)Explore additional Mobile Platform resources to upgrade your mobile experience to the next level.](../reference/mobile-additional-resources.md)
+[Additional Resources![](../image/additional-resources.png)Explore additional Mobile Platform resources to upgrade your mobile experience to the next level.](mobile-additional-resources.md)
 
 </td><td>
 

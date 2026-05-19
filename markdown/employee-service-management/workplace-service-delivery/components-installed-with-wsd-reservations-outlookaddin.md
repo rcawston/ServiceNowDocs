@@ -25,7 +25,7 @@ Demo data is available for this feature.
 |-------------------|-----------|--------------|
 |sn\_wsd\_msaddin.admin|As a Workplace Reservations for Microsoft Outlook Add-in admin, you can access the application completely.|None|
 
-**Parent Topic:**[Workplace Reservations for Microsoft Outlook Add-in references](../concept/workplace-rsv-for-outlook-addin-reference.md)
+**Parent Topic:**[Workplace Reservations for Microsoft Outlook Add-in references](workplace-rsv-for-outlook-addin-reference.md)
 
 **Related topics**  
 

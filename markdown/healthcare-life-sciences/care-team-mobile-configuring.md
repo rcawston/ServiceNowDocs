@@ -15,7 +15,7 @@ Set up the Care Team Mobile application.
 
 ## Configuration overview
 
-1.  [Activate Care Team Mobile](../task/cto-mobile-install.md)
+1.  [Activate Care Team Mobile](cto-mobile-install.md)
 
     Activate the Care Team Mobile plugin \[com.sn\_cto\_mobile\] if you have the admin role. This plugin includes demo data and activates related plugins if they aren’t already active.
 
@@ -23,7 +23,7 @@ Set up the Care Team Mobile application.
 
     User access for Care Team Mobile is based on whether users have been assigned the Team Member or Team Manager role.
 
-3.  [Enable Push Notifications for Care Team Mobile](../task/cto-mobile-enable-push-notifications.md)
+3.  [Enable Push Notifications for Care Team Mobile](cto-mobile-enable-push-notifications.md)
 
     Push notifications for Care Team Mobile must be enabled manually.
 

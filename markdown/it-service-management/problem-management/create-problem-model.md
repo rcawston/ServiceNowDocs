@@ -17,7 +17,7 @@ Create custom Problem Management models with states and transitions tailored to 
 
 ## Before you begin
 
-See considerations for enabling Problem Management models at [Problem Management models](../concept/problem-mgmt-models.md).
+See considerations for enabling Problem Management models at [Problem Management models](problem-mgmt-models.md).
 
 Role required: admin
 
@@ -34,7 +34,7 @@ Role required: admin
 
     2.  On the Problem Model form, fill in the fields.
 
-        For more information, see [Problem model form](../reference/problem-model-form.md).
+        For more information, see [Problem model form](problem-model-form.md).
 
 2.  Choose the states for your custom model by selecting **Save** from the form context menu icon \(![Form context menu icon.](../../change-management/image/form-context-menu.png)\).
 
@@ -69,7 +69,7 @@ Role required: admin
 
     2.  On the Model State Transition Condition form, fill in the fields.
 
-        For more information, see [Problem Management model state transition condition form](../reference/problem-model-state-transition-condition.md).
+        For more information, see [Problem Management model state transition condition form](problem-model-state-transition-condition.md).
 
     3.  Select **Submit** for each transition condition you add.
 
@@ -78,7 +78,7 @@ Role required: admin
 
 If you selected the **Default problem model** option in the Problem Model form, your custom problem model is used when new problems are created.
 
-**Parent Topic:**[Configuring Problem Management](../concept/configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](configuring-problem-mgmt.md)
 
 **Previous topic:**[Enable Problem Management models](enable-problem-mgmt-models.md)
 

@@ -35,18 +35,18 @@ Role required: admin
     -   Request Rejected
     -   Agent adds comment to Requested Item
 
-**Parent Topic:**[Request experience in Now Mobile](../concept/now-mobile-catalog.md)
+**Parent Topic:**[Request experience in Now Mobile](now-mobile-catalog.md)
 
 **Related topics**  
 
 
-[Configure catalogs](../../../administer/mobile-employee/task/configure-catalog.md)
+[Configure catalogs](configure-catalog.md)
 
 [Browse catalog items using the catalog hierarchy](now-mob-browse-cat-item-catalog.md)
 
-[Submit and track a request](../../../administer/mobile-employee/task/order-item.md)
+[Submit and track a request](order-item.md)
 
-[Create a quick action in your mobile applications](../../../administer/mobile-employee/task/sc-quick-action.md)
+[Create a quick action in your mobile applications](sc-quick-action.md)
 
 [Enable the cart in Now Mobile](enable-cart-mobile.md)
 

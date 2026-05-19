@@ -65,18 +65,18 @@ Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Administration
 3.  Select **Execute Now**.![Selected button for running the document configuration manually.](../image/run-doc-config-manually.png)
 
 
-**Parent Topic:**[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+**Parent Topic:**[Supplier Document Management](supp-doc-mgmt-overview.md)
 
 **Related topics**  
 
 
 [Create a supplier document configuration](create-doc-config.md)
 
-[Uploading supplier documents](../concept/upload-doc-about.md)
+[Uploading supplier documents](upload-doc-about.md)
 
 [Configure document expiration monitoring attributes](configure-document-expiration-monitoring-attributes.md)
 
 [Create a supplier document configuration](create-doc-config.md)
 
-[Uploading supplier documents](../concept/upload-doc-about.md)
+[Uploading supplier documents](upload-doc-about.md)
 

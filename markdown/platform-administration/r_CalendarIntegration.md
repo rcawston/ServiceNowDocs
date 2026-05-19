@@ -33,10 +33,10 @@ The instance uses the **External Name** value as the variable name in the email 
 |dtstart|*$\{dtstart*\}|change\_request|start\_date|Planned start date|
 |dtend|*$\{dtend*\}|change\_request|end\_date|Planned end date|
 
--   **[Map date fields to iCalendar variables](../task/t_MapDateFieldsToiCalVariables.md)**  
+-   **[Map date fields to iCalendar variables](t_MapDateFieldsToiCalVariables.md)**  
 You can specify what fields provide the date information in calendar invitation notifications by changing the field mappings of the *dtstart* and *dtend* variables in the import export map for the iCalendar invitation.
--   **[Create iCalendar invitations for custom tables](../task/t_CRiCalendarInvCustomTables.md)**  
+-   **[Create iCalendar invitations for custom tables](t_CRiCalendarInvCustomTables.md)**  
 To generate iCalendar invitations that use field values from custom tables, create an import export map that computes the values of the iCalendar fields.
 
-**Parent Topic:**[Email templates](../concept/c_EmailTemplates.md)
+**Parent Topic:**[Email templates](c_EmailTemplates.md)
 

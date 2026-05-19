@@ -17,7 +17,7 @@ Resolve errors and monitor the status of Instance Data Replication \(IDR\) repli
 
 ## Monitoring and diagnostic checklist
 
-When you notice that the system is not replicating data, you can use the diagnostics checks to investigate the problem. To monitor the overall health of all replication sets, see [IDR Monitoring dashboard](../concept/instance-data-replication-dashboard.md).
+When you notice that the system is not replicating data, you can use the diagnostics checks to investigate the problem. To monitor the overall health of all replication sets, see [IDR Monitoring dashboard](instance-data-replication-dashboard.md).
 
 <table id="table_dsk_121_mkb"><thead><tr><th>
 
@@ -33,7 +33,7 @@ Monitor
 
 </td></tr><tr><td>
 
-[Check connectivity](../task/test-IDR-connectivity.md)
+[Check connectivity](test-IDR-connectivity.md)
 
 </td><td>
 
@@ -41,7 +41,7 @@ Test your IDR instance connectivity to determine the connectivity of your instan
 
 </td></tr><tr><td>
 
-[Check IDR monitoring dashboard to see if replication jobs are active](../concept/instance-data-replication-dashboard.md)
+[Check IDR monitoring dashboard to see if replication jobs are active](instance-data-replication-dashboard.md)
 
 </td><td>
 
@@ -81,7 +81,7 @@ Review the consumer access requests for your producer replication sets. A consum
 
 </td></tr><tr><td>
 
-[Check producer replication log errors](../task/debug-instance-data-replication.md)
+[Check producer replication log errors](debug-instance-data-replication.md)
 
 </td><td>
 
@@ -101,7 +101,7 @@ If the status of your consumer replication set is In Draft, click **Activate**.
 
 </td></tr><tr><td>
 
-[Check if you need to synchronize replication sets](../task/synchronization-errors.md)
+[Check if you need to synchronize replication sets](synchronization-errors.md)
 
 </td><td>
 
@@ -121,7 +121,7 @@ Error and status messages
 
 </td></tr><tr><td>
 
-[Check replication or replication metadata log errors](../task/debug-instance-data-replication.md)
+[Check replication or replication metadata log errors](debug-instance-data-replication.md)
 
 </td><td>
 
@@ -136,39 +136,39 @@ Identify IDR errors by viewing the metadata for messages between producer and co
 Review these status messages with recovery information.
 
 </td></tr></tbody>
-</table>-   **[Run Instance Data Replication diagnostics](../task/test-IDR-connectivity.md)**  
+</table>-   **[Run Instance Data Replication diagnostics](test-IDR-connectivity.md)**  
 Verify the status of services and the connection between your instance and the Instance Data Replication \(IDR\) message queue.
--   **[Review synchronization errors in Instance Data Replication](../task/synchronization-errors.md)**  
+-   **[Review synchronization errors in Instance Data Replication](synchronization-errors.md)**  
 Review the status field to check if synchronization is working correctly on the Instance Data Replication \(IDR\) consumer instance.
--   **[Discover replication delays in Instance Data Replication](../task/diagnose-delayed-replication.md)**  
+-   **[Discover replication delays in Instance Data Replication](diagnose-delayed-replication.md)**  
 Monitor possible data replication issues by using the Instance Data Replication \(IDR\) Monitoring Dashboard.
--   **[Fix seeding errors in Instance Data Replication](../task/fix-seeding-errors.md)**  
+-   **[Fix seeding errors in Instance Data Replication](fix-seeding-errors.md)**  
 Retry Instance Data Replication \(IDR\) seeding on tables with seeding errors, which occur from network problems and failed inserts, so that you don't have to do a full seeding.
--   **[Identify Instance Data Replication errors](../task/debug-instance-data-replication.md)**  
+-   **[Identify Instance Data Replication errors](debug-instance-data-replication.md)**  
 Identify Instance Data Replication \(IDR\) errors by viewing the metadata for messages between producer and consumer instances, payload error logs, and message logs.
--   **[Configure error notifications in Instance Data Replication](../task/configure-notification-idr.md)**  
+-   **[Configure error notifications in Instance Data Replication](configure-notification-idr.md)**  
 Notify one or more users when errors occur in Instance Data Replication \(IDR\).
 -   **[Consumer replication set status in Instance Data Replication](instance-data-replication-error.md)**  
 Review the status of your consumer replication set and research error messages to identify or fix Instance Data Replication \(IDR\) replication issues.
 -   **[Instance Data Replication XML stats](IDR-XML-stats.md)**  
 Extract Instance Data Replication \(IDR\)-related data from your instance to monitor replication status.
 
-**Parent Topic:**[Administering Instance Data Replication](../concept/administering-instance-data-replication.md)
+**Parent Topic:**[Administering Instance Data Replication](administering-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Manage consumer access to replication data in Instance Data Replication](../task/approve-consumer.md)
+[Manage consumer access to replication data in Instance Data Replication](approve-consumer.md)
 
-[Comparing replicated data between instances in Instance Data Replication](../concept/comparing-replicated-data.md)
+[Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md)
 
-[Deploying a replication configuration from one instance to another in Instance Data Replication](../concept/copying-replication-configuration.md)
+[Deploying a replication configuration from one instance to another in Instance Data Replication](copying-replication-configuration.md)
 
-[Cloning options with Instance Data Replication](../concept/cloning-with-instance-data-replicaton.md)
+[Cloning options with Instance Data Replication](cloning-with-instance-data-replicaton.md)
 
-[Monitoring replication status in Instance Data Replication](../concept/instance-data-replication-dashboard.md)
+[Monitoring replication status in Instance Data Replication](instance-data-replication-dashboard.md)
 
-[Monitoring queues in Instance Data Replication](../concept/idr-queue-dashboard.md)
+[Monitoring queues in Instance Data Replication](idr-queue-dashboard.md)
 
-[Avoiding insert and update errors in Instance Data Replication](../concept/preventing-insert-update-errors.md)
+[Avoiding insert and update errors in Instance Data Replication](preventing-insert-update-errors.md)
 

@@ -34,5 +34,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |result \[string\]|Indicates whether the update was successful.|
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

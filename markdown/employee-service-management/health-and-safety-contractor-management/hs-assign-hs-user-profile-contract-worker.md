@@ -37,7 +37,7 @@ Role required: sn\_hs\_crm.contractor\_coordinator
 
 5.  On the form, fill in the fields.
 
-    For information on form field descriptions, see [Health and Safety profile form](../../ohs-incident-management/reference/hs-health-safety-profile-form.md).
+    For information on form field descriptions, see [Health and Safety profile form](../health-and-safety-core/hs-health-safety-profile-form.md).
 
 6.  Select **Save**.
 

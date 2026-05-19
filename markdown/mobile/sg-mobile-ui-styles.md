@@ -57,7 +57,7 @@ Icons
 
  Use icons to provide unique visual identifiers for navigation tabs and quick actions in your mobile applications.
 
- To learn more about mobile icons, see [Mobile icons](../reference/sg-mobile-icon.md).
+ To learn more about mobile icons, see [Mobile icons](sg-mobile-icon.md).
 
  **Note:** Custom mobile icons are not supported.
 

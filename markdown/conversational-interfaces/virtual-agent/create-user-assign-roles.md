@@ -39,5 +39,5 @@ Role required: admin
 6.  Click **Create user**.
 
 
-**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](../concept/configure-aws-account.md)
+**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](configure-aws-account.md)
 

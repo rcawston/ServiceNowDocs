@@ -96,7 +96,7 @@ Create Zoom Meeting
 
 </td><td>
 
-Creates a Zoom meeting and provides the Zoom meeting URL.This subflow is used by the Meeting scheduler AI agent in the [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md) application.
+Creates a Zoom meeting and provides the Zoom meeting URL.This subflow is used by the Meeting scheduler AI agent in the [Now Assist for Integration Hub](now-assist-spokes.md) application.
 
 </td></tr></tbody>
 </table>## Spoke modules
@@ -731,7 +731,7 @@ team\_chat:read:user\_message:admin
 </td></tr></tbody>
 </table>## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -763,5 +763,5 @@ These actions use REST calls, which can run on an instance or Zoom spoke See [Bu
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-This spoke uses the Zoom Connection &amp; Credential Alias record to authorize actions. For information about setting up the spoke, see [Set up the Zoom spoke](../task/setup-zoom.md#).
+This spoke uses the Zoom Connection &amp; Credential Alias record to authorize actions. For information about setting up the spoke, see [Set up the Zoom spoke](setup-zoom.md#).
 

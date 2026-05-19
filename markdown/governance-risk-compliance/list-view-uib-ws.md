@@ -41,8 +41,8 @@ You can view 360° relationship data for BIAs, plans, exercises, and crisis even
 
 The configurations for the 360° view are stored in **360° View Configurations** &gt; **Configure 360° Views**. If you have the BCM administrator role, you can configure the relationships for the records in **360° View Configurations** &gt; **Relationship Registries**.
 
--   For information on configuring 360° relationship registries and views, see [Configure 360° relationship registries and views](../task/configure-relationship-registries-views.md).
--   For information on how to view 360º relationships of a business impact analysis, see [Visualize 360° relationships for BIAs](../task/visualize-360-degree-view-for-bia.md).
--   For information on how to view 360º relationships of a business continuity plan, see [Visualize 360° relationships for the BCP](../task/relationship-view-bcp.md).
--   For information on how to view 360º relationships of an exercise or crisis event, see [View 360° relationships for exercises and crises](../task/relationship-view-exercise-crisis.md).
+-   For information on configuring 360° relationship registries and views, see [Configure 360° relationship registries and views](configure-relationship-registries-views.md).
+-   For information on how to view 360º relationships of a business impact analysis, see [Visualize 360° relationships for BIAs](visualize-360-degree-view-for-bia.md).
+-   For information on how to view 360º relationships of a business continuity plan, see [Visualize 360° relationships for the BCP](relationship-view-bcp.md).
+-   For information on how to view 360º relationships of an exercise or crisis event, see [View 360° relationships for exercises and crises](relationship-view-exercise-crisis.md).
 

@@ -55,5 +55,5 @@ When an employee enters one of the configured sensitive phrases, the virtual age
 
 [bundle-platai.now-assist-guardian]
 
-[Sensitivity detection filters mapping](../reference/reference-sd-info-values.md)
+[Sensitivity detection filters mapping](reference-sd-info-values.md)
 

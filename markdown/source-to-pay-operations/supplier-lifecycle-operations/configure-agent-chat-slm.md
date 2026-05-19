@@ -38,7 +38,7 @@ Role required: admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](../concept/awa-slm-config.md)
+**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)
 
 **Related topics**  
 

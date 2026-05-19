@@ -17,7 +17,7 @@ The Clone Admin Console is the user interface where administrators can manage, r
 
 The home page displays the current clones in your instance. Use the search bar to locate your clone.
 
-Filter options enable you to locate a clone based on its status. To view a list of statuses, see [Clone states](../reference/clone-states.md).
+Filter options enable you to locate a clone based on its status. To view a list of statuses, see [Clone states](clone-states.md).
 
 **Note:** Beginning with the Australia release, users attempting to access the legacy Instance Clone page, **clone\_instance.do**, are redirected instead to the [Clone Admin Console](Clone-UI.md#). To view clone history for clones prior to the Australia release, view the legacy Clone History \[clone\_instance\] table.
 
@@ -35,5 +35,5 @@ The definitions tab displays an overview for exclusions, preservers, and cleanup
 
 ## Request clone
 
-The clone request page contains guidance and explanations for how the various clone settings affect your clone. You can use the scheduling calendar to help to prevent timing conflicts with ServiceNow maintenance windows. To learn more about how to request a clone see [Request a clone](../task/t_StartAClone.md#).
+The clone request page contains guidance and explanations for how the various clone settings affect your clone. You can use the scheduling calendar to help to prevent timing conflicts with ServiceNow maintenance windows. To learn more about how to request a clone see [Request a clone](t_StartAClone.md#).
 

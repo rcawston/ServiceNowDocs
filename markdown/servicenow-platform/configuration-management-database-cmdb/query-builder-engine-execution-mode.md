@@ -48,7 +48,7 @@ The system uses the following settings of execution mode to determine which exec
 
 -   Query-level setting:
 
-    The **Query Execution Mode** attribute in the Saved Queries \[qb\_saved\_query\] table sets the engine mode for the respective query. For more information about this setting, see [Set execution mode for running a query](../task/config-query-builder-engine-mode.md).
+    The **Query Execution Mode** attribute in the Saved Queries \[qb\_saved\_query\] table sets the engine mode for the respective query. For more information about this setting, see [Set execution mode for running a query](config-query-builder-engine-mode.md).
 
     The query-level setting has precedence over system property settings.
 
@@ -63,7 +63,7 @@ The system uses the following settings of execution mode to determine which exec
     This property has precedence over the **glide.cmdb.query.execution\_mode** system property.
 
 
-For more information about the engine mode system properties, see [Property settings for CMDB Query Builder](../reference/cmdb-querybldr-sysproprties.md).
+For more information about the engine mode system properties, see [Property settings for CMDB Query Builder](cmdb-querybldr-sysproprties.md).
 
 ## Unsupported query structures for V2 mode
 

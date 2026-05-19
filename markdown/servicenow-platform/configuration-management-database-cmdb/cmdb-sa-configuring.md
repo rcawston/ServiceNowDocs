@@ -17,15 +17,15 @@ Complete the configuration tasks to start using the CMDB success advisor.
 
 ## Configuration overview
 
-1.  [Install CMDB success advisor](../task/cmdb-sa-install.md).
+1.  [Install CMDB success advisor](cmdb-sa-install.md).
 
     Set up CMDB success advisor by installing the application.
 
-2.  [Assign roles for CMDB success advisor users](../task/cmdb-sa-assign-roles.md).
+2.  [Assign roles for CMDB success advisor users](cmdb-sa-assign-roles.md).
 
     Assign roles to control access to features, capabilities, and data in the CMDB success advisor application.
 
-3.  Optional: [Configure record count visibility in the CMDB success advisor dashboard for managing large datasets](../task/cmdb-sa-optimize-donut-perf.md).
+3.  Optional: [Configure record count visibility in the CMDB success advisor dashboard for managing large datasets](cmdb-sa-optimize-donut-perf.md).
 
     Improve the performance of the CMDB success advisor dashboards by hiding the record count on click-through from donut charts using a configurable system property.
 

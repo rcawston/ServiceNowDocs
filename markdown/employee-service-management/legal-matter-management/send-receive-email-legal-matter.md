@@ -77,5 +77,5 @@ After the email is sent, it is added to the activity stream on the legal matter 
 
 Legal matters marked as Privileged and Confidential, contain confidentiality markers to comply with legal requirements. This applies to both system-generated notifications and fulfiller-initiated outbound emails.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 

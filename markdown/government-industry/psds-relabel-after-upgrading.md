@@ -72,5 +72,5 @@ Certain menus and menu items in the CSM Configurable Workspace are relabeled for
         In the **Title** field, change `Service Organization External Staff` to `External Staff`.
 
 
-**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](../concept/setting-up-csm-fsm.md)
+**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](setting-up-csm-fsm.md)
 

@@ -45,7 +45,7 @@ Application Manager
 
 </td><td>
 
-Application Manager is active by default on instances on the Australia release. Upgrade your instance to Australia patch 4 or later to use the latest features. For information about upgrading your ServiceNow AI Platform instance, see [Prepare your upgrade](../concept/rn-prepare-landing-page.md).
+Application Manager is active by default on instances on the Australia release. Upgrade your instance to Australia patch 4 or later to use the latest features. For information about upgrading your ServiceNow AI Platform instance, see [Prepare your upgrade](rn-prepare-landing-page.md).
 
 </td></tr><tr><td>
 
@@ -54,7 +54,7 @@ Application Vulnerability Response
 </td><td>
 
 -   If you are currently using Application Vulnerability Response, and you do not intend to upgrade to Unified Security Exposure Management \(USEM\), install a version below v30.x of Application Vulnerability Response and for upgrades to supported third-party integration applications.
--   For information about the new features of Vulnerability Response, see the [Vulnerability Response release notes](../security-operations/secops-vuln-resp-rn.md).
+-   For information about the new features of Vulnerability Response, see the [Vulnerability Response release notes](release-notes/secops-vuln-resp-rn.md).
 -   For more information about the released versions of the Application Vulnerability Response application as well as the third-party and ServiceNow applications that are compatible with the Australia release, see the [Vulnerability Response Compatibility Matrix and Release Schema Changes \[KB0856498\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0856498) article in the Now Support Knowledge Base.
 
 </td></tr><tr><td>
@@ -351,9 +351,9 @@ To use the Knowledge Article Advanced Editor page in the generate a knowledge ar
 4.  Select **Knowledge**.
 5.  Make sure the knowledge content recommendation skill is active.
 
-The incident assist agentic workflow is active by default and includes all the capabilities of the \[DEPRECATED\] incident assist skill, with enhancements. When you upgrade to [Australia Patch 1](../quality/australia-patch-1.md), if you have the \[DEPRECATED\] incident assist skill activated, consider deactivating it to avoid redundancy. For more information, see [Incident assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-incident-assist.md).
+The incident assist agentic workflow is active by default and includes all the capabilities of the \[DEPRECATED\] incident assist skill, with enhancements. When you upgrade to [Australia Patch 1](australia-patch-1.md), if you have the \[DEPRECATED\] incident assist skill activated, consider deactivating it to avoid redundancy. For more information, see [Incident assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-incident-assist.md).
 
-Starting with the [Australia Patch 2](../quality/australia-patch-2.md), the Incident assist skill has been deprecated, moved to the **Archive** section, and is no longer available for use.
+Starting with the [Australia Patch 2](australia-patch-2.md), the Incident assist skill has been deprecated, moved to the **Archive** section, and is no longer available for use.
 
 </td></tr><tr><td>
 
@@ -568,7 +568,7 @@ After upgrading to version 21.0.x, you can enable the Smart Assessment Engine \(
 
 Set this property in your non-production instances and conduct thorough testing before changing your production instances. Failure to do so may result in unexpected issues.
 
-For more information on upgrading from VRM to TPRM and the differences between the Smart and Classic Assessment engines, see [Third-party Risk Management upgrade information](../governance-risk-compliance/grc-tprm-upgrade-info.md).
+For more information on upgrading from VRM to TPRM and the differences between the Smart and Classic Assessment engines, see [Third-party Risk Management upgrade information](release-notes/grc-tprm-upgrade-info.md).
 
 For existing TPRM customers, after upgrading to version 21.0.3, data from the Industry column in the Company \[core\_company\] table is automatically migrated to the tprm\_industry column. Migration can take several hours depending on the number of records in the Company \[core\_company\] table. After migration, a system log message confirms that the migration is complete. Review the Company \[core\_company\] table content and update any customizations referencing the Industry field to use tprm\_industry. After verifying the migration and updating customizations, you can drop the Industry column.
 
@@ -591,5 +591,5 @@ If you're currently using Vulnerability Response, and you do not intend to upgra
 For more information about the released versions of the Vulnerability Response application as well as the third-party and ServiceNow applications that are compatible with the Australia release, see the [Vulnerability Response Compatibility Matrix and Release Schema Changes \[KB0856498\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0856498) article in the Now Support Knowledge Base
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](release-notes-summaries.md)
 

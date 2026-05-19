@@ -23,5 +23,5 @@ The following diagram shows how the transitions work:
 
 ![Task SLA simple condition stage transition diagram](../image/SLAConditionSimple.png "SLAConditionSimple")
 
-**Parent Topic:**[SLA condition rules](../concept/c_SLAConditionRules.md)
+**Parent Topic:**[SLA condition rules](c_SLAConditionRules.md)
 

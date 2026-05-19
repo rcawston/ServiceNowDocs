@@ -45,7 +45,7 @@ When manually testing performance, you can see how the agentic workflow and its 
 
 6.  In the Version drop-down list, select the version of the AI agent you want to test.
 
-    See [Version control for AI agents and agentic workflows](../concept/version-control.md) for more information about creating and changing versions.
+    See [Version control for AI agents and agentic workflows](version-control.md) for more information about creating and changing versions.
 
 7.  In the Task drop-down list, provide a concise summary of the task to be achieved.
 

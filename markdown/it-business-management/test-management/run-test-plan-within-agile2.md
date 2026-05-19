@@ -59,7 +59,7 @@ The overall status of the test is defined by statuses of the test steps:
 -   If at least one step of the test fails, the overall status of the test is **Failed**. This rule takes precedence over the previous rule.
 -   If at least one step of the test is blocked, the overall status of the test is **Blocked**. This rule takes precedence over the previous two rules.
 
-**Parent Topic:**[Sprint testing](../concept/sprint-testing.md)
+**Parent Topic:**[Sprint testing](sprint-testing.md)
 
 **Related topics**  
 

@@ -148,7 +148,7 @@ The Product Service select version of the case type selector displays the availa
 -   Description
 -   Image
 
-When an administrator creates a service definition, they can provide a name for the service. They can also provide a description of the service and add an image to represent the service. For more information, see [Create a service definition](../task/create-csm-service-definition.md).
+When an administrator creates a service definition, they can provide a name for the service. They can also provide a description of the service and add an image to represent the service. For more information, see [Create a service definition](create-csm-service-definition.md).
 
 ## Browsing services in the case type selector
 

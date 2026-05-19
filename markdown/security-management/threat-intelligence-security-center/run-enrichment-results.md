@@ -50,18 +50,18 @@ Role required: sn\_sec\_tisc.admin
     ![Enrichment actions](../image/tisc-observables-enrichments.png)
 
 
-**Parent Topic:**[Threat Analyst Workbench](../concept/threat-analyst-workbench.md)
+**Parent Topic:**[Threat Analyst Workbench](threat-analyst-workbench.md)
 
 **Related topics**  
 
 
-[Workbench Overview](../concept/workbench-overview.md)
+[Workbench Overview](workbench-overview.md)
 
-[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+[Creating cases using Threat Analyst Workbench](create-cases-using-threat-analyst-workbench.md)
 
 [Creating case task using Threat Analyst Workbench](tisc-create-case-task.md)
 
-[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+[Working with Investigation Canvas](tisc-investigation-canvases.md)
 
 [Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
 

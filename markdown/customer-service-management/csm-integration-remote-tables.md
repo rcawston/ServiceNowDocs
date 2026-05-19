@@ -13,7 +13,7 @@ breadcrumb: [Reference Salesforce integration using remote tables, Third-party d
 
 Create Salesforce spoke actions that you can use to test the third-party data integration. Then use these actions in the remote table definition.
 
--   **[Using the IntegrationHub Salesforce spoke](../task/config-csm-integration-salesforce.md)**  
+-   **[Using the IntegrationHub Salesforce spoke](config-csm-integration-salesforce.md)**  
 Use the Salesforce spoke to integrate a Salesforce account with your ServiceNow instance.
 -   **[Create Salesforce spoke actions to retrieve opportunities](csm-integration-salesforce-spoke.md)**  
 The Salesforce spoke provides actions to retrieve metadata of the opportunity record and create a new opportunity.

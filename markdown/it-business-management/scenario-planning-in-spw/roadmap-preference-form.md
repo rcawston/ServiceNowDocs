@@ -118,10 +118,10 @@ List of fields used as the metrics for the roadmap items.
  These values are displayed when you point the mouse cursor on the roadmap item.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Customize the planning item display preferences for Prioritization and Roadmap](../task/configure-source-table-preferences-for-roadmap.md)
+[Customize the planning item display preferences for Prioritization and Roadmap](configure-source-table-preferences-for-roadmap.md)
 

@@ -21,11 +21,11 @@ You can add references directly and view all document references in other record
 
 You can create and link document references directly from references or from the document record.
 
--   **[Create document references from document record](../task/link-document-with-reference.md)**  
+-   **[Create document references from document record](link-document-with-reference.md)**  
 Link the document record to other records in any other table or record.
--   **[Create document reference from References](../task/create-doc-ref-doc-form.md)**  
+-   **[Create document reference from References](create-doc-ref-doc-form.md)**  
 Link document references to any record directly from the References list. You can easily see all documents linked to tables and target records.
--   **[Delete a document reference from document record](../task/delete-doc-ref-doc-rec.md)**  
+-   **[Delete a document reference from document record](delete-doc-ref-doc-rec.md)**  
 Remove and unlink a document reference from a document record.
 
 **Parent Topic:**[Using Document Management](using-document-management.md)

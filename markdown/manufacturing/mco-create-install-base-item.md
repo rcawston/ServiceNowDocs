@@ -31,7 +31,7 @@ Install base items help to track instances that have been provisioned for an acc
 
 3.  On the Install based item form, fill in the fields.
 
-    For a description of the field values, see [Install based item form](../reference/install-based-item-form.md).
+    For a description of the field values, see [Install based item form](install-based-item-form.md).
 
 4.  Select **Save**.
 

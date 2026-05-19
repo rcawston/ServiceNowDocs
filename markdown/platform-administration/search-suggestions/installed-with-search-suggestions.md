@@ -54,7 +54,7 @@ Submits searches that the system ignores when generating search or auto-complete
 None
 
 </td></tr></tbody>
-</table>For more details on restricting generation of search suggestions, see [Prevent the creation of suggestions in special cases](../task/preventing-suggestions.md).
+</table>For more details on restricting generation of search suggestions, see [Prevent the creation of suggestions in special cases](preventing-suggestions.md).
 
 ## Scheduled jobs installed
 

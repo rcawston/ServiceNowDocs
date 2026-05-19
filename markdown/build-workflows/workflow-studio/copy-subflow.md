@@ -52,5 +52,5 @@ You can't copy subflows that have a protection policy. You must have write acces
 
 Workflow Studio opens the new subflow.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

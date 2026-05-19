@@ -17,7 +17,7 @@ Create an application file in an embedded ServiceNow AI Platform user interface 
 
 ## Before you begin
 
-Create, convert, or clone an application and add it to your workspace. For more information, see [Adding applications in ServiceNow IDE](../concept/creating-applications-servicenow-ide.md).
+Create, convert, or clone an application and add it to your workspace. For more information, see [Adding applications in ServiceNow IDE](creating-applications-servicenow-ide.md).
 
 Role required: admin
 
@@ -54,5 +54,5 @@ If you need to create some application metadata outside of source code, you can 
 9.  Select **Submit**.
 
 
-**Parent Topic:**[Developing applications with the ServiceNow IDE](../concept/developing-applications-servicenow-ide.md)
+**Parent Topic:**[Developing applications with the ServiceNow IDE](developing-applications-servicenow-ide.md)
 

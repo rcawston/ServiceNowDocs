@@ -42,5 +42,5 @@ Role required: sn\_sec\_tisc.analyst
     Click **Unlink** button to unlink the objects
 
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](observables.md)
 

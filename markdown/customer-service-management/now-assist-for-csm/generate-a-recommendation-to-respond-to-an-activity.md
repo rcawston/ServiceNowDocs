@@ -48,7 +48,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 3.  Select **Insert**.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 
 **Related topics**  
 

@@ -30,7 +30,7 @@ Set the user credentials and grant permissions:
 -   Configure [Applicative credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/applicative-creds.md).
 -   For Windows, configure [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md)
 -   For Unix, configure [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md)
--   For the Oracle database, configure [Oracle database discovery](../../discovery/concept/c_OracleDatabaseDiscovery.md)
+-   For the Oracle database, configure [Oracle database discovery](../itom-visibility/c_OracleDatabaseDiscovery.md)
 -   Provide a user with permissions to run queries on the following tables:
     -   V$DATAFILE
     -   V$TEMPFILE​
@@ -67,7 +67,7 @@ The following is a dependency view of the relationship between PDBs, CDBs, and c
 
 ![Dependency view of relationship between PDBs, CDBs, and containers](../image/oracle-pdb-cdb.png)
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 
 **Related topics**  
 

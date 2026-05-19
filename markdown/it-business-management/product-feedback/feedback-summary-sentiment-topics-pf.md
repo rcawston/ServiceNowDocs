@@ -21,7 +21,7 @@ Multi feedback summarization video.
 
 If you have users with custom roles that need access to this skill, you must update ACLs for those roles and also add those custom roles to the In product role.
 
-The Feedback or Multi feedback summarization skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../../now-assist-spm/concept/configuring-na-spm.md).
+The Feedback or Multi feedback summarization skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
 
 Role required: pf\_user
 

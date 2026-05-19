@@ -117,5 +117,5 @@ If your SAP BTP global account already includes a subaccount with these entitlem
 
 Now that you've created a subaccount with the required entitlements, go on to configure service instances and service keys in your SAP BTP global account. For details on this procedure, see [Configure SAP DMS for external content indexing](configure-sap-dms-external-content-indexing.md).
 
-**Parent Topic:**[SAP DMS external content connector](../concept/sap-dms-external-content-connector.md)
+**Parent Topic:**[SAP DMS external content connector](sap-dms-external-content-connector.md)
 

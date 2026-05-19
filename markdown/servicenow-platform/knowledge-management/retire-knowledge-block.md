@@ -30,7 +30,7 @@ Role required: user must have contributor access to the knowledge base.
     **Note:**
 
     -   Starting from the Australia release, you can retire the knowledge block attached to an article by setting the \(**glide.knowman.allow\_retire\_block**\) system property to true.
-    -   Any additional steps required to retire the knowledge block, such as approvals, depend on the workflow for the knowledge base. See [Knowledge workflows](../reference/r_KnowledgeWorkflows.md#) for more information.
+    -   Any additional steps required to retire the knowledge block, such as approvals, depend on the workflow for the knowledge base. See [Knowledge workflows](r_KnowledgeWorkflows.md#) for more information.
     -   A knowledge block can only be deleted if it's not being used in any knowledge article, including any retired article or previous version of an article.
 
 ## Result

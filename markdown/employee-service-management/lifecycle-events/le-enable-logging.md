@@ -45,5 +45,5 @@ Role required: sn\_hr\_le.admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Lifecycle Events logging](../concept/le-logging.md)
+**Parent Topic:**[Lifecycle Events logging](le-logging.md)
 

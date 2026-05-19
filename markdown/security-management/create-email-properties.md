@@ -37,5 +37,5 @@ Set up external detection tools to send emails to your email parsing inbox.
 3.  Click **Save**.
 
 
-**Parent Topic:**[Security Operations email properties](../concept/email-properties.md)
+**Parent Topic:**[Security Operations email properties](email-properties.md)
 

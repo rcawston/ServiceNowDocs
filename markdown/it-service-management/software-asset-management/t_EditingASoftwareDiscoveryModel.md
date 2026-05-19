@@ -36,5 +36,5 @@ None of the software discovery model records are approved when they are created.
     ![SAM approval](../image/SAMNormalization.png "SAM approval")
 
 
-**Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](../concept/c_UsingSoftwareDiscoveryModels.md)
+**Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](c_UsingSoftwareDiscoveryModels.md)
 

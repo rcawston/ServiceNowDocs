@@ -42,7 +42,7 @@ Role required: action\_designer or admin
     This custom action illustrates different types of dynamic inputs.
 
 
-**Parent Topic:**[Dynamic inputs](../concept/dynamic-inputs.md)
+**Parent Topic:**[Dynamic inputs](dynamic-inputs.md)
 
 **Related topics**  
 
@@ -53,7 +53,7 @@ Role required: action\_designer or admin
 
 [Create a data gathering action for a dynamic inputs type input](create-data-gathering-action-dynamic-inputs.md)
 
-[Dynamic input configuration options](../reference/dynamic-input-options.md)
+[Dynamic input configuration options](dynamic-input-options.md)
 
 ## Create credential and connection records for your instance
 
@@ -130,7 +130,7 @@ This data gathering action consists of these elements.
 -   A script step to construct a JSON payload from the REST step's Response Body
 -   An action output variable named `output` to store table name and value pairs as a JSON document
 
-This custom action uses a REST API call to duplicate the functionality of the ServiceNow core [Look Up Record action](../reference/lookup-record-flow-designer.md) and [Look Up Records action](../reference/lookup-records-flow-designer.md). Typically, you do not need to create custom actions to perform basic record operations. This action illustrates working with the REST and Script steps to gather table data for dynamic inputs.
+This custom action uses a REST API call to duplicate the functionality of the ServiceNow core [Look Up Record action](lookup-record-flow-designer.md) and [Look Up Records action](lookup-records-flow-designer.md). Typically, you do not need to create custom actions to perform basic record operations. This action illustrates working with the REST and Script steps to gather table data for dynamic inputs.
 
 ### Procedure
 
@@ -386,7 +386,7 @@ This data gathering action consists of these elements.
 -   A script step to construct a JSON payload from the REST step's Response Body
 -   An action output variable named `output` to store field name and value pairs as a JSON document
 
-This custom action uses a REST API call to duplicate the functionality of the ServiceNow core [Look Up Record action](../reference/lookup-record-flow-designer.md) and [Look Up Records action](../reference/lookup-records-flow-designer.md). Typically, you do not need to create custom actions to perform basic record operations. This action illustrates working with the REST and Script steps to gather field data for dynamic inputs.
+This custom action uses a REST API call to duplicate the functionality of the ServiceNow core [Look Up Record action](lookup-record-flow-designer.md) and [Look Up Records action](lookup-records-flow-designer.md). Typically, you do not need to create custom actions to perform basic record operations. This action illustrates working with the REST and Script steps to gather field data for dynamic inputs.
 
 ### Procedure
 
@@ -648,7 +648,7 @@ This data gathering action includes these elements.
 -   A script step to construct two dynamic inputs as a JSON object
 -   An action output variable named `output` to store the dynamic inputs
 
-This custom action uses a reference type input to duplicate the functionality of the ServiceNow core [Look Up Record action](../reference/lookup-record-flow-designer.md) and [Look Up Records action](../reference/lookup-records-flow-designer.md). Generally, you don’t need to create custom actions to perform basic record operations. This action illustrates working with the Script steps to gather field data for dynamic inputs.
+This custom action uses a reference type input to duplicate the functionality of the ServiceNow core [Look Up Record action](lookup-record-flow-designer.md) and [Look Up Records action](lookup-records-flow-designer.md). Generally, you don’t need to create custom actions to perform basic record operations. This action illustrates working with the Script steps to gather field data for dynamic inputs.
 
 ### Procedure
 
@@ -783,7 +783,7 @@ Role required: action\_designer or admin
 
 ### About this task
 
-This helper action duplicates the functionality of the [Create Record step](../reference/create-record-action-designer.md) to illustrate gathering data from a REST step. Generally, you use dynamic inputs for integrations to third-party systems and data.
+This helper action duplicates the functionality of the [Create Record step](create-record-action-designer.md) to illustrate gathering data from a REST step. Generally, you use dynamic inputs for integrations to third-party systems and data.
 
 This custom action includes these elements.
 
@@ -926,7 +926,7 @@ This custom action includes these elements.
 
     4.  Select **Run Test**.
 
-        **Note:** Records you create from the Table API bypass data policies and required fields normally related with record creation. This action is for illustration purposes only. Use the [Create Record step](../reference/create-record-action-designer.md) instead to create records with standard protections and validations.
+        **Note:** Records you create from the Table API bypass data policies and required fields normally related with record creation. This action is for illustration purposes only. Use the [Create Record step](create-record-action-designer.md) instead to create records with standard protections and validations.
 
     5.  View the action's execution details.
 

@@ -19,7 +19,7 @@ To access the landing page, navigate to **Workspaces** &gt; **Service Operations
 
 **Note:** The graphs display the latest data from the last two hours.
 
-For more details on each card, see [Landing page cards](../reference/dashboard-cards.md).
+For more details on each card, see [Landing page cards](dashboard-cards.md).
 
 ## Employee experience overview
 

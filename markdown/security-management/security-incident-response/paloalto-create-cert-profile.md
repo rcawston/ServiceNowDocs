@@ -28,7 +28,7 @@ Follow the steps below on how to download DigiCertificates and configure the cer
 
 **Previous topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
-**Next topic:**[Set up and install Palo Alto Networks Next-Generation Firewall](../task/paloalto_install.md)
+**Next topic:**[Set up and install Palo Alto Networks Next-Generation Firewall](paloalto_install.md)
 
 **Related topics**  
 

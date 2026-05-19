@@ -132,5 +132,5 @@ Country of the branch
 Two-letter country code where the branch is located. When the LEI of the financial entity head office of the branch is entered, this field is auto-filled, for example, Germany.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a branch and enhance digital resilience data](../task/create-drtp-reg-branch.md)
+</table>**Parent Topic:**[Create a branch and enhance digital resilience data](create-drtp-reg-branch.md)
 

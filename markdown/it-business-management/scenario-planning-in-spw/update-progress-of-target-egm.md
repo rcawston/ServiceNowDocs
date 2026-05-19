@@ -89,14 +89,14 @@ The Goal side panel opens with the **Details** tab.
 </td></tr></tbody>
 </table>2.  On the form, update the **Actuals to date** or **Actual** field and add a business justification in the **Remark** field.
 
-    For a description of the field values, see [Target form](../reference/target-form-egm.md).
+    For a description of the field values, see [Target form](target-form-egm.md).
 
 3.  Select either **Update** or **Save**.
 
 
 ## Result
 
-After the **Actuals to date** field is updated, the progress value for the target and its goal is auto-updated. For information on how the progress value is calculated, see [progress value calculation](../../alignment-planner-workspace/concept/progress-value-calculation-egm.md). For information on how the progress value is calculated for a target that has target breakdowns, see [Target breakdowns in Strategic Planning](../concept/target-breakdowns.md).
+After the **Actuals to date** field is updated, the progress value for the target and its goal is auto-updated. For information on how the progress value is calculated, see [progress value calculation](progress-value-calculation-egm.md). For information on how the progress value is calculated for a target that has target breakdowns, see [Target breakdowns in Strategic Planning](target-breakdowns.md).
 
 **Related topics**  
 

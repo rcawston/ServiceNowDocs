@@ -1100,5 +1100,5 @@ cmdb.unscheduled.change
 </td></tr></tbody>
 </table>**Note:**
 
-**Parent Topic:**[Create an email notification](../../notification/task/t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](t_CreateANotification.md)
 

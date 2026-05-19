@@ -52,5 +52,5 @@ Select **Close permit** when the job is complete. If necessary, the permit coord
 -   If there are unsafe condition, select **Cancel permit** in the UI action menu.
 -   If a danger is expected after the permit is issued, select **Suspend permit** in the UI action menu. The permit can be suspended until the inspection is completed.
 
-**Parent Topic:**[Permit-to-work system](../concept/hs-permit-to-work.md)
+**Parent Topic:**[Permit-to-work system](hs-permit-to-work.md)
 

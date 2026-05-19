@@ -57,7 +57,7 @@ The ph keyref="var.workplace-calendar-sync"/&gt; application provides you the **
 
         The **Source** displays the record that caused the issue.
 
-    -   The **Finding Details** column displays the details of the finding, that is, the issue and its details. Hover on the finding to view the full details. For information about the finding messages, refer to [Instance scan findings](../reference/sacn-finding-messages.md).
+    -   The **Finding Details** column displays the details of the finding, that is, the issue and its details. Hover on the finding to view the full details. For information about the finding messages, refer to [Instance scan findings](sacn-finding-messages.md).
 8.  Fix the scan findings.
 
 9.  After fixing the issues listed in the Scan Findings related list, select **Rescan** on the Scan Result form.

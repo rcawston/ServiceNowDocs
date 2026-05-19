@@ -17,9 +17,9 @@ Review the Daily Compliance Score metric and security configuration properties t
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md).
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md).
 
-The Daily Compliance Score is a percentage score. It is based on how compliant the current settings of your instance security properties are with the compliance values published in the [Hardening settings](../../security-center/reference/security-hardening-settings.md).
+The Daily Compliance Score is a percentage score. It is based on how compliant the current settings of your instance security properties are with the compliance values published in the [Hardening settings](instance-security-hardening-settings/security-hardening-settings.md).
 
 Review the daily compliance score of your instance regularly. Follow these guidelines when you are evaluating your daily compliance score:
 
@@ -27,13 +27,13 @@ Review the daily compliance score of your instance regularly. Follow these guide
 -   Greater than or equal to 50% and less than 90% indicates a moderate level of security compliance.
 -   Less than 50% indicates a low level of security compliance.
 
--   **[Adjust instance security settings to increase compliance](../task/update-security-hardening-params.md)**  
+-   **[Adjust instance security settings to increase compliance](update-security-hardening-params.md)**  
 Using the Hardening Compliance Configuration page, harden and optimize non-compliant security properties that affect the daily compliance score of your instance. Its use ensures that your instance complies with the published security hardening standards, while fulfilling your company's security requirements.
 -   **[How Daily Compliance score, trend, and graph data is refreshed](how-daily-compl-score-trend-date-refreshed.md)**  
 Trend and graph data in the Instance Security Center is updated after the performance analytics job executes at 02:00 local time. It appears in the Daily Compliance Score tile, in the Event ribbon tiles, and in the KPI Details page detail.
--   **[PCI compliance score dashboard](../../../use/dashboards/application-content-packs/pci-comp-score-dashboard.md)**  
+-   **[PCI compliance score dashboard](pci-comp-score-dashboard.md)**  
 The PCI compliance score dashboard shows how your instance conforms to payment card industry \(PCI\) security standards. Use the dashboard to view your compliance score and modify your configuration to improve security.
--   **[PCI configuration controls score dashboard](../../../use/dashboards/application-content-packs/pci-config-controls-dashboard.md)**  
+-   **[PCI configuration controls score dashboard](pci-config-controls-dashboard.md)**  
 Use the PCI configuration controls score dashboard to review your PCI configuration and determine which security checks are non-compliant. You can change the configuration of the non-compliant security checks from the instance security center.
 
 **Parent Topic:**[Instance Security Center](instance-security-center.md)
@@ -41,7 +41,7 @@ Use the PCI configuration controls score dashboard to review your PCI configurat
 **Related topics**  
 
 
-[Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md)
+[Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md)
 
 [Monitor security events](instance-sec-center-event-ribbon.md)
 
@@ -49,5 +49,5 @@ Use the PCI configuration controls score dashboard to review your PCI configurat
 
 [Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
 
-[Activate the ISC Virtual Agent interface](../task/activating-virtual-agent-interface.md)
+[Activate the ISC Virtual Agent interface](activating-virtual-agent-interface.md)
 

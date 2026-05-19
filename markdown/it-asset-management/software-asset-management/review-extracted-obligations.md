@@ -55,7 +55,7 @@ The manage contract repository agentic workflow uses AI agents to extract key co
     -   To approve the extracted obligation and add it as a record in the contract repository, select **Approve**.
     -   To reject the extracted obligation, select **Reject**.
 
-        After an obligation is rejected, it’s deactivated and can’t be reactivated again. To add an obligation later, you must create an obligation record manually. For more information, see [Create an obligation record in the Software Asset Workspace](../../software-asset-management2/task/create-obligation-record-sam.md).
+        After an obligation is rejected, it’s deactivated and can’t be reactivated again. To add an obligation later, you must create an obligation record manually. For more information, see [Create an obligation record in the Software Asset Workspace](create-obligation-record-sam.md).
 
 8.  Repeat step 7 for all the extracted obligations.
 
@@ -70,7 +70,7 @@ Approved obligations are available as records in the **Obligations** tab of the 
 
 If the schedule of the obligation is recurring, the obligation tasks are automatically created based on the interval specified in the **Repeats** field.
 
-If the schedule of the obligation is adhoc, you must create obligation tasks manually. For more information, see [Create an obligation record in the Software Asset Workspace](../../software-asset-management2/task/create-obligation-record-sam.md).
+If the schedule of the obligation is adhoc, you must create obligation tasks manually. For more information, see [Create an obligation record in the Software Asset Workspace](create-obligation-record-sam.md).
 
-**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](../concept/manage-contract-repository-workflow.md)
+**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](manage-contract-repository-workflow.md)
 

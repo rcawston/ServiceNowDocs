@@ -32,7 +32,7 @@ Employee Center
 -   All active tabs are associated with the profile page.
 -   The widget overview panel is visible.
 
-**Note:** To disable the widget overview panel, you must create a profile portal configuration. For more information, see [Configure Employee Profile for a portal](../task/create-portal-profile-config.md).
+**Note:** To disable the widget overview panel, you must create a profile portal configuration. For more information, see [Configure Employee Profile for a portal](create-portal-profile-config.md).
 
 -   If an Employee Profile header configuration record doesn't exist, the [default record](default-profile-header.md) is used.
 -   If an Employee Profile header configuration record exists, it’s updated with the following fields and values:
@@ -72,7 +72,7 @@ Custom portal
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

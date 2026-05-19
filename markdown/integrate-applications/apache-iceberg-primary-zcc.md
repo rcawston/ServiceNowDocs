@@ -55,5 +55,5 @@ The following table lists supported Apache Iceberg data types and the default ma
 **Related topics**  
 
 
-[Create an Apache Iceberg connection](../task/create-apache-iceberg-connection-primary.md)
+[Create an Apache Iceberg connection](create-apache-iceberg-connection-primary.md)
 

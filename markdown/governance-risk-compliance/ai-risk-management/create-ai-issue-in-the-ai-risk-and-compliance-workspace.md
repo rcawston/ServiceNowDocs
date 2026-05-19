@@ -21,7 +21,7 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst or sn\_grc\_a
 
 ## About this task
 
-For information about issue management life cycle, see [Manage issues](../../grc-common/concept/manage-issues-common-core.md).
+For information about issue management life cycle, see [Manage issues](../grc-common-functions/manage-issues-common-core.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ For information about issue management life cycle, see [Manage issues](../../grc
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the Create New Issue, see [Create New AI Issue form](../reference/create-new-ai-issue-form.md).
+    For a description of the field values on the Create New Issue, see [Create New AI Issue form](create-new-ai-issue-form.md).
 
 4.  Select **Save**.
 
@@ -46,8 +46,8 @@ The created AI issue is assigned to the owner of the control. An AI issue transi
 
 [Initiate AI assessment on an AI asset](initiate-assessment-on-an-ai-asset.md)
 
--   **[Create New AI Issue form](../reference/create-new-ai-issue-form.md)**  
+-   **[Create New AI Issue form](create-new-ai-issue-form.md)**  
 Use the Create New Issue form to identify and manage issues related to the impacted areas for the reported AI case.
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

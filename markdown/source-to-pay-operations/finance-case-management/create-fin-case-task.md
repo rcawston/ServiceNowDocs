@@ -37,10 +37,10 @@ Role required: sn\_fin\_ops.specialist, sn-fin-ops.admin
 
 6.  On the Create New Finance Task form, fill in the fields.
 
-    For more information on the form fields and descriptions, see [Create a finance task form](../reference/create-fin-task-form.md).
+    For more information on the form fields and descriptions, see [Create a finance task form](create-fin-task-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](using-fin-case-mgmt-workspace.md)
 

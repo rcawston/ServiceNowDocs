@@ -44,5 +44,5 @@ Role required: admin
 
 One or more selected users or groups are notified when an attempt to access Hermes is received from an unauthorized IP address.
 
-**Parent Topic:**[Restricting access to Hermes](../concept/restricting-access-hermes-topics.md)
+**Parent Topic:**[Restricting access to Hermes](restricting-access-hermes-topics.md)
 

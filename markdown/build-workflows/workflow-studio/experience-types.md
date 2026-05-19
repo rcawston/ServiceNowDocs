@@ -27,7 +27,7 @@ When creating an activity definition, you must select an UI Layout to associate 
 
 Depending on the UI Layout associated with the activity, different sections and fields appear under the activity definition's Activity Experience. These sections and fields let you set up the activity data that renders during the runtime Playbook Experience.
 
-**Note:** All UI Layouts, except for Record generator, display an Associated Record section. For information on how to set up or edit the Associated Record section in an activity definition, see [Create an activity definition](../task/create-activity-definition.md).
+**Note:** All UI Layouts, except for Record generator, display an Associated Record section. For information on how to set up or edit the Associated Record section in an activity definition, see [Create an activity definition](create-activity-definition.md).
 
 ## Create Record
 
@@ -281,7 +281,7 @@ If you choose the Record generator UI Layout, the following sections appear in t
 
 ## Guided Decision
 
-**Note:** The Guided Decision UI Layout is available with a subscription to App Engine or Customer Service Management \(CSM\). For more information on how to enable this activity for use in Playbooks, see [Activate Playbooks for Customer Service Management \(CSM\)](../task/activate-process-automation-designer-for-csm.md).
+**Note:** The Guided Decision UI Layout is available with a subscription to App Engine or Customer Service Management \(CSM\). For more information on how to enable this activity for use in Playbooks, see [Activate Playbooks for Customer Service Management \(CSM\)](activate-process-automation-designer-for-csm.md).
 
 If you choose the Guided Decision UI Layout, the following fields appear in the Activity Experience section for your activity definition:
 
@@ -293,7 +293,7 @@ If you choose the Guided Decision UI Layout, the following fields appear in the 
 **Related topics**  
 
 
-[Create an activity definition](../task/create-activity-definition.md)
+[Create an activity definition](create-activity-definition.md)
 
-[Create an action as an activity automation plan](../task/create-automation-plan.md)
+[Create an action as an activity automation plan](create-automation-plan.md)
 

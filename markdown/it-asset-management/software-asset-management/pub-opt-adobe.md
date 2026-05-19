@@ -83,5 +83,5 @@ Number of users not having a record in the User \[sys\_user\] table of your Serv
 **Related topics**  
 
 
-[Integrating with Adobe Cloud](../concept/adobe-cloud-integration.md)
+[Integrating with Adobe Cloud](adobe-cloud-integration.md)
 

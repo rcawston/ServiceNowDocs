@@ -89,5 +89,5 @@ Record used to configure badge reader devices.
  Extends the Task table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Badge Reader Integration](../task/activate-badge-reader-integration.md)
+</table>**Parent Topic:**[Activate Badge Reader Integration](activate-badge-reader-integration.md)
 

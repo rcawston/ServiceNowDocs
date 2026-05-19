@@ -83,5 +83,5 @@ To manage a multi-location or a group reservation, you must open the reservation
 
 The changes are saved. To change the reservation timings or change the location, refer to [Working with schedule view](working-with-schedule-view.md).
 
-**Parent Topic:**[Working with Event planner](../concept/working-with-event-planner.md)
+**Parent Topic:**[Working with Event planner](working-with-event-planner.md)
 

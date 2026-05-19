@@ -15,7 +15,7 @@ Make content from multiple internal indexed sources searchable by performing a f
 
 ## Before you begin
 
-Your indexed sources must be active and internal \(referring to ServiceNow AI Platform tables\). To index content from indexed sources for external documents, see [Indexing and searching external content in AI Search](../../ai-search/concept/external-content-ais.md).
+Your indexed sources must be active and internal \(referring to ServiceNow AI Platform tables\). To index content from indexed sources for external documents, see [Indexing and searching external content in AI Search](ai-search/external-content-ais.md).
 
 Role required: ais\_admin
 

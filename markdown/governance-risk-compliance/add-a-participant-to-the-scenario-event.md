@@ -70,7 +70,7 @@ Role required: sn\_oper\_res.manager
 
     6.  Log out from the scenario analysis response record.
 
-    For the descriptions of the field values on the scenario analysis response task form, see [Scenario analysis response task form](../reference/response-task-form.md).
+    For the descriptions of the field values on the scenario analysis response task form, see [Scenario analysis response task form](response-task-form.md).
 
 4.  Log in as the owner of the scenario event.
 

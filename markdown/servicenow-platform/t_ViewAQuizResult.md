@@ -33,12 +33,12 @@ The quiz scorecard opens in the Category Results view.
 -   **[Modify the weight of a category](t_ViewAQuizCategoryResult.md)**  
 View category results stored in the Assessment Category Result \[asmt\_category\_result\] table, which display the overall ratings for each category based on the weighted value for each scored question, and edit the default Weight value.
 
-**Parent Topic:**[Quiz designer](../concept/c_QuizDesigner.md)
+**Parent Topic:**[Quiz designer](c_QuizDesigner.md)
 
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](c_QuizDesigner.md)
 
 [Publish a quiz](t_PublishaQuiz.md)
 

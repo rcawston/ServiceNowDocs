@@ -52,7 +52,7 @@ Fulfillers see only incidents and incident tasks that have been created within t
 -   An ITIL user can associate child incidents only of those domains that they have access to.
 -   If a user has access to multiple domains, the domain specified on the current record drives the functionality of that record and reference fields.
 
-**Parent Topic:**[Reference section for Incident Management](../reference/reference-section-for-incident-management.md)
+**Parent Topic:**[Reference section for Incident Management](reference-section-for-incident-management.md)
 
 **Related topics**  
 

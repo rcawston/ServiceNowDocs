@@ -50,13 +50,13 @@ ServiceNow's MFA supports verification methods such as Authenticator App, Fast I
 
 You can use MFA along with the following:
 
--   Local Database Authentication \(native ServiceNow authentication\) or [Lightweight Directory Access Protocol integration](../../ldap/concept/c_LDAPIntegration.md)
--   SSO SAML or SSO OIDC. For more information, see [Multi-Provider single sign-on \(SSO\)](../../single-sign-on/concept/c_MultipleProviderSingleSignOn.md).
+-   Local Database Authentication \(native ServiceNow authentication\) or [Lightweight Directory Access Protocol integration](../ldap-integration/c_LDAPIntegration.md)
+-   SSO SAML or SSO OIDC. For more information, see [Multi-Provider single sign-on \(SSO\)](c_MultipleProviderSingleSignOn.md).
 
 **Related topics**  
 
 
 [Multi-factor Authentication verification methods](mfa-methods.md)
 
-[Multi-factor Authentication system properties](../reference/mfa-properties.md)
+[Multi-factor Authentication system properties](mfa-properties.md)
 

@@ -55,7 +55,7 @@ New
 
 </td><td>
 
-Number of assets that were scanned but don’t have a record in your ServiceNow instance.**Note:** If the audit record's **Scan method** is set to **Multi scan**, a new asset record is created using the provided Asset tag. The new asset record is created with unknown product model and unknown model category value. Additionally, an asset remediation task is also created to notify you that an asset record is created with unknown model category and unknown product model. Open the asset remediation task from the Hardware Asset Workspace and update the **Model category** and **Model** fields value for the asset. For more information, see [Close an enterprise asset remediation task](../task/close-an-asset-remediation-task-eam.md).
+Number of assets that were scanned but don’t have a record in your ServiceNow instance.**Note:** If the audit record's **Scan method** is set to **Multi scan**, a new asset record is created using the provided Asset tag. The new asset record is created with unknown product model and unknown model category value. Additionally, an asset remediation task is also created to notify you that an asset record is created with unknown model category and unknown product model. Open the asset remediation task from the Hardware Asset Workspace and update the **Model category** and **Model** fields value for the asset. For more information, see [Close an enterprise asset remediation task](close-an-asset-remediation-task-eam.md).
 
 </td></tr><tr><td>
 
@@ -74,12 +74,12 @@ Found but not in audit scope
 The number of scanned assets that are not within the scope of the current audit record. For example, if the audit is created to scan assets located in Aisle and Space 001 of the stockroom, but an asset belonging to Aisle and Space 002 in the stockroom is scanned, that asset cannot be categorized as an unexpected asset for the stockroom. Since the asset is still an expected asset for the stockroom, it is categorized as found but not in audit scope asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+</table>**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](domain-separation-eam.md)
 
 [Enterprise Asset Management roles](eam-roles.md)
 

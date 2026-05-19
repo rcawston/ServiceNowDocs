@@ -57,5 +57,5 @@ If you elect to use an earlier version library, use this procedure to disable th
 7.  To re-enable the update check, run the `-IsUpdateCheckEnabled 1` command for either the current user or for the system.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](configuring-sccm.md)
 

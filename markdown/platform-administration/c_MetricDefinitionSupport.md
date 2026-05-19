@@ -19,7 +19,7 @@ A metric can often be easily obtained from the data. To find the number of incid
 
 The Metric plugin provides an easy, declarative way of defining metrics. Once defined, the data for the metric is gathered, and instances of the metric are calculated and stored. For example, the "Assigned to Duration" metric measures the amount of time an incident is assigned to an individual. To define this metric, you create a metric definition of the type "Field value duration" and select the "Assigned to" field from the Incident table. A metric instance is created for each incident assignment showing its duration. Reporting on the duration of incident assignments becomes easy.
 
-You can report on a metric by using a [Working with database views for reporting](c_DatabaseViews.md) that links the metric to the table on which it is defined.
+You can report on a metric by using a [Working with database views for reporting](table-administration-and-data-management/c_DatabaseViews.md) that links the metric to the table on which it is defined.
 
 To install the Metric Definition plugin \(com.glide.metrics\), navigate to **System Definition** &gt; **Plugins**, search for Metric Definition, and click **Install**.
 

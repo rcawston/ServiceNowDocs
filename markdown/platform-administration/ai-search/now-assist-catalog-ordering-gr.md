@@ -30,9 +30,9 @@ In Virtual Agent, Now Assist Actions Genius Results rank Catalog Item and Virtua
 
 ## Activating Now Assist Actions Genius Results
 
-To enable the Now Assist Actions skill in an AI Search application, you can link the Now Assist Actions Genius Result configuration to your search profile for the search application. For details on this procedure, see [Link a Genius Result configuration to a search profile](../task/link-gr-search-profile-ais.md).
+To enable the Now Assist Actions skill in an AI Search application, you can link the Now Assist Actions Genius Result configuration to your search profile for the search application. For details on this procedure, see [Link a Genius Result configuration to a search profile](link-gr-search-profile-ais.md).
 
-For AI Search portal applications, you can enable Now Assist Genius Results using the Now Assist in AI Search Setup page. For more information on this approach, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](../task/enable-now-assist-gr-ais-apps.md).
+For AI Search portal applications, you can enable Now Assist Genius Results using the Now Assist in AI Search Setup page. For more information on this approach, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](enable-now-assist-gr-ais-apps.md).
 
 **Note:** When you activate Now Assist Actions Genius Results in a search application, they're available to all users who search using that application.
 
@@ -40,7 +40,7 @@ For AI Search portal applications, you can enable Now Assist Genius Results usin
 
 Now Assist Actions Genius Results are only supported in Service Portal and Virtual Agent.
 
-By default, Now Assist Actions Genius Results only support English-language searches. Administrators can enable support for other languages by activating Dynamic Translation. To learn more about how answers are translated, see [Dynamic Translation for Now Assist Actions Genius Results](dynamic-translation-na-actions-gr.md). For more details on Dynamic Translation, see [Dynamic Translation](../../dynamic-translation/concept/dynamic-translation-overview.md).
+By default, Now Assist Actions Genius Results only support English-language searches. Administrators can enable support for other languages by activating Dynamic Translation. To learn more about how answers are translated, see [Dynamic Translation for Now Assist Actions Genius Results](dynamic-translation-na-actions-gr.md). For more details on Dynamic Translation, see [Dynamic Translation](../dynamic-translation/dynamic-translation-overview.md).
 
 If you have the External Content Connectors ServiceNow® Store application installed, Now Assist Actions Genius Results exclude search results retrieved from external content source systems when generating answers.
 

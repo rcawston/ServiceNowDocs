@@ -38,5 +38,5 @@ Role required: esc\_admin/sn\_ex\_sp\_pro\_kiosk.user
 
 The **Schedule** tab is visible on your Employee Profile.
 
-**Parent Topic:**[Schedule in Employee Center Pro Kiosk](../concept/shift-time-kiosk-ec.md)
+**Parent Topic:**[Schedule in Employee Center Pro Kiosk](shift-time-kiosk-ec.md)
 

@@ -38,5 +38,5 @@ You can require the recipient to select a check box or provide a full signature 
     |Assertion|Text to present to recipients that requires acknowledgement.|
 
 
-**Parent Topic:**[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+**Parent Topic:**[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 

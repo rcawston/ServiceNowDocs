@@ -58,7 +58,7 @@ After you edit a service or an offering, the published version stays active unti
 
 [Service Builder approval flow](service-builder-states.md)
 
-[Create a service in Service Builder](../task/create-service.md)
+[Create a service in Service Builder](create-service.md)
 
-[Create a service offering in Service Builder](../task/create-edit-service-offering.md)
+[Create a service offering in Service Builder](create-edit-service-offering.md)
 

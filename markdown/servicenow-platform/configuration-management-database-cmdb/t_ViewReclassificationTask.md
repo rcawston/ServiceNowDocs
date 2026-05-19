@@ -22,7 +22,7 @@ The properties you use to disable automatic CI reclassification determine whethe
 -   Using any one of the 'glide.class.&lt;reclassification operation&gt;.enabled' properties \(such as **glide.class.upgrade.enabled**\): Reclassification tasks are created.
 -   Using any one of the 'glide.identification\_engine.update\_without\_&lt;reclassification operation&gt;\_enabled' properties \(such as **glide.identification\_engine.update\_without\_switch\_enabled**\): Reclassification tasks aren't created.
 
-For more information about reclassification during IRE processing, see [Configure CI reclassification during IRE processing](../concept/c_CIReclassification.md#).
+For more information about reclassification during IRE processing, see [Configure CI reclassification during IRE processing](c_CIReclassification.md#).
 
 ## Before you begin
 
@@ -48,5 +48,5 @@ Role required: sn\_cmdb\_admin, sn\_cmdb\_editor, admin, or itil
 
 After examining the task details, you can locate the CI that is noted in the task **Description** and manually reclassify it. For details, see [Reclassify a CI](t_ManuallyReclassifyCI.md).
 
-**Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](../concept/c_CMDBIdentifyandReconcile.md)
+**Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](c_CMDBIdentifyandReconcile.md)
 

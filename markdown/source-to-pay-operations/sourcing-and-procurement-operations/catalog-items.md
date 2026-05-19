@@ -33,7 +33,7 @@ Catalog and catalog items ensure the accuracy and availability of the required i
 -   Manage your category hierarchy.
 -   Associate the categories within your catalog.
 
-**Parent Topic:**[Procurement Case Management Dashboard](../concept/procurement-service-delivery-dashboard.md)
+**Parent Topic:**[Procurement Case Management Dashboard](procurement-service-delivery-dashboard.md)
 
 **Related topics**  
 

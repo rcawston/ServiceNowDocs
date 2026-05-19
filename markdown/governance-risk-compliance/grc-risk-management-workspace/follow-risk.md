@@ -35,5 +35,5 @@ For more information about Connect, see [Connect](https://raw.githubusercontent.
     |**To add the Connect full-screen view**|Click **Open Connect Full**.|
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

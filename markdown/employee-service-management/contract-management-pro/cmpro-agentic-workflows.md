@@ -51,7 +51,7 @@ To modify an agentic workflow, you must first duplicate it, and then update it. 
 
 **Note:** When you modify an agentic workflow, AI agents, or tools, make sure that you update all instructions accordingly.
 
-If you have customized the manage contract repository agentic workflow, [update the script include to run it autonomously.](../task/cmpro-script-includ-agenticAI.md)
+If you have customized the manage contract repository agentic workflow, [update the script include to run it autonomously.](cmpro-script-includ-agenticAI.md)
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 

@@ -63,5 +63,5 @@ A chargeback is bank initiated, pursued when a card provider requests from the m
 -   If determination was made to deny the dispute, the transaction task state updates to Closed complete.
 -   If determination was made to pursue chargeback, the relevant tasks for the transaction will trigger for the Chargeback stage.
 
-**Parent Topic:**[Investigate stage](../concept/investigate-stage.md)
+**Parent Topic:**[Investigate stage](investigate-stage.md)
 

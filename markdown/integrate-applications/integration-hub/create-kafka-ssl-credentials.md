@@ -47,5 +47,5 @@ After you've created both the connection record and the credential record, you c
 
 [Configure a Kafka connection](configure-kafka-connection.md).
 
-**Parent Topic:**[Stream Connect Message Replication](../concept/stream-connect-message-replication.md)
+**Parent Topic:**[Stream Connect Message Replication](stream-connect-message-replication.md)
 

@@ -82,7 +82,7 @@ Microsoft implies both Microsoft OneDrive and Microsoft SharePoint.
     1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **GRC properties**.
         1.  To opt Microsoft OneDrive as your cloud hosting service, select **One drive** in the **Select a file sharing service to host documents and attachments** system property list.
 
-            If you select **None** in the **Select a file sharing service to host documents and attachments** system property list, then you can import the policy text. For more information, see [Import policy text for redlining](../task/import-policy-text-redlining.md).
+            If you select **None** in the **Select a file sharing service to host documents and attachments** system property list, then you can import the policy text. For more information, see [Import policy text for redlining](import-policy-text-redlining.md).
 
         2.  To opt Google Drive as your cloud hosting service, select **Google drive** in the **Select a file sharing service to host documents and attachments** system property list.
         3.  To opt Microsoft SharePoint, select **SharePoint** in the **Select a file sharing service to host documents and attachments** system property list.

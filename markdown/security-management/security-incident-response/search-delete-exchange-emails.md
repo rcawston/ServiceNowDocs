@@ -29,7 +29,7 @@ Limitation: When searching the body of emails, you can search a maximum of 1,500
 
 ## About this task
 
-This feature is used by the [Security Operations Integration - Email Search and Delete flow](../../security-operations-common/task/secops-integ-email-search-delete.md) to run a query against your email server. Depending on the search criteria you select, the search identifies all emails within a phishing attack, and returns the total number of emails affected or details from the emails affected.
+This feature is used by the [Security Operations Integration - Email Search and Delete flow](../secops-integ-email-search-delete.md) to run a query against your email server. Depending on the search criteria you select, the search identifies all emails within a phishing attack, and returns the total number of emails affected or details from the emails affected.
 
 ## Procedure
 

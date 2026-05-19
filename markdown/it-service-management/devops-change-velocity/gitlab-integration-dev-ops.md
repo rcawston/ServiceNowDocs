@@ -61,11 +61,11 @@ Trigger events required for planning capability:
 
 Use one of the following options to onboard GitLab. For a guided experience, use the workspace to onboard a tool. Alternatively, you can use the Service Catalog or Classic experience.
 
--   **[Onboard GitLab to DevOps Change Velocity — Workspace](../task/onboard-gitlab-to-devops-change-velocity-workspace.md)**  
+-   **[Onboard GitLab to DevOps Change Velocity — Workspace](onboard-gitlab-to-devops-change-velocity-workspace.md)**  
 Connect to your GitLab instance using the DevOps Change Workspace playbook to discover plans, repositories, and pipelines.
--   **[Onboard GitLab to DevOps Change Velocity — Service Catalog](../task/sc-gitlab.md)**  
+-   **[Onboard GitLab to DevOps Change Velocity — Service Catalog](sc-gitlab.md)**  
 Create, connect, discover, and configure your GitLab instance using the ServiceNow Service Catalog.
--   **[Onboard GitLab to DevOps Change Velocity — Classic](../task/create-gitlab-tool-dev-ops.md)**  
+-   **[Onboard GitLab to DevOps Change Velocity — Classic](create-gitlab-tool-dev-ops.md)**  
 Create an GitLab tool record in DevOps Change Velocity to connect, discover, and import GitLab tool data.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)

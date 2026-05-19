@@ -38,5 +38,5 @@ Role required: a role containing the df\_data\_steward role in both the establis
 7.  Select **Finish**.
 
 
-**Parent Topic:**[Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](managing-data-fabric-tables-zcc.md)
 

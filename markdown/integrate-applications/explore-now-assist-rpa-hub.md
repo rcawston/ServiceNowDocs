@@ -42,19 +42,19 @@ The Now Assist for RPA Hub application includes the generative AI skills that en
 
     By using the RPA bot generation skill, your users can perform the following tasks:
 
-    -   Create an automation from text instructions and preview the options from the RPA Desktop Design Studio user interface. First, your user selects the **Create automation** option and then selects the **Build with Now Assist** option to get started. For more information, see [Create an automation with Now Assist](../task/create-automation-now-assist.md).
+    -   Create an automation from text instructions and preview the options from the RPA Desktop Design Studio user interface. First, your user selects the **Create automation** option and then selects the **Build with Now Assist** option to get started. For more information, see [Create an automation with Now Assist](create-automation-now-assist.md).
 
         The following example shows how an automation is created with the Now Assist in the RPA Desktop Design Studio user interface.
 
         ![RPA Desktop Design Studio user interface that shows the (1) Create automation option and (2) Build with Now Assist option.](../image/build-now-assist-screen-rpa.png "Create an automation with Now Assist from the RPA Desktop Design Studio user interface")
 
-    -   Create an activity from the text instructions and preview options. For more information, see [Create an activity with Now Assist](../task/create-activity-now-assist.md).
+    -   Create an activity from the text instructions and preview options. For more information, see [Create an activity with Now Assist](create-activity-now-assist.md).
 
         The following example shows how an activity is created with Now Assist in the RPA Desktop Design Studio user interface.
 
         ![RPA Desktop Design Studio user interface that shows the New activity by using Now Assist option.](../image/create-activity-now-assist-rpa.png "Create an activity with Now Assist from RPA Desktop Design Studio user interface")
 
-    -   Enhance an automation logic by using text instructions with the **Build automation** option, either from an empty activity or by selecting a component in an existing activity. For more information, see [Build an automation with Now Assist](../task/build-automation-now-assist.md).
+    -   Enhance an automation logic by using text instructions with the **Build automation** option, either from an empty activity or by selecting a component in an existing activity. For more information, see [Build an automation with Now Assist](build-automation-now-assist.md).
 
         The following example shows an automation logic that is built with Now Assist from an empty activity on the design surface in the RPA Desktop Design Studio user interface.
 

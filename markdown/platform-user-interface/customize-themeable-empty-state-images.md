@@ -107,5 +107,5 @@ Role required: admin
     **Note:** Using the default theme hooks is recommended.
 
 
-**Parent Topic:**[Working with theme-able empty state images](../concept/themeable-empty-state-images.md)
+**Parent Topic:**[Working with theme-able empty state images](themeable-empty-state-images.md)
 

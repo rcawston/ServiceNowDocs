@@ -55,10 +55,10 @@ This plugin contains six change schedules to help users. Enabling this plugin au
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with Change Management - Change Schedule](../reference/installed-cm-changeschedule.md#)**  
+-   **[Installed with Change Management - Change Schedule](installed-cm-changeschedule.md#)**  
 Several types of components are installed with the Change Management - Change Schedule.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

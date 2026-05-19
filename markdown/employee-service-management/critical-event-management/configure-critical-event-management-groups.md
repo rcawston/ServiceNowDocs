@@ -73,5 +73,5 @@ Add roles to groups that are mapped to a location.
 -   **[Map on-site responder group with location](map-on-site-responder-group.md)**  
 Map the on-site responder groups with the location, enabling these groups to be automatically populated when the location is selected in a new critical event.
 
-**Parent Topic:**[Configuring Critical Event Management](../concept/configure-critical-event-management.md)
+**Parent Topic:**[Configuring Critical Event Management](configure-critical-event-management.md)
 

@@ -28,7 +28,7 @@ To avoid duplicate notifications for an event, the following notifications are n
 
 You can activate the notifications specific to obligation tasks and then set up a condition to stop the default system notifications.
 
-For more information about obligation-related notifications, see [Obligation Management notifications](../reference/cncore-ob-mgmt-notification.md).
+For more information about obligation-related notifications, see [Obligation Management notifications](cncore-ob-mgmt-notification.md).
 
 ## Before you begin
 
@@ -67,5 +67,5 @@ Role required: admin
 
 The obligation task-specific notifications are activated and the default system notifications are stopped for obligation events.
 
-**Parent Topic:**[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+**Parent Topic:**[Manage notifications in Contract Management Pro](cmpro-manage-notifications.md)
 

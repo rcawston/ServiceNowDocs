@@ -215,7 +215,7 @@ Collaboration chat \[sys\_cs\_collab\_message\]
 
 </td><td>
 
-Payload**Note:** You must manually select the Collaboration chat table as an input data so that this field is used an input for the prompt. For information on choosing input data, see [Customize a Now Assist for IT Service Management \(ITSM\) skill](../task/cust-now-assist-itsm-skill.md).
+Payload**Note:** You must manually select the Collaboration chat table as an input data so that this field is used an input for the prompt. For information on choosing input data, see [Customize a Now Assist for IT Service Management \(ITSM\) skill](cust-now-assist-itsm-skill.md).
 
 </td></tr></tbody>
 </table>## Chat summarization skill

@@ -48,5 +48,5 @@ Activating the Column Level Encryption Enterprise plugin \(`com.glide.now.platfo
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
 
-**Parent Topic:**[Configuring Column Level Encryption](../../encryption/concept/configuring-column-level-encryption-2.md)
+**Parent Topic:**[Configuring Column Level Encryption](configuring-column-level-encryption-2.md)
 

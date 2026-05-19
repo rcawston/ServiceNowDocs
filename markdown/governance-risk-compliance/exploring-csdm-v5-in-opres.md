@@ -57,5 +57,5 @@ The Service Process pillar is the parent table for all staging tables in Operati
 
 References for business services \(BS\), service offerings \(SO\), business processes \(BP\), and application services \(AS\) are added to the \[sn\_oper\_res\_profile\] table.
 
-For more information on the tables that are relevant to the CSDM data model, see [Tables relevant to CSDM](../reference/csdm-v5-ref.md). For information on the pillars, see [Pillars overview tab](../../grc-operational-res-ws/concept/pillars-ov.md).
+For more information on the tables that are relevant to the CSDM data model, see [Tables relevant to CSDM](csdm-v5-ref.md). For information on the pillars, see [Pillars overview tab](pillars-ov.md).
 

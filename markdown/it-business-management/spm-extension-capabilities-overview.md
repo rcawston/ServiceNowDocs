@@ -131,11 +131,11 @@ PPM Standard
 </table>**Related topics**  
 
 
-[Planning item configuration for lenses and portfolio plans](../../alignment-planner-workspace/concept/planning-items-for-lenses-and-portfolio-plans.md)
+[Planning item configuration for lenses and portfolio plans](scenario-planning-in-spw/planning-items-for-lenses-and-portfolio-plans.md)
 
-[Define a new planning item type in Strategic Planning](../../alignment-planner-workspace/task/create-planning-organization-and-planning-item-type.md)
+[Define a new planning item type in Strategic Planning](scenario-planning-in-spw/create-planning-organization-and-planning-item-type.md)
 
-[Enable custom item types in Strategic Planning](../../alignment-planner-workspace/task/enable-custom-item-types-strategic-planning-workspace.md)
+[Enable custom item types in Strategic Planning](scenario-planning-in-spw/enable-custom-item-types-strategic-planning-workspace.md)
 
-[Investment Funding administration](../../investment-funding/concept/investment-funding-administration.md)
+[Investment Funding administration](investment-funding/investment-funding-administration.md)
 

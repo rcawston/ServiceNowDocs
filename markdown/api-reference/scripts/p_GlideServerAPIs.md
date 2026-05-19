@@ -15,7 +15,7 @@ breadcrumb: [Server-side scripting, Scripting, API implementation, API implement
 
 ServiceNow provides APIs for the Glide Server.
 
-**Parent Topic:**[Server-side scripting](../../server-scripting/concept/c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
 
 ## GlideAggregate
 
@@ -23,7 +23,7 @@ The GlideAggregate class is an extension of GlideRecord and allows database aggr
 
 **Note:** This functionality requires a knowledge of JavaScript.
 
-For additional information, refer to [GlideAggregate](../../../app-store/dev_portal/API_reference/glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#) API.
+For additional information, refer to [GlideAggregate](../server-api-reference/c_GlideAggregateScopedAPI.md#) API.
 
 ### GlideAggregate examples
 
@@ -239,7 +239,7 @@ GlideRecord:
 -   is used for database operations instead of writing SQL queries.
 -   is an object that contains zero or more records from one table. Another way to say this is that a GlideRecord is an ordered list.
 
-A GlideRecord contains both records \(rows\) and fields \(columns\). The field names are the same as the underlying database column names. For additional information, refer to [GlideRecord - Scoped](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+A GlideRecord contains both records \(rows\) and fields \(columns\). The field names are the same as the underlying database column names. For additional information, refer to [GlideRecord - Scoped](../server-api-reference/c_GlideRecordScopedAPI.md#).
 
 **Note:** Use of `gs.sql())` scripting syntax was discontinued in Geneva. Use standard GlideRecord syntax in its place.
 
@@ -320,12 +320,12 @@ To explicitly specify query ACL enforcement behavior, use GlideRecordSecure.addE
 
 -   **Option 1: Convenience methods \(recommended\)**
 
-    Use the [addUserEncodedQuery\(\)](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) method for the following use cases:
+    Use the [addUserEncodedQuery\(\)](../server-api-reference/c_GlideRecordScopedAPI.md#) method for the following use cases:
 
     -   Queries built from user input in which query ACLs apply
     -   Build dynamic filters based on user selections
     -   Handle untrusted data
-    Use the [addSystemEncodedQuery\(\)](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) method for the following use cases:
+    Use the [addSystemEncodedQuery\(\)](../server-api-reference/c_GlideRecordScopedAPI.md#) method for the following use cases:
 
     -   Hard-coded query conditions
     -   Back end or system-only logic with no user input
@@ -342,7 +342,7 @@ To explicitly specify query ACL enforcement behavior, use GlideRecordSecure.addE
 
 -   **Option 2: Boolean parameter**
 
-    The following example shows how to use the [addEncodedQuery\(\)](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) method for ACL enforcement.
+    The following example shows how to use the [addEncodedQuery\(\)](../server-api-reference/c_GlideRecordScopedAPI.md#) method for ACL enforcement.
 
     ```
     // Explicitly enforce query ACLs
@@ -395,7 +395,7 @@ The GlideSystem \(referred to by the variable name '*gs*' in business rules\) pr
 
 Many of the GlideSystem methods facilitate the easy inclusion of dates in query ranges and are most often used in filters and reporting.
 
-For additional information, see [GlideSystem](../../../app-store/dev_portal/API_reference/glideSystemScoped/concept/c_GlideSystemScopedAPI.md#).
+For additional information, see [GlideSystem](../server-api-reference/c_GlideSystemScopedAPI.md#).
 
 ## GlideDateTime
 
@@ -411,7 +411,7 @@ The GlideDate and GlideDateTime APIs are used to manipulate date and time values
 
 **Note:** This functionality requires a knowledge of JavaScript.
 
-For additional information, refer to [GlideDate](../../../app-store/dev_portal/API_reference/glideDateScoped/concept/c_GlideDateScopedAPI.md#) API and [GlideDateTime](../../../app-store/dev_portal/API_reference/glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#) API.
+For additional information, refer to [GlideDate](../server-api-reference/c_GlideDateScopedAPI.md#) API and [GlideDateTime](../server-api-reference/c_GlideDateTimeScoped.md#) API.
 
 You can create a GlideDateTime object from a GlideDate object by passing in the GlideDate object as a parameter to the GlideDateTime constructor. By default, the GlideDateTime object is expressed in the internal format, yyyy-MM-dd HH:mm:ss and the system time zone UTC.
 
@@ -431,7 +431,7 @@ Output:
 2015-01-01 00:00:00
 ```
 
-See also [Modify a GlideDateTime field value](../../useful-scripts/concept/useful-server-side-scripts.md#).
+See also [Modify a GlideDateTime field value](useful-server-side-scripts.md#).
 
 ### Set a duration field value in script
 
@@ -441,7 +441,7 @@ Examples of JavaScript that can be used to set the value of a duration field.
 
 #### Using the GlideDateTime.subtract\(\) method
 
-The subtract\(GlideDateTime start, GlideDateTime end\) method in [GlideDateTime](../../../app-store/dev_portal/API_reference/glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#) enables you to set the duration value using a given start date/time and end date/time. An example on how to set the duration for the time a task was opened is:
+The subtract\(GlideDateTime start, GlideDateTime end\) method in [GlideDateTime](../server-api-reference/c_GlideDateTimeScoped.md#) enables you to set the duration value using a given start date/time and end date/time. An example on how to set the duration for the time a task was opened is:
 
 ```
 var duration = GlideDateTime.subtract(start, end);

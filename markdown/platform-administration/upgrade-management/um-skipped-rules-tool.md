@@ -15,12 +15,12 @@ breadcrumb: [Upgrade Console tools, Use, Upgrade Console, Upgrade, Administer th
 
 Create skipped record rules, based on your specified conditions, to define customizations post-upgrade. Subsequently, execute these rules to resolve skipped records during or after the upgrade process, either automatically or on demand.
 
--   **[Create a skipped record rule](../task/um-create-skipped-record-rule.md)**  
+-   **[Create a skipped record rule](um-create-skipped-record-rule.md)**  
 Create skipped record rules based on your set conditions to define your customizations after an upgrade.
--   **[Execute a skipped record rule](../task/um-execute-skipped-record-rule.md#)**  
+-   **[Execute a skipped record rule](um-execute-skipped-record-rule.md#)**  
 Run skipped record rules based on your set conditions to resolve skipped records in an upgrade. The rules either execute automatically during an upgrade or can run on demand after an upgrade.
 
-**Parent Topic:**[Upgrade Console tools](../reference/um-tools.md)
+**Parent Topic:**[Upgrade Console tools](um-tools.md)
 
 **Related topics**  
 

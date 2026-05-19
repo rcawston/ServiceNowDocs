@@ -47,5 +47,5 @@ The following informational notifications are included with ServiceNow for Micro
     ![Non-actionable notification](../images/non-action-notification-2.png)
 
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](employee-sn-ms-teams.md)
 

@@ -21,7 +21,7 @@ Role required: ui\_builder\_admin
 
 ## About this task
 
-The repeater component acts as a basic loop that repeats the data you provide in multiple components within UI Builder. Repeaters use an array or an array of objects. For example, the array `[{"task": "A"},{"task": "B"}]` repeats the content inside it two times. Repeaters enable you to [bind](../concept/ui-builder-glossary.md#) values to a data array property. `@item.value.{property_name}` binds the values to the component inside the repeaters. If you want to bind a task, you can bind it as `@item.value.task`, and the repeater displays the correct value.
+The repeater component acts as a basic loop that repeats the data you provide in multiple components within UI Builder. Repeaters use an array or an array of objects. For example, the array `[{"task": "A"},{"task": "B"}]` repeats the content inside it two times. Repeaters enable you to [bind](ui-builder-glossary.md#) values to a data array property. `@item.value.{property_name}` binds the values to the component inside the repeaters. If you want to bind a task, you can bind it as `@item.value.task`, and the repeater displays the correct value.
 
 Components inside a repeater repeat the number of items in the data source, regardless of whether the component output is made dynamic or not. For example, say that you place a Header component inside a repeater with three data elements but don't change the Label field. Then you see three instances of the Header with the same output Label.
 
@@ -31,7 +31,7 @@ Components inside a repeater repeat the number of items in the data source, rega
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Open the editor for the page where you want to add the repeater.
 
@@ -57,7 +57,7 @@ Components inside a repeater repeat the number of items in the data source, rega
 
 5.  Select an existing container or create a column layout.
 
-    See [Organize components in UI Builder pages](../concept/work-layouts.md) for more information.
+    See [Organize components in UI Builder pages](work-layouts.md) for more information.
 
 6.  Add the repeater component to your page.
 
@@ -120,5 +120,5 @@ Components inside a repeater repeat the number of items in the data source, rega
     A tab opens to display the page preview with repeated data.
 
 
-**Parent Topic:**[Configure components and repeaters \(advanced feature\)](../concept/configure-comp-and-repeaters.md)
+**Parent Topic:**[Configure components and repeaters \(advanced feature\)](configure-comp-and-repeaters.md)
 

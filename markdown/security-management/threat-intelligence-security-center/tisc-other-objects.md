@@ -37,7 +37,7 @@ Data sources represent the various subjects/topics of information that can be co
 
 [Vulnerability Artifacts](vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](define-rss-feeds.md)
 
 [Working with Reports in TISC](tisc-reports-lib-view.md)
 

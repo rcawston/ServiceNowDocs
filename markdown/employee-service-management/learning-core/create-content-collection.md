@@ -17,7 +17,7 @@ Create a content collection in Learning to dynamically group Learning content th
 
 ## Before you begin
 
-Every collection must be a part of a course catalog. Create a course catalog before you create a collection. For more information, see [Create a course catalog](../task/create-course-catalog.md).
+Every collection must be a part of a course catalog. Create a course catalog before you create a collection. For more information, see [Create a course catalog](create-course-catalog.md).
 
 Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
@@ -29,7 +29,7 @@ Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
 3.  On the Collection form, fill in the fields.
 
-    For a description of the field values, see [Collection form](../reference/collection-form-lxp.md).
+    For a description of the field values, see [Collection form](collection-form-lxp.md).
 
 4.  Select **Submit**.
 
@@ -38,7 +38,7 @@ Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 After you create a collection, add course items as groupings of courses that are orchestrated within ServiceNow®.
 -   **[Define user access to course within a collection](define-course-user-access.md)**  
 Define user access to the collection to define who has read access to the collections.
--   **[Add learning course sections](../task/add-learning-course-sections-lxp.md)**  
+-   **[Add learning course sections](add-learning-course-sections-lxp.md)**  
 Add learning course sections to collections.
 -   **[Assign topics to a collection](assign-collection-topics.md)**  
 Add assigned topics to collections.
@@ -60,13 +60,13 @@ Add assigned topics to collections.
 
 [Create user achievements](create-user-achievements.md)
 
-[Create an achievement rule](../task/create-achievement-rule.md)
+[Create an achievement rule](create-achievement-rule.md)
 
-[Create an achievement rule item](../task/achievement-rule-item.md)
+[Create an achievement rule item](achievement-rule-item.md)
 
-[Collection form](../reference/collection-form-lxp.md)
+[Collection form](collection-form-lxp.md)
 
 [Add course items to collection](add-course-items.md)
 
-[Add learning course sections](../task/add-learning-course-sections.md)
+[Add learning course sections](add-learning-course-sections.md)
 

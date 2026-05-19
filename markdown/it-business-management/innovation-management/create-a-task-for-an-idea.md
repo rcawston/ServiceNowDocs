@@ -53,5 +53,5 @@ Create a task such as a demand, project, story, SAFe epic, SAFe feature, or SAFe
     **Note:** You must also have the appropriate role based on the plugins to create these task types.
 
 
-**Parent Topic:**[Managing ideas using Innovation Management](../concept/using-innovation-management.md)
+**Parent Topic:**[Managing ideas using Innovation Management](using-innovation-management.md)
 

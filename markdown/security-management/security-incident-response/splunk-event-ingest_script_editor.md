@@ -52,5 +52,5 @@ In certain cases, Splunk Enterprise alert values are mapped to the Category, Con
 5.  Close the table to return to the Mapping form.
 
 
-**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](../concept/splunk-event-ingest-integration-architecture.md)
+**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-integration-architecture.md)
 

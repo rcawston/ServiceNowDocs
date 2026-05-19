@@ -38,7 +38,7 @@ This step lets you set up transfer options for agents, queues, external numbers,
 
 ## What to do next
 
-Select the phone icon in the header to view your configured voice control features in the Global call and Active call windows. See [Interaction Controls Component \(ICC\) call features](../concept/interaction-controls-component-icc-call-interaction-features.md) for call control feature definitions.
+Select the phone icon in the header to view your configured voice control features in the Global call and Active call windows. See [Interaction Controls Component \(ICC\) call features](interaction-controls-component-icc-call-interaction-features.md) for call control feature definitions.
 
 Continue to the final step in the simulation to [Adding participants](adding-participants.md).
 

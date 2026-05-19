@@ -21,7 +21,7 @@ Pick up parts that you requested from peer agents that are ready for pickup and 
 
 ### Before you begin
 
-The Field Service Advanced Parts Sourcing plugin \(com.snc.fsm\_advanced\_parts\_sourcing\) must be activated. For more information, see [Additional plugins for Field Service Management](../reference/field-service-additional-plugins.md).
+The Field Service Advanced Parts Sourcing plugin \(com.snc.fsm\_advanced\_parts\_sourcing\) must be activated. For more information, see [Additional plugins for Field Service Management](../field-service-additional-plugins.md).
 
 Role required: wm\_agent
 

@@ -47,7 +47,7 @@ The GSS content appears on the topic page enabling your employees to easily self
 **Related topics**  
 
 
-[Guided Self-Service reference](../reference/gss-guided-self-service-reference-info.md)
+[Guided Self-Service reference](gss-guided-self-service-reference-info.md)
 
-[Use Guided Self-Service](../concept/gss-guided-self-service-homepage.md)
+[Use Guided Self-Service](gss-guided-self-service-homepage.md)
 

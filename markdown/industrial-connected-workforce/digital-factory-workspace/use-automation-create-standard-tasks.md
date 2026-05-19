@@ -47,7 +47,7 @@ The automation action belongs to the Action Category called Guided Task Automati
 
 9.  On the Set actions form, fill in the fields.
 
-    For a description of the field values, see [Standard automation task form](../reference/standard-task-automation-form.md).
+    For a description of the field values, see [Standard automation task form](standard-task-automation-form.md).
 
 10. Select **Close**.
 
@@ -56,5 +56,5 @@ The automation action belongs to the Action Category called Guided Task Automati
 12. Select the option **I understand the automation will no longer be editable** and then select **Activate**.
 
 
-**Parent Topic:**[Using Industrial Guided Tasks](../concept/using-industrial-guided-tasks.md)
+**Parent Topic:**[Using Industrial Guided Tasks](using-industrial-guided-tasks.md)
 

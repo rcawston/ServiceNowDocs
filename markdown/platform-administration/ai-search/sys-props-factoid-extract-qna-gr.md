@@ -29,7 +29,7 @@ glide.ais.genius\_result.qna\_mode
 
 </td><td>
 
-Specifies the factoid extraction mode that you want Q&amp;A Genius Results to use. For more information on factoid extraction, see the [Factoid extraction for Q&amp;A Genius Results](../concept/factoid-extraction-qa-grs-ais.md) section.
+Specifies the factoid extraction mode that you want Q&amp;A Genius Results to use. For more information on factoid extraction, see the [Factoid extraction for Q&amp;A Genius Results](factoid-extraction-qa-grs-ais.md) section.
 
 -   Type: string
 -   Default value: **none**
@@ -40,5 +40,5 @@ Specifies the factoid extraction mode that you want Q&amp;A Genius Results to us
     -   **snippet**: Q&amp;A Genius Result answer cards display the full extracted snippet from the source HTML article, with the factoid highlighted if possible.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Q&amp;A Genius Results](../concept/genius-result-q-a-ais.md)
+</table>**Parent Topic:**[Q&amp;A Genius Results](genius-result-q-a-ais.md)
 

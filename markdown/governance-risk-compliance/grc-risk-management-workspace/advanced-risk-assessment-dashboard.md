@@ -45,5 +45,5 @@ This dashboard is visible to users with the sn\_risk.user role.
 
 ![Risk register dashboard.](../image/ara_dashboard_risk_register.png "Risk register dashboard")
 
-**Parent Topic:**[Analytics and reporting solutions for Risk Management](../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
+**Parent Topic:**[Analytics and reporting solutions for Risk Management](grc-risk-mgmt-content-pack.md)
 

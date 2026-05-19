@@ -101,7 +101,7 @@ References
 
 </td><td>
 
-[Certificates](../../general/concept/c_Certificates.md)
+[Certificates](../c_Certificates.md)
 
  [Verify certificate chain and hostname](sc-verify-certificate-chain-and-hostname.md)
 

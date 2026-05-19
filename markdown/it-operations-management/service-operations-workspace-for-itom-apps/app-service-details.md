@@ -26,7 +26,7 @@ Provides comprehensive information about an application service, including its n
 |Discovery status|System's ability to locate and recognize the service within its network.|
 |Comments|Additional notes or pertinent information regarding the service that may be helpful for understanding its management or usage.|
 
-To return to the procedure, see [View application service details in Service Operations Workspace](../../event-management/task/worksplace-view-service-details.md).
+To return to the procedure, see [View application service details in Service Operations Workspace](worksplace-view-service-details.md).
 
-**Parent Topic:**[Service Operations Workspace for ITOM reference](../concept/sow-reference-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM reference](sow-reference-itom.md)
 

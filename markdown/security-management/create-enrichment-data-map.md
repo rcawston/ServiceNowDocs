@@ -206,5 +206,5 @@ The table to which the fields to map are going.
 </table>7.  Select **Submit**.
 
 
-**Parent Topic:**[Security Operations enrichment data mapping](../concept/enrichment-data-mapping.md)
+**Parent Topic:**[Security Operations enrichment data mapping](enrichment-data-mapping.md)
 

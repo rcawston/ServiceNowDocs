@@ -70,5 +70,5 @@ When set to **Yes**, the item details appear as a pop-up when the cursor hovers 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Service catalog home page configuration](../concept/c_ManagingTheHomepageForACatalog.md)
+**Parent Topic:**[Service catalog home page configuration](c_ManagingTheHomepageForACatalog.md)
 

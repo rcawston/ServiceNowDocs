@@ -72,7 +72,7 @@ Use a conversation designer to build and test conversations without scripting or
 
 </td><td>
 
-[Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+[Virtual Agent Designer](conversation-designer-virtual-agent.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Use LLM topic discovery instead of Natural Language Understanding \(NLU\) or key
 
 </td><td>
 
-[Now Assist in Virtual Agent](../../now-assist-in-va/concept/now-assist-in-va-landing.md)
+[Now Assist in Virtual Agent](../now-assist-in-virtual-agent/now-assist-in-va-landing.md)
 
  [LLM topic discovery in Virtual Agent](va-llm.md)
 
@@ -110,9 +110,9 @@ Create custom chat experiences for users from where they run Virtual Agent.
 
 </td><td>
 
-[Configuring assistants overview](../../now-assist-in-va/task/configure-now-assist-va.md)
+[Configuring assistants overview](../now-assist-in-virtual-agent/configure-now-assist-va.md)
 
- [Branding your chat client](../../conversational-interfaces/concept/branding-chat-client.md)
+ [Branding your chat client](../branding-chat-client.md)
 
  [Customizing a Virtual Agent chat experience](va-conversation-settings.md)
 

@@ -24,9 +24,9 @@ Install the following plugins:
 -   Workplace Space Management
 -   For Floor map view, the floor maps must be created using Workplace Indoor Mapping Map studio.
 
--   **[Edit a building's spaces using a map](../task/edit-space-details-for-buildings.md)**  
+-   **[Edit a building's spaces using a map](edit-space-details-for-buildings.md)**  
 Space planners and administrators can update space attributes and allocation changes using interactive floor maps. Select and edit a single space or update bulk spaces via floor maps. Add, change, or remove space allocations as required. The updated space attributes and association changes are reflected in real-time on a floor map.
--   **[Move employees on a floor or to a different floor using the map](../task/move-employees-on-a-floor-or-to-a-different-floor-using-the-map.md)**  
+-   **[Move employees on a floor or to a different floor using the map](move-employees-on-a-floor-or-to-a-different-floor-using-the-map.md)**  
 Using the building's Floor map view, move single or multiple employees on a floor or to a different floor. Assign or unassign a space to an employee.
 
 **Parent Topic:**[Working with Space Optimization](working-with-space-optimization.md)
@@ -38,21 +38,21 @@ Using the building's Floor map view, move single or multiple employees on a floo
 
 [Viewing or editing a scenario](viewing-editing-scenario.md)
 
-[Review a scenario](../task/review-a-scenario.md)
+[Review a scenario](review-a-scenario.md)
 
-[Publish a scenario](../task/publish-a-scenario.md)
+[Publish a scenario](publish-a-scenario.md)
 
-[Send a scenario for approval](../task/send-a-scenario-for-approval.md)
+[Send a scenario for approval](send-a-scenario-for-approval.md)
 
-[Change owner of a scenario](../task/change-owner-of-a-scenario.md)
+[Change owner of a scenario](change-owner-of-a-scenario.md)
 
 [Deploy a scenario](../task/deploy-a-scenoria.md)
 
-[View scenario change details](../task/view-scenario-change-details.md)
+[View scenario change details](view-scenario-change-details.md)
 
-[Create a copy of an existing scenario](../task/create-copy-of-scenario.md)
+[Create a copy of an existing scenario](create-copy-of-scenario.md)
 
-[View or edit space allocations of a building](../task/view-or-edit-space-alloctions-of-a-building.md)
+[View or edit space allocations of a building](view-or-edit-space-alloctions-of-a-building.md)
 
-[Work on a space assist request](../task/work-on-space-assist-request.md)
+[Work on a space assist request](work-on-space-assist-request.md)
 

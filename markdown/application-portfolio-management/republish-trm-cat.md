@@ -44,7 +44,7 @@ You must republish a TRM catalog to reflect the changes such as updates to the T
 
 The knowledge base catalog reflects the latest TRM data and publishing configuration.
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 
@@ -55,5 +55,5 @@ The knowledge base catalog reflects the latest TRM data and publishing configura
 
 [Edit a published TRM catalog configuration](modify-trm-cat-pub-config.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](understand-publishing-output.md)
 

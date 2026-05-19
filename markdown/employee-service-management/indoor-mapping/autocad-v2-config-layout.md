@@ -26,7 +26,7 @@ CAD editor provides editing and drawing tools to edit and optimize your CAD sour
 
 **Parent Topic:**[Autocad import tool](autocad-ovw-v2.md)
 
-**Previous topic:**[Configure the AutoCAD import tool](../task/enable-autocad-v2.md)
+**Previous topic:**[Configure the AutoCAD import tool](enable-autocad-v2.md)
 
 **Next topic:**[Map Configuration tab](map-configuration-v2.md)
 

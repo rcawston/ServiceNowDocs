@@ -27,7 +27,7 @@ Role required: sn\_irm\_cont\_auth.system\_owner or sn\_irm\_cont\_auth.admin
 
 2.  Select **New** and then fill in the form.
 
-    The settings are described in [Fields on the Authorization Boundary form](../reference/cam-form-authorization-boundary.md).
+    The settings are described in [Fields on the Authorization Boundary form](cam-form-authorization-boundary.md).
 
     ![Authorization boundary - new record](../image/cam-auth-boundaries-new.png)
 
@@ -52,5 +52,5 @@ Role required: sn\_irm\_cont\_auth.system\_owner or sn\_irm\_cont\_auth.admin
 
 This completes the procedure for defining the authorization boundary. The next step is to create the authorization package that will be processed through approvals. You can initiate the process by clicking the **Authorization Packages** tab or via the navigation pane. For details, see [Create an authorization package](create-auth-package.md).
 
-**Parent Topic:**[RMF step 0 - Prepare the authorization package](../concept/prepare-auth-pkg.md)
+**Parent Topic:**[RMF step 0 - Prepare the authorization package](prepare-auth-pkg.md)
 

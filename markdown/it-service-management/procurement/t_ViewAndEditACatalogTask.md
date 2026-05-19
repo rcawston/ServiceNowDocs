@@ -55,7 +55,7 @@ If a request requires approval, a catalog task is created automatically when the
 4.  Select **Update**.
 
 
-**Parent Topic:**[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+**Parent Topic:**[Procurement purchase order management for assets](c_UseProcurement.md)
 
 **Related topics**  
 
@@ -68,5 +68,5 @@ If a request requires approval, a catalog task is created automatically when the
 
 [Create an asset and reserve it for the requester](t_CreateAssetReserveForRequester.md)
 
-[Models](../../product-catalog/concept/c_Models.md)
+[Models](../product-catalog/c_Models.md)
 

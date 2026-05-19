@@ -19,7 +19,7 @@ This activity requires the user's current password to run, unlike the [**Reset A
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
-**Note:** This activity replaces an AD activity by the same name available in prior releases. If you have a workflow that uses the deprecated activity, your workflow will continue to work normally after upgrading to Instanbul. However, all new workflows must use the custom version of this activity, which was built with the [PowerShell activity designer](../../orchestration-activity-designer/concept/c_PowershellActivityDesigner.md).
+**Note:** This activity replaces an AD activity by the same name available in prior releases. If you have a workflow that uses the deprecated activity, your workflow will continue to work normally after upgrading to Instanbul. However, all new workflows must use the custom version of this activity, which was built with the [PowerShell activity designer](c_PowershellActivityDesigner.md).
 
 ## Input variables
 
@@ -57,7 +57,7 @@ errorMessage
 
 </td><td>
 
-The **executionResult.errorMessages** from the [Activity designer parsing sources](../../orchestration-activity-designer/task/t_CreateAParsingRule.md#).
+The **executionResult.errorMessages** from the [Activity designer parsing sources](t_CreateAParsingRule.md#).
 
 </td></tr><tr><td>
 
@@ -83,5 +83,5 @@ The activity provides the following conditions:
 
 If you are using an LDAP Server with MID Servers, note that Orchestration and Active Directory activities do not use the user name and password configured on LDAP Servers. You must create a [Windows type orchestration credential record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md). The username and password in the credentials record is used for LDAP queries that Orchestration and workflow activities perform.
 
-**Parent Topic:**[Active Directory activity pack](../concept/c_OrchActiveDirectoryActivities.md)
+**Parent Topic:**[Active Directory activity pack](c_OrchActiveDirectoryActivities.md)
 

@@ -129,7 +129,7 @@ Field from the table defined in the **Table** field. This field is used to gener
 
 When the page loads, the record defined in the URL query parameter displays. The field defined in **Table field** determines the title of the page.
 
-**Parent Topic:**[Improving search engine optimization for portals](../concept/seo-sp.md)
+**Parent Topic:**[Improving search engine optimization for portals](seo-sp.md)
 
 **Related topics**  
 

@@ -43,7 +43,7 @@ Role required: sn\_wsd\_case.case\_reader, sn\_wsd\_case.case\_writer, sn\_wsd\_
     The workplace case report is available in both the Activity and Attachments sections.
 
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](working-with-case-management.md)
 
 **Related topics**  
 
@@ -56,7 +56,7 @@ Role required: sn\_wsd\_case.case\_reader, sn\_wsd\_case.case\_writer, sn\_wsd\_
 
 [Create a child case and a child task](create-a-child-case-and-a-child-task-casemgmtworkspace.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](manage-print-case.md#)
 
 [Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md)
 

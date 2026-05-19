@@ -30,7 +30,7 @@ Automatic Key Exchange is active by default when cloning an instance, where the 
 -   **Turn off automatic key exchange:** Set the **glide\_encryption.auto\_key\_exchange.enabled** property to **false** for recurring clone requests.
 -   **Send auto key exchange requests**: Set this property to **true**.
 
-**Important:** The base system property is set to **true** by default, meaning that automatic key exchange is activated when cloning an instance. This value must be set to **false** if you're using the [Rekey ciphertext with Key Exchange](../reference/rekey-keyexchange.md) or the recurring Key Exchange functionality. See [Recurring Key Exchange walkthrough](key-exchange-walkthrough.md) for additional details.
+**Important:** The base system property is set to **true** by default, meaning that automatic key exchange is activated when cloning an instance. This value must be set to **false** if you're using the [Rekey ciphertext with Key Exchange](rekey-keyexchange.md) or the recurring Key Exchange functionality. See [Recurring Key Exchange walkthrough](key-exchange-walkthrough.md) for additional details.
 
 ## Procedure
 
@@ -110,5 +110,5 @@ Option to enable auto rekeying.
 
 After a key exchange is attempted, your non-production instance updates the **protected.script.values.kmf.rekeyed** system property. This property is visible in the System Properties \[sys\_properties\] table after a key exchange is attempted. If the encryption using the exchanged key is successful, this property has a value of **true**. Otherwise, the property has a value of **false**. If the value is false, the instance will attempt to encrypt again the next day.
 
-**Parent Topic:**[Key Management Framework Resource Exchange](../reference/resource-exchange.md)
+**Parent Topic:**[Key Management Framework Resource Exchange](resource-exchange.md)
 

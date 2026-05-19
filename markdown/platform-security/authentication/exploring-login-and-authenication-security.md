@@ -41,10 +41,10 @@ Control several dimensions of the log in and log out process for users, such as 
 
 </td><td>
 
--   [Define login scenarios](../../login/task/t_LoginScenarios.md)
--   [Configure the logout confirmation prompt](../task/t_EnableTheLogoutConfirmPrompt.md)
--   [Installation exits](../../../script/server-scripting/reference/r_InstallationExits.md)
--   [Specify lockout for failed login attempts](../task/t_LockoutForFailedLogins.md)
+-   [Define login scenarios](t_LoginScenarios.md)
+-   [Configure the logout confirmation prompt](t_EnableTheLogoutConfirmPrompt.md)
+-   [Installation exits](r_InstallationExits.md)
+-   [Specify lockout for failed login attempts](t_LockoutForFailedLogins.md)
 
 </td></tr><tr><td>
 
@@ -56,11 +56,11 @@ Control the password reset process and features like the Remember Me option. You
 
 </td><td>
 
--   [Configure your password policy](../../../integrate/authentication/task/set-your-password-policy.md)
+-   [Configure your password policy](set-your-password-policy.md)
 -   [Password Reset](c_SelfServicePasswordReset.md)
--   [Remember me](../../login/concept/c_ChSetRemMeChkbxCookie.md#)
--   [IP range based authentication](../../login/concept/c_IPRangeBasedAuthentication.md)
--   [Implement a nonce](../../login/concept/c_ImplementingANonce.md)
+-   [Remember me](c_ChSetRemMeChkbxCookie.md#)
+-   [IP range based authentication](c_IPRangeBasedAuthentication.md)
+-   [Implement a nonce](c_ImplementingANonce.md)
 
 </td></tr></tbody>
 </table>

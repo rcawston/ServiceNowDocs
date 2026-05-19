@@ -38,5 +38,5 @@ Role required: Microsoft Teams admin
 
 OIDC Application Registry is created.
 
-**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](../concept/setup-notify-ms-teams-single-tenant.md)
+**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](setup-notify-ms-teams-single-tenant.md)
 

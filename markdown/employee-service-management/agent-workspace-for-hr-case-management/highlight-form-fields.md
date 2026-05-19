@@ -74,7 +74,7 @@ The workspace this highlighting applies to.Select **Agent Workspace**
 
 6.  On the form, fill in the fields.
 
-    For a description of field values, see [Highlighted value condition form](../reference/highlighted-value-form.md).
+    For a description of field values, see [Highlighted value condition form](highlighted-value-form.md).
 
 7.  Select **Submit**.
 

@@ -19,7 +19,7 @@ Begin building your playbook by adding and configuring the trigger.
 
 Role required: playbook.admin or pd\_author
 
-Review [Triggers](../concept/process-automation-designer-triggers.md).
+Review [Triggers](process-automation-designer-triggers.md).
 
 [Create a trigger definition](create-trigger-definition.md) if needed.
 
@@ -86,7 +86,7 @@ The trigger is configured.
 
 [Add and configure your stages.](add-configure-stage.md)
 
-**Parent Topic:**[Triggers](../concept/process-automation-designer-triggers.md)
+**Parent Topic:**[Triggers](process-automation-designer-triggers.md)
 
 **Related topics**  
 

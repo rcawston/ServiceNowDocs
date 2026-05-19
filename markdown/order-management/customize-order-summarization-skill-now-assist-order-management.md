@@ -151,5 +151,5 @@ Description of the base input field value.
     Select **Summarize** in an order to generate the order summary.
 
 
-**Parent Topic:**[Configuring Now Assist for Order Management](../concept/now-assist-for-order-management-configuring.md)
+**Parent Topic:**[Configuring Now Assist for Order Management](now-assist-for-order-management-configuring.md)
 

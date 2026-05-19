@@ -65,11 +65,11 @@ Unlike a record trigger which runs on all records in a table, the Service Catalo
 
     6.  Add actions, subflows, and flow logic to the flow.
 
-        Some actions enable you to manage catalog items. For example, the Create Catalog Task action generates a task for the requested item, and the Get Catalog Variables action enables you to access catalog variables as data pills in the flow. See [Create Catalog Task action](../reference/create-catalog-task-flow-designer.md) and [Get Catalog Variables action](../reference/get-cat-variables-flow-designer.md).
+        Some actions enable you to manage catalog items. For example, the Create Catalog Task action generates a task for the requested item, and the Get Catalog Variables action enables you to access catalog variables as data pills in the flow. See [Create Catalog Task action](create-catalog-task-flow-designer.md) and [Get Catalog Variables action](get-cat-variables-flow-designer.md).
 
     7.  Add stages to the flow to report progress to the requester.
 
-        See [Flow and subflow stages](../concept/flow-designer-stages.md).
+        See [Flow and subflow stages](flow-designer-stages.md).
 
     8.  Test the flow.
 

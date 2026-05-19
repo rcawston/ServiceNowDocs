@@ -95,5 +95,5 @@ Role required: Microsoft Azure portal administrator and admin
 
 [Register an OAuth provider](register-oauth-cred-flow.md)
 
-**Parent Topic:**[Sending email using client credential flow](../concept/send-email-client-credential-flow.md)
+**Parent Topic:**[Sending email using client credential flow](send-email-client-credential-flow.md)
 

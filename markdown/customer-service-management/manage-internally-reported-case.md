@@ -97,5 +97,5 @@ Propose a major case when multiple customers are affected. **Note:** If you don'
 
 [Close a customer service case](t_CloseACase.md)
 
-[AWA for CSM](../concept/awa-csm-overview.md)
+[AWA for CSM](awa-csm-overview.md)
 

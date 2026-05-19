@@ -117,7 +117,7 @@ Role required: admin
 
         ![Connection for Adobe Sign spoke](../image/adobe-sign-connection.png)
 
-    -   To manage more than one Adobe Sign spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Adobe Sign spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![First-time connection configuration.](../image/adobe-sign-connection-configure.png)

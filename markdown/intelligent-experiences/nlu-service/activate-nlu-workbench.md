@@ -69,7 +69,7 @@ NLU Active Learning-Propertiescom.glide.nlu.active\_learning\_properties
 
 </td><td>
 
-Enables the nlu\_admin to configure the system properties for the Expert Feedback Loop application. If you don't use the Expert Feedback Loop application, this plugin is not used and can safely be ignored. For more information about the system properties for the Expert Feedback Loop, see the [NLU Expert Feedback Loop](../concept/nlu-expert-feedback-loop.md) documentation.
+Enables the nlu\_admin to configure the system properties for the Expert Feedback Loop application. If you don't use the Expert Feedback Loop application, this plugin is not used and can safely be ignored. For more information about the system properties for the Expert Feedback Loop, see the [NLU Expert Feedback Loop](nlu-expert-feedback-loop.md) documentation.
 
 </td></tr></tbody>
 </table>The following two plugins are for apps associated with a for-fee subscription and are available on the ServiceNow Store. Installing these apps adds additional features to the NLU Workbench. Contact your account manager if you are interested in these apps.
@@ -84,7 +84,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Intent Discovery](../concept/intent-discovery.md) sn\_nlu\_discovery
+[Intent Discovery](intent-discovery.md) sn\_nlu\_discovery
 
 </td><td>
 
@@ -92,7 +92,7 @@ Delivers the Intent Discovery feature, which identifies user intents by analyzin
 
 </td></tr><tr><td>
 
-[NLU Workbench - Advanced Features](../concept/nlu-workbench-advanced-features.md) sn\_nlu\_workbench
+[NLU Workbench - Advanced Features](nlu-workbench-advanced-features.md) sn\_nlu\_workbench
 
 </td><td>
 

@@ -34,20 +34,20 @@ Role required: owner or writer
     **Important:** The permalink generated can be accessed publicly irrespective of the document classification.
 
 
-**Parent Topic:**[Document repository](../concept/doc-mgt-view-documents-repo.md)
+**Parent Topic:**[Document repository](doc-mgt-view-documents-repo.md)
 
 **Related topics**  
 
 
 [Create a document record](create-new-doc.md)
 
-[Document versions](../concept/document-mgt-versions.md)
+[Document versions](document-mgt-versions.md)
 
 [Download a document](downloading-a-document.md)
 
 [Share a document link](share-document-link.md)
 
-[Configure document permissions](../concept/document-configuration.md)
+[Configure document permissions](document-configuration.md)
 
 [Delete a document link](delete-document-link.md)
 

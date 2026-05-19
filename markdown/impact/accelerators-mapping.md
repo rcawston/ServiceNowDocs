@@ -33,5 +33,5 @@ Following are the tables that are synced with anything related to requesting or 
 |request\_notes|sn\_impact\_common\_impact\_accelerator|request\_notes|x\_snc\_cusp\_play\_instance|
 |closed\_at|sn\_impact\_common\_impact\_accelerator|completed\_date|x\_snc\_cusp\_play\_instance|
 
-**Parent Topic:**[Table and field level mapping](../concept/table-field-level-mapping.md)
+**Parent Topic:**[Table and field level mapping](table-field-level-mapping.md)
 

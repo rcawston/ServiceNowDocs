@@ -41,7 +41,7 @@ Organizations can define who the topic page is **Available for** and **Not Avail
 
 2.  Click **New**.
 
-3.  Configure the topic form, see [Topic form](../reference/topic-form.md).
+3.  Configure the topic form, see [Topic form](topic-form.md).
 
 4.  Select **Enable user criteria check** to set user criteria at topic-level.
 

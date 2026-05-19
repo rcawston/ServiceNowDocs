@@ -116,7 +116,7 @@ This script include runs in the `sn_cti_core` namespace. Before you are able to 
 
 For additional information on the ServiceNow Voice, see [ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cloud-call-center-overview.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CTIOperationRequest - CTIOperationRequest\(String origin\)
 
@@ -772,7 +772,7 @@ Sets the sys\_id of the interaction record associated with the operation request
 
 If you want to maintain contact interaction information within a contact-specific interaction record, the interaction record sys\_id must be maintained for the entire ServiceNow Voice call session.
 
-Typically, an operation handler creates an interaction record when a new contact call is initiated. It then sets the interaction record sys\_id and table name on the associated CTIOperationResponse object as session attributes using the [CTIOperationRequest - setSessionAttribute\(String key, Object value\)](../../CTIOperationResponse/concept/CTIOperationResponseAPI.md#) method. The associated method transformer then translates this information into the computer telephony integration \(CTI\) provider payload and sends it back to the CTI provider.
+Typically, an operation handler creates an interaction record when a new contact call is initiated. It then sets the interaction record sys\_id and table name on the associated CTIOperationResponse object as session attributes using the [CTIOperationRequest - setSessionAttribute\(String key, Object value\)](CTIOperationResponseAPI.md#) method. The associated method transformer then translates this information into the computer telephony integration \(CTI\) provider payload and sends it back to the CTI provider.
 
 The CTI provider must store the interaction record sys\_id for the contact session locally. Each time the CTI provider interacts with the ServiceNow Voice for this contact session, it must pass back the corresponding interaction record sys\_id in its payload. The receiving message transformer then parses the payload and uses the CTIOperationRequest - setInteractionSysId\(\) method to set the interaction record sys\_id on the associated CTIOperationtRequest object.
 

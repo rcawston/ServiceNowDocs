@@ -43,7 +43,7 @@ To ensure that your changes do not conflict with other development efforts, you 
     |------|------|
     |**To maintain the local record as the current version**|Click **Use Local Version**. The pulled version is added to the version history for the record.|
     |**To load the version pulled from the parent as the current version**|Click **Use Pulled Version**.|
-    |**To move a setting from the selected version to update the current version__Note:__ Some types of record do not support this method. See [Limitations on updating records](../reference/r_LimitationsOnResolvingCollisions.md) for more information.
+    |**To move a setting from the selected version to update the current version__Note:__ Some types of record do not support this method. See [Limitations on updating records](r_LimitationsOnResolvingCollisions.md) for more information.
 
 **|To move a change, click the **&gt;** \(Move Right\) button for the field. To work with scripts and text fields, click in the field and modify the text as needed. When the records meet your needs, click **Save Merge and Resolve Collision**.|
 
@@ -69,5 +69,5 @@ The system saves the merged changes and resolves the collision.
 
 [Revert a change](t_RevertAChange.md)
 
-[View customizations and compare with current version](../../system-update-sets/task/view-customer-update-records.md)
+[View customizations and compare with current version](../system-update-sets/view-customer-update-records.md)
 

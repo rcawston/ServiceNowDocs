@@ -207,7 +207,7 @@ The policy you configure defines the AWS permissions that you can assign to a us
         ```
 
 
-**Parent Topic:**[Setting up AWS service accounts](../concept/setup-aws-service-accounts.md)
+**Parent Topic:**[Setting up AWS service accounts](setup-aws-service-accounts.md)
 
 **Related topics**  
 

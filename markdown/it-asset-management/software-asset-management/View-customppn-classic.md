@@ -34,5 +34,5 @@ Role required: sam\_admin
     -   **Accept**: The Content Service PPN and DMAP replace the custom PPN and DMAP. In the impacted entitlement, the content service PPN is replaced. Similarly, the content service DMAP is replaced on the software model.
     -   **Reject**: The status of this record changes to rejected and you continue to use the custom PPN.
 
-**Parent Topic:**[Using Software Asset Management classic](../concept/using-sam-classic.md)
+**Parent Topic:**[Using Software Asset Management classic](using-sam-classic.md)
 

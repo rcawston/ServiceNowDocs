@@ -25,7 +25,7 @@ Gamification administrators can configure level ranges within each level. These 
 
 ![Gamification Level Definition - Global Level view of a list of gamification levels and their domains.](../images/GamificationLevelDefinitionForm.png "Gamification Level Definition form")
 
-In the community portal, users can see the level range names and point totals in the [gamification user interface components](../concept/communities-gamification-UI.md).
+In the community portal, users can see the level range names and point totals in the [gamification user interface components](communities-gamification-UI.md).
 
 -   On the leaderboard page and leaderboard widgets
 -   At the top of a user's profile below the user name and title
@@ -37,7 +37,7 @@ In the community portal, users can see the level range names and point totals in
 **Related topics**  
 
 
-[Manage gamification levels](../task/gamification-create-level-def.md)
+[Manage gamification levels](gamification-create-level-def.md)
 
-[Manage gamification level ranges](../task/gamification-create-level-range.md)
+[Manage gamification level ranges](gamification-create-level-range.md)
 

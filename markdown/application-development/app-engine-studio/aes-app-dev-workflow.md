@@ -31,7 +31,7 @@ An admin may have several delegated developers, each with their own set of permi
 
 Some AES features may be inaccessible to the delegated developer, depending on permissions. Your role enables you to access, edit, and add objects. If a feature of App Engine Studio is unavailable to you, contact your system administrator.
 
-For more information about delegated development and permissions, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md).
+For more information about delegated development and permissions, see [Delegated development and deployment](../delegated-development-and-deployment/c_DelegatedDevelopment.md).
 
 ## Restricted ability to create apps
 

@@ -36,7 +36,7 @@ Complete these preparation tasks before running the dbt Cloud collector.
     See [Update job execution settings](prepare-to-run-dbt-cloud-collector.md#).
 
 
-**Parent Topic:**[dbt Cloud metadata collector](../concept/dbt-cloud-metadata-collector.md)
+**Parent Topic:**[dbt Cloud metadata collector](dbt-cloud-metadata-collector.md)
 
 ## Obtain account, project, job, and run IDs
 

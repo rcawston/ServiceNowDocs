@@ -36,9 +36,9 @@ Before creating management rules, you must install and configure the Service Rel
     Alert automation rules are ready to use in SRM.
 
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
 **Previous topic:**[Configure Twilio to send notifications in SRM](sr-add-twilio-key.md)
 
-**Next topic:**[Using Service Reliability Management](../concept/using-service-reliability-management.md)
+**Next topic:**[Using Service Reliability Management](using-service-reliability-management.md)
 

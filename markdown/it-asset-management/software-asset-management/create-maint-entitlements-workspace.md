@@ -33,7 +33,7 @@ Role required: sam\_user or sam\_admin
 
 4.  On the Create New Software Entitlement page, fill in the mandatory fields and select **Maintenance** in the **License type** field.
 
-    For a detailed description of all the fields, refer to [Software entitlement fields](../reference/software-entitlement-fields.md).
+    For a detailed description of all the fields, refer to [Software entitlement fields](software-entitlement-fields.md).
 
     If the **Next Version** field is populated in the software model that the maintenance entitlement is associated with and the metric group selected in the maintenance entitlement is **Common**, then the maintenance entitlement is updated with the next version of the software model. Next version is applicable only for the **Common** metric group.
 
@@ -45,7 +45,7 @@ Role required: sam\_user or sam\_admin
 
 6.  You can perform additional configuration on your new maintenance entitlement record.
 
-    For a detailed description, see [Software entitlement fields](../reference/software-entitlement-fields.md).
+    For a detailed description, see [Software entitlement fields](software-entitlement-fields.md).
 
     You can't add user or device allocations for maintenance entitlements.
 

@@ -46,7 +46,7 @@ Fulfillment type
 </td><td>
 
 Fulfillment type for the workplace service. You can select one of the following values:-   **Manual**: Select this option for manual fulfillment. This option enables you to fulfill the request with a human response.
--   **Service activity**: Select this option to trigger activities to fulfill the workplace service. Save the form to create or update workplace service activities. For more information, see [Create a Workplace service activity](../task/create-workplace-service-activity.md)
+-   **Service activity**: Select this option to trigger activities to fulfill the workplace service. Save the form to create or update workplace service activities. For more information, see [Create a Workplace service activity](create-workplace-service-activity.md)
 -   **Flow**: Select this option to use an existing subflow from the application for fulfillment. For more information about Flows, see [Create a subflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md).
 
 **Note:** If you are creating a custom subflow, ensure that the input fields are set to following:
@@ -77,7 +77,7 @@ Default template
 
 </td><td>
 
-Case template for the workplace service. For more information on templates, refer to [Case and Task Templates](../concept/wsd-templates.md).
+Case template for the workplace service. For more information on templates, refer to [Case and Task Templates](wsd-templates.md).
 
 </td></tr><tr><td>
 
@@ -186,7 +186,7 @@ Description
 Description about the workplace service that explains the purpose of the workplace service. You can add HTML text or regular text as the description.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Case Management references](../concept/workpalce-case-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Case Management references](workpalce-case-mgmt-references.md)
 
 **Related topics**  
 

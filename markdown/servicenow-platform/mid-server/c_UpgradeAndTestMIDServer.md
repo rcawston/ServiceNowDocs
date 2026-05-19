@@ -29,7 +29,7 @@ Upgrade MID Servers manually, or automatically through the instance. MID Server 
 
 -   **MID Server operating system compatibility**
 
-    Upgrading Windows or Linux MID Servers with 32-bit operating systems is not supported. For supported operating systems and other host requirements, see [MID Server system requirements](../reference/r_MIDServerSystemRequirements.md).
+    Upgrading Windows or Linux MID Servers with 32-bit operating systems is not supported. For supported operating systems and other host requirements, see [MID Server system requirements](r_MIDServerSystemRequirements.md).
 
 
 The MID Server can't upgrade on a Windows host if the Windows Application Experience service is turned off. For information on the error that is displayed and instructions for re-enabling this service, see [KB0597552](https://support.servicenow.com/kb_view.do?sysparm_article=KB0597552#appex&_ga=2.137899701.402632408.1615226320-1555493315.1610383440).
@@ -50,7 +50,7 @@ Any MID Server with a version different from the instance version needs to upgra
 
 When the MID Servers check the version each hour, they look at the **mid.version.override** property first. If this property is empty, the MID Servers get their version information from the **mid.buildstamp** property. If an override version is configured, the MID Servers use this value and ignore the version information in the **mid.buildstamp** property. This override value remains when the instance is restarted and is passed to the MID Servers. The value in the **mid.version.override** property is cleared during an upgrade, which forces the MID Server to reset itself to the version in the **mid.buildstamp** property.
 
-In addition to **mid.version.override**, the MID Server version can also be controlled with the configuration parameter **mid.pinned.version** which pins the MID Server to a specific version.To pin a MID Servers, set the **mid.pinned.version** parameter with the name of that version in the **config.xml** file of each MID Server. Use the format **&lt;version&gt;-mm-dd-yyyy**. This setting overrides the property setting for the pinned MID Server version. For instructions, see [Add a MID Server parameter](../reference/mid-server-parameters.md#). The value set in this parameter is not affected by an upgrade.
+In addition to **mid.version.override**, the MID Server version can also be controlled with the configuration parameter **mid.pinned.version** which pins the MID Server to a specific version.To pin a MID Servers, set the **mid.pinned.version** parameter with the name of that version in the **config.xml** file of each MID Server. Use the format **&lt;version&gt;-mm-dd-yyyy**. This setting overrides the property setting for the pinned MID Server version. For instructions, see [Add a MID Server parameter](mid-server-parameters.md#). The value set in this parameter is not affected by an upgrade.
 
 **Warning:** Using **mid.version.override** and **mid.pinned.version** is not recommended. The different versions on the MID Server and instance can cause outage issues on the MID Server.
 
@@ -64,12 +64,12 @@ In addition to **mid.version.override**, the MID Server version can also be cont
     -   Every hour, the MID Server checks with the instance to see if there is a different version available for upgrade. You cannot modify this time period.
 -   **Manual**
 
-    Manually start the upgrade by clicking a related link on the MID Server record. Use this method when you do not want to wait until the next hourly automatic update or if your upgrade failed and you want to force an upgrade. See [Upgrade the MID Server manually](../task/t_UpgradeTheMIDServerManually.md) for instructions.
+    Manually start the upgrade by clicking a related link on the MID Server record. Use this method when you do not want to wait until the next hourly automatic update or if your upgrade failed and you want to force an upgrade. See [Upgrade the MID Server manually](t_UpgradeTheMIDServerManually.md) for instructions.
 
 
 ## Upgrade process
 
-1.  **Pre-upgrade Check:**Before starting the actual MID Server upgrade process, the MID Server runs a set of tests to make sure that the host machine meets the minimum requirements. Any errors encountered during this automatic test prevent the upgrade from occurring until the issues are resolved. The pre-upgrade test is enabled by default but can be disabled by adding and setting a system property. See [MID Server pre-upgrade check](../reference/mid-server-pre-upgrade-check.md) for more information.
+1.  **Pre-upgrade Check:**Before starting the actual MID Server upgrade process, the MID Server runs a set of tests to make sure that the host machine meets the minimum requirements. Any errors encountered during this automatic test prevent the upgrade from occurring until the issues are resolved. The pre-upgrade test is enabled by default but can be disabled by adding and setting a system property. See [MID Server pre-upgrade check](mid-server-pre-upgrade-check.md) for more information.
 2.  **Download the packages:**The MID Server downloads upgrade packages from install.service-now.com. These packages are in zip format and are downloaded to the agent folder in the **package/incoming** folder.
 3.  **Digital Signature Verification**
 
@@ -140,7 +140,7 @@ For example, the default timeout may not be long enough for certain JVM level co
 
 -   **Upgrading**
 
-    The MID Server status is changed to Upgrading while the upgrade is running. The Upgrading state is similar to the [**Paused**](../task/t_PauseTheMIDServer.md#) state. This is avoids potential miscommunication between the new version of the instance and the previous version of the MID Server during upgrade. While in the Upgrading state, you cannot resume or restart the MID Server. However, you can perform the same actions that you can when the MID Server is in the Paused state.
+    The MID Server status is changed to Upgrading while the upgrade is running. The Upgrading state is similar to the [**Paused**](t_PauseTheMIDServer.md#) state. This is avoids potential miscommunication between the new version of the instance and the previous version of the MID Server during upgrade. While in the Upgrading state, you cannot resume or restart the MID Server. However, you can perform the same actions that you can when the MID Server is in the Paused state.
 
     **Note:** If you are using an Istanbul instance but you are upgrading a pre-Istanbul MID Server to Istanbul, these upgrade states are not available. They are only available for MID Servers that are already on Istanbul.
 
@@ -168,11 +168,11 @@ In order for a certificate to be migrated it must be:
 
 The MID Server identifies when a JRE upgrade is about to take place and begins the migration process. Before the migration, the MID Server creates a backup of the original TrustStore as a fall-back in the event of failure. If there is a failure, the backup TrustStore can be manually restored.
 
--   **[MID Server pre-upgrade check](../reference/mid-server-pre-upgrade-check.md)**  
+-   **[MID Server pre-upgrade check](mid-server-pre-upgrade-check.md)**  
 Prior to an upgrade, the MID Server runs tests to identify issues that could cause the upgrade process to fail or result in a MID Server outage.
--   **[Pinning a MID Server to a specific version](../reference/mid-server-version-selection.md)**  
+-   **[Pinning a MID Server to a specific version](mid-server-version-selection.md)**  
 You can pin all the MID Servers in your environment to a specific version by setting a system property, or you can configure specific versions for individual MID Servers.
--   **[Upgrade the MID Server manually](../task/t_UpgradeTheMIDServerManually.md)**  
+-   **[Upgrade the MID Server manually](t_UpgradeTheMIDServerManually.md)**  
 You can manually upgrade MID Servers at any time if you do not want to wait for the automatic upgrade.
 
 **Parent Topic:**[MID Server reference](mid-server-reference-information.md)
@@ -180,31 +180,31 @@ You can manually upgrade MID Servers at any time if you do not want to wait for 
 **Related topics**  
 
 
-[MID Server system requirements](../reference/r_MIDServerSystemRequirements.md)
+[MID Server system requirements](r_MIDServerSystemRequirements.md)
 
-[Resolving MID Server issues](../reference/r_MIDServerTroubleshooting.md)
+[Resolving MID Server issues](r_MIDServerTroubleshooting.md)
 
 [MID Server dashboard](c_MIDServerDashboard.md)
 
-[MID Server properties](../reference/r_MIDServerProperties.md#)
+[MID Server properties](r_MIDServerProperties.md#)
 
-[MID Server parameters](../reference/mid-server-parameters.md#)
+[MID Server parameters](mid-server-parameters.md#)
 
-[MID Server Configuration Parameter settings and priority](../reference/mid-config-param-priority.md)
+[MID Server Configuration Parameter settings and priority](mid-config-param-priority.md)
 
 [MID Server File Cleaner](mid_file_cleaner.md)
 
-[MID Server protected records and reserved characters](../reference/mid-server-reserved-characters.md)
+[MID Server protected records and reserved characters](mid-server-reserved-characters.md)
 
 [MID Server privileged commands](c_PrivilegedCommandsForMIDServer.md#)
 
-[MIDSystem methods](../reference/r_MIDSystemMethods.md)
+[MIDSystem methods](r_MIDSystemMethods.md)
 
-[Manually start, stop, and restart a MID Server](../task/t_InstallMIDServerAsWinService.md)
+[Manually start, stop, and restart a MID Server](t_InstallMIDServerAsWinService.md)
 
-[MID Server heartbeat](../reference/r_MIDServerHeartbeat.md)
+[MID Server heartbeat](r_MIDServerHeartbeat.md)
 
-[Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md)
+[Set the MID Server JVM memory size](t_MIDServerOptionalConfiguration.md)
 
-[Pause the MID Server](../task/t_PauseTheMIDServer.md#)
+[Pause the MID Server](t_PauseTheMIDServer.md#)
 

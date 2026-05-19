@@ -15,31 +15,31 @@ breadcrumb: [Using Asset Management, Asset Management, IT Asset Management]
 
 Manage pre-allocated assets, which are the assets that the vendor still owns, but has agreed to store in a customer stockroom for just-in-time procurement.
 
--   **[Create pre-allocated assets](../../asset-management/task/t_CreatingPreAllocatedAssets.md#)**  
+-   **[Create pre-allocated assets](t_CreatingPreAllocatedAssets.md#)**  
 Create a pre-allocated asset that physically exists, but isn’t yet a financial liability.
--   **[Allocate a pre-allocated asset](../../asset-management/task/t_AllocatingAPreAllocatedAsset.md)**  
+-   **[Allocate a pre-allocated asset](t_AllocatingAPreAllocatedAsset.md)**  
 Assets can be allocated from pre-allocated asset records, which creates new asset records and reduces the **Quantity** in the original pre-allocated asset record.
--   **[Split a pre-allocated asset](../../asset-management/task/t_SplittingAPreAllocatedAsset.md)**  
+-   **[Split a pre-allocated asset](t_SplittingAPreAllocatedAsset.md)**  
 You can split a pre-allocated asset to create a group that can be moved to a different stockroom.
 
-**Parent Topic:**[Using Asset Management](../../asset-management/concept/using-asset-management.md)
+**Parent Topic:**[Using Asset Management](using-asset-management.md)
 
 **Related topics**  
 
 
-[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+[Mobile app for Hardware Asset Management](mobile-my-asset.md)
 
 [Work with Asset and CI](work-with-asset-ci.md)
 
-[Manage various assets through asset classes](../../asset-management/concept/c_AssetClasses.md)
+[Manage various assets through asset classes](c_AssetClasses.md)
 
-[Create fixed assets](../../asset-management/concept/c_CreatingFixedAssets.md#)
+[Create fixed assets](c_CreatingFixedAssets.md#)
 
-[Consumables life cycle](../../asset-management/concept/c_FollowLifeCycleConsumbl.md)
+[Consumables life cycle](c_FollowLifeCycleConsumbl.md)
 
-[Stockrooms](../../asset-management/concept/c_Stockrooms.md)
+[Stockrooms](c_Stockrooms.md)
 
-[Manage transfer order](../../asset-management/concept/manage-transfer-orders.md)
+[Manage transfer order](manage-transfer-orders.md)
 
-[Use Organization Management](../../asset-management/reference/org-mgmt.md#)
+[Use Organization Management](org-mgmt.md#)
 

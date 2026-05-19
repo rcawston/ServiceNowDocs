@@ -58,5 +58,5 @@ Role required: sn\_si.admin
 11. Select the **More actions** icon, and then select **Delete** to delete the report template.
 
 
-**Parent Topic:**[Configure report templates in Security Incident Response](../concept/daily-status-sir.md)
+**Parent Topic:**[Configure report templates in Security Incident Response](daily-status-sir.md)
 

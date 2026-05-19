@@ -15,7 +15,7 @@ breadcrumb: [Configure, Healthcare and Life Sciences Service Management Core, He
 
 You can determine whether the privacy policy for patient consent needs to be routed for review and signature to the patient.
 
-As a user with the sn\_hcls.admin role, you can configure a privacy policy for obtaining consent from patients in a healthcare organization. For more information, see [Configure a privacy policy for managing patient consent](../task/hcls-config-policy-consent.md).
+As a user with the sn\_hcls.admin role, you can configure a privacy policy for obtaining consent from patients in a healthcare organization. For more information, see [Configure a privacy policy for managing patient consent](hcls-config-policy-consent.md).
 
 You can determine the consent management process as one of the following types:
 

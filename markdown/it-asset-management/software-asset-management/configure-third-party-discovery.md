@@ -33,12 +33,12 @@ Role required: sam\_developer
 
 4.  Send the payload to the ServiceNow instance using the IRE REST API.
 
-    For information on a sample payload, see [Sample payload for generic software install records](../reference/payload-details.md).
+    For information on a sample payload, see [Sample payload for generic software install records](payload-details.md).
 
     In the payload, make sure to send the sys\_class\_name of the CI, so that the CI is not reclassified when an insert or update operation is performed.
 
     An entry is created in the Software Installation \[cmdb\_sam\_sw\_install\] table with a display name, publisher, and version. Reconciliation is run against the content service and a discovery model is identified for that software. If a discovery model does not exist, a discovery model is automatically created for the software. You can start using the Software Asset Management application.
 
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
 

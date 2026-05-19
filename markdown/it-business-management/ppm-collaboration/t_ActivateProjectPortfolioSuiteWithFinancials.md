@@ -40,7 +40,7 @@ The PPM Standard is the basic plugin for the PPM \(Project Portfolio Management\
 
 ## Result
 
-All PPM applications are installed in your ServiceNow instance, along with their user roles and tables. For more information, see [Components installed with Project Portfolio Management \(PPM\) Standard](../reference/r_InstalledWithProjectPortfolioSuiteWithFinancials.md).
+All PPM applications are installed in your ServiceNow instance, along with their user roles and tables. For more information, see [Components installed with Project Portfolio Management \(PPM\) Standard](r_InstalledWithProjectPortfolioSuiteWithFinancials.md).
 
-**Parent Topic:**[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](c_ProjectPortfolioSuite.md)
 

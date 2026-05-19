@@ -17,7 +17,7 @@ Add a menu item for Journey Accelerator action plans to the header menus in the 
 
 ## Before you begin
 
-The latest Employee Center app installed on your instance. See, [Install Employee Center](../../employee-center/task/activate-ec.md).
+The latest Employee Center app installed on your instance. See, [Install Employee Center](../employee-experience-foundation/activate-ec.md).
 
 Role required: admin
 

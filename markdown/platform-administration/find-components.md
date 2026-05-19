@@ -42,5 +42,5 @@ In the Application Files table, look up the components that are installed with t
 5.  Select the class of information that you want to view.
 
 
-**Parent Topic:**[Basic system configuration](../../core-configuration/concept/p_CoreConfigurationOverview.md)
+**Parent Topic:**[Basic system configuration](p_CoreConfigurationOverview.md)
 

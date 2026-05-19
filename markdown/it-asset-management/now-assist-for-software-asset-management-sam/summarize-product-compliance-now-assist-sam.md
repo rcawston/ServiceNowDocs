@@ -81,5 +81,5 @@ If you found that the summary was helpful, select the helpful icon. If you found
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using generative AI skills in Now Assist for SAM](../concept/using-now-assist-sam.md)
+**Parent Topic:**[Using generative AI skills in Now Assist for SAM](using-now-assist-sam.md)
 

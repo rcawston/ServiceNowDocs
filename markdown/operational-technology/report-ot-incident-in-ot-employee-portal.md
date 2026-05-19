@@ -56,5 +56,5 @@ When you report the OT incident, an overview of the incident is provided along w
 
 You can also view your request in the Employee Center by selecting **My Requests**. Viewing your request on the requests page lets you see any work notes or activities saved to your submitted request.
 
-**Parent Topic:**[Using the Employee Center for OT](../concept/using-ot-employee-portal.md)
+**Parent Topic:**[Using the Employee Center for OT](using-ot-employee-portal.md)
 

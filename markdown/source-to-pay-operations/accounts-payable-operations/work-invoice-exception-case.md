@@ -21,7 +21,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-For a description of the field values and information about the available tabs on the invoice exception form, see [Invoice exception form](../reference/exception-form-fields.md). For details about the available tabs for an exception task, see [Invoice task form tabs](../reference/invoice-task-form-related-list.md).
+For a description of the field values and information about the available tabs on the invoice exception form, see [Invoice exception form](exception-form-fields.md). For details about the available tabs for an exception task, see [Invoice task form tabs](invoice-task-form-related-list.md).
 
 ## Procedure
 
@@ -96,5 +96,5 @@ Confirm the receipt of the items that you've ordered so that the payment is made
 -   **[Bypass an invoice exception](bypass-invoice-exception.md)**  
 Bypass an invoice exception if you find that it is not applicable to the invoice.
 
-**Parent Topic:**[Invoice exceptions](../concept/work-with-invoice-exceptions.md)
+**Parent Topic:**[Invoice exceptions](work-with-invoice-exceptions.md)
 

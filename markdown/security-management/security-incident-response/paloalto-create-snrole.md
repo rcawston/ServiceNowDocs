@@ -83,9 +83,9 @@ The ServiceNow AI Platform® admin creates an API account role \(sn\_sec\_panfw.
     The user record is displayed. This record verifies that the user account has been assigned. The **State** is active, and the role is not inherited.
 
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
 **Previous topic:**[Set up and install Palo Alto Networks Next-Generation Firewall](paloalto_install.md)
 
-**Next topic:**[Supported External Dynamic Lists for Palo Alto Networks Next-Generation Firewall](../reference/paloalto_supported_edls.md)
+**Next topic:**[Supported External Dynamic Lists for Palo Alto Networks Next-Generation Firewall](paloalto_supported_edls.md)
 

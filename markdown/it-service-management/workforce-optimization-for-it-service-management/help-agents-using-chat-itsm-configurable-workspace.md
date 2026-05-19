@@ -39,5 +39,5 @@ View the work-in-progress chat interactions and​ see if any of the agents has 
     The chat conversation is established.
 
 
-**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](../concept/configurable-channels-workforce-optimization-itsm.md)
+**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](configurable-channels-workforce-optimization-itsm.md)
 

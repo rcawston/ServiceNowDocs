@@ -27,7 +27,7 @@ A model can contain up to 750 intents. However, models with over 300 intents or 
 
 **Note:** As you create intents, keep in mind that they can sometimes impact each other. For example, you build and test an intent that works on one or two utterances. But when you test it in a larger intent environment, it might behave differently. To reduce the likelihood of such an event, you may want to create at least five intents in a model before you start proper testing.
 
-To start adding content to your model, see [Create an NLU intent](../task/create-nlu-intent.md).
+To start adding content to your model, see [Create an NLU intent](create-nlu-intent.md).
 
 The **Enabled** column shows whether or not the intent is active in predictions. An NLU admin can deactivate an individual intent but keep it in the model.
 
@@ -74,5 +74,5 @@ If your model has issues or conflicts, the **Intents** page displays cards showi
 
 Select a card to see a filtered list of intents with that issue. Resolving issues ensures that your intents meet the requirements and work as intended.
 
-For more information, see [Resolve intent issues](../task/resolve-intent-issues.md).
+For more information, see [Resolve intent issues](resolve-intent-issues.md).
 

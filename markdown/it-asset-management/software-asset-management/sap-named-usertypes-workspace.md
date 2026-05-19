@@ -45,5 +45,5 @@ Role required: sam\_admin or sam\_user
     The named user type is added to the Named User Types list.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

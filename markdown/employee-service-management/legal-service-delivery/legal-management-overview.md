@@ -37,48 +37,48 @@ Legal Service Delivery includes the following key applications:
 
     Legal Practice Apps Core is a required application for using all legal practice applications.
 
--   **[Legal Request Management](../reference/legal-request-management-landing-page.md)**
+-   **[Legal Request Management](../legal-request-management/legal-request-management-landing-page.md)**
 
     The ServiceNow® Legal Request Management application provides a single, unified mechanism for employees to get all the information, services, and help that they need from the legal department. Employees can submit legal requests, monitor their progress, and read legal knowledge base articles—all through an omni-channel experience across portal, mobile, and virtual agent channels.
 
-    Fulfillers can also designate requests as privileged and confidential using Attorney Client Privilege feature. When privileged and confidential is enabled, the system restricts access to authorized stakeholders, and marks communications with confidentiality banners. For more information, see [Attorney-Client Privilege](lsd-acp-landing.md).
+    Fulfillers can also designate requests as privileged and confidential using Attorney Client Privilege feature. When privileged and confidential is enabled, the system restricts access to authorized stakeholders, and marks communications with confidentiality banners. For more information, see [Attorney-Client Privilege](../legal-request-management/lsd-acp-landing.md).
 
     Legal Request Management is the core application in the Legal Service Delivery suite. All other applications that you choose to install require the installation of Legal Request Management.
 
--   **[Legal Matter Management](../../legal-matter-management/reference/legal-matter-management-landing-page.md)**
+-   **[Legal Matter Management](../legal-matter-management/legal-matter-management-landing-page.md)**
 
     The ServiceNow® Legal Matter Management application enables you to complete legal requests that need cross-departmental tasking and workflow with a mechanism to store documents and track important milestones. With its embedded record level security, you can maintain the confidential and sensitive information of each record.
 
     Matter templates help you with standardized process and workflow for various matter types.
 
-    Matter owners and fulfiller can also designate requests as privileged and confidential using Attorney Client Privilege feature. When privileged and confidential is enabled, the system restricts access to authorized stakeholders, and marks communications with confidentiality banners. For more information, see [Attorney-Client Privilege](lsd-acp-landing.md).
+    Matter owners and fulfiller can also designate requests as privileged and confidential using Attorney Client Privilege feature. When privileged and confidential is enabled, the system restricts access to authorized stakeholders, and marks communications with confidentiality banners. For more information, see [Attorney-Client Privilege](../legal-request-management/lsd-acp-landing.md).
 
 
 ## Legal Practice Applications
 
 Legal practice applications in the Legal Service Delivery suite provide solutions for the specific needs of different legal practice areas.
 
--   **[Legal Content Review](../../legal-content-review/reference/legal-content-review.md)**
+-   **[Legal Content Review](../legal-content-review/legal-content-review.md)**
 
     The ServiceNow® Legal Content Review application provides a mechanism to raise a legal review request of any marketing material, collateral, or presentation contents and to resolve the issues.
 
--   **[Legal Digital Forensics](../../legal-digital-forensics/reference/legal-digital-forensics-landing-page.md)**
+-   **[Legal Digital Forensics](../legal-digital-forensics-landing-page.md)**
 
     The ServiceNow® Legal Digital Forensics application enables you to handle digital forensics requests for data discovery related to custodial and non-custodial data sources that are subject to investigations or litigation.
 
--   **[Legal Investigations](../../legal-investigations/reference/legal-investigations-landing-page.md)**
+-   **[Legal Investigations](../legal-investigations/legal-investigations-landing-page.md)**
 
     The ServiceNow® Legal Investigations application enables the Legal department in your organization to accept internal complaints through a simple intake process. Employees can submit complaints either by name or anonymously through the Anonymous Reporting Center portal. The legal team can conduct legal investigations, including conducting interviews, gathering evidence, and preparing final reports with recommended actions to address these complaints.
 
--   **[Legal Simple Contracts](../../legal-simple-contracts/reference/legal-simple-contracts-landing-page.md)**
+-   **[Legal Simple Contracts](../legal-simple-contracts/legal-simple-contracts-landing-page.md)**
 
     The ServiceNow® Legal Simple Contracts application enables employees to submit legal requests for getting legal support and guidance for contracts. For example, they can submit legal requests for the creation of Non-disclosure Agreement \(NDA\) documents with third parties or the review of sales contracts or third-party contracts. The legal department can manage and process them from a centralized location.
 
--   **[Legal Simple Privacy](../../legal-simple-privacy/concept/legal-simple-privacy-landing-page.md)**
+-   **[Legal Simple Privacy](../legal-simple-privacy/legal-simple-privacy-landing-page.md)**
 
     The ServiceNow® Legal Simple Privacy application provides a mechanism to raise a Privacy Assessment request to resolve privacy related concerns.
 
--   **[Legal Hold Notification](../../legal-hold-notification/concept/lg-hold-notif-landing-page.md)**
+-   **[Legal Hold Notification](../legal-hold-notification/lg-hold-notif-landing-page.md)**
 
     The ServiceNow® Legal Hold Notification application helps organizations manage their legal obligations to preserve relevant information when a legal hold is issued. It enables you to submit a legal hold matter, add custodians, send notices, and close the legal hold matter, to ensure legal and regulatory compliance.
 
@@ -87,20 +87,20 @@ Legal practice applications in the Legal Service Delivery suite provide solution
 
 The ServiceNow® Legal Simple Compliance application provides prebuilt legal workflows to submit and manage legal compliance requests. The Legal Simple Compliance includes the following applications.
 
--   **[Gifts and Entertainment Compliance](../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md)**
+-   **[Gifts and Entertainment Compliance](../legal-gifts-and-entertainment/lsd-ge-landing-page.md)**
 
     The ServiceNow® Gifts and Entertainment Compliance enables you to manage disclosures from employees giving or receiving gifts or entertainment to internal or external parties to ensure they comply with company policies.
 
--   **[Legal Conflict of Interest](../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md)**
+-   **[Legal Conflict of Interest](../legal-conflict-of-interest/legal-conflict-of-interest-landing-page.md)**
 
     The ServiceNow® Legal Conflict of Interest application enables you to manage the disclosure, approval, and registry of conflict of interests that might arise from employees having competing interests or loyalties.
 
--   **[Legal Stock Preclearance](../../legal-stock-preclearance/concept/stock-preclearance-overview.md)**
+-   **[Legal Stock Preclearance](../legal-stock-preclearance/stock-preclearance-overview.md)**
 
     The ServiceNow® Legal Stock Preclearance application enables you to manage stock preclearance requests complying with the company’s stock preclearance policy. You can set up trading windows, manage an access list, and approve or reject stock preclearance requests.
 
 
-## [Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-landing.md)
+## [Now Assist for Legal Service Delivery \(LSD\)](../now-assist-for-legal-service-delivery/now-assist-lsd-landing.md)
 
 Use the ServiceNow® Now Assist for Legal Service Delivery \(LSD\) application to summarize a legal request or legal matter, generate actionable answers from Knowledge article search results. You can also a submit Conflict of Interest request using conversational intake from the Now Assist panel in Virtual Agent.
 
@@ -108,13 +108,13 @@ Use the ServiceNow® Now Assist for Legal Service Delivery \(LSD\) application t
 
 The ServiceNow® Legal Counsel Center application enables lawyers to solve issues faster with a workspace built to facilitate resolutions. From a single view, get the full context of legal issues to resolve them quickly.
 
-## [External Legal Service Center](../../lsd-external-service-center/concept/lsd-ext-portal-landing-page.md)
+## [External Legal Service Center](../external-legal-portal/lsd-ext-portal-landing-page.md)
 
 The ServiceNow® External Legal Service Center application enables external users like customers, partners, and the public to directly contact your organization for legal information. They can ask for clarifications, submit concerns, and get the legal information they need. This access fosters trust and shows organization's commitment to accountability and legal compliance.
 
 ## Performance Analytics Content Pack for Legal Service Delivery
 
--   **[Performance Analytics Content Pack for Legal Service Delivery Performance Analytics Legal Executive dashboard](../../../use/application-content-packs/concept/legalsd-content-pack.md)**
+-   **[Performance Analytics Content Pack for Legal Service Delivery Performance Analytics Legal Executive dashboard](legalsd-content-pack.md)**
 
     Use the Performance Analytics Legal Executive dashboard to get an insight into how your team and business are performing for resolving legal service requests. General counsel and practice area leads can make data-driven decisions through insights into legal operations using various preconfigured reports and metrics. You can view the details for top request categories, requests by user locations, practice area, and requesting department, SLA compliance of legal requests and legal matters, average number of requests handled per attorney, and average time to close legal requests and legal matters over time.
 
@@ -139,7 +139,7 @@ Use the following ServiceNow® mobile apps to work on the Legal Service Delivery
     The Mobile Agent app enables the legal department users to resolve legal requests and legal matters assigned to them using the Mobile Agent app.
 
 
-For more information, see [Legal Mobile](../../legal-mobile/concept/legal-mobile-overview.md).
+For more information, see [Legal Mobile](../legal-mobile/legal-mobile-overview.md).
 
 ## Domain separation for Legal Service Delivery applications
 

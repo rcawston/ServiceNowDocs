@@ -52,8 +52,8 @@ You can apply these steps to any report type as long as the report source has va
 
 8.  Continue to configure and style the report according to its report type.
 
-    See [Report types](../reference/report-types-creation-details-rd.md).
+    See [Report types](report-types-creation-details-rd.md).
 
 
-**Parent Topic:**[Report on service catalog variables](../concept/rep-service-catalog-variables.md)
+**Parent Topic:**[Report on service catalog variables](rep-service-catalog-variables.md)
 

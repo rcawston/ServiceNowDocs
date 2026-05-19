@@ -17,7 +17,7 @@ View, edit, and update the details of scrum tasks that were created for the stor
 
 On your mobile device, open the Mobile Agent app and navigate to Agile Development v2. Perform the following actions with the role of scrum\_product\_owner, scrum\_team\_member, or scrum\_master.
 
-**Parent Topic:**[Mobile experience for Agile Development 2.0](../concept/agile-2-mobile-app-overview.md)
+**Parent Topic:**[Mobile experience for Agile Development 2.0](agile-2-mobile-app-overview.md)
 
 ## Tracking scrum tasks on Agile Development v2
 

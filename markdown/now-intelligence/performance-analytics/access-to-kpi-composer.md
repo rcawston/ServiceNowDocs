@@ -83,7 +83,7 @@ A responsible user has the following access to the projects they are responsible
 
 This level of access is equivalent to what the sn\_kpi\_composer.user role grants. It is also equivalent to having a project shared with edit rights. Responsibility differs first in being independent of any role. The second difference is procedural, not technical: Responsible users are understood to be in charge of oversight and implementation of the project. Even the creator of a project is therefore not automatically responsible for it.
 
-Responsible users are named in the project properties. Any user with edit rights can name responsible users. For more information about naming responsible users, see [Define properties for a project](../task/define-properties-project.md).
+Responsible users are named in the project properties. Any user with edit rights can name responsible users. For more information about naming responsible users, see [Define properties for a project](define-properties-project.md).
 
 ## Shared projects
 
@@ -98,7 +98,7 @@ Any user with edit rights can share a project. When you share a project, you gra
     A user with view access can read the design tabs, artifact properties, indicator definitions, and breakdown definitions of the shared project. They can use all viewing utilities, like search and filter. However, they cannot change anything in the project. The only thing they can add is a journal entry.
 
 
-For more information, see [Share a KPI Composer project](../task/share-a-kpi-composer-project.md).
+For more information, see [Share a KPI Composer project](share-a-kpi-composer-project.md).
 
 **Parent Topic:**[Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md)
 

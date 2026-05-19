@@ -50,5 +50,5 @@ An example here shows how an associated story is created for a defect that is ad
 
 ![Information of the associated story for a defect added to backlog from triage board.](../../agile-development/image/defect-from-triage-board-to-backlog.png)
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

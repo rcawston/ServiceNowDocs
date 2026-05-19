@@ -20,5 +20,5 @@ Now Assist in Virtual Agent uses large language models \(LLM\)s and generative A
 
 To give feedback on the answers provided by Now Assist, you can long press on a generated response to copy the message text or to mark the response as either helpful or unhelpful.
 
-Use the guided setup to set up Now Assist in Virtual Agent quickly and easily. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md). Virtual Agent must also be enabled for Mobile. For more information, see [Enable Virtual Agent for mobile applications](../task/sg-mobile-virtual-agent.md).
+Use the guided setup to set up Now Assist in Virtual Agent quickly and easily. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md). Virtual Agent must also be enabled for Mobile. For more information, see [Enable Virtual Agent for mobile applications](sg-mobile-virtual-agent.md).
 

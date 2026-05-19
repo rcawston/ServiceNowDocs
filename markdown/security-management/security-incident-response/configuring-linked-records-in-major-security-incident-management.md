@@ -96,16 +96,16 @@ Write a script to map the source record fields to a newly created major security
     ![Can promote to MSI](../image/linked-can-promote-to-msi.png "Image 2: Can Promote to MSI")
 
 
-**Parent Topic:**[Rollup Framework for MSIM](../concept/roll-up-framework-for-major-security-incident-management.md)
+**Parent Topic:**[Rollup Framework for MSIM](roll-up-framework-for-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Configure Rollup Records in Major Security Incident Management](../concept/roll-up-record-configuration-in-major-security-incident-management.md)
+[Configure Rollup Records in Major Security Incident Management](roll-up-record-configuration-in-major-security-incident-management.md)
 
-[Configure List Layout in Major Security Incident Management](../concept/list-layout-confguration.md)
+[Configure List Layout in Major Security Incident Management](list-layout-confguration.md)
 
-[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
 
-[Perform on demand atomic rollup](../concept/perform-on-demand-atomic-rollup.md)
+[Perform on demand atomic rollup](perform-on-demand-atomic-rollup.md)
 

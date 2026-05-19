@@ -42,5 +42,5 @@ Following are the tables that are synced with your business objectives, business
 |sys\_updated\_by|sn\_impact\_cust\_outcome\_performance|sys\_updated\_by|x\_snc\_octane\_bvmp\_operational\_performance|
 |executive\_summary|sn\_impact\_cust\_outcome\_performance|executive\_summary|x\_snc\_octane\_bvmp\_operational\_performance|
 
-**Parent Topic:**[Table and field level mapping](../concept/table-field-level-mapping.md)
+**Parent Topic:**[Table and field level mapping](table-field-level-mapping.md)
 

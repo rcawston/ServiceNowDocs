@@ -43,5 +43,5 @@ Role required: admin or assessment\_admin
 -   **[Configure metric categories or metrics for a quiz using the question bank](configure-questionbank-quiz.md)**  
 Reuse question categories \(metric categories\) and questions \(metrics\) from the **Question Bank** module while creating or updating a quiz.
 
-**Parent Topic:**[Using Quizzes](../concept/using-quizzes.md)
+**Parent Topic:**[Using Quizzes](using-quizzes.md)
 

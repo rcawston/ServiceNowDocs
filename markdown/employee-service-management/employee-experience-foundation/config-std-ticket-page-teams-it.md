@@ -30,7 +30,7 @@ Employees can take the following actions associated with their tickets:
 -   Continue a chat conversation with the agent handling the ticket using the Microsoft Teams application without having to exit the Employee Center.
 -   View the list of people involved in their chat conversation.
 
--   **[Add Microsoft Teams Chat widget](../task/add-teams-chat-widget-it.md)**  
+-   **[Add Microsoft Teams Chat widget](add-teams-chat-widget-it.md)**  
 Add the Teams Chat widget to enable employees to view or continue chats with agents and view and access the content of attached files in the Employee Center.
 
 **Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](sn-ms-teams-config-it.md)

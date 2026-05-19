@@ -33,8 +33,8 @@ A KPI tree contains the following hierarchically related artifacts:
 The KPI tree has a header and a footer with the following drag-and-drop icons:
 
 -   Artifacts, on the left of the footer
--   Breakdown definitions, on the right of the header \(See [Group data by breakdown definitions](../task/add-breakdowns-project.md#)\)
--   Personas, on the left of the header \(See [Add personas to a project](../task/add-personas-project.md)\)
+-   Breakdown definitions, on the right of the header \(See [Group data by breakdown definitions](add-breakdowns-project.md#)\)
+-   Personas, on the left of the header \(See [Add personas to a project](add-personas-project.md)\)
 
 ## Filtering
 
@@ -187,7 +187,7 @@ Persona![](../image/kpi-comp-persona-icon.png)
 
 </td><td>
 
-The personas currently linked to the project. In the artifact properties, you can only add and remove personas to the artifact. For information about adding personas to the project, see [Add personas to a project](../task/add-personas-project.md).
+The personas currently linked to the project. In the artifact properties, you can only add and remove personas to the artifact. For information about adding personas to the project, see [Add personas to a project](add-personas-project.md).
 
 </td><td>
 
@@ -199,7 +199,7 @@ Group by![](../image/kpi-comp-bkdown-icon.png)
 
 </td><td>
 
-Group the data associated with an artifact by one or more of the breakdown definitions selected for the project. For information about adding breakdown definitions to the project, see [Group data by breakdown definitions](../task/add-breakdowns-project.md#).
+Group the data associated with an artifact by one or more of the breakdown definitions selected for the project. For information about adding breakdown definitions to the project, see [Group data by breakdown definitions](add-breakdowns-project.md#).
 
 </td><td>
 

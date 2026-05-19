@@ -26,7 +26,7 @@ Ensure that Now Assist for SPM is installed in your instance and that the follow
 -   Acceptance criteria generation
 -   Refine records
 
-For more information, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+For more information, see [Configure Now Assist Admin features](configuring-na-spm.md).
 
 Role required: scrum\_story\_editor
 
@@ -56,10 +56,10 @@ For an Agile 2.0 story, you can generate acceptance criteria by selecting **Gene
 6.  Save the Story form.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](../reference/skill-inputs-for-now-assist-for-spm.md)
+[Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](skill-inputs-for-now-assist-for-spm.md)
 

@@ -85,5 +85,5 @@ Check to activate the granular configuration.
 
 ## Result
 
-The specific column of the target table will be scanned for discovery. Granular Scan makes use of [Data patterns](configure-data-discovery-patterns.md) from **Active Data Patterns**. You can review the findings and take action at **All** &gt; **System Security** &gt; **Data Discovery\(Classic\)** &gt; **Granular findings**. See [Granular Findings](../concept/granular-findings.md) for more information.
+The specific column of the target table will be scanned for discovery. Granular Scan makes use of [Data patterns](configure-data-discovery-patterns.md) from **Active Data Patterns**. You can review the findings and take action at **All** &gt; **System Security** &gt; **Data Discovery\(Classic\)** &gt; **Granular findings**. See [Granular Findings](granular-findings.md) for more information.
 

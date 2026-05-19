@@ -35,7 +35,7 @@ Install the following plugins:
 
     2.  Filter the agents by `Application is HR AI Voice Agents`.
 
-    For more information on the HR-specific agents, see [HR AI voice agents](../concept/now-assist-hrsd-voice-ai-agents.md).
+    For more information on the HR-specific agents, see [HR AI voice agents](now-assist-hrsd-voice-ai-agents.md).
 
 3.  For the following AI voice agents, perform these additional configuration steps.
 
@@ -79,12 +79,12 @@ Steps
 
 Test the execution of the HR AI Voice agents by calling the telephony number to verify that the agent functions the way you expect. For more information, see [Test a voice assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/test-a-voice-assistant.md).
 
-Assign roles to admins and users to grant them access to Voice features. See [Components installed with voice](../reference/components-installed-voice-agents.md).
+Assign roles to admins and users to grant them access to Voice features. See [Components installed with voice](components-installed-voice-agents.md).
 
 **Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](configure-now-assist-hr.md)
 
 **Related topics**  
 
 
-[HR AI voice agents](../concept/now-assist-hrsd-voice-ai-agents.md)
+[HR AI voice agents](now-assist-hrsd-voice-ai-agents.md)
 

@@ -112,7 +112,7 @@ Menu action type being created, either a menu option or a menu separator. The me
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](p_AdministerNGBSM.md)
 
 **Related topics**  
 
@@ -127,7 +127,7 @@ Menu action type being created, either a menu option or a menu separator. The me
 
 [Create or modify Map Related Items](t_CreateModifyNGBSMMapRelatedItems.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](condition-script-parameters.md)
 
 [Create or edit a dependency type](t_CreateMapScript.md)
 

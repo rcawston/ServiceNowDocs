@@ -15,7 +15,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 With the article versioning feature, users can view and contribute to feedback on the current versions of knowledge articles.
 
-For more information about feedback options, see [Knowledge feedback](../reference/r_KnowledgeFeedback.md).
+For more information about feedback options, see [Knowledge feedback](r_KnowledgeFeedback.md).
 
 |Feedback option|How this option works with article versioning|
 |---------------|---------------------------------------------|

@@ -31,16 +31,16 @@ Role required: content\_admin or admin
 3.  Add the content block [to any content page](t_AddContentToAPage.md).
 
 
-**Parent Topic:**[Content blocks](../concept/c_ContentBlocks.md)
+**Parent Topic:**[Content blocks](c_ContentBlocks.md)
 
 **Related topics**  
 
 
 [View CMS block tags](t_CMSBlockTag.md)
 
-[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+[Types of content blocks](r_TypesOfContentBlocks.md)
 
-[Content Management and the Apache Jelly engine](../reference/r_ContentManagementAndJelly.md)
+[Content Management and the Apache Jelly engine](r_ContentManagementAndJelly.md)
 
 [Configure a header block](t_HeaderBlock.md)
 
@@ -50,7 +50,7 @@ Role required: content\_admin or admin
 
 [Configure dynamic blocks](t_CreateADynamicBlock.md)
 
-[Catalog cart block](../concept/c_CatalogCartBlock.md)
+[Catalog cart block](c_CatalogCartBlock.md)
 
 [Integrate Live Feed with CMS](t_AddLiveFeedToIFrame.md)
 

@@ -72,5 +72,5 @@ Script
 Script code to generate values for the key. This field appears only when **Script** is selected in the **Value Type** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Tag Governance reference](../concept/reference-tag-governance.md)
+</table>**Parent Topic:**[Tag Governance reference](reference-tag-governance.md)
 

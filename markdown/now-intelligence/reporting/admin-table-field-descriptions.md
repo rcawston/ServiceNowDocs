@@ -21,7 +21,7 @@ In the Report Designer, the user sees the table descriptions on the **Data** tab
 
 ![Group by field in Configure tab showing field description.](../image/field-hint-in-report-designer.png)
 
-**Parent Topic:**[Administering reports](../concept/c_AdminsteringReports.md)
+**Parent Topic:**[Administering reports](c_AdminsteringReports.md)
 
 ## Enable the report description admin role
 

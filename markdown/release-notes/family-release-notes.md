@@ -20,19 +20,19 @@ Upgrading your instance involves planning, testing, and validation. The release 
 
 ## Start your upgrade journey
 
-To use the release notes in your upgrade process, choose the upgrade phase that you're ready to start with. It's recommended you complete the phases in the order listed. For a guide to the redesigned release notes experience, see [Using the release notes](concept/rn-getting-started-landing-page.md).
+To use the release notes in your upgrade process, choose the upgrade phase that you're ready to start with. It's recommended you complete the phases in the order listed. For a guide to the redesigned release notes experience, see [Using the release notes](rn-getting-started-landing-page.md).
 
 <table id="table_fxj_bnd_tmb" class="nav-card"><tbody><tr><td>
 
-[Learn about Australia ![icon for the tile Learn about Australia](image/learn.png) Find out what's new and changed in Australia](concept/rn-learn-landing-page.md)
+[Learn about Australia ![icon for the tile Learn about Australia](image/learn.png) Find out what's new and changed in Australia](rn-learn-landing-page.md)
 
 </td><td>
 
-[Prepare your upgrade ![icon for the tile Prepare your upgrade](image/prepare.png) Choose the target version and prepare for your upgrade](concept/rn-prepare-landing-page.md)
+[Prepare your upgrade ![icon for the tile Prepare your upgrade](image/prepare.png) Choose the target version and prepare for your upgrade](rn-prepare-landing-page.md)
 
 </td><td>
 
-[Upgrade to Australia ![icon for the tile Upgrade to Australia](image/upgrade.png) Review the process and upgrade your instance](upgrades/concept/upgrades-overview.md)
+[Upgrade to Australia ![icon for the tile Upgrade to Australia](image/upgrade.png) Review the process and upgrade your instance](upgrades-overview.md)
 
 </td></tr></tbody>
 </table>## Release timeline
@@ -49,7 +49,7 @@ How to use release notes
 
 ## Release notes tools
 
-We've created some tools to help you review the release notes and upgrade more quickly and efficiently. For more information, see [Build your own release notes](concept/rn-features-overview.md).
+We've created some tools to help you review the release notes and upgrade more quickly and efficiently. For more information, see [Build your own release notes](rn-features-overview.md).
 
 -   **Release notes summaries**
 
@@ -66,15 +66,15 @@ We've created some tools to help you review the release notes and upgrade more q
 
 To check out the release notes tools available for your upgrade scenario, choose your upgrade path to Australia.
 
--   [Release notes for upgrading from Zurich](concept/rn-n-1-landing-page.md)
--   [Release notes for upgrading from Yokohama](concept/rn-n-2-landing-page.md)
--   [Release notes for upgrading from Xanadu](concept/rn-n-3-landing-page.md)
+-   [Release notes for upgrading from Zurich](rn-n-1-landing-page.md)
+-   [Release notes for upgrading from Yokohama](rn-n-2-landing-page.md)
+-   [Release notes for upgrading from Xanadu](rn-n-3-landing-page.md)
 -   [Australia patch and hotfix release notes](available-versions.md)
 
 ## Choose your upgrade path to Australia
 
--   [Release notes for upgrading from Zurich](concept/rn-n-1-landing-page.md)
--   [Release notes for upgrading from Yokohama](concept/rn-n-2-landing-page.md)
--   [Release notes for upgrading from Xanadu](concept/rn-n-3-landing-page.md)
+-   [Release notes for upgrading from Zurich](rn-n-1-landing-page.md)
+-   [Release notes for upgrading from Yokohama](rn-n-2-landing-page.md)
+-   [Release notes for upgrading from Xanadu](rn-n-3-landing-page.md)
 -   [Australia patch and hotfix release notes](available-versions.md)
 

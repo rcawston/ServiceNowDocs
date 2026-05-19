@@ -100,5 +100,5 @@ The SAP DMS external content connector requires a user account with specific rol
     4.  Select **Assign Role Collection**.
 
 
-**Parent Topic:**[SAP DMS external content connector](../concept/sap-dms-external-content-connector.md)
+**Parent Topic:**[SAP DMS external content connector](sap-dms-external-content-connector.md)
 

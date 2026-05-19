@@ -36,9 +36,9 @@ ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage ale
 -   [Major incident dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/mim-dashboard-mobile.md)
 -   [Review and work on a major incident candidate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/major-incident-candidate.md)
 
-**Parent Topic:**[Use ITOM Mobile](../concept/use-itom-mobile.md)
+**Parent Topic:**[Use ITOM Mobile](use-itom-mobile.md)
 
-**Previous topic:**[Work with alerts in ITOM mobile](../concept/work-itom-mobile-alerts.md)
+**Previous topic:**[Work with alerts in ITOM mobile](work-itom-mobile-alerts.md)
 
 **Next topic:**[Working with On-Call Scheduling on mobile](itom-mobile-on-call-scheduling.md)
 

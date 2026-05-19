@@ -44,5 +44,5 @@ You can also find and update each individual Workflow Studio application depende
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Workflow Studio](../concept/configuring-workflow-studio.md)
+**Parent Topic:**[Configuring Workflow Studio](configuring-workflow-studio.md)
 

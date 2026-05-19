@@ -163,5 +163,5 @@ The status of the application at which the inventor should be rewarded.The stage
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configure Legal Invention Disclosure](../concept/configure-legal-invention-disclosure.md)
+**Parent Topic:**[Configure Legal Invention Disclosure](configure-legal-invention-disclosure.md)
 

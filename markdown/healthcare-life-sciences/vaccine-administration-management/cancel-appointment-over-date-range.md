@@ -32,5 +32,5 @@ Role required: sn\_vaccine\_sm​.admin or sn\_vaccine\_sm​.manager
     If the end date is empty, all appointments after the start date get canceled.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

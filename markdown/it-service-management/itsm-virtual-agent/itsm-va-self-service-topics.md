@@ -91,7 +91,7 @@ Users can raise the urgency of an IT ticket for a faster resolution. Escalating 
 
 ## Get Password Reset Link \(deprecated\)
 
-This topic is deprecated. Use [Reset Password](../concept/itsm-password-management.md#itsm-va-reset-password-topic) instead.
+This topic is deprecated. Use [Reset Password](itsm-password-management.md#itsm-va-reset-password-topic) instead.
 
 Users can access a password reset link when system lockout occurs or when passwords are forgotten. When a user enters keywords related to password reset, Virtual Agent provides a link to the password reset process. If a user is not authenticated in the system, Virtual Agent requests the user's email address. If a user is not enrolled in Password Reset, Virtual Agent provides a link to **Password Enrollment**.
 
@@ -156,7 +156,7 @@ When creating an incident, if you also want to create an associated Universal Re
 
 This topic is recommended to create an IT incident. Users can leverage machine-learning algorithms with application logic for predicting similar open tickets. Prevent users from opening duplicate incidents by finding similar incidents and asking if the user wants to add comments to the similar incident.
 
-Requirement: [Predictive Intelligence for Incident plugin](../../incident-management/task/request-predictive-intelligence-for-im.md) \(com.snc.incident.ml\)
+Requirement: [Predictive Intelligence for Incident plugin](../request-predictive-intelligence-for-im.md) \(com.snc.incident.ml\)
 
 This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
 
@@ -216,7 +216,7 @@ When the user selects the required item, the following scenarios are possible:
 
 Users can check into a ServiceNow® Walk-up Experience location and secure a place in the queue, or they can schedule an appointment at a walk-up location for themselves. Users can also schedule an appointment on behalf of someone else.
 
-Requirement: [Walk-up Experience plugin](../../walk-up-experience/task/activate-walkup-experience.md) \(com.snc.walkup\)
+Requirement: [Walk-up Experience plugin](../walk-up-experience/activate-walkup-experience.md) \(com.snc.walkup\)
 
 This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
 
@@ -237,5 +237,5 @@ This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
 
 ![Windows 365 Cloud PC topic.](../image/CloudPC1.png)
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

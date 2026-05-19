@@ -33,7 +33,7 @@ Action inputs and outputs
 
 </td><td>
 
-Create an action that generates an object from record data. Populate the object using record data the action looks up. See [Create a custom action to generate an object from a record](../task/create-custom-action-object.md)
+Create an action that generates an object from record data. Populate the object using record data the action looks up. See [Create a custom action to generate an object from a record](create-custom-action-object.md)
 
 </td></tr><tr><td>
 
@@ -41,7 +41,7 @@ Script step input and output variables
 
 </td><td>
 
-Write a script to create an array of objects from a list of records. See [Create a custom action to generate an array of objects from a list of records](../task/create-custom-action-array-objects.md).
+Write a script to create an array of objects from a list of records. See [Create a custom action to generate an array of objects from a list of records](create-custom-action-array-objects.md).
 
  Write a script to parse a JSON document into an output of type Object.
 
@@ -156,7 +156,7 @@ Array and Object variables only support these child data types.
 
 ## Advanced options
 
-Object variables have advanced options to save and load data structures. These options allow you to reuse a data structure defined in one location in another. For details on advanced options see [action variable data types](../reference/action-inputs-outputs.md).
+Object variables have advanced options to save and load data structures. These options allow you to reuse a data structure defined in one location in another. For details on advanced options see [action variable data types](action-inputs-outputs.md).
 
 ## Data structure templates
 
@@ -209,15 +209,15 @@ Follow these general guidelines to create reusable and maintainable data structu
     If you need information from multiple types of records, create an object that contains all the information you need. You can then use the object to format or parse data in Workflow Studio.
 
 
--   **[Create data structure](../task/create-data-structure.md)**  
+-   **[Create data structure](create-data-structure.md)**  
 Organize multiple data variables into a structure to process them as a unit and identify the individual items within it.
--   **[Save data structure](../task/save-data-structure.md)**  
+-   **[Save data structure](save-data-structure.md)**  
 Save the data structure of child variables within an Object variable for later reuse.
--   **[Load data structure](../task/load-data-structure.md)**  
+-   **[Load data structure](load-data-structure.md)**  
 Load a data structure of child variables within an Object variable.
--   **[Create a custom action to generate an object from a record](../task/create-custom-action-object.md)**  
+-   **[Create a custom action to generate an object from a record](create-custom-action-object.md)**  
 Generate an object from a User record. Learn how to use an Action output to create an object from record values.
--   **[Create a custom flow to generate an object for each record in a list](../task/create-custom-flow-object.md)**  
+-   **[Create a custom flow to generate an object for each record in a list](create-custom-flow-object.md)**  
 Generate an object for each User record in a list. Learn how to use flow logic to iterate through a list of records.
 -   **[Script support for complex data](script-support-complex-data.md)**  
 Create and reference complex data from a script. Use a script when your source data comes from a data stream, a REST step response, or a Look Up Records step.

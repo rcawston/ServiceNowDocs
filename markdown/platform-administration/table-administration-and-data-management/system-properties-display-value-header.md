@@ -176,5 +176,5 @@ XLSX
     ![Example: glide.export.xlsx.display_value = false and glide.export.xlsx.column_header_label = false](../image/xlsx-export-false.png)
 
 
-**Parent Topic:**[Data export reference](../reference/data-export-reference.md)
+**Parent Topic:**[Data export reference](data-export-reference.md)
 

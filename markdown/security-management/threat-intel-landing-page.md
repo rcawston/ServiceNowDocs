@@ -17,27 +17,27 @@ The ServiceNow® Threat Intelligence application enables you to find indicators 
 
 <table id="table_wjt_yml_xbc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn Threat Intelligence concepts and its key features.](../concept/understanding-threat-intel.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn Threat Intelligence concepts and its key features.](understanding-threat-intel.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up, learn the components installed, and user roles required to meet your business needs.](../concept/c_GetStartedWithThreatIntel.md#)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up, learn the components installed, and user roles required to meet your business needs.](c_GetStartedWithThreatIntel.md#)
 
 </td><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Set Threat Intelligence properties.](../concept/c_GetStartedWithThreatIntel.md#)
+[Administer![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Set Threat Intelligence properties.](c_GetStartedWithThreatIntel.md#)
 
 </td></tr><tr><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Extend Threat Intelligence capabilities by integrating with ServiceNow and third-party applications.](../concept/threat-intelligence-integrations.md)
+[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Extend Threat Intelligence capabilities by integrating with ServiceNow and third-party applications.](threat-intelligence-integrations.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-learn.svg)Manage Indicators of Compromise \(IoC\) and various artifacts.](../concept/c_IoCs.md)
+[Use![](../../../reuse/icons/brand-icons/bus-learn.svg)Manage Indicators of Compromise \(IoC\) and various artifacts.](c_IoCs.md)
 
 </td><td>
 
-[MITRE ATT&amp;CK Framework![](../../../reuse/icons/brand-icons/bus-security.svg)Manage MITRE-ATT&amp;CK framework quickly identify threats and coordinate cyberattack responses.](../concept/c_AttackModeMethod.md)
+[MITRE ATT&amp;CK Framework![](../../../reuse/icons/brand-icons/bus-security.svg)Manage MITRE-ATT&amp;CK framework quickly identify threats and coordinate cyberattack responses.](c_AttackModeMethod.md)
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ The ServiceNow® Threat Intelligence application enables you to find indicators 
 
 </td><td>
 
-[Security Case Management![](../../../reuse/icons/brand-icons/bus-case.svg)Manage Security Case Management by gathering information on suspicious activities.](../../threat-intelligence-case-management/concept/case-mgmt.md)
+[Security Case Management![](../../../reuse/icons/brand-icons/bus-case.svg)Manage Security Case Management by gathering information on suspicious activities.](case-mgmt.md)
 
 </td><td>
 

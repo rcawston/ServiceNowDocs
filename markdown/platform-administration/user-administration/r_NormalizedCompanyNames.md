@@ -30,5 +30,5 @@ The Normalization Data Services plugin stores the normalized company names in th
 
 See [KB0819618](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0819618) for more information.
 
-**Parent Topic:**[Normalization data services](../concept/c_NormalizationOverview.md)
+**Parent Topic:**[Normalization data services](c_NormalizationOverview.md)
 

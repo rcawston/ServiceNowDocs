@@ -29,7 +29,7 @@ For each of these fields, on-call information such as shift names and on-call me
 
 ![Experts on-call panel](../image/on-call-section-sow.png "Experts on-call panel")
 
-For information about On-Call Scheduling, see [On-Call Scheduling](../../../administer/on-call-scheduling/concept/c_OnCallScheduling.md).
+For information about On-Call Scheduling, see [On-Call Scheduling](../on-call-scheduling/c_OnCallScheduling.md).
 
 **Parent Topic:**[On-Call Scheduling in Service Operations Workspace](on-call-scheduling-in-sow.md)
 
@@ -41,7 +41,7 @@ View the relevant shift details and contact on-call members for issue resolution
 
 Role required: itil, admin, sn\_incident\_read, sn\_change\_read
 
-Ensure that the escalation logging, that is, the **com.snc.on\_call\_rotation.log\_escalations** property is enabled to view the on-call escalation tracking page. For information about this property, see [System properties for On-Call Scheduling](../../../administer/on-call-scheduling/reference/on-call-properties.md).
+Ensure that the escalation logging, that is, the **com.snc.on\_call\_rotation.log\_escalations** property is enabled to view the on-call escalation tracking page. For information about this property, see [System properties for On-Call Scheduling](../on-call-scheduling/on-call-properties.md).
 
 ### Procedure
 
@@ -51,7 +51,7 @@ Ensure that the escalation logging, that is, the **com.snc.on\_call\_rotation.lo
 
     1.  From the contextual side panel, click the experts on-call icon \(![experts on-call icon](../image/experts-on-call.png)\).
 
-        For information about how on-call recommendations can be configured, see [Customize the on-call support group recommendations](../task/configure-supportgroup-oncall-sow.md).
+        For information about how on-call recommendations can be configured, see [Customize the on-call support group recommendations](configure-supportgroup-oncall-sow.md).
 
         Three on-call recommendations are displayed based on support groups associated with all services and CIs of the incident in the following order:
 
@@ -68,7 +68,7 @@ Ensure that the escalation logging, that is, the **com.snc.on\_call\_rotation.lo
 
         **Note:** You can view the user presence before contacting the on-call member.
 
-        For information about Microsoft Teams chat, see [Collaborate on a task record using Microsoft Teams in Service Operations Workspace](../task/start-msteams-chat-sow.md).
+        For information about Microsoft Teams chat, see [Collaborate on a task record using Microsoft Teams in Service Operations Workspace](start-msteams-chat-sow.md).
 
     4.  To configure display preferences in the **Experts on-call** panel, click the preferences icon \(![preferences icon](../image/preferences-icon.png)\) and perform any of the following actions.
 

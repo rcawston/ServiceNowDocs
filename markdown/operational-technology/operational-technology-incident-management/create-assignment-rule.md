@@ -27,7 +27,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Assignment rule form](../reference/assignment-rule-form-ot-inc.md).
+    For a description of the field values, see [Assignment rule form](assignment-rule-form-ot-inc.md).
 
 4.  Select **Submit**.
 
@@ -36,5 +36,5 @@ Role required: admin
 
 For more information about assignment rules, see [Defining assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DefineAssignmentRules.md).
 
-**Parent Topic:**[Configuring Operational Technology Incident Management](../concept/configuring-operational-technology-incident-mgt.md)
+**Parent Topic:**[Configuring Operational Technology Incident Management](configuring-operational-technology-incident-mgt.md)
 

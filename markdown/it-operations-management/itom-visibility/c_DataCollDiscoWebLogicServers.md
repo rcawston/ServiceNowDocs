@@ -18,7 +18,7 @@ Discovery creates or updates a CMDB record when it detects an instance of an Ora
 ## Requirements
 
 -   **For Windows**
-    -   [PowerShell](../task/t_SetUpAMIDServerToUsePowerShell.md) must be enabled on the MID Server.
+    -   [PowerShell](../discovery/t_SetUpAMIDServerToUsePowerShell.md) must be enabled on the MID Server.
     -   The WebLogic Administration Server instances that start via WebLogic NodeManager must have the **-Dweblogic.RootDirectory=&lt;path&gt;** parameter defined upon server startup. The Windows credential must also have read permissions on the `config.xml` file.
 -   **For Linux**
     -   Discovery requires the use of these Bourne shell commands:
@@ -80,7 +80,7 @@ WebLogic
 </td></tr></tbody>
 </table>\*For new instances, these probes are inactive on the classifier. Discovery uses patterns for discovery.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected on Windows
 
@@ -163,9 +163,9 @@ cmdb\_ci\_app\_server\_weblogicThis relationship is made between an AdminServer 
 </td></tr></tbody>
 </table>![Example weblogic relationships](../image/weblogic-relationships.png "Example Weblogic relationships")
 
--   **[Add sudo access for the Weblogic - Find config.xml probe](../task/t_AddSudoforWeblogic.md)**  
+-   **[Add sudo access for the Weblogic - Find config.xml probe](t_AddSudoforWeblogic.md)**  
 If you are not using the Weblogic pattern, you can add sudo privileges to the Linux, the Weblogic - Find config.xml probe.
--   **[Identifying Windows WebLogic application servers](../reference/r_WeblogicProbesAndSensorsWindows.md)**  
+-   **[Identifying Windows WebLogic application servers](r_WeblogicProbesAndSensorsWindows.md)**  
 If you are not using the Weblogic pattern, Discovery follows this process when it uses the Windows - Active Processes or Linux - Active Processes probes.
 
 **Parent Topic:**[Software discovery](c_Software.md)

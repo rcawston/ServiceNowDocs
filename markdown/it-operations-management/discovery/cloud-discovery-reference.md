@@ -17,7 +17,7 @@ Reference topics provide additional information about the lists, forms, and clou
 
 -   **[Cloud Discovery service account form reference](cloud-operations-disco-service-account-form.md)**  
 The Cloud Discovery service account form displays detailed information about the selected cloud provider. The Cloud Discovery service account form is available in the Cloud Discovery Workspace.
--   **[Edit settings form reference](../../it-operations-management/reference/edit-aws-event-recording-settings-form-reference.md)**  
+-   **[Edit settings form reference](edit-aws-event-recording-settings-form-reference.md)**  
 The Edit settings form displays information about the Amazon Web Services \(AWS\) settings used to record and deliver the AWS events to the listening endpoint.
 
 **Parent Topic:**[Discovery reference](discovery-references.md)

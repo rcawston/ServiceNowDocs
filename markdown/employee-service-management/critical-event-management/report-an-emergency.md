@@ -27,7 +27,7 @@ Role required: sn\_critical.agent
 
 3.  On the Critical Event form, fill out the fields.
 
-    For a description of the field values, see [Critical Event form](../reference/new-critical-event-form.md).
+    For a description of the field values, see [Critical Event form](new-critical-event-form.md).
 
 4.  Select **Save**.
 

@@ -385,8 +385,8 @@ Debit approval
 
 Debit approval case number that is created to request the refund internally from a bank or customer. This field is auto-populated when you create a debit approval case for the claim.
 
- For more information, see [Create a debit approval case for an internal refund](../task/create-debit-approval-case.md).
+ For more information, see [Create a debit approval case for an internal refund](create-debit-approval-case.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Payment Operations reference](../concept/payment-operations-reference.md)
+</table>**Parent Topic:**[Financial Services Payment Operations reference](payment-operations-reference.md)
 

@@ -58,9 +58,9 @@ When a work item has one or more relationships, a relationships indicator icon a
 -   Adding a story-type work item as a relationship to another story syncs with the prerequisite and dependent fields in the Story \[rm\_story\] table.
 -   Adding a non-story-type work item as a relationship to a story does not sync with the Story \[rm\_story\] table.
 
--   **[Add a dependency to a work item in CWM](../task/add-a-dependency-to-a-work-item-cwm.md)**  
+-   **[Add a dependency to a work item in CWM](add-a-dependency-to-a-work-item-cwm.md)**  
 Link a work item to another in Collaborative Work Management \(CWM\) to show how they relate, whether one is a prerequisite for another or they are generally connected.
--   **[Remove a dependency from a work item in CWM](../task/remove-a-dependency-from-a-work-item-cwm.md)**  
+-   **[Remove a dependency from a work item in CWM](remove-a-dependency-from-a-work-item-cwm.md)**  
 Unlink a relationship between work items in Collaborative Work Management \(CWM\) when it is no longer relevant or was added incorrectly.
 
 **Parent Topic:**[Agile work management in CWM](agile-in-cwm.md)

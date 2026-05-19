@@ -46,5 +46,5 @@ To configure the nightly planned maintenance scheduled job:
     **Note:** If one or more records in the table associated with the maintenance plan are deleted after the matching records were associated with the maintenance plan, the next nightly run removes all the records associated with those removed assets.
 
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](c_MaintPlanMgmt.md)
 

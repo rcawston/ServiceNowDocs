@@ -43,5 +43,5 @@ Role required: admin or virtual\_agent\_admin
 
 [Set up the Conversational SMS Integration with Twilio](configure-twilio-adapter.md).
 
-**Parent Topic:**[Configuring Conversational SMS Integration with Twilio](../concept/configure-va-sms-twilio-app.md)
+**Parent Topic:**[Configuring Conversational SMS Integration with Twilio](configure-va-sms-twilio-app.md)
 

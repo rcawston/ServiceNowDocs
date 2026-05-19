@@ -73,7 +73,7 @@ Select the **Next topic** link to learn how to define audiences who can view you
 -   **[Create a button that opens a modal](learn-by-example-button-modal.md)**  
 After you've created your demo experience and added a blank page, you can edit the page variant as needed. For the sake of this demo, you can create a button and a modal, and configure the button to open the modal.
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](learning-uib-by-example.md)
 
 **Related topics**  
 

@@ -26,7 +26,7 @@ The following items are installed with Document Management:
 -   Roles
 -   Tables
 
-For more information, see[Components installed with Document Management](../reference/installed-with-doc-mgmt.md).
+For more information, see[Components installed with Document Management](installed-with-doc-mgmt.md).
 
 ## Procedure
 

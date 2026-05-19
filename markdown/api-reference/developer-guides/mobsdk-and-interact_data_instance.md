@@ -19,7 +19,7 @@ If you want to return data from multiple tables within a single call, you will n
 
 ## Using NowGraphQLService to interact with ServiceNow tables
 
-The [NowGraphQLService](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowGraphQLService/concept/NowGQLServiceAndroidInterface.md#) class provides methods that enable you to construct and execute GraphQL queries on a specified table within your ServiceNow instance if the logged in user has the proper authorization. You can define all CRUD operations within your GraphQL query.
+The [NowGraphQLService](../cllent-mobile-api-reference/NowGQLServiceAndroidInterface.md#) class provides methods that enable you to construct and execute GraphQL queries on a specified table within your ServiceNow instance if the logged in user has the proper authorization. You can define all CRUD operations within your GraphQL query.
 
 The following example shows how to import the NowData framework and then initialize a NowGraphQLService object that you can then use to interact with tables in your ServiceNow instance.
 
@@ -83,7 +83,7 @@ suspend fun loadList() = withContext(Dispatchers.IO) {
 
 ## Using NowTableService to interact with ServiceNow tables
 
-The [NowTableService](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowTableService/concept/NowTableServiceAndroidInterface.md#) class provides methods to perform CRUD operations on the records in tables that reside on your ServiceNow instance. Through this interface you can directly access any of the records within any ServiceNow table for which the logged in user is authorized. NowTableService supports dot-walking for reference fields. For example, if a table contains a reference to the User table, the dot-walked value `user.name` returns the name of the user.
+The [NowTableService](../cllent-mobile-api-reference/NowTableServiceAndroidInterface.md#) class provides methods to perform CRUD operations on the records in tables that reside on your ServiceNow instance. Through this interface you can directly access any of the records within any ServiceNow table for which the logged in user is authorized. NowTableService supports dot-walking for reference fields. For example, if a table contains a reference to the User table, the dot-walked value `user.name` returns the name of the user.
 
 When returning the requested data, all applicable Access Control Lists \(ACLs\) are applied to the data, which may result in fewer results than expected, or authorization errors if the authenticated user does not have access rights to the specified table.
 
@@ -133,5 +133,5 @@ suspend fun loadCases() = withContext(Dispatchers.IO) {
 }
 ```
 
-For additional code examples using the available NowTableService methods, refer to the [NowTableService](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowTableService/concept/NowTableServiceAndroidInterface.md#) API documentation.
+For additional code examples using the available NowTableService methods, refer to the [NowTableService](../cllent-mobile-api-reference/NowTableServiceAndroidInterface.md#) API documentation.
 

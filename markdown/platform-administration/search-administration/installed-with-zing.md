@@ -82,7 +82,7 @@ System tables that support Zing. Extending or modifying these tables isn't recom
 
 |Scheduled job|Description|
 |-------------|-----------|
-|TS Search Stats|Compiles type-ahead suggestions each night. See [Update A Type-Ahead Suggestion](../task/t_UpdateATypeAheadSuggestion.md).|
+|TS Search Stats|Compiles type-ahead suggestions each night. See [Update A Type-Ahead Suggestion](t_UpdateATypeAheadSuggestion.md).|
 |TS Index Stats|Collects statistics and performs maintenance for text search and indexing. Runs nightly.|
 |text index events process|Collects statistics and performs maintenance for text search and indexing. Runs every 30 seconds.|
 |TS Chain Summary|Compiles search chain statistics each hour.|
@@ -94,32 +94,32 @@ System tables that support Zing. Extending or modifying these tables isn't recom
 -   **[Zing roles](roles-zing.md#)**  
 Zing is installed with these roles.
 
-**Parent Topic:**[Zing text indexing and search engine](../concept/c_ZingTextSearch.md)
+**Parent Topic:**[Zing text indexing and search engine](c_ZingTextSearch.md)
 
 **Related topics**  
 
 
 [Features of Zing text indexing and search engine](features-zing.md)
 
-[Available search options](../concept/c_IntroductionToSearching.md)
+[Available search options](c_IntroductionToSearching.md)
 
-[Global search finds records from multiple tables](../concept/c_GlobalTextSearch.md)
+[Global search finds records from multiple tables](c_GlobalTextSearch.md)
 
-[Zing generates search results in four phases](../concept/c_SearchProcess.md)
+[Zing generates search results in four phases](c_SearchProcess.md)
 
-[Zing filters search results with access controls](../concept/zing-filters-search-results.md)
+[Zing filters search results with access controls](zing-filters-search-results.md)
 
-[Zing computes document scores using three components](../concept/c_DocumentScoring.md)
+[Zing computes document scores using three components](c_DocumentScoring.md)
 
-[Zing indexes words](../concept/zing-indexes-words.md)
+[Zing indexes words](zing-indexes-words.md)
 
-[Zing can include attachments in search results](../concept/c_SearchingForAttachments.md)
+[Zing can include attachments in search results](c_SearchingForAttachments.md)
 
-[Zing removes stop words from queries](../concept/stop-words-removed-from-queries.md)
+[Zing removes stop words from queries](stop-words-removed-from-queries.md)
 
-[Zing matches derived words with stemming](../concept/stemming-matches-derived-words.md)
+[Zing matches derived words with stemming](stemming-matches-derived-words.md)
 
-[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+[Zing can expand search results with synonyms](search-synonyms-expand-results.md)
 
-[Zing displays search suggestions as users enter search terms](../concept/search-suggestions-zing.md)
+[Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
 

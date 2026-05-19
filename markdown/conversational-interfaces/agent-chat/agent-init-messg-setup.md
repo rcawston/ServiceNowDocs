@@ -18,7 +18,7 @@ Set up the Agent-Initiated Messaging Interface application to send messages from
 ## Before you begin
 
 -   [Install agent-initiated messaging interface](install-agent-init-messg.md).
--   [Review the list of messaging channels available for the Agent-Initiated Messaging Interface application](../reference/agent-init-messg-sc-setting.md).
+-   [Review the list of messaging channels available for the Agent-Initiated Messaging Interface application](agent-init-messg-sc-setting.md).
 -   Set the application scope to the application associated with the messaging channel using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
     For example, for using the SMS messaging channel, set the application scope to the Conversational SMS service channel application.
@@ -30,7 +30,7 @@ Role required: admin
 
 A messaging channel is available when you install the application associated with a service channel.
 
-For example, use the SMS messaging channel to send an SMS message to a customer. The SMS messaging channel is available when you have installed the [Conversational SMS service channel](../../advanced-work-assignment/task/install-conversational-sms.md) application.
+For example, use the SMS messaging channel to send an SMS message to a customer. The SMS messaging channel is available when you have installed the [Conversational SMS service channel](../advanced-work-assignment/install-conversational-sms.md) application.
 
 ## Procedure
 
@@ -107,5 +107,5 @@ Order number for each channel in which they appear for agent on the Compose Mess
     -   If you created a new configuration setting, click **Submit**.
     -   If you modified an existing configuration setting, click **Update**.
 
-**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](../concept/config-agent-init-messg-interface.md)
+**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](config-agent-init-messg-interface.md)
 

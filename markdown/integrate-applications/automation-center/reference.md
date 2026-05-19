@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for Automation Center, Use, Automation Center, Workflow 
 
 Reference topics provide additional information about the lists and forms that you use to configure and administer Now Assist for Automation Center.
 
--   **[Now Assist for Automation Center properties](../reference/system-properties.md)**  
+-   **[Now Assist for Automation Center properties](system-properties.md)**  
 You can access system properties for Now Assist for Automation Center by navigating to **All** &gt; **System properties** &gt; **All properties**. Then, filter the results by Now Assist for Automation Center.
 
 **Parent Topic:**[Now Assist for Automation Center](nowassist-ac.md)

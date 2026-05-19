@@ -33,7 +33,7 @@ Roles required:
 
 ## About this task
 
-The ServiceNow® event-driven discovery uses the events to update the latest resource information in the Configuration Management Database \(CMDB\). For more information, see [AWS events-driven discovery](../concept/aws-events-driven-discovery.md).
+The ServiceNow® event-driven discovery uses the events to update the latest resource information in the Configuration Management Database \(CMDB\). For more information, see [AWS events-driven discovery](aws-events-driven-discovery.md).
 
 Many of the steps in the topic are performed in the AWS portal. For more information, see the following AWS documents:
 
@@ -156,12 +156,12 @@ https://<username>:<user_password>@<instance_URL>/api/now/cloud_event?sysparm_re
 
     5.  Fill the values on the Edit settings form.
 
-        For a description of the form fields, see [Edit settings form reference](../reference/edit-aws-event-recording-settings-form-reference.md).
+        For a description of the form fields, see [Edit settings form reference](edit-aws-event-recording-settings-form-reference.md).
 
     6.  Select **Save**.
 
 
 ## What to do next
 
-After some events are generated, navigate to the [Cloud User Portal](../../cloud-management-v2-user/task/cloudmgt-view-cloud-events.md) to view the events.
+After some events are generated, navigate to the [Cloud User Portal](../cloud-configuration-governance/cloudmgt-view-cloud-events.md) to view the events.
 

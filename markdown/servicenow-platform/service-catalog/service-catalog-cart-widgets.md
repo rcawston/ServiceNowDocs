@@ -23,7 +23,7 @@ Role required: admin
 
 Overview of configurable options in the Service Catalog on the Service Portal and explains how to perform those configurations.
 
-**Parent Topic:**[Cart layout](../concept/c_ConfigureCartLayout.md)
+**Parent Topic:**[Cart layout](c_ConfigureCartLayout.md)
 
 ## Configure order guide widgets
 

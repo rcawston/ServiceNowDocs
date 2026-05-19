@@ -20,5 +20,5 @@ To learn more about managing subscriptions, see [Managing per-user subscriptions
 -   **[System Administrator \[admin\]](atf-tg-cr-roles-1.md)**  
 The admin role is required to access and use the ATF Test Generator and Cloud Runner store application.
 
-**Parent Topic:**[ATF Test Generator and Cloud Runner reference](../concept/atf-tg-cr-ref.md)
+**Parent Topic:**[ATF Test Generator and Cloud Runner reference](atf-tg-cr-ref.md)
 

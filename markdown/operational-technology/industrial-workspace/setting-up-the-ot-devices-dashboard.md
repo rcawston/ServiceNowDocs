@@ -26,10 +26,10 @@ The following table shows the Guided Setup tasks used to set up the dashboard.
 |1. Complete the OT Devices Daily Data Collection job.|Collects and displays the daily data for all indicators from Performance Analytics for the OT Visibility dashboard. You must complete this step before others can view the dashboard data.|
 |2. \[Optional\] Review the indicator sources.|Reviews the indicator sources for a larger number of records. If you expect more than the default value of 1 million total records, you must override the records collection.|
 
--   **[Configure the data collection for Operational Technology devices](../task/configure-data-collection-for-ot-devices.md)**  
+-   **[Configure the data collection for Operational Technology devices](configure-data-collection-for-ot-devices.md)**  
 Configure the data collection for Operational Technology \(OT\) devices so that you can collect and display the daily data for all indicators from Performance Analytics. This configuration ensures that your OT data is displayed accurately on the OT Visibility dashboard.
--   **[Review the indicator sources for a large number of records](../task/change-indicator-sources-for-larger-number-of-records-otm.md)**  
+-   **[Review the indicator sources for a large number of records](change-indicator-sources-for-larger-number-of-records-otm.md)**  
 Review the indicator sources if you need a large number of records. You can override the records collection so that the Operational Technology \(OT\) Visibility dashboard shows more records than the default value of 1 million.
 
-**Parent Topic:**[Configuring the Industrial Workspace](../../operational-technology-management/concept/configuring-industrial-workspace.md)
+**Parent Topic:**[Configuring the Industrial Workspace](configuring-industrial-workspace.md)
 

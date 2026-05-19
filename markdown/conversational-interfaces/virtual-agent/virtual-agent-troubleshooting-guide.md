@@ -16,7 +16,7 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 Investigate and resolve unexpected behavior in your custom Virtual Agent topics, topic blocks, and controls.
 
-For information about topic discovery issues, see [LLM topic discovery in Virtual Agent](../concept/va-llm.md) and [Resolve Natural Language Understanding \(NLU\) topic discovery issues](va-topic-discovery-issues.md).
+For information about topic discovery issues, see [LLM topic discovery in Virtual Agent](va-llm.md) and [Resolve Natural Language Understanding \(NLU\) topic discovery issues](va-topic-discovery-issues.md).
 
 ## Duplicate a live topic before debugging and changing it
 
@@ -91,11 +91,11 @@ One or more of your topics might be missing. Check the to ensure that topics are
 </td></tr></tbody>
 </table>## Review topics that run in a conversation flow
 
-Each Virtual Agent \(VA\) conversation in an instance automatically generates an interaction record in the Interactions \[interactions\] table, which logs the conversation between a requester and virtual and live agent. You can review the transcript of the conversation between the requester and virtual agent, including live agent transfers \(if using Agent Chat\). For details, see [Virtual Agent interaction records](../concept/va-interactions.md).
+Each Virtual Agent \(VA\) conversation in an instance automatically generates an interaction record in the Interactions \[interactions\] table, which logs the conversation between a requester and virtual and live agent. You can review the transcript of the conversation between the requester and virtual agent, including live agent transfers \(if using Agent Chat\). For details, see [Virtual Agent interaction records](va-interactions.md).
 
 -   **[Resolve Natural Language Understanding \(NLU\) topic discovery issues](va-topic-discovery-issues.md)**  
 If an intent is not being chosen when expected, you can troubleshoot NLU prediction errors.
--   **[Natural Language Understanding topic discovery logic in Virtual Agent](../concept/how-topic-discovery-works.md)**  
+-   **[Natural Language Understanding topic discovery logic in Virtual Agent](how-topic-discovery-works.md)**  
 Understand how Virtual Agent returns intents and how it selects which intents to show to the user.
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)

@@ -32,5 +32,5 @@ Use this option, for example, if you have set a schedule but want to generate as
     **Note:** Be careful to click **Generate Assessments**, not **Generate Assessable Records**.
 
 
-**Parent Topic:**[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+**Parent Topic:**[Scheduled assessments](c_ScheduledAssessments.md)
 

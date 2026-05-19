@@ -25,7 +25,7 @@ Before entering into a chat conversation with the staff member, the assigned age
 
 ## Pre-chat survey
 
-The pre-chat survey lets staff provide location and support details before a chat. It gives agents context about the case, enabling them to assist more effectively. The pre-chat survey makes the chat more efficient and helpful to your staff. To learn more about how a chat is initiated from the BLSP, see [Chat with Virtual Agent from the Business Location Service Portal](../task/agent-chat-business-location-service-portal.md).
+The pre-chat survey lets staff provide location and support details before a chat. It gives agents context about the case, enabling them to assist more effectively. The pre-chat survey makes the chat more efficient and helpful to your staff. To learn more about how a chat is initiated from the BLSP, see [Chat with Virtual Agent from the Business Location Service Portal](agent-chat-business-location-service-portal.md).
 
 The pre-chat survey isn't displayed for service organization contributors who are associated with a single business location. The location is picked by default.
 
@@ -36,5 +36,5 @@ To learn more about the configuration of the pre-chat surveys, see [Define pre-c
 **Related topics**  
 
 
-[Chat with Virtual Agent from the Business Location Service Portal](../task/agent-chat-business-location-service-portal.md)
+[Chat with Virtual Agent from the Business Location Service Portal](agent-chat-business-location-service-portal.md)
 

@@ -39,11 +39,11 @@ Role required: sn\_dex.admin
 
     **Note:**
 
-    -   For more details on the MCM monitoring, see [Advanced app metrics page](../reference/adanced-app-metrics-page.md).
-    -   For more details on Microsoft teams call quality, see [Monitor Microsoft Teams call quality](../../dex-for-microsoft-365/task/monitor-teams-call-quality.md).
-    -   For more details on Zoom calls monitoring, see [Monitor Zoom call quality using DEX](../Zoom-calls-monitoring/monitor-zoom-call-quality-using-dex.md).
+    -   For more details on the MCM monitoring, see [Advanced app metrics page](adanced-app-metrics-page.md).
+    -   For more details on Microsoft teams call quality, see [Monitor Microsoft Teams call quality](monitor-teams-call-quality.md).
+    -   For more details on Zoom calls monitoring, see [Monitor Zoom call quality using DEX](monitor-zoom-call-quality-using-dex.md).
 6.  Select **Save**.
 
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](dex-application-monitoring.md)
 

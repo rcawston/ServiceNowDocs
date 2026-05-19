@@ -33,7 +33,7 @@ Associate a default retry policy to a Connection &amp; Credentials alias and app
 
 **Note:** You can only create retry policies for JDBC, REST, and SOAP steps.
 
-**Parent Topic:**[Create an action in Workflow Studio](../task/create-action.md)
+**Parent Topic:**[Create an action in Workflow Studio](create-action.md)
 
 ## Create a retry policy
 

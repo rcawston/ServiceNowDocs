@@ -23,7 +23,7 @@ Role required: sn\_rpa\_fdn.rpa\_developer, sn\_rpa\_fdn.rpa\_release\_manager, 
 
 ## About this task
 
-For more information about the overview tab, see [Using the Overview tab to view the bot processes in RPA Hub](../concept/overview-botprocess-unattended.md).
+For more information about the overview tab, see [Using the Overview tab to view the bot processes in RPA Hub](overview-botprocess-unattended.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ For more information about the overview tab, see [Using the Overview tab to view
 6.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Using the Overview tab to view the bot processes in RPA Hub](../concept/overview-botprocess-unattended.md)
+**Parent Topic:**[Using the Overview tab to view the bot processes in RPA Hub](overview-botprocess-unattended.md)
 

@@ -34,7 +34,7 @@ Role required: none
 
 The state of the Receive asset task of the Zero Touch Refresh request changes to **Closed**.
 
-**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](../concept/refresh-hardware-uisng-ztr.md)
+**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](refresh-hardware-uisng-ztr.md)
 
 **Related topics**  
 

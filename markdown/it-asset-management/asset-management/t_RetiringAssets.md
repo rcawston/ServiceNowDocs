@@ -36,5 +36,5 @@ After you change the state of an asset to **Retired**, the **Substate** field is
 4.  Click **Update**.
 
 
-**Parent Topic:**[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+**Parent Topic:**[Work with Asset and CI](work-with-asset-ci.md)
 

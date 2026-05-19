@@ -28,5 +28,5 @@ You can define translation and workflow preferences for one or more languages an
 -   **[Localization Framework Hub and Spoke architecture](localization-framework-hub-spoke-architecture.md)**  
 Enable one central instance to fulfill translation requests submitted from other instances using the Localization Framework Hub and Spoke architecture. Install optional Localization Framework plugins to configure one of your instances as a hub and other instances as spokes.
 
-**Parent Topic:**[ServiceNow AI Platform translation and localization](../../managing-data/concept/translation-and-localization.md)
+**Parent Topic:**[ServiceNow AI Platform translation and localization](../system-localization/translation-and-localization.md)
 

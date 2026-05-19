@@ -43,5 +43,5 @@ You can access the Employee Center for OT on both the desktop and the Now Mobile
 To learn more about configuring and using the Employee Center for OT, see:
 
 -   [Configuring the Employee Center for OT](configuring-ot-employee-portal.md)
--   [Report an OT incident in the Employee Center for OT](../task/report-ot-incident-in-ot-employee-portal.md)
+-   [Report an OT incident in the Employee Center for OT](report-ot-incident-in-ot-employee-portal.md)
 

@@ -106,5 +106,5 @@ OCE - Approver not found
 Outside Counsel Engagement &lt;OCEXXXXXX1&gt; - Initiate approval process failed
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Matter Management reference](../../legal-matter-management/reference/legal-matter-management-reference.md)
+</table>**Parent Topic:**[Legal Matter Management reference](legal-matter-management-reference.md)
 

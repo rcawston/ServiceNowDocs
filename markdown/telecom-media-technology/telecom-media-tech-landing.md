@@ -44,13 +44,13 @@ Telecommunications Service Management \(TSM\) breaks down siloed legacy systems 
 
 </td><td>
 
--   [Now Assist for Telecommunications, Media, and Technology](../../tmt-spmc/reference/now-assist-spmc.md)
+-   [Now Assist for Telecommunications, Media, and Technology](now-assist-for-telecom-media-and-technology/now-assist-spmc.md)
 -   [Customer Success Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-events-landing.md)
 -   [Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
 -   [Product Support for Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/assurance-workflows.md)
--   [Customer Service Problem Management](../../tmt-spmc/reference/cspm-landing-page.md)
--   [Service Test Management](../../tmt-service-test-management/reference/stm-landing-page.md)
--   [Telecommunications Customer 360](../../tmt-telecom-customer-360/concept/c360-land-page.md)
+-   [Customer Service Problem Management](cspm-landing-page.md)
+-   [Service Test Management](stm-landing-page.md)
+-   [Telecommunications Customer 360](c360-land-page.md)
 
 </td></tr><tr><td>
 
@@ -62,11 +62,11 @@ Telecommunications applications that enable you to automate operations and manag
 
 </td><td>
 
--   [Telecommunications Network Inventory](../../tmt-telecom-network-inventory/concept/telecom-network-inventory.md)
--   [Telecommunications Service Operations Management](../../tmt-telecom-service-operations-mgt/concept/telecommunications-service-operations-management.md)
--   [Sales Customer Relationship Management for Telecommunications](../../tmt-somt/concept/somt.md)
--   [Field Service Management for Telecommunications](../../tmt-field-service-management/concept/field-service-management-telecommunications.md)
--   [Strategic Portfolio Management for Telecommunications](../../tmt-spmt/concept/spmt-overview.md)
+-   [Telecommunications Network Inventory](telecom-network-inventory.md)
+-   [Telecommunications Service Operations Management](telecommunications-service-operations-management.md)
+-   [Sales Customer Relationship Management for Telecommunications](somt.md)
+-   [Field Service Management for Telecommunications](field-service-management-for-telecommunications/field-service-management-telecommunications.md)
+-   [Strategic Portfolio Management for Telecommunications](strategic-portfolio-management-for-telecom/spmt-overview.md)
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Technology Provider Service Management \(TPSM\) automates work for technology pr
 
 </td><td>
 
--   [Now Assist for Telecommunications, Media, and Technology](../../tmt-spmc/reference/now-assist-spmc.md)
+-   [Now Assist for Telecommunications, Media, and Technology](now-assist-for-telecom-media-and-technology/now-assist-spmc.md)
 -   [Customer Success Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-events-landing.md)
 -   [Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
 -   [Product Support for Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/assurance-workflows.md)
@@ -98,12 +98,12 @@ Open Digital Architecture-aligned REST APIs available across TMT solutions — a
 
 </td><td>
 
-[Browse API reference](../reference/tmt-api-reference.md)
+[Browse API reference](tmt-api-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [Telecommunications, Media, and Technology release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/technology-industry-rn-landing.md).
+-   Learn more about what's new and changed, see the [Telecommunications, Media, and Technology release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/technology-industry-rn-landing.md).
 -   Learn about Customer Service Management at [Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying Telecommunications, Media, and Technology \(TMT\) features at [Now Create](https://learning.servicenow.com/nowcreate).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow).

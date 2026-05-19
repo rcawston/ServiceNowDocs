@@ -34,12 +34,12 @@ When you create a conversation from a task board, all the board members become m
     The system automatically opens a record conversation for the board. Each board member becomes a member of the conversation.
 
 
-**Parent Topic:**[Viewing and sharing Visual Task Boards](../../visual-task-boards/concept/viewing-sharing-vis-task-brds.md)
+**Parent Topic:**[Viewing and sharing Visual Task Boards](viewing-sharing-vis-task-brds.md)
 
 **Related topics**  
 
 
 [Connect Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_Collaboration.md)
 
-[Visual Task Boards](../../visual-task-boards/concept/c_VisualTaskBoards.md)
+[Visual Task Boards](c_VisualTaskBoards.md)
 

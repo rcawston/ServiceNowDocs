@@ -59,5 +59,5 @@ Role required: admin
 
 Install and activate AES. Navigate to **All** &gt; **My Company Applications** and select App Engine Studio.
 
-**Parent Topic:**[AES and the ServiceNow Store](../concept/aes-installation-store.md)
+**Parent Topic:**[AES and the ServiceNow Store](aes-installation-store.md)
 

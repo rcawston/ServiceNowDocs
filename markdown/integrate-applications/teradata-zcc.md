@@ -60,5 +60,5 @@ The following table lists supported Teradata data types and the default matching
 **Related topics**  
 
 
-[Create a Teradata connection](../task/create-teradata-connection.md)
+[Create a Teradata connection](create-teradata-connection.md)
 

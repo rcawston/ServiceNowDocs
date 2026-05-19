@@ -17,7 +17,7 @@ Configure the kiosk position and camera position on the map.
 
 ## Before you begin
 
-Create a kiosk configuration to use for the kiosk indoor mapping feature. For more information about creating a kiosk configuration, see [Create a kiosk configuration](../../workplace-services-kiosk/task/create-kiosk-device-config.md).
+Create a kiosk configuration to use for the kiosk indoor mapping feature. For more information about creating a kiosk configuration, see [Create a kiosk configuration](../workplace-services-kiosk/create-kiosk-device-config.md).
 
 Role required: sn\_wsd\_indoor\_map.admin and sn\_wsd\_central.workspace\_user
 
@@ -29,7 +29,7 @@ Role required: sn\_wsd\_indoor\_map.admin and sn\_wsd\_central.workspace\_user
 
 3.  On the Kiosk Map Configurations list, select the record that you want to configure.
 
-    For more information about creating a kiosk configuration, see [Create a kiosk configuration](../../workplace-services-kiosk/task/create-kiosk-device-config.md).
+    For more information about creating a kiosk configuration, see [Create a kiosk configuration](../workplace-services-kiosk/create-kiosk-device-config.md).
 
     The **Map configuration** tab is open by default.
 
@@ -68,9 +68,9 @@ If you get the `Map can't be initialized` error on the Map configuration tab, tr
 -   Provide the view type permissions to the user who must have access to kiosk indoor mapping.
 -   Navigate to **All** &gt; **Indoor Mapping** &gt; **View types**
     -   Ensure that the **Kiosk** view type is active.
-    -   If the **Kiosk** view type is not available, ensure that you have installed [Workplace Services Kiosk](../../workplace-services-kiosk/concept/workplace-services-kiosk.md).
+    -   If the **Kiosk** view type is not available, ensure that you have installed [Workplace Services Kiosk](../workplace-services-kiosk/workplace-services-kiosk.md).
 
-**Parent Topic:**[Working with Kiosk Indoor Mapping](../concept/working-kiosk-ind-map.md)
+**Parent Topic:**[Working with Kiosk Indoor Mapping](working-kiosk-ind-map.md)
 
 **Previous topic:**[Configure map features for kiosk](config-map-features.md)
 

@@ -65,5 +65,5 @@ Procedure
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](mobile-offline-mode.md)
 

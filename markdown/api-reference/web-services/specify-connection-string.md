@@ -41,5 +41,5 @@ The driver name varies depending on whether you use the 32-bit or 64-bit version
 3.  Note the value in the **Driver** column for the ServiceNow data source.
 
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](configuring-odbc.md)
 

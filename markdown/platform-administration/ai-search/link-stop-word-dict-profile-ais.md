@@ -39,7 +39,7 @@ You can link a single stop word dictionary to multiple search profiles. You can 
 
     3.  Select **Submit**.
 
-    For a description of the field values, see [Search Profile - Dictionary Mapping form](../reference/search-prof-dict-mapping-form-ais.md).
+    For a description of the field values, see [Search Profile - Dictionary Mapping form](search-prof-dict-mapping-form-ais.md).
 
 
 ## Result
@@ -50,5 +50,5 @@ The selected stop word dictionary appears in the search profile's Stop Words rel
 
 To make the new stop word dictionary linking take effect, publish the search profile. For more information on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Stop words](../concept/stop-words-ais.md)
+**Parent Topic:**[Stop words](stop-words-ais.md)
 

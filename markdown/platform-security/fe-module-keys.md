@@ -46,5 +46,5 @@ Information on your module keys is displayed on the module key record in the fie
 |Future destruction date|When the Module Key will be destroyed.|
 |Key lifecycle state|Current the state of the Module Key.|
 
-**Parent Topic:**[Configuring Field Encryption](../concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

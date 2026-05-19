@@ -17,9 +17,9 @@ Send an Emergency Outreach notification, on demand, to employees to provide the 
 
 ## Before you begin
 
-Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../../business-continuity/task/install-emergency-outreach.md#).
+Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../emergency-outreach/install-emergency-outreach.md#).
 
-Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../now-mobile-employee-experience/mobile-employee-experience.md).
 
 Role required: sn\_imt\_checkin.checkin\_admin or admin
 
@@ -35,7 +35,7 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
 3.  On the **Safe Workplace Audience** tab, select the audience from the list, and click **Save**.
 
-    If you don't have an audience defined, click **New** and define an audience from user lists, groups, departments, locations, and so on. After you save the Safe Workplace audience, you can use it to send any outreach message.For more information, see [Add a Safe Workplace Audience](../../employee-readiness-core/task/add-safe-workplace-audience.md).
+    If you don't have an audience defined, click **New** and define an audience from user lists, groups, departments, locations, and so on. After you save the Safe Workplace audience, you can use it to send any outreach message.For more information, see [Add a Safe Workplace Audience](../employee-readiness-core/add-safe-workplace-audience.md).
 
 4.  On the **Content configuration** tab, select **Privacy Consent** in the **Response mode** field.
 
@@ -43,7 +43,7 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
     When enabled, the privacy statement text in Location Privacy Configuration takes precedence over text in the privacy consent templates. This text is used for the outreach, system notification email, and push notification. If you need to update the text that users receive, you must change the location's privacy statement.
 
-    For more information on updating a location's privacy statement, see [Generate location-based privacy configurations](../../employee-readiness-core/task/generate-location-common-privacy-configuration.md).
+    For more information on updating a location's privacy statement, see [Generate location-based privacy configurations](../employee-readiness-core/generate-location-common-privacy-configuration.md).
 
 6.  On the **Content configuration** tab, select a notification in the **Notification** field, and choose how to send the notification.
 
@@ -77,5 +77,5 @@ The notification is sent to the target audience.
 
 [Review user privacy consents in Contact Tracing](review-privacy-consents.md) to see who has responded to the notification.
 
-**Parent Topic:**[Maintaining user data privacy in Contact Tracing](../concept/contact-tracing-user-privacy-options.md)
+**Parent Topic:**[Maintaining user data privacy in Contact Tracing](contact-tracing-user-privacy-options.md)
 

@@ -59,5 +59,5 @@ Role required: flow\_designer
     ![Sample execution details from testing the Crate Address subflow via a conversation](../images/example-execution-details-conv-subflow.png)
 
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

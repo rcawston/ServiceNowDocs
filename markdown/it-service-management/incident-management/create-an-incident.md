@@ -29,7 +29,7 @@ This procedure describes how an ITIL agent completes the Incident form. Incident
 
     You can also click **New** from the Incident list view.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 2.  [Use a template](t_UseATemplateFromAForm.md), if one exists for the type of incident that you are logging.
 
@@ -130,7 +130,7 @@ State
 
 </td><td>
 
-State of the incident. The state moves and tracks incidents through several stages of resolution.**Tip:** Use the **State** field, rather than the **Incident State** or **Problem State** fields, as your primary means of tracking the state of an incident because this state progresses through the entire processing cycle. To learn more, see [Life cycle of an Incident](../concept/c_IncidentManagementStateModel.md).
+State of the incident. The state moves and tracks incidents through several stages of resolution.**Tip:** Use the **State** field, rather than the **Incident State** or **Problem State** fields, as your primary means of tracking the state of an incident because this state progresses through the entire processing cycle. To learn more, see [Life cycle of an Incident](c_IncidentManagementStateModel.md).
 
 </td></tr><tr><td>
 
@@ -302,14 +302,14 @@ The incident record is created.
 
 ## What to do next
 
-You can perform various actions and use the features in the incident record form to track and resolve the incident. For more information, see [Working with incident record form](../concept/working-incident-record-form.md).
+You can perform various actions and use the features in the incident record form to track and resolve the incident. For more information, see [Working with incident record form](working-incident-record-form.md).
 
-**Parent Topic:**[Managing incidents](../concept/work-on-incidents.md)
+**Parent Topic:**[Managing incidents](work-on-incidents.md)
 
 **Related topics**  
 
 
 [Create a record from incident](t_PromoteAnIncident.md)
 
-[Managing major incidents](../concept/major-incident-management.md)
+[Managing major incidents](major-incident-management.md)
 

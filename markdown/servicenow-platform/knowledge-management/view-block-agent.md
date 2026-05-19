@@ -33,7 +33,7 @@ Role required: agent\_workspace\_user and knowledge
 
 4.  View another version of the knowledge block by selecting the version in the Version list.
 
-    **Note:** The Version list appears only when the article versioning feature is enabled. For more information, see [Article versioning](../concept/article-versioning.md).
+    **Note:** The Version list appears only when the article versioning feature is enabled. For more information, see [Article versioning](article-versioning.md).
 
 
 ## Result
@@ -43,7 +43,7 @@ The selected version of the knowledge block opens within Agent Workspace. Any ea
 **Related topics**  
 
 
-[Knowledge block details displayed in Agent Workspace](../reference/knowledge-block-view-agent.md)
+[Knowledge block details displayed in Agent Workspace](knowledge-block-view-agent.md)
 
 [Create a knowledge block in Agent Workspace](create-knowledge-block-workspace.md)
 

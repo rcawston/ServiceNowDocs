@@ -52,8 +52,8 @@ The sample automations are classified into **Beginner**, **Intermediate**, **Adv
         ![ReadMe file for sample automation in the project folder.](../image/sample-automation-readme-file.png "ReadMe file for sample automation")
 
 
--   **[Sample automations](../reference/sample-automations-rpa-studio.md)**  
+-   **[Sample automations](sample-automations-rpa-studio.md)**  
 The RPA Desktop Design Studio provides multiple sample automations that cater to different use cases.
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

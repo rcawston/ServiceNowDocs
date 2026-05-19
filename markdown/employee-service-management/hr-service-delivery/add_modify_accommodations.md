@@ -19,7 +19,7 @@ You can add, modify, or view accommodation requests for an HR profile. Accommoda
 
 Role required: sn\_hr\_er.case\_writer
 
-**Note:** For more information, see [Employee Relations accommodations](../concept/hr-er-accommodations.md).
+**Note:** For more information, see [Employee Relations accommodations](hr-er-accommodations.md).
 
 ## Procedure
 
@@ -36,5 +36,5 @@ Role required: sn\_hr\_er.case\_writer
 5.  Select **Submit** or **Update**.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](c_HRProfileRecords.md)
 

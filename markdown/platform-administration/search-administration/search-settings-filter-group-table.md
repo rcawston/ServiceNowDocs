@@ -30,15 +30,15 @@ The configuration settings for table-based filtering and grouping of global sear
 
 [Global search displays your most recent search queries and results in Next Experience UI](global-search-recent-queries-results.md)
 
-[Set global text search properties](../task/set-global-text-search-properties.md)
+[Set global text search properties](set-global-text-search-properties.md)
 
-[Set the preview limit for global or workspace search in Next Experience UI](../task/set-app-preview-limit-polaris-ui.md)
+[Set the preview limit for global or workspace search in Next Experience UI](set-app-preview-limit-polaris-ui.md)
 
-[Hide per-table search result counts in Next Experience UI](../task/hide-result-counts-polaris-ui.md)
+[Hide per-table search result counts in Next Experience UI](hide-result-counts-polaris-ui.md)
 
-[Add a workspace application to the Unified Navigation search context menu](../task/add-app-search-context-polaris-ui.md)
+[Add a workspace application to the Unified Navigation search context menu](add-app-search-context-polaris-ui.md)
 
-[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+[Global text search suggestions](r_GlobalTextSearchSuggestions.md)
 
 ## Search sources filter global search results by table in Next Experience UI
 
@@ -79,7 +79,7 @@ You must be using Next Experience UI.
 
 **Note:** You can configure tables for global text search in Core UI by adding new text search groups. For more details, see [Add a search group for Core UI](search-settings-filter-group-table.md#).
 
-The tables you want to include in the search group must have text indexing enabled. To enable text indexing for a table, see [Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#).
+The tables you want to include in the search group must have text indexing enabled. To enable text indexing for a table, see [Configure a table for indexing and searching](configure-single-table-for-indexing.md#).
 
 Role required: search\_application\_admin or workspace\_admin
 
@@ -271,7 +271,7 @@ You must be using Core UI.
 
 **Note:** You can configure tables for global search in Next Experience UI by adding new search sources. For more details, see [Add a search source for Next Experience UI](search-settings-filter-group-table.md#).
 
-The tables you want to include in the search group must have text indexing enabled. To enable text indexing for a table, see [Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#).
+The tables you want to include in the search group must have text indexing enabled. To enable text indexing for a table, see [Configure a table for indexing and searching](configure-single-table-for-indexing.md#).
 
 Role required: text\_search\_admin
 
@@ -329,7 +329,7 @@ Table
 
 </td><td>
 
-Select the table to include in the search group.**Note:** You can select any table not excluded by [the **glide.ui.no\_text\_search** system property](../task/set-global-text-search-properties.md), but global search only displays search results for tables that have text indexing enabled.
+Select the table to include in the search group.**Note:** You can select any table not excluded by [the **glide.ui.no\_text\_search** system property](set-global-text-search-properties.md), but global search only displays search results for tables that have text indexing enabled.
 
 </td></tr><tr><td>
 

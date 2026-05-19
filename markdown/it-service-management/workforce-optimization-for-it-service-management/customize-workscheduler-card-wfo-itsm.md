@@ -61,7 +61,7 @@ You can duplicate an existing work item variant such as an Incident, Problem, Ch
 |Add fields|[Create page scripts for Work scheduler](work-sched-create-page-scripts.md) and refer to the Create the **Transform workItem to cardProps** page script steps.|
 |Add an avatar|[Configure an avatar component for Work scheduler](work-sched-avatar-component.md)|
 
-**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for ITSM](../concept/setting-up-work-scheduler.md)
+**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for ITSM](setting-up-work-scheduler.md)
 
 **Related topics**  
 

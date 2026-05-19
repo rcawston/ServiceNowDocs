@@ -22,8 +22,8 @@ You can add scrolling areas to forms as well as UI pages.
 2.  Create a Formatter to reference the script.
 
 
--   **[Priority 1 incidents example](../reference/r_Priority1IncidentsExample.md)**  
+-   **[Priority 1 incidents example](r_Priority1IncidentsExample.md)**  
 This example scrolling element demonstrates how to create a UI macro to a scrolling list of priority 1 incidents.
 
-**Parent Topic:**[Scrollable areas](../reference/r_ScrollableAreas.md)
+**Parent Topic:**[Scrollable areas](r_ScrollableAreas.md)
 

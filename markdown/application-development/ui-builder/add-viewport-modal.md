@@ -31,7 +31,7 @@ Use viewport modals to embed subpages or other experiences within a modal in you
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information.
 
 3.  Open or create a page.
 
@@ -98,5 +98,5 @@ Use viewport modals to embed subpages or other experiences within a modal in you
 22. View and test your page by selecting ![Preview button that opens the page variant.](../image/preview-button.png).
 
 
-**Parent Topic:**[Extend your UI experience with viewport components](../concept/viewports-overview.md)
+**Parent Topic:**[Extend your UI experience with viewport components](viewports-overview.md)
 

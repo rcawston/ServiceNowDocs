@@ -33,7 +33,7 @@ Role required: Administrator
     |**Change Management**|Performance Analytics - Content Pack - Change Management \(com.snc.pa.change\)|
     |**Request Management**|Performance Analytics - Content Pack - Request Management \(com.snc.pa.request\)|
 
-2.  [Add the desired indicator data source](../../../use/performance-analytics/concept/c_IndicatorSources.md#) to the Summary and insights page.
+2.  [Add the desired indicator data source](../performance-analytics/c_IndicatorSources.md#) to the Summary and insights page.
 
     The KPIs listed in the following table are available by default.
 
@@ -87,5 +87,5 @@ Requested item
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Content pack for ITSM](../concept/itsm-proc-opti-content-pack.md)
+**Parent Topic:**[Content pack for ITSM](itsm-proc-opti-content-pack.md)
 

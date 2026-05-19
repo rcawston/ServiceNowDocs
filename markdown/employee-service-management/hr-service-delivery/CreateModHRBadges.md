@@ -47,5 +47,5 @@ Custom badges only appear for specif .
 4.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[HR Administration](../concept/c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
 

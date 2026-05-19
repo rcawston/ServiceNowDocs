@@ -156,5 +156,5 @@ Option to prevent the Enterprise Asset Management application from automatically
 
 The model category is created. You can perform additional configurations on the model category by entering details in the **Product Models** tab.
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
 

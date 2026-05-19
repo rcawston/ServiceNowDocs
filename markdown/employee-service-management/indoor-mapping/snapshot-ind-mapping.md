@@ -74,10 +74,10 @@ Role required: map admin, map editor, wsd\_core\_admin
 
 16. Few tables are impacted during the snapshot process.
 
-    For more information about impacted tables, see [Snapshot Impacted tables](../reference/snapshot-ind-mapping-tables.md).
+    For more information about impacted tables, see [Snapshot Impacted tables](snapshot-ind-mapping-tables.md).
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Previous topic:**[Print a map](print-map.md)
 

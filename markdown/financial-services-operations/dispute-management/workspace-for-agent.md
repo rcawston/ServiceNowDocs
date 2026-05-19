@@ -60,7 +60,7 @@ The **Dispute Workspace** displays a list of all open tasks for the agent, each 
 -   The agent can write work notes for the task, which appears in the activity stream once the task is saved.
 -   After a task is complete, it automatically moves to the **Closed** tab.
 
-**Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](../../fso-card-data-security/concept/manage-attachments-in-card-data-security.md).
+**Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](manage-attachments-in-card-data-security.md).
 
 **Parent Topic:**[Managing Disputes](managing-disputes.md)
 

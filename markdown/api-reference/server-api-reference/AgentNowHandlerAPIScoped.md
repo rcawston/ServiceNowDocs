@@ -17,9 +17,9 @@ The AgentNowHandler script include provides methods that enable running check de
 
 This script include requires the Agent Client Collector Framework \(sn\_agent\) store application and is provided within the `sn_agent` namespace. For more information, refer to [Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-landing-page.md).
 
-For the REST API solution, refer to [Agent Client Collector API](../../../../../integrate/inbound-rest/concept/agnt_clnt_cll-api.md#).
+For the REST API solution, refer to [Agent Client Collector API](../rest-apis/agnt_clnt_cll-api.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## AgentNowHandler - AgentNowHandler\(\)
 
@@ -174,7 +174,7 @@ cis
 
 </td><td>
 
-[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+[GlideRecord](c_GlideRecordScopedAPI.md#)
 
 </td><td>
 

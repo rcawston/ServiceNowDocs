@@ -45,7 +45,7 @@ Provide a seamless procurement experience with:
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get additional information about SPO, including lists, forms, rules, components, parameters, roles, and personas.](../reference/spo-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get additional information about SPO, including lists, forms, rules, components, parameters, roles, and personas.](spo-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources
@@ -54,7 +54,7 @@ Here are some additional ServiceNow resources that can help you:
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-docs.svg) Release Notes**
 
-    Learn more about what's new and changed. See the [Sourcing and Procurement Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/sourcing-procurement-operations-rn.md).
+    Learn more about what's new and changed. See the [Sourcing and Procurement Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/sourcing-procurement-operations-rn.md).
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-learning.svg) ServiceNow University**
 

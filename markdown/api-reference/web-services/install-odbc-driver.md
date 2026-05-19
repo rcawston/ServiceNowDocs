@@ -98,5 +98,5 @@ The ServiceNow ODBC driver is installed on your client machine and registered wi
 
 After completing the installation, configure the ODBC driver to connect to your ServiceNow instance. For configuration instructions, see [Configure ServiceNow SQL API ODBC driver on client machine](configure-odbc-driver.md).
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](configuring-sql-api.md)
 

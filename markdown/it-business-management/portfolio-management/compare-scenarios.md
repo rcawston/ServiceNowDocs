@@ -70,5 +70,5 @@ Steps
 
 Confirm a scenario that best aligns with your organizational objectives, optimally achieves your target budget, and uses your resources. For more information see, [Confirm a planning scenario](confirm-a-scenario.md).
 
-**Parent Topic:**[Scenario Planning for PPM](../concept/portfolio-planning-overview.md)
+**Parent Topic:**[Scenario Planning for PPM](portfolio-planning-overview.md)
 

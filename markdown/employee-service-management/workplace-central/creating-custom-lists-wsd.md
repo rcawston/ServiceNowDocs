@@ -15,9 +15,9 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 You can create custom lists using the Lists module on Workplace Central. You can create a custom list by using existing lists from Workplace Central, or by using a system table.
 
--   **[Create a custom list based on an existing list](../task/create-list-from-existing.md)**  
+-   **[Create a custom list based on an existing list](create-list-from-existing.md)**  
 Create a custom list based on an existing list on Workplace Central.
--   **[Create a custom list based on a system table](../task/create-custom-list.md)**  
+-   **[Create a custom list based on a system table](create-custom-list.md)**  
 Create a custom list on Workplace Central based on a system table.
 
 **Parent Topic:**[Use Workplace Central](use-workplace-central.md)

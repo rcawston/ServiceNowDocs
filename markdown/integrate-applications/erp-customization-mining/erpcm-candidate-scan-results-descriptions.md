@@ -17,7 +17,7 @@ On a candidate record in ERP Semantic Mining the **ERP scan results** tab displa
 
 **Important:** Starting with the Zurich release, ERP Semantic Mining is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
-For process details, see [View and work with candidate details in ERP Semantic Mining](../task/erpcm-view-work-with-candidate-details.md).
+For process details, see [View and work with candidate details in ERP Semantic Mining](erpcm-view-work-with-candidate-details.md).
 
 <table id="table_oh5_w2p_jyb"><thead><tr><th>
 
@@ -84,5 +84,5 @@ Updated
 Date and time the table was most recently scanned.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ERP Semantic Mining field descriptions](../concept/erpcm-field-description-reference-landing.md)
+</table>**Parent Topic:**[ERP Semantic Mining field descriptions](erpcm-field-description-reference-landing.md)
 

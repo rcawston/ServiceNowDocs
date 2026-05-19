@@ -48,5 +48,5 @@ The integration error purchasing task is created in flow designer when integrati
 
 If a purchase requisition is created directly without a sourcing request, all purchasing tasks and procurement cases are created in flow designer when the state of the purchase requisition is Pending Review or Pending Approval \(if approvals are triggered\), with the exception of contract review case and integration error task. These are created when the state is Awaiting Task Completion. If the tasks and cases triggered during the Pending Review or Pending Approval state are still open after approvals are complete, the state of the purchase requisition is in Awaiting Task Completion. Only when all the **Order dependent on task** tasks and **Order dependent on case** cases are closed, the state of the purchase requisition is updated to Final Review or PO Created, based on the purchasing property.
 
-**Parent Topic:**[Purchasing tasks and procurement cases](../reference/purchasing-tasks.md)
+**Parent Topic:**[Purchasing tasks and procurement cases](purchasing-tasks.md)
 

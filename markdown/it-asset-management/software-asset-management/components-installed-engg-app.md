@@ -195,5 +195,5 @@ Unrecognized Publisher Integration Map\[samp\_unrec\_publisher\_integration\_map
 Maps unrecognized publishers to subscription integrations.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Engineering license management](../concept/concurrent-licenses.md)
+</table>**Parent Topic:**[Engineering license management](concurrent-licenses.md)
 

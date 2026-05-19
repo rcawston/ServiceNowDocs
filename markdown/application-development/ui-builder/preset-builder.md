@@ -59,7 +59,7 @@ Role required: ui\_builder\_admin
 
 ## What to do next
 
-Apply the preset you just created by [selecting a preset in UI Builder](../concept/presets.md#).
+Apply the preset you just created by [selecting a preset in UI Builder](presets.md#).
 
-**Parent Topic:**[Customize UI Builder pages using components](../concept/work-components.md)
+**Parent Topic:**[Customize UI Builder pages using components](work-components.md)
 

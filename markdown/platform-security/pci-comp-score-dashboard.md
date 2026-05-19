@@ -73,5 +73,5 @@ Security Configurations \[isc\_security\_configurations\]
 Displays compliant and non-compliant security configurations in high, medium, and low categories. Click an area of the report to display the matching security configurations.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Check the daily compliance score and configure security property settings](../../../administer/security/concept/instance-sec-center-hardening.md)
+</table>**Parent Topic:**[Check the daily compliance score and configure security property settings](instance-sec-center-hardening.md)
 

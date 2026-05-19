@@ -67,5 +67,5 @@ Discovery can identify and classify uninterruptible power supplies.
 |Alarm type|cmdb\_ci\_ups\_alarm|alarm\_type|SNMP, UPS MIB|
 |Alarm time|cmdb\_ci\_ups\_alarm|alarm\_time|SNMP, UPS MIB|
 
-**Parent Topic:**[Network device discovery](../concept/c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](c_NetworkDevices.md)
 

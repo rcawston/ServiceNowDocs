@@ -15,9 +15,9 @@ breadcrumb: [Contextual search, Search administration, Configure core features, 
 
 Contextual Search is installed with these roles.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[Contextual search](../concept/c_ContextualSearch.md)
+**Parent Topic:**[Contextual search](c_ContextualSearch.md)
 
 ## Contextual Search feedback reader \[cxs\_feedback\_reader\]
 

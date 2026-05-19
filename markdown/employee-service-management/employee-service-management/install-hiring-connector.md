@@ -23,7 +23,7 @@ Role required: admin
 
 Tables and Store applications are installed with Hiring Connector.
 
-For more information, see [Components installed with Hiring Connector](../reference/installed-with-hiring.md).
+For more information, see [Components installed with Hiring Connector](installed-with-hiring.md).
 
 ## Procedure
 

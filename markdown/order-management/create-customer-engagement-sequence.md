@@ -15,7 +15,7 @@ Drive personalized outreach by creating customer engagement sequences that autom
 
 ## Before you begin
 
-Check whether features you need to access are supported by reviewing the table in [Compatibility information for Customer Engagement Sequences](../reference/compatibility-matrix-upgrade-info.md).
+Check whether features you need to access are supported by reviewing the table in [Compatibility information for Customer Engagement Sequences](compatibility-matrix-upgrade-info.md).
 
 Your instance must be integrated with platforms such as Amazon Connect.
 
@@ -121,7 +121,7 @@ Dynamically update the sequence task records based on predefined configuration u
 -   **[Assign runtime permissions while creating sequences](configure-runtime-permission-sequence-playbooks.md)**  
 Use permission sets to control access to sequence records such as sequence tasks and steps.
 
-**Parent Topic:**[Using Customer Engagement Sequences](../concept/using-customer-engagement-sequences.md)
+**Parent Topic:**[Using Customer Engagement Sequences](using-customer-engagement-sequences.md)
 
 **Related topics**  
 

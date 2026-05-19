@@ -28,7 +28,7 @@ The CPQ app for Shopify is free to download on the Shopify app store:
 
 After downloading the CPQ app it will automatically appear in the Apps section of the store.
 
-To start using the app, the CPQ environment details and a token must be entered in the CPQ settings section of the app landing screen. For more information about creating a CPQ token, see [Set up a runtime client](../task/cpq-set-up-a-runtime-client.md).
+To start using the app, the CPQ environment details and a token must be entered in the CPQ settings section of the app landing screen. For more information about creating a CPQ token, see [Set up a runtime client](cpq-set-up-a-runtime-client.md).
 
 **Note:** Ensure the storefront and the Admin URLs are added as an origin for the token. All stores should also include the following static URL to their list of origins: [https://shpfy-connect.ecommerce.logik.io](https://shpfy-connect.ecommerce.logik.io/).
 

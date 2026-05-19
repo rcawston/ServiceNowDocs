@@ -83,7 +83,7 @@ You can add custom fields to a planning tool integration by using record transfo
     **Note:** You can add multiple field mappings for an action as per your requirement.
 
 
-**Parent Topic:**[User-created integrations in DevOps Change Velocity](../concept/dev-ops-tool-integration.md)
+**Parent Topic:**[User-created integrations in DevOps Change Velocity](dev-ops-tool-integration.md)
 
 **Related topics**  
 

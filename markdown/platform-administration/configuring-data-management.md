@@ -18,7 +18,7 @@ Set up and configure Data Management.
 
 Data Management is a ServiceNow AI Platform capability that is active by default. You can take advantage of object storage for archive records and attachments by upgrading to RaptorDB Professional V2 and installing Live Archive.
 
--   **[Install Live Archive](../task/install-data-archiving-plugin.md)**  
+-   **[Install Live Archive](install-data-archiving-plugin.md)**  
 Install Live Archive to archive data in object storage.
 
 **Parent Topic:**[Data Management](c_DataManagement.md)

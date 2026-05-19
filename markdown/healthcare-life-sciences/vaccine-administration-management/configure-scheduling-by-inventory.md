@@ -273,5 +273,5 @@ Notes about the vaccine availability for this lot.
     8.  To create more records for vaccine availability, repeat the Availability By Lots procedure, as needed.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

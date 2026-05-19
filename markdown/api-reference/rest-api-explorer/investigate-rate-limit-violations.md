@@ -36,5 +36,5 @@ Violations are created when inbound REST API requests reach the maximum allowed 
 
 You may need to reevaluate the **Request limit per hour** value for a rate limit rule, depending on the number of violations of that rule. You may also need to educate users about rate limits, depending on how many times specific users violate rate limit rules.
 
-**Parent Topic:**[Inbound REST API rate limiting](../concept/inbound-REST-API-rate-limiting.md)
+**Parent Topic:**[Inbound REST API rate limiting](inbound-REST-API-rate-limiting.md)
 

@@ -50,5 +50,5 @@ The opportunity is sent to the coworker that you shared it with.
 
 When you share an opportunity with a coworker, you and the person you share the opportunity with receive an email notification that the job was shared.
 
-**Parent Topic:**[Use Opportunity Marketplace](../../egd-oppt-mrktplc/concept/egd-oppt-mrktplc-using.md)
+**Parent Topic:**[Use Opportunity Marketplace](egd-oppt-mrktplc-using.md)
 

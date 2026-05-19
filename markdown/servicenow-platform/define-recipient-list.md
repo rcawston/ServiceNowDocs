@@ -25,7 +25,7 @@ Role required: admin or survey\_admin or survey\_creator
 
 3.  On the Recipients List form, fill in the fields:
 
-    For a description of the field values, see [Recipients List form](../reference/recipients-list-form.md).
+    For a description of the field values, see [Recipients List form](recipients-list-form.md).
 
 4.  Click **Submit**.
 
@@ -34,12 +34,12 @@ Role required: admin or survey\_admin or survey\_creator
 5.  To get the updated user list, navigate to the recipient list and click **Refresh Recipient List**.
 
 
-**Parent Topic:**[Survey distribution](../concept/c_SurveyDistribution.md)
+**Parent Topic:**[Survey distribution](c_SurveyDistribution.md)
 
 **Related topics**  
 
 
-[Email notifications for surveys](../concept/email-notification-for-surveys.md)
+[Email notifications for surveys](email-notification-for-surveys.md)
 
 [Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
 
@@ -49,11 +49,11 @@ Role required: admin or survey\_admin or survey\_creator
 
 [Enable localization for a survey](enable-localization-survey.md)
 
-[Survey URLs](../concept/c_SurveyURLs.md)
+[Survey URLs](c_SurveyURLs.md)
 
 [Create a survey module](t_CreatingASurveyModule.md)
 
-[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+[Sharing surveys](c_SurveyInportAndExport.md)
 
 [Configure a survey in the Connect chat support](take-survey-connect-chat.md)
 

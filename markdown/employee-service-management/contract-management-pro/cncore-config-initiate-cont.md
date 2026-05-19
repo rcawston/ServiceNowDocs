@@ -41,7 +41,7 @@ Role required: admin
 
     4.  On the form, fill in the other fields.
 
-        For details, see [Action assignment form](../reference/cmpro-actn-assignment-form.md)
+        For details, see [Action assignment form](cmpro-actn-assignment-form.md)
 
     5.  Right-click the form header and select **Save**.
 
@@ -99,7 +99,7 @@ Role required: admin
 
         ![Create event mapping for initiate contract action](../image/cmpro-uptake-ux-add-event.png)
 
-        For a description of the field values, see [UFX Add on Event mapping form](../reference/cmpro-ufx-event-map-form.md).
+        For a description of the field values, see [UFX Add on Event mapping form](cmpro-ufx-event-map-form.md).
 
     10. Select **Submit**.
 
@@ -118,7 +118,7 @@ An action button to initiate contract requests from a contract record is availab
 
 ![Initiate action button added to your workspace](../image/cmpro-bu-initiate-contract-button.png "Initiate contract action configured")
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

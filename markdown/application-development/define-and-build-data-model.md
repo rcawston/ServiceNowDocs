@@ -15,13 +15,13 @@ After planning is complete, define and build the data model. Create one or more 
 
 ## Agentic AI
 
-Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
+Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](application-development/use-ai-capabilities-in-custom-apps.md).
 
 ## Create an application
 
 Create or open an application record.
 
--   Create: If creating an application directly, use [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md) to create the application.
+-   Create: If creating an application directly, use [ServiceNow Studio](servicenow-studio-classic/servicenow-studio-landing.md) to create the application.
 -   Open: If developers do not have the admin role, the ServiceNow System Administrator needs to create the application and grant developers a delegated development role. Developers then use ServiceNow Studio to open the application for editing.
 
 **Note:** The application scope and table name are sometimes referred to as the internal names for these objects and cannot be changed once they are created. However, the application name and table label can be changed. Application users see the internal names in the URL only. If possible, internal names should always be consistent with what the user sees.

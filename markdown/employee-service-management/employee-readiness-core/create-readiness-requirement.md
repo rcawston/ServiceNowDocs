@@ -21,7 +21,7 @@ Role required: sn\_imt\_core.admin
 
 ## About this task
 
-Use health and safety requirements to define the requirements that employees must fulfill before they can return to the workplace, or that visitors must fulfill before entering the workplace. Create separate requirements for employees and visitors. A requirement must apply to either employees or visitors, not both. Employee Readiness Core provides some [pre-built requirements](../reference/included-health-safety-requirements.md). However, you can create additional requirements using data from any of the Safe Workplace suite or Emergency Response Management apps.
+Use health and safety requirements to define the requirements that employees must fulfill before they can return to the workplace, or that visitors must fulfill before entering the workplace. Create separate requirements for employees and visitors. A requirement must apply to either employees or visitors, not both. Employee Readiness Core provides some [pre-built requirements](included-health-safety-requirements.md). However, you can create additional requirements using data from any of the Safe Workplace suite or Emergency Response Management apps.
 
 Health and safety requirements are built with [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md). Before creating a requirement, make sure that you're familiar with the basics of ServiceNow® Workflow Studio.
 
@@ -289,5 +289,5 @@ Add conditions to filter the records from the table that will trigger the flow.
 
 When you create the requirement, it's not active by default. You must activate the requirement before you can track whether employeesor visitors have fulfilled the requirement. For instructions, see [Activate a health and safety requirement](activate-readiness-requirement.md).
 
-**Parent Topic:**[Employee Health and Safety Status](../concept/employee-health-safety-status.md)
+**Parent Topic:**[Employee Health and Safety Status](employee-health-safety-status.md)
 

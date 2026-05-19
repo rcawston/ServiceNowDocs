@@ -79,5 +79,5 @@ Displays the **Confirm you didn't receive all services** dialog box to record yo
 
 You can view the completed task in the **Completed** tab.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](../concept/employee-center-integration-psm.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](employee-center-integration-psm.md)
 

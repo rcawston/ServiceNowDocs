@@ -42,7 +42,7 @@ This plugin includes demo data and activates related plugins if they are not alr
 
 After activating the GRC: Performance Analytics Integration plugin on an instance with customized related lists on content \(risk or control objective\) or items \(risk or control\), you may have to manually add the PA Indicator to content relationships and/or the PA indicator to item relationships.
 
-**Parent Topic:**[Monitor risks using GRC Performance Analytics Indicators](../../grc-risk/concept/pa-indicators-risk.md)
+**Parent Topic:**[Monitor risks using GRC Performance Analytics Indicators](pa-indicators-risk.md)
 
 **Related topics**  
 

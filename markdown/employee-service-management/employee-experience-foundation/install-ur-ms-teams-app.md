@@ -59,5 +59,5 @@ Role required: admin
 -   **[Approve application restricted caller access privileges](ur-mst-approve-rca.md)**  
 Approve restricted caller access \(RCA\) privileges in the target scope so that you can provide scope access privileges. Approving the RCA privileges enables the script includes in Universal Request scope to be accessed from the Universal Request integration with Microsoft Teams scope.
 
-**Parent Topic:**[Plan your installation](../concept/plan-installation-ms-teams.md)
+**Parent Topic:**[Plan your installation](plan-installation-ms-teams.md)
 

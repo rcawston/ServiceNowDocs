@@ -25,9 +25,9 @@ All log information is read only.
 
 -   **[Configure outbound logging](outbound-logging-configure.md#)**  
 You can configure outbound request logging to log basic, elevated, or all HTTP request and response information for specific domains.
--   **[Outbound request logging exclusion domain requirements](../reference/outbound-logging-list-reqs.md#)**  
+-   **[Outbound request logging exclusion domain requirements](outbound-logging-list-reqs.md#)**  
 When you exclude outbound request logging for a domain, the value you enter in the Domain field must meet certain requirements.
--   **[Outbound web service logging properties](../reference/outbound-logging-properties.md)**  
+-   **[Outbound web service logging properties](outbound-logging-properties.md)**  
 These properties allow you to control the behavior of outbound web service request logging.
 
 **Parent Topic:**[Outbound web services](outbound-web-services.md)

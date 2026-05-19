@@ -19,7 +19,7 @@ Starting with the Yokohama release, Patient Support Services is being prepared f
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-**Note:** The Patient Support Services application is based on the Patient Support Services data model that extends the [Healthcare and Life Sciences data model](hcls-serv-mgmt-core.md) and stores all enrollment requests in the Enrollment case \[sn\_patientservice\_enroll\_case\] table.
+**Note:** The Patient Support Services application is based on the Patient Support Services data model that extends the [Healthcare and Life Sciences data model](healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core.md) and stores all enrollment requests in the Enrollment case \[sn\_patientservice\_enroll\_case\] table.
 
 The following table provides an overview of the configuration tasks required for Patient Support Services.
 
@@ -33,7 +33,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Patient Support Services](../task/pss-install-app.md).
+[Install Patient Support Services](pss-install-app.md).
 
 </td><td>
 
@@ -41,7 +41,7 @@ Install the Patient Support Services application to work on patient support serv
 
 </td></tr><tr><td>
 
-[Assign roles for Patient Support Services users](../task/pss-assign-roles.md).
+[Assign roles for Patient Support Services users](pss-assign-roles.md).
 
 </td><td>
 
@@ -73,7 +73,7 @@ Configure an enrollment request form to enable patients or practitioners enroll 
 
 </td></tr><tr><td>
 
-[Configure the submission flow of the enrollment request form](../task/pss-ext-point-enrollment-form.md).
+[Configure the submission flow of the enrollment request form](pss-ext-point-enrollment-form.md).
 
 </td><td>
 
@@ -81,7 +81,7 @@ Use scripted extension points to decide what records are created or updated afte
 
 </td></tr><tr><td>
 
-[Determine who can conduct training tasks](../task/pss-nurse-ts-group.md).
+[Determine who can conduct training tasks](pss-nurse-ts-group.md).
 
 </td><td>
 
@@ -105,7 +105,7 @@ Enable your patients to enroll to a program in the Patient Support Services appl
 
 </td></tr><tr><td>
 
-[Configure a checklist for a program.](../task/pss-config-checklist.md)
+[Configure a checklist for a program.](pss-config-checklist.md)
 
 </td><td>
 

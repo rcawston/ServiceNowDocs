@@ -29,7 +29,7 @@ Used together, benchmarking and Performance Analytics enables you to measure you
 
 ## Procedure
 
-1.  In the list of [automated indicators](../concept/performance-analytics-glossary.md#) or the list of formula indicators, identify which benchmark indicator you want to link to which other indicator.
+1.  In the list of [automated indicators](performance-analytics-glossary.md#) or the list of formula indicators, identify which benchmark indicator you want to link to which other indicator.
 
     Benchmark indicator names begin with the word **Benchmark**.
 
@@ -54,5 +54,5 @@ Used together, benchmarking and Performance Analytics enables you to measure you
 
 ## Result
 
-After you update the benchmark KPI record, you can compare the benchmark KPI and the automated indicator on the **Compare** tab of the Analytics Hub for the automated indicator. For more information and an example, see [Compare scores](../concept/scorecard-compare-tab.md).
+After you update the benchmark KPI record, you can compare the benchmark KPI and the automated indicator on the **Compare** tab of the Analytics Hub for the automated indicator. For more information and an example, see [Compare scores](scorecard-compare-tab.md).
 

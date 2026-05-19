@@ -19,7 +19,7 @@ Add existing globally scoped files into a selected global application. You can s
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 The Global App File Management plugin must be activated.
 
@@ -27,7 +27,7 @@ Role required: admin
 
 ## About this task
 
-When you select an application in the application picker, application files are automatically assigned to it. You cannot move an application file into or out of a scoped application. See [Application scope](../concept/c_ApplicationScope.md).
+When you select an application in the application picker, application files are automatically assigned to it. You cannot move an application file into or out of a scoped application. See [Application scope](../c_ApplicationScope.md).
 
 ## Procedure
 
@@ -66,5 +66,5 @@ When you select an application in the application picker, application files are 
 
 The system moves the selected files to the selected application from the global scope, and flags them as customizable files. For example, if you select the sys\_ui\_policy file, the associated sys\_ui\_policy\_actions file is also added to the selected application, and flagged as customizable. You see error messages when errors occur in the add process, or a confirmation when your files are successfully added to the globally scoped application.
 
-**Parent Topic:**[Legacy - Global application file management](../concept/manage_global_application_files.md)
+**Parent Topic:**[Legacy - Global application file management](manage_global_application_files.md)
 

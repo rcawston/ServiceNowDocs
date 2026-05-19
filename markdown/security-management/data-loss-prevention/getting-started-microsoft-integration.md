@@ -195,5 +195,5 @@ Any one of the following permissions are required if the users would like to vie
 1.  If you’re a Microsoft Azure user, you must have the role Storage Blob Data Contributor to read, write, and delete blobs on Azure Storage.
 2.  If you’re an Amazon S3 user, you must create a policy that gives list, read, write, and delete access for the object in Amazon S3 Storage.
 
-**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](../concept/dlp-integration-microsoft.md)
+**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
 

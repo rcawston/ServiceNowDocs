@@ -38,5 +38,5 @@ Role required: user
 3.  Select the messages that you would like to import, then select **Import messages**.
 
 
-**Parent Topic:**[Request-based chat - Start and import chat from Workspace](../concept/initiate-chat-agent-workspace.md)
+**Parent Topic:**[Request-based chat - Start and import chat from Workspace](initiate-chat-agent-workspace.md)
 

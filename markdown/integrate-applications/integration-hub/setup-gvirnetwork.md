@@ -18,7 +18,7 @@ Integrate the ServiceNow instance and Google Cloud Virtual Network spoke by usin
 ## Before you begin
 
 -   Request Integration Hub subscription.
--   Activate and set up the [Google Compute Engine Spoke](../concept/gcomengine-spoke.md).
+-   Activate and set up the [Google Compute Engine Spoke](gcomengine-spoke.md).
 -   Activate the Google Cloud Virtual Network spoke.
 -   Role required: admin.
 

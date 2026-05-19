@@ -32,7 +32,7 @@ Role required: admin
 
 5.  On the Script Include form, fill in the fields.
 
-    For a description of the field values, see [Scripted Extension Point form fields](../../legal-request-management/reference/scripted-extension-point-form-fields.md).
+    For a description of the field values, see [Scripted Extension Point form fields](../legal-request-management/scripted-extension-point-form-fields.md).
 
 6.  In the **Script** field, update the copyDataFromBUToCMR function to configure the fields that you want to copy from the parent record to the contract request.
 
@@ -60,7 +60,7 @@ Role required: admin
 
 When a contract request is initiated, the configured fields are automatically populated with the corresponding values from the associated parent record.
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

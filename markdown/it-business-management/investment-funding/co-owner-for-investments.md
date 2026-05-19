@@ -30,7 +30,7 @@ Investment co-owners manage, request, and allocate funds on your behalf to the i
     -   Co-owned investments are marked with a co-owner icon \(![Co-owner icon.](../image/co_owner_tag.png)\).
     -   Viewable investments are marked with a view only icon \(![View only icon.](../image/view_only_invstmnt.png)\).
 
--   **[Manage co-owners for an investment](../task/manage-co-owners-for-invstmnts.md)**  
+-   **[Manage co-owners for an investment](manage-co-owners-for-invstmnts.md)**  
 Add co-owners to your investments to request, approve, and manage the funds on your behalf. You can remove the existing co-owners when you no longer need them to manage your investments.
 
 **Parent Topic:**[Investment Funding](investment-funding-overview.md)

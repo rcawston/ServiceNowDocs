@@ -42,7 +42,7 @@ For incident records, selecting the Recommendations icon \(![Recommended Actions
 
 For other records, selecting the Recommendations icon \(![Recommended Actions icon.](../image/recommended-actions-icon.png)\) displays only the AI-powered search results, as shown in the following diagram.![AI-powered search results](../image/AI-search_powered_recommendations.png)
 
-For more information, see [Get Guidance based recommendations](../task/get-guidance-based-recommendations.md).
+For more information, see [Get Guidance based recommendations](get-guidance-based-recommendations.md).
 
 Agents can view field-level recommendations in the fields of an incident form in Service Operations Workspace. If you're on version prior to 4.2, the recommendations appeared as messages below the field.
 
@@ -50,7 +50,7 @@ Agents can view field-level recommendations in the fields of an incident form in
 
 ![Field-level recommendations.](../image/ra-field-recommendation.png)
 
-Starting from the version 4.2, field recommendations appear in a drop-down when you select the field. For more information, see [Get field recommendations](../task/get-field-recommendations.md).
+Starting from the version 4.2, field recommendations appear in a drop-down when you select the field. For more information, see [Get field recommendations](get-field-recommendations.md).
 
 ![Field_recommendations_in_drop-down](../image/ra_get_field_recommendations_drop-down.png)
 
@@ -87,9 +87,9 @@ The workflow for Recommended Actions for ITSM includes the following:
 
         **Note:**
 
-        -   The **Incident Fields value prediction \(TI\)** and **Similar Incidents \(TI\)** are the only recommendations where the trained models come from Task Intelligence for ITSM. For more information, see [Task Intelligence for ITSM](../../task-intelligence-for-itsm/concept/c-itsm-task-intelligence.md).
+        -   The **Incident Fields value prediction \(TI\)** and **Similar Incidents \(TI\)** are the only recommendations where the trained models come from Task Intelligence for ITSM. For more information, see [Task Intelligence for ITSM](../task-intelligence-for-itsm/c-itsm-task-intelligence.md).
 
-        -   All remaining recommendations use the trained model from Predictive Intelligence. For more information, see [Predictive Intelligence for Incident Management](../../incident-management/concept/predictive-intelligence-for-incident.md).
+        -   All remaining recommendations use the trained model from Predictive Intelligence. For more information, see [Predictive Intelligence for Incident Management](../predictive-intelligence-for-incident.md).
 
     -   Create Action type: Configure the actions that an agent can perform for Recommended Actions guidance. Update the following:
         -   Input: Select the input fields.
@@ -104,11 +104,11 @@ The workflow for Recommended Actions for ITSM includes the following:
 **Related topics**  
 
 
-[Access Service Operations Workspace for ITSM](../task/access-sow-itsm.md)
+[Access Service Operations Workspace for ITSM](access-sow-itsm.md)
 
 [Service Operations Workspace for ITSM user interface](service-operations-workspace-ui.md)
 
 [Service Operations Workspace for ITSM landing page](sow-ui-landing-page.md)
 
-[Exploring On-call Scheduling in Service Operations Workspace](../task/on-call-scheduling-in-service-operations-workspace.md)
+[Exploring On-call Scheduling in Service Operations Workspace](on-call-scheduling-in-service-operations-workspace.md)
 

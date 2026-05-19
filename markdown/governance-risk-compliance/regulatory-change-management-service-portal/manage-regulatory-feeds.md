@@ -238,7 +238,7 @@ Impact assessment details that are associated with the regulatory event alert.
 
 The regulatory event alert is assigned to the selected user and it is listed under the **All Assigned Alerts** module in the application.
 
-**Parent Topic:**[Regulatory alerts](../concept/regulatory-feeds.md)
+**Parent Topic:**[Regulatory alerts](regulatory-feeds.md)
 
 **Related topics**  
 

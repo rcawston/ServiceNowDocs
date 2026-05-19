@@ -33,7 +33,7 @@ Health and Safety Core
 
 Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
- For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md).
+ For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
@@ -1197,5 +1197,5 @@ Template
 Stores all JSA templates with predefined hazards and controls for each job type in your organization.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Risk Management reference](../concept/hs-risk-mgmt-reference.md)
+</table>**Parent Topic:**[Health and Safety Risk Management reference](hs-risk-mgmt-reference.md)
 

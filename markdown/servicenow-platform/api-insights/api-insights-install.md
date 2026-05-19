@@ -31,7 +31,7 @@ The following items are installed with API Insights:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with API Insights](../reference/api-insights-components-installed.md).
+For more information, see [Components installed with API Insights](api-insights-components-installed.md).
 
 ## Procedure
 

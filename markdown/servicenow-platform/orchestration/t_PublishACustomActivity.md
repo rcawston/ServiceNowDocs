@@ -36,7 +36,7 @@ Roles required: admin, activity\_admin, activity\_creator
     **Note:** Activities you create and publish are visible in the **Packs** tab only if they were created in the current application scope.
 
 
-**Parent Topic:**[Orchestration activity designer](../concept/c_WorkflowActivityDesigner.md)
+**Parent Topic:**[Orchestration activity designer](c_WorkflowActivityDesigner.md)
 
 ## Return a locked activity to a published state
 

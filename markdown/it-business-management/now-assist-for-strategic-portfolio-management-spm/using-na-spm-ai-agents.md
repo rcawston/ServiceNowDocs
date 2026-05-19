@@ -73,5 +73,5 @@ To run the AI agents autonomously, you must do the following steps:
 
 [Configure Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-ai-agents.md)
 
-[Configure the Monitor project tasks AI agent in AI Agent Studio](../task/configure-agents-project-task-monitoring.md)
+[Configure the Monitor project tasks AI agent in AI Agent Studio](configure-agents-project-task-monitoring.md)
 

@@ -35,7 +35,7 @@ Some reference qualifiers may not get updated. To normalize these reference qual
 
 ## Activating normalization properties
 
-In this task, select the properties you want to activate. See [Normalization properties](../reference/r_NormalizedProperties.md).
+In this task, select the properties you want to activate. See [Normalization properties](r_NormalizedProperties.md).
 
 Enable the **Normalize existing canonical core\_company records** property if the Companies \[core\_company\] table has two or more records that were both set to Normalized \("canonical=true"\) before any mapping. This option ensures only one \[core\_company\] record is set to Normalized. When you normalize the CMDB tables later in guided setup, the normalization job reassigns the proper normalized value.
 

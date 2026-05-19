@@ -29,5 +29,5 @@ Upgrading a non-production instance can help you estimate how long the upgrade t
 -   The production instance may have more memory and processing power.
 -   The production instance may have more nodes than the non-production instance.
 
-After upgrading the first non-production instance, examine the [Upgrade Summary Report](../reference/uc-complete-summary.md) for data to help estimate the impact of these factors.
+After upgrading the first non-production instance, examine the [Upgrade Summary Report](uc-complete-summary.md) for data to help estimate the impact of these factors.
 

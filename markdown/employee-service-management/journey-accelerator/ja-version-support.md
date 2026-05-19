@@ -36,7 +36,7 @@ Other requirements: To schedule Outlook meetings from Journey Accelerator tasked
 
 Supported family releases:
 
-**Note:** Journey Accelerator Version 4.0.2 is the last family release that a standalone version of the app can be installed. The latest Journey Accelerator functionality is included with the [Journey designer](../concept/jny-dsgnr-landing-page-1.md) application.
+**Note:** Journey Accelerator Version 4.0.2 is the last family release that a standalone version of the app can be installed. The latest Journey Accelerator functionality is included with the [Journey designer](../employee-service-management/jny-dsgnr-landing-page-1.md) application.
 
 -   Utah
 -   Tokyo

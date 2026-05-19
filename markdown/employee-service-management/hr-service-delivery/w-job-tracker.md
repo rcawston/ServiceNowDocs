@@ -51,12 +51,12 @@ Role required: sn\_hr\_workday.admin
     |Import Set|Name of the import set that is pulled.|
 
 
-**Parent Topic:**[Using HR Service Delivery Integration with Workday](../concept/config-hrsd-int-workday.md)
+**Parent Topic:**[Using HR Service Delivery Integration with Workday](config-hrsd-int-workday.md)
 
 **Related topics**  
 
 
-[Use transform maps](../reference/transform-maps-w.md)
+[Use transform maps](transform-maps-w.md)
 
 [View tasks from Workday](view-to-dos-wd.md)
 

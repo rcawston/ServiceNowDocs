@@ -41,7 +41,7 @@ Cryptographic specifications can be tailored to a specified cryptographic purpos
 
 \*\* AES-GCM has built-in data integrity.
 
-The configuration of these parameters is covered in [Create a cryptographic module](../task/create-cryptographic-module.md).
+The configuration of these parameters is covered in [Create a cryptographic module](create-cryptographic-module.md).
 
-**Parent Topic:**[Exploring the Key Management Framework](../../encryption/concept/explore-kmf.md)
+**Parent Topic:**[Exploring the Key Management Framework](explore-kmf.md)
 

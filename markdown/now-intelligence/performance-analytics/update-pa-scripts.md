@@ -60,7 +60,7 @@ Role required: pa\_admin, admin
 6.  Click **Update** to save your changes.
 
 
-**Parent Topic:**[Configure Platform Analytics Solutions](../concept/configure-nowintel-solutions.md)
+**Parent Topic:**[Configure Platform Analytics Solutions](configure-nowintel-solutions.md)
 
 **Previous topic:**[Review the indicator sources](review-indicator-sources.md)
 

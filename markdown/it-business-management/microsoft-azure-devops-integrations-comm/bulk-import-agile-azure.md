@@ -68,5 +68,5 @@ Import work items and iterations of an Azure DevOps project into Agile Developme
 
 .
 
-**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](../concept/setting-up-agile-azure-integration.md)
+**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](setting-up-agile-azure-integration.md)
 

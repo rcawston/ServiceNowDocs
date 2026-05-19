@@ -176,9 +176,9 @@ Detailed comments for the goal to facilitate collaboration.
 **Related topics**  
 
 
-[Exploring goals](../../concept/eaw-concept/eaw-goals.md)
+[Exploring goals](eaw-goals.md)
 
-[Add or edit a goal](../../task/eaw-task/eaw-add-or-edit-a-goal.md)
+[Add or edit a goal](eaw-add-or-edit-a-goal.md)
 
-[Create a sub-goal](../../task/eaw-task/eaw-create-a-sub-goal.md)
+[Create a sub-goal](eaw-create-a-sub-goal.md)
 

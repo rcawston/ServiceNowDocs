@@ -15,11 +15,11 @@ breadcrumb: [Service Catalog security, Configuring Service Catalog, Service Cata
 
 Service catalog supports several ways to control access to a catalog item or category. These controls are also known as catalog entitlements.
 
-Instead of access controls, use user criteria that is the supported security model for catalog item and category. For information about user criteria, see [Apply user criteria to items and categories](../task/t_AppUserCritItemsCat.md#).
+Instead of access controls, use user criteria that is the supported security model for catalog item and category. For information about user criteria, see [Apply user criteria to items and categories](t_AppUserCritItemsCat.md#).
 
 A service catalog item with no specific access controls is available to all users. If access controls are specified, only users who meet all conditions have access.
 
-The following [entitlements](../task/t_ContrlAccessByCDGUOrLoc.md#) are available:
+The following [entitlements](t_ContrlAccessByCDGUOrLoc.md#) are available:
 
 -   Role
 -   Custom script
@@ -41,10 +41,10 @@ A User Criteria record is considered empty if none of the following attributes a
     **Note:** An empty User Criteria matches only authenticated users. Unauthenticated users are no longer matched by an empty User Criteria. Note that this behavior applies only to the Australia release.
 
 
--   **[Service Catalog administration](../task/t_ServiceCatalogAdministration.md)**  
+-   **[Service Catalog administration](t_ServiceCatalogAdministration.md)**  
 Service Catalog enables an administrator to configure the service catalog.
--   **[Restrict access](../task/t_ContrlAccessByCDGUOrLoc.md#)**  
+-   **[Restrict access](t_ContrlAccessByCDGUOrLoc.md#)**  
 Service Catalog enables an administrator to grant or deny access to a service catalog item or category by company, department, group, user, or location.
 
-**Parent Topic:**[Service Catalog security](../topic/p_ServiceCatalogSecurity.md)
+**Parent Topic:**[Service Catalog security](p_ServiceCatalogSecurity.md)
 

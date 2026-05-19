@@ -18,7 +18,7 @@ Field service agents can locate, request, and transfer parts from other agents o
 **Related topics**  
 
 
-[Advanced Part Sourcing components](../reference/advanced-part-souring-components.md)
+[Advanced Part Sourcing components](../advanced-part-souring-components.md)
 
-[Consumable and non-consumable models](../../planning-and-policy/reference/r_ConsumableAndNonConsumableModels.md)
+[Consumable and non-consumable models](r_ConsumableAndNonConsumableModels.md)
 

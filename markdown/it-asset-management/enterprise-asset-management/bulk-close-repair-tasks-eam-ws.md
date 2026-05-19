@@ -65,7 +65,7 @@ You can bulk close only similar asset repair tasks that are in the Open state. H
 
 All the selected repair tasks are closed with the same task result and Work notes.
 
-**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](../concept/fulfill-eam-repair-orders-in-ws.md)
+**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](fulfill-eam-repair-orders-in-ws.md)
 
 **Related topics**  
 

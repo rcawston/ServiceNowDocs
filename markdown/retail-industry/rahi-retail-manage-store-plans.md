@@ -15,7 +15,7 @@ Manage store plans to plan and schedule generation of cases and tasks to simplif
 
 -   **[Manage store plans to generate cases and tasks](rahi-retail-manage-store-plan-authoring.md)**  
 Manage store plans to plan and schedule generation of cases and tasks to simplify manual efforts.
--   **[Monitor a published store plan across multiple stores](../task/rahi-retail-monitor-published-store-plan.md)**  
+-   **[Monitor a published store plan across multiple stores](rahi-retail-monitor-published-store-plan.md)**  
 Audit or review previously published schedules as needed using the CSM/FSM Configurable Workspace.
 -   **[Clone a store plan](rahi-retail-clone-store-plan.md)**  
 Clone an existing store plan to create a new store plan that includes the items, conditions, and hierarchy.

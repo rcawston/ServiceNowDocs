@@ -42,7 +42,7 @@ Role required: inventory\_user
 
 Keep closing each task until you reach the last stage **Received**. After you close the task for the **Received** stage, the transfer order line is completed and closed. All transfer order lines and the transfer order are marked **Delivered**.
 
-**Parent Topic:**[Transfer order tasks](../concept/work-with-transfer-orders.md)
+**Parent Topic:**[Transfer order tasks](work-with-transfer-orders.md)
 
 **Related topics**  
 
@@ -51,5 +51,5 @@ Keep closing each task until you reach the last stage **Received**. After you cl
 
 [Create transfer order line](create-transfer-order-line.md)
 
-[Summary of transfer order line tasks](../reference/r_SummaryOfTransferOrderStages.md)
+[Summary of transfer order line tasks](r_SummaryOfTransferOrderStages.md)
 

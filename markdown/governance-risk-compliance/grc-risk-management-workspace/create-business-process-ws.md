@@ -221,7 +221,7 @@ Risk rating for the risk of loss of availability for the process. The choices ar
 -   **[Add related assets to a business process](add-related-assets-to-a-bp.md)**  
 Add related business assets to a business process to gain visibility into the IT assets and their performance.
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 
 **Related topics**  
 

@@ -13,5 +13,5 @@ breadcrumb: [Configure, Public Sector Digital Services \(PSDS\)]
 
 Extend the capabilities of Public Sector Digital Services.
 
-[Install the Performance Analytics and Reporting Solution for Public Sector Digital Services](../../../use/dashboards/application-content-packs/psds-install.md)
+[Install the Performance Analytics and Reporting Solution for Public Sector Digital Services](psds-install.md)
 

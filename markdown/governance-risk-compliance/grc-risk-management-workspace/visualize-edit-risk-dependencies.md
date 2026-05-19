@@ -53,5 +53,5 @@ Drag an eligible downstream risk from the list of eligible risks on the right an
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](../concept/grc-workbench.md)
+**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](grc-workbench.md)
 

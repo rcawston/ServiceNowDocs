@@ -43,7 +43,7 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Understanding user criteria for event types in Workforce Optimization for ITSM](../concept/understanding-user-criteria-event-types-wfo-itsm.md)
+**Parent Topic:**[Understanding user criteria for event types in Workforce Optimization for ITSM](understanding-user-criteria-event-types-wfo-itsm.md)
 
 **Related topics**  
 

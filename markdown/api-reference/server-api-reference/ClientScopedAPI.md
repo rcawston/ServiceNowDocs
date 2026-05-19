@@ -17,7 +17,7 @@ The Client API provides methods to add data to the MetricBase database, to execu
 
 You can use the Client class in both scoped and global server scripts. This class is part of the MetricBase application and must run within the `sn_clotho` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Client - Client\(\)
 
@@ -73,7 +73,7 @@ Number
 
 Optional. Default value for accumulation at a given timestamp. Used only during the first call to accumulate if a value is unavailable for a given timestamp. A use case could be accumulating a watts metric for a total\_power. You want to accumulate watts for a router connected to an outlet without a power meter to measure it. If you know the consumption value and it is constant\), you can use the constant value as a default value to accumulate total\_power. For example, you would use 20 if the router is constantly plugged in and consumes 20 Watts.
 
- The timestamp value can be provided using the [DataBuilder](../../DataBuilderScoped/concept/DataBuilderScopedAPI.md#) API.
+ The timestamp value can be provided using the [DataBuilder](DataBuilderScopedAPI.md#) API.
 
  Default: 0
 
@@ -162,9 +162,9 @@ Get all series from a specific dimension.
 
 |Name|Type|Description|
 |----|----|-----------|
-|now\_GR|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|The record from which to obtain the series.|
+|now\_GR|[GlideRecord](c_GlideRecordScopedAPI.md#)|The record from which to obtain the series.|
 |metric|String|The name of the metric.|
-|lastUpdateBefore|[GlideDateTime](../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#)|Optional. Date in the future representing the end of the period to be evaluated.|
+|lastUpdateBefore|[GlideDateTime](c_GlideDateTimeScoped.md#)|Optional. Date in the future representing the end of the period to be evaluated.|
 
 |Type|Description|
 |----|-----------|
@@ -208,7 +208,7 @@ Object
 
 </td><td>
 
-One of the following:-   [DataBuilder](../../DataBuilderScoped/concept/DataBuilderScopedAPI.md#) object containing metric data.
+One of the following:-   [DataBuilder](DataBuilderScopedAPI.md#) object containing metric data.
 -   Array of DataBuilder objects containing metric data.
 
 </td></tr></tbody>

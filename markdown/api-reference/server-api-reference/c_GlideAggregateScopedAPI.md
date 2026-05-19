@@ -21,7 +21,7 @@ When you use GlideAggregate methods on currency or price fields, you are working
 
 **Note:** When using an on-premise system, the database server time zone must be set to GMT/UTC for this class to work properly.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped GlideAggregate - GlideAggregate\(String tableName\)
 

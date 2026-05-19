@@ -206,7 +206,7 @@ For example: If while making a reservation, the original case that you raised fo
 
 For more information about retaining or discarding services while updating a reservation location, see
 
-[Create a reservation](../../wsd-reservation-management/task/create-reservation-request-1.md).
+[Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 </td></tr><tr><td>
 
@@ -242,7 +242,7 @@ Tracks the total time spent on a case or task. The timer starts at zero, tracks 
         A message is displayed describing that this case is a replacement case for a previous case.
 
     -   Select the case ID to view the previous case request details.
-    For more information, see [Create a reservation](../../wsd-reservation-management/task/create-reservation-request-1.md).
+    For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 9.  Costs are visible in the case and task level and are calculated and updated when an employee orders or edits services as part of a reservation.
 
@@ -256,7 +256,7 @@ Tracks the total time spent on a case or task. The timer starts at zero, tracks 
     **Note:** Only updating the reservation in Workplace Reservations for Microsoft Outlook Add-in cancels the services.
 
 
-**Parent Topic:**[Managing Workplace cases](../concept/manage-workplace-cases.md)
+**Parent Topic:**[Managing Workplace cases](manage-workplace-cases.md)
 
 **Related topics**  
 
@@ -267,5 +267,5 @@ Tracks the total time spent on a case or task. The timer starts at zero, tracks 
 
 [Print workplace cases](print-workplace-cases.md)
 
-[Managing print cases](../concept/manage-case-print.md#)
+[Managing print cases](manage-case-print.md#)
 

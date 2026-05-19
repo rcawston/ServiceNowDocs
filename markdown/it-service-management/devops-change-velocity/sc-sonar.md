@@ -85,5 +85,5 @@ Optional. Select MID Server for an on-premises tool that is attached to a 
     A request is created. When the request is approved, the tool is connected.
 
 
-**Parent Topic:**[SonarQube integration with DevOps Change Velocity](../concept/sonarqube-devops-integration-devops.md)
+**Parent Topic:**[SonarQube integration with DevOps Change Velocity](sonarqube-devops-integration-devops.md)
 

@@ -67,5 +67,5 @@ There are several methods for deleting table records. Depending on the number of
 
 The selected table is empty of records. The table still exists, and any references to the table on other tables \(such as business rules or reference fields\) are preserved.
 
-**Parent Topic:**[Deleting custom tables](../concept/c_DeleteATable.md)
+**Parent Topic:**[Deleting custom tables](c_DeleteATable.md)
 

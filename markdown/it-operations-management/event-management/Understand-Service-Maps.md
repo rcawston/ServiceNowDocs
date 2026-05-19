@@ -137,5 +137,5 @@ Represents related web services for the network such as NGINX or JBoss web serve
 
 [Alert impact calculation](c_EMImpactCalculation.md)
 
-[View an alert impact on CIs in a service map](../task/t_EMViewTopology.md)
+[View an alert impact on CIs in a service map](t_EMViewTopology.md)
 

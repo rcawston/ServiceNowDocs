@@ -21,7 +21,7 @@ This task assumes that you already have the basis of an input form screen config
 
 ## About this task
 
-Creating a slider render type is more involved than for the other render types: integer, line, percentage. The configuration involves the creation of multiple input attributes. Required attributes are Min. Max, and StepSize. For a complete list of input attributes you can use with a number slider, see [Number render types and compatible input attributes](../reference/number-compatible-input-attributes.md).
+Creating a slider render type is more involved than for the other render types: integer, line, percentage. The configuration involves the creation of multiple input attributes. Required attributes are Min. Max, and StepSize. For a complete list of input attributes you can use with a number slider, see [Number render types and compatible input attributes](number-compatible-input-attributes.md).
 
 You must add an additional input attribute called Decoration, which gives the slider a colorful and segmented appearance. A decorative slider has between two through eight sections, where you define a start value and end value. The start value must match the end value of the previous entry. In addition, you must select a color for each section. A JSON example script is provided, which contains four defined sections. This script is editable.
 
@@ -55,7 +55,7 @@ There's an option when configuring a decorative slider type to add translated va
 
     For configuration details, see [Configure a slider option for a number input](configure-slider.md).
 
-    **Note:** RenderType, Min, Max, and StepSize are required input attributes for sliders. Other input attributes are optional. For a complete list of input attributes, see the Number inputs section within the topic [Input form screen attributes for inputs](../reference/parameter-screen-var-attr.md).
+    **Note:** RenderType, Min, Max, and StepSize are required input attributes for sliders. Other input attributes are optional. For a complete list of input attributes, see the Number inputs section within the topic [Input form screen attributes for inputs](parameter-screen-var-attr.md).
 
 9.  Select **New** in the Inputs attributes area.
 

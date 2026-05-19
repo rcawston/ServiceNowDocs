@@ -33,6 +33,6 @@ Converting deactivates the data policy. The new UI policy is applied only at the
 
 3.  Edit the fields on the UI policy record as necessary.
 
-    For details about the fields, see [Create a UI Policy](../../form-administration/task/t_CreateAUIPolicy.md#).
+    For details about the fields, see [Create a UI Policy](t_CreateAUIPolicy.md#).
 
 

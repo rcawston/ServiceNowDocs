@@ -57,5 +57,5 @@ Option to use Notify Webex Connector for incident and major incident-related rec
 </table>3.  Select **Save**.
 
 
-**Parent Topic:**[Configure Notify Cisco Webex Connector](../concept/setup-cisco-webex-notify.md)
+**Parent Topic:**[Configure Notify Cisco Webex Connector](setup-cisco-webex-notify.md)
 

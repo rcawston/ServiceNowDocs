@@ -63,40 +63,40 @@ In this example, a subflow looks up incidents where the category is Network. For
 
 The subflow execution details show that the output value of the incidents array of objects.
 
-**Parent Topic:**[Workflow Studio flow logic](../concept/flow-logic.md)
+**Parent Topic:**[Workflow Studio flow logic](flow-logic.md)
 
 **Related topics**  
 
 
-[Assign subflow outputs flow logic](../concept/flow-logic-assign-subflow-outputs.md)
+[Assign subflow outputs flow logic](flow-logic-assign-subflow-outputs.md)
 
-[Call a workflow flow logic](../concept/flow-logic-call-workflow.md)
+[Call a workflow flow logic](flow-logic-call-workflow.md)
 
-[Do the following until flow logic](../concept/flow-logic-do-until.md)
+[Do the following until flow logic](flow-logic-do-until.md)
 
-[Do the following in parallel flow logic](../concept/flow-logic-do-following-in-parallel.md)
+[Do the following in parallel flow logic](flow-logic-do-following-in-parallel.md)
 
-[Dynamic flows flow logic](../concept/flow-logic-dynamic-flow.md)
+[Dynamic flows flow logic](flow-logic-dynamic-flow.md)
 
-[End Flow flow logic](../concept/flow-logic-end-action.md)
+[End Flow flow logic](flow-logic-end-action.md)
 
 [Exit Loop flow logic](exit-loop-flow-logic.md)
 
-[For Each flow logic](../concept/flow-logic-for-each.md)
+[For Each flow logic](flow-logic-for-each.md)
 
 [Get Flow Outputs flow logic](get-flow-outputs-flow-logic.md)
 
 [Go back to flow logic](go-back-to-flow-logic.md)
 
-[If flow logic](../concept/flow-logic-if.md)
+[If flow logic](flow-logic-if.md)
 
-[Make a decision flow logic](../concept/flow-logic-make-decision.md)
+[Make a decision flow logic](flow-logic-make-decision.md)
 
-[Set Flow Variables flow logic](../concept/flow-logic-set-flow-variables.md)
+[Set Flow Variables flow logic](flow-logic-set-flow-variables.md)
 
 [Skip Iteration flow logic](skip-iteration-flow-logic.md)
 
-[Try flow logic](../concept/flow-logic-try.md)
+[Try flow logic](flow-logic-try.md)
 
-[Wait for a duration flow logic](../concept/flow-logic-wait-for-a-duration.md)
+[Wait for a duration flow logic](flow-logic-wait-for-a-duration.md)
 

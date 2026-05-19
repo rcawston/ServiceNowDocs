@@ -198,10 +198,10 @@ Recommended Actions is a component that you can add to a record page in [UI Buil
 
 The Recommended Actions component includes two views: a preview view \(card view\) and a detail view \(full article view\). How these views are displayed is determined by the Recommended Actions configuration. For more information, see the following topics:
 
--   [Create a guidance in Recommended Actions](../task/ra-csm-guidances-create.md)
--   [Configure a guidance preview experience](../task/ra-csm-guidance-configure-preview.md)
--   [Customize a guidance preview experience in UI Builder](../task/customize-ra-preview-experience.md)
--   [Customize a guidance detail view in U Builder](../task/customize-ra-detail-experience.md)
+-   [Create a guidance in Recommended Actions](ra-csm-guidances-create.md)
+-   [Configure a guidance preview experience](ra-csm-guidance-configure-preview.md)
+-   [Customize a guidance preview experience in UI Builder](customize-ra-preview-experience.md)
+-   [Customize a guidance detail view in U Builder](customize-ra-detail-experience.md)
 
 The Recommended Actions component includes **Recommended Action Specific Configuration** property. Users with the administrator role can use this property to configure the following settings:
 

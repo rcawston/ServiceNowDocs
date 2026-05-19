@@ -33,7 +33,7 @@ The following items are installed with ServiceNow Voice for ITSM application \(s
 -   Contact flows
 -   Operation handlers
 
-For more information, see [Components installed with ServiceNow Voice for ITSM](../reference/instld-with-cloud-call-center-itsm.md).
+For more information, see [Components installed with ServiceNow Voice for ITSM](instld-with-cloud-call-center-itsm.md).
 
 ## Procedure
 
@@ -56,5 +56,5 @@ For more information, see [Components installed with ServiceNow Voice for ITSM](
 5.  Select **Install**.
 
 
-**Parent Topic:**[Integrating ServiceNow Voice with ITSM](../concept/integrate-ccc-itsm.md)
+**Parent Topic:**[Integrating ServiceNow Voice with ITSM](integrate-ccc-itsm.md)
 

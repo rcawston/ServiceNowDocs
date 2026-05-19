@@ -44,7 +44,7 @@ A user with the admin role can edit the contract.expiration condition check that
     A single name can be specified.
 
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](c_Contracts.md)
 
 **Related topics**  
 
@@ -55,13 +55,13 @@ A user with the admin role can edit the contract.expiration condition check that
 
 [Send the contract for approval](t_SendTheContractForApproval.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](c_TermsAndConditions.md)
 
 [Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
 
 [Monitor a contract](t_MonitoringContracts.md)
 
-[Condition check definitions](../concept/c_UseConditionCheckDefinitions.md)
+[Condition check definitions](c_UseConditionCheckDefinitions.md)
 
 [Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 

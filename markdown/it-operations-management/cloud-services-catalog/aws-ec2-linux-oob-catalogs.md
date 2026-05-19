@@ -65,5 +65,5 @@ The key-value is updated only in the cmdb\_key\_value table, not in public cloud
 -   **[Amazon Web Services EC2 Linux Out Of Box permissions](aws-ec2-linux-oob-catalog-items-permissions.md)**  
 Amazon Web Services EC2 Linux OOB catalog items permissions
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

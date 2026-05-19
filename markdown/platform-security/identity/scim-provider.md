@@ -23,9 +23,9 @@ The Service Provider provisions users and groups using the SCIM API.
 
 </td><td>
 
-[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/activate-scim-plugin.md)
+[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](activate-scim-plugin.md)
 
- [Activate SCIM.](../task/activate-scim-plugin.md)
+ [Activate SCIM.](activate-scim-plugin.md)
 
 </td></tr><tr><td>
 
@@ -35,9 +35,9 @@ The Service Provider provisions users and groups using the SCIM API.
 
 </td><td>
 
-[Source definition![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](../task/create-source-definition.md)
+[Source definition![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](create-source-definition.md)
 
- [Learn more about source definition for SCIM.](../task/create-source-definition.md)
+ [Learn more about source definition for SCIM.](create-source-definition.md)
 
 </td></tr></tbody>
 </table>

@@ -36,5 +36,5 @@ Also, when using the node menu option **Load More**, virtual grouping is not app
 **Related topics**  
 
 
-[Properties for Dependency Views](../reference/properties-dependency-views.md)
+[Properties for Dependency Views](properties-dependency-views.md)
 

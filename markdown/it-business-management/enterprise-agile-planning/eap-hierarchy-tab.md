@@ -68,7 +68,7 @@ If you only need to track work items at a single level \(for example, just stori
 
 -   **Personalized column display**
 
-    Customize which columns appear in the hierarchy grid and adjust column widths to match your workflow. Your preferences persist across sessions, so you see your configured view each time you return. For more information, see [Personalize column layout of Hierarchy in EAP](../task/personalize-column-layout-of-hierarchy-in-eap.md).
+    Customize which columns appear in the hierarchy grid and adjust column widths to match your workflow. Your preferences persist across sessions, so you see your configured view each time you return. For more information, see [Personalize column layout of Hierarchy in EAP](personalize-column-layout-of-hierarchy-in-eap.md).
 
 -   **Direct record access**
 
@@ -96,11 +96,11 @@ If you only need to track work items at a single level \(for example, just stori
 
     For optimal performance, the hierarchy initially loads only the top 100 work items at each level, ordered by global rank. If your portfolio contains more than 100 top-level work items, use filters to narrow your view to the relevant subset.
 
-    If you want to change this default number, work with your admin to create a **sn\_apw\_advanced.eap\_hierarchy\_items\_limit** system property. For more information, see [Modify display limit in Hierarchy tab of EAP](../task/hierarchy-display-limit-eap.md).
+    If you want to change this default number, work with your admin to create a **sn\_apw\_advanced.eap\_hierarchy\_items\_limit** system property. For more information, see [Modify display limit in Hierarchy tab of EAP](hierarchy-display-limit-eap.md).
 
 -   **Enabling the Hierarchy view**
 
-    The Hierarchy tab requires your admin to enable it through the **sn\_apw\_advanced.enable\_hierarchy\_view** system property. See [Enable Hierarchy tab in EAP](../task/hierarchy-enable-eap.md).
+    The Hierarchy tab requires your admin to enable it through the **sn\_apw\_advanced.enable\_hierarchy\_view** system property. See [Enable Hierarchy tab in EAP](hierarchy-enable-eap.md).
 
 
 ## Getting started

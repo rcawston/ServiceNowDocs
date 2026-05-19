@@ -44,5 +44,5 @@ Search suggestions improve over time as more people use the app. Search Suggesti
 
 Users see suggestions when they start typing in a search field in the Now Mobile app.
 
-**Parent Topic:**[Configuring Now Mobile](../concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](setup-mobile-employee.md)
 

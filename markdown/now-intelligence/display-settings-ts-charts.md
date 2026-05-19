@@ -265,5 +265,5 @@ Show continuous line
 When selected and there is no data for a specific time, there is no gap in the chart and it shows continuous line.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create time series data visualizations](../task/create-dv-time-series-ac.md)
+</table>**Parent Topic:**[Create time series data visualizations](create-dv-time-series-ac.md)
 

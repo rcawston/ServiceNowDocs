@@ -55,7 +55,7 @@ Task employees to get additional information needed to fulfill the employee’s 
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](../reference/ur-reference-topic.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](ur-reference-topic.md)
 
 </td></tr></tbody>
 </table>-   **[Exploring Universal Request](explore-universal-request.md)**  
@@ -68,16 +68,16 @@ Use Universal Request to enable cross-departmental reporting from the time of an
 Universal Request \(UR\) reporting solutions contain preconfigured dashboards with actionable data visualizations to improve your employee service delivery processes.
 -   **[Virtual Agent for Universal Request](ur-va-landing.md)**  
 The Virtual Agent capabilities of Universal Request provide automated chat options to employees. It reduces the workload of agents by assisting the requester with certain basic tasks. It can display suggestions for self-help topics and knowledge articles based on keywords. It can also help employees to update their universal requests.
--   **[Universal Request reference](../reference/ur-reference-topic.md)**  
+-   **[Universal Request reference](ur-reference-topic.md)**  
 Reference topics provide additional information about the universal requests, including lists and forms.
 -   **[Integrating Universal Request with other applications](ur-integration-with-uni-task.md)**  
 Extend the capabilities of Universal Request and connect with other departments to assist with ticket resolution. By integrating with other applications, you provide a consistent ticketing experience and facilitate inter-department request transfers and multi-department use cases.
--   **[Quick start tests for Universal Request](../../../administer/atf-quick-start-tests/reference/quick-start-test-ur.md)**  
+-   **[Quick start tests for Universal Request](quick-start-test-ur.md)**  
 Validate that Universal Request still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 -   **[Universal Request in Agent Workspaces](universal-request-workspace.md)**  
 Use Universal Request in Agent Workspaces to create, view, and work on the universal request.
 -   **[Using agentic flows in Universal Request AI agent collection](ur-ai-agent-collection.md)**  
 Use the Universal Request AI agent collection to complete tasks autonomously.
 
-**Parent Topic:**[Employee Service Management](../../employee-service-management/concept/employee-service-management-overview.md)
+**Parent Topic:**[Employee Service Management](../employee-service-management-overview.md)
 

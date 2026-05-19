@@ -33,12 +33,12 @@ Set up interview phases based on the different rounds you plan to include in the
 
 4.  On the Create New Interview phase form, fill in the fields.
 
-    For a description of the field values, see [Create new interview phase form](../reference/add-interview-phase-form.md).
+    For a description of the field values, see [Create new interview phase form](add-interview-phase-form.md).
 
 5.  Select **Save**.
 
     The interview phase is added to the **Interview phases** tab.
 
 
-**Parent Topic:**[Using Interview Management](../concept/using-interview-mgmnt.md)
+**Parent Topic:**[Using Interview Management](using-interview-mgmnt.md)
 

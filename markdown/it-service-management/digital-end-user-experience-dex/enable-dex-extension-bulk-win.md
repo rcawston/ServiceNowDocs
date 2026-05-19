@@ -58,5 +58,5 @@ The following procedure describes how to deploy the DEX browser extension on mul
 11. Review the profile and select **Create**.
 
 
-**Parent Topic:**[Deploying DEX to employees](../concept/deploying-dex-to-employees.md)
+**Parent Topic:**[Deploying DEX to employees](deploying-dex-to-employees.md)
 

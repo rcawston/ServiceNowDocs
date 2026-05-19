@@ -30,7 +30,7 @@ Example:
 pa.getScore($[[Number of open incidents]], score_end);
 ```
 
-**Parent Topic:**[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+**Parent Topic:**[PAFormulaUtils API](PAFormulaUtils.md)
 
 **Related topics**  
 
@@ -55,5 +55,5 @@ pa.getScore($[[Number of open incidents]], score_end);
 
 [getPersonalTarget\(String indicator, Object onDate\)](PAFU-getPersonalTarget_S_O.md)
 
-[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+[PAFormulaUtils API](PAFormulaUtils.md)
 

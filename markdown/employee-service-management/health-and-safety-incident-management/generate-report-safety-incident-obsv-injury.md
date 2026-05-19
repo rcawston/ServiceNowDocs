@@ -21,7 +21,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
 ## About this task
 
-The report generation uses a report field mapping for your reporting PDF template. A report field mapping includes mappings of fields from the safety record \(such as incident or observation\) to the fields in the reporting PDF template. When generating a report, the exported PDF fills in information from the selected safety record through mapped fields. This field mapping, therefore, speeds up the report filling for incidents, observations, or injury and illness records. For more information on report field mapping, see [Create a safety report field mapping for generating reports](create-safety-report-field-mapping.md).
+The report generation uses a report field mapping for your reporting PDF template. A report field mapping includes mappings of fields from the safety record \(such as incident or observation\) to the fields in the reporting PDF template. When generating a report, the exported PDF fills in information from the selected safety record through mapped fields. This field mapping, therefore, speeds up the report filling for incidents, observations, or injury and illness records. For more information on report field mapping, see [Create a safety report field mapping for generating reports](../health-and-safety-core/create-safety-report-field-mapping.md).
 
 ## Procedure
 
@@ -55,8 +55,8 @@ The report generation uses a report field mapping for your reporting PDF templat
 
     -   **Attachments** section of the safety record.
     -   Downloaded to the browser.
-    For more information, see [Health and Safety report field mapping form](../reference/hs-report-field-mapping-form.md).
+    For more information, see [Health and Safety report field mapping form](../health-and-safety-core/hs-report-field-mapping-form.md).
 
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](managing-hs-incidents-obs.md)
 

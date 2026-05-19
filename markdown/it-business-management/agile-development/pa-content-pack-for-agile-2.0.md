@@ -29,7 +29,7 @@ This base system Performance Analytics Solution is available from the ServiceNow
 
 ## Business stakeholder role support
 
-The business stakeholder role \(sn\_agile\_read\) has read-only access to all Agile 2.0 dashboards. For more information, see [Business stakeholder role for Agile Development 2.0](../../../product/agile-development/reference/business-stakeholder-role-agile-dev-2-0.md).
+The business stakeholder role \(sn\_agile\_read\) has read-only access to all Agile 2.0 dashboards. For more information, see [Business stakeholder role for Agile Development 2.0](business-stakeholder-role-agile-dev-2-0.md).
 
 ## Available dashboards and charts
 
@@ -39,11 +39,11 @@ The Platform Analytics Content Pack for Agile 2.0 includes the following preconf
 -   Agile 2.0 Release dashboard: Tracks release-level progress using burnup, burndown, and cycle time charts.
 -   Agile 2.0 Team dashboard: Provides velocity history and velocity by type reports.
 
-For more information about using these dashboards, see [Agile Development process flow](../../../product/agile-development/concept/agile-development-process-flow.md).
+For more information about using these dashboards, see [Agile Development process flow](agile-development-process-flow.md).
 
 -   **[Enable daily data collection for Agile 2.0 dashboards](enable-daily-data-collection.md)**  
 Enable scheduled data collection to begin collecting scores on new data automatically. Data collection jobs automatically collect scores for automated indicators and breakdowns.
--   **[Upgrading the layout of Agile 2.0 dashboards](../reference/using-solution-library-for-agile-2.0-dashboards.md)**  
+-   **[Upgrading the layout of Agile 2.0 dashboards](using-solution-library-for-agile-2.0-dashboards.md)**  
 Upgrade to the latest layout of Agile 2.0 dashboards using Solution Library.
 -   **[Agile 2.0 Epic Dashboard](agile-development-epic-dashboard.md)**  
 Visually analyze the progress of the stories of an epic over a given period using the Epic Dashboard.
@@ -57,10 +57,10 @@ Track the progress of your stories and analyze scope changes in the current rele
 Prior Release Dashboard provides data visualization on scope, actual burnup and burndown, and forecast trends of previous releases. Analyze the data and plan the work for upcoming releases.
 -   **[Agile 2.0 Team Dashboard](agile-development-team-dashboard.md)**  
 Team Dashboard provides a visualization of the team's progress on stories over a given period. It provides team predictability charts and helps you plan the team's capacity for the upcoming sprints. In addition, it provides details of all the team members.
--   **[Customizing Agile 2.0 dashboard reports](../concept/customizing-dashboard-reports.md)**  
+-   **[Customizing Agile 2.0 dashboard reports](customizing-dashboard-reports.md)**  
 Customize the Burnup, Burndown, and Cumulative Flow Diagram reports of your Agile 2.0 dashboards according to the custom states of your scrum stories.
 
-**Parent Topic:**[Agile Development](../../../product/agile-development/concept/agile-development.md)
+**Parent Topic:**[Agile Development](agile-development.md)
 
 **Related topics**  
 

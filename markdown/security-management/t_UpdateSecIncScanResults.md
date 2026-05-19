@@ -23,10 +23,10 @@ This workflow is triggered by a business rule on the lookup table which monitors
 
 Workflow process activities include:
 
--   [Roll up lookup info to security incident activity](../reference/r_RollUpScanInfoSI.md)
--   [Update Task Worknotes activity](../../security-operations-orchestration/reference/update-task-worknotes-activity.md)
+-   [Roll up lookup info to security incident activity](r_RollUpScanInfoSI.md)
+-   [Update Task Worknotes activity](update-task-worknotes-activity.md)
 
 ![Update security incident with lookup results workflow diagram](../image/UpdateSILookupResultsWorkflow.png)
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

@@ -17,7 +17,7 @@ Query Generation is an AI-powered service that translates user questions into an
 
 Query Generation relies on a semantic data layer to generate queries. The semantic data layer is a flat representation of tables and table columns that the Query Generator uses to find the actual facts tables and columns related to a user utterance. Specifically, facts tables are represented by Entity records and their columns by Dimension records.
 
-Not all facts tables are included in Query Generation, as this would overload an instance. To see which facts tables are included, open the Semantic Tables Configurations list \[sn\_query\_gen\_table\_config\_list\], and note which tables are present and have Enable Semantic Generation = true. You can add more tables to the list, but be careful of possible performance impacts. For more information, see [Add a table to the semantic data layer](../task/add-table-semantic-layer.md#).
+Not all facts tables are included in Query Generation, as this would overload an instance. To see which facts tables are included, open the Semantic Tables Configurations list \[sn\_query\_gen\_table\_config\_list\], and note which tables are present and have Enable Semantic Generation = true. You can add more tables to the list, but be careful of possible performance impacts. For more information, see [Add a table to the semantic data layer](add-table-semantic-layer.md#).
 
 ## How Query Generation works
 

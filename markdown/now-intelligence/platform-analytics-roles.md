@@ -121,7 +121,7 @@ Role for Usage Insights administrative privileges
 
 </td><td>
 
-All other Usage Insights admin and viewer roles. For more information, see [Roles installed with Usage Insights](../../../administer/user-exp-analytics/reference/components-installed-user-exp-analytics.md).
+All other Usage Insights admin and viewer roles. For more information, see [Roles installed with Usage Insights](usage-insights/components-installed-user-exp-analytics.md).
 
 </td><td>
 
@@ -150,7 +150,7 @@ analytics\_filter\_admin
 
 </td><td>
 
-Role for editing or deleting any Platform Analytics filter. Can add filters to the filter library. For more information, see [Filters in Platform Analytics](../concept/interactive-filters-workspace.md).
+Role for editing or deleting any Platform Analytics filter. Can add filters to the filter library. For more information, see [Filters in Platform Analytics](interactive-filters-workspace.md).
 
 </td><td>
 
@@ -170,7 +170,7 @@ dashboard\_admin
 
 </td><td>
 
-Can create, edit, duplicate, share, and delete any dashboard. These rights extend to both Platform Analytics and responsive dashboards. For more information, see [Dashboard permissions](../../dashboards/concept/c_DashboardRoles.md).Can schedule the export of all dashboards on an instance. Can also delete scheduled exports.
+Can create, edit, duplicate, share, and delete any dashboard. These rights extend to both Platform Analytics and responsive dashboards. For more information, see [Dashboard permissions](performance-analytics/c_DashboardRoles.md).Can schedule the export of all dashboards on an instance. Can also delete scheduled exports.
 
 </td><td>
 
@@ -207,7 +207,7 @@ pa\_kpi\_signal\_admin
 
 </td><td>
 
-Can activate KPI Signals for an indicator. For more information, see [Activate KPI Signals monitoring for an indicator \(KPI\)](../task/activate-signals-monitor.md).
+Can activate KPI Signals for an indicator. For more information, see [Activate KPI Signals monitoring for an indicator \(KPI\)](activate-signals-monitor.md).
 
 </td><td>
 
@@ -229,7 +229,7 @@ Role for Performance Analytics administrative privileges. Equivalent to admin ro
 
 -   viz\_admin
 -   analytics\_filter\_admin
--   All other Performance Analytics roles. For more information, see [Performance Analytics roles](../../performance-analytics/reference/r_PARoles.md).
+-   All other Performance Analytics roles. For more information, see [Performance Analytics roles](performance-analytics/r_PARoles.md).
 
 </td><td>
 
@@ -274,7 +274,7 @@ sn\_process\_optimization\_analyst
 
 </td><td>
 
-Can configure a Process Mining map on a dashboard. For more information, see [Configure a Process Mining map on a dashboard](../task/configure-po-map.md).
+Can configure a Process Mining map on a dashboard. For more information, see [Configure a Process Mining map on a dashboard](configure-po-map.md).
 
 </td><td>
 
@@ -444,7 +444,7 @@ Any role, if you created the dashboard.dashboard\_admin or higher for any dashbo
 
 </td></tr><tr><td>
 
-[Configure dashboard details](../../dashboards/task/config-db-in-ac.md)
+[Configure dashboard details](config-db-in-ac.md)
 
 </td><td>
 
@@ -452,7 +452,7 @@ Any role, if you created the dashboard or have had it shared with you with editi
 
 </td></tr><tr><td>
 
-[Configure dashboard settings](../../dashboards/task/configure-ac-db-settings.md) except scheduled refreshes
+[Configure dashboard settings](configure-ac-db-settings.md) except scheduled refreshes
 
 </td><td>
 
@@ -460,7 +460,7 @@ Any role, if you created the dashboard or have had it shared with you with editi
 
 </td></tr><tr><td>
 
-[Schedule dashboard refreshes](../../dashboards/task/configure-ac-db-settings.md)
+[Schedule dashboard refreshes](configure-ac-db-settings.md)
 
 </td><td>
 
@@ -468,7 +468,7 @@ dashboard\_admin or higher
 
 </td></tr><tr><td>
 
-[Configure dashboard tab cache timeout](../../dashboards/task/configure-ac-db-timeout.md)
+[Configure dashboard tab cache timeout](configure-ac-db-timeout.md)
 
 </td><td>
 
@@ -476,7 +476,7 @@ admin
 
 </td></tr><tr><td>
 
-[Create dashboard categories](../../dashboards/task/db-categories.md#)
+[Create dashboard categories](db-categories.md#)
 
 </td><td>
 
@@ -484,7 +484,7 @@ analytics\_categories\_admin or higher
 
 </td></tr><tr><td>
 
-[Assign categories to a dashboard](../../dashboards/task/db-categories.md#)
+[Assign categories to a dashboard](db-categories.md#)
 
 </td><td>
 
@@ -597,7 +597,7 @@ Any role, to delete a data visualization that you created. viz\_admin or higher 
 
 </td></tr><tr><td>
 
-[Control data source availability by role](../task/dv-use-data-source-acl.md)
+[Control data source availability by role](dv-use-data-source-acl.md)
 
 </td><td>
 
@@ -605,7 +605,7 @@ admin
 
 </td></tr><tr><td>
 
-[Configure visualization interactions](../../reporting/task/configure-go-data.md)
+[Configure visualization interactions](configure-go-data.md)
 
 </td><td>
 
@@ -613,7 +613,7 @@ Any role if you have the right to edit the data visualization. The viewer needs 
 
 </td></tr><tr><td>
 
-[Use service catalog variables in data visualizations](../../reporting/concept/dv-rep-sc-variables.md#)
+[Use service catalog variables in data visualizations](dv-rep-sc-variables.md#)
 
 </td><td>
 
@@ -621,7 +621,7 @@ viz\_creator or higher
 
 </td></tr><tr><td>
 
-[Create coloring rules for data visualizations](../../performance-analytics/concept/colors-dv.md#)
+[Create coloring rules for data visualizations](colors-dv.md#)
 
 </td><td>
 
@@ -671,22 +671,22 @@ analytics\_filter\_admin or higher
 </td></tr></tbody>
 </table>|Use case|Role|
 |--------|----|
-|[Configure a Process Mining map on a dashboard](../task/configure-po-map.md)|sn\_process\_optimization\_analyst|
-|[Activate KPI Signals monitoring for an indicator \(KPI\)](../task/activate-signals-monitor.md)|pa\_kpi\_signal\_admin|
-|Create or edit an exploration in [AI Data Explorer](../task/launch-now-assist-explorer.md)|now\_assist\_explorer\_user|
+|[Configure a Process Mining map on a dashboard](configure-po-map.md)|sn\_process\_optimization\_analyst|
+|[Activate KPI Signals monitoring for an indicator \(KPI\)](activate-signals-monitor.md)|pa\_kpi\_signal\_admin|
+|Create or edit an exploration in [AI Data Explorer](launch-now-assist-explorer.md)|now\_assist\_explorer\_user|
 
-**Parent Topic:**[Platform Analytics experience reference](../concept/platform-analytics-exp-reference.md)
+**Parent Topic:**[Platform Analytics experience reference](platform-analytics-exp-reference.md)
 
 **Related topics**  
 
 
-[Performance Analytics roles](../../performance-analytics/reference/r_PARoles.md)
+[Performance Analytics roles](performance-analytics/r_PARoles.md)
 
-[Roles installed with Usage Insights](../../../administer/user-exp-analytics/reference/components-installed-user-exp-analytics.md)
+[Roles installed with Usage Insights](usage-insights/components-installed-user-exp-analytics.md)
 
-[Reporting roles](../../reporting/reference/reporting-roles.md#)
+[Reporting roles](reporting/reporting-roles.md#)
 
-[Common dashboard tasks in the in-line editor](../../dashboards/concept/common-dashboard-tasks.md)
+[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
-[Common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+[Common data visualization tasks](common-dv-tasks.md)
 

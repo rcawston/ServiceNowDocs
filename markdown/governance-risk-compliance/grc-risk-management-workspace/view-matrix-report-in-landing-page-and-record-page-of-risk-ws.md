@@ -44,5 +44,5 @@ Risk Workspace and Matrix report plugin should be installed to use the feature.
     ![Matrix report on the record page.](../image/entity-related-matrix-report-record-risk-ws.png)
 
 
-**Parent Topic:**[Matrix report in Risk Workspace](../concept/matrix-report-in-risk-workspace.md)
+**Parent Topic:**[Matrix report in Risk Workspace](matrix-report-in-risk-workspace.md)
 

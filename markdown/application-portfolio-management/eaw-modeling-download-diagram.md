@@ -30,5 +30,5 @@ Role required: sn\_apm.apm\_user
     The diagram gets downloaded as an image.![Download diagram as an image](../../image/eaw-image/modeling/modeling-download-diagram.png)
 
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 

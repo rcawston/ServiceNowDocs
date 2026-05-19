@@ -19,7 +19,7 @@ Workflow activity properties reference
 
 Each activity performs a different task, such as running a script, sending notifications, or requesting approvals. Activities can succeed or fail, which can result in actions performed by other activities.
 
-For information about configuring different types of activities, click an activity name in the list below or see [Workflow activities reference](../../workflow-activities/concept/wf-activity-overview.md).
+For information about configuring different types of activities, click an activity name in the list below or see [Workflow activities reference](wf-activity-overview.md).
 
 ## Core activities provided in the base system
 
@@ -27,7 +27,7 @@ For information about configuring different types of activities, click an activi
 -   [Condition Workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_ConditionActivites.md)
 -   [Notification workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_NotificationActivity.md)
 -   [Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
--   [Workflows used as subflows](../../workflow-activities/reference/workflows-as-subflows.md)
+-   [Workflows used as subflows](../legacy-workflow/workflows-as-subflows.md)
 -   [Task workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_TaskActivities.md)
 -   [Timer workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_TimerActivities.md)
 -   [Utility workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_UtilityActivities.md)

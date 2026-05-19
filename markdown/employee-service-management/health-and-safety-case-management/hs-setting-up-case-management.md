@@ -17,10 +17,10 @@ Set up your implementation for Health and Safety Case Management by installing t
 
 ## Configuration overview
 
-1.  [Install Health and Safety Case Management](../task/install-hs-case-management.md)  
+1.  [Install Health and Safety Case Management](install-hs-case-management.md)  
 You can install the Health and Safety Case Management application \(sn\_hs\_cm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
-2.  [Configure HR service for creating an HR case for an injury](../task/hs-configure-hr-service-property-case-injury.md)  
+2.  [Configure HR service for creating an HR case for an injury](hs-configure-hr-service-property-case-injury.md)  
 Configure the HR service that you want to use for creating HR cases for injuries and illnesses.
 
-**Parent Topic:**[Health and Safety](../../ohs-incident-management/concept/health-safety-overview.md)
+**Parent Topic:**[Health and Safety](../health-and-safety/health-safety-overview.md)
 

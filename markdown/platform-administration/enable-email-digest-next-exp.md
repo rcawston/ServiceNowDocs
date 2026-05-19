@@ -32,5 +32,5 @@ Notifications do not include the option to be received as an email digest by def
 4.  Enable **Email Digest** and select the digest interval in which you want to receive the notification communication.
 
 
-**Parent Topic:**[Email digests](../concept/email-digests.md)
+**Parent Topic:**[Email digests](email-digests.md)
 

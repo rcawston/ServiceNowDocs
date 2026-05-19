@@ -27,7 +27,7 @@ The Move tab is only visible when the Facilities Move Management plugin \(com.sn
 
 2.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](../reference/r_WorkbenchConfiguration.md).
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](r_WorkbenchConfiguration.md).
 
     ![Campus and floor selection](../image/CampusFloorSelection.png)
 
@@ -106,5 +106,5 @@ Click the pin \(![pin icon](../image/PinIcon.png)\) icon.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Facilities Workbench](../concept/c_FacilitiesWorkbench.md)
+**Parent Topic:**[Facilities Workbench](c_FacilitiesWorkbench.md)
 

@@ -27,7 +27,7 @@ Role required: None
 
 3.  On the form, fill in the fields:
 
-    See [Healthcare Employee Onboarding form](../reference/hr-emp-onboarding.md).
+    See [Healthcare Employee Onboarding form](hr-emp-onboarding.md).
 
 4.  In **Additional needs**, you can select options such as Needs work visa, Needs to transfer work visa, or Needs relocation assistance.
 

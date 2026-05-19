@@ -22,7 +22,7 @@ Role required: sn\_erp\_integration.erp\_user
 
 ## About this task
 
-You can query the system of record to create an ERP model for your ERP processes. For more information, see [Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md).
+You can query the system of record to create an ERP model for your ERP processes. For more information, see [Building and managing models to work with ERP data](work-with-erp-data-models.md).
 
 **Note:** Zero Copy Connector for ERP doesn't replicate data into the ServiceNow AI Platform. It mirrors data that lives in the ERP system of record, and remains protected there.
 
@@ -43,5 +43,5 @@ You can query the system of record to create an ERP model for your ERP processes
     The SAP data is accessible for you to work with using standard ServiceNow AI Platform searching, sorting, and filtering, such as the condition builder. For more information, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
 
 
-**Parent Topic:**[Using ERP remote tables in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-remote-tables.md)
+**Parent Topic:**[Using ERP remote tables in Zero Copy Connector for ERP](erp-canvas-work-with-remote-tables.md)
 

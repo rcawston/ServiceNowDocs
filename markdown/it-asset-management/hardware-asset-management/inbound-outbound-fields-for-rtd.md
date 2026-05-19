@@ -61,5 +61,5 @@ The **Sync when** value is **Insert and Update**, which updates the target field
 |Return tracking number|return\_tracking\_number|40|Tracking number \(return\_tracking\_number\)|
 |Return carrier|return\_carrier|80|\(return\_carrier\)|
 
-**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 

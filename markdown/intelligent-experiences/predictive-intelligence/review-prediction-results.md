@@ -50,5 +50,5 @@ On the Prediction Results dashboard, statistics are provided in two timeframes: 
 
 Refine the solution definition filter by including or excluding classes as needed. After updating, retrain the solution.
 
-**Parent Topic:**[Testing and monitoring predictions](../concept/testing-reviewing-ml-solutions.md)
+**Parent Topic:**[Testing and monitoring predictions](testing-reviewing-ml-solutions.md)
 

@@ -213,5 +213,5 @@ Microsoft.ResourceGraph
 resources/\*
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+</table>**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

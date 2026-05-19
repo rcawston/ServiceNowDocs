@@ -57,7 +57,7 @@ Sets the maximum number of AI predicted services to display in the case type sel
 </table>**Related topics**  
 
 
-[Configure service recommendations for interactions](../task/configure-service-recommendations-int.md)
+[Configure service recommendations for interactions](now-assist-for-csm/configure-service-recommendations-int.md)
 
-[Create a case based on service definition recommendations](../task/use-service-definition-rec.md)
+[Create a case based on service definition recommendations](now-assist-for-csm/use-service-definition-rec.md)
 

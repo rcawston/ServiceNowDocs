@@ -24,7 +24,7 @@ Role required: admin, agent\_admin
 ![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>The MID Server JAR File \[ecc\_agent\_jar\] table is domain separated. You can create versions of these policies that only a MID Server from the same domain can use. For instructions, see [Set up domain separation for MID servers](../concept/c_MIDServerDomainSeparation.md#).
+</table>The MID Server JAR File \[ecc\_agent\_jar\] table is domain separated. You can create versions of these policies that only a MID Server from the same domain can use. For instructions, see [Set up domain separation for MID servers](c_MIDServerDomainSeparation.md#).
 
 **Warning:** Synchronizing a JAR file with this procedure causes all MID Servers connected to the instance to restart automatically.
 
@@ -49,5 +49,5 @@ Role required: admin, agent\_admin
     The platform attaches the JAR file to the record and restarts the MID Servers to synchronize the file. It is not necessary to update the record to attach the file.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](c_MIDServerConfiguration.md)
 

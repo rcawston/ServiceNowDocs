@@ -44,13 +44,13 @@ Two service catalog workflows are provided in the base system. Use the Graphical
 An execution plan describes how a catalog item is procured, configured, and installed.
 -   **[Service Catalog checkout models](c_EnableATwoStepCheckout.md#)**  
 The service catalog defaults to one-step checkout model, but also allows two-step checkout. Administrators and users with the catalog\_admin role can enable and configure the two-step checkout model and control how the delivery address is populated.
--   **[Create a catalog request from another flow](../task/create-request-from-other-flow.md)**  
+-   **[Create a catalog request from another flow](create-request-from-other-flow.md)**  
 You can create a catalog request to join the Service Catalog flow from a different flow. For example, from an incident flow, you can create a request, and associate the request with the incident. It helps you in tracking the requests associated with an incident and vice versa.
--   **[Configure a parent mapping for a request](../task/configure-mapping-for-request.md)**  
+-   **[Configure a parent mapping for a request](configure-mapping-for-request.md)**  
 You can configure a mapping that specifies the association between the parent record and the request record.
--   **[State closure in the request fulfillment execution plan](../reference/state-closure-request.md)**  
+-   **[State closure in the request fulfillment execution plan](state-closure-request.md)**  
 The state closure in the request fulfillment process of a catalog item depends on the status of the associated catalog tasks, request items, and the request. It is applicable only for execution flows.
--   **[View request notifications](../task/view-request-notification.md)**  
+-   **[View request notifications](view-request-notification.md)**  
 View request notifications that are sent during specific events in a catalog request life cycle. These notifications are sent to various recipients including the Employee Center and ITIL users.
 
 **Parent Topic:**[Configuring Service Catalog](configuring-service-catalog.md)

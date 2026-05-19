@@ -101,7 +101,7 @@ Progress
 
 </td><td>
 
-Percentage completion for the goal. If the goal has subgoals or/and targets, the progress value is calculated automatically.For more information on how the progress value is calculated, see [Progress value calculation](../../goal-framework/concept/progress-value-calculation.md).
+Percentage completion for the goal. If the goal has subgoals or/and targets, the progress value is calculated automatically.For more information on how the progress value is calculated, see [Progress value calculation](../goal-framework/progress-value-calculation.md).
 
 </td></tr><tr><td>
 

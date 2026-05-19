@@ -34,7 +34,7 @@ The Service Catalog application uses these roles to manage different aspects of 
     Tickets represent work done by Fulfillment Groups as part of an Execution Plan.
 
 
-**Parent Topic:**[Service Catalog Reference](../concept/service-catalog-reference.md)
+**Parent Topic:**[Service Catalog Reference](service-catalog-reference.md)
 
 ## Administrator \[admin\]
 

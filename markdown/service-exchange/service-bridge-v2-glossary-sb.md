@@ -35,7 +35,7 @@ An individual user record that is permitted to access Service Exchange instances
 **Related topics**  
 
 
-[Add an authorized user](../task/service-bridge-v2-create-auth-user.md)
+[Add an authorized user](service-bridge-v2-create-auth-user.md)
 
 ## B
 
@@ -56,7 +56,7 @@ A person or an organization that receives services from a provider through Servi
 **Related topics**  
 
 
-[Service Exchange for Consumers](../concept/service-bridge-consumers-landing-page.md)
+[Service Exchange for Consumers](service-bridge-consumers-landing-page.md)
 
 ### consumer application
 
@@ -74,7 +74,7 @@ A filter criteria that determine which consumers are entitled to specific Servic
 **Related topics**  
 
 
-[Create a consumer criteria](../concept/service-bridge-v2-create-consumer-criteria.md)
+[Create a consumer criteria](service-bridge-v2-create-consumer-criteria.md)
 
 ### configuration revision
 
@@ -83,7 +83,7 @@ A versioned update to various [entitlements](service-bridge-v2-glossary-sb.md#),
 **Related topics**  
 
 
-[Configuring revisions](../concept/service-bridge-v2-config-revision.md)
+[Configuring revisions](service-bridge-v2-config-revision.md)
 
 ## D
 
@@ -109,7 +109,7 @@ A configuration mechanism in Service Exchange that determines which remote conte
 **Related topics**  
 
 
-[Creating entitlements in Service Exchange for Providers](../concept/service-bridge-v2-entitlements.md)
+[Creating entitlements in Service Exchange for Providers](service-bridge-v2-entitlements.md)
 
 ## F
 
@@ -122,7 +122,7 @@ A predefined automation step in Workflow Studio that helps manage repetitive tas
 **Related topics**  
 
 
-[Flow action](../concept/service-bridge-v2-flow-action.md)
+[Flow action](service-bridge-v2-flow-action.md)
 
 ### foundation data sync
 
@@ -131,7 +131,7 @@ A mechanism for scheduled, structured synchronization of foundational data \(suc
 **Related topics**  
 
 
-[Foundation data sync](../concept/service-bridge-v2-explore-foundation-data-sync.md)
+[Foundation data sync](service-bridge-v2-explore-foundation-data-sync.md)
 
 ## H
 
@@ -144,7 +144,7 @@ A centralized UI that displays health of connected instances, the results of sys
 **Related topics**  
 
 
-[Service Exchange Center](../concept/se-se-center.md)
+[Service Exchange Center](se-se-center.md)
 
 ## I
 
@@ -157,7 +157,7 @@ Automated tests that identify configuration issues or system inconsistencies in 
 **Related topics**  
 
 
-[Instance scan checks](../concept/service-bridge-v2-scan-checks.md)
+[Instance scan checks](service-bridge-v2-scan-checks.md)
 
 [List of scan checks](service-bridge-v2-list-of-scan-checks-in-sb.md)
 
@@ -172,7 +172,7 @@ A framework that synchronizes journal-type fields, such as comments and work not
 **Related topics**  
 
 
-[Journal field frameworks](../concept/service-bridge-v2-expolre-journal-field-framework.md)
+[Journal field frameworks](service-bridge-v2-expolre-journal-field-framework.md)
 
 ## K
 
@@ -193,7 +193,7 @@ A special URL that allows a consumer user to access a resource in the provider i
 **Related topics**  
 
 
-[Magic links](../concept/service-bridge-v2-explore-magic-link.md)
+[Magic links](service-bridge-v2-explore-magic-link.md)
 
 ## N
 
@@ -214,7 +214,7 @@ A category used to define entitlement to catalog items or services by grouping a
 **Related topics**  
 
 
-[User roles for providers](../concept/service-bridge-v2-personas.md)
+[User roles for providers](service-bridge-v2-personas.md)
 
 ### proactive case
 
@@ -223,7 +223,7 @@ A case automatically generated to proactively notify and address impacted custom
 **Related topics**  
 
 
-[Proactive cases](../concept/service-bridge-v2-proactive-case.md)
+[Proactive cases](service-bridge-v2-proactive-case.md)
 
 ### provider
 
@@ -232,7 +232,7 @@ An organization or instance that offers and fulfills services for consumers usin
 **Related topics**  
 
 
-[Service Exchange for Providers](../concept/service-bridge-providers-landing-page.md)
+[Service Exchange for Providers](service-bridge-providers-landing-page.md)
 
 ### provider application
 
@@ -250,7 +250,7 @@ A task created in the provider instance to fulfill a consumer request, with stat
 **Related topics**  
 
 
-[Provider tasks](../concept/service-bridge-v2-provider-tasks.md)
+[Provider tasks](service-bridge-v2-provider-tasks.md)
 
 ## R
 
@@ -267,7 +267,7 @@ A catalog of services created by the provider and made available to consumers as
 **Related topics**  
 
 
-[Create remote catalogs in Service Exchange for providers](../concept/service-bridge-v2-remote-catalog.md)
+[Create remote catalogs in Service Exchange for providers](service-bridge-v2-remote-catalog.md)
 
 ### remote record producer
 
@@ -278,7 +278,7 @@ Also know as RRP.
 **Related topics**  
 
 
-[Remote record producers in Service Exchange](../concept/service-bridge-v2-remote-record.md)
+[Remote record producers in Service Exchange](service-bridge-v2-remote-record.md)
 
 ### remote task
 
@@ -287,7 +287,7 @@ A linked task that enables synchronization of incidents, cases, or service reque
 **Related topics**  
 
 
-[Remote tasks](../concept/service-bridge-v2-remote-task-overview.md)
+[Remote tasks](service-bridge-v2-remote-task-overview.md)
 
 ### role
 
@@ -296,7 +296,7 @@ A category assigned to a group or user to grant access to specific privileges in
 **Related topics**  
 
 
-[User roles for providers](../concept/service-bridge-v2-personas.md)
+[User roles for providers](service-bridge-v2-personas.md)
 
 ## S
 
@@ -309,7 +309,7 @@ A feature that allows providers and consumers to exchange additional structured 
 **Related topics**  
 
 
-[Using the Scratchpad for Service Exchange tasks](../concept/service-bridge-v2-scratchpad.md)
+[Using the Scratchpad for Service Exchange tasks](service-bridge-v2-scratchpad.md)
 
 ### Service Exchange
 
@@ -318,7 +318,7 @@ An application that connects multiple ServiceNow instances \(provider, consumer,
 **Related topics**  
 
 
-[Exploring Service Exchange](../concept/service-bridge-v2-exploring-service-bridge.md)
+[Exploring Service Exchange](service-bridge-v2-exploring-service-bridge.md)
 
 ## T
 
@@ -331,7 +331,7 @@ A tool for mapping and converting data between provider and consumer instances d
 **Related topics**  
 
 
-[Transform data with the Service Exchange transform framework](../concept/service-bridge-v2-transform-about.md)
+[Transform data with the Service Exchange transform framework](service-bridge-v2-transform-about.md)
 
 ## V
 

@@ -27,15 +27,15 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 <table id="table_jlh_dgk_1cc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Now Assist for Security Incident Response](../concept/exploring-now-assist-security-incident.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Now Assist for Security Incident Response](exploring-now-assist-security-incident.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure and activate the skills for Now Assist for Security Incident Response](../concept/configuring-now-assist-for-security-operations.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure and activate the skills for Now Assist for Security Incident Response](configuring-now-assist-for-security-operations.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Learn how to summarize details and generate closure notes for security incidents with generative AI and Now Assist for Security Incident Response](../concept/using-now-assist-for-security.md)
+[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Learn how to summarize details and generate closure notes for security incidents with generative AI and Now Assist for Security Incident Response](using-now-assist-for-security.md)
 
 </td></tr></tbody>
 </table>**Important:**

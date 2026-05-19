@@ -32,17 +32,17 @@ By using the investigation canvas, threat analysts can effectively:
 
 -   **[Working with Actions on the Investigation Canvas](tisc-canvas-actions.md)**  
 This section describes the various actions that you can perform on the investigation canvas.
--   **[Linking an existing case from Investigation Canvas](../task/tisc-link-existing-case-canvas.md)**  
+-   **[Linking an existing case from Investigation Canvas](tisc-link-existing-case-canvas.md)**  
 Use this section to link an existing case from the investigation canvas.
--   **[Creating a Case and Linking from Investigation Canvas](../task/tisc-link-case.md)**  
+-   **[Creating a Case and Linking from Investigation Canvas](tisc-link-case.md)**  
 Use this section to create and link a case\(s\) from an investigation canvas.
--   **[Linking Canvas from a Case](../task/tisc-link-canvas-from-case.md)**  
+-   **[Linking Canvas from a Case](tisc-link-canvas-from-case.md)**  
 Use this section to link a canvas from a case.
--   **[Creating an investigation canvas](../task/tisc-create-canvas.md)**  
+-   **[Creating an investigation canvas](tisc-create-canvas.md)**  
 Create canvas to add observables from threat intelligence library.
--   **[Adding a new node to the canvas](../task/tisc-add-node-canvas.md)**  
+-   **[Adding a new node to the canvas](tisc-add-node-canvas.md)**  
 Use this section to create and add new entities, including observables or objects, directly from the investigation canvas.
--   **[Using Timeline in Investigation Canvas](../task/tisc-timeline-events.md)**  
+-   **[Using Timeline in Investigation Canvas](tisc-timeline-events.md)**  
 The Timeline feature of the Investigation Canvas within the Threat Intelligence Security Center \(TISC\) empowers analysts to visualize, create, and edit timeline events associated to entities during investigations. This capability significantly enhances the effectiveness of temporal analysis.
 -   **[Investigation canvas and MITRE ATT&amp;CK](investigation-and-mitre.md)**  
 In the Investigation Canvas, you can view the MITRE ATT&amp;CK techniques and sub-techniques associated with all nodes currently present on the canvas.
@@ -56,15 +56,15 @@ In the Investigation Canvas, you can view the MITRE ATT&amp;CK techniques and su
 
 [Creating cases using Threat Analyst Workbench](create-cases-using-threat-analyst-workbench.md)
 
-[Creating case task using Threat Analyst Workbench](../task/tisc-create-case-task.md)
+[Creating case task using Threat Analyst Workbench](tisc-create-case-task.md)
 
-[Add artifacts to case\(s\) or case task\(s\)](../task/add-artifacts-to-a-case-s.md)
+[Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
 
-[Run Enrichment Actions within a case](../task/run-enrichment-results.md)
+[Run Enrichment Actions within a case](run-enrichment-results.md)
 
-[View Case Reports](../task/view-case-reports.md)
+[View Case Reports](view-case-reports.md)
 
-[Create a security incident from a TISC case](../task/tisc-create-si-case.md)
+[Create a security incident from a TISC case](tisc-create-si-case.md)
 
-[Upload Secure File Attachments](../task/secure-file-attachments.md)
+[Upload Secure File Attachments](secure-file-attachments.md)
 

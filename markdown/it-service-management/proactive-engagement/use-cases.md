@@ -451,5 +451,5 @@ Device crash
 Provide self-help instructions to the end user to update their OS, device drivers, and uninstall unnecessary applications as proactive measures to prevent potential device crashes in the future.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Proactive Engagement reference](../proactive-engagement-reference.md)
+</table>**Parent Topic:**[Proactive Engagement reference](proactive-engagement-reference.md)
 

@@ -45,5 +45,5 @@ A statement in Urjanet refers to a bill. Whenever a new statement is generated i
 
 Paste the URL that is generated in the Urjanet console to get real-time Urjanet statement data. For more information, contact your system administrator.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](../concept/integrating-esg-management-with-urjanet.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](integrating-esg-management-with-urjanet.md)
 

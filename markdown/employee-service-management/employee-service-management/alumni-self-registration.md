@@ -157,7 +157,7 @@ A mail is sent to your personal email, which contains a verification link. After
 -   If approved, the user ID and password are communicated to you via the personal email address provided.
 -   If rejected, you receive an email to fill in the required details by selecting to register again, and the verification process is repeated.
 
-**Parent Topic:**[Using your Alumni Center](../concept/asc-use.md)
+**Parent Topic:**[Using your Alumni Center](asc-use.md)
 
 **Related topics**  
 

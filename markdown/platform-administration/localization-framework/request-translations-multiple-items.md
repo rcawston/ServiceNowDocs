@@ -38,5 +38,5 @@ Roles required:
     Localization requested items \(LRITMs\) are created for the selected items in all the selected languages. A success message with a link to the list of requested items is displayed. Click the link to see the list of requested items.
 
 
-**Parent Topic:**[Request translations](../concept/language-picker-ui.md)
+**Parent Topic:**[Request translations](language-picker-ui.md)
 

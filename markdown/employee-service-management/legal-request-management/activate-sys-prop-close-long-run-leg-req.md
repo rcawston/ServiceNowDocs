@@ -42,5 +42,5 @@ Role required: sn\_lg\_ops.legal\_admin
 
 The `sn_lg_ops.allow_request_closure_with_open_matters` system property is activated and the related legal requests can be closed even if the primary legal request is open.
 
-**Parent Topic:**[Configuring Legal Request Management](../concept/legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
 

@@ -21,7 +21,7 @@ Role required: evt\_mgmt\_admin, evt\_team\_operator, or srm\_responder
 
 ## About this task
 
-Extracting takes values from event payload fields and places them in alert output fields, while composing combines multiple alert fields into one. For more information, see [Extracting and composing alert fields](../concept/extract-compose-fields.md).
+Extracting takes values from event payload fields and places them in alert output fields, while composing combines multiple alert fields into one. For more information, see [Extracting and composing alert fields](extract-compose-fields.md).
 
 For users familiar with the classic Event Management experience, enrich automations create event rules but with an easier interface and with better teams support. Event rules offer a few advanced features like thresholds and CI identification using IRE that are not yet available in enrich automations. Admins may also enrich alerts with event field mapping rules. Changing alert values creates an event field mapping rule with the mapping type **Map field and transform value \(Single field\)**. This rule is linked to the event rule and runs simultaneously, allowing for streamlined mapping and transformation of event data to enrich alerts.
 
@@ -92,7 +92,7 @@ Action
 1.  Enable the **Extract fields** toggle switch.
 2.  From the **Extract from field** menu, select a value. The menu displays the standard event fields, additional info, and tags. The field value is then displayed. You can also manually enter a field name that is not displayed and add your own value.
 
-The example source events pane displays a sample of recent events in your system. If no events are displayed, you may create an event, see [Create or edit an event rule](../../event-management/task/create-or-edit-event-rule.md).
+The example source events pane displays a sample of recent events in your system. If no events are displayed, you may create an event, see [Create or edit an event rule](../event-management/create-or-edit-event-rule.md).
 
 3.  In the **Regular expression** field, create a regular expression to extract the value that you want to extract.
 
@@ -180,7 +180,7 @@ Based on the selected CI class, the system recommends whether you should conside
     -   Use all matching additional info fields: Select this check box to use all matching fields from the event’s Additional Info for CI identification instead of mapping individual fields.
 5.  **+ Add fallback**: Add fallback CI class and field mappings to define alternate identification logic. If the primary configuration does not identify a CI, the system evaluates each fallback in order until it finds a match.
 
-Ensure that the **Node** field in the alert is populated correctly to identify a host CI. The CI you are identifying must have a [runs on](../../event-management/task/t_EMBindApplication.md) relationship to the host CI or be [mapped to the host](../../event-management/task/ci-device-binding.md).
+Ensure that the **Node** field in the alert is populated correctly to identify a host CI. The CI you are identifying must have a [runs on](../event-management/t_EMBindApplication.md) relationship to the host CI or be [mapped to the host](../event-management/ci-device-binding.md).
 
 6.  Ensure that at least one CI attribute is present in the **Additional info** field of the alert.
 
@@ -192,7 +192,7 @@ After successful CI identification, the system displays a message with the relev
 
 If CI identification fails, the system shows a message explaining the details.![CI identification failed](../image/enrich_automation_ci_binding_failed.png)
 
- For more information on CI binding, see [Binding alerts to CIs](../../event-management/concept/ci-binding-alert.md).
+ For more information on CI binding, see [Binding alerts to CIs](../event-management/ci-binding-alert.md).
 
 </td></tr></tbody>
 </table>8.  In the **And finally** section, to continue running other enrichment automations with same filter conditions after this automation is executed, select **Run other enrich alert automations**.
@@ -226,5 +226,5 @@ You can manage alerts more effectively by grouping similar alerts together with 
 **Related topics**  
 
 
-[Extracting and composing alert fields](../concept/extract-compose-fields.md)
+[Extracting and composing alert fields](extract-compose-fields.md)
 

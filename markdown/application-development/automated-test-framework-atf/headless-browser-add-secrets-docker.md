@@ -44,7 +44,7 @@ Role required: admin on your ServiceNow instance and local administrator on the 
 
 The result is your secret ID, which you must save for later use. The secret ID will be added to the ServiceNow instance in the **sys\_property** `sn_atf.headless.secret_id`.
 
-**Parent Topic:**[Headless Browser setup for Linux](../concept/headless-browser-procedure-linux.md)
+**Parent Topic:**[Headless Browser setup for Linux](headless-browser-procedure-linux.md)
 
 **Previous topic:**[Create the Docker image and containers for Headless Browser setup in Linux](headless-browser-create-docker-image-containers.md)
 

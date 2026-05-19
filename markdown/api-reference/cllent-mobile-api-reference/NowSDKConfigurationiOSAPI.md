@@ -70,7 +70,7 @@ DevicePermissionDelegate
 Delegate object called by the NowSDK to request permission from the host application to show system dialog requesting the indicated device permission.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowSDKConfiguration - init\(authorizationProvider: NowSDKAuthorizationProviding, permissionDelegate: DevicePermissionDelegate, logLevel: NowLogLevel\)
 

@@ -64,7 +64,7 @@ Navigate to **All** &gt; **Filter** and enter `sys_ws_response_header.form`.1.  
 
 ## Result
 
-The response headers that you added are included in the exportable OpenAPI specification in the REST API Explorer with a `type: string` schema definition. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](../../inbound-rest/task/export-openapi-specification.md).
+The response headers that you added are included in the exportable OpenAPI specification in the REST API Explorer with a `type: string` schema definition. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](export-openapi-specification.md).
 
 **Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
 

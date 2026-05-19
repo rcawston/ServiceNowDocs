@@ -17,9 +17,9 @@ Creates a Cell object as a cell in a table. You can use this API to format the c
 
 This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.apppdfgenerator\) and is provided within the `sn_pdfgeneratorutils` namespace. The plugin is activated by default.
 
-This API is a component used with the [Document API](../../DocumentBoth/concept/DocumentBothAPI.md#) to generate a PDF.
+This API is a component used with the [Document API](DocumentBothAPI.md#) to generate a PDF.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Cell - Cell\(Number rowspan, Number colspan\)
 
@@ -76,13 +76,13 @@ Adds an image to a table cell.
 
 |Name|Type|Description|
 |----|----|-----------|
-|image|[Image](../../ImageBoth/concept/ImageBothAPI.md#)|Image to add to a table cell.|
+|image|[Image](ImageBothAPI.md#)|Image to add to a table cell.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to instantiate an existing image attachment and add it to a cell in a table. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to instantiate an existing image attachment and add it to a cell in a table. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 1);
@@ -98,13 +98,13 @@ Adds text to a table cell.
 
 |Name|Type|Description|
 |----|----|-----------|
-|paragraph|[Paragraph](../../ParagraphBoth/concept/ParagraphBothAPI.md#)|Text to add to a table cell.|
+|paragraph|[Paragraph](ParagraphBothAPI.md#)|Text to add to a table cell.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to instantiate paragraph objects and add the content cells in a table. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to instantiate paragraph objects and add the content cells in a table. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -118,13 +118,13 @@ Applies a predefined style to table cells.
 
 |Name|Type|Description|
 |----|----|-----------|
-|style|[Style](../../StyleBoth/concept/StyleBothAPI.md#)|Style to apply to this element.|
+|style|[Style](StyleBothAPI.md#)|Style to apply to this element.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to apply a style to a table cell. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to apply a style to a table cell. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -140,13 +140,13 @@ Adds a table to a cell.
 
 |Name|Type|Description|
 |----|----|-----------|
-|table|[Table](../../TableBoth/concept/TableBothAPI.md#)|Table to add to a cell.|
+|table|[Table](TableBothAPI.md#)|Table to add to a cell.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to instantiate a table object and add it to a cell. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to instantiate a table object and add it to a cell. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 1);
@@ -232,13 +232,13 @@ Specifies a background color for the cell.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Background color.|
+|color|[Color](ColorBothAPI.md#)|Background color.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set cell background color. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set cell background color. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -260,7 +260,7 @@ Sets a border for all four edges of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how to set a cell border of one point to all four edges of a cell. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a cell border of one point to all four edges of a cell. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -282,7 +282,7 @@ Sets a border for the lower limit of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how to set a cell border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a cell border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -304,7 +304,7 @@ Sets a border for the left limit of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how set a left-side cell border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how set a left-side cell border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -326,7 +326,7 @@ Sets a border for the right limit of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how to set a right-side cell border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a right-side cell border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -348,7 +348,7 @@ Sets a border for the upper limit of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how to set a top cell border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a top cell border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -364,14 +364,14 @@ Sets a colored border for all four edges of a cell.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Cell border color.|
+|color|[Color](ColorBothAPI.md#)|Cell border color.|
 |width|Number|Cell border width in points.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a colored cell border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a colored cell border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -388,14 +388,14 @@ Sets a colored border for the lower limit of a cell.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Cell border color.|
+|color|[Color](ColorBothAPI.md#)|Cell border color.|
 |width|Number|Cell border width in points.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a colored lower cell border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a colored lower cell border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -412,14 +412,14 @@ Sets a colored border for the left limit of a cell.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Cell border color.|
+|color|[Color](ColorBothAPI.md#)|Cell border color.|
 |width|Number|Cell border width in points.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a colored left cell border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a colored left cell border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -436,14 +436,14 @@ Sets a colored border for the right limit of a cell.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Cell border color.|
+|color|[Color](ColorBothAPI.md#)|Cell border color.|
 |width|Number|Cell border width in points.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a colored right cell border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a colored right cell border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -460,14 +460,14 @@ Sets a colored border for the upper limit of a cell.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Cell border color.|
+|color|[Color](ColorBothAPI.md#)|Cell border color.|
 |width|Number|Cell border width in points.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a colored top cell border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a colored top cell border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -490,7 +490,7 @@ Sets the height of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how set a cell height of 10 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how set a cell height of 10 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -537,7 +537,7 @@ Horizontal alignment setting.Valid values:
 |----|-----------|
 |None| |
 
-The following example shows how to set horizontal alignment on a cell. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set horizontal alignment on a cell. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -559,7 +559,7 @@ Sets the maximum height of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how set a maximum cell height of 409 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how set a maximum cell height of 409 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -581,7 +581,7 @@ Sets the maximum width of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how set a maximum cell width of 1530 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how set a maximum cell width of 1530 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -603,7 +603,7 @@ Sets the minimum height of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how set a minimum cell height of 12.75 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how set a minimum cell height of 12.75 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -625,7 +625,7 @@ Sets the minimum width of a cell.
 |----|-----------|
 |None| |
 
-The following example shows how set a minimum cell width of 50.58 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how set a minimum cell width of 50.58 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -699,7 +699,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set the bottom cell to one point. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set the bottom cell to one point. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -728,7 +728,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set bottom cell padding to one point. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set bottom cell padding to one point. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -757,7 +757,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set left cell padding to one point. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set left cell padding to one point. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -786,7 +786,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set right cell padding to one point. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set right cell padding to one point. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -815,7 +815,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set top cell padding to one point. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set top cell padding to one point. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);
@@ -911,7 +911,7 @@ Vertical alignment setting.Valid values:
 |----|-----------|
 |None| |
 
-The following example shows how to set vertical alignment on a cell. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set vertical alignment on a cell. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var cell = new sn_pdfgeneratorutils.Cell(1, 3);

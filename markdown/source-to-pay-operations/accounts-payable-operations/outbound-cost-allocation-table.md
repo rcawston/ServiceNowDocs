@@ -63,5 +63,5 @@ The following table lists fields for the outbound cost allocation \[sn\_spend\_i
 
 [Approval Plan form](approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

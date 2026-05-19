@@ -41,7 +41,7 @@ Role required: asset
 
 9.  Record the time worked on the task.
 
-    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Hardware Asset Workspace](../concept/record-repair-time-ham-ws.md).
+    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Hardware Asset Workspace](record-repair-time-ham-ws.md).
 
     An entry for the time you worked is created in the **Time Worked** tab of the Evaluate asset task.
 
@@ -69,7 +69,7 @@ Role required: asset
     1.  The repair order and the repair order line are in the Completed stage.
     2.  The state of the asset changes to In stock and the substate changes to Available.
 
-**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](../concept/fulfill-ham-repair-orders-ws.md)
+**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](fulfill-ham-repair-orders-ws.md)
 
 **Related topics**  
 

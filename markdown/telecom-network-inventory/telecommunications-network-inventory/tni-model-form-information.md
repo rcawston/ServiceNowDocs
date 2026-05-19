@@ -454,5 +454,5 @@ Select any one of the following type
 **Related topics**  
 
 
-[Create inventory models](../concept/creating-your-inventory-models.md)
+[Create inventory models](creating-your-inventory-models.md)
 

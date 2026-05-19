@@ -44,5 +44,5 @@ This example shows a default DHCP admin role, its resources, and the related per
 
 ![](../image/InfobloxResourcesAndPermissions.png "Infoblox permissions")
 
-**Parent Topic:**[Infoblox DDI activity pack](../concept/c_InfobloxDDIActivityPack.md)
+**Parent Topic:**[Infoblox DDI activity pack](c_InfobloxDDIActivityPack.md)
 

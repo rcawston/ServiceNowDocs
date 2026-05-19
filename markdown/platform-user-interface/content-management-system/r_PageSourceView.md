@@ -21,5 +21,5 @@ This Firefox functionality is useful when stepping through the menu items sectio
 
 ![In Firefox, navigate to This Frame, Open Frame in New Tab.](../image/FrameView.png "Frame view")
 
-**Parent Topic:**[View links between system elements and URLs](../task/t_LinkToContent.md)
+**Parent Topic:**[View links between system elements and URLs](t_LinkToContent.md)
 

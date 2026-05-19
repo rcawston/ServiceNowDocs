@@ -96,10 +96,10 @@ Knowledge articles
 Knowledge articles that you want to attach to the fulfillment instructions. HR agents use knowledge articles as reference when fulfilling an HR case.**Note:** Knowledge articles are visible only to HR agents and not to employees.
 
 </td></tr></tbody>
-</table>    **Note:** Previously, Fulfillment Instructions and Checklists were configured from HR services. Checklists are still configured from HR services. For more information on checklists, see [Checklists in HR cases](../concept/c_ChecklistsInHRCasesAndTasks.md).
+</table>    **Note:** Previously, Fulfillment Instructions and Checklists were configured from HR services. Checklists are still configured from HR services. For more information on checklists, see [Checklists in HR cases](c_ChecklistsInHRCasesAndTasks.md).
 
 4.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[HR fulfillment instructions](../concept/hr-fulfillment-instructions.md)
+**Parent Topic:**[HR fulfillment instructions](hr-fulfillment-instructions.md)
 

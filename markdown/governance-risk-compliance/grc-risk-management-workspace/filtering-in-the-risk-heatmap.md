@@ -52,5 +52,5 @@ Using the condition builder feature, the risk heatmap workbench enables you to f
 9.  To delete a filter condition that you have built, open the Filter dialog box, and select the delete condition button \(![Delete icon.](../image/delete-condition.png)\) and click **Submit**.
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

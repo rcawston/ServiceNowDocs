@@ -27,7 +27,7 @@ Role required: admin
 
 3.  On the Operational Toggle Level form, fill in the fields.
 
-    For a description of the field values, see [Operational toggle level form](../reference/operational-toggle-level-form.md).
+    For a description of the field values, see [Operational toggle level form](operational-toggle-level-form.md).
 
 4.  Select **Submit**.
 

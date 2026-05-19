@@ -30,5 +30,5 @@ Role required: rota\_manager
     A message confirms that the rotation schedule is updated for the shift that you moved to a draft mode.
 
 
-**Parent Topic:**[Managing schedules and shifts](../../user-administration/concept/manage-schedules-and-shifts.md)
+**Parent Topic:**[Managing schedules and shifts](manage-schedules-and-shifts.md)
 

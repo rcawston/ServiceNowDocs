@@ -90,5 +90,5 @@ To delete a time card:-   Tap **Delete time card**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](timesheet-mobile.md)
 

@@ -35,7 +35,7 @@ The domain owner's employees and tenants can use the same processes if the work 
 **Related topics**  
 
 
-[Components installed with Product Catalog](../reference/r_InstalledWithProductCatalog.md)
+[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)
 
 [Models](c_Models.md)
 

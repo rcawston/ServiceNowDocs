@@ -17,7 +17,7 @@ You can add a supplier to the primary data and add products related to that supp
 
 ## sn\_fin\_supplier table
 
-You can add suppliers and their products to populate your primary data. For more information on supplier. see [Manage supplier details](../../supplier-lifecycle-operations/concept/supp-ws-details-page.md).
+You can add suppliers and their products to populate your primary data. For more information on supplier. see [Manage supplier details](../supplier-lifecycle-operations/supp-ws-details-page.md).
 
 |Field|Data type|Description|
 |-----|---------|-----------|
@@ -28,5 +28,5 @@ You can add suppliers and their products to populate your primary data. For more
 **Related topics**  
 
 
-[SLO landing page](../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
+[SLO landing page](../source-to-pay-workspace/supp-manager-ws-home.md)
 

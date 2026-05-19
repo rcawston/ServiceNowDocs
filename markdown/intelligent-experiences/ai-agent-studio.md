@@ -18,7 +18,7 @@ AI Agent Studio description and example guided setups for agents and agentic wor
 
 ## AI Agent Studio overview
 
-With the AI Agent Studio application, you can create, manage, or test AI agents and agentic workflows all in one place. To enable the agentic AI experience, you must first install Now Assist AI agents. For more information, see [Install Now Assist AI agents](../task/install-ai-agents-plugins.md).
+With the AI Agent Studio application, you can create, manage, or test AI agents and agentic workflows all in one place. To enable the agentic AI experience, you must first install Now Assist AI agents. For more information, see [Install Now Assist AI agents](install-ai-agents-plugins.md).
 
 The Overview page has three sections where you can find the information that you must understand, begin, and continue developing AI agents and agentic workflows. When you first go to the AI Agent Studio, tour points are available to guide you through the experience.
 
@@ -50,7 +50,7 @@ The following example shows several execution logs in AI Agent Studio.
 
 ## Testing agentic AI
 
-From the AI Agent Studio testing page, you can review the different tests your AI agents and agentic workflows, both manual and automated. You can test the performance of your agentic AI by simulating a single execution manually, or you can use [automated agentic evaluations](../task/execute-aia-eval.md) for testing multiple executions. Single tests are best for evaluating whether the AI agent or agentic workflow does what you expect it to. Agentic evaluations are better at finding underlying patterns and trends that may not be noticeable one execution at a time.
+From the AI Agent Studio testing page, you can review the different tests your AI agents and agentic workflows, both manual and automated. You can test the performance of your agentic AI by simulating a single execution manually, or you can use [automated agentic evaluations](execute-aia-eval.md) for testing multiple executions. Single tests are best for evaluating whether the AI agent or agentic workflow does what you expect it to. Agentic evaluations are better at finding underlying patterns and trends that may not be noticeable one execution at a time.
 
 There are two types of manual tests you can do: **AI agent or agentic workflow** to test execution or **Test access** to test security controls. You can view your executed tests in the two tabs of the testing page. For manual execution tests, you can select the reply button to repeat the test. You can open the full details page of an automated test by selecting the test's name in the list in the **Automated** tab.
 
@@ -64,9 +64,9 @@ The following example shows the inputs for a Generate Resolution Plan agentic wo
 
 From the AI Agent Studio Settings page, you can enable Now Assist Guardian for your AI agents. By using Now Assist Guardian, you can configure:
 
--   [Offensiveness detection](../task/enable-aia-na-guardian.md#offensiveness-detection)
--   [Prompt injection attempt decision](../task/enable-aia-na-guardian.md#prompt-injection-detection)
--   [Long-term memory for AI agents](../task/long-term-memory-aia.md)
+-   [Offensiveness detection](enable-aia-na-guardian.md#offensiveness-detection)
+-   [Prompt injection attempt decision](enable-aia-na-guardian.md#prompt-injection-detection)
+-   [Long-term memory for AI agents](long-term-memory-aia.md)
 
 The following image shows the AI Agent Studio settings.
 

@@ -29,5 +29,5 @@ Default wrap-up codes and configuration settings available for email interaction
 **Related topics**  
 
 
-[Configure wrap-up codes for email interactions](../task/configure-wrap-up-codes-email-interactions-eaai.md)
+[Configure wrap-up codes for email interactions](configure-wrap-up-codes-email-interactions-eaai.md)
 

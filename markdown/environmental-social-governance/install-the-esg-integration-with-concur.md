@@ -50,5 +50,5 @@ The following items are installed with Operational Sustainability Integration wi
 6.  Select **Install**.
 
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](../concept/integrate-esg-with-concur.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](integrate-esg-with-concur.md)
 

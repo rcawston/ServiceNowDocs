@@ -36,5 +36,5 @@ Role required: sn\_shift\_planning.admin
     The team calendar displays the updated schedule.
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](scheduling-configurable-wfo-cs.md)
 

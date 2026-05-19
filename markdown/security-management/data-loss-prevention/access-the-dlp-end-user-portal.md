@@ -181,5 +181,5 @@ Respond to an incident by selecting an incident response option. For example, us
     For more information about user instructions, see [Create user instructions templates](create-and-manage-user-instructions-template-for-dlp-incidents.md) and [Configure DLP UI user instructions](configure-dlp-ui-user-instructions.md).
 
 
-**Parent Topic:**[Data Loss Prevention Incident Response User Workspace](../concept/using-dlp-end-user-portal.md)
+**Parent Topic:**[Data Loss Prevention Incident Response User Workspace](using-dlp-end-user-portal.md)
 

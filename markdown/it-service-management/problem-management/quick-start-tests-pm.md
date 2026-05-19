@@ -294,7 +294,7 @@ Verify Problem task state management of a general type Problem.
 Madrid
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference section for Problem Management](../../../product/problem-management/concept/reference-section-for-problem-management.md)
+</table>**Parent Topic:**[Reference section for Problem Management](reference-section-for-problem-management.md)
 
 **Related topics**  
 

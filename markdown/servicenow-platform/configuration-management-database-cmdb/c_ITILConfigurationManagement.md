@@ -35,7 +35,7 @@ Use core features such as CMDB Health, CMDB Identification and Reconciliation, a
 
 </td></tr><tr><td>
 
-[CI Class Manager![](../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg)View, create, or edit basic class definitions and class settings for identification and Reconciliation, and CMDB Health.](../reference/ci-class-manager-landing-page.md)
+[CI Class Manager![](../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg)View, create, or edit basic class definitions and class settings for identification and Reconciliation, and CMDB Health.](ci-class-manager-landing-page.md)
 
 </td><td>
 
@@ -55,7 +55,7 @@ Use core features such as CMDB Health, CMDB Identification and Reconciliation, a
 
 </td><td>
 
-[Data Certification![](../../../reuse/icons/brand-icons/bus-get-certified.svg)Validate all your data in the CMDB on a regular schedule or on-demand, in CMDB and non-CMDB tables.](../../data-certification/concept/c_DataCertification.md)
+[Data Certification![](../../../reuse/icons/brand-icons/bus-get-certified.svg)Validate all your data in the CMDB on a regular schedule or on-demand, in CMDB and non-CMDB tables.](c_DataCertification.md)
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Use core features such as CMDB Health, CMDB Identification and Reconciliation, a
 
 </td><td>
 
-[Unified Map![](../../../reuse/icons/brand-icons/bus-service-map.svg)View a hierarchical map of CIs and the relationships between them.](cmdb-workspace-unified-map.md)
+[Unified Map![](../../../reuse/icons/brand-icons/bus-service-map.svg)View a hierarchical map of CIs and the relationships between them.](../unified-map/cmdb-workspace-unified-map.md)
 
 </td><td>
 
@@ -71,7 +71,7 @@ Use core features such as CMDB Health, CMDB Identification and Reconciliation, a
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)](../reference/cmdb-reference.md)Reference topics provide detailed descriptions of tables, properties, forms, and roles.
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)](cmdb-reference.md)Reference topics provide detailed descriptions of tables, properties, forms, and roles.
 
 </td><td>
 

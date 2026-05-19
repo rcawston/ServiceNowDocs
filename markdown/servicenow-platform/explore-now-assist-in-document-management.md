@@ -44,7 +44,7 @@ Generate instant summaries and key document insights
 
 </td><td>
 
-[Generate a document summary by using Now Assist in Document Management](../task/generate-document-summary-now-assist.md)
+[Generate a document summary by using Now Assist in Document Management](generate-document-summary-now-assist.md)
 
 </td><td>
 
@@ -56,7 +56,7 @@ Extract key document insights through conversational interactions, powered using
 
 </td><td>
 
-[Generate summary and ask questions using Now Assist in Document Management](../task/ask-questions-faqs-now-assist.md)
+[Generate summary and ask questions using Now Assist in Document Management](ask-questions-faqs-now-assist.md)
 
 </td><td>
 

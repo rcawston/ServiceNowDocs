@@ -40,7 +40,7 @@ If you are the contract manager, you can approve or reject a contract.
 -   **[View approval history on contracts](t_ObtainContractApproval.md)**  
 You can view the approval history for a contract in the Approval History related list on the Contract form.
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](c_Contracts.md)
 
 **Related topics**  
 
@@ -51,11 +51,11 @@ You can view the approval history for a contract in the Approval History related
 
 [Verify contract administrator assignment for notification](t_SendAContractNotification.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](c_TermsAndConditions.md)
 
 [Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
 
 [Monitor a contract](t_MonitoringContracts.md)
 
-[Contract approval flow](../concept/contract-approval-workflow.md)
+[Contract approval flow](contract-approval-workflow.md)
 

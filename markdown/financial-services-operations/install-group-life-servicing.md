@@ -29,7 +29,7 @@ The following items are installed with sn\_ins\_group\_life:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Group Life Servicing](../reference/components-installed-with-group-life-servicing.md).
+For more information, see [Components installed with Group Life Servicing](components-installed-with-group-life-servicing.md).
 
 ## Procedure
 

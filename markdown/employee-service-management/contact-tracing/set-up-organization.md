@@ -48,5 +48,5 @@ Each floor in the organization can be considered as a site. Each site can be fur
     The **BLE enabled** option helps you to identify potentially infected employees from the Wi-Fi access logs by correlating everyone who connected to the Wi-Fi network using Bluetooth LE devices. If a site is BLE enabled, the **BLE enabled** check box on the Sites form is selected.
 
 
-**Parent Topic:**[Retrieving Wi-Fi access log data](../concept/wifi-access-management.md)
+**Parent Topic:**[Retrieving Wi-Fi access log data](wifi-access-management.md)
 

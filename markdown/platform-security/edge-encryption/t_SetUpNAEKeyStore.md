@@ -31,7 +31,7 @@ You must install and set up the SafeNet keystore before performing this step. Se
 
 1.  Change to the `<installation directory>/conf/` directory, and open the `edgeencryption.properties` file.
 
-2.  Enter the properties for the [SafeNet keystore](../reference/edge-encryption-proxy-server-properties.md).
+2.  Enter the properties for the [SafeNet keystore](edge-encryption-proxy-server-properties.md).
 
     **Note:** You may configure SafeNet keystore using with username/password authentication or client certificate authentication, but not a combination of both.
 

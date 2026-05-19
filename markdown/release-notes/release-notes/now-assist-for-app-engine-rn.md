@@ -69,5 +69,5 @@ Install Now Assist for App Engine by requesting it from the ServiceNow Store. Vi
 
 **Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

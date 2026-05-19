@@ -74,5 +74,5 @@ To get started with assessing your project risks, follow these steps:
     Role: sn\_risk.admin, it\_project\_manager.
 
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](solutions-gallery.md)
 

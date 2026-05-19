@@ -34,20 +34,20 @@ Weights are set to a value of **10** by default but can be changed.
 4.  Click **Update**.
 
 
-**Parent Topic:**[Survey designer](../concept/c_SurveyDesigner.md)
+**Parent Topic:**[Survey designer](c_SurveyDesigner.md)
 
 **Related topics**  
 
 
-[Survey designer elements](../concept/c_SurveyDesignerElements.md)
+[Survey designer elements](c_SurveyDesignerElements.md)
 
 [Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md)
 
-[Survey categories](../concept/c_SurveyCategory.md)
+[Survey categories](c_SurveyCategory.md)
 
 [Create a question in the survey designer](t_CreateQuestSurveyDesigr.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
 [Create custom metric type](create-custom-templates-questions.md)
 

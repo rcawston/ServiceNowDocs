@@ -186,5 +186,5 @@ Default value for this input.
 
 With Workflow Studio, you can add your decision to the **Make a decision** flow logic. For more information about the **Make a decision** flow logic, see [Make a decision flow logic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-make-decision.md).
 
-**Parent Topic:**[Decision tables in the classic environment](../concept/decision-tables-classic-ui.md)
+**Parent Topic:**[Decision tables in the classic environment](decision-tables-classic-ui.md)
 

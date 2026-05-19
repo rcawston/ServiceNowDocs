@@ -76,5 +76,5 @@ The GitHub Enterprise Cloud external content connector is updated with your modi
 
 To retrieve content from your GitHub Enterprise Cloud source system using your modified crawl settings, create and run a one-time content crawl for your GitHub Enterprise Cloud external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[GitHub Enterprise Cloud external content connector](../concept/github-enterprise-cloud-external-content-connector.md)
+**Parent Topic:**[GitHub Enterprise Cloud external content connector](github-enterprise-cloud-external-content-connector.md)
 

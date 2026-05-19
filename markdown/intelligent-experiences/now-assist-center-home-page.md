@@ -40,7 +40,7 @@ Each card displays a usage trend line to show adoption over time beginning at th
 
 Select **View all analytics** to see a complete list of the Now Assist performance metrics in the **Performance** section of the Now Assist Admin console.
 
-For more information, see [Monitor your recently activated Now Assist solution in Now Assist Center](../task/monitor-now-assist-performance-now-assist-center.md).
+For more information, see [Monitor your recently activated Now Assist solution in Now Assist Center](monitor-now-assist-performance-now-assist-center.md).
 
 ## AI Agent Advisor
 

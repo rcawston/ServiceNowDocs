@@ -47,7 +47,7 @@ For more information, see [Workflow Data Fabric Home navigation](workflow-data-f
 |WDF Operator|Builds deterministic and agentic workflows that consume governed data through Data Interfaces. WDF Operators are consumers of contracts, not owners or modifiers.|
 |WDF Consumer|Explores the Data Catalog to discover data products, evaluates them for use, requests access, and uses governed data through workflows, analytics, AI agents, or APIs.|
 
-For more information, see [Workflow Data Fabric Home roles](../reference/installed-with-workflow-data-fabric.md).
+For more information, see [Workflow Data Fabric Home roles](installed-with-workflow-data-fabric.md).
 
 ## Workflow Data Fabric Home benefits
 
@@ -68,7 +68,7 @@ To learn more about configuring and using Workflow Data Fabric Home, see:
 -   [Configuring Workflow Data Fabric Home](configuring-workflow-data-fabric.md)
 -   [Now Assist for Workflow Data Fabric \(WDF\)](now-assist-for-workflow-data-fabric-landing.md)
 -   [Connect to external systems](connecthub-connect-to-external-systems.md)
--   [Data Catalog](../../../administer/workflow-data-fabric/concept/data-catalog.md)
--   [Data Products](../../../administer/data-products/concept/data-products.md)
+-   [Data Catalog](data-catalog.md)
+-   [Data Products](data-products.md)
 -   [Workflow Data Fabric Home Reference](workflow-data-fabric-reference.md)
 

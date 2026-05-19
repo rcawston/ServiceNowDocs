@@ -77,5 +77,5 @@ If the Identification and Reconciliation engine \(IRE\) is activated, the reclas
     **Note:** For Rapid7, the CI Lookup method is set to Field matching for FQDN and Hostname, which helps to prevent it from using the script.
 
 
-**Parent Topic:**[Using Unified Security Exposure Management](../../security-exposure-management-workspace/concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](using-unified-security-exposure-management.md)
 

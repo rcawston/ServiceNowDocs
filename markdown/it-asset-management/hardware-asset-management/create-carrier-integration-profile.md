@@ -85,12 +85,12 @@ Option that indicates the status of the integration profile.**Note:** You can on
 
 The carrier integration profile is created and added to the Carrier integration profiles list.
 
-**Parent Topic:**[Track shipments using the integration framework](../concept/tracking-shipments-using-integration-framework.md)
+**Parent Topic:**[Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
 
 **Related topics**  
 
 
-[Creating an integration script include for third-party carrier applications](../concept/creating-integration-script-include-ham.md)
+[Creating an integration script include for third-party carrier applications](creating-integration-script-include-ham.md)
 
 [Connect your ServiceNow instance with a shipping carrier application](associate-shipping-carrier-int-profile.md)
 
@@ -104,7 +104,7 @@ The carrier integration profile is created and added to the Carrier integration 
 
 [View hardware asset shipment details](view-hardware-asset-shipments.md)
 
-[Stale shipments](../concept/stale-shipments.md)
+[Stale shipments](stale-shipments.md)
 
 [Track a hardware asset shipment](track-hardware-asset-shipments.md)
 

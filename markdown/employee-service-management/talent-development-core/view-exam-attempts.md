@@ -37,7 +37,7 @@ Only a user with the sn\_exam.catalog\_admin role who is configured as part of t
 
 4.  Review the fields of the form.
 
-    For a description of the field values, see [Exam instance attempt form](../reference/exam-instance-attempt-form.md).
+    For a description of the field values, see [Exam instance attempt form](exam-instance-attempt-form.md).
 
 
 **Parent Topic:**[View an exam instance](view-exam-instance.md)

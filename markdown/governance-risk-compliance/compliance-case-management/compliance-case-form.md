@@ -436,5 +436,5 @@ Save
 Save the details of the compliance case.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a compliance case in the Compliance Workspace](../task/create-compliance-case.md)
+</table>**Parent Topic:**[Create a compliance case in the Compliance Workspace](create-compliance-case.md)
 

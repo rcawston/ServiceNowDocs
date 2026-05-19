@@ -64,8 +64,8 @@ Export the image file with the following requirements:-   Type: Currently, only 
 -   Dimensions: Image dimension must be 20,000 x 20,000 pixels.
 
 </td></tr></tbody>
-</table>1.  [Import Raster files](../task/import-raster-files.md)  
+</table>1.  [Import Raster files](import-raster-files.md)  
 After creating your campus, buildings, and floor, upload and import the raster floor plan sources.
 
-**Parent Topic:**[Indoor Mapping](../reference/Indoor-mapping.md)
+**Parent Topic:**[Indoor Mapping](Indoor-mapping.md)
 

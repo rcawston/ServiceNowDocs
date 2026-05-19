@@ -40,7 +40,7 @@ The Al System Digital Asset represents the Software/ Application components for 
 
 -   Application: A service instance is a deployed instance of the Agile development application component. Examples include micro services and APIs. The build team typically builds service instances on behalf of the Service Owner \(as described in [Manage Portfolio domain in the CSDM model](manage-business-services-domain.md)\).
 
-    See [Use Service instance \(Application Services\) dashboard to monitor health](../../configuration-management/task/app-service-dashboard.md).
+    See [Use Service instance \(Application Services\) dashboard to monitor health](../configuration-management-database-cmdb/app-service-dashboard.md).
 
 -   Infrastructure: Any infrastructure CI that represents a snapshot of its configuration details is a deployed instance of the Agile development infrastructure component. Examples include database and security configurations.
 

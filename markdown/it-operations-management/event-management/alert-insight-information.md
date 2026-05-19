@@ -21,5 +21,5 @@ Results from data analysis provide further information about the alert, beyond t
 
 Information shown is from repeated alerts, similar alerts, incidents, problems, and change requests on the same CI, similar CIs, and other CIs that are related by CMDB relations or grouping.
 
-**Parent Topic:**[View alert information](../task/t_EMViewAlert.md)
+**Parent Topic:**[View alert information](t_EMViewAlert.md)
 

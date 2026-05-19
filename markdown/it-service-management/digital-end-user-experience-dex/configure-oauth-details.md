@@ -29,7 +29,7 @@ Role required: sn\_dex\_desktop.admin
 
 3.  On the Application Registries form, edit the required fields.
 
-    For a description of the field values, see [Application Registries form](../reference/application-registries-form.md).
+    For a description of the field values, see [Application Registries form](application-registries-form.md).
 
 4.  Customize to avoid SSO Screen when logging in to DEX Desktop Assistant:
 

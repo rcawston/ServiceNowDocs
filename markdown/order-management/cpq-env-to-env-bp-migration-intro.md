@@ -27,9 +27,9 @@ Because all maintenance and development must be tested in a non-production envir
 **Related topics**  
 
 
-[Migrate a blueprint from environment to environment](../task/cpq-migrating-env-to-env.md)
+[Migrate a blueprint from environment to environment](cpq-migrating-env-to-env.md)
 
-[Migrate a blueprint to an SFDC-integrated destination](../task/cpq-migrating-to-sfdc.md)
+[Migrate a blueprint to an SFDC-integrated destination](cpq-migrating-to-sfdc.md)
 
-[The fullBlueprintMigration parameter](../reference/cpq-fullblueprintmigration-param.md)
+[The fullBlueprintMigration parameter](cpq-fullblueprintmigration-param.md)
 

@@ -33,7 +33,7 @@ Selecting a project opens the Project details page on which you can see project 
 
 You access the Data page by selecting the Data icon ![](../image/task-mining-data-icon.png).
 
-Access data requests to confirm approvals are completed, manage categorization groups to organize activities, and review workstation user information from the Data page. For more information about managing data requests, see [Follow data request progress](../task/manage-data-log-requests.md).
+Access data requests to confirm approvals are completed, manage categorization groups to organize activities, and review workstation user information from the Data page. For more information about managing data requests, see [Follow data request progress](manage-data-log-requests.md).
 
 ![Screenshot showing the Data page in Task Mining.](../image/task-mining-data-page.png)
 
@@ -41,7 +41,7 @@ Access data requests to confirm approvals are completed, manage categorization g
 
 You access the Application categorization page by selecting the Application categorization icon ![](../image/task-mining-categorization-icon.png).
 
-Create rules from the Application categorization page to organize your data by grouping similar workstation activities with user-friendly names. For more information, see [Categorize workstation activities to simplify analysis](../task/define-default-categorization-rules.md).
+Create rules from the Application categorization page to organize your data by grouping similar workstation activities with user-friendly names. For more information, see [Categorize workstation activities to simplify analysis](define-default-categorization-rules.md).
 
 ![Screenshot showing the Application categorization page in Task Mining.](../image/task-mining-categorization-page.png)
 

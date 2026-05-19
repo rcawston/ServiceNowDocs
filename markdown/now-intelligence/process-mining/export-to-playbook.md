@@ -25,7 +25,7 @@ This task enables you to export any variant from within your process to playbook
 
 **Note:** You can export a maximum of 10 variants for a process graph.
 
-The property for the playbook generation is set in the Process Mining system properties. For more information, see [Playbook generation properties](../concept/data-cleanup.md#).
+The property for the playbook generation is set in the Process Mining system properties. For more information, see [Playbook generation properties](data-cleanup.md#).
 
 ## Procedure
 
@@ -72,5 +72,5 @@ The property for the playbook generation is set in the Process Mining system pro
     For information on Playbooks on Workflow Studio, see [Exploring Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md).
 
 
-**Parent Topic:**[Analyzing and getting process insights](../concept/analyze-get-process-insights.md)
+**Parent Topic:**[Analyzing and getting process insights](analyze-get-process-insights.md)
 

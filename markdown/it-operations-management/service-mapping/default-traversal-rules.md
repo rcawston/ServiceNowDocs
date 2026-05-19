@@ -34,7 +34,7 @@ Predefined traversal rules in Service Mapping are key to identifying the relatio
 
 For example, the first row of the table illustrates a traversal rule that identifies and adds the hardware \(cmdb\_ci\_hardware\) supporting a given software application \(cmdb\_ci\). When **Is Reverse** is set to false, the discovery process starts with the application and identifies the hardware it runs on-traversing from the parent CI to the child CI. The relationships are then added to the application service map.
 
-To learn more about traversal rule components and related terminology, see [Traversal rules in Service Mapping](../concept/traversal-rules-service-mapping.md).
+To learn more about traversal rule components and related terminology, see [Traversal rules in Service Mapping](traversal-rules-service-mapping.md).
 
 **Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
 

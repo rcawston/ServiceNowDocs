@@ -22,7 +22,7 @@ As an administrator, you can configure KPIs as well as child KPIs. The child KPI
 **Related topics**  
 
 
-[Teams in Workforce Optimization](using-teams-wfo-fsm.md#)
+[Teams in Workforce Optimization](../field-service-manager-workforce/using-teams-wfo-fsm.md#)
 
 ## Create KPI groups to monitor team performance
 

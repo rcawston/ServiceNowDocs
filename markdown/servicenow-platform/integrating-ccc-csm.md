@@ -20,13 +20,13 @@ The ServiceNow Voice for CSM application provides seamless interactive voice res
 The ServiceNow Voice for CSM application provides the following Customer Service capabilities for the integration with a cloud call center provider such as the Amazon Connect service:
 
 -   A bot building framework to automate interactions with consumers and customer contacts.
--   [An inbound contact flow to define the customer experience in an IVR](../reference/instld-with-ccc-csm.md).
--   [An outbound contact flow to connect with consumers and customer contacts from the phone number field displayed in any of the ServiceNow application UIs](../reference/instld-with-ccc-csm.md).
--   [Operation handlers to configure automated interactions for customer service cases](../reference/instld-with-ccc-csm.md).
+-   [An inbound contact flow to define the customer experience in an IVR](instld-with-ccc-csm.md).
+-   [An outbound contact flow to connect with consumers and customer contacts from the phone number field displayed in any of the ServiceNow application UIs](instld-with-ccc-csm.md).
+-   [Operation handlers to configure automated interactions for customer service cases](instld-with-ccc-csm.md).
 -   [A phone PIN setup option for consumers and customer contacts](ccc-csm-config-pin.md).
 -   [Amazon Connect phone queues for the Workforce Optimization for Customer Service application](integrating-ccc-csm.md#section_sqf_z3t_2nb).
 
-To get started with the ServiceNow Voice for CSM application, see [Install ServiceNow Voice for CSM](../task/install-ccc-csm.md).
+To get started with the ServiceNow Voice for CSM application, see [Install ServiceNow Voice for CSM](install-ccc-csm.md).
 
 ## Key features
 
@@ -79,11 +79,11 @@ The following example workflow shows the use of the ServiceNow Voice for CSM app
 
 ## Workforce Optimization for Customer Service
 
-Integrate Voice with Workforce Optimization for Customer Service to visualize call metrics from the Amazon Connect service. Voice uses the [Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-overview.md) feature to display the call metrics and active calls along with all other Channel metrics in the Manager Workspace. For more information, see [Using Voice with Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-servicenow-voice-cs.md).
+Integrate Voice with Workforce Optimization for Customer Service to visualize call metrics from the Amazon Connect service. Voice uses the [Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-overview.md) feature to display the call metrics and active calls along with all other Channel metrics in the Manager Workspace. For more information, see [Using Voice with Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/configurable-servicenow-voice-cs.md).
 
 ![The Amazon Connect phone queues in the Workforce Optimization for Customer Service application](../image/cloudcallcenter-amazonconnect-wfo-itsm.png "Amazon Connect phone queues in Workforce Optimization for Customer Service")
 
--   **[Install ServiceNow Voice for CSM](../task/install-ccc-csm.md)**  
+-   **[Install ServiceNow Voice for CSM](install-ccc-csm.md)**  
 You can install the ServiceNow Voice for CSM application \(sn\_cti\_csm\_cnt\) if you have the admin role. The application installs related ServiceNow® Store applications if they are not already installed.
 -   **[Configuring the phone PIN settings for ServiceNow Voice](ccc-csm-config-pin.md)**  
 Use a  PIN-based authentication mechanism for enabling a customer contact or consumer to connect with the ServiceNow Voice for CSM  application. 
@@ -99,5 +99,5 @@ Agents can see a transcript of voice calls while interacting with customers. Rea
 
 [Using Voice](use-ccc.md#)
 
-[Components installed with ServiceNow Voice for CSM](../reference/instld-with-ccc-csm.md)
+[Components installed with ServiceNow Voice for CSM](instld-with-ccc-csm.md)
 

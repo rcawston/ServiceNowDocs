@@ -38,15 +38,15 @@ Activating this plugin, provides the core SLA functional.ities.
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with Service Level Management](../reference/r_InstalledWithServiceLevelMgmt.md#)**  
+-   **[Installed with Service Level Management](r_InstalledWithServiceLevelMgmt.md#)**  
 Activating the Service Level Management plugin adds or modifies these components: tables, properties, UI actions, UI policies, script includes, client scripts, business rules, email notifications, scheduled jobs, and workflows.
 
-**Parent Topic:**[Service Level Management plugins](../concept/sla-plugins.md)
+**Parent Topic:**[Service Level Management plugins](sla-plugins.md)
 
 **Related topics**  
 
 
-[Activate SLA Breakdown definitions](../reference/activate-sla-breakdowns-plugin.md)
+[Activate SLA Breakdown definitions](activate-sla-breakdowns-plugin.md)
 
 [Activate SLA timeline](t_ActivateSLATimeline.md)
 

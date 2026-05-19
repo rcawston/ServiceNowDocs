@@ -57,5 +57,5 @@ When a step of this type is included in a test, the generated description appear
 
 ![Description generation script in test step](../image/atf-xmpl-template-gen.png)
 
-**Parent Topic:**[Step configurations](../concept/step-configurations-module.md)
+**Parent Topic:**[Step configurations](step-configurations-module.md)
 

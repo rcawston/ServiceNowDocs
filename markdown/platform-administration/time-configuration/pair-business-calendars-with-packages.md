@@ -48,5 +48,5 @@ A package is an application, or generic set of functions, such as HR Service Del
 
 A record is created in the Calendars for Package \(calendars\_for\_package\) table that associates the selected business calendar with a ServiceNow AI Platform package.
 
-**Parent Topic:**[Creating business calendars](../concept/business-calendars.md)
+**Parent Topic:**[Creating business calendars](business-calendars.md)
 

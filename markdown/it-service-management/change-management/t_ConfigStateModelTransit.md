@@ -60,5 +60,5 @@ Role required: script\_include\_admin, ui\_policy\_admin, or admin
     3.  Complete and save the UI policy.
 
 
-**Parent Topic:**[Legacy: State model and transitions](../concept/c_ChangeStateModel.md)
+**Parent Topic:**[Legacy: State model and transitions](c_ChangeStateModel.md)
 

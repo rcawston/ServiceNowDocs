@@ -17,7 +17,7 @@ Generate an update set description to quickly communicate the intent and scope o
 
 ## Before you begin
 
-You must have the release lifecycle documentation AI agent turned on in AI Agent Studio. For more information, see [Configure release lifecycle documentation AI agent](../concept/configure-release-lifecycle-documentation-ai-agent.md).
+You must have the release lifecycle documentation AI agent turned on in AI Agent Studio. For more information, see [Configure release lifecycle documentation AI agent](configure-release-lifecycle-documentation-ai-agent.md).
 
 Update sets must be in certain states for you to generate descriptions using the release lifecycle documentation AI agent. The following table explains what update set locations and states support description generation.
 
@@ -67,5 +67,5 @@ Role required: sn\_aia.viewer and update\_set\_admin
     The release lifecycle documentation AI agent generates the update set description, which might take several minutes. Once a description has been generated, the description is automatically added to the update set record.
 
 
-**Parent Topic:**[Release lifecycle documentation AI agent](../concept/release-lifecycle-documentation-agent-landing.md)
+**Parent Topic:**[Release lifecycle documentation AI agent](release-lifecycle-documentation-agent-landing.md)
 

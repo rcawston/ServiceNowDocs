@@ -97,5 +97,5 @@ Boolean. Allow for the given entry to be executed in shell mode and for check de
     The location of this file is indicated in the **allow-list** parameter of the agent's `acc.yml` file.
 
 
-**Parent Topic:**[Enabling Agent Client Collector data collection](../concept/data-collection-enabling.md)
+**Parent Topic:**[Enabling Agent Client Collector data collection](data-collection-enabling.md)
 

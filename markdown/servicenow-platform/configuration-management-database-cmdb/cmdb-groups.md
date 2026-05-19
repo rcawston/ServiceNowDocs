@@ -15,7 +15,7 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 A CMDB group is a collection of CIs that lets you apply CI actions collectively to all the CIs that are members in the group.
 
-For example, a CMDB CI Lifecycle Management API can use a CMDB group scriptable API to retrieve the group's list of CIs, and then apply a CI Lifecycle Management action collectively to all the CIs. You can also use a CMDB group with the [Dynamic CI Group](../task/populate-app-service-dynamic-group.md) service population method, to populate an application service.
+For example, a CMDB CI Lifecycle Management API can use a CMDB group scriptable API to retrieve the group's list of CIs, and then apply a CI Lifecycle Management action collectively to all the CIs. You can also use a CMDB group with the [Dynamic CI Group](populate-app-service-dynamic-group.md) service population method, to populate an application service.
 
 ## Group types
 

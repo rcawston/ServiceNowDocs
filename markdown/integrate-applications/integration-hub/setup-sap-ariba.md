@@ -23,7 +23,7 @@ Integrate the ServiceNow instance and SAP Ariba by using the SSH, Basic Auth, an
 
 ## About this task
 
-For information about the connection and credential alias record that must be configured to use actions in an action category, see [Connection and credential alias requirements](../concept/sap-ariba-spoke.md#section_lr4_vjq_xmb).
+For information about the connection and credential alias record that must be configured to use actions in an action category, see [Connection and credential alias requirements](sap-ariba-spoke.md#section_lr4_vjq_xmb).
 
 ## Procedure
 

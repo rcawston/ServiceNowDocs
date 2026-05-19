@@ -17,7 +17,7 @@ When you develop customizations to applications on the ServiceNow® platform, yo
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 ## Overview or deploying to production
 
@@ -27,12 +27,12 @@ Technically, you can still “deploy” an application from a Git repository to 
 
 |Term|Definition|
 |----|----------|
-|[Metadata or application files](c_ApplicationFiles.md)|The sys\_metadata records that define configuration in ServiceNow and are packaged in an application. These records alter the behavior of the instance but do not contain data such as incident or CMDB records. \(See Note below\)|
-|[Scoped applications](c_ApplicationScope.md)|ServiceNow applications that restrict allowing only updates and operations within the boundary of the scope. This mechanism is used for most new development.|
-|[Global applications](c_ApplicationScope.md)|Global applications are developed in the legacy global scope. Work is often done in this scope to customize existing ServiceNow applications such as IT Service Management \(ITSM\).|
-|[Application repository](app-repo.md)|Applications are typically published here for deployment in production instances. Although the application repository has separate entitlement rules, it operates similarly to the ServiceNow Store.|
+|[Metadata or application files](../c_ApplicationFiles.md)|The sys\_metadata records that define configuration in ServiceNow and are packaged in an application. These records alter the behavior of the instance but do not contain data such as incident or CMDB records. \(See Note below\)|
+|[Scoped applications](../c_ApplicationScope.md)|ServiceNow applications that restrict allowing only updates and operations within the boundary of the scope. This mechanism is used for most new development.|
+|[Global applications](../c_ApplicationScope.md)|Global applications are developed in the legacy global scope. Work is often done in this scope to customize existing ServiceNow applications such as IT Service Management \(ITSM\).|
+|[Application repository](../application-repository-self-hosted/app-repo.md)|Applications are typically published here for deployment in production instances. Although the application repository has separate entitlement rules, it operates similarly to the ServiceNow Store.|
 |[ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md)|Repository for third-party \(vendor\) applications as well as ServiceNow published applications. Most customers do not publish to the Store, but often install applications from it.|
-|[Update sets](../../system-update-sets/concept/system-update-sets.md)|Standard method of packaging customizations for deployment in each successive instance. They contain the incremental collection of insertions, updates, and deletions.|
+|[Update sets](../system-update-sets/system-update-sets.md)|Standard method of packaging customizations for deployment in each successive instance. They contain the incremental collection of insertions, updates, and deletions.|
 |[Legacy - Delta loading](delta-loading.md)|The most efficient method of loading because it changes only from source control rather than earlier uninstall/reinstall methods.|
 |Schema|Definition of tables and columns in the tables.|
 |[Rollback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/rollback-scoped-applications.md)|Administrators can roll back the last installation of a selected application. A rollback removes all code, table, and file updates from the initial installation.|

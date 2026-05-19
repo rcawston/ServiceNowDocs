@@ -39,7 +39,7 @@ Role required: sn\_vaccine\_sm.clinician
 
 6.  Schedule the vaccination appointments by choosing your preferred method and site for vaccination.
 
-    You can either choose the same vaccination site for both doses, or you can choose a different vaccination site for each dose. To choose from your preferred vaccination method while scheduling or rescheduling your appointments, the **sn\_vaccine\_sm.allow\_user\_selection\_of\_vaccine\_method** system property value must be set to **true**. For details on how to configure multi-vaccine appointment bookings, see [Multi-vaccine appointment bookings configuration](../concept/multi-vaccine-appointment-bookings-configuration.md).
+    You can either choose the same vaccination site for both doses, or you can choose a different vaccination site for each dose. To choose from your preferred vaccination method while scheduling or rescheduling your appointments, the **sn\_vaccine\_sm.allow\_user\_selection\_of\_vaccine\_method** system property value must be set to **true**. For details on how to configure multi-vaccine appointment bookings, see [Multi-vaccine appointment bookings configuration](multi-vaccine-appointment-bookings-configuration.md).
 
 7.  Fill in the required details, and click **Submit**.
 
@@ -50,5 +50,5 @@ Role required: sn\_vaccine\_sm.clinician
     In the Appointment related list, two separate vaccination tasks are created.
 
 
-**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](../concept/user-appt-mngt-clinicans-agents.md)
+**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](user-appt-mngt-clinicans-agents.md)
 

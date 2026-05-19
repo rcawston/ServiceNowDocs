@@ -41,5 +41,5 @@ Role required: admin
 6.  Click **Create**.
 
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
 

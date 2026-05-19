@@ -41,5 +41,5 @@ The Edge Encryption proxy validates encryption rule scripts before saving the ru
 |this|
 |throw|
 
-**Parent Topic:**[Encryption rule objects and APIs](../concept/api-overview.md)
+**Parent Topic:**[Encryption rule objects and APIs](api-overview.md)
 

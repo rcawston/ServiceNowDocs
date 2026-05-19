@@ -17,7 +17,7 @@ Suspend an account when thereâ€™s a budget constraint or the account owner isnâ€
 
 ## Before you begin
 
-An account requires a suspend profile to be suspended. For more information, see [Set up suspension of an AWS account using service control policy](../task/configure-suspension-policy.md).
+An account requires a suspend profile to be suspended. For more information, see [Set up suspension of an AWS account using service control policy](configure-suspension-policy.md).
 
 Role required: sn\_itom\_cam.cw\_admin or sn\_itom\_cam.cw\_requestor
 

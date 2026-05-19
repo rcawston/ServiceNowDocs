@@ -70,7 +70,7 @@ Agents can use Conversation Autopilot to display Virtual Agent topics during Age
 
 While talking to a requester in an Agent Chat conversation, agents can start Conversation Autopilot by using autopilot quick actions to invoke Virtual Agent topics. Depending on the information entered by the requester, agents can search for a specific Virtual Agent topic and display it with parameters. The requester views the topic and responds as needed and Virtual Agent captures the requester’s input.
 
-**Note:** For the best experience, enable the Agent Chat setting that turns on system messages during autopilot. For details, see [Setting up Agent Chat](../task/ac-configure-agent-chat.md).
+**Note:** For the best experience, enable the Agent Chat setting that turns on system messages during autopilot. For details, see [Setting up Agent Chat](ac-configure-agent-chat.md).
 
 ### Configuring Autopilot
 
@@ -110,7 +110,7 @@ Use emojis in Agent Chat conversations to convey emotions to requesters. This he
 
 ### Before you begin
 
-Emojis must be enabled before agents can use them in Agent Chat. See [Setting up Agent Chat](../task/ac-configure-agent-chat.md) for instructions on enabling emojis.
+Emojis must be enabled before agents can use them in Agent Chat. See [Setting up Agent Chat](ac-configure-agent-chat.md) for instructions on enabling emojis.
 
 Role required: admin
 
@@ -206,9 +206,9 @@ Role required: admin
 **Related topics**  
 
 
-[Asynchronous chat](../../virtual-agent/concept/async-chat.md)
+[Asynchronous chat](../async-chat.md)
 
-[Configure asynchronous chat for the web channel](../../virtual-agent/task/configure-async-web.md)
+[Configure asynchronous chat for the web channel](../configure-async-web.md)
 
 ## Using the action bar in chat interaction records
 

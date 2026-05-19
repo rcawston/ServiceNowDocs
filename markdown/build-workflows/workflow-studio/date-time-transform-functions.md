@@ -15,7 +15,7 @@ breadcrumb: [Transform functions, Flows, subflows, and actions reference, Flows,
 
 Use date and time transform functions to recalculate or reformat data pills for Date/Time values.
 
-Date and time transform functions require a Date/Time or String input data pill. Some functions also support Duration data pills. Make sure to use the correct input [data pill type](action-inputs-outputs.md) when applying date and time transform functions. If a date and time transform function is applied to an improper data pill type, the data is not transformed at runtime and the input value is returned instead. For more information on confirming your flow runtime values, see [Test a flow](../task/flow-test.md).
+Date and time transform functions require a Date/Time or String input data pill. Some functions also support Duration data pills. Make sure to use the correct input [data pill type](action-inputs-outputs.md) when applying date and time transform functions. If a date and time transform function is applied to an improper data pill type, the data is not transformed at runtime and the input value is returned instead. For more information on confirming your flow runtime values, see [Test a flow](flow-test.md).
 
 **Note:** Runtime Date/Time values are not localized and appear in the UTC \(Coordinated Universal Time\) time zone. For more information, see [Time zones](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_TimeZones.md) and [time zone representation](https://support.servicenow.com/kb_view.do?sysparm_article=KB0594661).
 
@@ -311,5 +311,5 @@ Evaluates the last day of the month after adding the specified number of the mon
 -   Number of Months: `3`
 -   Output: `2022-02-28`
 
-**Parent Topic:**[Transform functions](../concept/transform-functions.md)
+**Parent Topic:**[Transform functions](transform-functions.md)
 

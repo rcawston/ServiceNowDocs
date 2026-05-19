@@ -45,9 +45,9 @@ You can also view the **Requested for** and **Opened by** cards in catalog task 
 
 You can change the view of any Service Operations Workspace form by customizing the Service Operations Workspace view from the corresponding Request Management form in the ServiceNow AI Platform UI.
 
--   **[Create a catalog request in Service Operations Workspace](../task/create-catalog-request-sow.md)**  
+-   **[Create a catalog request in Service Operations Workspace](create-catalog-request-sow.md)**  
 Create a catalog request in Service Operations Workspace to initiate a catalog request flow from a different IT Service Management flow. For example, from an incident flow, you can create a request and associate the request with the incident to help track requests associated with an incident and vice versa.
--   **[View and approve records in Service Operations Workspace](../task/view-approvals-sow.md)**  
+-   **[View and approve records in Service Operations Workspace](view-approvals-sow.md)**  
 Access the My Approvals in SOW to manage the approval requests for change, request, catalog task, and requested item.
 
 **Parent Topic:**[Operating IT services in your organization](enhancing-services-operations-in-organization.md)
@@ -55,11 +55,11 @@ Access the My Approvals in SOW to manage the approval requests for change, reque
 **Related topics**  
 
 
-[Play a guided tour in Service Operations Workspace](../task/play-guided-tour-sow.md)
+[Play a guided tour in Service Operations Workspace](play-guided-tour-sow.md)
 
-[Add a user-specific quick link on the ITSM landing page](../task/add-quick-link.md)
+[Add a user-specific quick link on the ITSM landing page](add-quick-link.md)
 
-[Create a list in Service Operations Workspace](../task/create-list-sow.md)
+[Create a list in Service Operations Workspace](create-list-sow.md)
 
 [Live Agent chat in Service Operations Workspace](configure-liveagent-sow.md)
 

@@ -78,5 +78,5 @@ Applicable event tasks are added to the Similar tasks group.**Note:** When you s
     The event task is deleted from the event.
 
 
-**Parent Topic:**[Creating similar tasks groups](../concept/identifying-running-dup-tasks-once.md)
+**Parent Topic:**[Creating similar tasks groups](identifying-running-dup-tasks-once.md)
 

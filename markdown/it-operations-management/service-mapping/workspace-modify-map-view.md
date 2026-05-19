@@ -171,5 +171,5 @@ No map indicators appear next to the application service name.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](../concept/service-analysis-maintenance-legacy-workspace.md)
+**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](service-analysis-maintenance-legacy-workspace.md)
 

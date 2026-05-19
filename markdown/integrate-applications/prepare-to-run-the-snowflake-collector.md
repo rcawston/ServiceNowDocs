@@ -122,5 +122,5 @@ Some collector features require executing queries in Snowflake, which requires a
     ```
 
 
-**Parent Topic:**[Snowflake metadata collector](../concept/snowflake-metadata-collector.md)
+**Parent Topic:**[Snowflake metadata collector](snowflake-metadata-collector.md)
 

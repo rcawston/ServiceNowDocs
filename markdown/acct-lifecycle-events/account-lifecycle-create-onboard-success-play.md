@@ -38,5 +38,5 @@ Role required: sn\_acct\_lc.customer\_success\_agent
     The success play is launched and new onboarding journey is initiated for this account.
 
 
-**Parent Topic:**[Account onboarding](../concept/account-lifecycle-use.md)
+**Parent Topic:**[Account onboarding](account-lifecycle-use.md)
 

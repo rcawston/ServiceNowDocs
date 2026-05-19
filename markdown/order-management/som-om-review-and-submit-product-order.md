@@ -157,5 +157,5 @@ Aggregate cost of all charges, both, one-time and recurring, associated with the
 
 For complex orders, capture technical details. For more information, see [Capture order enrichment details for complex fulfillment](capture-order-enrichment-details.md).
 
-If order enrichment tasks don't apply, move to order approval. For more information, see [Approving or rejecting orders](../concept/approving-rejecting-orders-som.md).
+If order enrichment tasks don't apply, move to order approval. For more information, see [Approving or rejecting orders](approving-rejecting-orders-som.md).
 

@@ -29,10 +29,10 @@ When you select **All** for a given category, you see all the records for that c
 
 Create a personal list by adding any records that interest you, like service offerings, roadmaps, projects, demands, ideas, contracts, incidents, team members, or teams. When you create a list, you can start it from an existing list or create your own list. After you create a list, you see them in the **My Lists** tab in the list module. After you create more than one list, you can select **Reorder** to help you organize your lists.
 
-**Parent Topic:**[Work with solution data in Digital Portfolio Management](../reference/dpm-working-with.md)
+**Parent Topic:**[Work with solution data in Digital Portfolio Management](dpm-working-with.md)
 
 **Related topics**  
 
 
-[Work with lists in Digital Portfolio Management](../task/dpm-list-modules.md)
+[Work with lists in Digital Portfolio Management](dpm-list-modules.md)
 

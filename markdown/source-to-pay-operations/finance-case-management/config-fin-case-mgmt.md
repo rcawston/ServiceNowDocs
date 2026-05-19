@@ -17,7 +17,7 @@ Plan and configure your implementation for Finance Case Management.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
--   **[Install Finance Case Management](../task/install-fin-case-mgmt.md)**  
+-   **[Install Finance Case Management](install-fin-case-mgmt.md)**  
 Install the Finance Case Management application \(sn\_fin\_ops\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store Store applications and plugins if they are not already installed.
 -   **[Configure Finance Operations Workspace](configuring-fin-ops-ws.md)**  
 Plan and configure your implementation for Finance Operations Workspace.

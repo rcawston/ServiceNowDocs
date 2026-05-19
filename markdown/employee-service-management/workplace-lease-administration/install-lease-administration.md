@@ -35,7 +35,7 @@ The following items are installed with Workplace Lease Administration:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Workplace Lease Administration](../reference/component-installed-lease-admin.md) and [Scripts installed with Workplace Lease Administration](../reference/scripts-lease-admin.md).
+For more information, see [Components installed with Workplace Lease Administration](component-installed-lease-admin.md) and [Scripts installed with Workplace Lease Administration](scripts-lease-admin.md).
 
 ## Procedure
 
@@ -52,5 +52,5 @@ For more information, see [Components installed with Workplace Lease Administrat
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configure Workplace Lease Administration](../concept/config-lease-administration.md)
+**Parent Topic:**[Configure Workplace Lease Administration](config-lease-administration.md)
 

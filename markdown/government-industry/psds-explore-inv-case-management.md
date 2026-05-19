@@ -76,5 +76,5 @@ Key personas of Investigative Case Management include:
 -   a Witness, who wants to be able to report a potential crime to an investigative agency. An investigator can create a case from a witness complaint.
 -   an Attorney, who prepare cases for court and advises on legal compliance and case strategy. An investigator can create a case based on information received from an Attorney's office.
 
-For more information on the personas and roles involved in Investigative Case Management, see [Investigative Case Management Personas](../reference/psds-data-model-icm-personas.md).
+For more information on the personas and roles involved in Investigative Case Management, see [Investigative Case Management Personas](psds-data-model-icm-personas.md).
 

@@ -30,11 +30,11 @@ Can view reports that are shared with them.
 
 ## Reporting access with ACL
 
-The report\_view access controls on tables and fields limits the ability to read, edit and create reports. Administrators can create other ACL rules. You need a role that gives you access to the data that is the subject of the report. For more information, see [Restrict report creation with an ACL rule](../task/t_RestrictRepCreationWAnACLRule.md) and [Report\_view access control](../concept/report-view-access-control.md).
+The report\_view access controls on tables and fields limits the ability to read, edit and create reports. Administrators can create other ACL rules. You need a role that gives you access to the data that is the subject of the report. For more information, see [Restrict report creation with an ACL rule](t_RestrictRepCreationWAnACLRule.md) and [Report\_view access control](report-view-access-control.md).
 
 **Note:** The Report Publisher \[report\_publisher\] and Report Alias Administrator \[report\_alias\_admin\] roles also exist, but support deactivated functions.
 
-**Parent Topic:**[Reporting reference](../concept/reporting-reference.md)
+**Parent Topic:**[Reporting reference](reporting-reference.md)
 
 ## Report user \[report\_user\]
 
@@ -151,5 +151,5 @@ None.
 
 ### Special considerations
 
-For more information, see [Administer table and field descriptions](../task/admin-table-field-descriptions.md#).
+For more information, see [Administer table and field descriptions](admin-table-field-descriptions.md#).
 

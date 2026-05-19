@@ -19,5 +19,5 @@ For example, when using the **input** or **say** workflow activities, you can sp
 
 The list of available languages is stored on the Notify Languages \[notify\_language\] table. By default, languages supported by all Notify telephony providers are available. You can add additional languages if they are supported by your specific telephony provider.
 
-**Parent Topic:**[Notify workflow activities](../../../administer/workflow-activities/concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 

@@ -45,5 +45,5 @@ A new Space is created and added right below the **My Space** section. You can a
 -   Create a Board to organize and manage work for your team or projects. See [Create a Board in CWM](create-boards-in-cwm.md).
 -   Share the Space with others on your team. See [Share a Space in CWM and manage sharing permissions](share-space-in-cwm.md).
 
-**Parent Topic:**[Collaborating with Spaces in CWM](../concept/cwm-spaces.md)
+**Parent Topic:**[Collaborating with Spaces in CWM](cwm-spaces.md)
 

@@ -56,10 +56,10 @@ sa\_metric.sensitive\_bounds\_sensitivity\_factor
 The number of standard deviations \(STDs\) from the mean metric value by which the system tests for sensitive bounds.Default: 2.0
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Metric Intelligence reference](../../metric-intelligence/reference/metric-intelligence-reference.md)
+</table>**Parent Topic:**[Metric Intelligence reference](metric-intelligence-reference.md)
 
 **Related topics**  
 
 
-[Metric bounds sensitivity](../concept/metric-bounds-sensitivity.md)
+[Metric bounds sensitivity](metric-bounds-sensitivity.md)
 

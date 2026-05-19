@@ -75,9 +75,9 @@ Following are the different modules within CA:
 
 [Pre-work for Continuous Authentication](pre-work-ca.md)
 
-[Activating Continuous Authentication](../task/activate-continuous-authentication.md)
+[Activating Continuous Authentication](activate-continuous-authentication.md)
 
-[Configuring Continuous Authentication](../task/configure-ca.md)
+[Configuring Continuous Authentication](configure-ca.md)
 
 [High Assurance session with Continuous Authentication](high-assurance-ca.md)
 

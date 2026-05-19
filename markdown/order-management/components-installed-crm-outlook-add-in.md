@@ -60,5 +60,5 @@ Associates emails to existing or new CRM entities using the ServiceNow CRM for O
 -   sn\_nb\_action.next\_best\_action\_user
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activity Management reference](../concept/activity-management-reference.md)
+</table>**Parent Topic:**[Activity Management reference](activity-management-reference.md)
 

@@ -85,7 +85,7 @@ Copy an existing subflow, and then customize it. Publish the custom subflow so t
 
 Include the modified subflow in an alert management rule to resolve alerts according to your customized requirements.
 
-**Parent Topic:**[Alert management rules for resolving alerts](../concept/alert-management-rule.md)
+**Parent Topic:**[Alert management rules for resolving alerts](alert-management-rule.md)
 
 **Related topics**  
 

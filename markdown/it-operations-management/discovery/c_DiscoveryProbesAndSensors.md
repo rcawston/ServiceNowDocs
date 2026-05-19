@@ -114,17 +114,17 @@ Uninterruptible Power Supplies \(UPS\)
 SNMP queries
 
 </td></tr></tbody>
-</table>-   **[List of Discovery probes](../reference/r_ListOfDiscoveryProbes.md)**  
+</table>-   **[List of Discovery probes](r_ListOfDiscoveryProbes.md)**  
 A wide variety of probes exist for the Discovery application to detect elements on your network.
--   **[Discovery sensors](../reference/r_Sensors.md#)**  
+-   **[Discovery sensors](r_Sensors.md#)**  
 Every probe in Discovery must have a corresponding sensor to process the data returned.
--   **[Discovery probe management](../reference/r_Probes.md)**  
+-   **[Discovery probe management](r_Probes.md)**  
 Several discovery probes and their associated sensors are included with Discovery. You rarely need to modify probes or sensors. But you might need to set parameters to control the behavior of a particular probe or align versions of customized probes.
--   **[Align versions of customized probes and sensors](../task/t_AlignVerCustProbeSens.md)**  
+-   **[Align versions of customized probes and sensors](t_AlignVerCustProbeSens.md)**  
 If you customized a probe or sensor and upgraded to a new version of an instance, you need to realign the versions of the customized probe and sensor to the most current version.
--   **[Discovery multiprobes and multisensors](../reference/r_MultiprobesIncludedWithDiscovery.md#)**  
+-   **[Discovery multiprobes and multisensors](r_MultiprobesIncludedWithDiscovery.md#)**  
 Multiprobes contain one or more simple probes configured to extract specific information from manageable devices by executing multiple queries with a single authentication.
--   **[Example custom Discovery probe and sensor: populate a CI with text file values](../../../script/server-scripting/task/t_CustomProbeTextFile.md)**  
+-   **[Example custom Discovery probe and sensor: populate a CI with text file values](t_CustomProbeTextFile.md)**  
 This custom Discovery probe helps you if you need to read a text file from a Windows computer and populate a CI in the CMDB with the values from the file.
 
 **Parent Topic:**[Using Discovery](using-discovery.md)

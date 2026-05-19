@@ -160,5 +160,5 @@ Brief description of the ad hoc task.
 
 The ad hoc task is added to the list of all tasks that you can view by navigating to **Workplace Core** &gt; **Workplace Tasks** &gt; **All**.
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 

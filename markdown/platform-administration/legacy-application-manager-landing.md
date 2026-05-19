@@ -21,15 +21,15 @@ Legacy Application Manager is being deprecated. Starting with Australia patch 1,
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
-A new Application Manager experience is available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all applications, plugins, installed applications, and available updates. For more information, see [Application Manager](../../../administer/application-manager/concept/application-manager.md).
+A new Application Manager experience is available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all applications, plugins, installed applications, and available updates. For more information, see [Application Manager](application-manager/application-manager.md).
 
 <table id="table_yyk_d4t_pdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Legacy Application Manager](../concept/exploring-legacy-application-manager.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Legacy Application Manager](exploring-legacy-application-manager.md)
 
 </td><td>
 
-[Using![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Using Legacy Application Manager](../task/using-legacy-application-manager.md)
+[Using![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Using Legacy Application Manager](using-legacy-application-manager.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -38,9 +38,9 @@ A new Application Manager experience is available. The new experience simplifies
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
--   **[Exploring Legacy Application Manager](../concept/exploring-legacy-application-manager.md)**  
+-   **[Exploring Legacy Application Manager](exploring-legacy-application-manager.md)**  
 The information in this section describes using the legacy or classic application manager experience. A new Application Manager experience is now available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all your licensed applications, plugins, installed applications, and available updates. For more information, see Application Manager.
--   **[Using Legacy Application Manager](../task/using-legacy-application-manager.md)**  
+-   **[Using Legacy Application Manager](using-legacy-application-manager.md)**  
 Use legacy application manager to request applications or manage entitlements from your ServiceNow instance.
 
 **Parent Topic:**[Administering applications](administering-applications.md)

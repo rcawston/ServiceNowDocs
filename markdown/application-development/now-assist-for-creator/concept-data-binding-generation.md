@@ -70,7 +70,7 @@ After Now Assist generates a binding, a preview appears in the component's prope
 **Related topics**  
 
 
-[Generate a data binding and formula](../task/generate-data-bindings-and-formulas.md)
+[Generate a data binding and formula](generate-data-bindings-and-formulas.md)
 
 [Use case: Generate a data binding and formula](use-case-data-binding-generation.md)
 

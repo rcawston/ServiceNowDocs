@@ -32,5 +32,5 @@ Role required: admin
 
 The scheduled job runs after the Service Graph Connectors, and the data used to create the nodes in the OT Network Map is populated.
 
-**Parent Topic:**[Setting up the OT Network Map](../concept/setting-up-ot-network-map.md)
+**Parent Topic:**[Setting up the OT Network Map](setting-up-ot-network-map.md)
 

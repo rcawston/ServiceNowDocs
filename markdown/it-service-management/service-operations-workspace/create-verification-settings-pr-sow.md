@@ -98,5 +98,5 @@ Parameters used by a verification to configure specific behaviors, like number o
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Configure the verification methods for service desk process in Service Operations Workspace](../concept/configuring-verification-methods-pr-sow.md)
+**Parent Topic:**[Configure the verification methods for service desk process in Service Operations Workspace](configuring-verification-methods-pr-sow.md)
 

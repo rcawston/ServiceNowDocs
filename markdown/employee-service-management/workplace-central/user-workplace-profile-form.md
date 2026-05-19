@@ -61,7 +61,7 @@ Workplace entity
 
 </td><td>
 
-Workplace entity that the user must be allocated to.For more information about workplace entity, see [Configure Workplace entity and entity types](../../workplace-service-delivery/concept/workplace-entity.md).
+Workplace entity that the user must be allocated to.For more information about workplace entity, see [Configure Workplace entity and entity types](../workplace-core/workplace-entity.md).
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Enable employee location privacy
 Location privacy setting for the workplace profile. This field is automatically set to **None** and can't be edited.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+</table>**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

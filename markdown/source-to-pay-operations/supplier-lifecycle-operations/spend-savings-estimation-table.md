@@ -43,5 +43,5 @@ The Spend Savings Estimation \[sn\_slm\_opt\_spend\_savings\_estimation\] table 
 
 For more information, see [Supplier Payment Optimization data model](supp-opt-data-model.md).
 
-**Parent Topic:**[Supplier Payment Optimization reference](../concept/supp-payment-opt-ref.md)
+**Parent Topic:**[Supplier Payment Optimization reference](supp-payment-opt-ref.md)
 

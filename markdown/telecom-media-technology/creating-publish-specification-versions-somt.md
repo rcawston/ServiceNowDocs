@@ -30,9 +30,9 @@ As a product catalog manager, you do the following actions when you create a ver
     -   Decomposition rules
     -   Quantity mappings
     -   Attribute propagation rules
-    **Note:** To learn more, see [Create and publish a specification version](../task/create-publish-new-specification-somt.md).
+    **Note:** To learn more, see [Create and publish a specification version](create-publish-new-specification-somt.md).
 
-3.  Create a product offering, and then publish it when you update your product catalog. To learn more, see [Create and publish a product offering version](../task/create-publish-product-offering-version-somt.md).
+3.  Create a product offering, and then publish it when you update your product catalog. To learn more, see [Create and publish a product offering version](create-publish-product-offering-version-somt.md).
 4.  Retire or archive old or unused specifications, and product offerings. To learn more, see [Retiring or archiving versioned specifications and product offerings](retiring-archiving-specifications-somt.md).
 
 ## Updates and validations that are performed when you create and publish a specification version

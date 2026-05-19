@@ -38,11 +38,11 @@ Top-level and dependent OR conditions can be used together. Filters using both t
 **Related topics**  
 
 
-[Create a filter in List](../task/t_CreatingFilters.md)
+[Create a filter in List](t_CreatingFilters.md)
 
-[Add related list conditions](../../using-lists-v3/task/create-related-list-query.md)
+[Add related list conditions](create-related-list-query.md)
 
-[Filter on multiple string values](../task/t_FilteringOnMultipleStringValues.md)
+[Filter on multiple string values](t_FilteringOnMultipleStringValues.md)
 
-[Dynamic operators](../reference/r_UsingTheDynamicOperator.md)
+[Dynamic operators](r_UsingTheDynamicOperator.md)
 

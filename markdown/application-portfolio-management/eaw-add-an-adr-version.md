@@ -60,7 +60,7 @@ On selecting a particular version, you’re directed to the ADR artifact content
 
 ![ADR artifact content page with the version drop-down highlighted](../../image/eaw-image/adr-version-dropdown.png)
 
-**Parent Topic:**[Manage architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-manage-adr.md)
+**Parent Topic:**[Manage architectural decision records \(ADR\)](eaw-manage-adr.md)
 
 **Related topics**  
 

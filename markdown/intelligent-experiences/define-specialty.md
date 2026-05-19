@@ -19,7 +19,7 @@ Role required: sn\_aia.admin
 
 ## About this task
 
-The first step of the guided setup enables you to define the fundamentals of the AI agent. The description, AI agent role, and list of steps fields are used by the LLM to understand how to use the AI agent, by itself or as part of an agentic workflow. Descriptions, AI agent roles, and list of steps should be clear and well-defined. For guidelines for writing these fields, see [Writing effectively for agentic AI](../concept/gg-creating-aia.md). For an example AI agent, see [Example AI agent](../concept/example-aia.md).
+The first step of the guided setup enables you to define the fundamentals of the AI agent. The description, AI agent role, and list of steps fields are used by the LLM to understand how to use the AI agent, by itself or as part of an agentic workflow. Descriptions, AI agent roles, and list of steps should be clear and well-defined. For guidelines for writing these fields, see [Writing effectively for agentic AI](gg-creating-aia.md). For an example AI agent, see [Example AI agent](example-aia.md).
 
 ![AI Agent Guided Setup showcasing the different stages of configuring an AI agent.](../image/create-aia-new1.png)
 
@@ -41,7 +41,7 @@ The first step of the guided setup enables you to define the fundamentals of the
 
 4.  Craft a list of steps.
 
-    You can also use an old version of a list of steps. Select **View versions** for a full list of previous versions of the field. See [Version control](../concept/version-control.md) for more information.
+    You can also use an old version of a list of steps. Select **View versions** for a full list of previous versions of the field. See [Version control](version-control.md) for more information.
 
 5.  Determine unsupported model providers.
 
@@ -51,7 +51,7 @@ The first step of the guided setup enables you to define the fundamentals of the
 
     Make your AI agent discoverable by turning on the **Allow third-party to access this AI agent** toggle button that enables you to use your ServiceNow AI agent on other platforms. You can still use it on your ServiceNow instances as well.
 
-    See [ServiceNow agents as secondary agents](../concept/secondary-agent.md) for more information about configuring agents to use on other AI platforms.
+    See [ServiceNow agents as secondary agents](secondary-agent.md) for more information about configuring agents to use on other AI platforms.
 
 7.  Configure long-term memory options.
 
@@ -74,5 +74,5 @@ You have defined the basics of your AI agent.
 
 ## What to do next
 
-Select **Save and continue** to move to the next step, [Add tools and information](../concept/add-tool-aia.md).
+Select **Save and continue** to move to the next step, [Add tools and information](add-tool-aia.md).
 

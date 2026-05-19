@@ -23,7 +23,7 @@ This feature is accessible to customers with both Process Mining and GenAI.
 
 ## Transition Work Notes Analysis skill
 
-Now Assist for Process Mining includes the Transition Work Notes Analysis skill. This skill must be activated to use Now Assist for Process Mining to analyze work notes. For more information, see [Activate work notes analysis skill](../task/activate-na-skill.md).
+Now Assist for Process Mining includes the Transition Work Notes Analysis skill. This skill must be activated to use Now Assist for Process Mining to analyze work notes. For more information, see [Activate work notes analysis skill](activate-na-skill.md).
 
 **Note:** You can use the Now Assist feature for work notes analysis with 5-50 eligible work notes. If there are less than 25 eligible work notes, the system will not run clustering, but will put all the work notes into one LLM call, otherwise clustering will be performed before calling the LLM.
 
@@ -37,11 +37,11 @@ Once activated and configured, Now Assist for Process Mining uses an LLM to:
 
 ## Process Inefficiency Highlights skill
 
-Now Assist for Process Mining includes the Process Inefficiency Highlights skill. This skill must be activated to use Now Assist for Process Mining to generate highlights for improvement opportunities. For more information, see [Activate Process Inefficiency Highlights skill](../task/activate-highlight-skills.md).
+Now Assist for Process Mining includes the Process Inefficiency Highlights skill. This skill must be activated to use Now Assist for Process Mining to generate highlights for improvement opportunities. For more information, see [Activate Process Inefficiency Highlights skill](activate-highlight-skills.md).
 
 ## Intent and Activity Analysis skill
 
-Now Assist for Process Mining includes the Intent and Activity Analysis skill. This skill must be activated to use Now Assist for Process Mining to understand the intent of the requester and gain insight into the related tasks and actions needed to complete the tasks. For more information, see [Activate Process Inefficiency Highlights skill](../task/activate-highlight-skills.md).
+Now Assist for Process Mining includes the Intent and Activity Analysis skill. This skill must be activated to use Now Assist for Process Mining to understand the intent of the requester and gain insight into the related tasks and actions needed to complete the tasks. For more information, see [Activate Process Inefficiency Highlights skill](activate-highlight-skills.md).
 
 ## What to explore next
 

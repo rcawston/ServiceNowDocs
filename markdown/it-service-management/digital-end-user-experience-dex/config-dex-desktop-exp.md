@@ -19,13 +19,13 @@ Set up Desktop Assistant to give end users quick access to self-service and diag
 
 You must have the Desktop Assistant administrator role \[sn\_dex\_desktop.admin\] role to configure Desktop Assistant.
 
-1.  [Download and install Desktop Assistant](../task/download-desktop-experience.md).
-2.  [Configure Open Authorization details](../task/configure-oauth-details.md).
-3.  [Customize Desktop Assistant home page](../task/change-home-page-title.md).
-4.  [Enable or disable notifications](../task/enable-notification.md).
-5.  [Enable Virtual Agent or chat](../task/enable-va-chat.md).
-6.  [Map a card to a section](../task/map-card-section.md) or [Delete a card from the Desktop Assistant home page](../task/delete-card.md).
-7.  [Add a section in the Desktop Assistant home page](../task/add-home-page-section.md) or [Delete a section from the Desktop Assistant home page](../task/delete-home-page-section.md).
+1.  [Download and install Desktop Assistant](download-desktop-experience.md).
+2.  [Configure Open Authorization details](configure-oauth-details.md).
+3.  [Customize Desktop Assistant home page](change-home-page-title.md).
+4.  [Enable or disable notifications](enable-notification.md).
+5.  [Enable Virtual Agent or chat](enable-va-chat.md).
+6.  [Map a card to a section](map-card-section.md) or [Delete a card from the Desktop Assistant home page](delete-card.md).
+7.  [Add a section in the Desktop Assistant home page](add-home-page-section.md) or [Delete a section from the Desktop Assistant home page](delete-home-page-section.md).
 
 **Note:** If you experience issues with Desktop Assistant, troubleshoot them by accessing the logs at these locations:
 

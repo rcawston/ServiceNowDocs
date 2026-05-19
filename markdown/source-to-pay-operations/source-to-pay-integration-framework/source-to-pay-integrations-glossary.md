@@ -18,14 +18,14 @@ Learn about the terms and concepts used in Source-to-Pay \(S2P\) integrations.
 
 Glossary terms are grouped alphabetically.
 
-[A](../../../Chunk1446682442.md#) \| [C](source-to-pay-integrations-glossary.md#) \| [D](source-to-pay-integrations-glossary.md#) \| [E](source-to-pay-integrations-glossary.md#) \| [I](source-to-pay-integrations-glossary.md#) \| [M](source-to-pay-integrations-glossary.md#) \| [P](source-to-pay-integrations-glossary.md#) \| [R](source-to-pay-integrations-glossary.md#) \| [S](source-to-pay-integrations-glossary.md#) \| [T](source-to-pay-integrations-glossary.md#) \| [W](source-to-pay-integrations-glossary.md#)
+[A](../source-to-pay-operations/Chunk1446682442.md#) \| [C](source-to-pay-integrations-glossary.md#) \| [D](source-to-pay-integrations-glossary.md#) \| [E](source-to-pay-integrations-glossary.md#) \| [I](source-to-pay-integrations-glossary.md#) \| [M](source-to-pay-integrations-glossary.md#) \| [P](source-to-pay-integrations-glossary.md#) \| [R](source-to-pay-integrations-glossary.md#) \| [S](source-to-pay-integrations-glossary.md#) \| [T](source-to-pay-integrations-glossary.md#) \| [W](source-to-pay-integrations-glossary.md#)
 
-**Parent Topic:**[Source-to-Pay integrations reference](../reference/s2p-integrations-reference.md)
+**Parent Topic:**[Source-to-Pay integrations reference](s2p-integrations-reference.md)
 
 **Related topics**  
 
 
-[Source-to-Pay integrations with Oracle reference](../reference/s2p-integration-oracle-reference.md)
+[Source-to-Pay integrations with Oracle reference](s2p-integration-oracle-reference.md)
 
 ## C
 

@@ -47,5 +47,5 @@ If your CPQ SF Managed Package was installed in June 2022 or later, follow these
 
 [Set up a configurable product in a headless environment](cpq-set-up-a-configurable-product-in-a-headless-environment.md)
 
-[Set up blueprints](../concept/blueprints_101.md)
+[Set up blueprints](blueprints_101.md)
 

@@ -56,5 +56,5 @@ Role required: admin
     Do not delete the base system views.
 
 
-**Parent Topic:**[View management](../concept/view-management-overview.md)
+**Parent Topic:**[View management](view-management-overview.md)
 

@@ -41,13 +41,13 @@ When a source stockroom doesn’t have enough items in stock, you can specify mu
 
 To source a requested software license, you must assign the rights of the software license to a user or a device so that they’re authorized to use the software.
 
--   **[Create a purchase order from a request](../task/t_CreatingPurchOrderFromRequest.md)**  
+-   **[Create a purchase order from a request](t_CreatingPurchOrderFromRequest.md)**  
 You can create a purchase order directly from a request. This approach enables procurement managers to obtain items and fulfill requests from the Service Catalog. You can create multiple purchase orders from a request.
--   **[Create a transfer order from a request](../task/t_CreatingTransferOrderFromReq.md)**  
+-   **[Create a transfer order from a request](t_CreatingTransferOrderFromReq.md)**  
 You can create a transfer order directly from a request to source hardware items and consumables from stockrooms.
--   **[Source requests from local stockrooms](../task/consume-local-asset-stock.md)**  
+-   **[Source requests from local stockrooms](consume-local-asset-stock.md)**  
 Get visibility into local stockrooms at the time of sourcing requests.
--   **[Add an assignment from a request](../task/t_AddingAssignmentsFromReq.md)**  
+-   **[Add an assignment from a request](t_AddingAssignmentsFromReq.md)**  
 You can add assignments directly from a request to source rights from software licenses.
 
 **Parent Topic:**[Procurement](c_Procurement.md)
@@ -55,13 +55,13 @@ You can add assignments directly from a request to source rights from software l
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](r_ProcurementRoles.md)
 
 [Procurement workflows](c_ProcurementWorkflows.md)
 
-[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)
+[Use the Procurement Overview module](t_UsingTheProcurementOverviewModule.md)
 
-[Activate Procurement](../task/t_ActivateProcurement.md)
+[Activate Procurement](t_ActivateProcurement.md)
 
 [Procurement purchase order management for assets](c_UseProcurement.md)
 
@@ -71,11 +71,11 @@ You can add assignments directly from a request to source rights from software l
 
 [Manage transfer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_TransferOrders.md)
 
-[Track a request from the service catalog](../task/t_TrackReqFromServiceCatalog.md)
+[Track a request from the service catalog](t_TrackReqFromServiceCatalog.md)
 
-[Models](../../product-catalog/concept/c_Models.md)
+[Models](../product-catalog/c_Models.md)
 
-[Bundled models](../../product-catalog/concept/c_CreatingBundledModels.md)
+[Bundled models](../product-catalog/c_CreatingBundledModels.md)
 
-[Source requests from local stockrooms](../task/consume-local-asset-stock.md)
+[Source requests from local stockrooms](consume-local-asset-stock.md)
 

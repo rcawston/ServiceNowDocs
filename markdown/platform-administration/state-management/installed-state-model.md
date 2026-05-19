@@ -48,7 +48,7 @@ Defines how each record in the target table transitions to \(the enter condition
 
 State Model adds the following role.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md) and contact your account representative.
 
 |State Model Administrator|Description|Contains roles|
 |-------------------------|-----------|--------------|

@@ -15,10 +15,10 @@ The Windows connector enables you to perform various actions on the Windows appl
 
 You must first use, configure, and then expose the methods in the Windows connector to use its methods.
 
--   To use the Windows connector, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   To configure the Windows connector, see [Configure Windows connector](../task/configure-windows-connector.md).
--   To expose the methods, see [Use connector method](../task/use-connector-method.md).
--   To use the methods, see [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+-   To use the Windows connector, see [Use a connector in RPA Desktop Design Studio](use-connector.md).
+-   To configure the Windows connector, see [Configure Windows connector](configure-windows-connector.md).
+-   To expose the methods, see [Use connector method](use-connector-method.md).
+-   To use the methods, see [Use a component in RPA Desktop Design Studio](configure-components.md).
 
 Windows connector methods are available at the following levels:
 
@@ -34,11 +34,11 @@ Windows connector methods are available at the following levels:
 
 **Important:** Windows connector uses Microsoft UI Automation Framework internally to interact with applications built for Windows desktop such as Win32, WPF platforms. Any known issue or limitation published by Microsoft for this framework are applicable.
 
--   **[Configure Windows connector](../task/configure-windows-connector.md)**  
+-   **[Configure Windows connector](configure-windows-connector.md)**  
 Configure the Windows connector to access its methods and build automation on a Windows application. It provides methods at different levels and you must first configure it to expose methods at all levels.
--   **[Windows Connector methods](../reference/connectors-windows-methods.md)**  
+-   **[Windows Connector methods](connectors-windows-methods.md)**  
 The Windows methods in RPA Desktop Design Studio interact with the Windows applications to perform various tasks. The connector provides methods at different levels of the Windows applications.
--   **[Parameters of the Windows connector methods](../reference/method-parameter-windows.md)**  
+-   **[Parameters of the Windows connector methods](method-parameter-windows.md)**  
 Learn about the parameters of the Windows connector methods in RPA Desktop Design Studio.
 
 **Parent Topic:**[Connectors](connectors.md)

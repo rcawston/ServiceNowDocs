@@ -583,11 +583,11 @@ Not applicable. This is the last state.
 
 [Pipeline project record tabs and UI actions](pipeline-form-tabs-actions.md)
 
-[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
-[Domain separation and Sourcing and Procurement Operations](../concept/psm-domain-separation.md)
+[Domain separation and Sourcing and Procurement Operations](psm-domain-separation.md)
 
-[Sourcing and Procurement Operations glossary](../concept/spo-glossary.md#)
+[Sourcing and Procurement Operations glossary](spo-glossary.md#)
 
 [Purchase requisition](purchase-requisition.md)
 

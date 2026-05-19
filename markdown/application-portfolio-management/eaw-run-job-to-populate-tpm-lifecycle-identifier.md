@@ -42,14 +42,14 @@ On selecting a TPM lifecycle record identifier, more information on the TPM life
 
 The missing TPM lifecycle record identifiers are generated for the older TPM lifecycle records.
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 
 **Related topics**  
 
 
 [Activate the Technology Portfolio Management \(TPM\) plugin](eaw-install-tpm.md)
 
-[Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-tpm.md)
+[Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](eaw-tpm.md)
 
 [Update TPM data for a business application or application service](update-tpm-data.md)
 

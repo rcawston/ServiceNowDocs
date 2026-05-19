@@ -52,5 +52,5 @@ To operate appointment booking reminders, activate the **Appointment Booking Rem
 11. Select **Update** to add the appointment reminder configuration.
 
 
-**Parent Topic:**[Configure Walk-up Experience appointment booking](../concept/walkup-appointment-booking-config.md)
+**Parent Topic:**[Configure Walk-up Experience appointment booking](walkup-appointment-booking-config.md)
 

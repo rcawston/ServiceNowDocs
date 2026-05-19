@@ -432,5 +432,5 @@ Container Remediation Task \[sn\_vul\_container\_vulnerability\] table.
 -   ignore\_expiration\_for\_risk\_reduction\_dt\_tm
 -   ignore\_expiration\_dt\_tm
 
-**Parent Topic:**[Unified Security Exposure Management reference](../concept/unified-security-exposure-management-reference.md)
+**Parent Topic:**[Unified Security Exposure Management reference](unified-security-exposure-management-reference.md)
 

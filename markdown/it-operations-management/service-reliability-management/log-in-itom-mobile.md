@@ -61,8 +61,8 @@ Tap the QR code icon and scan the QR code.
 
 Visit these links to start using ITOM Mobile Agent:
 
--   [Work with alerts in ITOM mobile](../concept/work-itom-mobile-alerts.md)
--   [Managing incidents and major incidents on mobile](../reference/itom-mobile-incidents.md)
--   [Working with On-Call Scheduling on mobile](../reference/itom-mobile-on-call-scheduling.md)
--   [Working with tasks on mobile](../reference/itom-mobile-tasks.md)
+-   [Work with alerts in ITOM mobile](work-itom-mobile-alerts.md)
+-   [Managing incidents and major incidents on mobile](itom-mobile-incidents.md)
+-   [Working with On-Call Scheduling on mobile](itom-mobile-on-call-scheduling.md)
+-   [Working with tasks on mobile](itom-mobile-tasks.md)
 

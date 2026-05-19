@@ -32,7 +32,7 @@ Role required: it\_demand\_user
 
 2.  On the Demand form, fill in the **Name**, **Description**, and **Business case** fields.
 
-    For a description of the field names, see [Demand form](../reference/demand-form.md).
+    For a description of the field names, see [Demand form](demand-form.md).
 
 3.  Select **Save**.
 
@@ -54,20 +54,20 @@ The similar demands identified by Now Assist are displayed in the top banner and
 
 View the full details of the identified similar demand records by selecting the demand number link from the Similar Demands related list.
 
-**Parent Topic:**[Use Demand Management](../reference/r_UsingDemandManagement.md)
+**Parent Topic:**[Use Demand Management](r_UsingDemandManagement.md)
 
 **Related topics**  
 
 
-[Assess demands](../concept/c_AssessingDemands.md)
+[Assess demands](c_AssessingDemands.md)
 
 [Create a demand](t_CreatingDemands.md)
 
 [View demands](t_ViewDemands.md)
 
-[Add details to demands](../concept/c_EnhancingDemands.md)
+[Add details to demands](c_EnhancingDemands.md)
 
-[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 
 [Reset a demand to Draft state](reset-demand-to-draft-state.md)
 
@@ -77,7 +77,7 @@ View the full details of the identified similar demand records by selecting the 
 
 [Train the similarity solution for Demand Management to find similar demands](train-similarity-solution-dm.md)
 
-[PPM PIWB template - Find similar demands](../../itbm-PI-workbench/task/ppm-piwb-demand.md)
+[PPM PIWB template - Find similar demands](ppm-piwb-demand.md)
 
 [Summarize demands with demand summarization skill](demand-summary-demand-classic.md)
 

@@ -20,7 +20,7 @@ For your convenience, ServiceNow provides two transform maps for your use:
 -   imp\_facilities\_data
 -   imp\_facilities\_level\_data
 
-For instructions, see [Run transform to update data](../task/t_RunTransform.md).
+For instructions, see [Run transform to update data](t_RunTransform.md).
 
-**Parent Topic:**[Run transform to update data](../task/t_RunTransform.md)
+**Parent Topic:**[Run transform to update data](t_RunTransform.md)
 

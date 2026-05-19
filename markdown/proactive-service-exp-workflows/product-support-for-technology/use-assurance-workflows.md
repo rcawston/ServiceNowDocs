@@ -23,15 +23,15 @@ An escalation can be triggered when an incident is created with the appropriate 
 Learn how your Technical Support teams \(e,g. Cloud Ops, Server, or Network operations teams\) can use the Operations Account 360 view in the Proactive Service Experience Workflows application to get insight about your customer's or partner's accounts.
 -   **[Auto-creation of cases and updates from incidents](psew-auto-creation-case.md)**  
 Cases are created from the incidents.
--   **[Diagnose and resolve a change request](../task/diagnose-resolve-case-change-request.md)**  
+-   **[Diagnose and resolve a change request](diagnose-resolve-case-change-request.md)**  
 As a customer service agent, review, diagnose, resolve, and close a change request for the service-related issue experienced by the customer.
--   **[Create a case from a change request](../task/psew-impact-change.md)**  
+-   **[Create a case from a change request](psew-impact-change.md)**  
 Create a case from a change request in Proactive Service Experience Workflows so that you can notify your customers about a service outage and its resolution after the change implementation is complete.
 -   **[About messages used in escalation workflows in Proactive Service Experience Workflows](psew-about-msgs.md)**  
 Multiple messages that are used within the incident escalation flows are available with the base Proactive Service Experience Workflows application.
--   **[Diagnose and resolve an incident](../task/diagnose-reslove-incident-psew.md)**  
+-   **[Diagnose and resolve an incident](diagnose-reslove-incident-psew.md)**  
 As a customer service agent, review, diagnose, and resolve, and close an incident for the service-related issue experienced by the customer.
--   **[Run diagnostics tests for a CI or a service](../task/diagnose-resolve-cmdb-ci.md)**  
+-   **[Run diagnostics tests for a CI or a service](diagnose-resolve-cmdb-ci.md)**  
 As a customer service agent, review, diagnose, resolve, and close a service case for the service-related issue experienced by the customer.
 
 **Parent Topic:**[Using Product Support for Technology](use-product-support-technology.md)

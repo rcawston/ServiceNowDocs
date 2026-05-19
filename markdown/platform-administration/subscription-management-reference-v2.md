@@ -17,7 +17,7 @@ Reference topics provide information about subscription types, meters, and domai
 Subscriptions to ServiceNow applications come in different types. The type of subscription determines the allocation of users, access to applications, and custom application and table entitlements.
 -   **[Subscription form](subscription-form-v2.md)**  
 The Subscription form contains important information about your subscription.
--   **[User sets and groups in Subscription Management](../concept/subscription-user-sets-v2.md)**  
+-   **[User sets and groups in Subscription Management](subscription-user-sets-v2.md)**  
 Subscription Management uses groups \(previously user sets\) to provide entitlement to sets of users.
 -   **[Components installed with Subscription Management](installed-with-subscription-management.md)**  
 Several components are installed with activation of the Subscription Management plugin \(com.glide.subscription\_management\), including user roles and tables.

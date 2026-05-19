@@ -15,11 +15,11 @@ You can use JavaScript APIs to extend application server and client functionalit
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Scripts![](../../../reuse/icons/brand-icons/bus-start-developing.svg) Extend application server and client functionality.](../../../script/topic/c_Script.md)
+[Scripts![](../../../reuse/icons/brand-icons/bus-start-developing.svg) Extend application server and client functionality.](scripts/c_Script.md)
 
 </td><td>
 
-[Web services ![](../../../reuse/icons/brand-icons/bus-rocketship.svg) Communicate between ServiceNow and third-party applications.](../../../integrate/web-services/reference/r_AvailableWebServices.md)
+[Web services ![](../../../reuse/icons/brand-icons/bus-rocketship.svg) Communicate between ServiceNow and third-party applications.](web-services/r_AvailableWebServices.md)
 
 </td></tr></tbody>
 </table>## Scripts

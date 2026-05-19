@@ -20,15 +20,15 @@ Now Assist for RPA Hub is supported from Yokohama release 12.0.2.
 
 ## Supported user interfaces
 
-To build automations using Now Assist, install the Now Assist for RPA Hub and then activate the RPA bot generation skill. For more information, see [Configure Now Assist for RPA Hub](../task/configure-now-assist-rpa-hub.md).
+To build automations using Now Assist, install the Now Assist for RPA Hub and then activate the RPA bot generation skill. For more information, see [Configure Now Assist for RPA Hub](configure-now-assist-rpa-hub.md).
 
 The Now Assist for RPA Hub application includes the skills that are listed in the following table.
 
 |Interface|Skill supported|
 |---------|---------------|
-|RPA Desktop Design Studio - [Create an automation with Now Assist](../task/create-automation-now-assist.md)|RPA bot generation|
-|RPA Desktop Design Studio - [Create an activity with Now Assist](../task/create-activity-now-assist.md)|
-|RPA Desktop Design Studio - [Build an automation with Now Assist](../task/build-automation-now-assist.md)|
+|RPA Desktop Design Studio - [Create an automation with Now Assist](create-automation-now-assist.md)|RPA bot generation|
+|RPA Desktop Design Studio - [Create an activity with Now Assist](create-activity-now-assist.md)|
+|RPA Desktop Design Studio - [Build an automation with Now Assist](build-automation-now-assist.md)|
 
 ## Licensing requirements
 

@@ -25,9 +25,9 @@ You can use version 2 of the IBM License Metric Tool \(ILMT\) and BigFix Invento
 You can use version 1 of the IBM License Metric Tool \(ILMT\) and BigFix Inventory integration APIs to create a connection between your IBM servers and the ServiceNow AI Platform.
 -   **[Setting up an IBM License Metric Tool \(ILMT\) or BigFix Inventory integration using HTTPS](setting-up-ibm-ilmt.md#)**  
 You can set up an IBM License Metric Tool \(ILMT\) or BigFix Inventory integration for IBM compliance reporting.
--   **[Create a connection to ILMT or BigFix Inventory](../task/set-up-ibm-platform.md)**  
+-   **[Create a connection to ILMT or BigFix Inventory](set-up-ibm-platform.md)**  
 If you're using an HTTP connection or you've finished the initial configuration for HTTPS, establish a connection between your IBM server and the ServiceNow AI Platform.
--   **[Validate your ILMT connection health](../task/validate-ilmt-connection-health.md)**  
+-   **[Validate your ILMT connection health](validate-ilmt-connection-health.md)**  
 Validate the health of your ILMT connections to help improve the success of each connection. Use the results to evaluate how you can resolve unsuccessful connections, such as adjusting the connection response time or fixing errors related to invalid hardware serial numbers.
 
 **Parent Topic:**[Software Asset Management publisher pack for IBM](ibm-publisher-pack.md)

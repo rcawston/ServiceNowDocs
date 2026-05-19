@@ -21,7 +21,7 @@ Role required: admin, sn\_task\_recommend.task\_rec\_admin
 
 ## About this task
 
-Some predefined recommendation criteria are provided for you. For more information, see [Predefined recommendation criteria](../reference/fsm-task-recommendation-components.md#).
+Some predefined recommendation criteria are provided for you. For more information, see [Predefined recommendation criteria](../fsm-task-recommendation-components.md#).
 
 ## Procedure
 
@@ -51,7 +51,7 @@ Some predefined recommendation criteria are provided for you. For more informati
     ruleResult = TaskRecommendationFSMUtil.parseRuleResult(ruleProcessResult, "Distance from task");
     ```
 
-    For information about custom script requirements, see [Providing a script for custom task recommendation criteria](../reference/script-guidelines-recommendation-criteria.md).
+    For information about custom script requirements, see [Providing a script for custom task recommendation criteria](script-guidelines-recommendation-criteria.md).
 
 5.  Click **Submit**.
 

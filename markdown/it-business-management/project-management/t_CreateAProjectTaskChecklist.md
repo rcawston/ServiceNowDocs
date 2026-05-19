@@ -40,7 +40,7 @@ After you create a checklist on a project task, you can save it as a template an
 **Related topics**  
 
 
-[Project task checklists](../concept/c_project-task-checklists.md)
+[Project task checklists](c_project-task-checklists.md)
 
 [Save a checklist as a template](t_SaveAChecklistAsATemplate.md)
 

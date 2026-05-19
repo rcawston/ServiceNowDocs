@@ -88,7 +88,7 @@ Use the formatting tools in the **Body** to apply formatting options, such as bo
  **Note:**
 
 -   Jelly and CSS Styling are not supported.
--   You can also use [Document template scripts](../concept/document-template-scripts.md) to dynamically change the text in the HTML body.
+-   You can also use [Document template scripts](document-template-scripts.md) to dynamically change the text in the HTML body.
 
 
 </td></tr><tr><td>

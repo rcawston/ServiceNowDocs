@@ -41,5 +41,5 @@ Commands work only for tables you are permitted to access.
 2.  In Core UI, press the Enter key.
 
 
-**Parent Topic:**[Common UI elements](../../../use/common-ui-elements/topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](p_CommonUIElements.md)
 

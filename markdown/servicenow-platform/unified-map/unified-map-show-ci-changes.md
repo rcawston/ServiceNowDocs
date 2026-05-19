@@ -26,7 +26,7 @@ Role required:
 
 ## About this task
 
-Changes are also indicated on the timeline. For more information, see [Viewing related items on the Unified Map timeline](../concept/unified-map-timeline-working-on.md).
+Changes are also indicated on the timeline. For more information, see [Viewing related items on the Unified Map timeline](unified-map-timeline-working-on.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ Changes are also indicated on the timeline. For more information, see [Viewing r
 **Related topics**  
 
 
-[Viewing related items on the Unified Map timeline](../concept/unified-map-timeline-working-on.md)
+[Viewing related items on the Unified Map timeline](unified-map-timeline-working-on.md)
 

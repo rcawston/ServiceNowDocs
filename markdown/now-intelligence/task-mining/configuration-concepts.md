@@ -30,15 +30,15 @@ The process to categorize activities is as follows:
 
 1.  A Task Mining analyst mines a sample of data of the applications and windows used in your project. Starting with mined data makes categorization easier as you have the exact values used to categorize activities already available in the data.
 
-    For more information, see [Run a mining job](../task/mine-project-data.md).
+    For more information, see [Run a mining job](mine-project-data.md).
 
 2.  The Task Mining power user creates categorization rules with fixed order values that determine how data from apps and windows is shown on dashboards.
 
-    For more information, see [Categorize workstation activities to simplify analysis](../task/define-default-categorization-rules.md).
+    For more information, see [Categorize workstation activities to simplify analysis](define-default-categorization-rules.md).
 
 3.  The Task Mining analyst previews the analysis to see how the collected data is visualized and handles requests.
 
-    For more information, see [Refine the presentation of your data](../task/preview-data-based-on-categorization-rules.md).
+    For more information, see [Refine the presentation of your data](preview-data-based-on-categorization-rules.md).
 
 4.  The Task Mining power user adjusts categorization rules. Applications and application categories are added and modified to provide more detail.
 5.  A Task Mining analyst mines the project data again.
@@ -70,7 +70,7 @@ Organizing your activities with categories and application names adds context to
 **Related topics**  
 
 
-[Categorize workstation activities to simplify analysis](../task/define-default-categorization-rules.md)
+[Categorize workstation activities to simplify analysis](define-default-categorization-rules.md)
 
-[Refine the presentation of your data](../task/preview-data-based-on-categorization-rules.md)
+[Refine the presentation of your data](preview-data-based-on-categorization-rules.md)
 

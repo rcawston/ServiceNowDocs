@@ -24,5 +24,5 @@ Alert types define the ServiceNow® Performance Analytics \(PA\) thresholds used
 
 A user with the pa\_admin role can define additional alert types. For information about using Performance Analytics, see [Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-overview.md).
 
-**Parent Topic:**[Safe Workplace Dashboard](../concept/safe-workplace-dashboard.md)
+**Parent Topic:**[Safe Workplace Dashboard](safe-workplace-dashboard.md)
 

@@ -30,7 +30,7 @@ Role required: sn\_hr\_core.admin
     **Note:** The COEs available to you may differ depending on the HR package you have.
 
     -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
-    -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](../concept/hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
+    -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
     -   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
     -   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
 4.  Fill in the fields on the form.
@@ -65,7 +65,7 @@ Case type
 
 </td><td>
 
-Name of the HR Center of Excellence \(COE\) that the corresponding HR service and record producer are categorized under. **Note:** The COEs are organized around functional disciplines and are extensions of the HR Case \[sn\_hr\_core\_case\] table. To learn more, see [HR service categorization](../concept/hr-service-categorization.md).
+Name of the HR Center of Excellence \(COE\) that the corresponding HR service and record producer are categorized under. **Note:** The COEs are organized around functional disciplines and are extensions of the HR Case \[sn\_hr\_core\_case\] table. To learn more, see [HR service categorization](hr-service-categorization.md).
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Topic Category
 
 </td><td>
 
-Name of the HR topic category that the corresponding HR service and record producer are categorized under.**Note:** The HR topic category is the first-level of categorization for HR services. To learn more, see [HR service categorization](../concept/hr-service-categorization.md).
+Name of the HR topic category that the corresponding HR service and record producer are categorized under.**Note:** The HR topic category is the first-level of categorization for HR services. To learn more, see [HR service categorization](hr-service-categorization.md).
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ Topic Detail
 
 </td><td>
 
-Name of the HR topic detail that the corresponding HR service and record producer are categorized under.**Note:** The HR topic detail is the second-level of categorization for HR services. To learn more, see [HR service categorization](../concept/hr-service-categorization.md).
+Name of the HR topic detail that the corresponding HR service and record producer are categorized under.**Note:** The HR topic detail is the second-level of categorization for HR services. To learn more, see [HR service categorization](hr-service-categorization.md).
 
 </td></tr><tr><td>
 
@@ -109,9 +109,9 @@ Default priority of the HR catalog item.
 
 The creation of an HR catalog item automatically creates a corresponding HR service, record producer \(synonymous to HR catalog item\), and HR case template. Configure the record producer and HR case template before you publish the HR catalog item to the HR service catalog.
 
-**Parent Topic:**[HR catalog item configuration](../concept/hr-catalog-item-configuration.md)
+**Parent Topic:**[HR catalog item configuration](hr-catalog-item-configuration.md)
 
-**Previous topic:**[HR catalog item configuration](../concept/hr-catalog-item-configuration.md)
+**Previous topic:**[HR catalog item configuration](hr-catalog-item-configuration.md)
 
 **Next topic:**[Edit the record producer for an HR catalog item](edit-hr-record-producer-for-hr-catalog-item.md)
 

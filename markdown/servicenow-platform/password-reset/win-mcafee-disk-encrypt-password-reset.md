@@ -53,5 +53,5 @@ You use ePolicy Orchestrator \(ePO\) to enable McAfee MDE 7.2 on a Windows deskt
 7.  Restart the computer.
 
 
-**Parent Topic:**[Installing and configuring Password Reset Windows Application](../concept/install-configure-password-reset-windows-app.md)
+**Parent Topic:**[Installing and configuring Password Reset Windows Application](install-configure-password-reset-windows-app.md)
 

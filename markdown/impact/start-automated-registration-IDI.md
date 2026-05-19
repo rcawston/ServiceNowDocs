@@ -27,7 +27,7 @@ Role required: impact app admin and impact admin \(IDI\)
 
 3.  Select **Learn about registering your instance** to read an overview of these steps.
 
-    See [Configure the Impact Store Application](../concept/configuring-impact-platform.md) for a summary of the configuration steps.
+    See [Configure the Impact Store Application](configuring-impact-platform.md) for a summary of the configuration steps.
 
 4.  **Mark as Complete** to continue.
 
@@ -151,7 +151,7 @@ Inbound status \(read-only\)
 
 [Verify Impact data connection](verify-impact-data-connection.md)
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](configuring-impact-platform.md)
 
 **Previous topic:**[Run your first scan with the Scan Engine](run-scan-engine.md)
 

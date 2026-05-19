@@ -107,7 +107,7 @@ The following table lists the roles that are required for the components in the 
 |sn\_vdr\_risk\_asmt.vendor\_risk\_admin|Have full control over all vendor risk management data and assessment metric types.|
 |sn\_vdr\_risk\_asmt.vendor\_risk\_manager|Manage third parties, third-party contacts, third-party assessment templates, questionnaire templates, documentation request templates, and scheduled assessments.|
 
-For more information on the roles, see [Roles in Third-party Risk Management](../../grc-vendor-risk-implementation/reference/tprm-roles.md).
+For more information on the roles, see [Roles in Third-party Risk Management](tprm-roles.md).
 
 ## Core components
 
@@ -164,7 +164,7 @@ Relationships:
     -   Metric
     -   Questionnaire instance
 
-For more information on assessments, see [Assessing your third-party risk](../concept/tprm-assessing-tpr.md).
+For more information on assessments, see [Assessing your third-party risk](tprm-assessing-tpr.md).
 
 The following diagram shows the main tables and flow that are used for the due diligence in the TPRM data model.
 
@@ -230,7 +230,7 @@ The following diagram shows the required roles, processes, and choices that are 
 
 ![Work flow that shows the required roles, processes, and choices that exist as part of the due diligence workflow.](../image/tprm-ddw-data-model.png "Due diligence workflow")
 
-For more information on the due diligence workflow, see [Due diligence workflow](../../grc-workspace-vrm/concept/tprm-workflow-in-workspace.md).
+For more information on the due diligence workflow, see [Due diligence workflow](tprm-workflow-in-workspace.md).
 
 The following diagram shows the main tables that are used for scoring the TPRM data model.
 
@@ -261,7 +261,7 @@ Relationships:
 
 Use the scoring setup in TPRM configure how the scores from the external risk assessments are aggregated to the engagements and third parties. The criteria tables have the information that is related to the aggregation of the scores of multiple records \(MIN, MAX, AVG\) or from multiple tables \(weights for each table\). Use the scoring rules to group third parties or engagements and assign criteria. You can configure all the records in these tables without any customization.
 
-For more information on scoring, see [Scoring calculations using the classic assessment engine](../concept/vendor-ratings-scoring.md).
+For more information on scoring, see [Scoring calculations using the classic assessment engine](vendor-ratings-scoring.md).
 
 The following model diagram shows the main tables that are used for risk intelligence in the TPRM data model.
 
@@ -284,7 +284,7 @@ Relationships:
 -   The Risk intelligence scores component is related to the Risk intelligence providers component.
 -   All of these components are related to Third-party management.
 
-For more information on risk intelligence, see [Risk intelligence report requests management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-rir-tab.md).
+For more information on risk intelligence, see [Risk intelligence report requests management](tprm-ws-dd-mgt-pg-rir-tab.md).
 
 ## SAE TPRM data model
 
@@ -318,7 +318,7 @@ Relationships:
 -   The SAE Questionnaire Template component has a many-to-one relationship with the Issue-generation rule component.
 -   The SAE Questionnaire Template component has a one-to-many relationship with the Post-assessment Automation component.
 
-For more information on Smart Assessment Engine and TPRM, see [Smart assessments with Third-party Risk Management](../concept/tprm-sae-using.md).
+For more information on Smart Assessment Engine and TPRM, see [Smart assessments with Third-party Risk Management](tprm-sae-using.md).
 
-**Parent Topic:**[Third-party Risk Management reference](../concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 

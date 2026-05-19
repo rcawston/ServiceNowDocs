@@ -146,7 +146,7 @@ After you create coaching assessments manually or automatically, you can do any 
 
 ## Coaching opportunity
 
-A coaching opportunity is a critical moment in a process where coaching assessments get triggered based on conditions set in the coaching opportunity record. A coaching opportunity can be generated at any time during the life cycle of any task record. These records could include any task such as an incident, problem, change request, or request item. For example, you can set conditions to trigger a coaching opportunity when an incident reassigned or escalated. For examples on identifying coaching opportunities, see [About Coaching](../../cf-coaching/concept/cf-coaching-overview.md).
+A coaching opportunity is a critical moment in a process where coaching assessments get triggered based on conditions set in the coaching opportunity record. A coaching opportunity can be generated at any time during the life cycle of any task record. These records could include any task such as an incident, problem, change request, or request item. For example, you can set conditions to trigger a coaching opportunity when an incident reassigned or escalated. For examples on identifying coaching opportunities, see [About Coaching](../coaching/cf-coaching-overview.md).
 
 You can do the following in a coaching opportunity record:
 
@@ -158,7 +158,7 @@ You can do the following in a coaching opportunity record:
 
     -   All virtual coach records have a coaching opportunity associated with it but not all coaching opportunities have an associated virtual coach record.
     -   A virtual coach can’t be associated with a manually generated assessment.
-    For information on virtual coach, see [Identify and add course items for a virtual coach](../../cf-coaching/task/cf-identify-learning-content.md).
+    For information on virtual coach, see [Identify and add course items for a virtual coach](../coaching/cf-identify-learning-content.md).
 
 
 ## Example of assessment triggers
@@ -218,7 +218,7 @@ You can create a manual assessment and complete the following tasks manually:-  
 -   Associate coaching surveys to the assessment
 
 </td></tr></tbody>
-</table>You can use Coaching for any task-based process for such as Change Management, Customer Service Management or Incident Management to set up Coaching. You can also use Coaching for a non-task or custom table source by [configuring a business rule](../../cf-coaching/reference/cf-coaching-reference.md).
+</table>You can use Coaching for any task-based process for such as Change Management, Customer Service Management or Incident Management to set up Coaching. You can also use Coaching for a non-task or custom table source by [configuring a business rule](../coaching/cf-coaching-reference.md).
 
 As a coach, you can:
 
@@ -242,9 +242,9 @@ Easily find the tasks that you must complete in the Coaching module.
 
 |Benefit|Roles|Finding tasks to complete in Coaching|
 |-------|-----|-------------------------------------|
-|Activate Coaching in the Workforce Optimization for ITSM.|admin|[Activate Coaching](../task/activate-configurable-workforce-optimization-itsm.md)|
-|Refer to the roles, tables, and other components used in Coaching.|[Any coaching role](../reference/configurable-wfo-itsm-coaching-reference.md)|[Understand components used in Coaching in Workforce Optimization for ITSM](../reference/configurable-wfo-itsm-coaching-reference.md)|
-|Set up Coaching.|[Admin](../reference/configurable-wfo-itsm-coaching-reference.md)|[Set up Coaching in Workforce Optimization for ITSM](setup-coaching-configurable-workforce-optimization-itsm.md)|
-|Train your teams using Coaching with Learning.|[Coach](../reference/configurable-wfo-itsm-coaching-reference.md)|[Train your teams using Coaching with Learning in Workforce Optimization for ITSM](coaching-configurable-wfo-itsm.md)|
+|Activate Coaching in the Workforce Optimization for ITSM.|admin|[Activate Coaching](activate-configurable-workforce-optimization-itsm.md)|
+|Refer to the roles, tables, and other components used in Coaching.|[Any coaching role](configurable-wfo-itsm-coaching-reference.md)|[Understand components used in Coaching in Workforce Optimization for ITSM](configurable-wfo-itsm-coaching-reference.md)|
+|Set up Coaching.|[Admin](configurable-wfo-itsm-coaching-reference.md)|[Set up Coaching in Workforce Optimization for ITSM](setup-coaching-configurable-workforce-optimization-itsm.md)|
+|Train your teams using Coaching with Learning.|[Coach](configurable-wfo-itsm-coaching-reference.md)|[Train your teams using Coaching with Learning in Workforce Optimization for ITSM](coaching-configurable-wfo-itsm.md)|
 |Manage skills for your teams from a central location|Skill admin|[Manage skills in Workforce Optimization for ITSM](skills-management-wfo-itsm.md)|
 

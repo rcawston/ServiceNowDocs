@@ -36,5 +36,5 @@ Role required: itil
 7.  In the **Completed** calls, select **Reinitiate call**.
 
 
-**Parent Topic:**[Use Microsoft Teams to make conference calls in Service Operations Workspace](../concept/microsoft-teams-sow.md)
+**Parent Topic:**[Use Microsoft Teams to make conference calls in Service Operations Workspace](microsoft-teams-sow.md)
 

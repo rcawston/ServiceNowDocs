@@ -30,7 +30,7 @@ Example:
 pa.getGlobalTarget($[[% of open overdue incidents]],score_start);
 ```
 
-**Parent Topic:**[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+**Parent Topic:**[PAFormulaUtils API](PAFormulaUtils.md)
 
 **Related topics**  
 
@@ -55,5 +55,5 @@ pa.getGlobalTarget($[[% of open overdue incidents]],score_start);
 
 [getScore\(String indicator, Object onDate\)](PAFU-getScore_S_O.md)
 
-[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+[PAFormulaUtils API](PAFormulaUtils.md)
 

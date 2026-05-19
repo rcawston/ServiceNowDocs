@@ -17,11 +17,11 @@ Create, monitor, and work on move projects created to schedule move requests. Wo
 
 **Note:** To access the Move Management module in Workplace Central, you must have the sn\_wsd\_move.manager role.
 
--   **[Create a move project from existing move requests](../task/create-move-project.md)**  
+-   **[Create a move project from existing move requests](create-move-project.md)**  
 As a move manager, create a move project to logically group move requests based on different criteria and fulfill them on priority.
--   **[Create a move project by uploading an Excel file](../task/create-move-project-excel.md)**  
+-   **[Create a move project by uploading an Excel file](create-move-project-excel.md)**  
 As a move manager, create a move project by uploading an Excel file that contains move-related information for the employees.
--   **[Work on a move project](../task/work-on-a-move-project.md)**  
+-   **[Work on a move project](work-on-a-move-project.md)**  
 After creating a move project, work on the project using the move scheduler. The move scheduler displays all the move requests in a schedule view \(calendar view\) and a list view. Track all the move requests that are grouped under the move project.
 
 **Parent Topic:**[Use Workplace Central](use-workplace-central.md)

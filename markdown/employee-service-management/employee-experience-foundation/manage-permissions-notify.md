@@ -45,5 +45,5 @@ You can manage the permissions required by the Notify connector app/bot to perfo
     2.  Select **Yes** in the Grant admin consent confirmation pop-up page.
 
 
-**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](../concept/setup-notify-ms-teams-single-tenant.md)
+**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](setup-notify-ms-teams-single-tenant.md)
 

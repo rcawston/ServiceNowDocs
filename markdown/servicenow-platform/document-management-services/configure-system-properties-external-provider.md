@@ -36,5 +36,5 @@ Role required: mp\_document\_admin
     The base\_alias is the system ID of the personal authentication connection alias and the current\_alias is the system authentication connection alias.
 
 
-**Parent Topic:**[Document Management integration with external content providers](../concept/integration-external-content-providers.md)
+**Parent Topic:**[Document Management integration with external content providers](integration-external-content-providers.md)
 

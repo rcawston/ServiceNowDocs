@@ -35,7 +35,7 @@ For example, an Open Enrollment for Benefits campaign can have tasks that appear
 
 5.  Fill in the form.
 
-    For more information on each field, see [To-do content form](../reference/to-do-content-form.md).
+    For more information on each field, see [To-do content form](to-do-content-form.md).
 
 6.  Select **Submit** or **Save**.
 
@@ -43,6 +43,6 @@ For example, an Open Enrollment for Benefits campaign can have tasks that appear
 
     If you want your to-do content to be a link you can add to a banner or styled content, see [Add or modify links to other content sources](ecpro-manage-link-content.md).
 
-    To request your content to be translated into a different language, select the **Translate content** button at the top. This button only appears when the sn\_cd.enable\_localization\_framework\_integration system property is activated. For more information, see [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+    To request your content to be translated into a different language, select the **Translate content** button at the top. This button only appears when the sn\_cd.enable\_localization\_framework\_integration system property is activated. For more information, see [Properties installed with Content Publishing](properties-with-content-delivery.md).
 
 

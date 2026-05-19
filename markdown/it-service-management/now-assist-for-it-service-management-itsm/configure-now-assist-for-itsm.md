@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Use the Now Assist Admin console to configure Now Assist for IT Service Management \(ITSM\). This console contains everything that you need to install the plugins and configure the generative AI skills. For additional information, see [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md). For the list of all skills supported in Now Assist for IT Service Management \(ITSM\), see [Using Now Assist for IT Service Management \(ITSM\) Generative AI skills](../concept/using-now-assist-for-itsm.md).
+Use the Now Assist Admin console to configure Now Assist for IT Service Management \(ITSM\). This console contains everything that you need to install the plugins and configure the generative AI skills. For additional information, see [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md). For the list of all skills supported in Now Assist for IT Service Management \(ITSM\), see [Using Now Assist for IT Service Management \(ITSM\) Generative AI skills](using-now-assist-for-itsm.md).
 
 Domain separation is supported in Now Assist for IT Service Management \(ITSM\). For details, see [Domain separation in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/domain-separation-in-the-now-assist-admin-console.md).
 
@@ -32,7 +32,7 @@ Domain separation is supported in Now Assist for IT Service Management \(ITSM\).
 
 1.  Install the Now Assist for IT Service Management plugin \(sn\_itsm\_gen\_ai\).
 
-    -   For information about the application dependencies, see [Supporting information for Now Assist for IT Service Management \(ITSM\)](../concept/supporting-information-now-assist-itsm.md).
+    -   For information about the application dependencies, see [Supporting information for Now Assist for IT Service Management \(ITSM\)](supporting-information-now-assist-itsm.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **Admin** &gt; **Now Assist Admin**.
 
@@ -46,7 +46,7 @@ Domain separation is supported in Now Assist for IT Service Management \(ITSM\).
 
 6.  Select the inputs or triggers for the selected skill.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](now-assist-itsm-skills.md).
 
     ![Example Define trigger screen for the Chat summarization skill.](../image/now-assist-itsm-triggers.png "Example Define trigger screen for the Chat summarization skill")
 

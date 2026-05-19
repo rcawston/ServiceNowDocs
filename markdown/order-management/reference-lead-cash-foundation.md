@@ -13,7 +13,7 @@ breadcrumb: [Reference, Sales Customer Relationship Management]
 
 Reference for lead-to-cash foundation applications.
 
--   **[Product Catalog Management reference](../reference/product-catalog-management-reference.md)**  
+-   **[Product Catalog Management reference](product-catalog-management-reference.md)**  
 Reference topics provide additional information about Product Catalog Management.
 
 **Parent Topic:**[Sales Customer Relationship Management reference](som-reference.md)

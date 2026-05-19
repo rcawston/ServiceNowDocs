@@ -19,11 +19,11 @@ Integrate workflow authoring, configuring, and monitoring into a single page exp
 
 <table id="table_o5z_b1s_fzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Workflow Studio concepts and features](../concept/exploring-workflow-studio.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Workflow Studio concepts and features](exploring-workflow-studio.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure workflow builders](../concept/configuring-workflow-studio.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure workflow builders](configuring-workflow-studio.md)
 
 </td></tr><tr><td>
 

@@ -20,43 +20,43 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Now Assist for Security Incident Response![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how Now Assist for Security Incident Response supports ServiceNow® Generative AI \(GenAI\) skills in the Security Incident Response Workspace and in the Core UI \(UI16\).](../../now-assist-security-incident/reference/now-assist-security-incident-landing.md)
+[Now Assist for Security Incident Response![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how Now Assist for Security Incident Response supports ServiceNow® Generative AI \(GenAI\) skills in the Security Incident Response Workspace and in the Core UI \(UI16\).](now-assist-for-security-incident-response-sir/now-assist-security-incident-landing.md)
 
 </td><td>
 
-[Now Assist for Vulnerability Response![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how Now Assist for Vulnerability Response supports ServiceNow® Generative AI \(GenAI\) skills in the Vulnerability Response Workspace and in the Core UI \(UI16\).](../../now-assist-vulnerability-response/reference/now-assist-for-vulnerability-response-landing.md)
+[Now Assist for Vulnerability Response![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how Now Assist for Vulnerability Response supports ServiceNow® Generative AI \(GenAI\) skills in the Vulnerability Response Workspace and in the Core UI \(UI16\).](now-assist-for-vulnerability-response-vr/now-assist-for-vulnerability-response-landing.md)
 
 </td></tr><tr><td>
 
-[Unified Security Exposure Management \(USEM\)![](../../../reuse/icons/brand-icons/bus-vulnerability-response.svg)Learn about USEM to transform and manage the security exposure across your digital estate.](../../security-exposure-management-workspace/concept/unified-security-exposure-management-landing-page.md)
+[Unified Security Exposure Management \(USEM\)![](../../../reuse/icons/brand-icons/bus-vulnerability-response.svg)Learn about USEM to transform and manage the security exposure across your digital estate.](unified-security-exposure-management-landing-page.md)
 
 </td><td>
 
-[Upgrade Vulnerability Response to USEM ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Upgrade Vulnerability Response applications to Unified Security Exposure Management.](../../vulnerability-response/concept/migrating-to-usem.md)
+[Upgrade Vulnerability Response to USEM ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Upgrade Vulnerability Response applications to Unified Security Exposure Management.](vulnerability-response/migrating-to-usem.md)
 
 </td><td>
 
-[Enterprise security case management applications![](../../../reuse/icons/brand-icons/bus-security-incident-response.svg)Learn about the applications in Security Incident Response that help you analyze, isolate, and fix critical security incidents as they evolve.](../reference/sir-apps-landing-page.md)
+[Enterprise security case management applications![](../../../reuse/icons/brand-icons/bus-security-incident-response.svg)Learn about the applications in Security Incident Response that help you analyze, isolate, and fix critical security incidents as they evolve.](sir-apps-landing-page.md)
 
 </td></tr><tr><td>
 
-[Security Posture Control applications![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Learn about the applications that help you gain insights into your overall security posture.](../../security-posture-control/reference/spc-landing.md)
+[Security Posture Control applications![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Learn about the applications that help you gain insights into your overall security posture.](spc-landing.md)
 
 </td><td>
 
-[Cybersecurity Executive Dashboard![](../../../reuse/icons/brand-icons/bus-infographic.svg)Learn how the Cybersecurity Executive Dashboard consolidates data from the various SecOps products into a unified dashboard.](../../../use/dashboards/application-content-packs/vr-unified-CISO-dashboard.md)
+[Cybersecurity Executive Dashboard![](../../../reuse/icons/brand-icons/bus-infographic.svg)Learn how the Cybersecurity Executive Dashboard consolidates data from the various SecOps products into a unified dashboard.](vr-unified-CISO-dashboard.md)
 
 </td><td>
 
-[Threat Intelligence Security Center![](../../../reuse/icons/brand-icons/bus-management-console.svg)Learn how the Threat Intelligence Security Center \(TISC\) platform provides technology solutions for aggregation and management of threat intelligence.](../../secops-integration-threat-security-center/reference/tisc-landing-page.md)
+[Threat Intelligence Security Center![](../../../reuse/icons/brand-icons/bus-management-console.svg)Learn how the Threat Intelligence Security Center \(TISC\) platform provides technology solutions for aggregation and management of threat intelligence.](threat-intelligence-security-center/tisc-landing-page.md)
 
 </td></tr><tr><td>
 
-[Data Loss Prevention Incident Response![](../../../reuse/icons/brand-icons/bus-database.svg)Learn how you can manage sensitive information for your customers and identify and protect your data loss channels.](../../data-loss-prevention/reference/dlp-landing.md)
+[Data Loss Prevention Incident Response![](../../../reuse/icons/brand-icons/bus-database.svg)Learn how you can manage sensitive information for your customers and identify and protect your data loss channels.](data-loss-prevention/dlp-landing.md)
 
 </td><td>
 
-[Security Operations shared applications ![](../../../reuse/icons/brand-icons/bus-share.svg)Learn about features and modules that provide common functionality across Security Operations.](../../security-operations-common/concept/sec-ops-common-functionality.md)
+[Security Operations shared applications ![](../../../reuse/icons/brand-icons/bus-share.svg)Learn about features and modules that provide common functionality across Security Operations.](sec-ops-common-functionality.md)
 
 </td><td>
 

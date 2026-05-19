@@ -34,5 +34,5 @@ Role required: inventory\_admin
 
 The removed locations are no longer shown in the Service locations list.
 
-**Parent Topic:**[Manage stockrooms](../concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](manage-your-stockrooms.md)
 

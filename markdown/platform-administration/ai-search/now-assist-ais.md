@@ -20,19 +20,19 @@ The Now Assist in AI Search ServiceNow® Store application combines the power of
 
 In Service Portal, Virtual Agent, Employee Center, and global searches, Now Assist in AI Search includes the following Genius Result configurations:
 
--   **[Now Assist Multi-Content Response Genius Results](../concept/now-assist-multi-content-qna-genius-results.md)**
+-   **[Now Assist Multi-Content Response Genius Results](now-assist-multi-content-qna-genius-results.md)**
 
     Now Assist Multi-Content Response Genius Results use your chosen LLM to generate Q&amp;A Genius Result answers synthesized from a variety of content sources. Answers can include content from knowledge articles, Service Catalog items, Knowledge Graph schema nodes, enhanced chat searches and conversations, and external content documents and attachments.
 
--   **[Now Assist Q&amp;A Genius Results](../concept/now-assist-qna-genius-results.md)**
+-   **[Now Assist Q&amp;A Genius Results](now-assist-qna-genius-results.md)**
 
     Now Assist Q&amp;A Genius Results use the Now LLM Service to generate actionable Q&amp;A Genius Result answers from the most relevant knowledge article results.
 
--   **[External Content Q&amp;A Genius Results](../concept/external-content-qna.md)**
+-   **[External Content Q&amp;A Genius Results](external-content-qna.md)**
 
     External Content Q&amp;A Genius Results generate actionable Q&amp;A Genius Result answers from documents in your Microsoft SharePoint Online instance.
 
--   **[Now Assist Actions Genius Results](../concept/now-assist-catalog-ordering-gr.md)**
+-   **[Now Assist Actions Genius Results](now-assist-catalog-ordering-gr.md)**
 
     Now Assist Actions Genius Results use the Now LLM Service to select, filter, and display the most relevant Catalog Item and Virtual Agent topic results as answers.
 
@@ -45,15 +45,15 @@ Now Assist Genius Result answers enhance search results with actionable answer c
 
 <table id="table_wzb_rmc_wyb" class="nav-card"><tbody><tr><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-power.svg)Activate the Now Assist in AI Search plugin on your instance](../task/install-now-assist-ais.md)
+[Install![](../../../reuse/icons/brand-icons/bus-power.svg)Activate the Now Assist in AI Search plugin on your instance](install-now-assist-ais.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist in AI Search Genius Results for use in Service Portal, Virtual Agent, Employee Center, and global search](../concept/configuring-now-assist-ais.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist in AI Search Genius Results for use in Service Portal, Virtual Agent, Employee Center, and global search](configuring-now-assist-ais.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)View components installed with Now Assist in AI Search](../concept/reference-now-assist-ais.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)View components installed with Now Assist in AI Search](reference-now-assist-ais.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -65,7 +65,7 @@ Now Assist Genius Result answers enhance search results with actionable answer c
 
 ## Language support
 
-Now Assist in AI Search natively supports searches, content, and answers in English. Additional languages are supported through Dynamic Translation. For details on translation functionality and supported languages, see [Dynamic Translation for Now Assist Q&amp;A Genius Results](../concept/dynamic-translation-na-gr.md).
+Now Assist in AI Search natively supports searches, content, and answers in English. Additional languages are supported through Dynamic Translation. For details on translation functionality and supported languages, see [Dynamic Translation for Now Assist Q&amp;A Genius Results](dynamic-translation-na-gr.md).
 
 ## Domain support
 

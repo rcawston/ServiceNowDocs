@@ -41,7 +41,7 @@ If you are a first-time user of LEAP, then use the default values to get an unde
         2.  Review the default values for each property.
         3.  Modify values as needed.
         4.  Select **Save**.
-3.  You are redirected to the LEAP landing page. For details on each field, see [LEAP settings fields](../reference/aiops-leap-settings-fields.md)
+3.  You are redirected to the LEAP landing page. For details on each field, see [LEAP settings fields](aiops-leap-settings-fields.md)
 4.  [Activate LEAP](activate-aiops-leap.md).
 
 

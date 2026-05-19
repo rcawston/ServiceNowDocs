@@ -46,5 +46,5 @@ Role required: admin
 
 The Resource Management Workspace application is installed in your instance.
 
-**Parent Topic:**[Configure Resource Management Workspace](../concept/configure-rmw.md)
+**Parent Topic:**[Configure Resource Management Workspace](configure-rmw.md)
 

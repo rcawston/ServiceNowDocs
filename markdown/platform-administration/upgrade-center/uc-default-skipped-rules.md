@@ -39,14 +39,14 @@ The skipped records that are retained automatically by the default skipped rules
 
 **Note:** You can also find a comment for each retained skipped records to show the related table it was generated from during the upgrade process.
 
-**Parent Topic:**[Upgrade Center references](../reference/uc-reference.md)
+**Parent Topic:**[Upgrade Center references](uc-reference.md)
 
 **Related topics**  
 
 
-[Upgrade Center properties](../reference/uc-properties.md)
+[Upgrade Center properties](uc-properties.md)
 
-[Upgrade Center VTB Labels list](../reference/uc-vtb-labels-list.md)
+[Upgrade Center VTB Labels list](uc-vtb-labels-list.md)
 
-[Upgrade Center roles](../reference/uc-roles.md)
+[Upgrade Center roles](uc-roles.md)
 

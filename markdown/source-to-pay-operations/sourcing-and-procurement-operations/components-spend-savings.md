@@ -57,5 +57,5 @@ Spend to Product Category Mapping\(sn\_spend\_mgmt\_m2m\_spend\_product\)
 Stores the mapping of spend categories to product categories.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Spend and Savings Management](../concept/spo-spend-mgmt.md)
+</table>**Parent Topic:**[Spend and Savings Management](spo-spend-mgmt.md)
 

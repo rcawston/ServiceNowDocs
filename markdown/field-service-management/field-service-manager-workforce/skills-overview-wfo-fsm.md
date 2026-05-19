@@ -50,7 +50,7 @@ The data displayed in the MTTR of incidents of skill indicator is calculated bas
 
 ## Reports
 
-**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](../workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 <table id="table_r1n_xnm_v4b"><thead><tr><th>
 
@@ -213,7 +213,7 @@ Role required: skill\_admin
 
 You can access Skills Overview from Manager Workspace using the Teams or Shift Scheduling application.
 
-**Note:** You must enable the Coaching with Learning application to view the reports from the application. For information about enabling this application, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Note:** You must enable the Coaching with Learning application to view the reports from the application. For information about enabling this application, see [Activate Workforce Optimization for Field Service](../workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 ### Procedure
 

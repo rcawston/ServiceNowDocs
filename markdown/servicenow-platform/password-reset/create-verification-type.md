@@ -19,7 +19,7 @@ Each verification in Password Reset is based on the settings for a verification 
 
 Role required: password\_reset\_admin
 
-Review the verification types that are provided in the base system to determine whether to create a custom verification type. Then review the verification type components to develop. For more information about verification types in the base system, see [Verification types in the base system](../reference/verification-types-in-the-base-system.md).
+Review the verification types that are provided in the base system to determine whether to create a custom verification type. Then review the verification type components to develop. For more information about verification types in the base system, see [Verification types in the base system](verification-types-in-the-base-system.md).
 
 ## Procedure
 
@@ -27,19 +27,19 @@ Review the verification types that are provided in the base system to determine 
 
 2.  Click **New**, enter a unique and meaningful **Name** and **Description**, and then fill in the form.
 
-    For information about the fields on the Password Reset Verification Type form, see [Password Reset Verification Type form](../reference/password-reset-verification-type-form.md).
+    For information about the fields on the Password Reset Verification Type form, see [Password Reset Verification Type form](password-reset-verification-type-form.md).
 
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](customizing-password-reset.md)
 
 **Related topics**  
 
 
-[Password Reset script includes](../concept/c_InstalledPasswordResetScripts.md)
+[Password Reset script includes](c_InstalledPasswordResetScripts.md)
 
-[Password Reset extension script categories](../concept/pw-reset-extension-script.md)
+[Password Reset extension script categories](pw-reset-extension-script.md)
 
-[Installed with Password Reset](../reference/r_InstalledWithPasswordReset.md)
+[Installed with Password Reset](r_InstalledWithPasswordReset.md)
 

@@ -76,7 +76,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 The child task is created. After creation, the child task details are displayed in a separate page. For more information about actions that you can perform on a task, refer to [Edit or view a child task](edit-or-view-a-child-task-agentmobile.md).
 
-**Parent Topic:**[Use Workplace Agent for mobile](../concept/use-workplace-agent-mobile.md)
+**Parent Topic:**[Use Workplace Agent for mobile](use-workplace-agent-mobile.md)
 
 **Related topics**  
 

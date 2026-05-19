@@ -77,5 +77,5 @@ Proceed to add bot ID to complete the Moveworks AI assistant setup.
 **Related topics**  
 
 
-[Moveworks for Employee Center reference](../reference/mw-ec-integration-reference.md)
+[Moveworks for Employee Center reference](mw-ec-integration-reference.md)
 

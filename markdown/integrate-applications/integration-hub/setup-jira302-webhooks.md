@@ -130,7 +130,7 @@ Role required: admin
 
 ### About this task
 
-The default routing policy in the Jira WebHook Routing Policies module triggers the Process Jira Webhooks subflow and notifies the ServiceNow app when certain events occur in Jira. See [Jira Spoke](../concept/jira-spoke-v3-0-2.md) for information about the fields that the default routing policy and subflows support. To use any other fields in your custom subflow and customize conditions in the routing policy, perform these steps.
+The default routing policy in the Jira WebHook Routing Policies module triggers the Process Jira Webhooks subflow and notifies the ServiceNow app when certain events occur in Jira. See [Jira Spoke](jira-spoke-v3-0-2.md) for information about the fields that the default routing policy and subflows support. To use any other fields in your custom subflow and customize conditions in the routing policy, perform these steps.
 
 ### Procedure
 
@@ -140,7 +140,7 @@ The default routing policy in the Jira WebHook Routing Policies module triggers 
 
 3.  Create a copy of the default subflow, Process Jira Webhooks.
 
-4.  Customize the subflow as per your requirement and publish it. See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows and [Jira Spoke](../concept/jira-spoke-v3-0-2.md) for information about the fields that the default routing policy and subflows support.
+4.  Customize the subflow as per your requirement and publish it. See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows and [Jira Spoke](jira-spoke-v3-0-2.md) for information about the fields that the default routing policy and subflows support.
 
 5.  Navigate to **Jira Webhooks** &gt; **Jira WebHook Routing Policies**.
 
@@ -181,7 +181,7 @@ Condition
 
 </td><td>
 
-Conditions to be met when the required events occur in Jira. See [Jira webhooks](../concept/jira-spoke-v3-0-2.md) for information about the supported fields.
+Conditions to be met when the required events occur in Jira. See [Jira webhooks](jira-spoke-v3-0-2.md) for information about the supported fields.
 
 </td></tr><tr><td>
 

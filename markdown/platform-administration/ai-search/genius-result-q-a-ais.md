@@ -119,9 +119,9 @@ The following table describes interactions between Q&amp;A Genius Results and ot
 
 -   **[Factoid extraction for Q&amp;A Genius Results](factoid-extraction-qa-grs-ais.md)**  
 Factoid extraction uses the machine reading comprehension \(MRC\) model to find the exact span of text within a longer extracted snippet that represents the answer to your question.
--   **[Set the factoid extraction mode for Q&amp;A Genius Results](../task/set-factoid-extraction-mode-qna-gr.md)**  
+-   **[Set the factoid extraction mode for Q&amp;A Genius Results](set-factoid-extraction-mode-qna-gr.md)**  
 Specify how you want factoid extraction to display and highlight answers for Q&amp;A Genius Results.
--   **[System properties for factoid extraction in Q&amp;A Genius Results](../reference/sys-props-factoid-extract-qna-gr.md)**  
+-   **[System properties for factoid extraction in Q&amp;A Genius Results](sys-props-factoid-extract-qna-gr.md)**  
 A system property determines how the system extracts factoids from knowledge articles when computing Q&amp;A Genius Results.
 
 **Parent Topic:**[Genius Result configurations in the base system](default-genius-result-configs-ais.md)

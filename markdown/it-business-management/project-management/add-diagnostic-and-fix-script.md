@@ -31,7 +31,7 @@ The results of the filter conditions that you specify in a [diagnostic feature](
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Diagnostic Scripts form](../reference/diagnostic-scripts-form.md).
+    For more information, see [Diagnostic Scripts form](diagnostic-scripts-form.md).
 
 4.  Include a script for fixing the corrupt or invalid data identified by the diagnostic script.
 
@@ -47,5 +47,5 @@ The results of the filter conditions that you specify in a [diagnostic feature](
 **Related topics**  
 
 
-[Project Diagnostics](../../project-management/concept/project-diagnostics-overview.md)
+[Project Diagnostics](project-diagnostics-overview.md)
 

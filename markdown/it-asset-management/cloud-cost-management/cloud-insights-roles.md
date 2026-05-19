@@ -70,7 +70,7 @@ The role is in the Cloud Cost Management Core plugin. The role spans only the Cl
  -   Define jobs and policies.
 -   View data for owned service accounts.
 
- For more information, see [Assign service accounts to an insights\_owner](../task/insights-owner-new-cloudin.md).
+ For more information, see [Assign service accounts to an insights\_owner](insights-owner-new-cloudin.md).
 
 </td><td>
 
@@ -154,7 +154,7 @@ The role is in the Cloud Cost Management Core plugin.
  Access Spend dashboards and tables.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+</table>**Parent Topic:**[Cloud Cost Management reference](reference-cloudinsights.md)
 
 **Related topics**  
 

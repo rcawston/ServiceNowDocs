@@ -29,7 +29,7 @@ Role required: sn\_icw\_igt.standard\_author
 
 4.  On the Industrial Guided Task Standard form, fill in the fields.
 
-    For a description of the field values, see [Industrial Guided Task standard form](../reference/industrial-guided-task-standard-form.md).
+    For a description of the field values, see [Industrial Guided Task standard form](industrial-guided-task-standard-form.md).
 
 5.  Save the draft version of the standard by selecting **Save**.
 
@@ -52,7 +52,7 @@ Role required: sn\_icw\_igt.standard\_author
 
 8.  When the standard is ready to be reviewed for publishing, select **Request approval**.
 
-    If there’s no assigned owner group or the group has no active users, the standard can’t be approved and published. To learn more about approval states and the life cycle of a standard, see [Industrial Guided Task standard and task life cycles](../reference/industrial-guided-task-life-cycle.md).
+    If there’s no assigned owner group or the group has no active users, the standard can’t be approved and published. To learn more about approval states and the life cycle of a standard, see [Industrial Guided Task standard and task life cycles](industrial-guided-task-life-cycle.md).
 
 9.  Select **Save**.
 
@@ -61,8 +61,8 @@ Role required: sn\_icw\_igt.standard\_author
 
 A new standard is created and displayed in the Standards hub. Depending on its state, the standard displays a label of either Draft or Published.
 
--   **[Task authoring configuration settings](../concept/task-authoring-configuration-settings.md)**  
+-   **[Task authoring configuration settings](task-authoring-configuration-settings.md)**  
 Some settings configured in the Workspace have their limitations and don't apply to both workspace and mobile.
 
-**Parent Topic:**[Using Industrial Guided Tasks](../concept/using-industrial-guided-tasks.md)
+**Parent Topic:**[Using Industrial Guided Tasks](using-industrial-guided-tasks.md)
 

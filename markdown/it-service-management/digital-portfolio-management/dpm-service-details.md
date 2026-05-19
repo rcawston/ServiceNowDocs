@@ -21,13 +21,13 @@ When viewing the service and service offering details in DPM, the **Phase** and 
 
 When viewing details of a service or service offering that's retired, an alert banner along the top of the workspace view states that it's retired. In the list view, the Phase is listed as **Retired**, the life-cycle stage is **End of Life**, and the life-cycle stage status is **Retired**.
 
-**Important:** If your organization transitioned from the traditional Service Portfolio Management fields to the CSDM life-cycle fields, then the field names differ from this document. For more information, see [Apply the CSDM guidelines to Digital Portfolio Management](../reference/dpm-csdm.md).
+**Important:** If your organization transitioned from the traditional Service Portfolio Management fields to the CSDM life-cycle fields, then the field names differ from this document. For more information, see [Apply the CSDM guidelines to Digital Portfolio Management](dpm-csdm.md).
 
 **Important:** For the Australia release and later, the labels for the items in the \[cmdb\_ci\_service\_technical\] table and \[service\_offering\] table are Technology Management Service and Technology Management Service Offering, respectively. Prior to the Australia release, the labels are technology management service and technology management service Offering.
 
-Services and service offerings display information in DPM via the Plan, Build, Run, and Info tabs. If your organization opts to inactivate one or more of the tabs, then the inactivated tabs aren't visible to you. For example, if your organization doesn't work on planning activities and they inactivate the Plan tab, then the Plan tab isn't visible for you. For more information on how Admins can hide or show tabs, see [Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md).
+Services and service offerings display information in DPM via the Plan, Build, Run, and Info tabs. If your organization opts to inactivate one or more of the tabs, then the inactivated tabs aren't visible to you. For example, if your organization doesn't work on planning activities and they inactivate the Plan tab, then the Plan tab isn't visible for you. For more information on how Admins can hide or show tabs, see [Configure the Digital Portfolio Management experience](dpm-configure-experience.md).
 
-Keep in mind that what you are able to see in DPM depends on what your product license permits from the source application. See [Digital Portfolio Management related applications and data sources](../reference/dpm-related-products.md) for the required installations and plugins to see each data element.
+Keep in mind that what you are able to see in DPM depends on what your product license permits from the source application. See [Digital Portfolio Management related applications and data sources](dpm-related-products.md) for the required installations and plugins to see each data element.
 
 **Note:** The Strategic Planning Workspace \(formerly known as Alignment Planner Workspace\) is a pro version. The Portfolio Planning Workspace is available for users with a Strategic Portfolio Management \(SPM\) standard license.
 
@@ -73,7 +73,7 @@ Total number of demands on the service or service offering. The number of demand
 
  You can select a demand record to view its details, including tasks, stakeholders, requirements, risks, and more.
 
- You can also create demands on your service or service offerings. See [Create demand from Digital Portfolio Management](../task/dpm-create-demand-initiatives.md).
+ You can also create demands on your service or service offerings. See [Create demand from Digital Portfolio Management](dpm-create-demand-initiatives.md).
 
 </td></tr></tbody>
 </table>## Build tab
@@ -174,11 +174,11 @@ Description
 
 The Performance snapshot KPI group that comes with the base system. The indicators typically show availability, open incidents, and new requests. Each indicator has an information icon \(![Information icon.](../image/information-icon.jpg)\) that when selected, provides a tooltip description for that indicator.
 
- For information on KPIs that come with the base system, see [KPI groups installed with Digital Portfolio Management](../reference/dpm-kpi-groups-oob.md).
+ For information on KPIs that come with the base system, see [KPI groups installed with Digital Portfolio Management](dpm-kpi-groups-oob.md).
 
- Admins can modify KPI groups, create KPIs, and create KPI group mappings so you may see more than the Performance snapshot on the Run tab. For information, see [Create KPI groups and mappings in Digital Portfolio Management](../task/dpm-create-kpi-groups.md).
+ Admins can modify KPI groups, create KPIs, and create KPI group mappings so you may see more than the Performance snapshot on the Run tab. For information, see [Create KPI groups and mappings in Digital Portfolio Management](dpm-create-kpi-groups.md).
 
- For information on configuring KPIs, see [Configure KPIs in Digital Portfolio Management with service availability example](../task/dpm-configure-kpi-availability.md).
+ For information on configuring KPIs, see [Configure KPIs in Digital Portfolio Management with service availability example](dpm-configure-kpi-availability.md).
 
 </td></tr><tr><td>
 

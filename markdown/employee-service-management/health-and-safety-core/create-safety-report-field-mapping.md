@@ -44,7 +44,7 @@ The report field mapping enables you to do the following:
     -   To review an existing one, open the one that you want to configure.
 5.  On the form, fill in the fields.
 
-    For information on form field descriptions, see [Health and Safety report field mapping form](../reference/hs-report-field-mapping-form.md).
+    For information on form field descriptions, see [Health and Safety report field mapping form](hs-report-field-mapping-form.md).
 
 6.  Select **Save**.
 
@@ -95,14 +95,14 @@ Each mapping can be scripted using the script capability on each field. It enabl
 ## Result
 
 -   The fields in the imported reporting PDF template are mapped to the fields in the selected mapping table.
--   The published report field mapping is available to select during a report generation in the mapped safety table records. For example, see [Generate a report for a safety incident, observation, or injury](generate-report-safety-incident-obsv-injury.md).
+-   The published report field mapping is available to select during a report generation in the mapped safety table records. For example, see [Generate a report for a safety incident, observation, or injury](../health-and-safety-incident-management/generate-report-safety-incident-obsv-injury.md).
 
-**Parent Topic:**[Setting up Health and Safety Core](../../hs-core/concept/setting-up-hs-core.md)
+**Parent Topic:**[Setting up Health and Safety Core](setting-up-hs-core.md)
 
 **Related topics**  
 
 
-[Install Health and Safety Core](../../hs-core/task/install-hs-core.md)
+[Install Health and Safety Core](install-hs-core.md)
 
 [Workplace location data](configure-hs-workplace-location-data.md)
 
@@ -116,5 +116,5 @@ Each mapping can be scripted using the script capability on each field. It enabl
 
 [Add a Health and Safety visitor](hs-add-health-safety-visitor.md)
 
-[Migrate existing safety documents to the Document library](../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
+[Migrate existing safety documents to the Document library](hs-migrate-sync-existing-safety-document-docs-library.md)
 

@@ -48,11 +48,11 @@ After your email is composed, sent, and received by the intended recipient, you 
 
 ## Email composer configuration
 
-To view the **Compose Email** option in the More Actions menu, and to view your emailed message in the activity log of a supplier case or supplier task in Source-to-Pay Workspace, ensure that you add the role required to access this feature in the User Interface Properties page. For more information, see [Configure access to the compose email feature](../task/config-access-compose-email.md).
+To view the **Compose Email** option in the More Actions menu, and to view your emailed message in the activity log of a supplier case or supplier task in Source-to-Pay Workspace, ensure that you add the role required to access this feature in the User Interface Properties page. For more information, see [Configure access to the compose email feature](config-access-compose-email.md).
 
--   **[Configure access to the compose email feature](../task/config-access-compose-email.md)**  
+-   **[Configure access to the compose email feature](config-access-compose-email.md)**  
 Configure the role required to access the compose email feature that enables you to send emails directly from a supplier case or supplier task in the Source-to-Pay Workspace.
--   **[Communicate using emails from the Source-to-Pay Workspace](../task/send-emails-slm-ws.md)**  
+-   **[Communicate using emails from the Source-to-Pay Workspace](send-emails-slm-ws.md)**  
 Compose and send emails directly from a supplier case or a supplier task in the Source-to-Pay Workspace.
 
 **Parent Topic:**[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
@@ -60,7 +60,7 @@ Compose and send emails directly from a supplier case or a supplier task in the 
 **Related topics**  
 
 
-[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+[Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
 
 [Manage supplier details](supp-ws-details-page.md)
 
@@ -72,19 +72,19 @@ Compose and send emails directly from a supplier case or a supplier task in the 
 
 [Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 
-[Accept an incoming chat request from the Source-to-Pay Workspace](../task/accept-chat-supp-ws.md)
+[Accept an incoming chat request from the Source-to-Pay Workspace](accept-chat-supp-ws.md)
 
 [Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
 [Overall supplier dashboard](overall-supplier-db.md)
 
-[Create supplier case from Universal Request](../task/create-supplier-case.md)
+[Create supplier case from Universal Request](create-supplier-case.md)
 
-[Emails view for supplier managers](../task/enabling-emails-view-for-contacts.md)
+[Emails view for supplier managers](enabling-emails-view-for-contacts.md)
 
-[Configure access to the compose email feature](../task/config-access-compose-email.md)
+[Configure access to the compose email feature](config-access-compose-email.md)
 
-[Communicate using emails from the Source-to-Pay Workspace](../task/send-emails-slm-ws.md)
+[Communicate using emails from the Source-to-Pay Workspace](send-emails-slm-ws.md)
 

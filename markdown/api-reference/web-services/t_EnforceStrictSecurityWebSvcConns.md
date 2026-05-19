@@ -34,5 +34,5 @@ To enforce strict security for web services connections:
     **Note:** To learn more about this property, see [SOAP request strict security \(instance security hardening\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-soap-request-strict-security.md) in Instance Security Hardening Settings.
 
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

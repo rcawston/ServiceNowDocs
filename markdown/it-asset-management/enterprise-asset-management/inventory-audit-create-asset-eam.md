@@ -74,7 +74,7 @@ When scanning an asset in the inventory, if a new asset is detected that doesnâ€
 
     **Note:** Depending on the IRE rule configured for the selected **Model** field value, either **Asset Tag**, **Serial Number**, or **MAC address** field value is required to save the audit record.
 
-    For more details on these field descriptions, see [Asset fields for enterprise assets](../reference/asset-fields-eam.md).
+    For more details on these field descriptions, see [Asset fields for enterprise assets](asset-fields-eam.md).
 
 13. Tap **Submit**.
 

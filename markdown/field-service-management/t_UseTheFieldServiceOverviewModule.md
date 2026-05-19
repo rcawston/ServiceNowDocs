@@ -30,5 +30,5 @@ Role required: dispatcher
     You can click elements within the reports to obtain more information without leaving the overview page.
 
 
-**Parent Topic:**[Monitoring operations in real time](../../field-service-management/concept/monitoring-operations-in-real-time.md)
+**Parent Topic:**[Monitoring operations in real time](monitoring-operations-in-real-time.md)
 

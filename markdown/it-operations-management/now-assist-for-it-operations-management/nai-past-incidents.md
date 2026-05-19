@@ -18,7 +18,7 @@ Use Now Assist to investigate relevant past incidents and present effective stra
 
 Now Assist queries historical records to find past incidents and analyzes their frequency, criticality, work notes, and resolution. It presents a summary of the most relevant related incidents in the Now Assist panel. The summary includes resolution strategies used, as well as contact details for individuals or teams who resolved the incidents and could assist with the current alert. The information provided helps you better understand the context and significance of the current alert and work more efficiently toward resolving it.
 
--   **[Generate a Now Assist summary of past related incidents](../task/nai-analyze-past-incidents.md)**  
+-   **[Generate a Now Assist summary of past related incidents](nai-analyze-past-incidents.md)**  
 View a Now Assist summary of past incidents on the same or related Configuration Items \(CIs\) and strategies used to resolve them.
 
 **Parent Topic:**[Use generative AI in Now Assist for ITOM](now-assist-itom-use.md)

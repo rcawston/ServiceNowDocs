@@ -27,7 +27,7 @@ Role required: ot\_excel\_import\_user and now\_assist\_panel\_user
 
 2.  To initiate the Import OT device spreadsheet into OT CMDB agentic workflow, enter a prompt such as `I want to import an OT device`.
 
-    The OT Excel import task AI agent begins the workflow process and creates an OT Excel SGC Import Task record. For more information about import tasks, see [Using the Service Graph Connector for Microsoft Excel through import tasks](../../mftg-manufacturing-oper-tech-mgr/concept/use-excel-sgc-through-import-tasks.md).
+    The OT Excel import task AI agent begins the workflow process and creates an OT Excel SGC Import Task record. For more information about import tasks, see [Using the Service Graph Connector for Microsoft Excel through import tasks](operational-technology-manager/use-excel-sgc-through-import-tasks.md).
 
 3.  Select **Open OT Excel SGC Import Task**.
 
@@ -37,7 +37,7 @@ Role required: ot\_excel\_import\_user and now\_assist\_panel\_user
 
 5.  Once you have filled out the spreadsheet with your OT device inventory, upload it in the Attachment panel.
 
-    For more information about how to fill out the spreadsheet, see [Prepare your Pre-import OT Worksheet Entry Review tool for Service Graph Connector import](../../mftg-manufacturing-oper-tech-mgr/task/preparing-your-pre-import-ot-worksheet-entry-review-tool-for-sgc-import.md).
+    For more information about how to fill out the spreadsheet, see [Prepare your Pre-import OT Worksheet Entry Review tool for Service Graph Connector import](operational-technology-manager/preparing-your-pre-import-ot-worksheet-entry-review-tool-for-sgc-import.md).
 
 6.  In the Now Assist panel, enter a prompt such as `Done` to alert the agent that you have uploaded the spreadsheet.
 
@@ -49,7 +49,7 @@ Role required: ot\_excel\_import\_user and now\_assist\_panel\_user
 
 8.  If you want to create a remediation task for the invalid records, enter `Yes`.
 
-    The agent creates a remediation task for all invalid records so you can resolve them as needed. For more information about possible validation errors, see [Managing Validations](../../mftg-manufacturing-oper-tech-mgr/concept/managing-validations.md).
+    The agent creates a remediation task for all invalid records so you can resolve them as needed. For more information about possible validation errors, see [Managing Validations](operational-technology-manager/managing-validations.md).
 
     The agent then asks if you want to proceed importing the valid or partially invalid staging records.
 
@@ -66,5 +66,5 @@ Role required: ot\_excel\_import\_user and now\_assist\_panel\_user
 
 To verify the CMDB import, navigate to the Industrial Workspace list view and open the **All OT Devices** list. The recently imported OT device records should appear in the list.
 
-**Parent Topic:**[Import the OT device spreadsheet into OT CMDB agentic workflow](../concept/now-assist-otm-aiagents-import-ot-device-workflow.md)
+**Parent Topic:**[Import the OT device spreadsheet into OT CMDB agentic workflow](now-assist-otm-aiagents-import-ot-device-workflow.md)
 

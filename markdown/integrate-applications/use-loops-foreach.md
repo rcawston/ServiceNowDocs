@@ -59,5 +59,5 @@ Use a For Each loop component to automate user account provisioning. In this sce
     -   Submit the form to create the user account.
     -   Send an email notification to the relevant department manager with the account details.
 
-**Parent Topic:**[Loops](../concept/loops.md)
+**Parent Topic:**[Loops](loops.md)
 

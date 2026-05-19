@@ -59,7 +59,7 @@ Role required: sn\_wsd\_msaddin.admin
 
 The add-in is uploaded to Microsoft Office 365. The users to whom the add-in is deployed can view the add-in option while scheduling a meeting.
 
-**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](../concept/configure-workplace-rsv-for-outlook-addin.md)
+**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](configure-workplace-rsv-for-outlook-addin.md)
 
 **Related topics**  
 

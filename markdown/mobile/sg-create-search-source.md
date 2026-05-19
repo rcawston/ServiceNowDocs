@@ -45,5 +45,5 @@ In these steps, you create the search source to define what search results your 
     Note that additional search sources can impact the performance of your searches.
 
 
-**Parent Topic:**[Configure search criteria](../concept/sg-create-custom-search.md)
+**Parent Topic:**[Configure search criteria](sg-create-custom-search.md)
 

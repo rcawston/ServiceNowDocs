@@ -52,13 +52,13 @@ A service definition transfer deploys the standard import set feature available 
 **Related topics**  
 
 
-[Define criticality for application services](../task/define-criticality-for-business-services.md)
+[Define criticality for application services](define-criticality-for-business-services.md)
 
-[Group application services](../task/organizing_services-into-groups.md)
+[Group application services](organizing_services-into-groups.md)
 
-[Control user access to application services](../task/control-user-access-to-business-services.md)
+[Control user access to application services](control-user-access-to-business-services.md)
 
-[Schedule a top-down discovery by Service Mapping](../task/t_CreateDiscoSchedForCITypes.md)
+[Schedule a top-down discovery by Service Mapping](t_CreateDiscoSchedForCITypes.md)
 
 ## Export service definitions
 
@@ -72,7 +72,7 @@ Create an import set containing definitions of services. You use this import set
 
 -   Verify that the source and the target instances are on the same ServiceNow release.
 -   Open the source instance from which you want to copy service definitions.
--   If necessary, fine-tune the import set creation by modifying relevant properties under **Service Mapping** &gt; **Administration** &gt; **Properties**. For more information, see [Components installed with Service Mapping](../reference/components-installed-with-service-mapping.md).
+-   If necessary, fine-tune the import set creation by modifying relevant properties under **Service Mapping** &gt; **Administration** &gt; **Properties**. For more information, see [Components installed with Service Mapping](components-installed-with-service-mapping.md).
 
 Role required: service\_mapping\_admin
 

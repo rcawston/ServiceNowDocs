@@ -26,10 +26,10 @@ DTAC enables cross-locale support teams and merger and acquisition projects to s
 
 ## How DTAC works
 
-DTAC uses [Dynamic translation](../../notification/concept/dynamic-translation.md) and a translation service provider to translate chat conversations in real time. Available translation service providers include:
+DTAC uses [Dynamic translation](../dynamic-translation.md) and a translation service provider to translate chat conversations in real time. Available translation service providers include:
 
--   [Set up Google cloud translator service spoke](../../integrationhub-store-spokes/task/setup-google-translator.md)
--   [Microsoft Azure Translator Service spoke](../../dynamic-translation/concept/microsoft-translation-spoke.md)
+-   [Set up Google cloud translator service spoke](setup-google-translator.md)
+-   [Microsoft Azure Translator Service spoke](microsoft-translation-spoke.md)
 -   Microsoft Azure OEM
 
 ## Mobile clients

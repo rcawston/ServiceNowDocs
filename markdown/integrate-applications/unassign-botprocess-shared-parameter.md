@@ -15,7 +15,7 @@ Unassign a bot process from a shared parameter in RPA Hub to stop an interaction
 
 ## Before you begin
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Create a shared parameter. For more information, see [Create a shared parameter in RPA Hub](create-shared-parameter.md).
 
@@ -40,7 +40,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Shared parameters in RPA Hub](../concept/shared-paramaters-rpa-hub.md)
+**Parent Topic:**[Shared parameters in RPA Hub](shared-paramaters-rpa-hub.md)
 
 **Related topics**  
 

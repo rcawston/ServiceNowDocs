@@ -47,10 +47,10 @@ If the table map does not exist for a work item in your Azure DevOps process, th
 
 Once the state of the Create mappings request changes to **Completed**, you can see that the **Mapping Config** field of this Azure DevOps process is populated. Also, you can see the default map configuration in the Table Maps related list of this process.
 
-**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](../concept/setting-up-agile-azure-integration.md)
+**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](setting-up-agile-azure-integration.md)
 
 **Related topics**  
 
 
-[Customizing your map configuration for Azure DevOps integration](../reference/customizing-map-config-agile-azure.md)
+[Customizing your map configuration for Azure DevOps integration](customizing-map-config-agile-azure.md)
 

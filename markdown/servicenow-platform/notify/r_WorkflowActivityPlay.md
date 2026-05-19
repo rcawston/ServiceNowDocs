@@ -30,5 +30,5 @@ The conditions determine which transition comes after this activity. The **play*
 
 You can create an error condition to handle errors with the sound file. The activity transitions through the error condition if the specified sound file is not available, or has an unsupported mime type. Supported mime types are listed on the Notify Audio MIME Types \[notify\_mime\_type\] table.
 
-**Parent Topic:**[Notify workflow activities](../concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 

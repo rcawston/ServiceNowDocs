@@ -15,7 +15,7 @@ breadcrumb: [Navigate the Care Team Portal, Healthcare Operations Core, Healthca
 
 Manage your teams from directly within the Care Team Portal.
 
--   [View your teams using the Care Team Portal](../task/hcls-cto-view-teams-portal.md)
+-   [View your teams using the Care Team Portal](hcls-cto-view-teams-portal.md)
 
     View your teams from directly within the Care Team Portal.
 
@@ -23,7 +23,7 @@ Manage your teams from directly within the Care Team Portal.
 
     Add a member to your team using the Care Team Portal.
 
--   [Remove a member using the Care Team Portal](../task/hcls-cto-remove-member.md)
+-   [Remove a member using the Care Team Portal](hcls-cto-remove-member.md)
 
     Remove a member from your team directly within the Care Team Portal.
 

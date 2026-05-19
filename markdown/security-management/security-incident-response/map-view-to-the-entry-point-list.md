@@ -42,5 +42,5 @@ Role required: admin
     You can also configure the entry point list layout using **Edit Entry Point List Layout** action. Add or remove columns from the slush bucket as desired, and save the form.
 
 
-**Parent Topic:**[Configure SI design time investigation](../concept/configure-investigation-canvas-records.md)
+**Parent Topic:**[Configure SI design time investigation](configure-investigation-canvas-records.md)
 

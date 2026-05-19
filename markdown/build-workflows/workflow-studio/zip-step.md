@@ -44,5 +44,5 @@ Extract one or more compressed attachments from a zip archive. You can extract a
 -   **[Get Zip file details](view-zip-details.md)**  
 View the contents of a compressed zip archive.
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

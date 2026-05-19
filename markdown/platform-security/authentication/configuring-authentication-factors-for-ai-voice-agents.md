@@ -105,7 +105,7 @@ Y
 
 </td><td>
 
-[Configure push notification \(Okta Verify\)](../task/configure-okta-verify-push-notification.md)
+[Configure push notification \(Okta Verify\)](configure-okta-verify-push-notification.md)
 
 </td></tr><tr><td>
 
@@ -129,7 +129,7 @@ Y
 
 </td><td>
 
-[Configure Soft PIN](../task/configure-soft-pin.md)
+[Configure Soft PIN](configure-soft-pin.md)
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ N
 
 </td><td>
 
-[Configure knowledge-based authentication](../task/configure-kba.md)
+[Configure knowledge-based authentication](configure-kba.md)
 
 </td></tr></tbody>
 </table>**Important:** Y = Recommended \| Sometimes = Use with Caution \| N = Not Recommended

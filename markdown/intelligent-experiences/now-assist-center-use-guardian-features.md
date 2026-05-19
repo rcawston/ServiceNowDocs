@@ -97,5 +97,5 @@ This guardrail filters subjects not suited for AI responses, such as workplace s
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](../concept/now-assist-center-using-other-applications.md)
+**Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](now-assist-center-using-other-applications.md)
 

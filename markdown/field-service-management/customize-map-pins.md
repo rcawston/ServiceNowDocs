@@ -23,7 +23,7 @@ You can change map pins related to agents, and task states. You can’t change p
 
 New icon pin graphics should be sized at 54x54 pixels in PNG or SVG format.
 
-For a list of map pins that show on the dispatch map, see [Map iconography in Dispatcher Workspace](../../planning-and-policy/reference/r_DispatcherView.md).
+For a list of map pins that show on the dispatch map, see [Map iconography in Dispatcher Workspace](r_DispatcherView.md).
 
 ## Procedure
 

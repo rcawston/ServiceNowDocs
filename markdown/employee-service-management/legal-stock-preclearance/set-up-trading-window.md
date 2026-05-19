@@ -114,5 +114,5 @@ Option to exclude trading on holidays that fall within the trading window. Selec
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Configure Legal Stock Preclearance](../concept/legal-stock-pre-administration.md)
+**Parent Topic:**[Configure Legal Stock Preclearance](legal-stock-pre-administration.md)
 

@@ -47,7 +47,7 @@ Select a tile to get more information about all the configuration options that a
 
 </td><td>
 
-[Configure managed mobile apps ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Configure integration with mobile device management vendors.](../reference/appconfig.md)
+[Configure managed mobile apps ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Configure integration with mobile device management vendors.](appconfig.md)
 
 </td><td>
 

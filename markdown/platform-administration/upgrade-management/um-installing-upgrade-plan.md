@@ -51,7 +51,7 @@ Role required: admin
     **Note:** If you made any changes to the upgrade plan on the builder instance after installing it on the consumer instance, then update the upgrade plan to the latest version.
 
 
-**Parent Topic:**[Upgrade Plans tool in Upgrade Console](../concept/um-upgrade-plans-tool.md)
+**Parent Topic:**[Upgrade Plans tool in Upgrade Console](um-upgrade-plans-tool.md)
 
 **Related topics**  
 

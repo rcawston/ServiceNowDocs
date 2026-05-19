@@ -25,9 +25,9 @@ The goal of this example is to create a contract that shows the total amount of 
 
 ## Procedure
 
-1.  Create an [application model](../../product-catalog/concept/c_Models.md), adding a **Name** and specifying **Software License** in **Model categories**.
+1.  Create an [application model](../product-catalog/c_Models.md), adding a **Name** and specifying **Software License** in **Model categories**.
 
-2.  Create a [software model](../../product-catalog/concept/c_Models.md), adding a **Name** and **Model Number**, and selecting the application model created in step 1.
+2.  Create a [software model](../product-catalog/c_Models.md), adding a **Name** and **Model Number**, and selecting the application model created in step 1.
 
 3.  Create a new software entitlement by selecting the software model created in step 2.
 

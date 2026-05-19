@@ -857,7 +857,7 @@ This task is required for agentless \(server\) jobs to automatically create a ch
 
 In DevOps Config, to associate multiple snapshots of the same changeset to a change request, use snapshot name and application name to track specific configuration data for a given application service.
 
-See [Accelerating your DevOps change process](../../enterprise-dev-ops/concept/dev-ops-change-acceleration.md) for more information regarding the DevOps Change Acceleration feature.
+See [Accelerating your DevOps change process](../devops-change-velocity/dev-ops-change-acceleration.md) for more information regarding the DevOps Change Acceleration feature.
 
 -   **Input variables \(related to DevOps Config\)**
 

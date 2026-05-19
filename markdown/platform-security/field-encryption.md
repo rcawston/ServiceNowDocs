@@ -54,5 +54,5 @@ Use Field Encryption to manage access to encrypted data on your instances.
 -   **[External Key Management Service](ekms-external-key-management.md)**  
 External Key Management Service \(EKMS\) enables you to integrate Field Encryption with your own external key management systems.
 
-**Parent Topic:**[Encryption](../../security/concept/encryption-landing.md)
+**Parent Topic:**[Encryption](encryption-landing.md)
 

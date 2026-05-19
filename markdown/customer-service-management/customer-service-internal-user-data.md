@@ -21,7 +21,7 @@ User roles provide access to customer service features, capabilities, and data. 
 -   Consumer service agent \[sn\_customerservice.consumer\_agent\]
 -   Customer service manager \[sn\_customerservice\_manager\]
 
-For detailed descriptions about user roles, see [Roles installed with Customer Service Management](../reference/r_RolesInstalledWithCustomerService.md).
+For detailed descriptions about user roles, see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
 
-**Parent Topic:**[Roles installed with Customer Service Management](../reference/r_RolesInstalledWithCustomerService.md)
+**Parent Topic:**[Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md)
 

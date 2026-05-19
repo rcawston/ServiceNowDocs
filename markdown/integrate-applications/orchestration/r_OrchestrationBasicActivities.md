@@ -19,7 +19,7 @@ These Orchestration activities have been deprecated.
 
 The Run Probe activity launches a MID Server probe on behalf of a document. All Orchestration activities that launch a probe on a target machine are based on the Run Probe activity. Your ServiceNow instance must have access to a MID Server configured to use SSH to run this activity.
 
-**Important:** This activity is deprecated and is unavailable for new workflows. To replace the functionality of this probe, use the [Probe activity template](../../orchestration-activity-designer/task/t_CreateAProbeActivity.md#) to create a custom activity. Workflows from a previous release that use the Run Probe activity can continue to do so.
+**Important:** This activity is deprecated and is unavailable for new workflows. To replace the functionality of this probe, use the [Probe activity template](t_CreateAProbeActivity.md#) to create a custom activity. Workflows from a previous release that use the Run Probe activity can continue to do so.
 
 |Field|Description|
 |-----|-----------|
@@ -41,16 +41,16 @@ The SOAP Request activity executes a SOAP request on a target server.
 |Envelope Script|Script for setting up parameters for the web service.|
 |Sensor Script|The script to execute after the request has been made and a response has been received.|
 
--   **[Reactivate a deprecated activity](../task/t_ReactivateDeprecatedActivity.md)**  
+-   **[Reactivate a deprecated activity](t_ReactivateDeprecatedActivity.md)**  
 Orchestration activities that were converted to activity packs are deprecated for upgraded and new instances but can be reactivated for use in new workflows.
 -   **[SOAP Message workflow activity](r_SOAPMessageActivity.md)**  
 The **SOAP Message** activity uses SOAP messages defined in the System Web Services plugin and can call the messages using a MID Server.
--   **[Probes used by Orchestration](../../../product/orchestration/reference/r_OrchestrationProbes.md)**  
+-   **[Probes used by Orchestration](r_OrchestrationProbes.md)**  
 Certain probes, controlled by MID Servers, perform Orchestration tasks on remote computers, such as restarting a server or creating virtual machines from templates.
--   **[PowerShell activities](../concept/c_OrchestrPowerShellActivities.md#)**  
+-   **[PowerShell activities](c_OrchestrPowerShellActivities.md#)**  
 PowerShell is built on the Windows .NET Framework and is designed to control and automate the administration of Windows machines and applications.
--   **[SSH activities](../concept/c_OrchestrationSSHActivities.md#)**  
+-   **[SSH activities](c_OrchestrationSSHActivities.md#)**  
 SSH activities allow workflows to perform operations on Linux and Unix computers.
 
-**Parent Topic:**[Activate Orchestration](../../../product/orchestration/task/t_ActivateOrchestration.md)
+**Parent Topic:**[Activate Orchestration](t_ActivateOrchestration.md)
 

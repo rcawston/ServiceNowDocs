@@ -23,7 +23,7 @@ Role required: none
 
 The GetApplicationCredential component can be used when the automation involves an application that requires user authentication. When a user name and password for the application are stored in RPA Hub, GetApplicationCredential retrieves them.
 
-You can configure the properties for the GetApplicationCredential component. For more information about these properties, see [Properties of the Credentials components](../reference/credentials-properties.md).
+You can configure the properties for the GetApplicationCredential component. For more information about these properties, see [Properties of the Credentials components](credentials-properties.md).
 
 ## Procedure
 
@@ -46,5 +46,5 @@ You can configure the properties for the GetApplicationCredential component. For
 5.  To test the component, on the **Design** tab, select **Run**.
 
 
-**Parent Topic:**[Credentials](../concept/credentials.md)
+**Parent Topic:**[Credentials](credentials.md)
 

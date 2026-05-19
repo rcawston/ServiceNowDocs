@@ -17,7 +17,7 @@ You can activate the Field Service Crew Operations plugin \(com.snc.fsm\_crew\_s
 
 ## Before you begin
 
-Field Service Crew Operations requires the Field Service Management \[com.snc.work\_management\] plugin. For more information about activating Field Service Management, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md). Ensure that these plugins are activated before you install Field Service Crew Operations.
+Field Service Crew Operations requires the Field Service Management \[com.snc.work\_management\] plugin. For more information about activating Field Service Management, see [Activate Field Service Management](../t_ActivateFieldServiceManagement.md). Ensure that these plugins are activated before you install Field Service Crew Operations.
 
 Role required: admin.
 
@@ -29,7 +29,7 @@ The following items are installed with Field Service Crew Operations:
 -   Tables
 -   Business rules
 
-For more information, see [Field Service Crew Operations components](../reference/crew-scheduling-components.md).
+For more information, see [Field Service Crew Operations components](../crew-scheduling-components.md).
 
 ## Procedure
 
@@ -52,5 +52,5 @@ For more information, see [Field Service Crew Operations components](../referenc
 
 ## Result
 
-The Field Service Crew Operations plugin when activated successfully adds the **sn\_fsm\_crew.work.management.allow.undersized.crew.taskassignment** property to the Field Service Management system properties. For more information, see [Properties installed with Field Service Management](../../planning-and-policy/reference/r_PropInstallWFieldServMgmnt.md).
+The Field Service Crew Operations plugin when activated successfully adds the **sn\_fsm\_crew.work.management.allow.undersized.crew.taskassignment** property to the Field Service Management system properties. For more information, see [Properties installed with Field Service Management](../r_PropInstallWFieldServMgmnt.md).
 

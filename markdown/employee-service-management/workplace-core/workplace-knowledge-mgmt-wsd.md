@@ -37,13 +37,13 @@ You can add attachments and enable employees to view the attachments individuall
 
 You can view and update the knowledge base articles at any time. You can view published articles, unpublished articles and retired articles separately. You can also republish an article whenever needed.
 
--   **[Create a workplace knowledge base article](../task/create-workplace-kb-article-wsd.md)**  
+-   **[Create a workplace knowledge base article](create-workplace-kb-article-wsd.md)**  
 Provide information to employees through knowledge base articles. Create knowledge base articles with information about workplace updates, self-help, troubleshoot steps, and others.
--   **[Publish a workplace knowledge base article](../task/publish-workplace-kb-article-wsd.md)**  
+-   **[Publish a workplace knowledge base article](publish-workplace-kb-article-wsd.md)**  
 After creating a knowledge base article, publish the article to make it available for employees.
--   **[View workplace knowledge base articles](../task/view-workplace-kb-article-wsd.md)**  
+-   **[View workplace knowledge base articles](view-workplace-kb-article-wsd.md)**  
 View workplace-related updates, processes, and other information in the knowledge base articles that your team created. Rate articles that you find useful.
--   **[Modify a workplace knowledge base article](../task/modify-workplace-kb-article-wsd.md)**  
+-   **[Modify a workplace knowledge base article](modify-workplace-kb-article-wsd.md)**  
 Update a knowledge base article at any time. Retire a published article or republish a retired article.
 
 **Parent Topic:**[Manage workplace safety activities](manage-wsd-activites.md)
@@ -51,25 +51,25 @@ Update a knowledge base article at any time. Retire a published article or repub
 **Related topics**  
 
 
-[Import your workspaces data from an Excel spreadsheet](../task/import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](import-excel-spreadsheet-workspace-data-wsd.md)
 
-[Add a space type configuration](../task/add-space-type-configuration-wsd.md)
+[Add a space type configuration](add-space-type-configuration-wsd.md)
 
-[Configure a workplace card](../task/configure-workplace-card.md)
+[Configure a workplace card](configure-workplace-card.md)
 
-[Block a workplace location](../task/block-workplace-location.md)
+[Block a workplace location](block-workplace-location.md)
 
 [Configure Workplace entity and entity types](workplace-entity.md)
 
-[Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
+[Managing Neighborhoods](neighborhoods.md)
 
-[Enable favorites option for Workplace Service Portal](../task/confgure-favourites-option-for-ws-portal-wsd.md)
+[Enable favorites option for Workplace Service Portal](confgure-favourites-option-for-ws-portal-wsd.md)
 
-[Create a workplace performer criteria](../task/create-workplace-performer-criteria.md)
+[Create a workplace performer criteria](create-workplace-performer-criteria.md)
 
 [Mapping employees to their designated workspaces](mapping-employees-to-existing-work-locations-wsd.md)
 
-[Assign the workplace user role to employees](../task/assign-workplace-user-role-to-employees-of-a-location-wsd.md)
+[Assign the workplace user role to employees](assign-workplace-user-role-to-employees-of-a-location-wsd.md)
 
 [Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 
@@ -79,7 +79,7 @@ Update a knowledge base article at any time. Retire a published article or repub
 
 [Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace-wsd.md)
 
-[Approve employee workplace reservation requests](../task/approve-workplace-reservation-requests-wsd.md)
+[Approve employee workplace reservation requests](approve-workplace-reservation-requests-wsd.md)
 
 [Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 
@@ -87,5 +87,5 @@ Update a knowledge base article at any time. Retire a published article or repub
 
 [Location migration](location-migration.md)
 
-[View workplace service usage analytics with Usage Insights](../reference/appsee-intergration-wsd.md)
+[View workplace service usage analytics with Usage Insights](appsee-intergration-wsd.md)
 

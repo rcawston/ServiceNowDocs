@@ -46,9 +46,9 @@ To sum the residual values of all assets in a fixed asset:
 **Related topics**  
 
 
-[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+[Mobile app for Hardware Asset Management](mobile-my-asset.md)
 
-[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+[Work with Asset and CI](work-with-asset-ci.md)
 
 [Manage various assets through asset classes](c_AssetClasses.md)
 
@@ -56,11 +56,11 @@ To sum the residual values of all assets in a fixed asset:
 
 [Stockrooms](c_Stockrooms.md)
 
-[Manage pre-allocated assets](../../hardware-asset-management/concept/manage-preallocated-asset.md)
+[Manage pre-allocated assets](manage-preallocated-asset.md)
 
 [Manage transfer order](manage-transfer-orders.md)
 
-[Use Organization Management](../reference/org-mgmt.md#)
+[Use Organization Management](org-mgmt.md#)
 
 ## Use depreciation with fixed assets
 

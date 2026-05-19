@@ -39,11 +39,11 @@ Starting with the Australia release, technical services align with the Common Se
 |----------|----------------------------------|-------------------------------------|
 |\[cmdb\_ci\_service\_technical\]|Technical Service|Technology Management Service|
 
-To create or modify services, see [Create or modify Service Portfolio Management services](../task/create-or-modify-SPM2-services.md).
+To create or modify services, see [Create or modify Service Portfolio Management services](create-or-modify-SPM2-services.md).
 
 To learn about service offerings, see [Service Portfolio Management service offerings](SPM2-service-offerings.md).
 
-To subscribe users to a service offering, see [Subscribe users to a service offering in Service Portfolio Management](../task/SPM2-subscribe-to-service-offering.md).
+To subscribe users to a service offering, see [Subscribe users to a service offering in Service Portfolio Management](SPM2-subscribe-to-service-offering.md).
 
 **Parent Topic:**[Exploring Service Portfolio Management](c_ServicePortfolioManagementv2.md)
 

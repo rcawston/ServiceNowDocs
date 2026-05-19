@@ -21,7 +21,7 @@ The CMDB success advisor for Data Foundations dashboard enables CMDB administrat
 
 ## Access the dashboard
 
-To open the dashboard, select **View insights** for Data Foundations on the CMDB success advisor landing page. See [Access CMDB success advisor](../task/cmdb-sa-access.md).
+To open the dashboard, select **View insights** for Data Foundations on the CMDB success advisor landing page. See [Access CMDB success advisor](cmdb-sa-access.md).
 
 **Note:** The CMDB success advisor for Data Foundations dashboard is available only after the setup process is complete. For more information, see [Set up CMDB success advisor for Data Foundations](cmdb-sa-df-config-settings.md).
 
@@ -131,9 +131,9 @@ Key metrics for the completeness of CI attributes across principal classes, iden
 
 |Card|Description|Indicators|
 |----|-----------|----------|
-|CIs missing name|Total number of CI records from principal classes missing a name, measured daily, where the CI does not have a name specified.|[DF CIs missing name](../reference/cmdb-sa-df-indicators.md#df-ci-missing-name)|
-|CIs missing managed by group|Total number of CI records from principal classes missing a managed by group, measured daily, where the CI does not have a managed by group assigned.|[DF CIs missing managed by group](../reference/cmdb-sa-df-indicators.md#df-ci-missing-managed-group)|
-|CIs missing location|Total number of CI records from principal classes missing a location, measured daily, where the CI does not have a location assigned.|[DF CIs missing location](../reference/cmdb-sa-df-indicators.md#df-ci-missing-location)|
+|CIs missing name|Total number of CI records from principal classes missing a name, measured daily, where the CI does not have a name specified.|[DF CIs missing name](cmdb-sa-df-indicators.md#df-ci-missing-name)|
+|CIs missing managed by group|Total number of CI records from principal classes missing a managed by group, measured daily, where the CI does not have a managed by group assigned.|[DF CIs missing managed by group](cmdb-sa-df-indicators.md#df-ci-missing-managed-group)|
+|CIs missing location|Total number of CI records from principal classes missing a location, measured daily, where the CI does not have a location assigned.|[DF CIs missing location](cmdb-sa-df-indicators.md#df-ci-missing-location)|
 
 ## CI data quality issues
 
@@ -161,13 +161,13 @@ Principal class CIs not updated within the expected maintenance window, causing 
 
 </td><td>
 
-[DF CIs not updated in last 7 days](../reference/cmdb-sa-df-indicators.md#df-ci-not-updated-7)[DF CIs not updated in last 14 days](../reference/cmdb-sa-df-indicators.md#df-ci-not-updated-14)
+[DF CIs not updated in last 7 days](cmdb-sa-df-indicators.md#df-ci-not-updated-7)[DF CIs not updated in last 14 days](cmdb-sa-df-indicators.md#df-ci-not-updated-14)
 
-[DF CIs not updated in last 30 days](../reference/cmdb-sa-df-indicators.md#df-ci-not-updated-30)
+[DF CIs not updated in last 30 days](cmdb-sa-df-indicators.md#df-ci-not-updated-30)
 
-[DF CIs not updated in last 60 days](../reference/cmdb-sa-df-indicators.md#df-ci-not-updated-60)
+[DF CIs not updated in last 60 days](cmdb-sa-df-indicators.md#df-ci-not-updated-60)
 
-[DF CIs not updated in last 90 days](../reference/cmdb-sa-df-indicators.md#df-ci-not-updated-90)
+[DF CIs not updated in last 90 days](cmdb-sa-df-indicators.md#df-ci-not-updated-90)
 
 **Note:** The CIs not updated card data is additionally filtered based on the Stale CI filter. See [Filters](cmdb-sa-df-dashboard.md#section_xsj_x4l_k3c).
 
@@ -181,7 +181,7 @@ Operational CIs identified as duplicates within principal classes, causing ambig
 
 </td><td>
 
-[DF duplicate CIs](../reference/cmdb-sa-df-indicators.md#df-duplicate-cis)
+[DF duplicate CIs](cmdb-sa-df-indicators.md#df-duplicate-cis)
 
 </td></tr></tbody>
 </table>

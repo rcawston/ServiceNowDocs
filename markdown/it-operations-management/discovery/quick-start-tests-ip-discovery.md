@@ -19,9 +19,9 @@ Quick start test for IP discovery validate configuration items \(CI\) and their 
 |----|-----------|
 |TestIPDiscovery|IP discovery is performed on an IP input by the user. After discovery, the CI and relationships are created in the cmdb\_ci and rel\_ci tables. This test validates the CIs and relationships created and output and discovery errors during the discovery run.|
 
-To learn more about IP Discovery, see [Schedule a horizontal discovery](../../../product/discovery/task/t_CreateADiscoverySchedule.md#).
+To learn more about IP Discovery, see [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#).
 
-**Parent Topic:**[Discovery reference](../../../product/discovery/reference/discovery-references.md)
+**Parent Topic:**[Discovery reference](discovery-references.md)
 
 **Related topics**  
 

@@ -99,7 +99,7 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 6.  When the installation is complete, click **Close**.
 
 
-**Parent Topic:**[Workplace PPE Inventory Management](../concept/ppe-inventory-management.md)
+**Parent Topic:**[Workplace PPE Inventory Management](ppe-inventory-management.md)
 
 ## Components installed with Workplace PPE Inventory Management
 

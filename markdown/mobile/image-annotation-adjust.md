@@ -42,5 +42,5 @@ Role required: admin
     |![Image annotation button and panel for iOS devices.](../image/image-annotation-ios.png)|![Image annotation button and panel for Android devices.](../image/image-annotation-android.png)|
 
 
-**Parent Topic:**[Working with images and attachments in mobile](../concept/images-and-attachments.md)
+**Parent Topic:**[Working with images and attachments in mobile](images-and-attachments.md)
 

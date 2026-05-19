@@ -27,9 +27,9 @@ For your shoppers to view the complete list of steps on procurement cases or req
 
 For more information on these playbooks available on Source-to-Pay Workspace, see:
 
--   [Process a purchase order edit in playbook](../task/process-purchase-order.md)
--   [Process a purchase requisition edit request in playbook](../task/playbook-edit-request-flow.md)
--   [Process a return request in playbook](../task/playbook-return-request.md)
+-   [Process a purchase order edit in playbook](process-purchase-order.md)
+-   [Process a purchase requisition edit request in playbook](playbook-edit-request-flow.md)
+-   [Process a return request in playbook](playbook-return-request.md)
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](employee-center-integration-psm.md)
 

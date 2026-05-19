@@ -25,7 +25,7 @@ Use the REST API Explorer to send the following request:
 
 `POST https://instance.service-now.com/api/now/v1/table/incident`
 
-For details about the Table API and examples, see [Table API](../concept/c_TableAPI.md#).
+For details about the Table API and examples, see [Table API](../rest-apis/c_TableAPI.md#).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ For details about the Table API and examples, see [Table API](../concept/c_Table
 
 2.  Click **Create a record \(POST\)**.
 
-    For more information about this API endpoint, see [Table - POST /now/table/\{tableName\}](../concept/c_TableAPI.md#).
+    For more information about this API endpoint, see [Table - POST /now/table/\{tableName\}](../rest-apis/c_TableAPI.md#).
 
 3.  In the Path Parameters section, select the **Incident \(incident\)** table.
 
@@ -56,5 +56,5 @@ For details about the Table API and examples, see [Table API](../concept/c_Table
     ![REST API Explorer POST response](../image/rest-api-exp-post-response.png)
 
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](use-REST-API-Explorer.md)
 

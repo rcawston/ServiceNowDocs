@@ -48,7 +48,7 @@ It's required that you review your contracts and third parties annually. You can
 
 4.  Set up the digital resilience information for the assessments on the form.
 
-    For more information, see [Create New Assessment of the ICT service](../reference/create-new-asmt-ict-service.md).
+    For more information, see [Create New Assessment of the ICT service](create-new-asmt-ict-service.md).
 
 5.  Select **Save**.
 
@@ -110,8 +110,8 @@ Once all details are captured, you can perform the following tasks:
 -   Download the information using the Microsoft Excel download feature
 -   Upload requests as needed
 
--   **[Create New Assessment of the ICT service](../reference/create-new-asmt-ict-service.md)**  
+-   **[Create New Assessment of the ICT service](create-new-asmt-ict-service.md)**  
 On the Create New Assessment of the ICT service form, fill in the fields.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)
 

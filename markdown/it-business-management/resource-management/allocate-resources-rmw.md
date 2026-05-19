@@ -112,5 +112,5 @@ If no tasks appear in the Unassigned tasks tray, verify the following:
 5.  Check the date range. Verify the resource card's date range overlaps with the resource request dates. Requests outside the visible time frame will not display.
 6.  Confirm the permissions. Confirm you have the resource\_manager role, which is required to view and manage unassigned work.
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](using-rmw.md)
 

@@ -71,5 +71,5 @@ Your utterances can reference a vocabulary source by using the @ handle. If you 
 
 ![How to reference a vocabulary source from within an utterance.](../images/create-simple-entity0.png "Example utterance using a vocabulary source")
 
-For more information, see [NLU vocabulary](../concept/using-nlu-vocabulary.md).
+For more information, see [NLU vocabulary](using-nlu-vocabulary.md).
 

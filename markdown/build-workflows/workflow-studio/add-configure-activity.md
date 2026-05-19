@@ -19,7 +19,7 @@ Add and configure an activity in your playbook.
 
 Role required: playbook.admin or pd\_author
 
-Review [Stages and activities](../concept/process-automation-designer-lanes-activities.md).
+Review [Stages and activities](process-automation-designer-lanes-activities.md).
 
 ## Procedure
 
@@ -90,7 +90,7 @@ Choose when you want your activity to start running. Options include:-   **When 
 
 
 </td></tr></tbody>
-</table>    1.  **Show additional options** the activity for [even more granular control](../reference/advanced-instruction-activity.md).
+</table>    1.  **Show additional options** the activity for [even more granular control](advanced-instruction-activity.md).
 
         **Warning:** Changing the advanced property fields of an activity can potentially break your automation. Make sure you understand how the playbook and its activities flow before you make changes.
 
@@ -116,7 +116,7 @@ After the activity starts, the activity runs only if specific conditions are met
 
 </td><td>
 
-Specify a duration of time to wait before running an activity whose start rule and conditions have been met. For more information, see [Start with delay input properties](../reference/start-with-delay-properties.md).
+Specify a duration of time to wait before running an activity whose start rule and conditions have been met. For more information, see [Start with delay input properties](start-with-delay-properties.md).
 
 </td></tr><tr><td id="d178173e310">
 
@@ -242,32 +242,32 @@ Optionally, set the activity's experience type, which helps to define how the ac
 
 Set up the Playbook Experience for you agents and fulfillers.
 
-**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
 [Add and configure a stage in a playbook](add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](activity-definitions.md)
 
 [Use AI agent as an activity](ai-agent-as-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](start-with-delay-properties.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](optional-activities.md#)
 
 [Decision activities](create-a-decision-activity.md)
 
 [Decision stages](create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](questionnaire-activity.md)
 
 [Parallel branches](create-parallel-activity.md)
 
 [Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](playbook-activity-state-mapping.md)
 

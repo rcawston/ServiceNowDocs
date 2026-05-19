@@ -34,7 +34,7 @@ Role required: sn\_slm.contact
 
 5.  On the Delivery plan change form, fill in the fields.
 
-    For a description of the field values, see [Delivery plan change form](../reference/create-delivery-plan-change.md).
+    For a description of the field values, see [Delivery plan change form](create-delivery-plan-change.md).
 
 6.  Select **Submit**.
 
@@ -43,5 +43,5 @@ Role required: sn\_slm.contact
 
 The application creates an exception and assigns it to the operational buyer.
 
-**Parent Topic:**[Reporting delivery plan issues](../concept/reporting-delivery-plan-issues.md)
+**Parent Topic:**[Reporting delivery plan issues](reporting-delivery-plan-issues.md)
 

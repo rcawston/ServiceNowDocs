@@ -29,7 +29,7 @@ Role required: ui\_builder\_admin
 
 3.  Open the editor for the page variant that you want to add the viewport to.
 
-    If you haven't created a page for your experience, follow the steps to [Create a page in UI Builder](../task/create-page.md).
+    If you haven't created a page for your experience, follow the steps to [Create a page in UI Builder](create-page.md).
 
 4.  Select **+ Add content** in the content tree.
 
@@ -51,7 +51,7 @@ Role required: ui\_builder\_admin
 
 11. Select a [page collection](ui-builder-glossary.md#) from the list or create a collection by selecting **+ Create collection**.
 
-    For more information on creating your own page collection, see [Create a page collection across multiple UI pages](../task/create-page-collection.md).
+    For more information on creating your own page collection, see [Create a page collection across multiple UI pages](create-page-collection.md).
 
     ![Page collection selection screen with option to create a collection.](../image/page-collection-list.png)
 
@@ -69,7 +69,7 @@ Role required: ui\_builder\_admin
 
 15. Add a component to your page to open the viewport you just added, such as a button component.
 
-    For more information, see [Add and configure components](../task/add-components.md#).
+    For more information, see [Add and configure components](add-components.md#).
 
 16. Select the **Events** tab in the configuration panel.
 

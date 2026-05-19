@@ -19,7 +19,7 @@ Assign an existing defect to a test case to track the relationship between defec
 
 -   The ability to assign a defect is available only if the Agile Development 2.0 plugin is activated.
 -   A defect record must exist in your instance. If no defect exists, create one first. For more information, see [Report a defect from a failed test](t_ReportADefectFromAFailedTest.md).
--   Perform tests and update the test status. For more information, see [Performing tests and updating the test status](../concept/c_Tester.md).
+-   Perform tests and update the test status. For more information, see [Performing tests and updating the test status](c_Tester.md).
 -   Role required: tm\_tester
 
 ## About this task

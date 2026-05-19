@@ -40,7 +40,7 @@ Role required: survey\_admin or survey\_reader
     For a description of the field values, see .
 
 
-**Parent Topic:**[Survey responses and results](../concept/c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](c_SurveyResults.md)
 
 **Related topics**  
 
@@ -49,11 +49,11 @@ Role required: survey\_admin or survey\_reader
 
 [View a survey scorecard](t_ViewAScorecard.md)
 
-[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)
+[Export a quiz scorecard as an image](t_ExportAQuizScorecard.md)
 
 [Request translations for surveys](request-translations-for-surveys.md)
 
 [Edit translations for surveys](edit-translations-for-surveys.md)
 
-[Survey responses in a database view](../concept/survey-result-database-view.md)
+[Survey responses in a database view](survey-result-database-view.md)
 

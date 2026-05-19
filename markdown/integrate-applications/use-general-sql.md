@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the SQL component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the SQL component. For more information about these properties, see [Properties of the General components](Properties-general-components.md).
 
 ## Procedure
 
@@ -153,5 +153,5 @@ Data Out
 11. To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

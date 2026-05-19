@@ -35,5 +35,5 @@ Role required: admin
     For example, if you add `fcRunAs=admin`, the code places **System Administrator** in the **Updated by** field.
 
 
-**Parent Topic:**[Configuring Incident Management](../concept/incident-configuration.md)
+**Parent Topic:**[Configuring Incident Management](incident-configuration.md)
 

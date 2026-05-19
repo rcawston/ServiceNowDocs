@@ -38,5 +38,5 @@ After the data is loaded to the Operational Sustainability Management applicatio
 
 [Create a transform map](create-a-transform-map.md).
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](../concept/integrate-esg-with-watershed.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](integrate-esg-with-watershed.md)
 

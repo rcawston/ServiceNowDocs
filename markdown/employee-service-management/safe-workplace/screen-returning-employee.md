@@ -58,7 +58,7 @@ Navigate to **Employee Health and Safety Status** &gt; **View Employee and Visit
 </td></tr></tbody>
 </table>2.  Review the requirement status to verify that the person is cleared to enter.
 
-    **Note:** Requirements are created in the Employee Readiness Core application. For more information, see [Employee Health and Safety Status](../../employee-readiness-core/concept/employee-health-safety-status.md).
+    **Note:** Requirements are created in the Employee Readiness Core application. For more information, see [Employee Health and Safety Status](../employee-readiness-core/employee-health-safety-status.md).
 
     If the status is **Not cleared** and your organization's policy is to deny entry at this check point, provide the person with the next steps to take based on your organization's policy. Then, assist the next person in line.
 
@@ -169,5 +169,5 @@ Whether the person is wearing PPE. Values are **Yes** or **No**.
 
 You receive a message that indicates whether to allow the person to enter. If the person does not pass the health screening, provide them with the next steps based on your organization's policy.
 
-**Parent Topic:**[Employee Health Screening](../concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](employee-health-screening.md)
 

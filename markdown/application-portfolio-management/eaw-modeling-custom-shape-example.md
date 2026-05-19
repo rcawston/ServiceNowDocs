@@ -117,7 +117,7 @@ Create the shapes that represent the elements you want to include in your diagra
         The selected shape gets added to the canvas.
 
 
-**Parent Topic:**[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+**Parent Topic:**[Working with custom shapes](eaw-working-custom-shapes.md)
 
 **Related topics**  
 

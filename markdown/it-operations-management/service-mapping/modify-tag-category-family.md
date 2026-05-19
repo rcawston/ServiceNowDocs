@@ -25,7 +25,7 @@ Role required: service\_mapping\_admin
 
 ## About this task
 
-**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](../reference/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](../concept/tag-discovery-service-mapping-workspace.md).
+**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](tag-discovery-service-mapping-workspace.md).
 
 You may decide to add or remove tag categories from a tag-based service family in the following cases:
 
@@ -70,7 +70,7 @@ Service Mapping generates new tag-based service candidates that you use to map s
 
 [Remap tag-based application services to reflect tag changes](remap-tag-based-services-tag-changes.md)
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
@@ -91,7 +91,7 @@ Service Mapping generates new tag-based service candidates that you use to map s
 
 [Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

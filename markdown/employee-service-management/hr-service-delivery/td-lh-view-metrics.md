@@ -36,5 +36,5 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
     **Tip:** The drill-down metrics are graphs that display further details about the corresponding north-star metric. The drill-down metrics appear underneath the north-star metrics.
 
 
-**Parent Topic:**[Using Leader Hub](../concept/td-lh-using.md)
+**Parent Topic:**[Using Leader Hub](td-lh-using.md)
 

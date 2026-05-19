@@ -21,7 +21,7 @@ When an agent selects a catalog item from the service selector, the system displ
 
 Users with the admin role can configure a service definition to use catalog items.
 
-1.  [Create a service definition](../task/create-csm-service-definition.md) or edit an existing service definition record.
+1.  [Create a service definition](create-csm-service-definition.md) or edit an existing service definition record.
 2.  Enable the **Use service catalog item** field.
 3.  Add the associated catalog items for this service definition to the Catalog Service Relationships related list.
 

@@ -254,22 +254,22 @@ Number that indicates the order that the functions are listed. If there are mult
 
 Your users can open the quick action by selecting the ![Plus icon](../image/more-items.png) icon on the applet launcher page.
 
-**Parent Topic:**[Request experience in Now Mobile](../../../product/service-catalog-management/concept/now-mobile-catalog.md)
+**Parent Topic:**[Request experience in Now Mobile](now-mobile-catalog.md)
 
 **Related topics**  
 
 
 [Configure catalogs](configure-catalog.md)
 
-[Browse catalog items using the catalog hierarchy](../../../product/service-catalog-management/task/now-mob-browse-cat-item-catalog.md)
+[Browse catalog items using the catalog hierarchy](now-mob-browse-cat-item-catalog.md)
 
 [Submit and track a request](order-item.md)
 
-[Enable notifications in Now Mobile](../../../product/service-catalog-management/task/enable-notification-mobile.md)
+[Enable notifications in Now Mobile](enable-notification-mobile.md)
 
-[Enable the cart in Now Mobile](../../../product/service-catalog-management/task/enable-cart-mobile.md)
+[Enable the cart in Now Mobile](enable-cart-mobile.md)
 
-[Edit the label of Submit button for a record producer](../../../product/service-catalog-management/task/edit-recprdcr-submit-label.md)
+[Edit the label of Submit button for a record producer](edit-recprdcr-submit-label.md)
 
-[Configure Now Mobile properties](../../../product/service-catalog-management/task/config-now-mob-properties.md)
+[Configure Now Mobile properties](config-now-mob-properties.md)
 

@@ -14,7 +14,7 @@ The ServiceNow® Asset Audit Response application provides workspaces where asse
 
 ## Asset Audit Response highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Automatically generate summaries of completed and in-progress evidence requests for your financial regulatory audits.
 -   Track and manage impacted records that are associated with your remediation tasks.

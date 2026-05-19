@@ -30,5 +30,5 @@ Use the Strategic Plan form to define the purpose of your organization, its stra
 **Related topics**  
 
 
-[Enterprise strategy example](../concept/enterprise-goal-example-strategy-gf.md)
+[Enterprise strategy example](enterprise-goal-example-strategy-gf.md)
 

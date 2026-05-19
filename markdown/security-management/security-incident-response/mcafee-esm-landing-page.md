@@ -19,31 +19,31 @@ McAfee ESM - Incident Enrichment integration searches your logs and adds relevan
 
 Explore
 
- [Security Incident Response integrations](../../../security-incident-response/concept/sir_integrations.md)
+ [Security Incident Response integrations](sir_integrations.md)
 
 </td><td>
 
 Set up
 
- -   [Get started with the McAfee ESM - Incident Enrichment integration](../task/activate-configure-mcafee-esm-inc-enrich.md)
--   [Create sightings search configuration records](../../../security-incident-response/task/sightings-search-configurations.md)
+ -   [Get started with the McAfee ESM - Incident Enrichment integration](activate-configure-mcafee-esm-inc-enrich.md)
+-   [Create sightings search configuration records](../sightings-search-configurations.md)
 
 </td></tr><tr><td>
 
 Use
 
- -   [Run a Sightings Search](../../../security-operations-common/task/run-sightings-search.md)
--   [Security Operations Integration - Sightings Search Flow](../../../security-operations-integrations/task/secops-integration-sightings-search-workflow.md)
--   [Security Operations - McAfee ESM Sightings Search Flow](../../../security-operations-integrations/concept/secops-integration-sightings-search-mcafee-workflow.md)
--   [View Sightings Search Details](../../../security-operations-common/task/view-sightings-search-details.md)
--   [View Sightings Search Results](../../../security-operations-common/task/view-sightings-search-results.md)
+ -   [Run a Sightings Search](../run-sightings-search.md)
+-   [Security Operations Integration - Sightings Search Flow](../secops-integration-sightings-search-workflow.md)
+-   [Security Operations - McAfee ESM Sightings Search Flow](../secops-integration-sightings-search-mcafee-workflow.md)
+-   [View Sightings Search Details](../view-sightings-search-details.md)
+-   [View Sightings Search Results](../view-sightings-search-results.md)
 
 </td><td>
 
 Develop
 
- -   [ServiceNow Security Operations integration development guidelines](../../../security-operations-integrations/concept/c_IntegrationWritingGuidelines.md)
--   [Tips for writing integrations](../../../security-operations-integrations/concept/c_BestPractisesIntegrations.md)
+ -   [ServiceNow Security Operations integration development guidelines](../c_IntegrationWritingGuidelines.md)
+-   [Tips for writing integrations](../c_BestPractisesIntegrations.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 
@@ -51,7 +51,7 @@ Develop
 
 Troubleshoot and get help
 
- -   [Integration troubleshooting](../../../security-operations-integrations/concept/c_IntegrationTroubleshooting.md)
+ -   [Integration troubleshooting](../c_IntegrationTroubleshooting.md)
 -   [Ask or answer questions in the Security Operations community](https://community.servicenow.com/community/security-operations)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)

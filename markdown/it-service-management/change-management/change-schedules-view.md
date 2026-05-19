@@ -147,18 +147,18 @@ Change record
 Summary of the change record when you click any span. Use **Open Record** in the header of the summary to open the change request in the form view. In the form, you can view the entire change request record. **Note:** You can specify the fields that are displayed in this window. On the Change Schedule Definition form, under the **Record Summary** tab, specify required fields on **Left column fields** and **Right column fields**.
 
 </td></tr></tbody>
-</table>**Note:** Change schedules are loaded on the timeline page on the client side in batches of 20. You can load a maximum of 1000 records. These numbers can be modified by system administrator. For more information, refer the properties at [Installed with Change Management - Change Schedule](../reference/installed-cm-changeschedule.md#).
+</table>**Note:** Change schedules are loaded on the timeline page on the client side in batches of 20. You can load a maximum of 1000 records. These numbers can be modified by system administrator. For more information, refer the properties at [Installed with Change Management - Change Schedule](installed-cm-changeschedule.md#).
 
 **Parent Topic:**[Change schedules](change-schedule.md)
 
 **Related topics**  
 
 
-[Create a change schedule from the Change Schedules page](../task/create-chng-sch-from-chng-sch-page.md)
+[Create a change schedule from the Change Schedules page](create-chng-sch-from-chng-sch-page.md)
 
-[Create a change schedule from the change schedule definition](../task/create-chng-sch-from-chng-sch-def.md)
+[Create a change schedule from the change schedule definition](create-chng-sch-from-chng-sch-def.md)
 
-[Add related tasks to a change schedule](../task/add-related-tasks-to-chng-schedule.md)
+[Add related tasks to a change schedule](add-related-tasks-to-chng-schedule.md)
 
 [Style rules definition](style-rules-definition.md)
 

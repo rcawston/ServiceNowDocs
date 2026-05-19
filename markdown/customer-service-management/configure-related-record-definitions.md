@@ -21,7 +21,7 @@ Role required: admin
 
 The system administrator can create relate definitions and associate the desired definitions with a related record context. For example, the admin can associate SLA and escalation definitions with the Case related record context. Definitions can be associated with multiple contexts.
 
-The Dynamic Related Records for Configurable Workspace plugin includes several related record definitions for case records. For more information, see [Related record definitions included with the plugin](../concept/dynamic-related-records-configure.md#section_khj_gwl_jpb).
+The Dynamic Related Records for Configurable Workspace plugin includes several related record definitions for case records. For more information, see [Related record definitions included with the plugin](dynamic-related-records-configure.md#section_khj_gwl_jpb).
 
 ## Procedure
 

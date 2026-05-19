@@ -27,7 +27,7 @@ Before using these APIs, you must [configure an authentication algorithm](https:
 
 Use this API in scoped scripts with the `sn_auth` namespace identifier. You can instantiate this class using the constructor, or you can return an HttpRequestAuthedData object from the generateAuth\(\) method in the RequestAuthAPI class.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## HttpRequestAuthedData - HttpRequestAuthedData\(\)
 

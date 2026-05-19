@@ -136,7 +136,7 @@ Create a script to include the related lists data, date operations, and any othe
 -   **[Preview the Report Template](preview-status-reports.md)**  
 Use the Preview functionality to preview your design-time report template to generate and share the report with other stakeholders during run time from the Major Security Incident Management workspace.
 
-**Parent Topic:**[Configure Major Security Incident status reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+**Parent Topic:**[Configure Major Security Incident status reports](manage-status-reports-for-major-security-incident-management.md)
 
 **Related topics**  
 
@@ -147,7 +147,7 @@ Use the Preview functionality to preview your design-time report template to gen
 
 [Create Report Subsection Element template](create-report-subsection-element-template.md)
 
-[Add system properties](../concept/adding-system-properties-to-your-status-reports.md)
+[Add system properties](adding-system-properties-to-your-status-reports.md)
 
 [Create and distribute MSIM Status Reports](creating-and-distributing-major-security-incident-status-reports.md)
 

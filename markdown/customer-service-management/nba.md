@@ -101,7 +101,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install the Recommended Actions application](../task/install-recommended-actions-cs-app.md)
+[Install the Recommended Actions application](install-recommended-actions-cs-app.md)
 
 </td><td>
 
@@ -109,7 +109,7 @@ Download the Recommended Actions application from the ServiceNow® Store.
 
 </td></tr><tr><td>
 
-[Assign roles to Recommended Actions users](../reference/ra-csm-installed-components.md)
+[Assign roles to Recommended Actions users](ra-csm-installed-components.md)
 
 </td><td>
 
@@ -124,7 +124,7 @@ Assign roles to your users to control access to Recommended Actions features and
 Configure recommended actions to create a context, rule, and recommendations with action types such as guidance and field recommendation.**Note:** The Guided Decisions application \(sn\_gd\_core\) is required to create guided decision trees.
 
 </td></tr></tbody>
-</table>**Note:** If Recommended Actions doesn't appear on a variant of a record page \(such as the CSM default record page, CSM Interaction record page, or Front-line case page\), ensure that the variant is marked active. For detailed steps, see [Restore Recommended Actions on record page variants after upgrade](../task/ra-csm-enable-ra-variant-record-page.md).
+</table>**Note:** If Recommended Actions doesn't appear on a variant of a record page \(such as the CSM default record page, CSM Interaction record page, or Front-line case page\), ensure that the variant is marked active. For detailed steps, see [Restore Recommended Actions on record page variants after upgrade](ra-csm-enable-ra-variant-record-page.md).
 
 ## Integrating decision trees in recommended actions
 
@@ -132,9 +132,9 @@ Optionally, set up the Guided Decisions Experience application so that you can c
 
 |Setup task|Description|
 |----------|-----------|
-|[Install the Guided Decisions Experience application](../task/install-guided-decisions-exp-app-new.md)|Install the Guided Decisions Experience application from the ServiceNow® Store. This application enables you to configure decision trees that you can use as recommendations.|
+|[Install the Guided Decisions Experience application](install-guided-decisions-exp-app-new.md)|Install the Guided Decisions Experience application from the ServiceNow® Store. This application enables you to configure decision trees that you can use as recommendations.|
 |[Configuring decision trees](configuring-guided-decisions.md)|Configure decision trees that agents can use to troubleshoot solutions for customer issues.|
-|[Add Guided Decisions to Recommended Actions](../task/add-guided-decisions-to-recommended-actions.md)|Add decision trees to recommended actions, so that agents can take relevant action during troubleshooting based on a record context.|
+|[Add Guided Decisions to Recommended Actions](add-guided-decisions-to-recommended-actions.md)|Add decision trees to recommended actions, so that agents can take relevant action during troubleshooting based on a record context.|
 
 ## Request apps from the ServiceNow Store
 

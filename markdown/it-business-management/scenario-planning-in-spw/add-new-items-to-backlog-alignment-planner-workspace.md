@@ -17,7 +17,7 @@ Add new planning items to your portfolio plan's work backlog in Strategic Planni
 
 ## Before you begin
 
-[Create a portfolio plan](../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md)
+[Create a portfolio plan](create-portfolio-plans-in-alignment-planner-workspace.md)
 
 Role required: sn\_align\_core.apw\_user
 
@@ -41,7 +41,7 @@ You can use the Prioritization, Kanban, or the Hierarchy tabs while you perform 
 
 4.  On the form, fill in the short description and approved dates.
 
-    For full information, see [Planning item form](../../alignment-planner-workspace/reference/planning-item-form.md).
+    For full information, see [Planning item form](planning-item-form.md).
 
     You can refine planning item descriptions—for item types such as Demand, Epic, Project, Capability, Feature, and Story—using the Write planning item skill, if the Now Assist for SPM application is installed.
 
@@ -49,7 +49,7 @@ You can use the Prioritization, Kanban, or the Hierarchy tabs while you perform 
 
 6.  If you're using PPM, Agile Development 2.0, or SAFe to execute the planned work, you can also import your work items from these applications.
 
-    For more information, see [Executing Strategic Planning work in PPM, Agile 2.0, and SAFe](../../apw-internal-integrations/concept/using-apw-with-agile-safe-and-ppm.md).
+    For more information, see [Executing Strategic Planning work in PPM, Agile 2.0, and SAFe](using-apw-with-agile-safe-and-ppm.md).
 
 
 ## Result
@@ -67,5 +67,5 @@ The new item is created with its **Planning state** field is set to **New** and 
 
 -   [Rank planning items](rank-and-prioritize-backlog-alignment-planner-workspace.md).
 -   [Update planning item details from Prioritization tab](update-planning-item-details-from-backlog-in-alignment-planner-workspace.md).
--   Learn about [Personalizing views for prioritization](../concept/personalize-prioritization-page-in-strategic-planinng-workspace.md)
+-   Learn about [Personalizing views for prioritization](personalize-prioritization-page-in-strategic-planinng-workspace.md)
 

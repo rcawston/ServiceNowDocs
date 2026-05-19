@@ -63,5 +63,5 @@ This task is explained using stories in an Agile Release Train \(ART\) as an exa
     5.  Select **OK** to confirm deleting the dependency.
 
 
-**Parent Topic:**[Work item dependencies in EAP](../concept/work-item-dependencies-in-eap.md)
+**Parent Topic:**[Work item dependencies in EAP](work-item-dependencies-in-eap.md)
 

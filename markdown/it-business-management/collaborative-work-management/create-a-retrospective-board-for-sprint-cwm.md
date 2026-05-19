@@ -41,7 +41,7 @@ Role required: sn\_cwm.cwm\_user
 
 9.  Select a template to apply to this Board.
 
-    By default, the Agile Retrospective template is applied. If you want to create a different template depending on your requirements, see [Templates in CWM for Boards and Docs](../concept/templates-in-cwm-for-spaces-boards-and-docs.md).
+    By default, the Agile Retrospective template is applied. If you want to create a different template depending on your requirements, see [Templates in CWM for Boards and Docs](templates-in-cwm-for-spaces-boards-and-docs.md).
 
     ![Choose a template to create a retro board for this sprint.](../images/cwm-sprint-retro-board-create.png)
 
@@ -52,5 +52,5 @@ Role required: sn\_cwm.cwm\_user
 
 A new retrospective Board is created for the sprint that is just marked complete within the same Space. You can navigate to the new board from the success message or from the left navigation panel.![Sample retro board for a sprint.](../images/cwm-sprint-retro-sample-board.png)
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](agile-sprint-planning-in-cwm.md)
 

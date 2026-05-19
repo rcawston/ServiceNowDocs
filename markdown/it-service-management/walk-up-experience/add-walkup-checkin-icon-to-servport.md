@@ -71,5 +71,5 @@ To replace the Get Help icon link with the Walk-up Check-in icon link on the Ser
 11. Edit the container form fields with the same data and presentation information as detailed above in the form configuration input descriptions and follow the remaining relevant steps.
 
 
-**Parent Topic:**[Configuring Walk-up Experience](../concept/walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)
 

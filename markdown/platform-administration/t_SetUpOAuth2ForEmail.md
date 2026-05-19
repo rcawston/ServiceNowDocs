@@ -79,5 +79,5 @@ Setting up OAuth 2.0 for email requires you to obtain access and refresh tokens 
     Use the same **Authentication** and **OAuth profile** settings as the OAuth SMTP email account.
 
 
-**Parent Topic:**[OAuth email authentication](../concept/c_OAuthEmailAuthentication.md)
+**Parent Topic:**[OAuth email authentication](c_OAuthEmailAuthentication.md)
 

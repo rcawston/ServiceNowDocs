@@ -70,5 +70,5 @@ Activate the applications in the following order:
 1.  Now Assist for Platform \(sn\_genai\_platform\)
 2.  Now Assist for APO \(sn\_ap\_gen\_ai\)
 
-For more information, see [Configure Now Assist for Accounts Payable Operations \(APO\)](../task/configuring-now-assist-apo.md).
+For more information, see [Configure Now Assist for Accounts Payable Operations \(APO\)](configuring-now-assist-apo.md).
 

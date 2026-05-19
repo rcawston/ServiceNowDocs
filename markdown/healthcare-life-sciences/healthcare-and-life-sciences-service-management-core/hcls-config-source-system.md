@@ -21,7 +21,7 @@ Role required: sn\_hcls.admin or admin
 
 ## About this task
 
-As a healthcare provider, you can store the source and destination IDs of an external healthcare system in the [Source system \[sn\_hcls\_source\_system\]](../reference/hcls-source-system.md) table for a custom integration with a ServiceNow application.
+As a healthcare provider, you can store the source and destination IDs of an external healthcare system in the [Source system \[sn\_hcls\_source\_system\]](hcls-source-system.md) table for a custom integration with a ServiceNow application.
 
 ## Procedure
 

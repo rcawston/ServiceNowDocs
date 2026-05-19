@@ -85,5 +85,5 @@ Beginning with the Australia release, Technology Controls Monitoring Accelerator
     The CIS Indicator Templates are displayed in the instance.
 
 
-**Parent Topic:**[Technology Controls Monitoring Accelerator](../concept/tech-controls-monitoring-accel.md)
+**Parent Topic:**[Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md)
 

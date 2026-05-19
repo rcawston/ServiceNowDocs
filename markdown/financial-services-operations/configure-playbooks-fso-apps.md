@@ -38,7 +38,7 @@ Role required: Based on the application that you are configuring, you need the f
 
 The playbooks are built using ServiceNow Playbooks, so make sure you’re familiar with [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md) basics.
 
-For information on playbooks that are installed with Financial Services Operations applications, see [Playbooks for Financial Services Operations applications](../reference/playbooks-fso-apps.md).
+For information on playbooks that are installed with Financial Services Operations applications, see [Playbooks for Financial Services Operations applications](playbooks-fso-apps.md).
 
 **Note:** The playbooks in Financial Services Operations applications use the **CSM Configurable Workspace Playbook** playbook experience.
 

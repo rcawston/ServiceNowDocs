@@ -52,13 +52,13 @@ You cannot specify these types of items as related items for a catalog item.
 
     3.  Click the up or down icon to arrange items in the required order and click **Save**.
 
-    **Note:** In Service Portal, use the instance options to configure the number of articles and items shown in the **Related Articles** and **Related Items** section. See [Configure related catalog item widget instance options](../../knowledge-management/task/configure-related-items-widget.md) or [Configure knowledge related articles widget instance options](../../knowledge-management/task/configure-related-articles-widget.md).
+    **Note:** In Service Portal, use the instance options to configure the number of articles and items shown in the **Related Articles** and **Related Items** section. See [Configure related catalog item widget instance options](../knowledge-management/configure-related-items-widget.md) or [Configure knowledge related articles widget instance options](../knowledge-management/configure-related-articles-widget.md).
 
 
-**Parent Topic:**[Service Catalog items](../concept/c_IntroductionToCatalogItems.md)
+**Parent Topic:**[Service Catalog items](c_IntroductionToCatalogItems.md)
 
 **Related topics**  
 
 
-[Map related articles](../../knowledge-management/task/map-related-articles.md)
+[Map related articles](../knowledge-management/map-related-articles.md)
 

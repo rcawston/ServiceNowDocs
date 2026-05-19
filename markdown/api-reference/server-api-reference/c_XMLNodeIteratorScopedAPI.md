@@ -15,9 +15,9 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The XMLNodeIterator API provides methods to iterate through a node of a XML document.
 
-There are no constructors for creating a stand alone instance of a XMLNodeIterator object. To create a XMLNodeIterator object use the getChildNodeIterator\(\) method of the [XMLNode object](../../XMLNodeScopedAPI/concept/c_XMLNodeScopedAPI.md#).
+There are no constructors for creating a stand alone instance of a XMLNodeIterator object. To create a XMLNodeIterator object use the getChildNodeIterator\(\) method of the [XMLNode object](c_XMLNodeScopedAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## XMLNodeIterator - hasNext\(\)
 

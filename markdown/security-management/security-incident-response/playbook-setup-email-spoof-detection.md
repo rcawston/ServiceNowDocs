@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Email Domain Spoofing Detection playbook.](../image/playbook-email-spoof-detect-trigger.png)
 
 
-**Parent Topic:**[Playbook for Email Domain Spoofing Detection](../concept/playbook-email-spoof-detection.md)
+**Parent Topic:**[Playbook for Email Domain Spoofing Detection](playbook-email-spoof-detection.md)
 

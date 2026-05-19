@@ -50,5 +50,5 @@ The job logs may include errors that aren't about the indicator sources. You mus
 6.  Select **Update**.
 
 
-**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](../concept/setting-up-the-ot-progress-scorecard.md)
+**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](setting-up-the-ot-progress-scorecard.md)
 

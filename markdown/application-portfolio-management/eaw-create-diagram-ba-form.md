@@ -117,5 +117,5 @@ Name of the Lucid folder. Select the folder where you want to save the diagram. 
 **Related topics**  
 
 
-[Create a Lucidchart diagram for a business application in the EA Workspace](../../task/eaw-task/eaw-create-lucid-diagram-ba.md)
+[Create a Lucidchart diagram for a business application in the EA Workspace](eaw-create-lucid-diagram-ba.md)
 

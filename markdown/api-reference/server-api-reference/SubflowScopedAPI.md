@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The Subflow API provides methods to run published Workflow Studio subflows.
 
-This API is deprecated and replaced by the [FlowAPI - Scoped, Global](../../ScriptableFlowAPI/concept/ScriptableFlowAPI.md#).
+This API is deprecated and replaced by the [FlowAPI - Scoped, Global](ScriptableFlowAPI.md#).
 
 The Subflow API can only be used in server scripts.
 
@@ -25,7 +25,7 @@ Before interacting with a subflow using the Subflow API, you must first create a
 
 **Note:** To optimize instance performance, avoid calling these methods from an asynchronous business rule script. Instead, create a scheduled job record within the Workflow Studio UI.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Subflow - startAsync\(String scopeName.subflowName, Map inputs\)
 

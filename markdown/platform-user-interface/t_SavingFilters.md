@@ -75,5 +75,5 @@ Creates a group filter, which only members of the user group you select can acce
     4.  If you edited the filter, select **Update**.
 
 
-**Parent Topic:**[Filters and breadcrumbs](../concept/c_UsingFiltersAndBreadcrumbs.md)
+**Parent Topic:**[Filters and breadcrumbs](c_UsingFiltersAndBreadcrumbs.md)
 

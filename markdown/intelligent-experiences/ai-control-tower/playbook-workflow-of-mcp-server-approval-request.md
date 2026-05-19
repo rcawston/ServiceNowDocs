@@ -51,6 +51,6 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
     **Note:**
 
-    The AI Gateway setup tab appears only after an MCP server request is approved. The AI steward can pause transactions whenever needed through this tab. For information on the tabs appearing in the MCP server record, see [MCP server record](../concept/view-the-mcp-server-record.md).
+    The AI Gateway setup tab appears only after an MCP server request is approved. The AI steward can pause transactions whenever needed through this tab. For information on the tabs appearing in the MCP server record, see [MCP server record](view-the-mcp-server-record.md).
 
 

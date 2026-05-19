@@ -121,7 +121,7 @@ Attachments
 File attachments for the fallout record. Select **Browse** to add the file as an attachment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Order Management reference](../reference/order-mgt-reference.md)
+</table>**Parent Topic:**[Order Management reference](order-mgt-reference.md)
 
 **Related topics**  
 

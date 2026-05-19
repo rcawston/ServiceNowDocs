@@ -74,5 +74,5 @@ Defines which users are shown in Work scheduler when suggestions are enabled and
 -   **Default value**: 0
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Workforce Optimization for Customer Service](../concept/setup-configurable-wfo-cs.md)
+</table>**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
 

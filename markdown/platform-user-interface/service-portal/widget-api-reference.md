@@ -125,7 +125,7 @@ Return human-readable URLs for a specific page, or for the current page, based o
 Check whether a provided table is granted access to a widget to ensure that a widget is securely accessed by an intended audience.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Developing custom widgets](../concept/widget-dev-guide.md)
+</table>**Parent Topic:**[Developing custom widgets](widget-dev-guide.md)
 
 ## Widget properties
 

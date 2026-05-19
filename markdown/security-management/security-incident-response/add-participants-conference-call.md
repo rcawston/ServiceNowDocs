@@ -52,7 +52,7 @@ The call participants can include the following:
 7.  Alternatively, you can add participants by selecting the **Copy invite** option on the Conference calls section on the right-context menu, and you can share with the required participants.
 
 
-**Parent Topic:**[Major Security Incident Management Conference Call Integration](../concept/integrate-msim-conference-calls.md)
+**Parent Topic:**[Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
 
 **Related topics**  
 
@@ -63,9 +63,9 @@ The call participants can include the following:
 
 [View conference call details](view-conference-call-details.md)
 
-[Integrate MSIM Conference Calls with Microsoft Teams](../concept/integrate-msim-conf-call-ms-teams.md)
+[Integrate MSIM Conference Calls with Microsoft Teams](integrate-msim-conf-call-ms-teams.md)
 
-[Integrate MSIM Conference Calls with Zoom](../concept/integrate-msim-conf-calls-zoom.md)
+[Integrate MSIM Conference Calls with Zoom](integrate-msim-conf-calls-zoom.md)
 
-[Integrate MSIM Conference Calls with Cisco Webex](../concept/integrate-msim-conf-calls-webex.md)
+[Integrate MSIM Conference Calls with Cisco Webex](integrate-msim-conf-calls-webex.md)
 

@@ -69,5 +69,5 @@ Provide a brief summary about the issue to be discussed in the conference call.
 </table>11. Select **Add participants**.
 
 
-**Parent Topic:**[Manage Zoom conference calls in Service Operations Workspace](../concept/manage-conference-calls-zoom.md)
+**Parent Topic:**[Manage Zoom conference calls in Service Operations Workspace](manage-conference-calls-zoom.md)
 

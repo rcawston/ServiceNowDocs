@@ -39,13 +39,13 @@ Depending on the configurations set by your administrator, as a patient, you can
 
     View suggested vaccinations that you can schedule for yourself. Depending on the Patient Portal settings configured by your portal administrator, you can schedule the vaccinations suggested for you from the Vaccinations section of the Patient Portal home page by clicking **Schedule vaccination**. On the Schedule your vaccination form select the vaccination, site, and slot details.
 
-    **Note:** The Vaccinations section appears only when your administrator has installed the Vaccine Administration Management application. For more information, see [Using Vaccine Administration Management](../../vaccine-management/concept/using-vaccine-administration-management.md).
+    **Note:** The Vaccinations section appears only when your administrator has installed the Vaccine Administration Management application. For more information, see [Using Vaccine Administration Management](../vaccine-administration-management/using-vaccine-administration-management.md).
 
 -   **View the COVID-19 vaccination status**
 
     View the COVID-19 vaccination status for yourself when the Vaccine Administration Management \(VAM\) is installed.
 
-    **Note:** The COVID-19 vaccination status section appears only when your administrator has installed the Vaccine Administration Management application. For more information, see [Using Vaccine Administration Management](../../vaccine-management/concept/using-vaccine-administration-management.md).
+    **Note:** The COVID-19 vaccination status section appears only when your administrator has installed the Vaccine Administration Management application. For more information, see [Using Vaccine Administration Management](../vaccine-administration-management/using-vaccine-administration-management.md).
 
 -   **View household members**
 

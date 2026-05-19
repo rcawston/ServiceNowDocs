@@ -102,27 +102,27 @@ The key personas \(customer service agents, network operations center \(NOC\) en
 
 For more information about the relevant CSM features and tasks, see the following topics:
 
-[Configure form views for Service Portfolio Management integration](../task/configure-form-views-spm-csm.md)
+[Configure form views for Service Portfolio Management integration](configure-form-views-spm-csm.md)
 
-[View product information from the Customer Service Portal](../task/view-product-info-csp.md)
+[View product information from the Customer Service Portal](view-product-info-csp.md)
 
-[Create a proactive case from an alert](../task/case-alert-workspace.md)
+[Create a proactive case from an alert](case-alert-workspace.md)
 
-[Create a case for install base from the Customer Service homepage](../task/create-case-install-base.md)
+[Create a case for install base from the Customer Service homepage](create-case-install-base.md)
 
 [Proactive Customer Service Operations](proactive-service-operations.md)
 
 [Service health status for install base](service-health-pcso.md)
 
-[Configure install base](../task/configure-install-base.md)
+[Configure install base](configure-install-base.md)
 
 [Outage tracking for install base](outage-tracking-csm.md)
 
-[View install base information from the Customer Service Portal](../task/view-install-base-info.md)
+[View install base information from the Customer Service Portal](view-install-base-info.md)
 
-[View install base information in Agent Workspace](../task/install-base-aw-csm.md)
+[View install base information in Agent Workspace](install-base-aw-csm.md)
 
-[View product information from the Customer Service Portal](../task/view-product-info-csp.md)
+[View product information from the Customer Service Portal](view-product-info-csp.md)
 
-[View sold product information in Agent Workspace](../task/view-sold-product-info-workspace.md)
+[View sold product information in Agent Workspace](view-sold-product-info-workspace.md)
 

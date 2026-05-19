@@ -26,12 +26,12 @@ Predefined set of important dates configurations are available to use once you h
 
 For more details, navigate to **All** &gt; **Manager Hub** &gt; **Administration** &gt; **Important Dates Configuration**.
 
-**Parent Topic:**[Reference for Manager Hub](../reference/reference-manager-hub.md)
+**Parent Topic:**[Reference for Manager Hub](reference-manager-hub.md)
 
 **Related topics**  
 
 
-[Components installed with Manager Hub](../reference/installed-with-managerhub.md)
+[Components installed with Manager Hub](installed-with-managerhub.md)
 
 [Campaign configurations for Manager Hub](manager-hub-campaign.md)
 
@@ -49,11 +49,11 @@ For more details, navigate to **All** &gt; **Manager Hub** &gt; **Administration
 
 [Default proactive prompts for Manager Hub](prompts-mh.md)
 
-[Use the View menu icon in Manager Hub](../reference/view-menu.md)
+[Use the View menu icon in Manager Hub](view-menu.md)
 
-[Assign learning form](../reference/assign-learning-form.md)
+[Assign learning form](assign-learning-form.md)
 
-[Create a conversation form](../reference/create-conversation-form.md)
+[Create a conversation form](create-conversation-form.md)
 
-[Schedule a conversation form](../reference/schedule-conversation-form.md)
+[Schedule a conversation form](schedule-conversation-form.md)
 

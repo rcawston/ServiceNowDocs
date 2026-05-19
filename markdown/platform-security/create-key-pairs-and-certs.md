@@ -50,5 +50,5 @@ RSASSA\_PKCS1\_V1\_5\_SHA\_512
 
 Certificates must be signed by a public certificate authority.
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

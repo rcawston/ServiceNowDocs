@@ -65,9 +65,9 @@ App type
 
 Select either **Now Mobile** or **Mobile Agent**.
 
- For more information about these mobile apps, see [Now Mobile app](../concept/now-mobile-app.md) or [Mobile Agent app](../concept/mobile-experience.md) documentation.
+ For more information about these mobile apps, see [Now Mobile app](now-mobile-app.md) or [Mobile Agent app](mobile-experience.md) documentation.
 
- In the Washington DC release and later, select customers can use custom app types. For more information, see [Create custom-type mobile apps with Mobile Publishing](../concept/mob-pub-about-custom-apps.md).
+ In the Washington DC release and later, select customers can use custom app types. For more information, see [Create custom-type mobile apps with Mobile Publishing](mob-pub-about-custom-apps.md).
 
 </td></tr><tr><td>
 
@@ -132,7 +132,7 @@ Mobile Application Management \(MAM\)
 
 </td><td>
 
-Whether you want to use a MAM vendor with your apps. For more information, see [Mobile application management \(MAM\) integration](../concept/sg-mam.md).
+Whether you want to use a MAM vendor with your apps. For more information, see [Mobile application management \(MAM\) integration](sg-mam.md).
 
  To enable a MAM vendor, select the **Use Mobile Application Management** toggle.
 
@@ -176,7 +176,7 @@ URL where app users can view your custom privacy policy from the mobile app sett
 
 </td></tr><tr><td>
 
-Instances used for deep links**Note:** If you selected **iOS and Android** for your **Operating System** in the **Add basic info** form, this configuration section is named **Deep links and Universal links**. For more information about universal links, see [Universal linking for mobile](../concept/universal-links-mobile.md).
+Instances used for deep links**Note:** If you selected **iOS and Android** for your **Operating System** in the **Add basic info** form, this configuration section is named **Deep links and Universal links**. For more information about universal links, see [Universal linking for mobile](universal-links-mobile.md).
 
 </td><td>
 
@@ -186,7 +186,7 @@ This table shows all ServiceNow instances used for your organization. Select the
 
  **Note:** Deep links can only be edited when you submit a new branded app request or when you update a branded app.
 
- To learn more about deep links, see [Deep linking for mobile](../concept/deep-link-mobile.md).
+ To learn more about deep links, see [Deep linking for mobile](deep-link-mobile.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -205,7 +205,7 @@ Turn on this toggle to build an instance URL into your branded app so end-users 
  **Note:**
 
 -   This instance URL can only be added when you submit a new branded app request or when you update a branded app.
--   Don't select this option if you're using AppConfig to pre-configure a default instance URL through an EMM suite or an embedded MAM SDK app. For more information, see [AppConfig for Mobile Apps](../reference/appconfig.md).
+-   Don't select this option if you're using AppConfig to pre-configure a default instance URL through an EMM suite or an embedded MAM SDK app. For more information, see [AppConfig for Mobile Apps](appconfig.md).
 
 
 </td></tr><tr><td>
@@ -393,5 +393,5 @@ When it completes, you receive an email notification about the status of the bui
 
 ## What to do next
 
-After the build successfully completes and your app is ready for testing, see [Test and publish a new branded Android app for private distribution](../concept/testpubnu-andapp-privdist.md).
+After the build successfully completes and your app is ready for testing, see [Test and publish a new branded Android app for private distribution](testpubnu-andapp-privdist.md).
 

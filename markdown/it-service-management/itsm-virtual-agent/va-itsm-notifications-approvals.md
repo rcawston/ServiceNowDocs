@@ -15,7 +15,7 @@ breadcrumb: [ITSM Virtual Agent pre-built actionable notifications, ITSM Virtual
 
 Notify employees of approvals for requests with notifications from ITSM Virtual Agent.
 
-You must activate notifications in Workflow Studio in order to use them. For details, see [Set up actionable notifications for ITSM Virtual Agent](../task/setup-actionable-notifications.md).
+You must activate notifications in Workflow Studio in order to use them. For details, see [Set up actionable notifications for ITSM Virtual Agent](setup-actionable-notifications.md).
 
 Some of the default actionable notifications in ITSM Virtual Agent that need approvals are as follows:
 
@@ -71,5 +71,5 @@ Virtual Agent notifies the approver about a newly created task that needs review
 
 This notification is not applicable for tasks such as Change or Standard Change. It is also not applicable to Requests \(sc\_requests\) and Requested Items \(sc\_req\_item\).
 
-**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](../concept/itsm-actionable-notifications.md)
+**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](itsm-actionable-notifications.md)
 

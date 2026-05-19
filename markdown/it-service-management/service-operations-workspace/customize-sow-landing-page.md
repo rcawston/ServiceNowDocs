@@ -17,9 +17,9 @@ You can align with your organization's individual requirements by customizing Se
 
 **Important:** To prevent customizations from being overwritten by system upgrades, the upgrade process automatically skips changes to objects that have been customized.
 
--   **[Create a copy of the Service Operations Workspace landing page](../task/create-copy-sow-landing-page.md)**  
+-   **[Create a copy of the Service Operations Workspace landing page](create-copy-sow-landing-page.md)**  
 Make visual styling changes to the sub pages in the Service Operations Workspace landing page.
--   **[Customize Service Operations Workspace landing page](../task/configure-service-operations-workspace-landing-page.md)**  
+-   **[Customize Service Operations Workspace landing page](configure-service-operations-workspace-landing-page.md)**  
 Modify the landing page of the Service Operations Workspace to ensure that the customers can view the page that they use regularly. To customize the data displayed in sub pages of the landing page that is available in the base system. For any visual styling changes, you need to create a copy of that landing page and edit it.
 -   **[Customize the incident record page](customize-the-incident-record-page.md#)**  
 You can customize the **Overview** tab and the contextual side panel for an incident.

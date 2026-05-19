@@ -37,5 +37,5 @@ Role required: sn\_shn.admin
 **Related topics**  
 
 
-[Special handling notes](../concept/c_OnScreenAlerts.md)
+[Special handling notes](c_OnScreenAlerts.md)
 

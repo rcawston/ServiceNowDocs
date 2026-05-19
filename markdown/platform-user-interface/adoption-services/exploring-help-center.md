@@ -29,7 +29,7 @@ Starting this release, Help Center panel has additional adoption features:
 
 If there is no help content available for the current page, then the help icon will not display the indicator. If the user selects the help icon, the Help Center displays a message that there is no help content and provides a link to browse product documentation instead.
 
-You can add new content to the Help Center with the add new content link, described in [Create Help Center content for configurable workspace](../task/create-help-center-content.md).
+You can add new content to the Help Center with the add new content link, described in [Create Help Center content for configurable workspace](create-help-center-content.md).
 
 ![Help content view displaying no content available.](../image/no-help-center-content.png "No Help content available view")
 

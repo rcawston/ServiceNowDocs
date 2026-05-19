@@ -17,7 +17,7 @@ Configuring Automated Certificate Management Environment \(ACME\) helps to confi
 
 |Task|Description|
 |----|-----------|
-|[Create the credential for the ACME Certificate Authority](../task/create-credential-for-acme-ca.md)|Create an ACME credential on the ACME Certificate Authority's website or API. The credential is used by your ACME client software to interact with the ACME Certificate Authority \(CA\) to request, renew, or revoke certificates.|
-|[Set up the routing policy for ACME](../task/set-up-routing-policy-for-acme.md)|Create a routing policy to establish an Automated Certificate Management Environment \(ACME\) based on factors such as Certificate Authority \(CA\), environment, and other features, ensuring efficient SSL/TLS certificate management.|
-|[Configure your base API URL for EJBCA ACME](../../discovery/task/configure-base-api-url-for-ejbca-acme.md)|Configure your base API URL for Keyfactor EJBCA ACME.|
+|[Create the credential for the ACME Certificate Authority](create-credential-for-acme-ca.md)|Create an ACME credential on the ACME Certificate Authority's website or API. The credential is used by your ACME client software to interact with the ACME Certificate Authority \(CA\) to request, renew, or revoke certificates.|
+|[Set up the routing policy for ACME](set-up-routing-policy-for-acme.md)|Create a routing policy to establish an Automated Certificate Management Environment \(ACME\) based on factors such as Certificate Authority \(CA\), environment, and other features, ensuring efficient SSL/TLS certificate management.|
+|[Configure your base API URL for EJBCA ACME](configure-base-api-url-for-ejbca-acme.md)|Configure your base API URL for Keyfactor EJBCA ACME.|
 

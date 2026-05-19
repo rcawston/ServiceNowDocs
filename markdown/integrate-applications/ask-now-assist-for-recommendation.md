@@ -59,5 +59,5 @@ Customer data exists across Salesforce, SAP, and internal databases. We need a u
 **Related topics**  
 
 
-[oneExtend LLM skill](../concept/recommendation-skill.md)
+[oneExtend LLM skill](recommendation-skill.md)
 

@@ -23,5 +23,5 @@ Some configurations set in the Workspace aren’t reflected on mobile devices. T
 -   For the **Question description** option, the settings apply only to the Digital Factory Workspace. For mobile, use the **Guidance** option instead.
 -   For the **Field to display in drop down selection** option for a question of the type reference, the settings apply only to the Digital Factory Workspace and aren’t available on mobile.
 
-**Parent Topic:**[Publish an Industrial Guided Task standard](../task/publish-industrial-guided-task-standard.md)
+**Parent Topic:**[Publish an Industrial Guided Task standard](publish-industrial-guided-task-standard.md)
 

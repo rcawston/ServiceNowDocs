@@ -81,7 +81,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge block. This field appears when the ownership groups feature is enabled \(see [Ownership groups](../../knowledge-management/concept/enable-ownership-group.md)\).**Note:** Knowledge blocks can be used without the ownership groups feature.
+Ownership group for the knowledge block. This field appears when the ownership groups feature is enabled \(see [Ownership groups](knowledge-management/enable-ownership-group.md)\).**Note:** Knowledge blocks can be used without the ownership groups feature.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Can Read
 
 </td><td>
 
-User criteria to apply for read access at the knowledge block level.**Note:** User criteria set at the knowledge base and knowledge block level control which users can read block content within an article. \(For more information, see [Select user criteria for a knowledge block](../../knowledge-management/task/select-user-criteria-for-knowledge-block.md).\)
+User criteria to apply for read access at the knowledge block level.**Note:** User criteria set at the knowledge base and knowledge block level control which users can read block content within an article. \(For more information, see [Select user criteria for a knowledge block](knowledge-management/select-user-criteria-for-knowledge-block.md).\)
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ Can’t Read
 
 </td><td>
 
-User criteria to apply for can’t read access at the knowledge block level.**Note:** User criteria set at the knowledge base and knowledge block level control which you can read block content within an article. \(For more information, see [Select user criteria for a knowledge block](../../knowledge-management/task/select-user-criteria-for-knowledge-block.md).\)
+User criteria to apply for can’t read access at the knowledge block level.**Note:** User criteria set at the knowledge base and knowledge block level control which you can read block content within an article. \(For more information, see [Select user criteria for a knowledge block](knowledge-management/select-user-criteria-for-knowledge-block.md).\)
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ Version
 
 </td><td>
 
-Version number of the knowledge block. This field is automatically set to a version number when the article versioning feature is enabled.**Note:** Knowledge blocks can be used without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](../../knowledge-management/concept/article-versioning.md).
+Version number of the knowledge block. This field is automatically set to a version number when the article versioning feature is enabled.**Note:** Knowledge blocks can be used without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](knowledge-management/article-versioning.md).
 
 </td></tr><tr><td>
 

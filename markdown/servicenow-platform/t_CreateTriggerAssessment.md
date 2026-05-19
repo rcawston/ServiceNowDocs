@@ -23,18 +23,18 @@ Role required: assessment\_admin or admin
 
 2.  On the Trigger Condition form, fill in the fields.
 
-    For a description of the field values, see [Trigger Condition form for assessments](../reference/trigger-condition-form-for-assessment.md).
+    For a description of the field values, see [Trigger Condition form for assessments](trigger-condition-form-for-assessment.md).
 
 
--   **[Assessment trigger conditions](../reference/r_AssessmentTriggerConditions.md)**  
+-   **[Assessment trigger conditions](r_AssessmentTriggerConditions.md)**  
 A trigger condition tells the system who to send a designated assessment to and when, based on specific conditions.
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](c_AssessmentProcess.md)
 
 **Related topics**  
 
 
-[Survey trigger conditions](../../survey-administration/concept/c_TriggerConditions.md)
+[Survey trigger conditions](c_TriggerConditions.md)
 
-[Assessable records](../concept/c_assessable-records.md)
+[Assessable records](c_assessable-records.md)
 

@@ -49,5 +49,5 @@ Click the **Add** button in the **Downstream Risks** related list
 5.  In the pop-up window, check all the desired risks to relate to the current risk, and click **Create Relationship**.
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

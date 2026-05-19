@@ -40,5 +40,5 @@ By default, CI Lifecycle Management has no restrictions for transitioning CIs fr
 
 If an API attempts to transition a CI that is in the specified operational state to a state that is not allowed, the operation fails and an error is logged.
 
-**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](../concept/cmdb-ci-lifecycle-mgmt.md)
+**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](cmdb-ci-lifecycle-mgmt.md)
 

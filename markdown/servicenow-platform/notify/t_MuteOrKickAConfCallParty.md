@@ -36,5 +36,5 @@ Before starting this procedure, ensure there is an active conference call with o
     **Note:** You can unmute a muted participant. A kicked participant may rejoin the conference call by calling in again.
 
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](c_NotifyConferenceCalls.md)
 

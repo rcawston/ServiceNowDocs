@@ -22,12 +22,12 @@ Role required: admin
 1.  To configure the Salesforce spoke, follow the instructions in [Set up the Salesforce spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-sf-spk.md).
 
 
-**Parent Topic:**[Using remote tables and the Salesforce spoke](../concept/csm-integration-remote-tables.md)
+**Parent Topic:**[Using remote tables and the Salesforce spoke](csm-integration-remote-tables.md)
 
 **Related topics**  
 
 
-[Using remote tables and the Salesforce spoke](../concept/csm-integration-remote-tables.md)
+[Using remote tables and the Salesforce spoke](csm-integration-remote-tables.md)
 
-[Connect Customer Account and Salesforce Opportunities using a related list](../concept/csm-related-list-opportunity-table.md)
+[Connect Customer Account and Salesforce Opportunities using a related list](csm-related-list-opportunity-table.md)
 

@@ -202,5 +202,5 @@ The replication configuration that you exported from the source instance is impo
 -   If you're setting up a bi-directional replication set, synchronize the consumer by selecting the **Synchronize Replication Entries** related link in the connected consumer replication set.
 -   If you're setting up a discrete replication set, create and subscribe one or more consumers.
 
-**Parent Topic:**[Deploying a replication configuration from one instance to another in Instance Data Replication](../concept/copying-replication-configuration.md)
+**Parent Topic:**[Deploying a replication configuration from one instance to another in Instance Data Replication](copying-replication-configuration.md)
 

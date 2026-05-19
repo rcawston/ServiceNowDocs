@@ -178,5 +178,5 @@ Related products
 List of products that are related to the OT knowledge base content.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Operational Technology Knowledge Management reference](../concept/operational-technology-knowledge-management-reference-landing-page.md)
+</table>**Parent Topic:**[Operational Technology Knowledge Management reference](operational-technology-knowledge-management-reference-landing-page.md)
 

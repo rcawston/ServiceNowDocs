@@ -71,7 +71,7 @@ Active Directory Service pattern
 
 </td></tr><tr><td>
 
-[Microsoft server \(as a Microsoft Exchange component\)](../../discovery/reference/r-ExchangeClientAccessServer.md)
+[Microsoft server \(as a Microsoft Exchange component\)](../itom-visibility/r-ExchangeClientAccessServer.md)
 
 </td><td>
 
@@ -97,7 +97,7 @@ ExchangeFrontEndServer On Windows; PatternExchangeBackEndServer On Windows patte
 
 </td></tr><tr><td>
 
-[HUB Transport Server \(as a Microsoft Exchange component\)](../../discovery/reference/r-ExchangeHub.md)
+[HUB Transport Server \(as a Microsoft Exchange component\)](../itom-visibility/r-ExchangeHub.md)
 
 </td><td>
 
@@ -156,7 +156,7 @@ For information on the discovery flow, refer to pattern-based discovery in Servi
 
 Discovery and Service Mapping cannot discover the Exchange Server if its configuration does not support public folders, edge transports, and public messaging. Create a pattern or customize the existing pattern to discover the Exchange Server with such configuration.
 
-**Parent Topic:**[Map a single application service using classic Service Mapping](../task/t_DefineNewBusinessService.md)
+**Parent Topic:**[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
 
 ## Map application services containing Microsoft Exchange Servers
 
@@ -183,7 +183,7 @@ Map an application service containing an Microsoft Exchange Server and verify th
     -   Get-MailboxDatabase
 -   \(For Microsoft Exchange CAS 2010 and 2016\) On the Windows Server hosting Microsoft Exchange CAS, install the Microsoft.Exchange.Management.PowerShell.E2010 module.
 -   \(For Microsoft Exchange CAS 2007\) On the Windows Server hosting Microsoft Exchange CAS, install the Microsoft.Exchange.Management.PowerShell.Admin module.
--   \(For Microsoft Exchange CAS 2007, 2010\) On the ServiceNow AI Platform, upload the rctrlx tool for running PowerShell commands as described in [Upload the rctrlx.exe file to MID Servers](../task/upload-rctrlx-file.md).
+-   \(For Microsoft Exchange CAS 2007, 2010\) On the ServiceNow AI Platform, upload the rctrlx tool for running PowerShell commands as described in [Upload the rctrlx.exe file to MID Servers](upload-rctrlx-file.md).
 -   \(For Microsoft Exchange CAS 2007 and 2010\) Provide an Exchange Mailbox OS user with the rights to run Exchange services on Windows and has permission to query Exchange repository:
 
     On the ServiceNow AI Platform, configure [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) setting the **Credential alias** attribute to \[cmdb\_ci\_exchange\_mailbox\]. Configuring this attribute allows you later to use the credential for this CI in patterns.

@@ -25,7 +25,7 @@ The availability of GlideEncrypter in the Zurich release depends on whether your
 
 -   **Upgraded instances**
 
-    Zurich instances that have been upgraded from a previous release are still able to use the legacy GlideEncypter API, but the API has been updated to use AES256-GCM encryption via the [Key Management Framework](../../encryption/concept/encryption.md). This change replaces the use of the legacy 3DES encryption standard to comply with NIST guidelines, while allowing any scripts still using GlideEncrypter to operate.
+    Zurich instances that have been upgraded from a previous release are still able to use the legacy GlideEncypter API, but the API has been updated to use AES256-GCM encryption via the [Key Management Framework](../encryption.md). This change replaces the use of the legacy 3DES encryption standard to comply with NIST guidelines, while allowing any scripts still using GlideEncrypter to operate.
 
 
 ## Enable or disable GlideEncrypter
@@ -46,7 +46,7 @@ true
 
 </td><td>
 
-When true, GlideEncypter can still be called in scripts, but uses the AES256-GCM encryption via the [Key Management Framework](../../encryption/concept/encryption.md).
+When true, GlideEncypter can still be called in scripts, but uses the AES256-GCM encryption via the [Key Management Framework](../encryption.md).
 
 </td></tr><tr><td>
 

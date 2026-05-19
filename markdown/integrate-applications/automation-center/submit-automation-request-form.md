@@ -127,5 +127,5 @@ Attach relevant files
 Relevant documents that you attach to support the automation process.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Automation Center reference](../concept/automation-center-reference.md)
+</table>**Parent Topic:**[Automation Center reference](automation-center-reference.md)
 

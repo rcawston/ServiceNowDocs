@@ -17,7 +17,7 @@ The RecordToHTML script include is a utility class to turn a record into HTML.
 
 This script include is available to server-side scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## RecordToHTML - RecordToHTML\(String table, String sys\_id, String pattern, Boolean link\)
 

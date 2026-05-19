@@ -27,9 +27,9 @@ Create a formula indicator in these cases:
 
 **Tip:** Training is available for creating and using formula indicators. See the course [Formula Indicators Overview](https://learning.servicenow.com/lxp/en/now-intelligence/formula-indicators-overview?id=learning_course_prev&course_id=11419783871cb1105aa9ca2d0ebb35b3) in the NOW Learning Center.
 
--   **[Create a formula indicator](../task/t_CreateAFormulaIndicator.md)**  
+-   **[Create a formula indicator](t_CreateAFormulaIndicator.md)**  
 Calculate scores from the scores of one or more other indicators. Apply mathematical operations or a preset method, such as the method to calculate the gap between an indicator score and the indicator target.
--   **[Get analytics methods in formulas](../task/get-indicator-analytics.md)**  
+-   **[Get analytics methods in formulas](get-indicator-analytics.md)**  
 To insert a calculated value from the Analytics Hub into a formula, use a method in the formula.
 -   **[Prevent a contributing indicator in a formula from following breakdowns](c_ExcludingBreakdownsFromFormulas.md)**  
 You can select contributing indicators in a formula to not be broken down. When a user applies a breakdown to the formula indicator, the breakdown does not apply to these indicators.
@@ -37,7 +37,7 @@ You can select contributing indicators in a formula to not be broken down. When 
 Formula indicators inherit breakdown matrices from indicators in the formula.
 -   **[Applying time series to result or to contributing indicators](apply-time-series-result-components.md)**  
 For a formula indicator, a time series aggregation can apply either to each indicator in the formula individually or to the formula result.
--   **[Detect indicators with no scores in a formula](../task/detect-indicators-no-scores-formula.md)**  
+-   **[Detect indicators with no scores in a formula](detect-indicators-no-scores-formula.md)**  
 As the formula creator, you can handle contributing indicators that have null scores. First set the formula indicator to calculate the formula even when it contains a null score.
 -   **[Indexing multiple indicators in a formula](index-indicators.md)**  
 You can write a formula to measure what the gap is to the overall target of multiple, combined indicators. Such a formula indicator is called an 'index indicator'.

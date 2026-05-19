@@ -17,7 +17,7 @@ Use Data Privacy to classify sensitive data and to remove personally identifiabl
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore Data Privacy ![Exploring Data privacy](../../../common/image/icon-explore.png) Learn about Data Privacy.](data-privacy.md)
+[Explore Data Privacy ![Exploring Data privacy](../../../common/image/icon-explore.png) Learn about Data Privacy.](../data-privacy.md)
 
 </td><td>
 
@@ -25,11 +25,11 @@ Use Data Privacy to classify sensitive data and to remove personally identifiabl
 
 </td></tr><tr><td>
 
-[Roles in Data Privacy ![Roles for Data Privacy](../../../common/image/icon-reference.png) Get details about roles in Data Privacy.](../reference/data-privacy-roles.md#)
+[Roles in Data Privacy ![Roles for Data Privacy](../../../common/image/icon-reference.png) Get details about roles in Data Privacy.](data-privacy-roles.md#)
 
 </td><td>
 
-[Data Privacy Advanced Features ![Advanced](../../../common/image/icon-workspace.png) Learn about the advanced features of Data Privacy.](../../data-privacy-store/concept/dps-data-privacy-overview.md)
+[Data Privacy Advanced Features ![Advanced](../../../common/image/icon-workspace.png) Learn about the advanced features of Data Privacy.](dps-data-privacy-overview.md)
 
 </td></tr></tbody>
 </table>

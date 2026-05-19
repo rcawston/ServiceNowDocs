@@ -58,5 +58,5 @@ Role required: admin
         ![Screenshot for the default variable editor.](../image/DefaultVariableEditor.png "Default variable editor")
 
 
-**Parent Topic:**[Service Catalog variable editors](../concept/service-catalog-variable-editor.md)
+**Parent Topic:**[Service Catalog variable editors](service-catalog-variable-editor.md)
 

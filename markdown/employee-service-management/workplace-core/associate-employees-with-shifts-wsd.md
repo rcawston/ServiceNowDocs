@@ -43,5 +43,5 @@ A pre-configured email with the shift details is sent to all employees assigned 
 
 [Associate areas and spaces with a shift](associate-workspaces-with-shifts-wsd.md).
 
-**Parent Topic:**[Configuring shifts for your workplace](../concept/configuring-shifts-for-your-workplace-wsd.md)
+**Parent Topic:**[Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 

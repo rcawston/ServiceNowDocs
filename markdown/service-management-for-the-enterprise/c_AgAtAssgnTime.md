@@ -22,5 +22,5 @@ Agents can be auto assigned based on the agent or the task schedule.
 -   **[Agent auto assignment using priority assignment](c_AgentAutoAssignUsePrioAssign.md)**  
 The priority assignment feature enables you to configure auto assignment so that agents can be assigned to perform tasks or provide services on a continual, 24x7x365 basis. Priority assignment is triggered when the priority of a task matches the priority set in the application configuration page.
 
-**Parent Topic:**[Agent auto assignment](../../service-management-core/concept/c_AgentAutoAssignment.md)
+**Parent Topic:**[Agent auto assignment](c_AgentAutoAssignment.md)
 

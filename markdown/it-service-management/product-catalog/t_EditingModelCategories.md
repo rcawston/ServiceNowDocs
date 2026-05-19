@@ -32,7 +32,7 @@ Role required: model\_manager
 4.  Click **Update**.
 
 
-**Parent Topic:**[Model categories](../concept/c_ModelCategories.md)
+**Parent Topic:**[Model categories](c_ModelCategories.md)
 
 **Related topics**  
 

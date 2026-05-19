@@ -26,5 +26,5 @@ Before you use Shodan integration, you must download it from the ServiceNow Stor
 
 **Parent Topic:**[Configure Observable Enrichment](configure-observable-enrichment.md)
 
-**Parent Topic:**[Observable Enrichment](../concept/tisc-observable-enrichment.md)
+**Parent Topic:**[Observable Enrichment](tisc-observable-enrichment.md)
 

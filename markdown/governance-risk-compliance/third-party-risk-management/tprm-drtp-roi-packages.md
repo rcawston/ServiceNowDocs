@@ -30,7 +30,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
 
     The **Excel Master Template** option downloads documents to use for data preparation and internal review. The **Plain-CSV Reporting Package** option downloads documents that you can use for regulator submission and compliance validation.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](tprm-excel-upload-download-req.md).
 
     **Note:** Annual expense data is used during report generation for conversion and aggregation. Confirm that currencies and annual expense fields are accurate to avoid conversion failures or skipped aggregation.
 

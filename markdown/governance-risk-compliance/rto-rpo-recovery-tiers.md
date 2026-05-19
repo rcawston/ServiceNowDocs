@@ -65,7 +65,7 @@ Recovery tiers can be classified as per their importance and criticality:
 
 ## Recovery tier configuration by the administrators
 
-For more information on how to configure a recovery tier in the Business Continuity Management application, see [Configure recovery tiers for BIA](../task/configure-recovery-tier-bia-uib-ws.md).
+For more information on how to configure a recovery tier in the Business Continuity Management application, see [Configure recovery tiers for BIA](configure-recovery-tier-bia-uib-ws.md).
 
 ## Recovery timeframe
 
@@ -84,7 +84,7 @@ The example shows the configured recovery timeframes in the Business Continuity 
 
 The example shows the configuration of a recovery timeframe in the Business Continuity Management application. ![New recovery timeframe.](../image/new-recovery-timeframe.png)
 
-For more information on how to configure a recovery timeframe in the Business Continuity Management application, see [Set up recovery timeframe for a recovery tier](../task/configure-recovery-timeframe-bcm.md).
+For more information on how to configure a recovery timeframe in the Business Continuity Management application, see [Set up recovery timeframe for a recovery tier](configure-recovery-timeframe-bcm.md).
 
 **Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
 

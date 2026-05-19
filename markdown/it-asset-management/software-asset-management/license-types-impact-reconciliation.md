@@ -65,7 +65,7 @@ Microsoft
 
 </td><td>
 
-Software Asset Management automatically applies the Software Assurance benefits. For more information, see [Software license maintenance](../concept/software-license-maintenance.md).
+Software Asset Management automatically applies the Software Assurance benefits. For more information, see [Software license maintenance](software-license-maintenance.md).
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ All
 
 </td><td>
 
-Software Asset Management automatically applies the Software maintenance benefits. For more information, see [Software license maintenance](../concept/software-license-maintenance.md).
+Software Asset Management automatically applies the Software maintenance benefits. For more information, see [Software license maintenance](software-license-maintenance.md).
 
 </td></tr><tr><td>
 
@@ -193,7 +193,7 @@ Microsoft
 
 </td><td>
 
-The add-on license must be associated with a perpetual Office legacy license with active Software Assurance. Therefore, you must link the two licenses for it to work. For more information, see [Create Microsoft 365 From SA and Add-on entitlements in the Software Asset Workspace](../task/create-m365-from-sa-add-on-entitlements-workspace.md).
+The add-on license must be associated with a perpetual Office legacy license with active Software Assurance. Therefore, you must link the two licenses for it to work. For more information, see [Create Microsoft 365 From SA and Add-on entitlements in the Software Asset Workspace](create-m365-from-sa-add-on-entitlements-workspace.md).
 
 </td></tr><tr><td>
 
@@ -209,7 +209,7 @@ Microsoft
 
 </td><td>
 
-The From SA license must be associated with a perpetual Office legacy license with active Software Assurance. Therefore, you must link the two licenses for it to work. For more information, see [Create Microsoft 365 From SA and Add-on entitlements in the Software Asset Workspace](../task/create-m365-from-sa-add-on-entitlements-workspace.md).
+The From SA license must be associated with a perpetual Office legacy license with active Software Assurance. Therefore, you must link the two licenses for it to work. For more information, see [Create Microsoft 365 From SA and Add-on entitlements in the Software Asset Workspace](create-m365-from-sa-add-on-entitlements-workspace.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](references.md)
@@ -217,7 +217,7 @@ The From SA license must be associated with a perpetual Office legacy license wi
 **Related topics**  
 
 
-[Software license maintenance](../concept/software-license-maintenance.md)
+[Software license maintenance](software-license-maintenance.md)
 
 [Software entitlement fields](software-entitlement-fields.md)
 

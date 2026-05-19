@@ -192,7 +192,7 @@ The roles associated with action items are described in the table.
 |Viewers|Can read all action items.|
 |Recovery event/Plan owner|Can read and update all action items that they are assigned to.|
 
--   **[Create task and assessment-type action items](../task/create-action-items-based-on-smart-assessments.md)**  
+-   **[Create task and assessment-type action items](create-action-items-based-on-smart-assessments.md)**  
 Use integration of crisis events and Smart Assessment for creating necessary action items related to the crisis event. The action items can be of task and assessment type.
 
 **Parent Topic:**[Structured workflows for crisis events](perform-tasks-to-manage-crisis-events.md)

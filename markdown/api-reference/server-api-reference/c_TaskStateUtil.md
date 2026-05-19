@@ -56,7 +56,7 @@ default\_work\_state
 Optional. Attribute to define the state value of the default working state if you want to define business rules that automatically set a task for working. Default: 2, typically Work in Progress if the attribute is not defined.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+</table>**Parent Topic:**[Server API reference](api-server.md)
 
 ## TaskStateUtil - TaskStateUtil\(GlideRecord task\)
 

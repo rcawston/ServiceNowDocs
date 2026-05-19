@@ -39,7 +39,7 @@ function HelloWorldParse(response) {
 }
 ```
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideAjax - GlideAjax\(String class\_name\)
 

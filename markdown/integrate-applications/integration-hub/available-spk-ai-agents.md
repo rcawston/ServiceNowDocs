@@ -25,15 +25,15 @@ AI agent
 
 </th></tr></thead><tbody><tr><td>
 
-[Now Assist for Integration Hub](../concept/now-assist-spokes.md)
+[Now Assist for Integration Hub](now-assist-spokes.md)
 
 </td><td>
 
-[Meeting scheduler AI agent](meeting-scheduler-ai-agent.md)**Important:** To use this AI agent, ensure that you have activated the [Microsoft Exchange Online Spoke](../../integrationhub-store-spokes/concept/ms-exch-online-spoke.md) and configured the client credential alias. To generate Zoom URL for the meeting, you must activate and configure the [Zoom Spoke](../../integrationhub-store-spokes/concept/zoom-spoke.md).
+[Meeting scheduler AI agent](meeting-scheduler-ai-agent.md)**Important:** To use this AI agent, ensure that you have activated the [Microsoft Exchange Online Spoke](ms-exch-online-spoke.md) and configured the client credential alias. To generate Zoom URL for the meeting, you must activate and configure the [Zoom Spoke](zoom-spoke.md).
 
 </td></tr><tr><td rowspan="7">
 
-[Kubernetes Spoke](../../integrationhub-store-spokes/concept/kubernetes-spoke.md)
+[Kubernetes Spoke](kubernetes-spoke.md)
 
 </td><td>
 
@@ -65,7 +65,7 @@ Kubernetes Volume Management AI Agents
 
 </td></tr><tr><td rowspan="5">
 
-[Jenkins Spoke](../../integrationhub-store-spokes/concept/jenkins-v1-spoke.md)
+[Jenkins Spoke](jenkins-v1-spoke.md)
 
 </td><td>
 
@@ -89,7 +89,7 @@ Jenkins Build Management AI Agents
 
 </td></tr><tr><td rowspan="5">
 
-[Microsoft Active Directory v2 Spoke](../../integrationhub-store-spokes/concept/ms-ad-v2-spoke.md)
+[Microsoft Active Directory v2 Spoke](ms-ad-v2-spoke.md)
 
 </td><td>
 
@@ -113,7 +113,7 @@ Microsoft Active Directory user manager
 
 </td></tr><tr><td rowspan="3">
 
-[Microsoft Entra ID Spoke \(formerly Microsoft Azure Active Directory spoke\)](../concept/microsoft-azure-ad-spoke.md)
+[Microsoft Entra ID Spoke \(formerly Microsoft Azure Active Directory spoke\)](microsoft-azure-ad-spoke.md)
 
 </td><td>
 
@@ -129,7 +129,7 @@ Microsoft Entra ID license manager
 
 </td></tr><tr><td rowspan="5">
 
-[Microsoft Exchange Online Spoke](../../integrationhub-store-spokes/concept/ms-exch-online-spoke.md)
+[Microsoft Exchange Online Spoke](ms-exch-online-spoke.md)
 
 </td><td>
 
@@ -153,7 +153,7 @@ Microsoft Exchange Online mail manager
 
 </td></tr><tr><td rowspan="5">
 
-[Microsoft OneDrive Spoke](../../integrationhub-store-spokes/concept/onedrive-spoke.md)
+[Microsoft OneDrive Spoke](onedrive-spoke.md)
 
 </td><td>
 
@@ -177,7 +177,7 @@ Microsoft OneDrive Document Sharing AI Agent
 
 </td></tr><tr><td rowspan="9">
 
-[Microsoft SharePoint Online Spoke](../../integrationhub-store-spokes/concept/sharepoint-online-spoke.md)
+[Microsoft SharePoint Online Spoke](sharepoint-online-spoke.md)
 
 </td><td>
 
@@ -217,7 +217,7 @@ Microsoft SharePoint Online search management AI agent
 
 </td></tr><tr><td>
 
-[Microsoft Security Response Center Spoke](../../integrationhub-store-spokes/concept/msrc-spoke-dec.md)
+[Microsoft Security Response Center Spoke](msrc-spoke-dec.md)
 
 </td><td>
 
@@ -225,7 +225,7 @@ Microsoft Security Response Center security manager
 
 </td></tr><tr><td rowspan="6">
 
-[Microsoft Teams Graph Spoke](../../integrationhub-store-spokes/concept/msteams-spoke.md)
+[Microsoft Teams Graph Spoke](msteams-spoke.md)
 
 </td><td>
 
@@ -253,7 +253,7 @@ Microsoft Teams calendar management AI agent
 
 </td></tr><tr><td>
 
-[X Spoke \(formerly Twitter Spoke\)](../../integrationhub-store-spokes/concept/twitter-spoke-ol.md)
+[X Spoke \(formerly Twitter Spoke\)](twitter-spoke-ol.md)
 
 </td><td>
 
@@ -261,7 +261,7 @@ X Tweet manager
 
 </td></tr><tr><td rowspan="3">
 
-[Slack Spoke](../concept/slack-spoke.md)
+[Slack Spoke](slack-spoke.md)
 
 </td><td>
 
@@ -277,7 +277,7 @@ Slack conversation manager
 
 </td></tr><tr><td rowspan="4">
 
-[Zoom Spoke](../../integrationhub-store-spokes/concept/zoom-spoke.md)
+[Zoom Spoke](zoom-spoke.md)
 
 </td><td>
 
@@ -297,7 +297,7 @@ Zoom chat management AI agent
 
 </td></tr><tr><td rowspan="2">
 
-[F5 BIG-IP Spoke](../../integrationhub-store-spokes/concept/f5-spoke.md)
+[F5 BIG-IP Spoke](f5-spoke.md)
 
 </td><td>
 
@@ -309,7 +309,7 @@ F5 BIG-IP Server Management AI Agents
 
 </td></tr><tr><td rowspan="3">
 
-[Google Chat spoke](../../integrationhub-store-spokes/concept/google-chat-spoke.md)
+[Google Chat spoke](google-chat-spoke.md)
 
 </td><td>
 
@@ -325,7 +325,7 @@ Google Chat message manager
 
 </td></tr><tr><td>
 
-[Google Docs Spoke](../../integrationhub-store-spokes/concept/gdocs-spoke.md)
+[Google Docs Spoke](gdocs-spoke.md)
 
 </td><td>
 
@@ -333,7 +333,7 @@ Google Docs document manager
 
 </td></tr><tr><td rowspan="2">
 
-[Google Drive Spoke](../../integrationhub-store-spokes/concept/googledrive-spoke.md)
+[Google Drive Spoke](googledrive-spoke.md)
 
 </td><td>
 
@@ -345,7 +345,7 @@ Google Drive file and folder manager
 
 </td></tr><tr><td>
 
-[GovNotify Spoke](../../integrationhub-store-spokes/concept/gov-notify.md)
+[GovNotify Spoke](gov-notify.md)
 
 </td><td>
 
@@ -353,7 +353,7 @@ GovNotify message manager
 
 </td></tr><tr><td rowspan="3">
 
-[Jira Service Management Spoke](../../integrationhub-store-spokes/concept/jira-serv-mngmt.md)
+[Jira Service Management Spoke](jira-serv-mngmt.md)
 
 </td><td>
 
@@ -369,7 +369,7 @@ Jira Service Management service desk management AI agent
 
 </td></tr><tr><td rowspan="8">
 
-[Jira Spoke](../../integrationhub-store-spokes/concept/jira-spoke-v3-0-2.md)
+[Jira Spoke](jira-spoke-v3-0-2.md)
 
 </td><td>
 
@@ -405,7 +405,7 @@ Jira issue management AI agent
 
 </td></tr><tr><td rowspan="11">
 
-[Smartsheet Spoke](../../integrationhub-store-spokes/concept/smartsheet-spoke.md)
+[Smartsheet Spoke](smartsheet-spoke.md)
 
 </td><td>
 
@@ -453,7 +453,7 @@ Smartsheet folder management AI agent
 
 </td></tr><tr><td rowspan="7">
 
-[Wrike Spoke](../../integrationhub-store-spokes/concept/wrike-spoke-dec.md)
+[Wrike Spoke](wrike-spoke-dec.md)
 
 </td><td>
 
@@ -485,7 +485,7 @@ Wrike folder and project management AI agent
 
 </td></tr><tr><td rowspan="7">
 
-[Okta Spoke](../../integrationhub-store-spokes/concept/okta-v2-spoke.md)
+[Okta Spoke](okta-v2-spoke.md)
 
 </td><td>
 
@@ -517,7 +517,7 @@ Okta logs management AI agent
 
 </td></tr><tr><td rowspan="8">
 
-[Box Spoke](../../integrationhub-store-spokes/concept/box-spoke.md)
+[Box Spoke](box-spoke.md)
 
 </td><td>
 
@@ -553,7 +553,7 @@ Box legal hold management AI agent
 
 </td></tr><tr><td rowspan="4">
 
-[Google Calendar Spoke](../../integrationhub-store-spokes/concept/gcal-spoke.md)
+[Google Calendar Spoke](gcal-spoke.md)
 
 </td><td>
 
@@ -573,7 +573,7 @@ Google Calendar metadata manager AI agent
 
 </td></tr><tr><td rowspan="3">
 
-[Google Tasks Spoke](../../integrationhub-store-spokes/concept/gtask-spoke.md)
+[Google Tasks Spoke](gtask-spoke.md)
 
 </td><td>
 
@@ -589,7 +589,7 @@ Google Tasks AI Agents
 
 </td></tr><tr><td rowspan="4">
 
-[Miro Spoke](../../integrationhub-store-spokes/concept/miro-spoke.md)
+[Miro Spoke](miro-spoke.md)
 
 </td><td>
 
@@ -609,7 +609,7 @@ Miro board management AI agent
 
 </td></tr><tr><td rowspan="2">
 
-[Microsoft Azure DevOps Boards Spoke](../../integrationhub-store-spokes/concept/azure-devops-spoke.md)
+[Microsoft Azure DevOps Boards Spoke](azure-devops-spoke.md)
 
 </td><td>
 
@@ -621,7 +621,7 @@ Microsoft Azure DevOps Boards work item management AI agent
 
 </td></tr><tr><td rowspan="6">
 
-[Microsoft Dynamics CRM Spoke](../../integrationhub-store-spokes/concept/microsoft-dynamics-crm-spoke.md)
+[Microsoft Dynamics CRM Spoke](microsoft-dynamics-crm-spoke.md)
 
 </td><td>
 
@@ -649,7 +649,7 @@ Microsoft Dynamics CRM opportunity management AI agent
 
 </td></tr><tr><td rowspan="11">
 
-[PagerDuty Spoke](../../integrationhub-store-spokes/concept/pagerduty-spoke.md)
+[PagerDuty Spoke](pagerduty-spoke.md)
 
 </td><td>
 
@@ -697,7 +697,7 @@ PagerDuty tag management AI agent
 
 </td></tr><tr><td rowspan="4">
 
-[GitHub Spoke](../../integrationhub-store-spokes/concept/github-spoke.md)
+[GitHub Spoke](github-spoke.md)
 
 </td><td>
 
@@ -717,7 +717,7 @@ GitHub source code management AI agent
 
 </td></tr><tr><td rowspan="12">
 
-[Coupa Spoke](../../integrationhub-store-spokes/concept/coupa-spoke.md)
+[Coupa Spoke](coupa-spoke.md)
 
 </td><td>
 
@@ -769,7 +769,7 @@ Coupa contract management AI agent
 
 </td></tr><tr><td rowspan="8">
 
-[Docusign eSignature Spoke](../../integrationhub-store-spokes/concept/docusign-spoke.md)
+[Docusign eSignature Spoke](docusign-spoke.md)
 
 </td><td>
 
@@ -805,7 +805,7 @@ Docusign eSignature document signature AI agent
 
 </td></tr><tr><td rowspan="9">
 
-[GitLab Spoke](../../integrationhub-store-spokes/concept/gitlab-spoke.md)
+[GitLab Spoke](gitlab-spoke.md)
 
 </td><td>
 
@@ -845,7 +845,7 @@ GitLab group management AI agent
 
 </td></tr><tr><td rowspan="4">
 
-[Google Cloud Storage Spoke](../../integrationhub-store-spokes/concept/gcloudstorage-spoke.md)
+[Google Cloud Storage Spoke](gcloudstorage-spoke.md)
 
 </td><td>
 
@@ -865,7 +865,7 @@ Google Cloud Storage bucket access AI agent
 
 </td></tr><tr><td rowspan="4">
 
-[Google Meet Spoke](../../integrationhub-store-spokes/concept/google-meet-spoke.md)
+[Google Meet Spoke](google-meet-spoke.md)
 
 </td><td>
 
@@ -885,7 +885,7 @@ Google Meet space management AI agent
 
 </td></tr><tr><td rowspan="6">
 
-[SAP Concur Spoke](../../integrationhub-store-spokes/concept/sap-concur-spoke.md)
+[SAP Concur Spoke](sap-concur-spoke.md)
 
 </td><td>
 
@@ -913,7 +913,7 @@ SAP Concur itinerary management AI agent
 
 </td></tr><tr><td rowspan="6">
 
-[Oracle HCM Cloud Spoke](../concept/oracle-hcm.md)
+[Oracle HCM Cloud Spoke](oracle-hcm.md)
 
 </td><td>
 
@@ -941,7 +941,7 @@ Oracle HCM Cloud compensation management AI agent
 
 </td></tr><tr><td rowspan="6">
 
-[SuccessFactors Spoke](../../integrationhub-store-spokes/concept/successfactors-spoke.md)
+[SuccessFactors Spoke](successfactors-spoke.md)
 
 </td><td>
 

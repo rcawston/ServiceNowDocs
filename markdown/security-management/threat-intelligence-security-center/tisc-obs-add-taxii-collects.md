@@ -74,7 +74,7 @@ Following is the procedure that shows how to add TAXII collections to an observa
 
 ## What to do next
 
-Once you add the records to the TAXII collections, navigate to **Administration** &gt; **TAXII Outbound Server** &gt; **TAXII Collections** to view the added records under the **TAXII Collection Records** section. For more information, see [Exploring TAXII Outbound Server](../concept/tisc-taxii-outbound-server.md) and [Viewing TAXII Collection Records](../concept/tisc-view-taxii-collection.md).
+Once you add the records to the TAXII collections, navigate to **Administration** &gt; **TAXII Outbound Server** &gt; **TAXII Collections** to view the added records under the **TAXII Collection Records** section. For more information, see [Exploring TAXII Outbound Server](tisc-taxii-outbound-server.md) and [Viewing TAXII Collection Records](tisc-view-taxii-collection.md).
 
 **Marking Definitions for Records Added to TAXII Collections**
 

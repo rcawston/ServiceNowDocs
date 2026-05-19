@@ -82,7 +82,7 @@ The call participants can include the following:
     When the final participant leaves the conference, the conference call ends or select **End call** to end the conference call.
 
 
-**Parent Topic:**[Major Security Incident Management Conference Call Integration](../concept/integrate-msim-conference-calls.md)
+**Parent Topic:**[Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
 
 **Related topics**  
 
@@ -93,9 +93,9 @@ The call participants can include the following:
 
 [View conference call details](view-conference-call-details.md)
 
-[Integrate MSIM Conference Calls with Microsoft Teams](../concept/integrate-msim-conf-call-ms-teams.md)
+[Integrate MSIM Conference Calls with Microsoft Teams](integrate-msim-conf-call-ms-teams.md)
 
-[Integrate MSIM Conference Calls with Zoom](../concept/integrate-msim-conf-calls-zoom.md)
+[Integrate MSIM Conference Calls with Zoom](integrate-msim-conf-calls-zoom.md)
 
-[Integrate MSIM Conference Calls with Cisco Webex](../concept/integrate-msim-conf-calls-webex.md)
+[Integrate MSIM Conference Calls with Cisco Webex](integrate-msim-conf-calls-webex.md)
 

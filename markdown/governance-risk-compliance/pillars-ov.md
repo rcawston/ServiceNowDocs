@@ -173,5 +173,5 @@ Depending on the applications integrated with Operational Resilience, suggestion
 -   Top risks to be mitigated
 -   Top vulnerabilities to be fixed
 
-For more information on the pillars in Operational Resilience, see [Exploring Operational Resilience](../../grc-operational-res/concept/what-is-opres.md).
+For more information on the pillars in Operational Resilience, see [Exploring Operational Resilience](what-is-opres.md).
 

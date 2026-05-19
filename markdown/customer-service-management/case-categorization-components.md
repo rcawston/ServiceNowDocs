@@ -393,7 +393,7 @@ Sentiment analysis properties
 
 </td><td>
 
-Enables sentiment predictions for customer service cases. The default setting is false. To enable sentiment predictions, set this property to true.**Note:** This property is automatically set to true when a sentiment model is trained and deployed from the [Task Intelligence Admin Console](../concept/csm-task-intel-admin-center.md).
+Enables sentiment predictions for customer service cases. The default setting is false. To enable sentiment predictions, set this property to true.**Note:** This property is automatically set to true when a sentiment model is trained and deployed from the [Task Intelligence Admin Console](csm-task-intel-admin-center.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -407,7 +407,7 @@ Language detection properties
 
 Enables language detection for customer service cases. The default setting is false. To enable language detection, set this property to true.
 
-**Note:** This property is automatically set to true when a language detection module is tested and deployed from the [Task Intelligence Admin Console](../concept/csm-task-intel-admin-center.md).
+**Note:** This property is automatically set to true when a language detection module is tested and deployed from the [Task Intelligence Admin Console](csm-task-intel-admin-center.md).
 
 </td></tr><tr><td>
 
@@ -518,7 +518,7 @@ Language detection determines the language used to create a case.
 
  Depending on configuration, the system can add this value to the **Language** field on the Case form. This field is a reference to the Language \[sys\_language\] table. It can also add the language as a skill to the Task Skills related list on the Case form.
 
- This flow is automatically activated when a language detection module is trained and deployed from the [Task Intelligence Admin Console](../concept/csm-task-intel-admin-center.md).
+ This flow is automatically activated when a language detection module is trained and deployed from the [Task Intelligence Admin Console](csm-task-intel-admin-center.md).
 
 </td></tr><tr><td>
 

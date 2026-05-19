@@ -53,5 +53,5 @@ Role required: sn\_process\_mining\_admin
     The audit table is ready. You’re now set to import data into the table.
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](external-dataset.md)
 

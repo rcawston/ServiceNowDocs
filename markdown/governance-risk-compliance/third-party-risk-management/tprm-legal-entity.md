@@ -35,7 +35,7 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Company form](../reference/tprm-create-new-legal-entity-form.md).
+    For descriptions of all these fields, see [Create New Company form](tprm-create-new-legal-entity-form.md).
 
 4.  Select **Save**.
 
@@ -45,7 +45,7 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
     The Legal entity record contains the fields that provide the information required for the regulatory reporting of the legal entity. This includes details such as Legal Entity Identifier \(LEI\), name, country of registration, entity type \(as defined by the regulator\), and more. These fields are offered as choice lists within the system for users to select from.
 
-    For information on setting up the digital resilience information for a legal entity, see [Create New Legal entity form](../reference/tprm-create-new-legal-entity.md).
+    For information on setting up the digital resilience information for a legal entity, see [Create New Legal entity form](tprm-create-new-legal-entity.md).
 
 6.  Select **Save**.
 

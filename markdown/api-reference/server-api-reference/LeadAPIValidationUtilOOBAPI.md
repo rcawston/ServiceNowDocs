@@ -15,13 +15,13 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The LeadAPIValidationUtilOOB script include provides methods that are called by the lead REST API to validate lead records and associated lead line item records when they are created \(POST\) or updated \(PATCH\).
 
-If you want to customize how lead records are validated when the [lead API](../../../../../integrate/inbound-rest/concept/lead-api.md#) methods are called, override the methods in this script include in the LeadAPIValidationUtil script include. The names of the methods that you are overriding in the LeadAPIValidationUtil script include must be the same as those in the LeadAPIValidationUtilOOB script include file.
+If you want to customize how lead records are validated when the [lead API](../rest-apis/lead-api.md#) methods are called, override the methods in this script include in the LeadAPIValidationUtil script include. The names of the methods that you are overriding in the LeadAPIValidationUtil script include must be the same as those in the LeadAPIValidationUtilOOB script include file.
 
 This API is provided within the `sn_lead_mgmt_core` namespace. To access the API, the Lead Management Data Model \(sn\_lead\_mgmt\_core\) plugin must be activated on the instance, and the calling user must have the sn\_lead\_mgmt\_core.lead\_integrator role.
 
 For additional information on Lead Management, see [Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## LeadAPIValidationUtilOOB - validateLeadObjectForPatchCall \(Object leadObject\)
 
@@ -36,7 +36,7 @@ This method is triggered by the processUpdateLead\(\) method in the LeadAPIValid
 
 |Name|Type|Description|
 |----|----|-----------|
-|leadObject|Object|Fields to update in the specified lead record and associated lead line item records. For a list of the fields that can be passed and their associated requirements, see [lead - PATCH /sn\_lead\_mgmt\_core/lead/\{sys\_id\}](../../../../../integrate/inbound-rest/concept/lead-api.md#).|
+|leadObject|Object|Fields to update in the specified lead record and associated lead line item records. For a list of the fields that can be passed and their associated requirements, see [lead - PATCH /sn\_lead\_mgmt\_core/lead/\{sys\_id\}](../rest-apis/lead-api.md#).|
 
 <table id="table_h1v_qls_ydc" class="returns"><thead><tr><th>
 

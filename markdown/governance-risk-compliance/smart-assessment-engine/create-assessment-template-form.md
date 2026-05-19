@@ -57,7 +57,7 @@ Purpose that the new assessment template should be a member of. For example, Ris
 
 Template purposes enforce data segregation for templates. A purpose controls which users can view a template. Each assessment template is associated with a purpose. To view a template within a specific purpose, you must have a category role associated with that purpose.
 
-For more information, see [Create an assessment template category](../task/sae-asmnt-template-category-create.md)
+For more information, see [Create an assessment template category](sae-asmnt-template-category-create.md)
 
 </td></tr><tr><td>
 

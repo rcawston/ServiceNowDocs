@@ -60,5 +60,5 @@ Experience the ability to zoom into an application or a group of applications an
 -   **[Admin Center reference](ac-reference.md)**  
 Find all the miscellaneous information about Admin Center and its applications in the reference section.
 
-**Parent Topic:**[Getting started on the ServiceNow AI Platform](../../general/concept/get-started-now-platform.md)
+**Parent Topic:**[Getting started on the ServiceNow AI Platform](../get-started-now-platform.md)
 

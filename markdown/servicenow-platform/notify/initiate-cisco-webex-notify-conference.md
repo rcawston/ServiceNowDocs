@@ -88,5 +88,5 @@ Option to provide an opening message to the user before beginning the interactio
     You can also click the link from the workbench to begin the Webex conference call.
 
 
-**Parent Topic:**[Using the Notify Cisco Webex Connector with a major incident](../concept/use-cisco-webex-notify-mi.md)
+**Parent Topic:**[Using the Notify Cisco Webex Connector with a major incident](use-cisco-webex-notify-mi.md)
 

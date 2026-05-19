@@ -155,5 +155,5 @@ For example, consider a scenario where details of a target are as follows before
 
 In this case, after running the scheduled job 8 quarterly breakdowns are created and the Target value distribution is set to **Spread linearly across the time period \(cumulative\)** for the target. The current actual value for Q1-2023, Q2-2023, Q3-2023, Q4-2023, Q1-2024, and Q2-2024 quarterly target breakdowns are populated as 10, 20, 30, 40, 50, and 60, respectively. Also, the planned target value is populated for each breakdown.
 
-**Parent Topic:**[Migrate target breakdowns](../task/migrate-target-breakdowns-spw.md)
+**Parent Topic:**[Migrate target breakdowns](migrate-target-breakdowns-spw.md)
 

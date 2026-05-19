@@ -26,7 +26,7 @@ After you install the HR Service Delivery Integration with SuccessFactors, the s
 
     Allow the Restricted Caller Access records with Status = **Requested** and Source Scope = **Enterprise Service Management Integrations Framework** or **HR Service Delivery Integration with Successfactors**.
 
-2.  For better performance, index the employee number field in the HR Profile table and index coalesce fields in [Use transform maps](../reference/use-transform-maps-sf.md).
+2.  For better performance, index the employee number field in the HR Profile table and index coalesce fields in [Use transform maps](use-transform-maps-sf.md).
 
     For more information, see [create a table index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateCustomIndex.md).
 
@@ -36,7 +36,7 @@ After you install the HR Service Delivery Integration with SuccessFactors, the s
 
     For more information, see set up [SuccessFactors Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/successfactors-spoke.md).
 
-4.  Configure integration source properties for [Source for HR Service Delivery Integration with SuccessFactors](../reference/source-for-hrsd-successfactors.md).
+4.  Configure integration source properties for [Source for HR Service Delivery Integration with SuccessFactors](source-for-hrsd-successfactors.md).
 
 5.  Activate and run the scheduled flow that synchronizes Worker profile information between SuccessFactors and ServiceNow HR Service Delivery periodically.
 

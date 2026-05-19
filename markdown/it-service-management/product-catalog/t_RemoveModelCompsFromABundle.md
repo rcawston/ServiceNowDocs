@@ -36,7 +36,7 @@ No component history is retained. If you remove a component from a bundled model
 5.  Click **OK**.
 
 
-**Parent Topic:**[Bundled models](../concept/c_CreatingBundledModels.md)
+**Parent Topic:**[Bundled models](c_CreatingBundledModels.md)
 
 **Related topics**  
 

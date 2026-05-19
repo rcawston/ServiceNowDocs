@@ -28,12 +28,12 @@ Role required: admin
 4.  Select **All**.
 
 
-**Parent Topic:**[Working with the Setup page](../../concept/eaw-concept/eaw-work-with-setup-page.md)
+**Parent Topic:**[Working with the Setup page](eaw-work-with-setup-page.md)
 
 **Related topics**  
 
 
-[Manage application category groups](../../concept/eaw-concept/eaw-configure-application-category-groups.md)
+[Manage application category groups](eaw-configure-application-category-groups.md)
 
 [Add or edit an application category group](eaw-create-app-cat-grp.md)
 

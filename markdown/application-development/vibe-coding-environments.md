@@ -44,7 +44,7 @@ Vibe coding and AI-assisted development works with Developer Sandboxes in the fo
 -   Vibe coding accelerates app creation, while Developer Sandboxes provide a safe space to experiment with AI-generated changes.
 -   Every AI-assisted change in a sandbox can be tracked, previewed, and rolled back to maintain governance and compliance.
 
-For more information on Developer Sandboxes, see [Developer Sandboxes](../../developer-sandboxes/concept/sandboxes-landing.md).
+For more information on Developer Sandboxes, see [Developer Sandboxes](developer-sandboxes/sandboxes-landing.md).
 
 ## PDIs and AI-assisted development
 
@@ -55,7 +55,7 @@ A Personal Developer Instance \(PDI\) is a free, standalone ServiceNow instance 
 -   PDIs support learning prompting patterns, testing AI-generated apps, and refining workflows before moving to Developer Sandboxes or sub-production instances.
 -   For production-grade work, use Developer Sandboxes instead, which are exact copies of customer instances and support source control integration.
 
-For more information on PDIs, see [Personal developer instance guide](../../applications/concept/personal_developer_instance_guide.md).
+For more information on PDIs, see [Personal developer instance guide](personal_developer_instance_guide.md).
 
 **Parent Topic:**[Vibe coding and AI-assisted development on the ServiceNow AI Platform](vibe-coding-using.md)
 

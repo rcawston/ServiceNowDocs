@@ -34,11 +34,11 @@ Identify over-allocated per-user subscriptions on your instance by accessing the
 -   Remove users from a group
 -   Purchase more subscriptions
 
-For more information, see [Remove a group from a product subscription in Subscription Management](../task/remove-group-from-subscription-v2.md).
+For more information, see [Remove a group from a product subscription in Subscription Management](remove-group-from-subscription-v2.md).
 
 ## Available subscriptions
 
 Identify available subscriptions on your instance by accessing the **Insights** tab. Maximize subscription usage and grant entitlements to the right users by allocating available subscriptions.
 
-You allocate per-user subscriptions by adding one or more groups to a product subscription. Subscription Management helps you with the allocation process by recommending groups based on their assigned roles. For more information, see [Allocate subscriptions in Subscription Management](../task/allocate-subscriptions-v2.md).
+You allocate per-user subscriptions by adding one or more groups to a product subscription. Subscription Management helps you with the allocation process by recommending groups based on their assigned roles. For more information, see [Allocate subscriptions in Subscription Management](allocate-subscriptions-v2.md).
 

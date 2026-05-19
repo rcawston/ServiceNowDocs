@@ -23,7 +23,7 @@ Components are reusable blocks that are used for designing automations and to ab
 
 RPA Desktop Design Studio hosts a wide range of components that you can use while you’re creating automation projects.
 
-Each component has ports that are used while creating an automation workflow. For more information, see [RPA Desktop Design Studio ports](../concept/overview-ports-rpa-studio.md).
+Each component has ports that are used while creating an automation workflow. For more information, see [RPA Desktop Design Studio ports](overview-ports-rpa-studio.md).
 
 Enhance the automation logic with text instructions, either in an empty activity or by selecting a component in an existing one by using the Now Assist for RPA Hub application. For more information, see [Build an automation with Now Assist](build-automation-now-assist.md).
 
@@ -163,7 +163,7 @@ To test and debug any issue in an automation by isolating a single component, ri
 </table>5.  To search for a component that is available within the Toolbox, enter the text in the **Filter by Name** field.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 
 **Related topics**  
 

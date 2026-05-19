@@ -38,7 +38,7 @@ To perform the ERP Source configuration for SAP, follow these steps:
 
 1.  Define the ERP source that you want to integrate with SAP integration.
 2.  Create a basic authentication profile that can be used for web service integration with SAP.
-3.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for SAP](../task/define-erp-source-sap.md).
+3.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for SAP](define-erp-source-sap.md).
 4.  The integration services are preconfigured with the base system for the following entities:
 
     -   **Currencies**
@@ -114,9 +114,9 @@ To perform the ERP Source configuration for SAP, follow these steps:
 **Related topics**  
 
 
-[Define ERP source configuration for SAP](../task/define-erp-source-sap.md)
+[Define ERP source configuration for SAP](define-erp-source-sap.md)
 
-[Configure integration services for SAP](../task/configure-service-maps-sap.md)
+[Configure integration services for SAP](configure-service-maps-sap.md)
 
 [Look up primary data in SAP](look-up-primary-data-sap.md)
 

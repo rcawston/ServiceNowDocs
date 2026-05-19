@@ -23,7 +23,7 @@ You can also provide your own CSS for right-to-left languages to override the au
 
 **Note:** Base system portals besides Service Portal \(/sp\) and custom portals might need additional CSS customization to mirror the direction of a portal for right-to-left languages completely.
 
-To track how many users view a portal in a right-to-left language, see the PortalPageLoad event in Usage Insights for Service Portal. For more information about available events, see [Service Portal events](../reference/sp-analytics-events.md).
+To track how many users view a portal in a right-to-left language, see the PortalPageLoad event in Usage Insights for Service Portal. For more information about available events, see [Service Portal events](sp-analytics-events.md).
 
 -   **[Mirror the portal direction for right-to-left languages](mirror-portal-direction-right-to-left-languages.md)**  
 Mirror the direction of a portal's user interface for right-to-left languages by enabling the necessary CSS.

@@ -29,13 +29,13 @@ You can define a sample template with the draft of an email. It can contain the 
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [Notification Template form](../reference/notification-template-form.md).
+    For more information on the fields, see [Notification Template form](notification-template-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Notification Template form](../reference/notification-template-form.md)**  
+-   **[Notification Template form](notification-template-form.md)**  
 Use the Notification Template form to create a template with pre-defined information for sending out the notifications.
 
-**Parent Topic:**[Setup for Everbridge notifications](../concept/setup-steps-for-emergency-notification-uib-ws.md)
+**Parent Topic:**[Setup for Everbridge notifications](setup-steps-for-emergency-notification-uib-ws.md)
 

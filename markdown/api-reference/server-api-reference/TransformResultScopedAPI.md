@@ -21,7 +21,7 @@ There is no constructor for this class. TransformResult objects are returned by 
 
 This class is part of the MetricBase application.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TransformResult - byGroup\(\)
 

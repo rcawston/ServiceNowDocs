@@ -19,7 +19,7 @@ Create and insert a new questionnaire for agents to respond to.
 
 Role required: admin, playbook\_admin, playbook\_author, or playbook\_content\_author
 
-Familiarize yourself with the [questionnaire activity inputs and outputs](../reference/questionnaire-activity.md).
+Familiarize yourself with the [questionnaire activity inputs and outputs](questionnaire-activity.md).
 
 ## Procedure
 
@@ -81,7 +81,7 @@ After the activity starts, the activity runs only if specific conditions are met
 
 </td><td>
 
-Specify a duration of time to wait before running an activity whose start rule and conditions have been met. Give users a specific amount of time to complete actions. For more information, see [Start with delay input properties](../reference/start-with-delay-properties.md).
+Specify a duration of time to wait before running an activity whose start rule and conditions have been met. Give users a specific amount of time to complete actions. For more information, see [Start with delay input properties](start-with-delay-properties.md).
 
 </td></tr><tr><td>
 
@@ -102,5 +102,5 @@ For more information, see [Restart a playbook](restart-a-playbook.md).
     **Note:** In the canvas, hover over the activity to see additional actions to edit a questionnaire.
 
 
-**Parent Topic:**[Questionnaire activity](../reference/questionnaire-activity.md)
+**Parent Topic:**[Questionnaire activity](questionnaire-activity.md)
 

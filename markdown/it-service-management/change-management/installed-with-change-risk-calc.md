@@ -15,7 +15,7 @@ breadcrumb: [Activate Best Practice - Change Risk Calculator, Change Management 
 
 Several types of components are installed with the Best Practice- Change Risk Calculator.
 
-**Parent Topic:**[Activate Best Practice - Change Risk Calculator](../task/activate-change-risk-calculator.md)
+**Parent Topic:**[Activate Best Practice - Change Risk Calculator](activate-change-risk-calculator.md)
 
 ## Tables installed with Best Practice - Change Risk Calculator
 

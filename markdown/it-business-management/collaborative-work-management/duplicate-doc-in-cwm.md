@@ -42,5 +42,5 @@ Role required: sn\_cwm.cwm\_user
 
 The new Doc is added to the same Space as the original Doc. If necessary, you can move it to a different Space or a different position in the same Space.
 
-**Parent Topic:**[Collaborative documentation using CWM](../concept/cwm-docs.md)
+**Parent Topic:**[Collaborative documentation using CWM](cwm-docs.md)
 

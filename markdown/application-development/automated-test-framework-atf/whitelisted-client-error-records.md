@@ -57,10 +57,10 @@ Description
 Description of the error you want to allow. If this client error was allowed from a test result, step result, or a test log, the test log description is copied into this field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Run](../concept/run-module.md)
+</table>**Parent Topic:**[Run](run-module.md)
 
 **Related topics**  
 
 
-[Allowed client errors](../concept/whitelisted-client-errors.md)
+[Allowed client errors](whitelisted-client-errors.md)
 

@@ -125,7 +125,7 @@ Inherits 17 roles including the following:
 
 1.  Define SLOs - Identify critical services and define SLOs based on customer expectations and business requirements.
 
-    **Note:** SLOs can also be generated automatically using the Now Assist SLO creator agent. For details, see [Generating service level objectives](../../now-assist-itom/concept/now-assist-itom-slo-generation.md).
+    **Note:** SLOs can also be generated automatically using the Now Assist SLO creator agent. For details, see [Generating service level objectives](now-assist-itom-slo-generation.md).
 
 2.  Establish SLIs - Develop Service Level Indicators \(SLIs\) to measure SLO performance.
 3.  Monitor and analyze - Track SLI data and analyze performance against SLO targets.
@@ -139,5 +139,5 @@ Inherits 17 roles including the following:
 -   Better resource allocation - SLOs help prioritize resources and focus on areas that need improvement.
 -   Enhanced collaboration - SLO management encourages collaboration between IT teams and customers to achieve common goals.
 -   Data-driven decision making - SLO performance data informs decisions and drives continuous service improvement.
--   Automated SLO generation - The SLO creator agent analyzes operational data to generate SLOs, helping teams get started with SLO-based monitoring. For details, see [Generating service level objectives](../../now-assist-itom/concept/now-assist-itom-slo-generation.md).
+-   Automated SLO generation - The SLO creator agent analyzes operational data to generate SLOs, helping teams get started with SLO-based monitoring. For details, see [Generating service level objectives](now-assist-itom-slo-generation.md).
 

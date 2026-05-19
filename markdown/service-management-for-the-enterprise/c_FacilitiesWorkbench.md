@@ -26,11 +26,11 @@ Use the workbench as follows:
     **Note:** Facilities Workbench is available on a mobile device, but with limited capabilities.
 
 
--   **[Find a move request](../task/t_FindMoveRequest.md)**  
+-   **[Find a move request](t_FindMoveRequest.md)**  
 Facilities and move staff can locate and manage move requests from the Moves tab within the workbench.
--   **[Find a facilities request](../task/t_FindFacilitesRequest.md)**  
+-   **[Find a facilities request](t_FindFacilitesRequest.md)**  
 Facilities administrators can locate and manage requests from the Requests tab within the workbench.
--   **[Edit a zone](../task/t_EditAZone.md)**  
+-   **[Edit a zone](t_EditAZone.md)**  
 Facilities administrators and staff can edit existing zones from the Zones tab within the workbench.
 
 **Parent Topic:**[Interactive facility maps](c_InteractiveFacilityMaps.md)

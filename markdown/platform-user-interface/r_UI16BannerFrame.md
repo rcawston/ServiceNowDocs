@@ -15,7 +15,7 @@ You can define system settings to customize the Core UI for yourself. The gear i
 
 The system settings are organized by tab.
 
-**Note:** This information is applicable to the Core UI. For information about adjusting system settings with Next Experience enabled, see [Next Experience preferences](../../../get-started/servicenow-overview/concept/set-up-preferences-next-experience.md).
+**Note:** This information is applicable to the Core UI. For information about adjusting system settings with Next Experience enabled, see [Next Experience preferences](set-up-preferences-next-experience.md).
 
 <table id="table_kj4_twh_fr"><thead><tr><th>
 
@@ -75,7 +75,7 @@ Keyboard shortcuts enabled
 
 </td><td>
 
-Determines whether a user can access parts of the platform using keyboard shortcuts. For more information on available keyboard shortcuts, see [Core UI keyboard shortcuts](../../../use/navigation/reference/r_KeyboardShortcuts.md).
+Determines whether a user can access parts of the platform using keyboard shortcuts. For more information on available keyboard shortcuts, see [Core UI keyboard shortcuts](r_KeyboardShortcuts.md).
 
 </td></tr><tr><td>
 
@@ -184,7 +184,7 @@ Related list loading
 
 </td><td>
 
-Determines when related lists load on forms. For more information, see [Configure when a related list loads](../../../use/using-forms/task/t_ConfigureWhenARelatedListLoads.md).
+Determines when related lists load on forms. For more information, see [Configure when a related list loads](t_ConfigureWhenARelatedListLoads.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -287,5 +287,5 @@ Places the inspect icon in the banner frame when this setting is enabled. Enable
 </td></tr></tbody>
 </table>![System Settings window](../image/UI16SystemMenu.png "System Settings window, General tab")
 
-**Parent Topic:**[Core UI](../concept/c_UI16.md)
+**Parent Topic:**[Core UI](c_UI16.md)
 

@@ -23,7 +23,7 @@ Requesters, contributors, and back-office agents use personalized workspace to w
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md).
+For more information, see [Workspaces](../fso-workspace.md).
 
 <table id="table_qy3_jmx_tnb"><thead><tr><th>
 
@@ -87,7 +87,7 @@ Loan admin
 
 </td><td>
 
-Configures the loan workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Configures the loan workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Workflows
@@ -109,5 +109,5 @@ Using the case playbook, loan contributor and loan agents can visualize and inte
 
 Performance Analytics give business owners an insight into how the team and business are performing. Dashboards with customizable views are available for business and personal loan operations with the application.
 
-For more information, see [Personal Loan Operations dashboard](../../../use/dashboards/application-content-packs/personal-loan-operations-dashboard.md) and [Business Loan Operations dashboard](../../../use/dashboards/application-content-packs/business-loan-operations-dashboard.md).
+For more information, see [Personal Loan Operations dashboard](../personal-loan-operations-dashboard.md) and [Business Loan Operations dashboard](../business-loan-operations-dashboard.md).
 

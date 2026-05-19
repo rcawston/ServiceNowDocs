@@ -73,14 +73,14 @@ Selecting the pending tasks displays the tasks that the visitor hasn't completed
 1.  Select **Create new visit**.
 2.  On the New visit form, fill in the fields.
 
-For a description of the field values, see [New visit form](../reference/new-visit-form.md).
+For a description of the field values, see [New visit form](new-visit-form.md).
 
 **Note:** The fields are based on the initial requirements configured by the admin.
 
 3.  Select **Create Visit**.
 4.  Add internal or external visitors.
 
-For more information about adding visitors, see [Adding visitors](../concept/adding-visitors.md#).
+For more information about adding visitors, see [Adding visitors](adding-visitors.md#).
 
 5.  Select **Confirm**.
 
@@ -98,24 +98,24 @@ For recurring visits, you can edit a single occurrence or all occurrences.
 
 3.  On the Edit visit form, fill in the fields.
 
-The fields are the same as creating a visit. For a description of the field values, see [New visit form](../reference/new-visit-form.md).
+The fields are the same as creating a visit. For a description of the field values, see [New visit form](new-visit-form.md).
 
 4.  Select **Save changes**.
 5.  Add, edit, or remove visitors.
 
-For more information about adding visitors, see [Adding visitors](../concept/adding-visitors.md#).
+For more information about adding visitors, see [Adding visitors](adding-visitors.md#).
 
 6.  Select **Confirm**.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Registering a visitor](../concept/registerring-a-visitor.md)
+**Parent Topic:**[Registering a visitor](registerring-a-visitor.md)
 
 **Related topics**  
 
 
-[Adding visitors](../concept/adding-visitors.md#)
+[Adding visitors](adding-visitors.md#)
 
 [Make a visitor registration](register-a-guest.md)
 

@@ -36,5 +36,5 @@ Select investment currency as an additional currency, which can be different fro
 5.  Select **Confirm** to save the investment currency selection.
 
 
-**Parent Topic:**[Managing financials for your projects](../concept/using-financials-prj-wrkspc.md)
+**Parent Topic:**[Managing financials for your projects](using-financials-prj-wrkspc.md)
 

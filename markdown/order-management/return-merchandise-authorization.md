@@ -20,12 +20,12 @@ Using case line items, multiple issues can be tracked for the same RMA case. Als
 ## Related links
 
 -   [Activate the Return Merchandise Authorization plugin](activate-return-merchandise-authorization-plugin.md)
--   [Return Merchandise Authorization Case Management](../reference/return-merchandise-authorization-case-management-reference.md)
+-   [Return Merchandise Authorization Case Management](return-merchandise-authorization-case-management-reference.md)
 
 **Related topics**  
 
 
 [Activate the Return Merchandise Authorization plugin](activate-return-merchandise-authorization-plugin.md)
 
-[Return Merchandise Authorization Case Management](../reference/return-merchandise-authorization-case-management-reference.md)
+[Return Merchandise Authorization Case Management](return-merchandise-authorization-case-management-reference.md)
 

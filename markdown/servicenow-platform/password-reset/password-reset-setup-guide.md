@@ -24,7 +24,7 @@ Role required: admin
 ## Active and available plugins
 
 -   To enable connections to Active Directory \(AD\) and Remote \(SOAP\) ServiceNow Instance credential store types, activate the Password Reset Windows App \(Password Reset Orchestration\) \(com.glideapp.password\_reset\_desktop\) plugin and Microsoft AD for Password Reset store app. No other components are installed. Orchestration is available as a separate subscription. See [Request the Password Reset Windows App plugin](setup-guide-ad.md#).
--   To enable connections to Microsoft Entra ID Integration for Password Reset, [Integrate Microsoft Entra ID Integration with Password Reset](../task/Config-credential-store-micro-azure.md) and [Configure the connection to Microsoft Entra ID Credential Store](../task/config-azure-credential-store.md).
+-   To enable connections to Microsoft Entra ID Integration for Password Reset, [Integrate Microsoft Entra ID Integration with Password Reset](Config-credential-store-micro-azure.md) and [Configure the connection to Microsoft Entra ID Credential Store](config-azure-credential-store.md).
 
 ## Next steps
 

@@ -15,9 +15,9 @@ breadcrumb: [Integration Hub, Workflow Data Fabric]
 
 Create integrations with Integration Hub.
 
--   **[Integration Hub spokes](../reference/spokes-list.md)**  
+-   **[Integration Hub spokes](spokes-list.md)**  
 Activate spokes to enhance your Workflow Studio experience with integration-specific content. Use prebuilt flows and actions to automate your integrations or create your own integration automation.
--   **[Set up MID Server for a spoke](../../integrationhub-store-spokes/task/config-adv-mid-settings-for-oauth-on-mid.md)**  
+-   **[Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md)**  
 Configure MID Server settings on your ServiceNow instance that enables it to integrate with a third-party application via MID Server after you have set up the connection record for a spoke.
 -   **[Now Assist in Conversational Spokes](conv-spokes-na.md)**  
 Use Now Assist in Conversational Spokes application to start utilizing the conversational ability of Integration Hub spoke actions.

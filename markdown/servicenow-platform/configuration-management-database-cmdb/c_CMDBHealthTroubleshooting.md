@@ -17,7 +17,7 @@ Use the following information to track and resolve issues with the CMDB Health p
 
 ## Logging
 
-By default, only error messages are logged to the syslog table, with the source name CmdbHealth. To enable logging of 'info' and 'warning' messages \(which are typically logged at the start and end of each processing cycle\), update the system property glide.cmdb.logger.use\_syslog.CMDBHealth. For information about using this property, see [CMDB Health system properties](../reference/r_CMDBHealthProperties.md).
+By default, only error messages are logged to the syslog table, with the source name CmdbHealth. To enable logging of 'info' and 'warning' messages \(which are typically logged at the start and end of each processing cycle\), update the system property glide.cmdb.logger.use\_syslog.CMDBHealth. For information about using this property, see [CMDB Health system properties](r_CMDBHealthProperties.md).
 
 ## Processing status
 
@@ -89,11 +89,11 @@ The CMDB Health Dashboard shows the string 'incomplete score' for a metric when 
 
 [View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
 
-[View relationships health](../task/t_ViewRelationshipsHealth.md)
+[View relationships health](t_ViewRelationshipsHealth.md)
 
-[View CI health](../task/t_ViewCIHealth.md)
+[View CI health](t_ViewCIHealth.md)
 
-[Create a CMDB remediation rule](../task/t_CreateCMDBRemediationRule.md)
+[Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)
 
 [CMDB Health reference](cmdb-health-ref-parent.md)
 

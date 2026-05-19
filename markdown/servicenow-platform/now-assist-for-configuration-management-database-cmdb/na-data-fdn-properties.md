@@ -101,5 +101,5 @@ Retrieves knowledge articles from other connector categories, in addition to the
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist for CMDB reference](../../configuration-management/concept/now-assist-cmdb-reference.md)
+</table>**Parent Topic:**[Now Assist for CMDB reference](now-assist-cmdb-reference.md)
 

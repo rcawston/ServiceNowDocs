@@ -87,10 +87,10 @@ A proactive case record is created and appears in the Affected customers section
 
 A proactive case record is created and appears in the Affected customers section.
 
-**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](../concept/psew-identify-act-incident.md)
+**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](psew-identify-act-incident.md)
 
 **Related topics**  
 
 
-[Enhancing customer impact visibility for PSEW processes](../concept/enhance-customer-impact-visibility-psew-process.md)
+[Enhancing customer impact visibility for PSEW processes](enhance-customer-impact-visibility-psew-process.md)
 

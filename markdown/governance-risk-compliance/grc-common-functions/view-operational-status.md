@@ -130,5 +130,5 @@ The source table for the data being monitored by the control.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Technology Controls Monitoring Accelerator](../concept/tech-controls-monitoring-accel.md)
+**Parent Topic:**[Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md)
 

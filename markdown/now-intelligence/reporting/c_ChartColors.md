@@ -15,7 +15,7 @@ breadcrumb: [Predefined colors in reports, Advanced Core UI reporting topics, Re
 
 Chart colors assign a consistent color to a grouping or stacking value in reports. The color stays the same across reports regardless of the order of the values.
 
-**Note:** This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Colors in data visualizations](../../performance-analytics/concept/colors-dv.md#).
+**Note:** This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Colors in data visualizations](../colors-dv.md#).
 
 ## Using chart colors in a report
 
@@ -111,7 +111,7 @@ Color name
 
 </td><td>
 
-Color selected from the Color Definitions \[sys\_report\_color\] table. If you select a color definition, it overrides the color specified in the **Color** field. For more information about color definitions, see [Define system colors for analytics](../task/t_DefiningSystemColors.md).
+Color selected from the Color Definitions \[sys\_report\_color\] table. If you select a color definition, it overrides the color specified in the **Color** field. For more information about color definitions, see [Define system colors for analytics](t_DefiningSystemColors.md).
 
 </td></tr><tr id="row_p3b_vfw_1z"><td>
 

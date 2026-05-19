@@ -29,7 +29,7 @@ The following items are installed with OT Asset Management:
 -   Store applications
 -   Roles
 
-For more information, see [Installed with OT Asset Management](../reference/installed-with-otam.md).
+For more information, see [Installed with OT Asset Management](installed-with-otam.md).
 
 ## Procedure
 
@@ -54,16 +54,16 @@ For more information, see [Installed with OT Asset Management](../reference/inst
 6.  Select **Install**.
 
 
-**Parent Topic:**[OT Asset Management](../concept/ot-asset-management.md)
+**Parent Topic:**[OT Asset Management](ot-asset-management.md)
 
 **Related topics**  
 
 
-[OT Asset Management licensing](../concept/licensing-ot-asset-management.md)
+[OT Asset Management licensing](licensing-ot-asset-management.md)
 
-[Installed with OT Asset Management](../reference/installed-with-otam.md)
+[Installed with OT Asset Management](installed-with-otam.md)
 
-[OT Asset Workspace](../concept/ot-asset-ws-otam.md)
+[OT Asset Workspace](ot-asset-ws-otam.md)
 
-[Asset and Configuration Item \(CI\) synchronization for Operational Technology \(OT\) assets](../concept/asset-ci-sync-ot-assets.md)
+[Asset and Configuration Item \(CI\) synchronization for Operational Technology \(OT\) assets](asset-ci-sync-ot-assets.md)
 

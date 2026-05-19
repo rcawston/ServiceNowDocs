@@ -55,5 +55,5 @@ This topic is for giving non-default roles to the experience switcher. The follo
 6.  Select **Submit** to save the changes.
 
 
-**Parent Topic:**[Administering access to the experience switcher](../concept/crs-experience-switcher-role-access.md)
+**Parent Topic:**[Administering access to the experience switcher](crs-experience-switcher-role-access.md)
 

@@ -178,7 +178,7 @@ Role required: sn\_map\_core.map\_admin
 
     -   From the Map Configuration preview, switch to the CAD Editor tab.
 
-        For more information, see [Configure CAD objects using the CAD Editor tab](../concept/cad-editor-v2-ovw.md).
+        For more information, see [Configure CAD objects using the CAD Editor tab](cad-editor-v2-ovw.md).
 
     -   Select the place on the CAD Editor preview and add a polygon or a missing line.
     -   Switch back to the Map configuration preview.
@@ -186,9 +186,9 @@ Role required: sn\_map\_core.map\_admin
         Notice that the summary pill for the place shows the **Import as polygon** highlighted in green and the text is not highlighted in red. The style appears along with the polygon.
 
 
-**Parent Topic:**[Configure CAD objects using the Map Configuration tab](../concept/manage-cad-map-config.md)
+**Parent Topic:**[Configure CAD objects using the Map Configuration tab](manage-cad-map-config.md)
 
 **Previous topic:**[Configure layers](wsd-edit-layers.md)
 
-**Next topic:**[Configure CAD objects using the CAD Editor tab](../concept/cad-editor-v2-ovw.md)
+**Next topic:**[Configure CAD objects using the CAD Editor tab](cad-editor-v2-ovw.md)
 

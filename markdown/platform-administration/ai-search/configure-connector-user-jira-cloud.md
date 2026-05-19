@@ -63,5 +63,5 @@ Atlassian administrators need to create and configure this user as part of confi
 
 Provide the technical user credentials to your search administrators so they can use them when creating Atlassian Jira Cloud external content connectors.
 
-**Parent Topic:**[Atlassian Jira Cloud external content connector](../concept/atlassian-jira-cloud-external-content-connector.md)
+**Parent Topic:**[Atlassian Jira Cloud external content connector](atlassian-jira-cloud-external-content-connector.md)
 

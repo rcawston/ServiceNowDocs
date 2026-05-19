@@ -36,10 +36,10 @@ In the email client, user can select to send the message as an SMS text message.
 
 If the recipient doesn't have a registered SMS device, the email client sends the message to the primary email device.
 
-**Parent Topic:**[Configure email client](../concept/configuring-email-client.md)
+**Parent Topic:**[Configure email client](configuring-email-client.md)
 
 **Related topics**  
 
 
-[Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#)
+[Add a system property](r_AvailableSystemProperties.md#)
 

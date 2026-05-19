@@ -30,5 +30,5 @@ After this step, business rules in SAM update the Processor Definition \[CMDB\_p
 2.  Click **Proceed**.
 
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
 

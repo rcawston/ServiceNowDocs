@@ -54,5 +54,5 @@ Role required: none
 
 You can now order an Azure DevOps catalog item from the Azure DevOps catalog order form on Employee Center.
 
-**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](../concept/integrating-azure-devops-and-cicd-pipeline.md)
+**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](integrating-azure-devops-and-cicd-pipeline.md)
 

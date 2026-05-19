@@ -38,11 +38,11 @@ The Service Graph Connector for Akamai API Security populates attributes that ar
 
 ## Configuring a connection for the connector
 
-Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to install the connector and configure the connection. The view enables you to install and discover connectors and to manage the full life cycle of creating, editing, monitoring, and debugging connections. For instructions, see [Configure Service Graph Connector for Akamai API Security using SGC Central](../../sgc-central/task/sgcc-configure-akamai-integ.md).
+Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to install the connector and configure the connection. The view enables you to install and discover connectors and to manage the full life cycle of creating, editing, monitoring, and debugging connections. For instructions, see [Configure Service Graph Connector for Akamai API Security using SGC Central](sgcc-configure-akamai-integ.md).
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Akamai API Security integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Akamai API Security integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 
@@ -84,10 +84,10 @@ sn\_akamai\_api\_sec\_sga\_akamai\_api\_component
 
 </td><td>
 
-[API Component \[cmdb\_ci\_api\_component\]](../reference/cmdb-akamai-classes.md#section_vfb_r4n_ygc)[Key Value \[cmdb\_key\_value\]](../reference/cmdb-akamai-classes.md#section_uxt_r4n_ygc)
+[API Component \[cmdb\_ci\_api\_component\]](cmdb-akamai-classes.md#section_vfb_r4n_ygc)[Key Value \[cmdb\_key\_value\]](cmdb-akamai-classes.md#section_uxt_r4n_ygc)
 
 </td></tr></tbody>
-</table>You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](integrationhub-etl.md) for more information.
+</table>You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 
 ## Scheduled script for full data load
 
@@ -106,7 +106,7 @@ To run a full data load on a recurring basis, customize the execution schedule o
 
 [Service Graph Connectors](cmdb-sgc-available.md)
 
-[Configure Service Graph Connector for Akamai API Security using SGC Central](../../sgc-central/task/sgcc-configure-akamai-integ.md)
+[Configure Service Graph Connector for Akamai API Security using SGC Central](sgcc-configure-akamai-integ.md)
 
-[CMDB classes targeted in Service Graph Connector for Akamai API Security](../reference/cmdb-akamai-classes.md)
+[CMDB classes targeted in Service Graph Connector for Akamai API Security](cmdb-akamai-classes.md)
 

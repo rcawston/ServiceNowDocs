@@ -30,14 +30,14 @@ Role required: none
 4.  Select **Update**.
 
 
-**Parent Topic:**[Resource events](../concept/c_ResourceEvents.md)
+**Parent Topic:**[Resource events](c_ResourceEvents.md)
 
 **Related topics**  
 
 
-[Resource events and schedules](../reference/r_ResourceEventsAndSchedules.md)
+[Resource events and schedules](r_ResourceEventsAndSchedules.md)
 
-[Resource event modifications](../concept/c_ModifyAResourceEvent.md)
+[Resource event modifications](c_ModifyAResourceEvent.md)
 
 [Change the resource event color](t_ChangeTheResourceEventColor.md)
 

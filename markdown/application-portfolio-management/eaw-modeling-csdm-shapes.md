@@ -98,9 +98,9 @@ You can also adjust the size of shapes by selecting a shape and then drag any of
 **Related topics**  
 
 
-[CSDM shapes support in the Enterprise Modeling and Visualization](../../concept/eaw-concept/align-with-csdm5.md)
+[CSDM shapes support in the Enterprise Modeling and Visualization](align-with-csdm5.md)
 
-[Working with CSDM shapes](../../concept/eaw-concept/eaw-work-with-csdm-shapes.md)
+[Working with CSDM shapes](eaw-work-with-csdm-shapes.md)
 
-[Create a diagram using CSDM shapes](../../task/eaw-task/eaw-modeling-create-diagram-csdm.md)
+[Create a diagram using CSDM shapes](eaw-modeling-create-diagram-csdm.md)
 

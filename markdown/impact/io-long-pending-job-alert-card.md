@@ -77,5 +77,5 @@ Beyond pending jobs, this telemetry not only helps you to know how long a job ta
 
 You can also set alert card for pending jobs. For more information, see [Configure long pending jobs alert by job priority](io-long-pending-jobs.md).
 
-**Parent Topic:**[Performance](../concept/instance-observer-performance.md)
+**Parent Topic:**[Performance](instance-observer-performance.md)
 

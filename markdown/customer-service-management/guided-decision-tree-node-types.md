@@ -20,7 +20,7 @@ You can enable agents to modify their responses in previous nodes:
 -   Agents can go back to the previous node by selecting the **Back** button.
 -   Agents can jump to any previous node by selecting the Edit icon ![Edit icon](../image/icon-pencil-ac.png)\) in the View my responses tab.
 
-For more information, see [Create a decision tree in Core UI](../task/configure-decision-trees-gdb.md) and [Add questions or instructions to a decision tree](../task/configure-start-node-gdb.md).
+For more information, see [Create a decision tree in Core UI](configure-decision-trees-gdb.md) and [Add questions or instructions to a decision tree](configure-start-node-gdb.md).
 
 ## Start nodes
 
@@ -39,7 +39,7 @@ A question node presents the agent with a question or instructions to follow to 
 
 The answers to the questions are used to create path conditions.
 
-For more information about the available answer types, see [Answer types for questions](../reference/type-of-answer.md).
+For more information about the available answer types, see [Answer types for questions](type-of-answer.md).
 
 **Note:** Using unsupported input types can cause errors in the runtime experience.
 
@@ -56,9 +56,9 @@ A guidance can have outputs, which drive further decision making. With a guidanc
 -   Connect the guidance to the guidance node's next node.
 -   Map the outputs of the guidance to inputs for the guidance node's next node.
 
-For descriptions of the available guidances, see [Guidances included with Guided Decisions Experience application](../reference/components-installed-with-guided-decisions.md#section_mt1_njl_d5b).
+For descriptions of the available guidances, see [Guidances included with Guided Decisions Experience application](components-installed-with-guided-decisions.md#section_mt1_njl_d5b).
 
-Users with the Decision tree author role can also create guidances to reuse in decision trees or recommended actions. For more information, see [Create a guidance in the Core UI](../task/create-guidances.md).
+Users with the Decision tree author role can also create guidances to reuse in decision trees or recommended actions. For more information, see [Create a guidance in the Core UI](create-guidances.md).
 
 ## Linking nodes
 
@@ -74,6 +74,6 @@ A linking node includes the following elements:
 
 For more information, see the following topics:
 
--   For Decision Tree Builder: [Link an activated decision tree to this decision tree](../task/configure-linking-node-dtb.md).
--   For Core UI: [Link another decision tree to this decision tree](../task/configure-linking-node.md)
+-   For Decision Tree Builder: [Link an activated decision tree to this decision tree](configure-linking-node-dtb.md).
+-   For Core UI: [Link another decision tree to this decision tree](configure-linking-node.md)
 

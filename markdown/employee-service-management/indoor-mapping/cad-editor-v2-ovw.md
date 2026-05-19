@@ -23,16 +23,16 @@ If your CAD file has numerous layers, use **Filter layers** to search and sort t
 
 ![Autocad editor preview.](../images/wsd-autocad-editor-view.png)
 
--   **[Isolate a layer in the CAD editor](../task/isolate-layer.md)**  
+-   **[Isolate a layer in the CAD editor](isolate-layer.md)**  
 CAD editor provides the ability to isolate a layer from multiple layers while editing your CAD file.
--   **[Hide or show a layer in the CAD editor](../task/show-a-layer.md)**  
+-   **[Hide or show a layer in the CAD editor](show-a-layer.md)**  
 Hide or display a layer while you’re editing and updating layers in the CAD Editor.
 -   **[Drawing and editing tools in the CAD editor](editing-tools-cad-editor.md)**  
 The CAD Editor tab provides editing and drawing tools to configure, optimize, and edit your CAD files before importing it to the Map Studio.
 
 **Parent Topic:**[Autocad import tool](autocad-ovw-v2.md)
 
-**Previous topic:**[Configure places](../task/edit-places.md)
+**Previous topic:**[Configure places](edit-places.md)
 
-**Next topic:**[Isolate a layer in the CAD editor](../task/isolate-layer.md)
+**Next topic:**[Isolate a layer in the CAD editor](isolate-layer.md)
 

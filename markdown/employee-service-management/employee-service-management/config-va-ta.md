@@ -42,5 +42,5 @@ After you have set up the Glide Virtual Agent plugin \(com.glide.cs.chatbot\), i
     For more information on setting up the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) with Microsoft Teams, see [Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-conv-integration.md).
 
 
-**Parent Topic:**[Integrations for Hiring Experiences](../concept/integrate-with-talent-acquisition.md)
+**Parent Topic:**[Integrations for Hiring Experiences](integrate-with-talent-acquisition.md)
 

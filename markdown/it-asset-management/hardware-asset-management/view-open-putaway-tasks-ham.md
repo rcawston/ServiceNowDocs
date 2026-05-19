@@ -37,5 +37,5 @@ The list of open Asset put away tasks are displayed.
 
 Put away the asset in the desired drop-off location in the stock room. Close the Asset put away task after adding the **Drop off location** field value in the Asset put away task form. For more information about closing Asset put away task, see [Close an Asset put away task](close-put-away-task-ham.md).
 
-**Parent Topic:**[Manage asset put away using the Hardware Asset Workspace](../concept/manage-asset-putaway-stockroom-hardware-asset-workspace.md)
+**Parent Topic:**[Manage asset put away using the Hardware Asset Workspace](manage-asset-putaway-stockroom-hardware-asset-workspace.md)
 

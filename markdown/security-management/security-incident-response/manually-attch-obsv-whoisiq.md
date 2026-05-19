@@ -74,7 +74,7 @@ Role required: sn\_si.analyst
 
 If you have created and edited an observable for lookup, run the observable enrichment lookup from the Observable record with the WHOISIQ API.
 
-**Parent Topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Parent Topic:**[RISKIQ and WHOISIQ integration](riskiq-lookups.md)
 
 **Previous topic:**[Verify expected results for WHOISIQ URL lookups](verify-expctd-rslts-url-lookups-riskiq.md)
 

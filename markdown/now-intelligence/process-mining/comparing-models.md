@@ -26,7 +26,7 @@ Comparing projects lets you analyze two versions or scenarios from the same proj
 
 From the project comparison view, you can refine activities and connections for each map. You can also apply filters and routes, and compare statistics between them.
 
--   **[Start a comparison](../task/start-comparison.md)**  
+-   **[Start a comparison](start-comparison.md)**  
 Begin a side-by-side project comparison.
 -   **[Compare statistics and transitions between two projects](compare-statistics-two-models.md)**  
 Compare records, routes, average case duration, and transitions of two side-by-side projects.

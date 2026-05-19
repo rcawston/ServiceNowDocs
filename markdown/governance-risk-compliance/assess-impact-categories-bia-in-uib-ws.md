@@ -38,11 +38,11 @@ Beginning with the Xanadu release, these new columns are added to the BIA depend
 
 4.  Respond to the questions in the Recovery time objective assessment questionnaire and select **Next**.
 
-    For information on recovery time objective and calculation of recovery time objective, see [RTO, RPO, and recovery tiers](../concept/rto-rpo-recovery-tiers.md) and [Calculating RTO and RPO](../concept/rto-rpo-calculation.md).
+    For information on recovery time objective and calculation of recovery time objective, see [RTO, RPO, and recovery tiers](rto-rpo-recovery-tiers.md) and [Calculating RTO and RPO](rto-rpo-calculation.md).
 
 5.  To answer questions related to the data component of the asset, select the **Recovery point objective assessment** tab.
 
-    A sample assessment questionnaire for the Recovery point objective assessment \(RPO assessment\) is shown in the example. ![RPO assessment questionnaire.](../image/rpo-assessment.png)You must configure all impact categories in the Recovery point objective assessment. For more information, see [Assess RPO impact of technology assets on the business](RPO-asset-impact-assessment.md). For information on recovery point objective and calculation of recovery point objective, see [RTO, RPO, and recovery tiers](../concept/rto-rpo-recovery-tiers.md) and [Calculating RTO and RPO](../concept/rto-rpo-calculation.md).
+    A sample assessment questionnaire for the Recovery point objective assessment \(RPO assessment\) is shown in the example. ![RPO assessment questionnaire.](../image/rpo-assessment.png)You must configure all impact categories in the Recovery point objective assessment. For more information, see [Assess RPO impact of technology assets on the business](RPO-asset-impact-assessment.md). For information on recovery point objective and calculation of recovery point objective, see [RTO, RPO, and recovery tiers](rto-rpo-recovery-tiers.md) and [Calculating RTO and RPO](rto-rpo-calculation.md).
 
 6.  Respond to the questions in the Recovery point objective assessment and select **Next**.
 
@@ -203,5 +203,5 @@ This is the final step. You must complete all the pending assessments before sel
         **Note:** You can delete a BIA \(and its related tables\) that is in the **Draft** state. BCM planner and program manager can delete a BIA that is in the **In Review** and **Returned** states, whereas a BCM admin can delete a BIA irrespective of its state.
 
 
-**Parent Topic:**[Structured workflows for BIAs](../concept/bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
 

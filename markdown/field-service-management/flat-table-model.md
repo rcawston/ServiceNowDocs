@@ -23,5 +23,5 @@ Use the table below to reference the Field Service Management weekly resource sp
 |Spans|JSON|List of weekly schedule and event spans|
 |Domain|Domain id| |
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 

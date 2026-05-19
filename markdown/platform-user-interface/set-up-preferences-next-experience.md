@@ -39,7 +39,7 @@ Description
 
 </td><td>
 
-[Configure Next Experience display preferences](../task/next-display-preferences.md): Control how the Next Experience interface looks and behaves on screen, such as layout, visual density, and presentation options. These settings affect only the current user’s view.
+[Configure Next Experience display preferences](next-display-preferences.md): Control how the Next Experience interface looks and behaves on screen, such as layout, visual density, and presentation options. These settings affect only the current user’s view.
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ Description
 
 </td><td>
 
-[Configure Next Experience accessibility preferences](../task/next-experience-accessibility-preferences.md): Adjust the interface to support accessibility needs, such as keyboard navigation, contrast, or motion behavior, to make the UI easier to use for different abilities.
+[Configure Next Experience accessibility preferences](next-experience-accessibility-preferences.md): Adjust the interface to support accessibility needs, such as keyboard navigation, contrast, or motion behavior, to make the UI easier to use for different abilities.
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Description
 
 </td><td>
 
-[Configure Next Experience debugging preferences](../task/next-experience-debugging-preferences.md): Debug your Next Experience instance to detect and remove the existing and potential errors in your Next Experience components and scripts.**Note:** The debugging preferences only appear for users with the admin role.
+[Configure Next Experience debugging preferences](next-experience-debugging-preferences.md): Debug your Next Experience instance to detect and remove the existing and potential errors in your Next Experience components and scripts.**Note:** The debugging preferences only appear for users with the admin role.
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Description
 
 </td><td>
 
-[Select a theme in Next Experience](../../../administer/navigation-and-ui/task/select-a-theme-in-next-experience.md): Personalize your Next Experience instance by choosing from the multiple themes that are available to you.**Note:** The themes that appear in the Theme user preference are determined by the user access and admin customizations.
+[Select a theme in Next Experience](select-a-theme-in-next-experience.md): Personalize your Next Experience instance by choosing from the multiple themes that are available to you.**Note:** The themes that appear in the Theme user preference are determined by the user access and admin customizations.
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Description
 
 </td><td>
 
-[Configure Next Experience notification preferences](../task/next-experience-notifications-preferences.md): Control how and where you receive system and in‑product notifications, including banners, badges, and delivery channels such as email.
+[Configure Next Experience notification preferences](next-experience-notifications-preferences.md): Control how and where you receive system and in‑product notifications, including banners, badges, and delivery channels such as email.
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Description
 
 </td><td>
 
-[Configure Next Experience language and region preferences](../task/next-experience-language-preferences.md): Define your language, time zone, and date and time formats.
+[Configure Next Experience language and region preferences](next-experience-language-preferences.md): Define your language, time zone, and date and time formats.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Description
 
 </td><td>
 
-[Configure Next Experience Workspace preferences](../task/next-experience-workspace-preferences.md): Customize behavior within a specific workspace, such as layout or interaction settings**Note:** The workspace preferences appear only if you have access to Workspace and the workspace is in focus.
+[Configure Next Experience Workspace preferences](next-experience-workspace-preferences.md): Customize behavior within a specific workspace, such as layout or interaction settings**Note:** The workspace preferences appear only if you have access to Workspace and the workspace is in focus.
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Description
 
 </td><td>
 
-[Configure Next Experience user experience preferences](../../../administer/navigation-and-ui/task/configure-next-experience-user-experience.md): Manage high‑level Next Experience behaviors, such as enabling or disabling the experience, analytics collection, or selecting a start page, depending on your access.
+[Configure Next Experience user experience preferences](configure-next-experience-user-experience.md): Manage high‑level Next Experience behaviors, such as enabling or disabling the experience, analytics collection, or selecting a start page, depending on your access.
 
 </td></tr></tbody>
 </table>

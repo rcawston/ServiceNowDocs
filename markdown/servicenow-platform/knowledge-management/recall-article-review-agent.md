@@ -19,7 +19,7 @@ Recall an article that is being reviewed to stop the approval process.
 
 You must have contribute access to the knowledge base that stores the knowledge article you want to recall.
 
-Ensure that the article versioning feature is enabled. For more information, see [Article versioning](../concept/article-versioning.md).
+Ensure that the article versioning feature is enabled. For more information, see [Article versioning](article-versioning.md).
 
 Role required: agent\_workspace\_user
 
@@ -49,5 +49,5 @@ The article opens in edit mode and the workflow state of the article is changed 
 
 [Edit a knowledge article in Agent Workspace](edit-article-workspace.md)
 
-[Knowledge workflows](../reference/r_KnowledgeWorkflows.md#)
+[Knowledge workflows](r_KnowledgeWorkflows.md#)
 

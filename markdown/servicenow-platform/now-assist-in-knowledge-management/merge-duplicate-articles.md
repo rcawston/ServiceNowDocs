@@ -55,5 +55,5 @@ Ensure to configure and activate Identify duplicate articles and Merge duplicate
 
 A new article is created from the merged set of articles.
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](using-now-assist-in-km.md)
 

@@ -25,7 +25,7 @@ The change request execution process includes the task stages that you need to c
 
 -   **Create the change request**
 
-    Create the change request by using the GPON Broadband Service change model. To learn more, see [Create and execute a change task in Telecommunications Network Inventory](../task/create-change-task-in-tni.md). .
+    Create the change request by using the GPON Broadband Service change model. To learn more, see [Create and execute a change task in Telecommunications Network Inventory](create-change-task-in-tni.md). .
 
 -   **Path compute and create logical connection**
 
@@ -56,7 +56,7 @@ To execute this process successfully, you need to consider a set of conditions a
 
 An internal path computation function is part of the GPON Broadband Service change model. Its purpose is to identify the possible paths between your network sites. This computation is based on the parameters that you enter when you complete each change task that is associated with the GPON Broadband Service change model.
 
-When you create the change request with the GPON Broadband Service change model and save the request, five default change tasks are created. To learn more, see [Design your GPON Broadband Service](../task/gpon-broadband-change-model.md).
+When you create the change request with the GPON Broadband Service change model and save the request, five default change tasks are created. To learn more, see [Design your GPON Broadband Service](gpon-broadband-change-model.md).
 
 The following scenarios are handled in the path computation when you execute the process to complete the GPON broadband service request:
 
@@ -87,12 +87,12 @@ The path computation works on the following conditions:
 8.  Port A and Port Z must be populated for the physical and logical connections.
 9.  The **Availability** field for the physical and logical connections must be available to qualify those connections as possible underlying paths for routing. This validation ensures that a resource is not used multiple times.
 
-To learn more about errors occur in the path computation, see [Path computation error messages](../reference/path-computation-error.md).
+To learn more about errors occur in the path computation, see [Path computation error messages](path-computation-error.md).
 
 **Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Design your GPON Broadband Service](../task/gpon-broadband-change-model.md)
+[Design your GPON Broadband Service](gpon-broadband-change-model.md)
 

@@ -38,7 +38,7 @@ When an agent disputes a transaction on behalf of a customer, a dispute service 
     ![State of transactions panel that displays the disputed and resolved transactions for a card dispute.](../image/state-of-transactions-panel.png "State of transactions panel")
 
 
-For more information, see [Initiate a dispute](../../fso-card-operations/task/create-case-with-intake-workspace.md#).
+For more information, see [Initiate a dispute](create-case-with-intake-workspace.md#).
 
 **Parent Topic:**[Dispute Rules Content Pack for Mastercard](dispute-rules-content-pack-for-mastercard-landing-page.md)
 

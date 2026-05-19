@@ -36,7 +36,7 @@ Role required: admin
 6.  Click **Update**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Configure the extension points for Universal Task](configure-extnsn-points.md)
 

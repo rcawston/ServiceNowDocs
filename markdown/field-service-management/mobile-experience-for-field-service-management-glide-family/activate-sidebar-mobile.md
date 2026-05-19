@@ -45,7 +45,7 @@ Activating this plugin enables the Sidebar feature on the Mobile Agent applicati
 **Related topics**  
 
 
-[Start a Sidebar discussion on the Mobile Agent application](start-sidebar-mobile.md)
+[Start a Sidebar discussion on the Mobile Agent application](../work-order-management/start-sidebar-mobile.md)
 
-[Summarize a Sidebar discussion on the ServiceNow Agent application](na-fsm-summarize-sidebar-platform.md#)
+[Summarize a Sidebar discussion on the ServiceNow Agent application](../now-assist-for-field-service-management-fsm/na-fsm-summarize-sidebar-platform.md#)
 

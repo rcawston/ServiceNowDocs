@@ -33,7 +33,7 @@ After a case is reported to the privacy teams, a privacy case analyst can create
 
 4.  On the form, fill in the fields.
 
-    See the [privacy new case task form](../reference/prm-case-task-form.md) for an explanation of each field.
+    See the [privacy new case task form](prm-case-task-form.md) for an explanation of each field.
 
 5.  Select **Save**.
 
@@ -56,8 +56,8 @@ After a case is reported to the privacy teams, a privacy case analyst can create
     3.  Select **Reassign**.
 
 
--   **[Case task form](../reference/prm-case-task-form.md)**  
+-   **[Case task form](prm-case-task-form.md)**  
 On the new case task form, fill in the fields.
 
-**Parent Topic:**[Case task workflow](../concept/case-task-workflow.md)
+**Parent Topic:**[Case task workflow](case-task-workflow.md)
 

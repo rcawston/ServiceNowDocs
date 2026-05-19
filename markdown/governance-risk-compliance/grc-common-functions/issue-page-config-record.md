@@ -37,12 +37,12 @@ The homepage in each workspace displays the issues section that provides the fol
 -   The My group's issues section displays the Issues and Triage issues sections in a number format. Issues subsection displays the details such as Assigned to, Managing, Unassigned manager, To review, Overdue. Triage issues subsection displays the details such as Assigned to, Unassigned owner, To review, and Unassigned reviewer.
 -   The Watching section displays the details such as Triage issues and Remediation tasks in a number format.
 
--   **[Create a new Issue Page Configuration record](../../grc-common/task/create-new-issue-page-configuration.md)**  
+-   **[Create a new Issue Page Configuration record](create-new-issue-page-configuration.md)**  
 Create a new issue page configuration record in the Issue Page Configuration module in the classic user interface. The Issue Page Configuration module displays the configurations related to the Issues section in the landing pages of the workspaces. The newly created issue is displayed in the Issue overview landing page in the selected workspace.
--   **[Link a new Issue Page Configuration record to a workspace](../task/link-new-issue-config-record-to-the-ws.md)**  
+-   **[Link a new Issue Page Configuration record to a workspace](link-new-issue-config-record-to-the-ws.md)**  
 Create a new Issue Page Configuration record and link it from the classic user interface to the desired workspace. After linking the Issue Page Configuration record, the workspace view displays the new settings in the Issues overview landing page.
--   **[Update an Issue Page Configurations record](../../grc-common/task/update-issue-page-configuration.md)**  
+-   **[Update an Issue Page Configurations record](update-issue-page-configuration.md)**  
 Update an existing Issue Page Configurations record in the classic user interface to update the issue page configurations that are displayed in the Issues overview landing page in the workspace. After modifying the configurations in the Issue Page Configuration record, the issues, issue triages, and tracking status of the issues are displayed for the users in the desired workspace.
 
-**Parent Topic:**[Landing Page Configurations module](../../grc-common/reference/admin-config-using-grc-common.md)
+**Parent Topic:**[Landing Page Configurations module](admin-config-using-grc-common.md)
 

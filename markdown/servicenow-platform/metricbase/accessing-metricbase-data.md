@@ -23,7 +23,7 @@ You can access and visualize time-series data in the MetricBase database by usin
 
 -   Table lists using the `.list` command
 
-    For more information, see [View MetricBase data using the list command](../task/view-time-series-data.md).
+    For more information, see [View MetricBase data using the list command](view-time-series-data.md).
 
 -   REST or JavaScript APIs
 

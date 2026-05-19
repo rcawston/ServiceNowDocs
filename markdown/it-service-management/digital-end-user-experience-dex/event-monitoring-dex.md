@@ -27,5 +27,5 @@ You can configure up to 25 events for each OS type.
 
 DEX supports event monitoring on both Windows and macOS. On Windows, events are identified by a numeric Event ID from the Windows Event Log. On macOS, you define events using a regular expression that matches the system log entry of interest. For each platform, you specify the event name, Event ID or regular expression, a description, and the target operating system.
 
-You can configure up to 25 events for each operating system type. See [Add an event to monitor](../task/add-event-to-monitor.md) to create a custom event rule.
+You can configure up to 25 events for each operating system type. See [Add an event to monitor](add-event-to-monitor.md) to create a custom event rule.
 

@@ -61,9 +61,9 @@ Now Assist Skill Kit enables you to design your own custom generative AI functio
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Create custom solutions by building a custom skill or workflow.|[Create a skill](../task/create-new-skill.md)|AI developer|
-|Create and edit prompts for skills and configure where you want to bring in data from to augment your prompt.|[Create a prompt](../task/create-prompt-template.md)|AI developer|
-|Test and iterate on your skill before activating it.|[Test a prompt](../task/test-prompt-template.md)|AI developer|
+|Create custom solutions by building a custom skill or workflow.|[Create a skill](create-new-skill.md)|AI developer|
+|Create and edit prompts for skills and configure where you want to bring in data from to augment your prompt.|[Create a prompt](create-prompt-template.md)|AI developer|
+|Test and iterate on your skill before activating it.|[Test a prompt](test-prompt-template.md)|AI developer|
 
 ## What to explore next
 

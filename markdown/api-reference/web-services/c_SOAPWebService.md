@@ -154,7 +154,7 @@ A WS-security profile determines how a web services message is authenticated whe
 |Certificate verification|Verifies the certificate associated with the request. Verifying the request's certificate requires uploading the requester's certificate and certificate authority.|
 |User credentials|Authenticates the web services request by verifying the user credentials associated with the request. This type of authentication can either verify that the request's credentials match an existing user's credentials or that the request's credentials match a user name and password provided in the profile record.|
 
-Specify the authentication mechanism you want to use when you [create a new WS-security profile](../task/t_CreateANewWS-SecurityProfile.md).
+Specify the authentication mechanism you want to use when you [create a new WS-security profile](t_CreateANewWS-SecurityProfile.md).
 
 The WS-Security Profiles module lists the WS-Security profiles that are currently in effect.
 
@@ -262,7 +262,7 @@ Scripted SOAP web services allow a ServiceNow administrator to create custom SOA
 A direct web service is available for any table in the system if the correct access control list is configured.
 -   **[SOAP web service import sets](soap-web-service-import-sets.md)**  
 Web service import sets complement direct web services and scripted SOAP web services by providing a web service interface to import sets tables.
--   **[AttachmentCreator SOAP web service](../reference/r_AttachmentCreatorSOAPWebService.md)**  
+-   **[AttachmentCreator SOAP web service](r_AttachmentCreatorSOAPWebService.md)**  
 Attach documents to records in ServiceNow by sending a SOAP message targeting the ecc\_queue table.
 -   **[Override a SOAP endpoint](c_OverridingTheSOAPEndpoint.md)**  
 The SOAP endpoint address where the SOAP message is posted is consistent with the endpoint of the WSDL.
@@ -270,42 +270,42 @@ The SOAP endpoint address where the SOAP message is posted is consistent with th
 By default, the SOAP request is accepted un-compressed and the result of the request is returned un-compressed.
 -   **[Prevent empty elements in SOAP messages](c_PreventEmptyElementSOAPMsgs.md)**  
 By default, an instance does not omit empty elements, elements with NULL or NIL values, from SOAP messages.
--   **[Insert related records using SOAP](../task/t_InsertRelatedRecordsUsingSOAP.md)**  
+-   **[Insert related records using SOAP](t_InsertRelatedRecordsUsingSOAP.md)**  
 Support is available for inserting hierarchical data into tables or web service import set tables. The hierarchical data in the Insert API is automatically mapped to related records of the targeted table.
--   **[Specify requirement for signed SOAP requests](../task/t_SpecifyReqForSignedSOAPRequests.md)**  
+-   **[Specify requirement for signed SOAP requests](t_SpecifyReqForSignedSOAPRequests.md)**  
 Use a SOAP security policy to specify whether the instance requires signed SOAP requests for all inbound SOAP traffic.
--   **[Activate the Enhanced Web Service Provider - Common plugin](../task/t_ActivateEnhancedWSPPlugin.md)**  
+-   **[Activate the Enhanced Web Service Provider - Common plugin](t_ActivateEnhancedWSPPlugin.md)**  
 Administrators can activate the Enhanced Web Service Provider - Common plugin to enable unsigned WS-Security requests and specify what authentication requirements SOAP requests have.
--   **[Configure SOAP security](../task/t_ConfigureSOAPSecurity.md)**  
+-   **[Configure SOAP security](t_ConfigureSOAPSecurity.md)**  
 Administrators can configure web service security for inbound SOAP requests made to the ServiceNow instance.
--   **[Set the SOAP default security policy](../task/t_SetTheSOAPDefaultSecurityPolicy.md)**  
+-   **[Set the SOAP default security policy](t_SetTheSOAPDefaultSecurityPolicy.md)**  
 Set the SOAP default security policy.
--   **[Create a new security policy](../task/t_CreateANewSecurityPolicy.md)**  
+-   **[Create a new security policy](t_CreateANewSecurityPolicy.md)**  
 Administrators can specify which security profiles WS-Security communications must meet by creating a new security policy.
--   **[Create a new WS-Security profile](../task/t_CreateANewWS-SecurityProfile.md)**  
+-   **[Create a new WS-Security profile](t_CreateANewWS-SecurityProfile.md)**  
 Create a new WS Security profile to define how to authenticate a web services message when WS-Security is enabled.
--   **[Enforce strict security for inbound SOAP](../task/t_EnforceStrictSecurityWebSvcConns.md)**  
+-   **[Enforce strict security for inbound SOAP](t_EnforceStrictSecurityWebSvcConns.md)**  
 Strict security for web services requires that users meet Contextual Security requirements to access instance resources.
--   **[Enable WS-Security verification](../task/t_EnableWS-SecurityVerification.md)**  
+-   **[Enable WS-Security verification](t_EnableWS-SecurityVerification.md)**  
 Administrators can enable Web Services Security \(WSS\) verification from the Web Services system properties.
 -   **[Debug incoming SOAP envelope](c_DebuggingIncomingSOAPEnvelope.md)**  
 To capture incoming SOAP envelope XML in the system log, add the property **glide.processor.debug.SOAPProcessor** with a value of **true**.
--   **[View a SOAP session log](../task/t_ViewingASOAPSessionReport.md)**  
+-   **[View a SOAP session log](t_ViewingASOAPSessionReport.md)**  
 You can view a user's log from a SOAP session.
--   **[Basic authentication code samples](../reference/r_BasicAuthenticationExamples.md)**  
+-   **[Basic authentication code samples](r_BasicAuthenticationExamples.md)**  
 Samples of basic authentication code for several programming languages and versions.
--   **[Example: WS-Security SOAP envelope header](../reference/r_SmplWSSecSOAPEnvHeader.md)**  
+-   **[Example: WS-Security SOAP envelope header](r_SmplWSSecSOAPEnvHeader.md)**  
 An example of a valid WS-Security SOAP envelope header.
--   **[WS-Security properties](../reference/ws-security-properties.md)**  
+-   **[WS-Security properties](ws-security-properties.md)**  
 These properties control the behavior of WS-Security X.509 tokens.
--   **[WS-Security error messages](../reference/r_WS-SecurityErrorMessages.md)**  
+-   **[WS-Security error messages](r_WS-SecurityErrorMessages.md)**  
 An instances produces one of the following error messages when it encounters an issue with a WS-security SOAP message.
--   **[WS-Security reference](../reference/ws-security-reference.md)**  
+-   **[WS-Security reference](ws-security-reference.md)**  
 Support for WS-Security 1.1 in the form of WSS X.509 Token Profile and WSS Username Token Profile is available for incoming SOAP requests.
--   **[Long-running SOAP request properties](../reference/LongRunningSOAPRequestProps.md)**  
+-   **[Long-running SOAP request properties](LongRunningSOAPRequestProps.md)**  
 The following properties are available for long-running SOAP requests.
--   **[Retrieve a large number of records using SOAP](../../examples/concept/c_RtvLrgNmbrRcrdSOAP.md)**  
+-   **[Retrieve a large number of records using SOAP](c_RtvLrgNmbrRcrdSOAP.md)**  
 By default, a single SOAP request can retrieve a maximum of 250 records.
 
-**Parent Topic:**[Inbound web services](../../web-services/concept/inbound-web-services.md)
+**Parent Topic:**[Inbound web services](inbound-web-services.md)
 

@@ -91,7 +91,7 @@ Add strict mode permissions to synchronize Workplace Calendar Synchronization wi
 
 [Create a strict mode configuration in Microsoft Exchange Online](strict-mode-configuration-in-msex.md).
 
-**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](../concept/strict-mode-configurations-for-connection-with-msex.md)
+**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](strict-mode-configurations-for-connection-with-msex.md)
 
 **Related topics**  
 

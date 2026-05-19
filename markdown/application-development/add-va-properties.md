@@ -82,10 +82,10 @@ Response data from the client to send to the server. Only use in components that
 
 [Test a component for Virtual Agent](test-va-component.md).
 
-**Parent Topic:**[Develop a component for Virtual Agent](../concept/va-components.md)
+**Parent Topic:**[Develop a component for Virtual Agent](va-components.md)
 
 **Related topics**  
 
 
-[Create custom components using ServiceNow CLI](../concept/custom-components.md)
+[Create custom components using ServiceNow CLI](custom-components.md)
 

@@ -46,15 +46,15 @@ Financial due diligence evaluates a third party or engagement's financial health
 
 -   Questionnaire templates with financial questions and document requests that you can send to the third party or engagement using an assessment through the third‑party portal.
 
-    For more information see, [Sample questionnaires](../../grc-workspace-vrm/reference/tprm-questionnaire-types.md) and [Create an external assessment](../task/tprm-create-assessment.md).
+    For more information see, [Sample questionnaires](tprm-questionnaire-types.md) and [Create an external assessment](tprm-create-assessment.md).
 
 -   Due Diligence Request \(DDR\) workflows that orchestrate internal review, external assessment, approvals, and contract risk checks.
 
-    For more information see, [Due diligence workflow](../../grc-workspace-vrm/concept/tprm-workflow-in-workspace.md).
+    For more information see, [Due diligence workflow](tprm-workflow-in-workspace.md).
 
 -   Reports and dashboards to track active requests, aging items, and completion timelines.
 
-    For more information see, [Monitoring the due diligence request process](../../grc-workspace-vrm/concept/tprm-ws-dd-mgt-pg-overview.md).
+    For more information see, [Monitoring the due diligence request process](tprm-ws-dd-mgt-pg-overview.md).
 
 
 Access these features by navigating to the **Vendor Management Workspace**:
@@ -65,7 +65,7 @@ Access these features by navigating to the **Vendor Management Workspace**:
 4.  To send financial questionnaires or document requests from a DDR or an Assessment record, create an assessment.
 5.  Use the Due Diligence Management page to monitor status and aging.
 
-For more information see, [Monitoring the due diligence request process](../../grc-workspace-vrm/concept/tprm-ws-dd-mgt-pg-overview.md) and [Create an external assessment](../task/tprm-create-assessment.md).
+For more information see, [Monitoring the due diligence request process](tprm-ws-dd-mgt-pg-overview.md) and [Create an external assessment](tprm-create-assessment.md).
 
-**Note:** Activate the Third‑party Risk Due Diligence plugin \(com.sn\_tprm\_dd\) to enable preconfigured workflows and the Risk Concentration Map. For more information, see [Configuring Third-party Risk Management](tprm-configuring.md) and [Enable the TPRM Risk concentration map](../../grc-vendor-risk-implementation/task/tprm-risk-map-configure.md).
+**Note:** Activate the Third‑party Risk Due Diligence plugin \(com.sn\_tprm\_dd\) to enable preconfigured workflows and the Risk Concentration Map. For more information, see [Configuring Third-party Risk Management](tprm-configuring.md) and [Enable the TPRM Risk concentration map](tprm-risk-map-configure.md).
 

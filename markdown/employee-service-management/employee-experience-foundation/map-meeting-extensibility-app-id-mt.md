@@ -54,7 +54,7 @@ Role required: sn\_notify\_msteams.admin and Microsoft Teams admin
 
 ## What to do next
 
-After completing Meeting Extensions integration with Microsoft Teams, see the section [Meeting Extensions for Microsoft Teams](../concept/meeting-extensibility-ms-teams.md).
+After completing Meeting Extensions integration with Microsoft Teams, see the section [Meeting Extensions for Microsoft Teams](meeting-extensibility-ms-teams.md).
 
-**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](../concept/setup-meeting-extensibility-multi-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](setup-meeting-extensibility-multi-tenant.md)
 

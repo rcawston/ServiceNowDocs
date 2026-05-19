@@ -44,5 +44,5 @@ Role required: admin
     -   You can repeat the process to configure the remaining shortcuts, or change the phrase used to activate previously configured shortcuts.
     -   You can also set up the Siri shortcuts in the Apple **Shortcuts** application.
 
-**Parent Topic:**[Configuring Now Mobile](../../mobile-employee/concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](setup-mobile-employee.md)
 

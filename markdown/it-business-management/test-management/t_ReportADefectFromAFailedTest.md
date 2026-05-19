@@ -18,7 +18,7 @@ Report a defect from an individual test that has failed so that you can further 
 ## Before you begin
 
 -   The ability to report a defect is available only if the Agile Development 2.0 plugin is activated.
--   Perform tests and update the test status. For more information, see [Performing tests and updating the test status](../concept/c_Tester.md).
+-   Perform tests and update the test status. For more information, see [Performing tests and updating the test status](c_Tester.md).
 -   Role required: tm\_tester
 
     **Important:**

@@ -86,5 +86,5 @@ If you want to check details about the summary, select the more info icon ![](..
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Configure, Price, Quote \(CPQ\)](../concept/using-now-assist-cpq.md)
+**Parent Topic:**[Using Now Assist for Configure, Price, Quote \(CPQ\)](using-now-assist-cpq.md)
 

@@ -29,7 +29,7 @@ The following terms are used throughout the installation and configuration docum
 
 -   **Plugin**
 
-    Plugins are software components that provide specific features and functionalities within your ServiceNow AI Platform instance. For more information on the installation and configuration of the integration plugins, see [Install the application and configure a server for the McAfee ePO integration](../task/mcaffe-epo-install.md).
+    Plugins are software components that provide specific features and functionalities within your ServiceNow AI Platform instance. For more information on the installation and configuration of the integration plugins, see [Install the application and configure a server for the McAfee ePO integration](mcaffe-epo-install.md).
 
 -   **ePolicy Orchestrator \(McAfee ePO\)**
 
@@ -92,5 +92,5 @@ The integration requires that the MID server communicates via HTTPS protocol con
 
 **Previous topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
-**Next topic:**[Checklist for the McAfee ePO integration](../task/mcafee-epo_checklist.md)
+**Next topic:**[Checklist for the McAfee ePO integration](mcafee-epo_checklist.md)
 

@@ -18,11 +18,11 @@ Build custom ServiceNow applications by describing your requirements in plain la
 
 Install and enable Build Agent. For more information, see [Install Build Agent](install-build-agent.md).
 
-If you prefer to access in the ServiceNow IDE instead of ServiceNow Studio, you must first create a workspace. For more information, see [Create a workspace in the ServiceNow IDE](../../servicenow-ide/task/create-workspace-servicenow-ide.md).
+If you prefer to access in the ServiceNow IDE instead of ServiceNow Studio, you must first create a workspace. For more information, see [Create a workspace in the ServiceNow IDE](servicenow-ide-family-release/create-workspace-servicenow-ide.md).
 
 **Note:** Build Agent requires ServiceNow SDK version 4.0 at a minimum. If you’re using an older version, Build Agent prompts you to upgrade to ServiceNow SDK 4.0.
 
-For some prompting guidelines and ideas, see [Example prompts](../reference/build-agent-example-prompts.md).
+For some prompting guidelines and ideas, see [Example prompts](build-agent-example-prompts.md).
 
 Role required: admin
 
@@ -90,11 +90,11 @@ You can also attach images, such as architectural diagrams or UI wireframes, to 
 
 ## Result
 
-Review the application and its metadata in ServiceNow Studio using the change log. For more information, see [Build Agent conversation change log](../concept/ba-conversational-change-log.md). You can also review the application using the File Navigator in ServiceNow Studio. For more information, see [Find an app or app file using the Navigator panel](../../servicenow-studio/task/qs-find-app-app-file-using-navigator-panel.md).
+Review the application and its metadata in ServiceNow Studio using the change log. For more information, see [Build Agent conversation change log](ba-conversational-change-log.md). You can also review the application using the File Navigator in ServiceNow Studio. For more information, see [Find an app or app file using the Navigator panel](servicenow-studio-classic/qs-find-app-app-file-using-navigator-panel.md).
 
-For information on deploying your application, see [Vibe coding, AI-assisted development, and deployment](../../vibe-coding/concept/vc-and-deployment.md).
+For information on deploying your application, see [Vibe coding, AI-assisted development, and deployment](vc-and-deployment.md).
 
-For information on troubleshooting issues, see [Troubleshooting in Build Agent](../reference/build-agent-troubleshooting.md).
+For information on troubleshooting issues, see [Troubleshooting in Build Agent](build-agent-troubleshooting.md).
 
 After the application is built, Build Agent displays a success message. For example:
 

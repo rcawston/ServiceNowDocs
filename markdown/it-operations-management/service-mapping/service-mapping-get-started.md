@@ -53,7 +53,7 @@ Data collected and organized by Service Mapping is visible in Event Management, 
 
 Service Mapping supports domain separation. If your ServiceNow AI Platform uses domain separation, administrators and users can only see and manage application services belonging to their own domain.
 
-To view a list of Service Mapping plugin dependencies, see [Plugins or applications installed with ITOM Visibility](../../it-operations-management/reference/plugin-app-itom-visibility.md).
+To view a list of Service Mapping plugin dependencies, see [Plugins or applications installed with ITOM Visibility](../itom-visibility/plugin-app-itom-visibility.md).
 
 -   **[Choose the right method for discovery and mapping application services](choose-mapping-method.md)**  
 Service Mapping deploys different methods for collecting information about configuration items \(CIs\) and organizing them into application services. The available mapping methods are: pattern-based, tag-based, traffic-based, and discovery based on Predictive Intelligence. Learn about the mapping methods to use the ones that best suit the needs of your organization.
@@ -64,7 +64,7 @@ Learn about high-level tasks users having different roles perform in Service Map
 -   **[Traversal rules in Service Mapping](traversal-rules-service-mapping.md)**  
 Traversal rules identify and map relationships between configuration items to create comprehensive application service maps. They connect relevant configuration items based on predefined relationships, promoting accurate service mapping and visualization.
 
-**Parent Topic:**[Service Mapping](../reference/c_ServiceMappingOverview.md)
+**Parent Topic:**[Service Mapping](c_ServiceMappingOverview.md)
 
 **Related topics**  
 
@@ -73,7 +73,7 @@ Traversal rules identify and map relationships between configuration items to cr
 
 [Application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md)
 
-[Event Management](../../event-management/concept/c_EM.md)
+[Event Management](../event-management/c_EM.md)
 
 [Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/c_BusinesssServiceManagementMaps.md)
 

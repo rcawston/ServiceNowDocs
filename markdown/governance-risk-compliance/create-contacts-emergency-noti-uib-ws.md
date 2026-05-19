@@ -37,7 +37,7 @@ Delivery channels are imported from the Everbridge instance to the delivery chan
 
     You can delete a contact that you created manually from the User table. However, the contact must be in **New** state. If the referenced user record is deleted, then a scheduled job that runs weekly deletes the contact from the Contacts table.
 
-    For more information on the fields, see [Contact form](../reference/contact-form.md).
+    For more information on the fields, see [Contact form](contact-form.md).
 
 4.  Select **Submit**.
 
@@ -52,10 +52,10 @@ Delivery channels are imported from the Everbridge instance to the delivery chan
     After the contacts are synchronized with Everbridge, the status of the sync action is recorded in the **Sync status** field. The unique ID of the contacts that are synced successfully in Everbridge are recorded as the **External contact ID** of the Contacts table.
 
 
--   **[Contact form](../reference/contact-form.md)**  
+-   **[Contact form](contact-form.md)**  
 Use the Contact form to create the contacts manually and then synchronize the contacts with Everbridge.
 -   **[Create the contact import rules](create-contact-import-rules.md)**  
 Create a contact import rule to apply on the User table. You can then filter out the users as the contacts for emergency notifications.
 
-**Parent Topic:**[Setup for Everbridge notifications](../concept/setup-steps-for-emergency-notification-uib-ws.md)
+**Parent Topic:**[Setup for Everbridge notifications](setup-steps-for-emergency-notification-uib-ws.md)
 

@@ -24,7 +24,7 @@ Role required: sn\_align\_core.apw\_user
 
 From the portfolio roadmap or the free-form roadmap, use the item details side panel to create dependencies between two planning items. Dependencies are supported for projects, epics, demands, initiatives, programs, or any custom planning item types that you may have created.
 
-The dependency for a planning item on your roadmap can be on an item from the same roadmap, a different roadmap, or the item might not be planned yet. [Learn more about dependencies in the roadmap](../../spw-roadmap/concept/roadmap-planning-overview.md#section_spl_34r_1tb).
+The dependency for a planning item on your roadmap can be on an item from the same roadmap, a different roadmap, or the item might not be planned yet. [Learn more about dependencies in the roadmap](../scenario-planning-in-spw/roadmap-planning-overview.md#section_spl_34r_1tb).
 
 **Note:** Dependencies for free-form roadmaps are available only if the roadmap's source table is Planning Item \[sn\_align\_core\_planning\_item\] or one of its extensions.
 
@@ -69,7 +69,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 5.  On the form, fill in the fields.
 
-    For form field information, see [Dependency form](../reference/dependency-form-portfolio-planning.md).
+    For form field information, see [Dependency form](dependency-form-portfolio-planning.md).
 
 6.  Select **Save**.
 
@@ -78,7 +78,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 The dependency is created between the selected planning items and is listed in the Dependencies tab of the Item details side panel.![Dependency details in side panel.](../../spw-roadmap/images/dependencies-item-details-panel.png)
 
-On the roadmap, you can see the dependency details from the roadmap item card or the dependency lines. [Learn about display settings available for dependencies on the roadmap.](../../alignment-planner-workspace/concept/customizing-dependencies-display-on-roadmap.md)
+On the roadmap, you can see the dependency details from the roadmap item card or the dependency lines. [Learn about display settings available for dependencies on the roadmap.](../scenario-planning-in-spw/customizing-dependencies-display-on-roadmap.md)
 
 If one of the dependency items is not on the roadmap, then the dependency details are shown on the roadmap item card, with a redirect link to the external planning item. In this case, the items could belong to the same roadmap or not.
 
@@ -86,11 +86,11 @@ If one of the dependency items is not on the roadmap, then the dependency detail
 
 ## What to do next
 
--   [Learn how to resolve a roadmap item dependency error.](../../alignment-planner-workspace/reference/error-state-for-planning-item-dependencies.md)
+-   [Learn how to resolve a roadmap item dependency error.](../scenario-planning-in-spw/error-state-for-planning-item-dependencies.md)
 -   Update the dependency details or delete it. See [Update roadmap item dependencies](update-roadmap-item-dependencies-portfolio-planning.md).
 
 -   **[Update roadmap item dependencies](update-roadmap-item-dependencies-portfolio-planning.md)**  
 Update or delete the dependencies for the planning items on your roadmap so that they reflect any change of plans.
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](planning-roadmaps-in-portfolio-planning.md)
 

@@ -21,21 +21,21 @@ Zero Trust Access \(ZTA\) is a security model that assumes no user or device is 
 
 </td><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/activate-session-access.md)
+[Activate![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](activate-session-access.md)
 
- [Understand how to Activate Zero Trust Access.](../task/activate-session-access.md)
+ [Understand how to Activate Zero Trust Access.](activate-session-access.md)
 
 </td></tr><tr><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/configure-session-access-role.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](configure-session-access-role.md)
 
- [Configure Zero Trust Access.](../task/configure-session-access-role.md)
+ [Configure Zero Trust Access.](configure-session-access-role.md)
 
 </td><td>
 
-[Reference - Properties![](../../../reuse/icons/brand-icons/bus-learn.svg)](../reference/session-access-system-properties.md)
+[Reference - Properties![](../../../reuse/icons/brand-icons/bus-learn.svg)](session-access-system-properties.md)
 
- [Know about the properties in Zero Trust Access.](../reference/session-access-system-properties.md)
+ [Know about the properties in Zero Trust Access.](session-access-system-properties.md)
 
 </td></tr></tbody>
 </table>

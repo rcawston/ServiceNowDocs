@@ -17,7 +17,7 @@ Apply an IP access control to outbound traffic, inbound traffic, or bidirectiona
 
 ## Before you begin
 
-**Note:** Use the Adaptive Authentication \(AA\) pre-authentication context policy to enforce IP based authentications and restrictions for additional capabilities. For more information, see [Adaptive authentication](../../../integrate/authentication/concept/adaptive-authentication.md).
+**Note:** Use the Adaptive Authentication \(AA\) pre-authentication context policy to enforce IP based authentications and restrictions for additional capabilities. For more information, see [Adaptive authentication](adaptive-authentication.md).
 
 Role required: admin
 

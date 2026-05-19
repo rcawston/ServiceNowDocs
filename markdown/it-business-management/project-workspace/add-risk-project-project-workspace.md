@@ -23,7 +23,7 @@ Role required: it\_project\_manager
 
 You can select the type of record you want to create, fill in the required details, and associate it to your project. You can use the RIDAC page in Project Workspace to view, add, manage, and evaluate all the RIDAC records.
 
-For information about RIDAC records for project management, see [Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../../project-management/concept/ridac-entries-for-project.md).
+For information about RIDAC records for project management, see [Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../project-management/ridac-entries-for-project.md).
 
 ## Procedure
 
@@ -47,11 +47,11 @@ For information about RIDAC records for project management, see [Adding RIDAC \(
 
     For field information, see:
 
-    -   [Risk form of Project Workspace](../reference/risk-form-project-workspace.md)
-    -   [Issue form on Project Workspace](../reference/issue-form-project-workspace.md)
-    -   [Action form of Project Workspace](../reference/action-form-project-workspace.md)
-    -   [Decision form on Project Workspace](../reference/decision-form-project-workspace.md)
-    -   [Request change form on Project Workspace](../reference/request-change-form-project-workspace.md)
+    -   [Risk form of Project Workspace](risk-form-project-workspace.md)
+    -   [Issue form on Project Workspace](issue-form-project-workspace.md)
+    -   [Action form of Project Workspace](action-form-project-workspace.md)
+    -   [Decision form on Project Workspace](decision-form-project-workspace.md)
+    -   [Request change form on Project Workspace](request-change-form-project-workspace.md)
 5.  Select **Submit**.
 
 
@@ -60,5 +60,5 @@ For information about RIDAC records for project management, see [Adding RIDAC \(
 -   Convert an existing project risk to an issue, decision, action, or request change and close the risk. For more information, see [Convert one RIDAC record to another for a project in Project Workspace](convert-ridac-project-workspace.md).
 -   Associate a project risk with existing issues so that you can track dependencies and recognize trends for the future. For more information, see [Associate existing RIDAC records for a project in Project Workspace](associate-ridac-project-workspace.md).
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

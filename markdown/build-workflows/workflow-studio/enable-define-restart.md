@@ -105,5 +105,5 @@ The stage or activity runs only during restarted runs. It never runs during an i
     ![Restart playbook button in context menu in Playbook preview](../images/restart-playbook-pe.png)
 
 
-**Parent Topic:**[Enabling playbook restart](../concept/restart.md)
+**Parent Topic:**[Enabling playbook restart](restart.md)
 

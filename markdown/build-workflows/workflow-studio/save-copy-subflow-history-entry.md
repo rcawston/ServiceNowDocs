@@ -58,5 +58,5 @@ You can save a copy of a flow history entry to preserve a previous subflow confi
 
 Workflow Studio displays the copied subflow configuration in a new tab.
 
-**Parent Topic:**[Subflow history](../concept/subflow-history.md)
+**Parent Topic:**[Subflow history](subflow-history.md)
 

@@ -17,7 +17,7 @@ After you create time cards in Time Sheet Portal, log time in the time cards.
 
 ## Before you begin
 
--   Time sheet portal supports [resource assignments created using Project Workspace](../../../product/pw-resource-management/task/create-resource-assignment-prj-wksp.md). Once the time cards are approved, Project Managers can view the planned vs actual hours for an assignment in Project Workspace and Resource Management Workspace heatmap view.
+-   Time sheet portal supports [resource assignments created using Project Workspace](../project-workspace/create-resource-assignment-prj-wksp.md). Once the time cards are approved, Project Managers can view the planned vs actual hours for an assignment in Project Workspace and Resource Management Workspace heatmap view.
 -   Role required: timecard\_user
 
 ## Procedure
@@ -47,7 +47,7 @@ Steps
 
     -   If a time card exists for a project task during the selected week, a duplicate time card is not created.
     -   Time cards are generated only for those project tasks that are in progress or planned for the selected week.
-    -   The **Allow time card reporting on** field on the [project form](../../../product/project-management/task/t_CreateAProject.md) determines the level at which the time cards are created for project tasks.
+    -   The **Allow time card reporting on** field on the [project form](../project-management/t_CreateAProject.md) determines the level at which the time cards are created for project tasks.
 
 
 </td></tr><tr><td id="d313539e189">
@@ -160,5 +160,5 @@ If you encounter issues with time card creation or time logging, try the followi
 
 For issues you cannot resolve, contact your system administrator or the user with the timecard\_admin role in your organization.
 
-**Parent Topic:**[Time Sheet Portal](../concept/worker-portal.md)
+**Parent Topic:**[Time Sheet Portal](worker-portal.md)
 

@@ -104,5 +104,5 @@ You can filter the Users list by date range, User type, and Country by default. 
 
 **Note:** The Add filter options use a logical AND operator. Meaning that the results must meet both the criteria in the default filters AND the criteria in the additional filters to be included in the visualizations.
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](using-uxa.md)
 

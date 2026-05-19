@@ -54,5 +54,5 @@ Role required: sam
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](../concept/c_UsingSoftwareDiscoveryModels.md)
+**Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](c_UsingSoftwareDiscoveryModels.md)
 

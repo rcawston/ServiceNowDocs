@@ -185,5 +185,5 @@ Click any of the following related lists to view additional information about ob
 3.  Also, use the **Related Records** section from the objects form view to confirm the relationships between two Objects using the **Potential Relationships** section available on the form view. For more information on see, [Confirm Potential Relationships from Related Records](confirm-potential-relationships.md).
 4.  You can add objects to cases. For more information, see [Add to Case](add-to-case.md).
 
-**Parent Topic:**[Threat Grouping](../concept/threat-grouping.md)
+**Parent Topic:**[Threat Grouping](threat-grouping.md)
 

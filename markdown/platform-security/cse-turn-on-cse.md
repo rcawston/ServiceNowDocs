@@ -64,5 +64,5 @@ You must have at least one cryptographic key pair and certificate \(p12 file ext
     **Note:** Code Signing enforces limits on large update sets to improve the user experience. The maximum size for an update set is 10,000 records.
 
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

@@ -52,5 +52,5 @@ Role required: none
 11. To discard, select the close icon ![icon close](../image/redact-close-icon.png) in the Redact document pane.
 
 
-**Parent Topic:**[Redact sensitive data from documents](../concept/data-redaction-documents.md)
+**Parent Topic:**[Redact sensitive data from documents](data-redaction-documents.md)
 

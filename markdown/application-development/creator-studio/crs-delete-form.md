@@ -44,5 +44,5 @@ To delete a form, you must be given permission to work on the app.
 
 The form is deleted, and the next form associated with the app appears in the editor. After deletion, the form's record is removed completely from the ServiceNow AI Platform.
 
-**Parent Topic:**[Deleting forms and questions in Creator Studio](../concept/creator-studio-delete-forms-questions.md)
+**Parent Topic:**[Deleting forms and questions in Creator Studio](creator-studio-delete-forms-questions.md)
 

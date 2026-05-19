@@ -17,18 +17,18 @@ The EncoderVersion API provides a scriptable object used in Predictive Intellige
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-This API is used for working with encoder versions based on [Encoder API](../../Encoder/concept/EncoderAPI.md#) objects in the [Encoder store](../../EncoderStore/concept/EncoderStoreAPI.md#).
+This API is used for working with encoder versions based on [Encoder API](EncoderAPI.md#) objects in the [Encoder store](EncoderStoreAPI.md#).
 
 The system activates the most recent version of the encoder when it completes training, and only allows one version to be active at a time. However, you can activate any previously trained version you want to use to make predictions.
 
 Methods in this API are accessible using the following Encoder methods:
 
--   [getActiveVersion\(\)](../../Encoder/concept/EncoderAPI.md#)
--   [getAllVersions\(\)](../../Encoder/concept/EncoderAPI.md#)
--   [getLatestVersion\(\)](../../Encoder/concept/EncoderAPI.md#)
--   [getVersion\(\)](../../Encoder/concept/EncoderAPI.md#)
+-   [getActiveVersion\(\)](EncoderAPI.md#)
+-   [getAllVersions\(\)](EncoderAPI.md#)
+-   [getLatestVersion\(\)](EncoderAPI.md#)
+-   [getVersion\(\)](EncoderAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## EncoderVersion - getProperties\(\)
 
@@ -52,7 +52,7 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [Encoder](../../Encoder/concept/EncoderAPI.md#) details. Results vary by object property setup.```
+Contents of the Dataset and [Encoder](EncoderAPI.md#) details. Results vary by object property setup.```
 {
   "algorithmConfig" : {Object},
   "datasetsProperties": [Array],

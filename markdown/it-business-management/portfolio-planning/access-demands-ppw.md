@@ -23,7 +23,7 @@ Role required: it\_demand\_user, it\_demand\_manager, sn\_ppm\_read, demand\_app
 
 1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Demands**.
 
-    Demands on the **All Demands** home page are displayed in a list view. For more information, see [Demands list view](../reference/demands-list-view-ppw.md).![All Demands home page.](../images/ppw-all-demands-list.png)
+    Demands on the **All Demands** home page are displayed in a list view. For more information, see [Demands list view](demands-list-view-ppw.md).![All Demands home page.](../images/ppw-all-demands-list.png)
 
 2.  Select a demand to open it.
 
@@ -46,5 +46,5 @@ Role required: it\_demand\_user, it\_demand\_manager, sn\_ppm\_read, demand\_app
 **Related topics**  
 
 
-[Demands list view](../reference/demands-list-view-ppw.md)
+[Demands list view](demands-list-view-ppw.md)
 

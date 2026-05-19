@@ -164,5 +164,5 @@ var iCont = "" ;
   agr.update(); }
 ```
 
-**Parent Topic:**[Importing data using import sets](../../../administer/import-sets/concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

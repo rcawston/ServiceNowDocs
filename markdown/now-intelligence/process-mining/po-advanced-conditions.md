@@ -33,7 +33,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 4.  In the **Create new process start condition** form, fill in the fields.
 
-    For a description of the field values, see [Create new process start/end condition](../reference/process-start-condition.md).
+    For a description of the field values, see [Create new process start/end condition](process-start-condition.md).
 
 5.  Select **Submit** to save the condition.
 

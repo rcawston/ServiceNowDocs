@@ -60,7 +60,7 @@ Inquiry type- Choose the type of inquiry that you would like to ask an Account P
 -   Expedite payment request
 -   Payment term issue
 -   Invoice entry assistance
-For more information on invoice inquiry, see [Invoice inquiry cases](../concept/work-with-inquiry-cases.md).
+For more information on invoice inquiry, see [Invoice inquiry cases](work-with-inquiry-cases.md).
 
 </td></tr><tr><td id="d128349e141">
 
@@ -80,5 +80,5 @@ Description- Detailed description about the invoice inquiry.
     Invoice inquiry case is created.
 
 
-**Parent Topic:**[Working with Supplier Catalog](../concept/working-with-supplier-catalog.md)
+**Parent Topic:**[Working with Supplier Catalog](working-with-supplier-catalog.md)
 

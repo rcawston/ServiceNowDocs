@@ -87,5 +87,5 @@ This example shows how when a customer books an appointment, it’s automaticall
     Navigate to **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace** and see that the task has been assigned to the preferred agent Mona Lisa.
 
 
-For more information on adding a preferred agent to a work order task see, [Set technician preferences for tasks](../task/assign-preferred-agents-tasks.md).
+For more information on adding a preferred agent to a work order task see, [Set technician preferences for tasks](../work-order-management/assign-preferred-agents-tasks.md).
 

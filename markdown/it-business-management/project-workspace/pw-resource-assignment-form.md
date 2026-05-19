@@ -172,5 +172,5 @@ Offset
 Difference between actual or planned start date of project or task and resource assignment start date.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Project Workspace](../../project-workspace/reference/form-field-information-for-project-workspace.md)
+</table>**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
 

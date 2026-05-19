@@ -50,5 +50,5 @@ Role required: admin
     For more information about creating a manifest file, see [Create and download the manifest file for self-configured apps](download-manifest-file-st.md#). For more information about uploading a manifest file, see [Upload manifest file in Microsoft Teams](upload-manifest-ms-teams.md).
 
 
-**Parent Topic:**[Working on campaigns in Microsoft Teams](../concept/using-campaigns-ms-teams.md)
+**Parent Topic:**[Working on campaigns in Microsoft Teams](using-campaigns-ms-teams.md)
 

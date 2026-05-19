@@ -34,7 +34,7 @@ The TPM risk details of software products and hardware models are calculated bas
     To update the TPM risk scores, you must run the **Populate Technology Lifecycles Risks** job. For more details, see [Schedule a job to generate TPM technology risk](eaw-schedule-job-generate-tpm-risk.md).
 
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 
 **Related topics**  
 
@@ -47,7 +47,7 @@ The TPM risk details of software products and hardware models are calculated bas
 
 [View technology portfolio audit risk details](eaw-view-audit-risk-details.md)
 
-[Update verification status of TPM audit details](../eaw-update-verif-status.md)
+[Update verification status of TPM audit details](eaw-update-verif-status.md)
 
 [View TPM logs](eaw-view-tpm-logs.md)
 

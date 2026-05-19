@@ -21,7 +21,7 @@ Role required: admin, resource\_user, or resource\_manager
 
 **Important:** Resource Management reports is deprecated starting Zurich release. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Alternatively, resource managers are encouraged to use the interactive Overview Dashboard in the Resource Management Workspace. For more information about dashboards, see [Overview dashboard in Resource Management Workspace](../../resource-management-workspace/concept/using-rmw.md#section_v4k_rtg_1fc).
+Alternatively, resource managers are encouraged to use the interactive Overview Dashboard in the Resource Management Workspace. For more information about dashboards, see [Overview dashboard in Resource Management Workspace](using-rmw.md#section_v4k_rtg_1fc).
 
 ## Procedure
 
@@ -29,10 +29,10 @@ Alternatively, resource managers are encouraged to use the interactive Overview 
 
 2.  On the Resource Reports form, Fill the fields.
 
-    For a description of the field names, see [Resource Reports form](../reference/rsrc-rprts-form.md).
+    For a description of the field names, see [Resource Reports form](rsrc-rprts-form.md).
 
 3.  Select **Run** to view the report.
 
 
-**Parent Topic:**[Resource Management reports](../concept/c_UsingResourceManagementReports.md)
+**Parent Topic:**[Resource Management reports](c_UsingResourceManagementReports.md)
 

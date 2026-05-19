@@ -21,7 +21,7 @@ The territory map in the Territory Planning Console provides a visual representa
 
 The personas with the role sn\_fsm\_tp.fsm\_territory\_read will only have the view access to Territory Planning console.
 
-**Note:** To identify the best matched territory for a work order task, you must enable the **Field\_Service\_Territories** territory model. For more information, see [Enable the Field Service territory model](../task/enable-territory-model.md).
+**Note:** To identify the best matched territory for a work order task, you must enable the **Field\_Service\_Territories** territory model. For more information, see [Enable the Field Service territory model](../workforce-optimization-for-field-service/enable-territory-model.md).
 
 The following table describes the list of activities you can perform as a territory planner, territory manager, and resource manager in the territory Planning console.
 
@@ -150,14 +150,14 @@ Only for assigned territory
 
 Perform the following tasks to work with territories:
 
--   [Create a work order task](../../planning-and-policy/task/t_CreateAWorkOrderTask.md)
--   [Assign work order tasks to agents or crews from the dispatch queue](../../planning-and-policy/concept/c_DispatchWorkOrderTasks.md#)
--   [Auto-dispatch a work order task](../../planning-and-policy/concept/c_DispatchWorkOrderTasks.md#)
--   [Assign work order tasks to agents](manage-work-order-tasks-dw.md#)
--   [Assign work order tasks to crews on Dispatcher Workspace](../task/assign-wot-to-crew.md)
+-   [Create a work order task](../work-order-management/t_CreateAWorkOrderTask.md)
+-   [Assign work order tasks to agents or crews from the dispatch queue](../field-service-scheduling/c_DispatchWorkOrderTasks.md#)
+-   [Auto-dispatch a work order task](../field-service-scheduling/c_DispatchWorkOrderTasks.md#)
+-   [Assign work order tasks to agents](../field-service-scheduling/manage-work-order-tasks-dw.md#)
+-   [Assign work order tasks to crews on Dispatcher Workspace](../field-service-scheduling/assign-wot-to-crew.md)
 
 **Related topics**  
 
 
-[Configuring Field Service Territory Planning](configuring-territory-planning-fsm.md)
+[Configuring Field Service Territory Planning](../workforce-optimization-for-field-service/configuring-territory-planning-fsm.md)
 

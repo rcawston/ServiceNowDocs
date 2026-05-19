@@ -20,10 +20,10 @@ Learn about the process required to set up Portfolio Planning to enable your pro
 
 Use the following steps as guidelines to set up Portfolio Planning. Some of these steps require the admin role and some require the sn\_align\_core.apw\_admin role.
 
-1.  [Install Portfolio Planning](../task/install-portfolio-planning.md).
+1.  [Install Portfolio Planning](install-portfolio-planning.md).
 2.  Assign user roles.
 
-    See the Roles installed table in [Components installed with Portfolio Planning](../reference/installed-with-portfolio-planning.md).
+    See the Roles installed table in [Components installed with Portfolio Planning](installed-with-portfolio-planning.md).
 
     **Note:** If you are upgrading from an older version to Portfolio Planning v6.1.1 or higher, a fix script is run to remove the milestone\_editor role from the roadmap\_editor role because the roadmap\_editor role is no longer used. In this case, you may experience a longer time for the upgrade to complete if your ServiceNow instance has a large number of users with the roadmap\_editor role. For more information, see [KB1443618](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1443618).
 
@@ -41,7 +41,7 @@ Use the following steps as guidelines to set up Portfolio Planning. Some of thes
 
 6.  Enable financial planning for epics and customise the Financials screen view.
 
-    See [Configure financials for Portfolio Planning](../task/config-fin-pp.md).
+    See [Configure financials for Portfolio Planning](config-fin-pp.md).
 
 
 ## Guided Setup to configure Portfolio Planning

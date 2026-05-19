@@ -67,5 +67,5 @@ Default types of disciplinary issues include:
 8.  Click **Save** to stay on the **HR Disciplinary Issue Type** form or **Update** to return to the **HR Disciplinary Issue Types** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

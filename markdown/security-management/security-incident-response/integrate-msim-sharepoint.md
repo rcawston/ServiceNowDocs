@@ -15,11 +15,11 @@ breadcrumb: [Integrate, Major Security Incident Management, Security Incident Re
 
 Integrate your Microsoft SharePoint with Major Security Incident Management.
 
--   **[Register a new application at Azure portal for SharePoint connections](../../security-incident-response/task/create-azure-app-msim.md)**  
+-   **[Register a new application at Azure portal for SharePoint connections](create-azure-app-msim.md)**  
 Register a new application at Azure portal for Microsoft SharePoint integration.
--   **[Use certificates for authentication](../../security-incident-response/task/use-certificate-auth-msim.md)**  
+-   **[Use certificates for authentication](use-certificate-auth-msim.md)**  
 Request an access token with a certificate credential.
--   **[Configure Microsoft SharePoint with Major Security Incident Management](../task/config-sharepoint-msim.md)**  
+-   **[Configure Microsoft SharePoint with Major Security Incident Management](config-sharepoint-msim.md)**  
 Set up Major Security Incident Management with Microsoft SharePoint connection.
 
 **Parent Topic:**[Integrating Major Security Incident Management](integrate-with-other-applications.md)
@@ -29,7 +29,7 @@ Set up Major Security Incident Management with Microsoft SharePoint connection.
 
 [Integrate Major Security Incident Management with Microsoft Teams](integrate-teams-msim.md)
 
-[Establish MS Teams Graph connection on ServiceNow AI Platform](../../security-incident-response/task/msim-micorsoft-team-requirements.md)
+[Establish MS Teams Graph connection on ServiceNow AI Platform](msim-micorsoft-team-requirements.md)
 
 [Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
 

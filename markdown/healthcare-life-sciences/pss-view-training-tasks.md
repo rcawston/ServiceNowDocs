@@ -25,7 +25,7 @@ Role required: sn\_patientservice.nurse\_educator
 
 ## About this task
 
-A training task is created based on the appointment booking workflow, For more information, see [Appointment booking workflow in Patient Support Services](../concept/pss-appt-booking-feature.md).
+A training task is created based on the appointment booking workflow, For more information, see [Appointment booking workflow in Patient Support Services](pss-appt-booking-feature.md).
 
 ## Procedure
 

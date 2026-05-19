@@ -17,7 +17,7 @@ See the currently open incidents that are subject to an SLA. You can view a list
 
 **Important:**
 
-Starting in Xanadu release, the Overdue Reports dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the currently open incidents that are subject to an SLA and list of the incidents or see how they break down in a heatmap or a pivot table.
+Starting in Xanadu release, the Overdue Reports dashboard is deprecated. Users can use [Incident management dashboard](../incident.md) to view the currently open incidents that are subject to an SLA and list of the incidents or see how they break down in a heatmap or a pivot table.
 
 This dashboard is inactive by default. Before using this dashboard, a Performance Analytics administrator or power user must open the Dashboard Properties, assign an owner, and select **Active**.
 

@@ -29,7 +29,7 @@ Role required: admin
 
     When the system finishes the upgrade, it displays the Complete upgrade summary report.
 
-    **Note:** You can now view the status of every stage in the upgrade process. See [Upgrade Progress](../reference/uc-monitor-progress.md) for more information.
+    **Note:** You can now view the status of every stage in the upgrade process. See [Upgrade Progress](uc-monitor-progress.md) for more information.
 
 
 ## What to do next

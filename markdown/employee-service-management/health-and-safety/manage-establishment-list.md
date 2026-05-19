@@ -77,5 +77,5 @@ This establishment is available in the **Establishment** field's list on an inju
 
 In the **Annual information** tab, add the annual total hours worked for this establishment. For more information, see [Add total hours worked for an establishment](add-hs-total-hours-worked-establishment.md).
 
-**Parent Topic:**[Health and Safety injury and illness reports](../concept/injury-illness-reports.md)
+**Parent Topic:**[Health and Safety injury and illness reports](injury-illness-reports.md)
 

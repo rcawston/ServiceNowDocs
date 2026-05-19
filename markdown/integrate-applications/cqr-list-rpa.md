@@ -172,14 +172,14 @@ Variable naming convention
 Inspects if the variables naming convention is as per the defined Regular expression.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Code quality check in RPA Hub](../concept/code-quality-check-rpa.md)
+</table>**Parent Topic:**[Code quality check in RPA Hub](code-quality-check-rpa.md)
 
 **Related topics**  
 
 
-[Code quality check in RPA Hub](../concept/code-quality-check-rpa.md)
+[Code quality check in RPA Hub](code-quality-check-rpa.md)
 
-[View the code quality rules list in RPA Hub](../task/view-cqr-rpa.md)
+[View the code quality rules list in RPA Hub](view-cqr-rpa.md)
 
-[Code quality rule form in RPA Hub](../task/edit-cqr-rpa.md#)
+[Code quality rule form in RPA Hub](edit-cqr-rpa.md#)
 

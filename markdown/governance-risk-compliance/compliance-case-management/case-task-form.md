@@ -175,5 +175,5 @@ Additional comments
 Additional information about the case task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an action task](../task/create-a-case-task.md)
+</table>**Parent Topic:**[Create an action task](create-a-case-task.md)
 

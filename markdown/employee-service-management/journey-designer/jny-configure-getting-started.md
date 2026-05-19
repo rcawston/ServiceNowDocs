@@ -43,7 +43,7 @@ Role required: admin \[sn\_jny.admin\]
 
 7.  Select **Quick links**.
 
-    For more information about quick links, see [Quick links](../../employee-center/concept/emp-center-quick-link-config.md).
+    For more information about quick links, see [Quick links](../employee-experience-foundation/emp-center-quick-link-config.md).
 
     A drop-down list with quick links that are defined in the Quick Links \[sn\_ex\_sp\_quick\_link\] table appears.
 
@@ -52,5 +52,5 @@ Role required: admin \[sn\_jny.admin\]
 9.  Select **Save**.
 
 
-**Parent Topic:**[Enable and configure the Pre-hire Experience](../concept/jny-pre-hire-enable-configure.md)
+**Parent Topic:**[Enable and configure the Pre-hire Experience](jny-pre-hire-enable-configure.md)
 

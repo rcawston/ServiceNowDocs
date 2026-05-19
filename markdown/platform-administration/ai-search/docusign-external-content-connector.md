@@ -24,11 +24,11 @@ The indexed content and metadata are stored as records in a connector-specific i
 
 The Docusign external content connector doesn’t support the [shared access](https://support.docusign.com/s/document-item?language=en_US&bundleId=oeq1643226594604&topicId=rdu1656546423934.html&_LANG=enus) feature in Docusign. As a result, users in search applications can't see searchable content and metadata from envelopes that they only have shared access to.
 
--   **[Configure Docusign for external content indexing](../task/configure-docusign-external-content-indexing.md)**  
+-   **[Configure Docusign for external content indexing](configure-docusign-external-content-indexing.md)**  
 Create an app and integration key in Docusign to allow the Docusign external content connector to access your source system.
--   **[Create a Docusign external content connector](../task/create-ext-cont-connector-docusign.md)**  
+-   **[Create a Docusign external content connector](create-ext-cont-connector-docusign.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Docusign source system.
--   **[Configure crawl settings for a Docusign external content connector](../task/configure-crawl-settings-docusign-external-content-connector.md)**  
+-   **[Configure crawl settings for a Docusign external content connector](configure-crawl-settings-docusign-external-content-connector.md)**  
 Define inclusion or exclusion filters to control which agreements you want your Docusign external content connector to make searchable.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -36,7 +36,7 @@ Define inclusion or exclusion filters to control which agreements you want your 
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

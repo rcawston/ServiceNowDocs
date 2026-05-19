@@ -23,11 +23,11 @@ Role required: admin
 
 1.  Open the `<installation directory>/conf/edgeencryption.properties` file and configure the following Edge Encryption proxy server properties:
 
-    -   [Target \(instance\) properties](../reference/edge-encryption-proxy-server-properties.md)
-    -   [User account properties](../reference/edge-encryption-proxy-server-properties.md)
-    -   [Proxy properties](../reference/edge-encryption-proxy-server-properties.md)
-    -   If using order preserving encryption types or encryption patterns, configure the [Proxy database properties](../reference/edge-encryption-proxy-server-properties.md)
-    -   [Clear text and static IV properties](../reference/edge-encryption-proxy-server-properties.md)
+    -   [Target \(instance\) properties](edge-encryption-proxy-server-properties.md)
+    -   [User account properties](edge-encryption-proxy-server-properties.md)
+    -   [Proxy properties](edge-encryption-proxy-server-properties.md)
+    -   If using order preserving encryption types or encryption patterns, configure the [Proxy database properties](edge-encryption-proxy-server-properties.md)
+    -   [Clear text and static IV properties](edge-encryption-proxy-server-properties.md)
 2.  Save and close the file.
 
 

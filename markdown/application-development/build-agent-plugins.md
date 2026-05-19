@@ -29,10 +29,10 @@ Two plugins are required:
 
 ## Plugins for Build Agent \(Paid\)
 
-If you exceed the free interaction limit, you must wait 30 days for a reset, or install the paid version of Build Agent. For more information on how to install Build Agent, see [Install Build Agent](../tasks/install-build-agent.md).
+If you exceed the free interaction limit, you must wait 30 days for a reset, or install the paid version of Build Agent. For more information on how to install Build Agent, see [Install Build Agent](install-build-agent.md).
 
 1.  For Australia Patch 1 and onward, the sn\_now\_creator plugin is required, which contains the sn\_build\_agent\_pro plugin.
 2.  For the Australia EA \(Australia patch 0\) version, you must manually update ServiceNow Studio and the Unified Developer Core \(UDC\) in the ServiceNow Store before installing Now Assist for Creator.
 
-**Parent Topic:**[Configure Build Agent](../tasks/configure-build-agent.md)
+**Parent Topic:**[Configure Build Agent](configure-build-agent.md)
 

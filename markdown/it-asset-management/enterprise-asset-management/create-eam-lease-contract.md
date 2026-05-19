@@ -31,7 +31,7 @@ The following steps describe how to create contracts for leased enterprise asset
 
 3.  On the Create New Contract form, fill in the fields.
 
-    See [Contract fields for Enterprise Asset Management](../reference/contract-fields-eam.md) for a detailed description of each field.
+    See [Contract fields for Enterprise Asset Management](contract-fields-eam.md) for a detailed description of each field.
 
 4.  Select **Save**.
 
@@ -49,7 +49,7 @@ The following steps describe how to create contracts for leased enterprise asset
 
 6.  Add all enterprise assets that are covered by the lease contract.
 
-    **Note:** If you created a multi-component asset from a multi-component model, only the parent asset can be added to the lease contract. The associated child assets cannot be added to the lease contract. See [Multi-component models and assets in Enterprise Asset Management](../concept/complex-models.md) for more information on multi-component assets.
+    **Note:** If you created a multi-component asset from a multi-component model, only the parent asset can be added to the lease contract. The associated child assets cannot be added to the lease contract. See [Multi-component models and assets in Enterprise Asset Management](complex-models.md) for more information on multi-component assets.
 
     1.  On the **Assets Covered** tab of the lease contract record, select **Add**.
 
@@ -69,7 +69,7 @@ The following steps describe how to create contracts for leased enterprise asset
 
     2.  On the Create New Expense Line form, fill in the fields.
 
-        See [Expense line fields for Enterprise Asset Management](../reference/expense-line-fields-eam.md) for a detailed description of each field.
+        See [Expense line fields for Enterprise Asset Management](expense-line-fields-eam.md) for a detailed description of each field.
 
     3.  Select **Save**.
 
@@ -98,5 +98,5 @@ The following steps describe how to create contracts for leased enterprise asset
     A review notification is sent to the user that you specified in the **Approver** field of the lease contract record. After reviewing the lease contract, the user can either approve or reject it.
 
 
-**Parent Topic:**[Create and manage contracts for enterprise assets](../concept/create-manage-enterprise-asset-contracts.md)
+**Parent Topic:**[Create and manage contracts for enterprise assets](create-manage-enterprise-asset-contracts.md)
 

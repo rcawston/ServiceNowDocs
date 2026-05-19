@@ -92,7 +92,7 @@ Security incident quality assessment
 
     When you update the Now Assist for Security Incident Response application, its dependency applications are automatically updated.
 
-2.  [Configure a skill for Now Assist for Security Incident Response](../task/activate-skills-for-now-assist-security-incident.md)
+2.  [Configure a skill for Now Assist for Security Incident Response](activate-skills-for-now-assist-security-incident.md)
 
     You can deactivate, configure, and reactivate generative AI skills and agentic workflows in the Guided Setup.
 

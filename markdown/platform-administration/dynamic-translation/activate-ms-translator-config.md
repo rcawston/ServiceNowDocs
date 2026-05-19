@@ -39,7 +39,7 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Microsoft Azure Translator Service spoke](../concept/microsoft-translation-spoke.md)
+**Parent Topic:**[Microsoft Azure Translator Service spoke](microsoft-translation-spoke.md)
 
 **Previous topic:**[Create a connection for the MicrosoftTranslation alias](create-connection-ms-translation.md)
 

@@ -44,5 +44,5 @@ You will receive a notification when an agent in your assignment group submits a
     The skills you've approved gets added to the agent's skill set.
 
 
-**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](../concept/skills-management-wfo-itsm.md)
+**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](skills-management-wfo-itsm.md)
 

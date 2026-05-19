@@ -25,7 +25,7 @@ You can configure the MID Server for Cloud Provisioning and Governance to use a 
 
 SSH calls should not be routed through a proxy server, when using a private cloud environment that is on the same side of the proxy as the MID Server.
 
-Set **mid.capi.skip\_proxy\_for\_ssh** to true to skip it. See [MID Server properties used by Service Mapping](../../service-mapping/reference/mid-server-properties-service-mapping.md) for more information.
+Set **mid.capi.skip\_proxy\_for\_ssh** to true to skip it. See [MID Server properties used by Service Mapping](service-mapping/mid-server-properties-service-mapping.md) for more information.
 
 **mid.capi.skip\_proxy\_for\_ssh**:
 
@@ -72,7 +72,7 @@ Set **mid.capi.skip\_proxy\_for\_ssh** to true to skip it. See [MID Server prope
 |Cloud events|Not Applicable|Not Applicable|Not Applicable|Not Applicable|
 |VMware Cloud|Not Applicable|
 
-**Parent Topic:**[Install and configure MID Servers to access cloud environments](../task/mid-server-configuration-cloud.md)
+**Parent Topic:**[Install and configure MID Servers to access cloud environments](mid-server-configuration-cloud.md)
 
 **Related topics**  
 

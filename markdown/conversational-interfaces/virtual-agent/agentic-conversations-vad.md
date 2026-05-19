@@ -33,11 +33,11 @@ To enable AI agents in Virtual Agent:
 
     The configuration consists of the following:
 
-    -   Creating an assistant in Virtual Agent or using the default. To create an assistant, see [Create a chat assistant](../../now-assist-in-va/task/create-assistant.md)
-    -   Assigning specific assistants to a specific portal or portals. For more information, see [Display your chat assistant on a portal, channel, or mobile app](../../now-assist-in-va/task/display-assistant-portal-channel.md).
+    -   Creating an assistant in Virtual Agent or using the default. To create an assistant, see [Create a chat assistant](../now-assist-in-virtual-agent/create-assistant.md)
+    -   Assigning specific assistants to a specific portal or portals. For more information, see [Display your chat assistant on a portal, channel, or mobile app](../now-assist-in-virtual-agent/display-assistant-portal-channel.md).
     ![Assistants in CI.](../images/assistants.png)
 
-2.  Ensure that **Agentic support** is enabled. For more information about using agentic support, see [Use agentic support for a chat assistant](../../now-assist-in-va/task/use-agentic-support.md).
+2.  Ensure that **Agentic support** is enabled. For more information about using agentic support, see [Use agentic support for a chat assistant](../now-assist-in-virtual-agent/use-agentic-support.md).
 
     ![AI agents skill.](../images/assistant-skill.png)
 

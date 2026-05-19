@@ -32,7 +32,7 @@ Examples include a license to use a single copy of a desktop software program an
 3.  Complete the form as described in [Create assets](t_CreatingAssets.md).
 
 
-**Parent Topic:**[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+**Parent Topic:**[Manage various assets through asset classes](c_AssetClasses.md)
 
 **Related topics**  
 

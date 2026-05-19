@@ -53,7 +53,7 @@ Field Service with Service Locations Support installs the UX Client Script Inclu
 |UX Client Script Include|Description|
 |------------------------|-----------|
 |ResponseHandlerServiceLocationSNC|Contains read-only script to set location for a work order from map interface.|
-|ResponseHandlerServiceLocation|Contains script to set location for a work order from map interface. You can modify the script to customize the fields of location to suit the business preference and set the location more accurately. For more information, see [Customize fields for mapping location](../task/customize-fields-for-mapping-location.md).|
+|ResponseHandlerServiceLocation|Contains script to set location for a work order from map interface. You can modify the script to customize the fields of location to suit the business preference and set the location more accurately. For more information, see [Customize fields for mapping location](workforce-optimization-for-field-service/customize-fields-for-mapping-location.md).|
 
-**Parent Topic:**[Components installed with additional plugins for Field Service Management](../reference/components-inst-additional-plugin.md)
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
 

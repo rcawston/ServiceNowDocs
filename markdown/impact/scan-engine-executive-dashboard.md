@@ -171,7 +171,7 @@ Total resolved findings
     -   **Findings by proposed fix applied**
     -   **Findings that were resolved manually**
 
- **Note:** The Scan Engine property **Track resolved findings** must be active to populate this chart. See [Configure Scan Engine properties](../task/configure-scan-engine-properties.md).
+ **Note:** The Scan Engine property **Track resolved findings** must be active to populate this chart. See [Configure Scan Engine properties](configure-scan-engine-properties.md).
 
 </td></tr><tr><td>
 

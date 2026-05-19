@@ -99,7 +99,7 @@ Model Risk Assessment
 
 </td><td>
 
-Helps quickly identify and prioritize high-risk models so resources focus where they matter most. To perform a model risk assessment and evaluate the risks associated with a quantitative model, refer to [Perform model risk assessment](../task/perform-model-risk-assessment.md).
+Helps quickly identify and prioritize high-risk models so resources focus where they matter most. To perform a model risk assessment and evaluate the risks associated with a quantitative model, refer to [Perform model risk assessment](perform-model-risk-assessment.md).
 
 </td><td>
 
@@ -112,7 +112,7 @@ Model Validation
 
 </td><td>
 
-Builds confidence in model reliability through independent checks that reduce errors and regulatory concerns.To perform model validation, refer to [Perform model validation](../task/perform-model-risk-validation.md).
+Builds confidence in model reliability through independent checks that reduce errors and regulatory concerns.To perform model validation, refer to [Perform model validation](perform-model-risk-validation.md).
 
 </td><td>
 
@@ -124,7 +124,7 @@ Model Documentation
 
 </td><td>
 
-Makes it easy to maintain clear, audit-ready documentation that streamlines reviews and improves transparency.To link documents from your repository to a model record, refer to [Link existing documents to a model record](../task/link-existing-documents-model-record.md).
+Makes it easy to maintain clear, audit-ready documentation that streamlines reviews and improves transparency.To link documents from your repository to a model record, refer to [Link existing documents to a model record](link-existing-documents-model-record.md).
 
 </td><td>
 
@@ -138,7 +138,7 @@ Model Issue &amp; Remediation
 
 </td><td>
 
-Enables timely detection and resolution of model issues, minimizing business disruption and confirming continuous compliance.To report an issue, refer to [Create an issue for model](../task/create-an-issue-for-model-risk.md).
+Enables timely detection and resolution of model issues, minimizing business disruption and confirming continuous compliance.To report an issue, refer to [Create an issue for model](create-an-issue-for-model-risk.md).
 
 </td><td>
 

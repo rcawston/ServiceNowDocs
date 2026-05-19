@@ -25,7 +25,7 @@ In the ACC data input record, the Streaming Sources related list shows the strea
 
 For example, if the last event time for a data input's endpoint server is yesterday, the server might be down or configured incorrectly. A streaming issue might also be caused by the data input configuration file not being installed on the endpoint.
 
-**Note:** You can view the streaming data of all data inputs and the MID Servers that receive logs from them in the Streaming Sources page. For more information, see [Identify and resolve a log streaming issue in Health Log Analytics](../../health-log-analytics-admin/task/hla-data-input-streaming.md) in the ServiceNow Health Log Analytics application documentation.
+**Note:** You can view the streaming data of all data inputs and the MID Servers that receive logs from them in the Streaming Sources page. For more information, see [Identify and resolve a log streaming issue in Health Log Analytics](../health-log-analytics/hla-data-input-streaming.md) in the ServiceNow Health Log Analytics application documentation.
 
 ## Procedure
 
@@ -35,7 +35,7 @@ For example, if the last event time for a data input's endpoint server is yester
 
 3.  Review the streaming data of that data input's sources.
 
-    For a description of the filters, see [ACC data input streaming sources](../reference/accl-streaming-sources-ref.md).
+    For a description of the filters, see [ACC data input streaming sources](accl-streaming-sources-ref.md).
 
 4.  Resolve any data streaming issues.
 
@@ -46,8 +46,8 @@ For example, if the last event time for a data input's endpoint server is yester
 
 Proceed to the next step in the Health Log Analytics data input setup flow. For more information, see [Set up additional ACC data inputs](accl-data-input-setup.md).
 
--   **[ACC data input streaming sources](../reference/accl-streaming-sources-ref.md)**  
+-   **[ACC data input streaming sources](accl-streaming-sources-ref.md)**  
 In the ACC data input record, the Streaming Sources related list shows the streaming data of that data input's sources.
 
-**Parent Topic:**[Agent Client Collector Log Analytics setup](../concept/accl-setup.md)
+**Parent Topic:**[Agent Client Collector Log Analytics setup](accl-setup.md)
 

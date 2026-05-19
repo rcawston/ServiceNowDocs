@@ -120,5 +120,5 @@ Configure the trusting management account and the trusted accessor account.
 -   For information on configuring accessor accounts with AWS credentials, see [Configure access using temporary credentials based on trusted AWS accounts with AWS credentials](configure-iam-role-aws-account.md).
 -   For information on configuring accessor accounts without AWS credentials, see [Configure access using temporary credentials based on trusted AWS accounts without AWS credentials](aws-trusted-credential-less.md).
 
-**Parent Topic:**[Setting up AWS service accounts](../concept/setup-aws-service-accounts.md)
+**Parent Topic:**[Setting up AWS service accounts](setup-aws-service-accounts.md)
 

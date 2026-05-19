@@ -33,8 +33,8 @@ One-way synchronization is supported and mapping is done from the idea portal to
 
 4.  Create the table map between feedback and idea table by selecting **Generate Default Mapping Configurations**.
 
-    Mapping configurations consist of table, field, and choice maps for each record. For more information on creating custom mapping configurations between feedback and other tables, see [Create custom mapping configurations](../../apw-internal-integrations/task/generate-custom-mapping-configurations.md).
+    Mapping configurations consist of table, field, and choice maps for each record. For more information on creating custom mapping configurations between feedback and other tables, see [Create custom mapping configurations](../scenario-planning-in-spw/generate-custom-mapping-configurations.md).
 
 
-**Parent Topic:**[Configuring Feedback application in Strategic Planning](../concept/configuring-product-feedback-in-sp.md)
+**Parent Topic:**[Configuring Feedback application in Strategic Planning](configuring-product-feedback-in-sp.md)
 

@@ -25,5 +25,5 @@ Smart Assessment is built on Smart Assessment Engine- a platform-level capabilit
 **Related topics**  
 
 
-[Configuring Smart Assessment questionnaires for Now Mobile Agent](configuring-smart-assessment-questionnaire.md)
+[Configuring Smart Assessment questionnaires for Now Mobile Agent](mobile-experience-for-field-service-management-glide-family/configuring-smart-assessment-questionnaire.md)
 

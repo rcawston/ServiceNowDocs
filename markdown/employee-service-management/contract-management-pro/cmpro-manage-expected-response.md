@@ -57,12 +57,12 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_contract\_config
 
 Now Assist uses the updated response mappings to identify non-standard clauses in a contract document.
 
-**Parent Topic:**[Managing skills for Now Assist in Contract Management](../concept/cmpro-manage-na-skills.md)
+**Parent Topic:**[Managing skills for Now Assist in Contract Management](cmpro-manage-na-skills.md)
 
 **Related topics**  
 
 
-[Manage use cases for Now Assist in Contract Management](../concept/cmpro-manage-use-cases.md)
+[Manage use cases for Now Assist in Contract Management](cmpro-manage-use-cases.md)
 
 [Manage use case mappings for Now Assist in Contract Management](cmpro-manage-use-case-map.md)
 

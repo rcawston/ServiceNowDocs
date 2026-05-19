@@ -161,5 +161,5 @@ Work notes can be privately added by entering them into this field and selecting
 5.  If needed, you can delete a task from the list by selecting on its check box on the right, and selecting **Delete**, or in the form by selecting the more icon \(...\), then selecting **Delete**.
 
 
-**Parent Topic:**[Security Tasks](../concept/security-task-manager.md)
+**Parent Topic:**[Security Tasks](security-task-manager.md)
 

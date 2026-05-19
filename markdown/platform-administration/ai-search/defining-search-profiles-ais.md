@@ -94,13 +94,13 @@ A search profile can have one of these states:
 
 In the **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles** list, search profiles with the **New** state display an alert triangle icon ![](../image/icon-alert-triangle.png). An informational message notifies you to publish these search profiles.
 
--   **[Create a search profile](../task/create-search-profile-ais.md)**  
+-   **[Create a search profile](create-search-profile-ais.md)**  
 Create a new search profile to store search experience settings for a search application.
--   **[Clone a search profile](../task/clone-search-profile-ais.md)**  
+-   **[Clone a search profile](clone-search-profile-ais.md)**  
 Create a copy of an existing search profile. The cloned search profile retains search sources, stop word and synonym dictionaries, Genius Result configurations, and result improvement rules from the original search profile.
--   **[Publish an AI Search search profile](../task/publish-search-profile-ais.md)**  
+-   **[Publish an AI Search search profile](publish-search-profile-ais.md)**  
 Publish a search profile to make pending changes to its settings take effect in linked search applications.
--   **[Link a search source to a search profile](../task/link-search-source-profile-ais.md)**  
+-   **[Link a search source to a search profile](link-search-source-profile-ais.md)**  
 Link search sources to a search profile to specify the content users can search through that profile.
 -   **[Synonyms](synonyms-ais.md)**  
 Synonyms expand search queries to include additional terms with equivalent meaning or usage. Improve search recall by configuring synonym dictionaries and defining synonyms.

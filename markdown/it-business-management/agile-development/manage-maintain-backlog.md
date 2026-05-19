@@ -126,12 +126,12 @@ Prioritize stories in your backlog. You can add stories, assign stories to a rel
 -   **[Arrange Agile Development 2.0 stories in Agile Board using the keyboard](arrange-stories.md)**  
 Learn how to use the keyboard to move and rearrange Agile Development 2.0 stories in the Backlog and Sprint Planning tabs of your Agile board.
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 
 **Related topics**  
 
 
-[Agile board in Agile Development 2.0](../concept/agile-board.md)
+[Agile board in Agile Development 2.0](agile-board.md)
 
 [Create a personalized backlog in Agile Development 2.0](create-a-backlog.md)
 

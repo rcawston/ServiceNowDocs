@@ -270,5 +270,5 @@ Template
 Panel to populate the template for the business impact analysis. You can view all or customized templates in this panel.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a business impact analysis](../task/create-bia-in-uib-ws.md)
+</table>**Parent Topic:**[Create a business impact analysis](create-bia-in-uib-ws.md)
 

@@ -51,7 +51,7 @@ Connect to your Checkmarx instance that is integrated with your CI/CD pipelines 
 Connect to your Harness instance to discover pipeline definitions and configure real-time notifications or polling to enable change traceability and automation.
 -   **[User-created integrations in DevOps Change Velocity](dev-ops-tool-integration.md)**  
 User-created integrations are for integrating additional planning, coding, and test tools that are not available by default in the DevOps Change Velocity application.
--   **[Update third-party tool credentials in DevOps Change Velocity](../task/update-third-party-tool-credentials-in-devops-change-velocity.md)**  
+-   **[Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md)**  
 If your tool credential has changed, you must update the credentials in your ServiceNow instance to avoid getting disconnected.
 
 **Parent Topic:**[DevOps Change Velocity](devops-landing-page-new.md)

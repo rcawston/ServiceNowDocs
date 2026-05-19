@@ -21,7 +21,7 @@ Role required: sam\_admin
 
 ## About this task
 
-If you are running Discovery and have used a version of [ITSM Software Asset Management](../../asset-management/concept/itsm-sam.md) previously, there is no need to run this script. Additionally, if the \[cmdb\_sam\_sw\_install\] table is already populated with software installation records, this script is disabled. You can run Discovery again to repopulate the table.
+If you are running Discovery and have used a version of [ITSM Software Asset Management](../asset-management/itsm-sam.md) previously, there is no need to run this script. Additionally, if the \[cmdb\_sam\_sw\_install\] table is already populated with software installation records, this script is disabled. You can run Discovery again to repopulate the table.
 
 When running the Migrate Software Installs script, allow enough time for the process to complete.
 
@@ -32,5 +32,5 @@ When running the Migrate Software Installs script, allow enough time for the pro
     The Software Installations list is shown. If the data has already been migrated, a message is shown.
 
 
-**Parent Topic:**[Software Asset Management Foundation plugin Administration](../concept/c_SAMAdministrationSAMF.md)
+**Parent Topic:**[Software Asset Management Foundation plugin Administration](c_SAMAdministrationSAMF.md)
 

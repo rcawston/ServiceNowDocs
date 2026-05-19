@@ -46,5 +46,5 @@ Role required: admin or sp\_admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+**Parent Topic:**[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 

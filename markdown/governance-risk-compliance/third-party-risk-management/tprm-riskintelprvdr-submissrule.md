@@ -175,5 +175,5 @@ When the rule is triggered, users with the TPR manager role receive an email not
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Integrating scores from risk intelligence providers](../concept/tprm-riskintelprvdr-overview.md)
+**Parent Topic:**[Integrating scores from risk intelligence providers](tprm-riskintelprvdr-overview.md)
 

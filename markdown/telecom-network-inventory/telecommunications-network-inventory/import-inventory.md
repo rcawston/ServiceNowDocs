@@ -27,7 +27,7 @@ During the import, the Integration Commons for CMDB plugin runs in the backgroun
 
 ![The image displays the export model flow](../image/import-model-flow.png)
 
-The import also auto-generates a first-level set of inventory templates for every equipment and card model created. Related templates are auto generated under the parent equipment template based on the defined model relationships and the count values from the spreadsheet. The auto-generated templates provide a flat, first-level set of templates that can be enriched using the import template feature. To learn the step-by-step process of importing models, see [Import a model](../task/import-models.md).
+The import also auto-generates a first-level set of inventory templates for every equipment and card model created. Related templates are auto generated under the parent equipment template based on the defined model relationships and the count values from the spreadsheet. The auto-generated templates provide a flat, first-level set of templates that can be enriched using the import template feature. To learn the step-by-step process of importing models, see [Import a model](import-models.md).
 
 A detailed Import Results summary is produced, showing total records processed and breaking them down into inserted, updated, skipped, ignored, and failed records.
 

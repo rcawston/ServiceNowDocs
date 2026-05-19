@@ -39,11 +39,11 @@ The incident form references the following attributes and related lists.
 
 For more details about Incident Management, see [Incident Management](c_IncidentManagement.md).
 
--   **[Incident Management and CSDM tables](../reference/itsm-incident-use-case.md)**  
+-   **[Incident Management and CSDM tables](itsm-incident-use-case.md)**  
 Incident Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Incident Management.
 -   **[Incident Management use case](itsm-incident-use-case-example.md)**  
 Incident Management restores normal service operation, while also minimizing impact to your business and maintaining the quality of your data.
--   **[Set up the Incident Management form](../task/csdm-inc-mgt-form-configure.md)**  
+-   **[Set up the Incident Management form](csdm-inc-mgt-form-configure.md)**  
 Configure the Incident form to see the impact of an incident and then restore affected services. The CSDM framework enables you to view rich context for incidents: the CIs involved in the incident and the service offerings, business applications, and business services that the incident affects.
 -   **[Incident Management considerations](itsm-incident-use-case-trouble.md)**  
 Consider these points while implementing the CSDM framework.

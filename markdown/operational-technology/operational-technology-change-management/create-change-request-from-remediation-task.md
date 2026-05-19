@@ -35,7 +35,7 @@ Roles required: sn\_ot\_change\_write or sn\_otvr.remediation\_owner
 
 6.  Complete the playbook as needed as your team works on the change request.
 
-    For more information about the Basic OT Change Model playbook, see [Basic OT Change Model playbook](../concept/basic-ot-change-model.md). For more information about the Advanced OT Change Model playbook, see [Advanced OT Change Model playbook](../concept/advanced-ot-change-model.md).
+    For more information about the Basic OT Change Model playbook, see [Basic OT Change Model playbook](basic-ot-change-model.md). For more information about the Advanced OT Change Model playbook, see [Advanced OT Change Model playbook](advanced-ot-change-model.md).
 
     The following fields are automatically populated depending on the conditions that you set.
 
@@ -46,5 +46,5 @@ Roles required: sn\_ot\_change\_write or sn\_otvr.remediation\_owner
         **Note:** If multiple entities are associated with an device, the **Equipment model entity** field is left empty.
 
 
-**Parent Topic:**[Using Operational Technology Change Management](../concept/using-operational-technology-change-management.md)
+**Parent Topic:**[Using Operational Technology Change Management](using-operational-technology-change-management.md)
 

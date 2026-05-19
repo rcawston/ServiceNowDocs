@@ -123,7 +123,7 @@ References
 
 </td><td>
 
-[Exclude passwords through password policies on your instance](../../../integrate/authentication/task/blacklist-passwords.md)
+[Exclude passwords through password policies on your instance](../authentication/blacklist-passwords.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](sc-authentication.md)

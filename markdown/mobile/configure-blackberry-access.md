@@ -54,5 +54,5 @@ The following steps are only necessary if you are using the BlackBerry Access br
 9.  Click **Save**.
 
 
-**Parent Topic:**[BlackBerry Unified Endpoint Management \(UEM\)](../concept/blackberry-uem.md)
+**Parent Topic:**[BlackBerry Unified Endpoint Management \(UEM\)](blackberry-uem.md)
 

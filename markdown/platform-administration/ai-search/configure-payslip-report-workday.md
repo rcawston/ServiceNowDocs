@@ -162,5 +162,5 @@ Provide the following items to the connector admin who creates your Workday exte
 
 Your connector admin needs these items to configure a Workday external content connector to retrieve searchable content and metadata from payroll information in your Workday source system.
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](workday-external-content-connector.md)
 

@@ -34,5 +34,5 @@ Role required: sam\_admin
     For example, if a connection has failed due to a timeout issue, the **Information** field indicates that the connection has timed out. The **Information** field also suggests a recommended timeout value to help prevent the connection from failing again.
 
 
-**Parent Topic:**[IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations](../concept/ibm-ilmt-bigfix-inventory-integration.md)
+**Parent Topic:**[IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations](ibm-ilmt-bigfix-inventory-integration.md)
 

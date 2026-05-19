@@ -184,30 +184,30 @@ Use the **Related Records** section to view the detailed information about objec
 
 Use **Link** and **Unlink** to associate or remove associations between existing records without creating records. For more information, see [Link Threat Intel Related Records](link-threat-intel-releated-records.md).
 
-**Parent Topic:**[TISC Library Repository](../concept/tisc-ioc.md)
+**Parent Topic:**[TISC Library Repository](tisc-ioc.md)
 
 **Related topics**  
 
 
-[Observables](../concept/observables.md)
+[Observables](observables.md)
 
-[Indicators](../concept/indicator.md)
+[Indicators](indicator.md)
 
-[Threat Entities](../concept/tisc-threat-entities.md)
+[Threat Entities](tisc-threat-entities.md)
 
-[Other Objects](../concept/tisc-other-objects.md)
+[Other Objects](tisc-other-objects.md)
 
-[Vulnerability Artifacts](../concept/vulnerability.md)
+[Vulnerability Artifacts](vulnerability.md)
 
-[Working with Reports in TISC](../concept/tisc-reports-lib-view.md)
+[Working with Reports in TISC](tisc-reports-lib-view.md)
 
-[MITRE-ATT&amp;CK Repository](../concept/tisc-mitre-att-ck-framework-overview.md)
+[MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
 
-[Relationships Objects](../concept/relationship-objects.md)
+[Relationships Objects](relationship-objects.md)
 
-[Potential Relationships](../concept/potential-relationships.md)
+[Potential Relationships](potential-relationships.md)
 
-[Vulnerability relationship mapping](../concept/tisc-vul-relationship-map.md)
+[Vulnerability relationship mapping](tisc-vul-relationship-map.md)
 
 [Define Vulnerability](define-vulnerability.md)
 

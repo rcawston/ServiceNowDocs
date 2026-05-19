@@ -15,11 +15,11 @@ breadcrumb: [Guarded script evaluator, Sandbox environment, Server-side scriptin
 
 Review the JavaScript APIs that guarded script supports to help you analyze scripts in the Incompatible Guarded Scripts list and either rewrite them or create an exemption for them.
 
-The guarded script evaluator permits the following methods from the ServiceNow server-side JavaScript APIs and the built-in JavaScript APIs. The guarded script evaluator handles scripts that call unsupported APIs differently depending on the transaction type and instance configuration. For more information, see [Guarded script evaluator](../concept/guarded-script.md).
+The guarded script evaluator permits the following methods from the ServiceNow server-side JavaScript APIs and the built-in JavaScript APIs. The guarded script evaluator handles scripts that call unsupported APIs differently depending on the transaction type and instance configuration. For more information, see [Guarded script evaluator](guarded-script.md).
 
 ## ServiceNow JavaScript APIs
 
-Guarded script permits calling the following methods from server-side JavaScript APIs in untrusted scripts. For more information about server APIs, see [Server API reference](../../../build/applications/concept/api-server.md).
+Guarded script permits calling the following methods from server-side JavaScript APIs in untrusted scripts. For more information about server APIs, see [Server API reference](../server-api-reference/api-server.md).
 
 <table id="table_allowed_apis"><thead><tr><th>
 
@@ -682,5 +682,5 @@ Static methods:
 -   stringify\(\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Guarded script evaluator](../concept/guarded-script.md)
+</table>**Parent Topic:**[Guarded script evaluator](guarded-script.md)
 

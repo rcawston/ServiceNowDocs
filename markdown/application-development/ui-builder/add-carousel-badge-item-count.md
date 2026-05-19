@@ -124,5 +124,5 @@ Carousel
     The **Title** of your carousel should have a badge **count** followed by the number of carousel items.
 
 
-**Parent Topic:**[Learn components by example](../concept/learning-components-by-example.md)
+**Parent Topic:**[Learn components by example](learning-components-by-example.md)
 

@@ -60,7 +60,7 @@ Use Industrial Workflows to manage different types of tasks in the Industrial Co
 Use the Industrial Data Models to manage data models for the Industrial Connected Workforce \(ICW\).
 -   **[Industrial Failure Modes](industrial-failure-modes.md)**  
 Use Industrial Failure Modes to manage failure modes in the Industrial Connected Workforce.
--   **[Initiate a Sidebar chat in the Digital Factory Workspace](../task/initiate-sidebar-chat-digital-factory-workspace.md)**  
+-   **[Initiate a Sidebar chat in the Digital Factory Workspace](initiate-sidebar-chat-digital-factory-workspace.md)**  
 Initiate a Sidebar chat in the Digital Factory Workspace. Sidebar discussion enables operators to collaborate with others when working on deviations, actions, root cause analyses, and standards. For example, if you want to notify the deviation expert that a deviation is fixed and can be closed.
 -   **[Using ICW Health and Safety Integration](using-icw-health-and-safety-integration.md)**  
 Use the ICW Health and Safety Integration application to manage and resolve safety incidents in your organization.

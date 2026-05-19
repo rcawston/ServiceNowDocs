@@ -15,9 +15,9 @@ breadcrumb: [Custom interactive filters, Interactive Filters, Reporting, dashboa
 
 Provides methods to define custom filtering logic for interactive filters.
 
-For more information about interactive filters, see [reporting](../../../../../use/reporting/reference/reporting-landing-page.md) and [interactive filters](../../../../../use/dashboards/concept/c_HomepagePublishers.md).
+For more information about interactive filters, see [reporting](../reporting/reporting-landing-page.md) and [interactive filters](c_HomepagePublishers.md).
 
-**Parent Topic:**[Custom interactive filters](../../../../../use/dashboards/concept/c_CustomPublishers.md)
+**Parent Topic:**[Custom interactive filters](c_CustomPublishers.md)
 
 ## DashboardMessageHandler - DashboardMessageHandler\(String id\)
 

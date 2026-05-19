@@ -32,5 +32,5 @@ Role required: it\_project\_manager
 4.  Save the project form.
 
 
-**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](../concept/c_SDLCIntegrationWithProjectPortfolioSuite.md)
+**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](c_SDLCIntegrationWithProjectPortfolioSuite.md)
 

@@ -17,5 +17,5 @@ The Portal Browse Taxonomy widget displays hierarchical taxonomy topics that ena
 
 ![Portal Browse Taxonomy widget displaying knowledge articles and catalog items related to network issues.](../image/browse-taxonomy-widget.jpg "Portal Browse Taxonomy widget")
 
-For more information about how to configure the Portal Browse Taxonomy widget using the instance options, see [Add and configure the Portal Browse Taxonomy widget](../task/config-portal-browse-taxo-widget.md).
+For more information about how to configure the Portal Browse Taxonomy widget using the instance options, see [Add and configure the Portal Browse Taxonomy widget](config-portal-browse-taxo-widget.md).
 

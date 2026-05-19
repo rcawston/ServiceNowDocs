@@ -36,5 +36,5 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
     ![Active skills section displaying that theService Graph Connector diagnosis skill is active.](../image/now-assist-sgc-active.png "Active skills section")
 
 
-**Parent Topic:**[Configuring Now Assist for CMDB](../concept/now-assist-cmdb-configuring.md)
+**Parent Topic:**[Configuring Now Assist for CMDB](now-assist-cmdb-configuring.md)
 

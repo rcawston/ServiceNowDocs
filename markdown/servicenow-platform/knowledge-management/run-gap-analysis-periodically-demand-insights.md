@@ -52,7 +52,7 @@ The knowledge gap analysis is repeatedly run at the duration as configured in th
 
 Create assignment rules to assign knowledge gap feedback tasks. For more information, see [Assign knowledge gap feedback tasks to content authors](assign-knowledge-gaps-demand-insights.md).
 
-**Parent Topic:**[Configuration tasks for knowledge demand insights](../concept/configuration-tasks-for-knowledge-demand-insights.md)
+**Parent Topic:**[Configuration tasks for knowledge demand insights](configuration-tasks-for-knowledge-demand-insights.md)
 
 **Related topics**  
 

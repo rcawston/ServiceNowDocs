@@ -134,5 +134,5 @@ Date and time of the first scheduled job. This field appears only if you select 
 12. Select **Execute Now**.
 
 
-**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](../concept/dpm-admin-center.md)
+**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](dpm-admin-center.md)
 

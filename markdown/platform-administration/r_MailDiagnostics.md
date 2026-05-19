@@ -173,10 +173,10 @@ Date and time when the reader job last ran.
 The result of the test connection to the accounts. The connection is tested every time you load the page.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Email FAQs and troubleshooting notification emails](../../notification/concept/troubleshooting-notification-emails.md)
+</table>**Parent Topic:**[Email FAQs and troubleshooting notification emails](troubleshooting-notification-emails.md)
 
 **Related topics**  
 
 
-[Scheduled jobs](../concept/c_ScheduledJobs.md)
+[Scheduled jobs](time-configuration/c_ScheduledJobs.md)
 

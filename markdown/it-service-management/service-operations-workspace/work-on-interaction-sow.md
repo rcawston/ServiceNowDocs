@@ -91,7 +91,7 @@ The related records of a requester are displayed as intended for Service Operati
 
 If the type is Walk-up, you can view the walk-up summary of the interaction record.
 
-You can now view the device health of the user's assets to provide a resolution to the user. Select **Assigned assets** &gt; **View device health**. This option is available only if the DEX plugin\[sn\_dex\] is installed and DEX monitoring is enabled for the asset. For more information on Digital End-User Experience, refer [Digital End-User Experience](../../digital-end-user-experience/concept/dex-landing.md).
+You can now view the device health of the user's assets to provide a resolution to the user. Select **Assigned assets** &gt; **View device health**. This option is available only if the DEX plugin\[sn\_dex\] is installed and DEX monitoring is enabled for the asset. For more information on Digital End-User Experience, refer [Digital End-User Experience](../digital-end-user-experience-dex/dex-landing.md).
 
 </td></tr><tr><td id="d362699e272">
 
@@ -131,7 +131,7 @@ From the contextual side panel, click the templates icon \(![templates icon](../
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+**Parent Topic:**[Interaction Management in Service Operations Workspace](interaction-sow.md)
 
 **Related topics**  
 

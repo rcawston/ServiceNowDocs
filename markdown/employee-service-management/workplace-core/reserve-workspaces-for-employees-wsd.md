@@ -106,5 +106,5 @@ Date and time until which the reservation remains active.
 -   A preconfigured email with the reservation details is sent to the shift owner and the employee for whom you reserved the workplace.
 -   The reservation is added to the list of all reservations that you can view by navigating to **Workplace Core** &gt; **Space Reservations** &gt; **All Reservations**.
 
-**Parent Topic:**[Managing workplace reservations for employees](../concept/managing-workplace-reservations-wsd.md)
+**Parent Topic:**[Managing workplace reservations for employees](managing-workplace-reservations-wsd.md)
 

@@ -66,7 +66,7 @@ Role required: admin
 
 Your skill is configured.
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](configuring-now-assist-km.md)
 
 **Related topics**  
 

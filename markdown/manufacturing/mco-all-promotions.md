@@ -25,18 +25,18 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 3.  On the My Promotion form, fill in the fields.
 
-    For a description of the field values, see [All promotion form](../reference/mco-all-promotion-form.md).
+    For a description of the field values, see [All promotion form](mco-all-promotion-form.md).
 
 4.  Select **Save**.
 
 5.  Select **Create checklist**.
 
-    To learn how to create checklist, see [Create a checklist template](../concept/mco-create-checklist.md).
+    To learn how to create checklist, see [Create a checklist template](mco-create-checklist.md).
 
 6.  Select **Publish**.
 
     **Note:** **Copy** enables you to copy the sales promotion details.
 
 
-**Parent Topic:**[Sales promotion management](../concept/mco-sls-pro-mgmt.md)
+**Parent Topic:**[Sales promotion management](mco-sls-pro-mgmt.md)
 

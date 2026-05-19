@@ -264,7 +264,7 @@ MECM spoke flow action to look up the read operation response from the MECM serv
 
 ## What to do next
 
-After the new metric definition is created, perform the UI configuration for displaying the metric definition on the Investigate tab of the incident record page. You must get the sys\_id of the metric definition and add it to the `sn_sow.SOWInvestigateConfig` script. You can also customize the display of the metric definition, such as the labels, units, and threshold values. For more information, see [Customize the Investigate tab](../concept/customize-the-incident-record-page.md#).
+After the new metric definition is created, perform the UI configuration for displaying the metric definition on the Investigate tab of the incident record page. You must get the sys\_id of the metric definition and add it to the `sn_sow.SOWInvestigateConfig` script. You can also customize the display of the metric definition, such as the labels, units, and threshold values. For more information, see [Customize the Investigate tab](customize-the-incident-record-page.md#).
 
-**Parent Topic:**[Setting up Investigation Framework in Service Operations Workspace](../concept/set-up-investigate.md)
+**Parent Topic:**[Setting up Investigation Framework in Service Operations Workspace](set-up-investigate.md)
 

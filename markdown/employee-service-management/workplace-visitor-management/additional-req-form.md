@@ -102,7 +102,7 @@ Person who is required to fill the information.You can select the host, guest, b
 If you select **None**, the field is considered optional.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Visitor Management references](../concept/workplace-visitor-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Visitor Management references](workplace-visitor-mgmt-references.md)
 
 **Related topics**  
 

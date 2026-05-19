@@ -42,5 +42,5 @@ Role required: sn\_kpi.admin
     The corresponding KPI records and KPI collection tasks are created.
 
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 

@@ -44,7 +44,7 @@ Actions
 1.  In the Variables related list, select **New**.
 2.  On theVariable new record form, fill in the fields.
 
-For a description of the field values, see [Variable new record form](../reference/hs-variable-new-record.md).
+For a description of the field values, see [Variable new record form](hs-variable-new-record.md).
 
 3.  Select **Submit**.
 
@@ -62,5 +62,5 @@ For a description of the field values, see [Variable new record form](../referen
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configure permit-to-work](../concept/hs-configure-permit-to-work.md)
+**Parent Topic:**[Configure permit-to-work](hs-configure-permit-to-work.md)
 

@@ -32,5 +32,5 @@ Role required: admin
 5.  Repeat these steps for each user who needs location tracking.
 
 
-**Parent Topic:**[Location tracking for mobile](../concept/mobile-location-tracking.md)
+**Parent Topic:**[Location tracking for mobile](mobile-location-tracking.md)
 

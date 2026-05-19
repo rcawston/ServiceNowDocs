@@ -60,5 +60,5 @@ Users with the itil role can update comments or work notes in assigned tasks. Wh
 
 Users with the itil role can update the actual start and end time of a change, as well as move it to work in progress or closed states.
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

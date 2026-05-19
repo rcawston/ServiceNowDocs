@@ -44,7 +44,7 @@ Downloading and storing different versions of architectural artifacts helps in m
     The architectural artifact is downloaded to your local drive.
 
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 

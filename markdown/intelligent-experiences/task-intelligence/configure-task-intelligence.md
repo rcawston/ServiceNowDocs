@@ -17,7 +17,7 @@ Configure and install the Task Intelligence Admin Console and its related applic
 
 ## Configuration overview
 
-The Task Intelligence Admin Console is installed along with Task Intelligence for CSM or Task Intelligence for ITSM. See [Install Task Intelligence Admin Console](../task/install-task-intelligence.md) for more details.
+The Task Intelligence Admin Console is installed along with Task Intelligence for CSM or Task Intelligence for ITSM. See [Install Task Intelligence Admin Console](install-task-intelligence.md) for more details.
 
 -   **[Configure Task Intelligence for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/configure-task-intelligence-for-itsm.md)**
 

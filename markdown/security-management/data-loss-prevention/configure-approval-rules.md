@@ -226,7 +226,7 @@ Option to select the approvers. 1.  Users and Groups:
 </table>9.  Select **Submit**.
 
 
-**Parent Topic:**[DLP Incident Response Administration](../concept/data-loss-prevention-administration.md)
+**Parent Topic:**[DLP Incident Response Administration](data-loss-prevention-administration.md)
 
 **Related topics**  
 
@@ -263,13 +263,13 @@ Option to select the approvers. 1.  Users and Groups:
 
 [Create additional incident data fields](create-custom-fields-dlp.md)
 
-[DLP SLA Definition form](../reference/dlp-sla-def-properties.md)
+[DLP SLA Definition form](dlp-sla-def-properties.md)
 
 [Configure advanced settings](configure-advanced-settings-dlp.md)
 
-[Monitor DLP Integration Run process](../../dlp-microsoft/concept/configure-microsoft-dlp-integration-run-process.md)
+[Monitor DLP Integration Run process](configure-microsoft-dlp-integration-run-process.md)
 
-[DLP Incident Access Restrictions](../concept/dlp-incident-access-restrictions.md)
+[DLP Incident Access Restrictions](dlp-incident-access-restrictions.md)
 
 [DLP Incidents Archival](dlp-archiving-rule.md)
 

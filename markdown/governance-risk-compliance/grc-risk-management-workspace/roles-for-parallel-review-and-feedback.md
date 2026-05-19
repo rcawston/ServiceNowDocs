@@ -80,5 +80,5 @@ sn\_risk.reader
 Users with this role have read-access to feedback.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
+</table>**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](integrate-advanced-risk-with-parallel-review-feedback.md)
 

@@ -174,7 +174,7 @@ Validates the Contract Renewal flow with Contract Manager user.
 Tokyo
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../../../product/hardware-asset-management/concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 
 **Related topics**  
 

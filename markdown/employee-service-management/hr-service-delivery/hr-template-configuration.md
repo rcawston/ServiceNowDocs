@@ -17,10 +17,10 @@ HR templates allow you to automatically populate fields on an HR case or task fo
 
 |For|Configure|
 |---|---------|
-|HR service|[Configure an HR case template](../task/configure-hr-case-template.md) to automatically populate fields on the HR case form when a request for that service is made.|
-|HR catalog item|[Edit the HR case template for an HR catalog item](../task/edit-hr-case-template-for-hr-catalog-item.md) to automatically populate fields on the HR case form when a request for that item is made.|
-|HR service activity|[Configure an HR task template](../task/configure-hr-task-template.md) to automatically populate fields on the HR task form when the HR service activity is triggered.|
-|Lifecycle event activity|[Configure an HR task template](../task/configure-hr-task-template.md) to automatically populate fields on the HR task form when the lifecycle event activity is triggered.|
+|HR service|[Configure an HR case template](configure-hr-case-template.md) to automatically populate fields on the HR case form when a request for that service is made.|
+|HR catalog item|[Edit the HR case template for an HR catalog item](edit-hr-case-template-for-hr-catalog-item.md) to automatically populate fields on the HR case form when a request for that item is made.|
+|HR service activity|[Configure an HR task template](configure-hr-task-template.md) to automatically populate fields on the HR task form when the HR service activity is triggered.|
+|Lifecycle event activity|[Configure an HR task template](configure-hr-task-template.md) to automatically populate fields on the HR task form when the lifecycle event activity is triggered.|
 
 **Related topics**  
 

@@ -19,7 +19,7 @@ Depending on the coding language in use, implementation of secure parameters may
 
 ## Secure parameters data flow
 
-1.  Create secure parameters: Define secure parameters in the instance, referencing credentials that need protection \(such as usernames and passwords\). For details, see [Create secure parameters for a check](../task/acc-create-secure-params.md).
+1.  Create secure parameters: Define secure parameters in the instance, referencing credentials that need protection \(such as usernames and passwords\). For details, see [Create secure parameters for a check](acc-create-secure-params.md).
 2.  Configure secure parameters: Set an **Order** value to determine the sequence in which credentials are passed to the standard input.
 3.  Pass credentials: Transfer credentials from the MID Server to the agent, based on the check to which they are assigned. When the check executes, the agent passes the secured parameters to the script using STDIN, in the order specified by the **Order** value configured in the instance.
 4.  Execute the check: Upon execution, the agents send the secure parameters to the script via STDIN, following the specified order.

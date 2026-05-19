@@ -39,5 +39,5 @@ You can use the **Update Resource Aggregates** related link in the following sce
 5.  Select **OK**.
 
 
-**Parent Topic:**[User resources and group resources](../reference/r_UserResourcesAndGroupResources.md)
+**Parent Topic:**[User resources and group resources](r_UserResourcesAndGroupResources.md)
 

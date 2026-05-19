@@ -48,5 +48,5 @@ Role required: admin
     **Note:** You can perform the migration only once.
 
 
-**Parent Topic:**[Admin Center in Service Operations Workspace for ITSM](../concept/admin-center-sow.md)
+**Parent Topic:**[Admin Center in Service Operations Workspace for ITSM](admin-center-sow.md)
 

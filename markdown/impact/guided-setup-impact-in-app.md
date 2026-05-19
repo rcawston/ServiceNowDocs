@@ -40,7 +40,7 @@ Role required: impact app admin, admin
 
 [Use Guided Setup to onboard users to the Impact Store Application](onboard_users_impact_store_application.md)
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](configuring-impact-platform.md)
 
 **Previous topic:**[Install the Impact Store Application from the ServiceNow Store](install-impact-innovation-lab.md)
 

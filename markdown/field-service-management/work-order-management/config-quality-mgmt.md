@@ -18,11 +18,11 @@ Field Service Quality Management allows organizations to review work order tasks
 **Related topics**  
 
 
-[Field Service Quality Management](quality-management-fsm.md)
+[Field Service Quality Management](../quality-management-fsm.md)
 
-[Review a task](../task/review-send-task-back.md)
+[Review a task](review-send-task-back.md)
 
 [Respond to a reviewed work order task](close-wo-wot-mobile.md#)
 
-[Field Service Quality Management components](../reference/quality-mgmt-components.md)
+[Field Service Quality Management components](../quality-mgmt-components.md)
 

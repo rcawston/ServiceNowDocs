@@ -67,7 +67,7 @@ To navigate to the Service Catalog landing page, click **View the Catalog**.
     **Note:** This does not open a new instance of the item, but the instance that is in the wish list, where you can edit the details.
 
 
-**Parent Topic:**[Service Catalog in Service Portal](../concept/catalog-on-portal.md)
+**Parent Topic:**[Service Catalog in Service Portal](catalog-on-portal.md)
 
 **Related topics**  
 

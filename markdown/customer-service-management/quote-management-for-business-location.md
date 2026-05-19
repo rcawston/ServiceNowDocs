@@ -131,5 +131,5 @@ Boolean
 
 [Roles and responsibilities](personas-roles-and-tables-post-integration.md)
 
-[Activate Quote Management for Business Locations](../task/activate-quote-management-for-business-locations.md)
+[Activate Quote Management for Business Locations](activate-quote-management-for-business-locations.md)
 

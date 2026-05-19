@@ -34,7 +34,7 @@ Administrators must install the required applications, configure the agent in AI
 4.  [Activate the Now Assist Panel- Platform \(default\) assistant](configure-ui-builder-agent.md#)
 
 
-**Parent Topic:**[Configuring UI generation](../concept/configuring-ui-generation.md)
+**Parent Topic:**[Configuring UI generation](configuring-ui-generation.md)
 
 ## Install required applications for UI Builder Agent
 

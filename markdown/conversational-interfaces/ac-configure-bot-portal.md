@@ -137,5 +137,5 @@ Your end users can initiate and maintain an Agent Chat or Virtual Agent conversa
     In Service Portal, you can customize the Agent Chat button and pass page data to Agent Chat. For more information, see [Configure Agent Chat in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-va-in-sp.md).
 
 
-**Parent Topic:**[General chat settings](../concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](ci-configuring-chat-features.md)
 

@@ -17,7 +17,7 @@ Create a product workload mapping for your CrowdStrike products for accurately a
 
 ## Before you begin
 
-You must create a CrowdStrike integration profile before creating a workload mapping. For more information, see [Integrating with CrowdStrike](../concept/integrate-with-crowdstrike.md#).
+You must create a CrowdStrike integration profile before creating a workload mapping. For more information, see [Integrating with CrowdStrike](../saas-license-management/integrate-with-crowdstrike.md#).
 
 Role required: sam\_admin or sam\_integrator
 
@@ -91,10 +91,10 @@ License metric for the selected software model.-   **Reserved Hourly Average Sen
 
 The mapping that you have created appears in the CrowdStrike product workload mapping list.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 
 **Related topics**  
 
 
-[Integrating with CrowdStrike](../concept/integrate-with-crowdstrike.md#)
+[Integrating with CrowdStrike](../saas-license-management/integrate-with-crowdstrike.md#)
 

@@ -36,5 +36,5 @@ Addressing gaps helps reduce repeated incidents, improves self-service, and prom
 **Related topics**  
 
 
-[Configure Now Assist Skills for potential gaps](../../knowledge-management/task/configure-na-km.md)
+[Configure Now Assist Skills for potential gaps](now-assist-in-knowledge-management/configure-na-km.md)
 

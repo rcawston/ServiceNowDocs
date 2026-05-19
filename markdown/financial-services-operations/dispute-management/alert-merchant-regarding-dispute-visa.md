@@ -19,7 +19,7 @@ Alert the merchant about a Visa card transaction dispute.
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -66,5 +66,5 @@ The task state updates to Closed Complete. The outcome that the transaction sets
 -   If the merchant resolves the dispute with the customer directly, the transaction moves to a Closed complete outcome.
 -   If the merchant declines to resolve the dispute with the customer, the transaction dispute remains in the Work in progress state, and continues through the dispute process workflow stages.
 
-**Parent Topic:**[Investigate stage](../concept/investigate-stage.md)
+**Parent Topic:**[Investigate stage](investigate-stage.md)
 

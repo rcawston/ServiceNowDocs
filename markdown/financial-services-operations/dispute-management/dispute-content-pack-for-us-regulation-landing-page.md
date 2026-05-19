@@ -30,7 +30,7 @@ The Dispute Content Pack for US Regulations application can help you do the foll
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration](../task/configuring-the-dispute-content-pack-for-us-regulation.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration](configuring-the-dispute-content-pack-for-us-regulation.md)
 
 </td></tr><tr><td>
 
@@ -55,14 +55,14 @@ Before you can use Dispute Content Pack for US Regulations, you must first downl
 
 -   **[Exploring the Dispute Content Pack for US Regulations](exploring-dispute-content-pack-for-us-regulation.md)**  
 Learn how the Dispute Content Pack for US Regulations application streamlines the dispute resolution process under United States \(US\) regulatory guidelines, including Regulation E \(Reg E\) and Regulation Z \(Reg Z\).
--   **[Install the Dispute Content Pack for US Regulations](../task/install-the-dispute-content-pack-for-us-regulations.md)**  
+-   **[Install the Dispute Content Pack for US Regulations](install-the-dispute-content-pack-for-us-regulations.md)**  
 If you have the admin role, you can install the Dispute Content Pack for US Regulations application.
--   **[Configuring the Dispute Content Pack for US Regulations](../task/configuring-the-dispute-content-pack-for-us-regulation.md)**  
+-   **[Configuring the Dispute Content Pack for US Regulations](configuring-the-dispute-content-pack-for-us-regulation.md)**  
 You can set up your implementation of the Dispute Content Pack for US Regulations application by installing the application from the ServiceNow Store.
 -   **[Using the Dispute Content Pack for US Regulations](using-the-dispute-content-pack-for-us-regulation.md)**  
 Dispute agents use the Dispute Content Pack for US Regulations to track the dispute cases that are governed by United States \(US\) Regulations \(Reg E and Reg Z\) and ensure they are in conformance with the regulatory guidance. This application provides the required Service Level Agreement \(SLA\) definitions and provide details to the dispute manager to monitor and take necessary actions.
 -   **[Dispute Content Pack for US Regulations reference](dispute-content-pack-for-us-regulation-reference.md)**  
 Learn about the components and properties that are installed with the Dispute Content Pack for US Regulations application.
 
-**Parent Topic:**[Dispute Management](../../fso-card-operations/concept/dispute-management.md)
+**Parent Topic:**[Dispute Management](dispute-management.md)
 

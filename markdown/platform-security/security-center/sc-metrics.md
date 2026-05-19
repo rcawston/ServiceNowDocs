@@ -37,9 +37,9 @@ Each category displays a dashboard similar to the security **My metrics dashboar
 
 ![Dashboard for the data classification category](../images/sc-metrics-example.png)
 
--   **[Customize the My security metrics dashboard](../task/customize-my-security-metrics-dashboard.md)**  
+-   **[Customize the My security metrics dashboard](customize-my-security-metrics-dashboard.md)**  
 Discover the flexibility of the My security metrics dashboard, which can be customized with metrics from various sources like graphs and charts. Tailor the dashboard to suit your organization's specific requirements.
--   **[Configure Security Metrics to send email when thresholds are triggered](../task/configure-security-metrics-to-send-emails-for-thresholds.md)**  
+-   **[Configure Security Metrics to send email when thresholds are triggered](configure-security-metrics-to-send-emails-for-thresholds.md)**  
 Learn how to configure Security Metrics so that your instance generates an email notification when a threshold is triggered.
 -   **[All Security Metrics](all-security-metrics.md)**  
 Navigate to **All Security Metrics** to view a table with the data related to the Security Metrics of your instance.

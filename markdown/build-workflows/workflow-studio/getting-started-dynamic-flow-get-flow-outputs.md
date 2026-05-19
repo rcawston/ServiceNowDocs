@@ -66,7 +66,7 @@ To understand how to use the Dynamic Flow and Get Flow Outputs flow logic togeth
 9.  Select **Start** &gt; **Create** &gt; **Done with apps** to finish creating your application.
 
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 
 ## Create a subflow template
 
@@ -122,7 +122,7 @@ Role required: flow\_designer or admin
 
 2.  On the Copy Subflow screen, enter `Create Cloud Instance Record - Jira` in the **New Subflow Name** field, and then select **Copy**.
 
-3.  Under the **Log** action, add a [Create Record action](../reference/create-record-flow-designer.md).
+3.  Under the **Log** action, add a [Create Record action](create-record-flow-designer.md).
 
 4.  In the **Table Name** field, select `Cloud Instance` and then fill in the following fields.
 
@@ -202,7 +202,7 @@ Role required: flow\_designer or admin
 
 8.  For **Context**, select the data pill picker \(![Data pill picker](../images/data_pill_picker.png)\) and select **1 - Dynamic Flow -** &gt; **Context**.
 
-9.  Under your **Get Flow Outputs** flow logic, select the plus icon \(![Plus icon](../images/plus-icon-gray.png)\) and then select **Action** &gt; **Update Record** to add an [Update Record action](../reference/update-record-flow-designer.md) to your flow.
+9.  Under your **Get Flow Outputs** flow logic, select the plus icon \(![Plus icon](../images/plus-icon-gray.png)\) and then select **Action** &gt; **Update Record** to add an [Update Record action](update-record-flow-designer.md) to your flow.
 
 10. Fill in the following fields.
 

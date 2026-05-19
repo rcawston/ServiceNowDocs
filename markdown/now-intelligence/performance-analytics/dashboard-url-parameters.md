@@ -59,7 +59,7 @@ The sysparm\_group URL system parameter enables you to include a single dashboar
     Indicates whether the editing panel can be visible.
 
 
-**Parent Topic:**[Administering dashboards](../concept/c_DashboardAdministration.md)
+**Parent Topic:**[Administering dashboards](c_DashboardAdministration.md)
 
 ## Dashboards overview URL parameter
 

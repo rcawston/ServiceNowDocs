@@ -106,7 +106,7 @@ Steps
 -   When legal request is promoted by adding to an existing matter, the Privileged and Confidential status of the existing matter is retained irrespective of the Privileged and Confidential status of the request.
 -   You \(a legal fulfiller or a collaborator\) will be added in the **Watch list** of the legal matter to access it.
 -   If you selected a matter template, then the matter has predefined phases, tasks, and attributes from the template.
--   If the external storage option is enabled, the documents attached to the legal request and stored in the configured external storage are listed under the **Documents** tab of the [legal matter's Artifact record](../../legal-matter-management/task/add-artifact-to-legal-matter.md).
+-   If the external storage option is enabled, the documents attached to the legal request and stored in the configured external storage are listed under the **Documents** tab of the [legal matter's Artifact record](../legal-matter-management/add-artifact-to-legal-matter.md).
 
     **Note:** Since the documents in the artifact created from the requests are shared, the addition or deletion of any documents in this shared artifact is reflected in both request and matter. Also, the document permission for this shared artifact is managed at the legal request level and not at the legal matter level.
 

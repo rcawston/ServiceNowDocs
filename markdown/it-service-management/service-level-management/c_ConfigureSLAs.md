@@ -15,7 +15,7 @@ breadcrumb: [Configuring Service Level Management, Service Level Management, IT 
 
 Configure SLAs to define a set amount of time for a task to reach a certain condition, to ensure that incidents are closed or resolved according to the expectations set for customers.
 
-For more information on required roles and plugins, see [Installed with Service Level Management](../reference/r_InstalledWithServiceLevelMgmt.md#).
+For more information on required roles and plugins, see [Installed with Service Level Management](r_InstalledWithServiceLevelMgmt.md#).
 
 -   **[Service Level Agreement \(SLA\) definition](c_SLADefinitions.md)**  
 An SLA definition is used to create and progress SLAs, enabling you to use an SLA system for your organization's tasks.

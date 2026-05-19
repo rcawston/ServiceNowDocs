@@ -41,11 +41,11 @@ The Business Continuity Management application provides these benefits:
 |-------|-------|-----|
 |Manage continuity activities in an interactive dashboard.|[Home page view](home-page-uib-ws.md)|BCM program manager|
 |Monitor individual and team tasks from a single dashboard in the **My tasks** view.|[My tasks page view](my-tasks-page-uib-ws.md)|BCM program manager|
-|Assess the criticality of services and applications.|[Create a business impact analysis](../task/create-bia-in-uib-ws.md)|BCM program manager or BIA administrator|
-|Prepare a business continuity plan with a response strategy and request approvals from BCM leads and program managers.|[Create a business continuity plan](../task/create-bcp-plan-in-uib-ws.md)|BCM program manager or BCP administrator|
-|Test and improve business continuity plan continuously.|[Create an exercise](../task/start-exercise-event-in-uib-ws.md)|BCM program manager or BCM planner|
-|Respond to actual crisis events and manage associated event tasks.|[Start a crisis event](../task/start-crisis-event-in-uib-ws.md)|BCM program manager or BCM planner|
-|Respond to the alerts and set recovery tasks into action.|[Manage alerts from the map interface](../task/manage-alerts-in-crisis-map-interface-uib-ws.md)|BCM administrator or BCM program manager|
+|Assess the criticality of services and applications.|[Create a business impact analysis](create-bia-in-uib-ws.md)|BCM program manager or BIA administrator|
+|Prepare a business continuity plan with a response strategy and request approvals from BCM leads and program managers.|[Create a business continuity plan](create-bcp-plan-in-uib-ws.md)|BCM program manager or BCP administrator|
+|Test and improve business continuity plan continuously.|[Create an exercise](start-exercise-event-in-uib-ws.md)|BCM program manager or BCM planner|
+|Respond to actual crisis events and manage associated event tasks.|[Start a crisis event](start-crisis-event-in-uib-ws.md)|BCM program manager or BCM planner|
+|Respond to the alerts and set recovery tasks into action.|[Manage alerts from the map interface](manage-alerts-in-crisis-map-interface-uib-ws.md)|BCM administrator or BCM program manager|
 |Communicate critical updates to stakeholders.|[Sending notifications with Everbridge](ebn-collective-tasks.md)|BCM administrator or BCM program manager|
 
 ## Coral theme

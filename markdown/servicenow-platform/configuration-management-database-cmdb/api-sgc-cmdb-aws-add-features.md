@@ -17,11 +17,11 @@ Use the additional features available within the API Service Graph Connector for
 
 The following features are available within the API Service Graph Connector for AWS API Gateway:
 
--   **[Set partition size for AWS API Gateway accounts](../task/api-sgc-aws-partition-size-prop.md)**
+-   **[Set partition size for AWS API Gateway accounts](api-sgc-aws-partition-size-prop.md)**
 
     Optimize the performance of parallel-loading supported data sources by configuring the partition size setting in the **PartitionSize** connection property.
 
--   **[Set page size for AWS API Gateway accounts](../task/api-sgc-aws-page-size-prop.md)**
+-   **[Set page size for AWS API Gateway accounts](api-sgc-aws-page-size-prop.md)**
 
     Control the number of records fetched per API call by setting the **PageSize** connection property.
 

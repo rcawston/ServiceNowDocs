@@ -26,19 +26,19 @@ The following end-to-end workflow shows how agile teams use CWM to plan and exec
 
 -   **Set up your workspace**
 
-    Create a Space and a Board for your team. The Space is where all your work lives. CWM provides Stories, Scrum tasks, and CWM Tasks as default work item types. You can also define custom work item types to reflect your team's terminology, for example, Bugs. For more information, see [Create a Board in CWM](../task/create-boards-in-cwm.md) and [Create and manage custom work item types in CWM](../task/create-custom-work-item-types-in-cwm.md).
+    Create a Space and a Board for your team. The Space is where all your work lives. CWM provides Stories, Scrum tasks, and CWM Tasks as default work item types. You can also define custom work item types to reflect your team's terminology, for example, Bugs. For more information, see [Create a Board in CWM](create-boards-in-cwm.md) and [Create and manage custom work item types in CWM](create-custom-work-item-types-in-cwm.md).
 
 -   **Build and maintain your backlog**
 
-    Add work items to your Board through the Sprint Planning view. All unscheduled work appears in the Backlog pane, giving your team a single place to groom, prioritize, and reorder items before pulling them into a sprint. For more information, see [Add work items to Sprint planning Backlog in CWM](../task/add-work-items-to-sprint-planning-backlog-in-cwm.md).
+    Add work items to your Board through the Sprint Planning view. All unscheduled work appears in the Backlog pane, giving your team a single place to groom, prioritize, and reorder items before pulling them into a sprint. For more information, see [Add work items to Sprint planning Backlog in CWM](add-work-items-to-sprint-planning-backlog-in-cwm.md).
 
 -   **Plan sprints**
 
-    Create sprints by setting a duration, start and end dates, and story point capacity. Drag items from the Backlog into a sprint, or add them directly. Capacity indicators in each sprint section help teams avoid over-committing. For more information, see [Create a sprint in CWM](../task/create-sprints-in-cwm.md) and [Plan work items into sprints in CWM](../task/plan-work-items-into-sprints-in-cwm.md).
+    Create sprints by setting a duration, start and end dates, and story point capacity. Drag items from the Backlog into a sprint, or add them directly. Capacity indicators in each sprint section help teams avoid over-committing. For more information, see [Create a sprint in CWM](create-sprints-in-cwm.md) and [Plan work items into sprints in CWM](plan-work-items-into-sprints-in-cwm.md).
 
 -   **Execute and track work**
 
-    Start the sprint and use the Kanban board to track work in progress. Team members move story cards across state lanes to update status. Use quick filters to focus the board on a specific sprint, state, or other columns to stay on top of what matters during the current sprint. For more information, see [Start or complete a sprint in CWM](../task/start-a-sprint-in-cwm.md).
+    Start the sprint and use the Kanban board to track work in progress. Team members move story cards across state lanes to update status. Use quick filters to focus the board on a specific sprint, state, or other columns to stay on top of what matters during the current sprint. For more information, see [Start or complete a sprint in CWM](start-a-sprint-in-cwm.md).
 
 -   **Break stories into scrum tasks**
 
@@ -50,7 +50,7 @@ The following end-to-end workflow shows how agile teams use CWM to plan and exec
 
 -   **Hold retrospectives**
 
-    At the end of each sprint, create a retrospective board to capture what went well and what to improve for the next sprint. For more information, see [Create a retrospective board for a sprint in CWM](../task/create-a-retrospective-board-for-sprint-cwm.md).
+    At the end of each sprint, create a retrospective board to capture what went well and what to improve for the next sprint. For more information, see [Create a retrospective board for a sprint in CWM](create-a-retrospective-board-for-sprint-cwm.md).
 
 
 ## Bringing in work from other ServiceNow applications

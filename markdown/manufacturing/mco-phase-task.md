@@ -25,7 +25,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 3.  On the Phase task form, fill in the fields.
 
-    For a description of the field values, see [Phase task form](../reference/mco-phase-task-form.md).
+    For a description of the field values, see [Phase task form](mco-phase-task-form.md).
 
 4.  Select **Submit**.
 

@@ -28,5 +28,5 @@ Role required: sam\_admin or sam\_user
 3.  Select a user record to view additional details related to the user.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

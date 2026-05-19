@@ -33,12 +33,12 @@ Role required: business\_process\_manager or asset or itil or sn\_apm.apm\_user
     -   To update details of an existing business process, select the business process.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create business process form](../../reference/eaw-reference/eaw-business-process-form.md).
+    For field information, see [Create business process form](eaw-business-process-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage business processes](../../concept/eaw-concept/eaw-manage-business-processes.md)
+**Parent Topic:**[Manage business processes](eaw-manage-business-processes.md)
 
 **Related topics**  
 

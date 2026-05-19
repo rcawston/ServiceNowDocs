@@ -17,5 +17,5 @@ A property called One-step checkout redirect \(**glide.vm.checkout\_redirect**\)
 
 By default, this property is set to **false**, which redirects the view to the Order Status form when the requester clicks **Order Now**. When this property is set to **true**, ServiceNow redirects the requester to their My Virtual Assets portal. This property is located in **Cloud Management** &gt; **Administration** &gt; **Properties**.
 
-**Parent Topic:**[Service catalog requests](../topic/p_ServiceCatalogRequests.md)
+**Parent Topic:**[Service catalog requests](p_ServiceCatalogRequests.md)
 

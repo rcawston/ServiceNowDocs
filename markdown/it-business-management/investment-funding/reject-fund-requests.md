@@ -38,5 +38,5 @@ Role required: sn\_invst\_pln\_v2.investment\_user
 7.  Select an investment, and click **Clear** from the**Allocate Funds** drop-down list to remove the planning state funding requests that are for past funding periods or non-editable funding periods from your list.
 
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

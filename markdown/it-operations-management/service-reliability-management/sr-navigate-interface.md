@@ -79,9 +79,9 @@ That action disables it across the Service Operations Workspace, not just SRM.
 </td></tr></tbody>
 </table>-   **[Search, filters, lists, forms, and guides](sr-visualize-content.md)**  
 An overview of the additional elements in the Service Reliability Management \(SRM\) interface that help you find items, view available forms and lists, and follow setup processes.
--   **[Export list information to a file](../task/sr-export-to-file.md)**  
+-   **[Export list information to a file](sr-export-to-file.md)**  
 You can export live information to a file in Service Reliability Management \(SRM\).
--   **[Manually create SRM tags](../task/sr-create-tags.md)**  
+-   **[Manually create SRM tags](sr-create-tags.md)**  
 Add tags to classify, categorize, and add context to data. Service Reliability Management \(SRM\) imports tags and attaches them to services, alerts, and incidents. You can also manually create tags.
 
 **Parent Topic:**[Get started with Service Reliability Management](sr-get-started.md)

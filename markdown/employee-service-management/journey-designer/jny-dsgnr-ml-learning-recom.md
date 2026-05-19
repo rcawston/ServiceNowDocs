@@ -21,11 +21,11 @@ The recommendations are based on the courses taken by similar employees with the
 -   Recommended external courses are only available for the designated duration of the course.
 -   Recommended learning courses are accessible to managers and mentors that have **Can add recommended learning** permission in a journey configuration. Managers and mentors can add courses only as recommendations to an individual journey from the Employee Center. See, [Display learning recommendations to the Manager creating a journey](jny-dsgnr-learning-recom-manager-ml.md).
 
--   **[Add or modify recommended learning in Journey designer](../task/jny-dsgnr-config-reco-lrnng.md)**  
+-   **[Add or modify recommended learning in Journey designer](jny-dsgnr-config-reco-lrnng.md)**  
 Configure and manage recommended learning for employee journeys.
--   **[Delete recommended learning in the Journey designer app](../task/jny-dsgnr-delete-reco-learning-admin.md)**  
+-   **[Delete recommended learning in the Journey designer app](jny-dsgnr-delete-reco-learning-admin.md)**  
 Delete recommended learning for employee journey configurations.
--   **[Configure a solution definition for the journey recommendations](../task/ml-jny-recom-sol-def.md)**  
+-   **[Configure a solution definition for the journey recommendations](ml-jny-recom-sol-def.md)**  
 Configure a solution definition to display learning recommendation to users with similar journeys.
 
 **Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)

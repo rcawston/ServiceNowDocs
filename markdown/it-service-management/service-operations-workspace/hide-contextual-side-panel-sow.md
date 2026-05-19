@@ -44,5 +44,5 @@ Role required: admin
     ![Hide contextual sidepanel UX property](../image/hide-contextual-sidepanel-ux-property-sow.png)
 
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](../concept/configuring-sow-to-improve-experience.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](configuring-sow-to-improve-experience.md)
 

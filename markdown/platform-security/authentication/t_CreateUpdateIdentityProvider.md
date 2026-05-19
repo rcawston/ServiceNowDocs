@@ -46,6 +46,6 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 5.  If E-Signature is active, configure the Identity Provider form and add the **Assertion Consumer URL for eSignature authentication** field.
 
-    In most cases, this URL is: `https://YOURINSTANCE.service-now.com/consumer.do`. However, if you employ a customized method of handling the SAML authentication for E-Signature, you can set up your own consumer URL. If you are only using SAML 2.0 Update 1 and not using Multi-Provider Single Sign-on, configure the assertion consumer URL with [E-signature SAML properties](../../saml/concept/c_AddingSupportForESignature.md).
+    In most cases, this URL is: `https://YOURINSTANCE.service-now.com/consumer.do`. However, if you employ a customized method of handling the SAML authentication for E-Signature, you can set up your own consumer URL. If you are only using SAML 2.0 Update 1 and not using Multi-Provider Single Sign-on, configure the assertion consumer URL with [E-signature SAML properties](c_AddingSupportForESignature.md).
 
 

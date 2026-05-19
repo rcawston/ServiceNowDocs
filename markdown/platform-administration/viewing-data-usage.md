@@ -15,7 +15,7 @@ View a summary of storage consumption and analyze data usage on your current ins
 
 ## Overview of analyzing data usage
 
--   [Monitor cloud capacity in Subscription Management](../../subscription-management/concept/monitoring-cloud-entitlements.md)
+-   [Monitor cloud capacity in Subscription Management](monitoring-cloud-entitlements.md)
 
     View a summary of your cloud storage entitlements and track storage capacity across all the instances associated with your account in Subscription Management.
 

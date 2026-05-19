@@ -30,7 +30,7 @@ You can set a location as favorite from any one of the following locations in th
 
 After you set a workplace location as your favorite, you can directly reserve that location from the My favorites page on the Employee Center.
 
-**Note:** For more information about the derivation logic used by Workplace Reservation Management on the Space details page to assign reservable modules, see [Reservable module derivation logic for Space details](../concept/reservation-logic-for-myfavorites-space-details.md).
+**Note:** For more information about the derivation logic used by Workplace Reservation Management on the Space details page to assign reservable modules, see [Reservable module derivation logic for Space details](reservation-logic-for-myfavorites-space-details.md).
 
 ## Procedure
 
@@ -69,7 +69,7 @@ After you set a workplace location as your favorite, you can directly reserve th
 
 11. Review the Reservation details page.
 
-    For more information about Reservation details page, see [Create a reservation](create-reservation-request-1.md)
+    For more information about Reservation details page, see [Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 12. Submit your Reservation.
 
@@ -119,12 +119,12 @@ After you set a workplace location as your favorite, you can directly reserve th
 
 The location is added to your favorites list.
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -138,7 +138,7 @@ The location is added to your favorites list.
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

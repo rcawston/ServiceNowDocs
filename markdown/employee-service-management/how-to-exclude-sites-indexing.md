@@ -25,7 +25,7 @@ Role required: AI search administrator
 
 2.  Click **New**.
 
-3.  Follow the instructions [Index sites for search](../concept/sharepoint-how-to-configure-search.md).
+3.  Follow the instructions [Index sites for search](sharepoint-how-to-configure-search.md).
 
 4.  Specify the URLs list in the **Exclude Subsites** field.
 

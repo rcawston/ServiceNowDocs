@@ -51,29 +51,29 @@ If the test suite contains one or more form steps \(steps involving a user inter
 
 **Note:** See [Browser recommendations and requirements](atf-test-runners.md#kvv_h25_gx) for recommendations and requirements for running the client test runner.
 
-For step-by-step instructions on how to schedule a test suite, see [Schedule an automated test suite](../task/atf-sched-suite-steps.md).
+For step-by-step instructions on how to schedule a test suite, see [Schedule an automated test suite](atf-sched-suite-steps.md).
 
 ## Filters
 
 Automate the creation of test suites by using a filter to dynamically add tests to a test suite when they match the filter conditions. Reduce the time that your test designers spend manually creating and maintaining test suites.
 
--   **[Create an automated test suite](../task/atf-create-suite.md)**  
+-   **[Create an automated test suite](atf-create-suite.md)**  
 Group automated tests into a suite you can execute as a batch.
--   **[Copy an automated test suite](../task/atf-copy-test-suite.md)**  
+-   **[Copy an automated test suite](atf-copy-test-suite.md)**  
 Reduce time when creating tests by copying an entire test suite. Rename and modify the test suite after copying. The **Copy Test Suite** button on the Test Suite form copies all the nested tests and child test suites within the text suite.
--   **[Add tests to a suite with a filter](../task/add-tests-suite-filter.md)**  
+-   **[Add tests to a suite with a filter](add-tests-suite-filter.md)**  
 Automate the creation of test suites by using a filter to dynamically add tests to a test suite when they match the filter conditions. Reduce the time that your test designers spend manually creating and maintaining test suites.
--   **[Add test to an existing automated test suite](../task/atf-add-test-to-suite.md)**  
+-   **[Add test to an existing automated test suite](atf-add-test-to-suite.md)**  
 Add a test to a test suite that already exists.
--   **[Add child test suite to parent test suite](../task/atf-add-child-suite.md)**  
+-   **[Add child test suite to parent test suite](atf-add-child-suite.md)**  
 Add to a multi-level test suite by including a child test suite within a parent test suite.
--   **[Run an automated test suite](../task/atf-run-suite.md)**  
+-   **[Run an automated test suite](atf-run-suite.md)**  
 After creating an automated test suite, run it in a non-production instance.
--   **[Schedule an automated test suite](../task/atf-sched-suite-steps.md)**  
+-   **[Schedule an automated test suite](atf-sched-suite-steps.md)**  
 Schedule one or more test suites to run at a specific date and time.
 -   **[Run a scheduled test suite using a script](run-scheduled-test-suite-script.md)**  
 Execute a scheduled UI test suite immediately using a script without having to wait for the scheduled time. You can use this method while trying to automate the process of running a test.
--   **[Re-run failed tests in an automated test suite](../task/atf-rerun-tests.md)**  
+-   **[Re-run failed tests in an automated test suite](atf-rerun-tests.md)**  
 Re-run failed tests within a test suite without rerunning the entire suite.
 
 **Parent Topic:**[Automated Test Framework \(ATF\) test building and execution](atf-test-build-execution.md)
@@ -83,11 +83,11 @@ Re-run failed tests within a test suite without rerunning the entire suite.
 
 [Building and running automated tests with the Automated Test Framework](atf-build-overview.md)
 
-[Auto-generate ATF tests](../task/atf-auto-generate-tests.md)
+[Auto-generate ATF tests](atf-auto-generate-tests.md)
 
 [Cancelling automated tests and test suites](atf-cancelling.md#)
 
 [Suites](suites-module.md)
 
-[Step results record](../reference/atf-step-result-record.md)
+[Step results record](atf-step-result-record.md)
 

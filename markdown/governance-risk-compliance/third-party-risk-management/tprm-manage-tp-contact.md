@@ -104,6 +104,6 @@ Send an email with a link for resetting a third-party contact's password by sele
 </td></tr></tbody>
 </table>4.  Select **Update**.
 
-    **Note:** For more information on setting up third-party contacts, see [Set up third-party contacts](../../grc-vendor-risk-implementation/task/tprm-tp-contact-config.md) and [Enable email with third-party contacts](../../grc-vendor-risk-implementation/task/set_sys_props_for_email.md).
+    **Note:** For more information on setting up third-party contacts, see [Set up third-party contacts](tprm-tp-contact-config.md) and [Enable email with third-party contacts](set_sys_props_for_email.md).
 
 

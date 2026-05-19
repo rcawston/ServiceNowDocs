@@ -46,5 +46,5 @@ This task involves exporting an index suggestion as an .xml file from your produ
 6.  To continue the index evaluation process on your non-production instance, you can [schedule the index suggestion for creation](create-index-slowquery.md) and [test index performance](test-index-performance.md).
 
 
-**Parent Topic:**[Resolving slow queries](../concept/resolving-slow-queries.md)
+**Parent Topic:**[Resolving slow queries](resolving-slow-queries.md)
 

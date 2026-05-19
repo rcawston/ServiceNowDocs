@@ -15,7 +15,7 @@ breadcrumb: [Exploring Hardware Asset Management, Hardware Asset Management, IT 
 
 Return Merchandise Authorization \(RMA\) is an agreement between a buyer and seller that lets the buyer return or replace a faulty product. The Asset RMA Order catalog item has prescriptive flows to streamline the RMA process.
 
-An RMA request has RMA request lines. When an RMA request is submitted, an RMA request line is created for each asset and consumable that was selected. You can view a list of all the open RMA request lines in the Hardware Asset Dashboard. For details, see [Hardware Asset dashboard](../../../use/dashboards/application-content-packs/hardware-asset-content-pack.md#).
+An RMA request has RMA request lines. When an RMA request is submitted, an RMA request line is created for each asset and consumable that was selected. You can view a list of all the open RMA request lines in the Hardware Asset Dashboard. For details, see [Hardware Asset dashboard](hardware-asset-content-pack.md#).
 
 ## Workflow for Return Merchandise Authorization
 

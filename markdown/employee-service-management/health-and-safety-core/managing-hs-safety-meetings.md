@@ -22,12 +22,12 @@ Safety meeting management provides the safety team and safety meeting manager wi
 -   Log meeting minutes and actions.
 -   Flag meetings and minutes as sensitive.
 
--   **[Log a safety meeting](../task/log-hs-safety-meeting.md)**  
+-   **[Log a safety meeting](log-hs-safety-meeting.md)**  
 Log a safety meeting and keep a track of it in the Health and Safety application.
--   **[Add attendees to a safety meeting](../task/add-attendees-safety-meeting.md)**  
+-   **[Add attendees to a safety meeting](add-attendees-safety-meeting.md)**  
 Add users to a safety meeting who need to attend this meeting.
--   **[Create a meeting minute for a safety meeting](../task/create-meeting-minute-hs-safety-meeting.md)**  
+-   **[Create a meeting minute for a safety meeting](create-meeting-minute-hs-safety-meeting.md)**  
 Create a meeting minute for a safety meeting to track discussions and accountability.
 
-**Parent Topic:**[Using Health and Safety Core](../../hs-core/concept/using-hs-core.md)
+**Parent Topic:**[Using Health and Safety Core](using-hs-core.md)
 

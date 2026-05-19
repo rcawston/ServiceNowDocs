@@ -17,7 +17,7 @@ Make a form update based on how users answer a question using dynamic behavior. 
 
 ## Before you begin
 
-You must name the form before you can add [dynamic behavior](../concept/creator-studio-glossary.md#) to it.
+You must name the form before you can add [dynamic behavior](creator-studio-glossary.md#) to it.
 
 To add dynamic behavior to a form, you must be given permission to work on the app.
 
@@ -97,5 +97,5 @@ The question appears with a dynamic icon ![](../image/crs-dynamic-indicator.png)
 
 The dynamic behavior appears in a card on the **Behavior** tab of the settings panel. You can select the card at any time to view or edit its details, or select the **Add behavior** button to add another dynamic behavior.
 
-**Parent Topic:**[Working with forms in Creator Studio](../concept/creator-studio-work-with-forms.md)
+**Parent Topic:**[Working with forms in Creator Studio](creator-studio-work-with-forms.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_prm.enterprise\_partner\_rel\_manager or sn\_prm.enterprise\_
 
     You can view all the information related to cases, child channel partners, sold products, or install base items associated with the channel partner.
 
-    To learn more about the components on the channel partner record, see [Channel Partner components on workspace](../reference/channel-partner-components.md).
+    To learn more about the components on the channel partner record, see [Channel Partner components on workspace](channel-partner-components.md).
 
 
 **Parent Topic:**[Create Channel Partner record](create-channel-partner-record.md)

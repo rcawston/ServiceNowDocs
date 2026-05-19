@@ -29,7 +29,7 @@ Role required: it\_demand\_manager
 
 4.  On the Decision form, fill in the fields.
 
-    For a description of the field names, see [Decision form](../reference/decision-form.md).
+    For a description of the field names, see [Decision form](decision-form.md).
 
 5.  Search in the knowledge base for any article related to the decision.
 
@@ -49,5 +49,5 @@ Role required: it\_demand\_manager
 -   Convert a decision to an action or request change and close the decision. For more information, see [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a demand](convert-ridac-for-demand.md).
 -   Associate the decision with your existing issues and risks so you can track dependencies and recognize trends for the future. For more information, see [Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](reassociate-ridac-demand.md).
 
-**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 

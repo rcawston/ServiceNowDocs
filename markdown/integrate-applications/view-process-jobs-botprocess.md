@@ -16,7 +16,7 @@ View a list of execution logs of a bot process in RPA Hub.
 
 ## Before you begin
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager, sn\_rpa\_fdn.rpa\_support\_user, sn\_rpa\_fdn.rpa\_developer, sn\_rpa\_fdn.rpa\_business\_user, or sn\_rpa\_fdn.rpa\_admin
 
@@ -43,7 +43,7 @@ A process job represents the execution of a bot process on a robot.
 7.  In the Automation Logs tab, view the details.
 
 
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)
 
 ## Process job form in RPA Hub
 
@@ -116,7 +116,7 @@ Source of the trigger.-   **Schedule**- If the automation is triggered via a sch
 -   **Manual**- If the attended automation is triggered by a user or if the unattended automation is triggered by **Start Process**.
 -   **Embedded Task Automation**- If the attended automation is triggered from the ServiceNow form.
 
-For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md).
+For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md).
 
 
 </td></tr><tr><td>

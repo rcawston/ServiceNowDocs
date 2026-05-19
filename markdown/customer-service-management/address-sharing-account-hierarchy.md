@@ -46,7 +46,7 @@ Role required: One of the following roles:
 **Related topics**  
 
 
-[Reusing addresses between multiple accounts](../concept/reuse-account-addresses.md)
+[Reusing addresses between multiple accounts](reuse-account-addresses.md)
 
 [Share an address through non-related accounts](address-sharing-non-related-accounts.md)
 

@@ -38,5 +38,5 @@ For example, a group of 100 pre-allocated computers is in Stockroom A. Split the
     The pre-allocated asset is split into two groups and the **Quantity** field on each record indicates the number in each group.
 
 
-**Parent Topic:**[Manage pre-allocated assets](../../hardware-asset-management/concept/manage-preallocated-asset.md)
+**Parent Topic:**[Manage pre-allocated assets](manage-preallocated-asset.md)
 

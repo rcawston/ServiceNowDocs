@@ -23,7 +23,7 @@ Role required: sn\_vulc.admin
 
 The value of the system property **sn\_vulc.flow\_designer\_activation** is set to true. This means that the flow designer is activated by default.
 
-**Note:** You cannot revert to using the workflow after activating the flow designer. For a detailed comparison between the workflow and flow designer, see [Exception management workflow versus flow designer in Configuration Compliance](../reference/cc-ex-mgt-flow-designer-vs-workflow.md).
+**Note:** You cannot revert to using the workflow after activating the flow designer. For a detailed comparison between the workflow and flow designer, see [Exception management workflow versus flow designer in Configuration Compliance](cc-ex-mgt-flow-designer-vs-workflow.md).
 
 To use the flow designer, create rules using the Approval Rules module. Using this module, you can configure approval rules for each of the following exception management workflows.
 

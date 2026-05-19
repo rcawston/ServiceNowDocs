@@ -30,7 +30,7 @@ You can delete an external content connector to remove its definition. When you 
 
 1.  Use the application picker to switch to the External Content Connectors Admin application scope.
 
-    For details on selecting an application scope using the application picker, see [Select an application from the application picker](../../../build/applications/task/t_SelectAnAppFromTheAppPicker.md).
+    For details on selecting an application scope using the application picker, see [Select an application from the application picker](../t_SelectAnAppFromTheAppPicker.md).
 
 2.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
@@ -58,5 +58,5 @@ The result depends on which selection you made:
 
 If you deactivated an external content connector to disable its scheduled crawls, you can still run one-time crawls to update its content and metadata or its permissions on demand. For details on running one-time crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md) and [Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md).
 
-**Parent Topic:**[Configuring External Content Connectors](../concept/configuring-ext-cont-connectors.md)
+**Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
 

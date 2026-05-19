@@ -26,7 +26,7 @@ Use any of the following methods to open Unified Map:
 -   While working in the CMDB Workspace, select **Unified Map** in the Quick Links section.
 -   On a CI form for any CI in an **operational** state, select **Open Map** to open a map with the CI as the home node.
 
-    **Note:** An admin can specify additional *operational status* values for this option. For more information, see [Configure CIs to appear based on life cycle stage value](../task/unified-map-confg-operational-state.md).
+    **Note:** An admin can specify additional *operational status* values for this option. For more information, see [Configure CIs to appear based on life cycle stage value](unified-map-confg-operational-state.md).
 
 
 **Tip:** To view a map in full-screen mode, select the Unpin All icon.
@@ -35,13 +35,13 @@ Use any of the following methods to open Unified Map:
 
 ## Map operations
 
--   [Controlling Unified Map contents and appearance](../reference/unified-map-appearance.md)
--   [Use filters to specify which nodes should appear on a map](../task/unified-map-configure-filters.md)
--   [View a summary of map contents on the Overview panel](../task/unified-map-show-overview-panel.md)
--   [View the attributes of a CI or a relationship](../task/unified-map-show-attributes.md)
--   [View service instances for a CI](../task/unified-map-show-app-service.md)
--   [View related items for a CI](../task/unified-map-show-related-items.md)
+-   [Controlling Unified Map contents and appearance](unified-map-appearance.md)
+-   [Use filters to specify which nodes should appear on a map](unified-map-configure-filters.md)
+-   [View a summary of map contents on the Overview panel](unified-map-show-overview-panel.md)
+-   [View the attributes of a CI or a relationship](unified-map-show-attributes.md)
+-   [View service instances for a CI](unified-map-show-app-service.md)
+-   [View related items for a CI](unified-map-show-related-items.md)
 -   [Viewing related items on the Unified Map timeline](unified-map-timeline-working-on.md)
--   [View historical changes for a CI](../task/unified-map-show-ci-changes.md)
+-   [View historical changes for a CI](unified-map-show-ci-changes.md)
 -   [Editing maps in Unified Map](unified-map-editing-map.md)
 

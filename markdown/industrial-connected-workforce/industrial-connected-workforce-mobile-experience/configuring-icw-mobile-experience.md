@@ -21,11 +21,11 @@ To customize the Industrial Connected Workforce Mobile Agent, see [Setting up th
 
 ## Configuration overview
 
--   [Configure the Now Mobile Agent application](../task/configure-now-mobile-agent-application-icw-mobile.md)
+-   [Configure the Now Mobile Agent application](configure-now-mobile-agent-application-icw-mobile.md)
 
     Configure the Now Mobile Agent application and customize it for Industrial Connected Workforce \(ICW\) users.
 
--   [Connect to your Industrial Connected Workforce data](../task/connect-to-icw-data.md)
+-   [Connect to your Industrial Connected Workforce data](connect-to-icw-data.md)
 
     Connect the Now Mobile Agent application to your Industrial Connected Workforce \(ICW\) application instance to manage work on your mobile device.
 
@@ -33,7 +33,7 @@ To customize the Industrial Connected Workforce Mobile Agent, see [Setting up th
 
     Make it easier for your end users to get things done faster with the Industrial Connected Workforce Mobile Experience by creating custom UI actions.
 
--   [Configure UI actions in the Now Mobile Agent application](../task/configure-ui-actions-icw-mobile.md)
+-   [Configure UI actions in the Now Mobile Agent application](configure-ui-actions-icw-mobile.md)
 
     Configure the desired UI actions on the mobile device to minimize the load on the mobile resources.
 

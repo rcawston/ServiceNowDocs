@@ -44,5 +44,5 @@ Role required: admin or impersonator
     ![End impersonation option in the settings screen.](../image/mobile-imperson-4.png)
 
 
-**Parent Topic:**[Mobile impersonation](../concept/mobile-impersonation.md)
+**Parent Topic:**[Mobile impersonation](mobile-impersonation.md)
 

@@ -44,5 +44,5 @@ Role required: admin
     Upon successful creation of the instance, you receive an email containing the instance ID, IP address, and the public DNS for the instances created.
 
 
-**Parent Topic:**[Amazon EC2 instance request from the Service Catalog](../concept/c_AmazonEC2InstanceRequest.md)
+**Parent Topic:**[Amazon EC2 instance request from the Service Catalog](c_AmazonEC2InstanceRequest.md)
 

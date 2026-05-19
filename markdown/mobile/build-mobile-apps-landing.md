@@ -19,7 +19,7 @@ Select a tile to learn about how to use the application development tools, desig
 
 <table id="table_krb_fxt_g1c" class="nav-card"><tbody><tr><td>
 
-[Build a mobile app ![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Build mobile apps using Mobile App Builder and Mobile Card Builder.](../reference/terminology-changes-rome.md)
+[Build a mobile app ![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Build mobile apps using Mobile App Builder and Mobile Card Builder.](terminology-changes-rome.md)
 
 </td><td>
 

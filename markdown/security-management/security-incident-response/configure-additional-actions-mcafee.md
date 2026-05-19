@@ -48,7 +48,7 @@ You can configure and trigger additional actions in the McAfee ePO integration e
 7.  View and validate the McAfee ePO Threat Event Details on the related lists.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
 **Previous topic:**[Trigger McAfee ePO profile manually from a security incident](mcafee-epo-submit-ih-fm-si.md)
 

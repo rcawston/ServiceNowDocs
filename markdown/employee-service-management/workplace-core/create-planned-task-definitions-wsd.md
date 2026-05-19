@@ -126,5 +126,5 @@ Select **Add another task definition**.
 -   The planned task definition is added to the list of all planned task definitions that you can view by navigating to **Workplace Core** &gt; **Workplace Tasks** &gt; **Planned Tasks Definitions**.
 -   If you created planned tasks from this definition, they are added to the list of all planned tasks. You can view those tasks by navigating to **Workplace Safety Management** &gt; **Workplace Tasks** &gt; **Planned Tasks**.
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 

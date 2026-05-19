@@ -18,9 +18,9 @@ Configure recommended actions to create a context, rule, and recommendations wit
 
 ## Configuration overview
 
-1.  [Install Recommended Actions for HRSD](../task/install-recommend-actions-hrsd.md)
+1.  [Install Recommended Actions for HRSD](install-recommend-actions-hrsd.md)
 
-    Download the [Install Recommended Actions for HRSD](../task/install-recommend-actions-hrsd.md) application from ServiceNow® Store.
+    Download the [Install Recommended Actions for HRSD](install-recommend-actions-hrsd.md) application from ServiceNow® Store.
 
 2.  [Configuring the HR case context](config-rc-hr.md)
 

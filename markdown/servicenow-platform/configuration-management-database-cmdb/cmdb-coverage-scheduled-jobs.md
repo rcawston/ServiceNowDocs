@@ -63,5 +63,5 @@ IPAM-managed networks, subnets, and allocated IP addresses are managed separatel
 
 The **Find missing IPAM ips in discovery** scheduled job compares the IPAM data \(networks, subnets, and allocated IP addresses\) and the configured discovery ranges and schedules \(IPv4 and IPv6 addresses\) to identify gaps in IP address coverage, such as missing IPv4 address ranges and the number of IPAM IP addresses that don't have a discovery schedule. The data about gaps in IP address coverage is added to the Discovery schedule gap \[sn\_cmdb\_ip\_cov\_discovery\_schedule\_gap\]​ table, and is then available for operational review.
 
-**Parent Topic:**[CMDB Coverage reference](../concept/cmdb-coverage-reference.md)
+**Parent Topic:**[CMDB Coverage reference](cmdb-coverage-reference.md)
 

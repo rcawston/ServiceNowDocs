@@ -67,7 +67,7 @@ On the **Activate teams and services** page, the following options appear:
 
 You can select the options to view the teams or services.
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
 **Previous topic:**[Assign an administrator to Service Reliability Management](sr-assign-admins.md)
 

@@ -58,5 +58,5 @@ The execution contexts feature enables you to identify the order of execution of
     You can open the import set record from the execution record.
 
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

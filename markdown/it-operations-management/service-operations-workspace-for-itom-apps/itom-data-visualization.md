@@ -17,7 +17,7 @@ Gain insights faster with data visualization in IT Operations Management \(ITOM\
 
 Anyone with access to data can create a visualization of that data on a dashboard that they own.
 
--   **[Create a funnel visualization](../task/create-funnel-visualization.md)**  
+-   **[Create a funnel visualization](create-funnel-visualization.md)**  
 A funnel visualization shows how data progresses through sequential stages, helping you identify drop-offs or bottlenecks at each step. Use it to track conversions, workflows, or process completion rates. You can add a funnel visualization to an existing dashboard or to a new dashboard.
 
 **Parent Topic:**[Service Operations Workspace for ITOM](sow-landing-page-itom.md)

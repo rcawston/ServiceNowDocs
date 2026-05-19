@@ -46,7 +46,7 @@ To configure dynamic catalog categories:
     The results displayed are limited to those items or knowledge articles available in the currently viewed catalog.
 
 
-**Parent Topic:**[Service catalog categories](../concept/c_ServiceCatalogCategories.md)
+**Parent Topic:**[Service catalog categories](c_ServiceCatalogCategories.md)
 
 **Related topics**  
 

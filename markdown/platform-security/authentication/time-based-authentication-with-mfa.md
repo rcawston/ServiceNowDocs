@@ -32,7 +32,7 @@ After a successful configuration, the system generates a link, and then shares t
 
 **Note:**
 
--   TLA should always be followed by MFA and MFA should be enabled by admin using Adaptive Authentication for TLA login. To know more about how to configure MFA with Adaptive Authentication, see [Multi-factor Authentication context](../concept/mfa-auth-context.md).
+-   TLA should always be followed by MFA and MFA should be enabled by admin using Adaptive Authentication for TLA login. To know more about how to configure MFA with Adaptive Authentication, see [Multi-factor Authentication context](mfa-auth-context.md).
 -   TLA should be used for the users who have limited privileges.
 
 ## Procedure

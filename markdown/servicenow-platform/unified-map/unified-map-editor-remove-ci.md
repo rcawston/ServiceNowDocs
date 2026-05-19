@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-When you remove \(hide\) a CI from the map, the record of the CI in the CMDB is not deleted. In contrast, connection records for a removed CI are affected as described in [Deleting a connection](../concept/unified-map-editing-map.md#section-connections-deleting).
+When you remove \(hide\) a CI from the map, the record of the CI in the CMDB is not deleted. In contrast, connection records for a removed CI are affected as described in [Deleting a connection](unified-map-editing-map.md#section-connections-deleting).
 
 ## Procedure
 

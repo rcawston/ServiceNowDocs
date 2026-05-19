@@ -37,7 +37,7 @@ The manager of an external business location can access all the cases for an acc
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [External Business Location form](../reference/ext-business-location-form.md).
+    For a description of the field values, see [External Business Location form](ext-business-location-form.md).
 
 4.  Select **Submit**.
 

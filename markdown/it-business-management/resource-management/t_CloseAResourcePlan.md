@@ -65,7 +65,7 @@ Example 2: If the same resource plan has Allocation type as **Planned Duration**
 -   **[Complete a resource plan from a project, planning console, or demand record](complete-resource-plan-from-project-or-demand.md)**  
 If a project or a project task is marked Closed, the project manager can complete the associated Allocated resource plans. Similarly, the demand manager can complete the resource plans for a Closed or Deferred demand.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -100,7 +100,7 @@ If a project or a project task is marked Closed, the project manager can complet
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

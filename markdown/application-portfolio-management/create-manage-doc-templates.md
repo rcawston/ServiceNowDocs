@@ -29,7 +29,7 @@ Role required: sn\_apm.apm\_user
 
 5.  Select **New**.
 
-    Fill in the details. For field information, see [Document template form](../../reference/eaw-reference/document-template-form.md).
+    Fill in the details. For field information, see [Document template form](document-template-form.md).
 
 6.  Select **Save**.
 
@@ -38,7 +38,7 @@ Role required: sn\_apm.apm\_user
 
 After creating a document template, you must define the content schema that determines what information is fetched from the diagram and related architectural records.
 
-**Parent Topic:**[Working with the document templates](../../concept/eaw-concept/document-templates-for-ea.md)
+**Parent Topic:**[Working with the document templates](document-templates-for-ea.md)
 
 **Related topics**  
 

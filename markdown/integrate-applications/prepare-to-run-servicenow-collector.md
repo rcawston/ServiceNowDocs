@@ -63,5 +63,5 @@ The collector uses Basic Authentication with username and password. ServiceNow d
     -   sn\_df\_connection\_attributes \(Connection Attributes\)
     -   sys\_variable\_value \(Variable Values\)
 
-**Parent Topic:**[ServiceNow metadata collector](../concept/servicenow-metadata-collector.md)
+**Parent Topic:**[ServiceNow metadata collector](servicenow-metadata-collector.md)
 

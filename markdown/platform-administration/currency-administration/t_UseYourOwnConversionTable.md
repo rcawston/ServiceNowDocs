@@ -40,5 +40,5 @@ If ECB does not supply the daily rates for a specific currency, you can manually
 5.  Enter new exchange rates either manually or with an import set.
 
 
-**Parent Topic:**[Default currency conversions](../../currency/concept/currency-conversions.md)
+**Parent Topic:**[Default currency conversions](currency-conversions.md)
 

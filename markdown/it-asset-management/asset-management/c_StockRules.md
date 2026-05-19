@@ -95,5 +95,5 @@ When the Hardware Asset Management application is installed and the stock rule i
 **Related topics**  
 
 
-[Create a stock rule](../task/t_CreateAStockRule.md)
+[Create a stock rule](../hardware-asset-management/t_CreateAStockRule.md)
 

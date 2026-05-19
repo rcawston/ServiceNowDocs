@@ -255,9 +255,9 @@ Add purchase order line items to specify what you are ordering from this vendor.
 
 -   **[Create a purchase order line item](t_CreateAPurchaseOrderLineItem.md)**  
 After you save a new purchase order, you create purchase order line item records to specify the individual items to order.
--   **[Purchase order status](../reference/r_FollowAPurchaseOrderStatus.md)**  
+-   **[Purchase order status](r_FollowAPurchaseOrderStatus.md)**  
 Purchase orders follow a specific life cycle. The **Status** field on the purchase order record is always read-only.
--   **[Purchase order expected delivery date](../reference/r_SetExpectDelDateOnPurchOrder.md)**  
+-   **[Purchase order expected delivery date](r_SetExpectDelDateOnPurchOrder.md)**  
 The purchase order record and the purchase order line item record both contain the **Expected delivery** date field.
 -   **[Cancel a purchase order](t_CancelAPurchaseOrder.md)**  
 You can cancel purchase orders with a status of **Requested**, **Ordered**, or **Pending Delivery**.
@@ -268,7 +268,7 @@ You can reorder a purchase order that was canceled.
 -   **[Reorder a purchase order line item](t_ReorderAPurchaseOrderLineItem.md)**  
 You can reorder a purchase order line item that was canceled.
 
-**Parent Topic:**[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+**Parent Topic:**[Procurement purchase order management for assets](c_UseProcurement.md)
 
 **Related topics**  
 

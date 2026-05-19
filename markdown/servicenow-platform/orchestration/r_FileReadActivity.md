@@ -15,7 +15,7 @@ breadcrumb: [SSH activity pack, Orchestration activity packs, Classic Orchestrat
 
 The File Read activity reads a file on a Linux or UNIX computer.
 
-This activity replaces an SSH activity by the same name available in releases prior to Geneva. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Geneva. However, all new workflows must use the custom version of this activity. This activity was built with the [SSH activity designer template](../../orchestration-activity-designer/task/t_CreateAnSSHActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](../../orchestration-activity-designer/concept/c_OrchestrationDatabus.md#).
+This activity replaces an SSH activity by the same name available in releases prior to Geneva. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Geneva. However, all new workflows must use the custom version of this activity. This activity was built with the [SSH activity designer template](t_CreateAnSSHActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](c_OrchestrationDatabus.md#).
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Global** &gt; **Orchestration - SSH**.
 
@@ -33,7 +33,7 @@ To access this activity in the Workflow Editor, select the **Custom** tab, and t
 |---------------|-----------|
 |contents|Content of the file to read.|
 |result|Either **success** or **failure**.|
-|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](../../orchestration-activity-designer/task/t_CreateAParsingRule.md#).|
+|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](t_CreateAParsingRule.md#).|
 
 ## Conditions
 
@@ -42,5 +42,5 @@ To access this activity in the Workflow Editor, select the **Custom** tab, and t
 |Success|Activity successfully read the contents of the specified file.|
 |Failure|Activity could not read the contents of the specified file.|
 
-**Parent Topic:**[SSH activity pack](../concept/c_OrchestrationSSHCustomActivities.md)
+**Parent Topic:**[SSH activity pack](c_OrchestrationSSHCustomActivities.md)
 

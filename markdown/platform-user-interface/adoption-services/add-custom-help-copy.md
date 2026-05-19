@@ -25,7 +25,7 @@ In base system topics, the read-only **ServiceNow Help** check box is selected. 
 
 When a user navigates to a UI page for which custom content exists, the custom content displays instead of the base system content.
 
-**Note:** Embedded help records are also used to create content for the Help Center within a configurable workspace. For more information, see [Create Help Center content for configurable workspace](../../adoption-services/task/create-help-center-content.md).
+**Note:** Embedded help records are also used to create content for the Help Center within a configurable workspace. For more information, see [Create Help Center content for configurable workspace](create-help-center-content.md).
 
 ## Procedure
 
@@ -59,7 +59,7 @@ Page
 
 </td><td>
 
-The UI page this topic corresponds to. Typically, you do not change the page name.**Note:** If you are using the embedded help record to display in the Help Center, as described in [Create Help Center content for configurable workspace](../../adoption-services/task/create-help-center-content.md), enter the same value in the Name and Page fields, replacing spaces with underscores in the Page field.
+The UI page this topic corresponds to. Typically, you do not change the page name.**Note:** If you are using the embedded help record to display in the Help Center, as described in [Create Help Center content for configurable workspace](create-help-center-content.md), enter the same value in the Name and Page fields, replacing spaces with underscores in the Page field.
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Role
 
 </td><td>
 
-The role that the topic is written to assist. Users assigned to the role see the content when they navigate to the associated UI page.All roles that contain the role also see the content, unless another topic targeted to their role exists for the same page. For more information, see [Embedded Help roles](../concept/embedded-help-roles.md)
+The role that the topic is written to assist. Users assigned to the role see the content when they navigate to the associated UI page.All roles that contain the role also see the content, unless another topic targeted to their role exists for the same page. For more information, see [Embedded Help roles](embedded-help-roles.md)
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Order
 
 </td><td>
 
-The order defaults based on the role, and determines what content to display when the user has an assigned role. For more information, see [Embedded Help roles](../concept/embedded-help-roles.md).
+The order defaults based on the role, and determines what content to display when the user has an assigned role. For more information, see [Embedded Help roles](embedded-help-roles.md).
 
 </td></tr><tr><td>
 
@@ -151,5 +151,5 @@ Specify the domain this content is used for, if applicable.This field appears in
     The edited topic is saved and the list redisplays. The **ServiceNow Help** check box is cleared in the saved topic.
 
 
-**Parent Topic:**[Configuring Embedded Help](../concept/configuring-embedded-help.md)
+**Parent Topic:**[Configuring Embedded Help](configuring-embedded-help.md)
 

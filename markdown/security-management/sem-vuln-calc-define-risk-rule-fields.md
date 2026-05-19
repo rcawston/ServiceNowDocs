@@ -220,9 +220,9 @@ To add a conditional criterion to the risk rule, do the following:
 **Related topics**  
 
 
-[Vulnerability Response calculators and vulnerability calculator rules](../../vulnerability-response/concept/vuln-calculators-rules.md)
+[Vulnerability Response calculators and vulnerability calculator rules](vulnerability-response/vuln-calculators-rules.md)
 
-[Create a Vulnerability Response calculator](../../vulnerability-response/task/create-vul-calculator.md)
+[Create a Vulnerability Response calculator](vulnerability-response/create-vul-calculator.md)
 
-[Filtering within Vulnerability Response](../../vulnerability-response/concept/vr-filtering.md)
+[Filtering within Vulnerability Response](vulnerability-response/vr-filtering.md)
 

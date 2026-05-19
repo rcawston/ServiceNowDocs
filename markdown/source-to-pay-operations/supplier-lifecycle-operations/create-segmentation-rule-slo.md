@@ -115,7 +115,7 @@ You can add new KPI templates to a segmentation rule if the existing templates u
 -   **[Add suppliers to a segmentation rule](add-supplier-segmentation-rule.md)**  
 You can add a new supplier to a segmentation rule if the existing suppliers don’t meet your needs.
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 
 **Related topics**  
 

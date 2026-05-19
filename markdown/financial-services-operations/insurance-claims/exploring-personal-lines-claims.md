@@ -90,5 +90,5 @@ Manager who approves the reserves and payment requests and can view an overview 
 </table>**Related topics**  
 
 
-[Personal Lines Claims dashboard](../../../use/dashboards/application-content-packs/personal-lines-claims.md)
+[Personal Lines Claims dashboard](../personal-lines-claims.md)
 

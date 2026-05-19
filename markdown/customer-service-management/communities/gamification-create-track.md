@@ -42,5 +42,5 @@ Role required: sn\_gamification.admin
     **Note:** While tracks can be configured, it is not currently displayed anywhere on the Community portal.
 
 
-**Parent Topic:**[Administer gamification](../concept/communities-gamification-administer.md)
+**Parent Topic:**[Administer gamification](communities-gamification-administer.md)
 

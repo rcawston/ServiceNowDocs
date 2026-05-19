@@ -81,5 +81,5 @@ kubectl apply -f k8s_informer.yaml
 
 [Create application service maps](create-an-app-service-map-kva.md)
 
-**Parent Topic:**[Enabling application service maps](../concept/enabling-application-service-maps.md)
+**Parent Topic:**[Enabling application service maps](enabling-application-service-maps.md)
 

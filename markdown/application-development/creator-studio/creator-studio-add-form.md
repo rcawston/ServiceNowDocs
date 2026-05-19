@@ -45,7 +45,7 @@ Role required: You must be an admin or your administrator must add you to the Cr
 
 6.  Choose how you want to build the form:
 
-    -   To use Now Assist, stay on the **Build with Now Assist** tab and enter directions for the form you want. To learn more, see [Generating forms with Now Assist](../concept/creator-studio-text-to-form.md).
+    -   To use Now Assist, stay on the **Build with Now Assist** tab and enter directions for the form you want. To learn more, see [Generating forms with Now Assist](creator-studio-text-to-form.md).
 
         **Note:** You can select **Try an example** to see some examples of the available directions. To see a quick mock up of what the form will look like, select the **Generate form preview** button. If you want a different form, change the provided direction and select **Regenerate preview** for a quick look.
 
@@ -66,5 +66,5 @@ Role required: You must be an admin or your administrator must add you to the Cr
 
 Now that you've added a form to your app, it's time to customize it! Remember: You can add multiple forms to your app for if you need to.
 
-**Parent Topic:**[Working with forms in Creator Studio](../concept/creator-studio-work-with-forms.md)
+**Parent Topic:**[Working with forms in Creator Studio](creator-studio-work-with-forms.md)
 

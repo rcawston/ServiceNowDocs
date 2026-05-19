@@ -295,7 +295,7 @@ Name of the user as the data owner.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-Approval**Note:** This section appears only when the Metric approval property is set to Simple. For more information see, [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../../esg-management-reporting/reference/components-installed-with-esg.md).
+Approval**Note:** This section appears only when the Metric approval property is set to Simple. For more information see, [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 </td></tr><tr><td>
 
@@ -391,5 +391,5 @@ Groups that can view the record.
 
 The metric is saved in the Metrics list.
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

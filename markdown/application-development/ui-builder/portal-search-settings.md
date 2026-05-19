@@ -29,7 +29,7 @@ You must be in the correct application scope to edit the experience settings. If
 
 2.  Open a portal experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Select **Experience settings** in the UI Builder header.
 
@@ -48,5 +48,5 @@ You must be in the correct application scope to edit the experience settings. If
 7.  Click **Save**.
 
 
-**Parent Topic:**[Configure UI Builder portal experiences](../concept/ui-builder-portal-settings.md)
+**Parent Topic:**[Configure UI Builder portal experiences](ui-builder-portal-settings.md)
 

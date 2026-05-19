@@ -112,5 +112,5 @@ Summary type
 Business purpose of the expense line.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Project Workspace](../../project-workspace/reference/form-field-information-for-project-workspace.md)
+</table>**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
 

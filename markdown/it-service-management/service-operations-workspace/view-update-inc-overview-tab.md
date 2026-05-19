@@ -128,7 +128,7 @@ Major Incident state
 
 </td><td>
 
-State of the Major incident. **Note:** This field is available only if the Major Incident Management for Service Operations Workspace \(sn\_sow\_mim\) plugin is installed and active. For more information, see [Setting up Major Incident Management in Service Operations Workspace](../concept/setup-mim-sow.md).
+State of the Major incident. **Note:** This field is available only if the Major Incident Management for Service Operations Workspace \(sn\_sow\_mim\) plugin is installed and active. For more information, see [Setting up Major Incident Management in Service Operations Workspace](setup-mim-sow.md).
 
 </td></tr><tr><td>
 
@@ -180,12 +180,12 @@ URL that you can click to open on a new tab for more information on the issue. O
 
         -   Caller of the incident.
         -   Callers of the child incidents.
-        -   Service offerings associated with the Incident. This source is only used if Service Portfolio Management Foundation is activated and being used. For more information, see [Activate Service Portfolio Management](../../service-portfolio-management2/task/activate-SPM2-plugin.md).
+        -   Service offerings associated with the Incident. This source is only used if Service Portfolio Management Foundation is activated and being used. For more information, see [Activate Service Portfolio Management](../service-portfolio-management/activate-SPM2-plugin.md).
     -   Number of impacted locations – Number of unique locations calculated based on the number of users.
     -   Impact world map – Map of impacted locations marked on the world map along with the impacted users. You can view the impacted users counts and details at these locations. You can further narrow down to the continent, country, state, or city level.
     **Note:**
 
-    -   The Location section is available only if the Major Incident Management for Service Operations Workspace \(sn\_sow\_mim\) plugin is installed and active, and if the incident is a major incident. For more information, see [Major Incident Management in Service Operations Workspace](../concept/mim-in-sow.md).
+    -   The Location section is available only if the Major Incident Management for Service Operations Workspace \(sn\_sow\_mim\) plugin is installed and active, and if the incident is a major incident. For more information, see [Major Incident Management in Service Operations Workspace](mim-in-sow.md).
     -   You can add multiple locations from the Affected location related list in the **Related records** tab of the Major incident record.
 5.  Select the following cards to add or update the configuration items associated with the Incident.
 
@@ -248,24 +248,24 @@ URL that you can click to open on a new tab for more information on the issue. O
         -   Add multiple users \(![Little persons image](../../site-reliability-ops/image/icon-3-persons.png)\) icon: Add multiple users to the field. This option is available for reference fields where you can add multiple users \(sys\_user\). For example, Watch list or Work note list fields.
         -   Add multiple records \(![Add icon](../../incident-management/image/add_icon.png)\) icon: Add multiple records to the field. This option is available for reference fields where you can add multiple records of any table. For example, Problem or Change request field.
 
-**Parent Topic:**[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace](incident-sow.md)
 
 **Related topics**  
 
 
 [Create an incident in Service Operations Workspace](create-incident-sow.md)
 
-[Viewing incident record information using the Contextual side panel](../concept/view-inc-record-info-contextual-sidepanel.md)
+[Viewing incident record information using the Contextual side panel](view-inc-record-info-contextual-sidepanel.md)
 
 [Work on an incident list page in Service Operations Workspace](work-incident-list-page-sow.md)
 
 [Work on an incident record in Service Operations Workspace](work-on-incident-sow.md)
 
-[Remedial actions using Playbook](../concept/remedial-actions-playbook.md)
+[Remedial actions using Playbook](remedial-actions-playbook.md)
 
 [Close resolved incident](close-resolved-incident-sow.md)
 
 [Reopen an incident in Service Operations Workspace](reopen-incident-sow.md)
 
-[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+[Incident Management in Service Operations Workspace reference](sow-im-reference.md)
 

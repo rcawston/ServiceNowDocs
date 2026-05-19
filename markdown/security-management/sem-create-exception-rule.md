@@ -15,7 +15,7 @@ Create a rule to automatically request an exception for a specific condition for
 
 ## Before you begin
 
-Role required: See [Access control lists \(ACLs\) for administration rules](../concept/sem-acls-for-admin-rules.md)
+Role required: See [Access control lists \(ACLs\) for administration rules](sem-acls-for-admin-rules.md)
 
 ## About this task
 
@@ -61,5 +61,5 @@ Email notifications are sent at every stage of the exception rule work flow. The
     The status of the request changes to In review. Until you submit the exception rule, it remains in the Draft state.
 
 
-**Parent Topic:**[Configuring an exception rule](../concept/sem-configure-exception-rule.md)
+**Parent Topic:**[Configuring an exception rule](sem-configure-exception-rule.md)
 

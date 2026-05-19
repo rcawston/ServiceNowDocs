@@ -39,5 +39,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](../concept/rsrc-plans-rsrc-asgmnts.md)
+**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](rsrc-plans-rsrc-asgmnts.md)
 

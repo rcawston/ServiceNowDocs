@@ -17,7 +17,7 @@ Several types of components such as roles, tables, and properties are installed 
 
 The following roles are installed with the Operational Sustainability Management application.
 
-**Note:** For the tables and roles installed with the GRC: Metrics application, see [Components installed with the GRC: Metrics application](../../metrics/reference/tables-installed-with-metrics.md).
+**Note:** For the tables and roles installed with the GRC: Metrics application, see [Components installed with the GRC: Metrics application](tables-installed-with-metrics.md).
 
 <table id="table_m4l_lwl_frb"><thead><tr><th>
 
@@ -702,5 +702,5 @@ The following scheduled jobs are installed with the Operational Sustainability M
 |Calculate ESG license count|This Job executes daily at 11:00 PM. It calculates the license based on active data in base metric definition where domain area is ESG.|
 |Generate ESG goals activity summary|This job executes periodically for every 12 hours. This job deletes the existing goal activity summary and creates new goal activity summary for all goals classified on "environmental, social, governance".|
 
-**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](../concept/reference-data-esg.md)
+**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](reference-data-esg.md)
 

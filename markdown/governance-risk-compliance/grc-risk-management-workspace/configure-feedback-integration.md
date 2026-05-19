@@ -27,13 +27,13 @@ Role required: sn\_rvw\_feedback.admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the Feedback Integration Configuration form, see [Feedback integration configuration form](../reference/feedback-integration-configuration-form.md).
+    For a description of the field values on the Feedback Integration Configuration form, see [Feedback integration configuration form](feedback-integration-configuration-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Feedback integration configuration form](../reference/feedback-integration-configuration-form.md)**  
+-   **[Feedback integration configuration form](feedback-integration-configuration-form.md)**  
 Use the Feedback integration configuration form to define a setup for the Parallel Review and Feedback.
 
-**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
+**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](integrate-advanced-risk-with-parallel-review-feedback.md)
 

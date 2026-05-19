@@ -17,13 +17,13 @@ In the Prepare step, you set up authorization boundaries, control overlays, and 
 
 ## Your actions in the Prepare step
 
--   [Define the authorization boundary](../task/define-auth-boundaries.md)
--   [Create an authorization package](../task/create-auth-package.md)
+-   [Define the authorization boundary](define-auth-boundaries.md)
+-   [Create an authorization package](create-auth-package.md)
 
--   **[Define the authorization boundary](../task/define-auth-boundaries.md)**  
+-   **[Define the authorization boundary](define-auth-boundaries.md)**  
 An authorization boundary defines the scope of a particular system that can be continuously managed and monitored using the CAM application.
--   **[Create an authorization package](../task/create-auth-package.md)**  
+-   **[Create an authorization package](create-auth-package.md)**  
 After you have defined the authorization boundaries for the assets or systems to send through the Authorization to Operate process, you must create an authorization package for that purpose. The package is processed through the seven steps mandated by the RMF.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 

@@ -72,7 +72,7 @@ Description
 
 </td><td>
 
-Load the demo data after installing [Opportunity Management](../concept/opportunity-management.md).1.  Install Lead Management.
+Load the demo data after installing [Opportunity Management](opportunity-management.md).1.  Install Lead Management.
 2.  Navigate to the **All** and in the Filter, type `v_plugin.list`.
 3.  In the **System Plugin** list, search for Lead Management data model \(sn\_l2c\_lead\_mgmt\_data\_model\) plugin.
 4.  In the System **Plugin Lead Management data model** window, under Related Links, select **Install Demo Data Only**.

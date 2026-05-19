@@ -40,5 +40,5 @@ Allocating an asset makes it a financial liability. After all pre-allocated asse
 
 The system creates and navigates to a new asset record, which has the same model and parent information as the pre-allocated asset. The new asset has a **Quantity** of one, while the pre-allocated asset's **Quantity** is reduced by one.
 
-**Parent Topic:**[Manage pre-allocated assets](../../hardware-asset-management/concept/manage-preallocated-asset.md)
+**Parent Topic:**[Manage pre-allocated assets](manage-preallocated-asset.md)
 

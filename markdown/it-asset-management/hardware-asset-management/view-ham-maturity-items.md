@@ -29,7 +29,7 @@ The maturity of your HAM program is divided into three stages:
 -   Walk
 -   Run
 
-For more information, see [Maturity stages of your Hardware Asset Management program](../reference/maturity-stages-ham.md).
+For more information, see [Maturity stages of your Hardware Asset Management program](maturity-stages-ham.md).
 
 **Note:** The maturity level can’t be modified for a required maturity item.
 
@@ -43,10 +43,10 @@ For more information, see [Maturity stages of your Hardware Asset Management pro
 
 3.  Select a maturity item to view its details.
 
-    For a description of the field values, see [Maturity item details](../reference/maturity-item-details.md).
+    For a description of the field values, see [Maturity item details](maturity-item-details.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Assess performance of Hardware Asset Management](../concept/suc-goal-act-hw.md)
+**Parent Topic:**[Assess performance of Hardware Asset Management](suc-goal-act-hw.md)
 

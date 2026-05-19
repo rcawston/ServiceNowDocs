@@ -44,5 +44,5 @@ Role required: sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
 You can view all planned tasks by navigating to **Workplace Core** &gt; **Workplace Tasks** &gt; **Planned Tasks**.
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 

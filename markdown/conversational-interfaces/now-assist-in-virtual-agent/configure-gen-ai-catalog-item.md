@@ -114,9 +114,9 @@ Description
 
 
 </td></tr></tbody>
-</table>4.  Configure URL navigation settings to specify where the generated ticket link in the Virtual Agent chat opens, see [Configure URL navigation for chat links](../../conversational-interfaces/task/ac-configure-url-navigation.md).
+</table>4.  Configure URL navigation settings to specify where the generated ticket link in the Virtual Agent chat opens, see [Configure URL navigation for chat links](../ac-configure-url-navigation.md).
 
-    For information about URL navigation in Virtual Agent, see [URL navigation in Conversational Interfaces](../../conversational-interfaces/concept/url-navigation-ci.md). For information about Virtual Agent scripts, see [Virtual Agent scripts](../../virtual-agent/concept/virtual-agent-scripts.md).
+    For information about URL navigation in Virtual Agent, see [URL navigation in Conversational Interfaces](../url-navigation-ci.md). For information about Virtual Agent scripts, see [Virtual Agent scripts](../virtual-agent/virtual-agent-scripts.md).
 
     ![Generated ticket link in the Virtual Agent chat](../image/va-link-cat-item.png "Generated ticket link in the Virtual Agent chat")
 

@@ -122,5 +122,5 @@ In this example the user wanted to read files created by BGinfo.
     ```
 
 
-**Parent Topic:**[Discovery probes and sensors](../../../product/discovery/concept/c_DiscoveryProbesAndSensors.md)
+**Parent Topic:**[Discovery probes and sensors](c_DiscoveryProbesAndSensors.md)
 

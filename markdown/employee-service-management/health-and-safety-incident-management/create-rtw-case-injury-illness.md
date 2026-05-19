@@ -19,9 +19,9 @@ If an employee is returning to work after an injury or illness, create a return 
 
 Ensure that the following conditions are met:
 
--   The Health and Safety Case Management \(sn\_hs\_cm\) application is installed on your ServiceNow instance. For more information, see [Install Health and Safety Case Management](../../hs-case-management/task/install-hs-case-management.md).
--   The Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is not installed on your instance. For more information on activating it, see [Activate Case and Knowledge Management](../../human-resources/task/activate-case-and-knowledge-management-scoped.md).
--   **Employee** is selected in the **Person type** field on the injury and illness record. For more information, see [Injury and illness fields](../reference/hs-injury-illness-form.md).
+-   The Health and Safety Case Management \(sn\_hs\_cm\) application is installed on your ServiceNow instance. For more information, see [Install Health and Safety Case Management](../health-and-safety-case-management/install-hs-case-management.md).
+-   The Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is not installed on your instance. For more information on activating it, see [Activate Case and Knowledge Management](../hr-service-delivery/activate-case-and-knowledge-management-scoped.md).
+-   **Employee** is selected in the **Person type** field on the injury and illness record. For more information, see [Injury and illness fields](hs-injury-illness-form.md).
 
 Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations\_manager, and sn\_hs\_cm.case\_manager
 
@@ -69,8 +69,8 @@ Steps
 
 ## Result
 
--   The return to work case is created and added to the **RTW case record** field on the injury form. For more information, see [Injury and illness fields](../reference/hs-injury-illness-form.md).
--   The injury and illness record is auto-populated in the **Injury and illness** tab of the return to work case. For more information, see [Health and Safety case](../../hs-case-management/task/hs-work-health-safety-case.md).
+-   The return to work case is created and added to the **RTW case record** field on the injury form. For more information, see [Injury and illness fields](hs-injury-illness-form.md).
+-   The injury and illness record is auto-populated in the **Injury and illness** tab of the return to work case. For more information, see [Health and Safety case](../health-and-safety-case-management/hs-work-health-safety-case.md).
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](managing-hs-incidents-obs.md)
 

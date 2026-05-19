@@ -29,10 +29,10 @@ configuration
 
 </td><td>
 
-Configuration settings provided when the service was initialized.Data type: [NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
+Configuration settings provided when the service was initialized.Data type: [NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowPushService - registerPushToken\(\_token: Data, pushAppName: String, environment: NowPushEnvironment, completion: @escaping \(Result&lt;Data, NowPushError&gt;\) -&gt; Void\)
 

@@ -146,7 +146,7 @@ Check GCP Pending Certification
 Verifies if GCP account certification is in a pending state. This monitoring enables prompt resolution of pending certification and avoids potential security vulnerabilities.
 
 </td></tr></tbody>
-</table>To return to the procedure, see [Set up scan configuration for data visualization](../task/set-up-data-visualization.md).
+</table>To return to the procedure, see [Set up scan configuration for data visualization](set-up-data-visualization.md).
 
 **Parent Topic:**[Cloud Account Management reference](cam-reference.md)
 

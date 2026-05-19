@@ -53,7 +53,7 @@ The dashboard is copied with the new name. The appearance of the dashboard is id
 
 Edit a dashboard as needed by adding sections, filters, images, lists, process mining maps, and rich text. For more information, see [Edit a dashboard](edit-dashboard-ppw.md).
 
-**Parent Topic:**[Using dashboards in Portfolio Planning](../concept/using-dashboards-in-ppw.md)
+**Parent Topic:**[Using dashboards in Portfolio Planning](using-dashboards-in-ppw.md)
 
 **Related topics**  
 

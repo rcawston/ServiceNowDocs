@@ -62,5 +62,5 @@ You can also generate resolution information on demand from the Now Assist panel
 -   The case moves to the Resolved state.
 -   The resolution is proposed to the customer.
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

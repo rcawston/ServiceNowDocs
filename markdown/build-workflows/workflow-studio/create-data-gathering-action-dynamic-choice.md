@@ -32,7 +32,7 @@ Create a data gathering action to generate a list of choice options for a dynami
 
 4.  In the Action Outline, select the add a new step icon \(![Add a new step icon](../images/add-new-step-icon.png)\) under **Inputs** and select the **REST** step.
 
-    Configure your REST step to get data from the proper **Base URL** and **Resource Path** with any applicable **Query Parameters** for the **HTTP Method** `GET`. For more information on using the REST step in Integration Hub, see [REST step](../reference/rest-request-action-designer.md) and [REST in IntegrationHub](https://developer.servicenow.com/app.do#!/training/article/app_store_learnv2_rest_paris_rest_in_integrationhub/app_store_learnv2_rest_paris_rest_in_integrationhub_objectives?v=paris).
+    Configure your REST step to get data from the proper **Base URL** and **Resource Path** with any applicable **Query Parameters** for the **HTTP Method** `GET`. For more information on using the REST step in Integration Hub, see [REST step](rest-request-action-designer.md) and [REST in IntegrationHub](https://developer.servicenow.com/app.do#!/training/article/app_store_learnv2_rest_paris_rest_in_integrationhub/app_store_learnv2_rest_paris_rest_in_integrationhub_objectives?v=paris).
 
 5.  In the Action Outline under the REST step, select the add a new step icon \(![Add a new step icon](../images/add-new-step-icon.png)\) and select the **Script** step.
 
@@ -119,7 +119,7 @@ Create a data gathering action to generate a list of choice options for a dynami
 
 You can now use your data gathering action to populate the options that appear for a dynamic choice input in a parent action.![Use your data gathering action to populate options for a dynamic choice.](../images/create-data-gathering-action-dynamic-choice-result.png)
 
-**Parent Topic:**[Dynamic inputs](../concept/dynamic-inputs.md)
+**Parent Topic:**[Dynamic inputs](dynamic-inputs.md)
 
 **Related topics**  
 
@@ -130,5 +130,5 @@ You can now use your data gathering action to populate the options that appear f
 
 [Create a data gathering action for a dynamic inputs type input](create-data-gathering-action-dynamic-inputs.md)
 
-[Dynamic input configuration options](../reference/dynamic-input-options.md)
+[Dynamic input configuration options](dynamic-input-options.md)
 

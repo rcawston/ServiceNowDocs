@@ -17,7 +17,7 @@ The Query AD activity retrieves entries from the Windows Active Directory based 
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory** &gt; **.**
 
-**Note:** This activity replaces an AD activity by the same name available in releases prior to Geneva. If you have a workflow that uses the deprecated activity, your workflow will continue to work normally after upgrading to Instanbul and will continue to save query results to the scratchpad. However, all new workflows must use the custom version of this activity. This activity was built with the [Create a PowerShell activity](../../orchestration-activity-designer/task/t_CreateAPowershellActivity.md#), which stores input and output variables in the [databus](../../orchestration-activity-designer/concept/c_OrchestrationDatabus.md#) instead of the scratchpad.
+**Note:** This activity replaces an AD activity by the same name available in releases prior to Geneva. If you have a workflow that uses the deprecated activity, your workflow will continue to work normally after upgrading to Instanbul and will continue to save query results to the scratchpad. However, all new workflows must use the custom version of this activity. This activity was built with the [Create a PowerShell activity](t_CreateAPowershellActivity.md#), which stores input and output variables in the [databus](c_OrchestrationDatabus.md#) instead of the scratchpad.
 
 ## Input variables
 

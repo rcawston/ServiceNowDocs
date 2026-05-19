@@ -92,11 +92,11 @@ console.log(errorMessage, errorType);
 **Related topics**  
 
 
-[Configure the Knowledge article view component instance](../task/config-know-article-view-comp.md)
+[Configure the Knowledge article view component instance](config-know-article-view-comp.md)
 
-[Embed the Knowledge article view component instance on the third-party website](../task/embed-know-article-view-comp.md)
+[Embed the Knowledge article view component instance on the third-party website](embed-know-article-view-comp.md)
 
-[Component properties for the Knowledge article view](we-know-article-view-comp-prop.md)
+[Component properties for the Knowledge article view](../we-know-article-view-comp-prop.md)
 
-[Event handler in the Knowledge article view component](we-know-article-view-event-handler.md)
+[Event handler in the Knowledge article view component](../we-know-article-view-event-handler.md)
 

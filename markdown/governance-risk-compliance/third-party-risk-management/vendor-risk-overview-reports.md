@@ -61,5 +61,5 @@ To enable a seamless transition to TPRM, you have the option to duplicate existi
 
 **Important:** Starting with version 18.1.3 of Third-party Risk Management the Vendor Risk Overview dashboard is deprecated. If Third-party Risk Management was installed prior to 18.1.3 the Vendor Risk overview dashboard is still available for your use.
 
-**Parent Topic:**[Third-party Risk Management reference](../concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 

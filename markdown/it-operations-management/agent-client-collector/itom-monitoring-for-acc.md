@@ -47,7 +47,7 @@ Apache HTTP Server
 
 </td><td>
 
-See [Configure Agent Client Collector Apache HTTP server monitoring](../task/acc-apache-http-server.md).
+See [Configure Agent Client Collector Apache HTTP server monitoring](acc-apache-http-server.md).
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Apache Tomcat
 
 </td><td>
 
-See [Configure Agent Client Collector Apache Tomcat monitoring](../task/acc-apache-tomcat-monitoring.md).
+See [Configure Agent Client Collector Apache Tomcat monitoring](acc-apache-tomcat-monitoring.md).
 
 </td></tr><tr><td>
 

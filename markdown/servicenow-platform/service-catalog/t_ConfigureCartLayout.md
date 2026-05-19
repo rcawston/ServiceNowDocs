@@ -52,7 +52,7 @@ Role required: admin
     Some settings and properties in your instance can override or affect your cart layout.
 
 
-**Parent Topic:**[Cart layout](../concept/c_ConfigureCartLayout.md)
+**Parent Topic:**[Cart layout](c_ConfigureCartLayout.md)
 
 ## Cart layout considerations
 
@@ -245,5 +245,5 @@ For example, your cart layout record settings can hide item prices, but you migh
 
 **Note:**
 
-If you are [migrating to cart layouts](../concept/c_MigrateCartLayouts.md), you can have defined additional settings and properties that impact your cart layout settings.
+If you are [migrating to cart layouts](c_MigrateCartLayouts.md), you can have defined additional settings and properties that impact your cart layout settings.
 

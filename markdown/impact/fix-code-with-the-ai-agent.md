@@ -15,7 +15,7 @@ As a ServiceNow developer, you can receive code fix suggestions when an error is
 
 ## Before you begin
 
-Complete the pre-requisites and setup steps in order to activate Fix code in real-time. See [Configure Fix code in real-time for Platform Health](../concept/configure-ai-code-fix-for-platform-health.md) for details.
+Complete the pre-requisites and setup steps in order to activate Fix code in real-time. See [Configure Fix code in real-time for Platform Health](configure-ai-code-fix-for-platform-health.md) for details.
 
 Role required: sn\_impact\_gen\_ai\_fix\_user
 
@@ -51,6 +51,6 @@ Role required: sn\_impact\_gen\_ai\_fix\_user
 
     -   The available prompts are displayed in the bulleted list for the proposed solution.
     -   If you reject the solution, the code will be editable.
-    **Note:** Users with the executive role can access the Executive Dashboard which contains a module that displays all findings resolved using the Code Fix AI Agent. See [Scan Engine Executive dashboard](../concept/scan-engine-executive-dashboard.md) for additional information.
+    **Note:** Users with the executive role can access the Executive Dashboard which contains a module that displays all findings resolved using the Code Fix AI Agent. See [Scan Engine Executive dashboard](scan-engine-executive-dashboard.md) for additional information.
 
 

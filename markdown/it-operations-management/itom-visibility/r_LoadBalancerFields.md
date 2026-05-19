@@ -15,9 +15,9 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 Discovery stores load balancer information in several tables.
 
-The information in this topic pertains to discovery with probes and sensors only. If you are using patterns, such as to discover [F5 Big-IP load balancers](../concept/c_LoadBalancerF5BIGIP.md), see the relevant topic for that type of load balancer.
+The information in this topic pertains to discovery with probes and sensors only. If you are using patterns, such as to discover [F5 Big-IP load balancers](c_LoadBalancerF5BIGIP.md), see the relevant topic for that type of load balancer.
 
-**Note:** By default, the system uses the discovered IP address of a load balancer for the CI record. This can be the management IP created for the device that is used in the Discovery schedule. For instructions on how to force Discovery to use the IP address of the load balancer's NIC rather than that of a management IP, see [IP address selection properties](discovery-ip-address-configuration.md#).
+**Note:** By default, the system uses the discovered IP address of a load balancer for the CI record. This can be the management IP created for the device that is used in the Discovery schedule. For instructions on how to force Discovery to use the IP address of the load balancer's NIC rather than that of a management IP, see [IP address selection properties](../discovery/discovery-ip-address-configuration.md#).
 
 |Field label and name|Probes that gather data|
 |--------------------|-----------------------|
@@ -347,5 +347,5 @@ Tag \[tag\]
 
 Discovery also collects data on Apache web serer load balancing modules using SSH. See [Apache mod\_jk and mod\_proxy discovery](r_DataCollDiscoApacheWebServers.md#) for more information on probes for Apache web server data. For information on the tables, fields, and data sources that discovery populates for Apache web servers, see [Apache web server discovery](r_DataCollDiscoApacheWebServers.md#).
 
-**Parent Topic:**[Load balancer discovery](../concept/c_LoadBalancers.md)
+**Parent Topic:**[Load balancer discovery](c_LoadBalancers.md)
 

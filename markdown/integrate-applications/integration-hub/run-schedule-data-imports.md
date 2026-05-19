@@ -174,5 +174,5 @@ Number of records for the partition size. Must be greater than or equal to 1000.
 
 Your import will run at the scheduled time. After it runs, an Executions section appears on the Run and schedule imports page. The Execution section has execution records where you can view details about your import, including its runtime, the number of imported rows, and any errors or log messages.
 
-**Parent Topic:**[Integration Hub - Import](../concept/integrationhub-imports.md)
+**Parent Topic:**[Integration Hub - Import](integrationhub-imports.md)
 

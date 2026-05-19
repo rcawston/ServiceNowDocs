@@ -17,11 +17,11 @@ Manage the readiness of KCS articles and comply with regulated information using
 
 For information about the KCS article states, see [KCS v6 Practices Guide](https://library.serviceinnovation.org/KCS/KCS_v6/KCS_v6_Practices_Guide).
 
-For information about all the KCS roles, see [Knowledge Management roles](../reference/r_KnowledgeRoles.md#).
+For information about all the KCS roles, see [Knowledge Management roles](r_KnowledgeRoles.md#).
 
 ## Activation information
 
-Activate the Knowledge Management KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\) to enable the use of KCS roles \(kcs\_contributor, kcs\_publisher, and kcs\_candidate\) and metadata fields for the KCS article state \(governance and confidence\). For more information, see [Activate Knowledge Management KCS Capabilities](../task/activate-kcs-capabilties-plugin.md).
+Activate the Knowledge Management KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\) to enable the use of KCS roles \(kcs\_contributor, kcs\_publisher, and kcs\_candidate\) and metadata fields for the KCS article state \(governance and confidence\). For more information, see [Activate Knowledge Management KCS Capabilities](activate-kcs-capabilties-plugin.md).
 
 **Note:** If you are not an admin and has either kcs\_contributor or kcs\_candidate roles, you cannot retire an article.
 
@@ -84,7 +84,7 @@ The governance state of an article indicates which users can manage articles spe
 **Related topics**  
 
 
-[Create a knowledge article from an incident in ITSM Agent Workspace](../task/create-knowledge-article.md)
+[Create a knowledge article from an incident in ITSM Agent Workspace](create-knowledge-article.md)
 
-[Create a knowledge article in Agent Workspace](../task/create-article-workspace.md)
+[Create a knowledge article in Agent Workspace](create-article-workspace.md)
 

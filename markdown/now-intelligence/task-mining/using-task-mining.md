@@ -29,11 +29,11 @@ The following processes are performed using Task Mining to collect workstation d
 
     Complete data requests for workstation users in the Employee Center to create a pool of data that you can use in future analysis.
 
--   **[Categorize workstation activities to simplify analysis](../task/define-default-categorization-rules.md)**
+-   **[Categorize workstation activities to simplify analysis](define-default-categorization-rules.md)**
 
     Organize and add context to your data by grouping similar workstation activities with user-friendly names.
 
--   **[Identify task improvement actions](../task/identify-improvement-opportunities.md)**
+-   **[Identify task improvement actions](identify-improvement-opportunities.md)**
 
     Initiate an automation request from a Task Mining task timeline analysis or share the details of the analysis.
 

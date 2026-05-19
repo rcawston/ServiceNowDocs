@@ -280,5 +280,5 @@ Cumulative margin %
 
 To learn more about the revenue metrics in opportunity details, see [Add and view the details of an opportunity](opportunity-management-details-tab.md) and [Add line items to an opportunity](opportunity-management-line-items-tab.md).
 
-To learn more about the revenue metrics in quote details, see [Add and view details of a quote](../task/quote-management-details-tab.md).
+To learn more about the revenue metrics in quote details, see [Add and view details of a quote](quote-management-details-tab.md).
 

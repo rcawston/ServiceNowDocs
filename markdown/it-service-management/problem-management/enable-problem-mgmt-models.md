@@ -19,7 +19,7 @@ Enable the Problem Management models system property so that you can create and 
 
 The **com.snc.problem\_management.models.enabled** system property is enabled by default for new customers starting from the Yokohama release.
 
-See considerations for enabling and disabling Problem Management models at [Problem Management models](../concept/problem-mgmt-models.md).
+See considerations for enabling and disabling Problem Management models at [Problem Management models](problem-mgmt-models.md).
 
 Role required: admin
 
@@ -40,7 +40,7 @@ Role required: admin
 
 Problem Management models are enabled.
 
-**Parent Topic:**[Configuring Problem Management](../concept/configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](configuring-problem-mgmt.md)
 
 **Previous topic:**[Categorize a problem as a major problem](categorize-major-problem.md)
 

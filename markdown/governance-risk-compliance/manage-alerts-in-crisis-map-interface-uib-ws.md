@@ -80,5 +80,5 @@ The Crisis map interface has been optimized to handle over 10,000 resources and 
     5.  To revert the impacted area, select the **More options** icon and select **Revert impacted area**.
 
 
-**Parent Topic:**[Structured workflows for Crisis map](../concept/crisis-map-collective-tasks.md)
+**Parent Topic:**[Structured workflows for Crisis map](crisis-map-collective-tasks.md)
 

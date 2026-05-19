@@ -163,5 +163,5 @@ Bindings represent endpoint relationships. For example, a storage volume might i
 -   **[Configure endpoint operation mapping](configure-endpoint-mapping-cmp.md)**  
 You can configure endpoint mapping on a storage volume to make a connection to a resource.
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](resource-blocks.md)
 

@@ -21,7 +21,7 @@ In this scenario, a script in a ServiceNow workflow makes a request to the remot
 
 ![FSO case flow that shows how to update a system of record within the bank application](../image/fso-update_external_record-flow.png)
 
-The table that is accessed in this scenario is the [Consumer](../reference/fso-int_guide-table_defs.md#csm_consumer) \[csm\_consumer\] table which contains the business-to-customer records.
+The table that is accessed in this scenario is the [Consumer](fso-int_guide-table_defs.md#csm_consumer) \[csm\_consumer\] table which contains the business-to-customer records.
 
 The following diagram shows the flow of the REST API calls for this use case and provides brief remarks on any required processing. It assumes that you have used the steps outlined in [Lookup remote information in the system of record](fso-int_guide-agt_table_lookup.md) to obtain the customer account information.
 

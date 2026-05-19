@@ -31,7 +31,7 @@ Visualization configurations that are not migrated:
 -   Restriction of dashboard access to specific roles.
 -   Group edit rights.
 
-    Reports that are shared to groups with edit rights only retain view rights when migrated. Open the migrated visualization in the library and share it with the group again. For more information, see [Share a data visualization in the Visualization Designer](../../reporting/task/share-dv-ac.md#).
+    Reports that are shared to groups with edit rights only retain view rights when migrated. Open the migrated visualization in the library and share it with the group again. For more information, see [Share a data visualization in the Visualization Designer](share-dv-ac.md#).
 
 -   In the context of bulk migration, visualizations that are used in one or more dashboards lose their header and color configurations. \(In Core UI, these are configured at the dashboard level; in Platform Analytics experience, they are configured at the visualization level.\)
 
@@ -63,7 +63,7 @@ Generic visualization configurations migrated in compatibility mode:
 -   Sort by dot-walked fields
 -   Reporting on variables/questions
 -   List default drilldown view configured in Report Designer
--   [Breakdown element](../../performance-analytics/concept/performance-analytics-glossary.md#) = empty for breakdowns based on choice field
+-   [Breakdown element](performance-analytics/performance-analytics-glossary.md#) = empty for breakdowns based on choice field
 -   Sort by Performance Analytics breakdown based on choice field order
 -   Single score with compare X period back
 -   Pivot scorecard support for element filter

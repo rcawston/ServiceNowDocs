@@ -21,7 +21,7 @@ Content is returned as a GlideScriptableInputStream object when getContentStream
 
 Methods that manage encryption contexts, cryptographic modules, or encryption state are available only in the global application. These APIs are intentionally restricted because they modify platform‑level security configuration.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideSysAttachment - GlideSysAttachment\(\)
 
@@ -118,7 +118,7 @@ See also:
 -   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
 -   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - addAttribute\(String sysAttachmentID, String attrKey, String attrValue\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - addAttribute\(String sysAttachmentID, String attrKey, String attrValue\)](c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -163,7 +163,7 @@ See also:
 -   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
 -   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - addMultipleAttributes\(String sysAttachmentID, Object attrsKeyValuePair\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - addMultipleAttributes\(String sysAttachmentID, Object attrsKeyValuePair\)](c_GlideSysAttachmentScopedAPI.md#).
 
 <table id="table_rql_3mg_5fc" class="parameters"><thead><tr><th>
 
@@ -291,7 +291,7 @@ See also:
 -   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
 -   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - deleteAllAttributes\(String sysAttachmentID\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - deleteAllAttributes\(String sysAttachmentID\)](c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -393,7 +393,7 @@ See also:
 -   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
 -   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - deleteAllAttributes\(String sysAttachmentID\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - deleteAllAttributes\(String sysAttachmentID\)](c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -453,7 +453,7 @@ See also:
 -   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
 -   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetchAllAttributes\(String sysAttachmentID\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetchAllAttributes\(String sysAttachmentID\)](c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -461,7 +461,7 @@ For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetch
 
 |Type|Description|
 |----|-----------|
-|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|The attachment record and all of its attributes.|
+|[GlideRecord](c_GlideRecordScopedAPI.md#)|The attachment record and all of its attributes.|
 
 The following example shows how to get all attributes assigned to a specified attachment.
 
@@ -498,7 +498,7 @@ See also:
 -   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
 -   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetchAttribute\(String sysAttachmentID, String attrKey\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetchAttribute\(String sysAttachmentID, String attrKey\)](c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -506,7 +506,7 @@ For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetch
 
 |Type|Description|
 |----|-----------|
-|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|The GlideRecord of the attachment and the specified attribute.|
+|[GlideRecord](c_GlideRecordScopedAPI.md#)|The GlideRecord of the attachment and the specified attribute.|
 
 The following example shows how to get an attachment attribute with the key `author`.
 
@@ -562,7 +562,7 @@ Output:
 
 Returns a GlideScriptableInputStream object given the sys\_id of an attachment.
 
-You can use the [GlideTextReader](../../GlideTextReaderScoped/concept/c_GlideTextReaderScopedAPI.md#) API to read the content stream.
+You can use the [GlideTextReader](c_GlideTextReaderScopedAPI.md#) API to read the content stream.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -599,7 +599,7 @@ See also:
 -   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
 -   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - updateAllAttributes\(String sysAttachmentID, Object attrsKeyValuePair\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - updateAllAttributes\(String sysAttachmentID, Object attrsKeyValuePair\)](c_GlideSysAttachmentScopedAPI.md#).
 
 <table id="table_rql_3mg_5fc" class="parameters"><thead><tr><th>
 
@@ -681,7 +681,7 @@ See also:
 -   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
 -   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - updateAttribute\(String sysAttachmentID, String attrKey, String attrValue\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - updateAttribute\(String sysAttachmentID, String attrKey, String attrValue\)](c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

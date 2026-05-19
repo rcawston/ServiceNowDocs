@@ -21,10 +21,10 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 -   **[Components installed with Patient Support Services](pss-components-installed.md)**  
 Several types of components are installed with installation of the Patient Support Services application, including tables, user roles, ServiceNow Store applications, and business rules.
--   **[Domain separation and Patient Support Services](../concept/pss-domain-sep.md)**  
+-   **[Domain separation and Patient Support Services](pss-domain-sep.md)**  
  Domain separation is supported for Patient Support Services. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Patient Support Services Work ATF \(Automated Test Framework\) tests](../concept/hcls-pss-atf.md)**  
+-   **[Patient Support Services Work ATF \(Automated Test Framework\) tests](hcls-pss-atf.md)**  
 The following ATF tests are available in Patient Support Services as a part of the Patient Support Services Workspace ATF test suite.
 
-**Parent Topic:**[Patient Support Services](../concept/pss-app.md)
+**Parent Topic:**[Patient Support Services](pss-app.md)
 

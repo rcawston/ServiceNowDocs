@@ -59,7 +59,7 @@ Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
 ## What to do next
 
-[Configure Checkmarx scans on your pipeline](../concept/configure-checkmarx-scans-on-your-pipeline.md)
+[Configure Checkmarx scans on your pipeline](configure-checkmarx-scans-on-your-pipeline.md)
 
-**Parent Topic:**[Checkmarx integration with DevOps Change Velocity](../concept/checkmarx-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Checkmarx integration with DevOps Change Velocity](checkmarx-integration-with-devops-change-velocity.md)
 

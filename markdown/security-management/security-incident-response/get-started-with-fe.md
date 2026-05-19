@@ -66,5 +66,5 @@ Use **sn\_fe\_sharepoint** plugin ID to search and install Microsoft SharePoint 
 Installing this plugin will manage the Microsoft SharePoint Files/Folders using File Explorer.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure File Explorer Component](../../security-incident-response/concept/file-explorer.md)
+</table>**Parent Topic:**[Configure File Explorer Component](file-explorer.md)
 

@@ -50,15 +50,15 @@ Choose one of the following tiles to learn more about the different applications
 
 ![General HR request form displayed in image.](../image/gen-hr-form-dec.png)
 
-Raise a request for any query or issue as a general HR request on CBS. For more information, [Raise HR requests](../task/request-emp-cbs.md).
+Raise a request for any query or issue as a general HR request on CBS. For more information, [Raise HR requests](request-emp-cbs.md).
 
 ![Form to submit payslip discrepancy displayed in image.](../image/payroll-hr-form-dec.png)
 
-Report an issue with your payslip as an employee. For more information, [Raise HR requests](../task/request-emp-cbs.md).
+Report an issue with your payslip as an employee. For more information, [Raise HR requests](request-emp-cbs.md).
 
 ![Employee benefit inquiry form displayed in image.](../image/hr-benefits-form-dec.png)
 
-Ask an HR benefit questions as an employee. For more information, see [Raise HR requests](../task/request-emp-cbs.md).
+Ask an HR benefit questions as an employee. For more information, see [Raise HR requests](request-emp-cbs.md).
 
 ## Workplace requests
 
@@ -68,7 +68,7 @@ Submit a general workplace service request for issues that need human interventi
 
 Raise requests for issues that aren’t covered by current automated workflows.
 
-For more information on the Core Business Suite request form for workplace requests, see [Raise requests on the employee portal](../task/request-emp-rest.md).
+For more information on the Core Business Suite request form for workplace requests, see [Raise requests on the employee portal](request-emp-rest.md).
 
 For more information on the Workplace Service Delivery inquiry form, if you're an existing user, see [Raise help request for a workplace inquiry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-gen-workplace-serv-req.md).
 
@@ -78,7 +78,7 @@ For more information on the Workplace Service Delivery inquiry form, if you're a
 
 Submit a request to the legal department in your organization for general legal query.
 
-For more information on the Core Business Suite request form for legal requests, see [Raise requests on the employee portal](../task/request-emp-rest.md).
+For more information on the Core Business Suite request form for legal requests, see [Raise requests on the employee portal](request-emp-rest.md).
 
 For more information on the Legal Services request form, if you're an existing user, see [Submit a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/submit-legal-request.md).
 
@@ -88,7 +88,7 @@ For more information on the Legal Services request form, if you're an existing u
 
 Ask a Health and Safety question to the safety department, and request information such as Health and Safety procedures, training, or return to work policies.
 
-For more information on the Core Business Suite request form for Health and Safety, see [Raise requests on the employee portal](../task/request-emp-rest.md).
+For more information on the Core Business Suite request form for Health and Safety, see [Raise requests on the employee portal](request-emp-rest.md).
 
 For more information on the Health and Safety request form, if you're an existing user, see [Ask a Health and Safety question from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-ask-health-safety-question.md).
 
@@ -104,7 +104,7 @@ Ask a general finance-related question, as an employee, targeted to the finance 
 
 Raise an inquiry for any pre-existing purchase, as a buyer, or any other query regarding procurement functions​​.
 
-For more information on the Core Business Suite request form, see [Raise requests on the employee portal](../task/request-emp-rest.md).
+For more information on the Core Business Suite request form, see [Raise requests on the employee portal](request-emp-rest.md).
 
 For more information on the procurement inquiry form, if you're an existing user, see [Raise a general inquiry for procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/raise-general-inquiry-for-procurement.md).
 

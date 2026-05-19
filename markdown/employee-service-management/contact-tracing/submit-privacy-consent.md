@@ -44,12 +44,12 @@ Your current privacy consent decision is updated.
 
 The status of the notification updates to Acknowledged.
 
-If you have the [Employee Readiness Core](../../employee-readiness-core/concept/employee-readiness-core.md) application installed and a health and safety requirement for the privacy consent activated, a record is created with the requirement status:
+If you have the [Employee Readiness Core](../employee-readiness-core/employee-readiness-core.md) application installed and a health and safety requirement for the privacy consent activated, a record is created with the requirement status:
 
 -   If you agreed to the privacy policy and use of your data, the requirement status updates to Cleared.
 -   If you disagreed or withdrew your consent, the requirement status updates to Not Cleared.
 
-**Parent Topic:**[Maintaining user data privacy in Contact Tracing](../concept/contact-tracing-user-privacy-options.md)
+**Parent Topic:**[Maintaining user data privacy in Contact Tracing](contact-tracing-user-privacy-options.md)
 
 ## Submit a privacy consent for Contact Tracing from a mobile phone
 
@@ -57,7 +57,7 @@ If you receive a mobile push notification request for a data privacy consent, re
 
 ### Before you begin
 
-To receive mobile push notifications, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To receive mobile push notifications, you must have the [Now® Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app.
 
 Role required: sn\_imt\_tracing.privacy\_consent\_user
 
@@ -84,7 +84,7 @@ Your current privacy consent decision is updated.
 
 The status of the notification updates to Acknowledged.
 
-If you have the [Employee Readiness Core](../../employee-readiness-core/concept/employee-readiness-core.md) application installed and a health and safety requirement for the privacy consent activated, a record is created with the requirement status.
+If you have the [Employee Readiness Core](../employee-readiness-core/employee-readiness-core.md) application installed and a health and safety requirement for the privacy consent activated, a record is created with the requirement status.
 
 -   If you agreed to the privacy policy and use of your data, the requirement status updates to Cleared.
 -   If you disagreed or withdrew your consent, the requirement status updates to Not Cleared.

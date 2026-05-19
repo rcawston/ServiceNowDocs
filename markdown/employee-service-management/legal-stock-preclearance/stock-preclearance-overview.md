@@ -19,5 +19,5 @@ Employees of your organization on designation as an access person, such as direc
 
 ![Legal Stock Preclearance workflow.](../image/workflow-stock-preclearance.png "Legal Stock Preclearance workflow")
 
-**Parent Topic:**[Legal Stock Preclearance](../reference/legal-stock-preclearance-landing-page.md)
+**Parent Topic:**[Legal Stock Preclearance](legal-stock-preclearance-landing-page.md)
 

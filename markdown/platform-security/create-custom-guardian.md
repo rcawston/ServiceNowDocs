@@ -15,7 +15,7 @@ Create your own custom guardian to monitor and detect requests sent to LLM.
 
 ## Before you begin
 
-Configure a connection and credential alias for your preferred provider. For more information, see [Create a Connection &amp; Credential alias](../../../product/credentials/task/connection-alias.md).
+Configure a connection and credential alias for your preferred provider. For more information, see [Create a Connection &amp; Credential alias](connections-and-credentials/connection-alias.md).
 
 Role required: admin
 
@@ -113,5 +113,5 @@ Role required: admin
         For example, if the token limit is 1000 and the request content is 2500 tokens, the system splits it into three parts and evaluates each one individually.
 
 
-**Parent Topic:**[Configuring a Guardrail Service Provider](../concept/configuring-byog.md)
+**Parent Topic:**[Configuring a Guardrail Service Provider](configuring-byog.md)
 

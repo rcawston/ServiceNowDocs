@@ -30,7 +30,7 @@ If you cancel the order instead, you receive a message confirming the cancellati
 
 ![The user requests an iPhone.](../images/va-catalogs-06.png)![While completing the request, the user chooses to cancel the order instead.](../images/va-catalogs-07.png)![The request is closed with a message informing the user that the order is Canceled.](../images/va-catalogs-08.png)
 
-**Note:** Catalogs for Virtual Agent are separate from Now Assist and Multi-turn catalog ordering. For more information on how catalog search results work based on AI Search, see [Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md). For information on Multi-turn catalog ordering instead, see [Using Now Assist in Virtual Agent](../../now-assist-in-va/concept/using-now-assist-in-va.md).
+**Note:** Catalogs for Virtual Agent are separate from Now Assist and Multi-turn catalog ordering. For more information on how catalog search results work based on AI Search, see [Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md). For information on Multi-turn catalog ordering instead, see [Using Now Assist in Virtual Agent](../now-assist-in-virtual-agent/using-now-assist-in-va.md).
 
 ## Catalog live agent autopilot experience
 
@@ -44,7 +44,7 @@ Once the customer completes the order, the chat panel displays the Requested Ite
 
 ![CSM Workspace view next to customer chat window. The customer sees only the Requested Item card, while the live agent sees the internal transcript and full chat record.](../images/va-catalogs-autopilot-3.png)
 
--   **[Set up catalog branding](../task/va-catalogs-branding.md)**  
+-   **[Set up catalog branding](va-catalogs-branding.md)**  
 Customize the appearance of catalogs in Virtual Agent to match your business' branding.
 
 **Parent Topic:**[Configuring Virtual Agent](configure-virtual-agent.md)

@@ -40,7 +40,7 @@ On the Content lookup portal, you can view the information based on the applicat
     -   Hardware Products
     -   Hardware Models
     -   Hardware Lifecycles
--   If both Software Asset Management Professional and Hardware Asset Management applications are installed and you have both asset and sam\_user roles, you can view both hardware and software content tabs. For more information about the Software Asset Management Content library portal, see the [Content lookup portal for Software Asset Management](../../software-asset-management2/concept/content-search-portal.md).
+-   If both Software Asset Management Professional and Hardware Asset Management applications are installed and you have both asset and sam\_user roles, you can view both hardware and software content tabs. For more information about the Software Asset Management Content library portal, see the [Content lookup portal for Software Asset Management](../software-asset-management/content-search-portal.md).
 
 The Content lookup portal uses the AI search functionality and helps you to search for a specific hardware manufacturer, product, and model number. After you enter your search criteria in the search bar, the search results are listed with the most relevant matches at the top. Using the Filters section, you can further narrow down the result.
 
@@ -167,7 +167,7 @@ View a list of hardware products released in the Content Library. On the Hardwar
 
 View a list of hardware models released in the Content Library. On the Hardware models list, only active models are displayed with a default filter condition applied. Select the Model number to view the model details.
 
-On the Hardware Model form, the **Copy model details** option enables you to copy the details of a model and add a model entry to the Product Model \[cmdb\_model\] table. For more information about copying model details, see [Copy a hardware model from the Content lookup portal](../task/copy-hardware-model.md).
+On the Hardware Model form, the **Copy model details** option enables you to copy the details of a model and add a model entry to the Product Model \[cmdb\_model\] table. For more information about copying model details, see [Copy a hardware model from the Content lookup portal](copy-hardware-model.md).
 
 ## Hardware Lifecycles tab
 
@@ -186,7 +186,7 @@ Role required: asset
 
 ### About this task
 
-If you have installed the Software Asset Management Professional \(com.sn\_samp\_master\) plugin, you can view data stored in the Software Asset Management Content service. If you have installed both Software Asset Management Professional \(com.sn\_samp\_master\) and Hardware Asset Management \(com.sn\_hamp\) plugins, you can view both their content data on the IT Asset Management Content lookup \(sn\_itam\_contlookup\) application. You can also filter your search results based on the content type, such as software or hardware. For more information about installing the Content lookup portal for Software Asset Management, see [Install Content lookup portal for Software Asset Management](../../software-asset-management2/task/install-contentlookup.md).
+If you have installed the Software Asset Management Professional \(com.sn\_samp\_master\) plugin, you can view data stored in the Software Asset Management Content service. If you have installed both Software Asset Management Professional \(com.sn\_samp\_master\) and Hardware Asset Management \(com.sn\_hamp\) plugins, you can view both their content data on the IT Asset Management Content lookup \(sn\_itam\_contlookup\) application. You can also filter your search results based on the content type, such as software or hardware. For more information about installing the Content lookup portal for Software Asset Management, see [Install Content lookup portal for Software Asset Management](../software-asset-management/install-contentlookup.md).
 
 ### Procedure
 

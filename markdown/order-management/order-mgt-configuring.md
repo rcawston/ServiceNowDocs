@@ -13,15 +13,15 @@ breadcrumb: [Configure, Sales Customer Relationship Management]
 
 Learn how to configure the features and components that you need for customer and service order processing, depending on whether you are a provider or an enterprise customer.
 
--   **[Install Order Management](../task/order-mgt-install-providers.md)**  
+-   **[Install Order Management](order-mgt-install-providers.md)**  
 You can install the Order Management application \(sn\_ind\_tmt\_orm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Configure order enrichment flows using Decision Tables](../task/configure-order-enrichment.md)**  
+-   **[Configure order enrichment flows using Decision Tables](configure-order-enrichment.md)**  
 Associate enrichment subflows with the product or service specifications by using the Order Enrichment Flow Policy in Decision Tables.
--   **[Configure product order fulfillment policy using Decision Tables](../task/configure-product-order-fulfillment-policy.md)**  
+-   **[Configure product order fulfillment policy using Decision Tables](configure-product-order-fulfillment-policy.md)**  
 Associate fulfillment subflows with the product specifications by using the Product Order Fulfillment Policy in Decision Tables for move order.
--   **[Configure service order fulfillment policy using Decision Tables](../task/configure-service-order-fulfillment-policy.md)**  
+-   **[Configure service order fulfillment policy using Decision Tables](configure-service-order-fulfillment-policy.md)**  
 Associate fulfillment subflows with the service specifications by using the Service Order Fulfillment Policy in Decision Tables for move order.
--   **[Configure resource order fulfillment policy using Decision Tables](../task/configure-resource-order-fulfillment-policy.md)**  
+-   **[Configure resource order fulfillment policy using Decision Tables](configure-resource-order-fulfillment-policy.md)**  
 Associate fulfillment subflows with the resource specifications by using the Resource Order Fulfillment Policy in Decision Tables for move order.
 -   **[Configure order fulfillment](configure-order-fulfillment.md)**  
 Order fulfillment is the process for fulfilling customer orders by using Workflow Studio.

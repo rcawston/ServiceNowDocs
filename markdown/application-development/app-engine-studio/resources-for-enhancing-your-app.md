@@ -33,55 +33,55 @@ Add security
 
 </th></tr></thead><tbody><tr><td>
 
-Add data to your application in App Engine Studio.-   [Create a data model for your application](../concept/add-data.md)
--   [Create a blank table](../task/use-existing-table.md)
--   [Use a spreadsheet to add data](../task/upload-multi-sheets.md)
--   [Use a PDF to create data tables](../concept/pdf-extractor.md#)
--   [Create a data integration](../task/import-map-data-existing-table.md)
--   [Modify application data tables](../concept/edit-data.md)
+Add data to your application in App Engine Studio.-   [Create a data model for your application](add-data.md)
+-   [Create a blank table](use-existing-table.md)
+-   [Use a spreadsheet to add data](upload-multi-sheets.md)
+-   [Use a PDF to create data tables](pdf-extractor.md#)
+-   [Create a data integration](import-map-data-existing-table.md)
+-   [Modify application data tables](edit-data.md)
 
 </td><td>
 
-Work in App Engine Studio to add experiences to your application.-   [Add an application experience](../concept/add-experience.md)
--   [Add a record producer](../task/add-a-record-producer.md)
--   [Add a standard catalog item](../task/add-standard-catalog-item.md)
--   -   [Add a workspace](../task/add-workspace.md)[Add a portal](../task/add-portal.md)
--   [Add a mobile experience](../task/add-mobile.md)
--   [Editing an experience in App Engine Studio](../concept/edit-experience.md)
+Work in App Engine Studio to add experiences to your application.-   [Add an application experience](add-experience.md)
+-   [Add a record producer](add-a-record-producer.md)
+-   [Add a standard catalog item](add-standard-catalog-item.md)
+-   -   [Add a workspace](add-workspace.md)[Add a portal](add-portal.md)
+-   [Add a mobile experience](add-mobile.md)
+-   [Editing an experience in App Engine Studio](edit-experience.md)
 
 </td><td>
 
-Build logic and automation into your application in App Engine Studio.-   [Add logic and automation](../concept/add-automation.md)
--   [Add a pre-built flow using a template](../task/use-flow-template.md)
--   [Add a flow from scratch](../task/create-scratch-flow.md)
--   [Add a decision](../task/add-decision.md)
--   [Add an email notification](../task/add-notification.md)
--   [Edit a process](../task/edit-process.md)
+Build logic and automation into your application in App Engine Studio.-   [Add logic and automation](add-automation.md)
+-   [Add a pre-built flow using a template](use-flow-template.md)
+-   [Add a flow from scratch](create-scratch-flow.md)
+-   [Add a decision](add-decision.md)
+-   [Add an email notification](add-notification.md)
+-   [Edit a process](edit-process.md)
 
 </td><td>
 
-Configure roles to manage your application's security in App Engine Studio.-   [Add application security](../concept/add-security.md)
--   [Build a new role for your application](../task/aes-create-role.md)
--   [Use an existing role for your application](../task/aes-existing-role.md)
--   [Collaborate with other developers](../concept/aes-collaboration-feature-overview.md#)
--   [Change access settings for a role](../task/edit-role.md)
--   [Delete a role](../task/delete-role.md)
+Configure roles to manage your application's security in App Engine Studio.-   [Add application security](add-security.md)
+-   [Build a new role for your application](aes-create-role.md)
+-   [Use an existing role for your application](aes-existing-role.md)
+-   [Collaborate with other developers](aes-collaboration-feature-overview.md#)
+-   [Change access settings for a role](edit-role.md)
+-   [Delete a role](delete-role.md)
 
 </td></tr><tr><td>
 
-Seamlessly transition to using Table Builder to enhance your application's data.-   [Exploring Table Builder](../../../administer/form-builder/concept/exploring-fb.md)
--   [Data in Table Builder](../../../administer/form-builder/concept/table-builder.md)
--   [Forms in Table Builder](../../../administer/form-builder/concept/form-view-configuration.md)
--   [Policies and rules in Table Builder](../../../administer/form-builder/concept/form-builder-policies-rules.md#)
--   [Flows in Table Builder](../../../administer/form-builder/concept/flows-tb.md#)
+Seamlessly transition to using Table Builder to enhance your application's data.-   [Exploring Table Builder](../form-builder-glide-family-release/exploring-fb.md)
+-   [Data in Table Builder](../form-builder-glide-family-release/table-builder.md)
+-   [Forms in Table Builder](../form-builder-glide-family-release/form-view-configuration.md)
+-   [Policies and rules in Table Builder](../form-builder-glide-family-release/form-builder-policies-rules.md#)
+-   [Flows in Table Builder](../form-builder-glide-family-release/flows-tb.md#)
 
 </td><td>
 
-Use Workspace Builder and UI Builder to further enhance experiences in your application.-   [Add a workspace](../task/add-workspace.md)
--   [Edit a workspace in Workspace Builder](../task/configure-workspace-builder.md)
--   [UI Builder and configurable workspaces](../../../administer/ui-builder/concept/ui-builder-csm-workspace.md)
--   [Configure how users interact with your applications in UI Builder](../../../administer/ui-builder/concept/work-experiences.md)
--   [Customize UI Builder pages using components](../../../administer/ui-builder/concept/work-components.md)
+Use Workspace Builder and UI Builder to further enhance experiences in your application.-   [Add a workspace](add-workspace.md)
+-   [Edit a workspace in Workspace Builder](../workspace-builder/configure-workspace-builder.md)
+-   [UI Builder and configurable workspaces](../ui-builder/ui-builder-csm-workspace.md)
+-   [Configure how users interact with your applications in UI Builder](../ui-builder/work-experiences.md)
+-   [Customize UI Builder pages using components](../ui-builder/work-components.md)
 
 </td><td>
 
@@ -92,13 +92,13 @@ Use Decision Builder to easily manage business logic for your application.-   [C
 
 </td><td>
 
-Configure and manage roles for your organization and application using the ServiceNow AI Platform and App Engine Management Center.-   [Configure AES personas and roles](../concept/aes-personas-roles.md)
+Configure and manage roles for your organization and application using the ServiceNow AI Platform and App Engine Management Center.-   [Configure AES personas and roles](aes-personas-roles.md)
 -   [Configure users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-users-groups.md)
--   [Add users to the App Engine Admin group](../task/add-users-to-admin-grp.md)
--   [Delegate developers using AES](../concept/aes-app-dev-workflow.md)
--   [Managing developers using AEMC](../concept/manage-developers-using-aemc.md)
--   [Manage collaboration requests](../task/manage-collaboration-requests.md)
+-   [Add users to the App Engine Admin group](add-users-to-admin-grp.md)
+-   [Delegate developers using AES](aes-app-dev-workflow.md)
+-   [Managing developers using AEMC](../app-engine-management-center/manage-developers-using-aemc.md)
+-   [Manage collaboration requests](../app-engine-management-center/manage-collaboration-requests.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enhance your app](../concept/customize-application.md)
+</table>**Parent Topic:**[Enhance your app](customize-application.md)
 

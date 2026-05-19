@@ -31,7 +31,7 @@ Parser scripts have access to the data stream input and output objects as well a
 
 ## REST step response
 
-You can convert a REST step response into one or more complex objects by parsing it with a Script step. To access a response from a Script step, you must create an input script variable and map it to the response payload from the prior REST step. See [Script step](../reference/javascript-step-action-designer.md) for more information about creating script input variables.
+You can convert a REST step response into one or more complex objects by parsing it with a Script step. To access a response from a Script step, you must create an input script variable and map it to the response payload from the prior REST step. See [Script step](javascript-step-action-designer.md) for more information about creating script input variables.
 
 Write a script that maps REST response values to complex object values. When writing REST response script, use JavaScript methods appropriate to the response format such as the JSON parse\(\) method.
 
@@ -39,17 +39,17 @@ Write a script that maps REST response values to complex object values. When wri
 
 You do not need to use a Script step to create a REST request from complex data. You can generate complex data in a prior action or step and then map it to a string input of the REST step. At run time, the action or flow converts the complex data into a JSON representation.
 
-For example, see the script steps used in [Get started with dynamic inputs](../task/getting-started-dynamic-input.md#) for the data gathering actions. The data gathering actions for getting table and field names both use a Script step to parse a REST response into a JSON object. Both data gathering actions also create output variables that store complex data as JSON objects.
+For example, see the script steps used in [Get started with dynamic inputs](getting-started-dynamic-input.md#) for the data gathering actions. The data gathering actions for getting table and field names both use a Script step to parse a REST response into a JSON object. Both data gathering actions also create output variables that store complex data as JSON objects.
 
 ## Look Up Records step
 
 While flows can use **For each** flow logic to process a list of records, actions require a Script step. The Script step replaces the **For each** flow logic with JavaScript such as a `For` or `While` loop.
 
-To access record data from a Script step, you must create an input script variable and map it to the record data from the prior look up step. See [Script step](../reference/javascript-step-action-designer.md) for more information about creating script input variables.
+To access record data from a Script step, you must create an input script variable and map it to the record data from the prior look up step. See [Script step](javascript-step-action-designer.md) for more information about creating script input variables.
 
-See [Create a custom action to generate an array of objects from a list of records](../task/create-custom-action-array-objects.md) for an example action that converts a list of user records into an array of contact objects.
+See [Create a custom action to generate an array of objects from a list of records](create-custom-action-array-objects.md) for an example action that converts a list of user records into an array of contact objects.
 
-**Note:** The Look Up Records action does not require a Script step to convert record data into complex data. You can create a custom action to convert a record into an object and apply **For each** flow logic to the custom action. See [Create a custom action to generate an object from a record](../task/create-custom-action-object.md) and [Create a custom flow to generate an object for each record in a list](../task/create-custom-flow-object.md) for an example of creating a complex object without using script.
+**Note:** The Look Up Records action does not require a Script step to convert record data into complex data. You can create a custom action to convert a record into an object and apply **For each** flow logic to the custom action. See [Create a custom action to generate an object from a record](create-custom-action-object.md) and [Create a custom flow to generate an object for each record in a list](create-custom-flow-object.md) for an example of creating a complex object without using script.
 
 ## Dot-walking object structures
 
@@ -104,9 +104,9 @@ Keep these general guidelines in mind when scripting with complex data.
     When you want a custom action to output complex data, add an action output and map it to the data pill for your Script step output variable. For example, create a contacts array and load the contact object template you saved earlier. Map the action output to the contacts array produced by your Script step.
 
 
--   **[Create a custom action to generate an array of objects from a list of records](../task/create-custom-action-array-objects.md)**  
+-   **[Create a custom action to generate an array of objects from a list of records](create-custom-action-array-objects.md)**  
 Generate an array of objects from a list of User records. Learn how to use a Script step to iterate through a list of records.
--   **[Create a custom action to generate an array of strings from a list of records](../task/create-custom-action-array-strings.md)**  
+-   **[Create a custom action to generate an array of strings from a list of records](create-custom-action-array-strings.md)**  
 Generate an array of strings from a list of User Role records. Learn how to use a Script step to iterate through a list of records.
 
 **Parent Topic:**[Complex data](complex-data.md)

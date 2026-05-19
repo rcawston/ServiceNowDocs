@@ -57,7 +57,7 @@ Steps
 2.  On the Spaces list, select **New**.
 3.  On the Create New Space form, in the **Space** field, select the space that you want to add to the neighborhood.
 4.  Select **Save**.
- **Important:** If you have Workplace Space Management installed, the Create New Space form contains fields from the `Space` form. For more information about the Space form, see [Add a space using Workplace Space Management](../../workplace-space-management/task/add-a-space.md).
+ **Important:** If you have Workplace Space Management installed, the Create New Space form contains fields from the `Space` form. For more information about the Space form, see [Add a space using Workplace Space Management](../workplace-space-management/add-a-space.md).
 
 </td></tr><tr><td id="d161937e173">
 
@@ -106,7 +106,7 @@ If you select email, you must enter the email address of the recipient.
 2.  On the Workplace Profile Location Assignments list, select **New**.
 3.  On the form, fill in the fields.
 
-For a description of the field values, see [Workplace Profile Location Assignment form](../../workplace-service-delivery/reference/wsd-location-assignment-form.md).
+For a description of the field values, see [Workplace Profile Location Assignment form](../workplace-core/wsd-location-assignment-form.md).
 
 </td></tr><tr><td id="d161937e312">
 
@@ -129,7 +129,7 @@ For a description of the field values, see [Workplace Profile Location Assignmen
 2.  On the Space Assignment Tasks list, select **New**.
 3.  On the Workplace Task form, fill in the fields.
 
-For a description of the field values, see [Workplace Task form - Space Assignment task](../reference/workplace-task-space-assignment.md).
+For a description of the field values, see [Workplace Task form - Space Assignment task](workplace-task-space-assignment.md).
 
 4.  Select **Save**.
  **Note:** Assigning spaces based on the task can take several minutes.
@@ -144,7 +144,7 @@ For a description of the field values, see [Workplace Task form - Space Assignme
 2.  On the User assignment rules list, select **New**.
 3.  On the **Neighborhood User Assignment Rule** form, fill in the fields.
 
-For a description of the field values, see [Neighborhood User Assignment Rule form](../reference/user-assignment-rule-form.md).
+For a description of the field values, see [Neighborhood User Assignment Rule form](user-assignment-rule-form.md).
 
 4.  Select **Save**.
 5.  After the rule is created, select **Execute user assignments** on the neighborhood page.

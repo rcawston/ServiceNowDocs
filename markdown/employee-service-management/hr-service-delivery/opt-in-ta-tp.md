@@ -33,5 +33,5 @@ Role required: sn\_ta\_tp.talent\_profile\_admin
 
 You have opted in to the Talent Profile.
 
-**Parent Topic:**[Configuring Talent profile](../concept/config-tp.md)
+**Parent Topic:**[Configuring Talent profile](config-tp.md)
 

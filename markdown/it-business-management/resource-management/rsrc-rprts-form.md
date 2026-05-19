@@ -89,7 +89,7 @@ Role
 
 </td><td>
 
-The [resource role](../task/create-resource-role.md) from the selected group that you want to view the report for. This field is displayed only if you select **Group** in the **Entity Type** field and **Roles** in the **Group by** field.
+The [resource role](create-resource-role.md) from the selected group that you want to view the report for. This field is displayed only if you select **Group** in the **Entity Type** field and **Roles** in the **Group by** field.
 
 </td></tr><tr><td>
 
@@ -169,5 +169,5 @@ The unit in which capacity, availability, or allocation of a resource is display
 This field is displayed only when the **Report Type** field value is **Availability**, **Allocations**, or **Allocation Details**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+</table>**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

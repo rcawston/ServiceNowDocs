@@ -19,7 +19,7 @@ Use the Now® Mobile app to report your health status.
 
 Role required: sn\_imt\_quarantine.crisis\_task\_user
 
-To access this content, you must have the [Now Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../concept/emergency-self-report.md) application installed.
+To access this content, you must have the [Now Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../emergency-self-report/emergency-self-report.md) application installed.
 
 ## About this task
 
@@ -40,7 +40,7 @@ From the Safe Workplace for mobile app, users can access applications from the E
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](mobile-emergency-response.md)
 
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](mobile-emergency-response.md)
 

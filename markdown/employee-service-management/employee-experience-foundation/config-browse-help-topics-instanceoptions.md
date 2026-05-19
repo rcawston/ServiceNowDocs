@@ -61,7 +61,7 @@ Number of shifts to show. The choices are 7, 14, and 30 days. Default value: 7**
     **Note:** The latest shift information is available only after relogging.
 
 
-**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](../concept/emp-center-topic-inst-options.md)
+**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](emp-center-topic-inst-options.md)
 
 **Related topics**  
 

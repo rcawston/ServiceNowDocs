@@ -45,5 +45,5 @@ The following table lists supported Google BigQuery data types and the default m
 **Related topics**  
 
 
-[Create a Google BigQuery connection](../task/create-bigquery-connection-zcc.md)
+[Create a Google BigQuery connection](create-bigquery-connection-zcc.md)
 

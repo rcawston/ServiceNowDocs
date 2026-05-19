@@ -59,5 +59,5 @@ When you uninstall an application, all application files associated with the app
 9.  Click **Done**.
 
 
-**Parent Topic:**[Rolling back and removing applications](../concept/c_RemovingApplications.md)
+**Parent Topic:**[Rolling back and removing applications](c_RemovingApplications.md)
 

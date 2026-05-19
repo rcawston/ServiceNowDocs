@@ -36,5 +36,5 @@ This task describes how to find events that are not matched to rules.
 
 Create an event rule. For example, event rules are useful for managing events that occur regularly.
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](create-event-rules.md)
 

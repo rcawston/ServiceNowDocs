@@ -40,5 +40,5 @@ A stack can be dependent on multiple stacks, and multiple stacks can depend on a
 5.  Undo all the CI filter selections and reset the map setting by selecting **Reset**.
 
 
-**Parent Topic:**[Exploring the My Stacks tab](../concept/manage-stacks.md)
+**Parent Topic:**[Exploring the My Stacks tab](manage-stacks.md)
 

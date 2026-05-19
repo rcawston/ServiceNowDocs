@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-For detailed information about roles that are installed with Data Products, see [Prerequisites and setup](../concept/prerequisites-data-products-wdf.md).
+For detailed information about roles that are installed with Data Products, see [Prerequisites and setup](prerequisites-data-products-wdf.md).
 
 ## Procedure
 
@@ -28,5 +28,5 @@ For detailed information about roles that are installed with Data Products, see 
     -   [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignARoleToAUser.md)
     -   [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md)
 
-**Parent Topic:**[Configure data products](../concept/configure-data-products.md)
+**Parent Topic:**[Configure data products](configure-data-products.md)
 

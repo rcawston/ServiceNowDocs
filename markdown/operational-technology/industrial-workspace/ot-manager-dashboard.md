@@ -190,5 +190,5 @@ You can use the **Site** filter to search for and select the site that you want 
 
 For more information, see [Use the site filter](../../mftg-manufacturing-process-mgr/task/use-business-unit-and-site-filters.md).
 
-**Parent Topic:**[Dashboard Library in the Industrial Workspace](../../operational-technology-management/concept/dashboard-library-industrial-workspace.md)
+**Parent Topic:**[Dashboard Library in the Industrial Workspace](dashboard-library-industrial-workspace.md)
 

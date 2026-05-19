@@ -17,7 +17,7 @@ This workbench dashboard enables you to view and assess all open changes separat
 
 **Important:**
 
-Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](performance-analytics/change.md) to view, and track the open changes.
+Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](../change.md) to view, and track the open changes.
 
 ![Open Changes State Monitor dashboard](../image/change-open-changes-state-monitor.png "Open Changes State Monitor tab")
 

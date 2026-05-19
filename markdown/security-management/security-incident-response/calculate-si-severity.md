@@ -25,6 +25,6 @@ Role required: sn\_si.basic
 
 2.  Select the more actions icon ![](../image/more-actions-icon.png), and select **Calculate Severity**.
 
-    The severity is calculated based on the predefined rules for base calculators. For more information, see [Understanding security incident calculators](../reference/setup-assistant-reference.md#).
+    The severity is calculated based on the predefined rules for base calculators. For more information, see [Understanding security incident calculators](setup-assistant-reference.md#).
 
 

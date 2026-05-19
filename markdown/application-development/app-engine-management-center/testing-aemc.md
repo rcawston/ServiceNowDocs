@@ -19,7 +19,7 @@ Testing an application helps to ensure the viability of the changes on the produ
 
 Before you publish a submitted application, test it in a non-production instance. To begin testing, an admin must open the deployment request and select **Approve**. The pipeline record is read and determines the next state for the request.
 
-The goal of testing the application is to ensure the viability of the production instance. When the app has transitioned to the Testing state, ServiceNow Automated Test Framework tests run if you have [enabled the appropriate properties](../../pipelines-and-deployments/task/enable-atf-properties.md).
+The goal of testing the application is to ensure the viability of the production instance. When the app has transitioned to the Testing state, ServiceNow Automated Test Framework tests run if you have [enabled the appropriate properties](enable-atf-properties.md).
 
 If the application doesn't pass testing, then you reject the deployment request.
 
@@ -30,7 +30,7 @@ When you deploy or install an application to a test environment, two jobs are au
 -   Application Deployment Test Suite
 -   Scoped App Definitions instance scan
 
-These tests can be useful to the administrator for diagnosing issues before an app is deployed.For more information about what goes on during an application deployment, see [Pipelines and Deployments workflow version 24.1.2](../../pipelines-and-deployments/concept/pipelines-deployments-workflow-vs2.md).
+These tests can be useful to the administrator for diagnosing issues before an app is deployed.For more information about what goes on during an application deployment, see [Pipelines and Deployments workflow version 24.1.2](pipelines-deployments-workflow-vs2.md).
 
 <table id="table_ojh_znc_5rb"><thead><tr><th>
 
@@ -51,7 +51,7 @@ A set of Automated Test Framework \(ATF\) tests. The suite consists of a single 
 -   sn\_atf.runner.enabled
 -   sn\_atf.schedule.enabled
 
-If they aren't enabled, only the instance scan runs. For more information, see [Enable Automated Test Framework \(ATF\) properties](../../pipelines-and-deployments/task/enable-atf-properties.md).
+If they aren't enabled, only the instance scan runs. For more information, see [Enable Automated Test Framework \(ATF\) properties](enable-atf-properties.md).
 
 </td></tr><tr><td>
 

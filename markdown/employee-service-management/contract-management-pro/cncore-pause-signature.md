@@ -120,5 +120,5 @@ Resume the signature process after you have modified the signatories. For more i
 -   **[Resume signature process](cncore-resume-signature.md)**  
 Resume the paused signature process with the modified signatories.
 
-**Parent Topic:**[Signature workflow for a contract request](../concept/cncore-signature-workflow.md)
+**Parent Topic:**[Signature workflow for a contract request](cncore-signature-workflow.md)
 

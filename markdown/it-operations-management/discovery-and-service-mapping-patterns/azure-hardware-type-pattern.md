@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns finds Azure hardware type configurations 
 
 Discovery uses the Azure - Hardware Type \(LP\) pattern to discover available Azure hardware type configurations \(VM sizes\) from your Azure account.
 
-When using the Hardware Type \[cmdb\_ci\_compute\_template\] table to store the hardware types, you may notice an unusually large number of records. To avoid this issue, you can store the discovered hardware types in the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table. When enabled, Discovery launches the Azure - Cloud Hardware Type \(LP\) pattern to populate the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table. For more information, see [Enable the Cloud Hardware Type class extension](../../discovery/task/enable-hardware-type-class-extension.md).
+When using the Hardware Type \[cmdb\_ci\_compute\_template\] table to store the hardware types, you may notice an unusually large number of records. To avoid this issue, you can store the discovered hardware types in the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table. When enabled, Discovery launches the Azure - Cloud Hardware Type \(LP\) pattern to populate the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table. For more information, see [Enable the Cloud Hardware Type class extension](enable-hardware-type-class-extension.md).
 
 ## Pattern-based discovery and mapping requirements
 

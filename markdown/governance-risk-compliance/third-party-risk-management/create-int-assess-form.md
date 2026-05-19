@@ -89,7 +89,7 @@ Assessment Engine
 
 The assessment engine used for the Third-party risk assessment. This field is set to **Smart**.
 
-This field is only visible if you have enabled the Smart Assessment Engine enabled \[`sn_vdr_risk_asmt.sae_enabled`\] property. For more information about this property, see [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+This field is only visible if you have enabled the Smart Assessment Engine enabled \[`sn_vdr_risk_asmt.sae_enabled`\] property. For more information about this property, see [Configure TPRM properties](tprm-properties-configure.md).
 
 **Note:** When reviewing previous assessments, you can determine which engine was used by checking this field. If the assessment was created using the Classic assessment engine, the field displays **Classic**.
 
@@ -196,10 +196,10 @@ Additional comments \(Customer visible\)
 Public information about the assessment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[IRQ process management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-irq-tab.md)
+</table>**Parent Topic:**[IRQ process management](tprm-ws-dd-mgt-pg-irq-tab.md)
 
 **Related topics**  
 
 
-[Create an external assessment template](../task/create-vendor-risk-assess-temp.md)
+[Create an external assessment template](create-vendor-risk-assess-temp.md)
 

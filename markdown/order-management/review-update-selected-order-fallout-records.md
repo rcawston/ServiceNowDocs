@@ -35,10 +35,10 @@ If you have a fallout agent role, you can change the state of the fallout record
 
 5.  On the Fallout form, update the required fields.
 
-    For information about field descriptions, see the Fallout workspace fields section in [Fallout form fields](../reference/fields-create-fallout-form.md).
+    For information about field descriptions, see the Fallout workspace fields section in [Fallout form fields](fields-create-fallout-form.md).
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Managing order fallout](../concept/fallout-management-overview.md)
+**Parent Topic:**[Managing order fallout](fallout-management-overview.md)
 

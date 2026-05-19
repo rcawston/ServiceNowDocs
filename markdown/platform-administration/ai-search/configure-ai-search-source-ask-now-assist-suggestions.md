@@ -61,5 +61,5 @@ For more information on Ask Now Assist suggestions in enhanced chat, see [Enhanc
 5.  On the System Property form, set the system property's value to **true**, then select **Update**.
 
 
-**Parent Topic:**[Configuring Now Assist in AI Search](../concept/configuring-now-assist-ais.md)
+**Parent Topic:**[Configuring Now Assist in AI Search](configuring-now-assist-ais.md)
 

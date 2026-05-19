@@ -70,7 +70,7 @@ Get contextual guidance
 
 </td><td>
 
-[Recommended Actions](../../icw-industrial-connected-workforce/concept/recommended-actions-icw.md)
+[Recommended Actions](recommended-actions-icw.md)
 
 </td><td>
 
@@ -83,7 +83,7 @@ Collaborate without context-switching
 
 </td><td>
 
-[Initiate a Sidebar chat](../task/initiate-sidebar-chat-digital-factory-workspace.md)
+[Initiate a Sidebar chat](initiate-sidebar-chat-digital-factory-workspace.md)
 
 </td><td>
 
@@ -165,7 +165,7 @@ Get to the root cause
 -   Equipment owners
 
 </td></tr></tbody>
-</table>-   **[Exploring Industrial Standards](../reference/industrial-standards-landing-page.md)**  
+</table>-   **[Exploring Industrial Standards](industrial-standards-landing-page.md)**  
 Industrial Standards enable you to manage consistency and control across your manufacturing environment. Standardizing components such as standard operating procedures, shift structures, and production calendars. Standardization helps improve traceability, reduce errors, and support scalable, compliant operations.
 -   **[Exploring Industrial Guided Tasks](exploring-industrial-guided-tasks.md)**  
 Manage your industrial guided task \(IGT\) standards with Industrial Guided Tasks.
@@ -175,7 +175,7 @@ Use the task lists in the Digital Factory Workspace to access and manage all typ
 Use the fields available to distinguish workflows and produce reliable metrics.
 -   **[AI Search in Digital Factory Workspace](ai-search-digital-factory-workspace.md)**  
 Access the AI Search for Digital Factory Workspace by using the search bar. The system interprets queries to return the most relevant results across configured record types, such as standards, tasks, and knowledge articles.
--   **[Recommended Actions for the Industrial Connected Workforce](../../icw-industrial-connected-workforce/concept/recommended-actions-icw.md)**  
+-   **[Recommended Actions for the Industrial Connected Workforce](recommended-actions-icw.md)**  
 The Recommended Actions feature displays suggested actions directly on task forms. These suggestions are based on the current context of the task. They’re intended to support you during the manufacturing processes with a relevant guidance.
 -   **[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](icw-health-and-security-integraton.md)**  
 The ServiceNow Health and Safety Incident Management connects with the Industrial Connected Workforce \(ICW\) suite and enables you to report, triage, and eliminate safety incidents directly from the shop floor.

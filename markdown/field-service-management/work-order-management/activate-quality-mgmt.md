@@ -35,7 +35,7 @@ The following items are installed with Field Service Quality Management:
 -   Substates
 -   Roles
 
-For more information, see [Field Service Quality Management components](../reference/quality-mgmt-components.md).
+For more information, see [Field Service Quality Management components](../quality-mgmt-components.md).
 
 ## Procedure
 
@@ -55,11 +55,11 @@ For more information, see [Field Service Quality Management components](../refer
 **Related topics**  
 
 
-[Field Service Quality Management](../concept/quality-management-fsm.md)
+[Field Service Quality Management](../quality-management-fsm.md)
 
 [Review a task](review-send-task-back.md)
 
-[Respond to a reviewed work order task](../concept/close-wo-wot-mobile.md#)
+[Respond to a reviewed work order task](close-wo-wot-mobile.md#)
 
-[Field Service Quality Management components](../reference/quality-mgmt-components.md)
+[Field Service Quality Management components](../quality-mgmt-components.md)
 

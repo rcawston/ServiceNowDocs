@@ -28,7 +28,7 @@ Role required: survey\_admin or admin
 
 You define, configure, and publish conversational questionnaires \(surveys\) using [Survey Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md). You can use various survey controls to define the content of your questionnaires. For details on the survey controls available, see [Survey designer elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesignerElements.md) to see how the controls are rendered in the survey. For example, the Choice control provides a multiple choice selection to your users.
 
-The survey controls map to corresponding Virtual Agent Designer input controls that render the survey as a conversation in the chat client. For examples on how Virtual Agent Designer input controls are rendered in run-time conversations, see [Virtual Agent Designer user input controls](../../virtual-agent/reference/va-user-inputs.md). The following table identifies the survey controls supported in Virtual Agent Designer.
+The survey controls map to corresponding Virtual Agent Designer input controls that render the survey as a conversation in the chat client. For examples on how Virtual Agent Designer input controls are rendered in run-time conversations, see [Virtual Agent Designer user input controls](virtual-agent/va-user-inputs.md). The following table identifies the survey controls supported in Virtual Agent Designer.
 
 |Survey Designer controls|Comparable Virtual Agent Designer user input controls|
 |------------------------|-----------------------------------------------------|
@@ -83,5 +83,5 @@ The survey controls map to corresponding Virtual Agent Designer input controls t
 
 Define the pre-chat and post-chat survey configurations that control the surveys to be presented to your requesters.
 
-**Parent Topic:**[General chat settings](../concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](ci-configuring-chat-features.md)
 

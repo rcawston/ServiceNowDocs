@@ -279,5 +279,5 @@ Number of seconds that the system waits for a successful host connection.
 
 The connection and credential alias record is configured to connect your ServiceNow instance with Google Sheets.
 
-**Parent Topic:**[Exporting your table records to Google Sheets](../concept/setup-gsheet-export.md)
+**Parent Topic:**[Exporting your table records to Google Sheets](setup-gsheet-export.md)
 

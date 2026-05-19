@@ -20,8 +20,8 @@ You can install the Asset Audit Response application \(com.sn\_audit\_response\)
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Asset Audit Response](https://store.servicenow.com/sn_appstore_store.do#!/store/application/9664697a7fd7121015742fab1d866566/1.0.1) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   Ensure that at least one of the following applications is already installed on your ServiceNow instance:
-    -   The ServiceNow® Software Asset Management application — For instructions on how to install this application, see [Request Software Asset Management](../../software-asset-management2/task/t_RequSoftwareAssetMgmt.md).
-    -   The ServiceNow® Hardware Asset Management application — For instructions on how to install this application, see [Install Hardware Asset Management](../../hardware-asset-management/task/install-ham.md).
+    -   The ServiceNow® Software Asset Management application — For instructions on how to install this application, see [Request Software Asset Management](../software-asset-management/t_RequSoftwareAssetMgmt.md).
+    -   The ServiceNow® Hardware Asset Management application — For instructions on how to install this application, see [Install Hardware Asset Management](../hardware-asset-management/install-ham.md).
 
 Role required: admin
 
@@ -33,7 +33,7 @@ The following items are installed with Asset Audit Response:
 -   Roles
 -   Tables
 
-For more information, see [Installed with Asset Audit Response](../reference/installed-with-asset-audit-response.md).
+For more information, see [Installed with Asset Audit Response](installed-with-asset-audit-response.md).
 
 ## Procedure
 
@@ -58,5 +58,5 @@ For more information, see [Installed with Asset Audit Response](../reference/ins
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Asset Audit Response](../concept/configuring-asset-audit-response.md)
+**Parent Topic:**[Configuring Asset Audit Response](configuring-asset-audit-response.md)
 

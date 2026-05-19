@@ -155,10 +155,10 @@ Select a sector in the chart and this opens the list view filtered by the select
         |Outbound intelligence - Distribution by Format \(30 days\)|Displays the format distribution \(for example, MISP, STIX\) of outbound intelligence over the last 30 days.|Selecting this widget opens the list page with filtered records.|
 
 
-**Parent Topic:**[Explore](../reference/threat-intelligence-security-center-overview.md)
+**Parent Topic:**[Explore](threat-intelligence-security-center-overview.md)
 
 **Related topics**  
 
 
-[TISC Key terminology](../reference/tisc-key-terminology.md)
+[TISC Key terminology](tisc-key-terminology.md)
 

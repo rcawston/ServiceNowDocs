@@ -46,5 +46,5 @@ The Model Risk Coordinator \[sn\_model\_risk\_mgmt.risk\_coordinator\] can also 
 
 [Perform model risk assessment](perform-model-risk-assessment.md)
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

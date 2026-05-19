@@ -44,23 +44,23 @@ Role required: now\_assist\_panel\_user. To schedule an export, you also need pa
 
 **Tip:** After an export request is complete, reset the conversation before beginning a new request. Otherwise, some option selections might carry over to the new request. If this happens anyway, consider clearing your browser cache.
 
--   **[Supported export output types](../reference/nowass-supported-export-output.md)**  
+-   **[Supported export output types](nowass-supported-export-output.md)**  
 The dashboard and visualization output skill supports the same outputs for the same data visualizations as Platform Analytics generally.
--   **[Export destinations](../reference/nowass-export-destinations.md)**  
+-   **[Export destinations](nowass-export-destinations.md)**  
 When you export a dashboard or data visualization in the Now Assist panel, you have to specify the destination.
--   **[Limitations for exporting dashboards and visualizations](../reference/limitations-exporting-db-dv.md)**  
+-   **[Limitations for exporting dashboards and visualizations](limitations-exporting-db-dv.md)**  
 The dashboard and visualization export skill supports only some dashboards for export. Requests for export are not always recognized or understood correctly.
--   **[Export guidelines and examples](../reference/nowass-export-guidelines-examples.md)**  
+-   **[Export guidelines and examples](nowass-export-guidelines-examples.md)**  
 In your prompts for the dashboard and visualization export skill, you can describe the export you want with a variable amount of detail. You are prompted for any necessary information that is missing. Before the export runs, you are asked to review the request, giving you a chance to change any options.
 
-**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](../reference/analytics-assist-landing-page.md)
+**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](analytics-assist-landing-page.md)
 
 **Related topics**  
 
 
 [Export a data visualization from the Visualization Designer](export-visualization-vd.md)
 
-[Export a Platform Analytics dashboard](../../dashboards/task/export-pae-dashboard-ppt.md)
+[Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
 
 [Schedule the export of data visualizations or dashboards](schedule-visn-export-vd.md)
 

@@ -157,7 +157,7 @@ The script configuring the mapping between fields and record producer variables.
     ![Update template mappings](../image/cmpro-template-map-update.png "Template mappings")
 
 
-**Parent Topic:**[Create contract template by manually adding content controls](../concept/cncore-setup-ct-manual.md)
+**Parent Topic:**[Create contract template by manually adding content controls](cncore-setup-ct-manual.md)
 
 **Related topics**  
 

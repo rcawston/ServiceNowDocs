@@ -155,7 +155,7 @@ The topic block returns the variable case\_sys\_id
 **Related topics**  
 
 
-[Customer Service Virtual Agent conversations](../concept/csm-virtual-agent-chatbot.md)
+[Customer Service Virtual Agent conversations](csm-virtual-agent-chatbot.md)
 
 [Maximizing code reuse with topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-blocks-overview.md)
 

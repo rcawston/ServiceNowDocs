@@ -21,7 +21,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## About this task
 
-If you have the Legal Virtual Agent Conversations application installed on your instance, you can submit a privacy assessment request through the Virtual Agent chat. For more information, see [Legal Virtual Agent Conversations](../../legal-request-management/concept/legal-va-conversations.md).
+If you have the Legal Virtual Agent Conversations application installed on your instance, you can submit a privacy assessment request through the Virtual Agent chat. For more information, see [Legal Virtual Agent Conversations](../legal-service-delivery/legal-va-conversations.md).
 
 ## Procedure
 
@@ -74,10 +74,10 @@ Description
 
 -   A privacy assessment request is created in the New state.
 
--   The request is assigned to a group or user in the legal department based on the assignment rule set in the associated practice area. For more information, see [Assignment rule to automatically assign legal requests or matters](../../legal-request-management/task/create-assignment-rules-intake-form.md).
+-   The request is assigned to a group or user in the legal department based on the assignment rule set in the associated practice area. For more information, see [Assignment rule to automatically assign legal requests or matters](../legal-request-management/create-assignment-rules-intake-form.md).
 -   If the administrator has configured notifications, you receive notifications about the progress of the request.
 
-**Parent Topic:**[Privacy assessment requests](../concept/privacy-assessment-requests.md)
+**Parent Topic:**[Privacy assessment requests](privacy-assessment-requests.md)
 
 **Related topics**  
 

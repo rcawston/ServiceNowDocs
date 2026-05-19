@@ -19,9 +19,9 @@ The Discovery and Service Mapping Patterns application uses the Network Router p
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about network routers and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md).
+To learn about network routers and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md).
 
-For information on probe-based network switch and router discovery, see [Network switch and router discovery](../../discovery/reference/r_DataCollDiscoNWRouteAndSwitch.md).
+For information on probe-based network switch and router discovery, see [Network switch and router discovery](../itom-visibility/r_DataCollDiscoNWRouteAndSwitch.md).
 
 ## Prerequisites
 
@@ -151,5 +151,5 @@ Discovery creates these relationships to support the network router discovery.
 |Switch Spanning Tree Table \[discovery\_switch\_spanning\_tree\_table\]|References|IP Router \[cmdb\_ci\_ip\_router\]|
 |Switchport \[dscy\_switchport\]|References|IP Router \[cmdb\_ci\_ip\_router\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

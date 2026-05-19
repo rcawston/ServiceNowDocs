@@ -50,9 +50,9 @@ Allow class upgrade during IRE identification and reconciliation.
 -   Type: true \| false
 -   Default value: true
 -   Location: **Configuration** &gt; **CMDB Properties** &gt; **Identification/Reconciliation Properties**
--   Learn more: [Configure CI reclassification during IRE processing](../concept/c_CIReclassification.md#).
+-   Learn more: [Configure CI reclassification during IRE processing](c_CIReclassification.md#).
 
- When **false**, IRE rejects a payload \(or a payload item in Enhanced IRE\) with the respective reclassification update, and creates a [reclassification task](../task/t_ViewReclassificationTask.md).
+ When **false**, IRE rejects a payload \(or a payload item in Enhanced IRE\) with the respective reclassification update, and creates a [reclassification task](t_ViewReclassificationTask.md).
 
 </td></tr><tr><td>
 
@@ -65,9 +65,9 @@ Allow class downgrades during IRE identification and reconciliation.
 -   Type: true \| false
 -   Default value: true
 -   Location: **Configuration** &gt; **CMDB Properties** &gt; **Identification/Reconciliation Properties**
--   Learn more: [Configure CI reclassification during IRE processing](../concept/c_CIReclassification.md#).
+-   Learn more: [Configure CI reclassification during IRE processing](c_CIReclassification.md#).
 
- When **false**, IRE rejects a payload \(or a payload item in Enhanced IRE\) with the respective reclassification update, and creates a [reclassification task](../task/t_ViewReclassificationTask.md).
+ When **false**, IRE rejects a payload \(or a payload item in Enhanced IRE\) with the respective reclassification update, and creates a [reclassification task](t_ViewReclassificationTask.md).
 
 </td></tr><tr><td>
 
@@ -80,9 +80,9 @@ Allow class switching during IRE identification and reconciliation.
 -   Type: true \| false
 -   Default value: true
 -   Location: **Configuration** &gt; **CMDB Properties** &gt; **Identification/Reconciliation Properties**
--   Learn more: [Configure CI reclassification during IRE processing](../concept/c_CIReclassification.md#).
+-   Learn more: [Configure CI reclassification during IRE processing](c_CIReclassification.md#).
 
- When **false**, IRE rejects a payload \(or a payload item in Enhanced IRE\) with the respective reclassification update, and creates a [reclassification task](../task/t_ViewReclassificationTask.md).
+ When **false**, IRE rejects a payload \(or a payload item in Enhanced IRE\) with the respective reclassification update, and creates a [reclassification task](t_ViewReclassificationTask.md).
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Enable IRE to process CI updates with upgrade reclassification updates. This pro
  -   Type: true \| false
 -   Default value: false
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   Learn more: [Configure CI reclassification during IRE processing](../concept/c_CIReclassification.md#).
+-   Learn more: [Configure CI reclassification during IRE processing](c_CIReclassification.md#).
 
  Depending on the property setting, IRE processes or skips the upgrade update:
 
@@ -113,7 +113,7 @@ Enable IRE to process CI updates with downgrade reclassification updates. This p
  -   Type: true \| false
 -   Default value: false
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   Learn more: [Configure CI reclassification during IRE processing](../concept/c_CIReclassification.md#).
+-   Learn more: [Configure CI reclassification during IRE processing](c_CIReclassification.md#).
 
  Depending on the property setting, IRE processes or skips the downgrade update:
 
@@ -131,7 +131,7 @@ Enable IRE to process CI updates with switch reclassification updates. This prop
  -   Type: true \| false
 -   Default value: false
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   Learn more: [Configure CI reclassification during IRE processing](../concept/c_CIReclassification.md#).
+-   Learn more: [Configure CI reclassification during IRE processing](c_CIReclassification.md#).
 
  Depending on the property setting, IRE processes or skips the switch update:
 
@@ -149,7 +149,7 @@ Globally enable or disable the application of active reclassification restrictio
  -   Type: true \| false
 -   Default value: true
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   Learn more: [Configure CI reclassification during IRE processing](../concept/c_CIReclassification.md#).
+-   Learn more: [Configure CI reclassification during IRE processing](c_CIReclassification.md#).
 
 </td></tr><tr><td>
 
@@ -320,7 +320,7 @@ Maximum number of items allowed when creating a partial payload. When that limit
 
  -   Type: integer
 -   Default: 1000
--   Learn more: [Identification and Reconciliation Engine \(IRE\)](../concept/ire.md)
+-   Learn more: [Identification and Reconciliation Engine \(IRE\)](ire.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table
 
 </td></tr><tr><td>
@@ -364,7 +364,7 @@ Determines how IRE updates the **last\_discovered** and the **discovery\_source*
 
  -   Type: true \| false
 -   Default: true
--   Learn more: [Identification and Reconciliation Engine \(IRE\)](../concept/ire.md)
+-   Learn more: [Identification and Reconciliation Engine \(IRE\)](ire.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
@@ -373,11 +373,11 @@ glide.identification\_engine.ire\_message\_listener\_skip\_updating\_source\_las
 
 </td><td>
 
-If Robust Transform Engine \(RTE\) does not pass the **ire.skip\_updating\_last\_scan\_to\_now** custom property on the [Robust Import Set Transformer form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/create-robust-import-set-transformer.md), IRE uses the value of this property for the **skip\_updating\_source\_last\_discovered\_to\_now** [IRE option](../concept/ire.md).
+If Robust Transform Engine \(RTE\) does not pass the **ire.skip\_updating\_last\_scan\_to\_now** custom property on the [Robust Import Set Transformer form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/create-robust-import-set-transformer.md), IRE uses the value of this property for the **skip\_updating\_source\_last\_discovered\_to\_now** [IRE option](ire.md).
 
  -   Type: true \| false
 -   Default: false
--   Learn more: [Identification and Reconciliation Engine \(IRE\)](../concept/ire.md)
+-   Learn more: [Identification and Reconciliation Engine \(IRE\)](ire.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
@@ -397,7 +397,7 @@ Determines how IRE uses the **source\_recency\_timestamp** value in a payload to
 
  -   Type: true \| false
 -   Default: true
--   Learn more: [About mapping data columns to CMDB classes and attributes](../concept/create-etl-transform-map.md#) and [Identification and Reconciliation Engine \(IRE\)](../concept/ire.md)
+-   Learn more: [About mapping data columns to CMDB classes and attributes](../integration-hub-etl/create-etl-transform-map.md#) and [Identification and Reconciliation Engine \(IRE\)](ire.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
@@ -406,11 +406,11 @@ glide.identification\_engine.ire\_message\_listener\_skip\_updating\_last\_scan\
 
 </td><td>
 
-If RTE does not pass the **ire.skip\_updating\_last\_scan\_to\_now** custom property on the [Robust Import Set Transformer form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/create-robust-import-set-transformer.md), IRE uses the value of this property for the **ire.skip\_updating\_last\_scan\_to\_now** [IRE option](../concept/ire.md).
+If RTE does not pass the **ire.skip\_updating\_last\_scan\_to\_now** custom property on the [Robust Import Set Transformer form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/create-robust-import-set-transformer.md), IRE uses the value of this property for the **ire.skip\_updating\_last\_scan\_to\_now** [IRE option](ire.md).
 
  -   Type: true \| false
 -   Default: false
--   Learn more: [About mapping data columns to CMDB classes and attributes](../concept/create-etl-transform-map.md#) and [Identification and Reconciliation Engine \(IRE\)](../concept/ire.md)
+-   Learn more: [About mapping data columns to CMDB classes and attributes](../integration-hub-etl/create-etl-transform-map.md#) and [Identification and Reconciliation Engine \(IRE\)](ire.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
@@ -426,7 +426,7 @@ Toggles domain separation support mode during IRE processing.
 
  -   Type: true \| false
 -   Default: false
--   Learn more: [Domain separation and CMDB Identification and Reconciliation](../concept/domain-separation-identification-reconciliation.md)
+-   Learn more: [Domain separation and CMDB Identification and Reconciliation](domain-separation-identification-reconciliation.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
@@ -447,7 +447,7 @@ To prevent unexpected behavior, review those predefined conditions in regular id
 
  -   Type: true \| false
 -   Default: false
--   Learn more: [Create a CI identification rule](../task/t_CreateCIIdentificationRule.md)
+-   Learn more: [Create a CI identification rule](t_CreateCIIdentificationRule.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
@@ -460,7 +460,7 @@ Determines whether filter conditions of a reconciliation rule are applied before
 
  -   Type: true \| false
 -   Default: false
--   Learn more: [Create a static reconciliation rule](../concept/create-reconciliation-rule.md#), [Create a dynamic reconciliation rule](../concept/create-reconciliation-rule.md#)
+-   Learn more: [Create a static reconciliation rule](create-reconciliation-rule.md#), [Create a dynamic reconciliation rule](create-reconciliation-rule.md#)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
@@ -477,7 +477,7 @@ Determines whether IRE identification processes have the priority in being used 
 
  -   Type: true \| false
 -   Default: false
--   Learn more: [Identification and Reconciliation Engine \(IRE\)](../concept/ire.md)
+-   Learn more: [Identification and Reconciliation Engine \(IRE\)](ire.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
@@ -492,7 +492,7 @@ Enables IRE behavior of creating de-duplication tasks for duplicate related item
 
  -   Type: true \| false
 -   Default: false
--   Learn more: [Detecting duplicate CIs](../concept/id-detect-dup-ci.md)
+-   Learn more: [Detecting duplicate CIs](id-detect-dup-ci.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
@@ -505,7 +505,7 @@ Switch between using Dynamic IRE or Static IRE. Set to 'true' to use Dynamic IRE
 
  -   Type: true \| false
 -   Default: false
--   Learn more: [Dynamic IRE](../concept/dynamic-ire.md)
+-   Learn more: [Dynamic IRE](dynamic-ire.md)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr></tbody>

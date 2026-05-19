@@ -64,7 +64,7 @@ Dispute agents can also use the Help resolve friendly fraud disputes agentic wor
 
     If the Friendly fraud AI Agent in Now Assist for FSO is enabled and is triggered based on the rules in the agentic workflow, then the AI agent provides a recommendation for the dispute along with a valid reason. The AI agent guides the dispute agent using the Now Assist panel to select the appropriate action and provide the reasons for the selection of options.
 
-    For more information, see [Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](../../fso-now-assist/concept/using-ai-agent-use-cases-in-now-assist-for-fso.md).
+    For more information, see [Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](../now-assist-for-financial-services-operations-fso/using-ai-agent-use-cases-in-now-assist-for-fso.md).
 
 9.  Select one of the following options.
 
@@ -115,7 +115,7 @@ The **Report fraud** activity is displayed. Follow the further steps to resolve 
 **Related topics**  
 
 
-[Now Assist for Financial Services Operations \(FSO\)](../../fso-common/concept/now-assist-for-financial-services-operations.md)
+[Now Assist for Financial Services Operations \(FSO\)](../now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md)
 
-[Resolve friendly fraud by using agentic AI](../../fso-now-assist/task/resolve-friendly-fraud-using-agentic-ai.md)
+[Resolve friendly fraud by using agentic AI](../now-assist-for-financial-services-operations-fso/resolve-friendly-fraud-using-agentic-ai.md)
 

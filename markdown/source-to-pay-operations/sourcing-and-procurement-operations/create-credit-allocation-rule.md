@@ -56,5 +56,5 @@ You can create a condition-based credit allocation rule for an employee shopper 
 
 Use the related list of the credit allocation rule form to view the employee credits associated with this rule.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

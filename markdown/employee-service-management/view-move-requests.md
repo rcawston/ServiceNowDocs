@@ -36,7 +36,7 @@ Role required: sn\_wsd\_move.manager
     -   Related cases
     -   Conflicts review
 
-**Parent Topic:**[Analytics and reporting solutions for Workplace Move Management](../concept/analytics-reporting-solution.md)
+**Parent Topic:**[Analytics and reporting solutions for Workplace Move Management](analytics-reporting-solution.md)
 
 **Related topics**  
 

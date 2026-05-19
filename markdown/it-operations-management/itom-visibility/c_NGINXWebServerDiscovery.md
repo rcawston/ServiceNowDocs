@@ -53,7 +53,7 @@ The following probes require execute privileges to run commands:
 |Nginx – Version|nginx|
 |Nginx – Get Configuration|echo, sed, httpd, cut, grep, egrep \(within the Bourne shell script\)|
 
-**Note:** The Nginx pattern performs top-down discovery on both Windows and Linux servers. For information on prerequisites for top-down discovery for NGINX web servers, see [Prerequisites for performing top-down discovery using Service Mapping](../../service-mapping/reference/prerequisites-service-mapping.md).
+**Note:** The Nginx pattern performs top-down discovery on both Windows and Linux servers. For information on prerequisites for top-down discovery for NGINX web servers, see [Prerequisites for performing top-down discovery using Service Mapping](../service-mapping/prerequisites-service-mapping.md).
 
 ## Probes and Sensors
 

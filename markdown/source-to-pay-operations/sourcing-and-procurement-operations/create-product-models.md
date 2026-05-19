@@ -269,7 +269,7 @@ Sourcing time in days
 
 Number of days that are required to source a product of this category from the supplier.This field is auto-populated based on the selected product category.
 
- For details, see [Lead time calculations](../reference/lead-time-calculations.md).
+ For details, see [Lead time calculations](lead-time-calculations.md).
 
 </td></tr><tr><td>
 
@@ -279,7 +279,7 @@ Purchasing time in days
 
 Number of days that are required to complete a purchase order for products in this category. This field is auto-populated based on the selected product category.
 
- For details, see [Lead time calculations](../reference/lead-time-calculations.md).
+ For details, see [Lead time calculations](lead-time-calculations.md).
 
 </td></tr></tbody>
 </table>5.  Select **Submit**.

@@ -42,5 +42,5 @@ Role required: admin
 
 After you create a column, associate the column to the required table.
 
-**Parent Topic:**[Test Board in Test Management 2.0](../concept/test-board.md)
+**Parent Topic:**[Test Board in Test Management 2.0](test-board.md)
 

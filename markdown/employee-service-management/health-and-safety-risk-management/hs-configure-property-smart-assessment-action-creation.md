@@ -35,8 +35,8 @@ Role required: sn\_hs\_rm.safety\_inspection\_manager or admin
 -   The **More actions** icon \(![More icon](../../human-resources/image/agent-workspace-more-ui-actions-icon.jpg)\) appears for configured questions in a smart assessment questionnaire and when selected, shows the **Actions list** button.
 -   In the **Assessment action list** page within a smart assessment, selecting **More actions** again shows the **Create action** button, which enables users to add actions or findings for that question.
 
-    For more information on creating action or findings, see [Create actions or findings for the smart assessment questionnaire](../../hs-health-safety-mobile/task/hs-create-actions-findings-smart-assessments.md).
+    For more information on creating action or findings, see [Create actions or findings for the smart assessment questionnaire](../health-and-safety/hs-create-actions-findings-smart-assessments.md).
 
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](hs-setting-up-risk-mgmt.md)
 

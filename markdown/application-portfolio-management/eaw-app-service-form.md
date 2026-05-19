@@ -76,5 +76,5 @@ An application service is a configuration item \(CI\) that represents the operat
 **Related topics**  
 
 
-[Add or edit an application service in the Enterprise Architecture Workspace](../../task/eaw-task/eaw-add-appl-service.md)
+[Add or edit an application service in the Enterprise Architecture Workspace](eaw-add-appl-service.md)
 

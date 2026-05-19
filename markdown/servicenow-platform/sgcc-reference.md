@@ -18,5 +18,5 @@ Several types of components are installed with activation of the SGC Central \(s
 -   **[Domain separation and SGC Central](sgcc-domain-separation.md)**  
 Domain separation is unsupported for SGC Central. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[SGC Central](../reference/sgcc-landing.md)
+**Parent Topic:**[SGC Central](sgcc-landing.md)
 

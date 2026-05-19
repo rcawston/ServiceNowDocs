@@ -15,11 +15,11 @@ Set up the environment for high density robots on a Windows Server machine by in
 
 ## Before you begin
 
-Familiarize yourself with high density robots concepts. For more information, see [High density robots in Unattended Robot](../concept/high-density-robots-uat.md) and [High density robots in RPA Hub](../../rpa-hub/concept/high-density-robots-rpa-hub.md).
+Familiarize yourself with high density robots concepts. For more information, see [High density robots in Unattended Robot](high-density-robots-uat.md) and [High density robots in RPA Hub](high-density-robots-rpa-hub.md).
 
 The Remote Desktop Session Host service requires a valid license.
 
-Ensure that you follow the hardware and software requirements. For more information, see [Requirements for Unattended Robot](../reference/requirements-unattended-robot.md).
+Ensure that you follow the hardware and software requirements. For more information, see [Requirements for Unattended Robot](requirements-unattended-robot.md).
 
 Role required: admin
 
@@ -68,7 +68,7 @@ Role required: admin
 
 Restart the Windows Server machine after the installation is complete.
 
-Enable the high density robot option in RPA Hub. For more information, see [Create an unattended robot in RPA Hub](../../rpa-hub/task/create-unattended-robot.md).
+Enable the high density robot option in RPA Hub. For more information, see [Create an unattended robot in RPA Hub](create-unattended-robot.md).
 
 [Install Unattended Robot](install-rpa-runtime.md).
 

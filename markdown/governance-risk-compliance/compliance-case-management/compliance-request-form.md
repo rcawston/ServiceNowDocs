@@ -199,5 +199,5 @@ Save
 Save the details of the compliance case.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a compliance request in the Compliance Workspace](../task/create-compliance-request.md)
+</table>**Parent Topic:**[Create a compliance request in the Compliance Workspace](create-compliance-request.md)
 

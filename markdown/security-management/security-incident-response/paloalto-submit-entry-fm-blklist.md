@@ -164,7 +164,7 @@ Cancels the override. At this point, you can change the value for the **Expirati
 
 Approve EDL entries.
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
 **Previous topic:**[Submit EDL entries from a security incident record for Palo Alto Networks Next-Generation Firewall](paloalto-submit-edl-snsi.md)
 
@@ -173,5 +173,5 @@ Approve EDL entries.
 **Related topics**  
 
 
-[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](../reference/paloalto-edl-execptions.md)
+[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](paloalto-edl-execptions.md)
 

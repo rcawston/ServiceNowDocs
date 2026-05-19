@@ -58,7 +58,7 @@ The policy version is saved and the version is assigned a number according to po
 
 -   Define API Variables, Config Parameters, and Record References.
 
-    See [Passing parameters to PaCE policies](../concept/pace-passing-parameters.md).
+    See [Passing parameters to PaCE policies](pace-passing-parameters.md).
 
 -   Modify the policy script.
 
@@ -66,7 +66,7 @@ The policy version is saved and the version is assigned a number according to po
 
 -   Test your policy version to ensure it is compliant.
 
-    See [Use the Test Playground for PaCE policies](../concept/pace-use-test-playground.md) for details.
+    See [Use the Test Playground for PaCE policies](pace-use-test-playground.md) for details.
 
 -   Publish the policy version.
 

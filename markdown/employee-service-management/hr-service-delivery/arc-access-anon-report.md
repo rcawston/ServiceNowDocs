@@ -44,7 +44,7 @@ Role required: none
 9.  Select **Post**.
 
 
-**Parent Topic:**[Using the Anonymous Report Center](../concept/arc-use.md)
+**Parent Topic:**[Using the Anonymous Report Center](arc-use.md)
 
 **Related topics**  
 

@@ -109,5 +109,5 @@ Enable the **Unassigned tasks** toggle and build a filter condition to view unas
 
 For more information on how to filter and view unassigned work, and handle resource assignments, see [Assign and approve unassigned work using Resource Management Workspace](allocate-resources-rmw.md).
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](using-rmw.md)
 

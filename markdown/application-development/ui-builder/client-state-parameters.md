@@ -34,7 +34,7 @@ Creating client-side interactions in UI Builder involves:
 
 -   Client state parameters
 -   [Events](event-mapping.md)
--   [Client scripts](../task/define-client-scripts.md)
+-   [Client scripts](define-client-scripts.md)
 
 ## What are client state parameters
 
@@ -122,9 +122,9 @@ When the **Button clicked** event is mapped to event handlers to update both the
 
 ![Button that updates the components filter to show specific occasions.](../image/client-state-button-event.png)
 
--   **[Using client state parameters in UI Builder](../task/create-simple-counter-component.md)**  
+-   **[Using client state parameters in UI Builder](create-simple-counter-component.md)**  
 Create a simple counter by adding the stylized text component and two buttons to an experience page. Use a client state parameter to implement the functionality so that when the buttons are selected the count increases or decreases.
--   **[Update a component’s state using client state parameters](../task/state-parameters.md)**  
+-   **[Update a component’s state using client state parameters](state-parameters.md)**  
 Create and bind a client state parameter value to a component in UI Builder. By adding custom values to your components, these components can then be automatically updated through a script.
 
 **Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](data-resources.md)

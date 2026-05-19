@@ -146,7 +146,7 @@ Any role, to delete a data visualization that you created. viz\_admin or higher 
 
 </td></tr><tr><td>
 
-[Control data source availability by role](../task/dv-use-data-source-acl.md)
+[Control data source availability by role](dv-use-data-source-acl.md)
 
 </td><td>
 
@@ -154,7 +154,7 @@ admin
 
 </td></tr><tr><td>
 
-[Configure visualization interactions](../../reporting/task/configure-go-data.md)
+[Configure visualization interactions](configure-go-data.md)
 
 </td><td>
 
@@ -162,7 +162,7 @@ Any role if you have the right to edit the data visualization. The viewer needs 
 
 </td></tr><tr><td>
 
-[Use service catalog variables in data visualizations](../../reporting/concept/dv-rep-sc-variables.md#)
+[Use service catalog variables in data visualizations](dv-rep-sc-variables.md#)
 
 </td><td>
 
@@ -170,7 +170,7 @@ viz\_creator or higher
 
 </td></tr><tr><td>
 
-[Create coloring rules for data visualizations](../../performance-analytics/concept/colors-dv.md#)
+[Create coloring rules for data visualizations](colors-dv.md#)
 
 </td><td>
 

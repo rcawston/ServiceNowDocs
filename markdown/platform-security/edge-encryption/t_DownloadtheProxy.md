@@ -46,5 +46,5 @@ Role required: security\_admin
 
 After downloading the Edge Encryption installer, [Install the Edge Encryption proxy server using the interactive installer](proxy-installer.md). If installing manually, [Install the Edge Encryption proxy server using the command line installer](manual-proxy-install.md).
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](c_InstallEdgeEncryptionProxy.md)
 

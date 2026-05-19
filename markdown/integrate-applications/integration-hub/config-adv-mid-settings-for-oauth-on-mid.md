@@ -25,7 +25,7 @@ Confirm that you have set up the connection record for the spoke.
 
 ## About this task
 
-Setting up MID Server may be mandatory or optional for the spoke that you set up. For example, configuring MID Server is required for [Microsoft Active Directory v2 Spoke](../concept/ms-ad-v2-spoke.md) but optional for the [Jira Spoke](../concept/jira-spoke-v3-0-2.md). Use this procedure to set up the MID Server for your spoke after you have set up your spoke by filling the default connection alias form.
+Setting up MID Server may be mandatory or optional for the spoke that you set up. For example, configuring MID Server is required for [Microsoft Active Directory v2 Spoke](ms-ad-v2-spoke.md) but optional for the [Jira Spoke](jira-spoke-v3-0-2.md). Use this procedure to set up the MID Server for your spoke after you have set up your spoke by filling the default connection alias form.
 
 ## Procedure
 
@@ -103,5 +103,5 @@ The application the MID Server must support to be eligible for selection. The sy
 
 Confirm that the spoke connection form has the Use MID option.
 
-**Parent Topic:**[Building integrations in Integration Hub](../../integrationhub/concept/building-integrations-ih.md)
+**Parent Topic:**[Building integrations in Integration Hub](building-integrations-ih.md)
 

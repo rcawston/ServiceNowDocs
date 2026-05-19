@@ -61,7 +61,7 @@ User criteria
 
 </td><td>
 
-User criteria for the performer criteria for approvals. This field appears only if the **Is dynamic** option isn’t selected. To add a user criteria, refer to [Create a user criteria record](../../wsd-reservation-management/task/create-user-criteria.md).
+User criteria for the performer criteria for approvals. This field appears only if the **Is dynamic** option isn’t selected. To add a user criteria, refer to [Create a user criteria record](../workplace-reservation-management/create-user-criteria.md).
 
 </td></tr><tr><td>
 
@@ -100,7 +100,7 @@ Add an approval definition so that you can implement an approval process that is
 -   **[Add a workplace approval configuration](add-workplace-approval-configuration.md)**  
 Add approvers to an approval definition. The assigned approvers receive the approval requests of those reservations that match the conditions defined in the approval definition.
 
-**Parent Topic:**[Manage workplace safety activities](../concept/manage-wsd-activites.md)
+**Parent Topic:**[Manage workplace safety activities](manage-wsd-activites.md)
 
 **Related topics**  
 
@@ -113,33 +113,33 @@ Add approvers to an approval definition. The assigned approvers receive the appr
 
 [Block a workplace location](block-workplace-location.md)
 
-[Configure Workplace entity and entity types](../concept/workplace-entity.md)
+[Configure Workplace entity and entity types](workplace-entity.md)
 
-[Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
+[Managing Neighborhoods](neighborhoods.md)
 
 [Enable favorites option for Workplace Service Portal](confgure-favourites-option-for-ws-portal-wsd.md)
 
-[Mapping employees to their designated workspaces](../concept/mapping-employees-to-existing-work-locations-wsd.md)
+[Mapping employees to their designated workspaces](mapping-employees-to-existing-work-locations-wsd.md)
 
 [Assign the workplace user role to employees](assign-workplace-user-role-to-employees-of-a-location-wsd.md)
 
-[Configuring shifts for your workplace](../concept/configuring-shifts-for-your-workplace-wsd.md)
+[Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 
-[Managing workplace shifts that you own](../concept/managing-shifts-you-own-wsd.md)
+[Managing workplace shifts that you own](managing-shifts-you-own-wsd.md)
 
-[Managing workplace reservations for employees](../concept/managing-workplace-reservations-wsd.md)
+[Managing workplace reservations for employees](managing-workplace-reservations-wsd.md)
 
-[Setting and tracking arrivals at the workplace](../concept/scheduling-employees-arrival-to-the-workplace-wsd.md)
+[Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace-wsd.md)
 
 [Approve employee workplace reservation requests](approve-workplace-reservation-requests-wsd.md)
 
-[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 
-[Workplace knowledge management](../concept/workplace-knowledge-mgmt-wsd.md)
+[Workplace knowledge management](workplace-knowledge-mgmt-wsd.md)
 
-[QR code management](../concept/qr-code-mgmt.md)
+[QR code management](qr-code-mgmt.md)
 
-[Location migration](../concept/location-migration.md)
+[Location migration](location-migration.md)
 
-[View workplace service usage analytics with Usage Insights](../reference/appsee-intergration-wsd.md)
+[View workplace service usage analytics with Usage Insights](appsee-intergration-wsd.md)
 

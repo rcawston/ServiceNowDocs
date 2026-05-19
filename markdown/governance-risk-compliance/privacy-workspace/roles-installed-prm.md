@@ -114,7 +114,7 @@ Privacy business user \[sn\_privacy.business\_user\]
 
 </td><td>
 
-Privacy business users can edit the assigned processing activities in the [Discover state](../concept/stages-pa.md), and also respond to the assessments.
+Privacy business users can edit the assigned processing activities in the [Discover state](stages-pa.md), and also respond to the assessments.
 
 </td><td>
 

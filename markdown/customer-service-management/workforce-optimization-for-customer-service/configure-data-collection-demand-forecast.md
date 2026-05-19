@@ -34,7 +34,7 @@ Role required: sn\_agent\_forecast.admin
 
     1.  Click **Data Collection Definitions**.
 
-        See the [Forecast Configuration table in Scheduling](../reference/components-installed-configurable-wfo-cs.md) for the list of configurations that are available by default.
+        See the [Forecast Configuration table in Scheduling](components-installed-configurable-wfo-cs.md) for the list of configurations that are available by default.
 
     2.  Click **New**.
     3.  On the form, fill in the fields:
@@ -102,7 +102,7 @@ Data that you can add to forecast for the future.
 
         -   If you need to add a value to be calculated for the formula, in the **Value** field, enter the value.
         -   If you want to use the performance analytics score card API or a custom API, click **Advanced,** and add the script.
-        The Average Case Work Time and Average Chat Work Time forecast parameters provided by default are examples of how you can use scripts to add the parameters. For a list of parameters provided by default, see [Forecast Parameters in Scheduling](../reference/components-installed-configurable-wfo-cs.md).
+        The Average Case Work Time and Average Chat Work Time forecast parameters provided by default are examples of how you can use scripts to add the parameters. For a list of parameters provided by default, see [Forecast Parameters in Scheduling](components-installed-configurable-wfo-cs.md).
 
     4.  Click **Submit**.
 4.  Configure the resource conversion formula.
@@ -161,12 +161,12 @@ Formula to calculate the forecasted number of agents that you need.In the Relate
 
 ## What to do next
 
-Run the **Collect historical data for demand forecast data collection definitions** scheduled job. For more information, see [Schedule jobs for Demand Forecast](../reference/components-installed-configurable-wfo-cs.md).
+Run the **Collect historical data for demand forecast data collection definitions** scheduled job. For more information, see [Schedule jobs for Demand Forecast](components-installed-configurable-wfo-cs.md).
 
-**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for Customer Service](../concept/configuring-demand-forecast-configurable-wfo-cs.md)
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for Customer Service](configuring-demand-forecast-configurable-wfo-cs.md)
 
 **Related topics**  
 
 
-[Use Demand Forecast](../concept/scheduling-configurable-wfo-cs.md)
+[Use Demand Forecast](scheduling-configurable-wfo-cs.md)
 

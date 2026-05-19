@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 Before you can follow this example, you should be familiar with creating blueprints and blueprint rules. See these resources:
 
--   [Cloud Provisioning Blueprints](../concept/blueprints.md)
+-   [Cloud Provisioning Blueprints](blueprints.md)
 -   [Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)
 -   [Configure a blueprint rule](configure-a-blueprint-rule.md#)
 
@@ -147,5 +147,5 @@ The Sys ID of the business service that you copied.
 
 You can create a condition or multiple conditions that must be met before the system sets the default value for the business service. For example, you might want to change the default value of business service to Workday Enterprise Services only when the group that the user belongs to is the Workday Admins group.
 
-**Parent Topic:**[Cloud catalog form configuration examples](../concept/example-blueprint-rules.md)
+**Parent Topic:**[Cloud catalog form configuration examples](example-blueprint-rules.md)
 

@@ -21,7 +21,7 @@ First things first, you need the right access to get involved. Your system admin
 
 ## About this task
 
-Getting permission to work on an app delegates you to its development, which means you can start pitching in and making things happen. For more information, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md).
+Getting permission to work on an app delegates you to its development, which means you can start pitching in and making things happen. For more information, see [Delegated development and deployment](../delegated-development-and-deployment/c_DelegatedDevelopment.md).
 
 **Note:** Admins don't see the **Request access** option because their permissions enable them to access all apps.
 
@@ -54,5 +54,5 @@ If your organization uses App Engine Management Center \(AEMC\), App Engine admi
 
 If your organization doesn't have AEMC, admins approve requests to join apps in the Collaboration Tasks table. For more information, see [Approve a collaboration request](approve-collaboration-request.md).
 
-**Parent Topic:**[Collaborating with others to build apps in Creator Studio](../reference/creator-studio-collaboration-roles.md)
+**Parent Topic:**[Collaborating with others to build apps in Creator Studio](creator-studio-collaboration-roles.md)
 

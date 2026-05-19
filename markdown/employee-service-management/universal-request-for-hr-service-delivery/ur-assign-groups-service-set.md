@@ -34,5 +34,5 @@ Also, after triaging, agents can also transfer universal requests and department
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](config-service-for-ur.md)
 

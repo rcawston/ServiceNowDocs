@@ -23,5 +23,5 @@ Administrators can restore deleted records. For more information, see [Use the D
 
 The image shows a list with two workflows. The top request does not have an associated request item. The bottom request has an associated request item, but the item does not have an associated workflow context.
 
-**Parent Topic:**[Workflow stages](../../using-workflows/concept/c_WorkflowStages.md)
+**Parent Topic:**[Workflow stages](c_WorkflowStages.md)
 

@@ -74,5 +74,5 @@ The state progression and precedence for test results is: **Open** &gt; **Closed
 
 ## Supported integrations
 
-For more information on the third-party integrations that support this feature, see [Understanding the Qualys Vulnerability Integration](../../secops-integration-vr/qualys/concept/c_QualysVulnIntegration.md) and [Tenable.io integrations with the Vulnerability Response and Configuration Compliance applications](../../secops-integration-vr/tenable/reference/tenable-io-integrations-list.md).
+For more information on the third-party integrations that support this feature, see [Understanding the Qualys Vulnerability Integration](../vulnerability-response/c_QualysVulnIntegration.md) and [Tenable.io integrations with the Vulnerability Response and Configuration Compliance applications](../vulnerability-response/tenable-io-integrations-list.md).
 

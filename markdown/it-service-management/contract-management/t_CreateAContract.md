@@ -481,7 +481,7 @@ Contracts can be associated with configuration items. You can link a contract wi
 -   **[Add a document to a contract](t_AddADocumentToAContract.md)**  
 Contracts can be associated with documents. Linking a contract to related documents helps keep all relevant information about a contract together and easily accessible.
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](c_Contracts.md)
 
 **Related topics**  
 
@@ -492,21 +492,21 @@ Contracts can be associated with documents. Linking a contract to related docume
 
 [Send the contract for approval](t_SendTheContractForApproval.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](c_TermsAndConditions.md)
 
 [Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
 
 [Monitor a contract](t_MonitoringContracts.md)
 
-[Models](../../product-catalog/concept/c_Models.md)
+[Models](../product-catalog/c_Models.md)
 
-[Service Portfolio Management](../../service-portfolio-management2/reference/SPM2-landing-page.md)
+[Service Portfolio Management](../service-portfolio-management/SPM2-landing-page.md)
 
-[Add a commitment to a service offering](../../service-portfolio-management2/task/define-SPM2-service-commitments.md)
+[Add a commitment to a service offering](../service-portfolio-management/define-SPM2-service-commitments.md)
 
-[Contract renewal workflow](../concept/cont-renew-wf.md)
+[Contract renewal workflow](cont-renew-wf.md)
 
-[Contracts](../concept/c_Contracts.md)
+[Contracts](c_Contracts.md)
 
 [extract-metadata-from-uploaded-contract-document]
 

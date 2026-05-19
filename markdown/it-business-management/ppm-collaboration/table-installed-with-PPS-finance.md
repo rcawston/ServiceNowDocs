@@ -386,7 +386,7 @@ Teamspace \[pm\_app\_config\]
 
 </td><td>
 
-All teamspaces, which refer to the tables that are created for the teamspaces. See [Installed with teamspaces](../../project-management/reference/r_InstalledWithTeamspaces.md) for a list of teamspace tables.
+All teamspaces, which refer to the tables that are created for the teamspaces. See [Installed with teamspaces](../project-management/r_InstalledWithTeamspaces.md) for a list of teamspace tables.
 
 </td></tr><tr><td>
 

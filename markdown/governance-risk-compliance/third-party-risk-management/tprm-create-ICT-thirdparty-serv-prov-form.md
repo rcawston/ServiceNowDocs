@@ -138,7 +138,7 @@ Total annual expense or estimated cost of the ICT third-party service provider
 
 Total annual expense or estimated cost of the ICT third-party service provider.**Note:** Provider‑level annual expense totals may be automatically aggregated during report generation when all contracts meet the required criteria.
 
-For more information, see [Currency conversion and third-party total expense aggregation](../concept/tprm-dora-currency-aggregation.md).
+For more information, see [Currency conversion and third-party total expense aggregation](tprm-dora-currency-aggregation.md).
 
 </td></tr><tr><td>
 

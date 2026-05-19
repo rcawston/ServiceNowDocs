@@ -37,14 +37,14 @@ Role required: sn\_apm.apm\_user to add an architectural artifact.
     -   To update details of an existing architectural artifact, select the architectural artifact.
 6.  In the **New architectural** artifact pop-up window, fill in the form fields.
 
-    For field information, see [New architectural artifact form](../../reference/eaw-reference/eaw-new-arct-artfct-form.md).
+    For field information, see [New architectural artifact form](eaw-new-arct-artfct-form.md).
 
 7.  Select **Create**.
 
     The architectural artifact is created. You are redirected to the architectural version record of the newly created architectural artifact.
 
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 

@@ -61,5 +61,5 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
 After you publish an automation request, the automation is ready for execution, which is the last stage in the automation request life cycle.
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

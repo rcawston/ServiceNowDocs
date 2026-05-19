@@ -21,5 +21,5 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 With the Pre-Visit Management application, patients can complete the privacy consent, procedure consent, and review their insurance information from the to-do list of their patient portal. By default, the to-do items for patients are configured in the **sn\_hcls.to.do.tasks.list** property.
 
-As a user with the admin role, you can configure the **sn\_hcls.to.do.tasks.list** property to add task tables as to-do items for patients. The property is available with the Healthcare and Life Sciences Service Management Core application. For more information, see [Specify a to-do item for patients](../task/hcls-config-to-do-items.md).
+As a user with the admin role, you can configure the **sn\_hcls.to.do.tasks.list** property to add task tables as to-do items for patients. The property is available with the Healthcare and Life Sciences Service Management Core application. For more information, see [Specify a to-do item for patients](healthcare-and-life-sciences-service-management-core/hcls-config-to-do-items.md).
 

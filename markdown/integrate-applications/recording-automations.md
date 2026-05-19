@@ -82,9 +82,9 @@ Using a recorder to create an automation provides the following benefits:
 
 For information on the known issues and limitations for recording automations, see [Known issues and limitations of RPA Desktop Design Studio for recording automations \[KB1225708\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1225708).
 
--   **[Record an automation](../task/create-recorded-automation.md)**  
+-   **[Record an automation](create-recorded-automation.md)**  
 Record an automation by using the recorder option in the RPA Desktop Design Studio application. The actions that you perform on the application elements can be saved as an automation flow to the automation project.
--   **[Types of elements and actions for the recorder](../reference/element-actions-recorder.md)**  
+-   **[Types of elements and actions for the recorder](element-actions-recorder.md)**  
 The actions are the activities that you can perform on an application element such as a text box, button, hyperlinks, and so on. By using these actions, you can build an automation flow in the RPA Desktop Design Studio recorder.
 
 **Parent Topic:**[Using automations](rpa-studio-use.md)

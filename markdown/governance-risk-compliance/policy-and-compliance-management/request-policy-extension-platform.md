@@ -50,5 +50,5 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
     You can see the policy extension details in the [Schedule tab of the Policy exception form](request-policy-exception.md#policy-ext-det) after the requester has requested for an extension and the extension has been approved by the approver.
 
 
-**Parent Topic:**[Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md)
+**Parent Topic:**[Manage policy exceptions and extensions](manage-policy-exceptions.md)
 

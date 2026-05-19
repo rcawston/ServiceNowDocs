@@ -19,9 +19,9 @@ Configure a webhook to monitor SD-WAN network devices using Event Management. Th
 
 All events are received in the ServiceNow AI Platform® dashboard and automatically mapped to alerts. Event rules evaluate each incoming event and determine whether to create an alert or link it to an existing one. You can define custom event rules, receive notifications using webhook mechanism, and integrate with external systems through the Integrations Launchpad.
 
--   **[Configure a webhook](../task/configure-fault-management.md)**  
+-   **[Configure a webhook](configure-fault-management.md)**  
 Integrate with a webhook to connect to an external event source and push event information to your ServiceNow instance.
--   **[Configure an event pull connector](../task/configure-an-event-pull-connector.md)**  
+-   **[Configure an event pull connector](configure-an-event-pull-connector.md)**  
 Configure event pull connectors that require a script, connector definition, and connector instance to pull events from external management systems. These connectors automate the data retrieval process, promoting the seamless integration of external events into your system for efficient monitoring and management.
 -   **[../task/set-up-connector-instance-nokia-mpn.md](../task/set-up-connector-instance-nokia-mpn.md)**  
 

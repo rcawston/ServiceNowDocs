@@ -19,7 +19,7 @@ Add learning course sections to collections.
 
 Role required: sn\_lc.learning\_admin
 
-Create a collection. For more information, see [Create a content collection](../concept/create-content-collection.md).
+Create a collection. For more information, see [Create a content collection](create-content-collection.md).
 
 ## Procedure
 
@@ -41,5 +41,5 @@ Create a collection. For more information, see [Create a content collection](../
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Create a content collection](../concept/create-content-collection.md)
+**Parent Topic:**[Create a content collection](create-content-collection.md)
 

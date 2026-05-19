@@ -37,7 +37,7 @@ Create configuration item
 
 </td><td>
 
-Occasionally, you might create a CI manually. To help you, the Create configuration item agentic workflow accepts your natural language request and verifies that it understands which class the new CI should belong to. The workflow then checks Identification and Reconciliation engine \(IRE\) rules to determine the required attributes for the CI and requests that information. After you provide sufficient data, the workflow ensures that the proposed CI includes the attributes that you requested, complies with IRE rules, and is not a duplicate. The workflow then creates the CI. For more information, see [Create a CI using Now Assist](../../now-assist-cmdb/task/na-cmdb-awf-ci-creator.md)
+Occasionally, you might create a CI manually. To help you, the Create configuration item agentic workflow accepts your natural language request and verifies that it understands which class the new CI should belong to. The workflow then checks Identification and Reconciliation engine \(IRE\) rules to determine the required attributes for the CI and requests that information. After you provide sufficient data, the workflow ensures that the proposed CI includes the attributes that you requested, complies with IRE rules, and is not a duplicate. The workflow then creates the CI. For more information, see [Create a CI using Now Assist](na-cmdb-awf-ci-creator.md)
 
 </td><td>
 
@@ -49,7 +49,7 @@ Provide advice on CMDB governance
 
 </td><td>
 
-Data governance can be an overwhelming task. The Provide advice on CMDB governance agentic workflow supports data admins and owners by methodically working through the many-faceted process of improving CMDB data accuracy, completeness, and health. The objective is to help users to trust the data that they use for their work. For more information, see [Getting advice from Now Assist on CMDB governance](../../now-assist-cmdb/concept/na-cmdb-awf-governance.md).
+Data governance can be an overwhelming task. The Provide advice on CMDB governance agentic workflow supports data admins and owners by methodically working through the many-faceted process of improving CMDB data accuracy, completeness, and health. The objective is to help users to trust the data that they use for their work. For more information, see [Getting advice from Now Assist on CMDB governance](na-cmdb-awf-governance.md).
 
 </td><td>
 
@@ -66,7 +66,7 @@ Search CMDB
 
 </td><td>
 
-The Search CMDB agentic workflow enables you to search for CIs by specifying any of several attributes of the CI of interest. The workflow accepts your natural language request, verifies your search goal, and then, depending on the information you provided, generates a keyword search, a single-table search with dot walks, or a multi-table search that involves relationship navigation. The workflow can infer CI relationship data to generate an appropriate query. For more information, see [Use Now Assist to search the CMDB](../../now-assist-cmdb/task/na-cmdb-awf-search.md).
+The Search CMDB agentic workflow enables you to search for CIs by specifying any of several attributes of the CI of interest. The workflow accepts your natural language request, verifies your search goal, and then, depending on the information you provided, generates a keyword search, a single-table search with dot walks, or a multi-table search that involves relationship navigation. The workflow can infer CI relationship data to generate an appropriate query. For more information, see [Use Now Assist to search the CMDB](na-cmdb-awf-search.md).
 
 </td><td>
 
@@ -97,11 +97,11 @@ The Duplicate CI remediator agentic workflow completes the full range of de-dupl
 
 -   **CMDB data certification and attestation manager AI agent**
 
-    The CMDB data certification and attestation manager AI agent retrieves the data certification and attestation policies for a CI class and for similar classes. It can also create a data certification and an attestation policy. For more information, see [Data Certification](../../data-certification/concept/c_DataCertification.md).
+    The CMDB data certification and attestation manager AI agent retrieves the data certification and attestation policies for a CI class and for similar classes. It can also create a data certification and an attestation policy. For more information, see [Data Certification](../configuration-management-database-cmdb/c_DataCertification.md).
 
 -   **CMDB data manager AI agent**
 
-    The CMDB life cycle manager AI agent helps admins to confirm that CMDB life-cycle policies are in place for principal classes or for specified classes. For more information, see [Working with CMDB Data Manager](cmdb-data-management.md).
+    The CMDB life cycle manager AI agent helps admins to confirm that CMDB life-cycle policies are in place for principal classes or for specified classes. For more information, see [Working with CMDB Data Manager](../configuration-management-database-cmdb/cmdb-data-management.md).
 
 -   **CMDB data certification and attestation manager AI agent**
 
@@ -111,12 +111,12 @@ The Duplicate CI remediator agentic workflow completes the full range of de-dupl
 
     The CMDB data ownership manager AI agent helps you to assess the quality of CI ownership data for a CI class to determine ownership, validate ownership, and evaluate ownership quality. You can validate fields that reference sys\_user or sys\_user\_group like **Assigned To**, **Managed by Group** \(default\), **Support Group**, and so on. The agent answers the following questions:
 
-    -   Is CI ownership specified? Is the **Managed by group** attribute value set for the CI? Does it indicate an active and correctly configured record? The value of the system property for ownership is a default field for the evaluation. For the **Managed by group** CI attribute, you can specify the percentage values that classify the result as `Poor`, `Average`, or `Healthy`. For more information, see [Property settings for Now Assist for CMDB](../../now-assist-cmdb/reference/na-data-fdn-properties.md).
+    -   Is CI ownership specified? Is the **Managed by group** attribute value set for the CI? Does it indicate an active and correctly configured record? The value of the system property for ownership is a default field for the evaluation. For the **Managed by group** CI attribute, you can specify the percentage values that classify the result as `Poor`, `Average`, or `Healthy`. For more information, see [Property settings for Now Assist for CMDB](na-data-fdn-properties.md).
     -   If you provide a user referencing value: Does the **User Referencing** value indicate an active record? This evaluation identifies CIs that have inactive users and CIs with no **User** value.
     -   If you provide a user referencing value: Does the **Group Referencing** value indicate an active record? This evaluation identifies CIs that have inactive groups, empty groups \(no users\), and CIs with no **Group** value.
 -   **CMDB health metrics manager AI agent**
 
-    The CMDB health metrics manager AI agent displays information on CMDB Health Dashboard jobs, health metrics status, and health scores. If the jobs are not configured, the workflow provides a link to the setup instructions. For more information, see [CMDB Health](c_CMDBHealth.md).
+    The CMDB health metrics manager AI agent displays information on CMDB Health Dashboard jobs, health metrics status, and health scores. If the jobs are not configured, the workflow provides a link to the setup instructions. For more information, see [CMDB Health](../configuration-management-database-cmdb/c_CMDBHealth.md).
 
 -   **CMDB life cycle manager AI agent**
 
@@ -124,7 +124,7 @@ The Duplicate CI remediator agentic workflow completes the full range of de-dupl
 
 -   **CMDB principal class manager AI agent**
 
-    The CMDB principal class manager AI agent determines whether you can set Cl classes as principal, suggests principal classes, and can set or unset a class as principal. Setting a class as a principal class is a practical way to save time because you can configure ServiceNow AI Platform products to display only principal classes in list views. The workflow helps you to decide which CIs you're most likely to work with day-to-day and then provides a link to enable you to set the associated classes as principal classes. For more information, see [Update the list of classes in the Principal Class filter](../task/update-principal-class-filter.md).
+    The CMDB principal class manager AI agent determines whether you can set Cl classes as principal, suggests principal classes, and can set or unset a class as principal. Setting a class as a principal class is a practical way to save time because you can configure ServiceNow AI Platform products to display only principal classes in list views. The workflow helps you to decide which CIs you're most likely to work with day-to-day and then provides a link to enable you to set the associated classes as principal classes. For more information, see [Update the list of classes in the Principal Class filter](../configuration-management-database-cmdb/update-principal-class-filter.md).
 
 -   **CMDB search AI agent**
 
@@ -151,11 +151,11 @@ To run the AI agents autonomously, you must first duplicate the agentic workflow
 -   Activate all agents within the agentic workflow.
 -   Activate the trigger to invoke the agentic workflow automatically. If you prefer to invoke it manually, activating the trigger isn’t necessary.
 
--   **[Create a CI using Now Assist](../../now-assist-cmdb/task/na-cmdb-awf-ci-creator.md)**  
+-   **[Create a CI using Now Assist](na-cmdb-awf-ci-creator.md)**  
 The Create configuration item agentic workflow accepts your natural language request to manually generate a valid CI in the class that you specify.
--   **[Getting advice from Now Assist on CMDB governance](../../now-assist-cmdb/concept/na-cmdb-awf-governance.md)**  
+-   **[Getting advice from Now Assist on CMDB governance](na-cmdb-awf-governance.md)**  
 Data governance can be an overwhelming task. The Provide advice on CMDB governance agentic workflow supports data admins and owners by methodically working through the many-faceted process of improving CMDB data accuracy, completeness, and health. The objective is to help users to trust the data that they use for their work.
--   **[Use Now Assist to search the CMDB](../../now-assist-cmdb/task/na-cmdb-awf-search.md)**  
+-   **[Use Now Assist to search the CMDB](na-cmdb-awf-search.md)**  
 The Search CMDB agentic workflow enables you to search for CIs by specifying any of several attributes of the CI of interest. The workflow accepts your natural language request, verifies your search goal, and then, depending on the information you provided, generates a keyword search, a single-table search with dot walks, or a multi-table search that involves relationship navigation. The workflow can infer CI relationship data to generate an appropriate query.
 
 **Parent Topic:**[Now Assist for Configuration Management Database \(CMDB\)](now-assist-landing-cmdb.md)

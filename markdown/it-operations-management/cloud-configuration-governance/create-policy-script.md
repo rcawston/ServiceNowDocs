@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_governor or admin.
 
 ## About this task
 
-For more information on using scripts, see [Cloud scripts and cloud script templates](../concept/cloud-scripts-and-templates.md).
+For more information on using scripts, see [Cloud scripts and cloud script templates](cloud-scripts-and-templates.md).
 
 ## Procedure
 

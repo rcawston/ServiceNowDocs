@@ -34,18 +34,18 @@ A filter is used to restrict the records that are listed in the slushbucket that
     When users click the **Edit** button in the related list, the list of records they can select is filtered according to the default filter.
 
 
-**Parent Topic:**[Related lists](../../../use/using-forms/concept/c_RelatedLists.md)
+**Parent Topic:**[Related lists](c_RelatedLists.md)
 
 **Related topics**  
 
 
-[Select or create records in a related list](../../../use/using-forms/task/t_SelectRelatedRecords.md)
+[Select or create records in a related list](t_SelectRelatedRecords.md)
 
-[Configure when a related list loads](../../../use/using-forms/task/t_ConfigureWhenARelatedListLoads.md)
+[Configure when a related list loads](t_ConfigureWhenARelatedListLoads.md)
 
-[Create a default filter for a related list](../../../use/using-forms/task/t_CreateADefaultFilter.md)
+[Create a default filter for a related list](t_CreateADefaultFilter.md)
 
-[Configure the edit option](../../../use/using-forms/task/t_ConfigureTheEditOption.md)
+[Configure the edit option](t_ConfigureTheEditOption.md)
 
 [Create defined related lists](t_CreateDefinedRelatedLists.md)
 
@@ -53,5 +53,5 @@ A filter is used to restrict the records that are listed in the slushbucket that
 
 [Configure reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfigureReferenceQualifiers.md)
 
-[Condition builder](../../../use/common-ui-elements/concept/c_ConditionBuilder.md)
+[Condition builder](c_ConditionBuilder.md)
 

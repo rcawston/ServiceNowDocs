@@ -21,5 +21,5 @@ Similarly, a yellow vertical line is displayed to the left of the task card, and
 
 A procurement administrator can use the sn\_shop.spend.sla.due.days purchasing property to configure the number of days for displaying the yellow highlight. By default, this is set to three days of the task due date.
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](shopper-todos.md)
 

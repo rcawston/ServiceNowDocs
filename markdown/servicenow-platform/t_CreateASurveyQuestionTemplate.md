@@ -67,7 +67,7 @@ Enter a numeric value, greater than or equal to zero, to which the answer option
 </table>7.  Click **Update**.
 
 
-**Parent Topic:**[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+**Parent Topic:**[Survey question template](c_SurveyQuestionTemplate.md)
 
 **Related topics**  
 

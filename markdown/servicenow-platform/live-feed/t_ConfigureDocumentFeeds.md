@@ -26,18 +26,18 @@ Role required: personalize\_dictionary or admin
 2.  Add **Follow on Live Feed** and **Show Live Feed** as list and form UI actions.
 
 
-**Parent Topic:**[Document feeds](../concept/c_DocumentFeeds.md)
+**Parent Topic:**[Document feeds](c_DocumentFeeds.md)
 
 **Related topics**  
 
 
 [Add a Live Feed UI action on a table](t_AddALiveFeedUIActionOnATable.md)
 
-[Security configuration for document feeds](../concept/c_ConfigureFeedSecurity.md)
+[Security configuration for document feeds](c_ConfigureFeedSecurity.md)
 
 [Disable a record feed](t_DisableARecordFeed.md)
 
 [Disable a document feed](t_DisableADocumentFeed.md)
 
-[Business rule installed with Live Feed Document](../reference/r_InstalledComponents.md)
+[Business rule installed with Live Feed Document](r_InstalledComponents.md)
 

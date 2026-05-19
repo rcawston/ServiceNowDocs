@@ -52,5 +52,5 @@ Role required: sn\_cwm.cwm\_user
     Only a user with Editor or Owner access to the Space can delete Doc pages. If there's only one page left in the Doc, it can't be deleted by any user.
 
 
-**Parent Topic:**[Collaborative documentation using CWM](../concept/cwm-docs.md)
+**Parent Topic:**[Collaborative documentation using CWM](cwm-docs.md)
 

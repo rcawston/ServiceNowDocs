@@ -40,5 +40,5 @@ A capability defines MID Server functions. Any MID Server that is assigned with 
 
 MID Servers with the same capabilities are eligible to be used during automatic MID Server selection.
 
-**Parent Topic:**[Automatic MID Server selection](../concept/acc-auto-mid-selection.md)
+**Parent Topic:**[Automatic MID Server selection](acc-auto-mid-selection.md)
 

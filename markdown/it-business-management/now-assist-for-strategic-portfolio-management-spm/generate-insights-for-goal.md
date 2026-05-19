@@ -54,12 +54,12 @@ The skill analyzes the real-time data — including check-in patterns, comments,
 5.  Review AI-generated insights to identify risk, assess forecasted statuses, and act on recommendations before goals fall off track.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Update the progress of an automated target](../../spw-goals/task/update-progress-of-target-agf-apw.md)
+[Update the progress of an automated target](../scenario-planning-in-spw/update-progress-of-target-agf-apw.md)
 
-[Update the progress of a manual target](../../spw-goals/task/update-progress-of-target-egm.md)
+[Update the progress of a manual target](../scenario-planning-in-spw/update-progress-of-target-egm.md)
 

@@ -33,11 +33,11 @@ Investment Portal is divided into the following sections:
 
 -   **Banner icons**
 
-    You can edit, copy, delete, bookmark, and share your investment board with other members and groups using the banner icons on the header of Investment Portal. See [Track your key investments](../task/use-investment-portal.md) for more information.![banner icons](../image/banner-icons.png)
+    You can edit, copy, delete, bookmark, and share your investment board with other members and groups using the banner icons on the header of Investment Portal. See [Track your key investments](use-investment-portal.md) for more information.![banner icons](../image/banner-icons.png)
 
 -   **Investment widgets**
 
-    You can view important metrics like total cost, actual cost, and budget with investment widgets that can be [configured](../task/configure-investment-metrics.md).
+    You can view important metrics like total cost, actual cost, and budget with investment widgets that can be [configured](configure-investment-metrics.md).
 
     ![Screen capture of investment widgets](../image/investment-portal-widgets.png)
 
@@ -63,12 +63,12 @@ The application doesn't restrict the number of records being fetched. So, users 
 
 -   **[View all your investment boards in one location](my-investments-tabs.md)**  
 Display all your important investment boards in a single location using the My Investment views page.
--   **[Create an investment board](../task/create-an-investment-report.md)**  
+-   **[Create an investment board](create-an-investment-report.md)**  
 View the projects and demands that are important to you by creating a personalized investment board using filter criteria you define.
--   **[Track your key investments](../task/use-investment-portal.md)**  
+-   **[Track your key investments](use-investment-portal.md)**  
 Track and analyze the cost, schedule, and scope of your investments in one place using Investment Portal.
--   **[Configure your investment metrics as widgets](../task/configure-investment-metrics.md)**  
+-   **[Configure your investment metrics as widgets](configure-investment-metrics.md)**  
 Configure investment metrics based on your business requirements. These metrics appear as widgets on the Investment Portal page.
 
-**Parent Topic:**[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](c_ProjectPortfolioSuite.md)
 

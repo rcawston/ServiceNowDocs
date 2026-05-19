@@ -26,7 +26,7 @@ The Recruitment workspace enables you to have:
 -   Improved applicant experience with constant engagement.
 -   Improved hiring decisions with Talent profiles and pool.
 
-For more information on the Talent Pool tab in the Recruitment workspace, see [Talent pool record view](talent-pool-view.md).
+For more information on the Talent Pool tab in the Recruitment workspace, see [Talent pool record view](../hr-service-delivery/talent-pool-view.md).
 
 For more information on using different features on the Recruitment workspace, see [Get overview of recruitment workload](recruitment-workspace-oveview.md).
 

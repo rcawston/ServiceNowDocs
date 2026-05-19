@@ -269,5 +269,5 @@ function processResponse (response, cloudServiceAccountId, ldc,
     The datacenter resource block moves from the draft to the published state and you cannot make further changes to the resource block. You can only modify a resource block after you set the status to **Draft**.
 
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](resource-blocks.md)
 

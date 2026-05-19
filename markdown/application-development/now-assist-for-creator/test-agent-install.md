@@ -43,5 +43,5 @@ Role required: admin
     The skill is enabled for all users.
 
 
-**Parent Topic:**[ATF troubleshooting agent](../reference/atf-troubleshooting-agent-landing-page.md)
+**Parent Topic:**[ATF troubleshooting agent](atf-troubleshooting-agent-landing-page.md)
 

@@ -228,5 +228,5 @@ Allowed groups
 Groups that can view the record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a calculated metric definition](../task/create-composite-metric-definition.md)
+</table>**Parent Topic:**[Create a calculated metric definition](create-composite-metric-definition.md)
 

@@ -17,7 +17,7 @@ Use the Governance, Risk, and Compliance: Risk Management application to continu
 
 ## Risk Workspace
 
-Starting with version 13.0.5, the Risk Workspace has been added for Risk Management users. The Risk Workspace offers a simplified user experience for you to perform your daily tasks and activities. For more information on the new workspace, see [GRC Risk Workspace](../../grc-workspace-risk/concept/risk-workspace.md).
+Starting with version 13.0.5, the Risk Workspace has been added for Risk Management users. The Risk Workspace offers a simplified user experience for you to perform your daily tasks and activities. For more information on the new workspace, see [GRC Risk Workspace](risk-workspace.md).
 
 ## Benefits of Risk Management
 
@@ -46,11 +46,11 @@ The benefits of Risk Management are:
 
 </td><td>
 
-[Analytics and reporting solutions for Risk Management](../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md) ![Using risk dashboards](../image/icon-report.png) Highlight the critical risks with dashboards and reports.
+[Analytics and reporting solutions for Risk Management](grc-risk-mgmt-content-pack.md) ![Using risk dashboards](../image/icon-report.png) Highlight the critical risks with dashboards and reports.
 
 </td><td>
 
-[Risk Management reference](../reference/risk-management-reference.md) ![Additional reference information](../../../common/image/icon-reference.png) Get details about components like fields, tables, and properties.
+[Risk Management reference](risk-management-reference.md) ![Additional reference information](../../../common/image/icon-reference.png) Get details about components like fields, tables, and properties.
 
 </td></tr></tbody>
 </table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).

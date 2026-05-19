@@ -24,11 +24,11 @@ These jobs include an attached log file, which is generated at the end of the si
 This diagram shows an example of how you can use the signing process. In this example, a script, labeled `Script B` exists only on the protected instance, and must be imported to a trusted instance to be signed. `Script A` exists on both instances already, doesn’t need to be signed. It has either already been reviewed and signed, or hasn't been reviewed yet and shouldn't be signed.
 
 1.  Import the record to your trusted environment.
-2.  In the trusted instance, create a signing job to sign the record. This process is detailed in [Create a job to sign specific records or attachments on a trusted instance](../task/sign-files-nonprod.md).
+2.  In the trusted instance, create a signing job to sign the record. This process is detailed in [Create a job to sign specific records or attachments on a trusted instance](sign-files-nonprod.md).
 3.  Import the signed signing job to your protected instance using an update set.
 4.  In the protected instance, run the imported signing job.
 
--   **[Create a job to sign specific records or attachments on a trusted instance](../task/sign-files-nonprod.md)**  
+-   **[Create a job to sign specific records or attachments on a trusted instance](sign-files-nonprod.md)**  
 Sign a specific record, or group of records you define on a trusted instance.
 
 **Parent Topic:**[Using Code Signing](using-code-signing.md)

@@ -78,5 +78,5 @@ Role required: admin, sn\_cbs.admin
 16. Refresh the Core Business Suite Configuration Console to verify that the records are created successfully.
 
 
-**Parent Topic:**[Now Assist for Core Business Suite](../concept/now-assist-cbs.md)
+**Parent Topic:**[Now Assist for Core Business Suite](now-assist-cbs.md)
 

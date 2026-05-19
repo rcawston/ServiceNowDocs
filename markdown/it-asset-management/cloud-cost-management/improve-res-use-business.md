@@ -18,8 +18,8 @@ Improve resource usage and reduce your cloud spend by running resources during t
 Use the Business hours recommendation page to:
 
 -   Manage Business hours processes.
--   [Configure Business hours operations](../task/bh-settings-config-cloudin.md) by selecting **Settings**.
--   [Define or update Business hours processes](../task/bh-policy-create-cloudin.md)
+-   [Configure Business hours operations](bh-settings-config-cloudin.md) by selecting **Settings**.
+-   [Define or update Business hours processes](bh-policy-create-cloudin.md)
 
 ![Business hours recommendations in Cloud Cost Management Workspace.](../image/buis-hrs-rec-ws.png)
 
@@ -235,11 +235,11 @@ Details
 This column appears only for the Failed tab.Details of the failure type and the action that you must take to resolve the failure.
 
 </td></tr></tbody>
-</table>-   **[Configure Business hours operations](../task/bh-settings-config-cloudin.md)**  
+</table>-   **[Configure Business hours operations](bh-settings-config-cloudin.md)**  
 You can choose to use or to disable Business Hours features and specify the amount of non-business hour spend that triggers notifications to users or groups. Controlling unnecessary resource use can help reduce costs.
--   **[Create Business hours schedule](../task/create-bh-schedule.md)**  
+-   **[Create Business hours schedule](create-bh-schedule.md)**  
 Create and apply a Business hours schedule to the cloud resources for enforcing the on/off schedule.
--   **[Define or update a Business hours policy](../task/bh-policy-create-cloudin.md)**  
+-   **[Define or update a Business hours policy](bh-policy-create-cloudin.md)**  
 A Business hours job applies policies to identify resources that are running when they should be powered off, reports them, and can start and stop them on a schedule that you specify. Running only during specified business hours can significantly reduce your cloud spend.
 
 **Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)

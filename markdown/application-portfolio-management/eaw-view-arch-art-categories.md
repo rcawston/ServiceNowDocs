@@ -28,14 +28,14 @@ Role required: admin
 4.  Select **All**.
 
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 
 
-[Manage architectural artifact categories](../../concept/eaw-concept/eaw-config-arch-art-categories.md)
+[Manage architectural artifact categories](eaw-config-arch-art-categories.md)
 
-[Configure architectural artifact categories](../../concept/eaw-concept/eaw-setup-arch-art-categories.md)
+[Configure architectural artifact categories](eaw-setup-arch-art-categories.md)
 
 [Add or edit an architectural artifact category](eaw-add-edit-arch-art-category.md)
 

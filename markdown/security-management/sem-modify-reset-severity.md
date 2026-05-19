@@ -44,5 +44,5 @@ Role required:
     -   The **Modified severity** field appears only when you change the source severity. If you reset it to the original value, the field is removed.
     -   The system will use the **Modified severity** for risk calculations starting from the next scheduled job onwards. If the severity is reset, the original source severity will be applied instead.
 
-**Parent Topic:**[Using Unified Security Exposure Management](../concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](using-unified-security-exposure-management.md)
 

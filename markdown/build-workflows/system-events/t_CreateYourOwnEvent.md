@@ -233,12 +233,12 @@ Add custom script that:
 
 Create a script action or notification to process the event.
 
-**Parent Topic:**[Managing system events](../concept/managing-system-events.md)
+**Parent Topic:**[Managing system events](managing-system-events.md)
 
 **Related topics**  
 
 
 [Register an event](t_RegisterAnEvent.md)
 
-[Script actions](../reference/r_ScriptActions.md)
+[Script actions](r_ScriptActions.md)
 

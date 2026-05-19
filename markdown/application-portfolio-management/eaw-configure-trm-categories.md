@@ -20,7 +20,7 @@ TRM categories provide a structured way to classify and manage both hardware pro
 **Related topics**  
 
 
-[View all TRM categories](../../task/eaw-task/view-all-trm-categories.md)
+[View all TRM categories](view-all-trm-categories.md)
 
-[Add or edit a TRM category](../../task/eaw-task/eaw-create-new-trm-category.md)
+[Add or edit a TRM category](eaw-create-new-trm-category.md)
 

@@ -36,5 +36,5 @@ Role required: admin
 
 The **Create action** check box is added to the type of the survey field mentioned in the property.
 
-**Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](../concept/hs-configure-manage-safety-inspections-audits-mobile.md)
+**Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](hs-configure-manage-safety-inspections-audits-mobile.md)
 

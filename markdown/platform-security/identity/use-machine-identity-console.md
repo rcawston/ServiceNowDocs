@@ -28,9 +28,9 @@ Activate the **Machine Identity Management** `com.glide.identity.machine_identit
     The Machine Identity Console has the following tabs:
 
     -   Overview: Displays the overall machine identity accounts and their metrics
-    -   [Inbound integrations](../concept/inbound-integrations.md): Configure Inbound integrations for the APIs.
-    -   [Security findings](../concept/security-score.md): Displays the security score is based on different security findings.
-    -   [Metrics](../concept/machine-identity-metrics.md): Displays the different metrics for the machine identity accounts
+    -   [Inbound integrations](inbound-integrations.md): Configure Inbound integrations for the APIs.
+    -   [Security findings](security-score.md): Displays the security score is based on different security findings.
+    -   [Metrics](machine-identity-metrics.md): Displays the different metrics for the machine identity accounts
     -   [Settings](machine-identity-console-settings.md): Configure the machine identity console.
 2.  Select the appropriate tabs based on your security requirements.
 

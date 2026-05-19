@@ -59,7 +59,7 @@ Use![](../../../reuse/icons/brand-icons/bus-virtual-agent.svg)Use Virtual Agent 
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Virtual Agent Designer interface descriptions and Virtual Agent technical details.](../reference/va-parent-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Virtual Agent Designer interface descriptions and Virtual Agent technical details.](va-parent-reference.md)
 
 </td><td>
 

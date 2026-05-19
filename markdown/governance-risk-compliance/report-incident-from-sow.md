@@ -64,7 +64,7 @@ The incident triggers a Digital resilience incident reporting case in the Operat
 
     ![Template in incident.](../image/asmt-temp-in-incident.png)![Questions.](../image/asmt-ws-q-temp.png)
 
-    The analyst assigned to the case assesses the incident's impact on factors such as critical services, clients \(including financial counterparts and third parties\), data and data losses, reputation, service downtime, geographical spread, and economy. These sections in the template help you determine the impact of the incident and whether it should be reported to the regulators and responds to the questions in the questionnaire. For information on the assessment template, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    The analyst assigned to the case assesses the incident's impact on factors such as critical services, clients \(including financial counterparts and third parties\), data and data losses, reputation, service downtime, geographical spread, and economy. These sections in the template help you determine the impact of the incident and whether it should be reported to the regulators and responds to the questions in the questionnaire. For information on the assessment template, see [Create an assessment template](smart-assessment-engine/sae-asmnt-template-create.md).
 
 3.  Select **Accept work**.
 

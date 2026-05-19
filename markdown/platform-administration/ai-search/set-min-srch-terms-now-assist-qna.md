@@ -61,5 +61,5 @@ You can customize the term count condition by altering the minimum term count re
 
 The modified Genius Result configuration doesn't send knowledge article search results to the Now LLM Service for Q&amp;A answer generation unless the search query has enough search terms to satisfy your chosen limit.
 
-**Parent Topic:**[Now Assist Q&amp;A Genius Results](../concept/now-assist-qna-genius-results.md)
+**Parent Topic:**[Now Assist Q&amp;A Genius Results](now-assist-qna-genius-results.md)
 

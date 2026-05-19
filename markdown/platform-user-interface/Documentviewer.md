@@ -49,13 +49,13 @@ The following table describes the icons used in Document Viewer.
 |![Icon to increase the page display to full width](../image/IconDocViewerFitWidth.png)|Increase the page to the full width of Document Viewer.|
 |![Search bar with arrows to toggle to the next search result](../image/IconDocViewerSearch.png)|Search for keywords in the document. Use the arrows to toggle to the next search result.|
 
--   **[Enable Document Viewer](../../../administer/form-administration/task/enable-document-viewer.md)**  
+-   **[Enable Document Viewer](enable-document-viewer.md)**  
 Enable Document Viewer to view documents directly rather than download them to view them in their native applications.
 -   **[Document Viewer plugins](doc-viewer-plugins.md)**  
 With Document Viewer, you can view documents directly in the ServiceNow Platform rather than having to download them. Two new plugins enhance the experience and provide more options for document viewing. You can collaborate with other people, copy, delete, restore, and view version history directly in a ServiceNow instance.
--   **[View attachments with Document Viewer](../task/view-attachment-doc-viewer.md)**  
+-   **[View attachments with Document Viewer](view-attachment-doc-viewer.md)**  
 View documents within the platform using Document Viewer rather than having to download them to your own file system.
--   **[Disable Document Viewer](../../../administer/form-administration/task/disable-doc-viewer.md)**  
+-   **[Disable Document Viewer](disable-doc-viewer.md)**  
 Disable Document Viewer at the instance level to disable it or at table level to disable it for specific tables within the instance.
 
 **Parent Topic:**[Forms in the classic environment](c_UsingForms.md)
@@ -63,7 +63,7 @@ Disable Document Viewer at the instance level to disable it or at table level to
 **Related topics**  
 
 
-[View attachments with Document Viewer](../task/view-attachment-doc-viewer.md)
+[View attachments with Document Viewer](view-attachment-doc-viewer.md)
 
-[Enable Document Viewer](../../../administer/form-administration/task/enable-document-viewer.md)
+[Enable Document Viewer](enable-document-viewer.md)
 

@@ -15,7 +15,7 @@ With ServiceNow AI Lens, which is a ServiceNow® Now Assist application, you can
 
 ## ServiceNow AI Lens highlights for the Australia release
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](../australia-patch-2.md)
 
 Get started with ServiceNow AI Lens by using it directly from the browser. No downloading or installation required.
 
@@ -74,5 +74,5 @@ ServiceNow AI Lens is available with activation of any Now Assist plugin from th
     Now Assist products provide generative AI skills that are tailored to meet the needs of users in different workflows, including content summarization in Docs.
 
 
-**Parent Topic:**[AI Experiences release notes](../analytics-intelligence-reporting/intelligent-experiences-rn-landing.md)
+**Parent Topic:**[AI Experiences release notes](intelligent-experiences-rn-landing.md)
 

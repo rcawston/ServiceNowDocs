@@ -15,7 +15,7 @@ Delete an exception rule that is not required anymore. For example, you can dele
 
 ## Before you begin
 
-Role required: See [Access control lists \(ACLs\) for administration rules](../concept/sem-acls-for-admin-rules.md)
+Role required: See [Access control lists \(ACLs\) for administration rules](sem-acls-for-admin-rules.md)
 
 ## About this task
 
@@ -36,5 +36,5 @@ Deleting a rule cancels the associated remediation task \(VUL\). The related fin
     The associated remediation task is also deleted. The related findings are reopened, and group rules are applied to the individual findings.
 
 
-**Parent Topic:**[Configuring an exception rule](../concept/sem-configure-exception-rule.md)
+**Parent Topic:**[Configuring an exception rule](sem-configure-exception-rule.md)
 

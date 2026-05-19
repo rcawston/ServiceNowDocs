@@ -48,5 +48,5 @@ If your administrator has configured reminder schedules, approvers receive autom
 
 The quote is submitted for approval and enters the In Review state. Approval requests are generated based on configured approval rules and sequencing.
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

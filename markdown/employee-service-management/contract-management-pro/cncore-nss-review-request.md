@@ -92,7 +92,7 @@ The state and the Contract status of the contract request is Work in progress.
 
 9.  Analyze the contract documents to identify non-standard and missing clauses by using Now Assist in Contract Management.
 
-    For more information, see [Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md).
+    For more information, see [Contract analysis using Now Assist in Contract Management](cncore-NA-review-land.md).
 
 10. If an approval is required from other stakeholders, send the document for ad-hoc approval.
 
@@ -166,7 +166,7 @@ Steps
 
 -   Signatories can sign or decline to sign the contract.
 
-    For more information, see [Signature workflow for a contract request](../concept/cncore-signature-workflow.md).
+    For more information, see [Signature workflow for a contract request](cncore-signature-workflow.md).
 
 -   Check the contract request state and the contract document status in the request:
     -   If all signatories sign the contract document, the contract document status updates to Contract signed. On the **Signatories** tab, the status of all signatories updates to Signed. You can access the contract repository record from the **Contracts Repository** tab.
@@ -174,5 +174,5 @@ Steps
     -   After all the signatories have signed the document, an email is sent to the signatories with the finalized contract document attached.
 -   If the contract is signed by all signatories, you can close the request by selecting **Close Complete**.
 
-**Parent Topic:**[Use non-self-served contract request](../concept/cncore-req-nss-contract-1.md)
+**Parent Topic:**[Use non-self-served contract request](../employee-service-management/cncore-req-nss-contract-1.md)
 

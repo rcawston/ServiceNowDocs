@@ -51,5 +51,5 @@ Role required: evt\_mgmt\_admin
 10. Select **Activate**.
 
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](../concept/hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)
 

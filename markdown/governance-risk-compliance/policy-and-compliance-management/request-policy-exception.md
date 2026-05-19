@@ -323,7 +323,7 @@ Confidential
 
 </td><td>
 
-Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on confidential option, see [Confidentiality flag for audit and compliance records](../../grc-audit/concept/confidentiality-flag-audit-pc.md).
+Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on confidential option, see [Confidentiality flag for audit and compliance records](../audit-management/confidentiality-flag-audit-pc.md).
 
 </td></tr></tbody>
 </table>    **Note:** In versions prior to Version 10.1, the **Risk assessment** tab was called **Business Impact Analysis** and required that the GRC: Risk Management application be activated. Starting in Version 10.1, the dependency on Risk Management has been removed and the associated field names have changed.
@@ -337,5 +337,5 @@ Option to enable confidentiality of the record. Only the assigned confidential u
 6.  Click **Update**.
 
 
-**Parent Topic:**[Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md)
+**Parent Topic:**[Manage policy exceptions and extensions](manage-policy-exceptions.md)
 

@@ -51,7 +51,7 @@ The legal matter is assigned to the selected member of the user group. The state
 
 ## What to do next
 
-The assigned member can start [working on the legal matter](work-on-legal-matter-1.md).
+The assigned member can start [working on the legal matter](../employee-service-management/work-on-legal-matter-1.md).
 
 **Parent Topic:**[Using Legal Matter Management](lmm-use-landing.md)
 

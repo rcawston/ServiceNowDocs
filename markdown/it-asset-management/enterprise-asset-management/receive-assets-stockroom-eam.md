@@ -173,5 +173,5 @@ Request number of the source workflow that's associated with the asset that you 
             -   The **Stockroom** field on the asset form is automatically updated with the stockroom at which you received the asset.
             -   The receive task in the source workflow is automatically closed only if you provided the Source type and Source ticket details.
 
-**Parent Topic:**[Manage the receiving of assets at stockrooms in the Enterprise Asset Workspace](../concept/manage-stockroom-receive-eam.md)
+**Parent Topic:**[Manage the receiving of assets at stockrooms in the Enterprise Asset Workspace](manage-stockroom-receive-eam.md)
 

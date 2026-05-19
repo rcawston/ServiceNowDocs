@@ -72,7 +72,7 @@ Actions
 
     ![Select a capability in a created map to view its details and edit phases.](../image/select-capability-PARs.png)
 
-    Select the **About** tab to view capability notes and phase specific notes for that capability. See [Capability Details Page](../reference/capability-details.md).
+    Select the **About** tab to view capability notes and phase specific notes for that capability. See [Capability Details Page](capability-details.md).
 
 8.  Select **Edit Roadmap Details** to edit the name, description and owner of the map.
 

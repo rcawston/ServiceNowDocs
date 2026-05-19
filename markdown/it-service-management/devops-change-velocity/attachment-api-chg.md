@@ -178,5 +178,5 @@ pipeline {
 -   The attachment xml file’s text size should be acceptable to the orchestration tool.
 -   For Azure DevOps, **sn\_change\_write** role is needed for authentication of attachment API, to upload the file to the change record.
 
-**Parent Topic:**[DevOps test tool integration](../concept/dev-ops-test-tool-integration.md)
+**Parent Topic:**[DevOps test tool integration](dev-ops-test-tool-integration.md)
 

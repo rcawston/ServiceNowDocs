@@ -51,14 +51,14 @@ The following example shows how a shopper can add or select valid addresses duri
 -   You can add or select the delivery location for the valid countries and complete the shopping.
 -   From your shopping cart, when you select **Proceed to checkout**, select valid addresses for each product based on the countries or office locations where the delivery is available.
 
-**Parent Topic:**[Valid countries for delivery](../concept/valid-countries.md)
+**Parent Topic:**[Valid countries for delivery](valid-countries.md)
 
 **Related topics**  
 
 
-[Manage delivery to valid address](../task/manage-shipping-address.md)
+[Manage delivery to valid address](manage-shipping-address.md)
 
-[Valid countries for delivery](../concept/valid-countries.md)
+[Valid countries for delivery](valid-countries.md)
 
 [Delivery location options](delivery-location-details.md)
 

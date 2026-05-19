@@ -46,5 +46,5 @@ You can configure both predefined and calculated fields for territories.
 
 ## Result
 
-The configured fields appear in the Territory Planning console. To view the changes, log in as a territory planner and navigate to the console. For more information, see [View territory information in contextual side panel](view-territory-details-in-csp.md).
+The configured fields appear in the Territory Planning console. To view the changes, log in as a territory planner and navigate to the console. For more information, see [View territory information in contextual side panel](field-service-manager-workforce/view-territory-details-in-csp.md).
 

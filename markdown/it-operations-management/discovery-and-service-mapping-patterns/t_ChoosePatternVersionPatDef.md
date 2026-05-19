@@ -51,7 +51,7 @@ If necessary, you can [compare pattern versions](compare-pattern-versions.md).
 -   **[Compare pattern versions](compare-pattern-versions.md)**  
 If you have multiple versions of the same pattern, you can compare them to decide which pattern version to use for discovery.
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
 **Previous topic:**[Copy patterns from one instance to another](export-patterns.md)
 

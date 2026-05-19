@@ -23,7 +23,7 @@ Access the Risk modules for the Enterprise Asset Management application by navig
 -   **Risk Impact**
 -   **Risk Score**
 
-**Note:** For details on configuring values for likelihood, impact, and score, see [Create configuration values for risk likelihood](../task/risk-likelihood-config.md), [Create configuration values for risk impact](../task/risk-impact-config.md), or [Create configuration values for risk scores](../task/risk-score-config.md).
+**Note:** For details on configuring values for likelihood, impact, and score, see [Create configuration values for risk likelihood](risk-likelihood-config.md), [Create configuration values for risk impact](risk-impact-config.md), or [Create configuration values for risk scores](risk-score-config.md).
 
 After you’ve configured the values in the Risk modules and frozen them, the heat maps are rendered on the following views on the Enterprise Asset Workspace:
 
@@ -34,12 +34,12 @@ If a model is no longer in the **Build** stage and you update the Model's risk s
 
 **Note:** If the model is in the **Build** stage, the **Update risk** button doesn't appear.
 
--   **[Create configuration values for risk likelihood](../task/risk-likelihood-config.md)**  
+-   **[Create configuration values for risk likelihood](risk-likelihood-config.md)**  
 Use the Risk Likelihood module to create configuration values for the likelihood vector.
--   **[Create configuration values for risk impact](../task/risk-impact-config.md)**  
+-   **[Create configuration values for risk impact](risk-impact-config.md)**  
 Use the Risk Impact module to create configuration values for the impact vector.
--   **[Create configuration values for risk scores](../task/risk-score-config.md)**  
+-   **[Create configuration values for risk scores](risk-score-config.md)**  
 Use the Risk Score module to create configuration values for risk score bands.
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 

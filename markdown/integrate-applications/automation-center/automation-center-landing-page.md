@@ -21,11 +21,11 @@ Automation Center integrates with ServiceNow® Robotic Process Automation \(RPA\
 
 ## Integration with ServiceNow® flows
 
-Automation Center integrates with ServiceNow® flows enabling you to track any ServiceNow® flow as automations. For more information, see [Track ServiceNow flows and actions as automations](../task/create-auto-tracker.md).
+Automation Center integrates with ServiceNow® flows enabling you to track any ServiceNow® flow as automations. For more information, see [Track ServiceNow flows and actions as automations](create-auto-tracker.md).
 
 ## Integration with ServiceNow® Robotic Process Automation \(RPA\) Hub
 
-Automation Center provides an integration with the ServiceNow® RPA Hub application. This integration enables you to integrate ServiceNow robots and bot processes. For more information about RPA Hub, see [Robotic Process Automation \(RPA\) Hub](../../rpa-core/concept/rpa-explore.md).
+Automation Center provides an integration with the ServiceNow® RPA Hub application. This integration enables you to integrate ServiceNow robots and bot processes. For more information about RPA Hub, see [Robotic Process Automation \(RPA\) Hub](../rpa-explore.md).
 
 ## Integration with Document Intelligence
 

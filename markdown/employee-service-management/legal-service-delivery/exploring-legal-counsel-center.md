@@ -43,7 +43,7 @@ The Legal Counsel Center is the next experience Workspace for the legal fulfille
 **Important:**
 
 -   The Matters and Matter tasks widgets are visible if the Legal Matter Management plugin is installed.
--   To use interview templates, you must first install the Interview Templates plugin \(com.sn\_interview\_templates\) and enable the Requested RCA of Interview Templates for Legal Counsel Center application and Legal Matter Management scope. For more information, see [Interview Management for Employee Relations](../../human-resources/concept/hr-er-interview-1.md#).
+-   To use interview templates, you must first install the Interview Templates plugin \(com.sn\_interview\_templates\) and enable the Requested RCA of Interview Templates for Legal Counsel Center application and Legal Matter Management scope. For more information, see [Interview Management for Employee Relations](../hr-service-delivery/hr-er-interview-1.md#).
 
 The following is an example of the Legal Counsel Center landing page.
 

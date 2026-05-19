@@ -81,5 +81,5 @@ Search suggestions improve over time as more people use Service Portal. Search S
 
 Users see suggestions when they start typing in a Service Portal search widget.
 
-**Parent Topic:**[Zing search in Service Portal](../concept/zing-search-service-portal.md)
+**Parent Topic:**[Zing search in Service Portal](zing-search-service-portal.md)
 

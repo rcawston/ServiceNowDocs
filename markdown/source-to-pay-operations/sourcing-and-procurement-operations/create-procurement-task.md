@@ -230,5 +230,5 @@ Time taken to resolve the task, in days, hours, minutes, and seconds.
     If you have created a procurement task with action type as Sign document, a document task is automatically created and assigned to the selected shopper or employee.
 
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](using-pcm.md)
 

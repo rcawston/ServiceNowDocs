@@ -20,5 +20,5 @@ Use the properties of the Barcode components to set a delay before or after a co
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Barcode](../concept/barcode.md)
+**Parent Topic:**[Barcode](barcode.md)
 

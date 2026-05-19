@@ -48,5 +48,5 @@ A new folder is created in the Space that you selected.
     ![Folder options in CWM workspace.](../images/cwm-folder-options.png)
 
 
-**Parent Topic:**[Collaborating with Spaces in CWM](../concept/cwm-spaces.md)
+**Parent Topic:**[Collaborating with Spaces in CWM](cwm-spaces.md)
 

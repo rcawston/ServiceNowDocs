@@ -55,7 +55,7 @@ Role required: enterprise\_asset\_technician
 
 Each time you pause or resume work on the task, the actual time you worked on the task is automatically calculated. An entry for the time worked is created in the Time Worked tab.
 
-**Parent Topic:**[Record time worked on asset repair tasks in the Enterprise Asset Workspace](../concept/record-repair-time-eam-ws.md)
+**Parent Topic:**[Record time worked on asset repair tasks in the Enterprise Asset Workspace](record-repair-time-eam-ws.md)
 
 **Related topics**  
 

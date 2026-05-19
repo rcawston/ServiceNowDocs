@@ -76,11 +76,11 @@ The following illustration shows a typical workflow for using CRM Touchpoints to
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Capture and track all engagement activities in a single system, eliminating the need to switch between multiple tools and reducing data silos.|[Create a CRM touchpoint](../task/create-crm-touchpoint.md)|Sales representative|
-|Classify engagements by category and type to match your organization's specific sales and service processes.|[Create custom touchpoint types](../task/create-custom-touchpoint-types.md)|CRM Touchpoints admin|
-|Schedule meetings with customers and stakeholders directly from the touchpoint record to align teams and avoid scheduling conflicts.|[Schedule a meeting from a touchpoint](../task/schedule-meeting-touchpoint.md)|Sales representative|
-|Track customer follow-ups by scheduling calls directly from the touchpoint record.|[Schedule a call from a touchpoint](../task/schedule-call-crm-touchpoint.md)|Sales representative|
-|Send emails without having to leave the workspace, ensuring all communications are logged and accessible to the entire account team.|[Send an email from a touchpoint](../task/compose-send-emails-crm-touchpoint.md)|Sales representative|
+|Capture and track all engagement activities in a single system, eliminating the need to switch between multiple tools and reducing data silos.|[Create a CRM touchpoint](create-crm-touchpoint.md)|Sales representative|
+|Classify engagements by category and type to match your organization's specific sales and service processes.|[Create custom touchpoint types](create-custom-touchpoint-types.md)|CRM Touchpoints admin|
+|Schedule meetings with customers and stakeholders directly from the touchpoint record to align teams and avoid scheduling conflicts.|[Schedule a meeting from a touchpoint](schedule-meeting-touchpoint.md)|Sales representative|
+|Track customer follow-ups by scheduling calls directly from the touchpoint record.|[Schedule a call from a touchpoint](schedule-call-crm-touchpoint.md)|Sales representative|
+|Send emails without having to leave the workspace, ensuring all communications are logged and accessible to the entire account team.|[Send an email from a touchpoint](compose-send-emails-crm-touchpoint.md)|Sales representative|
 
 ## Related links
 

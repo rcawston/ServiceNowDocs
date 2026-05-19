@@ -87,7 +87,7 @@ The Data usage tab has these components.
 
     Use the **Kafka Cluster** list to select data for either **Hermes usage** or **Direct Kafka usage**.
 
-    **Note:** The **Kafka Cluster** list only appears if the plugins for both Hermes and Direct Kafka are installed. If only one plugin is installed, the **Kafka Cluster** list is hidden and the dashboard displays data for either Hermes or Direct Kafka, depending on the plugin. For more information about plugins, see [Integration Hub plugins](../reference/ih-plugins.md).
+    **Note:** The **Kafka Cluster** list only appears if the plugins for both Hermes and Direct Kafka are installed. If only one plugin is installed, the **Kafka Cluster** list is hidden and the dashboard displays data for either Hermes or Direct Kafka, depending on the plugin. For more information about plugins, see [Integration Hub plugins](ih-plugins.md).
 
     Select a start month and end month to view data usage over time. Data usage history is available for the last 12 complete months plus the current month.
 
@@ -176,7 +176,7 @@ The Consumers page has the following components.
 
 -   **12. Create button**
 
-    To **Create** a new consumer, select this button, then select the type of consumer you want to create, then fill in the fields on the consumer's form. For form field descriptions, see the [ETL consumer](../tasks/configure-etl-consumer.md), [Transform Map consumer](../tasks/configure-transform-map-consumer.md), or [Script consumer](../tasks/configure-script-consumer.md) page.
+    To **Create** a new consumer, select this button, then select the type of consumer you want to create, then fill in the fields on the consumer's form. For form field descriptions, see the [ETL consumer](configure-etl-consumer.md), [Transform Map consumer](configure-transform-map-consumer.md), or [Script consumer](configure-script-consumer.md) page.
 
     **Note:** If you're creating a Flow Trigger consumer, there isn't a form to fill out. Instead, the dashboard opens Workflow Studio so you can build your flow trigger there. For a detailed guide, see [Create a flow with a Kafka Message trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow-kafka.md).
 
@@ -277,8 +277,8 @@ The Message Replications page has the following components.
 
     Contains several buttons that you can use to perform different tasks. Refresh the list of message replications, edit the list columns or reset the column widths, and view or edit the list filters. There are also buttons to **Edit** a message replication, **Export** a message replication, and create a **New** message replication.
 
-    -   To edit a message replication, select the replication from the list, select the **Edit** button, then fill in the fields on the Edit [Message Replication form](../tasks/configure-message-topic-reps-sc.md).
-    -   To create a new message replication, select **New**, then fill in the fields on the Create New [Message Replication form](../tasks/configure-message-topic-reps-sc.md).
+    -   To edit a message replication, select the replication from the list, select the **Edit** button, then fill in the fields on the Edit [Message Replication form](configure-message-topic-reps-sc.md).
+    -   To create a new message replication, select **New**, then fill in the fields on the Create New [Message Replication form](configure-message-topic-reps-sc.md).
 
 You can select a message replication to view the replication's name, messaging service connection, status, error message \(if any\), and if it's active. You can also see any associated Kafka Topic Replications.
 
@@ -298,10 +298,10 @@ The Topic Replications page has the following components.
 
     Contains several buttons that you can use to refresh the list of topic replications, edit the list columns or reset the column widths, and view or edit the list filters. There are also buttons to **Edit** a topic replication, **Export** a topic replication, and create a **New** topic replication.
 
-    -   To edit a topic replication, select the replication from the list, select the **Edit** button, then fill in the fields on the Edit [Topic Replication form](../tasks/configure-message-topic-reps-sc.md).
-    -   To create a new topic replication, select **New**, then fill in the fields on the Create New [Topic Replication form](../tasks/configure-message-topic-reps-sc.md).
+    -   To edit a topic replication, select the replication from the list, select the **Edit** button, then fill in the fields on the Edit [Topic Replication form](configure-message-topic-reps-sc.md).
+    -   To create a new topic replication, select **New**, then fill in the fields on the Create New [Topic Replication form](configure-message-topic-reps-sc.md).
 
-You can select a topic replication to view its name, direction, replication, topic name, ServiceNow topic, status, error message \(if any\), if it's active, and if it's being tracked in the current update set. You can also see any associated [Message Replication statistics](../reference/stream-connect-message-rep-stats.md).
+You can select a topic replication to view its name, direction, replication, topic name, ServiceNow topic, status, error message \(if any\), if it's active, and if it's being tracked in the current update set. You can also see any associated [Message Replication statistics](stream-connect-message-rep-stats.md).
 
 ## Alerts
 
@@ -317,7 +317,7 @@ The Alerts page has the following components.
 
 -   **28. Alert settings**
 
-    Opens the [Alerting Properties](../reference/sc-alert-properties.md) page where you can specify alert properties and how alerts are managed.
+    Opens the [Alerting Properties](sc-alert-properties.md) page where you can specify alert properties and how alerts are managed.
 
 -   **29. Alerts list**
 

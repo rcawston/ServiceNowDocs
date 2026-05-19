@@ -86,5 +86,5 @@ These relationships are created to support Palo Alto Networks firewall discovery
 |Router Interface \[dscy\_router\_interface\]|References|Palo Alto Firewall Device \[cmdb\_ci\_firewall\_device\_palo\_alto\]|
 |Serial Number \[cmdb\_serial\_number\]|References|Palo Alto Firewall Device \[cmdb\_ci\_firewall\_device\_palo\_alto\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

@@ -57,13 +57,13 @@ ACC-VC can collect web usage data in the following modes:
 
 ## Result
 
-The ACC agent on each managed device monitors URL activity from Chrome-based browsers and stores the data locally. At scheduled intervals \(default: once every 24 hours\), the agent runs the VISC Get URL Metrics check and sends the data to your instance. The data is processed and stored in the User Web Usage table, with daily aggregation jobs updating domain-level totals. For details on the VISC Get URL Metrics policy and check, see [Agent Client Collector for Visibility - Content default checks and policies](../reference/acc-visibility-checks-policies.md).
+The ACC agent on each managed device monitors URL activity from Chrome-based browsers and stores the data locally. At scheduled intervals \(default: once every 24 hours\), the agent runs the VISC Get URL Metrics check and sends the data to your instance. The data is processed and stored in the User Web Usage table, with daily aggregation jobs updating domain-level totals. For details on the VISC Get URL Metrics policy and check, see [Agent Client Collector for Visibility - Content default checks and policies](acc-visibility-checks-policies.md).
 
 ## What to do next
 
 After enabling web usage collection, you can view the collected data in the User Web Usage \(sn\_acc\_vis\_content\_user\_web\_usage\) table and monitor aggregated domain-level statistics in the Application Domain \(sn\_acc\_vis\_content\_application\_domain\) table. Data aggregates from the User Web Usage table to the Application Domain table, including total page views, total unique users, last accessed time, and daily page view trends. By default, this job runs daily.
 
-For details on these tables, see [Web usage data collection tables and fields](../reference/web-usage-collection-tables.md).
+For details on these tables, see [Web usage data collection tables and fields](web-usage-collection-tables.md).
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 

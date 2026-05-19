@@ -40,7 +40,7 @@ An empty diagram page gets created and opened in a new tab. You can add the shap
 
 You can add a shape to the canvas by either selecting the shape or by dragging the shape from the **Shapes** palette to the canvas.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
@@ -61,13 +61,13 @@ You can add a shape to the canvas by either selecting the shape or by dragging t
 
 [Delete a shape](eaw-modeling-delete-shape.md)
 
-[Working with business capability map](../../concept/eaw-concept/eaw-work-with-bc-map.md)
+[Working with business capability map](eaw-work-with-bc-map.md)
 
-[Working with business hierarchy map](../../concept/eaw-concept/eaw-work-with-ba-map.md)
+[Working with business hierarchy map](eaw-work-with-ba-map.md)
 
-[Working with business process map](../../concept/eaw-concept/eaw-work-with-bp-map.md)
+[Working with business process map](eaw-work-with-bp-map.md)
 
-[Working with ArchiMate Shapes](../../concept/eaw-concept/eaw-work-with-archimate-shapes.md)
+[Working with ArchiMate Shapes](eaw-work-with-archimate-shapes.md)
 
-[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+[Working with custom shapes](eaw-working-custom-shapes.md)
 

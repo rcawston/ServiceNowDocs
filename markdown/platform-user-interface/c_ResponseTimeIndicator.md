@@ -38,5 +38,5 @@ Select the icon to see more details for the response time indicator.
 
 Administrators can disable the response time by setting the **glide.ui.response\_time** property to **false**.
 
-**Parent Topic:**[User interface configuration](../../../administer/core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 

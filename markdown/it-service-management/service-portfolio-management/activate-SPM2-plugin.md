@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The Service Portfolio Management Foundation plugin \[com.snc.service\_portfolio\] enables your organization to document portfolios, taxonomies, services, and service offerings using a standardized, structured format. It contains demo data and activates related plugins. The Foundation plugin is activated out of the box and activates related plugins, if they're not already active. For general information, see [Service Portfolio Management](../reference/SPM2-landing-page.md).
+The Service Portfolio Management Foundation plugin \[com.snc.service\_portfolio\] enables your organization to document portfolios, taxonomies, services, and service offerings using a standardized, structured format. It contains demo data and activates related plugins. The Foundation plugin is activated out of the box and activates related plugins, if they're not already active. For general information, see [Service Portfolio Management](SPM2-landing-page.md).
 
 <table id="table_q5j_gny_ngb"><thead><tr><th>
 
@@ -98,10 +98,10 @@ Provides sample taxonomy metadata, complete with portfolio, layers, and nodes. D
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configuring Service Portfolio Management](../concept/SPM2-configuring.md)
+**Parent Topic:**[Configuring Service Portfolio Management](SPM2-configuring.md)
 
 **Related topics**  
 
 
-[Installed with Service Portfolio Management](../reference/r_InstalledWSPM2.md)
+[Installed with Service Portfolio Management](r_InstalledWSPM2.md)
 

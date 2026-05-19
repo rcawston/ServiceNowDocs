@@ -53,7 +53,7 @@ All data requests to collect data for the workstation users for a project must b
 
     **Note:**
 
-    If you want the request to be for a time period independent from a project, request workstation user data through an Employee Center data request. For more information, see [Requesting workstation user data](../concept/requesting-workstation-user-data.md).
+    If you want the request to be for a time period independent from a project, request workstation user data through an Employee Center data request. For more information, see [Requesting workstation user data](requesting-workstation-user-data.md).
 
     1.  In the list of workstation users, select any user for whom the **Data request status** is **Required**.
 
@@ -74,5 +74,5 @@ A data request is sent to all managers of every workstation user. Once a data re
 
 ## What to do next
 
-Generate an analysis of the project data. For more information, see [Generating a project data analysis](../concept/mining-a-task-mining-project.md).
+Generate an analysis of the project data. For more information, see [Generating a project data analysis](mining-a-task-mining-project.md).
 

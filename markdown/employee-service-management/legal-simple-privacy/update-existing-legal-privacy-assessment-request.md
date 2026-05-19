@@ -85,7 +85,7 @@ A link to the document is listed in the **External URL** column of the documents
     **Note:** The **Approvals** tab appears only when the privacy assessment request or an attachment has approval records.
 
 
-**Parent Topic:**[Privacy assessment requests](../concept/privacy-assessment-requests.md)
+**Parent Topic:**[Privacy assessment requests](privacy-assessment-requests.md)
 
 **Related topics**  
 

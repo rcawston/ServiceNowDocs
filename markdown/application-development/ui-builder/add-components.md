@@ -29,7 +29,7 @@ Components are the building blocks used to create custom pages in UI Builder. Le
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Open or create a page.
 
@@ -37,7 +37,7 @@ Components are the building blocks used to create custom pages in UI Builder. Le
 
 4.  Select an existing container or create a column layout.
 
-    See [Organize components in UI Builder pages](../concept/work-layouts.md) for more information.
+    See [Organize components in UI Builder pages](work-layouts.md) for more information.
 
 5.  Add components to your page.
 
@@ -88,13 +88,13 @@ You can add a component from the content tree in the following two ways.-   Sele
 
     2.  Select the **Configure** tab from the configuration panel in UI Builder.
 
-    3.  Customize the [component properties](../concept/ui-builder-glossary.md#) for the component.
+    3.  Customize the [component properties](ui-builder-glossary.md#) for the component.
 
         For example, you could add a name for a button component. Some components, like data visualizations, require a data source before you can configure the properties. Each component has different configuration properties based on the requirements and options for each component. For example, the **Button** component configuration is simple, while a **List** component requires more configuration.
 
     4.  For components with configurable JSON properties, you can use UI Builder's low-code JSON editor to edit component properties without needing to edit JSON code.
 
-        The JSON editor UI displays all available properties, even properties not defined in the dummy data or defined values. You can update properties or add your own custom properties within the JSON editor. For more information about configuring components, see [Edit code with the Now Code Editor \(advanced feature\)](../../now-code-editor/concept/now-code-editor.md).
+        The JSON editor UI displays all available properties, even properties not defined in the dummy data or defined values. You can update properties or add your own custom properties within the JSON editor. For more information about configuring components, see [Edit code with the Now Code Editor \(advanced feature\)](now-code-editor.md).
 
         **Note:** The low-code JSON editor is only available to properties that have a schema and whose JSON input matches said schema.
 
@@ -122,7 +122,7 @@ You can add a component from the content tree in the following two ways.-   Sele
 
     For more information, see [Change the default appearance of components](add-styling-to-component.md#).
 
-    **Note:** Style changes only affect a single component at a time. To change the visual style of all the components in your experience, you must apply a theme to your experience. For more information, see [Manage the visual style of UI Builder experiences](../concept/manage-the-visual-style-of-ui-builder-experiences.md).
+    **Note:** Style changes only affect a single component at a time. To change the visual style of all the components in your experience, you must apply a theme to your experience. For more information, see [Manage the visual style of UI Builder experiences](manage-the-visual-style-of-ui-builder-experiences.md).
 
 9.  Add additional containers to your page to display your components in an organized way.
 
@@ -142,7 +142,7 @@ You can add a component from the content tree in the following two ways.-   Sele
 
 11. To make a modal appear when you select a component such as a button, you must add the modal to the component first.
 
-    A modal is a confirmation pop-up that appears when you select the component. For example, if you add a button component that deletes a record, you add a modal to ask the user to confirm they want to delete the record. See [Create modals in UI Builder](../concept/Modals-overview.md) for more information.
+    A modal is a confirmation pop-up that appears when you select the component. For example, if you add a button component that deletes a record, you add a modal to ask the user to confirm they want to delete the record. See [Create modals in UI Builder](Modals-overview.md) for more information.
 
 12. Select **Save** often on your page as you work.
 
@@ -151,15 +151,15 @@ You can add a component from the content tree in the following two ways.-   Sele
 
 ## What to do next
 
-You have added and configured components on your page. See [Dynamically expose data in UI Builder pages \(advanced feature\)](../concept/data-resources.md) for more information. A data resource in UI Builder is the data that a page fetches to display content in components. Components use data resources as a way to reuse data and configurations across different experiences, and make the components dynamic on a page.
+You have added and configured components on your page. See [Dynamically expose data in UI Builder pages \(advanced feature\)](data-resources.md) for more information. A data resource in UI Builder is the data that a page fetches to display content in components. Components use data resources as a way to reuse data and configurations across different experiences, and make the components dynamic on a page.
 
-**Parent Topic:**[Configure components and repeaters \(advanced feature\)](../concept/configure-comp-and-repeaters.md)
+**Parent Topic:**[Configure components and repeaters \(advanced feature\)](configure-comp-and-repeaters.md)
 
 ## Supported functions in the UI Builder component formula editor
 
 Learn about the various functions supported in the UI Builder component formula editor.
 
-The following table lists the functions you can use in the UI Builder component formula editor. For more information about the component formula editor, see [Customize UI Builder pages using components](../concept/work-components.md).
+The following table lists the functions you can use in the UI Builder component formula editor. For more information about the component formula editor, see [Customize UI Builder pages using components](work-components.md).
 
 <table id="table_jb1_r21_ft"><thead><tr><th>
 

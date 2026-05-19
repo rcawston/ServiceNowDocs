@@ -61,11 +61,11 @@ The order of execution is as follows:
 
 [Workflow assignments](c_WorkflowAssignments.md)
 
-[Baseline assignment rules example](../reference/r_BaselineAssignmentRulesExample.md)
+[Baseline assignment rules example](r_BaselineAssignmentRulesExample.md)
 
-[Create an assignment rule](../task/t_AssignmentModuleRule.md)
+[Create an assignment rule](t_AssignmentModuleRule.md)
 
-[Create an assignment data lookup rule](../task/t_DataLookupRule.md)
+[Create an assignment data lookup rule](t_DataLookupRule.md)
 
 [Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/business-rules-classic/c_BusinessRules.md)
 

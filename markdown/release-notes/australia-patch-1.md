@@ -17,7 +17,7 @@ The Australia Patch 1 release contains important problem fixes.
     -   Build date: 03-31-2026\_1137
     -   Build tag: glide-australia-02-11-2026\_\_patch1-03-23-2026
 
-**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](../upgrades/reference/upgrade.md).
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -167,9 +167,9 @@ Australia Patch 1 includes fixes for security-related problems that affected cer
 
     This section lists the minimum supported versions for ServiceNow server releases, client drivers \(ODBC and JDBC\), and Java Development Kit required for SQL API.
 
--   **[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)**
+-   **[Now Assist and agentic AI release notes](release-notes/now-assist-rn-landing.md)**
 
-    For Now Assist new features and changes, see [Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md).
+    For Now Assist new features and changes, see [Now Assist and agentic AI release notes](release-notes/now-assist-rn-landing.md).
 
 -   **[Route SQL API calls to Read Replica](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/routing-sql-api-calls-to-read-replica.md)**
 
@@ -7180,5 +7180,5 @@ Unless any exceptions are noted, you can safely upgrade to this release version 
 -   [Australia security and notable fixes](https://www.servicenow.com/docs/r/release-notes/australia-security-notables.html)
 -   [All other Australia fixes](https://www.servicenow.com/docs/r/release-notes/australia-all-other-fixes.html)
 
-**Parent Topic:**[Available patches and hotfixes](../available-versions.md)
+**Parent Topic:**[Available patches and hotfixes](available-versions.md)
 

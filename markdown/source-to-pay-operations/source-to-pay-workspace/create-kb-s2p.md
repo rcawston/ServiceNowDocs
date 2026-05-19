@@ -57,5 +57,5 @@ Role required: sn\_slm.manager, sn\_shop.procurement\_specialist\_manager, or ad
 7.  Select **Save**.
 
 
-**Parent Topic:**[Use Source-to-Pay Workspace](../../accounts-payable-operations/concept/using-source-to-pay-ws.md)
+**Parent Topic:**[Use Source-to-Pay Workspace](using-source-to-pay-ws.md)
 

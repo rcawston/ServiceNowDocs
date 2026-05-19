@@ -23,5 +23,5 @@ When an admin disables Usage Insights on the instance \(via the glide.analytics.
 
 **Note:** To fully disable all Usage Insights data collection for an instance, contact ServiceNow® Support by creating a case through Now Support \(support.servicenow.com\). Note that fully disabling data collection means the instance will no longer contribute to aggregated usage metrics used to monitor service health, facilitate feature delivery, and help customers benefit from the latest platform capabilities.
 
-**Parent Topic:**[Types of tracking consent policies in Usage Insights](../reference/uxa-tracking-types.md)
+**Parent Topic:**[Types of tracking consent policies in Usage Insights](uxa-tracking-types.md)
 

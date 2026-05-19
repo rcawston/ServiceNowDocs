@@ -19,9 +19,9 @@ If you integrate Operational Sustainability Management with Project Portfolio Ma
 
 When you create goals for your material topics, you perform some activity to accomplish those goals. The work that you do is captured in the form of programs and projects. When you integrate with Project Portfolio Management, you can create programs and projects for your goals. To learn more about program management and how to create programs, see [Program Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramManagement.md).
 
-To see the configurations that you must perform on the project form, see [Display the priorities and goals on the project form](../task/configure-project-form.md).
+To see the configurations that you must perform on the project form, see [Display the priorities and goals on the project form](configure-project-form.md).
 
-To see the tables installed with Goal Framework, see [Roles installed with the Goal Framework](../reference/tables-installed-with-goals.md).
+To see the tables installed with Goal Framework, see [Roles installed with the Goal Framework](tables-installed-with-goals.md).
 
 The following image shows the Operational Sustainability Management home page with Project Portfolio Management integration. The integration adds new actions in the Quick Actions section, and it creates the Programs/Projects column in the Top Level Goals Summary section.
 
@@ -37,7 +37,7 @@ If you integrate Operational Sustainability Management with IRM, you can add ris
 
 After you integrate with IRM, the Goal form lists additional options.![Goals form with IRM integration.](../images/goals-form-with-risk-intg.png)
 
-For more information on the roles and tables that are installed with the Operational Sustainability Management, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../reference/components-installed-with-esg.md).
+For more information on the roles and tables that are installed with the Operational Sustainability Management, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 -   **[Integrating Microsoft 365 with ServiceNow reporting](integrating-o365-with-servicenow.md)**  
 The Microsoft 365 for ServiceNow Reporting \(sn\_esg\_msoff\_intg\) integration provides disclosure reporting capabilities to ESG reporting disclosure managers to seamlessly report ServiceNow Operational Sustainability Management system data, list reports, charts, pivot, and multi pivot reports using Microsoft Word.
@@ -57,5 +57,5 @@ Socialsuite is a platform for conducting materiality assessments. You can import
 **Related topics**  
 
 
-[Migrate existing goals data to Goal Framework](../task/migrate-existing-goals-to-new-data-model.md)
+[Migrate existing goals data to Goal Framework](migrate-existing-goals-to-new-data-model.md)
 

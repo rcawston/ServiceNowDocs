@@ -27,7 +27,7 @@ This page provides detailed information of an engagement including internal and 
 View the product usage and capability data for a specific sold product over a period of time.
 -   **[View a product adoption roadmap](account-lifecycle-view-par-roadmap.md)**  
 View and organize products or capabilities into lanes to create a visual adoption plan for customer engagements.
--   **[View customer success cases in the CSM portal](../task/account-lifecycle-view-customer-success-portal.md)**  
+-   **[View customer success cases in the CSM portal](account-lifecycle-view-customer-success-portal.md)**  
 View the customer success case records or case task records on the Customer Service Management \(CSM\) portal.
 -   **[Touchpoint home page](account-lifecycle-touchpoint-home.md)**  
 During the engagement lifecycle, customer success agents schedule regular touchpoints with customers to evaluate progress, provide feedback, and offer guidance.
@@ -36,5 +36,5 @@ The Related Items component provides access to related lists associated with eng
 -   **[AI search with Recommended Actions](account-lifecycle-ai-search.md)**  
 Use AI search with Recommended Actions to create contexts and search for relevant records.
 
-**Parent Topic:**[Use Customer Success Management](../reference/account-lifecycle-customer-success-landing-page.md)
+**Parent Topic:**[Use Customer Success Management](account-lifecycle-customer-success-landing-page.md)
 

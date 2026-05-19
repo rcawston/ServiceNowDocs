@@ -54,13 +54,13 @@ Role required: admin
 
     Review your current entitlements and record your current design for access controls. Focus on identifying patterns where multiple items have the same combination of location, group, and so on. Each combination is a possible access control set.
 
-4.  [Create a user criteria record](../task/t_CreateAUserCriteriaRecord.md#) for each access control set that you identified from your inspection of the service catalog.
+4.  [Create a user criteria record](t_CreateAUserCriteriaRecord.md#) for each access control set that you identified from your inspection of the service catalog.
 
     You have a step with a list, note, and image.
 
 5.  [Apply these user criteria records](c_ServiceCatalogAccessControls.md) to the items and categories identified, replacing the equivalent entitlements.
 
-6.  Enable user criteria on your system by setting the [service catalog property](../reference/r_ServiceCatalogProperties.md) **Use "User Criteria" to define access to catalog items and categories** \(**glide.sc.use\_user\_criteria**\) to **true**.
+6.  Enable user criteria on your system by setting the [service catalog property](r_ServiceCatalogProperties.md) **Use "User Criteria" to define access to catalog items and categories** \(**glide.sc.use\_user\_criteria**\) to **true**.
 
     When this property is set to **true**, any remaining entitlements are no longer used.
 

@@ -23,7 +23,7 @@ After you have configured SonarQube scans on your pipelines and configured the c
 
 **Note:** For Harness pipelines, you can configure SonarQube scans only through the generic Docker Container Image. For more information, [Implement custom actions for pipelines using a generic Docker container image](servicenow-custom-actions-for-gitlab.md). For GitHub Actions, Jenkins, and Azure DevOps, you can either use the corresponding plugins from the marketplace or the Docker container image.
 
-**Parent Topic:**[DevOps Change Velocity reference](../reference/devops-change-velocity-reference.md)
+**Parent Topic:**[DevOps Change Velocity reference](devops-change-velocity-reference.md)
 
 ## Software Quality Summaries
 

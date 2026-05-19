@@ -50,5 +50,5 @@ When an engagement is in the **Follow up** state, the audit lead can generate an
 
 The incremented version of the report appears in the **KB article** field in the **Report** tab.
 
-**Parent Topic:**[Manage engagements](../concept/c_Engagements.md)
+**Parent Topic:**[Manage engagements](c_Engagements.md)
 

@@ -17,7 +17,7 @@ Donut and semi-donut reports show the proportions that make up a whole.
 
 Donut reports are similar to pie reports, but the donut report has empty space in the middle. The difference between a donut and a semi-donut is that a semi-donut is a donut sliced in half. The information presented is the same. Donut and semi-donut reports can be placed on dashboards where users can quickly interpret the information displayed.
 
-**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../../performance-analytics/concept/explore-data-vis-library.md).
+**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../explore-data-vis-library.md).
 
 This data visualization is supported on the mobile platform. For more information, see [Donut reports for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-donut.md) and [Mobile dashboard preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-dashboard-preview.md).
 
@@ -27,7 +27,7 @@ For example, use a donut or semi-donut reports to show open incidents by priorit
 
 ![Semi-donut incidents priority](../image/SemiDonutIncidentsPriority.png "Semi-donut report of incidents by priority")
 
-**Parent Topic:**[Report types](../reference/report-types-creation-details-rd.md)
+**Parent Topic:**[Report types](report-types-creation-details-rd.md)
 
 ## Create a donut report
 
@@ -67,7 +67,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d214852e309">
 
@@ -98,12 +98,12 @@ Group by
 
 </td><td>
 
-Group report data using the values of this field. For example, in an incident report grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. To group by fields on extended tables, see [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field. Configured function fields appear in this list after you save the report.
+Group report data using the values of this field. For example, in an incident report grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. To group by fields on extended tables, see [How to report on extended tables](t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field. Configured function fields appear in this list after you save the report.
 
  **Note:**
 
 -   It is not possible to group or stack reports by the **Tags** field, or by certain MySQL database field types, such as MEDIUMTEXT. For more information, see [Database field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_DatabaseFieldTypes.md).
--   Grouping or stacking by Variables or Questions fields is not supported for reports based on [database views](../../performance-analytics/concept/performance-analytics-glossary.md#).
+-   Grouping or stacking by Variables or Questions fields is not supported for reports based on [database views](../performance-analytics/performance-analytics-glossary.md#).
 
 
 </td></tr><tr><td>
@@ -112,13 +112,13 @@ Additional group by
 
 </td><td>
 
-Extra fields to group the report by. When you select **Additional group by** fields or function fields, the report includes a control at the bottom that allows you to group the report by any one of the additional fields. To group by fields on extended tables as well, see [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for descriptions of the selected fields Configured function fields appear in this list after you save the report.
+Extra fields to group the report by. When you select **Additional group by** fields or function fields, the report includes a control at the bottom that allows you to group the report by any one of the additional fields. To group by fields on extended tables as well, see [How to report on extended tables](t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for descriptions of the selected fields Configured function fields appear in this list after you save the report.
 
 **Note:**
 
 -   You can see choices in the **Additional group by** list that do not appear in the main **Group by** list. The report does not support grouping or stacking by the extra fields you see. Unlike the main **Group by** choices, the **Additional group by** fields are not filtered. If you select an unsupported field, it has no effect.
 -   The limitations listed for the main **Group by** field also apply to the **Additional group by** field.
- For more information, see [Add an additional group by or stack by](../task/add-additional-group-by-stack-by.md).
+ For more information, see [Add an additional group by or stack by](add-additional-group-by-stack-by.md).
 
 </td></tr><tr><td>
 
@@ -150,9 +150,9 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 
  Select **Minimum** or **Maximum** to show the maximum or minimum value for each segment of the report.
 
- For more information on aggregation options, see [Aggregation in reporting](../reference/aggregation-reporting.md).
+ For more information on aggregation options, see [Aggregation in reporting](aggregation-reporting.md).
 
- If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+ If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](t_AccessFieldExtendedTable.md#).
 
  For information about aggregating on FX currency values, see [FX Currency values in reporting](fx-currency-values-reporting.md#).
 
@@ -162,7 +162,7 @@ Set Value Formatting
 
 </td><td>
 
-Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](../reference/value-formatting-reports.md#).
+Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](value-formatting-reports.md#).
 
  **Note:** Decimal precision does not work on currency fields.
 
@@ -421,7 +421,7 @@ Show legend
 
 </td><td>
 
-Enable this option to show a chart legend. This check box appears when a **Group by** field is selected on the report form.Legends are truncated by default. To adjust truncation lengths, configure the properties **glide.chart.label.legend.truncate\_to** and **glide.chart.label.legend.truncate\_to.large**. For more information, see [Reporting properties](../reference/reporting-properties.md).
+Enable this option to show a chart legend. This check box appears when a **Group by** field is selected on the report form.Legends are truncated by default. To adjust truncation lengths, configure the properties **glide.chart.label.legend.truncate\_to** and **glide.chart.label.legend.truncate\_to.large**. For more information, see [Reporting properties](reporting-properties.md).
 
 </td></tr><tr><td>
 

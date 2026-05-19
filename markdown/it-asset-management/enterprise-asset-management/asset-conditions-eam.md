@@ -37,23 +37,23 @@ The asset condition workflow comprises of the following stages:
 
 -   **Create condition templates**
 
-    Create condition templates and associate condition attributes that you have defined to a condition template. Create questions and enable scoring in the templates to indicate whether the condition attributes for a model or asset passed or failed. For more details, see [Create condition templates for condition attributes](../task/create-condition-template-eam.md).
+    Create condition templates and associate condition attributes that you have defined to a condition template. Create questions and enable scoring in the templates to indicate whether the condition attributes for a model or asset passed or failed. For more details, see [Create condition templates for condition attributes](create-condition-template-eam.md).
 
 -   **Define condition attributes**
 
-    Enterprise asset managers define condition attributes for evaluating models and assets. For more details, see [Define condition attributes on enterprise models and assets](../task/create-condition-attribute-eam.md).
+    Enterprise asset managers define condition attributes for evaluating models and assets. For more details, see [Define condition attributes on enterprise models and assets](create-condition-attribute-eam.md).
 
 -   **Schedule condition evaluations**
 
-    The Enterprise asset manager schedules evaluations via maintenance plans or work orders. For more details, see [Schedule condition evaluations for enterprise models or assets](../task/schedule-condtion-evaluations.md).
+    The Enterprise asset manager schedules evaluations via maintenance plans or work orders. For more details, see [Schedule condition evaluations for enterprise models or assets](schedule-condtion-evaluations.md).
 
 -   **Perform condition evaluations**
 
-    The technician performs the evaluation via the web interface or through the mobile application. Once the evaluation is complete, a score and a result are calculated. The Enterprise asset manager either accepts or rejects the evaluation. For more details, see [Perform condition evaluation from the Enterprise Asset Workspace](../task/perform-condition-assessment-webui.md) and [Perform condition evaluation from the Mobile Agent application](../task/perform-condition-assessment-mobileapp.md).
+    The technician performs the evaluation via the web interface or through the mobile application. Once the evaluation is complete, a score and a result are calculated. The Enterprise asset manager either accepts or rejects the evaluation. For more details, see [Perform condition evaluation from the Enterprise Asset Workspace](perform-condition-assessment-webui.md) and [Perform condition evaluation from the Mobile Agent application](perform-condition-assessment-mobileapp.md).
 
 -   **View the evaluation reports**
 
-    The Enterprise asset manager views the report for the evaluation. For more details, see [Review the asset condition results](../task/review-service-event-conditions.md).
+    The Enterprise asset manager views the report for the evaluation. For more details, see [Review the asset condition results](review-service-event-conditions.md).
 
 
 ## Plugin dependencies for asset conditions
@@ -73,9 +73,9 @@ The following are the plugin dependencies that are required to use asset conditi
 
 The asset conditions feature supports domain separation.
 
--   **[Create condition templates for condition attributes](../task/create-condition-template-eam.md)**  
+-   **[Create condition templates for condition attributes](create-condition-template-eam.md)**  
 Create a condition template and associate the template to condition attributes for enterprise models and assets.
--   **[Define condition attributes on enterprise models and assets](../task/create-condition-attribute-eam.md)**  
+-   **[Define condition attributes on enterprise models and assets](create-condition-attribute-eam.md)**  
 Define the conditions to be inspected on enterprise models and assets throughout their life cycle.
 
 **Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)

@@ -112,7 +112,7 @@ For more information on statuses, see [Risk Assessment workflow changes from 19.
 
     2.  To create a risk response task, select the **Create task** button, and select the appropriate values.
 
-        For more information, see [Create a risk response task in the Risk Workspace](../../grc-risk/task/create-risk-response-task-risk-workspace.md).
+        For more information, see [Create a risk response task in the Risk Workspace](create-risk-response-task-risk-workspace.md).
 
     3.  To link existing risk response tasks or copy the tasks along with the risk response strategies from the previous assessment while reassessing a risk, select **Yes, continue with existing**.
 
@@ -169,5 +169,5 @@ The assessment is sent to the approver and the approval workflow starts.
 
 ![Send risk assessment for approval.](../image/risk-assessment-approval.png "In progress risk assessment ready for approval")
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

@@ -61,7 +61,7 @@ Make sure you have access to Terraform Cloud or Terraform Enterprise to perform 
     For more details on variable sets, see [https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-create-variable-set\#](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-create-variable-set).
 
 
-**Parent Topic:**[Setting up Terraform and GitHub](../concept/about-terraform-git-and-servicenow_0.md)
+**Parent Topic:**[Setting up Terraform and GitHub](about-terraform-git-and-servicenow_0.md)
 
 **Related topics**  
 

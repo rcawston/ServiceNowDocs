@@ -17,9 +17,9 @@ Browse courses or learning paths and take the ones that are of interest to you. 
 
 Service Operations Workspace uses Predictive Intelligence to discover and suggest all courses and learning paths that you might want to take based on the learning activities of the teams you belong to and your previous learning activities.
 
--   **[Enroll in Learning to take a learning course or complete a learning path](../task/enroll-learning-sow-wfo-itsm.md)**  
+-   **[Enroll in Learning to take a learning course or complete a learning path](enroll-learning-sow-wfo-itsm.md)**  
 When you enroll in a learning course or learning path, the application creates a learning task. You can track the progress of the course or path using the learning task.
--   **[Complete learning tasks using the Service Operations Workspace](../task/complete-training-tasks-workforce-optimization-sow.md)**  
+-   **[Complete learning tasks using the Service Operations Workspace](complete-training-tasks-workforce-optimization-sow.md)**  
 Enhance your skills set by completing learning tasks from internal or external learning content.
 
 **Parent Topic:**[Service Operations Workspace - Learning](itsm-sow-coaching.md)

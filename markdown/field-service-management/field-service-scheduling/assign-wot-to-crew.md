@@ -17,13 +17,13 @@ Assign crews to a work order task that requires a crew of agents in Dispatcher W
 
 ## Before you begin
 
-If you’re scheduling a task across multiple schedule entries or days, a work schedule must have been assigned to the crew. For more information, see [Create a work schedule for agents](../../customer-service-management/task/create-agent-work-schedule.md).
+If you’re scheduling a task across multiple schedule entries or days, a work schedule must have been assigned to the crew. For more information, see [Create a work schedule for agents](../field-service-manager-workforce/create-agent-work-schedule.md).
 
 **Note:** If the crew schedule hasn’t been defined and you’re auto-assigning a task, the default schedule is used.
 
 If you want to assign work order tasks to crews in the territories that best match their location, you must enable the following options:
 
--   The Field Service territory model, **Field\_Service\_Territories**. For more information, see [Enable the Field Service territory model](enable-territory-model.md).
+-   The Field Service territory model, **Field\_Service\_Territories**. For more information, see [Enable the Field Service territory model](../workforce-optimization-for-field-service/enable-territory-model.md).
 -   The **Territory** option in Dispatcher Workspace must be enabled to view the territory information in the task card and the agent card. For more information, see [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
 
 Role required: wm\_dispatcher

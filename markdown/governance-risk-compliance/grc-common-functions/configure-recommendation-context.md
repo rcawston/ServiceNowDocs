@@ -21,7 +21,7 @@ Role required: sn\_reco\_template.recommendation\_writer or sn\_grc\_comp\_genai
 
 ## About this task
 
-For information about the roles required for the recommendation contexts, see [User roles for recommendation contexts](../reference/user-roles-for-recommendation-contexts.md).
+For information about the roles required for the recommendation contexts, see [User roles for recommendation contexts](user-roles-for-recommendation-contexts.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ For information about the roles required for the recommendation contexts, see [U
 
 2.  On the form, fill in the fields.
 
-    For a description of the field values, see [form](../reference/recommendation-context-form.md).
+    For a description of the field values, see [form](recommendation-context-form.md).
 
 3.  Select **Submit**.
 
@@ -38,8 +38,8 @@ For information about the roles required for the recommendation contexts, see [U
 
 A new recommendation context is created. You can now create a recommendation template.
 
--   **[Recommendation context form](../reference/recommendation-context-form.md)**  
+-   **[Recommendation context form](recommendation-context-form.md)**  
 Use the recommendation context form to create a configuration.
 
-**Parent Topic:**[Recommendation contexts and templates](../concept/recommendation-contexts.md)
+**Parent Topic:**[Recommendation contexts and templates](recommendation-contexts.md)
 

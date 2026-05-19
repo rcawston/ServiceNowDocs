@@ -169,5 +169,5 @@ Follow these general guidelines when creating flows that contain Service Level A
     Reduce development time by copying the default SLA flows and customizing the copies with your own logic. Select a customized flow to run from the SLA definition. See [Create an SLA definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_CreateAnSLADefinition.md) .
 
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

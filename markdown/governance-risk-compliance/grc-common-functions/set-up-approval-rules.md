@@ -35,15 +35,15 @@ You can select specific approvers, approvers from the selected source table, dyn
 
 4.  Click **New** in the Approval Rules section.
 
-5.  On the [Approval Rule form](../reference/approval-rule-form.md), fill in the fields.
+5.  On the [Approval Rule form](approval-rule-form.md), fill in the fields.
 
 6.  Click **Submit**.
 
 
--   **[Approval Rule form](../reference/approval-rule-form.md)**  
+-   **[Approval Rule form](approval-rule-form.md)**  
 Use the Approval Rule form to create an approval rule.
--   **[Approval Rule New Record form](../reference/approval-rule-new-record-form.md)**  
+-   **[Approval Rule New Record form](approval-rule-new-record-form.md)**  
 Use the Approval Rule New Record form to create an approval rule for the approval level for a policy record.
 
-**Parent Topic:**[Using Approver Configurator for setting up approvals](../concept/approval-configuration.md)
+**Parent Topic:**[Using Approver Configurator for setting up approvals](approval-configuration.md)
 

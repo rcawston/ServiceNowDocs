@@ -233,5 +233,5 @@ The system base area unit for facilities space tables. Set to true to use meters
 -   Default value: false
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Installed with Facilities Visualization Workbench](../../facilities-interactive-facility-maps/reference/r_InstallWFacVisWorkbench.md)
+</table>**Parent Topic:**[Installed with Facilities Visualization Workbench](r_InstallWFacVisWorkbench.md)
 

@@ -22,7 +22,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 Now Assist Guardian logs all three types of guardrails available. Reviewing the logs can help you determine how often offensive content is generated, prompt injection attack attempts occur, or sensitive topics are detected.
 
-See [Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md) for more information.
+See [Now Assist Guardian](now-assist-guardian.md) for more information.
 
 ## Procedure
 
@@ -80,5 +80,5 @@ The log is exported as a .csv file to your computer.
 
 If you do not see any log data, then it is most likely that the guardrail has not been triggered yet. If you believe you should be seeing data but aren't, reach out to Now Support.
 
-**Parent Topic:**[Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md)
+**Parent Topic:**[Now Assist Guardian](now-assist-guardian.md)
 

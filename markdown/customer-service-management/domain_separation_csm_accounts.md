@@ -31,5 +31,5 @@ The account hierarchy feature creates a parent-child relationship between accoun
 
 To provide access from the child account to the parent account, you need to set domain visibility. Navigate to the child account and set visibility in the Visibility Domains related list \(sys\_user\_visibility\) by connecting the user to the domain.
 
-**Parent Topic:**[Domain separation and Customer Service Management](../concept/domain-separation-customer-service.md)
+**Parent Topic:**[Domain separation and Customer Service Management](domain-separation-customer-service.md)
 

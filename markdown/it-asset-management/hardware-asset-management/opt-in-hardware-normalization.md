@@ -71,5 +71,5 @@ Click **Opt-Out**.
 
 You are returned to the Hardware Asset Management Content Service agreement and you can opt back in at anytime.
 
-**Parent Topic:**[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+**Parent Topic:**[Work with hardware normalization](Work-with-hardware-normalization.md)
 

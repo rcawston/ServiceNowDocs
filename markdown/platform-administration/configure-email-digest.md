@@ -125,7 +125,7 @@ Digest From
 
 Enter the email address to be used in the From field of the email digest. For example, helpdesk@yourcompany.com. The email address must be in a valid format, otherwise a notification message appears near the field.
 
- Changing this address requires an advanced email setup such as [enabling email forwarding](../../reference-pages/task/t_ConfAltEmailUsgOwnSMTP.md).
+ Changing this address requires an advanced email setup such as [enabling email forwarding](t_ConfAltEmailUsgOwnSMTP.md).
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Digest Reply To
 
 Enter the email address that you want people to use when replying to the email digest. For example, helpdesk@yourcompany.com. The email must be in a valid format, otherwise a notification message appears near the field.
 
- Changing this address requires an advanced email setup such as [enabling email forwarding](../../reference-pages/task/t_ConfAltEmailUsgOwnSMTP.md).
+ Changing this address requires an advanced email setup such as [enabling email forwarding](t_ConfAltEmailUsgOwnSMTP.md).
 
 </td></tr><tr><td>
 
@@ -167,12 +167,12 @@ Digest Separator \(text\)
     **Note:** If you turned off the digest and want to make the digest available again, select the **Allow Digest** check box. The system retains the previously saved digest content and displays it in the **What Digest will contain** tab.
 
 
-**Parent Topic:**[Email digests](../concept/email-digests.md)
+**Parent Topic:**[Email digests](email-digests.md)
 
 **Related topics**  
 
 
-[Email digests](../concept/email-digests.md)
+[Email digests](email-digests.md)
 
 [Create or modify email digest intervals](create-digest-intervals.md)
 

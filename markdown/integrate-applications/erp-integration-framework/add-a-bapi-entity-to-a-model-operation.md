@@ -57,5 +57,5 @@ Video that shows how to add and delete a model operation entity in Zero Copy Con
     ![Manage model tab with entity card showing retrieval date and time.](../image/erp-add-bapi-entity-to-model2.png)
 
 
-**Parent Topic:**[Add an entity to a model](../concept/add-an-entity-to-model.md)
+**Parent Topic:**[Add an entity to a model](add-an-entity-to-model.md)
 

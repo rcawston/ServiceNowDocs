@@ -127,5 +127,5 @@ Updated
 Date and time that the stack details were last updated.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring the My Stacks tab](../concept/manage-stacks.md)
+</table>**Parent Topic:**[Exploring the My Stacks tab](manage-stacks.md)
 

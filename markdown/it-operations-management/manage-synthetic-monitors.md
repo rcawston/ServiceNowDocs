@@ -59,5 +59,5 @@ From the Synthetic monitoring landing page, choose one or more monitors to delet
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring synthetic monitoring](../concept/configuring-synthetic-monitoring.md)
+**Parent Topic:**[Configuring synthetic monitoring](configuring-synthetic-monitoring.md)
 

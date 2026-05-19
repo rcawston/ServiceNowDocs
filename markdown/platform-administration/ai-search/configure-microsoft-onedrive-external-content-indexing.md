@@ -144,5 +144,5 @@ Your connector admin needs these items to configure a Microsoft OneDrive externa
 
 For details on creating and configuring a Microsoft OneDrive external content connector, see [Create a Microsoft OneDrive external content connector](create-ext-cont-connector-microsoft-onedrive.md).
 
-**Parent Topic:**[Microsoft OneDrive external content connector](../concept/microsoft-onedrive-external-content-connector.md)
+**Parent Topic:**[Microsoft OneDrive external content connector](microsoft-onedrive-external-content-connector.md)
 

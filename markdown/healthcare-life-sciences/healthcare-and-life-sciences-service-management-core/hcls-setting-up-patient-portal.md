@@ -17,7 +17,7 @@ Set up the Patient Portal available within the Healthcare and Life Sciences Serv
 
 |Task|Description|
 |----|-----------|
-|[Configure the privacy policy settings for the Patient Portal](../task/hcls-config-privacy-policy.md).|Configure the privacy policy settings to enable users to provide their privacy consent at the time of registration on the Patient Portal.|
+|[Configure the privacy policy settings for the Patient Portal](hcls-config-privacy-policy.md).|Configure the privacy policy settings to enable users to provide their privacy consent at the time of registration on the Patient Portal.|
 |[Configure the self-registration feature on the Patient Portal](hcls-self-registration.md).|Enable or disable the self-registration feature on the Patient Portal by setting the value of the **Enables self registration on Healthcare patient Portal** property \(**sn\_hcls.enable\_self\_registration**\).|
 |[Configure the knowledge base for articles in Healthcare and Life Sciences Service Management](hcls-config-kb.md).|Configure the Healthcare and Life Sciences knowledge base that contains the knowledge articles available on the Patient Portal.|
 |[Configure the Patient Portal widgets](hcls-config-pat-portal-widgets.md#).|Use widgets included within the Healthcare and Life Sciences Service Management Core application to bring together healthcare data and information for the patient on the Patient Portal.|

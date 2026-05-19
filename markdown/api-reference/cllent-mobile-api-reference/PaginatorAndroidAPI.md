@@ -15,9 +15,9 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The Paginator class provides functions for paging through the return results passed back by a REST endpoint call, such as those returned by the NowTableService class.
 
-You must first call the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](../../../MobileSDKiOS/NowTableService/concept/NowTableServiceiOSAPI.md#) or [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](../../../MobileSDKiOS/NowTableService/concept/NowTableServiceiOSAPI.md#) function to retrieve paginate return results.
+You must first call the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) or [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function to retrieve paginate return results.
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## Paginator - first\(\)
 

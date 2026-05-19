@@ -36,5 +36,5 @@ Role required: admin
     **Note:** Once the provider details are created, it automatically creates the document actions and provider permissions.
 
 
-**Parent Topic:**[Using Multi Provider Document Services Framework](../reference/use-mp-document-services-framework.md)
+**Parent Topic:**[Using Multi Provider Document Services Framework](use-mp-document-services-framework.md)
 

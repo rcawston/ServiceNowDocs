@@ -24,7 +24,7 @@ ServiceNow provides these roles and modifying them is not recommended. These rol
 
 Both roles contains conditions depending on the type of user:
 
--   Alumni \(only used when you have the Alumni Center installed\). For more information, see [Setting up your Alumni Center](asc-configure.md).
+-   Alumni \(only used when you have the Alumni Center installed\). For more information, see [Setting up your Alumni Center](../employee-service-management/asc-configure.md).
 -   Contingent
 -   Contractor
 -   Employee
@@ -43,7 +43,7 @@ Client roles are defined and administered like regular roles. ServiceNow tracks 
 
 Assignment of client role rules is defined in the **Client Role Assignment Rules** module.
 
--   **[Client role assignment rules](../task/t_ClientRoleAssignRules.md)**  
+-   **[Client role assignment rules](t_ClientRoleAssignRules.md)**  
 Use Client Role Assignment Rules to automatically assign or reassign a role to an employee.
 
 **Parent Topic:**[Manage HR roles](c_ManageRoles.md)

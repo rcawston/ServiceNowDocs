@@ -37,7 +37,7 @@ When a universal task is created, it is auto-assigned to the employee as configu
 
 3.  On the form, fill in the fields.
 
-    See [Universal Task form](../reference/universal-task-form.md) for more information.
+    See [Universal Task form](universal-task-form.md) for more information.
 
 4.  Select one of the following.
 
@@ -53,5 +53,5 @@ Employee experience: A new task is created for your request. You can view and co
 
 Agent experience: You can now view or edit the task. You can also add more tasks to the same request.
 
-**Parent Topic:**[Using Universal Task](../concept/use-universal-task.md)
+**Parent Topic:**[Using Universal Task](use-universal-task.md)
 

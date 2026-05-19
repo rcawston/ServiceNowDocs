@@ -34,7 +34,7 @@ Role required: Based on the application that you are configuring, you need the f
 
 The flows are built using ServiceNow Workflow Studio, so make sure you’re familiar with [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md) basics.
 
-For information on flows that are installed with Financial Services Operations applications, see [Designer flows for Financial Services Operations applications](../reference/flow-designer-flows-fso-apps.md).
+For information on flows that are installed with Financial Services Operations applications, see [Designer flows for Financial Services Operations applications](flow-designer-flows-fso-apps.md).
 
 ## Procedure
 

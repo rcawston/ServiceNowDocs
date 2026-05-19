@@ -53,5 +53,5 @@ The following table lists supported Oracle data types and the default matching d
 **Related topics**  
 
 
-[Create an Oracle connection](../task/create-oracle-connection-zcc.md)
+[Create an Oracle connection](create-oracle-connection-zcc.md)
 

@@ -52,5 +52,5 @@ Reclamation rules and stale user reclamation candidates are created automaticall
 
 It's important that you review all automatically generated reclamation rules to ensure that they meet your specifications for reclaiming user subscriptions. For more information, see [Review a software reclamation rule](add-reclamation-rule-sub.md).
 
-Create software entitlements for the automatically generated software models to track software used against software owned. For more information, see [Create entitlements in Software Asset Management classic](track-software-rights.md).
+Create software entitlements for the automatically generated software models to track software used against software owned. For more information, see [Create entitlements in Software Asset Management classic](../software-asset-management/track-software-rights.md).
 

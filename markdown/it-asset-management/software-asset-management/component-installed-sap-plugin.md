@@ -160,25 +160,25 @@ Data from SAP is also stored in some additional tables that aren't part of the S
 **Related topics**  
 
 
-[Deploy the ABAP program for SAP](../task/import-abap-program-sap.md)
+[Deploy the ABAP program for SAP](import-abap-program-sap.md)
 
-[Establish an SAP connection using basic authentication](../task/add-sap-connection.md)
+[Establish an SAP connection using basic authentication](add-sap-connection.md)
 
-[Establish an SAP connection using OAuth 2.0](../task/add-sap-connection-oauth.md)
+[Establish an SAP connection using OAuth 2.0](add-sap-connection-oauth.md)
 
-[Create entitlements for SAP](../task/create-entitlement-sap.md)
+[Create entitlements for SAP](create-entitlement-sap.md)
 
-[Create software models for SAP](../task/add-software-model-sap.md)
+[Create software models for SAP](add-software-model-sap.md)
 
-[Create a custom SAP named user type](../task/create-named-user.md)
+[Create a custom SAP named user type](create-named-user.md)
 
-[Map a role to a named user type](../task/create-named-user-type-role-mapping.md)
+[Map a role to a named user type](create-named-user-type-role-mapping.md)
 
-[Create custom SAP price lists](../task/create-sap-pricelist.md)
+[Create custom SAP price lists](create-sap-pricelist.md)
 
-[Import custom SAP named user types](../task/import-custom-sap-named-user-type.md)
+[Import custom SAP named user types](import-custom-sap-named-user-type.md)
 
-[Import custom SAP price lists](../task/import-custom-sap-price-list.md)
+[Import custom SAP price lists](import-custom-sap-price-list.md)
 
 [SAP USMM-based optimization](usmm-optimization.md)
 
@@ -186,7 +186,7 @@ Data from SAP is also stored in some additional tables that aren't part of the S
 
 [Self-declaring SAP engine license usage](self-declaring-sap-engine-usage.md)
 
-[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](../reference/dashboard-sap.md)
+[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](dashboard-sap.md)
 
-[Publisher overview for SAP in the Software Asset Workspace](../reference/publisher-overview-sap.md)
+[Publisher overview for SAP in the Software Asset Workspace](publisher-overview-sap.md)
 

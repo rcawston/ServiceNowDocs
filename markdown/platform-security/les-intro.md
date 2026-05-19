@@ -57,5 +57,5 @@ Use LES to review the log report dashboard.
 -   **[Log Export Service \(LES\) references](les-references.md)**  
 Find all the miscellaneous information about LES in the reference section.
 
-**Parent Topic:**[Platform Security](../../general/concept/platsec-sublanding.md)
+**Parent Topic:**[Platform Security](platsec-sublanding.md)
 

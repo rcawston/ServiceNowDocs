@@ -19,15 +19,15 @@ Use ServiceNow® Instance Scan to interrogate your instance for configurations t
 
 <table id="table_wxs_hy2_lwb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../common/image/icon-explore.png) Learn about Instance Scan records and components.](../concept/hs-getting-started.md)
+[Explore ![](../../../common/image/icon-explore.png) Learn about Instance Scan records and components.](hs-getting-started.md)
 
 </td><td>
 
-[Configure ![](../../../common/image/icon-configure.png) Execute scans to keep a track on the health of your instance.](../concept/hs-intro-scans.md)
+[Configure ![](../../../common/image/icon-configure.png) Execute scans to keep a track on the health of your instance.](hs-intro-scans.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../common/image/icon-use.png) Use Instance Scan dashboard for a system wide visual representation of the health of your instance.](../concept/hs-dashboard.md)
+[Use ![](../../../common/image/icon-use.png) Use Instance Scan dashboard for a system wide visual representation of the health of your instance.](hs-dashboard.md)
 
 </td><td>
 

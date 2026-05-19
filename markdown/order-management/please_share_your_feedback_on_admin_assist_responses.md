@@ -52,5 +52,5 @@ To edit a user, click a username in the table.
 
 [Using CPQ user access management](cpq-using-uam.md)
 
-[User Access Control reference](../reference/cpq-user-access-control-ref.md)
+[User Access Control reference](cpq-user-access-control-ref.md)
 

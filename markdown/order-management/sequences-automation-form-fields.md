@@ -92,5 +92,5 @@ The state of the call task. The available options include:-   Open
 -   Cancelled
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customer Engagement Sequences reference](../concept/customer-engagement-sequences-reference.md)
+</table>**Parent Topic:**[Customer Engagement Sequences reference](customer-engagement-sequences-reference.md)
 

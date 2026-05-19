@@ -69,7 +69,7 @@ Action
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](../concept/managing-portfolio-plans-in-alignment-planner-workspace.md)
+**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](managing-portfolio-plans-in-alignment-planner-workspace.md)
 
 **Related topics**  
 

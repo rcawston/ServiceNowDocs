@@ -21,9 +21,9 @@ Role required: ui\_builder\_admin
 
 ## About this task
 
-An event handler lets you configure an action, components, data resource, or declarative action on your page. For example, you can map an event to your page to add an alert notification when the page successfully loads or you can add an event handler for a button component to perform an action when a user clicks it. The event handler could also be a modal on your page that asks a user to verify that the user wants to delete the record. For more information, see [Manage actions in UI Builder pages](../concept/work-events.md).
+An event handler lets you configure an action, components, data resource, or declarative action on your page. For example, you can map an event to your page to add an alert notification when the page successfully loads or you can add an event handler for a button component to perform an action when a user clicks it. The event handler could also be a modal on your page that asks a user to verify that the user wants to delete the record. For more information, see [Manage actions in UI Builder pages](work-events.md).
 
-**Note:** You can also use Now Assist in UI Builder to configure event handlers. For more, information, see [Configure an event handler with Now Assist](../../ui-generation/task/configure-an-event-handler-with-now-assist.md)
+**Note:** You can also use Now Assist in UI Builder to configure event handlers. For more, information, see [Configure an event handler with Now Assist](../now-assist-for-creator/configure-an-event-handler-with-now-assist.md)
 
 ## Procedure
 
@@ -31,7 +31,7 @@ An event handler lets you configure an action, components, data resource, or dec
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Open or create a page.
 
@@ -76,5 +76,5 @@ An event handler lets you configure an action, components, data resource, or dec
 
 The configured event handler displays in the events tab of the configuration panel.
 
-**Parent Topic:**[Manage actions in UI Builder pages](../concept/work-events.md)
+**Parent Topic:**[Manage actions in UI Builder pages](work-events.md)
 

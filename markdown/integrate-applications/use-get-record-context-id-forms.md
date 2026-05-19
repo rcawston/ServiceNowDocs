@@ -17,7 +17,7 @@ Get the Sys ID of the ServiceNow form record that is associated to an attended c
 
 If you are running an automation from RPA Desktop Design Studio, then assign the automation to the bot process by using the **Assign bot process** option from the **Design** tab of RPA Desktop Design Studio. In the **Bot Process** field, ensure to select an attended bot process that is enabled with Embedded Task Automation. In the **Attended Config** field, ensure to select an associated attended configuration. In the **Record Context** field, ensure to enter the Sys ID or URL of the ServiceNow form record. This is the output of your component. For more information, see [Assign bot process to an automation project](assign-bot-process.md).
 
-Ensure you are familiar with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../../rpa-hub/concept/embedded-task-auto-rpa.md).
+Ensure you are familiar with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md).
 
 Role required: none
 
@@ -27,7 +27,7 @@ Use the GetRecordContextID component to fetch the Sys ID of the ServiceNow form 
 
 If you are triggering the automation from the ServiceNow form's UI action \(button\) and it executes using the Attended Robot application, then the GetRecordContextID component returns the Sys ID of the ServiceNow form record.
 
-You can configure the properties for the GetRecordContextID component. For more information about these properties, see [Properties of the Forms components](../reference/sn-forms-properties.md).
+You can configure the properties for the GetRecordContextID component. For more information about these properties, see [Properties of the Forms components](sn-forms-properties.md).
 
 ## Procedure
 
@@ -46,5 +46,5 @@ You can configure the properties for the GetRecordContextID component. For more 
 4.  To test the component, right-click the title bar of the component and select **Run From Here**.
 
 
-**Parent Topic:**[Forms](../concept/forms_sn_rpa_studio.md)
+**Parent Topic:**[Forms](forms_sn_rpa_studio.md)
 

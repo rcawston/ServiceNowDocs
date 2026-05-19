@@ -66,7 +66,7 @@ The Board refreshes to display the new formula column, and its values populated 
 **Related topics**  
 
 
-[Add a formula column in CWM Boards](../../collab-work-mgmt/task/add-formula-column-cwm-boards.md)
+[Add a formula column in CWM Boards](../collaborative-work-management/add-formula-column-cwm-boards.md)
 
-[Add custom columns for tasks in a CWM Board](../../collab-work-mgmt/task/add-custom-columns-for-tasks-in-board.md)
+[Add custom columns for tasks in a CWM Board](../collaborative-work-management/add-custom-columns-for-tasks-in-board.md)
 

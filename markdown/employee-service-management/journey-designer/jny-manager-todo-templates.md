@@ -29,10 +29,10 @@ Role required: admin \[sn\_jny.admin\]
 
 3.  Modify or complete the fields in the form.
 
-    For detailed information on the fields in the form, see [Journey designer Model task fields](../reference/jny-model-task-fields.md).
+    For detailed information on the fields in the form, see [Journey designer Model task fields](jny-model-task-fields.md).
 
 4.  Click **Submit** or **Update** to save the form.
 
 
-**Parent Topic:**[Creating and managing audience-specific templates](../concept/jny-creating-audience-specific-plans.md)
+**Parent Topic:**[Creating and managing audience-specific templates](jny-creating-audience-specific-plans.md)
 

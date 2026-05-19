@@ -32,5 +32,5 @@ You can specify the schedule to be used when creating new task SLAs in the **Sch
 **Related topics**  
 
 
-[Create an SLA definition](../task/t_CreateAnSLADefinition.md)
+[Create an SLA definition](t_CreateAnSLADefinition.md)
 

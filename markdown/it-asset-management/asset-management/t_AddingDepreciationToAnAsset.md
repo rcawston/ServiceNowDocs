@@ -29,7 +29,7 @@ The ServiceNow AI Platform calculates the read-only **Residual date** and **Resi
 
 When an asset is in the **In Use** state, the asset form populates a Deprecation effective date.
 
-For more information about fixed assets and depreciation, see [Using Depreciation with Fixed Assets](../concept/c_CreatingFixedAssets.md#).
+For more information about fixed assets and depreciation, see [Using Depreciation with Fixed Assets](c_CreatingFixedAssets.md#).
 
 ## Procedure
 
@@ -50,7 +50,7 @@ For more information about fixed assets and depreciation, see [Using Depreciatio
     The **Residual date**, **Residual value**, and **Depreciated amount** fields are automatically calculated.
 
 
-**Parent Topic:**[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+**Parent Topic:**[Manage various assets through asset classes](c_AssetClasses.md)
 
 **Related topics**  
 

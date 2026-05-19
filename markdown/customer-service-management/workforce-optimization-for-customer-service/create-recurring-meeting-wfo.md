@@ -112,5 +112,5 @@ It is a one-time meeting only.
 
 You can view the meeting series on your team calendar. You can select the meeting invite on the team calendar and edit the whole meeting series or a particular meeting in the whole series.
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](scheduling-configurable-wfo-cs.md)
 

@@ -64,5 +64,5 @@ Roles required:
     **Note:** You can update the sprint details only if you have the safe\_scrum\_master role.
 
 
-**Parent Topic:**[SAFe PI planning board](../concept/safe-pi-planning-board.md)
+**Parent Topic:**[SAFe PI planning board](safe-pi-planning-board.md)
 

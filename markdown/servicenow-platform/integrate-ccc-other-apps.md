@@ -13,7 +13,7 @@ breadcrumb: [ServiceNow Voice, Manage people and work capabilities, Extend Servi
 
 You can extend the capabilities of ServiceNow Voice for inbound and outbound calls by integrating with other applications.
 
--   **[Integrate ServiceNow Voice with Amazon Connect](../task/integrate-ccc-amazonconnect.md)**  
+-   **[Integrate ServiceNow Voice with Amazon Connect](integrate-ccc-amazonconnect.md)**  
 Connect ServiceNow Voice of your ServiceNow instance with the Amazon Connect instance to provide a seamless inbound and outbound voice call experience for your callers and agents.
 -   **[Integrating ServiceNow Voice with ITSM](integrate-ccc-itsm.md)**  
 Route calls coming through the ServiceNow Voice to specific phone queues based on user preference, utterances, or any other ServiceNow data to optimize incident resolution.

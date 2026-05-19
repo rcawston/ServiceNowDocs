@@ -29,7 +29,7 @@ With Client script summarization, the developer can select any client script in 
 
 ## Before you begin
 
-Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](../task/install-ui-generation.md) and [Grant UI Builder admin role](../task/grant-ui-builder-admin-role.md).
+Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](install-ui-generation.md) and [Grant UI Builder admin role](grant-ui-builder-admin-role.md).
 
 ## Configuration steps
 
@@ -55,12 +55,12 @@ Perform the following steps to use the Client script summarization skill:
 
 The developer quickly comprehends the purpose and functionality of the client scripts, whereas manually reading and interpreting the code would take several hours. This knowledge enables the developer to confidently plan and implement updates without the risk of introducing unintended regressions.
 
-**Parent Topic:**[UI Generation use cases](../task/ui-generation-use-cases.md)
+**Parent Topic:**[UI Generation use cases](ui-generation-use-cases.md)
 
 **Related topics**  
 
 
 [Client script summarization](client-script-summarization.md)
 
-[Summarize a client script using Now Assist](../task/client-script-summarization-generation.md)
+[Summarize a client script using Now Assist](client-script-summarization-generation.md)
 

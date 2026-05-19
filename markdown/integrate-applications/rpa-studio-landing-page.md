@@ -37,7 +37,7 @@ Use the ServiceNow® Robotic Process Automation \(RPA\) Desktop Design Studio, w
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about RPA Desktop Design Studio components like ports, methods, events, and properties.](../reference/rpa-studio-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about RPA Desktop Design Studio components like ports, methods, events, and properties.](rpa-studio-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources
@@ -46,6 +46,6 @@ Use the ServiceNow® Robotic Process Automation \(RPA\) Desktop Design Studio, w
 -   [Ask or answer questions in the community forum](https://www.servicenow.com/community/automation-engine/ct-p/automation-engine)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
--   [Robotic Process Automation \(RPA\) Hub glossary](../../rpa-hub/reference/rpa-hub-glossary.md#)
+-   [Robotic Process Automation \(RPA\) Hub glossary](rpa-hub-glossary.md#)
 -   [RPA General Guidelines](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1651495)
 

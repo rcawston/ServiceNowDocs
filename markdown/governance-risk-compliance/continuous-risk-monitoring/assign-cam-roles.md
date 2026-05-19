@@ -33,7 +33,7 @@ Role required: admin
 
 4.  Move the roles that you want to assign to the user from the Collection side to the Roles List, then select **Save**.
 
-    Roles are describe in [CAM user roles](../reference/cam-roles-list.md).
+    Roles are describe in [CAM user roles](cam-roles-list.md).
 
 5.  Repeat the process for each user or group.
 

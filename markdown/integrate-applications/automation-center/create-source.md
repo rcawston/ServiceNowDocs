@@ -97,5 +97,5 @@ Description of the automation source.
 
 [Configure execution summary](create-exe-sum-config.md)
 
-**Parent Topic:**[Configuring automation summary execution](../concept/config-auto-sum-exe.md)
+**Parent Topic:**[Configuring automation summary execution](config-auto-sum-exe.md)
 

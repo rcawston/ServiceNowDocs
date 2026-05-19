@@ -87,5 +87,5 @@ Select and define the source object indicator.
 </table>6.  Click **Submit**.
 
 
-**Parent Topic:**[Relationships Objects](../concept/relationship-objects.md)
+**Parent Topic:**[Relationships Objects](relationship-objects.md)
 

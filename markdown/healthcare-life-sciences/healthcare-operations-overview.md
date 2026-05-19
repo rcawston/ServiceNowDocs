@@ -15,7 +15,7 @@ Streamline and optimize your care team operational tasks with the ServiceNow® H
 
 Healthcare Operations includes the following applications:
 
--   **[Healthcare Operations Core](hcls-cto-app.md)**
+-   **[Healthcare Operations Core](healthcare-operations-core/hcls-cto-app.md)**
 
     Provides the foundation to enable hospitals to streamline and automate their operations.
 

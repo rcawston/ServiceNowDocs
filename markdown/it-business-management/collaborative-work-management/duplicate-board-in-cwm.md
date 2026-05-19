@@ -48,5 +48,5 @@ Role required: sn\_cwm.cwm\_user
 -   The start date for the tasks shift to the current date.
 -   Any custom columns in the original Board are copied to the new Board.
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](cwm-boards.md)
 

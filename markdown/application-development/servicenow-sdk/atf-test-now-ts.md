@@ -17,14 +17,14 @@ The Automated Test Framework Test API defines automated tests \[sys\_atf\_test\]
 
 **Note:** For the latest ServiceNow Fluent API documentation and examples, see the [ServiceNow Fluent API reference](https://servicenow.github.io/sdk/) and [ServiceNow SDK examples repository](https://github.com/ServiceNow/sdk-examples) on GitHub.
 
-For general information about Automated Test Framework tests, see [Automated Test Framework \(ATF\)](../../../administer/auto-test-framework/concept/atf-landing-page.md).
+For general information about Automated Test Framework tests, see [Automated Test Framework \(ATF\)](../automated-test-framework-atf/atf-landing-page.md).
 
 **Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## Test object
 

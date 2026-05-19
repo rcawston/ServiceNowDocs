@@ -21,5 +21,5 @@ You can also enable your admins to easily implement their own address validation
 
 **Note:** If you do not have an AVS set up at your end, this feature prompts you with address suggestions from your saved and office locations.
 
-**Parent Topic:**[Select a delivery location](../task/select-delivery-location.md)
+**Parent Topic:**[Select a delivery location](select-delivery-location.md)
 

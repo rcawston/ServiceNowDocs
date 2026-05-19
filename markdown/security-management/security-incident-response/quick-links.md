@@ -15,21 +15,21 @@ breadcrumb: [Explore, Security Incident Response Workspace, Security Incident Re
 
 Quick links work like bookmark links. You can add external URLs and quickly access them from within the workspace.
 
--   **[Working with quick links](../task/quick_links.md)**  
+-   **[Working with quick links](quick_links.md)**  
 Add quick links for easy reference.
 
-**Parent Topic:**[Exploring SIR Workspace](../reference/exploring-security-incident-response-workspace.md)
+**Parent Topic:**[Exploring SIR Workspace](exploring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[SIR Workspace plugins](../reference/components-installed-with-analyst-workspace.md)
+[SIR Workspace plugins](components-installed-with-analyst-workspace.md)
 
-[SIR Workspace features](../reference/key-features.md)
+[SIR Workspace features](key-features.md)
 
-[SIR Workspace interface overview](../reference/overview.md)
+[SIR Workspace interface overview](overview.md)
 
-[Upcoming section](../task/upcoming-section.md)
+[Upcoming section](upcoming-section.md)
 
 [Shift Handover Records section](shift-handover-records-section.md)
 

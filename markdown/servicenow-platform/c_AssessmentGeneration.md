@@ -24,7 +24,7 @@ Each time the system generates assessments, it creates some or all of the follow
 
 -   [Assessment group](c_AssessmentGroups.md)
 -   [Assessment instances](c_AssessmentInstances.md)
--   [Assessment results](../reference/r_AssessmentResults.md)
+-   [Assessment results](r_AssessmentResults.md)
 
 **Parent Topic:**[Assessment administrator tasks](c_AssessmentProcess.md)
 

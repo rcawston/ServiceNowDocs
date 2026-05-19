@@ -51,7 +51,7 @@ Setup credentials for Microsoft Teams Communication spoke.
 5.  [Create connection and credential for Microsoft Teams Graph](create-connection-and-credentials-alias-for-microsoft-teams-graph.md)  
 Setup connection and credentials alias for Microsoft Teams Graph.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -90,9 +90,9 @@ Setup connection and credentials alias for Microsoft Teams Graph.
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

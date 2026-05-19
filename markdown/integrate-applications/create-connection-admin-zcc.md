@@ -38,7 +38,7 @@ The user is now a connection admin in Zero Copy Connector Hub. As a connection a
 -   Select a connector and create a zero copy connection to an external data source.
 -   Define who can access the connection and create data fabric tables by assigning the df\_data\_steward role to an existing role.
 
-See [Managing zero copy connections](../concept/managing-connections-zcc.md).
+See [Managing zero copy connections](managing-connections-zcc.md).
 
-**Parent Topic:**[Configuring Zero Copy Connectors](../concept/configuring-zcc.md)
+**Parent Topic:**[Configuring Zero Copy Connectors](configuring-zcc.md)
 

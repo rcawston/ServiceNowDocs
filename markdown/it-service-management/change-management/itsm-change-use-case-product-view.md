@@ -95,7 +95,7 @@ For additional details on Change Management, see [Change Management](c_ITILChang
 
 [See the video: How Change Management leverages the CSDM](https://www.youtube.com/watch?v=3iCxTeU4ZTA&list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK&index=43)
 
--   **[Change Management and CSDM tables](../reference/itsm-change-use-case.md)**  
+-   **[Change Management and CSDM tables](itsm-change-use-case.md)**  
 Change Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Change Management.
 -   **[Change Management use case](itsm-change-use-case-example.md)**  
 For ITSM, specifically incident and change, identifying the location of critical data can help reduce mean time to resolve incidents and eliminate outages caused by change.

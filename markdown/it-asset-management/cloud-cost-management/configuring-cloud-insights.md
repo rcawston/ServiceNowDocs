@@ -41,7 +41,7 @@ Get the Cloud Cost Management application from the [ServiceNow Store](https://st
 
 </td><td>
 
-[Install Cloud Cost Management](../task/install-ci.md)
+[Install Cloud Cost Management](install-ci.md)
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Get the Cloud Cost Management Infra Stack application from the [ServiceNow Store
 
 </td><td>
 
-[Install Cloud Cost Management Infra Stack](../task/install-ccm-infra.md)
+[Install Cloud Cost Management Infra Stack](install-ccm-infra.md)
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Assign Cloud Cost Management roles to user groups and to individual users based 
 
 </td><td>
 
-[Cloud Cost Management roles](../reference/cloud-insights-roles.md)
+[Cloud Cost Management roles](cloud-insights-roles.md)
 
 </td></tr><tr><td>
 
@@ -89,9 +89,9 @@ Configure the MID Servers for enabling the Discovery application to communicate 
 
 </td><td>
 
--   [Configuring access to CI data on your AWS account](../reference/aws-midserver-config-cloudin.md)
--   [Configuring access to CI data on your Microsoft Azure account](../reference/azure-midserver-config-cloudin.md)
--   [Configuring access to CI data on your Google Cloud account](../reference/cloud-in-midserver-config-gcp.md)
+-   [Configuring access to CI data on your AWS account](aws-midserver-config-cloudin.md)
+-   [Configuring access to CI data on your Microsoft Azure account](azure-midserver-config-cloudin.md)
+-   [Configuring access to CI data on your Google Cloud account](cloud-in-midserver-config-gcp.md)
 
 </td></tr><tr><td>
 
@@ -130,9 +130,9 @@ Enable Cloud Cost Management to download and store price sheet data of the used 
 
 </td><td>
 
--   [Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](../task/aws-pricesht-sched-dwnld-cloudin.md)
--   [Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](../task/azure-pricesht-sched-dwnld-cloudin.md)
--   [Schedule and manage the Cloud Cost Management jobs that download Google Cloud price sheets](../task/gcp-pricesht-sched-dwnld-cloudin.md)
+-   [Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](aws-pricesht-sched-dwnld-cloudin.md)
+-   [Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](azure-pricesht-sched-dwnld-cloudin.md)
+-   [Schedule and manage the Cloud Cost Management jobs that download Google Cloud price sheets](gcp-pricesht-sched-dwnld-cloudin.md)
 
 </td></tr><tr><td>
 

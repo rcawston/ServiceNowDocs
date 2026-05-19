@@ -175,5 +175,5 @@ Depending on the current stage of the case:
 
 [Generate and view a claim's fraud score](view-claim-fraud-score.md)
 
-[View a claim's summary](../concept/view-claim-summary.md)
+[View a claim's summary](view-claim-summary.md)
 

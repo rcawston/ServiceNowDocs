@@ -25,7 +25,7 @@ When a subscription renews, a new product SKU might be added to your account. Th
 
 1.  Before the renewal date, monitor the subscription end dates and document the current list of custom application and custom table mappings.
 
-    See [Viewing product subscription details in Subscription Management](../concept/subscription-details-v2.md).
+    See [Viewing product subscription details in Subscription Management](subscription-details-v2.md).
 
 2.  After the renewal date, map the documented tables and applications to the renewed subscription in Subscription Management.
 
@@ -36,5 +36,5 @@ When a subscription renews, a new product SKU might be added to your account. Th
 
 Continue to monitor subscription renewal dates to ensure that your mappings are accurate throughout each renewal.
 
-**Parent Topic:**[Managing custom tables and applications in Subscription Management](../concept/allocating-custom-tables-subscr-apps-v2.md)
+**Parent Topic:**[Managing custom tables and applications in Subscription Management](allocating-custom-tables-subscr-apps-v2.md)
 

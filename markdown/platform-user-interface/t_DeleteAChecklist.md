@@ -46,7 +46,7 @@ Deleting a checklist template has no effect on checklists created from that temp
     4.  In the confirmation dialog box, click **Delete**.
 
 
-**Parent Topic:**[Checklists](../concept/c_Checklists.md)
+**Parent Topic:**[Checklists](c_Checklists.md)
 
 **Related topics**  
 

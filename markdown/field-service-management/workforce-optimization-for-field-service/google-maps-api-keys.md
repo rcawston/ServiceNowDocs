@@ -33,11 +33,11 @@ If you create new Google API keys after March 1, 2025, you must enable the new A
 
 The steps for setting up Google Maps API keys are:
 
-1.  [Setting up system properties](../task/configuring-google-maps-in-fsm.md)
+1.  [Setting up system properties](configuring-google-maps-in-fsm.md)
 
     Field Service Management requires Google Maps configuration for users to view maps and operate location features properly.
 
-2.  [Setting client and server API keys](../../work-management/reference/google-maps-apis-and-fsm-capabilities.md)
+2.  [Setting client and server API keys](google-maps-apis-and-fsm-capabilities.md)
 
     Field Service requires Google Maps API configuration for users to operate location features properly.
 

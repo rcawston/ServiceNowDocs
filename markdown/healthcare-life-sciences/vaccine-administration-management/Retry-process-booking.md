@@ -36,5 +36,5 @@ Role required: sn\_vaccine\_sm.admin
 
 All requests and appointments that have been created appear on the **Vaccination Requests** tab.
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

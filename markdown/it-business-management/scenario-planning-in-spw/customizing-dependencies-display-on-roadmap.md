@@ -73,5 +73,5 @@ Roadmap view
 ![Roadmap showing only items with dependencies.](../images/only-dependencies.png "Roadmap showing only items with dependencies")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Strategic Planning Workspace reference](../reference/alignment-planner-workspace-reference.md)
+</table>**Parent Topic:**[Strategic Planning Workspace reference](alignment-planner-workspace-reference.md)
 

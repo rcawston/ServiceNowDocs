@@ -52,5 +52,5 @@ Role required: sn\_shop.shopping\_hub\_admin
     ![Delivery location.](../image/add_delivery_location.png)
 
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 

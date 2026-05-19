@@ -17,7 +17,7 @@ The CIActionEngine API provides methods that enable you to execute any action on
 
 The CI action is associated with the Metrics and CI Actions Framework application. To use this class in a scoped application, use the `sn_cimaf` namespace identifier. The CIActionEngine API requires the Metrics and CI Actions Framework \(com.snc.sn\_cimaf\) plugin and is provided within the `sn_cimaf` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CIActionEngine - execute\(\)
 

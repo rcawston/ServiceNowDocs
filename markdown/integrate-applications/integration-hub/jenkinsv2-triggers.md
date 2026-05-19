@@ -82,7 +82,7 @@ Create a pipeline projects in Jenkins to add the endpoint URL in `Jenkinsfile` t
         -   read:packages
     For more information about creating a classic personal access token, see [Creating a personal access token \(classic\)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) in [GitHub Docs](https://docs.github.com/en).
 
-    For the list of supported events, see the [Spoke triggers](../concept/jenkins-spoke.md#section_ccf_fn2_t3c) section.
+    For the list of supported events, see the [Spoke triggers](jenkins-spoke.md#section_ccf_fn2_t3c) section.
 
 -   Role required: admin
 

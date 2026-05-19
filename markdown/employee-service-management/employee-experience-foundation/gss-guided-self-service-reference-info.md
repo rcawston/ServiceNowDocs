@@ -21,7 +21,7 @@ You can display Guided Self-Service as a widget on the home page or as a quick l
 
 -   Ensure that the **sn\_hr\_sp.esc\_admin** user has the **playbook.write** role to edit the playbook design and **playbook\_experience.admin** to preview the guided experience.
 -   Only when the playbook and guided help process are in an active state, the guided help process appears on the Employee Center.
--   Guided Self-Service can’t be created from the playbook page directly, create the process from the GSS form, see [Configure Guided Self-Service](../task/gss-guided-help-config.md).
+-   Guided Self-Service can’t be created from the playbook page directly, create the process from the GSS form, see [Configure Guided Self-Service](gss-guided-help-config.md).
 -   Guided Self-Service flow is a single-stage flow.
 -   The Activity Definition \[sys\_pd\_activity\_definition\] table lists the definitions for the activities that you can add to a playbook in **Workflow Studio**.
 
@@ -49,7 +49,7 @@ You can display Guided Self-Service as a widget on the home page or as a quick l
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 
@@ -97,5 +97,5 @@ You can display Guided Self-Service as a widget on the home page or as a quick l
 
 [Website configuration form](config-website-form.md)
 
-[Use Guided Self-Service](../concept/gss-guided-self-service-homepage.md)
+[Use Guided Self-Service](gss-guided-self-service-homepage.md)
 

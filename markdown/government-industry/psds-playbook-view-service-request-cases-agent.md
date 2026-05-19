@@ -55,6 +55,6 @@ When you select a case, a form opens with the following sections:
     -   Reported on
     -   Assigned to agency
     -   Assigned to
-    For a detailed description of these fields, see [Government Service Case form](../reference/government-service-case-form.md#).
+    For a detailed description of these fields, see [Government Service Case form](government-service-case-form.md#).
 
 

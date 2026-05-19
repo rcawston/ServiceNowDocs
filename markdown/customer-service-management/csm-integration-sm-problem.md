@@ -33,7 +33,7 @@ The following roles enable customer service agents to view and create problems f
 -   sn\_problem\_read
 -   sn\_problem\_write
 
-For more information, see [Assign CSM/ITSM integration roles](../task/assign-csm-itsm-integration-roles.md#).
+For more information, see [Assign CSM/ITSM integration roles](assign-csm-itsm-integration-roles.md#).
 
 ## Synchronizing data between the problem and the case
 

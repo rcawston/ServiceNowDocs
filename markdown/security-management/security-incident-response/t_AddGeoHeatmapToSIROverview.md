@@ -36,5 +36,5 @@ Role required: sn\_si.admin
 7.  Close the **Add content** box.
 
 
-**Parent Topic:**[Security incident map](../concept/c_SecurityIncidentGeoHeatmap.md)
+**Parent Topic:**[Security incident map](c_SecurityIncidentGeoHeatmap.md)
 

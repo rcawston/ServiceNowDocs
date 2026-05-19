@@ -55,7 +55,7 @@ Duplication rule
 
 </td><td>
 
-Governs how to handle source records that would generate a duplicate record. For more information, see [Shared data transformation](../concept/shared-data-transformation.md).
+Governs how to handle source records that would generate a duplicate record. For more information, see [Shared data transformation](shared-data-transformation.md).
 
 </td></tr><tr><td>
 
@@ -228,5 +228,5 @@ Auto-populated with the source table.
 </table>7.  Click **Submit.**
 
 
-**Parent Topic:**[Security Operations field mapping](../concept/field-mapping.md)
+**Parent Topic:**[Security Operations field mapping](field-mapping.md)
 

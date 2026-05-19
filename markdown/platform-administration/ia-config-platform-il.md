@@ -42,5 +42,5 @@ Configure and maintain the AI-Search engine to experience a modern search experi
 -   **[Security Settings](ia-security-settings-il.md)**  
 Configure the security settings to maintain the security of your ServiceNow deployments.
 
-**Parent Topic:**[Configure in Now Assist for Setup](../concept/ia-config-landing.md)
+**Parent Topic:**[Configure in Now Assist for Setup](ia-config-landing.md)
 

@@ -40,12 +40,12 @@ The selected category user becomes a stakeholder for the selected assessable rec
 
 **Note:** Do not create stakeholders from category users and assessable records of different metric types.
 
-**Parent Topic:**[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+**Parent Topic:**[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 **Related topics**  
 
 
-[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 [Create a category user](t_CreateACategoryUser.md)
 

@@ -39,9 +39,9 @@ Role required: admin
 **Related topics**  
 
 
-[Components installed with Content Publishing](../reference/installed-with-content-delivery.md)
+[Components installed with Content Publishing](installed-with-content-delivery.md)
 
-[Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
+[Properties installed with Content Publishing](properties-with-content-delivery.md)
 
-[Setup employee communications](../concept/setup-employee-comms.md)
+[Setup employee communications](setup-employee-comms.md)
 

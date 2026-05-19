@@ -20,7 +20,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 ## About this task
 
-Certain skills have diagnostic scripts that you can run from the Now Assist Admin console. These diagnostic scripts check for successful skill execution and setup of the underlying [capability definitions](../../generative-ai-controller/reference/reference-for-generative-ai-controller.md). If you've made a copy of a skill, you will not be able to run diagnostics on the skill copy.
+Certain skills have diagnostic scripts that you can run from the Now Assist Admin console. These diagnostic scripts check for successful skill execution and setup of the underlying [capability definitions](generative-ai-controller/reference-for-generative-ai-controller.md). If you've made a copy of a skill, you will not be able to run diagnostics on the skill copy.
 
 ## Procedure
 
@@ -47,5 +47,5 @@ If you have identified any problems with your skill configuration, you can [edit
 
 If editing the skill does not solve the issue, you can [contact ServiceNow Support](http://www.servicenow.com/support/contact-support.html) for additional help.
 
-**Parent Topic:**[Now Assist reference](../reference/now-assist-reference-landing.md)
+**Parent Topic:**[Now Assist reference](now-assist-reference-landing.md)
 

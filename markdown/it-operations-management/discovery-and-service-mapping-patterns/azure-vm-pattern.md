@@ -24,7 +24,7 @@ Discovery and Service Mapping Patterns finds Azure virtual machines \(VMs\) on y
 
 -   **\(Optional\) Exclude temporary Azure Databricks VMs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can reduce short-lived configuration item \(CI\) records by excluding temporary Azure Databricks VMs. For more information, see [Exclude temporary Azure Databricks virtual machines](../task/exclude-temp-azure-databricks-vms.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can reduce short-lived configuration item \(CI\) records by excluding temporary Azure Databricks VMs. For more information, see [Exclude temporary Azure Databricks virtual machines](exclude-temp-azure-databricks-vms.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -184,7 +184,7 @@ Provider \[provider\]
 Cloud provider. The value is set to **AZURE**. This field is only populated in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table.
 
 </td></tr></tbody>
-</table>**Note:** When using the Image \[cmdb\_ci\_os\_template\] table to store Cloud OS images, you may notice an unusually large number of records. To avoid this issue, you can store the discovered OS images in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. For more information, see [Enable Cloud OS Image discovery](../../discovery/task/enable-cloud-os-image-discovery-pattern.md).
+</table>**Note:** When using the Image \[cmdb\_ci\_os\_template\] table to store Cloud OS images, you may notice an unusually large number of records. To avoid this issue, you can store the discovered OS images in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. For more information, see [Enable Cloud OS Image discovery](enable-cloud-os-image-discovery-pattern.md).
 
 <table id="table_hardware_type"><thead><tr><th>
 
@@ -211,7 +211,7 @@ Provider \[provider\]
 Cloud provider. The value is set to **AZURE**. This field is only populated in the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table.
 
 </td></tr></tbody>
-</table>**Note:** When using the Hardware Type \[cmdb\_ci\_compute\_template\] table to store the hardware types, you may notice an unusually large number of records. To avoid this issue, you can store the discovered hardware types in the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table. For more information, see [Enable the Cloud Hardware Type class extension](../../discovery/task/enable-hardware-type-class-extension.md).
+</table>**Note:** When using the Hardware Type \[cmdb\_ci\_compute\_template\] table to store the hardware types, you may notice an unusually large number of records. To avoid this issue, you can store the discovered hardware types in the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table. For more information, see [Enable the Cloud Hardware Type class extension](enable-hardware-type-class-extension.md).
 
 ## CI relationships
 
@@ -294,7 +294,7 @@ Configuration item \[configuration\_item\]
 References the Virtual Machine Instance \[cmdb\_ci\_vm\_instance\] table.
 
 </td></tr></tbody>
-</table>-   **[Exclude temporary Azure Databricks virtual machines](../task/exclude-temp-azure-databricks-vms.md)**  
+</table>-   **[Exclude temporary Azure Databricks virtual machines](exclude-temp-azure-databricks-vms.md)**  
 Reduce short-lived configuration item \(CI\) records by excluding temporary Azure Databricks virtual machines \(VMs\).
 
 **Parent Topic:**[Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md)

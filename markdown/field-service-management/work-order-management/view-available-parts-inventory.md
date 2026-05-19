@@ -109,5 +109,5 @@ The stockroom locations' information appear in the form of interactive map and c
 
 ## What to do next
 
-[Request inventory](../concept/request-inventory.md#)
+[Request inventory](request-inventory.md#)
 

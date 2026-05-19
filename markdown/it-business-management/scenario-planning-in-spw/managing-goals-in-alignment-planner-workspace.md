@@ -54,9 +54,9 @@ The portfolio plan details section in the Goals view provides the portfolio plan
 
 From the Portfolio plan details section, you can:
 
--   [Create goals](../task/create-goal-egm.md) for your portfolio plan.
--   [Share your portfolio plan](../../alignment-planner-workspace/task/share-portfolio-plan-alignment-planner-workspace.md) with stakeholders and other planning managers so that they have visibility into the progress of the plan and can start collaborating.
--   [Collaborate with stakeholders](../../alignment-planner-workspace/task/collaborate-stakeholders-portfolio-plan-alignment-planner-workspace.md) and drive shared outcomes by adding comments and attachments to your portfolio plan so that users can review and share their feedback.
+-   [Create goals](create-goal-egm.md) for your portfolio plan.
+-   [Share your portfolio plan](share-portfolio-plan-alignment-planner-workspace.md) with stakeholders and other planning managers so that they have visibility into the progress of the plan and can start collaborating.
+-   [Collaborate with stakeholders](collaborate-stakeholders-portfolio-plan-alignment-planner-workspace.md) and drive shared outcomes by adding comments and attachments to your portfolio plan so that users can review and share their feedback.
 -   Customize the widgets and cards that you want to view on the Dashboard tab using the Settings icon \(![Settings icon.](../../alignment-planner-workspace/images/personalize-icon.png)\). This setting is available only when the Dashboard tab is selected.
 
     **Note:** Only users with access to edit the portfolio plan can customize the widgets and cards.

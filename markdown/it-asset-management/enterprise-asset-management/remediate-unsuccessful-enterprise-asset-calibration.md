@@ -68,7 +68,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## What to do next
 
-Work with the assigned agent to complete and close all subsequent tasks for the new work order. See [Managing work for your enterprise assets](../concept/managing-work-enterprise-assets.md) for detailed instructions.
+Work with the assigned agent to complete and close all subsequent tasks for the new work order. See [Managing work for your enterprise assets](managing-work-enterprise-assets.md) for detailed instructions.
 
-**Parent Topic:**[Managing work for your enterprise assets](../concept/managing-work-enterprise-assets.md)
+**Parent Topic:**[Managing work for your enterprise assets](managing-work-enterprise-assets.md)
 

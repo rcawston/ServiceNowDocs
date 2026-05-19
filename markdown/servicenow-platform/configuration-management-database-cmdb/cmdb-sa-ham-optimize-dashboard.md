@@ -27,7 +27,7 @@ Control which resource and model categories are included in your HAM advisor das
 
 1.  On the CMDB success advisor landing page, select **Edit model categories** within the HAM card.
 
-    See [Viewing the CMDB success advisor landing page](../concept/cmdb-sa-landing-page.md).
+    See [Viewing the CMDB success advisor landing page](cmdb-sa-landing-page.md).
 
 2.  In the Edit model categories dialog box, add or remove categories to update your model category selection.
 

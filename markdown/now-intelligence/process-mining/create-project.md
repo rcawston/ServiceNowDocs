@@ -39,7 +39,7 @@ Role required: sn\_process\_mining\_admin
 
     You can add breakdown filters if required.
 
-    For information, see [Scoping your analysis](../concept/scope-analysis.md)
+    For information, see [Scoping your analysis](scope-analysis.md)
 
 6.  Select **Add child entity**.
 
@@ -120,5 +120,5 @@ Select the target reference field.**Note:** To provide a value for this field, y
     For information, see [Review and mine your project](review-mine.md).
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](external-dataset.md)
 

@@ -41,5 +41,5 @@ Role required: evt\_mgmt\_admin
 
 The integration is deactivated and stops streaming log data to the instance. The deactivated integration is still available on the Integrations Launchpad in the **Installed integrations** tab, under **Waiting for your action**.
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](../concept/hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)
 

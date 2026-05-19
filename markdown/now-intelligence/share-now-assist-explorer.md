@@ -75,5 +75,5 @@ Grant editing rights to the users you are sharing the exploration with. They are
 
 You can add or remove users to share the exploration with. You can also change the rights of the users who you have shared the exploration with.
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](use-now-assist-explorer.md)
 

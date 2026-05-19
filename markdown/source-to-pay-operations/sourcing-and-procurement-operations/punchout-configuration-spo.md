@@ -24,7 +24,7 @@ The following configuration is required in SPO to enable punchout:
     -   API Exchange: If the record is marked for API Exchange, the API Configuration related list provides options for setting up API-based integration with PunchOut systems.
     -   SpendInt API: If the record is marked for SpendInt API, configuration options for data load are available. This supports pre-PunchOut configuration for integrations.
 
-For more information, see [Configure punchout for third-party site purchases](../task/configure-supplier-punchout.md).
+For more information, see [Configure punchout for third-party site purchases](configure-supplier-punchout.md).
 
 **Parent Topic:**[Understanding Punchout](punchout-overview.md)
 

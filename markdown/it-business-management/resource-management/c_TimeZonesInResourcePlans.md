@@ -28,37 +28,37 @@ All users are assigned a schedule. If a user schedule changes, all time calculat
 **Related topics**  
 
 
-[Create a resource plan](../task/t_CreateResourcePlanProjectTask.md)
+[Create a resource plan](t_CreateResourcePlanProjectTask.md)
 
-[Use Resource Finder to analyze resource availability](../task/create-resource-plan-with-finder.md)
+[Use Resource Finder to analyze resource availability](create-resource-plan-with-finder.md)
 
-[Create an operational resource plan](../task/create-operational-plan.md)
+[Create an operational resource plan](create-operational-plan.md)
 
-[Request resources](../task/t_RequestResourcePlanApproval.md)
+[Request resources](t_RequestResourcePlanApproval.md)
 
-[Confirm a resource plan](../task/confirm-resource-plan.md)
+[Confirm a resource plan](confirm-resource-plan.md)
 
-[Confirm and allocate a resource plan](../task/confirm-allocate-resource-plan.md)
+[Confirm and allocate a resource plan](confirm-allocate-resource-plan.md)
 
-[Request a change to a resource plan](../task/t_RequestAChangeToAResourcePlan.md)
+[Request a change to a resource plan](t_RequestAChangeToAResourcePlan.md)
 
-[Recalculate costs of a resource plan of a project or demand](../task/recalculate-resource-costs.md)
+[Recalculate costs of a resource plan of a project or demand](recalculate-resource-costs.md)
 
-[Update cost plan related to a resource plan](../task/t_UpdateRelatedCostPlan.md)
+[Update cost plan related to a resource plan](t_UpdateRelatedCostPlan.md)
 
-[Complete a resource plan](../task/t_CloseAResourcePlan.md)
+[Complete a resource plan](t_CloseAResourcePlan.md)
 
-[Cancel a resource plan](../task/t_CancelAResourcePlan.md)
+[Cancel a resource plan](t_CancelAResourcePlan.md)
 
-[Delete a resource plan](../task/t_DeleteAResourcePlan.md)
+[Delete a resource plan](t_DeleteAResourcePlan.md)
 
-[Extend a resource plan](../task/extend-resource-plan.md)
+[Extend a resource plan](extend-resource-plan.md)
 
-[Request extension of an allocated resource plan](../task/request-extension-allocated-resource-plan.md)
+[Request extension of an allocated resource plan](request-extension-allocated-resource-plan.md)
 
-[Allocate resources for the extended period](../task/allocate-resources-for-extended-period.md)
+[Allocate resources for the extended period](allocate-resources-for-extended-period.md)
 
-[Reduce the duration of a resource plan](../task/reduce-resource-plan.md)
+[Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Associate a time card with a resource plan](../task/t_AssocATimeCardWithAResourcePlan.md)
+[Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

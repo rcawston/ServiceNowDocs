@@ -20,7 +20,7 @@ Add either the Now Virtual Agent bot or self-configured bot to your ServiceNow i
 
 Install the Google chat plugin \[sn\_va\_google-chat\] on your ServiceNow instance before adding any integrations.
 
-For more information on Now Virtual Agent integrations with Google chat, see [Exploring Conversational Integration with Google chat](../concept/exploring-ci-google-chat.md).
+For more information on Now Virtual Agent integrations with Google chat, see [Exploring Conversational Integration with Google chat](exploring-ci-google-chat.md).
 
 Role required: admin or virtual\_agent\_admin.
 
@@ -46,5 +46,5 @@ Role required: admin or virtual\_agent\_admin.
 
 If an automated welcome message displays in the chat window, Google chat is ready to use with Virtual Agent in your instance.
 
-**Parent Topic:**[Configuring your Conversational Integration with Google chat](../concept/configure-va-google-chat.md)
+**Parent Topic:**[Configuring your Conversational Integration with Google chat](configure-va-google-chat.md)
 

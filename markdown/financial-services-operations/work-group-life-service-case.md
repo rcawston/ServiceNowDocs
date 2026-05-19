@@ -17,7 +17,7 @@ Work on a group life case to change or review member information, and complete t
 
 Role required: sn\_ins\_group\_life.processor, sn\_ins\_group\_life.contributor, or sn\_ins\_group\_life.processor\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](fso-combine-csm-industry-roles.md).
 
 ## About this task
 

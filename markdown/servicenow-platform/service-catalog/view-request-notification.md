@@ -34,5 +34,5 @@ Use the email notification layout and template that is shipped with the Employee
     **Note:** To receive these notifications, the end user must enable notifications. For more information, see [Subscription-based notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SubscriptionBasedNotifications.md).
 
 
-**Parent Topic:**[Service Catalog request fulfillment](../concept/request-fulfillment.md)
+**Parent Topic:**[Service Catalog request fulfillment](request-fulfillment.md)
 

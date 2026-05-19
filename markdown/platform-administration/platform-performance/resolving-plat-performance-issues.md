@@ -27,8 +27,8 @@ Learn the techniques that can be used to improve form response times. If you not
 Identifying and resolving slow queries is an important aspect of improving platform performance. The ServiceNow AI Platform generates index suggestions to help resolve slow queries.
 -   **[Transaction cancellation](transaction-cancellation.md)**  
 You can cancel transactions that take longer than expected to load. Canceling long-running transactions can help prevent excessive resource consumption.
--   **[Add a module to test connection speed](../task/t_CreateAConnectionTestModule.md)**  
+-   **[Add a module to test connection speed](t_CreateAConnectionTestModule.md)**  
 A connection test can indicate the connection speed between your computer and your instance. A connection speed test \(/connection\_test.do\) is available as a UI page.
 
-**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../../general/concept/maintain-monitor-now-platform.md)
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../maintain-monitor-now-platform.md)
 

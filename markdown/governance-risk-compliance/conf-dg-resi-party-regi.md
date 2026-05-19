@@ -24,13 +24,13 @@ The following applications are used in the background for the Digital resilience
 
 -   **[Creating and reviewing the records](order-for-creating-records.md)**  
 The Operational Resilience administrators and managers can access the Digital Resilience Choices records in an instance. For best results, it is important to create or update the records such as legal entities, branches, functions, contracts, and so on in a specific order into the Digital resilience third-party registers application. Those specifics are outlined in this section.
--   **[Create records in bulk](../task/download-records-in-bulk.md)**  
+-   **[Create records in bulk](download-records-in-bulk.md)**  
 Create records in bulk from the Digital resilience third-party registers rather than creating one record at a time for single or multiple entities. You can save time and effort by working on multiple records at a time.
--   **[Update existing records in bulk](../task/update-existing-records-in-bulk.md)**  
+-   **[Update existing records in bulk](update-existing-records-in-bulk.md)**  
 Update existing records in bulk from the Digital resilience third-party registers.
--   **[Validate the Register of Information packages](../task/opres-drtp-validate-roi.md)**  
+-   **[Validate the Register of Information packages](opres-drtp-validate-roi.md)**  
 Run real-time validation on Register of Information \(RoI\) packages to help ensure compliance with DORA requirements.
--   **[Display the help tips on the forms](../task/display-help-tips-on-forms.md)**  
+-   **[Display the help tips on the forms](display-help-tips-on-forms.md)**  
 Display the help tips on the forms by updating the preferences. Help tips provide extra details about the fields and their related actions.
 
 **Parent Topic:**[Maintaining Digital resilience third-party registers](digi-resi-third-party-registers.md)

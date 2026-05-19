@@ -20,5 +20,5 @@ Use Service Catalog to request new firewall policies and rules.
 -   **[Firewall rule requests using agentic workflows](firewall-rule-requests-ai-workflow.md#)**  
 Use the Firewall Management Task Creation agentic workflow to request new firewall policies and rules from the Now Assist panel.
 
-**Parent Topic:**[Firewall Audits and Reporting](../reference/firewall-audit-reporting.md)
+**Parent Topic:**[Firewall Audits and Reporting](firewall-audit-reporting.md)
 

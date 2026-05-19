@@ -17,7 +17,7 @@ The GlideLocale API provides information about display information for the local
 
 There is no constructor for a GlideLocale object. Use the get\(\) method to obtain a GlideLocale object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideLocale - get\(\)
 

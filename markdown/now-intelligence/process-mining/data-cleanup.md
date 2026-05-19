@@ -256,7 +256,7 @@ Minimum number of eligible work notes **promin.work\_notes.min\_eligible\_record
 
 </td><td>
 
-Set the limit for minimum eligible work notes. Work notes are eligible when they meet the criteria that is set when creating process configuration \(such as, time range for work notes, length range of work notes analysis, and so on\). For more information, see [Configure investigative features](../task/investigative-features.md).
+Set the limit for minimum eligible work notes. Work notes are eligible when they meet the criteria that is set when creating process configuration \(such as, time range for work notes, length range of work notes analysis, and so on\). For more information, see [Configure investigative features](investigative-features.md).
 
  -   Type: integer
 -   Default value: 25

@@ -195,5 +195,5 @@ Product Catalog
 The information about the model as it appears in the product catalog and service catalog. Information only appears if the model has been published to the product catalog.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Models](../concept/c_Models.md)
+</table>**Parent Topic:**[Models](c_Models.md)
 

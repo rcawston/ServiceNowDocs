@@ -25,7 +25,7 @@ Agent chat for Agent Workspace for HR Case Management enables you to ask questio
 
     For example, an employee initiates a chat requesting information about your company's benefits. Having a benefits subgroup with agents that specialize in your company's benefits ensures the employee's chat is directed to the correct agents.
 
-    For more information about HR groups, see [Manage HR Groups](../task/t_ManageHRGroups.md).
+    For more information about HR groups, see [Manage HR Groups](../hr-service-delivery/t_ManageHRGroups.md).
 
 -   **Interaction records**
 
@@ -43,6 +43,6 @@ Agent chat for Agent Workspace for HR Case Management enables you to ask questio
 
     Automating chat can enhance the employee experience by addressing queries immediately. At any time during a virtual chat, the employee can request to interact with a live HR agent.
 
-    For more information on virtual agent, see [Virtual Agent for HR Service Delivery](hr-virtual-agent-conversations.md#).
+    For more information on virtual agent, see [Virtual Agent for HR Service Delivery](../hr-service-delivery/hr-virtual-agent-conversations.md#).
 
 

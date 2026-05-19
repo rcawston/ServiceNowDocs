@@ -138,12 +138,12 @@ WebDAV URL to your external account. This is the WebDAV end point of your extern
 
 ### What to do next
 
-[Import content from an external knowledge source](../task/run-import-job-external-content-integration.md).
+[Import content from an external knowledge source](run-import-job-external-content-integration.md).
 
 **Related topics**  
 
 
-[Open knowledge search results in source system](../task/open-search-results-ext-content.md)
+[Open knowledge search results in source system](open-search-results-ext-content.md)
 
 [Knowledge Management Service portal search results page](knowledge-service-portal-search.md)
 

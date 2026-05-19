@@ -21,7 +21,7 @@ Role required: ais\_admin
 
 ## About this task
 
-Each typo handling dictionary is linked to a search profile. For more information about search profiles, see [Search profiles in AI Search](../concept/defining-search-profiles-ais.md).
+Each typo handling dictionary is linked to a search profile. For more information about search profiles, see [Search profiles in AI Search](defining-search-profiles-ais.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ Each typo handling dictionary is linked to a search profile. For more informatio
 
 4.  On the AI Search Dictionary form, update the fields.
 
-    For a description of the field values, see [Dictionary and AI Search Dictionary forms](../reference/dictionary-form-ais.md).
+    For a description of the field values, see [Dictionary and AI Search Dictionary forms](dictionary-form-ais.md).
 
 5.  Select **Update**.
 
@@ -42,5 +42,5 @@ Each typo handling dictionary is linked to a search profile. For more informatio
 
 To make updated settings for a typo handling dictionary take effect, publish the search profile linked to the dictionary. For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Typo handling](../concept/typo-handling-ais.md)
+**Parent Topic:**[Typo handling](typo-handling-ais.md)
 

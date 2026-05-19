@@ -65,5 +65,5 @@ Typically, an invoice inquiry case is automatically created when you receive an 
     The inquiry case and related tasks are closed successfully.
 
 
-**Parent Topic:**[Invoice inquiry cases](../concept/work-with-inquiry-cases.md)
+**Parent Topic:**[Invoice inquiry cases](work-with-inquiry-cases.md)
 

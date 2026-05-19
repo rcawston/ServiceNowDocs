@@ -39,7 +39,7 @@ The metric definitions are only one part of the setup. The entity mapping table 
 
 5.  On the form, fill in the fields.
 
-    For information on the fields of the form, see [Automated metric definition fields](../../metrics/reuse/automated-metric-definition-fields.md).
+    For information on the fields of the form, see [Automated metric definition fields](automated-metric-definition-fields.md).
 
 6.  Select the **Entities** tab and add the entities related to your organization for which you want to collect data.
 
@@ -116,5 +116,5 @@ Review state. Based on the information provided in the **Additional information*
 
 An uploaded electricity bill contains a $416 charge and lists the service address as “1201 W Lake Street, Unit 4”. If an entity mapping record exists with Record identifier set to “1201 W Lake Street, Unit 4” and Related record set to the “Chicago Office” entity, the system automatically assigns the $416 charge to that entity’s electricity metric data task. Without the entity mapping record, the system can’t determine where to route the extracted data.
 
-**Parent Topic:**[Activate the document intelligence for utility invoices skill](../concept/activate-the-document-intelligence-for-utility-invoices-skill.md)
+**Parent Topic:**[Activate the document intelligence for utility invoices skill](activate-the-document-intelligence-for-utility-invoices-skill.md)
 

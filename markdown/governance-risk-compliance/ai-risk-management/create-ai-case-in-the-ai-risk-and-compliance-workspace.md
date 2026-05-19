@@ -27,7 +27,7 @@ Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user or sn\_ai\_case\_mgmt
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the Create New AI case form, see [Create New AI case form](../reference/create-new-ai-case-form.md).
+    For a description of the field values on the Create New AI case form, see [Create New AI case form](create-new-ai-case-form.md).
 
 4.  Select **Save**.
 
@@ -44,8 +44,8 @@ An AI case passes through: New, Triage, Investigate, Resolve, Post case review, 
 
 [Initiate AI assessment on an AI asset](initiate-assessment-on-an-ai-asset.md)
 
--   **[Create New AI case form](../reference/create-new-ai-case-form.md)**  
+-   **[Create New AI case form](create-new-ai-case-form.md)**  
 Use the Create New AI case form in the AI Risk and Compliance workspace to report an AI case with the necessary details.
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

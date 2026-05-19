@@ -42,7 +42,7 @@ Role required: admin
 
     If **Max days in future** is enabled, and if the start date and end date exceeds the **Max days in future** value, a warning message is displayed to show that reservation can only be made up to the number of days specified in **Max days in future**. The **Max days in future** value is configured on the Reservable module and specifies the maximum number of the days in the future up to which the Reservable module can be reserved.
 
-    **Note:** If the **Max days in future** value is not enabled, users can select a date as per the **Max number of occurrences** on the Reservable module. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+    **Note:** If the **Max days in future** value is not enabled, users can select a date as per the **Max number of occurrences** on the Reservable module. For more information, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
     -   If an employee clicks open the calendar icon ![date picker icon](../../workplace-visitor-mgmt/image/date-time-icon.png) and tries to select a date greater than the **Max days in future** value, the dates are disabled in the calendar date picker.
     -   For example, if the **Max days in future** value is 90 days, and if you try to select a date beyond 90 days, then the number of days beyond 90 days is disabled in the calendar date picker.

@@ -19,18 +19,18 @@ If you upgraded your EA Workspace from a previous version to version 4.0.0, you 
 
 ## Convert certification schedules to certification policies
 
-To convert the existing certification schedules to certification policies, you must import the certification schedules into Data Manager. This process converts the certification schedules into draft certification policies and you can then publish these policies to activate them. For more information, see [Import certification schedules in to Data Manager](../../task/eaw-task/eaw-convert-cert-schedules-to-cert-policies.md) and [Publish a draft Data Manager policy](../../task/eaw-task/eaw-publish-a-draft-policy.md).
+To convert the existing certification schedules to certification policies, you must import the certification schedules into Data Manager. This process converts the certification schedules into draft certification policies and you can then publish these policies to activate them. For more information, see [Import certification schedules in to Data Manager](eaw-convert-cert-schedules-to-cert-policies.md) and [Publish a draft Data Manager policy](eaw-publish-a-draft-policy.md).
 
 **Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
 
 **Related topics**  
 
 
-[Import certification schedules in to Data Manager](../../task/eaw-task/eaw-convert-cert-schedules-to-cert-policies.md)
+[Import certification schedules in to Data Manager](eaw-convert-cert-schedules-to-cert-policies.md)
 
-[Publish a draft Data Manager policy](../../task/eaw-task/eaw-publish-a-draft-policy.md)
+[Publish a draft Data Manager policy](eaw-publish-a-draft-policy.md)
 
-[View all certification policies](../../task/eaw-task/eaw-view-all-cert-schedules.md)
+[View all certification policies](eaw-view-all-cert-schedules.md)
 
-[Add or edit a certification policy](../../task/eaw-task/eaw-manage-cert-schedules.md)
+[Add or edit a certification policy](eaw-manage-cert-schedules.md)
 

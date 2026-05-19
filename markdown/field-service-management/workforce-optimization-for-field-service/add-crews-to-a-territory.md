@@ -65,5 +65,5 @@ The crew becomes visible within the **Crew Memberships** related list of the ter
 
 ## What to do next
 
-Dispatchers can assign crews to work order tasks. For more information, see [Assign work order tasks to crews](assign-wot-crew-operations.md).
+Dispatchers can assign crews to work order tasks. For more information, see [Assign work order tasks to crews](../field-service-manager-workforce/assign-wot-crew-operations.md).
 

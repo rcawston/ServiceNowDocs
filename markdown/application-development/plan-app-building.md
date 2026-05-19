@@ -36,5 +36,5 @@ Design your data model to support scalability, interoperability, and future reus
 -   **[Planning for analytics and reporting](planning-analytics-analysis.md)**  
 Include analytics requirements during the design phase to enable meaningful reporting and insights from the start. Analytics cannot be an afterthought when building on the ServiceNow AI Platform. Defining KPIs and reporting needs during app design ensures that data is captured correctly and supports dashboards, performance metrics, and decision-making.
 
-**Parent Topic:**[Getting Started guide for developers](../reference/getting-started-landing-page.md)
+**Parent Topic:**[Getting Started guide for developers](getting-started-landing-page.md)
 

@@ -93,7 +93,7 @@ Linux Server
 
 ^These probes remain active by default, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -104,21 +104,21 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 Before running a discovery, you must verify that all the required configurations are complete.
 
 -   **Verify the plugins installation and activation**
-    -   [Plugins or applications installed with ITOM Visibility](../../it-operations-management/reference/plugin-app-itom-visibility.md)
-    -   [Install Discovery and Service Mapping Patterns](../../service-mapping/task/install-discovery-service-mapping-patterns.md)
-    -   [Install Visibility Content](../../service-mapping/task/install-itom-visibility-global-content.md)
+    -   [Plugins or applications installed with ITOM Visibility](plugin-app-itom-visibility.md)
+    -   [Install Discovery and Service Mapping Patterns](../discovery-and-service-mapping-patterns/install-discovery-service-mapping-patterns.md)
+    -   [Install Visibility Content](../discovery-and-service-mapping-patterns/install-itom-visibility-global-content.md)
 -   **Verify the required credentials configuration**
 
-    Configure the credentials by the required SSH permissions. Discovering sensitive Linux data may require a user with appropriate sudo privileges to run the sudo commands. To configure the required sudo privileges, modify the `/etc/sudoers` file to include the commands that Discovery needs. For `/etc/sudoers` line examples for each command, see [SSH commands requiring a privileged user during probe-based discovery](discovery-ssh-command-require-priv.md).
+    Configure the credentials by the required SSH permissions. Discovering sensitive Linux data may require a user with appropriate sudo privileges to run the sudo commands. To configure the required sudo privileges, modify the `/etc/sudoers` file to include the commands that Discovery needs. For `/etc/sudoers` line examples for each command, see [SSH commands requiring a privileged user during probe-based discovery](../discovery/discovery-ssh-command-require-priv.md).
 
     For more information about the commands that require a user with elevated rights, refer to the following documents.
 
     -   [Commands that require root privileges for Discovery, Orchestration, and Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md).
-    -   For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../../service-mapping/reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+    -   For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
     -   [MID Server privileged commands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_PrivilegedCommandsForMIDServer.md)
-    -   [View Patterns commands through the Discovery Patterns module](../task/view-command-pattern-discovery.md)
-    -   [Validate commands used in pattern-based discovery](../../it-operations-management/task/validate-discovery-commands.md)
+    -   [View Patterns commands through the Discovery Patterns module](../discovery/view-command-pattern-discovery.md)
+    -   [Validate commands used in pattern-based discovery](../discovery/validate-discovery-commands.md)
     SSH private key credentials are preferable over SSH password credentials for security reasons.
 
 -   **Verify the MID Server configuration**
@@ -129,15 +129,15 @@ Before running a discovery, you must verify that all the required configurations
     -   [MID Server properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md)
 -   **Verify the configuration of the discovery schedule**
 
-    For information on creating a discovery schedule, see [Schedule a horizontal discovery](../task/t_CreateADiscoverySchedule.md#).
+    For information on creating a discovery schedule, see [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#).
 
     Defining IP ranges ensures that only the specified network adapters and their primary IP addresses are used during Linux discovery. You can configure **Quick Ranges** by entering comma-separated IPv4 address ranges or single IPv6 address.
 
-    Alternatively, you can use the **network\_adapter\_exclusion\_list** property to limit Linux discovery to specific network adapters and their primary IP addresses. For more information, see [Omit network adapter secondary IP addresses in Linux discovery](../../service-mapping/task/omit-adapter-secondary-ip-linux.md).
+    Alternatively, you can use the **network\_adapter\_exclusion\_list** property to limit Linux discovery to specific network adapters and their primary IP addresses. For more information, see [Omit network adapter secondary IP addresses in Linux discovery](omit-adapter-secondary-ip-linux.md).
 
 -   **\(Optional\) Populate Virtual Machine Object field in Hardware \[cmdb\_ci\_hardware\] table**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating the Virtual Machine Object field in the Hardware \[cmdb\_ci\_hardware\] table. For more information, see [Improved query performance with direct field population in CI tables](../../service-mapping/concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating the Virtual Machine Object field in the Hardware \[cmdb\_ci\_hardware\] table. For more information, see [Improved query performance with direct field population in CI tables](../discovery-and-service-mapping-patterns/query-service-account-ldc-fields.md).
 
 
 ## Data collected

@@ -28,17 +28,17 @@ The feature works through a scheduled job, PA Indicator Recommendations. This jo
 ## Requirements for the suggestions to be created
 
 -   The facts tables for the relevant indicators must be set up to generate audit logs. For more information, see [Configuring auditing for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md).
--   A process configuration must exist for the facts tables of the relevant indicators. For more information, see [Create process configuration using Classic view](../../../administer/process-mining/task/create-process-config.md).
--   A template project with table configurations specific to the facts table of the indicators should exist. To create such a project, see [Create a project or template using Project Builder](../../../administer/process-mining/task/define-workflow-model.md).
+-   A process configuration must exist for the facts tables of the relevant indicators. For more information, see [Create process configuration using Classic view](../process-mining/create-process-config.md).
+-   A template project with table configurations specific to the facts table of the indicators should exist. To create such a project, see [Create a project or template using Project Builder](../process-mining/define-workflow-model.md).
 
 ## Requirements for insights to be created from the new project
 
-Automated finding definitions must exist within the relevant process configurations, to ensure that the indicators are linked through the **Impacted KPIs** field. For more information, see [Configuring improvement opportunities](../../../administer/process-mining/concept/configuring-finding-definitions.md).
+Automated finding definitions must exist within the relevant process configurations, to ensure that the indicators are linked through the **Impacted KPIs** field. For more information, see [Configuring improvement opportunities](../process-mining/configuring-finding-definitions.md).
 
 **Related topics**  
 
 
-[Dashboards in Platform Analytics](analytics-center-dashboards.md)
+[Dashboards in Platform Analytics](../analytics-center-dashboards.md)
 
 ## Create a process mining project from a suggestion
 

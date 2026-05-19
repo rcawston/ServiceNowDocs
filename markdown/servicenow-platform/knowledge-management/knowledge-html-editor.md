@@ -29,12 +29,12 @@ You can perform the following functions using the HTML editor:
 
 -   View the style applied to the selected text and the word count from the bottom pane of the HTML editor.
 -   [Apply formatting](format-article-html-editor.md).
--   [Paste without formatting](../task/paste-wo-format-html-editor.md).
+-   [Paste without formatting](paste-wo-format-html-editor.md).
 -   [Insert tables and modify cells, rows and columns of a table](tables-knowedge-articles.md).
 -   [Include HTML content](including-html-content.md).
--   [Insert or edit a code snippet](../task/insert-code-html-editor.md).
--   [Insert a basic table of contents at the cursor's current position](../task/insert-toc-html-editor.md).
--   [Find and replace text](../task/find-replace-html-editor.md).
--   [Identify and resolve accessibility related issues in a knowledge article using the Accessibility checker in the toolbar](../task/accessibility-checker.md).
--   [Revert changes that you have made during the current session of content editing](../task/undo-redo-html-editor.md).
+-   [Insert or edit a code snippet](insert-code-html-editor.md).
+-   [Insert a basic table of contents at the cursor's current position](insert-toc-html-editor.md).
+-   [Find and replace text](find-replace-html-editor.md).
+-   [Identify and resolve accessibility related issues in a knowledge article using the Accessibility checker in the toolbar](accessibility-checker.md).
+-   [Revert changes that you have made during the current session of content editing](undo-redo-html-editor.md).
 

@@ -19,7 +19,7 @@ This API requires the Playbook Experience Core plugin \(com.glide.playbook\_expe
 
 This API requires at least one playbook in the Process Definition \[sys\_pd\_process\_definition\] table. To use this API, you must have the roles required to view and cancel a running process in Process Automation Designer. For more information, see [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PlaybookExperience - cancelPlaybook\(String playbookContext, String cancellationReason, String playbookExperienceId, Boolean force\)
 

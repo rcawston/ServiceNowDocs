@@ -26,11 +26,11 @@ With access to the Zero Copy Connector Hub, you can map a data fabric table incl
 
 To create data fabric tables that can retrieve external data using zero copy connections, request the Zero Copy Connectors app \(sn\_data\_fabric\_zcc\). The Zero Copy Connector Hub is automatically installed when the Zero Copy Connectors plugin \(sn\_data\_fabric\_zcc\) is activated on your instance.
 
--   **[Activate Zero Copy Connector Hub](../task/activate-zcc-hub.md)**  
+-   **[Activate Zero Copy Connector Hub](activate-zcc-hub.md)**  
 Access the Zero Copy Connector Hub on your instance by activating the Zero Copy Connector Hub plugin \(sn\_data\_fabric\).
--   **[Request Zero Copy Connectors](../task/request-zcc.md)**  
+-   **[Request Zero Copy Connectors](request-zcc.md)**  
 Create zero copy connections and data fabric tables after requesting the Zero Copy Connectors app through the Now Support Service Catalog. If it isn't already installed, the app installs the Zero Copy Connector Hub.
--   **[Create a connection administrator](../task/create-connection-admin-zcc.md)**  
+-   **[Create a connection administrator](create-connection-admin-zcc.md)**  
 Create a connection admin who can create zero copy connections in Zero Copy Connector Hub.
 -   **[Enabling access to a data source](enabling-access-data-source-zcc.md)**  
 Work with your data source administrator to enable access to your external data source.

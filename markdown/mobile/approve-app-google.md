@@ -28,5 +28,5 @@ Role required: none, however, you must either go to Google Play through the MDM,
     ![App in the Google Play store with the Approve button highlighted](../image/ApproveAndroidApp.png)
 
 
-**Parent Topic:**[Supported mobile device management vendors](../concept/mobile-vendors.md)
+**Parent Topic:**[Supported mobile device management vendors](mobile-vendors.md)
 

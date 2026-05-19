@@ -17,6 +17,6 @@ Configure Smart Assessment questionnaires from new Smart Assessment templates an
 
 The steps to configure Smart Assessment questionnaires from new templates are:
 
-1.  [Author and publish a Smart Assessment template](../task/create-a-smart-assessment-template.md)
-2.  [Create Smart Assessment questionnaires from new templates](../task/create-smart-assessment-questionnaire.md)
+1.  [Author and publish a Smart Assessment template](create-a-smart-assessment-template.md)
+2.  [Create Smart Assessment questionnaires from new templates](create-smart-assessment-questionnaire.md)
 

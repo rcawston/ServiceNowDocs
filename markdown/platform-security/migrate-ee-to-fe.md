@@ -27,8 +27,8 @@ This topic covers, which comprise the following steps:
 -   Field Encryption doesn’t currently support tokenizing data in the same way that Edge Encryption does. Data that is tokenized through Edge Encryption must be included in an encrypted field configuration for Field Encryption.
 -   Field Encryption doesn’t currently support encrypting Service Catalog item variables.
 
--   **[Configure Field Encryption for your Edge Encrypted fields](../task/migrate-ee-to-fe-1.md)**  
+-   **[Configure Field Encryption for your Edge Encrypted fields](migrate-ee-to-fe-1.md)**  
 Before migrating your existing edge encrypted fields to Field Encryption, you must configure field encryption for these fields.
 
-**Parent Topic:**[Configuring Field Encryption](../../encryption/concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

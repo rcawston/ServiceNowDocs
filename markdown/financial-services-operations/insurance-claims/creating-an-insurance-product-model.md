@@ -72,7 +72,7 @@ Search for and select **Commercial lines insurance product model**.
     |Name|Name of the insurance product model.|
     |Product code|Unique identification code for this insurance product.|
     |Product type|Insurance product type that you created earlier in this procedure.|
-    |Specification|Coverage Specification. For more information, see [Coverage specification](../concept/coverage-specification.md).|
+    |Specification|Coverage Specification. For more information, see [Coverage specification](coverage-specification.md).|
     |Short description|Brief description of this product model.|
 
 10. Select **Submit**.

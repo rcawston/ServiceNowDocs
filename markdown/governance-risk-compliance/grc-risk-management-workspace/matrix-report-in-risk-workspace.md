@@ -29,11 +29,11 @@ The benefits of the Matrix report are as follows:
 -   Minimizes time spent switching between different sections of the application by bringing key data together.
 -   Helps risk managers to assess the risk posture of an entity and identify gaps or issues that need attention.
 
--   **[Configure Matrix report registry](../task/configure-matrix-report-registry-risk-ws.md)**  
+-   **[Configure Matrix report registry](configure-matrix-report-registry-risk-ws.md)**  
 Configure the Matrix report registry to select the base table. You can create a relationship of the base with the target table to configure the details of the report for an entity-related record or a landing page.
--   **[Create Matrix report configuration for Risk Workspace](../task/create-matrix-report-configuration-for-risk-workspace.md)**  
+-   **[Create Matrix report configuration for Risk Workspace](create-matrix-report-configuration-for-risk-workspace.md)**  
 Create the Matrix report configuration by naming the report, choosing a display type \(Landing page or Record page\), and setting filter conditions on the base table.
--   **[View matrix report in the landing page and record page of Risk Workspace](../task/view-matrix-report-in-landing-page-and-record-page-of-risk-ws.md)**  
+-   **[View matrix report in the landing page and record page of Risk Workspace](view-matrix-report-in-landing-page-and-record-page-of-risk-ws.md)**  
 Access and analyze the risk posture of your organization using entity-related data, such as risks, controls, KRIs, and events in a centralized, configurable grid-based view. The Matrix report reduces time spent switching views and helps risk managers assess data more easily, leading to more proactive and streamlined risk management.
 
 **Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)

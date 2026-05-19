@@ -27,10 +27,10 @@ Role required: sn\_apm.apm\_user
 
 4.  Select **My Business Capabilities**.
 
-    You can also view the list of capabilities from the Business Portfolio page. For more information, see [Exploring a business portfolio](../../concept/manage-business-portfolio.md).
+    You can also view the list of capabilities from the Business Portfolio page. For more information, see [Exploring a business portfolio](manage-business-portfolio.md).
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](eaw-work-with-your-entities.md)
 
 **Related topics**  
 

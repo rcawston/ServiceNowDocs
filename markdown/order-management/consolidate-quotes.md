@@ -38,5 +38,5 @@ Role required: sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
     The selected quotes are merged into the target quote. A confirmation message appears with a link to the consolidated quote. The target quote displays a **Consolidation History** related list that shows all source quotes that were merged into it.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

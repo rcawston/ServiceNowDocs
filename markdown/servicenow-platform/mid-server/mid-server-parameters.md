@@ -24,7 +24,7 @@ Parameters control the behavior of a particular MID Server and have lower preced
 
 **Important:** Changes to parameters only take effect when the MID Server is started \(or restarted\).
 
-**Note:** The value of any MID Server parameter in the config.xml file can be encrypted. See [Encrypt or decrypt MID Server configuration file values](../task/mid-server-manual-encryption.md) for more information.
+**Note:** The value of any MID Server parameter in the config.xml file can be encrypted. See [Encrypt or decrypt MID Server configuration file values](mid-server-manual-encryption.md) for more information.
 
 ## Required parameters
 
@@ -106,7 +106,7 @@ Parameters control the behavior of a particular MID Server and have lower preced
     -   Default value: yyyy-MM-dd HH:mm:ss
 -   **mid.disable\_amb**
 
-    Disables the Asynchronous Message Bus \(AMB\) notifications for new ECC queue output messages. For more information, see the Asynchronous Message Bus section in[Asynchronous Message Bus](../concept/ecc-queue-mid-server.md#section_b5j_ysv_s1b). When AMB is enabled the MID Server uses a different default polling interval than when AMB is disabled. See the **mid.poll.time** parameter for more details. If you set a polling interval with the **mid.poll.time** parameter, the MID Server uses that value whether or not the AMB client is enabled.
+    Disables the Asynchronous Message Bus \(AMB\) notifications for new ECC queue output messages. For more information, see the Asynchronous Message Bus section in[Asynchronous Message Bus](ecc-queue-mid-server.md#section_b5j_ysv_s1b). When AMB is enabled the MID Server uses a different default polling interval than when AMB is disabled. See the **mid.poll.time** parameter for more details. If you set a polling interval with the **mid.poll.time** parameter, the MID Server uses that value whether or not the AMB client is enabled.
 
     -   Type: true \| false
     -   Default value: false
@@ -138,7 +138,7 @@ Parameters control the behavior of a particular MID Server and have lower preced
 
     Sets the default MID Server polling interval \(in seconds\). The polling interval is the amount of time the MID Server waits before checking the ECC queue for work when the MID Server is not busy. For more information, see the Asynchronous Message Bus section in.
 
-    When **mid.disable.amb** is set to false \(the default setting\), see the Asynchronous Message Bus section in [Asynchronous Message Bus](../concept/ecc-queue-mid-server.md#section_b5j_ysv_s1b) for more information about how **mid.poll.time** is used.
+    When **mid.disable.amb** is set to false \(the default setting\), see the Asynchronous Message Bus section in [Asynchronous Message Bus](ecc-queue-mid-server.md#section_b5j_ysv_s1b) for more information about how **mid.poll.time** is used.
 
     When **mid.disable.amb** is set to true, polling occurs on a fixed **mid.poll.time** interval, but polling switches to using **mid.poll.time.standard** \(5 seconds by default\) when the MID Server is busy.
 
@@ -146,7 +146,7 @@ Parameters control the behavior of a particular MID Server and have lower preced
     -   Default value: 40 when **mid.disable.amb** is false, or 5 when **mid.disable.amb** is true.
 -   **mid.probe.wait.resources**
 
-    Indicates whether probe execution is delayed until resources are available. Used to enable [MID Server Resource Reservation](../concept/mid_server_resource_reservation.md#).
+    Indicates whether probe execution is delayed until resources are available. Used to enable [MID Server Resource Reservation](mid_server_resource_reservation.md#).
 
     **Note:** Requires MID Server restart.
 
@@ -162,19 +162,19 @@ Parameters control the behavior of a particular MID Server and have lower preced
     -   Default value: LongRunner
 -   **threads.interactive.max**
 
-    Sets the maximum number of interactive worker threads that can run simultaneously in the interactive thread pool. See [Set MID Server Thread Use](../task/t_SetMIDServerThreadUse.md).
+    Sets the maximum number of interactive worker threads that can run simultaneously in the interactive thread pool. See [Set MID Server Thread Use](t_SetMIDServerThreadUse.md).
 
     -   Type: integer
     -   Default value: 10
 -   **threads.expedited.max**
 
-    Sets the maximum number of expedited worker threads that can run simultaneously in the expedited thread pool. See [Set MID Server Thread Use](../task/t_SetMIDServerThreadUse.md).
+    Sets the maximum number of expedited worker threads that can run simultaneously in the expedited thread pool. See [Set MID Server Thread Use](t_SetMIDServerThreadUse.md).
 
     -   Type: integer
     -   Default value: 20
 -   **threads.max**
 
-    Sets the maximum number of standard worker threads that can run simultaneously in the standard thread pool. This parameter provides direct control over what CPU resources the MID Server consumes on the computer that hosts it. See [Set MID Server Thread Use](../task/t_SetMIDServerThreadUse.md).
+    Sets the maximum number of standard worker threads that can run simultaneously in the standard thread pool. This parameter provides direct control over what CPU resources the MID Server consumes on the computer that hosts it. See [Set MID Server Thread Use](t_SetMIDServerThreadUse.md).
 
     -   Type: integer
     -   Default value: 25
@@ -879,7 +879,7 @@ By default, the MID Server is configured to search for SSH commands in the follo
     -   Default value: 150
 -   **mid.ssh.disable\_privilege\_check**
 
-    This parameter has no effect if the target is using a privileged command other than sudo. For more information, see [MID Server privileged commands](../concept/c_PrivilegedCommandsForMIDServer.md#).
+    This parameter has no effect if the target is using a privileged command other than sudo. For more information, see [MID Server privileged commands](c_PrivilegedCommandsForMIDServer.md#).
 
     The remainder of this section only applies to targets which run sudo. When this parameter is set to **true**, the MID Server assumes that the user configured in the credential has the privilege to run the given command using sudo. The MID Server assumes the target user can run any command string following sudo on the target. When this parameter is set to **false**, the MID Server runs "sudo -l" on the target to verify the command which follows sudo has permission to run on the target. Regardless of this parameter's value, the MID Server always validates that sudo by itself can be run on the target.
 
@@ -1089,38 +1089,38 @@ By default, the MID Server is configured to search for SSH commands in the follo
     -   Type: string
     -   Default value: ""
 
-**Parent Topic:**[MID Server reference](../concept/mid-server-reference-information.md)
+**Parent Topic:**[MID Server reference](mid-server-reference-information.md)
 
 **Related topics**  
 
 
 [MID Server system requirements](r_MIDServerSystemRequirements.md)
 
-[MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md)
+[MID Server upgrades](c_UpgradeAndTestMIDServer.md)
 
 [Resolving MID Server issues](r_MIDServerTroubleshooting.md)
 
-[MID Server dashboard](../concept/c_MIDServerDashboard.md)
+[MID Server dashboard](c_MIDServerDashboard.md)
 
 [MID Server properties](r_MIDServerProperties.md#)
 
 [MID Server Configuration Parameter settings and priority](mid-config-param-priority.md)
 
-[MID Server File Cleaner](../concept/mid_file_cleaner.md)
+[MID Server File Cleaner](mid_file_cleaner.md)
 
 [MID Server protected records and reserved characters](mid-server-reserved-characters.md)
 
-[MID Server privileged commands](../concept/c_PrivilegedCommandsForMIDServer.md#)
+[MID Server privileged commands](c_PrivilegedCommandsForMIDServer.md#)
 
 [MIDSystem methods](r_MIDSystemMethods.md)
 
-[Manually start, stop, and restart a MID Server](../task/t_InstallMIDServerAsWinService.md)
+[Manually start, stop, and restart a MID Server](t_InstallMIDServerAsWinService.md)
 
 [MID Server heartbeat](r_MIDServerHeartbeat.md)
 
-[Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md)
+[Set the MID Server JVM memory size](t_MIDServerOptionalConfiguration.md)
 
-[Pause the MID Server](../task/t_PauseTheMIDServer.md#)
+[Pause the MID Server](t_PauseTheMIDServer.md#)
 
 ## Add a MID Server parameter
 

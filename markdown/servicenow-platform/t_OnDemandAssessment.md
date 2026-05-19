@@ -23,25 +23,25 @@ Select the assessable records to evaluate, create the categories and questions, 
 
 ## Procedure
 
-1.  Create a [metric type](../concept/c_MetricTypesAndAssessableRecords.md) and set the **Schedule type** to **On demand** to allow for testing of your assessment configuration.
+1.  Create a [metric type](c_MetricTypesAndAssessableRecords.md) and set the **Schedule type** to **On demand** to allow for testing of your assessment configuration.
 
 2.  Generate the assessable records for the metric type you created.
 
-3.  Create the [metric categories](../concept/c_AssessmentMetrics.md) required to evaluate the assessable records selected.
+3.  Create the [metric categories](c_AssessmentMetrics.md) required to evaluate the assessable records selected.
 
-4.  Create one or more assessment questions, or [metrics](../concept/c_AssessmentMetrics.md), for each category.
+4.  Create one or more assessment questions, or [metrics](c_AssessmentMetrics.md), for each category.
 
 5.  [Publish the assessment](t_PublishAMetricType.md).
 
-6.  Perform an [on-demand assessment](../concept/c_OnDemandAssessments.md) to test your categories and metrics.
+6.  Perform an [on-demand assessment](c_OnDemandAssessments.md) to test your categories and metrics.
 
-7.  Analyze the assessment ratings in an [assessment scorecard](t_ViewAnAssessmentScorecard.md) or [decision matrix](../reference/r_AdministerDecisionMatrixes.md).
+7.  Analyze the assessment ratings in an [assessment scorecard](t_ViewAnAssessmentScorecard.md) or [decision matrix](r_AdministerDecisionMatrixes.md).
 
 
-**Parent Topic:**[On-demand assessments](../concept/c_OnDemandAssessments.md)
+**Parent Topic:**[On-demand assessments](c_OnDemandAssessments.md)
 
 **Related topics**  
 
 
-[Assessments](../reference/r_Assessments.md)
+[Assessments](r_Assessments.md)
 

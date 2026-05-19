@@ -23,7 +23,7 @@ You must have role configured with access to approve the templates associated wi
 
 ## About this task
 
-The approval process for change templates is determined by the publish approval flow set by administrators. For more information, see [Change template management flows](../concept/change-template-management-flows.md).
+The approval process for change templates is determined by the publish approval flow set by administrators. For more information, see [Change template management flows](change-template-management-flows.md).
 
 ## Procedure
 

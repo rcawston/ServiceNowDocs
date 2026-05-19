@@ -41,30 +41,30 @@ Role required: sn\_si.analyst
 6.  Update the values of the fields.
 
 
-**Parent Topic:**[Working with Security Incident Records](../concept/using-analyst-workspace.md)
+**Parent Topic:**[Working with Security Incident Records](using-analyst-workspace.md)
 
 **Related topics**  
 
 
-[Security Incident Overview section](../concept/security-incident-overview.md)
+[Security Incident Overview section](security-incident-overview.md)
 
-[Security Incident Details section](../concept/security-incident-details.md)
+[Security Incident Details section](security-incident-details.md)
 
-[SIR Workspace Orchestration](../concept/security-incident-response-workspace-orchestration-activities.md)
+[SIR Workspace Orchestration](security-incident-response-workspace-orchestration-activities.md)
 
-[Security Incident Response Tasks](../concept/security-incident-response-tasks.md)
+[Security Incident Response Tasks](security-incident-response-tasks.md)
 
-[Security Incident Response Other Records](../concept/security-incident-response-other-records.md#)
+[Security Incident Response Other Records](security-incident-response-other-records.md#)
 
-[Security Incident Response Post Incident Review](../concept/security-incident-response-post-incident-review.md)
+[Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](tisc-sir-workspace.md)
 
-[Reports in Security Incident Response](../concept/report-templates-sir.md)
+[Reports in Security Incident Response](report-templates-sir.md)
 
-[Collaborate using conference call or chat in Security Incident Response](../concept/collab-sir-call-chat.md)
+[Collaborate using conference call or chat in Security Incident Response](collab-sir-call-chat.md)
 
-[Viewing incident details with a relationship graph](../concept/sir-relationship-graph.md)
+[Viewing incident details with a relationship graph](sir-relationship-graph.md)
 
-[MITRE attack and defend technique graph](../concept/mitre-attack-defend-graph-sir.md)
+[MITRE attack and defend technique graph](mitre-attack-defend-graph-sir.md)
 

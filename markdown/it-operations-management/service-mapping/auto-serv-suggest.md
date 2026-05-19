@@ -23,7 +23,7 @@ Automated Service Suggestions further simplifies the mapping process by using th
 
 Service Fingerprints complements Automated Service Suggestions by identifying unique, classified components of identified application service candidates. Presenting these components facilitates the selection of the most suitable suggested application service. You can view components of an application in your actual environment, including details such as product, product category, publisher, and description. Use this information to search for specific components you want to discover or to make informed decisions about which candidates to convert into application services.
 
-To use Service Fingerprints, you must download and install ITOM Content Service from the ServiceNow® Store and opt in to ITOM Content Service. For more information, see [ITOM Content Service](../../discovery/concept/discovery-content-services.md).
+To use Service Fingerprints, you must download and install ITOM Content Service from the ServiceNow® Store and opt in to ITOM Content Service. For more information, see [ITOM Content Service](../itom-visibility/discovery-content-services.md).
 
 ## Domain separation with Automated Service Suggestions
 
@@ -34,9 +34,9 @@ Automated Service Suggestions supports domain separation starting with version 1
 
 [Exploring Service Mapping](service-mapping-get-started.md)
 
-[Service Mapping Workspace](../reference/sm-dashboard.md)
+[Service Mapping Workspace](sm-dashboard.md)
 
-[Application service readiness dashboard in configurable workspace](../reference/readiness-dashboard-ml.md)
+[Application service readiness dashboard in configurable workspace](readiness-dashboard-ml.md)
 
-[Map application services based on Automated Service Suggestions](../task/map-application-suggestion.md)
+[Map application services based on Automated Service Suggestions](map-application-suggestion.md)
 

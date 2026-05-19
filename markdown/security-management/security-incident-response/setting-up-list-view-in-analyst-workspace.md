@@ -113,7 +113,7 @@ View the list of all Phishing emails. The list view will be sorted based on the 
 
 </td><td>
 
--   Report Phishing Email. For more information, see [Report Phish Email](../task/report-phish-email.md) on how to report a phishing email.
+-   Report Phishing Email. For more information, see [Report Phish Email](report-phish-email.md) on how to report a phishing email.
 -   Delete phishing emails.
 -   Export the phishing emails list view to Excel, CSV, JSON, and PDF formats.
 
@@ -137,11 +137,11 @@ Security analysts or managers can personalize the security incidents or response
 Apply the predefined quick filters on Security Incidents and Response Tasks lists to get the desired work items.
 -   **[Assign Security Incidents](assign-security-incident.md)**  
 Assign security incidents.
--   **[Close multiple security incidents](../task/close-multiple-incidents-sir.md)**  
+-   **[Close multiple security incidents](close-multiple-incidents-sir.md)**  
 Close multiple security incidents at the same time to avoid having to close related incidents individually, such as incidents created with a common root cause or false positive incidents.
--   **[Assign Response Tasks](../task/assign_response_tasks.md)**  
+-   **[Assign Response Tasks](assign_response_tasks.md)**  
 Assign Response tasks for a security issue.
--   **[Report Phish Email](../task/report-phish-email.md)**  
+-   **[Report Phish Email](report-phish-email.md)**  
 Report phishing emails from the lists view.
 -   **[Working with quick filters](configure-quick-filters.md)**  
 Quick filters are easily accessible filters that are available on, security incidents and response tasks lists.
@@ -150,18 +150,18 @@ Export the security incidents or response tasks from the list view.
 -   **[Manage Shift Handover records](manage-shift-handover-records.md)**  
 Use the Shift Handover records list view to create, edit, copy, or delete Shift Handover records. Each Shift Handover record is associated with a Shift Handover Report Template.
 
-**Parent Topic:**[Exploring SIR Workspace](../reference/exploring-security-incident-response-workspace.md)
+**Parent Topic:**[Exploring SIR Workspace](exploring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[SIR Workspace plugins](../reference/components-installed-with-analyst-workspace.md)
+[SIR Workspace plugins](components-installed-with-analyst-workspace.md)
 
-[SIR Workspace features](../reference/key-features.md)
+[SIR Workspace features](key-features.md)
 
-[SIR Workspace interface overview](../reference/overview.md)
+[SIR Workspace interface overview](overview.md)
 
-[Upcoming section](../task/upcoming-section.md)
+[Upcoming section](upcoming-section.md)
 
 [Quick links section](quick-links.md)
 

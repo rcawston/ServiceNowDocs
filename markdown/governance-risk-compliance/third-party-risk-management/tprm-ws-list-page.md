@@ -23,5 +23,5 @@ To open the List page, select **Workspaces** &gt; **Vendor Management Workspace*
 
 Each of the lists provides links to risk information and to action pages for your day-to-day tasks.
 
-**Parent Topic:**[Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md)
+**Parent Topic:**[Viewing third-party risk reports](unified-vrm-workspace.md)
 

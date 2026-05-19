@@ -15,7 +15,7 @@ Administrators can add fields to event bodies so dispatchers have more informati
 
 ## About this task
 
-Administrators can show up to five fields on the event body in Dispatcher Workspace. Dispatchers can choose what fields show on event bodies in the Dispatcher Settings under the Events tab. For more information on the Events tab, see [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
+Administrators can show up to five fields on the event body in Dispatcher Workspace. Dispatchers can choose what fields show on event bodies in the Dispatcher Settings under the Events tab. For more information on the Events tab, see [Enable Dispatcher Workspace settings](field-service-scheduling/dispatcher-wrkspc-settings.md).
 
 ## Before you begin
 

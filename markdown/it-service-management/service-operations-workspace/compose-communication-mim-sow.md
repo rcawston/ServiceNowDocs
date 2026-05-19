@@ -180,7 +180,7 @@ Message
 Content of the notification message.
 
 </td></tr></tbody>
-</table>    For more information on DEX Desktop Assistant, see [Use DEX Desktop Assistant](../../digital-end-user-experience/concept/use-dex-desktop-exp.md).
+</table>    For more information on DEX Desktop Assistant, see [Use DEX Desktop Assistant](../digital-end-user-experience-dex/use-dex-desktop-exp.md).
 
     |Field|Description|
     |-----|-----------|
@@ -196,5 +196,5 @@ Content of the notification message.
 5.  Select **Send**.
 
 
-**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](../concept/communicating-with-stakeholders-sow.md)
+**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](communicating-with-stakeholders-sow.md)
 

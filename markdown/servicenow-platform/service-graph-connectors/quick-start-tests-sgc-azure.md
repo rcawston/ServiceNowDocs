@@ -44,7 +44,7 @@ By default, the system property that is used to run automated tests is disabled 
 |SG-Azure Subscription|Validate the successful ingestion of records in the Cloud Service Account table.|Utah|
 |SG-Azure VMs|Validate the successful ingestion of multiple records in the Virtual Machines, Virtual Machine Instance and Relations tables with prerequisite parent ingestion.|Utah|
 
-To learn more about Service Graph Connector for Microsoft Azure, see [Service Graph Connector for Microsoft Azure](../../../product/configuration-management/concept/cmdb-integration-azure.md).
+To learn more about Service Graph Connector for Microsoft Azure, see [Service Graph Connector for Microsoft Azure](cmdb-integration-azure.md).
 
 **Related topics**  
 

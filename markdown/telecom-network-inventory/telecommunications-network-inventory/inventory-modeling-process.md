@@ -49,5 +49,5 @@ This process ensures that all models and model relationships are created accordi
 
 [Create inventory models](creating-your-inventory-models.md)
 
-[Define a network model relationship](../task/create-network-model-relationships.md)
+[Define a network model relationship](create-network-model-relationships.md)
 

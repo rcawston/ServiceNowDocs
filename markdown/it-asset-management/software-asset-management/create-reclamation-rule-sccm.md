@@ -189,5 +189,5 @@ On the Reclamation Rule form, select **Save**.
 
 The reclamation rule is added to the Reclamation Rules list and the data of the product gets imported from SCCM during the next monthly scheduled import.
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
 

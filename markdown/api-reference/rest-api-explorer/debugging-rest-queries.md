@@ -21,7 +21,7 @@ REST logging includes processing durations, headers, and the request body. Prolo
 
 **Note:** You may not see the resulting log statements if you are not on the application node that processed your REST request. In this case, please contact Technical Support.
 
-You can include session debug logs in a REST response body by passing the X-WantSessionDebugMessages header in the request. For more information, see [Returning session debug logs in a REST response](rest-session-debug-header.md). To view debug logs, see [Display debugging logs](../../../script/debugging/concept/c_SessionDebug.md#).
+You can include session debug logs in a REST response body by passing the X-WantSessionDebugMessages header in the request. For more information, see [Returning session debug logs in a REST response](rest-session-debug-header.md). To view debug logs, see [Display debugging logs](../scripts/c_SessionDebug.md#).
 
 ## Sample log output
 

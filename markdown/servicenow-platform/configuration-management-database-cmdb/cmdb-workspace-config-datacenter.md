@@ -21,7 +21,7 @@ Role required: sn\_cmdb\_admin
 
 ## About this task
 
-The Datacenter Types \[sn\_cmdb\_ws\_datacenter\_type\] table stores datacenter classes with a classification of being used as a cloud storage or not in the organization. The calculations for the Cloud vs Non-cloud resources chart in the CI overview tile in [CMDB Workspace](../concept/cmdb-workspace.md), reflects on the datacenters in that table and their classifications.
+The Datacenter Types \[sn\_cmdb\_ws\_datacenter\_type\] table stores datacenter classes with a classification of being used as a cloud storage or not in the organization. The calculations for the Cloud vs Non-cloud resources chart in the CI overview tile in [CMDB Workspace](cmdb-workspace.md), reflects on the datacenters in that table and their classifications.
 
 CIs are counted as non-cloud mainly if either of the following conditions is met:
 
@@ -47,5 +47,5 @@ In the base system, the Datacenter Types table contains several common datacente
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring CMDB Workspace](../concept/configuring-cmdb-workspace.md)
+**Parent Topic:**[Configuring CMDB Workspace](configuring-cmdb-workspace.md)
 

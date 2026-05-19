@@ -57,5 +57,5 @@ View the cohort to see how many of the users who performed the first defined act
 
 **Note:** If data shown in the cohort analysis is not final, a note indicates that retroactive data is still being processed. Refresh the screen to see the report with final data.
 
-**Parent Topic:**[Cohort analysis in Usage Insights](../concept/uxa-cohorts.md)
+**Parent Topic:**[Cohort analysis in Usage Insights](uxa-cohorts.md)
 

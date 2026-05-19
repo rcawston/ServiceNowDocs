@@ -124,7 +124,7 @@ The Direct Line key that you copied from Power Virtual Agents in the previous st
 </table>11. Click **Create**.
 
 
-**Parent Topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ms-powerva.md)
+**Parent Topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ms-powerva.md)
 
 **Previous topic:**[Locate and copy the Direct Line secret key in Microsoft Power Virtual Agents](get-dl-secret-key-mspva.md)
 

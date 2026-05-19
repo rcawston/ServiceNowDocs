@@ -70,5 +70,5 @@ You can control semantic generation at different levels of granularity depending
 6.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Query Generation](../concept/configuring-query-generation.md)
+**Parent Topic:**[Configuring Query Generation](configuring-query-generation.md)
 

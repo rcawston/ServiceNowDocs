@@ -50,5 +50,5 @@ Configure the heatmap using the prepackaged heatmap widgets. Map the configured 
 
 The selected heatmap appears on the dashboard.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

@@ -40,9 +40,9 @@ Grant fulfiller, requester, and supplier user roles to access the Common Finance
 
 [Supporting information for Now Assist for Common Finance and Supply Chain features](now-assist-fsc-supporting-info.md)
 
-[Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo.md)
+[Now Assist for Sourcing and Procurement Operations \(SPO\)](../sourcing-and-procurement-operations/now-assist-spo.md)
 
-[Now Assist for Supplier Lifecycle Operations \(SLO\)](../../supplier-lifecycle-operations/concept/now-assist-slo.md)
+[Now Assist for Supplier Lifecycle Operations \(SLO\)](../supplier-lifecycle-operations/now-assist-slo.md)
 
-[Now Assist for Accounts Payable Operations \(APO\)](../../accounts-payable-operations/concept/now-assist-apo.md)
+[Now Assist for Accounts Payable Operations \(APO\)](../accounts-payable-operations/now-assist-apo.md)
 

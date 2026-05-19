@@ -23,7 +23,7 @@ Data in the workflow scratchpad is not encrypted by default. The Workflow engine
 
 The Encrypted Workflow Scratchpad plugin is incompatible with domain separation. Activating the Encrypted Workflow Scratchpad plugin on a domain separated instance can produce encryption errors when running some workflows. Consider using a Workflow Studio flow instead.
 
-**Parent Topic:**[Workflow administration](../../workflow/concept/c_WorkflowAdministration.md)
+**Parent Topic:**[Workflow administration](c_WorkflowAdministration.md)
 
 ## Request encrypted workflow scratchpad activation
 
@@ -117,7 +117,7 @@ Select the date and time to activate the plugin.
 
 ### What to do next
 
-After plugin activation, resume all paused workflows. Refer to [Pause and resume all or multiple workflows](../task/pause-resume-all-multiple-workflows.md).
+After plugin activation, resume all paused workflows. Refer to [Pause and resume all or multiple workflows](pause-resume-all-multiple-workflows.md).
 
 **Related topics**  
 

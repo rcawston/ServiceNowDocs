@@ -21,7 +21,7 @@ An internal event registration app allows your event organizers to publish a lis
 
 Event organizers can manage events and wait-lists, publish new events, and view registered users’ details. Employees and attendees can view a list of events, view event info, and register to attend in a portal. Organizers can set the size of the event, and requesters will automatically be added to a wait-list.
 
-For more information on creating an application using a template, see [Use an application template](../task/use-app-template.md).
+For more information on creating an application using a template, see [Use an application template](use-app-template.md).
 
 **Parent Topic:**[Available templates](template-library.md)
 

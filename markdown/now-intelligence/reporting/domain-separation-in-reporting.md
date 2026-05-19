@@ -42,7 +42,7 @@ In Reporting, separated data includes report designs and report content. A repor
 
 If you create a report in one domain and copy it to another, the report structure remains the same, but the report data is adjusted for the domain. For example, an Active Incident report shows all active incidents to a user in the parent domain, but only IT incidents to a user in the IT domain.
 
--   **[Enable domain separation on reports](../task/t_EnsureDomainSepOnAReport.md)**  
+-   **[Enable domain separation on reports](t_EnsureDomainSepOnAReport.md)**  
 Activate the domain separation plugin to enable reports to display content based on data, rules, and settings from the logged-on user domain.
 
 **Parent Topic:**[Administering reports](c_AdminsteringReports.md)

@@ -74,5 +74,5 @@ Operation of the script:
 4.  Run the job whenever you want to create product model settings for new class instances.
 
 
-**Parent Topic:**['Foundation' stage reports on the CSDM Data Foundations dashboard](../reference/csdm-datafdn-dash-foundation-tab.md)
+**Parent Topic:**['Foundation' stage reports on the CSDM Data Foundations dashboard](csdm-datafdn-dash-foundation-tab.md)
 

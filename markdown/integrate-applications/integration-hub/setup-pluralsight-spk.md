@@ -66,7 +66,7 @@ This task enables you to integrate your ServiceNow instance with the Pluralsight
 
         ![Pluralsight connection.](../image/pluralsight-connection.png)
 
-    -   To manage more than one Pluralsight spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Pluralsight spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Configure button for configuring Pluralsight spoke connection and credentials.](../image/configure-button-pluralsight-conn-cred.png)

@@ -105,5 +105,5 @@ Advanced
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Customize HR Service Delivery integration with Microsoft Teams](../concept/customize-sn-ms-teams-hr.md)
+**Parent Topic:**[Customize HR Service Delivery integration with Microsoft Teams](customize-sn-ms-teams-hr.md)
 

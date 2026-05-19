@@ -40,12 +40,12 @@ Role required: sn\_apm.apm\_user
 
 A list of product capabilities associated with the business application is displayed.
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[Exploring product capabilities](../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
+[Exploring product capabilities](eaw-exploring-product-capabilities.md)
 
 [Create a product capability and associate it with a business application](eaw-create-new-product-capability-and-assoc-with-ba.md)
 

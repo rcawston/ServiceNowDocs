@@ -36,5 +36,5 @@ If the network devices contain an extremely large number of ports and each indiv
 4.  Click the check mark to save the change.
 
 
-**Parent Topic:**[Network switch and router discovery](../reference/r_DataCollDiscoNWRouteAndSwitch.md)
+**Parent Topic:**[Network switch and router discovery](r_DataCollDiscoNWRouteAndSwitch.md)
 

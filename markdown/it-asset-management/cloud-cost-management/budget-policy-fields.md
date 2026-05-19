@@ -217,5 +217,5 @@ Users to notify by email when the following conditions occur:-   Budget is forec
 -   Budget is invalid.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+</table>**Parent Topic:**[Cloud Cost Management reference](reference-cloudinsights.md)
 

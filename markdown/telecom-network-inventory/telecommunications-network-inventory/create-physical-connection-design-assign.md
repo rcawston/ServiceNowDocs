@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you create a physical connection, it creates the corresponding configuration item \(CI\) records in the Physical Connection \[cmdb\_ci\_ni\_physical\_link\] table. To learn more, see [Data model](../concept/uses-for-network-inventory-data.md).
+When you create a physical connection, it creates the corresponding configuration item \(CI\) records in the Physical Connection \[cmdb\_ci\_ni\_physical\_link\] table. To learn more, see [Data model](uses-for-network-inventory-data.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ When you create a physical connection, it creates the corresponding configuratio
 
 6.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](change_request_forms.md).
 
 7.  Select **Save**.
 
@@ -49,10 +49,10 @@ When you create a physical connection, it creates the corresponding configuratio
 
 9.  On the **Task Attributes** tab, fill in the fields.
 
-    To learn more, see [Task attributes in Create physical connection form](../reference/task-attributes-create-physical-connection-form.md).
+    To learn more, see [Task attributes in Create physical connection form](task-attributes-create-physical-connection-form.md).
 
 10. Select **Submit**.
 
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 

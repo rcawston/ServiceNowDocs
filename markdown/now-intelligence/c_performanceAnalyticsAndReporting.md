@@ -18,7 +18,7 @@ Select one of these tiles to learn more about these applications, which help pro
 
 <table id="table_qq2_xlz_rvb" class="nav-card"><tbody><tr><td>
 
-[Platform Analytics experience ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Explore analytics with data visualization tools, dashboards, and KPIs, all accessible by natural language queries.](../../par-for-workspace/concept/par-workspace.md)
+[Platform Analytics experience ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Explore analytics with data visualization tools, dashboards, and KPIs, all accessible by natural language queries.](par-workspace.md)
 
 </td><td>
 
@@ -30,20 +30,20 @@ Select one of these tiles to learn more about these applications, which help pro
 
 </td></tr><tr><td>
 
-[Usage Insights ![](../../../reuse/icons/brand-icons/bus-3-person.svg) Get a dashboard view of how your users work with multiple ServiceNow applications, with full visuals of metrics, interactions, and more.](../../../administer/user-exp-analytics/content-framework/landing-page/user-exp-analytics-landing.md)
+[Usage Insights ![](../../../reuse/icons/brand-icons/bus-3-person.svg) Get a dashboard view of how your users work with multiple ServiceNow applications, with full visuals of metrics, interactions, and more.](usage-insights/user-exp-analytics-landing.md)
 
 </td><td>
 
-[Process Mining ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Analyze your data in automated process flows with this application and find ways to improve your enterprise’s workflow efficiency.](../../../administer/process-mining/concept/process-mining.md)
+[Process Mining ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Analyze your data in automated process flows with this application and find ways to improve your enterprise’s workflow efficiency.](process-mining/process-mining.md)
 
 </td><td>
 
-[Task Mining![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Identify task inefficiencies in work tasks by collecting and processing workstation data to provide insights into activities and interactions.](../../../administer/task-mining/concept/task-mining.md)
+[Task Mining![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Identify task inefficiencies in work tasks by collecting and processing workstation data to provide insights into activities and interactions.](task-mining/task-mining.md)
 
 </td></tr></tbody>
 </table>## Platform Analytics experience
 
-Explore the many options for showing data in [data visualizations](analytics-center-data-visualizations.md). Create, modify, and share [dashboards](../../par-for-workspace/concept/analytics-center-dashboards.md). [Filter the data](../../par-for-workspace/concept/interactive-filters-workspace.md) that is shown on a dashboard. Receive insights on your dashboards about potentially significant events in the data. Explore indicators of process behavior with [KPI Details](../../par-for-workspace/concept/kpi-details.md), and be alerted to significant changes in these indicators through [KPI Signals](../../par-for-workspace/concept/process-behavior-charts-for-kpis.md).
+Explore the many options for showing data in [data visualizations](analytics-center-data-visualizations.md). Create, modify, and share [dashboards](analytics-center-dashboards.md). [Filter the data](interactive-filters-workspace.md) that is shown on a dashboard. Receive insights on your dashboards about potentially significant events in the data. Explore indicators of process behavior with [KPI Details](kpi-details.md), and be alerted to significant changes in these indicators through [KPI Signals](process-behavior-charts-for-kpis.md).
 
 ![Platform Analytics dashboard showing Incidents by category in a data visualization with a filter being selected.](../../par-for-workspace/image/db-with-filters-for-lp.png)
 
@@ -67,7 +67,7 @@ Learn about dashboard-based analytics on the usage of several ServiceNow applica
 
 ## Process Mining
 
-Discover ways to streamline your business, find bottlenecks and deviations in workflows, filter and compare processes, and more. A comprehensive listing of [Process Mining key terms](../../../administer/process-mining/reference/key-terms.md) provides all the notable terminology and their definitions, to assist you in getting the most effective performance from your enterprise.
+Discover ways to streamline your business, find bottlenecks and deviations in workflows, filter and compare processes, and more. A comprehensive listing of [Process Mining key terms](process-mining/key-terms.md) provides all the notable terminology and their definitions, to assist you in getting the most effective performance from your enterprise.
 
 ![Process mining workbench](../../../administer/process-mining/image/analyst-wb.png)
 
@@ -85,18 +85,18 @@ Give administrators and other stakeholders the ability to work with real-time da
 
 ## Applications and features
 
--   [Platform Analytics Migration Center](../../par-for-workspace/concept/data-migration.md)
--   [Dashboards in Platform Analytics](../../par-for-workspace/concept/analytics-center-dashboards.md)
+-   [Platform Analytics Migration Center](data-migration.md)
+-   [Dashboards in Platform Analytics](analytics-center-dashboards.md)
 -   [Data visualizations in Platform Analytics](analytics-center-data-visualizations.md)
--   [Use AI to explore data with AI Data Explorer](../../par-for-workspace/reference/now-assist-explorer.md)
--   [Create visualizations conversationally in the Now Assist panel](../../par-for-workspace/reference/analytics-assist-landing-page.md)
--   [Performance Analytics indicators](c_Indicators.md)
--   [Indicator breakdowns](c_CreatingBreakdowns.md)
--   [Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md)
--   [Explore your indicators with KPI Details](../../par-for-workspace/concept/kpi-details.md)
--   [Usage Insights](../../../administer/user-exp-analytics/content-framework/landing-page/user-exp-analytics-landing.md)
--   [Process Mining](../../../administer/process-mining/concept/process-mining.md)
--   [Task Mining](../../../administer/task-mining/concept/task-mining.md)
--   [Reporting, dashboards, and Performance Analytics in the Core UI](../../reporting/concept/classic-vis-overview.md)
--   [Identify workflow automation opportunities with Automation Discovery](../../../administer/automation-discovery/concept/automation-discovery.md)
+-   [Use AI to explore data with AI Data Explorer](now-assist-explorer.md)
+-   [Create visualizations conversationally in the Now Assist panel](analytics-assist-landing-page.md)
+-   [Performance Analytics indicators](performance-analytics/c_Indicators.md)
+-   [Indicator breakdowns](performance-analytics/c_CreatingBreakdowns.md)
+-   [Design your Performance Analytics solution with KPI Composer](performance-analytics/designing-pa-solution.md)
+-   [Explore your indicators with KPI Details](kpi-details.md)
+-   [Usage Insights](usage-insights/user-exp-analytics-landing.md)
+-   [Process Mining](process-mining/process-mining.md)
+-   [Task Mining](task-mining/task-mining.md)
+-   [Reporting, dashboards, and Performance Analytics in the Core UI](performance-analytics/classic-vis-overview.md)
+-   [Identify workflow automation opportunities with Automation Discovery](automation-discovery.md)
 

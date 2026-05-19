@@ -67,5 +67,5 @@ Role required: admin
     **Note:** If you choose three max alerts per day, then you may receive up to three Alerts notification per day for that specific metric. The alert count resets daily at 00:00 UTC.
 
 
-**Parent Topic:**[Key alerts – activation and notifications](../concept/io-alerts.md)
+**Parent Topic:**[Key alerts – activation and notifications](io-alerts.md)
 

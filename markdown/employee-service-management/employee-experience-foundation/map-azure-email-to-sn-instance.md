@@ -111,5 +111,5 @@ Select a field length. This field is visible only for certain field types.
         **Note:** Ensure that the email address for all the users for the newly created field is updated with the email associated with Microsoft Teams app.
 
 
-**Parent Topic:**[Configure Notify connector for Microsoft Teams](../concept/config-notify-ms-teams.md)
+**Parent Topic:**[Configure Notify connector for Microsoft Teams](config-notify-ms-teams.md)
 

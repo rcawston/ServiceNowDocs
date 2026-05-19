@@ -19,7 +19,7 @@ Assign ownership of a portal page to give a user or group with the content manag
 
 Role required: sn\_cd.content\_admin
 
-Ensure **Yes** is checked under **Allow Ownership for Portal Pages** under Content Publishing or Content Experiences properties. For more information, see [Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md) and [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+Ensure **Yes** is checked under **Allow Ownership for Portal Pages** under Content Publishing or Content Experiences properties. For more information, see [Properties installed with Content Experiences](properties-installed-with-content-auto.md) and [Properties installed with Content Publishing](properties-with-content-delivery.md).
 
 ## Procedure
 

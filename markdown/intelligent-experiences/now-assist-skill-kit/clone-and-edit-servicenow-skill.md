@@ -70,7 +70,7 @@ Default provider \(required\)
 
 </td><td>
 
-The LLM provider for the cloned skill. Available providers include Now LLM Service and external LLM options including prebuilt spokes for Microsoft Azure OpenAI Generative AI Spoke, OpenAI Generative AI Spoke, Aleph Alpha, WatsonX, and Google Gemini, or a custom LLM. For more information on setting up a custom LLM, see [Configure a generic large language model \(LLM\) connector](../../generative-ai-controller/task/configure-a-generic-llm-connector.md). **Note:** Spokes consume assists, not Integration Hub transactions.
+The LLM provider for the cloned skill. Available providers include Now LLM Service and external LLM options including prebuilt spokes for Microsoft Azure OpenAI Generative AI Spoke, OpenAI Generative AI Spoke, Aleph Alpha, WatsonX, and Google Gemini, or a custom LLM. For more information on setting up a custom LLM, see [Configure a generic large language model \(LLM\) connector](../generative-ai-controller/configure-a-generic-llm-connector.md). **Note:** Spokes consume assists, not Integration Hub transactions.
 
 </td></tr><tr><td>
 

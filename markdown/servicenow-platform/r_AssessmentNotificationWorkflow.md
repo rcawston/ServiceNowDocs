@@ -25,10 +25,10 @@ The system sends assessment notifications according to the Notify assessment use
     ![Notify assessment user workflow](../image/NotifyAssessmentUserWorkflow.png "Notify Assessment User Workflow")
 
 
-**Parent Topic:**[Enable manager notifications](../task/t_EnablingManagerNotifications.md)
+**Parent Topic:**[Enable manager notifications](t_EnablingManagerNotifications.md)
 
 **Related topics**  
 
 
-[Assessment notifications](../../assessments/reference/r_AssessmentNotifications.md)
+[Assessment notifications](r_AssessmentNotifications.md)
 

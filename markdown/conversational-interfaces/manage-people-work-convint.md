@@ -15,19 +15,19 @@ Use these applications to help streamline communications and manage work assignm
 
 <table id="table_oyp_mhr_r5b" class="nav-card"><tbody><tr><td>
 
-[Advanced Work Assignment ![](../../../reuse/icons/brand-icons/bus-work-order.svg) Handle team assignments, route workflow, and provide user assistance.](../../advanced-work-assignment/concept/awa-overview.md)
+[Advanced Work Assignment ![](../../../reuse/icons/brand-icons/bus-work-order.svg) Handle team assignments, route workflow, and provide user assistance.](advanced-work-assignment/awa-overview.md)
 
 </td><td>
 
-[Omnichannel Callback ![](../../../reuse/icons/brand-icons/bus-mobile-native.svg) Connect users and agents with callback service options.](../../omnichannel-callback/concept/omnichannel-callback.md)
+[Omnichannel Callback ![](../../../reuse/icons/brand-icons/bus-mobile-native.svg) Connect users and agents with callback service options.](omnichannel-callback/omnichannel-callback.md)
 
 </td><td>
 
-[Zoom extension for Omnichannel Callback![](../../../reuse/icons/brand-icons/bus-2-person.svg) Enables other ServiceNow® applications to display a Zoom callback option.](../../zoom-channel-omni-callback/Concept/zoom-extension-omni-callback.md)
+[Zoom extension for Omnichannel Callback![](../../../reuse/icons/brand-icons/bus-2-person.svg) Enables other ServiceNow® applications to display a Zoom callback option.](callback-over-zoom/zoom-extension-omni-callback.md)
 
 </td></tr><tr><td>
 
-[Proactive Triggers![](../../../reuse/icons/brand-icons/bus-forward.svg) Provides helpful platform actions, using real-time data.](../../proactive-triggers/reference/proactive-triggers-landing-page.md)
+[Proactive Triggers![](../../../reuse/icons/brand-icons/bus-forward.svg) Provides helpful platform actions, using real-time data.](product-support-for-technology/proactive-triggers-landing-page.md)
 
 </td><td>
 

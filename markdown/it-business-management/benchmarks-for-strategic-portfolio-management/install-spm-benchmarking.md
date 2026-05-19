@@ -29,7 +29,7 @@ The following items are installed with SPM Benchmarks:
 -   Roles
 -   Scheduled jobs
 
-For more information, see [Components installed with SPM Benchmarking](../reference/components-installed-with-spm-benchmarking.md).
+For more information, see [Components installed with SPM Benchmarking](components-installed-with-spm-benchmarking.md).
 
 ## Procedure
 

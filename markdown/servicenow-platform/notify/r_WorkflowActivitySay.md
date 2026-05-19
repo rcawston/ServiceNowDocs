@@ -26,5 +26,5 @@ Input variables determine the initial behavior of the activity.
 |Advanced|Select this check box to use a script to define the language and message, instead of using the **Text to say** and **Language** values.|
 |Script|Define a script to set what text is read on the call. The script must return a string that defines the language and the text to read. For example, to play an English-language message, return \{language: 'en-US', text: 'Text to read'\}.|
 
-**Parent Topic:**[Notify workflow activities](../concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 

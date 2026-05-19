@@ -17,7 +17,7 @@ Playbooks is a component in Workflow Studio. Workflow Studio gives you a streaml
 
 ## Workflow Studio landing page
 
-You can view the Workflow Studio landing page by navigating to **Process Automation** &gt; **Workflow Studio**. The landing page opens to Playbooks by default, but you can easily navigate to flows, subflows, actions, and decision tables. For more information on Workflow Studio, see [Workflow Studio](../../workflow-studio/reference/workflow-studio.md).
+You can view the Workflow Studio landing page by navigating to **Process Automation** &gt; **Workflow Studio**. The landing page opens to Playbooks by default, but you can easily navigate to flows, subflows, actions, and decision tables. For more information on Workflow Studio, see [Workflow Studio](workflow-studio.md).
 
 ## Playbooks builder
 
@@ -32,7 +32,7 @@ The builder for Playbooks consists of the main header, design space, and side pa
     -   Undo or redo your actions.
     -   See and navigate to your errors via the error tray.
     -   Turn [Optional activities](optional-activities.md#) on or off.
-    -   Test and activate your playbook so that it runs as expected when triggered. You can also preview the Playbook Experience during testing. For more information, see [Playbook statuses and activation states](../reference/process-status-activation-state.md).
+    -   Test and activate your playbook so that it runs as expected when triggered. You can also preview the Playbook Experience during testing. For more information, see [Playbook statuses and activation states](process-status-activation-state.md).
     -   In the **More actions** menu, you can also deactivate or duplicate your playbook.
     -   Also in the **More actions** menu, access the properties of your playbook. You can add or edit the name or description for your playbook, enable playbooks to restart, and edit the behavior of your trigger.
 -   **Design space**
@@ -82,7 +82,7 @@ Playbooks in Workflow Studio consists of these components:
 
 -   **Activity definitions**
 
-    An activity definition maps [subflow](../../workflow-studio/reference/exploring-subflows.md) and [action](../../workflow-studio/concept/exploring-actions.md) inputs and outputs to an activity instance. An activity definition contains:
+    An activity definition maps [subflow](exploring-subflows.md) and [action](exploring-actions.md) inputs and outputs to an activity instance. An activity definition contains:
 
     -   The automation plan to map the triggering input record data to action or subflow inputs
     -   The activity experience to map action or subflow outputs to a user-facing view of the playbook

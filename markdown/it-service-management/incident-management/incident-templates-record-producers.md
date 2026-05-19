@@ -25,13 +25,13 @@ ESS users typically log incidents using a record producer in the service catalog
 
 For example, an incident record producer can be created to request account access to a network server. The user who submits the incident enters variable values, such as the server name, level of access needed, and due date. The incident template assigned to the record producer populates the incident **Category**, **Subcategory**, and **Assignment Group**. These fields and values applied from the template do not appear in the record producer form.
 
--   **[Create incident template](../task/t_CreateAnIncidentTemplate.md)**  
+-   **[Create incident template](t_CreateAnIncidentTemplate.md)**  
 Create an incident template to ensure consistency in the way information about the incident request is captured. A template also helps you to create incident easily and accurately.
--   **[Create a module that uses incident template](../task/t_UseATemplateFromAModule.md)**  
+-   **[Create a module that uses incident template](t_UseATemplateFromAModule.md)**  
 Create a module to log an incident with pre-filled field values from an existing template.
--   **[Create a record producer to log incidents](../task/t_CreateARecordProducer.md)**  
+-   **[Create a record producer to log incidents](t_CreateARecordProducer.md)**  
 Create record producers to log incidents directly from Service Catalog.
--   **[Create a record producer using a template](../task/t_CreateRecProducWithTempl.md)**  
+-   **[Create a record producer using a template](t_CreateRecProducWithTempl.md)**  
 If a predefined incident template exists, it can be used with the record producer to fill in standard information for the incident.
 
 **Parent Topic:**[Configuring Incident Management](incident-configuration.md)

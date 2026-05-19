@@ -17,7 +17,7 @@ Customize the fields you want to include in the job requisition request form, ac
 
 For more information on how to customize the fields, see [Create or edit a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefineACatalogItem.md).
 
-You can use the job requisition request form as it is provided out of the base system too. For a description of the field values, see [Job requisition form](../reference/new-job-form.md).
+You can use the job requisition request form as it is provided out of the base system too. For a description of the field values, see [Job requisition form](../recruitment-workspace/new-job-form.md).
 
 **Parent Topic:**[Configuring Hiring](configuring-hiring-tab.md)
 

@@ -19,11 +19,11 @@ You typically use paginated return results to provide infinite scroll capabiliti
 
 The NowTableService class provides two methods for creating a Paginator object that contains the return results from a REST endpoint call:
 
--   [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/NowTableService/concept/NowTableServiceiOSAPI.md#)
+-   [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](../cllent-mobile-api-reference/NowTableServiceiOSAPI.md#)
 
     This method creates a Paginator object that contains the specified records from the specified table. If you do not include the FetchConfiguration object, it contains all records and their associated fields in the return results. This method returns raw data.
 
--   [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/NowTableService/concept/NowTableServiceiOSAPI.md#)
+-   [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](../cllent-mobile-api-reference/NowTableServiceiOSAPI.md#)
 
     This method creates a Paginator object that contains the specified records from the specified table. If you do not include the FetchConfiguration object, it contains all records and their associated fields in the return results. This method returns Codable models and enables you to define a custom `Coder` for Codable models that require custom decoding. You can supply a custom `JSONDecoder` by supplying a `NowData.Coder.custom` enumeration value that contains the custom `JSONDecoder` and `JSONEncoder`.
 

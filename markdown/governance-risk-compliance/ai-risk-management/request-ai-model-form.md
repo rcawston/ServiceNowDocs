@@ -205,5 +205,5 @@ Required infrastructure
 Description of the Hardware and software resources needed to deploy and run the AI model. For example, you can mention that one graphics processing unit \(GPU\) of type A100 is required.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request an AI model](../task/request-ai-model.md)
+</table>**Parent Topic:**[Request an AI model](request-ai-model.md)
 

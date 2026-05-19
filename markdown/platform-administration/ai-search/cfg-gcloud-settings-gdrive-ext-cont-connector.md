@@ -116,5 +116,5 @@ Your connector admin needs these items to configure a Google Drive external cont
 
 For details on creating and configuring a Google Drive external content connector, see [Create a Google Drive external content connector](create-ext-cont-connector-gdrive.md).
 
-**Parent Topic:**[Google Drive external content connector](../concept/google-drive-external-content-connector.md)
+**Parent Topic:**[Google Drive external content connector](google-drive-external-content-connector.md)
 

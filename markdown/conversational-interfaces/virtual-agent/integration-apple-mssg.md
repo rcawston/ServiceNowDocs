@@ -25,7 +25,7 @@ Select a tile to get started.
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure your Apple Messages for Business implementation.](../task/messg-apple-configure.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure your Apple Messages for Business implementation.](messg-apple-configure.md)
 
 </td><td>
 

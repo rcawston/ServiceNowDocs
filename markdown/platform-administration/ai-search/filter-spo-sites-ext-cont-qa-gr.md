@@ -41,7 +41,7 @@ To learn more about KQL property restriction queries and the operators they supp
 2.  Search the list for the **sn\_ais\_assist.sharepoint\_search.query\_filter** system property record.
 
     -   If the system property record appears in the list, open it in form view by selecting it.
-    -   If the system property record does not appear in the list, add it, setting its **Type** to `string`. To learn how to add a new system property, see [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#).
+    -   If the system property record does not appear in the list, add it, setting its **Type** to `string`. To learn how to add a new system property, see [Add a system property](../r_AvailableSystemProperties.md#).
 3.  In the system property record's **Value** field, enter a valid KQL property restriction query expression.
 
     As an example, suppose your Microsoft SharePoint Online source system is `https://example.sharepoint.com`.
@@ -57,5 +57,5 @@ To learn more about KQL property restriction queries and the operators they supp
 
 When searching for documents in your Microsoft SharePoint Online source system, External Content Q&amp;A Genius Results apply your property restriction KQL query as a filter. Only documents in sites that satisfy your query are eligible for retrieval and answer generation.
 
-**Parent Topic:**[External Content Q&amp;A Genius Results](../concept/external-content-qna.md)
+**Parent Topic:**[External Content Q&amp;A Genius Results](external-content-qna.md)
 

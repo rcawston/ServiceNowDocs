@@ -80,5 +80,5 @@ To receive notifications when AI agents complete metadata extraction, verify tha
 -   The extracted and reviewed metadata is added to the mapped fields in the software contract.
 -   The contract reminder date is saved, and the configured recipient receives a notification on the specified date to remind them of upcoming contract renewal or termination actions.
 
-**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](../concept/manage-contract-repository-workflow.md)
+**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](manage-contract-repository-workflow.md)
 

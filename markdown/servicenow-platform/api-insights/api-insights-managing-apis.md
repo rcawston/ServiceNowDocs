@@ -21,19 +21,19 @@ Within the API Insights workspace, you can:
 
     Manage and monitor all APIs within your organization by reviewing their life cycle stages, identifying missing critical attributes, and accessing helpful resources to ensure proper API maintenance and governance.
 
--   [Search for an API](../task/api-insights-search.md).
+-   [Search for an API](api-insights-search.md).
 
     Search for an API or an API component available within your organization in the API Insights workspace.
 
--   [Compare APIs](../task/api-insights-compare.md).
+-   [Compare APIs](api-insights-compare.md).
 
     Compare APIs available within your organization in the API Insights workspace.
 
--   [Connect to an API creation tool from API Insights](../task/api-insights-create.md).
+-   [Connect to an API creation tool from API Insights](api-insights-create.md).
 
     Initiate API creation directly from the API Insights workspace by connecting to an external API design tool of your choice.
 
--   [Request access](../task/api-insights-req-access.md).
+-   [Request access](api-insights-req-access.md).
 
     Request access to an API available within your organization in the API Insights workspace.
 
@@ -41,7 +41,7 @@ Within the API Insights workspace, you can:
 
     Identify and remediate missing API data in the API Insights workspace by linking missing elements and verifying complete API records.
 
--   [Manage your team's API data](../task/api-insights-team-api.md).
+-   [Manage your team's API data](api-insights-team-api.md).
 
     Improve the operational efficiency of the API ecosystem within your organization by creating a relationship for APIs that lack key attributes such as business context, ownership groups, product models, or designs.
 
@@ -53,7 +53,7 @@ Within the API Insights workspace, you can:
 
     Associate APIs with relevant configuration items \(CIs\) to ensure accurate mappings between APIs and the configuration items they support.
 
--   [Automate creating tag-based relationships](../../../Chunk770148849.md#).
+-   [Automate creating tag-based relationships](../servicenow-platform/Chunk770148849.md#).
 
     Configure and automate creating CMDB relationships between APIs and application services or business applications based on API tags.
 

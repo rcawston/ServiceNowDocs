@@ -39,5 +39,5 @@ When working with database views:
 **Related topics**  
 
 
-[Add a table to the semantic data layer](../../par-for-workspace/task/add-table-semantic-layer.md#)
+[Add a table to the semantic data layer](add-table-semantic-layer.md#)
 

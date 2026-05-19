@@ -74,20 +74,20 @@ For a Playbook to be invoked manually, navigate to the Form UI action drop down 
     ![Playbook card status](../image/playbook-card-status-filters.png "Playbook card status")
 
 
-**Parent Topic:**[Using SIR Workspace](../reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](using-sir-workspace.md)
 
 **Related topics**  
 
 
 [Working with Security Incident Records](using-analyst-workspace.md)
 
-[Prerequisites for the Playbooks](../../playbook-migration-guide/concept/getting-started-with-processes.md)
+[Prerequisites for the Playbooks](getting-started-with-processes.md)
 
-[Rebuilding existing playbooks in Workflow Studio](../../playbook-migration-guide/concept/rebuilding-existing-playbooks-on-pad.md)
+[Rebuilding existing playbooks in Workflow Studio](rebuilding-existing-playbooks-on-pad.md)
 
-[Activity Definitions](../../playbook-migration-guide/concept/build-activities.md)
+[Activity Definitions](build-activities.md)
 
-[Sample Playbooks for SIR Workspace](../../playbook-migration-guide/concept/sir-workspace-playbooks.md)
+[Sample Playbooks for SIR Workspace](sir-workspace-playbooks.md)
 
 [Working with MSI Records](working-with-msi-records.md)
 
@@ -95,7 +95,7 @@ For a Playbook to be invoked manually, navigate to the Form UI action drop down 
 
 [Security Incident Closure workflow](security-incident-closure-workflow_0.md)
 
-[Handle security incidents using Advanced Work Assignment](../task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](handle-incidents-using-awa.md)
 
 ## Add Playbook
 

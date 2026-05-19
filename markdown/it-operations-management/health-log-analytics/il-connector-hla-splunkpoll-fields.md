@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Splunk Poller integration configuration forms for Health Log Analytics.
 
-For the Splunk Poller integration setup procedure, see [Set up a Splunk Poller integration for Health Log Analytics](../task/il-connector-hla-splunk-polling.md).
+For the Splunk Poller integration setup procedure, see [Set up a Splunk Poller integration for Health Log Analytics](il-connector-hla-splunk-polling.md).
 
 <table id="table_fhy_yq1_m2c"><thead><tr><th>
 

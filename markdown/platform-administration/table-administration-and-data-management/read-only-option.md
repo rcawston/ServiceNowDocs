@@ -54,9 +54,9 @@ You can test read-only behavior on a non-production instance by updating the sys
 
 For example, to verify that tighter security controls still work with your client scripts and other customizations, you can set the **glide.read\_only.legacy\_read\_only\_behavior** property to **strict\_read\_only** in a non-production instance, and then test the behavior. After you verify the behavior in a non-production instance, you can update individual fields on your production instance to use the Strict Read Only option on a field-by-field basis.
 
--   **[Test read-only options](../task/test-read-only-options.md)**  
+-   **[Test read-only options](test-read-only-options.md)**  
 Test read-only behavior on a non-production instance before updating **Read only option** field values on your production instance.
--   **[Make a field read only](../task/make-field-read-only.md)**  
+-   **[Make a field read only](make-field-read-only.md)**  
 Control whether a field is read only and whether it can be changed by a client script and server-side APIs.
 
 **Parent Topic:**[Managing tables and indexes](using-table-administration.md)

@@ -47,7 +47,7 @@ Create a [forum permission](create-forum-permission.md).
 
 [Create a permission exception](manage-permission-exceptions.md)
 
-[Community content types](../concept/c_communities-content-types.md)
+[Community content types](c_communities-content-types.md)
 
-[Community access types](../concept/access-types.md)
+[Community access types](access-types.md)
 

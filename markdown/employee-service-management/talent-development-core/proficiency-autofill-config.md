@@ -35,7 +35,7 @@ Role required: sn\_skills\_int.admin
 
 4.  On the Proficiency autofill form, fill in the fields.
 
-    For a description of the field values, see [Proficiency level autofill configuration form](../reference/proficiency-autofill-form.md).
+    For a description of the field values, see [Proficiency level autofill configuration form](proficiency-autofill-form.md).
 
 5.  Select **Submit**.
 

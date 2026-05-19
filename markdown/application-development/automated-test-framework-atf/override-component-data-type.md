@@ -53,5 +53,5 @@ Settable components have a data type that determines what values a Custom UI tes
 <input id="someTextField" value="someSysId" sn-atf-data-type="reference" sn-atf-data-type-params='{"reference":"incident","reference_qual":"active=true"}'/>
 ```
 
-**Parent Topic:**[Custom UI test steps](../concept/custom-ui-test-steps.md)
+**Parent Topic:**[Custom UI test steps](custom-ui-test-steps.md)
 

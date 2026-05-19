@@ -23,7 +23,7 @@ You can install the NLU Workbench - Advanced Features application \(com.snc.nlu.
     -   **Required ServiceNow plugins**
         -   **Predictive Intelligence \(com.glide.platform\_ml\)**
 
-            Enables various Predictive Intelligence and Machine Learning capabilities for training models. See [Predictive Intelligence](../../predictive-intelligence/concept/predictive-intelligence-landing.md).
+            Enables various Predictive Intelligence and Machine Learning capabilities for training models. See [Predictive Intelligence](../predictive-intelligence/predictive-intelligence-landing.md).
 
         -   **NLU Workbench - Core \(com.glide.nlu\)**
 
@@ -40,7 +40,7 @@ Role required: admin
 
 Tables are installed with NLU Workbench - Advanced Features.
 
-For more information, see [Components installed with NLU Workbench - Advanced Features](../reference/installed-with-nlu-wrkbnch-adv-features.md).
+For more information, see [Components installed with NLU Workbench - Advanced Features](installed-with-nlu-wrkbnch-adv-features.md).
 
 ## Procedure
 

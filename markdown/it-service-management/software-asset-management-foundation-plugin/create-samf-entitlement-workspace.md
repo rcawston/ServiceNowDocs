@@ -38,5 +38,5 @@ When you start creating the entitlement, it is in the build status. After you pu
     For a detailed description of the fields, see [Create a SAM Foundation entitlement](t_AddASoftwareEntitlementSAMF.md).
 
 
-**Parent Topic:**[Configuring Software Asset Management Foundation plugin workspace](../concept/configuring-samf-plugin-workspace.md)
+**Parent Topic:**[Configuring Software Asset Management Foundation plugin workspace](configuring-samf-plugin-workspace.md)
 

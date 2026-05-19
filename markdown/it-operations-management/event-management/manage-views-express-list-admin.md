@@ -17,7 +17,7 @@ Configure an Express List view for users to make sure that they focus on specifi
 
 ## Before you begin
 
-For more information about predefined Express List views, see [Configuring Express List views for users and user groups](../../service-operations-workspace-itom/concept/manage-views-express-list.md).
+For more information about predefined Express List views, see [Configuring Express List views for users and user groups](manage-views-express-list.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -231,5 +231,5 @@ Procedure
 11. When you're satisfied with the Express List view, select **Update**.
 
 
-**Parent Topic:**[Configuring Express List views for users and user groups](../../service-operations-workspace-itom/concept/manage-views-express-list.md)
+**Parent Topic:**[Configuring Express List views for users and user groups](manage-views-express-list.md)
 

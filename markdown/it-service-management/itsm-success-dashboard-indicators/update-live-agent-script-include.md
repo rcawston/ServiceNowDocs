@@ -60,5 +60,5 @@ The SSADeflectionHelper script overrides the check interaction function and help
     ![Live agent script include](../image/liveagent-script-include.png)
 
 
-**Parent Topic:**[ITSM Success Dashboard Admin console](../concept/admin-console-sd.md)
+**Parent Topic:**[ITSM Success Dashboard Admin console](admin-console-sd.md)
 

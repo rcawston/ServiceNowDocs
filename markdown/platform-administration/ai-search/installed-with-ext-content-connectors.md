@@ -75,5 +75,5 @@ Deletes stored OAuth 2.0 credentials for external content connectors that have b
 4.  Select **Update**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[External Content Connectors reference](../concept/reference-ext-cont-connectors.md)
+</table>**Parent Topic:**[External Content Connectors reference](reference-ext-cont-connectors.md)
 

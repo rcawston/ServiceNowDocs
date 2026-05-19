@@ -53,7 +53,7 @@ Role required: admin
 
 The Manage contract repository agentic workflow is activated for Now Assist in Contract Management.
 
-**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](cmpro-conf-agentic-workflow.md)
 
 **Related topics**  
 

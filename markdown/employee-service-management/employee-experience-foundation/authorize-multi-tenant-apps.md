@@ -42,5 +42,5 @@ To connect your ServiceNow instance to your M365 tenant and to Authorize apps, t
     ![Notify connector app is installed.](../image/notify-app-installed-02.png)
 
 
-**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](../concept/setup-notify-ms-teams-multi-tenant.md)
+**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](setup-notify-ms-teams-multi-tenant.md)
 

@@ -41,7 +41,7 @@ Set up HR Service Delivery Playbook so that your agents can easily manage, track
     -   Each activity shows an HR task, case, request, and others. The activities look at the HR Playbook Card Configuration table to match the lowest order record.
     -   The HR Playbook Card Configuration can have filters to determine what values to render.
     -   Use HR Playbook Card Configuration to configure cards.
-    -   For more information, see [Configure HR Service Delivery playbook card](../task/playbook-hr-card-configuration.md).
+    -   For more information, see [Configure HR Service Delivery playbook card](playbook-hr-card-configuration.md).
 
 As an HR administrator, use this to configure how each playbook looks in HR Service Delivery Playbook for different types of records \(HR case, task, and others\). Different record types have different relevant information to show.
 

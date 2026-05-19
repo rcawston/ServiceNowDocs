@@ -48,7 +48,7 @@ There are two types of improvement opportunities that could be set up:
 
     For more information on rule-based improvement opportunity, see [Set rule-based improvement opportunity](rule-based-builder.md).
 
-    For more information on automated improvement opportunity, see [Setting Automated improvement opportunities](../concept/automated-findings.md).
+    For more information on automated improvement opportunity, see [Setting Automated improvement opportunities](automated-findings.md).
 
 6.  To edit an improvement opportunity, select the improvement opportunity and edit the details.
 

@@ -37,10 +37,10 @@ This workbench dashboard enables you to view and assess all open changes separat
 This workbench dashboard enables you to view and assess all open changes separated into age brackets: less than one day, from 1-5 days, from 6-30 days, from 31-90 days, and over 90 days.
 -   **[Legacy: Change Velocity dashboard](change-velocity-dashboard.md)**  
 Use this dashboard to track the average duration of change requests in the last 30 days.
--   **[Change Management troubleshooting properties](../../../product/change-management/reference/debug-properties.md)**  
+-   **[Change Management troubleshooting properties](debug-properties.md)**  
 Use the Change Management troubleshooting properties and change the value of the properties to get additional logging details for the feature.
 
-**Parent Topic:**[Using Change Management](../../../product/change-management/concept/using-change-management.md)
+**Parent Topic:**[Using Change Management](using-change-management.md)
 
 **Related topics**  
 

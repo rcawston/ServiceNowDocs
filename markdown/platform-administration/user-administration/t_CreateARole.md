@@ -23,7 +23,7 @@ Role required: admin
 
 After access has been granted to a role, all groups or users assigned to the role are granted the access. Roles can contain other roles, and any access granted to a role is granted to any role that contains it.
 
-For a complete list of the roles included with the base instance, see [Base system roles](../reference/r_BaseSystemRoles.md)
+For a complete list of the roles included with the base instance, see [Base system roles](r_BaseSystemRoles.md)
 
 **Note:**
 
@@ -61,7 +61,7 @@ Requires Subscription
 
 Indicates whether users with this role require a subscription to stay in compliance. -   **Yes**
 
-Measured-role that requires a subscription. You can allocate subscriptions to users with this role by adding one or more groups to a product subscription. To learn more, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md).
+Measured-role that requires a subscription. You can allocate subscriptions to users with this role by adding one or more groups to a product subscription. To learn more, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md).
 
 -   **No**
 
@@ -101,12 +101,12 @@ Select the roles to delegate to the group member.
 Roles control access to features and capabilities in applications and modules. You add a role to an application or module to enable the role to grant access to the application or module for all users with the role.
 -   **[Assign a role to a group](t_AssignRoleToGroup.md)**  
 You can assign a role to a group to grant access to applications and modules to group members.
--   **[Assign a role to a user](../../users-and-groups/task/t_AssignARoleToAUser.md)**  
+-   **[Assign a role to a user](t_AssignARoleToAUser.md)**  
 A user inherits roles from all groups to which they belong. You can also assign roles directly to a user. Whenever a user is assigned a new role, it only takes effect after logging in with a new session.
 -   **[Add a role to an existing role](t_AddARoleToAnExistingRole.md)**  
 When you add a new role to an existing role for a user, the user inherits the access that is granted by the new role.
 -   **[Create a group role](t_CreateAGroupRole.md)**  
 Create a group role to control access to features and capabilities in applications for all members in a group.
 
-**Parent Topic:**[Managing roles](../concept/ua-creating-roles.md)
+**Parent Topic:**[Managing roles](ua-creating-roles.md)
 

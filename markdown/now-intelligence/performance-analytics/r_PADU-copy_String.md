@@ -31,5 +31,5 @@ var pa = new SNC.PADomainUtils();
 pa.copy('09ff3d105f231000b12e3572f2b4775d');
 ```
 
-**Parent Topic:**[PADomainUtils - Global](../concept/c_PADomainUtils.md)
+**Parent Topic:**[PADomainUtils - Global](c_PADomainUtils.md)
 

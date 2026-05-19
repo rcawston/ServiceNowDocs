@@ -87,5 +87,5 @@ Number of sprints that you want to create for the selected assignment groups.
 
 The sprints are created for the selected assignment groups and are listed in the Sprints related list of these groups.
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

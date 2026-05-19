@@ -56,11 +56,11 @@ In the service map, you can visually verify that the service health of the sub-s
 **Related topics**  
 
 
-[Transfer a map segment into another application service](../../service-mapping/task/add-segment-to-business-service-map.md)
+[Transfer a map segment into another application service](../service-mapping/add-segment-to-business-service-map.md)
 
 [Configure a manual cluster](configure-manual-cluster.md)
 
-[Adjust alert impact while triaging an alert](../../event-management-operator/task/operator-adjust-impact-rules.md)
+[Adjust alert impact while triaging an alert](operator-adjust-impact-rules.md)
 
 [View an alert impact on CIs in a service map](t_EMViewTopology.md)
 

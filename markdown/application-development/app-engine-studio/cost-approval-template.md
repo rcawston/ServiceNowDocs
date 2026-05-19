@@ -21,7 +21,7 @@ Employees can easily submit their planned expenses for multiple levels of approv
 
 To ensure compliance and improved financial planning, admins can customize the existing flow and levels of approval using decision tables. For more information, see [Exploring Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/decision-designer-overview.md).
 
-For more information on creating an application using a template, see [Create your app using an application template](../task/use-app-template.md).
+For more information on creating an application using a template, see [Create your app using an application template](use-app-template.md).
 
 **Parent Topic:**[Available templates](template-library.md)
 

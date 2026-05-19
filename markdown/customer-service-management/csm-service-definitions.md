@@ -48,8 +48,8 @@ The service definitions filtering feature enables you to filter or narrow the se
 
 You can filter service definitions by creating configurations that are based on two types of criteria: user and customer.
 
--   [User criteria](../task/configure-user-criteria-for-a-service-definition.md): Filter service definitions by user criteria such as role, assignment group, or specific user. For example, in a retail organization, different services are created for various roles. Only users with specific roles, such as regional managers or operational managers, can view and use service definitions like Product Recall or New Product Launch in Store. These services are hidden from other agents who are not authorized to create such cases.
--   [Customer criteria](../task/configure-customer-criteria-for-a-service-definition.md): Filter service definitions by customer criteria such as location, customer level, or related entities. For example, for customers with a loyalty membership, service definitions like Free Delivery or Free Installation are made available. Customers who do not meet these criteria will not see or have access to these services.
+-   [User criteria](configure-user-criteria-for-a-service-definition.md): Filter service definitions by user criteria such as role, assignment group, or specific user. For example, in a retail organization, different services are created for various roles. Only users with specific roles, such as regional managers or operational managers, can view and use service definitions like Product Recall or New Product Launch in Store. These services are hidden from other agents who are not authorized to create such cases.
+-   [Customer criteria](configure-customer-criteria-for-a-service-definition.md): Filter service definitions by customer criteria such as location, customer level, or related entities. For example, for customers with a loyalty membership, service definitions like Free Delivery or Free Installation are made available. Customers who do not meet these criteria will not see or have access to these services.
 
 ## The service definition ID field
 
@@ -66,22 +66,22 @@ The system administrator defines the services that are offered to customers for 
 
 |Task|Description|
 |----|-----------|
-|[Create a service definition](../task/create-csm-service-definition.md)|The service definition record stores details about a service that is provided to customers. This information includes a name for the service definition, the target table, and the service category.|
-|[Associate one or more products](../task/service-def-associate-products.md)|Services can be product-specific or general services can be created and made available for all products.|
-|[Associate a case type](../task/service-def-associate-case-type.md)|A case type provides the processes and data that an agent needs to resolve a case for a specific type of service.|
-|[Associate a playbook](../task/service-def-associate-playbook.md)|A playbook provides agents with step-by-step guidance for resolving a specific type of case.|
-|[Configure default field values](../task/service-def-default-field-values.md)|Configure default values for fields in a service definition's target table. When a record is created for this table, the system uses these values to auto-populate record fields.|
-|[Associate a record producer](../task/service-def-config-catalog-items.md)|Record producers enable end users to request services from the Customer and Consumer Portals.|
-|[Configure related services for a service definition](../task/service-def-config-related-services.md)|Associate one or more related services with a service definition to create parent-child relationships between service definitions. For example, you can create service definitions for case tasks and associate them with a service definition for a case type.|
-|[Create a service definition category](../task/create-csm-service-def-category.md)|Create a category for service definitions. You can use these categories to create logical groupings of service definitions.|
-|[Associate service definitions with a category](../task/service-def-category-associate-service.md)|Add service definitions to a category. A category can have one or more associated service definitions and a service definition can belong to multiple categories.|
-|[Add a case type to the Case interceptor](../task/service-def-config-case-interceptor.md)|Add case types to the Case interceptor, to configure this feature for use in the Core UI.|
-|[Configure user criteria for a service definition](../task/configure-user-criteria-for-a-service-definition.md)|Add user criteria to a service definition that restricts a user's access to the service. Associate user-specific criteria such as role, assignment group, or specific user with a service definition to determine which users can access and use that service to create a case.|
-|[Configure customer criteria for a service definition](../task/configure-customer-criteria-for-a-service-definition.md)|Add entity criteria to a service definition that restricts access to the service. Associate customer-specific criteria such as location, customer level, or verified status with a service definition to determine which customers are eligible for that service.|
+|[Create a service definition](create-csm-service-definition.md)|The service definition record stores details about a service that is provided to customers. This information includes a name for the service definition, the target table, and the service category.|
+|[Associate one or more products](service-def-associate-products.md)|Services can be product-specific or general services can be created and made available for all products.|
+|[Associate a case type](service-def-associate-case-type.md)|A case type provides the processes and data that an agent needs to resolve a case for a specific type of service.|
+|[Associate a playbook](service-def-associate-playbook.md)|A playbook provides agents with step-by-step guidance for resolving a specific type of case.|
+|[Configure default field values](service-def-default-field-values.md)|Configure default values for fields in a service definition's target table. When a record is created for this table, the system uses these values to auto-populate record fields.|
+|[Associate a record producer](service-def-config-catalog-items.md)|Record producers enable end users to request services from the Customer and Consumer Portals.|
+|[Configure related services for a service definition](service-def-config-related-services.md)|Associate one or more related services with a service definition to create parent-child relationships between service definitions. For example, you can create service definitions for case tasks and associate them with a service definition for a case type.|
+|[Create a service definition category](create-csm-service-def-category.md)|Create a category for service definitions. You can use these categories to create logical groupings of service definitions.|
+|[Associate service definitions with a category](service-def-category-associate-service.md)|Add service definitions to a category. A category can have one or more associated service definitions and a service definition can belong to multiple categories.|
+|[Add a case type to the Case interceptor](service-def-config-case-interceptor.md)|Add case types to the Case interceptor, to configure this feature for use in the Core UI.|
+|[Configure user criteria for a service definition](configure-user-criteria-for-a-service-definition.md)|Add user criteria to a service definition that restricts a user's access to the service. Associate user-specific criteria such as role, assignment group, or specific user with a service definition to determine which users can access and use that service to create a case.|
+|[Configure customer criteria for a service definition](configure-customer-criteria-for-a-service-definition.md)|Add entity criteria to a service definition that restricts access to the service. Associate customer-specific criteria such as location, customer level, or verified status with a service definition to determine which customers are eligible for that service.|
 
 ## Agent experience
 
-Associating a case type with a service definition automates the case type selection process for agents. From CSM Configurable Workspace, agents can quickly [create cases of the right case type](../task/create-case-of-specific-case-type.md) based on customer context.
+Associating a case type with a service definition automates the case type selection process for agents. From CSM Configurable Workspace, agents can quickly [create cases of the right case type](create-case-of-specific-case-type.md) based on customer context.
 
 When creating cases, agents can select the appropriate service for a customer based on the products that the customer owns. The Product Service Select version of the [case type selector](csm-case-type-select-modals.md) enables agents to do the following:
 
@@ -132,5 +132,5 @@ Selecting a service from the widget displays the record producer associated with
 
 [Manage customer service case types](manage-csm-case-types.md)
 
-[Create a customer service case of a specific type](../task/create-case-of-specific-case-type.md)
+[Create a customer service case of a specific type](create-case-of-specific-case-type.md)
 

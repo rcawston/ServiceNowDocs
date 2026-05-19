@@ -34,7 +34,7 @@ Role required: sn\_ti.case\_user\_write
 5.  You can also click the **Security Annotation** tab to view annotations for the selected artifact.
 
 
-**Parent Topic:**[Related details for case artifacts](../concept/related-details-for-case-artifacts.md)
+**Parent Topic:**[Related details for case artifacts](related-details-for-case-artifacts.md)
 
 **Related topics**  
 

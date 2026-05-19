@@ -59,5 +59,5 @@ This method of listing untranslated items does not identify strings that have be
 
 ## What to do next
 
-You can translate the fields in an external application and reload the translations as an update set. For more information see, [Export and edit translation records](t_TranslateTheInterface.md#). If you have a small number of strings to translate, you can translate them individually. For more information, see [Translating individual UI strings](../concept/c_TranslateIndFieldLabelsAndValues.md).
+You can translate the fields in an external application and reload the translations as an update set. For more information see, [Export and edit translation records](t_TranslateTheInterface.md#). If you have a small number of strings to translate, you can translate them individually. For more information, see [Translating individual UI strings](c_TranslateIndFieldLabelsAndValues.md).
 

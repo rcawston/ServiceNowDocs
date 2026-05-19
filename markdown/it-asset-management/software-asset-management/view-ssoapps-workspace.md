@@ -83,5 +83,5 @@ SSO groups that are mapped to specific software models for managing licenses at 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

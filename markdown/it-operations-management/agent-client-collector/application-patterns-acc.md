@@ -143,16 +143,16 @@ When performing Discovery with Agent Client Collector, ensure that you have the 
     **Note:** Oracle Java discovery with ACC is applicable in all server environments. However, currently, it's partially supported for different Desktop environments. For a Windows Desktop update set, see the KB article [KB1705845](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1705845).
 
 
-For information on java installation Discovery using Agent Client Collector for Visibility - Content, see [Discover java installation data using Agent Client Collector for Visibility - Content file-based discovery](../task/acc-file-based-discovery.md).
+For information on java installation Discovery using Agent Client Collector for Visibility - Content, see [Discover java installation data using Agent Client Collector for Visibility - Content file-based discovery](acc-file-based-discovery.md).
 
-For information on the collected data, see [Data collected during Agent Client Collector for Visibility - Content file-based Discovery](../reference/data-collected-file-based-discovery.md).
+For information on the collected data, see [Data collected during Agent Client Collector for Visibility - Content file-based Discovery](data-collected-file-based-discovery.md).
 
-Application patterns support Oracle GLAS data collection in a Linux environment. For details on using patterns, see [Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../../service-mapping/reference/oracle-glas-discovery.md).
+Application patterns support Oracle GLAS data collection in a Linux environment. For details on using patterns, see [Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../discovery-and-service-mapping-patterns/oracle-glas-discovery.md).
 
 Although Oracle GLAS supports Put file operations, the related files are deployed using Agent Client Collector plugins instead of SSH or WMI.
 
 **Related topics**  
 
 
-[Discovery patterns used by ITOM Visibility](../../service-mapping/concept/c_MappingPatternsCustomization.md)
+[Discovery patterns used by ITOM Visibility](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md)
 

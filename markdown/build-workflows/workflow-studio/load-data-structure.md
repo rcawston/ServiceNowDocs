@@ -37,5 +37,5 @@ Load a data structure of child variables within an Object variable.
     If the Object variable has no existing data structure, Workflow Studio loads the data structure into it. If the Object variable has an existing data structure, Workflow Studio displays a confirmation dialog to replace the existing structure.
 
 
-**Parent Topic:**[Complex data](../concept/complex-data.md)
+**Parent Topic:**[Complex data](complex-data.md)
 

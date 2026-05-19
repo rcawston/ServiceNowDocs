@@ -37,7 +37,7 @@ The following items are installed with Walk-Up for CSM:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Walk-up Experience for CSM user roles](../reference/walk-up-experience-user-roles.md).
+For more information, see [Walk-up Experience for CSM user roles](../walk-up-experience-user-roles.md).
 
 ## Procedure
 
@@ -57,5 +57,5 @@ For more information, see [Walk-up Experience for CSM user roles](../reference/w
 **Related topics**  
 
 
-[Walk-up Experience for Customer Service Management](../concept/csm-walkup-experience.md)
+[Walk-up Experience for Customer Service Management](csm-walkup-experience.md)
 

@@ -59,38 +59,38 @@ The MID File Cleaner can be disabled completely for all folders, by adding the M
 
 On the MID Server form, click New on the "Configuration Parameters" related list, select mid.file\_cleaner.disabled, and enter the value "true".
 
-This can also be manually added to the config.xml file: `<parameter name="mid.file_cleaner.disabled" value="true"/>`. See [MID Server parameters](../reference/mid-server-parameters.md#) for more information.
+This can also be manually added to the config.xml file: `<parameter name="mid.file_cleaner.disabled" value="true"/>`. See [MID Server parameters](mid-server-parameters.md#) for more information.
 
 **Parent Topic:**[MID Server reference](mid-server-reference-information.md)
 
 **Related topics**  
 
 
-[MID Server system requirements](../reference/r_MIDServerSystemRequirements.md)
+[MID Server system requirements](r_MIDServerSystemRequirements.md)
 
 [MID Server upgrades](c_UpgradeAndTestMIDServer.md)
 
-[Resolving MID Server issues](../reference/r_MIDServerTroubleshooting.md)
+[Resolving MID Server issues](r_MIDServerTroubleshooting.md)
 
 [MID Server dashboard](c_MIDServerDashboard.md)
 
-[MID Server properties](../reference/r_MIDServerProperties.md#)
+[MID Server properties](r_MIDServerProperties.md#)
 
-[MID Server parameters](../reference/mid-server-parameters.md#)
+[MID Server parameters](mid-server-parameters.md#)
 
-[MID Server Configuration Parameter settings and priority](../reference/mid-config-param-priority.md)
+[MID Server Configuration Parameter settings and priority](mid-config-param-priority.md)
 
-[MID Server protected records and reserved characters](../reference/mid-server-reserved-characters.md)
+[MID Server protected records and reserved characters](mid-server-reserved-characters.md)
 
 [MID Server privileged commands](c_PrivilegedCommandsForMIDServer.md#)
 
-[MIDSystem methods](../reference/r_MIDSystemMethods.md)
+[MIDSystem methods](r_MIDSystemMethods.md)
 
-[Manually start, stop, and restart a MID Server](../task/t_InstallMIDServerAsWinService.md)
+[Manually start, stop, and restart a MID Server](t_InstallMIDServerAsWinService.md)
 
-[MID Server heartbeat](../reference/r_MIDServerHeartbeat.md)
+[MID Server heartbeat](r_MIDServerHeartbeat.md)
 
-[Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md)
+[Set the MID Server JVM memory size](t_MIDServerOptionalConfiguration.md)
 
-[Pause the MID Server](../task/t_PauseTheMIDServer.md#)
+[Pause the MID Server](t_PauseTheMIDServer.md#)
 

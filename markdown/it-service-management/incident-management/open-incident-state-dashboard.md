@@ -17,7 +17,7 @@ View average age and number of reassignments and breakdown incidents in the New,
 
 **Important:**
 
-Starting in Xanadu release, the Open Incident State Monitor dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the average age and number of reassignments and breakdown incidents in the New, In Progress, and On Hold states.
+Starting in Xanadu release, the Open Incident State Monitor dashboard is deprecated. Users can use [Incident management dashboard](../incident.md) to view the average age and number of reassignments and breakdown incidents in the New, In Progress, and On Hold states.
 
 ![Open Incident State Monitor workbench widget](../image/open-incident-state-monitor.png "Open Incident State Monitor")
 

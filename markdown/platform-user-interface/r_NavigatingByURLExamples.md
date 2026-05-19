@@ -67,5 +67,5 @@ Schema: `https://<baseURL>/nav_to.do?uri=<table name>_list.do?sysparm_<sysparmTy
 |-----------|-------|
 |Returns a comma-separated value file of records in the Incident table that meet the query conditions.|`https://<instance name>.service-now.com/nav_to.do?uri=incident_list.do?sysparm_query=active=false&CSV`|
 
-**Parent Topic:**[Navigate to a record or module using a URL](../task/navigate-using-url.md)
+**Parent Topic:**[Navigate to a record or module using a URL](navigate-using-url.md)
 

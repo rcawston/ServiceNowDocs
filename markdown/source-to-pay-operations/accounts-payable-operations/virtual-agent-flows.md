@@ -48,15 +48,15 @@ The supplier provides an invoice number and the virtual agent displays the statu
 
 The supplier can choose to create an inquiry case related to the invoice using the **Create inquiry** link. The **Create inquiry** link enables suppliers to choose the type of inquiry case. Suppliers use **Add new comment** to add comments related to the inquiry.
 
-For more information on creating inquiry case, see [Submit Invoice Inquiry](../task/submit-invoice-inquiry-case.md).
+For more information on creating inquiry case, see [Submit Invoice Inquiry](submit-invoice-inquiry-case.md).
 
 ## Prechat Survey
 
-Pre-chat survey is available to supplier if the Accounts Payable admin installs the `app-supplier-awa`plugin into the system. Depending on the response received from the supplier, the chatbot directs the supplier to choose between **Talk to Live Agent** and **Accounts Payable** options. For more information on the options, see [Configure the chat channel](../task/configure-the-chat-channel.md) and [Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md).
+Pre-chat survey is available to supplier if the Accounts Payable admin installs the `app-supplier-awa`plugin into the system. Depending on the response received from the supplier, the chatbot directs the supplier to choose between **Talk to Live Agent** and **Accounts Payable** options. For more information on the options, see [Configure the chat channel](configure-the-chat-channel.md) and [Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md).
 
 .
 
--   **[Configure the chat channel](../task/configure-the-chat-channel.md)**  
+-   **[Configure the chat channel](configure-the-chat-channel.md)**  
 Activate the virtual agent chatbot \(chat channel\) in the supplier portal for suppliers to complete Accounts Payable Operations related self-service tasks.
 
 **Parent Topic:**[Using Supplier Collaboration Portal in APO](using-supplier-collaboration-portal.md)

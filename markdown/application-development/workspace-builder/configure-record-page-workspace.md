@@ -20,7 +20,7 @@ Configure a record page for a workspace in Workspace Builder. Use containers and
 Role required:
 
 -   admin or Guided Application Creator for ServiceNow Studio.
--   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+-   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -36,7 +36,7 @@ If you don't see the record page for a table you configured for the workspace, s
 
 1.  Navigate to Workspace Builder.
 
-    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](../../workspace-builder/concept/accessing-workspace-builder-aes-crs.md).
+    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](accessing-workspace-builder-aes-crs.md).
 
 2.  Create a record page.
 
@@ -107,7 +107,7 @@ Form details
 
 Select the **Edit form** link to edit the form in a Table Builder tab inside AES.**Note:** After you leave the record page in the Table Builder tab, a dialog prompts you to **Reload this page**.
 
-For more information on editing forms for a record page, see [Forms in Table Builder](../../../administer/form-builder/concept/form-view-configuration.md).
+For more information on editing forms for a record page, see [Forms in Table Builder](../form-builder-glide-family-release/form-view-configuration.md).
 
 </td></tr><tr><td>
 

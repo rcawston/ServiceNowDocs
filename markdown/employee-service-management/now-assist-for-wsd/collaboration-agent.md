@@ -142,11 +142,11 @@ I have reserved this space for you.
 
         -   When the employee enters a name, the collaboration agent tries to identify the collaborator. It takes into account the following factors:
             -   Your team \(this includes your manager. If you are a manager and not an individual contributor, the agent also considers employees reporting to you as your collaborators\).
-            -   Workplace presence Collaborator information. This includes Employee Presence Routine and Employee Presence Exceptions. For more information, see [Components installed with Workplace Concierge](../../workplace-concierge/reference/components-installed-with-workplace-concierge.md) and [Set Employee Presence](../../workplace-concierge/concept/use-workplace-concierge.md)
+            -   Workplace presence Collaborator information. This includes Employee Presence Routine and Employee Presence Exceptions. For more information, see [Components installed with Workplace Concierge](../workplace-concierge/components-installed-with-workplace-concierge.md) and [Set Employee Presence](../workplace-concierge/use-workplace-concierge.md)
             -   Your current reservations in the system and invitees added by you.
             -   Your workplace profile and the primary location assigned to you.
             -   If multiple colleagues are found with the same name, the agent allows you to select a colleague from a list of employee names.
-    -   Time: All day reservation is considered first, and then, the reservation Start time and End time reservation is taken into consideration. For more information, see [Properties installed with Workplace Reservation Management](../../wsd-reservation-management/reference/properties-installed-with-wsd-reservation-mgmt.md).
+    -   Time: All day reservation is considered first, and then, the reservation Start time and End time reservation is taken into consideration. For more information, see [Properties installed with Workplace Reservation Management](../workplace-reservation-management/properties-installed-with-wsd-reservation-mgmt.md).
 
         In the case multiple desk reservations exist, earliest start time is used to find an available space for collaboration.
 
@@ -160,5 +160,5 @@ I have reserved this space for you.
 8.  When the request is complete, Virtual Agent displays a message to confirm if any additional help is required.
 
 
-**Parent Topic:**[Using the workplace collaboration Agent for space suggestions](../concept/suggest-space-agent.md)
+**Parent Topic:**[Using the workplace collaboration Agent for space suggestions](suggest-space-agent.md)
 

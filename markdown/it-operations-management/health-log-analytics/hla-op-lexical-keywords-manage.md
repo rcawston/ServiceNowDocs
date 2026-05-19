@@ -25,8 +25,8 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
     The Lexical Keywords table appears. By default, the table lists only global keywords.
 
-    For information about adding, editing, or deleting global keywords, see [Add, edit, or delete lexical keywords in Health Log Analytics](../../health-log-analytics-admin/task/hla-lexical-keywords-admin.md).
+    For information about adding, editing, or deleting global keywords, see [Add, edit, or delete lexical keywords in Health Log Analytics](hla-lexical-keywords-admin.md).
 
-    To add a specified keyword that is associated with a specific source type, see [Configure source type capabilities in Health Log Analytics](../../health-log-analytics-admin/task/hla-source-types.md).
+    To add a specified keyword that is associated with a specific source type, see [Configure source type capabilities in Health Log Analytics](hla-source-types.md).
 
 

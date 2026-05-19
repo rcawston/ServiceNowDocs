@@ -58,7 +58,7 @@ You can also track and continue working on the follow-up actions.
 
 [Contextualize an external document using AI Enhanced recommended actions for ICW Mobile](use-ai-enhanced-ra-icw-mobile.md)
 
-[AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)](../../icw-ai-enhanced-recommended-actions/concept/exploring-ai-enhanced-ra-icw.md)
+[AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)](../exploring-ai-enhanced-ra-icw.md)
 
-[Configure AI Enhanced recommended actions for Industrial Connected Workforce](../../icw-ai-enhanced-recommended-actions/concept/configure-ai-enhanced-ra-icw.md)
+[Configure AI Enhanced recommended actions for Industrial Connected Workforce](../configure-ai-enhanced-ra-icw.md)
 

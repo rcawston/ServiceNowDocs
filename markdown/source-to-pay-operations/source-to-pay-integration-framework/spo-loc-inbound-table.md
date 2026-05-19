@@ -35,7 +35,7 @@ The following table lists the mandatory fields for the CMN Location Stage inboun
 |Street and house number|String|Street and house number of the CMN location.|
 |Zip|String|Zip code of the CMN location.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

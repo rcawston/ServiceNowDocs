@@ -31,11 +31,11 @@ Map services across dynamic cloud-based providers with a high degree of accuracy
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the various methods of mapping application services.](../concept/service-mapping-get-started.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the various methods of mapping application services.](service-mapping-get-started.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](../concept/service-mapping-setup.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](service-mapping-setup.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Map services across dynamic cloud-based providers with a high degree of accuracy
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-service-map.svg)Review mapping application services for analysis and maintenance.](../concept/using-service-mapping.md)
+[Use![](../../../reuse/icons/brand-icons/bus-service-map.svg)Review mapping application services for analysis and maintenance.](using-service-mapping.md)
 
 </td><td>
 

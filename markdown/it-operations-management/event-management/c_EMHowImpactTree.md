@@ -22,7 +22,7 @@ A CI is in maintenance when:
 -   A change request is scheduled for the CI.
 -   The **Install Status** field on the CI record is set to **In Maintenance**.
 
-**Note:** To customize how alerts work with CIs in maintenance, see [Create maintenance rules](../task/create-maintenance-rule.md).
+**Note:** To customize how alerts work with CIs in maintenance, see [Create maintenance rules](create-maintenance-rule.md).
 
 <table><thead><tr><th>
 
@@ -53,7 +53,7 @@ OR
 
 **Note:**
 
-The [**Maintenance**](../task/t_EMViewAlertmaintenance.md) check box for an alert is selected when the **Install Status** field on the CI record is **In Maintenance**. This **Maintenance** check box indicates that the alert must be hidden from the **Alerts** tab.
+The [**Maintenance**](t_EMViewAlertmaintenance.md) check box for an alert is selected when the **Install Status** field on the CI record is **In Maintenance**. This **Maintenance** check box indicates that the alert must be hidden from the **Alerts** tab.
 
 </td></tr><tr><td>
 
@@ -84,5 +84,5 @@ All alerts on a CI with an inactive change request and **In Maintenance** has no
 **Related topics**  
 
 
-[Create maintenance rules](../task/create-maintenance-rule.md)
+[Create maintenance rules](create-maintenance-rule.md)
 

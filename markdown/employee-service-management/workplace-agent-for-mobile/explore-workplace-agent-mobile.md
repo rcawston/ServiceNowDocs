@@ -37,5 +37,5 @@ As a workplace agent, the application enables you to perform the following actio
 -   You can also handle workplace cases and tasks that are associated with the cases individually.
 -   You can upload attachments to a case at any time.
 
-For more information about the Workplace Agent for mobile application features, refer to [Workplace Agent for mobile - Key features, actions, and case details](../reference/workplace-agent-mob-key-features-workstats-casedetailspage.md)
+For more information about the Workplace Agent for mobile application features, refer to [Workplace Agent for mobile - Key features, actions, and case details](workplace-agent-mob-key-features-workstats-casedetailspage.md)
 

@@ -34,5 +34,5 @@ Role required: sn\_si.admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[View and update Security Incident Response system properties](../concept/view-update-sirw-system-properties.md)
+**Parent Topic:**[View and update Security Incident Response system properties](view-update-sirw-system-properties.md)
 

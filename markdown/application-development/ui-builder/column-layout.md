@@ -45,7 +45,7 @@ Role required: ui\_builder\_admin
 
     See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
-3.  [Create a page in UI Builder](../task/create-page.md) or open a page.
+3.  [Create a page in UI Builder](create-page.md) or open a page.
 
 4.  Select **+ Add content** in the content tree.
 
@@ -53,7 +53,7 @@ Role required: ui\_builder\_admin
 
     ![Floating component menu in UI Builder with layouts tab displayed listing the basic column layout options.](../image/nav-toolbox-layouts.png)
 
-    The column layout appears on the stage so you can add components to the columns. See [Add and configure components](../task/add-components.md#) for more information.![Column layout with three empty columns.](../image/column-layout-on-stage.png)
+    The column layout appears on the stage so you can add components to the columns. See [Add and configure components](add-components.md#) for more information.![Column layout with three empty columns.](../image/column-layout-on-stage.png)
 
 6.  Add additional column layouts above or below.
 
@@ -82,7 +82,7 @@ Role required: ui\_builder\_admin
 
     See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
-3.  [Create a page in UI Builder](../task/create-page.md) or open a page.
+3.  [Create a page in UI Builder](create-page.md) or open a page.
 
 4.  If the page doesn't already contain a column layout, [Add a column layout](column-layout.md#).
 
@@ -179,7 +179,7 @@ Role required: ui\_builder\_admin
 
     See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
-3.  [Create a page in UI Builder](../task/create-page.md) or open a page.
+3.  [Create a page in UI Builder](create-page.md) or open a page.
 
 4.  If the page doesn't already contain a column layout, [Add a column layout](column-layout.md#).
 
@@ -232,7 +232,7 @@ Role required: ui\_builder\_admin
 
     See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
-3.  [Create a page in UI Builder](../task/create-page.md) or open a page.
+3.  [Create a page in UI Builder](create-page.md) or open a page.
 
 4.  If the page doesn't already contain a column layout, [Add a column layout](column-layout.md#).
 

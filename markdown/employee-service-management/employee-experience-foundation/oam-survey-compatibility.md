@@ -24,7 +24,7 @@ The survey definition must meet the following conditions to be compatible with O
 -   The survey must not contain image scale questions with other question types. For more information, see [Survey question data types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyQuestionDataTypes.md).
 -   The survey can only contain one image scale question.
 
-**Note:** If the survey contains more questions than the value of the **sn\_ms\_oam.feedback\_survey\_question\_count** system property, the survey opens on the portal specified in the **sn\_ms\_oam.portal.suffix** property. For more information, see [Configure system properties to update the survey question limit](../task/configure-survey-question-limit.md).
+**Note:** If the survey contains more questions than the value of the **sn\_ms\_oam.feedback\_survey\_question\_count** system property, the survey opens on the portal specified in the **sn\_ms\_oam.portal.suffix** property. For more information, see [Configure system properties to update the survey question limit](configure-survey-question-limit.md).
 
 **Parent Topic:**[ServiceNow for Microsoft Outlook reference](sn-ms-outlook-reference.md)
 

@@ -18,15 +18,15 @@ Use the ServiceNow® Now Assist for Field Service Management \(FSM\) application
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for FSM](../concept/exploring-now-assist-fsm.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for FSM](exploring-now-assist-fsm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for FSM application to get started](../task/configure-now-assist-fsm.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for FSM application to get started](configure-now-assist-fsm.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for FSM](../concept/using-now-assist-fsm.md)
+[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for FSM](using-now-assist-fsm.md)
 
 </td></tr></tbody>
 </table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).

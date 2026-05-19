@@ -243,13 +243,13 @@ Screen capture options
 
 [Defined path desktop actions in AI Desktop Actions](desktop-actions-designer-workspace-ad.md)
 
-[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](../task/auto-create-desktop-action-ad.md)
+[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](auto-create-desktop-action-ad.md)
 
-[Automate repetitive tasks by manually capturing steps in AI Desktop Actions](../task/manual-create-desktop-action-ad.md)
+[Automate repetitive tasks by manually capturing steps in AI Desktop Actions](manual-create-desktop-action-ad.md)
 
 [Example: Automate badge request management using AI Desktop Actions](example-badging-magmt-concept-ad.md#)
 
 [Example: Automate shipping management tasks using AI Desktop Actions](example-shipping-magmt-concept-ad.md#)
 
-[Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md)
+[Screen, anchor, and step properties in AI Desktop Actions](screen-anchor-and-action-properties-ad.md)
 

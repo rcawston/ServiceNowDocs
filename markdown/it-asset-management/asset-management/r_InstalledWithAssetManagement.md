@@ -233,7 +233,7 @@ sam
 </td><td>
 
 -   Create, edit, change, and manage software licenses.
--   Edit the Software model field on a [Discovery models and software installations](../../software-asset-management2/concept/c_DiscoveryModels.md).
+-   Edit the Software model field on a [Discovery models and software installations](../software-asset-management/c_DiscoveryModels.md).
 -   Approve a model. Has full control of the Software Asset Management application.
 -   Controls the Software Asset Management IBM PVU Process Pack, if activated.
 

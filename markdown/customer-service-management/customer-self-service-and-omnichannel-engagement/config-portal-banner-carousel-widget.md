@@ -73,7 +73,7 @@ Role required: sp\_admin
 
 17. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [Portal Banner Carousel widget instance options form](../reference/port-banner-carousel-inst-options.md).
+    For a description of the field values, see [Portal Banner Carousel widget instance options form](../port-banner-carousel-inst-options.md).
 
 18. Select **Save**.
 

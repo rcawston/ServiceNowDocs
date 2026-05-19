@@ -76,7 +76,7 @@ Select **Attach File** to attach the import model file.**Note:**
 </td></tr></tbody>
 </table>6.  Download the demo data and model template by selecting **Create Excel Template**.
 
-    -   The [Import model excel template](../reference/import-model-excel-template.md) is created based on the Import model template \[sn\_ni\_adv\_import\_model\_template\] table. An admin can customize the template and update it as required.
+    -   The [Import model excel template](import-model-excel-template.md) is created based on the Import model template \[sn\_ni\_adv\_import\_model\_template\] table. An admin can customize the template and update it as required.
     -   The following relationship types are supported for import models.
         -   Equipment to slot
         -   Slot to card
@@ -105,5 +105,5 @@ The **Import Results** tab appears next to the **Details** tab where you can vie
 -   Redirect to the generated model from **Import Results** tab.
 -   Delete a record. To learn more, see [Delete a record](delete-inventory-record.md).
 
-**Parent Topic:**[Import models and templates](../concept/import-models-and-templates.md)
+**Parent Topic:**[Import models and templates](import-models-and-templates.md)
 

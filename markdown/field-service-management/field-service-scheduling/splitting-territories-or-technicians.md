@@ -26,7 +26,7 @@ Split qualifiers are a configuration setting that controls whether Schedule Opti
 
 By default, Schedule Optimization supports three concurrent jobs. For information about adjusting this limit, see the `sn_schedule_optim.so_max_solution_threshold` property description.
 
-For property descriptions and supported values, see [Schedule Optimization properties](../reference/schedule-optimization-properties.md).
+For property descriptions and supported values, see [Schedule Optimization properties](../schedule-optimization-properties.md).
 
 ## When to use split qualifiers
 

@@ -19,11 +19,11 @@ This script include contains the default implementation for the Event Notificati
 
 This script include runs in the `sn_ind_tmf642` namespace and requires the Telecommunications Alarm Management Open API \(app-ind-tmfapi-alarm\) plugin to be activated.
 
-For additional information on how to override these functions, see the [Event Notification Management Open API Developer Guide](../../../../../integrate/guides/telecom/concept/event-mgmt-notif_dev-guide.md#).
+For additional information on how to override these functions, see the [Event Notification Management Open API Developer Guide](../developer-guides/event-mgmt-notif_dev-guide.md#).
 
-For additional information on the Event Notification Management Open API, see [Event Notification Management Open API](../../../../../integrate/inbound-rest/concept/event_open-api.md#).
+For additional information on the Event Notification Management Open API, see [Event Notification Management Open API](../rest-apis/event_open-api.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TMFTopicEventAPIUtilOOB - getAlarmChangeEventSchema\(\)
 

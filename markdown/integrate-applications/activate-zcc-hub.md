@@ -23,7 +23,7 @@ Follow the steps below to activate the Zero Copy Connector Hub on your instance.
 
 Roles are installed with Zero Copy Connector Hub.
 
-For more information, see [Zero Copy Connectors roles](../reference/roles-zcc.md#).
+For more information, see [Zero Copy Connectors roles](roles-zcc.md#).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ For more information, see [Zero Copy Connectors roles](../reference/roles-zcc.md
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configuring Zero Copy Connectors](../concept/configuring-zcc.md)
+**Parent Topic:**[Configuring Zero Copy Connectors](configuring-zcc.md)
 

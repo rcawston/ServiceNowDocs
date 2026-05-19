@@ -48,5 +48,5 @@ There are two steps to perform this process. The first is to update the specific
     The number of inbound queue requests indicates the number of product inventories that matched the source specification. Once all the inbound queue records are processed, the request creates a change order for each of the inbound queue records processed successfully.
 
 
-**Parent Topic:**[Updating specification versions](../concept/som-specification-version-update.md)
+**Parent Topic:**[Updating specification versions](som-specification-version-update.md)
 

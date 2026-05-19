@@ -64,7 +64,7 @@ Role required: map admin, map editor, map editor limited
     Change the Campus from the **Campus** drop-down list on the top right menu on the map studio.
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Previous topic:**[View editor content](view-editor-content.md)
 

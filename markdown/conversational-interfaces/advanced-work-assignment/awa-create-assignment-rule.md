@@ -39,7 +39,7 @@ Role required: awa\_admin or admin
     -   To change a rule, select the rule to be updated.
 3.  On the Assignment Rule form, fill in the fields.
 
-    For a description of the field values, see [Assignment Rule form](../reference/awa-assignment-rules.md).
+    For a description of the field values, see [Assignment Rule form](awa-assignment-rules.md).
 
 4.  Select **Submit** for a new rule or **Update** if you're changing the rule.
 

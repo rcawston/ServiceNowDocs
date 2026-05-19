@@ -133,16 +133,16 @@ List of fields that appear on the right column of the record summary pop-up. The
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Change schedules](../concept/change-schedule.md)
+**Parent Topic:**[Change schedules](change-schedule.md)
 
 **Related topics**  
 
 
-[Change schedules view](../concept/change-schedules-view.md)
+[Change schedules view](change-schedules-view.md)
 
 [Create a change schedule from the Change Schedules page](create-chng-sch-from-chng-sch-page.md)
 
 [Create a change schedule from the change schedule definition](create-chng-sch-from-chng-sch-def.md)
 
-[Style rules definition](../concept/style-rules-definition.md)
+[Style rules definition](style-rules-definition.md)
 

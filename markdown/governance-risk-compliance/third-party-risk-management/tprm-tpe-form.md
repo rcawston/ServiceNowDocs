@@ -92,7 +92,7 @@ First name, Last name, Contact department, Contact title, Contact phone, and Con
 
 Standard contact information for the person at the third-party organization who acts as the primary third-party contact.
 
- For a description of the responsibilities of the third-party contact role, see [Roles in Third-party Risk Management](../../grc-vendor-risk-implementation/reference/tprm-roles.md).
+ For a description of the responsibilities of the third-party contact role, see [Roles in Third-party Risk Management](tprm-roles.md).
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Latitude and Longitude
 
 </td><td>
 
-Values that are used to mark the location on the Risk concentration map. For more information, see [TPRM Risk concentration map](../concept/tprm-ws-risk-concentration-map.md).
+Values that are used to mark the location on the Risk concentration map. For more information, see [TPRM Risk concentration map](tprm-ws-risk-concentration-map.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md)
@@ -116,9 +116,9 @@ Values that are used to mark the location on the Risk concentration map. For mor
 **Related topics**  
 
 
-[Monitoring third-party elements](../../grc-vendor-risk/concept/tprm-monitor-tp-elements.md)
+[Monitoring third-party elements](tprm-monitor-tp-elements.md)
 
-[Create a third-party element record](../../grc-vendor-risk/task/tprm-tp-element-create.md)
+[Create a third-party element record](tprm-tp-element-create.md)
 
-[Add a third-party element record to an engagement](../../grc-vendor-risk/task/tprm-tp-element-engagement.md)
+[Add a third-party element record to an engagement](tprm-tp-element-engagement.md)
 

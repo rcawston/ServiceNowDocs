@@ -19,7 +19,7 @@ Role required: sn\_oper\_res.manager
 
 ## About this task
 
-For the configuration sequence and instructions in Operational Resilience, see [Configuring Operational Resilience](../concept/configure-operational-resilience.md).
+For the configuration sequence and instructions in Operational Resilience, see [Configuring Operational Resilience](configure-operational-resilience.md).
 
 For instructions on creating the Main node configuration records, see [Configure the Main node configurations](set-up-main-node.md).
 
@@ -31,7 +31,7 @@ For instructions on creating the Main node configuration records, see [Configure
 
 2.  Ensure that you have set up the pillars, entity types, entity filters and entities are generated.
 
-    Refer to the configuration instructions on the [Configuring Operational Resilience](../concept/configure-operational-resilience.md) page.
+    Refer to the configuration instructions on the [Configuring Operational Resilience](configure-operational-resilience.md) page.
 
 3.  Navigate to **Operational Resilience Workspace** &gt; **List** &gt; **Service** and select the service.
 

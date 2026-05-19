@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Incident Management OSHA Content Pack,
 
 Properties that you can use to configure PDF templates for OSHA forms.
 
-These properties are available for the Health and Safety Incident Management OSHA Content Pack application and are preconfigured for the OSHA form PDF templates available with this application. However, if you've updated the PDF templates, you must update their sys\_ids in the corresponding system properties. For more information, see [Update an OSHA form PDF template](../task/update-osha-form-pdf-template.md).
+These properties are available for the Health and Safety Incident Management OSHA Content Pack application and are preconfigured for the OSHA form PDF templates available with this application. However, if you've updated the PDF templates, you must update their sys\_ids in the corresponding system properties. For more information, see [Update an OSHA form PDF template](update-osha-form-pdf-template.md).
 
 <table id="table_fhq_ngg_fwb"><thead><tr><th>
 
@@ -56,5 +56,5 @@ This property contains the sys\_id of the OSHA 301 form PDF template. If you've 
 -   Location: **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack reference](../concept/hs-reporting-reference.md)
+</table>**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack reference](hs-reporting-reference.md)
 

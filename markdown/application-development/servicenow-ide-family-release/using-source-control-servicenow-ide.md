@@ -44,7 +44,7 @@ Clone \(![More actions](../image/servicenow-ide-more-actions-icon.png) &gt; **Cl
 
 </td><td>
 
-Clone a remote repository to add an application to your workspace.For more information, see [Clone a Git repository with the ServiceNow IDE](../task/clone-git-repository-servicenow-ide.md).
+Clone a remote repository to add an application to your workspace.For more information, see [Clone a Git repository with the ServiceNow IDE](clone-git-repository-servicenow-ide.md).
 
 </td></tr><tr><td>
 
@@ -128,11 +128,11 @@ To update the remote repository an application is connected to, you can use the 
 **Related topics**  
 
 
-[Connect to a Git provider using basic authentication with the ServiceNow IDE](../task/connect-git-provider-basic-auth.md)
+[Connect to a Git provider using basic authentication with the ServiceNow IDE](connect-git-provider-basic-auth.md)
 
 [Connect to a Git provider using OAuth 2.0 with the ServiceNow IDE](connect-git-provider-oauth-2.md#)
 
-[Configure a MID Server to use source control with the ServiceNow IDE](../task/configure-mid-server-source-control.md)
+[Configure a MID Server to use source control with the ServiceNow IDE](configure-mid-server-source-control.md)
 
-[Initialize a Git repository with the ServiceNow IDE](../task/initialize-git-repository-servicenow-ide.md)
+[Initialize a Git repository with the ServiceNow IDE](initialize-git-repository-servicenow-ide.md)
 

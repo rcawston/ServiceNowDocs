@@ -21,7 +21,7 @@ The translation management feature enables the following translation activities:
 -   Create translation tasks automatically for specified languages.
 -   Configure assignment rules and auto-assigned tasks for a language, knowledge base, or category to a translator or a group of translators.
 
-For information about activating translation management, see [Activate translation management](../task/activate-translation-mgt.md).
+For information about activating translation management, see [Activate translation management](activate-translation-mgt.md).
 
 Enabling the **glide.knowman.translation.enable\_translation\_task** property adds the following menu options to the Translation Management submenu under the Knowledge menu:
 
@@ -36,7 +36,7 @@ You can choose a default language when you log in to an instance. The available 
 **Related topics**  
 
 
-[Translate a knowledge article from a translation task](../task/translate-knowledge-article.md)
+[Translate a knowledge article from a translation task](translate-knowledge-article.md)
 
 [I18N - Knowledge internationalization](c_I18NKMInternational.md)
 

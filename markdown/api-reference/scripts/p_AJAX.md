@@ -17,7 +17,7 @@ AJAX \(asynchronous JavaScript and XML\) is a group of interrelated, client-side
 
 AJAX enables web applications to send and retrieve information to and from a server in the background, without impacting the user experience with the displayed web page.
 
-**Parent Topic:**[Client-side scripting](../../client-scripts/concept/client-side-scripting-overview.md)
+**Parent Topic:**[Client-side scripting](client-side-scripting-overview.md)
 
 ## GlideAjax
 
@@ -38,7 +38,7 @@ Using GlideAjax:
     -   **sysparm\_type**
 -   Code is then executed with the getXML\(\) or getXMLWait\(\) functions.
 
-For additional information, refer to the [GlideAjax](../../../app-store/dev_portal/API_reference/GlideAjax/concept/c_GlideAjaxAPI.md#) API.
+For additional information, refer to the [GlideAjax](../c_GlideAjaxAPI.md#) API.
 
 ## Examples of asynchronous GlideAjax
 

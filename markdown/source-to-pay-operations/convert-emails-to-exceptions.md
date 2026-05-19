@@ -19,11 +19,11 @@ The Email Intent to Action Agentic workflow analyzes incoming supplier emails, i
 
 To use this functionality, verify that the following steps are completed:
 
--   Configure the \[sn\_supplier.slm\_email\] system property and edit the **Value** field to contain supplier email address. For more information, see [Configure properties for Supplier Case Management](../../supplier-lifecycle-operations/reference/config-prop-supp-mgmt.md).
+-   Configure the \[sn\_supplier.slm\_email\] system property and edit the **Value** field to contain supplier email address. For more information, see [Configure properties for Supplier Case Management](supplier-lifecycle-operations/config-prop-supp-mgmt.md).
 
     **Note:** If you plan to use or are using the SLO Supplier inbox for scenarios such as supplier case creation, you must use the same inbox for creating purchase order exceptions.
 
--   Deactivate the Create Supplier case for email inbound action. For more information, see [Deactivate Create supplier case from email inbound action](../../supplier-lifecycle-operations/concept/deactivate-create-supplier-case-from-email-inbound-action.md).
+-   Deactivate the Create Supplier case for email inbound action. For more information, see [Deactivate Create supplier case from email inbound action](supplier-lifecycle-operations/deactivate-create-supplier-case-from-email-inbound-action.md).
 -   Activate the Trigger Intent to Action inbound action. To learn how to enable and configure intent to action workflow to invoke the agentic workflow from inbound actions, see [Enable intent to action workflow from inbound actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-intent-to-action.md).
 -   Set the **sn\_uni\_req.universal\_request\_portal** property value to **Supplier**. This step supports supplier user experience cases where a supplier email cannot be automatically converted to a purchase order exception. Instead, a universal request is created in the Supplier Collaboration Portal and the supplier receives an email with a link to the universal request created. For the link to correctly direct the supplier to the Supplier Collaboration Portal, the **sn\_uni\_req.universal\_request\_portal** property value must be set to **Supplier**.
 

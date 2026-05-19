@@ -1214,5 +1214,5 @@ microsoft.containerservice/managedclusters
 ✓
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](../concept/sgc-azure-reference.md)
+</table>**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](sgc-azure-reference.md)
 

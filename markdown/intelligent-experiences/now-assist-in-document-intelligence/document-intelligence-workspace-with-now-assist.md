@@ -54,7 +54,7 @@ If Now Assist can detect the source of its prediction in the document, it will h
 
 When you are reviewing a document for extraction, you can use various controls to maximize the viewing area, zoom, or focus on the areas that you need.
 
-You can also extract information directly from the document image using the draw tool. For more details, see [Extract fields using the draw tool](use-draw-mode-to-extract-fields.md#).
+You can also extract information directly from the document image using the draw tool. For more details, see [Extract fields using the draw tool](../document-intelligence/use-draw-mode-to-extract-fields.md#).
 
 ## Extraction reviewpanel
 

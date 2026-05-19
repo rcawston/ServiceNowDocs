@@ -48,5 +48,5 @@ Shipping Confirmation URL
 -   `sys_id` is the unique system ID of the punchout supplier record stored in the Supplier \(sn\_fin\_supplier\) table.
 
 
-**Parent Topic:**[Configure punchout for third-party site purchases](../task/configure-supplier-punchout.md)
+**Parent Topic:**[Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 

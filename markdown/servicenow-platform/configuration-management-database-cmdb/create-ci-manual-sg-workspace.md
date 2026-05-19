@@ -17,7 +17,7 @@ Create a CI in Service Graph Workspace, while applying Identification and Reconc
 
 ## About this task
 
-Creating specialty CIs such as a service instance, isn't supported in this Create CI experience. Typically, such CIs aren't discoverable and you must create them manually using specific wizards, such as the [Application service\(Service instance\) wizard](../../service-mapping/task/create-it-services.md).
+Creating specialty CIs such as a service instance, isn't supported in this Create CI experience. Typically, such CIs aren't discoverable and you must create them manually using specific wizards, such as the [Application service\(Service instance\) wizard](create-it-services.md).
 
 You can access the Create CI experience in either of the following ways:
 
@@ -26,12 +26,12 @@ You can access the Create CI experience in either of the following ways:
 
 As you progress through the procedure, fields appear dynamically according to your selections and entries on the current or previous pages.
 
-To manually create a new CI without applying IRE processes \(Core UI\), see [Populating the CMDB](../concept/c_OptionsToPopulateCMDB.md). For more information about mandatory attributes, IRE processes, dependent CIs, and the CI relationship editor \(Core UI\), see:
+To manually create a new CI without applying IRE processes \(Core UI\), see [Populating the CMDB](c_OptionsToPopulateCMDB.md). For more information about mandatory attributes, IRE processes, dependent CIs, and the CI relationship editor \(Core UI\), see:
 
 -   [Set a CI attribute to be mandatory](t_SetCIFieldMandatory.md)
--   [Identification rules](../concept/c_IdentificationRules.md)
--   [CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
--   [CI relationship editor](../concept/c_RelationshipEditor.md)
+-   [Identification rules](c_IdentificationRules.md)
+-   [CMDB classifications and class dependency](c_CMDBClassifications.md)
+-   [CI relationship editor](c_RelationshipEditor.md)
 
 ## Before you begin
 
@@ -119,5 +119,5 @@ In the new CI, **Discovery source** is set to **Manual via IRE**.
 
 ## What to do next
 
-You can view the new CI or other CIs, using CI Form in Service Graph Workspace. For more information about using the CI Form, see [Manage CI details using CI Form in Service Graph Workspace](../concept/ci-form-sg-workspace.md).
+You can view the new CI or other CIs, using CI Form in Service Graph Workspace. For more information about using the CI Form, see [Manage CI details using CI Form in Service Graph Workspace](ci-form-sg-workspace.md).
 

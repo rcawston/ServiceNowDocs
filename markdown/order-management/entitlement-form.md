@@ -278,5 +278,5 @@ Cumulative net price
 Represents the total price of the contract line by calculating the roll-up amount of all root lines.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customer Contracts and Entitlements reference](../concept/pss-reference.md)
+</table>**Parent Topic:**[Customer Contracts and Entitlements reference](pss-reference.md)
 

@@ -33,9 +33,9 @@ Use the widget instance options to customize the settings for the SC Wish List C
 |-----|-----------|
 |Auto update wish list|Automatically updates the wish list across all sessions.|
 
--   **[Enable the SC Wish List Cart widget in Service Portal](../task/enable-wish-list-portal.md)**  
+-   **[Enable the SC Wish List Cart widget in Service Portal](enable-wish-list-portal.md)**  
 Add catalog items or record producers to the wish list after you enable the wish list.
--   **[Enable automatic updates to the wish list](../task/enable-auto-update-wish-list.md)**  
+-   **[Enable automatic updates to the wish list](enable-auto-update-wish-list.md)**  
 Update the wish list automatically with user-specific changes from multiple tabs and platforms.
 
 **Parent Topic:**[Service Catalog widgets](sc-widgets.md)
@@ -75,11 +75,11 @@ Update the wish list automatically with user-specific changes from multiple tabs
 
 [SP Variable Editor widget](variable-editor-widget.md)
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 
 [Add an item to the wish list in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-wishlist-portal.md)
 

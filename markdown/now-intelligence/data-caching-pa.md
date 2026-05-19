@@ -29,11 +29,11 @@ Table and indicator data support caching.
 
 Before you activate data caching, the property **glide.analytics.cache.enabled** must be set to `true`.
 
-In the inline dashboard editor, you can activate or deactivate data caching per dashboard. Caching then applies to all data visualizations on that dashboard that have a data source that supports it. For more information, see [Configure Platform Analytics dashboard settings](../../dashboards/task/configure-ac-db-settings.md).
+In the inline dashboard editor, you can activate or deactivate data caching per dashboard. Caching then applies to all data visualizations on that dashboard that have a data source that supports it. For more information, see [Configure Platform Analytics dashboard settings](configure-ac-db-settings.md).
 
 In the UI Builder, you can activate or deactivate data caching per data visualization. For an example, see the **useDataCache** property for either table or indicator data sources in [Single Score UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/xanadu/now-components/now-vis-score-wrapper/uib-setup).
 
-In the UI Builder, you can also enable data caching for a local data instance of the table or indicator type. For more information, see [Enable data caching for a local data instance](../../dashboards/task/enable-caching-local-data-instance.md).
+In the UI Builder, you can also enable data caching for a local data instance of the table or indicator type. For more information, see [Enable data caching for a local data instance](enable-caching-local-data-instance.md).
 
 ## Default dashboard caching
 

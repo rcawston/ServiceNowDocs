@@ -26,16 +26,16 @@ Not all regulated environments require an isolated instance of the ServiceNow St
 ![An infographic showing a workflow for accessing the correct ServiceNow Store version, procuring an app, and installing the app. For more details, refer to the following description.](../image/MMASSET0020992-regulatedstoreworkflow-landing.png "Procuring and installing apps in a regulated environment")
 
 1.  Access the correct version of the ServiceNow Store for your environment.
-    -   If your regulated environment has an isolated federal or regional instance of the ServiceNow Store, see [Access the ServiceNow Store for a regulated environment](../task/access-regulated-store.md).
+    -   If your regulated environment has an isolated federal or regional instance of the ServiceNow Store, see [Access the ServiceNow Store for a regulated environment](access-regulated-store.md).
     -   If your regulated environment doesn't require an isolated federal or regional instance, use the procurement process for the commercial [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) instead. For information about procuring apps from the commercial ServiceNow Store, refer to [Getting apps and trials from the ServiceNow Store](getting-apps-trials.md).
 2.  Procure an application from an isolated federal or regional instance of the ServiceNow Store.
-    -   To request a 30-day trial, log in to your federal or regional instance of the ServiceNow Store and use the same process that users of the commercial ServiceNow Store do. For more information, see [Start an application trial from the ServiceNow Store](../task/start-trial.md).
-    -   To get an application that's available without additional cost, see [Get a free app for a regulated environment](../task/get-free-app-regulated.md).
-    -   To request a paid application, see [Request a paid app for a regulated environment](../task/request-paid-app-regulated.md).
-    -   To complete procurement of an application for an on-premise instance, see [Get an app as an on-premise customer](../task/get-app-on-prem.md).
+    -   To request a 30-day trial, log in to your federal or regional instance of the ServiceNow Store and use the same process that users of the commercial ServiceNow Store do. For more information, see [Start an application trial from the ServiceNow Store](start-trial.md).
+    -   To get an application that's available without additional cost, see [Get a free app for a regulated environment](get-free-app-regulated.md).
+    -   To request a paid application, see [Request a paid app for a regulated environment](request-paid-app-regulated.md).
+    -   To complete procurement of an application for an on-premise instance, see [Get an app as an on-premise customer](get-app-on-prem.md).
 3.  Install an application in a regulated environment.
-    -   If you have a hosted instance in a regulated environment, see [Install an application or plugin](../../../build/applications/task/installing-applications-in-application-manager.md).
-    -   If you self-host your instance, see [Upload an app to an on-premise instance](../task/upload-app-on-prem-instance.md).
+    -   If you have a hosted instance in a regulated environment, see [Install an application or plugin](application-manager/installing-applications-in-application-manager.md).
+    -   If you self-host your instance, see [Upload an app to an on-premise instance](upload-app-on-prem-instance.md).
 
 ## Additional info
 

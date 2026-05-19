@@ -36,5 +36,5 @@ Role required: sn\_cm\_core.contract\_user
 3.  Select **Save** to update the record.
 
 
-**Parent Topic:**[Use non-self-served contract request](../concept/cncore-req-nss-contract-1.md)
+**Parent Topic:**[Use non-self-served contract request](../employee-service-management/cncore-req-nss-contract-1.md)
 

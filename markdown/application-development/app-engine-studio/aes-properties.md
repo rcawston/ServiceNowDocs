@@ -23,7 +23,7 @@ System properties control system behavior. The properties in this section are sp
     -   Default value: true
 -   **sn\_app\_eng\_studio.aes\_admin\_contact**
 
-    Defines the contact email for the App Engine Studio administrator. The system sends deployment request notifications to each email address listed in this property. For more information, see [Add users to the App Engine Admin group](../task/add-users-to-admin-grp.md).
+    Defines the contact email for the App Engine Studio administrator. The system sends deployment request notifications to each email address listed in this property. For more information, see [Add users to the App Engine Admin group](add-users-to-admin-grp.md).
 
     -   Type: string
     -   Default value: none
@@ -35,7 +35,7 @@ System properties control system behavior. The properties in this section are sp
     -   Default value: image/svg+xml
 -   **sn\_app\_intake.instance\_can\_provision\_users**
 
-    Determines if the current instance can support the provisioning of users. The users on this instance will be provisioned to another instance. For more information on provisioning users, see [Configure Application Intake](../task/config-app-intake.md).
+    Determines if the current instance can support the provisioning of users. The users on this instance will be provisioned to another instance. For more information on provisioning users, see [Configure Application Intake](../app-engine-management-center/config-app-intake.md).
 
     -   Type: true \| false
     -   Default value: false

@@ -27,5 +27,5 @@ You can access the property by selecting the MID Server Properties link in the n
 
 ![Use PowerShell Probe v2](../image/powershell-probe-v2.png)
 
-**Parent Topic:**[MID Servers for Orchestration](../../orchestration/concept/c_OrchestrationMID.md)
+**Parent Topic:**[MID Servers for Orchestration](c_OrchestrationMID.md)
 

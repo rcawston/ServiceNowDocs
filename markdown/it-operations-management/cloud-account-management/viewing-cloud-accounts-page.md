@@ -34,5 +34,5 @@ The following metrics are displayed:
 -   **Due for certification**: The number of accounts due for certification.
 -   **Unmanaged**: The number of unmanaged accounts.
 
-For more information, see [Cloud account details](../reference/cloud-accounts-details.md).
+For more information, see [Cloud account details](cloud-accounts-details.md).
 

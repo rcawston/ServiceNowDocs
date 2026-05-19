@@ -85,5 +85,5 @@ The statistical method for calculating the baseline. Options are:-   Linear tren
 
 In the following example, the initial linear trend kept resulting in signals despite the average remaining stable. Following the signal in early September, signal detection was changed to "no trend." Following this change, the average remained stable and no further signals were detected.![KPI Signals showing no signal for a KPI: neither a signal nor an anti-signal](../image/kpi-signals-no-signal.png)
 
-**Parent Topic:**[Configuring KPI Signals for an indicator](../concept/configuring-kpi-signals.md)
+**Parent Topic:**[Configuring KPI Signals for an indicator](configuring-kpi-signals.md)
 

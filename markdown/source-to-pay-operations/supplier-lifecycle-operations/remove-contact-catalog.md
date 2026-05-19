@@ -48,7 +48,7 @@ Role required: sn\_slm.contact or sn\_slm.admin
 
 The application creates a case of type Offboard supplier contact and assigns it to the supplier manager to take the appropriate action.
 
-**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 **Related topics**  
 
@@ -73,5 +73,5 @@ The application creates a case of type Offboard supplier contact and assigns it 
 
 [Request something else using the supplier catalog](submit-general-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 

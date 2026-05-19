@@ -98,7 +98,7 @@ Have an active subscription for the External Content for AI Search plugin \(com.
 
 </td><td>
 
-The External Content for AI Search plugin provides functionality for indexing content from external data sources. For instructions on purchasing a subscription for the plugin and activating it, see [Request the External Content for AI Search plugin](../task/activate-ext-content-ais-plugin.md).
+The External Content for AI Search plugin provides functionality for indexing content from external data sources. For instructions on purchasing a subscription for the plugin and activating it, see [Request the External Content for AI Search plugin](activate-ext-content-ais-plugin.md).
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Define an external content schema table for the external document source
 
 </td><td>
 
-An external content schema table doesn't store external document content in the database. Instead, its columns serve as a map of AI Search index fields to populate when you index content from external data sources. For instructions on creating a new external content schema table, see [Create an external content schema table](../task/create-ext-content-schema-ais.md).
+An external content schema table doesn't store external document content in the database. Instead, its columns serve as a map of AI Search index fields to populate when you index content from external data sources. For instructions on creating a new external content schema table, see [Create an external content schema table](create-ext-content-schema-ais.md).
 
  When documents from multiple external data sources share the same set of fields and have unique document identifiers, you can use a single external content schema table for all of them. To avoid data loss, the external data sources must satisfy these conditions:
 
@@ -123,7 +123,7 @@ Create an indexed source with your external content schema table specified as th
 
 </td><td>
 
-The indexed source sends external documents' content and metadata to the AI Search index. For instructions on creating an indexed source, see [Create an indexed source](../task/create-indexed-source-ais.md).
+The indexed source sends external documents' content and metadata to the AI Search index. For instructions on creating an indexed source, see [Create an indexed source](create-indexed-source-ais.md).
 
 </td></tr><tr><td>
 
@@ -131,16 +131,16 @@ Create one or more search sources for the indexed source
 
 </td><td>
 
-Each search source specifies a subset of external documents from the indexed source whose content you want to make searchable in AI Search. For instructions on creating search sources, see [Create a search source for AI Search](../task/create-search-source-ais.md).
+Each search source specifies a subset of external documents from the indexed source whose content you want to make searchable in AI Search. For instructions on creating search sources, see [Create a search source for AI Search](create-search-source-ais.md).
 
 </td></tr></tbody>
-</table>-   **[Request the External Content for AI Search plugin](../task/activate-ext-content-ais-plugin.md)**  
+</table>-   **[Request the External Content for AI Search plugin](activate-ext-content-ais-plugin.md)**  
 Request activation of the External Content for AI Search plugin \(com.glide.ais.external\_content\) to enable indexing of searchable content and metadata from records in external data sources.
--   **[Create an external content schema table](../task/create-ext-content-schema-ais.md)**  
+-   **[Create an external content schema table](create-ext-content-schema-ais.md)**  
 Define a schema table with columns corresponding to fields on records from an external data source. AI Search uses the schema when indexing content from the external data source.
 -   **[External content security for AI Search](external-content-security-ais.md)**  
 AI Search preserves user and group security access permissions specified for documents indexed from external sources. You can control access to external content search results by mapping these externally defined users and groups to ServiceNow AI Platform® users.
--   **[Components installed with External Content for AI Search](../reference/installed-with-ext-content-ais.md)**  
+-   **[Components installed with External Content for AI Search](installed-with-ext-content-ais.md)**  
 When you activate the External Content for AI Search plugin \(com.glide.ais.external\_content\), the system creates a new virtual table.
 
 **Parent Topic:**[Configuring AI Search](configuring-ais.md)

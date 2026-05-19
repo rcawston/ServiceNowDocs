@@ -92,5 +92,5 @@ Enabling an OpenSSL secure signing mechanism for plugins works with an Agent Cli
 8.  In the `acc.yml` file, set `verify-plugin-signature` to **true**.
 
 
-**Parent Topic:**[Agent Client Collector certificates](../concept/acc-certificates.md)
+**Parent Topic:**[Agent Client Collector certificates](acc-certificates.md)
 

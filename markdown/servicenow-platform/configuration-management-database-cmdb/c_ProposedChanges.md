@@ -87,7 +87,7 @@ Role required: sn\_cmdb\_editor or itil
 
     2.  In the Relationships section, add or delete a relationship.
 
-        For information about using the relationship editor, see [Create or edit a CI relationship](../task/t_CreateCIRelationship.md).
+        For information about using the relationship editor, see [Create or edit a CI relationship](t_CreateCIRelationship.md).
 
     3.  Click **Save Propose Change**.
 

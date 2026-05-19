@@ -15,19 +15,19 @@ breadcrumb: [Report types, Reporting, Reporting, dashboards, and Performance Ana
 
 Multilevel pivot tables display aggregate data broken down by multiple dimensions in a single table. They display separate cells for each row and column value combination, as well as a column subtotal for each first-level row. Aggregate information is presented in the top left of the chart.
 
-You can also create multilevel pivot tables with columns and rows containing variables. See [Use service catalog variables in a report](../task/use-service-catalog-variables-in-report.md).
+You can also create multilevel pivot tables with columns and rows containing variables. See [Use service catalog variables in a report](use-service-catalog-variables-in-report.md).
 
 You can expand and collapse the rows in the table to show the chart details, or only the subtotals. The top row of a multilevel pivot report is always visible.
 
 **Note:**
 
--   On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../../performance-analytics/concept/explore-data-vis-library.md).
+-   On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../explore-data-vis-library.md).
 -   Some row configurations prevent the chart from displaying subtotal information, such as when a string column has the same text value but with different character cases.
 -   You can only schedule this report type as a PDF.
 
 ![A multilevel pivot table with subtotals and expanded rows](../image/multilevel-pivot-report-example.png "Multilevel pivot with subtotals and expanded rows")
 
-**Parent Topic:**[Report types](../reference/report-types-creation-details-rd.md)
+**Parent Topic:**[Report types](report-types-creation-details-rd.md)
 
 ## Create a multilevel pivot report
 
@@ -37,13 +37,13 @@ Create a multilevel pivot report to display aggregate data broken down by multip
 
 Role required: itil, report\_user, report\_group, report\_global, report\_admin, or admin. To create a meaningful report, you must have the right to access the data you want to report on.
 
-**Note:** On net new Australia instances, only users with the report\_admin role can create reports. To visualization your information in these instances, see [Creating data visualizations](creating-data-visualizations.md).
+**Note:** On net new Australia instances, only users with the report\_admin role can create reports. To visualization your information in these instances, see [Creating data visualizations](../creating-data-visualizations.md).
 
 ### Procedure
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../../dashboards/reference/differences-between-core-ui-ne-dbs.md).
+2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../differences-between-core-ui-ne-dbs.md).
 
 3.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -71,7 +71,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d204495e351">
 
@@ -140,9 +140,9 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 
  Select **Minimum** or **Maximum** to show the maximum or minimum value for each segment of the report.
 
- For more information on aggregation options, see [Aggregation in reporting](../reference/aggregation-reporting.md).
+ For more information on aggregation options, see [Aggregation in reporting](aggregation-reporting.md).
 
- If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+ If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](t_AccessFieldExtendedTable.md#).
 
  For information about aggregating on FX currency values, see [FX Currency values in reporting](fx-currency-values-reporting.md#).
 
@@ -152,7 +152,7 @@ Set Value Formatting
 
 </td><td>
 
-Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](../reference/value-formatting-reports.md#).
+Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](value-formatting-reports.md#).
 
  **Note:** Decimal precision does not work on currency fields.
 
@@ -256,7 +256,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d204495e1030">
 
@@ -279,7 +279,7 @@ MetricBase enables you to collect, retain, analyze, and visualize custom time se
 
     **Note:** It is not possible to group or stack reports by the **Tags** field, or by certain field types, such as MEDIUMTEXT.
 
-    Depending on system configuration, you can add fields from tables that extend the table selected as the report data source. For more information, see [Report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+    Depending on system configuration, you can add fields from tables that extend the table selected as the report data source. For more information, see [Report on extended tables](t_AccessFieldExtendedTable.md#).
 
 7.  Select variables to use as columns:
 
@@ -339,9 +339,9 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 
  Select **Minimum** or **Maximum** to show the maximum or minimum value for each segment of the report.
 
- For more information on aggregation options, see [Aggregation in reporting](../reference/aggregation-reporting.md).
+ For more information on aggregation options, see [Aggregation in reporting](aggregation-reporting.md).
 
- If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+ If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](t_AccessFieldExtendedTable.md#).
 
  For information about aggregating on FX currency values, see [FX Currency values in reporting](fx-currency-values-reporting.md#).
 
@@ -351,7 +351,7 @@ Set Value Formatting
 
 </td><td>
 
-Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](../reference/value-formatting-reports.md#).
+Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](value-formatting-reports.md#).
 
  **Note:** Decimal precision does not work on currency fields.
 
@@ -475,7 +475,7 @@ Edit coloring rules
 
 </td><td>
 
-Click this hyperlink to configure how cells and cell text with numerical values are colored in the report. You can create rules to define which colors are used based on operators and values. For example, you can specify that any value greater than 5 displays in red. See [Create coloring rules for multilevel pivot reports](../task/t_DefineAPivotTableColoringRule.md).**Note:** It is not possible to apply coloring rules to the Total cells in multilevel pivot reports.
+Click this hyperlink to configure how cells and cell text with numerical values are colored in the report. You can create rules to define which colors are used based on operators and values. For example, you can specify that any value greater than 5 displays in red. See [Create coloring rules for multilevel pivot reports](t_DefineAPivotTableColoringRule.md).**Note:** It is not possible to apply coloring rules to the Total cells in multilevel pivot reports.
 
 </td></tr><tr><td>
 

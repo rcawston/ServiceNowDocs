@@ -17,7 +17,7 @@ On a candidate record in ERP Semantic Mining the **Similar candidates** tab disp
 
 **Important:** Starting with the Zurich release, ERP Semantic Mining is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
-For process details, see [View and work with candidate details in ERP Semantic Mining](../task/erpcm-view-work-with-candidate-details.md).
+For process details, see [View and work with candidate details in ERP Semantic Mining](erpcm-view-work-with-candidate-details.md).
 
 <table id="table_ozn_3z5_jyb"><thead><tr><th>
 
@@ -75,7 +75,7 @@ Similarity
 
 Numeric score representing how similar the candidates are, from 0 through 1.A higher score, for example 0.94, indicates very similar candidates.
 
-For more information, see [Recommendations and similar candidates in ERP Semantic Mining](../concept/erpcm-recommendations-and-similar-candidates.md).
+For more information, see [Recommendations and similar candidates in ERP Semantic Mining](erpcm-recommendations-and-similar-candidates.md).
 
 </td></tr><tr><td>
 
@@ -94,5 +94,5 @@ Updated
 Date and time the similar candidate details were most recently updated.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ERP Semantic Mining field descriptions](../concept/erpcm-field-description-reference-landing.md)
+</table>**Parent Topic:**[ERP Semantic Mining field descriptions](erpcm-field-description-reference-landing.md)
 

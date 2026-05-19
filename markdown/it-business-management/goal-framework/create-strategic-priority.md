@@ -59,7 +59,7 @@ Steps
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
 
-    For field information, see [Strategic Priority form](../reference/strategic-priority-form.md).
+    For field information, see [Strategic Priority form](strategic-priority-form.md).
 
 3.  Click **Submit**.
 

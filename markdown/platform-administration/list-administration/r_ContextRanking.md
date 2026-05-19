@@ -17,14 +17,14 @@ Context ranking allows a user to sort a collection of records preferentially; th
 
 For example, a Customer Support manager can organize a list of incidents in the order in which a technician should work on the tasks. Creating such an arbitrary list with a list filter is not possible.
 
--   **[Activate context ranking](../task/t_ActivateContextRankingPlugin.md)**  
+-   **[Activate context ranking](t_ActivateContextRankingPlugin.md)**  
 If you have the admin role, you can activate the Context Ranking plugin \(com.glide.sorting\). This plugin activates related plugins if they are not already active.
--   **[Create a ranking definition](../task/t_CreatingARankingDefinition.md)**  
+-   **[Create a ranking definition](t_CreatingARankingDefinition.md)**  
 Enable context ranking for a related list by creating a ranking definition.
--   **[Rank a list](../task/t_RankingAList.md)**  
+-   **[Rank a list](t_RankingAList.md)**  
 After you create a ranking definition for a table, related lists based on that table and context include options for ranking the list and displaying the list by rank.
 -   **[Scrum ranking definitions](r_ScrumRankingDefinitions.md)**  
 Ranking definitions for user stories are part of the SDLC \(scrum process\) application.
 
-**Parent Topic:**[ServiceNow AI Platform forms, fields, and lists](../../general/concept/now-platform-forms-fields-lists.md)
+**Parent Topic:**[ServiceNow AI Platform forms, fields, and lists](../now-platform-forms-fields-lists.md)
 

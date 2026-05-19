@@ -42,5 +42,5 @@ As an IT technician, you can propose a standard change template for a change req
 
 The proposal for a new standard change template is created with the status **In Progress**.
 
-**Parent Topic:**[Standard change catalog](../concept/standard-change-catalog-sow.md)
+**Parent Topic:**[Standard change catalog](standard-change-catalog-sow.md)
 

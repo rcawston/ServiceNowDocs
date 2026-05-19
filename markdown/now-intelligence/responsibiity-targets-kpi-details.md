@@ -46,8 +46,8 @@ Role required: pa\_admin, pa\_target\_admin, pa\_power\_user, or admin.
 
 2.  Either:
 
-    -   Create a target, as described in [Create a target in KPI Details](../task/create-kpi-details-targets.md).
-    -   Open an existing target, as described in [Edit multiple targets in KPI Details](../task/edit-multiple-targets.md).
+    -   Create a target, as described in [Create a target in KPI Details](create-kpi-details-targets.md).
+    -   Open an existing target, as described in [Edit multiple targets in KPI Details](edit-multiple-targets.md).
 3.  Click the cogwheel to open the **Targets Configuration** page.
 
     ![Targets panel top showing config cogwheel.](../image/kpi-details-target-config-cogwheel.png)

@@ -35,7 +35,7 @@ To view a list of pipeline instances for a given pipeline, navigate to **All** &
 
 ## Remote instances
 
-ReleaseOps uses update sources to move update sets between instances. A remote instance is the source instance, or update source, where an update set originates. For more information about update sources, see [Set up the source instance for an update set](../../system-update-sets/task/setting-source-for-update-set.md).
+ReleaseOps uses update sources to move update sets between instances. A remote instance is the source instance, or update source, where an update set originates. For more information about update sources, see [Set up the source instance for an update set](../system-update-sets/setting-source-for-update-set.md).
 
 If you previously worked with update sets and have remote instances already defined, ReleaseOps can use those instances when defining remote instances during guided setup. Otherwise, you can create remote instances during the guided setup process.
 

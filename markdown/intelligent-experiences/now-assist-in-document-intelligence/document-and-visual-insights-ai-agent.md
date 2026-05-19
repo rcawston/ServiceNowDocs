@@ -33,9 +33,9 @@ The document and visual insights AI agent performs tasks to process documents an
     Answer questions about the document or image content.
 
 
-The document and visual insights AI agent is not typically used in standalone mode and any use case can access it. For more information on AI agents, see [Now Assist AI agents](../../now-assist-ai-agents/reference/na-ai-agents.md).
+The document and visual insights AI agent is not typically used in standalone mode and any use case can access it. For more information on AI agents, see [Now Assist AI agents](../na-ai-agents.md).
 
-AI agents use [role masking](../../now-assist-ai-agents/concept/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](../../now-assist-ai-agents/task/define-sec-controls-aia.md).
+AI agents use [role masking](../aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](../define-sec-controls-aia.md).
 
 ## AI agent actions
 

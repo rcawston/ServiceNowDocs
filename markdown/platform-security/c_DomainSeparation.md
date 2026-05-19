@@ -69,15 +69,15 @@ Visibility domains control what a specific user or group of users can see. "Cont
 Domain scope defines what users can and cannot access.
 -   **[Concepts for service providers](sp-concepts.md)**  
 These concepts work with the existing ServiceNow platform capabilities to help you solve for common use cases.
--   **[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)**  
+-   **[Installed with domain separation](r_InstalledWithDomainSeparation.md)**  
 Several platform components are added or modified with domain separation.
 
-**Parent Topic:**[Domain separation for service providers](../reference/domain-sep-landing-page.md)
+**Parent Topic:**[Domain separation for service providers](domain-sep-landing-page.md)
 
 **Related topics**  
 
 
-[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 
 [Domain separation plugin](domain-sep-plugin.md)
 

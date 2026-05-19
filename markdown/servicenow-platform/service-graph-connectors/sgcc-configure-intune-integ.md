@@ -33,8 +33,8 @@ For the connector to access the data in Microsoft Intune, the credential informa
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../../configuration-management/concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../../configuration-management/concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 -   ServiceNow IntegrationHub Zip step \(com.glide.hub.action\_step.zip\), which is automatically installed.
@@ -48,11 +48,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts, to provide access to global tables to the SGC-Admin user, and to configure advanced data sources. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts, to provide access to global tables to the SGC-Admin user, and to configure advanced data sources. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 For more details on permissions, see [Service Graph Connector for Microsoft Intune - Troubleshooting connection issues](https://community.servicenow.com/community?id=community_blog&sys_id=a405ef9bdbbd7018bb4a474d13961903) on ServiceNow Community and [Microsoft Graph permissions reference](https://learn.microsoft.com/en-us/graph/permissions-reference) on the Microsoft documentation site.
 
@@ -70,7 +70,7 @@ For more details on permissions, see [Service Graph Connector for Microsoft Intu
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](../sgcc-first-time-setup.md).
 
 5.  Select the data source type.
 
@@ -269,9 +269,9 @@ Select **View all connections** to review the connection details. The configured
 **Related topics**  
 
 
-[Service Graph Connector for Microsoft Intune](../../configuration-management/concept/cmdb-integration-intune.md)
+[Service Graph Connector for Microsoft Intune](cmdb-integration-intune.md)
 
-[CMDB classes targeted in Service Graph Connector for Microsoft Intune](../../configuration-management/reference/cmdb-intune-classes.md)
+[CMDB classes targeted in Service Graph Connector for Microsoft Intune](cmdb-intune-classes.md)
 
-[Accessing the connection details of Service Graph Connector for Microsoft Intune](../../configuration-management/concept/sgc-cmdb-intune-conn.md#)
+[Accessing the connection details of Service Graph Connector for Microsoft Intune](sgc-cmdb-intune-conn.md#)
 

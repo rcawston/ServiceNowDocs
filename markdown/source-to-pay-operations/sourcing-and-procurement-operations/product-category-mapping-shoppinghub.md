@@ -17,7 +17,7 @@ You can map the product categories and units of measure for third-party products
 
 **Note:** You can configure the product category and unit of measure mappings for the products either before or after uploading the catalog index CSV file. However, it's recommended to define these mappings in advance whenever possible and reupload the CSV file if new mappings are added.
 
-**Parent Topic:**[Configure punchout for third-party site purchases](../task/configure-supplier-punchout.md)
+**Parent Topic:**[Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 
 ## Create third-party unit mapping
 

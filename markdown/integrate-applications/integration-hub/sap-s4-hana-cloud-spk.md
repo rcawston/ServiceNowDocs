@@ -276,5 +276,5 @@ The SAP S4HANA Public Cloud spoke provides a scheduled job, Generate Token and C
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Setup the SAP S4 HANA Public Cloud spoke](../task/setup-sap-s4hana-cloud-spk.md).
+For information about setting up the spoke, see [Setup the SAP S4 HANA Public Cloud spoke](setup-sap-s4hana-cloud-spk.md).
 

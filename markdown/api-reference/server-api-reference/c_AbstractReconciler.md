@@ -19,7 +19,7 @@ This is an abstract base class for reconciling newly discovered data in an XMLMe
 
 Most of this logic is very straightforward, but one bit may not be: the resolution of references to previously reconciled records. This feature works by collecting information while reconciling one related list, then passing that information on to the reconciler for another related list. For example, while switch partitions are being reconciled, information is gathered \(in a map instance\) that maps an interface number for a partition to the sys\_id of the partition's record in the partition table. Then later when the switchports are being reconciled, a reference to the switch partition that contains the switchport can be resolved by using this map.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## AbstractReconciler - getReconciliationField\(\)
 

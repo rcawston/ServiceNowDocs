@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-To configure the properties for the JsonArrayToArray component, see [Properties of the JSON utilities](../reference/properties-utilities-json.md).
+To configure the properties for the JsonArrayToArray component, see [Properties of the JSON utilities](properties-utilities-json.md).
 
 ## Procedure
 
@@ -123,5 +123,5 @@ Used to return an array of JObjects. Each JObject has the same set of properties
 
 ![Data preview of the JsonArrayToArray component after execution.](../image/json-arraytoarray-data-preview-rpa.png)
 
-**Parent Topic:**[JSON](../concept/json.md)
+**Parent Topic:**[JSON](json.md)
 

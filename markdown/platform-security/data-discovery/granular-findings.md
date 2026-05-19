@@ -17,7 +17,7 @@ Granular findings may be reviewed using the Granular Findings tool.
 
 ## Reviewing Granular Findings
 
-**Granular Findings** is used to review up to 500 findings from [Granular Configurations](../task/granular-configuration.md). When there are 500 findings, scanning of Granular Configurations is paused until action is taken.
+**Granular Findings** is used to review up to 500 findings from [Granular Configurations](granular-configuration.md). When there are 500 findings, scanning of Granular Configurations is paused until action is taken.
 
 <table id="table_m35_cwt_dcc"><thead><tr><th>
 

@@ -64,5 +64,5 @@ On March 22, six elements are shown. Openspace now has a non-null value so is sh
 
 ![Assignment Group elements shown on March 22](../image/element-display-mar-22.png "Assignment Group elements shown on March 22")
 
-**Parent Topic:**[Performance Analytics properties](../reference/pa-properties.md)
+**Parent Topic:**[Performance Analytics properties](pa-properties.md)
 

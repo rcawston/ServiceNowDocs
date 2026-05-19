@@ -34,5 +34,5 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 5.  Confirm your choice by selecting **Delete**.
 
 
-**Parent Topic:**[Cohort analysis in Usage Insights](../concept/uxa-cohorts.md)
+**Parent Topic:**[Cohort analysis in Usage Insights](uxa-cohorts.md)
 

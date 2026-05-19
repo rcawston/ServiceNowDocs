@@ -29,7 +29,7 @@ COE
 
 </td><td>
 
-Select the **Center of Excellence** associated with the HR case you are creating. Selecting a COE filters the choices for HR service. For more information, see [HR Centers of Excellence data model](../concept/hr-centers-of-excellence-coes.md).**Note:** You can also select an HR service first and the associated COE automatically populates.
+Select the **Center of Excellence** associated with the HR case you are creating. Selecting a COE filters the choices for HR service. For more information, see [HR Centers of Excellence data model](../hr-service-delivery/hr-centers-of-excellence-coes.md).**Note:** You can also select an HR service first and the associated COE automatically populates.
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ HR service description
 
 </td><td>
 
-Description of the HR service selected in the **HR Service** field.For more information on configuring the HR service description, see [Configure an HR service](../task/configure-hr-service.md).
+Description of the HR service selected in the **HR Service** field.For more information on configuring the HR service description, see [Configure an HR service](../hr-service-delivery/configure-hr-service.md).
 
 </td></tr><tr><td>
 

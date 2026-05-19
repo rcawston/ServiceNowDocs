@@ -15,12 +15,12 @@ breadcrumb: [CI relations formatter, CI relationships in the CMDB, Configuration
 
 On instances that do not meet the internet browser requirements for the latest CI relations formatter, the default CI form includes the legacy CI relations formatter instead.
 
-This element contains the list of related CIs and a toolbar with controls for viewing the relationships between the current CI and related CIs. For information about the latest CI relations formatter, see [CI relations formatter](../../../product/configuration-management/concept/c_CIRelationsFormatterNG.md).
+This element contains the list of related CIs and a toolbar with controls for viewing the relationships between the current CI and related CIs. For information about the latest CI relations formatter, see [CI relations formatter](c_CIRelationsFormatterNG.md).
 
 Configure the controls in this formatter with two properties that restrict varying aspects of the view:
 
 -   Select the flat layout icon \(![Flat layout icon](../image/FlatLayoutIcon.png)\) to group related CIs by relationship.
 -   Select the tree layout icon \(![Tree layout icon](../image/TreeLayoutIcon.png)\) to group related CIs in a hierarchical tree.
 
-**Parent Topic:**[CI relations formatter](../../../product/configuration-management/concept/c_CIRelationsFormatterNG.md)
+**Parent Topic:**[CI relations formatter](c_CIRelationsFormatterNG.md)
 

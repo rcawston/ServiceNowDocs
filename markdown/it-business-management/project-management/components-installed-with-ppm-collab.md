@@ -63,12 +63,12 @@ Entity Channel\[sn\_collab\_common\_entity\_channel\]
 Stores the list of IDs and names of the Slack channels that are created for the projects.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+</table>**Parent Topic:**[Using Project Management](using-project-management.md)
 
 **Related topics**  
 
 
-[Install PPM Collaboration](../task/install-ppm-collab-store-app.md)
+[Install PPM Collaboration](install-ppm-collab-store-app.md)
 
-[Collaborate with your project teams using PPM Collaboration application](../concept/ppm-collab-overview.md)
+[Collaborate with your project teams using PPM Collaboration application](ppm-collab-overview.md)
 

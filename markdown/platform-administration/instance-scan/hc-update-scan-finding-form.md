@@ -46,5 +46,5 @@ Role required: admin.
     **Note:** Select **Unmute** if you want the finding to be reported in the later scans. The **Unmute** button is visible only when you have muted a finding.
 
 
-**Parent Topic:**[Findings](../concept/hs-findings.md)
+**Parent Topic:**[Findings](hs-findings.md)
 

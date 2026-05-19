@@ -67,7 +67,7 @@ Steps
 
 3.  Compare and evaluate the relative standing of demands using the **Bubble Chart** tab.
 
-    Right-click a demand and select **Select for execution** from the context menu to include a demand in portfolio planning. For more information, see [Demand workbench bubble chart](../../planning-and-policy/concept/c_DemandWorkbenchBubbleChart.md). You can search for specific demands by applying filters using the Filter\( ![Filter icon to filter for demands](../image/filter-timeline-bubble.png)\) icon.
+    Right-click a demand and select **Select for execution** from the context menu to include a demand in portfolio planning. For more information, see [Demand workbench bubble chart](../demand-management/c_DemandWorkbenchBubbleChart.md). You can search for specific demands by applying filters using the Filter\( ![Filter icon to filter for demands](../image/filter-timeline-bubble.png)\) icon.
 
     **Note:** The **Bubble Chart** tab is not available for Multi-year Resource Capacity Based Planning configuration.
 

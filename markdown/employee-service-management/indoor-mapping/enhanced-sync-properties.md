@@ -164,7 +164,7 @@ Enables the deactivation of Indoor Mapping records as part of the sync process.Y
 You can enter multiple options by separating them with a comma.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+</table>**Parent Topic:**[Indoor Mapping references](indoor-mapping-references.md)
 
 **Previous topic:**[Floor map import group form](import-group-form.md)
 

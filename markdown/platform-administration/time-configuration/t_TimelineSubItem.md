@@ -192,5 +192,5 @@ Specify the behavior when you drag a child span. This option is available only i
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Timeline pages](../concept/c_TimelinePages.md)
+**Parent Topic:**[Timeline pages](c_TimelinePages.md)
 

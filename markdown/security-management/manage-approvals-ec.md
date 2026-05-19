@@ -55,5 +55,5 @@ Each task provides a summary including:
     Detailed audit data is available, including who approved, comments provided, actions performed. No further actions are allowed in this tab.
 
 
-**Parent Topic:**[Employee service center for Vulnerability Response](../concept/employee-center-vr-overview.md)
+**Parent Topic:**[Employee service center for Vulnerability Response](employee-center-vr-overview.md)
 

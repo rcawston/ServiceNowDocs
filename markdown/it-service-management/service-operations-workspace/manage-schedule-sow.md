@@ -35,7 +35,7 @@ You can:
 
 **Note:**
 
--   If the agent's calendar in Workforce Optimization for ITSM is integrated with their Microsoft Outlook calendar, they can view their shifts, schedules, and events such as meetings, trainings, and time-off in your Microsoft Outlook calendar. For more information, see [Synchronize agent calendar in Workforce Optimization for ITSM with the Microsoft Outlook calendar](../../configurable-workforce-optimization-itsm/concept/synchronize-microsoft-outlook-wfo-itsm.md).
+-   If the agent's calendar in Workforce Optimization for ITSM is integrated with their Microsoft Outlook calendar, they can view their shifts, schedules, and events such as meetings, trainings, and time-off in your Microsoft Outlook calendar. For more information, see [Synchronize agent calendar in Workforce Optimization for ITSM with the Microsoft Outlook calendar](../workforce-optimization-for-it-service-management/synchronize-microsoft-outlook-wfo-itsm.md).
 -   When you create an event of types meeting or training, the logged-in user will always be part of the attendees list and cannot be removed.
 
 ## Procedure
@@ -133,7 +133,7 @@ Request time off for an on-call shift
 
 </td><td>
 
-Create a new on-call time-off request or select an on-call shift for which you want to take time off.**Note:** The PTO approval preferences for each on-call group are set by your administrator. For more information, see [Configure preferences for a user group](../../../administer/on-call-scheduling/task/config-group-prefs-oncall.md).The **com.snc.on\_call\_rotation.pto.approval.required** property must be set `true`. For more information, see [System properties for On-Call Scheduling](../../../administer/on-call-scheduling/reference/on-call-properties.md).
+Create a new on-call time-off request or select an on-call shift for which you want to take time off.**Note:** The PTO approval preferences for each on-call group are set by your administrator. For more information, see [Configure preferences for a user group](../on-call-scheduling/config-group-prefs-oncall.md).The **com.snc.on\_call\_rotation.pto.approval.required** property must be set `true`. For more information, see [System properties for On-Call Scheduling](../on-call-scheduling/on-call-properties.md).
 
  To create a new request:
 
@@ -158,8 +158,8 @@ The start date and time, the end date and time, and the group are automatically 
 </td></tr></tbody>
 </table>    The shift-swap request moves to the approval queue of the agent that you’ve requested to swap with. For more information, see [Approve or reject a shift swap](approve-reject-shift-swaps-sow.md)
 
-    The time-off request moves to your manager's approval queue. For more information about approvals, go to [Track and manage your teams' schedule](../../configurable-workforce-optimization-itsm/task/approve-time-off-shift-swaps-wfo-itsm.md)
+    The time-off request moves to your manager's approval queue. For more information about approvals, go to [Track and manage your teams' schedule](../workforce-optimization-for-it-service-management/approve-time-off-shift-swaps-wfo-itsm.md)
 
 
-**Parent Topic:**[Service Operations Workspace - Scheduling](../concept/itsm-sow-workspace-scheduling.md)
+**Parent Topic:**[Service Operations Workspace - Scheduling](itsm-sow-workspace-scheduling.md)
 

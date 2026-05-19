@@ -88,7 +88,7 @@ Lists the callback tasks of type Scheduled and ASAP.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[Omnichannel Callback reference](../concept/omnichannel-callback-reference.md)
+**Parent Topic:**[Omnichannel Callback reference](omnichannel-callback-reference.md)
 
 ## Callback API role \[sn\_omni\_callback.callback\_api\]
 

@@ -25,30 +25,30 @@ The Project Workspace provides Project Managers with a comprehensive overview of
 
 |Benefit|Feature|
 |-------|-------|
-|Initiate a project and start planning your project tasks.|[Create a project and initiate project planning](../task/create-project-from-project-workspace.md)|
-|Add project tasks to your project and assign tasks directly to your team for successful project implementation.|[Create project tasks and add them to your project](../task/create-a-project-task-from-project-workspace.md)|
-|Add project task dependencies to establish a structured workflow within the project.|[Create internal dependencies for your project](../task/create-dependencies-for-project-tasks-from-project-workspace.md)|
-|Add a dependency between tasks of different projects to align timelines between interrelated projects.|[Connect tasks in different projects through external dependencies](../task/add-external-dependencies-between-projects-from-project-workspace.md)|
-|Create and compare baselines for your project to capture the project's progress over time.|[Set up a baseline for your project](../task/create-project-baselines-in-project-workspace.md)|
-|Create a status report to monitor project health, metrics, risks, issues, and milestones.|[Create a status report in Project Workspace](../task/create-a-status-report-in-project-workspace.md)|
-|Tag stakeholders for their feedback or notes and add comments to collaborate on your project.|[Collaborate with Stakeholders for your project](../task/collaborate-with-stakeholders-from-project-workspace.md)|
-|Generate a summary of selected text in Docs using Now Assist.|[Generate the summary for selected or complete content with Project doc generation and insights skill](../task/summarize-docs-genai-skill-pw.md)|
-|Generate and schedule project summary emails for your projects.|[Schedule the project insights email](../task/email-project-summary-pw.md)|
-|Add Risk, Issue, Decision, Action, or Change request to your project to track and manage the RIDAC records throughout project development.|[Add a RIDAC record to your project](../task/add-risk-project-project-workspace.md)|
-|Export your project as a PowerPoint file directly from the workspace without copying the project information in to slides.|[Export a project to Microsoft PowerPoint](../task/export-project-to-powerpoint-from-project-workspace.md)|
-|Create and track resource assignments at project or task level to optimize resource allocation throughout the project.|[Create resource assignments and initiate resources planning](../../pw-resource-management/concept/use-resource-mgmt-prj-wksp.md)|
-|Create a cost plan for the required duration to monitor your projected and actual expenses.|[Create a cost plan for your project](../../pw-financials/task/create-cost-plan-prj-wrkspc.md)|
-|Add an expense line into project cost plans to establish a comprehensive and detailed financial framework for your project.|[Add an expense line for a cost plan](../../pw-financials/task/create-expense-line-prj-wrkspc.md)|
-|Generate labor costs for attribute-based resource assignments to track expenses for your project.|[Generate labor costs for your project](../../pw-financials/task/gen-labor-costs-prj-wrkspc.md)|
-|Collaborate with team members, save notes, generate project charters, and create project briefs using Docs.|[Collaborate on projects using Docs](../task/collaborative-project-planning-with-docs.md)|
-|Secure a project to ensure only authorized users can access the project.|[Enable security for a project in Project Workspace](../task/enable-security-for-a-project-in-project-workspace.md)|
-|Configure and use playbooks in Project Workspace to guide project teams through standard project stages and activities.|[Use Playbooks in Project Workspace](../task/use-playbooks-pw.md)|
+|Initiate a project and start planning your project tasks.|[Create a project and initiate project planning](create-project-from-project-workspace.md)|
+|Add project tasks to your project and assign tasks directly to your team for successful project implementation.|[Create project tasks and add them to your project](create-a-project-task-from-project-workspace.md)|
+|Add project task dependencies to establish a structured workflow within the project.|[Create internal dependencies for your project](create-dependencies-for-project-tasks-from-project-workspace.md)|
+|Add a dependency between tasks of different projects to align timelines between interrelated projects.|[Connect tasks in different projects through external dependencies](add-external-dependencies-between-projects-from-project-workspace.md)|
+|Create and compare baselines for your project to capture the project's progress over time.|[Set up a baseline for your project](create-project-baselines-in-project-workspace.md)|
+|Create a status report to monitor project health, metrics, risks, issues, and milestones.|[Create a status report in Project Workspace](create-a-status-report-in-project-workspace.md)|
+|Tag stakeholders for their feedback or notes and add comments to collaborate on your project.|[Collaborate with Stakeholders for your project](collaborate-with-stakeholders-from-project-workspace.md)|
+|Generate a summary of selected text in Docs using Now Assist.|[Generate the summary for selected or complete content with Project doc generation and insights skill](summarize-docs-genai-skill-pw.md)|
+|Generate and schedule project summary emails for your projects.|[Schedule the project insights email](email-project-summary-pw.md)|
+|Add Risk, Issue, Decision, Action, or Change request to your project to track and manage the RIDAC records throughout project development.|[Add a RIDAC record to your project](add-risk-project-project-workspace.md)|
+|Export your project as a PowerPoint file directly from the workspace without copying the project information in to slides.|[Export a project to Microsoft PowerPoint](export-project-to-powerpoint-from-project-workspace.md)|
+|Create and track resource assignments at project or task level to optimize resource allocation throughout the project.|[Create resource assignments and initiate resources planning](use-resource-mgmt-prj-wksp.md)|
+|Create a cost plan for the required duration to monitor your projected and actual expenses.|[Create a cost plan for your project](create-cost-plan-prj-wrkspc.md)|
+|Add an expense line into project cost plans to establish a comprehensive and detailed financial framework for your project.|[Add an expense line for a cost plan](create-expense-line-prj-wrkspc.md)|
+|Generate labor costs for attribute-based resource assignments to track expenses for your project.|[Generate labor costs for your project](gen-labor-costs-prj-wrkspc.md)|
+|Collaborate with team members, save notes, generate project charters, and create project briefs using Docs.|[Collaborate on projects using Docs](collaborative-project-planning-with-docs.md)|
+|Secure a project to ensure only authorized users can access the project.|[Enable security for a project in Project Workspace](enable-security-for-a-project-in-project-workspace.md)|
+|Configure and use playbooks in Project Workspace to guide project teams through standard project stages and activities.|[Use Playbooks in Project Workspace](use-playbooks-pw.md)|
 
 -   **[Project planning in Project Workspace](project-planning-in-pw.md)**  
 Plan your projects with an intuitive Project Workspace application to achieve successful project outcomes.
--   **[Resource planning in Project Workspace](../../pw-resource-management/concept/resource-planning-in-pw.md)**  
+-   **[Resource planning in Project Workspace](resource-planning-in-pw.md)**  
 Plan and allocate resources using the Project Workspace application to enable optimal resource utilization and execution.
--   **[Financials in Project Workspace](../../pw-financials/concept/financial-planning-in-pw.md)**  
+-   **[Financials in Project Workspace](financial-planning-in-pw.md)**  
 Plan, re-forecast, track the financials, and create baselines for projects and demands.
 -   **[Status reporting in Project Workspace](status-reporting-in-pw.md)**  
 A status report in Project Workspace is a snapshot in time that gives an overview of your overall project health across key areas such as cost, resources, milestones, health, and more.
@@ -62,11 +62,11 @@ Integrate Hardware Asset Management \(HAM\) with Project Workspace to track whic
 
 [Managing projects with Project Workspace](use-projects-pw.md)
 
-[Managing financials for your projects](../../pw-financials/concept/using-financials-prj-wrkspc.md)
+[Managing financials for your projects](using-financials-prj-wrkspc.md)
 
-[Resource planning with Project Workspace](../../pw-resource-management/concept/use-resource-mgmt-prj-wksp.md)
+[Resource planning with Project Workspace](use-resource-mgmt-prj-wksp.md)
 
 [Status reporting in Project Workspace](status-reporting-in-pw.md)
 
-[Project workspace classic - Legacy](../../project-management/concept/project-workspace-classic.md)
+[Project workspace classic - Legacy](project-workspace-classic.md)
 

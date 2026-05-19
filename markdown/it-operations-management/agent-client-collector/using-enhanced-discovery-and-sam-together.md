@@ -149,7 +149,7 @@ Restart-Service osqueryd
 
 ```
 
-For details on Windows and macOS see [Configure Osqueryd schedule for SAM total usage metrics](../task/import-external-pack-file-for-sam-total-usage-metrics.md) and [Configure Osqueryd logs for SAM total usage metrics](../task/configure-osquery-logs-for-sam-total-usage-metrics.md).
+For details on Windows and macOS see [Configure Osqueryd schedule for SAM total usage metrics](import-external-pack-file-for-sam-total-usage-metrics.md) and [Configure Osqueryd logs for SAM total usage metrics](configure-osquery-logs-for-sam-total-usage-metrics.md).
 
 ## Collecting SAM metrics without osqueryd
 
@@ -172,7 +172,7 @@ Starting in ACC-VC version 2.3.0, edition information is supported for Adobe Acr
 **Related topics**  
 
 
-[Configure Osqueryd schedule for SAM total usage metrics](../task/import-external-pack-file-for-sam-total-usage-metrics.md)
+[Configure Osqueryd schedule for SAM total usage metrics](import-external-pack-file-for-sam-total-usage-metrics.md)
 
-[Configure Osqueryd logs for SAM total usage metrics](../task/configure-osquery-logs-for-sam-total-usage-metrics.md)
+[Configure Osqueryd logs for SAM total usage metrics](configure-osquery-logs-for-sam-total-usage-metrics.md)
 

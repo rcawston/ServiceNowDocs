@@ -57,7 +57,7 @@ Perform any of the following operations in the application service map.
     -   Set **Spanning tree view**: Simplify the map by organizing CIs into a tree structure and hiding some connection lines. This option is especially useful for very large maps.
     -   **Map Indicators**: Show additional information for a CI or for the application service itself by displaying related records such as alerts, outages, incidents, and problems. For each indicator that is enabled, the corresponding indicator icon appears next to CIs with associated records, and the corresponding tab appears underneath the map. If a record is associated with the application service itself, the indicator appears next to the application service name.
 
-        For information about managing map indicators, see [Create or modify map indicators](../../business-service-management-map-ng/task/t_CreateModifyNGBSMMapIndicators.md). For more general information, see [Event Management Map Indicators \(Video\)](https://www.youtube.com/watch?v=wjtpJe8J3iA).
+        For information about managing map indicators, see [Create or modify map indicators](../dependency-views/t_CreateModifyNGBSMMapIndicators.md). For more general information, see [Event Management Map Indicators \(Video\)](https://www.youtube.com/watch?v=wjtpJe8J3iA).
 
     -   **Export to PDF**: Export the map to a .PDF file which you can then share as needed. After the PDF file is ready, click ![Icon to download a PDF to your local drive.](../image/AppSerDownloadPDF.png) to download the PDF file to your local drive.
 -   View the details of a connection.
@@ -85,5 +85,5 @@ You can change the details that appear in the Properties pane by updating the fo
 **Related topics**  
 
 
-[Spanning tree view property](../reference/components-installed-app-services.md)
+[Spanning tree view property](components-installed-app-services.md)
 

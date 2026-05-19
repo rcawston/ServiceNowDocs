@@ -23,7 +23,7 @@ The following table lists the mandatory fields for the FX Currency Stage inbound
 |ISO currency code|String|Unique three-letter currency code as defined by the International Organization for Standardization \(ISO\).|
 |Name|String|Name of the currency.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

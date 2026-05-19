@@ -92,7 +92,7 @@ Option to specify the user that runs the flow. You can select the system user or
 
 6.  Add actions, subflows, and flow logic to the flow.
 
-    Add [SLA Percentage Timer actions](../reference/sla-percentage-timer-action.md) to specify what to do when a task record attached to an SLA reaches specific percentages of completion.
+    Add [SLA Percentage Timer actions](sla-percentage-timer-action.md) to specify what to do when a task record attached to an SLA reaches specific percentages of completion.
 
 7.  Test the flow.
 

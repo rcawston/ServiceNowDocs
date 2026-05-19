@@ -17,7 +17,7 @@ Integrate Operational Technology Incident Management with Industrial Process Man
 
 Industrial Process Manager creates the ISA-95 Equipment Model data foundation that is required for the ServiceNow® Operational Technology solution. When integrated with Operational Technology Incident Management, you're enabled to view incident impact against production processes.
 
-The ISA Equipment Model plugin \(sn\_isa\_model\) installed with Industrial Process Manager enables views for specified roles. For more information, see [ISA-95 equipment model](../../mftg-manufacturing-process-mgr/concept/isa-95-equipment-model.md).
+The ISA Equipment Model plugin \(sn\_isa\_model\) installed with Industrial Process Manager enables views for specified roles. For more information, see [ISA-95 equipment model](../industrial-process-manager/isa-95-equipment-model.md).
 
 When an OT incident is created from an OT device record, the following occurs:
 

@@ -23,5 +23,5 @@ Manually update your customization to include the article versioning-related cha
 
 If you have customized any of the Knowledge Management Overview dashboard reports, these files are also skipped during plugin activation and must be updated manually.
 
-**Parent Topic:**[Use article versioning](../concept/use-article-versioning_0.md)
+**Parent Topic:**[Use article versioning](use-article-versioning_0.md)
 

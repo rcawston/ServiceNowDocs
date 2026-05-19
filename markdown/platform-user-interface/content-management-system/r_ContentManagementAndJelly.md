@@ -151,14 +151,14 @@ To select only one record and not iterate through many records, the code looks l
 -   **[Content management and Jelly code examples](r_CodeExamples.md)**  
 Code examples
 
-**Parent Topic:**[Content blocks](../concept/c_ContentBlocks.md)
+**Parent Topic:**[Content blocks](c_ContentBlocks.md)
 
 **Related topics**  
 
 
-[Configure a content block](../task/t_CreateAContentBlock.md)
+[Configure a content block](t_CreateAContentBlock.md)
 
-[View CMS block tags](../task/t_CMSBlockTag.md)
+[View CMS block tags](t_CMSBlockTag.md)
 
 [Types of content blocks](r_TypesOfContentBlocks.md)
 

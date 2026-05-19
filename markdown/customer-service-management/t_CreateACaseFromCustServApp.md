@@ -17,7 +17,7 @@ Customer service agents and agent managers can create cases using the Customer S
 
 Role required: sn\_customerservice\_agent, sn\_customerservice\_manager, or admin
 
-**Note:** Apart from these roles, contributor roles also can create cases. To learn more, see [Contributor user roles](../reference/csm-contributor-user-roles.md).
+**Note:** Apart from these roles, contributor roles also can create cases. To learn more, see [Contributor user roles](csm-contributor-user-roles.md).
 
 ## Procedure
 
@@ -54,7 +54,7 @@ Navigate to **Customer Service** &gt; **Cases** &gt; **Create New**.You can also
 </td></tr></tbody>
 </table>2.  On the Create Case form, fill in the fields.
 
-    To learn more about the fields on the Case form, see [Case form](../reference/r_CustomerServiceCaseForm.md)
+    To learn more about the fields on the Case form, see [Case form](r_CustomerServiceCaseForm.md)
 
 3.  Select **Submit**.
 

@@ -58,9 +58,9 @@ Add assigned topics to internal learning content.
 
 [Create user achievements](create-user-achievements.md)
 
-[Create an achievement rule](../task/create-achievement-rule.md)
+[Create an achievement rule](create-achievement-rule.md)
 
-[Create an achievement rule item](../task/achievement-rule-item.md)
+[Create an achievement rule item](achievement-rule-item.md)
 
 [Learning internal content form](../reference/learning-internal-content-form.md)
 

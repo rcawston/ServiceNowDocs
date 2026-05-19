@@ -58,5 +58,5 @@ Role required: admin
     **Note:** If you don't want to create a manifest file, you can edit an existing manifest file as required. Upon updating the existing manifest file, you can download and upload the manifest file in Microsoft Teams to make the changes effective.
 
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](c_employee_ex_tnt.md)
 

@@ -65,12 +65,12 @@ Description
     -   The **Send Invitations** UI action is available when there is at least one recipients list or survey user for the survey.
     -   If a user is available in the **Survey Users** related list and multiple recipients lists, the survey invite is sent only once to the user.
 
-**Parent Topic:**[Survey distribution](../concept/c_SurveyDistribution.md)
+**Parent Topic:**[Survey distribution](c_SurveyDistribution.md)
 
 **Related topics**  
 
 
-[Email notifications for surveys](../concept/email-notification-for-surveys.md)
+[Email notifications for surveys](email-notification-for-surveys.md)
 
 [Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
 
@@ -80,11 +80,11 @@ Description
 
 [Enable localization for a survey](enable-localization-survey.md)
 
-[Survey URLs](../concept/c_SurveyURLs.md)
+[Survey URLs](c_SurveyURLs.md)
 
 [Create a survey module](t_CreatingASurveyModule.md)
 
-[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+[Sharing surveys](c_SurveyInportAndExport.md)
 
 [Configure a survey in the Connect chat support](take-survey-connect-chat.md)
 

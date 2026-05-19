@@ -30,9 +30,9 @@ The Now Assist for Legal Service Delivery \(LSD\) application generates an AI‑
 
 The summary is displayed above the activity stream and includes the information from the fields and variablesconfigured as inputs.![Legal matter summarization](../image/lsd-sum-matter-landing.png)
 
-For more information on the fields and variables that are considered for summarization, see [Skill inputs for Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-skill-inputs.md) and [Configure variables for Now Assist summarization](../task/configure-variables-for-now-assist-summarization.md).
+For more information on the fields and variables that are considered for summarization, see [Skill inputs for Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-skill-inputs.md) and [Configure variables for Now Assist summarization](configure-variables-for-now-assist-summarization.md).
 
-For information on activating the Legal Request summarization skill or the Legal Matter summarization skill, see [Configure Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-configuring.md). For information on how to use the skills on Legal Counsel Center, see [Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)](../task/now-assist-lsd-summarize-case.md).
+For information on activating the Legal Request summarization skill or the Legal Matter summarization skill, see [Configure Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-configuring.md). For information on how to use the skills on Legal Counsel Center, see [Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-summarize-case.md).
 
 ## Q&amp;A Genius Results
 
@@ -52,7 +52,7 @@ Instead of completing static forms, legal users can describe the COI details in 
 
 After submission, the system evaluates the COI request to determine risk. Low‑risk requests are auto‑approved, while medium‑ and high‑risk requests are routed for approval.
 
-For more information on COI application and the risk assessment, see [Legal Conflict of Interest](../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md) and [Exploring Legal Conflict of Interest](../../legal-conflict-of-interest/concept/conflict-of-interest-overview.md).
+For more information on COI application and the risk assessment, see [Legal Conflict of Interest](../legal-conflict-of-interest/legal-conflict-of-interest-landing-page.md) and [Exploring Legal Conflict of Interest](../legal-conflict-of-interest/conflict-of-interest-overview.md).
 
 You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).
 

@@ -290,5 +290,5 @@ Represents the total price of the contract line by calculating the roll-up amoun
 </td></tr></tbody>
 </table>**Note:** When a customer contract line item is created manually, the **Pricing method**, **Unit net price**, and **Periodicity** fields are invalid. They’re only applicable when the contract line is created by the Sales Customer Relationship Management workflow or by integration. In that case, these fields are auto-populated with the details from the related sold product. The start and end dates of a child customer contract line must be in between the start and end date of the associated parent customer contract line.
 
-**Parent Topic:**[Customer Contracts and Entitlements reference](../concept/pss-reference.md)
+**Parent Topic:**[Customer Contracts and Entitlements reference](pss-reference.md)
 

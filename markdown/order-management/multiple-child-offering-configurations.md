@@ -15,7 +15,7 @@ As a product catalog manager, when you define a configurable product offering, y
 
 ## How multiple configurations work
 
-When you use the Create New Product Offering form to define configurable product offerings and child product offerings, select the **Allow multiple configurations** option to enable the creation of multiple child offering configurations. For information on defining product offerings, see [Create product offerings](../task/som-create-product-offering.md).
+When you use the Create New Product Offering form to define configurable product offerings and child product offerings, select the **Allow multiple configurations** option to enable the creation of multiple child offering configurations. For information on defining product offerings, see [Create product offerings](som-create-product-offering.md).
 
 **Note:** If the configurable product has an associated product specification, the **Allow multiple configurations** option is enabled automatically and can't be unselected.
 
@@ -72,6 +72,6 @@ Multiple configurations aren’t supported for quotes of type sales agreements. 
 
 For details on enabling and creating multiple configurations for child offerings, see the following sections:
 
--   [Create product offerings](../task/som-create-product-offering.md)
--   [Create multiple configurations](../task/create-multiple-child-configs.md)
+-   [Create product offerings](som-create-product-offering.md)
+-   [Create multiple configurations](create-multiple-child-configs.md)
 

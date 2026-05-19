@@ -22,5 +22,5 @@ Admins can view and update some of the opportunity applicant information.
 |**State**|The **State** value helps to track where in the process that the applicant is for the listed opportunity.|
 |**Submission message**|A message provided by the applicant for the opportunity.|
 
-**Parent Topic:**[Reference Opportunity Marketplace roles and tables](../concept/egd-oppt-mrktplc-references.md)
+**Parent Topic:**[Reference Opportunity Marketplace roles and tables](egd-oppt-mrktplc-references.md)
 

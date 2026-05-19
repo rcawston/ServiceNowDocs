@@ -21,19 +21,19 @@ CMDB Overview
 
 <table id="table_o1d_bfj_pwb" class="nav-card"><tbody><tr><td>
 
-[Configuration Management CMDB \(CMDB\) ![](../../../reuse/icons/brand-icons/bus-siem.svg) Build, adjust, and monitor representations of your business infrastructure to support ServiceNow® products and services.](../../../product/configuration-management/concept/c_ITILConfigurationManagement.md)
+[Configuration Management CMDB \(CMDB\) ![](../../../reuse/icons/brand-icons/bus-siem.svg) Build, adjust, and monitor representations of your business infrastructure to support ServiceNow® products and services.](c_ITILConfigurationManagement.md)
 
 </td><td>
 
-[Common Service Data Model \(CSDM\) ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Get consistent modeling in the CMDB, with standardized data terminology that can be used across the entire ServiceNow AI Platform.](../../../product/csdm-implementation/concept/csdm-landing-page.md)
+[Common Service Data Model \(CSDM\) ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Get consistent modeling in the CMDB, with standardized data terminology that can be used across the entire ServiceNow AI Platform.](../common-service-data-model-csdm/csdm-landing-page.md)
 
 </td><td>
 
-[Application Services ![](../../../reuse/icons/brand-icons/bus-service-aware.svg)Create application services CIs from devices and applications that business units and different products can use.](../../../product/configuration-management/concept/application-services.md)
+[Application Services ![](../../../reuse/icons/brand-icons/bus-service-aware.svg)Create application services CIs from devices and applications that business units and different products can use.](application-services.md)
 
 </td></tr><tr><td>
 
-[Data integration ![](../../../reuse/icons/brand-icons/bus-download.svg)Use Service Graph and associated tools to populate the CMDB with data from third-parties. Convert imported data to comply with CMDB definitions and structures to ensure CMDB integrity.](../../../product/configuration-management/concept/cmdb-third-party-integrations.md)
+[Data integration ![](../../../reuse/icons/brand-icons/bus-download.svg)Use Service Graph and associated tools to populate the CMDB with data from third-parties. Convert imported data to comply with CMDB definitions and structures to ensure CMDB integrity.](cmdb-third-party-integrations.md)
 
 </td><td>
 

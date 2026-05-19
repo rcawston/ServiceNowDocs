@@ -231,7 +231,7 @@ Build Agent
 
 Build Agent is a ServiceNow AI Platform feature that is active by default.
 
-**Note:** Build Agent is dependent on Now Assist for Creator. For more information, see [Now Assist for Creator release notes](../now-platform-app-engine/now-assist-for-creator-rn.md).
+**Note:** Build Agent is dependent on Now Assist for Creator. For more information, see [Now Assist for Creator release notes](release-notes/now-assist-for-creator-rn.md).
 
 </td></tr><tr><td>
 
@@ -647,7 +647,7 @@ Enterprise Service Management Foundation
 
 </td><td>
 
-Enterprise Service Management Foundation is available in the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html). For more details on the individual products, see [Core Business Suite release notes](../core-business-suite/cbs-rn.md) and [IT Service Management release notes](../it-service-management/ai-native-it-service-desk-rn.md).
+Enterprise Service Management Foundation is available in the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html). For more details on the individual products, see [Core Business Suite release notes](release-notes/cbs-rn.md) and [IT Service Management release notes](release-notes/ai-native-it-service-desk-rn.md).
 
 </td></tr><tr><td>
 
@@ -1906,5 +1906,5 @@ Install Zero Copy Connector Hub by requesting it from the ServiceNow Store. Visi
 Zero Copy Connector Hub is also available with activation of the Zero Copy Connectors app \(sn\_data\_fabric\_zcc\), which requires a separate subscription. For details, see [Request Zero Copy Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/request-zcc.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](release-notes-summaries.md)
 

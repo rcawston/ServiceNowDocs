@@ -101,7 +101,7 @@ Install on your Workplace
 
 </td><td>
 
-Displays the default credential record to set up the Workplace from Facebook spoke. For more information, see [Set up Workplace from Facebook spoke](../task/set-up-fb-wp.md#).
+Displays the default credential record to set up the Workplace from Facebook spoke. For more information, see [Set up Workplace from Facebook spoke](set-up-fb-wp.md#).
 
 </td></tr><tr><td>
 
@@ -112,5 +112,5 @@ Groups Cache
 Displays details of the groups in Workplace from Facebook.When you click **Synchronise Cache**, the Fetch Workplace from Facebook Groups subflow is triggered and the groups details are retrieved.
 
 </td></tr></tbody>
-</table>For information about setting up the spoke, see [Set up Workplace from Facebook spoke](../task/set-up-fb-wp.md#).
+</table>For information about setting up the spoke, see [Set up Workplace from Facebook spoke](set-up-fb-wp.md#).
 

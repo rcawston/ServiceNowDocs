@@ -54,7 +54,7 @@ Configure UI policies in Table Builder to adjust how forms appear based on roles
 -   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
 -   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-Role required: personalize\_rules or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_rules or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### About this task
 
@@ -78,7 +78,7 @@ You can create and edit UI policies only for applications that you own. For more
 
 5.  On the form, fill in the fields for the Policy details section.
 
-    For more information on field definitions, see [Policies and rules properties in Table Builder](../reference/ui-policy-fields.md).
+    For more information on field definitions, see [Policies and rules properties in Table Builder](ui-policy-fields.md).
 
 6.  In the When these conditions are met section, specify the conditions that, if fulfilled, cause the UI policy to be applied using the condition builder.
 
@@ -103,7 +103,7 @@ Edit UI policies to change how forms appear based on roles and user input in Tab
 -   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
 -   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-Role required: personalize\_rules or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_rules or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### About this task
 
@@ -117,7 +117,7 @@ You can create and edit UI policies only for applications that you own. For more
 
 2.  Change the UI policy fields and attributes as needed.
 
-    For more information on field definitions, see [Policies and rules properties in Table Builder](../reference/ui-policy-fields.md).
+    For more information on field definitions, see [Policies and rules properties in Table Builder](ui-policy-fields.md).
 
 3.  Click **Update UI policy**.
 

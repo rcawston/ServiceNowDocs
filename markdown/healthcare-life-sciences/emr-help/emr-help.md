@@ -23,7 +23,7 @@ For example, a clinician might encounter an IT or healthcare-related issue while
 
 The EMR Help application integrates an EMR system with your ServiceNow instance to enable clinicians to submit service requests from within the EMR system. An equivalent record is created in your ServiceNow instance for each service request. A healthcare agent can then look into and resolve such records from your ServiceNow instance.
 
-**Note:** The healthcare case request capability can only be fulfilled for custom healthcare case types. To fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](../task/configure-hcls-case-types-for-emr-help.md).
+**Note:** The healthcare case request capability can only be fulfilled for custom healthcare case types. To fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](configure-hcls-case-types-for-emr-help.md).
 
 ## EMR Help workflow
 
@@ -107,5 +107,5 @@ To learn more about configuring and using EMR Help, see:
 -   [Configuring EMR Help](configuring-emr-help.md)
 -   [Create requests within your EMR system](creating-requests-within-your-emr.md)
 -   [Resolve EMR Help requests](resolving-emr-help-requests.md)
--   [EMR Help reference](../reference/emr-reference.md)
+-   [EMR Help reference](emr-reference.md)
 

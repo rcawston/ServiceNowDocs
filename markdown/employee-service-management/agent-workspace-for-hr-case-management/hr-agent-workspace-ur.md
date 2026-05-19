@@ -24,7 +24,7 @@ With the integration of HR Service Delivery Agent Workspace and Universal Reques
 
 A universal request gets created when an employee clicks the **Request help** option in Employee Center. A universal request routing agent analyses the issue \(as HR department related\) and creates an HR case from that universal request. After the case gets resolved by an HR agent, the state of the HR case changes to **Awaiting Acceptance**. Automatically, the state of the universal request changes to **Awaiting response**. Finally, after the employee accepts the resolution, the universal request gets closed and in turn, the HR case gets closed.
 
-At any point in time, the HR agent can [route the HR case back](../task/route-hrcase-ur-workspace.md) to the universal request queue with or without resolution.
+At any point in time, the HR agent can [route the HR case back](route-hrcase-ur-workspace.md) to the universal request queue with or without resolution.
 
 All the important details, such users who are working on the issue, inter-department transfers, and work notes, are recorded in the universal request ticket providing complete visibility to the employee who has raised the request.
 

@@ -73,5 +73,5 @@ Role required: admin
     The alert is active after you save. When a configured condition is met, you receive a notification that includes the job priority and the specific job names that breached the threshold. For example, Job X \(Priority 100\) has been pending for more than 100 minutes.
 
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](io-alerts-intro.md)
 

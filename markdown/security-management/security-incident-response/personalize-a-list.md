@@ -91,11 +91,11 @@ Role required: sn\_si.analyst
 
 [Assign Security Incidents](assign-security-incident.md)
 
-[Close multiple security incidents](../task/close-multiple-incidents-sir.md)
+[Close multiple security incidents](close-multiple-incidents-sir.md)
 
-[Assign Response Tasks](../task/assign_response_tasks.md)
+[Assign Response Tasks](assign_response_tasks.md)
 
-[Report Phish Email](../task/report-phish-email.md)
+[Report Phish Email](report-phish-email.md)
 
 [Working with quick filters](configure-quick-filters.md)
 

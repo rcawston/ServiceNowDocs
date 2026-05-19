@@ -23,7 +23,7 @@ Role required: major\_incident\_manager
 
 1.  Perform any of the following actions.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 <table id="choicetable_mzp_swn_gdb"><thead><tr><th align="left" id="d208364e78">
 
@@ -58,5 +58,5 @@ To get this behavior, you need to set the major incident management property **C
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working on major incident management](../concept/work-on-mim.md)
+**Parent Topic:**[Working on major incident management](work-on-mim.md)
 

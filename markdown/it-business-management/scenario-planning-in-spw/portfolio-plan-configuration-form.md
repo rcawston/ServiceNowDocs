@@ -150,5 +150,5 @@ Table that is used to create the portfolio plan.The value for this field is the 
 **Related topics**  
 
 
-[Create portfolio plan configuration for high-level planning](../task/create-portfolio-plan-configuration-for-high-level-planning.md)
+[Create portfolio plan configuration for high-level planning](create-portfolio-plan-configuration-for-high-level-planning.md)
 

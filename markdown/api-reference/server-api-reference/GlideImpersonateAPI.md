@@ -19,7 +19,7 @@ Use this API when you need to act as another user so to test functionality withi
 
 **Note:** The system records anything the administrator does while impersonating another user as having been done by that user.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideImpersonate - canDebug\(String userSysId\)
 

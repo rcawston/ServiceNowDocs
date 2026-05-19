@@ -64,5 +64,5 @@ Role required: sn\_process\_mining\_admin
     For detailed information, see [Integration Hub - Import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub-imports.md).
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](external-dataset.md)
 

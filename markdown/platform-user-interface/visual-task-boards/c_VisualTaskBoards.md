@@ -29,7 +29,7 @@ Overview of Visual Task Boards
 
 </td><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-manage.svg)Activate Visual Task Boards.](../task/t_ActivateVisualTaskBoards.md)
+[Activate![](../../../reuse/icons/brand-icons/bus-manage.svg)Activate Visual Task Boards.](t_ActivateVisualTaskBoards.md)
 
 </td></tr><tr><td>
 

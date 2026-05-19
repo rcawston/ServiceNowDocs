@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-A cloud account is the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account. See [Cloud accounts](../../cloud-management-v2/concept/cloud-accounts.md) for detailed information.
+A cloud account is the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account. See [Cloud accounts](cloud-accounts.md) for detailed information.
 
 ## Procedure
 
@@ -65,5 +65,5 @@ A cloud account is the logical representation in Cloud Provisioning and Governan
 
 Repeat the process to create additional cloud accounts as needed. Run Discovery and set capacity limits for each datacenter.
 
-**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](../concept/cloud-mgt-general-setup-day-2.md)
+**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](cloud-mgt-general-setup-day-2.md)
 

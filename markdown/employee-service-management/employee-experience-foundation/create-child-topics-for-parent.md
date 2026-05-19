@@ -33,7 +33,7 @@ User criteria required: Taxonomy Manager, Taxonomy Contributor, Topic Manager, T
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields and description, see [Topic form](../reference/topic-form.md).
+    For more information on the fields and description, see [Topic form](topic-form.md).
 
 5.  Click **Submit**.
 

@@ -66,7 +66,7 @@ Description
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo-using.md)
+**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-using.md)
 
 **Related topics**  
 
@@ -75,7 +75,7 @@ Description
 
 [Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](now-assist-spo-summarize-shopping.md)
 
-[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](../concept/now-assist-spo-va-using.md)
+[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](now-assist-spo-va-using.md)
 
 [Generate email responses](email-response-na-spo.md)
 

@@ -38,14 +38,14 @@ The Contract rate card form enables you to generate expense lines for recurring 
 |Tax cost|Total cost of the tax.|
 |Total cost|Final cost of the rate card after adjustments such as taxes have been applied.|
 
-**Parent Topic:**[Create a contract rate card](../task/t_ContractRateCardsAndExpenseLines.md)
+**Parent Topic:**[Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
 
 **Related topics**  
 
 
-[Create a new expense line](../task/t_CreatingANewExpenseLine.md)
+[Create a new expense line](t_CreatingANewExpenseLine.md)
 
-[Generating expense lines based on assets or users](../task/t_GenExpnsLinOnAssetsUsers.md)
+[Generating expense lines based on assets or users](t_GenExpnsLinOnAssetsUsers.md)
 
-[View contract expense lines](../task/t_ViewingContractExpenseLines.md)
+[View contract expense lines](t_ViewingContractExpenseLines.md)
 

@@ -47,7 +47,7 @@ Role required: sn\_cmp.cloud\_service\_user
         -   Change requests that are associated with the stack. See [Track a change request](cloudmgt-track-change-request.md).
         -   Incidents that were raised for the stack. See [Submit an incident for a stack](cloudmgt-submit-incident.md) and [Track an incident](cloudmgt-track-incident.md).
         -   Cloud events that are associated with the stack. Cloud Events appears only when a resource is selected. See [View cloud events](cloudmgt-view-cloud-events.md).
-        -   Catalog tasks associated with the stack. See [Resubmit a failed stack request](../../cloud-management-v2/task/resubmit-failed-request.md).
+        -   Catalog tasks associated with the stack. See [Resubmit a failed stack request](resubmit-failed-request.md).
         -   Upcoming business hours schedule operations associated with the stack. You can skip an upcoming operation or cancel a schedule associated with the stack. See [Modify business schedule operations for a stack](cloudmgmt-modify-business-schedule.md).
     -   Operations you can perform on a stack. See [Perform a life-cycle operation on a stack or resource](cloudmgt-lifecycle-operation.md).
     -   Text box used to search the Cloud User Portal for stacks, resources based on types, stack requests, change requests, incidents, keys, and catalog items.

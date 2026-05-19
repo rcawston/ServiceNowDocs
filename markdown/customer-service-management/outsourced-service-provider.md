@@ -44,5 +44,5 @@ Activating the Outsourced Service Provider plugin adds the Outsourced Customer S
 
 [Outsourced Service Provider manager tasks](osp-manager-tasks.md)
 
-[Roles for Outsourced Customer Service](../reference/roles-ocs.md)
+[Roles for Outsourced Customer Service](roles-ocs.md)
 

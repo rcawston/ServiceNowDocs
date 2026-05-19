@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The Scheduled extraction form in Zero Copy Connector for ERP \(Enterprise Resource Planning\) enables you to create and edit jobs to extract data at regular intervals.
 
-For process details, see [Create a scheduled extraction in Zero Copy Connector for ERP](../task/erpc-create-a-scheduled-extraction.md).
+For process details, see [Create a scheduled extraction in Zero Copy Connector for ERP](erpc-create-a-scheduled-extraction.md).
 
 <table id="table_rgs_xr5_bdc"><thead><tr><th>
 
@@ -72,7 +72,7 @@ Maximum no of retries on error
 
 </td><td>
 
-If the job fails, set the maximum number of retries \(from 0 through 10\) the scheduled job should attempt before stopping.**Note:** Each retry uses the same query and retries the entire job. For example, if the total job contains 5000 records and the job fails after 2000 records are successfully processed, the entire job runs again on the next retry. For more information, see [Import sets key concepts](../../../administer/import-sets/concept/c_ImportSetsKeyConcepts.md).
+If the job fails, set the maximum number of retries \(from 0 through 10\) the scheduled job should attempt before stopping.**Note:** Each retry uses the same query and retries the entire job. For example, if the total job contains 5000 records and the job fails after 2000 records are successfully processed, the entire job runs again on the next retry. For more information, see [Import sets key concepts](../system-import-sets/c_ImportSetsKeyConcepts.md).
 
 </td></tr><tr><td>
 

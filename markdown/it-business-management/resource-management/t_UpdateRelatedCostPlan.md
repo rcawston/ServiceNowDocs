@@ -46,7 +46,7 @@ The cost plan associated to the resource plan is updated as follows:
 
 Cost from resource plan will be interfaced to the unit\_cost field on the Cost Plan \[cost\_plan\] table.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -81,7 +81,7 @@ Cost from resource plan will be interfaced to the unit\_cost field on the Cost P
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

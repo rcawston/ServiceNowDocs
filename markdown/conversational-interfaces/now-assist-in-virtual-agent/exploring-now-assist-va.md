@@ -16,9 +16,9 @@ breadcrumb: [Now Assist in Virtual Agent, Conversational Interfaces]
 
 Now Assist in Virtual Agent uses large language models \(LLMs\) and generative AI skills to improve deflection rates and reduce the amount of time-consuming work that Natural Language Understanding \(NLU\) topic discovery requires.
 
-Now Assist capabilities bring generative AI to Virtual Agent. Using LLMs for topic discovery simplifies the amount of setup and configuration required for Virtual Agent. Topics that use keyword and Natural Language Understanding \(NLU\) discovery often require months of development and the involvement of dedicated subject matter experts. Unusual issues or questions may lead a user to contact a live agent instead. You can continue to use your existing NLU topics and migrate them into new LLM topics using the topic migration feature within Virtual Agent Designer. For more information on topic migration, see [Migrating NLU/keyword Virtual Agent topics to LLM topics](../../virtual-agent/concept/llm-topic-migration.md).
+Now Assist capabilities bring generative AI to Virtual Agent. Using LLMs for topic discovery simplifies the amount of setup and configuration required for Virtual Agent. Topics that use keyword and Natural Language Understanding \(NLU\) discovery often require months of development and the involvement of dedicated subject matter experts. Unusual issues or questions may lead a user to contact a live agent instead. You can continue to use your existing NLU topics and migrate them into new LLM topics using the topic migration feature within Virtual Agent Designer. For more information on topic migration, see [Migrating NLU/keyword Virtual Agent topics to LLM topics](../virtual-agent/llm-topic-migration.md).
 
-Use the guided setup to configure Now Assist in Virtual Agent in a few minutes. No expertise is necessary to launch the experience. For more information, see [Configuring assistants overview](../task/configure-now-assist-va.md).
+Use the guided setup to configure Now Assist in Virtual Agent in a few minutes. No expertise is necessary to launch the experience. For more information, see [Configuring assistants overview](configure-now-assist-va.md).
 
 Now Assist in Virtual Agent is available through portals on the chat widget, the mobile app, and Microsoft Teams.
 
@@ -36,11 +36,11 @@ Now Assist in Virtual Agent shows users the best possible answer to a query, in 
 
 Now Assist in Virtual Agent also gives users access to available options in the Service Catalog. Users can request an item, such as a mobile phone. The user can then provide more information to refine the search. For example, they may refine their request to a blue 256-GB iPhone. They can even request a new item instead, all in the same conversation, and the generative AI creates its responses using natural language.
 
-For full catalog functionality in the chat window, enable the generative AI experience for catalog item request submissions. For more information, see [Configure Now Assist in Conversational Catalog Request](../task/configure-gen-ai-catalog-item.md).
+For full catalog functionality in the chat window, enable the generative AI experience for catalog item request submissions. For more information, see [Configure Now Assist in Conversational Catalog Request](configure-gen-ai-catalog-item.md).
 
 ## LLM topic creation
 
-Admins can create LLM topics for Now Assist in Virtual Agent. For more information, see [LLM assistants](llm-assistants.md). Activate the Now Assist Topics skill in the Now Assist guided setup. For more information, see [Configuring assistants overview](../task/configure-now-assist-va.md).
+Admins can create LLM topics for Now Assist in Virtual Agent. For more information, see [LLM assistants](llm-assistants.md). Activate the Now Assist Topics skill in the Now Assist guided setup. For more information, see [Configuring assistants overview](configure-now-assist-va.md).
 
 For more examples of having a conversation with Now Assist in Virtual Agent, see [Using Now Assist in Virtual Agent](using-now-assist-in-va.md).
 
@@ -52,12 +52,12 @@ Now Assist in Virtual Agent provides the following benefits.
 
 |Benefit|Feature|User|
 |-------|-------|----|
-|Configure Now Assist in Virtual Agent in a few minutes, from either the Conversational Interfaces console or the Now Assist Admin console.|[Guided setup experience](../task/configure-now-assist-va.md)|virtual\_agent\_admin or admin|
+|Configure Now Assist in Virtual Agent in a few minutes, from either the Conversational Interfaces console or the Now Assist Admin console.|[Guided setup experience](configure-now-assist-va.md)|virtual\_agent\_admin or admin|
 |Now Assist skills can be turned on within the guided setup.|[Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md)|virtual\_agent\_admin or admin|
-|Deploy Now Assist in Virtual Agent on multiple portals using the chat widget, the mobile app, and Microsoft Teams.|[Configuring assistants overview](../task/configure-now-assist-va.md)|virtual\_agent\_admin or admin|
+|Deploy Now Assist in Virtual Agent on multiple portals using the chat widget, the mobile app, and Microsoft Teams.|[Configuring assistants overview](configure-now-assist-va.md)|virtual\_agent\_admin or admin|
 |Generative AI enhances the user search experience with the ability to generate answers and enabling the user to select the **Show more results** option for a new search.|[Now Assist Q&amp;A Genius Results skill](using-now-assist-in-va.md)|requesters|
 |Give users in-chat access to available options in the Service Catalog.|[Now Assist Multi-Turn Catalog Ordering skill](using-now-assist-in-va.md)|requesters|
 |Now Assist lets Virtual Agent switch easily between requests, using plain language when new queries are made in the same conversation.|[Mid-topic switching during Now Assist in Virtual Agent conversations](intent-switching-na-va.md)|requesters|
-|Monitor performance metrics for Now Assist in Virtual Agent from the Conversational Interfaces console.|[Conversational Interfaces console](../../conversational-interfaces/concept/exploring-ci.md)|virtual\_agent\_admin or admin|
+|Monitor performance metrics for Now Assist in Virtual Agent from the Conversational Interfaces console.|[Conversational Interfaces console](../exploring-ci.md)|virtual\_agent\_admin or admin|
 |Monitor value metrics \(Now Assist usage versus Now Assist in Virtual Agent\) from the Now Assist Admin console.|[Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md)|virtual\_agent\_admin or admin|
 

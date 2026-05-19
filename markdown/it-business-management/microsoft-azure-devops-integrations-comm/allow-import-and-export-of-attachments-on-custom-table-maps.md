@@ -36,5 +36,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](../reference/customizing-map-config-agile-azure.md)
+**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](customizing-map-config-agile-azure.md)
 

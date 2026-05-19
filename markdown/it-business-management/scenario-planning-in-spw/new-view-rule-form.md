@@ -64,5 +64,5 @@ Select one of the following:-   APW Default
 **Related topics**  
 
 
-[Create workspace view rules for new planning item forms in Strategic Planning](../task/create-workspace-view-rules-for-planning-item-tables.md)
+[Create workspace view rules for new planning item forms in Strategic Planning](create-workspace-view-rules-for-planning-item-tables.md)
 

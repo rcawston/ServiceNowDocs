@@ -50,7 +50,7 @@ The UI Builder agent provides the following features:
     This feature enables you to modify and enhance your page. You can apply different layouts, such as a single row or a three-column format. You can add and configure components, such as buttons with labels and links that direct users to external websites. You can also update the styling of your page, such as changing the background color.
 
 
-To configure the features, see [Configure UI Builder Agent](../task/configure-ui-builder-agent.md#). To use the features, see [Using UI Builder agent](using-ui-builder-agent.md#).
+To configure the features, see [Configure UI Builder Agent](configure-ui-builder-agent.md#). To use the features, see [Using UI Builder agent](using-ui-builder-agent.md#).
 
 ## Activation overview
 

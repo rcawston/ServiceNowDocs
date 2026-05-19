@@ -111,7 +111,7 @@ For more information about Now Assist AI agents and their capabilities, refer to
 
 ## User personas
 
-If you're a playbook author and want to configure activities to be performed by AI agents, see [Configuring Agentic Playbooks](../task/configure-agentic-playbooks.md).
+If you're a playbook author and want to configure activities to be performed by AI agents, see [Configuring Agentic Playbooks](configure-agentic-playbooks.md).
 
-If you're an agent running a playbook, see [Using Agentic Playbooks](../task/running-agentic-activities.md).
+If you're an agent running a playbook, see [Using Agentic Playbooks](running-agentic-activities.md).
 

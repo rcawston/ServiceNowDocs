@@ -96,7 +96,7 @@ Event\[sn\_wsd\_rsvsync\_event\]
 
 </td><td>
 
-Store information about all the events that are created in the application. Events are created for actions such as create, read, update or delete.**Note:** If **WSD: Archive old workplace tasks** archival rule is applied then Event \[sn\_wsd\_rsvsync\_event\] table is also archived. For more information, see [Apply the archive rule](../../workplace-service-delivery/task/wsd-tables-purge-policy.md).
+Store information about all the events that are created in the application. Events are created for actions such as create, read, update or delete.**Note:** If **WSD: Archive old workplace tasks** archival rule is applied then Event \[sn\_wsd\_rsvsync\_event\] table is also archived. For more information, see [Apply the archive rule](../workplace-core/wsd-tables-purge-policy.md).
 
 </td></tr><tr><td>
 

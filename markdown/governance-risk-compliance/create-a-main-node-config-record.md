@@ -25,15 +25,15 @@ Role required: sn\_grc\_rel\_config.admin
 
 3.  On the form, fill in the fields.
 
-    For information on the fields in the form, see [Main node configuration new record form](../reference/main-node-configuration-form.md).
+    For information on the fields in the form, see [Main node configuration new record form](main-node-configuration-form.md).
 
 4.  Select **Submit**.
 
     The main node configuration record is displayed in the Main node configurations list.
 
 
--   **[Main node configuration new record form](../reference/main-node-configuration-form.md)**  
+-   **[Main node configuration new record form](main-node-configuration-form.md)**  
 Use the Main node configuration new record form to create a main node configuration record in the Data Relationships Framework.
 
-**Parent Topic:**[Data Relationships Framework](../concept/data-relationship-framework.md)
+**Parent Topic:**[Data Relationships Framework](data-relationship-framework.md)
 

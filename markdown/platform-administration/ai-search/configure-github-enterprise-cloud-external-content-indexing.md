@@ -139,5 +139,5 @@ Your connector admin needs these items to configure a GitHub Enterprise Cloud ex
 
 For details on creating and configuring a GitHub Enterprise Cloud external content connector, see [Create a GitHub Enterprise Cloud external content connector](create-ext-cont-connector-github-enterprise-cloud.md).
 
-**Parent Topic:**[GitHub Enterprise Cloud external content connector](../concept/github-enterprise-cloud-external-content-connector.md)
+**Parent Topic:**[GitHub Enterprise Cloud external content connector](github-enterprise-cloud-external-content-connector.md)
 

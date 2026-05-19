@@ -55,5 +55,5 @@ Journey designer plan configuration owners can change or create task templates f
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Journey designer plan configuration owners](../concept/jny-dsgnr-owner-role-and-responsibility.md)
+**Parent Topic:**[Journey designer plan configuration owners](jny-dsgnr-owner-role-and-responsibility.md)
 

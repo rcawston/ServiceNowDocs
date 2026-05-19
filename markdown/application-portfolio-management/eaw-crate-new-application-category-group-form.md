@@ -23,7 +23,7 @@ Create an application category group or edit an existing one to align it with yo
 **Related topics**  
 
 
-[Manage application category groups](../../concept/eaw-concept/eaw-configure-application-category-groups.md)
+[Manage application category groups](eaw-configure-application-category-groups.md)
 
-[Add or edit an application category group](../../task/eaw-task/eaw-create-app-cat-grp.md)
+[Add or edit an application category group](eaw-create-app-cat-grp.md)
 

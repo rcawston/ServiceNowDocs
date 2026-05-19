@@ -109,10 +109,10 @@ Role required: admin
     From the automated tests created, you can view all the users who have used that record or incident. Although the tests steps here are similar to the other test steps, the initial validation is done for the fields on the form. Also, for every mandatory field, a value is set based on the sample data. It also validates after every mandatory step. Once you submit, it does a final record validation.
 
 
-**Parent Topic:**[Operating ATF Test Generator and Cloud Runner](../concept/atf-tg-cr-operate.md)
+**Parent Topic:**[Operating ATF Test Generator and Cloud Runner](atf-tg-cr-operate.md)
 
 **Related topics**  
 
 
-[Tests generation for flow and flow logic](../concept/atf-tg-cr-sc-flow.md)
+[Tests generation for flow and flow logic](atf-tg-cr-sc-flow.md)
 

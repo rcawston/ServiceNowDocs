@@ -50,7 +50,7 @@ The following image illustrates a Risk form.![Risk rank and risk value in the Ri
 
 3.  On the risk value matcher form, fill in the fields.
 
-    For a description of the field names, see [Risk value matcher form](../reference/risk-value-matcher-form.md).
+    For a description of the field names, see [Risk value matcher form](risk-value-matcher-form.md).
 
 4.  Select **Submit**.
 

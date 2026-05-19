@@ -20,5 +20,5 @@ Several types of components are installed with activation of the SPM Benchmarks 
 -   **[SPM Benchmarks KPIs](spm-benchmarking-kpis.md)**  
 The Strategic Portfolio Management KPIs are performance analytic indicators that collect the usage count data. Strategic, Alignment, and Execution KPIs are available by default in the SPM Benchmarks application.
 
-**Parent Topic:**[SPM Benchmarks](../concept/benchmarks-for-spm.md)
+**Parent Topic:**[SPM Benchmarks](benchmarks-for-spm.md)
 

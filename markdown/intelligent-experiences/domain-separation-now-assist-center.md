@@ -62,7 +62,7 @@ The following domain-separated fields are supported:
 
 [Components installed with Now Assist Center](components-installed-with-now-assist-center.md)
 
-[Now Assist Center glossary](../concept/now-assist-center-glossary.md#)
+[Now Assist Center glossary](now-assist-center-glossary.md#)
 
 [Now Assist Center roles](now-assist-center-roles.md#)
 

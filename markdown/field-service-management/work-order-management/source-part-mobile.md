@@ -83,5 +83,5 @@ Do this
 </table>
 ## What to do next
 
-You can pickup parts from your peer agents for the part request. For more information, see [Pick up a part to complete tasks](../concept/picking-up-parts.md#) and [Pick up a part to complete tasks](../concept/picking-up-parts.md#).
+You can pickup parts from your peer agents for the part request. For more information, see [Pick up a part to complete tasks](picking-up-parts.md#) and [Pick up a part to complete tasks](picking-up-parts.md#).
 

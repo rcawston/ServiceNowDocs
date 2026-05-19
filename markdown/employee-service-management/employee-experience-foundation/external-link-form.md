@@ -19,7 +19,7 @@ Use the External Link form to create an external link.
 |-----|-----------|
 |Title|Title for the external link.|
 |Short description|Short description for the external link.|
-|URL|URL of the external link; for more information, see[Create an external link](../task/create-external-links.md)|
+|URL|URL of the external link; for more information, see[Create an external link](create-external-links.md)|
 
 **Parent Topic:**[Employee Center reference](emp-center-reference.md)
 
@@ -36,7 +36,7 @@ Use the External Link form to create an external link.
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

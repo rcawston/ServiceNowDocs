@@ -94,7 +94,7 @@ The ITAM-SPO better together feature supports the following applications and flo
     -   Hardware, Software, and Enterprise Asset Standard Flows
     -   Hardware and Enterprise Inventory Stock Orders
 
--   **[Create Sourcing Request or Purchase Requisition in SPO via ITAM Workspace](../task/spo-itam-submit-requests.md)**  
+-   **[Create Sourcing Request or Purchase Requisition in SPO via ITAM Workspace](spo-itam-submit-requests.md)**  
 As an Asset Manager, you can create an SR or PR in SPO from the ITAM Workspace to fulfill IT and asset requests submitted through Employee Center.
 -   **[Receiving assets in IT Asset Management](itam-spo-receiving-assets.md)**  
 As part of the Better Together integration, all asset receiving is handled within IT Asset Management \(ITAM\). When an item is initially received in ITAM, a receipt is automatically generated in SPO in the Pending Submission state.
@@ -122,7 +122,7 @@ This section provides information on considerations for implementing the ITAM-SP
 
 [Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [SpendInt APIs](spendint-api.md)
 

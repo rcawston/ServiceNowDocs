@@ -156,7 +156,7 @@ Secondary teams
 The secondary team that will support the account.
 
 </td></tr></tbody>
-</table>To return to the procedure, see [Request a cloud account](../task/request-account.md).
+</table>To return to the procedure, see [Request a cloud account](request-account.md).
 
 **Parent Topic:**[Cloud Account Management reference](cam-reference.md)
 

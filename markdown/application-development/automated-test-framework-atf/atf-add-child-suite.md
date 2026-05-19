@@ -36,5 +36,5 @@ Role required: atf\_test\_admin or atf\_test\_designer
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Building and running automated test suites](../concept/atf-suites-overview.md)
+**Parent Topic:**[Building and running automated test suites](atf-suites-overview.md)
 

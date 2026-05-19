@@ -86,5 +86,5 @@ Verify that your custom images use the desired colors and meet your branding req
 
 If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
 
-**Parent Topic:**[Modal illustrations in Theme Builder](../concept/modals-in-tb.md)
+**Parent Topic:**[Modal illustrations in Theme Builder](modals-in-tb.md)
 

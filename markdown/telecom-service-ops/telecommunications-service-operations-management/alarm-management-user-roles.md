@@ -62,7 +62,7 @@ Role that enables with the following permissions:-   Create and read access to t
 **Related topics**  
 
 
-[External event management via Telecommunications API notifications](../concept/telecommunications-api-notification.md)
+[External event management via Telecommunications API notifications](telecommunications-api-notification.md)
 
-[Configuring Telecommunications API notifications](../concept/configuring-telecommunications-api-notifications.md)
+[Configuring Telecommunications API notifications](configuring-telecommunications-api-notifications.md)
 

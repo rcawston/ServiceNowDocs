@@ -54,10 +54,10 @@ if (gr.next()){
 
 ```
 
-**Parent Topic:**[Managing system events](../../platform-events/concept/managing-system-events.md)
+**Parent Topic:**[Managing system events](managing-system-events.md)
 
 **Related topics**  
 
 
-[Scripting for email notifications](../../../script/server-scripting/concept/c_ScriptingForEmailNotifications.md)
+[Scripting for email notifications](../c_ScriptingForEmailNotifications.md)
 

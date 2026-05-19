@@ -17,7 +17,7 @@ A comparison of the features available on the Knowledge Management v3 homepage a
 
 **Note:**
 
-Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](../concept/knowledge-service-portal-pages.md).
+Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](knowledge-service-portal-pages.md).
 
 <table id="table_vm4_vf5_d1b"><thead><tr><th>
 
@@ -677,7 +677,7 @@ Y
 **Related topics**  
 
 
-[Import a Word document to a knowledge base](../task/import-word-platform.md)
+[Import a Word document to a knowledge base](import-word-platform.md)
 
-[Import a Word document to a knowledge base using Knowledge Management v3](../task/t_ImportADocument.md)
+[Import a Word document to a knowledge base using Knowledge Management v3](t_ImportADocument.md)
 

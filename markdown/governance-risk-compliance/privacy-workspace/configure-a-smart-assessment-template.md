@@ -115,5 +115,5 @@ Domain of the configuration. When accessed from the Privacy Workspace, this fiel
     A new tab titled Sections appears that contains the questionnaire that is fetched from the Smart Assessment Engine.
 
 
-**Parent Topic:**[Configuring Privacy Management](../concept/configure-privacy-mgmt.md)
+**Parent Topic:**[Configuring Privacy Management](configure-privacy-mgmt.md)
 

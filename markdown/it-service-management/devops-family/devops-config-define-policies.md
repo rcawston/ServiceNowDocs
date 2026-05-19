@@ -39,7 +39,7 @@ You can use or customize default DevOps Config policies to validate that your co
 **Related topics**  
 
 
-[Default DevOps Config policies](../reference/devops-config-default-policies.md)
+[Default DevOps Config policies](devops-config-default-policies.md)
 
 [How to write and test custom PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/pace-write-test-policies.md)
 

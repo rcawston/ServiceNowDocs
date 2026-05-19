@@ -22,7 +22,7 @@ Ensure that you have performed the following tasks:
 1.  [Create keys and certificates](create-keys-and-certificates.md)
 2.  [Install the .pem file in the MID unified keystore and set up the MID Web Server](set-mid-web-server.md)
 3.  [Connect the agent to the MID Web Server using TLS](agent-mid-connect.md)
-4.  [Configure mTLS authentication for a MID Web Server](../../event-management/task/configure-mid-web-server-extension-mTLS.md)
+4.  [Configure mTLS authentication for a MID Web Server](configure-mid-web-server-extension-mTLS.md)
 5.  [Connect the agent to the MID Server using mTLS](enable-tls-agent.md)
 
 Role required: agent\_client\_collector\_admin
@@ -110,5 +110,5 @@ Role required: agent\_client\_collector\_admin
 **Related topics**  
 
 
-[MID Web Server and agent mTLS Authentication](../../event-management/concept/mid-web-server-mTLS-authentication.md)
+[MID Web Server and agent mTLS Authentication](mid-web-server-mTLS-authentication.md)
 

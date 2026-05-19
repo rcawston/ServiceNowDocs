@@ -98,5 +98,5 @@ If an asset is selected as Visible, it appears whenever the **Show me everything
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+</table>**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 

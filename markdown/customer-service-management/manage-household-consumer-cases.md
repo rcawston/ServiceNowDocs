@@ -64,7 +64,7 @@ Select a household in the **Household** field. -   If the household only has onl
 
 
 </td></tr></tbody>
-</table>4.  Fill in the remaining fields on the [Case form](../reference/r_CustomerServiceCaseForm.md).
+</table>4.  Fill in the remaining fields on the [Case form](r_CustomerServiceCaseForm.md).
 
 5.  If desired, add other members of the household to the watch list.
 
@@ -78,5 +78,5 @@ Select a household in the **Household** field. -   If the household only has onl
 **Related topics**  
 
 
-[Service Model Foundation cases](../reference/industry-data-model-cases.md)
+[Service Model Foundation cases](industry-data-model-cases.md)
 

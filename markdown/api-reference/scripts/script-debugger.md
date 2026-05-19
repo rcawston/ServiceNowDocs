@@ -64,15 +64,15 @@ To view debug logs, see [Display debugging logs](c_SessionDebug.md#).
 
 **Note:** When the Script Debugger is enabled, code is executed in interpreted mode. If parts of the script are set to run in strict mode, the debugger is not able to find the correct objects and the debugger fails. The Script Debugger must run on scripts outside of strict mode.
 
--   **[Access the Script Debugger](../task/launch-script-debugger.md)**  
+-   **[Access the Script Debugger](launch-script-debugger.md)**  
 Developers can access the Script Debugger from the application navigator, Studio, or from the syntax editor.
--   **[Script Debugger user interface](../reference/parts-script-debugger-interface.md)**  
+-   **[Script Debugger user interface](parts-script-debugger-interface.md)**  
 The Script Debugger user interface \(UI\) displays information about breakpoints set, the call stack and line number of the currently executing script line, details about variables and transactions, and status of console.
--   **[Evaluate expressions in runtime using Console](../task/evaluate-expressions.md)**  
+-   **[Evaluate expressions in runtime using Console](evaluate-expressions.md)**  
 Define, declare, and verify new variables and functions while you debug a script in runtime using Console. The script execution must be paused to use Console.
--   **[Set or remove breakpoints](../task/set-remove-breakpoints.md)**  
+-   **[Set or remove breakpoints](set-remove-breakpoints.md)**  
 Set breakpoints or conditional breakpoints to pause scripts at specific lines, and remove breakpoints when you are done debugging them.
--   **[Set or remove logpoints](../task/set-remove-logpts.md)**  
+-   **[Set or remove logpoints](set-remove-logpts.md)**  
 Set breakpoints or conditional logpoints to log messages to the console at specific lines, and remove logpoints when you are done debugging them.
 -   **[Script Debugger multiple developer support](multiple-developer-support.md)**  
 The Script Debugger allows multiple developers to debug their own transactions without affecting each other.

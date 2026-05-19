@@ -48,5 +48,5 @@ You can customize the Project and Demand portions of a teamspace without affecti
 **Related topics**  
 
 
-[Activate teamspaces](../task/t_ActivateTeamspaces.md)
+[Activate teamspaces](t_ActivateTeamspaces.md)
 

@@ -61,5 +61,5 @@ You can add one or more labels to a task card.
 
 You can use configuration options to [rename or disable](t_ConfigureLabels.md) labels or to [hide](t_ConfigureTheTaskBoard.md#table_i5s_xfv_1r) labels altogether.
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](r_TaskCards.md)
 

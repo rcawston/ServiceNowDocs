@@ -91,15 +91,15 @@ The following sample use cases provide examples on how you can use Customer Enga
     For example, during a renewal or check-in, the workflow suggests relevant upgrades or add-ons, and prompts the agent to present these offers to the customer.
 
 
--   **[Create a customer engagement sequence](../task/create-customer-engagement-sequence.md)**  
+-   **[Create a customer engagement sequence](create-customer-engagement-sequence.md)**  
 Drive personalized outreach by creating customer engagement sequences that automate timely, relevant interactions that are ideal for nurturing leads, onboarding clients, or re-engaging inactive customers.
--   **[Review sequences in Workflow Studio](../task/view-sequence-design-time.md)**  
+-   **[Review sequences in Workflow Studio](view-sequence-design-time.md)**  
 Review sequences in Workflow Studio so you can suggest optimizations and share high-performing sequences across territories to promote best practices across the organization.
--   **[View sequence tasks](../task/view-sequence-tasks.md)**  
+-   **[View sequence tasks](view-sequence-tasks.md)**  
 View sequence tasks assigned to you from the CSM Configurable Workspace.
--   **[Complete predefined customer engagement tasks](../task/execute-sequence-steps.md)**  
+-   **[Complete predefined customer engagement tasks](execute-sequence-steps.md)**  
 Execute predefined sequence steps in your sequence tasks in the CSM Configurable Workspace to engage with your prospective customers.
--   **[Fulfill a telesales sequence](../task/complete-telesales-sequences.md)**  
+-   **[Fulfill a telesales sequence](complete-telesales-sequences.md)**  
 Connect with leads or customers using the click-to-call outbound calling capability in telesales flows.
 
 **Parent Topic:**[Using lead and opportunity management applications](using-lead-opportunity-mgt.md)

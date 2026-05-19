@@ -42,5 +42,5 @@ Case Reports provide a structured way to document and present intelligence tied 
     **Note:** You can also preview the report before sharing.
 
 
-**Parent Topic:**[Working with Reports in TISC](../concept/tisc-reports-lib-view.md)
+**Parent Topic:**[Working with Reports in TISC](tisc-reports-lib-view.md)
 

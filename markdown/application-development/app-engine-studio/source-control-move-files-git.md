@@ -51,7 +51,7 @@ Linking an application to source control generates a properties text file called
 
 ## What to do next
 
-Login to your instance and perform [Source control operations in App Engine Studio](../reference/source-control-operations.md) from App Engine Studio.
+Login to your instance and perform [Source control operations in App Engine Studio](source-control-operations.md) from App Engine Studio.
 
-**Parent Topic:**[Use AES with a Git source control repository](../concept/aes-source-control-use.md)
+**Parent Topic:**[Use AES with a Git source control repository](aes-source-control-use.md)
 

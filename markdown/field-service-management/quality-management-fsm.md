@@ -24,11 +24,11 @@ Overall, the Field Service Quality Management feature streamlines the process of
 **Related topics**  
 
 
-[Configuring Field Service Quality Management](config-quality-mgmt.md)
+[Configuring Field Service Quality Management](work-order-management/config-quality-mgmt.md)
 
-[Review a task](../task/review-send-task-back.md)
+[Review a task](work-order-management/review-send-task-back.md)
 
-[Respond to a reviewed work order task](close-wo-wot-mobile.md#)
+[Respond to a reviewed work order task](work-order-management/close-wo-wot-mobile.md#)
 
-[Field Service Quality Management components](../reference/quality-mgmt-components.md)
+[Field Service Quality Management components](quality-mgmt-components.md)
 

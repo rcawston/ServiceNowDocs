@@ -36,7 +36,7 @@ The survey instance URL is available on the survey instance record.
 5.  Distribute the URL to the assigned user.
 
 
-**Parent Topic:**[Survey URLs](../concept/c_SurveyURLs.md)
+**Parent Topic:**[Survey URLs](c_SurveyURLs.md)
 
 **Related topics**  
 

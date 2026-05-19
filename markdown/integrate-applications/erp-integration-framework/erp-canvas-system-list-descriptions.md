@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The Create new system form in Zero Copy Connector for ERP \(Enterprise Resource Planning\) contains information on connection details for the ERP system.
 
-For process details, see [View a list of Zero Copy Connector for ERP systems](../task/view-and-monitor-erp-systems-health.md).
+For process details, see [View a list of Zero Copy Connector for ERP systems](view-and-monitor-erp-systems-health.md).
 
 <table id="table_xn1_4kd_5xb"><thead><tr><th>
 

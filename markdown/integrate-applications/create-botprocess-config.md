@@ -18,7 +18,7 @@ Create a bot process configuration record in RPA Hub so that you can define the 
 
 Create a package. For more information, see [Create a package to assign to a bot process](create-package.md#).
 
-Create a robot. For more information, see [Robots in RPA Hub](../concept/robots-rpa-hub.md).
+Create a robot. For more information, see [Robots in RPA Hub](robots-rpa-hub.md).
 
 Configure the related system property to view the activity stream. For more information, see [Display an activity stream for bot processes and robots in RPA Hub](display-activity-stream-sys-property-rpahub.md).
 
@@ -117,11 +117,11 @@ For a description of the field values, see [Bot Process form in RPA Hub](select-
 </table>
 ## What to do next
 
-You can add other details to the bot process, such as the business applications, credential groups, robots, process robot credential sets, schedules, process parameters, attended users, or groups. For more information, see [Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md).
+You can add other details to the bot process, such as the business applications, credential groups, robots, process robot credential sets, schedules, process parameters, attended users, or groups. For more information, see [Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md).
 
 \(Optional\) On the bot process configuration record, select the **Bot Process** button to navigate to the Overview tab of the bot process. You can't view this Bot Process button if the bot process configuration record is not associated to any bot process.
 
-**Parent Topic:**[Configuring a bot process record in RPA Hub](../concept/create-botprocess.md)
+**Parent Topic:**[Configuring a bot process record in RPA Hub](create-botprocess.md)
 
 **Related topics**  
 
@@ -242,5 +242,5 @@ Description of the bot process.
 </table>**Related topics**  
 
 
-[Configuring a bot process record in RPA Hub](../concept/create-botprocess.md)
+[Configuring a bot process record in RPA Hub](create-botprocess.md)
 

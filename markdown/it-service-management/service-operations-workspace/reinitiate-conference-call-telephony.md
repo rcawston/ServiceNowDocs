@@ -36,5 +36,5 @@ Role required: itil
 7.  In the **Completed** calls section, select the **Reinitiate** button.
 
 
-**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](../concept/telephony-sow.md)
+**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](telephony-sow.md)
 

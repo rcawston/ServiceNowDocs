@@ -72,5 +72,5 @@ A Java RegEx expression. If advanced is selected, you cannot change the input ty
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Edge Encryption](../concept/edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](edge-config.md)
 

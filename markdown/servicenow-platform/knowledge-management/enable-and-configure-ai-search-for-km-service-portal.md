@@ -46,5 +46,5 @@ All new and existing customers must manually enable AI Search in the Knowledge p
 
 AI Search is enabled throughout the Knowledge portal. Customers can use AI Search from the search bar on the portal.
 
-**Parent Topic:**[Configure the Knowledge Management Service Portal](../concept/knowledge-management-service-portal.md)
+**Parent Topic:**[Configure the Knowledge Management Service Portal](knowledge-management-service-portal.md)
 

@@ -61,12 +61,12 @@ The knowledge article view page displays the Related Articles section when an ar
 6.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](km-service-portal-widget-instances.md)
 
 **Related topics**  
 
 
 [Map related articles](map-related-articles.md)
 
-[Knowledge Management Service Portal properties](../reference/knowledge-service-portal-properties.md)
+[Knowledge Management Service Portal properties](knowledge-service-portal-properties.md)
 

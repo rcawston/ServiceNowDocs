@@ -27,7 +27,7 @@ The landing page of the Operational Resilience Workspace displays the following 
 
 Existing customers typically use the Service \(CMDB\) Main node configuration, while new customers use the OpRes with CSDM header Main node configuration. Depending on the setup done by your administrator, either the **Services overview** or the **Business services overview** tab, is shown on the landing page.
 
-Administrators or UI Builder administrators can show or hide these tabs from the Workspace view based on organizational needs. For information on how to display or hide either the **Services overview** or **Business services overview** tab, see [Show Business services overview tab in Workspace view](../../grc-operational-res/concept/displaying-services-overview-tab.md).
+Administrators or UI Builder administrators can show or hide these tabs from the Workspace view based on organizational needs. For information on how to display or hide either the **Services overview** or **Business services overview** tab, see [Show Business services overview tab in Workspace view](displaying-services-overview-tab.md).
 
 ## Third-party Risk Management \(TPRM\) integration
 
@@ -53,7 +53,7 @@ To view Related lists and Red flags data in the Operational Resilience Workspace
     However, if TPRM is installed, Operational Resilience users can access both risk red flags and Third-party Risk Management red flags because they are assigned the TPRM viewer role. The TPRM viewer role includes risk viewer capabilities, thus eliminating the need for IRM roles.
 
 
-For information on the roles required to view the related lists and red flags data, see the "Roles to view elated lists and Red flags data" table in the [Create New Service form](../reference/service-form-lists-ws-reference.md) page.
+For information on the roles required to view the related lists and red flags data, see the "Roles to view elated lists and Red flags data" table in the [Create New Service form](service-form-lists-ws-reference.md) page.
 
 ## Displaying reports for different user roles
 

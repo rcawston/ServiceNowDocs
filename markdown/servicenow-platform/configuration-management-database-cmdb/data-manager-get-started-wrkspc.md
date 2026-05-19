@@ -71,5 +71,5 @@ Role required: sn\_cmdb\_admin
 -   [Manage retirement definitions for CMDB Data Manager](data-manager-manage-ret-def-wrkspc.md#).
 -   [Manage exclusion lists for CMDB Data Manager](data-mgr-manage-ci-exclusion-wrkspc.md).
 -   [View CMDB Data Manager analytics](data-manager-view-analytics-wrkspc.md).
--   View properties and other settings for CMDB Data Manager by selecting **Settings** in the left navigation pane. For details about the system properties associated with those settings, see [Components related to CMDB Data Manager](../reference/components-cmdb-data-manager.md).
+-   View properties and other settings for CMDB Data Manager by selecting **Settings** in the left navigation pane. For details about the system properties associated with those settings, see [Components related to CMDB Data Manager](components-cmdb-data-manager.md).
 

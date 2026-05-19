@@ -21,11 +21,11 @@ You first create standalone work order task templates and then map them to the w
 
 The steps for setting up standalone task template configurations are:
 
-1.  [Create a work order task template](../task/create-wot-template.md)
+1.  [Create a work order task template](create-wot-template.md)
 
     Create a standalone work order task template, which can be used by different work order templates to create the same task for their work orders.
 
-2.  [Enable a work order template to create relevant tasks for a work order](../task/add-stand-alone-task-template-to-wo-template.md)
+2.  [Enable a work order template to create relevant tasks for a work order](add-stand-alone-task-template-to-wo-template.md)
 
     Add the standalone task template to a work order template along with filtering conditions.
 

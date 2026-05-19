@@ -51,5 +51,5 @@ Robot is inactive.After you retire a robot, you cannot change the stage.
 </table>**Related topics**  
 
 
-[Robots in RPA Hub](../concept/robots-rpa-hub.md)
+[Robots in RPA Hub](robots-rpa-hub.md)
 

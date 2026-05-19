@@ -35,13 +35,13 @@ Only a user with the sn\_exam.catalog\_admin role who is configured as part of t
 
 3.  Review the fields of the form.
 
-    For a description of the field values, see [Exam instance form](../reference/exam-instance-form.md).
+    For a description of the field values, see [Exam instance form](exam-instance-form.md).
 
 
 -   **[View number of exam instance attempts](view-exam-attempts.md)**  
 View number of exam instance attempts by a user.
 
-**Parent Topic:**[Using Career Assessment](../concept/using-exam-engine.md)
+**Parent Topic:**[Using Career Assessment](using-exam-engine.md)
 
 **Related topics**  
 
@@ -50,5 +50,5 @@ View number of exam instance attempts by a user.
 
 [Create an exam](create-exam.md)
 
-[Add exams to a learning path from Career Assessment](../concept/create-quiz-path.md)
+[Add exams to a learning path from Career Assessment](create-quiz-path.md)
 

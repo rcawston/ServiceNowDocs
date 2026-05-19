@@ -73,12 +73,12 @@ The users and spaces are assigned to the shift. When an employee wants to make a
 -   The shifts for which the employee can make a reservation.
 -   The spaces that are available for reservation in the selected shift.
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -94,7 +94,7 @@ The users and spaces are assigned to the shift. When an employee wants to make a
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Create a reservation along with a shared reservation](create-rsv-along-with-shared-rsv.md)
 

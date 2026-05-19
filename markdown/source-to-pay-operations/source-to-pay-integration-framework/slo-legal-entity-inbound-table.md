@@ -24,7 +24,7 @@ The following table lists the mandatory fields for the Supplier legal entity map
 |Legal entity|String|Name of the legal entity of the supplier.|
 |Supplier|String|Name of the supplier.|
 
-**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](../concept/slo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](slo-inbound-staging-tables.md)
 
 **Related topics**  
 

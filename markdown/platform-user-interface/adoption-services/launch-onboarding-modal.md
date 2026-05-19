@@ -42,5 +42,5 @@ Role required: admin
 10. Select **Save**.
 
 
-**Parent Topic:**[Configure](../concept/configure-onboarding-modals.md)
+**Parent Topic:**[Configure](configure-onboarding-modals.md)
 

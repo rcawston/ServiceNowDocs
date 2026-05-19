@@ -51,5 +51,5 @@ Using Workplace Lease Administration you can create workplace contracts with the
 
 ## Workplace contract notifications
 
-You will receive notifications on a weekly basic with the list of contracts that are near to their expiration date. For information about how to renew contracts, see [Renew workplace contract in Core UI](../task/renew-lease-workplace-contracts.md).
+You will receive notifications on a weekly basic with the list of contracts that are near to their expiration date. For information about how to renew contracts, see [Renew workplace contract in Core UI](renew-lease-workplace-contracts.md).
 

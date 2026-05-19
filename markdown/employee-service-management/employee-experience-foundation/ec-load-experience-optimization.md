@@ -27,7 +27,7 @@ Using the following performance enhancements, you can improve the overall user e
 
 -   **Mega menu async load**: Loads resources or data asynchronously in the background without blocking the main thread.
 
-    For more information, see [Configure Mega menu async load system properties](../task/config-mega-menu-async-load.md).
+    For more information, see [Configure Mega menu async load system properties](config-mega-menu-async-load.md).
 
 -   **Skeleton load**: Improves perceived performance by displaying placeholder elements \(like grey boxes or lines\) while actual content is loading. This placeholder UI reassures employees that the system is functional and reducing the wait times.
 
@@ -43,9 +43,9 @@ Admins can select regular or light modes by configuring your widget instances.
 **Related topics**  
 
 
-[Configure Mega menu async load system properties](../task/config-mega-menu-async-load.md)
+[Configure Mega menu async load system properties](config-mega-menu-async-load.md)
 
-[Modify defer load instance option](../task/config-defer-load-instance-option.md)
+[Modify defer load instance option](config-defer-load-instance-option.md)
 
 [High-traffic experience](ec-load-high-traffic.md)
 

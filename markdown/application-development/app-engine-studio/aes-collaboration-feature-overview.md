@@ -148,7 +148,7 @@ Role required: admin, manage collaborator delegated development role, or invite 
 
     -   If the user has AES or delegated developer permissions and is new to the platform, the user is listed under the pending requests section and approval is required. After the request is approved, both the requester and the user receive an email indicating that the user has been added to the application. ![Collaboration approval email example](../image/aes-approval-email-purple.png)
     -   If the user has AES or delegated developer permissions and is not new to the platform, the collaboration request is auto-approved. Both the requester and the user receive an email indicating that the user has been added to the application.
-    **Note:** If a valid controller has been configured on the instance from which the collaboration request originated, a collaboration request task is created on the controller instance. If the originating instance isn't configured on the controller, work notes are automatically added to the request record indicating that the instance must be configured before approval is granted. If the originating instance is the controller or a valid controller has not been configured, the collaboration request task is created on the requesting instance. For more information, see [Configure your controller instance](../../pipelines-and-deployments/task/config-controller-instance.md).
+    **Note:** If a valid controller has been configured on the instance from which the collaboration request originated, a collaboration request task is created on the controller instance. If the originating instance isn't configured on the controller, work notes are automatically added to the request record indicating that the instance must be configured before approval is granted. If the originating instance is the controller or a valid controller has not been configured, the collaboration request task is created on the requesting instance. For more information, see [Configure your controller instance](../app-engine-management-center/config-controller-instance.md).
 
 
 ## Change collaborator permissions
@@ -179,7 +179,7 @@ Role required: admin or manage collaborator delegated development role
 
         For a list of collaboration permissions, see [Delegated development and collaboration permissions](aes-collaboration-feature-overview.md#).
 
-    If the selection matches that of another standard Collaboration descriptor, the system will provide a prompt before proceeding. For details on each delegated development permission, see [Delegate development and deployment permissions to personnel](../../applications/task/t_AddADeveloper.md).
+    If the selection matches that of another standard Collaboration descriptor, the system will provide a prompt before proceeding. For details on each delegated development permission, see [Delegate development and deployment permissions to personnel](../delegated-development-and-deployment/t_AddADeveloper.md).
 
 6.  Select **Save**.
 

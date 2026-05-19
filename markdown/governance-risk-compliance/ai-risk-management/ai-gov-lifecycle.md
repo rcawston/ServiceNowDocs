@@ -63,7 +63,7 @@ AI Risk and Compliance business users \[sn\_grc\_ai\_gov.ai\_risk\_and\_complian
 
 Other governance stakeholders, such as security, legal, privacy, or data governance teams, participate as needed. They contribute expertise during assessment, review, and investigation activities. These stakeholders don’t own life cycle decisions.
 
-For more information about roles in AICT and AIRC, see [Roles installed with AI Risk and Compliance](../reference/roles-installed-with-ai-risk-and-compliance.md) and [AI Control Tower roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/roles-installed-with-ai-control-tower.md).
+For more information about roles in AICT and AIRC, see [Roles installed with AI Risk and Compliance](roles-installed-with-ai-risk-and-compliance.md) and [AI Control Tower roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/roles-installed-with-ai-control-tower.md).
 
 ## AI governance life cycle phases and processes
 
@@ -75,7 +75,7 @@ These phases describe AI governance activities at a conceptual level and may spa
 
     Any team member with the AI asset owners, AI steward, or AIRC business roles can submit intake-related information with an intake request using the Employee Center to determine whether an AI initiative should enter the governed life cycle based on its intent, scope, and organizational alignment. If you have the AI asset owner or AI steward role, you can review and progress intake requests using the AI Control Tower Workspace after they are submitted through the Employee Center.
 
-    For more information about intake requests in AIRC and AICT, see [Intake requests](airc-intake.md), [Request an AI use case](../task/request-ai-system.md), [Request an AI model](../task/request-ai-model.md), and [Request a dataset](../task/request-dataset.md).
+    For more information about intake requests in AIRC and AICT, see [Intake requests](airc-intake.md), [Request an AI use case](request-ai-system.md), [Request an AI model](request-ai-model.md), and [Request a dataset](request-dataset.md).
 
     During intake, the following are created or required: an AI intake request, an initial AI system record, and business context for the AI initiative.
 
@@ -121,7 +121,7 @@ These phases describe AI governance activities at a conceptual level and may spa
 
     During assessment, the following are created or updated: impact assessment results, risk classification, identified risks, and recommended controls. These outcomes determine whether the AI system can proceed to the next life cycle phase.
 
-    For more information, see [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/playbooks.md), [Perform impact assessment on an AI use case](../task/perform-impact-assessment-of-ai-use-case.md), and [Perform risk assessments on AI systems](../task/perform-risk-assessments-on-ai-systems.md).
+    For more information, see [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/playbooks.md), [Perform impact assessment on an AI use case](perform-impact-assessment-of-ai-use-case.md), and [Perform risk assessments on AI systems](perform-risk-assessments-on-ai-systems.md).
 
 -   **Build and validate: Build and test**
 
@@ -139,7 +139,7 @@ These phases describe AI governance activities at a conceptual level and may spa
 
     During validation, the following records are created or updated: Control attestations, issue records, remediation evidence, and exception records.
 
-    For more information, see [Manage controls using AI Risk and Compliance](manage-controls-in-airc.md), [Create control attestations for AI asset](../task/attest-controls-for-ai-systems.md), and [Remediate an issue in AI Risk and Compliance](../task/remediate-an-issue-in-airc.md).
+    For more information, see [Manage controls using AI Risk and Compliance](manage-controls-in-airc.md), [Create control attestations for AI asset](attest-controls-for-ai-systems.md), and [Remediate an issue in AI Risk and Compliance](remediate-an-issue-in-airc.md).
 
 -   **Build and validate: Pre-deployment review**
 

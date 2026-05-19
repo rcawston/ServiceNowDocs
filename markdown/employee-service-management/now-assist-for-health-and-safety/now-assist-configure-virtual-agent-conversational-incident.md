@@ -28,7 +28,7 @@ Role required: admin
 2.  Install the Now Assist for platform \[sn\_genai\_platform\] to enable Now Assist for the workspace.
 3.  Install the Health and Safety Incident Management \[sn\_hs\_im\_incident\] plugin.
 
-    For more information, see [Install Health and Safety Incident Management](../../ohs-incident-management/task/install-hs-incident-mgmt.md)
+    For more information, see [Install Health and Safety Incident Management](../health-and-safety-incident-management/install-hs-incident-mgmt.md)
 
 4.  For detailed information about configuring Now Assist in Virtual agent, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
@@ -69,5 +69,5 @@ Role required: admin
 
 The Now Assist panel is enabled for the Employee center.
 
-**Parent Topic:**[Configure conversational AI](../concept/hs-configure-conversational-ai.md)
+**Parent Topic:**[Configure conversational AI](hs-configure-conversational-ai.md)
 

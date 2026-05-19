@@ -101,5 +101,5 @@ The content review request, that was part of Legal Request Management, has been 
     9.  Select **Update**.
 
 
-**Parent Topic:**[Configure Legal Content Review](../concept/setting-up-legal-content-review.md)
+**Parent Topic:**[Configure Legal Content Review](setting-up-legal-content-review.md)
 

@@ -26,7 +26,7 @@ This API requires the Data Classification \[com.glide.data\_classification\] plu
 
 For more information, see [Data Classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification/data-classification.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ScopedDCManager - classify\(String dictEntries, String dataClasses\)
 

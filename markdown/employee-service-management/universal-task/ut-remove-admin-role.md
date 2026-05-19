@@ -42,9 +42,9 @@ By default, a system administrator also contains the sn\_uni\_task.admin role an
 6.  Click **Save**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Hide the template bar on the Universal Task form](ut-hide-template-bar.md)
 
-**Next topic:**[Email notification layout for Universal Task notifications](../concept/email-notification-ut.md)
+**Next topic:**[Email notification layout for Universal Task notifications](email-notification-ut.md)
 

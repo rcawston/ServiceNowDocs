@@ -996,5 +996,5 @@ Uncertainty
 The state of being unable to completely predict, determine, or define something.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Common Governance, Risk, and Compliance features](../concept/common-grc-features.md)
+</table>**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
 

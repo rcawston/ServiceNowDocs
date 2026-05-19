@@ -18,5 +18,5 @@ View a list of incidents at risk and work on them from your mobile.
 **Related topics**  
 
 
-[Process an incident at risk](../task/process-incident-at-risk.md)
+[Process an incident at risk](process-incident-at-risk.md)
 

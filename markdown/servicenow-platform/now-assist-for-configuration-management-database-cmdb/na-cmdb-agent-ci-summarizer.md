@@ -78,5 +78,5 @@ If you think that data might have changed after you viewed the response, select 
 **Related topics**  
 
 
-[Configure the CI summarization skill](../../configuration-management/task/now-assist-cmdb-config-ci-summary.md)
+[Configure the CI summarization skill](now-assist-cmdb-config-ci-summary.md)
 

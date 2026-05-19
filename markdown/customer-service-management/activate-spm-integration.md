@@ -15,7 +15,7 @@ Activate the CSM with Service Portfolio Management \(SPM\) plugin to use the int
 
 ## Before you begin
 
-Consider using guided setup to complete the Service Portfolio Management configuration. For more information, see [Integrate with Service Portfolio Management using Guided Setup](../concept/spm-csm-integration.md).
+Consider using guided setup to complete the Service Portfolio Management configuration. For more information, see [Integrate with Service Portfolio Management using Guided Setup](spm-csm-integration.md).
 
 **Note:** Check your entitlements to determine whether you have access to the integration with Service Portfolio Management and the CSM with Service Portfolio Management \(SPM\) plugin \(sn\_csm\_spm\).
 

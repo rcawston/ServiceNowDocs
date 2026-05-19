@@ -40,12 +40,12 @@ The following table shows the conversion path for each legacy survey question ty
 |Wide Single Line Text|String \(**String** option set to **Single line wide**\)|
 |Yes / No|Yes/No|
 
-**Parent Topic:**[Legacy survey migration](../concept/c_MigrateSurveys.md)
+**Parent Topic:**[Legacy survey migration](c_MigrateSurveys.md)
 
 **Related topics**  
 
 
-[Migrate a legacy survey](../task/t_MigrateALegacySurvey.md)
+[Migrate a legacy survey](t_MigrateALegacySurvey.md)
 
 [Migrated components](r_MigratedComponents.md)
 

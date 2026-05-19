@@ -22,7 +22,7 @@ After you activate the Dynamic Translation plugin \(com.glide.dynamic\_translati
 -   Detect the language of the input text
 -   Translate user-entered text from a source language to a target language
 
-For information on activating this plugin, see [Activate Dynamic Translation](../task/activate-dynamic-translation.md).
+For information on activating this plugin, see [Activate Dynamic Translation](activate-dynamic-translation.md).
 
 ## Default translation service providers for Dynamic Translation
 

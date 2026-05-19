@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideSecurityManager API provides methods that enable you to retrieve a SecurityManager object and to check if the current user has access rights, both table-level and field-level, to a specified GlideRecord table based on the configured Access Control Rules \(ACLs\).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideSecurityManager - get\(\)
 

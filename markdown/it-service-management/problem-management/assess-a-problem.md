@@ -74,5 +74,5 @@ Click **Cancel**.
 
 After you confirm that the problem needs investigation and a resolution, the problem enters the **Root Cause Analysis** state.
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

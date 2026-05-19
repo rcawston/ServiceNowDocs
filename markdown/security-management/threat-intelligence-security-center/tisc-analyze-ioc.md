@@ -56,7 +56,7 @@ Whenever a sighting search enrichment is requested:
         ![Analyze, assess the IoC’s related to the threat and create incident.](../image/tisc-analyze-assess-IoCs.png)
 
 
-**Parent Topic:**[Working with automated flows](../concept/tisc-automated-flows.md)
+**Parent Topic:**[Working with automated flows](tisc-automated-flows.md)
 
 **Related topics**  
 
@@ -75,5 +75,5 @@ Whenever a sighting search enrichment is requested:
 
 [Zero-day vulnerability tracking](tisc-zero-vul.md)
 
-[Automated flows tables](../concept/tisc-flows-tables.md)
+[Automated flows tables](tisc-flows-tables.md)
 

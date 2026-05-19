@@ -53,5 +53,5 @@ Agents with different levels of Agent Client Collector \(ACC\) capability can’
     MID Server B is ineligible for automatic selection, because it doesn’t have the same ACC capability as MID Server A. MID Server C is eligible, because it has the same ACC capability as MID Server A.
 
 
-**Parent Topic:**[Automatic MID Server selection](../concept/acc-auto-mid-selection.md)
+**Parent Topic:**[Automatic MID Server selection](acc-auto-mid-selection.md)
 

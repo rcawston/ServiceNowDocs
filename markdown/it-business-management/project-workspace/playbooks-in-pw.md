@@ -49,5 +49,5 @@ In a Stage-gate playbook, the stages and tasks must be completed in a linear ord
 
 [Playbooks configuration](configure-playbooks-pw.md)
 
-[Use Playbooks in Project Workspace](../task/use-playbooks-pw.md)
+[Use Playbooks in Project Workspace](use-playbooks-pw.md)
 

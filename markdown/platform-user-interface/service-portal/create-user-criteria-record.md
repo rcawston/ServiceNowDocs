@@ -159,5 +159,5 @@ Determines whether all elements from each populated criteria field must match. I
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[User criteria for Service Portal](../concept/user-criteria.md)
+**Parent Topic:**[User criteria for Service Portal](user-criteria.md)
 

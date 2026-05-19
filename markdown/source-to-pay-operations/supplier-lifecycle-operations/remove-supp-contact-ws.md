@@ -50,7 +50,7 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 The contact is removed and all the tasks that were assigned to that contact are reassigned to the alternate contact.
 
-**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](../concept/managing-contacts-smw.md)
+**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](managing-contacts-smw.md)
 
 **Related topics**  
 

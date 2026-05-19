@@ -34,5 +34,5 @@ The `RelatedListIncidentItemUpdateHandler` script include contains the following
 
 ![RelatedListIncidentItemUpdateHandler script includes](../image/related_list_handler_scriptinclude.png)
 
-**Parent Topic:**[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace reference](sow-im-reference.md)
 

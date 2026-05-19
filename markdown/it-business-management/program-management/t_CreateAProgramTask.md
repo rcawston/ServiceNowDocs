@@ -142,7 +142,7 @@ Work notes
 
 </td><td>
 
-Enter work notes about the milestones, impediments, or changes as the program progresses.**Note:** Users with the business stakeholder role for PPM can view this field. For more information, see [Business stakeholder role for PPM](../../project-portfolio-suite-with-financials/reference/business-stakeholder-role-ppm.md).
+Enter work notes about the milestones, impediments, or changes as the program progresses.**Note:** Users with the business stakeholder role for PPM can view this field. For more information, see [Business stakeholder role for PPM](../ppm-collaboration/business-stakeholder-role-ppm.md).
 
 </td></tr></tbody>
 </table>|Field|Description|

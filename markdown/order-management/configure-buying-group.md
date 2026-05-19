@@ -59,7 +59,7 @@ sn\_buying\_groups
 </td></tr></tbody>
 </table>## What to do next
 
-[View buying group engagement metrics](../task/create-new-buying-group-engagement-metrics.md)
+[View buying group engagement metrics](create-new-buying-group-engagement-metrics.md)
 
 View a buying group engagement metrics to track how individual members and the group as a whole interact across marketing and sales activities, providing a consolidated view of participation, engagement levels, and buying readiness throughout the buying group lifecycle.
 

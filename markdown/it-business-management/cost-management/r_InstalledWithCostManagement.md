@@ -362,5 +362,5 @@ Validates that the rate card start date is specified and is not after the end da
 -   Sets the rate card end date to the contract end date if a value is not entered and the contract has an end date.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Cost Management](../task/t_ActivatingCostManagement.md)
+</table>**Parent Topic:**[Activate Cost Management](t_ActivatingCostManagement.md)
 

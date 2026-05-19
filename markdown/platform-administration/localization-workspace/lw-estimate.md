@@ -17,7 +17,7 @@ As the final step in creating a translation request, you can review an informati
 
 ## Before you begin
 
--   If you want to use the optional due date field to trigger an email notification, confirm that your admin has configured notifications. For more information see [Creating email notifications for Localization Workspace](../concept/lw-email-notifications.md).
+-   If you want to use the optional due date field to trigger an email notification, confirm that your admin has configured notifications. For more information see [Creating email notifications for Localization Workspace](lw-email-notifications.md).
 -   Role required: localization\_requestor
 
 ## About this task
@@ -42,7 +42,7 @@ Consult your provider's documentation. For details about the pricing of Google C
 From version 2.0.2, an optional due date field is available in the Estimate step. It can be used to trigger [email notifications](lw-email-notif-due-dates.md). \(Notifications require configuration by an admin\).
 
 -   The due date corresponds to the Localization Framework Project due date.
--   From version 3.0.0: when submitting to a TMS, the system suggests a due date based on the word count. For details about intelligent due dates see [Requesting translations in Localization Workspace](../concept/requesting-translations-localization-workspace.md).
+-   From version 3.0.0: when submitting to a TMS, the system suggests a due date based on the word count. For details about intelligent due dates see [Requesting translations in Localization Workspace](requesting-translations-localization-workspace.md).
 -   For machine translation service providers, the default due date is the current date.
 -   You can use the calendar picker to choose a date that is later than the default or suggested due date, but you can't choose an earlier date.
 
@@ -77,7 +77,7 @@ From version 2.0.2, an optional due date field is available in the Estimate step
 
 ## What to do next
 
-You can view translation request records in list format on the [Home page of Localization Workspace](../concept/lw-status-synchronization.md).
+You can view translation request records in list format on the [Home page of Localization Workspace](lw-status-synchronization.md).
 
-**Note:** When displayed in the Requests list on the Home page, the **Cost** is rounded up to the decimal place that is set in your **Display Value Currency** field. However, the calculation of the informational cost estimate for a translation request does not use the currency's display value. The calculation uses the actual rate that you have configured in Localization Workspace. For more information, see [Identify the FX Currency field and its display parameters](../../currency/task/fx-currency-display-parameters.md).
+**Note:** When displayed in the Requests list on the Home page, the **Cost** is rounded up to the decimal place that is set in your **Display Value Currency** field. However, the calculation of the informational cost estimate for a translation request does not use the currency's display value. The calculation uses the actual rate that you have configured in Localization Workspace. For more information, see [Identify the FX Currency field and its display parameters](../currency-administration/fx-currency-display-parameters.md).
 

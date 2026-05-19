@@ -17,17 +17,17 @@ The DevOpsOrchestrationToolIntegrationHandler API enables processing of payloads
 
 A custom DevOps tool is any tool that doesn't have an integration with DevOps. For a list of tools that have DevOps integrations, see [DevOps Change Velocity integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-overview.md).
 
-This API enables the processing of payloads that are used by the REST endpoint [DevOps - POST /devops/tool/\{capability\}](../../../../../integrate/inbound-rest/concept/devops-api.md#). You must implement the methods of this API in a script include before calling the POST /devops/tool/\{capability\} endpoint.
+This API enables the processing of payloads that are used by the REST endpoint [DevOps - POST /devops/tool/\{capability\}](../rest-apis/devops-api.md#). You must implement the methods of this API in a script include before calling the POST /devops/tool/\{capability\} endpoint.
 
 This API executes in the `sn_devops` namespace. For more information about DevOps, see [DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-landing-page.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DevOpsOrchestrationToolIntegrationHandler - getNativeIdForOrchestrationTask\(Object payload\)
 
 Returns the value of the **orchestrationTaskName** parameter from the payload for the POST /devops/tool/\{capability\} endpoint.
 
-You must implement this method in a script include before calling the REST endpoint [DevOps - POST /devops/tool/\{capability\}](../../../../../integrate/inbound-rest/concept/devops-api.md#).
+You must implement this method in a script include before calling the REST endpoint [DevOps - POST /devops/tool/\{capability\}](../rest-apis/devops-api.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -63,7 +63,7 @@ DevOpsOrchestrationCustomToolIntegrationHandler.prototype = {
 
 Checks if this handler is valid for the specified tool.
 
-You must implement this method in a script include before calling [DevOps - POST /devops/tool/\{capability\}](../../../../../integrate/inbound-rest/concept/devops-api.md#).
+You must implement this method in a script include before calling [DevOps - POST /devops/tool/\{capability\}](../rest-apis/devops-api.md#).
 
 <table id="table_gtf_1vm_ctb" class="parameters"><thead><tr><th>
 

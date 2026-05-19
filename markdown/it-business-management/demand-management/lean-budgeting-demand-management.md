@@ -33,7 +33,7 @@ Allocate budget for demands at each fiscal period instead of the entire fiscal y
 
 4.  On the Investment Budget form, fill in the fields.
 
-    For more information about the fields and their description, see [Investment Budget form](../reference/investment-budget-form.md).
+    For more information about the fields and their description, see [Investment Budget form](investment-budget-form.md).
 
 5.  Select **Submit**.
 

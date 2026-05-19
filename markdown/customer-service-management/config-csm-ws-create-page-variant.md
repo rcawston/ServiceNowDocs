@@ -143,7 +143,7 @@ The system chooses a record page by evaluating the settings on the available act
 -   If there is an active page with one or more conditions and those conditions are met, the system chooses that page.
 -   If there are two active pages with the same conditions, the system chooses the page with the lowest order value.
 
-For more information, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+For more information, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 **Related topics**  
 

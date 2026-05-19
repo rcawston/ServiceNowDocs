@@ -94,5 +94,5 @@ Source records to consider
 Option to select a specific record or all records. When selecting source records from the specified sources, the system retrieves dependencies from either all matching records or only from the most recently matched BIA record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure Event dependency source configuration record](../task/conf-event-dep-source-confi-module.md)
+</table>**Parent Topic:**[Configure Event dependency source configuration record](conf-event-dep-source-confi-module.md)
 

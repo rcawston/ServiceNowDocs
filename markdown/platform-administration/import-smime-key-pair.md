@@ -196,7 +196,7 @@ Field the duration is relative to. Displays if a relative duration or operation 
     Secure information for the keys will be stored on the Module Keys tab along with the private key and public key. The **Key lifecycle state** is set to **Active**.
 
 
-**Parent Topic:**[Setting up S/MIME for email](../concept/smime-for-email-signing-and-encryption.md)
+**Parent Topic:**[Setting up S/MIME for email](smime-for-email-signing-and-encryption.md)
 
 **Related topics**  
 
@@ -205,5 +205,5 @@ Field the duration is relative to. Displays if a relative duration or operation 
 
 [Upload an email certificate](upload-email-certificate.md)
 
-[Enable S/MIME](../concept/enable-smime-for-outbound-and-inbound.md)
+[Enable S/MIME](enable-smime-for-outbound-and-inbound.md)
 

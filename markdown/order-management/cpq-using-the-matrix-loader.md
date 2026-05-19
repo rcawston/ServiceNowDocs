@@ -33,7 +33,7 @@ Here is a quick tutorial on how to use the Matrix Loader.
 
     -   [Matrix Loader CSV fields and field options upload and export](cpq-matrix-loader-csv-fields-and-field-options-upload-and-export.md)
     -   [Matrix Loader: CSV rules upload](matrix_loader_csv_rules_upload.md)
-    -   [Matrix Loader: CSV table upload](../task/cpq-matrix-loader-csv-table-upload.md)
+    -   [Matrix Loader: CSV table upload](cpq-matrix-loader-csv-table-upload.md)
     Queued files are displayed. If necessary, add more files or delete files, and then click **Next**.![Import](../images/cpq-matrix-loader-tutorial-choose-files-selected-files-shown.png)
 
 4.  The Matrix Loader guesses at the contents of each file according to keywords in the file titles. Confirm that the Matrix Loader guessed the upload file types correctly. If necessary, make corrections.

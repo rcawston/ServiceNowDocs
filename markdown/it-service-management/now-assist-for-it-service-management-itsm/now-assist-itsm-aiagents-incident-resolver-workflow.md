@@ -91,7 +91,7 @@ In the agentic workflow record:
 
 ![Investigate and resolve ITSM incidents agentic workflow output.](../image/now-assist-itsm-aiagents-inv-resolve-inc.png)
 
-In the AI Agent Studio, the human agent gets notified as soon as the recommendations to resolve incidents get generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
+In the AI Agent Studio, the human agent gets notified as soon as the recommendations to resolve incidents get generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
 ## Generating the incident resolution steps in the Now Assist panel
 

@@ -30,12 +30,12 @@ Role required: system\_scheduler\_admin
     Each schedule item appears on the table listing.
 
 
-**Parent Topic:**[Scheduled jobs](../../reference-pages/concept/c_ScheduledJobs.md)
+**Parent Topic:**[Scheduled jobs](c_ScheduledJobs.md)
 
 **Related topics**  
 
 
-[Scheduled jobs](../../reference-pages/concept/c_ScheduledJobs.md)
+[Scheduled jobs](c_ScheduledJobs.md)
 
 [Advanced options for scheduled jobs](advanced-options-for-scheduled-jobs.md)
 

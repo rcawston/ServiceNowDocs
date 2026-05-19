@@ -46,5 +46,5 @@ Upcoming appointments also display with a small calendar icon next to the user n
     3.  Select **Update** to save any changes you make to the interaction form.
 
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](use-walkup-to-manage-demand.md)
 

@@ -52,12 +52,12 @@ To create a record producer from a table record:
     -   If the field type is **Choice**, a corresponding question choice is created for each field choice.
     -   The new record producer is added to the **Record Producers** related list on the table record.
 
-**Parent Topic:**[Record Producer](../concept/c_RecordProducer.md)
+**Parent Topic:**[Record Producer](c_RecordProducer.md)
 
 **Related topics**  
 
 
 [Create a record producer](t_DefRecProdInSCat.md)
 
-[Populate record producer data and redirect users](../concept/c_PopulatingRecordData.md)
+[Populate record producer data and redirect users](c_PopulatingRecordData.md)
 

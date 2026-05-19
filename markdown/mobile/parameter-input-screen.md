@@ -50,7 +50,7 @@ Input form screens consist of a header, and input section, and an option footer 
     -   Signature
     -   String
     -   Screen
-    For more detail on these parameter input types, see [Input form screen attributes for inputs](../reference/parameter-screen-var-attr.md)
+    For more detail on these parameter input types, see [Input form screen attributes for inputs](parameter-screen-var-attr.md)
 
 -   **Pagination buttons**
 

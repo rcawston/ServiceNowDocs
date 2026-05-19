@@ -37,7 +37,7 @@ The following image is a sample notification in Microsoft Teams. It shows an err
 
 ## Related documentation
 
-See [Create a notification destination in SRM](../task/create-notification-destination.md) and [Create SLOs, SLIs, and error budget policies](../task/sr-create-slo-sli.md).
+See [Create a notification destination in SRM](create-notification-destination.md) and [Create SLOs, SLIs, and error budget policies](sr-create-slo-sli.md).
 
 **Parent Topic:**[SLO Management reference](service-level-objective-management-reference.md)
 

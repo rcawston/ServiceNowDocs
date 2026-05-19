@@ -37,7 +37,7 @@ Role required: admin
     -   To update the details of an assessment instance record, select the record.
 5.  On the assessment instance form, fill in the fields.
 
-    For a description of the field names, see [Assessment instance form](../reference/assessment-instance-form-dw.md) form.
+    For a description of the field names, see [Assessment instance form](assessment-instance-form-dw.md) form.
 
 6.  Select **Save**.
 
@@ -47,7 +47,7 @@ Role required: admin
 
 9.  On the Create New Assessment Instance Question form, fill in the fields.
 
-    For a description of the field names, see [Create assessment instance question form](../reference/create-assessment-instance-question-form-dw.md) form.
+    For a description of the field names, see [Create assessment instance question form](create-assessment-instance-question-form-dw.md) form.
 
 10. Select **Save**.
 

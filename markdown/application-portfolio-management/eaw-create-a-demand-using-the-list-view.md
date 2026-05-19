@@ -31,14 +31,14 @@ Use a demand as a step to identify cost-saving opportunities on the business app
 
 4.  On the Create demand form, fill in the fields.
 
-    For a description of the field values, see [Create demand form](../../reference/eaw-reference/eaw-demand-form.md).
+    For a description of the field values, see [Create demand form](eaw-demand-form.md).
 
 5.  Select **Create**.
 
     The new demand is displayed under the business application.
 
 
-**Parent Topic:**[Use list view](../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
+**Parent Topic:**[Use list view](eaw-using-app-rat-list-view.md)
 
 **Related topics**  
 

@@ -40,5 +40,5 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 After you move an automation request to the Planned state, it's ready for you to work on.
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

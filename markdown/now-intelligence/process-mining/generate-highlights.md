@@ -27,7 +27,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 3.  Go to the Opportunities details page.
 
-    For more information about Opportunities details page, see [Opportunity details page](../concept/opportunity-details.md).
+    For more information about Opportunities details page, see [Opportunity details page](opportunity-details.md).
 
 4.  Select the Improvement Opportunities icon on the right-side panel.
 
@@ -48,5 +48,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
     The highlights for the selected improvement opportunity are displayed.
 
 
-**Parent Topic:**[Using Now Assist for Process Mining](../concept/use-na-process-mining.md)
+**Parent Topic:**[Using Now Assist for Process Mining](use-na-process-mining.md)
 

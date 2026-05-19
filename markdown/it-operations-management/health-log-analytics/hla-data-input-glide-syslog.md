@@ -32,7 +32,7 @@ Role required: admin
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [ServiceNow System Logs Retriever data input configuration fields](../reference/hla-data-input-glide-syslog-ref.md).
+    For a description of the fields, see [ServiceNow System Logs Retriever data input configuration fields](hla-data-input-glide-syslog-ref.md).
 
 5.  Select **Save**.
 
@@ -45,7 +45,7 @@ The data input configuration process is complete. Health Log Analytics adds the 
 
 The data input starts streaming ServiceNow log data from the System Log table to the Health Log Analytics AI engine, based on the configured filters. Admin users can set filters to query the System Log table. Operators can monitor the logs and view the alerts that Health Log Analytics generates from them.
 
-For a description of how this data input can help you detect and resolve emerging issues in your organization's ServiceNow instance, see [Use Case: Proactive monitoring of your ServiceNow instance in Health Log Analytics](../../health-log-analytics-operator/concept/hla-use-case-syslogs.md).
+For a description of how this data input can help you detect and resolve emerging issues in your organization's ServiceNow instance, see [Use Case: Proactive monitoring of your ServiceNow instance in Health Log Analytics](hla-use-case-syslogs.md).
 
 **Note:** If the HLA engine is down and data has stopped streaming, a notification appears at the top of the data input configuration page. When this happens, contact ServiceNow support.
 
@@ -53,5 +53,5 @@ For a description of how this data input can help you detect and resolve emergin
 
 [Make sure that the data input is streaming data.](hla-data-input-streaming.md)
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 

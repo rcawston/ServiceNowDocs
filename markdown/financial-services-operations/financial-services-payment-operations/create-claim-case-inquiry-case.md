@@ -54,7 +54,7 @@ You can set a case as a valid claim and create a claim for it only if it's an in
 
 -   A claim case for the payment inquiry case is created and assigned to an assignment group or a claim agent based on the configured assignment rules. The payment inquiry is now tracked via the claim case.
 
-    You can view the case details by clicking the link in the case creation message. For more information on claims, see [Managing payment claims and debit approvals](../concept/managing-payment-claims.md).
+    You can view the case details by clicking the link in the case creation message. For more information on claims, see [Managing payment claims and debit approvals](managing-payment-claims.md).
 
 -   The customer gets a pre-configured email notification about the new claim case.
 -   If there's a Customer or Consumer Service Portal available for customers, the new claim case appears on the portal.

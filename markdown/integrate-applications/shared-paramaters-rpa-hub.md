@@ -19,11 +19,11 @@ You cannot delete a shared parameter that is associated to a published bot proce
 
 Shared parameters offer numerous benefits such as consistency, centralized management that contributes to efficient and maintainable development practices.
 
--   **[Create a shared parameter in RPA Hub](../task/create-shared-parameter.md)**  
+-   **[Create a shared parameter in RPA Hub](create-shared-parameter.md)**  
 Create a shared parameter so that you can store the global variables or configurable items in one place. These variables are used across bot processes.
--   **[Assign a bot process to a shared parameter in RPA Hub](../task/assign-botprocess-shared-parameter.md)**  
+-   **[Assign a bot process to a shared parameter in RPA Hub](assign-botprocess-shared-parameter.md)**  
 Assign a bot process to a shared parameter in RPA Hub so that it can interact with this shared parameter. You can assign more than one bot process to a shared parameter.
--   **[Unassign a bot process from a shared parameter in RPA Hub](../task/unassign-botprocess-shared-parameter.md)**  
+-   **[Unassign a bot process from a shared parameter in RPA Hub](unassign-botprocess-shared-parameter.md)**  
 Unassign a bot process from a shared parameter in RPA Hub to stop an interaction with this shared parameter.
 
 **Parent Topic:**[Using RPA Hub](managing-rpa-hub.md)

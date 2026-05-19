@@ -106,5 +106,5 @@ Authorize the Microsoft Exchange Online spoke actions by creating credential rec
 -   **[Create connection records for the Microsoft Exchange Online spoke](create-connection-records-for-the-microsoft-exchange-online-spoke.md)**  
 Perform actions in Microsoft Exchange Online by creating connection records for your Microsoft Exchange Online account. The Microsoft Exchange Online spoke connection and credential alias uses these connections to perform actions.
 
-**Parent Topic:**[Integrate Microsoft Office 365 calendar with Walk-up Experience](../concept/walkup-ms-office-365-integration.md)
+**Parent Topic:**[Integrate Microsoft Office 365 calendar with Walk-up Experience](walkup-ms-office-365-integration.md)
 

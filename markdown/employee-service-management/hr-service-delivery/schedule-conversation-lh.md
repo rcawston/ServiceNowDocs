@@ -96,5 +96,5 @@ Cancel
 Close this conversation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Leader Hub reference](../../td-leader-hub/concept/td-lh-reference.md)
+</table>**Parent Topic:**[Leader Hub reference](td-lh-reference.md)
 

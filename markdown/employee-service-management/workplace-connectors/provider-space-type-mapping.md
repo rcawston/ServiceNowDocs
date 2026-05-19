@@ -34,7 +34,7 @@ Role required: admin
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](setup-occupancy-connectors.md)
 
 **Previous topic:**[Provider Connector Configuration](provider-connector-config-occupancy.md)
 

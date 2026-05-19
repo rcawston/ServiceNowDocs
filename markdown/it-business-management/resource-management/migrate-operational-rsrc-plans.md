@@ -32,5 +32,5 @@ Role required: resource\_manager, it\_project\_manager, demand\_manager, admin
     **Tip:** You can [Activate a scheduled job to migrate resource plans and cost plans](migrate-rsrc-plan-cost-plan-scheduled-job.md).
 
 
-**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](../concept/rsrc-plans-rsrc-asgmnts.md)
+**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](rsrc-plans-rsrc-asgmnts.md)
 

@@ -49,7 +49,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 6.  Select **Add new** to create an improvement opportunity.
 
-    The improvement opportunity definition page is displayed. For more information, see [Set rule-based improvement opportunity](rule-based-builder.md) and [Setting Automated improvement opportunities](../concept/automated-findings.md).
+    The improvement opportunity definition page is displayed. For more information, see [Set rule-based improvement opportunity](rule-based-builder.md) and [Setting Automated improvement opportunities](automated-findings.md).
 
     Select the **Get recommendations** button to get recommendations for the automated improvement opportunities based on the configuration you have set in the Process perspectives section of the Process details page.
 

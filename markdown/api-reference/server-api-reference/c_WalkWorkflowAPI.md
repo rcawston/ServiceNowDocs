@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The WalkWorkflow script include provides methods to walk a workflow and return a list of successors for each activity along with a shortest path order that indicates the activity depth in the workflow.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Walkworkflow - Walkworkflow\(GlideRecord workflowVersion\)
 

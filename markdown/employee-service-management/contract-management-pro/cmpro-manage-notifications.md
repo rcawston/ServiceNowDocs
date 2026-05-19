@@ -15,11 +15,11 @@ breadcrumb: [Configure additional features in CM Pro, Configure, Contract Manage
 
 Configure the notifications in Contract Management Pro.
 
--   **[Configure Obligation Management notifications](../task/cncore-config-ob-mgmt-notf.md)**  
+-   **[Configure Obligation Management notifications](cncore-config-ob-mgmt-notf.md)**  
 Activate Obligation Management notifications to notify users when an obligation task is created, assigned, submitted, approved, or rejected.
--   **[Configure email notifications for approval workflow in Contract Management Pro](../task/cmpro-send-receive-email-notification-admin.md)**  
+-   **[Configure email notifications for approval workflow in Contract Management Pro](cmpro-send-receive-email-notification-admin.md)**  
 Activate the notifications for Contract Management Pro to notify users when approval for contract revision is initiated, approved, rejected, or cancelled.
--   **[Configure extension point for notifications](../task/cmpro-configure-action-extension-point-email-notification-admin.md)**  
+-   **[Configure extension point for notifications](cmpro-configure-action-extension-point-email-notification-admin.md)**  
 Add or modify an Action and its functionality on the Standard ticket page for a contract request.
 
 **Parent Topic:**[Configure additional features in Contract Management Pro](cmpro-additional-feature.md)
@@ -29,19 +29,19 @@ Add or modify an Action and its functionality on the Standard ticket page for a 
 
 [Configuring Contract Workspace](cncore-conf-cntrct-wrkspc.md)
 
-[Configure signature pause duration when modifying signatories](../task/cncore-pause-sig-property.md)
+[Configure signature pause duration when modifying signatories](cncore-pause-sig-property.md)
 
-[Auto-populate the start date and end date for contract requests](../task/cncore-conf-start-end-date-for-cntrcts.md)
+[Auto-populate the start date and end date for contract requests](cncore-conf-start-end-date-for-cntrcts.md)
 
-[Activate a system property to generate a certificate of completion](../task/cncore-config-system-prop-COC.md)
+[Activate a system property to generate a certificate of completion](cncore-config-system-prop-COC.md)
 
-[Enable users to view email details in activity stream](../task/cncore-enbl-user-email-astream.md)
+[Enable users to view email details in activity stream](cncore-enbl-user-email-astream.md)
 
-[Enable keyword search for contract templates](../task/cncore-enable-search-cont-tmplts.md)
+[Enable keyword search for contract templates](cncore-enable-search-cont-tmplts.md)
 
-[Configuring contract summarization for Contract Management Pro](../task/cmpro-conf-cntr-summary.md)
+[Configuring contract summarization for Contract Management Pro](cmpro-conf-cntr-summary.md)
 
-[Configure conditions to send reminder notifications for expiring contracts](../task/cncore-config-rem-exp-cont.md)
+[Configure conditions to send reminder notifications for expiring contracts](cncore-config-rem-exp-cont.md)
 
-[Copy fields from parent request to amendment request](../task/cncore-cpy-fld-parent-amedreq.md)
+[Copy fields from parent request to amendment request](cncore-cpy-fld-parent-amedreq.md)
 

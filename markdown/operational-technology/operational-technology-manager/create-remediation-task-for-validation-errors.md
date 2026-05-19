@@ -21,7 +21,7 @@ Role required: ot\_excel\_import\_user
 
 ## About this task
 
-You can optionally create remediation tasks to resolve invalid staging records. For more information about the validation errors that can occur for your staging records, see [Managing Validations](../concept/managing-validations.md).
+You can optionally create remediation tasks to resolve invalid staging records. For more information about the validation errors that can occur for your staging records, see [Managing Validations](managing-validations.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ Remediation tasks are created for the invalid staging records. To access the rem
 
 When you view the remediation task record, you can also view the staging records associated with it by selecting the **Staging Records** tab.
 
-**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](../concept/use-excel-sgc-through-import-tasks.md)
+**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](use-excel-sgc-through-import-tasks.md)
 

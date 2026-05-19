@@ -65,5 +65,5 @@ The activity set in which this activity is nested is triggered when the date in 
 
 Configure the widgets for the Pre-hire experience to ensure that they meet your organization's specifications.
 
-**Parent Topic:**[Enable and configure the Pre-hire Experience](../concept/jny-pre-hire-enable-configure.md)
+**Parent Topic:**[Enable and configure the Pre-hire Experience](jny-pre-hire-enable-configure.md)
 

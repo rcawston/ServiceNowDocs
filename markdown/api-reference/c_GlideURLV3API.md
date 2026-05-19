@@ -19,7 +19,7 @@ You can only use this API in client-side scripts using ListV2 and ListV3 APIs.
 
 **Note:** This API is not supported by Service Portal, Now Mobile, or Agent Workspace.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideURLV3 - GlideURL\(String contextPath\)
 

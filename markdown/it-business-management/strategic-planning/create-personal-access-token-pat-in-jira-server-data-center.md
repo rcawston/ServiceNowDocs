@@ -49,5 +49,5 @@ This task is performed outside the ServiceNow instance.
 
 Use this PAT as password while creating connection and credential for your Jira alias. See [Create connection and credentials for SPW Jira Integrations](create-connection-and-credentials.md).
 
-**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](../concept/setting-up-jira-instance-spw.md)
+**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](setting-up-jira-instance-spw.md)
 

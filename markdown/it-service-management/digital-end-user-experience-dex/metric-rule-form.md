@@ -80,7 +80,7 @@ Updated
 Date and time when the metric rule is last updated.
 
 </td></tr></tbody>
-</table>To return to the metric rules page, see [Using metric rules for Digital End-User Experience](../concept/metric-rules.md).
+</table>To return to the metric rules page, see [Using metric rules for Digital End-User Experience](metric-rules.md).
 
 **Parent Topic:**[Administration cards](administration-cards.md)
 

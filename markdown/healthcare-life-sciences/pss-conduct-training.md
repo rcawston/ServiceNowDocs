@@ -27,7 +27,7 @@ Role required: sn\_patientservice.nurse\_educator
 
 ## About this task
 
-A training task is created based on the appointment booking workflow. For more information, see [Appointment booking workflow in Patient Support Services](../concept/pss-appt-booking-feature.md).
+A training task is created based on the appointment booking workflow. For more information, see [Appointment booking workflow in Patient Support Services](pss-appt-booking-feature.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ A training task is created based on the appointment booking workflow. For more i
 
 ## Result
 
-The status of the task is reflected on the Fulfill services task page of the Program services activity in the playbook. For more information, see [Working on an enrollment case in Workspace](../concept/pss-playbook.md).
+The status of the task is reflected on the Fulfill services task page of the Program services activity in the playbook. For more information, see [Working on an enrollment case in Workspace](pss-playbook.md).
 

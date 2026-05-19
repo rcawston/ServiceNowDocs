@@ -52,7 +52,7 @@ You can use the added classes as any other CMDB class. Applications such as Disc
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 CMDB CI Class Models: Release 1.69.0 adds the following classes for OT.
 
@@ -451,8 +451,8 @@ For more information, see [Operational Technology Backup Management data model](
 Use the following key references are important guidelines when creating Operational Technology \(OT\) records:
 
 -   When creating computer or server records for OT Devices that are running on computers or servers, see the following topics:
-    -   [Computer \[cmdb\_ci\_computer\] class](class-computer.md)
-    -   [Server \[cmdb\_ci\_server\] class](class-server.md)
+    -   [Computer \[cmdb\_ci\_computer\] class](../configuration-management-database-cmdb/class-computer.md)
+    -   [Server \[cmdb\_ci\_server\] class](../configuration-management-database-cmdb/class-server.md)
 -   The Manufacturer and Model ID attributes are reference attributes to the Company \[core\_company\] and Product Model \[cmdb\_model\] tables respectively.
 -   The Owned By, Assigned To, Managed By, and Supported By attributes are reference attributes to the User \[sys\_user\] table. The Change Group and Support Group attributes are reference attributes to the Group \[sys\_user\_group\] table.
 
@@ -476,7 +476,7 @@ The ServiceNow AI Platform contains a predefined identification rule for the Ope
     -   If both Serial Number and Name are not available, and only MAC Address is available, use MAC Address as the name of the CI. Using the MAC Address as the name of the CI ensures that you don't create an empty CI.
 5.  Identifier entry that uses a product instance identifier \(PID\) on the CI.
 
-**Note:** To learn more, see [CMDB Identification and Reconciliation \(IRE\)](c_CMDBIdentifyandReconcile.md).
+**Note:** To learn more, see [CMDB Identification and Reconciliation \(IRE\)](../configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md).
 
 **Reclassifying IT devices on your OT network**
 
@@ -1016,5 +1016,5 @@ The [CMDB CI Class Models app](cmdb-ci-class-models.md) app adds class models th
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](../configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 

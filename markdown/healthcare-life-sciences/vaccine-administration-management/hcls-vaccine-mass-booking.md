@@ -117,5 +117,5 @@ When you're ready to schedule the appointments, return to the configuration reco
 
 **Note:** Whenever you process a booking, a new record gets created on the **Mass Booking Jobs** tab. Use this tab to view the progress of the scheduled appointments. For example, you can view the number of total appointments booked, appointments booked in a preferred center, the number of bookings failed for users, and so on.
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

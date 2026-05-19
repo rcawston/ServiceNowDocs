@@ -26,7 +26,7 @@ Icon UI sections have a **Color** section with two fields to control the foregro
 -   Icon section destination function \[sys\_sg\_navigation\_section\_destination\_button\]
 -   Icon section destination screen \[sys\_sg\_navigation\_section\_destination\_screen\]
 
- For details on creating these actions, see [Configure an icon UI section](../task/sg-ui-section-config-navig.md).
+ For details on creating these actions, see [Configure an icon UI section](sg-ui-section-config-navig.md).
 
  You can define any color variable from the UX Theme Properties \[sys\_ux\_theme\_property\] table. For a list available variables see the color design guide below.
 

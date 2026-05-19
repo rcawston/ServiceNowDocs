@@ -45,7 +45,7 @@ If either condition is met, the app sends an email notification to the owner of 
     The resources are added to the Excluded Resources list. To remove a resource from the list, select the resources from the **Excluded** tab and then select **Remove From Exclusion**.
 
 
-**Parent Topic:**[Resize resources with Rightsizing](../concept/resize-res-ci.md)
+**Parent Topic:**[Resize resources with Rightsizing](resize-res-ci.md)
 
 **Related topics**  
 

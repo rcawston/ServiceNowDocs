@@ -34,7 +34,7 @@ Role required: translator
     The newly translated blocks appears in the **Translated Block Versions** related list.
 
 
-**Parent Topic:**[Use translation management](../concept/use-translation-management.md)
+**Parent Topic:**[Use translation management](use-translation-management.md)
 
 **Related topics**  
 

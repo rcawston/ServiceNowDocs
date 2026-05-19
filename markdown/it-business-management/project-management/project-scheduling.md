@@ -57,7 +57,7 @@ When tasks are linked, Project sets a critical path, the longest sequence of dep
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -77,11 +77,11 @@ When tasks are linked, Project sets a critical path, the longest sequence of dep
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Task constraints](task-constraints-project-management.md)
 
-[Schedule a project from a start date](../task/schedule-a-project-pm.md)
+[Schedule a project from a start date](schedule-a-project-pm.md)
 
-[Task link types](../reference/task-link-types-project-management.md)
+[Task link types](task-link-types-project-management.md)
 

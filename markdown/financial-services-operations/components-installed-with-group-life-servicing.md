@@ -48,9 +48,9 @@ Enables insurance carriers to route service requests to underwriters based on th
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](../../fso-common/reference/financial-services-operations-core-data-model.md).|
+|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](financial-services-operations-core-data-model.md).|
 |Group Life Underwriting|Enables management of group policy underwriting services tasks that are used in insurance policy service cases. For more information, see [Components installed with Group Life Underwriting](components-installed-group-life-underwriting.md).|
-|Document Processor|Enables management of document services tasks that are used in insurance policy service workflows. For more information, see [Integrating with Document Processor](../../fso-common/concept/integrating-with-document-processor.md).|
+|Document Processor|Enables management of document services tasks that are used in insurance policy service workflows. For more information, see [Integrating with Document Processor](integrating-with-document-processor.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 |CSM Contributor User|Enables middle office teams to create cases for customer requests. For more information, see [CSM Contributor User](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md) [Configure Contributor Users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md).|
 
@@ -151,7 +151,7 @@ Group policy contributor\[sn\_ins\_group\_life.contributor\]
 
 </td><td>
 
-Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](fso-combine-csm-industry-roles.md).
 
 </td><td>
 

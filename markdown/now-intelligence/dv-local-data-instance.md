@@ -80,8 +80,8 @@ You have created a local data instance and bound it to a data visualization. You
 To enable a viewer to switch between which field values or breakdown elements they see in a data visualization, add filter components to the UI Builder page. For those filters to apply to a local data instance, configure that instance accordingly.
 -   **[Enable data caching for a local data instance](enable-caching-local-data-instance.md)**  
 To help reduce the load time of data visualizations, and if real time or very fresh data is not necessary, enable data caching on the data source.
--   **[Local data instances for multiple data visualizations](../concept/local-data-instance-multi-viz.md#)**  
+-   **[Local data instances for multiple data visualizations](local-data-instance-multi-viz.md#)**  
 A special Data Visualization API data resource is available to fetch data for multiple data visualizations simultaneously. This data resource reduces the number of API calls and thus can speed up data fetching.
 
-**Parent Topic:**[Technical dashboards](../../performance-analytics/concept/technical-dashboards.md)
+**Parent Topic:**[Technical dashboards](technical-dashboards.md)
 

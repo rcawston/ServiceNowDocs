@@ -22,7 +22,7 @@ The following insights are displayed on the card:
 
 ![Customer 360 insights](../image/c360-insights.jpg)
 
-You can configure variables such as tables, display fields, and query conditions. See [Configure the insights card variables](../task/c360-configure-insights-card.md) for details.
+You can configure variables such as tables, display fields, and query conditions. See [Configure the insights card variables](c360-configure-insights-card.md) for details.
 
 **Parent Topic:**[Telecommunications Customer 360 home page](c360-home-page.md)
 

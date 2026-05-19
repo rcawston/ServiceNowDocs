@@ -129,5 +129,5 @@ Alerts start flowing from Grafana into the Event Management plugin. The plugin e
 
 A severity parameter is added which is used only for Grafana 8 and above. The provided value is used as a severity for an event if the severity isn’t passed in custom labels.
 
-**Parent Topic:**[Integrate Grafana events](../concept/grafana-integration.md)
+**Parent Topic:**[Integrate Grafana events](grafana-integration.md)
 

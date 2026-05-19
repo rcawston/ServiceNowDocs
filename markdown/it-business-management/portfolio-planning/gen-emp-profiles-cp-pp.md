@@ -40,5 +40,5 @@ Employee profiles for the selected resources are generated.
 
 ## What to do next
 
-Populate a primary group, primary role, and primary skill for the resources with employee profiles. For more information, see [Map primary attributes to resources](../../spw-capacity-planning/task/map-primary-attributes-cp.md).
+Populate a primary group, primary role, and primary skill for the resources with employee profiles. For more information, see [Map primary attributes to resources](../scenario-planning-in-spw/map-primary-attributes-cp.md).
 

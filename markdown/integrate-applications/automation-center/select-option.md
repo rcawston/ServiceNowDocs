@@ -48,5 +48,5 @@ Role required: sn\_ac.automation\_technical\_user and sn\_nb\_action.next\_best\
     After selecting **Update &amp; Retrain**, the training will start in the scheduler. After it’s complete, it displays **Solution complete**.
 
 
-**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](../concept/config-ra.md)
+**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](config-ra.md)
 

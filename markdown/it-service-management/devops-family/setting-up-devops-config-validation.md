@@ -29,7 +29,7 @@ Data validation configuration tasks
 
 </th></tr></thead><tbody><tr><td>
 
-1. [Install DevOps Config](../task/install-devops-config.md).
+1. [Install DevOps Config](install-devops-config.md).
 
  Install DevOps Config application, content packs, and pipeline plugins.
 
@@ -47,7 +47,7 @@ N/A
 
 </td></tr><tr><td>
 
-2. [Create an application in DevOps Config](../task/create-app-devops-config.md).
+2. [Create an application in DevOps Config](create-app-devops-config.md).
 
  Create an application to set up the entity, and link between ServiceNow products.
 
@@ -57,17 +57,17 @@ N/A
 
 </td></tr><tr><td>
 
-3. [Create a deployable in DevOps Config](../../configuration-data-management/task/cdm-deployable-define.md).
+3. [Create a deployable in DevOps Config](cdm-deployable-define.md).
 
  Create a deployable to define the environments to deploy the configuration data for your application \(typically Dev, Test, and Production\).
 
 </td><td>
 
-Extend the use of the data model by using [components](../../configuration-data-management/task/cdm-component-define.md) and [collections](../../configuration-data-management/task/cdm-collection-define.md) for a deployable in DevOps Config.
+Extend the use of the data model by using [components](cdm-component-define.md) and [collections](cdm-collection-define.md) for a deployable in DevOps Config.
 
 </td></tr><tr><td>
 
-4. [Upload your configuration data](../../configuration-data-management/concept/cdm-upload-process.md).
+4. [Upload your configuration data](cdm-upload-process.md).
 
  Upload your configuration data from each tool source to DevOps Config by creating and running an import script.
 
@@ -77,7 +77,7 @@ Upload configuration data depending on use case.
 
 </td></tr><tr><td>
 
-5. [Define policies in DevOps Config](../task/devops-config-define-policies.md).
+5. [Define policies in DevOps Config](devops-config-define-policies.md).
 
  Define policies to run for validation of config data using default DevOps Config policies.
 
@@ -87,7 +87,7 @@ Upload configuration data depending on use case.
 
 </td></tr><tr><td>
 
-6. [Map policies to a deployable](../../configuration-data-management/task/cdm-deployable-map-policy-to.md).
+6. [Map policies to a deployable](cdm-deployable-map-policy-to.md).
 
  Map policies to a deployable to run for validation of config data.
 
@@ -97,14 +97,14 @@ Extend the use of the data model by mapping policies to components and collectio
 
 </td></tr><tr><td>
 
-7. [Define exporters in DevOps Config](../task/devops-config-define-exporters.md).
+7. [Define exporters in DevOps Config](devops-config-define-exporters.md).
 
  Define exporters to export config data to your pipeline using default DevOps Config exporters.
 
 </td><td>
 
 -   Export config data for use by your deployment tools downstream in your CI/CD pipeline.
--   Extend the use of the data model by [creating a custom exporter](../../configuration-data-management/task/cdm-exporter-create-custom.md).
+-   Extend the use of the data model by [creating a custom exporter](cdm-exporter-create-custom.md).
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ N/A
 
 </td></tr><tr><td>
 
-9. [Run validation in DevOps Config](../task/devops-config-run-validation.md).
+9. [Run validation in DevOps Config](devops-config-run-validation.md).
 
  Run validation and review the results.
 

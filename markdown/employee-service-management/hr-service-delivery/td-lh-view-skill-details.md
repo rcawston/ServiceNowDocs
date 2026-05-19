@@ -45,12 +45,12 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
     -   Top experts \(individuals with the highest proficiency level\)
 5.  Select **Schedule conversation** to schedule a conversation with the team lead for teams that needs attention or have the highest score.
 
-    **Note:** This option is only visible if the Microsoft Outlook integration is enabled for Leader hub. For more information, see [Schedule a conversation form](../../human-resources/reference/schedule-conversation-lh.md).
+    **Note:** This option is only visible if the Microsoft Outlook integration is enabled for Leader hub. For more information, see [Schedule a conversation form](schedule-conversation-lh.md).
 
 6.  Select **Create a conversation** to create a conversation with the team lead for teams that needs attention or have the highest score.
 
-    **Note:** This option is only visible if the Microsoft Outlook integration is not enabled for Leader hub. For more information, see [Create a conversation form](../../human-resources/reference/create-conversation-lh.md).
+    **Note:** This option is only visible if the Microsoft Outlook integration is not enabled for Leader hub. For more information, see [Create a conversation form](create-conversation-lh.md).
 
 
-**Parent Topic:**[Using Leader Hub](../concept/td-lh-using.md)
+**Parent Topic:**[Using Leader Hub](td-lh-using.md)
 

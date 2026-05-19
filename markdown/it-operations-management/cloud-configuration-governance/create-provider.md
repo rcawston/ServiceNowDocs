@@ -18,7 +18,7 @@ The Cloud Provisioning and Governance Cloud API \(CAPI\) offers many providers, 
 ## Before you begin
 
 -   Role required: admin
--   Review [Default CAPI APIs](../reference/default-apis.md) and make sure the provider and product that you want to create are not already provided.
+-   Review [Default CAPI APIs](default-apis.md) and make sure the provider and product that you want to create are not already provided.
 -   Familiarize yourself with the cloud provider API so that you know how to create REST calls to the provider. If you are not familiar with the headers, authentication requirements, endpoint, and data that you can pass into the provider API, you cannot build your own CAPI components.
 
 ## About this task
@@ -101,7 +101,7 @@ Pattern
 
 </td><td>
 
-The pattern that is used to discover the resource type. Select from the [Discovery patterns](../../service-mapping/concept/c_MappingPatternsCustomization.md) lookup list or [create a new pattern](../../service-mapping/task/t_CreatePatternPatDef.md).
+The pattern that is used to discover the resource type. Select from the [Discovery patterns](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md) lookup list or [create a new pattern](../discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md).
 
 </td></tr><tr><td>
 
@@ -121,5 +121,5 @@ The order in which resource type is provisioned or discovered. Specify the order
 
 [Create a CI class for a virtual cloud resource](create-a-ci-class-cloud.md) if necessary, or [Create or extend a CAPI interface](create-interface.md)
 
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](cloud-management-v2-landing-page.md)
 

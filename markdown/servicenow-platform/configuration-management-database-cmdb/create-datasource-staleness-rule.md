@@ -77,10 +77,10 @@ Activates the rule.
 </table>5.  Click **Save**.
 
 
-**Parent Topic:**[Reconciliation rules](../reference/r_ReconciliationRulesPrinciples.md)
+**Parent Topic:**[Reconciliation rules](r_ReconciliationRulesPrinciples.md)
 
 **Related topics**  
 
 
-[Create a CI reconciliation rule](../concept/create-reconciliation-rule.md#)
+[Create a CI reconciliation rule](create-reconciliation-rule.md#)
 

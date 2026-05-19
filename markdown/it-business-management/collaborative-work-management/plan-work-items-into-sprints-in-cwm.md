@@ -38,7 +38,7 @@ Role required: admin
     Here's a gif showing the drag and drop action between the backlog and sprint sections, and across sprints.![Drag and drop work items from backlog to sprint and from one sprint to another.](../images/cwm-schedule-items-into-sprints.gif)
 
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](agile-sprint-planning-in-cwm.md)
 
 **Related topics**  
 

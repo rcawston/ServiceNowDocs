@@ -15,13 +15,13 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 Manage core functions like space hierarchy, neighborhoods, and user assignments.
 
--   **[Use Floor Plan](../task/use-floor-plan.md)**  
+-   **[Use Floor Plan](use-floor-plan.md)**  
 Use the floor plan to manage space and user assignments in your workplace.
--   **[Manage neighborhoods using Space Planning](../task/manage-neighborhoods-central.md)**  
+-   **[Manage neighborhoods using Space Planning](manage-neighborhoods-central.md)**  
 As a space planner, create and manage neighborhoods to assign groups of spaces for your organization's employees.
--   **[Manage spaces using Space Planning](../task/manage-spaces.md)**  
+-   **[Manage spaces using Space Planning](manage-spaces.md)**  
 As a space planner, manage the spaces, their assignments, and their allocations using the Space Planning module.
--   **[Manage workplace profiles using Space Planning](../task/manage-workplace-users.md)**  
+-   **[Manage workplace profiles using Space Planning](manage-workplace-users.md)**  
 Manage the workplace user profiles, their details, and their assignments using the Space Planning module.
 
 **Parent Topic:**[Use Workplace Central](use-workplace-central.md)

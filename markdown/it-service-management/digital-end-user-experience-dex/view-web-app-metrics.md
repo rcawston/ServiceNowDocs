@@ -31,7 +31,7 @@ Role required: sn\_dex.user
 
 4.  Select **Performance** under **Application metrics**.
 
-    You can view information on the users, sessions, response time, page load time, and availability. For more information on the metrics, see [Web application — Performance page](../reference/web-app-health-form.md).
+    You can view information on the users, sessions, response time, page load time, and availability. For more information on the metrics, see [Web application — Performance page](web-app-health-form.md).
 
     **Note:** If you set up a page-level monitoring for specific application pages, you can see the collected metrics in the Metrics analyzer. Select one or more pages under **Pages** and narrow down your data by location, OS, or date range.
 

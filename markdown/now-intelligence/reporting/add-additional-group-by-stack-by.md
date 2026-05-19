@@ -56,5 +56,5 @@ Configure **Additional group by** and **Stack by** choices that users can select
 8.  Select **Save**.
 
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
 

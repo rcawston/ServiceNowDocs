@@ -19,9 +19,9 @@ Role required: sn\_csm\_case\_types.service\_definition\_manager, sn\_csm\_case\
 
 ## About this task
 
-Use the [Service definitions](../concept/csm-service-definitions.md) feature to create definitions for the services that are offered to support your products. This feature is available with the [Customer service case types](../concept/customer-service-case-types.md) plugin.
+Use the [Service definitions](csm-service-definitions.md) feature to create definitions for the services that are offered to support your products. This feature is available with the [Customer service case types](customer-service-case-types.md) plugin.
 
-From the Customer and Consumer Portals, end users can select available services from the [Services portal widget](../concept/csm-service-definitions.md#section_krm_zkv_cwb). Selecting a service displays the record producer associated with the service definition. Submitting the record producer creates a case of the correct case type.
+From the Customer and Consumer Portals, end users can select available services from the [Services portal widget](csm-service-definitions.md#section_krm_zkv_cwb). Selecting a service displays the record producer associated with the service definition. Submitting the record producer creates a case of the correct case type.
 
 ## Procedure
 

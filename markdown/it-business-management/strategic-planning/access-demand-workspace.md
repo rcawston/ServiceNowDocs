@@ -23,7 +23,7 @@ Role required: it\_demand\_user, it\_demand\_manager, sn\_ppm\_read, demand\_app
 
 1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Demands**.
 
-    Demands on the **All Demands** home page are displayed in a list view. For more information, see [Demands list view](../reference/demands-list-view.md).![All Demands home page.](../images/all-demands-home-page.png)
+    Demands on the **All Demands** home page are displayed in a list view. For more information, see [Demands list view](demands-list-view.md).![All Demands home page.](../images/all-demands-home-page.png)
 
 2.  Select a demand to open it.
 
@@ -46,5 +46,5 @@ Role required: it\_demand\_user, it\_demand\_manager, sn\_ppm\_read, demand\_app
 **Related topics**  
 
 
-[Demands list view](../reference/demands-list-view.md)
+[Demands list view](demands-list-view.md)
 

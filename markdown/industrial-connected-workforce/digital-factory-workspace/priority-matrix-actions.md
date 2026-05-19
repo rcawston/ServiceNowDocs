@@ -25,5 +25,5 @@ Use the priority matrix to see how priority is calculated based on impact and ur
 |4 - Operations|2 - This shift|3 - Today|4 - Within 7 days|5 - Within 30 days|
 |5 - Other|3 - Today|4 - Within 7 days|5 - Within 30 days|5 - Within 30 days|
 
-**Parent Topic:**[Action Management](../concept/industrial-action-management.md)
+**Parent Topic:**[Action Management](industrial-action-management.md)
 

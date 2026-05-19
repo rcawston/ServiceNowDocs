@@ -27,7 +27,7 @@ Role required: admin, currency\_admin
 
 3.  In the **Table** field, select the table that contains the FX Currency dictionary attribute.
 
-    For example, if you created a custom table that stores transactional information and contains an FX Currency field, select it from the table listing. To learn more about creating tables in an instance, see [Create a table](../../table-administration/task/t_CreateATable.md).
+    For example, if you created a custom table that stores transactional information and contains an FX Currency field, select it from the table listing. To learn more about creating tables in an instance, see [Create a table](../table-administration-and-data-management/t_CreateATable.md).
 
 4.  In the **Field** field, select the column with the FX Currency field type.
 
@@ -89,7 +89,7 @@ Currency value, as entered into the designated FX Currency field. For example, i
 
 Currency value entered into the designated FX Currency field, converted to the session currency. -   For example, if the user locale is the United States, the session currency appears in US Dollars.
 -   If the user locale is Japan, the session currency appears in the Yen.
- To learn more about the user locale, see [Locale settings](../concept/locales.md).
+ To learn more about the user locale, see [Locale settings](locales.md).
 
 </td></tr><tr><td id="d217568e249">
 
@@ -130,5 +130,5 @@ Currency values, as entered into the designated FX Currency field, converted to 
 </table>10. Click **Save**.
 
 
-**Parent Topic:**[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+**Parent Topic:**[Configuring FX Currency field behavior](configure-fx-currency-field-behavior.md)
 

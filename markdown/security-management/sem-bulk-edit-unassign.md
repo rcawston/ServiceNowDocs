@@ -34,8 +34,8 @@ The  unassign  feature is applicable for records in any state other than Clo
 
 3.  Perform one of the following:
 
-    -   Select the check box next to each item if you want to use the **Only Selected Items** option in the [Record Selection](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-unassign.md#record-slection-field-unassign) field.
-    -   Apply filters if you want to use the **All Vulnerable Items that match filter** option in the [Record Selection](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-unassign.md#record-slection-field-unassign) field.
+    -   Select the check box next to each item if you want to use the **Only Selected Items** option in the [Record Selection](vulnerability-manager-workspace/vmws-bulk-edit-unassign.md#record-slection-field-unassign) field.
+    -   Apply filters if you want to use the **All Vulnerable Items that match filter** option in the [Record Selection](vulnerability-manager-workspace/vmws-bulk-edit-unassign.md#record-slection-field-unassign) field.
 4.  Select the **Bulk Edit** button.
 
 5.  On the form, fill in the fields to remove assignments in bulk.
@@ -113,5 +113,5 @@ In the Security Exposure Management Workspace, on the List page, navigate to **E
 
 In the **Activity stream** of a record or remediation task, you can view the entire workflow of your request.
 
-**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](../concept/sem-using-bulk-edit.md)
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](sem-using-bulk-edit.md)
 

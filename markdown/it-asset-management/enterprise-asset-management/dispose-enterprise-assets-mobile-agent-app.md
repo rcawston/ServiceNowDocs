@@ -120,5 +120,5 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## What to do next
 
-Complete the remaining disposal order tasks on your ServiceNow instance. See [Enterprise asset disposal order stages](../reference/eamasset-disposalorder-stages.md) for more information on enterprise asset disposal order tasks.
+Complete the remaining disposal order tasks on your ServiceNow instance. See [Enterprise asset disposal order stages](eamasset-disposalorder-stages.md) for more information on enterprise asset disposal order tasks.
 

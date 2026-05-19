@@ -82,7 +82,7 @@ The **Risk Score** would be 45 \[\(50/100\) \* 80 + \(40/100\) \* 5 + 0.2 \* 15 
 
 ## Organizational risk score roll-up calculations
 
-The Organization Risk Score Rollup calculator calculates the overall risk score for an organization in the [Unified Vulnerability Response Dashboard](../../../use/dashboards/application-content-packs/vr-unified-dashboard.md) and [Cybersecurity Executive Dashboard](../../../use/dashboards/application-content-packs/vr-unified-CISO-dashboard.md). It rolls up the risk scores for host vulnerable items, application vulnerable items, container vulnerable items, and configuration issues.
+The Organization Risk Score Rollup calculator calculates the overall risk score for an organization in the [Unified Vulnerability Response Dashboard](vulnerability-manager-workspace/vr-unified-dashboard.md) and [Cybersecurity Executive Dashboard](vr-unified-CISO-dashboard.md). It rolls up the risk scores for host vulnerable items, application vulnerable items, container vulnerable items, and configuration issues.
 
 To calculate the maximum risk score, the highest score among VIT, AVIT, test results, and CVIT is chosen. For example, if VITs have the highest score, that score is considered as the maximum risk score.
 

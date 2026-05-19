@@ -62,5 +62,5 @@ Role required: admin
 
 [Configure an Emergency Outreach notification for the exposure notice](configure-outreach-notify-exp-contact.md).
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

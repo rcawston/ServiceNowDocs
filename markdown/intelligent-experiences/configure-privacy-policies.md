@@ -40,5 +40,5 @@ The Now Assist **Privacy Policies** enables you to review and configure how pers
     See [Configuring Data Privacy for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/configure-now-assist-data-privacy.md) for more information on configuring Now Assist policies.
 
 
-**Parent Topic:**[Data sharing and processes](../concept/now-assist-data-sharing-and-processes.md)
+**Parent Topic:**[Data sharing and processes](now-assist-data-sharing-and-processes.md)
 

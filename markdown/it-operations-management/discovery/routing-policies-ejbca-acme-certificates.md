@@ -31,9 +31,9 @@ Streamline your certificate life-cycle workflow by filling out a routing policy 
 
 3.  On the Certificate Routing Policy form, fill in the fields.
 
-    For a description of the field values, see [Certificate routing policy form table](../reference/certificate-routing-policy-form-table.md).
+    For a description of the field values, see [Certificate routing policy form table](certificate-routing-policy-form-table.md).
 
-    **Warning:** For your automated workflow to work, you must fill in every field in your routing policy form. If you don’t, your CSR requires manual steps. You can see all the fields and values at the [Certificate routing policy form table](../reference/certificate-routing-policy-form-table.md).
+    **Warning:** For your automated workflow to work, you must fill in every field in your routing policy form. If you don’t, your CSR requires manual steps. You can see all the fields and values at the [Certificate routing policy form table](certificate-routing-policy-form-table.md).
 
 4.  Select **Submit**.
 

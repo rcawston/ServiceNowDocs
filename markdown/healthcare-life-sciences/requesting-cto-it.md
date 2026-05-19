@@ -13,11 +13,11 @@ breadcrumb: [Care Team Operations for Healthcare IT, Healthcare Operations, Heal
 
 Use the Care Team Portal to report EMR or other IT issues to support teams for fulfillment.
 
--   [Report an EMR issue with Care Team Operations for IT](../task/hcls-cto-it-report-emr-issue.md)
+-   [Report an EMR issue with Care Team Operations for IT](hcls-cto-it-report-emr-issue.md)
 
     Report any issue with your EMR system using the Report an EMR issue catalog item from the Care Team Operations portal.
 
--   [Request other IT service with Care Team Operations for IT](../task/hcls-cto-it-request-other-service.md)
+-   [Request other IT service with Care Team Operations for IT](hcls-cto-it-request-other-service.md)
 
     Request IT service for non-EMR issues using the Request other IT service catalog item from the Care Team Portal.
 

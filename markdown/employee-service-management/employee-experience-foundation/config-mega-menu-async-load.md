@@ -67,7 +67,7 @@ The system properties improve the async load and overall performance.
 **Related topics**  
 
 
-[Portal performance optimization](../concept/ec-load-experience-optimization.md)
+[Portal performance optimization](ec-load-experience-optimization.md)
 
 [User portal data map](user-portal-data-map.md)
 

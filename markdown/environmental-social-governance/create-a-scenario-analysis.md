@@ -120,5 +120,5 @@ Description of the analysis.
 
 Adjust parameters to model different outcomes based on specific interventions or changes. For more information, see [Adjust parameters](create-a-forecast-intervention.md).
 
-**Parent Topic:**[Set up analysis contexts and analyses](../concept/set-up-scenarios.md)
+**Parent Topic:**[Set up analysis contexts and analyses](set-up-scenarios.md)
 

@@ -18,7 +18,7 @@ Create a schema to enable your Stream Connect producers and consumers to send an
 ## Before you begin
 
 -   Role required: kafka\_admin
--   This feature is part of schema management in Stream Connect. For more information, see [Schema management in Stream Connect](../concept/schema-management.md).
+-   This feature is part of schema management in Stream Connect. For more information, see [Schema management in Stream Connect](schema-management.md).
 -   The ServiceNow Stream Connect Installer \[com.glide.hub.stream\_connect.installer\] plugin is required.
 
 ## About this task
@@ -55,5 +55,5 @@ Your schema is visible on the Standalone Stream Connect Schema \[standalone\_str
 
 Use Stream Connect producers and consumers to send and receive messages in an Avro format.
 
-**Parent Topic:**[Schema management in Stream Connect](../concept/schema-management.md)
+**Parent Topic:**[Schema management in Stream Connect](schema-management.md)
 

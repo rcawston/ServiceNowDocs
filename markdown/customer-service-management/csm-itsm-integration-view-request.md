@@ -26,7 +26,7 @@ The snc\_internal or snc\_external role and with read access to the related prob
 
 **Note:** The Related Records list shows data only if the logged-in user has access to view the related records.
 
-Customers, customer partners, and internal users with the proxy contact role \(sn\_customerservice.proxy\_contact\) can also create requests from the Customer and Consumer Service Portals. For more information about this feature, see [Create cases as a proxy contact](../concept/employee-create-case-for-customer.md).
+Customers, customer partners, and internal users with the proxy contact role \(sn\_customerservice.proxy\_contact\) can also create requests from the Customer and Consumer Service Portals. For more information about this feature, see [Create cases as a proxy contact](employee-create-case-for-customer.md).
 
 Customers can also view Known Error articles for a problem related to a case. These articles are displayed:
 

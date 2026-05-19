@@ -29,7 +29,7 @@ The ServiceNow AI Platform offers easy customization, live reports and monitorin
 
 ## Administration
 
-The ServiceNow AI Platform [Admin Center](../../admin-center/concept/admin-center-intro.md) gives business administrators easy subscription management, a full-service catalog for services and products, and total control over workflow process optimization. Localization is available in more than a dozen languages and currencies. In-house and third-party translation services handle communications, virtual agent chat, user input translation, and more. Analytics tools provide detailed feedback on user activity, security, and other important aspects of your digital enterprise.
+The ServiceNow AI Platform [Admin Center](admin-center/admin-center-intro.md) gives business administrators easy subscription management, a full-service catalog for services and products, and total control over workflow process optimization. Localization is available in more than a dozen languages and currencies. In-house and third-party translation services handle communications, virtual agent chat, user input translation, and more. Analytics tools provide detailed feedback on user activity, security, and other important aspects of your digital enterprise.
 
 ## Integration
 
@@ -67,7 +67,7 @@ ServiceNow has a full series of options available to ServiceNow AI Platform subs
 
     Analyze and maximize workflow performance.
 
--   **[AI Search](../../ai-search/concept/overview-ais.md)**
+-   **[AI Search](ai-search/overview-ais.md)**
 
     Offer a consumer-grade search experience for users.
 

@@ -21,15 +21,15 @@ The exclusions page lists the tables that aren’t copied during an instance clo
 
 To view child tables of a table, you can go to the following link and input their table: **\[instance\].service-now.com/now/nav/ui/classic/params/target/generic\_hierarchy\_erd.do**.
 
-By default, the system excludes tables for logging, auditing, notifications, workflow contexts, and license usage. To configure additional exclusions, see [Exclude a table from cloning](../task/t_ExcludeATableFromCloning.md).
+By default, the system excludes tables for logging, auditing, notifications, workflow contexts, and license usage. To configure additional exclusions, see [Exclude a table from cloning](t_ExcludeATableFromCloning.md).
 
-For information on guidelines when adding exclusions see [General guidelines for excluding a table from cloning](../reference/clone-exclusions-guidelines.md).
+For information on guidelines when adding exclusions see [General guidelines for excluding a table from cloning](clone-exclusions-guidelines.md).
 
 ## Preservers
 
 The preservers page displays a list of available data preservers, which are defined on the source instance. Preservers protect data on the target instance from being overwritten.
 
-Preservers work differently compared to exclusions. When preserving a table, the clone automation doesn’t automatically preserve the child tables. Therefore, the child tables must be individually added to the preserver list. To create a preserver see [Create a clone preserver](../task/create-new-clone-preserver.md).
+Preservers work differently compared to exclusions. When preserving a table, the clone automation doesn’t automatically preserve the child tables. Therefore, the child tables must be individually added to the preserver list. To create a preserver see [Create a clone preserver](create-new-clone-preserver.md).
 
 ## Cleanup scripts
 
@@ -51,7 +51,7 @@ All cleanup scripts run in the global scope irrespective of the scope in which y
 
 **Note:** After the clone completes, all active cleanup scripts are combined together as a scheduled job named **Execute Clone Cleanup Script: Execute Cleanup Scripts Sequentially** and run until completion in the global scope.
 
-To create a cleanup script see [Create cleanup scripts](../task/create-cleanup-script.md#).
+To create a cleanup script see [Create cleanup scripts](create-cleanup-script.md#).
 
 ## Clarifying exclusions and preservers combinations
 

@@ -119,5 +119,5 @@ Since this example runs in supervised mode, the flow pauses until the support us
 
 After the support user provides the necessary response, the flow continues running the action and provides it output values. The flow uses these output values to send an email message.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

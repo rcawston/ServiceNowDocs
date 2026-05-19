@@ -23,11 +23,11 @@ Creating users, groups, and roles provide a flexible and scalable way to manage 
 
 Subscriptions, users, groups, and roles work together to help you define who can access features on your instance.
 
-1.  [Subscription Management](../../subscription-management/reference/subscription-management-landing-page-v2.md)
+1.  [Subscription Management](../subscription-management-landing-page-v2.md)
 
     Understand your subscriptions. Subscription management enables you to manage your subscriptions proactively and monitor subscription usage on your instances.
 
-    Subscriptions may include per-user subscriptions. For more information, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md).
+    Subscriptions may include per-user subscriptions. For more information, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md).
 
 2.  [Creating users, companies, and departments](using-user-administration.md)
 
@@ -43,11 +43,11 @@ Subscriptions, users, groups, and roles work together to help you define who can
 
     Roles describe the types of activities that a user can perform on the instance. Each role has a set of permissions that can govern what the users and groups can do, such as read, write, create, or delete records. Roles can be assigned to users and groups. Users can have multiple roles.
 
-    For a complete list of the roles included with the ServiceNow AI Platform, see [Base system roles](../reference/r_BaseSystemRoles.md).
+    For a complete list of the roles included with the ServiceNow AI Platform, see [Base system roles](r_BaseSystemRoles.md).
 
     Role records are stored in the Roles \[sys\_user\_role\] table.
 
-5.  [Monitoring instance usage](../../subscription-management/concept/usage-analytics-module-subscription.md)
+5.  [Monitoring instance usage](../platform-performance/usage-analytics-module-subscription.md)
 
     Users with the admin or usage\_admin role can view the **Application usage overview** and ServiceNow Store **usage overview** dashboards to track instance usage.
 
@@ -78,7 +78,7 @@ Roles control access to features and capabilities in applications and modules. T
 
 After access has been granted to a role, all the groups or users assigned to the role are granted the access. Roles can contain other roles, and any access granted to a role is granted to any role that contains it.
 
-For a complete list of the roles included with the ServiceNow platform, see [Base system roles](../reference/r_BaseSystemRoles.md).
+For a complete list of the roles included with the ServiceNow platform, see [Base system roles](r_BaseSystemRoles.md).
 
 **Note:**
 

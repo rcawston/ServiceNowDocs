@@ -44,5 +44,5 @@ Even if you create a new information object from the **\[PI\] Information object
 
 The information object that you classified as personal information appears in the \[PI\] Information Objects list.
 
-**Parent Topic:**[Manage the Privacy Management library](../concept/privacy-library-setup.md)
+**Parent Topic:**[Manage the Privacy Management library](privacy-library-setup.md)
 

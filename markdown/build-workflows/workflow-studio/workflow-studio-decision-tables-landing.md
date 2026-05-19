@@ -23,19 +23,19 @@ This video provides an example of creating a decision table from within a Workfl
 
 <table id="table_p4v_mvz_nyb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about decision table concepts and features](../../decision-table/concept/exploring-decision-builder.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about decision table concepts and features](exploring-decision-builder.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure environments, tools, and user access for decision tables in Workflow Studio](../../decision-table/concept/configuring-decision-builder.md#)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure environments, tools, and user access for decision tables in Workflow Studio](configuring-decision-builder.md#)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Build decision tables in Workflow Studio](../../decision-table/concept/using-decision-builder.md)
+[Use![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Build decision tables in Workflow Studio](using-decision-builder.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about decision table properties and Domain Separation](../../decision-table/concept/decision-builder-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about decision table properties and Domain Separation](decision-builder-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources

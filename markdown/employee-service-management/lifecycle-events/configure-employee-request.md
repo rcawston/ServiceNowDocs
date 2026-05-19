@@ -69,7 +69,7 @@ Category
 
 </td><td>
 
-Employee Requests category types.-   For the HR Service category type, see [HR services](../concept/hr-service-administration.md).
+Employee Requests category types.-   For the HR Service category type, see [HR services](../hr-service-delivery/hr-service-administration.md).
 -   For the Catalog Item category type, see [Service catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_IntroductionToCatalogItems.md).
 
 
@@ -121,13 +121,13 @@ Audience
 
 </td><td>
 
-Specific groups of users that have access to the employee request. For more information about these groups, see [Audiences](../../employee-center/concept/ecpro-audience.md).
+Specific groups of users that have access to the employee request. For more information about these groups, see [Audiences](../employee-experience-foundation/ecpro-audience.md).
 
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Lifecycle Events employee requests](../concept/employee-requests.md)
+**Parent Topic:**[Lifecycle Events employee requests](employee-requests.md)
 
 **Related topics**  
 

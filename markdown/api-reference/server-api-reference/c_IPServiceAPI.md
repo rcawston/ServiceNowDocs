@@ -17,9 +17,9 @@ The IPService script include provides methods that encapsulate an IP Service.
 
 Use this class during the discovery scanning phase.
 
-See also [AbstractDBObject - isValid\(\)](../../AbstractDBObject/concept/c_AbstractDBObject.md#).
+See also [AbstractDBObject - isValid\(\)](c_AbstractDBObject.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## IPService - IPService\(Object source\)
 

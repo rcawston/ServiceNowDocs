@@ -40,7 +40,7 @@ The attribute pack tables are added on the **Packs** tab.
 
 You can update the fields in the pack table that you’ve added. To learn more, see [Review and update a pack for a CI record](review-update-pack-table.md).
 
-**Parent Topic:**[Attribute pack for CI records](../concept/using-pack-table-ci-record.md)
+**Parent Topic:**[Attribute pack for CI records](using-pack-table-ci-record.md)
 
 **Related topics**  
 

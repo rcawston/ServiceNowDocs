@@ -32,5 +32,5 @@ Role required: sn\_ac.automation\_technical\_user and sn\_ac.automation\_admin
 
 [Create an action category](create-action-category.md)
 
-**Parent Topic:**[Creating an action](../concept/creating-action.md)
+**Parent Topic:**[Creating an action](creating-action.md)
 

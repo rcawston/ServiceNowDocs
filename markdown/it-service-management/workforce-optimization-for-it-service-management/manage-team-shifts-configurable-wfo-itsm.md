@@ -23,7 +23,7 @@ Role required: sn\_shift\_planning.admin
 
 In the **Shifts** tab, you can view the work shifts and on-call shifts in separate tabs. The shifts are grouped by active and inactive shifts. The contextual side panel displays the active and then the inactive shifts in the order it is displayed in the **Shifts** tab. You can scroll through the shifts using pagination.
 
-**Note:** Your administrator can set user preferences for the pagination size to view work shifts and on-call shifts. For more information see, [Scheduling in Workforce Optimization for ITSM](../reference/configurable-wfo-itsm-scheduling-reference.md)
+**Note:** Your administrator can set user preferences for the pagination size to view work shifts and on-call shifts. For more information see, [Scheduling in Workforce Optimization for ITSM](configurable-wfo-itsm-scheduling-reference.md)
 
 ## Procedure
 
@@ -118,10 +118,10 @@ You can view the name of the primary agent for each on-call shift on the shift c
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](scheduling-configurable-workforce-optimization-itsm.md)
 
 **Related topics**  
 
 
-[On-Call Scheduling](../../../administer/on-call-scheduling/concept/c_OnCallScheduling.md)
+[On-Call Scheduling](../on-call-scheduling/c_OnCallScheduling.md)
 

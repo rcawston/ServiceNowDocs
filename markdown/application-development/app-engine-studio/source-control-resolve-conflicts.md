@@ -90,5 +90,5 @@ Applies the application file version from the most recent pull from the reposito
     The system applies the selected changes.
 
 
-**Parent Topic:**[Use AES with a Git source control repository](../concept/aes-source-control-use.md)
+**Parent Topic:**[Use AES with a Git source control repository](aes-source-control-use.md)
 

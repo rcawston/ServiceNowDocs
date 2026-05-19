@@ -17,10 +17,10 @@ It is possible to manually add approvers to a request.
 
 Additional approvers can be added by clicking the **Edit** button in the Approvers section near the bottom of a request. When an approver is added manually, the status for that approver defaults to **Not Yet Requested**. When the status of the approver changes to **Requested**, the approver is sent an email requesting approval action.
 
-**Parent Topic:**[Classic approvals](../reference/r_Approvals.md)
+**Parent Topic:**[Classic approvals](r_Approvals.md)
 
 **Related topics**  
 
 
-[Classic approvals](../reference/r_Approvals.md)
+[Classic approvals](r_Approvals.md)
 

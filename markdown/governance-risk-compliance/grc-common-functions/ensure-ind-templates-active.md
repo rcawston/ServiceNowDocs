@@ -38,5 +38,5 @@ Starting with version 12.0.1 of the Technology Controls Monitoring Accelerator a
     **Note:** You must repeat this process any time you upgrade this application.
 
 
-**Parent Topic:**[Technology Controls Monitoring Accelerator](../concept/tech-controls-monitoring-accel.md)
+**Parent Topic:**[Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md)
 

@@ -33,7 +33,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 6.  On the Provision LAG form, fill in the fields.
 
-    To learn more about the fields, see [Provision LAG form](../reference/provision-lag-form.md).
+    To learn more about the fields, see [Provision LAG form](provision-lag-form.md).
 
 7.  Select **Submit**.
 
@@ -49,7 +49,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 10. On the **Details** tab, on the change task form, fill in the fields.
 
-    For a description of the field values, see the Change task form in [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see the Change task form in [Change request and change task forms](change_request_forms.md).
 
 11. Create, review, update, or delete an affected configuration item by selecting the **Affected CIs** related tab.
 
@@ -60,5 +60,5 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 Add or remove a member to LAG using [Add or remove a member to Link Aggregation](create-a-change-request-to-add-or-remove-member-to-link-aggregation.md).
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 

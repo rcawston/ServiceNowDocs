@@ -27,7 +27,7 @@ A sales agreement is a contract to purchase a defined set of products and servic
 -   Agents can configure product bundles for orders.
 -   Agents can move quickly through the order process.
 
-See [Using Sales Agreement Management](../concept/sales-agreement-mgmt-using.md) and [Create a sales agreement](create-new-sales-agreement.md) to learn more about creating a sales agreement.
+See [Using Sales Agreement Management](sales-agreement-mgmt-using.md) and [Create a sales agreement](create-new-sales-agreement.md) to learn more about creating a sales agreement.
 
 ## Procedure
 
@@ -55,7 +55,7 @@ See [Using Sales Agreement Management](../concept/sales-agreement-mgmt-using.md)
 **Related topics**  
 
 
-[Sales Agreement Management](../concept/sales-agreement-mgmt.md)
+[Sales Agreement Management](sales-agreement-mgmt.md)
 
-[Configure Sales Agreement Management](../concept/configure-sales-agreement-mgmt.md)
+[Configure Sales Agreement Management](configure-sales-agreement-mgmt.md)
 

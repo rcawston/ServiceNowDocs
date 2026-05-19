@@ -44,5 +44,5 @@ The Emergency Self Report dashboard enables monitoring by and tasks of the emerg
     Click any element in a chart, such as a pie wedge or marker, to see the corresponding data.
 
 
-**Parent Topic:**[Emergency Self Report](../concept/emergency-self-report.md)
+**Parent Topic:**[Emergency Self Report](emergency-self-report.md)
 

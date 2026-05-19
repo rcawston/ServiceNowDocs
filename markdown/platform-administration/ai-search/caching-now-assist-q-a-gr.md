@@ -89,7 +89,7 @@ The Now Assist Q&amp;A Genius Result answer caches support the following operati
 
 The default operational mode is **off**.
 
-Administrators can change the operational mode for the Now Assist Q&amp;A Genius Result answer caches by setting the value for the **sn\_ais\_assist.semantic\_cache\_mode** system property to **off**, **offline**, or **online**. For details on system property settings, see [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#).
+Administrators can change the operational mode for the Now Assist Q&amp;A Genius Result answer caches by setting the value for the **sn\_ais\_assist.semantic\_cache\_mode** system property to **off**, **offline**, or **online**. For details on system property settings, see [Add a system property](../r_AvailableSystemProperties.md#).
 
 For more details on using Dynamic Translation with Now Assist Genius Results, see [Dynamic Translation for Now Assist Q&amp;A Genius Results](dynamic-translation-na-gr.md).
 
@@ -97,7 +97,7 @@ For more details on using Dynamic Translation with Now Assist Genius Results, se
 
 The **Update Semantic Cache** scheduled job runs daily to perform the following tasks:
 
--   Populate the second-level cache with results for the most frequently submitted queries found in the Search Event \[sys\_search\_event\] search signal table. For more information on this table, see [Search signal tables](../../search-administration/reference/search-signal-tables.md).
+-   Populate the second-level cache with results for the most frequently submitted queries found in the Search Event \[sys\_search\_event\] search signal table. For more information on this table, see [Search signal tables](../search-administration/search-signal-tables.md).
 -   Purge all unpinned second-level cache entries that have not been used in the past seven days. Search administrators can pin results in the second-level cache table to prevent them from being purged. For more details on this procedure, see [Pin cached answers for Now Assist Q&amp;A Genius Results](caching-now-assist-q-a-gr.md#).
 
 **Parent Topic:**[Now Assist Q&amp;A Genius Results](now-assist-qna-genius-results.md)
@@ -108,7 +108,7 @@ Improve performance for Now Assist Q&amp;A Genius Results by pinning frequently 
 
 ### Before you begin
 
-The Now Assist in AI Search ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](../task/install-now-assist-ais.md).
+The Now Assist in AI Search ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](install-now-assist-ais.md).
 
 Role required: ais\_admin
 

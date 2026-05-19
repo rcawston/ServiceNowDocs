@@ -17,13 +17,13 @@ Create a service definition for each claim type by using the Insurance claims ap
 
 For a summary of service definitions, review the links in the Related information section on this page.
 
--   **[Create a service definition category for Insurance claims](../task/create-a-service-definition-category-for-insurance-claims.md)**  
+-   **[Create a service definition category for Insurance claims](create-a-service-definition-category-for-insurance-claims.md)**  
 Create a service definition category in Insurance claims to properly classify and handle claims that are related to a particular benefit.
--   **[Create a service definition for Insurance claims](../task/create-a-service-definition-for-insurance-claims.md)**  
+-   **[Create a service definition for Insurance claims](create-a-service-definition-for-insurance-claims.md)**  
 Create a service definition for each claim type in your Insurance claims workflow. You can also create a service definition to generate adjuster tasks in the workflow.
--   **[Link the insurance product model and claim case service definition](../task/link-the-insurance-product-model-and-service-definition.md)**  
+-   **[Link the insurance product model and claim case service definition](link-the-insurance-product-model-and-service-definition.md)**  
 Link the insurance product model and claim case service definition by using the Insurance claims application. Without this link, the system doesn’t know which policies are relevant to the case service definition.
--   **[Add a document list definition to a service definition](../task/add-document-list-definition-to-service-definition.md)**  
+-   **[Add a document list definition to a service definition](add-document-list-definition-to-service-definition.md)**  
 Add a document list definition to a service definition by using the Insurance claims application so that you can define the required documents that a customer needs to provide for a particular claim.
 
 **Parent Topic:**[Setting up Insurance claims](setting-up-insurance-claims-flow.md)
@@ -33,5 +33,5 @@ Add a document list definition to a service definition by using the Insurance cl
 
 [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 
-[Service Definitions in FSO](../../../integrate/guides/FSO/concept/fso-int_guide-service-definitions-in-fso.md)
+[Service Definitions in FSO](../fso-int_guide-service-definitions-in-fso.md)
 

@@ -30,9 +30,9 @@ You can edit these permissions on the existing operations at any time to suit yo
 
 ![Manage model page with create, read, and update operations that have the admin and erp_user role assigned.](../image/erp-operation-security2.png)
 
-To learn more about adding an operation, see [Add an operation to a model in Zero Copy Connector for ERP](../task/erpc-manage-models-read-op.md).
+To learn more about adding an operation, see [Add an operation to a model in Zero Copy Connector for ERP](erpc-manage-models-read-op.md).
 
-To clone a model, you must have permissions to access the model operations. For more information, see [Clone an ERP model in Zero Copy Connector for ERP](../task/erp-canvas-clone-data-model.md).
+To clone a model, you must have permissions to access the model operations. For more information, see [Clone an ERP model in Zero Copy Connector for ERP](erp-canvas-clone-data-model.md).
 
 **Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

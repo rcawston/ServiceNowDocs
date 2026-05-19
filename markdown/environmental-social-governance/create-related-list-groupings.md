@@ -178,5 +178,5 @@ The path of the UX screen. This option appears only when the **Type** field cont
 
 The following figure shows grouped related lists.![How related lists are grouped on a form after configuration.](../images/related-list-groups.png)
 
-**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](../concept/configuring-esg.md)
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](configuring-esg.md)
 

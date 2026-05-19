@@ -39,7 +39,7 @@ Forcing a notification means that the relevant users receive the notification, e
 
     3.  Select **Save**.
 
-        For more information about configuring the form, see [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#).
+        For more information about configuring the form, see [Configuring the form layout](configure-form-layout.md#).
 
 4.  Select the **Force delivery** check box.
 
@@ -48,5 +48,5 @@ Forcing a notification means that the relevant users receive the notification, e
     Unlike using the **Mandatory** option, forcing the delivery does not lock the user's preference or prevent the user from unsubscribing from the notification.
 
 
-**Parent Topic:**[Subscription-based notifications](../concept/c_SubscriptionBasedNotifications.md)
+**Parent Topic:**[Subscription-based notifications](c_SubscriptionBasedNotifications.md)
 

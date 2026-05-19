@@ -35,7 +35,7 @@ Role required: flow\_designer or admin.
 
     This action runs on each object within the data stream.
 
-    **Note:** You cannot add an action that pauses the flow to a Data Stream For Each flow logic block. Data Stream actions require a constant connection to the response stream. For example, you cannot use the Ask for Approval or Wait for Condition actions within Data Stream For Each flow logic. For more information, see [Data Stream action design considerations](../concept/data-stream-design.md).
+    **Note:** You cannot add an action that pauses the flow to a Data Stream For Each flow logic block. Data Stream actions require a constant connection to the response stream. For example, you cannot use the Ask for Approval or Wait for Condition actions within Data Stream For Each flow logic. For more information, see [Data Stream action design considerations](data-stream-design.md).
 
     ![Create Incident Record child action within flow logic block.](../images/data-stream-for-each.png)
 
@@ -50,5 +50,5 @@ Test the flow until it is ready to be activated.
 
 **Note:** The system only triggers active flows.
 
-**Parent Topic:**[Data Stream actions and pagination](../concept/data-stream-actions.md)
+**Parent Topic:**[Data Stream actions and pagination](data-stream-actions.md)
 

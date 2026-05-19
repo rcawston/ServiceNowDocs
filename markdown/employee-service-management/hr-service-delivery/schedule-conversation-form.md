@@ -103,23 +103,23 @@ Close this conversation.
 
 [Components installed with Manager Hub](installed-with-managerhub.md)
 
-[Campaign configurations for Manager Hub](../concept/manager-hub-campaign.md)
+[Campaign configurations for Manager Hub](manager-hub-campaign.md)
 
-[Default configurations for important dates](../concept/manager-hub-imp-dates.md)
+[Default configurations for important dates](manager-hub-imp-dates.md)
 
-[Default configurations for team requests](../concept/manager-hub-team-requests.md)
+[Default configurations for team requests](manager-hub-team-requests.md)
 
-[Default configurations for team data](../concept/team-data-config.md)
+[Default configurations for team data](team-data-config.md)
 
-[Default configurations for team column data](../concept/config-team-column.md)
+[Default configurations for team column data](config-team-column.md)
 
-[Default configurations for filter groups](../concept/config-filter-group.md)
+[Default configurations for filter groups](config-filter-group.md)
 
-[Default configurations for daily stats](../concept/config-daily-stats.md)
+[Default configurations for daily stats](config-daily-stats.md)
 
-[Default configurations for To do's](../concept/manager-hub-todos.md)
+[Default configurations for To do's](manager-hub-todos.md)
 
-[Default proactive prompts for Manager Hub](../concept/prompts-mh.md)
+[Default proactive prompts for Manager Hub](prompts-mh.md)
 
 [Use the View menu icon in Manager Hub](view-menu.md)
 

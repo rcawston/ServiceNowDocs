@@ -28,9 +28,9 @@ The following notifications are not activated by default:
 -   Obligation task approved
 -   Obligation task rejected
 
-For information about how to activate notifications, see [Configure Obligation Management notifications](../task/cncore-config-ob-mgmt-notf.md).
+For information about how to activate notifications, see [Configure Obligation Management notifications](cncore-config-ob-mgmt-notf.md).
 
-**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
 
 **Related topics**  
 
@@ -59,7 +59,7 @@ For information about how to activate notifications, see [Configure Obligation M
 
 [Obligation form](cncore-obligation-form.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](contract-management-pro-glossary.md#)
 
 [Contract Management solutions](cmpro-cml-feature-compare.md)
 

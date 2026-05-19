@@ -27,5 +27,5 @@ Enter the following field settings for Source-to-Target restricted caller access
 |Target Scope|Scope of the requested resource that contains the target application resources that the source application resource requests access to.|
 |Target Type|Type of requested resource. Select the specific application resource \(for example, business rule, Script Include, event\) the source application resource requests access to.|
 
-**Parent Topic:**[Set the application scope, application resource, and event access](../task/scope-resource-access.md)
+**Parent Topic:**[Set the application scope, application resource, and event access](scope-resource-access.md)
 

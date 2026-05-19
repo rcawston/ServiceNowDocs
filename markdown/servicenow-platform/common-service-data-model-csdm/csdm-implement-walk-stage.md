@@ -39,7 +39,7 @@ In the Walk stage, you identify and populate the network infrastructure CIs and 
 
 -   **Use the request catalog**
 
-    The operations enable you to order technology service offerings through the request catalog. You can also automate ordering some offerings to enhance the request workflow and update or create related CIs. Catalogs are described in detail in [Service Catalog](../../service-catalog-management/concept/service-catalog.md).
+    The operations enable you to order technology service offerings through the request catalog. You can also automate ordering some offerings to enhance the request workflow and update or create related CIs. Catalogs are described in detail in [Service Catalog](../service-catalog/service-catalog.md).
 
     **Note:** The request catalog is not a CMDB table.
 
@@ -56,7 +56,7 @@ In the Walk stage, you identify and populate the network infrastructure CIs and 
 
 The walk stage includes base-system CMDB tables that identify the technology provider.
 
-**Note:** Some of the classes that you implement in this stage are logical CIs. Logical CIs aren’t created through Discovery, so their **Model ID** values might not refer to product model \(application model, service model, or software model\) records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. See [Auto-generate product models for logical CIs](../task/csdm-auto-create-prod-model-for-ci.md).
+**Note:** Some of the classes that you implement in this stage are logical CIs. Logical CIs aren’t created through Discovery, so their **Model ID** values might not refer to product model \(application model, service model, or software model\) records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. See [Auto-generate product models for logical CIs](csdm-auto-create-prod-model-for-ci.md).
 
 ![Tables that you work on during the Walk stage.](../image/implementation-stage-walk.png)
 
@@ -81,7 +81,7 @@ The walk stage includes base-system CMDB tables that identify the technology pro
 
 -   **Dynamic CI group \[cmdb\_ci\_query\_based\_service\] table**
 
-    A dynamic CI group is a collection of CIs based on the results of saved Query Builder queries, encoded queries, or manual entries. Query Builder is described in [Exploring CMDB Query Builder](../../configuration-management/concept/querying-cmdb.md). For more information about dynamic CI groups and how you can use them, see [Manage Portfolio domain in the CSDM model](manage-business-services-domain.md).
+    A dynamic CI group is a collection of CIs based on the results of saved Query Builder queries, encoded queries, or manual entries. Query Builder is described in [Exploring CMDB Query Builder](../configuration-management-database-cmdb/querying-cmdb.md). For more information about dynamic CI groups and how you can use them, see [Manage Portfolio domain in the CSDM model](manage-business-services-domain.md).
 
 
 **Parent Topic:**[Implementing the CSDM framework in stages](csdm-implementation-stages.md)

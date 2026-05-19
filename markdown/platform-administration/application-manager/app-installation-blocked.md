@@ -31,7 +31,7 @@ The application version that displays "Installation blocked" isn't licensed.
 
 1.  If your organization uses the application, license the version required for the Now Assist suite installation.
 
-    To license the necessary application version, contact your account executive or request the license through the ServiceNow Store. For more information about licensing applications through the ServiceNow Store, see [Buy a ServiceNow application](../../servicenow-store/task/buy-servicenow-app.md).
+    To license the necessary application version, contact your account executive or request the license through the ServiceNow Store. For more information about licensing applications through the ServiceNow Store, see [Buy a ServiceNow application](../buy-servicenow-app.md).
 
 
 ## Resolution: Uninstall the application
@@ -40,7 +40,7 @@ The application version that displays "Installation blocked" isn't licensed.
 
 1.  If your organization doesn't use the application that blocks installation, uninstall it through the Application Manager.
 
-    For more information about uninstalling applications, see [Uninstall an application](../task/uninstall-application-app-mgr.md).
+    For more information about uninstalling applications, see [Uninstall an application](uninstall-application-app-mgr.md).
 
 
 **Parent Topic:**[Application Manager reference](app-mgr-reference.md)

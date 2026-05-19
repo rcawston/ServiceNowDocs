@@ -21,7 +21,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 ## About this task
 
-Before you import questionnaires, validate that the data in the spreadsheet meets certain requirements. To help you before you import the spreadsheet, you can review the formatting requirements and view or download a sample spreadsheet to use as a guide. See [Guidelines for importing spreadsheet data](../concept/excel-formatting-guidelines.md).
+Before you import questionnaires, validate that the data in the spreadsheet meets certain requirements. To help you before you import the spreadsheet, you can review the formatting requirements and view or download a sample spreadsheet to use as a guide. See [Guidelines for importing spreadsheet data](excel-formatting-guidelines.md).
 
 You can specify the following property settings:
 
@@ -36,7 +36,7 @@ You can specify the following property settings:
     Maximum file size in MB that can be imported.
 
 
-See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+See [Configure TPRM properties](tprm-properties-configure.md).
 
 ## Procedure
 
@@ -50,7 +50,7 @@ See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-p
 
     -   Select **Download sample file** to download an active worksheet that is properly formatted for import into Third-party Risk Management. You can use the sample as a guide for reformatting your own spreadsheet, or you can copy data from your spreadsheet directly into the sample.
     -   Select **View sample** to open an image of a properly-formatted worksheet. You can compare this with your existing worksheet to validate that it contains the same columns and question formats.
-    -   Select **Format guidelines** to view [Guidelines for importing spreadsheet data](../concept/excel-formatting-guidelines.md).
+    -   Select **Format guidelines** to view [Guidelines for importing spreadsheet data](excel-formatting-guidelines.md).
 4.  When your spreadsheet is ready for import, either drag it into the **Drop an Excel file here** box, or select **Choose File**, navigate to your Excel file, and then select **Open**.
 
     Errors and warnings appear if the file is formatted incorrectly. You must fix all errors before the questionnaires can be imported. You can import a file that has only warnings, but there might be issues in the resulting question data.
@@ -66,12 +66,12 @@ See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-p
 6.  Expand a category to view the questions in each category.
 
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 
 **Related topics**  
 
 
-[Guidelines for importing spreadsheet data](../concept/excel-formatting-guidelines.md)
+[Guidelines for importing spreadsheet data](excel-formatting-guidelines.md)
 
-[Import existing data from other systems](../../grc-vendor-risk-implementation/task/tprm-historical-data-import.md)
+[Import existing data from other systems](tprm-historical-data-import.md)
 

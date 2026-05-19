@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-For a lens, add entities to modify its existing structure. You can add up to six entities in a lens structure. For more information on lens and its structure, see [Configuring lens in Portfolio Planning](../concept/configuring-lens-in-portfolio-planning.md).
+For a lens, add entities to modify its existing structure. You can add up to six entities in a lens structure. For more information on lens and its structure, see [Configuring lens in Portfolio Planning](configuring-lens-in-portfolio-planning.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ For a lens, add entities to modify its existing structure. You can add up to six
 
     2.  On the form, fill in the fields.
 
-        For field information, see [Lens structure form](../reference/lens-structure-form-portfolio-planning.md).
+        For field information, see [Lens structure form](lens-structure-form-portfolio-planning.md).
 
     3.  Select **Submit.**
 

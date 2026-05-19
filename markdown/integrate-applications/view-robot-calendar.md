@@ -237,5 +237,5 @@ For more information, see [Create a schedule on the robot calendar in RPA Hub](c
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using the robot calendar for RPA Hub](../concept/robot-calendar-rpa.md)
+**Parent Topic:**[Using the robot calendar for RPA Hub](robot-calendar-rpa.md)
 

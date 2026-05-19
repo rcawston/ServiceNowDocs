@@ -36,7 +36,7 @@ The colors of the task bars on the Gantt chart are based on the percent complete
 |Light blue bar|Task is pending or open.|
 |Dark blue bar \(full or partial\)|The percentage complete is between 1% and 100%. The dark blue section indicates the percentage complete. The task can be in the Work in Progress state or Completed state.|
 
-**Note:** The colors of the task bars on the Gantt chart can be configured from [program](../../program-management/task/t_AccessTheProgramWorkbench.md) workbench.
+**Note:** The colors of the task bars on the Gantt chart can be configured from [program](../program-management/t_AccessTheProgramWorkbench.md) workbench.
 
 ## SDLC phases
 
@@ -49,7 +49,7 @@ Icons appear next to tasks to indicate what phase they belong to.
 
 **Note:** Tasks in the waterfall phase do not display an icon.
 
--   **[Gantt chart options](../reference/r_EditTasks.md)**  
+-   **[Gantt chart options](r_EditTasks.md)**  
 Use the Gantt chart to quickly change task attributes, such as start and end time, rather than opening every Task form and modifying field values one by one.
 
 **Parent Topic:**[Using Planning console - Legacy](c_TheProjectPlanningConsole.md)
@@ -57,17 +57,17 @@ Use the Gantt chart to quickly change task attributes, such as start and end tim
 **Related topics**  
 
 
-[Open the project planning console](../task/t_OpenPlanningConsole.md)
+[Open the project planning console](t_OpenPlanningConsole.md)
 
-[Planning console tasks](../reference/r_PlanningConsoleTasks.md)
+[Planning console tasks](r_PlanningConsoleTasks.md)
 
 [Client side planning console](client-side-planning-console.md)
 
-[Create a parent-child relationship on the planning console](../task/t_CreateParentChildRelatConsole.md)
+[Create a parent-child relationship on the planning console](t_CreateParentChildRelatConsole.md)
 
-[Predecessor dependencies in the planning console](../reference/r_ProjectTaskDependencyValues.md)
+[Predecessor dependencies in the planning console](r_ProjectTaskDependencyValues.md)
 
 [Custom columns in the planning console](custom-columns-planning-console.md)
 
-[Create a dependency from the planning console](../task/t_CreateADependency.md)
+[Create a dependency from the planning console](t_CreateADependency.md)
 

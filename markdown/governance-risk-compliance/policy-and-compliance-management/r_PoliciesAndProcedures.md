@@ -97,28 +97,28 @@ Compliance managers catalog the control objectives and generate controls from th
 
 -   **[Create a policy](../task/t_DefineAPolicy.md)**  
 A policy defines an internal practice that processes must follow. Policies are defined as policies, procedures, standards, plans, checklists, frameworks, and templates.
--   **[Approve and publish a policy](../task/t_ApprovePolicy.md)**  
+-   **[Approve and publish a policy](t_ApprovePolicy.md)**  
 When a policy is approved, it is automatically published.
--   **[Acknowledge a policy](../concept/ack-policy.md)**  
+-   **[Acknowledge a policy](ack-policy.md)**  
 After a policy has been published, you can create an acknowledgement campaign to define a group of your employees who must provide an acknowledgement that a particular policy is in compliance. When the campaign has been defined, you can submit the request to the audience.
--   **[Retire a policy](../task/t_RetireAPolicy.md)**  
+-   **[Retire a policy](t_RetireAPolicy.md)**  
 Retiring a policy is part of the policy management process.
 -   **[Create a GRC article template](../task/t_CreateArticleTemplate.md)**  
 Policy and Compliance managers can create templates for policy article publishing.
 -   **[Create a control objective](../task/t_CreateAPolicyStatement.md)**  
 A control objective is an objective, direction, or standard that acts as guidance for company interactions and operations. Control objectives can be categorized, classified, and related to policies.
--   **[Deactivate a control objective](../task/t_DeactivateAPolStatement.md)**  
+-   **[Deactivate a control objective](t_DeactivateAPolStatement.md)**  
 Deactivate control objectives that are no longer relevant to their citation or parent control objective.
 -   **[Relate a control objective to a policy](../task/t_RelatePolicyStateToPolicy.md)**  
 Associate the control objective to a policy individually when the policy is in the review or draft state by clicking the edit button in the Control Objective related list.
--   **[Relate a control objective to a citation](../task/t_RelatePSToACitation.md)**  
+-   **[Relate a control objective to a citation](t_RelatePSToACitation.md)**  
 A single control objective can be mapped to many citations from different authority documents. This function allows you to test a control objective once while complying with many different citations.
 -   **[Create or deactivate a citation](../task/t_CreateCitations.md)**  
 Usually, authority documents, citations, and control objectives are downloaded from a third-party provider. However, citations can be created manually from an authority document. The **Active** option in a citation indicates whether the citation is active or inactive.
--   **[Create an authority document](../task/t_CreateAnAuthorityDocument.md)**  
+-   **[Create an authority document](t_CreateAnAuthorityDocument.md)**  
 Authority documents manage a process and citations are created within them to manage points of the process. For example, the process called Building Security contains a citation for Entry Control.
--   **[Deactivate an authority document](../task/t_DeactivateAnAuthorityDoc.md)**  
+-   **[Deactivate an authority document](t_DeactivateAnAuthorityDoc.md)**  
 The **Active** option in an authority document indicates whether the authority documents have been retired.
 
-**Parent Topic:**[Classic UI for Policy and Control Management](../concept/using-policy-compliance-legacy-ui.md)
+**Parent Topic:**[Classic UI for Policy and Control Management](using-policy-compliance-legacy-ui.md)
 

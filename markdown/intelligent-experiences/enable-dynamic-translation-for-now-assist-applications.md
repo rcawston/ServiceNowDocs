@@ -16,7 +16,7 @@ Turn on multilingual service for user-entered text with native translation or Dy
 
 ## Before you begin
 
-To see a list of all available languages supported in Now Assist, see [Multilingual service for Now Assist](../../now-assist-platform/concept/translation-for-now-assist.md).
+To see a list of all available languages supported in Now Assist, see [Multilingual service for Now Assist](translation-for-now-assist.md).
 
 To use Dynamic Translation, you must install and activate the application and install at least one language pack. For more information, see [Activate Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/activate-dynamic-translation.md) and [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
@@ -28,7 +28,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 ## About this task
 
-There are two translation services available to translate user-generated content in Now Assist applications. For more information on the differences between the two, see [Multilingual service for Now Assist](../../now-assist-platform/concept/translation-for-now-assist.md). In that documentation, you can also find the steps for adding another language to your service if it is not preconfigured.
+There are two translation services available to translate user-generated content in Now Assist applications. For more information on the differences between the two, see [Multilingual service for Now Assist](translation-for-now-assist.md). In that documentation, you can also find the steps for adding another language to your service if it is not preconfigured.
 
 After you have enabled either Dynamic Translation or native translation, translations will be available for in-product experiences, Virtual Agent, and the Now Assist panel.
 
@@ -52,7 +52,7 @@ After you have enabled either Dynamic Translation or native translation, transla
 
 5.  To enable the preferred language from the available languages supported in the model providers selected in AI Control Tower, select **Edit** and then select the check-box next to the languages you want to use for translation.
 
-    See [Multilingual service for Now Assist](../../now-assist-platform/concept/translation-for-now-assist.md) for more information about adding new languages for your preferred model to support.
+    See [Multilingual service for Now Assist](translation-for-now-assist.md) for more information about adding new languages for your preferred model to support.
 
     To update your choice, select **Save**.
 
@@ -61,9 +61,9 @@ After you have enabled either Dynamic Translation or native translation, transla
 
 Multilingual service is enabled for Now Assist applications.
 
--   **[Multilingual service for Now Assist](../../now-assist-platform/concept/translation-for-now-assist.md)**  
+-   **[Multilingual service for Now Assist](translation-for-now-assist.md)**  
 Now Assist applications use the multilingual capabilities of large language models \(LLMs\) to translate user-generated content.
--   **[Microsoft Azure OEM for Dynamic Translation in Now Assist](../concept/dynamic-translation-na-ms-azure-oem.md)**  
+-   **[Microsoft Azure OEM for Dynamic Translation in Now Assist](dynamic-translation-na-ms-azure-oem.md)**  
 Support multi-language input in Now Assist applications with the Microsoft Azure OEM translator service included in Generative AI Controller.
 
 **Parent Topic:**[Now Assist Admin Settings](configure-now-assist-admin-settings.md)

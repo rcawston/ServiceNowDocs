@@ -25,7 +25,7 @@ Role required: customer service agent
 
 3.  In the **Install Base** field, use the search icon ![Search icon.](../image/search_icon.png) to add an install base item on the Create Case form.
 
-    The **Account** and **Contact** fields are automatically filled from the install base form. For a description of the field values, see [Case task form](../reference/csm-case-task-form.md).
+    The **Account** and **Contact** fields are automatically filled from the install base form. For a description of the field values, see [Case task form](csm-case-task-form.md).
 
 4.  In the **Partner** field, use the search icon to ![Search icon.](../image/search_icon.png) search for a partner associated with the selected account.
 

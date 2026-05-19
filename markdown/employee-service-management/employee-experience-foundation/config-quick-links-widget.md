@@ -213,7 +213,7 @@ Option to show the widget with empty state message.
 </table>4.  Click **Save**.
 
 
-**Parent Topic:**[Quick links](../concept/emp-center-quick-link-config.md)
+**Parent Topic:**[Quick links](emp-center-quick-link-config.md)
 
 **Related topics**  
 

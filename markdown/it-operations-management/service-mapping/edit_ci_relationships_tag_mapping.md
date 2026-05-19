@@ -17,9 +17,9 @@ Activate pre-configured CI relationships that Service Mapping does not include b
 
 ## Before you begin
 
-Learn about default feature configuration in [Tag-based discovery in Service Mapping](../concept/tag-based-mapping.md).
+Learn about default feature configuration in [Tag-based discovery in Service Mapping](tag-based-mapping.md).
 
-**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](../reference/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](../concept/tag-discovery-service-mapping-workspace.md).
+**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](tag-discovery-service-mapping-workspace.md).
 
 Role required: service\_mapping\_admin
 
@@ -37,11 +37,11 @@ The Application Services \[svc\_traversal\_rules\] table appears filtered to sho
 
 2.  Click the existing CI relationship that you want to modify or click **New** to use an additional CI relationship in the tag-based discovery process.
 
-    To view default CI relationships, see [Preconfigured CI relationships in tag-based discovery](../reference/ci_relationships_tag_mapping.md).
+    To view default CI relationships, see [Preconfigured CI relationships in tag-based discovery](ci_relationships_tag_mapping.md).
 
 3.  Complete the **Traversal Rules for Application Services** form.
 
-    To complete this form, see [Traversal Rules for Application Services form completion](../reference/traversal_rules_form_completion.md).
+    To complete this form, see [Traversal Rules for Application Services form completion](traversal_rules_form_completion.md).
 
 4.  Click **Submit**.
 
@@ -50,5 +50,5 @@ The Application Services \[svc\_traversal\_rules\] table appears filtered to sho
 
 If you refine the default configuration after creating appliations based on tags, see [Recalculate previously created application services](recalculate_application_services.md) for the next steps
 
-**Parent Topic:**[Tag-based discovery configuration](../concept/tag_discovery_configuration.md)
+**Parent Topic:**[Tag-based discovery configuration](tag_discovery_configuration.md)
 

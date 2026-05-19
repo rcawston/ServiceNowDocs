@@ -26,7 +26,7 @@ How you cancel an automated test or automated test suite depends on whether the 
 
 [Building and running automated test suites](atf-suites-overview.md)
 
-[Auto-generate ATF tests](../task/atf-auto-generate-tests.md)
+[Auto-generate ATF tests](atf-auto-generate-tests.md)
 
 ## Cancel queued automated test suite
 
@@ -55,7 +55,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 ### Procedure
 
-1.  If necessary, [display the Run Test progress dialog](../task/atf-view-progress.md).
+1.  If necessary, [display the Run Test progress dialog](atf-view-progress.md).
 
 2.  Click **Cancel Pending Steps**.
 
@@ -80,7 +80,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 ### Procedure
 
-1.  If necessary, [display the Run Test progress dialog](../task/atf-view-progress.md).
+1.  If necessary, [display the Run Test progress dialog](atf-view-progress.md).
 
 2.  Click **Cancel Pending Steps**.
 

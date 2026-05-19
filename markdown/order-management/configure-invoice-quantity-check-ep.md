@@ -123,7 +123,7 @@ Input:
     For more information, see [Dispute invoice issues using Now Assist Virtual Assistant](dispute-invoice-issues-now-assist.md).
 
 
-**Parent Topic:**[Configuring Now Assist for Order Management](../concept/now-assist-for-order-management-configuring.md)
+**Parent Topic:**[Configuring Now Assist for Order Management](now-assist-for-order-management-configuring.md)
 
 **Related topics**  
 

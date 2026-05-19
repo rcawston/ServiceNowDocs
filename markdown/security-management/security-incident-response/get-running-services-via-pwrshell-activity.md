@@ -83,5 +83,5 @@ The MID Server must support **PowerShell**.
 
 SHA-256 hash requires PowerShell V4.
 
-**Parent Topic:**[Security Incident Response - Get Running Services workflow](../../security-incident-response-orchestration/task/get-running-services-workflow.md)
+**Parent Topic:**[Security Incident Response - Get Running Services workflow](get-running-services-workflow.md)
 

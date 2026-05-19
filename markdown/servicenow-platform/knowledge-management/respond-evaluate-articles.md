@@ -101,7 +101,7 @@ View files, if available, attached to a comment. To view a file, tap the file na
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Mobile for Knowledge Management](../concept/mobile-experience-for-km.md)
+**Parent Topic:**[Using Now Mobile for Knowledge Management](mobile-experience-for-km.md)
 
 **Related topics**  
 

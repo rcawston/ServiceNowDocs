@@ -36,7 +36,7 @@ Role required: admin, atf\_test\_admin and atf\_test\_designer
 4.  Navigate through the tree picker hierarchy until you find and select the value you want.
 
 
-**Parent Topic:**[Passing data from one automated test step to another](../concept/atf-passing-data.md)
+**Parent Topic:**[Passing data from one automated test step to another](atf-passing-data.md)
 
 **Related topics**  
 

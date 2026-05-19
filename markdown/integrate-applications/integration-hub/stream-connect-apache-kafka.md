@@ -120,7 +120,7 @@ Import data from your Kafka environment using your existing RTE or transform map
 
 You can also use the Script Consumer to process data from your Kafka environment. The Script consumer is for more advanced use cases, such as when the data in the message isn't structured, or it requires data lookups using code.
 
-When you [Configure an Extract Transform Load \(ETL\) consumer](../tasks/configure-etl-consumer.md), [Configure a Transform Map consumer](../tasks/configure-transform-map-consumer.md), or [Configure a script consumer](../tasks/configure-script-consumer.md), you also need to [Create a Kafka stream](../tasks/create-kafka-stream.md).
+When you [Configure an Extract Transform Load \(ETL\) consumer](configure-etl-consumer.md), [Configure a Transform Map consumer](configure-transform-map-consumer.md), or [Configure a script consumer](configure-script-consumer.md), you also need to [Create a Kafka stream](create-kafka-stream.md).
 
 ## ProducerV2 API
 
@@ -213,13 +213,13 @@ Receive alerts and alert notifications for Stream Connect integrations.
 View detailed statistics for your Stream Connect integrations. Manage producers and consumers, view data usage, and create or edit topics and replicators with the ServiceNow® Stream Connect dashboard.
 -   **[Schema management in Stream Connect](schema-management.md)**  
 Import and create schemas to send and receive messages in an Apache Avro format. Using an Avro format can reduce the size of the payload and simplify your integration to your local Kafka instance.
--   **[Configure an Extract Transform Load \(ETL\) consumer](../tasks/configure-etl-consumer.md)**  
+-   **[Configure an Extract Transform Load \(ETL\) consumer](configure-etl-consumer.md)**  
 Import and process data from your Kafka environment using your existing Robust Transform Engine \(RTE\) configurations.
--   **[Configure a Transform Map consumer](../tasks/configure-transform-map-consumer.md)**  
+-   **[Configure a Transform Map consumer](configure-transform-map-consumer.md)**  
 Import and process data from your Kafka environment using your existing transform map configurations.
--   **[Configure a script consumer](../tasks/configure-script-consumer.md)**  
+-   **[Configure a script consumer](configure-script-consumer.md)**  
 Use a script to import and process data from your Kafka environment.
--   **[Create a Kafka stream](../tasks/create-kafka-stream.md)**  
+-   **[Create a Kafka stream](create-kafka-stream.md)**  
 Define a data stream for an Extract Transform Load \(ETL\), Transform Map, or Script consumer. A Kafka stream defines the stream of data to your consumer.
 -   **[Viewing Kafka subscriptions and statistics](kafka-subscriptions-statistics.md)**  
 View detailed information about a Kafka consumer and its performance, including the number of records added to the topic, the number of records processed, and the number of records remaining to be processed.

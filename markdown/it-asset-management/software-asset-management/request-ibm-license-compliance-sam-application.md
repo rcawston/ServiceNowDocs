@@ -53,8 +53,8 @@ If your request is approved, you will receive an email with detailed instruction
 
 Install the application according to the instructions in the email.
 
--   **[License metrics added by the IBM License Compliance for Software Asset Management application](../reference/license-metrics-added-by-ibm-license-compliance-sam-application.md)**  
+-   **[License metrics added by the IBM License Compliance for Software Asset Management application](license-metrics-added-by-ibm-license-compliance-sam-application.md)**  
 The IBM License Compliance for Software Asset Management application adds license metrics that enable you to classify your IBM software products.
 
-**Parent Topic:**[Setting up an IBM Authorized SAM Provider \(ASP\) integration](../concept/setting-up-anglepoint-integration.md)
+**Parent Topic:**[Setting up an IBM Authorized SAM Provider \(ASP\) integration](setting-up-anglepoint-integration.md)
 

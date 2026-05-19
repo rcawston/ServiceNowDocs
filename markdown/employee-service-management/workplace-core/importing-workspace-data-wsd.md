@@ -22,11 +22,11 @@ By using a spreadsheet that contains the global information for your work sites,
 **Related topics**  
 
 
-[Install Workplace Core](../task/install-workplace-service-delivery.md)
+[Install Workplace Core](install-workplace-service-delivery.md)
 
 [Providing your workplace data](providing-your-workplace-data-wsd.md)
 
-[Activate Virtual Agent for Workplace Service Delivery](../task/actuvate-va-for-wsd.md)
+[Activate Virtual Agent for Workplace Service Delivery](actuvate-va-for-wsd.md)
 
 ## Configure an existing workspaces spreadsheet
 
@@ -109,5 +109,5 @@ If you have a large number of work sites, consider creating a spreadsheet that y
 
 ### What to do next
 
-[Import your workspaces data from an Excel spreadsheet](../task/import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](import-excel-spreadsheet-workspace-data-wsd.md)
 

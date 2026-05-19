@@ -33,7 +33,7 @@ Introduction to Project and Program Management including the purpose of Project 
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Project Management](../reference/project-management-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Project Management](project-management-reference.md)
 
 </td></tr></tbody>
 </table>

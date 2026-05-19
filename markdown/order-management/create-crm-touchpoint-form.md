@@ -175,10 +175,10 @@ Internal notes visible only to the touchpoint owner and team members with approp
 </td></tr></tbody>
 </table>**Note:** The Account and Contact fields become read-only after you save the CRM Touchpoints.
 
-**Parent Topic:**[Activity Management reference](../concept/activity-management-reference.md)
+**Parent Topic:**[Activity Management reference](activity-management-reference.md)
 
 **Related topics**  
 
 
-[Create a CRM touchpoint](../task/create-crm-touchpoint.md)
+[Create a CRM touchpoint](create-crm-touchpoint.md)
 

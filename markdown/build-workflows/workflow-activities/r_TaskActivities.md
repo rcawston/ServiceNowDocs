@@ -26,5 +26,5 @@ The **Catalog Task** activity creates a service catalog task record.
 -   **[Create Task workflow activity](r_CreateTask.md)**  
 The **Create Task** activity generates a record on any of the tables that extend Task \[task\].
 
-**Parent Topic:**[Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md)
+**Parent Topic:**[Workflow activities](c_WorkflowActivities.md)
 

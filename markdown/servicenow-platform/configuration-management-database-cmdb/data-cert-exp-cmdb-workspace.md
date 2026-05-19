@@ -19,17 +19,17 @@ Use Data Certification in CMDB Workspace or in Service Graph Workspace to admini
 
 Use the [CMDB Workspace](cmdb-workspace.md)or Service Graph Workspace landing page and views to administer Data Certification:
 
--   Use the [Management view in CMDB Workspace](cmdb-workspace-mangmnt-view.md) to navigate to CMDB Data Manager to [create a new Certification policy](../task/data-manager-create-policy-wrkspc.md).
+-   Use the [Management view in CMDB Workspace](cmdb-workspace-mangmnt-view.md) to navigate to CMDB Data Manager to [create a new Certification policy](data-manager-create-policy-wrkspc.md).
 -   Use the My work tile on the CMDB Workspace landing page to access your open and overdue certification tasks that you need to review and process.
 -   Use the [My Work view in CMDB Workspace](cmdb-workspace-govern-view.md) to access any certification tasks assigned to you under the Certification tasks section.
--   Use the [Governance view in Service Graph Workspace](sg-workspace-governance-view.md) to navigate to CMDB Data Manager to [create a new Certification policy](../task/data-manager-create-policy-wrkspc.md).
+-   Use the [Governance view in Service Graph Workspace](sg-workspace-governance-view.md) to navigate to CMDB Data Manager to [create a new Certification policy](data-manager-create-policy-wrkspc.md).
 -   Use the [Tasks view in Service Graph Workspace](sg-workspace-tasks-view.md) to access any certification tasks assigned to you and certification instances that you own.
 
 Manage certification tasks in CMDB Workspaceand in Service Graph Workspace:
 
 -   [Manage Data Certification instances and tasks, and see progress, status, and insights in the Data Certification Dashboard](data-cert-dashboard-workspace.md)
--   [Review certification tasks in CMDB Workspace](../task/data-certific-review-tasks.md)
--   [Review failed certification tasks](../task/data-review-failed-tasks.md)
+-   [Review certification tasks in CMDB Workspace](data-certific-review-tasks.md)
+-   [Review failed certification tasks](data-review-failed-tasks.md)
 
 ## Retention of Data Certification records
 

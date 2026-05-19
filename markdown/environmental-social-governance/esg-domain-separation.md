@@ -83,7 +83,7 @@ The following is the list of domain separated tables:
 -   Risk Statement to Goal
 -   Material Topic
 
-For more information on these tables, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../reference/components-installed-with-esg.md).
+For more information on these tables, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 ## Use case
 

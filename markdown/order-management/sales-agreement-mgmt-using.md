@@ -28,7 +28,7 @@ The Sales agreement window has the following tabs that help you create and manag
 |Order|Displays the list of all the orders placed with the current sales agreement.|
 |Price List|Details about the account and currency that is updated from quote header. In the Price List Line table, you can view the actual pricing details about the products and services from the related quote.|
 
--   **[Create a sales agreement](../task/create-new-sales-agreement.md)**  
+-   **[Create a sales agreement](create-new-sales-agreement.md)**  
 Create a sales agreement from a quote between a buyer and a seller for future transactions.
 
 **Parent Topic:**[Using configure, price, quote applications](using-cpq.md)

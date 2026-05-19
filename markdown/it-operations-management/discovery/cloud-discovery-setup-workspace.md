@@ -30,24 +30,24 @@ Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servi
 Perform the following tasks in the exact order they are listed below:
 
 1.  Evaluate your cloud deployment and plan how you're going to discover it.
-2.  [Request Discovery](../task/t_ActivateTheDiscoveryPlugin.md).
-3.  [Install Cloud Discovery Workspace](../../cloud-operations-workspace/task/install-cloud-ops-wrksp.md).
-4.  [Install and configure the MID Servers](../../it-operations-management/task/mid-server-configuration-cloud.md).
+2.  [Request Discovery](t_ActivateTheDiscoveryPlugin.md).
+3.  [Install Cloud Discovery Workspace](../cloud-discovery-workspace/install-cloud-ops-wrksp.md).
+4.  [Install and configure the MID Servers](../mid-server-configuration-cloud.md).
 5.  \(For Amazon AWS Cloud and Microsoft Azure Cloud\) Configure notifications and alerts from the Amazon AWS Cloud and Microsoft Azure Cloud to make the necessary updates to your CMDB without additional scanning.
 
-    -   [AWS events-driven discovery](../../it-operations-management/concept/aws-events-driven-discovery.md)
-    -   [Configure the Microsoft Azure Alert service to auto-update the CMDB](../../it-operations-management/concept/microsoft-azure-alert-driven-discovery.md#)
-    -   [Configure the Google Cloud Logging service to auto-update the CMDB](../../it-operations-management/task/gcp-stackdriver-service.md)
-    -   [Configure the VMware Events service to auto-update the CMDB](../../it-operations-management/task/vmware-events-service-cloud-mgt.md)
+    -   [AWS events-driven discovery](aws-events-driven-discovery.md)
+    -   [Configure the Microsoft Azure Alert service to auto-update the CMDB](microsoft-azure-alert-driven-discovery.md#)
+    -   [Configure the Google Cloud Logging service to auto-update the CMDB](gcp-stackdriver-service.md)
+    -   [Configure the VMware Events service to auto-update the CMDB](vmware-events-service-cloud-mgt.md)
     **Note:** Event-driven discovery does not require Cloud Provisioning and Governance.
 
 6.  Ensure that your ServiceNow instance has the relevant patterns and CI classes \(types\) for cloud resources. You may need to deploy the latest version of the following applications from the ServiceNow Store.
     -   Discovery and Service Mapping Patterns
     -   CMDB CI Class Models
-7.  [Create a discovery schedule in Cloud Discovery Workspace](../task/cloud-operations-disco-create-schedule.md).
+7.  [Create a discovery schedule in Cloud Discovery Workspace](cloud-operations-disco-create-schedule.md).
 
 **Related topics**  
 
 
-[Cloud Discovery Workspace](../../cloud-operations-workspace/reference/cow-landing-page.md)
+[Cloud Discovery Workspace](../cloud-discovery-workspace/cow-landing-page.md)
 

@@ -85,7 +85,7 @@ Rate model
 
 </td><td>
 
-Rate model assigned to the operational resource plan. The [rate model](../../project-portfolio-suite-with-financials/concept/rate-model.md) is used to derive hourly rates for the resource plan.If you change or remove the rate model assigned to an operational resource plan, the cost fields on the plan are re-calculated.
+Rate model assigned to the operational resource plan. The [rate model](../rate-model/rate-model.md) is used to derive hourly rates for the resource plan.If you change or remove the rate model assigned to an operational resource plan, the cost fields on the plan are re-calculated.
 
 </td></tr><tr><td>
 
@@ -112,5 +112,5 @@ Resource status
 Status of the resource assignment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+</table>**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

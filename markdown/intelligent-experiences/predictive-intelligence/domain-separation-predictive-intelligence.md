@@ -42,18 +42,18 @@ An instance owner can train a machine learning \(ML\) solution for each domain b
 -   Tenant domains can manage their own application data
 -   Application properties are domain-aware when needed
 
-**Parent Topic:**[Predictive Intelligence references](../reference/reference-predictive-intelligence.md)
+**Parent Topic:**[Predictive Intelligence references](reference-predictive-intelligence.md)
 
 **Related topics**  
 
 
-[Data Encryption in Predictive Intelligence](../reference/predictive-intelligence-encryption.md)
+[Data Encryption in Predictive Intelligence](predictive-intelligence-encryption.md)
 
 [Predictive Intelligence language support](predictive-intelligence-localization.md)
 
-[Predictive Intelligence properties](../reference/predictive-intelligence-properties.md)
+[Predictive Intelligence properties](predictive-intelligence-properties.md)
 
-[Predictive Intelligence roles](../reference/predictive-intelligence-roles.md#)
+[Predictive Intelligence roles](predictive-intelligence-roles.md#)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

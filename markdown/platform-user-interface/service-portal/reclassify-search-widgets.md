@@ -18,7 +18,7 @@ Search widgets that you cloned or customized before a system upgrade may not be 
 ## Before you begin
 
 1.  [Enable and configure AI Search in Service Portal](enable-ais-sp.md)
-2.  Run the Portal Analyzer to identify all cloned or customized search widgets. For more information, see [Get a list of widgets per page](../concept/portal-analyzer.md#).
+2.  Run the Portal Analyzer to identify all cloned or customized search widgets. For more information, see [Get a list of widgets per page](portal-analyzer.md#).
 3.  For each cloned or customized search widget, copy the sys\_id value of each widget instance that is associated with the widget.
 4.  For each cloned or customized search widget, ensure that the widget and its corresponding widget instances have the latest AI Search code from the base system search widget.
 

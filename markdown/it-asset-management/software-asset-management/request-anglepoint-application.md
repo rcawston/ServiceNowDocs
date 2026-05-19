@@ -65,5 +65,5 @@ If your request is approved, you will receive an email with detailed instruction
 
 Install the application according to the instructions in the email.
 
-**Parent Topic:**[Setting up an IBM Authorized SAM Provider \(ASP\) integration](../concept/setting-up-anglepoint-integration.md)
+**Parent Topic:**[Setting up an IBM Authorized SAM Provider \(ASP\) integration](setting-up-anglepoint-integration.md)
 

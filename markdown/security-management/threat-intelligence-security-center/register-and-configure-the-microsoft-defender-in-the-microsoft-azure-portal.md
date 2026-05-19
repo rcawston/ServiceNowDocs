@@ -58,5 +58,5 @@ Role required: Application developer, Tenant administrator.
     |Ti.ReadWrite.All|Read and write Indicators|
 
 
-**Parent Topic:**[Microsoft Defender for EDR integration](../concept/tisc-ms-defender-integration.md)
+**Parent Topic:**[Microsoft Defender for EDR integration](tisc-ms-defender-integration.md)
 

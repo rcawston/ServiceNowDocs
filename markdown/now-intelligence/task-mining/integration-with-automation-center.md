@@ -23,7 +23,7 @@ To use the Now Assist feature in the integration, you must install Now Assist fo
 
 ![Infographic showing how users use the Task Mining integration with Automation Center to submit automation requests. For details, refer to the following description.](../image/tm-integrate-ac.png "Automation request workflow")
 
-1.  As a Task Mining analyst, you create a Task Mining project with a Task timeline analysis as a Mining analysis goal. For more information, see [Create a Task Mining project](../task/create-task-mining-projects.md). You group user actions as a task to provide data for the analysis. For more information, see [Define user actions for task logging](../task/mine-data.md).
+1.  As a Task Mining analyst, you create a Task Mining project with a Task timeline analysis as a Mining analysis goal. For more information, see [Create a Task Mining project](create-task-mining-projects.md). You group user actions as a task to provide data for the analysis. For more information, see [Define user actions for task logging](mine-data.md).
 2.  Run a mining job on the Task Mining project to generate the Task timeline analysis of your project data.
 3.  Go to the project's Task timeline analysis, and select a task to see a detailed list of the steps of the task.
 4.  Create a copy that you use for automation without affecting the original. In the duplicate task, edit any of these steps if you want to change task details.
@@ -42,5 +42,5 @@ To use the Now Assist feature in the integration, you must install Now Assist fo
 
 [Task Mining analyses](task-mining-dashboard.md)
 
-[Identify task improvement actions](../task/identify-improvement-opportunities.md)
+[Identify task improvement actions](identify-improvement-opportunities.md)
 

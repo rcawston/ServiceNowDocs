@@ -21,7 +21,7 @@ The FieldReadConfiguration class provides the ability to define what fields to r
 |queryItems|[Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/)&lt;String, String&gt;|Read-only. Collection of query items representing the read configuration.|
 |queryParams|QueryParams|Iterable structure that contains name-value pairs of request query parameters. Use these parameters to build a request.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## FieldReadConfiguration - FieldReadConfiguration\(includeFields: Collection&lt;String&gt; = listOf\(\), vararg options: FieldReadConfiguration.Options\)
 

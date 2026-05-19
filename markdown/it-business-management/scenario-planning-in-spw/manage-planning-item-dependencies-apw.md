@@ -84,7 +84,7 @@ Steps
 1.  Select **Edit**.
 2.  In the Dependency details form, update the required fields and select **Save**.
 
-For field information, see [Dependency form](../../alignment-planner-workspace/reference/dependency-form.md).
+For field information, see [Dependency form](dependency-form.md).
 
 </td></tr><tr><td id="d224369e231">
 

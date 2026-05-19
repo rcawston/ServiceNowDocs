@@ -65,5 +65,5 @@ The flow is activated after all the trigger conditions are met. The schedule flo
 -   Effective workers
 -   Jobs
 
-Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Use transform maps](../reference/transform-maps-w.md).
+Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Use transform maps](transform-maps-w.md).
 

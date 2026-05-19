@@ -42,5 +42,5 @@ Add the My Policy Exceptions widget to the Service Portal index page. The widget
 
 The extension request is sent for approval to the approving authority.
 
-**Parent Topic:**[Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md)
+**Parent Topic:**[Manage policy exceptions and extensions](manage-policy-exceptions.md)
 

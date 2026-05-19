@@ -19,7 +19,7 @@ The integration of Strategic Planning with other ServiceNow applications helps p
 
 The ServiceNow® AI Control Tower workspace enables you to track and monitor all your strategic priorities, goals, targets, planning items, and execution items—projects and demands categorized as Artificial Intelligence in the Strategic Planning Workspace.
 
-Populate the **Type** field for strategic priorities, the **Category** field for goals, and the **Investment type** field for planning items with the **Artificial Intelligence** option to monitor their progress in the AI Control Tower workspace. For more information, see [Create a strategic priority](../../goal-framework/task/create-strategic-priority.md), [Create a goal](../../spw-goals/task/create-goal-egm.md), and [Add a planning item](../../spw-prioritization/task/add-new-items-to-backlog-alignment-planner-workspace.md).
+Populate the **Type** field for strategic priorities, the **Category** field for goals, and the **Investment type** field for planning items with the **Artificial Intelligence** option to monitor their progress in the AI Control Tower workspace. For more information, see [Create a strategic priority](../goal-framework/create-strategic-priority.md), [Create a goal](create-goal-egm.md), and [Add a planning item](add-new-items-to-backlog-alignment-planner-workspace.md).
 
 When AI Control Tower is installed, the **AI strategy** tab appears in the AI Control Tower workspace, featuring different widgets for AI strategies, goals, targets, costs of planning items, prioritized work, and RIDAC details. For more information, see [AI strategy tab in AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-strategy-ai-control-tower.md).
 
@@ -35,7 +35,7 @@ With the integration of ServiceNow Collaborative Work Management \(CWM\) with St
 
 The lenses supported to configure the CWM Board as a planning item are Organization, Project Portfolio, and Strategic Investments.
 
-For more information on integration of CWM with Strategic Planning, see [Connecting CWM with Strategic Planning or Portfolio Planning](../../collab-work-mgmt/concept/connect-cwm-spw.md#). To learn how to update the lens configuration, see [Create or modify a lens in Strategic Planning](../task/create-a-lens-in-alignment-planner-workspace.md).
+For more information on integration of CWM with Strategic Planning, see [Connecting CWM with Strategic Planning or Portfolio Planning](../collaborative-work-management/connect-cwm-spw.md#). To learn how to update the lens configuration, see [Create or modify a lens in Strategic Planning](create-a-lens-in-alignment-planner-workspace.md).
 
 ## Strategic Planning with Enterprise Architecture Workspace
 

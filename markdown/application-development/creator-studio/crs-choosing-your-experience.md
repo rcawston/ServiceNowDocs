@@ -33,7 +33,7 @@ Being able to easily switch between development experiences eliminates the fragm
 
 For example, you can build a basic request app in Creator Studio, and then switch to ServiceNow Studio to add more robust functionality.
 
-For details on switching experiences, see [Change your development experience](../task/crs-change-dev-experience.md).
+For details on switching experiences, see [Change your development experience](crs-change-dev-experience.md).
 
 ## Open an app directly in ServiceNow Studio
 

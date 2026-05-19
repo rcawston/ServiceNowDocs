@@ -103,5 +103,5 @@ Executions contexts-   The parent import scheduled data import record.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

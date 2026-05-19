@@ -50,5 +50,5 @@ Role required: admin
 
 The added hardware inventory is displayed in the CMPivot entity list to verify the required attributes. For more information on verifying the CMPivot entity and the required attributes, see [Verify a CMPivot entity](verify-cmpivot-entity.md).
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](config-ci-metrics-mecm-adapter.md)
 

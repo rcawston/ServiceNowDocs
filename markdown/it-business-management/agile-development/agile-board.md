@@ -38,7 +38,7 @@ The Backlog tab helps you manage your personalized backlogs. Within the Backlog 
 -   Personalize columns by using the personalize icon \(![Update Personalized List icon.](../../application-portfolio-management/image/personalisecolumns.png)\).
 -   Use the search option to filter stories using a keyword.
 
-For more information on how to manage your backlog, see [Manage your product backlog in Agile Development 2.0](../task/manage-maintain-backlog.md).
+For more information on how to manage your backlog, see [Manage your product backlog in Agile Development 2.0](manage-maintain-backlog.md).
 
 ![Backlog tab on Agile Board.](../image/backlogplanningscreen.png "Backlog tab on Agile Board")
 
@@ -66,7 +66,7 @@ From the Sprint Tracking tab, you can track the progress of your current sprint 
     -   Track all the stories of the current sprint across lanes.
     -   Move a story from one lane to another, which updates the state of the story.
     -   Filter stories by search criteria.
-    For more information, see [Track progress of stories for a sprint in Agile Development 2.0](../task/agile-sprint-story-board.md).
+    For more information, see [Track progress of stories for a sprint in Agile Development 2.0](agile-sprint-story-board.md).
 
     ![Sprint Tracking in the Story board view.](../image/sprinttrackingboard.png "Sprint Tracking in the Story board view")
 
@@ -76,7 +76,7 @@ From the Sprint Tracking tab, you can track the progress of your current sprint 
 
     -   Move scrum tasks from one lane to another, which updates the state of the stories.
     -   Filter scrum tasks by search criteria.
-    For more information on tracking your scrum tasks using the board view, see [Track progress of scrum tasks for a sprint in Agile Development 2.0](../task/agile-sprint-board.md).
+    For more information on tracking your scrum tasks using the board view, see [Track progress of scrum tasks for a sprint in Agile Development 2.0](agile-sprint-board.md).
 
     ![Sprint Tracking in the Task board view.](../image/taskboard-agile.png "Sprint Tracking in the Task board view")
 
@@ -88,12 +88,12 @@ From the Sprint Tracking tab, you can track the progress of your current sprint 
     -   View the state, short description, and assignee of the scrum task.
     -   View the short description and result of a test.
     -   Assess scrum tasks and tests that are still pending before the current sprint is closed.
-    For more information on tracking a sprint's progress using the List view, see [Track sprint progress in Agile Development 2.0](../task/sprint-tracking-list.md).
+    For more information on tracking a sprint's progress using the List view, see [Track sprint progress in Agile Development 2.0](sprint-tracking-list.md).
 
     ![Sprint Tracking in the List view.](../image/sprinttrackinglist.png "Sprint Tracking in the List view")
 
 
-**Parent Topic:**[Exploring Agile Development 2.0](../../agile-development/concept/exploring-agile-development-2.md)
+**Parent Topic:**[Exploring Agile Development 2.0](exploring-agile-development-2.md)
 
 **Related topics**  
 

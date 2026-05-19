@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The 3E Protect integration uses OAuth 2.0 client credentials to authenticate with the 3E API. The 3E Credentials record references an OAuth Entity Profile that stores the client ID and secret from your 3E subscription. An OAuth access token must be obtained and validated before SDS retrieval and chemical data requests can function. If the token expires before an automatic refresh occurs, a banner notification on the credential record prompts you to request a new one. For more information on configuring 3E Protect application registry, [Configure the application registry for the 3E service provider](../../hs-environmental-management/task/hs-configure-application-registry-3E.md).
+The 3E Protect integration uses OAuth 2.0 client credentials to authenticate with the 3E API. The 3E Credentials record references an OAuth Entity Profile that stores the client ID and secret from your 3E subscription. An OAuth access token must be obtained and validated before SDS retrieval and chemical data requests can function. If the token expires before an automatic refresh occurs, a banner notification on the credential record prompts you to request a new one. For more information on configuring 3E Protect application registry, [Configure the application registry for the 3E service provider](hs-configure-application-registry-3E.md).
 
 ## Procedure
 
@@ -40,8 +40,8 @@ The 3E Protect integration uses OAuth 2.0 client credentials to authenticate wit
 
 ## What to do next
 
--   Verify the configuration by navigating to a chemical record and triggering an sync request. For more information, see [Sync chemical information with the 3E database](../../hs-environmental-management/task/hs-sync-chemical-data-with-3E.md).
+-   Verify the configuration by navigating to a chemical record and triggering an sync request. For more information, see [Sync chemical information with the 3E database](hs-sync-chemical-data-with-3E.md).
 -   A successful request populates the chemical record with hazard identification, ingredient data, and SDS documents retrieved from the 3E server. If the request fails, verify that the OAuth Entity Profile is configured correctly with valid 3E subscription credentials.
 
-**Parent Topic:**[3E Protect](../concept/hs-3e-protect.md)
+**Parent Topic:**[3E Protect](hs-3e-protect.md)
 

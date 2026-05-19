@@ -56,12 +56,12 @@ If changes are made to a contract end date or its terms and conditions, a copy o
 8.  Select **Save**.
 
 
-**Parent Topic:**[Manage Contract Management Pro for Legal Service Delivery](../concept/snlc-manage-sn-legal-contracts.md)
+**Parent Topic:**[Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
 
 **Related topics**  
 
 
 [View a contract repository record](snlc-view-contract-rec.md)
 
-[Manage clauses and contract templates](../concept/snlc-manage-clauses-ctemplates.md)
+[Manage clauses and contract templates](snlc-manage-clauses-ctemplates.md)
 

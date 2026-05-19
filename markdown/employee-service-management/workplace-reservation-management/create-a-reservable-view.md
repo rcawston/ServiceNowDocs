@@ -59,7 +59,7 @@ Add the view to a reservable module. The workplace items of the reservable modul
 -   **[Configure a reservable view on a reservable module](configure-rsv-view-of-cnfig-module.md)**  
 Assign different views on a reservable mobile. The workplace items of the module can be viewed in the configured views while making a reservation on the Reservation portal.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -98,9 +98,9 @@ Assign different views on a reservable mobile. The workplace items of the module
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

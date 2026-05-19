@@ -60,5 +60,5 @@ End the conference when the discussion is over.**Note:** The work notes get upda
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing Incident Communications](../concept/working-with-inci-comm-mgmt.md)
+**Parent Topic:**[Managing Incident Communications](working-with-inci-comm-mgmt.md)
 

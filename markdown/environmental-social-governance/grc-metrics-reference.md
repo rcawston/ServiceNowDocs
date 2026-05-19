@@ -13,10 +13,10 @@ breadcrumb: [GRC: Metrics, Operational Sustainability Management \(formerly Envi
 
 Several properties, tables, and roles are installed with the GRC: Metrics application.
 
--   **[Components installed with the GRC: Metrics application](../reference/tables-installed-with-metrics.md)**  
+-   **[Components installed with the GRC: Metrics application](tables-installed-with-metrics.md)**  
 When the Operational Sustainability Management application is activated, the GRC: Metrics application is automatically installed. The GRC: Metrics application adds several tables, properties, and roles that are listed here.
--   **[Metric Threshold form fields](../../esg-management-reporting/reference/metric-threshold-form-fields.md)**  
+-   **[Metric Threshold form fields](metric-threshold-form-fields.md)**  
 Describes the fields in the Metric Threshold form.
 
-**Parent Topic:**[Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](../../esg-management-reporting/concept/esg-landing-page.md)
+**Parent Topic:**[Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](esg-landing-page.md)
 

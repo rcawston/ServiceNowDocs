@@ -37,7 +37,7 @@ The Availability section shows instance level availability on a geographic map a
 
 A problem or defect of an instance that requires proactive mitigation is listed in the **Known Issues** tab of the **Availability** section.
 
--   **[Cloud availability](../reference/cloud-availability.md)**  
+-   **[Cloud availability](cloud-availability.md)**  
 Check specific ServiceNow data center availability, service degradation, or for interruption.
 
 **Parent Topic:**[Monitoring instance health with Instance Observer](io-overview.md)

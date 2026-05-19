@@ -29,7 +29,7 @@ Role required: scan\_admin
 
 3.  Select one of the available types of checks.
 
-    See [Check types](../concept/hs-intro-health-check.md#hs-health-check-types) for more information.
+    See [Check types](hs-intro-health-check.md#hs-health-check-types) for more information.
 
     **Note:** If you want to update an existing check, the **Version** field increments itself. The new version provides you a change history. You can also know which particular version of the check ran with a given scan.
 
@@ -43,14 +43,14 @@ Create a check without specifying a table or a column type by selecting **Create
 -   **[Create a linter check](hc-linter-check.md)**  
 Create a linter check to identify any issues in a script. When a linter check is run on a record, an abstract syntax tree for its code is generated. You can use the abstract syntax tree to analyze issues with the code.
 
-**Parent Topic:**[Using Instance Scan](../concept/hs-using-scans.md)
+**Parent Topic:**[Using Instance Scan](hs-using-scans.md)
 
 **Related topics**  
 
 
 [Create a check suite](hc-create-check-suite.md)
 
-[Executing a scan](../reference/hs-execute-scans.md)
+[Executing a scan](hs-execute-scans.md)
 
 [Schedule a full scan](hs-schedule-full-scan.md)
 
@@ -58,9 +58,9 @@ Create a linter check to identify any issues in a script. When a linter check is
 
 [Monitoring a scan](hs-progress-status-full-scan.md)
 
-[Parallel scans](../concept/hs-parallel-scan.md)
+[Parallel scans](hs-parallel-scan.md)
 
-[Reviewing of scans](../reference/hs-review-scans.md)
+[Reviewing of scans](hs-review-scans.md)
 
 [Queue your scan](hs-queue-scan.md)
 

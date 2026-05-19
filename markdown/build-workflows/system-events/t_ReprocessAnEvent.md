@@ -30,5 +30,5 @@ Role required: events\_admin
     The event returns to the event queue.
 
 
-**Parent Topic:**[Managing system events](../concept/managing-system-events.md)
+**Parent Topic:**[Managing system events](managing-system-events.md)
 

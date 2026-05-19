@@ -47,5 +47,5 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 7.  If the capacity subscription is out of compliance, adjust the number of allocated resources or increase the capacity subscription.
 
 
-**Parent Topic:**[Monitoring capacity subscriptions](../concept/monitoring-capacity-subscriptions.md)
+**Parent Topic:**[Monitoring capacity subscriptions](monitoring-capacity-subscriptions.md)
 

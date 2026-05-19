@@ -138,7 +138,7 @@ Month 6
 
 **Note:** When accessibility is enabled, this visualization includes a report that screen readers can interpret. For more information, see [Enabling accessibility features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md).
 
-**Parent Topic:**[Report types](../reference/report-types-creation-details-rd.md)
+**Parent Topic:**[Report types](report-types-creation-details-rd.md)
 
 ## Create a trendbox report
 
@@ -180,7 +180,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d32442e431">
 
@@ -211,7 +211,7 @@ Group by
 
 </td><td>
 
-Group report data using the values of this field. For example, in an incident report grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. To group by fields on extended tables, see [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field. Configured function fields appear in this list after you save the report.
+Group report data using the values of this field. For example, in an incident report grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. To group by fields on extended tables, see [How to report on extended tables](t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field. Configured function fields appear in this list after you save the report.
 
  **Note:**
 
@@ -226,13 +226,13 @@ Additional group by
 
 </td><td>
 
-Extra fields to group the report by. When you select **Additional group by** fields or function fields, the report includes a control at the bottom that allows you to group the report by any one of the additional fields. To group by fields on extended tables as well, see [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for descriptions of the selected fields Configured function fields appear in this list after you save the report.
+Extra fields to group the report by. When you select **Additional group by** fields or function fields, the report includes a control at the bottom that allows you to group the report by any one of the additional fields. To group by fields on extended tables as well, see [How to report on extended tables](t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for descriptions of the selected fields Configured function fields appear in this list after you save the report.
 
 **Note:**
 
 -   You can see choices in the **Additional group by** list that do not appear in the main **Group by** list. The report does not support grouping or stacking by the extra fields you see. Unlike the main **Group by** choices, the **Additional group by** fields are not filtered. If you select an unsupported field, it has no effect.
 -   The limitations listed for the main **Group by** field also apply to the **Additional group by** field.
- For more information, see [Add an additional group by or stack by](../task/add-additional-group-by-stack-by.md).
+ For more information, see [Add an additional group by or stack by](add-additional-group-by-stack-by.md).
 
 </td></tr><tr><td>
 
@@ -272,9 +272,9 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 
  Select **Minimum** or **Maximum** to show the maximum or minimum value for each segment of the report.
 
- For more information on aggregation options, see [Aggregation in reporting](../reference/aggregation-reporting.md).
+ For more information on aggregation options, see [Aggregation in reporting](aggregation-reporting.md).
 
- If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+ If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](t_AccessFieldExtendedTable.md#).
 
  For information about aggregating on FX currency values, see [FX Currency values in reporting](fx-currency-values-reporting.md#).
 
@@ -314,7 +314,7 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 **Related topics**  
 
 
-[Share a Core UI report](../task/t_ShareASetting.md)
+[Share a Core UI report](t_ShareASetting.md)
 
 ## Trendbox report style options
 

@@ -48,7 +48,7 @@ Use the Filter breakdowns icon \(![Filter breakdown](../image/filter.png)\) to f
 
 </td></tr><tr><td>
 
-Use the **Process steps** button to define advanced filters on your transitions. For details on this process, see [Create a process step filter manually](../task/create-transition-manually.md).You can filter the parent and the child tables in the multidimensional projects.
+Use the **Process steps** button to define advanced filters on your transitions. For details on this process, see [Create a process step filter manually](create-transition-manually.md).You can filter the parent and the child tables in the multidimensional projects.
 
 </td><td>
 
@@ -228,7 +228,7 @@ You can access the associated Task Mining projects from the right panel using th
 ![Create a Task Mining project](../image/wrkbench-tm.png)
 
 </td></tr></tbody>
-</table>**Note:** You can reproduce most of the functionality of a process map in a dashboard on a configurable workspace. For more information, see [Configure a Process Mining map on a dashboard](../../../use/par-for-workspace/task/configure-po-map.md).
+</table>**Note:** You can reproduce most of the functionality of a process map in a dashboard on a configurable workspace. For more information, see [Configure a Process Mining map on a dashboard](../configure-po-map.md).
 
 **Parent Topic:**[Process details page](project-view-screen.md)
 

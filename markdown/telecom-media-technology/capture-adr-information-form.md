@@ -29,5 +29,5 @@ The Capture initiator details form enables you to collect the escalated complain
 **Related topics**  
 
 
-[Create an Alternative Dispute Resolution case](../task/create-adr-case-record.md)
+[Create an Alternative Dispute Resolution case](create-adr-case-record.md)
 

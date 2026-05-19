@@ -50,5 +50,5 @@ Role required: admin
 
 App Engine Studio is installed on your instance.
 
-**Parent Topic:**[AES and the ServiceNow Store](../concept/aes-installation-store.md)
+**Parent Topic:**[AES and the ServiceNow Store](aes-installation-store.md)
 

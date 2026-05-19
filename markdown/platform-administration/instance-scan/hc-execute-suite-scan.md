@@ -45,7 +45,7 @@ Role required: admin.
     **Note:** If a record is inactive, the checks don't generate any findings for that record.
 
 
-**Parent Topic:**[Executing a scan](../reference/hs-execute-scans.md)
+**Parent Topic:**[Executing a scan](hs-execute-scans.md)
 
 **Related topics**  
 

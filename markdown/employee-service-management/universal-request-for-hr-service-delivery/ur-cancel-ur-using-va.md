@@ -35,8 +35,8 @@ Role required: none
 
 5.  Select the appropriate responses to complete your request.
 
-    For a sample Virtual Agent conversation, see [Universal Request Virtual Agent conversation flows](../concept/ur-va-conversation-flows.md).
+    For a sample Virtual Agent conversation, see [Universal Request Virtual Agent conversation flows](ur-va-conversation-flows.md).
 
 
-**Parent Topic:**[Virtual Agent for Universal Request](../concept/ur-va-landing.md)
+**Parent Topic:**[Virtual Agent for Universal Request](ur-va-landing.md)
 

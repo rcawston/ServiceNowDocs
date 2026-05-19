@@ -41,11 +41,11 @@ Publishing an automation project as a template makes it the framework for creati
 
         ![Code quality check performed during publishing of a project.](../image/cqc-results.png)
 
-        You can publish a package with errors or with both errors and warnings only if the property **sn\_rpa\_fdn.restrict\_package\_by\_severity** is set as **No restriction** in RPA Hub. For more information, see [Configure RPA Hub properties](../../rpa-hub/reference/rpahub-sys-properties.md). As shown in the following example, these packages are highlighted with the message `Automation contains one or more errors or warnings` when you begin to publish a project.
+        You can publish a package with errors or with both errors and warnings only if the property **sn\_rpa\_fdn.restrict\_package\_by\_severity** is set as **No restriction** in RPA Hub. For more information, see [Configure RPA Hub properties](rpahub-sys-properties.md). As shown in the following example, these packages are highlighted with the message `Automation contains one or more errors or warnings` when you begin to publish a project.
 
         ![Error displayed when you're publishing a project with errors or warnings.](../image/cqc-publish-error2.png "Error displayed when you're publishing a project with errors or warnings")
 
-        For more information on the compliance rules that the Code quality check follows when a package is published from RPA Desktop Design Studio, see [Code quality check compliance for RPA Desktop Design Studio](../../rpa-hub/reference/cqc-publish-studio.md).
+        For more information on the compliance rules that the Code quality check follows when a package is published from RPA Desktop Design Studio, see [Code quality check compliance for RPA Desktop Design Studio](cqc-publish-studio.md).
 
     -   When you enable the **sn\_rpa\_fdn.code\_signing\_required** system property on the instance, it impacts the existing bot processes that are associated with the packages on the same instance because you didn't enable code signing on them earlier while you were publishing from RPA Desktop Design Studio to RPA Hub. As a result, the automations that corresponded to these bot processes failed. To run the failed automation successfully, you must publish the package again with the code signing from RPA Desktop Design Studio to RPA Hub.
 3.  Publish an automation project as a package or template.
@@ -121,5 +121,5 @@ Action
     **Note:** This step is applicable only if you’re publishing the automation project as a package.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

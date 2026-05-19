@@ -73,7 +73,7 @@ Responsibility
 
 </td><td>
 
-Access level to the sold product and related information.Additional contact with Authorized Representative responsibility requires the sn\_install\_base.sold\_product\_authorized\_contact role to get access to associated sold product and related entities. For details, see [Roles installed with customer access management](../reference/r_rolesinstalledwithcustaccessmgmt.md).
+Access level to the sold product and related information.Additional contact with Authorized Representative responsibility requires the sn\_install\_base.sold\_product\_authorized\_contact role to get access to associated sold product and related entities. For details, see [Roles installed with customer access management](r_rolesinstalledwithcustaccessmgmt.md).
 
  **Note:** If the **Responsibility** field is empty, contacts won’t have any access to the sold product and associated case.
 

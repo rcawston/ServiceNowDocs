@@ -25,17 +25,17 @@ This task is optional. You only need to perform it if you want to activate the f
 
 Fuzzy numeric search allows numerical search terms to match indexed ServiceNow AI Platform® records by their Number field values. The fuzzy matching compares the numeric search term with each indexed record's Number, ignoring its alphabetical prefix and any leading zeroes. As an example, if you index knowledge article and problem records, a search for `23583` might return knowledge article KB00023583 and problem PRB00023583 as search results.
 
-When fuzzy numeric search is activated, AI Search checks all-numeric search terms for fuzzy numeric matches when you search and when computing auto-complete suggestions for your search terms. For details on implementing and using auto-complete suggestions, see [Auto-complete suggestions in AI Search applications](../concept/auto-complete-ais.md#).
+When fuzzy numeric search is activated, AI Search checks all-numeric search terms for fuzzy numeric matches when you search and when computing auto-complete suggestions for your search terms. For details on implementing and using auto-complete suggestions, see [Auto-complete suggestions in AI Search applications](auto-complete-ais.md#).
 
 **Important:**
 
-Fuzzy numeric search only searches records from numbered tables. These are tables with Number fields that have prefixes defined in the Number \[sys\_number\] table. To learn about record numbering and the Number table, see [Record numbering](../../field-administration/concept/c_ManagingRecordNumbering.md).
+Fuzzy numeric search only searches records from numbered tables. These are tables with Number fields that have prefixes defined in the Number \[sys\_number\] table. To learn about record numbering and the Number table, see [Record numbering](../c_ManagingRecordNumbering.md).
 
 Child tables that inherit the Number field from their parent table can't be searched using fuzzy numeric search. Only tables that have their own Number field defined work with this feature.
 
 Fuzzy numeric search only finds numeric field values in predefined fields named **number**. It doesn't search custom fields or predefined fields with other names.
 
-To learn more about searching with fuzzy numeric search, see [Fuzzy numeric search in AI Search](../concept/fuzzy-numeric-search.md).
+To learn more about searching with fuzzy numeric search, see [Fuzzy numeric search in AI Search](fuzzy-numeric-search.md).
 
 Fuzzy numeric search includes an indexing component which is activated by default and a query-time component which is deactivated by default. Admins can activate the query-time component by changing the value of the **glide.ais.query.enable\_fuzzy\_number\_match** system property.
 
@@ -62,5 +62,5 @@ Fuzzy numeric search includes an indexing component which is activated by defaul
 
 Fuzzy numeric search is activated for users in all of your instance's AI Search applications.
 
-**Parent Topic:**[Configuring AI Search](../concept/configuring-ais.md)
+**Parent Topic:**[Configuring AI Search](configuring-ais.md)
 

@@ -31,7 +31,7 @@ A preconfigured HR service, flow, and HR case template for both the adhoc docume
 
 The Adobe Sign integration depends on the Adobe Sign spoke in IntegrationHub. Before you begin, your administrator must have:
 
--   [activated the Adobe Sign spoke](../task/activate-adobe.md)
+-   [activated the Adobe Sign spoke](activate-adobe.md)
 -   [set up the Adobe Sign spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/adobe-sign-spoke.md)
 
 
@@ -57,7 +57,7 @@ Adhoc document \(HR PDF document template\)
 
 1.  Create a managed document that you want to make available for signing. See [Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md) for more information.
 2.  Configure an HR service for the adhoc document.
-3.  [Configure an HR PDF document template for an adhoc document](../task/configure-hr-pdf-document-adobesign.md).
+3.  [Configure an HR PDF document template for an adhoc document](configure-hr-pdf-document-adobesign.md).
 
 </td></tr><tr><td>
 
@@ -66,8 +66,8 @@ Adobe Sign document
 </td><td>
 
 1.  Create an Adobe Sign template that you want to make available for signing.
-2.  [Configure an HR service for the Adobe Sign integration](../task/configure-adobe-sign-template-for-hr-document-template.md).
-3.  [Configure an HR PDF document template for an Adobe Sign template](../task/configure-hr-service-for-adobe-sign-integration.md).
+2.  [Configure an HR service for the Adobe Sign integration](configure-adobe-sign-template-for-hr-document-template.md).
+3.  [Configure an HR PDF document template for an Adobe Sign template](configure-hr-service-for-adobe-sign-integration.md).
 
 </td></tr></tbody>
 </table>Each adhoc document is configured as a standard HR PDF document template. You can add signers to the document with **Mark Signatures**, and then map each signature field to an appropriate user field in a table. The positioning of the markings are not used, and the Adobe Sign integration allows the signer to sign anywhere in the document. You can also parse the PDF to map document fields to corresponding table fields to auto-populate the document when it is generated for signing. The generated document is static, which means that it is read-only and the signatory cannot update any of the fields.
@@ -78,15 +78,15 @@ Each Adobe Sign template is brought into the ServiceNow system, and then configu
 
 Once the integration setup is complete, HR agents from your organization can request electronic signatures through the Adobe Sign service.
 
-For more information, see [Request an electronic signature through the Adobe Acrobat Sign service](../task/request-e-signature-through-adobe-sign-service.md).
+For more information, see [Request an electronic signature through the Adobe Acrobat Sign service](request-e-signature-through-adobe-sign-service.md).
 
--   **[Activate the Adobe Sign spoke](../task/activate-adobe.md)**  
+-   **[Activate the Adobe Sign spoke](activate-adobe.md)**  
 Activate the Adobe Sign spoke in IntegrationHub from the ServiceNow Store, and enable the signing of adhoc documents \(HR PDF document templates\) and Adobe Sign templates.
--   **[Configure an HR PDF document template for an adhoc document](../task/configure-hr-pdf-document-adobesign.md)**  
+-   **[Configure an HR PDF document template for an adhoc document](configure-hr-pdf-document-adobesign.md)**  
 If you are using the Adobe Sign integration, configure an HR PDF document template for each ad hoc document that you want to make available for signing.
--   **[Configure an HR PDF document template for an Adobe Sign template](../task/configure-hr-service-for-adobe-sign-integration.md)**  
+-   **[Configure an HR PDF document template for an Adobe Sign template](configure-hr-service-for-adobe-sign-integration.md)**  
 If you are using the Adobe Sign integration, configure an HR PDF document template for each Adobe Sign template that you want to make available for signing. You must map each signature field from the Adobe Sign template to an appropriate user field in a table.
--   **[Configure an HR service for the Adobe Sign integration](../task/configure-adobe-sign-template-for-hr-document-template.md)**  
+-   **[Configure an HR service for the Adobe Sign integration](configure-adobe-sign-template-for-hr-document-template.md)**  
 Create or modify an HR service to request electronic signatures through the Adobe Sign service. A preconfigured flow to collect signatures for either an adhoc document \(HR PDF document template\) or an Adobe Sign template is available to use.
 
 **Parent Topic:**[HR Integrations](scoped-hr-third-party-integrations.md)

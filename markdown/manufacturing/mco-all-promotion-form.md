@@ -75,7 +75,7 @@ Promotion type
 
 </td><td>
 
-Promotion type.Choose an option from the list. To create promotion type, see [Create promotion type](../concept/create-promotion-type.md).
+Promotion type.Choose an option from the list. To create promotion type, see [Create promotion type](create-promotion-type.md).
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Checklist template
 
 </td><td>
 
-Predefined checklist template.Choose an option from the list. To create checklist template, [Create a checklist template](../concept/mco-create-checklist.md)
+Predefined checklist template.Choose an option from the list. To create checklist template, [Create a checklist template](mco-create-checklist.md)
 
 </td></tr><tr><td>
 
@@ -144,5 +144,5 @@ Highest discount percentage applicable for the campaign. This field appears only
 **Related topics**  
 
 
-[View all promotions](../task/mco-all-promotions.md)
+[View all promotions](mco-all-promotions.md)
 

@@ -42,7 +42,7 @@ Asset Intelligence is supported in these SCCM plugins:
     -   SCCM &lt;version&gt; Software \(with AI\)
     -   SCCM &lt;version&gt; Removed Software \(with AI\)
 
-**Parent Topic:**[Microsoft SCCM integration](../concept/c_MicrosoftSCCMIntegration.md)
+**Parent Topic:**[Microsoft SCCM integration](c_MicrosoftSCCMIntegration.md)
 
 **Related topics**  
 

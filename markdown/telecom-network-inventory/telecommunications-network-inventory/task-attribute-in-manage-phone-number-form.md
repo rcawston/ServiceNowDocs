@@ -46,7 +46,7 @@ Service
 
 </td><td>
 
-Service for these numbers. The selected service gets assigned to the numbers.**Note:** Ensure that you’ve created a service for this phone number. To learn more, see [Manage your network functions](../concept/services.md).
+Service for these numbers. The selected service gets assigned to the numbers.**Note:** Ensure that you’ve created a service for this phone number. To learn more, see [Manage your network functions](services.md).
 
 </td></tr><tr><td>
 
@@ -97,5 +97,5 @@ Area code
 Geographic area code that forms part of the telephone number.**Note:** This field appears only if Allocate action is selected from the **Action** dropdown.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 

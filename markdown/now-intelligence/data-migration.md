@@ -34,7 +34,7 @@ Both Core UI and Platform Analytics experience content is available in the libra
 
 ## What isn't migrated
 
-The short answer is that almost everything is migrated. Most Core UI dashboard content is supported in Platform Analytics experience. Some content doesn’t have an analogous Platform Analytics feature. Any dashboard with content that isn't migrated and is migrated into a container, also called an iframe. This is called Compatibility mode. For detailed information about content that isn't migrated, see [Content not migrated or migrated in compatibility mode](../reference/data-mig-unmigrated-content.md).
+The short answer is that almost everything is migrated. Most Core UI dashboard content is supported in Platform Analytics experience. Some content doesn’t have an analogous Platform Analytics feature. Any dashboard with content that isn't migrated and is migrated into a container, also called an iframe. This is called Compatibility mode. For detailed information about content that isn't migrated, see [Content not migrated or migrated in compatibility mode](data-mig-unmigrated-content.md).
 
 ## What is the migration process
 

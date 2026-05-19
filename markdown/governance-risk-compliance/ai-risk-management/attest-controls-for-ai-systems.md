@@ -38,9 +38,9 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst
 
 ## What to do next
 
--   [Attest a control](../../grc-policy-and-compliance/task/attest-a-control.md)
+-   [Attest a control](../policy-and-compliance-management/attest-a-control.md)
 -   [Group control attestations using the Same Response feature](../../grc-policy-and-compliance/concept/c_Attestations.md#)
 -   [Group control attestations using the Different Response feature](../../grc-policy-and-compliance/concept/c_Attestations.md#)
 
-**Parent Topic:**[Manage controls using AI Risk and Compliance](../concept/manage-controls-in-airc.md)
+**Parent Topic:**[Manage controls using AI Risk and Compliance](manage-controls-in-airc.md)
 

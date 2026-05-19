@@ -36,11 +36,11 @@ Moveworks unifies the enterprise systems under one intelligent layer to deliver 
 
 [Getting started with Moveworks for Employee Center](moveworks-ec-getting-started.md)
 
-[Install Moveworks for Employee Center app from store](../task/mw-install-app.md)
+[Install Moveworks for Employee Center app from store](mw-install-app.md)
 
-[Upload Java KeyStore certificate](../task/mw-upload-jks-cert.md)
+[Upload Java KeyStore certificate](mw-upload-jks-cert.md)
 
-[Configure bot ID and AI assistant](../task/mw-setup-botid.md)
+[Configure bot ID and AI assistant](mw-setup-botid.md)
 
 [Use Moveworks on employee portal](mw-employee-chat-ui.md)
 

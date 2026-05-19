@@ -37,7 +37,7 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Create New Company form](../reference/create-new-legal-entity-form.md).
+    For more information, see [Create New Company form](create-new-legal-entity-form.md).
 
 4.  Select **Save**.
 
@@ -47,7 +47,7 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
 5.  To create a legal entity record and set up its digital resilience information for DORA regulation, navigate to the **Legal entity** tab and select **New**.
 
-    For information on setting up the digital resilience information for a legal entity, see [Create New Legal entity form](../reference/create-new-legal-entity.md).
+    For information on setting up the digital resilience information for a legal entity, see [Create New Legal entity form](create-new-legal-entity.md).
 
     The Create New Legal Entity form is displayed.
 
@@ -79,10 +79,10 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
 Set up branches for a legal entity. For more information, see [Create a branch and enhance digital resilience data](create-drtp-reg-branch.md).
 
--   **[Create New Company form](../reference/create-new-legal-entity-form.md)**  
+-   **[Create New Company form](create-new-legal-entity-form.md)**  
 On the Create New Company form, fill in the fields for the legal entity.
--   **[Create New Legal entity form](../reference/create-new-legal-entity.md)**  
+-   **[Create New Legal entity form](create-new-legal-entity.md)**  
 On the Create New Legal entity form, fill in the fields to set up the digital resilience information.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)
 

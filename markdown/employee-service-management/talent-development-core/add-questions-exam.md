@@ -35,7 +35,7 @@ Create an exam. See, [Create an exam](create-exam.md).
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Question form](../reference/question-form.md).
+    For a description of the field values, see [Question form](question-form.md).
 
 6.  Select **Submit**.
 

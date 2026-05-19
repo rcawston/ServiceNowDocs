@@ -64,5 +64,5 @@ The Customer Service Management \(CSM\) landing page gives agents an overview of
 8.  Select **Save** to save the landing page changes.
 
 
-**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](../concept/setting-up-csm-fsm.md)
+**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](setting-up-csm-fsm.md)
 

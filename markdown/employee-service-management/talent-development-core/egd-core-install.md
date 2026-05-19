@@ -19,12 +19,12 @@ Install the Talent Development app to enable employees and managers to identify,
 
 Dependent plugins and apps for Talent Development:
 
--   [Manager Hub](../../human-resources/concept/manager-hub-overview.md)
--   [Skills Foundation](../../skills-intelligence/concept/skills-intelligence.md)
+-   [Manager Hub](../hr-service-delivery/manager-hub-overview.md)
+-   [Skills Foundation](skills-intelligence.md)
 
-    When the Skills Foundation property **sn\_skills\_int.enable\_skills** is set to true, the use of Skills Foundation is enabled for all Talent applications that support the use of Skills Foundation. See [Configuring Skills Foundation](../../skills-intelligence/concept/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
+    When the Skills Foundation property **sn\_skills\_int.enable\_skills** is set to true, the use of Skills Foundation is enabled for all Talent applications that support the use of Skills Foundation. See [Configuring Skills Foundation](configuring-skills-intelligence.md) for more information about Skills Foundation properties.
 
--   [Install Employee Center Pro](../../employee-center/task/install-ec-pro.md)
+-   [Install Employee Center Pro](../employee-experience-foundation/install-ec-pro.md)
 
 Role required: admin
 
@@ -51,5 +51,5 @@ When an administrator installs the Talent Development Core app from the ServiceN
 5.  Select **Install**.
 
 
-**Parent Topic:**[Installing and configuring the Talent Development Core app](../concept/egd-install-config.md)
+**Parent Topic:**[Installing and configuring the Talent Development Core app](egd-install-config.md)
 

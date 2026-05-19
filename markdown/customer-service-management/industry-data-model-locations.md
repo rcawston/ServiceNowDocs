@@ -25,7 +25,7 @@ With the business location entity you can:
 
 ## Creating a business location
 
-Maintain an organizational structure by creating internal and external business locations. To create a business location, see [Create a business location](../concept/create-business-location.md).
+Maintain an organizational structure by creating internal and external business locations. To create a business location, see [Create a business location](create-business-location.md).
 
 ## Accessing business locations
 

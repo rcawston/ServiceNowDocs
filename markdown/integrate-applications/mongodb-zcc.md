@@ -18,5 +18,5 @@ A connection admin can create a connection to MongoDB and give data stewards acc
 **Related topics**  
 
 
-[Create a MongoDB connection](../task/create-mongodb-connection-zcc.md)
+[Create a MongoDB connection](create-mongodb-connection-zcc.md)
 

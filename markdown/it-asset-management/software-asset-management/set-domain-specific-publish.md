@@ -73,7 +73,7 @@ Domain that you want the application property value to apply to.
 
 Publish the software products that you want to manage as part of phase-wise implementation of Software Asset Management. For more information, see [Publish a specific set of your software products](add-published-products.md).
 
-**Parent Topic:**[Manage phase-wise Software Asset Management implementation](../concept/manage-phasewise-imp-of-sam.md)
+**Parent Topic:**[Manage phase-wise Software Asset Management implementation](manage-phasewise-imp-of-sam.md)
 
 **Related topics**  
 

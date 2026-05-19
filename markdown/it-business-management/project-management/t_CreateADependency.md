@@ -21,9 +21,9 @@ Role required: it\_project\_manager
 
 ## About this task
 
-You can create any type of dependency. See [Parent-child rollup task calculations](../concept/c_ParentChildRollupTaskCalcs.md) for an explanation of each type.
+You can create any type of dependency. See [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md) for an explanation of each type.
 
-You can also create dependencies by using the Predecessor column on the Planning Console. See [Predecessor dependencies in the planning console](../reference/r_ProjectTaskDependencyValues.md) for more information.
+You can also create dependencies by using the Predecessor column on the Planning Console. See [Predecessor dependencies in the planning console](r_ProjectTaskDependencyValues.md) for more information.
 
 ## Procedure
 
@@ -47,24 +47,24 @@ Modify a dependency when editing the tasks that are linked in the dependency, th
 -   **[Remove a dependency](t_RemoveDependencies.md)**  
 Use the planning console to remove a dependency that is no longer necessary.
 
-**Parent Topic:**[Using Planning console - Legacy](../concept/c_TheProjectPlanningConsole.md)
+**Parent Topic:**[Using Planning console - Legacy](c_TheProjectPlanningConsole.md)
 
 **Related topics**  
 
 
 [Open the project planning console](t_OpenPlanningConsole.md)
 
-[Planning console tasks](../reference/r_PlanningConsoleTasks.md)
+[Planning console tasks](r_PlanningConsoleTasks.md)
 
-[Client side planning console](../concept/client-side-planning-console.md)
+[Client side planning console](client-side-planning-console.md)
 
-[Gantt chart](../concept/c_GanttChart.md)
+[Gantt chart](c_GanttChart.md)
 
 [Create a parent-child relationship on the planning console](t_CreateParentChildRelatConsole.md)
 
-[Predecessor dependencies in the planning console](../reference/r_ProjectTaskDependencyValues.md)
+[Predecessor dependencies in the planning console](r_ProjectTaskDependencyValues.md)
 
-[Custom columns in the planning console](../concept/custom-columns-planning-console.md)
+[Custom columns in the planning console](custom-columns-planning-console.md)
 
 [Modify a project task dependency](t_ModifyProjectTaskDependencies.md)
 

@@ -36,7 +36,7 @@ The Investigate tab displays a DEX UI experience dashboard, if the selected CI m
 -   Matches DEX related rule from the **Investigate CI Experience Rules** \(**sn\_sow\_investigate\_ci\_ux\_rule**\) table.
 -   CI is supported by DEX.
 
-For more information on DEX, see [Digital End-User Experience](../../digital-end-user-experience/concept/dex-landing.md).
+For more information on DEX, see [Digital End-User Experience](../digital-end-user-experience-dex/dex-landing.md).
 
 ## SO view in the Investigate tab
 

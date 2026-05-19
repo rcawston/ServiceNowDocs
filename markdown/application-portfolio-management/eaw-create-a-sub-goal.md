@@ -37,12 +37,12 @@ Role required: sn\_gf.goal\_user
 
 8.  On the form, fill in the field.
 
-    For a description of the field values, see [Create new goal form](../../reference/eaw-reference/eaw-create-new-goal-form.md).
+    For a description of the field values, see [Create new goal form](eaw-create-new-goal-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Manage goals](../../concept/eaw-concept/eaw-manage-goals.md)
+**Parent Topic:**[Manage goals](eaw-manage-goals.md)
 
 **Related topics**  
 

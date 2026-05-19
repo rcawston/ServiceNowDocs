@@ -69,5 +69,5 @@ Table in Strategic Planning.This field is auto-populated based on the Table Map 
 **Related topics**  
 
 
-[Create custom field mapping for SPW Jira integrations](../concept/custom-mapping-configuration-spw-jira.md#)
+[Create custom field mapping for SPW Jira integrations](custom-mapping-configuration-spw-jira.md#)
 

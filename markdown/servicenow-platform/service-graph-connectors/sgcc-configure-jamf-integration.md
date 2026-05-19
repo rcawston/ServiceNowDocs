@@ -30,7 +30,7 @@ Role required: admin
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -46,7 +46,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](../sgcc-first-time-setup.md).
 
 5.  Determine the type of authentication for the Jamf connection.
 
@@ -249,9 +249,9 @@ Select **View all connections** to review the connection details. The configured
 **Related topics**  
 
 
-[Service Graph Connector for Jamf](../../configuration-management/concept/cmdb-integration-jamf.md)
+[Service Graph Connector for Jamf](cmdb-integration-jamf.md)
 
-[CMDB classes targeted in Service Graph Connector for Jamf](../../configuration-management/reference/cmdb-jamf-classes.md)
+[CMDB classes targeted in Service Graph Connector for Jamf](cmdb-jamf-classes.md)
 
-[Accessing the connection details of Service Graph Connector for Jamf](../../configuration-management/concept/sgc-jamf-conn.md#)
+[Accessing the connection details of Service Graph Connector for Jamf](sgc-jamf-conn.md#)
 

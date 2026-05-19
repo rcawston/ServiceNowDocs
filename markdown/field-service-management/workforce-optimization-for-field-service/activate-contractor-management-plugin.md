@@ -27,7 +27,7 @@ The Field Service Contractor Management plugin is available only for customers w
 
 Roles are installed with Field Service Contractor Management.
 
-For more information, see [Contractor Management components](../concept/contractor-management-components.md).
+For more information, see [Contractor Management components](../contractor-management-components.md).
 
 ## Procedure
 

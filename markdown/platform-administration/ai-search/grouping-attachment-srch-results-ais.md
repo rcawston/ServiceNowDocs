@@ -17,7 +17,7 @@ Search application administrators can control whether attachment search results 
 
 By default, AI Search displays separate search results for the parent record and each of its attachments that matches the user's search. Search administrators can enable grouping of attachment search results with the results for their parent records. With this option enabled, search results for attachments that match a user's search display inline with the search results for their parent record.
 
-The maximum number of attachments per parent search result is set by the **Attachment Limit** field in the search application's configuration record. For details on this field, see [Search Application Configuration form](../reference/search-app-config-form-ais.md).
+The maximum number of attachments per parent search result is set by the **Attachment Limit** field in the search application's configuration record. For details on this field, see [Search Application Configuration form](search-app-config-form-ais.md).
 
 ## Grouped attachments in the search results UI
 
@@ -37,15 +37,15 @@ Selecting an attachment search result downloads the original attachment to your 
 -   Document Viewer is enabled for the attachment's source table.
 -   The **useAttachmentViewer** EVAM property is set to **true** for the parent search result.
 
-For details on activating and enabling Document Viewer, see [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md). To learn more about EVAM property settings for search results, see [Configure EVAM display settings for search results in AI Search applications](../task/configure-search-result-card-opts.md).
+For details on activating and enabling Document Viewer, see [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md). To learn more about EVAM property settings for search results, see [Configure EVAM display settings for search results in AI Search applications](configure-search-result-card-opts.md).
 
 ## Relevancy and click rank for grouped attachment search results
 
 When attachment grouping is in use, AI Search computes relevancy scores for the parent record and each of its grouped attachments. The final relevancy score of the grouped search result is the highest of these individual relevancy scores.
 
-**Note:** When you select a grouped attachment search result, AI Search logs click rank signal data for the parent record search result. All other search signal data is specific to the selected attachment record. For more details on search signal logging, see [Search signal tables](../../search-administration/reference/search-signal-tables.md).
+**Note:** When you select a grouped attachment search result, AI Search logs click rank signal data for the parent record search result. All other search signal data is specific to the selected attachment record. For more details on search signal logging, see [Search signal tables](../search-administration/search-signal-tables.md).
 
--   **[Group attachment search results with their parent results](../task/group-attachment-srch-results-ais.md)**  
+-   **[Group attachment search results with their parent results](group-attachment-srch-results-ais.md)**  
 Configure your AI Search applications to display attachment search results grouped with the results for their parent records.
 
 **Parent Topic:**[Search application configurations](defining-search-app-cfgs-ais.md)

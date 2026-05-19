@@ -26,7 +26,7 @@ The Universal Task data model uses a combination of tables to store data:
 -   ServiceNow AI Platform tables.
 -   Tables that are included with the Universal Task application.
 
-For information on the tables and components that are installed with the Universal Task application, see [Components installed with Universal Task](../reference/installed-with-uni-task.md).
+For information on the tables and components that are installed with the Universal Task application, see [Components installed with Universal Task](installed-with-uni-task.md).
 
 The Universal Task \[sn\_uni\_task\_universal\_task\] table extends the Task \[task\] table to include:
 
@@ -65,9 +65,9 @@ The Universal Task configuration table is configured to identify the following d
 -   The task types that are available to the agents to task the requester with. For more details, see [Universal Task types](universal-task-types.md).
 -   The **Default Assigned to** field that points to the **requester** field in the parent table. To auto-fill the **Assigned to** field with the assignee while creating a task, configure the **Default Assigned to** field.
 
-For more details, see [Configure Universal Task for your service](../task/config-ut-for-service.md).
+For more details, see [Configure Universal Task for your service](config-ut-for-service.md).
 
-Specific task types might have additional configuration tables. For example, for the Submit catalog item task type, the Catalog task configuration \[sn\_uni\_task\_catalog\_task\_config\] table determines which filters to apply to the catalog items that are available to an agent. For more information, see [Configure the catalog items for your service](../task/config-catalog-task.md).
+Specific task types might have additional configuration tables. For example, for the Submit catalog item task type, the Catalog task configuration \[sn\_uni\_task\_catalog\_task\_config\] table determines which filters to apply to the catalog items that are available to an agent. For more information, see [Configure the catalog items for your service](config-catalog-task.md).
 
 The Universal task configuration \[sn\_uni\_task\_config\] table and the Catalog task configuration \[sn\_uni\_task\_catalog\_task\_config\] table follow process separation.
 

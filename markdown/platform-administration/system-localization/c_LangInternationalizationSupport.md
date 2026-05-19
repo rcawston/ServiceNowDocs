@@ -15,7 +15,7 @@ breadcrumb: [Exploring System Localization, System Localization, Translation and
 
 The ServiceNow platform supports multiple languages.
 
-Language support is available when at least one language plugin has been activated, as described in [Activate a language](../task/t_ActivateALanguage.md).
+Language support is available when at least one language plugin has been activated, as described in [Activate a language](t_ActivateALanguage.md).
 
 When a user logs in, the language for the instance session is determined by the following logic:
 
@@ -24,7 +24,7 @@ When a user logs in, the language for the instance session is determined by the 
 3.  If not, the language setting in the User \[sys\_user\] table is used.
 4.  If none of the above are true, the system default language is used.
 
-You can also enable a fallback language to use if a translation isn’t available in the preferred language, as described in [Set a fallback language](../task/set-fallback-language.md).
+You can also enable a fallback language to use if a translation isn’t available in the preferred language, as described in [Set a fallback language](set-fallback-language.md).
 
 Some parts of the system aren’t translated and remain in the language used to create them:
 

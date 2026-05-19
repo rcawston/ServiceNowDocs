@@ -335,7 +335,7 @@ Entitlement Import Errors \[samp\_entitlement\_import\]
 
 </td><td>
 
-The number of entitlement import errors where the purchase orders have an associated procurement integration profile.**Note:** This alert appears only when the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](../../procurement/task/install-proc-int.md).
+The number of entitlement import errors where the purchase orders have an associated procurement integration profile.**Note:** This alert appears only when the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](../procurement/install-proc-int.md).
 
 </td></tr><tr><td>
 
@@ -500,7 +500,7 @@ Software Entitlements \[alm\_license\]
 
 </td><td>
 
-Number of entitlements created from purchase orders that have an associated procurement integration profile.**Note:** This notification appears only when the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](../../procurement/task/install-proc-int.md).
+Number of entitlements created from purchase orders that have an associated procurement integration profile.**Note:** This notification appears only when the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](../procurement/install-proc-int.md).
 
 </td></tr></tbody>
 </table>

@@ -33,7 +33,7 @@ Topic Recommendations page is blank
 
 </td><td>
 
-No analysis reports have been configured.[Configure an analysis report](../task/define-tr-settings.md). You can also install or activate ITSM Virtual Agent Conversations, which will add default configurations to Topic Recommendations. For more information, see [Set up ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-virtual-agent.md).
+No analysis reports have been configured.[Configure an analysis report](define-tr-settings.md). You can also install or activate ITSM Virtual Agent Conversations, which will add default configurations to Topic Recommendations. For more information, see [Set up ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-virtual-agent.md).
 
 </td></tr><tr><td>
 

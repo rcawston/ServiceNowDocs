@@ -40,14 +40,14 @@ Role required: sn\_fin\_ops.admin, sn\_fin\_ops.specialist
     -   Select **Create Article.**
 6.  On the Create New Knowledge form, fill in the fields.
 
-    For more information on the form fields and descriptions, see [Create knowledge base article form](../reference/create-kb-form.md).
+    For more information on the form fields and descriptions, see [Create knowledge base article form](create-kb-form.md).
 
 7.  Save the article.
 
 
 ## What to do next
 
-Publish the knowledge article. For information, see [Publish a knowledge base article](../concept/configure-kb-fin-ops-ws.md#).
+Publish the knowledge article. For information, see [Publish a knowledge base article](configure-kb-fin-ops-ws.md#).
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](using-fin-case-mgmt-workspace.md)
 

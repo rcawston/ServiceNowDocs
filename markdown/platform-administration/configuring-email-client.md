@@ -15,13 +15,13 @@ Enable and configure email client.
 
 ## Configuration overview
 
--   **[Enable the email client for a table](../task/enable-email-client.md)**  
+-   **[Enable the email client for a table](enable-email-client.md)**  
 Enable the email client for a table so that users can send emails directly from the table record.
 -   **[Email client configurations](email-client-configuration.md)**  
 Use email client configurations to manage the behavior of your email client. Each configuration consists of different email controls for setting allowable email recipients and email addresses.
--   **[Enable SMS delivery with the email client](../reference/r_EnableTheSMSDeliveryOption.md)**  
+-   **[Enable SMS delivery with the email client](r_EnableTheSMSDeliveryOption.md)**  
 Give users the option to send an email client message as an SMS text message.
--   **[Create an email client template](../task/t_CreateAnEmailClientTemplate.md#)**  
+-   **[Create an email client template](t_CreateAnEmailClientTemplate.md#)**  
 Create a different template for each table that uses the email client to pre-populate data for recipients and email content.
 -   **[Composing emails with quick messages](quick-message.md)**  
 Insert predefined content into the message body of emails that you send from the email client.

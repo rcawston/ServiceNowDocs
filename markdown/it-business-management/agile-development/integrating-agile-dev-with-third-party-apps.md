@@ -21,6 +21,6 @@ All the existing work items are synced between the two applications. New items t
 
 To get started with configuring these integrations, see:
 
--   [Microsoft Azure DevOps Integration for Agile Development](../../agile-azure-integration/concept/agile-azure-integration-overview.md)
--   [Atlassian Jira Integration for Agile Development](../../agile-jira-integration/concept/agile-jira-integration-overview.md)
+-   [Microsoft Azure DevOps Integration for Agile Development](../microsoft-azure-devops-integrations-comm/agile-azure-integration-overview.md)
+-   [Atlassian Jira Integration for Agile Development](../atlassian-jira-integrations-common/agile-jira-integration-overview.md)
 

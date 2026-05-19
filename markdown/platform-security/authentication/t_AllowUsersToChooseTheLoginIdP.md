@@ -33,7 +33,7 @@ SSO federations aggregate metadata from multiple IdPs and service providers, inc
 
 4.  Click **Submit**.
 
-5.  After you configure a federation, enable the Refresh SSO Metadata scheduled job, and then [configure the users who you want to access the federation IdPs](../../authentication/concept/idpauthflow.md). Use the sys\_ID of the federation record you just created.
+5.  After you configure a federation, enable the Refresh SSO Metadata scheduled job, and then [configure the users who you want to access the federation IdPs](idpauthflow.md). Use the sys\_ID of the federation record you just created.
 
     Use the sys\_ID of the federation record that you just created.
 

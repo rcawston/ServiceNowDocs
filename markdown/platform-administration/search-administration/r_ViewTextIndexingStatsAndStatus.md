@@ -23,32 +23,32 @@ To view text indexing statistics and status, navigate to **All** &gt; **System D
 
 ![Text index statistics record.](../image/TextIndexStatistics.png "Text Index Statistics")
 
-**Parent Topic:**[Zing indexes words](../concept/zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](../concept/c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](c_PunctuationForSearchResults.md)
 
-[Zing indexes some HTML elements](../concept/c_SearchingHTMLContent.md)
+[Zing indexes some HTML elements](c_SearchingHTMLContent.md)
 
-[Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#)
+[Configure a table for indexing and searching](configure-single-table-for-indexing.md#)
 
-[Configure a text index group to search across multiple tables](../task/index-multiple-tables.md)
+[Configure a text index group to search across multiple tables](index-multiple-tables.md)
 
 [Zing index and search dictionary attributes](index-attributes.md)
 
-[Regenerate a text index for a table](../task/t_RegenerateATextIndexForATable.md)
+[Regenerate a text index for a table](t_RegenerateATextIndexForATable.md)
 
-[Remove an index](../task/t_RemoveAnIndex.md)
+[Remove an index](t_RemoveAnIndex.md)
 
-[Remove an index for a specific field](../task/t_RemoveAnIndexForASpecificField.md)
+[Remove an index for a specific field](t_RemoveAnIndexForASpecificField.md)
 
-[Remove the text index for a child table](../task/remove-index-child-table.md)
+[Remove the text index for a child table](remove-index-child-table.md)
 
-[Change the query mode of an indexed table](../task/configure-table-query-mode.md)
+[Change the query mode of an indexed table](configure-table-query-mode.md)
 
-[Enable indexing of text in multi-row variable sets](../task/index-text-multi-row-variable-sets.md)
+[Enable indexing of text in multi-row variable sets](index-text-multi-row-variable-sets.md)
 
-[Configure tables to use the Japanese tokenizer](../task/configure-tables-japanese-tokenizer.md)
+[Configure tables to use the Japanese tokenizer](configure-tables-japanese-tokenizer.md)
 

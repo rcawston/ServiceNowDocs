@@ -33,7 +33,7 @@ Description
 
 </td><td>
 
-[Create an FDS Definition.](../task/service-bridge-v2-create-provider-bound-fds-consumer.md)
+[Create an FDS Definition.](service-bridge-v2-create-provider-bound-fds-consumer.md)
 
 </td><td>
 
@@ -45,7 +45,7 @@ Define the data that you want to share with your provider.After you create and p
 
 </td><td>
 
-[Acknowledge FDS requests and send a sample payload.](../task/service-bridge-v2-con-acknowledge-fds-request.md)
+[Acknowledge FDS requests and send a sample payload.](service-bridge-v2-con-acknowledge-fds-request.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ After receiving an FDS request from your provider, acknowledge it and send a sam
 
 </td><td>
 
-[Publish subscriptions.](../task/service-bridge-v2-publish-con-fds-subscription.md)
+[Publish subscriptions.](service-bridge-v2-publish-con-fds-subscription.md)
 
 </td><td>
 

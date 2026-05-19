@@ -36,5 +36,5 @@ Proceed from the **Schedule data import** section. For information on scheduling
     The **Select action** section is displayed.
 
 
-**Parent Topic:**[Configuring data import](../concept/configure-data-import.md)
+**Parent Topic:**[Configuring data import](configure-data-import.md)
 

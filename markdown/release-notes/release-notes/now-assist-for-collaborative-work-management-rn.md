@@ -57,5 +57,5 @@ Install Now Assist for CWM by requesting it from the ServiceNow Store. Visit the
     Use the Now Assist panel conversational interface in CWM to generate tasks from Docs and add them to CWM Boards.
 
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

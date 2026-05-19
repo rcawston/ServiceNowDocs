@@ -63,9 +63,9 @@ Track your job application status.**Note:** Your application is processed in the
 
 </td><td>
 
-Your job preferences​ that help in generating job recommendations. For more information, see [Alumni job preferences](../task/alumni-job-preferences.md).
+Your job preferences​ that help in generating job recommendations. For more information, see [Alumni job preferences](alumni-job-preferences.md).
 
-**Note:** Admin can configure this form according to the organization requirements. For more information, see [Configure alumni job preferences](../task/config-alumni-job-pref.md).
+**Note:** Admin can configure this form according to the organization requirements. For more information, see [Configure alumni job preferences](config-alumni-job-pref.md).
 
 </td></tr><tr><td>
 

@@ -32,7 +32,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Activate the cloud-related CI relationships**
 
-    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../../service-mapping/concept/tag_discovery_configuration.md).
+    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../service-mapping/tag_discovery_configuration.md).
 
 -   **Set up service accounts on the AWS Management Console**
 
@@ -50,13 +50,13 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
         When you run Discovery on your cloud resources, you don’t need separate credentials for each member account. The Cloud Discovery process handles credentials automatically by acquiring a temporary credential for each member via an AWS API. You can elect to use the default configuration or customize the MID Server to assume other roles for additional controls and security.
 
-    For more information, see [Setting up AWS service accounts](../../it-operations-management/concept/setup-aws-service-accounts.md).
+    For more information, see [Setting up AWS service accounts](../setup-aws-service-accounts.md).
 
 -   **Use IAM user policy on the AWS Management Console**
 
-    To use the IAM user policy instead of credentials during discovery, configure the MID Server for AWS IAM roles. For more information, see [configure the MID Server for AWS IAM roles](../../it-operations-management/task/config-mid-iam-roles.md).
+    To use the IAM user policy instead of credentials during discovery, configure the MID Server for AWS IAM roles. For more information, see [configure the MID Server for AWS IAM roles](../config-mid-iam-roles.md).
 
-    To create the IAM user policy for provisioning AWS resources, see [Control AWS access and permissions using policies](../../it-operations-management/task/aws-create-user-policy-cloud-mgt.md). Ensure that the IAM user policy covers the following AWS resources:
+    To create the IAM user policy for provisioning AWS resources, see [Control AWS access and permissions using policies](../aws-create-user-policy-cloud-mgt.md). Ensure that the IAM user policy covers the following AWS resources:
 
     ```
     {
@@ -95,15 +95,15 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Configure access to the AWS resources**
 
-    To discover a single account, create an IAM account in the AWS Management Console, and ensure that it has the "ReadOnlyAccess" policy applied. To discover several member or child accounts, configure the credentials as described in [Access setup for AWS service accounts](../../it-operations-management/concept/access-aws-accounts.md).
+    To discover a single account, create an IAM account in the AWS Management Console, and ensure that it has the "ReadOnlyAccess" policy applied. To discover several member or child accounts, configure the credentials as described in [Access setup for AWS service accounts](../access-aws-accounts.md).
 
 -   **Configure a discovery schedule**
 
-    [Create an AWS Discovery schedule in Discovery Admin Workspace](../task/create-AWS-schedule-DAW.md).
+    [Create an AWS Discovery schedule in Discovery Admin Workspace](../discovery/create-AWS-schedule-DAW.md).
 
 -   **\(Optional\) Discover datacenters only for new members**
 
-    Starting with Zurich Patch 2, you can discover datacenters only for new members added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](../../service-mapping/task/discover-datacenter-only-new-account.md).
+    Starting with Zurich Patch 2, you can discover datacenters only for new members added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](discover-datacenter-only-new-account.md).
 
 -   **Optimize discovery by including only datacenters with resources**
 
@@ -116,12 +116,12 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
         For instructions on configuring AWS Config recorder, go to the [AWS Documentation](https://docs.aws.amazon.com/) and search for the "Recording resources in the AWS Config console" article.
 
-    -   Enable discovery of only datacenters with resources by setting the **mid.cloud.discovery.sonar.discover\_all\_aws\_datacenters** MID Server property to **false**. For more information, see [Limit AWS discovery to datacenters with resources](../../service-mapping/task/limit-aws-discovery-active-datacenter.md).
+    -   Enable discovery of only datacenters with resources by setting the **mid.cloud.discovery.sonar.discover\_all\_aws\_datacenters** MID Server property to **false**. For more information, see [Limit AWS discovery to datacenters with resources](limit-aws-discovery-active-datacenter.md).
     For more information, see the **AWS resources discovery by datacenters** section.
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../../service-mapping/concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](query-service-account-ldc-fields.md).
 
 
 ## Verify the REST API Permissions
@@ -143,7 +143,7 @@ Discovering AWS services in the China region requires using a datacenter URL whe
 
 Starting with version 1.29.0, Discovery and Service Mapping Patterns introduces a new AWS datacenter discovery model. The previous model discovered all datacenters, regardless of whether they contained relevant resources. The new model improves the AWS discovery performance by focusing on only datacenters that contain resources.
 
-AWS has multiple datacenters around the world, but resources like load balancers and virtual machines are typically deployed in only some of them. The **Amazon AWS Datacenter Discovery** pattern runs before all other AWS patterns to identify datacenters with resources related to your service account \("active"\) and those without \("passive"\). A datacenter can also be classified as "empty" due to API call errors, AWS Config service not being enabled, or permission issues. You can check the discovery log for the exact cause of the error. For more information, see [Logs for horizontal discovery](r_DiscoveryLog.md#).
+AWS has multiple datacenters around the world, but resources like load balancers and virtual machines are typically deployed in only some of them. The **Amazon AWS Datacenter Discovery** pattern runs before all other AWS patterns to identify datacenters with resources related to your service account \("active"\) and those without \("passive"\). A datacenter can also be classified as "empty" due to API call errors, AWS Config service not being enabled, or permission issues. You can check the discovery log for the exact cause of the error. For more information, see [Logs for horizontal discovery](../discovery/r_DiscoveryLog.md#).
 
 After identifying "active", "passive", or "empty" datacenters, the discovery schedule continues to execute all AWS patterns only for "active" or "empty" datacenters, to discover your AWS cloud resources. "Passive" datacenters are ignored during the schedule. The **Refresh Datacenters** flow continues to display all regions, not just active ones. You don’t need to create another schedule when a resource is added or a datacenter switches from passive to active.
 
@@ -318,7 +318,7 @@ Pool \[pool\]
 References the Load Balancer Pool \[cmdb\_ci\_lb\_pool\] table.
 
 </td></tr></tbody>
-</table>    **Note:** By default, the Amazon AWS - LB Pool Member\(LP\) pattern doesn't execute discovery. To enable the discovery of AWS Application Load Balancer targets, set the **sn\_itom\_pattern.discover\_aws\_app\_pool\_members** MID Server property to **true**. For more information, see [Enable AWS Application Load Balancer target discovery](../../service-mapping/task/enable-aws-app-lb-discovery.md).
+</table>    **Note:** By default, the Amazon AWS - LB Pool Member\(LP\) pattern doesn't execute discovery. To enable the discovery of AWS Application Load Balancer targets, set the **sn\_itom\_pattern.discover\_aws\_app\_pool\_members** MID Server property to **true**. For more information, see [Enable AWS Application Load Balancer target discovery](enable-aws-app-lb-discovery.md).
 
 -   **Resources discovered using the Amazon AWS - Customer Gateway \(LP\) pattern**
 
@@ -775,7 +775,7 @@ The AWS patterns create the following relationships and references to support AW
     |---|-----|-------------|
     |Load Balancer Pool Member \[cmdb\_ci\_lb\_pool\_member\]|Pool \[pool\]|Load Balancer Pool \[cmdb\_ci\_lb\_pool\]|
 
-    **Note:** By default, the Amazon AWS - LB Pool Member\(LP\) pattern doesn't execute discovery. To enable the discovery of AWS Application Load Balancer targets, set the **sn\_itom\_pattern.discover\_aws\_app\_pool\_members** MID Server property to **true**. For more information, see [Enable AWS Application Load Balancer target discovery](../../service-mapping/task/enable-aws-app-lb-discovery.md).
+    **Note:** By default, the Amazon AWS - LB Pool Member\(LP\) pattern doesn't execute discovery. To enable the discovery of AWS Application Load Balancer targets, set the **sn\_itom\_pattern.discover\_aws\_app\_pool\_members** MID Server property to **true**. For more information, see [Enable AWS Application Load Balancer target discovery](enable-aws-app-lb-discovery.md).
 
 -   **Relationships discovered using the Amazon AWS - Customer Gateway \(LP\) pattern**
 
@@ -949,79 +949,79 @@ Service Mapping uses tag-based discovery to create service instance maps includi
 |Configuration Item \[cmdb\_ci\]|Hosted on::Hosts|Logical Datacenter \[cmdb\_ci\_logical\_datacenter\]|
 |Logical Datacenter \[cmdb\_ci\_logical\_datacenter\]|Hosted on::Hosts|Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\]|
 
--   **[Amazon API Gateway discovery with Patterns](../../service-mapping/concept/aws-api-gateway-discovery.md)**  
+-   **[Amazon API Gateway discovery with Patterns](aws-api-gateway-discovery.md)**  
 The ServiceNow Discovery and Service Mapping applications use the Amazon AWS API Gateway pattern to find Amazon API Gateways and connections to other entities. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon API Gateway Domain Name pattern-based discovery](../../patterns/aws-api-gateway-domain-name.md)**  
+-   **[Amazon API Gateway Domain Name pattern-based discovery](aws-api-gateway-domain-name.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon DynamoDB Cluster pattern-based discovery](../../patterns/aws-dynamodb-cluster.md)**  
+-   **[Amazon DynamoDB Cluster pattern-based discovery](aws-dynamodb-cluster.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Elastic Compute Cloud \(EC2\) Amazon Elastic Block Store \(EBS\) Snapshot pattern-based discovery](../../patterns/aws-ec2-ebs-snapshot.md)**  
+-   **[Amazon Elastic Compute Cloud \(EC2\) Amazon Elastic Block Store \(EBS\) Snapshot pattern-based discovery](aws-ec2-ebs-snapshot.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Elastic Compute Cloud \(EC2\) Reserved Instance pattern-based discovery](../../patterns/aws-ec2-reserved-instance.md)**  
+-   **[Amazon Elastic Compute Cloud \(EC2\) Reserved Instance pattern-based discovery](aws-ec2-reserved-instance.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Elastic Compute Cloud \(EC2\) virtual private cloud \(VPC\) Endpoint Service pattern-based discovery](../../patterns/aws-ec2-vpc-endpoint-service.md)**  
+-   **[Amazon Elastic Compute Cloud \(EC2\) virtual private cloud \(VPC\) Endpoint Service pattern-based discovery](aws-ec2-vpc-endpoint-service.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Elastic Compute Cloud \(EC2\) virtual private cloud \(VPC\) Peering Connection pattern-based discovery](../../patterns/aws-ec2-vpc-peering-connection.md)**  
+-   **[Amazon Elastic Compute Cloud \(EC2\) virtual private cloud \(VPC\) Peering Connection pattern-based discovery](aws-ec2-vpc-peering-connection.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Elastic File System \(Amazon EFS\) pattern-based discovery](../../patterns/aws-elastic-file-system.md)**  
+-   **[Amazon Elastic File System \(Amazon EFS\) pattern-based discovery](aws-elastic-file-system.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon ElastiCache Snapshot pattern-based discovery](../../patterns/aws-elasticache-snapshot.md)**  
+-   **[Amazon ElastiCache Snapshot pattern-based discovery](aws-elasticache-snapshot.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Managed Workflows for Apache Airflow \(MWAA\) Environment pattern-based discovery](../../patterns/aws-mwaa-environment.md)**  
+-   **[Amazon Managed Workflows for Apache Airflow \(MWAA\) Environment pattern-based discovery](aws-mwaa-environment.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Relational Database Services \(RDS\) DB Snapshot pattern-based discovery](../../patterns/aws-rds-db-snapshot.md)**  
+-   **[Amazon Relational Database Services \(RDS\) DB Snapshot pattern-based discovery](aws-rds-db-snapshot.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Redshift Serverless Namespace pattern-based discovery](../../patterns/aws-redshift-serverless-namespace.md)**  
+-   **[Amazon Redshift Serverless Namespace pattern-based discovery](aws-redshift-serverless-namespace.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Redshift Serverless Snapshot pattern-based discovery](../../patterns/aws-redshift-serverless-snapshot.md)**  
+-   **[Amazon Redshift Serverless Snapshot pattern-based discovery](aws-redshift-serverless-snapshot.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Redshift Serverless Workgroup pattern-based discovery](../../patterns/aws-redshift-serverless-workgroup.md)**  
+-   **[Amazon Redshift Serverless Workgroup pattern-based discovery](aws-redshift-serverless-workgroup.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Route 53 pattern-based discovery](../../service-mapping/reference/aws-route-53-pattern.md)**  
+-   **[Amazon Route 53 pattern-based discovery](aws-route-53-pattern.md)**  
 Discovery and Service Mapping Patterns finds Amazon Route 53 domain name systems \(DNS\) and aliases on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon SageMaker Training Job pattern-based discovery](../../patterns/aws-sagemaker-training-job.md)**  
+-   **[Amazon SageMaker Training Job pattern-based discovery](aws-sagemaker-training-job.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Amazon Timestream for InfluxDB Database Instance pattern-based discovery](../../patterns/aws-timestream-influxdb-db-instance.md)**  
+-   **[Amazon Timestream for InfluxDB Database Instance pattern-based discovery](aws-timestream-influxdb-db-instance.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS Batch Compute Environment pattern-based discovery](../../patterns/aws-batch-compute-environment.md)**  
+-   **[AWS Batch Compute Environment pattern-based discovery](aws-batch-compute-environment.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS CloudHSM hardware security module \(HSM\) pattern-based discovery](../../patterns/aws-cloudhsm-hsm.md)**  
+-   **[AWS CloudHSM hardware security module \(HSM\) pattern-based discovery](aws-cloudhsm-hsm.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS CloudTrail Trail pattern-based discovery](../../patterns/aws-cloudtrail-trail.md)**  
+-   **[AWS CloudTrail Trail pattern-based discovery](aws-cloudtrail-trail.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS datacenter pattern-based discovery](../../service-mapping/reference/aws-datacenter-pattern.md)**  
+-   **[AWS datacenter pattern-based discovery](aws-datacenter-pattern.md)**  
 Discovery and Service Mapping Patterns finds AWS Regions for your AWS account on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS DataSync Task pattern-based discovery](../../patterns/aws-datasync-task.md)**  
+-   **[AWS DataSync Task pattern-based discovery](aws-datasync-task.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS Global Accelerator pattern-based discovery](../../patterns/aws-global-accelerator.md)**  
+-   **[AWS Global Accelerator pattern-based discovery](aws-global-accelerator.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS hardware type pattern-based discovery](../../service-mapping/reference/aws-hardware-type-pattern.md)**  
+-   **[AWS hardware type pattern-based discovery](aws-hardware-type-pattern.md)**  
 Discovery and Service Mapping Patterns finds Amazon EC2 instance types on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS Network Firewall pattern-based discovery](../../patterns/aws-network-firewall.md)**  
+-   **[AWS Network Firewall pattern-based discovery](aws-network-firewall.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS Organizations pattern-based discovery](../../service-mapping/reference/aws-organizations-pattern.md)**  
+-   **[AWS Organizations pattern-based discovery](aws-organizations-pattern.md)**  
 Discovery and Service Mapping Patterns finds AWS Organizations accounts on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS OS image pattern-based discovery](../../service-mapping/reference/aws-os-image-pattern.md)**  
+-   **[AWS OS image pattern-based discovery](aws-os-image-pattern.md)**  
 Discovery and Service Mapping Patterns finds AWS OS images \(both owned and executable\) on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS Serverless Database pattern-based discovery](../../service-mapping/reference/aws-serverless-database-pattern.md)**  
+-   **[AWS Serverless Database pattern-based discovery](aws-serverless-database-pattern.md)**  
 Discovery and Service Mapping Patterns finds Amazon Aurora Serverless databases on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS Storage Gateway File Share pattern-based discovery](../../patterns/aws-storage-gateway-file-share.md)**  
+-   **[AWS Storage Gateway File Share pattern-based discovery](aws-storage-gateway-file-share.md)**  
 Discovery and Service Mapping Patterns finds AWS services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS sub account pattern-based discovery](../../service-mapping/reference/aws-sub-account-pattern.md)**  
+-   **[AWS sub account pattern-based discovery](aws-sub-account-pattern.md)**  
 Discovery and Service Mapping Patterns finds member accounts and the primary account within an AWS Organization. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[AWS virtual server pattern-based discovery](../../service-mapping/reference/aws-virtual-server-pattern.md)**  
+-   **[AWS virtual server pattern-based discovery](aws-virtual-server-pattern.md)**  
 Discovery and Service Mapping Patterns finds AWS EC2 virtual machine instances on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Limit AWS discovery to datacenters with resources](../../service-mapping/task/limit-aws-discovery-active-datacenter.md)**  
+-   **[Limit AWS discovery to datacenters with resources](limit-aws-discovery-active-datacenter.md)**  
 Optimize AWS discovery by limiting it to datacenters with resources.
 
-**Parent Topic:**[Available cloud discovery patterns](../../service-mapping/concept/available-patterns-cloud.md)
+**Parent Topic:**[Available cloud discovery patterns](available-patterns-cloud.md)
 
 **Related topics**  
 
 
-[Kubernetes discovery using patterns](../../service-mapping/concept/kubernetes-discovery.md)
+[Kubernetes discovery using patterns](../discovery/kubernetes-discovery.md)
 
-[AWS Certificate Manager discovery](../../service-mapping/reference/aws-certificate-manager-discovery-pattern.md)
+[AWS Certificate Manager discovery](../discovery/aws-certificate-manager-discovery-pattern.md)
 
-[Amazon Bedrock pattern-based discovery](../../ai-agent-topology-mapping/reference/amazon-bedrock-pattern.md)
+[Amazon Bedrock pattern-based discovery](../itom-visibility/amazon-bedrock-pattern.md)
 

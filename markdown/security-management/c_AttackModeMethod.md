@@ -17,13 +17,13 @@ For example, an attack mode/method might be to use malware to steal credit card 
 
 Attack modes and methods apply for STIX 1.1.
 
--   **[Define an attack mode/method](../task/t_AddAttackModeMethod.md)**  
+-   **[Define an attack mode/method](t_AddAttackModeMethod.md)**  
 Attack modes and methods are imported with STIX data, but you can add new modes/methods, as needed.
--   **[Add an IoC to an attack mode/method](../task/t_AddIoCToAttackMode.md)**  
+-   **[Add an IoC to an attack mode/method](t_AddIoCToAttackMode.md)**  
 In addition to importing indicators as STIX data, you can add IoCs to an attack mode/method manually.
--   **[Add a related attack mode method](../task/t_AddRelatedAttackMode.md)**  
+-   **[Add a related attack mode method](t_AddRelatedAttackMode.md)**  
 In addition to importing attack modes/methods as STIX data, you can add related attack modes/methods manually.
--   **[Add associated task to an attack mode/method](../task/t_AddAssociatedTaskToAttackMode.md)**  
+-   **[Add associated task to an attack mode/method](t_AddAssociatedTaskToAttackMode.md)**  
 In addition to importing associated tasks \(such as changes and incidents\) as STIX data, you can add them to an attack mode/method manually.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

@@ -23,7 +23,7 @@ Application required: Project Portfolio Management with Financials
 
 ## About this task
 
-The application automatically creates [cost plan breakdown records](../concept/cost-plan-breakdown.md#) when you save the cost plan. Cost plans can also have associated [expense lines](t_CreateAExpenseLine.md).
+The application automatically creates [cost plan breakdown records](cost-plan-breakdown.md#) when you save the cost plan. Cost plans can also have associated [expense lines](t_CreateAExpenseLine.md).
 
 **Note:** Cost plans are automatically created for resource plans that are associated to projects and project tasks.
 
@@ -41,9 +41,9 @@ To use multiple currencies, create a new cost plan for another currency.
 
 4.  On the form, fill in the fields.
 
-    For field information, see [Cost Plan form](../reference/cost-plan-form-project-management.md).
+    For field information, see [Cost Plan form](cost-plan-form-project-management.md).
 
-    **Note:** When you change the planned start date of a project, the associated cost plans and resource plan also change. The [project property](../reference/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** controls the behavior for project start date change.
+    **Note:** When you change the planned start date of a project, the associated cost plans and resource plan also change. The [project property](r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** controls the behavior for project start date change.
 
 5.  Select **Submit**.
 
@@ -56,7 +56,7 @@ To recalculate the values in the **Estimate at Completion** field, use the **Cal
 Update a cost plan breakdown record that specifies the estimated and actual cost, at a granular level, for specific fiscal periods.
 -   **[Enable cost rollup calculations](t_EnablingCostRollupCalculations.md)**  
 Enable rollup calculations from the project properties.
--   **[View actual project costs](../../project-portfolio-suite-with-financials/task/t_ViewActualProjectCosts.md)**  
+-   **[View actual project costs](t_ViewActualProjectCosts.md)**  
 When you are using Project Portfolio Management with Financials, you can view actual project costs on cost plans and projects.
 
 **Parent Topic:**[Starting a project](t_CreateAProject.md)
@@ -78,7 +78,7 @@ When you are using Project Portfolio Management with Financials, you can view ac
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -100,7 +100,7 @@ When you are using Project Portfolio Management with Financials, you can view ac
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 
@@ -112,9 +112,9 @@ When you are using Project Portfolio Management with Financials, you can view ac
 
 [Migrate financial baselines of projects to Next Experience](migrate-fin-baselines-projects.md)
 
-[Cost plan breakdown](../concept/cost-plan-breakdown.md#)
+[Cost plan breakdown](cost-plan-breakdown.md#)
 
 [Update a cost plan breakdown](update-cost-plan-breakdown.md)
 
-[System-generated cost plans](../concept/cost-plan-breakdown.md#)
+[System-generated cost plans](cost-plan-breakdown.md#)
 

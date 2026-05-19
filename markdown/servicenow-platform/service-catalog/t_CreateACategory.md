@@ -54,7 +54,7 @@ To create or edit a category:
     |Hide description \(classic mobile browsing\)|Option for displaying the description at the top of the list on Classic Mobile devices.|
 
 
-**Parent Topic:**[Service catalog categories](../concept/c_ServiceCatalogCategories.md)
+**Parent Topic:**[Service catalog categories](c_ServiceCatalogCategories.md)
 
 **Related topics**  
 

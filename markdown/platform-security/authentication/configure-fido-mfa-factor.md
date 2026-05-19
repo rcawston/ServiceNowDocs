@@ -95,7 +95,7 @@ Logical combination of multiple policy inputs \(filter criteria\) that is used t
 
     ![MFA- Biometric or Hardware keys](../images/biometirc-mfa.png)
 
-    To know more about different configuration example and user behaviors, see [Example Configurations and User Behaviors](../concept/mfa-with-fido.md#section_ovx_pgx_bgc).
+    To know more about different configuration example and user behaviors, see [Example Configurations and User Behaviors](mfa-with-fido.md#section_ovx_pgx_bgc).
 
 11. Repeat step 8 to create additional policy conditions.
 

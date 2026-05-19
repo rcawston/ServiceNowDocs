@@ -47,5 +47,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 8.  In Action 8, the flow ends.
 
 
-**Parent Topic:**[Playbook for Email Domain Spoofing Detection](../concept/playbook-email-spoof-detection.md)
+**Parent Topic:**[Playbook for Email Domain Spoofing Detection](playbook-email-spoof-detection.md)
 

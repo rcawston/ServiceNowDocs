@@ -137,5 +137,5 @@ Conditions based on the approving object that determine the conditions under whi
 
 [Approval Plan form](approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

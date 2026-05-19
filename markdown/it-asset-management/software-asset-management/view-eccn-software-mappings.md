@@ -36,5 +36,5 @@ An ECCN is a five character alphanumeric key that helps you identify products th
     **Note:** ECCN mappings are curated and stored in the Software Asset Management Content Library. However, the Content Service team does not dictate any mappings between the ECCNs and software products. Each ECCN is mapped to an appropriate software product based only on either the official ECCN information that has been published by the given software publisher or the official classifications that have been provided by the Bureau of Industry and Security \(BIS\).
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

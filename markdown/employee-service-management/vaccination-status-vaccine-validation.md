@@ -23,13 +23,13 @@ Validation systems work with Vaccination Status to review attachments in a user'
 -   Date received
 -   Vaccine code, such as CVX, to verify the vaccine manufacturer
 
-For more information on submitting a vaccine response, see [Report vaccination status to your organization](../task/report-vaccination-status.md).
+For more information on submitting a vaccine response, see [Report vaccination status to your organization](report-vaccination-status.md).
 
 The validation process creates work notes on the vaccine response record about the validation process to inform you whether the review was completed, and if not, why. You can also see a user's vaccine response record that details each attachment reviewed.
 
 **Note:** Work notes might not be comprehensive. If validation failed, you might want to investigate further to ensure that other information isn't also mismatched.
 
-Once the validation is completed, you can review the vaccine response record to approve or deny the response. For more information on manually reviewing a vaccine response or confirming whether the validator service is working, see [Confirm the reported vaccination status for a user](../task/confirm-vaccine-response.md).
+Once the validation is completed, you can review the vaccine response record to approve or deny the response. For more information on manually reviewing a vaccine response or confirming whether the validator service is working, see [Confirm the reported vaccination status for a user](confirm-vaccine-response.md).
 
 To automate the validation process, you must do the following:
 
@@ -54,7 +54,7 @@ To enable the automation of reviews, you must do the following:
 -   Configure Vaccination Status to automatically validate vaccine responses.
 -   Activate the **Allow validation engine approvals to update Vaccine Review Outcome records** property.
 
-For more information on automating vaccine response reviews, see [Automate reviews of vaccine responses](../task/enable-automated-vaccine-response-reviews.md).
+For more information on automating vaccine response reviews, see [Automate reviews of vaccine responses](enable-automated-vaccine-response-reviews.md).
 
 ## Provided services and integrations
 
@@ -80,7 +80,7 @@ The CommonTrust Network is a supported integration and validator service in Vacc
 
  You must still obtain credentials for your organization to provide in the CommonTrust Network record. For more information on SMART health cards, see [SMART Health Cards: Vaccination &amp; Testing Implementation Guide](https://build.fhir.org/ig/HL7/fhir-shc-vaccination-ig/vaccination.html#identifying-vaccines).
 
- If you want to automate vaccine response reviews, see [Automate reviews of vaccine responses](../task/enable-automated-vaccine-response-reviews.md).
+ If you want to automate vaccine response reviews, see [Automate reviews of vaccine responses](enable-automated-vaccine-response-reviews.md).
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Vaccination Status can integrate with Azure Form Recognizer. This integration en
 
  For more information, see [Automating vaccine response reviews with the Azure Form Recognizer service](automate-vaccine-validation-with-azure-form-recognizer.md).
 
- To configure Vaccination Status to use the Azure Form Recognizer service, see [Configure Azure Form Recognizer integration for automatic vaccine response reviews](../task/config-azure-form-recognizer-integration.md).
+ To configure Vaccination Status to use the Azure Form Recognizer service, see [Configure Azure Form Recognizer integration for automatic vaccine response reviews](config-azure-form-recognizer-integration.md).
 
 </td></tr></tbody>
 </table>

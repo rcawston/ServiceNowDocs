@@ -86,5 +86,5 @@ Role required: ui\_builder\_admin, admin
 14. Save the page.
 
 
-**Parent Topic:**[Technical dashboards](../../performance-analytics/concept/technical-dashboards.md)
+**Parent Topic:**[Technical dashboards](technical-dashboards.md)
 

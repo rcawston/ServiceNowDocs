@@ -26,7 +26,7 @@ In either case, de-duplication tasks are always created.
 
 **Note:** For a duplicate CI, if any of the CI's attributes, other than **duplicate\_of**, is updated by IRE processing, then the CI is no longer considered a duplicate CI. In that situation, the value of **duplicate\_of** is cleared in the CI.
 
-For more information about these properties, see [Properties for Identification and Reconciliation](../reference/properties-id-reconciliation.md).
+For more information about these properties, see [Properties for Identification and Reconciliation](properties-id-reconciliation.md).
 
 ## Detecting duplicate CIs in related and lookup tables
 
@@ -52,7 +52,7 @@ In the base system, this configuration table has no records, in which case IRE d
     |Identifier table|The identification rule class, such as Hardware \[cmdb\_ci\_hardware\] or Operational Technology \(OT\).|
 
 
-The CMDB CI Class Models ServiceNow® Store app adds class models that extend the CMDB class hierarchy, and contains meta data such as identification and reconciliation rules for the added classes. When specifying class models in this app, you can also include the cmdb\_duplicate\_lookup\_related\_allowed\_class table with entries specific to the added tables, such as the Operational Technology \(OT\) table. In which case, IRE will generate de-duplication tasks as configured in the table. For more information, see [CMDB CI Class Models app](cmdb-ci-class-models.md).
+The CMDB CI Class Models ServiceNow® Store app adds class models that extend the CMDB class hierarchy, and contains meta data such as identification and reconciliation rules for the added classes. When specifying class models in this app, you can also include the cmdb\_duplicate\_lookup\_related\_allowed\_class table with entries specific to the added tables, such as the Operational Technology \(OT\) table. In which case, IRE will generate de-duplication tasks as configured in the table. For more information, see [CMDB CI Class Models app](../cmdb-ci-class-models/cmdb-ci-class-models.md).
 
 You can also add records to the cmdb\_duplicate\_lookup\_related\_allowed\_class configuration table for added classes after the CMDB CI Class Models app has been installed.
 
@@ -74,7 +74,7 @@ Add and then set the property to reflect on whether such duplications are valid 
 
     IRE doesn't create de-duplication tasks even when **glide.identification\_engine.lookup\_match.create\_duplicate\_task\_ci.enabled** is **true**, in the following circumstances:
 
-    -   **Enforce exact count match** is set to **false**. For information about where it's set, see the advanced options in the 'Use attributes from another table \(Lookup table\)' option in [Create a CI identification rule](../task/t_CreateCIIdentificationRule.md).
+    -   **Enforce exact count match** is set to **false**. For information about where it's set, see the advanced options in the 'Use attributes from another table \(Lookup table\)' option in [Create a CI identification rule](t_CreateCIIdentificationRule.md).
     -   During identification, the number of matching CIs in the lookup table is greater than 1.
 
 See the following examples of lookup records, input payloads, and the results of identification processes:

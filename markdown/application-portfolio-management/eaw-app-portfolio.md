@@ -24,7 +24,7 @@ Manage all your digital interfaces from the Portfolio page of the Enterprise Arc
 -   **[Exploring digital integrations in Enterprise Architecture Workspace](eaw-digital-integration.md)**  
 Manage all your digital integrations in the Enterprise Architecture Workspace.
 
-**Parent Topic:**[Exploring Portfolio list view](../portfolio-list-view.md)
+**Parent Topic:**[Exploring Portfolio list view](portfolio-list-view.md)
 
 **Related topics**  
 

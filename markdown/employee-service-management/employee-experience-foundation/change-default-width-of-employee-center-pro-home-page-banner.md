@@ -49,5 +49,5 @@ Configure the width of the Employee Center Pro banner widget, in one of the foll
 
 Set the banner widget on the Employee Center Pro home page to your preferred width.
 
-**Parent Topic:**[Configure employee communications widgets](../concept/employee-comms-widgets.md)
+**Parent Topic:**[Configure employee communications widgets](employee-comms-widgets.md)
 

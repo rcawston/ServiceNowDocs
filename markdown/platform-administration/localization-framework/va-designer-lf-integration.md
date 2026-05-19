@@ -25,7 +25,7 @@ The integration of Virtual Agent Designer with Localization Framework enables yo
 
     **Note:**
 
-    -   **Note:** You need the localization\_editor role to edit the translated content from the comparison UI of the Virtual Agent Designer directly. For more information about the localization\_editor role, see [Localization Framework Roles](../reference/roles-localization-framework.md#).
+    -   **Note:** You need the localization\_editor role to edit the translated content from the comparison UI of the Virtual Agent Designer directly. For more information about the localization\_editor role, see [Localization Framework Roles](roles-localization-framework.md#).
 
     -   Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
 -   Request translations from Virtual Agent Designer.
@@ -33,7 +33,7 @@ The integration of Virtual Agent Designer with Localization Framework enables yo
     **Note:** Requesting translations creates localization tasks. You need the localization\_requester role to request translations.
 
 -   Approve and publish the translated content.
--   Monitor the overall localization health of the Virtual Agent topics from the [Localization Insights dashboard](../../../use/dashboards/application-content-packs/localization-insights-dashboard.md).
+-   Monitor the overall localization health of the Virtual Agent topics from the [Localization Insights dashboard](localization-insights-dashboard.md).
 
 For more information about localizing the Virtual Agent topics in the Virtual Agent Designer, see [Virtual Agent Localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md).
 

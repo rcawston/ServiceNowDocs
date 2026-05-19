@@ -29,6 +29,6 @@ Role required: sn\_si.knowledge\_admin
 
 3.  To create a runbook, select **New**.
 
-    For more information, see [Create a runbook](../reference/setup-assistant-reference.md#).
+    For more information, see [Create a runbook](setup-assistant-reference.md#).
 
 

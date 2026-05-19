@@ -25,7 +25,7 @@ Ensure that the manager profile is available in the ServiceNow AI Platform insta
 
 1.  [Map Magnit tasks](magnit-task-mapping.md) to create adhoc tasks for contingent workers.
 
-2.  Configure properties in [Source for HR Service Delivery Integration with Magnit](../reference/source-magnit.md#).
+2.  Configure properties in [Source for HR Service Delivery Integration with Magnit](source-magnit.md#).
 
 3.  [Activate a schedule flow](activate-sch-flow-magnit.md) to pull contingent workers from Magnit application into ServiceNow AI Platform instance.
 

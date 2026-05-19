@@ -17,7 +17,7 @@ Use Emergency Outreach to notify users to report their daily health status.
 
 ## Before you begin
 
-Users must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Users must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../now-mobile-employee-experience/mobile-employee-experience.md).
 
 Note the following requirements to be able to send and receive SMS notifications:
 
@@ -199,16 +199,16 @@ Review the daily health verification acknowledgements. Resend the notification t
 
 For example, say you send the daily health notification to Zane from August 1 to August 10. If Zane uses the link in the notification sent on August 4, then the acknowledgement status for Zane is updated in the notification sent on August 10.
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](emergency-outreach.md)
 
 **Related topics**  
 
 
 [Add a Safe Workplace audience for Emergency Outreach](add-sw-audience-outreach.md)
 
-[Send an Outreach notification for the daily contact log](../../contact-tracing/task/send-outreach-notif-daily-log.md)
+[Send an Outreach notification for the daily contact log](../contact-tracing/send-outreach-notif-daily-log.md)
 
-[Send an Emergency Outreach notification for employee privacy consents in Contact Tracing](../../contact-tracing/task/send-outreach-notif-privacy.md)
+[Send an Emergency Outreach notification for employee privacy consents in Contact Tracing](../contact-tracing/send-outreach-notif-privacy.md)
 
 [Send a readiness survey and view responses](send-eo-outreach-survey.md)
 

@@ -40,5 +40,5 @@ Role required: sn\_risk.manager or sn\_compliance.manager
     On the risk statement or control objective form, in the **PA Indicators** related list, you see the associated indicator. You can optionally click **View Indicator** on the desired indicator to see the Performance Analytics scorecard of the indicator. The PA Indicator associations are carried over to all risks or controls associated to the original risk statement or control objective. Also, if the indicator has a breakdown that matches the risk or entity of the control \(for example a Business Service breakdown\), the **Breakdown** and **Element** fields for the relationship are automatically filled in.
 
 
-**Parent Topic:**[Monitor risks using GRC Performance Analytics Indicators](../../grc-risk/concept/pa-indicators-risk.md)
+**Parent Topic:**[Monitor risks using GRC Performance Analytics Indicators](pa-indicators-risk.md)
 

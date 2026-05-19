@@ -27,7 +27,7 @@ Task Intelligence enables you to set up machine learning models to automate task
 
 </td><td>
 
-[Install ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Install Task Intelligence and related applications.](../task/install-task-intelligence.md)
+[Install ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Install Task Intelligence and related applications.](install-task-intelligence.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Task Intelligence enables you to set up machine learning models to automate task
 
 </td><td>
 
-[References![](../../document-intelligence/image/icon-docintel-references.png)References for components installed with Task Intelligence and language support.](../reference/reference-for-task-intelligence.md)
+[References![](../../document-intelligence/image/icon-docintel-references.png)References for components installed with Task Intelligence and language support.](reference-for-task-intelligence.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

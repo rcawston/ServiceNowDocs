@@ -93,5 +93,5 @@ Short description of the purpose of the event.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing system events](../concept/managing-system-events.md)
+**Parent Topic:**[Managing system events](managing-system-events.md)
 

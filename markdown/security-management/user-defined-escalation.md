@@ -13,7 +13,7 @@ breadcrumb: [Security Operations common functionality, Security Operations]
 
 You can create an escalation path for security incidents for issues requiring more attention or expertise. Once an escalation group exists, a button appears on any security incident in that group.
 
--   **[Create a Security Operations user-defined escalation group](../task/create-user-defined-escalation-group.md)**  
+-   **[Create a Security Operations user-defined escalation group](create-user-defined-escalation-group.md)**  
 Escalate a security incident to any group associated with the incident using Escalations.
 
 **Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)

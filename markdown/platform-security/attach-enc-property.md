@@ -17,7 +17,7 @@ Modify the com.glide.encryption.enable\_attachment\_key\_ui property to prevent 
 
 Role required: security\_admin
 
-You must elevate to the security\_admin role performing these steps. For instructions, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md)
+You must elevate to the security\_admin role performing these steps. For instructions, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md)
 
 By default, users who have access to an encryption module key are able to upload unencrypted attachments. Use the **com.glide.encryption.enable\_attachment\_key\_ui** system property to change this behavior.
 
@@ -32,7 +32,7 @@ When attaching, your users see a UI picker on records that have a multi-module e
 3.  Set the **value** of the property to `false`.
 
 
-**Parent Topic:**[Configuring Field Encryption](../concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 
-**Parent Topic:**[Configuring Column Level Encryption](../concept/configuring-column-level-encryption-2.md)
+**Parent Topic:**[Configuring Column Level Encryption](configuring-column-level-encryption-2.md)
 

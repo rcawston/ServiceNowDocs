@@ -82,7 +82,7 @@ Procedure
 -   **Headers** field content is used to create the resource's request header associations. The associated request headers are added to the relevant REST service's **Request Headers** tab.
 -   **Body** field content is used to create the resource's request schema. The resource's request schema is added to the relevant REST service's **Schemas** tab.
 -   **Query parameters** field content is used to create the resource's query parameter associations. The associated query parameters are added to the relevant REST service's **Query Parameters** tab.
--   All committed request definitions that you added are included in the exportable OpenAPI specification in the REST API Explorer. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](../../inbound-rest/task/export-openapi-specification.md).
+-   All committed request definitions that you added are included in the exportable OpenAPI specification in the REST API Explorer. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](export-openapi-specification.md).
 
 **Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
 

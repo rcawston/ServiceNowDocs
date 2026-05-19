@@ -51,5 +51,5 @@ Role required: sn\_lg\_outlook.admin
 
 [Deploy Microsoft Outlook Add-In for Legal Service Delivery](lsd-enable-outllook-addin.md).
 
-**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](../concept/lsd-outlook-addin-configure.md)
+**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-configure.md)
 

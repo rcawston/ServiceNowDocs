@@ -15,9 +15,9 @@ You can use keyboard shortcuts to quickly perform common actions in the user int
 
 The keyboard shortcuts that display in the modal are specific to the screen you’re viewing. Keyboard shortcuts depend on the browser and operating system that you’re using. The Linux operating system is not currently supported.
 
-To enable keyboard shortcuts for your instance, see [Configure Next Experience accessibility preferences](../../../get-started/servicenow-overview/task/next-experience-accessibility-preferences.md).
+To enable keyboard shortcuts for your instance, see [Configure Next Experience accessibility preferences](next-experience-accessibility-preferences.md).
 
-To customize the Next Experience keyboard shortcuts for your instance, see [Customize the Next Experience keyboard shortcuts](../../../administer/navigation-and-ui/task/customize-keyboard-shortcuts.md).
+To customize the Next Experience keyboard shortcuts for your instance, see [Customize the Next Experience keyboard shortcuts](customize-keyboard-shortcuts.md).
 
 Learn more about Next Experience keyboard shortcuts from the following tutorial:
 
@@ -157,7 +157,7 @@ Option+Shift+a
 
 </td></tr><tr><td>
 
-Now Assist menu \(voice input mode\)**Note:** Availability of voice input mode in the Now Assist menu is controlled by a user preference. For more information, see [Configure Next Experience accessibility preferences](../../../get-started/servicenow-overview/task/next-experience-accessibility-preferences.md).
+Now Assist menu \(voice input mode\)**Note:** Availability of voice input mode in the Now Assist menu is controlled by a user preference. For more information, see [Configure Next Experience accessibility preferences](next-experience-accessibility-preferences.md).
 
 </td><td>
 

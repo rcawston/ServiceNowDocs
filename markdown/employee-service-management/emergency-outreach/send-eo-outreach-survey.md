@@ -19,7 +19,7 @@ Use Emergency Outreach to send a workplace readiness survey. Review the survey r
 
 In order to send a survey, you must have the Employee Readiness Surveys application installed.
 
-Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../now-mobile-employee-experience/mobile-employee-experience.md).
 
 Role required: sn\_imt\_checkin.checkin\_admin or admin
 
@@ -228,5 +228,5 @@ The check box is active if the ServiceNow NowMobile App Screens and Applet Launc
     Click any area of a chart to see the corresponding records.
 
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](emergency-outreach.md)
 

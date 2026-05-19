@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-The DevOps Config Exporter content pack contains a set of [Default DevOps Config exporters](../reference/devops-config-default-exporters.md) to export your configuration data.
+The DevOps Config Exporter content pack contains a set of [Default DevOps Config exporters](devops-config-default-exporters.md) to export your configuration data.
 
 ## Procedure
 

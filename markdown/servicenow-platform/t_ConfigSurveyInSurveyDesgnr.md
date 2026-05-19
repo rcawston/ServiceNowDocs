@@ -27,23 +27,23 @@ Role required: survey\_creator, survey\_admin, or admin
 
 4.  On the Survey Designer Configuration form, fill in the fields.
 
-    For a description of the field values, see [Survey Designer Configuration form](../reference/survey-design-config-form.md).
+    For a description of the field values, see [Survey Designer Configuration form](survey-design-config-form.md).
 
 5.  Select the **Availability** tab and complete the form.
 
 
-**Parent Topic:**[Survey designer](../concept/c_SurveyDesigner.md)
+**Parent Topic:**[Survey designer](c_SurveyDesigner.md)
 
 **Related topics**  
 
 
-[Survey designer elements](../concept/c_SurveyDesignerElements.md)
+[Survey designer elements](c_SurveyDesignerElements.md)
 
-[Survey categories](../concept/c_SurveyCategory.md)
+[Survey categories](c_SurveyCategory.md)
 
 [Create a question in the survey designer](t_CreateQuestSurveyDesigr.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
 [Create custom metric type](create-custom-templates-questions.md)
 
@@ -61,5 +61,5 @@ Role required: survey\_creator, survey\_admin, or admin
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduleEvents.md)
 
-[Create an assessment signature](../../assessments/task/t_CreateAnAssessmentSignature.md)
+[Create an assessment signature](t_CreateAnAssessmentSignature.md)
 

@@ -39,5 +39,5 @@ You can view deprecated asset audit records in the Audits \[Deprecated\] list. T
 
 View the details of scanned assets within the asset audit form by selecting the relevant tabs.
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](ham-inventory-audit.md)
 

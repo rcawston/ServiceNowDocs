@@ -95,5 +95,5 @@ Scores are mapped to the Risk Intelligence Provider and Provider Service for Eco
 
 **Note:** You can verify that scores are being fetched by navigating to **All** &gt; **EcoVadis for third-party Risk Management** &gt; **Application Logs**.
 
-**Parent Topic:**[Integrating EcoVadis with Third-party Risk Management](../concept/tprm-integrating-ecovadis.md)
+**Parent Topic:**[Integrating EcoVadis with Third-party Risk Management](tprm-integrating-ecovadis.md)
 

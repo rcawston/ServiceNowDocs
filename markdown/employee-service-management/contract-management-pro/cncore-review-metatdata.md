@@ -97,7 +97,7 @@ Steps
 
 The information is submitted to be added to the mapped fields in the contract repository.
 
-When the extraction process is completed, you can view the status of the extracted fields in the **Extraction results** related list in the contract repository record. For more information on the status of the fields, see [Metadata extraction results](../reference/cncore-metadata-ext-results.md).
+When the extraction process is completed, you can view the status of the extracted fields in the **Extraction results** related list in the contract repository record. For more information on the status of the fields, see [Metadata extraction results](cncore-metadata-ext-results.md).
 
-**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](../concept/cncore-metadata-extract-land.md)
+**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](cncore-metadata-extract-land.md)
 

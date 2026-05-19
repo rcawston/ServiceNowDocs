@@ -23,8 +23,8 @@ User Criteria required: Taxonomy Manager, Taxonomy Contributor, Topic Manager, T
 
 Do the following steps:
 
-1.  Install the Learning \[sn\_lep\] application: [Install and configure Learning](../../human-resources/concept/configuring-learning.md)
-2.  Provide employees with the Talent Development license to enable access to the learning content: [License Talent Development Core users](../../employee-service-management/task/egd-employee-profile-licensing.md)
+1.  Install the Learning \[sn\_lep\] application: [Install and configure Learning](../learning-core/configuring-learning.md)
+2.  Provide employees with the Talent Development license to enable access to the learning content: [License Talent Development Core users](../talent-development-core/egd-employee-profile-licensing.md)
 3.  Navigate to the **Scheduled jobs** &gt; **Refresh access to all apps** and click **Execute Now**.
 
     This adds a new record to the Employee Application Access \[sn\_employee\_app\_access.list\] table.

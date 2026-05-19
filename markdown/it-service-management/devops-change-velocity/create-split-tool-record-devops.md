@@ -100,5 +100,5 @@ The following example specifies how changes made in the Split tool are notified 
 -   Feature Flag requests \(**DevOps &gt; Feature Flag &gt; Feature Flag Requests**\) are created or updated based on the status.![Feature flag requests for Split created in ServiceNow](../image/split-feature-flag-requests.png)
 -   A change request is created for every Feature Flag request, and work notes on the change request is updated with basic change details on the feature flag.![Change request created for feature flag request](../image/split-change-request.png)
 
-**Parent Topic:**[Split.io integration with DevOps Change Velocity](../concept/split-integration-devops-classic.md)
+**Parent Topic:**[Split.io integration with DevOps Change Velocity](split-integration-devops-classic.md)
 

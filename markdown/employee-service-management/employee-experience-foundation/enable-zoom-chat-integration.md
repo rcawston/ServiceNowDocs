@@ -44,5 +44,5 @@ Role required: admin
 
 The Zoom Team Chat feature on the ServiceNow instance is enabled.
 
-**Parent Topic:**[Configuring Collaboration services for Zoom](../concept/configure-sn-zoom.md)
+**Parent Topic:**[Configuring Collaboration services for Zoom](configure-sn-zoom.md)
 

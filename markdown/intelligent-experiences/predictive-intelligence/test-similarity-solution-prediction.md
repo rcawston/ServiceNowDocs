@@ -116,7 +116,7 @@ This scenario illustrates a similarity solution prediction for a hypothetical ML
         ![Shows the user the Resolution notes in one of the Incident records.](../images/predict-intel-simtest-soldef-recommendation.png)
 
 
-**Parent Topic:**[Testing and monitoring predictions](../concept/testing-reviewing-ml-solutions.md)
+**Parent Topic:**[Testing and monitoring predictions](testing-reviewing-ml-solutions.md)
 
 **Related topics**  
 

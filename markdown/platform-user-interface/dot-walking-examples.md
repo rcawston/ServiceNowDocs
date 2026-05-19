@@ -128,5 +128,5 @@ The tree picker interface has an expandable, hierarchical view that you can use 
 
 **Note:** You can configure the tree picker to pick up to 1,000 nodes when you configure the **glide.ui.group\_heirarchy.max\_nodes** property. To set the property, open the [Dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md) for the field, and add `tree_picker=true` to the **Attributes** field. If there are multiple attributes, use a comma to separate them without any spaces between.
 
-**Parent Topic:**[Dot-walking to data in related tables](../concept/c_DotWalking.md)
+**Parent Topic:**[Dot-walking to data in related tables](c_DotWalking.md)
 

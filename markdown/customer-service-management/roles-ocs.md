@@ -26,9 +26,9 @@ There are various roles required based on the tasks you perform.
 **Related topics**  
 
 
-[Set up Outsourced Customer Service](../concept/configure-outsourced-cust-serv.md#)
+[Set up Outsourced Customer Service](configure-outsourced-cust-serv.md#)
 
-[Outsourced Customer Service](../concept/outsourced-service-provider.md)
+[Outsourced Customer Service](outsourced-service-provider.md)
 
-[Outsourced Service Provider dashboard](../../../use/dashboards/application-content-packs/ocs-dashboard.md)
+[Outsourced Service Provider dashboard](ocs-dashboard.md)
 

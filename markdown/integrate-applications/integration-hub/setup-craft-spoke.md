@@ -40,7 +40,7 @@ Role required: admin
 4.  Locate the alias for **sn\_craft\_spoke** and click **View Details**.
 
     -   To configure the default connection and credential alias record that is shipped along with the Azure DevOps Boards spoke, click **View Details**.![Craft spoke connection template details](../image/craft-spoke-conn-template.png)
-    -   To manage more than one Azure DevOps Boards spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Azure DevOps Boards spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Craft spoke connection template configuration for the first time](../image/craft-spoke-conn-temp-config.png)

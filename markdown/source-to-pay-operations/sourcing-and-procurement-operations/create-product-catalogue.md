@@ -24,5 +24,5 @@ Add supplier products to populate the primary data.
 -   **[Add a supplier product bundle](add-supplier-product-bundle.md)**  
 Add a supplier product bundle, which may include several products or services from the same supplier. You can also add sub-bundles to the main bundle.
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 

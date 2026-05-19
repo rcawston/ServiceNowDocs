@@ -24,27 +24,27 @@ The Enterprise Modeling and Visualization diagrams aren’t illustrative but int
 
 [Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
-[View all shape libraries](../../task/eaw-task/eaw-view-shape-libraries.md)
+[View all shape libraries](eaw-view-shape-libraries.md)
 
-[Show or hide shapes in diagrams](../../task/eaw-task/eaw-show-hide-shapes.md)
+[Show or hide shapes in diagrams](eaw-show-hide-shapes.md)
 
-[Add or edit a shape library](../../task/eaw-task/eaw-add-edit-shape-library.md)
+[Add or edit a shape library](eaw-add-edit-shape-library.md)
 
-[Add a shape library element](../../task/eaw-task/eaw-modeling-add-shape-library-element.md)
+[Add a shape library element](eaw-modeling-add-shape-library-element.md)
 
-[View configuration for Enterprise Architecture Workspace](../../task/eaw-task/eaw-view-modeling-config.md)
+[View configuration for Enterprise Architecture Workspace](eaw-view-modeling-config.md)
 
-[Create diagram action](../../task/eaw-task/eaw-modeling-create-diagram-action.md)
+[Create diagram action](eaw-modeling-create-diagram-action.md)
 
-[Edit a modeling configuration](../../task/eaw-task/eaw-edit-modeling-menu.md)
+[Edit a modeling configuration](eaw-edit-modeling-menu.md)
 
-[View all entities](../../task/eaw-task/eaw-view-entity-config.md)
+[View all entities](eaw-view-entity-config.md)
 
-[Add or edit an entity](../../task/eaw-task/eaw-add-edit-entity.md)
+[Add or edit an entity](eaw-add-edit-entity.md)
 
-[Add or update shape icon for an entity](../../task/eaw-task/eaw-add-update-entity-icon.md)
+[Add or update shape icon for an entity](eaw-add-update-entity-icon.md)
 
-[View relationships configurations](../../task/eaw-task/eaw-view-relationships.md)
+[View relationships configurations](eaw-view-relationships.md)
 
-[Add or edit a relationship](../../task/eaw-task/eaw-add-edit-relationship.md)
+[Add or edit a relationship](eaw-add-edit-relationship.md)
 

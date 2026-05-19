@@ -23,9 +23,9 @@ The following example shows the 360° view of a compliance case:
 
 ![360° view of a compliance case.](../image/compliance-case-360.png "360° view of a compliance case")
 
-To explore the 360° view and to learn how to launch the view, see [Exploring the 360º view](../../grc-360-degree-rel-vis/concept/understanding-360-view.md#).
+To explore the 360° view and to learn how to launch the view, see [Exploring the 360º view](../grc-360-degree-relationship-visualization/understanding-360-view.md#).
 
-To learn more about the users who could use 360° Relationship Visualization, their roles, and responsibilities, see [360° Relationship Visualization](../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
+To learn more about the users who could use 360° Relationship Visualization, their roles, and responsibilities, see [360° Relationship Visualization](../grc-360-degree-relationship-visualization/grc-360-deg-rel-vis.md).
 
 ## 360° view of compliance inventories integrated with compliance case
 

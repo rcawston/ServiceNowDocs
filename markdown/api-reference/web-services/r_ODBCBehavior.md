@@ -81,8 +81,8 @@ Query routing is done to take the load off the primary database for SELECT queri
 
 For routing ODBC calls to Read Replica, go to **All** &gt; **Secondary Database** &gt; **Secondary DB Categories** and set **odbc** to `true`.
 
--   **[Increase the field length in SQL queries](../task/t_IncreaseTheODBCOutputFieldSize.md)**  
+-   **[Increase the field length in SQL queries](t_IncreaseTheODBCOutputFieldSize.md)**  
 The ODBC driver limits the field length in SQL queries to the maximum length defined by the ServiceNow dictionary entry. You can increase the maximum field length to avoid truncating data.
 
-**Parent Topic:**[Create data sources from other apps using ODBC driver](../concept/c_ODBCDriver.md)
+**Parent Topic:**[Create data sources from other apps using ODBC driver](c_ODBCDriver.md)
 

@@ -25,19 +25,19 @@ Role required: Quality Issue Management Admin or Product Non-conformance Triager
 
 3.  On the Product Non-conformance Case task form, fill in the fields.
 
-    For a description of the field values, see [Product non-conformance case task form](../reference/mco-product-non-conformance-case-task-form.md).
+    For a description of the field values, see [Product non-conformance case task form](mco-product-non-conformance-case-task-form.md).
 
 4.  Select **Save**.
 
 5.  On the Product Non-conformance Case task form, fill in the **Notes** fields.
 
-    For a description of the field values, see [Product non-conformance case task form](../reference/mco-product-non-conformance-case-task-form.md).
+    For a description of the field values, see [Product non-conformance case task form](mco-product-non-conformance-case-task-form.md).
 
 6.  Select **Discuss**.
 
     The Start a Sidebar discussion window is displayed.
 
-    For a description of the field values, see [Discuss form](../reference/mco-discuss-sidebar.md). Select a type of discussion
+    For a description of the field values, see [Discuss form](mco-discuss-sidebar.md). Select a type of discussion
 
     -   Select **Start discussion**.
     -   Select **Start private discussion**.

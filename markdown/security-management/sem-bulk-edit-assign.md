@@ -34,8 +34,8 @@ Role required:
     -   Configuration Test Results
 3.  Perform one of the following:
 
-    -   Select the check box next to each item if you want to use the **Only Selected Items** option in the [Record selection](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-assign.md#record-slection-field-assign) field.
-    -   Apply filters if you want to use the **All records that match filter** option in the [Record selection](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-assign.md#record-slection-field-assign) field.
+    -   Select the check box next to each item if you want to use the **Only Selected Items** option in the [Record selection](vulnerability-manager-workspace/vmws-bulk-edit-assign.md#record-slection-field-assign) field.
+    -   Apply filters if you want to use the **All records that match filter** option in the [Record selection](vulnerability-manager-workspace/vmws-bulk-edit-assign.md#record-slection-field-assign) field.
 4.  Select the **Bulk Edit** button.
 
 5.  On the form, fill in the fields to assign the records to an assignment group.
@@ -95,5 +95,5 @@ Text that you enter to describe the changes.
 
 Open a record for which you updated the assignment group and navigate to the Overview tab, the user group to which the record is assigned appears in the **Assignment group** field.
 
-**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](../concept/sem-using-bulk-edit.md)
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](sem-using-bulk-edit.md)
 

@@ -17,15 +17,15 @@ Configure login security options to control access to your instance.
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Configure your login security![](../../../reuse/icons/brand-icons/bus-explore.svg)](../task/t_EnableTheLogoutConfirmPrompt.md)
+[Configure your login security![](../../../reuse/icons/brand-icons/bus-explore.svg)](t_EnableTheLogoutConfirmPrompt.md)
 
- [Understand how to configure login security.](../task/t_EnableTheLogoutConfirmPrompt.md)
+ [Understand how to configure login security.](t_EnableTheLogoutConfirmPrompt.md)
 
 </td><td>
 
-[Define Login Scenarios![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../../login/task/t_LoginScenarios.md)
+[Define Login Scenarios![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](t_LoginScenarios.md)
 
- [Define login scenarios.](../../login/task/t_LoginScenarios.md)
+ [Define login scenarios.](t_LoginScenarios.md)
 
 </td></tr><tr><td>
 

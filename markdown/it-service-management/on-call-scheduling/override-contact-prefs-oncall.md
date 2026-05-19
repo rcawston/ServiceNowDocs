@@ -48,5 +48,5 @@ Role required: rota\_admin, rota\_manager
 4.  Enable the **Override user preference** option.
 
 
-**Parent Topic:**[Managing schedules and shifts](../../user-administration/concept/manage-schedules-and-shifts.md)
+**Parent Topic:**[Managing schedules and shifts](manage-schedules-and-shifts.md)
 

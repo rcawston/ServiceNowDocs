@@ -26,7 +26,7 @@ Schedule a printer ink cartridge replacement after printing a specified number o
 
 1.  Create a model-based maintenance plan for HP Printer Cartridge Replacement and publish the plan.
 
-    For more information, see [Create and publish maintenance plans](../task/create-publish-maintenance-plans.md).
+    For more information, see [Create and publish maintenance plans](create-publish-maintenance-plans.md).
 
 2.  Create a meter-based schedule:
     -   Name: Schedule name.
@@ -57,5 +57,5 @@ For more information, see [Workplace planned maintenance scheduled job](sch-job-
 
 **Previous topic:**[Workplace Maintenance Management references](workplace-maintenance-mgmt-references.md)
 
-**Next topic:**[Components installed with Workplace Maintenance Management](../reference/components-installed-with-maintenance-mgmt.md)
+**Next topic:**[Components installed with Workplace Maintenance Management](components-installed-with-maintenance-mgmt.md)
 

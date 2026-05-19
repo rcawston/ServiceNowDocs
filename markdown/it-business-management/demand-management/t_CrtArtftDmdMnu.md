@@ -23,10 +23,10 @@ The category and type of a demand and the applications you have installed determ
 
 |Artifact|Required application|
 |--------|--------------------|
-|Enhancement, change, or defect|[Project Portfolio Suite](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)|
-|Agile Development entities \(story or epic\)|[Agile Development 2.0](../../agile-development/reference/agile-landing-page.md)|
-|Scaled Agile Framework \(SAFe\)SAFe entities \(story, feature, or epic\)|[Essential SAFe](../../agile-SAFe/concept/essential-overview.md) or [Portfolio SAFe](../../agile-SAFe/concept/portfolio-overview.md)|
-|Enterprise Agile Planning \(EAP\) entities \(epic, feature, or capability\)|[Strategic Planning](../../alignment-planner-workspace/concept/alignment-planner-workspace-landing-page.md)|
+|Enhancement, change, or defect|[Project Portfolio Suite](../ppm-collaboration/c_ProjectPortfolioSuite.md)|
+|Agile Development entities \(story or epic\)|[Agile Development 2.0](../agile-development/agile-landing-page.md)|
+|Scaled Agile Framework \(SAFe\)SAFe entities \(story, feature, or epic\)|[Essential SAFe](../scaled-agile-framework-safe/essential-overview.md) or [Portfolio SAFe](../scaled-agile-framework-safe/portfolio-overview.md)|
+|Enterprise Agile Planning \(EAP\) entities \(epic, feature, or capability\)|[Strategic Planning](../strategic-planning/alignment-planner-workspace-landing-page.md)|
 |Improvement initiatives|[Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-landing-page.md)|
 
 Role required: it\_demand\_manager
@@ -44,7 +44,7 @@ Role required: it\_demand\_manager
 
 3.  Verify that the values in the **Category** and **Type** fields are appropriate for the artifact you want to create.
 
-    The options in the Type list change according to the category that you select. For more information, see [Demand form](../reference/demand-form.md).
+    The options in the Type list change according to the category that you select. For more information, see [Demand form](demand-form.md).
 
     **Note:** The **Category** and **Type** fields are set to read only when an artifact is created from a demand. If you delete the created artifact, these fields become editable again.
 
@@ -68,7 +68,7 @@ Description
 
 </td><td>
 
-This link appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Project**. Creates a project that is associated with this demand. The number of the project record is displayed in the **Project** field. For more information, see [Data migrated from a demand to a created project](../reference/data-copied-from-demand-to-project.md).
+This link appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Project**. Creates a project that is associated with this demand. The number of the project record is displayed in the **Project** field. For more information, see [Data migrated from a demand to a created project](data-copied-from-demand-to-project.md).
 
 </td></tr><tr><td id="d89676e334">
 

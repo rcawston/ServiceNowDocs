@@ -34,7 +34,7 @@ The Home page consists of the following cards and list of remediation tasks assi
 
 -   **Impacted CIs card**
 
-    The number of configuration items that have VIs that are assigned to you or your groups. For more information, see [View configuration items with vulnerabilities in the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-remed-task-v16.md).
+    The number of configuration items that have VIs that are assigned to you or your groups. For more information, see [View configuration items with vulnerabilities in the IT Remediation Workspace](vr-ws-remed-task-v16.md).
 
 -   **Preferred patches on VIs card**
 
@@ -50,6 +50,6 @@ The Home page consists of the following cards and list of remediation tasks assi
 
     Click the More Actions ellipses and click **Start Investigation** to resolve a remediation task.
 
-    For more information about what you can do on the home page, see [Use remediation task records in the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-remed-task.md).
+    For more information about what you can do on the home page, see [Use remediation task records in the IT Remediation Workspace](vr-ws-remed-task.md).
 
 

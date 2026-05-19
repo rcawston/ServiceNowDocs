@@ -74,5 +74,5 @@ Theme Builder automatically saves your theme record.
 
 If your theme is published, your font edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](tb-apply-theme.md).
 
-**Parent Topic:**[Working with Global styles](../concept/working-with-global-styles.md)
+**Parent Topic:**[Working with Global styles](working-with-global-styles.md)
 

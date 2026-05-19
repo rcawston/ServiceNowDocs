@@ -53,5 +53,5 @@ Role required: sn\_cwm.cwm\_user
         ![Start next sprint in EAP.](../images/eap-start-sprint.png)
 
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 

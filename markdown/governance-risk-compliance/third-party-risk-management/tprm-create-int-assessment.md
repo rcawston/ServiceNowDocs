@@ -35,7 +35,7 @@ When creating an on-demand internal assessment, TPR managers or TPR assessors ca
     -   **Workspaces** &gt; **Vendor Management Workspace**, select the list icon ![](../../grc-cam-workspace/image/ws-list-icon.png) and then navigate to **Internal Risk Assessments** &gt; **All Assessments**.
 2.  Create an internal assessment by selecting **New** and fill in the form.
 
-    For descriptions of all these fields, see [Create new internal assessment form](../reference/create-int-assess-form.md).
+    For descriptions of all these fields, see [Create new internal assessment form](create-int-assess-form.md).
 
 3.  Select **Submit**.
 
@@ -82,14 +82,14 @@ Description
 
 ## What to do next
 
-The owner assigned to the internal assessment works with the respondents to close the assessment. For information on how to respond to Internal assessments, see [Respond to an internal assessment](../../grc-workspace-vrm/task/tprm-irq-respond-to.md).
+The owner assigned to the internal assessment works with the respondents to close the assessment. For information on how to respond to Internal assessments, see [Respond to an internal assessment](tprm-irq-respond-to.md).
 
 **Related topics**  
 
 
-[Assessing your third-party risk](../concept/tprm-assessing-tpr.md)
+[Assessing your third-party risk](tprm-assessing-tpr.md)
 
-[Respond to an internal assessment](../../grc-workspace-vrm/task/tprm-irq-respond-to.md)
+[Respond to an internal assessment](tprm-irq-respond-to.md)
 
-[IRQ process management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-irq-tab.md)
+[IRQ process management](tprm-ws-dd-mgt-pg-irq-tab.md)
 

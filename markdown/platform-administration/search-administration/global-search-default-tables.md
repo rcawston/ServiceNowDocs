@@ -30,5 +30,5 @@ Multiple tables are enabled for global search in the base system. Each global se
 |Requested Item \[sc\_req\_item\]|Number, Item, Stage, State, Requested for, Opened by, Opened|
 |User \[sys\_user\]|Name, Email, Company, Department, Title|
 
-**Parent Topic:**[Text search views control format of global search results for tables](../concept/text-search-view-formats-results.md)
+**Parent Topic:**[Text search views control format of global search results for tables](text-search-view-formats-results.md)
 

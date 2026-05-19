@@ -31,7 +31,7 @@ The following items are installed with Health and Safety Environmental Managemen
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Health and Safety Environmental Management](../reference/hs-components-installed-environmental-management.md).
+For more information, see [Components installed with Health and Safety Environmental Management](hs-components-installed-environmental-management.md).
 
 This table lists the optional applications that can be installed for additional features:
 
@@ -107,5 +107,5 @@ Provides the IntegrationHub Professional capabilities required to connect to ext
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setting up Health and Safety Environmental Management](../concept/hs-setting-up-environmental-management.md)
+**Parent Topic:**[Setting up Health and Safety Environmental Management](hs-setting-up-environmental-management.md)
 

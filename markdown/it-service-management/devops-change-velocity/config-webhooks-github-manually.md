@@ -61,5 +61,5 @@ You can also access manual configuration from the GitHub tool record in DevOps C
     ![GitHub configure webhooks manually](../image/github-manual-webhooks.png)
 
 
-**Parent Topic:**[GitHub integration with DevOps Change Velocity](../concept/github-integration-dev-ops.md)
+**Parent Topic:**[GitHub integration with DevOps Change Velocity](github-integration-dev-ops.md)
 

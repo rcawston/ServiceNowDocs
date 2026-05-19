@@ -42,5 +42,5 @@ Role required: admin
     In the slush bucket window, add or remove columns as required.
 
 
-**Parent Topic:**[Configure SI design time investigation](../concept/configure-investigation-canvas-records.md)
+**Parent Topic:**[Configure SI design time investigation](configure-investigation-canvas-records.md)
 

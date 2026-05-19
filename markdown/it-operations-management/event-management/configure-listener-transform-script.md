@@ -21,7 +21,7 @@ Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is inst
 
 Role required: evt\_mgmt\_admin
 
-**Note:** If you are upgrading a ServiceNow AI Platform instance from Paris or earlier, you can use legacy listener transform scripts. See [Use legacy listener transform scripts](../concept/migrate-transform-scripts.md) for further information.
+**Note:** If you are upgrading a ServiceNow AI Platform instance from Paris or earlier, you can use legacy listener transform scripts. See [Use legacy listener transform scripts](migrate-transform-scripts.md) for further information.
 
 ## About this task
 
@@ -179,11 +179,11 @@ Use the URL in the format:`http://{MID_Server_IP}:{MID_Web_Server_Port}/api/mid/
     ```
 
 
--   **[Use legacy listener transform scripts](../concept/migrate-transform-scripts.md)**  
+-   **[Use legacy listener transform scripts](migrate-transform-scripts.md)**  
 Use legacy listener transform scripts when upgrading a ServiceNow AI Platform instance from Paris or earlier. These scripts can be run as part of existing integrated systems, or in unison with Event Management push connectors.
 -   **[Integrate AWS platform as a data source](aws-events-transform-script.md)**  
 Integrate Amazon Web Services \(AWS\) with Event Management. To add AWS platform as a data source, configuration is required in the AWS platform.
--   **[Integrate Azure Monitor as an authenticated data source](../concept/azure-integration.md)**  
+-   **[Integrate Azure Monitor as an authenticated data source](azure-integration.md)**  
 Integrate Microsoft Azure with Event Management by adding the Azure Monitor as an authenticated data source.
 -   **[Event collection from Microsoft Azure Monitor](event-collection-MicrosoftAzure.md)**  
 The MID WebServer Event Collector enables you to collect JSON formatted event messages sent from the Microsoft Azure portal.
@@ -199,11 +199,11 @@ Integrate Catchpoint with Event Management by adding an alert webhook in the Cat
 Integrate Google Cloud Platform \(GCP\) with Event Management by adding a standard webhook in the GCP console.
 -   **[Event collection from Google Cloud Platform \(GCP\)](event-collection-GCP.md)**  
 The MID WebService Event Collector enables you to collect JSON formatted event messages sent from Google Cloud Platform \(GCP\).
--   **[Integrate Grafana events](../concept/grafana-integration.md)**  
+-   **[Integrate Grafana events](grafana-integration.md)**  
 Integrate Grafana with Event Management by adding Grafana as an authenticated data source.
 -   **[Integrate Honeycomb events](honeycomb-event-integration.md)**  
 Integrate Honeycomb with Event Management by creating a webhook and configuring it as a trigger in the Honeycomb platform.
--   **[Integrate Instana events](../concept/instana-integration.md)**  
+-   **[Integrate Instana events](instana-integration.md)**  
 Integrate Instana with Event Management by adding Instana as an authenticated data source.
 -   **[Integrate ServiceNow Cloud Observability Events](lightstep-event-collection.md)**  
 Integrate ServiceNow Cloud Observability with Event Management by adding a standard webhook in the ServiceNow Cloud Observability platform. Download the Event Management Connector plugin from the ServiceNow Store so you can integrate with ServiceNow Cloud Observability.
@@ -221,10 +221,10 @@ Integrate Sentry with Event Management by adding a standard webhook in the Sentr
 Enable the collection of events from Scout APM by authenticating Scout APM as a data source to integrate it with Event Management.
 -   **[Integrate Sumo Logic events](sumologic-events-integration.md)**  
 Use the Sumo Logic push connector to integrate Sumo Logic with Event Management by adding a standard webhook in the Sumo Logic platform.
--   **[Integrate Panopta as a data source](../reference/integrate-with-panopta.md)**  
+-   **[Integrate Panopta as a data source](integrate-with-panopta.md)**  
 Integrate the Panopta cloud-based monitoring solution with Event Management. To add Panopta as a data source, configuration is required in Panopta.
 -   **[Integrate Event Integration \(EIF\) format event connector](eif-events-integration.md)**  
 Use the push connector that allows events to be forwarded from products, generally from IBM, that support the Event Integration \(EIF\) format to a MID Server.
 
-**Parent Topic:**[Configure Event Management connectors](../reference/connectors-and-listeners.md)
+**Parent Topic:**[Configure Event Management connectors](connectors-and-listeners.md)
 

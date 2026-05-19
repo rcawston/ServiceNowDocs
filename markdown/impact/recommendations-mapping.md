@@ -86,5 +86,5 @@ Following are the tables that are synced with recommendations and information th
 |sys\_updated\_by|sn\_impact\_common\_content\_recommendation\_feedback|sys\_updated\_by|x\_snc\_impact\_rec\_content\_recommendation\_feedback|
 |dismissal\_time|sn\_impact\_common\_content\_recommendation\_feedback|dismissal\_time|x\_snc\_impact\_rec\_content\_recommendation\_feedback|
 
-**Parent Topic:**[Table and field level mapping](../concept/table-field-level-mapping.md)
+**Parent Topic:**[Table and field level mapping](table-field-level-mapping.md)
 

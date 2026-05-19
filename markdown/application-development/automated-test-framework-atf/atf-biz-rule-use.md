@@ -56,5 +56,5 @@ This example tests a business rule that sets the value of **Locked out** to **tr
     ![Form for Field Values Validation](../image/atf-use-biz-rule-05.png "Step 5 - Field Values Validation")
 
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](atf-use-cases.md)
 

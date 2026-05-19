@@ -36,14 +36,14 @@ Role required: sn\_apm.apm\_user
     The list of value stream stages associated with the business capability is displayed.
 
 
-**Parent Topic:**[Manage business capabilities](../../concept/eaw-concept/eaw-manage-business-capabilities.md)
+**Parent Topic:**[Manage business capabilities](eaw-manage-business-capabilities.md)
 
 **Related topics**  
 
 
-[Exploring value stream stages](../../concept/eaw-concept/eaw-value-stream-stage.md)
+[Exploring value stream stages](eaw-value-stream-stage.md)
 
-[Exploring business capabilities](../../concept/eaw-concept/eaw-business-capabilities.md)
+[Exploring business capabilities](eaw-business-capabilities.md)
 
 [View value stream stage details](eaw-view-all-value-stream-stages.md)
 

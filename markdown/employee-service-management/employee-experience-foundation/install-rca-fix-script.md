@@ -52,7 +52,7 @@ After you download the script file, perform the following steps.
 5.  Click **Run Script** to allow all the requested RCAs.
 
 
-**Parent Topic:**[Post installation troubleshooting](../concept/post-install-steps.md)
+**Parent Topic:**[Post installation troubleshooting](post-install-steps.md)
 
 **Related topics**  
 

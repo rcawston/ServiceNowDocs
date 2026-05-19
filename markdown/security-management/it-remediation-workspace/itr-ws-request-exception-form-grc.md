@@ -75,5 +75,5 @@ Details related to the reason this exception is being requested. This field must
 </table>**Related topics**  
 
 
-[Request an exception using GRC: Policy and Compliance Management in the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-request-exception-grc.md)
+[Request an exception using GRC: Policy and Compliance Management in the IT Remediation Workspace](vr-ws-request-exception-grc.md)
 

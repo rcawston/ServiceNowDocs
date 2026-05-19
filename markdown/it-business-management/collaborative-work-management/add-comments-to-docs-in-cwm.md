@@ -24,5 +24,5 @@ Role required: admin
 1.  Navigate to **All** &gt; **** &gt; ****.
 
 
-**Parent Topic:**[Collaborative documentation using CWM](../concept/cwm-docs.md)
+**Parent Topic:**[Collaborative documentation using CWM](cwm-docs.md)
 

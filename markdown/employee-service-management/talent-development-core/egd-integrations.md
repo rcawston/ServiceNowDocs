@@ -15,5 +15,5 @@ breadcrumb: [Talent Development Core, Growth Experiences, HR Service Delivery, E
 
 Integrations enable the expansion of features and services among available apps.
 
-**Parent Topic:**[HR Service Delivery](../../human-resources/concept/hr-service-delivery.md)
+**Parent Topic:**[HR Service Delivery](../hr-service-delivery/hr-service-delivery.md)
 

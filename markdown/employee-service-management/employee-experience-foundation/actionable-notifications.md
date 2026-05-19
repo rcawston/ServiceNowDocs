@@ -17,7 +17,7 @@ Approve or reject requests by using the approval notification in Microsoft Teams
 
 ## Before you begin
 
-For information about configuring approval notifications, see [Approvals hub](../../employee-center/concept/approval-hub-intro.md).
+For information about configuring approval notifications, see [Approvals hub](approval-hub-intro.md).
 
 Role required: user
 
@@ -42,5 +42,5 @@ Role required: user
 7.  Select either **Approve** or **Reject** to update the request.
 
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](employee-sn-ms-teams.md)
 

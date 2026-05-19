@@ -32,7 +32,7 @@ The inventory\_user, asset, or procurement\_user role can only access the Transf
     Alternatively, you can cancel a transfer order or a transfer order line while it is in **Requested** or **Shipment Preparation** stage. Once all the lines are canceled, the transfer order is automatically canceled.
 
 
-**Parent Topic:**[Transfer order tasks](../concept/work-with-transfer-orders.md)
+**Parent Topic:**[Transfer order tasks](work-with-transfer-orders.md)
 
 **Related topics**  
 

@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the String component. For more information about these properties, see [Properties of the Random components](../reference/properties-random-component.md).
+You can configure the properties for the String component. For more information about these properties, see [Properties of the Random components](properties-random-component.md).
 
 ## Procedure
 
@@ -39,5 +39,5 @@ You can configure the properties for the String component. For more information 
 4.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Random](../concept/random.md)
+**Parent Topic:**[Random](random.md)
 

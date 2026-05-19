@@ -21,14 +21,14 @@ Administrators can also transfer versions between instances with Update Sets or 
 There are a variety of methods for viewing a list of versions for an object.
 -   **[Versions transferring](c_TransferringVersions.md)**  
 Administrators transfer version records between instances by moving customizations with Update Sets or the Team Development application.
--   **[Version records](../reference/r_VersionRecords.md)**  
+-   **[Version records](r_VersionRecords.md)**  
 The Update Versions `[sys_update_version]` table contains records that represent the state of a customizable object at a particular time.
--   **[Compare to the current version](../task/t_CompareToCurrentVersion.md)**  
+-   **[Compare to the current version](t_CompareToCurrentVersion.md)**  
 You can compare a version to the current version for any customizable object that a user has modified, such as a form layout or business rule. You can also compare the local and current pulled version of an object in Team Development. Administrators can suppress versions for specific tables.
--   **[Revert a change](../task/t_RevertAChange.md)**  
+-   **[Revert a change](t_RevertAChange.md)**  
 You can undo changes to a customized record by reverting to an older version.
--   **[Suppress versions](../task/t_SuppressVersions.md)**  
+-   **[Suppress versions](t_SuppressVersions.md)**  
 Administrators can configure a table so that it does not track customizations in the Versions `[sys_update_version]` table.
 
-**Parent Topic:**[Administer Team Development](../task/administer-team-development.md)
+**Parent Topic:**[Administer Team Development](administer-team-development.md)
 

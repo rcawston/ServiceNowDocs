@@ -17,7 +17,7 @@ The GlideJsonPath API retrieves values from a JSON document using a query path s
 
 This API is available by default.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideJsonPath - GlideJsonPath\(String jsonDocument\)
 

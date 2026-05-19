@@ -32,10 +32,10 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 5.  Review the information on the Automation Executions page.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 
 **Related topics**  
 
 
-[Automation execution form](../reference/automation-execution-form.md)
+[Automation execution form](automation-execution-form.md)
 

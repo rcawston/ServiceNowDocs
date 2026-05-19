@@ -36,5 +36,5 @@ Role required: sn\_grc.business\_user role
 
 The risk event is created and submitted for the risk team's review.
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

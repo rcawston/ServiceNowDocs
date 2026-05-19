@@ -21,17 +21,17 @@ Select the **Map Configuration** tab to open the Map configuration page. For mor
 
 ## Georeference
 
-Georeference your floor plan and position it on the map to scale and align it on the World map \(OpenStreetMap\). For more information, see [Georeference your floor plan](../task/georeference-floor-plan.md).
+Georeference your floor plan and position it on the map to scale and align it on the World map \(OpenStreetMap\). For more information, see [Georeference your floor plan](georeference-floor-plan.md).
 
 ## Layers
 
-Configure the layers in your CAD file and preview it on the Map Configuration preview layout. For more information, see [Configure layers](../task/wsd-edit-layers.md).
+Configure the layers in your CAD file and preview it on the Map Configuration preview layout. For more information, see [Configure layers](wsd-edit-layers.md).
 
 ![Layer summary pill showing additional information for a selected layer type.](../images/wsd-layers-expanded-autocadv2.png)
 
 ## Places
 
-Configure place in your CAD file and preview it on the Map Configuration preview layout. For more information, see [Configure places](../task/edit-places.md).
+Configure place in your CAD file and preview it on the Map Configuration preview layout. For more information, see [Configure places](edit-places.md).
 
 ![Places summary pill showing additional information for a selected place type.](../images/wsd-places-expanded-view-autocad-v2.png)
 

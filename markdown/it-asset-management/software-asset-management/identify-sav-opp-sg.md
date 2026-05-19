@@ -91,7 +91,7 @@ Software Asset Workspace
 
 3.  Find Software Asset Management optimization recommendations for Microsoft 365 based on subscription details, usage, and potential savings based on recommendation type.
 
-    For more information, see [Publisher optimizations for Microsoft](../reference/pub-opt-microsoft.md).
+    For more information, see [Publisher optimizations for Microsoft](pub-opt-microsoft.md).
 
 
 ## Result

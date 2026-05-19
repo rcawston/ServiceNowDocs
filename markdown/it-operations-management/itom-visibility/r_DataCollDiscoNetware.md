@@ -27,5 +27,5 @@ Discovery identifies and classifies information about Netware.
 |RAM|cmdb\_ci\_netware\_server|ram|snmp|
 |CPU count|cmdb\_ci\_netware\_server|cpu\_count|snmp|
 
-**Parent Topic:**[Operating systems discovery](../concept/c_Computers.md)
+**Parent Topic:**[Operating systems discovery](c_Computers.md)
 

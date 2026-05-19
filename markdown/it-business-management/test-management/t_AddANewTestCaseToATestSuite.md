@@ -41,5 +41,5 @@ Create and add a new test case to an existing test suite.
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Test suites](../concept/c_TestSuites.md)
+**Parent Topic:**[Test suites](c_TestSuites.md)
 

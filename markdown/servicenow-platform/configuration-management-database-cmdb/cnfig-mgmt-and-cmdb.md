@@ -48,7 +48,7 @@ To extend the CMDB you can [activate](https://raw.githubusercontent.com/ServiceN
 
 Sets of CIs that share attributes are stored in their own class table. All CMDB tables are connected by relationships and inherit attributes from each other to form a web of tables referred to as the CMDB hierarchy.
 
-Use the [CI Class Manager](../reference/ci-class-manager-landing-page.md) to manage CMDB classes within the CMDB hierarchy, CMDB Health, and other class-related definitions. For example, in the CI Class Manager you can view class attributes, class identification rules, and the list of CIs for a specific class. To view the list of CIs in the CMDB, you can also enter `cmdb_ci_list.do` in the filter navigator.
+Use the [CI Class Manager](ci-class-manager-landing-page.md) to manage CMDB classes within the CMDB hierarchy, CMDB Health, and other class-related definitions. For example, in the CI Class Manager you can view class attributes, class identification rules, and the list of CIs for a specific class. To view the list of CIs in the CMDB, you can also enter `cmdb_ci_list.do` in the filter navigator.
 
 ## Architecture
 
@@ -58,7 +58,7 @@ Use the [CI Class Manager](../reference/ci-class-manager-landing-page.md) to man
 
 There are tables that are not part of the CMDB hierarchy but which still qualify as CMDB data. Related tables, such as the Serial Number \[cmdb\_serial\_number\] table, don't inherent from the Configuration Item \[cmdb\_ci\] table, but have at least one column that references a CMDB CI. Related tables are specified in the Related Entries \[cmdb\_related\_entry\] table.
 
-Some scenarios that involve related tables, can result in orphan or otherwise stale records in related tables. A CI in a related table can, for example, become orphan if the referenced CI in the CMDB is deleted. You can use the [CMDB Data Manager](cmdb-data-management.md) to create a policy of the 'Delete CMDB Related Entry' policy type, that will cascade-delete that un-needed related items data. For more information about creating that CMDB Data Manager policy, see [Create a CMDB Data Manager policy](../task/data-manager-create-policy-wrkspc.md).
+Some scenarios that involve related tables, can result in orphan or otherwise stale records in related tables. A CI in a related table can, for example, become orphan if the referenced CI in the CMDB is deleted. You can use the [CMDB Data Manager](cmdb-data-management.md) to create a policy of the 'Delete CMDB Related Entry' policy type, that will cascade-delete that un-needed related items data. For more information about creating that CMDB Data Manager policy, see [Create a CMDB Data Manager policy](data-manager-create-policy-wrkspc.md).
 
 ## Localization
 
@@ -68,7 +68,7 @@ Using the Translated Text field type \(instead of string\) for attributes in CMD
 
 Reading CMDB tables directly requires the cmdb\_read role, however accessing the **Configuration** module requires the sn\_cmdb\_editor, sn\_cmdb\_admin, asset, itil, or itil\_admin roles. For viewing CMDB-related records in the user interface, the sn\_cmdb\_editor or itil roles are usually sufficient. For updating records and for other manipulation of records, roles with higher credentials are usually required, as noted in each procedure throughout the documentation set.
 
-For details about CMDB and other roles, see [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md), or see a feature components topic such as [Components installed with CMDB Workspace](../reference/installed-with-cmdb-workspace.md).
+For details about CMDB and other roles, see [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md), or see a feature components topic such as [Components installed with CMDB Workspace](installed-with-cmdb-workspace.md).
 
 **Related topics**  
 

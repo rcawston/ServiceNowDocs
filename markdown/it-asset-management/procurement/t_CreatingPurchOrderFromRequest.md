@@ -79,7 +79,7 @@ For more information about the Asset Management Integration for Sourcing and Pro
 -   A purchase order is created.
 -   On the request, the **Sourced** check box is selected
 
-**Parent Topic:**[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+**Parent Topic:**[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 
 **Related topics**  
 

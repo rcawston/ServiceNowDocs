@@ -36,8 +36,8 @@ From the homepage, you can import a Word document to a knowledge base by clickin
 
 You can also create a new article using the **Create An Article** button.
 
--   [Import a Word document](../task/t_ImportADocument.md)
--   [Create a knowledge article from an incident in Service Operations Workspace](../task/create-knowledge-article.md)
+-   [Import a Word document](t_ImportADocument.md)
+-   [Create a knowledge article from an incident in Service Operations Workspace](create-knowledge-article.md)
 
 **Note:** You must have contribute access to at least one active knowledge base, otherwise these buttons do not appear. See [Configuration tasks for knowledge managers](c_KnowledgeManager.md).
 
@@ -57,9 +57,9 @@ For new customers on New York and later releases, comments can only be viewed in
 
 An administrator can configure the knowledge homepage to display the number of articles within each category. This count includes articles from subcategories. To display the article count, set the **glide.knowman.show\_number\_on\_categories** property to `true`.
 
--   **[Search using Knowledge Management v3](../reference/r_KnowledgeSearch.md)**  
+-   **[Search using Knowledge Management v3](r_KnowledgeSearch.md)**  
 Search for knowledge articles from the knowledge homepage using the search bar on the Knowledge Management v3 homepage.
--   **[Import a Word document to a knowledge base using Knowledge Management v3](../task/t_ImportADocument.md)**  
+-   **[Import a Word document to a knowledge base using Knowledge Management v3](t_ImportADocument.md)**  
 Import a Microsoft Word document using Knowledge Management v3 homepage to create a knowledge article.
 
 **Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
@@ -67,9 +67,9 @@ Import a Microsoft Word document using Knowledge Management v3 homepage to creat
 **Related topics**  
 
 
-[Define a knowledge article category](../task/t_DefineAKnowledgeCategory.md)
+[Define a knowledge article category](t_DefineAKnowledgeCategory.md)
 
-[Import a Word document to a knowledge base using Knowledge Management v3](../task/t_ImportADocument.md)
+[Import a Word document to a knowledge base using Knowledge Management v3](t_ImportADocument.md)
 
-[Import a Word document to a knowledge base](../task/import-word-platform.md)
+[Import a Word document to a knowledge base](import-word-platform.md)
 

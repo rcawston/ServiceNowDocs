@@ -42,5 +42,5 @@ Role required: sn\_esg.program\_manager, sn\_esg.admin
 
 The emission activities are mapped to the emission factor sources and the factors are ready to be used in calculate metric definitions.
 
-**Parent Topic:**[Set up the emission factor library](../concept/set-up-the-emission-factor-library.md)
+**Parent Topic:**[Set up the emission factor library](set-up-the-emission-factor-library.md)
 

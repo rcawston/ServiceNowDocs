@@ -32,5 +32,5 @@ Role required: none
     The list of feed members appears, organized by feed administrators and members.
 
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
 

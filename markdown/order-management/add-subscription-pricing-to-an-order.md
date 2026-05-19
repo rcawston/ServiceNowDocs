@@ -25,7 +25,7 @@ In an order, you can set the contract start date and end date, or you can enter 
 
 Subscription pricing can be added at the order header level or at the order line item level.
 
-See [Subscription revenue metrics](../concept/som-subscription-pricing.md) for more information about how contract pricing works.
+See [Subscription revenue metrics](som-subscription-pricing.md) for more information about how contract pricing works.
 
 ## Procedure
 
@@ -54,5 +54,5 @@ See [Subscription revenue metrics](../concept/som-subscription-pricing.md) for m
 **Related topics**  
 
 
-[Order details page - Dates fields](../reference/field-descriptions-customer-orders.md#)
+[Order details page - Dates fields](field-descriptions-customer-orders.md#)
 

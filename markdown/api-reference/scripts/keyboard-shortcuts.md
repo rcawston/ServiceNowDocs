@@ -27,5 +27,5 @@ Learn about the keyboard shortcuts that you can use in the script editor on the 
 |Replace all|Control+Alt+R|Command+Alt+R|
 |Open Generate code with Now Assist dialog box|Control+Enter|Command+Enter|
 
-**Parent Topic:**[Now Assist for Code reference](../concept/now-assist-code-reference.md)
+**Parent Topic:**[Now Assist for Code reference](now-assist-code-reference.md)
 

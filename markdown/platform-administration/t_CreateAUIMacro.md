@@ -59,16 +59,16 @@ Role required: ui\_macro\_admin
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Using formatters](../concept/c_Formatters.md)
+**Parent Topic:**[Using formatters](c_Formatters.md)
 
 **Related topics**  
 
 
-[Activity formatter](../concept/c_ActivityFormatter.md#)
+[Activity formatter](c_ActivityFormatter.md#)
 
 [Create a formatter and add it to a form](t_CreateAFormatter.md)
 
-[Process flow formatter](../reference/r_ProcessFlowFormatter.md#)
+[Process flow formatter](r_ProcessFlowFormatter.md#)
 
 [Parent breadcrumbs formatter](t_TaskParentBreadcrumbsFormatter.md#)
 

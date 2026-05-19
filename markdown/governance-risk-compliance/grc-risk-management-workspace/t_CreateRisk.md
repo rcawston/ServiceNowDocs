@@ -142,7 +142,7 @@ Owner for the risk.**Note:** The owner is always added as a respondent.
 
     This tab is only visible if you have the Advanced Risk plugin activated. The scores of the risk assessment methodology selected as the primary are displayed in the risk scoring section. If the Advanced Risk plugin is not activated, then the following sections for classic risk appear.
 
-4.  To fill in the fields for the risk appetite section, see [Define the risk appetite for a risk](../../grc-workspace-risk/task/define-risk-appetite-on-risk.md).
+4.  To fill in the fields for the risk appetite section, see [Define the risk appetite for a risk](define-risk-appetite-on-risk.md).
 
 5.  On the form, fill in the fields.
 
@@ -324,5 +324,5 @@ Enter a reasonable justification for the selected response
 13. Select **Submit**.
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

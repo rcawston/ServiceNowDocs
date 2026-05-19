@@ -25,7 +25,7 @@ Grant access to build applications in AES by adding users to the App Engine Stud
 
 To restrict access so that users can work in App Engine Studio but not create apps or see templates, add users to the App Engine Studio User Limited group.
 
-For more information about the differences between the App Engine Studio Users group and the App Engine Studio User Limited group, see [Configure AES personas and roles](../concept/aes-personas-roles.md).
+For more information about the differences between the App Engine Studio Users group and the App Engine Studio User Limited group, see [Configure AES personas and roles](aes-personas-roles.md).
 
 ## Procedure
 
@@ -42,10 +42,10 @@ For more information about the differences between the App Engine Studio Users g
     4.  On the group record, select **Update**.
 
 
-**Parent Topic:**[Perform AES configuration tasks](../reference/aes-config-tasks.md)
+**Parent Topic:**[Perform AES configuration tasks](aes-config-tasks.md)
 
 **Related topics**  
 
 
-[Components installed with AES](../reference/installed-with-aes.md)
+[Components installed with AES](installed-with-aes.md)
 

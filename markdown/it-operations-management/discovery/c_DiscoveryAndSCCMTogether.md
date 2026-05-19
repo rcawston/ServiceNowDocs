@@ -65,5 +65,5 @@ To determine how software data is collected, configure the **glide.discovery.sof
 
 ### What to do next
 
-Use these Discovery properties to avoid software data discrepancy between Discovery and SCCM: **glide.discovery.enable.software\_simplify** and **glide.discovery.enable.software\_simplify\_sccm**. See [Discovery properties](../reference/r_DiscoveryProperties.md) for more information.
+Use these Discovery properties to avoid software data discrepancy between Discovery and SCCM: **glide.discovery.enable.software\_simplify** and **glide.discovery.enable.software\_simplify\_sccm**. See [Discovery properties](r_DiscoveryProperties.md) for more information.
 

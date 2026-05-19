@@ -99,16 +99,16 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
     Closing an interaction affects your capacity because a new interaction will be pushed to your inbox.
 
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](use-walkup-to-manage-demand.md)
 
 **Related topics**  
 
 
 [Agent Workspace UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md)
 
-[Service Operations Workspace](../../service-operations-workspace/concept/explore-sow.md)
+[Service Operations Workspace](../service-operations-workspace/explore-sow.md)
 
-[Create an incident](../../incident-management/task/create-an-incident.md)
+[Create an incident](../incident-management/create-an-incident.md)
 
 [Create a request through a catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateARequestThroughTheCatalog.md)
 

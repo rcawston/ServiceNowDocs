@@ -35,19 +35,19 @@ Build reusable integrations with third-party systems and call them from anywhere
 
     Using Integration Hub actions in Workflow Studio, you can:
 
-    -   Post messages and ServiceNow incident, problem, and change record details to [Slack Spoke](slack-spoke.md), or [Microsoft Teams Spoke](../reference/microsoft-teams-spoke.md) communications channels.
-    -   Synchronize data across multiple production instances using [Integration Hub Remote Process Sync](integrationhub-remote-process-sync.md).
+    -   Post messages and ServiceNow incident, problem, and change record details to [Slack Spoke](slack-spoke.md), or [Microsoft Teams Spoke](microsoft-teams-spoke.md) communications channels.
+    -   Synchronize data across multiple production instances using [Integration Hub Remote Process Sync](../integration-hub-remote-process-sync/integrationhub-remote-process-sync.md).
 -   **Create custom integrations**
 
-    Build custom integrations with Workflow Studio using a [REST step](../../flow-designer/reference/rest-request-action-designer.md) or a [Script step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/javascript-step-action-designer.md).
+    Build custom integrations with Workflow Studio using a [REST step](rest-request-action-designer.md) or a [Script step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/javascript-step-action-designer.md).
 
 -   **Automate inbound integrations with third-party applications**
 
-    [Set up a flow with external trigger definition](../tasks/set-up-flow-ihub.md) on Workflow Studio by selecting base system external trigger definitions, and actions from the spokes or core actions. Then, [Set up external trigger endpoints](../tasks/set-up-external-webhook-endpoints.md) that the third-party application webhooks use to trigger the flow you had set up. Your ServiceNow instance authenticates the webhook before it triggers the flow.
+    [Set up a flow with external trigger definition](set-up-flow-ihub.md) on Workflow Studio by selecting base system external trigger definitions, and actions from the spokes or core actions. Then, [Set up external trigger endpoints](set-up-external-webhook-endpoints.md) that the third-party application webhooks use to trigger the flow you had set up. Your ServiceNow instance authenticates the webhook before it triggers the flow.
 
 -   **Automate the administration of servers and applications in your network**
 
-    Use custom actions to delegate Workflow Studio processes to a [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md) in your network. For example, actions that use the [PowerShell step](../../flow-designer/reference/powershell-step-action-designer.md) or [REST step](../../flow-designer/reference/rest-request-action-designer.md).
+    Use custom actions to delegate Workflow Studio processes to a [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md) in your network. For example, actions that use the [PowerShell step](powershell-step-action-designer.md) or [REST step](rest-request-action-designer.md).
 
 
 ## Import and stream data

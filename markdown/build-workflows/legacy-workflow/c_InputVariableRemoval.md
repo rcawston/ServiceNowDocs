@@ -47,5 +47,5 @@ If necessary, merge the update set into a more general set targeted for deployme
 
 Prior to publishing a workflow version, the system validates the workflow model to assist the designer in planning for deployment.
 
-This validation warns of critical errors that can prevent a workflow from running successfully, but also warns of dependencies and conflicts in update sets. See [ValidateUpdateSetDependencies](../../workflow-validation/reference/r_VldtUpdtStDpnd.md) for more details.
+This validation warns of critical errors that can prevent a workflow from running successfully, but also warns of dependencies and conflicts in update sets. See [ValidateUpdateSetDependencies](r_VldtUpdtStDpnd.md) for more details.
 

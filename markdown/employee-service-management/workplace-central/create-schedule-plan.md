@@ -41,7 +41,7 @@ Role required: sn\_wsd\_spcmgmt.project\_owner
 
 4.  On the details page, fill in the fields, then select **Next**.
 
-    For a description of the field values, see [Schedule Plan details form](../reference/schedule-plan-details-form.md).
+    For a description of the field values, see [Schedule Plan details form](schedule-plan-details-form.md).
 
     A schedule plan record is created in the **Draft** state.
 
@@ -137,5 +137,5 @@ If a user has an existing Workplace Profile Location Assignment, the schedule pl
 
 After a schedule plan is published, the selected users receive an email with details about their workspace assignment and the start and end date of the schedule.
 
-**Parent Topic:**[Working with Schedule Planning](../concept/working-with-schedule-planning.md)
+**Parent Topic:**[Working with Schedule Planning](working-with-schedule-planning.md)
 

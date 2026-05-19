@@ -74,5 +74,5 @@ WSDL Schema Continued:
 </xsd:element>
 ```
 
-**Parent Topic:**[Insert related records using SOAP](../task/t_InsertRelatedRecordsUsingSOAP.md)
+**Parent Topic:**[Insert related records using SOAP](t_InsertRelatedRecordsUsingSOAP.md)
 

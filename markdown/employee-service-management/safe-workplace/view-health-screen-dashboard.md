@@ -30,5 +30,5 @@ Role required: sn\_imt\_monitoring.monitoring\_admin
     Click any area of a chart to see the corresponding records.
 
 
-**Parent Topic:**[Employee Health Screening](../concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](employee-health-screening.md)
 

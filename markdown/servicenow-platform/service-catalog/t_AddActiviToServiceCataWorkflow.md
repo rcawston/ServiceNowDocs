@@ -158,5 +158,5 @@ Set up laptop.
     Leaves a message in the log to record the successful completion of the workflow.
 
 
-**Parent Topic:**[Service catalog workflows](../concept/c_ServiceCatalogWorkflowDefinition.md)
+**Parent Topic:**[Service catalog workflows](c_ServiceCatalogWorkflowDefinition.md)
 

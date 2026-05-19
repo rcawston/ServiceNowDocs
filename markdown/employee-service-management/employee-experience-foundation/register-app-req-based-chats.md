@@ -72,5 +72,5 @@ Assign permissions to users to enable them to start chat and import chat convers
 -   **[Configure Application Registry on the ServiceNow instance](app-registry-chat-single-tenant.md#)**  
 Register the Request-based chat app in your instance to use Microsoft Teams chat for self-configured app environment.
 
-**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_s_tnt.md)
+**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](c_employee_ex_s_tnt.md)
 

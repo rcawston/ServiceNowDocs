@@ -32,14 +32,14 @@ Email notifications are usually sent when one of the following activities is per
 
 ## Procedure
 
-1.  [Suppress outbound notification for services leveraging Universal Request](../task/ur-service-suppress-out-notification.md).
+1.  [Suppress outbound notification for services leveraging Universal Request](ur-service-suppress-out-notification.md).
 
-2.  [Use effective number in email subject](../task/ur-service-mask-use-effective-number.md).
+2.  [Use effective number in email subject](ur-service-mask-use-effective-number.md).
 
 
--   **[Suppress outbound notification for services leveraging Universal Request](../task/ur-service-suppress-out-notification.md)**  
+-   **[Suppress outbound notification for services leveraging Universal Request](ur-service-suppress-out-notification.md)**  
 You can configure outbound email notifications to define the emails a requester must receive when a universal request is created. For example, if your service \(department\) ticket is associated with a universal request, you can customize the notifications to send only the emails that are relevant to the requester.
--   **[Use effective number in email subject](../task/ur-service-mask-use-effective-number.md)**  
+-   **[Use effective number in email subject](ur-service-mask-use-effective-number.md)**  
 Modify the email subject to display the relevant ticket number by using the task effective number. For example, if your service ticket is associated with a universal request, then you must mask the service ticket number and show the UR number.
 
 **Parent Topic:**[Unified ticket experience setting](unified-ticket-experience.md)
@@ -47,9 +47,9 @@ Modify the email subject to display the relevant ticket number by using the task
 **Related topics**  
 
 
-[Create universal request automatically for department tickets via other channels](../task/autocreate-ur-from-interactionrecord-WS.md)
+[Create universal request automatically for department tickets via other channels](autocreate-ur-from-interactionrecord-WS.md)
 
 [Automatically create universal request from an inbound email](create-ur-from-inbound-email.md)
 
-[Configure a catalog item or record producer to create a universal request](../../service-catalog-management/task/create-ur-recordproducer.md)
+[Configure a catalog item or record producer to create a universal request](create-ur-recordproducer.md)
 

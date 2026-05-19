@@ -254,5 +254,5 @@ This property enables instance automation in the following scenarios:
 
 Even with this property enabled, if the preflight check detects incompatible configurations, you must follow the manual resolution steps in [KB2540187](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2540187).
 
-**Parent Topic:**[Using External Key Management Service](../concept/ekms-using-external-key-management.md)
+**Parent Topic:**[Using External Key Management Service](ekms-using-external-key-management.md)
 

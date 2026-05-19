@@ -44,7 +44,7 @@ As a user with the admin role, verify that you have the Security Incident Respon
 
  For more information about installing the Security Incident Response core application, see [Install and configure Security Incident Response](install-and-configure-sir.md).
 
- If the Security Incident Response core application is not visible in Plugins, for more information about installing core applications and entitlements to applications, see [Security Operations and the ServiceNow Store](../../planning-and-policy/concept/secops-and-store.md).
+ If the Security Incident Response core application is not visible in Plugins, for more information about installing core applications and entitlements to applications, see [Security Operations and the ServiceNow Store](../secops-and-store.md).
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ As a user with the admin role, verify that you have the Security Incident Respon
 2.  Search for the plugin IDs \(com.glide.sg and com.glide.sg.agent\_native\_client\).
 3.  If they are not activated, activate these plugins. These plugins are required for the Security Incident Response Mobile app.
 
- For more information about installing applications and entitlements to applications, see [Security Operations and the ServiceNow Store](../../planning-and-policy/concept/secops-and-store.md).
+ For more information about installing applications and entitlements to applications, see [Security Operations and the ServiceNow Store](../secops-and-store.md).
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ As a user with the ServiceNow AI Platform admin role, verify that you have assig
 
  **Note:** If you have a large number of users for the mobile application, you alternatively can assign the sn\_si.analyst role to a group. Each user you add to the group inherits this role.
 
- For more information about security analysts, see [Assigning security analysts](../reference/r_AgentAssignment.md#).
+ For more information about security analysts, see [Assigning security analysts](r_AgentAssignment.md#).
 
  For more information on users and assigning roles to users and groups, see [User administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_UserAdministration.md).
 

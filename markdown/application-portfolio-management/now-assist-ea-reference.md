@@ -13,5 +13,5 @@ breadcrumb: [Now Assist for Enterprise Architecture \(EA\), Enterprise Architect
 
 Reference information to provide additional information about tables, roles, and properties installed with Now Assist for Enterprise Architecture \(EA\).
 
-**Parent Topic:**[Now Assist for Enterprise Architecture \(EA\)](../concept/now-assist-ea.md)
+**Parent Topic:**[Now Assist for Enterprise Architecture \(EA\)](now-assist-ea.md)
 

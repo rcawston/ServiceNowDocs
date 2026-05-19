@@ -70,7 +70,7 @@ For this new asset record, the application can’t automatically determine the *
     The closed asset remediation task isn’t listed on the Open asset remediation tasks list.
 
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](ham-inventory-audit.md)
 
 **Related topics**  
 

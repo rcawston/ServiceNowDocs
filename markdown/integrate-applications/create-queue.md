@@ -29,7 +29,7 @@ A queue is a repository that can hold a number of work items. Work items can sto
 
 You can't delete a queue that is associated to a published bot process.
 
-For more information on queues implementation in RPA Hub, see [Queue implementation in RPA Hub](../concept/queues-implement-rpa.md).
+For more information on queues implementation in RPA Hub, see [Queue implementation in RPA Hub](queues-implement-rpa.md).
 
 You can use the guided tour to get instructions on how to create a queue in the classic environment. For more information, see [Use Guided Tours in RPA Hub](use-guided-tour-rpa-hub.md).
 
@@ -54,10 +54,10 @@ You can use the guided tour to get instructions on how to create a queue in the 
     **Note:** Verify that the queue is not associated to any bot process. You can delete a queue which is associated to a retired bot process. Deleting a queue also deletes the associated work items.
 
 
--   **[Queue form in RPA Hub](../reference/queue-form.md)**  
+-   **[Queue form in RPA Hub](queue-form.md)**  
 Use the Work Queue form to create a queue. A queue lists the work items that you want the robot to process.
 
-**Parent Topic:**[Queue implementation in RPA Hub](../concept/queues-implement-rpa.md)
+**Parent Topic:**[Queue implementation in RPA Hub](queues-implement-rpa.md)
 
 **Related topics**  
 

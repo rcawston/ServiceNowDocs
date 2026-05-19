@@ -17,7 +17,7 @@ Track and manage your assets by creating a multi-component asset from a multi-co
 
 ## Before you begin
 
-For details on multi-component models, see [Multi-component models and assets in Enterprise Asset Management](../concept/complex-models.md).
+For details on multi-component models, see [Multi-component models and assets in Enterprise Asset Management](complex-models.md).
 
 Role required:
 
@@ -57,5 +57,5 @@ Role required:
     The multi-component asset needs to be in the **In maintenance** state to swap assets. You can swap multiple child assets at one go with other assets from the same model in any stockroom. The model must be in the **In stock** state and **Available** sub state.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

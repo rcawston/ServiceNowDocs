@@ -35,7 +35,7 @@ The action scheduler uses the condition builder to create and assign actions to 
 
 5.  On the form, fill in the fields.
 
-    For information on field descriptions, see [Health and safety action schedule form](../reference/hs-health-safety-action-schedule-form.md).
+    For information on field descriptions, see [Health and safety action schedule form](hs-health-safety-action-schedule-form.md).
 
 6.  In the **Assign to** field, add conditions to auto-assign the generated actions.
 
@@ -57,7 +57,7 @@ The action scheduler uses the condition builder to create and assign actions to 
 -   The action schedule is saved in the Action schedule \[sn\_ohs\_im\_action\_schedule\] table.
 -   The **Actions** tab appears for the action schedule.
 -   In the **Actions** tab, the action scheduler creates and auto-assigns actions based on the condition builder. An action schedule might generate multiple actions for people over time.
--   The created actions appear in the assigned user's **My Tasks** list on both the Employee Center and the Now Mobile app. From either location, the user can respond to the action and update its status. For information on action form fields, see [Health and Safety action form](../reference/hs-action-form.md).
+-   The created actions appear in the assigned user's **My Tasks** list on both the Employee Center and the Now Mobile app. From either location, the user can respond to the action and update its status. For information on action form fields, see [Health and Safety action form](hs-action-form.md).
 
-**Parent Topic:**[Scheduling Health and Safety actions](../concept/scheduling-health-safety-actions.md)
+**Parent Topic:**[Scheduling Health and Safety actions](scheduling-health-safety-actions.md)
 

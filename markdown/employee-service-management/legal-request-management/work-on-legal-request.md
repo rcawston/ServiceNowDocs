@@ -23,7 +23,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 As a collaborator added to a request, you can access and work on the request just as assignees can. However, you can't modify the **Assigned to** and **Assignment group** fields.
 
-**Note:** During times when you're unavailable, you can [delegate your legal duties to other users](../concept/legal-services-delegation.md).
+**Note:** During times when you're unavailable, you can [delegate your legal duties to other users](legal-services-delegation.md).
 
 ## Procedure
 
@@ -112,7 +112,7 @@ The state of the legal request is Work in progress and the document is Legal rev
 11. Communicate with the requester or other stakeholders using emails, chats, work notes, or comments.
 
     -   Using emails: Communicate with any stakeholders using emails. For more information, see [Communicate using emails](send-receive-email-legal-req.md).
-    -   Using live chats: Communicate with any stakeholders using chats. For more information, see [Start a chat session through Legal Counsel Center Inbox](chat-employee-counsel-center.md).
+    -   Using live chats: Communicate with any stakeholders using chats. For more information, see [Start a chat session through Legal Counsel Center Inbox](../legal-service-delivery/chat-employee-counsel-center.md).
     -   Using Comments: To communicate with the requester or other stakeholders, in the Compose section, enter your message in the **Comments** field and click **Post Comments**.
     -   Using Work notes: Communicate with the other members of the legal department, in the Compose section, enter your message in the **Work notes** field and click **Post Work notes**.
 
@@ -141,10 +141,10 @@ Promote a legal request to a legal matter when the request needs additional inve
 Transfer a legal request to a new practice area or category if the request was submitted with an inappropriate practice area or category.
 -   **[Update a legal request by requester](submit-legal-request-requester.md)**  
 Update the variables in the form fields and submit the legal request by the requester once the request is sent back by the fulfiller.
--   **[Disable attorney client privilege for a legal request](../concept/lsd-acp-enable.md)**  
+-   **[Disable attorney client privilege for a legal request](lsd-acp-enable.md)**  
 Disable attorney client privilege for a legal request.
 -   **[Close a legal request](close-legal-request.md)**  
 You can close a legal request assigned to you when you've resolved it.
 
-**Parent Topic:**[Managing legal requests](../concept/managing-legal-request.md)
+**Parent Topic:**[Managing legal requests](managing-legal-request.md)
 

@@ -36,17 +36,17 @@ Role required: sn\_fin\_ops.specialist
 
 5.  On the form, fill in the fields.
 
-    For more information on the form fields and descriptions, see [Interaction form](../reference/details-tab-fin-ops-interaction.md)
+    For more information on the form fields and descriptions, see [Interaction form](details-tab-fin-ops-interaction.md)
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Interaction management in Finance Operations Workspace](../concept/interaction-mgmt-fin-ops.md)
+**Parent Topic:**[Interaction management in Finance Operations Workspace](interaction-mgmt-fin-ops.md)
 
 **Related topics**  
 
 
-[Finance Operations Workspace inbox](../concept/fin-ops-ws-inbox.md)
+[Finance Operations Workspace inbox](fin-ops-ws-inbox.md)
 
 [Create a finance case from an interaction](create-fin-case-from-interaction-record.md)
 

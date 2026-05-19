@@ -45,7 +45,7 @@ Cloud organization
 
 </td><td>
 
-The cloud organization where the subscription account is created. For more details, see [Populate Cloud Account Management dependent tables](../concept/add-account-details.md).
+The cloud organization where the subscription account is created. For more details, see [Populate Cloud Account Management dependent tables](add-account-details.md).
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Cloud Account Management uses an email address to generate the root email ID for
 
  For example, if your root email ID is myawsaccount@example.com, the Cloud Account Management application appends a request ID to generate myawsaccount-CWSAREQ0000001@example.com.
 
- **Note:** To create a root email, see [Set up and verify root email in AWS](../task/aws-setup.md).
+ **Note:** To create a root email, see [Set up and verify root email in AWS](aws-setup.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Description
 Option to provide a description for the Terraform account.
 
 </td></tr></tbody>
-</table>To return to the procedure, see [Create a Terraform account configuration](../task/create-terraform-account-config.md).
+</table>To return to the procedure, see [Create a Terraform account configuration](create-terraform-account-config.md).
 
 **Parent Topic:**[Cloud Account Management reference](cam-reference.md)
 

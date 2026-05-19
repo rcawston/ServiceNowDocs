@@ -46,7 +46,7 @@ The supported record types enable actions like the following:
 
 ## Table: cmdb\_ci\_dns\_resource\_record
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 DNS record detail from Domain Name Server \(DNS\) for a WWW domain.
 

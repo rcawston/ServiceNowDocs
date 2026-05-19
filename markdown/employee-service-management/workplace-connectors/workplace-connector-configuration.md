@@ -48,9 +48,9 @@ Role required: sn\_wsd\_wc.admin
 7.  Select **Submit** to save the connector configuration.
 
 
-**Parent Topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for badging data](setup-workplace-connectors.md)
 
 **Previous topic:**[Create a badging data provider](wsd-connector-badging-providers.md)
 
-**Next topic:**[Provider connector configuration](../concept/provider-configuration-ovw.md)
+**Next topic:**[Provider connector configuration](provider-configuration-ovw.md)
 

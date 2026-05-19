@@ -26,7 +26,7 @@ Within a request, you can enter comments that are visible to the submitter, allo
 4.  To correspond with other agents, enter content that you do not want the submitter to see in the **Work notes** field.
 
 
-**Parent Topic:**[Facilities requests](../../facilities-service-management/concept/c_FacilitiesRequests.md)
+**Parent Topic:**[Facilities requests](c_FacilitiesRequests.md)
 
-**Parent Topic:**[Request Management in a Service Management application](../concept/rm-sm-application.md)
+**Parent Topic:**[Request Management in a Service Management application](rm-sm-application.md)
 

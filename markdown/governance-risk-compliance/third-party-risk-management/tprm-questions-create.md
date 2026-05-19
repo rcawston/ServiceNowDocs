@@ -54,7 +54,7 @@ Category or Assessment category
 A set of related questions within a questionnaire template.**Note:** There can be multiple categories within a metric type.
 
 </td></tr></tbody>
-</table>Selecting the scored option \(**Scored** check box\) is optional. All question responses unless otherwise stated are scored. The scored option changes the scoring behavior. When the 'Scored' option is selected, the score is always 0 or 100 reflecting whether the answer is correct or incorrect, and the questionRating and questionPercentContribution formulae are not used; the Normalized Value is directly set to 0 or 100. When the 'Scored' check box is not selected, the score is calculated using the questionRating and questionPercentContribution formulae to determine the Normalized Value. Selecting the Maximum normalization input field only applies when the 'Scored' check box is not selected, as it is used to define the maximum value for normalization, and the score can vary based on the input values and weights. If the 'Scored' check box is selected, the Maximum normalization input field does not apply, and the Normalized Value is simply 0 or 100. For more information on scoring and normalized scores, see [Scoring calculations using the classic assessment engine](../../grc-vendor-risk/concept/vendor-ratings-scoring.md) and [Normalize the scores for metrics](../concept/set-max-norm-input.md).
+</table>Selecting the scored option \(**Scored** check box\) is optional. All question responses unless otherwise stated are scored. The scored option changes the scoring behavior. When the 'Scored' option is selected, the score is always 0 or 100 reflecting whether the answer is correct or incorrect, and the questionRating and questionPercentContribution formulae are not used; the Normalized Value is directly set to 0 or 100. When the 'Scored' check box is not selected, the score is calculated using the questionRating and questionPercentContribution formulae to determine the Normalized Value. Selecting the Maximum normalization input field only applies when the 'Scored' check box is not selected, as it is used to define the maximum value for normalization, and the score can vary based on the input values and weights. If the 'Scored' check box is selected, the Maximum normalization input field does not apply, and the Normalized Value is simply 0 or 100. For more information on scoring and normalized scores, see [Scoring calculations using the classic assessment engine](vendor-ratings-scoring.md) and [Normalize the scores for metrics](set-max-norm-input.md).
 
 ## Procedure
 
@@ -266,7 +266,7 @@ If you didn’t select the **Scored** check box, set the **Scale definition** va
 
 -   If a selected check box is a good score, set to **High**.
 -   If a small numerical value is a good score, set to **Low**.
-You can select the **Maximum Normalization input** check box to calculate assessment scores for questions using a normalization input value. For more information, see [Normalize the scores for metrics](../concept/set-max-norm-input.md).
+You can select the **Maximum Normalization input** check box to calculate assessment scores for questions using a normalization input value. For more information, see [Normalize the scores for metrics](set-max-norm-input.md).
 
 </td></tr><tr><td>
 
@@ -352,7 +352,7 @@ If you didn’t select the **Scored** check box, set the **Scale definition**.
 
 -   If a large numerical value is a good score, set to **High**.
 -   If a small numerical value is a good score, set to **Low**.
-You can select the **Maximum Normalization input** check box to calculate assessment scores for questions using a normalization input value. For more information, see [Normalize the scores for metrics](../concept/set-max-norm-input.md).
+You can select the **Maximum Normalization input** check box to calculate assessment scores for questions using a normalization input value. For more information, see [Normalize the scores for metrics](set-max-norm-input.md).
 
 </td></tr><tr><td>
 

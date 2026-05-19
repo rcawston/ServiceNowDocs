@@ -17,7 +17,7 @@ Request the Software Asset Management - SaaS License Management plugin \(sn\_sam
 
 ## Before you begin
 
-Activate the ServiceNow Software Asset Management Professional plugin \(com.snc.samp\) on your ServiceNow instance. For more information on how to request and activate the Software Asset Management Professional plugin \(com.snc.samp\), see [Request Software Asset Management](t_RequSoftwareAssetMgmt.md).
+Activate the ServiceNow Software Asset Management Professional plugin \(com.snc.samp\) on your ServiceNow instance. For more information on how to request and activate the Software Asset Management Professional plugin \(com.snc.samp\), see [Request Software Asset Management](../software-asset-management/t_RequSoftwareAssetMgmt.md).
 
 Role required: admin
 
@@ -69,31 +69,31 @@ You can see the primary features and the list of optional features that you can 
 
 After you select the optional features, select **Install**. You can initiate or schedule the installation process by selecting **Install now** or **Install later**. View the installation progress and you’ll get a success message after the installation is complete.
 
--   **[Installed with SaaS License Management](../reference/installed-with-saas.md)**  
+-   **[Installed with SaaS License Management](installed-with-saas.md)**  
 User roles and tables are installed with SaaS License Management. Demo data is available for the Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) plugin.
 
-**Parent Topic:**[SaaS License Management](../concept/sam-subscription-management.md)
+**Parent Topic:**[SaaS License Management](sam-subscription-management.md)
 
 **Related topics**  
 
 
-[SaaS License Management setup for large companies](../concept/saas-setup-large-companies.md)
+[SaaS License Management setup for large companies](saas-setup-large-companies.md)
 
-[SaaS Overview dashboard](../concept/saas-overview-dashboard.md)
+[SaaS Overview dashboard](saas-overview-dashboard.md)
 
-[Integrate with SaaS applications](../concept/create-integration-profile.md)
+[Integrate with SaaS applications](create-integration-profile.md)
 
-[Integrate with SSO providers](../concept/saas-sso-integration.md)
+[Integrate with SSO providers](saas-sso-integration.md)
 
-[Playbook for SaaS integrations](../concept/playbook-saas-integrations.md)
+[Playbook for SaaS integrations](playbook-saas-integrations.md)
 
-[Viewing your SaaS and SSO subscriptions](../concept/usage-summary-saas.md)
+[Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
 
 [Review a software reclamation rule](add-reclamation-rule-sub.md)
 
-[Reclaiming user subscriptions](../concept/reclaiming-user-subscriptions-saas.md)
+[Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)
 
 [Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)
 
@@ -105,9 +105,9 @@ User roles and tables are installed with SaaS License Management. Demo data is a
 
 [Disconnect SSO apps](disconnect-azure-ad-apps.md)
 
-[Delete an integration profile](../concept/delete-saas-integration.md)
+[Delete an integration profile](delete-saas-integration.md)
 
-[Subscription identifiers for SaaS and SSO applications](../concept/subscription-identifiers.md#)
+[Subscription identifiers for SaaS and SSO applications](subscription-identifiers.md#)
 
-[Subscription exclusions for SaaS and SSO applications](../concept/subscription-exclusions.md#)
+[Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#)
 

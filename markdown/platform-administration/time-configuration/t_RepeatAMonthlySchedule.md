@@ -62,28 +62,28 @@ The following example illustrates computing what day of the week a monthly sched
     -   December 10, 2012 \(Second Monday in the month\)
     -   January 14, 2012 \(Second Monday in the month\)
 
-**Parent Topic:**[Schedules](../concept/c_UseSchedules.md)
+**Parent Topic:**[Schedules](c_UseSchedules.md)
 
 **Related topics**  
 
 
-[Default schedules](../reference/r_DefaultSchedules.md)
+[Default schedules](r_DefaultSchedules.md)
 
-[Holidays](../concept/c_Holidays.md)
+[Holidays](c_Holidays.md)
 
 [Create a holiday schedule for multiple regions](t_CreateAHolidaySchedMultiRegions.md)
 
-[Parent and child schedules](../concept/c_ParentAndChildSchedules.md)
+[Parent and child schedules](c_ParentAndChildSchedules.md)
 
 [Define a schedule](t_DefineASchedule.md)
 
 [Schedule for the fifth instance of a week date](t_FifthInstanceOfADayOfTheWeek.md)
 
-[Using schedules and calendars](../reference/r_CreateCalendarsWithSchedulePages.md)
+[Using schedules and calendars](r_CreateCalendarsWithSchedulePages.md)
 
-[Domain support and schedules](../concept/domain-support-for-schedules.md)
+[Domain support and schedules](domain-support-for-schedules.md)
 
-[Schedules](../concept/c_UseSchedules.md)
+[Schedules](c_UseSchedules.md)
 
 [Define a schedule](t_DefineASchedule.md)
 

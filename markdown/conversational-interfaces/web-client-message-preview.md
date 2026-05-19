@@ -48,5 +48,5 @@ The end user can either:
 
 The badge icon appears only when there are new or unread messages. The badge icon is updated every 10 seconds, and displays the first new or unread message.
 
-**Parent Topic:**[General chat settings](../concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](ci-configuring-chat-features.md)
 

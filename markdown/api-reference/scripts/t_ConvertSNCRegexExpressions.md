@@ -64,5 +64,5 @@ var replaced = str.replace(r, 'there');
 // replaced == 'hellothere'
 ```
 
-**Parent Topic:**[Using regular expressions in server-side scripts](../concept/c_RegularExpressionsInScripts.md)
+**Parent Topic:**[Using regular expressions in server-side scripts](c_RegularExpressionsInScripts.md)
 

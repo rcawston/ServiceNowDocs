@@ -69,7 +69,7 @@ Create Task
 
 </td><td>
 
-If a CI fails the metric test, create a task with details about the failure. You can then view any generated tasks in the [CMDB Workspace store app](../concept/cmdb-workspace.md)or in [Service Graph Workspace store app](../concept/sg-workspace.md), and configure remediation for the task.
+If a CI fails the metric test, create a task with details about the failure. You can then view any generated tasks in the [CMDB Workspace store app](cmdb-workspace.md)or in [Service Graph Workspace store app](sg-workspace.md), and configure remediation for the task.
 
 </td></tr><tr><td>
 

@@ -27,7 +27,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 3.  In the **Sign template** field, review the signing template selected for the task.
 
-    For more information, see [Configure a workplace task signing template](../../workplace-service-delivery/task/configure-workplace-pdf-document-template-wsd.md).
+    For more information, see [Configure a workplace task signing template](../workplace-core/configure-workplace-pdf-document-template-wsd.md).
 
 4.  Select **Sign Task**.
 

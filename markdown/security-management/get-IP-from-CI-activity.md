@@ -40,5 +40,5 @@ Possible results for this activity are:
 |Success|An IPv4 address was returned.|
 |Failure|An IPv4 address could not be determined.|
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

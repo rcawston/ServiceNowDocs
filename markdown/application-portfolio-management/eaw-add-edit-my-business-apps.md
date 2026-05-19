@@ -39,12 +39,12 @@ If you have an Enterprise Architecture user role \(sn\_apm.apm\_user\), use the 
     -   To update the details of an existing business application, select the record and then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Business application form](../../reference/eaw-reference/eaw-business-application-form.md).
+    For field information, see [Business application form](eaw-business-application-form.md).
 
 7.  Select **Save** or **Update**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](eaw-work-with-your-entities.md)
 
 **Related topics**  
 

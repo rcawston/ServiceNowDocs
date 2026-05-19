@@ -33,7 +33,7 @@ Health and Safety Core
 
 Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
- For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md).
+ For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr></tbody>
 </table>## Roles installed
@@ -255,5 +255,5 @@ Assignment group for Universal Request for Health and Safety cases.
 -   sn\_hs\_cm.case\_manager
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Case Management reference](../concept/hs-case-management-reference.md)
+</table>**Parent Topic:**[Health and Safety Case Management reference](hs-case-management-reference.md)
 

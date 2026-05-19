@@ -32,5 +32,5 @@ Role required: inventory\_admin
     **Note:** Transfer order history is deleted when you delete the stockroom.
 
 
-**Parent Topic:**[Manage stockrooms](../../hardware-asset-management/concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](manage-your-stockrooms.md)
 

@@ -41,24 +41,24 @@ For more information about each feature, refer to [Managing workplace locations]
 
 ## Optimize spaces by planning scenarios
 
-Install Workplace Central application to use the Space optimization feature that helps you plan scenario to your allocate spaces, change user assignment and make other space-related changes in an efficient way. Perform scenario planning using stack plans and a floor map view. For more information about Workplace Central - Space optimization, refer to [Space Optimization](../../workplace-central/concept/space-optimization.md).
+Install Workplace Central application to use the Space optimization feature that helps you plan scenario to your allocate spaces, change user assignment and make other space-related changes in an efficient way. Perform scenario planning using stack plans and a floor map view. For more information about Workplace Central - Space optimization, refer to [Space Optimization](space-optimization.md).
 
 ## Use Workplace Core features
 
 The application enables you to perform the following actions the same as you would do in the Workplace Core application, but with extra features:
 
--   [Create records for your workplace data](../../workplace-service-delivery/task/create-records-of-workplace-data-wsd.md).
--   [Configuring spreadsheets to import workplace data](../../workplace-service-delivery/concept/importing-workspace-data-wsd.md#).
--   [Add a space type configuration](../../workplace-service-delivery/task/add-space-type-configuration-wsd.md).
--   [Block a workplace location](../../workplace-service-delivery/task/block-workplace-location.md).
+-   [Create records for your workplace data](../workplace-core/create-records-of-workplace-data-wsd.md).
+-   [Configuring spreadsheets to import workplace data](../workplace-core/importing-workspace-data-wsd.md#).
+-   [Add a space type configuration](../workplace-core/add-space-type-configuration-wsd.md).
+-   [Block a workplace location](../workplace-core/block-workplace-location.md).
 
--   **[Space Optimization](../../workplace-central/concept/space-optimization.md)**  
+-   **[Space Optimization](space-optimization.md)**  
 As a space planner, you can use the Workplace Central to monitor all your scenarios and workplace-related information from a single page called Space Optimization.
--   **[Scenario Planning](../../workplace-central/concept/scenario-planning.md)**  
+-   **[Scenario Planning](scenario-planning.md)**  
 Manage space allocations in your workplace in the most efficient way using the Space optimization scenario planning feature. Adjust your existing space allocations, floor arrangements, and employee seating plan by creating a scenario and deploying it.
--   **[Schedule Planning](../../workplace-central/concept/schedule-planning.md)**  
+-   **[Schedule Planning](schedule-planning.md)**  
 Manage space assignments to help employees head back to the office.
--   **[Allocation - types, setting, and impact](../reference/setting-an-allocation-and-its-impact.md)**  
+-   **[Allocation - types, setting, and impact](setting-an-allocation-and-its-impact.md)**  
 You can categorize the locations in your organization based on cost center, department, or workplace entity.
 
 **Parent Topic:**[Workplace Space Management](workplace-space-mgmt-ovw.md)

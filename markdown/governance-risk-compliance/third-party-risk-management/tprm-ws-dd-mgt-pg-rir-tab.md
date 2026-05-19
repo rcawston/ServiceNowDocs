@@ -19,7 +19,7 @@ You can view a list of risk intelligence report \(RIR\) requests, their associat
 
 If you have the third-party risk \(TPR\) assessor \[sn\_vdr\_risk\_asmt.vendor\_risk\_assessor\] or TPR manager \[sn\_vdr\_risk\_asmt.vendor\_risk\_manager\] role, you can request a RIR or score. You can create a RIR request that is associated with a third party or due diligence request. If you want to associate an RIR request with a due diligence request, it must be after an inherent risk questionnaire \(IRQ\) has been completed \(that is when the due diligence request has entered the IRQ in progress state\). You can update the Sanction section at any time.
 
-For more information, see [Request a risk intelligence report](../../grc-vendor-risk/task/tprm-riskintel-request-tp.md), [Request a risk intelligence report associated with a due diligence request](../../grc-vendor-risk/task/tprm-riskintel-request-dd.md), [Risk intelligence report request form](tprm-rir-form.md), and [Track sanctions-related information](../../grc-vendor-risk/task/tprm-riskintel-track-sanctions.md).
+For more information, see [Request a risk intelligence report](tprm-riskintel-request-tp.md), [Request a risk intelligence report associated with a due diligence request](tprm-riskintel-request-dd.md), [Risk intelligence report request form](tprm-rir-form.md), and [Track sanctions-related information](tprm-riskintel-track-sanctions.md).
 
 The following example shows how a new risk intelligence report request appears in Vendor Management Workspace.
 
@@ -65,7 +65,7 @@ Type of report or score that is provided.
 
  Each service that is offered by the provider returns a particular type of risk rating or score. For example, Financial risk or Security risk.
 
-**Note:** The request types that are available are dependent on what has been set up for the provider. For more information, see [Set up a request type for a provider](../../grc-vendor-risk/task/tprm-riskintelprvdr-request-type.md).
+**Note:** The request types that are available are dependent on what has been set up for the provider. For more information, see [Set up a request type for a provider](tprm-riskintelprvdr-request-type.md).
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Due diligence request
 
 Due diligence request that is associated with the risk intelligence request. There’s an option to request risk intelligence as part of a due diligence request.
 
-For more information, see [Request a risk intelligence report associated with a due diligence request](../../grc-vendor-risk/task/tprm-riskintel-request-dd.md).
+For more information, see [Request a risk intelligence report associated with a due diligence request](tprm-riskintel-request-dd.md).
 
 </td></tr><tr><td>
 
@@ -196,7 +196,7 @@ The following example shows the **Risk intelligence report requests** tab in Ven
 
 ![Risk intelligence report requests view from Risk intelligence Report requests tab in Vendor Management Workspace.](../../grc-vendor-risk/image/tprm-ws-rir-tab.png "Risk intelligence report requests tab")
 
-For more information on RIR requests, see [Using risk intelligence reports and scores](../../grc-vendor-risk/concept/tprm-riskintel-using.md).
+For more information on RIR requests, see [Using risk intelligence reports and scores](tprm-riskintel-using.md).
 
 ## Risk intelligence report request states
 
@@ -239,16 +239,16 @@ The RIR requests have the following potential states:
 -   **[Risk intelligence report request form](tprm-rir-form.md)**  
 Use the risk intelligence request form to capture all the information that you need to request risk intelligence using Third-party Risk Management. As a third-party risk manager, third-party risk assessor, and contract negotiator that is assigned to the due diligence request, you can request risk intelligence.
 
-**Parent Topic:**[Third-party Risk Management reference](../../grc-vendor-risk/concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 
 **Related topics**  
 
 
-[Integrating scores from risk intelligence providers](../../grc-vendor-risk/concept/tprm-riskintelprvdr-overview.md)
+[Integrating scores from risk intelligence providers](tprm-riskintelprvdr-overview.md)
 
 [Risk intelligence report request form](tprm-rir-form.md)
 
-[Risk intelligence provider integrations](../../grc-vendor-risk/concept/tprm-integrate-rir.md)
+[Risk intelligence provider integrations](tprm-integrate-rir.md)
 
-[Integrating EcoVadis with Third-party Risk Management](../../grc-vendor-risk/concept/tprm-integrating-ecovadis.md)
+[Integrating EcoVadis with Third-party Risk Management](tprm-integrating-ecovadis.md)
 

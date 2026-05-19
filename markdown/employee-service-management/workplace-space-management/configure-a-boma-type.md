@@ -42,16 +42,16 @@ Classify a space based on Building Owners and Managers Association \(BOMA\) stan
 
 The BOMA type is configured. To map the BOMA type with a Space type, refer to [Map a space type with BOMA type](map-a-space-type-with-boma-type.md).
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
 [Add a campus](add-a-campus.md)
 
-[Add a building using Workplace Space Management](add-new-building-1.md)
+[Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](add-a-floor-1.md)
+[Add a floor using Workplace Space Management](../employee-service-management/add-a-floor-1.md)
 
 [Add an area using Workplace Space Management](add-an-area.md)
 
@@ -75,5 +75,5 @@ The BOMA type is configured. To map the BOMA type with a Space type, refer to [M
 
 [Create a view-by configuration](create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](reviewing-allocation-changes.md)
 

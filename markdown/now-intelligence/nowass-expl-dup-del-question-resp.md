@@ -48,7 +48,7 @@ Copy a response when you want to share only a response, not the whole exploratio
     -   To copy the response to another exploration, tap **Copy to...**. You are given the choice of copying the response to an existing exploration or a new exploration.
     -   To delete the response, tap the control and select **Delete**.
 
-**Parent Topic:**[Questions and responses in an exploration](../concept/ask-expl-questions.md)
+**Parent Topic:**[Questions and responses in an exploration](ask-expl-questions.md)
 
 **Related topics**  
 

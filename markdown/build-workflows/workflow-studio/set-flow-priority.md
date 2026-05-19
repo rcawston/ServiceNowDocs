@@ -56,5 +56,5 @@ The flow runs at the priority you specify as long as it does not pause or get de
 
 Use the FDIH dashboard to review the flow executions and verify that your flows are running as expected.
 
-**Parent Topic:**[Flow priority](../concept/flow-priority.md)
+**Parent Topic:**[Flow priority](flow-priority.md)
 

@@ -28,5 +28,5 @@ For details on installing applications in a batch via the REST API see [Continuo
 
 For details on installing applications in a batch with the [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md) application, see [Continuous Integration and Continuous Delivery \(CICD\) spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/cicd-spoke.md).
 
-**Parent Topic:**[Using Legacy Application Manager](../../../build/applications/task/using-legacy-application-manager.md)
+**Parent Topic:**[Using Legacy Application Manager](using-legacy-application-manager.md)
 

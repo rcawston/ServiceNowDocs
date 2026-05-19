@@ -19,19 +19,19 @@ As an administrator, you can review the installed components and modify them or 
 
 -   Legal stock approvers
 -   [Fiscal calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_GenerateFiscalCalendar.md)
--   [Trading windows](../task/set-up-trading-window.md)
--   [Trading holidays](../task/add-trading-holidays.md)
--   [Access Persons list](../task/manage-access-persons-list.md)
+-   [Trading windows](set-up-trading-window.md)
+-   [Trading holidays](add-trading-holidays.md)
+-   [Access Persons list](manage-access-persons-list.md)
 -   [Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
--   **[Install Legal Stock Preclearance](../task/install-stock-preclearance.md)**  
+-   **[Install Legal Stock Preclearance](install-stock-preclearance.md)**  
 You can install the Legal Stock Preclearance application \(sn\_lg\_stock\_cp\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
--   **[Set up a trading window](../task/set-up-trading-window.md)**  
+-   **[Set up a trading window](set-up-trading-window.md)**  
 Set up a trading window for a period in which certain designated employees of the organization are permitted to trade in the securities of your organization.
--   **[Add trading holidays](../task/add-trading-holidays.md)**  
+-   **[Add trading holidays](add-trading-holidays.md)**  
 Add trading holidays during which the trading is closed.
--   **[Manage access persons list](../task/manage-access-persons-list.md)**  
+-   **[Manage access persons list](manage-access-persons-list.md)**  
 Add users who have access to non-public information regarding the trade of securities of your organization.
 
-**Parent Topic:**[Legal Stock Preclearance](../reference/legal-stock-preclearance-landing-page.md)
+**Parent Topic:**[Legal Stock Preclearance](legal-stock-preclearance-landing-page.md)
 

@@ -13,21 +13,21 @@ breadcrumb: [ServiceNow plugins, Basic system configuration, Get started, Admini
 
 You can view all plugins available to you in the Application Manager if you have the admin role.
 
-[Application Manager](../../application-manager/concept/application-manager.md) provides admins the ability to install, update, and manage licensed applications and plugins for their instance.
+[Application Manager](application-manager/application-manager.md) provides admins the ability to install, update, and manage licensed applications and plugins for their instance.
 
 If a plugin does not appear within the Application Manager, it may require activation by ServiceNow personnel. Request these plugins through the Now Support Customer Service System instead of activating them yourself.
 
 -   For a list of all new and changed plugins for the Australia release, see [Plugin information for all Australia features and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/rn-summary-plugin-info.md).
--   For steps on activating a plugin yourself, see [Activate a plugin](../task/t_ActivateAPlugin.md).
--   For steps on requesting a plugin that you cannot activate yourself, see [Request a plugin](../task/t_RequestAPlugin.md).
--   For steps on installing a ServiceNow Store application, see [Install a ServiceNow Store application](../../../build/applications/task/t_InstallApplications.md).
+-   For steps on activating a plugin yourself, see [Activate a plugin](t_ActivateAPlugin.md).
+-   For steps on requesting a plugin that you cannot activate yourself, see [Request a plugin](t_RequestAPlugin.md).
+-   For steps on installing a ServiceNow Store application, see [Install a ServiceNow Store application](t_InstallApplications.md).
 
-**Parent Topic:**[ServiceNow plugins](../concept/c_ServiceNowPlugins.md)
+**Parent Topic:**[ServiceNow plugins](c_ServiceNowPlugins.md)
 
 **Related topics**  
 
 
-[Activate a plugin](../task/t_ActivateAPlugin.md)
+[Activate a plugin](t_ActivateAPlugin.md)
 
-[Request a plugin](../task/t_RequestAPlugin.md)
+[Request a plugin](t_RequestAPlugin.md)
 

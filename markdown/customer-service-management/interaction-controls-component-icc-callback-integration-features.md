@@ -39,16 +39,16 @@ Contact Center platforms provide a callback feature that lets callers keep their
     ![Agent-first mode: Immediate callback request on IVR – Agent preview before dialing the customer](../image/ccaas-callback-agent-first.png "Agent-first mode - Immediate callback request")
 
 
-The Interaction Controls Component \(ICC\) for callbacks feature enables CCaaS providers to display callback interactions so agents can manage customer calls directly from their configurable workspace. For more information on how to handle CCaaS callback requests, see [Manage a CCaaS callback request in the Configurable Workspace](../task/ccaas-address-callback-requests.md) and [Manage a CCaaS callback request using Global Voice Control](../task/handle-ccaas-callback-gvc.md).
+The Interaction Controls Component \(ICC\) for callbacks feature enables CCaaS providers to display callback interactions so agents can manage customer calls directly from their configurable workspace. For more information on how to handle CCaaS callback requests, see [Manage a CCaaS callback request in the Configurable Workspace](ccaas-address-callback-requests.md) and [Manage a CCaaS callback request using Global Voice Control](handle-ccaas-callback-gvc.md).
 
 **Note:**
 
-To manage and activate the ICC integration for callbacks, see [Implement the Interaction Controls Component \(ICC\) for contact center voice call and callback integrations](../task/enable-icc-for-ccaas.md) and [Plugin requirements for voice and callback integrations with contact centers](../task/plugin-requirements-for-external-call-routing-integration-for-contact-centers.md).
+To manage and activate the ICC integration for callbacks, see [Implement the Interaction Controls Component \(ICC\) for contact center voice call and callback integrations](enable-icc-for-ccaas.md) and [Plugin requirements for voice and callback integrations with contact centers](plugin-requirements-for-external-call-routing-integration-for-contact-centers.md).
 
 **Related topics**  
 
 
-[Manage a CCaaS callback request in the Configurable Workspace](../task/ccaas-address-callback-requests.md)
+[Manage a CCaaS callback request in the Configurable Workspace](ccaas-address-callback-requests.md)
 
-[Manage a CCaaS callback request using Global Voice Control](../task/handle-ccaas-callback-gvc.md)
+[Manage a CCaaS callback request using Global Voice Control](handle-ccaas-callback-gvc.md)
 

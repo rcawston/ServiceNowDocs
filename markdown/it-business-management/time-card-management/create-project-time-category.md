@@ -35,5 +35,5 @@ Role required: timecard\_admin, it\_project\_manager
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Time Card Management](../concept/time-card-management.md)
+**Parent Topic:**[Time Card Management](time-card-management.md)
 

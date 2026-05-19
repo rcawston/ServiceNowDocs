@@ -47,7 +47,7 @@ sn\_customerservice\_manager
 
 </td><td>
 
-Review and accept a proactive case as a major case and create child cases. Associate outages to cases or create an outage for a case.Track Key Performance Indicators \(KPIs\) to understand how proactive the team was in identifying and communicating issues that impact customers. For more information, see [Proactive Customer Service - Advanced dashboard](../concept/csm-proactive-monit-dashboard.md).
+Review and accept a proactive case as a major case and create child cases. Associate outages to cases or create an outage for a case.Track Key Performance Indicators \(KPIs\) to understand how proactive the team was in identifying and communicating issues that impact customers. For more information, see [Proactive Customer Service - Advanced dashboard](analytics-and-reporting-solutions-for-customer-service/csm-proactive-monit-dashboard.md).
 
 </td></tr><tr><td>
 

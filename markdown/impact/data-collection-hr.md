@@ -15,10 +15,10 @@ Install and configure the HR Data Collection Content Pack.
 
 Perform the steps in the following order:
 
-1.  [Install the Data Collection Pack for HR](../task/dc-hr-install.md)
-2.  [Configure Data Collection for HR](../task/dc-hr-config.md)
-3.  [Activate Data Collection for HR](../task/dc-hr-activate.md)
-4.  [Review HR artifacts](../reference/dc-hr-install-artifacts.md)
+1.  [Install the Data Collection Pack for HR](dc-hr-install.md)
+2.  [Configure Data Collection for HR](dc-hr-config.md)
+3.  [Activate Data Collection for HR](dc-hr-activate.md)
+4.  [Review HR artifacts](dc-hr-install-artifacts.md)
 
 You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](dc-all-modify.md) and [Upgrading the Data Collection Content Pack](dc-all-upgrade.md).
 

@@ -123,7 +123,7 @@ Software Asset Workspace
 
         If the discovery map doesn't match, add or edit directly on the software model form and select **Update**.
 
-        **Tip:** After the entitlements are imported, you might need additional subscriptions purchases during the true-up process with Microsoft. For more information, see. [Creating reserve entitlements for Microsoft online services](../concept/creating-0365-reserve-entitlements.md).
+        **Tip:** After the entitlements are imported, you might need additional subscriptions purchases during the true-up process with Microsoft. For more information, see. [Creating reserve entitlements for Microsoft online services](creating-0365-reserve-entitlements.md).
 
 
 ## What to do next

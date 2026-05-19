@@ -22,5 +22,5 @@ Use the range selectors at the top of the timeline to change the perspective.
 -   **[Managing spans](manage-spans.md)**  
 You can view span details, focus and zoom spans, and edit spans.
 
-**Parent Topic:**[Timeline pages](../../../administer/time/concept/c_TimelinePages.md)
+**Parent Topic:**[Timeline pages](c_TimelinePages.md)
 

@@ -29,12 +29,12 @@ Role required: admin
 
 3.  Enter a Name and Short description for the execution plan.
 
-4.  Specify [delivery information](../concept/c_ExecutionPlanTasks.md#) in the Total delivery time and On Calendar fields.
+4.  Specify [delivery information](c_ExecutionPlanTasks.md#) in the Total delivery time and On Calendar fields.
 
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Execution Plans](../concept/c_ExecutionPlans.md)
+**Parent Topic:**[Execution Plans](c_ExecutionPlans.md)
 
 ## Add catalog item variables to a task
 

@@ -32,5 +32,5 @@ Role required: sn\_apm.apm\_analyst
     **Note:** You can select each link under the Certification instance column to see associated policy tasks.
 
 
-**Parent Topic:**[Working with data certification](../../concept/eaw-concept/eaw-work-with-data-cert.md)
+**Parent Topic:**[Working with data certification](eaw-work-with-data-cert.md)
 

@@ -56,14 +56,14 @@ Ensure that the indicator sources that Platform Analytics Solutions contain poin
     5.  Click **Update** to save your changes.
 
 
-**Parent Topic:**[Configure Platform Analytics Solutions](../concept/configure-nowintel-solutions.md)
+**Parent Topic:**[Configure Platform Analytics Solutions](configure-nowintel-solutions.md)
 
-**Previous topic:**[Configure Platform Analytics Solutions](../concept/configure-nowintel-solutions.md)
+**Previous topic:**[Configure Platform Analytics Solutions](configure-nowintel-solutions.md)
 
 **Next topic:**[Update Performance Analytics scripts](update-pa-scripts.md)
 
 **Related topics**  
 
 
-[Indicator sources](../concept/c_IndicatorSources.md#)
+[Indicator sources](c_IndicatorSources.md#)
 

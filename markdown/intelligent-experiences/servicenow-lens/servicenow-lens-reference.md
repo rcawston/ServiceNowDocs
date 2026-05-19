@@ -21,8 +21,8 @@ Several types of components are installed with the activation of the ServiceNow 
 Learn about the field types that are currently supported with the ServiceNow AI Lens application.
 -   **[ServiceNow AI Lens limitations](sn-lens-limitations.md)**  
 Be aware of a few limitations when you’re using the ServiceNow AI Lens application.
--   **[Script include - AILensActionService](../concept/ai-lens-action-service-api.md#)**  
+-   **[Script include - AILensActionService](ai-lens-action-service-api.md#)**  
 Use the AILensActionService script include together with Lens actions to leverage ServiceNow AI Lens as a service for extracting information from the provided images and getting answers to your questions.
 
-**Parent Topic:**[ServiceNow AI Lens](../concept/servicenow-lens-landing-page.md)
+**Parent Topic:**[ServiceNow AI Lens](servicenow-lens-landing-page.md)
 

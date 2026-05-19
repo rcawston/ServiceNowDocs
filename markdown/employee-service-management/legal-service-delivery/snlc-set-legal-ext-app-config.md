@@ -27,7 +27,7 @@ The Legal Service Delivery applications use spokes from Integration Hub to integ
     -   [Microsoft OneDrive spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/onedrive-spoke.md)
 -   **Configure an external storage provider**
 
-    The legal configurator can set up the external storage app integrations for legal apps from **Legal Integrations**. For more information, see [Configure an external storage system for legal requests and legal matters](../../legal-request-management/task/integrate-legal-ext-storage.md).
+    The legal configurator can set up the external storage app integrations for legal apps from **Legal Integrations**. For more information, see [Configure an external storage system for legal requests and legal matters](../legal-request-management/integrate-legal-ext-storage.md).
 
 
 ## Integration with e-signature providers
@@ -40,12 +40,12 @@ The Legal Service Delivery applications use spokes from Integration Hub to integ
     -   [Docusign spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/docusign-spoke.md)
 -   **Set up the electronic signature provider app**
 
-    The legal configurator can set up the electronic signature app integrations for legal apps from **Legal Integrations**. For more information, see [Configure an e-signature provider for legal contracts](../../legal-simple-contracts/task/integrate-legal-contracts-esign.md).
+    The legal configurator can set up the electronic signature app integrations for legal apps from **Legal Integrations**. For more information, see [Configure an e-signature provider for legal contracts](../legal-simple-contracts/integrate-legal-contracts-esign.md).
 
 
--   **[Configure an external storage system for legal contracts](../task/snlc-integrate-ext-storage.md)**  
+-   **[Configure an external storage system for legal contracts](snlc-integrate-ext-storage.md)**  
 Configure an external storage system to store signed contract documents.
--   **[Configure an e-signature provider for legal contracts](../task/snlc-integrate-esign.md)**  
+-   **[Configure an e-signature provider for legal contracts](snlc-integrate-esign.md)**  
 Configure an electronic signature provider to enable users to sign contract documents electronically.
 
 **Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](snlc-config-sn-legal-contracts.md)

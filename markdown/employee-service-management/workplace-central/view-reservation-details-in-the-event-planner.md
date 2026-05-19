@@ -79,5 +79,5 @@ You can view all the reservations that are currently active and also the reserva
 8.  To view all the reservations created in the workplace in a schedule view, select **Open schedule view**.
 
 
-**Parent Topic:**[Working with Event planner](../concept/working-with-event-planner.md)
+**Parent Topic:**[Working with Event planner](working-with-event-planner.md)
 

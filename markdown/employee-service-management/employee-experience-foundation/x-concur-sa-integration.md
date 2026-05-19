@@ -34,7 +34,7 @@ Remember the following information before getting started with the integration:
         **Note:** This framework is installed with Employee Center Pro.
 
 -   Approvals hub integration with SAP Concur is supported with Employee Center Utah patch 3 as the minimum supported release for the functionality to work on Utah.
--   Understand how Enterprise Service Management Integrations Framework works, see [Using Enterprise Service Management Integrations Framework](../../human-resources/task/use-integrations-framework.md) and [View tasks of a third-party system](../../human-resources/task/display-todos.md)
+-   Understand how Enterprise Service Management Integrations Framework works, see [Using Enterprise Service Management Integrations Framework](../hr-service-delivery/use-integrations-framework.md) and [View tasks of a third-party system](../hr-service-delivery/display-todos.md)
 -   Integrate [Approvals hub integration with SAP Concur](x-concur-sa-integration.md) with ServiceNow, create credential records, and create connection records as explained in [SAP Concur Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/sap-concur-spoke.md).
 -   Understand the basics of [SAP Concur](https://api.sap.com/products/SAPConcur/overview) integrations and business processes.
 
@@ -49,11 +49,11 @@ By using the Employee Center Pro approvals experience, you can do the following 
 -   Enable approvers to perform quick actions such as approve or send back a request with comments.
 -   Leverage Concur user flows and approval flows from approvals hub.
 
--   **[Manage approvals from SAP Concur](../task/x-concur-approvals.md)**  
+-   **[Manage approvals from SAP Concur](x-concur-approvals.md)**  
 As an administrator, you can sync, view, track, and fulfill the requests from other business applications such as SAP Concur from a unified Employee Center Pro location.
--   **[Populate SAP Concur report and metadata](../task/x-concur-approvals-scheduled-job.md)**  
+-   **[Populate SAP Concur report and metadata](x-concur-approvals-scheduled-job.md)**  
 As an administrator, fetch the reports metadata from other business applications such as SAP Concur. View the Concur expense reports, itemizations, and receipts from your ServiceNow instance.
--   **[Use task configuration for SAP Concur approvals](../task/approval-hub-to-dos-page-concur.md)**  
+-   **[Use task configuration for SAP Concur approvals](approval-hub-to-dos-page-concur.md)**  
 Using the default To-dos configuration, you can provide the approvers with more in-context information about the approval requests for better approval workflows.
 
 **Parent Topic:**[Approval hub integrations](approvals-int-concept.md)

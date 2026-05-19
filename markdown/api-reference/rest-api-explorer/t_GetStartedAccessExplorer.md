@@ -46,5 +46,5 @@ You can use the REST API Explorer to browse available APIs, API versions, and me
 
 You can change the Namespace, API Name, and Version drop-down options to filter to a specific REST API.
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](use-REST-API-Explorer.md)
 

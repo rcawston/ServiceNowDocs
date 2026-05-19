@@ -26,7 +26,7 @@ Role required: Jenkins admin
 2.  Search for **ServiceNow DevOps Plugin** and select it, and then select **Install**.
 
 
-**Parent Topic:**[Jenkins integration with DevOps Change Velocity](../concept/jenkins-integration-dev-ops.md)
+**Parent Topic:**[Jenkins integration with DevOps Change Velocity](jenkins-integration-dev-ops.md)
 
 **Related topics**  
 
@@ -187,7 +187,7 @@ The level of log messages you want to store in Jenkins logs/ ServiceNow log reco
 -   finer
 -   finest
 -   all
- For more information on Log levels and log recorders, see [Jenkins log levels and Log Recorders](../reference/devops-jenkins-log-recorders.md)
+ For more information on Log levels and log recorders, see [Jenkins log levels and Log Recorders](devops-jenkins-log-recorders.md)
 
 </td></tr><tr><td>
 

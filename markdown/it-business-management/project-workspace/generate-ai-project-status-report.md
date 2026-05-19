@@ -73,5 +73,5 @@ After submission, the same information appears in the report view, including rat
 
 An AI-assisted status report is generated with predicted health values, an executive summary, and rationale text.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

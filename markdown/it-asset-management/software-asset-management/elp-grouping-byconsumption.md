@@ -25,7 +25,7 @@ All the ELP data reports you have generated can be found in the ELP Grouping sub
 
 A grouping result is only deleted if you rerun the reconciliation process with grouping for the same publisher and product.
 
-For details on generating an ELP report, see [Generate an Effective License Position \(ELP\) report](../task/generate-elp-report-sam.md).
+For details on generating an ELP report, see [Generate an Effective License Position \(ELP\) report](generate-elp-report-sam.md).
 
 ## Use case scenario of an ELP report
 

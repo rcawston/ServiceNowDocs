@@ -18,7 +18,7 @@ Integrate your ServiceNow instance with the Microsoft SharePoint Online by setti
 ## Before you begin
 
 -   Request Integration Hub subscription
--   Activate [Microsoft SharePoint Online Spoke](../concept/sharepoint-online-spoke.md)
+-   Activate [Microsoft SharePoint Online Spoke](sharepoint-online-spoke.md)
 -   Create an OAuth application on Microsoft Azure portal.
 -   Access to Microsoft Azure portal
 -   Role required: admin

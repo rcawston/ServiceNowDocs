@@ -52,5 +52,5 @@ Role required: Developer
 
 The custom script you created by using the C\#.Net connector is now ready to be used in your automation.
 
-**Parent Topic:**[C\#.Net](../concept/c.md)
+**Parent Topic:**[C\#.Net](c.md)
 

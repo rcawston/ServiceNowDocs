@@ -30,5 +30,5 @@ Role required: sn\_vaccine\_sm.admin
 2.  Click **Save**.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

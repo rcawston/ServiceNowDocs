@@ -131,14 +131,14 @@ The scenario approval process is completed.
 
 [Deploy a scenario](deploy-a-scenoria.md)
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](working-with-space-optimization.md)
 
 **Related topics**  
 
 
 [Create a scenario](create-a-scenario.md)
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](viewing-editing-scenario.md)
 
 [Review a scenario](review-a-scenario.md)
 
@@ -156,5 +156,5 @@ The scenario approval process is completed.
 
 [Work on a space assist request](work-on-space-assist-request.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](map-based-space-administration.md)
 

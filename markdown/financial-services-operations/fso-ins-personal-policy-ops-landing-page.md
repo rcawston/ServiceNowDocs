@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Personal Lines Servicing.](../task/configure-ins-policy-ops.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Personal Lines Servicing.](configure-ins-policy-ops.md)
 
 </td><td>
 
@@ -58,9 +58,9 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 </td></tr></tbody>
 </table>-   **[Exploring Personal Lines Servicing](explore-insurance-personal-policy-operations.md)**  
 Contributors, processors, and underwriters can use Personal Lines Servicing to create and manage service requests for personal insurance policies.
--   **[Install Personal Lines Servicing](../task/install-ins-policy-ops.md)**  
+-   **[Install Personal Lines Servicing](install-ins-policy-ops.md)**  
 You can install the Personal Lines Servicing \(sn\_ins\_policy\_b2c\) application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Configure Personal Lines Servicing](../task/configure-ins-policy-ops.md)**  
+-   **[Configure Personal Lines Servicing](configure-ins-policy-ops.md)**  
 Review the components that are installed with the Personal Lines Servicing application and modify as needed for your organization's business needs.
 -   **[Using Personal Lines Servicing](using-financial-services-insurance-policy-operations.md)**  
 Learn how the following roles use Personal Lines Servicing to update policies, change coverages, review and approve underwriting, and send documents for personal policies.

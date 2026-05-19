@@ -41,5 +41,5 @@ The tool supports batch migration of up to 200 records at a time. After migratio
 -   The count of documents that have successfully migrated, documents pending migration, and failed migration are listed in the **Migrated records**, **Remaining records**, and **Fail records** widgets.
 -   The successfully migrated records appear appears under the **Document** related list of the respective **Chemical item** record.
 
-**Parent Topic:**[Setting up Health and Safety Environmental Management](../concept/hs-setting-up-environmental-management.md)
+**Parent Topic:**[Setting up Health and Safety Environmental Management](hs-setting-up-environmental-management.md)
 

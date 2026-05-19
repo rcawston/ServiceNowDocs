@@ -37,5 +37,5 @@ Role required: admin
 5.  In the Confirmation window, click **Delete**.
 
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](use-article-quality-index.md)
 

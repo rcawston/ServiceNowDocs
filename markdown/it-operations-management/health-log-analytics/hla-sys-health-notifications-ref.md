@@ -71,5 +71,5 @@ Healthy
 Field that indicates the status of the issue mentioned in the notification.The table shows only notifications with a Healthy value of **False**. When the issue is detected as fixed, the value is automatically changed to **True** and the notification is filtered out of the table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health Log Analytics reference](../concept/hla-reference.md)
+</table>**Parent Topic:**[Health Log Analytics reference](hla-reference.md)
 

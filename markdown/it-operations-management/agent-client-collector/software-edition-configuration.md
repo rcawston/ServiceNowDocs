@@ -65,5 +65,5 @@ Priority order
 Indicates the hierarchy of values that take precedence when multiple editions are discovered.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector for Visibility - Content reference](../concept/agent-client-collector-for-visibility-references.md)
+</table>**Parent Topic:**[Agent Client Collector for Visibility - Content reference](agent-client-collector-for-visibility-references.md)
 

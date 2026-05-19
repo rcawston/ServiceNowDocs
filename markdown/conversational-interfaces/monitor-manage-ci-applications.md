@@ -17,7 +17,7 @@ Use the Conversational Interfaces Home page to monitor the performance of recent
 
 -   **Monitor your Virtual Agent performance**
 
-    Review the performance of recent Virtual Agent conversations from the Conversational Interfaces console. For more details, select **See details in Conversational Analytics** to open the [Conversational Analytics dashboard](../../virtual-agent/concept/VA-dashboard-landing-page-pae.md).
+    Review the performance of recent Virtual Agent conversations from the Conversational Interfaces console. For more details, select **See details in Conversational Analytics** to open the [Conversational Analytics dashboard](virtual-agent/VA-dashboard-landing-page-pae.md).
 
     ![Conversational Interfaces Home Virtual Agent performance metrics on the dashboard.](../image/ci-home-conv-analytics.png)
 

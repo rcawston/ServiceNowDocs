@@ -83,5 +83,5 @@ Option to enable the approval configuration as active.
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Approval configuration](../concept/bcm-approval-configuration.md)
+**Parent Topic:**[Approval configuration](bcm-approval-configuration.md)
 

@@ -40,5 +40,5 @@ Role required: admin
 
 With the plugin installed, you can walk through Guided Setup tasks to enable AI Search as the search engine for the Unified Navigation search field in Next Experience. To get started with Guided Setup, see [Verify that your instance meets the prerequisites for AI Search for Next Experience](verify-ais-next-exp-prereqs.md).
 
-**Parent Topic:**[AI Search for Next Experience](../concept/ais-next-experience-app.md)
+**Parent Topic:**[AI Search for Next Experience](ais-next-experience-app.md)
 

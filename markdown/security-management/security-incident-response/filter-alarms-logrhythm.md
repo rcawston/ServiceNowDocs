@@ -85,7 +85,7 @@ Delete this alarm profile and the **Alarm Profiles** list is displayed.
 </table>
 ## What to do next
 
-The next step is to preview your mapped fields on the security incident. See [Previewing the security incident with mapped LogRhythm alarm values](../concept/preview-si-logrhythm.md).
+The next step is to preview your mapped fields on the security incident. See [Previewing the security incident with mapped LogRhythm alarm values](preview-si-logrhythm.md).
 
 **Parent Topic:**[Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md)
 

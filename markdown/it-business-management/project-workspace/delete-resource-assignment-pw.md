@@ -32,5 +32,5 @@ Role required: it\_project\_manager
     The resource assignment is deleted from the resource assignment pane.
 
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](resource-assignments-pw.md)
 

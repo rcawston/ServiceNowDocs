@@ -53,5 +53,5 @@ Role required: admin or virtual\_agent\_admin
 
 [Review the inbound REST endpoint and configure inbound authentication](configure-send-request.md)
 
-**Parent Topic:**[Configuring Virtual Agent API](../concept/configure-virtual-agent-api.md)
+**Parent Topic:**[Configuring Virtual Agent API](configure-virtual-agent-api.md)
 

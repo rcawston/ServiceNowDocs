@@ -33,7 +33,7 @@ Description
 
 </td><td>
 
-[Scorecard](../task/create-scorecard-list-widget.md)
+[Scorecard](create-scorecard-list-widget.md)
 
 </td><td>
 
@@ -49,7 +49,7 @@ For several indicators, shows any of the following attributes:-   Scores at seve
 
 </td><td>
 
-[Spider](../task/create-spider-list-widget.md)
+[Spider](create-spider-list-widget.md)
 
 </td><td>
 

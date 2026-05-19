@@ -113,10 +113,10 @@ Role required: none
         The methods appear in the Object Explorer pane.
 
 
-**Parent Topic:**[Configure the Terminal connector](../concept/configure-terminal-connector.md)
+**Parent Topic:**[Configure the Terminal connector](configure-terminal-connector.md)
 
 **Related topics**  
 
 
-[Rocket BlueZone emulator methods](../reference/bluezone-emulator-methods.md)
+[Rocket BlueZone emulator methods](bluezone-emulator-methods.md)
 

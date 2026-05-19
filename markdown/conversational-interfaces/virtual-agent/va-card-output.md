@@ -343,7 +343,7 @@ Partial support
 
 </td><td>
 
-Some types of output are only available on devices with screens. For nonscreen devices, the card title is read. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](../concept/va-settings-for-alexa.md).
+Some types of output are only available on devices with screens. For nonscreen devices, the card title is read. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](va-settings-for-alexa.md).
 
 </td></tr></tbody>
 </table>## Example Glide record query

@@ -21,7 +21,7 @@ Role required: none
 
 ## About this task
 
-For a list of connectors and their methods, see [Connectors in RPA Desktop Design Studio](../reference/connectors-automation.md).
+For a list of connectors and their methods, see [Connectors in RPA Desktop Design Studio](connectors-automation.md).
 
 For details on the issues related to connectors, see [KB article KB1123555](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123555).
 
@@ -45,7 +45,7 @@ For details on the issues related to connectors, see [KB article KB1123555](http
 
 4.  In the Project Explorer pane, double-click the connector under Global Objects.
 
-    Some connectors provide additional levels and methods for each level. To know more about the levels, see [Understand levels of connector methods](../concept/understand-connector-method-levels.md).
+    Some connectors provide additional levels and methods for each level. To know more about the levels, see [Understand levels of connector methods](understand-connector-method-levels.md).
 
     The Object Explorer lists all methods of the connector.
 
@@ -60,10 +60,10 @@ For details on the issues related to connectors, see [KB article KB1123555](http
 
 -   **[Use connector method](use-connector-method.md)**  
 Expose and then use the methods within a connector to perform all the actions that the connector can do.
--   **[Connectors in RPA Desktop Design Studio](../reference/connectors-automation.md)**  
+-   **[Connectors in RPA Desktop Design Studio](connectors-automation.md)**  
 Learn about the connectors that you can use in RPA Desktop Design Studio to create an automation.
--   **[Understand levels of connector methods](../concept/understand-connector-method-levels.md)**  
+-   **[Understand levels of connector methods](understand-connector-method-levels.md)**  
 Some connectors in the RPA Desktop Design Studio provide methods that interact with various applications at different levels. For example, the Chrome connector provides methods that interact with applications and their elements open in a Google Chrome browser to perform specific Robotic Process Automation tasks.
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

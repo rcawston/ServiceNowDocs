@@ -18,5 +18,5 @@ Reference topics provide additional information about the Privacy Case Managemen
 -   **[Components installed with Privacy Case Management](components-installed-with-pcm.md)**  
 Several types of components are installed with installation of the Privacy Case Management application, including tables, user roles.
 
-**Parent Topic:**[Privacy Case Management](../concept/privacy-case-management-overview.md)
+**Parent Topic:**[Privacy Case Management](privacy-case-management-overview.md)
 

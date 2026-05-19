@@ -19,14 +19,14 @@ You can install the Cloud Discovery Workspace application \(com.cloud\_operation
 
 **Important:** Starting with the Zurich release, Cloud Discovery Workspace is being prepared for future deprecation. It will be hidden and no longer activated on new instances, but will continue to be supported. Discovery Admin Workspace provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-When Cloud Discovery Workspace is installed, several plugins and applications are also installed. For more information, see [Plugins or applications installed with ITOM Visibility](../../it-operations-management/reference/plugin-app-itom-visibility.md).
+When Cloud Discovery Workspace is installed, several plugins and applications are also installed. For more information, see [Plugins or applications installed with ITOM Visibility](../itom-visibility/plugin-app-itom-visibility.md).
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Cloud Discovery Workspace requires the following plugin. Ensure that the following plugin is activated before you install Cloud Discovery Workspace.
     -   **Required ServiceNow plugins**
         -   **Discovery \(com.snc.discovery\)**
 
-            ServiceNow Cloud Discovery finds applications and devices on your network, and then updates the CMDB 360 with the information it finds. For more information on activating Discovery, see [Request Discovery](../../discovery/task/t_ActivateTheDiscoveryPlugin.md).
+            ServiceNow Cloud Discovery finds applications and devices on your network, and then updates the CMDB 360 with the information it finds. For more information on activating Discovery, see [Request Discovery](../discovery/t_ActivateTheDiscoveryPlugin.md).
 
 
 Role required: admin

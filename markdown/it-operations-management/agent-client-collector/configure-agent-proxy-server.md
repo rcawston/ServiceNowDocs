@@ -29,7 +29,7 @@ Proxy agents should be dedicated agents, as running other apps on a proxy agent 
 
 2.  Select the policy containing the checks that you want to run on a proxy server.
 
-    You must configure a proxy server for checks and policies that monitor external services. For details on these checks and policies, see [Agent Client Collector Monitoring default checks and policies](../reference/agent-policies-checks.md).
+    You must configure a proxy server for checks and policies that monitor external services. For details on these checks and policies, see [Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md).
 
 3.  Select the **Proxy Settings** tab.
 
@@ -105,5 +105,5 @@ Clear this option to load balance the selected multi proxy agents that monitor t
 </table>5.  Select **Activate**.
 
 
-**Parent Topic:**[Using proxy agents in Agent Client Collector](../concept/proxy-agent.md)
+**Parent Topic:**[Using proxy agents in Agent Client Collector](proxy-agent.md)
 

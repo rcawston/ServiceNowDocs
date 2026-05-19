@@ -102,5 +102,5 @@ Basic flow for rescheduling a meeting:
 5.  Virtual Agent confirms that the meeting has been rescheduled.
 6.  User can reschedule additional meetings, if desired.
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

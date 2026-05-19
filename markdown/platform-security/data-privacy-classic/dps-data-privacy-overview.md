@@ -83,7 +83,7 @@ Classified data
 
 You can track anonymization methods applied to protect data.
 
-**Note:** The metrics displayed here apply to real-time anonymization and job-based anonymization when the [data pattern anonymization technique](../task/dps-create-anonymization-techniques.md) is selected. Both real-time anonymization and data pattern anonymization configurations make use of active data patterns, as defined in **ALL &gt; System Security &gt; Data Discovery \(Classic\) &gt; Active Data Patterns**.
+**Note:** The metrics displayed here apply to real-time anonymization and job-based anonymization when the [data pattern anonymization technique](dps-create-anonymization-techniques.md) is selected. Both real-time anonymization and data pattern anonymization configurations make use of active data patterns, as defined in **ALL &gt; System Security &gt; Data Discovery \(Classic\) &gt; Active Data Patterns**.
 
 ![Data anonymization](../image/dps-data-anonymization.png)
 

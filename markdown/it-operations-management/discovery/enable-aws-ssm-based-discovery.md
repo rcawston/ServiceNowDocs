@@ -40,5 +40,5 @@ The AWS SSM Agent runs with root \(Linux\) or SYSTEM \(Windows\) privileges, mea
 
 ## What to do next
 
-Define fallback root behavior using the **mid.discovery.aws\_ssm.linux.fallback\_root\_user** property or create non-root credentials to execute Discovery commands using the AWS SSM Instance Users \[aws\_ssm\_instance\_user\_credentials\] table. For more information, see [Enable root fallback](../task/enable-root-fallback.md) and [Configure custom user credentials](../task/configure-custom-user-credentials.md).
+Define fallback root behavior using the **mid.discovery.aws\_ssm.linux.fallback\_root\_user** property or create non-root credentials to execute Discovery commands using the AWS SSM Instance Users \[aws\_ssm\_instance\_user\_credentials\] table. For more information, see [Enable root fallback](enable-root-fallback.md) and [Configure custom user credentials](configure-custom-user-credentials.md).
 

@@ -27,7 +27,7 @@ Role required: sam\_admin and sam\_user
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [SAM Success Activity](../reference/sam-success-activity.md).
+    For a description of the field values, see [SAM Success Activity](sam-success-activity.md).
 
 4.  Select **Save**.
 
@@ -41,5 +41,5 @@ The success activity appears in the License operation view under the Success act
 
 [Create success goals for Software Asset Management](create-success-goals.md)
 
-[License operations view](../concept/operations-workspace.md)
+[License operations view](operations-workspace.md)
 

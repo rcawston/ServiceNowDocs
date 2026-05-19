@@ -21,7 +21,7 @@ Role required: sn\_customerservice.customer
 
 This task describes how to create an invoice case using the playbook experience in the Business Portal. The playbook experience enables you to dispute various invoice discrepancies depending on the scope you select, including quantity, part number, billing location, and shipping location issues.
 
-Creating invoice cases using the Now Assist panel limits disputes to quantity issues only. For more information, see [Dispute invoice issues using Now Assist Virtual Assistant](../../now-assist-order-mgmt/task/dispute-invoice-issues-now-assist.md).
+Creating invoice cases using the Now Assist panel limits disputes to quantity issues only. For more information, see [Dispute invoice issues using Now Assist Virtual Assistant](dispute-invoice-issues-now-assist.md).
 
 ## Procedure
 
@@ -108,7 +108,7 @@ Optional brief description.
 
     2.  On the Add invoice line item to case window, select one or more invoice lines and select **Add**.
 
-        For a description of the Add invoice line items to case list view, see [Invoice line item details on Business Portal](../reference/invoice-line-item-business-portal.md).
+        For a description of the Add invoice line items to case list view, see [Invoice line item details on Business Portal](invoice-line-item-business-portal.md).
 
         Invoice case lines are created corresponding to the invoice records.
 
@@ -151,5 +151,5 @@ Follow up on your invoice case. For more information, see [Communicate and share
 **Related topics**  
 
 
-[Invoice case details on the Business Portal](../reference/invoice-case-header-list-view.md)
+[Invoice case details on the Business Portal](invoice-case-header-list-view.md)
 

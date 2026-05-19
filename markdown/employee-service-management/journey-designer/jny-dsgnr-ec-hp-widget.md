@@ -30,7 +30,7 @@ Administrators can add the **EC homepage journey tabs** to their organizations E
     Journey owners with active journeys for their team see the **Team journeys** tab.
 
 
--   **[Add Journey designer widget](../task/jny-dsgnr-ec-jrny-tab-widget.md)**  
+-   **[Add Journey designer widget](jny-dsgnr-ec-jrny-tab-widget.md)**  
 The Journey designer widget is not on the Employee Center home page by default. An administrator must add it.
 
 **Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)

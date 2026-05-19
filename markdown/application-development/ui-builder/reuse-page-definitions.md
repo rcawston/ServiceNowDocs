@@ -23,7 +23,7 @@ Role required: ui\_builder\_admin
 
 ## About this task
 
-Select a page template when creating a page in your experience. After creating a page from a template, you can customize the page to your needs. Page templates include controllers that can be used with component presets. See [Bind data to UI Builder pages using controllers \(advanced feature\)](../concept/controllers.md#) for more information.
+Select a page template when creating a page in your experience. After creating a page from a template, you can customize the page to your needs. Page templates include controllers that can be used with component presets. See [Bind data to UI Builder pages using controllers \(advanced feature\)](controllers.md#) for more information.
 
 ## Procedure
 
@@ -31,7 +31,7 @@ Select a page template when creating a page in your experience. After creating a
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Select the **Create new page** in the center of the screen.
 
@@ -75,7 +75,7 @@ Select a page template when creating a page in your experience. After creating a
 
 14. Select **Create** to create your page from template.
 
-    The page you created displays in the **Page** section of your experience. Select **Editor** to start adding components to your page. For more information, see [Customize UI Builder pages using components](../concept/work-components.md).
+    The page you created displays in the **Page** section of your experience. Select **Editor** to start adding components to your page. For more information, see [Customize UI Builder pages using components](work-components.md).
 
 
 **Parent Topic:**[Create a page in UI Builder](create-page.md)

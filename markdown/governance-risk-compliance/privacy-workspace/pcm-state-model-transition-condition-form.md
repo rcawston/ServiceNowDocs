@@ -94,5 +94,5 @@ Script
 Script to be defined for this state transition. This field appears only when **Transition Script** is selected from **Requires**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Define the model state transitions for a privacy case](../task/create-a-model-state-transition-for-privacy-case.md)
+</table>**Parent Topic:**[Define the model state transitions for a privacy case](create-a-model-state-transition-for-privacy-case.md)
 

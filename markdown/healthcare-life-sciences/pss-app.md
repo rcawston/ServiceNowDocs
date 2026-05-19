@@ -49,7 +49,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables and properties.](../reference/pss-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables and properties.](pss-reference.md)
 
 </td><td>
 

@@ -21,7 +21,7 @@ Overview of Register a Microsoft Entra ID application
 
 ## Before you begin
 
-Microsoft Entra ID Role required: Refer to the [Minimal user permissions](../concept/integrate-with-microsoft.md) table.
+Microsoft Entra ID Role required: Refer to the [Minimal user permissions](integrate-with-microsoft.md) table.
 
 ## Procedure
 

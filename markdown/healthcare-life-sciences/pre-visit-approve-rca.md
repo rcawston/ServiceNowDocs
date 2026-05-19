@@ -19,5 +19,5 @@ Starting with the Yokohama release, Pre-Visit Management is being prepared for f
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-To access document templates from the Pre-Visit Management application, as an administrator, you must approve the required RCA privileges. For more information, see [Approve restricted caller access privileges for Healthcare and Life Sciences Service Management](hcls-approving-rca.md#).
+To access document templates from the Pre-Visit Management application, as an administrator, you must approve the required RCA privileges. For more information, see [Approve restricted caller access privileges for Healthcare and Life Sciences Service Management](healthcare-and-life-sciences-service-management-core/hcls-approving-rca.md#).
 

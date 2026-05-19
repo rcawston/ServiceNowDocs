@@ -15,11 +15,11 @@ breadcrumb: [User privacy, tracking, and consent, Configuring Usage Insights, Us
 
 Usage Insights tracks data from several sources, including web and mobile analytics fields and client-side cookies.
 
--   **[Tracked web analytics fields for Usage Insights](../reference/uxa-tracked-web-analytics.md)**  
+-   **[Tracked web analytics fields for Usage Insights](uxa-tracked-web-analytics.md)**  
 Usage Insights collects data from web applications. These tables list the fields that are tracked. Reports and charts are generated from these fields.
--   **[Tracked mobile analytics fields for Usage Insights](../reference/uxa-tracked-mobile-analytics.md)**  
+-   **[Tracked mobile analytics fields for Usage Insights](uxa-tracked-mobile-analytics.md)**  
 Usage Insights collects data from mobile applications on your mobile device. These tables list fields that are tracked in the mobile applications. Reports and charts are generated from these fields.
--   **[Usage Insights client-side storage cookies](../reference/uxa-tracked-client-cookies.md)**  
+-   **[Usage Insights client-side storage cookies](uxa-tracked-client-cookies.md)**  
 To track client-side user activity, Usage Insights uses the SNAnalytics JavaScript SDK that is embedded in Platform Analytics, Core UI, and the Service Portal.
 
 **Parent Topic:**[User privacy, tracking, and user consent management in Usage Insights](user-exp-analytics-track-options.md)

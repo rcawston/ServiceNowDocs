@@ -22,7 +22,7 @@ The portable chat widget is a new Seismic component that makes it easy to add Vi
 -   Connect to Service Portal Agent Chat
 -   System parameters and context variables work the same as before
 
-    **Note:** Do not use **/$sn-va-web-client-app.do?** or **/sn\_va\_web\_client\_app\_embed.do** as a standalone page configuration. Instead, refer to the information in [Virtual Agent URL parameters](../reference/va-sysparm.md) for how to embed the Virtual Agent chat widget successfully.
+    **Note:** Do not use **/$sn-va-web-client-app.do?** or **/sn\_va\_web\_client\_app\_embed.do** as a standalone page configuration. Instead, refer to the information in [Virtual Agent URL parameters](va-sysparm.md) for how to embed the Virtual Agent chat widget successfully.
 
 
 ## Prerequisites for using the portable Virtual Agent chat widget
@@ -51,11 +51,11 @@ These properties determine the security policy for the embedded chat widget, nam
 
 **Note:** If you're using the Content Management System \(CMS\) application to create custom interfaces for the ServiceNow AI Platform and ServiceNow® applications, be aware that it does not support Virtual Agent.
 
--   **[Configure the portable Virtual Agent chat widget](../task/configure-portable-va-web-client.md)**  
+-   **[Configure the portable Virtual Agent chat widget](configure-portable-va-web-client.md)**  
 Configure the portable Virtual Agent chat widget to run Virtual Agent on third-party web pages.
--   **[Add the portable Virtual Agent chat widget to a third-party website](../task/add-portable-va-client-website.md)**  
+-   **[Add the portable Virtual Agent chat widget to a third-party website](add-portable-va-client-website.md)**  
 To use the portable chat widget for Virtual Agent on third-party web pages, add the necessary code to your web page.
--   **[Embed the Virtual Agent chat widget in an external web page \(legacy method\)](../task/create-va-standalone-client.md)**  
+-   **[Embed the Virtual Agent chat widget in an external web page \(legacy method\)](create-va-standalone-client.md)**  
 Load the Virtual Agent chat widget interface in an external web page by using an inline frame element \(iframe\). You can also optionally enable the single sign-on \(SSO\) authentication process to run automatically for guest users who are using the chat widget and are not logged in.
 
 **Parent Topic:**[Configuring Virtual Agent](configure-virtual-agent.md)
@@ -63,7 +63,7 @@ Load the Virtual Agent chat widget interface in an external web page by using an
 **Related topics**  
 
 
-[Configure the portable Virtual Agent chat widget](../task/configure-portable-va-web-client.md)
+[Configure the portable Virtual Agent chat widget](configure-portable-va-web-client.md)
 
-[Add the portable Virtual Agent chat widget to a third-party website](../task/add-portable-va-client-website.md)
+[Add the portable Virtual Agent chat widget to a third-party website](add-portable-va-client-website.md)
 

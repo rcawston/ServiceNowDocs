@@ -33,6 +33,6 @@ Role required: sn\_csm\_ocs.ext\_agent
 
     A knowledge gap is created and you can view it under the **Knowledge Gaps** related list.
 
-    For more details, see [Report a knowledge gap](../../../administer/workspace/task/csm-workspace-report-knowledge-gap.md)
+    For more details, see [Report a knowledge gap](csm-workspace-report-knowledge-gap.md)
 
 

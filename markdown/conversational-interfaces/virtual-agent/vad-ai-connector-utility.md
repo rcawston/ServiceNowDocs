@@ -60,7 +60,7 @@ Input and Output mappings
 
 </td><td>
 
-All input and output mappings are based on the custom skill you select. For more information on custom skills, see [Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md), [Managing custom skills in Assistant Designer Asset library](../concept/managing-custom-skills.md), and [Using AI agents in Virtual Agent topics](../../now-assist-skill-kit/reference/ai-agent-custom-skill.md).
+All input and output mappings are based on the custom skill you select. For more information on custom skills, see [Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md), [Managing custom skills in Assistant Designer Asset library](managing-custom-skills.md), and [Using AI agents in Virtual Agent topics](ai-agent-custom-skill.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 

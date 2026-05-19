@@ -17,7 +17,7 @@ If an existing automation template doesn't fit your application goal, define cus
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -93,7 +93,7 @@ Run with roles
 
 Roles that the flow runs with. This option is available only when **Run as** is set to **User who initiates session**.
 
- To use a custom role for your flow, you must create one in **Security** first. For more information, see [Add application security](../concept/add-security.md).
+ To use a custom role for your flow, you must create one in **Security** first. For more information, see [Add application security](add-security.md).
 
 </td></tr></tbody>
 </table>7.  On the summary screen, select **Edit this flow** to open your flow.
@@ -185,5 +185,5 @@ Test your flow until you're ready to activate it. For more information on testin
 -   **[Modify a flow](edit-flow.md)**  
 To update or change an existing flow for an app you built in App Engine Studio \(AES\), edit it.
 
-**Parent Topic:**[Add logic and automation](../concept/add-automation.md)
+**Parent Topic:**[Add logic and automation](add-automation.md)
 

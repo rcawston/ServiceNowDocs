@@ -44,7 +44,7 @@ Only one category is required for each survey, but you can add additional catego
 6.  Click **Update**.
 
 
-**Parent Topic:**[Survey categories](../concept/c_SurveyCategory.md)
+**Parent Topic:**[Survey categories](c_SurveyCategory.md)
 
 **Related topics**  
 

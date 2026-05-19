@@ -59,5 +59,5 @@ One resource assignment ranges from July 16 to September 09, and the other assig
 
 Here, you can see an overlap of efforts for `Implement GenAI in docs` in month of September because the split is happening from September 10.
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](using-rmw.md)
 

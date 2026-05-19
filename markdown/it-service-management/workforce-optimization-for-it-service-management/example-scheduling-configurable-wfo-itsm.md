@@ -27,7 +27,7 @@ The manager and their team can manage schedules by performing the following step
 4.  Publish the schedule
 5.  Agents make requests to change the schedule or take time off
 
-    For more information, refer to [Service Operations Workspace - Scheduling](../../service-operations-workspace/concept/itsm-sow-workspace-scheduling.md).
+    For more information, refer to [Service Operations Workspace - Scheduling](../service-operations-workspace/itsm-sow-workspace-scheduling.md).
 
 6.  Approve requests
 
@@ -41,5 +41,5 @@ Get an overview of how agents use the workspace to manage their schedule.
 
 Workforce Optimization for ITSM Agent Schedule
 
-For detailed information on creating and managing schedules using Workforce Optimization for ITSM, refer to [Scheduling in Workforce Optimization for ITSM](../reference/configurable-wfo-itsm-scheduling-reference.md).
+For detailed information on creating and managing schedules using Workforce Optimization for ITSM, refer to [Scheduling in Workforce Optimization for ITSM](configurable-wfo-itsm-scheduling-reference.md).
 

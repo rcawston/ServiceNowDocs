@@ -72,5 +72,5 @@ Recipients
 People who receive the communication.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Critical Event Management reference](../concept/critical-event-management-reference.md)
+</table>**Parent Topic:**[Critical Event Management reference](critical-event-management-reference.md)
 

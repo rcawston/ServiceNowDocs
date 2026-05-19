@@ -23,7 +23,7 @@ Role required: sn\_releaseops.releaseops\_tester or sn\_releaseops.releaseops\_d
 
 The Automated Test Framework \(ATF\) code coverage threshold is the percentage of code that is covered by ATF test suites. By default, if ATF test suites cover less than 70 percent of the code in a deployment request, ReleaseOps transitions the deployment request to the **Reconciling** state and a test failure task is automatically created. You can adjust the ATF code coverage threshold in your deployment request assessment playbook.
 
-To learn more about ATF code coverage, see [Deployment analyzer in ReleaseOps](../concept/deployment-analyzer.md).
+To learn more about ATF code coverage, see [Deployment analyzer in ReleaseOps](deployment-analyzer.md).
 
 ## Procedure
 

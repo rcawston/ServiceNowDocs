@@ -83,5 +83,5 @@ Check box for activating the rule.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Software Asset Management Foundation plugin Administration](../concept/c_SAMAdministrationSAMF.md)
+**Parent Topic:**[Software Asset Management Foundation plugin Administration](c_SAMAdministrationSAMF.md)
 

@@ -32,5 +32,5 @@ In the Industrial Workspace, the OT incident viewer can view OT incidents in the
 
 The OT incident administrator can go to any OT incident record in the Industrial Workspace and delete it.
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

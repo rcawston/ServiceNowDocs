@@ -123,5 +123,5 @@ Role for viewing the sales territory associated on the CRM entities like Lead, O
 -   sn\_sales\_territory.sales\_territory\_basic
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Lead and opportunity management reference](../concept/reference-lead-opportunity-mgt.md)
+</table>**Parent Topic:**[Lead and opportunity management reference](reference-lead-opportunity-mgt.md)
 

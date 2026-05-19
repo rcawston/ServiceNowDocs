@@ -30,5 +30,5 @@ Role required: admin
     **Note:** `UpdateFormulasSD` is a scheduled job that executes once in 24 hours.
 
 
-**Parent Topic:**[Configuring ITSM Success Dashboard indicators](../concept/configure-success-dashboards.md)
+**Parent Topic:**[Configuring ITSM Success Dashboard indicators](configure-success-dashboards.md)
 

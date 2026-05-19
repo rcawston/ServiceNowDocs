@@ -183,7 +183,7 @@ Role required: admin
 
         ![View details of the Box connection.](../image/box-conn-view-det.png)
 
-    -   To manage more than one Box spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Box spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Configure the Box connection.](../image/box-conf-connection.png)

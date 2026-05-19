@@ -28,7 +28,7 @@ The **Workflows** tab lists existing workflows that you can edit or use as subfl
 
 ## Core tab
 
-The **Core** tab contains the standard activities available by default to all workflows and any activities purchased with Orchestration, organized by category. Click the arrow icons to expand or collapse the activity lists under each category. To add an activity to a workflow, drag it to the canvas. For more information, see [Add an activity to a workflow](../../using-workflows/task/t_AddAnActivityToAWorkflow.md#).
+The **Core** tab contains the standard activities available by default to all workflows and any activities purchased with Orchestration, organized by category. Click the arrow icons to expand or collapse the activity lists under each category. To add an activity to a workflow, drag it to the canvas. For more information, see [Add an activity to a workflow](../workflow-activities/t_AddAnActivityToAWorkflow.md#).
 
 ![](../image/WorkflowCoreTab.png "Core tab in the palette")
 

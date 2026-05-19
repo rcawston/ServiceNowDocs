@@ -113,7 +113,7 @@ End date of the workspace assignments.
 </td></tr></tbody>
 </table>**Note:** You can edit a schedule plan only if it is in the Draft state. If the schedule plan is not in the Draft state, you can only change the **Name**, **Assigned to**, and **Description** fields.
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

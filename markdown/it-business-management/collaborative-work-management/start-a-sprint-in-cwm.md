@@ -52,5 +52,5 @@ Role required: sn\_cwm.cwm\_user
     The sprint is marked as complete and is no longer displayed on the Sprint planning view anymore. All the open items are moved into the next sprint or to the backlog based on your selection.
 
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](agile-sprint-planning-in-cwm.md)
 

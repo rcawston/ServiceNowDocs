@@ -45,5 +45,5 @@ As a user with the sn\_vaccine\_sm.clinician role, you can also perform the foll
 -   **Mark as complete**
 -   **Mark as no-show**
 
-**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](../concept/user-appt-mngt-clinicans-agents.md)
+**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](user-appt-mngt-clinicans-agents.md)
 

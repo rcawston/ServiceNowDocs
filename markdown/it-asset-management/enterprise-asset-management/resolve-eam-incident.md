@@ -87,5 +87,5 @@ Role required: itil
     The incident is closed.
 
 
-**Parent Topic:**[Managing incidents in Enterprise Asset Management](../concept/managing-eam-incidents.md)
+**Parent Topic:**[Managing incidents in Enterprise Asset Management](managing-eam-incidents.md)
 

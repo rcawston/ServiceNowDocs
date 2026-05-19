@@ -46,5 +46,5 @@ By default, this property is set as true. If you set the property as false, all 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Unfurl the web links in Microsoft Teams chat](../concept/enable-link-unfurling-it.md)
+**Parent Topic:**[Unfurl the web links in Microsoft Teams chat](enable-link-unfurling-it.md)
 

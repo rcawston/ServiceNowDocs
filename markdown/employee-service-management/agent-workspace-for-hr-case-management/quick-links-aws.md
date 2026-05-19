@@ -17,7 +17,7 @@ Configure quick links to quickly access internal and external resources related 
 
 ## Before you begin
 
-Employee Center Pro must be installed. For more information, see [Install Employee Center Pro](../../employee-center/task/install-ec-pro.md).
+Employee Center Pro must be installed. For more information, see [Install Employee Center Pro](../employee-experience-foundation/install-ec-pro.md).
 
 Role required: sn\_hr\_agent\_ws.admin and sn\_hr\_core.basic
 
@@ -184,7 +184,7 @@ Final date the content is valid.
     7.  Select **Save**.
 
 
-**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](../concept/uib-aws.md)
+**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](uib-aws.md)
 
 **Related topics**  
 

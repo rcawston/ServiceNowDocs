@@ -43,5 +43,5 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
     The new priority is reflected in the incident list view and incident header and form field.
 
 
-**Parent Topic:**[Working with incidents in SRM](../concept/sr-work-incidents.md)
+**Parent Topic:**[Working with incidents in SRM](sr-work-incidents.md)
 

@@ -56,7 +56,7 @@ Add the time slot to the reservable module. The time slot will be displayed in t
 -   **[Add a time slot to a reservable module](add-timeslot-to-reservable-module.md)**  
 After you create a time slot, assign the time slot to a reservable module that is configured for reservation on the Quick Reservation widget. When an employee wants to reserve a workplace item of this reservable module, the employee can select a time slot for reservation.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -95,9 +95,9 @@ After you create a time slot, assign the time slot to a reservable module that i
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

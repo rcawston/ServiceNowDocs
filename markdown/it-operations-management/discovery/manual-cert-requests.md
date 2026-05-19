@@ -19,7 +19,7 @@ A scheduled job examines the Unique Certificates \[cmdb\_ci\_certificate\] table
 
 Things to consider for renewal of certificates:
 
--   Tasks for certificate renewals are automatically generated 60 days prior to expiration. To modify the timeframe, update the [Discovery property](../reference/r_DiscoveryProperties.md): **glide.discovery.certs.days\_before\_expiration\_to\_create\_renewal\_task**.
+-   Tasks for certificate renewals are automatically generated 60 days prior to expiration. To modify the timeframe, update the [Discovery property](r_DiscoveryProperties.md): **glide.discovery.certs.days\_before\_expiration\_to\_create\_renewal\_task**.
 
     **Note:** It's enough to configure the **glide.discovery.certs.days\_before\_expiration\_to\_create\_renewal\_task system property** for the automatic creation of manual certificate tasks. You don’t need to custom configure the **CertificateNotifier** or other prefilters.
 

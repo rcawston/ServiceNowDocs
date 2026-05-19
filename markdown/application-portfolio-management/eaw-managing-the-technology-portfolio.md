@@ -60,11 +60,11 @@ You can use Technology Reference Model \(TRM\) lifecycles with wildcards to upda
 **Related topics**  
 
 
-[Approve or reject TRM requests](../../task/eaw-task/eaw-approve-trm-req.md)
+[Approve or reject TRM requests](eaw-approve-trm-req.md)
 
 [Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
-[View TPM and TRM lifecycle timelines on the Gantt chart](../../task/eaw-task/eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md)
+[View TPM and TRM lifecycle timelines on the Gantt chart](eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md)
 
 [Gantt view of TPM and TRM lifecycle timelines](eaw-gantt-view-of-tpm-and-trm-lifecycle-timelines.md)
 

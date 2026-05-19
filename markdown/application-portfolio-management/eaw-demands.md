@@ -20,7 +20,7 @@ The strategy that you associate with the demand action decides the strategy for 
 **Related topics**  
 
 
-[View all demands](../../task/eaw-task/eaw-view-all-demands.md)
+[View all demands](eaw-view-all-demands.md)
 
-[Add or edit a demand](../../task/eaw-task/eaw-create-demand-ba.md)
+[Add or edit a demand](eaw-create-demand-ba.md)
 

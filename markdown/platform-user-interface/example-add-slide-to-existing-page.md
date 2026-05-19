@@ -70,5 +70,5 @@ You can create a panel that displays a screenshot of auditing gauges to users wi
     The image you selected for your custom panel appears with the title and description you defined.
 
 
-**Parent Topic:**[Overview help pages](../concept/overview-help-pages.md)
+**Parent Topic:**[Overview help pages](overview-help-pages.md)
 

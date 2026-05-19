@@ -26,17 +26,17 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor, sn\_irm\_shared\_cmn
 
 **Important:** You must set up the ServiceNow Document designer for Word plugin before you create a Microsoft Word template and generate the audit report for an engagement record.
 
-For more information, see [Content configuration](../../grc-common/concept/configuring-audit-word-based-templates.md) and [Create Word template record for an audit engagement](../../grc-audit/task/configure-audit-word-template.md).
+For more information, see [Content configuration](../grc-common-functions/configuring-audit-word-based-templates.md) and [Create Word template record for an audit engagement](configure-audit-word-template.md).
 
 ## About this task
 
 To generate an audit Word report, you must navigate to **All** &gt; **Audit** &gt; **Audit Report** and set up the following administrative steps for a Word template:
 
--   [Create content configurations](../../grc-common/task/create-content-configurations.md)
--   [Create Word Report Templates](../../grc-audit/reference/audit-word-template-form.md)
--   [Create Word Template Categories](../../grc-audit/reference/audit-word-template-category.md)
+-   [Create content configurations](../grc-common-functions/create-content-configurations.md)
+-   [Create Word Report Templates](audit-word-template-form.md)
+-   [Create Word Template Categories](audit-word-template-category.md)
 
--   If you had selected the **Classic report template** option in the **Template type** field while creating the engagement record, then the reports are generated as a Knowledge Base, while the input template is in HTML, script, or XML. For more information, see [Create an audit report template](../../grc-common/task/create-audit-report-temp.md).
+-   If you had selected the **Classic report template** option in the **Template type** field while creating the engagement record, then the reports are generated as a Knowledge Base, while the input template is in HTML, script, or XML. For more information, see [Create an audit report template](create-audit-report-temp.md).
 -   If you had selected the **Word report template** option in the **Template type** field as an input template while creating the engagement, then the Word template report that is generated is a Word file.
 
 You can apply the Microsoft Word template to one or more audit engagement records and generate the audit report in Word format. You can use the Word document to collaborate with other stakeholders for report editing.
@@ -75,14 +75,14 @@ The generated report can be saved at the Microsoft SharePoint or Google Drive si
         If there are no Word templates created for this record, then a message appears stating so.
 
     -   If the Word template is cloud enabled, then a message pops up with the destination where the generated report would be saved after it's generated.
-    -   If you had not set up the cloud file configuration for the engagement record, then an error message appears. To enable cloud file configuration, see [Manage your documents and work papers with Audit Management as cloud files](../../grc-audit/concept/manage-cloud-docs-using-onedrive-int.md).
+    -   If you had not set up the cloud file configuration for the engagement record, then an error message appears. To enable cloud file configuration, see [Manage your documents and work papers with Audit Management as cloud files](manage-cloud-docs-using-onedrive-int.md).
 7.  Enter a unique name for the report in the **Name of report** field.
 
 8.  Select **Generate**.
 
     A message appears stating that the report generation has been initiated.
 
-9.  If you hadn’t selected the **Cloud enabled** option in the [Word template form](../../grc-audit/reference/audit-word-template-form.md), then select the attachment \(![Attachment icon.](../../assessment-engine/image/attachment-icon.png)\) icon to download the report.
+9.  If you hadn’t selected the **Cloud enabled** option in the [Word template form](audit-word-template-form.md), then select the attachment \(![Attachment icon.](../../assessment-engine/image/attachment-icon.png)\) icon to download the report.
 
     A message appears confirming that the report is being generated as an attachment.
 
@@ -98,7 +98,7 @@ The generated report can be saved at the Microsoft SharePoint or Google Drive si
 
         You can also check your most recent report as a URL or as an attachment in the **Report** field of the Report section in the engagement form.
 
-        For details on cloud document management, see [Manage your documents and work papers with Audit Management as cloud files](../../grc-audit/concept/manage-cloud-docs-using-onedrive-int.md).
+        For details on cloud document management, see [Manage your documents and work papers with Audit Management as cloud files](manage-cloud-docs-using-onedrive-int.md).
 
     A Word report attachment is created each time you generate the report. By default, only the latest Word report is attached to the record. However, there's a system property that you can set to retain the previous attachments even when a new report is generated with the latest attachment.
 
@@ -106,6 +106,6 @@ The generated report can be saved at the Microsoft SharePoint or Google Drive si
 
     As an audit admin, you can set the property as true to retain the previous attachments with the engagement record. All the previous attachments are available to view in the Attachments section. Retaining the previous attachments helps you to track an audit trail on the engagement.
 
-    To reset the property, navigate to **All** &gt; **Audit** &gt; **Administration** &gt; **Properties**. See, [Properties installed with Audit Management and Advanced Audit](../../grc-audit/reference/r_InstallWAudit.md#).
+    To reset the property, navigate to **All** &gt; **Audit** &gt; **Administration** &gt; **Properties**. See, [Properties installed with Audit Management and Advanced Audit](r_InstallWAudit.md#).
 
 

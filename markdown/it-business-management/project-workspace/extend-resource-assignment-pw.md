@@ -71,12 +71,12 @@ Procedure
 -   The assignment end date is updated and allocation is created based on resource's availability.
 -   The extended FTE or hours or person days is divided equally for the extended resource period.
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](resource-assignments-pw.md)
 
 **Related topics**  
 
 
-[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+[Resource assignments in Project Workspace](resource-assignments-pw.md)
 
 [Create resource assignments using Project Workspace](create-resource-assignment-prj-wksp.md)
 

@@ -37,12 +37,12 @@ To enable this feature in Contract Management Pro, do the following:
     -   Legal contract owner \[sn\_lg\_cnt.contract\_owner\]
 4.  Enable the Now Assist panel for your instance. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](../concept/cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](../concept/cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](cncore-conf-cntrct-wrkspc.md)
 
 [Configure signature pause duration when modifying signatories](cncore-pause-sig-property.md)
 
@@ -58,5 +58,5 @@ To enable this feature in Contract Management Pro, do the following:
 
 [Copy fields from parent request to amendment request](cncore-cpy-fld-parent-amedreq.md)
 
-[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+[Manage notifications in Contract Management Pro](cmpro-manage-notifications.md)
 

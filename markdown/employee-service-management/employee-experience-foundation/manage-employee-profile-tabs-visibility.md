@@ -64,7 +64,7 @@ For employees, the tab UI appears only when more than one tab is available for d
 
 6.  On the Tab widget mapping form, fill in the fields.
 
-    For a description of the field values, see [Tab widget mapping form](../reference/tab-widget-mapping-form.md). The Tab widget mapping **sys\_id** is available in the **tabWidgetMappingId** variable of the widget options object.
+    For a description of the field values, see [Tab widget mapping form](tab-widget-mapping-form.md). The Tab widget mapping **sys\_id** is available in the **tabWidgetMappingId** variable of the widget options object.
 
     **Note:** The **widgetTitle**, **tabWidgetMappingId**, and **isUserSelectionEnabled** variables are available only within the scope of the Employee Profile tab UI.
 
@@ -80,5 +80,5 @@ The admin can use the instance options to configure the visibility of the naviga
 **Related topics**  
 
 
-[Employee profile](../concept/employee-profile-portal.md)
+[Employee profile](employee-profile-portal.md)
 

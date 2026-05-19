@@ -57,7 +57,7 @@ Role required: sn\_dpr\_model.release\_coordinator, sn\_dpr\_model.product\_mana
     To view the details of a change request, select it from the list.
 
 
-**Parent Topic:**[Managing multiple releases through release bundles](../concept/dpr-release-bundle.md)
+**Parent Topic:**[Managing multiple releases through release bundles](dpr-release-bundle.md)
 
 **Related topics**  
 

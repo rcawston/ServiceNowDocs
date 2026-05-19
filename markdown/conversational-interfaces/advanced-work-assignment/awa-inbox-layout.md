@@ -27,9 +27,9 @@ Up to five fields can be shown in the card layout.
 
 ## Layout example
 
-For chats that do not have either a contact or consumer, the layout includes only the chat subject. You control the display of the **Time to accept** count \(timer\) and the **Reject** button through the [agent assignment rules](../task/awa-create-assignment-rule.md).
+For chats that do not have either a contact or consumer, the layout includes only the chat subject. You control the display of the **Time to accept** count \(timer\) and the **Reject** button through the [agent assignment rules](awa-create-assignment-rule.md).
 
 ![Agent Workspace inbox with chat layout.](../image/chat-inbox-layout.png)
 
-See [Create or change an inbox layout](../task/awa-modify-inbox-layout.md) for more information on accessing and modifying an inbox layout.
+See [Create or change an inbox layout](awa-modify-inbox-layout.md) for more information on accessing and modifying an inbox layout.
 

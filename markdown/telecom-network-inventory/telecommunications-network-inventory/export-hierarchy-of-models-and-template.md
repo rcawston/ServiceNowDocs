@@ -64,5 +64,5 @@ Export selected related records of a model or inventory template in your chosen 
 
 The selected model or inventory template with all related records is downloaded in the selected format.
 
-**Parent Topic:**[Import models and templates](../concept/import-models-and-templates.md)
+**Parent Topic:**[Import models and templates](import-models-and-templates.md)
 

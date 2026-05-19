@@ -18,7 +18,7 @@ Users with the agent calendar user role can add events to their personal calenda
 **Related topics**  
 
 
-[Configuring an agent calendar](configure-agent-calendar.md)
+[Configuring an agent calendar](../workforce-optimization-for-field-service/configure-agent-calendar.md)
 
 [Managing agent calendar](agent-calendar.md)
 

@@ -41,7 +41,7 @@ The skills that come with the Now Assist applications have default configuration
     **Note:**
 
     -   For skill copy, admin can edit the name and description. Once the skill is copied, by default you see \(Copy\) as a suffix. Only one version of a skill can be active at a time. If you create and activate a copy of the skill, any previously activated version of the skill is deactivated.
-    -   [Cloning](../concept/clone-the-now-assist-for-csm-skills.md#) can also be done from Now Assist Skill Kit.
+    -   [Cloning](clone-the-now-assist-for-csm-skills.md#) can also be done from Now Assist Skill Kit.
 
 ## Result
 
@@ -49,5 +49,5 @@ A copy of the Automated quality assurance skill is generated, and you're taken t
 
 ## What to do next
 
-Continue the steps in the guided setup to activate the skill. For more information, see [Activate Automated quality assurance skill](../concept/quality-assurance-management.md).
+Continue the steps in the guided setup to activate the skill. For more information, see [Activate Automated quality assurance skill](quality-assurance-management.md).
 

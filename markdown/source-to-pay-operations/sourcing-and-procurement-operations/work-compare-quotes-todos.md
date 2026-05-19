@@ -59,5 +59,5 @@ Reject all the quotes if none of them serve your purpose.**Note:** When rejectin
 </table>5.  Select **Submit**.
 
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](shopper-todos.md)
 

@@ -36,5 +36,5 @@ The following items are installed with Email:OAUTH support for IMAP, Microsoft G
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[OAuth email authentication](../concept/c_OAuthEmailAuthentication.md)
+**Parent Topic:**[OAuth email authentication](c_OAuthEmailAuthentication.md)
 

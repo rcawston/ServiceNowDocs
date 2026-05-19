@@ -139,7 +139,7 @@ For example: Select **Building B**.
 
     Select the **Skip scheduling** option if you don’t want to create a schedule now and prefer to create it later. After publishing a maintenance plan, you can create a schedule or copy an existing schedule for a plan.
 
-    For more information, see [Create or copy a maintenance schedule](create-maint-schedule.md). For more information about how the scheduled job creates maintenance cases for a plan record, see [Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md).
+    For more information, see [Create or copy a maintenance schedule](create-maint-schedule.md). For more information about how the scheduled job creates maintenance cases for a plan record, see [Workplace planned maintenance scheduled job](sch-job-planned-nightly.md).
 
 10. Select **Save**.
 
@@ -155,12 +155,12 @@ For example: Select **Building B**.
 
     Status of the maintenance plan moves to the **In progress** state. For more information about the calendar view, see [Maintenance plan calendar view](cal-view-overview.md).
 
-    The **Schedules tab** shows the **Next run time** for a scheduled job. The scheduled job **Workplace Maintenance Nightly run** runs every 48 hours \(2 days\) and creates maintenance cases for active plan records. For more information, see [Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md).
+    The **Schedules tab** shows the **Next run time** for a scheduled job. The scheduled job **Workplace Maintenance Nightly run** runs every 48 hours \(2 days\) and creates maintenance cases for active plan records. For more information, see [Workplace planned maintenance scheduled job](sch-job-planned-nightly.md).
 
 
-**Parent Topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Parent Topic:**[Manage Workplace Maintenance Management plans](manage-maintenance-plans.md)
 
-**Previous topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Previous topic:**[Manage Workplace Maintenance Management plans](manage-maintenance-plans.md)
 
 **Next topic:**[Maintenance plan calendar view](cal-view-overview.md)
 

@@ -93,7 +93,7 @@ If you are upgrading from version 1.0.2 or earlier of Performance Analytics Cont
 -   Sprint Variance
 -   Story Cycle Time
 
-For more information, see [Upgrading the layout of Agile 2.0 dashboards](../reference/using-solution-library-for-agile-2.0-dashboards.md).
+For more information, see [Upgrading the layout of Agile 2.0 dashboards](using-solution-library-for-agile-2.0-dashboards.md).
 
 <table id="table_xvt_hl4_2fb"><thead><tr><th>
 

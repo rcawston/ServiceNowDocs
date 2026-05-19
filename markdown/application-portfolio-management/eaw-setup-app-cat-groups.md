@@ -15,7 +15,7 @@ An application category group is a collection of application categories. Categor
 
 You can create an application category groups or edit an existing one to align it with your business requirements.
 
--   **[Add or edit an application category group](../../task/eaw-task/eaw-create-app-cat-grp.md)**  
+-   **[Add or edit an application category group](eaw-create-app-cat-grp.md)**  
 Add or edit an application category group and align it with your business requirements. Category groups help with the filtering and reporting of the application categories
 
 **Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)
@@ -25,5 +25,5 @@ Add or edit an application category group and align it with your business requir
 
 [Manage application category groups](eaw-configure-application-category-groups.md)
 
-[View all application category groups](../../task/eaw-task/eaw-view-all-application-category-groups.md)
+[View all application category groups](eaw-view-all-application-category-groups.md)
 

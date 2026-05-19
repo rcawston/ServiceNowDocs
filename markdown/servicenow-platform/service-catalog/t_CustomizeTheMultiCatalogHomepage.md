@@ -53,5 +53,5 @@ This task is similar to customizing the homepage for an individual catalog. In t
     The catalogs appear on the homepage.
 
 
-**Parent Topic:**[Service catalog home page configuration](../concept/c_ManagingTheHomepageForACatalog.md)
+**Parent Topic:**[Service catalog home page configuration](c_ManagingTheHomepageForACatalog.md)
 

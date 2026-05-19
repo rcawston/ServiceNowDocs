@@ -52,7 +52,7 @@ For more information, see the [ServiceNow store](https://store.servicenow.com/).
 
 ## Security analyst experience
 
-To understand how to resolve security threats in a step-by-step manner, see [Resolve security threats with the playbook](../task/use-the-playbook.md#).
+To understand how to resolve security threats in a step-by-step manner, see [Resolve security threats with the playbook](use-the-playbook.md#).
 
 ## Using Failed Login playbook with Flow Designer capabilities
 

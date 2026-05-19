@@ -64,7 +64,7 @@ Role required: admin.
 
         ![Configure the default connection.](../image/exchange-server-conn1.png "Default connection record")
 
-    -   To manage more than one Microsoft Exchange Server spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Microsoft Exchange Server spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Configure button for Exchange alias.](../image/configure-button-exchange-alias.png "Configure button for Exchange alias")
@@ -149,7 +149,7 @@ Role required: admin.
 
         ![Configure the default connection record.](../image/exchange-server-https-conn1.png "Default connection record")
 
-    -   To manage more than one Microsoft Exchange Server spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Microsoft Exchange Server spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Configure button for Exchange_https connection record alias.](../image/set-exchange-https-alias-conn-record.png "Configure button for Exchange_https connection record alias")

@@ -76,7 +76,7 @@ The sender uses a private key to sign the email and the ServiceNow AI Platform u
 
 The sender uses the public key to encrypt the email and the ServiceNow AI Platform uses the private key to decrypt the email.
 
--   **[Activate S/MIME Email](../task/activate-smime-plugin.md)**  
+-   **[Activate S/MIME Email](activate-smime-plugin.md)**  
 You can activate the S/MIME Email plugin \(com.glide.email.smime\) for Notifications if you have the admin role.
 -   **[Setting up S/MIME for email](smime-for-email-signing-and-encryption.md)**  
 S/MIME is a protocol for sending digitally signed and encrypted emails to ensure the confidentiality, authenticity and integrity.

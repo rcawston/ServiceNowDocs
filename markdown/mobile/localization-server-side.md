@@ -21,9 +21,9 @@ The English portions aren't translated by the mobile device. The English text ca
 
 ![Mobile screens showing English as the instance language and Spanish as the native device language.](../image/localization-detail-1.png)
 
--   **[Create translation records for mobile](../task/mobile-translation.md)**  
+-   **[Create translation records for mobile](mobile-translation.md)**  
 Create records on the Translated Name / Field table to translate elements of your mobile app that aren't natively translated.
--   **[Translation values for mobile element](../reference/mobile-translation-reference.md)**  
+-   **[Translation values for mobile element](mobile-translation-reference.md)**  
 Use this reference to find which values to use to translate your mobile elements.
 
 **Parent Topic:**[Localization on mobile devices](localization-mobile-device.md)

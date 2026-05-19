@@ -17,7 +17,7 @@ Create a knowledge base to provide a self-service platform for users to store, s
 
 ## Before you begin
 
-Understand the [requirements](../reference/set-up-knowledge-admin-user.md) for setting up a knowledge base.
+Understand the [requirements](set-up-knowledge-admin-user.md) for setting up a knowledge base.
 
 Role required: knowledge\_admin or admin
 
@@ -123,7 +123,7 @@ Application
 
 </td><td>
 
-Application scope of the knowledge base. **Note:** This field is automatically set to the application selected in the application picker. For information about a scoped knowledge base, see [Scoped knowledge bases](../concept/scoped-knowledge-base-administration.md).
+Application scope of the knowledge base. **Note:** This field is automatically set to the application selected in the application picker. For information about a scoped knowledge base, see [Scoped knowledge bases](scoped-knowledge-base-administration.md).
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ Owner
 
 </td><td>
 
-The user responsible for the knowledge base. A knowledge base owner can assign other [roles](../reference/r_KnowledgeRoles.md#) to the knowledge base.
+The user responsible for the knowledge base. A knowledge base owner can assign other [roles](r_KnowledgeRoles.md#) to the knowledge base.
 
 </td></tr><tr><td>
 
@@ -199,7 +199,7 @@ Auto-create translation tasks
 
 </td><td>
 
-Option to enable creating translation tasks automatically after an article is published. If this option is selected, when a knowledge article is published in this knowledge base, translation tasks are automatically created for the configured languages.This field appears only when the translation management feature and **glide.knowman.translation.enable\_translation\_task** property are enabled. For more information, see [Translation management](../concept/translation-management.md) and [Knowledge Management properties](../reference/r_KnowledgeProperties.md#).
+Option to enable creating translation tasks automatically after an article is published. If this option is selected, when a knowledge article is published in this knowledge base, translation tasks are automatically created for the configured languages.This field appears only when the translation management feature and **glide.knowman.translation.enable\_translation\_task** property are enabled. For more information, see [Translation management](translation-management.md) and [Knowledge Management properties](r_KnowledgeProperties.md#).
 
 </td></tr><tr><td>
 
@@ -211,7 +211,7 @@ Languages enabled for the knowledge articles in this knowledge base. If your sys
 
  You can add more languages later. However, you can remove languages only when no knowledge articles exist in that language.
 
- This field appears only when the translation management feature and **glide.knowman.translation.enable\_translation\_task** property are enabled. For more information, see [Translation management](../concept/translation-management.md) and [Knowledge Management properties](../reference/r_KnowledgeProperties.md#).
+ This field appears only when the translation management feature and **glide.knowman.translation.enable\_translation\_task** property are enabled. For more information, see [Translation management](translation-management.md) and [Knowledge Management properties](r_KnowledgeProperties.md#).
 
 </td></tr></tbody>
 </table>4.  Right-click the form header and click **Save**.
@@ -284,7 +284,7 @@ List of knowledge categories associated with this knowledge base.**Note:** If th
 </table>6.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 
 **Related topics**  
 
@@ -293,11 +293,11 @@ List of knowledge categories associated with this knowledge base.**Note:** If th
 
 [Explicit roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explicit-roles.md)
 
-[Knowledge workflows](../reference/r_KnowledgeWorkflows.md#)
+[Knowledge workflows](r_KnowledgeWorkflows.md#)
 
-[Knowledge Management properties](../reference/r_KnowledgeProperties.md#)
+[Knowledge Management properties](r_KnowledgeProperties.md#)
 
 [Create a custom knowledge homepage](t_CreateACustomKnowledgeHomepage.md)
 
-[I18N - Knowledge internationalization](../concept/c_I18NKMInternational.md)
+[I18N - Knowledge internationalization](c_I18NKMInternational.md)
 

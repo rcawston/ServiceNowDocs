@@ -43,7 +43,7 @@ A common issue with integrations is that they are not equipped to handle realist
 
 [Types of ServiceNow integrations provided](c_TypesOfIntegrationsProv.md)
 
-[Security Operations Integration Configurations](../../security-operations-common/concept/third-party-integrations.md)
+[Security Operations Integration Configurations](third-party-integrations.md)
 
 [Integration troubleshooting](c_IntegrationTroubleshooting.md)
 

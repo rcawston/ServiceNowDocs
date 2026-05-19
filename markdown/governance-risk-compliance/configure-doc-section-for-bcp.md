@@ -29,7 +29,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [Documentation Section record form](../reference/doc-section-record-form.md).
+    For more information on the fields, see [Documentation Section record form](doc-section-record-form.md).
 
     The example shows the documentation section template from the demo data.
 
@@ -38,8 +38,8 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 4.  Select **Submit**.
 
 
--   **[Documentation Section record form](../reference/doc-section-record-form.md)**  
+-   **[Documentation Section record form](doc-section-record-form.md)**  
 Use the Documentation Section record form to describe a plan in the structured sections in the BCM UIB Workspace.
 
-**Parent Topic:**[Configuring the documentation section](../concept/bcp-admin-documentation-sections.md)
+**Parent Topic:**[Configuring the documentation section](bcp-admin-documentation-sections.md)
 

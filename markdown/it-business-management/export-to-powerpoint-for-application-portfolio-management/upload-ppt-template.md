@@ -38,5 +38,5 @@ Role required: sn\_ppt\_export.ppt\_user
 
 [Download a project status report](download-status-report.md).
 
-**Parent Topic:**[Using Export to PowerPoint](../concept/using-export-to-ppt.md)
+**Parent Topic:**[Using Export to PowerPoint](using-export-to-ppt.md)
 

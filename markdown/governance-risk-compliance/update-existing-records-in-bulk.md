@@ -50,5 +50,5 @@ Only Operational Resilience administrators can view the **Upload** option and up
 10. Repeat the steps for other records.
 
 
-**Parent Topic:**[Configuring Digital resilience third-party registers](../concept/conf-dg-resi-party-regi.md)
+**Parent Topic:**[Configuring Digital resilience third-party registers](conf-dg-resi-party-regi.md)
 

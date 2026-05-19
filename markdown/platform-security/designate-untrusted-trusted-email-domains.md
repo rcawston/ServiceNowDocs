@@ -89,12 +89,12 @@ Name of the user to notify by email when activity occurs in the untrusted or tru
 
 Untrusted or trusted email domain information is also added to the **Untrusted And Trusted Domains** listing on the Email page.
 
-**Parent Topic:**[Email metrics](../concept/instance-sec-center-email-metrics.md)
+**Parent Topic:**[Email metrics](instance-sec-center-email-metrics.md)
 
 **Related topics**  
 
 
-[Instance Security Center](../concept/instance-security-center.md)
+[Instance Security Center](instance-security-center.md)
 
-[Email metrics](../concept/instance-sec-center-email-metrics.md)
+[Email metrics](instance-sec-center-email-metrics.md)
 

@@ -132,7 +132,7 @@ The TPR assessor can navigate to the Issues tab of the External assessment in th
 **Related topics**  
 
 
-[Assessing your third-party risk](../concept/tprm-assessing-tpr.md)
+[Assessing your third-party risk](tprm-assessing-tpr.md)
 
 [Create an issue for a third party or engagement](tprm-ws-issue-create.md)
 

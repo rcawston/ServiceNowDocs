@@ -39,9 +39,9 @@ Mapping AWS shapes to ServiceNow CMDB and Common Service Data Model \(CSDM\) ens
 **Related topics**  
 
 
-[Amazon Web Services \(AWS\) shapes](../../reference/eaw-reference/eaw-modeling-aws-shapes.md)
+[Amazon Web Services \(AWS\) shapes](eaw-modeling-aws-shapes.md)
 
 [Working with Amazon Web Services \(AWS\) shapes](eaw-work-with-aws-shapes.md)
 
-[Create a diagram using AWS shapes](../../task/eaw-task/eaw-modeling-create-diagram-aws.md)
+[Create a diagram using AWS shapes](eaw-modeling-create-diagram-aws.md)
 

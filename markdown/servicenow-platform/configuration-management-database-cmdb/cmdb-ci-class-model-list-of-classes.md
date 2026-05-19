@@ -17,7 +17,7 @@ Alphabetical list of classes that are added by the CMDB CI Class Models ServiceN
 
 ## Classes added by the CMDB CI Class Models app
 
-For more information, see [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+For more information, see [CMDB CI Class Models app](../cmdb-ci-class-models/cmdb-ci-class-models.md).
 
 |Table name|Label \(Display name\)|Table description|
 |----------|----------------------|-----------------|

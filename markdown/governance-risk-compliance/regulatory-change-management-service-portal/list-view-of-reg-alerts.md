@@ -63,11 +63,11 @@ The overview page displays the following:
 
 -   Option to generate recommendations for impacted areas
 
-    You can generate recommendations from the Overview page or from the Recommendations tab. For more information, see [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](../../now-assist-irm/task/create-recommendation-reg-alert.md).
+    You can generate recommendations from the Overview page or from the Recommendations tab. For more information, see [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](../grc-common-functions/create-recommendation-reg-alert.md).
 
 -   Option to summarize the regulatory alert
 
-    The summarization option is available for regulatory alerts in the **New** state. For more information, see [Generate a regulatory alert summary](../../now-assist-irm/task/create-a-summary-of-a-reg-alert.md).
+    The summarization option is available for regulatory alerts in the **New** state. For more information, see [Generate a regulatory alert summary](../grc-common-functions/create-a-summary-of-a-reg-alert.md).
 
 -   Description of the regulatory alert
 -   Stage: Visual component that guides through a sequence of stages of a regulatory event alert

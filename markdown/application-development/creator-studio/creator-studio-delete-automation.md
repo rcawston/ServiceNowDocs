@@ -40,5 +40,5 @@ To delete a playbook, you must be given permission to work on the app.
 7.  On the confirmation modal, select the **Delete** button.
 
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](creator-studio-working-with-automations.md)
 

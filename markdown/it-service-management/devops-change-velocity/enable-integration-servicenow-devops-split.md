@@ -34,5 +34,5 @@ Role required: admin in Split organization
 5.  Select **Integrations** from the drop-down and select the integration configured in step 2 as, and select **Save**.![Restrict approvers for environment](../image/split-restrict-approver.png)
 
 
-**Parent Topic:**[Split.io integration with DevOps Change Velocity](../concept/split-integration-devops-classic.md)
+**Parent Topic:**[Split.io integration with DevOps Change Velocity](split-integration-devops-classic.md)
 

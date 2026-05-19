@@ -111,7 +111,7 @@ Display name of the field in Jira. Ensure that this field is added to the Jira p
         **Important:** If your custom map configuration is invalid or if the custom field configured is not added to the default screen scheme of the issue, the export action does not work.
 
 
-**Parent Topic:**[Customizing map configuration for your Jira projects](../reference/custom-map-configuration.md)
+**Parent Topic:**[Customizing map configuration for your Jira projects](custom-map-configuration.md)
 
 ## Configuring a reference field in Jira
 

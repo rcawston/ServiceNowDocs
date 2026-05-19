@@ -15,6 +15,6 @@ breadcrumb: [About Rules Engine in TISC, Administer, Threat Intelligence Securit
 
 Custom Threat Score Calculator allows you to define and calculate a threat severity score of an observable based on the user defined criteria which provides a transparent intelligence scoring of observables. The threat score is auto calculated for observable records.
 
--   **[Define Threat Score Calculator](../task/threat-score-calculator.md)**  
+-   **[Define Threat Score Calculator](threat-score-calculator.md)**  
 Define threat score for the observable\(s\) records that are generated based on the user defined parameters. The base system is provisioned with one threat scoring rule, which can be customized and enabled accordingly.
 

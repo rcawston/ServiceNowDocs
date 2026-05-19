@@ -25,8 +25,8 @@ To view the dashboard, navigate to **All** &gt; **AIOps Dashboards** &gt; **Moni
 
 Before using the Monitoring Technology Dashboard for GCP:
 
--   Create a GCP credential and use it to create a Discovery schedule. For details on creating GCP credentials, see [Discovery for Google Cloud Platform](../../service-mapping/reference/google-gcp-discovery-pattern.md).
--   Create a Discovery schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [Discovery for Google Cloud Platform](../../service-mapping/reference/google-gcp-discovery-pattern.md).
+-   Create a GCP credential and use it to create a Discovery schedule. For details on creating GCP credentials, see [Discovery for Google Cloud Platform](../discovery/google-gcp-discovery-pattern.md).
+-   Create a Discovery schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [Discovery for Google Cloud Platform](../discovery/google-gcp-discovery-pattern.md).
 -   Ensure that you’re working in the Agent Client Collector Monitoring scope in your ServiceNow instance.
 -   Ensure that the agent\_client\_collector\_admin and dashboard\_admin roles are enabled.
 -   Enable Metric Intelligence on the MID Server.
@@ -52,7 +52,7 @@ Use the **Time range filter** to filter the time range for which you want metric
 
 Use the **Metrics by selected CI filter** to select the CIs for which you want to view metrics.
 
-You can customize the appearance of the individual widgets on the GCP Monitoring Technology Dashboard. For example, you could change the timeframe for which the alerts appear. You can also include customized widgets when you are creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](../task/customize-dashboard-widgets.md).
+You can customize the appearance of the individual widgets on the GCP Monitoring Technology Dashboard. For example, you could change the timeframe for which the alerts appear. You can also include customized widgets when you are creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](customize-dashboard-widgets.md).
 
 **Parent Topic:**[Understanding the Monitoring Technology Dashboard](monitor-tech-dashboard-concept.md)
 

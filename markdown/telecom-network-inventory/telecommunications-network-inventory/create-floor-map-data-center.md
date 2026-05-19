@@ -50,7 +50,7 @@ Each place is marked with a title, making it easy to identify on the map. Once t
 
     To learn more, see [Manage places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md).
 
-    To create a place type, see [Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md). To learn about available place types, see [Data center place types](../reference/place-types-floor-map.md).
+    To create a place type, see [Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md). To learn about available place types, see [Data center place types](place-types-floor-map.md).
 
 6.  Use the **Map Preview** to display maps and test directions that you have created.
 
@@ -73,7 +73,7 @@ After you create your Indoor Mapping campus record, do the following to view the
 4.  [Customize overlay time series on the floor map](customize-overlay-time-series-floor-map.md)
 5.  [View details of floor map](view-details-floor-map.md)
 
-**Parent Topic:**[Floor map](../concept/using-floor-map.md)
+**Parent Topic:**[Floor map](using-floor-map.md)
 
 **Related topics**  
 

@@ -115,5 +115,5 @@ JKS keystore file and password
 Provide this Java KeyStore file and its password to your ServiceNow AI Platform admins. They will need the file and password when configuring the Microsoft SharePoint Online external content connector. For details on creating and configuring the Microsoft SharePoint Online external content connector, see [Create a Microsoft SharePoint Online external content connector](create-ext-cont-connector-mspo.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft SharePoint Online external content connector](../concept/microsoft-sharepoint-online-external-content-connector.md)
+</table>**Parent Topic:**[Microsoft SharePoint Online external content connector](microsoft-sharepoint-online-external-content-connector.md)
 

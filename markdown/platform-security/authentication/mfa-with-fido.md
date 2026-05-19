@@ -25,7 +25,7 @@ You can configure FIDO2 factor policy and when the users satisfies the factor po
 
 If the registration is completed, then second factor validation screen is displayed to log in.
 
-**Note:** FIDO2 can also be self-enrolled by the users. To know more about how to self-enroll, see [Set up Multi-factor authentication on your user profile](../task/mfa-setup-profile.md).
+**Note:** FIDO2 can also be self-enrolled by the users. To know more about how to self-enroll, see [Set up Multi-factor authentication on your user profile](mfa-setup-profile.md).
 
 ## Key Benefits
 

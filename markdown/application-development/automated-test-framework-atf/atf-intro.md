@@ -147,7 +147,7 @@ The Automated Test Framework automatically tracks and deletes any data created b
 
 Test suites enable you to execute a batch of tests in a specified order. In addition, test suites can be hierarchical, with suites nested within other suites. You can associate test suites with schedules that determine when the system runs the test suites.
 
--   **[Build and run your first automated test](../task/atf-tut-build-first.md#)**  
+-   **[Build and run your first automated test](atf-tut-build-first.md#)**  
 Follow these step-by-step instructions to create and run your first automated test. This test creates a new user record.
 -   **[Next steps with the Automated Test Framework](atf-next-step-concepts.md)**  
 After you feel comfortable creating and running simple tests, explore the more advanced features of the Automated Test Framework.

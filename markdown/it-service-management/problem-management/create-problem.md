@@ -44,7 +44,7 @@ Navigate to **Problem** &gt; **Create New**.
 </td></tr></tbody>
 </table>2.  Complete the form, as appropriate.
 
-    For a description of the field values, see [Legacy Problem form](../concept/legacy-problem-form.md).
+    For a description of the field values, see [Legacy Problem form](legacy-problem-form.md).
 
 3.  To enter work notes for the problem, click the **Notes** tab.
 

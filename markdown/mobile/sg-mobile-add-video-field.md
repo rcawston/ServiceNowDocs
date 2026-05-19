@@ -40,5 +40,5 @@ Role required: admin
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Screen fields](../concept/sg-screen-field-enhancements.md)
+**Parent Topic:**[Screen fields](sg-screen-field-enhancements.md)
 

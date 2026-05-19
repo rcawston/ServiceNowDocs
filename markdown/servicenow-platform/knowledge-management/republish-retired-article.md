@@ -21,7 +21,7 @@ You must activate the Knowledge Management Advanced \(com.snc.knowledge\_advance
 
 Role required: admin or knowledge admin
 
-**Note:** You need a scoped admin role to republish a retired article in the [Scoped knowledge bases](../concept/scoped-knowledge-base-administration.md).
+**Note:** You need a scoped admin role to republish a retired article in the [Scoped knowledge bases](scoped-knowledge-base-administration.md).
 
 ## About this task
 
@@ -38,5 +38,5 @@ There may be cases where you will need to republish a retired article. For examp
 
 The article is instantly published as the previous last published version.
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 

@@ -47,7 +47,7 @@ Role required: admin
 -   **[Export data to the FTP server](export-data-ftp.md)**  
 Export a file from a local source, a remote network server, or another instance by providing a path and authentication information.
 
-**Parent Topic:**[Procurement File Transfer Framework](../concept/procurement-file-transfer-framework.md)
+**Parent Topic:**[Procurement File Transfer Framework](procurement-file-transfer-framework.md)
 
 **Related topics**  
 

@@ -90,5 +90,5 @@ Map target calendars with source calendars to establish the data roll up hierarc
 -   **[Add entities for fiscal calendars](add-entities-for-a-fiscal-calendar.md)**  
 Identify the entities that will follow the fiscal calendars you have created. This ensures that data collection is consistent, as each entity follows the designated calendar.
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

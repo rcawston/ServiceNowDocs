@@ -31,7 +31,7 @@ For outbound notifications, the email system log provides reasons that recipient
 
 Each log entry corresponds to a reason for inclusion or exclusion. For example, all users who were excluded because they are inactive appear in a single log entry.
 
-A series of system properties can be used to fine-tune the information to be logged. Two properties, glide.notification.recipient.include\_logging and glide.notification.recipient.exclude\_logging, control all recipient inclusion and exclusion logging. Several other [properties](../../reference-pages/reference/r_AdditionalProperties.md) allow you to tailor the information reported in the logs to meet your needs. All of the properties are enabled by default.
+A series of system properties can be used to fine-tune the information to be logged. Two properties, glide.notification.recipient.include\_logging and glide.notification.recipient.exclude\_logging, control all recipient inclusion and exclusion logging. Several other [properties](r_AdditionalProperties.md) allow you to tailor the information reported in the logs to meet your needs. All of the properties are enabled by default.
 
-**Parent Topic:**[Email FAQs and troubleshooting notification emails](../concept/troubleshooting-notification-emails.md)
+**Parent Topic:**[Email FAQs and troubleshooting notification emails](troubleshooting-notification-emails.md)
 

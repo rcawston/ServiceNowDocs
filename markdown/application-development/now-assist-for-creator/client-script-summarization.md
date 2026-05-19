@@ -56,7 +56,7 @@ Client script summarization provides the following benefits:
 **Related topics**  
 
 
-[Summarize a client script using Now Assist](../task/client-script-summarization-generation.md)
+[Summarize a client script using Now Assist](client-script-summarization-generation.md)
 
 [Use case: Summarize a client script using Now Assist](use-case-client-script-summarization.md)
 

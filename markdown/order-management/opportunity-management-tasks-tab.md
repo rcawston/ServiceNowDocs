@@ -27,7 +27,7 @@ Role required: sales\_manager
 
 4.  On the Opportunity Task form, fill in the fields.
 
-    For more information, see [Create new opportunity task form](../reference/create-opportunity-task-form.md).
+    For more information, see [Create new opportunity task form](create-opportunity-task-form.md).
 
 5.  Select **Save**.
 
@@ -46,5 +46,5 @@ Create appointments with the required stakeholders to move the business discussi
 **Related topics**  
 
 
-[Create a related task from a touchpoint](../task/create-touchpoint-related-tasks.md)
+[Create a related task from a touchpoint](create-touchpoint-related-tasks.md)
 

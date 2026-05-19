@@ -73,5 +73,5 @@ Role required: sn\_si.admin, sn\_si.ingestion\_profile\_admin
 
 ### What to do next
 
-Set a schedule to retrieve the incident data and ingested incidents that match the criteria in the profile. For more information, see [Schedule incident retrieval](../task/pan-xsiam-schedule-inc-retrieval.md).
+Set a schedule to retrieve the incident data and ingested incidents that match the criteria in the profile. For more information, see [Schedule incident retrieval](pan-xsiam-schedule-inc-retrieval.md).
 

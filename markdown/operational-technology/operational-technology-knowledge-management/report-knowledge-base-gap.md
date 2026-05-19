@@ -48,5 +48,5 @@ You can view the feedback task under the Knowledge Gaps related list in the inci
 
 To assign feedback tasks to the correct user or user group, see [Assign feedback tasks](assign-feedback-tasks.md).
 
-**Parent Topic:**[Using Operational Technology Knowledge Management](../concept/using-operational-technology-knowledge-management.md)
+**Parent Topic:**[Using Operational Technology Knowledge Management](using-operational-technology-knowledge-management.md)
 

@@ -67,7 +67,7 @@ You can use the **Instance Options** to modify the display of the extension.
 
 You can configure aspects like the number of options displayed within a widget, the number of search results displayed, and so on.
 
-Leverage the Now Assist search on the Browser Extension for Employee Center. For more information, see [Set up Now Assist search in Browser Extension for Employee Center](../task/config-now-assist-search-ecbe.md).
+Leverage the Now Assist search on the Browser Extension for Employee Center. For more information, see [Set up Now Assist search in Browser Extension for Employee Center](config-now-assist-search-ecbe.md).
 
 Along with the ServiceNow® Store, get the Browser Extension for Employee Center for Google Chrome and Microsoft Edge in the Chrome web store and the Microsoft Edge Add-ons store. For more information, see the helpful resources section.
 

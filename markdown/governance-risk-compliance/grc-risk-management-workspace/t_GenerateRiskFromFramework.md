@@ -32,5 +32,5 @@ Role required: sn\_risk.admin and sn\_risk.manager
     All risk frameworks or statements are associated to the entity type and a risk is created for every risk statement against every entity in the entity type.
 
 
-**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](../../grc-common/concept/grc-workbench.md)
+**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](grc-workbench.md)
 

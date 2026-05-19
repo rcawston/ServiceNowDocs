@@ -15,7 +15,7 @@ breadcrumb: [Import sets, Imports, Workflow Data Fabric]
 
 Review these performance issues to troubleshoot and improve the performance of your import set jobs.
 
-**Parent Topic:**[Import sets](../../import-sets/reference/import-sets-landing-page.md)
+**Parent Topic:**[Import sets](import-sets-landing-page.md)
 
 ## Running business rules during transform
 
@@ -49,7 +49,7 @@ Becomes an issue: When you are importing data from a table that is very large an
 
 Symptoms: The import set takes longer than expected. Under **System Import Sets** &gt; **Progress**, expect to see an import with a Total count that is very high with a Skipped count that is also very high - this is found under the Message column. Indicating that most of the records imported had not actually changed. These records did not need to be imported.
 
-How to avoid this: If you are running a JDBC import, use the last run datetime option in your import set [Data Source](../../import-sets/concept/c_DataSources.md). For a type of File import, be sure that whatever is generating your files is only adding data that is new, or has been changed.
+How to avoid this: If you are running a JDBC import, use the last run datetime option in your import set [Data Source](c_DataSources.md). For a type of File import, be sure that whatever is generating your files is only adding data that is new, or has been changed.
 
 ## Coalescing on non-indexed fields
 
@@ -116,9 +116,9 @@ To enable secondary storage:
 -   Activate the Secondary Database Pools \[com.glide.secondary\_db\_pools\] plugin. For more information, see [Request a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RequestAPlugin.md).
 -   Confirm that the import\_reference\_resoultion category in the Secondary Database Categories \[sys\_db\_category\] table has been configured and enabled. When you request the plugin, ServiceNow support configures this category for you.
 
-After the plugin is activated and your secondary storage category has been configured and enabled, there will be a **Use Secondary Storage for References** check box on the form to [Create a transform map](../../../script/server-scripting/task/t_CreateATransformMap.md). Use this check box to enable or disable secondary storage.
+After the plugin is activated and your secondary storage category has been configured and enabled, there will be a **Use Secondary Storage for References** check box on the form to [Create a transform map](t_CreateATransformMap.md). Use this check box to enable or disable secondary storage.
 
-When using secondary storage, set the **Choice action** field in the field map to **ignore** or **reject**. Setting the **Choice action** to **create** may cause multiple copies of a record to be created because the reference resolution doesn't detect newly created records immediately. For more information about choice actions, see [Create a field map](../../../script/server-scripting/task/t_CreatingAFieldMap.md).
+When using secondary storage, set the **Choice action** field in the field map to **ignore** or **reject**. Setting the **Choice action** to **create** may cause multiple copies of a record to be created because the reference resolution doesn't detect newly created records immediately. For more information about choice actions, see [Create a field map](t_CreatingAFieldMap.md).
 
 A secondary database is always slightly out of date compared to the primary database. If your import requires completely up-to-date data, don't use secondary storage.
 

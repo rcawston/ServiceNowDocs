@@ -28,15 +28,15 @@ The **Details** tab in interaction record contains the following fields:
 |Opened for|Name of the user|
 |Assigned to|Name of the assigned agent|
 
-For more information, see [Create a new interaction](../task/create-new-interaction-record-in-apo.md).
+For more information, see [Create a new interaction](create-new-interaction-record-in-apo.md).
 
 .
 
--   **[Create a new interaction](../task/create-new-interaction-record-in-apo.md)**  
+-   **[Create a new interaction](create-new-interaction-record-in-apo.md)**  
 An interaction record is automatically created when an agent accepts a supplier's chat request through the chat queue in the Supplier Collaboration Portal.
--   **[Associate an interaction record in Accounts Payable Operations](../task/associate-an-interaction-record.md)**  
+-   **[Associate an interaction record in Accounts Payable Operations](associate-an-interaction-record.md)**  
 Associate an interaction record to an invoice case if your interaction is related to an existing invoice case in Source-to-Pay workspace.
--   **[View interaction record in Accounts Payable Operations](../task/view-interaction-record.md)**  
+-   **[View interaction record in Accounts Payable Operations](view-interaction-record.md)**  
 View the details of an interaction record to analyze interactions and take immediate actions. Viewing an interaction record provides a comprehensive view of the customer journey. You can link an interaction record to an existing invoice case, which needs an Accounts Payable Operations agent involvement for investigation.
 
 **Parent Topic:**[Use Accounts Payable Operations](use-acc-pay-mgmt.md)
@@ -44,7 +44,7 @@ View the details of an interaction record to analyze interactions and take immed
 **Related topics**  
 
 
-[Create a knowledge base article about invoice](../task/create-knowledge-base-articles-for-invoices.md)
+[Create a knowledge base article about invoice](create-knowledge-base-articles-for-invoices.md)
 
 [Invoice case categories and subcategories](working-with-cases.md)
 
@@ -54,11 +54,11 @@ View the details of an interaction record to analyze interactions and take immed
 
 [Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md)
 
-[Configure Advanced Work Assignment for Accounts Payable Operations](../task/configure-advanced-work-assignment-for-apo.md)
+[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)
 
 [Using Advanced Work Assignment for Accounts Payable Operations](using-awa-for-apo.md)
 
-[Working with Advanced Work Assignment](../task/working-with-advanved-work-assignment.md)
+[Working with Advanced Work Assignment](working-with-advanved-work-assignment.md)
 
 [Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-apm-workspace.md)
 

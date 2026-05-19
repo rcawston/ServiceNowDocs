@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the GetLastModifiedFolder component. For more information about these properties, see [Properties of the Directory components](../reference/util-directory-prop.md).
+You can configure the properties for the GetLastModifiedFolder component. For more information about these properties, see [Properties of the Directory components](util-directory-prop.md).
 
 ## Procedure
 
@@ -107,5 +107,5 @@ No. Connecting the port is optional.
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Directory](../concept/directory.md)
+**Parent Topic:**[Directory](directory.md)
 

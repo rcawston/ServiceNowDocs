@@ -35,7 +35,7 @@ Configure thresholds to define multiple performance levels, set specific ranges 
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values on the Metric Definition Threshold form, see [Metric Definition Threshold form](../reference/metric-definition-threshold-form-irm.md).
+    For a description of the field values on the Metric Definition Threshold form, see [Metric Definition Threshold form](metric-definition-threshold-form-irm.md).
 
 6.  Select **Submit**.
 
@@ -46,8 +46,8 @@ Configure thresholds to define multiple performance levels, set specific ranges 
 
 The configured threshold is now active for the metric. The system monitors metric values and triggers the specified actions when threshold levels are exceeded. Metric values are displayed with the appropriate color indicators in dashboards, list pages, and record pages. When the Enable threshold breach monitoring check box is selected, the system prompts for justification when a threshold is breached. 
 
--   **[Metric Definition Threshold form](../reference/metric-definition-threshold-form-irm.md)**  
+-   **[Metric Definition Threshold form](metric-definition-threshold-form-irm.md)**  
 Use the Metric Definition Threshold form to define performance limits for a metric and control how the system responds when those limits are reached.
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](configuring-irm-metrics.md)
 

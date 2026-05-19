@@ -72,5 +72,5 @@ The time sheet must be within the recall period.
 -   Creates negative expense lines to zero out the corresponding expense lines created when the time sheet was approved.
 -   Returns the time sheet to its submitter for modifications.
 
-**Parent Topic:**[Time Sheets](../concept/time-sheets.md)
+**Parent Topic:**[Time Sheets](time-sheets.md)
 

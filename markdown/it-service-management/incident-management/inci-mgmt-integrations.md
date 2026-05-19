@@ -18,5 +18,5 @@ Users of an incident management solution need to have access to a multitude of f
 -   **[Universal Request integration - Incident Management](inci-mgmt-integ-with-univ-req.md)**  
 Incident Management integrates with Universal Request to provide incident-related service as unified services to users. The integration helps users to have a single service desk.
 
-**Parent Topic:**[Reference section for Incident Management](../reference/reference-section-for-incident-management.md)
+**Parent Topic:**[Reference section for Incident Management](reference-section-for-incident-management.md)
 

@@ -87,7 +87,7 @@ Available options:
     -   On an Android device, tap the done icon.
  The reason for rejecting the task is populated in the work notes and the task moves to **Pending Dispatch** state.
 
- **Note:** The rejected task is not dynamically scheduled to the same agent for the next 24 hours. This is controlled by the **work.management.rejected.technician.duration** [system property](../../planning-and-policy/reference/r_PropInstallWFieldServMgmnt.md). However, as an agent you can manually assign the work order task back to yourself or as a dispatcher you can assign it back to the same agent.
+ **Note:** The rejected task is not dynamically scheduled to the same agent for the next 24 hours. This is controlled by the **work.management.rejected.technician.duration** [system property](../r_PropInstallWFieldServMgmnt.md). However, as an agent you can manually assign the work order task back to yourself or as a dispatcher you can assign it back to the same agent.
 
 </td></tr></tbody>
 </table>

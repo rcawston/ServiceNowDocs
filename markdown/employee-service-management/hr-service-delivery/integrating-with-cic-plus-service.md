@@ -19,7 +19,7 @@ This integration assumes you are already integrated with a third-party identity 
 
 ## Setting up the CIC Plus integration
 
-To set up the CIC Plus integration, you must configure a SAML connection between your third-party identity provider \(IDP\) and CIC Plus accounts. Your CIC Plus partner must then set up your account to get employee profiles for US-based employees through the get\_usa\_employee\_profile REST endpoint, as well as verify that the callback is properly configured. Finally, you must configure the source credentials to include the login URL of the identity provider service you are using with the CIC Plus integration. For details on how to set up the CIC Plus integration, see [Set up the CIC Plus integration](../task/set-up-cic-plus-integration.md).
+To set up the CIC Plus integration, you must configure a SAML connection between your third-party identity provider \(IDP\) and CIC Plus accounts. Your CIC Plus partner must then set up your account to get employee profiles for US-based employees through the get\_usa\_employee\_profile REST endpoint, as well as verify that the callback is properly configured. Finally, you must configure the source credentials to include the login URL of the identity provider service you are using with the CIC Plus integration. For details on how to set up the CIC Plus integration, see [Set up the CIC Plus integration](set-up-cic-plus-integration.md).
 
 ## Using the CIC Plus integration with new hire onboarding
 

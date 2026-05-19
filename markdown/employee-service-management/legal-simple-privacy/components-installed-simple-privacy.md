@@ -96,5 +96,5 @@ Privacy and Data Security\[sn\_lg\_matter\_privacy\_and\_data\_security\]
 Stores the details of any legal matters created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Simple Privacy Reference](../concept/legal-simple-privacy-reference.md)
+</table>**Parent Topic:**[Legal Simple Privacy Reference](legal-simple-privacy-reference.md)
 

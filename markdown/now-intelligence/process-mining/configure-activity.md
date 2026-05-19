@@ -43,7 +43,7 @@ You can also group multiple activities to track changes made to each of the acti
 
 2.  On the form, fill in the fields.
 
-    For a description of the field values, see [Activity definition form](../reference/activity-def.md).
+    For a description of the field values, see [Activity definition form](activity-def.md).
 
 3.  Select **Submit**.
 

@@ -48,8 +48,8 @@ Role required: sn\_cwm.cwm\_user
 
 The Board or Doc is created in the Space that you selected.
 
--   For a Board, any template tasks and custom columns that the template contains are applied to the Board. To learn more about Board views, see [Board views in CWM](../concept/board-views-in-cwm.md).
+-   For a Board, any template tasks and custom columns that the template contains are applied to the Board. To learn more about Board views, see [Board views in CWM](board-views-in-cwm.md).
 -   For a Doc, any template pages and content formatting is applied to the Doc.
 
-**Parent Topic:**[Templates in CWM for Boards and Docs](../concept/templates-in-cwm-for-spaces-boards-and-docs.md)
+**Parent Topic:**[Templates in CWM for Boards and Docs](templates-in-cwm-for-spaces-boards-and-docs.md)
 

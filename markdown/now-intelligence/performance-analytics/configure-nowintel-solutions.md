@@ -33,12 +33,12 @@ After you install any Platform Analytics Solutions, run all diagnostics on all r
 
 By default, System Administrator is the **Run As** user for data collection jobs in the Platform Analytics Solutions. Verify that this user exists on the instance, and whether this user has the appropriate level of access. An inappropriate **Run As** user can cause errors or limit the data that is collected. If you have Domain Separation enabled, ensure you set an appropriate **Run As** user in each domain.
 
-1.  [Review the indicator sources](../task/review-indicator-sources.md)  
+1.  [Review the indicator sources](review-indicator-sources.md)  
 Determine which fields contain the data you are looking for in each application you are enabling for Performance Analytics.
-2.  [Update Performance Analytics scripts](../task/update-pa-scripts.md)  
+2.  [Update Performance Analytics scripts](update-pa-scripts.md)  
 Platform Analytics Solutions include Performance Analytics scripts to perform calculations on records. These scripts use the time stamp fields from the indicator sources. If you change the time field stamps in an indicator source, also modify the related scripts.
-3.  [Review the breakdown sources](../task/review-breakdown-sources.md)  
+3.  [Review the breakdown sources](review-breakdown-sources.md)  
 Breakdown sources represent the elements that you use to examine a KPI in more detail. Modify the breakdown source to limit the element list to only those items that are meaningful for the data analysis.
 
-**Parent Topic:**[Platform Analytics solutions](../../dashboards/concept/content-packs-in-form-analytics-published.md)
+**Parent Topic:**[Platform Analytics solutions](content-packs-in-form-analytics-published.md)
 

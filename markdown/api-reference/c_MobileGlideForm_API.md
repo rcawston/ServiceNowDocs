@@ -17,7 +17,7 @@ The Mobile GlideForm \(g\_form\) API provides methods to work with forms on the 
 
 Use these methods in any script that targets a mobile device.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## MobileGlideForm \(g\_form\) - addDecoration\(String fieldName, String icon, String text\)
 

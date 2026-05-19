@@ -22,9 +22,9 @@ DEX uses a set of new multi-tenant, cloud-native services called ServiceNow shar
 ## Binaries installed on endpoints
 
 -   Agent Client Collector \(ACC\): Deployed onto the end-user device endpoints such as a laptop or Virtual Desktop infrastructure \(VDI\) to collect various device level performance and operational metrics. ACC enables you to do the following:
-    -   Configure a policy frequency to control what metrics are collected and the frequency of collection. To learn more about the metrics collected by DEX, see [View collected metrics with Metrics analyzer](../task/view-dex-metrics.md).
+    -   Configure a policy frequency to control what metrics are collected and the frequency of collection. To learn more about the metrics collected by DEX, see [View collected metrics with Metrics analyzer](view-dex-metrics.md).
     -   Get the agent run remedial actions on the endpoint, such as clearing cache, restarting an application, and many more.
--   Browser extension: Helps track application performance and network metrics like page load time and network jitter. The communication between the browser extension and ACC, as well as the device and application metrics, are routed via the ServiceNow shared services. For more information, see [Enable DEX browser extension](../task/enable-dex-browser-extension.md).
+-   Browser extension: Helps track application performance and network metrics like page load time and network jitter. The communication between the browser extension and ACC, as well as the device and application metrics, are routed via the ServiceNow shared services. For more information, see [Enable DEX browser extension](enable-dex-browser-extension.md).
 -   DEX Desktop Assistant: Enables employees to incorporate ServiceNow functionalities into their daily workflow, providing access to monitoring local applications, requests, and push notifications and to performing network tests.
 
 ## Agent registration highlights
@@ -82,7 +82,7 @@ Agent assets and plugins \(like DEX\) that are downloaded from your ServiceNow i
 
 All collected data is transformed and presented on your ServiceNow instance.
 
-Any data collected in the context of DEX is visible to users only with appropriate DEX roles. For more information about the DEX roles, see [Installed with DEX](../reference/components-installed-with-dex.md).
+Any data collected in the context of DEX is visible to users only with appropriate DEX roles. For more information about the DEX roles, see [Installed with DEX](components-installed-with-dex.md).
 
 When following the standard ServiceNow practices on data governance, no special handling is required for DEX.
 

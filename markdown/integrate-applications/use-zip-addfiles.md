@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the AddFiles component. For more information about these properties, see [Properties of the Zip components](../reference/util-zip-prop.md).
+You can configure the properties for the AddFiles component. For more information about these properties, see [Properties of the Zip components](util-zip-prop.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ You can configure the properties for the AddFiles component. For more informatio
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Zip](../concept/zip-utilities.md)
+**Parent Topic:**[Zip](zip-utilities.md)
 

@@ -31,7 +31,7 @@ Role required: sn\_dex.admin
 
 5.  Complete the New record form to add an event to monitor.
 
-    For details about the form fields, see [New DEX event form](../reference/new-dex-event-form.md).
+    For details about the form fields, see [New DEX event form](new-dex-event-form.md).
 
 6.  Select **Submit**.
 

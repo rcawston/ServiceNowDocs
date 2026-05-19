@@ -46,5 +46,5 @@ Deferring an automation request is one of the life-cycle stages of an automation
 
 You can move the automation request to Planned state or reject the automation request. For more information, see [Move an automation request to the Planned state](move-automation-request-to-planned.md) and [Reject an automation request](reject-automation-request.md).
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

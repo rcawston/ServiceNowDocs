@@ -43,5 +43,5 @@ Your organisation must have one service set without any services that is marked 
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](config-service-for-ur.md)
 

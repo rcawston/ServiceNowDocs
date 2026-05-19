@@ -35,12 +35,12 @@ Use your personal credentials to connect to third-party integrations. View, auth
 
 **Note:** The personal authentication dashboard can be accessed by users with `sn_personal_auth.personal_auth_user` role.
 
--   **[Configure personal authentication for Multi Provider Document Services Framework](../task/configure-personal-authentication-mp.md)**  
+-   **[Configure personal authentication for Multi Provider Document Services Framework](configure-personal-authentication-mp.md)**  
 Configure and enable personal authentication for Microsoft OneDrive and Google Drive accounts in Multi Provider Document Services Framework.
--   **[Authenticate Microsoft OneDrive account](../task/authenticate-onedrive-account.md)**  
+-   **[Authenticate Microsoft OneDrive account](authenticate-onedrive-account.md)**  
 Enable personal authentication for Microsoft OneDrive for Multi Provider Document Services Framework.
--   **[Authenticate Google Drive account](../task/authenticate-google-drive-account.md)**  
+-   **[Authenticate Google Drive account](authenticate-google-drive-account.md)**  
 Enable personal authentication for Google Drive for Multi Provider Document Services Framework.
 
-**Parent Topic:**[Integrate with Document Services](../reference/integrate-with-document-services-mp.md)
+**Parent Topic:**[Integrate with Document Services](integrate-with-document-services-mp.md)
 

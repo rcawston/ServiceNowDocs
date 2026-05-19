@@ -56,5 +56,5 @@ Application
 Name of the application scope. This field is auto-selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal Task reference](../concept/universal-task-reference.md)
+</table>**Parent Topic:**[Universal Task reference](universal-task-reference.md)
 

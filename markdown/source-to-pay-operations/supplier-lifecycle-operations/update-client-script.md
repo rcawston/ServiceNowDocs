@@ -36,11 +36,11 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](../concept/config-supplier-news-api.md)
+**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](config-supplier-news-api.md)
 
 **Previous topic:**[Add and configure the Get News data resource in UI Builder](add-config-news-data-resource.md)
 
-**Next topic:**[Relish Integration for Supplier Lifecycle Operations](../concept/relish-slo-connector.md)
+**Next topic:**[Relish Integration for Supplier Lifecycle Operations](relish-slo-connector.md)
 
 **Related topics**  
 

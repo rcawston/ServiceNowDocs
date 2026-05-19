@@ -19,7 +19,7 @@ Now Assist for CMDB uses the search result classifier skill to analyze your sear
 
 Starting with Now Assist for CMDB v3.0, the Now Assist for CMDB ServiceNow Store app must be installed. When the app is installed, several agents and skills are auto-activated. If you deactivate a skill, some features will not appear.
 
-For more information, see [Configure Now Assist for CMDB 3.0](../../configuration-management/task/now-assist-cmdb-configure-3.0.md).
+For more information, see [Configure Now Assist for CMDB 3.0](now-assist-cmdb-configure-3.0.md).
 
 The Service Graph database on your instance includes CIs, services, and related data such as company and location data.
 

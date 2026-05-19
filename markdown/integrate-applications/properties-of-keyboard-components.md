@@ -20,5 +20,5 @@ Learn about the properties of the keyboard components in RPA Desktop Design Stud
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Keyboard](../concept/keyboard-utilities.md)
+**Parent Topic:**[Keyboard](keyboard-utilities.md)
 

@@ -43,5 +43,5 @@ The 3E regulatory intelligence integration uses OAuth 2.0 client credentials to 
 -   Verify the configuration by navigating to a chemical substance record and triggering a Sync regulatory list. For more information, see [Sync regulatory list regulations for a chemical substance](hs-sync-regulatory-list-chemical-substance.md).
 -   A successful sync populates the Regulatory tab with regulations fetched from the 3E server. If the sync fails, verify that the OAuth Entity Profile is configured correctly with valid 3E subscription credentials.
 
-**Parent Topic:**[3E Regulatory Intelligence](../concept/hs-3e-regulatory-intelligence.md)
+**Parent Topic:**[3E Regulatory Intelligence](hs-3e-regulatory-intelligence.md)
 

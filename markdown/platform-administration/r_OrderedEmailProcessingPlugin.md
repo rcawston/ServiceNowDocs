@@ -15,7 +15,7 @@ You can configure a processing order for inbound email actions and use the order
 
 The Ordered Email Processing \(com.glide.email\_ordered\_processing\) plugin is enabled by default for new instances. Users with the admin role can activate the plugin for upgraded instances. The plugin adds the **Order** column to the Rules \[sysrule\] table, which the instance uses to determine when to process emails. Admins can also add a command to an action script that halts processing after the script runs.
 
-**Parent Topic:**[Configure inbound email actions](../concept/configure-inbound-email.md)
+**Parent Topic:**[Configure inbound email actions](configure-inbound-email.md)
 
 ## Configure the processing order
 

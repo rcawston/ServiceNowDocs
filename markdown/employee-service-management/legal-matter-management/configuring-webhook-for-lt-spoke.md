@@ -121,5 +121,5 @@ Password to access the webhook information.
 
 The webhook for the Legal Tracker application is successfully configured and the matter updates in Legal Tracker will be synced to Legal Matter Management and the details can be seen in external matter records. For a working webhook configuration, the Health status must be Healthy. For any wrong configurations, the Health status is shown as Broken.
 
-**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](../concept/configurations-for-legal-tracker-integration.md)
+**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](configurations-for-legal-tracker-integration.md)
 

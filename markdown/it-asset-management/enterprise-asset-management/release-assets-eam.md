@@ -58,5 +58,5 @@ You can release an asset that isn't required or an add-on asset that's in one of
 -   The asset that you released isn't listed in the **Child assets** tab.
 -   The state of the released asset changes to In stock and the substate changes to Pending disposal.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

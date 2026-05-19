@@ -45,26 +45,26 @@ Role required: sn\_si.analyst and awa\_agent
 
     -   Reject the incident by selecting **Reject** and select a reason for the rejection.
 
-**Parent Topic:**[Using SIR Workspace](../reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](using-sir-workspace.md)
 
 **Related topics**  
 
 
-[Working with Security Incident Records](../concept/using-analyst-workspace.md)
+[Working with Security Incident Records](using-analyst-workspace.md)
 
-[Security Incident Playbook](../concept/security-incident-playbook.md#)
+[Security Incident Playbook](security-incident-playbook.md#)
 
-[Prerequisites for the Playbooks](../../playbook-migration-guide/concept/getting-started-with-processes.md)
+[Prerequisites for the Playbooks](getting-started-with-processes.md)
 
-[Rebuilding existing playbooks in Workflow Studio](../../playbook-migration-guide/concept/rebuilding-existing-playbooks-on-pad.md)
+[Rebuilding existing playbooks in Workflow Studio](rebuilding-existing-playbooks-on-pad.md)
 
-[Activity Definitions](../../playbook-migration-guide/concept/build-activities.md)
+[Activity Definitions](build-activities.md)
 
-[Sample Playbooks for SIR Workspace](../../playbook-migration-guide/concept/sir-workspace-playbooks.md)
+[Sample Playbooks for SIR Workspace](sir-workspace-playbooks.md)
 
-[Working with MSI Records](../concept/working-with-msi-records.md)
+[Working with MSI Records](working-with-msi-records.md)
 
-[Working with Form UI actions](../concept/enable_workspace_form_ui_actions.md)
+[Working with Form UI actions](enable_workspace_form_ui_actions.md)
 
-[Security Incident Closure workflow](../concept/security-incident-closure-workflow_0.md)
+[Security Incident Closure workflow](security-incident-closure-workflow_0.md)
 

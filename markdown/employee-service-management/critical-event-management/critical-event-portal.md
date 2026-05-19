@@ -21,7 +21,7 @@ In the portal, you can view the active critical events where you're a member of 
 
 -   Conducting roll call
 
-    You can view the list of impacted people in your location, manually add more people to the list, such as a visitor from another location, and set each person as **Needs Help** or **Accounted** using the three dot menu. For more details, see [Conduct a roll call as an on-site responder](../task/conduct-roll-call.md).
+    You can view the list of impacted people in your location, manually add more people to the list, such as a visitor from another location, and set each person as **Needs Help** or **Accounted** using the three dot menu. For more details, see [Conduct a roll call as an on-site responder](conduct-roll-call.md).
 
 -   Emergency info panel
 

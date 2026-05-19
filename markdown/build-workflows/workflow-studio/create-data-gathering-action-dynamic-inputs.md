@@ -142,7 +142,7 @@ Role required: admin
 
 You can now use your data gathering action to add arbitrary action inputs to a parent action.![Use your data gathering action to populate options for a dynamic template.](../images/create-data-gathering-action-dynamic-inputs-result.png)
 
-**Parent Topic:**[Dynamic inputs](../concept/dynamic-inputs.md)
+**Parent Topic:**[Dynamic inputs](dynamic-inputs.md)
 
 **Related topics**  
 
@@ -153,5 +153,5 @@ You can now use your data gathering action to add arbitrary action inputs to a p
 
 [Create a data gathering action for a dynamic template](create-data-gathering-action-dynamic-template.md)
 
-[Dynamic input configuration options](../reference/dynamic-input-options.md)
+[Dynamic input configuration options](dynamic-input-options.md)
 

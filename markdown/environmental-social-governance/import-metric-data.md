@@ -91,5 +91,5 @@ The state of a job is updated as the metric import job is processed.-   Draft
     **Note:** Metric data tasks are assigned based on the state of the metric data and the approval requirements. If data is provided, the state of the metric data task moves to Work In Progress. You must submit the task for the state to update to Awaiting approval or closed. Approval records are created and assigned according to the metric definition approval. If approval is not required, the task is created in a new state. Additionally, if the metric data is completed, a metadata task is created for audit purposes.
 
 
-**Parent Topic:**[Importing historical metric data](../concept/importing-metric-data.md)
+**Parent Topic:**[Importing historical metric data](importing-metric-data.md)
 

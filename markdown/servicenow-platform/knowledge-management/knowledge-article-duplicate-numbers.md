@@ -41,5 +41,5 @@ You can also update the initial value for the Knowledge **Number** field so that
 3.  In the Controls related list, in the **Number** field, update the count to a number greater than the largest value already in the system.
 4.  Click **Update**.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 

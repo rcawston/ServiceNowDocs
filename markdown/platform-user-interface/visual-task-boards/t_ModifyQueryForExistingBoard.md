@@ -63,5 +63,5 @@ Guided boards have the **Vertical Lane Field** set to a field, such as **State**
 </table>    The board reloads to reflect the changes.
 
 
-**Parent Topic:**[Customizing and configuring Visual Task Boards](../concept/configuring-vis-task-boards.md)
+**Parent Topic:**[Customizing and configuring Visual Task Boards](configuring-vis-task-boards.md)
 

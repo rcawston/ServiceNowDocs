@@ -95,10 +95,10 @@ To enable the Standard Ticket page for your Service Portal.
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Universal Request](../reference/installed-with-ur.md)**  
+-   **[Components installed with Universal Request](installed-with-ur.md)**  
 Several types of components are installed with activation of the Universal Request plugin, including tables, user roles, and scheduled jobs.
 
-**Parent Topic:**[Universal Request plugins](../concept/ur-plugins.md)
+**Parent Topic:**[Universal Request plugins](ur-plugins.md)
 
 **Related topics**  
 

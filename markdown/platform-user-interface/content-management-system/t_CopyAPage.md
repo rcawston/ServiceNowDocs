@@ -36,5 +36,5 @@ Role required: content\_admin or admin
 6.  Click **Update**.
 
 
-**Parent Topic:**[Content pages in CMS](../concept/c_ContentPages.md)
+**Parent Topic:**[Content pages in CMS](c_ContentPages.md)
 

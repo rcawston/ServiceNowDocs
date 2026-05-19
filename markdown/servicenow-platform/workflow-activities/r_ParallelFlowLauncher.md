@@ -79,7 +79,7 @@ Advanced
 
 </td><td>
 
-Check **Advanced**, to enter a script that uses a WorkflowCoordinator object to manage the subflows. When you check Advanced, a text box appears where you can enter a script that specifies a unique workflow for each set of input variables. See [WorkflowCoordinator object](../concept/c_WorkflowCoordinatorObject.md) for more information.
+Check **Advanced**, to enter a script that uses a WorkflowCoordinator object to manage the subflows. When you check Advanced, a text box appears where you can enter a script that specifies a unique workflow for each set of input variables. See [WorkflowCoordinator object](c_WorkflowCoordinatorObject.md) for more information.
 
 </td></tr><tr><td class="subhead" colspan="2">
 
@@ -127,7 +127,7 @@ Flow complete
 
 </td><td>
 
-The script that runs each time a subflow finishes. This field is available when the **Process flow complete** option is selected. The same script functions and variables available in other workflow scripts, such as those in the Run Script activity, are available here. For more information, see [Completed subflow values in scripts](../concept/c_CompletedSubflowValuesInScripts.md).
+The script that runs each time a subflow finishes. This field is available when the **Process flow complete** option is selected. The same script functions and variables available in other workflow scripts, such as those in the Run Script activity, are available here. For more information, see [Completed subflow values in scripts](c_CompletedSubflowValuesInScripts.md).
 
  The variable "flow" is available to this script. It is an object that contains the following information about the flow that is finishing:
 

@@ -15,9 +15,9 @@ breadcrumb: [Orchestration activity packs, Classic Orchestration, Workflow Data 
 
 Orchestration provides an activity pack customized using the ServiceNow activity designer that runs probes on target hosts to return specific information.
 
-These custom activities were built with the [Create a probe activity](../../orchestration-activity-designer/task/t_CreateAProbeActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](../../orchestration-activity-designer/concept/c_OrchestrationDatabus.md#).
+These custom activities were built with the [Create a probe activity](t_CreateAProbeActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](c_OrchestrationDatabus.md#).
 
-To use the custom probe activities, you must [request activation](../task/t_ActivateAnActivityPack.md) of the Orchestration - Probe plugin.
+To use the custom probe activities, you must [request activation](t_ActivateAnActivityPack.md) of the Orchestration - Probe plugin.
 
 **Parent Topic:**[Orchestration activity packs](c_OrchestrationActivityPacks.md)
 
@@ -27,7 +27,7 @@ The Resolve DNS Name activity takes an IP address or a fully qualified domain na
 
 The domain name is sent through the MID Server to the domain name system \(DNS\) to resolve the name. If a single IP address is returned, it is stored in two variables:*resolved\_ip* and *resolved\_ips*. If multiple IP addresses are returned, the first IP address is stored in the *resolved\_ip* variable, and all the addresses are stored in the *resolved\_ips* variable. If an IP address is provided instead of an FQDN, this address is output directly to both variables. Your ServiceNow instance must have access to a MID Server configured to use Resolve DNS to run this activity.
 
-This activity replaces an activity by the same name available in releases prior to Istanbul. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Istanbul. However, all new workflows must use the custom version of this activity. This activity was built with the [Probe activity template](../../orchestration-activity-designer/task/t_CreateAProbeActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](../../orchestration-activity-designer/concept/c_OrchestrationDatabus.md#).
+This activity replaces an activity by the same name available in releases prior to Istanbul. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Istanbul. However, all new workflows must use the custom version of this activity. This activity was built with the [Probe activity template](t_CreateAProbeActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](c_OrchestrationDatabus.md#).
 
 ### Input variables
 
@@ -84,7 +84,7 @@ The SNMP Query activity queries an SNMP device.
 
 Your ServiceNow instance must have access to a MID Server configured to use SNMP to run this activity.
 
-This activity replaces an activity by the same name available in releases prior to Istanbul. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Istanbul. However, all new workflows must use the custom version of this activity. This activity was built with the [Probe activity template](../../orchestration-activity-designer/task/t_CreateAProbeActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](../../orchestration-activity-designer/concept/c_OrchestrationDatabus.md#).
+This activity replaces an activity by the same name available in releases prior to Istanbul. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Istanbul. However, all new workflows must use the custom version of this activity. This activity was built with the [Probe activity template](t_CreateAProbeActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](c_OrchestrationDatabus.md#).
 
 ### Input variables
 

@@ -111,12 +111,12 @@ Optional **ACC\_VALIDATE\_SIG=0** string that you can add to disable the verific
     For details on the procedure, see [Configure ServiceNow sudoers file](config-sudoers-file.md).
 
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](installing-dex-local.md)
 
 **Related topics**  
 
 
 [Create an ACC registration key](setup-acc.md)
 
-[DEX Architecture](../concept/dex-architecture.md)
+[DEX Architecture](dex-architecture.md)
 

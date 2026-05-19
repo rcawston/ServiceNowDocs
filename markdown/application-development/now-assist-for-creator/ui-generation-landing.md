@@ -70,5 +70,5 @@ UI generation in Now Assist for Creator enables developers to build ServiceNow p
 -   **[UI generation reference](ui-generation-reference.md)**  
 Reference topics provide additional information about configuration properties, roles, and more.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../../build/now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](using-gen-ai-now-assist-for-creator.md)
 

@@ -23,7 +23,7 @@ Role required: Windows local administrator
 
 1.  Ensure that the user with the ServiceNow security\_admin role configures the security properties.
 
-    For more information about security properties, see [Configure security settings for the Password Reset Windows Application](../reference/win-security-properties-password-reset.md).
+    For more information about security properties, see [Configure security settings for the Password Reset Windows Application](win-security-properties-password-reset.md).
 
 2.  Copy the following command into a text editor as one line with no breaks.
 
@@ -128,5 +128,5 @@ Most installations do not need to specify this parameter value. Provide this val
     See [Install Password Reset Windows Application using a wizard](win-install-pwr-wizard.md) and [Install the Password Reset Windows Application using an EXE file from the command line](win-install-pwr-exe.md).
 
 
-**Parent Topic:**[Install Password Reset Windows Application](../concept/win-install-password-reset.md)
+**Parent Topic:**[Install Password Reset Windows Application](win-install-password-reset.md)
 

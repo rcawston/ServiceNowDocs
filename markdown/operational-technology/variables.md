@@ -49,7 +49,7 @@ The Custom-Global variable set can be edited by a user while the Driver - Global
 
 ![Special variable sets](../images/special-variable-sets.png)
 
-You can use variable sets \(Custom - Global or Site-specific sets\) to override a Variable set. See [Edit a Variable set](ot-discovery-console-user-guide/task/editing-a-variable-set.md) or [Create a Site-specific Variable set to use with Auto Query](ot-discovery-console-user-guide/task/add-variable-site-auto-query.md) for more information on editing a Variable set.
+You can use variable sets \(Custom - Global or Site-specific sets\) to override a Variable set. See [Edit a Variable set](editing-a-variable-set.md) or [Create a Site-specific Variable set to use with Auto Query](add-variable-site-auto-query.md) for more information on editing a Variable set.
 
 ## Query Behavior
 

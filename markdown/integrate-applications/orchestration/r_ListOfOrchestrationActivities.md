@@ -15,7 +15,7 @@ breadcrumb: [Activate Orchestration, Classic Orchestration, Workflow Data Fabric
 
 Use Orchestration activities in a Workflow to integrate with third-party systems.
 
-Several Orchestration activities have been rewritten as [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md) activities using the [activity designer](../../orchestration-activity-designer/concept/c_WorkflowActivityDesigner.md) and grouped into [activity packs](../concept/c_OrchestrationActivityPacks.md). Other non-scoped activities are deprecated and may or may not appear in the Workflow Editor. However, all deprecated activities still function in existing workflows that use them.
+Several Orchestration activities have been rewritten as [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md) activities using the [activity designer](c_WorkflowActivityDesigner.md) and grouped into [activity packs](c_OrchestrationActivityPacks.md). Other non-scoped activities are deprecated and may or may not appear in the Workflow Editor. However, all deprecated activities still function in existing workflows that use them.
 
 ## Global activities
 
@@ -23,7 +23,7 @@ These activities run in the global scope only. Any activities you create in the 
 
 |Activity|Description|
 |--------|-----------|
-|[Test Server Alive](../concept/global-activity-pack.md#)|Runs a command \(including shell scripts\) on a Linux or UNIX computer via SSH to validate whether the target system is alive.|
+|[Test Server Alive](global-activity-pack.md#)|Runs a command \(including shell scripts\) on a Linux or UNIX computer via SSH to validate whether the target system is alive.|
 
 ## Active Directory \(AD\) activities
 
@@ -81,21 +81,21 @@ All these activities are scoped and part of the Infoblox DDI activity pack. They
 |Activity|Description|
 |--------|-----------|
 |[DHCP Reserve IP v4 Address Range](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDHCPActivities.md)|Reserves an IP address range for DHCP use.|
-|[DHCP Delete IP Reservation](../concept/c_InfobloxDHCPActivities.md#)|Deletes IP reservations in DHCP using either an IPv4 or IPv6 address range.|
-|[DHCP List IP Reservations](../concept/c_InfobloxDHCPActivities.md#)|Generates a list of all the DHCP range reservations on a specific Infoblox server.|
+|[DHCP Delete IP Reservation](c_InfobloxDHCPActivities.md#)|Deletes IP reservations in DHCP using either an IPv4 or IPv6 address range.|
+|[DHCP List IP Reservations](c_InfobloxDHCPActivities.md#)|Generates a list of all the DHCP range reservations on a specific Infoblox server.|
 |[List DNS C-records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDNSActivities.md)|Retrieves all canonical \(CNAME\) records from a specified Infoblox server.|
-|[Register DNS A-record](../concept/c_InfobloxDNSActivities.md#)|Creates a DNS A record on a specified Infoblox server.|
-|[Register DNS C-Record](../concept/c_InfobloxDNSActivities.md#)|Creates a DNS canonical \(CNAME\) record on a specified Infoblox server.|
-|[List DNS Record](../concept/c_InfobloxDNSActivities.md#)|Generates a list of all the DNS entries on a specific Infoblox server.|
-|[DNS Delete](../concept/c_InfobloxDNSActivities.md#)|Deletes DNS records of any type from in Infoblox server, such as C and A records.|
+|[Register DNS A-record](c_InfobloxDNSActivities.md#)|Creates a DNS A record on a specified Infoblox server.|
+|[Register DNS C-Record](c_InfobloxDNSActivities.md#)|Creates a DNS canonical \(CNAME\) record on a specified Infoblox server.|
+|[List DNS Record](c_InfobloxDNSActivities.md#)|Generates a list of all the DNS entries on a specific Infoblox server.|
+|[DNS Delete](c_InfobloxDNSActivities.md#)|Deletes DNS records of any type from in Infoblox server, such as C and A records.|
 |[IPAM Register IP Address](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxIPAMActivities.md)|Registers an IP address in a network using Infoblox IPAM.|
-|[IPAM Reserve IP Address](../concept/c_InfobloxIPAMActivities.md#)|Reserves an IP address in a network using Infoblox IPAM.|
-|[IPAM List IP Reservations](../concept/c_InfobloxIPAMActivities.md#)|Returns an array of all IP Address within the named Infoblox Server.|
-|[IPAM Delete](../concept/c_InfobloxIPAMActivities.md#)|Deletes an IP Address within a named Infoblox server.|
+|[IPAM Reserve IP Address](c_InfobloxIPAMActivities.md#)|Reserves an IP address in a network using Infoblox IPAM.|
+|[IPAM List IP Reservations](c_InfobloxIPAMActivities.md#)|Returns an array of all IP Address within the named Infoblox Server.|
+|[IPAM Delete](c_InfobloxIPAMActivities.md#)|Deletes an IP Address within a named Infoblox server.|
 |[Create Network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxNetworkActivities.md)|Creates networks on a specified Infoblox server.|
-|[Get Network Details](../concept/c_InfobloxNetworkActivities.md#)|Retrieves the information about a specific network on an Infoblox server.|
-|[Delete Network](../concept/c_InfobloxNetworkActivities.md#)|Deletes a network from an Infoblox server.|
-|[List Registered Networks](../concept/c_InfobloxNetworkActivities.md#)|Retrieves all the networks associated with an Infoblox server.|
+|[Get Network Details](c_InfobloxNetworkActivities.md#)|Retrieves the information about a specific network on an Infoblox server.|
+|[Delete Network](c_InfobloxNetworkActivities.md#)|Deletes a network from an Infoblox server.|
+|[List Registered Networks](c_InfobloxNetworkActivities.md#)|Retrieves all the networks associated with an Infoblox server.|
 
 ## Microsoft Exchange activities
 
@@ -135,7 +135,7 @@ These probe activities were rewritten as scoped activities and are available in 
 |Activity|Description|
 |--------|-----------|
 |[Resolve DNS Name](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/probe_activity-pack.md)|Resolves an IP address or a fully qualified domain name \(FQDN\) into one or more IP addresses.|
-|[SNMP Query](../concept/probe_activity-pack.md#)|Queries an SNMP device.|
+|[SNMP Query](probe_activity-pack.md#)|Queries an SNMP device.|
 
 ## SCCM activities
 
@@ -182,15 +182,15 @@ All these activities are scoped and part of the SFTP File Transfer activity pack
 
 ## Deprecated activities
 
-These activities have been removed from the Workflow Editor and are not available for new workflows, but continue to work normally in existing workflows. You can [reactivate the deprecated activity](../task/t_ReactivateDeprecatedActivity.md) or duplicate the functionality of a deprecated activity as a scoped activity by recreating it using the [activity designer](../../orchestration-activity-designer/concept/c_WorkflowActivityDesigner.md).
+These activities have been removed from the Workflow Editor and are not available for new workflows, but continue to work normally in existing workflows. You can [reactivate the deprecated activity](t_ReactivateDeprecatedActivity.md) or duplicate the functionality of a deprecated activity as a scoped activity by recreating it using the [activity designer](c_WorkflowActivityDesigner.md).
 
 |Activity|Description|
 |--------|-----------|
 |[Run Probe](r_OrchestrationBasicActivities.md)|Launches a MID Server probe on behalf of a document.|
 |[SOAP Request](r_OrchestrationBasicActivities.md)|Executes a SOAP request on a target server. The [SOAP Message](r_SOAPMessageActivity.md) activity replaces this activity.|
-|[Run Command](../concept/c_OrchestrationSSHActivities.md#)|Runs a command \(including shell scripts\) on a Linux or UNIX computer.|
-|[Run SCP](../concept/c_OrchestrationSSHActivities.md#)|Uses Secure Copy Protocol \(SCP\) to copy a file from one computer to another, including the directory in which the file resides. The [Secure Copy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SecureCopyActivity.md) activity replaces the Run SCP activity.|
-|[Run Powershell](../concept/c_OrchestrPowerShellActivities.md#)|Executes Windows PowerShell commands on a MID Server.|
+|[Run Command](c_OrchestrationSSHActivities.md#)|Runs a command \(including shell scripts\) on a Linux or UNIX computer.|
+|[Run SCP](c_OrchestrationSSHActivities.md#)|Uses Secure Copy Protocol \(SCP\) to copy a file from one computer to another, including the directory in which the file resides. The [Secure Copy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SecureCopyActivity.md) activity replaces the Run SCP activity.|
+|[Run Powershell](c_OrchestrPowerShellActivities.md#)|Executes Windows PowerShell commands on a MID Server.|
 
-**Parent Topic:**[Activate Orchestration](../../../product/orchestration/task/t_ActivateOrchestration.md)
+**Parent Topic:**[Activate Orchestration](t_ActivateOrchestration.md)
 

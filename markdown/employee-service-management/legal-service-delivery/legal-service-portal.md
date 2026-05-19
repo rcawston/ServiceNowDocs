@@ -28,5 +28,5 @@ Use the Legal Service Portal to do the following tasks:
 -   Find and read through the top-rated legal knowledge base articles to find information.
 -   Chat with a virtual agent to submit and track legal requests and read legal knowledge base articles.
 
-With ServiceNow® AI Search enabled, you get better search results through predictions and Natural Language Processing \(NLP\). For more information, see [Enable and configure AI Search in Legal Service Portal](../task/configure-ai-search-lsd.md).
+With ServiceNow® AI Search enabled, you get better search results through predictions and Natural Language Processing \(NLP\). For more information, see [Enable and configure AI Search in Legal Service Portal](../legal-request-management/configure-ai-search-lsd.md).
 

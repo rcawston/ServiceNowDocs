@@ -97,5 +97,5 @@ OAuth Entity Profile Scopes
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[OAuth profiles and scopes](../concept/c_OAuthProviderAndScope.md)
+**Parent Topic:**[OAuth profiles and scopes](c_OAuthProviderAndScope.md)
 

@@ -40,7 +40,7 @@ You can send the quiz to all the category users configured for the quiz or to a 
     **Note:** These buttons are hidden if there are no category users defined for the quiz.
 
 
-**Parent Topic:**[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+**Parent Topic:**[Create quizzes with forms](c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 

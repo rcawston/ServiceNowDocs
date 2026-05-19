@@ -53,5 +53,5 @@ The case tasks are created and assigned to the contact tracers to follow up abou
 
 The contact tracers can start working on the tasks by [following up with the exposed contacts](contact-exposed-contacts.md) about their health status.
 
-**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](../concept/exposure-case-management.md)
+**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](exposure-case-management.md)
 

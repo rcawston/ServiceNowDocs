@@ -32,7 +32,7 @@ The system places the following limits on the count of config data items \(CDIs\
 -   An application can contain a maximum total of 100,000 CDIs.
 -   Any single deployable can contain a maximum of 10,000 CDIs.
 
-See [CDM system properties](../reference/cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property settings.
+See [CDM system properties](cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property settings.
 
 ## Procedure
 
@@ -150,9 +150,9 @@ Option to ensure that only snapshots that pass validation can be exported.
 **Related topics**  
 
 
-[CDM data model](../reference/cdm-data-model.md)
+[CDM data model](cdm-data-model.md)
 
-[Viewing and editing config data](../concept/cdm-editing-config-data-changesets.md)
+[Viewing and editing config data](cdm-editing-config-data-changesets.md)
 
 [Define or update a component](cdm-component-define.md)
 
@@ -160,5 +160,5 @@ Option to ensure that only snapshots that pass validation can be exported.
 
 [Create or update a variable CDI](cdm-variables-crud.md)
 
-[How encrypted data is handled](../concept/cdm-secrets-managing.md)
+[How encrypted data is handled](cdm-secrets-managing.md)
 

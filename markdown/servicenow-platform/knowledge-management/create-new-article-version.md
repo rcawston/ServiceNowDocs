@@ -44,5 +44,5 @@ When you check out an article, attachments from the article's base version are c
     The new version of the article is added to the Knowledge list and to the **Article Versions** related list on the Knowledge form.
 
 
-**Parent Topic:**[Use article versioning](../concept/use-article-versioning_0.md)
+**Parent Topic:**[Use article versioning](use-article-versioning_0.md)
 

@@ -24,9 +24,9 @@ Email properties are available from either of these modules:
 
 ## Outbound S/MIME configuration
 
-For encryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [Upload an email certificate](../task/upload-email-certificate.md) and [Upload a CA certificate](../task/upload-ca-certificate.md).
+For encryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [Upload an email certificate](upload-email-certificate.md) and [Upload a CA certificate](upload-ca-certificate.md).
 
-For signing, you must upload the email account key pair in P12 format. For more information, see [Import an S/MIME key pair](../task/import-smime-key-pair.md).
+For signing, you must upload the email account key pair in P12 format. For more information, see [Import an S/MIME key pair](import-smime-key-pair.md).
 
 <table id="table_uvv_2my_vtb"><thead><tr><th>
 
@@ -71,9 +71,9 @@ email.outbound.smime.encryption.algo
 </td></tr></tbody>
 </table>## Inbound S/MIME configuration
 
-For decryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [Upload an email certificate](../task/upload-email-certificate.md) and [Upload a CA certificate](../task/upload-ca-certificate.md).
+For decryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [Upload an email certificate](upload-email-certificate.md) and [Upload a CA certificate](upload-ca-certificate.md).
 
-For signature verification, you must upload the email account key pair in P12 format. For more information, see [Import an S/MIME key pair](../task/import-smime-key-pair.md).
+For signature verification, you must upload the email account key pair in P12 format. For more information, see [Import an S/MIME key pair](import-smime-key-pair.md).
 
 |Configuration|Related property|
 |-------------|----------------|
@@ -86,7 +86,7 @@ To digitally sign or encrypt your emails, go to **All** &gt; **Email** &gt; **No
 
 ![Enable S/MIME for email notification form](../image/smime-email-form.png "Enable S/MIME for email notification form")
 
-For more information, see [Create an email notification](../task/t_CreateANotification.md).
+For more information, see [Create an email notification](t_CreateANotification.md).
 
 ## Enable S/MIME for email client
 
@@ -99,9 +99,9 @@ In the compose email form, select the **Digitally sign your emails** check box f
 **Related topics**  
 
 
-[Import an S/MIME key pair](../task/import-smime-key-pair.md)
+[Import an S/MIME key pair](import-smime-key-pair.md)
 
-[Upload a CA certificate](../task/upload-ca-certificate.md)
+[Upload a CA certificate](upload-ca-certificate.md)
 
-[Upload an email certificate](../task/upload-email-certificate.md)
+[Upload an email certificate](upload-email-certificate.md)
 

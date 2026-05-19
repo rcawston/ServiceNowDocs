@@ -75,13 +75,13 @@ The Now Assist in AI Search plugin is automatically installed when you install a
 With the plugin installed, search administrators can enable Now Assist Genius Results in the following contexts.
 
 -   Enable all available Now Assist Genius Result configurations in individual AI Search portals. For details, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](enable-now-assist-gr-ais-apps.md).
--   Enable Now Assist Q&amp;A Genius Results in search profiles for AI Search applications. For steps, see [Enabling Now Assist Q&amp;A Genius Results](../concept/enabling-now-assist-qa-grs.md#).
--   Enable Now Assist Q&amp;A Genius Results in global search using the AI Search for Next Experience application. For steps, see [Enabling Now Assist Q&amp;A Genius Results](../concept/enabling-now-assist-qa-grs.md#).
+-   Enable Now Assist Q&amp;A Genius Results in search profiles for AI Search applications. For steps, see [Enabling Now Assist Q&amp;A Genius Results](enabling-now-assist-qa-grs.md#).
+-   Enable Now Assist Q&amp;A Genius Results in global search using the AI Search for Next Experience application. For steps, see [Enabling Now Assist Q&amp;A Genius Results](enabling-now-assist-qa-grs.md#).
 
-To learn more about configuration settings for the plugin, see [Configuring Now Assist in AI Search](../concept/configuring-now-assist-ais.md).
+To learn more about configuration settings for the plugin, see [Configuring Now Assist in AI Search](configuring-now-assist-ais.md).
 
 -   **[Review available versions of Now Assist in AI Search](review-available-versions-na-ais.md)**  
 View all versions of the Now Assist in AI Search application on the ServiceNow Store. Use this information to find the latest version of the application that's compatible with your instance's current ServiceNow AI Platform® family release.
 
-**Parent Topic:**[Now Assist in AI Search](../reference/now-assist-ais.md)
+**Parent Topic:**[Now Assist in AI Search](now-assist-ais.md)
 

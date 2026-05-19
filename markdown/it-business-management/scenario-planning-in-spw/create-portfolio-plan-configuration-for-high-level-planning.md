@@ -71,7 +71,7 @@ Rank configuration
 Table that is used to create the portfolio plan.The value for this field is the table selected in the **Source table** field.
 
 </td></tr></tbody>
-</table>    For complete details of the fields on this form, see [Portfolio plan configuration form](../reference/portfolio-plan-configuration-form.md).
+</table>    For complete details of the fields on this form, see [Portfolio plan configuration form](portfolio-plan-configuration-form.md).
 
 4.  Save the form.
 

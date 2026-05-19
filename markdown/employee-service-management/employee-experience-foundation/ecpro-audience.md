@@ -17,7 +17,7 @@ Target portal content and lifecycle event activities to specified audiences with
 
 |For|Use case|
 |---|--------|
-|Portal content|Defines the conditions or criteria that a user must meet to see content in the portal. See [Scheduling the delivery of content](../task/ecpro-schedule-content.md) for more information.|
+|Portal content|Defines the conditions or criteria that a user must meet to see content in the portal. See [Scheduling the delivery of content](ecpro-schedule-content.md) for more information.|
 |Org chart page and my team widget|Defines when new hires display on the org chart page and my team widget in the portal.|
 |Lifecycle event activity|\(Enterprise Onboarding and Transitions\) Defines whether the activity should trigger for the lifecycle event case.|
 

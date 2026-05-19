@@ -29,7 +29,7 @@ Role required: admin
 
 Tables and fields are installed with Operational Sustainability Integration with Socialsuite.
 
-For more information on items installed with Operational Sustainability Management, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../reference/components-installed-with-esg.md).
+For more information on items installed with Operational Sustainability Management, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 ## Procedure
 
@@ -48,7 +48,7 @@ For more information on items installed with Operational Sustainability Manageme
 
 ## What to do next
 
-Configure the Material topic selection system property. Set the property to Socialsuite to enable the **Sync Topics** button and update the material topics visualization. For details, see [Set Material topic selection system property](../task/set-material-topic-selection-system-property.md).
+Configure the Material topic selection system property. Set the property to Socialsuite to enable the **Sync Topics** button and update the material topics visualization. For details, see [Set Material topic selection system property](set-material-topic-selection-system-property.md).
 
 **Parent Topic:**[Integrating Operational Sustainability Management with Socialsuite](integrate-operational-sustainability-with-SocialSuite.md)
 

@@ -15,13 +15,13 @@ breadcrumb: [Workplace Case Management, Workplace Service Delivery, Employee Ser
 
 As a Workplace case manager, you can manage workplace cases created through workplace services. You can view and update cases if required.
 
--   **[View and track workplace cases](../task/view-workplace-cases.md)**  
+-   **[View and track workplace cases](view-workplace-cases.md)**  
 View and track open, closed, and unassigned workplace cases.
--   **[View emergency maintenance case details](../task/view-emergency-maint-case.md)**  
+-   **[View emergency maintenance case details](view-emergency-maint-case.md)**  
 Workplace Event planners can view the emergency maintenance case details and the actions taken by AI agents in the case work notes.
--   **[View change event reservation case details](../task/view-case-change-event-reservation.md)**  
+-   **[View change event reservation case details](view-case-change-event-reservation.md)**  
 Workplace Event planners can view the change event reservation case details and the actions taken by AI agents in the case work notes.
--   **[Print workplace cases](../task/print-workplace-cases.md)**  
+-   **[Print workplace cases](print-workplace-cases.md)**  
 Print case details along with associated services or service items to support effective case management and resolution.
 -   **[Managing print cases](manage-case-print.md#)**  
 Filter workplace cases using criteria such as the Short Description, Workplace Location, or other relevant fields to generate a consolidated report.

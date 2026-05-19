@@ -94,5 +94,5 @@ Select the work item and click **Allocate**.
     -   If the agent rejects the work item and the status moves to **Queued** state.
     -   If the agent does not accept the work item for a long time, with the status as **Pending Accept** and you must allocate it again.
 
-**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](../concept/configurable-channels-workforce-optimization-itsm.md)
+**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](configurable-channels-workforce-optimization-itsm.md)
 

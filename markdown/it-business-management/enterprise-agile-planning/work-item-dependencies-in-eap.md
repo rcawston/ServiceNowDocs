@@ -17,7 +17,7 @@ Learn about work item dependencies and how they're shown on the Planning board f
 
 ## Dependencies overview
 
-While planning, it’s essential to know how your work items are connected with each other. Knowing dependencies between work items enables identification of challenges, coordination for resolution, and an overall improvement in collaboration between teams. Unless you know the dependency for each item, you could be at risk of not scheduling the right work for the right iteration. To get started with dependencies in EAP, see [Create and manage dependencies between work items in EAP](../task/create-dependencies-between-work-items-in-eap.md).
+While planning, it’s essential to know how your work items are connected with each other. Knowing dependencies between work items enables identification of challenges, coordination for resolution, and an overall improvement in collaboration between teams. Unless you know the dependency for each item, you could be at risk of not scheduling the right work for the right iteration. To get started with dependencies in EAP, see [Create and manage dependencies between work items in EAP](create-dependencies-between-work-items-in-eap.md).
 
 ## Dependency line colors
 
@@ -44,7 +44,7 @@ The following screenshot shows the dependencies related lists for a Story.
 
 ![Related lists for dependencies for a story in EAP.](../images/eap-dependencies-related-lists.png)
 
--   **[Create and manage dependencies between work items in EAP](../task/create-dependencies-between-work-items-in-eap.md)**  
+-   **[Create and manage dependencies between work items in EAP](create-dependencies-between-work-items-in-eap.md)**  
 Draw work item dependencies in real-time across teams and iterations and visually analyze them while you collaborate using the Planning board in Enterprise Agile Planning.
 
 **Parent Topic:**[Perform PI planning in EAP](pi-planning-eap.md)
@@ -52,5 +52,5 @@ Draw work item dependencies in real-time across teams and iterations and visuall
 **Related topics**  
 
 
-[Create and manage dependencies between work items in EAP](../task/create-dependencies-between-work-items-in-eap.md)
+[Create and manage dependencies between work items in EAP](create-dependencies-between-work-items-in-eap.md)
 

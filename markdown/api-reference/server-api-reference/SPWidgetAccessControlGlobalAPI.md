@@ -17,7 +17,7 @@ The SPWidgetAccessControl script include provides methods that allow administrat
 
 For details and instructions about using the SPWidgetAccessControl API in your server script, see [Configure widget security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-widget-security.md) \(Restrict which tables public widgets can access for guest users\).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SPWidgetAccessControl – SPWidgetAccessControl\(\)
 

@@ -39,5 +39,5 @@ When an alert is reopened, the related incident is processed as follows:
 4.  Click **Update**.
 
 
-**Parent Topic:**[Manage and monitor alerts](../concept/c_EMAlert.md)
+**Parent Topic:**[Manage and monitor alerts](c_EMAlert.md)
 

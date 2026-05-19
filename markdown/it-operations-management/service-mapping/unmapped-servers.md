@@ -22,7 +22,7 @@ Maximize the use of your organization's resources by mapping application service
 -   Verify Machine Learning readiness.
 -   Confirm that the data is trained.
 
-For more information, see [Application service readiness dashboard in configurable workspace](../reference/readiness-dashboard-ml.md).
+For more information, see [Application service readiness dashboard in configurable workspace](readiness-dashboard-ml.md).
 
 **Important:**
 
@@ -93,5 +93,5 @@ Actions
 
 The selected application service candidate is converted to an application service, and the selected unmapped servers are mapped.
 
-**Parent Topic:**[Using Service Mapping](../concept/using-service-mapping.md)
+**Parent Topic:**[Using Service Mapping](using-service-mapping.md)
 

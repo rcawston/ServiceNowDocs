@@ -15,12 +15,12 @@ breadcrumb: [Configuring Azure DevOps integration with SAFe, Setting up the inte
 
 Set up SAFe related configuration in Azure DevOps projects and understand the workflow of SAFe PI and Sprint integration with Azure DevOps.
 
-After creating map configuration for SAFe entities, [import areas, teams, and iterations](../task/import-areas-teams-azure-agile.md) for your Azure DevOps projects and update the following fields. These fields are mandatory if **Sync Sprints** is set to **true**.
+After creating map configuration for SAFe entities, [import areas, teams, and iterations](import-areas-teams-azure-agile.md) for your Azure DevOps projects and update the following fields. These fields are mandatory if **Sync Sprints** is set to **true**.
 
 -   **ART**: Select an agile release train \(ART\).
 -   **ART Iteration Path**: Select an iteration that is an equivalent to the parent of PI.
 
-    **Note:** If the ART Iteration Path lookup \(![Lookup icon](../../project-workspace/image/lookup_icon.png)\) does not return any records, [import areas, teams, and iterations from Azure DevOps](../task/import-areas-teams-azure-agile.md) and try again.
+    **Note:** If the ART Iteration Path lookup \(![Lookup icon](../../project-workspace/image/lookup_icon.png)\) does not return any records, [import areas, teams, and iterations from Azure DevOps](import-areas-teams-azure-agile.md) and try again.
 
     For the example shown in the following screenshot, **Fabrikam** must be selected as the ART Iteration path.
 
@@ -31,7 +31,7 @@ The application will then automatically identify PI 1 as the program increment a
 
 **Important:**
 
--   To create [team integration settings](../task/set-up-import-export-azure-agile.md#) for a project, the SAFe teams must be a part of the project's ART.
+-   To create [team integration settings](set-up-import-export-azure-agile.md#) for a project, the SAFe teams must be a part of the project's ART.
 -   All teams of an ART must share the same sprint cycle.
 
 ## SAFe sprint and PI integration workflow

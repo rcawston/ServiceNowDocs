@@ -72,5 +72,5 @@ Do this
     When your manager approves or rejects the skill review request and completes it, you will receive a notification.
 
 
-**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](../concept/wfo-itsm-service-operations-workspace.md)
+**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](wfo-itsm-service-operations-workspace.md)
 

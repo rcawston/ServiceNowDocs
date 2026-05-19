@@ -109,5 +109,5 @@ Renewed from
 A customer contract can be renewed multiple times. Renewed from field refers to the previous customer contract that was renewed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customer Contracts and Entitlements reference](../concept/pss-reference.md)
+</table>**Parent Topic:**[Customer Contracts and Entitlements reference](pss-reference.md)
 

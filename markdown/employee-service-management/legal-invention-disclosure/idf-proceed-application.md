@@ -46,5 +46,5 @@ If an optional reward to the inventor at the Proceed with application stage has 
 
 Once you have associated the outside counsel to a legal matter send an email with the matter details to the outside counsel. For more information, see [Provide Legal Invention Disclosure request information to an outside counsel](idf-provide-info-outside-counsel.md).
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](use-legal-invention-disclosure.md)
 

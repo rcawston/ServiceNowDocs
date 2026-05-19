@@ -42,16 +42,16 @@ Role required: sn\_apm.apm\_user
     A confirmation message appears with a link to the newly created document. You can select the link to open the document.
 
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
 
-[Exploring generating documents from diagrams](../../concept/eaw-concept/generate-doc-from-diagram.md)
+[Exploring generating documents from diagrams](generate-doc-from-diagram.md)
 
 [View documents for a diagram](view-docs-for-diagram.md)
 
-[Working with the document templates](../../concept/eaw-concept/document-templates-for-ea.md)
+[Working with the document templates](document-templates-for-ea.md)
 
 [View all architectural documents](view-architectural-documents.md)
 

@@ -32,18 +32,18 @@ For upgraded instances, if you have no custom applications installed or in devel
 
 For applications that you are sharing, you can create a definition to track usage metrics on your application. For more information, see [Custom licensing for ISV applications](custom-licensing-isv-apps.md).
 
--   **[ServiceNow application repository](app-repo.md)**  
+-   **[ServiceNow application repository](application-repository-self-hosted/app-repo.md)**  
 After you develop and test a custom application, you can make the application available to company instances by publishing it to the ServiceNow application repository.
--   **[Publish an application to the ServiceNow Store](../task/t_PublishAppsToTheServiceNowStore.md)**  
+-   **[Publish an application to the ServiceNow Store](t_PublishAppsToTheServiceNowStore.md)**  
 Publishing an application to the ServiceNow Store makes it available to everyone.
--   **[Create application files to include sample data](../task/t_IncludeApplicationData.md)**  
+-   **[Create application files to include sample data](t_IncludeApplicationData.md)**  
 Include sample records from an application data table when sharing a custom application.
--   **[Publish an application to an Update Set](../task/t_PublishApplicationsToAnUpdateSet.md)**  
+-   **[Publish an application to an Update Set](t_PublishApplicationsToAnUpdateSet.md)**  
 Publishing an application creates an update set containing the current version of all application configuration records.
--   **[Queued Application Operations](../task/queued-app-operations.md)**  
+-   **[Queued Application Operations](queued-app-operations.md)**  
 CICD APIs that must obtain the update **instance wide lock / mutex** to perform the requested operations are queued instead of being rejected when the update **instance wide lock / mutex** is occupied by the other operations.
 -   **[Custom licensing for ISV applications](custom-licensing-isv-apps.md)**  
 Monitor the usage of ISV applications with Subscription Management. Create a definition for your store application with the metadata you want collected. After publishing the application with the definition to the store, Usage Analytics runs and aggregates your defined metrics.
 
-**Parent Topic:**[Administer your apps](../reference/r_ManagingApplications.md)
+**Parent Topic:**[Administer your apps](r_ManagingApplications.md)
 

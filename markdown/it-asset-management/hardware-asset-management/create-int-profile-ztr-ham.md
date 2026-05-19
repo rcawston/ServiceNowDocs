@@ -17,7 +17,7 @@ Create a provider integration profile to convert any format of Scratchpad update
 
 ## Before you begin
 
-You must have the Script Include with the method **transformScratchPadToHAMZTRFormat**. For details, see [Create a Script Include to transform Scratchpad updates from the provider](../concept/creating-script-include-for-provide-ztr.md).
+You must have the Script Include with the method **transformScratchPadToHAMZTRFormat**. For details, see [Create a Script Include to transform Scratchpad updates from the provider](creating-script-include-for-provide-ztr.md).
 
 Role required: asset\_integration\_admin or admin
 

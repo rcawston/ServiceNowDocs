@@ -52,7 +52,7 @@ The following system properties can be used to manage API functionality.
     Default: False.
 
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ProcessMiningIntegrationAPI - createProject\(String table, Array activities, Array breakdowns, String encodedQuery, String templateType, Object permissions, Boolean autoRetire\)
 

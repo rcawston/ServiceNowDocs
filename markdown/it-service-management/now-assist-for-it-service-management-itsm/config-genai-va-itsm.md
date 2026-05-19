@@ -55,7 +55,7 @@ Although the following catalog item question types are supported in the conversa
 |Combine AI Search with generative AI chat skills to speed up issue resolution and reduce deflection to a live agent using Now Assist for ITSM in Virtual Agent.|[Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-enhanced-chat.md)|
 |Use the structured and unstructured data from ServiceNow records, knowledge bases, and external sources to enhance the performance of Now Assist in Virtual Agent, AI agents, and generative AI skills using Knowledge Graph.|[Knowledge Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/knowledge-graph-landing.md)|
 |Define crawl settings for external content connectors to crawl source systems and send it to AI Search for indexing.|[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ext-cont-connectors.md)|
-|Monitor your device's performance and diagnose potential issues.|[Check device health using Now Assist for ITSM Virtual Agent](../../digital-end-user-experience/task/check-your-device-s-health-using-now-assist-for-itsm.md)|
+|Monitor your device's performance and diagnose potential issues.|[Check device health using Now Assist for ITSM Virtual Agent](../digital-end-user-experience-self-service/check-your-device-s-health-using-now-assist-for-itsm.md)|
 
 ## Procedure
 

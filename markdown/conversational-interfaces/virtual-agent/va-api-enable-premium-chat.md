@@ -24,5 +24,5 @@ Role required: admin
 1.  Navigate to **All** &gt; **** &gt; ****.
 
 
-**Parent Topic:**[Using Virtual Agent API](../concept/use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](use-virtual-agent-api.md)
 

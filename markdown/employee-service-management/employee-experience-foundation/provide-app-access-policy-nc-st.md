@@ -113,5 +113,5 @@ Role required: Microsoft Teams admin
         ![User permissions](../../meeting-extensibility/image/powershell-user-permissions.png)
 
 
-**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](../concept/setup-notify-ms-teams-single-tenant.md)
+**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](setup-notify-ms-teams-single-tenant.md)
 

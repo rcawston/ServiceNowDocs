@@ -54,7 +54,7 @@ Create an onboarding case using the Case Playbook for Onboarding
 
 Feature that opens the onboarding playbook and initiates the first activity in the Initiate stage, which is gathering the customer information. The agent can complete and save this activity to create the record.
 
- For more information, see [Create a record using a playbook](../task/csm-playbook-create-record.md).
+ For more information, see [Create a record using a playbook](csm-playbook-create-record.md).
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ Feature that enables you to control the activity visibility:
 -   Hide the activities in a stage that the logged-in user can't access.
 -   Hide the pending activities in a stage.
 
- For more information about configuring this feature, see [Configure playbook stage and activity visibility](../task/playbook-config-activity-visibility.md).
+ For more information about configuring this feature, see [Configure playbook stage and activity visibility](playbook-config-activity-visibility.md).
 
 </td></tr><tr><td>
 

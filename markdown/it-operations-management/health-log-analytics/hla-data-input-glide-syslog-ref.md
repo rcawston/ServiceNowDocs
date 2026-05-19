@@ -80,5 +80,5 @@ Syslog table filter
 The criteria used to filter log data from the System Log table before streaming it to the AI engine.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+</table>**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

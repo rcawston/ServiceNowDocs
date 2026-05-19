@@ -27,15 +27,15 @@ You can extend the lead API by overriding the methods in its associated script i
 
 The following is a list of the script includes that you can override to change the behavior of the lead API:
 
--   [LeadAPIProcessUtilOOB](../../../app-store/dev_portal/API_reference/LeadAPIProcessUtilOOB/concept/LeadAPIProcessUtilOOBAPI.md#): Contains methods that handle the retrieval and creation of lead and lead line item records.
--   [LeadApiValidationUtilOOB](../../../app-store/dev_portal/API_reference/LeadAPIValidationUtilOOB/concept/LeadAPIValidationUtilOOBAPI.md#): Contains methods that validate the JSON request object for the POST and PATCH endpoints.
--   [LeadAPIHelperOOB](../../../app-store/dev_portal/API_reference/LeadAPIHelperOOB/concept/LeadAPIHelperOOBAPI.md#): Contains API helper methods that:
+-   [LeadAPIProcessUtilOOB](../server-api-reference/LeadAPIProcessUtilOOBAPI.md#): Contains methods that handle the retrieval and creation of lead and lead line item records.
+-   [LeadApiValidationUtilOOB](../server-api-reference/LeadAPIValidationUtilOOBAPI.md#): Contains methods that validate the JSON request object for the POST and PATCH endpoints.
+-   [LeadAPIHelperOOB](../server-api-reference/LeadAPIHelperOOBAPI.md#): Contains API helper methods that:
     -   Return an array of leads and related lead line items.
     -   Return a JSON object from the associated GlideRecord.
     -   Remove all ignored fields from a JSON object and perform other transformations.
 -   LeadAPIConstantsOOB: Contains constants, status codes, and messages for all API operations. It also includes the list of fields that are ignored by the POST and PATCH endpoints.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](api-rest.md)
 
 ## lead - GET /sn\_lead\_mgmt\_core/lead
 
@@ -52,7 +52,7 @@ Versioned URL: `/api/sn_lead_mgmt_core/{api_version}/lead`
 
 Default URL: `/api/sn_lead_mgmt_core/{api_version}/lead`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](../rest-api-explorer/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../rest-api-explorer/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -142,7 +142,7 @@ Data type: String
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -195,7 +195,7 @@ Total number of filtered records.
 </td></tr></tbody>
 </table>### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 <table><thead><tr><th>
 
@@ -1557,7 +1557,7 @@ Versioned URL: `/api/sn_lead_mgmt_core/{api_version}/lead/{sys_id}`
 
 Default URL: `/api/sn_lead_mgmt_core/{api_version}/lead/{sys_id}`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](../rest-api-explorer/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../rest-api-explorer/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -1598,7 +1598,7 @@ Table: Lead \[sn\_lead\_mgmt\_core\_lead\]
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -1610,7 +1610,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -2827,7 +2827,7 @@ Versioned URL: `/api/sn_lead_mgmt_core/{api_version}/lead/{sys_id}`
 
 Default URL: `/api/sn_lead_mgmt_core/{api_version}/lead/{sys_id}`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](../rest-api-explorer/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../rest-api-explorer/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -3454,7 +3454,7 @@ Zip code of the associated lead.Data type: String
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -3467,7 +3467,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 <table><thead><tr><th>
 
@@ -4794,7 +4794,7 @@ Versioned URL: `/api/sn_lead_mgmt_core/{api_version}/lead`
 
 Default URL: `/api/sn_lead_mgmt_core/{api_version}/lead`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](../rest-api-explorer/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../rest-api-explorer/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -5425,7 +5425,7 @@ Zip code of the associated lead.Data type: String
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -5437,7 +5437,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 <table><thead><tr><th>
 

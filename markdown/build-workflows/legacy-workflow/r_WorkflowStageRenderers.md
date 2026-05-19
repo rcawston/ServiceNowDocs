@@ -80,7 +80,7 @@ The requested item renderer functions the same way as the legacy renderer, but i
 
 Only in Now Mobile, default stage renderer is used.
 
-**Parent Topic:**[Create a workflow stage field](../task/t_CreateAWorkflowStageField.md)
+**Parent Topic:**[Create a workflow stage field](t_CreateAWorkflowStageField.md)
 
 ## Select a stage renderer
 

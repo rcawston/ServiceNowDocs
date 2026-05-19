@@ -46,7 +46,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
         -   `lssysconn -r all -F type_model_serial_num:ipaddr`
     -   Verify you have permissions for the following AIX \(LPAR\) command: `lparstat -i`.
 
-        **Note:** The `lparstat -i` command is in addition to the commands required for AIX server discovery. For more information on AIX server discovery, see [AIX server discovery](../../discovery/reference/r_DataCollDiscoAIXComputers.md). For a list of the AIX commands, see [Service Mapping commands requiring a privileged user](r_CommandsnCredentials.md).
+        **Note:** The `lparstat -i` command is in addition to the commands required for AIX server discovery. For more information on AIX server discovery, see [AIX server discovery](../itom-visibility/r_DataCollDiscoAIXComputers.md). For a list of the AIX commands, see [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md).
 
 -   **Configure SSH credentials**
 
@@ -56,7 +56,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     1.  Run a discovery on the HMC IP address.
     2.  Only when the HMC Server discovery has successfully completed, run a discovery on the LPARs using the AIX machine IP address.
-    For more information on running a discovery, see [Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#).
+    For more information on running a discovery, see [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -323,5 +323,5 @@ Discovery creates these relationships to support the IBM Virtualization and HMC 
 |IBM HMC Processor Pool \[cmdb\_ci\_processor\_pool\]|Members::Member of|IBM LPAR Instance \[cmdb\_ci\_lpar\_instance\]|
 |IBM LPAR Instance \[cmdb\_ci\_lpar\_instance\]|References|IBM Frame \[cmdb\_ci\_ibm\_frame\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

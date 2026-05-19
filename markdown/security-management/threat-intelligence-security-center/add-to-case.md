@@ -114,5 +114,5 @@ The Analyst who is responsible for working on a case.
     An information message is displayed that the selected records are added to case\(s\) successfully.
 
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](observables.md)
 

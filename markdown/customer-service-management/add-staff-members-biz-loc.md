@@ -15,13 +15,13 @@ Add users as staff members to a business location so that they can support accou
 
 |Task|Description|
 |----|-----------|
-|[Add staff members to an internal business location](../task/add-user-internal-bus-location.md)|Add internal users with the snc\_internal role as staff members to an internal business location.|
-|[Add staff members to an external business location](../task/add-user-external-bus-location.md)|Add both internal users with the snc\_internal role and external users with the snc\_external role as staff members to an external business location.|
+|[Add staff members to an internal business location](add-user-internal-bus-location.md)|Add internal users with the snc\_internal role as staff members to an internal business location.|
+|[Add staff members to an external business location](add-user-external-bus-location.md)|Add both internal users with the snc\_internal role and external users with the snc\_external role as staff members to an external business location.|
 
 **Related topics**  
 
 
-[Add staff members to an internal business location](../task/add-user-internal-bus-location.md)
+[Add staff members to an internal business location](add-user-internal-bus-location.md)
 
-[Add staff members to an external business location](../task/add-user-external-bus-location.md)
+[Add staff members to an external business location](add-user-external-bus-location.md)
 

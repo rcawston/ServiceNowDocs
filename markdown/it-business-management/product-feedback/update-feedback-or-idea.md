@@ -47,7 +47,7 @@ Action
 
 </td><td>
 
-Double-click on the feedback or product idea field on the grid to make inline edits. You can select the short description of feedback or product idea to open the full details page. Bulk edit rows in the list view to enable quick updates without editing each record individually. For feedback or product idea field information, see [Feedback form](../reference/feedback-form.md) and [Product idea form](../reference/product-idea-form.md).
+Double-click on the feedback or product idea field on the grid to make inline edits. You can select the short description of feedback or product idea to open the full details page. Bulk edit rows in the list view to enable quick updates without editing each record individually. For feedback or product idea field information, see [Feedback form](feedback-form.md) and [Product idea form](product-idea-form.md).
 
  **Note:** You can’t make inline edits for read-only fields.
 

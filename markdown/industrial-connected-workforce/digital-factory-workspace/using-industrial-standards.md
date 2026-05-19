@@ -20,7 +20,7 @@ Use the Industrial Standards application to manage industrial standards in your 
 
     Plan recurring tasks based on operational standards to maintain equipment conditions and reduce manual tracking.
 
--   **[Create a standard schedule plan](../task/create-events-based-on-schedules.md)**
+-   **[Create a standard schedule plan](create-events-based-on-schedules.md)**
 
     Define when and how tasks should be automatically created from a standard using templates or custom schedules.
 

@@ -19,7 +19,7 @@ Role required: admin
 
 To use push notifications on your branded ServiceNow mobile apps for iOS, you must upload your Apple certificates p12 file, and enter your key store password into your instance.
 
-**Note:** These steps are not necessary if you are not using a custom branded mobile apps. For more detail on custom branding, see [Request, test, and publish a branded mobile app](../concept/request-test-pub-branded-mob-app.md).
+**Note:** These steps are not necessary if you are not using a custom branded mobile apps. For more detail on custom branding, see [Request, test, and publish a branded mobile app](request-test-pub-branded-mob-app.md).
 
 ## Procedure
 
@@ -61,5 +61,5 @@ To use push notifications on your branded ServiceNow mobile apps for iOS, you mu
 11. On the push application form, click **Update**.
 
 
-**Parent Topic:**[Mobile push notifications](../concept/sg-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notifications](sg-mobile-push-notifications.md)
 

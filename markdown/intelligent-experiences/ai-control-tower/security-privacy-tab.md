@@ -23,7 +23,7 @@ The **Security &amp; Privacy** tab of AI Control Tower offers a dashboard-based 
 
 ## ServiceNow AI Insights
 
-ServiceNow AI Insights require that the Now Assist AICT Security Posture Summarizer skill is enabled. For more details, see [Activate a Now Assist skill](../../now-assist-admin/task/configure-a-now-assist-skill.md).
+ServiceNow AI Insights require that the Now Assist AICT Security Posture Summarizer skill is enabled. For more details, see [Activate a Now Assist skill](../configure-a-now-assist-skill.md).
 
 AI Control Tower AI insights summarize positives and potential issues to remediate to improve the overall security posture of your instance.
 
@@ -34,7 +34,7 @@ AI Control Tower AI insights summarize positives and potential issues to remedia
 
 ## Access map
 
-The **Access map** displays a node map detailing the relationships of your ServiceNow® agents, agentic workflows, and tools. You can use the map to review these relationships, configure agent details, and resolve access issues. The map includes filters for both agents and agentic workflows. You can open the access map by either navigating to **All** &gt; **AI Security and Privacy** &gt; **Access Map**, or selecting the link in the dashboard. See [Using the access map](../task/using-the-access-map.md) to learn how to use access map.
+The **Access map** displays a node map detailing the relationships of your ServiceNow® agents, agentic workflows, and tools. You can use the map to review these relationships, configure agent details, and resolve access issues. The map includes filters for both agents and agentic workflows. You can open the access map by either navigating to **All** &gt; **AI Security and Privacy** &gt; **Access Map**, or selecting the link in the dashboard. See [Using the access map](using-the-access-map.md) to learn how to use access map.
 
 ![AI Control Tower access map.](../image/sp-tab-access-map.png)
 
@@ -130,7 +130,7 @@ The AI asset security task to remediate the issue, if applicable.
 
     The area chart shows AI agents with elevated permissions such as an agent with admin or security admin permissions that can perform critical actions. Some workflows require AI agents have elevated permissions to complete. Hover over a portion of the chart to see the exact number of privileged agents on that day.
 
-    To show AWS agent metrics, filter the metrics by selecting **AWS Bedrock** in the provider drop-down list. You must have an AWS account configured for your instance and the Now Assist AiSP AWS IAM Privileged Policy Checker skill enabled. For more details, see [AI connections](ai-discovery-setup.md) and [Activate a Now Assist skill](../../now-assist-admin/task/configure-a-now-assist-skill.md).
+    To show AWS agent metrics, filter the metrics by selecting **AWS Bedrock** in the provider drop-down list. You must have an AWS account configured for your instance and the Now Assist AiSP AWS IAM Privileged Policy Checker skill enabled. For more details, see [AI connections](ai-discovery-setup.md) and [Activate a Now Assist skill](../configure-a-now-assist-skill.md).
 
     ![Area chart detailing the privileged AI agents.](../image/sp-tab-privilage-chart.png)
 
@@ -172,11 +172,11 @@ MCP server access metrics include MCP client-server interactions routed through 
 
 -   **Prompt injection**
 
-    These charts show prompt injection data provided by Now Assist Guardian. To see data, enable Now Assist Guardian for your instance. For more details, see [Now Assist Guardian analytics](../../now-assist-analytics/concept/now-assist-guardian-analytics.md).
+    These charts show prompt injection data provided by Now Assist Guardian. To see data, enable Now Assist Guardian for your instance. For more details, see [Now Assist Guardian analytics](../now-assist-guardian-analytics.md).
 
 -   **Offensive content**
 
-    These charts show offensive content data provided by Now Assist Guardian. To see data, enable Now Assist Guardian for your instance. For more details, see [Now Assist Guardian analytics](../../now-assist-analytics/concept/now-assist-guardian-analytics.md).
+    These charts show offensive content data provided by Now Assist Guardian. To see data, enable Now Assist Guardian for your instance. For more details, see [Now Assist Guardian analytics](../now-assist-guardian-analytics.md).
 
 -   **Sensitive data**
 

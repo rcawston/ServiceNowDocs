@@ -161,7 +161,7 @@ User decision
 10. Complete modifying the pattern as described in [Finalize a pattern](t_FinalizePatternPatDef.md).
 
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
 **Previous topic:**[Enhance patterns without changing their identification sections](modify-pattern-using-extensions.md)
 
@@ -170,9 +170,9 @@ User decision
 **Related topics**  
 
 
-[Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md)
+[Traffic-based discovery in Service Mapping](../service-mapping/traffic-based-discovery.md)
 
-[Enable traffic-based discovery for CI types or specific CIs](t_CreateATrafficBasedDiscoveryRule.md)
+[Enable traffic-based discovery for CI types or specific CIs](../service-mapping/t_CreateATrafficBasedDiscoveryRule.md)
 
-[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 

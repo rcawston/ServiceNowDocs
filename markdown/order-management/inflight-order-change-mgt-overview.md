@@ -104,13 +104,13 @@ After the CPE configuration is complete, no further changes are allowed in the o
 
 -   **[Key inflight order change and cancellation request fields](key-inflight-order-change-cancellation-request-fields.md#)**  
 Learn how the ServiceNow AI Platform uses key fields in the Customer Order and Order Line Item forms to track your order changes and cancellation requests. You can see how these fields operate and what information they show you when you revise or request a cancellation of an order, or order line items.
--   **[Cancel orders](../task/order-mgt-review-cust-order-detail.md#)**  
+-   **[Cancel orders](order-mgt-review-cust-order-detail.md#)**  
 Cancel an inflight order, or order line item when a customer requests it or your internal personnel determine an order cancellation is necessary.
--   **[Revise orders](../task/revise-orders.md)**  
+-   **[Revise orders](revise-orders.md)**  
 Revise order line items to update product quantity for ongoing orders.
--   **[Delete orders](../task/delete-orders.md)**  
+-   **[Delete orders](delete-orders.md)**  
 Delete order or order line items if you no longer require them to be part of the order.
--   **[Review and approve order revisions or cancellation requests](../task/review-and-approve-or-decline-order-cancellation-requests.md)**  
+-   **[Review and approve order revisions or cancellation requests](review-and-approve-or-decline-order-cancellation-requests.md)**  
 Review a customer or service order that has a pending revision or cancellation request so that you can make sure that the order is correct and complete. You can also approve the order and order line item revisions or cancellations requests.
 
 **Parent Topic:**[Using Order Management](using-order-management.md)

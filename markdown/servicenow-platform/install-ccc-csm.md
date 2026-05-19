@@ -36,7 +36,7 @@ The following items are installed with ServiceNow Voice for CSM:
 -   Contact flows
 -   Operation handlers
 
-For more information, see [Components installed with ServiceNow Voice for CSM](../reference/instld-with-ccc-csm.md).
+For more information, see [Components installed with ServiceNow Voice for CSM](instld-with-ccc-csm.md).
 
 ## Procedure
 
@@ -61,7 +61,7 @@ For more information, see [Components installed with ServiceNow Voice for CSM](.
 
 ## What to do next
 
-To set up Voice for CSM, see [Setting up ServiceNow Voice](../concept/ccc-setup.md)
+To set up Voice for CSM, see [Setting up ServiceNow Voice](ccc-setup.md)
 
-**Parent Topic:**[Integrating ServiceNow Voice with CSM](../concept/integrating-ccc-csm.md)
+**Parent Topic:**[Integrating ServiceNow Voice with CSM](integrating-ccc-csm.md)
 

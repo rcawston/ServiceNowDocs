@@ -29,10 +29,10 @@ Role required: sn\_sec\_tisc.analyst
 
 3.  Open any record to view the status of the import process.
 
-    **Note:** You can also click **New Import** to create a new import record. After you click this button, the application will direct you to the **Import Intelligence** page. For more information on creating new records, see [Import Intelligence in TISC](../concept/importing-threat-intelligence.md) section and proceed further with the respective import type.
+    **Note:** You can also click **New Import** to create a new import record. After you click this button, the application will direct you to the **Import Intelligence** page. For more information on creating new records, see [Import Intelligence in TISC](importing-threat-intelligence.md) section and proceed further with the respective import type.
 
 
-**Parent Topic:**[Working with Data Imports](../concept/working-with-data-imports.md)
+**Parent Topic:**[Working with Data Imports](working-with-data-imports.md)
 
 **Related topics**  
 

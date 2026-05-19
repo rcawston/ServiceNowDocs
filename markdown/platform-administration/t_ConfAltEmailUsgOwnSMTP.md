@@ -139,7 +139,7 @@ System Address Filter
 
 System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or outbound email.
 
- For more information, see [System address filters](../../notification/concept/system-address-filters.md).
+ For more information, see [System address filters](system-address-filters.md).
 
 </td></tr><tr><td>
 
@@ -179,10 +179,10 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
 Configure the SMTP server in your internal email architecture to forward email from the custom email address to the instance email address. Implement a spam filter on the custom email address.
 
-**Parent Topic:**[Advanced email setup](../concept/c_AlternateEmailConfigurations.md)
+**Parent Topic:**[Advanced email setup](c_AlternateEmailConfigurations.md)
 
 **Related topics**  
 
 
-[Create an email account](../../notification/task/t_ConfigureAnEmailAccount.md)
+[Create an email account](t_ConfigureAnEmailAccount.md)
 

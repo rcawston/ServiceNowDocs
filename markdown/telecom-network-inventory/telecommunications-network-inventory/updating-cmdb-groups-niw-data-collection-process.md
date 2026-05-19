@@ -69,10 +69,10 @@ You must follow the standard CMDB group naming convention that is used for the N
 
 After the data collection process runs for the Network Inventory Workspace, the new network manufacturer appears in the pie chart in the Network Equipment by manufacturer widget. The new CMDB group includes the network equipment records that are assigned to your new manufacturer.
 
-**Parent Topic:**[Customizing the content in your Network Inventory Workspace widgets](../concept/customizing-content-in-your-network-inventory-workspace-widgets.md)
+**Parent Topic:**[Customizing the content in your Network Inventory Workspace widgets](customizing-content-in-your-network-inventory-workspace-widgets.md)
 
 **Related topics**  
 
 
-[Network Inventory Workspace](../concept/exploring-network-inventory-workspace.md)
+[Network Inventory Workspace](exploring-network-inventory-workspace.md)
 

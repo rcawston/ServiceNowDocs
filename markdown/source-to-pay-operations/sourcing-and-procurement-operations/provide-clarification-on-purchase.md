@@ -35,8 +35,8 @@ Role required: sn\_shop.shopper
 
     This correspondence is tracked through the activity stream of the corresponding purchase requisition or sourcing request here in Shopping Hub. The same is also tracked through the activity stream of the approval plan in Employee Center.
 
-    An email notification is sent to the approver that clarification is provided for the purchase. You can configure this email notification based on your requirements. For details, see [Approval email notification templates](../reference/approval-email-notifications-template.md).
+    An email notification is sent to the approver that clarification is provided for the purchase. You can configure this email notification based on your requirements. For details, see [Approval email notification templates](approval-email-notifications-template.md).
 
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](shopper-todos.md)
 

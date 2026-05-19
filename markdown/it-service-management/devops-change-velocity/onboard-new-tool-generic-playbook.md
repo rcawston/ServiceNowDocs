@@ -75,10 +75,10 @@ Identify the required activity UI and add your tool in the condition builder so 
 
 After completing these steps, your tool can be onboarded using the DevOps generic playbook.
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 
 **Related topics**  
 
 
-[Integrating DevOps Change Velocity with third party tools](../concept/integrating-devops-change-with-third-party-tools.md)
+[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)
 

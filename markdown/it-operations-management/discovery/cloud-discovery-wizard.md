@@ -59,7 +59,7 @@ ITOM Visibility supports several methods for cloud discovery, depending on the l
     -   Needs firewall access from a MID Server
     -   Works with AWS, Azure, GCP, OCI, Alibaba Cloud, and IBM clouds
     -   Supports continuous visibility for AWS, Azure, and GCP
-    For more information, see [Discovery patterns used by ITOM Visibility](../../service-mapping/concept/c_MappingPatternsCustomization.md).
+    For more information, see [Discovery patterns used by ITOM Visibility](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md).
 
 -   **Agent Client Collector for Visibility - Content**
 
@@ -71,7 +71,7 @@ ITOM Visibility supports several methods for cloud discovery, depending on the l
     -   Uses system accounts, local service accounts, or Microsoft gMSA
     -   Supports OS layer discovery only
     -   Works with AWS, Azure, and GCP
-    For more information, see [Agent Client Collector Discovery](../../agent-client-collector/concept/acc-discovery.md).
+    For more information, see [Agent Client Collector Discovery](../agent-client-collector/acc-discovery.md).
 
 -   **Service Graph Connectors**
 
@@ -86,11 +86,11 @@ ITOM Visibility supports several methods for cloud discovery, depending on the l
 
 Each method has its own requirements and supports different use cases, depending on the cloud provider. For more information, see:
 
--   AWS: [AWS cloud discovery methods and use cases](../../it-operations-management/reference/aws-discovery-methods-use-case.md)
--   Azure: [Azure cloud discovery methods and use cases](../../it-operations-management/reference/azure-discovery-methods-use-case.md)
--   GCP: [GCP cloud discovery methods and use cases](../../it-operations-management/reference/gcp-discovery-methods-use-case.md)
+-   AWS: [AWS cloud discovery methods and use cases](aws-discovery-methods-use-case.md)
+-   Azure: [Azure cloud discovery methods and use cases](azure-discovery-methods-use-case.md)
+-   GCP: [GCP cloud discovery methods and use cases](gcp-discovery-methods-use-case.md)
 
-For a list of AWS, Azure, and GCP resources discovered by Discovery and Service Mapping Patterns and Service Graph Connectors, see [Cloud discovery solutions comparison](../../it-operations-management/concept/cloud-discovery-methods-comparison.md).
+For a list of AWS, Azure, and GCP resources discovered by Discovery and Service Mapping Patterns and Service Graph Connectors, see [Cloud discovery solutions comparison](cloud-discovery-methods-comparison.md).
 
 ## Continuous visibility
 
@@ -104,9 +104,9 @@ In push-based discovery, the cloud environment itself is configured to send chan
 
 For more information, see:
 
--   Azure: [Microsoft Azure Alert driven discovery](../../it-operations-management/concept/microsoft-azure-alert-driven-discovery.md#)
--   GCP: [Configure the Google Cloud Logging service to auto-update the CMDB](../../it-operations-management/task/gcp-stackdriver-service.md)
--   AWS: [AWS events-driven discovery](../../it-operations-management/concept/aws-events-driven-discovery.md)
+-   Azure: [Microsoft Azure Alert driven discovery](microsoft-azure-alert-driven-discovery.md#)
+-   GCP: [Configure the Google Cloud Logging service to auto-update the CMDB](gcp-stackdriver-service.md)
+-   AWS: [AWS events-driven discovery](aws-events-driven-discovery.md)
 
 ## Choosing methods for desired business outcomes
 
@@ -137,5 +137,5 @@ OS layer discovery methods support the following business outcomes:
 
 Discovery Admin Workspace provides a centralized location for managing and monitoring discovery operations, including performance monitoring, issue diagnosis, and maintaining configuration accuracy. From tracking schedules and diagnosing errors to tuning configurations and accessing insights, Discovery Admin Workspace integrates key tools to improve efficiency and visibility. You can identify critical tasks, manage discovery processes, and resolve issues with enhanced diagnostics and reporting. For more information, see [Discovery Admin Workspace](discovery-admin-workspace.md).
 
-If you have Cloud Account Management \(CAM\) within Cloud Workspace, you can use CAM to access your cloud account and resource inventory through the Cloud Asset Explorer, Cloud Compliance, and Cloud Accounts dashboards. Cloud Workspace provides comprehensive visibility into cloud accounts and assets across providers, enabling you to track ownership, monitor account trends, and promote regulatory compliance. For more information, see [Cloud Account Management](../../cloud-workspace/concept/cam-landing.md).
+If you have Cloud Account Management \(CAM\) within Cloud Workspace, you can use CAM to access your cloud account and resource inventory through the Cloud Asset Explorer, Cloud Compliance, and Cloud Accounts dashboards. Cloud Workspace provides comprehensive visibility into cloud accounts and assets across providers, enabling you to track ownership, monitor account trends, and promote regulatory compliance. For more information, see [Cloud Account Management](../cloud-account-management/cam-landing.md).
 

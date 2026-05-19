@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideCalendarDateTime class provides methods for performing operations on GlideCalendarDateTime objects, such as instantiating GlideCalendarDateTime objects or working with glide\_date\_time fields.
 
-This API has been deprecated. Please use the [GlideDateTime](../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#) API instead.
+This API has been deprecated. Please use the [GlideDateTime](c_GlideDateTimeScoped.md#) API instead.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 

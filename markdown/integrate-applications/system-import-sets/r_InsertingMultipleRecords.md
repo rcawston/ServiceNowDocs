@@ -21,5 +21,5 @@ The insertMultiple operation is available for the Direct Web Service API and Web
 
 **Note:** Activating this plugin adds a new operation to the SOAP WSDL. After this plugin is activated, consume a new WSDL to update your web services client.
 
-**Parent Topic:**[Web service import sets](../concept/c_WebServiceImportSets.md)
+**Parent Topic:**[Web service import sets](c_WebServiceImportSets.md)
 

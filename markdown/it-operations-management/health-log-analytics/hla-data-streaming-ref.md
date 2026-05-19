@@ -108,5 +108,5 @@ Varies by tool
 -   Datadog: Use the Vector Agent data input to stream data from Datadog to Health Log Analytics.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health Log Analytics reference](../concept/hla-reference.md)
+</table>**Parent Topic:**[Health Log Analytics reference](hla-reference.md)
 

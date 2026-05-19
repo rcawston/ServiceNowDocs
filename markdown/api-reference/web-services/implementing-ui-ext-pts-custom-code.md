@@ -43,7 +43,7 @@ Role required: application-specific developer, application-specific admin, or ad
 
 4.  In the UI Macro form, create the custom code.
 
-    To learn more about creating UI macros, see [UI macros](../../../script/server-scripting/concept/c_UIMacros.md#).
+    To learn more about creating UI macros, see [UI macros](../scripts/c_UIMacros.md#).
 
 5.  Click **Update**.
 
@@ -85,7 +85,7 @@ Role required: admin or the specific role for the developer or administrator of 
 **Related topics**  
 
 
-[UI macros](../../../script/server-scripting/concept/c_UIMacros.md#)
+[UI macros](../scripts/c_UIMacros.md#)
 
 [Using extension points to extend application functionality](extension-points.md)
 

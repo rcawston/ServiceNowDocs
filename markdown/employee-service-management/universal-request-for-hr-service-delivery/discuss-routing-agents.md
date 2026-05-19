@@ -89,5 +89,5 @@ Option to create a private discussion accessible only to chosen participants. Us
 2.  Review all the discussions that you are part of.
 3.  To begin another conversation with routing agents, select **New Discussion**.
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](using-ur.md)
 

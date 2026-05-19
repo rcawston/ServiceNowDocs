@@ -46,7 +46,7 @@ Role required: sn\_fcms\_intg.integration\_user
     -   **Status** is **Pending Submission**
     **Note:** Do not modify the trigger condition.
 
-    **Note:** Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](../concept/s2p-transform-maps-flows.md)
+    **Note:** Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](s2p-transform-maps-flows.md)
 
     You have successfully copied and executed the flow.
 

@@ -87,11 +87,11 @@ Destination
 
 **Table**: -   For legal requests: Default is **Legal Request \[sn\_lg\_ops\_request\]**.
 
-You can select a [practice area table for legal requests](../reference/legal-request-pa-tables.md) as required.
+You can select a [practice area table for legal requests](legal-request-pa-tables.md) as required.
 
 -   For legal matters: Default is **Legal Matter \[sn\_lg\_matter\_matter\]**.
 
-You can select a [practice area table for legal matters](../../legal-matter-management/reference/legal-matter-pa-tables.md) as required.
+You can select a [practice area table for legal matters](../legal-matter-management/legal-matter-pa-tables.md) as required.
 
 </td></tr><tr><td>
 
@@ -131,5 +131,5 @@ Select users with specific roles who are granted access to the record producer.
 5.  In the **Review and Submit** step, review the record producer and click **Submit** to publish the record producer in the selected catalog.
 
 
-**Parent Topic:**[Managing record producers for legal services](../concept/record-producers-legal-services.md)
+**Parent Topic:**[Managing record producers for legal services](record-producers-legal-services.md)
 

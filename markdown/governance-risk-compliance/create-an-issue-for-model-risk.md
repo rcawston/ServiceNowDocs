@@ -31,13 +31,13 @@ Role required: sn\_model\_risk\_mgmt.model\_risk\_coordinator, sn\_model\_risk\_
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the Create an issue form, see [Create an issue form](../reference/create-an-issue-form-mrm.md).
+    For a description of the field values on the Create an issue form, see [Create an issue form](create-an-issue-form-mrm.md).
 
 7.  Select **Save**.
 
 
--   **[Create an issue form](../reference/create-an-issue-form-mrm.md)**  
+-   **[Create an issue form](create-an-issue-form-mrm.md)**  
 Use the Create an issue form to capture validation findings or performance problems for a model.
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

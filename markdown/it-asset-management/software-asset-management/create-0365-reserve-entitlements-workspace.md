@@ -59,7 +59,7 @@ Role required: sam\_user or sam\_admin
 
 ## What to do next
 
-Run a reconciliation to include the new reserve entitlement in the true-up cost calculation. View your reconciliation results in the [Microsoft publisher overview](../reference/publisher-overview-microsoft.md). The cost of the reserve entitlement is included in the **True-up cost** report.
+Run a reconciliation to include the new reserve entitlement in the true-up cost calculation. View your reconciliation results in the [Microsoft publisher overview](publisher-overview-microsoft.md). The cost of the reserve entitlement is included in the **True-up cost** report.
 
 When you pass the end date of the reserve entitlement, the SAM - Subscription Maintenance scheduled job creates a new entitlement to replace it.
 

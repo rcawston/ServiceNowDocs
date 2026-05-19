@@ -30,7 +30,7 @@ The following items are installed with Universal Request:
 -   Store applications
 -   Roles
 
-For more information, see [Universal Request in Service Operations Workspace reference](../reference/components-installed-ur-sow.md).
+For more information, see [Universal Request in Service Operations Workspace reference](components-installed-ur-sow.md).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ For more information, see [Universal Request in Service Operations Workspace ref
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](../concept/setting-up-sow-itsm.md)
+**Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](setting-up-sow-itsm.md)
 

@@ -30,13 +30,13 @@ Accounts Payable Operations supports the following tolerance types:
     **Note:** If tax amount variance for a tax line is within the tolerance range, then supplier tax amount will be copied over to final tax amount field by default.
 
 
--   **[Define an invoice tolerance type](../task/define-a-new-tolerance-type-definition.md)**  
+-   **[Define an invoice tolerance type](define-a-new-tolerance-type-definition.md)**  
 Define an invoice tolerance type that you can use in an exception definition.
--   **[Map invoice tolerance type with invoice exception definition](../task/map-invoice-tolerance-definition-with-tolerance-rule.md)**  
+-   **[Map invoice tolerance type with invoice exception definition](map-invoice-tolerance-definition-with-tolerance-rule.md)**  
 Define a new tolerance type and map them with invoice exception definition of your choice to fulfill a goal.
--   **[Define an invoice tolerance rule](../task/define-a-new-tolerance-rule.md)**  
+-   **[Define an invoice tolerance rule](define-a-new-tolerance-rule.md)**  
 Configure invoice tolerance rule definition for a tolerance type to be applied to invoices matching the invoice filter's conditions.
--   **[View tolerance form](../task/view-tolerance-form.md)**  
+-   **[View tolerance form](view-tolerance-form.md)**  
 Invoice processing cases with exceptions displays the associated **Tolerance details** at header level and **Variance details** at line level.
 
 **Parent Topic:**[Using Accounts Payable Invoice Processing](use-ap-invoice-processing.md)
@@ -56,5 +56,5 @@ Invoice processing cases with exceptions displays the associated **Tolerance det
 
 [Invoice approvals](invoice-approvals.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](view-invoice-attachment.md)
 

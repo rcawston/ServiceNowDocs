@@ -96,5 +96,5 @@ Name of the [Define an SCCM configuration](https://raw.githubusercontent.com/Ser
 7.  To see all client software distribution \(CSD\) catalog items, navigate to **Client Software Distribution** &gt; **Maintain Items** &gt; **Software Items**.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configure-sccm-ihub.md)
+**Parent Topic:**[Configuring SCCM](configure-sccm-ihub.md)
 

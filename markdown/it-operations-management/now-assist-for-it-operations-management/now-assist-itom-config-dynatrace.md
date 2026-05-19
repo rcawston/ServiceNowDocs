@@ -21,7 +21,7 @@ Configure the Dynatrace analysis AI agent for the analyze alert impact agentic w
 Before configuring the Dynatrace analysis AI agent, you must do the following:
 
 -   [Install Now Assist for IT Operations Management \(ITOM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
--   [Integrate Dynatrace platform events with Event Management](../../event-management/concept/dynatrace-events-integration.md).
+-   [Integrate Dynatrace platform events with Event Management](../event-management/dynatrace-events-integration.md).
 -   Copy your Dynatrace connection URL and Dynatrace access token or personal access token.
 
     The Dynatrace access token or personal access token must have the `problems.read` scope.
@@ -93,5 +93,5 @@ Activate the Dynatrace analysis AI agent to use it in the analyze alert impact a
 
 To learn more about using the Dynatrace analysis AI agent in the analyze alert impact agentic workflow, see [Use the analyze alert impact agentic workflow](now-assist-itom-use-aia.md).
 
-**Parent Topic:**[Configuring agents for Now Assist for ITOM](../concept/itom-ai-agent-configuration.md)
+**Parent Topic:**[Configuring agents for Now Assist for ITOM](itom-ai-agent-configuration.md)
 

@@ -147,5 +147,5 @@ The citation is created, the Overview page opens, displaying its description alo
 -   Metric definitions
 -   Metrics
 
-**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](../concept/esg-disclosures.md)
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](esg-disclosures.md)
 

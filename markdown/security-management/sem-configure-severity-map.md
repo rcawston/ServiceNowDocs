@@ -15,7 +15,7 @@ Security Exposure Management Workspace severity mapping transforms third-party s
 
 ## Before you begin
 
-Role required: See [Access control lists \(ACLs\) for administration rules](../concept/sem-acls-for-admin-rules.md)
+Role required: See [Access control lists \(ACLs\) for administration rules](sem-acls-for-admin-rules.md)
 
 ## About this task
 

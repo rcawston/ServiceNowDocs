@@ -171,5 +171,5 @@ Show Relationships
 Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Tools](../concept/tools.md)
+</table>**Parent Topic:**[Tools](tools.md)
 

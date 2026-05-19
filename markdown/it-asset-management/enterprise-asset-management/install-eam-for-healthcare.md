@@ -30,7 +30,7 @@ The following items are installed with Enterprise Asset Management for Healthcar
 -   Roles
 -   Plugins
 
-For more information, see [Installed with Enterprise Asset Management for Healthcare](../reference/installed-with-eam-healthcare.md).
+For more information, see [Installed with Enterprise Asset Management for Healthcare](installed-with-eam-healthcare.md).
 
 ## Procedure
 
@@ -55,10 +55,10 @@ For more information, see [Installed with Enterprise Asset Management for Health
 6.  Select **Install**.
 
 
-**Parent Topic:**[Enterprise Asset Management for Healthcare](../concept/eam-for-healthcare.md)
+**Parent Topic:**[Enterprise Asset Management for Healthcare](eam-for-healthcare.md)
 
 **Related topics**  
 
 
-[Installed with Enterprise Asset Management for Healthcare](../reference/installed-with-eam-healthcare.md)
+[Installed with Enterprise Asset Management for Healthcare](installed-with-eam-healthcare.md)
 

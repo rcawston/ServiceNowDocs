@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for OSquery of External Address in /etc/hosts playbook](../image/playbook-osquery-trigger.png "OSquery of External Address in /etc/hosts playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for OSquery of External Address in /etc/hosts file](../concept/playbook-osquery-external-address.md)
+**Parent Topic:**[Playbook for OSquery of External Address in /etc/hosts file](playbook-osquery-external-address.md)
 

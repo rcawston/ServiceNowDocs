@@ -147,9 +147,9 @@ Purge interval
 
 [Password Reset and Password Change reports and logs](c_MonitorPasswordResetActivity.md)
 
-[Unblock a Password Reset user](../task/t_UnblockAUser.md)
+[Unblock a Password Reset user](t_UnblockAUser.md)
 
-[View user requests for password reset](../task/t_ResetARequest.md)
+[View user requests for password reset](t_ResetARequest.md)
 
-[Unblock a Password Reset user](../task/t_UnblockAUser.md)
+[Unblock a Password Reset user](t_UnblockAUser.md)
 

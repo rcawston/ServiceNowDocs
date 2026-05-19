@@ -47,9 +47,9 @@ If the user chooses to get more information, the AI Search topic block returns o
 
 The following topics describe how to use Virtual Agent Designer and actionable notifications to create the Asset Refresh workflow. Follow these steps in order.
 
-1.  [Create the Asset Refresh topic in Virtual Agent Designer](../task/create-example-conv-asset-refresh.md).
-2.  [Create the Open Incident workflow in the Asset Refresh topic](../task/create-example-asset-refresh-flow2.md).
-3.  [Create the More Information workflow in the Asset Refresh topic](../task/create-example-asset-refresh-flow3.md).
-4.  [Create the notification for the Asset Refresh topic](../task/create-example-asset-refresh-notification.md).
-5.  [Associate content with the Asset Refresh notification](../task/associate-content-example-notification.md).
+1.  [Create the Asset Refresh topic in Virtual Agent Designer](create-example-conv-asset-refresh.md).
+2.  [Create the Open Incident workflow in the Asset Refresh topic](create-example-asset-refresh-flow2.md).
+3.  [Create the More Information workflow in the Asset Refresh topic](create-example-asset-refresh-flow3.md).
+4.  [Create the notification for the Asset Refresh topic](create-example-asset-refresh-notification.md).
+5.  [Associate content with the Asset Refresh notification](associate-content-example-notification.md).
 

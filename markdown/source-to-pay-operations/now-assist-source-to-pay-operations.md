@@ -17,15 +17,15 @@ Use the ServiceNow® Now Assist for Source-to-Pay Operations to help fulfillers 
 
 <table id="table_vcl_vhr_tcc" class="nav-card"><tbody><tr><td>
 
-[Now Assist for Sourcing and Procurement Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Sourcing and Procurement Operations](now-assist-spo.md)
+[Now Assist for Sourcing and Procurement Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Sourcing and Procurement Operations](sourcing-and-procurement-operations/now-assist-spo.md)
 
 </td><td>
 
-[Now Assist for Supplier Lifecycle Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Supplier Lifecycle Operations](../../supplier-lifecycle-operations/concept/now-assist-slo.md)
+[Now Assist for Supplier Lifecycle Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Supplier Lifecycle Operations](supplier-lifecycle-operations/now-assist-slo.md)
 
 </td><td>
 
-[Now Assist for Accounts Payable Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Accounts Payable Operations](../../accounts-payable-operations/concept/now-assist-apo.md)
+[Now Assist for Accounts Payable Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Accounts Payable Operations](accounts-payable-operations/now-assist-apo.md)
 
 </td></tr></tbody>
 </table>

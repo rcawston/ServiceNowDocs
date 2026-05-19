@@ -62,16 +62,16 @@ Although the **Due date** field is auto-populated for a supplier case type, you 
 
 The default due dates for the different case types are configured.
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
-[Case playbook for specific supplier case types](../concept/gen-playbook-cases.md)
+[Case playbook for specific supplier case types](gen-playbook-cases.md)
 
-[Playbook for updating the supplier primary data](../concept/primary-playbook-cases.md)
+[Playbook for updating the supplier primary data](primary-playbook-cases.md)
 
 [Create a case on behalf of a supplier from the Source-to-Pay Workspace](create-new-supplier-case.md)
 

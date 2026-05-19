@@ -39,5 +39,5 @@ Here are a few example scenarios.
 
 The most effective approach to avoid a timeout is to manually save your configurations, especially when working across multiple tabs. This way, progress is not lost when completing other work.
 
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
 

@@ -215,5 +215,5 @@ Extra notes that you want to share between users who can access the request form
     |**To save the form without initiating workflow**|Click **Save**.|
 
 
-**Parent Topic:**[Facilities move requests](../concept/c_FacMoveRequests.md)
+**Parent Topic:**[Facilities move requests](c_FacMoveRequests.md)
 

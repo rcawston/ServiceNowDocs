@@ -131,5 +131,5 @@ Option to provide a text message that displays to the agent when the agent initi
     The chat configuration defined will be applicable only for the table selected. You can extend the chat configuration to other tables by creating another chat configuration record.
 
 
-**Parent Topic:**[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](../concept/auto-import-messages.md)
+**Parent Topic:**[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](auto-import-messages.md)
 

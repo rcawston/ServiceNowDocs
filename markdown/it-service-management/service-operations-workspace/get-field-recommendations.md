@@ -94,5 +94,5 @@ Description
         ![UI of the field recommendations on a new incident form when using a version after 4.2.](../image/ra_get_field_recommendations_drop-down.png)
 
 
-**Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](../concept/recommended-actions-for-itsm-in-service-operations-workspace.md)
+**Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](recommended-actions-for-itsm-in-service-operations-workspace.md)
 

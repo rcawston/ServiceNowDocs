@@ -37,7 +37,7 @@ Only processed expense lines are considered for projects, project tasks, and dem
 
 5.  On the form, fill in the details.
 
-    For more information, see [Expense line form](../reference/expense-line-form.md).
+    For more information, see [Expense line form](expense-line-form.md).
 
 6.  Select **Submit**.
 
@@ -52,7 +52,7 @@ Once the expense line is processed, the actual amount incurred becomes part of t
 
 The actual amount spent is recorded against the project cost plan under the appropriate expense type: **Capex** or **Opex**. Not providing a cost plan reference when creating an expense line, the actual cost is recorded at the project level in the cost plan related list.
 
-If you create an expense line without populating the **Cost Plan** field, a [system-generated cost plans](../concept/cost-plan-breakdown.md#) is created.
+If you create an expense line without populating the **Cost Plan** field, a [system-generated cost plans](cost-plan-breakdown.md#) is created.
 
 **Parent Topic:**[Starting a project](t_CreateAProject.md)
 
@@ -73,7 +73,7 @@ If you create an expense line without populating the **Cost Plan** field, a [sys
 
 [Recalculating costs of all resource plans in a project](recalculate-resource-costs-of-a-project.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -95,7 +95,7 @@ If you create an expense line without populating the **Cost Plan** field, a [sys
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 

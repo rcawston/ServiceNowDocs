@@ -23,7 +23,7 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## Procedure
 
-1.  If you have not installed the Splunk Enterprise Event Ingestion application from the ServiceNow Store for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the Splunk Enterprise Event Ingestion application from the ServiceNow Store for the integration, see [Install a Security Operations integration](../install-non-core-apps.md) and follow the steps to install it.
 
 2.  Navigate to **All** &gt; **Integrations** &gt; **Integrations Configurations**
 
@@ -138,7 +138,7 @@ You have successfully installed and configured the application. The next step is
 -   **[Configure Splunk Enterprise Event Ingestion settings](configure-splunk-enterprise-event-ingestion-settings.md)**  
 Use the Splunk Enterprise Event Ingestion settings to modify the preset configurations and their values as per your requirements.
 
-**Parent Topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](../concept/splunk-event-ingest-overview.md)
+**Parent Topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](splunk-event-ingest-overview.md)
 
 **Previous topic:**[Set up your ServiceNow AI Platform instance for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-setup-sn.md)
 

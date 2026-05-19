@@ -42,7 +42,7 @@ List of synchronized fields:
 **Related topics**  
 
 
-[Create a vendor catalog item](../task/t_CreateAVendorCatalogItem.md)
+[Create a vendor catalog item](t_CreateAVendorCatalogItem.md)
 
-[View a vendor list](../task/t_ViewAVendorList.md)
+[View a vendor list](t_ViewAVendorList.md)
 

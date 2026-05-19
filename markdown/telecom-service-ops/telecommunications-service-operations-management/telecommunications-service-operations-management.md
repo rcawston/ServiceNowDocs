@@ -30,7 +30,7 @@ Learn how Telecommunications Service Operations Management \(TSOM\) empowers com
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Telecommunications Service Operations Management reference information.](../reference/components-installed-with-tsom.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Telecommunications Service Operations Management reference information.](components-installed-with-tsom.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -39,7 +39,7 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-impact.svg) Release Notes**
 
-    Learn more about what's new and changed in this release at [Telecommunications Service Operations Management \(TSOM\) release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/telecommunications-service-operations-management-rn.md)
+    Learn more about what's new and changed in this release at [Telecommunications Service Operations Management \(TSOM\) release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/telecommunications-service-operations-management-rn.md)
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-community.svg)ServiceNow Community**
 

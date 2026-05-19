@@ -47,7 +47,7 @@ The ServiceNow Integration Hub Starter Pack Installer \[com.glide.hub.integratio
 |Plugin|Description|
 |------|-----------|
 |FRISS Spoke \(com.sn\_friss\_spoke\)|Provides a list of the actions to solve the fraudulent activity in the insurance industry. The actions include reducing the number of false reporting of claims, increasing the number of avoided claims, and processing the genuine claims immediately.|
-|Financial Services Operations Core \(sn\_bom\)|Stores the customer data that is needed to make claim requests. For more information, see [Financial Services Operations Core](../../fso-common/reference/financial-services-operations-core-data-model.md).|
+|Financial Services Operations Core \(sn\_bom\)|Stores the customer data that is needed to make claim requests. For more information, see [Financial Services Operations Core](financial-services-operations-core-data-model.md).|
 
 ## Tables installed
 
@@ -74,5 +74,5 @@ Claim Fraud Indicator\[sn\_fso\_intg\_friss\_indicator\]
 Stores details on the indicators that contribute to the fraud score.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Operations Integration with FRISS](../concept/fso-integration-with-friss-overview.md)
+</table>**Parent Topic:**[Financial Services Operations Integration with FRISS](fso-integration-with-friss-overview.md)
 

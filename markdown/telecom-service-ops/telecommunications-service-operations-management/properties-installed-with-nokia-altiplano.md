@@ -65,7 +65,7 @@ Defines whether ONUs are stored as `ONU` or `ONT` CI class. -   Default value: O
 **Related topics**  
 
 
-[Telecom Discovery via Nokia Altiplano](../concept/service-graph-connector-for-nokia-altiplano.md#)
+[Telecom Discovery via Nokia Altiplano](service-graph-connector-for-nokia-altiplano.md#)
 
-[Configure Nokia Altiplano service graph connector](../concept/configuring-service-graph-connector-nokia-altiplano.md)
+[Configure Nokia Altiplano service graph connector](configuring-service-graph-connector-nokia-altiplano.md)
 

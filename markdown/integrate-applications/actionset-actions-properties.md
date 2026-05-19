@@ -263,5 +263,5 @@ Option to specify the location of the green plus icon \(![Green plus icon.](../i
 |X|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
 |Y|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

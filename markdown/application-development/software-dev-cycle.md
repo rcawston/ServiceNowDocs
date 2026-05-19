@@ -15,9 +15,9 @@ Software development usually encompasses a standard set of steps. If you're new 
 
 ## Your job as a developer
 
-If you're new to developing applications, if you don't even know how to code, ServiceNow has a low-code development platform called [Creator Studio](../../creator-studio/concept/creator-studio-landing.md) that makes creating a basic request-fulfill application possible for you. Development might be new waters for you to swim in but you will find the low-code tools easy to use. So, don't be shy about developing an app!
+If you're new to developing applications, if you don't even know how to code, ServiceNow has a low-code development platform called [Creator Studio](creator-studio/creator-studio-landing.md) that makes creating a basic request-fulfill application possible for you. Development might be new waters for you to swim in but you will find the low-code tools easy to use. So, don't be shy about developing an app!
 
-Software developers do many things but what they have in common is solving problems using computer code. ServiceNow offers coding platforms that require no coding experience, mid-level coding experience, and expert coding experience. The less coding required, the more work the coding platform does for you. So, even experienced software developers will appreciate low- and mid-level coding platforms, such as [Creator Studio](../../creator-studio/concept/creator-studio-landing.md) and [App Engine Studio](../../app-engine-studio/concept/aes-overview.md).
+Software developers do many things but what they have in common is solving problems using computer code. ServiceNow offers coding platforms that require no coding experience, mid-level coding experience, and expert coding experience. The less coding required, the more work the coding platform does for you. So, even experienced software developers will appreciate low- and mid-level coding platforms, such as [Creator Studio](creator-studio/creator-studio-landing.md) and [App Engine Studio](app-engine-studio/aes-overview.md).
 
 ## Software development life cycle
 
@@ -50,7 +50,7 @@ If you're planning to create an application, you must have some notion of what y
 -   Desired application output
 -   Data going into the application
 
-The data going in typically comes from a table of data. You need to know the table name and the type of data in it. You can use ServiceNow tools, like [Table Builder](../../../administer/form-builder/concept/tb-landing-page.md), to store and customize your data.
+The data going in typically comes from a table of data. You need to know the table name and the type of data in it. You can use ServiceNow tools, like [Table Builder](form-builder-glide-family-release/tb-landing-page.md), to store and customize your data.
 
 The desired output might be a dashboard, data stored in a table, or a piece of equipment being sent to an employee. Before you decide on the output, show a mockup of your output to a lot of people to see if they can suggest improvements to the output. Do not skip this step.
 
@@ -58,7 +58,7 @@ The desired output might be a dashboard, data stored in a table, or a piece of e
 
 There are various ways to create an algorithm that produces the output you want. The easiest methodology is to use a flowchart that starts with the input data and shows each step in the process that leads to the output. Using a flowchart enables you to focus on the big picture of what you want to do and avoid how to do it. Look at your flowchart critically to optimize the process.
 
-You may need to get permissions to use tables of data or even permission to create an application. For example, citizen developers are granted app development permissions through [App Engine Management Center](../../app-engine-management-center/concept/managing-app-development-using-aemc.md).
+You may need to get permissions to use tables of data or even permission to create an application. For example, citizen developers are granted app development permissions through [App Engine Management Center](app-engine-management-center/managing-app-development-using-aemc.md).
 
 For more information about ServiceNow planning tools, see [Planning your application](planning-applications.md).
 
@@ -66,9 +66,9 @@ For more information about ServiceNow planning tools, see [Planning your applica
 
 To code the application, you can use:
 
--   Low-code ServiceNow tools, such as [App Engine Studio](../../app-engine-studio/concept/aes-overview.md).
--   Mid-level and pro-code ServiceNow tools, such as [ServiceNow Studio.](../../servicenow-studio/concept/servicenow-studio-landing.md)
--   Pro-dev source code tools, such as [ServiceNow IDE](../../servicenow-ide/concept/servicenow-ide-landing.md) and [ServiceNow SDK](../../servicenow-sdk/concept/servicenow-sdk-landing.md).
+-   Low-code ServiceNow tools, such as [App Engine Studio](app-engine-studio/aes-overview.md).
+-   Mid-level and pro-code ServiceNow tools, such as [ServiceNow Studio.](servicenow-studio-classic/servicenow-studio-landing.md)
+-   Pro-dev source code tools, such as [ServiceNow IDE](servicenow-ide-family-release/servicenow-ide-landing.md) and [ServiceNow SDK](servicenow-sdk/servicenow-sdk-landing.md).
 
 For more information about ServiceNow coding platforms, see [Developing your application](developing-applications.md).
 

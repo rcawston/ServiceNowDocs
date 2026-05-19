@@ -141,18 +141,18 @@ Option to choose the order in which the entity should be displayed.
     The integration service is configured for the selected entity.
 
 
-**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](../concept/configuring-source-to-pay-oracle-ebs-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](configuring-source-to-pay-oracle-ebs-integration.md)
 
 **Related topics**  
 
 
-[ERP source configuration for Oracle EBS](../concept/erp-source-configuration-oracle.md)
+[ERP source configuration for Oracle EBS](erp-source-configuration-oracle.md)
 
 [Define ERP source configuration for Oracle EBS](define-erp-source-oracle.md)
 
 [Load data to ERP user-mapping table for Oracle EBS](load-data-erp-user-mapping-oracle-ebs.md)
 
-[Look up primary data in Oracle EBS](../concept/look-up-primary-data-oracle-ebs.md)
+[Look up primary data in Oracle EBS](look-up-primary-data-oracle-ebs.md)
 
-[Scheduled jobs to look up primary data in Oracle EBS](../concept/scheduled-jobs-to-primary-data-oracle-ebs.md)
+[Scheduled jobs to look up primary data in Oracle EBS](scheduled-jobs-to-primary-data-oracle-ebs.md)
 

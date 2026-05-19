@@ -134,5 +134,5 @@ Enter the text that specifies the next selection action that the user can make a
 </table>    2.  Select **Submit**.
 
 
-**Parent Topic:**[Working with setup topics](../concept/working-setup-topics.md)
+**Parent Topic:**[Working with setup topics](working-setup-topics.md)
 

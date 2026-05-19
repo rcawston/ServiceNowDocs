@@ -160,9 +160,9 @@ Query status
 NA
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Connectors references](../concept/workplace-connectors-references.md)
+</table>**Parent Topic:**[Workplace Connectors references](workplace-connectors-references.md)
 
 **Previous topic:**[Components installed with Workplace Connectors](component-workplace-connectors.md)
 
-**Next topic:**[Workplace Concierge](../../workplace-concierge/concept/workplace-concierge-feat.md)
+**Next topic:**[Workplace Concierge](../workplace-concierge/workplace-concierge-feat.md)
 

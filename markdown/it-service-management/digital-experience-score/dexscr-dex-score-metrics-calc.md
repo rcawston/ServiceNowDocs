@@ -131,12 +131,12 @@ Device experience score is calculated as the average of the experience scores of
 |User sentiment score|The user sentiment score​ for each device group is the average of the normalized sentiment scores. The scores are collected from user feedback for the devices in the group.|
 |Service experience score​|The service experience score​ for each device group is the weighted ​average of​ normalized​ incident metric scores. The scores are based on all the incidents resolved for the devices in the group.|
 
-**Parent Topic:**[Digital Experience Score​ reference](../concept/dexscr-dex-score-reference.md)
+**Parent Topic:**[Digital Experience Score​ reference](dexscr-dex-score-reference.md)
 
 **Related topics**  
 
 
-[Metric scores in Digital Experience Score​](../concept/dexscr-dex-score-defs.md)
+[Metric scores in Digital Experience Score​](dexscr-dex-score-defs.md)
 
 [DEX Score normalization for metric scores](dexscr-dex-score-normalization.md)
 

@@ -28,12 +28,12 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager, sn\_rpa\_fdn.rpa\_business\_u
 4.  Open an alert to view the details.
 
 
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)
 
 **Related topics**  
 
 
-[Alerts form in RPA Hub](../reference/alert-form.md)
+[Alerts form in RPA Hub](alert-form.md)
 
 [Alert rule form in RPA Hub](create-alert-rule-rpa.md#)
 

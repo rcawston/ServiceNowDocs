@@ -130,5 +130,5 @@ Provides the total available megabytes.
     [Return](connector-wmi-method-parameters.md#AvailableMBytes-output-return)
 
 
-**Parent Topic:**[ITSM connector](../concept/itsm.md)
+**Parent Topic:**[ITSM connector](itsm.md)
 

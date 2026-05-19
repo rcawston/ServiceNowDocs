@@ -53,7 +53,7 @@ Video that shows how to add an operation to a model in Zero Copy Connector for E
 
 7.  Select at least one user role or group that can read or run the model operation.
 
-    To prevent disruptions, all existing model operations have been assigned the admin role and the erp\_user role by default. You can edit these permissions on the existing operations at any time to suit your needs. To change the permissions, select the edit \(pencil\) icon ![](../../../reuse/icons/product-icons/pencil-outline-24.svg) on the model operation card. For more information about model operation security, see [Set operation-level security on a model](../concept/erp-canvas-set-operation-level-security-on-a-model.md).
+    To prevent disruptions, all existing model operations have been assigned the admin role and the erp\_user role by default. You can edit these permissions on the existing operations at any time to suit your needs. To change the permissions, select the edit \(pencil\) icon ![](../../../reuse/icons/product-icons/pencil-outline-24.svg) on the model operation card. For more information about model operation security, see [Set operation-level security on a model](erp-canvas-set-operation-level-security-on-a-model.md).
 
 8.  Select **Save and continue**.
 
@@ -68,9 +68,9 @@ The foundation of the operation is created.
 
 ## What to do next
 
-Next, you must add the read or update entity to the operation. For more information, see [Add an entity to a model](../concept/add-an-entity-to-model.md).
+Next, you must add the read or update entity to the operation. For more information, see [Add an entity to a model](add-an-entity-to-model.md).
 
 You can select the delete icon \(![](../../../reuse/icons/product-icons/trash-outline-24.svg)\) on the operation's card to remove any operations you don't need, or to start over.
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

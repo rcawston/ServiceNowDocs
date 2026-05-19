@@ -22,7 +22,7 @@ Subscribe to knowledge bases and knowledge articles to receive email notificatio
     -   Knowledge authors are auto-subscribed to the articles they create. They receive email notifications when the articles they created are checked out or revised \(published\) by other authors, and if the articles receive user comments.
     -   Users who subscribe to an article receive email notifications when the article is revised \(published\).
 
-Users can set their Knowledge notification preferences using **System Settings**. For more information, see [Managing email notifications in Knowledge Management](email-notifications-km.md) and [Set knowledge notification preferences](../task/set-subscription-notifications.md).
+Users can set their Knowledge notification preferences using **System Settings**. For more information, see [Managing email notifications in Knowledge Management](email-notifications-km.md) and [Set knowledge notification preferences](set-subscription-notifications.md).
 
 The knowledge subscription feature is available for both the Knowledge Management v3 user interface and the Knowledge Management Service Portal.
 
@@ -34,7 +34,7 @@ If the article versioning feature is enabled, the following notifications are al
 
 ## Activation information
 
-The knowledge subscriptions feature requires the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\). For more information, see [Configure knowledge subscriptions](../task/configure-subscription-properties.md).
+The knowledge subscriptions feature requires the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\). For more information, see [Configure knowledge subscriptions](configure-subscription-properties.md).
 
 **Related topics**  
 

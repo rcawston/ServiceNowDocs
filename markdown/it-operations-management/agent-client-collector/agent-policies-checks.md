@@ -17,7 +17,7 @@ Agent Client Collector Monitoring provides various default checks and policies.
 
 ## Provided checks
 
-The following tables list the default checks. You can edit these checks as needed. For more information about a specific check, see its Check Definitions page, as described in [Checks and policies](../concept/checks-policies.md).
+The following tables list the default checks. You can edit these checks as needed. For more information about a specific check, see its Check Definitions page, as described in [Checks and policies](checks-policies.md).
 
 <table id="table_yds_5j1_ckb"><thead><tr><th>
 
@@ -41,7 +41,7 @@ os.linux.check-process
 
 </td><td>
 
-Counts the number of running processes.You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](../task/prevent-events-nonexistent-entities.md).
+Counts the number of running processes.You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](prevent-events-nonexistent-entities.md).
 
 </td></tr><tr><td>
 
@@ -282,7 +282,7 @@ util.check-logs
 
 </td><td>
 
-Enables monitoring log files owned by a regular user.You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](../task/prevent-events-nonexistent-entities.md).
+Enables monitoring log files owned by a regular user.You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](prevent-events-nonexistent-entities.md).
 
 </td></tr><tr><td>
 
@@ -294,7 +294,7 @@ util.check-logs-sudo
 
 </td><td>
 
-Enables monitoring log files owned by a root user.You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](../task/prevent-events-nonexistent-entities.md).
+Enables monitoring log files owned by a root user.You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](prevent-events-nonexistent-entities.md).
 
 </td></tr></tbody>
 </table>|Type|Name|Description|
@@ -550,7 +550,7 @@ util.check-windows-service
 
 </td><td>
 
-Checks if a user-supplied service is running on Windows.You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](../task/prevent-events-nonexistent-entities.md).
+Checks if a user-supplied service is running on Windows.You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](prevent-events-nonexistent-entities.md).
 
 </td></tr><tr><td>
 
@@ -1748,7 +1748,7 @@ Monitors Azure databases on an Azure datacenter.To enable the policy's checks:
 
 The default monitored CI Type is cmdb\_ci\_azure\_datacenter, but the binding occurs on the Cloud Database \(cmdb\_ci\_cloud\_database\).
 
-For details on configuring a policy, see [Create a new Agent Client Collector policy](../task/create-edit-policies.md).
+For details on configuring a policy, see [Create a new Agent Client Collector policy](create-edit-policies.md).
 
 </td><td>
 
@@ -1993,7 +1993,7 @@ Monitors health of Kubernetes infrastructure, such as clusters, nodes, pod statu
     -   `https://<api_server_url>/api` \(Whether the API server and agent are running on the same or different servers\).
 To use the localhost as your api\_server, run the following command: `"kubectl proxy -port=8081 &"`
 
--   Run Discovery to discover all Kubernetes CIs. For details, see [Kubernetes discovery](../../service-mapping/concept/kubernetes-discovery.md).
+-   Run Discovery to discover all Kubernetes CIs. For details, see [Kubernetes discovery](../discovery/kubernetes-discovery.md).
 
 </td><td>
 
@@ -2205,7 +2205,7 @@ Varnish Metrics
 
 Monitors and collects metrics from Varnish.Varnish metrics are supported in ITOM Agent Client Collector version 2.3.0 - August 2022, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
- You must perform discovery using application fingerprints before running Varnish checks. For details, see [Enable running of Varnish checks](../task/discover-varnish-ci.md).
+ You must perform discovery using application fingerprints before running Varnish checks. For details, see [Enable running of Varnish checks](discover-varnish-ci.md).
 
 </td><td>
 
@@ -2287,7 +2287,7 @@ Monitors logs on operational Windows servers.
 
 os.windows.check-log
 
- You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](../task/prevent-events-nonexistent-entities.md).
+ You can block event creation for this check when no process is detected. For details, see [Block event creation for non-existent entities](prevent-events-nonexistent-entities.md).
 
 </td></tr><tr><td>
 
@@ -2373,7 +2373,7 @@ The following tables list and describe the metrics that are gathered as output f
 Agent Client Collector provides the following default checks and policies for Azure health monitoring.
 -   **[Azure metrics](azure-metrics.md)**  
 The following tables list and describe the metrics that are gathered as output from Azure checks. Entries indicated as **Featured metrics** are high-visibility metrics that are displayed in the Operator Workspace Metric tab after an alert is generated. These metrics provide the operator with additional information to help them further explore the specified issue.
--   **[Azure cloud metrics](../concept/azure-cloud-metrics.md)**  
+-   **[Azure cloud metrics](azure-cloud-metrics.md)**  
 Azure cloud metrics are gathered from Azure virtual machines \(VMs\) and Azure storage account policies. Collecting the cloud metrics enables you to monitor the performance of your Azure resources.
 -   **[Cassandra default checks and policies](cassandra-checks-policies.md)**  
 Agent Client Collector provides the following policies for Cassandra health monitoring. Policies come with the checks specified in the indicated table. Policies and checks are available for Linux only.

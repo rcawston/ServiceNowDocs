@@ -26,7 +26,7 @@ The following tables are provided with [multiple service catalogs](../concept/c_
 |Catalog Items Catalog \[sc\_cat\_item\_catalog\]|Stores the catalogs an item is available in.|
 |Catalog Item Category \[sc\_cat\_item\_category\]|Stores the categories an item is available in.|
 
-**Parent Topic:**[Service catalog setup](../topic/p_ServiceCatalogs.md)
+**Parent Topic:**[Service catalog setup](p_ServiceCatalogs.md)
 
 ## Catalog site records
 

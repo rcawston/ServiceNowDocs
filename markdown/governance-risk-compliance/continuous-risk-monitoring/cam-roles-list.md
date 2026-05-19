@@ -182,5 +182,5 @@ Responsible for performing actual work in the system. They can update authorizat
 -   business user
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CAM reference](../concept/reference-grc-cam.md)
+</table>**Parent Topic:**[CAM reference](reference-grc-cam.md)
 

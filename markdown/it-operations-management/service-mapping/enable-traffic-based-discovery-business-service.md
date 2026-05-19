@@ -21,7 +21,7 @@ Role required: service\_mapping\_admin
 
 ## About this task
 
-Service Mapping can discover and map configuration items \(CIs\) following their traffic-based connections. This method is referred to as traffic-based mapping and complements pattern-based mapping. For more information about how Service Mapping performs traffic-based discovery, see [Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md).
+Service Mapping can discover and map configuration items \(CIs\) following their traffic-based connections. This method is referred to as traffic-based mapping and complements pattern-based mapping. For more information about how Service Mapping performs traffic-based discovery, see [Traffic-based discovery in Service Mapping](traffic-based-discovery.md).
 
 ## Procedure
 

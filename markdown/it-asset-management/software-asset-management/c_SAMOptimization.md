@@ -188,7 +188,7 @@ When the state changes to Awaiting User, a notification is sent to the user.
 **Related topics**  
 
 
-[View or create software usage](../task/view-sw-usage-workspace.md)
+[View or create software usage](view-sw-usage-workspace.md)
 
-[Reclaim software](../task/reclaiming-software-sam.md)
+[Reclaim software](reclaiming-software-sam.md)
 

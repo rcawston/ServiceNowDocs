@@ -46,7 +46,7 @@ Provide a value for each input that your flow needs. To add dynamic values, you 
 
     **Important:** The system does not support updating multiple journal fields such as the additional comments or work notes of a task record.
 
-    If adding the action to a subflow, you can [Create a template value input](../task/template-value.md). Dynamically set field values can trigger server-side validation rules but cannot trigger UI policies.
+    If adding the action to a subflow, you can [Create a template value input](template-value.md). Dynamically set field values can trigger server-side validation rules but cannot trigger UI policies.
 
 -   **Determines uniqueness**
 
@@ -91,5 +91,5 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
 ![Inputs used for create or update problem record.](../images/example-create-update-record.png "Inputs used for create or update problem record")
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

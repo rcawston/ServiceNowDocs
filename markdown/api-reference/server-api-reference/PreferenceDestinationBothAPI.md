@@ -19,11 +19,11 @@ A notification destination is somewhere that a notification can be delivered to,
 
 A user can update their own notification preferences, and an admin can update notification preferences for any user. User notification preferences control which destinations will receive which notifications.
 
-Use this API with the [Preferences](../../Preferences/concept/PreferencesBothAPI.md#) API. Before calling any methods in this class, you must call the Preferences.getDestinations\(\) or Preferences.getDestinationsByChannel\(\) methods to instantiate a PreferenceDestination object.
+Use this API with the [Preferences](PreferencesBothAPI.md#) API. Before calling any methods in this class, you must call the Preferences.getDestinations\(\) or Preferences.getDestinationsByChannel\(\) methods to instantiate a PreferenceDestination object.
 
 This class uses the `sn_notification` namespace identifier.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PreferenceDestination - getChannel\(\)
 

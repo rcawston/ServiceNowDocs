@@ -17,18 +17,18 @@ The SimilaritySolutionVersion API is a scriptable object used in Predictive Inte
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-This API is used is used for working with solution versions based on [SimilaritySolution API](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) objects in the [SimilaritySolution store](../../SimilaritySolutionStore/concept/SimilaritySolutionStoreAPI.md#).
+This API is used is used for working with solution versions based on [SimilaritySolution API](SimilaritySolutionAPI.md#) objects in the [SimilaritySolution store](SimilaritySolutionStoreAPI.md#).
 
 The system creates a solution version each time you train a solution definition. Most versions are created during scheduled solution training.
 
 Methods in this API are accessible using the following SimilaritySolution methods:
 
--   [getActiveVersion\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
--   [getAllVersions\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
--   [getLatestVersion\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
--   [getVersion\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
+-   [getActiveVersion\(\)](SimilaritySolutionAPI.md#)
+-   [getAllVersions\(\)](SimilaritySolutionAPI.md#)
+-   [getLatestVersion\(\)](SimilaritySolutionAPI.md#)
+-   [getVersion\(\)](SimilaritySolutionAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SimilaritySolutionVersion - getProperties\(\)
 
@@ -52,7 +52,7 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [SimilaritySolution](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [SimilaritySolution](SimilaritySolutionAPI.md#) version details. Results vary by object property setup.```
 {
   "domainName": "String",
   "isActive": "String",
@@ -590,7 +590,7 @@ Object
 
 </td><td>
 
-[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
+[GlideRecord](c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
 
 </td></tr><tr><td>
 

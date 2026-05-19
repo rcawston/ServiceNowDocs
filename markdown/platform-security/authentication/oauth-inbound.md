@@ -115,9 +115,9 @@ Legacy Single-page applications \(SPAs\) or browser-based apps that can’t secu
 The user logs in through a browser. The client application receives the access token directly in the URL after login, bypassing the intermediate authorization code step. This flow was originally designed for public clients that run entirely in the browser, where securely storing secrets isn’t possible. While it simplifies implementation, it exposes tokens in the browser, increasing the risk of interception. For stronger security, ServiceNow recommends implementing an authorization code grant with PKCE.
 
 </td></tr></tbody>
-</table>For more information about Implicit grant workflow and configuration, see [OAuth implicit grants](../../../administer/security/concept/c_OAuthImplicitGrants.md).
+</table>For more information about Implicit grant workflow and configuration, see [OAuth implicit grants](c_OAuthImplicitGrants.md).
 
 ## OAuth Scopes
 
-You can scope the OAuth authentication scope support for REST API. OAuth Scope provides access to only the particular REST APIs. For more information, see [REST API Auth Scope](../../../administer/security/concept/rest-api-auth-scope.md).
+You can scope the OAuth authentication scope support for REST API. OAuth Scope provides access to only the particular REST APIs. For more information, see [REST API Auth Scope](rest-api-auth-scope.md).
 

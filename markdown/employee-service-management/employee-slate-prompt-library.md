@@ -18,7 +18,7 @@ Example natural-language prompts that you can use across Employee Slate features
 
 The prompt library groups example prompts by feature area. Use the prompts as written or adapt the phrasing to your context. The assistant retains conversation context across turns, so you can refine results with follow-up prompts in the same chat.
 
-For more information, see  and [Employee Slate for Now Assist](../concept/employee-slate-nowassist.md).
+For more information, see  and [Employee Slate for Now Assist](employee-slate-nowassist.md).
 
 ## Conversation-first experience
 

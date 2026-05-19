@@ -105,5 +105,5 @@ CMDB Advisor targeted product
 Targeted product definitions for CMDB success advisor, including icon, display name, and display order.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CMDB success advisor reference](../concept/cmdb-sa-reference.md)
+</table>**Parent Topic:**[CMDB success advisor reference](cmdb-sa-reference.md)
 

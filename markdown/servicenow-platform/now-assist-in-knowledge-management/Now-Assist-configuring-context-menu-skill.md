@@ -36,7 +36,7 @@ Role required: admin
     ![Select display, review the selection and activate the Knowledge content recommendation skill.](../image/NA-knowledge-content-skill-enable-4.png)
 
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](configuring-now-assist-km.md)
 
 **Related topics**  
 

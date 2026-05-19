@@ -77,7 +77,7 @@ Routes requests from the Facebook Messenger chat conversations.
 
 </td><td>
 
-Included with the [Conversational Integration with Facebook Messenger](../../virtual-agent/concept/messg-fbm.md) store application.
+Included with the [Conversational Integration with Facebook Messenger](../virtual-agent/messg-fbm.md) store application.
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ Routes requests from LINE chat conversations.
 
 </td><td>
 
-Included with the [Conversational Integration with LINE](../../virtual-agent/concept/messg-line.md) store application.
+Included with the [Conversational Integration with LINE](../virtual-agent/messg-line.md) store application.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Routes long-running SMS conversations and conversations that use multiple servic
 
 </td><td>
 
-Included with the [Install Conversational SMS service channel](../task/install-conversational-sms.md) application.
+Included with the [Install Conversational SMS service channel](install-conversational-sms.md) application.
 
 </td></tr><tr><td>
 
@@ -137,10 +137,10 @@ Routes requests from the WhatsApp chat conversations.
 
 </td><td>
 
-Included with the [Conversational Integration with WhatsApp \(powered by Twilio\)](../../virtual-agent/concept/messg-whatsapp-twilio.md) store application.
+Included with the [Conversational Integration with WhatsApp \(powered by Twilio\)](../virtual-agent/messg-whatsapp-twilio.md) store application.
 
 </td></tr></tbody>
-</table>You can also set up a custom service channel to address work that is not supported in the base system channels. For more information, see [Set up a custom service channel](../task/setup-custom-channel.md).
+</table>You can also set up a custom service channel to address work that is not supported in the base system channels. For more information, see [Set up a custom service channel](setup-custom-channel.md).
 
 For each service channel, you set attributes such as:
 

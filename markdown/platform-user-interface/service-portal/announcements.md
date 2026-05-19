@@ -48,11 +48,11 @@ When creating announcements, you can define the way an announcement displays.
     If user criteria is set up for the Service Portal, you can define who can and who cannot view an announcement. Through user criteria, you can create announcements only visible to specific users, groups, roles, organizations, and more.
 
 
--   **[Create an announcement](../task/create-announcement.md)**  
+-   **[Create an announcement](create-announcement.md)**  
 An announcement appears as a banner in Service Portal or within the announcements widget.
--   **[Create an announcement display style](../task/create-announcement-style.md)**  
+-   **[Create an announcement display style](create-announcement-style.md)**  
 Define the background color, foreground color, and text alignment of an announcement.
--   **[Create an announcement type](../task/add-announcement-type.md)**  
+-   **[Create an announcement type](add-announcement-type.md)**  
 Announcement types determine where an announcement displays. Announcements include two base system types: banner and widget.
 
 **Parent Topic:**[Service Portal](c_ServicePortal.md)

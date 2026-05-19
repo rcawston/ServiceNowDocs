@@ -33,13 +33,13 @@ Role required: sn\_oper\_res.admin
 
     ![Record.](../image/node-rel-config-new-record.png)
 
-    For description of the fields in the Node relationship configuration form, see [Node relationship configuration form](../reference/node-relationship-configuration-form.md).
+    For description of the fields in the Node relationship configuration form, see [Node relationship configuration form](node-relationship-configuration-form.md).
 
     You can set up these relationship registries by creating a Relationship Registry record in the Relationship Registries module. The Relationship Registry new record form is shown in the example.
 
     ![Rel registry record.](../../grc-common/image/rela-registry-record-new.png)
 
-    For the description of the fields in the Relationship registry form, see [Relationship registry record form](../reference/rel-registry-record-form.md).
+    For the description of the fields in the Relationship registry form, see [Relationship registry record form](rel-registry-record-form.md).
 
 4.  Select the table of your choice in the **Source table** field in the **Source** tab.
 

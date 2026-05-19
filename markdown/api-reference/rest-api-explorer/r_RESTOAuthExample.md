@@ -41,5 +41,5 @@ curl -d "grant_type=password&client_id=a329c4515612210071a5e0c298ee2be8&client_s
 curl -H "Accept:application/json" -H "Authorization:Bearer 2wRlsRCT2SYjCCJP91kwo2EFzj5qg4O3I3aC09e0-0hz6Ib3YK7If-LMiNorNuglfqbkL4AfkYC92KYHUCcbpQ"  "https://<instance>.service-now.com/api/now/table/incident
 ```
 
-**Parent Topic:**[Enable OAuth with inbound REST](../task/t_EnableOAuthWithREST.md)
+**Parent Topic:**[Enable OAuth with inbound REST](t_EnableOAuthWithREST.md)
 

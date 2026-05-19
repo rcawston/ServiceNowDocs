@@ -25,7 +25,7 @@ Role required: admin
 
 ### About this task
 
-Tables are installed with the plugin. For more information, see [Federal plugin](../concept/fed-view.md).
+Tables are installed with the plugin. For more information, see [Federal plugin](fed-view.md).
 
 ### Procedure
 

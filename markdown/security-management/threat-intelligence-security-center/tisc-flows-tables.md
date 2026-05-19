@@ -39,19 +39,19 @@ The following tables helps you to understand the relationship tables between ent
 **Related topics**  
 
 
-[Automated IOC Enrichment](../task/tisc-ioc-enrichment.md)
+[Automated IOC Enrichment](tisc-ioc-enrichment.md)
 
-[Automated sharing of high-risk IOC's with trusted partners](../task/tisc-automated-sharing-flow.md)
+[Automated sharing of high-risk IOC's with trusted partners](tisc-automated-sharing-flow.md)
 
-[Automatically add threat intelligence to a TAXII collection](../task/tisc-taxii-automated-flow.md)
+[Automatically add threat intelligence to a TAXII collection](tisc-taxii-automated-flow.md)
 
-[Create vulnerability assessment for zero day](../task/tisc-create-vul-assess.md)
+[Create vulnerability assessment for zero day](tisc-create-vul-assess.md)
 
-[Analyze, assess, and disseminate observables](../task/tisc-disseminate-observables.md)
+[Analyze, assess, and disseminate observables](tisc-disseminate-observables.md)
 
-[Analyze and assess threat IoC’s](../task/tisc-analyze-ioc.md)
+[Analyze and assess threat IoC’s](tisc-analyze-ioc.md)
 
-[Vulnerability Management Support](../task/tisc-vul-mgmt.md)
+[Vulnerability Management Support](tisc-vul-mgmt.md)
 
-[Zero-day vulnerability tracking](../task/tisc-zero-vul.md)
+[Zero-day vulnerability tracking](tisc-zero-vul.md)
 

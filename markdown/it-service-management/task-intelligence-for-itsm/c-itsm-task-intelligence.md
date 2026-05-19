@@ -35,7 +35,7 @@ ServiceNow® Task Intelligence for ITSM uses machine learning to set up, deploy,
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Task Intelligence for ITSM components, such as roles and dependent applications.](../reference/task-intelligence-itsm-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Task Intelligence for ITSM components, such as roles and dependent applications.](task-intelligence-itsm-reference.md)
 
 </td><td>
 

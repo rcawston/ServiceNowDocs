@@ -55,14 +55,14 @@ The Regulatory Change Management application in Compliance Workspace contains th
 
 ![RCM dashboard view with Alerts, Tasks, and Trend reports from the Compliance Workspace.](../image/home-page-compliance-workspace.png "Home page view in the Compliance Workspace")
 
-**Note:** GRC administrators configure the tasks and issues in the Landing Page Configurations module in the classic user interface. These tasks and issues are visible to the end users in the landing pages of various workspaces. For more information, see [Landing Page Configurations module](../../grc-common/reference/admin-config-using-grc-common.md).
+**Note:** GRC administrators configure the tasks and issues in the Landing Page Configurations module in the classic user interface. These tasks and issues are visible to the end users in the landing pages of various workspaces. For more information, see [Landing Page Configurations module](../grc-common-functions/admin-config-using-grc-common.md).
 
 **Parent Topic:**[Exploring Regulatory Change Management](what-is-rcm.md)
 
 **Related topics**  
 
 
-[Differences between regulatory event alert and source document alert](../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)
+[Differences between regulatory event alert and source document alert](regulatory-event-alert-vs-source-document-alert.md)
 
 [Regulatory process flow and tasks](reg-change-workflow-swimlane.md)
 

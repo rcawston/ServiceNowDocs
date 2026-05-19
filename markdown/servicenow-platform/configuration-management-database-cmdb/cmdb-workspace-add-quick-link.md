@@ -44,5 +44,5 @@ The new link is available only for the user that created the link, in the Quick 
 
 Click on the Edit quick links icon to edit, delete, or reposition an added link. Then use the up and down arrows to move a link within the list, and click the Edit icon next to a link that you want to modify or delete from the list.
 
-**Parent Topic:**[Configuring CMDB Workspace](../concept/configuring-cmdb-workspace.md)
+**Parent Topic:**[Configuring CMDB Workspace](configuring-cmdb-workspace.md)
 

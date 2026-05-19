@@ -71,7 +71,7 @@ Domain of the charity organization record.The charity organization record is set
 
 The charity organization record that you added is added to the Charity Organizations list.
 
-**Parent Topic:**[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+**Parent Topic:**[Donate assets to charity organizations](donate-asset-to-charity-organizations.md)
 
 **Related topics**  
 

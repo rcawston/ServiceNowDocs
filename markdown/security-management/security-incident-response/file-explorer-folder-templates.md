@@ -64,5 +64,5 @@ Role required: sn\_msi.workspace\_admin
     ![Flow designer subflows](../image/fe-related-flow-designer-execution.png)
 
 
-**Parent Topic:**[Configure File Explorer Component](../concept/file-explorer.md)
+**Parent Topic:**[Configure File Explorer Component](file-explorer.md)
 

@@ -42,12 +42,12 @@ Role required: sn\_apm.apm\_user
 
 The product capability is removed from the business application.
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[Exploring product capabilities](../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
+[Exploring product capabilities](eaw-exploring-product-capabilities.md)
 
 [View product capabilities associated with a business application](eaw-view-product-capabilities-associated-with-ba.md)
 

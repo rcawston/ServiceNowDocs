@@ -44,7 +44,7 @@ In the May Store 2024 release, the Supplier Task \(sn\_slm\_task\) table uses th
 6.  Select **Run Fix Script**.
 
 
-**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](../concept/post-upgrade-tasks-slo.md)
+**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](post-upgrade-tasks-slo.md)
 
 **Related topics**  
 
@@ -61,11 +61,11 @@ In the May Store 2024 release, the Supplier Task \(sn\_slm\_task\) table uses th
 
 [Enable deprecated case types after upgrade](enable-deprecated-case-types.md)
 
-[Processing the skipped supplier catalog item records after upgrade](../concept/process-skipped-records-upgrade.md)
+[Processing the skipped supplier catalog item records after upgrade](process-skipped-records-upgrade.md)
 
 [Run fix script to update the KPI Instruction field in the Supplier Task table](run-fixscript-update-kpi-instruction.md)
 
 [Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](access-smw-after-upgrade.md)
 
-[Restructured Supplier Task table](../concept/supplier-task-table-restructure.md)
+[Restructured Supplier Task table](supplier-task-table-restructure.md)
 

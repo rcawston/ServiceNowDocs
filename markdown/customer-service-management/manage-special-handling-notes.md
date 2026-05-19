@@ -13,7 +13,7 @@ breadcrumb: [Agent management, Use, Customer Service Management]
 
 Get critical information about specific customers and empower agents in delivering personalized and efficient service with special handling notes.
 
-Use the Special Handling Notes application to generate notes that highlight crucial information about individual records, like case or account records, ensuring users are well informed. For more info, see [Special handling notes](../concept/c_OnScreenAlerts.md)
+Use the Special Handling Notes application to generate notes that highlight crucial information about individual records, like case or account records, ensuring users are well informed. For more info, see [Special handling notes](c_OnScreenAlerts.md)
 
 | | |
 |---|---|

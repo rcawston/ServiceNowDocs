@@ -39,8 +39,8 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
     |CRM entity|Form field descriptions|
     |----------|-----------------------|
-    |**Lead**|[Create new lead task form](../reference/create-lead-task-form.md)|
-    |**Opportunity**|[Create new opportunity task form](../reference/create-opportunity-task-form.md)|
+    |**Lead**|[Create new lead task form](create-lead-task-form.md)|
+    |**Opportunity**|[Create new opportunity task form](create-opportunity-task-form.md)|
 
 8.  Select **Save**.
 
@@ -49,12 +49,12 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 A task record is created against the CRM entity and touchpoint record. You can view the corresponding task from the respective module. For example, to view opportunity task, navigate to **Opportunity** &gt; **Opportunity Tasks** list menu. You can also access it from the **Opportunity Tasks** tab from the touchpoint record.
 
-**Parent Topic:**[Using Activity Management](../concept/using-activity-management.md)
+**Parent Topic:**[Using Activity Management](using-activity-management.md)
 
 **Related topics**  
 
 
-[Add opportunity tasks](../concept/opportunity-management-tasks-tab.md)
+[Add opportunity tasks](opportunity-management-tasks-tab.md)
 
 [Add lead tasks](lead-management-use-tasks-tab.md)
 

@@ -94,5 +94,5 @@ Since the API message value matched the conditions of the Wait for Message actio
 
 Here is the activity log of the change request. The payload value `Resubmitted for approval` was added to the **Additional comments** field.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

@@ -59,5 +59,5 @@ The maximum size of the response payload.-   **Type**: String
 -   **Maximum value**: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Administering REST test step configurations](../concept/atf-administer-rest.md)
+</table>**Parent Topic:**[Administering REST test step configurations](atf-administer-rest.md)
 

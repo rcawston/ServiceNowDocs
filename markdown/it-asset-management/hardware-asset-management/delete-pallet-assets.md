@@ -38,7 +38,7 @@ You can delete a pallet only if it’s empty. Remove any assets before trying to
 
 The pallet that you deleted is no longer shown under the Pallets tab.
 
-**Parent Topic:**[Manage your inventory through pallet assets](../concept/pallets-for-inventory-management.md)
+**Parent Topic:**[Manage your inventory through pallet assets](pallets-for-inventory-management.md)
 
 **Related topics**  
 
@@ -49,5 +49,5 @@ The pallet that you deleted is no longer shown under the Pallets tab.
 
 [Remove assets from a pallet](remove-assets-from-pallet.md)
 
-[Using pallet assets for managing inventory](../concept/using-pallet-assets-for-inventory-mgmt.md)
+[Using pallet assets for managing inventory](using-pallet-assets-for-inventory-mgmt.md)
 

@@ -67,7 +67,7 @@ work.management.allow.auto.metric\_cleanup
 
 </td><td>
 
-The frequency in number of days that the metric instance table should be purged of [work order task](../../field-service-management/concept/close-wo-wot-mobile.md#) information to avoid an unnecessary amount of data in the table.-   Type: Integer
+The frequency in number of days that the metric instance table should be purged of [work order task](work-order-management/close-wo-wot-mobile.md#) information to avoid an unnecessary amount of data in the table.-   Type: Integer
 -   Default value: 365
 -   Location: System Properties list \[sys\_properties\] table
 
@@ -394,7 +394,7 @@ Requires geolocation to be used to calculate the estimated travel time for dynam
 -   Default value: true
 -   Location: **Field Service** &gt; **Administration** &gt; **Properties** &gt; **Dispatch Properties for** Field Service Management
 
- **Note:** To use the Google Maps API with dynamic scheduling, you must also enable the **Use Google for travel time and traffic data** check box on the [Dynamic Scheduling Configuration](../../field-service-management/task/create-dynamic-scheduling-config.md#) form.
+ **Note:** To use the Google Maps API with dynamic scheduling, you must also enable the **Use Google for travel time and traffic data** check box on the [Dynamic Scheduling Configuration](field-service-scheduling/create-dynamic-scheduling-config.md#) form.
 
 </td></tr><tr><td>
 

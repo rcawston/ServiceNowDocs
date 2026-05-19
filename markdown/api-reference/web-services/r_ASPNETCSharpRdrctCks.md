@@ -91,5 +91,5 @@ public partial class _Default : System.Web.UI.Page
 }
 ```
 
-**Parent Topic:**[Inbound web service examples](../../../integrate/examples/concept/c_InboundWebServiceExamples.md)
+**Parent Topic:**[Inbound web service examples](c_InboundWebServiceExamples.md)
 

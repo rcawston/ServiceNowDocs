@@ -101,24 +101,24 @@ If **Execution** is set to Automatic, then the business rule **Run remediations 
 -   **[Apply CMDB remediation](t_ApplyCMDBRemediation.md)**  
 Manually initiate a workflow to remediate a CI that failed a CMDB health test. For example, you can remediate CIs that are orphan or stale.
 
-**Parent Topic:**[CMDB Health](../concept/c_CMDBHealth.md)
+**Parent Topic:**[CMDB Health](c_CMDBHealth.md)
 
 **Related topics**  
 
 
-[Exploring CMDB Health](../concept/exploring-cmdb-health-parent.md)
+[Exploring CMDB Health](exploring-cmdb-health-parent.md)
 
-[CMDB Health experience in CMDB Workspace and in Service Graph Workspace](../concept/cmdb-health-exp-cmdb-workspace.md)
+[CMDB Health experience in CMDB Workspace and in Service Graph Workspace](cmdb-health-exp-cmdb-workspace.md)
 
-[View CMDB Health Dashboard](../concept/c_MonitorCMDBHealth.md)
+[View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
 
 [View relationships health](t_ViewRelationshipsHealth.md)
 
 [View CI health](t_ViewCIHealth.md)
 
-[CMDB Health process tracking and troubleshooting](../concept/c_CMDBHealthTroubleshooting.md)
+[CMDB Health process tracking and troubleshooting](c_CMDBHealthTroubleshooting.md)
 
-[CMDB Health reference](../concept/cmdb-health-ref-parent.md)
+[CMDB Health reference](cmdb-health-ref-parent.md)
 
 [Dot-Walking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md)
 

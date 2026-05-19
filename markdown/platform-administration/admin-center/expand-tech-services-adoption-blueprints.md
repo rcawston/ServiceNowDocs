@@ -94,7 +94,7 @@ CSDM and CMDB Data Foundations Dashboards provide insights into the key foundati
 
 </td><td>
 
-Uses bases system roles. See [Base system roles](../../roles/reference/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](../user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
@@ -157,7 +157,7 @@ Change Management provides a systematic approach to control the life cycle of al
 
 </td><td>
 
-Uses bases system roles. See [Base system roles](../../roles/reference/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](../user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
@@ -179,7 +179,7 @@ Incident Management restores normal service operation while minimizing impact to
 
 </td><td>
 
-Uses bases system roles. See [Base system roles](../../roles/reference/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](../user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
@@ -222,7 +222,7 @@ Problem Management helps to identify the cause of an error in the IT infrastruct
 
 </td><td>
 
-Uses bases system roles. See [Base system roles](../../roles/reference/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](../user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
@@ -351,5 +351,5 @@ Health Log Analytics helps prevent IT issues before your users are affected. It 
 -   [ITOM Talks Session \#3 - Health Log Analytics \(video\)](https://youtu.be/FX2krdiYOMo)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Select your adoption blueprint](../task/ac-select-business-objective.md)
+</table>**Parent Topic:**[Select your adoption blueprint](ac-select-business-objective.md)
 

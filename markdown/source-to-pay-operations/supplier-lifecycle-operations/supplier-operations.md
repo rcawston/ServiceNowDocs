@@ -36,7 +36,7 @@ To install Supplier Operations, the following plugins have to be installed:
     -   Supplier Case Management \(com.snc.sn\_supplier\_mgmt\)
     -   Document Management \(com.snc.platform\_document\_management\)
 
-For more information about installing Supplier Operations, see [Install Supplier Operations](../task/install-supplier-ops.md).
+For more information about installing Supplier Operations, see [Install Supplier Operations](install-supplier-ops.md).
 
 **Related topics**  
 

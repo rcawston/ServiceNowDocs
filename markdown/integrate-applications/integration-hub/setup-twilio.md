@@ -45,7 +45,7 @@ Role required: admin
 
             ![Connection template for Twilio Base](../image/twilio-base-conn.png)
 
-        -   To manage more than one Twilio Base spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+        -   To manage more than one Twilio Base spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
         If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
         ![Twilio Base connection configuration](../image/twilio-base-conn-config.png)
@@ -80,7 +80,7 @@ Role required: admin
 
             ![Connection template for Twilio Messaging](../image/twilio-messg-conn.png)
 
-        -   To manage more than one Twilio Messaging spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+        -   To manage more than one Twilio Messaging spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
         If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
         ![Twilio Messaging Connection configuration](../image/twilio-messg-conn-config.png)
@@ -115,7 +115,7 @@ Role required: admin
 
             ![Connection template for Twilio Notify](../image/twilio-notify-conn.png)
 
-        -   To manage more than one Twilio Notify spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+        -   To manage more than one Twilio Notify spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
         If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
         ![Twilio Notify connection configuration](../image/twilio-notify-conn-config.png)

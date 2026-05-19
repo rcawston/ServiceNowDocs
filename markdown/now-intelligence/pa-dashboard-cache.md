@@ -20,5 +20,5 @@ These access control lists \(ACLs\) apply to the PAR Dashboard Metadata Caches *
 -   Admin only role: report\_on, report\_view, create, write, delete
 -   Any logged-in user: read
 
-For a full guide to roles connected to Platform Analytics dashboards, see [Platform Analytics roles](../reference/platform-analytics-roles.md).
+For a full guide to roles connected to Platform Analytics dashboards, see [Platform Analytics roles](platform-analytics-roles.md).
 

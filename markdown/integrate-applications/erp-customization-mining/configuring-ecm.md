@@ -30,7 +30,7 @@ For the credentials, use an SAP service type user account in your system of reco
     -   SQLM\_API\_GET\_NEXT\_DATA\_PACKAGE
 -   S\_TABU\_NAM with Activity 03 \(Display\) for the following table: TRNSPACET
 
-There are additional authorizations needed for Zero Copy Connector for ERP. For more information, see [Configuring Zero Copy Connector for ERP](../../erp-integration/concept/erp-integration-configuration-overview.md).
+There are additional authorizations needed for Zero Copy Connector for ERP. For more information, see [Configuring Zero Copy Connector for ERP](../erp-integration-framework/erp-integration-configuration-overview.md).
 
 **Note:** The credentials you specify for the Zero Copy Connector for ERP connection must match the service user credentials in the system of record.
 
@@ -40,7 +40,7 @@ Zero Copy Connector for ERP and ERP Semantic Mining currently support ECC \(mini
 
 **Note:** Each installation of ERP Semantic Mining supports adding up to 10 systems. However, ERP Semantic Mining can connect to only one live ERP system at a time.
 
-You should install Zero Copy Connector for ERP and add credentials there before you install and configure ERP Semantic Mining. For more information, see [Connect to a system of record from Zero Copy Connector for ERP](../../erp-integration/task/set-up-erp-integration-connection.md).
+You should install Zero Copy Connector for ERP and add credentials there before you install and configure ERP Semantic Mining. For more information, see [Connect to a system of record from Zero Copy Connector for ERP](../erp-integration-framework/set-up-erp-integration-connection.md).
 
 The number of ERP connections you can have per ServiceNow instance depends on your license.
 
@@ -92,23 +92,23 @@ com.snc.uib.sn\_erp\_mining
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
--   **[Configure SAP for ERP Semantic Mining](../task/ecm-configure-sap-system.md)**  
+-   **[Configure SAP for ERP Semantic Mining](ecm-configure-sap-system.md)**  
 Enable SQLM \(SQL Monitor\) on the productive system and confirm that ST03 \(Workload Monitor\) is collected for daily workloads before you can install ERP Semantic Mining.
--   **[Install ERP Semantic Mining](../task/install-erp-customization-mining.md)**  
+-   **[Install ERP Semantic Mining](install-erp-customization-mining.md)**  
 Install the ERP Semantic Mining application \(sn\_erp\_mining\) if you have the admin role from the ServiceNow Store.
--   **[Run Guided Setup for ERP Semantic Mining](../task/set-up-erp-customization-mining-guided.md)**  
+-   **[Run Guided Setup for ERP Semantic Mining](set-up-erp-customization-mining-guided.md)**  
 Run the Guided Setup to configure ERP Semantic Mining.
--   **[Configure a new ERP Semantic Mining connection](../task/set-up-erp-customization-mining.md)**  
+-   **[Configure a new ERP Semantic Mining connection](set-up-erp-customization-mining.md)**  
 Specify the Connections and Credentials alias for ERP Semantic Mining to connect to the ERP \(Enterprise Resource Planning\) system.
--   **[Update an ERP Semantic Mining connection](../task/update-ecm-connection.md)**  
+-   **[Update an ERP Semantic Mining connection](update-ecm-connection.md)**  
 Update the Connections and Credentials alias for ERP Semantic Mining to change the connection to the ERP \(Enterprise Resource Planning\) system. For example, you may want to change from a non-production system to a production system.
--   **[Check and troubleshoot the data refresh status for ERP Semantic Mining](../task/erpcm-check-data-connection.md)**  
+-   **[Check and troubleshoot the data refresh status for ERP Semantic Mining](erpcm-check-data-connection.md)**  
 Check the data refresh status to find out when ERP Semantic Mining most recently loaded ERP \(Enterprise Resource Planning\) data from the system of record.
--   **[Create a snapshot to share and save data in ERP Semantic Mining](../task/create-a-snapshot-to-share-and-save-data.md)**  
+-   **[Create a snapshot to share and save data in ERP Semantic Mining](create-a-snapshot-to-share-and-save-data.md)**  
 Export and import ERP Semantic Mining base data to save and share.
 -   **[Getting notifications for ERP Semantic Mining connection updates](erpcm-notifications.md)**  
 ERP Semantic Mining can email you about the success and failures of ERP \(Enterprise Resource Planning\) system connections.
--   **[Configure notifications for ERP Semantic Mining tasks](../task/erpcm-enable-notifications.md)**  
+-   **[Configure notifications for ERP Semantic Mining tasks](erpcm-enable-notifications.md)**  
 Enable notifications to find out when ERP Semantic Mining succeeds or fails in a mining job for the ERP \(Enterprise Resource Planning\) system of record.
 -   **[ERP Semantic Mining roles](erp-personas-roles.md)**  
 Administrators assign roles to give team members permission to configure or use ERP Semantic Mining.

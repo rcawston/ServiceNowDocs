@@ -15,11 +15,11 @@ Wrap the symmetric key to use for encryption with the downloaded public key.
 
 ## Before you begin
 
-**Note:** This procedure describes options that are available with KMF base system and options to be used with Field Encryption Enterprise functionality. Field Encryption Enterprise functionality is available only when the com.glide.now.platform.encryption plugin is active. See [Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
+**Note:** This procedure describes options that are available with KMF base system and options to be used with Field Encryption Enterprise functionality. Field Encryption Enterprise functionality is available only when the com.glide.now.platform.encryption plugin is active. See [Activate Field Encryption](activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 The examples in this task use the OpenSSL tool. For more information on this tool see [https://www.openssl.org](https://www.openssl.org). If you are using other cryptographic tools, such as LibreSSL or GnuTLS, refer to the documentation for those products for similar steps.
 
--   Modify optional properties that control the size, padding algorithm, and validity period of the key. See [Configure properties for customer-supplied keys](../concept/customer-supplied-keys.md).
+-   Modify optional properties that control the size, padding algorithm, and validity period of the key. See [Configure properties for customer-supplied keys](customer-supplied-keys.md).
 -   You must have your symmetric key \(.BIN\) for encryption.
 
     **Important:** Your key must be in binary format. If another format is used, a `Token failed validation. Please reattach the unmodified token.`error message displays.
@@ -120,9 +120,9 @@ N/A
 
 ## What to do next
 
-Return to [Configure and upload your customer supplied key](../../key-management-framework/task/upload-customer-supplied-key.md) to upload your wrapped key.
+Return to [Configure and upload your customer supplied key](upload-customer-supplied-key.md) to upload your wrapped key.
 
-**Parent Topic:**[Using customer-supplied keys with Field Encryption Enterprise](../concept/csk-landing.md)
+**Parent Topic:**[Using customer-supplied keys with Field Encryption Enterprise](csk-landing.md)
 
-**Parent Topic:**[Using customer supplied keys with Column Level Encryption Enterprise](../concept/csk-landing-2.md)
+**Parent Topic:**[Using customer supplied keys with Column Level Encryption Enterprise](csk-landing-2.md)
 

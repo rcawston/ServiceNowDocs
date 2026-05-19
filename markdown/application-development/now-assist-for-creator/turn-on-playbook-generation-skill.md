@@ -17,7 +17,7 @@ Turn on the Now Assist for Creator playbook generation skill to use generative A
 
 ## Before you begin
 
--   Install the Now Assist for Creator application. For more information, see [Install Now Assist for Creator](../../flow-designer/task/install-now-assist-for-creator.md).
+-   Install the Now Assist for Creator application. For more information, see [Install Now Assist for Creator](install-now-assist-for-creator.md).
 -   Role required: admin
 
 ## About this task
@@ -44,7 +44,7 @@ Playbook generation skills are active on your instance.
 -   **[Change the default LLM for playbook generation](change-default-llm-playbook-generation.md)**  
 Choose either the NowLLM/Mixtral model or OpenAI's GPT-4o as the default LLM to generate your playbooks.
 
-**Parent Topic:**[Playbook generation](../concept/playbook-assist-landing.md)
+**Parent Topic:**[Playbook generation](playbook-assist-landing.md)
 
 **Related topics**  
 

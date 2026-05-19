@@ -48,5 +48,5 @@ Before updating a resource assignment, verify the following to ensure accurate a
     Extend, edit, or delete the resource assignments using the row context menu in resource assignment pane.
 
 
-**Parent Topic:**[Manage resource assignments from Project Workspace](../concept/use-ra-rmw.md)
+**Parent Topic:**[Manage resource assignments from Project Workspace](use-ra-rmw.md)
 

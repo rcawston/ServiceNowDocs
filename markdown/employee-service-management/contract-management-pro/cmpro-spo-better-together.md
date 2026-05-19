@@ -76,7 +76,7 @@ You can assign your procurement and contracting professionals to these roles as 
 ## Requirements for integrating Sourcing and Procurement Operations and Contract Management Pro
 
 1.  [Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md).
-2.  [Install Contract Management Pro](../task/cncore-install-cmpro.md).
+2.  [Install Contract Management Pro](cncore-install-cmpro.md).
 3.  [Integrate with Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integrate-spo-with-cmpro.md).
 
     **Note:** To use this application, a license is required for both Contract Management Pro and Sourcing and Procurement Operations.
@@ -88,7 +88,7 @@ Get started with initiating contract request by completing these tasks:
 
 1.  [Configure Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-spo.md).
 2.  Configuring Contract Management Pro
-    -   **[Create a contract type](../task/cncore-create-contract-type.md)**
+    -   **[Create a contract type](cncore-create-contract-type.md)**
 
         Create a contract type for defining different types of contract requests and associate it to a contract model.
 
@@ -106,13 +106,13 @@ Get started with initiating contract request by completing these tasks:
 
         Role:contract configurator.
 
-    -   **[Define an internal signatory rule](../task/cncore-define-internal-signers-rule.md)**
+    -   **[Define an internal signatory rule](cncore-define-internal-signers-rule.md)**
 
         Define a user as an internal signatory rule so that the signer can be added to a contract template to automatically add to the contract document for a request.
 
         Role:contract configurator.
 
-    -   **[Create a contract configuration](../task/cncore-contract-config.md)**
+    -   **[Create a contract configuration](cncore-contract-config.md)**
 
         Define the contract repository where the contracts will be stored and map the data to be added to the contract document.
 

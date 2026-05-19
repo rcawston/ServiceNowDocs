@@ -76,5 +76,5 @@ Role required: virtual\_agent\_admin or admin
 9.  Click the link to download support data.
 
 
-**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](../concept/using-ci-diagnostics-tool.md)
+**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](using-ci-diagnostics-tool.md)
 

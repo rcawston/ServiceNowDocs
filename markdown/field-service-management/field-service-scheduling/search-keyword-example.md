@@ -15,7 +15,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 Use keyword searches to quickly find resource and agents. Understanding this functionality can greatly reduce the time it takes to find what you’re looking for.
 
-Depending on your configuration, you might need to set up additional tables for indexing before using keyword searching in Dispatcher Workspace. For example, Territory Planning requires specific table configurations Dispatcher Workspace. For more information, see [Configure keyword searching in Dispatcher Workspace](keywords-dispatcher.md).
+Depending on your configuration, you might need to set up additional tables for indexing before using keyword searching in Dispatcher Workspace. For example, Territory Planning requires specific table configurations Dispatcher Workspace. For more information, see [Configure keyword searching in Dispatcher Workspace](../keywords-dispatcher.md).
 
 1.  Search for an agent in a specific location.
 

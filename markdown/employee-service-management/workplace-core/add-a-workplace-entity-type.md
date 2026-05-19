@@ -45,5 +45,5 @@ The entity type is created.
 
 [Add workplace entities to an entity type](add-workplace-entities-to-an-entity-type.md)
 
-**Parent Topic:**[Configure Workplace entity and entity types](../concept/workplace-entity.md)
+**Parent Topic:**[Configure Workplace entity and entity types](workplace-entity.md)
 

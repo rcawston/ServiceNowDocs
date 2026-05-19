@@ -41,7 +41,7 @@ Add and configure a Snowflake connection to authenticate ServiceNow requests.
 4.  Locate the alias for **Snowflake** and click **View Details**.
 
     -   To configure the default connection and credential alias record that is shipped along with the Snowflake spoke, click **View Details**.![Snowflake connection template](../image/snowflake-conn-template.png)
-    -   To manage more than one Snowflake connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see[Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Snowflake connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see[Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Configure Snowflake connection template](../image/snowflake-conn-config.png)

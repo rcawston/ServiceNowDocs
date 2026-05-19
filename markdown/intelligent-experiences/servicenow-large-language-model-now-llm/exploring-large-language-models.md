@@ -104,22 +104,22 @@ Claude 3.7 Sonnet
 
 ## Large language model selection
 
-This selection is supported at various levels such as, skill, skill group and instance levels. However, the controls that define LLMs mapping to different skills, allowed at various global locations, are configured and approved in AI Control Tower by the AI steward. The model provider options for custom skills created in Now Assist skill kit and AI Agent Studio are also configured in AI Control Tower. See [Configure third-party LLMs using AI Control Tower](../../ai-governance-workspace/task/configure-third-party-llms-using-ai-control-tower.md) to learn more.
+This selection is supported at various levels such as, skill, skill group and instance levels. However, the controls that define LLMs mapping to different skills, allowed at various global locations, are configured and approved in AI Control Tower by the AI steward. The model provider options for custom skills created in Now Assist skill kit and AI Agent Studio are also configured in AI Control Tower. See [Configure third-party LLMs using AI Control Tower](../ai-control-tower/configure-third-party-llms-using-ai-control-tower.md) to learn more.
 
 The **Manage large language models** feature enables the admin persona to perform additional actions like:
 
 -   Edit the model provider at the instance, skill group and skill levels
--   Deactivate active skills which are non-compliant with fallback as **No**. See [Explore AI model providers](../../ai-governance-workspace/concept/ai-model-providers.md) to learn more.
+-   Deactivate active skills which are non-compliant with fallback as **No**. See [Explore AI model providers](../ai-control-tower/ai-model-providers.md) to learn more.
 -   View audit history on policy updates by AI steward in AI Control Tower
 -   Select allowed model providers across domain separated instances.
 
-See [Manage AI models](../../now-assist-admin/task/manage-large-language-models.md) to learn about managing.
+See [Manage AI models](../manage-large-language-models.md) to learn about managing.
 
-For more information on selecting and updating model providers, see [Manage model providers](../../now-assist-admin/task/edit-model-providers.md).
+For more information on selecting and updating model providers, see [Manage model providers](../edit-model-providers.md).
 
--   **[Now LLM Service updates](../../now-assist-platform/reference/now-llm-model-updates.md)**  
+-   **[Now LLM Service updates](now-llm-model-updates.md)**  
 The Now LLM Service provides access to specialized large language models \(LLMs\) that are developed by ServiceNow. It also provides access to open-source LLMs that are selected, configured, or enhanced by ServiceNow, from the ServiceNow community and partners. Review these reference materials and model cards for additional information about the Now LLM Service and about the models used.
--   **[General guidelines for writing instructions for generative AI large language models \(LLMs\)](../../now-assist-platform/concept/llm-instruction-guidelines.md)**  
+-   **[General guidelines for writing instructions for generative AI large language models \(LLMs\)](llm-instruction-guidelines.md)**  
 When using Now Assist products and skills, you may have the option to give specific instructions or other guidance to the LLM. Writing generative AI instructions is different from conducting a keyword search. Use the following general guidelines when crafting your instructions.
 -   **[Long term stable models](long-term-stable-models.md)**  
 Long term stable \(LTS\) models support regulated industries, such as financial institutions, with stronger AI lifecycle management, governance, transparency, and compliance tools.
@@ -128,5 +128,5 @@ Different AI search tools may return different answers for the same or similar s
 -   **[Providers and Models](providers-and-models.md)**  
 You can bring your own large language model \(LLM\) provider and API to use with Now Assist.
 
-**Parent Topic:**[Enable AI experiences](../reference/ai-products.md)
+**Parent Topic:**[Enable AI experiences](../ai-products.md)
 

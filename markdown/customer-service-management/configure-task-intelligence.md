@@ -19,7 +19,7 @@ Complete the following tasks to install Task Intelligence for Customer Service a
 
 |Task|Description|
 |----|-----------|
-|[Install the Task Intelligence for Customer Service application](../task/install-task-intelligence-cs-app.md)|You can install the Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\) if you have the admin role.|
+|[Install the Task Intelligence for Customer Service application](install-task-intelligence-cs-app.md)|You can install the Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\) if you have the admin role.|
 |[Configure record categorization](case-categorization-configure.md)|Activate the required plugins and import training data. Then you can create and train a model to predict field values.|
 |[Configure Sentiment Analysis](case-sentiment-analysis-configure.md)|Activate the required plugins, enable the sentiment analysis property, and assign roles. Then you can train a model to predict case sentiment.|
 |[Configure language detection](case-language-detection-configure.md)|Activate the required plugins and the ServiceNow translator to use the language detection feature. Then you can set up a model to detect the case language.|
@@ -79,7 +79,7 @@ Test and edit the pre-trained similar cases model for predicting similarity in c
 
 </td></tr><tr><td>
 
-[Edit a model](../task/edit-a-case-prediction-model.md)
+[Edit a model](edit-a-case-prediction-model.md)
 
 </td><td>
 
@@ -87,7 +87,7 @@ Edit the case models that have already been trained and deployed. Change the mod
 
 </td></tr><tr><td>
 
-[Export a model](../task/export-a-task-intelligence-model.md)
+[Export a model](export-a-task-intelligence-model.md)
 
 </td><td>
 

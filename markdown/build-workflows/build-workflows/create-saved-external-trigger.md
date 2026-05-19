@@ -112,5 +112,5 @@ The trigger is created and published. You can use the trigger in any of your flo
 -   **[Managing external event sources](manage-external-event-sources.md#)**  
 Create and manage external event sources for a spoke or a scoped application that listen to events occurring in an application outside ServiceNow. Then, you can create external trigger definitions and associate them with the external event sources. When the event that you specify in the external trigger definition occurs, it starts one or more flows on your ServiceNow instance.
 
-**Parent Topic:**[Building triggers](../concept/building-triggers.md)
+**Parent Topic:**[Building triggers](building-triggers.md)
 

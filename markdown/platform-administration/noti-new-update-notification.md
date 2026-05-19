@@ -187,7 +187,7 @@ Advanced condition
 
 </td><td>
 
-Create a script to perform certain actions, like sending a notification based on the current email record, changing field values, or changing system properties. [The advanced condition](../concept/c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
+Create a script to perform certain actions, like sending a notification based on the current email record, changing field values, or changing system properties. [The advanced condition](c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
 
 The advanced condition script uses the following global variables:
 
@@ -212,5 +212,5 @@ Update the notifications form by adding additional recipients from the Additiona
 -   **[Create and add assignment groups](create-add-assignment-group.md)**  
 Create and add assignment groups where you want users that are part of a group to be the recipients of the provider notification.
 
-**Parent Topic:**[Create provider notification](../concept/create-provider-notification-using.md)
+**Parent Topic:**[Create provider notification](create-provider-notification-using.md)
 

@@ -35,7 +35,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 6.  Select **Save**.
 
 
-**Parent Topic:**[Code quality check in RPA Hub](../concept/code-quality-check-rpa.md)
+**Parent Topic:**[Code quality check in RPA Hub](code-quality-check-rpa.md)
 
 ## Code quality rule form in RPA Hub
 
@@ -121,9 +121,9 @@ Brief description of the rule.
 </table>**Related topics**  
 
 
-[Code quality check in RPA Hub](../concept/code-quality-check-rpa.md)
+[Code quality check in RPA Hub](code-quality-check-rpa.md)
 
 [View the code quality rules list in RPA Hub](view-cqr-rpa.md)
 
-[Code quality rules list in RPA Hub](../reference/cqr-list-rpa.md)
+[Code quality rules list in RPA Hub](cqr-list-rpa.md)
 

@@ -23,7 +23,7 @@ View essential details for managing applications such as application name, versi
 |Impacted devices|Number of devices impacted by the application issues.|
 |Incidents|Number of incidents for the application.|
 
-To return to the device details page, see [Device details](../concept/dex-workspace-user-details.md) and to return to the application page, see [Applications](../concept/dex-workspace-application-tab.md).
+To return to the device details page, see [Device details](dex-workspace-user-details.md) and to return to the application page, see [Applications](dex-workspace-application-tab.md).
 
 **Parent Topic:**[Device details pages](user-device-details-pages.md)
 

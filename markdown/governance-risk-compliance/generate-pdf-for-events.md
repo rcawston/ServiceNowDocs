@@ -58,10 +58,10 @@ Beginning with the Xanadu release, the content in PDFs of Business Impact Analys
 
     Generate a report of the event or crisis record in Microsoft Word format. The Microsoft Word copy of the BIA record is successfully generated that you can download.
 
-    For more information on generating reports in Microsoft Word format using Document designer, see [Generating reports using Document designer](../concept/integrating-document-designer-with-bcm.md).
+    For more information on generating reports in Microsoft Word format using Document designer, see [Generating reports using Document designer](integrating-document-designer-with-bcm.md).
 
 8.  To print the report, open the saved PDF or Microsoft Word copy and select **Print**.
 
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
 

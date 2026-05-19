@@ -59,5 +59,5 @@ There are two ways to define and register a badge reader device:
 8.  Register the badge reader by selecting **Submit**.
 
 
-**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](../concept/walkup-badge-read-integ-config.md)
+**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](walkup-badge-read-integ-config.md)
 

@@ -36,7 +36,7 @@ Role required: sn\_apw\_advanced.eap\_user
 5.  Save changes by selecting **Save**.
 
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 
 **Related topics**  
 

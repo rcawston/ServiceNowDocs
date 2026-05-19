@@ -34,7 +34,7 @@ The ServiceNow® Financial Services Operations \(FSO\) solution helps financial 
 
 </td><td>
 
-[Analyze![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Access preconfigured dashboards with actionable data visualizations.](../../../use/application-content-packs/concept/fso-content-pack.md)
+[Analyze![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Access preconfigured dashboards with actionable data visualizations.](fso-content-pack.md)
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ The ServiceNow® Financial Services Operations \(FSO\) solution helps financial 
 
 </td><td>
 
-[Automate![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for FSO to enhance user productivity and efficiency through proactive experiences using generative AI.](now-assist-for-financial-services-operations.md)
+[Automate![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for FSO to enhance user productivity and efficiency through proactive experiences using generative AI.](now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ The ServiceNow® Financial Services Operations \(FSO\) solution helps financial 
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed in this release at [Financial Services Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/financial-services-operations-rn-landing.md).
+-   Learn more about what's new and changed in this release at [Financial Services Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/financial-services-operations-rn-landing.md).
 -   Log into your ServiceNow account and find additional information about implementing and deploying Field Service Management features at [Now Create](https://learning.servicenow.com/nowcreate).
 -   Work with an implementation specialist to streamline your Financial Services Operations setup process. To learn more, see the [Customer Success Center](https://www.servicenow.com/success.html).
 

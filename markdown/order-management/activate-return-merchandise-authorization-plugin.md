@@ -34,7 +34,7 @@ The following items are installed with RMA Case Management:
 -   Tables
 -   Roles
 
-For more information, see [Return Merchandise Authorization Case Management](../reference/return-merchandise-authorization-case-management-reference.md).
+For more information, see [Return Merchandise Authorization Case Management](return-merchandise-authorization-case-management-reference.md).
 
 ## Procedure
 

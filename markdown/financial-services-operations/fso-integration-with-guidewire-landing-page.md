@@ -34,25 +34,25 @@ With the Financial Services Operations Integration with Guidewire, you can do th
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your integration.](../task/setting-up-fso-integration-with-guidewire.md)
+[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your integration.](setting-up-fso-integration-with-guidewire.md)
 
 </td></tr><tr><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Plan your configuration.](../task/configure-fso-integration-with-guidewire.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Plan your configuration.](configure-fso-integration-with-guidewire.md)
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Work on integrating Financial Services Operations with the Guidewire application](../reference/fso-guidewire-integration-subflows.md)
+[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Work on integrating Financial Services Operations with the Guidewire application](fso-guidewire-integration-subflows.md)
 
 </td></tr></tbody>
 </table>-   **[Exploring Financial Services Operations Integration with Guidewire](exploring-fso-integration-with-guidewire.md)**  
 With the Financial Services Operations Integration with Guidewire application, insurers can embed the Guidewire Cloud based APIs in the FSO workflows to handle the day to day business operations for policy services, claims services, and billing services.
--   **[Set upFinancial Services Operations Integration with Guidewire](../task/setting-up-fso-integration-with-guidewire.md)**  
+-   **[Set upFinancial Services Operations Integration with Guidewire](setting-up-fso-integration-with-guidewire.md)**  
 You can integrate a ServiceNow instance with your Guidewire account so that you can access policy and claims information in the insurance core system.
--   **[Configure Financial Services Operations Integration with Guidewire](../task/configure-fso-integration-with-guidewire.md)**  
+-   **[Configure Financial Services Operations Integration with Guidewire](configure-fso-integration-with-guidewire.md)**  
 Use this procedure to select and configure the Financial Services Operations Integration with Guidewire application.
--   **[Financial Services Operations Integration with Guidewire subflows](../reference/fso-guidewire-integration-subflows.md)**  
+-   **[Financial Services Operations Integration with Guidewire subflows](fso-guidewire-integration-subflows.md)**  
 The Financial Services Operations Integration with Guidewire provides these subflows to automate Guidewire tasks. These subflows can be customized as per business needs.
 
-**Parent Topic:**[Integrate applications](../../fso-common/concept/fso-integrate-other-applications.md)
+**Parent Topic:**[Integrate applications](fso-integrate-other-applications.md)
 

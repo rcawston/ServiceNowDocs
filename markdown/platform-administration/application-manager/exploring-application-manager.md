@@ -36,7 +36,7 @@ ServiceNow AI Platform administrators can access the Application Manager by navi
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Install any application or plugin included in your license, or any application obtained through the ServiceNow Store.|[Install applications and plugins](../../../build/applications/task/installing-applications-in-application-manager.md)|Administrators|
+|Install any application or plugin included in your license, or any application obtained through the ServiceNow Store.|[Install applications and plugins](installing-applications-in-application-manager.md)|Administrators|
 |Update installed applications and plugins to get access to the latest features.|[Update applications and plugins](updating-apps-app-manager.md)|Administrators|
 |Repair applications and plugins to return them to their original state if accidental changes occur.|[Repair applications and plugins](repairing-apps-app-manager.md)|Administrators|
 |Viewand filter all applications, products, and plugins . This includes applications, products, and plugins that haven't been licensed yet.|[View applications, products, and plugins](available-for-you-app-mgr.md)|Administrators|
@@ -55,5 +55,5 @@ To learn more about configuring and using Application Manager, see:
 -   [Updating applications](updating-apps-app-manager.md)
 -   [Uninstalling applications](uninstalling-apps-app-manager.md)
 -   [Repairing applications and plugins](repairing-apps-app-manager.md)
--   [Application Manager reference](../reference/app-mgr-reference.md)
+-   [Application Manager reference](app-mgr-reference.md)
 

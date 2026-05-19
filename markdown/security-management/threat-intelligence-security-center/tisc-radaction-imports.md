@@ -15,8 +15,8 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 
 Redaction Imports allow you to view all records currently being processed in import jobs, as well as any import jobs that are pending approval.
 
--   **[View all Redaction Imports](../task/tisc-view-redaction-imports.md)**  
+-   **[View all Redaction Imports](tisc-view-redaction-imports.md)**  
 Use this section to view all redaction-imported records.
--   **[View my Redaction Imports](../task/view-my-redaction-imports.md)**  
+-   **[View my Redaction Imports](view-my-redaction-imports.md)**  
 Use this section to view import records created by the currently logged-in user.
 

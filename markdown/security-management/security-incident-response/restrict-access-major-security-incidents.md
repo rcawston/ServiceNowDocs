@@ -50,5 +50,5 @@ After you enforce the restriction on major security incidents or related lists t
 9.  Select **Save**.
 
 
-**Parent Topic:**[Update Major Security Incident details](../concept/msim-details-tab.md)
+**Parent Topic:**[Update Major Security Incident details](msim-details-tab.md)
 

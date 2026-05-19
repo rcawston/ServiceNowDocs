@@ -48,7 +48,7 @@ For example, a risk might have high probability and medium impact but you might 
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Risk value matcher form](../../planning-and-policy/reference/risk-value-matcher-form.md).
+    For more information, see [Risk value matcher form](../demand-management/risk-value-matcher-form.md).
 
 4.  Select **Submit**.
 
@@ -56,7 +56,7 @@ For example, a risk might have high probability and medium impact but you might 
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](ridac-entries-for-project.md)
 
 [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project](convert-ridac-for-project.md)
 

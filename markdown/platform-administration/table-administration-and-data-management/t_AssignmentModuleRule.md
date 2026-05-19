@@ -143,20 +143,20 @@ In this example, the condition statement automatically assigns any incident open
 
 ![Assign To](../image/assignment-assign-to.png "Assign To")
 
-**Parent Topic:**[Defining assignment rules](../concept/c_DefineAssignmentRules.md)
+**Parent Topic:**[Defining assignment rules](c_DefineAssignmentRules.md)
 
 **Related topics**  
 
 
-[Assignment rules module](../concept/c_AssignmentRulesModule.md)
+[Assignment rules module](c_AssignmentRulesModule.md)
 
-[Data lookup rules](../concept/c_DataLookupRules.md)
+[Data lookup rules](c_DataLookupRules.md)
 
-[Precedence between data lookup, assignment, and business rules](../concept/c_PrecBetweenAssignmentAndBusRules.md)
+[Precedence between data lookup, assignment, and business rules](c_PrecBetweenAssignmentAndBusRules.md)
 
-[Workflow assignments](../concept/c_WorkflowAssignments.md)
+[Workflow assignments](c_WorkflowAssignments.md)
 
-[Baseline assignment rules example](../reference/r_BaselineAssignmentRulesExample.md)
+[Baseline assignment rules example](r_BaselineAssignmentRulesExample.md)
 
 [Create an assignment data lookup rule](t_DataLookupRule.md)
 

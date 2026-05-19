@@ -65,7 +65,7 @@ The BCM admin contains the Approver Configurator admin role, but it doesn’t co
 
 For security reasons, the Approver Configurator admin has read access to the **Script** field on the Approval Rule form. If you have the Approver Configurator developer role in the GRC: Approver Configurator application, you’ve create and write access to the **Script** field on the Approval Rule form.
 
-For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](../../grc-common/reference/roles-installed-with-approver-configurator.md).
+For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](grc-common-functions/roles-installed-with-approver-configurator.md).
 
 
 </td><td>
@@ -390,7 +390,7 @@ Allows read access on all recovery events.
 </td></tr></tbody>
 </table>## BCM lite operator role
 
-For information on the BCM lite operator role, see [BCM lite operators](../concept/bcm-lite-operators.md).
+For information on the BCM lite operator role, see [BCM lite operators](bcm-lite-operators.md).
 
 ## Tables installed
 

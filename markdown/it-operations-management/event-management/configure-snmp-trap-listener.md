@@ -42,7 +42,7 @@ The `OEM 12c Trap` event rule is provided with the default base instance, as wel
 
     **Note:**
 
-    Ensure all required SNMP MIB files are uploaded on the instance. For more information, see [Load a MIB module](../../discovery/task/t_LoadAMIBModule.md).
+    Ensure all required SNMP MIB files are uploaded on the instance. For more information, see [Load a MIB module](../discovery/t_LoadAMIBModule.md).
 
     .
 

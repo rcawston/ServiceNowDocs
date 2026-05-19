@@ -28,7 +28,7 @@ Product
 
 </th></tr></thead><tbody><tr><td>
 
-[ATF troubleshooting agent](../../../administer/atf-troubleshooting-agent/reference/atf-troubleshooting-agent-landing-page.md)
+[ATF troubleshooting agent](atf-troubleshooting-agent-landing-page.md)
 
 </td><td>
 
@@ -36,7 +36,7 @@ Automated Test Framework \(ATF\)
 
 </td></tr><tr><td>
 
-[Build Agent](../../build-agent/concept/build-agent.md)
+[Build Agent](../build-agent.md)
 
 </td><td>
 
@@ -45,7 +45,7 @@ Automated Test Framework \(ATF\)
 
 </td></tr><tr><td>
 
-[Release lifecycle documentation AI agent](../../app-lifecycle-agent/concept/release-lifecycle-documentation-agent-landing.md)
+[Release lifecycle documentation AI agent](release-lifecycle-documentation-agent-landing.md)
 
 </td><td>
 
@@ -63,17 +63,17 @@ Theme Builder
 
 </td></tr><tr><td>
 
-[UI Builder agent](../../../administer/ui-generation/concept/using-ui-builder-agent.md#)
+[UI Builder agent](using-ui-builder-agent.md#)
 
 </td><td>
 
 UI Builder
 
 </td></tr></tbody>
-</table>-   **[ATF troubleshooting agent](../../../administer/atf-troubleshooting-agent/reference/atf-troubleshooting-agent-landing-page.md)**  
+</table>-   **[ATF troubleshooting agent](atf-troubleshooting-agent-landing-page.md)**  
 Use ATF troubleshooting agent to simplify test failure diagnosis on specific metadata.
--   **[Release lifecycle documentation AI agent](../../app-lifecycle-agent/concept/release-lifecycle-documentation-agent-landing.md)**  
+-   **[Release lifecycle documentation AI agent](release-lifecycle-documentation-agent-landing.md)**  
 Automate documentation tasks across the app development lifecycle with the release lifecycle documentation AI agent, available with Now Assist for Creator.
 
-**Parent Topic:**[Now Assist for Creator](../../../administer/flow-designer/concept/now-assist-for-creator-landing.md)
+**Parent Topic:**[Now Assist for Creator](now-assist-for-creator-landing.md)
 

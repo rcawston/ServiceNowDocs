@@ -86,5 +86,5 @@ Enter work notes for reference.
     The Opportunity Team Member information is added to the main opportunity.
 
 
-**Parent Topic:**[Using Opportunity Management](../concept/opportunity-mgmt-using.md)
+**Parent Topic:**[Using Opportunity Management](opportunity-mgmt-using.md)
 

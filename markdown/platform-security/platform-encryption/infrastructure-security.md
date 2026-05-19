@@ -38,8 +38,8 @@ After installing the plugin, enable Sign Your Own Security \(SYOC\) functionalit
 
 **Note:** If the **sn\_infra\_sec.syoc.enabled** property isn’t available on your instance, you must create it. For details on this process see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
--   **[Generate a Certificate Signing Request](../task/inf-sec-generate-csr.md)**  
+-   **[Generate a Certificate Signing Request](inf-sec-generate-csr.md)**  
 Use the Generate Certificate Signing \(CSR\) page to create a certificate signing request to support customer-signed certificates for your instance load balancer.
 
-**Parent Topic:**[Key Management Framework](../../encryption/concept/encryption.md)
+**Parent Topic:**[Key Management Framework](../encryption.md)
 

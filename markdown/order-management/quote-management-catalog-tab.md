@@ -40,10 +40,10 @@ You can use the Catalog tab to search for and select product offerings from cata
     -   For a simple product that doesn't have any selectable options, select **Add**.
     -   For a configurable product that has options that you can choose, select **Customize** to open the product configurator for selecting product options.
 
-        As you configure the product, you can reprice, validate, and then save your selections. For details on using the product configurator, see [Using Sales Customer Relationship Management applications](../concept/som-using.md).
+        As you configure the product, you can reprice, validate, and then save your selections. For details on using the product configurator, see [Using Sales Customer Relationship Management applications](som-using.md).
 
     The product offering is added to the quote as a line item.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

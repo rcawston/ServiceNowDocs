@@ -46,22 +46,22 @@ In this example, there’s one service portfolio at the top — Smart devices.
     -   Assign multiple nodes \(rather than layers\) for more flexibility as you structure your service portfolios. For example, a single portfolio can have multiple levels of depth via node-to-node relationships.
 -   Below the taxonomy node levels are the services and service offerings.
 
-    **Note:** You can see a visual relationship map of nodes, services, and service offerings in Digital Portfolio Management \(DPM\). For more information, see [Getting started with Digital Portfolio Management](../../digital-portfolio-management/concept/dpm-using-cfx.md).
+    **Note:** You can see a visual relationship map of nodes, services, and service offerings in Digital Portfolio Management \(DPM\). For more information, see [Getting started with Digital Portfolio Management](../digital-portfolio-management/dpm-using-cfx.md).
 
 
--   **[Create taxonomy layer definitions](../task/create-or-mod-SPM2-taxonomy-layers.md)**  
+-   **[Create taxonomy layer definitions](create-or-mod-SPM2-taxonomy-layers.md)**  
 Create an unlimited number of taxonomy layers to organize, label, and manage your service portfolio. Taxonomy layers represent the highest containment levels of your service portfolio. Each level supports branches, or nodes, that contain child nodes or services in a hierarchical top-to-bottom structure.
--   **[Create taxonomy nodes](../task/create-or-mod-SPM2-taxonomy-nodes.md)**  
+-   **[Create taxonomy nodes](create-or-mod-SPM2-taxonomy-nodes.md)**  
 Create an unlimited number of nodes, or branches, and add them to your service portfolio taxonomy layers. By configuring taxonomy nodes, you can successfully achieve a highly detailed and organized service portfolio containing multiple elemental layers—from general to specific.
 
-**Parent Topic:**[Create portfolios in Service Portfolio Management](../task/create-or-modify-SPM2-portfolios.md)
+**Parent Topic:**[Create portfolios in Service Portfolio Management](create-or-modify-SPM2-portfolios.md)
 
 **Related topics**  
 
 
-[Create taxonomy nodes](../task/create-or-mod-SPM2-taxonomy-nodes.md)
+[Create taxonomy nodes](create-or-mod-SPM2-taxonomy-nodes.md)
 
-[Create taxonomy layer definitions](../task/create-or-mod-SPM2-taxonomy-layers.md)
+[Create taxonomy layer definitions](create-or-mod-SPM2-taxonomy-layers.md)
 
-[View relationship maps in Digital Portfolio Management](../../digital-portfolio-management/concept/dpm-view-relationship-map.md)
+[View relationship maps in Digital Portfolio Management](../digital-portfolio-management/dpm-view-relationship-map.md)
 

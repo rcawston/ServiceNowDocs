@@ -36,7 +36,7 @@ Results are not calculated for the survey until the configured duration has elap
 4.  Click **Update**.
 
 
-**Parent Topic:**[Survey users and groups](../concept/c_SurveyUsersAndGroups.md)
+**Parent Topic:**[Survey users and groups](c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 

@@ -36,5 +36,5 @@ Role required: sn\_apm.apm\_user
 6.  Select **Update**.
 
 
-**Parent Topic:**[Working with business process map](../../concept/eaw-concept/eaw-work-with-bp-map.md)
+**Parent Topic:**[Working with business process map](eaw-work-with-bp-map.md)
 

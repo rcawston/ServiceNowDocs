@@ -17,7 +17,7 @@ The ScopedCacheManager API provides methods for retrieving, setting, and flushin
 
 This API requires the Scoped Cache \(com.glide.scopedcache\) plugin and runs in the `sn_scoped_cache` namespace. The plugin is installed and activated by default.
 
-These methods require one or more scoped caches and scoped cache pairs to be defined. For more information on creating scoped caches, see the [ScopedCacheManager API Developer Guide](../../../../../integrate/guides/scopedcachemgr/concept/scoped-caches.md#).
+These methods require one or more scoped caches and scoped cache pairs to be defined. For more information on creating scoped caches, see the [ScopedCacheManager API Developer Guide](../developer-guides/scoped-caches.md#).
 
 Using this API with scoped caches provides several advantages, including:
 
@@ -26,7 +26,7 @@ Using this API with scoped caches provides several advantages, including:
 -   Defining and use cache data outside the transaction life cycle.
 -   Caching the output of expensive operations or calculations for quick access in the future.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ScopedCacheManager – flushScopedCache\(String catalog, String key\)
 

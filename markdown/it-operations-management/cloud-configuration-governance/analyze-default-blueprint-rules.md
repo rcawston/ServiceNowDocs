@@ -19,7 +19,7 @@ This example walks you through an existing set of blueprint rules that Cloud Pro
 
 Before you can follow this example, you should be familiar with creating blueprints and blueprint rules. See these resources:
 
--   [Cloud Provisioning Blueprints](../concept/blueprints.md)
+-   [Cloud Provisioning Blueprints](blueprints.md)
 -   [Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)
 -   [Configure a blueprint rule](configure-a-blueprint-rule.md#)
 
@@ -106,5 +106,5 @@ This blueprint, which includes a virtual server that can be provisioned in an AW
         It is possible that multiple datacenters could be associated with **My Cloud Account**. In that case, the Location field reloads all the associated datacenters and in the Location field. Since the Location field is of type Select, the field allows the user to select which location to choose.
 
 
-**Parent Topic:**[Cloud catalog form configuration examples](../concept/example-blueprint-rules.md)
+**Parent Topic:**[Cloud catalog form configuration examples](example-blueprint-rules.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Cart layout, Service Catalog customization, Types of catalog items,
 
 You can configure shopping cart preview screens for the one-step and two-step carts, for the wish list, and for the Classic Mobile app.
 
-**Parent Topic:**[Cart layout](../concept/c_ConfigureCartLayout.md)
+**Parent Topic:**[Cart layout](c_ConfigureCartLayout.md)
 
 ## Configure the wish list screen
 
@@ -110,7 +110,7 @@ Role required: admin, catalog\_admin
 
 ### About this task
 
-Changes made to the two-step record are visible only if the [two-step checkout process is enabled](../concept/c_EnableATwoStepCheckout.md#) in properties. By default, catalog items use a one-step checkout process.
+Changes made to the two-step record are visible only if the [two-step checkout process is enabled](c_EnableATwoStepCheckout.md#) in properties. By default, catalog items use a one-step checkout process.
 
 ### Procedure
 

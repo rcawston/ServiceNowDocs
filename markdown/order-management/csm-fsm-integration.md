@@ -46,5 +46,5 @@ Select a work order in this list to display the work order details.
 
 There is no synchronization between the Work Order form and the associated Case form. If information changes on the Case form, it does not get updated on the Work Order form.
 
-**Parent Topic:**[Integrate with Field Service Management](../task/activate-fsm-csm-integration.md)
+**Parent Topic:**[Integrate with Field Service Management](activate-fsm-csm-integration.md)
 

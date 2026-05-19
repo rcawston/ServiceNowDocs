@@ -19,7 +19,7 @@ Set up your Hardware Asset Management \(HAM\) specific advisor dashboard by sele
 
 -   Install Hardware Asset Management \(sn\_hamp\) on your instance.
 -   Obtain entitlement for Hardware Asset Management \(ham\_hamp\_license\).
--   Opt in HAM resource categories. See [Managing opt-in and opt-out resource categories for HAM in CMDB success advisor](../concept/cmdb-sa-ham-opt-categories.md)
+-   Opt in HAM resource categories. See [Managing opt-in and opt-out resource categories for HAM in CMDB success advisor](cmdb-sa-ham-opt-categories.md)
 
 Role required: sn\_cmdb\_admin
 
@@ -35,7 +35,7 @@ Selecting model categories defines which hardware asset types CMDB success advis
 
 1.  On the CMDB success advisor landing page, select **Select model categories** within the HAM card.
 
-    See [Viewing the CMDB success advisor landing page](../concept/cmdb-sa-landing-page.md).
+    See [Viewing the CMDB success advisor landing page](cmdb-sa-landing-page.md).
 
 2.  On the Select model categories dialog box, select a resource category to choose all its model categories or expand a resource category to select individual categories, then move them from the **Available resource and model categories** column to the **Selected** column.
 

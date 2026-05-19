@@ -119,7 +119,7 @@ References
 
 </td><td>
 
-[Domain separation for service providers](../../company-and-domain-separation/reference/domain-sep-landing-page.md)
+[Domain separation for service providers](../domain-sep-landing-page.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](sc-access-control.md)

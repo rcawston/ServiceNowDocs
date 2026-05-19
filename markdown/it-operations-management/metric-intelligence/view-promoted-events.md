@@ -30,5 +30,5 @@ The system generates an IT event when an anomaly alert is promoted. Those events
 2.  On the Events page, view the IT events that are created from the anomaly alerts by the Advanced Promotion Engine.
 
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 

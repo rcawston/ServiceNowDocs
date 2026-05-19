@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Rule - Action Mapping form contains information about relationships between AI Search result improvement rules and boost actions. Use this form when linking boost actions to result improvement rules.
 
-For information on configuring boost actions in result improvement rules, see [Boost search results using a result improvement rule](../task/boost-results-ais.md#).
+For information on configuring boost actions in result improvement rules, see [Boost search results using a result improvement rule](boost-results-ais.md#).
 
 <table id="table_ksn_hqd_2nb"><thead><tr><th>
 
@@ -127,5 +127,5 @@ Matches A Synonym Dictionary
 Synonym dictionary to check for synonyms that match a search result's value for the field selected in the **When** field. This field appears only when you select **Boost By Synonym Dictionary** as the boost type.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

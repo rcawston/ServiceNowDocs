@@ -62,5 +62,5 @@ Role required: sn\_rvw\_feedback.respondent
     You must close all the open items to send the feedback to the reviewer.
 
 
-**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
+**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](integrate-advanced-risk-with-parallel-review-feedback.md)
 

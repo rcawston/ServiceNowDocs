@@ -37,11 +37,11 @@ The following roles and tasks are associated with this solution:
 **Related topics**  
 
 
-[Configure an aggregation for source data](../../vulnerability-response/task/configure-indicator-for-source-data.md)
+[Configure an aggregation for source data](../vulnerability-response/configure-indicator-for-source-data.md)
 
-[Run multiple aggregations simultaneously](../../vulnerability-response/task/run-multiple-aggregations.md)
+[Run multiple aggregations simultaneously](../vulnerability-response/run-multiple-aggregations.md)
 
-[Configure the number of aggregations that can run simultaneously](../../vulnerability-response/task/create-config-arf-processor.md)
+[Configure the number of aggregations that can run simultaneously](../vulnerability-response/create-config-arf-processor.md)
 
-[Create a report using an aggregation](../../vulnerability-response/task/generate-report.md)
+[Create a report using an aggregation](../vulnerability-response/generate-report.md)
 

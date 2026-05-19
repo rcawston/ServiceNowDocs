@@ -52,5 +52,5 @@ When you add an activity or change the status in a project, the project manager 
 **Related topics**  
 
 
-[Manage status of your projects using Project Status application](../concept/mobile-project-status.md)
+[Manage status of your projects using Project Status application](mobile-project-status.md)
 

@@ -68,5 +68,5 @@ To ensure uninterrupted functionality with actionable message, you must migrate 
 
 You are now migrated to Microsoft Entra ID token authentication and the Outlook Actionable Messages app registration is updated in your ServiceNow instance.
 
-**Parent Topic:**[Using ServiceNow for Microsoft Outlook](../concept/using-sn-ms-outlook.md)
+**Parent Topic:**[Using ServiceNow for Microsoft Outlook](using-sn-ms-outlook.md)
 

@@ -31,5 +31,5 @@ The dashboard might not show all these reports. If you want to view a particular
 
 ![Various assessment reports that appear on the Assessment Overview dashboard.](../images/AssessmentOverviewPage.png "Assessment Overview dashboard")
 
-**Parent Topic:**[View a metric result](../task/t_ViewAMetricResult.md)
+**Parent Topic:**[View a metric result](t_ViewAMetricResult.md)
 

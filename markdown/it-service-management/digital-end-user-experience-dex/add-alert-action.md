@@ -28,13 +28,13 @@ Role required: sn\_dex.admin
 
 2.  On the Proactive resolution content page, fill in the fields.
 
-    For a description of the field values, see [Resolution for Proactive Engagement](../../proactive-engagement/reference/resolutions.md).
+    For a description of the field values, see [Resolution for Proactive Engagement](../proactive-engagement/resolutions.md).
 
 3.  Select **Continue to Engagement Settings**.
 
 4.  Configure the engagement settings to facilitate self-resolution of issues through predefined solutions.
 
-    For more details about the engagement settings, see [Engagement Settings for Proactive Engagement](../../proactive-engagement/reference/engagement-settings.md).
+    For more details about the engagement settings, see [Engagement Settings for Proactive Engagement](../proactive-engagement/engagement-settings.md).
 
 5.  Select **Add Resolution**.
 

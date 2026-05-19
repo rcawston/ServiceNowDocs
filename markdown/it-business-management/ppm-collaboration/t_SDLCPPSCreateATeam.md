@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-[Assignment groups in Agile Development 2.0](../../agile-development/concept/manage-groups-agile-dev.md)
+[Assignment groups in Agile Development 2.0](../agile-development/manage-groups-agile-dev.md)
 
 ## Procedure
 
@@ -48,7 +48,7 @@ Role required: admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](../concept/c_SDLCIntegrationWithProjectPortfolioSuite.md)
+**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](c_SDLCIntegrationWithProjectPortfolioSuite.md)
 
 ## Add group members
 

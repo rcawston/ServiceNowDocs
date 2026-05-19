@@ -29,7 +29,7 @@ To create a tag def users need to use filter to define on which alerts the defin
 
 2.  Select **New**.
 
-3.  Configure the fields on the [Event Management tag based alert grouping definition form](../reference/tag-based-alert-clustering-definition-form.md).
+3.  Configure the fields on the [Event Management tag based alert grouping definition form](tag-based-alert-clustering-definition-form.md).
 
 4.  Select **Save**.
 

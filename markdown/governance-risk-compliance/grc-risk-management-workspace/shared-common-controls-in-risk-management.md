@@ -17,7 +17,7 @@ By linking the risks to a common control in the Risk Management application, you
 
 ## Overview of common controls
 
-Every organization has multiple \(BUs\) and shared functions, such as information technology \(IT\), HR, and finance. These shared functions define the policies and controls that the BUs can use to meet the regulatory requirements or to manage the risks in their BUs. Multiple BUs can use common controls that are owned and managed by a different department or team. This process enables an organization to maintain centralized control over certain processes while each BU can take advantage of these common controls. For more information on common controls, see [Common Controls](../../grc-workspace-compliance/concept/common-controls-multiple-rel-entities.md).
+Every organization has multiple \(BUs\) and shared functions, such as information technology \(IT\), HR, and finance. These shared functions define the policies and controls that the BUs can use to meet the regulatory requirements or to manage the risks in their BUs. Multiple BUs can use common controls that are owned and managed by a different department or team. This process enables an organization to maintain centralized control over certain processes while each BU can take advantage of these common controls. For more information on common controls, see [Common Controls](../grc-compliance-management-workspace/common-controls-multiple-rel-entities.md).
 
 To mitigate the risks in the reliant entities, a risk owner can link their risks to the common controls. By linking the risk, a risk owner can reduce the effort that is required to attest and test these common controls for the reliant entities.
 

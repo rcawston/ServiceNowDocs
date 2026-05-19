@@ -26,14 +26,14 @@ When a security incident is promoted as major security incident:
 
 Role required: sn\_msi.workspace\_manager.
 
-**Parent Topic:**[Using Major Security Incident Management](../../security-incident-response/concept/major-security-incident-setup.md)
+**Parent Topic:**[Using Major Security Incident Management](major-security-incident-setup.md)
 
 **Related topics**  
 
 
-[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+[Propose, promote, and link incident records](promoting-sir-to-msim.md)
 
-[Using MSI List view in the MSIM workspace](../../security-incident-response/task/list-view-in-msim.md)
+[Using MSI List view in the MSIM workspace](list-view-in-msim.md)
 
 [View Major Security Incident impact metrics](viewing-trend-charts-and-progress-of-msi.md)
 
@@ -41,13 +41,13 @@ Role required: sn\_msi.workspace\_manager.
 
 [Update Major Security Incident details](msim-details-tab.md)
 
-[Link additional records to Major Security Incident](../task/linking-additional-records-to-major-security-incidents.md)
+[Link additional records to Major Security Incident](linking-additional-records-to-major-security-incidents.md)
 
-[Unlink records from Major Security Incident](../task/unlinking-msi-records.md)
+[Unlink records from Major Security Incident](unlinking-msi-records.md)
 
 [Manage tasks in a Major Security Incident](tasks-tab.md)
 
-[Create and distribute MSIM Status Reports](../task/creating-and-distributing-major-security-incident-status-reports.md)
+[Create and distribute MSIM Status Reports](creating-and-distributing-major-security-incident-status-reports.md)
 
 ## Interact with files and folders
 

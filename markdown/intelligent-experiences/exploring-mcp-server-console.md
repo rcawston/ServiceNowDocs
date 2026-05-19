@@ -47,14 +47,14 @@ The following infographic shows the workflow for AI administrators to get starte
 
 6.  Employees use clients, such as AI agents, to prompt the server for data from the instance or to perform an action on the instance.
 
-**Note:** With AI Gateway in AI Control Tower, AI administrators can monitor MCP server access and view metrics for servers and their tools. For more information, see [AI Gateway](../../ai-governance-workspace/concept/ai-gateway-overview.md).
+**Note:** With AI Gateway in AI Control Tower, AI administrators can monitor MCP server access and view metrics for servers and their tools. For more information, see [AI Gateway](ai-control-tower/ai-gateway-overview.md).
 
 ## MCP Server Console benefits
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Integrate with any AI application and MCP client using a standard protocol.|[Create a Model Context Protocol server](../task/create-mcp-server.md)|AI administrator|
-|Control which tools and fields are exposed to MCP clients.|[Create a tool for a Model Context Protocol server](../task/create-tool-mcp-server.md)|AI administrator|
+|Integrate with any AI application and MCP client using a standard protocol.|[Create a Model Context Protocol server](create-mcp-server.md)|AI administrator|
+|Control which tools and fields are exposed to MCP clients.|[Create a tool for a Model Context Protocol server](create-tool-mcp-server.md)|AI administrator|
 |Securely access functionality from a ServiceNow instance in any external employee experience.|[Configure an MCP client to connect to an MCP server](connect-mcp-server-client.md#)|AI administrator|
 
 ## Quickstart Server in MCP Server Console
@@ -79,5 +79,5 @@ To learn more about configuring and using MCP Server Console, see:
 **Related topics**  
 
 
-[Model Context Protocol Client](../../model-context-protocol-client/reference/mcp-client.md)
+[Model Context Protocol Client](mcp-client.md)
 

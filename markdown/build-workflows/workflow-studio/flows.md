@@ -61,7 +61,7 @@ Select the **More Actions** icon \(![More Actions icon](../images/MoreActionsIco
 
 -   **Change default flow title**
 
-    Change the default title for your flow by adding styled or dynamic text. For more information, see [Create a natural language title](../task/manage-natural-language-title.md).
+    Change the default title for your flow by adding styled or dynamic text. For more information, see [Create a natural language title](manage-natural-language-title.md).
 
 
 ## Testing flows
@@ -74,7 +74,7 @@ You can test a flow directly from the Workflow Studio interface. Each test runs 
 
 Each time you test a flow, the system generates flow execution records, log messages, and reports. The flow context is a related record containing the current state and runtime values of the flow. The system generates a context record each time a flow is run.
 
-Optionally, you can configure the system to generate execution details anytime a flow is run, not just during testing. For more information, see [Activate flow reporting](../task/enable-flow-reporting.md#).
+Optionally, you can configure the system to generate execution details anytime a flow is run, not just during testing. For more information, see [Activate flow reporting](enable-flow-reporting.md#).
 
 ## Flow properties
 
@@ -173,7 +173,7 @@ Any general guidelines that apply to flows also apply to [subflows](flows.md#sub
 
 -   **Use flow logic or a schedule-based trigger to control flow timing**
 
-    Flow logic or schedule-based triggers help to optimize the performance of your flows. Do not use the gs.sleep\(\) method to wait within a flow. The gs.sleep\(\) method prevents the thread from performing other work. To run a flow at a specific time, use a schedule-based trigger. To pause a flow for a specific duration, use the [Wait for a duration](flow-logic-wait-for-a-duration.md) or [wait for condition](../reference/wait-for-condition-flow-designer.md) flow logic.
+    Flow logic or schedule-based triggers help to optimize the performance of your flows. Do not use the gs.sleep\(\) method to wait within a flow. The gs.sleep\(\) method prevents the thread from performing other work. To run a flow at a specific time, use a schedule-based trigger. To pause a flow for a specific duration, use the [Wait for a duration](flow-logic-wait-for-a-duration.md) or [wait for condition](wait-for-condition-flow-designer.md) flow logic.
 
 -   **Avoid dependencies**
 
@@ -231,14 +231,14 @@ Any general guidelines that apply to flows also apply to [subflows](flows.md#sub
 
 -   **Turn flow reporting off in production**
 
-    Minimize the amount of memory required to run flows by disabling [Flow reporting](../task/enable-flow-reporting.md#). Flow reporting stores configuration and runtime information for the Execution Details page. These reports are good for troubleshooting, but requires a large amount of data to be retained both in memory and in the database. By default, flow reporting is disabled, and the system only generates execution details when you manually test a flow or action. Instead you can use log files, which are still available when reporting is turned off.
+    Minimize the amount of memory required to run flows by disabling [Flow reporting](enable-flow-reporting.md#). Flow reporting stores configuration and runtime information for the Execution Details page. These reports are good for troubleshooting, but requires a large amount of data to be retained both in memory and in the database. By default, flow reporting is disabled, and the system only generates execution details when you manually test a flow or action. Instead you can use log files, which are still available when reporting is turned off.
 
 -   **Reduce the amount of memory consumed in flows with nested looping**
 
     When reporting is activated, set com.snc.process\_flow.reporting.iteration.lastn to a value of "1" to reduce the amounts of the amounts of memory that previous loop iterations consume. The more iterations you report on, the more memory is required.
 
 
--   **[Create a flow in Workflow Studio](../task/create-flow.md)**  
+-   **[Create a flow in Workflow Studio](create-flow.md)**  
 Run a sequence of actions and flow logic when the trigger conditions occur.
 -   **[Default read-only flows](default-read-only-flows.md)**  
 Open existing flows in a read-only state to protect them from accidental changes. While a flow is in a read-only state, you can only review, test, deactivate, or request to edit it.
@@ -256,10 +256,10 @@ Enable citizen developers to create their own flow templates. Flow Templates gui
 Enable users with coding experience to write inline scripts that set and modify input values during the configuration of an action or flow. Use inline scripts to modify input values that require small format conversions, data transformations, or math operations.
 -   **[Save as you go flows](save-as-you-go-flows.md)**  
 Save flows, subflows, and actions automatically as you work on them.
--   **[Summarize a flow](../task/summarize-a-flow.md)**  
+-   **[Summarize a flow](summarize-a-flow.md)**  
 Generate a summary of a flow with Now Assist for Creator.
 -   **[Flow variables](flow-variables.md)**  
 Similar to Workflow scratchpad variables, create variables that you can use and modify directly in your flow. Access flow variables as data pills directly in the Data panel.
 
-**Parent Topic:**[Workflow Studio flows, subflows, and actions](../../workflow-studio/reference/workflow-studio-flows-subflows-and-actions-landing.md)
+**Parent Topic:**[Workflow Studio flows, subflows, and actions](workflow-studio-flows-subflows-and-actions-landing.md)
 

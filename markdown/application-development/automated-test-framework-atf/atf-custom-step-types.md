@@ -23,9 +23,9 @@ These characteristics are defined in the step's step configuration record.
 
 The [Step execution script](atf-config-script.md) field determines the actions the system executes when a step with this config runs.
 
--   **[Create custom step configuration](../task/atf-create-custom-step.md)**  
+-   **[Create custom step configuration](atf-create-custom-step.md)**  
 Create a custom step configuration that can form the basis of new steps that run on the server.
--   **[Create a custom step configuration category](../task/atf-create-custom-category.md)**  
+-   **[Create a custom step configuration category](atf-create-custom-category.md)**  
 Create a custom step config category.
 
 **Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)

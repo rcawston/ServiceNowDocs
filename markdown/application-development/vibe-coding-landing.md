@@ -66,7 +66,7 @@ Your app doesn't have to be completely developed inside the ServiceNow AI Platfo
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference information for AI-assisted development, such as prompt examples.](../reference/vibe-coding-reference-landing.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference information for AI-assisted development, such as prompt examples.](vibe-coding-reference-landing.md)
 
 </td></tr></tbody>
 </table>## Helpful resources

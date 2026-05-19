@@ -17,7 +17,7 @@ TAXII collections are logical groupings of threat intelligence data.
 
 -   **[Create TAXII Collection](tisc-create-taxii-collection.md)**  
 Use this section to learn how to configure and define TAXII collections for sharing intelligence.
--   **[Automated Sharing of TAXII Collections](../task/tisc-automated-share-taxii.md)**  
+-   **[Automated Sharing of TAXII Collections](tisc-automated-share-taxii.md)**  
 Automated TAXII Collections automatically add intelligence records to TAXII Server Collections for seamless distribution to trusted external partners.
 -   **[Viewing TAXII Collection Records](tisc-view-taxii-collection.md)**  
 View the records that are added to the TAXII collections.

@@ -35,7 +35,7 @@ An approval configuration is a container for the workflow elements that you defi
 
 4.  Select **New**.
 
-    On the Approval Configuration form, fill in the fields to create a configuration for an entity, such as quotes. For field descriptions, see the [Approval Configuration form](../reference/approval-configuration-form.md).
+    On the Approval Configuration form, fill in the fields to create a configuration for an entity, such as quotes. For field descriptions, see the [Approval Configuration form](approval-configuration-form.md).
 
 5.  Select **Save**.
 

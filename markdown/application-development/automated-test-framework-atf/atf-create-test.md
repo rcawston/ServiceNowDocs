@@ -31,7 +31,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 4.  Enable parameterized testing to run a test multiple times with different test data for each run.
 
-    For more information, see [Parameterized tests](../concept/parameterized-tests.md).
+    For more information, see [Parameterized tests](parameterized-tests.md).
 
 5.  Enter a **Description** for your test.
 
@@ -53,5 +53,5 @@ If necessary, edit a test step after you create it.
 -   **[Edit automated test step order](atf-edit-step-order.md)**  
 By default, steps execute in the order in which you created them. You can change this order by editing the **Execution Order** field.
 
-**Parent Topic:**[Building and running automated tests with the Automated Test Framework](../concept/atf-build-overview.md)
+**Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)
 

@@ -20,7 +20,7 @@ You can install the Generative AI Controller application \(sn.generative.ai\) wi
 
 You must be on Vancouver patch 2 or later.
 
-Generative AI Controller is included as a dependency for all Now Assist applications. It is not recommended to install the application by itself. Instead, you can install Now Assist applications from the Now Assist Admin console or directly from the ServiceNow Store. For details, see [Install Now Assist plugins](../../now-assist-admin/task/install-now-assist-feature-plugins.md).
+Generative AI Controller is included as a dependency for all Now Assist applications. It is not recommended to install the application by itself. Instead, you can install Now Assist applications from the Now Assist Admin console or directly from the ServiceNow Store. For details, see [Install Now Assist plugins](../install-now-assist-feature-plugins.md).
 
 ![Now Assist Admin console links to browse plugins by workflow](../image/now-assist-console-install-plugins.png "Now Assist Admin console plugin installation")
 

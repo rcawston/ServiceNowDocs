@@ -59,7 +59,7 @@ Each function field requires a label, a return type, and a definition. The defin
 
 9.  Select the fields that the function operates on.
 
-    Some functions require only one field; some require two or three fields. See [Report on function fields](../concept/function-fields-reporting.md). Make sure that you separate the fields with commas.
+    Some functions require only one field; some require two or three fields. See [Report on function fields](function-fields-reporting.md). Make sure that you separate the fields with commas.
 
 10. When the syntax is correct, you can save the function field.
 
@@ -74,5 +74,5 @@ Configured function fields appear in the **Group by** and **Additional group by*
 
 Use the created function field it in your report or data visualization configuration. For information on using function fields elsewhere on the ServiceNow AI Platform, see [Function field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-support-functions.md).
 
-**Parent Topic:**[Report on function fields](../concept/function-fields-reporting.md)
+**Parent Topic:**[Report on function fields](function-fields-reporting.md)
 

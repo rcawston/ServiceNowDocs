@@ -45,7 +45,7 @@ If the table is a child, decide if you want to replicate its parent.
 **Related topics**  
 
 
-[Manage consumer access to replication data in Instance Data Replication](../task/approve-consumer.md)
+[Manage consumer access to replication data in Instance Data Replication](approve-consumer.md)
 
 [Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md)
 
@@ -57,5 +57,5 @@ If the table is a child, decide if you want to replicate its parent.
 
 [Monitoring queues in Instance Data Replication](idr-queue-dashboard.md)
 
-[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
 

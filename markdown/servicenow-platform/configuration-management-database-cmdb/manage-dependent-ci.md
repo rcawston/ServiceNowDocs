@@ -22,7 +22,7 @@ To ensure that dependent CIs are properly managed after deleting or archiving CI
 1.  Enable dependent CIs management as described on this page.
 2.  Manually approve the [CMDB Data Manager](cmdb-data-management.md) tasks that dependent CIs management generates, or configure those tasks to not require a review or an approval.
 
-**Note:** An Orphan dependent CI in the context of Data Manager is different from an orphan CI in the context of CMDB Health. An orphan dependent CI within the context of Data Manager belongs to a dependent class, and is missing the dependent relationship. The definition of an orphan CI in the context of CMDB Health is broader, and includes any CI that matches CMDB Health orphan rules. For more information about orphan CIs in CMDB Health, see [CMDB Health KPIs and metrics](../reference/r_CMDBHealthMetrics.md).
+**Note:** An Orphan dependent CI in the context of Data Manager is different from an orphan CI in the context of CMDB Health. An orphan dependent CI within the context of Data Manager belongs to a dependent class, and is missing the dependent relationship. The definition of an orphan CI in the context of CMDB Health is broader, and includes any CI that matches CMDB Health orphan rules. For more information about orphan CIs in CMDB Health, see [CMDB Health KPIs and metrics](r_CMDBHealthMetrics.md).
 
 Examples of dependent CIs needing cascade-cleanup:
 
@@ -170,17 +170,17 @@ For monitoring purposes, check the system logs for cleanup activity. Log message
 **Related topics**  
 
 
-[CMDB record types](../reference/r_CMDBRecordTypes.md)
+[CMDB record types](r_CMDBRecordTypes.md)
 
-[Related Lists of CI components](../reference/r_RelatedListsOfCIComponents.md)
+[Related Lists of CI components](r_RelatedListsOfCIComponents.md)
 
-[Create a CI class](../task/t_CreateCIType.md)
+[Create a CI class](t_CreateCIType.md)
 
-[Reclassify a CI](../task/t_ManuallyReclassifyCI.md)
+[Reclassify a CI](t_ManuallyReclassifyCI.md)
 
-[Delete CIs](../task/delete-class-records-ci-class-mgr.md)
+[Delete CIs](delete-class-records-ci-class-mgr.md)
 
-[View and edit class definitions and metadata](../task/t_ViewTableDefinitions.md)
+[View and edit class definitions and metadata](t_ViewTableDefinitions.md)
 
-[Update the list of classes in the Principal Class filter](../task/update-principal-class-filter.md)
+[Update the list of classes in the Principal Class filter](update-principal-class-filter.md)
 

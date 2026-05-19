@@ -75,7 +75,7 @@ Change the access level or remove access for a user or a group.
 2.  From the user or group card, select the Action Menu icon \(![Action menu icon.](../images/action-menu-icon.png)\).
 3.  Select the right access level or select **Remove**.
 
-**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](../concept/managing-portfolio-plans-in-alignment-planner-workspace.md)
+**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](managing-portfolio-plans-in-alignment-planner-workspace.md)
 
 **Related topics**  
 

@@ -43,5 +43,5 @@ Set the following pages as the default record pages in UI Builder:
 -   **CSM default record page**: Includes specific features for case management.
 -   **CSM Interaction record page**: Includes CSM-specific features for interaction management.
 
-These pages support the Now Assist for Customer Service Management \(CSM\) functionality in CSM Configurable Workspace, including the display of the generative AI icon and banner. For more information, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+These pages support the Now Assist for Customer Service Management \(CSM\) functionality in CSM Configurable Workspace, including the display of the generative AI icon and banner. For more information, see [Set record page order](../config-csm-ws-set-record-page-order.md).
 

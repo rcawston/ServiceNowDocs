@@ -40,5 +40,5 @@ Role required: sn\_ohs\_im.requestor
 7.  Tap **Close** to return to the list of safety topics.
 
 
-**Parent Topic:**[Mobile experience for Health and Safety](../concept/hs-health-safety-mobile.md)
+**Parent Topic:**[Mobile experience for Health and Safety](hs-health-safety-mobile.md)
 

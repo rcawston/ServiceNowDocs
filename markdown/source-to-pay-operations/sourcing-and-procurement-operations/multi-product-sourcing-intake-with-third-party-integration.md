@@ -82,5 +82,5 @@ When a requester submits a sourcing intake form with multiple products, the thir
 
 Multiple sourcing requests are created and linked to the same purchase record. All related requests are visible and manageable in the Source-to-Pay Workspace, and each sourcing request has its own sourcing event and RFQ identifier.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](../concept/psm-integration-third-party-sourcing.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](psm-integration-third-party-sourcing.md)
 

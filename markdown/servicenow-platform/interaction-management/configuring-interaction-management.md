@@ -15,7 +15,7 @@ breadcrumb: [Interaction Management, Manage people and work capabilities, Extend
 
 You can configure the behavior of an interaction and the types of information that is stored with the record. You can also use interaction wrap up to provide agents with a brief wrap-up period at the end of customer conversations.
 
--   **[Interaction states](../reference/interaction-states.md)**  
+-   **[Interaction states](interaction-states.md)**  
 Configure the behavior of an interaction by determining the routine behavior for each state that the interaction goes through during the life cycle.
 -   **[Interaction context and channel metadata](interaction-context-channel-metadata.md)**  
 Context and channel metadata are document ID fields included as part of interactions. Both types of records store information about the interaction.

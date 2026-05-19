@@ -76,5 +76,5 @@ Role required: admin \[sn\_egd\_lh.admin\]
 
 The employee engagement metric that you configured appears in the Growth engagement widget. The Growth engagement widget appears on the At a glance page.
 
-**Parent Topic:**[Installing and configuring Leader Hub](../concept/td-lh-install-config.md)
+**Parent Topic:**[Installing and configuring Leader Hub](td-lh-install-config.md)
 

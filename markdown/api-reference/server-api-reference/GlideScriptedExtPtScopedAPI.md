@@ -19,15 +19,15 @@ From these extension instances, you can extend the functionality of an applicati
 
 This API is available in the base ServiceNow instance.
 
-For more information on extension points, see [Using extension points to extend application functionality](../../../../../build/applications/concept/extension-points.md).
+For more information on extension points, see [Using extension points to extend application functionality](../web-services/extension-points.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideScriptedExtensionPoint - getExtensions\(String name\)
 
 Returns the extension instances associated with a specified extension point.
 
-These extension instances are persisted in the Extension Instance \[sys\_extension\_instance\] table. For more information on extension points, see [Using extension points to extend application functionality](../../../../../build/applications/concept/extension-points.md).
+These extension instances are persisted in the Extension Instance \[sys\_extension\_instance\] table. For more information on extension points, see [Using extension points to extend application functionality](../web-services/extension-points.md).
 
 **Note:** The script include instances returned by the getExtensions\(\) method are uninitialized. If your interface includes an initialize method, call that method before calling other methods on the returned instance. For example:
 

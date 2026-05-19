@@ -46,5 +46,5 @@ You can use the Catalog tab to search for and select product offerings from cata
 
 [Add line items to a lead](lead-management-use-line-items-tab.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](lead-management-using.md)
 

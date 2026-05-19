@@ -29,10 +29,10 @@ A direct JDBC probe has the following XML payload structure
     </select></parameter></parameters>
 ```
 
-**Parent Topic:**[JDBCProbe](../task/t_JDBCProbe.md)
+**Parent Topic:**[JDBCProbe](t_JDBCProbe.md)
 
 **Related topics**  
 
 
-[JDBCProbe](../task/t_JDBCProbe.md)
+[JDBCProbe](t_JDBCProbe.md)
 

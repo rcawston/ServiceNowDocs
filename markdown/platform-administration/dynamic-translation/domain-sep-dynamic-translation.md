@@ -29,7 +29,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Activation information
 
-You should activate the Domain Support - Domain Extensions Installer plugin \(com.glide.domain.msp\_extensions.installer\). For information on how you can request for the plugin activation, see [Request for domain separation in Dynamic Translation](../task/activate-domainsep-dyn-transl.md).
+You should activate the Domain Support - Domain Extensions Installer plugin \(com.glide.domain.msp\_extensions.installer\). For information on how you can request for the plugin activation, see [Request for domain separation in Dynamic Translation](activate-domainsep-dyn-transl.md).
 
 ## How domain separation works in Dynamic Translation
 
@@ -92,7 +92,7 @@ You can override a translator configuration TC1 from Domain B. After overriding,
 
 The Exclusion Framework module in Dynamic Translation supports domain separation. Each domain on an instance can have its own set of Exclusion Framework rules, so the rules are specific to one domain. Activation of Exclusion Framework on an instance applies to all domains on the instance. For more information see [Exclusion Framework in Dynamic Translation](dyn-translation-exclusion-framework.md).
 
-**Parent Topic:**[Reference for Dynamic Translation](../reference/reference-for-dynamic-translation.md)
+**Parent Topic:**[Reference for Dynamic Translation](reference-for-dynamic-translation.md)
 
 **Related topics**  
 

@@ -41,5 +41,5 @@ Role required: evt\_mgmt\_admin
 
 [Create on-call shift for your team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/on-call-scheduling-in-sow.md).
 
-**Parent Topic:**[On-call scheduling in Service Operations Workspace for ITOM](../concept/oncall-schedule-escalation.md)
+**Parent Topic:**[On-call scheduling in Service Operations Workspace for ITOM](oncall-schedule-escalation.md)
 

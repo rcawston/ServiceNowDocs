@@ -39,7 +39,7 @@ Example optional objectives:
 -   Minimize Overtime: Caps agent work hours within standard time ranges.
 -   Maximize Balance in Tasks and Work Hours: Distributes tasks and hours evenly among agents.
 
-**Note:** Objectives act as levers that adjust optimization to better suit your needs. For example, if Minimize Overtime is set as an objective, Schedule Optimization assigns tasks to agents during normal hours when possible. If that is not possible, tasks are assigned even if overtime is required. For a list of objectives, see [Objectives and constraints used with Schedule Optimization](../reference/hard-soft-constraints.md).
+**Note:** Objectives act as levers that adjust optimization to better suit your needs. For example, if Minimize Overtime is set as an objective, Schedule Optimization assigns tasks to agents during normal hours when possible. If that is not possible, tasks are assigned even if overtime is required. For a list of objectives, see [Objectives and constraints used with Schedule Optimization](../hard-soft-constraints.md).
 
 ## Procedure
 

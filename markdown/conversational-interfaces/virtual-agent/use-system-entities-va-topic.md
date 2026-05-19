@@ -198,7 +198,7 @@ Slide this toggle switch to enable topic switching.
 
 Use additional system-derived entities for your Booking a Reservation topic. For example, you can use system-derived entities to capture the dates that the user wants to travel.
 
-For more information about default system entities, see [NLU system entities](../reference/nlu-system-entities.md).
+For more information about default system entities, see [NLU system entities](nlu-system-entities.md).
 
 **Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
 

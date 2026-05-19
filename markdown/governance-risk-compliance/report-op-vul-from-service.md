@@ -33,7 +33,7 @@ Role required: sn\_oper\_res.manager
 
     The source of the vulnerability is the selected service. Therefore, the **Source** field on the form shows the source as Service and the **Source table** field on the form shows the table as Service. The **Source table** field is auto-filled.
 
-    To view more information on the fields, see the [Create New Operational vulnerability form](../reference/create-new-op-vul-form.md).
+    To view more information on the fields, see the [Create New Operational vulnerability form](create-new-op-vul-form.md).
 
 6.  Select **Save**.
 

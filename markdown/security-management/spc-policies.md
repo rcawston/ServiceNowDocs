@@ -27,7 +27,7 @@ The Key use cases tab on the Home landing pages does not list all the possible u
 
 Before you activate policies for the supported use cases provided with the application verify you have completed the following tasks.
 
--   You have installed and configured all the required applications described in [Install the supported applications for Security Posture Control](../task/spc-install.md).
+-   You have installed and configured all the required applications described in [Install the supported applications for Security Posture Control](spc-install.md).
 -   You have met one or more of the following prerequisites for each use case. 
 
 1.  You are currently using or you install and activate service graph connectors for various categories.
@@ -45,5 +45,5 @@ See [Examples of base, child, and cloned policies for Security Posture Control](
 
 ## Supported service graph connectors
 
-See tables of supported service graph connectors, their tool categories, and the types of data they import in [Supported hardware service graph connectors for Security Posture Control](../reference/scp-hw-connectors-ci-classes.md) and [Supported software service graph connectors for Security Posture Control](../reference/spc-connector-types-ci-classes.md).
+See tables of supported service graph connectors, their tool categories, and the types of data they import in [Supported hardware service graph connectors for Security Posture Control](scp-hw-connectors-ci-classes.md) and [Supported software service graph connectors for Security Posture Control](spc-connector-types-ci-classes.md).
 

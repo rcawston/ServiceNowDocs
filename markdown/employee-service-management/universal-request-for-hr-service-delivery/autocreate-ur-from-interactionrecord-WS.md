@@ -52,14 +52,14 @@ Follow the given steps to enable create universal request automatically from an 
 6.  Create universal request record using the **UniversalRequestUtils** API and attach the universal request to the task.
 
 
-**Parent Topic:**[Unified ticket experience setting](../concept/unified-ticket-experience.md)
+**Parent Topic:**[Unified ticket experience setting](unified-ticket-experience.md)
 
 **Related topics**  
 
 
-[Email notification preferences for your service](../concept/ur-customize-email-notifcations.md)
+[Email notification preferences for your service](ur-customize-email-notifcations.md)
 
-[Automatically create universal request from an inbound email](../concept/create-ur-from-inbound-email.md)
+[Automatically create universal request from an inbound email](create-ur-from-inbound-email.md)
 
-[Configure a catalog item or record producer to create a universal request](../../service-catalog-management/task/create-ur-recordproducer.md)
+[Configure a catalog item or record producer to create a universal request](create-ur-recordproducer.md)
 

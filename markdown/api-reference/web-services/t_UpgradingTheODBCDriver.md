@@ -50,5 +50,5 @@ To check the build date and time of the ODBC driver, use **CheckVersion** locate
 
 After installing the ODBC driver, configure it to connect to your ServiceNow instance.
 
-**Parent Topic:**[Installing the ODBC driver](../concept/c_InstallingTheODBCDriver.md)
+**Parent Topic:**[Installing the ODBC driver](c_InstallingTheODBCDriver.md)
 

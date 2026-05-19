@@ -79,7 +79,7 @@ The state of the legal request is Work in progress and the document is Legal rev
 
 ## Result
 
-The legal request is closed based on the [system property](../reference/legal-properties.md#prop_lrm_request_open) **sn\_lg\_ops.allow\_request\_closure\_with\_open\_matters** and whether or not there is a legal matter associated with the request.
+The legal request is closed based on the [system property](legal-properties.md#prop_lrm_request_open) **sn\_lg\_ops.allow\_request\_closure\_with\_open\_matters** and whether or not there is a legal matter associated with the request.
 
 -   If the property is set to false and there is an open associated legal matter, the request is closed only after the legal matter is closed.
 -   If the property is set to true, the request is closed regardless of the state of the associated legal matters.

@@ -58,12 +58,12 @@ However, KPI Signals could not monitor "Number of open incidents, Priority = 1-C
 
 9.  Open the Responsibility tab and assign a responsible user to each KPI.
 
-    For more information about responsible users and the settings on the Responsibility tab, see [Configure responsibility for KPI Signals](../concept/kpi-signals-responsible-users.md#).
+    For more information about responsible users and the settings on the Responsibility tab, see [Configure responsibility for KPI Signals](kpi-signals-responsible-users.md#).
 
 10. Open the Notifications tab and set how often the responsible user should get an email notification for an unresolved signal.
 
-    You can also set the total number of reminders the responsible user gets for an unresolved signal. Also set the anti-signal factor, which is used to calculate how many scores without a signal result in an anti-signal. For more information about anti-signals, see [Signal, no signal, and anti-signal](../concept/signal-no-signal-anti-signal.md). For more information about the settings on the Notifications tab, see [Configure signal notifications](configure-signal-notifications.md).
+    You can also set the total number of reminders the responsible user gets for an unresolved signal. Also set the anti-signal factor, which is used to calculate how many scores without a signal result in an anti-signal. For more information about anti-signals, see [Signal, no signal, and anti-signal](signal-no-signal-anti-signal.md). For more information about the settings on the Notifications tab, see [Configure signal notifications](configure-signal-notifications.md).
 
 
-**Parent Topic:**[Configuring KPI Signals for an indicator](../concept/configuring-kpi-signals.md)
+**Parent Topic:**[Configuring KPI Signals for an indicator](configuring-kpi-signals.md)
 

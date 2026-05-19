@@ -77,5 +77,5 @@ Import messages as
     ![Import messages modal error message for automaticlaly imported chats](../images/manual-import-error.png)
 
 
-**Parent Topic:**[Request based chat - Start and import chat from classic view](../concept/initiate-conversation-requester.md)
+**Parent Topic:**[Request based chat - Start and import chat from classic view](initiate-conversation-requester.md)
 

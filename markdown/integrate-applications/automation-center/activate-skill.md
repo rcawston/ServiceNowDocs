@@ -32,5 +32,5 @@ Role required: sn\_generative\_ai.nsa\_admin
     -   User Task Summarization skill: Creates automation requests from the Task Mining Workspace
     -   Saving Estimator skill: Explores and discovers automations from your ServiceNow® instance.
 
-**Parent Topic:**[Configuring Now Assist for Automation Center](../concept/config-na-ac.md)
+**Parent Topic:**[Configuring Now Assist for Automation Center](config-na-ac.md)
 

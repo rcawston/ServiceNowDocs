@@ -87,7 +87,7 @@ Condition Script
 
 </td><td>
 
-Script that defines the conditions that must be met for the mapping. For an example of a conditional script, see [Temporary entity model](../concept/temp-entity-model.md).
+Script that defines the conditions that must be met for the mapping. For an example of a conditional script, see [Temporary entity model](temp-entity-model.md).
 
 </td></tr><tr id="application"><td>
 
@@ -115,8 +115,8 @@ Check box that designates if this ETL entity mapping should be ignored when perf
 
  To learn more about data integrations, see:
 
--   [Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
--   [Robust Import Set Transformers](../concept/robust-import-set-transformers.md)
+-   [Importing data using import sets](c_ImportDataUsingImportSets.md)
+-   [Robust Import Set Transformers](robust-import-set-transformers.md)
 
 
 </td></tr></tbody>

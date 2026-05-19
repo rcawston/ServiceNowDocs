@@ -20,27 +20,27 @@ The External Content Connectors ServiceNow® Store application enables AI Search
 
 <table id="table_onh_xvw_jdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about features offered by External Content Connectors](../concept/exploring-ext-cont-connectors.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about features offered by External Content Connectors](exploring-ext-cont-connectors.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-power.svg)Activate External Content Connectors plugins on your instance](../task/install-ext-cont-connectors.md)
+[Install![](../../../reuse/icons/brand-icons/bus-power.svg)Activate External Content Connectors plugins on your instance](install-ext-cont-connectors.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up connectors to access your external source systems](../concept/configuring-ext-cont-connectors.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up connectors to access your external source systems](configuring-ext-cont-connectors.md)
 
 </td></tr><tr><td>
 
-[Crawl![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Schedule and start connector crawls to retrieve searchable content and security principals from your external source systems](../concept/using-ext-cont-connectors.md)
+[Crawl![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Schedule and start connector crawls to retrieve searchable content and security principals from your external source systems](using-ext-cont-connectors.md)
 
 </td><td>
 
-[Review![](../../../reuse/icons/brand-icons/bus-log-store.svg)Review crawl histories, analytics, and user permissions for your external content connectors](../concept/reviewing-external-content-connector-results-and-analytics.md)
+[Review![](../../../reuse/icons/brand-icons/bus-log-store.svg)Review crawl histories, analytics, and user permissions for your external content connectors](reviewing-external-content-connector-results-and-analytics.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)View components installed with External Content Connectors and supported file extensions](../concept/reference-ext-cont-connectors.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)View components installed with External Content Connectors and supported file extensions](reference-ext-cont-connectors.md)
 
 </td></tr></tbody>
 </table>

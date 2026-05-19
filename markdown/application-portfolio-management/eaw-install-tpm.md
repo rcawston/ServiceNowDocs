@@ -36,12 +36,12 @@ Role required: admin
 5.  Select **Install**.
 
 
--   **[Tables installed with TPM in the EA Workspace](../../reference/eaw-reference/eaw-tables-installed-with-tpm.md)**  
+-   **[Tables installed with TPM in the EA Workspace](eaw-tables-installed-with-tpm.md)**  
 Several types of tables are installed with Technology Portfolio Management.
--   **[Business rules for TPM in EA Workspace](../../reference/eaw-reference/eaw-tpm-business-rules.md)**  
+-   **[Business rules for TPM in EA Workspace](eaw-tpm-business-rules.md)**  
 Several types of business rules are added with Technology Portfolio Management.
--   **[Scheduled jobs for TPM in the EA Workspace](../../reference/eaw-reference/eaw-tpm-scheduled-jobs.md)**  
+-   **[Scheduled jobs for TPM in the EA Workspace](eaw-tpm-scheduled-jobs.md)**  
 Several types of scheduled jobs are added for Technology Portfolio Management.
 
-**Parent Topic:**[Configure Technology Portfolio Management](../../concept/eaw-concept/eaw-config-tech-portfolio-mgmt.md)
+**Parent Topic:**[Configure Technology Portfolio Management](eaw-config-tech-portfolio-mgmt.md)
 

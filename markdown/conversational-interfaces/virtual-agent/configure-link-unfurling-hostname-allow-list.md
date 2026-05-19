@@ -73,5 +73,5 @@ Domain group. The default is global.
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Using link unfurling in Virtual Agent](../concept/va-link-unfurling.md)
+**Parent Topic:**[Using link unfurling in Virtual Agent](va-link-unfurling.md)
 

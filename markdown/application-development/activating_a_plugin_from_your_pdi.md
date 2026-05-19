@@ -36,5 +36,5 @@ You can activate most plugins directly in your PDI. Follow the instructions to [
 6.  When the installation is complete, click the **Close** button in the **Install** dialog.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

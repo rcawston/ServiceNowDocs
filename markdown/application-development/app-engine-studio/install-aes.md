@@ -17,7 +17,7 @@ You can install the App Engine Studio \(AES\) application \(com.snc.app-engine-s
 
 ## Trial version of AES
 
-To try AES before purchasing a license, you can install it on a personal developer instance \(PDI\). For more information about PDIs, see [Personal developer instance guide](../../applications/concept/personal_developer_instance_guide.md). To obtain a PDI, see the [ServiceNow Developer Site](https://developer.servicenow.com/).
+To try AES before purchasing a license, you can install it on a personal developer instance \(PDI\). For more information about PDIs, see [Personal developer instance guide](../personal_developer_instance_guide.md). To obtain a PDI, see the [ServiceNow Developer Site](https://developer.servicenow.com/).
 
 **Note:** An App Engine Studio subscription is required to install on a production or non-production instance. For more information, contact your ServiceNow representative.
 
@@ -35,13 +35,13 @@ When you install AES, you also install the following related items:
 -   Tables
 -   Plugins
 
-For more information, see [Components installed with AES](../reference/installed-with-aes.md).
+For more information, see [Components installed with AES](installed-with-aes.md).
 
 ## Installation workflow for AES
 
 The following is an overview of the tasks that you must perform to install AES for the first time:
 
-1.  Develop your [instance strategy for AES](../concept/aes-instance-strategy.md).
+1.  Develop your [instance strategy for AES](aes-instance-strategy.md).
 2.  [Get entitlement for AES](entitle-aes-product.md) to ensure you have a license.
 3.  [Install AES](download-aes-first-time.md) \(the full product, not the application\) from the ServiceNow Store. App Engine Studio is a product that contains numerous tools and applications within it, such as Table Builder and Mobile App Builder. If you install the basic AES application and not the full AES product, you won't get its full suite of features and tools.
 4.  [Install the AES integrations and plugins](aes-install-product-integrations.md).
@@ -65,7 +65,7 @@ ServiceNow provides several additional resources on installing and administering
 
 </td><td>
 
-![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg) [App Engine Studio release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/app-engine-studio-rn.md)
+![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg) [App Engine Studio release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/app-engine-studio-rn.md)
 
 </td></tr><tr><td>
 
@@ -76,12 +76,12 @@ ServiceNow provides several additional resources on installing and administering
 ![](../../../reuse/icons/brand-icons/bus-find-an-app.svg)[ServiceNow University Introduction to App Engine Studio for Citizen Developers course](https://learning.servicenow.com/lxp/en/app-engine/introduction-to-app-engine-studio-for-citizen-developers?id=learning_course_prev&course_id=cc8d200e87629650cc49bbb5cebb35b7&s=1&ssa=3)
 
 </td></tr></tbody>
-</table>-   **[AES instance strategy](../concept/aes-instance-strategy.md)**  
+</table>-   **[AES instance strategy](aes-instance-strategy.md)**  
 You should install App Engine Studio \(AES\) on all ServiceNow instances where users will develop applications.
--   **[AES and the ServiceNow Store](../concept/aes-installation-store.md)**  
+-   **[AES and the ServiceNow Store](aes-installation-store.md)**  
 App Engine Studio \(AES\) enables you to obtain new and updated features more rapidly. Before you can use AES, you must verify that you have entitlement to it, meaning that you have valid licenses to use it. Then, you can install AES and its plugins from the ServiceNow Store.
--   **[Components installed with AES](../reference/installed-with-aes.md)**  
+-   **[Components installed with AES](installed-with-aes.md)**  
 Several types of components are installed with activation of the App Engine Studio \(AES\) plugin, including tables and user roles.
 
-**Parent Topic:**[Configuring App Engine Studio and related apps](../concept/aes-setup.md)
+**Parent Topic:**[Configuring App Engine Studio and related apps](aes-setup.md)
 

@@ -75,5 +75,5 @@ Body of your message that includes any information, requests, or details that yo
     The email has been sent to the recipient. You can view emails associated with the regulatory agency record by navigating to the Emails tab of that record.
 
 
-**Parent Topic:**[Regulatory Agency Library](../concept/regulatory-agency-library-rcm.md)
+**Parent Topic:**[Regulatory Agency Library](regulatory-agency-library-rcm.md)
 

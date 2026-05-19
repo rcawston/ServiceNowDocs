@@ -31,7 +31,7 @@ Sidebar is supported in these workspaces:
 -   Security Incident Response Workspace
 -   Vendor Management Workspace
 
-For information on adding the **Discuss** button to a supported workspace, see [Adding the Discuss button](../task/add-sidebar-button.md).
+For information on adding the **Discuss** button to a supported workspace, see [Adding the Discuss button](add-sidebar-button.md).
 
 For information on adding the **Discuss** button to any workspace not listed \(such as the Service Operation Workspace\), see [KB article KB1213249](https://support.servicenow.com/kb_view.do?sysparm_article=KB1213249).
 
@@ -277,11 +277,11 @@ To start a threaded reply to a message:
 
 ## Activity stream and Sidebar
 
-To enable agents to post Sidebar discussions to the activity stream, you must integrate Sidebar with the activity stream. For instructions on integrating Sidebar with the activity stream, see [Integrating Sidebar and activity stream](../task/integrate-sidebar-activity-stream.md). For information on using Sidebar with the activity stream, see [Activity stream in Sidebar](activity-stream-sidebar.md).
+To enable agents to post Sidebar discussions to the activity stream, you must integrate Sidebar with the activity stream. For instructions on integrating Sidebar with the activity stream, see [Integrating Sidebar and activity stream](integrate-sidebar-activity-stream.md). For information on using Sidebar with the activity stream, see [Activity stream in Sidebar](activity-stream-sidebar.md).
 
 ## Installing and configuring Sidebar
 
-The Sidebar configuration settings are available via the Sidebar tab under **Conversational Interfaces** &gt; **Settings**. For instructions, see [Installing Sidebar](../task/install-sidebar.md). After Sidebar is installed, see [Configuring Sidebar](configure-sidebar.md) for instructions on configuring the admin settings.
+The Sidebar configuration settings are available via the Sidebar tab under **Conversational Interfaces** &gt; **Settings**. For instructions, see [Installing Sidebar](install-sidebar.md). After Sidebar is installed, see [Configuring Sidebar](configure-sidebar.md) for instructions on configuring the admin settings.
 
 ## Using Sidebar
 

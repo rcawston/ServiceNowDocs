@@ -43,5 +43,5 @@ If you have many metric definitions that are similar, then you can create groups
 
 The grouping is ready to be used in the metric definition form under the Classification section.
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../../metrics/concept/using-grc-metrics.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](using-grc-metrics.md)
 

@@ -45,9 +45,9 @@ The Contract requests tab is available your workspace to view the request detail
 
 ![The contract request related list is available in your record](../image/cmpro-bu-add-cr-result.png "Contract request related list configured")
 
-For more information on roles required to work on contract requests, see [Components installed with Contract Management Pro](../reference/cncore-comp-ccore.md).
+For more information on roles required to work on contract requests, see [Components installed with Contract Management Pro](cncore-comp-ccore.md).
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

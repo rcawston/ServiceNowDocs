@@ -48,5 +48,5 @@ If the current time is the following Monday at 9:30 am, then:
 
 Elapsed percentages are also similarly calculated. The actual elapsed percentage is over 750% while the business elapsed percentage is 19% on an 8 hour SLA.
 
-**Parent Topic:**[Service Level Agreement \(SLA\) processing](../concept/c_SLAProcessing.md)
+**Parent Topic:**[Service Level Agreement \(SLA\) processing](c_SLAProcessing.md)
 

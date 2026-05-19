@@ -90,5 +90,5 @@ Set up the Cloud Deployment Automation application by configuring the Service Po
         ![Cloud Deployment Automation catalogs.](../image/cda-catalogs.png)
 
 
-**Parent Topic:**[Cloud Deployment Automation](../concept/cloud-dep-auto.md)
+**Parent Topic:**[Cloud Deployment Automation](cloud-dep-auto.md)
 

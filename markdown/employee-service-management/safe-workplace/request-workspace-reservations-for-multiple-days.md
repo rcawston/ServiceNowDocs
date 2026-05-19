@@ -147,5 +147,5 @@ Floor of the area or space that you want to access.
 
 The state of your request is set to Awaiting approval, which indicates that the request has been sent to your manager for approval.
 
-**Parent Topic:**[Making workplace reservations](../concept/requesting-workspace-reservations.md)
+**Parent Topic:**[Making workplace reservations](requesting-workspace-reservations.md)
 

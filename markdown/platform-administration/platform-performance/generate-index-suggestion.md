@@ -52,5 +52,5 @@ When the ISE generates an index suggestion for a slow query, it reviews query me
     |**Schedule creation**|Opens the Schedule Index Creation window for [scheduling index creation](create-index-slowquery.md).|
 
 
-**Parent Topic:**[Resolving slow queries](../concept/resolving-slow-queries.md)
+**Parent Topic:**[Resolving slow queries](resolving-slow-queries.md)
 

@@ -202,5 +202,5 @@ Duration to complete the case.
 **Related topics**  
 
 
-[Create a task for a supplier case from the Source-to-Pay Workspace](../task/create-new-task-for-supp-case.md)
+[Create a task for a supplier case from the Source-to-Pay Workspace](create-new-task-for-supp-case.md)
 

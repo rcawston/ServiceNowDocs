@@ -17,7 +17,7 @@ breadcrumb: [Legacy - Source Control integration, Legacy - ServiceNow Studio, Bu
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 When you switch branches and apply remote changes, the Delta loading feature makes sure only changed updates load. Rather than having to perform a full uninstall and reinstall of the application, only the changes update. This speeds and eases the process for developers and does away with the need to use all branches during development. Data stored in tables is retained during these operations, lowering the need to load demo data back into the application after a reinstall or branch change operation.
 

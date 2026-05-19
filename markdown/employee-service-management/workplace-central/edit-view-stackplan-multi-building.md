@@ -19,7 +19,7 @@ Edit a scenario using the stack plan to allocate spaces to departments, cost cen
 
 Ensure that you have created a scenario, and it is in the Draft state. For more information, see [Create a scenario](create-a-scenario.md).
 
-**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](../../workplace-space-management/concept/reviewing-allocation-changes.md).
+**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](../workplace-space-management/reviewing-allocation-changes.md).
 
 ![Space details panel displaying a warning about reviewing allocation changes.](../images/wsd-central-review-changes.png)
 
@@ -121,7 +121,7 @@ This step is applicable if the Group by option is Workplace Entity.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+**Parent Topic:**[Viewing or editing a scenario](viewing-editing-scenario.md)
 
 **Related topics**  
 

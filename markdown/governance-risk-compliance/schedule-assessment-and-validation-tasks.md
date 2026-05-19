@@ -196,5 +196,5 @@ This field appears only when **Custom** is selected from **Frequency** field.
 </table>8.  To use the frequency defined in the Model workflow settings, select **Revert to default frequency**.![Revert to default frequency button.](../image/revert-to-default-frequency.png)
 
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

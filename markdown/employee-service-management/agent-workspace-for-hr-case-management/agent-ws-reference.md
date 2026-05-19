@@ -24,5 +24,5 @@ Use the Highlighted value condition form to create conditions to highlight a fie
 -   **[Bulk case request form](bulk-case-request-form.md)**  
 The bulk case request form provides information to create a bulk case request to enable the creation of the same type of HR cases.
 
-**Parent Topic:**[Agent Workspace for HR Case Management](../concept/agent-ws-hr-case-mgmt-landing-page.md)
+**Parent Topic:**[Agent Workspace for HR Case Management](agent-ws-hr-case-mgmt-landing-page.md)
 

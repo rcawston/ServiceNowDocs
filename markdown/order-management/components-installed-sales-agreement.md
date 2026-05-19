@@ -77,5 +77,5 @@ sn\_sales\_agmt\_core.sales\_agreement\_viewer
 |sn\_sales\_agmt\_core\_line\_characteristic|Stores the attributes of products and services to be sold.|
 |sn\_sales\_agmt\_core\_line\_adjustment|Stores the adjustments applied during negotiation.|
 
-**Parent Topic:**[Configure, price, quote reference](../concept/reference-cpq.md)
+**Parent Topic:**[Configure, price, quote reference](reference-cpq.md)
 

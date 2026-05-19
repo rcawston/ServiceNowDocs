@@ -50,5 +50,5 @@ The following infographic shows how the integration between SPW and Jira work in
 To learn more about configuring and using SPW Jira Integrations, see:
 
 -   [Configuring SPW Jira Integrations](configuring-spw-jira-integrations.md)
--   [SPW Jira Integrations reference](../reference/spw-jira-integrations-reference.md)
+-   [SPW Jira Integrations reference](spw-jira-integrations-reference.md)
 

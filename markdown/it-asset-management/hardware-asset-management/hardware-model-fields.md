@@ -501,7 +501,7 @@ Description of the catalog item.
 
 ## Assets
 
-For information about the fields on the Assets tab, see [Create assets](../../asset-management/task/t_CreatingAssets.md).
+For information about the fields on the Assets tab, see [Create assets](../asset-management/t_CreatingAssets.md).
 
 ## Configuration Items
 
@@ -703,10 +703,10 @@ Description
 Description of the hardware model.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 
 **Related topics**  
 
 
-[Create a hardware or consumable model](../task/create-hardware-consumable-model.md)
+[Create a hardware or consumable model](create-hardware-consumable-model.md)
 

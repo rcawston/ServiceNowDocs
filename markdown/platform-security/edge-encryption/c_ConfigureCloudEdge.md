@@ -263,7 +263,7 @@ Process Historical Records
 
 </td><td>
 
-Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [Auditing](../../time/concept/c_AuditedTables.md).
+Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [Auditing](../c_AuditedTables.md).
 
 </td></tr><tr><td>
 
@@ -381,7 +381,7 @@ Process Historical Records
 
 </td><td>
 
-Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [Auditing](../../time/concept/c_AuditedTables.md).
+Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [Auditing](../c_AuditedTables.md).
 
 </td></tr><tr><td>
 

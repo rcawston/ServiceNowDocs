@@ -35,10 +35,10 @@ After installing and activating these plugins, you must do the following configu
     -   Create a campus with buildings and floors.
     -   Upload and import the AutoCAD floor plans for floors that you have created.
     -   Upload and import raster floor plan sources.
--   [Configure input form screen inputs](../task/param-screen-config-inputs.md) so that you can add the Custom Map input to an input form screen on your organization's mobile app. Adding this input to your mobile app enables end users to select and view the map. For more information about the Custom Map input type, see [Input form screen attributes for inputs](../reference/parameter-screen-var-attr.md).
+-   [Configure input form screen inputs](param-screen-config-inputs.md) so that you can add the Custom Map input to an input form screen on your organization's mobile app. Adding this input to your mobile app enables end users to select and view the map. For more information about the Custom Map input type, see [Input form screen attributes for inputs](parameter-screen-var-attr.md).
 -   [Configure a custom map screen to use your provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/create-custom-map-screen.md) .
 
--   **[Configure indoor positioning](../task/configure-indoor-positioning.md)**  
+-   **[Configure indoor positioning](configure-indoor-positioning.md)**  
 Indoor positioning enables end users to see their live location on an Indoor Wayfinding map and get guided navigation to their desired destination.
 
 **Parent Topic:**[Considerations before implementation](imp-considerations.md)

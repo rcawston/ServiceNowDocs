@@ -35,8 +35,8 @@ Admin\[sn\_hr\_navex\_ep.admin\]
 
 </td><td>
 
--   Can [Configure properties](../task/prop-navex.md).
--   Can [Map fields](../task/map-fields-navex.md).
+-   Can [Configure properties](prop-navex.md).
+-   Can [Map fields](map-fields-navex.md).
 
 </td><td>
 

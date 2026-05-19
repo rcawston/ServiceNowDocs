@@ -34,10 +34,10 @@ Role required: content\_admin or admin
     Create content blocks by adding one of the content blocks named **\*New \[block type\]** to the page.
 
 
-**Parent Topic:**[Content pages in CMS](../concept/c_ContentPages.md)
+**Parent Topic:**[Content pages in CMS](c_ContentPages.md)
 
 **Related topics**  
 
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](c_ContentBlocks.md)
 

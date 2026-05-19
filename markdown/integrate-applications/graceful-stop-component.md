@@ -21,7 +21,7 @@ Role required: None
 
 ## About this task
 
-Previously, when you selected the **Stop Process** button on a bot process in RPA Hub, the robots exited the automation abruptly. This process may have caused data inconsistencies. You can now exit the automation smoothly by using the GracefulStop component. For more information on how the GracefuStop component works for an automation in RPA Hub, see [Using Graceful Stop functionality in RPA Hub](../../rpa-hub/concept/graceful-stop-rpa.md).
+Previously, when you selected the **Stop Process** button on a bot process in RPA Hub, the robots exited the automation abruptly. This process may have caused data inconsistencies. You can now exit the automation smoothly by using the GracefulStop component. For more information on how the GracefuStop component works for an automation in RPA Hub, see [Using Graceful Stop functionality in RPA Hub](graceful-stop-rpa.md).
 
 **Note:** The GracefulStop component is available only for unattended automations.
 
@@ -44,12 +44,12 @@ Previously, when you selected the **Stop Process** button on a bot process in RP
 
         The Graceful stop option is available in RPA Hub to only those automations that satisfy these conditions.
 
-    When you use the GracefulStop component from RPA Desktop Design Studio, the component returns a false value. By selecting the GracefulStop toggle for the **Stop process** option in a bot process in RPA Hub, the component returns a true value. You can then stop the automation. If the automation path leads to a safe termination point, the automation is gracefully exited. For more information about stopping a bot process in RPA Hub, see [Stop an unattended bot process in RPA Hub](../../rpa-hub/task/stop-bot-process.md).
+    When you use the GracefulStop component from RPA Desktop Design Studio, the component returns a false value. By selecting the GracefulStop toggle for the **Stop process** option in a bot process in RPA Hub, the component returns a true value. You can then stop the automation. If the automation path leads to a safe termination point, the automation is gracefully exited. For more information about stopping a bot process in RPA Hub, see [Stop an unattended bot process in RPA Hub](stop-bot-process.md).
 
 
 ## What to do next
 
 Publish the automation project. For more information on how to publish an automation project, see [Publish an automation project in RPA Desktop Design Studio](publish-automation-project.md).
 
-**Parent Topic:**[Common](../concept/common_components.md)
+**Parent Topic:**[Common](common_components.md)
 

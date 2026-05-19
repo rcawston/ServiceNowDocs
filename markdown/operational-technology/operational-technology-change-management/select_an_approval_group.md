@@ -45,5 +45,5 @@ Once you complete the Initiate and Plan stages of your OT change request in the 
 -   In the change request record, select the **Approvers** tab and change the **State** field from **Requested** to the appropriate option.
 -   In the **Playbook** tab, select the Approve stage and change the **State** field from **Requested** to the appropriate option.
 
-**Parent Topic:**[Operational Technology change approval](../reference/ot-change-approval.md)
+**Parent Topic:**[Operational Technology change approval](ot-change-approval.md)
 

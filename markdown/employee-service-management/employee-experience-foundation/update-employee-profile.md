@@ -23,7 +23,7 @@ You can view and edit the employee profile from the portal from the header. The 
 
 The admin can use the instance options to configure the visibility of the left navigation menu by selecting the **Widget overview panel** check box.
 
-**Note:** From Employee Profile version 11.0.3, the Widget overview panel check box is configured from the [Profile Portal Configuration](../task/create-portal-profile-config.md).
+**Note:** From Employee Profile version 11.0.3, the Widget overview panel check box is configured from the [Profile Portal Configuration](create-portal-profile-config.md).
 
 ![Employee profile on portal](../images/employee-profile-new.png "Employee profile overview")
 
@@ -37,7 +37,7 @@ Specify your data visibility and privacy preferences by marking the field inform
 -   Manage the profile data visibility and privacy.
 -   Learn more about your team and organizational structures.
 
-For more information, see [Configure the Employee Profile overview widget](../task/config-employee-profile-widget.md).
+For more information, see [Configure the Employee Profile overview widget](config-employee-profile-widget.md).
 
 **Parent Topic:**[Using Employee Center](using-emp-center.md)
 
@@ -48,9 +48,9 @@ For more information, see [Configure the Employee Profile overview widget](../ta
 
 [Topic managers and contributors for topic page management](topic-managers-and-contributors-for-topic-page-management.md)
 
-[Use the My To-dos page](../task/ec-to-dos-use.md)
+[Use the My To-dos page](ec-to-dos-use.md)
 
-[Use approval experience](../task/ec-to-dos-use-approval-hub.md)
+[Use approval experience](ec-to-dos-use-approval-hub.md)
 
 [Manage approvals from Microsoft Teams](../../sn-teams/task/va-concur.md)
 
@@ -60,21 +60,21 @@ For more information, see [Configure the Employee Profile overview widget](../ta
 
 [View the Recommended for you content](rfy-employee.md)
 
-[Use Employee Center from Zoom](../task/zoom-create-email-notification.md)
+[Use Employee Center from Zoom](zoom-create-email-notification.md)
 
 [Use Personalized Answers](using-personalized-search-on-employee-center.md)
 
-[Employee Profile org chart widget](../task/view-org-chart.md)
+[Employee Profile org chart widget](view-org-chart.md)
 
 [RTL support for Employee Center](ec-rtl-language-support.md)
 
-[Manage favorites](../task/web-configure-favorites-employee.md)
+[Manage favorites](web-configure-favorites-employee.md)
 
 [Access applications from App Launcher](web-application-employee.md)
 
 [Use Guided Self-Service](gss-guided-self-service-homepage.md)
 
-[Modify the employee profile widget display](../task/config-employee-profile-instance-options.md)
+[Modify the employee profile widget display](config-employee-profile-instance-options.md)
 
 [Employee profile](employee-profile-portal.md)
 

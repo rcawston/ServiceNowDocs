@@ -29,12 +29,12 @@ With the Google Drive integration, you can do the following:
 
 ## Activation information
 
-To integrate Google Drive with Document Services, install the Multi Provider Document Services Framework plugin \(com.snc.multiprovider\_documents\). For more information, see [Activate Multi Provider Document Services Framework](../task/activate-multi-provider-doc-framework.md).
+To integrate Google Drive with Document Services, install the Multi Provider Document Services Framework plugin \(com.snc.multiprovider\_documents\). For more information, see [Activate Multi Provider Document Services Framework](activate-multi-provider-doc-framework.md).
 
 -   **[Document Services Framework for Google Drive](google-drive-spoke-document-services.md)**  
 Integrate the Document Services with Google Drive.
--   **[Set up Document Services framework for Google Drive](../task/setup-gdrive-spoke-document-services.md)**  
+-   **[Set up Document Services framework for Google Drive](setup-gdrive-spoke-document-services.md)**  
 Integrate a ServiceNow instance and Google Drive spoke for Google Drive by using Google Drive credentials to authenticate ServiceNow requests.
 
-**Parent Topic:**[Integrate with Document Services](../reference/integrate-with-document-services-mp.md)
+**Parent Topic:**[Integrate with Document Services](integrate-with-document-services-mp.md)
 

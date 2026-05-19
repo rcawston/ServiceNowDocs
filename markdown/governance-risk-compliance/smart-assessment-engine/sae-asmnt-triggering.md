@@ -21,7 +21,7 @@ You can trigger a Smart Assessment Engine assessment from the Workflow Studio or
 
     Configure the Trigger Smart Assessment flow action to initiate the Smart Assessment Engine assessments and send them to the specified assessors. You then add the action to your flow.
 
-    For more information, see [Configure the Trigger Smart Assessment Flow action](../task/sae-asmnt-trigger-from-flow.md).
+    For more information, see [Configure the Trigger Smart Assessment Flow action](sae-asmnt-trigger-from-flow.md).
 
 -   **Trigger an assessment from a script**
 
@@ -29,7 +29,7 @@ You can trigger a Smart Assessment Engine assessment from the Workflow Studio or
 
     An example trigger condition might be that the state in the control table changes to **Attest**.
 
-    For more information, see [Trigger assessments from a script](../task/sae-asmnt-trigger-from-script.md).
+    For more information, see [Trigger assessments from a script](sae-asmnt-trigger-from-script.md).
 
 
 **Related topics**  

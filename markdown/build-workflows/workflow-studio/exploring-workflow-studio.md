@@ -164,10 +164,10 @@ Workflow Studio combines playbooks, flows, subflows, actions, decision tables, a
     Workflow Studio contains execution details for all workflow object types. You no longer have to switch between applications to see execution details for a particular object type.
 
 
--   **[Getting started with process automation](../../process-automation-designer/concept/getting-started-process-automation.md)**  
+-   **[Getting started with process automation](getting-started-process-automation.md)**  
 Learn how process automation applications can help you use the ServiceNow AI Platform® to transform your manual business processes into digitized, automated workflows.
 -   **[When to use flows and Playbook](when-to-use-flows-and-playbooks.md)**  
 Use these general guidelines to determine when to create a flow or a playbook.
 
-**Parent Topic:**[Workflow Studio](../reference/workflow-studio.md)
+**Parent Topic:**[Workflow Studio](workflow-studio.md)
 

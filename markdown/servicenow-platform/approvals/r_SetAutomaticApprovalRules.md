@@ -32,5 +32,5 @@ Approval rules have two new fields:
 
 ![](../image/ApprovalRulesFields.png "Approval Rules fields")
 
-**Parent Topic:**[Approval rules](../concept/c_ApprovalRules.md)
+**Parent Topic:**[Approval rules](c_ApprovalRules.md)
 

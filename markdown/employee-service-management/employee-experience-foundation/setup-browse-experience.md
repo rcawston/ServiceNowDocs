@@ -23,7 +23,7 @@ Follow these steps to setup browse experience features:
 2.  Configure how the taxonomy appears on the portal pages: [Dynamic topic pages](dynamic-topic-page.md)
 3.  Configure navigation menus:
 
-    -   [Mega menu configuration](../task/config-mega-menu.md)
+    -   [Mega menu configuration](config-mega-menu.md)
     -   [Advanced Portal Navigation](adv-portal-navigation-overview.md)
     To learn about the navigation menus, see 
 
@@ -39,5 +39,5 @@ Follow these steps to setup browse experience features:
 |[Cross-channel favorites](employee-center-favorites.md)|Cross-channel favorites offer quick access to frequently used content for employees, with sorting and customization options|
 |[Recommended for you](rfy-ec.md)|The Recommended for you widget displays catalog items and knowledge articles tailored to employees based on their profiles or popular content among similar users|
 |[Quick links](emp-center-quick-link-config.md)|Quick links offer employees a way to quickly access internal and external resources related to specific departments within your organization.|
-|[Get support](../task/apn-config-getsupport.md)|Get support provides a central place to find resources within a home page widget or a modal window.|
+|[Get support](apn-config-getsupport.md)|Get support provides a central place to find resources within a home page widget or a modal window.|
 

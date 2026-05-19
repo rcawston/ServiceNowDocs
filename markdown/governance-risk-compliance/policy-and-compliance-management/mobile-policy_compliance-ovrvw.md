@@ -33,7 +33,7 @@ The following figure illustrates how you log in to your ServiceNow AI Platform i
 
 ![GRC Policy and Compliance navigation map.](../image/mobile_Policy_and_Compliance_overview-app_rd.png "GRC Mobile application")
 
-For step-by-step instructions about how to set up your ServiceNow AI Platform instance and install the GRC Mobile application, see [Setup checklist for the GRC Mobile application](../task/mobile-setup-plcy_cmply-app.md). For instructions about how to log in, see [Log in to the GRC Mobile application](../task/mobile-login-P-C-app.md).
+For step-by-step instructions about how to set up your ServiceNow AI Platform instance and install the GRC Mobile application, see [Setup checklist for the GRC Mobile application](mobile-setup-plcy_cmply-app.md). For instructions about how to log in, see [Log in to the GRC Mobile application](mobile-login-P-C-app.md).
 
 -   **Applications**
 
@@ -50,26 +50,26 @@ For step-by-step instructions about how to set up your ServiceNow AI Platform in
     Applets are the different options within the application. In the preceding image, the icons under **Pending Approvals**, **Team's Unassigned Work**, and **Team's Overdue Work** are the available applets for the Policy and Compliance Mobile app.
 
 
--   **[Setup checklist for the GRC Mobile application](../task/mobile-setup-plcy_cmply-app.md)**  
+-   **[Setup checklist for the GRC Mobile application](mobile-setup-plcy_cmply-app.md)**  
 The following checklist includes the set up tasks that you are required to complete in your ServiceNow AI Platform® instance and on your mobile device prior to using the GRC Mobile application. Complete these set up tasks prior to using the GRC Mobile application to view the Policy and Compliance Management application on your mobile device.
--   **[Log in to the GRC Mobile application](../task/mobile-login-P-C-app.md)**  
+-   **[Log in to the GRC Mobile application](mobile-login-P-C-app.md)**  
 Open the GRC Mobile application and add a ServiceNow AI Platform® instance with Policy and Compliance Management to your mobile device.
--   **[Process pending Policy and Compliance Management approval requests with the GRC Mobile application](../task/mobile-policies.md)**  
+-   **[Process pending Policy and Compliance Management approval requests with the GRC Mobile application](mobile-policies.md)**  
 Approve or reject pending policy approval requests that are submitted to you.
--   **[Process pending approvals for Policy exceptions with the GRC Mobile application](../task/mobile-policy-exceptions.md)**  
+-   **[Process pending approvals for Policy exceptions with the GRC Mobile application](mobile-policy-exceptions.md)**  
 Approve or reject pending policy exceptions and policy exception extension requests that are assigned to you.
--   **[Assign Policy and Compliance Management indicator tasks with the GRC Mobile application](../task/mobile-p-c-indicator-tasks.md)**  
+-   **[Assign Policy and Compliance Management indicator tasks with the GRC Mobile application](mobile-p-c-indicator-tasks.md)**  
 Assign unassigned Policy and Compliance Management indicator tasks to a member of your assignment group. An indicator task is related to a Control record that is assigned to your compliance group.
--   **[Assign Policy and Compliance Management issues with the GRC Mobile application](../task/mobile-issues-p-and-c.md)**  
+-   **[Assign Policy and Compliance Management issues with the GRC Mobile application](mobile-issues-p-and-c.md)**  
 Assign unassigned Policy and Compliance Management issues to a member of your assignment group. Navigate through the record to view more details about the Control Objective, the Control record, and Remediation Tasks associated with an issue.
--   **[Assign Policy and Compliance Management remediation tasks with the GRC Mobile application](../task/mobile-remed-tasks-p-and-c.md)**  
+-   **[Assign Policy and Compliance Management remediation tasks with the GRC Mobile application](mobile-remed-tasks-p-and-c.md)**  
 Assign an unassigned remediation task to a member of your group. Edit the fields including the **Extend by days** field. Navigate through the record to view more details about the Control Objective, the Control record, and the Issues associated with a Remediation Task.
--   **[Reassign overdue Policy and Compliance Management attestations with the GRC Mobile application](../task/mobile-attestations.md)**  
+-   **[Reassign overdue Policy and Compliance Management attestations with the GRC Mobile application](mobile-attestations.md)**  
 Reassign overdue attestations to a member of your assignment group.
--   **[Reassign overdue Policy and Compliance Management issues with the GRC Mobile application](../task/mobile-issues-overdue-p-and-c.md)**  
+-   **[Reassign overdue Policy and Compliance Management issues with the GRC Mobile application](mobile-issues-overdue-p-and-c.md)**  
 Reassign overdue issues that are assigned to your assignment group. Navigate through the record to view more details about the Control Objective, the Control record, and Remediation Tasks that are associated with an overdue issue.
--   **[Filter records with the GRC Mobile application](../task/mobile-pc-set-filters.md)**  
+-   **[Filter records with the GRC Mobile application](mobile-pc-set-filters.md)**  
 Set additional filters to limit the number of records that are displayed on a screen. Filtering records in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform.
 
-**Parent Topic:**[Policy and Compliance Management](../reference/r_PolicyComplianceMgmt.md)
+**Parent Topic:**[Policy and Compliance Management](r_PolicyComplianceMgmt.md)
 

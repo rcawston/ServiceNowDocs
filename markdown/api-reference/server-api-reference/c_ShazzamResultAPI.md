@@ -17,7 +17,7 @@ The ShazzamResult script include provides methods to encapsulate a Shazzam resul
 
 Use this script include during the discovery scanning phase.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ShazzamResult - active
 

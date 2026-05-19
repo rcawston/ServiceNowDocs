@@ -36,5 +36,5 @@ Role required: admin
 4.  Install the application.
 
 
-**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](../../application-content-packs/concept/legalsd-content-pack.md)
+**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](legalsd-content-pack.md)
 

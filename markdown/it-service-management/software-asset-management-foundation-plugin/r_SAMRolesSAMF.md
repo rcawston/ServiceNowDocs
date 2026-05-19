@@ -22,5 +22,5 @@ Software Asset Management Foundation plugin adds the following roles.
 
 Users with the sam\_user or sam\_admin role can view and refresh the overview page.
 
-**Parent Topic:**[Exploring Software Asset Management Foundation plugin](../concept/exploring-sam-foundation.md)
+**Parent Topic:**[Exploring Software Asset Management Foundation plugin](exploring-sam-foundation.md)
 

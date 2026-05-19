@@ -29,17 +29,17 @@ Role required: admin
 
 3.  On the Approval Rule form, fill in the fields.
 
-    For a description of the field values, see [Approval Rule form](../reference/new-approval-rule-form.md).
+    For a description of the field values, see [Approval Rule form](new-approval-rule-form.md).
 
 4.  Select **Submit**.
 
 
 ## What to do next
 
-You can also associate approval rules with approval groups and define the sequence to determine when these rules should be triggered. For more information, see [Approval rule grouping and sequencing](../../sourcing-procurement-operations/reference/approval-rule-sequencing.md).
+You can also associate approval rules with approval groups and define the sequence to determine when these rules should be triggered. For more information, see [Approval rule grouping and sequencing](../sourcing-and-procurement-operations/approval-rule-sequencing.md).
 
--   **[Approval rule types](../reference/invoice-approval-rule-types.md)**  
+-   **[Approval rule types](invoice-approval-rule-types.md)**  
 Approval rule types determine how approvals are created and routed during the invoice approval process.
 
-**Parent Topic:**[Invoice approvals](../concept/invoice-approvals.md)
+**Parent Topic:**[Invoice approvals](invoice-approvals.md)
 

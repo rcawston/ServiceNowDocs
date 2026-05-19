@@ -48,5 +48,5 @@ Beginning with the Australia release, the Sitemap Generator configuration is ava
 
 All active sitemaps regenerate once in a day and include content from any of their active sitemap definitions.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 

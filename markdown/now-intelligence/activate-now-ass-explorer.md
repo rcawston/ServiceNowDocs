@@ -86,5 +86,5 @@ Assign the now\_assist\_explorer\_user role, and activate the AI Data Explorer s
     4.  Browse the review and select **Activate**.
 
 
-**Parent Topic:**[Configure AI Data Explorer](../concept/configure-now-ass-explorer.md)
+**Parent Topic:**[Configure AI Data Explorer](configure-now-ass-explorer.md)
 

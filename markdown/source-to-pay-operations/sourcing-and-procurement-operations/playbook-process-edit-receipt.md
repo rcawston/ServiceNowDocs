@@ -23,7 +23,7 @@ Role required: Fulfiller, agent, or admin
 
 As a fulfiller, you can review the details of the Edit Receipt request and choose to either confirm or reject it.
 
-**Note:** This task is not required if the `sn_spend_cp.enable_automated_edit_receipt_flow` system property is enabled. For more information, see [Components installed with Sourcing and Procurement Operations](../reference/installed-with-FSC.md).
+**Note:** This task is not required if the `sn_spend_cp.enable_automated_edit_receipt_flow` system property is enabled. For more information, see [Components installed with Sourcing and Procurement Operations](installed-with-FSC.md).
 
 ## Procedure
 
@@ -149,7 +149,7 @@ Updates the case to Closed Completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](../concept/work-playbooks-spo.md)
+**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](work-playbooks-spo.md)
 
 **Related topics**  
 
@@ -162,15 +162,15 @@ Updates the case to Closed Completed.
 
 [Process a replacement request in playbook](playbook-replacement-request.md)
 
-[Fulfilling request for copy of contract in playbook](../concept/fulfilling-request-for-contract.md)
+[Fulfilling request for copy of contract in playbook](fulfilling-request-for-contract.md)
 
-[Routing NDAs to suppliers](../concept/routing-ndas-to-suppliers.md)
+[Routing NDAs to suppliers](routing-ndas-to-suppliers.md)
 
-[Verifying delivery addresses in playbook](../concept/delivery-address-in-playbook.md)
+[Verifying delivery addresses in playbook](delivery-address-in-playbook.md)
 
-[Reviewing and updating general ledger details in playbook](../concept/general-ledger-details-in-playbook.md)
+[Reviewing and updating general ledger details in playbook](general-ledger-details-in-playbook.md)
 
-[Sourcing intake guided experience with playbooks](../concept/sourcing-intake-guided-exp.md)
+[Sourcing intake guided experience with playbooks](sourcing-intake-guided-exp.md)
 
-[Streamlining the supplier risk assessment workflow](../concept/simplify-risk-assessment-wf.md)
+[Streamlining the supplier risk assessment workflow](simplify-risk-assessment-wf.md)
 

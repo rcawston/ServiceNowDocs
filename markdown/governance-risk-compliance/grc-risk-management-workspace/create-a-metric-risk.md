@@ -316,7 +316,7 @@ Name of the user as the data owner.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-Approval**Note:** This section appears only when the Metric approval property is set to Simple. For more information see, [Properties installed with Advanced Risk](../../grc-common/reference/advanced-risk-properties.md).
+Approval**Note:** This section appears only when the Metric approval property is set to Simple. For more information see, [Properties installed with Advanced Risk](advanced-risk-properties.md).
 
 </td></tr><tr><td>
 
@@ -420,8 +420,8 @@ Groups that can view the record.
 
 The metric is saved in the Metrics list.
 
--   **[Create New Metric form](../reference/create-new-metric-form-irm.md)**  
+-   **[Create New Metric form](create-new-metric-form-irm.md)**  
 Use the Create New Metric form to create a metric.
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](configuring-irm-metrics.md)
 

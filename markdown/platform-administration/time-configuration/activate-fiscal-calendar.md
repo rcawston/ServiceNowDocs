@@ -34,10 +34,10 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Defining fiscal calendars](../concept/c_FiscalCalendar.md)
+**Parent Topic:**[Defining fiscal calendars](c_FiscalCalendar.md)
 
 **Related topics**  
 
 
-[List of plugins \(Australia\)](../../../administer/plugins/reference/list-of-plugins.md#)
+[List of plugins \(Australia\)](../list-of-plugins.md#)
 

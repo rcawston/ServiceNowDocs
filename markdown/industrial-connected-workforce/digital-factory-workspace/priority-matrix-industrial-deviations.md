@@ -25,5 +25,5 @@ Use the priority matrix to see how priority is calculated based on impact and ur
 |4 - Operations|2 - This shift|3 - Today|4 - Within 7 days|6 - Unplanned|
 |5 - Other|2 - This shift|3 - Today|4 - Within 7 days|6 - Unplanned|
 
-**Parent Topic:**[Deviation Management](../concept/industrial-deviation-management.md)
+**Parent Topic:**[Deviation Management](industrial-deviation-management.md)
 

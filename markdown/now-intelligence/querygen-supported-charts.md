@@ -19,5 +19,5 @@ Query Generation and the applications that use it to generate data visualization
 -   Time series: area, line, column, scatter, spline, step
 -   List
 
-**Parent Topic:**[Query Generation reference](../concept/query-generation-reference.md)
+**Parent Topic:**[Query Generation reference](query-generation-reference.md)
 

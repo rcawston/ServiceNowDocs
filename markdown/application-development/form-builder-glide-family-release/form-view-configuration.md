@@ -80,7 +80,7 @@ PDF extractor
 
 </td><td>
 
-If a PDF is associated with the selected data table, select this element to launch the PDF extractor tool and view the PDF. See [Use a PDF to create data tables](../../../build/app-engine-studio/concept/pdf-extractor.md#).**Note:** This feature is only available if your licensing entitles you to "exclusive low code capability" and you have Table Builder for App Engine installed. Contact your Solutions consultant for more information.
+If a PDF is associated with the selected data table, select this element to launch the PDF extractor tool and view the PDF. See [Use a PDF to create data tables](../app-engine-studio/pdf-extractor.md#).**Note:** This feature is only available if your licensing entitles you to "exclusive low code capability" and you have Table Builder for App Engine installed. Contact your Solutions consultant for more information.
 
 </td></tr><tr><td>
 
@@ -159,7 +159,7 @@ Select a form view to work with from the form view list in the form editor.
 
 **Note:** You can also select a form view from the Additional actions menu on the **Forms** tab.
 
-See [Choose a form view in Table Builder](../task/manage-form-views.md).
+See [Choose a form view in Table Builder](manage-form-views.md).
 
 ## All form views list
 
@@ -214,7 +214,7 @@ A view is composed of sections that group the data elements that you want displa
 
 You can add multiple sections and change the layout of each section into one or two columns. A section is where you can group the data elements that you want to display for a form view. These elements include form fields, annotations, formatters, and embedded lists.
 
-See [Customize your form layout in Table Builder](../task/customize-form-layout.md).
+See [Customize your form layout in Table Builder](customize-form-layout.md).
 
 ## Form fields
 
@@ -222,9 +222,9 @@ When you select a table in Table Builder, the available fields are displayed in 
 
 By dragging these fields into the form editor, you can then visually arrange these fields on the form view you have selected.
 
-See [Add fields to a form layout in Table Builder](../task/add-form-fields.md).
+See [Add fields to a form layout in Table Builder](add-form-fields.md).
 
-See [Modify field properties in Table Builder form editor](../task/modify-field-properties.md).
+See [Modify field properties in Table Builder form editor](modify-field-properties.md).
 
 ## Form annotations
 
@@ -232,7 +232,7 @@ A form annotation is an additional piece of information on a form, such as a lin
 
 For example, you may want to add instructional text for a particular section on the form. By using Table Builder, you can add a form annotation to the view that displays on-screen instructions on how a user should enter information.
 
-See [Create form annotations in Table Builder](../task/create-form-annotations.md).
+See [Create form annotations in Table Builder](create-form-annotations.md).
 
 ## Formatters
 
@@ -242,7 +242,7 @@ See [Using formatters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDo
 
 By using Table Builder, you can visually drag any of the displayed formatters onto the form editor and arrange them.
 
-See [Add formatters in Table Builder](../task/add-formatters.md).
+See [Add formatters in Table Builder](add-formatters.md).
 
 ## Embedded lists
 
@@ -252,23 +252,23 @@ With Table Builder, you can visually drag a list from the **Embedded Lists** tab
 
 By adding an embedded list to a form, you enable your users to view or edit the related list without needing to navigate away from the form. Changes to the data in the list are saved when the user saves the form.
 
-See [Add embedded lists in Table Builder](../task/add-embedded-lists-form.md).
+See [Add embedded lists in Table Builder](add-embedded-lists-form.md).
 
--   **[Choose a form view in Table Builder](../task/manage-form-views.md)**  
+-   **[Choose a form view in Table Builder](manage-form-views.md)**  
 Choose existing views, duplicate views, or create entirely new views for form users in Table Builder.
--   **[Customize your form layout in Table Builder](../task/customize-form-layout.md)**  
+-   **[Customize your form layout in Table Builder](customize-form-layout.md)**  
 Visually design the look of the forms your users see by customizing form views in Table Builder.
--   **[Add fields to a form layout in Table Builder](../task/add-form-fields.md)**  
+-   **[Add fields to a form layout in Table Builder](add-form-fields.md)**  
 Visually add and arrange fields within a form layout to create a form that matches your requirements using Table Builder.
--   **[Modify field properties in Table Builder form editor](../task/modify-field-properties.md)**  
+-   **[Modify field properties in Table Builder form editor](modify-field-properties.md)**  
 Modify basic field properties for the fields that display for users in a form view from within the **Forms** tab in Table Builder.
--   **[Create form annotations in Table Builder](../task/create-form-annotations.md)**  
+-   **[Create form annotations in Table Builder](create-form-annotations.md)**  
 Add instructional text and other design elements to your forms by using form annotations in Table Builder.
--   **[Add formatters in Table Builder](../task/add-formatters.md)**  
+-   **[Add formatters in Table Builder](add-formatters.md)**  
 You can add form elements that display non-field information to users by adding a formatter in Table Builder. For example, you may want to display a **Comments** field where users can add comments to a displayed form.
--   **[Add embedded lists in Table Builder](../task/add-embedded-lists-form.md)**  
+-   **[Add embedded lists in Table Builder](add-embedded-lists-form.md)**  
 Add an embedded list using Table Builder to display data for a selected related list on your form. A related list shows the records in the tables that have relationships to the current record. For example, for a form view that references a Problem table, you might want to display a list of locations that are impacted by a selected problem.
--   **[Preview your form](../task/preview-your-form.md)**  
+-   **[Preview your form](preview-your-form.md)**  
 Previewing and saving your form in Table Builder.
 
 **Parent Topic:**[Using Table Builder](using-fb.md)

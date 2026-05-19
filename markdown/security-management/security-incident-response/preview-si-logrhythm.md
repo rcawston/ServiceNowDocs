@@ -76,7 +76,7 @@ Enter another alarm ID in the **Sample Alarm ID** choice list at the top of the 
 The **Sample Alarm ID** choice list is displayed for every alarm ID you have entered. You can select up to five alarms.This option permits you to preview another LogRhythm alarm ID on a security incident.
 
 </td></tr></tbody>
-</table>After you preview the security incident and are satisfied with the results, the next step is to [Schedule and retrieve LogRhythm alarms](../task/schedule-and-alarm-retrieval-logrhythm.md).
+</table>After you preview the security incident and are satisfied with the results, the next step is to [Schedule and retrieve LogRhythm alarms](schedule-and-alarm-retrieval-logrhythm.md).
 
-**Parent Topic:**[Creating an alarm profile for LogRhythm](../task/create-alarm-profile-logrhythm.md)
+**Parent Topic:**[Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md)
 

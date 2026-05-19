@@ -37,7 +37,7 @@ If the channel is deleted in the Slack application, or the team is deleted in th
 
 If the project manager wants to create a channel or team again for this project, administrator must manually delete the project's reference from the Entity Channel table. Then, the related link to enable collaboration appears on the project form.
 
-**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 
 **Related topics**  
 

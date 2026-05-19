@@ -62,7 +62,7 @@ The following items are installed with Legal Simple Privacy:
 
 Use the Legal Service Delivery Guided Setup to configure the application on your instance. To access Legal Service Delivery guided setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-**Parent Topic:**[Configure Legal Simple Privacy](../concept/setting-up-legal-simple-privacy.md)
+**Parent Topic:**[Configure Legal Simple Privacy](setting-up-legal-simple-privacy.md)
 
 **Related topics**  
 

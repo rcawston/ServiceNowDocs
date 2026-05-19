@@ -19,8 +19,8 @@ Create a de-duplication template that you can then run to apply pre-configured a
 
 Role required:
 
--   To access the [Management view in CMDB Workspace](../concept/cmdb-workspace-mangmnt-view.md) to perform de-duplication tasks, sn\_cmdb\_admin
--   To access the [Governance view in Service Graph Workspace](../concept/sg-workspace-governance-view.md) to perform de-duplication tasks: sn\_cmdb\_editor or sn\_cmdb\_admin
+-   To access the [Management view in CMDB Workspace](cmdb-workspace-mangmnt-view.md) to perform de-duplication tasks, sn\_cmdb\_admin
+-   To access the [Governance view in Service Graph Workspace](sg-workspace-governance-view.md) to perform de-duplication tasks: sn\_cmdb\_editor or sn\_cmdb\_admin
 -   To perform this task: cmdb\_dedup\_admin or any role containing cmdb\_dedup\_admin \(such as sn\_cmdb\_admin\)
 
 ## About this task
@@ -253,5 +253,5 @@ The new template is added to the specified library in draft mode and can be edit
 -   [Run a template to process de-duplication tasks](workspc-dedup-run-template.md)
 -   [Remediate a single de-duplication task](workspc-dedup-remediate-single-task.md)
 
-**Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](../concept/dedup-ci-exp-cmdb-workspace.md)
+**Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](dedup-ci-exp-cmdb-workspace.md)
 

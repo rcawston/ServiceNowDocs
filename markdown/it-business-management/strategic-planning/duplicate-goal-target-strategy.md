@@ -36,14 +36,14 @@ Goals are typically qualitative by nature. Goals should be ambitious and are exp
 
 3.  Select the Row context menu icon \(![Row context menu icon.](../../alignment-planner-workspace/images/more-actions.png)\) of the goal or target that you want to duplicate and then select **Duplicate**.
 
-    -   For a goal, the New goal window opens with all details of the goal you copied from. You can update the details for the goal as needed and then select **Save** to save the goal or select **Save and add a target** to save the goal and add a target for the goal. For a description of the field values, see [Goal form](../../spw-goals/reference/goal-form-egm.md).
-    -   For a target, the New target window opens with all details of the target you copied from. You can update the details for the target as needed and then select **Save** to save the target or select **Save and add a new target** to save the target and add another target for the goal. For a description of the field values, see [Target form](../../spw-goals/reference/target-form-egm.md).
+    -   For a goal, the New goal window opens with all details of the goal you copied from. You can update the details for the goal as needed and then select **Save** to save the goal or select **Save and add a target** to save the goal and add a target for the goal. For a description of the field values, see [Goal form](../scenario-planning-in-spw/goal-form-egm.md).
+    -   For a target, the New target window opens with all details of the target you copied from. You can update the details for the target as needed and then select **Save** to save the target or select **Save and add a new target** to save the target and add another target for the goal. For a description of the field values, see [Target form](../scenario-planning-in-spw/target-form-egm.md).
     By default, the name is **Copy of ABC** where ABC is the name of the target or target you copied from.
 
 
 ## What to do next
 
-Add more targets for the goals. For more information, see [Add a target for goal](set-target-for-goal-strategy.md) or [Configuring target source for target automation](../../spw-goals/concept/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md).
+Add more targets for the goals. For more information, see [Add a target for goal](set-target-for-goal-strategy.md) or [Configuring target source for target automation](../scenario-planning-in-spw/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md).
 
 **Related topics**  
 

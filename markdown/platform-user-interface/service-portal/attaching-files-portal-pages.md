@@ -17,9 +17,9 @@ Attachments can be added to records from portal pages by navigating the file sys
 
 By default, several base system widgets accept attachments from portal users using one or more of these methods. To modify how portal users can add attachments, you can clone and edit widgets to customize the file attachment experience as described in the following procedures.
 
-To track how portal users attach files to records from pages in your portal, see the SP File Attach event in Usage Insights for Service Portal. For more information about available events, see [Service Portal events](../reference/sp-analytics-events.md).
+To track how portal users attach files to records from pages in your portal, see the SP File Attach event in Usage Insights for Service Portal. For more information about available events, see [Service Portal events](sp-analytics-events.md).
 
-**Parent Topic:**[Creating portal pages](../concept/c_Pages.md)
+**Parent Topic:**[Creating portal pages](c_Pages.md)
 
 ## Add attachments by pasting or dropping files
 
@@ -76,7 +76,7 @@ Allow portal users to drop attachments in a dedicated zone of a page to quickly 
 
 ### Before you begin
 
-To configure a drag-and-drop attachments zone on a page, you must clone or create a widget that supports adding attachments by calling `attachmentHandler` set to an instance of `nowAttachmentHandler` in its client script. For an example of a widget like this, see the [Form widget](../concept/form-widget.md). For more information about cloning widgets, see [Clone a widget](t_CloneAndEditAWidget.md).
+To configure a drag-and-drop attachments zone on a page, you must clone or create a widget that supports adding attachments by calling `attachmentHandler` set to an instance of `nowAttachmentHandler` in its client script. For an example of a widget like this, see the [Form widget](form-widget.md). For more information about cloning widgets, see [Clone a widget](t_CloneAndEditAWidget.md).
 
 **Note:** Base system widgets are read-only so you can benefit from future updates. To make changes, you can clone base system widgets. However, cloned widgets are considered custom and don't benefit from future updates to the widgets they were cloned from.
 
@@ -140,7 +140,7 @@ Allow portal users to paste, drop, or navigate to files in a section of a widget
 
 ### Before you begin
 
-To configure an attachments section in a widget, you must clone or create a widget that supports adding attachments by calling `attachmentHandler` set to an instance of `nowAttachmentHandler` in its client script. For an example of a widget like this, see the [Form widget](../concept/form-widget.md). For more information about cloning widgets, see [Clone a widget](t_CloneAndEditAWidget.md).
+To configure an attachments section in a widget, you must clone or create a widget that supports adding attachments by calling `attachmentHandler` set to an instance of `nowAttachmentHandler` in its client script. For an example of a widget like this, see the [Form widget](form-widget.md). For more information about cloning widgets, see [Clone a widget](t_CloneAndEditAWidget.md).
 
 **Note:** Base system widgets are read-only so you can benefit from future updates. To make changes, you can clone base system widgets. However, cloned widgets are considered custom and don't benefit from future updates to the widgets they were cloned from.
 

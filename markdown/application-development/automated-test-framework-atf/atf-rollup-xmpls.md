@@ -51,5 +51,5 @@ If you are viewing the test suite results record for \(B\) Test Suite 1.3, the *
 
 ![Child Test Suites Results](../image/test-suite-hierarchy-all-suites.png)
 
-**Parent Topic:**[Suite results](../concept/suite-results-module.md)
+**Parent Topic:**[Suite results](suite-results-module.md)
 

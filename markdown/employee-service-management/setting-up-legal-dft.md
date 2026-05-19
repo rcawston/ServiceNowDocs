@@ -15,13 +15,13 @@ Configure the foundation data required for managing the digital forensics reques
 
 As an administrator, you can review the installed components and modify them or add new ones as applicable.
 
--   [Configure a data source for digital forensics](../task/configure-forensics-search-sources.md)
--   [Add fulfillment instructions and checklist for a data source](../task/add-fulfillments-steps-dft.md)
+-   [Configure a data source for digital forensics](configure-forensics-search-sources.md)
+-   [Add fulfillment instructions and checklist for a data source](add-fulfillments-steps-dft.md)
 
--   **[Install Legal Digital Forensics](../task/install-legal-digital-forensics.md)**  
+-   **[Install Legal Digital Forensics](install-legal-digital-forensics.md)**  
 You can install the Legal Digital Forensics application \(sn\_lg\_forensics\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Configure a data source for digital forensics](../task/configure-forensics-search-sources.md)**  
+-   **[Configure a data source for digital forensics](configure-forensics-search-sources.md)**  
 Configure a data source a requester can select in a digital forensics request as the source of potentially evidential data.
 
-**Parent Topic:**[Legal Digital Forensics](../reference/legal-digital-forensics-landing-page.md)
+**Parent Topic:**[Legal Digital Forensics](legal-digital-forensics-landing-page.md)
 

@@ -49,12 +49,12 @@ You can personalize the columns and rows with the help of the setting icon on th
 You can see the required roles for the approvers in the Security Exposure Management Workspace.
 -   **[Questionnaire support in Exception Management via Smart Assessment](sem-smart-assessment-exp-management.md)**  
 Configure advanced questionnaires as part of the exception management process using Smart Assessment. This enables Remediation Owners to provide more detailed context for Exception Requests and enables Approvers to configure conditional questions to gather information for informed decision making.
--   **[Defer a Remediation task](../task/sem-defer-rem-task.md)**  
+-   **[Defer a Remediation task](sem-defer-rem-task.md)**  
 If you identify a finding or remediation task for which a fix is not yet available and can be safely deferred without additional analysis, you can use the **Request Exception** feature.
--   **[Request an extension for a deferred remediation task](../task/sem-extend-defer-rem.md)**  
+-   **[Request an extension for a deferred remediation task](sem-extend-defer-rem.md)**  
 As a remediation owner, you’re no longer required to wait until the deferred due date to make this request. Request an extension for a deferred remediation task before it reaches its deferred until due date.
--   **[Request a false positive for a vulnerable item or remediate task](../task/sem-falsepst-reqst.md)**  
+-   **[Request a false positive for a vulnerable item or remediate task](sem-falsepst-reqst.md)**  
 Indicate a false positive request for a finding or a remediation task in the Security Exposure Management Workspace. A false positive is a condition where a scanner incorrectly reports that a finding exists in the system due to situations such as an incorrect classification, improper logic, or an algorithm in the scanner.
 
-**Parent Topic:**[Using Unified Security Exposure Management](../../security-exposure-management-workspace/concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](using-unified-security-exposure-management.md)
 

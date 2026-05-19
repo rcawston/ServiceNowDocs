@@ -38,5 +38,5 @@ You can also set up web service security to use different certificates for diffe
 4.  Set the value of the property `glide.soap.default_security_policy` to the name of the new security policy.
 
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

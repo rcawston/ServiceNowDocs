@@ -117,7 +117,7 @@ The fields of the contract analysis use case are mapped to expected responses. N
 
 [Map a use case for contract analysis](cmpro-na-usecase-mappings-ca.md)
 
-**Parent Topic:**[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+**Parent Topic:**[Configuring contract analysis](cmpro-conf-contract-analysis.md)
 
 **Related topics**  
 

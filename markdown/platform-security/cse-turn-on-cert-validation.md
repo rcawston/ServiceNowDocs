@@ -76,5 +76,5 @@ Role required:
 22. Use the wizard to complete your configuration, selecting the options for completing certificate validation activation.
 
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

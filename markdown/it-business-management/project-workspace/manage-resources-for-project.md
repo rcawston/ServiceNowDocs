@@ -69,13 +69,13 @@ When you select a resource plan in the resource grid section, the availability d
 
 2.  Click the **Resources** tab.
 
-    -   To [create a resource plan](../../resource-management/task/t_CreateResourcePlanProjectTask.md), click **New**.
+    -   To [create a resource plan](../resource-management/t_CreateResourcePlanProjectTask.md), click **New**.
     -   To view the allocations in weekly or monthly format in the grid, click **Week** or **Month** button. The selected option changes the grid view in both the resource grid and resource finder sections.
 
         The time duration in the grid is displayed based on the earliest start date of the project or resource plans, and the last end date of the project or resource plans.
 
     -   To view the allocations in hours, FTE, or person days format in the grid, click **Hours**, **FTE**, or **Person Days** option in the list. The selected option changes the grid view in both the resource grid section and resource finder section.
-    -   To [search the resources and create a resource plan for them](../../resource-management/task/create-resource-plan-with-finder.md), click the resource finder icon \( ![Resource Finder icon](../../planning-and-policy/image/ResourceFinderIcon.png) \).
+    -   To [search the resources and create a resource plan for them](../resource-management/create-resource-plan-with-finder.md), click the resource finder icon \( ![Resource Finder icon](../../planning-and-policy/image/ResourceFinderIcon.png) \).
     -   To show or hide certain columns from the grid view, click the configuration icon \(![Configuration icon](../image/configuration_investment.png)\). Hiding or displaying an item column does not update the table. Grouped columns cannot be hidden.
     -   To view the resource allocations at user level, expand a resource plan in the grid. The user level allocations are listed only for Group and Role resource plans.
     -   To edit the planned and allocated hours inline in the grid, double-click a row. You can update the planned hours for future period for resource plans in Requested, Confirmed, and Allocated state.
@@ -84,5 +84,5 @@ When you select a resource plan in the resource grid section, the availability d
     -   To delete a resource plan in the **Actions** column, click the actions icon \(![Actions icon](../../planning-and-policy/image/ellipsis-vertical-icon.png) \) and select **Delete**.
     -   To request all the resource plans created for the project in the **Actions** column, click the actions icon \(![Actions icon](../../planning-and-policy/image/ellipsis-vertical-icon.png)\) in the project row and select **Request All**. The icon is enabled when at least one of the listed resource plans for the project is in the Planning or Rejected state.
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

@@ -31,7 +31,7 @@ Plugin required: Shopping Hub \(sn\_spend\_uib\)
 
 Ensure that you complete the following configurations for the multi-currency functionality to work correctly in Shopping Hub.
 
--   Set the `sn_spend_uib.local_currency.enable.menuoption` system property to enable shoppers to view product prices in local currency in Shopping Hub. For more information, see [Components installed with Sourcing and Procurement Operations](../reference/installed-with-FSC.md).
+-   Set the `sn_spend_uib.local_currency.enable.menuoption` system property to enable shoppers to view product prices in local currency in Shopping Hub. For more information, see [Components installed with Sourcing and Procurement Operations](installed-with-FSC.md).
 
     **Note:** Property is set to True by default. If you do not want prices to be displayed in the local currency, set this property to False.
 

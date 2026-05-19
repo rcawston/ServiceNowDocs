@@ -29,12 +29,12 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
     -   When the agent clicks **Start Travel**, the customer receives a notification email and SMS that an agent is coming.
     -   A sub state **On Route** is automatically set to determine that you have started travel for the work order task.
-    -   The **Check-In** option appears when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [Global domain configurations](../../planning-and-policy/task/t_ConfigureFieldService.md).
+    -   The **Check-In** option appears when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [Global domain configurations](../t_ConfigureFieldService.md).
 3.  Open the task record and do either of the following to mark your arrival or check-in at the work location.
 
     -   To perform any task related activities before starting work, click **Check-In**
 
-        **Note:** At this stage, a notification is sent to the customer, informing them that the agent has arrived on-site and is ready to begin the work. For more information, see [Customer notifications for work order tasks](../concept/Configuring-cust-exp.md#). The substate **Onsite Arrival** is automatically set, indicating that you have reached your travel destination for the work order task.
+        **Note:** At this stage, a notification is sent to the customer, informing them that the agent has arrived on-site and is ready to begin the work. For more information, see [Customer notifications for work order tasks](Configuring-cust-exp.md#). The substate **Onsite Arrival** is automatically set, indicating that you have reached your travel destination for the work order task.
 
     -   To by-pass the check-in option and start work directly, click **Start Work**.
     -   The **Actual work start** field is automatically updated with the current system time, marking the beginning of the task.

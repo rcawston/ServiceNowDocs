@@ -23,17 +23,17 @@ You can activate one or more of the Change Management plugins if they are not al
 Standard changes are pre-approved, low risk changes with a proven history of success. The standard change catalog contains the changes that have been approved by the Change Management application as standard changes.
 -   **[Enhanced change data model](change-data-model.md)**  
 The enhanced Change data model supports better categorization, change model linkage, and role-based access to change templates. This new data model does not impact the existing standard change catalog and no migration of existing standard changes is required.
--   **[Create a Change model](../task/create-a-change-model.md)**  
+-   **[Create a Change model](create-a-change-model.md)**  
 Create change models to configure the states and transitions to match your organization's change processes.
 -   **[Change schedules](change-schedule.md)**  
 The Change Schedules landing page provides a view of schedules that are categorized under **Pinned Schedules**, **Your Schedules**, and **All Schedules**. The grouping of schedules provides easy access to your most required schedules and saves your time from searching through all the schedules in the system.
--   **[Configure ability to copy a change request](../task/configure-copy-change-request.md)**  
+-   **[Configure ability to copy a change request](configure-copy-change-request.md)**  
 You can configure the ability to copy a change request record and its details using system properties.
--   **[Create a change request assignment rule](../task/t_DefineAnAssignRuleForChange.md)**  
+-   **[Create a change request assignment rule](t_DefineAnAssignRuleForChange.md)**  
 You can define assignment rules to automate the process of assigning change requests to the appropriate group or individual.
--   **[Add a new change request type](../task/t_AddNewChangeType.md)**  
+-   **[Add a new change request type](t_AddNewChangeType.md)**  
 You can add a new change type to your change process. There are several processes involved with adding a change type. These processes include managing script includes and workflows.
--   **[Extend or disable multiple CI association](../task/t_ExtendMultipleCIAssociation.md)**  
+-   **[Extend or disable multiple CI association](t_ExtendMultipleCIAssociation.md)**  
 The ability to associate multiple CIs to a task can be extended to other types of tasks. You can also disable multiple CI association from the related lists on change request records.
 -   **[Conflict detection](c_ConflictDetection.md)**  
 Conflict detection identifies potential scheduling conflicts for a change request based on the configuration items, and planned start and end date or the change. If a scheduling conflict exists, conflict detection also checks any related blackout or maintenance schedules and other active change requests to determine the scheduling conflict.

@@ -36,7 +36,7 @@ Stores information about the task details.
 </td></tr></tbody>
 </table>## Base roles installed with Retail Core
 
-For information on configuring these roles for retail, see [Assign roles to Retail users](../task/rahi-retail-assign-roles-users.md).
+For information on configuring these roles for retail, see [Assign roles to Retail users](rahi-retail-assign-roles-users.md).
 
 <table id="table_d5t_ttp_bdc"><thead><tr><th>
 

@@ -112,7 +112,7 @@ Domain category under which the unit is listed. By default, the Domain is set as
 
 [Create KPI performance domains](create-kpi-domain.md)
 
-[Create manual KPI templates](../task/create-kpi-template-slo.md)
+[Create manual KPI templates](create-kpi-template-slo.md)
 
-[Create KPIs by adding suppliers to a KPI template](../task/add-supplier-kpi-template.md)
+[Create KPIs by adding suppliers to a KPI template](add-supplier-kpi-template.md)
 

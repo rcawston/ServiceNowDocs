@@ -31,7 +31,7 @@ The Enterprise Partner Relationship Manager \[sn\_prm.enterprise\_partner\_rel\_
 
 4.  On the form, fill in the fields.
 
-    To learn more about the fields on the Register member form, see [Member registration form](../reference/member-registration-form.md).
+    To learn more about the fields on the Register member form, see [Member registration form](member-registration-form.md).
 
 5.  Upload a file or document in the **Add attachments** section.
 

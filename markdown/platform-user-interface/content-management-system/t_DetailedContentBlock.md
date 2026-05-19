@@ -112,7 +112,7 @@ Enter a script to find an appropriate document if the **Type** is set to **Use a
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](r_TypesOfContentBlocks.md)
 
 **Related topics**  
 
@@ -133,7 +133,7 @@ Enter a script to find an appropriate document if the **Type** is set to **Use a
 
 [Configure iFrames](t_IFrame.md)
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](c_ContentBlocks.md)
 
 [Configure a content block](t_CreateAContentBlock.md)
 

@@ -29,8 +29,8 @@ Role required: resource\_manager
 
 4.  On the Resource Event form, update the fields.
 
-    For a description of the field names, see [Resource Event form](../reference/rsrc-event-form.md).
+    For a description of the field names, see [Resource Event form](rsrc-event-form.md).
 
 
-**Parent Topic:**[Resource event modifications](../concept/c_ModifyAResourceEvent.md)
+**Parent Topic:**[Resource event modifications](c_ModifyAResourceEvent.md)
 

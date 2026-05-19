@@ -252,10 +252,10 @@ Child bandwidth
 Bandwidth of the child product model.**Note:** This attribute is only visible for the **Logical Connection to Channel** relationship type.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Define a network model relationship](../task/create-network-model-relationships.md)
+[Define a network model relationship](create-network-model-relationships.md)
 

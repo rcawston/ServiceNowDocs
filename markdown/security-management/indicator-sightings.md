@@ -25,9 +25,9 @@ Sighting is captured as a relationship because you cannot have a sighting unless
 -   Who sighted it and/or where it was sighted, represented as an identity
 -   What was seen on systems and networks, represented as observed data
 
--   **[Define indicator sightings](../task/define-indicator-sightings.md)**  
+-   **[Define indicator sightings](define-indicator-sightings.md)**  
 Define sightings that denote that an indicator was seen.
--   **[Define object sightings](../task/define-object-sightings.md)**  
+-   **[Define object sightings](define-object-sightings.md)**  
 Define object sighting that describes that an object \(malware, tool, threat actor, and so on\) was seen.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

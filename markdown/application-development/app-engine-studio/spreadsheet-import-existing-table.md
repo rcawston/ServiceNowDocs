@@ -19,7 +19,7 @@ Use a Microsoft Excel spreadsheet import to update an existing application table
 
 -   Import a spreadsheet into App Engine Studio. See [Import a spreadsheet](spreadsheet-importing-spreadsheet.md).
 
-Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissions. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissions. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -134,7 +134,7 @@ Add unmapped field columns from your import to your target table or create new f
 
 ## What to do next
 
-For more information on editing your data tables in Table Builder, see [Table Builder](../../../administer/form-builder/concept/tb-landing-page.md).
+For more information on editing your data tables in Table Builder, see [Table Builder](../form-builder-glide-family-release/tb-landing-page.md).
 
 **Parent Topic:**[Use a spreadsheet to add data](upload-multi-sheets.md)
 

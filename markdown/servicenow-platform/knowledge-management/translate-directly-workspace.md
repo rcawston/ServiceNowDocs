@@ -26,7 +26,7 @@ Ensure that the system administrator verifies the following settings:
 
     **Note:** The 18N: Internationalization plugin \(com.glide.i18n\) activates the I18N: Knowledge Management Internationalization Plugin v2 plugin.
 
--   The **glide.knowman.translation.enable\_translation\_task** property is set to `true` in the ServiceNow AI Platform interface. For more information, see [Knowledge Management properties](../reference/r_KnowledgeProperties.md#).
+-   The **glide.knowman.translation.enable\_translation\_task** property is set to `true` in the ServiceNow AI Platform interface. For more information, see [Knowledge Management properties](r_KnowledgeProperties.md#).
 
     **Note:** When the **glide.knowman.translation.enable\_translation\_task** property is set to `false`, translate the knowledge article by clicking **New** in the Translated version related list of a Knowledge form. The Knowledge form that is displayed to translate the article is based on the article template of the source knowledge article. You can enter your translation content in the Knowledge form. For more information about the Knowledge form, see [Create a knowledge article in Agent Workspace](create-article-workspace.md).
 
@@ -82,5 +82,5 @@ When the translated version of the knowledge article is published, a new knowled
 
 [Request translations for missing languages in Agent Workspace](request-translations-agent.md)
 
-[Translation management](../concept/translation-management.md)
+[Translation management](translation-management.md)
 

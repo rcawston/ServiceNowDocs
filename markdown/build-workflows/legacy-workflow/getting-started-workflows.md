@@ -62,11 +62,11 @@ At each step in a workflow:
 2.  At the completion of an action by an activity, the workflow checks the activity's conditions.
 3.  For each matching condition, the workflow follows the transition to the next activity.
 
-When the workflow runs out of activities, the workflow is complete. The [Workflow Context](../../workflow-administration/reference/r_AdministeringWorkflowContexts.md) stores the execution history of the activities and transitions run. The [Workflow Version](../../using-workflows/concept/c_WorkflowVersions.md) stores the design history of the activities, transitions, and exit conditions available to run.
+When the workflow runs out of activities, the workflow is complete. The [Workflow Context](r_AdministeringWorkflowContexts.md) stores the execution history of the activities and transitions run. The [Workflow Version](c_WorkflowVersions.md) stores the design history of the activities, transitions, and exit conditions available to run.
 
 ## Workflow properties
 
-The workflow properties specify when to run a workflow and what records it acts on. For more information about workflow properties, see [Workflow properties](../../workflow-administration/reference/r_WorkflowProperties.md).
+The workflow properties specify when to run a workflow and what records it acts on. For more information about workflow properties, see [Workflow properties](r_WorkflowProperties.md).
 
 ## Workflow activities
 
@@ -80,7 +80,7 @@ This is an activity that triggers a notification:
 
 Workflow runs activities as the user session that starts them. Workflows started from record operations will run activities as the user session that performed the record operation. Workflows started from schedules or restarted from timers run activities as the System user. Workflows started from script calls run activities as the user session that started the script.
 
-For more information on available activities and their behaviors, see [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md).
+For more information on available activities and their behaviors, see [Workflow activities](../workflow-activities/c_WorkflowActivities.md).
 
 ## Transitions
 

@@ -42,7 +42,7 @@ Depending on the supplier inbound table you selected, an Excel template is creat
 
 Load the supplier data from the excel template into the supplier inbound​ staging tables. For more information, see [Load supplier data](load-supplier-data.md).
 
-**Parent Topic:**[Supplier Lifecycle Operations integration framework](../concept/slo-int-framework.md)
+**Parent Topic:**[Supplier Lifecycle Operations integration framework](slo-int-framework.md)
 
 **Related topics**  
 

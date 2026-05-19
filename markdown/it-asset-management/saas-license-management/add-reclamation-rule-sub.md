@@ -21,7 +21,7 @@ Role required: sam\_admin
 
 ## About this task
 
-When you create a direct integration profile or connect an SSO application, a reclamation rule is automatically created for the software. It's important that you review the reclamation rule to verify that it meets your specifications. For more information about the reclamation rules for each application, see [Reclamation rules for SaaS and SSO applications](../reference/reclamation-rules.md) and [Reclamation rules for Microsoft 365 integration](../reference/m365-reclamation-rules.md).
+When you create a direct integration profile or connect an SSO application, a reclamation rule is automatically created for the software. It's important that you review the reclamation rule to verify that it meets your specifications. For more information about the reclamation rules for each application, see [Reclamation rules for SaaS and SSO applications](../software-asset-management/reclamation-rules.md) and [Reclamation rules for Microsoft 365 integration](../software-asset-management/m365-reclamation-rules.md).
 
 For SSO subscriptions, the reclamation rule checks for user logins.
 
@@ -61,7 +61,7 @@ Include usage from additional discovery sources
 
 </td><td>
 
-This field appears only when you are reviewing the Microsoft 365 and Office 365 reclamation rules. For more information, see [Reclamation rules for Microsoft 365 integration](../reference/m365-reclamation-rules.md).
+This field appears only when you are reviewing the Microsoft 365 and Office 365 reclamation rules. For more information, see [Reclamation rules for Microsoft 365 integration](../software-asset-management/m365-reclamation-rules.md).
 
  When selected, the usage for Microsoft Access and Publisher is considered from additional discovery solutions such as Microsoft SCCM or ACC-V for E3 to E1 optimization.
 
@@ -101,28 +101,28 @@ Time limit for no meaningful activity before a user account is added to the list
 
 View the reclamation candidates that are identified by your reclamation rule and start reclaiming user subscriptions.
 
-**Parent Topic:**[SaaS License Management](../concept/sam-subscription-management.md)
+**Parent Topic:**[SaaS License Management](sam-subscription-management.md)
 
 **Related topics**  
 
 
 [Request SaaS License Management](request-saas-license-management.md)
 
-[SaaS License Management setup for large companies](../concept/saas-setup-large-companies.md)
+[SaaS License Management setup for large companies](saas-setup-large-companies.md)
 
-[SaaS Overview dashboard](../concept/saas-overview-dashboard.md)
+[SaaS Overview dashboard](saas-overview-dashboard.md)
 
-[Integrate with SaaS applications](../concept/create-integration-profile.md)
+[Integrate with SaaS applications](create-integration-profile.md)
 
-[Integrate with SSO providers](../concept/saas-sso-integration.md)
+[Integrate with SSO providers](saas-sso-integration.md)
 
-[Playbook for SaaS integrations](../concept/playbook-saas-integrations.md)
+[Playbook for SaaS integrations](playbook-saas-integrations.md)
 
-[Viewing your SaaS and SSO subscriptions](../concept/usage-summary-saas.md)
+[Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
 
-[Reclaiming user subscriptions](../concept/reclaiming-user-subscriptions-saas.md)
+[Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)
 
 [Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)
 
@@ -134,15 +134,15 @@ View the reclamation candidates that are identified by your reclamation rule and
 
 [Disconnect SSO apps](disconnect-azure-ad-apps.md)
 
-[Delete an integration profile](../concept/delete-saas-integration.md)
+[Delete an integration profile](delete-saas-integration.md)
 
-[Subscription identifiers for SaaS and SSO applications](../concept/subscription-identifiers.md#)
+[Subscription identifiers for SaaS and SSO applications](subscription-identifiers.md#)
 
-[Subscription exclusions for SaaS and SSO applications](../concept/subscription-exclusions.md#)
+[Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#)
 
-[Integrate with SaaS applications](../concept/create-integration-profile.md)
+[Integrate with SaaS applications](create-integration-profile.md)
 
-[Reclamation rules for SaaS and SSO applications](../reference/reclamation-rules.md)
+[Reclamation rules for SaaS and SSO applications](../software-asset-management/reclamation-rules.md)
 
-[Reclamation rules for Microsoft 365 integration](../reference/m365-reclamation-rules.md)
+[Reclamation rules for Microsoft 365 integration](../software-asset-management/m365-reclamation-rules.md)
 

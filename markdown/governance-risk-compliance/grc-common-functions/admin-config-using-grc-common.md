@@ -22,12 +22,12 @@ The GRC Landing Page Configurations module displays the following modules:
 -   Tasks Page Configuration
 -   Issue Page Configuration
 
--   **[Tasks Page Configuration module](../../grc-common-workspace/concept/task-page-config-module.md)**  
+-   **[Tasks Page Configuration module](task-page-config-module.md)**  
 The Tasks Page Configuration module in the classic user interface displays the configurations related to the Tasks section in the landing pages of the workspaces. The configurations in the Tasks Page Configuration module help the users to view the data in different workspaces.
--   **[Update the Tasks Page Configuration record](../task/view-tasks-page-configurations.md)**  
+-   **[Update the Tasks Page Configuration record](view-tasks-page-configurations.md)**  
 Update the Tasks Page Configuration record in the classic user interface to display the task configurations in various workspaces. The Tasks Page Configuration record displays the configurations that an end user can view in the My Tasks landing page in each workspace.
--   **[Issue Page Configuration module](../../grc-common-workspace/concept/issue-page-config-record.md)**  
+-   **[Issue Page Configuration module](issue-page-config-record.md)**  
 The Issue Page Configuration module displays the configurations related to the Issues overview landing pages in various workspaces. The data displayed in the Issues overview landing page is configured using the Issue Page Configurations module in the classic user interface. The Issues overview landing page includes the Issues, Issue triages, Tracking status of the issues, and Audit observations pages.
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](../concept/common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
 

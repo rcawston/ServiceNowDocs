@@ -64,5 +64,5 @@ The **Performance Details** window provides comprehensive tracking of each widge
 10. Click **Close** when you are done.
 
 
-**Parent Topic:**[Managing portal performance](../concept/improve-manage.md)
+**Parent Topic:**[Managing portal performance](improve-manage.md)
 

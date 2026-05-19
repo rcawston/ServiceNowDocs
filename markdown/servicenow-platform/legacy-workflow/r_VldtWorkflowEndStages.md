@@ -28,7 +28,7 @@ If the workflow has stages associated with it, but does not have the completed s
 -   Suggested Action: If this is not by design, make the appropriate changes.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md)
+-   Related Information: [Workflow activities](../workflow-activities/c_WorkflowActivities.md)
 
 ## Troubleshooting
 

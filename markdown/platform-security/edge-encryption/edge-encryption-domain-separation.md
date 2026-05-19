@@ -20,7 +20,7 @@ Domain separation is supported in limited circumstances with Edge Encryption. Ed
 -   The domain field may exist on data tables but there is no business logic to manage the data.
 -   This level is not considered domain-separated.
 
-For more information on support levels, see [Application support for domain separation](../../company-and-domain-separation/reference/domain-separated-apps.md).
+For more information on support levels, see [Application support for domain separation](../domain-separated-apps.md).
 
 ## How domain separation works in Edge Encryption
 
@@ -31,5 +31,5 @@ Edge Encryption can be used where domain-specific keys, configurations, and rule
 **Related topics**  
 
 
-[Domain separation for service providers](../../company-and-domain-separation/reference/domain-sep-landing-page.md)
+[Domain separation for service providers](../domain-sep-landing-page.md)
 

@@ -47,7 +47,7 @@ Enable Cloud Provisioning and Governance to access the configuration provider wi
 
 </td><td>
 
-[Configure Ansible Tower user name and password](../../cloud-management-v2/task/configure-ansible-creds.md)
+[Configure Ansible Tower user name and password](configure-ansible-creds.md)
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Configure Cloud Provisioning and Governance to work with the configuration manag
 
 </td><td>
 
-[Create a workload provider type](../../cloud-management-v2/task/create-workload-provider-type.md) and [Create an Ansible configuration management provider and run Discovery](../../cloud-management-v2/task/create-chef-or-ansible-cfg-provider.md)
+[Create a workload provider type](create-workload-provider-type.md) and [Create an Ansible configuration management provider and run Discovery](create-chef-or-ansible-cfg-provider.md)
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Create the profile that defines the application that the configuration managemen
 
 </td><td>
 
-[Create an application profile](../../cloud-management-v2/task/create-app-profile.md)
+[Create an application profile](create-app-profile.md)
 
 </td></tr><tr><td>
 

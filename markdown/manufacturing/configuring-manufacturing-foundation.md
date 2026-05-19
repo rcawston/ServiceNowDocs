@@ -31,7 +31,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Customer Service Management for Manufacturing Commercial Operations](../task/mco-install-cust-ser-mgmt.md)\(Mandatory\)
+[Install Customer Service Management for Manufacturing Commercial Operations](mco-install-cust-ser-mgmt.md)\(Mandatory\)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Install the Customer Service Management application from the ServiceNow Store st
 
 </td></tr><tr><td>
 
-[Install Order Management for Manufacturing Commercial Operations](../task/mco-install-som.md)\(Mandatory\)
+[Install Order Management for Manufacturing Commercial Operations](mco-install-som.md)\(Mandatory\)
 
 </td><td>
 
@@ -71,7 +71,7 @@ Install the Install Base Management application from the ServiceNow Store store.
 
 </td></tr><tr><td>
 
-[Install Service Bridge for Providers and Consumers for Manufacturing Commercial Operations](../task/mco-install-configure-sb-providers.md)\(Optional\)
+[Install Service Bridge for Providers and Consumers for Manufacturing Commercial Operations](mco-install-configure-sb-providers.md)\(Optional\)
 
 </td><td>
 

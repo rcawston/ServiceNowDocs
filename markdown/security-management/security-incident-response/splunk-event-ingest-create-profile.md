@@ -277,7 +277,7 @@ For profiles for scheduled alerts, the next step is to select alerts for automat
 
 -   **[Select scheduled alerts for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-alert-selection.md)**  
 After you have created a profile for a scheduled alert, select a Splunk alert for this profile that you want to map to a ServiceNow AI Platform Security Incident Response security incident.
--   **[Mapping alerts and events for the Splunk Enterprise Event Ingestion integration](../concept/splunk-event-ingest-mapping.md)**  
+-   **[Mapping alerts and events for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-mapping.md)**  
 After you identify the sources for scheduled alert ingestion or manual event forwarding, the next step is to map individual event fields to the fields on a ServiceNow AI Platform Security Incident Response \(SIR\) security incident.
 -   **[Map alerts for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-map-alerts.md)**  
 During the event field-mapping step, you map individual event fields from triggered alerts or imported event data to fields on a ServiceNow AI Platform Security Incident Response \(SIR\) security incident.
@@ -286,7 +286,7 @@ After you complete the mapping step, preview the values that you mapped in a Ser
 -   **[Schedule and retrieve alerts for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-schedule.md)**  
 For automated alert ingestion profiles, this step is final step of the event profile configuration. During this step, you can verify the default settings for alert retrieval or modify the scheduling as needed. This step permits you to filter your alert retrieval based on a date range.
 
-**Parent Topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](../concept/splunk-event-ingest-overview.md)
+**Parent Topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](splunk-event-ingest-overview.md)
 
 **Previous topic:**[Configure Splunk Enterprise Event Ingestion settings](configure-splunk-enterprise-event-ingestion-settings.md)
 

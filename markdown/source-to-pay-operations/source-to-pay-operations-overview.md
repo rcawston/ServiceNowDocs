@@ -27,7 +27,7 @@ Source-to-Pay Operations is a powerful solution that automates and simplifies th
 
 Gain visibility and control across sourcing and procurement processes
 
- The Sourcing and Procurement Operations application helps teams streamline purchasing workflows, accelerate approvals, and improve transparency in order and supplier-related processes. It also supports automation to reduce delays and manual work. For more information, see [Sourcing and Procurement Operations](../../sourcing-procurement-operations/concept/psm-overview.md).
+ The Sourcing and Procurement Operations application helps teams streamline purchasing workflows, accelerate approvals, and improve transparency in order and supplier-related processes. It also supports automation to reduce delays and manual work. For more information, see [Sourcing and Procurement Operations](sourcing-and-procurement-operations/psm-overview.md).
 
 </td></tr><tr><td>
 
@@ -37,7 +37,7 @@ Gain visibility and control across sourcing and procurement processes
 
 Streamline supplier onboarding and performance tracking
 
- The Supplier Lifecycle Operations application manages supplier information, performance, and onboarding in a centralized workspace. It enables collaboration with suppliers and increases accountability across the lifecycle. For more information, see [Supplier Lifecycle Operations](../../supplier-lifecycle-operations/concept/supp-mgmt-landing-page.md).
+ The Supplier Lifecycle Operations application manages supplier information, performance, and onboarding in a centralized workspace. It enables collaboration with suppliers and increases accountability across the lifecycle. For more information, see [Supplier Lifecycle Operations](supplier-lifecycle-operations/supp-mgmt-landing-page.md).
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ Streamline supplier onboarding and performance tracking
 
 Automate invoice processing and approvals
 
- The Accounts Payable Operations application reduces the manual effort of handling invoices. It enables digital invoice submission, matching, exception handling, and approval tracking to help teams process payments efficiently. For more information, see [Accounts Payable Operations](../../accounts-payable-operations/concept/acc-pay-mgmt-landing-page.md).
+ The Accounts Payable Operations application reduces the manual effort of handling invoices. It enables digital invoice submission, matching, exception handling, and approval tracking to help teams process payments efficiently. For more information, see [Accounts Payable Operations](accounts-payable-operations/acc-pay-mgmt-landing-page.md).
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ Automate invoice processing and approvals
 
 Integrate seamlessly with third-party systems
 
- Source-to-Pay Operations supports integration with external ERP systems such as SAP ECC and SAP S4 HANA. It enables end-to-end data exchange for purchase orders, receipts, invoices, and more. Additionally, it supports integration with 3CLogic to enhance user experience through voice and SMS channels. For more information, see [Source-to-Pay Integrations](../concept/source-to-pay-integrations-landing.md).
+ Source-to-Pay Operations supports integration with external ERP systems such as SAP ECC and SAP S4 HANA. It enables end-to-end data exchange for purchase orders, receipts, invoices, and more. Additionally, it supports integration with 3CLogic to enhance user experience through voice and SMS channels. For more information, see [Source-to-Pay Integrations](source-to-pay-integration-framework/source-to-pay-integrations-landing.md).
 
 </td></tr></tbody>
 </table>

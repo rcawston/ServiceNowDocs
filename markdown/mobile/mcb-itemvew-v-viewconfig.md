@@ -28,11 +28,11 @@ Cards take advantage of templates to make creating your mobile cards faster and 
 
 -   **Editing card templates**
 
-    Card templates define the layout of the fields on your mobile card, as well as any display properties that affect how your card looks. To change the look or appearance of your card, you must edit its template rather than the card itself. The options to add or remove elements and select containers are not available when editing cards. For detail on templates, see [Create a card template with Mobile Card Builder](../task/mcb-create-template.md).
+    Card templates define the layout of the fields on your mobile card, as well as any display properties that affect how your card looks. To change the look or appearance of your card, you must edit its template rather than the card itself. The options to add or remove elements and select containers are not available when editing cards. For detail on templates, see [Create a card template with Mobile Card Builder](mcb-create-template.md).
 
 -   **Editing cards**
 
-    After you have assigned a template to your card, you can edit the card in Mobile Card Builder. Here you define what information to display in the fields laid out in your selected template. For detail on this process, see [Assign field values to your mobile card](../task/mcb-assign-fields.md).
+    After you have assigned a template to your card, you can edit the card in Mobile Card Builder. Here you define what information to display in the fields laid out in your selected template. For detail on this process, see [Assign field values to your mobile card](mcb-assign-fields.md).
 
 
 .

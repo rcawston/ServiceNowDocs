@@ -29,7 +29,7 @@ After completing the steps outlined in this section, the state of the Operationa
 
 3.  On the Create New Action task form, fill in the fields.
 
-    For more information, see [Create New Action task form](../reference/action-task-form.md).
+    For more information, see [Create New Action task form](action-task-form.md).
 
 4.  In the **Type** field, select **Assessment**.
 

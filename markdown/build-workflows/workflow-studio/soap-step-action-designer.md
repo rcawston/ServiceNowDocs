@@ -292,7 +292,7 @@ Enable Retry Policy
 
 </td><td>
 
-Option to enable the retry policy. For more information, see [Retry policy](../concept/retry-policy.md#).
+Option to enable the retry policy. For more information, see [Retry policy](retry-policy.md#).
 
 </td></tr><tr><td>
 
@@ -337,12 +337,12 @@ Option to exclude a header if the value is empty or null.**Note:** This check bo
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
 ## SOAP response size limit
 
 The system limits the size of SOAP responses to 5 MB. Direct SOAP responses that exceed this limit generate an error. To support larger response sizes, increase the response size limit with the **glide.pf.soap.response\_payload\_max\_size** system property. This system property supports a maximum value of 10 MB.
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

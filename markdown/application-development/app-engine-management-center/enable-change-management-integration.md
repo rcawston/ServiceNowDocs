@@ -35,6 +35,6 @@ This task can be completed within the Guided Setup system. This task opens withi
 
 5.  In the Pipelines and Deployments Guided Setup, select **Mark Complete**.
 
-    Marking the enablement step complete enables you to configure properties related to Change Management integration including the change model, change template, and CI creation subflow. For more information, see [Configure properties to integrate Change Management](../concept/configure-properties-integrate-cm.md#).
+    Marking the enablement step complete enables you to configure properties related to Change Management integration including the change model, change template, and CI creation subflow. For more information, see [Configure properties to integrate Change Management](configure-properties-integrate-cm.md#).
 
 

@@ -29,17 +29,17 @@ Role required: sn\_prm.enterprise\_partner\_rel\_manager, sn\_prm.external\_part
 
 5.  On the form, fill in the fields.
 
-    To learn more about the fields on the inquiry form and their descriptions, see [General Inquiry form](../reference/general-inquiry-form.md).
+    To learn more about the fields on the inquiry form and their descriptions, see [General Inquiry form](general-inquiry-form.md).
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Using Partner Relationship Management](../concept/using-partner-relationship-management.md)
+**Parent Topic:**[Using Partner Relationship Management](using-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[Using Partner Relationship Management](../concept/using-partner-relationship-management.md)
+[Using Partner Relationship Management](using-partner-relationship-management.md)
 
 [Register a member on Partner portal](register-a-member-on-partner-portal.md)
 

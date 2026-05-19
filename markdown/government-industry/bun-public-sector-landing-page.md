@@ -30,7 +30,7 @@ Extend beyond the packaged government case types, leveraging the government data
 
 </td><td>
 
-[Analyze ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Access preconfigured dashboards with actionable data visualizations to track key metrics and improve your service.](../../../use/application-content-packs/concept/psds-content-pack.md)
+[Analyze ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Access preconfigured dashboards with actionable data visualizations to track key metrics and improve your service.](psds-content-pack.md)
 
 </td><td>
 
@@ -42,7 +42,7 @@ Extend beyond the packaged government case types, leveraging the government data
 
 </td><td>
 
-[Automate ![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for PSDS to enhance user productivity and efficiency through proactive experiences using generative AI.](../reference/now-assist-for-psds.md)
+[Automate ![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for PSDS to enhance user productivity and efficiency through proactive experiences using generative AI.](now-assist-for-psds.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Extend beyond the packaged government case types, leveraging the government data
 </td></tr></tbody>
 </table>## Additional resources
 
--   To learn more about what's new and what's changed, see the [Public Sector Digital Services release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/public-sector-digital-services-rn.md).
+-   To learn more about what's new and what's changed, see the [Public Sector Digital Services release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/public-sector-digital-services-rn.md).
 -   Work with an implementation specialist to streamline your setup process. To learn more, see the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Sign up for the [ServiceNow Public Sector fundamentals training program and certification](https://www.servicenow.com/services/training-and-certification.html) to learn about core functionality and release-specific features.
 -   Visit [Now Community](https://www.servicenow.com/community/) to share knowledge and connect with others.

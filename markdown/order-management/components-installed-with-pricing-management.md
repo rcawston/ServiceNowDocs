@@ -139,5 +139,5 @@ Pricing Plan\[sn\_csm\_pricing\_pricing\_plan\]
 Stores the pricing steps used by the pricing engine to retrieve and calculate product pricing.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure, price, quote reference](../concept/reference-cpq.md)
+</table>**Parent Topic:**[Configure, price, quote reference](reference-cpq.md)
 

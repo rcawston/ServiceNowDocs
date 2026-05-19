@@ -29,9 +29,9 @@ With the product adoption roadmap, you can:
 **Related topics**  
 
 
-[Create a product adoption roadmap](../task/account-lifecycle-create-par-roadmap.md)
+[Create a product adoption roadmap](account-lifecycle-create-par-roadmap.md)
 
-[Create a product adoption roadmap template](../task/account-lifecycle-create-par-roadmap-temp.md)
+[Create a product adoption roadmap template](account-lifecycle-create-par-roadmap-temp.md)
 
 [View a product adoption roadmap](account-lifecycle-view-par-roadmap.md)
 

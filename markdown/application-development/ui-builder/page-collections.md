@@ -59,7 +59,7 @@ You create a page collection within the ServiceNow platform. At this time, only 
 
 ![New record for page collection on the platform.](../image/page-collection-platform-form.png)
 
--   **[Create a page collection across multiple UI pages](../task/create-page-collection.md)**  
+-   **[Create a page collection across multiple UI pages](create-page-collection.md)**  
 Create a page collection to accommodate tabbed content that can be used across experiences.
 
 **Parent Topic:**[Customize UI Builder pages using components](work-components.md)

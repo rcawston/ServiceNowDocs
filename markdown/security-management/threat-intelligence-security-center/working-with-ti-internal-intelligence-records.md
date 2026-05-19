@@ -15,7 +15,7 @@ breadcrumb: [Observables, TISC Library Repository, Threat Intelligence Security 
 
 Use this feature to work with the internal intelligence data that is collected from Configuration Database Management System \(CMDB\) into Threat Intelligence Security Center.
 
--   **[View Internal Intelligence Records](../task/view-internal-intelligence-records.md)**  
+-   **[View Internal Intelligence Records](view-internal-intelligence-records.md)**  
 View the internal intelligence records collected from CMDB, Security Incident Response \(SIR\), Vulnerability Response \(VR\) these records.
 
 **Parent Topic:**[Observables](observables.md)

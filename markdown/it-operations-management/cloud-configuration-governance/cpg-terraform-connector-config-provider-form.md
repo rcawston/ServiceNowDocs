@@ -93,9 +93,9 @@ Version
 
 </td><td>
 
-Supported Terraform Open Source CLI version installed in the Terraform server.For more information on the supported Terraform Open Source versions, see the prerequisites section of [Create a Terraform Open Source config provider](../task/setup-cpg-terraform-connector-for-terraform-open-source.md).
+Supported Terraform Open Source CLI version installed in the Terraform server.For more information on the supported Terraform Open Source versions, see the prerequisites section of [Create a Terraform Open Source config provider](setup-cpg-terraform-connector-for-terraform-open-source.md).
 
- For more information on the supported Terraform Enterprise and Terraform Cloud versions, see the prerequisites section of [Create a Terraform Enterprise or Terraform Cloud config provider](../task/setup-cpg-terraform-connector-for-terraform-enterprise.md).
+ For more information on the supported Terraform Enterprise and Terraform Cloud versions, see the prerequisites section of [Create a Terraform Enterprise or Terraform Cloud config provider](setup-cpg-terraform-connector-for-terraform-enterprise.md).
 
  Starting with Cloud Provisioning and Governance: Terraform Connector version 1.5.2, version 1.0.0 is deprecated. The deprecated version represents Terraform Open Source CLI version 0.11 and 0.12.
 

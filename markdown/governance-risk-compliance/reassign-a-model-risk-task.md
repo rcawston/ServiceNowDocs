@@ -42,5 +42,5 @@ Model validators \[sn\_model\_risk\_mgmt.model\_validator\] can also reassign ta
 7.  Select **Reassign model task**.
 
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

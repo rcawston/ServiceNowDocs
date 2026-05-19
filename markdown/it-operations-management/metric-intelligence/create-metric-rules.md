@@ -87,5 +87,5 @@ When a metric crosses or falls within the range of a configured threshold, the s
 10. Select **Finish**.
 
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 

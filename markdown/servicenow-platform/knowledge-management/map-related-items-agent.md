@@ -94,5 +94,5 @@ The mapped catalog items are listed in the Related Items section on the Knowledg
 
 [Edit a knowledge article in Agent Workspace](edit-article-workspace.md)
 
-[Service Catalog items](../../service-catalog-management/concept/c_IntroductionToCatalogItems.md)
+[Service Catalog items](../service-catalog/c_IntroductionToCatalogItems.md)
 

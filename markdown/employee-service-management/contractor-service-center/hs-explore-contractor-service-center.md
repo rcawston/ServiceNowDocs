@@ -34,8 +34,8 @@ The contractor begins by using the link provided in the onboarding email to acce
 |Benefits|Feature|Users|
 |--------|-------|-----|
 |Use the self-service access at the Contractor Service Center to perform various tasks such as creating Health and Safety requests, permit to work requests, and JSAs.|[Contractor Service Center navigation overview](hs-contractor-service-center-navigation.md)|Contractor|
-|Log in to the Contractor Service Center using the email.|[Log in to the Contractor Service Center for the first time as a contractor](../task/hs-log-in-csc-first-time-contractor.md)|Contractor|
-|Add or create the contractor profile on the Health and Safety Contractor Management workspace.|[Add a contractor from the Health and Safety Workspace](../task/hs-onboard-contractor-from-workspace.md)|Safety contractor coordinator|
+|Log in to the Contractor Service Center using the email.|[Log in to the Contractor Service Center for the first time as a contractor](hs-log-in-csc-first-time-contractor.md)|Contractor|
+|Add or create the contractor profile on the Health and Safety Contractor Management workspace.|[Add a contractor from the Health and Safety Workspace](../health-and-safety-contractor-management/hs-onboard-contractor-from-workspace.md)|Safety contractor coordinator|
 
 ## What to explore next
 

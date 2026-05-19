@@ -29,13 +29,13 @@ The Shopping Hub Mobile app provides the following capabilities to shoppers:
     -   Review invoices associated with your purchase
 -   View, track, and revise your purchases
 -   [Requesting for products or services that you don't see on ShoppingHub](request-prod-serv-dont-see-sh.md)
--   [Submit quotes from vendors](../task/submit-quote.md)
+-   [Submit quotes from vendors](submit-quote.md)
 
--   **[Shopper to-dos on your mobile](../reference/shopper-todos-mobile.md)**  
+-   **[Shopper to-dos on your mobile](shopper-todos-mobile.md)**  
 As a shopper, you can complete actions on to-dos related to your purchases.
--   **[Display My Purchases on your mobile instance](../task/display-my-purchases-on-mobile.md)**  
+-   **[Display My Purchases on your mobile instance](display-my-purchases-on-mobile.md)**  
 As a Shopping Hub Administrator, you can configure your mobile instance to display My Purchases on your landing page. This is a one-time activity.
--   **[View and revise your purchase from your mobile device](../task/view-revise-purchase-mobile.md)**  
+-   **[View and revise your purchase from your mobile device](view-revise-purchase-mobile.md)**  
 View all the purchases you made from your shopping account, view their status, and revise your purchases from your mobile application.
 
 **Parent Topic:**[Use Sourcing and Procurement Operations](using-spo.md)
@@ -43,7 +43,7 @@ View all the purchases you made from your shopping account, view their status, a
 **Related topics**  
 
 
-[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+[Using Shopping Hub](use-shoppinghub-portal.md)
 
 [Using Procurement Case Management](using-pcm.md)
 
@@ -53,9 +53,9 @@ View all the purchases you made from your shopping account, view their status, a
 
 [Using Sourcing Pipeline Management](use-pipeline-sourcing-mgmt.md)
 
-[Install ShoppingHub Mobile](../task/install-shoppinghub-mobile.md)
+[Install ShoppingHub Mobile](install-shoppinghub-mobile.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md)
 
 [Shopping Hub Mobile](shoppinghub-mobile.md)
 

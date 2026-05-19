@@ -27,12 +27,12 @@ You must have the sn\_ta\_tp\_talent\_profile.user role to own, share, or collab
 
 The **Talent** tab lists all the talent profiles added to the pool. You can perform the following actions within the **Talent** tab.
 
--   [Add talent profiles to a Talent pool](../task/add-talent-to-pool.md).
--   [Create talent profiles](../task/create-talent-ta.md).
--   [Copy talent to pool](../task/copy-talent-other-pool.md).
--   [Copy talent profiles as job prospects](../task/copy-talent-to-leads.md).
--   [Remove talent profiles from a pool](../task/remove-talent-from-pool.md).
--   [Delete a Talent pool](../task/delete-talent-pool.md).
+-   [Add talent profiles to a Talent pool](add-talent-to-pool.md).
+-   [Create talent profiles](create-talent-ta.md).
+-   [Copy talent to pool](copy-talent-other-pool.md).
+-   [Copy talent profiles as job prospects](copy-talent-to-leads.md).
+-   [Remove talent profiles from a pool](remove-talent-from-pool.md).
+-   [Delete a Talent pool](delete-talent-pool.md).
 
 ## Record History tab
 

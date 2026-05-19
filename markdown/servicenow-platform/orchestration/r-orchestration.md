@@ -15,26 +15,26 @@ breadcrumb: [ServiceNow AI Platform Additional Capabilities, Extend ServiceNow A
 
 ServiceNow® Orchestration extends the workflow engine to manage processes and to automate things outside of a ServiceNow instance.
 
-Orchestration is available as a separate subscription from the rest of the ServiceNow platform. See [Activate Orchestration](../task/t_ActivateOrchestration.md) for details.
+Orchestration is available as a separate subscription from the rest of the ServiceNow platform. See [Activate Orchestration](t_ActivateOrchestration.md) for details.
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
 **Explore**
 
  -   [Introduction to Orchestration](r-orchestration-introduction.md)
--   [Orchestration applications](../concept/c_OrchestrationApplications.md)
--   [Orchestration ROI](../concept/c_OrchestrationROI.md)
--   [Orchestration examples](../concept/c_OrchestrationExamples.md)
--   [Domain separation and Orchestration](../concept/domain-separation-orchestration.md)
+-   [Orchestration applications](c_OrchestrationApplications.md)
+-   [Orchestration ROI](c_OrchestrationROI.md)
+-   [Orchestration examples](c_OrchestrationExamples.md)
+-   [Domain separation and Orchestration](domain-separation-orchestration.md)
 
 </td><td>
 
 **Set up**
 
- -   [Activate Orchestration](../task/t_ActivateOrchestration.md)
--   [MID Servers for Orchestration](../concept/c_OrchestrationMID.md)
--   [Available activity packs](../../../administer/orchestration-activities/task/t_ActivateAnActivityPack.md)
--   [Setup Client Software Distribution](../task/t_ActivateClientSWDistribution.md)
+ -   [Activate Orchestration](t_ActivateOrchestration.md)
+-   [MID Servers for Orchestration](c_OrchestrationMID.md)
+-   [Available activity packs](t_ActivateAnActivityPack.md)
+-   [Setup Client Software Distribution](t_ActivateClientSWDistribution.md)
 
 </td><td>
 
@@ -47,17 +47,17 @@ Orchestration is available as a separate subscription from the rest of the Servi
 
 **Use**
 
- -   [Orchestration activity packs](../../../administer/orchestration-activities/concept/c_OrchestrationActivityPacks.md)
--   [Password Reset](../../../administer/login/reference/password-reset-landing-page.md)
--   [Client Software Distribution](../concept/c_ClientSoftwareDistribution.md)
+ -   [Orchestration activity packs](c_OrchestrationActivityPacks.md)
+-   [Password Reset](../password-reset/password-reset-landing-page.md)
+-   [Client Software Distribution](c_ClientSoftwareDistribution.md)
 
 </td><td>
 
 **Develop**
 
- -   [Orchestration activity designer](../../../administer/orchestration-activity-designer/concept/c_WorkflowActivityDesigner.md)
--   [Orchestration custom activity templates](../../../administer/orchestration-activity-designer/concept/c_ActivityDesignerComponents.md)
--   [Client software distribution extension framework](../concept/c_CSDExtensionFramework.md)
+ -   [Orchestration activity designer](c_WorkflowActivityDesigner.md)
+-   [Orchestration custom activity templates](c_ActivityDesignerComponents.md)
+-   [Client software distribution extension framework](c_CSDExtensionFramework.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 
 </td><td>

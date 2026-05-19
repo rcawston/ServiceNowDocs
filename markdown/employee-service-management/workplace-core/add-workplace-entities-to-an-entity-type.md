@@ -51,12 +51,12 @@ The workplace entity is created and assigned to the selected parent and entity t
 
 ## What to do next
 
-For more information about how workplace entities and other allocations work, refer to [Allocation - types, setting, and impact](../../workplace-space-management/reference/setting-an-allocation-and-its-impact.md).
+For more information about how workplace entities and other allocations work, refer to [Allocation - types, setting, and impact](../workplace-space-management/setting-an-allocation-and-its-impact.md).
 
 To populate the Entity-mapping column for existing workplace entities, the application provides you with the following flows:
 
 -   **Set hierarchy from scratch via subflow**: Run this flow to recalculate the entity-mapping columns for the complete hierarchy.
 -   **Process entity updates via subflow**: This flow runs everyday to update the workplace entity-mapping columns only for those workplace entities where the 'update\_type' column is set.
 
-**Parent Topic:**[Configure Workplace entity and entity types](../concept/workplace-entity.md)
+**Parent Topic:**[Configure Workplace entity and entity types](workplace-entity.md)
 

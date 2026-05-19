@@ -19,7 +19,7 @@ Use the McAfee ePO integration to leverage the McAfee ePO capabilities on the SI
 
 Role required: sn\_si.admin
 
-Before you use McAfee ePO integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](../reference/mcaffee-epo-setup-now.md).
+Before you use McAfee ePO integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](mcaffee-epo-setup-now.md).
 
 ## About this task
 
@@ -71,7 +71,7 @@ The McAfee ePO integration enables analysts to use the following McAfee ePO capa
 11. Select the **McAfee ePO** implementation, and click **Submit**.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
 **Previous topic:**[Trigger additional actions in McAfee ePO integration](configure-additional-actions-mcafee.md)
 

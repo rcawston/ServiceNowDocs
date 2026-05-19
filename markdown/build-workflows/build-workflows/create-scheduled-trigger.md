@@ -191,5 +191,5 @@ The trigger is created and published. You can use the trigger in any of your flo
 -   **[Create a scheduled trigger using business calendar](create-trigger-business-calendar.md)**  
 Schedule a recurring trigger to run based on a business calendar, so your automation run only when your business is actually operating, on working days, active shifts, or custom production schedules.
 
-**Parent Topic:**[Building triggers](../concept/building-triggers.md)
+**Parent Topic:**[Building triggers](building-triggers.md)
 

@@ -21,7 +21,7 @@ Role required: none
 
 1.  Navigate to a record that you want to add watchers to.
 
-    **Note:** Not all records have watch lists. If you’re unable to see a watch list, you may have to [adjust your form view](../../../administer/navigation-and-ui/concept/view-management-overview.md) or ask your administrator to update the form to add a watch list.
+    **Note:** Not all records have watch lists. If you’re unable to see a watch list, you may have to [adjust your form view](view-management-overview.md) or ask your administrator to update the form to add a watch list.
 
 2.  Expand the watch list by selecting the lock icon \( ![lock icon](../image/LockIconNE.png)\).
 
@@ -38,8 +38,8 @@ Role required: none
     |![Add email address icon](../image/NEIconAddEmail.png)|Enter an email address for users who aren’t in the User \[sys\_user\] table or don’t have an email address defined in their user record|
 
 
--   **[Configure email notifications for watch lists](../../../administer/form-administration/task/t_ConfigNotifications4WatchLists.md)**  
+-   **[Configure email notifications for watch lists](t_ConfigNotifications4WatchLists.md)**  
 Watch lists \(glide\_list field type\) allow multiple users to subscribe to notifications of a task. You can specify conditions in an email notification to send email notifications to the members when the conditions are met.
 
-**Parent Topic:**[Forms in the classic environment](../concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](c_UsingForms.md)
 

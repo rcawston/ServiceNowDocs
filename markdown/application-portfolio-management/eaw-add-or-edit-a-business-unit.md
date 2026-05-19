@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_admin and business\_planner
     -   To update details of an existing business unit, select the business unit.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create a new business unit form](../../reference/eaw-reference/eaw-create-a-new-business-unit-form.md).
+    For field information, see [Create a new business unit form](eaw-create-a-new-business-unit-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage business units](../../concept/eaw-concept/eaw-manage-business-units.md)
+**Parent Topic:**[Manage business units](eaw-manage-business-units.md)
 
 **Related topics**  
 

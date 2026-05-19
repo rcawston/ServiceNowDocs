@@ -66,7 +66,7 @@ Add
 1.  Select **\(![Options icon](../../../common/image/icon-menu.png)\)** &gt; **Add to Rack**.
 2.  Fill in the fields and select **Add**.
 
-To learn more about the fields, see add equipment to rack table of [Change request and change task forms](../concept/change_request_forms.md).
+To learn more about the fields, see add equipment to rack table of [Change request and change task forms](change_request_forms.md).
 
  **Note:** You can drag the equipment from the corner to the desired rack unit. For non-TNI, a TNI entity with category as equipment is created. Changes can be undone or redone.
 
@@ -77,7 +77,7 @@ Move
 </td><td>
 
 1.  Select **\(![Options icon](../../../common/image/icon-menu.png)\)** &gt; **Move**.
-2.  Fill in the fields and select **Move**. To learn more about the fields, see add equipment to rack table of [Change request and change task forms](../concept/change_request_forms.md).
+2.  Fill in the fields and select **Move**. To learn more about the fields, see add equipment to rack table of [Change request and change task forms](change_request_forms.md).
  **Note:**
 
 -   You can also drag the equipment from the corner to the desired rack unit.

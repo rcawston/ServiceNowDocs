@@ -34,20 +34,20 @@ Manage contractor work and service level agreements \(SLA\). With the ServiceNow
 
 The Field Service Contractor Management application enables Field Service managers to outsource work by onboarding contractor companies and their staff, such as external managers and external agents. Work order tasks are assigned to the contractor group's manager from the contractor company. A group qualifies the assignment criterion based on the selected assignment group values, such as the external group, and its coverage area, skills, and product models.
 
-The managers of these contractor companies use the [Contractor Portal](field-service-contractor-portal.md) to review the assigned work order task details and can choose to reject work on the tasks. If they accept the task, they can then reassign the tasks to their contractor team members.
+The managers of these contractor companies use the [Contractor Portal](work-order-management/field-service-contractor-portal.md) to review the assigned work order task details and can choose to reject work on the tasks. If they accept the task, they can then reassign the tasks to their contractor team members.
 
 If the preferred assignment group is internal but no one in the internal group qualifies for the assignment group criterion, then the system searches for a suitable external group to assign the task to and vice versa.
 
 **Related topics**  
 
 
-[Activate Field Service Contractor Management](../task/activate-contractor-management-plugin.md)
+[Activate Field Service Contractor Management](workforce-optimization-for-field-service/activate-contractor-management-plugin.md)
 
-[Configuring Contractor Management](configuring-fsm-contractor-management.md)
+[Configuring Contractor Management](workforce-optimization-for-field-service/configuring-fsm-contractor-management.md)
 
-[Contractor Portal](field-service-contractor-portal.md)
+[Contractor Portal](work-order-management/field-service-contractor-portal.md)
 
-[Contractor dashboard](../../../use/dashboards/application-content-packs/contractor-dashboard.md)
+[Contractor dashboard](contractor-dashboard.md)
 
 ## Emergency Exposure Management
 
@@ -79,7 +79,7 @@ The Emergency Exposure Management application enables you to do the following:
 **Related topics**  
 
 
-[Use Emergency Exposure Management for Field Service agent monitoring and assignments](use-exposure-management-fsm.md)
+[Use Emergency Exposure Management for Field Service agent monitoring and assignments](field-service-manager-workforce/use-exposure-management-fsm.md)
 
 ## Predictive analytics: Work order insights
 
@@ -98,5 +98,5 @@ System administrators train solution definitions to identify and cluster similar
 **Related topics**  
 
 
-[View work order trends topics](../task/view-wo-trends.md)
+[View work order trends topics](view-wo-trends.md)
 

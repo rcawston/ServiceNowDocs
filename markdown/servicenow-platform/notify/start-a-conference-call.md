@@ -77,5 +77,5 @@ Click **Add to selected**.
     **Note:** VoIP phone systems, which do not use touch tone phones, may encounter issues with recognizing key presses. To avoid problems, ensure that conference call users use touch tone phones, or configure your VoIP system settings to recognize key presses, as described in your VoIP system documentation.
 
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](c_NotifyConferenceCalls.md)
 

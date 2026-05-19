@@ -23,7 +23,7 @@ Role required: sn\_test\_management.test\_manager
 
 In Test Management 2.0, a test plan is broken into test cycles, and test cycles are broken into test execution suites. A test cycle represents a phase or iteration of testing within a test plan, such as regression testing or smoke testing. A test execution suite is the smallest unit of organization, containing the individual test assignments for testers.
 
-Use the **Planning** tab to manage this hierarchy from a single view. For more information about key terms, see [Test Management 2.0 overview](../concept/overview-test-management2.md).
+Use the **Planning** tab to manage this hierarchy from a single view. For more information about key terms, see [Test Management 2.0 overview](overview-test-management2.md).
 
 ## Procedure
 
@@ -170,5 +170,5 @@ When the zoom level in calender is selected as **Auto Fit**, the Gantt view fits
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Test Board in Test Management 2.0](../concept/test-board.md)
+**Parent Topic:**[Test Board in Test Management 2.0](test-board.md)
 

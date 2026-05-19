@@ -36,5 +36,5 @@ Role required: sn\_imt\_dashboard.admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](../concept/configrng-safe-workplce-dshbrd.md)
+**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](configrng-safe-workplce-dshbrd.md)
 

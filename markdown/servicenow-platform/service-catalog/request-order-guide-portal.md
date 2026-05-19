@@ -111,7 +111,7 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
         -   The **Opened By** field of the cloned requests is updated with the logged in user.
         -   A user can view the cloned request created for the user from the **Requests** menu option or the My Requests widget on the catalog homepage.
 
-**Parent Topic:**[Service Catalog in Service Portal](../concept/catalog-on-portal.md)
+**Parent Topic:**[Service Catalog in Service Portal](catalog-on-portal.md)
 
 **Related topics**  
 

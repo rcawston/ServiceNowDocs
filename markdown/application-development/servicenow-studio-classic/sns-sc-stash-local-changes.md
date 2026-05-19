@@ -40,5 +40,5 @@ Role required: admin
 6.  Select **Stash changes**.
 
 
-**Parent Topic:**[Work with changes in Git](../concept/sns-sc-work-with-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](sns-sc-work-with-changes-in-git.md)
 

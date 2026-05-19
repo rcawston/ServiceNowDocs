@@ -66,5 +66,5 @@ Description
 
 The records are scheduled for update or updated immediately. If you want to revert the updates to the records, see [Rollback an update job](rollback-update-job.md).
 
-**Parent Topic:**[Updating records safely in Core UI](../concept/updating-records-safely.md)
+**Parent Topic:**[Updating records safely in Core UI](updating-records-safely.md)
 

@@ -83,5 +83,5 @@ View the collaborators for the app by selecting the **Collaborators** tab. All c
 
 If you must take quick action in the application to fix an issue or defect, you can quickly see who has permissions to make changes in an app and what those permissions are.
 
-**Parent Topic:**[Managing app development using the App Engine Management Center](../../app-engine-management-center/concept/managing-app-development-using-aemc.md)
+**Parent Topic:**[Managing app development using the App Engine Management Center](managing-app-development-using-aemc.md)
 

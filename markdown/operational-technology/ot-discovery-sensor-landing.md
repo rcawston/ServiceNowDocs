@@ -27,14 +27,14 @@ Explore![](../images/BUS_64px_Explore_YG.png)
 
 Configure![](../images/BUS_64px_SDLC_YG.png)
 
- [Configure the Discovery Sensor for OT](../task/configure-ot-discovery-sensor.md)
+ [Configure the Discovery Sensor for OT](configure-ot-discovery-sensor.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
 **Log files**
 
-In order to review files on your Sensor and access logs for troubleshooting purposes, you can SSH from another machine that has network access to the Sensor. If you have to authenticate, use the default credentials. Refer to [Configure the Discovery Sensor for OT](../task/configure-ot-discovery-sensor.md) for the credentials.
+In order to review files on your Sensor and access logs for troubleshooting purposes, you can SSH from another machine that has network access to the Sensor. If you have to authenticate, use the default credentials. Refer to [Configure the Discovery Sensor for OT](configure-ot-discovery-sensor.md) for the credentials.
 
 If you have any errors or difficulties while using the Discovery Sensor for OT, contact [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 

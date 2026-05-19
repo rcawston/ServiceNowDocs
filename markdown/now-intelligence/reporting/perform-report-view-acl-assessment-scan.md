@@ -58,5 +58,5 @@ The time the assessment scan takes can vary according to the number of records i
     The Impacted Reports list shows the reports affected by ACLs.
 
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](report-view-acl-dashboard.md)
 

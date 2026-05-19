@@ -38,5 +38,5 @@ To create a pricing adjustment, see [Add pricing adjustment to a quote line item
     The pricing adjustment is updated and reflected on the overall quote pricing field.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

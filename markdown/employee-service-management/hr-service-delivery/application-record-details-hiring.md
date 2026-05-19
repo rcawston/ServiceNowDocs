@@ -30,7 +30,7 @@ The **Overview** tab displays the applicant details that include the basic infor
 
 The **Interview** tab lists all the interviews scheduled with the applicant with details such as interview name, type, state, start time, and duration. You can select an interview from the list to navigate to the interview record page and view the interview details, attendee list, and feedback received for the applicant.
 
-The **Feedback** tab displays the feedback received for the various interviews scheduled with the applicant. As a hiring manager, if you're one of the interviewers, you can select **Provide feedback** to [share your feedback](../task/provide-interview-feedback-hm-interviewer.md) with the recruiter. If needed, you can also edit your feedback.
+The **Feedback** tab displays the feedback received for the various interviews scheduled with the applicant. As a hiring manager, if you're one of the interviewers, you can select **Provide feedback** to [share your feedback](../interview-management/provide-interview-feedback-hm-interviewer.md) with the recruiter. If needed, you can also edit your feedback.
 
 **Parent Topic:**[Using Hiring](use-hiring.md)
 

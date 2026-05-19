@@ -110,7 +110,7 @@ Display name of the field in Azure DevOps.
 
 **Important:** If your custom map configuration is invalid or if the required fields are not mapped for that work item, the export and import action does not work.
 
-**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](../reference/customizing-map-config-agile-azure.md)
+**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](customizing-map-config-agile-azure.md)
 
 ## Configuring a reference field in Azure DevOps
 

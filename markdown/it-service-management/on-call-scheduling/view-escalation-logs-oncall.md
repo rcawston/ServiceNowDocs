@@ -21,9 +21,9 @@ Role required: rota\_admin or admin
 
 ## About this task
 
-This topic describes how to use the logs to access escalation information. You can also access escalation notification information from reports. See [Legacy: Viewing the Performance reports for escalations](../concept/viewing-performance-report-oncall.md).
+This topic describes how to use the logs to access escalation information. You can also access escalation notification information from reports. See [Legacy: Viewing the Performance reports for escalations](viewing-performance-report-oncall.md).
 
-You can enable or disable logging using the **com.snc.on\_call\_rotation.log\_escalations** property, as described in [System properties for On-Call Scheduling](../reference/on-call-properties.md).
+You can enable or disable logging using the **com.snc.on\_call\_rotation.log\_escalations** property, as described in [System properties for On-Call Scheduling](on-call-properties.md).
 
 ## Procedure
 
@@ -38,12 +38,12 @@ You can enable or disable logging using the **com.snc.on\_call\_rotation.log\_es
 3.  For each item in the related lists, you can click the Information icon \(![Information icon](../image/icon-information.png)\) to drill deeper into the details of the escalation \(for example, to determine **Time to acknowledge** values\).
 
 
-**Parent Topic:**[Escalations in On-Call Scheduling](../concept/escalations-oncall.md)
+**Parent Topic:**[Escalations in On-Call Scheduling](escalations-oncall.md)
 
 **Related topics**  
 
 
-[Designing an escalation process](../concept/designing-escalation-process-oncall.md)
+[Designing an escalation process](designing-escalation-process-oncall.md)
 
 [Track the progress of an escalation](track-escalation-progress-oncall.md)
 

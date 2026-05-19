@@ -40,5 +40,5 @@ Role required: sn\_shop.shopper, supplier
 9.  Select **Finish**.
 
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](shopper-todos.md)
 

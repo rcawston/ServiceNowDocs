@@ -21,7 +21,7 @@ Role required: admin, problem\_admin, problem\_manager or problem\_coordinator
 
 ## About this task
 
-When you communicate a workaround, notification is sent to related incidents that a workaround is available. The Incident process is designed to use the workaround information or to notify the user of the same. For more information on notification, refer [Synchronization between incident and problem records](../concept/sync-btwn-inci-prob.md).
+When you communicate a workaround, notification is sent to related incidents that a workaround is available. The Incident process is designed to use the workaround information or to notify the user of the same. For more information on notification, refer [Synchronization between incident and problem records](sync-btwn-inci-prob.md).
 
 **Note:** The topic applies to Problems where you have activated the Problem Management Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) plugin.
 
@@ -38,7 +38,7 @@ When you communicate a workaround, notification is sent to related incidents tha
 5.  Under Related Links, click **Communicate Workaround**.
 
 
-**Parent Topic:**[Communicating the outcome of a problem](../concept/communicate-outcome-of-problem.md)
+**Parent Topic:**[Communicating the outcome of a problem](communicate-outcome-of-problem.md)
 
 ## Communicate workaround \(legacy\)
 

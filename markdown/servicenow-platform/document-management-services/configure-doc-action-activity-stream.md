@@ -50,5 +50,5 @@ To add and attach documents to a record's activity stream, you would need to com
 7.  Select **Update**.
 
 
-**Parent Topic:**[Document attachments in an activity stream](../concept/activity-stream-for-documents.md)
+**Parent Topic:**[Document attachments in an activity stream](activity-stream-for-documents.md)
 

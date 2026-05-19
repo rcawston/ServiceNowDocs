@@ -45,7 +45,7 @@ The benefits are as follows:
 **Related topics**  
 
 
-[Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/task/activate-agentic-workflows.md)
+[Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](activate-agentic-workflows.md)
 
-[Identify risks for an entity using Now Assist for IRM](../task/identify-risks-for-entity.md)
+[Identify risks for an entity using Now Assist for IRM](identify-risks-for-entity.md)
 

@@ -245,5 +245,5 @@ Available options are:-   **None**
 -   **Lack of real alternatives and difficulties in migrating or reintegrating**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an assessment and enhance digital resilience data](../task/create-drtp-reg-assmt.md)
+</table>**Parent Topic:**[Create an assessment and enhance digital resilience data](create-drtp-reg-assmt.md)
 

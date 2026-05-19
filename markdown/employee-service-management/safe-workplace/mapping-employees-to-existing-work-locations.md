@@ -27,7 +27,7 @@ The data from the User Workplace Profile \[sn\_wsd\_core\_workplace\_profile\] t
     For example, if no spaces are available in the designated area of the employee, the application finds and reserves an available space from the floor of this area.
 
 
--   **[Map designated workspaces to user profiles](../task/map-employees-to-existing-workplace-locations-hr.md)**  
+-   **[Map designated workspaces to user profiles](map-employees-to-existing-workplace-locations-hr.md)**  
 Map existing designated workspaces to employee user profiles in Workplace Core. This mapping is used to automatically allocate workspaces for employees so they don't have to select a workspace manually when requesting a reservation.
 
 **Parent Topic:**[Workplace Core](workplace-safety-mgmt-hr.md)

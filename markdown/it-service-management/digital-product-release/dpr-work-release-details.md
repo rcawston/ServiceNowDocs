@@ -31,7 +31,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 5.  Select the **Release overview** tab to review the important dates, change requests, risk scores, tasks, and policy and approval statuses.
 
-    For more information, see [Release Overview dashboard](../concept/dpr-release-overview-dashboard.md).
+    For more information, see [Release Overview dashboard](dpr-release-overview-dashboard.md).
 
 6.  Select the **Details** tab to perform following actions:
 
@@ -47,7 +47,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
             -   To download an attachment, select the actions icon, select **Download**.
 7.  Select the **Quality** tab to review the software and test quality summaries for an ongoing release.
 
-    This tab is available only for the release of a product. For more information, see [Release Quality dashboard](../concept/dpr-release-quality-dashboard.md).
+    This tab is available only for the release of a product. For more information, see [Release Quality dashboard](dpr-release-quality-dashboard.md).
 
     **Note:** You must configure pipelines to track software quality of your release. For more information about setting up pipelines using external tools configuration, see [Integrate external tools from Digital Product Release Workspace](dpr-integrate-external-tool.md).
 

@@ -55,7 +55,7 @@ Role required: sn\_sec\_cmn.admin
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Security Operations common functionality](../concept/sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
 
 **Related topics**  
 

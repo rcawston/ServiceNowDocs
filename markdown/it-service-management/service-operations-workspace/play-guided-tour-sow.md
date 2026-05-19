@@ -34,7 +34,7 @@ Role required: admin
 5.  Select **Take a tour**.
 
 
-**Parent Topic:**[Operating IT services in your organization](../concept/enhancing-services-operations-in-organization.md)
+**Parent Topic:**[Operating IT services in your organization](enhancing-services-operations-in-organization.md)
 
 **Related topics**  
 
@@ -43,13 +43,13 @@ Role required: admin
 
 [Create a list in Service Operations Workspace](create-list-sow.md)
 
-[Live Agent chat in Service Operations Workspace](../concept/configure-liveagent-sow.md)
+[Live Agent chat in Service Operations Workspace](configure-liveagent-sow.md)
 
-[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+[Interaction Management in Service Operations Workspace](interaction-sow.md)
 
-[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+[Incident Management in Service Operations Workspace](incident-sow.md)
 
-[Request Management in Service Operations Workspace](../concept/request-sow.md)
+[Request Management in Service Operations Workspace](request-sow.md)
 
-[Change Management in Service Operations Workspace](../concept/change-sow.md)
+[Change Management in Service Operations Workspace](change-sow.md)
 

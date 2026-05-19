@@ -36,5 +36,5 @@ Client Software Distribution \(CSD\) uses [Software Asset Management](https://ra
     ![Revoking a software installation](../images/SCCMSoftwareInstallation.png)
 
 
-**Parent Topic:**[SCCM software revocation](../concept/sccm-revocation-ihub.md)
+**Parent Topic:**[SCCM software revocation](sccm-revocation-ihub.md)
 

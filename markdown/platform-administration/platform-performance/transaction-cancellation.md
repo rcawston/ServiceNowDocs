@@ -45,7 +45,7 @@ Administrators can configure the behavior of the transaction cancellation capabi
 |com.glide.request\_manager.active|Let users cancel long-running transactions \(enabled by default\).|Open the sys\_properties table by navigating to **All** and entering `sys_properties.list`.|
 |glide.ui.transaction.long\_response.time|Delay in seconds before the cancel transaction button appears for a long-running transaction.|Navigate to **All** &gt; **System Properties** &gt; **UI Properties** and locate the field labeled **Delay in seconds before the Transaction Cancel button is displayed for a long-running transaction**.|
 
--   **[View and kill active transaction](../task/t_ViewAndKillAnActiveTransaction.md)**  
+-   **[View and kill active transaction](t_ViewAndKillAnActiveTransaction.md)**  
 Administrators can view active transactions and kill long-running transactions.
 -   **[Canceled-transaction logging to a table](c_CanTranLogTbl.md)**  
 The system logs canceled transactions to a table in addition to the transaction log.

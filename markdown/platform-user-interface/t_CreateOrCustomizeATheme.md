@@ -27,7 +27,7 @@ Role required: admin
     -   To customize an existing theme, click the theme name.
 3.  Enter a name for the theme in the **Name** field.
 
-4.  Add any of the [default CSS styles](../reference/r_DefaultCSSStyle.md) in the **CSS** field.
+4.  Add any of the [default CSS styles](r_DefaultCSSStyle.md) in the **CSS** field.
 
     Sometimes the default style is not the only style definition for an object. In such cases, you can use the CSS [important rule](http://www.w3.org/TR/CSS2/cascade.html#important-rules) format to override any other style definitions with the default definition. For example, this definition overrides the text color in the main navigation: `$navpage-nav-color-sub: #fff !important`.
 
@@ -48,12 +48,12 @@ Role required: admin
 
 Refresh the page to see the new theme in the theme picker. The theme picker displays only themes that are compatible with the current version of the UI.
 
-**Parent Topic:**[CSS theme support](../concept/c_CSSThemeSupport.md)
+**Parent Topic:**[CSS theme support](c_CSSThemeSupport.md)
 
 **Related topics**  
 
 
-[Activating CSS theme support](../reference/r_ActivatingCSSThemeSupport.md)
+[Activating CSS theme support](r_ActivatingCSSThemeSupport.md)
 
-[Default CSS styles](../reference/r_DefaultCSSStyle.md)
+[Default CSS styles](r_DefaultCSSStyle.md)
 

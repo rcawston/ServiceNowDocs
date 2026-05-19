@@ -15,7 +15,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 Release admins can create approval definitions to get approvals of phase tasks for a release.
 
-For more information, see [Create an approval definition in Digital Product Release](../task/dpr-create-approval-definition.md).
+For more information, see [Create an approval definition in Digital Product Release](dpr-create-approval-definition.md).
 
 <table id="table_rmd_rj5_lyb"><thead><tr><th>
 
@@ -96,5 +96,5 @@ When you select this option, enter the percentage in the **Percentage** field.
 This field appears only when **Group** is selected from **Approval action**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Product Release reference](../concept/dpr-reference.md)
+</table>**Parent Topic:**[Digital Product Release reference](dpr-reference.md)
 

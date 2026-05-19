@@ -59,5 +59,5 @@ Role required: sn\_invst\_pln\_investment\_admin
 10. Click **Confirm**.
 
 
-**Parent Topic:**[Investment Funding administration](../concept/investment-funding-administration.md)
+**Parent Topic:**[Investment Funding administration](investment-funding-administration.md)
 

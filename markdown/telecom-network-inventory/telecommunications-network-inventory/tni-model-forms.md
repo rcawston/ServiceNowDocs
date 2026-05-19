@@ -20,5 +20,5 @@ The General section in the Inventory Model form enables you to create, review, a
 -   **[Inventory Model form - Information](tni-model-form-information.md)**  
 The Information section of the Inventory Model form enables you to create, review, and modify the network asset details of a model.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 

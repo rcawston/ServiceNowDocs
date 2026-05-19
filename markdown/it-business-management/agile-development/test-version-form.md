@@ -79,7 +79,7 @@ Run
 
 </td><td>
 
-Button used to run steps, which is displayed only when the test is in the **Ready** state. See [Run tests for a story in Agile Development 2.0](../../sdlc-scrum/task/run-test-plan-within-agile.md).
+Button used to run steps, which is displayed only when the test is in the **Ready** state. See [Run tests for a story in Agile Development 2.0](run-test-plan-within-agile.md).
 
 </td></tr><tr><td>
 
@@ -143,5 +143,5 @@ Option to delete a test step.
 **Related topics**  
 
 
-[Track sprint progress in Agile Development 2.0](../../sdlc-scrum/task/sprint-tracking-list.md)
+[Track sprint progress in Agile Development 2.0](sprint-tracking-list.md)
 

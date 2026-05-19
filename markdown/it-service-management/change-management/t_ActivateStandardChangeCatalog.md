@@ -55,10 +55,10 @@ Change management is used to create and manage change requests. Once this is act
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with Change Management - Standard Change Catalog](../reference/r_InstlldWthStdChgCat.md#)**  
+-   **[Installed with Change Management - Standard Change Catalog](r_InstlldWthStdChgCat.md#)**  
 Several types of components are installed with Change Management - Standard Change Catalog.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 
@@ -105,9 +105,9 @@ Several types of components are installed with Change Management - Standard Chan
 
 [Activate Change Management - Data Archiving](activate-data-retention-archive-rule.md)
 
-[Standard change catalog](../concept/c_StandardChangeCatalogPlugin.md)
+[Standard change catalog](c_StandardChangeCatalogPlugin.md)
 
-[Change Management properties](../reference/r_ChangeManagementProperties.md)
+[Change Management properties](r_ChangeManagementProperties.md)
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

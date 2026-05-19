@@ -55,7 +55,7 @@ Credential ID
 
 </td><td>
 
-Enter the unique key configured for these credentials in the [CyberArk](../concept/c_CyberArkCredStorageIntegrate.md) external credential storage system. The credential ID may be used as a safe override when multiple safes are in use. By default, the syntax in the **Credential ID** field is this: **&lt;safe name&gt;:&lt;Credential ID&gt;**. If the safe name is omitted, there must be a safe name defined in the `config.xml` file. To change the separator character from the default colon to another character, override the value with the optional [**ext.cred.safe\_name**](../task/t_ConfigureTheMIDServerForCyberArk.md) parameter. The **Credential ID** field has a limit of 40 characters.This field is only visible when the **External storage** check box is selected.
+Enter the unique key configured for these credentials in the [CyberArk](c_CyberArkCredStorageIntegrate.md) external credential storage system. The credential ID may be used as a safe override when multiple safes are in use. By default, the syntax in the **Credential ID** field is this: **&lt;safe name&gt;:&lt;Credential ID&gt;**. If the safe name is omitted, there must be a safe name defined in the `config.xml` file. To change the separator character from the default colon to another character, override the value with the optional [**ext.cred.safe\_name**](t_ConfigureTheMIDServerForCyberArk.md) parameter. The **Credential ID** field has a limit of 40 characters.This field is only visible when the **External storage** check box is selected.
 
 </td></tr><tr><td>
 

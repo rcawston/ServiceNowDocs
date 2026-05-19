@@ -89,9 +89,9 @@ The Task-Outage table \[task\_outage\] maintains the mapping between the Task \[
 </td></tr></tbody>
 </table>**Note:** For new or zboot instances, the ITSM Enhanced Security Features \(com.snc.itsm.enhanced\_security\) plugin is auto installed.
 
-The ITSM Enhanced Security Features \(com.snc.itsm.enhanced\_security\) plugin can be installed and activated by an admin via a support request. Existing or upgrade users must test and evaluate the results in their non-production instance and then install the plugin and implement the security change in their production instance. For more information, see [Activate ITSM Enhanced Security Features for Incident Management](../task/activate-itsm-enhanced-security-inci-mangmnt.md).
+The ITSM Enhanced Security Features \(com.snc.itsm.enhanced\_security\) plugin can be installed and activated by an admin via a support request. Existing or upgrade users must test and evaluate the results in their non-production instance and then install the plugin and implement the security change in their production instance. For more information, see [Activate ITSM Enhanced Security Features for Incident Management](activate-itsm-enhanced-security-inci-mangmnt.md).
 
--   **[Activate ITSM Enhanced Security Features for Incident Management](../task/activate-itsm-enhanced-security-inci-mangmnt.md)**  
+-   **[Activate ITSM Enhanced Security Features for Incident Management](activate-itsm-enhanced-security-inci-mangmnt.md)**  
 Prevent unauthorized access to incident-related tables using deny unless authenticated ACLs by activating the ITSM Enhanced Security Features \(com.snc.itsm.enhanced\_security\) plugin.
 
 **Parent Topic:**[Reference section for Incident Management](reference-section-for-incident-management.md)

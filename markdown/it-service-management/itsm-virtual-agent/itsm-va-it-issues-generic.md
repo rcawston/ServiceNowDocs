@@ -74,7 +74,7 @@ Requirements:
 
 ![Local Admin Access topic.](../image/LocalAdminAccess.png)
 
-To set up and use the Local Admin Access topic, refer to [Set up the Local Admin Access topic](../task/setup-admin-access.md).
+To set up and use the Local Admin Access topic, refer to [Set up the Local Admin Access topic](setup-admin-access.md).
 
 ## Meeting Room Issues
 
@@ -89,7 +89,7 @@ This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
 
 ## Printer Issues
 
-Users can request help with issues associated with a printer, such as no ink, printer not working, or connectivity problems. This topic can be used with [Issue Auto Resolution](../concept/itsm-va-auto-resolution.md).
+Users can request help with issues associated with a printer, such as no ink, printer not working, or connectivity problems. This topic can be used with [Issue Auto Resolution](itsm-va-auto-resolution.md).
 
 This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
 
@@ -139,5 +139,5 @@ This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
 
 ![VPN Connectivity topic.](../image/VPNConnectivity.png)
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

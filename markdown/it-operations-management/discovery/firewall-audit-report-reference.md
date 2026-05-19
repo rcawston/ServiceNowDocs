@@ -15,11 +15,11 @@ breadcrumb: [Firewall Audits and Reporting, ITOM Visibility, IT Operations Manag
 
 Reference topics provide additional information about Firewall Audits and Reporting components, including dashboards and report calibration.
 
--   **[Firewall Admin Workspace dashboard](../concept/firewall-admin-workspace-dashboard.md)**  
+-   **[Firewall Admin Workspace dashboard](firewall-admin-workspace-dashboard.md)**  
 The unified dashboard enables security and risk teams to oversee tasks, change requests, and the entire firewall inventory life cycle, with daily or manual updates for accurate and current information.
 -   **[Firewall Audits and Reporting calibration](firewall-audit-report-references.md)**  
 Explore further details on Firewall Audits and Reporting calibration by reviewing the provided material.
--   **[Quick start test for Firewall Audits and Reporting](../../../administer/atf-quick-start-tests/reference/quick-start-tests-firewall-audits-and-reporting.md)**  
+-   **[Quick start test for Firewall Audits and Reporting](quick-start-tests-firewall-audits-and-reporting.md)**  
 Quick start test for Firewall Audits and Reporting to validate configuration items \(CI\) and their relationships.
 
 **Parent Topic:**[Firewall Audits and Reporting](firewall-audit-reporting.md)

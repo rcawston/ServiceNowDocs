@@ -31,7 +31,7 @@ The following plugins are installed with the Service Exchange for Consumers appl
 -   com.glide.hub.process.sync
 -   com.snc.ihub\_spoke\_util\_pack
 
-Apart from these, several components including roles, business rules, tables, and flows are also installed. For more information about the components that are installed with this application, see [Components installed with Service Exchange for Consumers](../reference/service-bridge-v2-installed-components-customer.md).
+Apart from these, several components including roles, business rules, tables, and flows are also installed. For more information about the components that are installed with this application, see [Components installed with Service Exchange for Consumers](service-bridge-v2-installed-components-customer.md).
 
 ## Procedure
 

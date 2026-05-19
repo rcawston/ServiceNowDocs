@@ -38,12 +38,12 @@ By default, Discovery includes temporary Azure Databricks VMs in discovery resul
 5.  Select **Update**.
 
 
-**Parent Topic:**[Azure virtual machine pattern-based discovery](../reference/azure-vm-pattern.md)
+**Parent Topic:**[Azure virtual machine pattern-based discovery](azure-vm-pattern.md)
 
 **Related topics**  
 
 
-[Azure virtual machine pattern-based discovery](../reference/azure-vm-pattern.md)
+[Azure virtual machine pattern-based discovery](azure-vm-pattern.md)
 
-[Microsoft Azure Cloud discovery using patterns](../reference/azure-cloud-discovery-patterns.md)
+[Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md)
 

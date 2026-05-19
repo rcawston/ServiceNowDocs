@@ -41,7 +41,7 @@ Follow these steps to create an asset manually.
     This action creates assets from all CIs deferred for verification in this model category. This option is only available for users with the admin role.
 
 
-**Parent Topic:**[Model categories](../concept/c_ModelCategories.md)
+**Parent Topic:**[Model categories](c_ModelCategories.md)
 
 **Related topics**  
 

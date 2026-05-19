@@ -46,8 +46,8 @@ Role required: admin
 
     The two choices in the base system are: Mark as Ignored and Move to Junk. You can use the Action script to perform additional email tasks.
 
-    **Note:** Before creating additional email actions with a script, see [Inbound Email Actions](../concept/c_InboundEmailActions.md). Like business rules, inbound email actions use both conditions and scripts and can provide a number of useful actions on emails the instance receives.
+    **Note:** Before creating additional email actions with a script, see [Inbound Email Actions](c_InboundEmailActions.md). Like business rules, inbound email actions use both conditions and scripts and can provide a number of useful actions on emails the instance receives.
 
 
-**Parent Topic:**[Email filters](../concept/c_EmailFilters.md)
+**Parent Topic:**[Email filters](c_EmailFilters.md)
 

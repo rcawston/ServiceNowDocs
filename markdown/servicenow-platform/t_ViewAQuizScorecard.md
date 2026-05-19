@@ -19,7 +19,7 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-For detailed information about scorecards, see [Quiz scorecards](../concept/c_QuizScorecards.md).
+For detailed information about scorecards, see [Quiz scorecards](c_QuizScorecards.md).
 
 ## Procedure
 

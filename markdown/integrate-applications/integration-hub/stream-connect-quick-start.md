@@ -48,7 +48,7 @@ This quick start guide has five steps. Steps 1 and 2 cover how to set up and tes
 3.  Now you can [Use the Kafka Message trigger and Script consumer to consume messages](stream-connect-quick-start.md#). The first part of this page shows you how to use the Kafka Message trigger in Workflow Studio to retrieve messages from Kafka. The second part shows you how to use the Script consumer to retrieve messages.
 4.  And [Use the ETL and Transform Map consumers to import data](stream-connect-quick-start.md#). ETL definitions and transform maps specify the transformation logic to use when pulling data through scheduled imports. You can use the same ETL definitions and transform maps to transform the events received through Kafka.
 
-    **Note:** To use the ETL consumer, you need a [robust import set transformer](../../import-sets/concept/robust-import-set-transformers.md). Likewise, to use the Transform Map consumer, you need a [transform map](../../../script/server-scripting/concept/c_CreatingNewTransformMaps.md).
+    **Note:** To use the ETL consumer, you need a [robust import set transformer](../system-import-sets/robust-import-set-transformers.md). Likewise, to use the Transform Map consumer, you need a [transform map](../system-import-sets/c_CreatingNewTransformMaps.md).
 
 5.  Finally, you can [Use the Kafka Producer step and the ProducerV2 API to publish messages](stream-connect-quick-start.md#). This page shows you how to use both the Kafka Producer step in Workflow Studio and the ProducerV2 API to push messages to Kafka.
 
@@ -224,7 +224,7 @@ Retrieve messages from Hermes with the Kafka Message trigger in Workflow Studio 
 
 -   Role required: integration\_hub\_admin
 -   The first part of this section shows you how to use the Kafka Message trigger in Workflow Studio to consume messages. For more information about the trigger, see [Create a flow with a Kafka Message trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow-kafka.md).
--   The second part of this section shows you how to use the Script consumer to consume messages. For more information, see [Configure a script consumer](../tasks/configure-script-consumer.md).
+-   The second part of this section shows you how to use the Script consumer to consume messages. For more information, see [Configure a script consumer](configure-script-consumer.md).
 
 ### Procedure
 
@@ -367,8 +367,8 @@ Use ETL definitions and transform maps to process Kafka events. ETL definitions 
 ### Before you begin
 
 -   Role required: integration\_hub\_admin
--   The first part of this section shows you how to use the ETL Consumer to consume messages. To use the ETL consumer, you need a [robust import set transformer](../../import-sets/concept/robust-import-set-transformers.md).
--   The second part of this section shows you how to use a Transform Map consumer to consume messages. To use the Transform Map Consumer, you need a [transform map](../../../script/server-scripting/concept/c_CreatingNewTransformMaps.md).
+-   The first part of this section shows you how to use the ETL Consumer to consume messages. To use the ETL consumer, you need a [robust import set transformer](../system-import-sets/robust-import-set-transformers.md).
+-   The second part of this section shows you how to use a Transform Map consumer to consume messages. To use the Transform Map Consumer, you need a [transform map](../system-import-sets/c_CreatingNewTransformMaps.md).
 
 ### Procedure
 
@@ -414,7 +414,7 @@ Use ETL definitions and transform maps to process Kafka events. ETL definitions 
 
     7.  Save the form.
 
-    8.  [Create a Kafka stream](../tasks/create-kafka-stream.md) for the consumer.
+    8.  [Create a Kafka stream](create-kafka-stream.md) for the consumer.
 
     9.  On the Kafka Stream form, set the following field values.
 
@@ -477,7 +477,7 @@ Use ETL definitions and transform maps to process Kafka events. ETL definitions 
 
     5.  Save the form.
 
-    6.  [Create a Kafka stream](../tasks/create-kafka-stream.md) for the consumer.
+    6.  [Create a Kafka stream](create-kafka-stream.md) for the consumer.
 
     7.  On the Kafka Stream form, set the following field values.
 

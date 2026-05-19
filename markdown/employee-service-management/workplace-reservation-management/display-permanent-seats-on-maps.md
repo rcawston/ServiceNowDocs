@@ -58,7 +58,7 @@ Role required: admin
         -   General request \(Order something\)
 3.  On the Make a reservation page, perform the following steps:
 
-    For more information about how to make a reservation or update an existing reservation, see [Create a reservation](create-reservation-request-1.md).
+    For more information about how to make a reservation or update an existing reservation, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
     1.  Select a location and building.
 
@@ -105,7 +105,7 @@ Role required: admin
 
     2.  Complete the steps for a move request.
 
-        For more information, see [Raise a move request for a space change](../../workplace-move-mgmt/task/request-desk-change.md).
+        For more information, see [Raise a move request for a space change](../workplace-case-management/request-desk-change.md).
 
     3.  Select the **Find the space on a floor map** link.
 
@@ -123,7 +123,7 @@ Role required: admin
 
     2.  Complete the steps for ordering furniture or equipment.
 
-        For more information, see [Request furniture for a space](../../workplace-case-mgmt/task/request-furniture.md).
+        For more information, see [Request furniture for a space](../workplace-case-management/request-furniture.md).
 
     3.  Select the **Find the space on a floor map** link.
 
@@ -141,7 +141,7 @@ Role required: admin
 
     2.  Complete the steps for submitting a general workplace service request.
 
-        For more information, see [Raise help request for a workplace inquiry](../../workplace-case-mgmt/task/submit-gen-workplace-serv-req.md).
+        For more information, see [Raise help request for a workplace inquiry](../workplace-case-management/submit-gen-workplace-serv-req.md).
 
     3.  Select the **Find the space on a floor map** link.
 
@@ -172,7 +172,7 @@ Role required: admin
         Employee names along with their assigned seats are displayed for a selected space.
 
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -211,9 +211,9 @@ Role required: admin
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

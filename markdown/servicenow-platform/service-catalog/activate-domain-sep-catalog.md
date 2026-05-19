@@ -78,5 +78,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Domain separation and Service Catalog](../concept/domain-separation-service-catalog-management.md)
+**Parent Topic:**[Domain separation and Service Catalog](domain-separation-service-catalog-management.md)
 

@@ -61,7 +61,7 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 [Register to the Supplier Collaboration Portal as an invited member](register-invited-member-supp-central.md).
 
-**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](../concept/managing-contacts-smw.md)
+**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](managing-contacts-smw.md)
 
 **Related topics**  
 

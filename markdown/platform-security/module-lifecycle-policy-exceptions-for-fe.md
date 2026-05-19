@@ -42,5 +42,5 @@ Module lifecycle policy exceptions change the lifecycle policy of Field Encrypti
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Field Encryption](../concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

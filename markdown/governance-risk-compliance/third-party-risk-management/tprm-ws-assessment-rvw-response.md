@@ -29,7 +29,7 @@ To enable TPR assessors to modify responses, configure the **Allow TPR assessors
 -   Enable TPR assessors to modify responses
 -   Do not enable TPR assessors to answer questions or modify responses
 
-See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+See [Configure TPRM properties](tprm-properties-configure.md).
 
 ## Procedure
 

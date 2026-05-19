@@ -17,7 +17,7 @@ The GlideHTTPRequest API provides utility methods to perform common functions wi
 
 You can use this API in global server-side scripts. To use this class, instantiate a GlideHTTPRequest object using the constructor. The constructor requires an endpoint URL as an input parameter.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideHTTPRequest - addHeader\(String name, String value\)
 

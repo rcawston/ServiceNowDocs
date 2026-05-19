@@ -32,7 +32,7 @@ ReleaseOps automates deployment of changes across your pipeline, increases predi
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about ReleaseOps deployment and release states.](../reference/releaseops-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about ReleaseOps deployment and release states.](releaseops-reference.md)
 
 </td><td>
 

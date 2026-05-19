@@ -38,7 +38,7 @@ If you haven’t selected a display experience, branding options aren’t shown.
 
 1.  Select a default branding or an existing customized branding.
 
-    **Note:** To create and edit additional settings, select the **Conversational interfaces console** link. For more information, see [Set up your Virtual Agent bot's branding](../../conversational-interfaces/task/ac-configure-chat-branding.md).
+    **Note:** To create and edit additional settings, select the **Conversational interfaces console** link. For more information, see [Set up your Virtual Agent bot's branding](../ac-configure-chat-branding.md).
 
     If your display experience only has standard chat, the **Standard chat** section and branding preview are shown.
 
@@ -50,7 +50,7 @@ If you haven’t selected a display experience, branding options aren’t shown.
 
     The chat header logo is shared between standard and enhanced chat, and it's determined by the selected standard chat branding profile. You can't configure a separate chat header logo for each experience. Updating the chat header logo in one experience updates it for the other.
 
-    Learn more about customizing the look-and-feel of enhanced chat by navigating to [Theming for Now Assist in Virtual Agent enhanced chat](../reference/theming-na-full-page-experience.md).
+    Learn more about customizing the look-and-feel of enhanced chat by navigating to [Theming for Now Assist in Virtual Agent enhanced chat](theming-na-full-page-experience.md).
 
     If your display experience has premium chat, the **Premium chat** section is shown.
 
@@ -78,8 +78,8 @@ If you haven’t selected a display experience, branding options aren’t shown.
 
     A **Channels** section is shown for Now Assist in Virtual Agent assistants and the default Employee Slate assistant if a channel is configured in the display experience.
 
-    -   [Configure branding for your ServiceNow Virtual Agent bot in Microsoft Teams](../../virtual-agent/task/configure-msteams-branding.md)
-    -   [Configure branding for your Virtual Agent bot in Slack](../../virtual-agent/task/slack-branding-overview.md)
+    -   [Configure branding for your ServiceNow Virtual Agent bot in Microsoft Teams](../virtual-agent/configure-msteams-branding.md)
+    -   [Configure branding for your Virtual Agent bot in Slack](../virtual-agent/slack-branding-overview.md)
     **Note:** Branding selections must happen in the channel, and not in the platform.
 
 3.  Select **Save and continue**.

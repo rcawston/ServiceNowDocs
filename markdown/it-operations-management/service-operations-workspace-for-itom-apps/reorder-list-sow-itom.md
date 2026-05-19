@@ -36,5 +36,5 @@ Role required: itil
     ![Reorder lists](../image/sow-reorder-list.png)
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](workspace-dashboard-use.md)
 

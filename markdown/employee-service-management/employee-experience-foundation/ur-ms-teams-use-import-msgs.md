@@ -79,5 +79,5 @@ Option to import messages into the record. Choices are as follows:-   **Addition
 7.  Click **Import messages**.
 
 
-**Parent Topic:**[Manage chat messages from a record](../concept/ur-mst-use-start-import-chat.md)
+**Parent Topic:**[Manage chat messages from a record](ur-mst-use-start-import-chat.md)
 

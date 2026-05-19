@@ -46,7 +46,7 @@ Let us consider an example where you want to create a template to log an inciden
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Incident templates and record producers](../concept/incident-templates-record-producers.md)
+**Parent Topic:**[Incident templates and record producers](incident-templates-record-producers.md)
 
 **Related topics**  
 

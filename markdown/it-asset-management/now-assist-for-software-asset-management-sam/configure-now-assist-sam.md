@@ -53,11 +53,11 @@ Starting with the Zurich Patch 4 release, generative AI skills for Now Assist fo
 
 8.  In the Review and activate section, review your choices and select **Activate**.
 
-    The Successfully activated message box opens and the skill is activated. You're ready to use the skill in the Software Asset Workspace. For details on using the skills, see [Using generative AI skills in Now Assist for SAM](../concept/using-now-assist-sam.md).
+    The Successfully activated message box opens and the skill is activated. You're ready to use the skill in the Software Asset Workspace. For details on using the skills, see [Using generative AI skills in Now Assist for SAM](using-now-assist-sam.md).
 
 
--   **[Skill inputs and triggers for Now Assist for Software Asset Management \(SAM\)](../reference/now-assist-sam-skills-inputs.md)**  
+-   **[Skill inputs and triggers for Now Assist for Software Asset Management \(SAM\)](now-assist-sam-skills-inputs.md)**  
 Get a quick overview of the skill inputs and triggers for Now Assist for Software Asset Management \(SAM\). By configuring the inputs or triggers for a skill, you can determine how and when a skill is used.
 
-**Parent Topic:**[Now Assist for Software Asset Management \(SAM\)](../concept/now-assist-sam.md)
+**Parent Topic:**[Now Assist for Software Asset Management \(SAM\)](now-assist-sam.md)
 

@@ -127,5 +127,5 @@ Original breach time
 The date/time the SLA would breach, as calculated when the SLA is first attached.**Note:** You may have to configure the form to see this field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Level Management reference](../concept/service-level-management-reference.md)
+</table>**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
 

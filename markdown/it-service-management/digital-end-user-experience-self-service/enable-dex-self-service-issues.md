@@ -33,7 +33,7 @@ Role required: sn\_dex.admin
 
 4.  Select the **Enabled in DEX Now Assist topic** check box to enable the issue in Now Assist for ITSM.
 
-    The ITSM Virtual Agent enables you to check your device's health using prebuilt LLM topic conversation. For more information, see [ITSM Virtual Agent pre-built LLM topics](../../now-assist-itsm/concept/itsm-va-prebuilt-topics.md).
+    The ITSM Virtual Agent enables you to check your device's health using prebuilt LLM topic conversation. For more information, see [ITSM Virtual Agent pre-built LLM topics](../now-assist-for-it-service-management-itsm/itsm-va-prebuilt-topics.md).
 
 5.  Verify that the issue code in the **Resolution** field is active.
 

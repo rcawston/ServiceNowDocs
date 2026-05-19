@@ -224,9 +224,9 @@ Delete the record.
 
 Activate an EDL manually, or with a ServiceNow AI Platform change request.
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
-**Previous topic:**[Supported External Dynamic Lists for Palo Alto Networks Next-Generation Firewall](../reference/paloalto_supported_edls.md)
+**Previous topic:**[Supported External Dynamic Lists for Palo Alto Networks Next-Generation Firewall](paloalto_supported_edls.md)
 
 **Next topic:**[Activate an EDL for Palo Alto Networks Next-Generation Firewall](paloalto-activate-edl.md)
 

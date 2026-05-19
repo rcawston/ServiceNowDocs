@@ -51,8 +51,8 @@ WinRM is automatically installed on Windows 2008 R2 and above operating systems,
 
 -   **[MID Server PowerShell files](mid-server-powershell-files.md)**  
 PowerShell functions are stored in script files \(\*.ps1\) that use a PowerShell Script module \(\*.psm1\) file name extension.
--   **[PowerShell troubleshooting](../concept/powershell-troubleshooting.md#)**  
+-   **[PowerShell troubleshooting](powershell-troubleshooting.md#)**  
 Authentication and access denied errors can prevent PowerShell activities from running a command on a target host.
 
-**Parent Topic:**[PowerShell activity pack](../../../administer/orchestration-activities/concept/c_OrchestrPwrshellActivityPack.md)
+**Parent Topic:**[PowerShell activity pack](c_OrchestrPwrshellActivityPack.md)
 

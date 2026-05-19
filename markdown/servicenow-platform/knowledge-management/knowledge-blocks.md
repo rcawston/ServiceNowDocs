@@ -21,17 +21,17 @@ Knowledge blocks are available for use in ServiceNow AI Platform only.
 
 To use knowledge blocks, a knowledge administrator or manager must enable the knowledge blocks feature for each knowledge base in which the blocks will be used.
 
-[Enable knowledge blocks for each knowledge base](../task/enable-knowledge-blocks-for-knowledge-base.md)
+[Enable knowledge blocks for each knowledge base](enable-knowledge-blocks-for-knowledge-base.md)
 
 Knowledge contributors can create knowledge blocks and insert them into articles in a knowledge base:
 
 **Note:** Knowledge blocks are not supported in articles of type wiki. By default, knowledge block doesn't show files attached to it. However, you can see images and text are visible on KB's created from block files.
 
--   [Create a knowledge block](../task/create-modify-knowledge-block.md)
--   [Add knowledge blocks to a knowledge article](../task/add-knowledge-block-to-knowledge-article.md)
--   [Preview a knowledge article with knowledge blocks by user or date](../task/preview-knowledge-article-with-knowledge-blocks.md)
+-   [Create a knowledge block](create-modify-knowledge-block.md)
+-   [Add knowledge blocks to a knowledge article](add-knowledge-block-to-knowledge-article.md)
+-   [Preview a knowledge article with knowledge blocks by user or date](preview-knowledge-article-with-knowledge-blocks.md)
 
-Knowledge block content can be read or not read in an article or search based on user criteria set at the knowledge base and knowledge block level. See [Select user criteria for a knowledge block](../task/select-user-criteria-for-knowledge-block.md) for more information.
+Knowledge block content can be read or not read in an article or search based on user criteria set at the knowledge base and knowledge block level. See [Select user criteria for a knowledge block](select-user-criteria-for-knowledge-block.md) for more information.
 
 ## Holiday calendar with location-specific knowledge block content
 
@@ -57,7 +57,7 @@ If you are using a custom search or knowledge article viewer with your applicati
 
 ## Activation information
 
-To use knowledge blocks in your application, you must [activate knowledge blocks](../task/activate-knowledge-blocks.md). For information on what components are installed with the feature, see [Components installed with knowledge blocks](../reference/components-installed-with-knowledge-blocks.md).
+To use knowledge blocks in your application, you must [activate knowledge blocks](activate-knowledge-blocks.md). For information on what components are installed with the feature, see [Components installed with knowledge blocks](components-installed-with-knowledge-blocks.md).
 
-**Note:** Activating knowledge blocks automatically activates Knowledge Management Advanced, which enables advanced features such as article versioning. Knowledge blocks can be used with or without the article versioning feature. To disable the feature, see [Disable the article versioning feature](../task/article-versioning-disable-property.md).
+**Note:** Activating knowledge blocks automatically activates Knowledge Management Advanced, which enables advanced features such as article versioning. Knowledge blocks can be used with or without the article versioning feature. To disable the feature, see [Disable the article versioning feature](article-versioning-disable-property.md).
 

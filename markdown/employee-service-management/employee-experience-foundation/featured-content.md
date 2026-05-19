@@ -25,6 +25,6 @@ Mark the most important content as featured content so that employees can quickl
 -   Highlight the items at the top of topic pages to improve discoverability.
 -   Ensure employees see high-impact information first.
 -   Personalize user content experience on widgets.For more information, see
-    -   [Associate featured content to a topic](../task/associate-featured-content-to-topic.md)
-    -   [Featured Content form](../reference/featured-content-form.md)
+    -   [Associate featured content to a topic](associate-featured-content-to-topic.md)
+    -   [Featured Content form](featured-content-form.md)
 

@@ -38,7 +38,7 @@ The project is reset to its original state.
 
 **Note:** This option should be used only when something goes wrong, for example, if the project is corrupted or you are facing sync issues.
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
 
 **Related topics**  
 

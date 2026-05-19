@@ -104,5 +104,5 @@ Role required: admin
         -   If your consumers require it, specify the Kafka JSON Converters properties to disable schemas: “key.converter.schemas.enable=false”, “value.converter.schemas.enable=false”
     -   Verify Kafka consumer pulling logs from Hermes: Verify in your chosen Kakfa consumer that you can pull log events from the Hermes Messaging Service.
 
-**Parent Topic:**[Kafka consumer](../concept/les-kafka-consumer.md)
+**Parent Topic:**[Kafka consumer](les-kafka-consumer.md)
 

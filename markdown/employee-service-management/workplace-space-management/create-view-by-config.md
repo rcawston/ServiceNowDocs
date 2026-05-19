@@ -27,21 +27,21 @@ Role required: sn\_wsd\_spcmgmt.admin
 
 3.  On the View by Configuration form, fill in the fields.
 
-    For a description of the field values, see [View by Configuration form](../reference/view-by-configuration-form.md).
+    For a description of the field values, see [View by Configuration form](view-by-configuration-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
 [Add a campus](add-a-campus.md)
 
-[Add a building using Workplace Space Management](add-new-building-1.md)
+[Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](add-a-floor-1.md)
+[Add a floor using Workplace Space Management](../employee-service-management/add-a-floor-1.md)
 
 [Add an area using Workplace Space Management](add-an-area.md)
 
@@ -65,5 +65,5 @@ Role required: sn\_wsd\_spcmgmt.admin
 
 [Raise a space assistance request](raise-a-space-recommendation-request.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](reviewing-allocation-changes.md)
 

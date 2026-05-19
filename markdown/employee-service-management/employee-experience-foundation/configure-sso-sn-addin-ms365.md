@@ -32,5 +32,5 @@ Role required: sn\_outlook\_addin.outlook\_addin\_setup, sn\_hr\_sp.admin, sn\_h
     ![Office Manifest form with the Login Page not Required field selected and an SSO domain URL added to the Allowed Domains field.](../images/sn-addin-ms365-sso.png)
 
 
-**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](../concept/configuring-sn-addin-for-ms365.md)
+**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](configuring-sn-addin-for-ms365.md)
 

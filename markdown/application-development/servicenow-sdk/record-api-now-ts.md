@@ -22,7 +22,7 @@ The Record API defines records in any table. Use the Record API to define applic
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## Record object
 

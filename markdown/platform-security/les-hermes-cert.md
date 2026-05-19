@@ -26,7 +26,7 @@ Make sure the following setup is in place:
 
 Role required: hermes\_admin, sn\_kmf.cryptographic\_manager, or admin
 
-For details on assigning KMF roles, see [Roles installed with Key Management Framework](../../key-management-framework/reference/kmf-roles.md#).
+For details on assigning KMF roles, see [Roles installed with Key Management Framework](platform-encryption/kmf-roles.md#).
 
 ## Procedure
 
@@ -100,12 +100,12 @@ You can now create a secure connection to the Hermes Messaging Service.
 
 [Check the status of and connection to the Hermes Kafka cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/run-hermes-messaging-service-diagnostics.md).
 
-**Parent Topic:**[Configuring Log Export Service \(LES\)](../concept/les-configure.md)
+**Parent Topic:**[Configuring Log Export Service \(LES\)](les-configure.md)
 
 **Related topics**  
 
 
-[Kafka consumer](../concept/les-kafka-consumer.md)
+[Kafka consumer](les-kafka-consumer.md)
 
-[MID server consumer](../concept/les-mid-server-consumer.md)
+[MID server consumer](les-mid-server-consumer.md)
 

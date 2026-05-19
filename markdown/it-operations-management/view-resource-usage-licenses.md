@@ -33,6 +33,6 @@ See ITOM detailed licensing data over time with the ITOM Licensing Dashboard. Vi
 
 4.  Select the bar to view a list of the counted CIs.
 
-5.  Review the dashboard described in [ITOM/OT SU Licensing dashboard](../../../use/dashboards/application-content-packs/itom-licensing-dashboard.md).
+5.  Review the dashboard described in [ITOM/OT SU Licensing dashboard](itom-licensing-dashboard.md).
 
 

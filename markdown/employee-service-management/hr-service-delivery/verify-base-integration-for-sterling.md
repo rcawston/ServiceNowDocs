@@ -68,7 +68,7 @@ Role required: sn\_hr\_integrations.admin
         |HR Integrations Background Check Staging \[sn\_hr\_integrations\_background\_check\_staging\]|HR Talent Management Case \[sn\_hr\_core\_case\_talent\_management\]|
 
 
-**Parent Topic:**[Integrating with the Sterling Talent Solutions service](../concept/integrate-with-sterling-service.md)
+**Parent Topic:**[Integrating with the Sterling Talent Solutions service](integrate-with-sterling-service.md)
 
 **Previous topic:**[Provide source credentials for the Sterling service](hr-integrations-sources-sterling.md)
 

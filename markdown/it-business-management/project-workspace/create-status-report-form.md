@@ -38,5 +38,5 @@ Learn about the fields on the Create status report form of the Project Workspace
 **Related topics**  
 
 
-[Create a status report in Project Workspace](../task/create-a-status-report-in-project-workspace.md)
+[Create a status report in Project Workspace](create-a-status-report-in-project-workspace.md)
 

@@ -37,7 +37,7 @@ A Data port turns red when you turn off the logging on that port. For example, s
 
 To turn on the logging, right-click the inactive Data port and select **Turn on logging**.
 
-A Data port turns green when the data is transformed. For example, it turns green when it converts any information existing within a Data port from one format to another. To do that, right-click the Data In or Data Out port and select **Transform Data**. For more information, see [Transform the data in RPA Desktop Design Studio](../task/transform-data-gen-rpa-studio.md).
+A Data port turns green when the data is transformed. For example, it turns green when it converts any information existing within a Data port from one format to another. To do that, right-click the Data In or Data Out port and select **Transform Data**. For more information, see [Transform the data in RPA Desktop Design Studio](transform-data-gen-rpa-studio.md).
 
 **Parent Topic:**[Building automations](rpa-studio-build.md)
 

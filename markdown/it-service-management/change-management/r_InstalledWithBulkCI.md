@@ -15,7 +15,7 @@ breadcrumb: [Activate Change Management - Mass Update CI, Change Management plug
 
 Several types of components are installed with the Change Management - Mass update CI.
 
-**Parent Topic:**[Activate Change Management - Mass Update CI](../task/t_ActivateChangeManagementBulkCI.md)
+**Parent Topic:**[Activate Change Management - Mass Update CI](t_ActivateChangeManagementBulkCI.md)
 
 ## Table modified with Change Management - Mass Update CI
 

@@ -31,8 +31,8 @@ Explains how to anonymize data using the Data Privacy store application.
 
 ## Data privacy options
 
--   [Data privacy \(Classic\)](../reference/data-privacy-classic.md): First use the data classification app to group your data by type, using pre-defined or user-defined data classifications. Then create data privacy techniques and jobs to anonymize PII.
--   [Data privacy](../../data-privacy-store/concept/dps-data-privacy.md) \(Store App\): Classify and anonymize your data all from within the data privacy app.
+-   [Data privacy \(Classic\)](data-privacy-classic/data-privacy-classic.md): First use the data classification app to group your data by type, using pre-defined or user-defined data classifications. Then create data privacy techniques and jobs to anonymize PII.
+-   [Data privacy](data-privacy-classic/dps-data-privacy.md) \(Store App\): Classify and anonymize your data all from within the data privacy app.
 
 ## Installation details
 
@@ -50,8 +50,7 @@ Here is the how the installation works:
 
 ## Considerations
 
--   Only classified data can be anonymized. For information on data classes and classification, see [Data classification](data-classification.md) \(Classic\) or [Data classification](../../data-privacy-store/concept/dps-data-classification.md) Store App.
+-   Only classified data can be anonymized. For information on data classes and classification, see [Data classification](data-classification/data-classification.md) \(Classic\) or [Data classification](data-classification/data-classification.md) Store App.
 -   PII in logs and other auditing data are not anonymized.
--   Only structured data can be anonymized. Unstructured data, such as Journal fields, comments, attachments, and other fields where partial text may represent PII is not anonymized. See [Supported field types for anonymization](../reference/data-privacy-supported-data-types.md) for more information.
+-   Only structured data can be anonymized. Unstructured data, such as Journal fields, comments, attachments, and other fields where partial text may represent PII is not anonymized. See [Supported field types for anonymization](data-privacy-classic/data-privacy-supported-data-types.md) for more information.
 -   Integrations with single sign-on \(SSO\) systems may resynchronize user information from their source of truth systems. There is no mechanism in place to ensure the permanency of the de-identification of sys\_user data. For information on user administration and sys\_users see [User Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_UserAdministration.md).
-

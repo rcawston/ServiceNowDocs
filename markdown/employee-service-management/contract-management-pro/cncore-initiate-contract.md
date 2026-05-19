@@ -22,5 +22,5 @@ As a case owner or fulfiller, initiate the submission of contracts when you want
 -   **[Initiate an amendment request](cncore-initiate-amedment.md)**  
 Initiate an amendment request from your workspace.
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

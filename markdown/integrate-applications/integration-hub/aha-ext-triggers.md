@@ -76,7 +76,7 @@ Role required: admin
 
 6.  Select the activities and users as per your requirement.
 
-    For the list supported events, see the [Spoke triggers](../concept/aha-spoke.md#section_wjk_vm2_t3c) section.
+    For the list supported events, see the [Spoke triggers](aha-spoke.md#section_wjk_vm2_t3c) section.
 
 7.  Select the **Valid certificate**, **Reduce webhook delay**, and **Enable** check boxes.
 

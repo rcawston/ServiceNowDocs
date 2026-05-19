@@ -55,5 +55,5 @@ Here’s a list of additional examples of operators and their synonyms to guide 
 
 With Data Binding Generation, Now Assist is able to recognize properties based on keywords found in the data property label. If a prompt uses a synonym that doesn’t match an exact property \(such as, surname\), Now Assist finds the closest related keyword, such as "name". When a prompt includes either an exact property label or part of the label, such as a first name or family name, it matches directly and improves accuracy.
 
-**Parent Topic:**[UI generation reference](../concept/ui-generation-reference.md)
+**Parent Topic:**[UI generation reference](ui-generation-reference.md)
 

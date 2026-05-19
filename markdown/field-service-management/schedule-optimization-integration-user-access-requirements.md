@@ -24,5 +24,5 @@ To add the role, navigate to **User Administration** &gt; **Users**, search by *
 **Related topics**  
 
 
-[Create a scheduling attribute for Schedule Optimization](../task/configure-scheduling-attributes.md)
+[Create a scheduling attribute for Schedule Optimization](field-service-scheduling/configure-scheduling-attributes.md)
 

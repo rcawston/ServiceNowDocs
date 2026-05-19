@@ -27,5 +27,5 @@ Role required: wm\_admin or wm\_manager.
     -   Cluster size indicates the number of work orders in the cluster.
     -   Cluster quality gives a percentage value of how similar the work orders are.
 
-**Parent Topic:**[Analytics and reporting for Field Service Management](../concept/analytics-reporting-fsm.md)
+**Parent Topic:**[Analytics and reporting for Field Service Management](analytics-reporting-fsm.md)
 

@@ -115,5 +115,5 @@ To fetch the complete playbook content data for a Windows device, the Agent Clie
 -   **[Run ACC as a managed group user](run-acc-as-managed-group-user.md)**  
 Run Agent Client Collector \(ACC\) from a managed group account to meet your organization's security, manageability, and auditability requirements.
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](installing-dex-local.md)
 

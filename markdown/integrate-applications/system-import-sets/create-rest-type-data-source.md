@@ -162,7 +162,7 @@ Expand node children
 
 </td><td>
 
-Selected if child elements of the XML node or JSON object should be converted into additional columns. Unselected if the parent column value should be an XML or JSON fragment. For JSON, note that selecting this option expands objects only, not arrays. For nested array support, see [JSON file import examples](../reference/json-data-source-examples.md).
+Selected if child elements of the XML node or JSON object should be converted into additional columns. Unselected if the parent column value should be an XML or JSON fragment. For JSON, note that selecting this option expands objects only, not arrays. For nested array support, see [JSON file import examples](json-data-source-examples.md).
 
 </td></tr><tr><td>
 
@@ -191,5 +191,5 @@ Define a transform map for the new data source and run an import.
 -   **[Define action properties](define-action-properties.md)**  
 Create and configure a Data Source request action in Integration Hub. After the request action is published in Integration Hub, you can choose it as a **Request action** in the Data Source record.
 
-**Parent Topic:**[Create a data source](../concept/c_CreateNewDataSource.md)
+**Parent Topic:**[Create a data source](c_CreateNewDataSource.md)
 

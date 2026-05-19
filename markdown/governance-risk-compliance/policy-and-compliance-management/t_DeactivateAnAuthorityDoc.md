@@ -30,5 +30,5 @@ Role required: sn\_compliance.admin or sn\_compliance.manager
     For Authority documents imported from UCF, users are not allowed to clear the **Active** check box as it is a read-only form.
 
 
-**Parent Topic:**[Manage control objectives and policies](../reference/r_PoliciesAndProcedures.md)
+**Parent Topic:**[Manage control objectives and policies](r_PoliciesAndProcedures.md)
 

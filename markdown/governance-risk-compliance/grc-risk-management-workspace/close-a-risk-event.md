@@ -28,5 +28,5 @@ Role required: sn\_risk.manager
 3.  Click **Close**.
 
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

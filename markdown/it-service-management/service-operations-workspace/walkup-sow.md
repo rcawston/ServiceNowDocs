@@ -111,7 +111,7 @@ View details of a Walk-up interaction.
 -   Opened for: View the requester's information.
 -   Source: View the source of the Walk-up interaction record.
 
-    **Note:** The Source section appears only if a Walk-up appointment is created through an incident. For more details, view [Create an appointment through incident](../task/create-walkup-appointment-incident-sow.md)
+    **Note:** The Source section appears only if a Walk-up appointment is created through an incident. For more details, view [Create an appointment through incident](create-walkup-appointment-incident-sow.md)
 
 
 ## Related records tab
@@ -121,9 +121,9 @@ View details of the related records.
 -   Related Tasks
 -   User's Tasks
 
--   **[Work on Walk-up interaction in Service Operations Workspace](../task/work-on-walkup-sow.md)**  
+-   **[Work on Walk-up interaction in Service Operations Workspace](work-on-walkup-sow.md)**  
 Manage your Walk-up appointments in Service Operations Workspace.
--   **[Create an appointment through incident](../task/create-walkup-appointment-incident-sow.md)**  
+-   **[Create an appointment through incident](create-walkup-appointment-incident-sow.md)**  
 Schedule an appointment on behalf of a requester through an incident record.
 
 **Parent Topic:**[Managing IT services in your organization](managing-services-operations-in-organization.md)

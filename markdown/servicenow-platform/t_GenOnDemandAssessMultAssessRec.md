@@ -44,16 +44,16 @@ For example, if there are 15 assessable records associated to at least one categ
 
 The system generates an assessment instance assigned to the selected users.
 
-**Parent Topic:**[On-demand assessments](../concept/c_OnDemandAssessments.md)
+**Parent Topic:**[On-demand assessments](c_OnDemandAssessments.md)
 
 **Related topics**  
 
 
-[Assessment generation](../concept/c_AssessmentGeneration.md)
+[Assessment generation](c_AssessmentGeneration.md)
 
 [Generate a scheduled assessment manually](t_GenSchedAssessmentManually.md)
 
-[Assessment groups](../concept/c_AssessmentGroups.md)
+[Assessment groups](c_AssessmentGroups.md)
 
 [Clean up assessment data](t_CleanUpAssessmentData.md)
 

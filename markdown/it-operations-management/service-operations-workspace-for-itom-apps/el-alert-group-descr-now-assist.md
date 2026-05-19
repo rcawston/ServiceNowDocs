@@ -48,5 +48,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
     The AI-generated summary content replaces the original description of the alert group.
 
 
-**Parent Topic:**[Viewing an alert group analysis by Now Assist in Express List](../concept/el-alert-group-analysis.md)
+**Parent Topic:**[Viewing an alert group analysis by Now Assist in Express List](el-alert-group-analysis.md)
 

@@ -110,7 +110,7 @@ Add a comment on the conditions being set.
 
 You can now run the skipped record rules either automatically during an upgrade or can run on demand on the skipped records. See [Execute a skipped record rule](um-execute-skipped-record-rule.md#) for more information.
 
-**Parent Topic:**[Upgrade Skipped Record Rules Editor tool in Upgrade Console](../concept/um-skipped-rules-tool.md)
+**Parent Topic:**[Upgrade Skipped Record Rules Editor tool in Upgrade Console](um-skipped-rules-tool.md)
 
 **Related topics**  
 

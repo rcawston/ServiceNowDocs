@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-For detailed information about roles that are installed with Data Catalog, see [Data catalog roles](../reference/data-catalog-roles.md).
+For detailed information about roles that are installed with Data Catalog, see [Data catalog roles](data-catalog-roles.md).
 
 ## Procedure
 
@@ -28,5 +28,5 @@ For detailed information about roles that are installed with Data Catalog, see [
     -   [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignARoleToAUser.md)
     -   [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md)
 
-**Parent Topic:**[Configuring the data catalog](../../../build/workflow-data-fabric/concept/configure-data-catalog.md)
+**Parent Topic:**[Configuring the data catalog](configure-data-catalog.md)
 

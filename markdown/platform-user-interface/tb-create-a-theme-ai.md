@@ -107,5 +107,5 @@ Your theme is saved as a draft in Theme Builder and appears in the Unpublished s
 
 After creating your theme in the wizard, you are directed to the Editor view of the theme where you can continue [modifying](tb-edit-theme.md) or [publish your theme](tb-apply-theme.md).
 
-**Parent Topic:**[Theme creation with AI](../concept/theme-creation-with-ai.md)
+**Parent Topic:**[Theme creation with AI](theme-creation-with-ai.md)
 

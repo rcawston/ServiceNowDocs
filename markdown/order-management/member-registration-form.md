@@ -75,7 +75,7 @@ Role type
 
 </td><td>
 
-Type of role that is assigned to a member, whether Partner Manager or Partner Associate.To learn more about the roles installed with PRM, see [Roles and components of Partner Relationship Management](../concept/roles-and-components-of-partner-relationship-management.md).
+Type of role that is assigned to a member, whether Partner Manager or Partner Associate.To learn more about the roles installed with PRM, see [Roles and components of Partner Relationship Management](roles-and-components-of-partner-relationship-management.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Partner Relationship Management reference](partner-relationship-management-reference.md)
@@ -83,7 +83,7 @@ Type of role that is assigned to a member, whether Partner Manager or Partner As
 **Related topics**  
 
 
-[Using Partner Relationship Management](../concept/using-partner-relationship-management.md)
+[Using Partner Relationship Management](using-partner-relationship-management.md)
 
-[Register a member on Partner portal](../task/register-a-member-on-partner-portal.md)
+[Register a member on Partner portal](register-a-member-on-partner-portal.md)
 

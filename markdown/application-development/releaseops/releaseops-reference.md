@@ -16,7 +16,7 @@ breadcrumb: [ReleaseOps, Deploying applications, Building applications]
 
 Review information about deployment and release states.
 
--   **[ReleaseOps terminology](../concept/release-ops-terminology.md#)**  
+-   **[ReleaseOps terminology](release-ops-terminology.md#)**  
 Before getting started with ReleaseOps, it's important to understand some key concepts used in the application.
 -   **[Deployment request states](deployment-request-states.md)**  
 A deployment request might be in one of several different states during the release process.
@@ -29,5 +29,5 @@ Create a deployment request for the update sets to be deployed to target instanc
 -   **[Deployment analyzer rules](deployment-analyzer-rules.md)**  
 The deployment analyzer contains five rules that are included by default with ReleaseOps.
 
-**Parent Topic:**[ReleaseOps](../concept/releaseops-landing.md)
+**Parent Topic:**[ReleaseOps](releaseops-landing.md)
 

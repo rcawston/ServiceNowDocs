@@ -46,5 +46,5 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 6.  Select the **Reset** icon in the map to clear the search results on the map.
 
 
-**Parent Topic:**[Structured workflows for Crisis map](../concept/crisis-map-collective-tasks.md)
+**Parent Topic:**[Structured workflows for Crisis map](crisis-map-collective-tasks.md)
 

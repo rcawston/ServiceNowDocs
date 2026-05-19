@@ -63,7 +63,7 @@ For more information, see [AI Search](https://raw.githubusercontent.com/ServiceN
 
 -   **ServiceNow® Mobile**
 
-    Configure AI Search for the ServiceNow® Mobile. For more information, see [Advanced text search in mobile](../../../administer/mobile-employee/concept/text-search-advanced-now.md).
+    Configure AI Search for the ServiceNow® Mobile. For more information, see [Advanced text search in mobile](../now-mobile-employee-experience/text-search-advanced-now.md).
 
 -   **Service Portal or Employee Center**
 

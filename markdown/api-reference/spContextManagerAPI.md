@@ -21,7 +21,7 @@ Keys passed to this API are unique per page. For example, if the `'agent-chat'` 
 
 For more information about passing data to Agent Chat, see [Configure Agent Chat in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-va-in-sp.md).
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## spContextManager - addContext\(String key, Object context\)
 

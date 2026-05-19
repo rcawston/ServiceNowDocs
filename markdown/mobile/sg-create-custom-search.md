@@ -38,10 +38,10 @@ Configuration for search consist of linking the following records:
 
 ![Diagram showing relationship of records used in search.](../image/search-diagram.png "Records used in search")
 
--   **[Create a search source](../task/sg-create-search-source.md)**  
+-   **[Create a search source](sg-create-search-source.md)**  
 Create a search source to define what records can be found in your search bar.
--   **[Create a search configuration](../task/sg-mobile-search-e2e.md)**  
+-   **[Create a search configuration](sg-mobile-search-e2e.md)**  
 Create a search configuration. This record connects your launcher screen with the other records used to configure search.
--   **[Add your search configuration to a launcher screen](../task/sg-mobile-search-alp-config.md)**  
+-   **[Add your search configuration to a launcher screen](sg-mobile-search-alp-config.md)**  
 Update your launcher screen to use your custom search configuration.
 

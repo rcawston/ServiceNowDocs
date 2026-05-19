@@ -42,27 +42,27 @@ Use the Document Migration tool to seamlessly move your existing safety document
 -   The count of documents that have successfully migrated, documents pending migration, and failed migration are listed in the **Migrated records**, **Remaining records**, and **Fail records** widgets.
 -   The successfully migrated records appear in the new **Health and Safety document library** list under **Configuration**, and are saved in the Health and Safety document \[sn\_ohs\_im\_document\_v2\] table.
 
-    For information on storing safety-related documents, see [Add a new Health and Safety related document](../../ohs-incident-management/task/add-hs-related-document.md).
+    For information on storing safety-related documents, see [Add a new Health and Safety related document](add-hs-related-document.md).
 
 
-**Parent Topic:**[Setting up Health and Safety Core](../concept/setting-up-hs-core.md)
+**Parent Topic:**[Setting up Health and Safety Core](setting-up-hs-core.md)
 
 **Related topics**  
 
 
 [Install Health and Safety Core](install-hs-core.md)
 
-[Workplace location data](../../ohs-incident-management/task/configure-hs-workplace-location-data.md)
+[Workplace location data](configure-hs-workplace-location-data.md)
 
-[Enable a Health and Safety table for configuring report field mapping](../../ohs-incident-management/task/enable-hs-table-report-field-mapping.md)
+[Enable a Health and Safety table for configuring report field mapping](enable-hs-table-report-field-mapping.md)
 
-[Create a safety report field mapping for generating reports](../../ohs-incident-management/task/create-safety-report-field-mapping.md)
+[Create a safety report field mapping for generating reports](create-safety-report-field-mapping.md)
 
-[Configure groups for Health and Safety](../../ohs-incident-management/task/configure-groups-health-and-safety.md)
+[Configure groups for Health and Safety](configure-groups-health-and-safety.md)
 
-[Configure scheduled job to generate frequency rates](../../ohs-incident-management/task/configure-job-generate-frequency-rates.md)
+[Configure scheduled job to generate frequency rates](configure-job-generate-frequency-rates.md)
 
-[Assign Health and Safety profile to a user](../../ohs-incident-management/task/assign-hs-profile-user.md)
+[Assign Health and Safety profile to a user](assign-hs-profile-user.md)
 
-[Add a Health and Safety visitor](../../ohs-incident-management/task/hs-add-health-safety-visitor.md)
+[Add a Health and Safety visitor](hs-add-health-safety-visitor.md)
 

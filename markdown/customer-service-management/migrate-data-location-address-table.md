@@ -17,5 +17,5 @@ Migrate data by following the steps provided in the Customer Service guided setu
 
 To access the guided setup, navigate to **Customer Service** &gt; **Administration** &gt; **Guided Setup** &gt; **Foundation Data** &gt; **Enable Enhanced Address Data Model for Accounts**.
 
-**Note:** Review step 4 within the [Enable enhanced address model for accounts](../task/enable-enhanced-address-model.md) to get details on how to migrate data.
+**Note:** Review step 4 within the [Enable enhanced address model for accounts](enable-enhanced-address-model.md) to get details on how to migrate data.
 

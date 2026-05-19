@@ -176,5 +176,5 @@ Indicator Supporting Data Statistics \[sn\_grc\_indicator\_supporting\_data\_sta
 Stores statistics of indicators for collecting supporting data, which is leveraged by the supporting data collection job.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Governance, Risk, and Compliance reference](../concept/grc-reference.md)
+</table>**Parent Topic:**[Governance, Risk, and Compliance reference](grc-reference.md)
 

@@ -36,5 +36,5 @@ The components of the Risk Register are the following:
     -   Residual risk
 -   The risk responses for each risk.
 
-**Parent Topic:**[Operational Risk Management dashboard](../../../use/dashboards/application-content-packs/operational-risk-dashboard.md)
+**Parent Topic:**[Operational Risk Management dashboard](operational-risk-dashboard.md)
 

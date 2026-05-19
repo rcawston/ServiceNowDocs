@@ -44,5 +44,5 @@ Use the Multi File Upload utility to upload more than one file at a time in a Vi
 -   **[Pause utility](va-pause.md)**  
 Use the Pause utility to create a temporary halt in your Virtual Agent conversations.
 
-**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
 

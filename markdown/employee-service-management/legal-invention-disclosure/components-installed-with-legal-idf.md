@@ -64,5 +64,5 @@ Fulfiller access for working on assigned requests and matters.
 |Patent Reward Caps \[sn\_lg\_ip\_patent\_reward\_caps\]|Contains the details of the maximum amount to be rewarded to inventora for individual stages of the application process.|
 |Stage Rewards \[sn\_lg\_ip\_stage\_rewards\]|Contains the details of the amounts of rewards for individual stages of the application process for each country.|
 
-**Parent Topic:**[Legal Invention Disclosure reference](../concept/legal-invention-disclosure-reference.md)
+**Parent Topic:**[Legal Invention Disclosure reference](legal-invention-disclosure-reference.md)
 

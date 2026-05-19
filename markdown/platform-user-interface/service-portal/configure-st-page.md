@@ -194,7 +194,7 @@ You can configure the tabs for the standard ticket page.
 -   **[Configure actions for standard ticket page](configure-actions-for-standard-ticket-page.md)**  
 You can configure specific actions to be directly available on the standard ticket page. Requesters are able to initiate these actions. Scriptable APIs can also trigger these actions.
 
-**Parent Topic:**[Standard ticket page](../concept/standard-ticket-page.md)
+**Parent Topic:**[Standard ticket page](standard-ticket-page.md)
 
 **Related topics**  
 

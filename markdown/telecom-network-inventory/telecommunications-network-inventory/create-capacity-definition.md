@@ -34,7 +34,7 @@ The capacity definition is an asynchronous way to trigger the capacity functions
 
 3.  On the form, fill in the fields.
 
-    To learn more about the fields, see [Capacity Definition form](../reference/capacity-definition-form.md).
+    To learn more about the fields, see [Capacity Definition form](capacity-definition-form.md).
 
 4.  Select **Submit**.
 
@@ -47,10 +47,10 @@ The capacity definition record is created.
 
 You can use the definition for capacity calculation. When you run the capacity definition, it creates the metric and the results aggregate to it. You can navigate to **All** &gt; **Capacity Management** &gt; **Metrics** and open the capacity metric record, which you want to see the details.
 
-**Parent Topic:**[Configuring capacity management](../concept/configuring-capacity-management.md)
+**Parent Topic:**[Configuring capacity management](configuring-capacity-management.md)
 
 **Related topics**  
 
 
-[Capacity management](../concept/capacity-management-reporting.md)
+[Capacity management](capacity-management-reporting.md)
 

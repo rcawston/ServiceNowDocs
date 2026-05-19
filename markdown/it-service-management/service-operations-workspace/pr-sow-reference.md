@@ -82,7 +82,7 @@ The user has exhausted all the available password reset attempts. You can reset 
 |Technical error|You must logout and login to work on the password reset ticket.|
 |Maximum verification attempts reached|You have exceeded the maximum number of attempts to verify the identity of the user.|
 
-To reset a password for a user, refer [Reset password using service-desk assistance](../task/reset-password-sd-pr-sow.md).
+To reset a password for a user, refer [Reset password using service-desk assistance](reset-password-sd-pr-sow.md).
 
-**Parent Topic:**[Resetting password using Service-desk assisted Password Reset in Service Operations Workspace](../concept/resetting-password-pr-sow.md)
+**Parent Topic:**[Resetting password using Service-desk assisted Password Reset in Service Operations Workspace](resetting-password-pr-sow.md)
 

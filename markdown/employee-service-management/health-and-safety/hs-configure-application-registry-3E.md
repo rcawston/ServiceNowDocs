@@ -40,5 +40,5 @@ For more information about 3E Protect and its subscription requirements, see [3E
 5.  Select **Update**.
 
 
-**Parent Topic:**[3E Protect](../../hs-integration-third-party/concept/hs-3e-protect.md)
+**Parent Topic:**[3E Protect](hs-3e-protect.md)
 

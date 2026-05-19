@@ -39,10 +39,10 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent
 
 6.  On the form, fill in the details.
 
-    For more details on the Five why's technique of root cause analysis, see [Perform root cause analysis for a safety incident](../../ohs-incident-management/task/perform-hs-root-cause-analysis.md).
+    For more details on the Five why's technique of root cause analysis, see [Perform root cause analysis for a safety incident](../health-and-safety-incident-management/perform-hs-root-cause-analysis.md).
 
 7.  Tap **Submit**.
 
 
-**Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](../concept/hs-manage-safety-incident-mobile-agent.md)
+**Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](hs-manage-safety-incident-mobile-agent.md)
 

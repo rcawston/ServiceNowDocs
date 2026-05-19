@@ -54,7 +54,7 @@ Role required: none
         ![Fetch Records Max Limit settings](../image/vs-code-file-search.png "Fetch Records Max Limit settings")
 
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
 
 **Related topics**  
 

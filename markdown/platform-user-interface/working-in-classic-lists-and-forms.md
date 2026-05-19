@@ -13,11 +13,11 @@ breadcrumb: [Working in Core UI, Configure UIs and portals, Configure user exper
 
 In the classic environment, use lists and forms to get your work done.
 
-**Note:** This content pertains to the classic environment, which refers to working in lists of records and on record forms directly, not in the [Configurable Workspace interface](../../../administer/configurable-workspace/concept/workspace-landing-page.md). You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as Core UI \(formerly known as UI16\).
+**Note:** This content pertains to the classic environment, which refers to working in lists of records and on record forms directly, not in the [Configurable Workspace interface](workspace-landing-page.md). You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as Core UI \(formerly known as UI16\).
 
--   **[Lists in the classic environment](../../../use/using-lists/concept/c_UseLists.md)**  
+-   **[Lists in the classic environment](c_UseLists.md)**  
 A list displays a set of records from a table.
--   **[Forms in the classic environment](../../../use/using-forms/concept/c_UsingForms.md)**  
+-   **[Forms in the classic environment](c_UsingForms.md)**  
 A form displays information from one record in a data table.
 
 **Parent Topic:**[Working in Core UI](working-in-ui16-and-ui15.md)
@@ -25,13 +25,13 @@ A form displays information from one record in a data table.
 **Related topics**  
 
 
-[Core UI](../../../administer/navigation-and-ui/concept/c_UI16.md)
+[Core UI](c_UI16.md)
 
-[Common UI elements](../../../use/common-ui-elements/topic/p_CommonUIElements.md)
+[Common UI elements](p_CommonUIElements.md)
 
-[Browser support](../../../administer/navigation-and-ui/reference/browser-support.md)
+[Browser support](browser-support.md)
 
-[Core UI keyboard shortcuts](../../../use/navigation/reference/r_KeyboardShortcuts.md)
+[Core UI keyboard shortcuts](r_KeyboardShortcuts.md)
 
-[User interface configuration](../../../administer/core-configuration/concept/p_NavigationAndUIConfiguration.md)
+[User interface configuration](p_NavigationAndUIConfiguration.md)
 

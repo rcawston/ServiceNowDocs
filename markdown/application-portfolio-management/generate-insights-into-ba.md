@@ -93,20 +93,20 @@ You can also provide feedback on the business application insights using the thu
     ![Refresh icon highlighted in the Business application insights window.](../image/ba-summary-refresh-button-highlighted.png)
 
 
-**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](../concept/using-now-assist-for-ea.md)
+**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)
 
 **Related topics**  
 
 
-[Edit business application details in list view](../../application-portfolio-management/task/eaw-task/eaw-edit-business-application-details.md)
+[Edit business application details in list view](eaw-edit-business-application-details.md)
 
-[Rationalization of business applications](../../application-portfolio-management/concept/eaw-concept/eaw-rationalize-business-applications.md)
+[Rationalization of business applications](eaw-rationalize-business-applications.md)
 
-[Analyze applications using the bubble chart](../../application-portfolio-management/task/eaw-task/eaw-analyze-applications-by-capability.md)
+[Analyze applications using the bubble chart](eaw-analyze-applications-by-capability.md)
 
-[Edit business application details in bubble chart view](../../application-portfolio-management/task/eaw-task/eaw-edit-ba-details-in-bubble-chart.md)
+[Edit business application details in bubble chart view](eaw-edit-ba-details-in-bubble-chart.md)
 
-[Working with the business portfolio module](../../application-portfolio-management/concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
+[Working with the business portfolio module](eaw-work-with-business-portfolio-mod.md)
 
-[Exploring a business portfolio](../../application-portfolio-management/concept/manage-business-portfolio.md)
+[Exploring a business portfolio](manage-business-portfolio.md)
 

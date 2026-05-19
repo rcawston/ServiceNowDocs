@@ -65,12 +65,12 @@ A visitor is a person from outside the organization who came to visit the site.
 -   The visitor's Health and Safety user profile is saved in the Health and Safety profile \[sn\_ohs\_im\_health\_and\_safety\_profile\] table.
 -   The visitor is available to be referenced in the **Visitor** field on Health and Safety records such as safety incidents that the visitor is involved in.
 
-**Parent Topic:**[Setting up Health and Safety Core](../../hs-core/concept/setting-up-hs-core.md)
+**Parent Topic:**[Setting up Health and Safety Core](setting-up-hs-core.md)
 
 **Related topics**  
 
 
-[Install Health and Safety Core](../../hs-core/task/install-hs-core.md)
+[Install Health and Safety Core](install-hs-core.md)
 
 [Workplace location data](configure-hs-workplace-location-data.md)
 
@@ -84,5 +84,5 @@ A visitor is a person from outside the organization who came to visit the site.
 
 [Assign Health and Safety profile to a user](assign-hs-profile-user.md)
 
-[Migrate existing safety documents to the Document library](../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
+[Migrate existing safety documents to the Document library](hs-migrate-sync-existing-safety-document-docs-library.md)
 

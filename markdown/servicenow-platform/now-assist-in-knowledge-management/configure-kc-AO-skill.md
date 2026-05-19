@@ -69,7 +69,7 @@ After successfully configuring the skill, proceed to activate the article optimi
 -   **[Activate Article Optimization skill](activate-kc-AO-skill.md)**  
 Activate the Knowledge Center Article Optimization skill to enable use of article optimization features for generating knowledge articles in the Knowledge Center.
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../../knowledge-management/concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](configuring-now-assist-km.md)
 
 **Related topics**  
 

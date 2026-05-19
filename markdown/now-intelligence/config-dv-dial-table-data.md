@@ -31,7 +31,7 @@ Data source
 
 </td><td>
 
-You have selected a Table data source in [Create a dial data visualization](../task/create-dv-dial-ac.md).
+You have selected a Table data source in [Create a dial data visualization](create-dv-dial-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -61,7 +61,7 @@ Field
 
 Field to apply the metric to, for **Average**, **Sum**, or **Count Distinct** aggregations. You may further be able to aggregate on fields from extended tables.The data is shown in a format that matches the field type. For example, if you select an integer field, such as the **Priority** field, the data is expressed as a number. If you select a duration field, such as **Business duration** on the Incident table, the aggregated data is expressed in days, hours, and minutes.
 
-If function fields were created in Report Designer for the table, they are available in the dropdown list. For more information, see [Report on function fields](../concept/function-fields-reporting.md).
+If function fields were created in Report Designer for the table, they are available in the dropdown list. For more information, see [Report on function fields](reporting/function-fields-reporting.md).
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Format values
 
 </td><td id="entry_format-values">
 
-Select to open the **Formatting values** dialog. For more information, see [Value formatting in reports](value-formatting-reports.md#).
+Select to open the **Formatting values** dialog. For more information, see [Value formatting in reports](reporting/value-formatting-reports.md#).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -244,5 +244,5 @@ Alignment
 The alignment of the illustration and text in the message.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a dial data visualization](../task/create-dv-dial-ac.md)
+</table>**Parent Topic:**[Create a dial data visualization](create-dv-dial-ac.md)
 

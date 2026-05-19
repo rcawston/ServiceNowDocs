@@ -31,15 +31,15 @@ Use the ServiceNow Service Catalog application to develop comprehensive service 
 
 </td></tr><tr><td>
 
-[Create a Service Catalog Wizard![](../../../reuse/icons/brand-icons/bus-service-catalog.svg)Learn about Service Catalog wizards that you can use when the input required is huge and complex. The wizard offers a step-by-step experience for the requester and also provides a side panel to provide contextual help.](../task/catalog-wizard.md)
+[Create a Service Catalog Wizard![](../../../reuse/icons/brand-icons/bus-service-catalog.svg)Learn about Service Catalog wizards that you can use when the input required is huge and complex. The wizard offers a step-by-step experience for the requester and also provides a side panel to provide contextual help.](catalog-wizard.md)
 
 </td><td>
 
-[Set up catalog builder![](../../../reuse/icons/brand-icons/bus-service-catalog.svg)Learn about setting up the catalog item building process.](../task/set-up-cat-builder.md)
+[Set up catalog builder![](../../../reuse/icons/brand-icons/bus-service-catalog.svg)Learn about setting up the catalog item building process.](set-up-cat-builder.md)
 
 </td><td>
 
-[Create or edit a catalog item template![](../../../reuse/icons/brand-icons/bus-manage.svg)Pre-specify values or provide restrictions for attributes such as catalogs, categories, variable types, and portal settings, which are applicable during the catalog item creation or editing process.](../task/create-cat-item-template-cat-builder.md)
+[Create or edit a catalog item template![](../../../reuse/icons/brand-icons/bus-manage.svg)Pre-specify values or provide restrictions for attributes such as catalogs, categories, variable types, and portal settings, which are applicable during the catalog item creation or editing process.](create-cat-item-template-cat-builder.md)
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Use the ServiceNow Service Catalog application to develop comprehensive service 
 You can use Service Catalog to customize portals where your customers can request catalog items such as service and product offerings. You can also standardize request fulfillment to ensure the accuracy and availability of the items in the catalogs.
 -   **[Configuring Service Catalog](configuring-service-catalog.md)**  
 Service Catalog enables users with the Catalog Administrators role \(catalog\_admin\) to set up the service catalog.
--   **[Creating a Service Catalog Wizard](../task/catalog-wizard.md)**  
+-   **[Creating a Service Catalog Wizard](catalog-wizard.md)**  
 Service Catalog wizards help you to create wizard like, multi-step experiences.
 -   **[Integrating Service Catalog](integrating-service-catalog.md)**  
 You can integrate Service Catalog with other applications, such as Service Portal and Employee Center.
@@ -81,5 +81,5 @@ Use ServiceNow® Now Assist in Catalog Builder to create catalog items of your c
 -   **[Now Assist in Conversational Catalog Request](now-assist-in-conversational-catalog-request.md)**  
 Speed up and provide a conversational and streamlined experience based on generative AI while submitting a catalog item request in Virtual Agent. Your organization can increase self-service and reduce operating costs.
 
-**Parent Topic:**[Manage service capabilities](../../../administer/general/concept/manage-services.md)
+**Parent Topic:**[Manage service capabilities](../manage-services.md)
 

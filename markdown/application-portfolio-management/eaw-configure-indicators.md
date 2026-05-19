@@ -24,17 +24,17 @@ Each indicator periodically captures related application or capability data whic
 **Related topics**  
 
 
-[View all application indicators](../../task/eaw-task/eaw-view-all-application-indicators.md)
+[View all application indicators](eaw-view-all-application-indicators.md)
 
-[Add or edit an application indicator](../../task/eaw-task/eaw-create-indicator.md)
+[Add or edit an application indicator](eaw-create-indicator.md)
 
-[View all capability indicators](../../task/eaw-task/eaw-view-all-capability-indicators.md)
+[View all capability indicators](eaw-view-all-capability-indicators.md)
 
-[Add or edit a capability indicator](../../task/eaw-task/eaw-add-or-edit-a-capability-indicator.md)
+[Add or edit a capability indicator](eaw-add-or-edit-a-capability-indicator.md)
 
-[Activate or turn off an application or capability indicator](../../task/eaw-task/eaw-enable-or-disable-an-application-indicator.md)
+[Activate or turn off an application or capability indicator](eaw-enable-or-disable-an-application-indicator.md)
 
-[Regenerate application indicator scores on-demand in Enterprise Architecture Workspace](../../task/eaw-task/eaw-regenerate-indicator-score.md)
+[Regenerate application indicator scores on-demand in Enterprise Architecture Workspace](eaw-regenerate-indicator-score.md)
 
-[Regenerate capability indicator scores on-demand in Enterprise Architecture Workspace](../../task/eaw-task/eaw-regenerate-capability-indicator-scores-in-eaw.md)
+[Regenerate capability indicator scores on-demand in Enterprise Architecture Workspace](eaw-regenerate-capability-indicator-scores-in-eaw.md)
 

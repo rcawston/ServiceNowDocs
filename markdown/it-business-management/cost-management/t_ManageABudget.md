@@ -41,12 +41,12 @@ Role required: financial\_mgmt\_admin
 
 ## What to do next
 
-Review the related lists for this budget and update them as necessary. See [Budget related records](../concept/c_BudgetRelatedRecords.md).
+Review the related lists for this budget and update them as necessary. See [Budget related records](c_BudgetRelatedRecords.md).
 
-**Parent Topic:**[Budgets and cost centers](../concept/c_BudgetsAndCostCenters.md)
+**Parent Topic:**[Budgets and cost centers](c_BudgetsAndCostCenters.md)
 
 **Related topics**  
 
 
-[Budgets and cost centers](../concept/c_BudgetsAndCostCenters.md)
+[Budgets and cost centers](c_BudgetsAndCostCenters.md)
 

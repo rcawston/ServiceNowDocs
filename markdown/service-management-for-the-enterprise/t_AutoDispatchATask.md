@@ -20,5 +20,5 @@ When a task is auto-dispatched, the application matches the task with a nearby a
     If the system cannot find an appropriate agent, it displays a failure message and leaves the task in the **Pending Dispatch** state.
 
 
-**Parent Topic:**[Facilities request tasks](../../planning-and-policy/concept/c_FacRequestTasks.md)
+**Parent Topic:**[Facilities request tasks](c_FacRequestTasks.md)
 

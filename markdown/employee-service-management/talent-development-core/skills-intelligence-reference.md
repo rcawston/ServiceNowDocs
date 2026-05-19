@@ -15,12 +15,12 @@ breadcrumb: [Skills Foundation, Growth Experiences, HR Service Delivery, Employe
 
 Reference topics provide additional information about the properties and tables.
 
--   **[Components installed with Skills Foundation](../reference/skills-intelligence-users-and-roles-1.md)**  
+-   **[Components installed with Skills Foundation](../employee-service-management/skills-intelligence-users-and-roles-1.md)**  
 Several types of components are installed with the activation of the Skills Foundation application, including user roles and tables.
--   **[Hiring Core](../reference/hiring-core.md)**  
+-   **[Hiring Core](hiring-core.md)**  
 Hiring Core provides a repository where you can store information that you’ve created or received from any third party talent acquisition platform for your hiring requirements.
--   **[Proficiency level autofill configuration form](../reference/proficiency-autofill-form.md)**  
+-   **[Proficiency level autofill configuration form](proficiency-autofill-form.md)**  
 Form to create a configuration to autofill the proficiency for a skill.
 
-**Parent Topic:**[HR Service Delivery](../../human-resources/concept/hr-service-delivery.md)
+**Parent Topic:**[HR Service Delivery](../hr-service-delivery/hr-service-delivery.md)
 

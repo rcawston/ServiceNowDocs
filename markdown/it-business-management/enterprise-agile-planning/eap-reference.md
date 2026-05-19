@@ -32,5 +32,5 @@ Indicators included in the EAP dashboard.
 -   **[Work item reorder errors in EAP Backlog](work-item-reorder-errors-in-eap-backlog.md)**  
 Review the scenarios when the reordering of work items can fail in the Backlog of Enterprise Agile Planning workspace.
 
-**Parent Topic:**[Enterprise Agile Planning in Strategic Planning](../concept/eap-landing.md)
+**Parent Topic:**[Enterprise Agile Planning in Strategic Planning](eap-landing.md)
 

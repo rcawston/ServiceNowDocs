@@ -64,5 +64,5 @@ Role required:
         Mark sensitive records as confidential and verify that the appropriate people have access to these records. The **Confidential records** tab configuration displays the confidential records for the selected table.
 
 
-**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](../concept/cam-ws-continuous-auth-monitor.md)
+**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](cam-ws-continuous-auth-monitor.md)
 

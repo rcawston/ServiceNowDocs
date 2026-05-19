@@ -57,10 +57,10 @@ Your instance needs inbound mTLS support to run external content connector crawl
 
 ## What to do next
 
-With the External Content Connectors applications installed, ServiceNow AI Platform admins can configure connectors to crawl content, metadata, users, and group memberships from supported external content repositories, and AI Search administrators can configure crawl settings and create and schedule crawls for those connectors. For details on external content connector configuration, see [Configuring External Content Connectors](../concept/configuring-ext-cont-connectors.md).
+With the External Content Connectors applications installed, ServiceNow AI Platform admins can configure connectors to crawl content, metadata, users, and group memberships from supported external content repositories, and AI Search administrators can configure crawl settings and create and schedule crawls for those connectors. For details on external content connector configuration, see [Configuring External Content Connectors](configuring-ext-cont-connectors.md).
 
 -   **[Verify whether inbound mTLS support is activated for your instance](verify-adcv2-inbound-mtls-enabled.md)**  
 Check whether inbound mTLS support is activated for your ServiceNow AI Platform® instance. You need this feature activated to run crawls for external content connectors.
 
-**Parent Topic:**[External Content Connectors](../reference/ext-cont-connectors-landing-page.md)
+**Parent Topic:**[External Content Connectors](ext-cont-connectors-landing-page.md)
 

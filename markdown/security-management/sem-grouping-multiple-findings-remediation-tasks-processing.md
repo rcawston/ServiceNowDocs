@@ -58,7 +58,7 @@ When a new finding is created, imported, or reopened, the system evaluates it ag
 Remediation tasks can be created in the following ways:
 
 -   Automatically using remediation task rules \(recommended for efficiency\).
--   Manually in the IT Remediation Workspace. For more information, see [Create a remediation task manually in the IT Remediation Workspace](../../vr-it-remediation-workspace/task/itr-ws-create-remediation-task.md).
+-   Manually in the IT Remediation Workspace. For more information, see [Create a remediation task manually in the IT Remediation Workspace](it-remediation-workspace/itr-ws-create-remediation-task.md).
 
 ## State synchronization
 

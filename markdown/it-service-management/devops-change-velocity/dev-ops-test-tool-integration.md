@@ -368,11 +368,11 @@ Notes:
 - The stageName attribute value must be same as the value in the **Orchestration stage** field of the Step [sn_devops_step] table.
 ```
 
--   **[Configure a test tool in DevOps](../task/create-test-tool-dev-ops.md)**  
+-   **[Configure a test tool in DevOps](create-test-tool-dev-ops.md)**  
 Configure a test tool in DevOps to view unit, functional, and performance test results.
--   **[Add test results to change requests using test API](../reference/test-api-tools.md)**  
+-   **[Add test results to change requests using test API](test-api-tools.md)**  
 Add test results to DevOps change requests using the test capability of the DevOps - POST /devops/tool/\{capability\} API. The API is available for all test types for various tools connected to DevOps Change Velocity.
--   **[Add attachments to change requests using attachment API](../reference/attachment-api-chg.md)**  
+-   **[Add attachments to change requests using attachment API](attachment-api-chg.md)**  
 Add test report xmls as attachments to DevOps change requests using the attachment API.
 
 **Parent Topic:**[User-created integrations in DevOps Change Velocity](dev-ops-tool-integration.md)

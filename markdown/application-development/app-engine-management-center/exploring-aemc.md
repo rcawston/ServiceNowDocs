@@ -66,7 +66,7 @@ The workflow for managing app development and deployment through an App Engine p
 
 ## ReleaseOps in AEMC
 
-Starting with version 28.2.1 of AEMC, ReleaseOps is integrated into AEMC. ReleaseOps improves upon the existing pipelines deployment process by supporting the deployment of update sets, leveraging the automation capabilities of ServiceNow Playbooks, and enabling both scheduled and on-demand releases. To learn more about ReleaseOps, see [Exploring ReleaseOps](../../release-ops/concept/exploring-release-ops.md).
+Starting with version 28.2.1 of AEMC, ReleaseOps is integrated into AEMC. ReleaseOps improves upon the existing pipelines deployment process by supporting the deployment of update sets, leveraging the automation capabilities of ServiceNow Playbooks, and enabling both scheduled and on-demand releases. To learn more about ReleaseOps, see [Exploring ReleaseOps](../releaseops/exploring-release-ops.md).
 
 Developers working with update sets in version 28.1.2 of ServiceNow Studio and later can trigger ReleaseOps deployments directly within the development environment.
 

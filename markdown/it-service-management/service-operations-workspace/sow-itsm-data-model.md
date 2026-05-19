@@ -21,12 +21,12 @@ The following diagram shows the tables and their relationships within SOW for IT
 
 ![This data model defines the relationship between various tables used in SOW for ITSM.](../image/sow-data-model.png)
 
-**Parent Topic:**[Service Operations Workspace for ITSM reference](../concept/sow-reference.md)
+**Parent Topic:**[Service Operations Workspace for ITSM reference](sow-reference.md)
 
 **Related topics**  
 
 
-[Terminology in Service Operations Workspace for ITSM](../concept/terminology-used-in-sow-for-itsm.md)
+[Terminology in Service Operations Workspace for ITSM](terminology-used-in-sow-for-itsm.md)
 
 [Additional roles for SOW admin](additional-roles-sow-admin.md)
 

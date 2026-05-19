@@ -27,7 +27,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 2.  Click **New**.
 
-    The system displays the [Test Suite New Record](../reference/atf-test-suite-record.md) form.
+    The system displays the [Test Suite New Record](atf-test-suite-record.md) form.
 
 3.  In the **Name** field, enter a name for this suite.
 
@@ -42,5 +42,5 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 All tests that match the filter conditions appear in the **Test Suite Tests** related list. Because the suite is dynamic, any new test that matches the conditions is automatically added to the suite.
 
-**Parent Topic:**[Building and running automated test suites](../concept/atf-suites-overview.md)
+**Parent Topic:**[Building and running automated test suites](atf-suites-overview.md)
 

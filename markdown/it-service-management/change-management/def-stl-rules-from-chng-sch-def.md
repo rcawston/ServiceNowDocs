@@ -103,7 +103,7 @@ Color of the schedule span displayed for each record on the timeline that matche
     **Note:** Style rules that you create from a change schedule definition take precedence over the style rules that exist in the base style rule table \[chg\_soc\_style\_rule\].
 
 
-**Parent Topic:**[Style rules definition](../concept/style-rules-definition.md)
+**Parent Topic:**[Style rules definition](style-rules-definition.md)
 
 **Related topics**  
 

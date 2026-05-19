@@ -21,16 +21,16 @@ Role required: sn\_si.analyst
 
 The search query can take some time to complete. After the count is received, approval is required to delete emails from an email server.
 
-This flow is triggered by the **Delete from Email Server\(s\)** and **Search on Email Server\(s\)** buttons on the **Email Search** form in a security incident. For more information, see [Search for and delete phishing emails](../../security-incident-response/task/search-delete-exchange-emails.md).
+This flow is triggered by the **Delete from Email Server\(s\)** and **Search on Email Server\(s\)** buttons on the **Email Search** form in a security incident. For more information, see [Search for and delete phishing emails](security-incident-response/search-delete-exchange-emails.md).
 
 ![Security Operations integration - Email Search and Delete flow](../image/email-search-and-delete-flow.png "Email Search and Delete")
 
-Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../concept/common-wf-activities.md).
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](common-wf-activities.md).
 
 The flow process activities include:
 
--   **[Execution Tracking Begin \(Mail Search\) action](../../security-operations-integrations/reference/execution-tracking-begins-mail-search-activity.md)**  
+-   **[Execution Tracking Begin \(Mail Search\) action](execution-tracking-begins-mail-search-activity.md)**  
 The Execution Tracking - Begin \(Mail Search\) capability execution action creates an execution tracking record and marks the record state as Started. This action is used by all capability and implementation flows to keep track of their state.
 
-**Parent Topic:**[Security Operations Integration- Email Search and Delete capability](../concept/email-search-capability.md)
+**Parent Topic:**[Security Operations Integration- Email Search and Delete capability](email-search-capability.md)
 

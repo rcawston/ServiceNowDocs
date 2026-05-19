@@ -56,7 +56,7 @@ When new vulnerability is created in TISC and there is a related vulnerability i
         ![Vulnerability management support](../image/tisc-vul-mgmt-support.png)
 
 
-**Parent Topic:**[Working with automated flows](../concept/tisc-automated-flows.md)
+**Parent Topic:**[Working with automated flows](tisc-automated-flows.md)
 
 **Related topics**  
 
@@ -75,5 +75,5 @@ When new vulnerability is created in TISC and there is a related vulnerability i
 
 [Zero-day vulnerability tracking](tisc-zero-vul.md)
 
-[Automated flows tables](../concept/tisc-flows-tables.md)
+[Automated flows tables](tisc-flows-tables.md)
 

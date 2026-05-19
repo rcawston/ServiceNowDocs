@@ -59,5 +59,5 @@ Each auto-generated service order is linked to the record under maintenance in t
 
 Work orders or facilities requests created by the scheduled jobs running on the associated records contain the selected template.
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](c_MaintPlanMgmt.md)
 

@@ -46,5 +46,5 @@ Role required: sn\_si.admin or sn\_si.manager or sn\_si.analyst
 7.  If there’s any remaining activity or user action required in any of the phases, click the respective phase and perform the action to complete the activity.
 
 
-**Parent Topic:**[Playbook for Failed Login Manual](../concept/playbook-failed-login.md)
+**Parent Topic:**[Playbook for Failed Login Manual](playbook-failed-login.md)
 

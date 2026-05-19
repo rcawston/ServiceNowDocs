@@ -25,5 +25,5 @@ Discovery reconciles attributes from multiple scope levels by applying a precede
 
 ## Use case
 
-You can use Discovery generic attributes to automatically populate CI fields based on the Discovery scope. This enables you to apply consistent metadata to discovered CIs without manual intervention. For more information, see [Define CI field attributes](../task/define-ci-attributes.md).
+You can use Discovery generic attributes to automatically populate CI fields based on the Discovery scope. This enables you to apply consistent metadata to discovered CIs without manual intervention. For more information, see [Define CI field attributes](define-ci-attributes.md).
 

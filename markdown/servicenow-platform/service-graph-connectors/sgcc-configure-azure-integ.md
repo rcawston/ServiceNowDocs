@@ -19,7 +19,7 @@ Use the playbook available with the SGC Central application to set up the Servic
 
 Install Service Graph Connector for Microsoft Azure version 1.9.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-applications-in-application-manager.md).
 
-**Important:** After the initial import of Azure data, the application performs a delta import of data. However, you can perform a full pull of data anytime later by disabling the delta synchronization and setting the **sn\_sg\_azure\_integ.is\_delta\_sync\_enabled** property to `false`. For more information, see [Configuring data synchronization in Service Graph Connector for Microsoft Azure](../../configuration-management/concept/sgc-cmdb-azure-data-sync.md#).
+**Important:** After the initial import of Azure data, the application performs a delta import of data. However, you can perform a full pull of data anytime later by disabling the delta synchronization and setting the **sn\_sg\_azure\_integ.is\_delta\_sync\_enabled** property to `false`. For more information, see [Configuring data synchronization in Service Graph Connector for Microsoft Azure](sgc-cmdb-azure-data-sync.md#).
 
 Role required: The following table shows the roles required for each stage of the playbook.
 
@@ -28,11 +28,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 The connector uses the Azure Management APIs for the complete pull of data from Azure. However, to pull delta changes from Azure, the Azure Resource Graph APIs are used. The domain name system \(DNS\) is Microsoft Azure Management, but the path is a resource graph.
 
@@ -50,7 +50,7 @@ The connector uses the Azure Management APIs for the complete pull of data from 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](../sgcc-first-time-setup.md).
 
 5.  Complete the prerequisites for setting up the Azure environment.
 
@@ -307,17 +307,17 @@ Select **View all connections** to review the connection details. The created co
 **Related topics**  
 
 
-[Service Graph Connector for Microsoft Azure](../../configuration-management/concept/cmdb-integration-azure.md)
+[Service Graph Connector for Microsoft Azure](cmdb-integration-azure.md)
 
-[CMDB classes targeted in Service Graph Connector for Microsoft Azure](../../configuration-management/reference/cmdb-azure-classes.md)
+[CMDB classes targeted in Service Graph Connector for Microsoft Azure](cmdb-azure-classes.md)
 
-[Data mapping for Service Graph Connector for Microsoft Azure](../../configuration-management/reference/cmdb-data-mapping-azure.md)
+[Data mapping for Service Graph Connector for Microsoft Azure](cmdb-data-mapping-azure.md)
 
-[Supported Microsoft Azure resource types](../../configuration-management/reference/cmdb-sgc-azure-resource-types.md)
+[Supported Microsoft Azure resource types](cmdb-sgc-azure-resource-types.md)
 
-[Service Graph Connector for Microsoft Azure properties](../../configuration-management/reference/cmdb-sgc-azure-props.md)
+[Service Graph Connector for Microsoft Azure properties](cmdb-sgc-azure-props.md)
 
-[Accessing the connection details of Service Graph Connector for Microsoft Azure](../../configuration-management/concept/sgc-cmdb-azure-conn.md#)
+[Accessing the connection details of Service Graph Connector for Microsoft Azure](sgc-cmdb-azure-conn.md#)
 
-[Additional features within the Service Graph Connector for Microsoft Azure](../../configuration-management/concept/sgc-cmdb-azure-add-features.md)
+[Additional features within the Service Graph Connector for Microsoft Azure](sgc-cmdb-azure-add-features.md)
 

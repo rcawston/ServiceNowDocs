@@ -33,5 +33,5 @@ The conditions determine which transition comes after this activity. The **Forwa
 
 You can add an error condition to this activity. The activity transitions through the error condition if there is an issue with the Notify client.
 
-**Parent Topic:**[Notify workflow activities](../concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 

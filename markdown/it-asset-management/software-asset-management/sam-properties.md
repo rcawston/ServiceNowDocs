@@ -93,7 +93,7 @@ Automatically create software models for all 'licensable' productscom.snc.samp.a
 
 Automatically creates a software model, in a non-compliant state, for any unlicensed installations, subscriptions, or options \(of licensable products\) in the Product Results list that don’t have an entitlement.The new software model and results are used to show the unlicensed count in the License Position Report.
 
- **Note:** For more information on automatically creating software models, see [Automatic creation of software models](../concept/duplicate-sw-models.md).
+ **Note:** For more information on automatically creating software models, see [Automatic creation of software models](duplicate-sw-models.md).
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Select the level of aggregation for reconciling licenses for Oracle databases an
 
  **Note:** This property is available only if you have activated the Software Asset Management publisher pack for Oracle.
 
- **Note:** This property supports domain separation using the domain separation application properties for Software Asset Management. See [Set up domain-specific reconciliation properties for Oracle](../task/define-application-properties-oracle.md) for more details.
+ **Note:** This property supports domain separation using the domain separation application properties for Software Asset Management. See [Set up domain-specific reconciliation properties for Oracle](define-application-properties-oracle.md) for more details.
 
 </td><td>
 
@@ -117,7 +117,7 @@ Level of aggregation that is used for reconciling Oracle Database and WebLogic S
 -   **ESX cluster** \(default value\): The **ESX cluster** aggregation level considers all processors on every ESX server within a cluster.
 -   **vCenter\(s\)**: The **vCenter\(s\)** aggregation level considers all processor cores on every ESX server.
 
-If you select this aggregation level, licensing calculations are based on the ESXi version that you’re using in your VMware virtual environment. See [Oracle Database and WebLogic Server licensing in soft-partitioned environments](../concept/oracle-licensing-soft-partitioned-environments.md) for more information on the supported ESXi versions.
+If you select this aggregation level, licensing calculations are based on the ESXi version that you’re using in your VMware virtual environment. See [Oracle Database and WebLogic Server licensing in soft-partitioned environments](oracle-licensing-soft-partitioned-environments.md) for more information on the supported ESXi versions.
 
 
 </td></tr><tr><td>
@@ -126,7 +126,7 @@ Use host affinity for reconciling licenses for Oracle databases and WebLogic ser
 
  **Note:** This property is available only if you have activated the Software Asset Management publisher pack for Oracle.
 
- **Note:** This property supports domain separation by using the domain separation application properties for Software Asset Management. See [Set up domain-specific reconciliation properties for Oracle](../task/define-application-properties-oracle.md) for more details.
+ **Note:** This property supports domain separation by using the domain separation application properties for Software Asset Management. See [Set up domain-specific reconciliation properties for Oracle](define-application-properties-oracle.md) for more details.
 
 </td><td>
 
@@ -222,7 +222,7 @@ Determines whether you should use RHEL Server or RHEL for Virtual Datacenters li
 
  The default threshold value is 3.2. This value is based on the ratio of the current RHEL Server subscription list price to the current RHEL for Virtual Datacenters subscription list price. If your entitlements contain different pricing for these products, you can calculate this value by dividing your RHEL for Virtual Datacenters subscription price by your RHEL Server subscription price.
 
- See [Software Asset Management for Red Hat Enterprise Linux](../concept/rhel-publisher-pack.md) for more information about how you can use this threshold value to determine the most optimal license type for your RHEL deployment.
+ See [Software Asset Management for Red Hat Enterprise Linux](rhel-publisher-pack.md) for more information about how you can use this threshold value to determine the most optimal license type for your RHEL deployment.
 
 </td></tr><tr><td>
 
@@ -240,7 +240,7 @@ Determines whether it’s more cost-effective to license the physical hosts or v
 
 Default Region for IBM Devicessn\_samp\_ibm\_lic.default\_region
 
-**Note:** This property is available only if you have activated the Software Asset Management publisher pack for IBM and installed the IBM License Compliance for Software Asset Management application. For details on how to install the application, see [Request the IBM License Compliance for Software Asset Management application for Authorized Software Asset Management Provider \(ASP\) integrations](../task/request-ibm-license-compliance-sam-application.md).
+**Note:** This property is available only if you have activated the Software Asset Management publisher pack for IBM and installed the IBM License Compliance for Software Asset Management application. For details on how to install the application, see [Request the IBM License Compliance for Software Asset Management application for Authorized Software Asset Management Provider \(ASP\) integrations](request-ibm-license-compliance-sam-application.md).
 
 </td><td>
 
@@ -308,8 +308,8 @@ com.snc.samp.manage.published.products
 
 </td><td>
 
-Enables you to publish software products in the phase-wise Software Asset Management implementation and also remove the published software products. The default value of this property is **false**. By setting the value of this property to **true**, you can view reports and dashboards only related to the software products that you manage in a phase-wise implementation of Software Asset Management in the following views of the Software Asset Workspace:-   [Software asset overview](../concept/sam-workspace-landing.md)
--   [License usage view](../concept/sam-workspace-workbench.md)
+Enables you to publish software products in the phase-wise Software Asset Management implementation and also remove the published software products. The default value of this property is **false**. By setting the value of this property to **true**, you can view reports and dashboards only related to the software products that you manage in a phase-wise implementation of Software Asset Management in the following views of the Software Asset Workspace:-   [Software asset overview](sam-workspace-landing.md)
+-   [License usage view](sam-workspace-workbench.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](references.md)

@@ -104,5 +104,5 @@ Retries the execution of the component where the error occurs.After selecting th
 </table>3.  Click **OK**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

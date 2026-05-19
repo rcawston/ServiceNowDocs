@@ -181,7 +181,7 @@ Select this option to create a complaint case from Virtual Agent. Provide a brie
 -   Expected resolution
  After the case is created, you can add a comment to the case or add attachments.
 
-**Note:** This option is available with the [Case Playbook for Complaints](../concept/csm-playbook-complaint-overview.md) application.
+**Note:** This option is available with the [Case Playbook for Complaints](csm-playbook-complaint-overview.md) application.
 
 </td></tr><tr><td id="d309867e517">
 
@@ -198,7 +198,7 @@ Request a callback when the wait time to reach agents is long or agents are unav
 **Related topics**  
 
 
-[Customer Service Virtual Agent conversations](../concept/csm-virtual-agent-chatbot.md)
+[Customer Service Virtual Agent conversations](csm-virtual-agent-chatbot.md)
 
 [Maximizing code reuse with topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-blocks-overview.md)
 

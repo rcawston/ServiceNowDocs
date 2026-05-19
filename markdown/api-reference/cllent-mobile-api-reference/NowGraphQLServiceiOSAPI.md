@@ -17,9 +17,9 @@ The NowGraphQLService class provides functions that enable you to make requests 
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Configuration settings provided when the service was initialized.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)|Configuration settings provided when the service was initialized.|
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowGraphQLService - execute\(query: GraphQLQuery\) async throws
 
@@ -242,7 +242,7 @@ configuration
 
 </td><td>
 
-[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
+[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)
 
 </td><td>
 

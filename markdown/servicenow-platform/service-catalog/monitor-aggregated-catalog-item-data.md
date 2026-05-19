@@ -31,7 +31,7 @@ The Catalog item translation coverage graph is displayed only if you have enable
 
 ![Service Catalog Overview dashboard](../image/sc-overview-dashboard.png)
 
-**Parent Topic:**[Service Catalog items](../concept/c_IntroductionToCatalogItems.md)
+**Parent Topic:**[Service Catalog items](c_IntroductionToCatalogItems.md)
 
 **Related topics**  
 

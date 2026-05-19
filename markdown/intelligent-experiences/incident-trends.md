@@ -24,9 +24,9 @@ The Analyze task trends agentic workflow enhances task management by detecting r
 
 The exact options for follow-up actions available can be configured.
 
-The agents, tools, and triggers associated with the Analyze task trends agentic workflow are provided by Now Assist applications. You can [activate the agentic workflow template](../task/activate-aia-use-case.md) by making triggers active and setting the display settings to include the Now Assist panel. If you want to change this agentic workflow's instructions, you must [duplicate it](../task/clone-aia-usecase.md), adjust the settings to suit your specific needs, and activate the duplicated version instead.
+The agents, tools, and triggers associated with the Analyze task trends agentic workflow are provided by Now Assist applications. You can [activate the agentic workflow template](activate-aia-use-case.md) by making triggers active and setting the display settings to include the Now Assist panel. If you want to change this agentic workflow's instructions, you must [duplicate it](clone-aia-usecase.md), adjust the settings to suit your specific needs, and activate the duplicated version instead.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](ai-native-sku-overview.md).
 
 ## Prerequisites and setup
 
@@ -40,7 +40,7 @@ You must also configure Group Action Framework \(GAF\). See [Group Action Framew
 
 Required role: sn\_uxc\_gen\_ai.platform\_ai\_analyze\_trnds.
 
-Agentic workflows and their AI agents use [role masking](aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](../task/define-sec-controls-aw.md).
+Agentic workflows and their AI agents use [role masking](aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](define-sec-controls-aw.md).
 
 In the data access settings, you must also add the necessary roles to enable reading of the tables for the records you want to access for trend analysis. For example, you can add the itil role to the agentic workflow's list of approved roles so that it can access Incident records.
 
@@ -121,13 +121,13 @@ Agentic workflows can be accessed in the Core UI and in workspaces in the AI Act
 
 To enable users to access agentic workflows with UI actions, you can open the agentic workflow in AI Agent Studio and navigate to the **Select channels and access** step. You can select a UI action as a possible way to access the workflow
 
-If you don't see your UI actions after configuring it in AI Agent Studio, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`. See [Enable the in-product experience for agentic workflows](../task/enable-inproduct-aia.md).
+If you don't see your UI actions after configuring it in AI Agent Studio, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`. See [Enable the in-product experience for agentic workflows](enable-inproduct-aia.md).
 
 ## Testing the Analyze task trends agentic workflow
 
-You can manually test an agentic workflow execution or access on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](../task/define-sec-controls-aw.md). Start a manual test, select a test type and the name of the workflow, and use utterances in the Task field like the following samples. See [Test an agentic workflow execution](../task/test-aia-use-case.md).
+You can manually test an agentic workflow execution or access on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](define-sec-controls-aw.md). Start a manual test, select a test type and the name of the workflow, and use utterances in the Task field like the following samples. See [Test an agentic workflow execution](test-aia-use-case.md).
 
-If you want to evaluate the agentic workflow over many different execution logs, run an [automated evaluation](../task/execute-aia-eval.md).
+If you want to evaluate the agentic workflow over many different execution logs, run an [automated evaluation](execute-aia-eval.md).
 
 ## Sample utterance
 
@@ -144,7 +144,7 @@ The time frame specified by the user can't exceed the maximum value set by the A
 
 ## Troubleshooting
 
-When running this agentic workflow, it's possible to see an error that states "I couldn't analyze as I didn't have the required resources." This error occurs when GAF isn't configured for the table you want to analyze. See [Configure Group Action Framework](../task/configure-gaf.md) for steps to configure GAF for the table. If you're still having issues after GAF is configured, reach out to Now Support.
+When running this agentic workflow, it's possible to see an error that states "I couldn't analyze as I didn't have the required resources." This error occurs when GAF isn't configured for the table you want to analyze. See [Configure Group Action Framework](configure-gaf.md) for steps to configure GAF for the table. If you're still having issues after GAF is configured, reach out to Now Support.
 
 ## AI agents used in the Analyze task trends agentic workflow
 

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Legal Simple Contracts, Legal Service Delivery Practice 
 
 The Third Party Contract Review form is used to submit a legal request to the legal department to get the third-party contracts reviewed.
 
-[Submit a legal request for a third-party contract review](../task/submit-legal-request-tpc-review.md).
+[Submit a legal request for a third-party contract review](submit-legal-request-tpc-review.md).
 
 <table id="table_wtn_xd3_ldb"><thead><tr><th>
 
@@ -47,7 +47,7 @@ Contract type
 
 </td><td>
 
-Type of contract.Only active contract types are listed in the field. For more information, see [Create a contract type](../task/create-contract-type.md).
+Type of contract.Only active contract types are listed in the field. For more information, see [Create a contract type](create-contract-type.md).
 
 </td></tr><tr><td>
 

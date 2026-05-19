@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for T1070 - Windows Events Logs Cleared playbook](../../secops-analyst-workspace/image/playbook-windows-event-trigger.png "T1070 - Windows Events Logs Cleared playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for T1070 - Windows Events Logs Cleared](../concept/playbook-windows-events-log.md)
+**Parent Topic:**[Playbook for T1070 - Windows Events Logs Cleared](playbook-windows-events-log.md)
 

@@ -45,5 +45,5 @@ Role required: sales\_agent
     -   The opportunity record is updated asynchronously with the latest product offerings and prices that are added to the quote.
     -   The synced opportunity state changes to closed when the quote is marked as complete
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

@@ -43,5 +43,5 @@ As a case analyst, you can choose and add the regulatory agency that is related 
 -   **[Create New Agency form](create-new-agency-form.md)**  
 Use the Create New Agency form in Compliance Workspace to create a regulatory agency. The regulatory agency is a new record type that handles regulatory changes or compliance case management.
 
-**Parent Topic:**[Regulatory Agency Library](../../grc-rcm/concept/regulatory-agency-library-rcm.md)
+**Parent Topic:**[Regulatory Agency Library](regulatory-agency-library-rcm.md)
 

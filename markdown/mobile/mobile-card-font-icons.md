@@ -99,5 +99,5 @@ Use mobile card font icons in the body of mobile cards. Mobile card font icons a
 |Calendar-Days-Outline|e93d|Australia|![Calendar-Days-Outline example](../image/mab-icon-card-cal-days.png)| |
 |Clipboard-Lines-Outline|e93e|Australia|![Clipboard-Lines-Outline example](../image/mab-icon-card-clip-lines.png)| |
 
-**Parent Topic:**[Mobile icon reference](../concept/mobile-icon-reference.md)
+**Parent Topic:**[Mobile icon reference](mobile-icon-reference.md)
 

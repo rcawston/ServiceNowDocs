@@ -121,7 +121,7 @@ Automation execution is canceled. The user canceled the execution manually.
 </table>**Related topics**  
 
 
-[Example: Use AI agents to process badge-related requests automatically](../task/example-use-badging-ai-agent-ad.md)
+[Example: Use AI agents to process badge-related requests automatically](example-use-badging-ai-agent-ad.md)
 
-[Example: Use AI agents to automatically enter data into the shipping management app](../task/example-use-shipping-ai-agent-ad.md)
+[Example: Use AI agents to automatically enter data into the shipping management app](example-use-shipping-ai-agent-ad.md)
 

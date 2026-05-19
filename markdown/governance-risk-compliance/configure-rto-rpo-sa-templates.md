@@ -73,7 +73,7 @@ The **Automations** tab only appears when the Impact Automation \(Post Assessmen
 
         ![General tab settings.](../image/bia-asmt-ws-general-tab-settings.png)
 
-        For more information on creating templates, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+        For more information on creating templates, see [Create an assessment template](smart-assessment-engine/sae-asmnt-template-create.md).
 
     2.  To save your changes, select **Save**.
 
@@ -346,5 +346,5 @@ Set recovery point objective: **1 week**
         3.  RTO and RPO fields are automatically populated on the impact analysis record.
         4.  Values appear in the Business Impact Analysis record.
 
-**Parent Topic:**[Setup for a business impact analysis](../concept/bcm-admin-tasks.md)
+**Parent Topic:**[Setup for a business impact analysis](bcm-admin-tasks.md)
 

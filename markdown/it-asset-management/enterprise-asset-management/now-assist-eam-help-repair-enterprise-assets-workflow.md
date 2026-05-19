@@ -70,15 +70,15 @@ Enterprise asset repair initiation
 1.  A user with the sn\_eam.asset\_technician role requests the repair of a defective enterprise asset through one of the following options:
     -   The Service Catalog application
 
-For more information on this request option, see [Request repair of enterprise assets using Service Catalog](../../enterprise-asset-management/task/repair-req-eam-assets-using-catalog.md).
+For more information on this request option, see [Request repair of enterprise assets using Service Catalog](repair-req-eam-assets-using-catalog.md).
 
     -   The Inventory view of the Enterprise Asset Workspace
 
-For more information on this request option, see [Create repair orders for enterprise assets in the Inventory view](../../enterprise-asset-management/task/repair-orders-for-eam-assets-in-inventory-view.md).
+For more information on this request option, see [Create repair orders for enterprise assets in the Inventory view](repair-orders-for-eam-assets-in-inventory-view.md).
 
     -   The Repair option on the corresponding asset record
 
-For more information on this request option, see [Request repair of an enterprise asset using the Repair option](../../enterprise-asset-management/task/repair-requests-using-asset-form-eam.md).
+For more information on this request option, see [Request repair of an enterprise asset using the Repair option](repair-requests-using-asset-form-eam.md).
 
 2.  A repair order and corresponding repair order line are created.
 3.  A troubleshooting-based repair asset task is automatically generated for the repair order line.
@@ -136,7 +136,7 @@ After the repair asset task is successfully validated, the workflow helps the us
 
 8.  Depending on whether the asset is repairable, unrepairable, or redeployable, the workflow proceeds as follows:
     -   If the asset is repairable, the workflow proceeds with [helping the user repair it](now-assist-eam-help-repair-enterprise-assets-workflow.md#repair).
-    -   If the asset is unrepairable, the user must dispose of it. For more information on asset disposals, see [Create a disposal order in the Enterprise Asset Workspace](../../enterprise-asset-management/task/create-eamdisposal-order.md).
+    -   If the asset is unrepairable, the user must dispose of it. For more information on asset disposals, see [Create a disposal order in the Enterprise Asset Workspace](create-eamdisposal-order.md).
     -   If the asset is redeployable, the user can help redeploy it.
 
 </td></tr><tr><td>
@@ -170,8 +170,8 @@ After the repair asset task is successfully validated, the workflow helps the us
 
 **Note:** You can view details about the completed repair steps in the work notes of the repair asset task.
 
-    -   If the repair asset task is closed with a resolution of Repaired, a corresponding Evaluate asset task is automatically generated. The user must then evaluate the repair to confirm if the asset is redeployable or must be disposed of. For more information on evaluating an asset repair, see [Evaluate the repaired asset in the Enterprise Asset Workspace](../../enterprise-asset-management/task/evaluate-repaired-eam-asset-ws.md).
-    -   If the repair asset task is closed with a resolution of Unrepairable, the user must dispose of the asset. For more information on asset disposals, see [Create a disposal order in the Enterprise Asset Workspace](../../enterprise-asset-management/task/create-eamdisposal-order.md).
+    -   If the repair asset task is closed with a resolution of Repaired, a corresponding Evaluate asset task is automatically generated. The user must then evaluate the repair to confirm if the asset is redeployable or must be disposed of. For more information on evaluating an asset repair, see [Evaluate the repaired asset in the Enterprise Asset Workspace](evaluate-repaired-eam-asset-ws.md).
+    -   If the repair asset task is closed with a resolution of Unrepairable, the user must dispose of the asset. For more information on asset disposals, see [Create a disposal order in the Enterprise Asset Workspace](create-eamdisposal-order.md).
     -   If the repair asset task is closed with a resolution of Redeployable, the user can help redeploy it.
 
 </td></tr></tbody>
@@ -218,5 +218,5 @@ Repair asset AI agent
 -   Updates and closes repair-based repair asset tasks.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Fulfilling repair orders in the Enterprise Asset Workspace](../../enterprise-asset-management/concept/fulfilling-repair-orders-eam.md)
+</table>**Parent Topic:**[Fulfilling repair orders in the Enterprise Asset Workspace](fulfilling-repair-orders-eam.md)
 

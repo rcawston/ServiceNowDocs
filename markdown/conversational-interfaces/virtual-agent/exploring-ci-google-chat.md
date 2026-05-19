@@ -47,8 +47,8 @@ Self-configured bot
 
 1.  On the Integrate Google chat with self configured bot screen, complete the information:
     -   Bot name: Enter a name for your bot.
-    -   Inbound Service Account Email: Enter the inbound service account email from [Integrate Virtual Agent with Google chat using the self-configured bot](../task/installing-ci-google-chat.md).
-    -   Outbound Service Account Email: Enter the outbound service account email from [Integrate Virtual Agent with Google chat using the self-configured bot](../task/installing-ci-google-chat.md).
+    -   Inbound Service Account Email: Enter the inbound service account email from [Integrate Virtual Agent with Google chat using the self-configured bot](installing-ci-google-chat.md).
+    -   Outbound Service Account Email: Enter the outbound service account email from [Integrate Virtual Agent with Google chat using the self-configured bot](installing-ci-google-chat.md).
     -   Private key password: The password is set when you create your key. The default is `notasecret`.
 2.  In the Attachments section, drag or select your .p12 file.
 3.  Select **Submit**.
@@ -67,8 +67,8 @@ Self-configured bot
 Follow these steps to add Conversational Integration with Google chat:
 
 1.  [Install Conversational Integration with Google chat](install-ci-google-chat.md)
-2.  [Integrate Virtual Agent with Google chat using the self-configured bot](../task/installing-ci-google-chat.md)
-3.  [Integrate Virtual Agent with Google chat](../task/integrating-va-google-chat.md)
+2.  [Integrate Virtual Agent with Google chat using the self-configured bot](installing-ci-google-chat.md)
+3.  [Integrate Virtual Agent with Google chat](integrating-va-google-chat.md)
 
 **Parent Topic:**[Conversational Integration with Google chat](gchat-conv-integration.md)
 

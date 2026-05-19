@@ -41,7 +41,7 @@ Users with the system administrator role can configure the necessary components 
 -   Configuring ACLs for the remote table to provide user access to the third-party data.
 -   Configuring the lists and forms that display data from the remote table.
 
-For more information, see [Configure third-party data integration for CSM](../task/config-csm-third-party-integration.md).
+For more information, see [Configure third-party data integration for CSM](config-csm-third-party-integration.md).
 
 ## Using third-party data integration
 

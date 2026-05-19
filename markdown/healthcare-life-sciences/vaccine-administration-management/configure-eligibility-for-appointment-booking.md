@@ -36,5 +36,5 @@ The users register and provide personal information in the portal. The informati
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

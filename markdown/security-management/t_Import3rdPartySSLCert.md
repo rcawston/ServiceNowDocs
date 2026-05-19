@@ -50,5 +50,5 @@ Role required: sn\_ti.write
     The other fields in the record are generated automatically.
 
 
-**Parent Topic:**[Integration troubleshooting](../concept/c_IntegrationTroubleshooting.md)
+**Parent Topic:**[Integration troubleshooting](c_IntegrationTroubleshooting.md)
 

@@ -51,5 +51,5 @@ If you’re having trouble installing the app, ensure that these dependent plugi
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the SumTotal spoke](../task/setup-sumtotal.md#).
+For information about setting up the spoke, see [Set up the SumTotal spoke](setup-sumtotal.md#).
 

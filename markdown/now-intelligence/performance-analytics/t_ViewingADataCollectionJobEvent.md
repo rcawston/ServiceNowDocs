@@ -28,7 +28,7 @@ Role required: pa\_data\_collector or admin
     Additional information on the job event is displayed.
 
 
-**Parent Topic:**[Data collection process and logging](../concept/data-collection-process-logging.md)
+**Parent Topic:**[Data collection process and logging](data-collection-process-logging.md)
 
 **Related topics**  
 

@@ -25,15 +25,15 @@ Team Development provides the following features:
 
 <table id="table_jxv_thb_1dc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Team Development features and concepts.](../concept/exploring-team-development.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Team Development features and concepts.](exploring-team-development.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and configure Team Development.](../task/configuring-team-development.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and configure Team Development.](configuring-team-development.md)
 
 </td><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-person.svg)Perform administrative duties in Team Development to support parallel development in your instances.](../task/administer-team-development.md)
+[Administer![](../../../reuse/icons/brand-icons/bus-person.svg)Perform administrative duties in Team Development to support parallel development in your instances.](administer-team-development.md)
 
 </td></tr></tbody>
 </table>

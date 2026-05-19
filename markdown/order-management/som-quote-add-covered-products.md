@@ -81,5 +81,5 @@ Add an install base item as a covered product.
     A contract is created with the contract details for the order line.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

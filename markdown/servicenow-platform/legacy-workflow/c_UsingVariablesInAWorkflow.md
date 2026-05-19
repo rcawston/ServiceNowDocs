@@ -15,9 +15,9 @@ breadcrumb: [Workflow management, Classic Workflow, ServiceNow AI Platform Addit
 
 Within workflow there are several different types of variables that are available.
 
-Some variables define, describe, or compose the pieces of the workflow \(such as [workflow activities](c_WorkflowActivities.md)\). Some variables are available specifically to facilitate the execution of a workflow \(such as scratchpad variables\). Some variables define, describe, or compose the data records being manipulated by the workflow process \(for example, the elements of a Glide Record that are defined in a dictionary.xml file describing a record, such as an incident\).
+Some variables define, describe, or compose the pieces of the workflow \(such as [workflow activities](../workflow-activities/c_WorkflowActivities.md)\). Some variables are available specifically to facilitate the execution of a workflow \(such as scratchpad variables\). Some variables define, describe, or compose the data records being manipulated by the workflow process \(for example, the elements of a Glide Record that are defined in a dictionary.xml file describing a record, such as an incident\).
 
-**Parent Topic:**[Workflow management](../../workflow-administration/concept/managing-workflows.md)
+**Parent Topic:**[Workflow management](managing-workflows.md)
 
 ## Activity variables
 
@@ -128,7 +128,7 @@ wf. startFlow (wfId , null , "Workflow Name" , vars ) ;
 
 If a workflow that accepts inputs is called from within another workflow, those input values can be set from the workflow canvas within the UI of the workflow activity. Each input variable declared for a subflow will have a text box input area displayed on the activity. Within these text boxes, the variables can be set with any value either from the scratchpad or from within the current record.
 
-For more information, see [Workflows used as subflows](../../workflow-activities/reference/workflows-as-subflows.md).
+For more information, see [Workflows used as subflows](workflows-as-subflows.md).
 
 ### Reading the Value of a Workflow Input Variable
 

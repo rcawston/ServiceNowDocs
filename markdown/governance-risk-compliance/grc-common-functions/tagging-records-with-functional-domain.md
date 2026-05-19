@@ -58,7 +58,7 @@ The following is a list of supported record types:
 
 -   **[Functional domain bulk update](functional-domain-bulk-update.md)**  
 The functional domain feature enables users to efficiently filter and sort records within a workspace based on domain-specific tags. For instance, when working in the Privacy Workspace, users can exclude records that are not tagged with privacy, allowing for a more focused view and reducing potential confusion.
--   **[Bulk update functional domain for multiple records](../task/bulk-update-functional-domain-for-multiple-records.md)**  
+-   **[Bulk update functional domain for multiple records](bulk-update-functional-domain-for-multiple-records.md)**  
 Update the functional domain for multiple records at once to save time and ensure efficiency.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)

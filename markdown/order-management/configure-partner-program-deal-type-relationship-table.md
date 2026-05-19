@@ -29,7 +29,7 @@ Role required: sn\_prm\_dr.deal\_reg\_admin
 
 4.  On the form, fill in the fields.
 
-    To learn more about the fields, see [Partner program deal type relationship table fields](../reference/partner-program-deal-type-relationship-table-fields.md).
+    To learn more about the fields, see [Partner program deal type relationship table fields](partner-program-deal-type-relationship-table-fields.md).
 
 5.  Select **Submit**.
 

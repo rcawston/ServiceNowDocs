@@ -124,7 +124,7 @@ Allows you to sequentially stagger the schedule. Use this option to run this sch
 **Related topics**  
 
 
-[Schedule a top-down discovery by Service Mapping](../../service-mapping/task/t_CreateDiscoSchedForCITypes.md)
+[Schedule a top-down discovery by Service Mapping](../service-mapping/t_CreateDiscoSchedForCITypes.md)
 
-[Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#)
+[Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#)
 

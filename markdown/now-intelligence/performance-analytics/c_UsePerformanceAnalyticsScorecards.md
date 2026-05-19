@@ -15,7 +15,7 @@ breadcrumb: [Reporting, dashboards, and Performance Analytics in the Core UI, Pl
 
 The Analytics Hub is an exploratory view of indicators, used for more detailed analysis. It lets you see trends, predictions, breakdowns, and associated records for a specific indicator. The Analytics Hub replaces scorecards.
 
-**Note:** In Platform Analytics, Analytics Hub functionality is in [KPI Details](../../par-for-workspace/concept/kpi-details.md). Navigate to **Platform Analytics** &gt; **Indicators**. After you migrate to Platform Analytics, only the [KPI Details](../../par-for-workspace/concept/kpi-details.md) option is available.
+**Note:** In Platform Analytics, Analytics Hub functionality is in [KPI Details](../kpi-details.md). Navigate to **Platform Analytics** &gt; **Indicators**. After you migrate to Platform Analytics, only the [KPI Details](../kpi-details.md) option is available.
 
 Introduction to using the Analytics Hub.
 

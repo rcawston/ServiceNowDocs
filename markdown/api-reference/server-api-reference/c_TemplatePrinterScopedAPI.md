@@ -17,7 +17,7 @@ The TemplatePrinter API provides methods to handle printing from a mail script t
 
 There is no constructor for this API. The methods are called in mail scripts using the template global variable.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TemplatePrinter - print\(String string\)
 

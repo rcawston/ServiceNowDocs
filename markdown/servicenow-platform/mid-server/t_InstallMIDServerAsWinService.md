@@ -36,34 +36,34 @@ This procedure is only for users who install the MID Server using the ZIP file. 
     -   If the MID Server is stopped, execute the `start.bat` file.
     -   If the MID Server is running, execute the `restart.bat` file.
 
-**Parent Topic:**[MID Server reference](../concept/mid-server-reference-information.md)
+**Parent Topic:**[MID Server reference](mid-server-reference-information.md)
 
 **Related topics**  
 
 
-[MID Server system requirements](../reference/r_MIDServerSystemRequirements.md)
+[MID Server system requirements](r_MIDServerSystemRequirements.md)
 
-[MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md)
+[MID Server upgrades](c_UpgradeAndTestMIDServer.md)
 
-[Resolving MID Server issues](../reference/r_MIDServerTroubleshooting.md)
+[Resolving MID Server issues](r_MIDServerTroubleshooting.md)
 
-[MID Server dashboard](../concept/c_MIDServerDashboard.md)
+[MID Server dashboard](c_MIDServerDashboard.md)
 
-[MID Server properties](../reference/r_MIDServerProperties.md#)
+[MID Server properties](r_MIDServerProperties.md#)
 
-[MID Server parameters](../reference/mid-server-parameters.md#)
+[MID Server parameters](mid-server-parameters.md#)
 
-[MID Server Configuration Parameter settings and priority](../reference/mid-config-param-priority.md)
+[MID Server Configuration Parameter settings and priority](mid-config-param-priority.md)
 
-[MID Server File Cleaner](../concept/mid_file_cleaner.md)
+[MID Server File Cleaner](mid_file_cleaner.md)
 
-[MID Server protected records and reserved characters](../reference/mid-server-reserved-characters.md)
+[MID Server protected records and reserved characters](mid-server-reserved-characters.md)
 
-[MID Server privileged commands](../concept/c_PrivilegedCommandsForMIDServer.md#)
+[MID Server privileged commands](c_PrivilegedCommandsForMIDServer.md#)
 
-[MIDSystem methods](../reference/r_MIDSystemMethods.md)
+[MIDSystem methods](r_MIDSystemMethods.md)
 
-[MID Server heartbeat](../reference/r_MIDServerHeartbeat.md)
+[MID Server heartbeat](r_MIDServerHeartbeat.md)
 
 [Set the MID Server JVM memory size](t_MIDServerOptionalConfiguration.md)
 

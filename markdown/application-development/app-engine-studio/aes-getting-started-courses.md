@@ -32,5 +32,5 @@ Use the following learning modules to quickly explore ways to build apps.
 |Learn more about application development|
 |----------------------------------------|
 |You can learn about [How citizen developers cook up innovation](https://www.servicenow.com/blogs/2023/how-citizen-developers-cook-up-innovation.html) on the ServiceNow blog.|
-|For more information about defining cross-scope access to an application resource and approving or denying requests, see [Define cross-scope access to an application resource](../../applications/task/set-RCA-level.md).|
+|For more information about defining cross-scope access to an application resource and approving or denying requests, see [Define cross-scope access to an application resource](../set-RCA-level.md).|
 

@@ -28,11 +28,11 @@ Two OT change models are available for you to use:
 
 The OT Change Basic model uses the change process without approvals.
 
-For more information about the OT Change Basic Model, see [Basic OT Change Model playbook](../concept/basic-ot-change-model.md).
+For more information about the OT Change Basic Model, see [Basic OT Change Model playbook](basic-ot-change-model.md).
 
-The OT Change Advanced model uses the change process with approvals. You can create a change approval policy and assign an approval group to review your change request. For more information about change approvals, see [Operational Technology change approval](../reference/ot-change-approval.md).
+The OT Change Advanced model uses the change process with approvals. You can create a change approval policy and assign an approval group to review your change request. For more information about change approvals, see [Operational Technology change approval](ot-change-approval.md).
 
-For more information about the Advanced OT Change Model, see [Advanced OT Change Model playbook](../concept/advanced-ot-change-model.md).
+For more information about the Advanced OT Change Model, see [Advanced OT Change Model playbook](advanced-ot-change-model.md).
 
 ## Procedure
 
@@ -51,10 +51,10 @@ For more information about the Advanced OT Change Model, see [Advanced OT Change
 
 The change model is applied to your system and you can begin creating OT change requests.
 
--   **[Basic OT Change Model playbook](../concept/basic-ot-change-model.md)**  
+-   **[Basic OT Change Model playbook](basic-ot-change-model.md)**  
 Learn about the Basic Operational Technology \(OT\) Change Model playbook stages that an OT change without approvals must go through until it’s completed.
--   **[Advanced OT Change Model playbook](../concept/advanced-ot-change-model.md)**  
+-   **[Advanced OT Change Model playbook](advanced-ot-change-model.md)**  
 Learn about the Advanced Operational Technology \(OT\) Change Model playbook stages that an OT change with approvals must go through until it’s completed.
 
-**Parent Topic:**[Configuring Operational Technology Change Management](../concept/configuring-operational-technology-change-request.md)
+**Parent Topic:**[Configuring Operational Technology Change Management](configuring-operational-technology-change-request.md)
 

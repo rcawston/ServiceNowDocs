@@ -48,5 +48,5 @@ You can view the detailed reference records in your current decision table insta
 6.  Select the ![reference record info icon](../image/reference-record-icon.png) icon to view the record details.
 
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](using-decision-builder.md)
 

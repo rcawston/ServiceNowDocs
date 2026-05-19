@@ -69,7 +69,7 @@ Only Screen 1 – Select Implementations.There are no common inputs or implement
 -   Shodan
 
 </td></tr></tbody>
-</table>-   **[Observable Enrichment](../concept/tisc-observable-enrichment.md)**  
+</table>-   **[Observable Enrichment](tisc-observable-enrichment.md)**  
 The Enrich Observable WhoIs workflow performs enrichment on selected observables. If the observables are of a type recognized by the WhoisXML API Integration, the observables are enriched.
 -   **[Run Threat Lookup](tisc-run-threat-lookup.md)**  
 Select one or more implementations as applicable to run threat lookup on observables.
@@ -78,5 +78,5 @@ Perform Run Sighting Search related integration.
 -   **[Run Observable Enrichment](tisc-run-observable-enrichment.md)**  
 Select one or more implementations as applicable to run threat lookup on observables.
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](observables.md)
 

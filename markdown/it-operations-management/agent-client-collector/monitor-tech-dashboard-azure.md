@@ -25,8 +25,8 @@ To view the dashboard, navigate to **All** &gt; **AIOps Dashboards** &gt; **Moni
 
 Before using the Monitoring Technology Dashboard for Azure:
 
--   Create an Azure credential. For details on creating Azure credentials, see [Create Azure cloud credentials](../../discovery/task/create-azure-cloud-credentials.md).
--   Create a Discovery schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md).
+-   Create an Azure credential. For details on creating Azure credentials, see [Create Azure cloud credentials](../discovery/create-azure-cloud-credentials.md).
+-   Create a Discovery schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [Discovery for Microsoft Azure](../discovery/azure-cloud-discovery.md).
 -   Ensure that you’re working in the Agent Client Collector Monitoring scope in your ServiceNow instance.
 -   Ensure that the agent\_client\_collector\_admin and dashboard\_admin roles are enabled.
 -   Enable Metric Intelligence on the MID Server.
@@ -52,7 +52,7 @@ You can filter the dashboard data according to the following filters:
 |Time range filter|The time range for which you want metric data to display on the dashboard.|
 |Metrics by selected CI filter|The CIs for which you want metric data to display on the dashboard.|
 
-You can customize the appearance of the individual widgets on the Azure Monitoring Technology Dashboard. For example, you could change the time that the CPU usage on virtual machines is displayed. You can also include the customized widgets when you’re creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](../task/customize-dashboard-widgets.md).
+You can customize the appearance of the individual widgets on the Azure Monitoring Technology Dashboard. For example, you could change the time that the CPU usage on virtual machines is displayed. You can also include the customized widgets when you’re creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](customize-dashboard-widgets.md).
 
 **Parent Topic:**[Understanding the Monitoring Technology Dashboard](monitor-tech-dashboard-concept.md)
 

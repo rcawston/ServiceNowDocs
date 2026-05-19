@@ -177,11 +177,11 @@ Role required: sn\_sp\_con.admin and admin.
 
     1.  On the Graph connection form, fill in the fields.
 
-        For a description of the field value, see [Graph connection form](../reference/graph-connection-form.md).
+        For a description of the field value, see [Graph connection form](graph-connection-form.md).
 
     2.  On the REST connection form, fill in the fields.
 
-        For a description of the field value, see [REST connection form](../reference/rest-connection-form.md).
+        For a description of the field value, see [REST connection form](rest-connection-form.md).
 
     3.  Right-click the form header and click **Save**.
 

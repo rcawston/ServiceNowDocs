@@ -27,7 +27,7 @@ Role required: sn\_lc.task\_creator
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Learning task form](../reference/learning-task-form.md).
+    For a description of the field values, see [Learning task form](learning-task-form.md).
 
 4.  Click **Submit**.
 
@@ -47,5 +47,5 @@ Role required: sn\_lc.task\_creator
 
 [Create a learning library](create-ln-ctg.md)
 
-[Learning task form](../reference/learning-task-form.md)
+[Learning task form](learning-task-form.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Manage
 
 Optimize how much your organization spends on SaaS and SSO licensing by analyzing the subscription usage, cost, and compliance of your SaaS applications and SSO providers using the SaaS Overview dashboard.
 
-**Important:** The SaaS Overview dashboard is available in both the Software Asset Management classic application and the Software Asset Workspace. This topic provides information on the SaaS Overview dashboard in the Software Asset Management classic application. For information on the SaaS Overview dashboard in the Software Asset Workspace, see [SaaS overview dashboard in workspace](../reference/saas-dashboard-workspace.md).
+**Important:** The SaaS Overview dashboard is available in both the Software Asset Management classic application and the Software Asset Workspace. This topic provides information on the SaaS Overview dashboard in the Software Asset Management classic application. For information on the SaaS Overview dashboard in the Software Asset Workspace, see [SaaS overview dashboard in workspace](../software-asset-management/saas-dashboard-workspace.md).
 
 The Engineering License Overview dashboard is no longer available for new Australia users who have activated the Software Asset Management Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
 
@@ -126,7 +126,7 @@ Potential cost saved for each subscription profile if you reclaim unused subscri
 **Related topics**  
 
 
-[Request SaaS License Management](../task/request-saas-license-management.md)
+[Request SaaS License Management](request-saas-license-management.md)
 
 [SaaS License Management setup for large companies](saas-setup-large-companies.md)
 
@@ -138,21 +138,21 @@ Potential cost saved for each subscription profile if you reclaim unused subscri
 
 [Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
 
-[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)
+[Review a software reclamation rule](add-reclamation-rule-sub.md)
 
 [Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)
 
-[Create a child alias to set up multiple Cisco Webex integration profiles](../task/create-child-alias-webex.md)
+[Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)
 
-[Create a child alias to set up multiple Confluence Cloud integration profiles](../task/create-child-alias-confluence.md)
+[Create a child alias to set up multiple Confluence Cloud integration profiles](create-child-alias-confluence.md)
 
-[Create a child alias to set up multiple Jira integration profiles](../task/create-child-alias-jira.md)
+[Create a child alias to set up multiple Jira integration profiles](create-child-alias-jira.md)
 
-[Associate a user with subscription records](../task/map-user-data.md)
+[Associate a user with subscription records](map-user-data.md)
 
-[Disconnect SSO apps](../task/disconnect-azure-ad-apps.md)
+[Disconnect SSO apps](disconnect-azure-ad-apps.md)
 
 [Delete an integration profile](delete-saas-integration.md)
 

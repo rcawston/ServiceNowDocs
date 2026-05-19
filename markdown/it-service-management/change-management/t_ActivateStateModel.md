@@ -63,10 +63,10 @@ If you upgraded from a release prior to Geneva, you must [update old state label
 
 -   **[Update change request states](state-model-activate-tasks.md)**  
 If you upgraded from a release prior to Geneva, you must update old state labels to new state labels after you activate the Change Management state model.
--   **[Installed with Change Management - State Model](../reference/r_InstalledWithStateModel.md#)**  
+-   **[Installed with Change Management - State Model](r_InstalledWithStateModel.md#)**  
 Several types of components are installed with the Change Management - State Model.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

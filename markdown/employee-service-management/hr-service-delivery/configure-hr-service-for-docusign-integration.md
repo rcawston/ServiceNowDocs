@@ -21,7 +21,7 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-Depending on whether the user is signing an ad hoc document \(HR PDF document template\) or a DocuSign template, the following preconfigured HR services, flows, and HR case templates are available for your use and example. See [HR services](../concept/hr-service-administration.md) to learn more about HR service configuration, generally.
+Depending on whether the user is signing an ad hoc document \(HR PDF document template\) or a DocuSign template, the following preconfigured HR services, flows, and HR case templates are available for your use and example. See [HR services](hr-service-administration.md) to learn more about HR service configuration, generally.
 
 |Flow|Component|Name|
 |----|---------|----|
@@ -82,5 +82,5 @@ Depending on whether the user is signing an ad hoc document \(HR PDF document te
     7.  On the HR service form, click **Update**.
 
 
-**Parent Topic:**[Integrating with the DocuSign service](../concept/docusign-integration-for-hr.md)
+**Parent Topic:**[Integrating with the DocuSign service](docusign-integration-for-hr.md)
 

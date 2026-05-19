@@ -110,5 +110,5 @@ A link to the document is listed in the **External URL** column of the documents
     **Note:** The **Approvals** tab appears only when the Legal Content Review request or its attachment has approval records.
 
 
-**Parent Topic:**[Legal Content Review requests](../concept/legal-content-review-requests.md)
+**Parent Topic:**[Legal Content Review requests](legal-content-review-requests.md)
 

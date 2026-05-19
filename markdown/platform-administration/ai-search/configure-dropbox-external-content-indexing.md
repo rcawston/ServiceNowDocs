@@ -105,5 +105,5 @@ Your connector admin needs these items to configure a Dropbox external content c
 
 For details on creating and configuring a Dropbox external content connector, see [Create a Dropbox external content connector](create-ext-cont-connector-dropbox.md).
 
-**Parent Topic:**[Dropbox external content connector](../concept/dropbox-external-content-connector.md)
+**Parent Topic:**[Dropbox external content connector](dropbox-external-content-connector.md)
 

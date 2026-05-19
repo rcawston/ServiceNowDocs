@@ -26,7 +26,7 @@ The PowerShell functions are used by the PowerShell MID Server script files incl
 
 This script performs a few tasks, such as credential testing, password encryption, and the execution of scripts configured in the Orchestration Activity Designer or in MID Script Files. However, this document focuses on how PSScript.ps1 uses the `credential.psm1` module for testing access to remote hosts.
 
-The PowerShell variables are generally used directly in the [PowerShell execution command](../../../administer/orchestration-activity-designer/task/CreateInputVariables.md#) or as arguments in the MID Server script file you specify. There are special variables that are passed to PSScript.ps1, such as **credType**.
+The PowerShell variables are generally used directly in the [PowerShell execution command](CreateInputVariables.md#) or as arguments in the MID Server script file you specify. There are special variables that are passed to PSScript.ps1, such as **credType**.
 
 ![Using credType in execution parameters](../image/credTypeExample.png "Using credType in execution parameters")
 
@@ -123,11 +123,11 @@ This module file stores the functions used by the PowerShell scripts shipped wit
 
 ## Exchange.psm1
 
-This module file stores the functions used by the PowerShell scripts shipped with the [Exchange](../../../administer/orchestration-activities/concept/c_OrchestrationExchangeActivities.md) activity pack.
+This module file stores the functions used by the PowerShell scripts shipped with the [Exchange](c_OrchestrationExchangeActivities.md) activity pack.
 
 ## SCCM.psm1
 
-This module file stores the functions used by the PowerShell scripts shipped with the [SCCM](../../../administer/orchestration-activities/concept/c_SCCMActivityPack.md) activity pack.
+This module file stores the functions used by the PowerShell scripts shipped with the [SCCM](c_SCCMActivityPack.md) activity pack.
 
 **Parent Topic:**[PowerShell protocols and troubleshooting](powershell-protocols.md)
 

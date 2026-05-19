@@ -17,7 +17,7 @@ Verify that the spoke is integrated with CSD 2.0 after setting up and configurin
 
 ## Before you begin
 
--   Activate the Microsoft Endpoint Configuration Manager spoke and set up the spoke. For more information about the spoke setup, see [Set up the Microsoft Endpoint Configuration Manager spoke](../concept/csd2-conf-sccm.md#).
+-   Activate the Microsoft Endpoint Configuration Manager spoke and set up the spoke. For more information about the spoke setup, see [Set up the Microsoft Endpoint Configuration Manager spoke](csd2-conf-sccm.md#).
 -   Activate the CSD 2.0 application.
 -   Role required: admin
 
@@ -50,5 +50,5 @@ Verify that the spoke is integrated with CSD 2.0 after setting up and configurin
         **Note:** You can configure the default flows as per your requirement.
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](../concept/csd2.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](csd2.md)
 

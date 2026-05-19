@@ -21,7 +21,7 @@ These two separate procedures \(importing the wrapping key pair and importing th
 
 **Note:** This example uses OpenSSL for key and certificate generation and the Postman API test tool to show REST API use. Substitute other comparable tools based on your company requirements.
 
-**Parent Topic:**[Key Management Framework](../../encryption/concept/encryption.md)
+**Parent Topic:**[Key Management Framework](../encryption.md)
 
 ## Import the wrapping / unwrapping key pair
 

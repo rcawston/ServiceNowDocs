@@ -150,5 +150,5 @@ Create known error article for high impact Problem
 Returns guidance based recommendation for a high-impact problem.Select **Create article** to create a known error article for a high-impact problem.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Recommended Actions for ITSM reference](../concept/recommended-actions-for-itsm-reference.md)
+</table>**Parent Topic:**[Recommended Actions for ITSM reference](recommended-actions-for-itsm-reference.md)
 

@@ -59,12 +59,12 @@ Steps
 </td></tr></tbody>
 </table>2.  On the Target form, click the **Update Actual value** related link.
 
-    For a description of the field values, see [Target form](../reference/target-form.md).
+    For a description of the field values, see [Target form](target-form.md).
 
 
 ## Result
 
-After the **Actuals to date** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](../concept/progress-value-calculation.md). For information on how the progress value is calculated for a target that has target breakdowns, see [Target breakdowns](../concept/target-breakdowns-gf.md).
+After the **Actuals to date** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](progress-value-calculation.md). For information on how the progress value is calculated for a target that has target breakdowns, see [Target breakdowns](target-breakdowns-gf.md).
 
 **Related topics**  
 

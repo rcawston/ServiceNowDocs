@@ -35,7 +35,7 @@ This store app has the following dependencies:
 -   Now Assist for platform \(sn\_genai\_platform\)
 -   Employee Center \(sn\_ex\_sp\)
 
-For more information, see [Configure Now Assist for Employee Experience](../task/configure-nowassist-emp-exp.md).
+For more information, see [Configure Now Assist for Employee Experience](configure-nowassist-emp-exp.md).
 
 **Parent Topic:**[Explore Now Assist for Employee Experience](explore-now-assist-for-emp-exp.md)
 

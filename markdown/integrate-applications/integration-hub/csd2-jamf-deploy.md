@@ -24,5 +24,5 @@ This process deploys an application to a user or device through a service catalo
     ![Deployment flow specific to the Jamf provider.](../image/csd2-jamf-flows2.png)
 
 
-**Parent Topic:**[CSD 2.0 for Jamf](../concept/csd2-jamf-tsk.md)
+**Parent Topic:**[CSD 2.0 for Jamf](csd2-jamf-tsk.md)
 

@@ -23,7 +23,7 @@ Description of the field values for the Metric Category form.
 Description of the field values for the Assessment Metric form. Use the fields when you create an assessment metric for a category.
 -   **[Trigger Condition form for assessments](trigger-condition-form-for-assessment.md)**  
 Description of the field values for the Trigger Condition form for assessments.
--   **[Domain separation and Assessments](../concept/domain-separation-assessments.md)**  
+-   **[Domain separation and Assessments](domain-separation-assessments.md)**  
 Domain separation is supported for Assessments. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Parent Topic:**[Assessments](r_Assessments.md)

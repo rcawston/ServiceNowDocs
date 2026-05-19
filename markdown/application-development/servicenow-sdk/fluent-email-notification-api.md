@@ -25,7 +25,7 @@ For general information about email notifications, see [Email and SMS notificati
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## EmailNotification object
 

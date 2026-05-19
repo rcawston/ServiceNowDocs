@@ -21,7 +21,7 @@ To publish a form, you must be given permission to work on the app.
 
 ## About this task
 
-After you publish a form, it's available in the specified catalog on the instance you're working on. However, you still need to deploy your app to the production instance for users to access the form. For more information, see [Deploying your Creator Studio app](../concept/creator-studio-publishing-apps.md).
+After you publish a form, it's available in the specified catalog on the instance you're working on. However, you still need to deploy your app to the production instance for users to access the form. For more information, see [Deploying your Creator Studio app](creator-studio-publishing-apps.md).
 
 ## Procedure
 
@@ -50,5 +50,5 @@ The catalog item for the form is ready to be deployed with your app. Once the ap
 
 **Note:** If you published a form and then edit it, you can’t use the version that's being edited in a condition for a playbook, for example as a trigger for the automation. However, you can use the published version of the form or publish the version that you’re editing, which makes its question answers available to use in playbook conditions.
 
-**Parent Topic:**[Working with forms in Creator Studio](../concept/creator-studio-work-with-forms.md)
+**Parent Topic:**[Working with forms in Creator Studio](creator-studio-work-with-forms.md)
 

@@ -74,5 +74,5 @@ To import data into these default tables, follow these steps:
     **Note:** You can send emails only to the team members associated with the account.
 
 
-**Parent Topic:**[Data capture and validation](../concept/account-lifecycle-use-playbook-data-capture.md)
+**Parent Topic:**[Data capture and validation](account-lifecycle-use-playbook-data-capture.md)
 

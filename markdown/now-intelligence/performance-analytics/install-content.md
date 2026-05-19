@@ -53,7 +53,7 @@ Install a single solution metadata record used by a dashboard, such as a widget,
 -   **[Duplicate an Analytics and Reporting Solution dashboard](duplicate-dashboard.md)**  
 Copy an Platform Analytics Solution dashboard, including the tabs, portal pages, and canvas records. Widgets on the dashboard are not duplicated.
 
-**Parent Topic:**[Platform Analytics solutions](../concept/content-packs-in-form-analytics-published.md)
+**Parent Topic:**[Platform Analytics solutions](content-packs-in-form-analytics-published.md)
 
 **Related topics**  
 

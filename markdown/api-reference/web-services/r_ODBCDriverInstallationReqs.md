@@ -261,5 +261,5 @@ The ODBC driver provides only basic support for Informatica. Use the ODBC driver
 8.1
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Installing the ODBC driver](../concept/c_InstallingTheODBCDriver.md)
+</table>**Parent Topic:**[Installing the ODBC driver](c_InstallingTheODBCDriver.md)
 

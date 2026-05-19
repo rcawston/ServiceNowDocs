@@ -21,7 +21,7 @@ Learn about available Accelerators and initiatives that you can request to help 
 
 The catalog page displays the number of accelerators and initiatives in use along with the entitled usage limits. For example, 1/2 in use indicates that the instance uses one accelerator out of the permissible limit of two. You can choose to browse the catalog of accelerators and request another suitable accelerator to make the best use of the entitlement in the package.
 
-**Note:** The number of Accelerators and initiatives that you're entitled to is based on your subscription package. See [Impact packages](../reference/impact-packages.md) for additional information.
+**Note:** The number of Accelerators and initiatives that you're entitled to is based on your subscription package. See [Impact packages](../impact-packages.md) for additional information.
 
 ## All Accelerators and initiatives
 

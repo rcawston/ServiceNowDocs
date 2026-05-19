@@ -105,7 +105,7 @@ Clear the**Auto publish FDS subscriptions** check box.
 
 10. In the Consumer criteria related list, add a consumer criteria to determine which consumer instances are eligible to receive the offering.
 
-    For information on consumer criteria, see [Create a consumer criteria](../concept/service-bridge-v2-create-consumer-criteria.md) topic.
+    For information on consumer criteria, see [Create a consumer criteria](service-bridge-v2-create-consumer-criteria.md) topic.
 
 11. Select **Publish**.
 

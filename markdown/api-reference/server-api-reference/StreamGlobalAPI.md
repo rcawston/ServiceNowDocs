@@ -18,7 +18,7 @@ The Stream API provides methods to interact with a stream of items such as recor
 You can get a Stream object in these ways:
 
 -   Instantiate a Stream object using the constructor.
--   Return a Stream object from the GlideQuery.select\(\) method. For more information, see [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#).
+-   Return a Stream object from the GlideQuery.select\(\) method. For more information, see [GlideQuery](GlideQueryGlobalAPI.md#).
 
 This method is static and does not require an instance of the class: [fromArray\(\)](StreamGlobalAPI.md#).
 
@@ -26,7 +26,7 @@ Use the Stream API in scoped or global server-side scripts. This API requires th
 
 ## Implementation
 
-This API can work with the [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#) and [Optional](../../Optional/concept/OptionalGlobalAPI.md#) APIs in a builder pattern where the method calls chain together, each method building on the returned result of the previous method. Use methods to define the attributes of the query. The methods do not execute until you call a terminal method, a method that returns a query result, allowing you to define the requirements of the query before executing it.
+This API can work with the [GlideQuery](GlideQueryGlobalAPI.md#) and [Optional](OptionalGlobalAPI.md#) APIs in a builder pattern where the method calls chain together, each method building on the returned result of the previous method. Use methods to define the attributes of the query. The methods do not execute until you call a terminal method, a method that returns a query result, allowing you to define the requirements of the query before executing it.
 
 If the query returns a single record, the system wraps the result in an Optional object. If the query returns a stream of records, the system wraps the result in a Stream object. These objects let you manage the result using a set of methods in each API.
 
@@ -63,13 +63,13 @@ For performance reasons, a query only fetches data when you call a terminal meth
 -   [some\(\)](StreamGlobalAPI.md#)
 -   [toArray\(\)](StreamGlobalAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Stream - Stream\(Function nextFn\)
 
 Instantiates a Stream object.
 
-Instead of using this constructor, you can return a Stream object based on a query using the [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#) API.
+Instead of using this constructor, you can return a Stream object based on a query using the [GlideQuery](GlideQueryGlobalAPI.md#) API.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -255,7 +255,7 @@ false
 
 Applies a predicate function to each item in the Stream object. If the predicate returns true, the method returns the stream. If the predicate returns false, it returns an empty Stream object.
 
-For better performance, use the where\(\), whereNotNull\(\), and whereNull\(\) methods in the GlideQuery class instead of this method where possible. See [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#).
+For better performance, use the where\(\), whereNotNull\(\), and whereNull\(\) methods in the GlideQuery class instead of this method where possible. See [GlideQuery](GlideQueryGlobalAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -460,7 +460,7 @@ Output:
 
 Limits the number of results returned by the stream.
 
-For better performance, use the limit\(\) method in the GlideQuery class where possible. See [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#). You may need to use this method to limit results with the Stream.flatMap\(\) method.
+For better performance, use the limit\(\) method in the GlideQuery class where possible. See [GlideQuery](GlideQueryGlobalAPI.md#). You may need to use this method to limit results with the Stream.flatMap\(\) method.
 
 |Name|Type|Description|
 |----|----|-----------|

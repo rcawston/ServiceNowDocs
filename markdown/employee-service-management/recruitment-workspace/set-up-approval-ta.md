@@ -40,5 +40,5 @@ Hiring Experiences provides an approval flow, where the approval request goes to
 7.  Select **Publish**.
 
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](config-recruitment.md)
 

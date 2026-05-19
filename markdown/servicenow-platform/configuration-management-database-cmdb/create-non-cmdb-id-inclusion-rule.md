@@ -43,5 +43,5 @@ In the base system, there are no predefined identification inclusion rules. Iden
 4.  Click **Save**.
 
 
-**Parent Topic:**[IRE support for non-CMDB tables](../concept/ire-support-non-cmdb-tables.md)
+**Parent Topic:**[IRE support for non-CMDB tables](ire-support-non-cmdb-tables.md)
 

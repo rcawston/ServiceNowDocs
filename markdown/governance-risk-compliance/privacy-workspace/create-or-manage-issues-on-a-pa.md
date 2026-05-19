@@ -44,5 +44,5 @@ Issues get created when there are control attestation failures. You can also man
 7.  Click **Save**.
 
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

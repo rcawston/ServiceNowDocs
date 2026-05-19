@@ -23,7 +23,7 @@ Role required: admin
 
 ## Procedure
 
-1.  [Launch Dependency Assessment](../../dashboards/task/launch-dependency-assessment.md) on the Performance Analytics entity you want to investigate.
+1.  [Launch Dependency Assessment](launch-dependency-assessment.md) on the Performance Analytics entity you want to investigate.
 
     1.  Navigate to **Performance Analytics** &gt; **Dashboards**.
 
@@ -44,5 +44,5 @@ Role required: admin
 5.  Click the reset button \(![](../image/tree-view-reset-icon.png)\) to return the tree view to the base selection as shown in the header.![Dependency assessment on the dashboard Usage by Requestor, with the reset button highlighted.](../image/dependency-assessment-reset.png)
 
 
-**Parent Topic:**[Dependency Assessment](../concept/impact-analysis.md)
+**Parent Topic:**[Dependency Assessment](impact-analysis.md)
 

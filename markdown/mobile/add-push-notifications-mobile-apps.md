@@ -19,9 +19,9 @@ Role required: admin
 
 ## About this task
 
-This task describes how to reuse a push notification from one mobile app to another using MAB. For more information about MAB, see [Mobile App Builder](../concept/mab-concept.md).
+This task describes how to reuse a push notification from one mobile app to another using MAB. For more information about MAB, see [Mobile App Builder](mab-concept.md).
 
-To create a push notification from scratch, see [Mobile push notifications](../concept/sg-mobile-push-notifications.md).
+To create a push notification from scratch, see [Mobile push notifications](sg-mobile-push-notifications.md).
 
 In MAB, mobile notifications aren’t tied to a specific application scope and don't change based on the application scope you’re using. You can reuse push notifications that contain workflows from other ServiceNow® mobile applications and then use MAB to update records so they point to the correct app.
 
@@ -92,7 +92,7 @@ For example, if you have a push notification configured for Now Mobile, the stan
 
     ![Mobile App Builder UI showing selection of application to reuse the push notification message content.](../image/mab-push-not-content-nuapp.png)
 
-    **Important:** If you have any deep links in the **Push message content** script, the mobile app call used by the deep link generator must be changed to point to the application that you specified in the **Push app** field. For more information, see [Deep linking for mobile](../concept/deep-link-mobile.md).
+    **Important:** If you have any deep links in the **Push message content** script, the mobile app call used by the deep link generator must be changed to point to the application that you specified in the **Push app** field. For more information, see [Deep linking for mobile](deep-link-mobile.md).
 
 14. Select **Save**.
 
@@ -123,5 +123,5 @@ If this event record's mobile push application matches that of an associated acc
 |Now Mobile®|ServiceNow Request Application|SkyNowRequestPushApp|Requestor|
 |Mobile Agent|ServiceNow Mobile Application|SkyNowPushApp|Agent|
 
-**Parent Topic:**[Mobile push notifications](../concept/sg-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notifications](sg-mobile-push-notifications.md)
 

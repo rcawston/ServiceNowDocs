@@ -44,5 +44,5 @@ Role required: none
     **Note:** The copy/paste functionality is supported in Chrome, Firefox, and Internet Explorer 11.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](c_PostContentInLiveFeed.md)
 

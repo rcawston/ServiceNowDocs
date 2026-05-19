@@ -57,9 +57,9 @@ Pattern match
 
 An upgrade to Xanadu Patch 3 or higher, when Dynamic Translation is active, includes activation of Exclusion Framework by default.
 
-**Note:** Dynamic Translation requires a Professional or above subscription. For information see [Activate Dynamic Translation](../task/activate-dynamic-translation.md).
+**Note:** Dynamic Translation requires a Professional or above subscription. For information see [Activate Dynamic Translation](activate-dynamic-translation.md).
 
-An upgrade to Xanadu Patch 3 or higher also converts the Dynamic Translation flows from v3 to v4. The v4 flows contain subflows for working with Exclusion Framework. Translator configurations available by default are automatically upgraded to v4. For more information, see [Migrate customized Translator Configurations to v4 flows](../task/migrate-v4-dynamic-translation.md).
+An upgrade to Xanadu Patch 3 or higher also converts the Dynamic Translation flows from v3 to v4. The v4 flows contain subflows for working with Exclusion Framework. Translator configurations available by default are automatically upgraded to v4. For more information, see [Migrate customized Translator Configurations to v4 flows](migrate-v4-dynamic-translation.md).
 
 A system property in **All** &gt; **Dynamic Translation** &gt; **Properties** enables you to activate or deactivate Exclusion Framework: sn\_dt.dynamic\_framework.enable\_exclusion\_framework.
 
@@ -73,9 +73,9 @@ By default Exclusion Framework provides several exclusion rules, and you can add
 
 Because Exclusion Framework is activated by default you can complete its configuration as follows.
 
-1.  Ensure that your third-party machine translation service has an active record in the Exclusion Provider Pattern \[sn\_dt\_provider\_exclusion\_pattern\] table. If you have chosen a custom translator service you must input their exclusion tags. For information see [Add an Exclusion Provider Pattern](../task/dyn-translation-exclusion-provider.md).
+1.  Ensure that your third-party machine translation service has an active record in the Exclusion Provider Pattern \[sn\_dt\_provider\_exclusion\_pattern\] table. If you have chosen a custom translator service you must input their exclusion tags. For information see [Add an Exclusion Provider Pattern](dyn-translation-exclusion-provider.md).
 2.  Review any existing records in the Exclusion Rules \[sn\_dt\_exclusion\_rules\] table to check whether they are appropriate for your needs. Rules that are provided by default can be deactivated by clearing the Active check box, but they can't be edited.
-3.  Add more exclusion rules according to your organizational requirements. For information see [Add new rules to Exclusion Framework](../task/dyn-translation-add-exclusion-rule.md).
+3.  Add more exclusion rules according to your organizational requirements. For information see [Add new rules to Exclusion Framework](dyn-translation-add-exclusion-rule.md).
 
 ## Exclusion Framework's operational process
 
@@ -93,11 +93,11 @@ Exclusion Framework supports domain separation. Each domain on an instance can h
 
 When multiple domains exist on one instance, Exclusion Framework is activated on all domains. Deactivating Exclusion Framework on a per-domain basis isn't supported. As an alternative, deactivate every rule in a domain where you want Exclusion Framework to be inactive.
 
--   **[Add new rules to Exclusion Framework](../task/dyn-translation-add-exclusion-rule.md)**  
+-   **[Add new rules to Exclusion Framework](dyn-translation-add-exclusion-rule.md)**  
 Add terms and patterns that shouldn't be machine translated to the Exclusion Rules table. You can create either exact match rules or pattern match rules, and you can edit your rules later.
--   **[Test Exclusion Rule](../task/dyn-translation-test-exclusion-rule.md)**  
+-   **[Test Exclusion Rule](dyn-translation-test-exclusion-rule.md)**  
 Test Exclusion Rule in Dynamic Translation enables you to test your exclusion pattern manually. You can check whether the pattern accurately excludes a text string from translation.
--   **[Add an Exclusion Provider Pattern](../task/dyn-translation-exclusion-provider.md)**  
+-   **[Add an Exclusion Provider Pattern](dyn-translation-exclusion-provider.md)**  
 As part of the configuration of Exclusion Framework in Dynamic Translation, enter the tags used by your translation provider to mark text that should not be machine translated.
 
 **Parent Topic:**[Configuring Dynamic Translation](configuring-dynamic-translation.md)

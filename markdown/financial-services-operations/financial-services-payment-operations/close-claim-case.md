@@ -46,5 +46,5 @@ If there's a Customer or Consumer Service Portal for customers, they get a notif
 
 A pre-configured email about the case closure is sent to the claim customer.
 
-**Parent Topic:**[Managing payment claims and debit approvals](../concept/managing-payment-claims.md)
+**Parent Topic:**[Managing payment claims and debit approvals](managing-payment-claims.md)
 

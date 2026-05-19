@@ -29,7 +29,7 @@ The sidebar tab that contains Agent assist, Recommended Actions, attachments, an
 
 3.  On the User Preference record form, fill in the fields.
 
-    For a description of the field values, see [User preference form](../reference/contextual-sidebar-form.md).
+    For a description of the field values, see [User preference form](contextual-sidebar-form.md).
 
 4.  Select **Submit**.
 
@@ -38,5 +38,5 @@ The sidebar tab that contains Agent assist, Recommended Actions, attachments, an
 
 The new user preference record is displayed in the list of user preferences.
 
-**Parent Topic:**[Configuring ICW Core](../concept/configuring-icw-core.md)
+**Parent Topic:**[Configuring ICW Core](configuring-icw-core.md)
 

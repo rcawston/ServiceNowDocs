@@ -109,5 +109,5 @@ Notes about the repair order.
 5.  Select **Save**.
 
 
-**Parent Topic:**[Request repair of defective enterprise assets](../concept/request-repair-defective-eam-assets.md)
+**Parent Topic:**[Request repair of defective enterprise assets](request-repair-defective-eam-assets.md)
 

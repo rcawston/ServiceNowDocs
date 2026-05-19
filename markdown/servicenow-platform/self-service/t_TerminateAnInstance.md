@@ -30,5 +30,5 @@ Role required: admin
     This list does not support multi-line selection, and there is no **undo** feature.
 
 
-**Parent Topic:**[Amazon EC2 instance request from the Service Catalog](../concept/c_AmazonEC2InstanceRequest.md)
+**Parent Topic:**[Amazon EC2 instance request from the Service Catalog](c_AmazonEC2InstanceRequest.md)
 

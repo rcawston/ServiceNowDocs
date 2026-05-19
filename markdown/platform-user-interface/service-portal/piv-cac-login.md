@@ -50,10 +50,10 @@ The next time you log in to your portal, you can log in using your PIV/CAC card.
 
 To log out of the portal, select your avatar and then select **Logout**. Then, close the browser window.
 
-**Parent Topic:**[Managing portal access](../concept/portal-security.md)
+**Parent Topic:**[Managing portal access](portal-security.md)
 
 **Related topics**  
 
 
-[Login widget](../concept/login-widget.md)
+[Login widget](login-widget.md)
 

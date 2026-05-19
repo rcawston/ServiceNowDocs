@@ -64,5 +64,5 @@ Role required: admin
 9.  Select **Submit**.
 
 
-**Parent Topic:**[Creating and executing a PowerShell script-based remedial action](../concept/remedial-actions-ps.md)
+**Parent Topic:**[Creating and executing a PowerShell script-based remedial action](remedial-actions-ps.md)
 

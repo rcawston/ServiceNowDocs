@@ -61,7 +61,7 @@ The Health and Safety Incident Management OSHA Content Pack includes preconfigur
 
     2.  Select the corresponding system property for the OSHA form PDF template that you updated.
 
-        For information on the OSHA form PDF template system properties, see [Health and Safety Incident Management OSHA Content Pack properties](../reference/properties-installed-osha-content-pack.md).
+        For information on the OSHA form PDF template system properties, see [Health and Safety Incident Management OSHA Content Pack properties](properties-installed-osha-content-pack.md).
 
     3.  Update the sys\_id that you copied in step 2.
 
@@ -72,5 +72,5 @@ The Health and Safety Incident Management OSHA Content Pack includes preconfigur
 
 The new OSHA form PDF template is available and is used when exporting the corresponding OSHA form.
 
-**Parent Topic:**[Setting up the OSHA Content Pack](../concept/configuring-osha-forms.md)
+**Parent Topic:**[Setting up the OSHA Content Pack](configuring-osha-forms.md)
 

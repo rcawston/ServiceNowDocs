@@ -108,5 +108,5 @@ Raw collected metadata in N-Triples RDF format containing: -   Collector executi
 
 Use the logs to identify collection issues, verify data asset discovery, and troubleshoot failed runs. Focus on Warning and Error level messages for troubleshooting. Download detailed log files when you need to share diagnostic information with support or perform deep analysis of collection behavior.
 
-**Parent Topic:**[Running metadata collectors](../concept/run-metadata-collectors-dc.md)
+**Parent Topic:**[Running metadata collectors](run-metadata-collectors-dc.md)
 

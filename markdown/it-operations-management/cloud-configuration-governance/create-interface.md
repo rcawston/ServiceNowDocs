@@ -18,7 +18,7 @@ You can create a new CAPI interface or extend an existing one by adding new oper
 ## Before you begin
 
 -   Role required: admin
--   Review [Default CAPI APIs](../reference/default-apis.md) and make sure the provider and product that you want to create do not exist.
+-   Review [Default CAPI APIs](default-apis.md) and make sure the provider and product that you want to create do not exist.
 -   Familiarize yourself with the cloud provider API so that you know how to create REST calls to the provider. If you are not familiar with the headers, authentication requirements, endpoint, and data that you can pass into the provider API, you cannot build your own CAPI components.
 
 ## About this task
@@ -66,5 +66,5 @@ Usually, you can use the default interfaces that are provided in the Cloud Provi
 
 [Create a CAPI API](create-api.md)
 
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](cloud-management-v2-landing-page.md)
 

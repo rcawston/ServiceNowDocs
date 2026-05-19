@@ -38,5 +38,5 @@ Role required: knowledge\_admin or admin
 
 Open a knowledge article and access the Knowledge Translation Tasks related list to view the associated translation tasks.
 
-**Parent Topic:**[Use translation management](../concept/use-translation-management.md)
+**Parent Topic:**[Use translation management](use-translation-management.md)
 

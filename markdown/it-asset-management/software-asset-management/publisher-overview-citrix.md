@@ -97,5 +97,5 @@ License consumption trends for your Citrix software products. Each data point re
 </td></tr></tbody>
 </table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](workbench-publisherfields-workspace.md).
 
-**Parent Topic:**[Software Asset Management publisher pack for Citrix](../concept/citrix-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Citrix](citrix-publisher-pack.md)
 

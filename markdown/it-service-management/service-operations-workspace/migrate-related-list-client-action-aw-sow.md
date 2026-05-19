@@ -92,5 +92,5 @@ Role required: admin
     **Note:** The **ITEM\_SELECTED** and **PREVIEW\_RECORD** actions function in the ITSM Agent Workspace but not in SOW. Therefore, a new action payload named "CREATE\_NEW\_RECORD" Is introduced in SOW. While there could be other action payloads that might not function properly, the base system client actions for List continue to work effectively in SOW post-migration.
 
 
-**Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/related-list-declarative-actions-aw-sow.md)
+**Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](related-list-declarative-actions-aw-sow.md)
 

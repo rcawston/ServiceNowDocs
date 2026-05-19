@@ -23,7 +23,7 @@ Use the ServiceNow® Now Assist for APO application to help your fulfillers beco
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for APO application to get started](../task/configuring-now-assist-apo.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for APO application to get started](configuring-now-assist-apo.md)
 
 </td><td>
 

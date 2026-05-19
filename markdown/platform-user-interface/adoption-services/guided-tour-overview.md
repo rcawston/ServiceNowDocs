@@ -104,5 +104,5 @@ Shows the 10 tours that are dismissed most frequently.
 </td></tr></tbody>
 </table>![Tour Statistics tab](../image/dashboardtourstatistics1.png "Sample Tour Statistics tab")
 
-**Parent Topic:**[Using Guided Tours](../concept/using-guided-tours.md)
+**Parent Topic:**[Using Guided Tours](using-guided-tours.md)
 

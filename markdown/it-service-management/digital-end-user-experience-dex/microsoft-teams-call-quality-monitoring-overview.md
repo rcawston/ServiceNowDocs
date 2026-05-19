@@ -27,5 +27,5 @@ DEX advanced monitoring for Microsoft Teams call quality provides the following 
 -   Gain actionable insights through dashboards and reports, enabling IT teams to validate improvements and track organizational communication health.
 -   Reduce help desk tickets related to meeting and calling issues by proactively resolving root causes.
 
-To monitor Microsoft Teams call quality, see [Monitor Microsoft Teams call quality](../../dex-for-microsoft-365/task/monitor-teams-call-quality.md).
+To monitor Microsoft Teams call quality, see [Monitor Microsoft Teams call quality](monitor-teams-call-quality.md).
 

@@ -23,7 +23,7 @@ To use the enhanced sync feature, see the following steps.
 
 1.  Configure the Enhanced Sync properties to define the behavior of the sync operations between Indoor Mapping and Workplace Service Delivery.
 
-    For more information about the Enhanced Sync properties, see [Enhanced Sync Properties](../reference/enhanced-sync-properties.md).
+    For more information about the Enhanced Sync properties, see [Enhanced Sync Properties](enhanced-sync-properties.md).
 
 2.  Update data in Workplace Core.
 
@@ -41,7 +41,7 @@ To use the enhanced sync feature, see the following steps.
 
 4.  Review pending sync operations to process or ignore the operations.
 
-    For more information about Enhanced Sync operations, see [Manage enhanced sync operations](../task/manage-sync-operations.md).
+    For more information about Enhanced Sync operations, see [Manage enhanced sync operations](manage-sync-operations.md).
 
 5.  Review the sync activities for information about the updates made to Indoor Mapping and Workplace Core as part of enhanced sync.
 
@@ -54,12 +54,12 @@ To use the enhanced sync feature, see the following steps.
     You can view the sync error logs by navigating to **All** &gt; **Workplace Core** &gt; **Enhanced Sync** &gt; **Enhanced Sync Error Logs**.
 
 
--   **[Manage enhanced sync operations](../task/manage-sync-operations.md)**  
+-   **[Manage enhanced sync operations](manage-sync-operations.md)**  
 Review pending sync operations and decide whether to process or ignore the operation.
 
 **Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
-**Previous topic:**[Synchronize Indoor Mapping map data with CMN location](../task/sync-ind-mapping-cmn-location.md)
+**Previous topic:**[Synchronize Indoor Mapping map data with CMN location](sync-ind-mapping-cmn-location.md)
 
-**Next topic:**[Manage enhanced sync operations](../task/manage-sync-operations.md)
+**Next topic:**[Manage enhanced sync operations](manage-sync-operations.md)
 

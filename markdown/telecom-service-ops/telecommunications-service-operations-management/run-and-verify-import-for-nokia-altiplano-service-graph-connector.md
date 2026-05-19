@@ -70,12 +70,12 @@ Example: After executing the import schedule:
 -   If **Concurrent Import** option is enabled in the import schedule, you’ll see records in the **Concurrent Import Set** table instead of the standard Import Set table.
 -   Each concurrent job creates its own import set and log entry. The structure of the execution records remains the same.
 
-**Parent Topic:**[Using Telecommunications Service Operations Management](../concept/using-tsom.md)
+**Parent Topic:**[Using Telecommunications Service Operations Management](using-tsom.md)
 
 **Related topics**  
 
 
-[Configure Nokia Altiplano service graph connector](../concept/configuring-service-graph-connector-nokia-altiplano.md)
+[Configure Nokia Altiplano service graph connector](configuring-service-graph-connector-nokia-altiplano.md)
 
-[Telecom Discovery via Nokia Altiplano](../concept/service-graph-connector-for-nokia-altiplano.md#)
+[Telecom Discovery via Nokia Altiplano](service-graph-connector-for-nokia-altiplano.md#)
 

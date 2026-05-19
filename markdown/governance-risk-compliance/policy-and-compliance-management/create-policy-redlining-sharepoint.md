@@ -33,7 +33,7 @@ Apart from associating documents that reside in Microsoft OneDrive and Google Dr
 
 3.  Navigate to **Compliance library** &gt; **My policies**.
 
-    You can [create a new policy](../../grc-workspace-compliance/task/create-policy-ws.md) or open a policy record to associate a document.
+    You can [create a new policy](../grc-compliance-management-workspace/create-policy-ws.md) or open a policy record to associate a document.
 
 4.  Select a policy to associate a policy document from the Microsoft SharePoint site.
 

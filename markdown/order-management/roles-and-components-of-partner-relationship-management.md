@@ -208,7 +208,7 @@ Navigate to **All** &gt; **Partner Relationship Management** &gt; **Properties**
 -   glide.ui.sn\_prm\_partner\_program\_relationship\_activity.fields
 -   glide.ui.sn\_prm\_channel\_partner\_activity.fields
 
--   **[Add responsibilities to PRM roles](../task/add-responsibilities-to-prm-roles.md)**  
+-   **[Add responsibilities to PRM roles](add-responsibilities-to-prm-roles.md)**  
 A responsibility describes a role or function that supports a user. Use responsibility definitions to create relationships between any two partner entities.
 
 **Parent Topic:**[Configure Partner Relationship Management](configure-partner-relationship-management.md)
@@ -216,7 +216,7 @@ A responsibility describes a role or function that supports a user. Use responsi
 **Related topics**  
 
 
-[Install Partner Relationship Management](../task/install-partner-relationship-management.md)
+[Install Partner Relationship Management](install-partner-relationship-management.md)
 
 [Data model for Partner Relationship Management](data-model-for-partner-relationship-management.md)
 

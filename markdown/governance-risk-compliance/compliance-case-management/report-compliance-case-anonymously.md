@@ -27,7 +27,7 @@ ARC gives employees a safe, confidential way to report suspected misconduct with
 
 **Note:** When submitting an anonymous report, don't include personal data about yourself or other individuals that could directly or indirectly reveal an identity. For example, names, email addresses, or phone numbers.
 
-Anonymous reports accept standard text characters. Avoid including executable code, scripts, or unsupported special characters, as they may be removed automatically during submission. For more information, refer to [Overview of Anonymous Reporting Center](../../grc-common/concept/grc-anonymous-reporting-center.md).
+Anonymous reports accept standard text characters. Avoid including executable code, scripts, or unsupported special characters, as they may be removed automatically during submission. For more information, refer to [Overview of Anonymous Reporting Center](../grc-common-functions/grc-anonymous-reporting-center.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ Anonymous reports accept standard text characters. Avoid including executable co
 
 7.  On the form, fill in the fields.
 
-    For a description of the field values on the **Report a Compliance Case** form, see [Anonymous compliance case form](../reference/anonymous-compliance-case-form.md).
+    For a description of the field values on the **Report a Compliance Case** form, see [Anonymous compliance case form](anonymous-compliance-case-form.md).
 
 8.  Enter the CAPTCHA verification code on the screen.
 
@@ -62,10 +62,10 @@ Anonymous reports accept standard text characters. Avoid including executable co
 
 A compliance case is created and routed to the compliance case team for review. Your identity remains anonymous and is recorded as a guest. If the assigned case analyst needs more details, they may add comments to the report.
 
-To respond to their comments, refer to [Follow up on a case anonymously](../../grc-common/task/grc-follow-up-anonymously.md).
+To respond to their comments, refer to [Follow up on a case anonymously](../grc-common-functions/grc-follow-up-anonymously.md).
 
--   **[Anonymous compliance case form](../reference/anonymous-compliance-case-form.md)**  
+-   **[Anonymous compliance case form](anonymous-compliance-case-form.md)**  
 The fields in the **Report a compliance case** form capture details about the suspected or confirmed compliance issue without disclosing the reporter's identity.
 
-**Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](../concept/reporting-compliance-case.md)
+**Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](reporting-compliance-case.md)
 

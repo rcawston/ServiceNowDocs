@@ -30,7 +30,7 @@ Role required: catalog\_admin or admin
 4.  Right-click on the form header and click **Save**.
 
 
-**Parent Topic:**[Incident templates and record producers](../concept/incident-templates-record-producers.md)
+**Parent Topic:**[Incident templates and record producers](incident-templates-record-producers.md)
 
 **Related topics**  
 

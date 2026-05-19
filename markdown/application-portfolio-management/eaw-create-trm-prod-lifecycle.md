@@ -31,12 +31,12 @@ Role required: sn\_apm.apm\_analyst
 
 5.  On the form, fill in the fields.
 
-    For field information, see [Create new TRM product form](../../reference/eaw-reference/eaw-new-trm-prod-form.md).
+    For field information, see [Create new TRM product form](eaw-new-trm-prod-form.md).
 
 6.  Select **Create**.
 
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 

@@ -35,7 +35,7 @@ Role required: Any user of the Microsoft Word document and sn\_grc\_claims.manag
 
 4.  On the **Claims for reporting** form, fill in the fields.
 
-    For more information regarding the field descriptions, see [Claims for reporting fields](../concept/claims-for-reporting-fields.md).
+    For more information regarding the field descriptions, see [Claims for reporting fields](claims-for-reporting-fields.md).
 
 5.  Select **Save**.
 

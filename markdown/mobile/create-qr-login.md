@@ -57,5 +57,5 @@ Role required: none
 3.  Use your QR code to access the mobile app. For steps to use a QR code with the app, see [Add a ServiceNow instance to ServiceNow mobile apps](login-end-user.md).
 
 
-**Parent Topic:**[Mobile authentication](../concept/mobile-authentication.md)
+**Parent Topic:**[Mobile authentication](mobile-authentication.md)
 

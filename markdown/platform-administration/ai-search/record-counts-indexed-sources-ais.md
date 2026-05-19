@@ -42,5 +42,5 @@ The AI Search Indexed Source Statistics \[ais\_datasource\_stats\] table contain
     **Note:** The entry for an indexed source indicates the number of indexed records from that source when the **AIS Collect Ingestion Stats** scheduled job ran at the time listed in the Updated field.
 
 
-**Parent Topic:**[Administering AI Search](../concept/administer-ais.md)
+**Parent Topic:**[Administering AI Search](administer-ais.md)
 

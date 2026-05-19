@@ -35,7 +35,7 @@ Role required: sn\_apm.apm\_analyst
 
 8.  In the Create New Business Application page, fill in the form fields.
 
-    For field information, see [Business application form](../../reference/eaw-reference/eaw-business-application-form.md).
+    For field information, see [Business application form](eaw-business-application-form.md).
 
 9.  Select **Save**.
 
@@ -44,16 +44,16 @@ Role required: sn\_apm.apm\_analyst
 
 The business application is added to the TRM product.
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 
 
-[Manage the Technology Reference Model in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-managing-the-technology-portfolio.md)
+[Manage the Technology Reference Model in Enterprise Architecture Workspace](eaw-managing-the-technology-portfolio.md)
 
-[Exploring business applications](../../concept/eaw-concept/eaw-manage-business-applications.md)
+[Exploring business applications](eaw-manage-business-applications.md)
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
-[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 

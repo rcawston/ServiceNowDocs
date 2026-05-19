@@ -25,11 +25,11 @@ Role required: ui\_builder\_admin
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Open or create a page.
 
-    For more information, see [Manage UI Builder pages and page variants](../concept/work-pages.md).
+    For more information, see [Manage UI Builder pages and page variants](work-pages.md).
 
 4.  If you do not have any components on your page, add a **Data set** component to your page.
 
@@ -70,7 +70,7 @@ Add an EVAM definition and other information about the data source. -   Type: Co
 -   EVAM Filter Preference: In the **EVAM Filter Preference** field, add the sys\_ids for the EVAM data filter.
  To add an event handler for when that data fetch is initiated, succeeded, or failed, select **Events**.
 
- In the [Now Code Editor](../concept/ui-builder-glossary.md#) section, which is next to the Configuration pane, preview the EVAM definition script.
+ In the [Now Code Editor](ui-builder-glossary.md#) section, which is next to the Configuration pane, preview the EVAM definition script.
 
  ![EVAM Data Resource Configuration.](../image/EVAM-Data-Resource-Sample.png "EVAM Data Resource configuration")
 
@@ -142,5 +142,5 @@ To add an EVAM definition and other information about the data source, select **
     ![Finished state of EVAM.](../image/EVAM-SampleFinishedState.png "Finished state of the EVAM")
 
 
-**Parent Topic:**[Work with the Entity View Action Mapper for UI Builder](../concept/evam-ui-builder.md)
+**Parent Topic:**[Work with the Entity View Action Mapper for UI Builder](evam-ui-builder.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Engagement home page, Customer success, Use, Customer Success Manag
 
 A primary success outcome refers to the result or goal that is used to measure the achievement of a success objective.
 
-When you create a success blueprint for an engagement, you can define success objectives and outcomes for each objective. See [Create a success blueprint](../task/account-lifecycle-create-blueprint.md) for details. You can view this page either by navigating from the Engagement record page or by following these steps:
+When you create a success blueprint for an engagement, you can define success objectives and outcomes for each objective. See [Create a success blueprint](account-lifecycle-create-blueprint.md) for details. You can view this page either by navigating from the Engagement record page or by following these steps:
 
 1.  Login as a user with the sn\_acct\_lc.customer\_success\_agent role.
 2.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** and select the **List** icon.
@@ -21,7 +21,7 @@ When you create a success blueprint for an engagement, you can define success ob
 
 This page contains the following tabs:
 
--   Details: See [Create a primary success outcome](../task/account-lifecycle-create-outcome.md) for a detailed description of the fields.
+-   Details: See [Create a primary success outcome](account-lifecycle-create-outcome.md) for a detailed description of the fields.
 -   Success Initiatives: Shows the list of success initiatives associated with this outcome.
 -   Approvers: Shows the list of approvers for this outcome.
 -   Risk Signals and Issues: Lists any risk signals or issues associated with this outcome.

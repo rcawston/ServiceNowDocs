@@ -48,5 +48,5 @@ Role required: Microsoft Azure admin
 9.  Select **Yes** in the pop-up dialog box to save the settings.
 
 
-**Parent Topic:**[Request-based chat access for a guest user](../concept/guest-user-chat-access-st.md)
+**Parent Topic:**[Request-based chat access for a guest user](guest-user-chat-access-st.md)
 

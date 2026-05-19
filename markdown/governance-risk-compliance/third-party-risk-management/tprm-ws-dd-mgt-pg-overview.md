@@ -23,23 +23,23 @@ For each due diligence request, the system auto-assigns a unique ID number that 
 
 -   **Viewing basic information about a request on the Details tab**
 
-    From the Details tab, you can view and adjust the due diligence request information for a third party. You can also log external-facing comments and private work notes, attach files, and track request updates in the activity stream. See [Due diligence request process management](../reference/tprm-ws-dd-mgt-pg-details-tab.md).
+    From the Details tab, you can view and adjust the due diligence request information for a third party. You can also log external-facing comments and private work notes, attach files, and track request updates in the activity stream. See [Due diligence request process management](tprm-ws-dd-mgt-pg-details-tab.md).
 
 -   **Monitoring the IRQ process**
 
-    The first internal step after an engagement request is approved is to start the IRQ process to scope the risk by determining the third party's risk score. You can access the Due diligence management page from many locations by selecting the **DDR** number for any due diligence request. See [IRQ process management](../reference/tprm-ws-dd-mgt-pg-irq-tab.md).
+    The first internal step after an engagement request is approved is to start the IRQ process to scope the risk by determining the third party's risk score. You can access the Due diligence management page from many locations by selecting the **DDR** number for any due diligence request. See [IRQ process management](tprm-ws-dd-mgt-pg-irq-tab.md).
 
 -   **Monitoring the external due diligence process**
 
-    Select a VRA **Number** to open the external assessments page in the Due diligence management page. See [Third-party \(external\) risk assessment management](../reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md).
+    Select a VRA **Number** to open the external assessments page in the Due diligence management page. See [Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md).
 
 -   **Monitoring the approval process**
 
-    You can view the list of users who can approve or reject a DD request and also view the details of their approval actions. In addition, you can view the approval levels for a request. See [Approval process management](../reference/tprm-ws-dd-mgt-pg-approvals.md).
+    You can view the list of users who can approve or reject a DD request and also view the details of their approval actions. In addition, you can view the approval levels for a request. See [Approval process management](tprm-ws-dd-mgt-pg-approvals.md).
 
 -   **View the risk intelligence scores for a third party**
 
-    The information on the **Risk intelligence scores** tab comes from risk intelligence provider services. Select any link to drill into the settings and scores. See [Viewing risk intelligence scores](../reference/tprm-ws-tab-risk-intel-scores.md).
+    The information on the **Risk intelligence scores** tab comes from risk intelligence provider services. Select any link to drill into the settings and scores. See [Viewing risk intelligence scores](tprm-ws-tab-risk-intel-scores.md).
 
 -   **Monitoring the Contract risk process**
 
@@ -48,7 +48,7 @@ For each due diligence request, the system auto-assigns a unique ID number that 
 
 ## Actions on the Due diligence management pages
 
-**Tip:** When you create \(or the system generates\) a new record \(for example, a request for due diligence or a task\), the system auto-assigns a unique ID number that helps to identify the type of data in the record. You can use the ID number to search for or filter the item you want to work on. See [Unique ID numbers for TPRM records](../../grc-vendor-risk/reference/tprm-records-chars-in-number.md).
+**Tip:** When you create \(or the system generates\) a new record \(for example, a request for due diligence or a task\), the system auto-assigns a unique ID number that helps to identify the type of data in the record. You can use the ID number to search for or filter the item you want to work on. See [Unique ID numbers for TPRM records](tprm-records-chars-in-number.md).
 
 <table id="table_dld_1dt_fyb"><thead><tr><th>
 

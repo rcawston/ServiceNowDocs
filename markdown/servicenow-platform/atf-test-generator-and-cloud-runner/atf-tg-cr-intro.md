@@ -33,11 +33,11 @@ The test generator intelligently creates tests by analyzing instance behavior an
 
 </td><td>
 
-[Operate ![](../image/icon-operate.png) Generate the tests](../task/atf-tg-cr-generate-tests.md)
+[Operate ![](../image/icon-operate.png) Generate the tests](atf-tg-cr-generate-tests.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../common/image/icon-use.png) Execute the test using Cloud Runner](../task/atf-tg-cr-execute-tests.md)
+[Use ![](../../../common/image/icon-use.png) Execute the test using Cloud Runner](atf-tg-cr-execute-tests.md)
 
 </td><td>
 

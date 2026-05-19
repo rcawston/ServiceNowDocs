@@ -252,5 +252,5 @@ sn\_risk.manager
 -   Modify risk statements that are added to a risk framework.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using the item generation process to generate controls and risks](../concept/item-generation-process.md)
+</table>**Parent Topic:**[Using the item generation process to generate controls and risks](item-generation-process.md)
 

@@ -28,7 +28,7 @@ Role required: sn\_apm.apm\_user
 4.  Select **Departments**.
 
 
-**Parent Topic:**[Manage departments](../../concept/eaw-concept/eaw-manage-departments.md)
+**Parent Topic:**[Manage departments](eaw-manage-departments.md)
 
 **Related topics**  
 

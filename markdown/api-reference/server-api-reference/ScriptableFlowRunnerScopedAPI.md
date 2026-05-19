@@ -75,7 +75,7 @@ This example shows how to create a ScriptableFlowRunner builder object and uses 
    
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ScriptableFlowRunner - action\(String scopedActionName\)
 

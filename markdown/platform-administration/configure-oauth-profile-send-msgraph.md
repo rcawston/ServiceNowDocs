@@ -74,5 +74,5 @@ Role required: admin and Microsoft Azure portal administrator
 9.  Navigate to **Overview** &gt; **Endpoints** and copy the **OAuth 2.0 token endpoint \(v2\)** to a text file.
 
 
-**Parent Topic:**[Sending email using Microsoft Graph](../concept/send-email-using-ms-graph.md)
+**Parent Topic:**[Sending email using Microsoft Graph](send-email-using-ms-graph.md)
 

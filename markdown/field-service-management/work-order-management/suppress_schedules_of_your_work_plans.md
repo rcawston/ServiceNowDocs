@@ -58,7 +58,7 @@ Suppress Period
 
 </td><td>
 
-Time period during which overlapping schedule occurrences are identified, allowing the system to suppress duplicate work order tasks.The property sn\_fsm\_planned\_wm.tolerance\_span allows you to customize the time window for the suppression period. For more information, see [Planned Work Management system properties](../reference/planned_work_management_sys_properties.md).
+Time period during which overlapping schedule occurrences are identified, allowing the system to suppress duplicate work order tasks.The property sn\_fsm\_planned\_wm.tolerance\_span allows you to customize the time window for the suppression period. For more information, see [Planned Work Management system properties](../planned_work_management_sys_properties.md).
 
 </td></tr><tr><td>
 

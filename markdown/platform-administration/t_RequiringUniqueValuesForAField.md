@@ -29,17 +29,17 @@ The system also doesn't allow you to add a unique index if a non-unique index al
 
 2.  Right-click the field label in the form and select **Configure Dictionary**.
 
-3.  [Configure the form](../../form-administration/concept/configure-form-layout.md#) to add the **Unique** field if it does not already appear.
+3.  [Configure the form](configure-form-layout.md#) to add the **Unique** field if it does not already appear.
 
 4.  Select the **Unique** check box.
 
 5.  **Update**.
 
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
 
-[Configuring the form layout](../../form-administration/concept/configure-form-layout.md#)
+[Configuring the form layout](configure-form-layout.md#)
 

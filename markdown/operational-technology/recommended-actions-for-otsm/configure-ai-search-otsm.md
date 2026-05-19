@@ -40,5 +40,5 @@ To define indexed sources, you can use the Guided Setup for AI Search. The follo
 5.  Select the **Index Selected Table/s** button.
 
 
-**Parent Topic:**[Configuring Recommended Actions for Operational Technology Service Management \(OTSM\)](../../operational-technology-recommended-actions/concept/configuring-recommended-actions-otsm.md)
+**Parent Topic:**[Configuring Recommended Actions for Operational Technology Service Management \(OTSM\)](configuring-recommended-actions-otsm.md)
 

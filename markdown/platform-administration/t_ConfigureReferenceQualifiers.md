@@ -15,13 +15,13 @@ System administrators can configure reference qualifiers that enable filtering o
 
 ## About this task
 
-This task walks you through creating a reference qualifier in the [system dictionary](../../../administer/data-dictionary-tables/concept/c_SystemDictionary.md). When creating a reference qualifier in the system dictionary, it not only applies to that table, but also to all the children of the table.
+This task walks you through creating a reference qualifier in the [system dictionary](table-administration-and-data-management/c_SystemDictionary.md). When creating a reference qualifier in the system dictionary, it not only applies to that table, but also to all the children of the table.
 
-**Note:** You can also create reference qualifiers on extended tables through [dictionary overrides](../../../administer/data-dictionary-tables/concept/c_DictionaryOverrides.md). Dictionary overrides only impact the extended table and any of its children, not the parent table.
+**Note:** You can also create reference qualifiers on extended tables through [dictionary overrides](table-administration-and-data-management/c_DictionaryOverrides.md). Dictionary overrides only impact the extended table and any of its children, not the parent table.
 
 ## Procedure
 
-1.  Navigate to the [reference field](../../../administer/field-administration/concept/c_ReferenceField.md) on the form or table on which you want to define a reference qualifier.
+1.  Navigate to the [reference field](c_ReferenceField.md) on the form or table on which you want to define a reference qualifier.
 
 2.  Right-click the reference field label and select **Configure Dictionary**.
 
@@ -54,7 +54,7 @@ Reference key
 
 </td><td>
 
-[Identifies a field other than sys\_ID](../../../administer/field-administration/task/t_DefineTheReferenceKey.md) to use as the unique identifier for the reference field.
+[Identifies a field other than sys\_ID](t_DefineTheReferenceKey.md) to use as the unique identifier for the reference field.
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Reference cascade rule
 
 </td><td>
 
-[Defines what happens to a record](../../../administer/field-administration/task/t_CascadeDeleteRules.md) if the record it references is deleted. Possible options include:-   None
+[Defines what happens to a record](t_CascadeDeleteRules.md) if the record it references is deleted. Possible options include:-   None
 -   Cascade
 -   Clear
 -   Delete
@@ -84,7 +84,7 @@ Dynamic creation
 
 </td><td>
 
-Flag that determines if the system should [create a new record](../../../administer/field-administration/task/t_EnableDynCreationForRefFields.md) when a value for the reference field does not match an existing record. If you select this option, enter a script that specifies how to create the record in the **Dynamic creation script** field.
+Flag that determines if the system should [create a new record](t_EnableDynCreationForRefFields.md) when a value for the reference field does not match an existing record. If you select this option, enter a script that specifies how to create the record in the **Dynamic creation script** field.
 
 </td></tr></tbody>
 </table>8.  Click **Update**.

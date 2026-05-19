@@ -44,12 +44,12 @@ Associating catalogs with sites ensures that users can always access an appropri
 5.  Click **Update**.
 
 
-**Parent Topic:**[Using the content management system with the service catalog](../topic/p_ConfigureContentManagementSystem.md)
+**Parent Topic:**[Using the content management system with the service catalog](p_ConfigureContentManagementSystem.md)
 
 **Related topics**  
 
 
-[Set up catalog portal pages](../concept/c_SettingCatalogPortalPages.md)
+[Set up catalog portal pages](c_SettingCatalogPortalPages.md)
 
 [Manage catalog portal pages](../concept/c_MultipleServiceCatalogs.md#)
 

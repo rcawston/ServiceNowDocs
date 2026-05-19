@@ -15,9 +15,9 @@ breadcrumb: [Configuring, Health Log Analytics, ITOM AIOps, IT Operations Manage
 
 This section covers tasks involved in Health Log Analytics administration. It provides you with information needed to keep Health Log Analytics running efficiently.
 
--   **[Configure Health Log Analytics system properties for a single log source](../task/hla-system-properties-configure-single.md)**  
+-   **[Configure Health Log Analytics system properties for a single log source](hla-system-properties-configure-single.md)**  
 Configure system properties for a specific log source if you need to alter the default values, which should not usually be necessary.
--   **[Enable or disable Health Log Analytics system features](../task/hla-features-configure.md)**  
+-   **[Enable or disable Health Log Analytics system features](hla-features-configure.md)**  
 Customize the basic configuration of Health Log Analytics by enabling or disabling system features.
 -   **[Health Log Analytics alert notification in Slack or Microsoft Teams channels](hla-alert-notification-in-channel.md)**  
 Health Log Analytics sends notifications for new anomaly alerts in real time to Slack or Microsoft Teams channels. This built-in functionality frees you from having to continuously monitor logs to prevent incidents.

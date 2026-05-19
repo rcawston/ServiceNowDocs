@@ -52,9 +52,9 @@ For the link to display on the HR catalog item, make sure the item has a variabl
     The knowledge article will display under the **Related Knowledge Documents** section when employees open the HR catalog item in the HR catalog.
 
 
-**Parent Topic:**[HR catalog item configuration](../concept/hr-catalog-item-configuration.md)
+**Parent Topic:**[HR catalog item configuration](hr-catalog-item-configuration.md)
 
 **Previous topic:**[Edit the HR case template for an HR catalog item](edit-hr-case-template-for-hr-catalog-item.md)
 
-**Next topic:**[HR fulfillment instructions](../concept/hr-fulfillment-instructions.md)
+**Next topic:**[HR fulfillment instructions](hr-fulfillment-instructions.md)
 

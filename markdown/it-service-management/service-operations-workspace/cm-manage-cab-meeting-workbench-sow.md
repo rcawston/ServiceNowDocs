@@ -102,7 +102,7 @@ Role required: sn\_change\_cab.cab\_manager
     -   **Meeting end time**: Shows when the meeting ended.
     -   **Meeting notes**: Shows notes taken during the meeting and decision comments on agenda items.
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](change-sow.md)
 
 **Related topics**  
 
@@ -111,7 +111,7 @@ Role required: sn\_change\_cab.cab\_manager
 
 [Work on a change request in Service Operations Workspace](work-on-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](standard-change-catalog-sow.md)
 
 [Create a change task in Service Operations Workspace](create-change-task-sow.md)
 

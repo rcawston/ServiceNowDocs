@@ -39,6 +39,6 @@ Role required: One of the following roles:
 
 4.  Fill the details in account address form and select **Submit**.
 
-    For more information about the table fields, see [Account Address table](../concept/account-address-table.md).
+    For more information about the table fields, see [Account Address table](account-address-table.md).
 
 

@@ -532,5 +532,5 @@ Work Item
 Mapping between product enhancements and work items\(records in the Work Item table \(sn\_devops\_work\_item\)\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Product Release reference](../concept/dpr-reference.md)
+</table>**Parent Topic:**[Digital Product Release reference](dpr-reference.md)
 

@@ -286,5 +286,5 @@ Government Service Case \[sn\_gsm\_government\_service\_case\]
 Distribution of unassigned government cases by priority.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and Reporting Solutions for Public Sector Digital Services](../../application-content-packs/concept/psds-content-pack.md)
+</table>**Parent Topic:**[Analytics and Reporting Solutions for Public Sector Digital Services](psds-content-pack.md)
 

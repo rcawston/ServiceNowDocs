@@ -90,7 +90,7 @@ Decision
 
 </td><td>
 
-[Converted](../task/hpm-convert-homepages.md), [Retired](../task/hpm-retire-homepages.md), or [Restored](../task/hpm-restore-homepages.md)
+[Converted](hpm-convert-homepages.md), [Retired](hpm-retire-homepages.md), or [Restored](hpm-restore-homepages.md)
 
 </td></tr></tbody>
 </table>

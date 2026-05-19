@@ -19,7 +19,7 @@ Pull holiday calendars from Workday into the ServiceNow application. Display the
 
 Role required: sn\_hr\_workday.admin
 
-Configure the Get holiday calendar WID report. For more information, see [Configure reports HR Service Delivery Advanced Integration with Workday](../concept/awd-config-re.md#).
+Configure the Get holiday calendar WID report. For more information, see [Configure reports HR Service Delivery Advanced Integration with Workday](awd-config-re.md#).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ Display holiday calendar widget to employees.
 1.  Navigate to **Service Portal** &gt; **Service Portal Configuration** &gt; **Designer**.
 2.  In widget, select the **View Workday Holiday Calendar** and add it to the required Service Portal page.
 
-**Parent Topic:**[Time off request to Workday](../concept/w-timeoff.md)
+**Parent Topic:**[Time off request to Workday](w-timeoff.md)
 

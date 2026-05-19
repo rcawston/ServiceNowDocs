@@ -75,5 +75,5 @@ You can add or remove fields directly on the Incident form for users with the it
     3.  Paste the copied sys\_id into the **Value** field of the **Provide sys\_id of the record producer for create incident action from Outlook Add-In** \(**sn\_outlook\_addin.create\_incident\_cat\_item**\) system property.
 
 
-**Parent Topic:**[Configuring Microsoft Outlook to create incidents and VTB tasks](../concept/create-incident-outlook.md)
+**Parent Topic:**[Configuring Microsoft Outlook to create incidents and VTB tasks](create-incident-outlook.md)
 

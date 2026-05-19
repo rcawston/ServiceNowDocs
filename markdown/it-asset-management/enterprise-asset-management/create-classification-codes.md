@@ -95,5 +95,5 @@ Mode categories assigned to the code.
     The display name of the classification code is generated and displayed in the **Classification** field. The display name represents the code, the description, and the source. You can view the new classification code record in the Classifications list view page.
 
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
 

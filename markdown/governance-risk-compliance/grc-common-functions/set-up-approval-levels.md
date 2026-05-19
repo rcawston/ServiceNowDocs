@@ -39,8 +39,8 @@ Role required: sn\_grc\_appr.admin
 5.  Click **Submit**.
 
 
--   **[Approval Level New Record form](../reference/approval-level-new-record-form.md)**  
+-   **[Approval Level New Record form](approval-level-new-record-form.md)**  
 Use the Approval Level New Record form to create an approval configuration on a policy record.
 
-**Parent Topic:**[Using Approver Configurator for setting up approvals](../concept/approval-configuration.md)
+**Parent Topic:**[Using Approver Configurator for setting up approvals](approval-configuration.md)
 

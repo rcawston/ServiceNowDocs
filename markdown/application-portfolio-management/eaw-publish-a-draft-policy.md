@@ -64,7 +64,7 @@ After importing the legacy certification schedules, you can activate the draft p
 
 The Certifications tab in the Needs Attention section fetches and displays the data from the CMDB Data Management Policy \(cmdb\_data\_management\_policy\) table.
 
-**Parent Topic:**[Configure certification policies](../../concept/eaw-concept/eaw-setup-cert-policies.md)
+**Parent Topic:**[Configure certification policies](eaw-setup-cert-policies.md)
 
 **Related topics**  
 

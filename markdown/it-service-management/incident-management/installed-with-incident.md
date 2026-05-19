@@ -69,5 +69,5 @@ Incident\[incident\]
 The Incident table is extended from the Task \[task\] table. It inherits all the fields, rules, and policies from the Task table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Incident](../task/activate-incident-plugin.md)
+</table>**Parent Topic:**[Activate Incident](activate-incident-plugin.md)
 

@@ -21,7 +21,7 @@ Role required: timecard\_user
 
 ## About this task
 
-When a user submits a time sheet, the [time sheet policy](../concept/time-sheet-policies.md) assigned to the user is used for validation. If there is no time sheet policy assigned to the user, the default time sheet policy is used. Business rules prevent a user from submitting a time sheet in case any violation is found.
+When a user submits a time sheet, the [time sheet policy](time-sheet-policies.md) assigned to the user is used for validation. If there is no time sheet policy assigned to the user, the default time sheet policy is used. Business rules prevent a user from submitting a time sheet in case any violation is found.
 
 **Note:** You can also perform this task from the [Time Sheet Portal](submit-timesheet-workerportal.md).
 
@@ -44,5 +44,5 @@ When a user submits a time sheet, the [time sheet policy](../concept/time-sheet-
 -   The time sheet moves to the Submitted state.
 -   All the time cards associated with the time sheet are also submitted automatically and move to the Submitted state.
 
-**Parent Topic:**[Time Sheets](../concept/time-sheets.md)
+**Parent Topic:**[Time Sheets](time-sheets.md)
 

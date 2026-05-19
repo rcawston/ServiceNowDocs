@@ -36,12 +36,12 @@ The selected supplier contact is removed.
 -   **[Remove a supplier contact from the My contacts widget](remove-supp-contact.md)**  
 Remove a supplier contact that you no longer require.
 
-**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
 **Related topics**  
 
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
 [Remove a supplier contact from the My contacts widget](remove-supp-contact.md)
 

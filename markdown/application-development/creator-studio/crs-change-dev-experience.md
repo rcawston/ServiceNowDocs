@@ -51,5 +51,5 @@ Alternatively, you can open a specific app in ServiceNow Studio in the following
 
 ![Select more options to get the Open in SNS link](../image/crs-open-in-sns-link.png "Open in ServiceNow Studio link")
 
-**Parent Topic:**[Building apps with Creator Studio](../concept/building-apps-with-creator-studio.md)
+**Parent Topic:**[Building apps with Creator Studio](building-apps-with-creator-studio.md)
 

@@ -19,7 +19,7 @@ ServiceNow mobile applications draw localized texts from multiple sources, which
 
 -   **Native localization**
 
-    Native localization uses the device’s language settings to automatically localize built-in elements such as screen titles and button labels. For more information, see [Native localization](../reference/localization-native.md).
+    Native localization uses the device’s language settings to automatically localize built-in elements such as screen titles and button labels. For more information, see [Native localization](localization-native.md).
 
 -   **Server-side localization**
 
@@ -30,7 +30,7 @@ ServiceNow mobile applications draw localized texts from multiple sources, which
     Client-side localization uses the device’s UI to localize app-rendered elements such as screens, lists, and buttons. You can include languages beyond those natively supported by the ServiceNow AI Platform base system. For more information, see [Client-side localization](localization-client.md).
 
 
--   **[Native localization](../reference/localization-native.md)**  
+-   **[Native localization](localization-native.md)**  
 Native \(on device\) localization is controlled by the device's language preference, which means that many components are localized with the language preference for the user's device. These components can include local screen titles, such as Settings, and local button titles, such as the Clear All button on the filter screen.
 -   **[Server-side localization](localization-server-side.md)**  
 Server-side localization works the same way as desktop web localization, using either the server system language or user preferences set on the server. Localized components on the server include things like field labels, web content, and other data stored on the server in a translated field.

@@ -17,7 +17,7 @@ Legal Counsel Center notifications enable users to subscribe to items that inter
 
 Legal Counsel Center provides notifications for legal matters and for legal requests.
 
-For information about how to enable or disable notifications, see [Enable or disable notifications](../task/enable-disable-notification.md).
+For information about how to enable or disable notifications, see [Enable or disable notifications](enable-disable-notification.md).
 
 ## Legal Requests notifications
 

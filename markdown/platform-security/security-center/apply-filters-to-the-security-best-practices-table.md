@@ -125,7 +125,7 @@ Combine a conditional operator with a string of text to return security best pra
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Security Best Practices](../concept/security-best-practices-manager.md)
+**Parent Topic:**[Security Best Practices](security-best-practices-manager.md)
 
 ## Save a filter for future use
 

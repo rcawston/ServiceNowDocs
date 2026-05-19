@@ -33,5 +33,5 @@ Role required: sales\_agent
 5.  Select **Save**.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

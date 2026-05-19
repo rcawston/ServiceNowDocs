@@ -53,5 +53,5 @@ The agent can switch between phone interactions and chat interactions. If an int
 6.  Select **Update**.
 
 
-**Parent Topic:**[Integrating ServiceNow Voice with ITSM](../concept/integrate-ccc-itsm.md)
+**Parent Topic:**[Integrating ServiceNow Voice with ITSM](integrate-ccc-itsm.md)
 

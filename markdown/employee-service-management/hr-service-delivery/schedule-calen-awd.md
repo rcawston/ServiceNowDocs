@@ -40,5 +40,5 @@ Role required: sn\_hr\_workday.admin
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Time off request to Workday](../concept/w-timeoff.md)
+**Parent Topic:**[Time off request to Workday](w-timeoff.md)
 

@@ -19,5 +19,5 @@ The Certification Core \(com.snc.certification\_core\) plugin consists of the fo
 
 -   Activated by default: [Desired State Certification](c_DesiredState.md) \(com.snc.certification\_desired\_state\)
 -   [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md): [Architecture Compliance](c_ArchitectureCompliance.md) \(com.snc.architecture\_compliance\), which automatically activates the Version Management \(com.snc.version\) plugin that manages certification filter and template versions.
--   [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md): [Data Certification](../../data-certification/concept/c_DataCertification.md) \(com.snc.certification\_v2\), which automatically activates the Version Management \(com.snc.version\) plugin that manages certification filter versions.
+-   [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md): [Data Certification](c_DataCertification.md) \(com.snc.certification\_v2\), which automatically activates the Version Management \(com.snc.version\) plugin that manages certification filter versions.
 

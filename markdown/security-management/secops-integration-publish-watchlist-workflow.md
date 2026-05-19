@@ -23,7 +23,7 @@ This flow is visible and runs only when an integration is available. It is trigg
 
 ![Security Operations Integration - Publish to Watchlist capability flow](../image/publish-to-watchlist.png "Publish to Watchlist")
 
-Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](common-wf-activities.md).
 
-**Parent Topic:**[Security Operations Integration- Publish to Watchlist capability](../../security-operations-common/concept/pubish-to-watchlist-capability.md)
+**Parent Topic:**[Security Operations Integration- Publish to Watchlist capability](pubish-to-watchlist-capability.md)
 

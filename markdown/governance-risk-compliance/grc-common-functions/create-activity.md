@@ -85,5 +85,5 @@ Status of the activity, whether it is being performed or a planned activity.
     **Note:** Every time a cybersecurity activity is created, the system validates the combination of target, function, and category for uniqueness.
 
 
-**Parent Topic:**[Align and prioritize cybersecurity activities](../concept/align-prioritize-activities.md)
+**Parent Topic:**[Align and prioritize cybersecurity activities](align-prioritize-activities.md)
 

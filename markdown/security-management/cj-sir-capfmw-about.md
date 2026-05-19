@@ -27,7 +27,7 @@ Benefits from the enhanced framework implementation include:
 
 **Note:** This new capability framework does not upgrade the current capability framework. Both frameworks can work in parallel. For instructions on how to leverage the new capability framework, see [Using the new Capability Framework with an installed integration](cj-sir-capfmw-about.md#) and [Using the new Capability Framework with a Flow](cj-sir-capfmw-about.md#).
 
-**Parent Topic:**[Security Operations Integration Reference](../../secops-integration-reference/concept/secops-integ-ref.md)
+**Parent Topic:**[Security Operations Integration Reference](secops-integ-ref.md)
 
 ## Supported integrations and components
 

@@ -69,5 +69,5 @@ Description
 6.  Add or remove an equipment model entity from a change record by repeating steps 4 and 5 but in the Impacted Equipment Model Entities related list.
 
 
-**Parent Topic:**[Using Operational Technology Change Management](../concept/using-operational-technology-change-management.md)
+**Parent Topic:**[Using Operational Technology Change Management](using-operational-technology-change-management.md)
 

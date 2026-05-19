@@ -36,31 +36,31 @@ The following diagram shows the workflow of Operational Sustainability Managemen
 
 -   **Document material topics**
 
-    Determine the material topics you’d like to track, such as managing carbon emissions. See [Create material topics](../task/create-material-topics.md) to get started and review [Material topic workflow and states](material-topic-workflow-and-states.md) for more details.
+    Determine the material topics you’d like to track, such as managing carbon emissions. See [Create material topics](create-material-topics.md) to get started and review [Material topic workflow and states](material-topic-workflow-and-states.md) for more details.
 
 -   **Establish goals**
 
-    Goals are the outcomes you want to achieve, and targets are specific, measurable milestones that help you reach the goals. The Create an Operational Sustainability Management goal page explains how to enter your goals and includes links to useful information like how goal progress is calculated. See [Create an Operational Sustainability Management \(formerly ESG Management\) goal](../task/create-esg-goal.md) for details.
+    Goals are the outcomes you want to achieve, and targets are specific, measurable milestones that help you reach the goals. The Create an Operational Sustainability Management goal page explains how to enter your goals and includes links to useful information like how goal progress is calculated. See [Create an Operational Sustainability Management \(formerly ESG Management\) goal](create-esg-goal.md) for details.
 
 -   **Create targets**
 
-    A target shows you how well you are doing against your goal. The [Create an Operational Sustainability Management \(formerly ESG Management\) target](../task/create-esg-target.md) page shows you how to do it.
+    A target shows you how well you are doing against your goal. The [Create an Operational Sustainability Management \(formerly ESG Management\) target](create-esg-target.md) page shows you how to do it.
 
 -   **Associate entities with goals**
 
-    Associate the entities that must be tracked for the goals and subgoals. This association is created for tracking purposes. Entities that are associated with the goal are responsible for tracking the goal. See [Associate entities to goals](../task/associate-entities-to-goals.md) for more details.
+    Associate the entities that must be tracked for the goals and subgoals. This association is created for tracking purposes. Entities that are associated with the goal are responsible for tracking the goal. See [Associate entities to goals](associate-entities-to-goals.md) for more details.
 
 -   **Define metrics**
 
-    Create metric definitions and metrics to measure performance and how the organization is progressing toward its goals and targets. To gain an in-depth understanding of what are metrics and how they’re useful in Operational Sustainability Management, refer to [Exploring GRC: Metrics](../../metrics/concept/esg-metrics.md)
+    Create metric definitions and metrics to measure performance and how the organization is progressing toward its goals and targets. To gain an in-depth understanding of what are metrics and how they’re useful in Operational Sustainability Management, refer to [Exploring GRC: Metrics](esg-metrics.md)
 
 -   **Add metrics to targets**
 
-    Optionally, after you create a target, you can add a source for the target. The source can be a metric or a metric definition that contributes to the target. See [Add a source for a target](../task/add-a-source-for-a-target.md) for more details.
+    Optionally, after you create a target, you can add a source for the target. The source can be a metric or a metric definition that contributes to the target. See [Add a source for a target](add-a-source-for-a-target.md) for more details.
 
 -   **Provide data for manual metrics or automatically collect data for automated metrics**
 
-    Collect data for metrics either manually or automatically. Data must be provided manually for manual metrics and is automatically collected at the scheduled time for automated metrics. See [Provide data for a metric data task](../../metrics/task/provide-data-for-metric-data-task.md) for more details.
+    Collect data for metrics either manually or automatically. Data must be provided manually for manual metrics and is automatically collected at the scheduled time for automated metrics. See [Provide data for a metric data task](provide-data-for-metric-data-task.md) for more details.
 
 -   **Generate disclosures**
 
@@ -73,11 +73,11 @@ The following diagram shows the workflow of Operational Sustainability Managemen
 |-------|-------|-----|
 |Manage your operational sustainability activities from the interactive dashboard in the Home page.|[Operational Sustainability Workspace \(formerly ESG Workspace\)](esg-homepage.md)|ESG program manager, disclosure manager.|
 |Monitor your individual and team tasks from a single dashboard in the My tasks view.|[My tasks page view](my-esg-tasks.md)|ESG program manager|
-|Create material topics to determine your sustainability initiatives|[Create a material topic](../task/create-material-topics.md)|ESG program manager|
-|Establish operational sustainability goals to track your progress toward your chosen material topics.|[Create an Operational Sustainability Management \(formerly ESG Management\) goal](../task/create-esg-goal.md)|ESG program manager|
-|Create a sustainability target to help track the progress towards your sustainability goal.|[Create an Operational Sustainability Management \(formerly ESG Management\) target](../task/create-esg-target.md)|ESG program manager|
-|Use GRC: Metrics to track goals and targets, collect data, and report data.|[Exploring GRC: Metrics](../../metrics/concept/esg-metrics.md)|Metrics manager|
-|Create disclosures for your organization. Disclosures enable investors to make informed decisions about companies, their risk posture, and sustainability standards.|[Create a narrative disclosure on remote storage](../task/create-disclosure.md)|Reporting disclosure manager, ESG program manager|
+|Create material topics to determine your sustainability initiatives|[Create a material topic](create-material-topics.md)|ESG program manager|
+|Establish operational sustainability goals to track your progress toward your chosen material topics.|[Create an Operational Sustainability Management \(formerly ESG Management\) goal](create-esg-goal.md)|ESG program manager|
+|Create a sustainability target to help track the progress towards your sustainability goal.|[Create an Operational Sustainability Management \(formerly ESG Management\) target](create-esg-target.md)|ESG program manager|
+|Use GRC: Metrics to track goals and targets, collect data, and report data.|[Exploring GRC: Metrics](esg-metrics.md)|Metrics manager|
+|Create disclosures for your organization. Disclosures enable investors to make informed decisions about companies, their risk posture, and sustainability standards.|[Create a narrative disclosure on remote storage](create-disclosure.md)|Reporting disclosure manager, ESG program manager|
 
 -   **[Elements of Operational Sustainability Management \(formerly ESG Management\)](components-of-esg-management.md)**  
 Before you start your sustainability initiatives, familiarize yourself with the key elements such as material topics, metrics, and disclosures that make up the Operational Sustainability Management application.

@@ -53,7 +53,7 @@ After creating your client and server keys, now you configure the Docker Server 
 4.  In administrator PowerShell, run `restart-service *docker*`
 
 
-**Parent Topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Parent Topic:**[Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md)
 
 **Previous topic:**[Generate certificates for Headless Browser setup for Microsoft Windows](headless-browser-certificates-windows.md)
 

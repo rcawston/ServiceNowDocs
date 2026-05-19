@@ -31,7 +31,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-You set up integrations through the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/integrations-launchpad.md).
+You set up integrations through the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](../service-operations-workspace-for-itom-apps/integrations-launchpad.md).
 
 ## Procedure
 
@@ -53,7 +53,7 @@ You set up integrations through the Integrations Launchpad in Service Operations
 
 6.  The **Provide details** form is displayed.
 
-    These fields are auto-populated, because only one ServiceNow System Logs Retriever integration or data input can exist in the system. For a description of the fields, see the **Provide details** table in [ServiceNow System Logs Retriever integration configuration fields](../reference/il-connector-hla-glidesyslog-fields.md).
+    These fields are auto-populated, because only one ServiceNow System Logs Retriever integration or data input can exist in the system. For a description of the fields, see the **Provide details** table in [ServiceNow System Logs Retriever integration configuration fields](il-connector-hla-glidesyslog-fields.md).
 
 7.  Select **Next**.
 
@@ -76,7 +76,7 @@ You set up integrations through the Integrations Launchpad in Service Operations
 
 Log data starts streaming from the ServiceNow System Log table to the Health Log Analytics AI engine, based on the configured filters. The dedicated HLA engine for your instance starts analyzing your system logs in real-time.
 
-**Note:** Starting with Health Log Analytics version 37.0.15, you can use the ServiceNow System Logs Retriever integration to automatically detect errors and anomalies in your ServiceNow instance's system log. By combining HLA's anomaly detection with Now Assist's GenAI capabilities, you can identify and resolve platform issues more effectively for a better user experience. For more information, see [Use Case: Proactive monitoring of your ServiceNow instance in Health Log Analytics](../../health-log-analytics-operator/concept/hla-use-case-syslogs.md).
+**Note:** Starting with Health Log Analytics version 37.0.15, you can use the ServiceNow System Logs Retriever integration to automatically detect errors and anomalies in your ServiceNow instance's system log. By combining HLA's anomaly detection with Now Assist's GenAI capabilities, you can identify and resolve platform issues more effectively for a better user experience. For more information, see [Use Case: Proactive monitoring of your ServiceNow instance in Health Log Analytics](hla-use-case-syslogs.md).
 
 ## What to do next
 
@@ -89,5 +89,5 @@ Use the information in the **Overview** tab to refine how HLA reads the log data
 
 Use the More menu to go directly from the **Overview** tab to the **Data Input Mapping**, **Source Type Structures**, and **Log Sources** pages with context from the integration. If your log data is not properly mapped, structured, or sourced, go back and adjust the configuration. If the Service Operations Workspace Log Analytics application is installed, the More menu also provides direct access to the **Log Viewer**, where you can see the raw logs that the integration ingests.
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](../concept/hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)
 

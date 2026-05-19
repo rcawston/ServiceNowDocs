@@ -67,5 +67,5 @@ An identifier for the user input condition. If a user specifies multiple conditi
 </table>**Related topics**  
 
 
-[Create and add diagnostic features](../task/add-diagnostic-feature.md)
+[Create and add diagnostic features](add-diagnostic-feature.md)
 

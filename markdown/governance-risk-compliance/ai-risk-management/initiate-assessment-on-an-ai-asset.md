@@ -97,5 +97,5 @@ Description of the AI assessment.
 
 [Perform impact assessment on an AI use case](perform-impact-assessment-of-ai-use-case.md)
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

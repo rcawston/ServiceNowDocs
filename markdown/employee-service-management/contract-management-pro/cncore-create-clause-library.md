@@ -111,5 +111,5 @@ Option to make the clause active and available for use. **Note:** While editing 
 
 Create clause variations to use them in the document template for a predefined condition. For more information, see [Create a clause variation](cncore-add-clauses-doc-tmplt.md).
 
-**Parent Topic:**[Configure dynamic clauses for contract templates](../concept/cncore-clause-and-cv.md)
+**Parent Topic:**[Configure dynamic clauses for contract templates](cncore-clause-and-cv.md)
 

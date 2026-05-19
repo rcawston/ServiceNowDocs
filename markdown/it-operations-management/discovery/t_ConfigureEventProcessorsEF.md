@@ -40,5 +40,5 @@ The **discovery.event.pin.jobs** system property determines how jobs are assigne
 4.  Select **Update**.
 
 
-**Parent Topic:**[Optimizing Discovery load for Event Framework](../concept/c_FineTuneDiscoLoadEF.md)
+**Parent Topic:**[Optimizing Discovery load for Event Framework](c_FineTuneDiscoLoadEF.md)
 

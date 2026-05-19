@@ -64,5 +64,5 @@ Role required: sam\_admin
     4.  Repeat steps a to c for each custom named user type that you want to add.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

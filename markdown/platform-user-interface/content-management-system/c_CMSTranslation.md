@@ -29,7 +29,7 @@ Two tables support the translation of a CMS site into other languages.
 
 [Domain separation and the Content Management System](domain-separation-content-management.md)
 
-[Configure Content Management sites](../task/t_CreateASite.md)
+[Configure Content Management sites](t_CreateASite.md)
 
 [Content Management integration points](c_CMSIntegrationPoints.md)
 

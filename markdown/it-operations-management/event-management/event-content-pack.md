@@ -21,12 +21,12 @@ Platform Analytics data visualizations use Performance Analytics [indicator](htt
 
 To enable the solution for Event Management, an admin can navigate to **Performance Analytics** &gt; **Guided Setup**. Click **Get Started** then scroll to the section for Event Management. The guided setup takes you through the entire setup and configuration process.
 
-Data visualization in ITOM now includes a funnel component to help you track metric progression across stages, making it easier to identify drop-offs or bottlenecks in processes. For more details, see [Data visualization in ITOM](../../../product/service-operations-workspace-itom/concept/itom-data-visualization.md).
+Data visualization in ITOM now includes a funnel component to help you track metric progression across stages, making it easier to identify drop-offs or bottlenecks in processes. For more details, see [Data visualization in ITOM](../service-operations-workspace-for-itom-apps/itom-data-visualization.md).
 
--   **[Customize Platform Analytics elements](../reuse/perf-analytics-widget-customize.md)**  
+-   **[Customize Platform Analytics elements](perf-analytics-widget-customize.md)**  
 Customize the appearance of widgets when viewing Platform Analytics visualizations.
 
-**Parent Topic:**[Event Management reference](../../../product/event-management/reference/event-management-reference.md)
+**Parent Topic:**[Event Management reference](event-management-reference.md)
 
 **Related topics**  
 

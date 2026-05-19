@@ -33,5 +33,5 @@ When editing your own text, you also have markup options. You can tag a colleagu
 
 ![Markup options after typing a forward slash in the text area.](../image/nowass-expl-text-options.png)
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](use-now-assist-explorer.md)
 

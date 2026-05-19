@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_governor or admin
 
 ## About this task
 
-See [Create a custom tag for cloud resources](../concept/cloud-tagging.md#) for information about how to create and use tags in Cloud Provisioning and Governance.
+See [Create a custom tag for cloud resources](cloud-tagging.md#) for information about how to create and use tags in Cloud Provisioning and Governance.
 
 ## Procedure
 

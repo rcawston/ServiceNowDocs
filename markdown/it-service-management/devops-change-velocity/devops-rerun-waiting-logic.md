@@ -43,5 +43,5 @@ For release pipelines, the stages are run in the specified sequence only during 
 -   When a new change request is created for a reattempt stage job, and the stage that you are reattempting includes a test and a software quality scan only the latest Test Summary and Software Quality scan results display on the change request related list.
 -   When a change request is reused for a rerun stage job, the Test Summary and Software Quality scan results for each attempt displays in the change request related list.
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 

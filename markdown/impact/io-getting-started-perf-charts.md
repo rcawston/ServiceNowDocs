@@ -41,5 +41,5 @@ Role required: admin
     -   Download to PNG, SVG, or CSV files or view transactions on the instance.
     -   Change the report type.
 
-**Parent Topic:**[Performance](../concept/instance-observer-performance.md)
+**Parent Topic:**[Performance](instance-observer-performance.md)
 

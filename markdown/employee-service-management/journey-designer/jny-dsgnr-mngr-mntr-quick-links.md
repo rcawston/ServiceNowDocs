@@ -42,5 +42,5 @@ Journey owners and mentors have permissions assigned to them from a Journey Conf
     Select the more icon to edit or delete a link.
 
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)
 

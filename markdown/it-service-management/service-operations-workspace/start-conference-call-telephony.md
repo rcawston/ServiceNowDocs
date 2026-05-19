@@ -81,5 +81,5 @@ Provide a brief summary about the issue to be discussed in the conference call.
     2.  From the **Leave call** drop-down menu, select **End call**.
 
 
-**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](../concept/telephony-sow.md)
+**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](telephony-sow.md)
 

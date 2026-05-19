@@ -19,8 +19,8 @@ Localization Workspace collects available translatable content from across your 
 
 The availability of a content type is subject to its table and application scope permissions. Localization Workspace retrieves untranslated or partially translated documents when the following prerequisites are fulfilled.
 
--   If you have created a custom artifact, set cross-scope privileges to ensure that the corresponding content type can be selected in Localization Workspace. For more information see [Cross-scope privileges for Localization Workspace](../task/lw-cross-scope-privilege.md).
--   If the target tables are restricted, set Restricted Caller Access privileges to ensure that a content type can be selected in Localization Workspace. For more information see [Restricted Caller Access for Localization Workspace](../task/lw-restricted-caller-access.md)
+-   If you have created a custom artifact, set cross-scope privileges to ensure that the corresponding content type can be selected in Localization Workspace. For more information see [Cross-scope privileges for Localization Workspace](lw-cross-scope-privilege.md).
+-   If the target tables are restricted, set Restricted Caller Access privileges to ensure that a content type can be selected in Localization Workspace. For more information see [Restricted Caller Access for Localization Workspace](lw-restricted-caller-access.md)
 -   For Content Publishing material, add the role sn\_cd.content\_admin to your Localization Workspace group in the sys\_user\_group table. This role is needed to access Content Publishing items from Localization Workspace.
 
 ## Translatable content
@@ -31,7 +31,7 @@ A document may be considered partially translated when its original is updated a
 
 The following table lists the content types that are available by default when you install Localization Workspace. These are preconfigured with artifact records and cross-scope permissions.
 
-You can also configure your own custom artifacts. For more information, see [Create and configure a custom artifact](../../localization-framework/task/create-configure-custom-artifact.md).
+You can also configure your own custom artifacts. For more information, see [Create and configure a custom artifact](../localization-framework/create-configure-custom-artifact.md).
 
 In this table the **Filter** column shows the query used to retrieve untranslated or partially translated content.
 
@@ -228,12 +228,12 @@ sys\_cs\_topic
 active=true
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Localization Workspace reference](../concept/localization-workspace-reference.md)
+</table>**Parent Topic:**[Localization Workspace reference](localization-workspace-reference.md)
 
 **Related topics**  
 
 
-[Dynamic artifact detection in Localization Workspace](../concept/lw-dynamic-artifact-detection.md)
+[Dynamic artifact detection in Localization Workspace](lw-dynamic-artifact-detection.md)
 
-[Supported artifacts in Localization Framework](../../localization-framework/concept/supported-artifacts-lf.md)
+[Supported artifacts in Localization Framework](../localization-framework/supported-artifacts-lf.md)
 

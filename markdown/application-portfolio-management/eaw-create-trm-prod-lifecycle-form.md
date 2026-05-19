@@ -85,5 +85,5 @@ Description about the product lifecycle request.
 **Related topics**  
 
 
-[Add a TRM product lifecycle](../../task/eaw-task/eaw-create-trm-prod-lifecycle-req.md)
+[Add a TRM product lifecycle](eaw-create-trm-prod-lifecycle-req.md)
 

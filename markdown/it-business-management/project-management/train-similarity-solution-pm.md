@@ -55,7 +55,7 @@ When the solution is complete, the similar projects appear in the Similar projec
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Predictive Intelligence for Project Management](../concept/predictive-intelligence-for-project.md)
+[Predictive Intelligence for Project Management](predictive-intelligence-for-project.md)
 
 [Starting a project](t_CreateAProject.md)
 

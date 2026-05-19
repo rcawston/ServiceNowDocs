@@ -83,12 +83,12 @@ A request definition is created.
 
 Create and configure the playbook for Design and Assign function. To learn more, see [Create a playbook for the Design and Assign function](create-playbook-design-assign-function.md).
 
-**Parent Topic:**[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+**Parent Topic:**[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
 **Related topics**  
 
 
-[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
-[Configure a Design and Assign function example](../concept/configure-design-assign-playbook-use-case.md)
+[Configure a Design and Assign function example](configure-design-assign-playbook-use-case.md)
 

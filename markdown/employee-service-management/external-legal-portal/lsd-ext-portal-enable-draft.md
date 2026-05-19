@@ -25,7 +25,7 @@ Role required: sn\_lg\_ext\_portal.ext\_config
 
 2.  In the **Name** column, search for the `glide.sc.enable.save_as_draft.portal.elp` property.
 
-    For more information on the system property, see [Property installed with External Legal Service Center](../reference/lsd-ext-portal-properties.md).
+    For more information on the system property, see [Property installed with External Legal Service Center](lsd-ext-portal-properties.md).
 
 3.  Select the property.
 

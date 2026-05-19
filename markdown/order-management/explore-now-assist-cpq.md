@@ -29,7 +29,7 @@ The Now Assist for CPQ application includes the generative AI skill that enables
 Get started by performing the following tasks:
 
 -   [Configuring Now Assist for Configure, Price, Quote \(CPQ\)](configure-now-assist-cpq.md)
--   [Summarize a quote using quote summarization](../task/summarize-quote.md)
+-   [Summarize a quote using quote summarization](summarize-quote.md)
 
 **Parent Topic:**[Now Assist for Configure, Price, Quote \(CPQ\)](now-assist-for-cpq-landing.md)
 

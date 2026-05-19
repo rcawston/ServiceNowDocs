@@ -62,7 +62,7 @@ Role required: discovery\_admin
 
 ## What to do next
 
-[Download a software bill of materials \(SBOM\)](../reference/generate-sbom-pattern.md)
+[Download a software bill of materials \(SBOM\)](generate-sbom-pattern.md)
 
-**Parent Topic:**[Container image scanning for software decomposition](../concept/container-image-concept.md)
+**Parent Topic:**[Container image scanning for software decomposition](container-image-concept.md)
 

@@ -321,7 +321,7 @@ Attachments that support your claims.
 **Related topics**  
 
 
-[Submit a repair claim for warranty](../task/mco-submit-repair-claim.md)
+[Submit a repair claim for warranty](mco-submit-repair-claim.md)
 
-[Submit a repair claim for recall](../task/mco-submit-repair-claim-for-recall.md)
+[Submit a repair claim for recall](mco-submit-repair-claim-for-recall.md)
 

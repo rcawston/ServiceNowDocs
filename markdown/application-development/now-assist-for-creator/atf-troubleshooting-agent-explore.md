@@ -64,14 +64,14 @@ This role is required to access metadata tables to accurately troubleshoot test 
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Simplify test failure diagnosis|[Troubleshoot test failures](../task/atf-troubleshooting-agent-test-failure.md)|atf\_triager + now\_assist\_panel\_user|
+|Simplify test failure diagnosis|[Troubleshoot test failures](atf-troubleshooting-agent-test-failure.md)|atf\_triager + now\_assist\_panel\_user|
 
 ## What to explore next
 
 To learn more about configuring and using ATF troubleshooting agent, see:
 
--   [Install ATF troubleshooting agent](../task/test-agent-install.md)
--   [Use](../task/atf-troubleshooting-agent-test-failure.md)
+-   [Install ATF troubleshooting agent](test-agent-install.md)
+-   [Use](atf-troubleshooting-agent-test-failure.md)
 
-**Parent Topic:**[ATF troubleshooting agent](../reference/atf-troubleshooting-agent-landing-page.md)
+**Parent Topic:**[ATF troubleshooting agent](atf-troubleshooting-agent-landing-page.md)
 

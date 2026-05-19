@@ -67,7 +67,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge block. This field appears when the ownership groups feature is enabled.Knowledge blocks can be used with or without the ownership groups feature. To learn more about ownership groups, including how to enable the feature, see [Ownership groups](../concept/enable-ownership-group.md).
+Ownership group for the knowledge block. This field appears when the ownership groups feature is enabled.Knowledge blocks can be used with or without the ownership groups feature. To learn more about ownership groups, including how to enable the feature, see [Ownership groups](enable-ownership-group.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Version
 
 </td><td>
 
-This field is automatically set to a version number when the article versioning feature is enabled.Knowledge blocks can be used with or without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](../concept/article-versioning.md).
+This field is automatically set to a version number when the article versioning feature is enabled.Knowledge blocks can be used with or without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](article-versioning.md).
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Not applicable.
 
 5.  Click **Publish** to publish the block.
 
-    **Note:** Any additional steps required to publish the knowledge block, such as approvals, depend on the publishing workflow for the knowledge base. See [Knowledge workflows](../reference/r_KnowledgeWorkflows.md#) for more information.
+    **Note:** Any additional steps required to publish the knowledge block, such as approvals, depend on the publishing workflow for the knowledge base. See [Knowledge workflows](r_KnowledgeWorkflows.md#) for more information.
 
 
 ## What to do next
@@ -160,5 +160,5 @@ Control which users can read or not read knowledge block content within an artic
 -   **[Retire a knowledge block](retire-knowledge-block.md)**  
 You can retire a published knowledge block so that it's no longer available for users to view or search.
 
-**Parent Topic:**[Using knowledge blocks](../concept/using-knowlege-blocks.md)
+**Parent Topic:**[Using knowledge blocks](using-knowlege-blocks.md)
 

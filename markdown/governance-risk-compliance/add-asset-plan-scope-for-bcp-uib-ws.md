@@ -74,5 +74,5 @@ When you hover over the information icon in the column, it shows the comparison 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)
 

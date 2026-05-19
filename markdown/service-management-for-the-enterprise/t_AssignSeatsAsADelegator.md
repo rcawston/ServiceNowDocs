@@ -40,5 +40,5 @@ Role required: admin
     ![In this figure, the users have all been moved to the Assigned destination section of the Moves tab.](../image/UsersAssigned.png "Users assigned spaces")
 
 
-**Parent Topic:**[Enterprise move scenarios](../reference/r_EnterMoveScenarios.md)
+**Parent Topic:**[Enterprise move scenarios](r_EnterMoveScenarios.md)
 

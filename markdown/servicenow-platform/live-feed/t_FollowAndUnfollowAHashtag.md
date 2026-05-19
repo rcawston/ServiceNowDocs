@@ -36,5 +36,5 @@ Role required: admin
     To unfollow a hashtag, repeat the same steps and click **Unfollow**.
 
 
-**Parent Topic:**[Use hashtags in Live Feed](../concept/c_UseHashtagsInLiveFeed.md)
+**Parent Topic:**[Use hashtags in Live Feed](c_UseHashtagsInLiveFeed.md)
 

@@ -38,5 +38,5 @@ Watermarks can only be hidden in the HTML message for the global application. Th
     This ensures that all watermarks are hidden on all email messages. This cannot be done on a per-email basis.
 
 
-**Parent Topic:**[Watermarks on notification emails](../concept/c_WorkingWithWatermarks.md)
+**Parent Topic:**[Watermarks on notification emails](c_WorkingWithWatermarks.md)
 

@@ -33,11 +33,11 @@ Role required: sn\_ohs\_im.manager and sn\_ohs\_im.agent
 
     1.  Review the **Details** tab to analyze factors such as, urgency, confidence score, and the AI generated pattern summary.
 
-        For more information on the fields of the **Details** tab, see [Incident pattern record details tab](../reference/hs-incident-pattern-record-details-tab.md).
+        For more information on the fields of the **Details** tab, see [Incident pattern record details tab](hs-incident-pattern-record-details-tab.md).
 
     2.  Create actions in the **Health and safety actions** tab based on the analysis.
 
-        For more information, see [Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md).
+        For more information, see [Health and Safety action form](../health-and-safety-core/hs-action-form.md).
 
     3.  Review the **Related incidents** tab for the list of safety incidents that form the pattern.
 
@@ -46,8 +46,8 @@ Role required: sn\_ohs\_im.manager and sn\_ohs\_im.agent
         The similar patterns are auto-generated.
 
 
--   **[Incident pattern record details tab](../reference/hs-incident-pattern-record-details-tab.md)**  
+-   **[Incident pattern record details tab](hs-incident-pattern-record-details-tab.md)**  
 The **Details** tab of an incident pattern record is generated automatically.
 
-**Parent Topic:**[Incident pattern analysis](../concept/hs-incident-pattern-analysis.md)
+**Parent Topic:**[Incident pattern analysis](hs-incident-pattern-analysis.md)
 

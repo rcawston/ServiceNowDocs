@@ -86,7 +86,7 @@ Type of credential, **Basic Auth** or **OAuth 2.0**.**Basic Auth**
 
 **Note:**
 
-When you generate a Personal access token \(PAT\) for Azure DevOps, you must select the scopes to authorize if you aren’t granting complete access. See [Azure DevOps PAT scopes for DevOps](../reference/dev-ops-pat-scopes-azure.md).
+When you generate a Personal access token \(PAT\) for Azure DevOps, you must select the scopes to authorize if you aren’t granting complete access. See [Azure DevOps PAT scopes for DevOps](dev-ops-pat-scopes-azure.md).
 
 **OAuth 2.0**
 
@@ -146,7 +146,7 @@ Use MID Server
 Optional. Select  MID Server for an on-premises tool that is attached to a  MID Server. Application is automatically set to  DevOps and capability is set to REST.
 
 </td></tr></tbody>
-</table>    For a list of all the permissions required on the credentials for connecting to Azure DevOps, see Azure DevOps permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+</table>    For a list of all the permissions required on the credentials for connecting to Azure DevOps, see Azure DevOps permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
 5.  Select **Order Now**.
 
@@ -263,5 +263,5 @@ Select the dates for which you want to import the Plans data. By default, the la
     A request is created. When the request is approved, the plans, repositories, artifacts, and pipeline objects are associated to the app record and webhooks are configured for real-time tracking. Historical data is imported for the selected items. The **Track** field is automatically enabled for imported plans, repositories, and pipelines.
 
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 

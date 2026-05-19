@@ -66,5 +66,5 @@ Role required: admin
 
 **Previous topic:**[Configure Workplace Connectors](configure-workplace-connectors.md)
 
-**Next topic:**[Configure sensor data providers](../task/providers-occupancy.md)
+**Next topic:**[Configure sensor data providers](providers-occupancy.md)
 

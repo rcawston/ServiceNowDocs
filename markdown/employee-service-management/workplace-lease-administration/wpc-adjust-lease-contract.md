@@ -40,7 +40,7 @@ To adjust a contract, the **State** should be **Active**.
 4.  Click **Submit Adjustments**.
 
 
-**Parent Topic:**[Manage workplace contracts from Workplace Central](../concept/manage-contracts-from-wpc.md)
+**Parent Topic:**[Manage workplace contracts from Workplace Central](manage-contracts-from-wpc.md)
 
 **Related topics**  
 

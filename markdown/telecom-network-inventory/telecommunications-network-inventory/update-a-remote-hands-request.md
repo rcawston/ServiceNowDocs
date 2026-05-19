@@ -53,5 +53,5 @@ The following procedure enables Remote Hands Agents to review the submitted case
     You can further modify case fields. Add Work Notes for customers to view, update the state and close the case.
 
 
-**Parent Topic:**[Remote Hands Request](../concept/remote-hands-request.md)
+**Parent Topic:**[Remote Hands Request](remote-hands-request.md)
 

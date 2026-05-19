@@ -88,5 +88,5 @@ Role required: admin
     6.  Repeat the process to create the necessary help documents for that section.
 
 
-**Parent Topic:**[System user guide](../concept/c_SystemUserGuide.md)
+**Parent Topic:**[System user guide](c_SystemUserGuide.md)
 

@@ -85,7 +85,7 @@ Description
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+**Parent Topic:**[Interaction Management in Service Operations Workspace](interaction-sow.md)
 
 **Related topics**  
 

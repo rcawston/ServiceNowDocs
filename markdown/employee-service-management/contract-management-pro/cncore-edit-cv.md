@@ -29,7 +29,7 @@ Role required: sn\_cm\_core.contract\_config
 
 4.  On the form Clause Variation form, edit the fields that you want to modify.
 
-    For a description of the field values, see [Clause Variation form](../reference/cncore-cv-form.md).
+    For a description of the field values, see [Clause Variation form](cncore-cv-form.md).
 
 5.  Right-click in the form header and select **Save**.
 
@@ -42,7 +42,7 @@ Role required: sn\_cm\_core.contract\_config
 
 If the updated clause variation is associated with a published contract template and new fields are available after parsing, the Unmapped meta data related list appears with the unmapped fields listing. For instructions on how to complete the template mapping, see [Update contract template mappings](cncore-template-mapping.md).
 
-**Parent Topic:**[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+**Parent Topic:**[Manage clauses, tables, and contract templates](cncore-manage-clauses-ctemplates.md)
 
 **Related topics**  
 

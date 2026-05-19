@@ -65,5 +65,5 @@ Fetch the Name of the bot, Team ID, Signing Secret, and Access Token details for
         You will receive a message that the installation is successful.
 
 
-**Parent Topic:**[Integrating a self-configured bot with Slack workspace](../concept/va-integ-single-slack.md)
+**Parent Topic:**[Integrating a self-configured bot with Slack workspace](va-integ-single-slack.md)
 

@@ -69,5 +69,5 @@ A schedule is created and new shards are added indefinitely to preserve data.
 
 **Note:** Deleting a rotation deletes the additional tables and all the data. Do not delete the rotation if you still need the data.
 
-**Parent Topic:**[Table extension](../../managing-data/concept/table-extension.md)
+**Parent Topic:**[Table extension](table-extension.md)
 

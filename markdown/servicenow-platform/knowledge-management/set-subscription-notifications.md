@@ -39,5 +39,5 @@ Users can set notification preferences from the Knowledge menu or from the Knowl
 4.  Click **Knowledge Articles** and enable or disable the knowledge article notification options.
 
 
-**Parent Topic:**[Managing email notifications in Knowledge Management](../concept/email-notifications-km.md)
+**Parent Topic:**[Managing email notifications in Knowledge Management](email-notifications-km.md)
 

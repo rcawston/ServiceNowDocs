@@ -113,9 +113,9 @@ Test your configuration. You can execute the topics that are available in the se
 
 **Note:** Conversations always remain open in Power Virtual Agents.
 
-**Parent Topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ms-powerva.md)
+**Parent Topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ms-powerva.md)
 
 **Previous topic:**[Add the Direct Line secret key to your Virtual Agent Bot Interconnect instance](add-dl-secret-key-sn-instance.md)
 
-**Next topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-sn-secondary-bot-with-sn-primary.md)
+**Next topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)
 

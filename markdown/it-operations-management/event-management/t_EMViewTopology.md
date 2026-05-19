@@ -127,7 +127,7 @@ In the topology, right-click the CI, and then select **Remediation options**.
 **Related topics**  
 
 
-[Alert impact calculation](../concept/c_EMImpactCalculation.md)
+[Alert impact calculation](c_EMImpactCalculation.md)
 
-[Understand Service Maps](../concept/Understand-Service-Maps.md)
+[Understand Service Maps](Understand-Service-Maps.md)
 

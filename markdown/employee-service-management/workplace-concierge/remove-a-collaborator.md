@@ -36,7 +36,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 The collaborator is removed from your routine.
 
-**Parent Topic:**[Set Employee Presence](../concept/use-workplace-concierge.md)
+**Parent Topic:**[Set Employee Presence](use-workplace-concierge.md)
 
 **Related topics**  
 
@@ -49,5 +49,5 @@ The collaborator is removed from your routine.
 
 [Update your in-office days as exceptions](update-in-office-days-exceptions.md)
 
-[Managing presence privacy settings](../concept/manage-presence-privacy-settings.md#)
+[Managing presence privacy settings](manage-presence-privacy-settings.md#)
 

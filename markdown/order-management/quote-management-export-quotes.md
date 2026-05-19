@@ -40,5 +40,5 @@ Role required: sales\_agent
     The list of quotes is exported according to the parameters set.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

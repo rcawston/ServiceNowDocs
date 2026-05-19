@@ -49,7 +49,7 @@ Set up the Conversational Integration with Alexa application so that you can eng
 
         For more information, see the [Alexa documentation](https://developer.amazon.com/en-US/docs/alexa/devconsole/test-your-skill.html).
 
-    6.  [Account linking with Alexa](../concept/account-linking-alexa.md).
+    6.  [Account linking with Alexa](account-linking-alexa.md).
 
         For more information, see the [Alexa documentation](https://developer.amazon.com/en-US/docs/alexa/account-linking/account-linking-for-custom-skills.html).
 
@@ -81,12 +81,12 @@ Test your Alexa skill using the Alexa simulator and developer account once the i
 Test your Alexa skill using the Alexa mobile app.
 -   **[Test a skill on the Alexa Echo or Echo Show screen device](test-skill-echo-show.md)**  
 Test your Alexa skill using the Alexa Echo or Echo Show screen device.
--   **[Supported Alexa intents](../reference/alexa-intents.md)**  
+-   **[Supported Alexa intents](alexa-intents.md)**  
 Use the Alexa intents supported by Conversational Integration with Alexa to receive an appropriate response during custom chat integrations with Alexa.
 -   **[Create a provider channel identity record for Alexa](create-provider-channel-id-record-alexa.md)**  
 Create a provider channel identity record to connect to your Alexa account.
 -   **[Set up message authentication for Alexa](setup-message-auth-alexa.md)**  
 Define a token in your ServiceNow instance to set up a message authentication with your Alexa account.
 
-**Parent Topic:**[Configure Conversational Integration with Alexa](../concept/configure-amazon-alexa.md)
+**Parent Topic:**[Configure Conversational Integration with Alexa](configure-amazon-alexa.md)
 

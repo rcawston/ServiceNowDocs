@@ -46,7 +46,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
             |User name|Name of the user for performing Avi Load Balancer discovery.|
             |Password|Password for this user.|
 
-        4.  [Run a Quick Discovery](../../discovery/task/t_CreateADiscoverySchedule.md#) on the IP address of the Avi Controller Cluster.
+        4.  [Run a Quick Discovery](../discovery/t_CreateADiscoverySchedule.md#) on the IP address of the Avi Controller Cluster.
 -   For the Avi Load Balancer Controller - Session-based pattern:
     -   Create a Basic Authentication credential with an alias:
         1.  Navigate to **Connections &amp; Credentials** &gt; **Connection &amp; Credential Aliases**.
@@ -64,7 +64,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
             |Password|Password for this user.|
 
         8.  Click **Update**.
-    -   Create a [serverless discovery](../../discovery/concept/serverless-discovery.md) schedule.
+    -   Create a [serverless discovery](../discovery/serverless-discovery.md) schedule.
 
         Then do the following:
 
@@ -394,5 +394,5 @@ The Pattern Designer fails because of a timeout during pattern debugging \(and n
 By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Increase the value of this parameter on the relevant MID Server.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+</table>**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

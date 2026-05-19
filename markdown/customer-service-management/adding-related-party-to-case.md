@@ -19,7 +19,7 @@ Role required: sn\_customerservice\_agent
 
 ## About this task
 
-Related parties and their assigned responsibilities are part of the Customer Access Management feature. Customer access management enables you to support multiple contacts and consumers on cases and sold products, providing them with varying levels of access to the case. For more information, see [Configuring Customer Access Management](../concept/configuring-cam.md).
+Related parties and their assigned responsibilities are part of the Customer Access Management feature. Customer access management enables you to support multiple contacts and consumers on cases and sold products, providing them with varying levels of access to the case. For more information, see [Configuring Customer Access Management](configuring-cam.md).
 
 Related parties that are added to cases must also be assigned the sn\_customerservice.case\_authorized\_contributor role.
 
@@ -99,5 +99,5 @@ Once related parties are added to the case with a proper functional role having 
 **Related topics**  
 
 
-[Case update notifications](../concept/case-update-notification-cam.md)
+[Case update notifications](case-update-notification-cam.md)
 

@@ -87,5 +87,5 @@ Select if you want the application to be published to your application repositor
     **Note:** If your application is linked to source control and you publish a new version outside of App Engine Studio, a source control commit and tag are not created.
 
 
-**Parent Topic:**[Publish your app](../concept/publish-your-app.md)
+**Parent Topic:**[Publish your app](publish-your-app.md)
 

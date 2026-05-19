@@ -32,5 +32,5 @@ Role required: admin or sp\_admin
 
 You can select the individual to-dos or select **View all** to view and work on them in Shopping Hub.
 
-**Parent Topic:**[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+**Parent Topic:**[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 

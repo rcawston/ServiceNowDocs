@@ -66,8 +66,8 @@ All anomalies don’t represent an issue, but, the outliers detected based on hi
 
 -   **[Configure anomaly alerts](configure-anomaly-alerts.md)**  
 Configure anomaly alerts based on metrics outliers on historical patterns in Instance Observer.
--   **[Anomaly detection algorithm](../reference/anomaly-detection-algorithm.md)**  
+-   **[Anomaly detection algorithm](anomaly-detection-algorithm.md)**  
 Instance Observer is performing anomalies detection through the Z-score Statistical model, otherwise referred to as a univariate method.
 
-**Parent Topic:**[Performance](../concept/instance-observer-performance.md)
+**Parent Topic:**[Performance](instance-observer-performance.md)
 

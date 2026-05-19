@@ -32,5 +32,5 @@ Role required: assessment\_admin or admin
     The optimal frequency of assessment generation is subjective. When you set the schedule, keep in mind the number of records to evaluate, how often your organization requires updated assessment results, the time and effort required of users to complete assessments, and other relevant factors.
 
 
-**Parent Topic:**[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+**Parent Topic:**[Scheduled assessments](c_ScheduledAssessments.md)
 

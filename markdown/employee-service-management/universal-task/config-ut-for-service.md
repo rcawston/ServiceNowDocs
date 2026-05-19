@@ -27,12 +27,12 @@ Role required: sn\_uni\_task.admin
 
 3.  On the form, fill in the fields.
 
-    For more information on form fields and descriptions, see [Universal Task Configuration form](../reference/unitask-config-form.md).
+    For more information on form fields and descriptions, see [Universal Task Configuration form](unitask-config-form.md).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Define the agent criteria for Universal Task](ut-config-extn-point-agent.md)
 

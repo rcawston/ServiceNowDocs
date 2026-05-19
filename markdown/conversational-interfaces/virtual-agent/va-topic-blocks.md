@@ -18,7 +18,7 @@ Use a Topic Block in a Virtual Agent conversation to perform a specific function
 
 ## Topic Block utility properties
 
-For more information, see [Add a reusable topic block to a calling topic or topic block](../task/add-topic-blocks-to-topic.md).
+For more information, see [Add a reusable topic block to a calling topic or topic block](add-topic-blocks-to-topic.md).
 
 <table id="table_nff_y1b_3db"><thead><tr><th>
 
@@ -64,7 +64,7 @@ The variables to be used as input to the selected topic block. In this example, 
 
  The contents of this area change according to the topic block you selected. Options may include string input, referenced records, scripts, and so forth.
 
- With **Use dynamic Topic Block** active, you add all input mappings manually instead by selecting the Manage inputs to define icon ![Manage inputs to define icon.](../images/manage-inputs-outputs.png). Inputs are handled similarly to the Input Parameters dialog box in the Start segment of a [reusable topic block](../task/create-topic-blocks.md).
+ With **Use dynamic Topic Block** active, you add all input mappings manually instead by selecting the Manage inputs to define icon ![Manage inputs to define icon.](../images/manage-inputs-outputs.png). Inputs are handled similarly to the Input Parameters dialog box in the Start segment of a [reusable topic block](create-topic-blocks.md).
 
 </td></tr><tr><td>
 

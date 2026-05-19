@@ -29,15 +29,15 @@ Role required: sn\_privacy.business\_user
 
 4.  On the form, fill in the fields.
 
-    See the [Employee Center privacy case creation form](../reference/privacy-case-form-employee-center.md) for an explanation of each field.
+    See the [Employee Center privacy case creation form](privacy-case-form-employee-center.md) for an explanation of each field.
 
 5.  To provide supporting material or evidence, select **Add attachments**.
 
 6.  Select **Submit**.
 
 
--   **[Employee Center privacy case creation form](../reference/privacy-case-form-employee-center.md)**  
+-   **[Employee Center privacy case creation form](privacy-case-form-employee-center.md)**  
 On the new privacy case form in the Employee Center, fill in the fields as appropriate.
 
-**Parent Topic:**[Reporting a privacy case](../concept/reporting-a-privacy-case.md)
+**Parent Topic:**[Reporting a privacy case](reporting-a-privacy-case.md)
 

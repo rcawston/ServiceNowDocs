@@ -89,7 +89,7 @@ Approved state of the event. When an event is approved, the state is set to the 
 
 Download the PDF of an exercise or crisis event for reference. When you select Generate PDF, the PDF attachment is available in the **Activity** panel of the **Details** tab.
 
-For information on generating the PDF of an exercise or crisis event, see [Generate event reports in PDF or Microsoft Word](../task/generate-pdf-for-events.md).
+For information on generating the PDF of an exercise or crisis event, see [Generate event reports in PDF or Microsoft Word](generate-pdf-for-events.md).
 
 -   **Copy**
 
@@ -99,7 +99,7 @@ Save a copy of an exercise or crisis event for future reference as a template.
 
 Visualize the 360º representation of an exercise or crisis event.
 
-For information on how to view 360º relationships of an exercise or crisis event, see [View 360° relationships for exercises and crises](../task/relationship-view-exercise-crisis.md).
+For information on how to view 360º relationships of an exercise or crisis event, see [View 360° relationships for exercises and crises](relationship-view-exercise-crisis.md).
 
 -   **Delete**
 

@@ -19,7 +19,7 @@ If the MID Server agent is up, this class gathers all MID Servers \(including th
 
 Use in server scripts to get MID Server cluster information.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## MIDServerCluster - MIDServerCluster\(GlideRecord agent\)
 

@@ -122,5 +122,5 @@ sensor\_script
 The script to execute after the request has been made and a response has been received. You can access the full XML response body from the activity.output object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Utility workflow activities](../concept/c_UtilityActivities.md)
+</table>**Parent Topic:**[Utility workflow activities](c_UtilityActivities.md)
 

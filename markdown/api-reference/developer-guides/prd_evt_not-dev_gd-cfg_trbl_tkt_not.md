@@ -24,8 +24,8 @@ These trouble ticket events include:
 
 If needed, you can add trouble ticket events to your implementation by performing the following steps:
 
-1.  Add a new [business rule](../../../../script/business-rules/concept/c_BusinessRules.md#). This business rule must be associated with the table in which the record, incident or case, is stored. For additional information, see [Add a business rule for a new trouble ticket event](../reference/prd_evt_not-dev_gd-add_bus_rule.md).
-2.  Configure the payload generation for the new trouble ticket event. For additional information see, [Generate the payload for a new trouble ticket event](../reference/prd_evt_not-dev_gd-gen_evt_pay.md)
+1.  Add a new [business rule](../business-rules-classic/c_BusinessRules.md#). This business rule must be associated with the table in which the record, incident or case, is stored. For additional information, see [Add a business rule for a new trouble ticket event](prd_evt_not-dev_gd-add_bus_rule.md).
+2.  Configure the payload generation for the new trouble ticket event. For additional information see, [Generate the payload for a new trouble ticket event](prd_evt_not-dev_gd-gen_evt_pay.md)
 
-You can also modify the payload of existing trouble ticket events. For details, see [Modify a trouble ticket event payload](../reference/prd_evt_not-dev_gd-mod-evt-pay.md).
+You can also modify the payload of existing trouble ticket events. For details, see [Modify a trouble ticket event payload](prd_evt_not-dev_gd-mod-evt-pay.md).
 

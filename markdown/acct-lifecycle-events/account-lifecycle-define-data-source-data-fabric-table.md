@@ -59,5 +59,5 @@ To get the total number of licenses used this quarter across accounts and produc
 
 ## What to do next
 
-After defining the data source, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md) for details.
+After defining the data source, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](account-lifecycle-define-context-engine-mapper.md) for details.
 

@@ -34,7 +34,7 @@ Based on the defined condition, Workflow Studio works with the Incident Escalati
 
 ## Messages
 
-Each subflow in Proactive Service Experience Workflows is associated with a message file that provides instructions for agents to use to troubleshoot, escalate, and resolve network-initiated incidents. For more information about how to customize the default instructions for your internal troubleshooting processes, see [Customize message files](../task/configure-msg-file-taw.md).
+Each subflow in Proactive Service Experience Workflows is associated with a message file that provides instructions for agents to use to troubleshoot, escalate, and resolve network-initiated incidents. For more information about how to customize the default instructions for your internal troubleshooting processes, see [Customize message files](configure-msg-file-taw.md).
 
 ## Roles
 

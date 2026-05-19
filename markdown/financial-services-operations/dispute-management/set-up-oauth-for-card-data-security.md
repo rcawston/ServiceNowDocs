@@ -72,38 +72,38 @@ CardDataSecurity.DataTokenSigner
 
 </td><td>
 
-Required for context-aware authorization. Signs data tokens that are used to make detokenization requests to the data vault. Used for revealing PAN values.**Note:** The steps below differ when setting up a data token signer. See [Set up a Token Signer](../task/set-up-a-token-signer.md) for specific steps on this connection type.
+Required for context-aware authorization. Signs data tokens that are used to make detokenization requests to the data vault. Used for revealing PAN values.**Note:** The steps below differ when setting up a data token signer. See [Set up a Token Signer](set-up-a-token-signer.md) for specific steps on this connection type.
 
 </td></tr></tbody>
-</table>1.  [Create a JKS file](../task/create-a-jks-file.md)
+</table>1.  [Create a JKS file](create-a-jks-file.md)
 
     Generate a Java KeyStore \(JKS\) file for OAuth authentication setup.
 
-2.  [Create an X.509 Certificate](../task/create-an-x-509-certificate.md)
+2.  [Create an X.509 Certificate](create-an-x-509-certificate.md)
 
     Create an X.509 certificate record by uploading a JKS file and configuring the certificate settings.
 
-3.  [Set up a JWT key](../task/set-up-a-jwt-key.md)
+3.  [Set up a JWT key](set-up-a-jwt-key.md)
 
     Configure a JSON Web Token \(JWT\) key by linking X.509 certificates with tokenizer service credentials.
 
-4.  [Set up a JWT Provider](../task/set-up-a-jwt-provider.md)
+4.  [Set up a JWT Provider](set-up-a-jwt-provider.md)
 
     Configure a JWT Provider by setting up signing configurations and claim values.
 
-5.  [Set up an OAuth Provider](../task/set-up-an-oauth-provider.md)
+5.  [Set up an OAuth Provider](set-up-an-oauth-provider.md)
 
     Configure an OAuth provider to establish the necessary connection credentials and JWT configuration.
 
-6.  [Set up the Connection &amp; Credential records](../task/set-up-the-vault-api-connection.md)
+6.  [Set up the Connection &amp; Credential records](set-up-the-vault-api-connection.md)
 
     Configure the Vault API connection to establish the endpoint URL and vault ID required for data tokenization operations.
 
-7.  [Set up an OAuth Credential](../task/set-up-an-oauth-credential.md)
+7.  [Set up an OAuth Credential](set-up-an-oauth-credential.md)
 
     Create an OAuth 2.0 credential to enable secure authentication for Card Data Security integrations.
 
-8.  [Set up the OAuth Vault API REST message](../task/set-up-the-vault-api-rest-message.md)
+8.  [Set up the OAuth Vault API REST message](set-up-the-vault-api-rest-message.md)
 
     Configure the Data Security Vault API REST message with the correct endpoint URL and OAuth authentication profile.
 

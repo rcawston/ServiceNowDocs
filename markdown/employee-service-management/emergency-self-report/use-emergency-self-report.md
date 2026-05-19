@@ -45,7 +45,7 @@ The workflow for Emergency Self Report begins with users self-reporting their he
 
         The health status is updated on the left side of the screen. A message is sent to your manager, and a crisis task is generated for the response team. The crisis task can be assigned an approver, and the reporting user's assigned tasks can be reviewed.
 
-        If Contact Tracing is installed and you selected the **In quarantine** option, a case is created automatically for the user. If an active case exists for the user at the time of reporting, a note is added to the case about the self-reporting. For more information, see ServiceNow® [Contact Tracing](../../contact-tracing/concept/exposure-case-management.md).
+        If Contact Tracing is installed and you selected the **In quarantine** option, a case is created automatically for the user. If an active case exists for the user at the time of reporting, a note is added to the case about the self-reporting. For more information, see ServiceNow® [Contact Tracing](../contact-tracing/exposure-case-management.md).
 
     4.  When you're ready to return to work, update your health status to **Return to Work**.
 
@@ -64,7 +64,7 @@ The workflow for Emergency Self Report begins with users self-reporting their he
     3.  To reassign tasks for the user, click the **Reassign** link in the task row, assign the task to another user, and click **Submit**.
 
 
-**Parent Topic:**[Emergency Self Report](../concept/emergency-self-report.md)
+**Parent Topic:**[Emergency Self Report](emergency-self-report.md)
 
 **Related topics**  
 

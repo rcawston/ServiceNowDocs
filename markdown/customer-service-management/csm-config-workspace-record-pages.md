@@ -37,7 +37,7 @@ Description
 
 </td><td>
 
-This page provides the basic structure for case management, including record information, chat and phone features, and suggestions for resolving issues.**Note:** Use this page to display generative AI elements and functionality available with [Now Assist for Customer Service Management \(CSM\)](now-assist-csm.md).
+This page provides the basic structure for case management, including record information, chat and phone features, and suggestions for resolving issues.**Note:** Use this page to display generative AI elements and functionality available with [Now Assist for Customer Service Management \(CSM\)](now-assist-for-csm/now-assist-csm.md).
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ This page is designed for front-line agents. It provides a simplified case view 
 
 </td><td>
 
-This page includes CSM-specific features for interaction management, including interaction information and related search results, and enables agents to accept and respond to live chats, calls, email, and SMS messages.**Note:** Use this page to display generative AI elements and functionality available with [Now Assist for Customer Service Management \(CSM\)](now-assist-csm.md).
+This page includes CSM-specific features for interaction management, including interaction information and related search results, and enables agents to accept and respond to live chats, calls, email, and SMS messages.**Note:** Use this page to display generative AI elements and functionality available with [Now Assist for Customer Service Management \(CSM\)](now-assist-for-csm/now-assist-csm.md).
 
 </td></tr><tr><td>
 
@@ -189,7 +189,7 @@ Upgrade customers retain their custom record pages. However, the following pages
 -   Record default
 -   Interaction record page
 
-For more information about setting the default record pages, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+For more information about setting the default record pages, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 **Note:** Starting with the Australia release, the admin role includes all roles. With this change, the admin role can see the following pages:
 

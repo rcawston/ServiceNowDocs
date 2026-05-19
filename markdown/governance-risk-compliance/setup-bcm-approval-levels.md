@@ -51,12 +51,12 @@ Role required: sn\_bcm.admin
 
         ![Rule for level 2.](../image/approval-rule-level-2-configuration.png)
 
-        In the filter condition, you can select the source table on which rule the approval rule is evaluated. Optionally, you can apply additional condition on the source table. You can select a field to filter the source records based on the Applies to table of the approval configuration. You can configure for which records, level 1 should trigger level 2.For more information, see [Approval Rule New Record form](../../grc-common/reference/approval-rule-new-record-form.md).
+        In the filter condition, you can select the source table on which rule the approval rule is evaluated. Optionally, you can apply additional condition on the source table. You can select a field to filter the source records based on the Applies to table of the approval configuration. You can configure for which records, level 1 should trigger level 2.For more information, see [Approval Rule New Record form](grc-common-functions/approval-rule-new-record-form.md).
 
     2.  Select **Submit**.
 
     The approval rule is now configured for the approval level. When a business continuity plan is created in the BCM Configurable Workspace and later it is sent for a review and an approval, the multiple approval levels are displayed in the **Approval levels** tab of the business continuity plan as shown in the example.![Approval levels in the plan.](../image/approval-levels-tab-of-plan.png)
 
 
-**Parent Topic:**[Approval configuration](../concept/bcm-approval-configuration.md)
+**Parent Topic:**[Approval configuration](bcm-approval-configuration.md)
 

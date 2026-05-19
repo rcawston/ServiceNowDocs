@@ -199,5 +199,5 @@ Use Workforce Optimization for ITSM to manage and maintain the productivity of y
 [Workforce Optimization for ITSM overview \(video\)](https://www.youtube.com/watch?v=MD_JsQSwI5k&t=1s)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Select your adoption blueprint](../task/ac-select-business-objective.md)
+</table>**Parent Topic:**[Select your adoption blueprint](ac-select-business-objective.md)
 

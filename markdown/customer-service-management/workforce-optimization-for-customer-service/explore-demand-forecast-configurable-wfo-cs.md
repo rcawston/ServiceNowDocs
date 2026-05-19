@@ -40,7 +40,7 @@ When you create Demand Forecast configurations, the application creates these me
 
 ## Analyzing Demand Forecast resource prediction
 
-As a manager with the forecast admin role, you can create forecast parameters in the Manager Workspace. [Modify forecast parameters to visualize forecast data](../task/modify-demand-forecast-parameters-configurable-wfo.md) and preview time-series data before publishing it. You can create any number of forecasts to preview the time-series data in real time.
+As a manager with the forecast admin role, you can create forecast parameters in the Manager Workspace. [Modify forecast parameters to visualize forecast data](modify-demand-forecast-parameters-configurable-wfo.md) and preview time-series data before publishing it. You can create any number of forecasts to preview the time-series data in real time.
 
 You can also make manual adjustments to tweak the forecast and analyze the forecast pattern. Overlay the manual adjustments on the visualized forecast data and view the time-series data to analyze the forecast model. For example, you have a specific pattern for the upcoming week that has a national holiday in the middle of the week where you need more agents. Because you expect the sales to go up, you can manually tweak the forecast to increase it by 10% and analyze that data.
 
@@ -65,7 +65,7 @@ To forecast the demand:
 4.  Associate the formulas to assignment groups.
 5.  View the predicted demand on the calendar.
 
-**Note:** See the Demand Forecast section in [Components installed with Workforce Optimization for Customer Service](../reference/components-installed-configurable-wfo-cs.md) for information on the default components and configurations.
+**Note:** See the Demand Forecast section in [Components installed with Workforce Optimization for Customer Service](components-installed-configurable-wfo-cs.md) for information on the default components and configurations.
 
 ## Collect data by defining data collection definitions
 
@@ -76,7 +76,7 @@ Use the Data Collection Definitions module to define the data that you want to c
     You can access the time series for the collected data using the MetricBase `list` in the Group \[sys\_user\_group\] table. For more information on accessing MetricBase data, see [Access MetricBase data using the list command](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/view-time-series-data.md).
 
 -   Use the **Collect historical data for automated forecast configurations** on-demand job to collect historical data at 15-minute intervals. This job collects data for the past three years.
--   Use the **Forecast resources for future** scheduled job to forecast the resources based on the collected data and stores the data in the Agent Forecast metric in MetricBase. See [Forecast properties](../reference/components-installed-configurable-wfo-cs.md#forecast-properties) to set the collection frequency such as the number of days that you must collect the data to calculate the forecast or the time period that you want to store the data for.
+-   Use the **Forecast resources for future** scheduled job to forecast the resources based on the collected data and stores the data in the Agent Forecast metric in MetricBase. See [Forecast properties](components-installed-configurable-wfo-cs.md#forecast-properties) to set the collection frequency such as the number of days that you must collect the data to calculate the forecast or the time period that you want to store the data for.
 
 **Note:** The time series metrics created for data collection definitions use the WFO Forecast retention policy. This policy stores data at a one-hour interval for the past three years.​
 
@@ -90,11 +90,11 @@ For example, a manager can generate the volume forecast at 15-minutes intervals 
 
 ## Create formula parameters
 
-Use numeric values or a script to be defined in the formula to calculate the resources from forecasts. Units in formula parameters can be specified in hours, minutes, or absolute numbers. See [Formula parameters](../reference/components-installed-configurable-wfo-cs.md#table_qtg_pwr_zmb) for the parameters that are available by default.
+Use numeric values or a script to be defined in the formula to calculate the resources from forecasts. Units in formula parameters can be specified in hours, minutes, or absolute numbers. See [Formula parameters](components-installed-configurable-wfo-cs.md#table_qtg_pwr_zmb) for the parameters that are available by default.
 
 ## Create formulas to convert forecast to resources
 
-Build formulas to convert the volume forecast to the staffing forecast at 15-, 30-, and 60-minute intervals. See [Resource Conversion Formula](../reference/components-installed-configurable-wfo-cs.md) for the configured resource forecast formulas that are available by default.
+Build formulas to convert the volume forecast to the staffing forecast at 15-, 30-, and 60-minute intervals. See [Resource Conversion Formula](components-installed-configurable-wfo-cs.md) for the configured resource forecast formulas that are available by default.
 
 ## Associate formulas to assignment groups
 
@@ -113,7 +113,7 @@ As a WFO admin, you need to configure assignment groups associated with Workforc
 **Related topics**  
 
 
-[Configure the data collection for resources demands](../task/configure-data-collection-demand-forecast.md)
+[Configure the data collection for resources demands](configure-data-collection-demand-forecast.md)
 
-[Analyze staff alignment using Demand Forecast](../task/analyze-staff-alignment-configurable-wfo-cs.md)
+[Analyze staff alignment using Demand Forecast](analyze-staff-alignment-configurable-wfo-cs.md)
 

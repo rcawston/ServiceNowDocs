@@ -39,5 +39,5 @@ Configure basic authentication credentials for a user with a read-only role. For
 **Related topics**  
 
 
-[NetApp Server and Cluster discovery](../../discovery/concept/netapp-discovery.md)
+[NetApp Server and Cluster discovery](netapp-discovery.md)
 

@@ -228,15 +228,15 @@ Duration to complete the case.
 
 [Primary data tables for Supplier Lifecycle Operations](slo-primary-data-tables.md)
 
-[Domain separation and Supplier Lifecycle Operations](../concept/supplier-domain-separation.md)
+[Domain separation and Supplier Lifecycle Operations](supplier-domain-separation.md)
 
 [Supplier Lifecycle Operations data model](slo-data-model.md)
 
-[Supplier Relationship and Performance Management reference](../concept/supplier-relationship-and-performance-management-reference.md)
+[Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md)
 
-[Supplier Payment Optimization reference](../concept/supp-payment-opt-ref.md)
+[Supplier Payment Optimization reference](supp-payment-opt-ref.md)
 
-[Supplier Lifecycle Operations glossary](../concept/slo-glossary.md#)
+[Supplier Lifecycle Operations glossary](slo-glossary.md#)
 
-[Create a case on behalf of a supplier from the Source-to-Pay Workspace](../task/create-new-supplier-case.md)
+[Create a case on behalf of a supplier from the Source-to-Pay Workspace](create-new-supplier-case.md)
 

@@ -39,7 +39,7 @@ On successful mapping, you can run the **RFID Asset Mapping Job** scheduled job 
     You can view and take action on these unmatched enterprise assets by using the **Unmatched RFID tags** important action that appears on the **Overview** tab of the Enterprise asset estate view. For more information on the Enterprise asset estate view, see [Enterprise asset estate overview for Enterprise Asset Workspace](asset-estate-overview-eam.md).
 
 
-You can view your asset records in the [Enterprise asset estate view](asset-estate-overview-eam.md) of the Enterprise Asset Workspace. For details on the RFID fields that are included in each asset record, see [Asset fields for enterprise assets](../reference/asset-fields-eam.md).
+You can view your asset records in the [Enterprise asset estate view](asset-estate-overview-eam.md) of the Enterprise Asset Workspace. For details on the RFID fields that are included in each asset record, see [Asset fields for enterprise assets](asset-fields-eam.md).
 
 **Note:** If you are importing RFID location data for parent enterprise assets with one or more child enterprise assets, RFID location data for those child enterprise assets is based on the RFID tags that they are associated with.
 

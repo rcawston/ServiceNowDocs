@@ -17,7 +17,7 @@ The customer service agents have visibility into the ongoing requests and case s
 
 After an agent accepts an incoming chat request, the **Requesting service organization** field on the Interaction form that the agent sees is automatically filled in with the business location that a staff member selected during the pre-chat survey. To learn more about the pre-chat surveys, see [Define pre-chat survey configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-pre-chat-surveys.md).
 
-**Note:** The **Number**, **Type**,**State**, and **Assigned to** fields on the Interaction form are filled by default. To learn more about the fields, see [Create cases for a business location in the Business Location Service Portal](../task/report-cases-on-behalf-of-biz-location.md).
+**Note:** The **Number**, **Type**,**State**, and **Assigned to** fields on the Interaction form are filled by default. To learn more about the fields, see [Create cases for a business location in the Business Location Service Portal](report-cases-on-behalf-of-biz-location.md).
 
 The Open Cases and Recent Interactions related lists on the Interaction form shows a list of the active cases and interactions for the requesting service organization.
 
@@ -26,5 +26,5 @@ A resolution is also provided by interacting with the user. For further assistan
 **Related topics**  
 
 
-[Chat with Virtual Agent from the Business Location Service Portal](../task/agent-chat-business-location-service-portal.md)
+[Chat with Virtual Agent from the Business Location Service Portal](agent-chat-business-location-service-portal.md)
 

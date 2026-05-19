@@ -83,7 +83,7 @@ Select the roles that a user must have to execute the skill. **Note:** If you se
     4.  Continue creating the skill.
 
 
-**Parent Topic:**[Configuring Now Assist Skill Kit](../concept/configuring-now-assist-skill-kit.md)
+**Parent Topic:**[Configuring Now Assist Skill Kit](configuring-now-assist-skill-kit.md)
 
 **Related topics**  
 

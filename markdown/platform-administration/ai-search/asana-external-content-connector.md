@@ -20,11 +20,11 @@ Connector administrators can run or schedule content crawls to retrieve updated 
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
--   **[Configure Asana for external content indexing](../task/configure-asana-external-content-indexing.md)**  
+-   **[Configure Asana for external content indexing](configure-asana-external-content-indexing.md)**  
 Create and authorize an OAuth 2.0 application in the Asana developer console to allow the Asana external content connector to access your Asana source system.
--   **[Create an Asana external content connector](../task/create-ext-cont-connector-asana.md)**  
+-   **[Create an Asana external content connector](create-ext-cont-connector-asana.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Asana source system.
--   **[Configure crawl settings for an Asana external content connector](../task/configure-crawl-settings-asana-external-content-connector.md)**  
+-   **[Configure crawl settings for an Asana external content connector](configure-crawl-settings-asana-external-content-connector.md)**  
 Specify the projects you want your Asana external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -32,7 +32,7 @@ Specify the projects you want your Asana external content connector to crawl. De
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

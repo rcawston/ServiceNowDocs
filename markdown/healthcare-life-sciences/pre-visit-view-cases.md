@@ -59,5 +59,5 @@ For more information on tabs available for a customer service case, see [Custome
 
 ## What to do next
 
-You can select the **Patient information** tab in Workspace to view patient details. For more information, see [Viewing patient information for a procedure request in Workspace](../concept/pre-visit-viewing-patient-info.md).
+You can select the **Patient information** tab in Workspace to view patient details. For more information, see [Viewing patient information for a procedure request in Workspace](pre-visit-viewing-patient-info.md).
 

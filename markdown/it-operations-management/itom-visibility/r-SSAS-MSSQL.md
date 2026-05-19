@@ -51,5 +51,5 @@ Discovery populates the following data when running the SSAS pattern.
 |Instance Name|instance|The SSAS instance name|
 |TCP port\(s\)|tcp\_port|The SSAS TCP port|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

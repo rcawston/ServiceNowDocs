@@ -25,7 +25,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 2.  On the Create new Maintenance Schedule form, fill in the fields.
 
-    See [Maintenance schedule fields for Enterprise Asset Management](../reference/maintenance-schedule-fields-eam.md) for a detailed description of each field.
+    See [Maintenance schedule fields for Enterprise Asset Management](maintenance-schedule-fields-eam.md) for a detailed description of each field.
 
 3.  Select **Save**.
 
@@ -57,5 +57,5 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 Maintenance runs automatically based on the schedule that you set for the maintenance plan. You can also run maintenance on-demand by selecting **Run on demand** on the maintenance schedule record.
 
-Each time maintenance runs, the Enterprise Asset Management application automatically creates a corresponding work order for every enterprise asset that the maintenance plan is applied to, given that the asset isn't already associated with an existing work order. You can use these work orders to track and manage all the work that you need to perform on the specified enterprise assets. See [Managing work for your enterprise assets](../concept/managing-work-enterprise-assets.md) for more information on work orders.
+Each time maintenance runs, the Enterprise Asset Management application automatically creates a corresponding work order for every enterprise asset that the maintenance plan is applied to, given that the asset isn't already associated with an existing work order. You can use these work orders to track and manage all the work that you need to perform on the specified enterprise assets. See [Managing work for your enterprise assets](managing-work-enterprise-assets.md) for more information on work orders.
 

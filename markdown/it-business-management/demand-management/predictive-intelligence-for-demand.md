@@ -73,7 +73,7 @@ View similar demands based on the **Demand Name** and **Description** fields. Yo
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Train the similarity solution for Demand Management to find similar demands](../task/train-similarity-solution-dm.md)
+[Train the similarity solution for Demand Management to find similar demands](train-similarity-solution-dm.md)
 
-[Create a demand](../task/t_CreatingDemands.md)
+[Create a demand](t_CreatingDemands.md)
 

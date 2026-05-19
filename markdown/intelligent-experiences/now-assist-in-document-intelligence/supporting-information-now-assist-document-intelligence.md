@@ -33,7 +33,7 @@ For more information, see [Document Intelligence workspace with Now Assist](docu
 
 ## Supported languages
 
-Now Assist in Document Intelligence supports text in multiple languages. For information on supported languages, see [Languages supported by Now Assist in Document Intelligence](../reference/languages-supported-now-assist-document-intelligence.md).
+Now Assist in Document Intelligence supports text in multiple languages. For information on supported languages, see [Languages supported by Now Assist in Document Intelligence](languages-supported-now-assist-document-intelligence.md).
 
 ## Application information
 

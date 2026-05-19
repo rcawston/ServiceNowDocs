@@ -97,5 +97,5 @@ Complete these steps from your [Azure](https://docs.microsoft.com/en-us/azure/) 
 
 [Register Microsoft OneDrive as an OAuth provider for Document Services](register-ms-onedrive-oauth-provider.md)
 
-**Parent Topic:**[Microsoft OneDrive integration with Document Services](../concept/one-drive-integration.md)
+**Parent Topic:**[Microsoft OneDrive integration with Document Services](one-drive-integration.md)
 

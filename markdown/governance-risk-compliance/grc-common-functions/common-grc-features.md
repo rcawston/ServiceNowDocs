@@ -19,23 +19,23 @@ For example, you can run GRC applications by using the ServiceNow® mobile appli
 
 -   **[Assignment Configurator for non-regulatory alerts](assignment-configurator-for-non-regulatory-alerts.md)**  
 Assignment rules help in automating organization’s task records such as action tasks, and non-task records such as issues, incidents, regulatory alerts, and so on.
--   **[Regulatory Agency Library](../../grc-rcm/concept/regulatory-agency-library-rcm.md)**  
+-   **[Regulatory Agency Library](regulatory-agency-library-rcm.md)**  
 Regulatory Agency Library is a new application available in the ServiceNow Store for download and activation.
--   **[Recommendation contexts and templates](../../grc-rcm/concept/recommendation-contexts.md)**  
+-   **[Recommendation contexts and templates](recommendation-contexts.md)**  
 By using the Governance, Risk, and Compliance recommendations framework, you can use recommendation contexts and templates to deliver AI-driven insights directly to your users within the user interface. With these insights, your users can make informed decisions and take prompt actions.
 -   **[Mobile experience for Governance, Risk, and Compliance](mobile-grc-ovrvw.md)**  
 Manage your work, task assignments, requests, approvals, and other follow-up actions for GRC applications directly from your mobile device. Receive timely notifications for current alerts, as well as risk and compliance status for your critical assets, vendors, and impacted essential business services.
 -   **[GRC notification redirection](email-notification-redirection.md)**  
 When you receive notifications for GRC records, you're directed to either the workspace view or classic view based on your access permissions and role. This feature enables you to work directly in the appropriate interface without manual navigation.
--   **[Governance, Risk, and Compliance application nomenclature updates and industry terminology](../reference/grc-terms.md)**  
+-   **[Governance, Risk, and Compliance application nomenclature updates and industry terminology](grc-terms.md)**  
 The following terms are used within GRC applications and/or within the GRC industry.
--   **[Governance, Risk, and Compliance content packs](../reference/grc-content-packs.md)**  
+-   **[Governance, Risk, and Compliance content packs](grc-content-packs.md)**  
 Content packs may include pre-defined scopes, specific policies, controls, risks, audit, test plans, dashboards, and reports that provides customers an operational head-start when adopting various regulations and frameworks.
--   **[Governance, Risk, and Compliance integrations](../reference/grc-integrations.md)**  
+-   **[Governance, Risk, and Compliance integrations](grc-integrations.md)**  
 Integrations enhance the ServiceNow® GRC product offering, providing users the ability to integrate with third-party applications.
--   **[Governance, Risk, and Compliance use case accelerators](../reference/grc-use-case-accelerators.md)**  
+-   **[Governance, Risk, and Compliance use case accelerators](grc-use-case-accelerators.md)**  
 Use case accelerators may include pre-defined scopes, specific policies, controls, risks, audit, test plans, dashboards, and reports that provides customers an operational head-start when adopting various regulations and frameworks.
--   **[360° Relationship Visualization](../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md)**  
+-   **[360° Relationship Visualization](../grc-360-degree-relationship-visualization/grc-360-deg-rel-vis.md)**  
 The 360° Relationship Visualization application allows you to visually explore the relationships between the different types of critical data that affect your business, such as controls, risks, and issues. The visualization also facilitates quick actions upon the information, such as adding a relationship, closing an issue, or approving a policy exception.
 -   **[Tagging records with functional domain](tagging-records-with-functional-domain.md)**  
 Functional domain tagging is a mechanism that allows you to classify risk records based on the specific business function, process, or use case they support. A functional domain represents a logical grouping, such as Cybersecurity and risk, IT risk and compliance, Compliance, Third-Party Risk, or Operational Risk.
@@ -61,13 +61,13 @@ This is an overview of domain separation and the Governance, Risk, and Complianc
 The ServiceNow® Australia release supports breadcrumb navigation for all GRC modules including workspaces. Breadcrumbs provide a browser path to navigate a hierarchy of linked pages with related content.
 -   **[Taxonomy management in GRC](taxonomy-management.md)**  
 Taxonomy is used to organize, classify, and label the elements of the unstructured content. The content is organized into granular elements that provide more information about the context of the content.
--   **[Landing Page Configurations module](../reference/admin-config-using-grc-common.md)**  
+-   **[Landing Page Configurations module](admin-config-using-grc-common.md)**  
 GRC administrators can now configure the Tasks and Issues overview landing pages in the workspaces by using the GRC Landing Page Configurations module in the classic user interface. The role required to configure the tasks, issues, and other items in the Landing Page Configurations module is the sn\_grc\_workspace.task\_admin role. GRC administrators are assigned the sn\_grc\_workspace.task\_admin role by default.
--   **[My tasks in the workspace](../../grc-common-workspace/concept/configuration-of-tasks.md)**  
+-   **[My tasks in the workspace](configuration-of-tasks.md)**  
 GRC administrators can configure the tasks for the individual users and user groups in the GRC Landing Page Configurations module. Based on these configurations, the workspace users can view the individual user tasks, user group tasks, my items, and watchlist on the Tasks page in the workspace view.
 -   **[Exploring the entities](exploring-the-entities.md)**  
 Entities are one of the most fundamental and crucial elements for using Governance, Risk, and Compliance. Entities can be people, processes, departments, applications, or objects that are examined for risks.
--   **[Viewing and updating Governance, Risk, and Compliance exceptions](../../grc-risk/task/viewing-and-updating-grc-exceptions.md)**  
+-   **[Viewing and updating Governance, Risk, and Compliance exceptions](viewing-and-updating-grc-exceptions.md)**  
 Report exceptions as it is critical for businesses to quickly identify and address key business process issues before they become a problem. Using exceptions to manage errors has advantages over traditional error-management techniques.
 -   **[Cybersecurity Executive dashboard for Chief Information Security Officers](grc-ced-ciso-db.md)**  
 The Cybersecurity Executive Dashboard gives the Chief Information Security officer a comprehensive overview of the security posture score of an organization. However, the compliance and risk users can use the risk and compliance page to get an all-inclusive picture of all the GRC metrics.
@@ -84,5 +84,5 @@ Reference topics provide information about tables, roles, and properties install
 -   **[Anonymous Reporting Center](grc-anonymous-reporting-center.md)**  
 The Anonymous Reporting Center \(ARC\) enables employees to submit compliance, privacy, or AI‑related concerns without revealing their identity. Employees are automatically signed out of the **Employee Center** when ARC opens.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 

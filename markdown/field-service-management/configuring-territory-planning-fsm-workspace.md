@@ -23,14 +23,14 @@ The steps for setting up the Field Service Territory Planning Console are:
 
     Configure map overlays to view its corresponding data items in the territory map.
 
--   [Configure territory fields to appear in Territory Planning console](../task/configure-fields-to-appear-in-contextual-side-panel.md)
+-   [Configure territory fields to appear in Territory Planning console](configure-fields-to-appear-in-contextual-side-panel.md)
 
     Customize the information displayed for territories in the Territory Planning console by configuring the contextual side panel fields.
 
--   [Enable identification of relevant territories for a work order or work order task](../task/create-territory-conditions-in-console.md)
+-   [Enable identification of relevant territories for a work order or work order task](create-territory-conditions-in-console.md)
 
     Create matching rules and conditions to enable identification of the most relevant territories for work orders or work order tasks.
 
 
-For more information about activating and setting up Territory planning, see [Configuring Field Service Territory Planning](configuring-territory-planning-fsm.md).
+For more information about activating and setting up Territory planning, see [Configuring Field Service Territory Planning](workforce-optimization-for-field-service/configuring-territory-planning-fsm.md).
 

@@ -181,7 +181,7 @@ Parallel export
 
 </td><td>
 
-Select this check box to enable parallel exports. See [Parallel exports](../concept/parallel-exports.md).
+Select this check box to enable parallel exports. See [Parallel exports](parallel-exports.md).
 
 </td></tr></tbody>
 </table>4.  Click **Submit**.

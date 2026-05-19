@@ -19,9 +19,9 @@ Plan and configure your implementation of the Insurance claims application by fo
 
 Before beginning the configuration steps, you should familiarize yourself with the following topics:
 
--   [Financial Services Operations Core](../../fso-common/reference/financial-services-operations-core-data-model.md)
--   [Insurance Claims Core](../../fso-common/reference/insurance-claims-core-data-model.md)
--   [Integrating with Document Processor](../../fso-common/concept/integrating-with-document-processor.md)
+-   [Financial Services Operations Core](../financial-services-operations-core-data-model.md)
+-   [Insurance Claims Core](../insurance-claims-core-data-model.md)
+-   [Integrating with Document Processor](../integrating-with-document-processor.md)
 -   [Best practices for setting up an instance](https://www.servicenow.com/community/in-other-news/best-practices-for-general-planning-and-setup-of-your-instance/ba-p/2287790)
 -   [Table extension and classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/table-extension-and-classes.md)
 
@@ -43,7 +43,7 @@ Install the Insurance claims application
 
 </td><td>
 
-Install the Insurance claims application \(sn\_ins\_gen\_claim\) from the ServiceNow Store. For more information, see [Install Insurance claims](../task/install-insurance-claims-flow.md).
+Install the Insurance claims application \(sn\_ins\_gen\_claim\) from the ServiceNow Store. For more information, see [Install Insurance claims](install-insurance-claims-flow.md).
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Link the insurance product model and claim case service definition
 
 </td><td>
 
-Link the insurance product model and service definition so that the system recognizes which policies are relevant to the service definition. For more information, see [Link the insurance product model and claim case service definition](../task/link-the-insurance-product-model-and-service-definition.md).
+Link the insurance product model and service definition so that the system recognizes which policies are relevant to the service definition. For more information, see [Link the insurance product model and claim case service definition](link-the-insurance-product-model-and-service-definition.md).
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Set up Document Processing
 
 </td><td>
 
-Set up FSO Document Processor to define the documentation that you need from customers to process claims. For more information, see [Integrating with Document Processor](../../fso-common/concept/integrating-with-document-processor.md).
+Set up FSO Document Processor to define the documentation that you need from customers to process claims. For more information, see [Integrating with Document Processor](../integrating-with-document-processor.md).
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Update service definitions with document requirements
 
 </td><td>
 
-Define the specific documentation that is required for each service. For more information, see [Add a document list definition to a service definition](../task/add-document-list-definition-to-service-definition.md).
+Define the specific documentation that is required for each service. For more information, see [Add a document list definition to a service definition](add-document-list-definition-to-service-definition.md).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Review the reserves and payments approval engine
 
 </td><td>
 
-Go through the rules for the reserve and payment approval process provided in Insurance Claims Core. For more information, see [Approval Engine for Reserves and Payments](../../fso-common/concept/approval-engine-for-reserves-and-payments.md).
+Go through the rules for the reserve and payment approval process provided in Insurance Claims Core. For more information, see [Approval Engine for Reserves and Payments](../approval-engine-for-reserves-and-payments.md).
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Review claim automation using decision tables
 
 </td><td>
 
-Learn about the claim automation rules in the decision tables. For more information, see [Use claim automation decision tables](../task/update-insurance-claims-automation-using-decision-tables.md).
+Learn about the claim automation rules in the decision tables. For more information, see [Use claim automation decision tables](update-insurance-claims-automation-using-decision-tables.md).
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ Configure assignment rules
 
 </td><td>
 
-Look at the rules that determine how cases and tasks are assigned to personas. For more information, see [Configure assignment rules](../../fso-common/task/configure-assignment-rules-fso-applications.md).
+Look at the rules that determine how cases and tasks are assigned to personas. For more information, see [Configure assignment rules](../configure-assignment-rules-fso-applications.md).
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Configure SLA definitions
 
 </td><td>
 
-Configure service level agreement \(SLA\) definitions to match your business needs.The SLA definitions are based on the service definition of case and adjuster tasks. For more information, see [Configure SLA definitions](../../fso-common/task/configure-sla-definitions-fso-cases.md).
+Configure service level agreement \(SLA\) definitions to match your business needs.The SLA definitions are based on the service definition of case and adjuster tasks. For more information, see [Configure SLA definitions](../configure-sla-definitions-fso-cases.md).
 
 </td></tr><tr><td>
 
@@ -167,7 +167,7 @@ Manage the Archive Claim Case rule
 
 </td><td>
 
-Manage the archive rule that is provisioned in the Claim Case \[sn\_ins\_gen\_claim\_case\] table. By default, inactive cases that are more than seven years old are automatically archived. For more information, see [Manage the Archive Claim Case rule](../task/insurance-claim-case-archival.md).
+Manage the archive rule that is provisioned in the Claim Case \[sn\_ins\_gen\_claim\_case\] table. By default, inactive cases that are more than seven years old are automatically archived. For more information, see [Manage the Archive Claim Case rule](insurance-claim-case-archival.md).
 
 </td></tr></tbody>
 </table>

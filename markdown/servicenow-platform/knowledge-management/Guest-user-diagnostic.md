@@ -17,7 +17,7 @@ Capture metrics such as article views, page views, and portal searches to track 
 
 ## Before you begin
 
-Set the duration over which the metrics are aggregated through the **glide.knowman.usage\_metrics\_duration** property. For more information, see [Other knowledge properties](../reference/r_KnowledgeProperties.md#). By default, the property value is set to 60 minutes.
+Set the duration over which the metrics are aggregated through the **glide.knowman.usage\_metrics\_duration** property. For more information, see [Other knowledge properties](r_KnowledgeProperties.md#). By default, the property value is set to 60 minutes.
 
 You must activate the Knowledge Management v3 plugin \(com.snc.knowledge3\).
 
@@ -55,5 +55,5 @@ Monitor the knowledge usage metrics to improve the overall effectiveness of the 
 -   **[Modify the data retention policy for knowledge usage metrics](Modify-data-retention-policy-knowledge-usage-metrics.md)**  
 Remove unwanted and older data from the knowledge usage metrics \[kb\_usage\_metrics\] table through the data retention policy.
 
-**Parent Topic:**[User criteria diagnostics for Knowledge Management](../concept/diagnose-knowledge-user-criteria.md)
+**Parent Topic:**[User criteria diagnostics for Knowledge Management](diagnose-knowledge-user-criteria.md)
 

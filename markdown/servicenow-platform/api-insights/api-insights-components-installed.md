@@ -306,5 +306,5 @@ UX Commons \(sn\_app\_ux\_commons\)
 Enhances component experience with common UI Builder utilities, controllers, and bundles.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[API Insights reference](../concept/api-insights-reference.md)
+</table>**Parent Topic:**[API Insights reference](api-insights-reference.md)
 

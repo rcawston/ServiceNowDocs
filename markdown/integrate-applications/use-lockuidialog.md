@@ -75,7 +75,7 @@ Data Out
 
 </td><td>
 
-True or false value of the authentication. If the authentication is successful, the result is true. If the authentication is unsuccessful, the result is false.The true or false value of the result can be further used to connect to any condition. For more information on how to use the condition components, see [Conditions](../concept/conditions-components.md).
+True or false value of the authentication. If the authentication is successful, the result is true. If the authentication is unsuccessful, the result is false.The true or false value of the result can be further used to connect to any condition. For more information on how to use the condition components, see [Conditions](conditions-components.md).
 
 </td><td>
 
@@ -119,5 +119,5 @@ No
     You can also run the automation by selecting **Run** from the **Design** tab.
 
 
-**Parent Topic:**[Dialogs](../concept/dialogs.md)
+**Parent Topic:**[Dialogs](dialogs.md)
 

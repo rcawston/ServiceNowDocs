@@ -17,7 +17,7 @@ Configure Workplace Connectors to complete the installation and setup tasks.
 
 1.  [Install Workplace Connectors](install-workplace-connectors.md)  
 Install the Workplace Connectors application from the ServiceNow Store.
-2.  [Configure sensor data providers](../task/providers-occupancy.md)  
+2.  [Configure sensor data providers](providers-occupancy.md)  
 Configure sensor data providers in Workplace Connectors for retrieving the workplace sensor data from third-party data providers.
 3.  [Setup Workplace Connectors for badging data](setup-workplace-connectors.md)  
 As a Workplace Connectors administrator, configure Workplace Connectors to import data from workplace badging data records. For example, employee attendance data from badging spokes.

@@ -50,7 +50,7 @@ CAM OSCAL supports the following models:
     According to NIST, OSCAL SSP model enables a system owner to express the system implementation of an information system within the context of a specific baseline or OSCAL profile. Or, it represents a description of the control implementation of an information system.
 
     -   Authorization boundary: An authorization boundary defines the scope of a particular system that can be continuously managed and monitored using the CAM application.
-    -   Authorization package: Created for the purpose of processing the assets or systems through the seven steps mandated by the RMF. For more information, see [NIST RMF process overview](../../grc-nist-rmf/concept/nist-rmf-process.md).
+    -   Authorization package: Created for the purpose of processing the assets or systems through the seven steps mandated by the RMF. For more information, see [NIST RMF process overview](../grc-common-functions/nist-rmf-process.md).
     -   Information type: Information type defines the impact level of the package, which is based on the criticality of the information system defined in the Categorize step.
     -   Control: When control objectives move to Implementation state, they become controls.
     -   Control requirement: When control objectives move to Implementation state, they become controls. Correspondingly, the control objective requirements convert to control requirement.
@@ -61,9 +61,9 @@ CAM OSCAL supports the following models:
 CAM supports the Open Security Controls Assessment Language \(OSCAL\) used by the National Institute of Standards and Technology \(NIST\) that provides control-related information in standardized machine-readable formats. CAM supports Catalog, Profile, SSP, and Assessment Plan \(AP\) models.
 -   **[Import in OSCAL format](import-oscal.md)**  
 The CAM OSCAL import offers a playbook-style experience designed to streamline the integration of security control data.
--   **[OSCAL Assessment Plan export and import](../../grc-cam/concept/oscal-assessment-plan-import-export.md)**  
+-   **[OSCAL Assessment Plan export and import](oscal-assessment-plan-import-export.md)**  
 The OSCAL Assessment Plan \(AP\) model enables you to import testing plans from external tools and export engagement data for auditors and authorizers.
--   **[OSCAL Assessment Plan field mapping](../../grc-cam/concept/oscal-ap-field-mapping.md)**  
+-   **[OSCAL Assessment Plan field mapping](oscal-ap-field-mapping.md)**  
 CAM exports engagement and control test data to OSCAL Assessment Plan format using the following field mappings.
 -   **[OSCAL namespace](oscal-namespace.md)**  
 To include CAM specific information, custom properties with a unique namespace are used to add impact and tailor the content as needed.

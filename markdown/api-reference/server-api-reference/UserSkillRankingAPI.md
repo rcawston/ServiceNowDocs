@@ -19,7 +19,7 @@ This API requires the Skills Management plugin \(com.snc.skills\_management\), w
 
 See [Qualify and rank users based on skills and skill levels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/assign-work-based-on-skills.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## UserSkillRanking - UserSkillRanking\(\)
 

@@ -89,5 +89,5 @@ Delete a list
 </table>5.  Select the **Save** button in the Filtered list details panel to ensure all updates are saved.
 
 
-**Parent Topic:**[Configuring workspace lists and records for form submissions](../concept/creator-studio-form-submissions-workspace-about.md)
+**Parent Topic:**[Configuring workspace lists and records for form submissions](creator-studio-form-submissions-workspace-about.md)
 

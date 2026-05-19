@@ -18,7 +18,7 @@ The Investigative Case Management case forms help capture information related to
 
 [Investigative Case Management case details form](psds-icm-ref-case-form.md)
 
-[Investigative Case Management Entity Management forms](../reference/psds-icm-ref-case-forms-entity-management.md)
+[Investigative Case Management Entity Management forms](psds-icm-ref-case-forms-entity-management.md)
 
-[Investigative Case Management Evidence Management forms](../reference/psds-icm-ref-case-forms-evidence-management.md)
+[Investigative Case Management Evidence Management forms](psds-icm-ref-case-forms-evidence-management.md)
 

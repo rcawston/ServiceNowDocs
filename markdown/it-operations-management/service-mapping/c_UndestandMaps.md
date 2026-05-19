@@ -50,7 +50,7 @@ By default, the entire map is shown in the center of the visible map area of the
 
 You can also click anywhere in the map area and drag the required segment of the map into the visible area.
 
-You can view changes made to an service instance as a whole and to individual CIs belonging to a service by choosing a time range. For more information, see [View the change history of application services in classic Service Mapping](../task/t_ViewCIChanges.md).
+You can view changes made to an service instance as a whole and to individual CIs belonging to a service by choosing a time range. For more information, see [View the change history of application services in classic Service Mapping](t_ViewCIChanges.md).
 
 ## Map elements and their appearance
 
@@ -98,7 +98,7 @@ You can show additional information for a CI or service instance itself by displ
 
 ## Map views
 
-Customize a map view to exclude irrelevant information and increase clarity, as described in [Modify view for an application service map](../task/modify-map-view.md).
+Customize a map view to exclude irrelevant information and increase clarity, as described in [Modify view for an application service map](modify-map-view.md).
 
 To open this service instance in Event Management and view alerts on CIs that are part of the service instance, click **Monitor Service** at the top of the window.
 
@@ -111,11 +111,11 @@ To open this service instance in Event Management and view alerts on CIs that ar
 
 [Service instances \(Application services\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md)
 
-[View CI attributes in an application service map in classic Service Mapping](../task/t_ViewCIDetails.md)
+[View CI attributes in an application service map in classic Service Mapping](t_ViewCIDetails.md)
 
-[Modify display for CI attributes](../task/t_ConfigurePropertyDisplay.md)
+[Modify display for CI attributes](t_ConfigurePropertyDisplay.md)
 
-[Modify view for an application service map](../task/modify-map-view.md)
+[Modify view for an application service map](modify-map-view.md)
 
-[View an alert impact on CIs in a service map](../../event-management/task/t_EMViewTopology.md)
+[View an alert impact on CIs in a service map](../event-management/t_EMViewTopology.md)
 

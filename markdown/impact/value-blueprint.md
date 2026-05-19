@@ -27,5 +27,5 @@ Select **Manage Objectives and Outcomes** to setup and manage this feature.
 
 ![Manage objectives and outcomes](../image/value-blueprint-manage.png)
 
-For additional information about the Objectives and outcomes for the Impact Store Application, see [Value management](impact-in-platform-business-outcomes.md).
+For additional information about the Objectives and outcomes for the Impact Store Application, see [Value management](value-library/impact-in-platform-business-outcomes.md).
 

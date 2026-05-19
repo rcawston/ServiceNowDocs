@@ -46,7 +46,7 @@ If allowed in the template by the template owner \(catalog\_admin\) while config
     -   Rich text. Rich Text Label variable type in ServiceNow AI Platform.
 -   Attachment
 
-For detailed information about these question types, see [Types of service catalog variables](../reference/r_VariableTypes.md).
+For detailed information about these question types, see [Types of service catalog variables](r_VariableTypes.md).
 
 ## Procedure
 

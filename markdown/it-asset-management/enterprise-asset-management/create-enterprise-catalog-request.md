@@ -113,5 +113,5 @@ Any instructions that you may want to mention.
     The enterprise asset reclamation request is created. Once the request is created, the enterprise\_asset\_technician role navigates to the Enterprise Asset Workspace to view the reclamation line and complete the tasks. For more details, see [Close an enterprise asset reclamation request](close-enteprise-reclamation-request.md).
 
 
-**Parent Topic:**[Enterprise asset reclamation](../concept/enterprise-asset-reclamation.md)
+**Parent Topic:**[Enterprise asset reclamation](enterprise-asset-reclamation.md)
 

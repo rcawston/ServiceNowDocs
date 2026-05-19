@@ -33,5 +33,5 @@ Install the content pack to copy the process configurations set for the content 
 -   **[Create process configurations using content packs](process-config-content-pack.md)**  
 Create process configurations using content packs to use the configuration already created for the content packs.
 
-**Parent Topic:**[Creating process configuration](../concept/creating-process-config.md)
+**Parent Topic:**[Creating process configuration](creating-process-config.md)
 

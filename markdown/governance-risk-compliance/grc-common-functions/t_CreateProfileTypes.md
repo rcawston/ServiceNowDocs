@@ -62,7 +62,7 @@ Open the entity type from the list and click **Delete**.The item generation proc
 
  With the implementation of the item generation process \(v2\), an entity type that is marked for deletion is not deleted instantly by the item generation process, but it is marked for deletion. When the nightly scheduled job runs, it deletes the entity type.
 
- For more information on the item generation process, see [Using the item generation process to generate controls and risks](../concept/item-generation-process.md).
+ For more information on the item generation process, see [Using the item generation process to generate controls and risks](item-generation-process.md).
 
 </td></tr></tbody>
 </table>3.  Fill in the fields on the form, as appropriate, and click **Submit** or **Update**.
@@ -133,5 +133,5 @@ Empty owner
     An informational message appears: Updating entities for this entity type.
 
 
-**Parent Topic:**[Entity scoping in GRC](../concept/c_Scoping.md)
+**Parent Topic:**[Entity scoping in GRC](c_Scoping.md)
 

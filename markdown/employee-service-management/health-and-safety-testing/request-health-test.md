@@ -91,5 +91,5 @@ Your company's health testing managers use your request to schedule a COVID-19 d
 
 When you receive your test result, you can choose to report the result to your company. For instructions, see [Report your COVID-19 diagnostic test result](report-health-test-result.md).
 
-**Parent Topic:**[Health and Safety Testing](../concept/health-safety-testing.md)
+**Parent Topic:**[Health and Safety Testing](health-safety-testing.md)
 

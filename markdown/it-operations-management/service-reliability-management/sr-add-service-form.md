@@ -17,7 +17,7 @@ Create or add an existing service to your instance so that alerts and incidents 
 
 ## Add a service form
 
-For more information, see [Add a service to SRM](../task/sr-add-service.md).
+For more information, see [Add a service to SRM](sr-add-service.md).
 
 <table id="id_jkb_z4l_y1c"><thead><tr><th>
 

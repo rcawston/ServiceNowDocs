@@ -25,7 +25,7 @@ System administrators can configure both email and SMS notifications using the f
 
 These templates come included with the appointment booking plugin. You can customize them to meet specific requirements. For more information, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
-**Note:** Ensure to install Customer Experience plugin to configure SMS. For more information, see [Activate Field Service Management Customer Experience](../concept/Configuring-cust-exp.md#).
+**Note:** Ensure to install Customer Experience plugin to configure SMS. For more information, see [Activate Field Service Management Customer Experience](../work-order-management/Configuring-cust-exp.md#).
 
 Appointment booking email and SMS notifications are active for all services using the appointment booking feature. The following email notifications are included with the appointment booking feature:
 

@@ -36,5 +36,5 @@ Now Assist Guardian supports multiple guardrail service provider types to monito
 
 The selected guardrail service provider monitors and evaluates all Now Assist interactions for harmful, offensive, or prompt injection content.
 
-**Parent Topic:**[Configuring a Guardrail Service Provider](../concept/configuring-byog.md)
+**Parent Topic:**[Configuring a Guardrail Service Provider](configuring-byog.md)
 

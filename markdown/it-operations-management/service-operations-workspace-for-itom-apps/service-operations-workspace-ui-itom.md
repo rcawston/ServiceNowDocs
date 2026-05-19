@@ -32,7 +32,7 @@ The home page provides operators with a comprehensive snapshot of the current op
 
 To access information on alerts from List, select the List icon \(![List icon](../image/lists-icon-itom.png)\).
 
-The **Lists** tab displays predefined lists, while the **My Lists** tab allows users to create and customize their own lists for personalized task management. For detailed instructions on creating a list, see [Create a list in Service Operations Workspace for ITOM](../task/create-list-sow-itom.md).
+The **Lists** tab displays predefined lists, while the **My Lists** tab allows users to create and customize their own lists for personalized task management. For detailed instructions on creating a list, see [Create a list in Service Operations Workspace for ITOM](create-list-sow-itom.md).
 
 ![List tab](../image/list-tab-sow-itom.png "Lists page")
 

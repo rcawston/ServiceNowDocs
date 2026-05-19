@@ -19,6 +19,6 @@ The following tasks provide guidance on using Now Assist skills within the CWM w
 
 -   [Summarize and refine content of a Doc page in Collaborative Work Management \(CWM\)](summarize-doc-now-assist-cwm.md).
 -   [Generate and improve Docs content with Now Assist for Collaborative Work Management \(CWM\)](generate-summarize-and-refine-content-of-docs-with-now-assist.md).
--   [Generate tasks from Docs in Collaborative Work Management \(CWM\)](../concept/generate-tasks-cwm-docs-now-assist.md).
+-   [Generate tasks from Docs in Collaborative Work Management \(CWM\)](generate-tasks-cwm-docs-now-assist.md).
 -   [Generate acceptance criteria for stories in CWM](generate-acceptance-criteria-for-stories-in-cwm.md).
 

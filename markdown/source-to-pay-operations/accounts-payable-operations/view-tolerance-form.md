@@ -42,5 +42,5 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
         **Note:** If the variance value and variance percentage is exceeding the limit, the values are highlighted in yellow color with warning ![Warning icon](../image/warning-icon.png) icon suffixed with **Exceeds** and **Within** labels. Grey color indicates that the variance value and variance percentage is within the limits or closed with check![Check icon](../image/check-icon.png) icon.
 
 
-**Parent Topic:**[Tolerance Rules and Variances for invoices](../concept/tolerance-rules-and-variance.md)
+**Parent Topic:**[Tolerance Rules and Variances for invoices](tolerance-rules-and-variance.md)
 

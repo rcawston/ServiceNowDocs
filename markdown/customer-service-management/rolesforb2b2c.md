@@ -29,7 +29,7 @@ sn\_customerservice\_agent \(customer service agent\)
 
 </td><td>
 
-Create a case for an account consumer from platform or Customer Service Management \(CSM\) workspaces to track issues. See [Create cases for an account consumer](../task/t_CreateACaseFromCustServApp.md).
+Create a case for an account consumer from platform or Customer Service Management \(CSM\) workspaces to track issues. See [Create cases for an account consumer](t_CreateACaseFromCustServApp.md).
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ sn\_acct\_consumer.consumer \(account consumer\)
 
 </td><td>
 
-View sold products/install bases items to track the instances provisioned for your account and the products or services sold to your account.Create a case for install base items or sold products issues from the CSM portal. You get email notifications when a case is created, commented, resolved, or closed. See [Create a case from the CSM portal](../task/t_CreateACaseFromCustPortal.md).
+View sold products/install bases items to track the instances provisioned for your account and the products or services sold to your account.Create a case for install base items or sold products issues from the CSM portal. You get email notifications when a case is created, commented, resolved, or closed. See [Create a case from the CSM portal](t_CreateACaseFromCustPortal.md).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ sn\_customerservice.customer \(account contact\)
 
 </td><td>
 
-View sold products/install bases items to track end consumer issues. See[View install base information from the Customer Service Portal](../task/view-install-base-info.md) and [View products information from the Customer Service Portal](../task/view-product-info-csp.md).Create a case for an account consumer to track consumer issues. See [Create cases for an account consumer](../task/t_CreateACaseFromCustPortal.md).
+View sold products/install bases items to track end consumer issues. See[View install base information from the Customer Service Portal](view-install-base-info.md) and [View products information from the Customer Service Portal](view-product-info-csp.md).Create a case for an account consumer to track consumer issues. See [Create cases for an account consumer](t_CreateACaseFromCustPortal.md).
 
 </td></tr></tbody>
 </table>

@@ -43,5 +43,5 @@ Role required: admin
 -   For Jira Cloud: .
 -   For For Jira Server/Data Center: [Create PAT for Jira Server](create-personal-access-token-pat-in-jira-server-data-center.md).
 
-**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](../concept/setting-up-jira-instance-spw.md)
+**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](setting-up-jira-instance-spw.md)
 

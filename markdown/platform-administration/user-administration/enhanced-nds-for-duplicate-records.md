@@ -62,7 +62,7 @@ Role required: nds\_admin
 
 5.  Add the **glide.cmdb.canonical.use\_base\_core\_company\_only** system property and set its value to **True**.
 
-    For more information, see [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#).
+    For more information, see [Add a system property](../r_AvailableSystemProperties.md#).
 
 6.  Normalize data in the CMDB table.
 

@@ -21,7 +21,7 @@ You can select only one NLU service provider for your instance. Virtual Agent su
 
 -   **ServiceNow NLU** \(default\): Create your models, intents, and entities in Virtual Agent Designer and NLU Workbench.
 -   **IBM Watson Assistant**: [Configure the IBM Watson Assistant intent and entity integration](configure-watson-service-integration.md) so that Virtual Agent can access IBM Watson Assistant NLU model information.
--   **Google DialogFlow Essentials \(ES\)**: [Configure the Google DialogFlow ES intent and entity integration](../concept/configure-dialogflow-es-integration.md) so that Virtual Agent can access Google Dialogflow ES NLU model information.
+-   **Google DialogFlow Essentials \(ES\)**: [Configure the Google DialogFlow ES intent and entity integration](configure-dialogflow-es-integration.md) so that Virtual Agent can access Google Dialogflow ES NLU model information.
 
 The **Activate** toggle switch for NLU is toggled on for all new Virtual Agent activations and the **NLU Service Provider** defaults to **ServiceNow NLU**. The **Activate** toggle switch is toggled off for Virtual Agent Lite. If you upgraded from the previous release, Virtual Agent retains the NLU settings and integration information for your NLU service provider.
 
@@ -97,10 +97,10 @@ When you create or update a topic in Virtual Agent Designer, you can choose NLU 
 
 -   **[Configure IBM Watson Assistant as the NLU provider for Virtual Agent](configure-watson-service-integration.md)**  
 Use the intents, entities, and utterances defined in IBM Watson Assistant and apply them as an NLU model for your Virtual Agent conversations.
--   **[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](../concept/configure-dialogflow-es-integration.md)**  
+-   **[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](configure-dialogflow-es-integration.md)**  
 Use the intents, entities, and utterances defined in Google Dialogflow ES. Apply them as an NLU model for your Virtual Agent conversations.
--   **[Enhanced natural language handling of user inputs in NLU topic discovery](../concept/natural-language-user-response-handling.md)**  
+-   **[Enhanced natural language handling of user inputs in NLU topic discovery](natural-language-user-response-handling.md)**  
 Give Virtual Agent the capability of recognizing natural variations on `yes` and `no` from the user, such as `sure` or `nope`. By defining a range of boolean responses as affirmative or negative, Virtual Agent doesn't have to prompt the user to restate their preference.
 
-**Parent Topic:**[Configuring Virtual Agent](../concept/configure-virtual-agent.md)
+**Parent Topic:**[Configuring Virtual Agent](configure-virtual-agent.md)
 

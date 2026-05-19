@@ -103,7 +103,7 @@ Steps
 
 7.  Select Electronic or Wet signature, in the **Signature type** drop-down.
 
-    For more information on the signature flow, see [Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)
+    For more information on the signature flow, see [Signature workflow for a request](snlc-lsd-signature-workflow.md)
 
 8.  Attach contract documents.
 
@@ -162,9 +162,9 @@ Drag files from your local computer into your browser window to attach them to t
     -   Replacing the metadata with data from the request.
     -   Replacing the signatory information.
     -   Placing the content of the clauses in the contract document according to the clause variation rules.
--   Internal signatories based on the template are also populated in the generated document. For more information, see [Define an internal signatory rule](../../contract-mgmt-pro/task/cncore-define-internal-signers-rule.md). View the signatories in the Signatories tab of the contract request.
+-   Internal signatories based on the template are also populated in the generated document. For more information, see [Define an internal signatory rule](../contract-management-pro/cncore-define-internal-signers-rule.md). View the signatories in the Signatories tab of the contract request.
 
 For more information on how to view and track a legal request, see [View and track non-disclosure agreement requests as a legal user](snlc-view-legal-req-details.md).
 
-**Parent Topic:**[Contract amendments](../concept/snlc-amend-req-landing.md)
+**Parent Topic:**[Contract amendments](snlc-amend-req-landing.md)
 

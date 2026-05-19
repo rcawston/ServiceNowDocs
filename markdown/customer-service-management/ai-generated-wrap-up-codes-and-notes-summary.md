@@ -21,7 +21,7 @@ Admins can configure the feature to make it available for the agents to use.
 
 For more information, see:
 
--   [Enable Now Assist to generate wrap up code and notes summary](../task/enable-ai-wrap-up-code-and-notes-summary-generation.md)
+-   [Enable Now Assist to generate wrap up code and notes summary](enable-ai-wrap-up-code-and-notes-summary-generation.md)
 -   [AI interaction wrap-up](interaction-wrapup-ai-generated.md)
 
 ![AI generated wrap up code and notes summary](../image/int-ai-generated-wrap-up-code-and-notes-summary.jpg)

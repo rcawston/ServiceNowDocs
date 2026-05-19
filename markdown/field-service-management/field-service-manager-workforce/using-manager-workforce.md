@@ -45,7 +45,7 @@ To manage agents and tasks effectively, explore these topics:
 
     View tasks and agent locations on an interactive map.
 
--   [View agent location history map](../task/view_agent_location_history_map.md)
+-   [View agent location history map](view_agent_location_history_map.md)
 
     Track historical movements of agents for planning and analysis.
 

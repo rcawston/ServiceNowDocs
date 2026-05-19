@@ -47,5 +47,5 @@ The rest of the predefined retirement definitions are inactive by default, and y
 
 You can use the default retirement definitions, or customize a definition to reflect practices in your organization. You can also add a custom retirement definition for a class. However, each CMDB class can be associated with only a single retirement definition.
 
-To manage or delete a retirement definition, see [Manage retirement definitions](../task/data-manager-manage-ret-def-wrkspc.md#).
+To manage or delete a retirement definition, see [Manage retirement definitions](data-manager-manage-ret-def-wrkspc.md#).
 

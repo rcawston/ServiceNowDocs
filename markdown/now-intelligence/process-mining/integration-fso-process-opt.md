@@ -39,7 +39,7 @@ The content pack adds pre-built Process Mining project model definitions for the
 -   Personal Lines Claims
 -   Intelligent Servicing for Fraud
 
-You can also configure a new process project that is based on a pre-built project. For more information, see [Create a project or template using Project Builder](../task/define-workflow-model.md).
+You can also configure a new process project that is based on a pre-built project. For more information, see [Create a project or template using Project Builder](define-workflow-model.md).
 
 ## Roles
 
@@ -63,7 +63,7 @@ Based on the Financial Services Operations application that you're using the Pro
 |Group Life Servicing|sn\_ins\_group\_life.manager and sn\_process\_optimization\_analyst|
 |Intelligent Servicing for Fraud|sn\_bom\_fraud.manager and sn\_process\_optimization\_analyst|
 
-**Parent Topic:**[Activate content packs](../task/activate-po-content-pack.md)
+**Parent Topic:**[Activate content packs](activate-po-content-pack.md)
 
 **Related topics**  
 

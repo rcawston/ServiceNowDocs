@@ -85,9 +85,9 @@ sn\_msi.workspace\_responder
 **Related topics**  
 
 
-[Major Security Incident Management](../concept/major-security-incident-management.md)
+[Major Security Incident Management](major-security-incident-management.md)
 
 [Get started with MSIM](get-started-with-msim.md)
 
-[Checklist for MSIM setup](../../security-incident-response/reference/msim-checklist.md)
+[Checklist for MSIM setup](msim-checklist.md)
 

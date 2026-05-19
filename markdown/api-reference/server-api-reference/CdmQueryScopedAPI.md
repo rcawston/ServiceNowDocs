@@ -56,7 +56,7 @@ var primarySnapshot = new sn_cdm.CdmQuery()
 
 This API runs in the `sn_cdm` namespace and you must have the sn\_cdm.cdm\_viewer or sn\_cdm.cdm\_secrets roles to access its various methods.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CdmQuery - CdmQuery\(\)
 

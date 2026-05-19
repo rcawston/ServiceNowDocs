@@ -54,5 +54,5 @@ Annotations are only visible from the sidebar History view.
 
 You can change the annotation using the **Modify annotation** option.
 
-**Parent Topic:**[Subflow history](../concept/subflow-history.md)
+**Parent Topic:**[Subflow history](subflow-history.md)
 

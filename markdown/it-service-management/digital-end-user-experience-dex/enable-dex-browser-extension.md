@@ -71,5 +71,5 @@ The Google Chrome or Microsoft Edge extension is enabled by default, and when mo
 
 [Onboard for DEX Application and Device Health](dex-onboarding.md).
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](installing-dex-local.md)
 

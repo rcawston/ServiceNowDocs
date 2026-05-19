@@ -64,12 +64,12 @@ Default provider
 Available providers:-   Now LLM Service
 -   External LLM
 
-You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](../../ai-governance-workspace/concept/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](../../now-assist-admin/task/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform](../../general/concept/exploring-large-language-models.md).
+You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](../ai-control-tower/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](../manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform](../servicenow-large-language-model-now-llm/exploring-large-language-models.md).
 
     -   Spokes
     -   Custom LLM
 
-For more information on setting up a custom large language model \(LLM\), see [Configure a generic large language model \(LLM\) connector](../../generative-ai-controller/task/configure-a-generic-llm-connector.md)
+For more information on setting up a custom large language model \(LLM\), see [Configure a generic large language model \(LLM\) connector](../generative-ai-controller/configure-a-generic-llm-connector.md)
 
 Available prebuilt spokes that enable you to connect with an external LLM:
 
@@ -136,12 +136,12 @@ Role restrictions define the specific roles under which a skill in ServiceNow ex
 
 After you create the skill, you must configure it. To learn more about configuring a skill, see [Configure a skill prompt](configure-skill-prompt.md).
 
-If you don't need to set any configurations for your skill, you can create your skill prompt and tools. To learn more, see [Create a prompt](create-prompt-template.md) and [Add a tool](../concept/add-a-tool.md).
+If you don't need to set any configurations for your skill, you can create your skill prompt and tools. To learn more, see [Create a prompt](create-prompt-template.md) and [Add a tool](add-a-tool.md).
 
 -   **[Clone a skill](clone-and-edit-servicenow-skill.md)**  
 Clone an existing skill to use it as a starting point for a new one. You can clone both base system ServiceNow skills and custom skills you have created.
 
-**Parent Topic:**[Using Now Assist Skill Kit](../concept/using-now-assist-skill-kit.md)
+**Parent Topic:**[Using Now Assist Skill Kit](using-now-assist-skill-kit.md)
 
 **Related topics**  
 

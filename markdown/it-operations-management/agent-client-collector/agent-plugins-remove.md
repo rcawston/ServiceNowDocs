@@ -44,5 +44,5 @@ Role required: agent\_client\_collector\_admin
     Plugins download automatically when used by their respective checks/policies.
 
 
-**Parent Topic:**[Enabling Agent Client Collector data collection](../concept/data-collection-enabling.md)
+**Parent Topic:**[Enabling Agent Client Collector data collection](data-collection-enabling.md)
 

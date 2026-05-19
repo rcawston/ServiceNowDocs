@@ -43,11 +43,11 @@ The Service Integration Management Service Integration and Management \(SIAM\) f
 **Related topics**  
 
 
-[Domain separation explained](../concept/bp-what-is-domain-separation.md)
+[Domain separation explained](bp-what-is-domain-separation.md)
 
 [Domain separation hierarchies](bp-domain-sep-hierarchies.md)
 
-[Context and domain separation](../concept/bp-domain-sep-context.md)
+[Context and domain separation](bp-domain-sep-context.md)
 
 [Segregating and securing data with domain separation](bp-segregate-secure.md)
 
@@ -57,7 +57,7 @@ The Service Integration Management Service Integration and Management \(SIAM\) f
 
 [Benefits of domain separation](bp-advantages-dom-sep.md)
 
-[How a database query works with domain separation](../concept/bp-db-query-with-ds.md)
+[How a database query works with domain separation](bp-db-query-with-ds.md)
 
 [Domain separation levels of support](bp-domain-levels.md)
 
@@ -65,31 +65,31 @@ The Service Integration Management Service Integration and Management \(SIAM\) f
 
 [Domain-separate a custom table](bp-ds-custom-table.md)
 
-[Customizing domain properties and themes](../concept/bp-domain-prop-themes.md)
+[Customizing domain properties and themes](bp-domain-prop-themes.md)
 
-[Managing domain separation for specific uses](../concept/bp-emails-catalog-users.md)
+[Managing domain separation for specific uses](bp-emails-catalog-users.md)
 
-[Configuring domain separation with the domain picker](../concept/bp-domain-picker-config-process.md)
+[Configuring domain separation with the domain picker](bp-domain-picker-config-process.md)
 
-[Domain separation performance considerations](../concept/bp-performance-considerations.md)
+[Domain separation performance considerations](bp-performance-considerations.md)
 
-[Setting up domain hierarchies](../concept/bp-domain-hierarchy.md)
+[Setting up domain hierarchies](bp-domain-hierarchy.md)
 
-[Checking domain logs for errors and warnings](../concept/bp-domain-logs.md)
+[Checking domain logs for errors and warnings](bp-domain-logs.md)
 
-[Importance of the Default domain](../concept/bp-default-domain.md)
+[Importance of the Default domain](bp-default-domain.md)
 
-[Contains queries and domain access](../concept/bp-contains-domain-visibility.md)
+[Contains queries and domain access](bp-contains-domain-visibility.md)
 
-[Domain paths query method](../concept/bp-domain-query-method.md)
+[Domain paths query method](bp-domain-query-method.md)
 
-[Slow queries and SQL debugging](../concept/bp-debug-sql.md)
+[Slow queries and SQL debugging](bp-debug-sql.md)
 
-[Before Query business rules](../concept/bp-before-query-business-rules.md)
+[Before Query business rules](bp-before-query-business-rules.md)
 
-[Avoiding domain path in scripts](../concept/bp-no-domain-path-in-scripts.md)
+[Avoiding domain path in scripts](bp-no-domain-path-in-scripts.md)
 
 [Domain assignments](bp-domain-assignment.md)
 
-[Domain separation and the Customer Service Management \(CSM\) plugin](../concept/bp-ds-and-csm.md)
+[Domain separation and the Customer Service Management \(CSM\) plugin](bp-ds-and-csm.md)
 

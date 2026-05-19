@@ -109,7 +109,7 @@ The connection and credential record is created with specified credentials and c
 
 To use it for the calendar provider, see [Configure Microsoft Exchange Online calendar provider in strict mode](configure-msex-strict-mode-calendar-providers.md).
 
-**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](../concept/strict-mode-configurations-for-connection-with-msex.md)
+**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](strict-mode-configurations-for-connection-with-msex.md)
 
 **Related topics**  
 

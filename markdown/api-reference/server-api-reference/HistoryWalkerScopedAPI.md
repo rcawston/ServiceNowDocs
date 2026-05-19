@@ -91,7 +91,7 @@ var hw = new sn_hw.HistoryWalker('incident', '1c741bd70b2322007518478d83673af3',
 
 To use this class in scoped and global applications, use the `sn_hw` namespace identifier. The History Walker plugin \(com.glide.history\_walker\) that is enabled by default is required to access the HistoryWalker API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## HistoryWalker - HistoryWalker\(String tableName, String sysId, String walker\)
 

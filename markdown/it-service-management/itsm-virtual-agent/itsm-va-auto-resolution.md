@@ -72,7 +72,7 @@ Issue Auto Resolution uses NLU to identify Virtual Agent topics that match inten
 
 To view, train, or retrain the NLU model, see [Train and test your model in Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/train-test-publish-nlu-model-vad.md).
 
-**Note:** Issue Auto Resolution must be activated and ITSM Virtual Agent must be installed to access the NLU models. To learn more, see [Set up Issue Auto Resolution for ITSM Virtual Agent](../task/setup-itsm-ar.md).
+**Note:** Issue Auto Resolution must be activated and ITSM Virtual Agent must be installed to access the NLU models. To learn more, see [Set up Issue Auto Resolution for ITSM Virtual Agent](setup-itsm-ar.md).
 
 ## About actionable notifications
 

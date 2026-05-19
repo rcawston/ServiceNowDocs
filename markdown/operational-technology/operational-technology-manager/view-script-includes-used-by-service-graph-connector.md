@@ -30,5 +30,5 @@ Role required: admin
 2.  View the list of scripts.
 
 
-**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](../concept/configuring-service-graph-connector-for-excel.md)
+**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](configuring-service-graph-connector-for-excel.md)
 

@@ -27,7 +27,7 @@ The dashboard consists of three tabs: **Overview**, **Inbound Queue**, and **Out
 ## Before you begin
 
 -   You must install the plugin com.glide.hub.process.sync.dashboard to be able to view the Remote Process Sync Dashboard.
--   The [glide.hub.process.sync.record.successful.status](../reference/remote-process-sync-system-properties.md) property must be set to true for data to show on this dashboard.
+-   The [glide.hub.process.sync.record.successful.status](remote-process-sync-system-properties.md) property must be set to true for data to show on this dashboard.
 
 To access the Remote Process Sync Dashboard, navigate to **All** &gt; **Integration Hub** &gt; **Dashboards** &gt; **Remote Process Sync Dashboard**. You must have the integration\_admin or admin role to view the dashboard.
 

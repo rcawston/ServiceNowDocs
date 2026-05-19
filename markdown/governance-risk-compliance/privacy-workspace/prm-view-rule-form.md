@@ -83,5 +83,5 @@ Active
 Option to activate the view rule.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a view rule](../task/prm-create-a-view-rule.md)
+</table>**Parent Topic:**[Create a view rule](prm-create-a-view-rule.md)
 

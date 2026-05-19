@@ -55,7 +55,7 @@ Use a page route map to access the enhanced Knowledge Management homepage from t
 
 The Knowledge Management - Service Portal plugin \(com.snc.knowledge\_serviceportal\) is activated.
 
-**Note:** This plugin is activated by default for customers on Madrid and later releases. Existing customers on release versions prior to Madrid must activate the plugin to perform this configuration task. For more information, see [Activate the Knowledge Management Service Portal plugin](../task/activate-km-service-portal-plugin.md).
+**Note:** This plugin is activated by default for customers on Madrid and later releases. Existing customers on release versions prior to Madrid must activate the plugin to perform this configuration task. For more information, see [Activate the Knowledge Management Service Portal plugin](activate-km-service-portal-plugin.md).
 
 Role required: admin
 

@@ -41,5 +41,5 @@ The chemical manager uses the chemical item form to add a new chemical item reco
 |Additional comments|Additional comments relevant to the chemical.|
 |Work notes|Any work notes relevant to the chemical.|
 
-**Parent Topic:**[Health and Safety Environmental Management reference](../concept/hs-reference-environmental-management.md)
+**Parent Topic:**[Health and Safety Environmental Management reference](hs-reference-environmental-management.md)
 

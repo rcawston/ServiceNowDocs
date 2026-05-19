@@ -24,7 +24,7 @@ Use the ServiceNow® Now Assist for Supplier Lifecycle Operations \(SLO\) applic
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SLO application to get started](../task/now-assist-slo-configuring.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SLO application to get started](now-assist-slo-configuring.md)
 
 </td><td>
 

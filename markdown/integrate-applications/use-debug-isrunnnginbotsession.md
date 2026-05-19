@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the IsRunningInBotsession component. For more information about these properties, see [Properties of the Debug components](../reference/util-debug-prop.md).
+You can configure the properties for the IsRunningInBotsession component. For more information about these properties, see [Properties of the Debug components](util-debug-prop.md).
 
 ## Procedure
 
@@ -81,5 +81,5 @@ No. Connecting the port is optional.
 </table>4.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Debug](../concept/debug-utility.md)
+**Parent Topic:**[Debug](debug-utility.md)
 

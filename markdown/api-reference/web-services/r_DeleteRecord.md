@@ -55,7 +55,7 @@ Sample SOAP response
 
 For language-specific deleteRecord samples, refer to the following topics:
 
-[Perl SOAP::Lite](../../examples/concept/c_PerlWebServicesClientExamples.md#update)
+[Perl SOAP::Lite](c_PerlWebServicesClientExamples.md#update)
 
 Java Apache Axis2
 

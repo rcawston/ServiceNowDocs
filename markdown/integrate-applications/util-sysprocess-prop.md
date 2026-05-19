@@ -19,5 +19,5 @@ Learn about the properties of the System Process components in RPA Desktop Desig
 |Delay After Execution|The number of seconds to pause after running.|
 |Delay Before Execution|The number of seconds to pause before running.|
 
-**Parent Topic:**[System process](../concept/system-process-utilities.md)
+**Parent Topic:**[System process](system-process-utilities.md)
 

@@ -117,9 +117,9 @@ The QR codes are generated. The QR codes are printed in a single PDF file with t
 
 ## What to do next
 
-After the QR code generation is completed, go to **Manage QR codes** to view the generated file. For more information, refer to [Manage QR codes](manage-qr-codes.md).
+After the QR code generation is completed, go to **Manage QR codes** to view the generated file. For more information, refer to [Manage QR codes](../workplace-core/manage-qr-codes.md).
 
 Click **download** to download the PDF file.
 
-**Parent Topic:**[QR code management](../concept/qr-code-mgmt.md)
+**Parent Topic:**[QR code management](../workplace-core/qr-code-mgmt.md)
 

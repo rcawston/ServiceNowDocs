@@ -15,7 +15,7 @@ Define a source specification in a compatibility rule so that you can create a h
 
 ## Before you begin
 
-Ensure that you have created a compatibility rule. To learn more, see [Create a compatibility rule](../../tmt-order-mgt/task/create-compatibility-rules.md).
+Ensure that you have created a compatibility rule. To learn more, see [Create a compatibility rule](create-compatibility-rules.md).
 
 Role required: sn\_prd\_pm.product-catalog\_manager, sn\_prd\_pm\_adv.catalog\_creator
 

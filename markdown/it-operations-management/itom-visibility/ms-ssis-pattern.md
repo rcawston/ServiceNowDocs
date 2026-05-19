@@ -50,5 +50,5 @@ Discovery populates the following data when running the SSIS pattern.
 |Installation directory|install\_directory|The SSIS install directory|
 |Instance Name|instance|The SSIS instance name|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

@@ -30,5 +30,5 @@ Role required: admin
 4.  Select the **Update** button.
 
 
-**Parent Topic:**[Configure financials for Project Workspace](../concept/config-fin-pws.md)
+**Parent Topic:**[Configure financials for Project Workspace](config-fin-pws.md)
 

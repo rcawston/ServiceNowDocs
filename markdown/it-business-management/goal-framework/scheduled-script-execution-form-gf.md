@@ -85,7 +85,7 @@ Migrate goal relationships for assigned entities
 
 </td><td>
 
-\(For Strategic Planning users\) Populates the fields, **Assigned entity type** and **Assigned entity** on the [Goal form](../../spw-goals/reference/goal-form-egm.md) based on the data in the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table if you've created an m2m relationship with lens entities other than **Company**, **Business Unit**, **Department**, and **Portfolio**.If users had already created m2m relationship, they may use this script to move those relationships from the m2m table to the goals table to access and manage those goals in the respective portfolio plans.
+\(For Strategic Planning users\) Populates the fields, **Assigned entity type** and **Assigned entity** on the [Goal form](../scenario-planning-in-spw/goal-form-egm.md) based on the data in the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table if you've created an m2m relationship with lens entities other than **Company**, **Business Unit**, **Department**, and **Portfolio**.If users had already created m2m relationship, they may use this script to move those relationships from the m2m table to the goals table to access and manage those goals in the respective portfolio plans.
 
  If the goal has only one relationship with an assign entity table type, the **Assign entity type** and **Assign entity** fields are populated on the Goal \[sn\_gf\_goal\] table based on the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table.
 

@@ -39,5 +39,5 @@ As a team member, you can:
     -   If the team is public, click **Join**.
     -   If the team is private, click **Request**. The team administrator receives an email notification and must accept your request before you can join the team.
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](c_UseTeamsInLiveFeed.md)
 

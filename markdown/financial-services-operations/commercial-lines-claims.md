@@ -109,5 +109,5 @@ Needs to be able to customize views.
 -   Commercial Claim.Service
 -   Commercial Claim.Stage
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](fso-content-pack.md)
 

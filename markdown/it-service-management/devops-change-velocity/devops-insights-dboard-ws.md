@@ -298,7 +298,7 @@ Number of DevOps changes that are pending approval by date range.
 
  By default, change requests in the New or Assess state are considered awaiting approval.
 
- To specify the states that are considered awaiting approval, update the **Change Request Awaiting States** property setting. For details, see [DevOps Insights properties](../reference/devops-insights-workspace-properties.md).
+ To specify the states that are considered awaiting approval, update the **Change Request Awaiting States** property setting. For details, see [DevOps Insights properties](devops-insights-workspace-properties.md).
 
 </td><td>
 
@@ -342,7 +342,7 @@ Net amount saved per month by automating DevOps changes.
 
  When a change is automated, a developer doesn’t have to manually fill out the change request and associate each work item, code commits, test results and other evidence and artifacts to the change. After this activity is automated, hours that would have been spent on filling out the change, searching, tracking down and attaching items from other tools to a change, will now be saved. More work items require a relatively increasing number of hours to associate them manually. Therefore, higher numbers of work items should result in more hours saved after the change is automated. Change acceleration savings are calculated by multiplying the hours saved by the average hourly developer cost.
 
- To change the default value of the average hourly developer cost, update the **Average Hourly developer Cost** property setting. For details, see [DevOps Insights properties](../reference/devops-insights-workspace-properties.md).
+ To change the default value of the average hourly developer cost, update the **Average Hourly developer Cost** property setting. For details, see [DevOps Insights properties](devops-insights-workspace-properties.md).
 
 </td><td>
 
@@ -354,7 +354,7 @@ Developer hours saved
 
 </td><td>
 
-Number of developer hours saved per month by automating DevOps changes.To change the default value of 1 \(one\) hour per developer, update the **X hours per Developer time** property setting. For details, see [DevOps Insights properties](../reference/devops-insights-workspace-properties.md).
+Number of developer hours saved per month by automating DevOps changes.To change the default value of 1 \(one\) hour per developer, update the **X hours per Developer time** property setting. For details, see [DevOps Insights properties](devops-insights-workspace-properties.md).
 
 </td><td>
 

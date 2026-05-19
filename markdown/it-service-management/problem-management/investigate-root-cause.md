@@ -81,5 +81,5 @@ Click **Re-analyze**. The problem opens for reanalysis and the state is changed 
 
 You can resolve and complete the problem. You can also create a change request to implement a fix for the problem.
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

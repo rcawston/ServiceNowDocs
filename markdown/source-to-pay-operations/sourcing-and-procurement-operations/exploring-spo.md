@@ -48,11 +48,11 @@ A workflow for sourcing and procurement operations might progress as follows:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Browse a managed product catalog and submit purchase requests through a streamlined, e-commerce-like shopping experience.|[Using Shopping Hub](../reference/use-shoppinghub-portal.md)|Shoppers|
+|Browse a managed product catalog and submit purchase requests through a streamlined, e-commerce-like shopping experience.|[Using Shopping Hub](use-shoppinghub-portal.md)|Shoppers|
 |Track the complete status and progress of purchases, including approvals, tasks, and delivery milestones, from a single view.|[My purchases on Shopping Hub](my-purchases.md)|Shoppers|
 |Submit purchase requests using AI-assisted conversational intake, without relying on procurement fulfillers.|[Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo.md)|Shoppers|
-|Manage sourcing requests, purchase requisitions, negotiations, and procurement cases from a centralized workspace.|[Source-to-Pay Workspace](../../source-to-pay-operations/concept/source-to-pay-ws-overview.md)|Procurement specialists|
-|Automate end-to-end sourcing and purchasing workflows, including approvals, task generation, and purchase order creation.|[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)|Procurement specialists|
+|Manage sourcing requests, purchase requisitions, negotiations, and procurement cases from a centralized workspace.|[Source-to-Pay Workspace](../source-to-pay-workspace/source-to-pay-ws-overview.md)|Procurement specialists|
+|Automate end-to-end sourcing and purchasing workflows, including approvals, task generation, and purchase order creation.|[Sourcing and Purchasing Automation](purchase-experience-workflow.md)|Procurement specialists|
 |Enable employees to raise procurement cases and allow procurement teams to manage and monitor fulfillment tasks.|[Procurement Case Management](psd-overview.md)|Procurement specialists, Shoppers|
 |Assess spend, operational efficiency, and team performance using pre-configured dashboards and metrics.|[Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)|Procurement specialists, Procurement administrators|
 
@@ -68,7 +68,7 @@ Here are some additional ServiceNow resources that can help you:
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-docs.svg) Release Notes**
 
-    Learn more about what's new and changed. See the [Sourcing and Procurement Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/sourcing-procurement-operations-rn.md).
+    Learn more about what's new and changed. See the [Sourcing and Procurement Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/sourcing-procurement-operations-rn.md).
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-learning.svg) ServiceNow University**
 
@@ -93,7 +93,7 @@ To learn more about configuring and using Sourcing and Procurement Operations, s
 
 -   [Configure Sourcing and Procurement Operations](configuring-spo.md)
 -   [Use Sourcing and Procurement Operations](using-spo.md)
--   [Sourcing and Procurement Operations reference](../reference/spo-reference.md)
+-   [Sourcing and Procurement Operations reference](spo-reference.md)
 
 -   **[Shopping Hub](shopping-hub-overview.md)**  
 Shopping Hub \(sn\_spend\_uib\) is a self-service procurement portal that employees use to purchase products and services. It supports browsing internal catalog items and supplier catalogs, submitting purchase requests, and tracking orders from checkout through fulfillment.
@@ -103,7 +103,7 @@ As a shopper, you can view all the purchases made from your shopping account by 
 The ServiceNow Shopping Hub Mobile app enables you to engage with procurement organizations from a mobile device. Shopping Hub Mobile is available on the Now Mobile app and is supported on iOS and Android devices.
 -   **[Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)**  
 With this application, you can use a set of pre-configured metrics and dashboards to assess spend, operational efficiency, and team performance across the Sourcing and Procurement Operations product.
--   **[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)**  
+-   **[Sourcing and Purchasing Automation](purchase-experience-workflow.md)**  
 Sourcing and Purchasing Automation for ShoppingHub includes workflows that help support the user interface purchasing experience for the shopper. These workflows consist of sourcing requests, negotiations, purchase requisitions, contracts, purchase orders, receipts, and invoices.
 -   **[Procurement Case Management](psd-overview.md)**  
 With the Procurement Case Management application, you can enable your employees to submit procurement cases and access your organization's knowledge base. You can also enable your procurement teams to automate their fulfillment processes so that they can manage and monitor the progress of their tasks.

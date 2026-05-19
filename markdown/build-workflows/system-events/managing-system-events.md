@@ -17,40 +17,40 @@ Managing system events involves creating, monitoring, and handling events to dri
 
 ## Overview of managing system events
 
--   [Create an event](../task/t_CreateYourOwnEvent.md)
+-   [Create an event](t_CreateYourOwnEvent.md)
 
     Create custom system events.
 
--   [Move an event](../task/move_event.md)
+-   [Move an event](move_event.md)
 
     Accelerate the execution process by moving high priority events from the default queue to an isolated queue.
 
--   [Pass event parameters from a work-flow to a notification](../../notification/task/t_PassEventParameters.md)
+-   [Pass event parameters from a work-flow to a notification](t_PassEventParameters.md)
 
     Pass two event parameters that send information about a record or related records from a work-flow to a notification.
 
--   [Register an event](../task/t_RegisterAnEvent.md)
+-   [Register an event](t_RegisterAnEvent.md)
 
     Register an event for a specific table and a business rule that fires the event.
 
--   [Reprocess an event](../task/t_ReprocessAnEvent.md)
+-   [Reprocess an event](t_ReprocessAnEvent.md)
 
     Re-fire an event for testing or diagnostic purposes.
 
 
 ## System events reference
 
-For more information, see [System events reference](../reference/system-events-reference.md).
+For more information, see [System events reference](system-events-reference.md).
 
--   **[Create an event](../task/t_CreateYourOwnEvent.md)**  
+-   **[Create an event](t_CreateYourOwnEvent.md)**  
 If you do not find a suitable existing event, you can create your own.
--   **[Move an event](../task/move_event.md)**  
+-   **[Move an event](move_event.md)**  
 Accelerate the execution process by moving high priority events from the default queue to an isolated queue.
--   **[Pass event parameters from a work-flow to a notification](../../notification/task/t_PassEventParameters.md)**  
+-   **[Pass event parameters from a work-flow to a notification](t_PassEventParameters.md)**  
 Pass two event parameters that send information about a record or related records from a work-flow to a notification.
--   **[Register an event](../task/t_RegisterAnEvent.md)**  
+-   **[Register an event](t_RegisterAnEvent.md)**  
 You can register an event for a specific table and a business rule that fires the event.
--   **[Reprocess an event](../task/t_ReprocessAnEvent.md)**  
+-   **[Reprocess an event](t_ReprocessAnEvent.md)**  
 You can fire the event again for testing or diagnostic purposes.
 
 **Parent Topic:**[System Events](system-events-landing.md)

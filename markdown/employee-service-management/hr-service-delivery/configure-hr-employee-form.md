@@ -177,5 +177,5 @@ The following GIF shows an example of an HR agent creating a collect employee in
 
 The follow GIF shows an example of the employee, Eva Seahorn, then completing the collect employee input to-do in the Employee Center.
 
-**Parent Topic:**[Collect employee input](../concept/employee-form-configuration.md)
+**Parent Topic:**[Collect employee input](employee-form-configuration.md)
 

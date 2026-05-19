@@ -18,8 +18,8 @@ Integrate the ServiceNow instance and Oracle Compute Engine account by using the
 ## Before you begin
 
 -   Request an Integration Hub subscription.
--   Activate and set up the [Oracle Cloud IAM Spoke](../concept/oracle-iam.md).
--   Activate and set up the [Oracle Object Storage Management Spoke](../concept/object-storage-mngmt-dec.md).
+-   Activate and set up the [Oracle Cloud IAM Spoke](oracle-iam.md).
+-   Activate and set up the [Oracle Object Storage Management Spoke](object-storage-mngmt-dec.md).
 -   Activate the Oracle Compute Engine spoke.
 -   Role required: admin.
 

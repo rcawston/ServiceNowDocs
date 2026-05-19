@@ -21,7 +21,7 @@ Therefore, after you set up your teams as groups in Workforce Optimization for I
 
 Before you start implementing Workforce Optimization for ITSM, make sure you do the following:
 
-**Important:** Groups are synonymous with assignment groups. A team member can belong to multiple groups but must have one group identified as their primary assignment group. If not, that team member cannot view their schedules in Service Operations Workspace. For more information on Schedules in Service Operations Workspace, see [Service Operations Workspace - Scheduling](../../service-operations-workspace/concept/itsm-sow-workspace-scheduling.md).
+**Important:** Groups are synonymous with assignment groups. A team member can belong to multiple groups but must have one group identified as their primary assignment group. If not, that team member cannot view their schedules in Service Operations Workspace. For more information on Schedules in Service Operations Workspace, see [Service Operations Workspace - Scheduling](../service-operations-workspace/itsm-sow-workspace-scheduling.md).
 
 1.  **Identify your teams**
 
@@ -29,7 +29,7 @@ Before you start implementing Workforce Optimization for ITSM, make sure you do 
 
 2.  **Assign a primary assignment group for each member of your team**
 
-    A team member can belong to multiple groups but you must identify one group identified as the primary group for each team member and assign it to them. This determines which assignment group's team calendar that the team member can view in the Schedules module in [Service Operations Workspace](../../service-operations-workspace/concept/itsm-sow-workspace-scheduling.md) and also determines activities such as coaching and approvals. For more information on setting a primary assignment group, see [Assign a primary assignment group for each agent](../task/setup-primary-group-wfo-itsm.md).
+    A team member can belong to multiple groups but you must identify one group identified as the primary group for each team member and assign it to them. This determines which assignment group's team calendar that the team member can view in the Schedules module in [Service Operations Workspace](../service-operations-workspace/itsm-sow-workspace-scheduling.md) and also determines activities such as coaching and approvals. For more information on setting a primary assignment group, see [Assign a primary assignment group for each agent](setup-primary-group-wfo-itsm.md).
 
     The image below shows a representation of assigning a primary group to a team member who belongs to more than one group.![Organize your teams into assignment groups](../image/organize-teams-wfo-itsm.png)
 
@@ -44,7 +44,7 @@ Before you start implementing Workforce Optimization for ITSM, make sure you do 
 
 If you have three teams in different regions and the first team is in Americas \(AMS\), the second one is in Asia-Pacific \(APJ\) and the third one is in Europe, the Middle East, and Africa \(EMEA\), you must create an assignment group for each one of them and also associate each team member to one of the groups as their primary assignment group. You can also associate more managers to a team although they may not directly manage that team. These managers are referred to as additional managers who have visibility into the what the team does.
 
--   **[Assign a primary assignment group for each agent](../task/setup-primary-group-wfo-itsm.md)**  
+-   **[Assign a primary assignment group for each agent](setup-primary-group-wfo-itsm.md)**  
 Associate each agent in your team to a primary assignment group to enable them to see the KPI metrics for the groups to which they belong.
 
 **Parent Topic:**[Getting started with Workforce Optimization for ITSM](getting-started-workforce-optimization-itsm.md)
@@ -52,7 +52,7 @@ Associate each agent in your team to a primary assignment group to enable them t
 **Related topics**  
 
 
-[Exclude access for specific groups in Workforce Optimization for ITSM manager workspace](../task/configure-access-exclusion-wfo-itsm.md)
+[Exclude access for specific groups in Workforce Optimization for ITSM manager workspace](configure-access-exclusion-wfo-itsm.md)
 
-[Using extension points to include access for specific groups in Workforce Optimization for ITSM manager workspace](../task/ext-points-exclude-access-wfo-itsm.md)
+[Using extension points to include access for specific groups in Workforce Optimization for ITSM manager workspace](ext-points-exclude-access-wfo-itsm.md)
 

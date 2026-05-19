@@ -30,5 +30,5 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 The metric that is associated with the alert returns to normal importance.
 
-**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](../concept/hla-op-alert-significance.md)
+**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](hla-op-alert-significance.md)
 

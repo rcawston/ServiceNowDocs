@@ -40,7 +40,7 @@ Child templates are only applied if the parent template is applied from a module
 7.  Refresh the application navigator to view the new module.
 
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](c_Templates.md)
 
 **Related topics**  
 
@@ -53,9 +53,9 @@ Child templates are only applied if the parent template is applied from a module
 
 [Schedule record creation from a template](t_ScheduleATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](template-bar.md)
 
 [Toggle the template bar](t_ToggleTheTemplateBar.md)
 
-[Scripted templates](../reference/r_ScriptedTemplates.md)
+[Scripted templates](r_ScriptedTemplates.md)
 

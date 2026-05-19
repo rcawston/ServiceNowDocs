@@ -52,5 +52,5 @@ In the HTML of the page, the **&lt;main&gt;** tag contains the container, row, o
 
 ![Main tag configured for a page in Service Portal Designer](../image/main-tag.png)
 
-**Parent Topic:**[Improving search engine optimization for portals](../concept/seo-sp.md)
+**Parent Topic:**[Improving search engine optimization for portals](seo-sp.md)
 

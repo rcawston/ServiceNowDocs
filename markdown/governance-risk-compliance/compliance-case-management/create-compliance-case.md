@@ -33,13 +33,13 @@ Your users can report a case to the compliance teams through phone calls or emai
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Create a Compliance Case form, see [Compliance Case form](../reference/compliance-case-form.md).
+    For a description of the field values on the Create a Compliance Case form, see [Compliance Case form](compliance-case-form.md).
 
 5.  Select **Save**.
 
 
--   **[Compliance Case form](../reference/compliance-case-form.md)**  
+-   **[Compliance Case form](compliance-case-form.md)**  
 Use the Create Compliance Case form in the GRC: Compliance Case Management application to report a compliance case.
 
-**Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](../concept/reporting-compliance-case.md)
+**Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](reporting-compliance-case.md)
 

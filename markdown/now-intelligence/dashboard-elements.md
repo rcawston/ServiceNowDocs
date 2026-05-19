@@ -17,17 +17,17 @@ Dashboards contain a combination of visual elements or funnels to show data. Ava
 
 ![Add new element menu showing filter group, heading, image, list, Now Assist Context Menu, Process Mining Map, Rich text, and Usage Insights Funnel. Not shown: Data visualization, divider, Filter, Workbench](../image/add-new-element-menu.png)
 
--   **[Data visualization](../../performance-analytics/concept/analytics-center-data-visualizations.md)**
+-   **[Data visualization](analytics-center-data-visualizations.md)**
 
     Data visualizations enable you to present a visual representation of current instance data or temporary data that you’ve imported. Data visualizations include visualizations that you create in the dashboard designer and data visualizations from the library.
 
     **Important:** You cannot place reports or Performance Analytics widgets on a Platform Analytics dashboard. You must create data visualizations instead.
 
--   **[Filter](../../par-for-workspace/concept/interactive-filters-workspace.md)**
+-   **[Filter](interactive-filters-workspace.md)**
 
     Filters enable users to filter the visualizations on a dashboard based on specified criteria. You can put filters either on the individual tabs or above the tabs so that the filter applies to elements every tab. Filters include both data filters and domain filters. You can create filters in the dashboard designer or select them from the library.
 
--   **[Filter group](../../par-for-workspace/task/create-filter-group.md)**
+-   **[Filter group](create-filter-group.md)**
 
     A set of filters that you can apply simultaneously. Use when you have multiple filters that can apply to multiple visualizations.
 
@@ -41,11 +41,11 @@ Dashboards contain a combination of visual elements or funnels to show data. Ava
 
     Image elements hold static or animated images on the dashboard.
 
--   **[Process Mining - Map](../../par-for-workspace/task/configure-po-map.md)**
+-   **[Process Mining - Map](configure-po-map.md)**
 
     Map the different states that are part of your process and the transitions between those states. See which states the objects of the process are in and the speed with which they change state. Requires an existing Process Mining project.
 
--   **[List](../../reporting/task/create-dv-analytics-list.md)**
+-   **[List](create-dv-analytics-list.md)**
 
     Lists show table records. They support Platform Analytics filters and drilling down from data visualizations by default.
 
@@ -63,7 +63,7 @@ Dashboards contain a combination of visual elements or funnels to show data. Ava
 
 -   **Funnel**
 
-    Dashboards can display [funnels that you created](../../../administer/user-exp-analytics/task/create-funnel.md#) in Usage Insights. Funnels can show conversion rates and trends in aggregate user behavior to uncover the reasons behind success or failure of a specific in-application user goal. Investigating a conversion funnel can help you measure and optimize the conversion rates of relevant processes within your application.
+    Dashboards can display [funnels that you created](usage-insights/create-funnel.md#) in Usage Insights. Funnels can show conversion rates and trends in aggregate user behavior to uncover the reasons behind success or failure of a specific in-application user goal. Investigating a conversion funnel can help you measure and optimize the conversion rates of relevant processes within your application.
 
 
 ## Default element dimensions
@@ -83,10 +83,10 @@ Each element has a default height and width when you place it on the stage to co
     11 columns by 11 rows
 
 
-**Parent Topic:**[Exploring Platform Analytics dashboards](../reference/ac-elements.md)
+**Parent Topic:**[Exploring Platform Analytics dashboards](ac-elements.md)
 
 **Related topics**  
 
 
-[Add visual elements to an in-line dashboard](../task/add-elements-to-a-dashboard.md)
+[Add visual elements to an in-line dashboard](add-elements-to-a-dashboard.md)
 

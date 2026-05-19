@@ -82,7 +82,7 @@ Make a reservation portal page opens for you to make workplace reservations.
 
 2.  Select a Reservable Module configuration such as **Desks**, **Meeting rooms** **Desks within an area** and so on.
 
-    For more information how to configure a Reservable module, see [Configure a reservable module](config-reservable-module.md).
+    For more information how to configure a Reservable module, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
 3.  Select **Search**.
 
@@ -226,7 +226,7 @@ If any of the items needs approval, then your request is submitted to the approv
 
 ## What to do next
 
--   To view, edit or cancel your reservations, see [Share, modify, or cancel a reservation](modify-cancel-res-request.md).
+-   To view, edit or cancel your reservations, see [Share, modify, or cancel a reservation](../workplace-reservation-management/modify-cancel-res-request.md).
 -   To view, add or remove any invitees from the reservation, do the following:
     1.  On the Reservation summary page, select the **Invitees** tab.
     2.  To change the location of any invitees, do the following:
@@ -250,40 +250,40 @@ If any of the items needs approval, then your request is submitted to the approv
         If you have added an invitee, an email is sent to the invitee with the reservation details. If you have removed an invitee, an email is sent that the reservation is canceled.
 
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](../workplace-reservation-management/reserve-workplace-items.md)
 
 **Related topics**  
 
 
 [Create a reservation](create-reservation-request-1.md)
 
-[Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
+[Add invitees as collaborators and create a reservation](../workplace-reservation-management/add-colleagues-rsv-search.md)
 
-[Auto-resolve recurring reservations](recurring-reservations.md)
+[Auto-resolve recurring reservations](../workplace-reservation-management/recurring-reservations.md)
 
-[Set a location as favorite using the Space details page](set-a-location-as-favorite.md)
+[Set a location as favorite using the Space details page](../workplace-reservation-management/set-a-location-as-favorite.md)
 
-[Reserve a space near your colleague](browse-near-person-rsv.md)
+[Reserve a space near your colleague](../workplace-reservation-management/browse-near-person-rsv.md)
 
-[Create a multi-day reservation](create-multi-day-reservation.md)
+[Create a multi-day reservation](../workplace-reservation-management/create-multi-day-reservation.md)
 
-[Create multi-building reservations](create-multi-building-reservation.md)
+[Create multi-building reservations](../workplace-reservation-management/create-multi-building-reservation.md)
 
-[Create neighborhood reservations](create-neighborhood-reservations.md)
+[Create neighborhood reservations](../workplace-reservation-management/create-neighborhood-reservations.md)
 
-[Enable shift-based reservation](enable-shift-based-reservation.md)
+[Enable shift-based reservation](../workplace-reservation-management/enable-shift-based-reservation.md)
 
-[Create a reservation along with a shared reservation](create-rsv-along-with-shared-rsv.md)
+[Create a reservation along with a shared reservation](../workplace-reservation-management/create-rsv-along-with-shared-rsv.md)
 
-[Create a reservation including a virtual meeting link](Create-reservation-with-virtual-meeting.md)
+[Create a reservation including a virtual meeting link](../workplace-reservation-management/Create-reservation-with-virtual-meeting.md)
 
-[Create a shift reservation](create-a-shift-reservation.md)
+[Create a shift reservation](../workplace-reservation-management/create-a-shift-reservation.md)
 
-[Create a group reservation](create-group-reservation.md)
+[Create a group reservation](../workplace-reservation-management/create-group-reservation.md)
 
-[Share, modify, or cancel a reservation](modify-cancel-res-request.md)
+[Share, modify, or cancel a reservation](../workplace-reservation-management/modify-cancel-res-request.md)
 
-[Reserve a workplace using the Quick Reservation widget](reserve-workplace-for-a-time-slot.md)
+[Reserve a workplace using the Quick Reservation widget](../workplace-reservation-management/reserve-workplace-for-a-time-slot.md)
 
-[Download an iCalendar for a reservation](generate-ical.md)
+[Download an iCalendar for a reservation](../workplace-reservation-management/generate-ical.md)
 

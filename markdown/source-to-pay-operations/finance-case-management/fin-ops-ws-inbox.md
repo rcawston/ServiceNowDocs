@@ -26,9 +26,9 @@ When you accept a chat, an interaction record is automatically created. The reco
 **Related topics**  
 
 
-[Create a new interaction](../task/view-create-new-interaction-fin-ops-ws.md)
+[Create a new interaction](view-create-new-interaction-fin-ops-ws.md)
 
-[Create a finance case from an interaction](../task/create-fin-case-from-interaction-record.md)
+[Create a finance case from an interaction](create-fin-case-from-interaction-record.md)
 
-[Associate an interaction with a finance case](../task/associate-interaction-with-finance-case.md)
+[Associate an interaction with a finance case](associate-interaction-with-finance-case.md)
 

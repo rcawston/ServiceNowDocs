@@ -18,7 +18,7 @@ Use an efficient single-line command script to install Agent Client Collector on
 ## Before you begin
 
 -   Ensure that you have configured the Agent Client Collector web server.
--   Verify that your server's OS and version matches the list of supported OS versions as described in [Agent Client Collector installation](../concept/acc-installation.md).
+-   Verify that your server's OS and version matches the list of supported OS versions as described in [Agent Client Collector installation](acc-installation.md).
 -   Ensure that the unzip program is installed on your Linux machine.
 -   Determine the resource limits for the agent to be configured in the `/usr/lib/systemd/system/acc.service` file after installation.
 -   Ensure that you have the `openssl` and `dgst` \(for RHEL/Centos/SUSE installation\) packages available, to be used by the install script.
@@ -84,5 +84,5 @@ The URL of the MID Server websocket.If you are specifying multiple MID Servers, 
     -   **BlockIOWeight**: 10
     -   **LimitNICE**: +15
 
-**Parent Topic:**[Agent Client Collector installation on a Linux OS system](../concept/acc-install-linux-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Linux OS system](acc-install-linux-concept.md)
 

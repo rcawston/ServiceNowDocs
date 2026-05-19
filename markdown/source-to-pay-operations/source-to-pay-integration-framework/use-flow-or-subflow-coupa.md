@@ -42,7 +42,7 @@ Role required: sn\_fcms\_intg.integration\_user
 
 The flow or subflow gets executed.
 
-**Parent Topic:**[Use Source-to-Pay integration with Coupa](../concept/using-source-to-pay-coupa-integration.md)
+**Parent Topic:**[Use Source-to-Pay integration with Coupa](using-source-to-pay-coupa-integration.md)
 
 **Related topics**  
 

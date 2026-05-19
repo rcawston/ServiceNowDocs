@@ -57,7 +57,7 @@ For an internal claim, the refund type can be external or internal.
         -   Claim bank
         -   Transaction ID
         -   Refund bank
-        For information on the Claim form field descriptions, see [Field descriptions for a claim case](../reference/claim-form-fields.md).
+        For information on the Claim form field descriptions, see [Field descriptions for a claim case](claim-form-fields.md).
 
     2.  In the **State** field, change the state of the case to **Awaiting Refund** and click **Update**.
 
@@ -87,5 +87,5 @@ The customer gets the pre-configured email notifications about the progress of t
 -   **[Work on a claim task for an external refund](work-claim-task.md)**  
 Using a claim task, follow up with the third-party bank for a claim refund.
 
-**Parent Topic:**[Managing payment claims and debit approvals](../concept/managing-payment-claims.md)
+**Parent Topic:**[Managing payment claims and debit approvals](managing-payment-claims.md)
 

@@ -58,5 +58,5 @@ You can connect a data fabric table included with an application to a different 
 
 The data fabric table is connected to the local table that you selected using the ServiceNow local instance connector. Application users can access real-time data from the local table using the data fabric table.
 
-**Parent Topic:**[Accessing real-time data in applications](../concept/mapping-application-tables-zcc.md)
+**Parent Topic:**[Accessing real-time data in applications](mapping-application-tables-zcc.md)
 

@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-If your network does not use a web proxy, leave the [web proxy properties](../reference/edge-encryption-proxy-server-properties.md) in the configuration file commented out.
+If your network does not use a web proxy, leave the [web proxy properties](edge-encryption-proxy-server-properties.md) in the configuration file commented out.
 
 The Edge Encryption proxy server supports HTTP connection to and basic authentication with the web proxy.
 
@@ -31,7 +31,7 @@ The Edge Encryption proxy server supports HTTP connection to and basic authentic
 
 2.  Open the `edgeencryption.properties` file.
 
-3.  Configure the [web proxy properties](../reference/edge-encryption-proxy-server-properties.md).
+3.  Configure the [web proxy properties](edge-encryption-proxy-server-properties.md).
 
 4.  Save and close the `edgeencryption.properties` file.
 

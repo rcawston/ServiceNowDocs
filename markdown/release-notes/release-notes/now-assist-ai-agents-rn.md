@@ -14,7 +14,7 @@ The ServiceNow® Now Assist AI Agents application provides solutions that can pe
 
 ## Now Assist AI Agents highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Test an agentic solution in the playground in AI-native mode.
 -   Add widgets for tool outputs to provide an improved experience in AI-native mode.
@@ -23,7 +23,7 @@ The ServiceNow® Now Assist AI Agents application provides solutions that can pe
 
 See [Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md) for more information.
 
-For the Platform Now Assist release notes, see [Now Assist release notes](../analytics-intelligence-reporting/now-assist-rn.md).
+For the Platform Now Assist release notes, see [Now Assist release notes](now-assist-rn.md).
 
 **Important:** Now Assist AI agents are available in the ServiceNow Store. For details, see the "Activation information" section of these release notes.
 
@@ -72,9 +72,9 @@ For the Platform Now Assist release notes, see [Now Assist release notes](../ana
 
 ## Deprecated features
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
--   The support for manually integrating external agents has been deprecated from [Australia Patch 1](../quality/australia-patch-1.md) release.
+-   The support for manually integrating external agents has been deprecated from [Australia Patch 1](../australia-patch-1.md) release.
 
 ## Activation information
 
@@ -124,5 +124,5 @@ The Now Assist AI agents application is built on the GPT-4o-based framework and 
     Use the ServiceNow® Now Assist Skill Kit to create and publish custom prompts and skills for Now Assist. Creating custom skills and prompts enables you to have greater flexibility with Now Assist generative AI capabilities.
 
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

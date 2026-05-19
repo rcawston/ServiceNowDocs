@@ -30,10 +30,10 @@ To update the rank of the planning items in the work pipeline of your portfolio 
     Check if the planning item before or after your target position to reorder has a global rank. If not, contact your system admin to generate a global rank for them.
 
 
-**Parent Topic:**[Portfolio Planning reference](../concept/portfolio-planning-reference.md)
+**Parent Topic:**[Portfolio Planning reference](portfolio-planning-reference.md)
 
 **Related topics**  
 
 
-[Rank planning items](../task/rank-and-prioritize-work-portfolio-planning-workspace.md)
+[Rank planning items](rank-and-prioritize-work-portfolio-planning-workspace.md)
 

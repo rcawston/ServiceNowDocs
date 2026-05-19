@@ -39,13 +39,13 @@ Semantic vector search allows the Now LLM Service to find results based on how s
 Review AI Search logs and history to analyze performance and diagnose issues. View log messages and ingestion history, or use session debugging to capture detailed messages for a user session.
 -   **[Search Preview UI for AI Search](search-preview-ui-new.md)**  
 The Search Preview UI enables you to test AI Search queries using settings from a selected search application configurationor search profile. Administrator tools help you review search query performance data and feedback, debug queries, and override default query settings for testing purposes.
--   **[Diagnose search result access issues using the Search Preview UI](../task/diagnose-srch-result-access-ais.md)**  
+-   **[Diagnose search result access issues using the Search Preview UI](diagnose-srch-result-access-ais.md)**  
 Use the Search Preview UI and the AI Search High Security administrator elevated privilege role to determine whether filters prevent a search user from viewing a specific search result in the AI Search index.
--   **[Debug search source and content security filters](../task/debug-search-filters-ais.md)**  
+-   **[Debug search source and content security filters](debug-search-filters-ais.md)**  
 Use the Session Log to view search source and content security filters applied to results for a search query. Administrators can use this approach to verify search source filters and content security settings.
--   **[Debug external content security filters for a ServiceNow AI Platform user](../task/debug-ext-security-perms-user-ais.md)**  
+-   **[Debug external content security filters for a ServiceNow AI Platform user](debug-ext-security-perms-user-ais.md)**  
 Use the Session Log to view the set of externally defined user and group access permission filters associated with the current ServiceNow AI Platform user. Administrators can use this approach to verify that the proper user mappings exist for the current user.
--   **[Review record counts for indexed sources](../task/record-counts-indexed-sources-ais.md)**  
+-   **[Review record counts for indexed sources](record-counts-indexed-sources-ais.md)**  
 Understand where your indexed content originates by viewing record counts for your indexed sources in the AI Search Indexed Source Statistics table.
 -   **[Search query parameter evaluation framework](srch-qry-parm-eval-fw-ais.md#)**  
 AI Search performs A/B test evaluations that compare result relevancy for alternate sets of search query parameter values. These evaluations determine the models that AI Search uses for machine learning relevancy and for Q&amp;A Genius Results.

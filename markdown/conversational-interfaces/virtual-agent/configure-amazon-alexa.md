@@ -17,11 +17,11 @@ Install and set up the Conversational Integration with Alexa application to enab
 
 Configure Conversational Integration with Alexa to enable interaction with Virtual Agent through the Alexa voice interface.
 
-1.  [Set up Conversational Integration with Alexa](../task/setup-alexa.md).
+1.  [Set up Conversational Integration with Alexa](setup-alexa.md).
 2.  [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](va-settings-for-alexa.md).
 3.  [Set up account linking with Alexa](account-linking-alexa.md).
 
--   **[Set up Conversational Integration with Alexa](../task/setup-alexa.md)**  
+-   **[Set up Conversational Integration with Alexa](setup-alexa.md)**  
 Set up the Conversational Integration with Alexa application so that you can engage customers in conversations with bots.
 -   **[Account linking with Alexa](account-linking-alexa.md)**  
 Link your Alexa account with your ServiceNow instance to retrieve information from your custom skill.

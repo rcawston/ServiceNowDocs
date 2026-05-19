@@ -38,7 +38,7 @@ The basis of any good data model is the foundational data that is referenced thr
 
     The Product model \[model\_id\] table identifies the unique types of products your organization develops or consumes. When you group assets and CIs by product model, you unify and relate CIs that are part of the same digital product and portfolios of products. Grouping assets and CIs by product model can help you plan projects, monitor costs, and rationalize your data. Discovery can populate tangible/physical product models after they’re operational, but other types of product models require planning from product owners.
 
-    Use the CSDM Product Model Assignment job to auto-generate a product model record \(application model, service model, or software model\) for each logical CI that is not yet associated with a product model. Product models are ideal for associating CIs that are parts of a single digital product. See [Auto-generate product models for logical CIs](../task/csdm-auto-create-prod-model-for-ci.md).
+    Use the CSDM Product Model Assignment job to auto-generate a product model record \(application model, service model, or software model\) for each logical CI that is not yet associated with a product model. Product models are ideal for associating CIs that are parts of a single digital product. See [Auto-generate product models for logical CIs](csdm-auto-create-prod-model-for-ci.md).
 
 -   **CMDB Group \[cmdb\_ci\_query\_based\_service\] table**
 
@@ -104,7 +104,7 @@ The basis of any good data model is the foundational data that is referenced thr
 
     **Note:** The \[life\_cycle\_control\] table uses the type of CI \(tangible/physical, document and contract, location and so on\) to determine which *life cycle stage status* values are available for each *life cycle stage*.
 
-    To take full advantage of the CSDM life-cycle standards, you can map legacy status data to the life-cycle value pairs. See [Enabling life-cycle synchronization from legacy to asset](../../configuration-management/concept/csdm-life-cycle-standard-values.md#).
+    To take full advantage of the CSDM life-cycle standards, you can map legacy status data to the life-cycle value pairs. See [Enabling life-cycle synchronization from legacy to asset](csdm-life-cycle-standard-values.md#).
 
     The following assets can use life-cycle value pairs:
 

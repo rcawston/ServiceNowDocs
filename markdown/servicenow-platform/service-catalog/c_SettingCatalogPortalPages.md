@@ -33,12 +33,12 @@ For example, for the default service catalog, add a record with the following va
 -   Portal Page: Catalog \(catalog\_default\)
 -   Default: true
 
-**Parent Topic:**[Using the content management system with the service catalog](../topic/p_ConfigureContentManagementSystem.md)
+**Parent Topic:**[Using the content management system with the service catalog](p_ConfigureContentManagementSystem.md)
 
 **Related topics**  
 
 
-[Manage catalogs in CMS sites](../task/t_ManageCatalogSites.md)
+[Manage catalogs in CMS sites](t_ManageCatalogSites.md)
 
 [Manage catalog portal pages](c_MultipleServiceCatalogs.md#)
 

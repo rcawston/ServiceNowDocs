@@ -31,7 +31,7 @@ The following roles are available for team members:
     Allows users to view and edit project tasks and demand tasks.
 
 
-For the full list of access permissions for each role, see [Team member role access permissions in CWM](../reference/cwm-team-member-role-permissions.md).
+For the full list of access permissions for each role, see [Team member role access permissions in CWM](cwm-team-member-role-permissions.md).
 
 **Note:** Assigning one of these team member roles automatically grants the CWM user role \[sn\_cwm.cwm\_user\] and Time card user role \[timecard\_user\].
 
@@ -69,7 +69,7 @@ The following limitations apply to team member roles in this release:
 
 -   The Timecard Management application must be installed to for team members to create timecards against their project tasks or demand tasks.
 
--   **[Team member role access permissions in CWM](../reference/cwm-team-member-role-permissions.md)**  
+-   **[Team member role access permissions in CWM](cwm-team-member-role-permissions.md)**  
 Access permissions for the team member read and team member read-write roles in Collaborative Work Management \(CWM\), covering projects, project tasks, demands, demand tasks, ideas, and calendar events.
 
 **Parent Topic:**[Using Collaborative Work Management](using-collaborative-work-management.md)
@@ -77,5 +77,5 @@ Access permissions for the team member read and team member read-write roles in 
 **Related topics**  
 
 
-[Team member role access permissions in CWM](../reference/cwm-team-member-role-permissions.md)
+[Team member role access permissions in CWM](cwm-team-member-role-permissions.md)
 

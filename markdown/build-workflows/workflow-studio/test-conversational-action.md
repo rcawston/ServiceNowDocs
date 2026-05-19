@@ -59,5 +59,5 @@ Role required: action\_designer
     ![Sample execution details from testing the Create Outage action via a conversation](../images/example-execution-details-conv-action.png)
 
 
-**Parent Topic:**[Building actions](../concept/actions.md)
+**Parent Topic:**[Building actions](actions.md)
 

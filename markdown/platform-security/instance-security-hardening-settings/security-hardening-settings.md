@@ -134,17 +134,17 @@ Links to configuration documentation or other helpful information.
 </td></tr></tbody>
 </table>**Note:** Some of the configurations can only be completed by Customer Service and Support and will be indicated as such.
 
-To learn more about ensuring your instances meet hardening requirements, see [Security hardening](../concept/sc-hardening.md).
+To learn more about ensuring your instances meet hardening requirements, see [Security hardening](../security-center/sc-hardening.md).
 
 ## Other resources
 
-For user reference, the ServiceNow AI Platform maintains extensive configuration capabilities information in the product documentation. You access most of the security content using the links found in [Secure your instance](../../general/concept/platsec-landing.md). Also, see the following:
+For user reference, the ServiceNow AI Platform maintains extensive configuration capabilities information in the product documentation. You access most of the security content using the links found in [Secure your instance](../platsec-landing.md). Also, see the following:
 
 -   [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
 -   General security settings properties
--   [High Security Settings](../../security/concept/c_HighSecuritySettings.md)
+-   [High Security Settings](../c_HighSecuritySettings.md)
 
--   **[Hardening settings baseline versions](../concept/hardening-settings-baseline.md)**  
+-   **[Hardening settings baseline versions](hardening-settings-baseline.md)**  
 Explore how baseline versions for hardening settings align with family and store releases.
 -   **[Access control](sc-access-control.md)**  
 The access control category audits the process of protecting resources from unauthorized access through granting and denying requests based on a permission model. This includes ensuring an entity accessing a resource holds valid credentials to do so, creating and protecting a well-defined set of roles or permissions and ensuring role or permission controls are protected from replay and tampering.
@@ -175,5 +175,5 @@ This category focuses on the encryption of stored data. It encompasses several k
 -   **[Validation, sanitization, and encoding](validation-sanitization-encoding.md)**  
 Validation, sanitization, and encoding addresses input validation to prevent against vulnerabilities like Cross-Site Scripting \(XSS\), SQL injection and other attacks.
 
-**Parent Topic:**[Platform Security](../../general/concept/platsec-sublanding.md)
+**Parent Topic:**[Platform Security](../platsec-sublanding.md)
 

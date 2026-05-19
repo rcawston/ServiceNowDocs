@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](../../../use/navigation/reference/r_KeyboardShortcuts.md). You can enable or disable keyboard shortcuts universally by searching for the *glide.ui.keyboard.shorcuts.enabled* user preference. Then select the System checkbox and set the value to False.
+For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](r_KeyboardShortcuts.md). You can enable or disable keyboard shortcuts universally by searching for the *glide.ui.keyboard.shorcuts.enabled* user preference. Then select the System checkbox and set the value to False.
 
 You can also use the user preferences to determine which keyboard shortcuts are available to users and what the key combinations are.
 
@@ -46,12 +46,12 @@ You can also use the user preferences to determine which keyboard shortcuts are 
 6.  Use the value for any user preference that ends with key\_combo to change the key combination for that particular keyboard shortcut.
 
 
-**Parent Topic:**[User preferences](../concept/c_UserPreferences.md)
+**Parent Topic:**[User preferences](c_UserPreferences.md)
 
 **Related topics**  
 
 
-[User preference settings](../reference/r_UserPreferenceSettings.md)
+[User preference settings](r_UserPreferenceSettings.md)
 
 [Turn off the Next Experience welcome screen after upgrading your instance](remove-welcome-splash-screen.md)
 

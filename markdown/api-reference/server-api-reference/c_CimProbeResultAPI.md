@@ -17,7 +17,7 @@ The CimProbeResult script include provides methods to process Common Information
 
 Use to process CIM probe results in any server-side discovery script.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CimProbeResult - getNamedInstances\(String namedQueries\)
 

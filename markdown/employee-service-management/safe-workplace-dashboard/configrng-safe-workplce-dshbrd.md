@@ -67,11 +67,11 @@ You can map an existing campus to an existing location manually and have it appe
 
 As an alternative, you can use Workplace Core to manually create a campus and have it appear on the Safe Workplace Dashboard.
 
--   **[Auto-map a location and create a campus](../task/autoconfig-safe-wp-dash.md)**  
+-   **[Auto-map a location and create a campus](autoconfig-safe-wp-dash.md)**  
 Create multiple campuses automatically by mapping them from locations so that they appear on the Safe Workplace Dashboard.
--   **[Manually map a location and campus](../task/man-create-campus.md)**  
+-   **[Manually map a location and campus](man-create-campus.md)**  
 Manually map an existing location to an existing campus and site using Campus Locations.
--   **[Manually map a location to a campus \(Workplace Core\)](../task/configure-safe-workplace-dashboard.md)**  
+-   **[Manually map a location to a campus \(Workplace Core\)](configure-safe-workplace-dashboard.md)**  
 Use Workplace Core as an alternative to the Safe Workplace Dashboard to manually map a location to a campus so that it appears on your Safe Workplace Dashboard.
 
 **Parent Topic:**[Safe Workplace Dashboard](safe-workplace-dashboard.md)

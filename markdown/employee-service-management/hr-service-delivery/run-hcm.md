@@ -33,5 +33,5 @@ Role required: admin
 **Related topics**  
 
 
-[Mapping entity profile fields](../reference/hr-oracle-hcm-profile-fields.md)
+[Mapping entity profile fields](hr-oracle-hcm-profile-fields.md)
 

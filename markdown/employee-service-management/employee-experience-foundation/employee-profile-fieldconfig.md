@@ -39,7 +39,7 @@ The following list of configurable fields indicates the personal, sensitive, and
 -   Updated \(Date/Time\)
 -   User Work phone
 
-For HR profile field configuration, see [HR profile editable field configuration](../../human-resources/concept/c_HRProfileEditableFieldConfig.md).
+For HR profile field configuration, see [HR profile editable field configuration](../hr-service-delivery/c_HRProfileEditableFieldConfig.md).
 
 **Parent Topic:**[Employee Center reference](emp-center-reference.md)
 
@@ -56,7 +56,7 @@ For HR profile field configuration, see [HR profile editable field configuration
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile Header Configuration form](profile-header-config-form.md)
 
@@ -104,5 +104,5 @@ For HR profile field configuration, see [HR profile editable field configuration
 
 [Website configuration form](config-website-form.md)
 
-[Employee profile](../concept/employee-profile-portal.md)
+[Employee profile](employee-profile-portal.md)
 

@@ -42,7 +42,7 @@ In this example, you will:
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page.
 
@@ -118,5 +118,5 @@ In this example, you will:
 
 When you view the page and type in the input field, your text input triggers the **Generate Content** skill to execute and return content on the topic in the input field.
 
-**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](../concept/data-resources.md)
+**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](data-resources.md)
 

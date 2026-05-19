@@ -21,5 +21,5 @@ Use the Delivery plan change form to provide deviations from a plan and create a
 -   **[Create new purchase order exception form](create-new-poe-form.md)**  
 Use the Create new purchase order exception form to provide details about the exception that is being created from a universal request.
 
-**Parent Topic:**[Purchase Order Management](../concept/purchase-order-mgmt-landing-page.md)
+**Parent Topic:**[Purchase Order Management](purchase-order-mgmt-landing-page.md)
 

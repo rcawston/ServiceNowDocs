@@ -34,8 +34,8 @@ Role required: sn\_grc\_claims.manager
 
 Learn about the fields of the **Claims for reporting** form. Use this form to create a new claim.
 
--   **[Claims for reporting fields](../concept/claims-for-reporting-fields.md)**  
+-   **[Claims for reporting fields](claims-for-reporting-fields.md)**  
 Learn about the fields of the **Claims for reporting** form. Use this form to create a new claim.
 
-**Parent Topic:**[Claims for reporting](../concept/claims-for-reporting.md)
+**Parent Topic:**[Claims for reporting](claims-for-reporting.md)
 

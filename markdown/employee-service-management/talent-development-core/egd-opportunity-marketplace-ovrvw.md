@@ -169,7 +169,7 @@ Shows recommendations based on your top skills. Internal job listings show the j
 
 ## Hiring Core
 
-Hiring Core provides a repository to store information for your hiring requirements. Activate the Hiring Core plugin \(app-hiring-core\) to start using it. For more information on the hiring core tables, see [Components installed with Talent Development Core](../reference/egd-components-roles-tables.md).
+Hiring Core provides a repository to store information for your hiring requirements. Activate the Hiring Core plugin \(app-hiring-core\) to start using it. For more information on the hiring core tables, see [Components installed with Talent Development Core](egd-components-roles-tables.md).
 
 ## AI search
 

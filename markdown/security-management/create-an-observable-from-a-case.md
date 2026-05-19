@@ -54,7 +54,7 @@ Role required: sn\_ti.case\_user
     As needed, you can click the **Case Artifacts** tab and [add artifacts to the case](add-records-to-cases.md).
 
 
-**Parent Topic:**[IoCs and observables in cases](../concept/cases-in-threat.md)
+**Parent Topic:**[IoCs and observables in cases](cases-in-threat.md)
 
 **Related topics**  
 

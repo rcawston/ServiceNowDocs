@@ -85,5 +85,5 @@ The tracking view of your roadmap is displayed according to your personalization
 
 ![Roadmap tracking mode.](../../spw-roadmap/images/roadmap-tracking-mode.png)
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](planning-roadmaps-in-portfolio-planning.md)
 

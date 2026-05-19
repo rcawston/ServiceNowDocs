@@ -69,7 +69,7 @@ Yes
 
 </td><td>
 
-List of predefined options. For more information, see the definition of the **Choices** field in [Create a question in the survey designer](../task/t_CreateQuestSurveyDesigr.md).**Note:** The Choice values can only be numeric, string values will not be saved.
+List of predefined options. For more information, see the definition of the **Choices** field in [Create a question in the survey designer](t_CreateQuestSurveyDesigr.md).**Note:** The Choice values can only be numeric, string values will not be saved.
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ Yes
 
 </td><td>
 
-Choice list of templates that provide a predefined scale of options. For details, see [Quiz scorecards](../../assessments/concept/c_QuizScorecards.md).
+Choice list of templates that provide a predefined scale of options. For details, see [Quiz scorecards](c_QuizScorecards.md).
 
 </td></tr><tr><td>
 
@@ -229,7 +229,7 @@ This tab displays all metric categories added to the question bank for surveys. 
 The tabs on the header bar display views and a menu of functions. Click a tab to change the view on the canvas:
 
 -   **Design**: Add and configure the properties of categories and questions. This is the default view.
--   **Configuration**: Create introductions and end notes for surveys and select a [signature](../../assessments/task/t_CreateAnAssessmentSignature.md).
+-   **Configuration**: Create introductions and end notes for surveys and select a [signature](t_CreateAnAssessmentSignature.md).
 -   **Availability**: Select the recipients for each category in the survey.
 
 Point to the menu icon \(![Menu icon](../image/Menu.png)\) to select an option. The list of options depends on the currently open survey.
@@ -253,17 +253,17 @@ New surveys open in the canvas of the **Design** view. The survey **Name** field
 **Related topics**  
 
 
-[Configure a survey in the survey designer](../task/t_ConfigSurveyInSurveyDesgnr.md)
+[Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md)
 
 [Survey categories](c_SurveyCategory.md)
 
-[Create a question in the survey designer](../task/t_CreateQuestSurveyDesigr.md)
+[Create a question in the survey designer](t_CreateQuestSurveyDesigr.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
-[Create custom metric type](../task/create-custom-templates-questions.md)
+[Create custom metric type](create-custom-templates-questions.md)
 
-[Edit a survey in the survey designer](../task/t_EditASurveyInTheSurveyDesigner.md)
+[Edit a survey in the survey designer](t_EditASurveyInTheSurveyDesigner.md)
 
-[Configure category weights for a survey](../task/t_ConfigCatWeightsForSurvey.md)
+[Configure category weights for a survey](t_ConfigCatWeightsForSurvey.md)
 

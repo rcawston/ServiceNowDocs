@@ -32,7 +32,7 @@ Field comparison compares the dictionary **Value** field of a choice list, not t
 
 ## Comparing empty fields
 
-By default, most filter operations do not return empty fields in their result set. To include records with empty fields in a result set, add a filter condition for the left operand with an operator of **\[is empty\]**. For more information, see [Filtering on empty fields](../../../use/common-ui-elements/task/t_FilteringOnEmptyFields.md).
+By default, most filter operations do not return empty fields in their result set. To include records with empty fields in a result set, add a filter condition for the left operand with an operator of **\[is empty\]**. For more information, see [Filtering on empty fields](t_FilteringOnEmptyFields.md).
 
 ## Using operators and operands
 
@@ -62,7 +62,7 @@ Date comparison allows you to evaluate equality between two components of the da
 
 Date comparisons are based on the active user's time zone. For example, as a user in the PST time zone, a filter of **\[Created\] \[is same\] \[Day\] as \[Closed\]** evaluates true for an incident created at 6 AM PST and closed at 3:00 PM PST as both times are within the same day. However, a user in the GMT time zone would not see this same incident record in response to the example filter; in GMT those times do not fall on the same date.
 
-You can [Evaluate equality between date values](../task/t_EvaluatingEqualityBetweenDates.md) and you can evaluate unequal dates within a range.
+You can [Evaluate equality between date values](t_EvaluatingEqualityBetweenDates.md) and you can evaluate unequal dates within a range.
 
 ## Evaluate unequal dates within a range
 
@@ -76,15 +76,15 @@ You can compare unequal date field values by evaluating whether two dates fall w
 |Unit of time|Hours, Days, Weeks, Months, Quarters, Years|
 |Relative position of dates|before, after, before or after|
 
--   **[Evaluate equality between date values](../task/t_EvaluatingEqualityBetweenDates.md)**  
+-   **[Evaluate equality between date values](t_EvaluatingEqualityBetweenDates.md)**  
 Date comparison evaluates a match for one of several date increments.
 
-**Parent Topic:**[Condition builder](../../../use/common-ui-elements/concept/c_ConditionBuilder.md)
+**Parent Topic:**[Condition builder](c_ConditionBuilder.md)
 
 **Related topics**  
 
 
-[Filtering on empty fields](../../../use/common-ui-elements/task/t_FilteringOnEmptyFields.md)
+[Filtering on empty fields](t_FilteringOnEmptyFields.md)
 
-[Values for date/time fields](../../../use/common-ui-elements/concept/c_ValuesForDateTimeFields.md#)
+[Values for date/time fields](c_ValuesForDateTimeFields.md#)
 

@@ -13,7 +13,7 @@ breadcrumb: [IT Operations Management]
 
 # ITOM Visibility
 
-The ServiceNow® ITOM Visibility product consists of ServiceNow® [Discovery](../../discovery/reference/r-discovery.md), [Firewall Audits and Reporting](../../discovery/reference/firewall-audit-reporting.md), [Certificate Inventory and Management](../../discovery/reference/cert-inventory-mgmt.md), [Service Mapping](../../service-mapping/reference/c_ServiceMappingOverview.md), [AI Agent Topology Mapping](../../ai-agent-topology-mapping/concept/ai-agent-topology-mapping-landing.md), [ITOM Content Service](../../discovery/concept/discovery-content-services.md), [Tag Governance](landing-page-tag-governance.md), [Cloud Discovery Workspace](../../cloud-operations-workspace/reference/cow-landing-page.md), and [Cloud License Estimator](../../cloud-license-estimator/Concept/cloud-license-estimator-landing.md) applications. Discovery and Service Mapping give you a unified, connected view of your entire IT network and the services that it supports. The [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md) and [CMDB 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/multisource-cmdb.md) applications provide data to ITOM Visibility.
+The ServiceNow® ITOM Visibility product consists of ServiceNow® [Discovery](../discovery/r-discovery.md), [Firewall Audits and Reporting](../discovery/firewall-audit-reporting.md), [Certificate Inventory and Management](../discovery/cert-inventory-mgmt.md), [Service Mapping](../service-mapping/c_ServiceMappingOverview.md), [AI Agent Topology Mapping](ai-agent-topology-mapping-landing.md), [ITOM Content Service](discovery-content-services.md), [Tag Governance](../tag-governance/landing-page-tag-governance.md), [Cloud Discovery Workspace](../cloud-discovery-workspace/cow-landing-page.md), and [Cloud License Estimator](../cloud-license-estimator/cloud-license-estimator-landing.md) applications. Discovery and Service Mapping give you a unified, connected view of your entire IT network and the services that it supports. The [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md) and [CMDB 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/multisource-cmdb.md) applications provide data to ITOM Visibility.
 
 ## Who uses ITOM Visibility
 
@@ -25,11 +25,11 @@ ServiceNow® Configuration Management Database \(CMDB\) is not just an operation
 
 Data collected by ITOM Visibility provides a foundation for operation of the following business units and products of ServiceNow AI Platform:
 
--   **[ITOM AIOps](itom-health-landing-page.md)**
+-   **[ITOM AIOps](../itom-health-landing-page.md)**
 
     Use ITOM AIOps to track and maintain the health of services in your organization. ITOM AIOps gathers alerts from infrastructure events captured by third-party monitoring tools. It then uses IT-related information gathered by Discovery to map alerts to configuration items. Based on the collected information, ITOM AIOps provides dashboards showing a consolidated view of all service-impact events. You can also use ITOM AIOps to proactively analyze your IT infrastructure to spot issues and prevent service outages. Using advanced machine learning to analyze information about your IT infrastructure, the application automatically determines dynamic thresholds and identifies anomalies that may indicate potential service outages.
 
--   **[ITOM Optimization](itom-optimization-landing-page.md)**
+-   **[ITOM Optimization](../itom-optimization-landing-page.md)**
 
     ITOM Optimization gives you tools to provision private and public cloud infrastructure and services and to achieve consistent management and cost visibility. The [Cloud Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/cloud-insights-landing-page.md) application, available in the ServiceNow Store, helps you to analyze the full range of costs associated with cloud assets so you can identify and take action on opportunities to save money and optimize operations.
 
@@ -66,15 +66,15 @@ The Service Mapping feature maps dependencies, based on a connection between dev
 
 Discovery can use scripts to collect and process data on a host and then update the CMDB. Scripts that explore or investigate CIs on your network are called probes. Sensors are the scripts that parse the data returned from the probes. In addition, Discovery uses discovery patterns. A pattern is a sequence of operations whose purpose is to detect attributes of devices and applications and, when used by Service Mapping, their outbound connections.
 
-Service Mapping can deploy different methods for creating application services. Discovery patterns are the main method used by Service Mapping. However, you can also map application services using tags, and traffic connections between devices and applications. For more information, see [Choose the right method for mapping application services](../../service-mapping/concept/choose-mapping-method.md).
+Service Mapping can deploy different methods for creating application services. Discovery patterns are the main method used by Service Mapping. However, you can also map application services using tags, and traffic connections between devices and applications. For more information, see [Choose the right method for mapping application services](../service-mapping/choose-mapping-method.md).
 
 ## ITOM Visibility licensing
 
-The ServiceNow AI Platform® uses a licensing method where your organization is billed for using ITOM Visibility applications. Licensing options can vary based on your organization’s agreement. The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [ITOM/OT SU Licensing and subscriptions](itom-su-licensing-landing-page.md).
+The ServiceNow AI Platform® uses a licensing method where your organization is billed for using ITOM Visibility applications. Licensing options can vary based on your organization’s agreement. The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [ITOM/OT SU Licensing and subscriptions](../itom-su-licensing-landing-page.md).
 
 ## What to know before you begin
 
-ITOM Visibility is available with activation of the Discovery \(com.snc.discovery\) plugin and the Service Mapping \(com.snc.service-mapping\) plugin, which require an ITOM Visibility subscription. For details, see [Request Discovery](../../discovery/task/t_ActivateTheDiscoveryPlugin.md) and [Request Service Mapping](../../service-mapping/task/t_ActivateServiceMappingPlugin.md). For full ITOM Visibility functionality, install the latest ITOM Visibility applications from the ServiceNow Store.
+ITOM Visibility is available with activation of the Discovery \(com.snc.discovery\) plugin and the Service Mapping \(com.snc.service-mapping\) plugin, which require an ITOM Visibility subscription. For details, see [Request Discovery](../discovery/t_ActivateTheDiscoveryPlugin.md) and [Request Service Mapping](../service-mapping/t_ActivateServiceMappingPlugin.md). For full ITOM Visibility functionality, install the latest ITOM Visibility applications from the ServiceNow Store.
 
-Define users and configure credentials to enable ITOM Visibility access to applications and devices inside your organization network. For details, see [Prerequisites for performing top-down discovery using Service Mapping](../../service-mapping/reference/prerequisites-service-mapping.md).
+Define users and configure credentials to enable ITOM Visibility access to applications and devices inside your organization network. For details, see [Prerequisites for performing top-down discovery using Service Mapping](../service-mapping/prerequisites-service-mapping.md).
 

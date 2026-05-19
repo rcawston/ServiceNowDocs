@@ -39,11 +39,11 @@ Role required: sn\_sec\_cmn.admin
     |Email is from|If filled in, only emails from this address are transformed by this email parser.|
     |Email is to|If filled in, only emails from this address are transformed by this email parser.|
     |Email subject contains|If filled in, only emails where the subject contains this phrase are transformed by this email parser.|
-    |Duplication rule|Governs how to handle duplicate emails for any email this transform handles. For more information, see [Shared data transformation](../concept/shared-data-transformation.md).|
+    |Duplication rule|Governs how to handle duplicate emails for any email this transform handles. For more information, see [Shared data transformation](shared-data-transformation.md).|
     |Order|In what order to consider the transforms. The first matching email transform is used. Typically, you want to set up the most specific email parsers in the lower numbers, with some fallback. Give catchall email parsers higher **Order** numbers so they run if nothing else matches. Default is 100. When everything matches, the most specific email parser \(matches **from**, **to**, and **subject**\) is used.|
     |Destination table|The table where you want to create records.|
     |Active|Whether this transform is active, in use, or not active. If unchecked, no emails are transformed with this code.|
-    |Record Separator|When emails handled by this email parser create multiple records, this field contains the separator between the information for those records. See [Security Operations email parsing](../concept/email-parsing.md) for more information.|
+    |Record Separator|When emails handled by this email parser create multiple records, this field contains the separator between the information for those records. See [Security Operations email parsing](email-parsing.md) for more information.|
     |Description|Description of this email parser, which tool it works with, the purpose, and so on.|
 
 4.  When you have completed your entries, select and hold \(or right-click\) in the form header and select **Save**.
@@ -132,7 +132,7 @@ Select the location in the email to search. Choices include:-   **At the start o
 -   **Anywhere in the email body**
 -   **In the email subject line**
 -   **Always the static value**
- When you have defined a **Record Separator**, more options \(**Anywhere within the record section** and **At the start of a line within the record section**\) enable you to search only within the current section instead of in the entire email body \(See [Security Operations email parsing](../concept/email-parsing.md) for more information\).
+ When you have defined a **Record Separator**, more options \(**Anywhere within the record section** and **At the start of a line within the record section**\) enable you to search only within the current section instead of in the entire email body \(See [Security Operations email parsing](email-parsing.md) for more information\).
 
  Information that is in a header or footer, applying to all records, is searched for in the entire email body. The information that differs between records is searched for only within the section.
 
@@ -216,7 +216,7 @@ The default is checked. When checked, the field transform is activated. Clear th
         The new record is used to parse the information in the email into a new record.
 
 
-**Parent Topic:**[Security Operations email parsing](../concept/email-parsing.md)
+**Parent Topic:**[Security Operations email parsing](email-parsing.md)
 
 **Related topics**  
 
@@ -225,5 +225,5 @@ The default is checked. When checked, the field transform is activated. Clear th
 
 [Create Security Operations field value transforms](create-field-value-transforms.md)
 
-[Define Vulnerability Response email notifications](../../vulnerability-response/task/t_DefineEmailNotifications.md)
+[Define Vulnerability Response email notifications](vulnerability-response/t_DefineEmailNotifications.md)
 

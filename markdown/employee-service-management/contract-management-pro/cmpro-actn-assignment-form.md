@@ -15,7 +15,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 Learn about the fields of the Action Assignment form. Use this form to add the New action button to your workspace.
 
-Use the action assignment form to define a action button in your workspace and map it to the built-in action that initiates a contract request. For more information, see [Add a workspace action button for initiating a contract request](../task/cncore-config-initiate-cont.md).
+Use the action assignment form to define a action button in your workspace and map it to the built-in action that initiates a contract request. For more information, see [Add a workspace action button for initiating a contract request](cncore-config-initiate-cont.md).
 
 |Field|Description|
 |-----|-----------|
@@ -30,7 +30,7 @@ Use the action assignment form to define a action button in your workspace and m
 |Tooltip|Text that displays when agents point their cursor over the button.|
 |Description|Description for the action that's displayed in the Action Assignments list.|
 
-**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
 
 **Related topics**  
 
@@ -59,7 +59,7 @@ Use the action assignment form to define a action button in your workspace and m
 
 [Obligation Management notifications](cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](contract-management-pro-glossary.md#)
 
 [Contract Management solutions](cmpro-cml-feature-compare.md)
 

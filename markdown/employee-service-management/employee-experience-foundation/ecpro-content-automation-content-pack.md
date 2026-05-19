@@ -17,7 +17,7 @@ Content Analytics collects data on user interactions and generates visualization
 
 Use Content Analytics to measure the effectiveness of a campaign and the content provided to your employees. Content Analytics is one of several resources to help you improve your campaigns. To learn about the other resources, see [Analyzing your campaign for effectiveness](ecpro-content-automation-reevaluate-audience.md).
 
-When tracking is enabled for a campaign, Content Analytics generates data visualizations. For more information on how to enable tracking, see [Create a campaign](../task/ecpro-create-campaign.md).![Enable tracking for a campaign](../images/campaign-tracking.png)
+When tracking is enabled for a campaign, Content Analytics generates data visualizations. For more information on how to enable tracking, see [Create a campaign](ecpro-create-campaign.md).![Enable tracking for a campaign](../images/campaign-tracking.png)
 
 **Note:** We recommend waiting at least 24 hours after publishing for data to appear on the dashboards.
 
@@ -182,7 +182,7 @@ Campaign impact
 
 </td><td>
 
-Campaign impact shows data related to your established campaign success goals. For more information on creating campaign success goals, see [Create campaign success goals](../task/ecpro-create-campaign-success-criteria.md).
+Campaign impact shows data related to your established campaign success goals. For more information on creating campaign success goals, see [Create campaign success goals](ecpro-create-campaign-success-criteria.md).
 
  Select a campaign success goal to view a chart that shows how your campaign is progressing. The campaign impact chart shows:
 
@@ -193,24 +193,24 @@ Campaign impact shows data related to your established campaign success goals. F
 -   Forecast Evaluation Count: Shows how close the campaign is to the target count and when it might be reached.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Employee Center Pro reference](../reference/emp-center-pro-reference.md)
+</table>**Parent Topic:**[Employee Center Pro reference](emp-center-pro-reference.md)
 
 **Related topics**  
 
 
-[Block content form](../reference/block-content-form.md)
+[Block content form](block-content-form.md)
 
-[Components installed with Employee Center Pro](../reference/components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)
 
-[Components installed with Content engagement](../reference/installed-content-engagement.md)
+[Components installed with Content engagement](installed-content-engagement.md)
 
-[Components installed with Content Experiences](../reference/installed-with-content-auto.md)
+[Components installed with Content Experiences](installed-with-content-auto.md)
 
-[Components installed with Content Publishing](../reference/installed-with-content-delivery.md)
+[Components installed with Content Publishing](installed-with-content-delivery.md)
 
-[Components installed with Content Governance](../reference/ec-installed-content-governance.md)
+[Components installed with Content Governance](ec-installed-content-governance.md)
 
-[Components installed with Content Analytics](../reference/ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)
 
 [Content Analytics dashboards](content-analytics-dashboards.md)
 
@@ -218,23 +218,23 @@ Campaign impact shows data related to your established campaign success goals. F
 
 [Content Library Overview dashboard](content-library-overview-dashboard.md)
 
-[Employee Center Pro widgets](../reference/employee-center-pro-widgets-list.md)
+[Employee Center Pro widgets](employee-center-pro-widgets-list.md)
 
-[Feedback configuration form](../reference/ex-feedback-new-record.md)
+[Feedback configuration form](ex-feedback-new-record.md)
 
-[Feedback definition form](../reference/fdbck-dfnition-record.md)
+[Feedback definition form](fdbck-dfnition-record.md)
 
-[Link content form](../reference/link-content-form.md)
+[Link content form](link-content-form.md)
 
-[Notification content form](../reference/notification-content-form.md)
+[Notification content form](notification-content-form.md)
 
-[Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md)
+[Properties installed with Content Experiences](properties-installed-with-content-auto.md)
 
-[Properties installed with Content Governance](../reference/properties-installed-content-governance.md)
+[Properties installed with Content Governance](properties-installed-content-governance.md)
 
-[Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
+[Properties installed with Content Publishing](properties-with-content-delivery.md)
 
-[Standard banner and icon sizes](../reference/ec-portal-images-size.md)
+[Standard banner and icon sizes](ec-portal-images-size.md)
 
-[To-do content form](../reference/to-do-content-form.md)
+[To-do content form](to-do-content-form.md)
 

@@ -48,5 +48,5 @@ The taxonomy feature enables you to link an article to one or more topics from m
 
 The selected article is associated with a taxonomy category for better content browsing.
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 

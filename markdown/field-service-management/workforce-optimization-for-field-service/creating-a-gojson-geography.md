@@ -54,7 +54,7 @@ After creating a GeoJSON geography, connect it to a territory for work order man
 
 ### What to do next
 
-Link the geography to a territory. For more information, see [Create a Field Service territory](../task/create-territories-territory-planning-console.md).
+Link the geography to a territory. For more information, see [Create a Field Service territory](create-territories-territory-planning-console.md).
 
 ## Create a GeoJSON geography in Territory Planning console
 
@@ -105,5 +105,5 @@ After creating a GeoJSON geography, connect it to a territory for work order man
 
 ### What to do next
 
-Link the geography to a territory. For more information, see [Create a Field Service territory](../task/create-territories-territory-planning-console.md).
+Link the geography to a territory. For more information, see [Create a Field Service territory](create-territories-territory-planning-console.md).
 

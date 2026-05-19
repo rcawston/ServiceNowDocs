@@ -25,7 +25,7 @@ Available as an Workflow Studio action step. Users with the action\_designer rol
 
 ## Payload size limit
 
-At runtime, XML parser step supports payloads up to 10 MB. For larger payloads, create a Data Stream action. For more information, see [Data Stream actions and pagination](../../integrationhub/concept/data-stream-actions.md).
+At runtime, XML parser step supports payloads up to 10 MB. For larger payloads, create a Data Stream action. For more information, see [Data Stream actions and pagination](data-stream-actions.md).
 
 At design time, XML parser step supports sample payloads up to 64,000 characters.
 

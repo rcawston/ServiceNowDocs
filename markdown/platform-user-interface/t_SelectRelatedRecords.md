@@ -44,7 +44,7 @@ Role required: none
         The new record is added to the related table and to the related list of the record.
 
 
-**Parent Topic:**[Related lists](../concept/c_RelatedLists.md)
+**Parent Topic:**[Related lists](c_RelatedLists.md)
 
 **Related topics**  
 
@@ -55,9 +55,9 @@ Role required: none
 
 [Configure the edit option](t_ConfigureTheEditOption.md)
 
-[Create defined related lists](../../../administer/form-administration/task/t_CreateDefinedRelatedLists.md)
+[Create defined related lists](t_CreateDefinedRelatedLists.md)
 
-[Add fields to selections in a related list](../../../administer/form-administration/task/t_AddingFieldsToARelatedList.md)
+[Add fields to selections in a related list](t_AddingFieldsToARelatedList.md)
 
-[Create a default filter for list selector records](../../../administer/form-administration/task/t_CreateDefaultRelatedRecSecFilter.md)
+[Create a default filter for list selector records](t_CreateDefaultRelatedRecSecFilter.md)
 

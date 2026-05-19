@@ -212,7 +212,7 @@ Consumers with configured consumer relationships
 
 </td><td>
 
-Use relationships to provide internal and external users with additional access to customer data. For more information, see [Create relationships](../task/configure-data-model-relationships.md).
+Use relationships to provide internal and external users with additional access to customer data. For more information, see [Create relationships](configure-data-model-relationships.md).
 
 </td></tr><tr><td>
 
@@ -220,7 +220,7 @@ Consumers who are designated as head of household
 
 </td><td>
 
-A household is made up of a group of consumers who live at a common address and share products and services. A household can have a designated head of household and multiple current members. For more information, see [Create or update a household](../task/create-consumer-household.md).
+A household is made up of a group of consumers who live at a common address and share products and services. A household can have a designated head of household and multiple current members. For more information, see [Create or update a household](create-consumer-household.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -331,11 +331,11 @@ An Outsourced Service Provider \(OSP\) role. Users with this role can fulfill th
 </td></tr></tbody>
 </table>For more information about these roles, see the following topics:
 
--   [Roles installed with Customer Service Management](../reference/r_RolesInstalledWithCustomerService.md)
--   [Contributor user roles](../reference/csm-contributor-user-roles.md)
--   Service Model Foundation - [Assign roles](../task/configure-data-model-roles.md)
--   [Roles installed with customer access management](../reference/r_rolesinstalledwithcustaccessmgmt.md)
--   [Roles for Outsourced Customer Service](../reference/roles-ocs.md)
+-   [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md)
+-   [Contributor user roles](csm-contributor-user-roles.md)
+-   Service Model Foundation - [Assign roles](configure-data-model-roles.md)
+-   [Roles installed with customer access management](r_rolesinstalledwithcustaccessmgmt.md)
+-   [Roles for Outsourced Customer Service](roles-ocs.md)
 
 **Related topics**  
 
@@ -346,5 +346,5 @@ An Outsourced Service Provider \(OSP\) role. Users with this role can fulfill th
 
 [Manage customer service case types](manage-csm-case-types.md)
 
-[Create a customer service case of a specific type](../task/create-case-of-specific-case-type.md)
+[Create a customer service case of a specific type](create-case-of-specific-case-type.md)
 

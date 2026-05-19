@@ -37,7 +37,7 @@ The Digital Resilience Third-party Information Register provides the following c
 
 All RoI-related actions are performed in the **Digital resilience third-party registers** section in the Operational Resilience Workspace. This workspace provides access to download/upload requests, validation tools, and main templates.
 
-For more information, see [Generate a Register of Information package](../task/opres-drtp-gen-roi-pkg.md).
+For more information, see [Generate a Register of Information package](opres-drtp-gen-roi-pkg.md).
 
 **Parent Topic:**[Exploring Digital resilience third-party registers](exploring-digi-resi-third-party-registers.md)
 

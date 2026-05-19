@@ -19,7 +19,7 @@ For example, the app generation skill is embedded in ServiceNow Studio, enabling
 
 In addition to the app generation skill, Now Assist for Creator contains AI assets for each stage in the app development process, such as generating code, UI experiences, Automated Test Framework \(ATF\) test suites, and more.
 
-For more information, see [Now Assist for Creator](../../../administer/flow-designer/concept/now-assist-for-creator-landing.md).
+For more information, see [Now Assist for Creator](now-assist-for-creator/now-assist-for-creator-landing.md).
 
 **Parent Topic:**[Use AI to build apps faster](dev-get-start-use-ai-to-build-faster.md)
 

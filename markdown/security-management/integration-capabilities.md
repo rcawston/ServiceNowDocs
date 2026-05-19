@@ -17,7 +17,7 @@ Each integration capability persists in the Integration Capability `[sn_sec_cmn_
 
 **Note:** As of version 13.3.1 and later, integration capability settings are stored in the Capabilities `[sn_sec_cmn_capability]` table instead of the Integration Capability `[sn_sec_cmn_integration_capability]` table.
 
-The implementation specifies the flow to be executed, the related integration \(plugin id\), and the capability it implements. These flows can be executed in parallel using the parallel flow launcher; however, sequential execution is the default in the base system. If needed, you can [change the order of execution](../task/change-wf-execution-order.md).
+The implementation specifies the flow to be executed, the related integration \(plugin id\), and the capability it implements. These flows can be executed in parallel using the parallel flow launcher; however, sequential execution is the default in the base system. If needed, you can [change the order of execution](change-wf-execution-order.md).
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
@@ -41,8 +41,8 @@ The Publish to Watchlist capability adds observables and indicators associated w
 The **Sightings Search** capability accepts a set of observables, finds any integrations that support a Sightings Search, then executes these searches.
 -   **[Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)**  
 The **Threat Lookups** capability performs threat intelligence lookups to determine whether one or more observables are associated with known security threats.
--   **[Change the order of flow execution](../task/change-wf-execution-order.md)**  
+-   **[Change the order of flow execution](change-wf-execution-order.md)**  
 Integration capability implementations specify the flow to be executed. In the base system, flows are executed sequentially, in the order specified in the implementation. You can change the order as needed.
 
-**Parent Topic:**[Security Operations Integration Reference](../../secops-integration-reference/concept/secops-integ-ref.md)
+**Parent Topic:**[Security Operations Integration Reference](secops-integ-ref.md)
 

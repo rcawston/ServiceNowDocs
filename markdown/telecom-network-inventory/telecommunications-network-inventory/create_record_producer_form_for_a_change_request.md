@@ -42,5 +42,5 @@ When you select **Changes** &gt; **All** and the **Next** button for the added c
 
 You can also assign a record producer to a change task of a change request. To learn more, see [Assign a record producer form for a request type of a change task](assign_record_producer_form_for_a_change_task_of_a_change_request.md).
 
-**Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](../concept/decision_tables.md)
+**Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](decision_tables.md)
 

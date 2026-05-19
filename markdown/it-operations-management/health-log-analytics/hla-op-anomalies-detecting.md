@@ -30,17 +30,17 @@ Health Log Analytics monitors multiple metrics in the log stream to detect anoma
 
 As an operator, you can provide feedback about the generated alerts. Your feedback "teaches" Health Log Analytics that a specific alert is significant or irrelevant to you. The application then either raises the priority of the alert metric or mutes it to reduce noise.
 
--   A significant alert is more likely to be included in a Log Analytics group when the associated metric behaves anomalously. For more information, see [Mark an alert as significant in Health Log Analytics](../task/hla-op-alert-make-significant-sow.md).
--   Mute an alert for a specified source to eliminate distracting new alerts for unimportant issues. When a metric is muted, Health Log Analytics removes the current alert and any other alerts based on that metric from the feed. It also stops generating new alerts from that metric. For more information, see [Mute an unimportant alert in Health Log Analytics](../task/hla-op-alert-mute-sow.md).
--   When the situation changes, you can return a significant metric to its default significance. You can also reactivate a muted metric to cause the system to start generating alerts again. For more information, see [Restore normal importance to an alert metric in Health Log Analytics](../task/hla-op-alert-restore-user-defined-sow.md).
+-   A significant alert is more likely to be included in a Log Analytics group when the associated metric behaves anomalously. For more information, see [Mark an alert as significant in Health Log Analytics](hla-op-alert-make-significant-sow.md).
+-   Mute an alert for a specified source to eliminate distracting new alerts for unimportant issues. When a metric is muted, Health Log Analytics removes the current alert and any other alerts based on that metric from the feed. It also stops generating new alerts from that metric. For more information, see [Mute an unimportant alert in Health Log Analytics](hla-op-alert-mute-sow.md).
+-   When the situation changes, you can return a significant metric to its default significance. You can also reactivate a muted metric to cause the system to start generating alerts again. For more information, see [Restore normal importance to an alert metric in Health Log Analytics](hla-op-alert-restore-user-defined-sow.md).
 
 ## Lexical keywords
 
 Health Log Analytics scans your logs for words that can indicate important issues. Lexical keywords such as "crashed" or "failed" signal a condition that can merit attention.
 
-The system sets a threshold for each lexical keyword that is based on what it considers the normal occurrence pattern and frequency of that keyword in your logs. When it scans your logs, it finds all occurrences of the keyword. If the number exceeds the threshold, it generates an alert. For more information, see [View the lexical keywords that generate alerts in Health Log Analytics](../task/hla-op-lexical-keywords-manage.md).
+The system sets a threshold for each lexical keyword that is based on what it considers the normal occurrence pattern and frequency of that keyword in your logs. When it scans your logs, it finds all occurrences of the keyword. If the number exceeds the threshold, it generates an alert. For more information, see [View the lexical keywords that generate alerts in Health Log Analytics](hla-op-lexical-keywords-manage.md).
 
-For information about managing global keywords, see [Add, edit, or delete lexical keywords in Health Log Analytics](../../health-log-analytics-admin/task/hla-lexical-keywords-admin.md). To create or delete keywords for a specific source type, see [Configure source type capabilities in Health Log Analytics](../../health-log-analytics-admin/task/hla-source-types.md).
+For information about managing global keywords, see [Add, edit, or delete lexical keywords in Health Log Analytics](hla-lexical-keywords-admin.md). To create or delete keywords for a specific source type, see [Configure source type capabilities in Health Log Analytics](hla-source-types.md).
 
 ## Correlations
 
@@ -48,11 +48,11 @@ Log correlators are keys or values in log data that detect correlations between 
 
 ## Advanced alert filtering
 
-Add advanced log alert filters to scan alerts for conditions that you specify. The filters reduce noise by dropping alerts that do not indicate a significant issue. While developing a filter, you can test, update, publish, or activate the filter at any time. For more information, see [Create advanced log alert filters](../task/hla-op-adv-alert-filter-crud.md).
+Add advanced log alert filters to scan alerts for conditions that you specify. The filters reduce noise by dropping alerts that do not indicate a significant issue. While developing a filter, you can test, update, publish, or activate the filter at any time. For more information, see [Create advanced log alert filters](hla-op-adv-alert-filter-crud.md).
 
 ## Custom alert rules
 
-Define a Log Analytics alert rule when you encounter log data that should generate an alert. The alert rule generates an alert for a specified metric with a threshold that you specify and sets the properties of the generated alert. For more information, see [About Log Analytics alert rules](../../health-log-analytics-admin/concept/hla-custom-alert-rules.md).
+Define a Log Analytics alert rule when you encounter log data that should generate an alert. The alert rule generates an alert for a specified metric with a threshold that you specify and sets the properties of the generated alert. For more information, see [About Log Analytics alert rules](hla-custom-alert-rules.md).
 
-**Parent Topic:**[Exploring Health Log Analytics](../../health-log-analytics-admin/concept/hla-exploring.md)
+**Parent Topic:**[Exploring Health Log Analytics](hla-exploring.md)
 

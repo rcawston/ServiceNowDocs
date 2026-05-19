@@ -36,11 +36,11 @@ Time cards also have an optional approval mechanism for project managers to appr
 |Rejected|A rejected time card.|
 |Recalled|An approved time card recalled for any required adjustments.|
 
--   **[Create a time card](../task/t_CreateATimeCard.md)**  
+-   **[Create a time card](t_CreateATimeCard.md)**  
 You can create time cards to log time against the work you have done.
--   **[Submit a time card](../task/submit-time-card.md)**  
+-   **[Submit a time card](submit-time-card.md)**  
 As a time card user, once a time card for the week is updated with the time worked, you can submit the time card individually.
--   **[Approve or reject a time card](../task/approve-time-card.md)**  
+-   **[Approve or reject a time card](approve-time-card.md)**  
 As a time card approver, you can view and approve or reject a submitted time card.
 
 **Parent Topic:**[Time Card Management](time-card-management.md)

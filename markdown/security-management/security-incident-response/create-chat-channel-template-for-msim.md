@@ -99,5 +99,5 @@ Major Security Incident \(sn\_msi\_incident\).
 
 The chat channel is now created and the users are assigned to those chat channel groups. You can view the collaboration chat activities both in Microsoft Teams and in the Collaboration activity stream of the MSIM Workspace with the organized chat channel hierarchy structure as configured in the Chat Channel provider configuration.
 
-**Parent Topic:**[Configure Microsoft Teams](../../security-incident-response/concept/chat-channel-provider-config.md)
+**Parent Topic:**[Configure Microsoft Teams](chat-channel-provider-config.md)
 

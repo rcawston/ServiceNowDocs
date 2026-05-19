@@ -21,7 +21,7 @@ You can verify the automatically created events after you configure the event cr
 
 ### Automatic event creation profile
 
-[Configuring the automatic event creation profile](../task/configure-automatic-event-creation-profile.md#) is done by the sn\_si.admin or the sn\_ti.admin user roles in the **MISP Integration** &gt; **Automatic Event Creation Profiles** module.
+[Configuring the automatic event creation profile](configure-automatic-event-creation-profile.md#) is done by the sn\_si.admin or the sn\_ti.admin user roles in the **MISP Integration** &gt; **Automatic Event Creation Profiles** module.
 
 ### Viewing the MISP event data
 
@@ -31,7 +31,7 @@ You can view the created events in the following ways:
 
     ![View the work notes for created events.](../image/misp-event-creation-worknotes.png "Work notes for created events")
 
--   Click the [Associated MISP Events](../reference/associated-misp-events.md) related list. Here, you can view the event in relation to the security incident and the MISP resources as shown in the following example.
+-   Click the [Associated MISP Events](associated-misp-events.md) related list. Here, you can view the event in relation to the security incident and the MISP resources as shown in the following example.
 
     ![View the list of associated events](../image/misp-associated-event-list.png "List of associated events")
 
@@ -46,7 +46,7 @@ Manually create events in MISP from the ServiceNow AI Platform to capture contex
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Role required: sn\_sec\_misp.write
 
 ### Procedure
@@ -190,7 +190,7 @@ Option that allows you to add MISP tags to the events that are created from Serv
 
     -   A success message appears at the top of the security incident page. You can view the event details in the ServiceNow AI Platform instance and also as it appears in the MISP server.
     -   In the work notes, you can view the success message with more details. You can also view the event details in the ServiceNow AI Platform instance and also as it appears in the MISP server.
-    -   In the [Associated MISP Events](../reference/associated-misp-events.md) related list, you can view the event in relation to the security incident and the MISP resources.
+    -   In the [Associated MISP Events](associated-misp-events.md) related list, you can view the event in relation to the security incident and the MISP resources.
 
 ## Add attributes to a MISP event
 
@@ -198,7 +198,7 @@ Add attributes to an event, such as the type, category, and other contextual inf
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Verify that the event that you are adding or updating the attribute belongs to the same organization as the MISP user.
 -   Role required: sn\_sec\_misp.write
 
@@ -288,7 +288,7 @@ Add tags in ServiceNow AI Platform MISP to classify events or attributes. You ca
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Verify that the event you are editing belongs to the same organization as the MISP user.
 -   Note that the tags and galaxies that are available to you are based on the MISP source and its distribution permissions.
 -   Role required: sn\_sec\_misp.write
@@ -491,7 +491,7 @@ Add or remove galaxies in ServiceNow AI Platform MISP so that you can classify t
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) required for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) required for using the MISP bi-directional features.
 -   To add local galaxies, the user who has configured the integration should belong to host organization of the corresponding MISP server.
 -   The tags and galaxies available to you are based on the MISP source and its distribution permissions.
 -   Role required: sn\_sec\_misp.write

@@ -133,5 +133,5 @@ See [Granting user access in CPQ](granting_user_access_in_logik_io.md).
     If you have confirmed none of these are true and a quote line is still not being created, then it is probable that the product sync that takes place between CPQ and Salesforce via the refresh token user has not occurred yet. This sync occurs via API every 30 minutes for test and demo environments and every 15 minutes for production. To determine when this sync last occurred, enter Salesforce and navigate to Setup → Bulk Data Load Jobs.
 
 -   
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
 

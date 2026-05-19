@@ -125,5 +125,5 @@ Option to select the enhanced capacity to support more than 1000 rows in a remot
 -   **[Define a flow logic](define-flow.md)**  
 Set the triggers and actions to define a remote table flow logic.
 
-**Parent Topic:**[Remote tables](../concept/remote-tables.md)
+**Parent Topic:**[Remote tables](remote-tables.md)
 

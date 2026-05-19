@@ -124,5 +124,5 @@ Redirect URL
 
 The system validates the OAuth credentials.
 
-**Parent Topic:**[Microsoft OneDrive integration with Document Services](../concept/one-drive-integration.md)
+**Parent Topic:**[Microsoft OneDrive integration with Document Services](one-drive-integration.md)
 

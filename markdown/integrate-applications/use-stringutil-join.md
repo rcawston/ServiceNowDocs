@@ -21,7 +21,7 @@ Role required: none
 
 You can concatenate the elements of an array into a string by applying a specified separator such as dot, comma, or pipe. For example, if the string is \{“Apple”, “Banana”, “Orange”\} and separator is dot \(.\), then the concatenated string would be "Apple.Banana.Orange".
 
-You can configure the properties for the Join component. For more information about these properties, see [Properties of the String Utilities components](../reference/util-stringutil-prop.md).
+You can configure the properties for the Join component. For more information about these properties, see [Properties of the String Utilities components](util-stringutil-prop.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ You can configure the properties for the Join component. For more information ab
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[String utilities](../concept/string-utilities.md)
+**Parent Topic:**[String utilities](string-utilities.md)
 

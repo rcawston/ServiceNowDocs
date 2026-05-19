@@ -23,7 +23,7 @@ Check out an article on [Creating catalog templates for Creator Studio](https://
 As a ServiceNow admin, you can create customized catalog templates in Service Catalog to guide users through adding forms in Creator Studio.
 -   **[Creating question sets for use in Creator Studio forms](creator-studio-creating-question-sets.md)**  
 Admins can create pre-configured question sets that can be reused across multiple forms without being changed in Creator Studio.
--   **[Show the AES template](../task/creator-studio-unhide-template.md)**  
+-   **[Show the AES template](creator-studio-unhide-template.md)**  
 You can make the App Engine Studio \(AES\) template, which is hidden by default, appear for users when they create an app in Creator Studio.
 
 **Parent Topic:**[Administering Creator Studio](administering-creator-studio.md)

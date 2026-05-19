@@ -64,5 +64,5 @@ Steps
 4.  Click **Update**.
 
 
-**Parent Topic:**[Co-owners for an investment](../concept/co-owner-for-investments.md)
+**Parent Topic:**[Co-owners for an investment](co-owner-for-investments.md)
 

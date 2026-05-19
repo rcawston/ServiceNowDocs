@@ -17,7 +17,7 @@ Use a pre-built flow to quickly automate manual work in the app you're building 
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more infor
 
 You can edit the flow to tailor it to your business needs. For more information on working with automation, see [Modify a flow](edit-flow.md).
 
-**Parent Topic:**[Add logic and automation](../concept/add-automation.md)
+**Parent Topic:**[Add logic and automation](add-automation.md)
 

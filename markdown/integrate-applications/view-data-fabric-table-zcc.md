@@ -34,5 +34,5 @@ Note that you must have read access to view records from a data fabric table in 
 
 The data source is queried and the data fabric table opens in a list view displaying records from the data source.
 
-**Parent Topic:**[Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](managing-data-fabric-tables-zcc.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_hr\_navex\_ep.admin
 
     Allow the Restricted Caller Access records with Status = **Requested** and Source Scope = **Employee Relations integration with Navex EthicsPoint**.
 
-3.  For better performance, index Source field: external\_id mapped to Target field: correlation\_id in [Transform maps](../reference/transform-maps-navex.md).
+3.  For better performance, index Source field: external\_id mapped to Target field: correlation\_id in [Transform maps](transform-maps-navex.md).
 
     For more information, see [create a table index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateCustomIndex.md).
 

@@ -148,5 +148,5 @@ Expand the coverage of service fulfillment use cases beyond those supported by s
 -   **[Add a step, section, or question to a catalog item wizard](configure-the-catalog-builder-experience.md)**  
 Add a step, section, or question to a catalog item wizard so catalog item editors can enter custom details while creating catalog items.
 
-**Parent Topic:**[Catalog Builder](../concept/catalog-builder.md)
+**Parent Topic:**[Catalog Builder](catalog-builder.md)
 

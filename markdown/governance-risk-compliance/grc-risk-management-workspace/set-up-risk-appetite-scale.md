@@ -89,5 +89,5 @@ Order of the risk appetite scale. This field enables you to set a sequence in wh
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Risk appetite setup](../concept/risk-appetite-setup.md)
+**Parent Topic:**[Risk appetite setup](risk-appetite-setup.md)
 

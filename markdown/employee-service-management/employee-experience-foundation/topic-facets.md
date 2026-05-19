@@ -21,7 +21,7 @@ The improved global search by topic facets provides filtered data based on its a
 -   The topic facets filter content by hierarchy. Select a sub-topic to get specific hierarchical data.
 -   The base system facet levels available are two. You can add up to 10 levels.
 
-    For more information on adding facet levels, see [Configure search by the topic facets](../task/config-facets.md).
+    For more information on adding facet levels, see [Configure search by the topic facets](config-facets.md).
 
 -   The two sort options available on the search are **Most relevant** and **Most recent**.
     -   Most relevant is the base system sorting option.

@@ -75,7 +75,7 @@ Modifications made in the Project Management application do not propagate to a l
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -93,11 +93,11 @@ Modifications made in the Project Management application do not propagate to a l
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 
 [Task constraints](task-constraints-project-management.md)
 
-[Link change requests to a project task](../task/t_LinkChangesToAProjectTask.md)
+[Link change requests to a project task](t_LinkChangesToAProjectTask.md)
 

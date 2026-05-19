@@ -18,7 +18,7 @@ The actions in the Virtual Agent use plugins.
 -   Password Reset \(com.glideapp.password\_reset\): This plugin is active by default.
 -   Password Reset for Virtual Agent \(com.snc.password\_reset.virtual\_agent\): You must install this plugin to use Password Reset for Virtual Agent.
 
-For more information about creating your password reset process, see [Password Reset](../reference/password-reset-landing-page.md).
+For more information about creating your password reset process, see [Password Reset](password-reset-landing-page.md).
 
 End users can initiate a password reset conversation with Virtual Agent by entering specific keywords. For example, when a user enters the keyword `Reset`, the Virtual Agent shows the **Reset Password** action. The users can select the action to initiate the password reset.
 

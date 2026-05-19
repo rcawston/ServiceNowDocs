@@ -64,5 +64,5 @@ Role required: sn\_msi.workspace\_manager
     When the final participant leaves the call, the conference call ends or select **End call** in the Conference call section to end the conference call.
 
 
-**Parent Topic:**[Integrate MSIM Conference Calls with Microsoft Teams](../concept/integrate-msim-conf-call-ms-teams.md)
+**Parent Topic:**[Integrate MSIM Conference Calls with Microsoft Teams](integrate-msim-conf-call-ms-teams.md)
 

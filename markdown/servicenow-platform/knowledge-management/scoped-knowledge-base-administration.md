@@ -28,11 +28,11 @@ To create a scoped knowledge base for an application, in addition to the knowled
 **Related topics**  
 
 
-[Create a knowledge base](../task/create-a-knowledgebase.md)
+[Create a knowledge base](create-a-knowledgebase.md)
 
 [Select an application from the application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SelectAnAppFromTheAppPicker.md)
 
 [Application administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/application-administration.md)
 
-[Control access at the knowledge base level through user criteria](../task/t_SelectUserCriteria.md)
+[Control access at the knowledge base level through user criteria](t_SelectUserCriteria.md)
 

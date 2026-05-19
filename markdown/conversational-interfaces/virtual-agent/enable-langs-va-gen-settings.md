@@ -42,5 +42,5 @@ Role required: virtual\_agent\_admin or admin
 7.  Click **Save**.
 
 
-**Parent Topic:**[Localizing Virtual Agent conversations](../concept/localize-va-topic.md)
+**Parent Topic:**[Localizing Virtual Agent conversations](localize-va-topic.md)
 

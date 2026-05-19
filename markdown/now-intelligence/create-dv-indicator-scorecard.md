@@ -15,7 +15,7 @@ The Indicator Scorecard component enables users to visualize and compare data be
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -278,7 +278,7 @@ Time series aggregation
 
 </td><td>
 
-Time series aggregation to apply to all Indicators selected. To learn more about time series aggregations, see [Applying time series aggregations](../../performance-analytics/concept/applying-time-series-aggregations.md#).
+Time series aggregation to apply to all Indicators selected. To learn more about time series aggregations, see [Applying time series aggregations](performance-analytics/applying-time-series-aggregations.md#).
 
 </td></tr><tr><td>
 
@@ -438,7 +438,7 @@ Only the **Go to data view** interaction is available. This action opens the ind
 
 -   [Add a visualization to a dashboard from the Visualization Designer](add-dv-new-db.md)
 -   [Share a data visualization in the Visualization Designer](share-dv-ac.md#)
--   [Bookmark a visualization in the Visualization Designer](../../dashboards/task/bookmark-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](bookmark-dv-ac.md)
 
-**Parent Topic:**[Creating data visualizations](../concept/creating-data-visualizations.md)
+**Parent Topic:**[Creating data visualizations](creating-data-visualizations.md)
 

@@ -18,5 +18,5 @@ A connection admin can create a connection to Apache Cassandra and give data ste
 **Related topics**  
 
 
-[Create an Apache Cassandra connection](../task/create-apache-cassandra-connection-zcc.md)
+[Create an Apache Cassandra connection](create-apache-cassandra-connection-zcc.md)
 

@@ -36,5 +36,5 @@ The system adds a Recent Selection record whenever you insert or update a refere
 **Related topics**  
 
 
-[Available system properties](../../reference-pages/reference/r_AvailableSystemProperties.md#)
+[Available system properties](r_AvailableSystemProperties.md#)
 

@@ -56,5 +56,5 @@ Role required: sn\_icw\_igt.user
 
 The task is completed successfully, and its status is changed to Closed Complete.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)
 

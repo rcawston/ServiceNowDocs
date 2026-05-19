@@ -41,12 +41,12 @@ Users receive mandatory notifications even if they disable notifications.
 
     3.  Select **Save**.
 
-        For more information about configuring the form layout, see [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#).
+        For more information about configuring the form layout, see [Configuring the form layout](configure-form-layout.md#).
 
 4.  Select the **Mandatory** check box.
 
     When a user checks their notification preferences, the control button for the mandatory notification is on and is read only.
 
 
-**Parent Topic:**[Subscription-based notifications](../concept/c_SubscriptionBasedNotifications.md)
+**Parent Topic:**[Subscription-based notifications](c_SubscriptionBasedNotifications.md)
 

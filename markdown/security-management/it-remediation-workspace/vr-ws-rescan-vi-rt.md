@@ -19,9 +19,9 @@ Rescans permit you to verify that your remediation activities, patches, and othe
 
 Rescan is supported for the following integrations in the IT Remediation Workspace. See the following topics for more information:
 
--   [Rescan Qualys vulnerable items from the Vulnerability Response workspaces](../../secops-integration-vr/qualys/task/ws-qualys-rescan.md)
--   [Rescan Rapid7 vulnerable items from the Vulnerability Response workspaces](../../secops-integration-vr/rapid7/task/ws-rapid7-rescan.md)
--   [Rescan Tenable.io and Tenable.sc vulnerable items from the Vulnerability Response workspaces](../../secops-integration-vr/tenable/task/ws-tenable-rescan.md)
+-   [Rescan Qualys vulnerable items from the Vulnerability Response workspaces](ws-qualys-rescan.md)
+-   [Rescan Rapid7 vulnerable items from the Vulnerability Response workspaces](ws-rapid7-rescan.md)
+-   [Rescan Tenable.io and Tenable.sc vulnerable items from the Vulnerability Response workspaces](ws-tenable-rescan.md)
 
 Roles required: sn\_vul.remediation\_owner for the IT Remediation Workspace.
 

@@ -44,7 +44,7 @@ Locations with alerts are listed on the left. Click the arrow on the card or the
 
 To add a favorite location, click **Manage Favorites** and search for the location. After you select it, the location name appears in the header \(**R1 S1** in the example image\). Click the location to open it directly. To remove a location from favorites, click **Manage Favorites** again and click the **\(x\)** on the location you want to remove.
 
-**Note:** The Safe Workplace Dashboard shows only PPE inventory and health screening data associated with a Workplace Core campus or building. PPE stockrooms and health screenings must have a Workplace Core campus or building selected in the **Location** field to be displayed on the dashboard. For information about creating Workplace Core campuses and buildings, see [Providing your workplace data](../../workplace-safety-mgmt/concept/providing-your-workplace-data.md).
+**Note:** The Safe Workplace Dashboard shows only PPE inventory and health screening data associated with a Workplace Core campus or building. PPE stockrooms and health screenings must have a Workplace Core campus or building selected in the **Location** field to be displayed on the dashboard. For information about creating Workplace Core campuses and buildings, see [Providing your workplace data](../safe-workplace/providing-your-workplace-data.md).
 
 ![Initial view of the Safe Workplace Dashboard pointing to one location that displays the pop-up details.](../image/swd-alerts-icons-popover-28.png "Safe Workplace Dashboard overview page")
 
@@ -94,7 +94,7 @@ This data is made available through the Safe Workplace Dashboard Vaccination Wid
 -   The number of people vaccinated per 100
 -   The number of total vaccination doses per 100
 
-Users with the admin role can add the Safe Workplace Dashboard Vaccination Widget to the Safe Workplace Dashboard Site View. For more information, see [Add a vaccination widget to the Safe Workplace Dashboard](../task/swd-add-vaccination-widget.md).
+Users with the admin role can add the Safe Workplace Dashboard Vaccination Widget to the Safe Workplace Dashboard Site View. For more information, see [Add a vaccination widget to the Safe Workplace Dashboard](swd-add-vaccination-widget.md).
 
 **Important:** Users must have the sn\_imt\_dashboard.user and sn\_imt\_vaccine.vaccine\_profile\_reader roles to see any vaccination data in the dashboard.
 
@@ -104,7 +104,7 @@ Vaccination data is pulled from the last 30 days and includes campus data based 
 
 **Note:** If data is unavailable or missing, the widget will not display data for that day \(even if available\) until the next day the scheduled jobs run successfully.
 
--   **[Add a vaccination widget to the Safe Workplace Dashboard](../task/swd-add-vaccination-widget.md)**  
+-   **[Add a vaccination widget to the Safe Workplace Dashboard](swd-add-vaccination-widget.md)**  
 As an admin, add the Safe Workplace Dashboard Vaccination widget to the Safe Workplace Dashboard Site View portal page.
 
 **Parent Topic:**[Safe Workplace Dashboard](safe-workplace-dashboard.md)

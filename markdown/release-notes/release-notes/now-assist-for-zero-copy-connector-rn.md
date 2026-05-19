@@ -44,5 +44,5 @@ Install Now Assist for Zero Copy Connector by requesting it from the ServiceNow 
 
 **Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

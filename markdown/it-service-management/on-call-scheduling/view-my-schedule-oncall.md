@@ -36,5 +36,5 @@ Role required: itil
     ![Viewing alternate rosters](../image/NewMyOnCallScheduleDetailsExpand.png)
 
 
-**Parent Topic:**[Viewing schedules and request time-off](../../user-administration/concept/viewing-schedules-and-escalation.md)
+**Parent Topic:**[Viewing schedules and request time-off](viewing-schedules-and-escalation.md)
 

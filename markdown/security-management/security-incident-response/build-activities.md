@@ -29,19 +29,19 @@ Here’s the list of activity definitions that are a part of the base system:
 |Delete Email|Security Incident \[sn\_si\_incident\]|Delete emails|Enterprise Security Case Management PAD Commons|
 |Yes No Outcome|Task \[task\]|Expected outcome|Enterprise Security Case Management PAD Commons|
 
--   **[Example Activity Definition: Send email](../task/example-activity-definition-send-email.md)**  
+-   **[Example Activity Definition: Send email](example-activity-definition-send-email.md)**  
 The following is an example of Send email activity definition.
--   **[Submit to CSF X Sandbox](../task/submit-to-csf-x-sandbox.md)**  
+-   **[Submit to CSF X Sandbox](submit-to-csf-x-sandbox.md)**  
 Submit to CSF X Sandbox is an example of an activity definition process.
 
-**Parent Topic:**[Using SIR Workspace](../../secops-analyst-workspace/reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](using-sir-workspace.md)
 
 **Related topics**  
 
 
-[Working with Security Incident Records](../../secops-analyst-workspace/concept/using-analyst-workspace.md)
+[Working with Security Incident Records](using-analyst-workspace.md)
 
-[Security Incident Playbook](../../secops-analyst-workspace/concept/security-incident-playbook.md#)
+[Security Incident Playbook](security-incident-playbook.md#)
 
 [Prerequisites for the Playbooks](getting-started-with-processes.md)
 
@@ -49,11 +49,11 @@ Submit to CSF X Sandbox is an example of an activity definition process.
 
 [Sample Playbooks for SIR Workspace](sir-workspace-playbooks.md)
 
-[Working with MSI Records](../../secops-analyst-workspace/concept/working-with-msi-records.md)
+[Working with MSI Records](working-with-msi-records.md)
 
-[Working with Form UI actions](../../secops-analyst-workspace/concept/enable_workspace_form_ui_actions.md)
+[Working with Form UI actions](enable_workspace_form_ui_actions.md)
 
-[Security Incident Closure workflow](../../secops-analyst-workspace/concept/security-incident-closure-workflow_0.md)
+[Security Incident Closure workflow](security-incident-closure-workflow_0.md)
 
-[Handle security incidents using Advanced Work Assignment](../../secops-analyst-workspace/task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](handle-incidents-using-awa.md)
 

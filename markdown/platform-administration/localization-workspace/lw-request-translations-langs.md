@@ -39,7 +39,7 @@ The following procedure covers step one of four steps in the Translation Request
 
 3.  In the **Short Description** field, enter a name for the translation request.
 
-    The Short Description is displayed in the **My Requests** list on the Home screen, so you can find and monitor your request later. For information see [Localization Workspace Home and translation job status](../concept/lw-status-synchronization.md).
+    The Short Description is displayed in the **My Requests** list on the Home screen, so you can find and monitor your request later. For information see [Localization Workspace Home and translation job status](lw-status-synchronization.md).
 
 4.  Select target languages or language groups according to the following guidance.
 

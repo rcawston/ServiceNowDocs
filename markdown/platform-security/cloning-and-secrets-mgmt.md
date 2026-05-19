@@ -22,5 +22,5 @@ After you clone an instance, your secrets groups and client secrets groups may r
 |Cloned instance secrets groups from source instance|Doesn’t work unless manually set up|
 |Cloned client secrets groups from source instance|Work if manually config sg/identity group/alias/mid|
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](client-access-secret-landing.md)
 

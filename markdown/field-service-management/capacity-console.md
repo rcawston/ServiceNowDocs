@@ -32,7 +32,7 @@ Field Service Advanced Capacity and Reservations Management provides the followi
 **Related topics**  
 
 
-[Activate Field Service Capacity console](../task/capacity-console-plugin.md)
+[Activate Field Service Capacity console](workforce-optimization-for-field-service/capacity-console-plugin.md)
 
-[Using the Capacity Console](capacity-and-reservation-management-console.md)
+[Using the Capacity Console](field-service-manager-workforce/capacity-and-reservation-management-console.md)
 

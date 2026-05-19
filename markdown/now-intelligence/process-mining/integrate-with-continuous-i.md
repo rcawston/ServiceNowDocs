@@ -70,7 +70,7 @@ Steps
 2.  On the **Continual Improvement Workbench** page header, select **Go to****Process Mining**.
 3.  Analyze the existing project or create a new Process Mining project definition for assessment.
 
-**Note:** For more information, refer to [Create a project or template using Project Builder](../task/define-workflow-model.md).
+**Note:** For more information, refer to [Create a project or template using Project Builder](define-workflow-model.md).
 
 </td></tr><tr><td id="d103536e291">
 

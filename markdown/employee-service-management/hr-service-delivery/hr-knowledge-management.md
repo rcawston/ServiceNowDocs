@@ -29,12 +29,12 @@ Each knowledge base contains knowledge articles, which are organized into catego
 
 Knowledge contributors can create HR knowledge articles in a knowledge base.
 
-For more information, see [Create an HR knowledge article](../task/create-hr-knowledge-article.md).
+For more information, see [Create an HR knowledge article](create-hr-knowledge-article.md).
 
 You can also attach or link HR knowledge articles to an HR case or HR catalog item.
 
--   [Attach knowledge articles to an HR case](../task/t_AttachKnowledgeArticleToHRCase.md)
--   [Link knowledge articles or managed documents to an HR catalog item](../task/link-knowledge-article-to-hr-catalog-item.md)
+-   [Attach knowledge articles to an HR case](t_AttachKnowledgeArticleToHRCase.md)
+-   [Link knowledge articles or managed documents to an HR catalog item](link-knowledge-article-to-hr-catalog-item.md)
 
 ## HR knowledge blocks
 
@@ -42,9 +42,9 @@ You can use knowledge blocks with HR knowledge management to simplify knowledge 
 
 For more information, see [Knowledge blocks for HR knowledge management](knowledge-blocks-for-hr-knowledge-management.md).
 
--   **[Create an HR knowledge article](../task/create-hr-knowledge-article.md)**  
+-   **[Create an HR knowledge article](create-hr-knowledge-article.md)**  
 Create or modify a knowledge article within an HR knowledge base to share HR information across your organization.
--   **[Attach knowledge articles to an HR case](../task/t_AttachKnowledgeArticleToHRCase.md)**  
+-   **[Attach knowledge articles to an HR case](t_AttachKnowledgeArticleToHRCase.md)**  
 Attach one or more knowledge articles to an HR case to help process that record. For example, you can attach an article about the company dress code policy when an HR case is submitted that asks about wearing shorts to work.
 -   **[Knowledge blocks for HR knowledge management](knowledge-blocks-for-hr-knowledge-management.md)**  
 You can use knowledge blocks with HR Service Delivery to simplify knowledge authoring for writers and knowledge consumption for readers.

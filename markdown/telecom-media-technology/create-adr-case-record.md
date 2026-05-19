@@ -35,13 +35,13 @@ Role required: sn\_telco\_adr\_mgmt\_manager
 
     1.  On the Capture initiator details form, fill in the fields.
 
-        You can submit the details of the initiator of the complaint in the Capture initiator details form. To learn more about field information, see [Capture initiator details form](../reference/capture-initiator-details-form.md).
+        You can submit the details of the initiator of the complaint in the Capture initiator details form. To learn more about field information, see [Capture initiator details form](capture-initiator-details-form.md).
 
     2.  Select **Continue**.
 
     3.  On the Capture ADR information form, fill in the fields.
 
-        You can submit the details of your complaint in the Capture ADR information form. To learn more about field information, see [Capture ADR information form](../reference/capture-adr-information-form.md).
+        You can submit the details of your complaint in the Capture ADR information form. To learn more about field information, see [Capture ADR information form](capture-adr-information-form.md).
 
     4.  Select **Mark Complete**.
 
@@ -57,7 +57,7 @@ Role required: sn\_telco\_adr\_mgmt\_manager
 
         Relevant records that match with the complaint's short description. It displays the five relevant records. You can also select the search \(\) icon to find more records that are relevant to the complaint.
 
-        **Note:** If you’re using the Now Assist for TMT, you can see the requester's sentiments on a case record. To learn more, see [Analyze the sentiment of a service problem case using Now Assist for TMT](now-assist-tmt-analyze-sentiment-spc-adr.md).
+        **Note:** If you’re using the Now Assist for TMT, you can see the requester's sentiments on a case record. To learn more, see [Analyze the sentiment of a service problem case using Now Assist for TMT](now-assist-for-telecom-media-and-technology/now-assist-tmt-analyze-sentiment-spc-adr.md).
 
         The selected records appear under the Current Linked section.
 
@@ -69,7 +69,7 @@ Role required: sn\_telco\_adr\_mgmt\_manager
 
     4.  On the Analyze linked facts card, enter your findings in the **Key findings** field.
 
-        **Note:** If you’re using the Now Assist for TMT application, you can generate the comprehensive summary of the linked records. To learn more, see [Summarize the linked records using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-tmt-summarize-linked-record.md).
+        **Note:** If you’re using the Now Assist for TMT application, you can generate the comprehensive summary of the linked records. To learn more, see [Summarize the linked records using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-for-telecom-media-and-technology/now-assist-tmt-summarize-linked-record.md).
 
     5.  Select **Continue**.
 
@@ -107,7 +107,7 @@ Resolution notes
 
 </td><td>
 
-Detailed summary to resolve the complaint.**Note:** If you’re using the Now Assist for TMT application, you can generate the resolution notes using the Now Assist component. To learn more, see [Generate resolution notes for Alternative Dispute Resolution case using Now Assist for TMT](now-assist-tmt-generate-resolution-notes-ad.md).
+Detailed summary to resolve the complaint.**Note:** If you’re using the Now Assist for TMT application, you can generate the resolution notes using the Now Assist component. To learn more, see [Generate resolution notes for Alternative Dispute Resolution case using Now Assist for TMT](now-assist-for-telecom-media-and-technology/now-assist-tmt-generate-resolution-notes-ad.md).
 
 </td></tr></tbody>
 </table>    2.  Select **Propose resolution**.
@@ -151,7 +151,7 @@ The **Continue** button appears.
 
 1.  On the Generate deadlock letter card, add the details in the **Customer correspondence content** field.
 
-**Note:** If you’re using the Now Assist for TMT application, you can generate the deadlock letter details using the Now Assist component. To learn more, see [Generate a deadlock letter using Now Assist for TMT](now-assist-tmt-generate-deadlock-letter.md).
+**Note:** If you’re using the Now Assist for TMT application, you can generate the deadlock letter details using the Now Assist component. To learn more, see [Generate a deadlock letter using Now Assist for TMT](now-assist-for-telecom-media-and-technology/now-assist-tmt-generate-deadlock-letter.md).
 
 2.  Select **Generate and send**.
 
@@ -161,12 +161,12 @@ A deadlock letter is generated in PDF format and sent to the customer via an ema
 </table>8.  On the Closure stage, Select **Close complete**.
 
 
-**Parent Topic:**[Using alternative dispute resolution case](../concept/use-alternative-dispute-resolution-case.md)
+**Parent Topic:**[Using alternative dispute resolution case](use-alternative-dispute-resolution-case.md)
 
 **Related topics**  
 
 
 [View an Alternative Dispute Resolution case record](view-adr-case.md)
 
-[Alternative dispute resolution management](../concept/alternative-dispute-resolution.md)
+[Alternative dispute resolution management](alternative-dispute-resolution.md)
 

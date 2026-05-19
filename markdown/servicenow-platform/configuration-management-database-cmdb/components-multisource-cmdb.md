@@ -119,7 +119,7 @@ sn\_cmdb\_ws.ms.calculate\_cmdb\_only
 
 </td><td>
 
-Limits the scope of data in the [Discovery sources tile in the CMDB 360 dashboard](../concept/cmdb360-exp-cmdb-workspace.md), to CMDB classes only \(derived from the cmdb\_ci class\).
+Limits the scope of data in the [Discovery sources tile in the CMDB 360 dashboard](cmdb360-exp-cmdb-workspace.md), to CMDB classes only \(derived from the cmdb\_ci class\).
 
  -   Type: true \| false
 -   Default value: true
@@ -143,7 +143,7 @@ Threshold number of CMDB 360 records that when exceeded for a class, CMDB 360 Co
  -   Type: numeric
 -   Default value: 10 million
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
--   Learn more: [CMDB 360 experience in CMDB Workspace and in Service Graph Workspace](../concept/cmdb360-exp-cmdb-workspace.md)
+-   Learn more: [CMDB 360 experience in CMDB Workspace and in Service Graph Workspace](cmdb360-exp-cmdb-workspace.md)
 
 </td></tr></tbody>
 </table>## Tables

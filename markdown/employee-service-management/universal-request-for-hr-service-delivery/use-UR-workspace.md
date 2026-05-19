@@ -241,7 +241,7 @@ Role required: sn\_uni\_req.routing\_agent or admin
 
 Consider the following scenario. An IT service desk agent with a routing agent role receives a phone call on a request and creates a new call record or an Interaction Record with the notes. After reviewing the record, the agent realizes that the request belongs to HR and not IT. In this case, the IT Agent can create a Universal Record from the interaction record and assign it to the HR assignment group.
 
-**Note:** Universal Request is not automatically created when a fulfiller creates a department ticket from an Interaction Record. You have to perform few manual steps to get this. For more information, see [Create universal request automatically for department tickets via other channels](../task/autocreate-ur-from-interactionrecord-WS.md).
+**Note:** Universal Request is not automatically created when a fulfiller creates a department ticket from an Interaction Record. You have to perform few manual steps to get this. For more information, see [Create universal request automatically for department tickets via other channels](autocreate-ur-from-interactionrecord-WS.md).
 
 ### Procedure
 
@@ -339,7 +339,7 @@ When you transfer a ticket back to universal request, you can transfer it with o
 
 ![Choose transfer reason](../images/route-dialog-aws.png)
 
-Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Request properties** page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](../reference/ur-properties.md).
+Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Request properties** page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](ur-properties.md).
 
 ### Procedure
 
@@ -351,7 +351,7 @@ Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Reques
 
 4.  In the **Transfer Ticket** dialog, provide the following details.
 
-    **Note:** Based on your transfer type configuration, the given fields are displayed. For more information, see [Universal Request properties](../reference/ur-properties.md).
+    **Note:** Based on your transfer type configuration, the given fields are displayed. For more information, see [Universal Request properties](ur-properties.md).
 
     -   **Department**: Select the department from the list.
     -   **Service**: Select the specific service of the chosen department.
@@ -363,7 +363,7 @@ Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Reques
 
 5.  Click **Transfer**.
 
-    The ticket is transferred based on the transfer and transfer type configuration. For more information, see [Transfer configuration](../task/configure-route-state.md).
+    The ticket is transferred based on the transfer and transfer type configuration. For more information, see [Transfer configuration](configure-route-state.md).
 
 
 ## Restrict universal request access in Agent Workspace

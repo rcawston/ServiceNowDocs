@@ -35,7 +35,7 @@ To view details about a specific response, point to the colored bar to display t
 
 ![Survey scorecard category results detail](../../../product/human-resources/image/SurveyScorecardResultDetail.png "Survey scorecard category results detail")
 
-**Parent Topic:**[View a survey scorecard](../task/t_ViewAScorecard.md)
+**Parent Topic:**[View a survey scorecard](t_ViewAScorecard.md)
 
 **Related topics**  
 
@@ -46,5 +46,5 @@ To view details about a specific response, point to the colored bar to display t
 
 [Survey scorecard history](r_SurveyScorecardHistory.md)
 
-[Export a survey scorecard as an image](../task/t_ExportAScorecardAsAnImage.md)
+[Export a survey scorecard as an image](t_ExportAScorecardAsAnImage.md)
 

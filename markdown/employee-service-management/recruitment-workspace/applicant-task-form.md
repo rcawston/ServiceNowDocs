@@ -26,5 +26,5 @@ The applicant task form provides the field description required to set a task fo
 |Assigned to|Applicant the task is assigned to.|
 |Attachments|Place where attachments are added by the recruiter or visible when its attached by the applicant.|
 
-**Parent Topic:**[Recruitment Workspace reference](../concept/recruitment-workspace-reference.md)
+**Parent Topic:**[Recruitment Workspace reference](recruitment-workspace-reference.md)
 

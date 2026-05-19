@@ -87,5 +87,5 @@ Option to mark this control measure available for use. A control measure must be
     -   **Add control measures** window on a JSA form.
     -   **Available Control Measures** field on the Hazard assessment form when conducting a risk assessment.
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](hs-setting-up-risk-mgmt.md)
 

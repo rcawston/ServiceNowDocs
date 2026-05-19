@@ -127,5 +127,5 @@ View to determine which columns are displayed in the list in the workspace. If y
 **Related topics**  
 
 
-[Customize Lists in Portfolio Planning Workspace](../task/customize-lists-in-portfolio-planning-workspace.md)
+[Customize Lists in Portfolio Planning Workspace](customize-lists-in-portfolio-planning-workspace.md)
 

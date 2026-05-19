@@ -17,7 +17,7 @@ Before snapshot import and export in ERP Semantic Mining, a check is performed a
 
 **Important:** Starting with the Zurich release, ERP Semantic Mining is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
-For process details, see [Create a snapshot to share and save data in ERP Semantic Mining](../task/create-a-snapshot-to-share-and-save-data.md).
+For process details, see [Create a snapshot to share and save data in ERP Semantic Mining](create-a-snapshot-to-share-and-save-data.md).
 
 <table id="table_bgl_xmh_2dc"><thead><tr><th>
 

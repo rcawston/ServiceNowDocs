@@ -40,5 +40,5 @@ An incident record can accommodate only one work order at a time. You can create
 
 A work order is created successfully from the incident.
 
-**Parent Topic:**[Integration with Incident Management](../concept/incident-for-fsm.md)
+**Parent Topic:**[Integration with Incident Management](incident-for-fsm.md)
 

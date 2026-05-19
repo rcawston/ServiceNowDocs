@@ -79,5 +79,5 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 **Related topics**  
 
 
-[Fortinet firewall and FortiGate VDOM REST-based discovery](../reference/fortinet-fw-vdoms-rest-discovery.md)
+[Fortinet firewall and FortiGate VDOM REST-based discovery](fortinet-fw-vdoms-rest-discovery.md)
 

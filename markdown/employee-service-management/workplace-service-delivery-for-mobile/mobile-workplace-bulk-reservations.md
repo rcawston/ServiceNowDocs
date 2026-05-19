@@ -19,7 +19,7 @@ Create bulk reservations in Workplace using the Workplace Service Delivery for M
 
 Create bulk reservations using the Workplace page. Select multiple days in the Schedule calendar view and reserve all selected days simultaneously. Check in or check out reservations, edit reservations, view reservation summary details, or cancel a reservation using Workplace. Manage your reservations and presence information using your mobile app. Change your **Remote** working days to **In-office** or **Visiting another office** presence days. Select your preferred space or desk. Add or edit workplace services to your reservations.
 
-**Note:** The **sn\_wsd\_concierge.workplace\_day\_selection\_limit** property is configured by your administration for enabling multiple days selection on the Workplace page. This property when set to an integer value \(for example, 3, 5, and so on\) enables employees to select multiple dates or days on the calendar to make bulk reservations. For example, if this property is set to 5, employees can make bulk reservations and select only five dates or days on the calendar to make bulk reservations. For more information, see [Properties installed with Workplace Concierge](../../workplace-concierge/reference/properties-installed-with-workplace-concierge.md).
+**Note:** The **sn\_wsd\_concierge.workplace\_day\_selection\_limit** property is configured by your administration for enabling multiple days selection on the Workplace page. This property when set to an integer value \(for example, 3, 5, and so on\) enables employees to select multiple dates or days on the calendar to make bulk reservations. For example, if this property is set to 5, employees can make bulk reservations and select only five dates or days on the calendar to make bulk reservations. For more information, see [Properties installed with Workplace Concierge](../workplace-concierge/properties-installed-with-workplace-concierge.md).
 
 If the Reservable Module Configuration property **Max days in future** is set to 5 days by your administrator, and the **sn\_wsd\_concierge.workplace\_day\_selection\_limit** property is set to 6 by your Workplace administrator, employees can select only five dates or days on the calendar for making bulk reservations. The least minimal value is selected for default bulk days selection the calendar by the application.
 
@@ -58,7 +58,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     **Note:** If the sn\_wsd\_concierge.allow\_overlapping\_reservations property is set to **false** by your workplace administrator, you cannot create an overlapping or parallel reservations for a day. You can make only a single reservation for a day.
 
-    **Note:** If you try to select a date which is labeled as **Remote**, the Remote day is changed to an **In-office** presence day and this record is updated in the Employee Presence Exceptions table \(**All** &gt; **Workplace Concierge** &gt; **Employee Presence** &gt; **Exceptions**\). The **Location** column in this table is updated with the building name that you using to reserve a space for your **In-office** day. For more information, see [Components installed with Workplace Concierge](../../workplace-concierge/reference/components-installed-with-workplace-concierge.md).
+    **Note:** If you try to select a date which is labeled as **Remote**, the Remote day is changed to an **In-office** presence day and this record is updated in the Employee Presence Exceptions table \(**All** &gt; **Workplace Concierge** &gt; **Employee Presence** &gt; **Exceptions**\). The **Location** column in this table is updated with the building name that you using to reserve a space for your **In-office** day. For more information, see [Components installed with Workplace Concierge](../workplace-concierge/components-installed-with-workplace-concierge.md).
 
 5.  Tap and remove dates from calendar that are selected by default and select few days of your choice.
 
@@ -82,7 +82,7 @@ Role required: sn\_wsd\_core.workplace\_user
     -   Preferred collaborators
     ![Space card showing the Show on map to find your space on the map.](../images/wsd-workplace-mobile-space-suggestion-get-directions.jpeg)
 
-    The tags displayed on a suggested space is fetched from the Space Suggestion configuration table. These tags are displayed on the Space Suggestions card. For example, **Reserved frequently**, **Near your location**, **Your favorite**, and so on. When an employee is visiting another office, the suggestions are provided from the office that an employee is visiting and is not based on the employees in-office preferences set in the Presence dashboard. For more information, see [Space suggestion Configuration](../../workplace-concierge/task/space-suggestion-configuration.md) and [Properties installed with Workplace Concierge](../../workplace-concierge/reference/properties-installed-with-workplace-concierge.md).
+    The tags displayed on a suggested space is fetched from the Space Suggestion configuration table. These tags are displayed on the Space Suggestions card. For example, **Reserved frequently**, **Near your location**, **Your favorite**, and so on. When an employee is visiting another office, the suggestions are provided from the office that an employee is visiting and is not based on the employees in-office preferences set in the Presence dashboard. For more information, see [Space suggestion Configuration](../workplace-concierge/space-suggestion-configuration.md) and [Properties installed with Workplace Concierge](../workplace-concierge/properties-installed-with-workplace-concierge.md).
 
 7.  To update or change a suggested workspace from Space Suggestions, select the **Suggest another** refresh button icon \(![Select the refresh button to suggest another workspace.](../images/wsd-mobile-refresh-icon-workplace-suggestion.png)\).
 
@@ -110,7 +110,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     ![Agenda view showing your reservations and types of reservations available for you.](../images/wsd-mobile-workplace-agenda-view.jpeg)
 
-    Reservation timings are based on the **All day**Reservable module configuration set by your administrator. When **All day** is enabled and **All day meaning** is set to **Full day**, you can make a reservation for full day \(one day or entire day based on your building timezone\). For Example, reservation timings is shown from 10.25 to 23.59 based on your office full day time zone settings. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+    Reservation timings are based on the **All day**Reservable module configuration set by your administrator. When **All day** is enabled and **All day meaning** is set to **Full day**, you can make a reservation for full day \(one day or entire day based on your building timezone\). For Example, reservation timings is shown from 10.25 to 23.59 based on your office full day time zone settings. For more information, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
 13. Review the different types of reservations that you have made in the Agenda view.
 
@@ -143,13 +143,13 @@ Role required: sn\_wsd\_core.workplace\_user
 
     5.  Select **Cancel Reservation** to cancel a reservation.
 
-        Employees can directly cancel a reservation if the reservation doesn't require cancel notes. The option to add a cancel note is set by your administrator in the Reservable Module Widget Configuration. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+        Employees can directly cancel a reservation if the reservation doesn't require cancel notes. The option to add a cancel note is set by your administrator in the Reservable Module Widget Configuration. For more information, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
         ![Cancel Reservation dialog box.](../images/wsd-mobile-workplace-cancel-rsv-use.jpeg)
 
         Select **I want to add/edit/remove items instead** to update workplace items in a reservation.
 
-        The option to add a cancel note is set by your administrator in the Reservable Module Widget Configuration. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+        The option to add a cancel note is set by your administrator in the Reservable Module Widget Configuration. For more information, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
     6.  Select **View reservation Information** to review the Reservation summary for a selected space.
 

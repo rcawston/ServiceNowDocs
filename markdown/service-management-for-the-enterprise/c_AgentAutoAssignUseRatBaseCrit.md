@@ -26,5 +26,5 @@ Agents can be auto assigned based on the skills of an agent, and the skills requ
 -   **[Agent auto assignment using time zones](c_AgAtAssgnZones.md)**  
 Agents can be auto assigned based on the time zone defined in their user records and the time zone of the tasks.
 
-**Parent Topic:**[Agent auto assignment](../../service-management-core/concept/c_AgentAutoAssignment.md)
+**Parent Topic:**[Agent auto assignment](c_AgentAutoAssignment.md)
 

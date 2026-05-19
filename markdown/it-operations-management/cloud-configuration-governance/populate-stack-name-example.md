@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 Before you can follow this example, you should be familiar with creating blueprints and blueprint rules. See these resources:
 
--   [Cloud Provisioning Blueprints](../concept/blueprints.md)
+-   [Cloud Provisioning Blueprints](blueprints.md)
 -   [Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)
 -   [Configure a blueprint rule](configure-a-blueprint-rule.md#)
 
@@ -188,5 +188,5 @@ In the Cloud User Portal, the catalog order form for the Provision operation sho
 
 ![The Logged In User](../image/logged-in-user.png)
 
-**Parent Topic:**[Cloud catalog form configuration examples](../concept/example-blueprint-rules.md)
+**Parent Topic:**[Cloud catalog form configuration examples](example-blueprint-rules.md)
 

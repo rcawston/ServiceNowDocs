@@ -33,8 +33,8 @@ The following concepts explain Managed Documents: Managed Document, Document Col
 In the base system, all managed documents use the **Managed Documents** workflow after the **Active** check box is selected.
 -   **[Defining Document Parameters](r_DefiningDocumentParameters.md)**  
 Before using the Managed Documents application, the user with the `document_management_admin` role needs to set the parameters that define the kinds of documents to be managed through the application. Managed Documents provides both base and custom parameter options.
--   **[Domain separation and Managed Documents](../concept/domain-separation-managed-documents.md)**  
+-   **[Domain separation and Managed Documents](domain-separation-managed-documents.md)**  
 Domain separation is unsupported in Managed Documents. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Managed Documents](../concept/c_ManagedDocuments.md)
+**Parent Topic:**[Managed Documents](c_ManagedDocuments.md)
 

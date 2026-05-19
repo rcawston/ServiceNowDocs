@@ -100,5 +100,5 @@ The Microsoft Azure Automation spoke provides actions to automate the Microsoft 
 
 ## Set up the Microsoft Azure Automation Spoke
 
-To execute the actions of the Microsoft Azure Automation Spoke, you must first install and configure the Microsoft Azure Resource Management Spoke. No separate configuration of the Microsoft Azure Automation Spoke is necessary. To view the procedure to set up the Microsoft Azure Resource Management Spoke, see [Set up the Microsoft Azure Resource Management spoke](../task/setup-res-mngmt.md#).
+To execute the actions of the Microsoft Azure Automation Spoke, you must first install and configure the Microsoft Azure Resource Management Spoke. No separate configuration of the Microsoft Azure Automation Spoke is necessary. To view the procedure to set up the Microsoft Azure Resource Management Spoke, see [Set up the Microsoft Azure Resource Management spoke](setup-res-mngmt.md#).
 

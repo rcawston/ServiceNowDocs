@@ -34,7 +34,7 @@ Role required: ui\_builder\_admin
 5.  Drag the modules in the required order.
 
 
-**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](../concept/uib-aws.md)
+**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](uib-aws.md)
 
 **Related topics**  
 

@@ -21,7 +21,7 @@ For a quick reference to improve HAM data coverage, see [Data integration checkl
 
 ## Access data integrations
 
-Navigate to the CMDB success advisor, and on the HAM card, select **View insights**. Select the **Data integrations** tab. To access the dashboard, see [Access CMDB success advisor](../task/cmdb-sa-access.md).
+Navigate to the CMDB success advisor, and on the HAM card, select **View insights**. Select the **Data integrations** tab. To access the dashboard, see [Access CMDB success advisor](cmdb-sa-access.md).
 
 **Note:** The CMDB success advisor for HAM dashboard is available only after the setup process is complete. For more information, see [Set up CMDB success advisor for HAM](cmdb-sa-ham-config-settings.md).
 
@@ -64,6 +64,6 @@ CMDB administrator
 |-------|-----------|
 |Integration overview|Displays the count of all Discovery patterns and Service Graph Connectors contributing hardware asset data to the CMDB.|
 |Status indicators|Check whether Discovery patterns are active and Service Graph Connectors are installed with active connections. For more information, see [Reviewing data integrations for HAM](cmdb-sa-ham-integration-details.md).|
-|Attribute coverage insights|Select the **Attribute coverage** link next to the integration to review which hardware asset attributes are populated by a Discovery pattern or Service Graph Connector. For more information, see [Evaluate HAM data integration coverage](../task/cmdb-sa-ham-evaluate-data-integration.md).|
-|Access integration details|Configure integrations to improve attribute coverage. For more information, see [Evaluate HAM data integration coverage](../task/cmdb-sa-ham-evaluate-data-integration.md).|
+|Attribute coverage insights|Select the **Attribute coverage** link next to the integration to review which hardware asset attributes are populated by a Discovery pattern or Service Graph Connector. For more information, see [Evaluate HAM data integration coverage](cmdb-sa-ham-evaluate-data-integration.md).|
+|Access integration details|Configure integrations to improve attribute coverage. For more information, see [Evaluate HAM data integration coverage](cmdb-sa-ham-evaluate-data-integration.md).|
 

@@ -40,7 +40,7 @@ You can create, update, and play guided tours within the ServiceNow® user inter
 
 **Note:**
 
--   The Guided Tour Designer is only available in Core UI. The designer isn’t compatible with UI15. For information about how to activate the Core UI plugin, see [Activate Core UI](../../../administer/navigation-and-ui/task/t_ActivateUI16.md).
+-   The Guided Tour Designer is only available in Core UI. The designer isn’t compatible with UI15. For information about how to activate the Core UI plugin, see [Activate Core UI](../t_ActivateUI16.md).
 
 -   Guided Tours are supported in Next Experience pages, such as Workspace or pages configured in UI Builder using the Next Experience UI Framework.
 
@@ -49,7 +49,7 @@ You can create, update, and play guided tours within the ServiceNow® user inter
     -   Creating and running new or existing Guided Tours in the Classic Environment \(including lists and forms\).
     -   Creating and running new or existing Guided Tours for a Service Portal.
     -   Creating new Guided Tours for Unified Navigation menus \(such as the **All** or **Favorites** menus\).
-    For more information, see [Next Experience](../../../get-started/servicenow-overview/concept/next-experience-landing-page.md)
+    For more information, see [Next Experience](../next-experience-landing-page.md)
 
 
 **Parent Topic:**[Configuring Guided Tours](configure-guided-tours.md)

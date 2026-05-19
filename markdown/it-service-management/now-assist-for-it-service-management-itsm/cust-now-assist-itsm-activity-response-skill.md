@@ -58,7 +58,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 7.  Define access.
 
-    Define the user access and role restrictions that you need for the skill. For information on role restrictions, see [Role masking](../concept/supporting-information-now-assist-itsm.md).
+    Define the user access and role restrictions that you need for the skill. For information on role restrictions, see [Role masking](supporting-information-now-assist-itsm.md).
 
 8.  Select display.
 
@@ -111,7 +111,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
         The **Define access** screen displays.
 
-        **Note:** By default this screen shows that an itil user can access the **Incident activity response in NACM** skill. The role restrictions defined in the **Define access** screen overrides the user access defined in this screen. For information on role restrictions, see [Role masking](../concept/supporting-information-now-assist-itsm.md).
+        **Note:** By default this screen shows that an itil user can access the **Incident activity response in NACM** skill. The role restrictions defined in the **Define access** screen overrides the user access defined in this screen. For information on role restrictions, see [Role masking](supporting-information-now-assist-itsm.md).
 
         ![Define access screen in the Incident activity response in NACM screen](../image/now-assist-itsm-act-resp-define-access.png)
 

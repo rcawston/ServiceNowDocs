@@ -103,7 +103,7 @@ Add reference filter
 
 </td><td>
 
-Option to filter the list of reference records in a linked condition column where the input type is **Reference** and the Data to evaluate is **Reference record**. Use this field to build a filter condition statement. For more information, see [Filter reference inputs and results in a decision table](../concept/format-decision-table-in-decision-designer.md#).
+Option to filter the list of reference records in a linked condition column where the input type is **Reference** and the Data to evaluate is **Reference record**. Use this field to build a filter condition statement. For more information, see [Filter reference inputs and results in a decision table](format-decision-table-in-decision-designer.md#).
 
 </td></tr></tbody>
 </table>    **Note:** For the Choice input type, the ability to select an existing choice list depends on the choice list living on a table in the same application scope as the decision table. For example, if you create a decision table in the Global scope, you can use any existing choice list on tables in the Global scope. But, if you create a decision table in a custom scope, you can only use existing choice lists from tables in the same custom scope.
@@ -244,7 +244,7 @@ Add reference filter
 
 </td><td>
 
-Option to filter the list of reference records in the result column when the result type is Reference. Use this field to build a filter condition statement. For more information, see [Filter reference inputs and results in a decision table](../concept/format-decision-table-in-decision-designer.md#).
+Option to filter the list of reference records in the result column when the result type is Reference. Use this field to build a filter condition statement. For more information, see [Filter reference inputs and results in a decision table](format-decision-table-in-decision-designer.md#).
 
 </td></tr></tbody>
 </table>    **Note:** The Currency and True/False result types have several important exceptions.
@@ -271,7 +271,7 @@ Option to filter the list of reference records in the result column when the res
 
     ![Decision rule view.](../image/decision-rule-view.png "Decision rule view")
 
-    **Note:** Using Decision rule view can result in creating complex conditions. Tables with advanced rows can be edited in Excel but advanced rows are read-only. For more information, see [Manage decision tables in Excel](../concept/manage-decision-tables-ms-excel.md). Where possible, split complex decisions into multiple simplified decision rule rows.
+    **Note:** Using Decision rule view can result in creating complex conditions. Tables with advanced rows can be edited in Excel but advanced rows are read-only. For more information, see [Manage decision tables in Excel](manage-decision-tables-ms-excel.md). Where possible, split complex decisions into multiple simplified decision rule rows.
 
     1.  Edit the condition as needed.
 
@@ -292,5 +292,5 @@ Option to filter the list of reference records in the result column when the res
 22. Select **Publish**.
 
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](using-decision-builder.md)
 

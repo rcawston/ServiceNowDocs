@@ -38,10 +38,10 @@ Role required: it\_project\_user, it\_project\_manager
     To edit a checklist item for a task, select edit item icon \(![edit-item-checklist-icon.](../image/icon-edit-item-checklist.png)\) in the checklist section. This option appears when there is at least one checklist in the Checklist side panel. To remove a checklist from the project task, select remove item icon \(![remove-icon.](../image/remove-checklist-item-icon.png)\).
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 
 **Related topics**  
 
 
-[Project task checklist items](../concept/project-task-checklist.md)
+[Project task checklist items](project-task-checklist.md)
 

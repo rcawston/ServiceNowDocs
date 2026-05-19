@@ -102,5 +102,5 @@ You can provide only 2 steps here.
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](scope-analysis.md)
 

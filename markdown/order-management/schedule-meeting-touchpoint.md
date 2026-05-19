@@ -39,7 +39,7 @@ Schedule meetings directly from a touchpoint record to coordinate customer-facin
 
 7.  On the Create New Meeting form, fill in the fields.
 
-    For a description of the field values, see [Create new meeting form](../reference/create-meeting-touchpoints-form.md).
+    For a description of the field values, see [Create new meeting form](create-meeting-touchpoints-form.md).
 
 8.  Add attachments to your meeting.
 
@@ -54,5 +54,5 @@ Schedule meetings directly from a touchpoint record to coordinate customer-facin
 
 The meeting is scheduled and an invite with the agenda is sent to all invitees. You can view saved meetings from the touchpoint's Meetings tab.
 
-**Parent Topic:**[Using Activity Management](../concept/using-activity-management.md)
+**Parent Topic:**[Using Activity Management](using-activity-management.md)
 

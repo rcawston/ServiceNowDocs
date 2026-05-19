@@ -33,5 +33,5 @@ The following read-only fields are listed.
 |Cores per socket|Number of cores \(functional unit needed to execute programs\) on each physical connection \(socket\) on the motherboard.|
 |Match level|Accuracy level of the association between processor and PVU mapping. Automatically set when association is inferred.|
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
 

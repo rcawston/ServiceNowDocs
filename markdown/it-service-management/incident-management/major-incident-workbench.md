@@ -32,13 +32,13 @@ To navigate to the major incident workbench, open a major incident or a major in
 
 -   **[Major incident workbench UI elements](mi-workbench-ui-elements.md)**  
 The major incident workbench provides UI elements which display the summary of tasks, progress of communication plan, conferencing information, and a report on the cause and resolution of the major incident.
--   **[Associate a new post incident report](../task/asso-new-post-incident-report.md)**  
+-   **[Associate a new post incident report](asso-new-post-incident-report.md)**  
 Create your own post incident report and associate the UI page with the **View Complete Report** button under the **Post Incident Report** tab. Using the customized report, you can add information that is specific to your organization.
--   **[Add communication plan from the major incident workbench](../task/add-comm-plan-from-mim-workbench.md)**  
+-   **[Add communication plan from the major incident workbench](add-comm-plan-from-mim-workbench.md)**  
 You can create a new communication plan or add a new communication task to an existing communication plan from the workbench. This UI action is helpful when you do not have an existing well-defined communication plan in the system.
--   **[Add similar incidents from major incident workbench](../task/add-similar-inci-mim-workbench.md)**  
+-   **[Add similar incidents from major incident workbench](add-similar-inci-mim-workbench.md)**  
 Add similar incidents to a major incident so that the support teams can work on the parent record for a coordinated response process.
--   **[Access on-call escalation path from major incident workbench](../task/access-escalation-path.md)**  
+-   **[Access on-call escalation path from major incident workbench](access-escalation-path.md)**  
 Access on-call roster and escalation details from major incident workbench to reach out to a support group.
 
 **Parent Topic:**[Managing major incidents](major-incident-management.md)

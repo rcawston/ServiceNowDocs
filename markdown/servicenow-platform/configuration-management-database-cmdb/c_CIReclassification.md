@@ -15,17 +15,17 @@ breadcrumb: [Configure, CMDB Identification and Reconciliation \(IRE\), Configur
 
 During the Identification and Reconciliation Engine \(IRE\) CI identification process, a CI might need to be reclassified to a different sys\_class\_name type. By default, CIs are reclassified automatically. If automatic reclassification is disabled, then the CI is not reclassified and the system generates a reclassification task for your review.
 
-The class of a CI can be upgraded, downgraded, or switched to a different branch in the class hierarchy. For more details about reclassification operations, see [Reclassify a CI](../task/t_ManuallyReclassifyCI.md). You can use system properties and payload flags to configure the IRE behavior of CI reclassification, globally or individually per CI.
+The class of a CI can be upgraded, downgraded, or switched to a different branch in the class hierarchy. For more details about reclassification operations, see [Reclassify a CI](t_ManuallyReclassifyCI.md). You can use system properties and payload flags to configure the IRE behavior of CI reclassification, globally or individually per CI.
 
 **Note:** CI reclassification is possible only between two classes that have identical identification rules.
 
 ## Configure automatic CI reclassification using system properties
 
-You can use system properties to configure system-wide IRE behavior for CI reclassification. For information about CI reclassification-related properties, including access, see [Properties for Identification and Reconciliation](../reference/properties-id-reconciliation.md).
+You can use system properties to configure system-wide IRE behavior for CI reclassification. For information about CI reclassification-related properties, including access, see [Properties for Identification and Reconciliation](properties-id-reconciliation.md).
 
 -   The following properties enable or disable automatic reclassification updates that are specified in a payload. These properties are set to **true** in the base system, enabling processing of CI updates, including CI reclassification updates.
 
-    To disable any automatic reclassification update, set the respective property to **false**. In that case, IRE rejects a payload \(or a payload item in Enhanced IRE\) with the respective reclassification updates, and creates a [reclassification task](../task/t_ViewReclassificationTask.md).
+    To disable any automatic reclassification update, set the respective property to **false**. In that case, IRE rejects a payload \(or a payload item in Enhanced IRE\) with the respective reclassification updates, and creates a [reclassification task](t_ViewReclassificationTask.md).
 
     -   **glide.class.upgrade.enabled**
     -   **glide.class.downgrade.enabled**

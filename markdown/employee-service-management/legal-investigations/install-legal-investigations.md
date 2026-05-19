@@ -32,7 +32,7 @@ The following items are installed with Legal Investigations:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Legal Investigations](../reference/installed-with-legal-investigations.md).
+For more information, see [Components installed with Legal Investigations](installed-with-legal-investigations.md).
 
 ## Procedure
 

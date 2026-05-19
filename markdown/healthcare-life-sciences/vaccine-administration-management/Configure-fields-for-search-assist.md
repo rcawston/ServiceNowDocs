@@ -40,5 +40,5 @@ You can encrypt fields such as the street, city, state, and zip code based on yo
 6.  To encrypt or decrypt fields, repeat steps 3 through step 5, as needed.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

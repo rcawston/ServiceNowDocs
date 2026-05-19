@@ -95,7 +95,7 @@ Use the Notify Zoom connector to expand the Notify communication channel by mana
 -   **[Disable Zoom meeting password](disable-zoom-password.md)**  
 Disable Zoom meeting password so that you can join a Zoom meeting without any meeting password.
 
-**Parent Topic:**[Configuring Notify](../concept/configuring-notify.md)
+**Parent Topic:**[Configuring Notify](configuring-notify.md)
 
 **Related topics**  
 

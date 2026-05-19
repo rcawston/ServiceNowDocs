@@ -31,37 +31,37 @@ You can create the following types of inventory models:
 
 -   **Equipment Models**
 
-    An equipment model represents the metadata that is provided by a vendor or manufacturer for the equipment. It defines the consistent characteristics across the various instances that are created for the equipment. An instance is an individual occurrence of a network asset at a site or datacenter. To learn more, see [Create an equipment model](../task/create-equipment-models.md).
+    An equipment model represents the metadata that is provided by a vendor or manufacturer for the equipment. It defines the consistent characteristics across the various instances that are created for the equipment. An instance is an individual occurrence of a network asset at a site or datacenter. To learn more, see [Create an equipment model](create-equipment-models.md).
 
 -   **Equipment holder models**
 
-    An equipment holder model represents the metadata for the representation of containers, including the bays, cabinets, cages, line ups, relay racks, and slots. A **Container Type** field refers to the type of container that the equipment model represents To learn more, see [Create an equipment holder model](../task/create-equipment-holder-models.md).
+    An equipment holder model represents the metadata for the representation of containers, including the bays, cabinets, cages, line ups, relay racks, and slots. A **Container Type** field refers to the type of container that the equipment model represents To learn more, see [Create an equipment holder model](create-equipment-holder-models.md).
 
-    The modeling guidelines for the slots vary according to the telecommunications service provider. The individual slot models are represented by the types of slots. Examples are a route processor slot, power slot, fan slot, or a generic slot model.. To learn more, see [Create an equipment holder model](../task/create-equipment-holder-models.md).
+    The modeling guidelines for the slots vary according to the telecommunications service provider. The individual slot models are represented by the types of slots. Examples are a route processor slot, power slot, fan slot, or a generic slot model.. To learn more, see [Create an equipment holder model](create-equipment-holder-models.md).
 
 -   **Interface card models**
 
-    A card model defines the card's metadata, which are the attributes that are consistent across the various instantiated cards of that model.. To learn more, see [Create a card model](../task/create-interface-card-models.md).
+    A card model defines the card's metadata, which are the attributes that are consistent across the various instantiated cards of that model.. To learn more, see [Create a card model](create-interface-card-models.md).
 
 -   **Network interface models**
 
-    A network interface model captures the physical characteristics and data about the behavior of a network interface, as designated by the product manufacturer. To learn more, see [Create a network interface model](../task/create-network-interface-model.md).
+    A network interface model captures the physical characteristics and data about the behavior of a network interface, as designated by the product manufacturer. To learn more, see [Create a network interface model](create-network-interface-model.md).
 
 -   **Physical connection model**
 
-    A physical connection model captures the metadata for the physical connection. To learn more, see [Create a physical connection model](../task/create-physical-connection-models.md).
+    A physical connection model captures the metadata for the physical connection. To learn more, see [Create a physical connection model](create-physical-connection-models.md).
 
 -   **Logical connection model**
 
-    A logical connection model captures the metadata for the logical connections. To learn more, see [Create a logical connection model](../task/create-logical-connection-models.md).
+    A logical connection model captures the metadata for the logical connections. To learn more, see [Create a logical connection model](create-logical-connection-models.md).
 
 -   **Cable model**
 
-    A cable model captures the metadata for the cable. To learn more, see [Create a cable model](../task/create-a-cable-model.md).
+    A cable model captures the metadata for the cable. To learn more, see [Create a cable model](create-a-cable-model.md).
 
 -   **Strand model**
 
-    A strand model captures the metadata for the strand. To learn more, see [Create a strand model](../task/create-a-strand-model.md).
+    A strand model captures the metadata for the strand. To learn more, see [Create a strand model](create-a-strand-model.md).
 
 -   **Network topology model**
 

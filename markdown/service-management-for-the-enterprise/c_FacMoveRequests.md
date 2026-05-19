@@ -22,9 +22,9 @@ Facilities move management works in the following manner:
 5.  Facilities staff members perform the tasks necessary to fulfill the move request.
 6.  The end of workflow script runs to update the user location and the location of all the asserts that were requested to be moved.
 
--   **[Create a move request through the facilities catalog](../task/t_CreateAMoveReqThruFacCatalog.md)**  
+-   **[Create a move request through the facilities catalog](t_CreateAMoveReqThruFacCatalog.md)**  
 Users can submit move requests by selecting from the categories of the Facilities catalog.
--   **[Create a move request with the move request form](../task/t_CreateMoveReqWFacReqForm.md)**  
+-   **[Create a move request with the move request form](t_CreateMoveReqWFacReqForm.md)**  
 Facilities staff members can create move requests using the move request form.
 
 **Parent Topic:**[Facilities move management](c_FacMoveMgmt.md)

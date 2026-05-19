@@ -23,7 +23,7 @@ Role required: app\_engine\_admin
 
 People with the Creator Studio Restricted User role aren't allowed to create apps themselves, but they can work on them after you approve their creation in the Application Tasks table of Request App Administration.
 
-If your organization has App Engine Management Center, you can approve requests there, too. For more information, see [Manage app requests from Creator Studio](../../app-engine-studio/task/manage-app-requests-creator-studio.md).
+If your organization has App Engine Management Center, you can approve requests there, too. For more information, see [Manage app requests from Creator Studio](../app-engine-management-center/manage-app-requests-creator-studio.md).
 
 ## Procedure
 
@@ -44,5 +44,5 @@ If your organization has App Engine Management Center, you can approve requests 
 
 The user who made the request receives an email notification with the approval result. If you approved, they can start building out their app in Creator Studio!
 
-**Parent Topic:**[Administering Creator Studio](../concept/administering-creator-studio.md)
+**Parent Topic:**[Administering Creator Studio](administering-creator-studio.md)
 

@@ -44,5 +44,5 @@ Role required: admin
 
 [Default regular expression data patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/default-data-patterns.md) are used to filter table entries for further classification. The Data Discovery pattern defines the regular expression used to match data against a target table. For more information, see [Configure Data Discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/configure-data-discovery-patterns.md).
 
-**Parent Topic:**[Sensitive data redaction](../concept/sensitive-data-redaction.md)
+**Parent Topic:**[Sensitive data redaction](sensitive-data-redaction.md)
 

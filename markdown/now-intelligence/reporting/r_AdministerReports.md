@@ -153,7 +153,7 @@ Interval
 
 </td><td>
 
-For [Trend](../concept/c_CreateTrendCharts.md#) or [Trendbox](../concept/c_CreatingTrendboxCharts.md#) charts, the interval of time to measure along.
+For [Trend](c_CreateTrendCharts.md#) or [Trendbox](c_CreatingTrendboxCharts.md#) charts, the interval of time to measure along.
 
 </td></tr><tr><td>
 
@@ -201,7 +201,7 @@ Sumfield
 
 </td><td>
 
-The field to perform a sum on for [Trend](../concept/c_CreateTrendCharts.md#) or [Trendbox](../concept/c_CreatingTrendboxCharts.md#) Charts.
+The field to perform a sum on for [Trend](c_CreateTrendCharts.md#) or [Trendbox](c_CreatingTrendboxCharts.md#) Charts.
 
 </td></tr><tr><td>
 
@@ -209,8 +209,8 @@ Trend Field
 
 </td><td>
 
-The field to track over time for [Trend](../concept/c_CreateTrendCharts.md#) or [Trendbox](../concept/c_CreatingTrendboxCharts.md#) Charts.
+The field to track over time for [Trend](c_CreateTrendCharts.md#) or [Trendbox](c_CreatingTrendboxCharts.md#) Charts.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Administering reports](../concept/c_AdminsteringReports.md)
+</table>**Parent Topic:**[Administering reports](c_AdminsteringReports.md)
 

@@ -23,9 +23,9 @@ In-form analytics involve a UI action on a form that opens a view of a dashboard
 
 The UI action for in-form analytics is activated through an icon next to the field on the form that represents the breakdown. If that field is not visible in the form view, neither is the icon. When you set up in-form analytics, you have the option of also including a Related Action link on the form. This link is always available.
 
--   **[Add in-form analytics to a form](../task/t_CreateInFormAnalyticsAction.md)**  
+-   **[Add in-form analytics to a form](t_CreateInFormAnalyticsAction.md)**  
 Create a UI action that enables users to view relevant analytics while completing a form. The UI action associates the table that uses the form, a breakdown used with that table, and a breakdown dashboard.
--   **[Preconfigured in-form analytics](../../dashboards/reference/available-in-form-analytics.md)**  
+-   **[Preconfigured in-form analytics](available-in-form-analytics.md)**  
 Preconfigured in-form analytics are available as plugins for several applications and their associated tables and forms.
 
 **Parent Topic:**[Configure Performance Analytics fundamentals](c_PAWidgetsAndDashboards.md)

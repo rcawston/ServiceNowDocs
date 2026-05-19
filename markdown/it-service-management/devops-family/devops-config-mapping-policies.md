@@ -32,7 +32,7 @@ You can view all policies mapped to deployables of an application by selecting t
 
 ![Policies tab on the Application form to view all mappings and manage static mappings.](../../configuration-data-management/image/cdm-app-policies-tab.png "Policies tab on the Application form")
 
--   **[Map policies to a deployable](../../configuration-data-management/task/cdm-deployable-map-policy-to.md)**  
+-   **[Map policies to a deployable](cdm-deployable-map-policy-to.md)**  
 Map policies to a deployable to define the validation processes that the config data must pass.You can map policies to a deployable using static mapping or dynamic mapping.
 
 **Parent Topic:**[Configuring DevOps Config](setting-up-devops-config-validation.md)

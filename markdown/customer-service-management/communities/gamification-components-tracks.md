@@ -27,5 +27,5 @@ While the application is configured to accumulate points by tracks, gamification
 **Related topics**  
 
 
-[Create a gamification track](../task/gamification-create-track.md)
+[Create a gamification track](gamification-create-track.md)
 

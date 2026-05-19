@@ -36,10 +36,10 @@ An assigned entity is an organizational unit or structure that a goal can be ass
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Goal Assigned Entity Configuration form](../reference/goal-assigned-entity-configuration-form-egm.md).
+    For field information, see [Goal Assigned Entity Configuration form](goal-assigned-entity-configuration-form-egm.md).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring goals in Strategic Planning](../concept/configuring-goal-framework-apw.md)
+**Parent Topic:**[Configuring goals in Strategic Planning](configuring-goal-framework-apw.md)
 

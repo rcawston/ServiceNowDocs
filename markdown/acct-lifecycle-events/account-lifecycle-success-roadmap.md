@@ -36,5 +36,5 @@ The list of outcomes is displayed in the left panel. Select an outcome from the 
 
 **Note:** By default, you can view the roadmap for a ten year period. You can modify this value in the sn\_acct\_lc.RoadmapTimelineYears.list property.
 
-**Parent Topic:**[Create a success blueprint](../task/account-lifecycle-create-blueprint.md)
+**Parent Topic:**[Create a success blueprint](account-lifecycle-create-blueprint.md)
 

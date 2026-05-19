@@ -41,5 +41,5 @@ You can also delete a summary when you no longer need it. Press the **Delete** b
 
 **Note:** The Regenerate and Delete summary actions are not available if the exploration summarization skill is deactivated or the exploration is made read-only.
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](use-now-assist-explorer.md)
 

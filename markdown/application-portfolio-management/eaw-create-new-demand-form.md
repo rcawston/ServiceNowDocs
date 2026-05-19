@@ -440,7 +440,7 @@ Digital integration associated with the demand.
 **Related topics**  
 
 
-[Exploring demands](../../concept/eaw-concept/eaw-demands.md)
+[Exploring demands](eaw-demands.md)
 
-[Add or edit a demand](../../task/eaw-task/eaw-create-demand-ba.md)
+[Add or edit a demand](eaw-create-demand-ba.md)
 

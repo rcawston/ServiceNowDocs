@@ -30,7 +30,7 @@ Video describing Now Assist for app generation and how to use it to create appli
 
 </td></tr><tr><td>
 
-[Generate![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Build apps through conversation](../task/sns-app-gen-using-landing.md)
+[Generate![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Build apps through conversation](sns-app-gen-using-landing.md)
 
 </td><td>
 
@@ -66,10 +66,10 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 App generation enables you to create applications in ServiceNow Studio by describing your business process in a conversation with Now Assist.
 -   **[Configuring app generation](sns-app-gen-config-landing.md)**  
 To build applications with app generation, install Now Assist for Creator and enable the app generation skill in the Now Assist Admin console.
--   **[Generate apps in ServiceNow Studio](../task/sns-app-gen-using-landing.md)**  
+-   **[Generate apps in ServiceNow Studio](sns-app-gen-using-landing.md)**  
 Use the app generation skill to build an application in ServiceNow Studio by describing your business process in a conversation with Now Assist.
 -   **[App generation reference](sns-app-gen-reference-landing.md)**  
 Use these reference topics to look up configuration properties, roles, and related details for app generation.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](using-gen-ai-now-assist-for-creator.md)
 

@@ -32,5 +32,5 @@ Activating Fallback enables AI systems supported by your approved providers to s
 
 For information about Data routing, Fallback, Spillover and Impact summary, see [Explore AI model providers](ai-model-providers.md)
 
-For information on configuring of third-party LLMs for APJC region, see [Configure third-party LLMs using AI Control Tower](../task/configure-third-party-llms-using-ai-control-tower.md)
+For information on configuring of third-party LLMs for APJC region, see [Configure third-party LLMs using AI Control Tower](configure-third-party-llms-using-ai-control-tower.md)
 

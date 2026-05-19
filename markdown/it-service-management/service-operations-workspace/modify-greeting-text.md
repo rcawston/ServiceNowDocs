@@ -504,5 +504,5 @@ The alert notification on the banner in SOW automatically expands to display the
 6.  Select **Update**.
 
 
-**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](../concept/landing-page-configurations-sow-itsm.md)
+**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](landing-page-configurations-sow-itsm.md)
 

@@ -71,7 +71,7 @@ Framework
 
 </td><td>
 
-Framework this risk statement is associated with.**Note:** This field only appears if the **Migrate to Advanced Risk Assessment** property is enabled. For more information, see [Risk score rollup in Advanced Risk Assessment](../../grc-risk/concept/risk-rollup-ara-concept.md)
+Framework this risk statement is associated with.**Note:** This field only appears if the **Migrate to Advanced Risk Assessment** property is enabled. For more information, see [Risk score rollup in Advanced Risk Assessment](risk-rollup-ara-concept.md)
 
 </td></tr><tr><td>
 

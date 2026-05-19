@@ -98,5 +98,5 @@ The admin user enters `IAR` in the chat window to initiate a conversation about 
 **Related topics**  
 
 
-[Conversational Interfaces Diagnostic Tool](../../conversational-interfaces/concept/ci-diagnostics-tool-landing.md)
+[Conversational Interfaces Diagnostic Tool](../conversational-interfaces-diagnostics-tool/ci-diagnostics-tool-landing.md)
 

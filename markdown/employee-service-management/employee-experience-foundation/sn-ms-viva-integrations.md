@@ -19,7 +19,7 @@ Before installing Employee Center for Microsoft Viva Connections, ensure that th
 
 -   Your ServiceNow instances have been upgraded to Vancouver release.
 -   You’ve installed and deployed the **IT Service Management for Microsoft 365\(sn\_now\_teams\_it\)** or **HR Service Delivery for Microsoft 365\(sn\_now\_teams\_hr\)** plugins.
--   You’ve installed and deployed Employee Center. For more information, see [Configuring Employee Center](../../employee-center/concept/setup-emp-center.md).
+-   You’ve installed and deployed Employee Center. For more information, see [Configuring Employee Center](setup-emp-center.md).
 -   You've installed and deployed **Employee Center Core \(sn\_hr\_sp\)** August 23 store release version.
 
 There are multiple admin roles required to deploy the Employee Center for Microsoft Viva Connections integrations application. The following table depicts the different admin roles required to perform various setup tasks in your environment.
@@ -38,7 +38,7 @@ Role on Microsoft Azure portal
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Employee Center for Microsoft Viva Connections application](../task/install-sn-ms-viva-connections.md)
+[Install Employee Center for Microsoft Viva Connections application](install-sn-ms-viva-connections.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ NA
 
 </td></tr><tr><td>
 
-[Authorize Employee Center for Microsoft Viva Connections](../task/authorize-employee-experience.md)
+[Authorize Employee Center for Microsoft Viva Connections](authorize-employee-experience.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Any of the following roles:
 
 </td></tr><tr><td>
 
-[Update the Microsoft Teams application ID](../task/update-ms-teams-app-id.md)
+[Update the Microsoft Teams application ID](update-ms-teams-app-id.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Microsoft Teams administrator
 
 </td></tr><tr><td>
 
-[Download the Microsoft Viva solution package](../task/download-viva-package.md)
+[Download the Microsoft Viva solution package](download-viva-package.md)
 
 </td><td>
 
@@ -91,7 +91,7 @@ NA
 
 </td></tr><tr><td>
 
-[Deploy the Microsoft Viva integrations package in Microsoft SharePoint](../task/deploy-viva-sharepoint.md)
+[Deploy the Microsoft Viva integrations package in Microsoft SharePoint](deploy-viva-sharepoint.md)
 
 </td><td>
 
@@ -103,7 +103,7 @@ Microsoft SharePoint administrator
 
 </td></tr><tr><td>
 
-[Enable the display of the Microsoft Viva card in Microsoft SharePoint](../task/grant-app-access-sharepoint.md)
+[Enable the display of the Microsoft Viva card in Microsoft SharePoint](grant-app-access-sharepoint.md)
 
 </td><td>
 
@@ -142,5 +142,5 @@ Download and deploy the Microsoft Viva solution package.
 -   **[Employee Center for Microsoft Viva Connections reference](reference-viva.md)**  
 Reference topics provide additional information about components and forms required for Employee Center for Microsoft Viva Connections integrations.
 
-**Parent Topic:**[Employee Center Integrations](../../employee-center/concept/integrate-ec.md)
+**Parent Topic:**[Employee Center Integrations](integrate-ec.md)
 

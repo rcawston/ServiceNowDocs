@@ -23,7 +23,7 @@ You must activate the Event Management \(com.glideapp.itom.snac\) plugin before 
 
 For additional information on event management, see [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## IEventSender - getQueueSize\(\)
 

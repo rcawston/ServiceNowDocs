@@ -81,5 +81,5 @@ User, user group, or list of recipients with the user role. You must use the **A
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](../concept/communicating-with-stakeholders-sow.md)
+**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](communicating-with-stakeholders-sow.md)
 

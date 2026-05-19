@@ -186,7 +186,7 @@ The **Queue** action places an active Notify call in a queue.The action input is
 -   Join Conference Call with muting
 -   Join Conference Call with SMS
 
--   **[Create a custom Notify subflow](../task/modify-notify-flow.md)**  
+-   **[Create a custom Notify subflow](modify-notify-flow.md)**  
 Create your own custom flows to use in Notify using Workflow Studio.
 
 **Parent Topic:**[Notify reference](notify-reference-section.md)

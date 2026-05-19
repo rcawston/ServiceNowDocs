@@ -108,7 +108,7 @@ Floor
 Floor of the area or space that you want to access.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Core references](../concept/wsd-references.md)
+</table>**Parent Topic:**[Workplace Core references](wsd-references.md)
 
 **Related topics**  
 

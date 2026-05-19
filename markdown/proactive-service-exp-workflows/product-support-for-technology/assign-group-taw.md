@@ -40,5 +40,5 @@ Role required: admin
 6.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Proactive Service Experience Workflows](../concept/configure-assurance-workflows.md)
+**Parent Topic:**[Configuring Proactive Service Experience Workflows](configure-assurance-workflows.md)
 

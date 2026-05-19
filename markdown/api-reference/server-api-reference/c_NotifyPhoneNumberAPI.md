@@ -17,7 +17,7 @@ The NotifyPhoneNumber API allows you to query information about a Notify phone n
 
 Access the global NotifyPhoneNumber class and its associated methods in the `SNC` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## NotifyPhoneNumber - getDialCode\(\)
 
@@ -47,7 +47,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the getDialCode\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getDialCode\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the getDialCode\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getDialCode\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - getID\(\)
 
@@ -77,7 +77,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the getID\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getID\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the getID\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getID\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - getNumber\(\)
 
@@ -107,7 +107,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the getNumber\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getNumber\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the getNumber\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getNumber\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - getOwner\(\)
 
@@ -137,7 +137,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the getOwner\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getOwner\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the getOwner\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getOwner\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - getTerritory\(\)
 
@@ -167,7 +167,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the getTerritory\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getTerritory\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the getTerritory\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - getTerritory\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - isShortCode\(\)
 
@@ -253,7 +253,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the supportsConferenceCall\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsConferenceCall\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the supportsConferenceCall\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsConferenceCall\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - supportsIncomingPhoneCall\(\)
 
@@ -297,7 +297,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the supportsIncomingPhoneCall\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsIncomingPhoneCall\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the supportsIncomingPhoneCall\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsIncomingPhoneCall\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - supportsIncomingSMS\(\)
 
@@ -341,7 +341,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the supportsIncomingSMS\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsIncomingSMS\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the supportsIncomingSMS\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsIncomingSMS\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - supportsOutgoingPhoneCall\(\)
 
@@ -385,7 +385,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the supportsOutgoingPhoneCall\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsOutgoingPhoneCall\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the supportsOutgoingPhoneCall\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsOutgoingPhoneCall\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - supportsOutgoingSMS\(\)
 
@@ -429,7 +429,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the supportsOutgoingSMS\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsOutgoingSMS\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the supportsOutgoingSMS\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsOutgoingSMS\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - supportsRecording\(\)
 
@@ -473,7 +473,7 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the supportsRecording\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsRecording\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the supportsRecording\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsRecording\(\)](NPNScopedAPI.md#).
 
 ## NotifyPhoneNumber - supportsWebRTC\(\)
 
@@ -517,5 +517,5 @@ if (numbers.size() > 0) {
 
 ### Scoped equivalent
 
-To use the supportsWebRTC\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsWebRTC\(\)](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#).
+To use the supportsWebRTC\(\) method in a scoped application, use the corresponding scoped method: [Scoped NotifyPhoneNumber - supportsWebRTC\(\)](NPNScopedAPI.md#).
 

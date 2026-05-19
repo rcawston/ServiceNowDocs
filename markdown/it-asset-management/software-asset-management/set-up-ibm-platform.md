@@ -146,7 +146,7 @@ SSL certificate
     -   Without the MID Server:
         1.  In a new tab or window, upload the certificate to your ServiceNow instance.
 
-Refer to [HTTPS without the MID Server](../concept/setting-up-ibm-ilmt.md#) for detailed instructions.
+Refer to [HTTPS without the MID Server](setting-up-ibm-ilmt.md#) for detailed instructions.
 
         2.  Return to the HTTP\(s\) Connection form.
         3.  Enable your ServiceNow instance to build a connection URL by selecting the **URL builder** check box.
@@ -163,12 +163,12 @@ The **Protocol** field is replaced by the **Protocol profile** field.
 
         5.  In the **Protocol profile** field, select the search icon \(![Search icon](../image/search-icon.png)\) to locate and select the HTTPS protocol profile that specifies the certificate used for mutual authentication.
 
-You must select the same protocol profile that you created in [HTTPS without the MID Server](../concept/setting-up-ibm-ilmt.md#).
+You must select the same protocol profile that you created in [HTTPS without the MID Server](setting-up-ibm-ilmt.md#).
 
     -   With the MID Server:
         1.  In a new tab or window, upload the certificate to your ServiceNow instance.
 
-Refer to [HTTPS with the MID Server](../concept/setting-up-ibm-ilmt.md#) for detailed instructions.
+Refer to [HTTPS with the MID Server](setting-up-ibm-ilmt.md#) for detailed instructions.
 
         2.  Return to the HTTP\(s\) Connection form and then select the **Use MID server** check box.
 
@@ -274,5 +274,5 @@ Offset value that prevents your ServiceNow instance from re-importing virtual ma
         -   To view all data that was imported into the License Consumption \[samp\_ilmt\_sw\_install\] table, navigate to **Integration - ILMT / BigFix Inventory** &gt; **Import Set Data** &gt; **License Consumption**.
         -   To view all data that was imported into the Computer \[cmdb\_ci\_computer\] table, navigate to **Integration - ILMT / BigFix Inventory** &gt; **Import Set Data** &gt; **Computers**.
 
-**Parent Topic:**[IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations](../concept/ibm-ilmt-bigfix-inventory-integration.md)
+**Parent Topic:**[IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations](ibm-ilmt-bigfix-inventory-integration.md)
 

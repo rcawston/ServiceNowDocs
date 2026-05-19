@@ -27,7 +27,7 @@ For applications such as Virtual Agent, Automation Discovery helps you implement
 
 ## Installation
 
-Automation Discovery is available from the ServiceNow Store. For more information, see [Install Automation Discovery](../task/install-automation-discovery.md).
+Automation Discovery is available from the ServiceNow Store. For more information, see [Install Automation Discovery](install-automation-discovery.md).
 
 ## Language support
 
@@ -53,7 +53,7 @@ The **Automation Discovery Reports** page lists your created reports. For each r
 |Frequency|Number of times to run the report.|
 |Status|Status of the report.|
 
-To create a new report, see [Create an Automation Discovery report](../task/create-auto-discovry-report.md).
+To create a new report, see [Create an Automation Discovery report](create-auto-discovry-report.md).
 
 To view results, select the name of the report.
 

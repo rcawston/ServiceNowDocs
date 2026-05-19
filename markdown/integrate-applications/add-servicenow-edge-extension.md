@@ -38,5 +38,5 @@ Role required: none
     5.  Make sure that the ServiceNow, Inc. RPA Edge extension slider is enabled.![Edge-extension-slider.](../image/edge-slider.png)
 
 
-**Parent Topic:**[Chromium connector](../concept/chrome-connector.md)
+**Parent Topic:**[Chromium connector](chrome-connector.md)
 

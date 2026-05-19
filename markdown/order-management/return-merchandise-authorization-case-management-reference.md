@@ -20,5 +20,5 @@ Information about Return Merchandise Authorization \(RMA\) case line table field
 -   **[Return Merchandise Authorization roles](return-merchandise-authorization-roles.md)**  
 Information about Return Merchandise Authorization \(RMA\) roles.
 
-**Parent Topic:**[Order operations reference](../concept/reference-order-operations.md)
+**Parent Topic:**[Order operations reference](reference-order-operations.md)
 

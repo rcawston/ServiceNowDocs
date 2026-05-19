@@ -15,7 +15,7 @@ breadcrumb: [Decision tables, Workflow Studio, Build workflows]
 
 Workflow Studio is installed automatically with each family upgrade. By updating to the latest version of Workflow Studio, you have the latest updates to decision tables. Configure Workflow Studio and assign roles to your staff based on the permission level they require.
 
-For more information, see [Update to the latest version of Workflow Studio](../../workflow-studio/task/update-to-the-latest-version-of-workflow-studio.md).
+For more information, see [Update to the latest version of Workflow Studio](update-to-the-latest-version-of-workflow-studio.md).
 
 ## Decision tables personas and roles
 

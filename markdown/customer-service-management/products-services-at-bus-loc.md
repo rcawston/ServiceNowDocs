@@ -23,7 +23,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Create a service definition](../task/create-csm-service-definition.md)
+[Create a service definition](create-csm-service-definition.md)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Create a service definition record.
 
 </td></tr><tr><td>
 
-[Service Definition form](../reference/service-definition-form-fields.md)
+[Service Definition form](service-definition-form-fields.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Specify how a service organization provides its services by configuring the **Or
 
 </td></tr><tr><td>
 
-[Associate a product with a service definition](../task/service-def-associate-products.md)
+[Associate a product with a service definition](service-def-associate-products.md)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Associate one or more products with a service definition.
 
 </td></tr><tr><td>
 
-[Associate service organizations with a service](../task/associate-services-to-service-organization.md)
+[Associate service organizations with a service](associate-services-to-service-organization.md)
 
 </td><td>
 

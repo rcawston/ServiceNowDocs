@@ -32,5 +32,5 @@ Role required: admin
     See [Configure preferences for security event notification policies](configure-preferences-for-security-event-notifications.md) to learn how to configure your new custom security event notification policy.
 
 
-**Parent Topic:**[Security Event Notifications](../concept/security-policies.md)
+**Parent Topic:**[Security Event Notifications](security-policies.md)
 

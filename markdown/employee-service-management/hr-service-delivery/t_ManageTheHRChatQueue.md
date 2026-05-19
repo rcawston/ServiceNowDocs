@@ -56,5 +56,5 @@ You can review the chat records to see how long employees waited for a response 
     |**Who is actively helping employees in the queue**|Review the names of agents in the **Assigned to** column.|
 
 
-**Parent Topic:**[HR chat from lists and forms](../concept/chat-with-scoped-hr.md)
+**Parent Topic:**[HR chat from lists and forms](chat-with-scoped-hr.md)
 

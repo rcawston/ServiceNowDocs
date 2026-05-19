@@ -28,7 +28,7 @@ Role required: data\_privacy\_processor and admin
 
 1.  Elevate to the **data\_privacy\_processor** role.
 
-    For details on role elevation, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md).
+    For details on role elevation, see [Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Anonymization**.
 
@@ -86,7 +86,7 @@ Dry Run
 
 </td><td>
 
-Run the job as a test. No records are affected when running this job. Results are displayed in the **Jobs** list, as though the job had executed.**Note:** **Dry Run** must be turned off when configuring a data privacy job with rollback. See [Data privacy job rollback](../../security/reference/data-privacy-job-rollback.md) for details.
+Run the job as a test. No records are affected when running this job. Results are displayed in the **Jobs** list, as though the job had executed.**Note:** **Dry Run** must be turned off when configuring a data privacy job with rollback. See [Data privacy job rollback](data-privacy-job-rollback.md) for details.
 
 </td></tr><tr><td>
 

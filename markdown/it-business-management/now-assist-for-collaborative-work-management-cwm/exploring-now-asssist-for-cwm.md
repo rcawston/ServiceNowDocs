@@ -17,7 +17,7 @@ Learn more about the generative AI capabilities of Now Assist for CWM and how th
 
 ## Skills
 
--   **[Generate scrum tasks for stories](../task/generate-scrum-tasks-for-stories-cwm.md)**
+-   **[Generate scrum tasks for stories](generate-scrum-tasks-for-stories-cwm.md)**
 
     Accelerate your sprint planning by using Now Assist to generate scrum tasks based on user story descriptions and acceptance criteria. Instead of manually creating each task, you receive a relevant set of scrum tasks as a starting point for further refinement.
 
@@ -27,7 +27,7 @@ Learn more about the generative AI capabilities of Now Assist for CWM and how th
 
     ![Generated scrum tasks for a user story displayed in Now Assist for CWM.](../images/na-cwm-scrum-tasks-generated.png)
 
--   **[Generate formulas from natural language](../task/generate-formula-cwm-board-now-assist.md)**
+-   **[Generate formulas from natural language](generate-formula-cwm-board-now-assist.md)**
 
     Create formula columns faster by describing your calculation in natural language and letting Now Assist generate the formula for you.
 
@@ -37,7 +37,7 @@ Learn more about the generative AI capabilities of Now Assist for CWM and how th
 
     ![Formula Builder panel in Now Assist for CWM showing a natural language description used to generate a formula.](../images/na-cwm-formula-instruction-side-panel.png)
 
--   **[Generate acceptance criteria for stories](../task/generate-acceptance-criteria-for-stories-in-cwm.md)**
+-   **[Generate acceptance criteria for stories](generate-acceptance-criteria-for-stories-in-cwm.md)**
 
     As a product manager, generate clear, comprehensive, and testable acceptance criteria for your user stories, instead of spending hours writing and refining them manually.
 
@@ -45,7 +45,7 @@ Learn more about the generative AI capabilities of Now Assist for CWM and how th
 
     ![Sprint planning view in CWM showing a story detail panel with the Acceptance criteria field open and the Now Assist menu displaying the Generate acceptance criteria option.](../images/na-cwm-acc-criteria.png)
 
--   **[CWM Doc generation and insights](../task/generate-summarize-and-refine-content-of-docs-with-now-assist.md)**
+-   **[CWM Doc generation and insights](generate-summarize-and-refine-content-of-docs-with-now-assist.md)**
 
     Generate content with Now Assist for CWM directly in your Docs using custom prompts. In addition, summarize existing sections, elaborate where needed, and refine drafts to help improve your productivity.
 
@@ -86,7 +86,7 @@ Learn more about the generative AI capabilities of Now Assist for CWM and how th
 
         ![Ask questions in the context of the document. Here, user asks questions on project budget, in the context of a Project Charter document.](../images/cwm-nacm-ask-questions.png)
 
--   **[Doc summarization](../task/summarize-doc-now-assist-cwm.md)**
+-   **[Doc summarization](summarize-doc-now-assist-cwm.md)**
 
     Gain insights into the contents of the page by summarizing it in CWM Docs. Whether you're reviewing long documents or preparing for meetings, Doc summarization skill helps you stay informed and efficient.
 
@@ -125,7 +125,7 @@ A knowledge worker can use the Now Assist panel in CWM workspace. This conversat
 
 To learn more about configuring and using Now Assist for CWM, see:
 
--   [Configure Now Assist for Collaborative Work Management \(CWM\)](../task/configure-now-assist-for-collaborative-work-management.md)
+-   [Configure Now Assist for Collaborative Work Management \(CWM\)](configure-now-assist-for-collaborative-work-management.md)
 -   [Generate tasks from Docs in Collaborative Work Management \(CWM\)](generate-tasks-cwm-docs-now-assist.md)
 -   [Now Assist for Collaborative Work Management \(CWM\) reference](now-assist-for-cwm-reference.md#)
 

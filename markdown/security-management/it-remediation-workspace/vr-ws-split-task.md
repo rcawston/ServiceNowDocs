@@ -34,7 +34,7 @@ Use cases for splitting records \(VITs, AVITs, CVITs or CTRs\) from existing rem
 -   You want to reassign a split task to another user in your assignment group.
 -   You request a deferral or exception for a split task, because you know that some vulnerabilities on specific configuration items \(CIs\) cannot be remediated by the target date.
 
-For more information about change requests and splitting a remediation task in the classic environment and for versions of Vulnerability Response prior to v15.0, see [Split a remediation task](vuln_change_mgmnt_split.md).
+For more information about change requests and splitting a remediation task in the classic environment and for versions of Vulnerability Response prior to v15.0, see [Split a remediation task](../vulnerability-response/vuln_change_mgmnt_split.md).
 
 **Note:** Starting with v19.0 of Vulnerability Response, the following terms have been renamed:
 

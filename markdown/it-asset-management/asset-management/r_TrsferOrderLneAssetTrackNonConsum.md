@@ -29,9 +29,9 @@ When transfer order line stages change for non-consumables, it affects asset sub
 **Related topics**  
 
 
-[Delete a transfer order](../task/t_DeleteATransferOrder.md)
+[Delete a transfer order](t_DeleteATransferOrder.md)
 
-[Delete a transfer order line](../task/t_DeleteATransferOrderLine.md)
+[Delete a transfer order line](t_DeleteATransferOrderLine.md)
 
-[Return items received in a transfer order](../task/t_ReturnItemsRecInXferOrder.md)
+[Return items received in a transfer order](t_ReturnItemsRecInXferOrder.md)
 

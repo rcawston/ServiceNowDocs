@@ -29,13 +29,13 @@ Role required: sn\_bcm.admin
 
     ![Recovery tier and its recovery time objective.](../image/new-recovery-tier-rto.png)
 
-    For more information on the fields in the form, see [Recovery Tier record form](../reference/recovery-tier-record-form.md).
+    For more information on the fields in the form, see [Recovery Tier record form](recovery-tier-record-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Recovery Tier record form](../reference/recovery-tier-record-form.md)**  
+-   **[Recovery Tier record form](recovery-tier-record-form.md)**  
 Use the Recovery Tier record form to configure a recovery tier with a set of business applications by using BCM UIB Workspace.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

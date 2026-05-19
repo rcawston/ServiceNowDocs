@@ -23,15 +23,15 @@ Examples of how you might use indexed source attributes include the following.
 
 An indexed source's attributes appear in its Advanced Configuration related list.
 
--   **[Create an indexed source attribute in AI Search](../task/create-indexed-source-attr-ais.md)**  
+-   **[Create an indexed source attribute in AI Search](create-indexed-source-attr-ais.md)**  
 Define an indexed source attribute to configure the AI Search content indexing behavior for all records on a source table.
--   **[Enable indexing of tags for an AI Search indexed source](../task/enable-tag-indexing-ais.md)**  
+-   **[Enable indexing of tags for an AI Search indexed source](enable-tag-indexing-ais.md)**  
 Configure an indexed source attribute to enable indexing of content from tags found on records from an indexed source.
--   **[Enable indexing of attachments for an AI Search indexed source](../task/enable-attachment-indexing-ais.md)**  
+-   **[Enable indexing of attachments for an AI Search indexed source](enable-attachment-indexing-ais.md)**  
 Configure an indexed source attribute to enable indexing of content from attachments found on records from an indexed source.
--   **[Activate automatic image captioning for attachments from an indexed source](../task/activate-automatic-image-captioning.md)**  
+-   **[Activate automatic image captioning for attachments from an indexed source](activate-automatic-image-captioning.md)**  
 Generate searchable captions for attachment images found on records in an indexed source table.
--   **[List of AI Search indexed source attributes](../reference/indexed-source-attrs-ais.md)**  
+-   **[List of AI Search indexed source attributes](indexed-source-attrs-ais.md)**  
 You can adjust indexing behavior for an AI Search indexed source by configuring indexed source attributes and values.
 
 **Parent Topic:**[Indexed sources in AI Search](indexed-sources-ais.md)

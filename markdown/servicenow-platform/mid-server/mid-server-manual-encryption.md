@@ -65,24 +65,24 @@ Role required: admin
     4.  Restart the MID Server.
 
 
-**Parent Topic:**[Securing and encrypting MID Server data](../concept/mid-server-security-encryption.md)
+**Parent Topic:**[Securing and encrypting MID Server data](mid-server-security-encryption.md)
 
 **Related topics**  
 
 
-[MID Server certificate check policies](../concept/mid-security-checks.md)
+[MID Server certificate check policies](mid-security-checks.md)
 
-[MID Server configuration file security](../reference/mid-server-encrypter-api.md)
+[MID Server configuration file security](mid-server-encrypter-api.md)
 
-[MID Server authentication credentials and SOAP requests](../concept/mid-authentication-soap-requests.md#)
+[MID Server authentication credentials and SOAP requests](mid-authentication-soap-requests.md#)
 
-[MID Server unified key store](../concept/mid-unified-keystore.md#)
+[MID Server unified key store](mid-unified-keystore.md#)
 
 [Enable MID Server mutual authentication](install-mid-mutual-auth.md)
 
 [MID Server Azure Key Vault integration](mid-azure-key-vault-integration.md#)
 
-[MID Server command audit log](../concept/mid-audit-log.md)
+[MID Server command audit log](mid-audit-log.md)
 
 [Rekey a MID Server](t_RekeyAMIDServer.md)
 
@@ -90,11 +90,11 @@ Role required: admin
 
 [Specify an external TrustStore for the MID Server](mid-external-truststore.md)
 
-[MID Server SSH cryptographic algorithms](../reference/mid-ssh-algorithms.md)
+[MID Server SSH cryptographic algorithms](mid-ssh-algorithms.md)
 
 [Attach a script file to a file synchronized MID Server](mid-server-script-attach.md#)
 
-[MID Server FIPS Enforced Mode](../concept/mid-fips-enforced.md#)
+[MID Server FIPS Enforced Mode](mid-fips-enforced.md#)
 
-[MID Server Governance](../concept/mid-timeout.md)
+[MID Server Governance](mid-timeout.md)
 

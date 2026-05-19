@@ -24,11 +24,11 @@ Use the Connections slider to zoom in on a lower limit of records which followed
 **Note:**
 
 -   Process Mining generates a limit of 5000 elements per defined activity.
--   If you slide both the Activities and Connections sliders to their maximum ranges, process map rendering may be impacted. To optimize the map's rendering, configure the project to group more of the activities that are defined. See [Configure an activity definition](../task/configure-activity.md).
+-   If you slide both the Activities and Connections sliders to their maximum ranges, process map rendering may be impacted. To optimize the map's rendering, configure the project to group more of the activities that are defined. See [Configure an activity definition](configure-activity.md).
 
 ![Refine connections or activities](../image/refine-activities-connections.gif)
 
 In comparing connections for various routes in the process map, you will see that they may have different widths. The widths correspond to a smaller or larger number of records that followed a connection or route.
 
-**Parent Topic:**[Filtering project data](../task/filter-project.md)
+**Parent Topic:**[Filtering project data](filter-project.md)
 

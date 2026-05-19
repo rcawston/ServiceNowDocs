@@ -136,19 +136,19 @@ You can disable segment creation altogether, or for individual source types. You
 
 -   **[Guidelines for segments](general-guidelines-segments.md)**  
 Follow these suggestions to help you use segments in the semantic layer effectively.
--   **[Create a manual segment](../task/querygen-create-segment-manually.md)**  
+-   **[Create a manual segment](querygen-create-segment-manually.md)**  
 Manual segments are admin-created saved searches with friendly names that bridge natural language questions and database filters for the Query Generation semantic layer.
 -   **[Manual segment data model and sync behavior](manual-segment-data-model-sync.md)**  
 Manual segments use a two-table data model with automatic synchronization between the configuration table and the runtime table used for search operations.
 -   **[Shipping manual segments via plugins](shipping-manual-segments-plugins.md)**  
 Business unit application developers can ship manual segments with their applications to provide domain-specific saved searches that work from the moment the app is installed.
 
-**Parent Topic:**[Tuning the semantic layer](../../ai-data-explorer/concept/semantic-layer-tuning-overview.md)
+**Parent Topic:**[Tuning the semantic layer](semantic-layer-tuning-overview.md)
 
 **Related topics**  
 
 
-[Create a manual segment](../task/querygen-create-segment-manually.md)
+[Create a manual segment](querygen-create-segment-manually.md)
 
 [Manual segment data model and sync behavior](manual-segment-data-model-sync.md)
 

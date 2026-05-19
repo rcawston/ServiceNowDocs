@@ -42,5 +42,5 @@ Role required: admin
 
 Perform the same actions on the Group and Role columns to limit sharing with those categories of recipient.
 
-**Parent Topic:**[Share a Platform Analytics dashboard](../../dashboards/task/share-db-in-ac.md)
+**Parent Topic:**[Share a Platform Analytics dashboard](share-db-in-ac.md)
 

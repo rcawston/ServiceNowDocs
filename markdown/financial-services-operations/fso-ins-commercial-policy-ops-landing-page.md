@@ -23,7 +23,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Commercial Lines Servicing.](../task/configure-commercial-lines-servicing.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Commercial Lines Servicing.](configure-commercial-lines-servicing.md)
 
 </td></tr><tr><td>
 
@@ -31,14 +31,14 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](../reference/components-installed-with-insurance-policy-operations-business-lines-servicing.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](components-installed-with-insurance-policy-operations-business-lines-servicing.md)
 
 </td></tr></tbody>
 </table>-   **[Exploring Commercial Lines Servicing](explore-insurance-commercial-policy-operations.md)**  
 Contributors, processors, and underwriters can use Commercial Lines Servicing to create and manage service requests for commercial insurance policies.
--   **[Install Commercial Lines Servicing](../task/install-property-casualty-insurance-commercial-lines-servicing.md)**  
+-   **[Install Commercial Lines Servicing](install-property-casualty-insurance-commercial-lines-servicing.md)**  
 You can install the Commercial Lines Servicing \(sn\_ins\_policy\_b2b\) application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Configure Commercial Lines Servicing](../task/configure-commercial-lines-servicing.md)**  
+-   **[Configure Commercial Lines Servicing](configure-commercial-lines-servicing.md)**  
 Review the components that are installed with the Commercial Lines Servicing application and modify as needed for your organization's business needs.
 -   **[Using Commercial Lines Servicing](using-financial-services-commercial-lines-servicing.md)**  
 Learn how the following roles use Commercial Lines Servicing to update policies, change coverages, review and approve underwriting, and send documents for personal policies.

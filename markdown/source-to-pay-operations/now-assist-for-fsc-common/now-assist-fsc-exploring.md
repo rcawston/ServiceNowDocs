@@ -35,7 +35,7 @@ As a fulfiller \(sn\_fsc\_genai.now\_assist\_fulfiller\), you can use summarize 
 -   Supplier Lifecycle Operations
 -   Accounts Payable Operations
 
-For more information on configuring Now Assist for Common Finance and Supply Chain features, see [Configuring Now Assist for Common Finance and Supply Chain features](../task/configure-now-assist-fsc.md).
+For more information on configuring Now Assist for Common Finance and Supply Chain features, see [Configuring Now Assist for Common Finance and Supply Chain features](configure-now-assist-fsc.md).
 
 To learn more about how to use Now Assist for Common Finance and Supply Chain features, see [Using Now Assist for Common Finance and Supply Chain features](now-assist-fsc-using.md)
 
@@ -51,9 +51,9 @@ Grant fulfiller, requester, and supplier user roles to access the Common Finance
 **Related topics**  
 
 
-[Explore Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-exploring.md)
+[Explore Now Assist for Sourcing and Procurement Operations \(SPO\)](../sourcing-and-procurement-operations/now-assist-spo-exploring.md)
 
-[Explore Now Assist for Supplier Lifecycle Operations \(SLO\)](../../supplier-lifecycle-operations/concept/now-assist-slo-exploring.md)
+[Explore Now Assist for Supplier Lifecycle Operations \(SLO\)](../supplier-lifecycle-operations/now-assist-slo-exploring.md)
 
-[Exploring Now Assist for Accounts Payable Operations \(APO\)](../../accounts-payable-operations/concept/exploring-now-assist-apo.md)
+[Exploring Now Assist for Accounts Payable Operations \(APO\)](../accounts-payable-operations/exploring-now-assist-apo.md)
 

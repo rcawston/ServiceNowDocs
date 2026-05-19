@@ -51,7 +51,7 @@ Role required: sn\_test\_management.test\_manager
 -   To add test sets to the test execution suite, click **Add test sets**. From the **Test Sets** list, select the required test sets, and click **Add to Execution Suite**.
 -   In the **Test execution assignments** related list, select the test and assign it to a user.
 
-**Parent Topic:**[Testing using Test Management 2.0](../concept/release-readiness-testing.md)
+**Parent Topic:**[Testing using Test Management 2.0](release-readiness-testing.md)
 
 **Related topics**  
 
@@ -60,7 +60,7 @@ Role required: sn\_test\_management.test\_manager
 
 [Create a test set in Test Management 2.0](create-test-set.md)
 
-[Test Board in Test Management 2.0](../concept/test-board.md)
+[Test Board in Test Management 2.0](test-board.md)
 
 [Run your test assignments in Test Management 2.0](run-your-test-assignments.md)
 

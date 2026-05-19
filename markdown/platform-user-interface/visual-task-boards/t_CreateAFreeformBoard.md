@@ -38,5 +38,5 @@ Role required: none
 -   [Add a task to a freeform Visual Task Board from a form](t_AddATaskToAFreeformBoardFromAForm.md)
 -   [Add a task to a freeform Visual Task Board from a list](t_AddATaskToAFreeformBoardFromAList.md)
 
-**Parent Topic:**[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+**Parent Topic:**[Freeform Visual Task Boards](c_FreeformBoardTasks.md)
 

@@ -28,7 +28,7 @@ Role required: discovery\_admin
 
 Cloud credentials store the authentication information that Discovery needs to access your cloud provider accounts. Before you create cloud credentials, verify that you have the required access and permissions configured in your cloud provider environment. The specific configuration requirements vary by cloud provider.
 
-For more information about cloud provider setup and permissions, see [Discovery for cloud environment](../../discovery/concept/cloud-discovery-wizard.md).
+For more information about cloud provider setup and permissions, see [Discovery for cloud environment](discovery/cloud-discovery-wizard.md).
 
 ## Procedure
 
@@ -42,22 +42,22 @@ For more information about cloud provider setup and permissions, see [Discovery 
 
     |Credential type|Description|
     |---------------|-----------|
-    |[Alibaba Cloud API](../../discovery/task/create-alibaba-cloud-api-credentials.md)|API credentials for discovering Alibaba Cloud resources. Requires an AccessKey ID and AccessKey secret from the Alibaba Cloud Console.|
+    |[Alibaba Cloud API](discovery/create-alibaba-cloud-api-credentials.md)|API credentials for discovering Alibaba Cloud resources. Requires an AccessKey ID and AccessKey secret from the Alibaba Cloud Console.|
     |[AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|Credentials for discovering Amazon Web Services cloud resources.|
-    |[AWS SSM Instance User](../../discovery/task/configure-custom-user-credentials.md)|User credentials for AWS Systems Manager \(SSM\) Agent discovery on EC2 instances. Requires only a user name for the alternate user credential configured on the EC2 instance.|
+    |[AWS SSM Instance User](discovery/configure-custom-user-credentials.md)|User credentials for AWS Systems Manager \(SSM\) Agent discovery on EC2 instances. Requires only a user name for the alternate user credential configured on the EC2 instance.|
     |[Azure Enterprise Agreement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|Credentials for Azure Enterprise Agreement enrollments.|
     |Azure SAS|Credentials that use a shared access signature token for Azure storage access.|
     |[Azure Service Principal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|Service principal credentials for Azure cloud discovery. Requires a tenant ID, client ID, and secret key from the Azure portal.|
-    |[Azure SSH Certificate](../../discovery/task/azure-cloud-disc-ssh.md)|SSH certificate credentials for discovering Azure Linux virtual machines. Requires a linked Azure Service Principal credential.|
+    |[Azure SSH Certificate](discovery/azure-cloud-disc-ssh.md)|SSH certificate credentials for discovering Azure Linux virtual machines. Requires a linked Azure Service Principal credential.|
     |[Cloud Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|General credentials for cloud management operations.|
-    |[CloudFoundry](../../service-mapping/concept/pivotal-cloud-foundry.md)|Credentials for Cloud Foundry environments.|
-    |[Google API](../../discovery/reference/google-api-credentials-form.md)|API credentials for Google Cloud services.|
+    |[CloudFoundry](discovery-and-service-mapping-patterns/pivotal-cloud-foundry.md)|Credentials for Cloud Foundry environments.|
+    |[Google API](google-api-credentials-form.md)|API credentials for Google Cloud services.|
     |Google Cloud|Credentials for discovering Google Cloud Platform resources.|
-    |[IBM](../../service-mapping/reference/ibm-cloud-platform-discovery.md)|Credentials for discovering IBM Cloud Platform resources. Requires a SoftLayer API user and key, or a Bluemix API key.|
-    |[OpenStack](../../service-mapping/reference/openstack-discovery.md)|Credentials for OpenStack cloud environments.|
-    |[Oracle API](../../it-operations-management/task/create-oracle-api-credentials.md)|API credentials for Oracle Cloud Infrastructure discovery.|
-    |[oVirt](../../service-mapping/reference/red-hat-virtualization-discovery.md)|Credentials for oVirt virtualization environments.|
-    |[VMWare](../../discovery/concept/vmware-cloud-discovery.md)|Credentials for VMware vCenter cloud environments.|
+    |[IBM](discovery-and-service-mapping-patterns/ibm-cloud-platform-discovery.md)|Credentials for discovering IBM Cloud Platform resources. Requires a SoftLayer API user and key, or a Bluemix API key.|
+    |[OpenStack](discovery-and-service-mapping-patterns/openstack-discovery.md)|Credentials for OpenStack cloud environments.|
+    |[Oracle API](create-oracle-api-credentials.md)|API credentials for Oracle Cloud Infrastructure discovery.|
+    |[oVirt](discovery-and-service-mapping-patterns/red-hat-virtualization-discovery.md)|Credentials for oVirt virtualization environments.|
+    |[VMWare](discovery/vmware-cloud-discovery.md)|Credentials for VMware vCenter cloud environments.|
 
 4.  Select **Create new**.
 

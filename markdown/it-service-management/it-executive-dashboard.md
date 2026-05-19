@@ -13,7 +13,7 @@ breadcrumb: [Legacy: Performance Analytics ITSM Dashboards, Platform Analytics I
 
 See a high-level view across all of ITSM.
 
-IT executives can use the [ITSM Success Dashboards](../../../product/itsm-success-dashboard/concept/explore-success-dashboard-indicators.md) to view the metrics for ITSM.
+IT executives can use the [ITSM Success Dashboards](itsm-success-dashboard-indicators/explore-success-dashboard-indicators.md) to view the metrics for ITSM.
 
 ![Animated tour of the tabs of the IT Executive dashboard](../image/itsm-it-executive.gif)
 

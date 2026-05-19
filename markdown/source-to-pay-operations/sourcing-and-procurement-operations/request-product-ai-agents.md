@@ -61,12 +61,12 @@ Use Now Assist’s AI-powered chat interface to upload a Statement of Work \(SOW
 -   **[Upload a quote to request a purchase using the Now Assist AI agent](agentic-ai-spo-quote.md)**  
 Use Now Assist's AI-powered chat interface for requesting a purchase by describing your needs, uploading a quote, and submitting the request from the Employee Center. Now Assist analyzes the uploaded quote and automatically creates a purchase requisition.
 
-**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](../concept/agentic-ai-now-assist-spo.md)
+**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](agentic-ai-now-assist-spo.md)
 
 **Related topics**  
 
 
-[Conversational intake for sourcing and procurement agentic workflow](../concept/spo-help-fulfill-pr-agentic.md)
+[Conversational intake for sourcing and procurement agentic workflow](spo-help-fulfill-pr-agentic.md)
 
 [Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](activate-fulfill-pr-agentic-workflow.md)
 

@@ -17,7 +17,7 @@ Categorize your planning items based on your requirement by adding tags.
 
 ## Before you begin
 
-[Create a portfolio plan](../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md)
+[Create a portfolio plan](create-portfolio-plans-in-alignment-planner-workspace.md)
 
 Role required: sn\_align\_core.apw\_user
 

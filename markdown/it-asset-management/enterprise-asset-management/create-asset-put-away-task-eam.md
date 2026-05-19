@@ -34,7 +34,7 @@ You can create an asset put away task in the Enterprise Asset Workspace for the 
     -   In the Stockrooms tab, select a Stockroom and then in the Open stockroom tasks section, select the **Open put away tasks** card. Select **New**.
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Asset put away task fields](../reference/put-away-task-form-eam.md).
+    For a description of the field values, see [Asset put away task fields](put-away-task-form-eam.md).
 
 4.  Save your modifications.
 
@@ -44,5 +44,5 @@ You can create an asset put away task in the Enterprise Asset Workspace for the 
         **Note:** **Drop off location** field value is required to close the Asset put away task.
 
 
-**Parent Topic:**[Manage asset put away using the Enterprise Asset Workspace](../concept/manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
+**Parent Topic:**[Manage asset put away using the Enterprise Asset Workspace](manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
 

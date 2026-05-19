@@ -106,7 +106,7 @@ Starting
 For periodical workflows, the first date and time to run the workflow. For scheduled workflows run once, the date and time to run the workflow.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow administration](../../workflow/concept/c_WorkflowAdministration.md)
+</table>**Parent Topic:**[Workflow administration](c_WorkflowAdministration.md)
 
 **Related topics**  
 

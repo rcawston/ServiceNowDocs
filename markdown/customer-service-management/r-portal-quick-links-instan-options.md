@@ -90,7 +90,7 @@ The default display style is Thumbnail.
 </table>**Related topics**  
 
 
-[Portal Quick Links widget](../concept/portal-quick-links-widget.md)
+[Portal Quick Links widget](customer-self-service-and-omnichannel-engagement/portal-quick-links-widget.md)
 
-[Add and configure the Portal Quick Links widget](../task/config-portal-quick-links-widget-inst-optns.md)
+[Add and configure the Portal Quick Links widget](customer-self-service-and-omnichannel-engagement/config-portal-quick-links-widget-inst-optns.md)
 

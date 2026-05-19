@@ -33,10 +33,10 @@ If permanent credentials aren't defined for the member account, Cloud Configurat
 
 3.  Fill the values on the Service Account Assume Role Config form.
 
-    For a description of the form fields, see [Cloud Configuration Governance Service Account Assume Role Config form](../../itom-cloud-accelerate/reference/ccg-service-account-assume-role-config-form.md).
+    For a description of the form fields, see [Cloud Configuration Governance Service Account Assume Role Config form](ccg-service-account-assume-role-config-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Set up Cloud Configuration Governance for AWS](../../itom-cloud-accelerate/task/set-up-ccg-for-aws.md)
+**Parent Topic:**[Set up Cloud Configuration Governance for AWS](set-up-ccg-for-aws.md)
 

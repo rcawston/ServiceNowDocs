@@ -17,7 +17,7 @@ Review employee area and space reservation requests in Workplace Core and approv
 
 ## Before you begin
 
-To approve or reject a workplace request using your mobile device, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To approve or reject a workplace request using your mobile device, you must have the [Now® Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app.
 
 Role required: approver\_user
 

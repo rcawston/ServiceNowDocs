@@ -74,7 +74,7 @@ When scanning an asset in the inventory, if a new asset is detected that doesnâ€
 
     **Note:** Depending on the IRE rule configured for the selected **Model** field value, either **Asset Tag**, **Serial Number**, or **MAC address** field value is required to save the audit record.
 
-    For more details on these field descriptions, see [Asset record fields](../../asset-management/reference/asset-record-fields.md).
+    For more details on these field descriptions, see [Asset record fields](asset-record-fields.md).
 
 13. Tap **Submit**.
 
@@ -85,5 +85,5 @@ When scanning an asset in the inventory, if a new asset is detected that doesnâ€
 
 In the audit results, the **New** field value is incremented for each new asset scanned in the inventory.
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](ham-inventory-audit.md)
 

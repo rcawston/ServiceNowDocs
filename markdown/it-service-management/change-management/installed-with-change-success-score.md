@@ -47,5 +47,5 @@ Change Success Score Rating \[chg\_success\_score\_rating\]
 Defines the record that associates a rating choice and color with a Change Success Score range, such as, 0 to 499.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Change Management - Change Success Score](../task/activate-change-success-score.md)
+</table>**Parent Topic:**[Activate Change Management - Change Success Score](activate-change-success-score.md)
 

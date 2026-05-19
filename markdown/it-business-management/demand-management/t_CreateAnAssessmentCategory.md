@@ -33,16 +33,16 @@ The Demand Management application comes with an assessment metric type named **D
 
     |Assessment metric category|Data source|Description|
     |--------------------------|-----------|-----------|
-    |**Size**|**T-Shirt size** field on the [Demand](../../../product/planning-and-policy/task/t_CreatingDemands.md) form.|Assesses demand size relative to the size of other demands.|
+    |**Size**|**T-Shirt size** field on the [Demand](t_CreatingDemands.md) form.|Assesses demand size relative to the size of other demands.|
     |**Strategic Alignment**|[View an assessment category result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewACategoryResult.md) field in the assessment category result for the Strategic Alignment metric category.|Assesses how closely the demand aligns with strategic goals of the organization compared to other demands.|
     |**Risk**|**Rating** field in the assessment category result for the Risk metric category.|Assesses demand risks compared to other demands.|
     |**ROI**|**Impact** and **Financial return** fields on the Demand form.|Assesses demand return on investment compared to other demands.|
     |**Cost**|**Labor costs**, **Capital expense**, and **Operating expense** fields on the Demand form.|Assesses demand cost compared to other demands.|
 
 
-**Parent Topic:**[Set up Demand Management](../../../product/planning-and-policy/concept/c_SettingUpDemandManagement.md)
+**Parent Topic:**[Set up Demand Management](c_SettingUpDemandManagement.md)
 
-**Previous topic:**[Populate the stakeholder registry](../../../product/planning-and-policy/task/t_PopulatingTheStakeholderRegistry.md)
+**Previous topic:**[Populate the stakeholder registry](t_PopulatingTheStakeholderRegistry.md)
 
-**Next topic:**[Configure a widget for the financial metrics of a demand](../../../product/planning-and-policy/task/configure-widget-demand-financials.md)
+**Next topic:**[Configure a widget for the financial metrics of a demand](configure-widget-demand-financials.md)
 

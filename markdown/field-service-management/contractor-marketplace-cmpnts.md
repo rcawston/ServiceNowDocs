@@ -140,7 +140,7 @@ Function
 
 </th></tr></thead><tbody><tr><td>
 
-Marketplace tasksEnsure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](../task/activate-contractor-marketplace.md).
+Marketplace tasksEnsure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](workforce-optimization-for-field-service/activate-contractor-marketplace.md).
 
 Demo data is provided with this plugin.
 

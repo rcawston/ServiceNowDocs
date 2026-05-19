@@ -20,7 +20,7 @@ Complete a safety inspection or audit survey assigned to you in the offline mode
 Verify the following conditions:
 
 -   The system properties for the offline mode behavior of the mobile application are configured. For more information, see [Configure offline mode behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-offline-mode.md).
--   The offline mode for the Mobile Agent app on your mobile device is turned on. For more information, see [Offline mode for mobile](../concept/hs-health-safety-mobile.md#section_hs_mobile_offline_mode).
+-   The offline mode for the Mobile Agent app on your mobile device is turned on. For more information, see [Offline mode for mobile](hs-health-safety-mobile.md#section_hs_mobile_offline_mode).
 -   The **glide.sg.offline.scheduled\_download.enabled** system property for scheduled offline caching is set. If the property is not set, manually update cache before you go offline. To update cache, navigate to **Settings** and tap **Update Cache**. This ensures that the survey is downloaded and it's ready for you to complete.
 
 Role required: none
@@ -48,5 +48,5 @@ For more information on how offline mode works in the mobile app, see [Offline m
 6.  Tap **Submit**.
 
 
-**Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](../concept/hs-configure-manage-safety-inspections-audits-mobile.md)
+**Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](hs-configure-manage-safety-inspections-audits-mobile.md)
 

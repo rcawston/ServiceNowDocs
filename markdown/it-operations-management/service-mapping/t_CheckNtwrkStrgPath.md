@@ -75,12 +75,12 @@ You can see the change history for network and storage paths for application ser
 7.  If you access the network or storage path map from Event Management, you can see the list of alerts related to this path appear at the bottom of the screen.
 
 
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 
 **Related topics**  
 
 
-[Application service maps in classic Service Mapping](../concept/c_UndestandMaps.md)
+[Application service maps in classic Service Mapping](c_UndestandMaps.md)
 
-[SNMP-based queries](../reference/snmp-based-queries.md)
+[SNMP-based queries](snmp-based-queries.md)
 

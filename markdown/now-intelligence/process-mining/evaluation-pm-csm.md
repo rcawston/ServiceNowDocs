@@ -27,16 +27,16 @@ This evaluation version works on the data that you have stored in your productio
 -   Includes introduction videos, FAQs, Academy sessions, and use cases.
 -   Auto-retire is set to false.
 
-The promin.pa\_integration\_required\_roles is already available that would enable you to run the project. For more information, see [Process Mining properties](../reference/components-installed.md#).
+The promin.pa\_integration\_required\_roles is already available that would enable you to run the project. For more information, see [Process Mining properties](components-installed.md#).
 
-For more information, see [Run the Process Mining evaluation project](../task/run-evaluation-project.md).
+For more information, see [Run the Process Mining evaluation project](run-evaluation-project.md).
 
 **Parent Topic:**[Evaluation projects](evaluate-pm.md)
 
 **Related topics**  
 
 
-[Create a dashboard with the in-line editor](../../../use/dashboards/task/create-db-in-ac.md)
+[Create a dashboard with the in-line editor](../create-db-in-ac.md)
 
-[Analytics Hub](../../../use/performance-analytics/concept/c_UsePerformanceAnalyticsScorecards.md)
+[Analytics Hub](../performance-analytics/c_UsePerformanceAnalyticsScorecards.md)
 

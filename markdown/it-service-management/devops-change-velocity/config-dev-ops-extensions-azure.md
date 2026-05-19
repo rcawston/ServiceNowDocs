@@ -21,7 +21,7 @@ Role required: sn\_devops.admin
 
 ## About this task
 
-You can use **ServiceNow DevOps** extension on [Visual Studio Marketplace - Extensions for Azure DevOps](https://marketplace.visualstudio.com/azuredevops) to integrate your Azure pipeline with the ServiceNow DevOps application. For more information about artifacts and packages in DevOps Change Velocity, see [Artifacts and packages](../concept/using-dev-ops-release-change.md).
+You can use **ServiceNow DevOps** extension on [Visual Studio Marketplace - Extensions for Azure DevOps](https://marketplace.visualstudio.com/azuredevops) to integrate your Azure pipeline with the ServiceNow DevOps application. For more information about artifacts and packages in DevOps Change Velocity, see [Artifacts and packages](using-dev-ops-release-change.md).
 
 -   **ServiceNow DevOps** service connection
 
@@ -178,7 +178,7 @@ Select check box.
 
 ![New Service Connection in Azure DevOps for token based authentication method](../image/azure-service-connection-token.png "Azure pipeline - ServiceNow DevOps service connection token based authentication method")
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 
 ## Set up an Azure build \(CI\) pipeline in DevOps
 
@@ -217,8 +217,8 @@ Steps
 1.  In the **Display name** field, enter **ServiceNow Change Acceleration**.
 2.  In the **ServiceNow endpoint** field, enter `My Connection`.
 3.  In the **Upstream job executed** field, enter the value that indicates the previous job in line. For example, the job before Server might be `Test`.
-4.  In the **Change request details** field, set [closure code and change request fields](../concept/dev-ops-config-change-details.md) from within the pipeline.
- Select the information icon to view sample output. For more information regarding change acceleration, see [change acceleration](../concept/dev-ops-change-acceleration.md).
+4.  In the **Change request details** field, set [closure code and change request fields](dev-ops-config-change-details.md) from within the pipeline.
+ Select the information icon to view sample output. For more information regarding change acceleration, see [change acceleration](dev-ops-change-acceleration.md).
 
 </td></tr><tr><td>
 
@@ -228,7 +228,7 @@ Steps
 
 1.  In the **ServiceNow endpoint** field, enter `My Connection`.
 2.  In the **Artifacts payload** field, enter the JSON containing list of artifacts.
- For more information regarding artifacts, see [Artifacts and packages](../concept/using-dev-ops-release-change.md).
+ For more information regarding artifacts, see [Artifacts and packages](using-dev-ops-release-change.md).
 
 </td></tr><tr><td>
 
@@ -239,7 +239,7 @@ Steps
 1.  In the **ServiceNow endpoint** field, enter `My Connection`.
 2.  In the **Package name** field, enter the name of the package that contains artifacts.
 3.  In the **Artifacts payload** field, enter the JSON containing build details and list of artifacts.
- For more information regarding artifacts, see [Artifacts and packages](../concept/using-dev-ops-release-change.md).
+ For more information regarding artifacts, see [Artifacts and packages](using-dev-ops-release-change.md).
 
 </td></tr><tr><td>
 
@@ -350,7 +350,7 @@ Timeout value in minutes, hours, or days.If the pre-deployment conditions fail, 
 
     -   When the source is the build pipeline, the `semantic version` property of the artifacts should be in the format `MAJOR.MINOR.PATCH` \(for example 5.1.3\).
     -   When the source is not the build pipeline, define a `semantic version` by implementing the **DevOpsArtifactSemanticVersionAPI** extension interface.
-    See [Artifacts and packages](../concept/using-dev-ops-release-change.md) for more information regarding artifacts.
+    See [Artifacts and packages](using-dev-ops-release-change.md) for more information regarding artifacts.
 
 
 ### Example

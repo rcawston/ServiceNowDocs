@@ -18,5 +18,5 @@ Reference topics provide information about troubleshooting common errors, logs, 
 -   **[Common errors in Virtual Agent API](virtual-agent-common-errors.md)**  
 This section describes some common errors in Virtual Agent API and how they can be resolved.
 
-**Parent Topic:**[Virtual Agent API](../concept/virtual-agent-api-landing-page.md)
+**Parent Topic:**[Virtual Agent API](virtual-agent-api-landing-page.md)
 

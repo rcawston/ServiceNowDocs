@@ -15,7 +15,7 @@ Configure a mobile alert overlay for a record screen to inform users of an impor
 
 ## Before you begin
 
-When configuring an alert for a record screen, you must have a record screen to display the alert. See, [Record screen](../concept/form-screen.md).
+When configuring an alert for a record screen, you must have a record screen to display the alert. See, [Record screen](form-screen.md).
 
 Role required: admin
 

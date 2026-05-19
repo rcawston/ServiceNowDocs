@@ -18,5 +18,5 @@ Magic links enable seamless authentication from a consumer instance to a provide
 **Related topics**  
 
 
-[Enable magic links](../task/service-bridge-v2-magic-links.md)
+[Enable magic links](service-bridge-v2-magic-links.md)
 

@@ -31,11 +31,11 @@ Add system properties to control MSIM application behavior. Following are the de
 **Related topics**  
 
 
-[Create a Report Template](../task/create-report-template.md)
+[Create a Report Template](create-report-template.md)
 
-[Create a Report Section Template](../task/create-report-section-template.md)
+[Create a Report Section Template](create-report-section-template.md)
 
-[Create a Report Subsection Template](../task/create-report-subsection-template.md)
+[Create a Report Subsection Template](create-report-subsection-template.md)
 
-[Create Report Subsection Element template](../task/create-report-subsection-element-template.md)
+[Create Report Subsection Element template](create-report-subsection-element-template.md)
 

@@ -29,14 +29,14 @@ The Core UI form header includes the following controls.
 |-------|----|-----------|
 |Back|![back icon](../image/FormBackUI15.png)|Navigates to the previously viewed page without saving changes.|
 |Form context menu|![form context menu icon](../../../administer/navigation-and-ui/image/MenuIconUI14.png)|Appears when a user clicks the menu icon beside the form title or right-clicks the form header. This menu is also called a right-click menu.|
-|Attachments|![attachments icon](../image/FormAttachmentsUI15.png)|Allows users to view and add attachments to the record. For more information, see [Add and manage attachments](../task/t_AddingAnAttachment.md).|
+|Attachments|![attachments icon](../image/FormAttachmentsUI15.png)|Allows users to view and add attachments to the record. For more information, see [Add and manage attachments](t_AddingAnAttachment.md).|
 |Show activity stream|![show activity stream icon](../image/FormLiveFeedUI15.png)|Moves focus to the journal entry section of the form. If the journal fields are not on the form, the activity stream opens in a fly-out window.|
-|Personalize form|![personalize form icon](../image/Personalize_Form_Icon_Helsinki.png)|Opens the form personalization menu. For more information, see [Personalize a form](../task/t_PersonalizeAForm.md).|
+|Personalize form|![personalize form icon](../image/Personalize_Form_Icon_Helsinki.png)|Opens the form personalization menu. For more information, see [Personalize a form](t_PersonalizeAForm.md).|
 |More options![More options icon](../image/IconUI16MoreOptions.png)|
 |Email|![email icon](../image/FormEmailUI15.png)|Opens an email window.|
 |Template bar|![edit tags icon](../image/IconToggleTemplateBar.png)|Opens a bar at the bottom of the form and lists available templates.|
 |Annotations|![annotations icon](../image/FormToggleAnnotUI15.png)|Displays on-form annotations. For more information, see [Administering form annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FormAnnotation.md).|
-|Tags|![edit tags icon](../image/FormEditTagsUI15.png)|Displays the option to create custom tags and categorize documents. For more information, see [Tags](../../common-ui-elements/concept/c_Tags.md).|
+|Tags|![edit tags icon](../image/FormEditTagsUI15.png)|Displays the option to create custom tags and categorize documents. For more information, see [Tags](c_Tags.md).|
 |Remaining controls|
 |Submit or Update| |Saves changes and returns to the previously viewed page.|
 |Related actions| |Provides standard actions in the form header for some tables, such as Close Incident or Resolve Incident in incident.|

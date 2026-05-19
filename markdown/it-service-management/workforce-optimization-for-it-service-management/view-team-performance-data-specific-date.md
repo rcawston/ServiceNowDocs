@@ -50,5 +50,5 @@ Role required: sn\_wfo\_cfg\_itsm.manager and sn\_team\_perf.team\_performance\_
     You can close the date pill filter to go back to the data you want to see for the selected date range.
 
 
-**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](../concept/teams-workforce-optimization-configurable-wfo-itsm.md)
+**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](teams-workforce-optimization-configurable-wfo-itsm.md)
 

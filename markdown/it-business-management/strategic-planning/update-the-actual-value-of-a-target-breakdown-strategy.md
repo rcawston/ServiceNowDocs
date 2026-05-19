@@ -77,14 +77,14 @@ All the target breakdowns are displayed.
 </td></tr></tbody>
 </table>4.  On the form, update the **Actual** field for the target breakdown and add a business justification in the **Remark** field.
 
-    For a description of the field values, see [Target Breakdown form](../../spw-goals/reference/target-breakdown-form-sp.md).
+    For a description of the field values, see [Target Breakdown form](../scenario-planning-in-spw/target-breakdown-form-sp.md).
 
 5.  Select **Save**.
 
 
 ## Result
 
-After the **Actual** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](../../alignment-planner-workspace/concept/progress-value-calculation-egm.md). For information on how the actual value of the target breakdown is rolled up to its target, see [Target breakdowns](../concept/target-breakdowns-strategy.md).
+After the **Actual** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](../scenario-planning-in-spw/progress-value-calculation-egm.md). For information on how the actual value of the target breakdown is rolled up to its target, see [Target breakdowns](target-breakdowns-strategy.md).
 
 **Related topics**  
 

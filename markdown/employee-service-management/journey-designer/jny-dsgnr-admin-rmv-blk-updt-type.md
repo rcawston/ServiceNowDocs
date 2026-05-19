@@ -49,5 +49,5 @@ Role required: sn\_jny.admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Manage Journey designer bulk updates for tasks](../concept/jny-dsgnr-bulk-update-admnstrtn.md)
+**Parent Topic:**[Manage Journey designer bulk updates for tasks](jny-dsgnr-bulk-update-admnstrtn.md)
 

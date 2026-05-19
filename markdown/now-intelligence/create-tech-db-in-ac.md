@@ -71,12 +71,12 @@ The technical editor lets you add any UI Builder component to your dashboard. Yo
 11. Click **Save** at any time to save the changes you've made to the dashboard.
 
 
-**Parent Topic:**[Technical dashboards](../../performance-analytics/concept/technical-dashboards.md)
+**Parent Topic:**[Technical dashboards](technical-dashboards.md)
 
 **Related topics**  
 
 
-[Data visualizations in Platform Analytics](../../performance-analytics/concept/analytics-center-data-visualizations.md)
+[Data visualizations in Platform Analytics](analytics-center-data-visualizations.md)
 
-[Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md)
+[Filters in Platform Analytics](interactive-filters-workspace.md)
 

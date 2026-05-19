@@ -15,9 +15,9 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideRecordUtil script include is a utility class for working with GlideRecords.
 
-This script include is available in server-side scripts. For use cases, see [Using discovery script includes](../../../../../script/server-scripting/concept/c_ScriptIncludes.md#).
+This script include is available in server-side scripts. For use cases, see [Using discovery script includes](../scripts/c_ScriptIncludes.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideRecordUtil - getCIGR\(String sys\_id\)
 
@@ -31,7 +31,7 @@ Use this method to quickly obtain a specific CI without knowing its associated c
 
 |Type|Description|
 |----|-----------|
-|[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#)|GlideRecord object of the specified CI.|
+|[GlideRecord](c_GlideRecordAPI.md#)|GlideRecord object of the specified CI.|
 
 The following example returns the GlideRecord object for the specified CI using just the sys\_id of the CI.
 
@@ -47,7 +47,7 @@ Returns an array of all the fields in the specified GlideRecord.
 
 |Name|Type|Description|
 |----|----|-----------|
-|gr|[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#)|GlideRecord instance positioned to a valid record.|
+|gr|[GlideRecord](c_GlideRecordAPI.md#)|GlideRecord instance positioned to a valid record.|
 
 |Type|Description|
 |----|-----------|
@@ -93,7 +93,7 @@ This method is useful when you need to load a GlideRecord from a sys\_id, but yo
 
 |Type|Description|
 |----|-----------|
-|[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#)|The GlideRecord for the specified sys\_id.|
+|[GlideRecord](c_GlideRecordAPI.md#)|The GlideRecord for the specified sys\_id.|
 
 ```
 var now_GR = new GlideRecordUtil().getGR("cmdb_ci_computer", "2dfd7c8437201000deeabfc8bcbe5d56");
@@ -134,7 +134,7 @@ Sets the fields in the specified GlideRecord with the field values contained in 
 |Name|Type|Description|
 |----|----|-----------|
 |hashMap|Object|An Object instance \(being used as a hashmap\), with properties named for fields and containing the fields' value.|
-|now\_GR|[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#)|The GlideRecord instance to receive the field values.|
+|now\_GR|[GlideRecord](c_GlideRecordAPI.md#)|The GlideRecord instance to receive the field values.|
 |ignore|Object|An optional hashmap of field names to ignore.|
 
 |Type|Description|
@@ -185,7 +185,7 @@ now\_GR
 
 </td><td>
 
-[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord](c_GlideRecordAPI.md#)
 
 </td><td>
 

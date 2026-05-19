@@ -24,5 +24,5 @@ You can check the health of an application or device from an alert or incident o
 |App or Device ID|Tracks the app or device health or performance.|
 |User|Tracks the number of users.|
 
-**Parent Topic:**[DEX Application and Device Health reference](../reference/dex-console-reference.md)
+**Parent Topic:**[DEX Application and Device Health reference](dex-console-reference.md)
 

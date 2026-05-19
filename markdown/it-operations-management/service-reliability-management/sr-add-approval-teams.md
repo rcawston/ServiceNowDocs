@@ -49,7 +49,7 @@ You can customize team governance by turning off approvals or changing the appro
 5.  Select **Save** to update your team governance settings.
 
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
 **Previous topic:**[Customize service approval settings in SRM](sr-add-approval-services.md)
 

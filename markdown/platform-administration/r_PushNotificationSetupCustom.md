@@ -23,7 +23,7 @@ This process describes configuration used in the ServiceNow mobile app. Push Not
 
 ## Before you begin
 
-Complete the steps in [Activate push notifications](../task/t_ActivatePushNotifications.md).
+Complete the steps in [Activate push notifications](t_ActivatePushNotifications.md).
 
 Assign the push\_admin role to your organization's mobile app developer.
 
@@ -31,34 +31,34 @@ Assign the push\_admin role to your organization's mobile app developer.
 
 Configure push notifications for your custom push app. This process differs for iOS and Android devices.
 
-1.  \(iOS only\) [Upload a push certificate to your instance](../task/upload-push-cert.md)
+1.  \(iOS only\) [Upload a push certificate to your instance](upload-push-cert.md)
 
     Upload a push certificate to your instance so that you can use it later to connect your iOS device to the push notification system.
 
-2.  [Create a push application record for your custom app](../task/t_CreateAMobileApplication.md)
+2.  [Create a push application record for your custom app](t_CreateAMobileApplication.md)
 
     Register your customized mobile application with your instance to receive push notifications for the application. The instance uses this push application record to identify the device + push application combination necessary to determine a push notification recipient.
 
-3.  [Create push message content](../task/t_CreateAMobileMessageLayout.md)
+3.  [Create push message content](t_CreateAMobileMessageLayout.md)
 
     Create a JSON content payload for different types of push notifications. The content determines how a push notification appears on the push application, and whether the user can send a message in response to the push notification. The push admin can create attribute definitions that specify a default push action script or string, for use in the push message content.
 
-4.  \(Optional\) [Create a push message attribute definition](../task/t_CreateAPushMessageAttribute.md)
+4.  \(Optional\) [Create a push message attribute definition](t_CreateAPushMessageAttribute.md)
 
     Push message attribute definitions allow you to create reusable properties for push message content specification.
 
-5.  \(Optional\) [Create an attribute value or action for a push message](../task/t_CreateAPushMessageAttributeValue.md)
+5.  \(Optional\) [Create an attribute value or action for a push message](t_CreateAPushMessageAttributeValue.md)
 
     You can create attribute values that override the default attribute definitions used in the push message content.
 
-6.  \(Optional\) [Create a push action](../task/t_CreateAMobileActionScript.md)
+6.  \(Optional\) [Create a push action](t_CreateAMobileActionScript.md)
 
     A push action is a server-side script that runs when the instance receives a response to an actionable push message.
 
 
 ## What to do — admin
 
-Create the push messages and push notifications: The administrator [creates the push messages](../task/t_CreateAPushMessage.md), [sets up push notifications](../task/t_CreatePushNotification.md) for the custom push app, and if desired, the content.
+Create the push messages and push notifications: The administrator [creates the push messages](t_CreateAPushMessage.md), [sets up push notifications](t_CreatePushNotification.md) for the custom push app, and if desired, the content.
 
 ## Next steps
 

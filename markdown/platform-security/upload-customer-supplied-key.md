@@ -17,9 +17,9 @@ You can use your own customer-supplied key instead of using the ServiceNow® sys
 
 Role required: security\_admin  and sn\_kmf.cryptographic\_manager  or sn\_kmf.admin
 
-If you’re NOT supplying your own keys, you don’t need to perform this procedure. To create a cryptographic module with ServiceNow® keys, go to [Create a cryptographic module](create-cryptographic-module.md) or [Create cryptographic module for Field Encryption](create-PE-cryptographic-module.md).
+If you’re NOT supplying your own keys, you don’t need to perform this procedure. To create a cryptographic module with ServiceNow® keys, go to [Create a cryptographic module](platform-encryption/create-cryptographic-module.md) or [Create cryptographic module for Field Encryption](create-PE-cryptographic-module.md).
 
-**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md) for more information.
+**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](activate-platform-encryption.md) for more information.
 
 **Important:** You can’t revoke a customer supplied key.
 
@@ -40,9 +40,9 @@ If you’re NOT supplying your own keys, you don’t need to perform this proced
 
 ## What to do next
 
-Now that you have finished configuring your cryptographic module with your customer-supplied key, move on to [Create a module access policy](create-module-access-policy.md)
+Now that you have finished configuring your cryptographic module with your customer-supplied key, move on to [Create a module access policy](platform-encryption/create-module-access-policy.md)
 
-**Parent Topic:**[Using customer-supplied keys with Field Encryption Enterprise](../../encryption/concept/csk-landing.md)
+**Parent Topic:**[Using customer-supplied keys with Field Encryption Enterprise](csk-landing.md)
 
-**Parent Topic:**[Using customer supplied keys with Column Level Encryption Enterprise](../../encryption/concept/csk-landing-2.md)
+**Parent Topic:**[Using customer supplied keys with Column Level Encryption Enterprise](csk-landing-2.md)
 

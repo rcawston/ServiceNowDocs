@@ -15,13 +15,13 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The NowDataSDK class provides functions that enable the creation and initialization of various features services such as NowGraphQLService, NowAttachmentService, NowTableService, and NowAPIService.
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowDataSDK - makeGraphQLService\(instanceURL: URL\)
 
 Creates and initializes an instance of the NowGraphQLService feature. This service enables access to the GraphQL API on your ServiceNow instance.
 
-For additional information on the ServiceNow GraphQL API, see [Query record data using the GraphQL API framework](../../../../../../integrate/graphql/concept/scripted-graph-ql.md).
+For additional information on the ServiceNow GraphQL API, see [Query record data using the GraphQL API framework](../web-services/scripted-graph-ql.md).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -53,7 +53,7 @@ suspend fun getNowGraphQLService(): NowGraphQLService? {
 
 Creates and initializes an instance of the NowAPIService service. This service allows you to access the public REST APIs exposed by your ServiceNow instance.
 
-In addition, you can develop custom scripted REST APIs within your ServiceNow instance and access them within your Android application using the [NowAPIService](../../NowAPIService/concept/NowAPIServiceAndroidInterface.md#) API. For additional information on ServiceNow REST APIs, see [Scripted REST APIs](../../../../../../integrate/custom-web-services/concept/c_CustomWebServices.md).
+In addition, you can develop custom scripted REST APIs within your ServiceNow instance and access them within your Android application using the [NowAPIService](NowAPIServiceAndroidInterface.md#) API. For additional information on ServiceNow REST APIs, see [Scripted REST APIs](../rest-api-explorer/c_CustomWebServices.md).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -87,7 +87,7 @@ Creates and initializes an instance of the NowAttachmentService feature.
 
 This service enables you to upload, download, and delete attachment files from your ServiceNow instance. After you upload an attachment to your instance, it generates metadata for the attachment that you can then download into your Android application.
 
-For additional information on ServiceNow attachments, see [Attachment API](../../../../../../integrate/inbound-rest/concept/c_AttachmentAPI.md#).
+For additional information on ServiceNow attachments, see [Attachment API](../rest-apis/c_AttachmentAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -120,7 +120,7 @@ suspend fun getNowAttachmentService(): NowAttachmentService? {
 
 Creates and initializes an instance of the NowTableService feature.
 
-This service enables you to access to the REST Table API on a ServiceNow instance. For additional information on the REST Table API, see [Table API](../../../../../../integrate/inbound-rest/concept/c_TableAPI.md#).
+This service enables you to access to the REST Table API on a ServiceNow instance. For additional information on the REST Table API, see [Table API](../rest-apis/c_TableAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

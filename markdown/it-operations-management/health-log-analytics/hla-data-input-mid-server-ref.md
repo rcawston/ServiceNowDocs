@@ -84,5 +84,5 @@ The time when the last log streamed in the data input.
 |Character encoding|The character encoding for this data input.|UTF-8|
 |Drop if queue is full|Option to discard logs if there is a load on the MID Server.| |
 
-**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

@@ -36,5 +36,5 @@ Role required: sn\_sd.success\_dashboard\_admin, or sn\_sd.success\_dashboard\_r
 7.  Select **Copy URL** to copy a link to the dashboard and send it through different means.
 
 
-**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](../concept/measuring-performance-success-dashboard.md)
+**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](measuring-performance-success-dashboard.md)
 

@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns uses the Alibaba - Availability Zone \(LP
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md).
+Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -38,5 +38,5 @@ Discovery creates these relationships to support the availability zone discovery
 |---|------------|---|
 |Alibaba Datacenter \[cmdb\_ci\_alibaba\_datacenter\]|Contains::Contained by|Availability Zone \[cmdb\_ci\_availability\_zone\]|
 
-**Parent Topic:**[Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md)
+**Parent Topic:**[Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md)
 

@@ -42,5 +42,5 @@ Create relationship records for your organization.
 6.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

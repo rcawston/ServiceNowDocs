@@ -127,12 +127,12 @@ This is the state of the risk when the risk is no longer valid but the organizat
 -   **Navigate to assessment scope**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manage risks, risk statements, and risk frameworks](../reference/r_RiskRegister.md)
+</table>**Parent Topic:**[Manage risks, risk statements, and risk frameworks](r_RiskRegister.md)
 
 **Related topics**  
 
 
 [Manage risks linked to the same risk statement](manage_risks_linked_to_same_risk_stmnt.md)
 
-[Risk hierarchy and scoring](../reference/risk-hierarchy-scoring.md)
+[Risk hierarchy and scoring](risk-hierarchy-scoring.md)
 

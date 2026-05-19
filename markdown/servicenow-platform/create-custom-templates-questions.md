@@ -29,7 +29,7 @@ You can use the Custom Metric Type module for surveys to create the custom metri
 
 3.  On the Custom Metric form, fill in the fields.
 
-    For a description of the field values, see [Custom Metric form](../reference/custom-metric-form-fields.md).
+    For a description of the field values, see [Custom Metric form](custom-metric-form-fields.md).
 
 4.  Select **Submit**.
 
@@ -40,20 +40,20 @@ You can use the Custom Metric Type module for surveys to create the custom metri
     -   If the custom metric type is inactive or deleted, the question is not rendered on the survey form.
     -   If the value in the **Macro** or **Widget** field is updated, the updated value is used to render a survey form even if an instance was created before updating the values for macros or widgets.
 
-**Parent Topic:**[Survey designer](../concept/c_SurveyDesigner.md)
+**Parent Topic:**[Survey designer](c_SurveyDesigner.md)
 
 **Related topics**  
 
 
-[Survey designer elements](../concept/c_SurveyDesignerElements.md)
+[Survey designer elements](c_SurveyDesignerElements.md)
 
 [Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md)
 
-[Survey categories](../concept/c_SurveyCategory.md)
+[Survey categories](c_SurveyCategory.md)
 
 [Create a question in the survey designer](t_CreateQuestSurveyDesigr.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
 [Edit a survey in the survey designer](t_EditASurveyInTheSurveyDesigner.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_egd\_core.admin
 
 3.  Fill in the **Employee Application Access Criteria** form.
 
-    Read about the fields in this form in [Employee Application Access Criteria reference](../reference/egd-empl-profile-app-access-criteria-form.md). Use a filter condition that meets your criteria for who should be licensed.
+    Read about the fields in this form in [Employee Application Access Criteria reference](egd-empl-profile-app-access-criteria-form.md). Use a filter condition that meets your criteria for who should be licensed.
 
     **Note:** All conditions on a single criteria form must be met. However, a user doesn't have to meet all of the criteria listed for employee licensing, they just have to meet the criteria for one of the records.
 
@@ -38,5 +38,5 @@ Role required: sn\_egd\_core.admin
 
 You can view the list of licensed users by navigating to **All** &gt; **Employee Profile** &gt; **Application licensing** and opening a record.
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

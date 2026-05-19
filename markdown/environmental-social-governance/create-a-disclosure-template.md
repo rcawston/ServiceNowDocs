@@ -70,5 +70,5 @@ Document to add.**Note:** The file extension must be .docx.
     **Note:** Ensure that the size of the file does not exceed 10 MB and only one template for each disclosure type is defined.
 
 
-**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](../concept/esg-disclosures.md)
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](esg-disclosures.md)
 

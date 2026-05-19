@@ -100,5 +100,5 @@ The AI agent creates fulfillment plans by analyzing HR case details, employee in
 
 ## Generating a resolution plan for an HR case
 
-For more information, see [Generate a fulfillment plan](../task/generate-rp.md)
+For more information, see [Generate a fulfillment plan](generate-rp.md)
 

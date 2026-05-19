@@ -20,5 +20,5 @@ For more information about the API scope for ServiceNow Collaboration services f
 -   **[API permissions/scope for ServiceNow integration with Zoom](api-scope-sn-integ-zoom.md)**  
 The list of the API permissions/scope requested by the ServiceNow Collaboration services for Zoom are as follows.
 
-**Parent Topic:**[ServiceNow for Zoom](../concept/sn_zoomIntegration.md)
+**Parent Topic:**[ServiceNow for Zoom](sn_zoomIntegration.md)
 

@@ -62,7 +62,7 @@ Make sure that the service instances aren't too large:
 If the service is too large, perform the following actions:
 
 -   [Modify tag definitions used for mapping](modify-tag-category-family.md) to make sure Service Mapping includes only relevant CIs in the service instance.
--   If necessary, [Tag-based discovery configuration](../concept/tag_discovery_configuration.md) to change which CIs Service Mapping includes in tag-based service instances.
+-   If necessary, [Tag-based discovery configuration](tag_discovery_configuration.md) to change which CIs Service Mapping includes in tag-based service instances.
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](c_DefineMapBusinessServices.md)
 

@@ -26,11 +26,11 @@ The system exports a single XML file that contains a survey definition \[asmt\_m
 -   Survey users \[asmt\_m2m\_category\_user\]
 -   Trigger Condition \[asmt\_condition\]
 
--   **[Export a survey](../task/t_ExportASurvey.md)**  
+-   **[Export a survey](t_ExportASurvey.md)**  
 You can export a survey and then import it to another instance.
--   **[Import a survey](../task/t_ImportASurvey.md)**  
+-   **[Import a survey](t_ImportASurvey.md)**  
 You can import a survey that has been exported as an XML file. The exported XML file does not contain result data.
--   **[Use update sets for surveys and assessments](../task/t_UseUpdateSetsForSurveyAssess.md)**  
+-   **[Use update sets for surveys and assessments](t_UseUpdateSetsForSurveyAssess.md)**  
 Use an update set to capture changes to surveys and assessments.
 
 **Parent Topic:**[Survey distribution](c_SurveyDistribution.md)
@@ -40,19 +40,19 @@ Use an update set to capture changes to surveys and assessments.
 
 [Email notifications for surveys](email-notification-for-surveys.md)
 
-[Send survey invitations to users](../task/t_SendSurveyInvitationsToUsers.md)
+[Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
 
-[Define a recipients list for surveys](../task/define-recipient-list.md)
+[Define a recipients list for surveys](define-recipient-list.md)
 
-[Add a recipients list to a survey](../task/add-recipient-list-survey.md)
+[Add a recipients list to a survey](add-recipient-list-survey.md)
 
-[Embed a survey within the Outlook email client](../task/embed-survey-in-outlook-email.md)
+[Embed a survey within the Outlook email client](embed-survey-in-outlook-email.md)
 
-[Enable localization for a survey](../task/enable-localization-survey.md)
+[Enable localization for a survey](enable-localization-survey.md)
 
 [Survey URLs](c_SurveyURLs.md)
 
-[Create a survey module](../task/t_CreatingASurveyModule.md)
+[Create a survey module](t_CreatingASurveyModule.md)
 
-[Configure a survey in the Connect chat support](../task/take-survey-connect-chat.md)
+[Configure a survey in the Connect chat support](take-survey-connect-chat.md)
 

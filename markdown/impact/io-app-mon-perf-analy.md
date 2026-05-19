@@ -62,5 +62,5 @@ Role required: admin
 13. Select any link in the **Interaction ID** column to view the details of either the slowest or fastest instance details.
 
 
-**Parent Topic:**[Analytics](../concept/io-analytics.md)
+**Parent Topic:**[Analytics](io-analytics.md)
 

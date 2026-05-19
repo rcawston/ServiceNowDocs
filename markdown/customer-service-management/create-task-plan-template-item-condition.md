@@ -44,7 +44,7 @@ You can also delete a condition by selecting the condition in the Template Item 
 
     The template item condition record opens in a new tab. The **Template item** field displays the number of the parent template item.
 
-    For more information about these fields, see [Template item condition form](../reference/task-plan-template-item-condition-form.md).
+    For more information about these fields, see [Template item condition form](task-plan-template-item-condition-form.md).
 
 7.  Select a table from the **Condition table** field.
 

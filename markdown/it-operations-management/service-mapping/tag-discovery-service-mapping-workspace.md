@@ -21,7 +21,7 @@ For information about the traditional tag-based discovery process, see [Tag-base
 
 **Note:**
 
-Access to tag-based service mapping in the Service Mapping workspace requires the installation of Service Mapping Plus version 1.16.3. For more information, see [Install Service Mapping Plus](../task/install-service-mapping-plus.md).
+Access to tag-based service mapping in the Service Mapping workspace requires the installation of Service Mapping Plus version 1.16.3. For more information, see [Install Service Mapping Plus](install-service-mapping-plus.md).
 
 1.  Discovery and Cloud Provisioning and Governance discover tags for cloud and resource configuration items \(CIs\) and then populate data for discovered tags into the Key Value \[cmdb\_key\_value\] table.
 2.  The administrator creates CI tag categories and defines tag keys that the categories contain. Tag categories contain tags with similar use. For example, if your organization has production and staging environments, you could create "production" and "staging" tag values.
@@ -51,7 +51,7 @@ Access to tag-based service mapping in the Service Mapping workspace requires th
 **Related topics**  
 
 
-[Tag-based mapping in the Service Mapping Workspace](../reference/tag-based-mapping-dashboard.md)
+[Tag-based mapping in the Service Mapping Workspace](tag-based-mapping-dashboard.md)
 
-[Map your application services using tags in the Service Mapping Workspace](../task/map-tag-based-services-workspace.md)
+[Map your application services using tags in the Service Mapping Workspace](map-tag-based-services-workspace.md)
 

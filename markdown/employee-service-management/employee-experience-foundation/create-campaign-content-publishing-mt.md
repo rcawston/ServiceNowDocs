@@ -15,9 +15,9 @@ breadcrumb: [Sending notifications to employees using Microsoft Teams, Integrati
 
 Create and distribute the Microsoft Teams campaigns using direct content publishing if you have the admin role.
 
--   **[Create notification content for Microsoft Teams](../task/create-campaign-content-publish-teams-mt.md)**  
+-   **[Create notification content for Microsoft Teams](create-campaign-content-publish-teams-mt.md)**  
 Create notifications to send messages directly to your employees through campaigns in Microsoft Teams.
--   **[Schedule delivery of Microsoft Teams notification content](../task/schedule-delivery-content-mt.md#)**  
+-   **[Schedule delivery of Microsoft Teams notification content](schedule-delivery-content-mt.md#)**  
 Schedule posting of notifications in Microsoft Teams channels.
 -   **[Translation support for Microsoft Teams notification campaigns](campaign-translation-support-mt.md)**  
 ServiceNow for Microsoft Teams supports localization to ServiceNow supported languages in campaigns.

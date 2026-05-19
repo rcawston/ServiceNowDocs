@@ -98,5 +98,5 @@ Demand Task
 A unit of work, created within a demand, to break down initial planning activities before converting the demand into a project. A demand task isn’t a planned task like a project task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management reference](../../service-portfolio-management2/concept/demand-management-reference.md)
+</table>**Parent Topic:**[Demand Management reference](demand-management-reference.md)
 

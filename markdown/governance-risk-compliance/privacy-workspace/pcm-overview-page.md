@@ -30,7 +30,7 @@ The Description section includes the detailed information that you can fill in w
 
 ## State section
 
-The State section includes the workflow states of a privacy case. For example in this section, you see various stages of the privacy case, such as New, Triage, Investigate, Resolve, Post case review, and Close. These states determine the status of the case. A privacy case administrator can configure these states in the Privacy Case Management application. For more information, see [Define the workflow states for a privacy case](../task/define-pcm-workflow-states.md).
+The State section includes the workflow states of a privacy case. For example in this section, you see various stages of the privacy case, such as New, Triage, Investigate, Resolve, Post case review, and Close. These states determine the status of the case. A privacy case administrator can configure these states in the Privacy Case Management application. For more information, see [Define the workflow states for a privacy case](define-pcm-workflow-states.md).
 
 ## Case schedules and milestones section
 

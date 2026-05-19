@@ -184,7 +184,7 @@ Basic authentication
 
 </td><td id="basic-authentication">
 
-The basic authentication profile to use when doing the test. You must create or select a basic authentication profile to assign to test steps to avoid authentication issues when running the test. For more information, see [Create a basic auth profile using the Automated Test Framework](../task/atf-create-basic-auth-profile.md).
+The basic authentication profile to use when doing the test. You must create or select a basic authentication profile to assign to test steps to avoid authentication issues when running the test. For more information, see [Create a basic auth profile using the Automated Test Framework](atf-create-basic-auth-profile.md).
 
 </td></tr><tr><td>
 

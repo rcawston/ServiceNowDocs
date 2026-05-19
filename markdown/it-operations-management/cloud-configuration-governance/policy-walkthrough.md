@@ -120,5 +120,5 @@ You can change any base-system policy by modifying settings or making the policy
 
 This example uses the settings available through the form configuration. To see example scripts that you could use in addition, see [Create a policy action script](create-policy-script.md).
 
-**Parent Topic:**[Policies for Cloud Provisioning](../concept/cloud-policy.md)
+**Parent Topic:**[Policies for Cloud Provisioning](cloud-policy.md)
 

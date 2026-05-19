@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-Many properties of the Get Table component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](../reference/properties-actions-ui-components.md).
+Many properties of the Get Table component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](properties-actions-ui-components.md).
 
 The properties unique to the Get Table component are given.
 
@@ -49,7 +49,7 @@ The properties unique to the Get Table component are given.
 
 7.  Add an anchor to the captured image by doing the following actions:
 
-    An anchor is a unique identifier that enables the Get Table component to identify the application where the component will perform an action. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Get Table component treats the whole captured image as an anchor. To know more about an anchor, see the steps to use the [Anchor](../concept/anchor.md).
+    An anchor is a unique identifier that enables the Get Table component to identify the application where the component will perform an action. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Get Table component treats the whole captured image as an anchor. To know more about an anchor, see the steps to use the [Anchor](anchor.md).
 
     1.  In the Get Table component, right-click the image and click **Add Anchor**.
 
@@ -99,5 +99,5 @@ The Get Table component extracts data from an HTML table and passes the data thr
 
 .
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

@@ -62,5 +62,5 @@ While creating these synthetic monitors from a post-incident recommended action,
 7.  Select the link on the success message to view the monitors created in Synthetic monitoring landing page.
 
 
-**Parent Topic:**[Configuring synthetic monitoring](../concept/configuring-synthetic-monitoring.md)
+**Parent Topic:**[Configuring synthetic monitoring](configuring-synthetic-monitoring.md)
 

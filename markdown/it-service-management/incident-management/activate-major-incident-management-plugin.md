@@ -71,19 +71,19 @@ Provides the ability to create on-call schedules and escalation trees. When an i
 
 -   **[Components installed with Incident Management - Major Incident Management](installed-with-mim.md)**  
 Several types of components are installed with activation of the Incident Management - Major Incident Management plugin, including tables and user roles.
--   **[Slack notification installed with Major Incident Management](../reference/slack-notification-installed-with-MIM.md)**  
+-   **[Slack notification installed with Major Incident Management](slack-notification-installed-with-MIM.md)**  
 Slack notifications are added with activation of Incident Management – Major Incident Management.
 
-**Parent Topic:**[Major Incident Management plugins](../concept/mim-plugins.md)
+**Parent Topic:**[Major Incident Management plugins](mim-plugins.md)
 
 **Related topics**  
 
 
-[Managing major incidents](../concept/major-incident-management.md)
+[Managing major incidents](major-incident-management.md)
 
-[Legacy: Major incident overview dashboard](../concept/major-incident-overview.md)
+[Legacy: Major incident overview dashboard](major-incident-overview.md)
 
-[Major incident workbench](../concept/major-incident-workbench.md)
+[Major incident workbench](major-incident-workbench.md)
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

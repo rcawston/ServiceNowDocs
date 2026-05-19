@@ -137,5 +137,5 @@ Notes about the task that are visible to all users within your organization.
 -   If you set the **Repair result** field to **Repaired**, complete the corresponding Evaluate asset task by evaluating the repaired asset and determining if it can be redeployed. For detailed instructions, see [Complete the Evaluate asset task for a defective Device as a Service DaaS asset](evaluate-repaired-daas-asset-rma-response-order.md).
 -   If you set the **Repair result** field to **Unrepairable**, complete the corresponding Ship task by having the customer ship the asset to you for replacement. For detailed instructions, see [Complete the Ship task for a defective Device as a Service DaaS asset](ship-daas-asset-rma-response-order.md).
 
-**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](../concept/completing-rma-response-order-daas-assets.md)
+**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](completing-rma-response-order-daas-assets.md)
 

@@ -52,9 +52,9 @@ Build apps smarter and deliver them faster with the new ServiceNow Studio. Servi
     Before building your first application, you may want to learn some basic information about application development. This phase is optional, and you can complete it at any time while you work on other phases.
 
     -   How [ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-platform/now-platform-landing.md) is made up of tables and records. Learn how to convert a spreadsheet into record data.
-    -   How to [Get a development instance](../task/get-dev-instance.md) to practice creating applications.
-    -   How to find out [Licensing](../reference/licensing.md) for which application features require a subscription.
-    -   How to contact [Support for developers](../../applications/reference/r_support-servicenow-developers.md) to ask questions about application development.
+    -   How to [Get a development instance](get-dev-instance.md) to practice creating applications.
+    -   How to find out [Licensing](licensing.md) for which application features require a subscription.
+    -   How to contact [Support for developers](r_support-servicenow-developers.md) to ask questions about application development.
 -   **![](../../../reuse/icons/brand-icons/bus-task-list.svg) [Phase 1: Planning your application](planning-applications.md)**
 
     The application development process starts with planning. Consider how the application will work, who will use it, and how it will improve your users' experience. Your application plan should answer the following questions:
@@ -91,7 +91,7 @@ Build apps smarter and deliver them faster with the new ServiceNow Studio. Servi
 
     Choose a builder that matches the type of user experience that your application provides.
 
-    -   See [Build apps using App Engine Studio](../../app-engine-studio/concept/aes-overview.md) to learn about low-code development.
+    -   See [Build apps using App Engine Studio](app-engine-studio/aes-overview.md) to learn about low-code development.
     -   See [Build workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-workflows.md) to learn about creating automation with Workflow Studio or Playbooks.
     -   See [Builder library](builder-library-table.md) to learn about specialized application resources.
 -   **![](../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg) [Phase 3: Testing and debugging your application](testing-and-debugging-applications.md)**
@@ -105,9 +105,9 @@ Build apps smarter and deliver them faster with the new ServiceNow Studio. Servi
 
     After successfully testing an application, deploy it to your production environment with your builder tool.
 
-    -   See [Managing app development using the App Engine Management Center](../../app-engine-management-center/concept/managing-app-development-using-aemc.md) to learn about the App Engine Management Center
-    -   See [ServiceNow application repository](../../applications/concept/app-repo.md) to learn about the Application Repository.
-    -   See [System update sets](../../system-update-sets/concept/system-update-sets.md) to learn about classic deployment using update sets.
+    -   See [Managing app development using the App Engine Management Center](app-engine-management-center/managing-app-development-using-aemc.md) to learn about the App Engine Management Center
+    -   See [ServiceNow application repository](application-repository-self-hosted/app-repo.md) to learn about the Application Repository.
+    -   See [System update sets](system-update-sets/system-update-sets.md) to learn about classic deployment using update sets.
 -   **![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) [Phase 5: Maintaining your application](maintaining-applications.md)**
 
     Use your Phase 2 builder tool to update and modify your application. Use your Phase 3 testing tool to verify that your application still functions properly.

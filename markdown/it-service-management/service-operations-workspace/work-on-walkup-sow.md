@@ -53,5 +53,5 @@ Role required: itil or admin
 11. After you have fulfilled or resolved the request, set the state of the Walk-up interaction to **Closed Complete**.
 
 
-**Parent Topic:**[Walk-up Experience management in Service Operations Workspace](../concept/walkup-sow.md)
+**Parent Topic:**[Walk-up Experience management in Service Operations Workspace](walkup-sow.md)
 

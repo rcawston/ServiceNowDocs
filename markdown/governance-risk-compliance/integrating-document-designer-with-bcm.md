@@ -43,7 +43,7 @@ Install the applications and assign the roles
 
 </td><td>
 
-Install the Document designer with Microsoft Word \(sn\_grc\_doc\_design\) application and its dependent plugins. See [Install Document designer with Microsoft Word](../task/install-document-designer-with-word-plugin.md) for more information.
+Install the Document designer with Microsoft Word \(sn\_grc\_doc\_design\) application and its dependent plugins. See [Install Document designer with Microsoft Word](install-document-designer-with-word-plugin.md) for more information.
 
  Administrative roles required to manage the templates are sn\_grc\_doc\_design.admin and sn\_bcm.admin. Managers with the sn\_bcm.manager roles can generate the reports and save them in your ServiceNow instance or in the cloud \(Microsoft Office 365\).
 
@@ -53,7 +53,7 @@ Set up the template relationship registry
 
 </td><td>
 
-See [Set up the template configurations](../task/set-up-document-designer-templates.md) for more information.
+See [Set up the template configurations](set-up-document-designer-templates.md) for more information.
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Configure data relationships, content configurations, and scripted variables
 
 </td><td>
 
-Configure data relationships in the templates so that they’re displayed in the Microsoft Word reports. See [Configure the data relationships](../task/create-data-rel-fortemp-config.md), [Set up the content configurations](../task/create-content-config-for-temp-config.md), and [Define the scripted variables](../task/create-scripted-vari-for-temp-config.md) for more information.
+Configure data relationships in the templates so that they’re displayed in the Microsoft Word reports. See [Configure the data relationships](create-data-rel-fortemp-config.md), [Set up the content configurations](create-content-config-for-temp-config.md), and [Define the scripted variables](create-scripted-vari-for-temp-config.md) for more information.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Install the ServiceNow Document designer add-in
 
 </td><td>
 
-Install the add-in into your Microsoft Word document. See [Install the Document designer add-in](../task/install-docu-designer-add-in-for-bcm.md) for more information.
+Install the add-in into your Microsoft Word document. See [Install the Document designer add-in](install-docu-designer-add-in-for-bcm.md) for more information.
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Generate the BIA, BCP, and event reports of the records
 
 </td><td>
 
-Generate the BIA, BCP, and event reports of the records in the Business Continuity Workspace and save them in your ServiceNow instance or in the cloud. See [Generate reports for BIAs, BCPs, and events](../task/generate-word-doc-of-bia-bcp-event.md) for more information.
+Generate the BIA, BCP, and event reports of the records in the Business Continuity Workspace and save them in your ServiceNow instance or in the cloud. See [Generate reports for BIAs, BCPs, and events](generate-word-doc-of-bia-bcp-event.md) for more information.
 
 </td></tr></tbody>
 </table>## Downloading it as an optional application

@@ -17,7 +17,7 @@ Use Enterprise Graph for accurate natural language query responses, across the e
 
 Enterprise graph is a pre-configured Knowledge Graph schema that maps all instance tables and their connections, enabling natural language queries for data across all tables.
 
-To see some examples of the Natural Language query responses, refer [Natural language queries use cases and examples](../concept/natural-language-queries-example-usecases.md).
+To see some examples of the Natural Language query responses, refer [Natural language queries use cases and examples](natural-language-queries-example-usecases.md).
 
 Enterprise graph schema simplifies Knowledge Graph setup by providing a preconfigured schema, eliminating the need for custom schema creation in Knowledge Graph designer.
 

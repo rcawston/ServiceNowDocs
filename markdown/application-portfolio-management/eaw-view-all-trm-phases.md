@@ -28,12 +28,12 @@ Role required: sn\_apm.apm\_user
 4.  Select **All**.
 
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 
 
-[Manage TRM phases](../../concept/eaw-concept/eaw-configure-trm-phases.md)
+[Manage TRM phases](eaw-configure-trm-phases.md)
 
 [View all TRM categories](view-all-trm-categories.md)
 

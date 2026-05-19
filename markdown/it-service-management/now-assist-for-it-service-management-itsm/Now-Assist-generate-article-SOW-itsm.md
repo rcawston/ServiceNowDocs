@@ -49,7 +49,7 @@ The Knowledge generation skill is turned on by default. The skill will be automa
 
 To enable an agent to see the Now Assist experience on the Create Article page, configure the following knowledge base generation criteria:
 
--   Install the knowledge skills. For more information, see [Configure Now Assist for IT Service Management \(ITSM\)](../../now-assist-itsm/task/configure-now-assist-for-itsm.md).
+-   Install the knowledge skills. For more information, see [Configure Now Assist for IT Service Management \(ITSM\)](configure-now-assist-for-itsm.md).
 -   Make sure that the following criteria are in place in the Now Assist Admin console:
     -   Specify the table record and input fields.
     -   Specify the conditions for the skill availability from the list of attributes.

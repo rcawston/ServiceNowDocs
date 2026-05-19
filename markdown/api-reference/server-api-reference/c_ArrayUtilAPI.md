@@ -17,7 +17,7 @@ The ArrayUtil script include provides methods for working with JavaScript arrays
 
 These methods are available to any server-side script.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ArrayUtil - concat\(Array parent, Array child\)
 

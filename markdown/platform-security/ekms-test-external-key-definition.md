@@ -34,7 +34,7 @@ The following validation message displays when the external key is properly conf
 
 If the test fails, the validation message shows as failed indicating the operation that was unsuccessful. Go back through the configuration process to correct the issue and run the test again. See [Configure an external key definition](ekms-configure-external-key-definition.md).
 
-**Parent Topic:**[Configuring External Key Management Service](../concept/ekms-configuring-external-key-management.md)
+**Parent Topic:**[Configuring External Key Management Service](ekms-configuring-external-key-management.md)
 
 **Related topics**  
 

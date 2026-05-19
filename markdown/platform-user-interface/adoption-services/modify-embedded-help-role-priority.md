@@ -32,5 +32,5 @@ When you add a role, such as a role for a custom application, it is automaticall
 3.  Enter the new priority order number and click the green check mark to save it.
 
 
-**Parent Topic:**[Embedded Help roles](../concept/embedded-help-roles.md)
+**Parent Topic:**[Embedded Help roles](embedded-help-roles.md)
 

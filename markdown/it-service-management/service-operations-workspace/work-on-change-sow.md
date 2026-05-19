@@ -82,7 +82,7 @@ View the entities associated with the CI that can be impacted as a result of the
 
 </td><td>
 
-Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Refresh Impacted Services**. For information about refreshing impacted services, see [Refresh impacted services and CIs for Change](../../change-management/task/refresh-impacted-services-cis.md).
+Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Refresh Impacted Services**. For information about refreshing impacted services, see [Refresh impacted services and CIs for Change](../change-management/refresh-impacted-services-cis.md).
 
 </td></tr><tr><td id="d307014e252">
 
@@ -196,14 +196,14 @@ Select  **Close**  after entering the  **Close code ** and  **Close no
     -   Review
     -   Close
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](change-sow.md)
 
 **Related topics**  
 
 
 [Create a change request in Service Operations Workspace](create-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](standard-change-catalog-sow.md)
 
 [Create a change task in Service Operations Workspace](create-change-task-sow.md)
 

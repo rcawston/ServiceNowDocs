@@ -220,5 +220,5 @@ Webhook Registry\[sn\_int\_common\_webhook\_registry\]
 Stores details of the registry callback path for webhooks registered in Jira to receive event updates.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Atlassian Jira Integration for Agile Development](../concept/agile-jira-integration-overview.md)
+</table>**Parent Topic:**[Atlassian Jira Integration for Agile Development](agile-jira-integration-overview.md)
 

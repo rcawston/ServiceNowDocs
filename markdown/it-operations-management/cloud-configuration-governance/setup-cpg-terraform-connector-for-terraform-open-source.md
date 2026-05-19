@@ -22,7 +22,7 @@ Starting this release, you can use OpenTofu with Cloud Provisioning and Governan
 ## Before you begin
 
 -   Ensure that a supported Terraform Open Source version is installed in the server. Cloud Services Catalog Terraform Connector supports Terraform Open Source versions 1.1.0 through 1.1.9 and 1.2.0 or higher
--   If you want to use a minor or patch version of the Terraform Open Source CLI, ensure that the minor or patch version is added to the workload config provider. For more information, see [Add support for minor or patch versions of the Terraform](../../cloud-management-v2-setup/task/terraform-use-minor-patch-version-cli.md).
+-   If you want to use a minor or patch version of the Terraform Open Source CLI, ensure that the minor or patch version is added to the workload config provider. For more information, see [Add support for minor or patch versions of the Terraform](terraform-use-minor-patch-version-cli.md).
 -   Ensure that the MID Server can access the Terraform server.
 -   Ensure that the MID Server has Terraform capability.
 -   As a new user, add Terraform MID capability to provision resources using Terraform Open-source host \(VM\). Add cloud provider specific mid capability \(AWS,Azure,VMware, Google\) to discover resources from cloud after provisioning Terraform Open-source catalog items. For example: If you are provisioning VM using Terraform Open-Source in Google, you would need mid with Terraform and Google capability. Both capabilities can be set on the same or different mids. Mid with Terraform capability should be able to connect to Terraform Host \(VM\) and that with Google capability must be able to reach google cloud. For more information, see [Configure MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ConfigureCapabilities.md).
@@ -47,7 +47,7 @@ Role required: cloud\_admin
 
     5.  On the form, fill in the fields.
 
-        For a description of the form fields, see [Cloud Services Catalog Terraform Connector SSH Private Key Credentials form reference](../reference/ccg-terraform-connector-ssh-private-key-credential-form.md).
+        For a description of the form fields, see [Cloud Services Catalog Terraform Connector SSH Private Key Credentials form reference](ccg-terraform-connector-ssh-private-key-credential-form.md).
 
     6.  Select the Test Credentials related link.
 
@@ -76,7 +76,7 @@ Role required: cloud\_admin
 
     5.  On the form, fill in the fields.
 
-        For a description of the form fields, see [Cloud Services Catalog Terraform Connector Windows Credentials form reference](../reference/ccg-terraform-connector-windows-credentials-form.md).
+        For a description of the form fields, see [Cloud Services Catalog Terraform Connector Windows Credentials form reference](ccg-terraform-connector-windows-credentials-form.md).
 
     6.  Select the Test Credentials related link.
 
@@ -99,7 +99,7 @@ Role required: cloud\_admin
 
     3.  On the form, fill in the fields.
 
-        For a description of the form fields, see [Cloud Services Catalog Terraform Connector Create Config Provider form reference](../reference/cpg-terraform-connector-config-provider-form.md).
+        For a description of the form fields, see [Cloud Services Catalog Terraform Connector Create Config Provider form reference](cpg-terraform-connector-config-provider-form.md).
 
     4.  Select **Submit**.
 

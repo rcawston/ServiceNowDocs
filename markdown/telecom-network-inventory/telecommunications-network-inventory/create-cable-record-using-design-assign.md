@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you instantiate a cable template, it creates the corresponding configuration item \(CI\) records in the Fiber Optical Cable \[cmdb\_ci\_fiber\_optical\_cable\] and Fiber Strand \[cmdb\_ci\_fiber\_strand\] tables. To learn more about the cable data model, see [Data model](../concept/uses-for-network-inventory-data.md).
+When you instantiate a cable template, it creates the corresponding configuration item \(CI\) records in the Fiber Optical Cable \[cmdb\_ci\_fiber\_optical\_cable\] and Fiber Strand \[cmdb\_ci\_fiber\_strand\] tables. To learn more about the cable data model, see [Data model](uses-for-network-inventory-data.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ When you instantiate a cable template, it creates the corresponding configuratio
 
 6.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](change_request_forms.md).
 
 7.  Select **Save**.
 
@@ -60,12 +60,12 @@ When you instantiate a cable template, it creates the corresponding configuratio
 
 The cable and related strand records are created.
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 
 **Related topics**  
 
 
-[Create an inventory template for cable models](../concept/create-inventory-tenplate-cable-models.md)
+[Create an inventory template for cable models](create-inventory-tenplate-cable-models.md)
 
 [Create a cable model](create-a-cable-model.md)
 

@@ -43,5 +43,5 @@ else
     result = hasMonetary ? monetaryBenefitSum : nonMonetaryBenefitSum;
 ```
 
-**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

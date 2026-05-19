@@ -41,5 +41,5 @@ Role required: admin \[sn\_egd\_act.admin\]
     **Important:** Select **Update** to save the values you defined for each of the previously mentioned system properties.
 
 
-**Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](../concept/outlook-integration-cc.md)
+**Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](outlook-integration-cc.md)
 

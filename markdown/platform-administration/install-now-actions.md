@@ -22,7 +22,7 @@ Roles required:
 -   Admin or messaging\_admin in ServiceNow
 -   Administrator for Slack or Teams
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](messaging-integration.md)
 
 ## Install the Now Actions messaging app for Slack
 

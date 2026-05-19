@@ -97,7 +97,7 @@ Users who responded to the request.
 
 -   **Scales tab on the Internal assessments page**
 
-    The tab lists the definitions of the calculated rating and tier values. See [Set up risk rating scales for scoring](../../grc-vendor-risk-implementation/task/tprm-risk-rating-scales-config.md) for instructions for defining the settings.
+    The tab lists the definitions of the calculated rating and tier values. See [Set up risk rating scales for scoring](tprm-risk-rating-scales-config.md) for instructions for defining the settings.
 
 -   **Questionnaire requests tab on the Internal assessments page**
 
@@ -171,19 +171,19 @@ Internal risk score
 
 An engagement risk-scoring rule specifies component criteria that determine which engagements are selected for assessment. For example, a rule could enable assessments for engagements that involve more than $40,000 annual business. Engagement scoring rules apply only to engagements.
 
- See [Define engagement risk scoring rules](../../grc-vendor-risk/task/tprm-engagement-scoring-rules-df.md).
+ See [Define engagement risk scoring rules](tprm-engagement-scoring-rules-df.md).
 
 </td></tr></tbody>
 </table>
--   **[Create new internal assessment form](../../grc-vendor-risk/reference/create-int-assess-form.md)**  
+-   **[Create new internal assessment form](create-int-assess-form.md)**  
 Use the internal assessment form to capture all the information that you need to create an internal assessment. As a third-party risk assessor, you can create an assessment template.
 
-**Parent Topic:**[Third-party Risk Management reference](../../grc-vendor-risk/concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 
 **Related topics**  
 
 
-[Assessing your third-party risk](../../grc-vendor-risk/concept/tprm-assessing-tpr.md)
+[Assessing your third-party risk](tprm-assessing-tpr.md)
 
-[Respond to an internal assessment](../task/tprm-irq-respond-to.md)
+[Respond to an internal assessment](tprm-irq-respond-to.md)
 

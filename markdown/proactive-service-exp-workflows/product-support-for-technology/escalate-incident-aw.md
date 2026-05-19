@@ -42,5 +42,5 @@ Role required: sn\_ind\_tsm\_core.noc\_agent
 -   The incident Stage is updated with the next escalation level.
 -   The Assignment Group is updated according to the escalation level.
 
-**Parent Topic:**[About escalating incidents](../concept/psew-escalate-incident.md)
+**Parent Topic:**[About escalating incidents](psew-escalate-incident.md)
 

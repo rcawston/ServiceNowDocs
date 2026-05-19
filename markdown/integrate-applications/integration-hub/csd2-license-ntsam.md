@@ -83,5 +83,5 @@ Type of license entitlement.**Note:**
     The license is created with the required rights.
 
 
-**Parent Topic:**[Client Software Distribution 2.0 application](../concept/csd-app-2.md)
+**Parent Topic:**[Client Software Distribution 2.0 application](csd-app-2.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_matrix\_report.admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Matrix report configuration form](../reference/mat-report-config-form-audit-ws.md).
+    For a description of the field values, see [Matrix report configuration form](mat-report-config-form-audit-ws.md).
 
 4.  Select **Submit**.
 

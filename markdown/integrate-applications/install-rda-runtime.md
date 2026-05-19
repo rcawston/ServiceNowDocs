@@ -15,7 +15,7 @@ You can install the Attended Robot application in your Windows machine if you ha
 
 ## Before you begin
 
-Download and unzip the installation file for the Attended Robot application. For more information, see [Download the RPA applications from RPA Hub](../../rpa-hub/task/download-installer-rpa.md).
+Download and unzip the installation file for the Attended Robot application. For more information, see [Download the RPA applications from RPA Hub](download-installer-rpa.md).
 
 Ensure that you meet the hardware and software requirements.
 

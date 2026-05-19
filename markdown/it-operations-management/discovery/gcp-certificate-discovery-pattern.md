@@ -23,7 +23,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Verify the configuration of an GCP account**
 
-    For more information, see [Discovery for cloud environment](../../discovery/concept/cloud-discovery-wizard.md)
+    For more information, see [Discovery for cloud environment](cloud-discovery-wizard.md)
 
 -   **Verify the installation of the plugins**
 
@@ -41,7 +41,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Verify the configuration of Cloud Discovery schedule**
 
-    For more information, see [Create a discovery schedule in Cloud Discovery Workspace](../../discovery/task/cloud-operations-disco-create-schedule.md)
+    For more information, see [Create a discovery schedule in Cloud Discovery Workspace](cloud-operations-disco-create-schedule.md)
 
 
 ## Verify the REST API Permissions
@@ -235,5 +235,5 @@ The **Google Cloud Platform \(GCP\) - Certificate Manager Certificates** pattern
 |Unique Certificate ​\[cmdb\_ci\_certificate\]​|Hosts::Hosted on|Cloud Service Account​ \[cmdb\_ci\_cloud\_service\_account\]​|
 |Key Value​ \[cmdb\_key\_value\]​|Reference​|Unique Certificate​ \[cmdb\_ci\_certificate\]​|
 
-**Parent Topic:**[Certificate Inventory and Management patterns](../../discovery/reference/cert-invt-mgmt-patterns.md)
+**Parent Topic:**[Certificate Inventory and Management patterns](cert-invt-mgmt-patterns.md)
 

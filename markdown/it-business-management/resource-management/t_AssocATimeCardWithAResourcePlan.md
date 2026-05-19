@@ -21,7 +21,7 @@ Role required: resource\_manager
 
 ## About this task
 
--   A resource plan can be associated with a time card only if the resource plan contains [hard allocations](../reference/r_AllocatingResources.md) for the user.
+-   A resource plan can be associated with a time card only if the resource plan contains [hard allocations](r_AllocatingResources.md) for the user.
 -   If a resource plan isn’t associated manually to a time card, then a resource plan is auto-associated. The auto-association is done based on the selected **Task** in the time card.
 
 ## Procedure
@@ -41,7 +41,7 @@ Role required: resource\_manager
 5.  Select **Update**.
 
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -78,5 +78,5 @@ Role required: resource\_manager
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 

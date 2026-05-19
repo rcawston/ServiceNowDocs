@@ -56,5 +56,5 @@ Create a customer play to specify an unplanned activity required to support an e
 -   **[Close or cancel a customer play](account-lifecycle-cancel-success-case.md)**  
 You can close or cancel a customer play and all the related tasks.
 
-**Parent Topic:**[Manage customer success playbooks](../concept/account-lifecycle-manage-cust-succ-playbooks.md)
+**Parent Topic:**[Manage customer success playbooks](account-lifecycle-manage-cust-succ-playbooks.md)
 

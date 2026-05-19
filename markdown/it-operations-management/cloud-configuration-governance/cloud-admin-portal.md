@@ -29,7 +29,7 @@ Find the link to these dashboards on a new tab based on your user role:
 -   Cloud operations dashboard
 -   Cloud tag values dashboard
 
-Follow [Request the Cloud Provisioning and Governance application](../../cloud-management-v2-setup/task/request-plugin-cloud-mgt.md) to learn more about installing Cloud Provisioning and Governance to access the admin and user pages. Log in to the portal with the following Cloud Provisioning and Governance roles to view or manage the associated metrics:
+Follow [Request the Cloud Provisioning and Governance application](request-plugin-cloud-mgt.md) to learn more about installing Cloud Provisioning and Governance to access the admin and user pages. Log in to the portal with the following Cloud Provisioning and Governance roles to view or manage the associated metrics:
 
 <table id="table_y3d_gcy_1bb"><thead><tr><th>
 

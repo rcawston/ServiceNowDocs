@@ -29,7 +29,7 @@ AI resource finder helps resource and project managers identify the best-fit res
 -   Rationale: AI-generated explanation for the fit score.
 -   Availability: The availability of the resource for a task.
 
-For more information regarding how the Resource finder works and the resources are mapped, see [Resource finder](../concept/explore-rmw.md#section_kz2_fml_bjc).
+For more information regarding how the Resource finder works and the resources are mapped, see [Resource finder](explore-rmw.md#section_kz2_fml_bjc).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ For more information regarding how the Resource finder works and the resources a
     The resource is assigned to the task.
 
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](using-rmw.md)
 

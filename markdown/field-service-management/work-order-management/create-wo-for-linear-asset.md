@@ -72,5 +72,5 @@ Creation of work order for a linear asset enables you to leverage the linear ass
 
 ## What to do next
 
-Create a work order task for the new work order. For more information, see [Qualify a work order](../../planning-and-policy/task/t_QualifyATask.md). You can create multiple work order tasks to track and manage an individual task for your linear asset work order.
+Create a work order task for the new work order. For more information, see [Qualify a work order](t_QualifyATask.md). You can create multiple work order tasks to track and manage an individual task for your linear asset work order.
 

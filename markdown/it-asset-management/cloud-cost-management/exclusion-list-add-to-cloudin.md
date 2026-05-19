@@ -52,5 +52,5 @@ The resource is excluded from all reports. After you submit the record, you can 
 -   **[Remove a resource from the Excluded Resources list](exclusion-list-remove-cloudin.md)**  
 You can remove a resource from the Excluded Resources list.
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
 

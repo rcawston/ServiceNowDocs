@@ -47,14 +47,14 @@ In this case, the total cost is proportionally distributed between both the cost
 
 The cost allocation remains consistent when modifying purchase quantities in a PR or PO.
 
-For more information, see [Cost allocations](../reference/cost-allocations.md).
+For more information, see [Cost allocations](cost-allocations.md).
 
 **Parent Topic:**[Purchase revision flows](purchase-revision-flows.md)
 
 **Related topics**  
 
 
-[Edit a purchase line from a purchase requisition or order](../task/edit-pur-req-line.md)
+[Edit a purchase line from a purchase requisition or order](edit-pur-req-line.md)
 
-[Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](../task/edit-pur-req-emp-central.md)
+[Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](edit-pur-req-emp-central.md)
 

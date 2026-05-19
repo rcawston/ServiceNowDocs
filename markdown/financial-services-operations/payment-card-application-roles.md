@@ -23,5 +23,5 @@ This section outlines the core roles involved in managing payment cards in the P
 |Credit card reader \[credit\_card\_reader\]|Read access to the Credit Card table.|
 |Debit card reader \[debit\_card\_reader\]|Read access to the Debit Card table.|
 
-**Parent Topic:**[Payment card](../concept/payment-card-application.md)
+**Parent Topic:**[Payment card](payment-card-application.md)
 

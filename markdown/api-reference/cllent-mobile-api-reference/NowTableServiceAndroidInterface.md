@@ -17,9 +17,9 @@ The NowTableService interface provides functions that enable you to create, read
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationAndroidAPI.md)|Configuration to associate with the service.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationAndroidAPI.md)|Configuration to associate with the service.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowTableService - createRecord\(tableName: String, fields: Map&lt;String, String&gt;, writeOptions: FieldWriteOptions?, configuration: FieldReadConfiguration?\)
 
@@ -67,7 +67,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsAndroidAPI.md#)
+[FieldWriteOptions](FieldWriteOptionsAndroidAPI.md#)
 
 </td><td>
 
@@ -79,7 +79,7 @@ configuration
 
 </td><td>
 
-[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)
+[FieldReadConfiguration](FieldReadConfigAndroidAPI.md#)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Call](../../Call/concept/CallAndroidInterface.md#)&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
+[Call](CallAndroidInterface.md#)&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
 
 </td><td>
 
@@ -138,7 +138,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Call](../../Call/concept/CallAndroidInterface.md#)&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
+[Call](CallAndroidInterface.md#)&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
 
 </td><td>
 
@@ -163,7 +163,7 @@ You can use this paginator to navigate through the returned records, performing 
 |Name|Type|Description|
 |----|----|-----------|
 |tableName|String|Name of the table for which to create the paginator.|
-|configuration|[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigAndroidAPI.md#)|Configuration that specified the filters to use, pagination page size limit, which fields to retrieve, and what to include in the fields.|
+|configuration|[FetchConfiguration](FetchConfigAndroidAPI.md#)|Configuration that specified the filters to use, pagination page size limit, which fields to retrieve, and what to include in the fields.|
 
 <table id="table_p32_dbh_ppb" class="returns"><thead><tr><th>
 
@@ -203,7 +203,7 @@ Retrieves the specified record from the specified table.
 |----|----|-----------|
 |sysId|String|Sys\_id of the record to retrieve.|
 |tableName|String|Name of the table in which the specified record is located, such as incident or asset.|
-|configuration|[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)|Optional. Configuration that specifies which fields to retrieve and what to include in the fields.|
+|configuration|[FieldReadConfiguration](FieldReadConfigAndroidAPI.md#)|Optional. Configuration that specifies which fields to retrieve and what to include in the fields.|
 
 <table id="table_tdk_wch_ppb" class="returns"><thead><tr><th>
 
@@ -215,7 +215,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Call](../../Call/concept/CallAndroidInterface.md#)​&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
+[Call](CallAndroidInterface.md#)​&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
 
 </td><td>
 
@@ -243,7 +243,7 @@ Retrieves sll records record from the specified table.
 |Name|Type|Description|
 |----|----|-----------|
 |tableName|String|Name of the table from which to retrieve the records, such as incident or asset.|
-|configuration|[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)|Optional. Configuration that specifies which fields to retrieve and what to include in the fields.|
+|configuration|[FieldReadConfiguration](FieldReadConfigAndroidAPI.md#)|Optional. Configuration that specifies which fields to retrieve and what to include in the fields.|
 
 <table id="table_jf5_v2h_ppb" class="returns"><thead><tr><th>
 
@@ -255,7 +255,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Call](../../Call/concept/CallAndroidInterface.md#)​&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
+[Call](CallAndroidInterface.md#)​&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
 
 </td><td>
 
@@ -323,7 +323,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsAndroidAPI.md#)
+[FieldWriteOptions](FieldWriteOptionsAndroidAPI.md#)
 
 </td><td>
 
@@ -335,7 +335,7 @@ configuration
 
 </td><td>
 
-[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)
+[FieldReadConfiguration](FieldReadConfigAndroidAPI.md#)
 
 </td><td>
 
@@ -352,7 +352,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Call](../../Call/concept/CallAndroidInterface.md#)​&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
+[Call](CallAndroidInterface.md#)​&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
 
 </td><td>
 

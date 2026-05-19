@@ -15,11 +15,11 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 Create a central office code, country code, area code, and rate center for a series of telephone numbers by using the Telecommunications Network Inventory application.
 
--   **[Create a central office code](../task/create_a_central_office_code.md)**  
+-   **[Create a central office code](create_a_central_office_code.md)**  
 Create a central office code to allocate it to an area code of a country by using the Telecommunications Network Inventory application.
--   **[Create a country code](../task/create_a_country_code.md)**  
+-   **[Create a country code](create_a_country_code.md)**  
  Create, review, update, or delete a country code by using the Telecommunications Network Inventory application. A country can have multiple phone formats and phone validations.
--   **[Create an area code](../task/create_an_area_code.md)**  
+-   **[Create an area code](create_an_area_code.md)**  
 Create, review, update, or delete an area code by using the Telecommunications Network Inventory application.
 
 **Parent Topic:**[Configuring Telecommunications Network Inventory](configuring-telecom-network-inventory.md)

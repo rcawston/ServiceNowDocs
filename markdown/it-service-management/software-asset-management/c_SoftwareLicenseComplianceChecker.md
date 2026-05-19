@@ -17,7 +17,7 @@ The Software License Compliance Checker that is included in the legacy Software 
 
 For example, if there are 100 licenses for a software program, the legacy Software License Compliance Checker can show if the software has been installed more than 100 times. The legacy Software Compliance Checker uses information found by a discovery tool such as Discovery or third-party technologies, to analyze the software installed on your network.
 
--   **[Check your software license compliance using the legacy Software License Compliance Checker](../task/t_UseSWLicenComplChecker.md)**  
+-   **[Check your software license compliance using the legacy Software License Compliance Checker](t_UseSWLicenComplChecker.md)**  
 You can check your software license compliance using the Software License Compliance Checker that is included in the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 **Parent Topic:**[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
@@ -33,7 +33,7 @@ You can check your software license compliance using the Software License Compli
 
 [Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](t_ManagingSoftwareModels.md)
 
 [License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

@@ -20,5 +20,5 @@ The following properties are installed with the Outlook Actionable Messages plug
 -   **[Outlook Actionable Messages compatibility for surveys](oam-survey-compatibility.md)**  
 Survey definitions must be compatible with Outlook Actionable Messages \(OAM\) to display surveys in the Microsoft Outlook application.
 
-**Parent Topic:**[Unified Employee Experience](../../employee-center/concept/ec-and-ecpro-landing-page.md)
+**Parent Topic:**[Unified Employee Experience](ec-and-ecpro-landing-page.md)
 

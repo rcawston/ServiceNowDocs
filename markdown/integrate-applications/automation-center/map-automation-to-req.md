@@ -19,7 +19,7 @@ Map automations in Published state with an automation request to publish the aut
 
 Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
-**Note:** The cost saved and time saved values for an automation are calculated by moving average method. The moving average is controlled by the `sn_ac.savings_averaging_window` system property. For more information, see [Automation Center properties](../reference/automation-center-properties.md).
+**Note:** The cost saved and time saved values for an automation are calculated by moving average method. The moving average is controlled by the `sn_ac.savings_averaging_window` system property. For more information, see [Automation Center properties](automation-center-properties.md).
 
 ## Procedure
 
@@ -107,5 +107,5 @@ Specify the percentage of the time that this automation saves for the automation
 10. After creating the mapping, select **Edit mapping** to edit the existing mappings or add new mappings.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

@@ -315,5 +315,5 @@ Additional comments about the risk event. These notes are visible to the externa
 </table>4.  Click **Save**.
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

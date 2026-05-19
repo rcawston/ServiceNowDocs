@@ -25,5 +25,5 @@ The following diagram shows how the transitions work:
 
 ![Task SLA stage transitions 2011 version](../image/SLAConditionBase.png "SLAConditionBase")
 
-**Parent Topic:**[SLA condition rules](../concept/c_SLAConditionRules.md)
+**Parent Topic:**[SLA condition rules](c_SLAConditionRules.md)
 

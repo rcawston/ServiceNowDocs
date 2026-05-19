@@ -34,7 +34,7 @@ The TPM lifecycle data enables you to manage your technology portfolio effective
 3.  Select **TPM lifecycles**.
 
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 
 **Related topics**  
 
@@ -47,7 +47,7 @@ The TPM lifecycle data enables you to manage your technology portfolio effective
 
 [Update the system property to gather software products from a CMDB table](eaw-update-system-property-gather-software-cmdb.md)
 
-[Update verification status of TPM audit details](../eaw-update-verif-status.md)
+[Update verification status of TPM audit details](eaw-update-verif-status.md)
 
 [Restart Populate TPM Discovered Technologies and Lifecycles scheduled job](eaw-restart-tpm-scheduled-job.md)
 

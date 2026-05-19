@@ -46,7 +46,7 @@ Invoice type- Choose the invoice type for processing from the drop-down list. Th
 
     -   If you select Invoice type as Non-PO, and upload an invoice copy with purchase order, DocIntel processes the invoice as a valid PO invoice.
     -   If you select Invoice type as PO invoice and enter purchase order number but Doc Intel is unable to extract the purchase order details, then the purchase order that you selected from the **Purchase order** drop-down list will be considered and processed.
-For more information on invoice case, see [Create New Invoice form](../reference/create-new-invoice-form.md).
+For more information on invoice case, see [Create New Invoice form](create-new-invoice-form.md).
 
 Supplier- Displays the name of the supplier associated with the supplier contact based on your selection from the **My Company**tab. The **Purchase order** drop-down lists the details associated with the selected supplier.
 
@@ -58,5 +58,5 @@ Supplier- Displays the name of the supplier associated with the supplier contact
     Invoice is created.
 
 
-**Parent Topic:**[Working with Supplier Catalog](../concept/working-with-supplier-catalog.md)
+**Parent Topic:**[Working with Supplier Catalog](working-with-supplier-catalog.md)
 

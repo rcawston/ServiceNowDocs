@@ -17,7 +17,7 @@ You can enable or disable keyboard shortcuts from the system settings menu.
 
 Role required: none
 
-For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](../reference/r_KeyboardShortcuts.md).
+For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](r_KeyboardShortcuts.md).
 
 ## Procedure
 
@@ -30,5 +30,5 @@ For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](../
 4.  Close the Preferences window.
 
 
-**Parent Topic:**[Core UI keyboard shortcuts](../reference/r_KeyboardShortcuts.md)
+**Parent Topic:**[Core UI keyboard shortcuts](r_KeyboardShortcuts.md)
 

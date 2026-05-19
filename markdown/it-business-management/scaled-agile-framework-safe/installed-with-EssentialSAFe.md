@@ -254,18 +254,18 @@ SAFe team predictability measure\[sn\_safe\_pi\_m2m\_group\]
 Stores the business value achieved per team from PI objectives which is used for team-level predictability measure data.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Essential SAFe](../concept/essential-overview.md)
+</table>**Parent Topic:**[Essential SAFe](essential-overview.md)
 
 **Related topics**  
 
 
-[Quick start tests for Essential SAFe](../../../administer/atf-quick-start-tests/reference/quick-start-tests-essentialSAFe.md)
+[Quick start tests for Essential SAFe](quick-start-tests-essentialSAFe.md)
 
-[SAFe entities](../concept/key-entities-SAFe.md)
+[SAFe entities](key-entities-SAFe.md)
 
-[SAFe PI objectives](../concept/safe-pi-objectives.md)
+[SAFe PI objectives](safe-pi-objectives.md)
 
-[SAFe Board — ART level](../concept/program-level-tabs.md)
+[SAFe Board — ART level](program-level-tabs.md)
 
-[SAFe Board — Team level](../concept/team-level-tabs.md)
+[SAFe Board — Team level](team-level-tabs.md)
 

@@ -154,7 +154,7 @@ Option to view the advanced fields **Relative weight** and **Message handling**.
 
 ## Result
 
-When you activate the stream, the consumer begins looking for messages to process in the specified topic. You can view detailed information about the consumer and its performance by visiting its subscription page. For details, see [Viewing Kafka subscriptions and statistics](../concept/kafka-subscriptions-statistics.md).
+When you activate the stream, the consumer begins looking for messages to process in the specified topic. You can view detailed information about the consumer and its performance by visiting its subscription page. For details, see [Viewing Kafka subscriptions and statistics](kafka-subscriptions-statistics.md).
 
-**Parent Topic:**[Using Stream Connect for Apache Kafka](../concept/stream-connect-apache-kafka.md)
+**Parent Topic:**[Using Stream Connect for Apache Kafka](stream-connect-apache-kafka.md)
 

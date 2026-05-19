@@ -21,7 +21,7 @@ Role required: admin
 
 Complete any of the following tasks to work with the navigator in Core UI.
 
-**Parent Topic:**[Core UI application navigator](../../../use/navigation/concept/c_UI16ApplicationNavigator.md)
+**Parent Topic:**[Core UI application navigator](c_UI16ApplicationNavigator.md)
 
 ## Collapse or expand information in the Core UI application navigator
 

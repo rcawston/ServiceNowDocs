@@ -25,9 +25,9 @@ When an event's metrics match the event filter conditions, the metrics bind to t
 |SCOM Metrics - MS SQL Database|cmdb\_ci\_db\_mssql\_database|
 |SCOM Metrics - MSFT SQL Instance|cmdb\_ci\_db\_mssql\_instance|
 
-You can create a custom event rule to bind metrics with other CI types. For details, see [Create or edit an event rule](../task/create-or-edit-event-rule.md).
+You can create a custom event rule to bind metrics with other CI types. For details, see [Create or edit an event rule](create-or-edit-event-rule.md).
 
 If the event rule filter doesn't match, the default rule, **SCOM Metrics - Default** \(CI type = **cmdb\_ci\_hardware**\) is invoked. The order number of the default event rule must be higher than the order number of any SCOM event rules \(both those that come with the base system and any custom rules\), so that all other rules are checked for matching before invoking the default rule. For details on event rules, see [Event rules](create-event-rules.md).
 
-**Parent Topic:**[Configure alert collection from SCOM](../task/t_EMConfigureSCOMConnectorInstance.md)
+**Parent Topic:**[Configure alert collection from SCOM](t_EMConfigureSCOMConnectorInstance.md)
 

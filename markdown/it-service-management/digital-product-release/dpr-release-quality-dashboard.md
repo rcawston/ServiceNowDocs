@@ -23,7 +23,7 @@ The software quality scan summaries give an overview of the code, highlighting a
 
 The data displayed on the **Quality** tab is pulled from the pipeline execution, task execution, and their associated test summaries and software quality summaries. You must configure pipelines through the external tools configuration before you can see the metrics from various data sources on the Release Quality dashboard.
 
-For more information, see [Integrate external tools from Digital Product Release Workspace](../task/dpr-integrate-external-tool.md).
+For more information, see [Integrate external tools from Digital Product Release Workspace](dpr-integrate-external-tool.md).
 
 ## Access the Release Quality dashboard
 
@@ -45,7 +45,7 @@ The data on the Quality dashboard is organized into two sections to summarize th
 
 -   **Artifact**: This option shows all the artifacts data from the sn\_devops\_artifact table.
 
-    The **Artifact version** list shows all the artifact versions generated within the past 30 days for the artifact. If the artifact's **Use latest version** option is selected, the semantic versions are listed. For more information on the artifact version, see [Manage artifacts in a release](../task/dpr-work-release-artifact.md).
+    The **Artifact version** list shows all the artifact versions generated within the past 30 days for the artifact. If the artifact's **Use latest version** option is selected, the semantic versions are listed. For more information on the artifact version, see [Manage artifacts in a release](dpr-work-release-artifact.md).
 
 -   **Package**: This option shows all the artifact versions associated with the latest package. The artifact version data comes from the sn\_devops\_m2m\_artifact\_version\_package table and the package data comes from the sn\_devops\_package table. However, if a package is marked as a release candidate, that package is used even if it's not the latest.
 
@@ -71,7 +71,7 @@ Vulnerabilities
 
 Total number of security vulnerabilities for the selected build.This data comes from the **Vulnerabilities** category in the Software Quality Scan Details.
 
-Use the **VulnerabilitiesTypeMapping** system property to normalize each type of vulnerability, mapping the custom values with the standard values. For more information, see [Digital Product Release properties](../reference/digital-product-release-properties.md#prop_vulnerabilities).
+Use the **VulnerabilitiesTypeMapping** system property to normalize each type of vulnerability, mapping the custom values with the standard values. For more information, see [Digital Product Release properties](digital-product-release-properties.md#prop_vulnerabilities).
 
 </td></tr><tr><td>
 
@@ -124,5 +124,5 @@ Total number of code smells and total number of technical debts and duplications
 
 [Release Overview dashboard for a multi-product release](dpr-release-overview-dashboard-multi.md)
 
-[Quality metrics dashboard](../../enterprise-dev-ops/concept/devops-insights-dboard-ws.md#)
+[Quality metrics dashboard](../devops-change-velocity/devops-insights-dboard-ws.md#)
 

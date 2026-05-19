@@ -22,5 +22,5 @@ Information about the roles and scheduled jobs that are installed.
 -   **[Components installed with voice](components-installed-voice-agents.md)**  
 Information about the roles, tables, and scheduled jobs that are installed with Voice Agents.
 
-**Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\)](../concept/now-assist-hrsd.md)
+**Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\)](now-assist-hrsd.md)
 

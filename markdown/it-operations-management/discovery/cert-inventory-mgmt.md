@@ -19,11 +19,11 @@ With Certificate Inventory and Management, you can discover, conduct an inventor
 
 <table id="table_yjv_4lx_nxb" class="nav-card"><tbody><tr><td>
 
-[Explore Certificate Inventory and Management![](../../../reuse/icons/brand-icons/bus-explore.svg)Leverage Certificate Inventory and Management to create and manage certificates](../concept/cert-inventory-mgmt-explore.md)
+[Explore Certificate Inventory and Management![](../../../reuse/icons/brand-icons/bus-explore.svg)Leverage Certificate Inventory and Management to create and manage certificates](cert-inventory-mgmt-explore.md)
 
 </td><td>
 
-[Manage Certificate Inventory and Management![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Learn how to set up Certificate Inventory and Management](../concept/cert-inventory-mgmt-config.md)
+[Manage Certificate Inventory and Management![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Learn how to set up Certificate Inventory and Management](cert-inventory-mgmt-config.md)
 
 </td><td>
 

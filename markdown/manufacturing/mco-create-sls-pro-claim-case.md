@@ -56,7 +56,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 Sales promotion claim case is created.
 
-**Parent Topic:**[Sales promotion claim management](../concept/mco-sls-pro-clm-mgmt.md)
+**Parent Topic:**[Sales promotion claim management](mco-sls-pro-clm-mgmt.md)
 
 **Related topics**  
 

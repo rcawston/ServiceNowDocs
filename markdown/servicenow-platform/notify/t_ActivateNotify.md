@@ -65,12 +65,12 @@ Provides ability to set SMS preferences for receiving messages from different pr
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Differences between Notify and Legacy Notify](../reference/differences-notify-legacy-notify.md)**  
+-   **[Differences between Notify and Legacy Notify](differences-notify-legacy-notify.md)**  
 Describes the differences between the Notify and Legacy Notify applications, including architecture, workflows, Twilio support, and task-initiated conference calls.
--   **[Migrating from Legacy Notify](../reference/r_NotifyMigration.md)**  
+-   **[Migrating from Legacy Notify](r_NotifyMigration.md)**  
 When migrating to Notify from the Legacy Notify functionality, several changes are made to the instance.
 
-**Parent Topic:**[Configuring Notify](../concept/configuring-notify.md)
+**Parent Topic:**[Configuring Notify](configuring-notify.md)
 
 **Related topics**  
 

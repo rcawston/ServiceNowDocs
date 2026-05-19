@@ -128,5 +128,5 @@ Add additional reporting configuration filters to the reporting configuration. T
 -   **[Configure a business domain role](configure-business-domain-roles.md)**  
 Configure the business domain roles so that users of a particular domain can select the domain for which they want to import the data. Only those users who are added during the configuration are able to view the domain on the Microsoft Word document.
 
-**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](../concept/integrating-o365-with-servicenow.md)
+**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](integrating-o365-with-servicenow.md)
 

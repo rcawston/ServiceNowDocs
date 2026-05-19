@@ -44,5 +44,5 @@ A request is created and is automatically assigned to the appropriate assignment
 
 On the Requested item form, the universal request number that was used for creating the request is displayed. The request item number \(RITM\#\) appears in the **Primary ticket** field on the Universal Request form and also under the Associated Requests related list.
 
-**Parent Topic:**[Request Management integration with Universal Request](../concept/request-mgmt-integration-ur.md)
+**Parent Topic:**[Request Management integration with Universal Request](request-mgmt-integration-ur.md)
 

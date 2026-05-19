@@ -17,7 +17,7 @@ The ActivityHistoryRecord API provides methods that facilitate interacting with 
 
 This API is basically a copy of the data from a glide record on the table Activity History \[wf\_history\]. There are some helper methods defined for this class as well. There are no accessors or mutator to the simple data elements of this class.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ActivityHistoryRecord - addArrivedActivityToJoin\(String Array activityIds\)
 

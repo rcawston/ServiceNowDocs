@@ -81,16 +81,16 @@ The breadcrumb displays **Related List condition...**. Open the filter to view t
 
 ![Remove a related list condition in List v2 filter](../image/related-list-condition-v2-remove.png)
 
-**Parent Topic:**[Filters](../../using-lists/concept/c_Filters.md)
+**Parent Topic:**[Filters](c_Filters.md)
 
 **Related topics**  
 
 
-[Create a filter in List](../../using-lists/task/t_CreatingFilters.md)
+[Create a filter in List](t_CreatingFilters.md)
 
-[OR conditions](../../using-lists/concept/c_UsingORConditions.md)
+[OR conditions](c_UsingORConditions.md)
 
-[Filter on multiple string values](../../using-lists/task/t_FilteringOnMultipleStringValues.md)
+[Filter on multiple string values](t_FilteringOnMultipleStringValues.md)
 
-[Dynamic operators](../../using-lists/reference/r_UsingTheDynamicOperator.md)
+[Dynamic operators](r_UsingTheDynamicOperator.md)
 

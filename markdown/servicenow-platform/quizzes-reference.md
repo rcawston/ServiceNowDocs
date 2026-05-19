@@ -15,9 +15,9 @@ Reference topics provide additional information about the forms, fields, and pro
 
 -   **[Quiz scorecards](c_QuizScorecards.md)**  
 The Quizzes application prepares printable scorecards.
--   **[Question Properties form](../reference/question-property-form.md)**  
+-   **[Question Properties form](question-property-form.md)**  
 Description of the field values for the Question Properties form.
--   **[Quiz reports](../reference/r_QuizReports.md)**  
+-   **[Quiz reports](r_QuizReports.md)**  
 Quizzes provide several global reports so that assessment administrators can view important statistics.
 
 **Parent Topic:**[Quizzes](c_Quizzes.md)

@@ -95,10 +95,10 @@ Use the template to specify all the fields that will be used in the identify dup
 
 The Now Assist Identify duplicate articles skill is configured.
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](configuring-now-assist-km.md)
 
 **Related topics**  
 
 
-[Identify and resolve duplicate articles](../../knowledge-center/task/identify-duplicate-articles.md)
+[Identify and resolve duplicate articles](../identify-duplicate-articles.md)
 

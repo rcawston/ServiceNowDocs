@@ -51,7 +51,7 @@ The intake form and record producer for an amendment are available in the base s
 
 ![Amendment intake from and record producer in the base sytem (OOB)](../image/lsd-amend-OOB-intakeform.png)
 
-You can also create a customized record producer by copying a base system \(OOB\) record producer to reuse its existing configuration settings. For more information on how to create record producer, see [Create a legal contract intake workflow](../task/snlc-create-legal-contract.md).
+You can also create a customized record producer by copying a base system \(OOB\) record producer to reuse its existing configuration settings. For more information on how to create record producer, see [Create a legal contract intake workflow](snlc-create-legal-contract.md).
 
 While linking the record producer to an intake form, verify that the **Amendment request indicator** is selected in the **Options** field.
 
@@ -98,15 +98,15 @@ The contract amendment workflow might progress as follows:
 
 For amendment documents, Now Assist in Contract Management features of obligation extraction or metadata extraction aren’t supported. However, Contract Analysis is supported when all the configurations are complete and valid, enabling users to review and analyze amendments effectively.
 
-For more information, see [Now Assist in Contract Management](../../contract-mgmt-pro/concept/cncore-now-assit-landing.md).
+For more information, see [Now Assist in Contract Management](../contract-management-pro/cncore-now-assit-landing.md).
 
--   **[Submit amendment request](../task/snlc-amend-inititate-req.md)**  
+-   **[Submit amendment request](snlc-amend-inititate-req.md)**  
 Submit an amendment request from the Employee Center.
--   **[View and track amendment requests as a legal user](../task/snlc-view-amend-req-details.md)**  
+-   **[View and track amendment requests as a legal user](snlc-view-amend-req-details.md)**  
 View the details of an amendment request after it has been submitted and track the activities in the request.
--   **[Work on amendment request](../task/snlc-amend-work.md)**  
+-   **[Work on amendment request](snlc-amend-work.md)**  
 Review and work on an amendment request for an existing contract.
--   **[View amendment details](../task/lsd-view-amend-details.md)**  
+-   **[View amendment details](lsd-view-amend-details.md)**  
 View the amendment details in the contract repository record.
 
 **Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](snlc-use-sn-legal-cont-landing.md)
@@ -114,19 +114,19 @@ View the amendment details in the contract repository record.
 **Related topics**  
 
 
-[Non-disclosure agreement requests](snlc-request-nda-1.md)
+[Non-disclosure agreement requests](../employee-service-management/snlc-request-nda-1.md)
 
-[Third-party contract review requests](snlc-request-third-party-contract-1.md)
+[Third-party contract review requests](../employee-service-management/snlc-request-third-party-contract-1.md)
 
 [Linking parent-child contracts](snlc-linking-parent-child.md)
 
-[Internal review overview](../task/snlc-expert-review.md)
+[Internal review overview](snlc-expert-review.md)
 
-[Cancel a legal request](../task/snlc-cancel-request-tpc.md)
+[Cancel a legal request](snlc-cancel-request-tpc.md)
 
-[View and download a signed contract document](../task/snlc-preview-contract.md)
+[View and download a signed contract document](snlc-preview-contract.md)
 
-[View contract requests](../task/snlc-view-contract-requests.md)
+[View contract requests](snlc-view-contract-requests.md)
 
 [Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
 

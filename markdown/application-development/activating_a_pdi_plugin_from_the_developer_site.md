@@ -50,5 +50,5 @@ You will receive an email from the Developer Site when the plugin activation is 
 
 To use the plugin, reload the browser window where you logged in to your PDI.
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

@@ -19,7 +19,7 @@ This task provides the general steps to integrate Apple Messages for Business wi
 
 1.  [Install Conversational Integration with Apple Messages for Business](messg-apple-install.md).
 2.  [Set up the integration on Apple Messages for Business](set-up-apple-messages.md).
-3.  [Capturing information from a user in a Apple Messages for Business chat conversation](../concept/messg-apple-capture-info.md).
+3.  [Capturing information from a user in a Apple Messages for Business chat conversation](messg-apple-capture-info.md).
 4.  Enable authentication with your Identity Provider \(IdP\) by configuring the [OAuth setup for Apple Messages for Business](oauth-setup-apple.md)
 5.  Enable Apple Pay on Apple Messages for Business interactions.
     -   Refer to the [Apple documentation](https://register.apple.com/resources/messages/msp-rest-api/type-interactive#apple-pay-message) for details about configuring your Apple merchant account.

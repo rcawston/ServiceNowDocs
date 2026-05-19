@@ -98,5 +98,5 @@ If you want to check some details about the summary, select the more info icon \
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Operational Technology Service Management \(OTSM\)](../concept/using-now-assist-otsm.md)
+**Parent Topic:**[Using Now Assist for Operational Technology Service Management \(OTSM\)](using-now-assist-otsm.md)
 

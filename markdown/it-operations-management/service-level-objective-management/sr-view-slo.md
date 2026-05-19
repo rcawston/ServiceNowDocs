@@ -72,7 +72,7 @@ State
 </td><td>
 
 -   **Draft**: The SLO isn't active yet. You can add new SLIs, update existing ones, or delete the SLO.
--   **Running**: The SLO is active. You can edit, retire, or delete the SLO. Editing a running SLO automatically retires it and creates a new copy. See [Edit a reliability metric](../../slo-management/task/sr-edit-sli-slo.md) for more information.
+-   **Running**: The SLO is active. You can edit, retire, or delete the SLO. Editing a running SLO automatically retires it and creates a new copy. See [Edit a reliability metric](sr-edit-sli-slo.md) for more information.
 -   **Retired**: The SLO is no longer active. You can reactivate it if needed.
 
 
@@ -111,14 +111,14 @@ Reliability
 
 6.  Select the **Details**, **Service level indicators**, and **Error budget policy** tabs to view key configuration details.
 
-    For information about the details shown, see [Create SLO form](../reference/sr-create-slo-sli-form.md), [Create SLI form](../reference/sr-create-sli-form.md), and [Add an error budget policy form](../../slo-management/reference/sr-create-error-budget-form.md). On the Error budget policies tab, you can select **Add policy** to define actions based on performance data.
+    For information about the details shown, see [Create SLO form](sr-create-slo-sli-form.md), [Create SLI form](sr-create-sli-form.md), and [Add an error budget policy form](sr-create-error-budget-form.md). On the Error budget policies tab, you can select **Add policy** to define actions based on performance data.
 
     The Details tab also includes a Work notes field and Activity panel to record and track changes to the reliability metric.
 
 
 ## What to do next
 
-To learn how to create or edit SLOs, see [Create SLOs, SLIs, and error budget policies](../../slo-management/task/sr-create-slo-sli.md) and [Edit a reliability metric](../../slo-management/task/sr-edit-sli-slo.md).
+To learn how to create or edit SLOs, see [Create SLOs, SLIs, and error budget policies](sr-create-slo-sli.md) and [Edit a reliability metric](sr-edit-sli-slo.md).
 
-**Parent Topic:**[Using SLO Management](../../slo-management/task/using-service-level-objective-management.md)
+**Parent Topic:**[Using SLO Management](using-service-level-objective-management.md)
 

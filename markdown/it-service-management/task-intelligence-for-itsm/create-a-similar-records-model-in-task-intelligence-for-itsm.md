@@ -47,7 +47,7 @@ When you install the Task Intelligence for ITSM plugin in your production instan
 
 The prediction data is then stored in the prediction tables. You can navigate to **All** &gt; **Task Intelligence for ITSM** &gt; **Monitoring** to view the performance results of this model. Based on these results, you can edit the model to show the predictions in Service Operations Workspace.
 
-To edit and redeploy the base system model, you can navigate to the Setup page. From the model list, select the required similarity model\(For example, Similar Incidents\) and edit the model. For more information on how to edit the model, see [Edit an incident prediction model in Task Intelligence for ITSM](../task/edit-your-model.md).
+To edit and redeploy the base system model, you can navigate to the Setup page. From the model list, select the required similarity model\(For example, Similar Incidents\) and edit the model. For more information on how to edit the model, see [Edit an incident prediction model in Task Intelligence for ITSM](edit-your-model.md).
 
 This model is linked with a base system rule in the Recommended Actions for ITSM configuration. An admin isn't required to go to the Recommended Actions for ITSM application to configure any rules for this model.
 

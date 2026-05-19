@@ -42,5 +42,5 @@ Once the status of each import request changes to **Complete**, you can see that
 
 ## What to do next
 
-[Configure integration settings for a Jira project.](../concept/configuring-jira-project-settings-in-spw.md)
+[Configure integration settings for a Jira project.](configuring-jira-project-settings-in-spw.md)
 

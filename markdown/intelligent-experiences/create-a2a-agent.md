@@ -98,7 +98,7 @@ Subflow that establishes Agent2Agent protocol. The default subflow should handle
 
     1.  Review your AI agent description.
 
-        You can leave your AI agent description as it is, or you can add a longer description to help differentiate the agent from other AI agents. This helps enable the AI Agent Orchestrator to use your external AI agent more effectively. For suggestions for writing AI agent descriptions, see [General guidelines for creating AI agents and agentic workflows](../concept/gg-creating-aia.md).
+        You can leave your AI agent description as it is, or you can add a longer description to help differentiate the agent from other AI agents. This helps enable the AI Agent Orchestrator to use your external AI agent more effectively. For suggestions for writing AI agent descriptions, see [General guidelines for creating AI agents and agentic workflows](gg-creating-aia.md).
 
     2.  Set your communication mode to either **Synchronous** or **Asynchronous**.
 
@@ -114,7 +114,7 @@ Subflow that establishes Agent2Agent protocol. The default subflow should handle
 
     4.  Configure access control lists \(ACLs\) for the AI agent.
 
-        **Note:** The ACLs determine who has access to discover and execute the AI agent. To learn more about the ACLs you can create in AI Agent Studio and how to add more advanced security configurations, see [Implement access control in Now Assist AI agents](../concept/aia-security-implementation.md).
+        **Note:** The ACLs determine who has access to discover and execute the AI agent. To learn more about the ACLs you can create in AI Agent Studio and how to add more advanced security configurations, see [Implement access control in Now Assist AI agents](aia-security-implementation.md).
 
         This is a required step. If you have previously configured an AI agent without creating an ACL, you must generate an ACL before you can make other modifications.
 
@@ -182,5 +182,5 @@ Your external AI agent is connected to ServiceNow.
 
 You can [test an execution of your AI agent](test-ai-agent.md) or [its data access](test-aia-access.md). You can also add it to a new or existing agentic workflow. See [Create an agentic workflow](configure-use-case-ai-agents.md) for the steps to create or configure an agentic workflow.
 
-**Parent Topic:**[Create an external AI agent](../concept/create-external-aia.md)
+**Parent Topic:**[Create an external AI agent](create-external-aia.md)
 

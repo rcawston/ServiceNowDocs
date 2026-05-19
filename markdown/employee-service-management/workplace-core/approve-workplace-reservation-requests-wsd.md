@@ -17,7 +17,7 @@ Review employee area and space reservation requests in Workplace Core and approv
 
 ## Before you begin
 
-To approve or reject a workplace request using your mobile device, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To approve or reject a workplace request using your mobile device, you must have the [Now® Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app.
 
 Role required: approver\_user
 
@@ -49,7 +49,7 @@ In the Now Mobile app, open a task from the My Tasks section.
 3.  Approve or reject the request by selecting **Approve** or **Reject**.
 
 
-**Parent Topic:**[Manage workplace safety activities](../concept/manage-wsd-activites.md)
+**Parent Topic:**[Manage workplace safety activities](manage-wsd-activites.md)
 
 **Related topics**  
 
@@ -62,33 +62,33 @@ In the Now Mobile app, open a task from the My Tasks section.
 
 [Block a workplace location](block-workplace-location.md)
 
-[Configure Workplace entity and entity types](../concept/workplace-entity.md)
+[Configure Workplace entity and entity types](workplace-entity.md)
 
-[Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
+[Managing Neighborhoods](neighborhoods.md)
 
 [Enable favorites option for Workplace Service Portal](confgure-favourites-option-for-ws-portal-wsd.md)
 
 [Create a workplace performer criteria](create-workplace-performer-criteria.md)
 
-[Mapping employees to their designated workspaces](../concept/mapping-employees-to-existing-work-locations-wsd.md)
+[Mapping employees to their designated workspaces](mapping-employees-to-existing-work-locations-wsd.md)
 
 [Assign the workplace user role to employees](assign-workplace-user-role-to-employees-of-a-location-wsd.md)
 
-[Configuring shifts for your workplace](../concept/configuring-shifts-for-your-workplace-wsd.md)
+[Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 
-[Managing workplace shifts that you own](../concept/managing-shifts-you-own-wsd.md)
+[Managing workplace shifts that you own](managing-shifts-you-own-wsd.md)
 
-[Managing workplace reservations for employees](../concept/managing-workplace-reservations-wsd.md)
+[Managing workplace reservations for employees](managing-workplace-reservations-wsd.md)
 
-[Setting and tracking arrivals at the workplace](../concept/scheduling-employees-arrival-to-the-workplace-wsd.md)
+[Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace-wsd.md)
 
-[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 
-[Workplace knowledge management](../concept/workplace-knowledge-mgmt-wsd.md)
+[Workplace knowledge management](workplace-knowledge-mgmt-wsd.md)
 
-[QR code management](../concept/qr-code-mgmt.md)
+[QR code management](qr-code-mgmt.md)
 
-[Location migration](../concept/location-migration.md)
+[Location migration](location-migration.md)
 
-[View workplace service usage analytics with Usage Insights](../reference/appsee-intergration-wsd.md)
+[View workplace service usage analytics with Usage Insights](appsee-intergration-wsd.md)
 

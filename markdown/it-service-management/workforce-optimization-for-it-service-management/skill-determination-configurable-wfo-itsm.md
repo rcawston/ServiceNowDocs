@@ -19,7 +19,7 @@ The video shows how skill-based routing works in Workforce Optimization for ITSM
 
 Skill-based routing
 
--   **[Automatically add skills to incidents or interactions in Workforce Optimization for ITSM](../task/add-skills-automatic-itsm-manager-workspace-configurable-workspace.md)**  
+-   **[Automatically add skills to incidents or interactions in Workforce Optimization for ITSM](add-skills-automatic-itsm-manager-workspace-configurable-workspace.md)**  
 Define conditions for incidents or interactions and add skills required for those conditions using skill determination rules. When new incidents and interactions that are created meet these conditions, the skill determination business rule automatically adds the skills to those records. In the Workforce Optimization for ITSM Channels and Work scheduler applications, the work items get automatically assigned to the right agents based on the skills.
 
 **Parent Topic:**[Skills Management in Workforce Optimization for ITSM](skills-management-wfo-itsm.md)

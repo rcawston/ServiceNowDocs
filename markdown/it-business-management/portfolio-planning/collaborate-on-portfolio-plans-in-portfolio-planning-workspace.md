@@ -66,7 +66,7 @@ In the Comments tab, add notes or comments and select **Post Worknotes**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing portfolio plans in Portfolio Planning](../concept/managing-portfolio-plans-in-portfolio-planning.md)
+**Parent Topic:**[Managing portfolio plans in Portfolio Planning](managing-portfolio-plans-in-portfolio-planning.md)
 
 **Related topics**  
 

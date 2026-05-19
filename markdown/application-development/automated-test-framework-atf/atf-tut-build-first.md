@@ -22,7 +22,7 @@ Follow these step-by-step instructions to create and run your first automated te
 
 -   Role required: admin
 
-**Parent Topic:**[Getting started with the Automated Test Framework](../concept/atf-intro.md)
+**Parent Topic:**[Getting started with the Automated Test Framework](atf-intro.md)
 
 ## Create new test
 
@@ -90,7 +90,7 @@ The system creates a new test record and returns to the list of tests. For more 
 
 ### What to do next
 
-For some ideas on how to continue learning about the Automated Test Framework, see [Next steps with the Automated Test Framework](../concept/atf-next-step-concepts.md).
+For some ideas on how to continue learning about the Automated Test Framework, see [Next steps with the Automated Test Framework](atf-next-step-concepts.md).
 
 ## Add the second step to your automated test
 
@@ -189,7 +189,7 @@ Role required: atf\_test\_admin or admin
 
 ### About this task
 
-If needed, you can cancel a test even while it's running. For more information, see [Cancelling automated tests and test suites](../concept/atf-cancelling.md#).
+If needed, you can cancel a test even while it's running. For more information, see [Cancelling automated tests and test suites](atf-cancelling.md#).
 
 ### Procedure
 

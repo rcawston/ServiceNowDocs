@@ -65,7 +65,7 @@ Field
 
 Qualifier for message variable.Values in this list appear depending on the entry that is selected in the **Applies to** field while you’re creating an insight rule.
 
- This field appears only when the **Applies to** field is selected and when the **Threshold type** field is empty, while you’re creating an insight rule. For more information, see [Insight rule form](../reference/insight-rule-form.md).
+ This field appears only when the **Applies to** field is selected and when the **Threshold type** field is empty, while you’re creating an insight rule. For more information, see [Insight rule form](insight-rule-form.md).
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Script
 
 Text field that accepts JavaScript code input and provides controls, such as syntax checking and formatting.For example, to return a value, enter `return 100;`.
 
- This field doesn’t appear when the **Applies to** field is selected and when the **Threshold type** field is empty, while you’re creating an insight rule. For more information, see [Insight rule form](../reference/insight-rule-form.md).
+ This field doesn’t appear when the **Applies to** field is selected and when the **Threshold type** field is empty, while you’re creating an insight rule. For more information, see [Insight rule form](insight-rule-form.md).
 
 </td></tr></tbody>
 </table>5.  Select **Update**.

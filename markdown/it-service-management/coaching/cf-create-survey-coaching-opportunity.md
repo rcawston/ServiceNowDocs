@@ -82,5 +82,5 @@ Role required: sn\_coaching.admin
         For more information on the coaching opportunities, see [Define trigger conditions for a coaching opportunity](cf-create-coaching-opportunity.md).
 
 
-**Parent Topic:**[Setting up Coaching and surveys](../concept/cf-setting-up-coaching.md)
+**Parent Topic:**[Setting up Coaching and surveys](cf-setting-up-coaching.md)
 

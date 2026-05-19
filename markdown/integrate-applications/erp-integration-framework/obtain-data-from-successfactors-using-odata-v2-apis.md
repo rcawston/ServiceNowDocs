@@ -26,7 +26,7 @@ You can download, edit, or delete the metadata file using the icons.
 
 After uploading the file, its entities are displayed in the Model manager.
 
-For more information and detailed steps, see [Add an OData service manually in Zero Copy Connector for ERP](../task/erp-add-a-service-manually.md).
+For more information and detailed steps, see [Add an OData service manually in Zero Copy Connector for ERP](erp-add-a-service-manually.md).
 
 For more information about the APIs, see [SAP SuccessFactors API Reference Guide \(OData V2\)](https://help.sap.com/doc/a7c08a422cc14e1eaaffee83610a981d/2511/en-US/SF_HCM_OData_API_DEV.pdf) on the SAP Help Portal.
 

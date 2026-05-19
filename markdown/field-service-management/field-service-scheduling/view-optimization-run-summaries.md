@@ -50,7 +50,7 @@ Role required: wm\_admin
 **Related topics**  
 
 
-[Configuring Schedule Optimization](../concept/schedule-optimization-engine.md)
+[Configuring Schedule Optimization](schedule-optimization-engine.md)
 
 [Optimizing technician schedules at set intervals throughout the day](optimize-your-schedules-intraday.md)
 

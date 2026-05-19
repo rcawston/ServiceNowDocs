@@ -87,7 +87,7 @@ Description of the taxonomy content.
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 
@@ -135,5 +135,5 @@ Description of the taxonomy content.
 
 [Website configuration form](config-website-form.md)
 
-[Unified Taxonomy for Employee Center](../concept/config-taxonomy.md)
+[Unified Taxonomy for Employee Center](config-taxonomy.md)
 

@@ -104,8 +104,8 @@ The assigned work items are Approved \(![Green rectangular approved state icon.]
 
 ## What to do next
 
--   Reassign or unassign any assigned work from the Project Workspace. For more information, see [Reassign or unassign work using Resource Management Workspace](../../resource-management-workspace/task/rmw-reassign-unassign-work.md).
--   Split resource assignments at a specific date from the Project Workspace. For more information, see [Split resource assignments using Resource Management Workspace](../../resource-management-workspace/task/split-resource-assignment-rmw.md).
+-   Reassign or unassign any assigned work from the Project Workspace. For more information, see [Reassign or unassign work using Resource Management Workspace](../resource-management/rmw-reassign-unassign-work.md).
+-   Split resource assignments at a specific date from the Project Workspace. For more information, see [Split resource assignments using Resource Management Workspace](../resource-management/split-resource-assignment-rmw.md).
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](resource-assignments-pw.md)
 

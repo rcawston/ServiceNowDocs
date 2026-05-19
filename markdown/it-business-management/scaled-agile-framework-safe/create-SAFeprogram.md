@@ -108,7 +108,7 @@ PI Objectives
 List of all PI objectives of this ART. View, create, and update the PI objectives.This related list is visible in the SAFe view of the ART form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SAFe entities](../concept/key-entities-SAFe.md)
+</table>**Parent Topic:**[SAFe entities](key-entities-SAFe.md)
 
 **Related topics**  
 

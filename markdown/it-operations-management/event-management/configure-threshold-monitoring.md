@@ -82,5 +82,5 @@ The values in the modified monitoring configuration record are compared to the a
 
 Create a customized monitor. A template is provided to assist you to create script that can monitor the specified components. For more information, see [Create a self-health monitor to use custom health monitor script](custom-configure-threshold-monitoring.md).
 
-**Parent Topic:**[Self-health monitors for Event Management](../concept/self-monitoring.md)
+**Parent Topic:**[Self-health monitors for Event Management](self-monitoring.md)
 

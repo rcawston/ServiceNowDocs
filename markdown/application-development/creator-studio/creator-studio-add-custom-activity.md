@@ -132,5 +132,5 @@ The new activity appears in the activity picker in Creator Studio.
 
 ![The activity we added appears at the end of the activity picker](../image/crs-activity-added.png "New activity appears in the activity picker")
 
-**Parent Topic:**[Administering activities in Creator Studio](../concept/creator-studio-administering-activities.md)
+**Parent Topic:**[Administering activities in Creator Studio](creator-studio-administering-activities.md)
 

@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_admin
 
 2.  Select a predefined definition.
 
-    **Note:** For a complete list of the available predefined definitions, see [List of predefined tag-based alert grouping definitions](../reference/alert-clustering-predefined-definition-list.md).
+    **Note:** For a complete list of the available predefined definitions, see [List of predefined tag-based alert grouping definitions](alert-clustering-predefined-definition-list.md).
 
 3.  On the Tag Based Alert Clustering Definition form, select the **Active** check box.
 

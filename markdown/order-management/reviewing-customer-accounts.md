@@ -22,7 +22,7 @@ As an order agent, manager, or fulfiller, you can use your customer's or partner
 
 **Note:** To learn how to create new customer accounts, see [Configure accounts and contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-accounts-contacts.md) in Customer Service Management \(CSM\).
 
--   **[Review an account using the 360 View](../task/review-customer-account-360-view.md)**  
+-   **[Review an account using the 360 View](review-customer-account-360-view.md)**  
 Review a customer or partner's account by using the 360 View in the Order Management application. You can track the service contracts of your customers or partners. You can also view customer and service orders, cases, products, and equipment to see how you can improve your customer service.
 
 **Parent Topic:**[Using Order Management](using-order-management.md)

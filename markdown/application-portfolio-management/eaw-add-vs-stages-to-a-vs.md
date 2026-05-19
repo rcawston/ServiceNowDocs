@@ -37,12 +37,12 @@ Role required: sn\_apm.apm\_user
 
 8.  On the form, fill in the field.
 
-    For a description of the field values, see [Create new value stream stage form](../../reference/eaw-reference/eaw-create-new-value-stream-stage-form.md).
+    For a description of the field values, see [Create new value stream stage form](eaw-create-new-value-stream-stage-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Manage value streams](../../concept/eaw-concept/eaw-manage-value-streams.md)
+**Parent Topic:**[Manage value streams](eaw-manage-value-streams.md)
 
 **Related topics**  
 
@@ -51,5 +51,5 @@ Role required: sn\_apm.apm\_user
 
 [Add or edit a value stream](eaw-add-or-edit-a-value-stream.md)
 
-[Exploring value streams](../../concept/eaw-concept/eaw-value-streams.md)
+[Exploring value streams](eaw-value-streams.md)
 

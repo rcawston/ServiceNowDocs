@@ -21,9 +21,9 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
 The following are minimum prerequisites:
 
--   Install and configure the Impact Store App. See [Configure the Impact Store Application](../concept/configuring-impact-platform.md) for details.
+-   Install and configure the Impact Store App. See [Configure the Impact Store Application](configuring-impact-platform.md) for details.
 -   Scan Engine configured: See [Activate Scan Engine and review settings](configure-initial-scan-engine-settings.md) for details.
--   Now Assist for Impact v.3.03: See [Activate Now Assist skills in Now Assist for Impact](../concept/activate-now-assist-skills-in-now-assist-for-impact_0.md) for details.
+-   Now Assist for Impact v.3.03: See [Activate Now Assist skills in Now Assist for Impact](activate-now-assist-skills-in-now-assist-for-impact_0.md) for details.
 -   Now Assist for ServiceNow AI Platform v11.0.1
 
 ## Procedure

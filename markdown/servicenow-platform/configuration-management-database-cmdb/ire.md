@@ -24,7 +24,7 @@ ServiceNow® applications such as Service Mapping, horizontal discovery, and pat
 
 Additional information:
 
--   About properties that affect some functions of IRE: See [Properties for Identification and Reconciliation](../reference/properties-id-reconciliation.md).
+-   About properties that affect some functions of IRE: See [Properties for Identification and Reconciliation](properties-id-reconciliation.md).
 -   About using IRE APIs: See [IdentificationEngine - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/IdentificationEngineScopedAPI.md).
 -   About enabling debugging and checking on issues with a payload: See [How to log the payload sent to IRE and check the issues with the payload \[KB0750382\]](https://support.servicenow.com/kb_view_customer.do?sysparm_article=KB0750382).
 -   About the steps that IRE performs illustrating how IRE works, such as validating the payload, applying reconciliation, and committing the data to the CMDB: See [\[CMDB - IRE\] How the CMDB Identification and Reconciliation Engine works when passing a CI \(as payload\) to the createOrUpdateCI\(\) \[KB0750386\]](https://support.servicenow.com/kb_view_customer.do?sysparm_article=KB0750386).
@@ -34,7 +34,7 @@ Additional information:
 
 The CMDB identification process relies on identification rules to uniquely identify CIs. When possible, CIs can also be uniquely identified using **source\_name** and **source\_native\_key** values provided in the **sys\_object\_source\_info** section of the payload, and the Source \[sys\_object\_source\] table. If identification is successful using that method, then it is not necessary to apply matching algorithms that rely on identification rules, which is a slower identification method.
 
-You can configure the system to prioritize the use of IRE identification rules, even when **source\_name** and **source\_native\_key** are provided and can be used for unique identification. For more information about using the **glide.identification\_engine.skip\_sys\_object\_source\_matching** system property to manage this behavior, see [Properties for Identification and Reconciliation](../reference/properties-id-reconciliation.md).
+You can configure the system to prioritize the use of IRE identification rules, even when **source\_name** and **source\_native\_key** are provided and can be used for unique identification. For more information about using the **glide.identification\_engine.skip\_sys\_object\_source\_matching** system property to manage this behavior, see [Properties for Identification and Reconciliation](properties-id-reconciliation.md).
 
 A unique CI identifier can be provided in the optional **sys\_object\_source\_info** object in the IRE payload.
 
@@ -76,7 +76,7 @@ To help resolve conflicting attribute values, IRE uses timestamps in the followi
 
     Most recent discovery \(**last\_discovered**\) is the timestamp of when the CI was last discovered. IRE always updates CIs’ **last\_discovered** and **discovery\_source** attributes during payload processing, even when no other CI attributes are updated. When **last\_discovered** is provided in the payload, IRE updates the CI with the provided value only if the **last\_discovered** time in the payload is newer than the one in the CMDB. If **last\_discovered** is not provided in the payload, IRE updates the **last\_discovered** attribute with the current timestamp.
 
-    You can use the [glide.identification\_engine.skip\_updating\_source\_last\_discovered\_if\_older](../reference/properties-id-reconciliation.md) and the [glide.identification\_engine.ire\_message\_listener\_skip\_updating\_source\_last\_discovered\_to\_now](../reference/properties-id-reconciliation.md) system properties to modify this default behaviour.
+    You can use the [glide.identification\_engine.skip\_updating\_source\_last\_discovered\_if\_older](properties-id-reconciliation.md) and the [glide.identification\_engine.ire\_message\_listener\_skip\_updating\_source\_last\_discovered\_to\_now](properties-id-reconciliation.md) system properties to modify this default behaviour.
 
 -   First discovered \(**first\_discovered**\) is the timestamp of when the CI was first created.
 
@@ -85,8 +85,8 @@ To help resolve conflicting attribute values, IRE uses timestamps in the followi
 
 You can also use the following system properties to modify how IRE uses the **source\_recency\_timestamp** value in a payload to update the **last\_scan** attribute in the Source \[sys\_object\_source\] table:
 
--   [glide.identification\_engine.skip\_updating\_last\_scan\_if\_older](../reference/properties-id-reconciliation.md)
--   [glide.identification\_engine.ire\_message\_listener\_skip\_updating\_last\_scan\_to\_now](../reference/properties-id-reconciliation.md)
+-   [glide.identification\_engine.skip\_updating\_last\_scan\_if\_older](properties-id-reconciliation.md)
+-   [glide.identification\_engine.ire\_message\_listener\_skip\_updating\_last\_scan\_to\_now](properties-id-reconciliation.md)
 
 ## Enhanced IRE features
 
@@ -130,7 +130,7 @@ IRE errors for a partial item:
 -   MISSING\_DEPENDENCY –— Dependent CI is missing a dependency relation which is specified in the payload​.
 -   INSERT\_NOT\_ALLOWED\_FOR\_SOURCE –— An IRE data source rule prevents the specified data sources from creating CIs of the specified class.
 
-For more details about IRE error messages, see [IRE error messages](../reference/id-engine-error-messages.md).
+For more details about IRE error messages, see [IRE error messages](id-engine-error-messages.md).
 
 If processing fails because payload items are determined to be partial items, then the partial items are saved as partial payloads in the CMDB IRE Partial Payloads \[cmdb\_ire\_partial\_payloads\] table in JSON format for later potential processing.​ IRE uses identifier keys to attempt to match incoming payloads with stored partial payloads.
 
@@ -194,7 +194,7 @@ Server/Computer feed:
 
 The computer in the partial payload and the server in the new payload match because they have identical **source\_name** and **source\_native\_key**. Therefore, the partial payload and the new payload are merged, the operation is committed, and the partial payload is deleted from the Partial Payloads table.
 
-There is a limit on the number of items per partial payload, which is set by the [glide.identification\_engine.partial\_payload\_items\_max\_size](../reference/properties-id-reconciliation.md) property \(1000 by default\). Storing associated relationships, references, and dependent items, in one partial payload, can result in reaching that limit, in which case, the payload is split into multiple partial payloads.
+There is a limit on the number of items per partial payload, which is set by the [glide.identification\_engine.partial\_payload\_items\_max\_size](properties-id-reconciliation.md) property \(1000 by default\). Storing associated relationships, references, and dependent items, in one partial payload, can result in reaching that limit, in which case, the payload is split into multiple partial payloads.
 
 For more information about partial payloads, see [CreateOrUpdateCIEnhanced\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/IdentificationEngineScopedAPI.md)​​.
 
@@ -236,7 +236,7 @@ Reclassification flags have precedence over any other system settings for [Confi
 
 ## Adding custom before and after scripts
 
-Use the [IntegrationHub ETL](integrationhub-etl.md) to [add custom Java scripts for a data source of a CMDB integration application](../task/add-scripts-integration-datasource.md). Those scripts provide access to the IRE input and output payloads, while processing CMDB integrations.
+Use the [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) to [add custom Java scripts for a data source of a CMDB integration application](../integration-hub-etl/add-scripts-integration-datasource.md). Those scripts provide access to the IRE input and output payloads, while processing CMDB integrations.
 
 Before scripts provide access to a batch of input payloads that will be sent to IRE. Using a custom before script lets you:
 

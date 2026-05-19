@@ -47,5 +47,5 @@ Role required: sn\_si.analyst
         |Cases|Shows information from TISC for TISC cases related to the selected observables.|
 
 
-**Parent Topic:**[Working with TISC Context](../../secops-analyst-workspace/concept/working-with-tisc-context.md)
+**Parent Topic:**[Working with TISC Context](working-with-tisc-context.md)
 

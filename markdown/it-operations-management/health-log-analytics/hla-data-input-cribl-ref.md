@@ -110,5 +110,5 @@ Cribl destination
 The created Cribl destination. The Cribl destination points to the MID Server host and port configured in the data input. This field is read-only.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+</table>**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

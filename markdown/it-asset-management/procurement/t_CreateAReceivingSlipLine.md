@@ -51,7 +51,7 @@ If the asset already exists, the asset record is updated when you save the recei
 
 The **Receiving stockroom** field on the Receiving Slip record becomes read-only.
 
-**Parent Topic:**[Receive assets](../concept/c_ReceiveAssets.md)
+**Parent Topic:**[Receive assets](c_ReceiveAssets.md)
 
 **Related topics**  
 
@@ -60,5 +60,5 @@ The **Receiving stockroom** field on the Receiving Slip record becomes read-only
 
 [Create a receiving slip](t_CreateAReceivingSlip.md)
 
-[Consumable assets](../concept/c_ReceiveAConsumableAsset.md)
+[Consumable assets](c_ReceiveAConsumableAsset.md)
 

@@ -35,12 +35,12 @@ Role required: sn\_apm.apm\_user
     -   To update details of an existing value stream stage, select the value stream stage.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new value stream stage form](../../reference/eaw-reference/eaw-create-new-value-stream-stage-form.md).
+    For field information, see [Create new value stream stage form](eaw-create-new-value-stream-stage-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage value stream stages](../../concept/eaw-concept/eaw-manage-value-stream-stages.md)
+**Parent Topic:**[Manage value stream stages](eaw-manage-value-stream-stages.md)
 
 **Related topics**  
 

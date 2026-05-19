@@ -98,5 +98,5 @@ You cannot highlight the following field types:
         Now, regardless of the conditions, Workspace will not highlight any fields in the specified filtered list. This option does not work, however, for filtered lists in **My Lists**, which are the filtered lists agents create.
 
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../../field-administration/concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](customize-fields-now-platform-landing.md)
 

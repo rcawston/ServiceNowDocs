@@ -50,5 +50,5 @@ A temporary credit is provided to the account holder while the case is under inv
     **Note:** In cases where the agent does not provide provisional credit but keeps the task open, once file return communication is sent to the customer, this task is cancelled.
 
 
-**Parent Topic:**[Processing an ACH dispute](../concept/process-dispute-ach.md)
+**Parent Topic:**[Processing an ACH dispute](process-dispute-ach.md)
 

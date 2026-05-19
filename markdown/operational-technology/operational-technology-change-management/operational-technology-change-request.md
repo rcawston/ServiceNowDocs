@@ -27,9 +27,9 @@ The following examples show how to apply Operational Technology Change Managemen
 
 ## OT change requests
 
-OT change requests occur when there’s a disruption in service from an OT device on an OT network. In some cases, the OT device may not be known when the change request is created. When you create an OT change request from the Industrial Workspace, the change request is automatically assigned a Network Type of **OT**. This attribute is used to distinguish an OT change request from an IT change request. This field isn’t displayed by default. For more information about OT devices, see [OT device related items and related lists](../../mftg-manufacturing-oper-tech-mgr/reference/ot-assets-related-links-and-lists.md).
+OT change requests occur when there’s a disruption in service from an OT device on an OT network. In some cases, the OT device may not be known when the change request is created. When you create an OT change request from the Industrial Workspace, the change request is automatically assigned a Network Type of **OT**. This attribute is used to distinguish an OT change request from an IT change request. This field isn’t displayed by default. For more information about OT devices, see [OT device related items and related lists](../operational-technology-manager/ot-assets-related-links-and-lists.md).
 
-For more information about how to create an OT change request, see [Create a change request](../task/create-ot-change-request.md).
+For more information about how to create an OT change request, see [Create a change request](create-ot-change-request.md).
 
 ## Separating an IT and OT change
 
@@ -37,7 +37,7 @@ When the Operational Technology Change Management application is installed on yo
 
 ## Operational Technology Change Management model state transitions
 
-The following tables list the Operational Technology Change Management model state transitions for both the Basic OT Change Model and the Advanced OT Change Model. For more information about the OT Change Models, see [Select a change model to fulfill change requests](../task/select-change-model.md).
+The following tables list the Operational Technology Change Management model state transitions for both the Basic OT Change Model and the Advanced OT Change Model. For more information about the OT Change Models, see [Select a change model to fulfill change requests](select-change-model.md).
 
 <table id="table_ifw_jdj_yxb"><thead><tr><th>
 

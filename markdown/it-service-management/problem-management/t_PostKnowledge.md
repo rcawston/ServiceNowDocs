@@ -38,5 +38,5 @@ If you have Problem Management Best Practice — Madrid — Knowledge Integratio
     By default, the system creates a knowledge article in **Draft** workflow state. If the knowledge submission workflow is enabled, the problem **Short description** and **Work notes** are placed into a knowledge submission instead of an article. For more information, see [Knowledge workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md).
 
 
-**Parent Topic:**[Communicating the outcome of a problem](../concept/communicate-outcome-of-problem.md)
+**Parent Topic:**[Communicating the outcome of a problem](communicate-outcome-of-problem.md)
 

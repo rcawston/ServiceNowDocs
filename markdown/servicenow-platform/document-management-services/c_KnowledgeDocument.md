@@ -15,9 +15,9 @@ breadcrumb: [Managed Documents, Document Services, Manage content capabilities, 
 
 The Knowledge Document plugin extends the Managed Documents plugin by providing the functionality for managed documents to be published to the Knowledge Base.
 
--   **[Installed with Knowledge Document plugin](../reference/r_InstalledWithKnowledgeDocument.md)**  
+-   **[Installed with Knowledge Document plugin](r_InstalledWithKnowledgeDocument.md)**  
 These elements are installed with the Knowledge Document plugin.
--   **[Link documents to Knowledge articles](../task/t_ViewKnowledgeLinkedToADocument.md)**  
+-   **[Link documents to Knowledge articles](t_ViewKnowledgeLinkedToADocument.md)**  
 Manage a document and access the latest version of the document from an article by linking the document to a Knowledge article.
 
 **Parent Topic:**[Managed Documents](c_ManagedDocuments.md)

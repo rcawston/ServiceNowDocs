@@ -31,7 +31,7 @@ Security
 
 </td><td>
 
-Measures implementation of protocols across a ServiceNow instance to prevent unauthorized access, data breaches, cyber attacks, and potential vulnerabilities.See [Scan Engine definitions: Security](../reference/scan-engine-definitions-security.md) for additional information.
+Measures implementation of protocols across a ServiceNow instance to prevent unauthorized access, data breaches, cyber attacks, and potential vulnerabilities.See [Scan Engine definitions: Security](scan-engine-definitions-security.md) for additional information.
 
 </td></tr><tr><td>
 
@@ -39,7 +39,7 @@ Performance
 
 </td><td>
 
-Measures the efficiency of a ServiceNow instance, encompassing aspects such as speed, responsiveness, resource utilization, and overall dependability.See [Scan Engine definitions: Performance](../reference/scan-engine-definitions-performance.md) for additional information.
+Measures the efficiency of a ServiceNow instance, encompassing aspects such as speed, responsiveness, resource utilization, and overall dependability.See [Scan Engine definitions: Performance](scan-engine-definitions-performance.md) for additional information.
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ Manageability
 
 </td><td>
 
-Measures the extent to which ServiceNow instances, applications, or infrastructure can be effectively monitored, configured, and maintained.See [Scan Engine definitions: Manageability](../reference/scan-engine-definitions-manageability.md) for additional information.
+Measures the extent to which ServiceNow instances, applications, or infrastructure can be effectively monitored, configured, and maintained.See [Scan Engine definitions: Manageability](scan-engine-definitions-manageability.md) for additional information.
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Upgradeability
 
 </td><td>
 
-Assesses the ease of enhancing a ServiceNow instance or application with new features, improvements, security patches, or compatibility adjustments.See [Scan Engine definitions: Upgradeability](../reference/scan-engine-definitions-upgradeability.md) for additional information.
+Assesses the ease of enhancing a ServiceNow instance or application with new features, improvements, security patches, or compatibility adjustments.See [Scan Engine definitions: Upgradeability](scan-engine-definitions-upgradeability.md) for additional information.
 
 </td></tr><tr><td>
 
@@ -63,16 +63,16 @@ User Experience
 
 </td><td>
 
-Evaluates the quality of user interactions with applications. Considers the ease of use, efficiency, design, responsiveness, accessibility, and its emotional and functional impact.See [Scan Engine definitions: User Experience](../reference/scan-engine-definitions-user-experience.md) for additional information.
+Evaluates the quality of user interactions with applications. Considers the ease of use, efficiency, design, responsiveness, accessibility, and its emotional and functional impact.See [Scan Engine definitions: User Experience](scan-engine-definitions-user-experience.md) for additional information.
 
 </td></tr></tbody>
-</table>For more information, see [Configure Scan Engine properties](../task/configure-scan-engine-properties.md).
+</table>For more information, see [Configure Scan Engine properties](configure-scan-engine-properties.md).
 
 ## Custom definitions
 
-Users can create their own custom definitions. For more information, see [Create custom Scan Engine definitions](../task/create-scan-engine-definitions.md#).
+Users can create their own custom definitions. For more information, see [Create custom Scan Engine definitions](create-scan-engine-definitions.md#).
 
-**Note:** The number of custom definitions that is permitted varies based on your Impact package. For more information, see [Impact packages](../reference/impact-packages.md).
+**Note:** The number of custom definitions that is permitted varies based on your Impact package. For more information, see [Impact packages](impact-packages.md).
 
 ## Scan Engine definition suites
 
@@ -92,5 +92,5 @@ By default, the following suites are available:
 
 **Note:** Only users with the `sn_se.scan_engine_admin_role` role can modify existing suites and their relationship with their definitions.
 
-For more information, see [Create Scan Engine definition suites](../task/create-scan-engine-definition-suites.md#).
+For more information, see [Create Scan Engine definition suites](create-scan-engine-definition-suites.md#).
 

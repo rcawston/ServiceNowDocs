@@ -42,5 +42,5 @@ A default DSN is preloaded with the ODBC driver installation ServiceNow data sou
     ![ODBC Management Console](../image/OdbcManagementConsole2.png)
 
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](configuring-odbc.md)
 

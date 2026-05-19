@@ -46,7 +46,7 @@ Role required: admin
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Map pages](../concept/c_MapPages.md)
+**Parent Topic:**[Map pages](c_MapPages.md)
 
 **Related topics**  
 
@@ -61,5 +61,5 @@ Role required: admin
 
 [Set map application scope](set-map-application-scope.md)
 
-[Scripting for map pages](../reference/scripting-for-map-pages.md)
+[Scripting for map pages](scripting-for-map-pages.md)
 

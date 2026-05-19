@@ -76,5 +76,5 @@ This table belongs to the Procurement Case Management application, which is a se
 
 Procurement cases are automatically assigned a priority level when they are created or updated. Procurement specialists can sort and filter their work queue by priority to work the most urgent cases first.
 
-**Parent Topic:**[Configuring work prioritization](../concept/configuring-work-prioritization.md)
+**Parent Topic:**[Configuring work prioritization](configuring-work-prioritization.md)
 

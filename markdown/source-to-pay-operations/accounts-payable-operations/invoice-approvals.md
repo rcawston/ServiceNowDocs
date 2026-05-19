@@ -17,11 +17,11 @@ Invoices with the No exceptions found status are eligible for approval.
 
 The approval engine picks all the invoices with the No exception found status and based on the configured approval rules, creates the approval requests and assigns them to the approvers. At this stage, the status of the invoices changes to Pending approval. After the approver approves the approval request, the status of the invoice changes to Approved.
 
--   **[Create an approval rule](../task/invoice-approval-rule.md)**  
+-   **[Create an approval rule](invoice-approval-rule.md)**  
 Create approval rules to ensure that the approval requests are reasonable and fit your organization's budget.
--   **[Monitor an approval plan](../task/view-approval-plan.md)**  
+-   **[Monitor an approval plan](view-approval-plan.md)**  
 Monitor approval plans to understand how the overall approval process is progressing.
--   **[Approve an invoice approval task from Employee Center](../task/approve-invoice-request-ec.md)**  
+-   **[Approve an invoice approval task from Employee Center](approve-invoice-request-ec.md)**  
 Review the invoice approval tasks that are assigned to you and approve or reject them.
 
 **Parent Topic:**[Using Accounts Payable Invoice Processing](use-ap-invoice-processing.md)
@@ -41,5 +41,5 @@ Review the invoice approval tasks that are assigned to you and approve or reject
 
 [Tolerance Rules and Variances for invoices](tolerance-rules-and-variance.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](view-invoice-attachment.md)
 

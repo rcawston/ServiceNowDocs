@@ -25,7 +25,7 @@ The Virtual Agent Designer user input and bot response controls for creating con
 
 Starting with Version 2.0.0, the card and video bot response controls are supported in Workplace conversations. The video control displays a thumbnail image of the video that users can select to open the video in their preferred web browser.
 
-For more information about user input controls and bot responses, see [Assistant Designer user input controls](../reference/va-user-inputs.md) and [Assistant Designer bot responses](../reference/va-bot-responses.md), respectively.
+For more information about user input controls and bot responses, see [Assistant Designer user input controls](va-user-inputs.md) and [Assistant Designer bot responses](va-bot-responses.md), respectively.
 
 ## AI Search results
 
@@ -52,7 +52,7 @@ For detailed information on Virtual Agent notifications, see [Configuring Virtua
 
 ## URL navigation for chat links
 
-In Virtual Agent and Live Agent conversations on the Workplace app, links to ServiceNow records open automatically in base system portals—including links displayed in output cards, Virtual Agent notifications, and AI Search results. If needed, admins can change the portals in which these links are opened. For configuration details, see [Configure URL navigation for chat links](../../conversational-interfaces/task/ac-configure-url-navigation.md).
+In Virtual Agent and Live Agent conversations on the Workplace app, links to ServiceNow records open automatically in base system portals—including links displayed in output cards, Virtual Agent notifications, and AI Search results. If needed, admins can change the portals in which these links are opened. For configuration details, see [Configure URL navigation for chat links](../ac-configure-url-navigation.md).
 
 ## Trusted Domains
 
@@ -64,5 +64,5 @@ In custom chat integrations, the values specified in the Trusted media domains f
 -   Geolocation topic block is not supported.
 -   Account pre-linking is not supported in Workplace from Facebook.
 
-**Parent Topic:**[Conversational Integration with Workplace from Facebook](../task/mssg-workplace.md)
+**Parent Topic:**[Conversational Integration with Workplace from Facebook](mssg-workplace.md)
 

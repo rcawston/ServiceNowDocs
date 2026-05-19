@@ -17,7 +17,7 @@ Review files when one or more of your files has been skipped or claimed by anoth
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 During the development of a global application, warnings about skipped or claimed files may display on various progress screens. Skipped or claimed files can occur when the files in one application are claimed by other application\(s\).
 
@@ -30,7 +30,7 @@ Only one version can be loaded for production. The options are as follows.
 -   Decide with the other team from which application the file should be removed so that only one file is loaded for production.
 -   Use the Merge tool: If changes to files in both apps are needed in production, use the merge tool to pull the files into a new common application that serves both parties effectively.
 
-To learn more see the [Legacy - Resolve conflicts](../task/t_ResolveConflicts.md) topic.
+To learn more see the [Legacy - Resolve conflicts](t_ResolveConflicts.md) topic.
 
 **Parent Topic:**[Legacy - Global application file management](manage_global_application_files.md)
 

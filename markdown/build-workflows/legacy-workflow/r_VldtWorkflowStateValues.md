@@ -33,7 +33,7 @@ This validator has multiple possible error messages.
 -   Suggested Action: If this is not by design, make the appropriate changes.
 -   Publishable: Yes.
 -   Runnable: Yes
--   Related Information: [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md).
+-   Related Information: [Workflow activities](../workflow-activities/c_WorkflowActivities.md).
 
 ## Troubleshooting
 

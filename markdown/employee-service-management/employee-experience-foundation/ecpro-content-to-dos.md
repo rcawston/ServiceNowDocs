@@ -26,8 +26,8 @@ Create to-do links for your banner or styled content items to make it easier to 
 
 To create to-do links for a banner or styled content, do the following:
 
--   Create to-do content: For more information, see [Create to-do content](../task/ecpro-manage-content-to-do.md).
--   Create link content referencing your to-do content: For details, see [Add or modify links to other content sources](../task/ecpro-manage-link-content.md)
+-   Create to-do content: For more information, see [Create to-do content](ecpro-manage-content-to-do.md).
+-   Create link content referencing your to-do content: For details, see [Add or modify links to other content sources](ecpro-manage-link-content.md)
 
     **Note:** Select **To-do** in the **Type** field. And, select the to-do content you created previously from the **To-do content** list.
 
@@ -41,7 +41,7 @@ To create to-do links for a banner or styled content, do the following:
 
     -   The to-do scheduled content appears in the **To-do scheduled content** field after you select **Save**. Your to-do content also aligns with the schedule of your portal content.
     -   The to-do content is automatically scheduled separately when the link content is scheduled.
-    -   For more information, see [Scheduling the delivery of content](../task/ecpro-schedule-content.md).
+    -   For more information, see [Scheduling the delivery of content](ecpro-schedule-content.md).
     -   The Content Publishing: Create To-dos scheduled job must run before the content becomes available.
 
 ## Process for Content Experiences \(campaigns\)
@@ -53,7 +53,7 @@ To create to-do links for a banner or styled content within a campaign, you must
 -   Create portal content that references your link content.
 -   Add your portal content to a stage/bundle as an activity in your campaign.
     -   You can use the legacy lists and forms or the campaign builder UI to add your portal content.
-    -   For more information, see [Create a campaign](../task/ecpro-manage-campaigns.md).
+    -   For more information, see [Create a campaign](ecpro-manage-campaigns.md).
 -   If you use the campaign builder UI, you will see the banner and link content.
 
     ![Schedule of content view: Portal content and linked content](../images/content-exps-to-do-link.png)

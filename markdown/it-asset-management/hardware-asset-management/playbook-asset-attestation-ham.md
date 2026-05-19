@@ -19,9 +19,9 @@ The Create asset attestation playbook includes multiple lanes on the left-hand p
 
 Once you mark an activity in a lane as complete, you can move on to the next lane. You can return to the playbook anytime later to finish any pending activities. As you complete each lane, the status updates in the left-hand panel. The final activity in the playbook involves reviewing the attestation schedule details that you provided and marking that activity as complete.
 
--   **[Create an asset attestation or a schedule using the playbook](../task/create-attestation-using-playbook.md)**  
+-   **[Create an asset attestation or a schedule using the playbook](create-attestation-using-playbook.md)**  
 Create a one-time asset attestation or a schedule for recurring attestations to verify if your serialized hardware assets are in use, using the playbook.
--   **[Return to the playbook to continue pending asset attestation activities](../task/continue-with-attestation-playbook.md)**  
+-   **[Return to the playbook to continue pending asset attestation activities](continue-with-attestation-playbook.md)**  
 Resume work on the incomplete asset attestation activities in the playbook by using the attestation schedule details.
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)

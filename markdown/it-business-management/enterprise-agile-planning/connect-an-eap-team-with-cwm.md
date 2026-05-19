@@ -49,5 +49,5 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 ## What to do next
 
-Navigate to **Workspaces** &gt; **Collaborative Work Management** to start managing this team's work. To learn more, see [Managing work using Boards in CWM](../../collab-work-mgmt/concept/cwm-boards.md) and [Sprint planning in CWM](../../collab-work-mgmt/concept/agile-sprint-planning-in-cwm.md).
+Navigate to **Workspaces** &gt; **Collaborative Work Management** to start managing this team's work. To learn more, see [Managing work using Boards in CWM](../collaborative-work-management/cwm-boards.md) and [Sprint planning in CWM](../collaborative-work-management/agile-sprint-planning-in-cwm.md).
 

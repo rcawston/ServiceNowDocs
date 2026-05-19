@@ -17,7 +17,7 @@ The base Orchestration system includes packs of custom activities you can use to
 
 Activity packs allow you to automate several common business processes, such as managing Active Directory accounts and Exchange server mailboxes. Activity packs can also automate IT functions such as starting and stopping Windows servers, joining domains, assigning IP addresses, and configuring load balancers.
 
--   **[Use an activity pack](../../orchestration-activity-designer/task/t_UseAnActivityDesignerPack.md)**  
+-   **[Use an activity pack](t_UseAnActivityDesignerPack.md)**  
 The **Packs** tab of the Workflow Editor contains any activity packs downloaded from the ServiceNow Store and any activity packs that you create.
 -   **[Active Directory activity pack](c_OrchActiveDirectoryActivities.md)**  
 The Active Directory \(AD\) activity pack enables an administrator to create, delete, and manage objects in Windows Active Directory, such as users, groups, and computers, using a ServiceNow Orchestration workflow.
@@ -42,5 +42,5 @@ Orchestration provides an activity pack of SSH activities that were customized u
 -   **[Global activities](global-activity-pack.md#)**  
 Global activities are Orchestration activities created in the global scope.
 
-**Parent Topic:**[Classic Orchestration](../../../product/orchestration/reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](r-orchestration.md)
 

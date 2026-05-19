@@ -31,14 +31,14 @@ You must be in the application scope of the application for which you want to cr
 
 3.  On the Application Quota Rule form, fill in the fields.
 
-    For a description of the field values, see [Application quota rule form](../reference/application-quota-rule-form.md).
+    For a description of the field values, see [Application quota rule form](application-quota-rule-form.md).
 
 4.  Set a condition to specify when the application quota rule should take effect.
 
-    The application quota rule condition builder displays conditions that are only applicable to transactions. For a description of the condition builder options, see [Application quota condition builder](../reference/application-quota-condition-builder.md).
+    The application quota rule condition builder displays conditions that are only applicable to transactions. For a description of the condition builder options, see [Application quota condition builder](application-quota-condition-builder.md).
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../../general/concept/maintain-monitor-now-platform.md)
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../maintain-monitor-now-platform.md)
 

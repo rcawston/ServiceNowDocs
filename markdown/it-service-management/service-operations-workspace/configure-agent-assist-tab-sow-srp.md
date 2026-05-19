@@ -77,5 +77,5 @@ Add or remove a record table from the screen condition, update the sys\_id for t
 -   **[Edit the table configuration for Agent Assist in Service Operations Workspace using the Standard Record Page](edit-the-table-configuration-for-agent-assist-in-service-operations-workspace-using-standard-record-page.md)**  
 Edit the table configuration for Agent Assist to see the required search results in the Agent Assist tab using Standard Record Page \(SRP\) in Service Operations Workspace.
 
-**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](../concept/srp-service-operations-workspace.md)
+**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](srp-service-operations-workspace.md)
 

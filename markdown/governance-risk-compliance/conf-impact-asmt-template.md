@@ -28,7 +28,7 @@ The store apps for using the Smart Assessment Engine application in BIA are list
 1.  Required apps: Smart Assessment Core \[com.sn\_smart\_asmt\], Smart Assessment Designer \[com.sn\_smart\_asmt\_desg\], Smart Assessment Connected \[com.sn\_smart\_asmt\_conn\]
 2.  Optional apps: Smart Assessment Post-assessment Actions \[com.sn\_smart\_imp\_auto\]
 
-For information about the initial setup checklist for Smart Assessment Engine, see [Configuring Smart Assessment Engine](../../assessment-engine/concept/smart-assessment-engine-cf-config.md). For more information on the Smart Assessment Engine, see [Smart Assessment Engine](../../assessment-engine/reference/smart-asmnt-engine-landing-page.md).
+For information about the initial setup checklist for Smart Assessment Engine, see [Configuring Smart Assessment Engine](smart-assessment-engine/smart-assessment-engine-cf-config.md). For more information on the Smart Assessment Engine, see [Smart Assessment Engine](smart-assessment-engine/smart-asmnt-engine-landing-page.md).
 
 ## About this task
 
@@ -72,7 +72,7 @@ To configure a BIA template using Smart Assessment, see [Configure BIA templates
 
     ![Core viewer role.](../../grc-operational-res/image/asmt-template-bcm-core-viewer-role.png)
 
-    **Note:** For information on creating an assessment template, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    **Note:** For information on creating an assessment template, see [Create an assessment template](smart-assessment-engine/sae-asmnt-template-create.md).
 
 4.  Set up the assessment questions in the **Questions** tab.
 
@@ -94,7 +94,7 @@ To configure a BIA template using Smart Assessment, see [Configure BIA templates
 
     4.  Add instructions in the text box to set the context and inform responders on how to answer the questions appropriately.
 
-    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](../../assessment-engine/task/sae-asmnt-template-populate.md).
+    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](smart-assessment-engine/sae-asmnt-template-populate.md).
 
 5.  Select **Save**.
 
@@ -134,11 +134,11 @@ To configure a BIA template using Smart Assessment, see [Configure BIA templates
 
         Once activated, the automation appears in the **Automations** tab.
 
-        For more information on automations, see [Automate response](../../assessment-engine/concept/automate-response.md) and [Configure post-assessment actions](../../assessment-engine/task/configure-post-assessment-actions.md).
+        For more information on automations, see [Automate response](smart-assessment-engine/automate-response.md) and [Configure post-assessment actions](smart-assessment-engine/configure-post-assessment-actions.md).
 
 8.  Configure scoring settings on the **Scoring** tab.
 
-    For more information on assigning scores to the assessments, see [Scoring assessments](../../assessment-engine/concept/scoring-in-assessments.md).
+    For more information on assigning scores to the assessments, see [Scoring assessments](smart-assessment-engine/scoring-in-assessments.md).
 
 9.  Select **Save**.
 
@@ -157,5 +157,5 @@ To configure a BIA template using Smart Assessment, see [Configure BIA templates
 
 You can use the published Smart Assessment template for the Business Impact Analysis \(BIA\) workflow.
 
-**Parent Topic:**[Setup for a business impact analysis](../concept/bcm-admin-tasks.md)
+**Parent Topic:**[Setup for a business impact analysis](bcm-admin-tasks.md)
 

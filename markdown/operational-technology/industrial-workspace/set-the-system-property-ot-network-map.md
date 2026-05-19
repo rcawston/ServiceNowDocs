@@ -34,5 +34,5 @@ Role required: admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Setting up the OT Network Map](../concept/setting-up-ot-network-map.md)
+**Parent Topic:**[Setting up the OT Network Map](setting-up-ot-network-map.md)
 

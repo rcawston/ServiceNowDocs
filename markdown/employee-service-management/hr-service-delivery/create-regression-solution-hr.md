@@ -36,7 +36,7 @@ Once you configure ETTR, you can see the **HR Case Resolution Time** option. See
 
 Based on the configuration, the views may be different for your implementation.
 
-**Parent Topic:**[HR PIWB template: Recommend estimated time to resolve](../task/hr-piwb-ettr.md)
+**Parent Topic:**[HR PIWB template: Recommend estimated time to resolve](hr-piwb-ettr.md)
 
 **Related topics**  
 

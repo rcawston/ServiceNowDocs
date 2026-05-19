@@ -568,10 +568,10 @@ TNI CI attributes
 Configuration \(CI\) that you can select to create the Telecommunications Network Inventory attribute details for this network.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create Managed Network](../task/create_managed_network.md)
+[Create Managed Network](create_managed_network.md)
 

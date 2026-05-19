@@ -58,28 +58,28 @@ Use the following procedure to customize the View as experience for your employe
 
 Set up the View as page experience, add pagination, and tweak the number of articles displayed as a search result to provide optimal user experience for a manager searching for Knowledge articles using the feature.
 
-**Parent Topic:**[Configure Manager Hub](../../human-resources/task/set-up-managerhub.md)
+**Parent Topic:**[Configure Manager Hub](set-up-managerhub.md)
 
 **Related topics**  
 
 
-[RCA approvals for Manager Hub](../../human-resources/task/run-rca-mh.md)
+[RCA approvals for Manager Hub](run-rca-mh.md)
 
-[Activate a scheduled job](../../human-resources/reference/activate-sj-mh.md)
+[Activate a scheduled job](activate-sj-mh.md)
 
-[Configure important dates](../../human-resources/task/configure-imp-dates.md)
+[Configure important dates](configure-imp-dates.md)
 
-[Configure team requests](../../human-resources/task/configure-team-requests.md)
+[Configure team requests](configure-team-requests.md)
 
-[Configure team data](../../human-resources/task/configure-team-data.md)
+[Configure team data](configure-team-data.md)
 
-[Configure team column data](../../human-resources/task/configure-team-columndata.md)
+[Configure team column data](configure-team-columndata.md)
 
-[Configure team filters](../../human-resources/task/configure-team-filter.md)
+[Configure team filters](configure-team-filter.md)
 
-[Configure daily stats](../../human-resources/task/configure-daily-stats.md)
+[Configure daily stats](configure-daily-stats.md)
 
-[Configure to do mappings](../../human-resources/task/use-to-do-map.md)
+[Configure to do mappings](use-to-do-map.md)
 
-[Configure widgets](../../human-resources/task/configure-team-insights.md)
+[Configure widgets](configure-team-insights.md)
 

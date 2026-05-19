@@ -45,7 +45,7 @@ Here's an example of why a user created and associated a location to the consume
 
     **Note:** If multiple consumer profile location records are associated with the location, you can't delete a location record.
 
-    A new address is created and added to the **Location** field. You can associate this location to the consumer profile. For a description of the field values, see [Consumer Profile Location table](../reference/consumer-profile-location-table.md).
+    A new address is created and added to the **Location** field. You can associate this location to the consumer profile. For a description of the field values, see [Consumer Profile Location table](consumer-profile-location-table.md).
 
 7.  Select **Update**.
 

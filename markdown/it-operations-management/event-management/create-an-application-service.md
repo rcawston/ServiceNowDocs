@@ -54,9 +54,9 @@ Application services do not support these CI types:
 
 ## What to do next
 
-For details on grouping application services, see [Group application services](../../service-mapping/task/organizing_services-into-groups.md).
+For details on grouping application services, see [Group application services](../service-mapping/organizing_services-into-groups.md).
 
-For details on controlling user access to application services, see [Control user access to application services](../../service-mapping/task/control-user-access-to-business-services.md).
+For details on controlling user access to application services, see [Control user access to application services](../service-mapping/control-user-access-to-business-services.md).
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](application-service-event-management.md)
 

@@ -38,15 +38,15 @@ Complete the following tasks to enable legal services on the Employee Center por
 
 1.  To customize the base system taxonomy, duplicate the taxonomy and then make the required changes in the cloned taxonomy.
 
-    For more information, see [Clone taxonomy for employee content](../../employee-center/task/clone-taxonomy-content.md).
+    For more information, see [Clone taxonomy for employee content](../employee-experience-foundation/clone-taxonomy-content.md).
 
 2.  Create intake forms and knowledge base articles for legal services and support.
 
-    For more information on creating a legal request intake form, see [intake forms for legal requests](../task/create-record-producer-legal-request.md); and for more information on creating a knowledge base article, see [knowledge base articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md).
+    For more information on creating a legal request intake form, see [intake forms for legal requests](../legal-request-management/create-record-producer-legal-request.md); and for more information on creating a knowledge base article, see [knowledge base articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md).
 
 3.  Associate the content with a topic in the taxonomy.
 
-    For more information, see [Associate connected content to a topic](../../employee-center/task/associate-content-to-topics.md).
+    For more information, see [Associate connected content to a topic](../employee-experience-foundation/associate-content-to-topics.md).
 
 
 ## Approvals for legal items through Employee Center
@@ -72,16 +72,16 @@ The following base system Task Configurations in the To-dos Configuration are av
 
 **Note:** These new Task Configurations, which are mapped to tables of Legal Service Delivery apps, replace the existing To-dos Widget Mapping settings for the approvals via Employee Center. To use the existing mappings for approvals, you must disable the Task Configurations.
 
-For more information about configurable approvals in the Employee Center and how to configure them, see [Approvals hub](../../employee-center/concept/approval-hub-intro.md).
+For more information about configurable approvals in the Employee Center and how to configure them, see [Approvals hub](../employee-experience-foundation/approval-hub-intro.md).
 
-**Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](../../lsd-sn-legal-contracts/concept/snclc-integrate-lsd-lp.md)
+**Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](snclc-integrate-lsd-lp.md)
 
 **Related topics**  
 
 
-[Setting up Employee Center](../../employee-center/concept/setup-emp-center.md)
+[Setting up Employee Center](../employee-experience-foundation/setup-emp-center.md)
 
-[Unified taxonomy for Employee Center](../../employee-center/concept/config-taxonomy.md)
+[Unified taxonomy for Employee Center](../employee-experience-foundation/config-taxonomy.md)
 
-[Create a topic](../../employee-center/task/create-topics-for-taxonomy.md)
+[Create a topic](../employee-experience-foundation/create-topics-for-taxonomy.md)
 

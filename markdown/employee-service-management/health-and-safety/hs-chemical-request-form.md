@@ -218,5 +218,5 @@ Attachment
 Any additional documents to be attached for the chemical request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Environmental Management reference](../concept/hs-reference-environmental-management.md)
+</table>**Parent Topic:**[Health and Safety Environmental Management reference](hs-reference-environmental-management.md)
 

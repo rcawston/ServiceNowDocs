@@ -34,5 +34,5 @@ Role required: sn\_prm.enterprise\_partner\_rel\_manager or sn\_prm.enterprise\_
 5.  Select **Save**.
 
 
-**Parent Topic:**[Partner Workspace](../concept/partner-workspace.md)
+**Parent Topic:**[Partner Workspace](partner-workspace.md)
 

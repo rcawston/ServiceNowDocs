@@ -21,7 +21,7 @@ Cloning is the easiest way to synchronize your instances. It’s essential to ha
 -   Cloning is used to test changes such as upgrades, new applications, and new capabilities.
 -   Cloning data comes from the most recent daily backup.
 
-A list of helpful terminology and definitions for clone is included here [Clone terminology](../reference/clone-terminology.md).
+A list of helpful terminology and definitions for clone is included here [Clone terminology](clone-terminology.md).
 
 ## Instance Clone workflow
 
@@ -59,7 +59,7 @@ A list of helpful terminology and definitions for clone is included here [Clone 
 |-------|-------|
 |Tidy up data with exclusions and preservers for specific clone scenarios.|[Definitions](clone-exclusions-preservers-cleanupscripts.md)|
 |Establish consistent clone outcomes with clone profiles and registered instances.|[Configurations](clone-configurations-tab.md)|
-|Copy data from a production instance to a non-production instance or to copy data between non-production instances.|[Request a clone](../task/t_StartAClone.md#)|
+|Copy data from a production instance to a non-production instance or to copy data between non-production instances.|[Request a clone](t_StartAClone.md#)|
 
 ## Instance Clone use cases
 

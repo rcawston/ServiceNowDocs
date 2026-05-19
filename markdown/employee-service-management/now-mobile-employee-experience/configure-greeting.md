@@ -42,5 +42,5 @@ Role required: admin
 
 When a user logs in to the Now Mobile app, they see your personalized greeting.
 
-**Parent Topic:**[Configuring Now Mobile](../concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](setup-mobile-employee.md)
 

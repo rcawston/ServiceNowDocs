@@ -36,7 +36,7 @@ sn\_wsd\_core.AUTO\_ASSIGN\_LOCATION
 Enables auto-assignment of workspaces when employees make workspace reservation requests.-   Type: true\|false
 -   Default value: false
 
- **Note:** Once this feature is enabled, the fields related to workplace locations such as **Area**, **Space preference**, and **Space** do not appear on the Workspace Reservation form. Enable this feature only if all employees have a designated workspace in their user profiles in the User Workplace Profile \[sn\_wsd\_core\_workplace\_profile\] table. For more information, see [Mapping employees to their designated workspaces](../../workplace-service-delivery/concept/mapping-employees-to-existing-work-locations-wsd.md).
+ **Note:** Once this feature is enabled, the fields related to workplace locations such as **Area**, **Space preference**, and **Space** do not appear on the Workspace Reservation form. Enable this feature only if all employees have a designated workspace in their user profiles in the User Workplace Profile \[sn\_wsd\_core\_workplace\_profile\] table. For more information, see [Mapping employees to their designated workspaces](../workplace-core/mapping-employees-to-existing-work-locations-wsd.md).
 
 </td></tr><tr><td>
 
@@ -193,5 +193,5 @@ Enables you to specify the maximum number of days in the future until when emplo
 -   Default value: 7
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Workplace Core](../task/install-workplace-safety-mgmt-hr.md)
+</table>**Parent Topic:**[Install Workplace Core](install-workplace-safety-mgmt-hr.md)
 

@@ -17,7 +17,7 @@ Create a user with the sn\_grc\_cim.admin role to perform the tasks that are rel
 
 ## Before you begin
 
-**Note:** Ensure that you have installed the GRC: integrations with third-party content application in your instance. For more information, see [GRC: integrations with third-party content](../concept/integrations-third-party-content.md).
+**Note:** Ensure that you have installed the GRC: integrations with third-party content application in your instance. For more information, see [GRC: integrations with third-party content](integrations-third-party-content.md).
 
 Role required: sn\_grc\_cim.admin, sn\_compliance.admin
 
@@ -31,8 +31,8 @@ Role required: sn\_grc\_cim.admin, sn\_compliance.admin
 
 2.  Navigate to the GRC: Policy and Compliance integrator application in an instance to execute the workflow.
 
-    For the next steps that you must do in the GRC: Policy and Compliance integrator application workflow, see [Workflow for GRC: Policy and Compliance integrator](../../grc-policy-compliance-integrator/concept/integrator-workflow.md).
+    For the next steps that you must do in the GRC: Policy and Compliance integrator application workflow, see [Workflow for GRC: Policy and Compliance integrator](../policy-and-compliance-management/integrator-workflow.md).
 
 
-**Parent Topic:**[GRC: integrations with third-party content](../concept/integrations-third-party-content.md)
+**Parent Topic:**[GRC: integrations with third-party content](integrations-third-party-content.md)
 

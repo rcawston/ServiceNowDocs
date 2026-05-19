@@ -76,5 +76,5 @@ To customize a Next Experience landing page for different audiences and use case
     3.  Select **Save**.
 
 
-**Parent Topic:**[Next Experience landing pages](../concept/next-experience-landing-pages.md)
+**Parent Topic:**[Next Experience landing pages](next-experience-landing-pages.md)
 

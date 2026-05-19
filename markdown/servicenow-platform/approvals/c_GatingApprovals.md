@@ -24,7 +24,7 @@ Generate gating approvals with:
 |Approval rules|Can apply to the service catalog as well as any other task table.|
 |Item-based approvals|Flag specific catalog items as requiring specific approvals. Any requests for these items automatically require these approvals.|
 
--   **[Set up a gating approval via an approval rule](../task/t_SetUpAGatingApprViaApprovalRule.md)**  
+-   **[Set up a gating approval via an approval rule](t_SetUpAGatingApprViaApprovalRule.md)**  
 You can set up a gating approval via an approval rule.
 -   **[Set up a gating approval based on the item being ordered](c_SetUpGatingApprBasedOnOrdItem.md)**  
 In addition to adding approvals via approval rules, you can also add approvals based on what kind of item is being ordered.
@@ -34,7 +34,7 @@ In addition to adding approvals via approval rules, you can also add approvals b
 **Related topics**  
 
 
-[Set up a gating approval via an approval rule](../task/t_SetUpAGatingApprViaApprovalRule.md)
+[Set up a gating approval via an approval rule](t_SetUpAGatingApprViaApprovalRule.md)
 
 [Set up a gating approval based on the item being ordered](c_SetUpGatingApprBasedOnOrdItem.md)
 

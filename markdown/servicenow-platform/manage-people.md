@@ -15,23 +15,23 @@ Use these applications to help streamline communications, manage work assignment
 
 <table id="table_oyp_mhr_r5b" class="nav-card"><tbody><tr><td>
 
-[Skills Management ![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Assess skills in individuals and teams.](../../../product/skills-management/reference/skills-management.md)
+[Skills Management ![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Assess skills in individuals and teams.](skills-management/skills-management.md)
 
 </td><td>
 
-[E-signature ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Manage signatures for documents or knowledge articles on any device.](../../../product/human-resources/concept/e-signature.md)
+[E-signature ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Manage signatures for documents or knowledge articles on any device.](e-signature/e-signature.md)
 
 </td><td>
 
-[Interaction Management ![](../../../reuse/icons/brand-icons/bus-handshake.svg) Centralize all communications on the platform for improved service call handling.](../../interaction/concept/interaction-management.md)
+[Interaction Management ![](../../../reuse/icons/brand-icons/bus-handshake.svg) Centralize all communications on the platform for improved service call handling.](interaction-management/interaction-management.md)
 
 </td></tr><tr><td>
 
-[Password Reset ![](../../../reuse/icons/brand-icons/bus-password-reset.svg) Provide secured password reset, user verification options, and more.](../../login/reference/password-reset-landing-page.md)
+[Password Reset ![](../../../reuse/icons/brand-icons/bus-password-reset.svg) Provide secured password reset, user verification options, and more.](password-reset/password-reset-landing-page.md)
 
 </td><td>
 
-[ServiceNow Voice ![](../../../reuse/icons/brand-icons/bus-headset.svg) Manage third-party call systems and improve the service call experience for users and agents.](../../../product/cloud-call-center/concept/cloud-call-center-overview.md)
+[ServiceNow Voice ![](../../../reuse/icons/brand-icons/bus-headset.svg) Manage third-party call systems and improve the service call experience for users and agents.](cloud-call-center-overview.md)
 
 </td><td>
 

@@ -47,7 +47,7 @@ Typing an utterance in the search bar opens a full-screen chat experience. Users
 
 </td><td>
 
-Admins must select the mobile search conﬁguration to be used. For more information, see [Display your chat assistant on a portal, channel, or mobile app](../task/display-assistant-portal-channel.md).
+Admins must select the mobile search conﬁguration to be used. For more information, see [Display your chat assistant on a portal, channel, or mobile app](display-assistant-portal-channel.md).
 
 </td></tr><tr><td>
 

@@ -17,7 +17,7 @@ Promote a legal request to a legal matter when the request needs additional inve
 
 ## Before you begin
 
-Ensure you have the Legal Matter Management app installed and the record producer type in the associated intake form is set to **Request and Matter**. For more information, see [Add an intake form to a practice area](../../legal-request-management/task/associate-categories-practice-area.md).
+Ensure you have the Legal Matter Management app installed and the record producer type in the associated intake form is set to **Request and Matter**. For more information, see [Add an intake form to a practice area](../legal-request-management/associate-categories-practice-area.md).
 
 Role required: sn\_lg\_ops.legal\_fulfiller
 

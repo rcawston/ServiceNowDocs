@@ -57,5 +57,5 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configuring Workplace Space Management](../concept/configure-space-management.md)
+**Parent Topic:**[Configuring Workplace Space Management](configure-space-management.md)
 

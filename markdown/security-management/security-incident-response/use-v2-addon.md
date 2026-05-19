@@ -48,5 +48,5 @@ Role required: sn\_sec\_splunk\_v2.api\_account\_access
 
 A Security Incident Response \(SIR\) record is created on the ServiceNow instance as per the mapping specified in the Manual event forwarding profile. For instructions on how to set up a Manual event forwarding profile, see [Create and name an event profile](splunk-event-ingest-create-profile.md)
 
-**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](../concept/splunk-event-ingest-integration-architecture.md)
+**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-integration-architecture.md)
 

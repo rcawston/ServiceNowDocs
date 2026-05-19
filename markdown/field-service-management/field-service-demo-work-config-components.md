@@ -13,7 +13,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 Several type of components like tables, script includes, and business rules are installed for Field Service Demo Work Configuration.
 
-Install the Field Service Demo Work Configuration for Break fix \(com.snc.fsm\_mri\_scanner\_breakfix\_work\_config\) plugin for a Field Service Work Configurations demo workflow. For more information see [Configuring Field Service Work Configurations](../concept/configuring-work-configs.md).
+Install the Field Service Demo Work Configuration for Break fix \(com.snc.fsm\_mri\_scanner\_breakfix\_work\_config\) plugin for a Field Service Work Configurations demo workflow. For more information see [Configuring Field Service Work Configurations](work-order-management/configuring-work-configs.md).
 
 ## Tables
 

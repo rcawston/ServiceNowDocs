@@ -20,5 +20,5 @@ Refer to the descriptions of the properties of the Dialog components. You can up
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Dialogs](../concept/dialogs.md)
+**Parent Topic:**[Dialogs](dialogs.md)
 

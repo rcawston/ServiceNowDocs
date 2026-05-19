@@ -33,7 +33,7 @@ The following tables can be configured for auditing​:
 -   Contained Role \[sys\_user\_role\_contains\]​
 -   Group Member \[sys\_user\_grmember\]​
 
-**Note:** To understand which fields can be configured for the tables, see [Supported and unsupported fields in Identity Access and Audit](../concept/allowed-fields-for-audit.md).
+**Note:** To understand which fields can be configured for the tables, see [Supported and unsupported fields in Identity Access and Audit](allowed-fields-for-audit.md).
 
 ## Procedure
 

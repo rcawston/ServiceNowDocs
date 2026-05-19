@@ -45,5 +45,5 @@ Search administrators can manually cancel external content connector crawls that
 
 The selected external content connector halts its crawl.
 
-**Parent Topic:**[Crawling content with External Content Connectors](../concept/using-ext-cont-connectors.md)
+**Parent Topic:**[Crawling content with External Content Connectors](using-ext-cont-connectors.md)
 

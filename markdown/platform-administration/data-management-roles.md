@@ -13,7 +13,7 @@ breadcrumb: [Reference, Data Management, Tables and data, Configure core feature
 
 Data Management includes the following roles.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[Data Management reference](data-management-reference.md)
 

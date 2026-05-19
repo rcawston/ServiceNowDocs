@@ -28,5 +28,5 @@ You can modify specific CSS variables to customize themes for Desktop Assistant.
 -   **[Resolve Desktop Assistant screen loading issue](resolve-loading-da-screen.md)**  
 
 
-**Parent Topic:**[Digital End-User Experience reference](../concept/dex-reference.md)
+**Parent Topic:**[Digital End-User Experience reference](dex-reference.md)
 

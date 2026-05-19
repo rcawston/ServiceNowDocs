@@ -216,5 +216,5 @@ If the state is set to Closed incomplete, it means that the move request could n
 
 ## What to do next
 
-To view and monitor move requests created by you on behalf of an employee or for yourself, see [View move requests](view-move-requests.md).
+To view and monitor move requests created by you on behalf of an employee or for yourself, see [View move requests](../view-move-requests.md).
 

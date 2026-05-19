@@ -17,7 +17,7 @@ Use the ServiceNow® Advanced Work Assignment \(AWA\) for Customer Service Manag
 
 The Advanced Work Assignment for CSM feature is available with the Customer Service plugin \(com.sn\_customerservice\).
 
-To use the shift-based assignment feature for customer service cases, you must enable the Workforce Optimization for Customer Service plugin \(com.snc.wfo.csm\) in addition to the Advanced Work Assignment plugin \(com.glide.awa\). For more information, see [Activate Workforce Optimization for Customer Service](../../workforce-optimization-for-customer-service-configurable/task/request-configurable-wfo-cs.md).
+To use the shift-based assignment feature for customer service cases, you must enable the Workforce Optimization for Customer Service plugin \(com.snc.wfo.csm\) in addition to the Advanced Work Assignment plugin \(com.glide.awa\). For more information, see [Activate Workforce Optimization for Customer Service](workforce-optimization-for-customer-service/request-configurable-wfo-cs.md).
 
 To use the chat feature with Advanced Work Assignment for CSM, you must also activate the Agent Chat plugin \(com.glide.interaction.awa\).
 

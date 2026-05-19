@@ -46,7 +46,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## What to do next
 
-Select **Begin recall process** to proceed with the recall process for the specified enterprise assets. For details, see [Completing a recall order for your enterprise assets](../concept/completing-recall-order-enterprise-assets.md).
+Select **Begin recall process** to proceed with the recall process for the specified enterprise assets. For details, see [Completing a recall order for your enterprise assets](completing-recall-order-enterprise-assets.md).
 
-**Parent Topic:**[Managing recalled enterprise assets](../concept/managing-recalled-enterprise-assets.md)
+**Parent Topic:**[Managing recalled enterprise assets](managing-recalled-enterprise-assets.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_skill\_builder.admin
 
 3.  In the **Prompt** window, create your prompt.
 
-    For guidance on creating prompts, see [Developing the prompt](../reference/developing-the-prompt.md).
+    For guidance on creating prompts, see [Developing the prompt](developing-the-prompt.md).
 
 4.  In the **Skill contents** sidebar, select the plus \(+\) icon next to **Skill Inputs**.
 
@@ -138,14 +138,14 @@ Default values that are used when the skill runs. You can override this at run t
 
 After you have created a prompt, you must test it. To learn more about testing your prompt, see [Test a prompt](test-prompt-template.md).
 
--   **[Add a tool](../concept/add-a-tool.md)**  
+-   **[Add a tool](add-a-tool.md)**  
 Add and configure tools in the Now Assist Skill Kit tool canvas to gather data and context before a prompt runs. Tools can be chained sequentially, run in parallel, or branched conditionally using decision nodes.
 -   **[Add a retriever](add-retriever.md)**  
 Add a retriever to your prompt to augment and add context to your prompts with AI search results.
 -   **[Add a web search tool](add-web-search.md)**  
 Add a web search tool to your skill to retrieve web content and include it as context in your prompt.
 
-**Parent Topic:**[Using Now Assist Skill Kit](../concept/using-now-assist-skill-kit.md)
+**Parent Topic:**[Using Now Assist Skill Kit](using-now-assist-skill-kit.md)
 
 **Related topics**  
 

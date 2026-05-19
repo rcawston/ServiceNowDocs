@@ -53,5 +53,5 @@ You can configure each property to check more or less frequently. Checking more 
 6.  Click **Submit**.
 
 
-**Parent Topic:**[User presence](../concept/c_UserPresence.md)
+**Parent Topic:**[User presence](c_UserPresence.md)
 

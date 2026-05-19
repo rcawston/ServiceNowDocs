@@ -123,7 +123,7 @@ Displays information manually entered in Work notes, and all dynamically updated
 5.  Click any of the following tabs to further update the security incident:
 
     -   [Related Records](add-rel-recs-to-si.md)
-    -   [Post Incident Review](../concept/c_PostIncidentReview.md)
+    -   [Post Incident Review](c_PostIncidentReview.md)
     -   [Closure Information](add-closure-info-to-si.md)
 6.  When you have completed your entries, click **Submit**.
 

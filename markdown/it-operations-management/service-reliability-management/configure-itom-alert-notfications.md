@@ -31,7 +31,7 @@ You can update those conditions as needed. For example, the ITOM Mobile Agent ap
 
 **Note:** To get push notifications, you must log in to ITOM Mobile Agent. If you log out, you only get email notifications.
 
-This procedure is for admins configuring alert push notifications and emails. To manage other notification features, see [Customizing other mobile settings for ITOM Mobile Agent](../reference/itom-mobile-other-customizations.md).
+This procedure is for admins configuring alert push notifications and emails. To manage other notification features, see [Customizing other mobile settings for ITOM Mobile Agent](itom-mobile-other-customizations.md).
 
 ## Procedure
 
@@ -52,5 +52,5 @@ This procedure is for admins configuring alert push notifications and emails. To
 
 ## What to do next
 
-To customize who receives emails about alerts, see [Customize ITOM Mobile Agent email recipients](customize-itom-email-recipients.md). You can also customize other notification features, such as setting custom notification tones and overriding the Do Not Disturb setting for critical issues. See [Customizing other mobile settings for ITOM Mobile Agent](../reference/itom-mobile-other-customizations.md) for more information.
+To customize who receives emails about alerts, see [Customize ITOM Mobile Agent email recipients](customize-itom-email-recipients.md). You can also customize other notification features, such as setting custom notification tones and overriding the Do Not Disturb setting for critical issues. See [Customizing other mobile settings for ITOM Mobile Agent](itom-mobile-other-customizations.md) for more information.
 

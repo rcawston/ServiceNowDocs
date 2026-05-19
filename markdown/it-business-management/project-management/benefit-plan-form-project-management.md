@@ -184,7 +184,7 @@ Entered benefit
 
 </td><td>
 
-Benefit incurred from the project or demand specified in terms of entered currency.If the selected currency is different from the functional currency, the corresponding [budget reference rate](../concept/c_BudgetReferenceRates.md) is used to calculate the **Total planned benefit** of the project.
+Benefit incurred from the project or demand specified in terms of entered currency.If the selected currency is different from the functional currency, the corresponding [budget reference rate](../ppm-collaboration/c_BudgetReferenceRates.md) is used to calculate the **Total planned benefit** of the project.
 
 </td></tr><tr><td>
 
@@ -200,7 +200,7 @@ Functional currency
 
 </td><td>
 
-Currency that is obtained from the [**glide.system.locale** property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency-properties.md). For upgraded customers, if the selected currency is different from the functional currency configured in the Financial Management application, the corresponding [budget reference rate](../concept/c_BudgetReferenceRates.md) is used to calculate the **Total planned benefit** of the project.
+Currency that is obtained from the [**glide.system.locale** property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency-properties.md). For upgraded customers, if the selected currency is different from the functional currency configured in the Financial Management application, the corresponding [budget reference rate](../ppm-collaboration/c_BudgetReferenceRates.md) is used to calculate the **Total planned benefit** of the project.
 
 </td></tr><tr><td>
 
@@ -238,5 +238,5 @@ Check box to indicate that the benefit is recurring for all the fiscal periods i
 </table>**Related topics**  
 
 
-[Create a monetary benefit plan for a project](../task/create-project-benefit-plan.md)
+[Create a monetary benefit plan for a project](create-project-benefit-plan.md)
 

@@ -104,5 +104,5 @@ unknown
 The driver does not support the status
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Notify with SMS](../concept/c_NotifySMS.md)
+</table>**Parent Topic:**[Using Notify with SMS](c_NotifySMS.md)
 

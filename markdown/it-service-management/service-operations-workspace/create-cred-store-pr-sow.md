@@ -132,5 +132,5 @@ Option to ensure that the users don’t reuse passwords. For example, you might 
     You must test the connection to a credential store after you configure a new credential store.
 
 
-**Parent Topic:**[Setting up Service Desk assisted Password Reset in Service Operations Workspace](../concept/setup-password-reset-sow.md)
+**Parent Topic:**[Setting up Service Desk assisted Password Reset in Service Operations Workspace](setup-password-reset-sow.md)
 

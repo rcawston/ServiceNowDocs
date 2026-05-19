@@ -106,5 +106,5 @@ Value of the specific Data port.This field appears when you select **Static** in
 </table>3.  Click **OK**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

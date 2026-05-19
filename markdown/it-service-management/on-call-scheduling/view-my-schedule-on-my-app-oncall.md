@@ -38,10 +38,10 @@ Role required: rota\_admin, itil, rota\_manager, or admin
 5.  Specify additional details such as how frequently to update the calendar.
 
 
-**Parent Topic:**[Viewing schedules and request time-off](../../user-administration/concept/viewing-schedules-and-escalation.md)
+**Parent Topic:**[Viewing schedules and request time-off](viewing-schedules-and-escalation.md)
 
 **Related topics**  
 
 
-[Assigning On-Call Scheduling roles](../concept/roles-assigning-oncall.md)
+[Assigning On-Call Scheduling roles](roles-assigning-oncall.md)
 

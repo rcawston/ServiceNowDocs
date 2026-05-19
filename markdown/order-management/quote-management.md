@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Details tab](../task/quote-management-details-tab.md)
+[Details tab](quote-management-details-tab.md)
 
 </td><td>
 
@@ -37,7 +37,7 @@ Add basic information for the quote.
 
 </td></tr><tr><td>
 
-[Catalog tab](../task/quote-management-catalog-tab.md)
+[Catalog tab](quote-management-catalog-tab.md)
 
 </td><td>
 
@@ -45,7 +45,7 @@ Search for and add products to your quote using the product configurator. Pricin
 
 </td></tr><tr><td>
 
-[Line Items tab](../task/quote-management-line-items-tab.md)
+[Line Items tab](quote-management-line-items-tab.md)
 
 </td><td>
 
@@ -53,7 +53,7 @@ Add different line items to a quote. In each quote line item, you can update pro
 
 </td></tr><tr><td>
 
-[Revisions tab](../task/quote-management-revisions-tab.md)
+[Revisions tab](quote-management-revisions-tab.md)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Create multiple versions of a quote.
 
 </td></tr><tr><td>
 
-[Customer Orders tab](../task/quote-management-customer-orders-tab.md)
+[Customer Orders tab](quote-management-customer-orders-tab.md)
 
 </td><td>
 
@@ -69,7 +69,7 @@ Turn your quote into a customer order.
 
 </td></tr><tr><td>
 
-[Pricing Adjustment tab](../task/quote-management-pricing-adjustments-tab.md)
+[Pricing Adjustment tab](quote-management-pricing-adjustments-tab.md)
 
 </td><td>
 
@@ -77,7 +77,7 @@ View and update pricing adjustments.
 
 </td></tr><tr><td>
 
-[Enable a sales agreement in a quote](../task/quote-create-sales-agreement.md)
+[Enable a sales agreement in a quote](quote-create-sales-agreement.md)
 
 </td><td>
 
@@ -85,7 +85,7 @@ When the sales agreement is enabled, the quote workflow changes and enables agen
 
 </td></tr><tr><td>
 
-[Create a quote PDF document](../task/quote-create-pdf-document.md)
+[Create a quote PDF document](quote-create-pdf-document.md)
 
 </td><td>
 
@@ -154,7 +154,7 @@ A cost book contains the unit costs for product offerings. Cost books provide yo
 -   Discount management: Apply discounts to quotes based on cost prices to incentivize bulk purchases or long-term commitments for flexible pricing strategies while maintaining profitability and competitive incentives to your customers.​
 -   Negotiation support: Use cost prices as a reference during negotiations with your customers or suppliers. It provides a transparent basis for discussions, helping you build trust and facilitating fair and mutually beneficial agreements.​
 
-To learn more about cost books and their configuration, see [Pricing Management](pricing-management.md), [Create and publish a cost book](../task/create-cost-books.md), [Create a cost book line](../task/create-cost-book-lines.md), and [Configuring Quote Management](configure-quote-management.md).
+To learn more about cost books and their configuration, see [Pricing Management](pricing-management.md), [Create and publish a cost book](create-cost-books.md), [Create a cost book line](create-cost-book-lines.md), and [Configuring Quote Management](configure-quote-management.md).
 
 ## Enable a sales agreement in Quote Management
 
@@ -179,7 +179,7 @@ Sales agents can create a PDF document for a quote that can be sent to customers
 -   Quote PDF document templates can be created that reflect customer branding and logos.
 -   Quotes PDF documents that can be sent to customers for review and approvals.
 
-See [Configure quote PDF documents](quote-management-configure-pdf-documents.md) and [Create a quote PDF document](../task/quote-create-pdf-document.md) for more information about creating PDF documents for quotes.
+See [Configure quote PDF documents](quote-management-configure-pdf-documents.md) and [Create a quote PDF document](quote-create-pdf-document.md) for more information about creating PDF documents for quotes.
 
 ## What to do next
 

@@ -25,7 +25,7 @@ Conversations in Virtual Agent are transferred to a live agent in several ways. 
 
     ![Virtual Agent chat window displaying, "An unrecoverable error has occurred. Please stand by while I connect you to a live agent."](../images/va-error-transfer.png)
 
-    **Note:** If you don't plan to use Agent Chat, be sure to deactivate it in the Agent Chat settings. For more information, see [Setting up Agent Chat](../../conversational-interfaces/task/ac-configure-agent-chat.md).
+    **Note:** If you don't plan to use Agent Chat, be sure to deactivate it in the Agent Chat settings. For more information, see [Setting up Agent Chat](../agent-chat/ac-configure-agent-chat.md).
 
 -   **Automatic transfer to a live agent that is triggered by a script in a topic**
 
@@ -61,7 +61,7 @@ Conversations in Virtual Agent are transferred to a live agent in several ways. 
 
 ## How Virtual Agent conversation transfers work
 
-For a user engaged in a Virtual Agent conversation, the switch to a live agent is a seamless transfer. When a transfer is triggered, either automatically or by a user manually, the conversation is automatically routed to the appropriate chat support interface, based on your [Agent Chat settings](../../conversational-interfaces/task/ac-configure-agent-chat.md). In Agent Chat settings, admins also define the general messages that users see during live agent transfers.
+For a user engaged in a Virtual Agent conversation, the switch to a live agent is a seamless transfer. When a transfer is triggered, either automatically or by a user manually, the conversation is automatically routed to the appropriate chat support interface, based on your [Agent Chat settings](../agent-chat/ac-configure-agent-chat.md). In Agent Chat settings, admins also define the general messages that users see during live agent transfers.
 
 If you're using Agent Workspace, the conversation is automatically routed and assigned to an available live agent. If you're using Connect Support, the conversation is routed to the chat support queue that you specify.
 
@@ -77,12 +77,12 @@ If you're using Agent Workspace, the conversation is automatically routed and as
 
     If you're using Connect Support, the virtual agent conversation is routed to the appropriate chat support queue. For the user, the conversation with the agent continues in the Virtual Agent client interface. In Connect Support, the agent accepts the queue with the transferred user to join the conversation and interact with the user.
 
-    In earlier releases, admins used the Chat Setup form to assign the default chat queues for Customer Service Management, HR Service Delivery, and IT Service Management or a global queue to which Virtual Agent conversations were automatically routed if default queues weren’t assigned. These queues, which admins defined in Connect Support, are stored in the Chat Queues \[chat\_queue\] table. If you're using Connect Support as the fulfiller interface and must change chat settings, see [Setting up Agent Chat](../../conversational-interfaces/task/ac-configure-agent-chat.md) for details.
+    In earlier releases, admins used the Chat Setup form to assign the default chat queues for Customer Service Management, HR Service Delivery, and IT Service Management or a global queue to which Virtual Agent conversations were automatically routed if default queues weren’t assigned. These queues, which admins defined in Connect Support, are stored in the Chat Queues \[chat\_queue\] table. If you're using Connect Support as the fulfiller interface and must change chat settings, see [Setting up Agent Chat](../agent-chat/ac-configure-agent-chat.md) for details.
 
 
 ## User sentiment
 
-When configured, user sentiment analysis is performed on Virtual Agent and live agent conversations. The user sentiment is stored in the Interaction Insights \[sys\_cs\_interaction\_insight\] table. For details, see [Interaction Insights table](../../conversational-interfaces/reference/ci-interaction-insights-table.md).
+When configured, user sentiment analysis is performed on Virtual Agent and live agent conversations. The user sentiment is stored in the Interaction Insights \[sys\_cs\_interaction\_insight\] table. For details, see [Interaction Insights table](../ci-interaction-insights-table.md).
 
 **Parent Topic:**[Using Virtual Agent with a live agent](using-va-agent-chat.md)
 

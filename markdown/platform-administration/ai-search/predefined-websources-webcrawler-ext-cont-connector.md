@@ -57,7 +57,7 @@ List of predefined public web sources that search administrators can retrieve se
 
 **Note:** The Webcrawler external content connector includes a dedicated search source for each predefined web source. Each dedicated search source includes content from the specified predefined web source that's stored in the connector's indexed source. Use these search sources to access searchable content and metadata retrieved from predefined web sources. As an example, searchable content and metadata retrieved from the Google Drive predefined web source is accessible in a search source named **Google Drive**.
 
-For details on creating and configuring Webcrawler external content connectors, see [Create a Webcrawler external content connector](../task/create-ext-cont-connector-webcrawler.md) and [Configure crawl settings for a Webcrawler external content connector](../task/configure-crawl-settings-webcrawler-external-content-connector.md).
+For details on creating and configuring Webcrawler external content connectors, see [Create a Webcrawler external content connector](create-ext-cont-connector-webcrawler.md) and [Configure crawl settings for a Webcrawler external content connector](configure-crawl-settings-webcrawler-external-content-connector.md).
 
-**Parent Topic:**[Webcrawler external content connector](../concept/webcrawler-external-content-connector.md)
+**Parent Topic:**[Webcrawler external content connector](webcrawler-external-content-connector.md)
 

@@ -169,5 +169,5 @@ The dashboard includes the following visualizations for goals:
 |Planned Cost Distribution|Pie chart![Pie chart](../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned cost of projects by goals.|
 |Planned Benefit Distribution|Pie chart![Pie chart](../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned benefit of projects by goals.|
 
-**Parent Topic:**[Strategic Spend Tracking for PPM](../../../product/itbm-business-outcomes/concept/ppm-strategic-spend-tracking-overview.md)
+**Parent Topic:**[Strategic Spend Tracking for PPM](ppm-strategic-spend-tracking-overview.md)
 

@@ -19,7 +19,7 @@ Role required: sn\_apm.apm\_analyst
 
 ## About this task
 
-A scheduled job **Populate TRM technical debts in the EA Workspace** runs and creates an entry in the TRM Technical Debt \[sn\_apm\_trm\_standards\_technical\_debt\] table for EA Workspace. The table shows a reference to the software in any business application that is not aligned with the TRM software phases. The table shows a reference to the software in any business application that either isn’t defined in TRM or has TRM product lifecycles that restrict the usage of the software. To know how the technical debts are calculated, see [TRM Technical Debt calculation in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-trm-technical-debt-calc.md).
+A scheduled job **Populate TRM technical debts in the EA Workspace** runs and creates an entry in the TRM Technical Debt \[sn\_apm\_trm\_standards\_technical\_debt\] table for EA Workspace. The table shows a reference to the software in any business application that is not aligned with the TRM software phases. The table shows a reference to the software in any business application that either isn’t defined in TRM or has TRM product lifecycles that restrict the usage of the software. To know how the technical debts are calculated, see [TRM Technical Debt calculation in Enterprise Architecture Workspace](eaw-trm-technical-debt-calc.md).
 
 **Note:** The **Populate TRM technical debts in the EA Workspace** scheduled job is available only when the Software Asset Management \(SAM\) Foundation or Software Asset Management \(SAM\) Professional plugin is installed.
 
@@ -33,14 +33,14 @@ A scheduled job **Populate TRM technical debts in the EA Workspace** runs and cr
 
 4.  View the TRM technical debts.
 
-    For field information, see [TRM technical debt form](../../reference/eaw-reference/eaw-trm-technical-debt-form.md).
+    For field information, see [TRM technical debt form](eaw-trm-technical-debt-form.md).
 
 
 ## Result
 
 Review the list of TRM products and associated business applications details. You can also view the reason for the technical debt.
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 
@@ -65,7 +65,7 @@ Review the list of TRM products and associated business applications details. Yo
 
 [Add a TRM product lifecycle](eaw-create-trm-prod-lifecycle-req.md)
 
-[Manage the Technology Reference Model in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-managing-the-technology-portfolio.md)
+[Manage the Technology Reference Model in Enterprise Architecture Workspace](eaw-managing-the-technology-portfolio.md)
 
 [View or update your TRM requests](eaw-view-update-trm-requests.md)
 

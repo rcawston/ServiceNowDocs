@@ -17,7 +17,7 @@ Select a question by name from the choice list to display the results in a pie c
 
 ## Pie chart
 
-The pie chart shows question results for these [data types](../concept/c_QuizDesigner.md):
+The pie chart shows question results for these [data types](c_QuizDesigner.md):
 
 -   Checkbox
 -   Choice
@@ -26,7 +26,7 @@ The pie chart shows question results for these [data types](../concept/c_QuizDes
 -   Template
 -   Yes/No
 
-**Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the [Quiz designer](../concept/c_QuizDesigner.md)
+**Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the [Quiz designer](c_QuizDesigner.md)
 
 ![](../images/QuizScorecardQuestionPie.png "Quiz scorecard question results - pie chart")
 
@@ -38,5 +38,5 @@ Percentage
 
 By default, all results for percentage questions use a report range of 20% segments. To configure a report range, navigate to **Reports** &gt; **Administration** &gt; **Report Ranges**.
 
-**Parent Topic:**[Quiz scorecards](../concept/c_QuizScorecards.md)
+**Parent Topic:**[Quiz scorecards](c_QuizScorecards.md)
 

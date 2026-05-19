@@ -40,7 +40,7 @@ You can request exceptions for remediation tasks \(VUL, AVUL, CVUL, or CRG\) and
 
 Starting with version 18.0, you can request exceptions for application vulnerability items and container vulnerability items.
 
-For more information about requesting exceptions in the classic environment, see [Request an exception for a remediation task](raise-exception-vg.md).
+For more information about requesting exceptions in the classic environment, see [Request an exception for a remediation task](../vulnerability-response/raise-exception-vg.md).
 
 ## Procedure
 

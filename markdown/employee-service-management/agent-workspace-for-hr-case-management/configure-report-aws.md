@@ -49,7 +49,7 @@ Role required: sn\_hr\_agent\_ws.admin and sn\_hr\_core.basic
 -   **[Landing page configuration example](landing-page-example.md)**  
 Learn how to configure a landing page through an example configuration process.
 
-**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](../concept/uib-aws.md)
+**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](uib-aws.md)
 
 **Related topics**  
 

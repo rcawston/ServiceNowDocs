@@ -65,13 +65,13 @@ Sourcing and Procurement Operations \(SPO\) supports the following integrations:
 
     With this application, provide your customers with the ability to fetch entity data like legal entity, cost center, material, supplier, and so on, from SAP ECC and SAP HANA into ServiceNow.
 
-    For more information on this, see [Source-to-Pay integration with SAP](../../source-to-pay-integrations/concept/source-to-pay-sap-integration.md).
+    For more information on this, see [Source-to-Pay integration with SAP](../source-to-pay-integration-framework/source-to-pay-sap-integration.md).
 
 -   **Sourcing and Procurement Operations Integration with SAP**
 
     With this application, provide your customers with the ability to send purchase orders, receipts, and returns created in Sourcing and Procurement Operations to SAP ECC and SAP S4 HANA.
 
-    For more information on this, see [Source-to-Pay integration with SAP](../../source-to-pay-integrations/concept/source-to-pay-sap-integration.md).
+    For more information on this, see [Source-to-Pay integration with SAP](../source-to-pay-integration-framework/source-to-pay-sap-integration.md).
 
 -   **Procurement for Field Service Management**
 
@@ -98,7 +98,7 @@ Identify inefficiencies in your customer business process, understand their busi
 The Procurement for Field Service Management plugin \(sn\_fsm\_psm\_mobile\) provides an integration between the Field Service Management and Sourcing and Procurement Operations applications.
 -   **[Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)**  
 The Source-to-Pay Operations with Contract Management Pro plugin \(sn\_spend\_clm\) provides an integration between the Contract Management Pro and Sourcing and Procurement Operations applications.
--   **[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)**  
+-   **[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)**  
 Sourcing and Procurement Operations supports multi-ERP integration that enables you to use different ERP systems for different regions or lines of business, as required.
 -   **[SpendInt APIs](spendint-api.md)**  
 SpendInt APIs are inbound REST APIs that enable external procurement systems to send catalog, pricing, order, shipment, and invoice data into ServiceNow Sourcing and Procurement Operations, synchronizing structured procurement data from third-party systems.

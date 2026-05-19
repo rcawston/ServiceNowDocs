@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Define Jeopardy-enabled fulfillment workflows](../task/define-jm-enabled-fulfillment-flows.md)
+[Define Jeopardy-enabled fulfillment workflows](define-jm-enabled-fulfillment-flows.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Define subflows for product and service specifications using the following Jeoap
 
 </td></tr><tr><td>
 
-[Configure the Order Jeopardy Enablement Policy](../task/enable-jeopardy-management.md)
+[Configure the Order Jeopardy Enablement Policy](enable-jeopardy-management.md)
 
 </td><td>
 

@@ -17,7 +17,7 @@ Add a standard catalog item to your application in App Engine Studio \(AES\) so 
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -162,8 +162,8 @@ Review and submit the standard catalog item.
 
 For the standard catalog item you want to edit, select the menu icon \(![Menu icon](../image/menu-icon-purple.png)\) and select **Edit**.
 
--   **[Sample standard catalog item](../concept/standard-catalog-item-examples.md)**  
+-   **[Sample standard catalog item](standard-catalog-item-examples.md)**  
 A standard catalog item displays a form that users can fill in to create requests, such as a form to request an item or service. Standard catalog items make use of the Request table and produce a request record. In addition, generated request items are linked with a workflow, a catalog task, and any related approvals. Using standard catalog items, users can add multiple items to a cart and generate a request for each requested item. Use a catalog item when you want the service catalog form to generate a request, complete with a workflow, approvals, tasks, etc.
 
-**Parent Topic:**[Add an application experience](../concept/add-experience.md)
+**Parent Topic:**[Add an application experience](add-experience.md)
 

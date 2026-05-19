@@ -127,5 +127,5 @@ Line![Line icon](../../performance-analytics/image/line-icon.png)
 Indicates the number of people fully vaccinated. The rate is determined by the number of users in your organization with their vaccination profile COVID-19 completed status marked as true.**Note:** A historical data collection job, **Generate vaccine history records**, runs daily to ensure that the report chart is up-to-date.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Vaccination Status](../../../product/vaccination-status/concept/vaccination-status.md)
+</table>**Parent Topic:**[Vaccination Status](vaccination-status.md)
 

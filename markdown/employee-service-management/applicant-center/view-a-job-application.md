@@ -17,7 +17,7 @@ Open a job application and see the details.
 
 Open an active job application to view the details. The overview section shows you state, recruiter, location, and work persona.
 
-See the progression of the application along the hiring process on the stepper widget. For more information on the states visible, see [Application states for the applicant](../reference/application-state-applicant.md).
+See the progression of the application along the hiring process on the stepper widget. For more information on the states visible, see [Application states for the applicant](application-state-applicant.md).
 
 You can also see the following on the page:
 

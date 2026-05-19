@@ -40,8 +40,8 @@ Developers can extend the badge scanning framework to trigger actions in other a
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with Badge Reader Integration](../reference/installed-with-badge-read-integ.md)**  
+-   **[Installed with Badge Reader Integration](installed-with-badge-read-integ.md)**  
 Several types of components are installed with activation of the Badge Reader Integration plugin, including tables and user roles.
 
-**Parent Topic:**[Badge Reader Integration for Walk-up Experience](../concept/badge-scan-walkup-onsite.md)
+**Parent Topic:**[Badge Reader Integration for Walk-up Experience](badge-scan-walkup-onsite.md)
 

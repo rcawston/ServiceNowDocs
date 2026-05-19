@@ -38,5 +38,5 @@ The user's name, with a link to that user's feed, is inserted into the message. 
     **Note:** My Feed displays @mentions of you and the teams you're a member of. Profile feeds for another user display only @mentions of that user.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](c_PostContentInLiveFeed.md)
 

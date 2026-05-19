@@ -17,7 +17,7 @@ Test a translated Virtual Agent topic and the localized NLU model to ensure that
 
 ## Before you begin
 
-**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](../reference/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](vad-prev-topics-page.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -37,7 +37,7 @@ Role required: virtual\_agent\_admin or admin
 
 7.  On the test window, run the conversation and review the results in the test tabs.
 
-    For more information about using the chat test window, see [Testing NLU/Keyword topics](../reference/va-designer-testing.md).
+    For more information about using the chat test window, see [Testing NLU/Keyword topics](va-designer-testing.md).
 
     The following image illustrates how you can test a French translation.
 

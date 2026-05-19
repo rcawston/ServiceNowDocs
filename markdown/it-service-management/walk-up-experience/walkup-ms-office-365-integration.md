@@ -23,7 +23,7 @@ This feature is only available when Microsoft Office 365 Outlook is the hosted c
     **Note:** These prerequisites are assumed already in place at your business.
 
 
--   **[Set up Microsoft Office 365 integration for Walk-up Experience](../task/setup-walkup-msoffice365-cal-integ.md)**  
+-   **[Set up Microsoft Office 365 integration for Walk-up Experience](setup-walkup-msoffice365-cal-integ.md)**  
 Enable Walk-up Experience Microsoft Office 365 calendar integration. When requesters make an appointment, modify it, or cancel it, the Outlook calendar is sent invites to an appointment and any updates.
 
 **Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)

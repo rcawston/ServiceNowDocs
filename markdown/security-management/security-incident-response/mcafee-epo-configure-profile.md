@@ -47,7 +47,7 @@ Alternate configuration item \(CI\) trigger field. Default is cleared. When this
 
 Select this check box if you believe the CI field will not be populated upon incident creation, but CI information will be populated in another field on the security incident. When this option is enabled, the Alternate CI trigger field choice list is displayed. Choose an alternate field from the choice list to check for your CI search criteria.
 
-For more information on the alternate CI trigger field, see [Defining triggering conditions with a Configuration item \(CI\) field](../concept/mcafee-epo-alternate-ci.md).
+For more information on the alternate CI trigger field, see [Defining triggering conditions with a Configuration item \(CI\) field](mcafee-epo-alternate-ci.md).
 
 </td></tr><tr><td id="d190472e129">
 
@@ -111,5 +111,5 @@ When the check box is cleared, and this option is disabled, no approval requests
     You have successfully configured the profile so it is triggered automatically upon incident creation, and an alternate field is used to populate matching CI results.
 
 
-**Parent Topic:**[Configure settings](../concept/mcafee-epo-configuring-profile.md)
+**Parent Topic:**[Configure settings](mcafee-epo-configuring-profile.md)
 

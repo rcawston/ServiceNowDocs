@@ -35,9 +35,9 @@ The non-monetary benefit plan breakdown records are automatically created when y
 
 5.  On the form, fill in the fields.
 
-    For more information, see [Non-monetary benefit plans form](../reference/non-monetary-benefit-plans-form.md).
+    For more information, see [Non-monetary benefit plans form](non-monetary-benefit-plans-form.md).
 
-    **Note:** When you move the project or the milestone date, the associated benefit plans also change accordingly based on whether the benefit plan is tied to the project start date, end date, or one of the project milestones. The [project property](../reference/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan, Cost Plan and Benefit Plan Start Date with Demand or Project Start Date Change** controls the behavior for project date changes.
+    **Note:** When you move the project or the milestone date, the associated benefit plans also change accordingly based on whether the benefit plan is tied to the project start date, end date, or one of the project milestones. The [project property](r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan, Cost Plan and Benefit Plan Start Date with Demand or Project Start Date Change** controls the behavior for project date changes.
 
 6.  Select **Submit**.
 
@@ -69,7 +69,7 @@ Update a non-monetary benefit plan breakdown record that specifies the estimated
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -91,7 +91,7 @@ Update a non-monetary benefit plan breakdown record that specifies the estimated
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 

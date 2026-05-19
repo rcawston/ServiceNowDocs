@@ -50,9 +50,9 @@ Using the Space optimization module you can create scenarios for a single buildi
     **Note:** Ensure that you have installed Indoor Mapping to visualize and reserve spaces using floor maps.
 
 
-**Parent Topic:**[Exploring Workplace Space Management](../../workplace-space-management/concept/explore_wsm.md)
+**Parent Topic:**[Exploring Workplace Space Management](explore_wsm.md)
 
-**Parent Topic:**[Explore Workplace Central](workplace-central.md)
+**Parent Topic:**[Explore Workplace Central](../workplace-central/workplace-central.md)
 
 **Related topics**  
 
@@ -61,25 +61,25 @@ Using the Space optimization module you can create scenarios for a single buildi
 
 [Schedule Planning](schedule-planning.md)
 
-[Allocation - types, setting, and impact](../../workplace-space-management/reference/setting-an-allocation-and-its-impact.md)
+[Allocation - types, setting, and impact](setting-an-allocation-and-its-impact.md)
 
-[Lists module](wsd-lists-module.md)
+[Lists module](../workplace-central/wsd-lists-module.md)
 
-[Workplace Analytics](workplace-analytics.md)
+[Workplace Analytics](../workplace-central/workplace-analytics.md)
 
-[Space Planning](space-planning.md)
+[Space Planning](../workplace-central/space-planning.md)
 
 [Space Optimization](space-optimization.md)
 
 [Schedule Planning](schedule-planning.md)
 
-[Space assistance](space-assistance.md)
+[Space assistance](../workplace-central/space-assistance.md)
 
-[Event Planner](event-planner.md)
+[Event Planner](../workplace-central/event-planner.md)
 
-[Move Management](move-mgmt.md)
+[Move Management](../workplace-central/move-mgmt.md)
 
-[Case management](case-management-workspace.md)
+[Case management](../workplace-central/case-management-workspace.md)
 
-[Kiosk Indoor Mapping](kiosk-indoor-mapping.md)
+[Kiosk Indoor Mapping](../workplace-central/kiosk-indoor-mapping.md)
 

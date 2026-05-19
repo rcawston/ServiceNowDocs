@@ -37,7 +37,7 @@ Upon installing the Digital resilience third-party registers, the **Digital resi
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Create New Third party engagement form](../reference/create-new-tp-engmt-form.md).
+    For more information, see [Create New Third party engagement form](create-new-tp-engmt-form.md).
 
 4.  Select **Save**
 
@@ -54,8 +54,8 @@ Upon installing the Digital resilience third-party registers, the **Digital resi
 
 -   **[Add Digital resilience information to third-party engagements](tp-eng-add-digi-resi-info.md)**  
 Add Digital resilience information to third-party engagements.
--   **[Create New Third party engagement form](../reference/create-new-tp-engmt-form.md)**  
+-   **[Create New Third party engagement form](create-new-tp-engmt-form.md)**  
 On the Create New Third-party engagement form, fill in the fields.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)
 

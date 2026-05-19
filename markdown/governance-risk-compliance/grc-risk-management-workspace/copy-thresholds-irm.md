@@ -44,5 +44,5 @@ The system validates the copied threshold configuration. If any validation error
     A new threshold is created for the metric with the configuration from the original threshold. You can now modify either threshold independently.
 
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](configuring-irm-metrics.md)
 

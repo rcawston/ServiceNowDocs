@@ -47,7 +47,7 @@ You can configure the More menu to display menu items by installing their respec
 
 6.  On the form, fill in the fields.
 
-    For more information about the form fields and descriptions, see [Menu Item form](../reference/menu-item-form.md).
+    For more information about the form fields and descriptions, see [Menu Item form](menu-item-form.md).
 
 7.  Click **Submit**.
 

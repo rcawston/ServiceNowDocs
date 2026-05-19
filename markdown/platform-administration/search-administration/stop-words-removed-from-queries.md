@@ -26,13 +26,13 @@ By default, the system maintains two types of stop words.
 
 By default, the system has stops words for common English words. Search administrators typically create stop words from search terms that produce too many search results such as articles, conjunctions, personal pronouns, and prepositions.
 
--   **[Configure a global stop word](../task/t_ConfigureAGlobalStopWord.md)**  
+-   **[Configure a global stop word](t_ConfigureAGlobalStopWord.md)**  
 Configure stop words that shouldn't be indexed by the search.
--   **[Configure a table-specific stop word](../task/t_ConfigureATableSpecificStopWord.md)**  
+-   **[Configure a table-specific stop word](t_ConfigureATableSpecificStopWord.md)**  
 You can configure stop words for a specific table.
--   **[Enable automatic stop words for a table](../task/t_ConfigureAnAutomaticStopWord.md)**  
+-   **[Enable automatic stop words for a table](t_ConfigureAnAutomaticStopWord.md)**  
 The system can identify and generate stop words when a search term exceeds an occurrence threshold.
--   **[Disable a stop word in Zing](../task/disable-stop-word-zing.md)**  
+-   **[Disable a stop word in Zing](disable-stop-word-zing.md)**  
 Configure Zing to return results for text search terms that match a stop word's stemmed form.
 
 **Parent Topic:**[Zing text indexing and search engine](c_ZingTextSearch.md)
@@ -40,7 +40,7 @@ Configure Zing to return results for text search terms that match a stop word's 
 **Related topics**  
 
 
-[Features of Zing text indexing and search engine](../reference/features-zing.md)
+[Features of Zing text indexing and search engine](features-zing.md)
 
 [Available search options](c_IntroductionToSearching.md)
 
@@ -62,5 +62,5 @@ Configure Zing to return results for text search terms that match a stop word's 
 
 [Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
 
-[Installed with Zing](../reference/installed-with-zing.md)
+[Installed with Zing](installed-with-zing.md)
 

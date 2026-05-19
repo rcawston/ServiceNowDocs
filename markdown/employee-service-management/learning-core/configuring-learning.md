@@ -19,10 +19,10 @@ Configure Learning by setting up the following dependencies.
 
 Dependent plugins and apps for Learning:
 
--   [Manager Hub](manager-hub-overview.md)
--   [Skills Foundation](../../skills-intelligence/concept/skills-intelligence.md)
+-   [Manager Hub](../hr-service-delivery/manager-hub-overview.md)
+-   [Skills Foundation](../talent-development-core/skills-intelligence.md)
 
-    When the Skills Foundation property **sn\_skills\_int.enable\_skills** is set to true, the use of Skills Foundation is enabled for all Learning. See [Configuring Skills Foundation](../../skills-intelligence/concept/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
+    When the Skills Foundation property **sn\_skills\_int.enable\_skills** is set to true, the use of Skills Foundation is enabled for all Learning. See [Configuring Skills Foundation](../talent-development-core/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
 
 
 Role required: admin

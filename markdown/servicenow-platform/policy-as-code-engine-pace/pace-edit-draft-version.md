@@ -66,7 +66,7 @@ In the Define Variables section, select Config Parameters. You can:-   Click **N
     |------|-----------|
     |**Save the version**|Click **Save**. The policy version is saved and the version page is refreshed.|
     |**Publish the version**|Click **Publish Policy**. In the displayed confirmation message, click **Publish**. The policy version becomes the Current version and is used the next time the policy is invoked.|
-    |**Test your updates**|Click the **Test Playground** tab. The Test Playground page is displayed, where you can update the policy script and test your changes. For further information, see [Use the Test Playground for PaCE policies](../concept/pace-use-test-playground.md).|
+    |**Test your updates**|Click the **Test Playground** tab. The Test Playground page is displayed, where you can update the policy script and test your changes. For further information, see [Use the Test Playground for PaCE policies](pace-use-test-playground.md).|
     |**Delete the version**|Click **Delete**. Only versions that have never been used can be deleted.|
     |**Review execution activity**|Click the **Executions** tab to review the execution activity for this version. See [Review executed policy activity](pace-review-executed-policies.md) for details.|
 

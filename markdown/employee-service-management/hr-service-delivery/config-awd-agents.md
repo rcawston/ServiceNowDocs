@@ -17,7 +17,7 @@ Configure HCM AI agents to enable employees to place requests to the Workday sys
 
 ## Before you begin
 
-View [Subflow-agent mapping for HR Service Delivery Advanced Integration with Workday](../reference/awd-agent-mapping.md).
+View [Subflow-agent mapping for HR Service Delivery Advanced Integration with Workday](awd-agent-mapping.md).
 
 Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin, and sn\_hr\_core.admin
 
@@ -25,7 +25,7 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 1.  Install the Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\_gen\_ai\).
 
-    For more information, see [Configure Now Assist for HR Service Delivery \(HRSD\)](configure-now-assist-hr.md).
+    For more information, see [Configure Now Assist for HR Service Delivery \(HRSD\)](../now-assist-for-hrsd/configure-now-assist-hr.md).
 
 2.  Activate the \[Enterprise Service Management Integrations Framework\] application from the ServiceNow® Store.
 

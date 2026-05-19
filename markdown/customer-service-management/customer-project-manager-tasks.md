@@ -112,7 +112,7 @@ Assign project tasks to internal users, customer contacts, or customer partner c
 
 </td><td>
 
-See [Assign a project task](../task/csm-ppm-assign-project-task.md) .
+See [Assign a project task](csm-ppm-assign-project-task.md) .
 
 </td></tr><tr><td>
 
@@ -141,8 +141,8 @@ Create project change requests and project issues for cases that have been creat
 
 </td><td>
 
-See the following tasks:-   [Create a project issue for a case](../task/csm-ppm-create-project-issue.md)
--   [Create a project change request for a case](../task/csm-ppm-create-project-change.md)
+See the following tasks:-   [Create a project issue for a case](csm-ppm-create-project-issue.md)
+-   [Create a project change request for a case](csm-ppm-create-project-change.md)
 
 </td></tr><tr><td>
 

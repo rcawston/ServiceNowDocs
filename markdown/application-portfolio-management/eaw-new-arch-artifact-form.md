@@ -63,5 +63,5 @@ Option to provide access to share documents with other users and groups. You can
 **Related topics**  
 
 
-[Associate an Architectural Artifact to a TRM product](../../task/eaw-task/eaw-assoicate-artifact-trm-prod.md)
+[Associate an Architectural Artifact to a TRM product](eaw-assoicate-artifact-trm-prod.md)
 

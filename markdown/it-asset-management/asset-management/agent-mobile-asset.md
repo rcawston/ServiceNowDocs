@@ -15,7 +15,7 @@ breadcrumb: [Mobile app for Hardware Asset Management, Using Asset Management, A
 
 Use the ServiceNow Agent app to create assets, look up assets, and receive assets from a purchase order.
 
-**Parent Topic:**[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+**Parent Topic:**[Mobile app for Hardware Asset Management](mobile-my-asset.md)
 
 **Related topics**  
 
@@ -139,7 +139,7 @@ On the app, you can use the same functionalities when you are offline. For more 
 
 5.  Enter the vendor details and the scheduled date by using your Hardware Asset Management instance.
 
-    See [Create a disposal order](../../hardware-asset-management/task/create-disposal-order.md).
+    See [Create a disposal order](../hardware-asset-management/create-disposal-order.md).
 
     After you enter the vendor details and close the Schedule Pickup task from your Hardware Asset Management instance, the **Departure** tab shows the list of departure tasks to process.
 

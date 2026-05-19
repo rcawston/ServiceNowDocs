@@ -26,13 +26,13 @@ You can view all the tasks that are assigned to you if you login as a user with 
 **Related topics**  
 
 
-[Report a GRC issue from Employee Center](../task/report-grc-issue-employee-center.md)
+[Report a GRC issue from Employee Center](report-grc-issue-employee-center.md)
 
-[Create a policy exception from Employee Center](../task/create-policy-exception-employee-center.md)
+[Create a policy exception from Employee Center](create-policy-exception-employee-center.md)
 
-[Complete control assessments from the Employee Center portal](../task/grc-assessments-employee-center.md)
+[Complete control assessments from the Employee Center portal](grc-assessments-employee-center.md)
 
 [Policy knowledge base and quick links in the Employee Center portal](policies-topic-emp-center.md)
 
-[Group similar assessments in Employee Center](../task/group-attestations-ec-pol-comp.md)
+[Group similar assessments in Employee Center](group-attestations-ec-pol-comp.md)
 

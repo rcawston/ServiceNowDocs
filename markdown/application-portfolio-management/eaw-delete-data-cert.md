@@ -38,7 +38,7 @@ Role required: sn\_cmdb\_admin + sn\_apm.apm\_analyst
 4.  Select **Delete**.
 
 
-**Parent Topic:**[Working with data certification](../../concept/eaw-concept/eaw-work-with-data-cert.md)
+**Parent Topic:**[Working with data certification](eaw-work-with-data-cert.md)
 
 **Related topics**  
 

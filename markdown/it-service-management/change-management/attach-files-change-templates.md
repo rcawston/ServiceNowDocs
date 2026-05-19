@@ -38,7 +38,7 @@ Role required: itil, admin
 
 Any attachment associated with a standard change proposal gets copied to the standard change template that is created when the proposal is approved. When that template is used to create a standard change, any attachment associated to it is also copied to those standard change requests.
 
-**Parent Topic:**[Standard change catalog](../concept/c_StandardChangeCatalogPlugin.md)
+**Parent Topic:**[Standard change catalog](c_StandardChangeCatalogPlugin.md)
 
 **Related topics**  
 

@@ -13,7 +13,7 @@ breadcrumb: [Attended Robot, Workflow Data Fabric]
 
 You can use the Attended Robot to execute the attended automations.
 
--   **[Run an automation using Attended Robot](../task/run-rda-robot.md)**  
+-   **[Run an automation using Attended Robot](run-rda-robot.md)**  
 Run an attended robot to execute the attended bot process \(attended automations\).
 
 **Parent Topic:**[Attended Robot](rda-runtime-landing-page.md)

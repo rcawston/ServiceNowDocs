@@ -21,9 +21,9 @@ Alternatively, you can use a base policy as a starting point and include conditi
 
 For your custom policies, you can include conditions for metadata such as OS, OS version, and FQDN, for example to help you monitor assets with older software. Note that these properties are common CMDB properties populated by various Service Graph Connectors for any given asset.
 
-See [Policies included with the Security Posture Control application](../concept/spc-polices-included.md) for more information about top-level Asset Types and their relationships in the policy condition builder for you policies.
+See [Policies included with the Security Posture Control application](spc-polices-included.md) for more information about top-level Asset Types and their relationships in the policy condition builder for you policies.
 
-For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](../concept/spc-policy-examples.md).
+For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](spc-policy-examples.md).
 
 See [Create and activate custom policies for Security Posture Control](spc-create-policy.md) for more information about the steps required to create a policy.
 
@@ -88,7 +88,7 @@ For Hardware asset types, you can use the Connection ‘Has model info’ with t
 
 Hardware Asset types also permits you to search for all assets reported by a Source, Qualys, for example, but that are not reported by ServiceNow ITOM Discovery.
 
-See [Policies for Security Posture Control](../concept/spc-policies-overview.md) for more information about the Security Posture Control policy schema.
+See [Policies for Security Posture Control](spc-policies-overview.md) for more information about the Security Posture Control policy schema.
 
 ## Exceptions with the Governance, Risk, and Compliance \(GRC\) application
 

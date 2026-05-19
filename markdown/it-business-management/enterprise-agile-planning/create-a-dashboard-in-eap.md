@@ -36,7 +36,7 @@ Role required: sn\_apw\_advanced.eap\_admin
 
     For more information, see step 6 through 10 in [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md).
 
-    For information about the default indicators, see [Enterprise Agile Planning Indicators](../reference/eap-indicators.md).
+    For information about the default indicators, see [Enterprise Agile Planning Indicators](eap-indicators.md).
 
 4.  Select **Save**.
 

@@ -47,7 +47,7 @@ The reservable purpose is added.
 -   **[Add a reservable purpose to a workplace item](add-reservable-purpose-to-workplace-item.md)**  
 Define the purpose of a workplace item by adding a reservable purpose. The purpose is displayed in the details of the workplace item so that employees can select the appropriate item.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -86,9 +86,9 @@ Define the purpose of a workplace item by adding a reservable purpose. The purpo
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

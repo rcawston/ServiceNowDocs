@@ -34,5 +34,5 @@ You can also repair multiple task SLA records from a list.
     **Note:** Closing the progress dialog box does not stop the repair process. You can go to **Active repairs** or **My repairs** and click **Show progress** to view the progress dialog again.
 
 
-**Parent Topic:**[Repair Service Level Agreement \(SLA\)](../concept/c_RepairSLAs.md)
+**Parent Topic:**[Repair Service Level Agreement \(SLA\)](c_RepairSLAs.md)
 

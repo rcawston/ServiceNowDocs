@@ -15,11 +15,11 @@ breadcrumb: [Manage workplace contracts, Workplace Lease Administration, Workpla
 
 Lease administrators and managers can track, renew, and view information related to workplace contracts from Workplace Central.
 
--   **[Renew workplace contract in Workplace Central](../task/wpc-renew-lease-workplace-contracts.md)**  
+-   **[Renew workplace contract in Workplace Central](wpc-renew-lease-workplace-contracts.md)**  
 Renew a workplace contract after you have created it, when it is approaching expiration, or when it has expired.
--   **[Adjust workplace contract in Workplace Central](../task/wpc-adjust-lease-contract.md)**  
+-   **[Adjust workplace contract in Workplace Central](wpc-adjust-lease-contract.md)**  
 Change the start date, end date, or amount to be paid for an contract in active state.
--   **[Cancel workplace contract in Workplace Central](../task/wpc-cancel-lease-contract.md)**  
+-   **[Cancel workplace contract in Workplace Central](wpc-cancel-lease-contract.md)**  
 Cancel an active contract if it is no longer relevant.
 
 **Parent Topic:**[Workplace Lease Administration](workplace-lease-admin-feat.md)

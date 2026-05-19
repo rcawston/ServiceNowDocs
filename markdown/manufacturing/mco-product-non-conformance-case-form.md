@@ -174,5 +174,5 @@ Complaint details, if any.
 **Related topics**  
 
 
-[Create a product non-conformance case](../task/mco-playbook-create-non-conformance.md)
+[Create a product non-conformance case](mco-playbook-create-non-conformance.md)
 

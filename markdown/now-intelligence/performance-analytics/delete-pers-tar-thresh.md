@@ -38,5 +38,5 @@ If your roles allow you to create a global target or threshold, you can delete a
 4.  Read through the warning in the Confirmation dialog and if you're certain it is safe, select **Delete**.
 
 
-**Parent Topic:**[Performance Analytics targets and thresholds](../concept/pa-targets-thresholds.md)
+**Parent Topic:**[Performance Analytics targets and thresholds](pa-targets-thresholds.md)
 

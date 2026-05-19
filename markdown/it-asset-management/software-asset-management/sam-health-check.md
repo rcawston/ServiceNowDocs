@@ -17,7 +17,7 @@ The Health Check ServiceNow Store application gives a correct and reliable overv
 
 The Health Check application can be used by multiple personas such as implementation partners, SAM managers, and support analysts to determine the health check of their configurations.
 
-Use the Health Check ServiceNow Store application at any point during the deployment of the Software Asset Management application to identify errors. For example, configuration errors such as incorrect setup of entitlements or software models, or missing data attributes found from Discovery. For details on running a health check scan, see [Run a health check scan for Software Asset Management](../task/run-healthcheck.md).
+Use the Health Check ServiceNow Store application at any point during the deployment of the Software Asset Management application to identify errors. For example, configuration errors such as incorrect setup of entitlements or software models, or missing data attributes found from Discovery. For details on running a health check scan, see [Run a health check scan for Software Asset Management](run-healthcheck.md).
 
 The current set of checks include checks for the following configurations:
 
@@ -44,5 +44,5 @@ After the health scan is performed, view the results on the Health Check dashboa
 
 [Health check](health-check-dboard.md)
 
-[Run a health check scan for Software Asset Management](../task/run-healthcheck.md)
+[Run a health check scan for Software Asset Management](run-healthcheck.md)
 

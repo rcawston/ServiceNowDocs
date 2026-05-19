@@ -48,7 +48,7 @@ Name
 
 </td><td>
 
-Name of the campus. Ensure that you enter a unique name. **Note:** Do not use duplicate names because it may affect the reservation process. If you change the name of campus after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+Name of the campus. Ensure that you enter a unique name. **Note:** Do not use duplicate names because it may affect the reservation process. If you change the name of campus after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Managed by group
 
 Group assigned to manage the campus.**Note:** If a Workplace Service Delivery campus is synchronized with Indoor Mapping campus and if new Indoor mapping objects are added, workplace user groups are notified to synchronize the latest changes in Indoor Mapping with Workplace Service Delivery.
 
-For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 </td></tr><tr><td>
 
@@ -171,7 +171,7 @@ Search and select the Indoor Mapping campus that you want to integrate with Work
 
 6.  Click **Synchronize** to synchronize floors, areas, and spaces in a campus.
 
-    **Note:** **Time zone** of Workplace Service Delivery campus location is required to synchronize. Workplace reservation is created in a location timezone. For more information, see Indoor Mapping place types with Workplace Service Delivery space types, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+    **Note:** **Time zone** of Workplace Service Delivery campus location is required to synchronize. Workplace reservation is created in a location timezone. For more information, see Indoor Mapping place types with Workplace Service Delivery space types, see [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 7.  To add an Indoor map campus, select the Additional Actions icon \(![Additional Actions to switch to the Workplace view.](../images/additionalactions-icon.png)\) to select **View** &gt; **Workplace Indoor Mapping Campus**.
 
@@ -182,14 +182,14 @@ Search and select the Indoor Mapping campus that you want to integrate with Work
 9.  Building, floors, areas, and spaces available in a campus are listed.
 
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
-[Add a building using Workplace Space Management](add-new-building-1.md)
+[Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](add-a-floor-1.md)
+[Add a floor using Workplace Space Management](../employee-service-management/add-a-floor-1.md)
 
 [Add an area using Workplace Space Management](add-an-area.md)
 
@@ -215,5 +215,5 @@ Search and select the Indoor Mapping campus that you want to integrate with Work
 
 [Create a view-by configuration](create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](reviewing-allocation-changes.md)
 

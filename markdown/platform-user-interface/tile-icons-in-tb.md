@@ -33,9 +33,9 @@ To override the default tile icon illustrations with custom images, upload each 
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[Configure colors for tile icon illustrations](../task/configure-tile-icon-colors.md)**  
+-   **[Configure colors for tile icon illustrations](configure-tile-icon-colors.md)**  
 Configure and control the colors automatically applied to tile icon illustrations to keep your visual experience engaging while maintaining brand recognition.
--   **[Override tile icon illustrations with custom images](../task/override-tile-icon-with-custom-images.md)**  
+-   **[Override tile icon illustrations with custom images](override-tile-icon-with-custom-images.md)**  
 Modify or override the default tile icon illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
 **Parent Topic:**[Working with Image styles](working-with-image-styles.md)

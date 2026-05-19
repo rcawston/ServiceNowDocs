@@ -32,11 +32,11 @@ Role required: sn\_erp\_integration.erp\_admin
 
     Filter the information as needed. For example, show only successes, failures, or information for a specific system.
 
-    For a description of the field values, see [Zero Copy Connector for ERP Monitor field descriptions](../reference/erp-data-hub-monitor-field-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP Monitor field descriptions](erp-data-hub-monitor-field-descriptions.md).
 
 
 -   **[Export Zero Copy Connector for ERP transaction data](monitor-export-telemetry-data.md)**  
 Export Zero Copy Connector for ERP \(Enterprise Resource Planning\) transaction information such as failures and usage. Filter the data as needed and then export to Excel, CSV, JSON, or PDF format.
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](erp-canvas-extraction-tables.md)
 

@@ -70,5 +70,5 @@ View, rename, and remove the attachments on a record and adjust the maximum allo
 -   **[Attach files with drag-and-drop](t_AttachingFilesWithDragAndDrop.md)**  
 You can drag files from your local computer into your browser window to attach them to the current record.
 
-**Parent Topic:**[Forms in the classic environment](../concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](c_UsingForms.md)
 

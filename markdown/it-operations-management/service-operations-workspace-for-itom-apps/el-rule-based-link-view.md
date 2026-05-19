@@ -28,5 +28,5 @@ If an alert on a CI impacts a service in the Configuration Management Database \
 
 [Viewing links between alerts in alert groups in Express List](el-link-view.md)
 
-[View links between alerts in a group in Express List](../task/view-relationships-between-alerts-in-groups.md)
+[View links between alerts in a group in Express List](view-relationships-between-alerts-in-groups.md)
 

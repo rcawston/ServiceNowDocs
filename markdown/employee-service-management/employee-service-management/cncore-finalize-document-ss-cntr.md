@@ -96,7 +96,7 @@ The document is automatically saved in the external storage.
         -   **External Storage**- In the Document field, select the document. This option is displayed only if external storage is configured
 8.  Get approval of the updated document from stakeholders.
 
-    For more information, see [Initiate an ad hoc approval for a contract document revision](cmpro-initiate-approval-contract-request.md).
+    For more information, see [Initiate an ad hoc approval for a contract document revision](../contract-management-pro/cmpro-initiate-approval-contract-request.md).
 
 9.  Return the contract document to the requester.
 

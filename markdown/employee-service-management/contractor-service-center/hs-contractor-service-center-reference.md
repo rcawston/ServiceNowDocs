@@ -15,12 +15,12 @@ breadcrumb: [Contractor Service Center, Health and Safety, Employee Service Mana
 
 Using the reference topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the Contractor Service Center application.
 
--   **[Components installed with Contractor Service Center](../reference/hs-components-installed-contractor-service-center.md)**  
+-   **[Components installed with Contractor Service Center](hs-components-installed-contractor-service-center.md)**  
 Several types of components are installed with activation of the Contractor Service Center plugin, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren't already installed.
 -   **[Contractor service portal menu item form](hs-contractor-service-portal-menu-item-form.md)**  
 Form field description for contractor service portal menu item.
 -   **[Domain separation and Contractor Service Center](hs-domain-separation-contractor-service-center.md)**  
 Domain separation is supported for Contractor Service Center. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Contractor Service Center](../reference/hs-contractor-service-center-landing-page.md)
+**Parent Topic:**[Contractor Service Center](hs-contractor-service-center-landing-page.md)
 

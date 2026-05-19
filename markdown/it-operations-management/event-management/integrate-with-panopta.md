@@ -23,9 +23,9 @@ When the Event Management integration is configured in Panopta, add the integrat
 
 ## Optional Event Management configuration
 
-Configure an alert action rule for launch in context of Panopta. For more information, see [Launch web application from alert](../task/t_EMLaunchAnApplication.md) and [Create or edit an alert action rule](../task/t_EMCreateAlertRule.md).
+Configure an alert action rule for launch in context of Panopta. For more information, see [Launch web application from alert](t_EMLaunchAnApplication.md) and [Create or edit an alert action rule](t_EMCreateAlertRule.md).
 
-**Parent Topic:**[Integrate with push connectors](../task/configure-listener-transform-script.md)
+**Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
 
 **Related topics**  
 

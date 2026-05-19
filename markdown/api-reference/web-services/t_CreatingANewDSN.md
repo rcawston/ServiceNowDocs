@@ -52,5 +52,5 @@ Instead of creating a new DSN, you can [Specify a connection string](specify-con
 
 You can now use the new driver.
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](configuring-odbc.md)
 

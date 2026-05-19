@@ -32,5 +32,5 @@ Role required: admin
     **Note:** To learn more about importing from Source Control, see [ServiceNow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/c_ServiceNowStudio.md). Once the importing is done, use the **My Application Import History** module to view the import history.
 
 
-**Parent Topic:**[Reviewing upgrade history](../concept/um-review-history.md)
+**Parent Topic:**[Reviewing upgrade history](um-review-history.md)
 

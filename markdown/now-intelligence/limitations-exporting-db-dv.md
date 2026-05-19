@@ -25,7 +25,7 @@ Some prompts are not recognized at all. Avoid the following phrases:
 -   Mail to me
 -   Mail with subject and body as Visualization/Dashboard name
 
-**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](../task/export-db-dv-now-assist-panel.md)
+**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](export-db-dv-now-assist-panel.md)
 
 **Related topics**  
 

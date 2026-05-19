@@ -86,5 +86,5 @@ Activate the applications in the following order:
 1.  Customer Service Problem Management
 2.  Now Assist for TMT
 
-For more information, see [Configuring Now Assist for Telecommunications, Media and Technology \(TMT\)](../task/now-assist-tmt-configuring.md).
+For more information, see [Configuring Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-tmt-configuring.md).
 

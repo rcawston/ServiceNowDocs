@@ -115,5 +115,5 @@ Redirect URL
 
 Use the OAuth profile to create an email account with SMTP OAuth2.0. For more information, see [Create an email account with SMTP OAuth2.0](create-email-account-smtp.md).
 
-**Parent Topic:**[Sending email using client credential flow](../concept/send-email-client-credential-flow.md)
+**Parent Topic:**[Sending email using client credential flow](send-email-client-credential-flow.md)
 

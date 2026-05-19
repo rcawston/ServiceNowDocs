@@ -93,5 +93,5 @@ When a blocking task is resolved:
 
 Records that have the blocking tasks are stored in the Blocked By table \[sn\_action\_status\_blocked\_by\]. Records are periodically removed from this table. Six months after a blocked record is closed, the entries in the Blocked By table related to the blocked record are removed.
 
-**Parent Topic:**[Administering case action status](../concept/customer-service-case-action-status.md)
+**Parent Topic:**[Administering case action status](customer-service-case-action-status.md)
 

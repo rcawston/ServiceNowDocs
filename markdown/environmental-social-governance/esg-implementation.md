@@ -27,11 +27,11 @@ The flow of mandatory steps in the checklist are as follows:
 10. Create disclosures
 11. Integrate with other apps such as Watershed, PPM, and Urjanet \(optional\)
 
--   **[Install Operational Sustainability Management \(formerly ESG Management\)](../task/install-esg.md)**  
+-   **[Install Operational Sustainability Management \(formerly ESG Management\)](install-esg.md)**  
 You can install the Operational Sustainability Management application \(sn\_esg\) if you have the sys\_admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Complete the entitlements for Operational Sustainability Management \(formerly ESG Management\)](../task/complete-the-entitlements-for-esg-management.md)**  
+-   **[Complete the entitlements for Operational Sustainability Management \(formerly ESG Management\)](complete-the-entitlements-for-esg-management.md)**  
 After you install the Operational Sustainability Management application from the ServiceNow® Store, you must complete the entitlements to gain complete access to the application and use it.
--   **[Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application](../task/setup-checklist-esg.md)**  
+-   **[Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application](setup-checklist-esg.md)**  
 This checklist includes the set up tasks that you're required to complete in your ServiceNow AI Platform® instance. When you have completed these tasks, the base system is ready for operation.
 
 **Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](configuring-esg.md)

@@ -16,5 +16,5 @@ Service Management Core includes several feature plugins. Each of these plugins 
 -   **[Installed with Service Management Core](r_InstallWServMgmtCore.md#)**  
 Several types of components are installed with the Service Management Core plugin.
 
-**Parent Topic:**[Service Management](../../it-services/concept/c_ServiceManagement.md)
+**Parent Topic:**[Service Management](c_ServiceManagement.md)
 

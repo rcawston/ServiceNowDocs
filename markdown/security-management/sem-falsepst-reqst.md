@@ -94,5 +94,5 @@ The state of the remediation task and its records reverts to previous state.
 </td></tr></tbody>
 </table>In the **Activity stream** of a record or remediation task, you can view the entire workflow of the false positive request.
 
-**Parent Topic:**[Exception Management Overview](../concept/sem-exception-management-overview.md)
+**Parent Topic:**[Exception Management Overview](sem-exception-management-overview.md)
 

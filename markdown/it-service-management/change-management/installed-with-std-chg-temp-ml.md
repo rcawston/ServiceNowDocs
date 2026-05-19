@@ -52,5 +52,5 @@ Standard Change Template Proposal Solution\[chg\_ml\_prop\_sctp\_solution\]
 Solution Definitions configured for the Standard Change Template Proposal Solution feature.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request Change Management - Standard Change Template Intelligence](../task/request-cm-std-chg-template-intelligence.md)
+</table>**Parent Topic:**[Request Change Management - Standard Change Template Intelligence](request-cm-std-chg-template-intelligence.md)
 

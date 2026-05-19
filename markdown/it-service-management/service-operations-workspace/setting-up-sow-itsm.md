@@ -23,9 +23,9 @@ The Password Reset application provides a mechanism for end users to either unlo
 You can set up Recommended Actions for ITSM to apply real-time actionable recommendations for speeding up the triaging process and resolving issues quickly across various records in the Service Operations Workspace.
 -   **[Setting up AI Search in Service Operations Workspace for ITSM](ai-search-sow.md)**  
 Intelligent query features enable you to quickly find the answers that you require. The Next Experience Unified Navigation search field enables you to search multiple record types and switch between global search results and results from the workspace applications that you can access.
--   **[Install Universal Request for Service Operations Workspace](../task/install-ur-sow.md)**  
+-   **[Install Universal Request for Service Operations Workspace](install-ur-sow.md)**  
 You can install the Universal Request for Service Operations Workspace application \(com.snc.universal\_request\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
--   **[Install Universal Task for Service Operations Workspace](../task/install-ut-sow.md)**  
+-   **[Install Universal Task for Service Operations Workspace](install-ut-sow.md)**  
 You can install the Universal Task application \(sn\_uni\_task\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITSM](configure-sow.md)

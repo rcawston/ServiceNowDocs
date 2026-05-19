@@ -231,28 +231,28 @@ Body of the email message.
     3.  Use the **Filter** action on the Status Reports view to filter the status reports based on certain conditions.
 
 
-**Parent Topic:**[Using Major Security Incident Management](../../security-incident-response/concept/major-security-incident-setup.md)
+**Parent Topic:**[Using Major Security Incident Management](major-security-incident-setup.md)
 
 **Related topics**  
 
 
-[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+[Propose, promote, and link incident records](promoting-sir-to-msim.md)
 
-[Using MSI List view in the MSIM workspace](../../security-incident-response/task/list-view-in-msim.md)
+[Using MSI List view in the MSIM workspace](list-view-in-msim.md)
 
-[View Major Security Incident impact metrics](../concept/viewing-trend-charts-and-progress-of-msi.md)
+[View Major Security Incident impact metrics](viewing-trend-charts-and-progress-of-msi.md)
 
-[View Major Security Incident trend charts](../concept/viewing-msi-impact-metrics.md)
+[View Major Security Incident trend charts](viewing-msi-impact-metrics.md)
 
-[Update Major Security Incident details](../concept/msim-details-tab.md)
+[Update Major Security Incident details](msim-details-tab.md)
 
 [Link additional records to Major Security Incident](linking-additional-records-to-major-security-incidents.md)
 
 [Unlink records from Major Security Incident](unlinking-msi-records.md)
 
-[Manage tasks in a Major Security Incident](../concept/tasks-tab.md)
+[Manage tasks in a Major Security Incident](tasks-tab.md)
 
-[Track collaboration activity via MSIM workspace](../concept/collab-tab.md#)
+[Track collaboration activity via MSIM workspace](collab-tab.md#)
 
-[Configure Major Security Incident status reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+[Configure Major Security Incident status reports](manage-status-reports-for-major-security-incident-management.md)
 

@@ -35,5 +35,5 @@ Role required: rota\_admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Defining On-Call Scheduling escalation process](../../user-administration/concept/defining-escalation-process-and-template.md)
+**Parent Topic:**[Defining On-Call Scheduling escalation process](defining-escalation-process-and-template.md)
 

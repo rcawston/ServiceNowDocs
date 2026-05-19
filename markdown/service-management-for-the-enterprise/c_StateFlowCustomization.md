@@ -46,17 +46,17 @@ You can create a custom state flow for processing that must occur when a task re
 
 The solution is to store the business rule or client script in a state flow record and create a condition to trigger processing for any state change that requires it. An example of this in field service management is the Roll Up Changes business rule on the Work Order Task \[wm\_task\] table. This business rule rolls up state changes that occur in tasks to the parent work order.
 
--   **[State flow dictionary overrides](../task/t_StateFlowDictionaryOverrides.md)**  
+-   **[State flow dictionary overrides](t_StateFlowDictionaryOverrides.md)**  
 A dictionary override in a state flow defines the starting state for all new records in a specific table. You set an override in tables that extend a base table only, so that your customizations are applied only to the extended table.
 -   **[Work notes in state flows](c_WorkNotesInStateFlows.md)**  
 Work notes are an important part of the state flow process and are used to communicate information about state transitions.
 -   **[Field controls in state flows](c_FieldControlsInStateFlows.md)**  
 You can define controls for individual fields that are enforced when a record transitions between states.
--   **[Trigger events on state changes](../task/t_TriggerEventsOnStateChanges.md)**  
+-   **[Trigger events on state changes](t_TriggerEventsOnStateChanges.md)**  
 You can configure a state flow to trigger a registered system event when a task transitions from a starting state to a specified end state. For example, you can use events to trigger email notifications and create script actions.
 -   **[Rebuild state flows](c_RebuildStateFlows.md)**  
 You can rebuild state flows when a mismatch between existing and new sys\_ids occurs.
--   **[State flow cleanup](../reference/r_StateFlowCleanup.md)**  
+-   **[State flow cleanup](r_StateFlowCleanup.md)**  
 The business rules, client scripts, and UI actions that the system creates automatically to perform custom transitions exist only while the state flow records that use them are present.
 
 **Parent Topic:**[Service management states](c_ServiceManagementStates.md)

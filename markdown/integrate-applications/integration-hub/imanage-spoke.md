@@ -105,5 +105,5 @@ The iManage spoke requires an iManage work account and access to the iManage Con
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up iManage spoke](../task/set-up-imanage-spoke.md#).
+For information about setting up the spoke, see [Set up iManage spoke](set-up-imanage-spoke.md#).
 

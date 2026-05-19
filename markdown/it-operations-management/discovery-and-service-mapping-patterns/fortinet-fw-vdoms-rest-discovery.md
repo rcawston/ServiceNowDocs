@@ -23,7 +23,7 @@ The Next Generation Fortinet Network Firewall - REST pattern uses a set of REST 
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about Fortinet Firewalls and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md).
+To learn about Fortinet Firewalls and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md).
 
 ## Prerequisites
 
@@ -50,15 +50,15 @@ To learn about Fortinet Firewalls and their versions that you can discover, refe
     -   `/api/v2/monitor/system/interface/select`
 -   **Disable SNMP-based Fortinet firewall discovery**
 
-    For more information, see [Disable SNMP-based Fortinet firewall discovery](../task/disable-snmp-fortinet-fw-discovery.md).
+    For more information, see [Disable SNMP-based Fortinet firewall discovery](disable-snmp-fortinet-fw-discovery.md).
 
 -   **Create an alias for the API Key Credentials**
 
-    For more information, see [Create an alias for the API key credential for Fortinet firewall REST-based discovery](../task/create-alias-api-key-cred-fortinet.md).
+    For more information, see [Create an alias for the API key credential for Fortinet firewall REST-based discovery](create-alias-api-key-cred-fortinet.md).
 
 -   **Create a serverless discovery schedule**
 
-    For more information, see [Create a serverless schedule for Fortinet firewall REST-based discovery](../task/create-serverless-schedule-fortinet.md).
+    For more information, see [Create a serverless schedule for Fortinet firewall REST-based discovery](create-serverless-schedule-fortinet.md).
 
 
 ## Data collected by Discovery during horizontal discovery

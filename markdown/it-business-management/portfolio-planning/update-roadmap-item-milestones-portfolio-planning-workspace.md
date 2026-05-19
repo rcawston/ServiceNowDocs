@@ -32,7 +32,7 @@ For free-form roadmaps, milestones are supported only if the source table is Pla
 
 You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
-However, any existing milestones of the project are visible on the roadmap if you've integrated [Portfolio Planning with Project Portfolio Management](../concept/portfolio-planning-integration-with-execution-applications.md).
+However, any existing milestones of the project are visible on the roadmap if you've integrated [Portfolio Planning with Project Portfolio Management](portfolio-planning-integration-with-execution-applications.md).
 
 ## Procedure
 
@@ -77,7 +77,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     -   To update, edit the field details and click **Save**.
 
-        For information on the form fields, see [Planning item milestone form](../../alignment-planner-workspace/reference/planning-item-milestone-form.md).
+        For information on the form fields, see [Planning item milestone form](../scenario-planning-in-spw/planning-item-milestone-form.md).
 
     -   To delete the milestone, click **Delete.**
 

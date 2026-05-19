@@ -19,7 +19,7 @@ View a list of available robots in Automation Center for reference purpose.
 
 Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_user, or sn\_ac.automation\_admin
 
-In addition to the Automation Center roles, you will also need the Robotic Process Automation \(RPA\) roles. For more information on RPA roles, see [Components installed with RPA Hub](../../rpa-hub/reference/installed-with-rpa-hub.md).
+In addition to the Automation Center roles, you will also need the Robotic Process Automation \(RPA\) roles. For more information on RPA roles, see [Components installed with RPA Hub](../installed-with-rpa-hub.md).
 
 ## About this task
 
@@ -40,5 +40,5 @@ You can't create a robot.
 5.  Review the information on the robot page.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

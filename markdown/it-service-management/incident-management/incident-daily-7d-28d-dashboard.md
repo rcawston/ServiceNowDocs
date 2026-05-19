@@ -17,7 +17,7 @@ View the last 28 days of incidents as raw trends, as a 7-day running average, or
 
 **Important:**
 
-Starting in Xanadu release, the Incident Daily 7d - 28d dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the last 28 days of incidents as raw trends, as a 7-day running average, or as a 28-day running average and filter the scores by assignment groups or incident.
+Starting in Xanadu release, the Incident Daily 7d - 28d dashboard is deprecated. Users can use [Incident management dashboard](../incident.md) to view the last 28 days of incidents as raw trends, as a 7-day running average, or as a 28-day running average and filter the scores by assignment groups or incident.
 
 ![Incident Daily tab of the Incident daily 7d-28d breakdown dashboard](../image/incident-7d-28d-daily.png "Incident Daily tab")
 

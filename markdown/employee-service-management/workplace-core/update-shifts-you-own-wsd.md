@@ -140,5 +140,5 @@ Area that is active for operation and use during this shift.
     2.  Add or remove areas and spaces.
 
 
-**Parent Topic:**[Managing workplace shifts that you own](../concept/managing-shifts-you-own-wsd.md)
+**Parent Topic:**[Managing workplace shifts that you own](managing-shifts-you-own-wsd.md)
 

@@ -28,5 +28,5 @@ Role required: sn\_risk.admin
 3.  Select **Copy**.
 
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

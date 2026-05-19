@@ -22,7 +22,7 @@ Domain separation is unsupported in Cost Management. Domain separation enables y
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Cost Management](../reference/r_CostManagement.md)
+**Parent Topic:**[Cost Management](r_CostManagement.md)
 
 **Related topics**  
 

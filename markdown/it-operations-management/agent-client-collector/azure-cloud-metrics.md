@@ -51,9 +51,9 @@ When creating a policy, you must decide which CIs you want the policy to monitor
 3.  Generate a .json file that specifies the list of resources to be monitored.
 4.  Generate a .json file that specifies the list of metrics to be retrieved from monitored resources.
 
-For details on the Azure policies, see [Create Azure policies for metric collection](../task/create-policies-azure.md).
+For details on the Azure policies, see [Create Azure policies for metric collection](create-policies-azure.md).
 
 For details on the Azure Metrics Batch API, see the [Metrics Batch API](https://learn.microsoft.com/en-us/rest/api/monitor/metrics-batch/batch?view=rest-monitor-2023-05-01-preview&tabs=HTTP) page.
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](../reference/agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
 

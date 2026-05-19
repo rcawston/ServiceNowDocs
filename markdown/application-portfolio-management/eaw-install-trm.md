@@ -36,5 +36,5 @@ Role required: admin
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configure Technology Reference Model](../../concept/eaw-concept/eaw-config-tech-ref-model.md)
+**Parent Topic:**[Configure Technology Reference Model](eaw-config-tech-ref-model.md)
 

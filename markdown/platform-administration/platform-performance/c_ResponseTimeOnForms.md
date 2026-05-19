@@ -54,7 +54,7 @@ If you notice issues with form response times, see [Improving response times on 
 
 The Client Transaction Timings plugin provides extra information about the time spent on both the client and server sides, by the browser and the network. This feature not only helps find long-running processes, but also provides information about where in the process the performance issue is caused.
 
-For more information, see [Client transaction timings](../../time/reference/r_ClientTransactionTimings.md).
+For more information, see [Client transaction timings](../time-configuration/r_ClientTransactionTimings.md).
 
 **Parent Topic:**[Monitoring platform performance](monitoring-platform-performance.md)
 

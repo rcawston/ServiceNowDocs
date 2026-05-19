@@ -15,7 +15,7 @@ breadcrumb: [Supported software publisher licenses, Software Asset Management, I
 
 Use the Software Asset Management publisher pack for IBM to track and optimize licensing for your IBM software products. You can also use the publisher pack to track and optimize licensing for the Red Hat Enterprise Linux Server and Red Hat Enterprise Linux for Virtual Datacenters products.
 
-To use the IBM publisher pack, activate the Software Asset Management Professional for IBM \(com.sn\_samp\_ibm\) [plugin](../task/t_RequSoftwareAssetMgmt.md).
+To use the IBM publisher pack, activate the Software Asset Management Professional for IBM \(com.sn\_samp\_ibm\) [plugin](t_RequSoftwareAssetMgmt.md).
 
 The IBM publisher pack supports the following license metrics:
 
@@ -65,9 +65,9 @@ The Software Asset Management publisher pack for IBM adds license metrics for va
 You can use an IBM License Metric Tool \(ILMT\) or BigFix Inventory integration to create a connection between your IBM servers and the ServiceNow AI Platform. Use this connection to import data into your ServiceNow instance so that you can track and optimize licensing for your IBM software products.
 -   **[Authorized SAM Provider \(ASP\) integrations for IBM](ibm-asp-integration.md)**  
 You can track and manage IBM licenses in both VMware vSphere environments and IBM LPAR infrastructures by integrating the Software Asset Management publisher pack for IBM with Software Asset Management providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program. With these integrations, you can track and manage IBM licensing directly without having to integrate with the IBM License Metric Tool \(ILMT\) or BigFix Inventory.
--   **[Software Publisher Analytics dashboard for IBM in Software Asset Management classic](../reference/dashboard-ibm.md)**  
+-   **[Software Publisher Analytics dashboard for IBM in Software Asset Management classic](dashboard-ibm.md)**  
 View compliance analysis results related to IBM on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
--   **[Publisher overview for IBM in the Software Asset Workspace](../reference/publisher-overview-ibm.md)**  
+-   **[Publisher overview for IBM in the Software Asset Workspace](publisher-overview-ibm.md)**  
 View license usage information related to IBM in the publisher overview for IBM in the Software Asset Workspace.
 -   **[Software Asset Management for Red Hat Enterprise Linux](rhel-publisher-pack.md)**  
 Use the Software Asset Management publisher pack for IBM to track and optimize licensing for your Red Hat Enterprise Linux \(RHEL\) products.

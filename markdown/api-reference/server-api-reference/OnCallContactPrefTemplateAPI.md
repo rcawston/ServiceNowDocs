@@ -19,7 +19,7 @@ For more information about the escalation process, see [Defining On-Call Schedul
 
 This script include requires the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## OnCallContactPrefTemplate - OnCallContactPrefTemplate\(\)
 

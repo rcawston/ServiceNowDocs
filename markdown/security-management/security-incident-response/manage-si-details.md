@@ -19,10 +19,10 @@ After a security incident has been created, there are numerous types of informat
 
 This section describes the following:
 
--   [Create an inbound request](../task/t_CreateSecurityIncidentRequest.md)
+-   [Create an inbound request](t_CreateSecurityIncidentRequest.md)
 -   [Manage observables](sec-inc-observables.md)
 -   [Manage lookups and scans](c_Scans.md)
--   [Calculate the severity of a security incident](../task/calculate-si-severity.md)
+-   [Calculate the severity of a security incident](calculate-si-severity.md)
 -   [Manage post incident activities](c_PostIncidentReview.md)
--   [Close security incidents](../task/t_ClosingSecIncidents.md)
+-   [Close security incidents](t_ClosingSecIncidents.md)
 

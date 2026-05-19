@@ -15,7 +15,7 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 The topic migration workflow enables you to migrate your existing Natural Language Understanding \(NLU\)/keyword topics into new large language model \(LLM\) topics.
 
-**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](../reference/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](vad-prev-topics-page.md).
 
 Now Assist capabilities bring generative AI to Virtual Agent using LLM topics. With topic migration, there’s no need to manually recreate all your NLU and keyword topics to be LLM topics. You can select the topics that you want to migrate into LLM topics from your existing NLU and keyword topics. Migrating NLU and keyword topics doesn’t change the original NLU or keyword topics. A copy of the existing topic is created during topic migration, but the new topic's **Model Type** field is set to LLM and includes LLM-compatible nodes and descriptions.
 
@@ -48,7 +48,7 @@ The **Detail description** field is required for LLM topics but not for NLU/keyw
 
 **Note:** NLU utterances themselves are not effective if you use them as topic descriptions for LLM topics. Avoid using NLU utterances for LLM topic descriptions. LLM topic descriptions require more specific detailed information.
 
-For more information on editing topic descriptions, see [Migrate NLU topics to LLM topics](../task/migrate-nlu-llm.md). For examples of strong topic descriptions, see [LLM description and instruction guidelines for Virtual Agent topics](va-llm-instruction-guidelines.md).
+For more information on editing topic descriptions, see [Migrate NLU topics to LLM topics](migrate-nlu-llm.md). For examples of strong topic descriptions, see [LLM description and instruction guidelines for Virtual Agent topics](va-llm-instruction-guidelines.md).
 
 ## Node descriptions
 
@@ -99,12 +99,12 @@ If you had vocabulary sources established in your NLU topic's text nodes, the li
 
 ## Migration issues
 
-You can access migration issue data either by searching for `topic_migration_execution_item.list` in the Navigation pane or downloading the .CSV file version of the table. After you've migrated topics, the downloadable .CSV file is accessible through the **Review migration log** option in the topic migration's Migrate topics step. For more information about migration issues, see [NLU to LLM migration log](../reference/llm-topic-migration-error-log.md).
+You can access migration issue data either by searching for `topic_migration_execution_item.list` in the Navigation pane or downloading the .CSV file version of the table. After you've migrated topics, the downloadable .CSV file is accessible through the **Review migration log** option in the topic migration's Migrate topics step. For more information about migration issues, see [NLU to LLM migration log](llm-topic-migration-error-log.md).
 
--   **[Migrate NLU topics to LLM topics](../task/migrate-nlu-llm.md)**  
+-   **[Migrate NLU topics to LLM topics](migrate-nlu-llm.md)**  
 Migrate one or more of your existing Natural Language Understanding \(NLU\) or keyword topics into new large language model \(LLM\) topics while maintaining your original NLU/keyword topics. After migration is complete, choose whether to publish your new LLM topics.
--   **[NLU to LLM migration log](../reference/llm-topic-migration-error-log.md)**  
+-   **[NLU to LLM migration log](llm-topic-migration-error-log.md)**  
 The Topic Migration Execution Items \[topic\_migration\_execution\_item.list\] table includes data when migrating Natural Language Understanding \(NLU\) topics to large language model \(LLM\) topics such as the migration status, migration issues, and migrated or published topic information.
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 

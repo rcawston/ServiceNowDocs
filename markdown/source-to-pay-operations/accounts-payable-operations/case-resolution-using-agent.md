@@ -27,7 +27,7 @@ Role required: now\_assist\_panel\_user,sn\_ap\_cm.agent
 
 2.  Select **Invoice case**.
 
-    For more information on creating an inquiry case, see [Invoice inquiry cases](../concept/work-with-inquiry-cases.md). Assign the case to the AP agent and the inquiry resolution provider AI agent is triggered.![Inquiry resolution provider agent](../image/inquiry-case-ai-agent.png)
+    For more information on creating an inquiry case, see [Invoice inquiry cases](work-with-inquiry-cases.md). Assign the case to the AP agent and the inquiry resolution provider AI agent is triggered.![Inquiry resolution provider agent](../image/inquiry-case-ai-agent.png)
 
 
 ## Result

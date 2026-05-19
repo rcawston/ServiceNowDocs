@@ -27,7 +27,7 @@ Sample use case: An admin must be able to make comments required when a record c
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Additional integration resources](../../outbound-web-services/concept/additional-integration-resources.md)
+**Parent Topic:**[Additional integration resources](additional-integration-resources.md)
 
 **Related topics**  
 

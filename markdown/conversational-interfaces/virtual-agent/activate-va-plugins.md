@@ -36,5 +36,5 @@ Role required: admin or virtual\_agent\_admin
 
 ## What to do next
 
-For more information about available Virtual Agent plugins, see [Additional plugins for Virtual Agent](../reference/additional-va-plugins.md) and [Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models](../reference/prebuilt-topics-ITSM.md).
+For more information about available Virtual Agent plugins, see [Additional plugins for Virtual Agent](additional-va-plugins.md) and [Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models](prebuilt-topics-ITSM.md).
 

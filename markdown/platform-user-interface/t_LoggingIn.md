@@ -38,5 +38,5 @@ Users log in to the instance from a web browser. Administrators can [associate a
 4.  Press the Enter key or click **Login**.
 
 
-**Parent Topic:**[Common UI elements](../../common-ui-elements/topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](p_CommonUIElements.md)
 

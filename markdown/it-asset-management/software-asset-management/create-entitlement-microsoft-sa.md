@@ -70,7 +70,7 @@ Role required: sam\_user or sam\_admin
 
 ## Result
 
-After you have created an entitlement, you can begin [viewing license usage](../concept/sam-license-workbench.md).
+After you have created an entitlement, you can begin [viewing license usage](sam-license-workbench.md).
 
 ## Record software rights for Microsoft Software Assurance
 

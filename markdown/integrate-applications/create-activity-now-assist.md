@@ -26,7 +26,7 @@ To access the Now Assist for RPA Hub feature in RPA Desktop Design Studio, perfo
 
 If you skip these steps, the Now Assist for RPA Hub feature doesn’t appear in RPA Desktop Design Studio.
 
-Familiarize yourself with the RPA bot generation skill concepts. For more information, see [Robotic Process Automation \(RPA\) bot generation](../concept/rpa-bot-generation.md).
+Familiarize yourself with the RPA bot generation skill concepts. For more information, see [Robotic Process Automation \(RPA\) bot generation](rpa-bot-generation.md).
 
 Role required: sn\_rpa\_fdn.rpa\_developer or sn\_rpa\_fdn.rpa\_admin
 
@@ -64,7 +64,7 @@ To create an activity manually, see [Create and use an activity in RPA Desktop D
 
     **Note:**
 
-    For more information on example instructions and general guidelines for writing Now Assist instructions, see [Robotic Process Automation \(RPA\) bot generation](../concept/rpa-bot-generation.md). For more information about the limitations of the RPA bot generation skill, see [Limitations of Robotic Process Automation \(RPA\) bot generation skill](../reference/limitations-rpa-bot-gen-skill.md).
+    For more information on example instructions and general guidelines for writing Now Assist instructions, see [Robotic Process Automation \(RPA\) bot generation](rpa-bot-generation.md). For more information about the limitations of the RPA bot generation skill, see [Limitations of Robotic Process Automation \(RPA\) bot generation skill](limitations-rpa-bot-gen-skill.md).
 
 4.  Select **Generate preview**.
 

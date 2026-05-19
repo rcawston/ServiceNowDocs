@@ -129,5 +129,5 @@ The following breakdown sources apply to the indicators on the dashboard for vul
     Vulnerable item reports.
 
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
 

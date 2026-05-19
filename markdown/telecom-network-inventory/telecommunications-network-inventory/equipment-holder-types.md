@@ -132,10 +132,10 @@ In our context, a slot that is present on a Card and can accommodate child cards
 Identification: Name \(100\). Name is discovered from SNMP. If not available, use the name of the card that is contained in this subslot.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[994adcaad828f977d9cc3746ca467b88e162a370.dita](../task/define-tni-equipment-holders.md)
+[994adcaad828f977d9cc3746ca467b88e162a370.dita](define-tni-equipment-holders.md)
 

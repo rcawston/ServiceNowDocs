@@ -41,7 +41,7 @@ After an incident is promoted to a major incident, each tab on a Major Incident 
     -   Resolution – Incident resolution-related information, such as resolution code and resolution notes, once the incident is resolved.
     On the Activity section, you can view all comments, work notes, actions taken, and composed emails. This section also includes user activities, such as a change in the state and the assignment group. In the Compose section, you can add comments, work notes, and actions taken, as well as compose emails.
 
-    For more information on the **Overview** tab, see [View and update incident information on the Overview tab in SOW](../task/view-update-inc-overview-tab.md).
+    For more information on the **Overview** tab, see [View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md).
 
 -   **Details tab**
 
@@ -72,7 +72,7 @@ After an incident is promoted to a major incident, each tab on a Major Incident 
         -   History – Historical list of major incident playbooks.
     -   Recommended actions – Select the **Recommended Actions** \(![Recommended actions for ITSM](../image/mim-sow-ra-itsm.png)\) icon to launch the **View recommendation** side panel. The side panel lists all the recommended actions for major incidents. When an incident is promoted to a major incident and doesn’t have a problem record associated with it, this tab displays a card with the **Create a problem** option to create a problem record.
 
-        You can also configure whether the incident field information is copied automatically when a problem record is created by using the **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) system property. For more information, see [Create a problem](../../problem-management/task/create-a-problem-v2.md).
+        You can also configure whether the incident field information is copied automatically when a problem record is created by using the **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) system property. For more information, see [Create a problem](../problem-management/create-a-problem-v2.md).
 
     -   Record Information – Select the **Record information** \(![Record information](../image/mim-record-info.png)\) icon to view the incident record information on the side panel. The record information side panel includes the following information:
 
@@ -87,19 +87,19 @@ After an incident is promoted to a major incident, each tab on a Major Incident 
         -   Chat - Chat-related information, such as name, number of participants, and due date, for upcoming, pending, overdue, or active chats with collaborators. You can select **Open discussion** to start that chat. You can select the **Initiate collaboration** \(![Add call](../image/mim-add-call-chat-icon.png)\) icon to create a chat using various communication channels, such as Microsoft Teams and Slack.
     -   On call – Select the **Experts on-call** \(![On call icon](../image/mim-on-call.png)\) icon to identify and contact available on-call members of a support group to resolve an issue.
 
--   **[Propose a major incident](../task/propose-major-incident-sow.md)**  
+-   **[Propose a major incident](propose-major-incident-sow.md)**  
 Propose an incident to a major incident candidate based on the incident information.
 -   **[Managing major incidents using playbooks](managing-mi-playbook-sow.md)**  
 Manage the major incident life cycle and process using Major Incident Playbooks from the contextual side panel of an incident record page.
--   **[Promote a major incident](../task/promote-major-incident-sow.md)**  
+-   **[Promote a major incident](promote-major-incident-sow.md)**  
 Review the information of the proposed major incident candidate and promote it to major incident using the Major Incident Playbook.
 -   **[Communicating with stakeholders about incidents and major incidents in SOW](communicating-with-stakeholders-sow.md)**  
 Use the **Communicate** tab to create and manage all communications with stakeholders during the various phases of an incident or a major incident.
--   **[Collaborate with stakeholders during a major incident](../task/collaborate-stakeholders-mim-sow.md)**  
+-   **[Collaborate with stakeholders during a major incident](collaborate-stakeholders-mim-sow.md)**  
 Collaborate with the required stakeholders during the various phases of a major incident to discuss and resolve the incident quickly. You can initiate a chat or make conference calls using a service provider to communicate with stakeholders.
--   **[Resolve and close a major incident](../task/resolve-close-mim-sow.md)**  
+-   **[Resolve and close a major incident](resolve-close-mim-sow.md)**  
 Resolve a major incident to reinstate service after the interruption.
--   **[Review and update a post incident report](../task/review-update-pir-mim-sow.md)**  
+-   **[Review and update a post incident report](review-update-pir-mim-sow.md)**  
 Review a post incident report \(PIR\) using the **Post Incident Report** tab. A PIR helps you review and understand the cause of the major incident and the actions taken by the teams to resolve the incident. This helps prevent the issue in the future.
 
 **Parent Topic:**[Major Incident Management in Service Operations Workspace](mim-in-sow.md)

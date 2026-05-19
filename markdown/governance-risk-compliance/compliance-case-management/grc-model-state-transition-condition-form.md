@@ -102,5 +102,5 @@ Script
 Script to be defined for this state transition. This field appears only when **Transition Script** is selected from **Requires**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Define model state transitions](../task/create-a-model-state-transition-for-compliance-case.md)
+</table>**Parent Topic:**[Define model state transitions](create-a-model-state-transition-for-compliance-case.md)
 

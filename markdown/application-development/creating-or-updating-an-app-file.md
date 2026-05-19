@@ -20,11 +20,11 @@ In a new chat with Build Agent, select **Create a file** or **Update a file** to
 
 ![Use the Create a file and Update a file options to get started adding files to your application.](../../servicenow-studio/image/sn-studio-ba-create-update-file.png "Add or update a file")
 
-Continue the conversation just like you did with creating an application, using the change log and checkpoints as you go. For more information, see [Build Agent conversation change log](ba-conversational-change-log.md) and [Revert app changes with Build Agent](../tasks/revert-app-changes-using-build-agent.md).
+Continue the conversation just like you did with creating an application, using the change log and checkpoints as you go. For more information, see [Build Agent conversation change log](ba-conversational-change-log.md) and [Revert app changes with Build Agent](revert-app-changes-using-build-agent.md).
 
-Review the application and its metadata in ServiceNow Studio using the change log. For more information, see [Build Agent conversation change log](ba-conversational-change-log.md). You can also review the application using the File Navigator in ServiceNow Studio. For more information, see [Find an app or app file using the Navigator panel](../../servicenow-studio/task/qs-find-app-app-file-using-navigator-panel.md).
+Review the application and its metadata in ServiceNow Studio using the change log. For more information, see [Build Agent conversation change log](ba-conversational-change-log.md). You can also review the application using the File Navigator in ServiceNow Studio. For more information, see [Find an app or app file using the Navigator panel](servicenow-studio-classic/qs-find-app-app-file-using-navigator-panel.md).
 
-For information on deploying your application, see [Vibe coding, AI-assisted development, and deployment](../../vibe-coding/concept/vc-and-deployment.md).
+For information on deploying your application, see [Vibe coding, AI-assisted development, and deployment](vc-and-deployment.md).
 
-**Parent Topic:**[Use Build Agent](../tasks/use-build-agent.md)
+**Parent Topic:**[Use Build Agent](use-build-agent.md)
 

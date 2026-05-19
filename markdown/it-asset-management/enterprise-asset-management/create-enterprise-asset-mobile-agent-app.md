@@ -21,7 +21,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## About this task
 
-**Important:** The enterprise assets that you create through the Mobile Agent application can be associated only with enterprise models that are classified through the Enterprise good model \[sn\_ent\_model\] class within the Configuration Management Database \(CMDB\) class hierarchy. See [Expanded Model and Asset Classes](../concept/enterprise-model-asset-classes-app.md) for more information on enterprise model classes.
+**Important:** The enterprise assets that you create through the Mobile Agent application can be associated only with enterprise models that are classified through the Enterprise good model \[sn\_ent\_model\] class within the Configuration Management Database \(CMDB\) class hierarchy. See [Expanded Model and Asset Classes](enterprise-model-asset-classes-app.md) for more information on enterprise model classes.
 
 ## Procedure
 

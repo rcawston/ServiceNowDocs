@@ -61,7 +61,7 @@ Potential impacts include the following:
 
 Disabling the discovery of application data affects all host devices on which the application runs. For example, if you configure Discovery to ignore databases, no information is gathered for either Linux or Windows databases. Conversely, if you configure the system to ignore a device type, such as a Windows server, no databases running on that server are explored, even if they are configured to be discovered. The instance cannot identify the applications running on a server until it first discovers that server.
 
-When you exclude an item from the **Applications** section, the system disables the relevant process classifier. The probes that belong to this classifier, including the [Horizontal Pattern probe](../reference/r-HorizontalPatternProbe.md) that launches patterns, never launch.
+When you exclude an item from the **Applications** section, the system disables the relevant process classifier. The probes that belong to this classifier, including the [Horizontal Pattern probe](r-HorizontalPatternProbe.md) that launches patterns, never launch.
 
 ## Software Discovery
 
@@ -348,7 +348,7 @@ Role required: discovery\_admin or admin
 
 ### Result
 
-File-based Discovery is now enabled, configured, and ready for you to run. See [Run File-based Discovery](../task/run-file-based-discovery.md#) for more information.
+File-based Discovery is now enabled, configured, and ready for you to run. See [Run File-based Discovery](run-file-based-discovery.md#) for more information.
 
 ## Create Basic Auth credentials
 

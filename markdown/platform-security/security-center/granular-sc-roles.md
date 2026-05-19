@@ -44,5 +44,5 @@ This role contains the following roles:-   mi\_admin
 -   sn\_cicd.sys\_ci\_automation
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Security Center](../../security-center/concept/sec-center-v2.md)
+</table>**Parent Topic:**[Security Center](sec-center-v2.md)
 

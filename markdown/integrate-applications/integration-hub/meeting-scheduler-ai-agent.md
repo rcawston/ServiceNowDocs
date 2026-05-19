@@ -21,7 +21,7 @@ This AI agent retrieves details of available rooms, details of the relevant user
 -   Teams event: This a meeting where attendees can join Microsoft Teams meeting.
 -   Zoom event: This a meeting where attendees can join the meeting using Zoom URL.
 
-**Important:** To use this AI agent, ensure that you have activated the [Microsoft Exchange Online Spoke](../../integrationhub-store-spokes/concept/ms-exch-online-spoke.md) and configured the client credential alias. To generate Zoom URL for the meeting, you must activate and configure the [Zoom Spoke](../../integrationhub-store-spokes/concept/zoom-spoke.md).
+**Important:** To use this AI agent, ensure that you have activated the [Microsoft Exchange Online Spoke](ms-exch-online-spoke.md) and configured the client credential alias. To generate Zoom URL for the meeting, you must activate and configure the [Zoom Spoke](zoom-spoke.md).
 
 In this example, Manish \(the logged-in user\) uses the Meeting scheduler AI agent from Now Assist panel to schedule a meeting with Vivek and provides details about the date, place, and meeting agenda. In this case, the AI agent schedules the meeting with most relevant user \(based on collaboration and organizational context\) named Vivek. If the AI agent is not able to retrieve details of the most relevant user from Microsoft Exchange Online, details of all users whose names match Vivek are retrieved from the ServiceNow User table \[sys\_user\] and displayed, and logged-in user Manish can choose the required user.
 

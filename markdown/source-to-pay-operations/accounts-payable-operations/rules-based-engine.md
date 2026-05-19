@@ -36,5 +36,5 @@ The digitized invoice in accepted state moves to suspected duplicate state where
 
 [Invoice approvals](invoice-approvals.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](view-invoice-attachment.md)
 

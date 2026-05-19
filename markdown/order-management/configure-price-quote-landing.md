@@ -26,7 +26,7 @@ Select a link from the following table to explore CPQ tools that simplify config
 |[Pricing Management](pricing-management.md)|Manage price lists, discounts, and rules to support dynamic and region-specific pricing.|
 |[Quote Management](quote-management.md)|Manage quote creation, approval, and delivery.|
 |[Advanced Approval Management](explore-advanced-approval-for-sales.md)|Define workflows for approving sales entities, such as customer quotes, in your sales organization.|
-|[Customer Contracts and Entitlements](../../post-sales-support/concept/exploring-post-sales-support.md)|Standardize, organize, manage, and use contracts and entitlements.|
+|[Customer Contracts and Entitlements](exploring-post-sales-support.md)|Standardize, organize, manage, and use contracts and entitlements.|
 |[Sales Agreement Management](sales-agreement-mgmt.md)|Create and track contractual sales commitments.|
 
 ## What to do next

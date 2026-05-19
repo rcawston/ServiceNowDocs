@@ -52,5 +52,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\). You h
     ![Trigger condition for Repeat Detection playbook.](../image/playbook-repeat-detection-trigger.png)
 
 
-**Parent Topic:**[Playbook for Repeat Detection](../concept/playbook-repeat-detection.md)
+**Parent Topic:**[Playbook for Repeat Detection](playbook-repeat-detection.md)
 

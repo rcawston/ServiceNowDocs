@@ -125,11 +125,11 @@ Brief description of the robot.
 
 ## What to do next
 
-Install Attended Robot. For more information, see [Install Attended Robot](../../rda-runtime/task/install-rda-runtime.md).
+Install Attended Robot. For more information, see [Install Attended Robot](install-rda-runtime.md).
 
-Set up the Attended Robot application. For more information, see [Set up Attended Robot](../../rda-runtime/task/set-up-rda-runtime.md).
+Set up the Attended Robot application. For more information, see [Set up Attended Robot](set-up-rda-runtime.md).
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 **Related topics**  
 

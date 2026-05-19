@@ -29,5 +29,5 @@ Use the OAuth client credentials grant type for back-end services or automated i
 
 [Client credentials grant workflow](client-credentials-grant-workflow.md)
 
-[Configure an OAuth Client credential grant](../../machine-identity/task/configure-an-oauth-client-credential-grant.md)
+[Configure an OAuth Client credential grant](configure-an-oauth-client-credential-grant.md)
 

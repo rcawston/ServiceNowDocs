@@ -65,5 +65,5 @@ Option to specify the number of seconds taken to redirect consumer user to provi
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Using Service Exchange for providers](../concept/service-bridge-v2-administer.md)
+**Parent Topic:**[Using Service Exchange for providers](service-bridge-v2-administer.md)
 

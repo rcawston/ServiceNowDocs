@@ -19,7 +19,7 @@ Role required: admin, security\_admin, and sn\_kmf.cryptographic\_manager
 
 Code Signing must be enabled on your protected and trusted instances. You can verify by checking that the **com.snc.kmf.signature.validation.flag** system property is set to `true`.
 
-This procedure is part of a series of procedures to change a customer Root of Trust \(ROT\) on your instances. For an overview of this process, see [Change your Root of Trust configuration](../concept/change-rot-overview.md).
+This procedure is part of a series of procedures to change a customer Root of Trust \(ROT\) on your instances. For an overview of this process, see [Change your Root of Trust configuration](change-rot-overview.md).
 
 ## Procedure
 
@@ -104,5 +104,5 @@ This procedure is part of a series of procedures to change a customer Root of Tr
 
 To continue the Root of Trust configuration process, see [Disable ServiceNow Root of Trust](disable-sn-rot.md).
 
-**Parent Topic:**[Change your Root of Trust configuration](../concept/change-rot-overview.md)
+**Parent Topic:**[Change your Root of Trust configuration](change-rot-overview.md)
 

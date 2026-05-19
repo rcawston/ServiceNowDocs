@@ -25,19 +25,19 @@ You can use the following capabilities:
 
 You can use the default or add a new sourcing checkout and customize the questions in an existing sourcing checkout based on your sourcing and procurement policies.
 
--   **[Create sourcing checkout record](../task/create-sourcing-checkout-record.md)**  
+-   **[Create sourcing checkout record](create-sourcing-checkout-record.md)**  
 Create a custom checkout to use for sourcing requests for a specific product, product model, or product category.
--   **[Edit sourcing checkout record](../task/edit-sourcing-checkout-record.md)**  
+-   **[Edit sourcing checkout record](edit-sourcing-checkout-record.md)**  
 Edit the default sourcing checkout used for all sourcing requests or create a custom checkout for sourcing requests for a specific product, product model, or product category.
--   **[Configure sourcing checkout](../task/configure-sourcing-checkout.md)**  
+-   **[Configure sourcing checkout](configure-sourcing-checkout.md)**  
 As an administrator, you can configure the sourcing checkout to collect information that is relevant to a specific product, product model, or product category. You can also change the default sourcing checkout used universally. The additional information at the sourcing checkout helps understand the requirement better and enable quicker processing.
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 
 **Related topics**  
 
 
-[Configure sourcing checkout](../task/configure-sourcing-checkout.md)
+[Configure sourcing checkout](configure-sourcing-checkout.md)
 
-[Complete sourcing checkout](../task/complete-sourcing-checkout.md)
+[Complete sourcing checkout](complete-sourcing-checkout.md)
 

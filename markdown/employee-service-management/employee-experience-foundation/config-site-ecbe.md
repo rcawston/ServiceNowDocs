@@ -37,7 +37,7 @@ The Browser Extension for Employee Center lets you access your extension-support
 
 3.  In the Configured Website form, fill in the fields, and select **Submit**.
 
-    For a description of the field values, see [Website configuration form](../reference/config-website-form.md).
+    For a description of the field values, see [Website configuration form](config-website-form.md).
 
 
 ## Result

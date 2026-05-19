@@ -33,7 +33,7 @@ Role required: admin, sp\_admin, or ESC admin
 
 6.  On the form, fill in the fields.
 
-    For more information about the form fields and descriptions, see [Activity Configuration Detail form](../reference/activity-configuration-detail-form.md).
+    For more information about the form fields and descriptions, see [Activity Configuration Detail form](activity-configuration-detail-form.md).
 
 7.  Click **Submit**.
 

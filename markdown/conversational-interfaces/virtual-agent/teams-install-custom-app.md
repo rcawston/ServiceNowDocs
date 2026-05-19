@@ -68,5 +68,5 @@ Ensure that you created a bot on the Microsoft Teams tenant for each ServiceNow 
 -   [Auto-generate the manifest file for uploading on Microsoft Teams](generate-manifest-file-msteams.md).
 -   [Upload the manifest package file to publish your bot](upload-package-file-msteams.md)
 
-**Parent Topic:**[Integrating multiple ServiceNow instances with a single Microsoft Teams tenant](../concept/va-integ-single-teams.md)
+**Parent Topic:**[Integrating multiple ServiceNow instances with a single Microsoft Teams tenant](va-integ-single-teams.md)
 

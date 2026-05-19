@@ -50,5 +50,5 @@ The ability to review apps is not currently available to federal customers.
 
 Your name, company, comment, and rating are visible in the Rating and reviews section of the app details.
 
-**Parent Topic:**[Reviewing apps](../concept/reviewing-apps.md)
+**Parent Topic:**[Reviewing apps](reviewing-apps.md)
 

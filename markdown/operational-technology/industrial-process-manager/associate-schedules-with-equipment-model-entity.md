@@ -51,5 +51,5 @@ Detach an existing schedule from an equipment model entity with the Industrial P
 -   **[View a schedule for the equipment model entity](view-schedules.md)**  
 View a schedule for an existing equipment model entity in the Industrial Process Manager application.
 
-**Parent Topic:**[Managing an equipment model entity schedule](../concept/managing-equipment-entity-schedules.md)
+**Parent Topic:**[Managing an equipment model entity schedule](managing-equipment-entity-schedules.md)
 

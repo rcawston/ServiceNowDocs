@@ -41,7 +41,7 @@ The start and end dates are displayed based on the project or task status:
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -59,13 +59,13 @@ The start and end dates are displayed based on the project or task status:
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 
 [Task constraints](task-constraints-project-management.md)
 
-[View default project and project task state categories](../task/view-default-project-task-states.md)
+[View default project and project task state categories](view-default-project-task-states.md)
 
-[Customize a state for project or project task](../task/customize-project-task-states.md)
+[Customize a state for project or project task](customize-project-task-states.md)
 

@@ -58,5 +58,5 @@ Enable provider admins to define an actionable notification and send it to users
 
 All the above-mentioned capabilities are applicable only for [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md) and [Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md) providers.
 
-**Parent Topic:**[Exploring provider notification](../reference/exploring-provider-notification.md)
+**Parent Topic:**[Exploring provider notification](exploring-provider-notification.md)
 

@@ -40,5 +40,5 @@ Role required: none.
     The extension creates a file in your application on your local file system. The new file is added to your instance when you [synchronize](synchronize-files.md) your workspace.
 
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
 

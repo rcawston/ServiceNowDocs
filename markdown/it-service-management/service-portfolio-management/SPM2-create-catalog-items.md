@@ -325,5 +325,5 @@ If selected, adding an attachment is required for the catalog item.**Note:** App
     Before you submit, select **Try It** to see the result.
 
 
-**Parent Topic:**[Service offerings in Service Portfolio Management](../concept/SPM2-service-offerings.md)
+**Parent Topic:**[Service offerings in Service Portfolio Management](SPM2-service-offerings.md)
 

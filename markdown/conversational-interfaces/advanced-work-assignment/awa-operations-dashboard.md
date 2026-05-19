@@ -15,7 +15,7 @@ breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytic
 
 Enable managers to monitor work items across all service channels so that their agents can better support customer needs.
 
-This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](../../application-content-packs/concept/awa-content-pack.md).
+This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](awa-content-pack.md).
 
 The Overview tab of the Operations dashboard displays information across all queues, teams, and channels.
 

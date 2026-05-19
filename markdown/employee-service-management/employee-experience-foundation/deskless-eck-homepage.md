@@ -36,7 +36,7 @@ You can send useful information such as **Schedule** or **Article** to self as a
 3.  Sample SMS template for the schedule information.
 4.  Sample mail template for the schedule information.
 
-For more information, see [Employee Center Pro Kiosk](deskless-kiosk-overview.md) and [Configure the mail and SMS send to self](../task/deskless-kiosk-sendtoself-sms-email.md).
+For more information, see [Employee Center Pro Kiosk](deskless-kiosk-overview.md) and [Configure the mail and SMS send to self](deskless-kiosk-sendtoself-sms-email.md).
 
 **Parent Topic:**[Employee Center Pro Kiosk](deskless-kiosk-overview.md)
 

@@ -49,7 +49,7 @@ Install the SQL API plugin to enable the ODBC and JDBC drivers to connect to you
 
 ## Result
 
-The SQL API plugin is installed on your ServiceNow instance. You can proceed to [Configure SQL API plugin on your ServiceNow instance](../task/configure-sql-api-overview.md) and create service accounts, set up access control lists, and define IP filter criteria.
+The SQL API plugin is installed on your ServiceNow instance. You can proceed to [Configure SQL API plugin on your ServiceNow instance](configure-sql-api-overview.md) and create service accounts, set up access control lists, and define IP filter criteria.
 
 **Parent Topic:**[Configuring SQL API](configuring-sql-api.md)
 

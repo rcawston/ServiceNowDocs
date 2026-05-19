@@ -41,5 +41,5 @@ Limits and behaviors \(visualization\):
 
 [CPQ integration with Salesforce B2B Commerce](logik_io_integration_with_salesforce_b2b_commerce.md)
 
-[Request provisioning of an SFDC org with a CPQ environment](../task/cpq-request-provisioning-of-an-sfdc-org-with-a-servicenow-cpq-environment.md)
+[Request provisioning of an SFDC org with a CPQ environment](cpq-request-provisioning-of-an-sfdc-org-with-a-servicenow-cpq-environment.md)
 

@@ -41,5 +41,5 @@ Verify that the widget is available in your organization's Employee Center porta
 1.  Login as a user that has permissions to view or modify journeys.
 2.  Verify that the title **Team journeys** is visible.
 
-**Parent Topic:**[Employee Center \(EC\) homepage journey tabs widget](../concept/jny-dsgnr-ec-hp-widget.md)
+**Parent Topic:**[Employee Center \(EC\) homepage journey tabs widget](jny-dsgnr-ec-hp-widget.md)
 

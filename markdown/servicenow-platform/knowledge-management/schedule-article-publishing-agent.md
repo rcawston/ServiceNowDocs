@@ -22,7 +22,7 @@ You must have contribute access to the knowledge base that stores the knowledge 
 Ensure that the system administrator verifies the following settings:
 
 -   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated. For more information, see [Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md).
--   The article versioning feature is enabled. For more information, see [Article versioning](../concept/article-versioning.md).
+-   The article versioning feature is enabled. For more information, see [Article versioning](article-versioning.md).
 
 **Note:** You can also schedule a knowledge article for publishing from the Knowledge Management application in the ServiceNow AI Platform interface. For more information, see [Schedule a knowledge article for publishing](schedule-article-publishing.md).
 
@@ -66,5 +66,5 @@ The knowledge article is published on the scheduled publish date depending on th
 
 [Edit a knowledge article in Agent Workspace](edit-article-workspace-1.md)
 
-[Knowledge workflows](../reference/r_KnowledgeWorkflows.md#)
+[Knowledge workflows](r_KnowledgeWorkflows.md#)
 

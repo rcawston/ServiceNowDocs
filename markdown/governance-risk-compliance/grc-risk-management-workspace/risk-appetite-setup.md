@@ -17,11 +17,11 @@ You can configure the risk appetite feature in the Advanced Risk application.
 
 Follow the order of the tasks to configure the risk appetite feature in the Advanced Risk application.
 
--   **[Configure a risk appetite and tolerance in Advanced Risk](../task/configure-risk-appetite.md)**  
+-   **[Configure a risk appetite and tolerance in Advanced Risk](configure-risk-appetite.md)**  
 Set up the advanced risk assessment properties so that you can configure and customize the risk appetite and tolerance in the Advanced Risk application.
--   **[Set up a risk appetite scale](../task/set-up-risk-appetite-scale.md)**  
+-   **[Set up a risk appetite scale](set-up-risk-appetite-scale.md)**  
 Set up a risk appetite scale in the Advanced Risk application to define the qualitative risk appetite within your organization.
--   **[Change a risk appetite status](../task/change-risk-appetite-status.md)**  
+-   **[Change a risk appetite status](change-risk-appetite-status.md)**  
 Change the default name, color, and icon that appear for the risk appetite status in the Advanced Risk application.
 
 **Parent Topic:**[Configuring Risk Management](configure-risk-mgmt.md)

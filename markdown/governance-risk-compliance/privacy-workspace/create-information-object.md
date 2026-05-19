@@ -49,5 +49,5 @@ Role required: sn\_privacy.admin
 
 Once the information object is created, you can see the Processing activities and Information object categories related lists.
 
-**Parent Topic:**[Manage the Privacy Management library](../concept/privacy-library-setup.md)
+**Parent Topic:**[Manage the Privacy Management library](privacy-library-setup.md)
 

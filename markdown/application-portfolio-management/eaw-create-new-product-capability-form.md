@@ -73,7 +73,7 @@ A broader classification that groups similar capabilities together.
 **Related topics**  
 
 
-[Create a product capability and associate it with a business application](../../task/eaw-task/eaw-create-new-product-capability-and-assoc-with-ba.md)
+[Create a product capability and associate it with a business application](eaw-create-new-product-capability-and-assoc-with-ba.md)
 
-[Exploring product capabilities](../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
+[Exploring product capabilities](eaw-exploring-product-capabilities.md)
 

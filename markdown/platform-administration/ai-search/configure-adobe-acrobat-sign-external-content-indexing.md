@@ -120,5 +120,5 @@ Your connector admin needs these items to configure an Adobe Acrobat Sign extern
 
 For details on creating and configuring a Adobe Acrobat Sign external content connector, see [Create an Adobe Acrobat Sign external content connector](create-ext-cont-connector-adobe-acrobat-sign.md).
 
-**Parent Topic:**[Adobe Acrobat Sign external content connector](../concept/adobe-acrobat-sign-external-content-connector.md)
+**Parent Topic:**[Adobe Acrobat Sign external content connector](adobe-acrobat-sign-external-content-connector.md)
 

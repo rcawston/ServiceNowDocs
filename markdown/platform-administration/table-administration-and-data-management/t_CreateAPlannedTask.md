@@ -40,5 +40,5 @@ To modify the planned task interceptor:
     ![Related List form](../image/PTaskInterceptor2.png)
 
 
-**Parent Topic:**[Extending the Task table with Planned tasks](../concept/c_PlannedTask.md)
+**Parent Topic:**[Extending the Task table with Planned tasks](c_PlannedTask.md)
 

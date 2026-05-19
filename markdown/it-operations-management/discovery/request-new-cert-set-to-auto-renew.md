@@ -33,7 +33,7 @@ Role required: pki\_admin or admin
 
 3.  On the "request a new certificate" form, fill in the fields.
 
-    For a description of the field values, see [,](../reference/req-new-cert-form-table-fields.md).
+    For a description of the field values, see [,](req-new-cert-form-table-fields.md).
 
 4.  Select **Generate**.
 

@@ -56,10 +56,10 @@ Double-click the **Service** field for the incident and replace the team member 
 Select a new **Service** value from the list menu.Select **Save**.
 
 </td></tr></tbody>
-</table>    For value choices see [SRM incidents](../reference/sr-incidents-workspace.md).
+</table>    For value choices see [SRM incidents](sr-incidents-workspace.md).
 
     The new service is displayed in the incident list view and incident form.
 
 
-**Parent Topic:**[Working with incidents in SRM](../concept/sr-work-incidents.md)
+**Parent Topic:**[Working with incidents in SRM](sr-work-incidents.md)
 

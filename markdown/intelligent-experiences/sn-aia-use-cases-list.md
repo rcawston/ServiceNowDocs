@@ -16,13 +16,13 @@ Agentic workflows are AI‑driven workflow orchestrations that use one or more A
 
 Unlike traditional workflows that follow a fixed, predefined path, agentic workflows are designed to handle routine but variable procedures, such as investigation, remediation, and analysis, where the exact steps may differ from case to case.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](ai-native-sku-overview.md).
 
 ## Agentic workflows overview
 
-Agentic workflows use multiple AI agents to achieve specific outcomes. Different workflows offer different available tasks. Many agentic workflow templates are available for you to activate, duplicate, or customize. For more information, see [Activate an agentic workflow template](../task/activate-aia-use-case.md) and [Duplicate an agentic workflow](../task/clone-aia-usecase.md).
+Agentic workflows use multiple AI agents to achieve specific outcomes. Different workflows offer different available tasks. Many agentic workflow templates are available for you to activate, duplicate, or customize. For more information, see [Activate an agentic workflow template](activate-aia-use-case.md) and [Duplicate an agentic workflow](clone-aia-usecase.md).
 
-For more information about the in-product agentic AI experience, see [In-product agentic AI](in-product-agentic-ai.md). You can create UI actions for your agentic workflows in AI Agent Studio. Open the agentic workflow, navigate to the [Select channels and access](../task/channels-access-aw.md) step in the guided setup, and create a UI action.
+For more information about the in-product agentic AI experience, see [In-product agentic AI](in-product-agentic-ai.md). You can create UI actions for your agentic workflows in AI Agent Studio. Open the agentic workflow, navigate to the [Select channels and access](channels-access-aw.md) step in the guided setup, and create a UI action.
 
 ## What an agentic workflow does
 
@@ -394,7 +394,7 @@ Help manage public information requests
 
 </td></tr><tr><td>
 
-[Now Assist Platform](../reference/na-ai-agents.md)
+[Now Assist Platform](na-ai-agents.md)
 
 </td><td>
 

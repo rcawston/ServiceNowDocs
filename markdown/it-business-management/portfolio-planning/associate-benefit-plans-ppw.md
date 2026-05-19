@@ -53,11 +53,11 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 [Use Playbooks](use-playbooks-in-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages-activities-ppw.md)
 
 [Create and manage benefit plans](create-and-manage-benefit-plans-ppw.md)
 
-[Monetary benefit plan form](../reference/monetary-benefit-plan-form-ppw.md)
+[Monetary benefit plan form](monetary-benefit-plan-form-ppw.md)
 
-[Non-monetary benefit plan form](../reference/non-monetary-benefit-plan-form-ppw.md)
+[Non-monetary benefit plan form](non-monetary-benefit-plan-form-ppw.md)
 

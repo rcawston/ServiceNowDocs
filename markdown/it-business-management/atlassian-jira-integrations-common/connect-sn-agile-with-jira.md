@@ -20,7 +20,7 @@ When you connect Agile Development 2.0 to Jira, a webhook is registered in Jira 
 -   Creating or updating projects.
 -   Creating, updating, or deleting information of epic, story, sprint, and any custom table maps and their fields.
 
-**Parent Topic:**[Setting up the integration between Jira and Agile Development 2.0](../task/setting-up-the-integration-between-jira-and-agile-development.md)
+**Parent Topic:**[Setting up the integration between Jira and Agile Development 2.0](setting-up-the-integration-between-jira-and-agile-development.md)
 
 ## Create a Jira connection alias for integration with Agile Development 2.0
 
@@ -96,7 +96,7 @@ Role required: sn\_jira\_int.user
 
 ### What to do next
 
-[Discover and import Jira projects and boards](../task/discover-projects.md)
+[Discover and import Jira projects and boards](discover-projects.md)
 
 .
 

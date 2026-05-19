@@ -44,5 +44,5 @@ Risk event entries capture the direct and indirect losses reported due to the ri
     The loss amounts get updated on the page.
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

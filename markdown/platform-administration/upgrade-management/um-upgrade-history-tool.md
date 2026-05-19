@@ -20,7 +20,7 @@ See [Reviewing upgrade history](um-review-history.md) for more information.
 -   **[Reviewing upgrade history](um-review-history.md)**  
 The Upgrade History module tracks every upgrade made to an instance. You can also view the complete report of an old upgrade or a recently completed upgrade version using this module.
 
-**Parent Topic:**[Upgrade Console tools](../reference/um-tools.md)
+**Parent Topic:**[Upgrade Console tools](um-tools.md)
 
 **Related topics**  
 

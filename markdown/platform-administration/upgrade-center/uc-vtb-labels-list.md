@@ -28,7 +28,7 @@ If you want to change the color of an existing label, navigate to **Upgrade Cent
 
 [Upgrade Center properties](uc-properties.md)
 
-[Default skipped rules](../concept/uc-default-skipped-rules.md)
+[Default skipped rules](uc-default-skipped-rules.md)
 
 [Upgrade Center roles](uc-roles.md)
 

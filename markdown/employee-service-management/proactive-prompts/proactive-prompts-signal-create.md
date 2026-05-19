@@ -59,7 +59,7 @@ Role required: sn\_pp.admin
     -   The manager of an employee is derived from the **Manager** field in the User \[sys\_user\] table.
 12. On the **Signal Source** tab, select the data source method to retrieve the data in the **Datasource** field.
 
-    For more information, see [Types of data sources in Proactive Prompts](../reference/proactive-prompts-data-source.md).
+    For more information, see [Types of data sources in Proactive Prompts](proactive-prompts-data-source.md).
 
 13. On the **Prompt template** tab, fill in the fields.
 
@@ -105,7 +105,7 @@ Multiple record display
 
 </td><td>
 
-Template for the message to display to users when the prompt is generated for multiple records.For more information, see [Tokens in Proactive Prompts](../reference/proactive-prompts-tokens.md).
+Template for the message to display to users when the prompt is generated for multiple records.For more information, see [Tokens in Proactive Prompts](proactive-prompts-tokens.md).
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ URL
 
 </td><td>
 
-URL that the user can access in the **View details** option on the Employee Portal or **Take action** option for Virtual Agent.For more information, see [Actions and action groups in Proactive Prompts](../reference/proactive-prompts-actions.md).
+URL that the user can access in the **View details** option on the Employee Portal or **Take action** option for Virtual Agent.For more information, see [Actions and action groups in Proactive Prompts](proactive-prompts-actions.md).
 
 </td></tr></tbody>
 </table>    You've created a template that is delivered as a message in the prompt to the user.

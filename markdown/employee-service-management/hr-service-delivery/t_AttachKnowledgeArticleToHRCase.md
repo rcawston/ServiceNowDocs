@@ -70,5 +70,5 @@ Click **Attach** next to the article.**Note:** When you attach an article, its t
     You can remove an attachment by going to the **Attached Knowledge** tab and clicking **Edit...** button. From the list displayed, you can select the knowledge article to remove and click **&lt;**. Click **Save** to complete the process.
 
 
-**Parent Topic:**[HR Knowledge Management](../concept/hr-knowledge-management.md)
+**Parent Topic:**[HR Knowledge Management](hr-knowledge-management.md)
 

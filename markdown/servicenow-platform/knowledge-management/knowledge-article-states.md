@@ -15,7 +15,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 Knowledge article versions can be in one of several states as it progresses through the creation cycle.
 
-**Note:** You need to activate the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) and set the **glide.knowman.versioning.enabled** system property to `true`. For more information, [Activate the Knowledge Management Advanced plugin](../task/activate-knowledge-advanced-plugin.md) and [Article versioning properties](../reference/r_KnowledgeProperties.md#).
+**Note:** You need to activate the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) and set the **glide.knowman.versioning.enabled** system property to `true`. For more information, [Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md) and [Article versioning properties](r_KnowledgeProperties.md#).
 
 <table id="table_trn_kgl_yy"><thead><tr><th>
 

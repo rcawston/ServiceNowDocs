@@ -72,5 +72,5 @@ Okay, now you understand that requesters fill out forms to create requests and C
 
 ## Try Creator Studio on a PDI
 
-Want to play with Creator Studio on your Personal Development Instance \(PDI\)? It comes automatically installed from the Application Manager on your PDI. For more information, see [Personal developer instance guide](../../applications/concept/personal_developer_instance_guide.md).
+Want to play with Creator Studio on your Personal Development Instance \(PDI\)? It comes automatically installed from the Application Manager on your PDI. For more information, see [Personal developer instance guide](../personal_developer_instance_guide.md).
 

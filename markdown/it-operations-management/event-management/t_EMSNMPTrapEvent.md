@@ -176,17 +176,17 @@ In **Related Links**, these actions may be run against the SNMP traps listener:
 
 -   **[Configure the SNMP traps listener to receive OEM traps](configure-snmp-trap-listener.md)**  
 Configure the SNMP trap listener to receive traps from Oracle Enterprise Manager \(OEM\).
--   **[Configure SNMP Trap collection for high availability](../concept/c_EMSNMPtrapHA.md)**  
+-   **[Configure SNMP Trap collection for high availability](c_EMSNMPtrapHA.md)**  
 For SNMP traps, the MID Server requires failover configuration for the trap listener.
 -   **[Configure message keys to spread SNMP object identifiers](configure-snmp-trapkeyfilter.md)**  
 By default, most SNMP trap events are processed by a single Event Management processing job. This can negatively effect event processing. Configure message keys on the MID Server to ensure that more than one processing job is invoked, ensuring optimal SNMP trap performance.
 
-**Parent Topic:**[Configure Event Management connectors](../reference/connectors-and-listeners.md)
+**Parent Topic:**[Configure Event Management connectors](connectors-and-listeners.md)
 
 **Related topics**  
 
 
-[SNMP probe MIB modules](../../discovery/reference/r_SNMPProbeMIBModules.md)
+[SNMP probe MIB modules](../discovery/r_SNMPProbeMIBModules.md)
 
 [Configure the SNMP traps listener to receive OEM traps](configure-snmp-trap-listener.md)
 

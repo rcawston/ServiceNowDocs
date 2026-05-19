@@ -30,5 +30,5 @@ The following lists are available to view and access OT requests in the Industri
 
 You can view your OT catalog tasks in the lists available under the **OT Tasks** module. For OT catalog tasks, the **Task type** column value is **Catalog Task**.
 
-**Parent Topic:**[Using Operational Technology Request Management](../concept/using-operational-technology-request-management.md)
+**Parent Topic:**[Using Operational Technology Request Management](using-operational-technology-request-management.md)
 

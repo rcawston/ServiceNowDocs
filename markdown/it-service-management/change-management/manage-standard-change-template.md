@@ -53,7 +53,7 @@ Role required: admin, change\_manager, sn\_change\_write or itil
     -   Click **Save**. The modifications are saved but not sent for approval.
     -   Click **Request Approval**. The template is sent for approval to the change management team.
 
-**Parent Topic:**[Standard change catalog](../concept/c_StandardChangeCatalogPlugin.md)
+**Parent Topic:**[Standard change catalog](c_StandardChangeCatalogPlugin.md)
 
 **Related topics**  
 

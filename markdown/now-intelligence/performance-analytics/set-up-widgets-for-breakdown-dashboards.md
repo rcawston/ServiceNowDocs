@@ -49,19 +49,19 @@ Role required: pa\_power\_user, admin
 
     -   **Aggregate**, which shows a single, aggregate score of all selected elements.
     -   **Separate**, which shows each selected element separately.
-    Not all widget and indicator types support both views. Some types do not support selecting multiple elements at all. If it is not possible to select multiple elements for a widget/indicator combination, the field says **Not available**. For more information, see [Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md).
+    Not all widget and indicator types support both views. Some types do not support selecting multiple elements at all. If it is not possible to select multiple elements for a widget/indicator combination, the field says **Not available**. For more information, see [Showing multiple elements separately or aggregated](multi-element-select-indicator-views.md).
 
 
-**Parent Topic:**[Using breakdowns on dashboards](../concept/c_SpecialDashboards.md)
+**Parent Topic:**[Using breakdowns on dashboards](c_SpecialDashboards.md)
 
 **Related topics**  
 
 
-[Add breakdown sources to a dashboard](../../dashboards/task/t_ExistingBreakdownDashboard.md)
+[Add breakdown sources to a dashboard](t_ExistingBreakdownDashboard.md)
 
-[Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md)
+[Showing multiple elements separately or aggregated](multi-element-select-indicator-views.md)
 
-[Same breakdown on widget and dashboard](../concept/same-breakdown-widget-dashboard.md)
+[Same breakdown on widget and dashboard](same-breakdown-widget-dashboard.md)
 
-[Showing breakdown relations on dashboards](../concept/c_ShowBkdwnRltnsWdgts.md)
+[Showing breakdown relations on dashboards](c_ShowBkdwnRltnsWdgts.md)
 

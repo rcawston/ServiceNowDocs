@@ -35,7 +35,7 @@ If you later decide to use the Software Asset Workspace, you need to activate th
 
 For detailed information on configuring and using the classic Software Asset Management Foundation plugin application, refer to [Configuring the classic Software Asset Management Foundation plugin](samf-plugin-configuration.md) and [Using Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-classic.md).
 
--   **[Software Asset Management Foundation plugin roles](../reference/r_SAMRolesSAMF.md)**  
+-   **[Software Asset Management Foundation plugin roles](r_SAMRolesSAMF.md)**  
 Software Asset Management Foundation plugin adds the following roles.
 -   **[Software Asset Management Foundation plugin software discovery and normalization](c_SAMDiscoverySAMF.md)**  
 ServiceNow Discovery is used to automatically populate the Software Installations table so the software can be manually normalized and reconciled.

@@ -14,7 +14,7 @@ Platform security provides capabilities to secure the instance.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[ServiceNow Vault ![ServiceNow vault](../../../reuse/icons/brand-icons/bus-innovation.svg)](../../vault/reference/servicenow-vault-landing.md)
+[ServiceNow Vault ![ServiceNow vault](../../../reuse/icons/brand-icons/bus-innovation.svg)](servicenow-vault-landing.md)
 
  Use the ServiceNow Vault product set of data security tools that protect sensitive information from unauthorized access, corruption, or theft throughout its entire life cycle.
 
@@ -32,7 +32,7 @@ Platform security provides capabilities to secure the instance.
 
 </td></tr><tr><td>
 
-[Encryption ![Encryption](../../../reuse/icons/brand-icons/bus-security.svg)](../../security/concept/encryption-landing.md)
+[Encryption ![Encryption](../../../reuse/icons/brand-icons/bus-security.svg)](encryption-landing.md)
 
  Protect your sensitive data and stay compliant with regulatory  requirements and standards.
 
@@ -44,7 +44,7 @@ Platform security provides capabilities to secure the instance.
 
 </td><td>
 
-[Identity ![Identity](../../../reuse/icons/brand-icons/bus-observable.svg)](identity-landing.md)
+[Identity ![Identity](../../../reuse/icons/brand-icons/bus-observable.svg)](identity/identity-landing.md)
 
  Know more about the Identities in the instance.
 
@@ -54,7 +54,7 @@ Platform security provides capabilities to secure the instance.
 
 </td><td>
 
-[Additional resources for Platform Security products and solutions![Platform Security resources](../../../common/image/icon-book.png)](../reference/platsec-additional-resources.md)
+[Additional resources for Platform Security products and solutions![Platform Security resources](../../../common/image/icon-book.png)](platsec-additional-resources.md)
 
  Explore additional Platform Security resources for learning.
 

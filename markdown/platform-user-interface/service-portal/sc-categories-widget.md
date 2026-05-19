@@ -23,7 +23,7 @@ If you associate your portal with multiple catalogs, then the SC Categories widg
 
 ![Menu to select a catalog](../../../product/service-catalog-management/image/sc-categories-menu.png)
 
-For more information on associating your portal with catalogs, see [Configure a catalog in Service Portal](../task/associate-portal-catalog.md).
+For more information on associating your portal with catalogs, see [Configure a catalog in Service Portal](associate-portal-catalog.md).
 
 ## Instance options
 
@@ -147,11 +147,11 @@ Verifies with each item that the user has the right roles to view the catalog it
 
 [SC Wish List Cart widget](sc-wish-list.md)
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 
 [Access Service Catalog categories in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/access-categories-portal.md)
 

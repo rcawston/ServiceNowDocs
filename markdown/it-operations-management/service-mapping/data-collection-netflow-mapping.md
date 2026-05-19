@@ -23,11 +23,11 @@ The component, which receives data in the Netflow format is the Netflow Collecto
 
 -   **For the test purposes**
 
-    This setup results in half automated data collection flow, where Service Mapping imports data only if you manually copy it from the Netflow Collector. You place the Netflow Collector on a server inside your organization network. This must be a server different from the server hosting the MID Server. You configure and test this setup as described in [Configure onetime data import using Netflow for testing purposes](../task/test-netflow-service-mapping.md).
+    This setup results in half automated data collection flow, where Service Mapping imports data only if you manually copy it from the Netflow Collector. You place the Netflow Collector on a server inside your organization network. This must be a server different from the server hosting the MID Server. You configure and test this setup as described in [Configure onetime data import using Netflow for testing purposes](test-netflow-service-mapping.md).
 
 -   **For standard operation**
 
-    This setup results in fully automated data collection flow, where all involved components send, collect and analyze data automatically. You place the Netflow Collector on the same server as the MID Server inside your organization network. For instructions, see [Configure data collection using Netflow](../task/configure-netflow-service-mapping.md).
+    This setup results in fully automated data collection flow, where all involved components send, collect and analyze data automatically. You place the Netflow Collector on the same server as the MID Server inside your organization network. For instructions, see [Configure data collection using Netflow](configure-netflow-service-mapping.md).
 
 
 Netflow-based discovery has the following flow:

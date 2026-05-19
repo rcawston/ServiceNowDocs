@@ -60,11 +60,11 @@ Performance Analytics includes the following concepts and components:
 
     -   The Performance Analytics function of aggregating, or collecting, indicator scores over time. The indicator configuration includes the frequency with which indicator scores are collected.
     -   Statistical functions applied to collected indicator scores over a time period. For example, you can apply a 3-month SUM to indicator scores. Aggregation functions can be added either in the indicator form or later in the the Analytics Hub or widget. Aggregation functions in the Analytics Hub or widget are named time series.
--   **[Breakdown mappings](../task/create-breakdown-mapping.md#)**
+-   **[Breakdown mappings](create-breakdown-mapping.md#)**
 
     specify the relationships, or 'map,' breakdowns to indicator sources. A breakdown mapping either specifies a field on the indicator source or specifies a script that queries the indicator source. The latter is sometimes called a scripted breakdown mapping, and a breakdown with such a mapping is called a scripted breakdown.
 
--   **[Breakdown sources](../task/t_DefiningABreakdownSource.md)**
+-   **[Breakdown sources](t_DefiningABreakdownSource.md)**
 
     specify which unique values, called breakdown elements, a breakdown contains. A breakdown source is defined as a set of records from a table or database view or as a bucket group. External data is supported via Workflow Data Fabric tables. Multiple breakdowns can use the same breakdown source. For example, instead of seeing ALL assignment groups for the Number of Open Changes indicator, you can limit the element list to just those groups that are part of the change process by configuring the Breakdown Source.
 
@@ -101,7 +101,7 @@ Performance Analytics includes the following concepts and components:
 
 -   **[Put a Spotlight on records](put-spotlight-on-records.md)**  
 Use the Spotlight feature to illuminate records that you might overlook.
--   **[Try out Complimentary Performance Analytics for Incident Management](../reference/r_StUpPAInctMgmt.md)**  
+-   **[Try out Complimentary Performance Analytics for Incident Management](r_StUpPAInctMgmt.md)**  
 Complimentary Performance Analytics for Incident Management is a limited version of Performance Analytics that is included in the base system, enabling you to become familiar with the functionality. Subscribe to Performance Analytics for complete functionality.
 
 **Parent Topic:**[Exploring Performance Analytics](c_GetStartedwithPA.md)

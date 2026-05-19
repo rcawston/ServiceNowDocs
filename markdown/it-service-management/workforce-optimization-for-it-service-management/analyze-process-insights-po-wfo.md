@@ -52,7 +52,7 @@ You get the process insights and variation analysis for a parent or a child KPI.
     You can analyze the process insights for the date range for which you’ve mined the data. For more information on business insights, see [View business insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/view-business-findings.md).
 
 
-**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](../concept/teams-workforce-optimization-configurable-wfo-itsm.md)
+**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](teams-workforce-optimization-configurable-wfo-itsm.md)
 
 **Related topics**  
 

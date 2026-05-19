@@ -40,5 +40,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 The graph will display all data for the selected activity definition.
 
-**Parent Topic:**[Analyzing and getting process insights](../concept/analyze-get-process-insights.md)
+**Parent Topic:**[Analyzing and getting process insights](analyze-get-process-insights.md)
 

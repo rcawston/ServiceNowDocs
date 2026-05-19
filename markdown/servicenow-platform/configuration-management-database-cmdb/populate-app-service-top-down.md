@@ -17,12 +17,12 @@ Use top-down discovery to populate an application service. This discovery method
 
 ## Before you begin
 
--   Top-Down Discovery is one of several methods for populating an application service with CIs. Choosing a method for populating an application service, is only one step of the generic procedure for creating an application service. Ensure that you have completed the initial steps as described in [Create an application service](../../service-mapping/task/create-it-services.md). The procedure described here is incomplete by itself as it complements that generic procedure.
+-   Top-Down Discovery is one of several methods for populating an application service with CIs. Choosing a method for populating an application service, is only one step of the generic procedure for creating an application service. Ensure that you have completed the initial steps as described in [Create an application service](create-it-services.md). The procedure described here is incomplete by itself as it complements that generic procedure.
 
 -   [Verify that Service Mapping is set up properly](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/check-service-mapping-readiness-for-mapping.md).
 -   Ensure you know which entry point to use for this application service and which attributes you must be able to define for this entry point. Learn about [Entry point attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_EntryPointsforBizSvcDef.md) available with Service Mapping.
 
-For information about the different types of application services and the different methods you can use to populate application services, including using top-down discovery, see [Service instances \(Application services\)](../concept/application-services.md).
+For information about the different types of application services and the different methods you can use to populate application services, including using top-down discovery, see [Service instances \(Application services\)](application-services.md).
 
 Role required: sm\_admin
 
@@ -53,7 +53,7 @@ Entry points vary depending on the nature of the service instance. Service Mappi
 
 ## What to do next
 
-Complete the generic procedure [Create an application service](../../service-mapping/task/create-it-services.md).
+Complete the generic procedure [Create an application service](create-it-services.md).
 
 **Related topics**  
 

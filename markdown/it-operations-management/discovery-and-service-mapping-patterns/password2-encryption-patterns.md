@@ -32,5 +32,5 @@ From Quebec, Key Management Framework enables you to manage keys used for Passwo
     View the XML records in the ServiceNow AI Platform instance, and verify that the encryption looks similar to this example:![Password2 encryption](../image/password2-encryption-patterns.jpg)
 
 
-**Parent Topic:**[Configuring Pattern Designer and related applications](../reference/configuring-pattern-designer-plugins.md)
+**Parent Topic:**[Configuring Pattern Designer and related applications](configuring-pattern-designer-plugins.md)
 

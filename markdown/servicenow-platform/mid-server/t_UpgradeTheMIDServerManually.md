@@ -19,11 +19,11 @@ You can manually upgrade MID Servers at any time if you do not want to wait for 
 
 Role required: mid\_server or admin
 
-For the upgrade to run, MID servers must be in the **Up** state and must be [validated](t_ValidateAMIDServer.md). The MID Server automatically runs the [pre-upgrade test](../reference/mid-server-pre-upgrade-check.md) before upgrading. Any errors encountered during this test must be resolved for the upgrade to proceed.
+For the upgrade to run, MID servers must be in the **Up** state and must be [validated](t_ValidateAMIDServer.md). The MID Server automatically runs the [pre-upgrade test](mid-server-pre-upgrade-check.md) before upgrading. Any errors encountered during this test must be resolved for the upgrade to proceed.
 
 ## About this task
 
-The MID Server is upgraded to the version specified by build stamp on the instance, or by the [upgrade property](../reference/mid-server-version-selection.md) that you specify.
+The MID Server is upgraded to the version specified by build stamp on the instance, or by the [upgrade property](mid-server-version-selection.md) that you specify.
 
 ## Procedure
 
@@ -36,5 +36,5 @@ The MID Server is upgraded to the version specified by build stamp on the instan
 4.  Confirm that you want to perform the upgrade.
 
 
-**Parent Topic:**[MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md)
+**Parent Topic:**[MID Server upgrades](c_UpgradeAndTestMIDServer.md)
 

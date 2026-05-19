@@ -44,5 +44,5 @@ Role required: admin or app\_engine\_admin
 
 Alternatively, you can open each Creator Studio Activity record and update the **Order** one record at a time.
 
-**Parent Topic:**[Administering activities in Creator Studio](../concept/creator-studio-administering-activities.md)
+**Parent Topic:**[Administering activities in Creator Studio](creator-studio-administering-activities.md)
 

@@ -154,24 +154,24 @@ A conditional script that determines if a scheduled job should run. The last exp
 -   **[Scheduled export reference qualifiers](scheduled-export-ref-qualifiers.md)**  
 Use reference qualifiers to specify the users and groups in the recipients field of scheduled exports.
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../../dashboards/concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
 **Related topics**  
 
 
-[Create a dashboard with the in-line editor](../../dashboards/task/create-db-in-ac.md)
+[Create a dashboard with the in-line editor](create-db-in-ac.md)
 
-[Edit Platform Analytics dashboards](../../dashboards/task/edit-db-in-ac.md)
+[Edit Platform Analytics dashboards](edit-db-in-ac.md)
 
-[Share a Platform Analytics dashboard](../../dashboards/task/share-db-in-ac.md)
+[Share a Platform Analytics dashboard](share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](duplicate-db.md#)
 
-[Print a Platform Analytics dashboard](../../dashboards/task/printer-friendly-db-ac.md)
+[Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
 
-[Export a Platform Analytics dashboard](../../dashboards/task/export-pae-dashboard-ppt.md)
+[Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
 
-[Bookmark a Platform Analytics dashboard](../../dashboards/task/bookmark-dashboard-ac.md)
+[Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
 
-[Delete a Platform Analytics dashboard](../../dashboards/task/delete-db-in-ac.md)
+[Delete a Platform Analytics dashboard](delete-db-in-ac.md)
 

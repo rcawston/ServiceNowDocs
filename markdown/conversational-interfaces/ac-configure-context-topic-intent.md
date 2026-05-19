@@ -115,5 +115,5 @@ Chat context variable that stores the user response to a specific survey questio
 
 The context topic intent configuration is added to the Context Topic \[sys\_cs\_context\_topic\] table. Virtual Agent displays the appropriate conversation topic to users based on the context intent configuration.
 
-**Parent Topic:**[Using pre-chat surveys with context variables for topic discovery](../concept/using-context-intent-prechat-survey.md)
+**Parent Topic:**[Using pre-chat surveys with context variables for topic discovery](using-context-intent-prechat-survey.md)
 

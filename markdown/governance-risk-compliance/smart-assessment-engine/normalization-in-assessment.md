@@ -33,7 +33,7 @@ Learn how normalization adjusts individual assessment scores to a common scale, 
 
 ## Default Normalization
 
-A template's purpose determines its default normalization settings, including whether normalization is enabled and which normalization strategy is used. Changing the purpose resets normalization settings, but reassigning the purpose is required to update template values. You can define a default normalization configuration and apply it automatically at various levels within an assessment, including the assessment itself, sections, subsections, and individual questions. The Linear normalization strategy is available by default. You can also create a custom normalization strategy. For more information, refer to [Create a normalization strategy](../task/create-a-normalization-strategy.md).
+A template's purpose determines its default normalization settings, including whether normalization is enabled and which normalization strategy is used. Changing the purpose resets normalization settings, but reassigning the purpose is required to update template values. You can define a default normalization configuration and apply it automatically at various levels within an assessment, including the assessment itself, sections, subsections, and individual questions. The Linear normalization strategy is available by default. You can also create a custom normalization strategy. For more information, refer to [Create a normalization strategy](create-a-normalization-strategy.md).
 
 ## Normalization configuration behavior
 

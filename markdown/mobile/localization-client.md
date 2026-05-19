@@ -13,7 +13,7 @@ breadcrumb: [Localization, Before implementation, Configuration detail, Configur
 
 Add customized client-side translations to extend language support on your mobile device. You can include languages beyond those natively supported by the ServiceNow AI Platform base system.
 
-The ServiceNow AI Platform provides translations for multiple languages on your mobile device. These supported languages are listed in the topic [Native localization](../reference/localization-native.md). You can add and customize additional client-side languages using the Mobile Custom Localization ServiceNow Store app.
+The ServiceNow AI Platform provides translations for multiple languages on your mobile device. These supported languages are listed in the topic [Native localization](localization-native.md). You can add and customize additional client-side languages using the Mobile Custom Localization ServiceNow Store app.
 
 **Note:** The Mobile Custom Localization app is available from the 20.6.0 mobile client release.
 

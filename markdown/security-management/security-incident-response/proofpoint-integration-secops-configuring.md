@@ -17,11 +17,11 @@ Configure your implementation of the Proofpoint Integration for Security Operati
 
 ## Configuration overview
 
-1.  [Install and configure the Proofpoint Integration](../task/proofppoint-integration-secops-install.md).
+1.  [Install and configure the Proofpoint Integration](proofppoint-integration-secops-install.md).
 
     Download, install and activate the integration application.
 
-2.  [Create an event profile for the Proofpoint Integration for Security Operations](../task/proofpoint-integration-secops-create-profile.md).
+2.  [Create an event profile for the Proofpoint Integration for Security Operations](proofpoint-integration-secops-create-profile.md).
 
     Create an event profile to identify the events you want to import from the Proofpoint product and the conditions you want to use to create security incidents from the imported data.
 

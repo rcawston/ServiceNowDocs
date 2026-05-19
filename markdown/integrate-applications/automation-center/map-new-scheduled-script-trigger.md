@@ -51,5 +51,5 @@ An insight rule does not run unless it is mapped to an insight trigger.
 **Related topics**  
 
 
-[Automation Scheduled Trigger Execution form](../reference/auto-sched-trigger-exe-form.md)
+[Automation Scheduled Trigger Execution form](auto-sched-trigger-exe-form.md)
 

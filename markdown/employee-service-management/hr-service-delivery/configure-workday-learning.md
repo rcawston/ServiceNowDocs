@@ -24,5 +24,5 @@ Pull Workday learning tasks or to-dos on regular scheduled basis or on manual ba
 
 ## Schedule flow activation
 
-Activate and run the Trigger Workday Learning Integration that pulls tasks into ServiceNow. For more information, see [Activate schedule flows](../task/activating-flows-workday-learning.md).
+Activate and run the Trigger Workday Learning Integration that pulls tasks into ServiceNow. For more information, see [Activate schedule flows](activating-flows-workday-learning.md).
 

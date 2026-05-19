@@ -17,9 +17,9 @@ Field information for forms used in the Project Workspace application.
 
 -   **[Action form of Project Workspace](action-form-project-workspace.md)**  
 Learn about the fields on the Action form of the Project Workspace. Use this form to add an action to your projects.
--   **[Create cost plan form](../../pw-financials/reference/create-cost-plan-form-prj-wrkspc.md)**  
+-   **[Create cost plan form](create-cost-plan-form-prj-wrkspc.md)**  
 Use this form to create cost plans for your planning items.
--   **[Create expense line form](../../pw-financials/reference/create-exp-line-form-prj-wrkspc.md)**  
+-   **[Create expense line form](create-exp-line-form-prj-wrkspc.md)**  
 Use this form to create expense lines for your actual expense.
 -   **[Create status report form](create-status-report-form.md)**  
 Learn about the fields on the Create status report form of the Project Workspace. Use this form to create a new status report according to your requirement. The following are the heads in a report created using the Default status report template. A report created using the One-page status report template has fewer information heads.
@@ -37,7 +37,7 @@ Learn about the fields on the project form of the Project Workspace. Use this fo
 Learn about the fields on the Request change form of the Project Workspace. Use this form to add a change request to your projects.
 -   **[Risk form of Project Workspace](risk-form-project-workspace.md)**  
 Learn about the fields on the Risk form of the Project Workspace. Use this form to add risk to your projects.
--   **[Resource assignment form](../../pw-resource-management/reference/pw-resource-assignment-form.md)**  
+-   **[Resource assignment form](pw-resource-assignment-form.md)**  
 Use this form to create resource assignments from Project Workspace.
 
 **Parent Topic:**[Project Workspace reference](project-workspace-reference.md)

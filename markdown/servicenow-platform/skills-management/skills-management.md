@@ -23,19 +23,19 @@ Use Skills Management to associate skills with individual users or groups and as
 
 <table id="table_czt_xvp_vyb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you can implement and manage skills for individuals or teams.](../concept/exploring-skills-management.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you can implement and manage skills for individuals or teams.](exploring-skills-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](../concept/configuring-skills-management.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configuring-skills-management.md)
 
 </td></tr><tr><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Implement skills across your organization.](../concept/using-skills-management.md)
+[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Implement skills across your organization.](using-skills-management.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about roles and extension points in Skills Management.](../concept/reference-for-skills-management.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about roles and extension points in Skills Management.](reference-for-skills-management.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

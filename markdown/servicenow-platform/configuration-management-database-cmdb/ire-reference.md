@@ -21,15 +21,15 @@ Reference topics provide property settings, domain separation, and other referen
 
     How domain separation is supported in IRE to let you separate data, processes, and administrative tasks by domains in your organization.
 
--   **[Properties for Identification and Reconciliation](../reference/properties-id-reconciliation.md)**
+-   **[Properties for Identification and Reconciliation](properties-id-reconciliation.md)**
 
     Properties that you can adjust to manage different aspects of how IRE functions.
 
--   **[IRE error messages](../reference/id-engine-error-messages.md)**
+-   **[IRE error messages](id-engine-error-messages.md)**
 
     Errors and messages that the Identification and Reconciliation Engine \(IRE\) generates.
 
--   **[Components installed with Identification and Reconciliation](../reference/r_IWIdentAndReconcil.md)**
+-   **[Components installed with Identification and Reconciliation](r_IWIdentAndReconcil.md)**
 
     Details about tables associated with IRE.
 

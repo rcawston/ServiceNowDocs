@@ -31,7 +31,7 @@ Configure the individual users and the user groups who can access your instance.
 
 </td></tr><tr><td>
 
-[User roles and FSO Business rules](../reference/fso-core-roles.md)
+[User roles and FSO Business rules](fso-core-roles.md)
 
 </td><td>
 

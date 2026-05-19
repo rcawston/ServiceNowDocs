@@ -19,14 +19,14 @@ To find the ServiceNow developer products and information that are right for you
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[I am comfortable coding ![](../image/icon-developer.png) Build ServiceNow apps with custom code.](../wizard/test-dev-pro.md)
+[I am comfortable coding ![](../image/icon-developer.png) Build ServiceNow apps with custom code.](test-dev-pro.md)
 
 </td><td>
 
-[I do not code or write scripts ![](../image/icon-user.png) Build ServiceNow apps within a low code environment.](../wizard/test-dev-low-code.md)
+[I do not code or write scripts ![](../image/icon-user.png) Build ServiceNow apps within a low code environment.](test-dev-low-code.md)
 
 </td></tr></tbody>
 </table>## App Engine developer products
 
-For a list of App Engine developer products, see [App Engine products and offerings](../../applications/concept/app-engine-products-offerings.md).
+For a list of App Engine developer products, see [App Engine products and offerings](app-engine-products-offerings.md).
 

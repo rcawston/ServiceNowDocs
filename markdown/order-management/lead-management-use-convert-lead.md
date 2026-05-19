@@ -59,7 +59,7 @@ Opportunity
 
 </td><td>
 
-Details to create an opportunity. To learn more, see [Create an opportunity](../concept/create-new-opportunity.md).-   Create new: Select if you want to create a new opportunity.
+Details to create an opportunity. To learn more, see [Create an opportunity](create-new-opportunity.md).-   Create new: Select if you want to create a new opportunity.
 -   Choose existing: Select if you already have an existing opportunity.
 **Note:** Select the check box if you don't want to create an opportunity for the lead.
 
@@ -90,7 +90,7 @@ Opportunity
 
 </td><td>
 
-Details to create an opportunity. To learn more, see [Create an opportunity](../concept/create-new-opportunity.md).-   Create new: Select if you want to create a new opportunity.
+Details to create an opportunity. To learn more, see [Create an opportunity](create-new-opportunity.md).-   Create new: Select if you want to create a new opportunity.
 -   Choose existing: Select if you already have an existing opportunity.
 **Note:** Select the check box if you don't want to create an opportunity for the lead.
 
@@ -100,5 +100,5 @@ Details to create an opportunity. To learn more, see [Create an opportunity](../
     A dialog box appears for the successful conversion of your lead into an opportunity. You can select the new opportunity record that was created.
 
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](lead-management-using.md)
 

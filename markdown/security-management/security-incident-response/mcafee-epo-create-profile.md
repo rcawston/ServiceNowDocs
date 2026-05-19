@@ -112,7 +112,7 @@ The check box is selected by default to indicate that the profile is active. Whe
 
 ## What to do next
 
-The next step is to configure your profile. Before you configure the settings for the profile, you may prefer to review the concepts for configuring profiles and triggering conditions. See [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](mcafee-epo-setup-mcafee.md) and [Defining triggering conditions with a Configuration item \(CI\) field](../concept/mcafee-epo-alternate-ci.md) for more information.
+The next step is to configure your profile. Before you configure the settings for the profile, you may prefer to review the concepts for configuring profiles and triggering conditions. See [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](mcafee-epo-setup-mcafee.md) and [Defining triggering conditions with a Configuration item \(CI\) field](mcafee-epo-alternate-ci.md) for more information.
 
-**Parent Topic:**[McAfee ePO integration capability profiles](../concept/mcafee-epo-creating-profiles.md)
+**Parent Topic:**[McAfee ePO integration capability profiles](mcafee-epo-creating-profiles.md)
 

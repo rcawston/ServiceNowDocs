@@ -19,7 +19,7 @@ When code review is enabled, pushing a change to the parent instance triggers th
 
 For each change, reviewers can see the following information.
 
--   Which [remote instance](../task/t_DefineARemoteInstance.md) the pushed change comes from.
+-   Which [remote instance](t_DefineARemoteInstance.md) the pushed change comes from.
 -   Who pushed the change to the parent.
 -   What the change is called.
 -   When the change was created.

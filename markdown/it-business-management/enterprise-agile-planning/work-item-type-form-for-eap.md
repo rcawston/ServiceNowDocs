@@ -71,7 +71,7 @@ Select **EAP planning item**.
 **Related topics**  
 
 
-[Create a custom work item type in EAP](../task/create-custom-work-item-type-in-eap.md)
+[Create a custom work item type in EAP](create-custom-work-item-type-in-eap.md)
 
-[Agile configurations in EAP](../concept/agile-configurations-in-eap.md)
+[Agile configurations in EAP](agile-configurations-in-eap.md)
 

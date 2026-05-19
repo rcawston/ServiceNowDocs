@@ -15,7 +15,7 @@ breadcrumb: [Building pro-code applications, Developing your application, Buildi
 
 Guided Application Creator is a legacy development interface for building applications.
 
-Starting with the Australia release, Guided Application Creator is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. ServiceNow Studio provides the latest experience for this functionality. For more information, see [ServiceNow Studio and legacy products](../../servicenow-studio/concept/servicenow-studio-and-legacy-products.md) and [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Starting with the Australia release, Guided Application Creator is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. ServiceNow Studio provides the latest experience for this functionality. For more information, see [ServiceNow Studio and legacy products](../servicenow-studio-classic/servicenow-studio-and-legacy-products.md) and [ServiceNow Studio](../servicenow-studio-classic/servicenow-studio-landing.md).
 
-**Parent Topic:**[Building pro-code applications](../../custom-application/reference/building-pro-code-applications.md)
+**Parent Topic:**[Building pro-code applications](../building-pro-code-applications.md)
 

@@ -40,7 +40,7 @@ The call to the Trigger Smart Assessment action is now part of the script.
 
 ## What to do next
 
-Specify the required and optional input settings for the action. The settings are defined on the Trigger Smart Assessment action form and are described in [Trigger Smart Assessment action form](../reference/sae-smart-asmnt-action-form.md).
+Specify the required and optional input settings for the action. The settings are defined on the Trigger Smart Assessment action form and are described in [Trigger Smart Assessment action form](sae-smart-asmnt-action-form.md).
 
 **Related topics**  
 

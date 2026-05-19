@@ -101,5 +101,5 @@ Default normalization strategy applied for assessment templates in this category
 
 The assessment template category appears in the list of categories that can be specified when designing an assessment template in the Digital Factory Workspace.
 
-**Parent Topic:**[Using templates to create standards](../concept/creating-standards-from-templates.md)
+**Parent Topic:**[Using templates to create standards](creating-standards-from-templates.md)
 

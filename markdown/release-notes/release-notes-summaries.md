@@ -19,30 +19,30 @@ In the Australia family, ServiceNow® features and products were introduced or u
 
 To help users look over different classes of information at a glance, each release notes section has its own summary topic. For example, the aggregates all browser requirements for features that were introduced or updated in Australia.
 
--   **[Highlights for all Australia features and products](summary/rn-summary-highlights.md)**  
+-   **[Highlights for all Australia features and products](rn-summary-highlights.md)**  
 Cumulative release notes summary on highlights of Australia features and products.
--   **[Upgrade information for all Australia features and products](summary/rn-summary-upgrade-info.md)**  
+-   **[Upgrade information for all Australia features and products](rn-summary-upgrade-info.md)**  
 Cumulative release notes summary on upgrade information for Australia features and products.
--   **[New features and products in Australia](summary/rn-summary-new-features.md)**  
+-   **[New features and products in Australia](rn-summary-new-features.md)**  
 Cumulative release notes summary on new Australia features and products.
--   **[Changes to Australia features and products](summary/rn-summary-changes.md)**  
+-   **[Changes to Australia features and products](rn-summary-changes.md)**  
 Cumulative release notes summary on changes to Australia features and products.
--   **[Removed features and products in Australia](summary/rn-summary-removed-features.md)**  
+-   **[Removed features and products in Australia](rn-summary-removed-features.md)**  
 Cumulative release notes summary on features that were removed from Australia features and products.
--   **[Deprecation information for all Australia features and products](summary/rn-summary-deprecated-info.md)**  
+-   **[Deprecation information for all Australia features and products](rn-summary-deprecated-info.md)**  
 Cumulative release notes summary on deprecation information for Australia features and products.
--   **[Activation information for all Australia features and products](summary/rn-summary-activation-info.md)**  
+-   **[Activation information for all Australia features and products](rn-summary-activation-info.md)**  
 Cumulative release notes summary on activation information for Australia features and products.
--   **[Additional requirements for all Australia features and products](summary/rn-summary-addtl-reqs.md)**  
+-   **[Additional requirements for all Australia features and products](rn-summary-addtl-reqs.md)**  
 Cumulative release notes summary on additional requirements for Australia features and products.
--   **[Browser requirements for all Australia features and products](summary/rn-summary-browser-reqs.md)**  
+-   **[Browser requirements for all Australia features and products](rn-summary-browser-reqs.md)**  
 Cumulative release notes summary on browser requirements for Australia features and products.
--   **[Accessibility information for all Australia features and products](summary/rn-summary-accessibility.md)**  
+-   **[Accessibility information for all Australia features and products](rn-summary-accessibility.md)**  
 Cumulative release notes summary on accessibility information for Australia features and products. Some products have specific accessibility information or exceptions.
--   **[Product localization information in Australia](summary/rn-summary-localization.md)**  
+-   **[Product localization information in Australia](rn-summary-localization.md)**  
 Cumulative release notes summary on new Australia features and products.
--   **[Plugin information for all Australia features and products](summary/rn-summary-plugin-info.md)**  
+-   **[Plugin information for all Australia features and products](rn-summary-plugin-info.md)**  
 Cumulative release notes summary on plugin information for Australia features and products.
 
-**Parent Topic:**[Release notes for upgrading from Zurich](concept/rn-n-1-landing-page.md)
+**Parent Topic:**[Release notes for upgrading from Zurich](rn-n-1-landing-page.md)
 

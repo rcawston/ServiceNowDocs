@@ -35,7 +35,7 @@ See [Headless Browser for ATF](https://github.com/ServiceNow/atf-headless-runner
 The ServiceNow® Headless Browser for Automated Test Framework provides automation so you can skip having to manually open a browser during testing. The Headless Browser setup is available in both Linux and Microsoft Windows. This topic covers the setup for Linux.
 -   **[Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md)**  
 The ServiceNow® Headless Browser for Automated Test Framework \(ATF\) provides automation so you can skip having to manually open a browser during testing. The Headless Browser setup is available in both Linux and Microsoft Windows. This topic covers the setup for Windows.
--   **[Headless Browser system properties](../reference/atf-headless-browser-properties.md)**  
+-   **[Headless Browser system properties](atf-headless-browser-properties.md)**  
 Below is a table of the properties you must have as you set up the ServiceNow® Headless Browser for Automated Test Framework.
 -   **[Headless Browser troubleshooting](headless-browser-troubleshoot.md)**  
 These tips can help you troubleshoot your Linux or Microsoft Windows setup of the ServiceNow® Headless Browser for Automated Test Framework.

@@ -15,7 +15,7 @@ breadcrumb: [Run, Automated Test Framework \(ATF\) reference, Automated Test Fra
 
 The Scheduled Client Test Run opens a browser window for running scheduled client automated tests.
 
-For information about scheduling automated tests, see [Schedule an automated test suite](../task/atf-sched-suite-steps.md) and [Working with scheduled test suites](../concept/atf-sched-suites.md#). You can toggle a client test runner to act as either a manual or scheduled client test runner.
+For information about scheduling automated tests, see [Schedule an automated test suite](atf-sched-suite-steps.md) and [Working with scheduled test suites](atf-sched-suites.md#). You can toggle a client test runner to act as either a manual or scheduled client test runner.
 
 <table id="table_vtz_r4g_sz"><thead><tr><th>
 
@@ -43,7 +43,7 @@ Choose among:-   Enable for all steps
 -   Enable for failed steps
 -   Disable for all steps
 
-For additional information, see [Set the system property to control when the Automated Test Framework captures screenshots](../concept/atf-screenshot-modes.md#)
+For additional information, see [Set the system property to control when the Automated Test Framework captures screenshots](atf-screenshot-modes.md#)
 
 </td></tr><tr><td>
 
@@ -55,5 +55,5 @@ Click to toggle between:-   On \(green\): Use this client test runner to run onl
 -   Off \(gray\): Use this client test runner to run only manually-started tests and suites.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Run](../concept/run-module.md)
+</table>**Parent Topic:**[Run](run-module.md)
 

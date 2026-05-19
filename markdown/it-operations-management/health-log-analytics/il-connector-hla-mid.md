@@ -32,7 +32,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-You set up integrations through the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/integrations-launchpad.md).
+You set up integrations through the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](../service-operations-workspace-for-itom-apps/integrations-launchpad.md).
 
 ## Procedure
 
@@ -54,11 +54,11 @@ You set up integrations through the Integrations Launchpad in Service Operations
 
 6.  On the **Provide details** form, fill in the fields.
 
-    For a description of the fields, see the **Provide details** table in [MID Server integration configuration fields](../reference/il-connector-hla-mid-fields.md).
+    For a description of the fields, see the **Provide details** table in [MID Server integration configuration fields](il-connector-hla-mid-fields.md).
 
 7.  Select **Advanced Settings** and fill in the fields.
 
-    For a description of the fields, see the **Advanced Settings** table in [MID Server integration configuration fields](../reference/il-connector-hla-mid-fields.md).
+    For a description of the fields, see the **Advanced Settings** table in [MID Server integration configuration fields](il-connector-hla-mid-fields.md).
 
 8.  Do one of the following:
 
@@ -77,9 +77,9 @@ On the **Overview** tab, do the following:
 
 -   Use the displayed information to refine how Health Log Analytics reads the log data. For more information, see [Review log streaming data and adjust integration settings in Health Log Analytics](il-connector-overview-tab.md).
 -   Use the More options menu \(![More options menu icon.](../image/more-options.png)\) to open the **Data Input Mapping**, **Source Type Structures**, or **Log Sources** pages with context from the integration. If your log data is not properly mapped, structured, or sourced, go back and adjust the configuration. If the Service Operations Workspace Log Analytics application is installed, the More options menu also provides direct access to the **Log Viewer**. Use the **Log Viewer** to review raw log messages ingested by the integration. For more information, see:
-    -   [Log data auto-mapping and mapping](../concept/hla-data-input-automapping.md)
-    -   [Source type structure adjustment](../concept/hla-source-type-structure-adjustment.md)
-    -   [Review logs on the Log Viewer](../../health-log-analytics-operator/concept/hla-op-logs-log-viewer-concept-sow.md)
+    -   [Log data auto-mapping and mapping](hla-data-input-automapping.md)
+    -   [Source type structure adjustment](hla-source-type-structure-adjustment.md)
+    -   [Review logs on the Log Viewer](../service-operations-workspace-for-itom-apps/hla-op-logs-log-viewer-concept-sow.md)
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](../concept/hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)
 

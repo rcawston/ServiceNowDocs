@@ -185,7 +185,7 @@ Option to search and select a user group to escalate DLP incidents to. This fiel
 -   **[Add multiple users to access DLP incidents](add-multiple-users-to-access-dlp-incidents.md)**  
 Use the escalation chain feature to allow all the respective users who are involved in the incident to access the DLP incidents from the list view, though the incident is assigned to a different user.
 
-**Parent Topic:**[DLP Incident Response Administration](../concept/data-loss-prevention-administration.md)
+**Parent Topic:**[DLP Incident Response Administration](data-loss-prevention-administration.md)
 
 **Related topics**  
 
@@ -222,13 +222,13 @@ Use the escalation chain feature to allow all the respective users who are invol
 
 [Create additional incident data fields](create-custom-fields-dlp.md)
 
-[DLP SLA Definition form](../reference/dlp-sla-def-properties.md)
+[DLP SLA Definition form](dlp-sla-def-properties.md)
 
 [Configure advanced settings](configure-advanced-settings-dlp.md)
 
-[Monitor DLP Integration Run process](../../dlp-microsoft/concept/configure-microsoft-dlp-integration-run-process.md)
+[Monitor DLP Integration Run process](configure-microsoft-dlp-integration-run-process.md)
 
-[DLP Incident Access Restrictions](../concept/dlp-incident-access-restrictions.md)
+[DLP Incident Access Restrictions](dlp-incident-access-restrictions.md)
 
 [DLP Incidents Archival](dlp-archiving-rule.md)
 

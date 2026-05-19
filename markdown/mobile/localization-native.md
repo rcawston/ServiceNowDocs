@@ -47,5 +47,5 @@ The on-device localization supports the following languages:
 
 These translations can't be customized because they're built into the app and automatically translated based on your device's language settings.
 
-**Parent Topic:**[Localization on mobile devices](../concept/localization-mobile-device.md)
+**Parent Topic:**[Localization on mobile devices](localization-mobile-device.md)
 

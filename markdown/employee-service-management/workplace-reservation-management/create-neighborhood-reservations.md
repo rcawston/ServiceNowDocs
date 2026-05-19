@@ -216,12 +216,12 @@ Reserve multiple workplace items spanning multiple buildings. The buildings time
     If any of the items don't require approval, the selected workplace items are reserved. The status of the request is updated to **Confirmed**. If any of the items need approval, your request is submitted for approval. The status of the request is updated to **Awaiting approval**.
 
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -235,7 +235,7 @@ Reserve multiple workplace items spanning multiple buildings. The buildings time
 
 [Create multi-building reservations](create-multi-building-reservation.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

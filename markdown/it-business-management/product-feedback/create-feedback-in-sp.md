@@ -69,7 +69,7 @@ From the feedback page:-   Select the existing filter card you prefer for compos
 </td></tr></tbody>
 </table>4.  On the form, fill in the fields.
 
-    For more information on fields and description, see [Feedback form](../reference/feedback-form.md).
+    For more information on fields and description, see [Feedback form](feedback-form.md).
 
 5.  Select **Submit**.
 

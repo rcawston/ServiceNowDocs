@@ -193,7 +193,7 @@ Date when the factor is run again. This field is automatically set based on the 
 
 The factor is published and is ready for use in a Risk Assessment Methodology.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 
 **Related topics**  
 

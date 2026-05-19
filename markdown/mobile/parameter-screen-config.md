@@ -79,7 +79,7 @@ Available offline
 
 </td><td>
 
-Option to make the input form screen is available in offline mode. For details on offline mode, see [Offline mode](../concept/mobile-offline-mode.md).
+Option to make the input form screen is available in offline mode. For details on offline mode, see [Offline mode](mobile-offline-mode.md).
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Track timestamps for input updates
 
 </td><td>
 
-Option to add timestamps for inputted data. For example, use this option to track inputs from various users within an input form screen. The timestamp data is extracted using scripted code of the action item type “script”. For an example script to demonstrate how to extract timestamp data, see [Using timestamps to track user changes in an input form](../reference/track-timestamp-script.md).
+Option to add timestamps for inputted data. For example, use this option to track inputs from various users within an input form screen. The timestamp data is extracted using scripted code of the action item type “script”. For an example script to demonstrate how to extract timestamp data, see [Using timestamps to track user changes in an input form](track-timestamp-script.md).
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ Fetch Type
 
 </td><td>
 
-Fetch type settings determine when data is loaded in screens. Change your fetch type to optimize load time performance for your screens. Select from **Background**, **Dynamic prefetch**, **On-demand**, or **Prefetch** as required for your setup. For more information about these options, see [Mobile fetch types](../reference/applet-fetch-types.md).
+Fetch type settings determine when data is loaded in screens. Change your fetch type to optimize load time performance for your screens. Select from **Background**, **Dynamic prefetch**, **On-demand**, or **Prefetch** as required for your setup. For more information about these options, see [Mobile fetch types](applet-fetch-types.md).
 
 </td></tr><tr><td>
 
@@ -153,7 +153,7 @@ Header Card
 
 </td><td>
 
-An optional mobile view to display at the top of your input form screen. There can only be one header card for each input form screen. Select **Choose** to add an existing header card, or select **New** to configure one. For more information on view configuration, see [Understanding mobile cards and legacy cards](../reference/mcb-itemvew-v-viewconfig.md).**Note:** The header card supports buttons for navigation purposes only. Buttons can be used to navigate to another screen. Any other button functionality is not supported within the header card.
+An optional mobile view to display at the top of your input form screen. There can only be one header card for each input form screen. Select **Choose** to add an existing header card, or select **New** to configure one. For more information on view configuration, see [Understanding mobile cards and legacy cards](mcb-itemvew-v-viewconfig.md).**Note:** The header card supports buttons for navigation purposes only. Buttons can be used to navigate to another screen. Any other button functionality is not supported within the header card.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -274,7 +274,7 @@ UI rules
 
 </td><td>
 
-Define what elements of the mobile interface displays and which fields update when certain conditions are met. For more information, see [Mobile UI Rules](../concept/mobile-ui-rules.md).
+Define what elements of the mobile interface displays and which fields update when certain conditions are met. For more information, see [Mobile UI Rules](mobile-ui-rules.md).
 
 </td></tr><tr><td>
 

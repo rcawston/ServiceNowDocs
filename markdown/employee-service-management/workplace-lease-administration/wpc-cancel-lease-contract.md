@@ -34,7 +34,7 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 The contract state changes to Canceled.
 
-**Parent Topic:**[Manage workplace contracts from Workplace Central](../concept/manage-contracts-from-wpc.md)
+**Parent Topic:**[Manage workplace contracts from Workplace Central](manage-contracts-from-wpc.md)
 
 **Related topics**  
 

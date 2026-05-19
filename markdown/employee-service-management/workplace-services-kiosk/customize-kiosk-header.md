@@ -34,5 +34,5 @@ Role required: sp\_admin
     For example, you can hide the kiosk header by setting the display of the `header-container` class to `none`.
 
 
-**Parent Topic:**[Configuring Workplace Services Kiosk](../concept/configure-workplace-services-kiosk.md)
+**Parent Topic:**[Configuring Workplace Services Kiosk](configure-workplace-services-kiosk.md)
 

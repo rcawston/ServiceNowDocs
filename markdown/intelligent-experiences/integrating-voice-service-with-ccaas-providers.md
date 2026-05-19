@@ -18,5 +18,5 @@ Enable users to get support from AI voice agents by integrating a ServiceNow AI 
 -   **[Integrate ServiceNow voice assistant with Genesys Cloud service](integrate-voice-service-with-genesys.md)**  
 Enable users to get support from AI voice agents by integrating a ServiceNow AI voice assistant with the Genesys Cloud service.
 
-**Parent Topic:**[Deploy AI voice agents](../reference/deploy-ai-agents-for-voice.md)
+**Parent Topic:**[Deploy AI voice agents](deploy-ai-agents-for-voice.md)
 

@@ -17,7 +17,7 @@ Run the Auditor to scan your instance and find incorrect security definitions. I
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md).
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md).
 
 The Auditor performs a “full-body” assessment of your instance health that analyzes your system configuration. For security scans, it compares your current security configuration to best practice definitions, and to security property compliance values.
 
@@ -39,7 +39,7 @@ From an instance security standpoint, it provides insights and recommendations i
 **Related topics**  
 
 
-[Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md)
+[Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md)
 
 [Monitor security events](instance-sec-center-event-ribbon.md)
 
@@ -47,11 +47,11 @@ From an instance security standpoint, it provides insights and recommendations i
 
 [Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
 
-[Activate the ISC Virtual Agent interface](../task/activating-virtual-agent-interface.md)
+[Activate the ISC Virtual Agent interface](activating-virtual-agent-interface.md)
 
-[Hardening settings](../../security-center/reference/security-hardening-settings.md)
+[Hardening settings](instance-security-hardening-settings/security-hardening-settings.md)
 
-[Enable High Security Plugin](../../security-center/reference/sc-high-security-plugin.md)
+[Enable High Security Plugin](instance-security-hardening-settings/sc-high-security-plugin.md)
 
-[Access Control List Rules](../../contextual-security/concept/access-control-rules.md)
+[Access Control List Rules](access-control/access-control-rules.md)
 

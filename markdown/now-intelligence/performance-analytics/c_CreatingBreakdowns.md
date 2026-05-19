@@ -19,7 +19,7 @@ The values for each breakdown are called breakdown elements. For example, the Pr
 
 For example, you can look at the Number of Open Changes by Assignment Group. Or you can see the Number of New Changes by Priority.
 
--   **[Create a breakdown from a wizard](../task/t_CreateBreakdownFromWizard.md)**  
+-   **[Create a breakdown from a wizard](t_CreateBreakdownFromWizard.md)**  
 Create a breakdown, breakdown source, and breakdown mappings, and associate the breakdown with indicators.
 -   **[Breakdown sources](breakdown-sources.md)**  
 Breakdown sources specify which unique values, called breakdown elements, a breakdown contains.
@@ -31,7 +31,7 @@ In a manual breakdown, you define the breakdown elements and the indicator score
 Element filters enable you to specify or limit the displayed breakdown elements on visualizations.
 -   **[Navigating breakdown elements with breakdown relations](breakdown-relations.md)**  
 Breakdown relations open a new navigation path for viewing breakdown scores, by moving from one breakdown element to another breakdown element. Breakdown relations can be between the elements of different breakdowns, or they can be within a hierarchical structure of elements in the same breakdown. Breakdown relations affect navigation on the Analytics Hub and in breakdown widgets.
--   **[Control ability to view breakdown elements](../task/t_ControlAccessToABreakdown.md#)**  
+-   **[Control ability to view breakdown elements](t_ControlAccessToABreakdown.md#)**  
 To limit which breakdown elements a subset of users can view on indicators, implement element security. Element security applies to widgets, workspaces, and the Analytics Hub.
 -   **[Using breakdowns on dashboards](c_SpecialDashboards.md)**  
 You can add breakdown sources to a dashboard. Dashboard users then can select a breakdown source and one or more breakdown elements to filter scores in the visualizations on the dashboard.

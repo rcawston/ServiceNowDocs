@@ -23,7 +23,7 @@ Role required: activity\_admin, activity\_creator
 
 The JDBC activity template allows you to execute ANSI SQL statements or stored procedures on a target database. Support for stored procedures with IN, OUT, and INOUT parameters are available in Australia. To learn how to set up these parameters, see [JDBC stored procedure parameters](t_CreateAJDBCActivity.md#).
 
-**Note:** If you are transferring bulk data into a ServiceNow instance from an external data source, use [Import sets key concepts](../../import-sets/concept/c_ImportSetsKeyConcepts.md). The JDBC activities allow you to transfer data between external data sources and ServiceNow within a workflow. It is not intended to replace the bulk import features of data sources.
+**Note:** If you are transferring bulk data into a ServiceNow instance from an external data source, use [Import sets key concepts](../system-import-sets/c_ImportSetsKeyConcepts.md). The JDBC activities allow you to transfer data between external data sources and ServiceNow within a workflow. It is not intended to replace the bulk import features of data sources.
 
 ## Procedure
 
@@ -39,7 +39,7 @@ The JDBC activity template allows you to execute ANSI SQL statements or stored p
 
     This action creates a custom activity using a template.
 
-4.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JDBC Execution Command.
+4.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JDBC Execution Command.
 
 <table id="choicetable_py3_zmj_4y"><tbody><tr><td id="d588709e163">
 
@@ -136,7 +136,7 @@ If checked, you can run a stored procedure on MySQL, Oracle, or SQL Server datab
 -   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
 -   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 **Related topics**  
 

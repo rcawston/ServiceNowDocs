@@ -15,7 +15,7 @@ Decision trees and guidances enable agents to work through a structured troubles
 
 -   **Decision trees**
 
-    A decision tree is a multi-step process that includes a series of questions, answers, and a guidance for an agent to follow. This process is made up of different decision tree elements, including nodes, inputs, and paths. For more information, see [Decision tree elements](../reference/guided-decision-tree-elements.md).
+    A decision tree is a multi-step process that includes a series of questions, answers, and a guidance for an agent to follow. This process is made up of different decision tree elements, including nodes, inputs, and paths. For more information, see [Decision tree elements](guided-decision-tree-elements.md).
 
     Decision trees contain different types of nodes. Decision nodes represent one or more questions. Guidance nodes provide recommendations to agents. Each decision tree has a root node called the start node. Each node includes a path to the next node. Based on the answers to the questions, each decision node leads to an outcome, which can be a guidance, a follow-up question, or another decision tree.
 
@@ -42,5 +42,5 @@ The agent can select one of two paths to answer the question "Is this a new cust
 For more information about creating a decision tree, see the following topics:
 
 -   [Configuring decision trees in Decision Tree Builder](decision-trees-in-gdb.md)
--   [Create a decision tree in Core UI](../task/configure-decision-trees-gdb.md)
+-   [Create a decision tree in Core UI](configure-decision-trees-gdb.md)
 

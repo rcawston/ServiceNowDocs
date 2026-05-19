@@ -25,5 +25,5 @@ Several types of components are installed when you activate the Customer Service
 **Related topics**  
 
 
-[Additional features](../concept/additional-features.md)
+[Additional features](additional-features.md)
 

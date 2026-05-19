@@ -53,5 +53,5 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 **Related topics**  
 
 
-[Task Mining analyses](../concept/task-mining-dashboard.md)
+[Task Mining analyses](task-mining-dashboard.md)
 

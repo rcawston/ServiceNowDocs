@@ -50,9 +50,9 @@ If your role does not allow you to create collection jobs, contact your Performa
 
 For more information, see [Create or schedule a data collection job](t_CreatASchedDataCollJob.md) and [Configure a job indicator](configure-job-indicator.md).
 
-**Parent Topic:**[Automated breakdowns](../concept/automated-breakdowns.md)
+**Parent Topic:**[Automated breakdowns](automated-breakdowns.md)
 
 **Previous topic:**[Create a breakdown mapping on a breakdown record](t_CrtBkdnBreakdownMpngs.md)
 
-**Next topic:**[Manual breakdowns](../concept/manual-breakdowns.md#)
+**Next topic:**[Manual breakdowns](manual-breakdowns.md#)
 

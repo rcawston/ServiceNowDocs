@@ -27,8 +27,8 @@ Role required: sn\_wsd\_wc.admin
 
 2.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Workplace profiles**.
 
-    -   Verify that the **Location** field is updated with the correct location. For more information, see [Set the primary location of a workplace profile](../../workplace-service-delivery/task/set-prim-location-of-worplace-profile.md).
-    -   Verify that the **Workplace entity** column is mapped to the user workplace profile. For more information, see [Map designated workspaces to user profiles](../../workplace-service-delivery/task/map-employees-to-existing-workplace-locations-wsd.md) and [Configure Workplace entity and entity types](../../workplace-service-delivery/concept/workplace-entity.md).
+    -   Verify that the **Location** field is updated with the correct location. For more information, see [Set the primary location of a workplace profile](../workplace-core/set-prim-location-of-worplace-profile.md).
+    -   Verify that the **Workplace entity** column is mapped to the user workplace profile. For more information, see [Map designated workspaces to user profiles](../workplace-core/map-employees-to-existing-workplace-locations-wsd.md) and [Configure Workplace entity and entity types](../workplace-core/workplace-entity.md).
 3.  Navigate to **All** and in the application context menu search for **sn\_wsd\_central\_attendance\_analytics.list**.
 
     The Attendance Analytics page is displayed.
@@ -49,12 +49,12 @@ Role required: sn\_wsd\_wc.admin
 
         ![Workplace Analytics showing Occupancy Dashboard metrics.](../images/workplace-attendance-analytics-dashboard.png)
 
-    For more information, see [View Occupancy Dashboard](view-badging-tables.md).
+    For more information, see [View Occupancy Dashboard](../workplace-central/view-badging-tables.md).
 
 
-**Parent Topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for badging data](setup-workplace-connectors.md)
 
 **Previous topic:**[Employee attendance data](employee-attendance.md)
 
-**Next topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Next topic:**[Setup Workplace Connectors for occupancy data](setup-occupancy-connectors.md)
 

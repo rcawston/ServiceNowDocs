@@ -22,9 +22,9 @@ For more information on using URIs:
 -   [Navigate by URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/navigate-using-url.md)
 -   [Navigation stack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_NavigationStack.md)
 
-See also [Action - getGlideURI\(\)](../../Action/concept/ActionAPIBoth.md#).
+See also [Action - getGlideURI\(\)](ActionAPIBoth.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideURI - deleteMatchingParameter\(String match\)
 
@@ -105,7 +105,7 @@ priority=2^active=true
 
 ### Scoped equivalent
 
-To use the get\(\) method in a scoped application, use the corresponding scoped method: [GlideURI - get\(String name\)](../../GlideURIScoped/concept/c_GlideURIScopedAPI.md#) .
+To use the get\(\) method in a scoped application, use the corresponding scoped method: [GlideURI - get\(String name\)](c_GlideURIScopedAPI.md#) .
 
 ## GlideURI - getFileFromPath\(\)
 
@@ -128,7 +128,7 @@ gs.info(fileString);
 
 ### Scoped equivalent
 
-To use the getFileFromPath\(\) method in a scoped application, use the corresponding scoped method: [GlideURI - getFileFromPath\(\)](../../GlideURIScoped/concept/c_GlideURIScopedAPI.md#) .
+To use the getFileFromPath\(\) method in a scoped application, use the corresponding scoped method: [GlideURI - getFileFromPath\(\)](c_GlideURIScopedAPI.md#) .
 
 ## GlideURI - getMap\(\)
 
@@ -142,7 +142,7 @@ Returns a map \(key value pairs\) containing each parameter in the query and its
 |----|-----------|
 |Object| |
 
-The following example shows how to get `sysparm_query` parameters. See also [Action - getGlideURI\(\)](../../Action/concept/ActionAPIBoth.md#) .
+The following example shows how to get `sysparm_query` parameters. See also [Action - getGlideURI\(\)](ActionAPIBoth.md#) .
 
 ```
 gs.action.getGlideURI().getMap().get('sysparm_query');
@@ -165,7 +165,7 @@ Sets the specified parameter to the specified value.
 |----|-----------|
 |None| |
 
-The following example shows how to set value of a sysparm\_query field. See also [Action - getGlideURI\(\)](../../Action/concept/ActionAPIBoth.md#) .
+The following example shows how to set value of a sysparm\_query field. See also [Action - getGlideURI\(\)](ActionAPIBoth.md#) .
 
 ```
 var gURI = action.getGlideURI();
@@ -182,7 +182,7 @@ priority=2^active=true
 
 ### Scoped equivalent
 
-To use the set\(\) method in a scoped application, use the corresponding scoped method: [GlideURI - set\(String name, String value\)](../../GlideURIScoped/concept/c_GlideURIScopedAPI.md#) .
+To use the set\(\) method in a scoped application, use the corresponding scoped method: [GlideURI - set\(String name, String value\)](c_GlideURIScopedAPI.md#) .
 
 ## GlideURI - setView\(String view\)
 
@@ -192,8 +192,8 @@ A view defines the elements that appear when a user opens a form or a list. The 
 
 See also:
 
--   [Action - getGlideURI\(\)](../../Action/concept/ActionAPIBoth.md#)
--   [GlideModalV3 - switchView\(\)](../../GlideModalClientSideV3/concept/c_GlideModalV3API.md#)
+-   [Action - getGlideURI\(\)](ActionAPIBoth.md#)
+-   [GlideModalV3 - switchView\(\)](../c_GlideModalV3API.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -203,7 +203,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to add the major incidents view to the URI query in the Incidents \[incident\] table. For example, `sysparm_view=Major%20Incidents`. See also [Action - getGlideURI\(\)](../../Action/concept/ActionAPIBoth.md#) .
+The following example shows how to add the major incidents view to the URI query in the Incidents \[incident\] table. For example, `sysparm_view=Major%20Incidents`. See also [Action - getGlideURI\(\)](ActionAPIBoth.md#) .
 
 ```
 // create the GlideURI object
@@ -233,7 +233,7 @@ Parameters set with the set\(\) method are encoded with the URI as well.
 |----|-----------|
 |String|The URL.|
 
-The following examples shows how to convert invalid characters to URL code in an instance URL. See also [Action - getGlideURI\(\)](../../Action/concept/ActionAPIBoth.md#) .
+The following examples shows how to convert invalid characters to URL code in an instance URL. See also [Action - getGlideURI\(\)](ActionAPIBoth.md#) .
 
 ```
 var gURI = action.getGlideURI();
@@ -242,5 +242,5 @@ fileString = gURI.toString('https://<your instance>.service-now.com/navpage.do')
 
 ### Scoped equivalent
 
-To use the toString\(\) method in a scoped application, use the corresponding scoped method: [GlideURI - toString\(String path\)](../../GlideURIScoped/concept/c_GlideURIScopedAPI.md#) .
+To use the toString\(\) method in a scoped application, use the corresponding scoped method: [GlideURI - toString\(String path\)](c_GlideURIScopedAPI.md#) .
 

@@ -17,7 +17,7 @@ Clone existing tasks to quickly create new tasks.
 
 ## Before you begin
 
-Role required: wm\_qualifier or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_qualifier or [qualifier combination role](../r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 

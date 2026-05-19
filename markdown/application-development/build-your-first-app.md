@@ -21,14 +21,14 @@ Use ServiceNow Studio to build, manage, and deploy apps faster in a single devel
 
 ![ServiceNow Studio offers a unified experience for all development activities on the ServiceNow AI Platform.](../../servicenow-studio/image/sn-studio-features-benefits-as1.png)
 
--   AI-native design: Use the generative and agentic AI capabilities in ServiceNow Studio to build apps faster and extend custom applications with AI. For more information, see [Working with Now Assist tools and AI files in ServiceNow Studio](../../servicenow-studio/concept/working-with-now-assist-tools-sn-studio.md).
--   Build Agent: Use Build Agent, an autonomous AI agent, to create and update applications in ServiceNow Studio. For more information, see [Build Agent in ServiceNow Studio](../../servicenow-studio/concept/build-agent-in-servicenow-studio.md).
--   Integrated builders: Access low-code builders available in the ServiceNow AI Platform, including Table Builder and flows in Workflow Studio, alongside app development tools. For more information, see [Access integrated development tools and builders in ServiceNow Studio](../../servicenow-studio/concept/open-and-switch-between-integrated-development-tools.md).
--   AI and code search: Search for any application or metadata record in your instance using AI Search and standard code search. For more information, see [Find an app or app file using Search](../../servicenow-studio/task/qs-find-app-app-file-using-search.md) and [Find an app or app file using the Navigator panel](../../servicenow-studio/task/qs-find-app-app-file-using-navigator-panel.md).
--   Accelerated deployment: Create and package apps for deployment using update sets, pipelines, or the Application Repository without leaving ServiceNow Studio. For more information, see [Working with update sets in ServiceNow Studio](../../servicenow-studio/concept/working-with-update-sets-in-servicenow-studio.md) and [Publish app changes to the Application Repository from ServiceNow Studio](../../servicenow-studio/task/qs-publish-changes-to-app-using-app-repo.md).
--   Choose your development experience: Switch between development environments using the experience switcher in ServiceNow Studio to use the best tool for each stage of your project. For more information, see [Change your development experience in ServiceNow Studio](../../servicenow-studio/task/change-your-development-experience.md).
--   Create apps and files: Create apps and files in any scope that you have access to edit, including the global scope. For more information, see [Create an application in ServiceNow Studio](../../servicenow-studio/task/create-an-application-in-servicenow-studio.md#) and [Create an app file in ServiceNow Studio](../../servicenow-studio/task/sn-studio-create-app-file.md).
--   Global and custom scope: Open and edit files of any scope you have access to, including global and custom files. The scope switches automatically when you switch between open files in different applications. For more information, see [Open apps and app files across scopes in ServiceNow Studio](../../servicenow-studio/concept/qs-open-apps-files-across-scopes.md).
+-   AI-native design: Use the generative and agentic AI capabilities in ServiceNow Studio to build apps faster and extend custom applications with AI. For more information, see [Working with Now Assist tools and AI files in ServiceNow Studio](servicenow-studio-classic/working-with-now-assist-tools-sn-studio.md).
+-   Build Agent: Use Build Agent, an autonomous AI agent, to create and update applications in ServiceNow Studio. For more information, see [Build Agent in ServiceNow Studio](servicenow-studio-classic/build-agent-in-servicenow-studio.md).
+-   Integrated builders: Access low-code builders available in the ServiceNow AI Platform, including Table Builder and flows in Workflow Studio, alongside app development tools. For more information, see [Access integrated development tools and builders in ServiceNow Studio](servicenow-studio-classic/open-and-switch-between-integrated-development-tools.md).
+-   AI and code search: Search for any application or metadata record in your instance using AI Search and standard code search. For more information, see [Find an app or app file using Search](servicenow-studio-classic/qs-find-app-app-file-using-search.md) and [Find an app or app file using the Navigator panel](servicenow-studio-classic/qs-find-app-app-file-using-navigator-panel.md).
+-   Accelerated deployment: Create and package apps for deployment using update sets, pipelines, or the Application Repository without leaving ServiceNow Studio. For more information, see [Working with update sets in ServiceNow Studio](servicenow-studio-classic/working-with-update-sets-in-servicenow-studio.md) and [Publish app changes to the Application Repository from ServiceNow Studio](servicenow-studio-classic/qs-publish-changes-to-app-using-app-repo.md).
+-   Choose your development experience: Switch between development environments using the experience switcher in ServiceNow Studio to use the best tool for each stage of your project. For more information, see [Change your development experience in ServiceNow Studio](servicenow-studio-classic/change-your-development-experience.md).
+-   Create apps and files: Create apps and files in any scope that you have access to edit, including the global scope. For more information, see [Create an application in ServiceNow Studio](servicenow-studio-classic/create-an-application-in-servicenow-studio.md#) and [Create an app file in ServiceNow Studio](servicenow-studio-classic/sn-studio-create-app-file.md).
+-   Global and custom scope: Open and edit files of any scope you have access to, including global and custom files. The scope switches automatically when you switch between open files in different applications. For more information, see [Open apps and app files across scopes in ServiceNow Studio](servicenow-studio-classic/qs-open-apps-files-across-scopes.md).
 
 ## Other options for building apps
 
@@ -36,11 +36,11 @@ ServiceNow Studio is the best option to get started creating apps fast. However,
 
 -   App Engine Studio and Creator Studio enable you to build simple applications, which you can edit further in ServiceNow Studio.
 
-    For more information, see [Creator Studio](../../creator-studio/concept/creator-studio-landing.md) and [Build apps using App Engine Studio](../../app-engine-studio/concept/aes-overview.md).
+    For more information, see [Creator Studio](creator-studio/creator-studio-landing.md) and [Build apps using App Engine Studio](app-engine-studio/aes-overview.md).
 
 -   ServiceNow IDE enables you to create and develop scoped applications in source code in an integrated development environment \(IDE\). Apps created in the ServiceNow IDE are converted to Fluent and deployed through the IDE. However, most IDE apps can also be updated in ServiceNow Studio.
 
-    For more information about pro-code development, see [ServiceNow IDE](../../servicenow-ide/concept/servicenow-ide-landing.md).
+    For more information about pro-code development, see [ServiceNow IDE](servicenow-ide-family-release/servicenow-ide-landing.md).
 
 -   Custom tables generate lists and forms—lists display multiple records in a spreadsheet-like view while forms show detailed information for a single record. The typical development pattern is: create your custom table, customize the form layout for data entry, configure the list view for browsing records, then add UI policies, scripts, and actions to control behavior.
 
@@ -52,5 +52,5 @@ Tables are the foundation of ServiceNow applications, as they define what data y
 -   **[Building a data model](building-a-data-model.md)**  
 Plan your data model carefully before building an application on the ServiceNow AI Platform. It defines what information you're managing, how it connects, and ultimately determines what your application can do.
 
-**Parent Topic:**[Getting Started guide for developers](../reference/getting-started-landing-page.md)
+**Parent Topic:**[Getting Started guide for developers](getting-started-landing-page.md)
 

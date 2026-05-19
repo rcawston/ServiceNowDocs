@@ -48,5 +48,5 @@ After the automation request is moved to the following states, the option to cle
     The checklist is deleted.
 
 
-**Parent Topic:**[Working with golive checklists](../concept/working-golive.md)
+**Parent Topic:**[Working with golive checklists](working-golive.md)
 

@@ -31,7 +31,7 @@ Role required: sn\_apm.apm\_analyst
 
 5.  On the form, fill in the fields.
 
-    For field information, see [Create new architectural artifact form](../../reference/eaw-reference/eaw-new-arch-artifact-form.md).
+    For field information, see [Create new architectural artifact form](eaw-new-arch-artifact-form.md).
 
     To edit any existing artifact, select the artifact and make the necessary changes.
 
@@ -40,7 +40,7 @@ Role required: sn\_apm.apm\_analyst
     An architectural artifact gets created and associated to the TRM product. The Related Entities tab of the artifact shows the TRM product associated to it.
 
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 

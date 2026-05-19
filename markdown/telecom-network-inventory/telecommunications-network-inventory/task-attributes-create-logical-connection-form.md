@@ -104,10 +104,10 @@ Parent Port Z
 Network interface on which new logical interface is representing the **Port Z** of the connection.**Note:** A new logical interface is created by default based on the selected logical/physical connection model and is populated in the port Z field under **Configuration** section logical or physical connection. The logical interface indicates the port name and number of child ports plus one of the selected ports.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create logical connection record using design and assign](../task/create-logical-connection-record-using-design-assign.md)
+[Create logical connection record using design and assign](create-logical-connection-record-using-design-assign.md)
 

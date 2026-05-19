@@ -120,7 +120,7 @@ Unassign
 All the selected items are unassigned for assignment group and remediation owner.**Note:**
 
 -   This field appears when you select the State as Do Not Update.
--   When you unassign records, a remediation task is created which is sent for approval. For more information, see [Remove assignments for host vulnerable items in bulk](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-unassign.md)
+-   When you unassign records, a remediation task is created which is sent for approval. For more information, see [Remove assignments for host vulnerable items in bulk](vulnerability-manager-workspace/vmws-bulk-edit-unassign.md)
 
 
 </td></tr><tr><td>
@@ -147,5 +147,5 @@ Text that you enter to describe the changes.
 
 A bulk edit asynchronous job updates the selected host vulnerable items \(VITs\). The preferred solution and patch are added to the relevant host vulnerable items \(VITs\). Open a host vulnerable item, and view the preferred solution and patch in the Remediation section of the Details tab.
 
-**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](../concept/sem-using-bulk-edit.md)
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](sem-using-bulk-edit.md)
 

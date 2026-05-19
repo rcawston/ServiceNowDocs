@@ -116,7 +116,7 @@ The AI Desktop Actions installer guides you through installation of .NET Desktop
 
 ## What to do next
 
-Use AI Desktop Actions to design desktop actions. For more information, see [Defined path desktop actions in AI Desktop Actions](../concept/desktop-actions-designer-workspace-ad.md).
+Use AI Desktop Actions to design desktop actions. For more information, see [Defined path desktop actions in AI Desktop Actions](desktop-actions-designer-workspace-ad.md).
 
-**Parent Topic:**[Configuring AI Desktop Actions for defined path desktop actions](../concept/ad-defined-path-da.md)
+**Parent Topic:**[Configuring AI Desktop Actions for defined path desktop actions](ad-defined-path-da.md)
 

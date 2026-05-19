@@ -32,5 +32,5 @@ Role required: admin
 4.  On the Review tab, activate the Now Assist panel assistant.
 
 
-**Parent Topic:**[Configuring Now Assist Admin features](../../now-assist-admin/concept/configuring-na-landing.md)
+**Parent Topic:**[Configuring Now Assist Admin features](configuring-na-landing.md)
 

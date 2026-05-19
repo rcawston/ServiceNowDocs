@@ -105,7 +105,7 @@ The following image shows an example of a semantic shortcut used on incident rec
 
 A user can enter `show me incident backlog` or `unassigned incidents` and the system displays incidents with an empty Assigned to field.
 
-**Parent Topic:**[Configuring NLQ](../concept/configuring-nlq.md)
+**Parent Topic:**[Configuring NLQ](configuring-nlq.md)
 
 **Related topics**  
 

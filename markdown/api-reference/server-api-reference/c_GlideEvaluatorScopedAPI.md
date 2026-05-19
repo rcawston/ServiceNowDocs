@@ -17,7 +17,7 @@ The GlideScopedEvaluator API allows you to evaluate scripts in a GlideRecord fie
 
 This API evaluates records with script fields defined. The scope of the script is defined by the scope of the record.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideScopedEvaluator - GlideScopedEvaluator\(\)
 
@@ -33,7 +33,7 @@ Evaluates a script that resides in a GlideRecord field.
 
 |Name|Type|Description|
 |----|----|-----------|
-|grObj|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|GlideRecord containing a script expression.|
+|grObj|[GlideRecord](c_GlideRecordScopedAPI.md#)|GlideRecord containing a script expression.|
 |scriptField|String|Optional. Name of the field containing the script expression.|
 |variables|Object|Optional. Map of variables with name-value pairs. These variables are available to the script during execution of this method.|
 

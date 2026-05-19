@@ -45,12 +45,12 @@ For work order tasks that have scheduled appointments, dispatchers receive warni
 -   Scheduled start
 -   Scheduled travel start
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 
 **Related topics**  
 
 
-[Global domain configurations](../../planning-and-policy/task/t_ConfigureFieldService.md)
+[Global domain configurations](t_ConfigureFieldService.md)
 
 [Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
 

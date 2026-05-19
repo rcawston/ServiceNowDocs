@@ -31,11 +31,11 @@ Lists entries are a mapping of a template document with a document list. Only te
 
 **Note:** Users can link only documents that they have access to.
 
--   **[Group document templates in a list for creating and linking documents to a target record](../task/create-doc-list.md)**  
+-   **[Group document templates in a list for creating and linking documents to a target record](create-doc-list.md)**  
 Group document templates in a list to enable all the template documents in the list to automatically be created and linked to the target record when the list is referenced.
--   **[Add a document template to a document list](../task/add-list-entry-to-doc-list.md)**  
+-   **[Add a document template to a document list](add-list-entry-to-doc-list.md)**  
 Add a template document to a document list that groups document templates for creating and linking to a parent record.
--   **[Create documents using document lists for a target table record](../task/create-documents-target-table-record.md)**  
+-   **[Create documents using document lists for a target table record](create-documents-target-table-record.md)**  
 You can create and reference documents on a target table record through the DocumentListService API.
 
 **Parent Topic:**[Using Document Management](using-document-management.md)
@@ -43,7 +43,7 @@ You can create and reference documents on a target table record through the Docu
 **Related topics**  
 
 
-[Group document templates in a list for creating and linking documents to a target record](../task/create-doc-list.md)
+[Group document templates in a list for creating and linking documents to a target record](create-doc-list.md)
 
-[Add a document template to a document list](../task/add-list-entry-to-doc-list.md)
+[Add a document template to a document list](add-list-entry-to-doc-list.md)
 

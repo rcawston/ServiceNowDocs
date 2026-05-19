@@ -27,7 +27,7 @@ Role required: sn\_itom\_ccg.governor
 
 3.  On the Policy form, fill in the fields.
 
-    For the description of the form fields, see [Cloud Configuration Governance Policy form](../reference/ccg-policy-form.md).
+    For the description of the form fields, see [Cloud Configuration Governance Policy form](ccg-policy-form.md).
 
     Refer to one of the base system script-based policies as an example for creating the custom policy.
 

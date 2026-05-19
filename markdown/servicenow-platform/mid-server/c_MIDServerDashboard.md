@@ -54,7 +54,7 @@ See [KB0535181](https://support.servicenow.com/kb_view.do?sysparm_article=KB0535
 
 The icons in the **Version** column indicates the following:
 
--   **Red**: Incompatible. The MID Server and instance do not belong to the same release. You must [upgrade the MID Server](../task/t_UpgradeTheMIDServerManually.md) and verify that it is not pinned to an older version with the [mid.version.override](../reference/mid-server-version-selection.md) property. The MID Server will not be upgraded until the parameter is cleared.
+-   **Red**: Incompatible. The MID Server and instance do not belong to the same release. You must [upgrade the MID Server](t_UpgradeTheMIDServerManually.md) and verify that it is not pinned to an older version with the [mid.version.override](mid-server-version-selection.md) property. The MID Server will not be upgraded until the parameter is cleared.
 -   **Yellow**: Compatible, but an upgrade is recommended. This indicates that the MID Server version belongs to the same family as the instance, but not the same version.
 -   **Green**: Compatible. No upgrade necessary.
 -   **Gray**: Incompatible. The instance cannot detect the version.
@@ -97,7 +97,7 @@ Validated
 
 </td><td>
 
-Whether or not the MID Server was [validated](../task/t_ValidateAMIDServer.md).
+Whether or not the MID Server was [validated](t_ValidateAMIDServer.md).
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Max memory used %
 
 </td><td>
 
-The highest percent usage of memory on the system that hosts the MID Server, in the configured sampling interval. The default interval is 30 minutes, but this value is user configurable. See [MID Server resource threshold alerts](../reference/mid-resource-threshold-alerts.md) for details.
+The highest percent usage of memory on the system that hosts the MID Server, in the configured sampling interval. The default interval is 30 minutes, but this value is user configurable. See [MID Server resource threshold alerts](mid-resource-threshold-alerts.md) for details.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Mean CPU used %
 
 </td><td>
 
-The average percent usage of CPU on the system that hosts the MID Server, in the configured sampling interval. The default interval is 30 minutes, but this value is user configurable. See [MID Server resource threshold alerts](../reference/mid-resource-threshold-alerts.md) for details.
+The average percent usage of CPU on the system that hosts the MID Server, in the configured sampling interval. The default interval is 30 minutes, but this value is user configurable. See [MID Server resource threshold alerts](mid-resource-threshold-alerts.md) for details.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Version
 
 </td><td>
 
-The version of the MID Server. An icon indicates the validity of the MID Server:-   **Red**: Incompatible. The MID Server and instance do not belong to the same release. You must [upgrade the MID Server](../task/t_UpgradeTheMIDServerManually.md) and verify that it is not pinned to an older version with the [mid.version.override](../reference/mid-server-version-selection.md) property. The MID Server will not be upgraded until the parameter is cleared.
+The version of the MID Server. An icon indicates the validity of the MID Server:-   **Red**: Incompatible. The MID Server and instance do not belong to the same release. You must [upgrade the MID Server](t_UpgradeTheMIDServerManually.md) and verify that it is not pinned to an older version with the [mid.version.override](mid-server-version-selection.md) property. The MID Server will not be upgraded until the parameter is cleared.
 -   **Yellow**: Compatible, but an upgrade is recommended. This indicates that the MID Server version belongs to the same family as the instance, but not the same version.
 -   **Green**: Compatible. No upgrade necessary.
 -   **Gray**: Incompatible. The instance cannot detect the version.
@@ -148,10 +148,10 @@ User
 
 </td><td>
 
-The login name of the user. An icon indicates the validity of the user:-   **Red**: Incompatible. The user does not have the[mid\_server role](../task/t_SetupMIDServerRole.md#) or the user does not match the value in the [mid.instance.username parameter](../task/t_SetupMIDServerRole.md#) \(in the `config.xml` configuration file\). Reconfigure the MID Server user and [verify that it works](../task/t_SetupMIDServerRole.md#).
+The login name of the user. An icon indicates the validity of the user:-   **Red**: Incompatible. The user does not have the[mid\_server role](t_SetupMIDServerRole.md#) or the user does not match the value in the [mid.instance.username parameter](t_SetupMIDServerRole.md#) \(in the `config.xml` configuration file\). Reconfigure the MID Server user and [verify that it works](t_SetupMIDServerRole.md#).
 -   **Green**: Compatible. The user has the mid\_server role and matches the user in the configuration file.
 
- **Note:** The user can also have any of the SOAP roles that the [mid\_server role](../task/t_SetupMIDServerRole.md#) inherits.
+ **Note:** The user can also have any of the SOAP roles that the [mid\_server role](t_SetupMIDServerRole.md#) inherits.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[MID Server reference](mid-server-reference-information.md)
@@ -159,31 +159,31 @@ The login name of the user. An icon indicates the validity of the user:-   **Red
 **Related topics**  
 
 
-[MID Server system requirements](../reference/r_MIDServerSystemRequirements.md)
+[MID Server system requirements](r_MIDServerSystemRequirements.md)
 
 [MID Server upgrades](c_UpgradeAndTestMIDServer.md)
 
-[Resolving MID Server issues](../reference/r_MIDServerTroubleshooting.md)
+[Resolving MID Server issues](r_MIDServerTroubleshooting.md)
 
-[MID Server properties](../reference/r_MIDServerProperties.md#)
+[MID Server properties](r_MIDServerProperties.md#)
 
-[MID Server parameters](../reference/mid-server-parameters.md#)
+[MID Server parameters](mid-server-parameters.md#)
 
-[MID Server Configuration Parameter settings and priority](../reference/mid-config-param-priority.md)
+[MID Server Configuration Parameter settings and priority](mid-config-param-priority.md)
 
 [MID Server File Cleaner](mid_file_cleaner.md)
 
-[MID Server protected records and reserved characters](../reference/mid-server-reserved-characters.md)
+[MID Server protected records and reserved characters](mid-server-reserved-characters.md)
 
 [MID Server privileged commands](c_PrivilegedCommandsForMIDServer.md#)
 
-[MIDSystem methods](../reference/r_MIDSystemMethods.md)
+[MIDSystem methods](r_MIDSystemMethods.md)
 
-[Manually start, stop, and restart a MID Server](../task/t_InstallMIDServerAsWinService.md)
+[Manually start, stop, and restart a MID Server](t_InstallMIDServerAsWinService.md)
 
-[MID Server heartbeat](../reference/r_MIDServerHeartbeat.md)
+[MID Server heartbeat](r_MIDServerHeartbeat.md)
 
-[Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md)
+[Set the MID Server JVM memory size](t_MIDServerOptionalConfiguration.md)
 
-[Pause the MID Server](../task/t_PauseTheMIDServer.md#)
+[Pause the MID Server](t_PauseTheMIDServer.md#)
 

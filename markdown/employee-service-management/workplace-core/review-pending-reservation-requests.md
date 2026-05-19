@@ -57,5 +57,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 Once the status of workplace request is updated to **Closed complete**, the reservation information is populated in the **Notes** field of the workplace request.
 
-**Parent Topic:**[Managing workplace reservations for employees](../concept/managing-workplace-reservations-wsd.md)
+**Parent Topic:**[Managing workplace reservations for employees](managing-workplace-reservations-wsd.md)
 

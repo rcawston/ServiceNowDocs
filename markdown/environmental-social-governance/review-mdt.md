@@ -63,5 +63,5 @@ Action
 4.  Select the check boxes that you want and then select **Reject** or **Approve**.
 
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../concept/using-grc-metrics.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](using-grc-metrics.md)
 

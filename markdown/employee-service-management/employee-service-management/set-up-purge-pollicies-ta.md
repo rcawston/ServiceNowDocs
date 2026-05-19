@@ -34,10 +34,10 @@ Role required: sn\_ta\_hiring\_core.admin/ sn\_ta\_tp.talent\_profile\_admin
     For a description of the auto flush form field values, see [Autoflush form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-auto-flush.md).
 
 
--   **[Rules to archive data](../concept/archive-data-ta.md)**  
+-   **[Rules to archive data](archive-data-ta.md)**  
 Create rules to archive and delete data according to your organizational policy.
--   **[Cascade rules for cleaning data](../reference/cascade-rule-ta.md)**  
+-   **[Cascade rules for cleaning data](cascade-rule-ta.md)**  
 Cascade rules determine a thorough cleanup of the outdated data and its related counterparts at source from the system.
 
-**Parent Topic:**[Configuring Hiring Experiences](../concept/config-frmwrk-ta.md)
+**Parent Topic:**[Configuring Hiring Experiences](config-frmwrk-ta.md)
 

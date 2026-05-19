@@ -43,16 +43,16 @@ Before setting transaction quotas, navigate to **All** &gt; **User Administratio
 
 4.  On the Transaction Quota Rule form, fill in the fields.
 
-    For a description of the field values, see [Transaction quota rule form](../reference/transaction-quota-rule-form.md).
+    For a description of the field values, see [Transaction quota rule form](transaction-quota-rule-form.md).
 
 5.  Set a condition to specify when the transaction quota should take effect.
 
-    The transaction quota rule condition builder displays conditions that are only applicable to transactions. For a description of the condition builder options, see [Transaction quota rule condition builder](../reference/transaction-quota-condition-builder.md).
+    The transaction quota rule condition builder displays conditions that are only applicable to transactions. For a description of the condition builder options, see [Transaction quota rule condition builder](transaction-quota-condition-builder.md).
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../../general/concept/maintain-monitor-now-platform.md)
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../maintain-monitor-now-platform.md)
 
 **Related topics**  
 

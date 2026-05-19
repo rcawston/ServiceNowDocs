@@ -70,7 +70,7 @@ Navigate to **Coaching** &gt; **Coaching Opportunities**.
         -   To select the assignment group manager as the coach for the selected task record, enable the **Specify coach user** check box and select the coach user from the selected table.
     5.  Add the condition for the critical moment in the **Trigger** fields.
 
-        See [Common ITSM assessment triggers](../concept/cf-coaching-overview.md#section_b5h_3cd_gfb) for examples.
+        See [Common ITSM assessment triggers](cf-coaching-overview.md#section_b5h_3cd_gfb) for examples.
 
 4.  Fill in the fields in the **Snapshot Settings** tab.
 
@@ -138,10 +138,10 @@ Navigate to **Coaching** &gt; **Coaching Opportunities**.
 |Snapshot Settings|
 |Snapshot fields|Resolution code, Resolution notes, Work notes|
 
-**Parent Topic:**[Configuring Coaching](../concept/cf-configuring-coaching.md)
+**Parent Topic:**[Configuring Coaching](cf-configuring-coaching.md)
 
 **Related topics**  
 
 
-[Coaching field descriptions](../reference/cf-coaching-field-descriptions.md)
+[Coaching field descriptions](cf-coaching-field-descriptions.md)
 

@@ -55,5 +55,5 @@ The value for an item variable is determined in the following order:
 
 Set an item variable value to match an order guide variable value, or an order guide default value, using an item variable assignment.
 
-**Parent Topic:**[Create an order guide variable](../concept/c_CreateVariables.md)
+**Parent Topic:**[Create an order guide variable](c_CreateVariables.md)
 

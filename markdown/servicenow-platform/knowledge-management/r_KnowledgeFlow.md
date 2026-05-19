@@ -90,6 +90,6 @@ Action that can be used to retire the knowledge article.
 </td></tr></tbody>
 </table>**Note:**
 
--   Only administrators and knowledge administrators can view the retired knowledge articles. To reuse a retired article, administrators and knowledge administrators can republish the article. For more information, see [Republish a retired article](../task/republish-retired-article.md).
+-   Only administrators and knowledge administrators can view the retired knowledge articles. To reuse a retired article, administrators and knowledge administrators can republish the article. For more information, see [Republish a retired article](republish-retired-article.md).
 -   An article and its translations have a parent-child relationship. Retiring a parent article does not automatically retire all its translated child articles.
 

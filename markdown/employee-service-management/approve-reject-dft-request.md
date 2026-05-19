@@ -61,5 +61,5 @@ Reject
 -   The state of the legal request remains Assigned.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing digital forensics requests](../concept/managing-legal-dft-request.md)
+</table>**Parent Topic:**[Managing digital forensics requests](managing-legal-dft-request.md)
 

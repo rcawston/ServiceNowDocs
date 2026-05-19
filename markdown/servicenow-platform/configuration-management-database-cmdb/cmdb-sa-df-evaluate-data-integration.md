@@ -53,6 +53,6 @@ Role required: sn\_cmdb\_admin
         -   If you have the pd\_admin role, you can select **View pattern** for a Discovery pattern to understand its contribution and modify the pattern to maximize the attribute coverage. For more information, see [Patterns and horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md).
     -   For Service Graph Connectors, if you have the cmdb\_inst\_admin role, you can perform the following actions based on the applicable criteria:
         -   Select **Install connector** to add a connector from the ServiceNow Store.
-        -   Select **Create connection** to configure a Service Graph Connector from SGC Central. For more information, see [Create a connection for a Service Graph Connector in SGC Central](../../sgc-central/task/sgcc-create-connection.md).
-        -   Select **View connections** to open and review details of existing installed connections importing hardware asset data within SGC Central. For more information, see [Viewing connections for a Service Graph Connector in SGC Central](../../sgc-central/concept/sgcc-viewing-installed-connection.md#).
+        -   Select **Create connection** to configure a Service Graph Connector from SGC Central. For more information, see [Create a connection for a Service Graph Connector in SGC Central](../sgcc-create-connection.md).
+        -   Select **View connections** to open and review details of existing installed connections importing hardware asset data within SGC Central. For more information, see [Viewing connections for a Service Graph Connector in SGC Central](../sgcc-viewing-installed-connection.md#).
 

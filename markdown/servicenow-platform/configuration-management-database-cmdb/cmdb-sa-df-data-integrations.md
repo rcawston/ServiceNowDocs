@@ -21,7 +21,7 @@ For a quick reference to improve Data Foundations coverage, see [Data integratio
 
 ## Access data integrations
 
-Navigate to the CMDB success advisor landing page, and on the Data Foundations card, select **View insights**. Select the **Data integrations** tab to access integration-related details. For more information, see [Access CMDB success advisor](../task/cmdb-sa-access.md).
+Navigate to the CMDB success advisor landing page, and on the Data Foundations card, select **View insights**. Select the **Data integrations** tab to access integration-related details. For more information, see [Access CMDB success advisor](cmdb-sa-access.md).
 
 **Note:** The CMDB success advisor for Data Foundations dashboard is available only after the setup process is complete. For more information, see [Set up CMDB success advisor for Data Foundations](cmdb-sa-df-config-settings.md).
 
@@ -63,6 +63,6 @@ CMDB administrator
 |-------|-----------|
 |Integration overview|Displays the count of all Discovery patterns and Service Graph Connectors contributing CI data to your principal classes in the CMDB.|
 |Status indicators|Check whether Discovery patterns are active and Service Graph Connectors are installed with active connections. For more information, see [Reviewing data integrations for Data Foundations](cmdb-sa-df-integration-details.md).|
-|Attribute coverage insights|Select the **Attribute coverage** link next to the integration to review which CI attributes it populates for your principal classes. For more information, see [Evaluate Data Foundations data integration coverage](../task/cmdb-sa-df-evaluate-data-integration.md).|
-|Access integration details|Configure integrations to improve attribute coverage. For more information, see [Evaluate Data Foundations data integration coverage](../task/cmdb-sa-df-evaluate-data-integration.md).|
+|Attribute coverage insights|Select the **Attribute coverage** link next to the integration to review which CI attributes it populates for your principal classes. For more information, see [Evaluate Data Foundations data integration coverage](cmdb-sa-df-evaluate-data-integration.md).|
+|Access integration details|Configure integrations to improve attribute coverage. For more information, see [Evaluate Data Foundations data integration coverage](cmdb-sa-df-evaluate-data-integration.md).|
 

@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you instantiate a template, it creates a corresponding configuration item \(CI\) record in the Network Topology \[cmdb\_ci\_network\_topology\] table. And the root nodes are stored in the Topology Root Node \[cmdb\_network\_topology\_root\_node\] table. To learn more about the topology data model, see [Data model](../concept/uses-for-network-inventory-data.md).
+When you instantiate a template, it creates a corresponding configuration item \(CI\) record in the Network Topology \[cmdb\_ci\_network\_topology\] table. And the root nodes are stored in the Topology Root Node \[cmdb\_network\_topology\_root\_node\] table. To learn more about the topology data model, see [Data model](uses-for-network-inventory-data.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ When you instantiate a template, it creates a corresponding configuration item \
 
 6.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](change_request_forms.md).
 
 7.  Select **Save**.
 
@@ -47,7 +47,7 @@ When you instantiate a template, it creates a corresponding configuration item \
 
 9.  On the **Task Attribute** tab, fill in the fields.
 
-    To learn more, see [Task attributes in Topology form](../reference/task-attributes-topology-form.md).
+    To learn more, see [Task attributes in Topology form](task-attributes-topology-form.md).
 
 10. Select **Submit**.
 
@@ -60,10 +60,10 @@ The topology and network topology root node records are created.
 
 You can view the topology in the Network Viewer window. To learn more, see [Viewing a network topology](viewing-network-topology.md).
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 
 **Related topics**  
 
 
-[Create a network topology model](../concept/create-network-topology-model.md)
+[Create a network topology model](create-network-topology-model.md)
 

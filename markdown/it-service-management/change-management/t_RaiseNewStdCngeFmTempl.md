@@ -70,5 +70,5 @@ Create a standard change request for servers and attached storage.
 
 [Create a change task](create-a-change-task.md)
 
-[Unauthorized change request](../concept/unauthorized-change-request.md)
+[Unauthorized change request](unauthorized-change-request.md)
 

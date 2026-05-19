@@ -101,5 +101,5 @@ These are the expected values for the actions:
     ![Screenshot showing to select a record to open](../image/atf-now-record-open.png)
 
 
-**Parent Topic:**[Testable Configurable Workspace components](../reference/atf-conf-ws-components.md)
+**Parent Topic:**[Testable Configurable Workspace components](atf-conf-ws-components.md)
 

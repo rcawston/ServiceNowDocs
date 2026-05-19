@@ -22,7 +22,7 @@ Team-based integrations provides the following capabilities:
 -   Route alerts automatically to the appropriate team members responsible for the integrated systems based on integration ownership and configuration item \(CI\) ownership.
 -   Enable seamless integration and automation through the automatic assignment of alerts to appropriate team members based on integration ownership and configuration item \(CI\) ownership.
 
-Customize event rules, event mapping, and the precedence of team rules for team-based integrations. For more information, see [Team-based integration properties](../reference/team-based-integrations-properties.md).
+Customize event rules, event mapping, and the precedence of team rules for team-based integrations. For more information, see [Team-based integration properties](team-based-integrations-properties.md).
 
 **Related topics**  
 

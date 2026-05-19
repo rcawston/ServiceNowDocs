@@ -36,5 +36,5 @@ Install the Collaboration Services for Task Communications Management plugin \(s
     Slack gets added as a communication channel for the communication task.
 
 
-**Parent Topic:**[Working with Task Communications Management](../concept/working-with-tcm.md)
+**Parent Topic:**[Working with Task Communications Management](working-with-tcm.md)
 

@@ -61,5 +61,5 @@ Message
 Displays dynamically generated messages about the upgrade stages, such as the file path to download directories or extract folders. It also displays information about any errors encountered, even if those errors do not block the upgrade.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resolving MID Server issues](../reference/r_MIDServerTroubleshooting.md)
+</table>**Parent Topic:**[Resolving MID Server issues](r_MIDServerTroubleshooting.md)
 

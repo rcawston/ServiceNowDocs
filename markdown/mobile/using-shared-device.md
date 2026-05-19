@@ -16,7 +16,7 @@ Use a single device between multiple users to have a secure and personalized exp
 **Note:**
 
 -   This feature must be enabled by your administrator. To check if it is available to you, go to **Settings** and look for Device Sharing in the menu.
--   For the admin configuration topics of this feature, see [Enable multiple users to work on a shared device](../concept/multi-user-single-instance.md).
+-   For the admin configuration topics of this feature, see [Enable multiple users to work on a shared device](multi-user-single-instance.md).
 
 ## Shared device flow
 

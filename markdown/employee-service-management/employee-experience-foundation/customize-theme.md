@@ -53,7 +53,7 @@ Employee Center application ships a default **EC theme** that has the best visua
 
 [Configure Employee Center Pro Kiosk](deskless-kiosk-config.md)
 
-[Enhanced chat in Employee Center](../concept/nass-now-assissist-self-service.md)
+[Enhanced chat in Employee Center](nass-now-assissist-self-service.md)
 
 [Configure portal branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_BrandingEditor.md)
 

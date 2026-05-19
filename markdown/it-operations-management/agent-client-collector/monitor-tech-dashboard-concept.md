@@ -15,7 +15,7 @@ breadcrumb: [ACC deployment - endpoints, Configuring Agent Client Collector, Age
 
 The Monitoring Technology Dashboard enables you to monitor server resources for the platform you select. The dashboard enables you to identify the CIs and servers in your system with the highest resource consumption, and the most recent active alerts.
 
-You can customize the appearance of individual widgets on the Monitoring Technology Dashboard. For example, you could change the data parameters displayed for the CPU Utilization \(Linux\) metric, like the date range. You can include the customized widgets when creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](../task/customize-dashboard-widgets.md).
+You can customize the appearance of individual widgets on the Monitoring Technology Dashboard. For example, you could change the data parameters displayed for the CPU Utilization \(Linux\) metric, like the date range. You can include the customized widgets when creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](customize-dashboard-widgets.md).
 
 The Monitoring Technology Dashboard shows the five CIs and servers with the highest metric readouts during the past six hours, and the 50 most recent active alerts on your OS's servers.
 
@@ -41,7 +41,7 @@ With the AWS Monitoring Technology Dashboard, you can monitor the health and per
 With the GCP Monitoring Technology Dashboard, you can monitor the health and performance of your GCP infrastructure. By using the dashboard, you can identify the configuration items \(CIs\) and servers with the highest metric readouts, and view the most recent active alerts on those CIs and servers.
 -   **[Monitoring Technology Dashboard for VMware vSphere](monitor-tech-dashboard-vsphere.md)**  
 With the VMware vSphere Monitoring Technology Dashboard, you can monitor the health and performance of your VMware vSphere infrastructure. By using the dashboard, you can identify the configuration items \(CIs\) and servers with the highest metric readouts, and view the most recent active alerts on those CIs and servers.
--   **[Customize the Monitoring Technology Dashboard](../task/customize-dashboard-widgets.md)**  
+-   **[Customize the Monitoring Technology Dashboard](customize-dashboard-widgets.md)**  
 Customize the Monitoring Technology Dashboard widgets in the Data Visualizations library so your dashboard displays information exactly as you want to see it.
 
 **Parent Topic:**[Deploying Agent Client Collector on endpoints](acc-endpoint-deployment.md)

@@ -26,7 +26,7 @@ Role required: admin
 
             Enables you to manage work requests that are performed on location by field service agents.
 
-            For information, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+            For information, see [Activate Field Service Management](../t_ActivateFieldServiceManagement.md).
 
         -   **Field Service Mobile**
 

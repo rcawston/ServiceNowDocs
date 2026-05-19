@@ -63,5 +63,5 @@ Knowledge Graph is a ServiceNow AI Platform feature that is active on installati
     Unlock your enterprise productivity with ServiceNow® Virtual Agent. Increase deflections by empowering your employees and customers to serve themselves using a friendly messaging interface, featuring prebuilt conversations powered by artificial intelligence.
 
 
-**Parent Topic:**[AI Experiences release notes](../analytics-intelligence-reporting/intelligent-experiences-rn-landing.md)
+**Parent Topic:**[AI Experiences release notes](intelligent-experiences-rn-landing.md)
 

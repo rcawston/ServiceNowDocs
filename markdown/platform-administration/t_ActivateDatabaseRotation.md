@@ -48,12 +48,12 @@ For new instances, database rotation is active by default. If you are upgrading 
 
 Do not activate the Database Rotations Default Tables \(com.snc.db.rotation\_default\_tables\) plugin. Instead, specify the tables manually, after consulting a ServiceNow representative.
 
-**Parent Topic:**[Applying database rotation techniques](../concept/c_DatabaseRotation.md)
+**Parent Topic:**[Applying database rotation techniques](c_DatabaseRotation.md)
 
 **Related topics**  
 
 
-[Table rotation](../../platform-performance/concept/c_TableRotation.md)
+[Table rotation](c_TableRotation.md)
 
-[Table extension](../../managing-data/concept/table-extension.md)
+[Table extension](table-extension.md)
 

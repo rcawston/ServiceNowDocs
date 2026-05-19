@@ -23,7 +23,7 @@ MetricBase collects the metrics of how often you send data and what the aggregat
 
 ![MetricBase and instance relationship](../image/mb-glide-relationship.png "Sending information from an instance to a MetricBase server")
 
--   [Create a time-series definition in MetricBase](../task/set-up-data-monitoring.md)
+-   [Create a time-series definition in MetricBase](set-up-data-monitoring.md)
 
     Specify the metric that you want to store, how often to collect it, and how long to store it in MetricBase.
 
@@ -31,7 +31,7 @@ MetricBase collects the metrics of how often you send data and what the aggregat
 
     Specify how long MetricBase stores the time-series data in the MetricBase database.
 
--   [MetricBase retention policies](../reference/metricbase-retention-policies.md)
+-   [MetricBase retention policies](metricbase-retention-policies.md)
 
     Retain data in MetricBase according to retention policies.
 

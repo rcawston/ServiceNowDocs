@@ -19,7 +19,7 @@ There are several types of user groups that serve different capabilities. The mo
 
 Additionally, you can create optional group types based on your specific needs, including user groups for initiators, managers, territory planners, and more. For example, you can create user groups for qualifiers to implement an additional qualification step to review and approve work orders. By setting up these groups, you can assign the appropriate roles and users to each group. The roles assigned to the group are automatically inherited by the users within that group, so you don’t need to individually assign roles to each user.
 
-For more information about Field Service Roles, see [Roles installed with Field Service Management](../../planning-and-policy/reference/r_UserRoleInstallWFieldSrvMgmnt.md).
+For more information about Field Service Roles, see [Roles installed with Field Service Management](../r_UserRoleInstallWFieldSrvMgmnt.md).
 
 For information about assigning a role to a user group, see [Assign a role to a group](https://servicenow.com/docs/bundle/vancouver-platform-administration/page/administer/roles/task/t_AssignRoleToGroup.html).
 
@@ -285,7 +285,7 @@ Role required: wm\_admin
 
 Assign one or more roles from the list of available roles to the user group.
 
- For more information on roles and assigning them to user groups, see [Roles installed with Field Service Management](../../planning-and-policy/reference/r_UserRoleInstallWFieldSrvMgmnt.md) and [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).
+ For more information on roles and assigning them to user groups, see [Roles installed with Field Service Management](../r_UserRoleInstallWFieldSrvMgmnt.md) and [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).
 
 </td></tr><tr><td id="d107494e458">
 
@@ -313,7 +313,7 @@ Create a child user group.
 
 Assign one or more skills from the list of available skills to the user group.
 
- For more information on assigning skills, see [Manage Field Service and Customer Service skills](../reference/field-service-manager-agent-skills.md).
+ For more information on assigning skills, see [Manage Field Service and Customer Service skills](field-service-manager-agent-skills.md).
 
 </td></tr><tr><td id="d107494e508">
 
@@ -323,7 +323,7 @@ Assign one or more skills from the list of available skills to the user group.
 
 Assign one or more locations from the list of locations to the user group.
 
- For more information on assigning locations to a group, see [Assign a location to a group](../../work-management/concept/c_TerritoryManagement.md#).
+ For more information on assigning locations to a group, see [Assign a location to a group](c_TerritoryManagement.md#).
 
 </td></tr><tr><td id="d107494e531">
 
@@ -373,7 +373,7 @@ Role required: wm\_admin
 
 Assign one or more roles from the list of available roles to the user group.
 
- For more information on roles and assigning them to user groups, see [Roles installed with Field Service Management](../../planning-and-policy/reference/r_UserRoleInstallWFieldSrvMgmnt.md) and [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).
+ For more information on roles and assigning them to user groups, see [Roles installed with Field Service Management](../r_UserRoleInstallWFieldSrvMgmnt.md) and [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).
 
 </td></tr><tr><td id="d107494e695">
 
@@ -401,7 +401,7 @@ Create a child user group.
 
 Assign one or more locations from the list of locations to the qualifier user group.
 
- For more information on assigning locations to a group, see [Assign a location to a group](../../work-management/concept/c_TerritoryManagement.md#).
+ For more information on assigning locations to a group, see [Assign a location to a group](c_TerritoryManagement.md#).
 
 </td></tr></tbody>
 </table>6.  Click **Update**.
@@ -427,7 +427,7 @@ Role required: admin
 
 5.  Use the following tabs to add additional information to the agent user group.
 
-    For more information about Field Service Roles, see [Roles installed with Field Service Management](../../planning-and-policy/reference/r_UserRoleInstallWFieldSrvMgmnt.md).
+    For more information about Field Service Roles, see [Roles installed with Field Service Management](../r_UserRoleInstallWFieldSrvMgmnt.md).
 
 <table id="choicetable_qrz_byd_hxb"><tbody><tr><td id="d107494e870">
 
@@ -437,7 +437,7 @@ Role required: admin
 
 Assign one or more roles from the list of available roles to the user group.
 
- For more information on roles and assigning them to user groups, see [Roles installed with Field Service Management](../../planning-and-policy/reference/r_UserRoleInstallWFieldSrvMgmnt.md) and [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md) .
+ For more information on roles and assigning them to user groups, see [Roles installed with Field Service Management](../r_UserRoleInstallWFieldSrvMgmnt.md) and [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md) .
 
 </td></tr><tr><td id="d107494e899">
 

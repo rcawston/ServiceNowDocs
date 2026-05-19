@@ -33,7 +33,7 @@ The examples in this guide assume that a custom table, `u_geopoint`, is populate
 
 Use the GlideGeoPoint API to insert new records and create new geopoints.
 
-The [GlideGeoPoint - Global](../../../../app-store/dev_portal/API_reference/GlideGeoPoint/concept/GlideGeopointGlobalAPI.md#) API allows you to set and retrieve geopoint values. However, you can perform additional functionality to insert new records by setting geopoints directly in a script using string notation or a GlideGeoPoint object.
+The [GlideGeoPoint - Global](../server-api-reference/GlideGeopointGlobalAPI.md#) API allows you to set and retrieve geopoint values. However, you can perform additional functionality to insert new records by setting geopoints directly in a script using string notation or a GlideGeoPoint object.
 
 -   **Inserting a new record using string notation.**
 
@@ -74,7 +74,7 @@ The [GlideGeoPoint - Global](../../../../app-store/dev_portal/API_reference/Glid
 
 Use the getDisplayValue\(\) GlideGeoPoint API function to read all geopoint values from a specific table.
 
-The standard GlideGeoPoint API allows you to retrieve a geopoint value via the [GlideGeoPoint - getDisplayValue\(\)](../../../../app-store/dev_portal/API_reference/GlideGeoPoint/concept/GlideGeopointGlobalAPI.md#) function. However, it is possible to read all geopoints defined in an entire table. The following example script demonstrates how to use the getDisplayValue\(\) function to retrieve all records from the `u_geopoint` table, which includes the `u_location` field of type 'geopoint'. You can this example script and adjust it to your own specific use case.
+The standard GlideGeoPoint API allows you to retrieve a geopoint value via the [GlideGeoPoint - getDisplayValue\(\)](../server-api-reference/GlideGeopointGlobalAPI.md#) function. However, it is possible to read all geopoints defined in an entire table. The following example script demonstrates how to use the getDisplayValue\(\) function to retrieve all records from the `u_geopoint` table, which includes the `u_location` field of type 'geopoint'. You can this example script and adjust it to your own specific use case.
 
 **Note:** GlideGeoPoint API values are always listed in longitude, latitude order.
 

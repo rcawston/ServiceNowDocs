@@ -35,7 +35,7 @@ You can expand the product hierarchy to show the available characteristics and o
 
 ![Product configurator interface showing the gear icon that identifies hierarchical product characteristics available](../../customer-service-management/image/complex-char-configUI-order.png "Complex characteristics and options in the product configurator")
 
--   **[Create multiple configurations](../task/create-multiple-child-configs.md)**  
+-   **[Create multiple configurations](create-multiple-child-configs.md)**  
 Create multiple configurations of a child product offering when you're adding a configurable product to an opportunity, quote, or order. You can then configure the product options and characteristics separately for each offering configuration.
 
 **Parent Topic:**[Using configure, price, quote applications](using-cpq.md)

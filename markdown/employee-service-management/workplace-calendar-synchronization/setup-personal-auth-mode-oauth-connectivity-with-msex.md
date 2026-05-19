@@ -31,7 +31,7 @@ Role required: admin
 
 3.  On the Third-party OAuth Provider form, fill in the fields:
 
-    For a description of the field values, see [Third-party OAuth Provider form](../reference/wsd-third-party-oauth-provider-form.md).
+    For a description of the field values, see [Third-party OAuth Provider form](wsd-third-party-oauth-provider-form.md).
 
 4.  Right-click in the form header and select **Save**.
 
@@ -52,7 +52,7 @@ Role required: admin
 
 The OAuth registration is added for Microsoft Exchange Online with personal authentication mode OAuth entity profiles and OAuth entity scopes.
 
-**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](../concept/personal-auth-mode-connection-with-msex.md)
+**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](personal-auth-mode-connection-with-msex.md)
 
 **Related topics**  
 

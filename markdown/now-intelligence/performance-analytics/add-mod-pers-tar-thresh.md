@@ -64,5 +64,5 @@ You can either look up the personal targets or thresholds of a user or create a 
     You can have more than one target value, but the date ranges between start and review cannot overlap.
 
 
-**Parent Topic:**[Performance Analytics targets and thresholds](../concept/pa-targets-thresholds.md)
+**Parent Topic:**[Performance Analytics targets and thresholds](pa-targets-thresholds.md)
 

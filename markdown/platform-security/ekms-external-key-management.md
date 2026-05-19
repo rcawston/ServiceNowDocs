@@ -44,7 +44,7 @@ This architecture ensures that your instance never has direct access to decrypt 
 
 ## Key status synchronization
 
-The EKMS Health Check background job runs every 30 minutes to synchronize the AWS key status with your instance. The synchronization ensures that key state changes in AWS \(enabled, disabled, pending deletion, deleted\) are reflected in the key's status in the EKMS configuration. Users with the security\_admin role can change this frequency by modifying the `com.glide.encryption.ekms.scheduler.health_check_interval`system property. See [Change synchronization frequency](../task/ekms-change-synchronization-frequency.md).
+The EKMS Health Check background job runs every 30 minutes to synchronize the AWS key status with your instance. The synchronization ensures that key state changes in AWS \(enabled, disabled, pending deletion, deleted\) are reflected in the key's status in the EKMS configuration. Users with the security\_admin role can change this frequency by modifying the `com.glide.encryption.ekms.scheduler.health_check_interval`system property. See [Change synchronization frequency](ekms-change-synchronization-frequency.md).
 
 **Important:** AWS-deleted keys require a minimum of seven days before showing the deleted status, as this is controlled by AWS retention policies.
 
@@ -97,9 +97,9 @@ To activate the External Key Management Service, you must first purchase a subsc
 
 The ServiceNow Platform Encryption subscription bundle is a group commercial entitlement that includes Field Encryption Enterprise and Cloud Encryption.
 
-Field Encryption Enterprise is the unlimited license of Field Encryption Starter. Field Encryption Enterprise is available with the activation of the com.glide.field.encryption.enterprise plugin. For details, see [Encryption and Key Management subscription bundle](../reference/encryption-sku.md).
+Field Encryption Enterprise is the unlimited license of Field Encryption Starter. Field Encryption Enterprise is available with the activation of the com.glide.field.encryption.enterprise plugin. For details, see [Encryption and Key Management subscription bundle](platform-encryption/encryption-sku.md).
 
-Once you’ve installed the Field Encryption Enterprise plugin, install the EKMS plugin called “Platform Encryption External Key Management”. The plugin id is com.glide.encryption.external\_kms. See [Activate External Key Management Service](../task/ekms-activate-external-key-management.md) for more information.
+Once you’ve installed the Field Encryption Enterprise plugin, install the EKMS plugin called “Platform Encryption External Key Management”. The plugin id is com.glide.encryption.external\_kms. See [Activate External Key Management Service](ekms-activate-external-key-management.md) for more information.
 
 -   **[Configuring External Key Management Service](ekms-configuring-external-key-management.md)**  
 Set up External Key Management Service \(EKMS\) to control the encryption of your ServiceNow data using your Amazon Web Service Key Management System \(AWS KMS\).

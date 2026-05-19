@@ -40,5 +40,5 @@ Role required: events\_admin
     You can select any slow moving event and change the queue as required. You can also register an event to show up on the event registry list.
 
 
-**Parent Topic:**[Managing system events](../concept/managing-system-events.md)
+**Parent Topic:**[Managing system events](managing-system-events.md)
 

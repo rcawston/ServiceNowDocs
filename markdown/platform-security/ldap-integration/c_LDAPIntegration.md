@@ -49,7 +49,7 @@ LDAP integration features include the following.
 
     An integration to the LDAP servers allows you to quickly and easily populate the instance's database with user records from the existing LDAP database. To prevent data inconsistencies, you can create, ignore, or skip incoming LDAP records.
 
-    You can also limit the data the integration imports by specifying LDAP attributes, thereby importing only the data that you want to expose to an instance. Typically, the LDAP attributes you specify become part of the integration [transform map](c_LDAPTransformMaps.md). If you do not specify any LDAP attributes, the integration imports all available object attributes from the LDAP server. The instance stores imported LDAP data in temporary import set tables, so the more attributes you import, the longer the import time. For more information, see [Specify the LDAP attributes](../task/t_SpecifyLDAPAttributes.md).
+    You can also limit the data the integration imports by specifying LDAP attributes, thereby importing only the data that you want to expose to an instance. Typically, the LDAP attributes you specify become part of the integration [transform map](c_LDAPTransformMaps.md). If you do not specify any LDAP attributes, the integration imports all available object attributes from the LDAP server. The instance stores imported LDAP data in temporary import set tables, so the more attributes you import, the longer the import time. For more information, see [Specify the LDAP attributes](t_SpecifyLDAPAttributes.md).
 
 -   **LDAP authentication**
 

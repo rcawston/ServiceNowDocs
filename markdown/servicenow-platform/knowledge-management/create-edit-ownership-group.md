@@ -108,5 +108,5 @@ Members of the ownership group.
     4.  In the **Manager** field, enter a manager and add the role knowledge\_group\_manager.
     5.  In the Roles related list, click **Edit** and add the role knowledge\_group\_member to the group.
 
-**Parent Topic:**[Using Knowledge Management](../concept/using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
 

@@ -129,5 +129,5 @@ Determines who to create the bulk HR case for:-   Upload file:
 6.  Select the **Cases created** tab to view a list of cases created.
 
 
-**Parent Topic:**[Creating bulk cases](../concept/bulk-case.md)
+**Parent Topic:**[Creating bulk cases](bulk-case.md)
 

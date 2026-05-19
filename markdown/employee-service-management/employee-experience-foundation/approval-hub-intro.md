@@ -73,5 +73,5 @@ Here is what an employee can do.
     -   Submit your approval requests from any internal and external applications.
     -   View progress or status of the request.
 
-For more information, see [Approvals experience reference](../reference/approval-hub-ootb.md) and [Use approval experience](../task/ec-to-dos-use-approval-hub.md).
+For more information, see [Approvals experience reference](approval-hub-ootb.md) and [Use approval experience](ec-to-dos-use-approval-hub.md).
 

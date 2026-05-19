@@ -87,7 +87,7 @@ Complete these steps from the Microsoft Azure portal.
 
     2.  Click **Add a permission** to add the required permissions to access the APIs.
 
-        For information about permissions needed to perform the required actions, see the Spoke actions section here: [Microsoft Azure RBAC Spoke](../concept/azure-rbac-spoke.md).
+        For information about permissions needed to perform the required actions, see the Spoke actions section here: [Microsoft Azure RBAC Spoke](azure-rbac-spoke.md).
 
         ![Add the required API permissions.](../image/rbac-api-perm.jpg)
 
@@ -118,7 +118,7 @@ Role required: admin
 
         ![Click View Details to configure the default alias.](../image/rbac-conn-temp.jpg)
 
-    -   To manage more than one Microsoft Azure RBAC spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Microsoft Azure RBAC spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Click Configure if you are configuring the spoke for the first time.](../image/rbac-conn-temp-2.jpg)

@@ -29,7 +29,7 @@ This example demonstrates table notifications to be sent out to related feeds.
 **Related topics**  
 
 
-[Set up table notifications for task tables](../task/t_SetUpATableNotifForATaskTable.md)
+[Set up table notifications for task tables](t_SetUpATableNotifForATaskTable.md)
 
-[Set up table notifications for non-task tables](../task/t_SetUpTableNotifNonTaskTables.md)
+[Set up table notifications for non-task tables](t_SetUpTableNotifNonTaskTables.md)
 

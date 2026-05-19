@@ -39,7 +39,7 @@ Accounts Payable Operations overview
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](../reference/acc-pay-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](acc-pay-reference.md)
 
 </td><td>
 
@@ -52,7 +52,7 @@ Here are some additional ServiceNow resources that can help you:
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-docs.svg) Release Notes**
 
-    Learn more about what's new and changed. See the [Accounts Payable Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/accounts-payable-operations-rn.md).
+    Learn more about what's new and changed. See the [Accounts Payable Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/accounts-payable-operations-rn.md).
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-learning.svg) ServiceNow University**
 

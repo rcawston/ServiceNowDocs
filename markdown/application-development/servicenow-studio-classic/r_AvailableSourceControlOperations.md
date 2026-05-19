@@ -17,7 +17,7 @@ The source control integration primarily supports operations from Studio, but ca
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 <table id="table_w5q_nph_t5"><thead><tr><th>
 
@@ -195,12 +195,12 @@ Source Control repository sync
 
 </td><td>
 
-Allows admins to apply remote changes from the Source Control repository, to resynchronize with the instance.**Note:** This operation is only available if Delta loading is being used for the repository. See [Legacy - Delta loading](../concept/delta-loading.md).
+Allows admins to apply remote changes from the Source Control repository, to resynchronize with the instance.**Note:** This operation is only available if Delta loading is being used for the repository. See [Legacy - Delta loading](delta-loading.md).
 
 </td><td>
 
 Repository Configuration form
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legacy - Source Control integration](../concept/c_SourceControlIntegration.md)
+</table>**Parent Topic:**[Legacy - Source Control integration](c_SourceControlIntegration.md)
 

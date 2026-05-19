@@ -13,7 +13,7 @@ breadcrumb: [Configure, Care Team Operations for Environmental Services, Healthc
 
 To manage access effectively in Care Team Operations for Environmental Services, first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for Healthcare Operations-specific use cases.
 
-To understand how roles and responsibilities function in Healthcare Operations, see [Setting up roles and responsibilities for Healthcare Operations users](cto-setting-up-roles-responsibilities.md).
+To understand how roles and responsibilities function in Healthcare Operations, see [Setting up roles and responsibilities for Healthcare Operations users](healthcare-operations-core/cto-setting-up-roles-responsibilities.md).
 
 The following roles and responsibilities are included with Care Team Operations for Environmental Services:
 
@@ -44,6 +44,6 @@ Can view/resolve all cases under their assignment group, tracks, and fulfill cas
 </td></tr></tbody>
 </table>## What to do next
 
-1.  [Set up roles for Care Team Operations for Environmental Services](../task/cto-evs-assign-roles.md)
-2.  [Assign responsibilities to Care Team Operations for Environmental Services users](../task/cto-evs-assign-responsibilities.md)
+1.  [Set up roles for Care Team Operations for Environmental Services](cto-evs-assign-roles.md)
+2.  [Assign responsibilities to Care Team Operations for Environmental Services users](cto-evs-assign-responsibilities.md)
 

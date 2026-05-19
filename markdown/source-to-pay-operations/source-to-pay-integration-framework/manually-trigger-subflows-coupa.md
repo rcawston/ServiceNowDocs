@@ -36,7 +36,7 @@ Role required: sn\_fcms\_intg.integration\_user
 
 To view the status of the executed flow and a list of errors \(if any\), see [View the execution status of a flow](view-executed-flow-status.md)
 
-**Parent Topic:**[Use Source-to-Pay integration with Coupa](../concept/using-source-to-pay-coupa-integration.md)
+**Parent Topic:**[Use Source-to-Pay integration with Coupa](using-source-to-pay-coupa-integration.md)
 
 **Related topics**  
 

@@ -33,7 +33,7 @@ Dependencies are added in the events only when the user selects the **Update dep
 
 Setting up the Event dependency source configuration module is a one-time activity. Once the sources are configured in the Event dependency source configuration module, the updates are synchronized in the events.
 
-For more information on setting up the Event dependency source configuration module, see [Configure Event dependency source configuration record](../task/conf-event-dep-source-confi-module.md).
+For more information on setting up the Event dependency source configuration module, see [Configure Event dependency source configuration record](conf-event-dep-source-confi-module.md).
 
 ## Roles associated with event dependency updates
 
@@ -57,13 +57,13 @@ The BCM application executes a workflow to update the impacted assets in the eve
 4.  If the event record matches any configuration filter, the system gets the dependencies of the added assets in real time according to the sources defined in the configuration \(Event dependency source configuration module\).
 5.  If the event record does not match any configuration filter, the events workflow then continues for the next steps, the events workflow then continues for the next steps.
 
-For more information on updating the event dependencies manually, see [Update the event dependencies](../task/update-event-dep-manually.md).
+For more information on updating the event dependencies manually, see [Update the event dependencies](update-event-dep-manually.md).
 
 ## Data Relationships Framework
 
 Beginning with the Australia release, the Data Relationships Framework \(com.sn\_app\_grc\_relationship\_config\) application supports the BCM application with the underlying framework to add the dependencies of the impacted assets in the events and exercises. The Data Relationships Framework application is installed with the BCM application by default.
 
-For more information on the Data Relationships Framework, see [Data Relationships Framework](../../grc-common/concept/data-relationship-framework.md).
+For more information on the Data Relationships Framework, see [Data Relationships Framework](data-relationship-framework.md).
 
 **Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
 

@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-You can create the equipment instances that have the inventory category set as Equipment. When you create an equipment record, it creates a configuration item \(CI\) record in the corresponding equipment table. To learn more about the equipment extended classes, see [Data model](../concept/uses-for-network-inventory-data.md).
+You can create the equipment instances that have the inventory category set as Equipment. When you create an equipment record, it creates a configuration item \(CI\) record in the corresponding equipment table. To learn more about the equipment extended classes, see [Data model](uses-for-network-inventory-data.md).
 
 ## Procedure
 
@@ -45,7 +45,7 @@ Description
 
 </td><td>
 
-Creates a record that you’ve selected. To learn more about the fields in the form, see [Router, Switch, Firewall, Virtual Machine, Load Balancer, and Server forms](../reference/router-form.md).
+Creates a record that you’ve selected. To learn more about the fields in the form, see [Router, Switch, Firewall, Virtual Machine, Load Balancer, and Server forms](router-form.md).
 
 </td></tr><tr><td id="d70535e140">
 
@@ -66,7 +66,7 @@ Creates a Kubernetes pod machine instance. To learn more about the fields in the
 </td></tr></tbody>
 </table>3.  Select **New** and then select the equipment type from the list.
 
-    To learn more about the equipment extended classes, see [Equipment extension classes](../reference/equipment-extension-classes.md).
+    To learn more about the equipment extended classes, see [Equipment extension classes](equipment-extension-classes.md).
 
 4.  In the Equipment form, fill in the fields.
 
@@ -82,7 +82,7 @@ Creates a Kubernetes pod machine instance. To learn more about the fields in the
 
 6.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see the [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see the [TNI CI Attributes form](ci-attribue-form.md).
 
 7.  Select **Save**.
 
@@ -94,7 +94,7 @@ Creates a Kubernetes pod machine instance. To learn more about the fields in the
 
 9.  Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Add Packs** to capture the attributes for a configuration item \(CI\) record.
 
-    To learn more, see [Attribute pack for CI records](../concept/using-pack-table-ci-record.md).
+    To learn more, see [Attribute pack for CI records](using-pack-table-ci-record.md).
 
 10. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Decommission** to decommission a CI record.
 
@@ -107,17 +107,17 @@ Creates a Kubernetes pod machine instance. To learn more about the fields in the
 
 ## What to do next
 
--   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+-   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 -   To delete an inventory record, see [Delete a record](delete-inventory-record.md).
 
 -   **[Review and update the telecommunications equipment details](define-tni-equipment.md)**  
 Review and update a network asset instance for your telecommunications equipment. You define the equipment instances so that you can track and manage your network assets in the Telecommunications Network Inventory application.
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Modeling your workflow](../concept/telecommunications-network-inventory-workflow.md)
+[Modeling your workflow](telecommunications-network-inventory-workflow.md)
 

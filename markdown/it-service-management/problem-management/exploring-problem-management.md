@@ -64,7 +64,7 @@ Create a problem to identify the root cause of the incident.
 
 </td><td>
 
-[Create a problem](../task/create-a-problem-v2.md)
+[Create a problem](create-a-problem-v2.md)
 
 </td><td>
 
@@ -76,7 +76,7 @@ Add multiple incidents to a problem to avoid creating multiple problems for inci
 
 </td><td>
 
-[Add multiple incidents to a problem](../task/add-multiple-incidents-to-problem.md)
+[Add multiple incidents to a problem](add-multiple-incidents-to-problem.md)
 
 </td><td>
 
@@ -88,7 +88,7 @@ Create a problem task to initiate the root cause analysis.
 
 </td><td>
 
-[Create a problem task](../task/create-problem-task.md)
+[Create a problem task](create-problem-task.md)
 
 </td><td>
 
@@ -100,7 +100,7 @@ Document and communicate a workaround to restore service failures and lessen the
 
 </td><td>
 
-[Communicate workaround for Problem](../task/communicate-workaround.md#)
+[Communicate workaround for Problem](communicate-workaround.md#)
 
 </td><td>
 
@@ -112,7 +112,7 @@ Create known error articles as reference material.
 
 </td><td>
 
-[Create a known error article](../task/create-known-error-from-problem.md)
+[Create a known error article](create-known-error-from-problem.md)
 
 </td><td>
 
@@ -124,7 +124,7 @@ Implement a resolution to a problem by applying a standard change procedure and 
 
 </td><td>
 
-[Create change request from a problem](../task/fix-a-change.md)
+[Create change request from a problem](fix-a-change.md)
 
 </td><td>
 
@@ -136,7 +136,7 @@ Resolve the issue and add detailed notes for the resolution for future reference
 
 </td><td>
 
-[Resolve and complete a problem](../task/resolve-and-complete-problem.md)
+[Resolve and complete a problem](resolve-and-complete-problem.md)
 
 </td><td>
 
@@ -145,7 +145,7 @@ Problem Coordinator
 </td></tr></tbody>
 </table>## Redirection of UI16 module links to Service Operations Workspace
 
-If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the Problem Management module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the Problem Management module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 **Note:** For new instances, this redirection configuration is automatically available in the base system. For upgrade instances, administrators can configure the redirection behavior from the SOW Admin Center.
 

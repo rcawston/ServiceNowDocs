@@ -36,7 +36,7 @@ Use **glide.enable.notify\_on\_task** property to enable Notify integration for 
     Any conference call records created from a task are associated with that task. You can view associated conference calls from the task record in the **Conference calls** related list. You may need to configure the form to add the related list.
 
 
-**Parent Topic:**[Using Notify with tasks](../concept/c_NotifyOnTask.md)
+**Parent Topic:**[Using Notify with tasks](c_NotifyOnTask.md)
 
 **Related topics**  
 

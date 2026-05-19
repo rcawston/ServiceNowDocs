@@ -193,9 +193,9 @@ Review the item and submit it.
 
         -   Glide Virtual Agent \(com.glide.cs.chatbot\)
         -   Glide Virtual Agent Lite \(com.glide.cs.chatbot.lite\)
-        A Virtual Agent conversation whose sys\_id is specified in the **glide.sc.builder.va\_preview\_topic\_id** property is opened. By default, the property has the sys\_id of the base system Catalog builder preview topic. For information about this topic, see [Catalog builder preview topic conversation](../concept/catalog-builder-preview-topic.md). If the base system topic is used, the following scenarios are possible:
+        A Virtual Agent conversation whose sys\_id is specified in the **glide.sc.builder.va\_preview\_topic\_id** property is opened. By default, the property has the sys\_id of the base system Catalog builder preview topic. For information about this topic, see [Catalog builder preview topic conversation](catalog-builder-preview-topic.md). If the base system topic is used, the following scenarios are possible:
 
-        -   If the item is supported in the conversation mode, you can preview the item in the Virtual Agent conversation by answering the questions but cannot submit a request for the item. For information about when a catalog item is supported in the conversation mode, [Service Catalog topic blocks in Virtual Agent powered by NLU](../concept/request-topic-blocks-va.md).
+        -   If the item is supported in the conversation mode, you can preview the item in the Virtual Agent conversation by answering the questions but cannot submit a request for the item. For information about when a catalog item is supported in the conversation mode, [Service Catalog topic blocks in Virtual Agent powered by NLU](request-topic-blocks-va.md).
         -   If the item is not supported in the conversation mode, a link is provided for the portal preview of the item.
         -   When the required plugins are not installed, an illustration displaying a sample conversational experience for the catalog item submission appears.
     4.  To open the preview in a new tab, click **Open preview in a new tab**.
@@ -213,7 +213,7 @@ Review the item and submit it.
 
 -   **[Define a service fulfillment step](create-sf-step.md)**  
 Define how a catalog item request should be fulfilled by creating simple service fulfillment steps.
--   **[Catalog builder preview topic conversation](../concept/catalog-builder-preview-topic.md)**  
+-   **[Catalog builder preview topic conversation](catalog-builder-preview-topic.md)**  
 From the catalog builder, a user can preview a catalog item in a Virtual Agent conversation.
 
 **Parent Topic:**[Creating or editing catalog item template](create-cat-item-template-cat-builder.md)

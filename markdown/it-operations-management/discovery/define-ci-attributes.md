@@ -20,8 +20,8 @@ Define attributes on a Discovery schedule, IP network, IP range set, or IP addre
 Confirm the following
 
 -   You have at least one validated MID Server with a status of **Up**. The MID Server must reach the IP ranges that you intend to discover. You can install the MID Server by using [Use MID Server guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/use-mid-server-guidedsetup.md) or by manually downloading and running the installer. For details, see the MID Server installation instructions for [Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_InstallAMIDServerOnLinux.md) and [Windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md).
--   You have an active Discovery schedule with at least one range set and IP address range configured. For more information, see [Create an IP-based Discovery schedule in Discovery Admin Workspace](t-dawCreateNewDiscoSchedule.md) and [Discovery IP address configuration](../reference/discovery-ip-address-configuration.md#).
--   You have installed and configured Visibility Content v6.30.0. For more information, see [Install Visibility Content](../../service-mapping/task/install-itom-visibility-global-content.md).
+-   You have an active Discovery schedule with at least one range set and IP address range configured. For more information, see [Create an IP-based Discovery schedule in Discovery Admin Workspace](t-dawCreateNewDiscoSchedule.md) and [Discovery IP address configuration](discovery-ip-address-configuration.md#).
+-   You have installed and configured Visibility Content v6.30.0. For more information, see [Install Visibility Content](../discovery-and-service-mapping-patterns/install-itom-visibility-global-content.md).
 
 Role required: discovery\_admin
 

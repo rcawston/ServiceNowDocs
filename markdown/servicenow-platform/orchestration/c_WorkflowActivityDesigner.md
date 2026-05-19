@@ -17,7 +17,7 @@ The Orchestration activity designer enables a user with either the workflow\_adm
 
 Activities created by the activity designer offer the following advantages over core activities offered in previous releases:
 
--   Reuse [custom activities](../task/create-custom-activities.md) in multiple workflows.
+-   Reuse [custom activities](create-custom-activities.md) in multiple workflows.
 -   Upload and download custom activities from the ServiceNow Store.
 -   Parse data from standard input formats.
 -   Test input variables against a target host or endpoint and inspect the payload.
@@ -45,16 +45,16 @@ For instructions on using activities to construct a workflow, see [Add an activi
 
 -   **[Introduction to credentials, connections, and aliases for Orchestration](credentials-conn-alias-orch.md#)**  
 All application integrations in Orchestration require connection information, credentials, and connection and credential aliases to their respective applications to access resources.
--   **[Create custom activities using custom activity designer templates](../task/create-custom-activities.md)**  
+-   **[Create custom activities using custom activity designer templates](create-custom-activities.md)**  
 You can create and update different types of custom activities in the Workflow Editor using a custom template.
 -   **[Orchestration custom activity templates](c_ActivityDesignerComponents.md)**  
 Orchestration provides customizable activity templates to create and manage custom activities in the Workflow Editor.
 -   **[Activity scoping](c_ActivityScoping.md)**  
 Custom activities run in their own scope, even if it is different from that of the workflow.
--   **[Publish a custom activity](../task/t_PublishACustomActivity.md#)**  
+-   **[Publish a custom activity](t_PublishACustomActivity.md#)**  
 When a user creates a custom activity and saves or submits it, that activity appears in the **Custom** and **Packs** tabs of the designer palette, but is visible only to the user who created it.
--   **[Copy a custom activity](../task/t_CopyACustomActivity.md)**  
+-   **[Copy a custom activity](t_CopyACustomActivity.md)**  
 You can copy activities for reuse from the **Custom** tab in the global scope.
 
-**Parent Topic:**[Classic Orchestration](../../../product/orchestration/reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](r-orchestration.md)
 

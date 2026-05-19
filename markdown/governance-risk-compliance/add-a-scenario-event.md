@@ -27,7 +27,7 @@ Role required: sn\_oper\_res.manager
 
     2.  In the Scenario events form, select an event from the list and select **Add**.
 
-        For the descriptions of the field values on the Scenario event form, see [Scenario event form](../reference/sce-event-form.md).
+        For the descriptions of the field values on the Scenario event form, see [Scenario event form](sce-event-form.md).
 
         In the **Scenario events** tab, the selected scenario event is displayed.
 
@@ -70,7 +70,7 @@ Role required: sn\_oper\_res.manager
 
         The response task is completed and the state of the response task is updated to **Closed Complete**.
 
-    On the **Responses** tab, the details of the response task such as the response task number, name of the assigned participant, and state of the response task are displayed. For the descriptions of the field values on the scenario analysis response task form, see [Scenario analysis response task form](../reference/response-task-form.md).
+    On the **Responses** tab, the details of the response task such as the response task number, name of the assigned participant, and state of the response task are displayed. For the descriptions of the field values on the scenario analysis response task form, see [Scenario analysis response task form](response-task-form.md).
 
 6.  On the **Dependencies** tab, select **Add** to add a dependency or select **Add scope related dependency** for the scenario event.
 

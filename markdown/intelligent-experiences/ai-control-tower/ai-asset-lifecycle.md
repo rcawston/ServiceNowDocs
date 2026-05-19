@@ -37,7 +37,7 @@ The AI asset lifecycle consists of the following stages:
     The Deploy stage is the integration of an AI asset into your existing workflows. During this stage, you can also set up monitoring to track the performance of the AI asset. You can choose to deploy each AI asset through either a gradual roll-out, in which the asset can be used only by a specific subset of users within your organization, or a full roll-out, in which the asset can be used by any user within your organization.
 
 
-For more information on Completing AI lifecycle stages, see [Complete AI asset lifecycle](../task/complete-ai-asset-lifecycle.md)
+For more information on Completing AI lifecycle stages, see [Complete AI asset lifecycle](complete-ai-asset-lifecycle.md)
 
-For more information on view AI assets by lifecycle stage, see [View AI assets by life-cycle stage](../task/view-ai-assets-lifecycle-stage.md)
+For more information on view AI assets by lifecycle stage, see [View AI assets by life-cycle stage](view-ai-assets-lifecycle-stage.md)
 

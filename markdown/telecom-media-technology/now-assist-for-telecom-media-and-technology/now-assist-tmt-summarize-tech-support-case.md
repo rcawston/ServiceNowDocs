@@ -106,5 +106,5 @@ Fetch the latest test run summary by selecting the refresh icon \(![Refresh test
     -   To set the results, select **Save**.
     -   To go back to the test results list, select **Cancel**.
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

@@ -58,5 +58,5 @@ When you create an HR case from a support conversation, the system copies the co
     The system automatically shares the record in the conversation, copies the conversation to the record activity stream, and references the record on the Chat Queue Entry \[chat\_queue\_entry\] table. Any new journal fields added to the record do not appear in the chat. The system also changes the document ID for the conversation to reference the incident number instead of the entry in the Chat Queue Entry table.
 
 
-**Parent Topic:**[HR chat from lists and forms](../concept/chat-with-scoped-hr.md)
+**Parent Topic:**[HR chat from lists and forms](chat-with-scoped-hr.md)
 

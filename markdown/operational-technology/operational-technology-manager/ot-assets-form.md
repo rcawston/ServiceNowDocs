@@ -133,7 +133,7 @@ Discovery source
 
 </td><td>
 
-The Discovery source for the OT device data. For example, SG-OT Excel Import, if you imported the OT device from a Microsoft Excel spreadsheet using the Integration Hub ETL. To learn more, see [Service Graph Connector for Microsoft Excel](../concept/service-graph-connector-for-OT-excel.md).
+The Discovery source for the OT device data. For example, SG-OT Excel Import, if you imported the OT device from a Microsoft Excel spreadsheet using the Integration Hub ETL. To learn more, see [Service Graph Connector for Microsoft Excel](service-graph-connector-for-OT-excel.md).
 
 </td></tr><tr><td>
 

@@ -44,7 +44,7 @@ If the system property glide.update\_set.auto\_preview is set to `true`, the sys
     If problems were detected, address each problem in the Update Set Preview Problems related list.
 
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](using-system-update-sets.md)
 
 ## Review a preview record for an update set
 

@@ -55,10 +55,10 @@ Adds the Change Success Score icon to the change form, loads default rating reco
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Change Management - Change Success Score](../reference/installed-with-change-success-score.md)**  
+-   **[Components installed with Change Management - Change Success Score](installed-with-change-success-score.md)**  
 Several types of components are installed with activation of the Change Management - Change Success Score \(com.snc.change\_management.change\_success\_score\) plugin, including tables and scheduled jobs.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

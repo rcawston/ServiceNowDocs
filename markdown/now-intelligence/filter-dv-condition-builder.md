@@ -15,7 +15,7 @@ Use the condition builder to help you create a custom filter for a visualization
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## Procedure
 
@@ -57,10 +57,10 @@ Role required: Anyone with access to data can create a visualization of that dat
 12. Select **Add this source** to use the filtered source for your visualization.
 
 
--   **[Add a dynamic JavaScript filter](../../par-for-workspace/task/create-dynamic-js-filter-pae.md)**  
+-   **[Add a dynamic JavaScript filter](create-dynamic-js-filter-pae.md)**  
 Add a dynamic JavaScript statement for evaluation as part of a report visualization's filter criteria.
 -   **[Related list conditions example](filter-dv-condition-builder-rel-list.md)**  
 Related list conditions enable you to include a relationship with another table in the filter.
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](configure-data-visualizations.md)
 

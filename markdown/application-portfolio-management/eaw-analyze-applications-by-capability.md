@@ -21,7 +21,7 @@ Role required: sn\_apm.apm\_analyst
 
 You can narrow down the number of business applications that may be viewed, based on their application indicator scores.
 
-You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md).
+You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](generate-insights-into-ba.md).
 
 ## Procedure
 
@@ -66,7 +66,7 @@ You can also generate insights into business applications using Now Assist. For 
     ![Bubble chart page with a grouped bubble and the info section displaying the individual business applications within the grouped bubble, highlighted.](../../image/eaw-image/bubble-chart-group.png)
 
 
-**Parent Topic:**[Use bubble chart view](../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
+**Parent Topic:**[Use bubble chart view](eaw-using-app-rat-bubble-chart-view.md)
 
 **Related topics**  
 

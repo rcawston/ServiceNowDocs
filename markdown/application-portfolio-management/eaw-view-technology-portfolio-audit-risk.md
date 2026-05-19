@@ -17,7 +17,7 @@ The data in the **Technology portfolio audit** table is fetched from the TPM Tec
 
 As an admin user, you can run the **Populate TPM Discovered Technologies and Lifecycles** scheduled job on-demand to calculate the technology lifecycle risk for your application portfolio. The scheduled job executes the script generating the lifecycle risk dates including end of support date, end of extended support date, and end of life date for your software products and hardware models by querying the ITAM content library.
 
-For more details, see [Run a scheduled job to generate TPM lifecycle data](../../task/eaw-task/eaw-run-scheduled-job-update-tpm-data.md).
+For more details, see [Run a scheduled job to generate TPM lifecycle data](eaw-run-scheduled-job-update-tpm-data.md).
 
 Whether the script runs on demand or scheduled, you can view the results in the **Enterprise Architecture Workspace** &gt; **Setup** &gt; **Logs**.
 
@@ -30,7 +30,7 @@ If the software product full version is 9.2.1, it may be that the **End of Suppo
 **Related topics**  
 
 
-[View technology portfolio audit risk details](../../task/eaw-task/eaw-view-audit-risk-details.md)
+[View technology portfolio audit risk details](eaw-view-audit-risk-details.md)
 
-[Technology portfolio audit form](../../reference/eaw-reference/eaw-technology-portfolio-audit-form.md)
+[Technology portfolio audit form](eaw-technology-portfolio-audit-form.md)
 

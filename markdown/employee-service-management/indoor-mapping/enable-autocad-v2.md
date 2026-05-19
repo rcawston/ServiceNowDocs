@@ -58,12 +58,12 @@ Role required: admin
 
 11. Select **Save**.
 
-    The CAD configuration page is displayed. For more information, see [CAD configuration](../concept/autocad-v2-config-layout.md).
+    The CAD configuration page is displayed. For more information, see [CAD configuration](autocad-v2-config-layout.md).
 
 
-**Parent Topic:**[Autocad import tool](../concept/autocad-ovw-v2.md)
+**Parent Topic:**[Autocad import tool](autocad-ovw-v2.md)
 
-**Previous topic:**[Autocad import tool](../concept/autocad-ovw-v2.md)
+**Previous topic:**[Autocad import tool](autocad-ovw-v2.md)
 
-**Next topic:**[CAD configuration](../concept/autocad-v2-config-layout.md)
+**Next topic:**[CAD configuration](autocad-v2-config-layout.md)
 

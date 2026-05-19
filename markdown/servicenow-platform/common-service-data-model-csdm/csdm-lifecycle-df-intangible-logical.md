@@ -76,5 +76,5 @@ The intangible/logical life-cycle value pairs represent the overall life cycle o
     -   **Retired**: The software is no longer used and its licenses might have been revoked or reassigned.
     -   **Obsolete**: The software is no longer relevant due to security risks, incompatibility, or technological advancements.
 
-**Parent Topic:**[Life cycle of intangible/logical entities](../concept/csdm-lifecycle-logical.md)
+**Parent Topic:**[Life cycle of intangible/logical entities](csdm-lifecycle-logical.md)
 

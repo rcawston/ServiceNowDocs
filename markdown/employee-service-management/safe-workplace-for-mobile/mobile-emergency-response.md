@@ -77,9 +77,9 @@ Safe Workplace applications
 
 Receive important notifications generated in the Emergency Outreach application on your mobile device. You can also self-report your health status through these notifications.
 
-For more information about Emergency Outreach, see [Emergency Outreach](emergency-outreach.md).
+For more information about Emergency Outreach, see [Emergency Outreach](../emergency-outreach/emergency-outreach.md).
 
-For information on how to report your health status through push notifications, see [Report your health status](../task/emp-check-in-emergency-outreach.md).
+For information on how to report your health status through push notifications, see [Report your health status](../emergency-outreach/emp-check-in-emergency-outreach.md).
 
 
 </td></tr><tr><td>
@@ -90,7 +90,7 @@ For information on how to report your health status through push notifications, 
 
 -   **Report your health status on the service response dashboard**
 
-Under My Current Health Status, click your name to report your health status. For more information, see [Report your health status in Now Mobile](../task/mobile-self-report.md).
+Under My Current Health Status, click your name to report your health status. For more information, see [Report your health status in Now Mobile](mobile-self-report.md).
 
 
 </td></tr><tr><td>
@@ -101,7 +101,7 @@ Under My Current Health Status, click your name to report your health status. Fo
 
 -   **View the status of your direct reports**
 
-As a manager, you can view **My Team's Health** in the **My Team** section to see an overview of the health of your direct reports. For more information, see [Manage the status of your direct reports in Now Mobile](../task/mobile-view-health-status.md).
+As a manager, you can view **My Team's Health** in the **My Team** section to see an overview of the health of your direct reports. For more information, see [Manage the status of your direct reports in Now Mobile](mobile-view-health-status.md).
 
 
 </td></tr><tr><td>
@@ -112,7 +112,7 @@ As a manager, you can view **My Team's Health** in the **My Team** section to se
 
 -   **Reassign critical tasks to your working employees**
 
-As a manager, you can tap **My Direct Reports Open Tasks** in the **My Team** section to see the work assigned to your direct reports. From this list, you can reassign tasks, as needed, to your working direct reports. For more information, see [Reassign tasks to your team members in Now Mobile](../task/mobile-reassign-tasks.md).
+As a manager, you can tap **My Direct Reports Open Tasks** in the **My Team** section to see the work assigned to your direct reports. From this list, you can reassign tasks, as needed, to your working direct reports. For more information, see [Reassign tasks to your team members in Now Mobile](mobile-reassign-tasks.md).
 
 
 </td></tr></tbody>
@@ -134,55 +134,55 @@ Manage PPE inventory
 
 </th></tr></thead><tbody><tr><td>
 
-Health surveysFor more information, see [Employee Readiness Surveys](employee-readiness-surveys.md).
+Health surveysFor more information, see [Employee Readiness Surveys](../safe-workplace/employee-readiness-surveys.md).
 
 </td><td>
 
-Screen employeeFor more information, see [Conduct a health screen for entry](../../employee-health-screening/task/screen-returning-employee.md).
+Screen employeeFor more information, see [Conduct a health screen for entry](../safe-workplace/screen-returning-employee.md).
 
 </td><td>
 
-Assign consumableFor more information, see [Assign PPE to employees](../../ppe-inventory-management/task/assign-ppe.md).
+Assign consumableFor more information, see [Assign PPE to employees](../safe-workplace/assign-ppe.md).
 
 </td></tr><tr><td>
 
-Verify my healthFor more information, see [Verify your health status and compliance](../../employee-health-screening/task/agree-compliance-return.md).
+Verify my healthFor more information, see [Verify your health status and compliance](../safe-workplace/agree-compliance-return.md).
 
 </td><td>
 
-Screen visitorFor more information, see [Screen a visitor for entry to the workplace](../../employee-health-screening/task/screen-visitor.md).
+Screen visitorFor more information, see [Screen a visitor for entry to the workplace](../safe-workplace/screen-visitor.md).
 
 </td><td>
 
-Assign hardwareFor more information, see [Assign PPE to employees](../../ppe-inventory-management/task/assign-ppe.md).
+Assign hardwareFor more information, see [Assign PPE to employees](../safe-workplace/assign-ppe.md).
 
 </td></tr><tr><td>
 
-Request PPEFor more information, see [Request PPE](../../ppe-inventory-management/task/request-ppe.md).
+Request PPEFor more information, see [Request PPE](../safe-workplace/request-ppe.md).
 
 </td><td>
 
-Scan for entryFor more information, see [Collecting user badge data](../../contact-tracing/concept/badge-management.md).
+Scan for entryFor more information, see [Collecting user badge data](../contact-tracing/badge-management.md).
 
 </td><td>
 
-Add consumableFor more information, see [Add PPE stock](../../ppe-inventory-management/task/add-ppe-stock.md).
+Add consumableFor more information, see [Add PPE stock](../safe-workplace/add-ppe-stock.md).
 
 </td></tr><tr><td>
 
-Daily contact logFor more information, see [Tracking employee contacts using daily logs](../../contact-tracing/concept/employee-daily-log.md).
+Daily contact logFor more information, see [Tracking employee contacts using daily logs](../contact-tracing/employee-daily-log.md).
 
 </td><td>
 
-Employee statusFor more information, see [View your health and safety status](../../employee-readiness-core/task/view-health-safety-status.md).
+Employee statusFor more information, see [View your health and safety status](../employee-readiness-core/view-health-safety-status.md).
 
 </td><td>
 
-Add hardwareFor more information, see [Add PPE stock](../../ppe-inventory-management/task/add-ppe-stock.md).
+Add hardwareFor more information, see [Add PPE stock](../safe-workplace/add-ppe-stock.md).
 
 </td></tr><tr><td>
 
-Privacy ConsentFor more information, see [User privacy consent for Contact Tracing](../../contact-tracing/concept/contact-tracing-user-privacy.md).
+Privacy ConsentFor more information, see [User privacy consent for Contact Tracing](../contact-tracing/contact-tracing-user-privacy.md).
 
 </td><td>
 
@@ -190,23 +190,11 @@ Privacy ConsentFor more information, see [User privacy consent for Contact Traci
 
 </td><td>
 
-Add modelFor more information, see [Create models for PPE items](../../ppe-inventory-management/task/create-ppe-model.md).
+Add modelFor more information, see [Create models for PPE items](../safe-workplace/create-ppe-model.md).
 
 </td></tr><tr><td>
 
-Set up a visitFor more information, see [Invite a visitor to the workplace](../../employee-readiness-core/task/invite-visitor-workplace.md).
-
-</td><td>
-
- 
-
-</td><td>
-
- 
-
-</td></tr><tr><td>
-
-COVID-19 TestingFor more information, see [Request a COVID-19 diagnostic test](../../health-safety-testing/task/request-health-test.md).
+Set up a visitFor more information, see [Invite a visitor to the workplace](../employee-readiness-core/invite-visitor-workplace.md).
 
 </td><td>
 
@@ -218,7 +206,7 @@ COVID-19 TestingFor more information, see [Request a COVID-19 diagnostic test](.
 
 </td></tr><tr><td>
 
-Request travel permissionFor more information, see [Request permission to travel](../../employee-travel-safety/concept/ets-request-travel.md#).
+COVID-19 TestingFor more information, see [Request a COVID-19 diagnostic test](../health-and-safety-testing/request-health-test.md).
 
 </td><td>
 
@@ -230,7 +218,7 @@ Request travel permissionFor more information, see [Request permission to travel
 
 </td></tr><tr><td>
 
-Report VaccinationFor more information, see [Report vaccination status to your organization](../../vaccination-status/task/report-vaccination-status.md).
+Request travel permissionFor more information, see [Request permission to travel](../employee-travel-safety/ets-request-travel.md#).
 
 </td><td>
 
@@ -242,7 +230,7 @@ Report VaccinationFor more information, see [Report vaccination status to your o
 
 </td></tr><tr><td>
 
-Request Vaccine ExemptionFor more information, see [Request a vaccine exemption](../../vaccination-status/task/request-vaccine-exemption.md).
+Report VaccinationFor more information, see [Report vaccination status to your organization](../report-vaccination-status.md).
 
 </td><td>
 
@@ -254,7 +242,19 @@ Request Vaccine ExemptionFor more information, see [Request a vaccine exemption]
 
 </td></tr><tr><td>
 
-Vaccine Exemption RequestsFor more information, see [Request a vaccine exemption](../../vaccination-status/task/request-vaccine-exemption.md).
+Request Vaccine ExemptionFor more information, see [Request a vaccine exemption](../request-vaccine-exemption.md).
+
+</td><td>
+
+ 
+
+</td><td>
+
+ 
+
+</td></tr><tr><td>
+
+Vaccine Exemption RequestsFor more information, see [Request a vaccine exemption](../request-vaccine-exemption.md).
 
 </td><td>
 
@@ -279,7 +279,7 @@ My team
 
 </th></tr></thead><tbody><tr><td>
 
-For more information, see [View your health status in Now Mobile](../task/mobile-my-health.md).
+For more information, see [View your health status in Now Mobile](mobile-my-health.md).
 
 </td><td>
 
@@ -377,28 +377,28 @@ ServiceNow is offering this application to government agencies and their authori
 
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
--   **[Install Safe Workplace for mobile](../task/install-safe-workplace-mobile.md)**  
+-   **[Install Safe Workplace for mobile](install-safe-workplace-mobile.md)**  
 Install the Now® Mobile app and Safe Workplace for mobile app.
--   **[Report your health status in Now Mobile](../task/mobile-self-report.md)**  
+-   **[Report your health status in Now Mobile](mobile-self-report.md)**  
 Use the Now® Mobile app to report your health status.
--   **[View your health status in Now Mobile](../task/mobile-my-health.md)**  
+-   **[View your health status in Now Mobile](mobile-my-health.md)**  
 Use the Now Mobile app to view your health status record.
--   **[Manage the status of your direct reports in Now Mobile](../task/mobile-view-health-status.md)**  
+-   **[Manage the status of your direct reports in Now Mobile](mobile-view-health-status.md)**  
 Use the Now Mobile app to view the health status of your direct reports.
--   **[Reassign tasks to your team members in Now Mobile](../task/mobile-reassign-tasks.md)**  
+-   **[Reassign tasks to your team members in Now Mobile](mobile-reassign-tasks.md)**  
 As a manager, view a list of tasks assigned to your team members and reassign the tasks to other team members.
--   **[Install Safe Workplace for mobile](../task/install-safe-workplace-mobile.md)**  
+-   **[Install Safe Workplace for mobile](install-safe-workplace-mobile.md)**  
 Install the Now® Mobile app and Safe Workplace for mobile app.
--   **[Report your health status in Now Mobile](../task/mobile-self-report.md)**  
+-   **[Report your health status in Now Mobile](mobile-self-report.md)**  
 Use the Now® Mobile app to report your health status.
--   **[View your health status in Now Mobile](../task/mobile-my-health.md)**  
+-   **[View your health status in Now Mobile](mobile-my-health.md)**  
 Use the Now Mobile app to view your health status record.
--   **[Manage the status of your direct reports in Now Mobile](../task/mobile-view-health-status.md)**  
+-   **[Manage the status of your direct reports in Now Mobile](mobile-view-health-status.md)**  
 Use the Now Mobile app to view the health status of your direct reports.
--   **[Reassign tasks to your team members in Now Mobile](../task/mobile-reassign-tasks.md)**  
+-   **[Reassign tasks to your team members in Now Mobile](mobile-reassign-tasks.md)**  
 As a manager, view a list of tasks assigned to your team members and reassign the tasks to other team members.
 
-**Parent Topic:**[Safe Workplace](../../human-resources/concept/safe-workplace.md)
+**Parent Topic:**[Safe Workplace](../safe-workplace/safe-workplace.md)
 
-**Parent Topic:**[Emergency Response Management](emergency-response-management.md)
+**Parent Topic:**[Emergency Response Management](../emergency-response-management.md)
 

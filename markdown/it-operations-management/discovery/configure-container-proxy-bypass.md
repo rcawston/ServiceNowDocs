@@ -52,5 +52,5 @@ When a proxy is configured on the MID Server, all container image scanning goes 
 
 Scan the container images. For more information, see [Scan container images](container-image-task.md).
 
-**Parent Topic:**[Container image scanning for software decomposition](../concept/container-image-concept.md)
+**Parent Topic:**[Container image scanning for software decomposition](container-image-concept.md)
 

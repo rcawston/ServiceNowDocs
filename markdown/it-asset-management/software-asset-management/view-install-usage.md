@@ -52,5 +52,5 @@ Role required: sam\_manager
 5.  Select the Export map icon on the right side of the page to download this node map as an image.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

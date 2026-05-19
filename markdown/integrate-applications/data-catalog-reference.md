@@ -18,5 +18,5 @@ Key terms used in Data catalog.
 -   **[Data catalog roles](data-catalog-roles.md)**  
 Assign roles to specify what different users can see and do.
 
-**Parent Topic:**[Data Catalog](../concept/data-catalog.md)
+**Parent Topic:**[Data Catalog](data-catalog.md)
 

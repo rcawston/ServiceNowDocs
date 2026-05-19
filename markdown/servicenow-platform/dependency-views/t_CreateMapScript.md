@@ -73,7 +73,7 @@ The following dependency types are available with [Service Mapping](https://raw.
 
 In a Dependency Views map, you can click **Dependency Type** to apply a custom script defined in a dependency type.
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](p_AdministerNGBSM.md)
 
 **Related topics**  
 
@@ -90,7 +90,7 @@ In a Dependency Views map, you can click **Dependency Type** to apply a custom s
 
 [Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](condition-script-parameters.md)
 
 [Data collection and discovery using Netflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-netflow-mapping.md)
 

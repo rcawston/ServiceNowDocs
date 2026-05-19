@@ -17,7 +17,7 @@ The logger API provides inbound email actions that append messages to the email 
 
 It provides methods that add information, warning, and error messages. The added message has its source set to `email.<Sys ID of incoming email>`.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## logger - log\(String msg\)
 

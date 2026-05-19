@@ -113,5 +113,5 @@ Role required: sn\_erp\_integration.erp\_admin
 
 When you're ready to create an application with a content pack, see [Using Zero Copy Connector for ERP content packs](erp-canvas-using-content-packs.md).
 
-**Parent Topic:**[Zero Copy Connector for ERP content packs](../concept/erp-canvas-content-packs.md)
+**Parent Topic:**[Zero Copy Connector for ERP content packs](erp-canvas-content-packs.md)
 

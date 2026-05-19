@@ -58,5 +58,5 @@ Role required: admin
 9.  Click **Update**.
 
 
-**Parent Topic:**[Setting up Coaching in Workforce Optimization for Customer Service](../concept/setup-coaching-configurable-wfo-cs.md)
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for Customer Service](setup-coaching-configurable-wfo-cs.md)
 

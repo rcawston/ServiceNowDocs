@@ -44,18 +44,18 @@ Role required: none
     An HR case is created and the chat conversation is ended.
 
 
-**Parent Topic:**[Using HR Service Delivery Advanced Integration with Workday](../concept/using-hr-service-delivery-advanced-integration-with-workday.md)
+**Parent Topic:**[Using HR Service Delivery Advanced Integration with Workday](using-hr-service-delivery-advanced-integration-with-workday.md)
 
 **Related topics**  
 
 
-[Time off request to Workday](../concept/w-timeoff.md)
+[Time off request to Workday](w-timeoff.md)
 
 [Publish the VA topic template for legal name change](nlu-awd.md)
 
 [Report an issue with your payslip](payslips-awd.md)
 
-[Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](../concept/now-assist-va-awd.md)
+[Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](now-assist-va-awd.md)
 
-[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday](../concept/conversational-agents-wd.md)
+[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday](conversational-agents-wd.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Related Lists of CI components, CMDB classifications and class depe
 
 The Teams related list associates a user group to a CI based on group type, providing flexibility in tracking the different types of groups assigned to a CI. The Teams related list appears on CI forms for CIs of the Service \[cmdb\_ci\_service\] class and its descendent classes such as the Service Instance \[cmdb\_ci\_service\_auto\] class.
 
-Using the Teams related list can be useful if many data sources are used in the organization, and when using the [IntegrationHub ETL](integrationhub-etl.md).
+Using the Teams related list can be useful if many data sources are used in the organization, and when using the [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md).
 
 In the base system, the Teams related list contains group types that match the fields:
 
@@ -48,7 +48,7 @@ Deleting a Teams record doesn't affect the group assignment fields in the CI.
 
 By default, the tab for the Teams related list doesn't appear in the Related Lists section on Service CI forms. You can add the Teams related list by selecting the form's Additional actions menu, selecting **Configure** and then **Related Lists**. In the Available list that appears, move **Teams** to the Selected list and then select **Save**.
 
-**Parent Topic:**[Related Lists of CI components](../reference/r_RelatedListsOfCIComponents.md)
+**Parent Topic:**[Related Lists of CI components](r_RelatedListsOfCIComponents.md)
 
 ## Add a custom group type to the Teams related list
 

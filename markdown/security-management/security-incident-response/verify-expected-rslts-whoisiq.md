@@ -48,14 +48,14 @@ Create an observable for a manual lookup using the WHOISIQ API. For more informa
 
 If no results are returned for the observable, a message is displayed in the **Summary** column. If you do not see results, verify the observable is supported by the API.
 
-**Parent Topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Parent Topic:**[RISKIQ and WHOISIQ integration](riskiq-lookups.md)
 
 **Previous topic:**[Create an observable for manual WHOISIQ lookups](manually-attch-obsv-whoisiq.md)
 
-**Next topic:**[Shodan integration](../../secops-integration-shodan/concept/shodan-lookups.md)
+**Next topic:**[Shodan integration](shodan-lookups.md)
 
 **Related topics**  
 
 
-[Supported observables for RISKIQ and RISKIQ WHOISIQ](../reference/riskiq_supported_obsv.md)
+[Supported observables for RISKIQ and RISKIQ WHOISIQ](riskiq_supported_obsv.md)
 

@@ -23,12 +23,12 @@ Role required: sn\_si.analyst
 
 The **Microsoft Exchange - Perform Email Search and Deletion** flow is executed when email searches are set up and the **Delete from Email Server\(s\)** or **Search on Email Server\(s\)** button are pressed.
 
-Actions specific to this integration are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](../../../security-operations-common/concept/common-wf-activities.md).
+Actions specific to this integration are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](../common-wf-activities.md).
 
 The flow actions include:
 
--   [Create Compliance Search Action](../reference/get-email-details-from-exch-server.md)
--   [Check Compliance Search Status Action](../reference/search-delete-email-threat-exchange.md)
+-   [Create Compliance Search Action](../get-email-details-from-exch-server.md)
+-   [Check Compliance Search Status Action](../search-delete-email-threat-exchange.md)
 
 ## Create Compliance Search Preview Action
 

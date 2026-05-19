@@ -137,7 +137,7 @@ Use external cart
 
 </td><td>
 
-Option to omit the default cart when rendering catalog pages within a site that contains catalog pages. Provide a [catalog cart block](../concept/c_CatalogCartBlock.md) somewhere on the site to allow users to make catalog requests.**Note:** If you use an external cart, the no cart check box on a service catalog item has no effect. The external cart appears for all items.
+Option to omit the default cart when rendering catalog pages within a site that contains catalog pages. Provide a [catalog cart block](c_CatalogCartBlock.md) somewhere on the site to allow users to make catalog requests.**Note:** If you use an external cart, the no cart check box on a service catalog item has no effect. The external cart appears for all items.
 
 </td></tr></tbody>
 </table>4.  Click **Submit**.
@@ -147,7 +147,7 @@ Option to omit the default cart when rendering catalog pages within a site that 
 
 The following is the site record for the ESS Portal:![ESS Portal site record](../image/Site.png)
 
-**Parent Topic:**[Content sites](../concept/c_ContentSite.md)
+**Parent Topic:**[Content sites](c_ContentSite.md)
 
 **Related topics**  
 

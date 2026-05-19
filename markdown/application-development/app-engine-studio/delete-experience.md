@@ -17,7 +17,7 @@ Delete an experience, such as a portal or record producer form, that you no long
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -32,5 +32,5 @@ Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more infor
 4.  On the dialog box that appears, enter `delete` and then select **Delete**.
 
 
-**Parent Topic:**[Editing an experience in App Engine Studio](../concept/edit-experience.md)
+**Parent Topic:**[Editing an experience in App Engine Studio](edit-experience.md)
 

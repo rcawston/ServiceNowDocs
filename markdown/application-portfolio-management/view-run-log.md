@@ -44,7 +44,7 @@ Publishing run logs provide a record of all publishing and republishing jobs for
 7.  Select **Publish**.
 
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 
@@ -53,5 +53,5 @@ Publishing run logs provide a record of all publishing and republishing jobs for
 
 [Access the published TRM catalog knowledge base](access-the-published-kb.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](understand-publishing-output.md)
 

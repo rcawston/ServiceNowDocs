@@ -44,7 +44,7 @@ If a new branch is launched, its information is also required for regulatory rep
     -   ID of the branch and its originating country
     The number for the branch is auto-generated. Once the branch details are complete, the information is ready to be captured in the information register.
 
-    For more information, see [Create New Branch form](../reference/create-new-branch-form.md).
+    For more information, see [Create New Branch form](create-new-branch-form.md).
 
 4.  Select **Save**.
 
@@ -63,8 +63,8 @@ If a new branch is launched, its information is also required for regulatory rep
 
 Specify the functions that are associated with a branch. For more information, see [Create a function and enhance digital resilience data](create-drtp-reg-function.md).
 
--   **[Create New Branch form](../reference/create-new-branch-form.md)**  
+-   **[Create New Branch form](create-new-branch-form.md)**  
 On the Create New Branch form, fill in the fields.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)
 

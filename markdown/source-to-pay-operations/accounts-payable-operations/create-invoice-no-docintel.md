@@ -42,5 +42,5 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 6.  Select **Submit invoice**.
 
 
-**Parent Topic:**[Invoice ingestion process when Document Intelligence is unavailable](../concept/invoice-ingest-docintel-unavailable.md)
+**Parent Topic:**[Invoice ingestion process when Document Intelligence is unavailable](invoice-ingest-docintel-unavailable.md)
 

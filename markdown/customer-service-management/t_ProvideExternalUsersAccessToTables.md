@@ -46,5 +46,5 @@ Role required: security\_admin
     Repeat this step for every field that you want to give the user write access to. Use an asterisk **\*** instead of the column name to provide access to all fields at once.
 
 
-**Parent Topic:**[Roles installed with Customer Service Management](../../../product/customer-service-management/reference/r_RolesInstalledWithCustomerService.md)
+**Parent Topic:**[Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md)
 

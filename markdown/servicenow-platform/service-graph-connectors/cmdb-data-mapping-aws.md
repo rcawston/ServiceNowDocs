@@ -1414,7 +1414,7 @@ SG-AWS-Organization
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from AWS, see [CMDB classes targeted in Service Graph Connector for AWS](cmdb-aws-classes.md) and [Supported AWS resource types](cmdb-sgc-aws-resource-types.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../concept/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 
 For more information about how CI information is pulled from AWS, see the [Service Graph Connector for AWS - Functional Spec and CI](https://community.servicenow.com/community?id=community_article&sys_id=64e2949f1b9ec910c465ece6b04bcbe7) article on the ServiceNow Community site.
 
@@ -1435,7 +1435,7 @@ Additional information about AWS data sources:
 -   If the AWS Systems Manager \(SSM\) service isn't enabled, the connector populates the server records in the Server \[cmdb\_ci\_server\] class. If the AWS SSM service is enabled, then based on the platform type obtained through the SSM service, the server records are populated in either the Linux Server \[cmdb\_ci\_linux\_server\] class or the Windows Server \[cmdb\_ci\_win\_server\] class. The Server \[cmdb\_ci\_server\] class is the parent class of the Linux Server \[cmdb\_ci\_linux\_server\] and the Windows Server \[cmdb\_ci\_win\_server\] classes.
 -   All labels associated with an AWS resource are added to the Key Value \[cmdb\_key\_value\] table.
 
-    **Note:** You can use the [CMDB Data Manager](../concept/cmdb-data-management.md) to delete tag data from retired CIs in the Key Value \[cmdb\_key\_value\] table based on conditions like retention time and discovery source. A scheduled job runs the policy, which can be configured to execute during off-peak hours.
+    **Note:** You can use the [CMDB Data Manager](../configuration-management-database-cmdb/cmdb-data-management.md) to delete tag data from retired CIs in the Key Value \[cmdb\_key\_value\] table based on conditions like retention time and discovery source. A scheduled job runs the policy, which can be configured to execute during off-peak hours.
 
 -   The basic information about an AWS resource is stored in the SG-AWS Extension Attributes \[sn\_aws\_extension\_attributes\] table.
 -   In Service Graph Connector for AWS version 2.10.0 and later, the SG-AWS-Get-Inventory data source runs before the SG-AWS-EC2 data source and creates a Server \[cmdb\_ci\_server\] CI with the host name mapped to the Name attribute, instead of being mapped to the VM name.

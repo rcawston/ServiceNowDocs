@@ -39,7 +39,7 @@ With this procedure, you can also create cases for internal claims.
 
 6.  On the form, fill in the required fields and any other information that is related to the claim that you've received from the sender bank.
 
-    For information on the Claim form field descriptions, see [Field descriptions for a claim case](../reference/claim-form-fields.md).
+    For information on the Claim form field descriptions, see [Field descriptions for a claim case](claim-form-fields.md).
 
 7.  Click **Save**.
 
@@ -53,5 +53,5 @@ A case is created for the claim in the New state. The case is then assigned to a
 -   As a claim agent, you can assign the case to yourself and start working on it. For more information, see [Work on a claim with an internal refund](work-claim-with-internal-refund.md).
 -   You can also assign the case to any other claim agent. For more information, see [Assign a payment claim](assign-payment-claim.md).
 
-**Parent Topic:**[Managing payment claims and debit approvals](../concept/managing-payment-claims.md)
+**Parent Topic:**[Managing payment claims and debit approvals](managing-payment-claims.md)
 

@@ -50,12 +50,12 @@ After publishing, you can see the following changes on the **Details** tab:
 -   The **Status** field value is changed to **Published**.
 -   The **Catalog link** field displays a URL to the published catalog.
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 
 
-[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+[Working with the publishing center](working-with-publishing-center.md)
 
 [Create a new configuration to publish TRM data](config-trm-data-to-publish.md)
 
@@ -65,5 +65,5 @@ After publishing, you can see the following changes on the **Details** tab:
 
 [Republish a TRM catalog after updates](republish-trm-cat.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](understand-publishing-output.md)
 

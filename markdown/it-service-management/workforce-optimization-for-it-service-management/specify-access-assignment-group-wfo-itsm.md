@@ -20,11 +20,11 @@ As a manager, by default, you can see all groups that you directly or additional
 -   To add access to more groups, use an extension point.
 -   To remove access, use filter conditions to exclude groups for which you don't need visibility.
 
--   **[Using extension points to include access for specific groups in Workforce Optimization for ITSM manager workspace](../task/ext-points-exclude-access-wfo-itsm.md)**  
+-   **[Using extension points to include access for specific groups in Workforce Optimization for ITSM manager workspace](ext-points-exclude-access-wfo-itsm.md)**  
 Use scripted extension points to add access for managers to view assignment groups data other than the default groups that they manage in Workforce Optimization for ITSM manager workspace.
--   **[Exclude access for specific groups in Workforce Optimization for ITSM manager workspace](../task/configure-access-exclusion-wfo-itsm.md)**  
+-   **[Exclude access for specific groups in Workforce Optimization for ITSM manager workspace](configure-access-exclusion-wfo-itsm.md)**  
 You can remove access to assignment group data and display only the assignment groups that are relevant for the logged-in user in the Workforce Optimization for ITSM manager workspace.
--   **[Verify the display of the right groups in Workforce Optimization for ITSM](../task/verify-group-access-wfo-itsm.md)**  
+-   **[Verify the display of the right groups in Workforce Optimization for ITSM](verify-group-access-wfo-itsm.md)**  
 Verify that the logged in user can access the correct assignment groups data.
 
 **Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](advanced-configuration-workforce-optimization-itsm.md)

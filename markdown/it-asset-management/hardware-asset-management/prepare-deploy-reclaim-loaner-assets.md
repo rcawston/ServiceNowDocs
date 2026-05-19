@@ -27,11 +27,11 @@ Role required: inventory\_user
 
 Use the Loaner Asset Orders module to view and complete the loaner asset orders that were requested by the users.
 
-The Hardware Asset dashboard gives a consolidated view of all the loaner asset orders that are in the New, Deployed, or Return Overdue states. For details, see [Hardware Asset dashboard](../../../use/dashboards/application-content-packs/hardware-asset-content-pack.md#).
+The Hardware Asset dashboard gives a consolidated view of all the loaner asset orders that are in the New, Deployed, or Return Overdue states. For details, see [Hardware Asset dashboard](hardware-asset-content-pack.md#).
 
 **Note:**
 
-There are readily available decision tables that you can use to customize the Loaner Asset Request Flow. For more details, see [Hardware Asset Management flow customization](../concept/readily-available-dec-tables-ham.md).
+There are readily available decision tables that you can use to customize the Loaner Asset Request Flow. For more details, see [Hardware Asset Management flow customization](readily-available-dec-tables-ham.md).
 
 ## Procedure
 

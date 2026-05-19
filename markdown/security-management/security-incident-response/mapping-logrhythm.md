@@ -28,19 +28,19 @@ Mapping alarms includes the following tasks:
 -   You can filter alarms to specify which alarms are ingested into the SIR application. You can either filter the alarms directly or use the alarm categories to drill down your search based on Alarms, Events, or DrillDownLogs.
 -   Use the script editor if you want to format values for the Priority and Category fields on the security incident.
 
-The next step is to [Map LogRhythm alarm fields to security incident fields](../task/logrhythm-map-alarms.md).
+The next step is to [Map LogRhythm alarm fields to security incident fields](logrhythm-map-alarms.md).
 
--   **[Map LogRhythm alarm fields to security incident fields](../task/logrhythm-map-alarms.md)**  
+-   **[Map LogRhythm alarm fields to security incident fields](logrhythm-map-alarms.md)**  
 You map individual alarm fields to the security incident fields. The preconfigured mapping can be edited, and color coding provided for the fields helps you monitor alarms you have already mapped. This step helps you visualize how your edits impact the fields on the security incident.
 
-**Parent Topic:**[Creating an alarm profile for LogRhythm](../task/create-alarm-profile-logrhythm.md)
+**Parent Topic:**[Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md)
 
 **Related topics**  
 
 
-[Map LogRhythm alarm fields to security incident fields](../task/logrhythm-map-alarms.md)
+[Map LogRhythm alarm fields to security incident fields](logrhythm-map-alarms.md)
 
-[Use the script editor to format LogRhythm values](../task/add-scripted-values-logrhythm.md)
+[Use the script editor to format LogRhythm values](add-scripted-values-logrhythm.md)
 
-[Filter alarms for LogRhythm](../task/filter-alarms-logrhythm.md)
+[Filter alarms for LogRhythm](filter-alarms-logrhythm.md)
 

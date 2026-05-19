@@ -40,7 +40,7 @@ Finally, while you can develop table data visualizations through trial and error
 
 [Planning your indicators](planning-indicators.md)
 
-[Workflow for creating indicators](../task/workflow-automated-indicators.md)
+[Workflow for creating indicators](workflow-automated-indicators.md)
 
 [Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md)
 

@@ -17,7 +17,7 @@ Enable the Problem Management models system property so that you can create and 
 
 ## Before you begin
 
-See considerations for enabling and disabling Problem Management models at [Problem Management models in Service Operations Workspace](../concept/problem-mgmt-models-sow.md).
+See considerations for enabling and disabling Problem Management models at [Problem Management models in Service Operations Workspace](problem-mgmt-models-sow.md).
 
 Role required: admin
 

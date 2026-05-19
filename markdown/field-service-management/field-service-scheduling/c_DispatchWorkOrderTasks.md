@@ -15,7 +15,7 @@ breadcrumb: [Scheduling and dispatching, Use, Field Service Management]
 
 When all of the work order tasks associated with a work order are qualified, you can dispatch the work order tasks. You can dispatch them from either the task form, the task map, or Dispatcher Workspace.
 
-When all of the associated work order tasks are qualified, the state of the parent work order changes to Qualified. If you have already [sourced parts](c_SourceParts.md) and created [transfer order lines](../task/create-transfer-order.md), then you are ready to begin dispatching the work order tasks to agents.
+When all of the associated work order tasks are qualified, the state of the parent work order changes to Qualified. If you have already [sourced parts](../work-order-management/c_SourceParts.md) and created [transfer order lines](../work-order-management/create-transfer-order.md), then you are ready to begin dispatching the work order tasks to agents.
 
 Users with the following roles can dispatch work order tasks: wm\_dispatcher, wm\_initiator\_qualifier\_dispatcher, or wm\_admin.
 
@@ -25,7 +25,7 @@ You can dispatch work order tasks to qualified work agents from these locations:
 -   [Task map](c_DispatchWorkOrderTasks.md#): Dispatch tasks to agents using a Google map with geolocation.
 -   Dispatcher Workspace: Dispatch tasks to agents using the drag-and-drop and auto-assign capabilities.
 
-**Note:** When dynamic scheduling is enabled, dispatchers can manually double-book an agent for more than one work order task with overlapping time. You can enable double booking using **work.management.allow.doublebooking.dynamicscheduling** [system property](../reference/r_InstalledWithFSM.md).
+**Note:** When dynamic scheduling is enabled, dispatchers can manually double-book an agent for more than one work order task with overlapping time. You can enable double booking using **work.management.allow.doublebooking.dynamicscheduling** [system property](../r_InstalledWithFSM.md).
 
 ## Assign work order tasks to agents or crews from the dispatch queue
 
@@ -227,7 +227,7 @@ Role required: wm\_dispatcher
 
     |Sort option|Description|
     |-----------|-----------|
-    |Best Match|Best match is the default sorting method. Match percentage is calculated the same way that Dynamic Scheduling calculates agents to assign tasks to. For more information, see [Matching criteria for assigning tasks](../../field-service-management/task/create-dynamic-scheduling-config.md#).|
+    |Best Match|Best match is the default sorting method. Match percentage is calculated the same way that Dynamic Scheduling calculates agents to assign tasks to. For more information, see [Matching criteria for assigning tasks](create-dynamic-scheduling-config.md#).|
     |Distance|Sorts agents based on how far each agent is from the work order task.|
     |Skills|Sorts agents based on the number of required skills that each agent has. Agents with more skills are at the top.|
     |Parts|Sorts agents based on how many required parts each agent has. Agents with the most parts to complete the task are at the top.|

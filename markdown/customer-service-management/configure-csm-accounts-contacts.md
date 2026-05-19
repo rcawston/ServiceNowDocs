@@ -29,7 +29,7 @@ There are two types of accounts: customer accounts and partner accounts. The **C
 
 A partner is a supported external customer that sells to and supports other customers. A partner can report and manage cases on behalf of customers. A partner can also be a customer.
 
-**Note:** After importing customer account data, you must also [set the account code system property](../reference/set-csm-account-code-property.md).
+**Note:** After importing customer account data, you must also [set the account code system property](set-csm-account-code-property.md).
 
 An account can have multiple contacts but a contact can be associated with only one account. A contact can have one or more associated assets and service contracts. A contact can also have a user ID and can log in to the customer portal.
 

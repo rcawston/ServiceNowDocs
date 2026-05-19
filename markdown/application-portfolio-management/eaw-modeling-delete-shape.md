@@ -40,12 +40,12 @@ Role required: sn\_apm.apm\_user
 
 The selected shape gets deleted from the canvas or from the model.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
 
-[Shapes to create a modeling diagram](../../reference/eaw-reference/eaw-modeling-shapes.md)
+[Shapes to create a modeling diagram](eaw-modeling-shapes.md)
 
 [Create a diagram for a business capability map](eaw-modeling-bc-map.md)
 
@@ -59,7 +59,7 @@ The selected shape gets deleted from the canvas or from the model.
 
 [Add related records in the modeling diagram](eaw-modeling-add-related-records.md)
 
-[ArchiMate shapes support in the Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-modeling-archimate.md)
+[ArchiMate shapes support in the Enterprise Modeling and Visualization](eaw-modeling-archimate.md)
 
 [Share a modeling diagram](eaw-modeling-share-diagram.md)
 

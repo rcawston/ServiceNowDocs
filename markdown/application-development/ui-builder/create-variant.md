@@ -74,5 +74,5 @@ Edit page variant settings to add additional criteria to determine when the page
 -   **[Control the conditions for a page variant](control-conditions-for-your-variant.md)**  
 Set the conditions and manage the criteria that determine when a page variant is displayed. UI Builder page variants enable you to create different versions of a page to tailor content for a specific audience.
 
-**Parent Topic:**[Manage UI Builder pages and page variants](../concept/work-pages.md)
+**Parent Topic:**[Manage UI Builder pages and page variants](work-pages.md)
 

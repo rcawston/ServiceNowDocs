@@ -38,14 +38,14 @@ Role required: action\_designer or admin
     This custom action illustrates two types of dynamic output data. One dynamic output generates an object for a single record. Another dynamic output generates an array of objects for a list of records.
 
 
-**Parent Topic:**[Dynamic outputs](../concept/dynamic-outputs.md)
+**Parent Topic:**[Dynamic outputs](dynamic-outputs.md)
 
 **Related topics**  
 
 
 [Create a data gathering action for a dynamic object](create-data-gathering-action-dynamic-object.md)
 
-[Dynamic output configuration options](../reference/dynamic-output-options.md)
+[Dynamic output configuration options](dynamic-output-options.md)
 
 ## Create connection and credential records for dynamic outputs
 

@@ -38,5 +38,5 @@ The HR Case Classification solution definition is configured and the predictive 
 -   There are 10000 records of HR case study matching the filters defined in the solution definition.
 -   The**glide.platform\_ml.auto\_training.enabled** system property is set to true.
 
-You can [manually train the predictive model](../task/hr-predictive-intelligence-train.md) if it is not auto trained by default. Later, navigate to the **HR AI configuration** module, open the HR Case Classification record, and map the configured solution definition.
+You can [manually train the predictive model](hr-predictive-intelligence-train.md) if it is not auto trained by default. Later, navigate to the **HR AI configuration** module, open the HR Case Classification record, and map the configured solution definition.
 

@@ -57,8 +57,8 @@ To perform this transfer action, you must configure the transfer configuration d
 
 3.  On the form, fill in the fields.
 
-    For more information on the field descriptions, see [Transfer configuration form](../reference/ur-route-config-form.md).
+    For more information on the field descriptions, see [Transfer configuration form](ur-route-config-form.md).
 
 
-**Parent Topic:**[Configuring Universal Request](../concept/configure-ur.md)
+**Parent Topic:**[Configuring Universal Request](configure-ur.md)
 

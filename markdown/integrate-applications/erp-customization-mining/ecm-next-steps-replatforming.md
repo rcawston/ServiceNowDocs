@@ -54,7 +54,7 @@ For example, use in ServiceNow Studio, use a template \(or build the app from th
 
 You can also access data from the system of record through the Glide API.
 
-For more information, see [Sample Glide query for ERP data in ERP Semantic Mining](../reference/using-glide-to-query-erp-data.md).
+For more information, see [Sample Glide query for ERP data in ERP Semantic Mining](using-glide-to-query-erp-data.md).
 
 ## After you replatform custom code to a ServiceNow app
 

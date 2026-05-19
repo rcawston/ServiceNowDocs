@@ -93,7 +93,7 @@ The roles, groups, and users you have shared the dashboard with appear when you 
 
 You can change the rights of whom you have shared the dashboard with in the Share Dashboard dialog, under the Can view/Can share list for each user, group, or role.
 
-**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](../concept/using-dashboards-spw.md)
+**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](using-dashboards-spw.md)
 
 **Related topics**  
 

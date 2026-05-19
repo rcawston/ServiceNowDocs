@@ -55,7 +55,7 @@ The Affected customers section contains the following tabs.
     List of impacted consumers and their details.
 
 
-To learn more about the columns in each tab, see [Affected customers list columns](../reference/affected-customer-list-columns.md).
+To learn more about the columns in each tab, see [Affected customers list columns](affected-customer-list-columns.md).
 
 The Affected customers section uses interactive pills to quickly filter and view customer and consumer-level impact:
 

@@ -33,11 +33,11 @@ Procurement uses the following workflows. You can edit the existing flows or cre
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](r_ProcurementRoles.md)
 
-[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)
+[Use the Procurement Overview module](t_UsingTheProcurementOverviewModule.md)
 
-[Activate Procurement](../task/t_ActivateProcurement.md)
+[Activate Procurement](t_ActivateProcurement.md)
 
 [Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 

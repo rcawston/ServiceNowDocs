@@ -30,7 +30,7 @@ Role required: admin
 Note the following:
 
 -   Data comparison requests are purged after three months.
--   There are limitations when comparing transformed data. See [Comparing replicated data between instances in Instance Data Replication](../concept/comparing-replicated-data.md).
+-   There are limitations when comparing transformed data. See [Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md).
 
 ## Procedure
 
@@ -144,5 +144,5 @@ Option to automatically seed any missing or mismatched records from the producer
 
 [Reseed missing or mismatched records in Instance Data Replication](fix-replicated-data.md).
 
-**Parent Topic:**[Comparing replicated data between instances in Instance Data Replication](../concept/comparing-replicated-data.md)
+**Parent Topic:**[Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md)
 

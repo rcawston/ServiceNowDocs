@@ -27,7 +27,7 @@ Specify the query parameters that are passed to the form using the setPreference
 
 The GlideModalForm is set to fill the height of the document window.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideModalForm - GlideModalForm\(String title, String tableName, Function onCompletionCallback, Boolean readOnly\)
 

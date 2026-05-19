@@ -44,7 +44,7 @@ Role required: admin
 
 AI indexing is configured for Agentic Contact Center for Banking.
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 
 **Related topics**  
 

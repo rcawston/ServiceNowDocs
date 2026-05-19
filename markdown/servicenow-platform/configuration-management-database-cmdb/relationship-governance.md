@@ -20,7 +20,7 @@ Different applications such as Discovery and Service Mapping create relationship
 Relationship governance rules consist of:
 
 -   [CMDB dependent relationship rules](c_ServiceRulesMetadata.md): Rules \(hosting and containment rules\) that are used for CI identification. You can view and modify dependent relationship rules in the CI Class Manager, after selecting a class from the class hierarchy and clicking **Dependent Relationship**.
--   [Suggested relationships](../reference/r_SuggestedRelationshipModel.md): Rules that are based on existing suggested relationships in the Suggested Relationship \[cmdb\_rel\_type\_suggest\] table. Suggested relationships are used in the [CI relationship editor](c_RelationshipEditor.md). You can view and modify suggested relationships in the CI Class Manager, after selecting a class from the class hierarchy and clicking **Suggested Relationships**.
+-   [Suggested relationships](r_SuggestedRelationshipModel.md): Rules that are based on existing suggested relationships in the Suggested Relationship \[cmdb\_rel\_type\_suggest\] table. Suggested relationships are used in the [CI relationship editor](c_RelationshipEditor.md). You can view and modify suggested relationships in the CI Class Manager, after selecting a class from the class hierarchy and clicking **Suggested Relationships**.
 -   [Reference rules](c_ServiceRulesMetadata.md): Rules that are used mostly by Cloud Management to represent all the possible valid combinations of pairs of referencing and referenced CIs in the service definition.
 -   Built-in valid relationships: The following relationships are pre-defined in the base system as valid relationships:
     -   cmdb\_ci\_endpoint -&gt; Applicative Flow To::Applicative Flow From -&gt; cmdb\_ci\_endpoint
@@ -44,16 +44,16 @@ Relationship governance rules consist of:
 
 ## Reports
 
-A relationship between CIs is considered valid if it conforms to any of the relationship governance rules. Use the Relationship Health Dashboard to view reports about [relationships health](../task/t_ViewRelationshipsHealth.md) including relationships compliance with relationship governance rules. The 'Relationships not compliant with all relationship rules' report shows CI relationships that are not compliant with any of the relationship governance rules.
+A relationship between CIs is considered valid if it conforms to any of the relationship governance rules. Use the Relationship Health Dashboard to view reports about [relationships health](t_ViewRelationshipsHealth.md) including relationships compliance with relationship governance rules. The 'Relationships not compliant with all relationship rules' report shows CI relationships that are not compliant with any of the relationship governance rules.
 
 **Parent Topic:**[CI relationships in the CMDB](c_CIRelationships.md)
 
 **Related topics**  
 
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](t_AddANewSuggestedRelationship.md)
 
 [CI relations formatter](c_CIRelationsFormatterNG.md)
 
@@ -63,5 +63,5 @@ A relationship between CIs is considered valid if it conforms to any of the rela
 
 [CI relationship security](c_CIRelationshipSecurity.md)
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](t_CreateACIRelationRollup.md)
 

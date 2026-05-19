@@ -18,6 +18,6 @@ Run Discovery schedules and execute Discovery probes, sensors and patterns to fi
 -   [Running discoveries in your network](running-discoveries.md)
 -   [Discovery probes and sensors](c_DiscoveryProbesAndSensors.md)
 -   [Patterns and horizontal discovery](c-UsingPatternsForHorizontalDiscovery.md#)
--   [Discovery resource utilization](../reference/discovery-resource-utilization.md)
+-   [Discovery resource utilization](discovery-resource-utilization.md)
 -   [Discovery monitoring and issue resolution](c_DiscoveryTroubleshooting.md)
 

@@ -31,7 +31,7 @@ For example, a document creation page might have the attachments component on on
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page or page variant.
 
@@ -101,5 +101,5 @@ Option to hide or display the tab.
 
 For detailed information about the configuration of the contextual sidebar and its properties, see [Tabs UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/washingtondc/now-components/now-tabs/uib-setup) on the ServiceNow Developer Site.
 
-**Parent Topic:**[Customize UI Builder pages using components](../concept/work-components.md)
+**Parent Topic:**[Customize UI Builder pages using components](work-components.md)
 

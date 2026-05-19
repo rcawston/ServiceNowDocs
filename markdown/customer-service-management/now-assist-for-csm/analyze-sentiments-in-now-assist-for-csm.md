@@ -90,5 +90,5 @@ The CSM Configurable Workspace form view appears.
     3.  Select the information icon ![The information icon provides an explanation for why a particular sentiment has been assigned](../../../reuse/icons/product-icons/circle-info-outline-24.svg) and then select the refresh icon ![Refresh overview data icon](../../workforce-optimization-for-customer-service-configurable/image/refresh-sync-new.png) to see the updated sentiment scale \(Very Positive, Positive, Neutral, Negative, or Very Negative\)and sentiment trend.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 

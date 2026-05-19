@@ -80,5 +80,5 @@ Step-by-step instructions for external tools in this guide are illustrative — 
 
 You have successfully connected DB Visualizer to your ServiceNow instance using the JDBC driver. You can now query authorized ServiceNow tables using SQL commands in DB Visualizer. The connection respects all ServiceNow Access Control Lists \(ACLs\) and security policies configured for your Service Account.
 
-**Parent Topic:**[Integrate SQL API Drivers with external BI tools](../reference/configure-drivers-bi-tools.md)
+**Parent Topic:**[Integrate SQL API Drivers with external BI tools](configure-drivers-bi-tools.md)
 

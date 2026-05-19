@@ -51,7 +51,7 @@ To determine if you must self-declare the license usage for a given engine, see 
 
         To create entitlements using this option, open the record for the software model that you created in [step 1](self-declare-sap-products-workspace.md#create-software-model). On the **Software Entitlements** tab of the software model record, select **New** and then fill in the fields on the corresponding Create New Software Entitlement form.
 
-        Refer to [Software entitlement fields](../reference/software-entitlement-fields.md) for detailed descriptions of each field.
+        Refer to [Software entitlement fields](software-entitlement-fields.md) for detailed descriptions of each field.
 
         **Note:** The **Software model** field populates automatically.
 
@@ -113,5 +113,5 @@ License usage of the SAP engine.
 
 After you self-declare the license usage for the SAP engine, it is automatically included in the next SAP reconciliation that runs on your ServiceNow instance. Reconciliation runs weekly or on-demand.
 
-**Parent Topic:**[Self-declaring SAP engine license usage](../concept/self-declaring-sap-engine-usage.md)
+**Parent Topic:**[Self-declaring SAP engine license usage](self-declaring-sap-engine-usage.md)
 

@@ -78,7 +78,7 @@ Select **Access Granted**.
 </table>    The Employee Attendance table data is loaded to the Attendance Analytics table to generate space occupancy metrics in Workplace Central. For more information, see [Attendance Analytics](attendance-analytics.md).
 
 
-**Parent Topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for badging data](setup-workplace-connectors.md)
 
 **Previous topic:**[Configure a webhook event](configure-webhook-restapi.md)
 

@@ -15,10 +15,10 @@ breadcrumb: [Legal Invention Disclosure, Legal Service Delivery Practice Applica
 
 Reference topics provide additional information about the forms that you use in Legal Invention Disclosure.
 
--   **[Components installed with Legal Invention Disclosure](../reference/components-installed-with-legal-idf.md)**  
+-   **[Components installed with Legal Invention Disclosure](components-installed-with-legal-idf.md)**  
 Several types of components are installed with activation of the Legal Invention Disclosure plugin, including tables and user role.
--   **[Legal Invention Disclosure form](../reference/legal-invention-disclosure-form.md)**  
+-   **[Legal Invention Disclosure form](legal-invention-disclosure-form.md)**  
 List of fields in the Legal Invention Disclosure request in the Legal Service Portal.
 
-**Parent Topic:**[Legal Invention Disclosure](../reference/legal-invention-disclosure-landing.md)
+**Parent Topic:**[Legal Invention Disclosure](legal-invention-disclosure-landing.md)
 

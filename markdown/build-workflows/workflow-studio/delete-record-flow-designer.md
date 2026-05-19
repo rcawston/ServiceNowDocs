@@ -25,5 +25,5 @@ Available as a Workflow Studio ServiceNow core action. Users with the flow\_desi
 |-----|-----------|
 |Record|The record to be deleted. Drag-and-drop a record data pill or use the data pill picker to select a record.|
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

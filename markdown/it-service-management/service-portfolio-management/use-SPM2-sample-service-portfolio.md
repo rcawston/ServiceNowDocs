@@ -55,7 +55,7 @@ You can view the sample content in both the Service Portfolio Management applica
 **Related topics**  
 
 
-[Using Service Portfolio Management](../concept/SPM2-using.md)
+[Using Service Portfolio Management](SPM2-using.md)
 
-[Work with portfolios in Digital Portfolio Management](../../digital-portfolio-management/concept/dpm-explore-portfolios.md)
+[Work with portfolios in Digital Portfolio Management](../digital-portfolio-management/dpm-explore-portfolios.md)
 

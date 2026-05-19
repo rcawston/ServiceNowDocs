@@ -224,7 +224,7 @@ Cost
 
 </td><td>
 
-Cost of the software. **Note:** Required for total cost and savings calculations on the [Software Asset Management Foundation dashboard](../concept/c_SAMDashboardSAMF.md).
+Cost of the software. **Note:** Required for total cost and savings calculations on the [Software Asset Management Foundation dashboard](c_SAMDashboardSAMF.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -273,7 +273,7 @@ Number of rights to upgrade.
         |Start date|Start date of the upgrade/downgrade.|
         |End date|End date of the upgrade/downgrade.|
 
-    2.  To set up cost-tracking details, configure [Expense Lines](../../asset-and-configuration/concept/c_ExpenseLine.md).
+    2.  To set up cost-tracking details, configure [Expense Lines](../expense-line/c_ExpenseLine.md).
 
     3.  To manage license keys, in the License Keys related list, create a new record to specify the licenses keys allocated to entitlements \(see table for field descriptions\).
 
@@ -287,5 +287,5 @@ Number of rights to upgrade.
 -   **[Create a SAM Foundation entitlement allocation](t_AddAnEntitlementAllocationSAMF.md)**  
 A user or device allocation can be added to a software entitlement to specify a user or device to which rights have been allocated.
 
-**Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](../concept/samf-plugin-configuration.md)
+**Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](samf-plugin-configuration.md)
 

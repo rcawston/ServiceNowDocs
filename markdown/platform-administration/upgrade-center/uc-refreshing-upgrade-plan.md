@@ -38,7 +38,7 @@ Role required: admin
     The recently installed plugins and applications show up under Upgrade Plan Items related list.
 
 
-**Parent Topic:**[Preparing your upgrade plan](../concept/uc-prepare-up.md)
+**Parent Topic:**[Preparing your upgrade plan](uc-prepare-up.md)
 
 **Related topics**  
 

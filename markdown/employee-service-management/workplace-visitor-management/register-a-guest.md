@@ -243,7 +243,7 @@ The colleague's license plate details.
 
 Your visitor registration is submitted and you can view your requests. The details about the visit are sent to the visitor's email address. The visitors also receive a reminder email with the invite code on the day before the registered date. For recurring invitations, only one email is sent for the visit details, but reminder emails are sent a day before every visit.
 
-If any visitor policies are applicable for the visit, the email sent to the visitor contains options to accept or decline the policies. If the visitor declines the policies in the email, they can still accept them while checking in through the Workplace Services Kiosk. For more information about the kiosk check-in process, see [Check in using an invite](../../workplace-services-kiosk/task/visitor-check-in.md).
+If any visitor policies are applicable for the visit, the email sent to the visitor contains options to accept or decline the policies. If the visitor declines the policies in the email, they can still accept them while checking in through the Workplace Services Kiosk. For more information about the kiosk check-in process, see [Check in using an invite](../workplace-services-kiosk/visitor-check-in.md).
 
 ## What to do next
 
@@ -256,14 +256,14 @@ You can check the details of your request. You can also edit or cancel the reque
 -   On the request details screen, you can cancel a request by selecting **Cancel Request**.
 -   You can search for registered visitors in the **Visitors list** using the search option.
 
-**Parent Topic:**[Registering a visitor](../concept/registerring-a-visitor.md)
+**Parent Topic:**[Registering a visitor](registerring-a-visitor.md)
 
 **Related topics**  
 
 
 [Use the host portal](use-host-portal.md)
 
-[Adding visitors](../concept/adding-visitors.md#)
+[Adding visitors](adding-visitors.md#)
 
 [Review visitor policies](review-visitor-policies.md)
 

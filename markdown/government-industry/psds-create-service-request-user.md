@@ -45,7 +45,7 @@ As a constituent, you can submit non-emergency requests through the Government S
 
 3.  Select the Service Request issue that you want to report.
 
-    For more information on the services that are offered in the Government Service Portal, see [Government Service Portal service catalog](../reference/psds-service-catalog-list.md).
+    For more information on the services that are offered in the Government Service Portal, see [Government Service Portal service catalog](psds-service-catalog-list.md).
 
 4.  On the form, fill in the fields.
 

@@ -97,5 +97,5 @@ The tasks that meet the search requirements are displayed in the task panel.
 
 [Search for appropriate Field Service agents](search-agents-tasks.md)
 
-[Assign work order tasks to agents](../concept/manage-work-order-tasks-dw.md#)
+[Assign work order tasks to agents](manage-work-order-tasks-dw.md#)
 

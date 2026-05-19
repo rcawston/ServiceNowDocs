@@ -50,5 +50,5 @@ Role required: discovery\_admin
 
 [Set up Alibaba Cloud service accounts](set-up-alibaba-cloud-service-account.md)
 
-**Parent Topic:**[Discovery for Alibaba Cloud](../concept/alibaba-cloud-discovery.md)
+**Parent Topic:**[Discovery for Alibaba Cloud](alibaba-cloud-discovery.md)
 

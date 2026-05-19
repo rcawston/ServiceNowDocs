@@ -24,7 +24,7 @@ Once you mark a task as complete, you move to the next task. You can save a task
 
 Complete all the tasks in a lane to move to the next lane. As you keep completing tasks and lanes, the status gets reflected in the left-hand panel. Once you complete all the tasks, review the details you entered in all the lanes.
 
--   **[Create a Salesforce CRM integration](../task/playbook-salesforce-crm.md)**  
+-   **[Create a Salesforce CRM integration](playbook-salesforce-crm.md)**  
 Integrate your ServiceNow instance with the Salesforce customer relationship management \(CRM\) services to track your software subscriptions and to reclaim unused licenses by using the guided walk-through playbook.
 
 **Parent Topic:**[SaaS License Management](sam-subscription-management.md)
@@ -32,7 +32,7 @@ Integrate your ServiceNow instance with the Salesforce customer relationship man
 **Related topics**  
 
 
-[Request SaaS License Management](../task/request-saas-license-management.md)
+[Request SaaS License Management](request-saas-license-management.md)
 
 [SaaS License Management setup for large companies](saas-setup-large-companies.md)
 
@@ -44,21 +44,21 @@ Integrate your ServiceNow instance with the Salesforce customer relationship man
 
 [Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
 
-[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)
+[Review a software reclamation rule](add-reclamation-rule-sub.md)
 
 [Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)
 
-[Create a child alias to set up multiple Cisco Webex integration profiles](../task/create-child-alias-webex.md)
+[Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)
 
-[Create a child alias to set up multiple Confluence Cloud integration profiles](../task/create-child-alias-confluence.md)
+[Create a child alias to set up multiple Confluence Cloud integration profiles](create-child-alias-confluence.md)
 
-[Create a child alias to set up multiple Jira integration profiles](../task/create-child-alias-jira.md)
+[Create a child alias to set up multiple Jira integration profiles](create-child-alias-jira.md)
 
-[Associate a user with subscription records](../task/map-user-data.md)
+[Associate a user with subscription records](map-user-data.md)
 
-[Disconnect SSO apps](../task/disconnect-azure-ad-apps.md)
+[Disconnect SSO apps](disconnect-azure-ad-apps.md)
 
 [Delete an integration profile](delete-saas-integration.md)
 

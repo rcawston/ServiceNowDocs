@@ -73,7 +73,7 @@ If there were issues, or if Discovery failed to complete, select the **Details**
 
 ## Address scan data
 
-When Discovery scans for IP addresses only \(without credentials or [identifiers](../concept/c_DiscoveryIdentifiers.md)\), no updates are made to the CMDB. All IP addresses discovered appear on this list, including multiple IPs on the same device. The results of IP address scans include slightly different information than the results of a CI scan. Since there is no CMDB activity associated with the IP address scan, the Completed activity column displays only the classification status.
+When Discovery scans for IP addresses only \(without credentials or [identifiers](c_DiscoveryIdentifiers.md)\), no updates are made to the CMDB. All IP addresses discovered appear on this list, including multiple IPs on the same device. The results of IP address scans include slightly different information than the results of a CI scan. Since there is no CMDB activity associated with the IP address scan, the Completed activity column displays only the classification status.
 
 Possible statuses are:
 
@@ -83,5 +83,5 @@ Possible statuses are:
 
 For Classified devices, Discovery might identify the type of device in the Current activity column. For example, Network Gear might be classified as Cisco Network Gear, and a Computer might be classified as a Windows Computer.
 
-**Parent Topic:**[Discovery status](../concept/c_DiscoveryStatus.md)
+**Parent Topic:**[Discovery status](c_DiscoveryStatus.md)
 

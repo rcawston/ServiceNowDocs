@@ -27,7 +27,7 @@ Role required: sn\_pp.admin
 
 3.  On the Signal data source form, fill in the fields.
 
-    For a description of the field values, see [Signal data source form](../reference/proactive-prompts-signal-datasource-form.md).
+    For a description of the field values, see [Signal data source form](proactive-prompts-signal-datasource-form.md).
 
 4.  Select **Submit**.
 

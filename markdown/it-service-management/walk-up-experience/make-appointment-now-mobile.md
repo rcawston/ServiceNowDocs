@@ -56,5 +56,5 @@ Role required: user
     Another way to view your appointment confirmation is to return to the Tech Lounge list view and tap the **Visits** tab, or return to the Now® Mobile app home page and tap **My Tech Visits**.
 
 
-**Parent Topic:**[Walk-up Experience on Now Mobile](../concept/walk-up-experience-now-mobile.md)
+**Parent Topic:**[Walk-up Experience on Now Mobile](walk-up-experience-now-mobile.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Project Portfolio Management, Strategic Portfolio Management]
 
 A program helps you to logically group related projects or demands under a single entity. The ServiceNow® Program Management application helps you to manage related projects and demands in coordinated way which is not possible when projects and demands are managed independently.
 
-The it\_program\_manager [role](../../project-portfolio-suite-with-financials/reference/roles-installed-with-PPS-finance.md#roles_ProgramMgmt) is essential to be able to manage programs. The Program Management application provides the following capabilities to the program manager:
+The it\_program\_manager [role](../ppm-collaboration/roles-installed-with-PPS-finance.md#roles_ProgramMgmt) is essential to be able to manage programs. The Program Management application provides the following capabilities to the program manager:
 
 -   Create a program by adding related projects and demands.
 -   Create tasks specific to the program. These tasks are essential for completion of the program but are outside the scope of projects.
@@ -72,12 +72,12 @@ Program vs Project decision criteria:
 -   Use Program when: Multi-project initiative, $1M+ budget, 2+ year duration, cross-organizational scope
 -   Use Project when: Single deliverable
 
--   **[Create a program to manage projects and demands](../task/t_CreateAProgram.md)**  
+-   **[Create a program to manage projects and demands](t_CreateAProgram.md)**  
 Create a program to manage related projects and demands. Define the duration, estimated cost, benefits, and ROI to the organization.
 -   **[Program workbench](c_ProgramWorkbench.md)**  
 The program workbench is a central location for viewing details of a program and the projects and demands that are part of the program.
 -   **[Program Dashboard](c_ProgramManagerDashboard.md)**  
 The PMO dashboard provides a central location to a program manager to generate different graphical reports.
 
-**Parent Topic:**[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](../ppm-collaboration/c_ProjectPortfolioSuite.md)
 

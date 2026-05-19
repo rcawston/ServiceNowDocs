@@ -44,5 +44,5 @@ If the MID Server manages resources within defined IP ranges, instead of all com
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Exchange activity pack](../concept/c_OrchestrationExchangeActivities.md)
+**Parent Topic:**[Exchange activity pack](c_OrchestrationExchangeActivities.md)
 

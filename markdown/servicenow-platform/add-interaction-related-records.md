@@ -36,5 +36,5 @@ Role required: admin
 6.  Click **Save**.
 
 
-**Parent Topic:**[Integrating ServiceNow Voice for HR](../concept/integrate-voice-hr-agent.md)
+**Parent Topic:**[Integrating ServiceNow Voice for HR](integrate-voice-hr-agent.md)
 

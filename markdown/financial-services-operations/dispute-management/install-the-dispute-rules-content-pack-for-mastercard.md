@@ -38,5 +38,5 @@ Role required: admin
 5.  Select **Install**.
 
 
-**Parent Topic:**[Dispute Rules Content Pack for Mastercard](../concept/dispute-rules-content-pack-for-mastercard-landing-page.md)
+**Parent Topic:**[Dispute Rules Content Pack for Mastercard](dispute-rules-content-pack-for-mastercard-landing-page.md)
 

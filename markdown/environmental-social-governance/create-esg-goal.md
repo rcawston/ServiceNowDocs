@@ -139,7 +139,7 @@ Progress
 
 </td><td>
 
-Percentage complete for the goal. The progress value is calculated automatically.For more information, on how the progress value is calculated, see [Goal progress value calculation](../concept/goal-progress-value-calculation.md).
+Percentage complete for the goal. The progress value is calculated automatically.For more information, on how the progress value is calculated, see [Goal progress value calculation](goal-progress-value-calculation.md).
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Description of the goal.
 
 To view the goal's relationship with other sub goals, targets, metric definitions, and so on, click **360º view**.
 
--   **[Goal progress value calculation](../concept/goal-progress-value-calculation.md)**  
+-   **[Goal progress value calculation](goal-progress-value-calculation.md)**  
 The progress or percentage complete value of goals is auto-calculated using different formulas. The formula depends on whether the goal has only targets, a combination of sub-goals and targets, and if it has weighted average calculation enabled.
 -   **[Migrate existing goals data to Goal Framework](migrate-existing-goals-to-new-data-model.md)**  
 With the admin role, you can migrate the existing goals data to the Goal Framework tables by running the scheduled job.
@@ -168,10 +168,10 @@ Map a goal to a material topic so that you can track the actions being taken for
 -   **[Associate entities to goals](associate-entities-to-goals.md)**  
 After you create the goals, you must associate those entities, which you want to track, to the goals.
 
-**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](../concept/configuring-esg.md)
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](configuring-esg.md)
 
 **Related topics**  
 
 
-[Goals overview in the Operational Sustainability Workspace \(formerly ESG Workspace\)](../reference/goals-overview-page.md)
+[Goals overview in the Operational Sustainability Workspace \(formerly ESG Workspace\)](goals-overview-page.md)
 

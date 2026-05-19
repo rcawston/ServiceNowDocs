@@ -48,9 +48,9 @@ Role required: Any internal role and the right to edit the dashboard with the vi
 **Related topics**  
 
 
-[Chart interactions in a data visualization](../concept/dv-chart-interactions.md)
+[Chart interactions in a data visualization](dv-chart-interactions.md)
 
-[Create a pie or donut data visualization](../../reporting/task/create-dv-donut-ac.md)
+[Create a pie or donut data visualization](create-dv-donut-ac.md)
 
-[Create a horizontal or vertical bar data visualization](../../reporting/task/create-dv-bar-ac.md)
+[Create a horizontal or vertical bar data visualization](create-dv-bar-ac.md)
 

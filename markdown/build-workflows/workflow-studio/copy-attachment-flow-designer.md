@@ -64,5 +64,5 @@ The execution details for flow step 3 show that the Look Up Record action has fo
 
 The execution details for flow step 4 show that both input values use the output data pills of Look Up Record actions. The Source Attachment Record input uses the data pill from flow step 3, and its runtime value is a specific Attachment record. The Target Record input uses the data pill from flow step 2, and its runtime value is a specific problem record.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

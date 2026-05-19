@@ -49,5 +49,5 @@ Testing a Data Stream action returns the first 20 items by default. To change th
 
 [Use a Data Stream action in a flow](use-data-stream-in-flow.md).
 
-**Parent Topic:**[Data Stream actions and pagination](../concept/data-stream-actions.md)
+**Parent Topic:**[Data Stream actions and pagination](data-stream-actions.md)
 

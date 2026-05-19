@@ -38,7 +38,7 @@ The following items are installed with Customer Service Problem Management:
 -   Tables
 -   Properties
 
-For more information, see [Components installed with Customer Service Problem Management](../reference/spm-components.md) and [Customer Service Problem Management properties](../reference/cspm-properties.md).
+For more information, see [Components installed with Customer Service Problem Management](spm-components.md) and [Customer Service Problem Management properties](cspm-properties.md).
 
 ## Procedure
 

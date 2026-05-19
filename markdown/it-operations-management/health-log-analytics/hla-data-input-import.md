@@ -18,7 +18,7 @@ Import a data input configuration that you've exported from another instance as 
 
 ## Before you begin
 
-For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md).
+For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](hla-data-input-migration.md).
 
 Before performing this procedure, export the data input to an update set. For more information, see [Export a Health Log Analytics data input configuration](hla-data-input-migrate.md).
 
@@ -91,5 +91,5 @@ Role required: admin
 
 You can begin using the data input for streaming and processing log data.
 
-**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md)
+**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](hla-data-input-migration.md)
 

@@ -27,7 +27,7 @@ Before creating or updating a rate line, note the following points:
 -   Rate lines with the same set of criteria values cannot have overlapping dates.
 -   A criteria field can be empty.
 -   All criteria fields on the form have a value `All other (*)` that, if selected, is considered by the rate model if no exact match exists for that criteria.
--   To use a non-functional \(non-default\) currency in a rate line, ensure that the corresponding [budget reference rate](../../project-management/concept/c_BudgetReferenceRates.md) is available.
+-   To use a non-functional \(non-default\) currency in a rate line, ensure that the corresponding [budget reference rate](../ppm-collaboration/c_BudgetReferenceRates.md) is available.
 
 ## Procedure
 
@@ -89,7 +89,7 @@ Rate
 
 Applicable rate and currency of the rate line. By default, the currency of the rate model to which the rate line belongs is selected as the currency. You can select a rate currency, which can be different from the rate model currency. Rate lines with the same set of criteria values and currency must not have overlapping dates.
 
- A project or demand manager can track the resource cost for projects or demands in the corresponding project or demand currency by installing the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin and enabling the Project Currency view or Demand Currency view for resource plans. For more information, see the [Create a resource plan](../../resource-management/task/t_CreateResourcePlanProjectTask.md) topic.
+ A project or demand manager can track the resource cost for projects or demands in the corresponding project or demand currency by installing the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin and enabling the Project Currency view or Demand Currency view for resource plans. For more information, see the [Create a resource plan](../resource-management/t_CreateResourcePlanProjectTask.md) topic.
 
 </td></tr><tr><td>
 
@@ -115,5 +115,5 @@ Rate in the default currency configured in the Financial Management application.
 
 Rate lines that represent resource hourly rates based on defined attributes are created.
 
-**Parent Topic:**[Rate Models](../concept/rate-model.md)
+**Parent Topic:**[Rate Models](rate-model.md)
 

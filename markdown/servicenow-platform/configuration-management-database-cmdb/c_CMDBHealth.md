@@ -31,7 +31,7 @@ A healthy CMDB, based on health benchmarks in an organization, is essential to a
 
 </td></tr><tr><td>
 
-[Remediate![](../../../reuse/icons/brand-icons/bus-explore-careers.svg)Create and apply remediation rules to CIs that failed health tests.](../task/t_CreateCMDBRemediationRule.md)
+[Remediate![](../../../reuse/icons/brand-icons/bus-explore-careers.svg)Create and apply remediation rules to CIs that failed health tests.](t_CreateCMDBRemediationRule.md)
 
 </td><td>
 
@@ -54,11 +54,11 @@ Learn more about CMDB Health and review the benefits it can provide for users in
 View CMDB Health dashboards and use other CMDB Health-related features in CMDB Workspaceand in Service Graph Workspace.
 -   **[View CMDB Health Dashboard](c_MonitorCMDBHealth.md)**  
 The CMDB Health Dashboard serves as a central location to view detailed health reports for your CMDB at a glance. Also, it provides functions to remediate issues that CMDB Health detected, to improve CMDB health.
--   **[View relationships health](../task/t_ViewRelationshipsHealth.md)**  
+-   **[View relationships health](t_ViewRelationshipsHealth.md)**  
 View health scores for relationship health such as orphan, stale, and duplicate relationships, in the Relationship Health Dashboard.
--   **[View CI health](../task/t_ViewCIHealth.md)**  
+-   **[View CI health](t_ViewCIHealth.md)**  
 View CMDB Health report for an individual CI, on the CIs form in CMDB Workspaceor in Service Graph Workspace.
--   **[Create a CMDB remediation rule](../task/t_CreateCMDBRemediationRule.md)**  
+-   **[Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)**  
 A CMDB remediation rule is associated with a task that was created for a failed CMDB health test. A CMDB remediation rule is applied automatically or manually to execute a remediation workflow that can, for example, delete stale CIs.
 -   **[CMDB Health process tracking and troubleshooting](c_CMDBHealthTroubleshooting.md)**  
 Use the following information to track and resolve issues with the CMDB Health processes.

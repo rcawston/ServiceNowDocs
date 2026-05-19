@@ -86,6 +86,6 @@ Parameter values in the billing node table that uniquely define the CI type.
 
     See [Schedule and manage the jobs that download AWS billing data](aws-bill-dwnld-job-cloudin.md).
 
-    **Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Amazon AWS Cloud services](../reference/aws-supported-ci-class-types.md).
+    **Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Amazon AWS Cloud services](aws-supported-ci-class-types.md).
 
 

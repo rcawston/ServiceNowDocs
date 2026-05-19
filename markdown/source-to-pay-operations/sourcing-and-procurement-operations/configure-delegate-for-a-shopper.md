@@ -122,5 +122,5 @@ Indicates if the user can receive meeting invitations.
 -   **[Configure approval rule for a delegate](config-approval-delegate.md)**  
 Configure an approval rule for a delegate to ensure that the business owner has better visibility into the request before approval.
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 

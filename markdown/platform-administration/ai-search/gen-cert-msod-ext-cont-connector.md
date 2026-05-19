@@ -115,5 +115,5 @@ JKS keystore file and password
 Provide this Java KeyStore file and its password to your ServiceNow AI Platform admins. They will need the file and password when configuring the Microsoft OneDrive external content connector. For details on creating and configuring the Microsoft OneDrive external content connector, see [Create a Microsoft OneDrive external content connector](create-ext-cont-connector-microsoft-onedrive.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft OneDrive external content connector](../concept/microsoft-onedrive-external-content-connector.md)
+</table>**Parent Topic:**[Microsoft OneDrive external content connector](microsoft-onedrive-external-content-connector.md)
 

@@ -20,5 +20,5 @@ Several types of components are installed with the activation of the HR Service 
 -   **[Transform maps for HR Service Delivery integration with Oracle Cloud HCM](oracle-hcm-transform-maps.md)**  
 Transform maps specify data relationships between a source table and a target table.
 
-**Parent Topic:**[Integration of HR Service Delivery with third-party systems](../concept/integrate-third-party-systems.md)
+**Parent Topic:**[Integration of HR Service Delivery with third-party systems](integrate-third-party-systems.md)
 

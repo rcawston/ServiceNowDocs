@@ -42,7 +42,7 @@ Steps to configure AI search in Recommended Actions include enabling the AI sear
 
 ## Using AI search in Recommended Actions
 
-Enable customer service agents to use AI search for faster access to relevant information and take appropriate actions to resolve customer issues. For more information, see [Use AI search in Recommended Actions to resolve cases](../task/nba-use-ai-search.md).
+Enable customer service agents to use AI search for faster access to relevant information and take appropriate actions to resolve customer issues. For more information, see [Use AI search in Recommended Actions to resolve cases](nba-use-ai-search.md).
 
 -   Accessing AI search: Agents can access the AI search tab in the contextual side panel of the workspace.
 -   Finding context-aware results: Agents can enter their search queries in the search bar. AI search uses natural language processing to understand user queries and considers task context to produce relevant results.

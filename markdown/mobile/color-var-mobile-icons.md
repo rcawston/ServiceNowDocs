@@ -19,7 +19,7 @@ Mobile icons have a **Set appearance** section used to define the appearance of 
 
  Using this style you can define any color variable from the UX Theme Properties \[sys\_ux\_theme\_property\] table. For a list available variables see the color design guide below.
 
- For details on creating map screens, see [Configure an icon UI section](../task/sg-ui-section-config-navig.md).
+ For details on creating map screens, see [Configure an icon UI section](sg-ui-section-config-navig.md).
 
  For details on creating icons in mobile, see [Mobile icons](sg-mobile-icon.md).
 

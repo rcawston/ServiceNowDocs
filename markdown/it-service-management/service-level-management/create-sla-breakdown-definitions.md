@@ -110,5 +110,5 @@ Check box to select if the SLA breakdown definition is active.
     The selected SLA Definitions appear.
 
 
-**Parent Topic:**[Configuring Service Level Management](../concept/configuring-service-level-management.md)
+**Parent Topic:**[Configuring Service Level Management](configuring-service-level-management.md)
 

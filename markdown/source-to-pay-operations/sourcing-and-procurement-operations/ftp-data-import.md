@@ -51,7 +51,7 @@ Role required: import\_admin or admin
 
 5.  Set additional fields based on the selected **Type**.
 
-    See the documentation for each data source type for additional field information. The Table transform map is associated with the table to transform the `File Based Catalog Import [sn_spend_ftp_intg_catalog_stage]` data into `Catalog Import [sn_spend_intg_imp_catalog]`. For more information on the table transform map, see the [Data source table information](../reference/data-sources-info.md).
+    See the documentation for each data source type for additional field information. The Table transform map is associated with the table to transform the `File Based Catalog Import [sn_spend_ftp_intg_catalog_stage]` data into `Catalog Import [sn_spend_intg_imp_catalog]`. For more information on the table transform map, see the [Data source table information](data-sources-info.md).
 
 
 ## What to do next
@@ -62,5 +62,5 @@ Role required: import\_admin or admin
 -   **[Run scheduled imports](run-scheduled-imports.md)**  
 A scheduled import allows administrators to import data on a regular schedule. Run import operations on a daily, weekly, or monthly basis based on your business requirements. Scheduled import runs a datasource similar to how a scheduler job runs the script.
 
-**Parent Topic:**[Procurement File Transfer Framework](../concept/procurement-file-transfer-framework.md)
+**Parent Topic:**[Procurement File Transfer Framework](procurement-file-transfer-framework.md)
 

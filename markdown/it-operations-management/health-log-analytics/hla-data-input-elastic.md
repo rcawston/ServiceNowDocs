@@ -42,19 +42,19 @@ Role required: evt\_mgmt\_admin
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [Elasticsearch data input configuration fields](../reference/hla-data-input-elastic-ref.md).
+    For a description of the fields, see [Elasticsearch data input configuration fields](hla-data-input-elastic-ref.md).
 
 5.  Select **Advanced** to set advanced configuration fields.
 
-    For a description of the fields, see [Elasticsearch data input configuration fields](../reference/hla-data-input-elastic-ref.md). For information about configuring the advanced settings later, see [Configure advanced settings for Elasticsearch data inputs in Health Log Analytics manually](hla-data-input-adv-elastic.md).
+    For a description of the fields, see [Elasticsearch data input configuration fields](hla-data-input-elastic-ref.md). For information about configuring the advanced settings later, see [Configure advanced settings for Elasticsearch data inputs in Health Log Analytics manually](hla-data-input-adv-elastic.md).
 
 6.  On the **Transport** tab, fill in the fields.
 
-    For a description of the fields, see [Elasticsearch data input configuration fields](../reference/hla-data-input-elastic-ref.md).
+    For a description of the fields, see [Elasticsearch data input configuration fields](hla-data-input-elastic-ref.md).
 
 7.  On the **Query Settings** tab, fill in the fields.
 
-    For a description of the fields, see [Elasticsearch data input configuration fields](../reference/hla-data-input-elastic-ref.md).
+    For a description of the fields, see [Elasticsearch data input configuration fields](hla-data-input-elastic-ref.md).
 
 8.  Select **Save**.
 
@@ -92,7 +92,7 @@ For more information about streaming logs using the Elasticsearch data input, se
 
 **Note:** If you experience permissions-related issues with streaming log data from Elasticsearch, refer to the [Granting privileges for data streams from Elasticsearch \[KB0967366\]](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=9648a9281b61b4100b8a9979b04bcb04) article in the Now Support Knowledge Base.
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 
 **Related topics**  
 

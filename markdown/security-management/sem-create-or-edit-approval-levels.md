@@ -136,5 +136,5 @@ Select an option from:-   Assigned to
 </table>6.  To save the changes, select **Update**.
 
 
-**Parent Topic:**[Unified Approval Rules Overview](../concept/sem-approval-rules-overiew.md)
+**Parent Topic:**[Unified Approval Rules Overview](sem-approval-rules-overiew.md)
 

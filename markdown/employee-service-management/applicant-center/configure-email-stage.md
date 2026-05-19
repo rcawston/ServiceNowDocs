@@ -19,5 +19,5 @@ Choose when the applicant can access the Applicant Center.
 
 **Note:** You must have the administrator role to perform this task.
 
-**Parent Topic:**[Configuring Applicant Center](../concept/config-applicant-center.md)
+**Parent Topic:**[Configuring Applicant Center](config-applicant-center.md)
 

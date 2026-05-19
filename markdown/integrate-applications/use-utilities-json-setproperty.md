@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-To configure the properties of the SetProperty component, see [Properties of the JSON utilities](../reference/properties-utilities-json.md).
+To configure the properties of the SetProperty component, see [Properties of the JSON utilities](properties-utilities-json.md).
 
 ## Procedure
 
@@ -131,5 +131,5 @@ Returns the JSON object with the updated or new property value.
 </table>5.  To test the component, right-click the component bar and then click **Run From Here**.
 
 
-**Parent Topic:**[JSON](../concept/json.md)
+**Parent Topic:**[JSON](json.md)
 

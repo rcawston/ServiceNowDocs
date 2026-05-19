@@ -64,5 +64,5 @@ Boolean
 Flag that indicates whether the endpoint requires authentication.Default: true
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 

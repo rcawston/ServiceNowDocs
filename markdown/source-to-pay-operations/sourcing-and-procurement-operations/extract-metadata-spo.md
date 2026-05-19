@@ -49,7 +49,7 @@ Review the metadata extracted from a contract and add it to the contract reposit
 
 The Extraction results tab in the contract repository record displays the processed metadata and their statuses, indicating whether the metadata have been successfully added to the mapped fields in the contract repository. For more information, see [Metadata extraction results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-metadata-ext-results.md).
 
-**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](../concept/use-now-assist-cmpro-spo.md)
+**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](use-now-assist-cmpro-spo.md)
 
 **Related topics**  
 

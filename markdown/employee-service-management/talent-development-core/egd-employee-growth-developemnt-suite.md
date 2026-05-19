@@ -23,27 +23,27 @@ The ServiceNow® Growth Experiences applications use a suite of products to help
 
 </td><td>
 
-[Skills Intelligence![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)An AI-driven platform that you can use in your organization to develop a workforce that is based on skills](../../skills-intelligence/concept/skills-intelligence.md)
+[Skills Intelligence![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)An AI-driven platform that you can use in your organization to develop a workforce that is based on skills](skills-intelligence.md)
 
 </td><td>
 
-[Career Conversations![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg)Supports an end-to-end process for individuals and managers to create and manage career growth conversations](egd-activities-landing-page.md)
+[Career Conversations![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg)Supports an end-to-end process for individuals and managers to create and manage career growth conversations](../career-conversations/egd-activities-landing-page.md)
 
 </td></tr><tr><td>
 
-[Learning![](../../../reuse/icons/brand-icons/bus-learn.svg)Enables employees to discover and engage with career development content](../../human-resources/concept/exploring-learning-exp.md)
+[Learning![](../../../reuse/icons/brand-icons/bus-learn.svg)Enables employees to discover and engage with career development content](../learning-core/exploring-learning-exp.md)
 
 </td><td>
 
-[Mentoring![](../../../reuse/icons/brand-icons/bus-partnering.svg)Connects individuals seeking mentorship with experienced mentors](../../mentoring-egd/concept/mentoring-egd-overview.md)
+[Mentoring![](../../../reuse/icons/brand-icons/bus-partnering.svg)Connects individuals seeking mentorship with experienced mentors](../mentoring/mentoring-egd-overview.md)
 
 </td><td>
 
-[Employee Goals![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg)Enables employees to view and track their career goals from the Employee Center, ensuring they are aligned with your company's strategic objectives](../../egd-goals/concept/egd-goals-landing.md)
+[Employee Goals![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg)Enables employees to view and track their career goals from the Employee Center, ensuring they are aligned with your company's strategic objectives](../employee-goals/egd-goals-landing.md)
 
 </td></tr><tr><td>
 
-[Talent Feedback![](../../../reuse/icons/brand-icons/bus-customer-service.svg)Allows managers to request feedback on employee skills from the employee’s collaborators](../../talent-feedback/concept/talent-feedback-landing.md)
+[Talent Feedback![](../../../reuse/icons/brand-icons/bus-customer-service.svg)Allows managers to request feedback on employee skills from the employee’s collaborators](../talent-feedback/talent-feedback-landing.md)
 
 </td><td>
 
@@ -58,8 +58,8 @@ The ServiceNow® Growth Experiences applications use a suite of products to help
 
 Here is a list of some of the related applications. Select a link to learn more about these applications.
 
--   [Leader Hub](../../td-leader-hub/concept/td-lh-landing.md)
--   [Manager Hub](../../human-resources/concept/manager-hub-overview.md)
+-   [Leader Hub](../hr-service-delivery/td-lh-landing.md)
+-   [Manager Hub](../hr-service-delivery/manager-hub-overview.md)
 
 ## Additional resources
 

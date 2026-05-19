@@ -15,7 +15,7 @@ breadcrumb: [Contextual search plugin, Contextual search plugin, Contextual sear
 
 Several types of components are installed with the activation of the Contextual Search plugin \(com.snc.contextual\_search\), including tables and user roles.
 
-**Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](../../plugins/task/find-components.md).
+**Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](../find-components.md).
 
 ## Tables installed
 
@@ -150,5 +150,5 @@ Base UI Configuration \[cxs\_ui\_config\_base\]
 Common elements for the record producer, table, and wizard configurations.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Contextual search plugin](../task/contextual-search-plugin.md)
+</table>**Parent Topic:**[Contextual search plugin](contextual-search-plugin.md)
 

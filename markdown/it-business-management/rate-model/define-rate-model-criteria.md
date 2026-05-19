@@ -94,5 +94,5 @@ User-friendly name for identifying the attribute. The default name populated is 
 
 [Create rate lines to define the hourly rates for resources.](create-rate-line.md)
 
-**Parent Topic:**[Rate Models](../concept/rate-model.md)
+**Parent Topic:**[Rate Models](rate-model.md)
 

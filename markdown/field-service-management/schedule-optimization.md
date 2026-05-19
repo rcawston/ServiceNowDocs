@@ -34,7 +34,7 @@ Schedule Optimization enables you to optimize task scheduling, auto-assign tasks
 
 ## Schedule Optimization based on territories
 
-Use Schedule Optimization with Field Service Territory Planning to schedule complex multi-territory assignments. Assign tasks to agents whether they’re primary or secondary members of a single or multiple territories. For more information, see [Territory-Based Optimization](../task/territory-based-optimization.md).
+Use Schedule Optimization with Field Service Territory Planning to schedule complex multi-territory assignments. Assign tasks to agents whether they’re primary or secondary members of a single or multiple territories. For more information, see [Territory-Based Optimization](field-service-scheduling/territory-based-optimization.md).
 
 ## Intra-day Schedule Optimization
 
@@ -63,5 +63,5 @@ For example, the optimization engine can decide on scheduling an agent who might
 **Related topics**  
 
 
-[Configuring Schedule Optimization](schedule-optimization-engine.md)
+[Configuring Schedule Optimization](field-service-scheduling/schedule-optimization-engine.md)
 

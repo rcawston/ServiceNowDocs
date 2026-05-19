@@ -26,5 +26,5 @@ Role required: it\_portfolio\_manager
     The PMO Dashboard is displayed.
 
 
-**Parent Topic:**[Portfolio Dashboard](../concept/c_PortfolioManagerDashboard.md)
+**Parent Topic:**[Portfolio Dashboard](c_PortfolioManagerDashboard.md)
 

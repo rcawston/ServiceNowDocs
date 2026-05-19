@@ -40,7 +40,7 @@ The following items are installed with Gifts and Entertainment Compliance:
 -   Flows
 -   Tables
 
-For more information, see [Components installed with Gifts and Entertainment Compliance](../reference/lsd-installed-with-ge.md).
+For more information, see [Components installed with Gifts and Entertainment Compliance](lsd-installed-with-ge.md).
 
 ## Procedure
 
@@ -57,5 +57,5 @@ For more information, see [Components installed with Gifts and Entertainment Com
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configure Gifts and Entertainment Compliance](../concept/lsd-ge-administration.md)
+**Parent Topic:**[Configure Gifts and Entertainment Compliance](lsd-ge-administration.md)
 

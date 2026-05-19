@@ -65,7 +65,7 @@ After Service Mapping discovers configuration items \(CIs\) belonging to your se
 -   **[Prepare a CSV file for mapping your candidates](prepare-csv-file.md)**  
 Organize information about potential application services \(candidates\) in your organization and save it in a CSV file.
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
@@ -84,7 +84,7 @@ Organize information about potential application services \(candidates\) in your
 
 [Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

@@ -40,5 +40,5 @@ Role required: document\_management\_user
     The Document Revisions list updates to contain the most recent revision.
 
 
-**Parent Topic:**[Managed Documents](../concept/c_ManagedDocuments.md)
+**Parent Topic:**[Managed Documents](c_ManagedDocuments.md)
 

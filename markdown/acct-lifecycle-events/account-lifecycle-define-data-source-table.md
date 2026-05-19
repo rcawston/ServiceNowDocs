@@ -15,7 +15,7 @@ Use the **Table** data source to retrieve data from internal ServiceNow tables o
 
 ## Before you begin
 
--   At least one context must be defined for each **Table** type data source with a valid mapping to the source reference table. See [Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md) for details.
+-   At least one context must be defined for each **Table** type data source with a valid mapping to the source reference table. See [Configure the Context Engine Mapper](account-lifecycle-define-context-engine-mapper.md) for details.
 -   Role required: sn\_acct\_lc.customer\_success\_application\_admin
 
 ## About this task
@@ -34,7 +34,7 @@ By defining a **Table** data source, you can:
 
 3.  On the Data Source form, enter a name for the data source and fill in the following fields.
 
-    See [Define the data source](../concept/account-lifecycle-define-data-source.md) for details on how to create a data source.
+    See [Define the data source](account-lifecycle-define-data-source.md) for details on how to create a data source.
 
 <table id="table_lt1_jy4_3hc"><thead><tr><th>
 
@@ -159,5 +159,5 @@ A few examples on how to configure the data source are given below:
 
 ## What to do next
 
-After defining the data source, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md) for details.
+After defining the data source, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](account-lifecycle-define-context-engine-mapper.md) for details.
 

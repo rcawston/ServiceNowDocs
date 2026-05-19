@@ -46,5 +46,5 @@ Use this procedure the start the guided tour manually.
 9.  Select **Done** to complete the tour.
 
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](using-ur.md)
 

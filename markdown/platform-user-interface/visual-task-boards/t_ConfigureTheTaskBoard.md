@@ -132,12 +132,12 @@ SLA status indicators appear on cards and alerts appear when one or more card ha
     This setting is a user preference.
 
 
-**Parent Topic:**[Customizing and configuring Visual Task Boards](../concept/configuring-vis-task-boards.md)
+**Parent Topic:**[Customizing and configuring Visual Task Boards](configuring-vis-task-boards.md)
 
 **Related topics**  
 
 
-[Visual Task Board tools](../reference/task-board-tools.md)
+[Visual Task Board tools](task-board-tools.md)
 
 [Add or remove a Visual Task Board member](t_AddOrRemoveATaskBoardMember.md)
 

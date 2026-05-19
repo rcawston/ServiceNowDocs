@@ -33,5 +33,5 @@ Role required: sn\_ind\_tmt\_orm.order\_agent
 3.  Select **Update** to save any changes.
 
 
-**Parent Topic:**[Updating specification versions](../concept/som-specification-version-update.md)
+**Parent Topic:**[Updating specification versions](som-specification-version-update.md)
 

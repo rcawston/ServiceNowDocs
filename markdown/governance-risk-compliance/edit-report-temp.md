@@ -29,7 +29,7 @@ Role required: sn\_bcm.admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [Word template form](../reference/word-template-form.md).
+    For more information on the fields, see [Word template form](word-template-form.md).
 
     Microsoft Word templates provided with an instance have two categories: BCM and BIA Smart Assessment.
 

@@ -19,9 +19,9 @@ Role required: admin.
 
 -   In the ServiceNow Store, you must ensure that you have entitlements \(or licenses\) to the application and its dependent applications.
 
-    **Note:** This process applies only to applications that are downloaded to production instances. If you're downloading applications to non-production or development instances, it's not necessary to get entitlements. Proceed to [Activate a ServiceNow Store application](../task/activate-entitled-store-app.md).
+    **Note:** This process applies only to applications that are downloaded to production instances. If you're downloading applications to non-production or development instances, it's not necessary to get entitlements. Proceed to [Activate a ServiceNow Store application](activate-entitled-store-app.md).
 
 -   Finally, you can activate the application and run it on your instance.
 
-**Note:** Starting with previous versions of Rome and later releases, dependency plugins are automatically activated when you activate a core application. For example, when you activate the Vulnerability Response application, the Vulnerability Response Dependencies plugin is also activated. For more information, see [Activate a ServiceNow Store application](../task/activate-entitled-store-app.md).
+**Note:** Starting with previous versions of Rome and later releases, dependency plugins are automatically activated when you activate a core application. For example, when you activate the Vulnerability Response application, the Vulnerability Response Dependencies plugin is also activated. For more information, see [Activate a ServiceNow Store application](activate-entitled-store-app.md).
 

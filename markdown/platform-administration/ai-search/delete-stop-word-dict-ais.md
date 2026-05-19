@@ -36,5 +36,5 @@ Role required: ais\_admin
 
 The selected stop word dictionary disappears from the AI Search Dictionaries list.
 
-**Parent Topic:**[Stop words](../concept/stop-words-ais.md)
+**Parent Topic:**[Stop words](stop-words-ais.md)
 

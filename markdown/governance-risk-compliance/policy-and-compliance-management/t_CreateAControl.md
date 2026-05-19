@@ -65,7 +65,7 @@ Inherit from control objective
 
 </td><td>
 
-Option to indicate whether the control is created through item generation process. For more information, see [Multiple controls for a unique entity–control objective combination](../concept/support-multiple-controls-same-entity-control-objective.md).
+Option to indicate whether the control is created through item generation process. For more information, see [Multiple controls for a unique entity–control objective combination](support-multiple-controls-same-entity-control-objective.md).
 
 </td></tr><tr><td>
 
@@ -357,5 +357,5 @@ When **Entity based access restriction** is enabled, only users or user groups i
 
 ## What to do next
 
-After you create a control, you can convert the control to a common control and add reliant entities and reliant entity types to it. For more information, see [Testing common control and implementing results on multiple reliant entities](../../grc-workspace-compliance/concept/common-controls-multiple-rel-entities.md).
+After you create a control, you can convert the control to a common control and add reliant entities and reliant entity types to it. For more information, see [Testing common control and implementing results on multiple reliant entities](../grc-compliance-management-workspace/common-controls-multiple-rel-entities.md).
 

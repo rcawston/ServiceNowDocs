@@ -40,14 +40,14 @@ After creating an exam catalog, define user access criteria at the exam catalog 
 -   **[Add exams to a catalog](assign-catalog-exams.md)**  
 Add exams to an exam catalog in Career Assessment.
 
-**Parent Topic:**[Using Career Assessment](../concept/using-exam-engine.md)
+**Parent Topic:**[Using Career Assessment](using-exam-engine.md)
 
 **Related topics**  
 
 
 [Create an exam](create-exam.md)
 
-[Add exams to a learning path from Career Assessment](../concept/create-quiz-path.md)
+[Add exams to a learning path from Career Assessment](create-quiz-path.md)
 
 [View an exam instance](view-exam-instance.md)
 

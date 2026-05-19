@@ -71,5 +71,5 @@ Provides a tool to allow a digital signature in a .pdf document. The Human Resou
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[E-signature](../concept/e-signature.md)
+**Parent Topic:**[E-signature](e-signature.md)
 

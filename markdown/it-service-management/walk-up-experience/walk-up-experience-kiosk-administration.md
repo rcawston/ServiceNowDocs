@@ -15,7 +15,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 Walk-up Experience kiosks help your requesters to resolve information technology \(IT\)-related issues and access various IT services and resources in your organization.
 
-As an administrator, you can activate kiosks at walk-up locations and customize them to support the IT-related requests from your requesters. For example, you can assign one kiosk to refresh the requester's laptops and another kiosk to supply computer devices. For more information, see [Create a kiosk at a location](../task/create-a-kiosk.md).
+As an administrator, you can activate kiosks at walk-up locations and customize them to support the IT-related requests from your requesters. For example, you can assign one kiosk to refresh the requester's laptops and another kiosk to supply computer devices. For more information, see [Create a kiosk at a location](create-a-kiosk.md).
 
 The requesters can use desktop or mobile devices to make an appointment or to join the queue. For more information on using the mobile device to make an appointment, see [Walk-up Experience on Now Mobile](walk-up-experience-now-mobile.md). Based on the requester's service requirement, they are directed to a designated kiosk. The requester can then check their queue number on the kiosk screen as well as on their desktop or mobile device.
 
@@ -25,7 +25,7 @@ Requesters can view the kiosk queue on their desktop or mobile device screens an
 
 The following example shows a typical kiosk queue for a Tech Lounge within an organization.![Wait time for a Tech Lounge queue.](../image/KioskNameonDisplay.png)
 
--   **[Create a kiosk at a location](../task/create-a-kiosk.md)**  
+-   **[Create a kiosk at a location](create-a-kiosk.md)**  
 Walk-up Experience kiosks offer immediate assistance to the requesters by supporting them with technical issues, questions, or requests. The requesters can receive on-the-spot guidance or resolution for their IT-related problems.
 
 **Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)

@@ -17,11 +17,11 @@ Reference topics provide additional information about mapping and fine-tuning ap
 
 -   **[Components installed with Event Management](r_InstalledWithEventManagement.md#)**  
 Activating the Event Management \(com.glideapp.itom.snac\) plugin adds several roles, scheduled jobs, and tables.
--   **[Event Management Platform Analytics Solutions](../../../use/dashboards/application-content-packs/event-content-pack.md)**  
+-   **[Event Management Platform Analytics Solutions](event-content-pack.md)**  
 Platform Analytics Solutions contain preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
--   **[Machine learning solutions for Event Management](../concept/ml-solutions-em.md)**  
+-   **[Machine learning solutions for Event Management](ml-solutions-em.md)**  
 Build solutions for Event Management with Predictive Intelligence.
--   **[Performance Analytics Edit Widget dialog box](../../../use/dashboards/reference/edit-widget.md)**  
+-   **[Performance Analytics Edit Widget dialog box](edit-widget.md)**  
 Fields in the dialog box for editing a Performance Analytics dashboard widget.
 -   **[Event Management MID Web Server extension form](configure-midwebserver-extension-form.md)**  
 Fields in the form for creating or modifying a MID Web Server extension.
@@ -66,5 +66,5 @@ You can combine similar alerts that meet specific criteria for a particular serv
 -   **[Alert correlation rule form](alert-correlation-rule-form.md)**  
 Manage the fields that define how alerts are correlated and grouped.
 
-**Parent Topic:**[Event Management](../concept/c_EM.md)
+**Parent Topic:**[Event Management](c_EM.md)
 

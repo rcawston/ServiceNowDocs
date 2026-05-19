@@ -55,5 +55,5 @@ The product life-cycle value pairs represent the overall life cycle of a product
     -   **Retired**: The product is no longer available for new purchases or deployments but may still exist in limited use.
     -   **Obsolete**: The product is completely phased out and is no longer supported or used.
 
-**Parent Topic:**[Life cycle of product entities](../concept/csdm-lifecycle-product.md)
+**Parent Topic:**[Life cycle of product entities](csdm-lifecycle-product.md)
 

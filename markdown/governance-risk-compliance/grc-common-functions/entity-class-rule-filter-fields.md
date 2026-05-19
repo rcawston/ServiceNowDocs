@@ -58,5 +58,5 @@ Filter priority. If a source record of an entity satisfies a multiple class rule
  For example, if you have two subclass applications and departments that have priority 0 and 1, respectively, the application subclass that has the lower priority is auto-filled in the rule and control form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an entity class rule filter](../task/create-new-entity-class-rule-filter.md)
+</table>**Parent Topic:**[Create an entity class rule filter](create-new-entity-class-rule-filter.md)
 

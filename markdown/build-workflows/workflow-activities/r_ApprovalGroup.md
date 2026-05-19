@@ -328,5 +328,5 @@ The activity state tells the workflow engine what to do with the activity.
 |Cancelled|This activity, or the workflow that contains this activity, was canceled.|
 |Error|A JavaScript error occurred. Review the logs for error details.|
 
-**Parent Topic:**[Approval and rollback workflow activities](../concept/c_ApprovalAndRollbackActivities.md)
+**Parent Topic:**[Approval and rollback workflow activities](c_ApprovalAndRollbackActivities.md)
 

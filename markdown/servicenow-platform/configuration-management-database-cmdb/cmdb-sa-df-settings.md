@@ -74,5 +74,5 @@ Marks CIs as retired when no longer in use.
 </table>**Related topics**  
 
 
-[Administer CMDB Data Manager](../../configuration-management/concept/administer-data-manager.md)
+[Administer CMDB Data Manager](administer-data-manager.md)
 

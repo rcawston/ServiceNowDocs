@@ -46,7 +46,7 @@ The **CSM Dashboards** landing page variant is an optional page variant for the 
 
 **Note:** The default landing page, Dashboard Overview, and the [default dashboards](csm-ws-landing-page-dashboard.md#section_vny_jwb_4xb) included with that page are available in read-only mode and are provided as examples. It is recommended that you create and customize duplicates of the landing page and dashboards.
 
-For more information about activating a page variant and setting the order, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+For more information about activating a page variant and setting the order, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 ## User roles for the Dashboard Overview landing page
 

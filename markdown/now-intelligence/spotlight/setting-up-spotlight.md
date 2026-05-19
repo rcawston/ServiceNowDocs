@@ -21,9 +21,9 @@ Specify the records you want to evaluate by creating a Spotlight group. Create m
 
 After creating the Spotlight group and multiple Spotlight criteria, activate the Spotlight group. After the Group is activated, Spotlight scores are collected automatically according to the Spotlight group job schedule. You can also collect Spotlight scores manually at any time for an active group. A Spotlight is automatically created for any records with Spotlight scores that exceed the Spotlight group threshold, allowing you to quickly identify the highest priority work.
 
--   **[Create a Spotlight group](../task/create-spotlight-group.md#)**  
+-   **[Create a Spotlight group](create-spotlight-group.md#)**  
 Create a Spotlight group to define the records to evaluate. In the Spotlight group, you also set the threshold that the score of a record must exceed to trigger the creation of a Spotlight.
--   **[Create Spotlight criteria](../task/create-spotlight-criteria.md)**  
+-   **[Create Spotlight criteria](create-spotlight-criteria.md)**  
 Create Spotlight criteria to define when to weight a record, and the weight to assign.
 -   **[Collect Spotlight scores](collect-spotlight-scores.md)**  
 To collect Spotlight scores, schedule score collection and activate the Spotlight group. You can also collect scores manually for an active Spotlight group.
@@ -33,5 +33,5 @@ To collect Spotlight scores, schedule score collection and activate the Spotligh
 **Related topics**  
 
 
-[Performance Analytics concepts](c_PerformanceAnalytics.md)
+[Performance Analytics concepts](../performance-analytics/c_PerformanceAnalytics.md)
 

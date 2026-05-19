@@ -33,7 +33,7 @@ Role required: admin
 
 2.  Set the **sn\_wfo\_outlook.enable\_outlook\_sync** system property to **true**.
 
-    For more information, see [Scheduling components in Workforce Optimization for ITSM](../reference/configurable-wfo-itsm-scheduling-reference.md).
+    For more information, see [Scheduling components in Workforce Optimization for ITSM](configurable-wfo-itsm-scheduling-reference.md).
 
 3.  Add the email IDs of the users that you want to synchronize to the User \[sys\_user\] table.
 
@@ -42,5 +42,5 @@ Role required: admin
     **Important:** If the swapped shifts don't appear in the Microsoft Outlook calendar, verify that you've followed all steps in this procedure to make sure that the schedule for the shifts have been synchronized with Microsoft Outlook.
 
 
-**Parent Topic:**[Synchronize agent calendar in Workforce Optimization for ITSM with the Microsoft Outlook calendar](../concept/synchronize-microsoft-outlook-wfo-itsm.md)
+**Parent Topic:**[Synchronize agent calendar in Workforce Optimization for ITSM with the Microsoft Outlook calendar](synchronize-microsoft-outlook-wfo-itsm.md)
 

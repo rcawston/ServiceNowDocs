@@ -29,5 +29,5 @@ Using a cron job, a machine internal to your network can make a wget call to pul
 -   wget --user=itil --password=itil --no-check-certificate https://&lt;instance name&gt;.service-now.com/incident\_list.do?CSV
 -   wget --user=itil --password=itil --no-check-certificate https://&lt;instance name&gt;.service-now.com/incident\_list.do?XML
 
-**Parent Topic:**[SOAP strategies](../concept/c_SOAPStrategies.md)
+**Parent Topic:**[SOAP strategies](c_SOAPStrategies.md)
 

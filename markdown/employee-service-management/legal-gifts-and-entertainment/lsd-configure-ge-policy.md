@@ -29,10 +29,10 @@ Role required: sn\_lg\_gifts.gifts\_config
 
 3.  On the form, fill in the fields:
 
-    For description on the field values, see [Gift Policies form](../reference/lsd-ge-policy-form.md).
+    For description on the field values, see [Gift Policies form](lsd-ge-policy-form.md).
 
 4.  Click **Save**.
 
 
-**Parent Topic:**[Configure Gifts and Entertainment Compliance](../concept/lsd-ge-administration.md)
+**Parent Topic:**[Configure Gifts and Entertainment Compliance](lsd-ge-administration.md)
 

@@ -53,7 +53,7 @@ Description
 
 </td><td>
 
-Short description of the business process.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](../../../now-assist-ea/task/elaborate-or-shorten-content-form-fields.md).
+Short description of the business process.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](elaborate-or-shorten-content-form-fields.md).
 
 </td></tr></tbody>
 </table>|Field|Description|
@@ -128,9 +128,9 @@ Risk rating for the risk of impact to integrity. Impact to integrity has consequ
 **Related topics**  
 
 
-[Exploring business processes](../../concept/eaw-concept/eaw-business-processes.md)
+[Exploring business processes](eaw-business-processes.md)
 
-[Add or edit a business process](../../task/eaw-task/eaw-create-business-process.md)
+[Add or edit a business process](eaw-create-business-process.md)
 
-[View all business processes](../../task/eaw-task/eaw-view-all-business-processes.md)
+[View all business processes](eaw-view-all-business-processes.md)
 

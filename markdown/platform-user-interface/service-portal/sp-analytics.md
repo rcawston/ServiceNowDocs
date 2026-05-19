@@ -23,9 +23,9 @@ You can view user analytics tracking for the portal in the Usage Insights applic
 
 Usage Insights for Service Portal provides views for monitoring the key performance indicators \(KPIs\) of web applications built on Service Portal. You can use these insights to optimize your portal.
 
-For example, Usage Insights tracks when a user orders a catalog item or views a knowledge article. You can determine which items or articles are the most popular among users. For more information on user-triggered events that are tracked automatically, see [Service Portal events](../reference/sp-analytics-events.md).
+For example, Usage Insights tracks when a user orders a catalog item or views a knowledge article. You can determine which items or articles are the most popular among users. For more information on user-triggered events that are tracked automatically, see [Service Portal events](sp-analytics-events.md).
 
--   **Note:** Usage Insights tracking is enabled for all portals by default. Enable tracking for a portal only if you previously enabled tracking for some portals but not others. For more information, see [Track Usage Insights in Service Portal](../task/create-sp-analytics-settings.md).
+-   **Note:** Usage Insights tracking is enabled for all portals by default. Enable tracking for a portal only if you previously enabled tracking for some portals but not others. For more information, see [Track Usage Insights in Service Portal](create-sp-analytics-settings.md).
 
 -   **Note:** If you make certain key changes to portals, such as changing the sys\_id, data is not carried over and you see a different dashboard.
 
@@ -38,16 +38,16 @@ The portal\_analytics\_admin and portal\_analytics\_viewer roles are installed w
 
 User consent notices must conform to the ServiceNow Data Processing Addendum. Review your ServiceNow template user consent notices before they are presented to users. You can tailor the options for how these notices are presented to users, including the wording. For more information, see [Define texts for Notice and Explicit Opt-in messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-define-text-policies.md).
 
--   **[Track Usage Insights in Service Portal](../task/create-sp-analytics-settings.md)**  
+-   **[Track Usage Insights in Service Portal](create-sp-analytics-settings.md)**  
 Track Usage Insights for Service Portal to monitor key performance indicators with the Usage Insights application.
--   **[Activate the privacy notice for unauthenticated users](../task/activate-privacy-notice.md)**  
+-   **[Activate the privacy notice for unauthenticated users](activate-privacy-notice.md)**  
 If you enabled unauthenticated user tracking in your portal, you may be required by law to notify unauthenticated users that you are tracking their usage for analysis. You can display a legal notice by activating the Privacy Notice announcement.
--   **[Service Portal events](../reference/sp-analytics-events.md)**  
+-   **[Service Portal events](sp-analytics-events.md)**  
 View Service Portal events to get insight into how a portal is being used in your organization.
--   **[Usage Insights related properties for Service Portal](../reference/sp-analytics-properties.md)**  
+-   **[Usage Insights related properties for Service Portal](sp-analytics-properties.md)**  
 Use system properties to configure Usage Insights for Service Portal.
 
-**Parent Topic:**[Analytics and Reporting Solutions for Service Portal](../../../use/dashboards/application-content-packs/service-portal-user-experience-analytics-content-pack.md)
+**Parent Topic:**[Analytics and Reporting Solutions for Service Portal](service-portal-user-experience-analytics-content-pack.md)
 
 **Related topics**  
 

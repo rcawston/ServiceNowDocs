@@ -134,16 +134,16 @@ Refer to these design considerations when working with activity definitions:
 
 -   **Avoid calling triggered Workflow Studio flows in an activity's automation plan**
 
-    To prevent unintentionally running a flow outside of Playbooks, you can use only subflows or actions in activity automation plans. Alternatively, you can set the flow's trigger to only run if not already running. For more information, see [Workflow Studio flow trigger types](../../flow-designer/reference/flow-triggers.md).
+    To prevent unintentionally running a flow outside of Playbooks, you can use only subflows or actions in activity automation plans. Alternatively, you can set the flow's trigger to only run if not already running. For more information, see [Workflow Studio flow trigger types](flow-triggers.md).
 
 -   **Specify default input values in your activity definitions**
 
     Preconfiguring default input values for your activity definitions reduces the time and complexity needed for a playbook owner to create a playbook.
 
 
--   **[Create an activity definition](../task/create-activity-definition.md)**  
+-   **[Create an activity definition](create-activity-definition.md)**  
 Specify the action or subflow you want an activity to run. Configure the inputs you want playbook designers to set when adding the activity to a playbook. Select the experience you want end users to have when the activity runs.
--   **[Create an action as an activity automation plan](../task/create-automation-plan.md)**  
+-   **[Create an action as an activity automation plan](create-automation-plan.md)**  
 Create an example action to configure and run as an activity from Playbooks.
 -   **[UI Layouts](experience-types.md)**  
 A UI Layout describes what properties and components to use when an activity renders as a card in a Playbook Experience.
@@ -153,27 +153,27 @@ A UI Layout describes what properties and components to use when an activity ren
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](../task/add-configure-stage.md)
+[Add and configure a stage in a playbook](add-configure-stage.md)
 
-[Add and configure an activity in a playbook](../task/add-configure-activity.md)
+[Add and configure an activity in a playbook](add-configure-activity.md)
 
-[Use AI agent as an activity](../task/ai-agent-as-activity.md)
+[Use AI agent as an activity](ai-agent-as-activity.md)
 
 [Automation Assets](automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](start-with-delay-properties.md)
 
 [Optional activities](optional-activities.md#)
 
-[Decision activities](../task/create-a-decision-activity.md)
+[Decision activities](create-a-decision-activity.md)
 
-[Decision stages](../task/create-decision-stage.md)
+[Decision stages](create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](questionnaire-activity.md)
 
-[Parallel branches](../task/create-parallel-activity.md)
+[Parallel branches](create-parallel-activity.md)
 
-[Add dynamic inputs to an activity](../task/add-dynamic-inputs-to-activity.md)
+[Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](playbook-activity-state-mapping.md)
 

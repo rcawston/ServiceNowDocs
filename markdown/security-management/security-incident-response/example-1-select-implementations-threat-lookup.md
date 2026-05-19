@@ -31,7 +31,7 @@ You can perform **Run Threat Lookup** related integration capabilities action us
 -   **[Select implementations](implementation-selection.md)**  
 Select one or more implementations as applicable.
 
-**Parent Topic:**[Unified Experience examples](../concept/unified-expereince-example.md)
+**Parent Topic:**[Unified Experience examples](unified-expereince-example.md)
 
 **Related topics**  
 

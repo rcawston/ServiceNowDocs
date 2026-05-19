@@ -25,7 +25,7 @@ A system administrator with Enterprise Architecture \(formerly APM\) admin role 
 **Related topics**  
 
 
-[Configure certification policies](../../concept/eaw-concept/eaw-setup-cert-policies.md)
+[Configure certification policies](eaw-setup-cert-policies.md)
 
-[Add or edit a certification policy](../../task/eaw-task/eaw-manage-cert-schedules.md)
+[Add or edit a certification policy](eaw-manage-cert-schedules.md)
 

@@ -110,5 +110,5 @@ Color that appears as the text color.
 
 The risk color style is ready to use.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

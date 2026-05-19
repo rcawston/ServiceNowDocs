@@ -53,7 +53,7 @@ Assessment duration
 
 </td><td>
 
-Amount of time assessors have to complete their assigned questionnaires, starting from the time the assessment is generated. The assessment duration sets the **Due date** that appears on [assessment instances](../concept/c_AssessmentInstances.md). Changes made to the duration of an attestation in the GRC Control Test Definition form are updated dynamically in this field. The default duration is 14 days.
+Amount of time assessors have to complete their assigned questionnaires, starting from the time the assessment is generated. The assessment duration sets the **Due date** that appears on [assessment instances](c_AssessmentInstances.md). Changes made to the duration of an attestation in the GRC Control Test Definition form are updated dynamically in this field. The default duration is 14 days.
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Evaluation method
 
 [Attestations - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/c_Attestations.md).
 
--   **Survey**: For details, see [Survey definitions](../../survey-administration/concept/c_SurveyDefinitions.md).
+-   **Survey**: For details, see [Survey definitions](c_SurveyDefinitions.md).
 
 
 </td></tr><tr><td>
@@ -329,24 +329,24 @@ All assessable records associated with the type. This related list is hidden in 
     The page redirects to the list of assessable records created.
 
 
-**Parent Topic:**[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+**Parent Topic:**[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
-[Assessment scorecard averages](../reference/r_Averages.md)
+[Assessment scorecard averages](r_Averages.md)
 
 [Schedule an assessment](t_ScheduledAssessment.md)
 
-[Schedule types](../concept/c_ScheduleTypes.md)
+[Schedule types](c_ScheduleTypes.md)
 
 [Set an assessment generation schedule](t_SetAssesstGenerationSchedule.md)
 
-[On-demand assessments](../concept/c_OnDemandAssessments.md)
+[On-demand assessments](c_OnDemandAssessments.md)
 
 [Enforce a condition to delete an assessable record](t_EnforceACondition.md)
 
-[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 
 [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 

@@ -20,7 +20,7 @@ Generate the knowledge articles for resolved and closed cases within the CSM Con
 
 To generate a knowledge article for a case, the case must be in the **Resolved** and **Closed** state, and must not already have a knowledge article linked to it. Although the **Create Knowledge** button appears in other states, it won’t trigger the skill. In those cases, clicking the button just opens the KB article form for manual entry.
 
-Verify that [Configure knowledge generation](../../customer-service-management/task/configure-knowledge-generation-in-now-assist_0.md) is set up.
+Verify that [Configure knowledge generation](configure-knowledge-generation-in-now-assist_0.md) is set up.
 
 **Important:**
 
@@ -60,7 +60,7 @@ The Create Knowledge UI action is available to the customer service agents who h
 
     The **Create Knowledge** UI Action is only visible when a case doesn't have an existing knowledge article that is associated with it.
 
-    Alternative way to trigger the skill [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](../../customer-service-management/task/request-gen-ai-capabilities-csm-now-assist-panel.md).
+    Alternative way to trigger the skill [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](request-gen-ai-capabilities-csm-now-assist-panel.md).
 
 4.  In the Create article modal, select a knowledge base and an Article template, if displayed.
 
@@ -102,7 +102,7 @@ The Create Knowledge UI action is available to the customer service agents who h
     **Note:** Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) is also available for the published KB articles.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../../customer-service-management/concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 
 **Related topics**  
 

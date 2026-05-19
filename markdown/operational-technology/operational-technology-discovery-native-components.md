@@ -29,7 +29,7 @@ Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
 </td><td>
 
-[Configure the Discovery Console for OT](../task/configure-ot-console-steps.md)
+[Configure the Discovery Console for OT](configure-ot-console-steps.md)
 
 </td></tr><tr><td>
 
@@ -37,7 +37,7 @@ Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
 </td><td>
 
-[Configure the Discovery Sensor for OT](../task/configure-ot-discovery-sensor.md)
+[Configure the Discovery Sensor for OT](configure-ot-discovery-sensor.md)
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
 </td><td>
 
-[Configure the OT Discovery Collector](../task/configuring-the-collector.md)
+[Configure the OT Discovery Collector](configuring-the-collector.md)
 
 </td></tr><tr><td>
 

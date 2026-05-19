@@ -27,7 +27,7 @@ Role required: sn\_grc\_workspace.admin.
 
 3.  Open the record and on the form, select **here** to edit the record.
 
-    On the form, fill in the fields. For more information, see [Workspace page configuration form](../reference/workspace-page-configuration-form.md).
+    On the form, fill in the fields. For more information, see [Workspace page configuration form](workspace-page-configuration-form.md).
 
     ![Workspace page configuration](../image/workspace-page-configuration-form.png "Workspace page configuration form")
 
@@ -38,12 +38,12 @@ Role required: sn\_grc\_workspace.admin.
 
 Workspace is customized according to the configuration and looks similar in all the GRC applications.
 
--   **[Workspace page configuration form](../reference/workspace-page-configuration-form.md)**  
+-   **[Workspace page configuration form](workspace-page-configuration-form.md)**  
 Description of field values for the workspace configuration form.
 -   **[Revert record page templates to the pre-17.x version](revert-to-previous-record-page.md)**  
 If you’re an existing customer and have a customized record page, you can revert to that old page.
--   **[Record type icons configured for forms in GRC Common Workspace Elements](../reference/record-type-icons-rec-pg-mig.md)**  
+-   **[Record type icons configured for forms in GRC Common Workspace Elements](record-type-icons-rec-pg-mig.md)**  
 The table gives you a list of icons configured for the forms in the Audit Workspace and Compliance Workspace.
 
-**Parent Topic:**[Workspace page configuration](../concept/workspace-page-configuration.md)
+**Parent Topic:**[Workspace page configuration](workspace-page-configuration.md)
 

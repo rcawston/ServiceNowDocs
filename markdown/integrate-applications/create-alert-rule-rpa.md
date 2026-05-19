@@ -34,7 +34,7 @@ Alert rules are configurations that define conditions in which an alert or a not
 4.  Select **Save**.
 
 
-**Parent Topic:**[Alert rule and variable in RPA Hub](../concept/alert-rule-rpa-hub.md)
+**Parent Topic:**[Alert rule and variable in RPA Hub](alert-rule-rpa-hub.md)
 
 ## Alert rule form in RPA Hub
 

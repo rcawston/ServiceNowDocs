@@ -38,5 +38,5 @@ Role required: sn\_portfolio\_safe.safe\_portfolio\_user
         For more information on epic fields, see [Define an epic in SAFe](create-SAFeepic.md).
 
 
-**Parent Topic:**[SAFe Board—Portfolio level](../concept/portfolio-tabs.md)
+**Parent Topic:**[SAFe Board—Portfolio level](portfolio-tabs.md)
 

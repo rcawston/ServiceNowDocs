@@ -31,7 +31,7 @@ Role required: sn\_apw\_advanced.spw\_goal\_user
 
 4.  On the form, fill in the **Name**, **Strategic Plan**, **Owner**, and other required fields.
 
-    For a description of the field values, see [Strategic Priority form](../reference/strategic-priority-form-strategy.md).
+    For a description of the field values, see [Strategic Priority form](strategic-priority-form-strategy.md).
 
 5.  Select **Submit**.
 

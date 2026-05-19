@@ -22,9 +22,9 @@ The system has the concept of a reference currency based on the instance locale.
 **Related topics**  
 
 
-[Currency administration](../../currency/concept/currency.md)
+[Currency administration](../currency-administration/currency.md)
 
-[Price fields](../../currency/concept/price-fields.md)
+[Price fields](../currency-administration/price-fields.md)
 
-[Default currency values in scripts](../../currency/concept/currency-values-scripts.md)
+[Default currency values in scripts](../currency-administration/currency-values-scripts.md)
 

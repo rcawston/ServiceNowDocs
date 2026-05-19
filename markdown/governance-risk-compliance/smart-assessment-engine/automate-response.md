@@ -56,5 +56,5 @@ Under Additional options, the Set response as editable setting controls whether 
 
 **Note:** When Set response as editable is disabled, the Required toggle on the question is automatically turned off, since the system provides the response.
 
-When setting up the automated response, you can use if-then conditions to build the required criteria for the response. For more information, see [Configure an automatic response for a question](../task/configure-automatic-response-for-a-question.md).
+When setting up the automated response, you can use if-then conditions to build the required criteria for the response. For more information, see [Configure an automatic response for a question](configure-automatic-response-for-a-question.md).
 

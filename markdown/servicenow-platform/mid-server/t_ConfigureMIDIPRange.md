@@ -26,9 +26,9 @@ Role required: agent\_admin or admin
 </td></tr></tbody>
 </table>## About this task
 
-Applications, such as Discovery and Orchestration, can specify an IP range or the specific IP address of a target. When the application looks for a MID Server to use during auto-selection, it chooses a MID Server whose IP range includes the application's range or specific IP address. Applications also use other criteria, such as the MID Server's supported application or capability. See [MID Server selection](../concept/c_MIDServerSelector.md) for more information.
+Applications, such as Discovery and Orchestration, can specify an IP range or the specific IP address of a target. When the application looks for a MID Server to use during auto-selection, it chooses a MID Server whose IP range includes the application's range or specific IP address. Applications also use other criteria, such as the MID Server's supported application or capability. See [MID Server selection](c_MIDServerSelector.md) for more information.
 
-**Note:** This is a manual configuration procedure. To learn how the system can assign IP address ranges to selected MID Servers automatically, see [Using MID Server IP range auto-assignment](../concept/mid-servers-auto-assignment.md#).
+**Note:** This is a manual configuration procedure. To learn how the system can assign IP address ranges to selected MID Servers automatically, see [Using MID Server IP range auto-assignment](mid-servers-auto-assignment.md#).
 
 These applications use IP ranges as follows:
 
@@ -136,5 +136,5 @@ The MID Servers that can use this IP address range.
 
 Open the **ALL** IP range record and configure the MID Servers that you want to use with any set of IP addresses.
 
-**Parent Topic:**[MID Server selection](../concept/c_MIDServerSelector.md)
+**Parent Topic:**[MID Server selection](c_MIDServerSelector.md)
 

@@ -99,7 +99,7 @@ Skip contract risk process
 
 </td><td>
 
-Option to skip the contract risk process. When you select the check box, you bypass the `contract negotiation` state. The **Contract start date** and **Contract expiration date** fields are replaced with **Engagement start date** and **Engagement expiration date**. See [Contract Risk process](../concept/tprm-workflow-in-workspace.md#def_contract_risk_process).
+Option to skip the contract risk process. When you select the check box, you bypass the `contract negotiation` state. The **Contract start date** and **Contract expiration date** fields are replaced with **Engagement start date** and **Engagement expiration date**. See [Contract Risk process](tprm-workflow-in-workspace.md#def_contract_risk_process).
 
 **Note:** After the Third-party risk \(TPR\) manager approves the request, it won’t be sent to the contract negotiators, and the request is closed.
 
@@ -340,18 +340,18 @@ The **Compose section** on the **Details** tab enables you to permanently add te
 -   **[Request third-party risk due diligence request form](tprm-dd-form.md)**  
 The due diligence request form captures all the initial information that you need to start the due diligence process. Any employee within your organization can request due diligence. If you’re selecting an existing third party, a significant portion of the information is automatically filled in.
 
-**Parent Topic:**[Third-party Risk Management reference](../../grc-vendor-risk/concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 
 **Related topics**  
 
 
-[Requesting third-party risk due diligence](../../grc-vendor-risk/concept/tprm-requesting-tpr-due-diligence.md)
+[Requesting third-party risk due diligence](tprm-requesting-tpr-due-diligence.md)
 
-[Request due diligence for a third-party engagement](../task/tprm-ws-request-dd-for-engagement.md)
+[Request due diligence for a third-party engagement](tprm-ws-request-dd-for-engagement.md)
 
-[Offboarding an engagement without conducting due diligence](../concept/tprm-dd-request-offboard-no-dd.md)
+[Offboarding an engagement without conducting due diligence](tprm-dd-request-offboard-no-dd.md)
 
 [Request third-party risk due diligence request form](tprm-dd-form.md)
 
-[Create New Third-party engagement form](../../grc-vendor-risk/reference/tprm-create-engmt-form.md)
+[Create New Third-party engagement form](tprm-create-engmt-form.md)
 

@@ -46,10 +46,10 @@ Role required: sn\_privacy\_case.privacy\_case\_analyst
 
 After adding PI information objects, add key stakeholders to the privacy case. For more information, see [Add key stakeholders to a privacy case](add-keystakeholders-to-privacy-case.md).
 
-**Parent Topic:**[Using Privacy Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Privacy Case Management](using-pcm.md)
 
 **Related topics**  
 
 
-[Information objects in Privacy Management](../concept/information-object-in-privacy.md)
+[Information objects in Privacy Management](information-object-in-privacy.md)
 

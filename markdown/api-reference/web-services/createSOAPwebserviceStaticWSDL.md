@@ -15,14 +15,14 @@ breadcrumb: [Scripted Services, SOAP web service, Inbound, Web services, API imp
 
 Follow these examples to create a scripted SOAP web service using a static WSDL.
 
--   **[Create a scripted web service using a static WSDL](../task/t_CreateStaticWSDLScriptWebService.md)**  
+-   **[Create a scripted web service using a static WSDL](t_CreateStaticWSDLScriptWebService.md)**  
 To use a static WSDL, create a scripted web service.
--   **[Create a static WSDL](../task/t_CreateAStaticWSDL.md)**  
+-   **[Create a static WSDL](t_CreateAStaticWSDL.md)**  
 Create a static WSDL with the required format to override the standard WSDL for your scripted web service.
--   **[Create a static WSDL script include](../task/t_CreateAStatickWSDLScriptInclude.md)**  
+-   **[Create a static WSDL script include](t_CreateAStatickWSDLScriptInclude.md)**  
 Create a script include to define the majority of the code used to process static WSDL requests.
 -   **[Use the static WSDL](r_UsingAStaticWSDL.md)**  
 Load the static WSDL into a SOAP client to make requests to the SOAP web service.
 
-**Parent Topic:**[Scripted SOAP web services](../concept/c_ScriptedWebServices.md)
+**Parent Topic:**[Scripted SOAP web services](c_ScriptedWebServices.md)
 

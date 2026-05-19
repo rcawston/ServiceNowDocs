@@ -47,5 +47,5 @@ Role required: sn\_esg.admin
 
 The Oauth token is created successfully.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](../concept/integrate-esg-with-concur.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](integrate-esg-with-concur.md)
 

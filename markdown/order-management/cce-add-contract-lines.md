@@ -32,7 +32,7 @@ Role required:
 
 5.  Select **New**.
 
-    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](../concept/create-cont-ent-workflows-csm.md#section_qp4_rxv_tcc).
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](create-cont-ent-workflows-csm.md#section_qp4_rxv_tcc).
 
     -   If the selected target entity is a quote, a quote to create new customer contract line is created.
     -   If the selected target entity is an order, an order to create new customer contract line is created.
@@ -42,7 +42,7 @@ Role required:
 
 6.  In the Catalog tab, add products to the new quote or order that is created.
 
-    For more info, see [Add products to a quote](../../tmt-order-mgt/task/quote-management-catalog-tab.md).
+    For more info, see [Add products to a quote](quote-management-catalog-tab.md).
 
 7.  Select **Submit for approval**.
 

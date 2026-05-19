@@ -214,5 +214,5 @@ The MID Server name to process events from the event server. If not specified, a
 </table>14. Click **Submit**.
 
 
-**Parent Topic:**[Configure Event Management connectors](../reference/connectors-and-listeners.md)
+**Parent Topic:**[Configure Event Management connectors](connectors-and-listeners.md)
 

@@ -15,11 +15,11 @@ This walkthrough shows you how to encrypt a field in your instance using Field E
 
 ## Before you begin
 
-**Note:** This procedure only applies to Column Level Encryption Enterprise functionality. See [Activate Column Level Encryption Enterprise](../../now-platform-encryption/task/activate-platform-encryption-2.md) for more information on obtaining Column Level Encryption Enterprise.
+**Note:** This procedure only applies to Column Level Encryption Enterprise functionality. See [Activate Column Level Encryption Enterprise](activate-platform-encryption-2.md) for more information on obtaining Column Level Encryption Enterprise.
 
 Role required: admin or security\_admin
 
-**Note:** security\_admin is a privileged role, for details on using privileged roles, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md)
+**Note:** security\_admin is a privileged role, for details on using privileged roles, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md)
 
 ## About this task
 
@@ -37,7 +37,7 @@ Attachments can also be encrypted and only visible to users who are granted acce
 
 2.  Create a cryptographic module for column\_level\_encryption.
 
-    See [Create cryptographic module for Column Level Encryption](create-PE-cryptographic-module-2.md) [Create a cryptographic module](create-cryptographic-module.md) for more information.
+    See [Create cryptographic module for Column Level Encryption](create-PE-cryptographic-module-2.md) [Create a cryptographic module](platform-encryption/create-cryptographic-module.md) for more information.
 
 3.  Navigate to **System Security** &gt; **Encrypted Field Configurations**.
 
@@ -59,7 +59,7 @@ Attachments can also be encrypted and only visible to users who are granted acce
 
 6.  Click **Submit**.
 
-    Establish a Module Access Policy to assign access to the cryptographic module. See [Create a module access policy](create-module-access-policy.md) for additional information.
+    Establish a Module Access Policy to assign access to the cryptographic module. See [Create a module access policy](platform-encryption/create-module-access-policy.md) for additional information.
 
 7.  Navigate to **Key Management** &gt; **Module Access Policies** &gt; **** &gt; **Create New** &gt; **.**
 
@@ -99,5 +99,5 @@ Attachments can also be encrypted and only visible to users who are granted acce
 
 You have successfully used your symmetric key to control access to a specific field using Column Level Encryption Enterprise.
 
-**Parent Topic:**[Column Level Encryption Enterprise examples](../concept/kmf-walkthroughs-tutorials-2.md)
+**Parent Topic:**[Column Level Encryption Enterprise examples](kmf-walkthroughs-tutorials-2.md)
 

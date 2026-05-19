@@ -31,7 +31,7 @@ Role required: Impact admin
 
 6.  Edit the user role and access accordingly.
 
-    **Note:** Refer to [Roles installed with Impact](../reference/impact-roles.md) for details on which role to assign to the user for the appropriate access level in Impact.
+    **Note:** Refer to [Roles installed with Impact](impact-roles.md) for details on which role to assign to the user for the appropriate access level in Impact.
 
 7.  Select **Confirm**.
 

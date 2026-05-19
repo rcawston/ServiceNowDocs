@@ -263,5 +263,5 @@ An administrator can configure these properties by adding a property or modifyin
 |glide.db.max.aggregates|The maximum number of rows returned by aggregate functions.|100000|
 |glide.db.max\_view\_records|The maximum number of rows returned by a database view.|10001|
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](configuring-odbc.md)
 

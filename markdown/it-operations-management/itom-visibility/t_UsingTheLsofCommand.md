@@ -38,5 +38,5 @@ Role required: admin
 7.  Repeat this procedure for the AIX classification probe.
 
 
-**Parent Topic:**[Application Mapping for UNIX discovery](../concept/c_DiscoveryAppMapForUNIX.md)
+**Parent Topic:**[Application Mapping for UNIX discovery](c_DiscoveryAppMapForUNIX.md)
 

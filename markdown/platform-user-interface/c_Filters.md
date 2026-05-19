@@ -28,21 +28,21 @@ Create filters on a list using the condition builder.
 
 ## Related list conditions in List v3
 
-By default, all lists enables you to filter on the current table data, which includes dot-walking to fields in referenced tables. In v3 lists, another type of condition, Related Lists Conditions, is available in the condition builder. For more information, see [Add related list conditions](../../using-lists-v3/task/create-related-list-query.md).
+By default, all lists enables you to filter on the current table data, which includes dot-walking to fields in referenced tables. In v3 lists, another type of condition, Related Lists Conditions, is available in the condition builder. For more information, see [Add related list conditions](create-related-list-query.md).
 
 ## Pin a filter in List v2
 
 To make the condition builder appear every time you open the list, click the pin/unpin filter icon \(![Pin icon for Core UI](../image/Icon-Pin_UI15.png)\). This functionality is not supported in List v3.
 
--   **[Create a filter in List](../task/t_CreatingFilters.md)**  
+-   **[Create a filter in List](t_CreatingFilters.md)**  
 You can create a filter to restrict what records appear in a list by providing a set of conditions. When you run the filter, only records that meet the specified conditions are listed.
--   **[Add related list conditions](../../using-lists-v3/task/create-related-list-query.md)**  
+-   **[Add related list conditions](create-related-list-query.md)**  
 Related list conditions allow you to include a relationship with another table in the filter. Related list conditions are supported in both List v3 and the Report interface.
 -   **[OR conditions](c_UsingORConditions.md)**  
 The condition builder uses two different types of OR conditions: top-level and dependent.
--   **[Filter on multiple string values](../task/t_FilteringOnMultipleStringValues.md)**  
+-   **[Filter on multiple string values](t_FilteringOnMultipleStringValues.md)**  
 For a string field, you can create a filter that searches for multiple values by creating a comma-delimited list.
--   **[Dynamic operators](../reference/r_UsingTheDynamicOperator.md)**  
+-   **[Dynamic operators](r_UsingTheDynamicOperator.md)**  
 The dynamic operator, **is \(dynamic\)**, lists predefined dynamic filter options where the condition value is computed from a value in a reference field.
 
 **Parent Topic:**[Filters and breadcrumbs](c_UsingFiltersAndBreadcrumbs.md)
@@ -50,9 +50,9 @@ The dynamic operator, **is \(dynamic\)**, lists predefined dynamic filter option
 **Related topics**  
 
 
-[Dot-walking to data in related tables](../../navigation/concept/c_DotWalking.md)
+[Dot-walking to data in related tables](c_DotWalking.md)
 
 [Field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md)
 
-[Operators available for filters and queries](../../common-ui-elements/reference/r_OpAvailableFiltersQueries.md)
+[Operators available for filters and queries](r_OpAvailableFiltersQueries.md)
 

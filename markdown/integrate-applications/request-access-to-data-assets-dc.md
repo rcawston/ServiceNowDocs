@@ -48,5 +48,5 @@ Use the data catalog to discover and request access to data products and data in
 
 The data steward receives a notification about your access request and can review, approve, or deny the request. You receive an email notification when the request status changes.
 
-**Parent Topic:**[Finding and accessing data assets](../concept/find-access-data-assets-dc.md)
+**Parent Topic:**[Finding and accessing data assets](find-access-data-assets-dc.md)
 

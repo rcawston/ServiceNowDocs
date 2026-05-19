@@ -39,5 +39,5 @@ Use the following skill provided by the Now Assist for Health and Safety applica
     ![AI-generated summary for a Health and Safety incident.](../image/na-hs-incident-summarization.png "Health and Safety incident summarization example")
 
 
-For information on activating the Health and Safety incident summarization skill, see [Configuring Now Assist for Health and Safety](now-assist-hs-configuring.md). For information on how to use this skill on Health and Safety Workspace, see [Summarize a safety incident by using Now Assist for Health and Safety](../task/now-assist-hs-summarize-safety-incident.md).
+For information on activating the Health and Safety incident summarization skill, see [Configuring Now Assist for Health and Safety](now-assist-hs-configuring.md). For information on how to use this skill on Health and Safety Workspace, see [Summarize a safety incident by using Now Assist for Health and Safety](now-assist-hs-summarize-safety-incident.md).
 

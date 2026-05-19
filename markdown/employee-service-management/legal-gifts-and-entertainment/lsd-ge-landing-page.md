@@ -19,19 +19,19 @@ The ServiceNow® Gifts and Entertainment Compliance enables you to manage disclo
 
 <table id="table_rzz_55j_qcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the features and benefits of Gifts and Entertainment Compliance.](../concept/lsd-ge-overview.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the features and benefits of Gifts and Entertainment Compliance.](lsd-ge-overview.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../concept/lsd-ge-administration.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](lsd-ge-administration.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Predictive intelligence for Legal Service Delivery](../concept/lsd-ge-submitting-request.md)
+[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Predictive intelligence for Legal Service Delivery](lsd-ge-submitting-request.md)
 
 </td></tr><tr><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-management-console.svg)Manage gifts and entertainment disclosures](../concept/lsd-manage-ge-request.md)
+[Manage![](../../../reuse/icons/brand-icons/bus-management-console.svg)Manage gifts and entertainment disclosures](lsd-manage-ge-request.md)
 
 </td><td>
 

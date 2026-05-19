@@ -26,7 +26,7 @@ Role required:
 
 ## About this task
 
-For information on how to request a false positive for a set of test results, see [Request a false positive for a set of test results](../../vr-vulnerability-manager-workspace/task/vmws-tr-false-positive.md).
+For information on how to request a false positive for a set of test results, see [Request a false positive for a set of test results](vmws-tr-false-positive.md).
 
 ## Procedure
 
@@ -44,7 +44,7 @@ For information on how to request a false positive for a set of test results, se
 
 7.  Provide additional information about your request to the approver and select **Submit**.
 
-    **Note:** The Take Questionnaire modal appears only when the **Enable questionnaire to mark false positive** check box is selected in the Exception Management Configuration form. For more information, see [Configure Exception Management for Vulnerability Response](configure-exception-management-settings.md),[Configure Exception Management for Application Vulnerability Response](../../vulnerability-app-vuln-mgmt/task/configure-exception-management-application-vulnerability-response.md), [Configure Exception Management for Container Vulnerability Response](../../container-vulnerability-response/task/configure-exception-management-for-container-vulnerability-response.md), and [Configure Exception Management for Configuration Compliance](../../vulnerability-config-compliance/task/configure-exception-management-configuration-compliance.md).
+    **Note:** The Take Questionnaire modal appears only when the **Enable questionnaire to mark false positive** check box is selected in the Exception Management Configuration form. For more information, see [Configure Exception Management for Vulnerability Response](../vulnerability-response/configure-exception-management-settings.md),[Configure Exception Management for Application Vulnerability Response](../application-vulnerability-response/configure-exception-management-application-vulnerability-response.md), [Configure Exception Management for Container Vulnerability Response](../container-vulnerability-response/configure-exception-management-for-container-vulnerability-response.md), and [Configure Exception Management for Configuration Compliance](../configuration-compliance/configure-exception-management-configuration-compliance.md).
 
 
 ## Result
@@ -101,5 +101,5 @@ The state of the remediation task and its records reverts to previous state.
 **Related topics**  
 
 
-[False Positive overview](../concept/vr-false-positive.md)
+[False Positive overview](../vulnerability-response/vr-false-positive.md)
 

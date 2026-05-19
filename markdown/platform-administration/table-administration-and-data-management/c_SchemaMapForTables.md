@@ -28,7 +28,7 @@ The schema map can also be printed directly from a browser.
 
 By default, each type of relationship is displayed. However, you can view or hide each type as needed.
 
--   **[Generate a schema map](../task/t_GenerateASchemaMap.md)**  
+-   **[Generate a schema map](t_GenerateASchemaMap.md)**  
 Generate a schema map to view different parts of the database schema.
 -   **[Analyzing table relationships](c_ViewTheSchemaMap.md)**  
 The schema map shows the selected table in yellow, typically centered, and all tables related to that table, typically shown at the sides.

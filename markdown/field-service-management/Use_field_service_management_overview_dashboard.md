@@ -110,5 +110,5 @@ Bar![](../../reporting/image/icon-bar-report.png)
 Overview of work order tasks based on the different assignment groups.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and reporting for Field Service Management](../../../product/field-service-management/concept/analytics-reporting-fsm.md)
+</table>**Parent Topic:**[Analytics and reporting for Field Service Management](analytics-reporting-fsm.md)
 

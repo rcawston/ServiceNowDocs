@@ -38,5 +38,5 @@ Role required: External admin \(external\_app\_install\_admin\)
     **Note:** All the users must also accept the permissions, not accepting the permissions result in not being able to use the ServiceNow integrations with Microsoft Teams.
 
 
-**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](../concept/setup-notify-ms-teams-multi-tenant.md)
+**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](setup-notify-ms-teams-multi-tenant.md)
 

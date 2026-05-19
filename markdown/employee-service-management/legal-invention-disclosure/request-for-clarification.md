@@ -42,5 +42,5 @@ Role required: sn\_lg\_ops.legal\_fulfiller, sn\_lg\_ip.patent\_fulfiller
 -   The State is updated to Assigned.
 -   The Application status in Legal Counsel Center is updated to Clarification Required.
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](use-legal-invention-disclosure.md)
 

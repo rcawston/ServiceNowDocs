@@ -28,5 +28,5 @@ For example, the financial institution agencies perform various activities, from
 **Related topics**  
 
 
-[Access limitations for external location agents](../reference/access-limitations-for-ext-loc-agent.md)
+[Access limitations for external location agents](access-limitations-for-ext-loc-agent.md)
 

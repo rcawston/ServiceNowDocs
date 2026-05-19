@@ -30,5 +30,5 @@ Role required: personalize\_list or admin
 
 The Delegates related list displays at the bottom of the user profile form.
 
-**Parent Topic:**[Service Delegation](../concept/c_ServiceDelegation.md)
+**Parent Topic:**[Service Delegation](c_ServiceDelegation.md)
 

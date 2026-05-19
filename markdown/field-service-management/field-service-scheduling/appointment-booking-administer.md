@@ -51,11 +51,11 @@ The steps for configuring Appointment Booking are:
 
     Advanced Appointment Booking allows you to configure flexible schedules, holidays and appointment window durations for a territory.
 
-3.  \(Optional\) [Customize Appointment Booking email and SMS notifications](../reference/appointment-booking-notifications.md)
+3.  \(Optional\) [Customize Appointment Booking email and SMS notifications](appointment-booking-notifications.md)
 
     The system administrator can customize email and SMS notifications for appointment confirmation and cancellation notices and appointment reminders.
 
-4.  \(Optional\) [Extension points in Field Service Management](../reference/extension-points-field-service.md)
+4.  \(Optional\) [Extension points in Field Service Management](../extension-points-field-service.md)
 
     Use extension points to customize appointment booking configurations.
 
@@ -67,13 +67,13 @@ The steps for configuring Appointment Booking are:
 **Related topics**  
 
 
-[Appointment booking](appointment-booking.md)
+[Appointment booking](../appointment-booking.md)
 
-[Managing appointments](managing-appointments.md)
+[Managing appointments](../appointment-booking/managing-appointments.md)
 
-[Appointment booking components](../reference/appointment-booking-components.md)
+[Appointment booking components](../appointment-booking-components.md)
 
-[Learn about appointment availability settings](../reference/appt-booking-task-assignment.md)
+[Learn about appointment availability settings](../appt-booking-task-assignment.md)
 
-[Learn about task assignment](../reference/appt-booking-config-overview.md)
+[Learn about task assignment](../appt-booking-config-overview.md)
 

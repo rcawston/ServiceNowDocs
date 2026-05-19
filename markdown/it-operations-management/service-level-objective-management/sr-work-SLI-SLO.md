@@ -24,9 +24,9 @@ The dashboard displays information about all services in Service Reliability Man
 -   Navigate to **Services \(![Services icon](../../service-reliability/image/icon-sr-services.png)\)** &gt; **Service reliability**.
 -   Navigate to **Home \(![Home icon](../../service-reliability/image/icon-sr-homepage.png)\)** &gt; **Service reliability**
 
-For more details, see [Visualizations in the Service reliability dashboard](../../service-reliability/reference/sr-service-dashboard-visualizations.md).
+For more details, see [Visualizations in the Service reliability dashboard](sr-service-dashboard-visualizations.md).
 
-**Note:** You can also view SLO information for all services on the Services Overview tab. See [Working with SRM services](../../service-reliability/concept/sr-work-services.md) for more information.
+**Note:** You can also view SLO information for all services on the Services Overview tab. See [Working with SRM services](../service-reliability-management/sr-work-services.md) for more information.
 
 ## Notification destinations
 
@@ -36,9 +36,9 @@ To view and manage notification destinations in Service Operations Workspace, na
 
 Visit the following links to learn more about creating and working with notification destinations:
 
--   [Create a notification destination in SRM](../task/create-notification-destination.md)
--   [Create SLOs, SLIs, and error budget policies](../task/sr-create-slo-sli.md)
--   [Notifications for breached error budgets](../reference/srm-notifications-messages.md)
+-   [Create a notification destination in SRM](create-notification-destination.md)
+-   [Create SLOs, SLIs, and error budget policies](sr-create-slo-sli.md)
+-   [Notifications for breached error budgets](srm-notifications-messages.md)
 
 ## Reliability metrics tab
 
@@ -48,9 +48,9 @@ To view the Reliability metrics tab in Service Operations Workspace, navigate to
 
 See these links to learn more about what you can do in the Reliability metrics tab:
 
--   [Create SLOs, SLIs, and error budget policies](../task/sr-create-slo-sli.md)
--   [Edit a reliability metric](../task/sr-edit-sli-slo.md)
--   [View SRM reliability metrics](../../service-reliability/task/sr-view-slo.md)
+-   [Create SLOs, SLIs, and error budget policies](sr-create-slo-sli.md)
+-   [Edit a reliability metric](sr-edit-sli-slo.md)
+-   [View SRM reliability metrics](sr-view-slo.md)
 
 ## Service level objectives table
 

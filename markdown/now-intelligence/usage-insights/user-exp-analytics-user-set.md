@@ -82,5 +82,5 @@ Administrators can edit the text that is displayed in the modal window when a us
 -   **[Configure link to your privacy policy](uxa-config-link-privacy-policy.md)**  
 When Usage Insights is enabled, the ServiceNow Services Privacy Statement is linked by default. However, administrators can update the link to point to the organization privacy policy.
 
-**Parent Topic:**[User privacy, tracking, and user consent management in Usage Insights](../concept/user-exp-analytics-track-options.md)
+**Parent Topic:**[User privacy, tracking, and user consent management in Usage Insights](user-exp-analytics-track-options.md)
 

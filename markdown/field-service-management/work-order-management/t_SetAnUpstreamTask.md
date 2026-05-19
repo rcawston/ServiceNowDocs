@@ -17,7 +17,7 @@ If a work order contains multiple tasks, you can create dependencies between the
 
 ## Before you begin
 
-Role required: wm\_qualifier or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_qualifier or [qualifier combination role](../r_UserRoleInstallWFieldSrvMgmnt.md)
 
 Activate the Field Service Task Dependency \(com.snc.fsm\_task\_dependency\) plugin to optionally define advanced task dependencies among work order tasks from different or same work order.
 

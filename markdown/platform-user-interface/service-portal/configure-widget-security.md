@@ -102,5 +102,5 @@ The parameters passed with SPWidgetAccessControl should be the same as those pas
 </table>4.  Select **Update**.
 
 
-**Parent Topic:**[Managing portal access](../concept/portal-security.md)
+**Parent Topic:**[Managing portal access](portal-security.md)
 

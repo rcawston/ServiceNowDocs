@@ -37,7 +37,7 @@ When you drill down to CI details, how those details appear depends on system se
 
     For more information, see:
 
-    -   [Components installed with CMDB Workspace](../reference/installed-with-cmdb-workspace.md): **sn\_cmdb\_ws.explore\_ci.record.enabled** system property.
+    -   [Components installed with CMDB Workspace](installed-with-cmdb-workspace.md): **sn\_cmdb\_ws.explore\_ci.record.enabled** system property.
     -   [Manage CI details using CI Form in CMDB Workspace](ci-form-cmdb-workspace.md).
 -   **CI details pane**
 
@@ -66,7 +66,7 @@ When you drill down to CI details, how those details appear depends on system se
     -   Service Relationships: List of business applications, service offerings, and application services that the CI may be related to.
     On the CI details pane, you can:
 
-    -   Select **Open Dependency View** to open the [Dependency Views](../../business-service-management-map-ng/concept/c_BusinesssServiceManagementMaps.md) map and display a graphic infrastructure view of the specific CI record.
+    -   Select **Open Dependency View** to open the [Dependency Views](../dependency-views/c_BusinesssServiceManagementMaps.md) map and display a graphic infrastructure view of the specific CI record.
     -   Select **View CMDB 360 Data** to show CMDB 360 details at the CI attribute level for the specific CI record.
     -   Select **Save** to save any changes made to attributes for the CI record.
 
@@ -200,12 +200,12 @@ To learn more about configuring and using CMDB Workspace, see:
     -   [CMDB 360 view in CMDB Workspace](cmdb-workspace-cmdb360-view.md)
     -   [Insights view in CMDB Workspace](cmdb-workspace-insights-view.md)
     -   [Management view in CMDB Workspace](cmdb-workspace-mangmnt-view.md)
-    -   [SGC Central](../../sgc-central/reference/sgcc-landing.md) view in CMDB Workspace \(if installed\)
+    -   [SGC Central](../sgcc-landing.md) view in CMDB Workspace \(if installed\)
 -   [Configuring CMDB Workspace](configuring-cmdb-workspace.md)
--   [Resume a disabled Cloud vs Non-cloud resources scheduled job](../task/cmdb-workspace-resume-cloud-job.md)
--   [Edit a related table from CMDB performance insights](../task/insights-update-record-rltd-table.md)
--   [Edit a scheduled data import from CMDB performance insights](../task/insights-schedule-data-import.md)
--   [Components installed with CMDB Workspace](../reference/installed-with-cmdb-workspace.md)
+-   [Resume a disabled Cloud vs Non-cloud resources scheduled job](cmdb-workspace-resume-cloud-job.md)
+-   [Edit a related table from CMDB performance insights](insights-update-record-rltd-table.md)
+-   [Edit a scheduled data import from CMDB performance insights](insights-schedule-data-import.md)
+-   [Components installed with CMDB Workspace](installed-with-cmdb-workspace.md)
 
 -   **[Home view in CMDB Workspace](cmdb-workspace-home-view.md)**  
 Home view is the default view in CMDB Workspace. It shows important tasks that you should tend to, various counts for activities in CMDB such as new CIs, CMDB Health aggregations, and various charts. The Home view also provides several links with immediate access to key CMDB tools.

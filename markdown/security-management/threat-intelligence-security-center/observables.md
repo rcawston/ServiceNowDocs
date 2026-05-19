@@ -44,23 +44,23 @@ Following are the type of observables available in the application:
 -   Windows Registry Key
 -   X.509 Certificate
 
--   **[Define an Observable](../task/define-an-observable.md)**  
+-   **[Define an Observable](define-an-observable.md)**  
 Observables can be retrieved from scheduled feed ingestion or from the import assistant. However, you can create observables, as needed.
--   **[Observables source records](../task/tisc-observables-source-records.md)**  
+-   **[Observables source records](tisc-observables-source-records.md)**  
 The source records contribute to an aggregated record as displayed in the form view. These source records are auto created from feeds or manually created by the user.
--   **[Link Threat Intel Related Records](../task/link-threat-intel-releated-records.md)**  
+-   **[Link Threat Intel Related Records](link-threat-intel-releated-records.md)**  
 Link the records that are related to the corresponding threat intelligence objects.
--   **[Fetch Observables Data](../task/fetch-observables-data.md)**  
+-   **[Fetch Observables Data](fetch-observables-data.md)**  
 Fetch the observables related records data.
 -   **[View details in Visualizer](objects-visualizer.md)**  
 Using the Visualizer, you can view the relationships between objects, observables and indicators which provides context for you to further investigate. The Visualizer uses colors and icons to illustrate various information about the objects.
 -   **[Working with Internal Intelligence Records](working-with-ti-internal-intelligence-records.md)**  
 Use this feature to work with the internal intelligence data that is collected from Configuration Database Management System \(CMDB\) into Threat Intelligence Security Center.
--   **[Run Enrichment Actions from Observable](../task/run-enrichment-actions-from-observable.md)**  
+-   **[Run Enrichment Actions from Observable](run-enrichment-actions-from-observable.md)**  
 Use this section to understand how enrichments actions are performed on observables and other objects.
--   **[Add to Case](../task/add-to-case.md)**  
+-   **[Add to Case](add-to-case.md)**  
 Add observables, indicators, or other objects to the case.
--   **[Run Enrichment operations in TISC](../task/tisc-unified-experience-capabilities-and-modal-screens.md)**  
+-   **[Run Enrichment operations in TISC](tisc-unified-experience-capabilities-and-modal-screens.md)**  
 The following table below describes the interactions involved in running different enrichment operations from TISC.
 -   **[View Enrichment Results](../task/vtisc-iew-enrichment-results.md)**  
 View observables, indicators, and various objects enrichment results.
@@ -78,7 +78,7 @@ View observables, indicators, and various objects enrichment results.
 
 [Vulnerability Artifacts](vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](define-rss-feeds.md)
 
 [Working with Reports in TISC](tisc-reports-lib-view.md)
 

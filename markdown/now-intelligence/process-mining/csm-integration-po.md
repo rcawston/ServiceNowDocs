@@ -15,7 +15,7 @@ breadcrumb: [Activate content packs, Activate, Process Mining, Platform Analytic
 
 Using the Process Mining content pack for Customer Service Management enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
 
-For more information about enabling the Process Mining Content Pack for CSM, see [Activate content packs](../task/activate-po-content-pack.md).
+For more information about enabling the Process Mining Content Pack for CSM, see [Activate content packs](activate-po-content-pack.md).
 
 ## End user and roles
 
@@ -31,7 +31,7 @@ The following combinations of roles are required for using the Process Mining ap
 
 ## Optimization project for customer service cases
 
-The Process Mining Content Pack for CSM \(sn\_csm\_po\) adds a prebuilt project that includes a predefined **Customer Service Cases** project definition for customer service cases. By default, the **Customer Service Cases** project filters customer service cases for the last two quarters. You can also configure a new process project based on the prebuilt project. For more information, see [Create a project or template using Project Builder](../task/define-workflow-model.md).
+The Process Mining Content Pack for CSM \(sn\_csm\_po\) adds a prebuilt project that includes a predefined **Customer Service Cases** project definition for customer service cases. By default, the **Customer Service Cases** project filters customer service cases for the last two quarters. You can also configure a new process project based on the prebuilt project. For more information, see [Create a project or template using Project Builder](define-workflow-model.md).
 
 The **Customer Service Cases** project includes default activity definitions and breakdown definitions for customer service cases that you can use as they’re or modify them for a custom configuration.
 
@@ -48,9 +48,9 @@ If the Continual Improvement Management \(CIM\) application is enabled, you can 
 
 ## Performance Analytics for customer service cases
 
-If the Performance Analytics application is enabled, you can also use the available template configurations to open the Process Mining application from a Performance Analytics \(PA\) [indicator](../../../use/performance-analytics/concept/performance-analytics-glossary.md#) based on the customer service case data. For more information, see [Integration with Performance Analytics](integrate-pa.md#).
+If the Performance Analytics application is enabled, you can also use the available template configurations to open the Process Mining application from a Performance Analytics \(PA\) [indicator](../performance-analytics/performance-analytics-glossary.md#) based on the customer service case data. For more information, see [Integration with Performance Analytics](integrate-pa.md#).
 
-**Parent Topic:**[Activate content packs](../task/activate-po-content-pack.md)
+**Parent Topic:**[Activate content packs](activate-po-content-pack.md)
 
 **Related topics**  
 

@@ -50,7 +50,7 @@ Visitor
 
 Email id of the visitor involved.This field appears only when **Visitor** is selected from **Person type**.
 
-**Note:** This field only lists visitors who have Health and Safety profile assigned to them. For more information, see [Add a Health and Safety visitor](../task/hs-add-health-safety-visitor.md).
+**Note:** This field only lists visitors who have Health and Safety profile assigned to them. For more information, see [Add a Health and Safety visitor](../health-and-safety-core/hs-add-health-safety-visitor.md).
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Contractor
 
 Name of the contract worker involved.This field appears only when **Contractor** is selected from **Person type**.
 
-**Note:** This field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](../task/assign-hs-profile-user.md).
+**Note:** This field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](../health-and-safety-core/assign-hs-profile-user.md).
 
 </td></tr><tr><td>
 
@@ -113,5 +113,5 @@ Preferred contact method
 Method to contact the involved person such as email or phone number.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Incident Management reference](../concept/hs-incident-mgmt-reference.md)
+</table>**Parent Topic:**[Health and Safety Incident Management reference](hs-incident-mgmt-reference.md)
 

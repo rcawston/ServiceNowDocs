@@ -21,7 +21,7 @@ Download the required Security Exposure Management Workspace applications from t
     -   A plugin is a set of customizations that extends the functionality of the ServiceNow AI Platform® and any apps already installed on your instance. Some plugins are pre-activated in your instance, while others might need to be activated manually by you or by ServiceNow® personnel.
 -   Some applications have dependencies that you must download and install separately.
 
-For more information about downloading and activating applications see [Download an application from the ServiceNow Store for the first time](../../security-incident-response/reference/download-app-first-time.md).
+For more information about downloading and activating applications see [Download an application from the ServiceNow Store for the first time](download-app-first-time.md).
 
 **Note:** If you're downloading applications to sub-production or development instances, it's not necessary to get entitlements.
 
@@ -59,6 +59,6 @@ Role required: admin for download, installation, and activation of all applicati
     |Configuration Compliance|com.snc.vulc|Exposes configuration-related security vulnerabilities.|
     |Vulnerability Response and Configuration Compliance for Containers|sn\_vul\_container|Imports vulnerability scan data from leading container security vendors.|
 
-    [Security Exposure Management Workspace Roles](../reference/sem-new-roles-installed.md)
+    [Security Exposure Management Workspace Roles](sem-new-roles-installed.md)
 
 

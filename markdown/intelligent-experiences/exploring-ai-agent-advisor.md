@@ -112,7 +112,7 @@ Matches identified automation opportunities to existing AI agents on the platfor
 
 </td><td>
 
-[AI agent matching and automated deployment](../task/activate-automation-opportunity-now-assist-center.md)
+[AI agent matching and automated deployment](activate-automation-opportunity-now-assist-center.md)
 
 </td><td>
 

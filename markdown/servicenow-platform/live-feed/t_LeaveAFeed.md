@@ -27,8 +27,8 @@ Role required: none
 
 3.  Click **Leave**.
 
-    **Note:** If you leave a [feed](../concept/c_RecordFeeds.md) associated with a record, such as an incident, you automatically rejoin that feed if you modify the associated record again.
+    **Note:** If you leave a [feed](c_RecordFeeds.md) associated with a record, such as an incident, you automatically rejoin that feed if you modify the associated record again.
 
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
 

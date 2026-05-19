@@ -27,7 +27,7 @@ Role required: admin
 
 3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
-    For a description of the field names, see [Scheduled Script Execution form to generate labor costs for planning items](../../alignment-planner-workspace/reference/gen-labor-costs-scheduled-script-execution-form-spw.md).
+    For a description of the field names, see [Scheduled Script Execution form to generate labor costs for planning items](gen-labor-costs-scheduled-script-execution-form-spw.md).
 
     **Note:** You can generate the labor costs for inactive planning items. Remove `true` in the following code line.
 

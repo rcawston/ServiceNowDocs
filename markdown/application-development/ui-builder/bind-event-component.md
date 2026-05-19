@@ -33,7 +33,7 @@ To add actions to components, pages, and data resources on your page, you can ad
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Create or open a page.
 
@@ -45,7 +45,7 @@ To add actions to components, pages, and data resources on your page, you can ad
 
 5.  To add an event handler to your component, select the **Events** tab.
 
-    For more information on how to add event handlers to your component, see [Manage actions in UI Builder pages](../concept/work-events.md).
+    For more information on how to add event handlers to your component, see [Manage actions in UI Builder pages](work-events.md).
 
     1.  To start the process of setting up an event handler for your component, click **Add event mapping**.
 
@@ -122,5 +122,5 @@ To add actions to components, pages, and data resources on your page, you can ad
 10. To trigger the modal that you created, click the button on the page.
 
 
-**Parent Topic:**[Bind events to add actions](../concept/bind-events.md)
+**Parent Topic:**[Bind events to add actions](bind-events.md)
 

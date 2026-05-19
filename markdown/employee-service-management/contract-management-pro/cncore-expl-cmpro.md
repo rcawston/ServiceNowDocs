@@ -79,10 +79,10 @@ A workflow for non-self-served contract request might progress as follows:
 |[Clause Management](cncore-expl-clause-mgmt.md)|Effectively manage a library of clause variations. Use clause variations to dynamically place content in a contract depending on the specified conditions.|Contract configurator|
 |[Microsoft Word add-in for ServiceNow Contracts](cncore-expl-snc-addin.md)|Use Microsoft Word documents to add content controls that act as placeholders for the content. Word templates are easier to review, mark up, and modify.|Contract configurator|
 |[Contract and amendment requests](cncore-expl-ss-nss-contracts.md)|Initiate self-served or non-self-served contract requests.|Contract user|
-|[Contract amendments](../task/cmpro-amend-landing.md)|Initiate and manage amendment requests.|Contract user, Contract fulfiller|
+|[Contract amendments](cmpro-amend-landing.md)|Initiate and manage amendment requests.|Contract user, Contract fulfiller|
 |[Obligation Management](cncore-obligation-management.md)|Track and manage contract obligations to help ensure compliance and minimize risks.|Obligation fulfiller or Obligation user|
 |[Configuring external applications for Contract Management Pro](cncore-set-ext-app-config.md)|Integration with external storage and electronic signature providers.|Contract configurator|
-|[Contracts Dashboard](../../../use/dashboards/application-content-packs/cncore-contracts-dashboard.md)|Get an insight on the volume of contract requests that are handled by your team.|Contract fulfiller|
+|[Contracts Dashboard](cncore-contracts-dashboard.md)|Get an insight on the volume of contract requests that are handled by your team.|Contract fulfiller|
 |[Contract Workspace](cncore-contract-workspace.md)|Work with actionable widgets to categorize, prioritize, and efficiently work on contract requests.|Contract user or Contract fulfiller|
 |[Now Assist in Contract Management](cncore-now-assit-landing.md)|Use Now Assist in Contract Management to analyze contracts for non-standard and missing clauses, and to extract information from signed contracts to add in the contract repository.|Now Assist contract fulfiller|
 

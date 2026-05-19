@@ -18,7 +18,7 @@ Download a software Bill of Materials \(SBOM\) to gain visibility to the compone
 
 ## Before you begin
 
-The SBOM must have been configured. For more information, see [Configure the SBOM generation](../task/enable-sbom.md).
+The SBOM must have been configured. For more information, see [Configure the SBOM generation](enable-sbom.md).
 
 Role required: discovery\_admin
 
@@ -33,5 +33,5 @@ Role required: discovery\_admin
 3.  Download the SBOM by selecting **download** in the **Manage attachments** section.
 
 
-**Parent Topic:**[Container image scanning for software decomposition](../concept/container-image-concept.md)
+**Parent Topic:**[Container image scanning for software decomposition](container-image-concept.md)
 

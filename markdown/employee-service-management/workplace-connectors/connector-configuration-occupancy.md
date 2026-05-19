@@ -77,9 +77,9 @@ Option to indicate the time \(in minutes\) beyond which occupancy data is consid
 </table>4.  Select **Submit** to save the connector configuration.
 
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](setup-occupancy-connectors.md)
 
-**Previous topic:**[Integrate Metrikus spoke](../concept/integrate-metrikus-flowdesigner.md)
+**Previous topic:**[Integrate Metrikus spoke](integrate-metrikus-flowdesigner.md)
 
 **Next topic:**[Provider Connector Configuration](provider-connector-config-occupancy.md)
 

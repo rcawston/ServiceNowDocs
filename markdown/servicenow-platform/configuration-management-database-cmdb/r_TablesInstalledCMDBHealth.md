@@ -39,7 +39,7 @@ Maximum number of service CIs that can appear in the CMDB service dashboard. Thi
 -   Default: 10,000
 -   Range: 0-100,000
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   Learn more: [View CMDB Health Dashboard](../concept/c_MonitorCMDBHealth.md)
+-   Learn more: [View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Maximum number of application services \(any class extending the Service \[cmdb\
 -   Default: 1,000
 -   Range: 1-10,000 \(If set lower than 1, defaults to 1\)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   Learn more: [View CMDB Health Dashboard](../concept/c_MonitorCMDBHealth.md)
+-   Learn more: [View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Maximum number of CIs associated with application services \(any class extending
 -   Default: 1,000
 -   Range: 1-10,000 \(If set lower than 1, defaults to 1\)
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   Learn more: [View CMDB Health Dashboard](../concept/c_MonitorCMDBHealth.md)
+-   Learn more: [View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
 
 </td></tr></tbody>
 </table>## Scheduled jobs installed

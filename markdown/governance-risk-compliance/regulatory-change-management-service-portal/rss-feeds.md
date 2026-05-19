@@ -45,9 +45,9 @@ A financial institution might subscribe to RSS feeds from regulatory bodies like
 Establishing a robust connection to obtain your feeds requires you to perform the following actions:
 
 1.  [Establishing the connection and credential aliases with the RSS feed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-connections-alias.md).
-2.  [Activating the RSS feed workflow](../task/activate-the-rss-feed-workflow.md).
-3.  [Setting up feed sources](../task/set-up-rss-feed-sources.md).
-4.  [Configuring the provider taxonomy](../task/create-providers.md).
+2.  [Activating the RSS feed workflow](activate-the-rss-feed-workflow.md).
+3.  [Setting up feed sources](set-up-rss-feed-sources.md).
+4.  [Configuring the provider taxonomy](create-providers.md).
 5.  [Managing feed request responses](managing-feed-request-response.md)
 
 **Note:** If you encounter issues while trying to obtain your RSS feeds, refer to [General guidelines for RSS feeds](general-guidelines-rss-feeds.md).

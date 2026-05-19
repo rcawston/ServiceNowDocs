@@ -25,15 +25,15 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_ev3_ndm_v4b" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Proactive Triggers concepts and process flows.](../concept/proactive-triggers.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Proactive Triggers concepts and process flows.](proactive-triggers.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Activate the Proactive Triggers feature.](../task/installing-proactive-triggers.md)
+[Install![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Activate the Proactive Triggers feature.](installing-proactive-triggers.md)
 
 </td></tr><tr><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Manage and set up rules and actions for Proactive Triggers to determine when the triggered messages display to end users on the ServiceNow® portal.](../task/configuring-proactive-triggers.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Manage and set up rules and actions for Proactive Triggers to determine when the triggered messages display to end users on the ServiceNow® portal.](configuring-proactive-triggers.md)
 
 </td><td>
 

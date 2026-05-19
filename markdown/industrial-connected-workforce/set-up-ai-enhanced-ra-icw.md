@@ -15,7 +15,7 @@ Set up AI Enhanced recommended actions for ICW so that you can contextualize ext
 
 ## Before you begin
 
-You must have Recommended Actions for ICW installed and configured. For more information, see [Recommended Actions for the Industrial Connected Workforce](../../icw-industrial-connected-workforce/concept/recommended-actions-icw.md).
+You must have Recommended Actions for ICW installed and configured. For more information, see [Recommended Actions for the Industrial Connected Workforce](digital-factory-workspace/recommended-actions-icw.md).
 
 Role required: admin
 
@@ -54,5 +54,5 @@ Role required: admin
 
 After you set up AI Enhanced recommended actions for ICW, you can use the feature in the Digital Factory Workspace. For more information see, [Contextualize an external document for a Deviation in the Digital Factory Workspace](use-ai-enhanced-ra-icw.md).
 
-**Parent Topic:**[Configure AI Enhanced recommended actions for Industrial Connected Workforce](../concept/configure-ai-enhanced-ra-icw.md)
+**Parent Topic:**[Configure AI Enhanced recommended actions for Industrial Connected Workforce](configure-ai-enhanced-ra-icw.md)
 

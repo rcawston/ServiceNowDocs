@@ -17,7 +17,7 @@ Reference topics provide additional information about Customer Success Managemen
 
 This section covers information about the data model, installed components, and domain separation information.
 
--   **[Domain separation and Customer Success Management](../concept/account-lifecycle-domain-separation.md)**  
+-   **[Domain separation and Customer Success Management](account-lifecycle-domain-separation.md)**  
 Domain separation is supported for Customer Success Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Customer success management roles](account-lifecycle-success-roles.md)**  
 Roles added with Customer Success Management.

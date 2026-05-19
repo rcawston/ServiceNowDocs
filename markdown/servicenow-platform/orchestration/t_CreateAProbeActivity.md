@@ -29,7 +29,7 @@ For instructions on using the activity template process flow, see [create custom
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the Probe Execution Command.
+2.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the Probe Execution Command.
 
 <table id="choicetable_bf3_bpv_vz"><tbody><tr><td id="d387410e117">
 
@@ -80,7 +80,7 @@ Name-value pairs to pass to the host with this probe. You can create these param
 -   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules
 -   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 ## Probe template execution parameters
 

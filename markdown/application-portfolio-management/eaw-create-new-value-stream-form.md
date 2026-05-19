@@ -23,7 +23,7 @@ Create a new value stream to visualize the flow of a process from start to finis
 **Related topics**  
 
 
-[Exploring value streams](../../concept/eaw-concept/eaw-value-streams.md)
+[Exploring value streams](eaw-value-streams.md)
 
-[Add or edit a value stream](../../task/eaw-task/eaw-add-or-edit-a-value-stream.md)
+[Add or edit a value stream](eaw-add-or-edit-a-value-stream.md)
 

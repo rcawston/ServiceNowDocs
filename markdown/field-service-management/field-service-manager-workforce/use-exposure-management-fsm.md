@@ -15,8 +15,8 @@ breadcrumb: [Agent availability and calendars, Managing workforce, Use, Field Se
 
 Monitor the spread of infectious diseases by using Emergency Exposure Management to identify affected agents. You can also find agents and customers who might have been potentially exposed. You can view the compliance reports of agents and tasks.
 
--   **[View an Emergency Exposure Management diagnostic report for an affected agent](../task/view-diagnostic-report.md)**  
+-   **[View an Emergency Exposure Management diagnostic report for an affected agent](view-diagnostic-report.md)**  
 View the diagnostic report to identify affected agents and potentially affected customers and agents.
--   **[Block the calendar of a field agent based on an Emergency Exposure Management diagnostic report](../task/block-agent-calendar.md)**  
+-   **[Block the calendar of a field agent based on an Emergency Exposure Management diagnostic report](block-agent-calendar.md)**  
 Block the calendar of affected and potentially affected agents based on an Emergency Exposure Management diagnostic report.
 

@@ -19,18 +19,18 @@ The Shift Handover records section on the Security Incident Response Workspace d
 
 ![Shift Handover Records section on the Overview page](../image/shift-handover-section.png "Shift Handover Records section")
 
-**Parent Topic:**[Exploring SIR Workspace](../reference/exploring-security-incident-response-workspace.md)
+**Parent Topic:**[Exploring SIR Workspace](exploring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[SIR Workspace plugins](../reference/components-installed-with-analyst-workspace.md)
+[SIR Workspace plugins](components-installed-with-analyst-workspace.md)
 
-[SIR Workspace features](../reference/key-features.md)
+[SIR Workspace features](key-features.md)
 
-[SIR Workspace interface overview](../reference/overview.md)
+[SIR Workspace interface overview](overview.md)
 
-[Upcoming section](../task/upcoming-section.md)
+[Upcoming section](upcoming-section.md)
 
 [Quick links section](quick-links.md)
 

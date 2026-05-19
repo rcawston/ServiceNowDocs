@@ -23,7 +23,7 @@ Role required: sn\_mcp\_server.tools\_admin, sn\_mcp\_server.admin, or admin
 
 Each server must include at least one tool.
 
--   Tools define which functionality and data a server exposes to clients and the actions that can be performed on an instance by clients. Tools are based on capabilities, such as Knowledge Graph, Subflows and Action, REST APIsand Now Assist skills, including custom skills created with Now Assist Skill Kit. For a list of Now Assist skills that can be used as tools, see [Now Assist skill support in MCP Server Console](../reference/now-assist-skill-support-mcp.md).
+-   Tools define which functionality and data a server exposes to clients and the actions that can be performed on an instance by clients. Tools are based on capabilities, such as Knowledge Graph, Subflows and Action, REST APIsand Now Assist skills, including custom skills created with Now Assist Skill Kit. For a list of Now Assist skills that can be used as tools, see [Now Assist skill support in MCP Server Console](now-assist-skill-support-mcp.md).
 -   Tools include inputs that correspond to the fields of the existing capability. Inputs that are enabled for a tool are exposed to clients.
 
 **Note:** The minimum version required is: Zurich patch 9 and Australia patch 2.
@@ -111,12 +111,12 @@ One or more servers you want to add your tool to.
 
 ## What to do next
 
-Configure clients to connect to the server and use the tool. For more information, see [Connecting to an MCP server from an MCP client](../concept/connect-mcp-server-client.md#).
+Configure clients to connect to the server and use the tool. For more information, see [Connecting to an MCP server from an MCP client](connect-mcp-server-client.md#).
 
 **Related topics**  
 
 
-[Now Assist skills](../../now-assist-skills/concept/now-assist-skills.md)
+[Now Assist skills](now-assist-skills/now-assist-skills.md)
 
-[Now Assist Skill Kit](../../now-assist-skill-kit/concept/now-assist-skill-kit-landing.md)
+[Now Assist Skill Kit](now-assist-skill-kit/now-assist-skill-kit-landing.md)
 

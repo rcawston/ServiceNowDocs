@@ -17,11 +17,11 @@ Creates a Table object to add to a PDF document. Defines the data to use in each
 
 This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.apppdfgenerator\) and is provided within the `sn_pdfgeneratorutils` namespace. The plugin is activated by default.
 
-This API is a component used with the [Document API](../../DocumentBoth/concept/DocumentBothAPI.md#) to generate a PDF.
+This API is a component used with the [Document API](DocumentBothAPI.md#) to generate a PDF.
 
 Build a Table object using the methods in this class. You can use these additional classes to add cells, paragraphs, and styles to your table:
 
--   **[Cell API](../../CellBoth/concept/CellBothAPI.md#)**
+-   **[Cell API](CellBothAPI.md#)**
 
     Create a cell using the Cell API. Then, add the cell to your table using one of these methods:
 
@@ -31,11 +31,11 @@ Build a Table object using the methods in this class. You can use these addition
     -   Table.addImageCell\(\)
     -   Table.addParagraphCell\(\)
     -   Table.addTextCell\(\)
--   **[Paragraph API](../../ParagraphBoth/concept/ParagraphBothAPI.md#)**
+-   **[Paragraph API](ParagraphBothAPI.md#)**
 
     Create a paragraph using the Paragraph API. Add the paragraph to a cell in the table using Cell.addParagraph\(\).
 
--   **[Style API](../../StyleBoth/concept/StyleBothAPI.md#)**
+-   **[Style API](StyleBothAPI.md#)**
 
     Set styles, colors, and borders using the Style API. Add the styles to the table using one of these methods:
 
@@ -44,12 +44,12 @@ Build a Table object using the methods in this class. You can use these addition
 
 You can then apply the Table object to a PDF document using the following class and method.
 
--   **[Document API](../../DocumentBoth/concept/DocumentBothAPI.md#)**
+-   **[Document API](DocumentBothAPI.md#)**
 
     Use the Document.addTable\(\) method to add your table to a PDF document. You can use the Document.saveAsAttachment\(\) method to attach the document to a record.
 
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Table - Table\(Boolean ltr, Array columnWidths, Boolean largeTable\)
 
@@ -126,7 +126,7 @@ Adds a cell element to the table.
 
 |Name|Type|Description|
 |----|----|-----------|
-|cell|[Cell](../../CellBoth/concept/CellBothAPI.md#)|Cell element to add to the table.|
+|cell|[Cell](CellBothAPI.md#)|Cell element to add to the table.|
 
 |Type|Description|
 |----|-----------|
@@ -204,8 +204,8 @@ Adds a cell element with an applied style to the table.
 
 |Name|Type|Description|
 |----|----|-----------|
-|cell|[Cell](../../CellBoth/concept/CellBothAPI.md#)|Cell object to add to the table.|
-|style|[Style](../../StyleBoth/concept/StyleBothAPI.md#)|Style to apply to the cell.|
+|cell|[Cell](CellBothAPI.md#)|Cell object to add to the table.|
+|style|[Style](StyleBothAPI.md#)|Style to apply to the cell.|
 
 |Type|Description|
 |----|-----------|
@@ -281,13 +281,13 @@ Adds a header Cell object to the table.
 
 |Name|Type|Description|
 |----|----|-----------|
-|cell|[Cell](../../CellBoth/concept/CellBothAPI.md#)|Header cell to add to the table.|
+|cell|[Cell](CellBothAPI.md#)|Header cell to add to the table.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-This example shows how to add a header cell to a table that contains a Paragraph object. For more information on Paragraph objects, see the [Paragraph API](../../ParagraphBoth/concept/ParagraphBothAPI.md#).
+This example shows how to add a header cell to a table that contains a Paragraph object. For more information on Paragraph objects, see the [Paragraph API](ParagraphBothAPI.md#).
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("A4");
@@ -359,7 +359,7 @@ Adds a cell that contains an image to the table.
 
 |Name|Type|Description|
 |----|----|-----------|
-|image|[Image](../../ImageBoth/concept/ImageBothAPI.md#)|Image object to add to the cell.|
+|image|[Image](ImageBothAPI.md#)|Image object to add to the cell.|
 
 |Type|Description|
 |----|-----------|
@@ -390,7 +390,7 @@ Adds a cell that contains a paragraph to the table.
 
 |Name|Type|Description|
 |----|----|-----------|
-|p|[Paragraph](../../ParagraphBoth/concept/ParagraphBothAPI.md#)|Paragraph object to add to the cell.|
+|p|[Paragraph](ParagraphBothAPI.md#)|Paragraph object to add to the cell.|
 
 |Type|Description|
 |----|-----------|
@@ -827,7 +827,7 @@ Sets the table's default background color.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Color object used as the default background color for the table.|
+|color|[Color](ColorBothAPI.md#)|Color object used as the default background color for the table.|
 
 |Type|Description|
 |----|-----------|
@@ -967,7 +967,7 @@ Sets the Style object to apply to the table's header.
 
 |Name|Type|Description|
 |----|----|-----------|
-|headerStyle|[Style](../../StyleBoth/concept/StyleBothAPI.md#)|Style object to apply to the table's header.|
+|headerStyle|[Style](StyleBothAPI.md#)|Style object to apply to the table's header.|
 
 |Type|Description|
 |----|-----------|

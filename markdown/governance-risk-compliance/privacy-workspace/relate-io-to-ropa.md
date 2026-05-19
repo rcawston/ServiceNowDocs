@@ -28,7 +28,7 @@ You can relate information objects to an assessment question only if the questio
 -   Numeric Scale
 -   Ranking
 
-To understand more about information objects and their uses, see [Information objects](../../grc-risk/reference/information-objects.md).
+To understand more about information objects and their uses, see [Information objects](../grc-risk-management-workspace/information-objects.md).
 
 ## Procedure
 

@@ -50,20 +50,20 @@ When the solution is complete, the similar demands appear in the Similar demands
 -   Update the similarity score threshold: On the ML Solution form, on the **Solution Statistics** tab, enter the required value in the **Similarity Score Threshold** field. Right-click the ML Solution form and select **Save**.
 -   Test the prediction output for the records: On the ML Solution form, on the **Test solution** tab, enter your text in the **Short description** field and the maximum number of expected results in the **Top N** field, and then select **Run test**. The results above the similarity score threshold value are displayed.
 
-**Parent Topic:**[Use Demand Management](../reference/r_UsingDemandManagement.md)
+**Parent Topic:**[Use Demand Management](r_UsingDemandManagement.md)
 
 **Related topics**  
 
 
-[Assess demands](../concept/c_AssessingDemands.md)
+[Assess demands](c_AssessingDemands.md)
 
 [Create a demand](t_CreatingDemands.md)
 
 [View demands](t_ViewDemands.md)
 
-[Add details to demands](../concept/c_EnhancingDemands.md)
+[Add details to demands](c_EnhancingDemands.md)
 
-[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 
 [Reset a demand to Draft state](reset-demand-to-draft-state.md)
 
@@ -71,7 +71,7 @@ When the solution is complete, the similar demands appear in the Similar demands
 
 [Move and resize a demand](t_MoveAndResizeADemand.md)
 
-[PPM PIWB template - Find similar demands](../../itbm-PI-workbench/task/ppm-piwb-demand.md)
+[PPM PIWB template - Find similar demands](ppm-piwb-demand.md)
 
 [Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](identify-similar-demands.md)
 
@@ -81,7 +81,7 @@ When the solution is complete, the similar demands appear in the Similar demands
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Predictive Intelligence for Demand Management](../concept/predictive-intelligence-for-demand.md)
+[Predictive Intelligence for Demand Management](predictive-intelligence-for-demand.md)
 
 [Create a demand](t_CreatingDemands.md)
 

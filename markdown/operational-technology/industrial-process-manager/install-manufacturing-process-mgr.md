@@ -30,7 +30,7 @@ The following items are installed with the Industrial Process Manager:
 -   Roles
 -   Tables
 
-For more information on viewing the components that are installed with the Industrial Process Manager application, see [Components installed with Industrial Process Manager](../reference/components-installed-with-industrial-process-manager.md).
+For more information on viewing the components that are installed with the Industrial Process Manager application, see [Components installed with Industrial Process Manager](components-installed-with-industrial-process-manager.md).
 
 **Note:** For Operational Technology Service Management users with no license for Operational Technology Visibility, note the following:
 
@@ -60,5 +60,5 @@ You should upgrade to the latest versions so you have access to the Operational 
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configuring the Industrial Process Manager](../concept/configuring-manufacturing-process-mgr.md)
+**Parent Topic:**[Configuring the Industrial Process Manager](configuring-manufacturing-process-mgr.md)
 

@@ -93,5 +93,5 @@ Consider how the calculation would change if the field agents were not all in th
 **Related topics**  
 
 
-[Configure dynamic scheduling](../task/create-dynamic-scheduling-config.md#)
+[Configure dynamic scheduling](create-dynamic-scheduling-config.md#)
 

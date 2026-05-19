@@ -60,5 +60,5 @@ Select and hold \(or right-click\) an application menu, such as **System Diagnos
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Resolving platform performance issues](../concept/resolving-plat-performance-issues.md)
+**Parent Topic:**[Resolving platform performance issues](resolving-plat-performance-issues.md)
 

@@ -41,12 +41,12 @@ The previous screenshot is an example of a rack. From the **Overview** tab of a 
 -   See both the front and rear views of the rack or cabinet.
 -   See all the reserved units and reserved by which user.
 -   See the rack or cabinet and rack or cabinet models.
--   Create equipment from a rack or cabinet view. To learn more, see [Create a rack](../task/edit-a-rack.md).
--   Edit a rack. To learn more, see [Edit rack](../task/edit-rack.md).
--   Edit a cabinet. To learn more, see [Edit a cabinet](../task/edit-a-cabinet.md).
+-   Create equipment from a rack or cabinet view. To learn more, see [Create a rack](edit-a-rack.md).
+-   Edit a rack. To learn more, see [Edit rack](edit-rack.md).
+-   Edit a cabinet. To learn more, see [Edit a cabinet](edit-a-cabinet.md).
 -   Add packs
--   Decommission a rack or cabinet. To learn more, see [Decommission an inventory record](../task/decommision-an-inventory-record.md).
--   Delete a rack or cabinet. To learn more, see [Delete a record](../task/delete-inventory-record.md).
+-   Decommission a rack or cabinet. To learn more, see [Decommission an inventory record](decommision-an-inventory-record.md).
+-   Delete a rack or cabinet. To learn more, see [Delete a record](delete-inventory-record.md).
 -   Navigate to the rack/cabinets/slots form either from the canvas or the menu item.
 -   See life-cycle stage of equipment.
 -   See all the equipment and shelf details by selecting the info icon \(![Info Icon.](../image/icon-info.png)\).
@@ -59,38 +59,38 @@ To instantiate the creation of a rack or cabinet, you must:
 
 1.  Create or select a model in the equipment holder model with the Equipment Rack or Cabinet **Model categories** to associate it with a rack or cabinet respectively.
 
-    To learn more, see [Create an equipment holder model](../task/create-equipment-holder-models.md).
+    To learn more, see [Create an equipment holder model](create-equipment-holder-models.md).
 
 2.  Create or select a relationship in the network model relationships with the Rack/Cabinet to Rack/Cabinet Slot **Relationship type** to define the number of rack slots.
 
-    To learn more, see [Define a network model relationship](../task/create-network-model-relationships.md).
+    To learn more, see [Define a network model relationship](create-network-model-relationships.md).
 
 3.  Create or select a template having the rack or cabinet model in the **inventory model** field.
 
-    To learn more, see [Create an inventory template](../task/create-inventory-templates.md).
+    To learn more, see [Create an inventory template](create-inventory-templates.md).
 
 
 ## Visualize and manage a rack or cabinet
 
-1.  Initiate the rack or cabinet creation based on the rack or cabinet model, and rack or cabinet slots based on the template. To learn more, see [Create a change request from Network Inventory Workspace](../task/create_a_change_request_in_tni.md).
+1.  Initiate the rack or cabinet creation based on the rack or cabinet model, and rack or cabinet slots based on the template. To learn more, see [Create a change request from Network Inventory Workspace](create_a_change_request_in_tni.md).
 
     **Note:**
 
-    -   You can create a rack using [Create a rack](../task/edit-a-rack.md).
+    -   You can create a rack using [Create a rack](edit-a-rack.md).
     -   You can create a cabinet using [Create a cabinet](create-a-cabinet.md).
-2.  Add an equipment or shelf to a rack or cabinet. To learn more, see [Create a change request from Network Inventory Workspace](../task/create_a_change_request_in_tni.md).
+2.  Add an equipment or shelf to a rack or cabinet. To learn more, see [Create a change request from Network Inventory Workspace](create_a_change_request_in_tni.md).
 
-    **Note:** You can also edit, add, move, and remove an equipment using [Edit rack](../task/edit-rack.md) and [Edit a cabinet](../task/edit-a-cabinet.md).
+    **Note:** You can also edit, add, move, and remove an equipment using [Edit rack](edit-rack.md) and [Edit a cabinet](edit-a-cabinet.md).
 
 3.  Remove an equipment or shelf from a rack or cabinet.
 
-    To learn more, see [Create a change request from Network Inventory Workspace](../task/create_a_change_request_in_tni.md).
+    To learn more, see [Create a change request from Network Inventory Workspace](create_a_change_request_in_tni.md).
 
 
 **Related topics**  
 
 
-[Create a rack](../task/edit-a-rack.md)
+[Create a rack](edit-a-rack.md)
 
 [Create a cabinet](create-a-cabinet.md)
 

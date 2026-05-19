@@ -39,7 +39,7 @@ The following example shows the Details tab of an evidence record.
 
 5.  On the form, fill in the fields with information about the evidence.
 
-    For more information about the information collected in this form, see [Investigative Case Management Evidence Management Evidence form fields](../reference/psds-icm-ref-case-forms-evm-ev.md).
+    For more information about the information collected in this form, see [Investigative Case Management Evidence Management Evidence form fields](psds-icm-ref-case-forms-evm-ev.md).
 
 6.  Select **Save**.
 

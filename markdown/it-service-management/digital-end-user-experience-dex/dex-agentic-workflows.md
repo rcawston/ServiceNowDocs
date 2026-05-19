@@ -21,12 +21,12 @@ Use the Digital End-User Experience \(DEX\) agentic workflow to diagnose and res
 To access the DEX issue diagnosis and resolution agentic workflow, make sure that you install the following applications:
 
 -   Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
--   Digital End-User Experience application. For more information, see [Install Digital End-User Experience](../task/install-app-device-health.md) and [Configuring Digital End-User Experience](config-dex-console.md).
+-   Digital End-User Experience application. For more information, see [Install Digital End-User Experience](install-app-device-health.md) and [Configuring Digital End-User Experience](config-dex-console.md).
 
 **Note:**
 
--   Before you begin, review these [Important considerations for using Now Assist for IT Service Management \(ITSM\) agentic AI](../../now-assist-itsm/concept/important-considerations-itsm-agentic-ai.md).
--   For all available ITSM agentic AI applications, see [Use agentic AI in Now Assist for IT Service Management \(ITSM\)](../../now-assist-itsm/concept/now-assist-itsm-ai-agents-use-cases.md).
+-   Before you begin, review these [Important considerations for using Now Assist for IT Service Management \(ITSM\) agentic AI](../now-assist-for-it-service-management-itsm/important-considerations-itsm-agentic-ai.md).
+-   For all available ITSM agentic AI applications, see [Use agentic AI in Now Assist for IT Service Management \(ITSM\)](../now-assist-for-it-service-management-itsm/now-assist-itsm-ai-agents-use-cases.md).
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -37,5 +37,5 @@ The DEX issue diagnosis and resolution agentic workflow uses two AI agents to co
 -   DEX diagnosis AI agent
 -   DEX resolution plan AI agent
 
-For more information, see [DEX issue diagnosis and resolution agentic workflow](../../now-assist-itsm/concept/now-assist-itsm-dex-diagnosis-resolution-workflow.md).
+For more information, see [DEX issue diagnosis and resolution agentic workflow](../now-assist-for-it-service-management-itsm/now-assist-itsm-dex-diagnosis-resolution-workflow.md).
 

@@ -75,5 +75,5 @@ When you add an inbound email action to send email, Event Management uses inboun
 
 The inbound email is sent to the em\_event table and regular Event Management processes continue, for example, event rules and alert management rules run.
 
-**Parent Topic:**[Configure Event Management connectors](../reference/connectors-and-listeners.md)
+**Parent Topic:**[Configure Event Management connectors](connectors-and-listeners.md)
 

@@ -44,7 +44,7 @@ Sort the records according to a column's values by selecting the column label. R
 Privileged users have the following extra functionality:
 
 1.  Application navigator: Additional navigation destinations.
-2.  Creating indicators: Press **Create indicator** to open an empty Indicator form. For more information, see [Create an automated indicator](../task/t_CreateAnAutomatedIndicator.md#) or [Create a formula indicator](../task/t_CreateAFormulaIndicator.md).
+2.  Creating indicators: Press **Create indicator** to open an empty Indicator form. For more information, see [Create an automated indicator](performance-analytics/t_CreateAnAutomatedIndicator.md#) or [Create a formula indicator](performance-analytics/t_CreateAFormulaIndicator.md).
 3.  Indicators you created: You have an additional **Filter by** option, to see only the indicators you have created.
 4.  Indicator health: A row of tiles shows you useful statistics about the health of your indicators, such as how many automated and formula indicators do not have active collection jobs. The No active data collection job, Not viewed in 6 months, and Not viewed in one year tiles suggest how many indicators you may be able to delete. Conversely, Updated in the last 30 days gives you an idea how many indicators are truly active. Press a tile to filter the indicator list by that statistic.
 
@@ -60,7 +60,7 @@ Privileged users also see a different set of default columns. In place of the De
 -   The last time the indicator was viewed
 -   How many times in total it was viewed in the last year
 
-**Note:** A user with the pa\_admin role or higher might also see a panel with recommendations about problematic indicators. For more information, see [Platform Analytics library recommendations](../../par-for-workspace/concept/pa-library-recommendations.md).
+**Note:** A user with the pa\_admin role or higher might also see a panel with recommendations about problematic indicators. For more information, see [Platform Analytics library recommendations](pa-library-recommendations.md).
 
 ## Indicator management for admin users with Data snapshots enabled
 
@@ -68,7 +68,7 @@ If you have not tried to enable Data snapshots on your instance, you have a bann
 
 ![Banner for checking Data snapshots eligibility.](../../par-for-workspace/image/datasnap-eligibility-banner.png)
 
-Press **Check instance eligibility** to see if your instance is eligible for Data snapshots and, if not, why. For more information, see [Activate Data snapshots](../task/activate-unlimited-breakdowns.md#).
+Press **Check instance eligibility** to see if your instance is eligible for Data snapshots and, if not, why. For more information, see [Activate Data snapshots](performance-analytics/activate-unlimited-breakdowns.md#).
 
 When your instance is eligible for Data snapshots, you have a banner announcing this fact and two new tiles, Data snapshots enabled and Data snapshots supported. You can select one or more indicators in the list and press **Enable Data Snapshots \(quantity of indicators selected\)**.
 
@@ -79,9 +79,9 @@ When your instance is eligible for Data snapshots, you have a banner announcing 
 **Related topics**  
 
 
-[KPI Details](../../par-for-workspace/concept/kpi-details.md)
+[KPI Details](kpi-details.md)
 
-[Performance Analytics indicators](c_Indicators.md)
+[Performance Analytics indicators](performance-analytics/c_Indicators.md)
 
 [Performance Analytics Essentials training](https://learning.servicenow.com/lxp?course_id=cbf7fac4db1a7340760a71043996194c&id=learning_course_prev)
 

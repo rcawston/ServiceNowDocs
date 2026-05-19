@@ -15,7 +15,7 @@ breadcrumb: [Admin Center reference, Admin Center, Get started, Administer the S
 
 Admin Center is installed with these roles.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## System Administrator \[admin\]
 
@@ -44,5 +44,5 @@ The admin role allows you to access admin home features, adoption blueprints and
     None.
 
 
-**Parent Topic:**[Admin Center reference](../concept/ac-reference.md)
+**Parent Topic:**[Admin Center reference](ac-reference.md)
 

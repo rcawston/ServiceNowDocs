@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-For a list of font icon names and descriptions, see the [Mobile icon reference](../concept/mobile-icon-reference.md).
+For a list of font icon names and descriptions, see the [Mobile icon reference](mobile-icon-reference.md).
 
 ## Procedure
 

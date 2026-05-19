@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The Clone ERP \(Enterprise Resource Planning\) model form in Zero Copy Connector for ERP enables you to clone an ERP model so you can edit the new model.
 
-For process details, see [Clone an ERP model in Zero Copy Connector for ERP](../task/erp-canvas-clone-data-model.md).
+For process details, see [Clone an ERP model in Zero Copy Connector for ERP](erp-canvas-clone-data-model.md).
 
 <table id="table_hsv_q2v_2yb"><thead><tr><th>
 
@@ -48,7 +48,7 @@ ERP system
 
 </td><td>
 
-ERP system the ERP model connects to.The connected ERP system enables access to information about fields and tables and interaction between the model and the connected ERP system. For more information, see [Create an ERP system in Zero Copy Connector for ERP](../task/create-an-erp-system.md) and [View a list of Zero Copy Connector for ERP systems](../task/view-and-monitor-erp-systems-health.md).
+ERP system the ERP model connects to.The connected ERP system enables access to information about fields and tables and interaction between the model and the connected ERP system. For more information, see [Create an ERP system in Zero Copy Connector for ERP](create-an-erp-system.md) and [View a list of Zero Copy Connector for ERP systems](view-and-monitor-erp-systems-health.md).
 
 </td></tr><tr><td>
 

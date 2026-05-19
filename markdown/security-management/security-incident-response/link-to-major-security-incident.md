@@ -38,5 +38,5 @@ Role required: sn\_si.analyst.
     After the incident is linked as a child incident to a major security incident, **Major Security Incident** tag is applied and displayed on the form banner.
 
 
-**Parent Topic:**[Working with MSI Records](../concept/working-with-msi-records.md)
+**Parent Topic:**[Working with MSI Records](working-with-msi-records.md)
 

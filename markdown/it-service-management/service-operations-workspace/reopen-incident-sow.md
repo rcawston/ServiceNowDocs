@@ -27,7 +27,7 @@ An agent with incident write \(sn\_incident\_write\) access can view and use the
 
 Both the caller and the **Opened by** \(Requester\) users can view and use the **Reopen incident** option on the Portal UIs, such as Service Portal and Employee Service Center \(ESC\) portal to reopen a resolved incident.
 
-If an incident state is set to **Closed**, the incident cannot be reopened. However, if you request to reopen the incident by replying to the resolution notification email, a new incident is opened with selected field values that are copied from the closed incident. For more information on reopening an incident, see [Reopening an incident](../../incident-management/concept/reopening-incident.md).
+If an incident state is set to **Closed**, the incident cannot be reopened. However, if you request to reopen the incident by replying to the resolution notification email, a new incident is opened with selected field values that are copied from the closed incident. For more information on reopening an incident, see [Reopening an incident](../incident-management/reopening-incident.md).
 
 ## Procedure
 
@@ -46,7 +46,7 @@ If an incident state is set to **Closed**, the incident cannot be reopened. Howe
 
 A success notification message pop-up appears on the banner. The incident record state is set to **In progress**.
 
-**Parent Topic:**[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace](incident-sow.md)
 
 **Related topics**  
 
@@ -55,15 +55,15 @@ A success notification message pop-up appears on the banner. The incident record
 
 [View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md)
 
-[Viewing incident record information using the Contextual side panel](../concept/view-inc-record-info-contextual-sidepanel.md)
+[Viewing incident record information using the Contextual side panel](view-inc-record-info-contextual-sidepanel.md)
 
 [Work on an incident list page in Service Operations Workspace](work-incident-list-page-sow.md)
 
 [Work on an incident record in Service Operations Workspace](work-on-incident-sow.md)
 
-[Remedial actions using Playbook](../concept/remedial-actions-playbook.md)
+[Remedial actions using Playbook](remedial-actions-playbook.md)
 
 [Close resolved incident](close-resolved-incident-sow.md)
 
-[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+[Incident Management in Service Operations Workspace reference](sow-im-reference.md)
 

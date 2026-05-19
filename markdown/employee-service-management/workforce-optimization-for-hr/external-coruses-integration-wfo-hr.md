@@ -41,5 +41,5 @@ Role required: sn\_hr\_wfo.admin
 -   **[Assign a course item to agents](assign-learning-course-wfo-hr.md)**  
 Assign a course item to one or more agents and add a due date for them to complete the course.
 
-**Parent Topic:**[Learning in Workforce Optimization for HR](../concept/learning-wfo-hr.md)
+**Parent Topic:**[Learning in Workforce Optimization for HR](learning-wfo-hr.md)
 

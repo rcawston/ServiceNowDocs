@@ -17,9 +17,9 @@ Use the Platform Identify ways to improve service agentic workflow to analyze fe
 
 The Identify ways to improve service agentic workflow optimizes service delivery and customer satisfaction by analyzing feedback, metrics, and trends to provide actionable process improvement recommendations. After the analysis is generated, you can continue the conversation to ask follow-up questions or download the analysis as a PDF or Word document.
 
-The Now Assist applications provide the agents, tools, and triggers for the Identify ways to improve service agentic workflow. You can [activate the agentic workflow template](../task/activate-aia-use-case.md) by making triggers active and setting the display settings to include the Now Assist panel. To change this agentic workflow's instructions, [duplicate it](../task/clone-aia-usecase.md), adjust the settings to suit your specific needs, and activate the duplicated version instead.
+The Now Assist applications provide the agents, tools, and triggers for the Identify ways to improve service agentic workflow. You can [activate the agentic workflow template](activate-aia-use-case.md) by making triggers active and setting the display settings to include the Now Assist panel. To change this agentic workflow's instructions, [duplicate it](clone-aia-usecase.md), adjust the settings to suit your specific needs, and activate the duplicated version instead.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](ai-native-sku-overview.md).
 
 ## Prerequisites and setup
 
@@ -31,7 +31,7 @@ Because this agentic workflow relies on survey data, you must have Assessment re
 
 Required role: sn\_uxc\_gen\_ai.platform\_ai\_improve\_services.
 
-Agentic workflows and their AI agents use [role masking](aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](../task/define-sec-controls-aw.md).
+Agentic workflows and their AI agents use [role masking](aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](define-sec-controls-aw.md).
 
 In the data access settings, add the necessary roles to enable reading of the Assessment table and other required tables. For example, add the itil role to the agentic workflow's list of approved roles so it can access Incident records.
 
@@ -97,13 +97,13 @@ You can access agentic workflows in the Core UI and in workspaces in the AI Acti
 
 To enable users to access agentic workflows with UI actions, open the agentic workflow in AI Agent Studio and navigate to the **Select channels and access** step. You can select a UI action as a possible way to access the workflow
 
-If you don't see your UI actions after configuring it in AI Agent Studio, verify that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`. See [Enable the in-product experience for agentic workflows](../task/enable-inproduct-aia.md).
+If you don't see your UI actions after configuring it in AI Agent Studio, verify that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`. See [Enable the in-product experience for agentic workflows](enable-inproduct-aia.md).
 
 ## Testing the Identify ways to improve service agentic workflow
 
-You can manually test an agentic workflow execution or access on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](../task/define-sec-controls-aw.md). Start a manual test, select a test type and the workflow name, and use utterances in the Task field like the following samples. See [Test an agentic workflow execution](../task/test-aia-use-case.md).
+You can manually test an agentic workflow execution or access on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](define-sec-controls-aw.md). Start a manual test, select a test type and the workflow name, and use utterances in the Task field like the following samples. See [Test an agentic workflow execution](test-aia-use-case.md).
 
-To evaluate the agentic workflow over many different execution logs, run an [automated evaluation](../task/execute-aia-eval.md).
+To evaluate the agentic workflow over many different execution logs, run an [automated evaluation](execute-aia-eval.md).
 
 ## Sample utterance
 

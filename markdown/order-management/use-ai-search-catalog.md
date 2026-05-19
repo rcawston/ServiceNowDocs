@@ -89,7 +89,7 @@ Use wildcard operators to find records that contain indexed terms matching a wil
     -   If the search results returned a product that you want to add, select the product offering so that it can be added as line item to the transaction. If the product that you select is customizable, the configurator opens so that you can configure the offering.
     -   If you want to continue with another query, select **Clear** to remove the current search and sort option, then enter a new query in the search bar. The search query and sort option are cleared. The sort option is reset to Relevancy, which is the default value.
 
-**Parent Topic:**[Using product catalogs](../concept/using-product-catalog.md)
+**Parent Topic:**[Using product catalogs](using-product-catalog.md)
 
 **Related topics**  
 

@@ -44,7 +44,7 @@ Transfer order record is created.
 
 Create transfer order lines to specify the items that the transfer order comprises of.
 
-**Parent Topic:**[Transfer order tasks](../concept/work-with-transfer-orders.md)
+**Parent Topic:**[Transfer order tasks](work-with-transfer-orders.md)
 
 **Related topics**  
 

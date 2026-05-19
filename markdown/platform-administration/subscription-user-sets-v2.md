@@ -27,7 +27,7 @@ On upgrade to Quebec or later releases, all current user sets convert to groups.
 
 Admins and user\_admins create groups and add users in the **User Administration** application.
 
-To learn more about creating and editing groups, see [Creating groups](../../roles/concept/ua-creating-groups.md).
+To learn more about creating and editing groups, see [Creating groups](user-administration/ua-creating-groups.md).
 
-**Parent Topic:**[Subscription Management reference](../reference/subscription-management-reference-v2.md)
+**Parent Topic:**[Subscription Management reference](subscription-management-reference-v2.md)
 

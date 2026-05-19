@@ -107,5 +107,5 @@ Reject
 -   The comments for rejection posted by the approver is added to the request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing gifts and entertainment disclosure requests](../concept/lsd-manage-ge-request.md)
+</table>**Parent Topic:**[Managing gifts and entertainment disclosure requests](lsd-manage-ge-request.md)
 

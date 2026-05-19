@@ -27,12 +27,12 @@ Role required: model\_manager
 
 3.  Complete the form.
 
-    For general field descriptions, see [Model form fields](../reference/r_ModelFormFields.md). There are no fields specific to consumable models.
+    For general field descriptions, see [Model form fields](r_ModelFormFields.md). There are no fields specific to consumable models.
 
     Any consumable assets you create and assign to the new model are displayed in the **Consumables** related list on the model record.
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Models](../concept/c_Models.md)
+**Parent Topic:**[Models](c_Models.md)
 

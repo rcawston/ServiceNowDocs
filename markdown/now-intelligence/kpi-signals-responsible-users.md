@@ -29,7 +29,7 @@ Even responsible users without workspace access get these email notifications.
 **Related topics**  
 
 
-[Configure signal notifications](../task/configure-signal-notifications.md)
+[Configure signal notifications](configure-signal-notifications.md)
 
 ## Assign responsibility for signals
 
@@ -41,7 +41,7 @@ Role required: Any role if a responsible user, or pa\_admin or admin
 
 ### Procedure
 
-1.  Open KPI Signals for an indicator, as described in [View KPI Signals](../task/view-kpi-signals.md).
+1.  Open KPI Signals for an indicator, as described in [View KPI Signals](view-kpi-signals.md).
 
 2.  Click the cogwheel ![Cogwheel button for KPI Signals configuration](../image/kpi-signals-config-cogwheel.png) to open the KPI Signals configuration.
 

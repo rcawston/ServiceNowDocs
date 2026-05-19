@@ -32,5 +32,5 @@ Role required: web\_service\_admin or admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[Outbound web service mutual authentication](../concept/c_OutboundWebServicesMutualAuth.md)
+**Parent Topic:**[Outbound web service mutual authentication](c_OutboundWebServicesMutualAuth.md)
 

@@ -23,5 +23,5 @@ For description of the field values, see the table.
 |Elements impacted|Items or assets that are impacted because of the loss scenario.|
 |Description|Short note about the loss scenario.|
 
-**Parent Topic:**[Configure loss scenarios in the plan](../task/configure-plan-loss-scenario-uib-ws.md)
+**Parent Topic:**[Configure loss scenarios in the plan](configure-plan-loss-scenario-uib-ws.md)
 

@@ -39,5 +39,5 @@ If you want to restrict unauthenticated users for a knowledge base, you can use 
     2.  Set the **glide.knowman.block\_access\_with\_no\_user\_criteria** property settings to true.
     3.  Select **Save**.
 
-**Parent Topic:**[Configuring Operational Technology Knowledge Management](../concept/configuring-operational-technology-knowledge-management.md)
+**Parent Topic:**[Configuring Operational Technology Knowledge Management](configuring-operational-technology-knowledge-management.md)
 

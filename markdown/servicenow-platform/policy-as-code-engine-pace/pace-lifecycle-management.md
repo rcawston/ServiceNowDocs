@@ -37,7 +37,7 @@ Create a policy.
 
 </td><td>
 
-See [Create a PaCE policy](../task/pace-create-policy.md).
+See [Create a PaCE policy](pace-create-policy.md).
 
 </td></tr><tr><td>
 
@@ -45,9 +45,9 @@ Create a new policy version
 
 </td><td>
 
-See:-   [Create a new variable for a policy version](../task/pace-create-variable-policy-version.md) \(if required\).
--   [Define mappings for a PaCE policy](../task/pace-create-policy-mapping.md).
--   [Edit a PaCE policy script](../task/pace-edit-policy-script.md)
+See:-   [Create a new variable for a policy version](pace-create-variable-policy-version.md) \(if required\).
+-   [Define mappings for a PaCE policy](pace-create-policy-mapping.md).
+-   [Edit a PaCE policy script](pace-edit-policy-script.md)
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Publish a new policy version
 
 </td><td>
 
-See [Publish a PaCE policy version](../task/pace-publish-policy-version.md).
+See [Publish a PaCE policy version](pace-publish-policy-version.md).
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Activate a published policy
 
 </td><td>
 
-See [Activate or deactivate a PaCE policy](../task/pace-deactivate-policy.md).
+See [Activate or deactivate a PaCE policy](pace-deactivate-policy.md).
 
 </td></tr><tr><td>
 

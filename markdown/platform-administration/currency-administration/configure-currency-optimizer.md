@@ -35,5 +35,5 @@ Role required: admin
     The default value is 4.
 
 
-**Parent Topic:**[Setting up defaults required for standard currency use](../concept/setting-up-standard-currency-defaults.md)
+**Parent Topic:**[Setting up defaults required for standard currency use](setting-up-standard-currency-defaults.md)
 

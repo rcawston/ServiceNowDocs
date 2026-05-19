@@ -53,5 +53,5 @@ The AI Agents are inactive by default. You can activate one or both AI Agents. A
 
 To deactivate an AI Agent, select **Deactivate** on the respective card. The button returns to **Activate**.
 
-**Parent Topic:**[AI Agents for Service Mapping](../concept/service-mapping-ai-specialists.md)
+**Parent Topic:**[AI Agents for Service Mapping](service-mapping-ai-specialists.md)
 

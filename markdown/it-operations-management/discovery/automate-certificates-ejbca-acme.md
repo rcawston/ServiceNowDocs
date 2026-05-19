@@ -25,11 +25,11 @@ In EJBCA, automated certificate workflows start when you create routing policies
 
 Your platform has routing policies where you fill in all the fields of the routing policy. Your platform aligns that information to each CSR you create to request, renew, and revoke certificates.
 
-For more information, see [Create a routing policy for EJBCA ACME certificates](../../discovery/task/routing-policies-ejbca-acme-certificates.md).
+For more information, see [Create a routing policy for EJBCA ACME certificates](routing-policies-ejbca-acme-certificates.md).
 
 Perform the following task to use EJBCA ACME to automate your certificate life cycle:
 
 1.  [Create a Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md)
-2.  [Configure your base API URL for EJBCA ACME](../../discovery/task/configure-base-api-url-for-ejbca-acme.md)
-3.  [Validate your EJBCA ACME base API URL](../../discovery/task/validate-ejbca-acme-base-api-url.md)
+2.  [Configure your base API URL for EJBCA ACME](configure-base-api-url-for-ejbca-acme.md)
+3.  [Validate your EJBCA ACME base API URL](validate-ejbca-acme-base-api-url.md)
 

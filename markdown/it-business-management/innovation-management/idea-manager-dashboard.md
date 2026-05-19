@@ -91,5 +91,5 @@ The dashboard includes the following visualizations:
 |Ideas trended by categories|Line chart ![Line chart](../../../reuse/reporting/image/line-multiple.svg)|Trend of the total number of ideas submitted under various categories. The trend is displayed on a monthly basis.|
 |Top 10 categories by ideas|Horizontal bar chart ![Horizontal bar chart](../../performance-analytics/image/horizontal-bar.png)|Top 10 categories based on the number of ideas submitted under each category.|
 
-**Parent Topic:**[Innovation Management](../../../product/innovation-management/concept/innovation-management-landing.md)
+**Parent Topic:**[Innovation Management](innovation-management-landing.md)
 

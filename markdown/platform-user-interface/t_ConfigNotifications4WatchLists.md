@@ -43,7 +43,7 @@ You can remove the email address text entry element from a watch list by modifyi
 -   **[Configure order buttons on the watch list slushbucket](watchlist-slushbucket-order.md)**  
 When you add multiple users to a glide\_list, such as a watch list, the slushbucket does not display the order buttons for the list of selected members. You can set a dictionary attribute to display the order buttons.
 
-**Parent Topic:**[Add users to a watch list](../../../use/using-forms/task/t_UseAWatchList.md)
+**Parent Topic:**[Add users to a watch list](t_UseAWatchList.md)
 
 **Related topics**  
 

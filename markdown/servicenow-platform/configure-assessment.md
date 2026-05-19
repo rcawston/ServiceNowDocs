@@ -25,14 +25,14 @@ Role required: admin, survey\_creator, or assessment\_admin
 
 3.  On the Assessment Metric form, fill in the fields.
 
-    For a description of the field values, see [Assessment Metric form](../reference/assessment-metric-form.md).
+    For a description of the field values, see [Assessment Metric form](assessment-metric-form.md).
 
 4.  Create a new assessment and assign it to the assessors.
 
     Do the following in the Assessment Metric form.
 
     1.  Add a condition: In the **Condition** tab, add a condition to define the assessable records on which the assessment is created.
-    2.  Add decision matrix fields: In the **Decision Matrix** tab, add the required filter field to identify filter menu choices on decision matrices and scorecard averages for this type. For more information, see [Decision matrixes](../reference/r_AdministerDecisionMatrixes.md) .
+    2.  Add decision matrix fields: In the **Decision Matrix** tab, add the required filter field to identify filter menu choices on decision matrices and scorecard averages for this type. For more information, see [Decision matrixes](r_AdministerDecisionMatrixes.md) .
     3.  Select the Assessors: In the **Assessors** tab, select the users to whom the assessment will be assigned.
     4.  Generate Assessable records: When you save the assessment and click **Generate Assessable Records**, an assessable record is created for each unique user of the user field.
 
@@ -45,14 +45,14 @@ Role required: admin, survey\_creator, or assessment\_admin
     5.  Create a metric category: To create a metric category, do the following:
         1.  Open the assessment you just created and click **New** in the **Metric Categories** tab. Fill the form.
 
-            For more information about form fields, see [Metric Category form](../reference/metric-category-form.md)form.
+            For more information about form fields, see [Metric Category form](metric-category-form.md)form.
 
             **Tip:** To know how to create metric category alternatively, see [Create a category for assessable records](t_CreateACategoryAR.md).
 
         2.  Open a metric category, add a condition, and click **Assessable records** tab. The assessable records appear based on the selection made in the metric category form.
         3.  Open a metric category, click **Assessment Metric** tab to add the questions. Click **New**.
 
-            For more information about form fields, see [Assessment Metric form for a category](../reference/assessment-metric-category-form.md).
+            For more information about form fields, see [Assessment Metric form for a category](assessment-metric-category-form.md).
 
             **Tip:** To know how to create assessment metric category alternatively, see [Create an assessment metric for a category](t_CreateAMetric.md).
 
@@ -61,5 +61,5 @@ Role required: admin, survey\_creator, or assessment\_admin
         1.  For an on-demand Assessments, click either the **Assign Assessment** or **Assign to Assessors** link to assign the assessment. For more information, see [Generate an on-demand assessment for multiple assessable records](t_GenOnDemandAssessMultAssessRec.md).
         2.  For a scheduled Assessment, click the **Generate Assessments ** link to trigger the scheduled job immediately. For more information, see [Generate a scheduled assessment manually](t_GenSchedAssessmentManually.md).
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](c_AssessmentProcess.md)
 

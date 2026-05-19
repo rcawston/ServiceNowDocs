@@ -30,7 +30,7 @@ All tables in DevOps support data separation only; delegated domain separation i
 
 To ensure that domain-sensitive information is not available at a global domain, ensure that you create policies at a domain level and not at a global level. While managing Service Providers, create policies at the Service Provider level. If you create policies at a global level instead, when you run the audit, the tag policy "run" findings are created in the Global domain, instead of respective domains.
 
-**Parent Topic:**[DevOps Change Velocity reference](../reference/devops-change-velocity-reference.md)
+**Parent Topic:**[DevOps Change Velocity reference](devops-change-velocity-reference.md)
 
 **Related topics**  
 

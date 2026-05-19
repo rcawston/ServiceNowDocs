@@ -23,5 +23,5 @@ See the following table for a description of the field values.
 |Assigned to|User responsible for providing the evidence.|
 |Evidence collection instructions|Instructions for providing evidence. For example, list of supporting documents, files, and so on.|
 
-**Parent Topic:**[Request evidence for model](../task/request-evidence-for-model.md)
+**Parent Topic:**[Request evidence for model](request-evidence-for-model.md)
 

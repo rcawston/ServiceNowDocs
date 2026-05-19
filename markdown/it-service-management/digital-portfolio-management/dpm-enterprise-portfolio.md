@@ -41,27 +41,27 @@ You can also see items that need attention and select parts of the portfolio to 
 
 5.  Select an Enterprise taxonomy node that interests you, and then select **View Details**.
 
-    The details of the Enterprise taxonomy node include several tabs — Generally an overview, a tab \(or two\) for the type of portfolio you selected, and a general information tab. To learn more about enterprise portfolio screens, see [Navigate portfolio types in Digital Portfolio Management](../concept/dpm-navigating-enterprise-portfolios.md).
+    The details of the Enterprise taxonomy node include several tabs — Generally an overview, a tab \(or two\) for the type of portfolio you selected, and a general information tab. To learn more about enterprise portfolio screens, see [Navigate portfolio types in Digital Portfolio Management](dpm-navigating-enterprise-portfolios.md).
 
 6.  Follow the breadcrumb path to return to the tree structure of the enterprise portfolio.
 
 7.  Expand the Enterprise taxonomy node to see its child nodes, and then its solutions \(services, business applications, or service instances\).
 
-    Selecting each item in the tree structure displays high-level information of that item. All child nodes and solutions have their own **View details** option. To learn more about enterprise portfolio screens, see [Navigate portfolio types in Digital Portfolio Management](../concept/dpm-navigating-enterprise-portfolios.md).
+    Selecting each item in the tree structure displays high-level information of that item. All child nodes and solutions have their own **View details** option. To learn more about enterprise portfolio screens, see [Navigate portfolio types in Digital Portfolio Management](dpm-navigating-enterprise-portfolios.md).
 
 8.  View information about a different type of enterprise portfolio.
 
     **Important:** To select a different type of enterprise portfolio from the one you're in, you must delete the value in the **Portfolio** field. When the **Portfolio** field is empty, then select it \(again\) to see the other portfolio types. For example, if you're navigating a service portfolio and want to see to a business portfolio, you must delete the name of the service portfolio in the **Portfolio** field. After you delete it, select the **Portfolio** field \(again\) to see the other enterprise portfolio options \(service, business, or service instance\).
 
 
-**Parent Topic:**[Getting started with Digital Portfolio Management](../concept/dpm-using-cfx.md)
+**Parent Topic:**[Getting started with Digital Portfolio Management](dpm-using-cfx.md)
 
 **Related topics**  
 
 
-[Enterprise portfolios](../concept/dpm-enterprise-portfolios.md)
+[Enterprise portfolios](dpm-enterprise-portfolios.md)
 
-[Navigate portfolio types in Digital Portfolio Management](../concept/dpm-navigating-enterprise-portfolios.md)
+[Navigate portfolio types in Digital Portfolio Management](dpm-navigating-enterprise-portfolios.md)
 
 [Create enterprise portfolios in Digital Portfolio Management](dpm-create-enterprise-portfolios.md)
 

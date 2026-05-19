@@ -28,5 +28,5 @@ Role required: sales\_agent
     A dialog box indicates the creation of a new order. Select the new order record to view it. Or you can also navigate to the Customer Orders tab to view the new order record.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

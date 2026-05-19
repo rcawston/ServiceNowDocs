@@ -23,11 +23,11 @@ You can drag a library element into a KPI Tree from the **Library Elements** men
 
 ![Library Elements list.](../image/kpi-comp-library-elements.png)
 
--   **[Create a library element](../task/create-library-element.md)**  
+-   **[Create a library element](create-library-element.md)**  
 Convert an artifact and its children in a KPI tree into a KPI Composer cross-project library element.
--   **[Use a library element](../task/use-library-element.md)**  
+-   **[Use a library element](use-library-element.md)**  
 Add a library element to a KPI tree in any KPI Composer project.
--   **[Edit or delete a library element](../task/edit-library-element.md#)**  
+-   **[Edit or delete a library element](edit-library-element.md#)**  
 You can add artifacts to a library element, or convert a library element back to project-based artifacts. You can also edit the data definitions of artifacts in a library element.
 
 **Parent Topic:**[Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md)

@@ -116,5 +116,5 @@ To access the jobs, navigate to **All** &gt; **System Definition** &gt; **Schedu
 
 To configure the Group Action Framework \(GAF\) to cluster topics and use chat summarization to create topic names, run the **Activate topic clustering for Now Assist ITSM dashboard** script. [Configure Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-gaf.md)![Now Assist for ITSM scheduled script execution](../image/now-assist-itsm-script-execution-va-dashboard.png)
 
-**Parent Topic:**[Use ITSM Virtual Agent Analytics dashboard](../concept/using-itsm-conversational-analytics-dashboard.md)
+**Parent Topic:**[Use ITSM Virtual Agent Analytics dashboard](using-itsm-conversational-analytics-dashboard.md)
 

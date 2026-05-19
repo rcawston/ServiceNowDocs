@@ -51,14 +51,14 @@ You can use scripted allocations to perform any of the following actions.
     ```
 
 
-**Parent Topic:**[Expense lines and expense allocations](../concept/c_ExpenseLinesAndAllocations.md)
+**Parent Topic:**[Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)
 
 **Related topics**  
 
 
 [Create an allocation rule](t_CreateAnAllocationRule.md)
 
-[Automatic expense line creation](../concept/c_CreateExpenseLinesAutomatically.md)
+[Automatic expense line creation](c_CreateExpenseLinesAutomatically.md)
 
 [Create expense lines manually](t_CreateExpenseLinesManually.md)
 

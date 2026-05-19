@@ -37,13 +37,13 @@ You can add multiple causes to a privacy case and define a primary cause. Any pr
 
 6.  On the **Cause and consequence** form, fill in the fields.
 
-    For a description of the field values on the **Cause and consequence** form, see [Cause and consequence form](../reference/cause-and-consequence-form.md).
+    For a description of the field values on the **Cause and consequence** form, see [Cause and consequence form](cause-and-consequence-form.md).
 
 7.  Select **Save**.
 
 
--   **[Cause and consequence form](../reference/cause-and-consequence-form.md)**  
+-   **[Cause and consequence form](cause-and-consequence-form.md)**  
 Learn about the fields on the cause and consequence form. Use this form to define cause and consequence in the Privacy Case Management application.
 
-**Parent Topic:**[Using Privacy Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Privacy Case Management](using-pcm.md)
 

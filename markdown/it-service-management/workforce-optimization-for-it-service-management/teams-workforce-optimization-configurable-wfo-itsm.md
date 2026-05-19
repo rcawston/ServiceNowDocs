@@ -33,13 +33,13 @@ So, an admin can add one or more assignment groups already available in the IT S
 
 As the Deskside support assignment group is a part of both the KPI groups, it means one or more KPI groups can be associated with one or more assignment groups.
 
--   **[Add KPI targets for agents](../task/add-kpi-targets-agents-wfo-itsm.md)**  
+-   **[Add KPI targets for agents](add-kpi-targets-agents-wfo-itsm.md)**  
 Set key performance indicator goals that you want your agents to achieve so that they can improve the quality of how they resolve incidents. You can also set goals to monitor and improve an existing baseline measurement.
--   **[Analyze the performance trends for your teams](../task/analyze-team-KPI-trends-configurable-workspace.md)**  
+-   **[Analyze the performance trends for your teams](analyze-team-KPI-trends-configurable-workspace.md)**  
 Analyze trends to monitor your team's performance within a KPI group.
--   **[Get insights into performance of your team](../task/analyze-process-insights-po-wfo.md)**  
+-   **[Get insights into performance of your team](analyze-process-insights-po-wfo.md)**  
 Get insights into process bottlenecks and find potential areas that you could optimize. You can also view variation analysis.
--   **[View the performance data of your team for a specific date](../task/view-team-performance-data-specific-date.md)**  
+-   **[View the performance data of your team for a specific date](view-team-performance-data-specific-date.md)**  
 You can view your team’s performance data for a specific date using a time-series chart.
 
 **Parent Topic:**[Teams in Workforce Optimization for ITSM](explore-teams-configurable-workforce-optimization-itsm.md)

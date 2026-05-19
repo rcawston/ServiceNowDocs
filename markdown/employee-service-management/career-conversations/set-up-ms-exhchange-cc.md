@@ -40,5 +40,5 @@ Set up conversations and sync them with Microsoft Outlook using a connection wit
         Do not change the **Name** and **Credential**. In the OAuth Entity Profile form of the **MS Graph 2** credential, ensure that the **Grant type** field is selected as **Client Credentials**.
 
 
-**Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](../concept/outlook-integration-cc.md)
+**Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](outlook-integration-cc.md)
 

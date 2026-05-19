@@ -70,7 +70,7 @@ Site A
 
 </td><td>
 
-Originating network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md).
+Originating network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](define-tni-sites.md).
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Site Z
 
 </td><td>
 
-Destination network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md).
+Destination network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](define-tni-sites.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Physical Connection form](physical-connection-forms.md)
@@ -86,5 +86,5 @@ Destination network site for this connection. Select the search icon \( ![Search
 **Related topics**  
 
 
-[Define the physical connection details](../task/define-tni-physical-connections.md)
+[Define the physical connection details](define-tni-physical-connections.md)
 

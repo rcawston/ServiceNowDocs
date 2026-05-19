@@ -31,7 +31,7 @@ Role required: discovery\_admin
 
 4.  Fill in the details \(by selecting the provider\).
 
-    For more information on the field details, see [Create a new discovery schedule form reference](../../discovery/reference/create-a-new-discovery-schedule-form.md).
+    For more information on the field details, see [Create a new discovery schedule form reference](../discovery/create-a-new-discovery-schedule-form.md).
 
     If the system can’t detect an appropriate MID Server, you’re prompted to configure a MID Server.
 

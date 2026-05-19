@@ -23,7 +23,7 @@ For more information about Next Experience, see [the Next Experience UI](https:/
 
 The PolarisUI API is provided within the `sn_ui` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PolarisUI - canUsePolarisCSS\(\)
 
@@ -36,7 +36,7 @@ This method returns `true` if all of the following conditions are met.
 -   The referrer HTTP request header does not contain `sysparm_use_polaris=false`.
 -   The page or its parent plugin are not denied use of Next Experience by a record in the Page Theme Support \[sys\_page\_theme\] table.
 
-Use this method to conditionally change behavior or [jelly](../../../../../script/general-scripting/reference/r_JellyTags.md) output if Next Experience is enabled.
+Use this method to conditionally change behavior or [jelly](../scripts/r_JellyTags.md) output if Next Experience is enabled.
 
 |Name|Type|Description|
 |----|----|-----------|

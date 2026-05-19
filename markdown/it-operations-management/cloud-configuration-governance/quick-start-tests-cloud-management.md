@@ -75,7 +75,7 @@ Cloud Provisioning and Governance quick start tests require activating the follo
 |CMP: Verify stack status after Day2 - Start operation|Validate the status of the stack status changed from 'Off' to 'On' after the Start operation.|Orlando|
 |CMP: Verify stack status after Day2 - De-provision operation|Validate the status of the stack status changed from 'On' to 'terminate' after the de-provisioning operation.|Orlando|
 
-To learn more about Cloud Provisioning and Governance, see [Cloud Provisioning and Governance](../../../product/cloud-management-v2/concept/cloud-management-v2-landing-page.md).
+To learn more about Cloud Provisioning and Governance, see [Cloud Provisioning and Governance](cloud-management-v2-landing-page.md).
 
 **Related topics**  
 

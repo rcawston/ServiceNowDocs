@@ -26,5 +26,5 @@ An additional highlighted value configuration is provided out of box, CSM/FSM Co
 -   Legacy highlighted values in form headers work without modification, but may affect the functionality of Configurable Workspace.
 -   Highlighted values must be added to a highlighted value configuration to appear in Configurable Workspace.
 
-For more information, see [Set up a highlighted value](../task/config-csm-config-ws-highlight-value.md).
+For more information, see [Set up a highlighted value](config-csm-config-ws-highlight-value.md).
 

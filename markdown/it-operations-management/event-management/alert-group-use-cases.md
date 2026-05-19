@@ -67,7 +67,7 @@ Advanced algorithms automatically identify and group related alerts based on pat
 
  Automatic alert grouping consists of the following components.
 
--   Alert Aggregation Learner \(**Service Analytics Alert Aggregation Learner - Daily**\): This offline job runs daily to process past alerts and perform statistical analysis to build alert patterns. For details, see [Configure pattern based alert grouping](../task/configure-alert-aggregation.md).
+-   Alert Aggregation Learner \(**Service Analytics Alert Aggregation Learner - Daily**\): This offline job runs daily to process past alerts and perform statistical analysis to build alert patterns. For details, see [Configure pattern based alert grouping](configure-alert-aggregation.md).
 -   Real-time Alert Aggregation job \(**Service Analytics group alerts using RCA/Alert Aggregation**\): This job runs every minute to generate alert aggregation groups based on alert patterns, CMDB relationships, text similarity, user-defined alert clustering tags, and network traffic connection between processes.
 
 </td><td>

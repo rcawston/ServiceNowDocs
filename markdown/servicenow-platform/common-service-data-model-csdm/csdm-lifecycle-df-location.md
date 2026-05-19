@@ -42,7 +42,7 @@ The values for the location life-cycle process reflect the locations used by you
 
 **Note:** The \[life\_cycle\_control\] table uses the type of CI \(tangible/physical, document and contract, location and so on\) to determine which *life cycle stage status* values are available for each *life cycle stage*.
 
-For additional information on how you can benefit from implementing life-cycle value pairs for CMDB entities, see the ['Map existing status values to CSDM life-cycle value pairs' section in the 'Foundation domain' topic](../concept/foundation-domain.md).
+For additional information on how you can benefit from implementing life-cycle value pairs for CMDB entities, see the ['Map existing status values to CSDM life-cycle value pairs' section in the 'Foundation domain' topic](foundation-domain.md).
 
-**Parent Topic:**[Life cycle of location entities](../concept/csdm-lifecycle-location.md)
+**Parent Topic:**[Life cycle of location entities](csdm-lifecycle-location.md)
 

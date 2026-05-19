@@ -32,14 +32,14 @@ Role required: it\_pps\_admin
     To delete a project template, select a configuration item from the list and select **Delete**. Do not delete any of the default template configuration items: project, project task, or project subtask. Doing so affects the ability to create project templates.
 
 
-**Parent Topic:**[Project template configuration](../concept/c_ProjectTemplateConfiguration.md)
+**Parent Topic:**[Project template configuration](c_ProjectTemplateConfiguration.md)
 
 **Related topics**  
 
 
-[Applying templates to projects](../concept/c_ProjectTemplates.md)
+[Applying templates to projects](c_ProjectTemplates.md)
 
-[Project template configuration](../concept/c_ProjectTemplateConfiguration.md)
+[Project template configuration](c_ProjectTemplateConfiguration.md)
 
 [Add a project template configuration item](t_AddNewProjTempConfigItem.md)
 

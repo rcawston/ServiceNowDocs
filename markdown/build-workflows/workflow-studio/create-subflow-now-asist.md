@@ -155,7 +155,7 @@ Priority level at which you want the system to run this subflow by default. Opti
 -   Low
 -   Medium \(Default\)
 -   High
- To learn about flow priority levels, see [Flow priority](../concept/flow-priority.md).
+ To learn about flow priority levels, see [Flow priority](flow-priority.md).
 
 </td></tr></tbody>
 </table>5.  Select **Generate subflow preview**.
@@ -179,5 +179,5 @@ Priority level at which you want the system to run this subflow by default. Opti
 
 Now Assist creates a subflow outline with the name you provided. If the large language model couldn't find a matching action, flow logic, or subflow for your request, it may add one or more placeholder steps instead.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

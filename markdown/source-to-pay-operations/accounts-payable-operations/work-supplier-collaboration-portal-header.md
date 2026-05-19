@@ -211,8 +211,8 @@ Lists the activity postings between Accounts Payable Specialist and supplier.
 Supplier uses attachments in the form of PDF, JPEG, PNG formats.
 
 </td></tr></tbody>
-</table>    Supplier selects **Mark complete**. The status of the task changes to **Closed complete**. For more information on invoice case, see [Using Invoice Case Management](../concept/use-invoice-case-mgmt.md).
+</table>    Supplier selects **Mark complete**. The status of the task changes to **Closed complete**. For more information on invoice case, see [Using Invoice Case Management](use-invoice-case-mgmt.md).
 
 
-**Parent Topic:**[Using Supplier Collaboration Portal in APO](../concept/using-supplier-collaboration-portal.md)
+**Parent Topic:**[Using Supplier Collaboration Portal in APO](using-supplier-collaboration-portal.md)
 

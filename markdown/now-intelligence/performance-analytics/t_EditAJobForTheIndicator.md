@@ -40,9 +40,9 @@ Role required: pa\_power\_user, or admin
 6.  Click **Save**.
 
 
-**Parent Topic:**[Automated indicators](../concept/automated-indicators.md)
+**Parent Topic:**[Automated indicators](automated-indicators.md)
 
 **Previous topic:**[Assign and map breakdowns](create-breakdown-mapping.md#)
 
-**Next topic:**[Performance Analytics snapshots](../concept/pa-snapshots.md)
+**Next topic:**[Performance Analytics snapshots](pa-snapshots.md)
 

@@ -31,7 +31,7 @@ The following items are installed with Critical Event Management:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Critical Event Management](../reference/components-installed-with-cem.md).
+For more information, see [Components installed with Critical Event Management](components-installed-with-cem.md).
 
 ## Procedure
 

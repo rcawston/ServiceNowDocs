@@ -33,12 +33,12 @@ Role required: user\_admin
     -   To update details of an existing department, select the department.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new department form](../../reference/eaw-reference/eaw-create-new-department-form.md).
+    For field information, see [Create new department form](eaw-create-new-department-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage departments](../../concept/eaw-concept/eaw-manage-departments.md)
+**Parent Topic:**[Manage departments](eaw-manage-departments.md)
 
 **Related topics**  
 

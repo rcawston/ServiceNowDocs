@@ -34,7 +34,7 @@ Launch a Stack
 
 </td><td>
 
-Open the service catalog of items that you can request. You request an item and, when your request is approved, the system launches the stack. See [Launch a stack](../task/cloudmgt-launch-stack.md).
+Open the service catalog of items that you can request. You request an item and, when your request is approved, the system launches the stack. See [Launch a stack](cloudmgt-launch-stack.md).
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ Manage Stacks
 
 </td><td>
 
-View the stacks assigned to you. See [Manage a stack](../task/cloudmgt-manage-stacks.md).
+View the stacks assigned to you. See [Manage a stack](cloudmgt-manage-stacks.md).
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ View Resources
 
 </td><td>
 
-Opens the Resource Details page to view details and status of a resource. See [Manage a resource](../task/cloudmgt-manage-resources.md).
+Opens the Resource Details page to view details and status of a resource. See [Manage a resource](cloudmgt-manage-resources.md).
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Pending Requests
 
 </td><td>
 
-When you submit a request for a stack, the **Activities** page displays the progress and status of the stack request, and a **Pending Requests** link and count appears. Click the link to view a summary of pending stack requests. See [Track a stack request](../task/cloudmgt-track-stack-request.md).
+When you submit a request for a stack, the **Activities** page displays the progress and status of the stack request, and a **Pending Requests** link and count appears. Click the link to view a summary of pending stack requests. See [Track a stack request](cloudmgt-track-stack-request.md).
 
 </td></tr></tbody>
 </table>**Important:** Starting with the Australia release, the Current Month Spend and Budget widgets are deprecated for non domain-separated instances.
@@ -142,7 +142,7 @@ Catalog
 
 </td><td>
 
-View the Service Catalog of items that you can request to launch stacks. When you select a **Service Category** \(VM, Compute, Network, Storage, and so on\), the **All Items** section lists the items in the selected category. Click **Launch** to request an item. See [Launch a stack](../task/cloudmgt-launch-stack.md).
+View the Service Catalog of items that you can request to launch stacks. When you select a **Service Category** \(VM, Compute, Network, Storage, and so on\), the **All Items** section lists the items in the selected category. Click **Launch** to request an item. See [Launch a stack](cloudmgt-launch-stack.md).
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ Stacks
 
 </td><td>
 
-Lists all stacks that are assigned to you. Select a catalog item to view the stacks that the item launches. Click a stack to view details—all resources, resource properties, activities, and life cycle operations. See [Manage a stack](../task/cloudmgt-manage-stacks.md).
+Lists all stacks that are assigned to you. Select a catalog item to view the stacks that the item launches. Click a stack to view details—all resources, resource properties, activities, and life cycle operations. See [Manage a stack](cloudmgt-manage-stacks.md).
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ Resources
 
 </td><td>
 
-Lists individual resources of the provisioned stacks that are assigned to you, regardless of who requested the stack. See [Manage a resource](../task/cloudmgt-manage-resources.md).
+Lists individual resources of the provisioned stacks that are assigned to you, regardless of who requested the stack. See [Manage a resource](cloudmgt-manage-resources.md).
 
 </td></tr><tr><td>
 

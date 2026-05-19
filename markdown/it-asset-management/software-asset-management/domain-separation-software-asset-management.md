@@ -62,7 +62,7 @@ To learn more, see [Domain separation explained](https://raw.githubusercontent.c
 -   **[Domain separation and lifecycle reports](domain-sep-sam-lifecycle.md)**  
 There are certain domain separation aspects to consider when running software lifecycle reports.
 
-**Parent Topic:**[Software Asset Management references](../reference/references.md)
+**Parent Topic:**[Software Asset Management references](references.md)
 
 **Related topics**  
 

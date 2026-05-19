@@ -162,7 +162,7 @@ If you want to activate Virtual Agent also with NLU, then activate the following
 
 **Note:** The HR Service Delivery NLU Models in the Dutch, Chinese and Brazilian Portuguese languages do not support entity extraction \(intent matching and entity recognition\).
 
-When an employee opens an HR case using Virtual Agent for HR Service Delivery, the **Source** field on the HR case is **Virtual Agent**. For more information, see [Work an HR case](../task/t_CreateAnHRCase.md).
+When an employee opens an HR case using Virtual Agent for HR Service Delivery, the **Source** field on the HR case is **Virtual Agent**. For more information, see [Work an HR case](t_CreateAnHRCase.md).
 
 ### Procedure
 

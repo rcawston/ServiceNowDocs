@@ -19,7 +19,7 @@ Use the CrowdStrike Falcon Insight integration to leverage the CrowdStrike Falco
 
 Role required: sn\_si.admin
 
-Before you use CrowdStrike Falcon Insight integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Getting started with the CrowdStrike Falcon Insight integration](../concept/get-started-with-the-crowdstrike-falcon-insight-integration.md).
+Before you use CrowdStrike Falcon Insight integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Getting started with the CrowdStrike Falcon Insight integration](get-started-with-the-crowdstrike-falcon-insight-integration.md).
 
 ## About this task
 

@@ -47,7 +47,7 @@ If ACC is already connected to one instance, you can switch the agent to another
     -   `AMER: itomcnc-prod-gateway-amer.sncapps.service-now.com:443`
     -   `EMEA: itomcnc-prod-gateway-emea.sncapps.service-now.com:443`
     -   `APAC: itomcnc-prod-gateway-apac.sncapps.service-now.com:443`
-    For more information on how the Agent uses the ITOM Cloud Services Gateway, see [DEX Architecture](../concept/dex-architecture.md).
+    For more information on how the Agent uses the ITOM Cloud Services Gateway, see [DEX Architecture](dex-architecture.md).
 
 4.  Update the following parameters:
 
@@ -88,5 +88,5 @@ If ACC is already connected to one instance, you can switch the agent to another
     -   On Windows, open Services as Administrator, then start Agent Client Collector.
     -   On macOS, use the command: `sudo launchctl load -w /Library/LaunchDaemons/com.sn.acc.plist`.
 
-**Parent Topic:**[Advanced configuration](../concept/dex-advanced-configuration.md)
+**Parent Topic:**[Advanced configuration](dex-advanced-configuration.md)
 

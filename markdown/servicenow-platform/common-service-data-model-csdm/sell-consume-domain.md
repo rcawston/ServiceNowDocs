@@ -72,7 +72,7 @@ You can represent business services and business service offerings as catalog it
 
 A business service is associated with business users and is typically layered beneath one or more business capabilities. A business service can contain one or more business service offerings.
 
-Business consumers can use the request catalog to order business services, business service offerings, and service commitment levels. Catalogs are described in detail in [Service Catalog](../../service-catalog-management/concept/service-catalog.md). Business services are mapped to the cmdb\_ci\_service\_business table and are classified as “business services.”
+Business consumers can use the request catalog to order business services, business service offerings, and service commitment levels. Catalogs are described in detail in [Service Catalog](../service-catalog/service-catalog.md). Business services are mapped to the cmdb\_ci\_service\_business table and are classified as “business services.”
 
 ## Service portfolios
 
@@ -85,7 +85,7 @@ A service portfolio is a hierarchical collection of business services, products,
 
 ## Catalogs
 
-A request catalog enables consumers to order and manage business and technical products, services, service commitment options, and offerings \(for example, the Human Resources \[HR\] service catalog\). Catalogs contain catalog items and are the starting point for consumers to access available services. Catalogs are described in [Service Catalog](../../service-catalog-management/concept/service-catalog.md).
+A request catalog enables consumers to order and manage business and technical products, services, service commitment options, and offerings \(for example, the Human Resources \[HR\] service catalog\). Catalogs contain catalog items and are the starting point for consumers to access available services. Catalogs are described in [Service Catalog](../service-catalog/service-catalog.md).
 
 **Catalog Item**
 

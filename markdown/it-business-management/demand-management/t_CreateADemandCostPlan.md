@@ -27,7 +27,7 @@ The cost plan breakdowns that specify the estimated cost and actual cost at a gr
 
 If you want to use multiple currencies, create a cost plan for another currency.
 
-If you’re creating benefit plan for a demand with the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin activated and Demand Currency view enabled, the fields in the **Financials** section differ from the Default view. For more information about the fields that are available only in the Demand Currency view, see [Multicurrency fields in demand-related forms](../reference/multicurrency-fields-demand.md).
+If you’re creating benefit plan for a demand with the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin activated and Demand Currency view enabled, the fields in the **Financials** section differ from the Default view. For more information about the fields that are available only in the Demand Currency view, see [Multicurrency fields in demand-related forms](multicurrency-fields-demand.md).
 
 ## Procedure
 
@@ -43,9 +43,9 @@ If you’re creating benefit plan for a demand with the PPM Standard Multicurren
     -   To update the details of an existing cost plan, select the record and then select **Manage**.
 5.  In the cost plan form, fill in the fields.
 
-    For a description of the field names, see [Cost plan form](../reference/demand-plan-form.md).
+    For a description of the field names, see [Cost plan form](demand-plan-form.md).
 
-    **Note:** When you change the planned start date of a demand, the associated cost plans and resource assignments also change. The [project property](../../project-management/reference/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** controls the behavior for demand date change.
+    **Note:** When you change the planned start date of a demand, the associated cost plans and resource assignments also change. The [project property](../project-management/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** controls the behavior for demand date change.
 
 6.  Select **Submit**.
 

@@ -118,7 +118,7 @@ The configuration URL for Palo Alto Networks is automatically generated and disp
     The EDLs are displayed on the Palo Alto Networks EDLs.
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](palo-alto-networks-integration.md)
 
 **Related topics**  
 

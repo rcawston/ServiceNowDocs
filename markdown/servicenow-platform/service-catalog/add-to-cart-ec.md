@@ -80,7 +80,7 @@ Role required: requester
     The corresponding request is displayed in the My Requests page with the request number, estimated delivery date for the entire order, price, and the order status of individual ordered items.
 
 
-**Parent Topic:**[Service Catalog in Employee Center portal](../concept/service-catalog-in-ec.md)
+**Parent Topic:**[Service Catalog in Employee Center portal](service-catalog-in-ec.md)
 
 **Related topics**  
 

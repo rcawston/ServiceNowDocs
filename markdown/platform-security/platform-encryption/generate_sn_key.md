@@ -21,7 +21,7 @@ Role required: sn\_kmf.cryptographic\_manager
 
 ## About this task
 
-Cryptographic managers have the choice to use ServiceNow supplied keys or their own customer-supplied keys \(CSK\) for encryption on the ServiceNow AI Platform with Field Encryption Enterprise. For information on CSK, see [Configure properties for customer-supplied keys](../../encryption/concept/customer-supplied-keys.md).
+Cryptographic managers have the choice to use ServiceNow supplied keys or their own customer-supplied keys \(CSK\) for encryption on the ServiceNow AI Platform with Field Encryption Enterprise. For information on CSK, see [Configure properties for customer-supplied keys](../customer-supplied-keys.md).
 
 ## Procedure
 
@@ -43,7 +43,7 @@ Cryptographic managers have the choice to use ServiceNow supplied keys or their 
 
 6.  Select **Servicenow** in the Origin field.![Servicenow key origin in the crypto spec.](../image/cryptospec-sn-keyorigin.png)
 
-    This field varies based on the field encryption settings from Step 1 and the algorithm selected. To use an imported key, see [Import the wrapping / unwrapping key pair](../concept/import-key-webservice-1.md#). See [Configure properties for customer-supplied keys](../../encryption/concept/customer-supplied-keys.md) if you’re using your own key.
+    This field varies based on the field encryption settings from Step 1 and the algorithm selected. To use an imported key, see [Import the wrapping / unwrapping key pair](import-key-webservice-1.md#). See [Configure properties for customer-supplied keys](../customer-supplied-keys.md) if you’re using your own key.
 
 7.  Enter a friendly name for the Key alias.
 
@@ -61,7 +61,7 @@ Cryptographic managers have the choice to use ServiceNow supplied keys or their 
 
 11. Select a key to perform key management actions.
 
-    See [Key management actions](../reference/key-management-actions.md) for details.
+    See [Key management actions](key-management-actions.md) for details.
 
 
 **Parent Topic:**[Create a cryptographic module](create-cryptographic-module.md)

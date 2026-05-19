@@ -36,7 +36,7 @@ The SCOM connector instance requires configuration before receiving alerts and M
 Configure the Microsoft System Center Operations Manager \(SCOM\) connector instance to receive alerts and Metric Intelligence raw data from the SCOM server.
 -   **[Limit collected SCOM alerts to specific SCOM groups](t_EMAssignRoleSCOMGroup.md)**  
 Limit the collection of SCOM alerts to only those alerts that belong to the specified SCOM group.
--   **[SCOM metric event rules](../concept/scom-event-rules.md)**  
+-   **[SCOM metric event rules](scom-event-rules.md)**  
 The base system comes with Microsoft System Center Operations Manager \(SCOM\) metric event rules. SCOM metric event rules bind event metrics to configuration items \(CIs\).
 
 **Parent Topic:**[Configure a pull connector](t_EMConfigureConnectorInstance.md)

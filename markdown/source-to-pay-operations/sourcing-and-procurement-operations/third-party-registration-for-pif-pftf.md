@@ -29,5 +29,5 @@ Navigate to **All** &gt; **Procurement Integrations** &gt; **Setup** &gt; **Thir
 |Import shipment|Supplier is allowed to import shipments.|
 |Allow multi location order|Supplier allows orders to be split for multi-location shipping.|
 
-**Parent Topic:**[Procurement File Transfer Framework](../concept/procurement-file-transfer-framework.md)
+**Parent Topic:**[Procurement File Transfer Framework](procurement-file-transfer-framework.md)
 

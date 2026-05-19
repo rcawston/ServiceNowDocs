@@ -106,5 +106,5 @@ Dynamic filter conditions for the defined recipients.The dynamic condition is ap
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](configuring-va-notifications.md)
 

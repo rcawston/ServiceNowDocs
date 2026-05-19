@@ -36,5 +36,5 @@ Any user that you want to add to the assignment group must have the scrum\_user 
 
 The selected scrum user is listed in the Group Members related list.
 
-**Parent Topic:**[Assignment groups in Agile Development 2.0](../concept/manage-groups-agile-dev.md)
+**Parent Topic:**[Assignment groups in Agile Development 2.0](manage-groups-agile-dev.md)
 

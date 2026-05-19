@@ -19,5 +19,5 @@ Display topic-related information to your users through cards displayed on your 
 
 ![The Portal Taxonomy Topic widget displaying different services and resources as taxonomy topics.](../image/port-taxo-topic.png "Portal Taxonomy Topic widget")
 
-For more information, see [Add and configure the Portal Taxonomy Topic widget](../task/add-conf-port-taxo-topic.md).
+For more information, see [Add and configure the Portal Taxonomy Topic widget](add-conf-port-taxo-topic.md).
 

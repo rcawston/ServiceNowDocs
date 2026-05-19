@@ -52,5 +52,5 @@ Role required: sn\_si.analyst
     3.  Select **Send** to share the report over email.
 
 
-**Parent Topic:**[Reports in Security Incident Response](../concept/report-templates-sir.md)
+**Parent Topic:**[Reports in Security Incident Response](report-templates-sir.md)
 

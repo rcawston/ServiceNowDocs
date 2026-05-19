@@ -43,15 +43,15 @@ Agentic evaluations can be run in non-production environments and don't require 
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Evaluate specific versions of agentic AI assets for quality|[Execute an evaluation run](evaluating-aia.md)|Agent builders|
-|Set your own standards for agentic AI responses and performance|[Custom metrics](../task/create-custom-metric.md)|Agent builders, Platform administrators, AI leads, and architects|
-|Track evaluations as they progress|[In-progress results](../task/track-aia-eval-progress.md)|Agent builders|
-|Identify issues and trace them back to the source|[Evaluation outputs](../task/review-aia-eval-outputs.md)|Agent builders, AI leads, AI architects|
-|Optimize agentic AI assets based on evaluation results|[System-generated optimization recommendations](../task/aia-eval-apply-optimization.md)|Agent builders|
+|Set your own standards for agentic AI responses and performance|[Custom metrics](create-custom-metric.md)|Agent builders, Platform administrators, AI leads, and architects|
+|Track evaluations as they progress|[In-progress results](track-aia-eval-progress.md)|Agent builders|
+|Identify issues and trace them back to the source|[Evaluation outputs](review-aia-eval-outputs.md)|Agent builders, AI leads, AI architects|
+|Optimize agentic AI assets based on evaluation results|[System-generated optimization recommendations](aia-eval-apply-optimization.md)|Agent builders|
 
 ## What to explore next
 
 To learn more about configuring and using agentic evaluations, see:
 
 -   [Evaluating agentic AI assets](evaluating-aia.md)
--   [Reference for agentic evaluations](../reference/ref-aia-eval.md)
+-   [Reference for agentic evaluations](ref-aia-eval.md)
 

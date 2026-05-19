@@ -23,8 +23,8 @@ After creating a de-duplication template, you must publish the draft template to
 
 Role required:
 
--   To access the [Management view in CMDB Workspace](../concept/cmdb-workspace-mangmnt-view.md) to perform de-duplication tasks, sn\_cmdb\_admin
--   To access the [Governance view in Service Graph Workspace](../concept/sg-workspace-governance-view.md) to perform de-duplication tasks: sn\_cmdb\_editor or sn\_cmdb\_admin
+-   To access the [Management view in CMDB Workspace](cmdb-workspace-mangmnt-view.md) to perform de-duplication tasks, sn\_cmdb\_admin
+-   To access the [Governance view in Service Graph Workspace](sg-workspace-governance-view.md) to perform de-duplication tasks: sn\_cmdb\_editor or sn\_cmdb\_admin
 -   To perform this task, cmdb\_dedup\_admin or any role containing cmdb\_dedup\_admin \(such as sn\_cmdb\_admin\)
 
 ## About this task
@@ -58,5 +58,5 @@ An unpublished template is set back into draft mode:
 -   Is no longer available on the De-duplication templates page and can't be selected for remediation.
 -   Can be edited or retired.
 
-**Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](../concept/dedup-ci-exp-cmdb-workspace.md)
+**Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](dedup-ci-exp-cmdb-workspace.md)
 

@@ -29,7 +29,7 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
     -   **Stages**: groups data by the stage, which identifies when the transaction took place.
     -   **Components**: groups data by the component in the system that was involved in the transaction.
     -   **Steps**: groups data by the step, which is the descriptive step associated with a stage and component.
-    See [The Cloud Orchestration Trail](../concept/cloud-orch-trail.md) for a list of possible steps.
+    See [The Cloud Orchestration Trail](cloud-orch-trail.md) for a list of possible steps.
 
     Requests are also broken down by requester in the bar chart below. Stacks are broken down by datacenters.
 
@@ -45,7 +45,7 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
 3.  Click any Cloud Orchestration API **Number** to view that specific record.
 
-    See [The Cloud Orchestration Trail](../concept/cloud-orch-trail.md) for field descriptions.
+    See [The Cloud Orchestration Trail](cloud-orch-trail.md) for field descriptions.
 
 4.  To view reports about the Cloud API Trail, click the **Cloud API Dashboard** tab.
 
@@ -59,6 +59,6 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
 5.  Click any the data in the graphs to open the matching Cloud API Trail records.
 
-    See [The Cloud API Trail](../concept/cloud-api-trail.md#) for descriptions of the Cloud API Trail form fields.
+    See [The Cloud API Trail](cloud-api-trail.md#) for descriptions of the Cloud API Trail form fields.
 
 

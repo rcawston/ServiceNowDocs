@@ -44,21 +44,21 @@ Create actionable push notifications using the following process:
 6.  Create a standard notification on your instance using the platform notifications.
 
 
--   **[Create an actionable push notification](../task/actionable-push-notification-1.md)**  
+-   **[Create an actionable push notification](actionable-push-notification-1.md)**  
 Create a push notification your users will see on their mobile devices.
--   **[Actionable push notification script example](../reference/actionable-push-notification-1a.md)**  
+-   **[Actionable push notification script example](actionable-push-notification-1a.md)**  
 You can use this JSON script example to configure an actionable push notification for ServiceNow® mobile apps.
--   **[Add a push action category](../task/actionable-push-notification-2.md)**  
+-   **[Add a push action category](actionable-push-notification-2.md)**  
 Select a push category to determine what actions your users can take in a notification. This category defines which actions your users can take when viewing a notification.
--   **[Create a push action](../task/actionable-push-notification-2-3.md)**  
+-   **[Create a push action](actionable-push-notification-2-3.md)**  
 Create push actions to suit your needs, when the base system actions do not meet your requirements.
--   **[Create functions for each push action](../task/actionable-push-notification-3.md)**  
+-   **[Create functions for each push action](actionable-push-notification-3.md)**  
 Create mobile function for each function in the selected action category. These actions perform tasks on your instance based on what the user selects in the notification.
--   **[Map functions with push actions on the actionable push notification](../task/actionable-push-notification-4.md)**  
+-   **[Map functions with push actions on the actionable push notification](actionable-push-notification-4.md)**  
 Associate functions to the actions in your notification so the instance uses the correct function for each action.
--   **[Create push message content](../task/actionable-push-notification-5.md)**  
+-   **[Create push message content](actionable-push-notification-5.md)**  
 Create a record to determine what information the notification displays to your users.
--   **[Create a standard notification](../task/actionable-push-notification-6.md)**  
+-   **[Create a standard notification](actionable-push-notification-6.md)**  
 Create a standard notification on your instance using the platform notifications.
 
 **Parent Topic:**[Mobile push notifications](sg-mobile-push-notifications.md)

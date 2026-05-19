@@ -58,11 +58,11 @@ The following example shows a generated comparison graph for two different analy
 
 [Set up analysis contexts and analyses](set-up-scenarios.md)
 
-[Create an analysis context](../task/create-an-analysis-context.md)
+[Create an analysis context](create-an-analysis-context.md)
 
-[Create an analysis](../task/create-a-scenario-analysis.md)
+[Create an analysis](create-a-scenario-analysis.md)
 
-[Adjust parameters](../task/create-a-forecast-intervention.md)
+[Adjust parameters](create-a-forecast-intervention.md)
 
-[Create a forecast comparison graph](../task/create-forecast-comparison.md)
+[Create a forecast comparison graph](create-forecast-comparison.md)
 

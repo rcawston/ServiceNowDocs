@@ -53,7 +53,7 @@ The GovNotify spoke provides actions to automate tasks when events occur in your
 
 ## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -91,5 +91,5 @@ The GovNotify spoke adds the GovNotify Spoke application to your instance and in
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the GovNotify spoke](../task/govnotify-setup.md).
+For information about setting up the spoke, see [Set up the GovNotify spoke](govnotify-setup.md).
 

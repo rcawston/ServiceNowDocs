@@ -30,15 +30,15 @@ The Recruitment workspace application provides recruiters with a centralized pla
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Create a job requisition and move it easily through the process.|[Create a job requisition as a recruiter](../task/request-job-hiring.md)|Recruiter|
-|Add detailed job description to job requisitions.|[Add a job description to a requisition](../task/add-job-description.md)|Recruiter|
+|Create a job requisition and move it easily through the process.|[Create a job requisition as a recruiter](request-job-hiring.md)|Recruiter|
+|Add detailed job description to job requisitions.|[Add a job description to a requisition](add-job-description.md)|Recruiter|
 |View and track the job requisitions to manage your work better. Reach out to the applicants to engage with them.|[Track a job requisition in the Recruitment workspace](job-req-details-re-workspace.md)|Recruiter|
 |Add, edit, or remove members from the hiring team.|[Manage hiring team](manage-hiring-team.md#)|Recruiter|
-|Move the job requisitions easily through the process of hiring.|[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)|Recruiter|
+|Move the job requisitions easily through the process of hiring.|[Manage the job requisitions as a recruiter](manage-job-reqs.md)|Recruiter|
 |View and track the applications on a job requisition and the associated details.|[Tracking an application in the Recruitment workspace](application-record-details-re-workspace.md)|Recruiter|
-|Collaborate effectively with the hiring manager. Help the hiring manager with creating an accurate job description.|[Collaborate with the hiring manager](../task/collab-hiring-manager.md)|Recruiter|
-|Send emails to applicant from a job requisition.|[Send an email from a job requisition](../task/send-email-to-applicants.md)|Recruiter|
-|View the KPI dashboard to analyze key metrics.|[View the Talent Acquisition Dashboard](../task/access-kpi-ta.md)|Recruiter|
+|Collaborate effectively with the hiring manager. Help the hiring manager with creating an accurate job description.|[Collaborate with the hiring manager](collab-hiring-manager.md)|Recruiter|
+|Send emails to applicant from a job requisition.|[Send an email from a job requisition](send-email-to-applicants.md)|Recruiter|
+|View the KPI dashboard to analyze key metrics.|[View the Talent Acquisition Dashboard](access-kpi-ta.md)|Recruiter|
 
 ## What to explore next
 

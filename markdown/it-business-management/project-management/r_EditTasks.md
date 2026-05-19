@@ -80,5 +80,5 @@ To change a user resource for an existing task or add a resource to a new task, 
 </td></tr></tbody>
 </table>The Project Management application provides several properties that control how tasks are calculated and behave. See [Project property](r_InstalledWithProjectManagement.md#project_application_properties) for more information.
 
-**Parent Topic:**[Gantt chart](../concept/c_GanttChart.md)
+**Parent Topic:**[Gantt chart](c_GanttChart.md)
 

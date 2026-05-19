@@ -19,9 +19,9 @@ The life cycle is controlled through business rules and UI actions that are upda
 
 -   **[State flow customization](c_StateFlowCustomization.md)**  
 State flows control the sequence in which records transition between states in Service Management applications.
--   **[State flow example](../task/t_StateFlowExample.md)**  
+-   **[State flow example](t_StateFlowExample.md)**  
 Your business processes might require work order tasks to be accepted automatically when dispatched to an agent.
--   **[Implications of disabling SM state flows](../../planning-and-policy/concept/c_ImpDsblStFl.md)**  
+-   **[Implications of disabling SM state flows](c_ImpDsblStFl.md)**  
 State flows are used by SM applications to control how a work order or request automatically transitions from one state to the next. When state flows are disabled, various aspects of the ServiceNow system are also changed, as described here.
 
 **Parent Topic:**[Service Management](c_ServiceManagement.md)

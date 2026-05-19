@@ -346,7 +346,7 @@ Retrieves the user account ID of user.**Note:** This action works only for Jira 
 </td></tr></tbody>
 </table>## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -375,5 +375,5 @@ Integration Hub uses aliases to manage connection and credential information. Us
 
 
 
-For information about setting up the spoke, see [Set up the Jira Service Management spoke](../task/setup-jira-serv-mgmt.md#).
+For information about setting up the spoke, see [Set up the Jira Service Management spoke](setup-jira-serv-mgmt.md#).
 

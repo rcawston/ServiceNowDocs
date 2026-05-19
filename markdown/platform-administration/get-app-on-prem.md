@@ -23,7 +23,7 @@ Role required: none
 
 If your on-premise instance isn't connected to the internet or to the ServiceNow Store, you can download encrypted applications to use on your instance. Procure and download the application using a computer with internet access, then transfer the necessary files to your instance.
 
-If your on-premise instance has been connected to the ServiceNow Store, refer to [Getting apps and trials from the ServiceNow Store](../concept/getting-apps-trials.md) instead.
+If your on-premise instance has been connected to the ServiceNow Store, refer to [Getting apps and trials from the ServiceNow Store](getting-apps-trials.md) instead.
 
 **Important:** You must repeat this process for each instance you want to upload the app to.
 
@@ -31,8 +31,8 @@ If your on-premise instance has been connected to the ServiceNow Store, refer to
 
 1.  From a computer with internet access, log in to the ServiceNow Store and procure the app.
 
-    -   For more details about procuring apps from the commercial ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](../concept/getting-apps-trials.md).
-    -   For more details about procuring apps in a regulated environment, see [Using the ServiceNow Store in a regulated environment](../concept/using-regulated-store.md).
+    -   For more details about procuring apps from the commercial ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](getting-apps-trials.md).
+    -   For more details about procuring apps in a regulated environment, see [Using the ServiceNow Store in a regulated environment](using-regulated-store.md).
 2.  From the app listing details on the ServiceNow Store, select **Manage Entitlements** to confirm that all of your instances have been entitled.
 
 3.  Select **On-prem Download**.

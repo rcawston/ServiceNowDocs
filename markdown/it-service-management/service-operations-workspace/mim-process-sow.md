@@ -41,7 +41,7 @@ The Major Incident Management process can be classified in the following phases.
 
     You can define one or more communication plans based on the communication type, the priority of the incident, and the target audience of the major incident. Throughout the life cycle of the major incident, notifications and status updates are sent to the stakeholders to keep them informed and involved.
 
-    Along with communications, effective collaboration with IT teams and other business stakeholders is also important when resolving a major incident. You can use communication channels, such as Microsoft Teams conference calls, to collaborate and work toward issue resolution. The Incident record page in Service Operations Workspace provides various controls for collaboration. For more information, see [Collaborate with stakeholders during a major incident](../task/collaborate-stakeholders-mim-sow.md).
+    Along with communications, effective collaboration with IT teams and other business stakeholders is also important when resolving a major incident. You can use communication channels, such as Microsoft Teams conference calls, to collaborate and work toward issue resolution. The Incident record page in Service Operations Workspace provides various controls for collaboration. For more information, see [Collaborate with stakeholders during a major incident](collaborate-stakeholders-mim-sow.md).
 
 -   **Resolution**
 

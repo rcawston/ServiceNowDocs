@@ -42,7 +42,7 @@ When you navigate to Now Assist Center, the home page displays the use cases mos
 
 -   Select **Activate** to start a guided setup conversation in the Now Assist panel. The panel describes the solution, confirms the current state, and asks you to confirm before making any change.
 
-    **Important:** Now Assist panel must be enabled to activate the use cases. Actionable use cases work with the Now Assist panel to guide you through the setup in a chat conversation. For more information, see [Enable the Now Assist panel](../task/now-assist-center-enable-now-assist-panel.md).
+    **Important:** Now Assist panel must be enabled to activate the use cases. Actionable use cases work with the Now Assist panel to guide you through the setup in a chat conversation. For more information, see [Enable the Now Assist panel](now-assist-center-enable-now-assist-panel.md).
 
 -   Select **Dismiss** to permanently remove a card.
 
@@ -51,9 +51,9 @@ When you navigate to Now Assist Center, the home page displays the use cases mos
 
 After you successfully activate a solution, the card disappears from the home page and a confirmation message appears at the top of the workspace. The activated solution appears in the Recently activated AI section of the home page, where you can monitor its performance.
 
--   **[Install and configure essential Now Assist plugins using Now Assist Center](../task/install-configure-essential-now-assist-plugins.md)**  
+-   **[Install and configure essential Now Assist plugins using Now Assist Center](install-configure-essential-now-assist-plugins.md)**  
 Install the Now Assist plugins required to enable AI solutions on your instance before activating use cases.
--   **[Activate an actionable use case in Now Assist Center](../task/activate-solution-now-assist-center.md)**  
+-   **[Activate an actionable use case in Now Assist Center](activate-solution-now-assist-center.md)**  
 Activate a Now Assist solution from an actionable use case card on the Now Assist Center home page.
 
 **Parent Topic:**[Using Now Assist Center](using-now-assist-center.md)

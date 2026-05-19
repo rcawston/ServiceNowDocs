@@ -22,5 +22,5 @@ Specify the default MID Server in either of these locations:
 
 These two values are automatically kept in synch. You can change the default MID Server in either location.
 
-**Parent Topic:**[MID Servers for Orchestration](../../orchestration/concept/c_OrchestrationMID.md)
+**Parent Topic:**[MID Servers for Orchestration](c_OrchestrationMID.md)
 

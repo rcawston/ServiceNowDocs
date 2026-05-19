@@ -20,7 +20,7 @@ Product capability refers to specific features or functions that a product offer
 ## Before you begin
 
 -   Role required: sn\_acct\_lc.customer\_success\_application\_admin
--   Product and capability usage records must already be present. See [Product and capability usage records](../concept/account-lifecycle-prod-usage-data-model.md).
+-   Product and capability usage records must already be present. See [Product and capability usage records](account-lifecycle-prod-usage-data-model.md).
 
 ## Procedure
 
@@ -143,11 +143,11 @@ The availability date for this capability.
 
 7.  Select **Submit**.
 
-    You can view the product and capability usage scores in the Engagement home page. See [View product usage and capability data](../concept/account-lifecycle-prod-cap-usage.md)
+    You can view the product and capability usage scores in the Engagement home page. See [View product usage and capability data](account-lifecycle-prod-cap-usage.md)
 
 
--   **[Product and capability usage records](../concept/account-lifecycle-prod-usage-data-model.md)**  
+-   **[Product and capability usage records](account-lifecycle-prod-usage-data-model.md)**  
 The product and capability usage records are automatically created and updated when changes occur in sold product configurations, capability mappings, or in the data context engine.
 
-**Parent Topic:**[Customer success](../concept/account-lifecycle-config-cust-success.md)
+**Parent Topic:**[Customer success](account-lifecycle-config-cust-success.md)
 

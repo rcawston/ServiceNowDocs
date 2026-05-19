@@ -19,10 +19,10 @@ A variety of variables are available to fine-tune the approval process, includin
 
 **Note:** Conflicts can arise when the approval process for a table is managed by both the Workflow Studio engine and the approval engine. In general, if there is a Workflow Studio flow that manages the approval process for a table, the [approval engine](c_ApprovalEngines.md) should be turned off for that table.
 
-**Parent Topic:**[Classic approvals](../reference/r_Approvals.md)
+**Parent Topic:**[Classic approvals](r_Approvals.md)
 
 **Related topics**  
 
 
-[Classic approvals](../reference/r_Approvals.md)
+[Classic approvals](r_Approvals.md)
 

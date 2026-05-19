@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 ## About this task
 
-For information about the types and functions of log correlators, see [Identifying related alerts in log data by using log correlators in Health Log Analytics](../concept/hla-op-correlator-what-is-a.md).
+For information about the types and functions of log correlators, see [Identifying related alerts in log data by using log correlators in Health Log Analytics](hla-op-correlator-what-is-a.md).
 
 ## Procedure
 
@@ -64,10 +64,10 @@ The Log correlators related list displays the list of existing log correlators t
 </td></tr></tbody>
 </table>2.  Fill in the Log correlator form.
 
-    For a description of the fields, see [Log correlators form fields](../reference/hla-log-correlators-form-ref.md).
+    For a description of the fields, see [Log correlators form fields](hla-log-correlators-form-ref.md).
 
 3.  Select **Active** and then click **Submit**.
 
 
-**Parent Topic:**[Identifying related alerts in log data by using log correlators in Health Log Analytics](../concept/hla-op-correlator-what-is-a.md)
+**Parent Topic:**[Identifying related alerts in log data by using log correlators in Health Log Analytics](hla-op-correlator-what-is-a.md)
 

@@ -28,5 +28,5 @@ Role required: admin or survey\_admin
 2.  Follow the steps in [Import data from XML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/import-xml-file.md) to import the assessment.
 
 
-**Parent Topic:**[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+**Parent Topic:**[Sharing surveys](c_SurveyInportAndExport.md)
 

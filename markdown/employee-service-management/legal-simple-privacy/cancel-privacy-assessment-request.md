@@ -40,7 +40,7 @@ Role required: sn\_lg\_ops.legal\_user
     Any associated active flows are terminated. Any pending approval record is also canceled and a comment is posted in the Additional Comments section of the approval record.
 
 
-**Parent Topic:**[Privacy assessment requests](../concept/privacy-assessment-requests.md)
+**Parent Topic:**[Privacy assessment requests](privacy-assessment-requests.md)
 
 **Related topics**  
 

@@ -37,7 +37,7 @@ Role required: assessment\_admin or admin
 **Related topics**  
 
 
-[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 [Create a category user](t_CreateACategoryUser.md)
 

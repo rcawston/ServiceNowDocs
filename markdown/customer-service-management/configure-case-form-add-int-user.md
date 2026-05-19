@@ -21,7 +21,7 @@ Role required: csm\_guided\_setup\_user or admin
 
 The **Internal User** field displays the name of an internal user. When an agent is creating a case on behalf of someone else, they can use this field to identify the person requesting assistance. This user can be an internal employee asking for help for an account, consumer, or service organization, or for themselves.
 
-With the Customer Service Management plugin \(com.sn\_customerservice\), agents can create cases for internal employees or on behalf of their accounts and consumers. Additional plugins provide additional functionality for the **Internal User** field. For more information, see [Contributor users](../concept/customer-service-contributor-users.md).
+With the Customer Service Management plugin \(com.sn\_customerservice\), agents can create cases for internal employees or on behalf of their accounts and consumers. Additional plugins provide additional functionality for the **Internal User** field. For more information, see [Contributor users](customer-service-contributor-users.md).
 
 ## Procedure
 

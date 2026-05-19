@@ -162,7 +162,7 @@ Security incidents, if enabled, providing insights into security breaches or iss
 
     Provides a hierarchical overview of the API relationships with its components, management platforms, business applications, and designs, making it easier to understand the API's role within the broader system architecture.In addition, provides the option to manage application service relationships. See [Managing application service relationships for APIs](api-insights-manage-serv-reln.md#).
 
-    A relationship map is a partial unified map similar to the one used in the CMDB Workspace. To open the unified map for APIs, select **Open full map** in the Relationship map section of the API details page. To learn more, see [Unified Map](../../configuration-management/concept/cmdb-workspace-unified-map.md).
+    A relationship map is a partial unified map similar to the one used in the CMDB Workspace. To open the unified map for APIs, select **Open full map** in the Relationship map section of the API details page. To learn more, see [Unified Map](../unified-map/cmdb-workspace-unified-map.md).
 
     ![API unified map](../image/api-insights-rel-map.png "Unified map for APIs")
 

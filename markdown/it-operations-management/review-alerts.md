@@ -45,7 +45,7 @@ When reviewing alerts, validate the following to ensure your event pipeline is h
 
     Express List opens with a list of active alerts.
 
-    **Note:** To get more information on alerts so you can more efficiently monitor systems and services,​ resolve alerts, evaluate the alert impact,​ track issues, and report incidents, see [Express List in the Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/express-list.md).
+    **Note:** To get more information on alerts so you can more efficiently monitor systems and services,​ resolve alerts, evaluate the alert impact,​ track issues, and report incidents, see [Express List in the Service Operations Workspace for ITOM](service-operations-workspace-for-itom-apps/express-list.md).
 
 5.  To complete the setup, select **Mark as configured**.
 

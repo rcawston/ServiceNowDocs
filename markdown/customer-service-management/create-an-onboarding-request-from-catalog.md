@@ -54,9 +54,9 @@ The system processes the request, creates the request and any other related reco
 **Related topics**  
 
 
-[Creating an onboarding case with Playbooks for Portals](../concept/create-an-onboarding-case-with-portal-playbook.md)
+[Creating an onboarding case with Playbooks for Portals](create-an-onboarding-case-with-portal-playbook.md)
 
-[Creating a guided onboarding case from CSM Configurable Workspace](../concept/create-a-guided-onboarding-case-from-workspace.md)
+[Creating a guided onboarding case from CSM Configurable Workspace](create-a-guided-onboarding-case-from-workspace.md)
 
 [Create an onboarding request from the service catalog](create-an-onboarding-request-from-catalog.md)
 

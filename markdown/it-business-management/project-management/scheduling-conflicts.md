@@ -47,7 +47,7 @@ When a scheduling conflict is identified, you can identify such tasks in the pla
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Change requests and project tasks](c_ChangeRequestsAndProjectTasks.md)
 
@@ -65,7 +65,7 @@ When a scheduling conflict is identified, you can identify such tasks in the pla
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 

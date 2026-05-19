@@ -17,13 +17,13 @@ Provide organizational leaders and supporters with access to Leader Hub by assig
 
 ## Before you begin
 
-You must create an active employee definition to generate employee profiles. For more information about this process, refer to [Create an active employee definition](../../employee-center/task/generate-profile-definition.md).
+You must create an active employee definition to generate employee profiles. For more information about this process, refer to [Create an active employee definition](../employee-experience-foundation/generate-profile-definition.md).
 
-You must enable the new employee details and design. For more information, see [Opt in to the employee profile](../../employee-center/task/profile-opt-in.md).
+You must enable the new employee details and design. For more information, see [Opt in to the employee profile](../employee-experience-foundation/profile-opt-in.md).
 
-You must provide employees of your organization with a license to enable access to Leader Hub. For more information about employee licensing, refer to [License Talent Development Core users](../../employee-service-management/task/egd-employee-profile-licensing.md).
+You must provide employees of your organization with a license to enable access to Leader Hub. For more information about employee licensing, refer to [License Talent Development Core users](../talent-development-core/egd-employee-profile-licensing.md).
 
-Define eligible users to show up in the org chart. For more information, see [Organization chart in Employee Center Pro](../../employee-center/concept/employee-profile-org-chart.md). Select **Employee Profile** in the **Table** field.
+Define eligible users to show up in the org chart. For more information, see [Organization chart in Employee Center Pro](../employee-experience-foundation/employee-profile-org-chart.md). Select **Employee Profile** in the **Table** field.
 
 Role required: admin \[sn\_egd\_lh.admin\]
 
@@ -64,5 +64,5 @@ Organizational leaders and supporters have the required role assigned to their u
 |Organizational leader|**All** &gt; **Leader Hub** &gt; **Leaders**|
 |Organizational supporter|**All** &gt; **Leader Hub** &gt; **Supporters**|
 
-**Parent Topic:**[Installing and configuring Leader Hub](../concept/td-lh-install-config.md)
+**Parent Topic:**[Installing and configuring Leader Hub](td-lh-install-config.md)
 

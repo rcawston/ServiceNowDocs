@@ -98,9 +98,9 @@ If the secondary bot is configured in asynchronous mode, enter `sn_va_bot_ic.va_
 6.  Click **Publish**.
 
 
-**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-sn-secondary-bot-with-sn-primary.md)
+**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)
 
 **Previous topic:**[Create an auth token in the ServiceNow secondary instance](create-auth-token-sn-secondary-instance.md)
 
-**Next topic:**[Enable live agent connection on the primary instance](../concept/enable-live-agent-connection-on-the-secondary-instance.md)
+**Next topic:**[Enable live agent connection on the primary instance](enable-live-agent-connection-on-the-secondary-instance.md)
 

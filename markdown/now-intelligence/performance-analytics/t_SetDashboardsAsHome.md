@@ -30,12 +30,12 @@ Role required: user.
 
 The functionality found in homepages, arranging information from your instance to tell a story about your data, is found in dashboards on new instances. On upgraded instances with Next Experience enabled, users can view existing homepages if they have a direct URL, but they can't create or edit them. Responsive dashboards and Analytics Overview dashboards take over homepage functionality.
 
-Use the [Homepage deprecation help tool](../concept/homepage-deprecation-help-tool.md) to convert the homepages on your instance to responsive dashboards.
+Use the [Homepage deprecation help tool](homepage-deprecation-help-tool.md) to convert the homepages on your instance to responsive dashboards.
 
 For more information, see:
 
--   [Dashboards in the Analytics Center](../../par-for-workspace/concept/analytics-center-dashboards.md).
--   [Working with responsive dashboards](../concept/c_ResponsiveDashboards.md).
+-   [Dashboards in the Analytics Center](../analytics-center-dashboards.md).
+-   [Working with responsive dashboards](c_ResponsiveDashboards.md).
 
 When dashboards are set as your **Home**, the most recently selected dashboard is always loaded. You cannot specify a dashboard as your **Home**. Mark a dashboard as a favorite to navigate to the dashboard easily.
 
@@ -58,5 +58,5 @@ When dashboards are set as your **Home**, the most recently selected dashboard i
 
 When you navigate to **Self-Service** &gt; **Dashboards** or select your company logo, the last dashboard you selected appears.
 
-**Parent Topic:**[Create and use dashboards](../concept/create-and-edit-dashboards.md)
+**Parent Topic:**[Create and use dashboards](create-and-edit-dashboards.md)
 

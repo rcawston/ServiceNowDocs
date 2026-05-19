@@ -40,10 +40,10 @@ You can assign a processing activity to a key stakeholder when the processing ac
 
 The processing activity is assigned to the key stakeholder. The processing activity is available for review and update in the Employee Center under **GRC tasks**.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 
 **Related topics**  
 
 
-[Integrating Employee Center and Risk portal with Privacy Management](../concept/integrate-privacy-and-employee-center.md)
+[Integrating Employee Center and Risk portal with Privacy Management](integrate-privacy-and-employee-center.md)
 

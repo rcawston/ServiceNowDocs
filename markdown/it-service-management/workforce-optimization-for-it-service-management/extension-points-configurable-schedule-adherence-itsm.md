@@ -21,7 +21,7 @@ To access the extension points, navigate to **System Extension Points** &gt; **S
 |--------------------|-----------|
 |sn\_shift\_planning.ScheduleAdherenceExtPt|Implement this extension point to customize the logic for schedule adherence and conformance.|
 
-**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](../concept/schedule-adherence-configurable-itsm.md)
+**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](schedule-adherence-configurable-itsm.md)
 
 **Related topics**  
 

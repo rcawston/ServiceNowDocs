@@ -44,5 +44,5 @@ Role required: sn\_privacy\_case.privacy\_case\_admin
 -   **[Define the workflow states for a privacy case](define-pcm-workflow-states.md)**  
 Define the workflow states for a privacy case that govern the lifecycle of the case.
 
-**Parent Topic:**[Configuring Privacy Case Management](../concept/configuring-privacy-case-management.md)
+**Parent Topic:**[Configuring Privacy Case Management](configuring-privacy-case-management.md)
 

@@ -21,7 +21,7 @@ For description of the field values, see the table.
 |-----|-----------|
 |Name|Name of the grid category.|
 |Code|Code for the grid category.|
-|Enable element context|Option to enable the element context for the grid category. For information on custom columns and grid configuration for BIA dependency groups in the BCM Configurable Workspace, see [Configure grid categories](../task/configure-grid-category.md).|
+|Enable element context|Option to enable the element context for the grid category. For information on custom columns and grid configuration for BIA dependency groups in the BCM Configurable Workspace, see [Configure grid categories](configure-grid-category.md).|
 
-**Parent Topic:**[Configure grid categories](../task/configure-grid-category.md)
+**Parent Topic:**[Configure grid categories](configure-grid-category.md)
 

@@ -30,5 +30,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode](../concept/use-servicenow-virtual-agent-as-a-secondary-bot-in-synchronous-or-asynchronous-mode_0.md)
+**Parent Topic:**[Use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode](use-servicenow-virtual-agent-as-a-secondary-bot-in-synchronous-or-asynchronous-mode_0.md)
 

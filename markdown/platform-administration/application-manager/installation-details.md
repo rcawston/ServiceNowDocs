@@ -64,13 +64,13 @@ Enables you to choose to complete installation now or later. If you choose to in
 
 When installing or updating an application or product, you might have dependencies that need to be procured from the ServiceNow Store.
 
-For more information about procuring applications and products from the ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](../../servicenow-store/concept/getting-apps-trials.md).
+For more information about procuring applications and products from the ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](../getting-apps-trials.md).
 
 ## Inactive plugins in dependencies
 
 Some plugins must be activated before they can be installed. Any plugins that must be activated before they can be installed are categorized as inactive plugins in the dependency list. Inactive plugins might not block installation of the plugin, application, or product that requires them, but could result in reduced functionality.
 
-For more information about how to activate plugins, see [ServiceNow plugins](../../plugins/concept/c_ServiceNowPlugins.md).
+For more information about how to activate plugins, see [ServiceNow plugins](../c_ServiceNowPlugins.md).
 
 **Parent Topic:**[Installing applications, plugins, and products](installing-apps-app-manager.md)
 

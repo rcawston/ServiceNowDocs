@@ -16,7 +16,7 @@ Plan and configure the implementation of the Model Risk Management application. 
 
 ## Configuration overview
 
-1.  [Install Model Risk Management](../task/install-mrm.md)
+1.  [Install Model Risk Management](install-mrm.md)
 
     Install the Model Risk Management application \(sn\_model\_risk\_mgmt\) with the admin role. The application installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 

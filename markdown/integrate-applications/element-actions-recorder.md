@@ -148,5 +148,5 @@ Image
 |SetText|Sets the specified text to the element.|
 |Uncheck|Clears a check box element.|
 
-**Parent Topic:**[Recording automations](../concept/recording-automations.md)
+**Parent Topic:**[Recording automations](recording-automations.md)
 

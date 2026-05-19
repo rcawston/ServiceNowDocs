@@ -21,9 +21,9 @@ Enterprise Portfolios enable you to roll up key metrics through each level of th
 
 Similar to personal portfolios, you can see performance snapshot information in enterprise portfolios. You don't have to own any solutions to view enterprise portfolios.
 
-Admins create enterprise portfolios. For more information, see [Create enterprise portfolios in Digital Portfolio Management](../task/dpm-create-enterprise-portfolios.md).
+Admins create enterprise portfolios. For more information, see [Create enterprise portfolios in Digital Portfolio Management](dpm-create-enterprise-portfolios.md).
 
-There are three enterprise service portfolio templates to help you get started: EDUCAUSE Higher Education IT Service Portfolio, IT Service Portfolio, and Sample Organizational Structure. For more information, see [Create enterprise service portfolios using a template](../task/dpm-create-enterprise-portfolio-using-template.md).
+There are three enterprise service portfolio templates to help you get started: EDUCAUSE Higher Education IT Service Portfolio, IT Service Portfolio, and Sample Organizational Structure. For more information, see [Create enterprise service portfolios using a template](dpm-create-enterprise-portfolio-using-template.md).
 
 ## Types of enterprise portfolios
 
@@ -51,7 +51,7 @@ The life-cycle stages for Service instance portfolios are Operational or Retired
 
 When viewing an enterprise portfolio, you can see the Needs attention details broken out by tabs at the bottom of the portfolio view. For example, in a business application portfolio, the Needs attention tabs include critical incidents, problems, outages, alerts, and tech risks.
 
-Admins can show or hide business applications in a portfolio based on its life-cycle stage. For more information, see [Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md).
+Admins can show or hide business applications in a portfolio based on its life-cycle stage. For more information, see [Configure the Digital Portfolio Management experience](dpm-configure-experience.md).
 
 -   **[DPM Portfolio Builder Overview](dpm-pb-overview.md)**  
 Enterprise portfolios are created directly in the DPM Portfolio Builder. Before May 2025, they were created using Service Portfolio Management tables. Enterprise portfolios for business applications and service instances were created from enterprise portfolio tables.
@@ -59,9 +59,9 @@ Enterprise portfolios are created directly in the DPM Portfolio Builder. Before 
 Navigate three types of enterprise portfolios in the Digital Portfolio Management \(DPM\) application — service, business applications, and service instance. The way to create a portfolio depends on the type. As of May 2025, Enterprise portfolios are created directly in DPM. Business application and Service instance portfolios are created using the enterprise portfolios tables in the DPM module in UI16.
 -   **[Navigate service enterprise portfolio templates in DPM](dpm-enterprise-portfolio-templates.md)**  
 Navigate three service enterprise portfolio templates: EDUCAUSE Higher Education IT Service Portfolio, IT Service Portfolio, and Sample Organizational Structure.
--   **[Create enterprise service portfolios using a template](../task/dpm-create-enterprise-portfolio-using-template.md)**  
+-   **[Create enterprise service portfolios using a template](dpm-create-enterprise-portfolio-using-template.md)**  
 Admins can create enterprise portfolios from scratch or by using a template. Enterprise portfolios are structured in a nesting tree format to facilitate navigation of service-related items and taxonomy nodes. Similar to personal portfolios, you can see key metrics to assess the portfolio performance.
--   **[Create enterprise portfolios in Digital Portfolio Management](../task/dpm-create-enterprise-portfolios.md)**  
+-   **[Create enterprise portfolios in Digital Portfolio Management](dpm-create-enterprise-portfolios.md)**  
 Admins create enterprise portfolios for business applications and service instances. Enterprise portfolios are structured in a nesting tree format to navigate service-related items and taxonomy nodes. Similar to personal portfolios, you can see metrics to assess the portfolio performance.
 
 **Parent Topic:**[Work with portfolios in Digital Portfolio Management](dpm-explore-portfolios.md)
@@ -69,7 +69,7 @@ Admins create enterprise portfolios for business applications and service instan
 **Related topics**  
 
 
-[Navigate enterprise portfolios in Digital Portfolio Management](../task/dpm-enterprise-portfolio.md)
+[Navigate enterprise portfolios in Digital Portfolio Management](dpm-enterprise-portfolio.md)
 
-[Create enterprise portfolios in Digital Portfolio Management](../task/dpm-create-enterprise-portfolios.md)
+[Create enterprise portfolios in Digital Portfolio Management](dpm-create-enterprise-portfolios.md)
 

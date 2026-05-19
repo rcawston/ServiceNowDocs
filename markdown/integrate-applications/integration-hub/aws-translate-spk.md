@@ -46,7 +46,7 @@ If you’re having trouble installing the app, ensure that these dependent plugi
 ## Spoke requirements
 
 -   User with full access to AWS Translate.
--   Access Key ID and Secret Access Key of the user. Record these values for later use. For more information, see [Create an access key](../task/aws-translate-setup.md#).
+-   Access Key ID and Secret Access Key of the user. Record these values for later use. For more information, see [Create an access key](aws-translate-setup.md#).
 
 For more information about creating user and providing the required access, see [AWS Identity and Access Management Documentation](https://docs.aws.amazon.com/iam/index.html) site.
 
@@ -110,5 +110,5 @@ Translates text from the source language to the target language using AWS Transl
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the AWS Translate spoke](../task/aws-translate-setup.md#).
+For information about setting up the spoke, see [Set up the AWS Translate spoke](aws-translate-setup.md#).
 

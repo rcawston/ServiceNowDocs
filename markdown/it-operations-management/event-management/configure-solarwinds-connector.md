@@ -17,7 +17,7 @@ Configure the SolarWinds connector instance to receive Metric Intelligence raw d
 
 ## Before you begin
 
-To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](configure-itoa-metric-extension.md).
+To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](../metric-intelligence/configure-itoa-metric-extension.md).
 
 Configure the Service graph connector for SolarWinds. This is configured in the instance and discovers SolarWinds CIs. For details on configuring this connector, see [Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-solarwinds.md).
 
@@ -39,7 +39,7 @@ By default, the Solarwinds Metric Connector Collects metrics from the following 
 
 2.  Select **New** and create a connector instance.
 
-    For details on the connector instance fields displayed on the page, see [Solarwinds connector instance form](../reference/solarwinds-connector-instance-form.md).
+    For details on the connector instance fields displayed on the page, see [Solarwinds connector instance form](solarwinds-connector-instance-form.md).
 
 3.  Select and hold \(or right-click\) the form header and select **Save**.
 
@@ -47,7 +47,7 @@ By default, the Solarwinds Metric Connector Collects metrics from the following 
 
 4.  In the Connector Instance Values section, you can edit the values of the mandatory SolarWinds parameters.
 
-    For details on the connector instance value parameters, see [Solarwinds connector instance value parameters](../reference/solarwinds-connector-instance-value-parameters.md).
+    For details on the connector instance value parameters, see [Solarwinds connector instance value parameters](solarwinds-connector-instance-value-parameters.md).
 
 5.  In the MID Servers for Connectors section, add a MID Server for the SolarWinds connector to use.
 

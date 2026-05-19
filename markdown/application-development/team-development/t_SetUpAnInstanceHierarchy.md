@@ -48,7 +48,7 @@ When you back out a change on a Team Development instance, it backs out the chan
     1.  Define [remote instance connections](t_DefineARemoteInstance.md) to other instances in the hierarchy that this instance needs to push and pull with.
     2.  Select [the parent instance](t_SelectTheParentInstance.md).
     3.  Pull all changes from the parent instance.
-    4.  [Grant access rights](../reference/r_GrantingAccessRightsToDevelopers.md) to appropriate developers.
+    4.  [Grant access rights](r_GrantingAccessRightsToDevelopers.md) to appropriate developers.
     ![Team development process](../image/TeamDevProcess.png)
 
 

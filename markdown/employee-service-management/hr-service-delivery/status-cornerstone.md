@@ -22,12 +22,12 @@ For example, a transcript with status ID **25** is pulled into Cornerstone OnDem
 |Status|Status of the task in the Cornerstone OnDemand system.|
 |Status ID|Unique identifier of the status in Cornerstone OnDemand system.|
 
-**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](../reference/reference-ondemand.md)
+**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](reference-ondemand.md)
 
 **Related topics**  
 
 
-[Components installed with HR Service Delivery Integration with Cornerstone OnDemand](../reference/installed-with-hr-corn-int.md)
+[Components installed with HR Service Delivery Integration with Cornerstone OnDemand](installed-with-hr-corn-int.md)
 
 [Source for HR Service Delivery Integration with Cornerstone OnDemand](hr-cornerstone-properties.md)
 
@@ -37,5 +37,5 @@ For example, a transcript with status ID **25** is pulled into Cornerstone OnDem
 
 [Learning objects for HR Service Delivery Integration with Cornerstone OnDemand](learning-objects-corner.md)
 
-[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](../reference/transform-maps-cornerstone.md)
+[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](transform-maps-cornerstone.md)
 

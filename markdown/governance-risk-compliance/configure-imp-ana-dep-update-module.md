@@ -29,17 +29,17 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Impact analysis dependency update configuration form](../reference/imp-ana-dep-update-form.md).
+    For more information on the fields in the form, see [Impact analysis dependency update configuration form](imp-ana-dep-update-form.md).
 
 4.  Select **Submit**.
 
     According to the configuration set up by the BCM administrator in the Impact analysis dependency update configuration record, the dependencies are updated in the BIA.
 
-    The BIA owner and approver review the updated dependencies and complete the BIA workflow. For more information on scheduling an auto-update of the dependencies in the BIA, see [Scheduling an auto-update of dependencies](../concept/update-impactanalysis-dep-based-on-cmdb-changes.md).
+    The BIA owner and approver review the updated dependencies and complete the BIA workflow. For more information on scheduling an auto-update of the dependencies in the BIA, see [Scheduling an auto-update of dependencies](update-impactanalysis-dep-based-on-cmdb-changes.md).
 
 
--   **[Impact analysis dependency update configuration form](../reference/imp-ana-dep-update-form.md)**  
+-   **[Impact analysis dependency update configuration form](imp-ana-dep-update-form.md)**  
 Use the Impact analysis dependency update configuration form to configure the details of the dependency updates such as the BIA record name, target records, sources, and notification preferences.
 
-**Parent Topic:**[Configuring impact analysis dependency updates](../concept/imp-ana-dep-update-config-module.md)
+**Parent Topic:**[Configuring impact analysis dependency updates](imp-ana-dep-update-config-module.md)
 

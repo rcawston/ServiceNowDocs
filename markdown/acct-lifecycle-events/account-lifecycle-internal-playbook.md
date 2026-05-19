@@ -19,5 +19,5 @@ The internal play playbook consists of three stages:
 -   Define the Action Plan: Specify the steps and tasks for this internal play.
 -   Review &amp; Close: Review and close the playbook when all the internal play tasks have been completed.
 
-For instructions on how to create the internal play playbook, see [Create an internal play playbook](../task/account-lifecycle-create-internal-play-playbook.md).
+For instructions on how to create the internal play playbook, see [Create an internal play playbook](account-lifecycle-create-internal-play-playbook.md).
 

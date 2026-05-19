@@ -34,5 +34,5 @@ Role required: ecmdb\_admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Predefined filters for the Industrial Process Manager](../reference/predefined-filters-for-industrial-process-manager.md)
+**Parent Topic:**[Predefined filters for the Industrial Process Manager](predefined-filters-for-industrial-process-manager.md)
 

@@ -19,7 +19,7 @@ The Contract Management view includes important actions for managing your contra
 
 ![This view includes the contract overview details such as expiring contracts, contract expenditure by type and vendor.](../image/contract-mgmt-view.png "Contract management view")
 
-To create a contract, select **New contract**. For more details, see [Create a contract](../../contract-management/task/t_CreateAContract.md).
+To create a contract, select **New contract**. For more details, see [Create a contract](../contract-management/t_CreateAContract.md).
 
 **Related topics**  
 

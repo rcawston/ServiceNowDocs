@@ -30,5 +30,5 @@ Role required: admin
     ![Set system property value to true.](../image/next-exp-enable-dark-theme-property.png)
 
 
-**Parent Topic:**[Working with the dark theme](../concept/tb-working-in-dark-theme.md)
+**Parent Topic:**[Working with the dark theme](tb-working-in-dark-theme.md)
 

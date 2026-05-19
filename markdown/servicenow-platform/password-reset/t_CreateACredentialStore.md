@@ -34,7 +34,7 @@ Role required: password\_reset\_admin
 
 3.  Enter a unique and meaningful **Name** and **Description**, and then on the Password Reset Credential Store form, fill in the fields.
 
-    For information about the fields on the Password Reset Credential Store form, see [Password Reset Credential Store form](../reference/password-reset-credential-store-form.md).
+    For information about the fields on the Password Reset Credential Store form, see [Password Reset Credential Store form](password-reset-credential-store-form.md).
 
 4.  Click **Submit**.
 
@@ -49,7 +49,7 @@ Role required: password\_reset\_admin
 7.  [Test the connection to the credential store](test-cxn-to-credential-store.md).
 
 
-**Parent Topic:**[Credential stores for Password Reset](../concept/c_CredentialStores.md)
+**Parent Topic:**[Credential stores for Password Reset](c_CredentialStores.md)
 
 **Related topics**  
 

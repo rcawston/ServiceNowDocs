@@ -317,7 +317,7 @@ Login requests generate an infinite loop between the system and the IdP when Hig
 -   Typically the URL endpoint is an error page or logout page.
 -   The logout\_redirect.do might create this loop when you define **glide.security.url.whitelist** without adding the IdP host name to the property value.
 
-**Note:** To learn more about this property, see [Enforce URL allowlist check](../../../administer/security-center/reference/sc-enforce-url-allowlist-check.md) in Instance Security Hardening Settings.
+**Note:** To learn more about this property, see [Enforce URL allowlist check](../instance-security-hardening-settings/sc-enforce-url-allowlist-check.md) in Instance Security Hardening Settings.
 
 
 </td><td>

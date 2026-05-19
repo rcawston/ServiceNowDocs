@@ -39,6 +39,6 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(write\)
 
 4.  View the Security Incident Response Premium KPIs dashboard for further action.
 
-    For detailed information on Security Incident Response Premium KPIs dashboard, see [Security Incident Management Premium dashboard](../../../use/dashboards/application-content-packs/si-mgmt-premium-dashboard.md)
+    For detailed information on Security Incident Response Premium KPIs dashboard, see [Security Incident Management Premium dashboard](si-mgmt-premium-dashboard.md)
 
 

@@ -61,7 +61,7 @@ Role required: asset, contract\_manager\(core UI and Hardware Asset Workspace on
 **Related topics**  
 
 
-[Contract Rate Card form](../reference/ContractRateCardForm.md)
+[Contract Rate Card form](ContractRateCardForm.md)
 
 [Generating expense lines based on assets or users](t_GenExpnsLinOnAssetsUsers.md)
 

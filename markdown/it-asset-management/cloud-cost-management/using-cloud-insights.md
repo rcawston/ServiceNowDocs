@@ -27,22 +27,22 @@ Improve resource usage and reduce your cloud spend by running resources during t
 Define and monitor custom budget plans for managing your cloud spend by using the Budget view in the Cloud Cost Management Workspace.
 -   **[Manage Cloud Cost Management subscriptions](managing-ccm-subscriptions.md)**  
 Reduce your licensing costs by choosing only the Cloud Cost Management Resource Categories that you use.
--   **[Assign service accounts to an insights\_owner](../task/insights-owner-new-cloudin.md)**  
+-   **[Assign service accounts to an insights\_owner](insights-owner-new-cloudin.md)**  
 Assign ownership of one or more service accounts and, optionally, the related CIs to users that have the insights\_owner role. An insights\_owner can define jobs and policies and can view data for owned service accounts.
--   **[Exclude a resource from all Cloud Cost Management reports](../task/exclusion-list-add-to-cloudin.md)**  
+-   **[Exclude a resource from all Cloud Cost Management reports](exclusion-list-add-to-cloudin.md)**  
 To ensure that cost data for a particular resource doesn’t appear in a report, you exclude the resource by adding it to the Excluded Resources list.
--   **[Create and update a tag category](../task/tag-category-crud-cloudin.md)**  
+-   **[Create and update a tag category](tag-category-crud-cloudin.md)**  
 Create a tag category to enable multiple tag names for representing costs against a single business entity. For example, multiple users might independently have created the tag names "App", "AppService", and "appl" to indicate applications. With a tag category of "Application", any costs for items tagged App, AppService, or appl are correctly assigned as costs against an application.
--   **[Add or update a tag value for an AI Service tag category](../task/create-tag-value-ai.md)**  
+-   **[Add or update a tag value for an AI Service tag category](create-tag-value-ai.md)**  
 Associate a tag name with its corresponding tag value whenever a new AI service or a category within an existing AI service is introduced for Amazon Web Services \(AWS\), Microsoft Azure, or Google Cloud Platform \(GCP\).
--   **[Create or update a shared cost allocation policy](../task/create-shared-cost-policy.md)**  
+-   **[Create or update a shared cost allocation policy](create-shared-cost-policy.md)**  
 Create a shared cost allocation policy with  different allocation types to split the cost of shared cloud resources among various business lines.
--   **[Set up or update preferred currency options](../task/setup-update-currency.md)**  
+-   **[Set up or update preferred currency options](setup-update-currency.md)**  
 Set up or update the preferred currency options for your cloud cost and usage data to gain reporting flexibility. These currency options become available for Cloud Cost Management users to choose from.
--   **[Choose preferred currency for cost and usage data](../task/choose-pref-currency.md)**  
+-   **[Choose preferred currency for cost and usage data](choose-pref-currency.md)**  
 Choose your preferred currency from the available options that will be shown for all the billing and usage data. The currency that you choose becomes the display currency on all the dashboard widgets, recommendations \(rightsizing, business hours, unused resources, reservation/savings plan\), budgets, and billing data.
--   **[Compare MetricBase data with spend data](../task/compare-metricbase-spend.md)**  
+-   **[Compare MetricBase data with spend data](compare-metricbase-spend.md)**  
 Compare MetricBase \(Clotho\) data with your Spend data for Amazon Web Services \(AWS\), Microsoft Azure, and Google Cloud Platform \(GCP\) to diagnose and troubleshoot Cloud Cost Management billing issues.
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 

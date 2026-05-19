@@ -29,7 +29,7 @@ Role required: it\_project\_manager
 
 4.  On the form, fill in the fields.
 
-    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](../reference/ridac-forms.md).
+    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](ridac-forms.md).
 
 5.  Select **Submit**.
 
@@ -42,5 +42,5 @@ Role required: it\_project\_manager
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](ridac-entries-for-project.md)
 

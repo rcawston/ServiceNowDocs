@@ -43,11 +43,11 @@ Role required: admin
 
 3.  Open or create a page variant.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 4.  Add a component to your page that you want to trigger a popover, such as a button component.
 
-    See [Add and configure components](../task/add-components.md#) for more information.
+    See [Add and configure components](add-components.md#) for more information.
 
 5.  Select the **Events** tab in the configuration panel.
 

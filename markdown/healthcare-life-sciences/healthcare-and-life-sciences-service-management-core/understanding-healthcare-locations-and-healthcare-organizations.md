@@ -39,7 +39,7 @@ Use the **parent organization** field to create multi-level hierarchies by label
 
 The **healthcare organization location association** table is used to store the explicit link between healthcare locations and their owning healthcare organization.
 
-For information on the fields present in the Healthcare organization table, see [Healthcare organization table](../reference/hcls-healthcare-organization-table.md).
+For information on the fields present in the Healthcare organization table, see [Healthcare organization table](hcls-healthcare-organization-table.md).
 
 ## Healthcare locations
 
@@ -67,7 +67,7 @@ The **healthcare organization location association** table limits the common loc
 
 Use the **Parent location** field to create multi-level hierarchies by labeling healthcare locations as parent to other healthcare locations.
 
-For information on the fields present in the Healthcare location table, see [Healthcare location table](../reference/hcls-healthcare-location-table.md).
+For information on the fields present in the Healthcare location table, see [Healthcare location table](hcls-healthcare-location-table.md).
 
 ## Associating healthcare locations and healthcare organizations
 
@@ -79,13 +79,13 @@ Healthcare locations define which common locations a healthcare organization is 
 
 When creating a healthcare organization or a healthcare location, you can use this table to associate a healthcare location with a healthcare organization \(or vice versa\).
 
-For more information on this process, see [Associate healthcare locations with a healthcare organizations](../task/hcls-sm-associate-healthcare-locations-organization.md)
+For more information on this process, see [Associate healthcare locations with a healthcare organizations](hcls-sm-associate-healthcare-locations-organization.md)
 
 ## How to set up healthcare organizations and healthcare locations
 
 To create healthcare locations and healthcare organizations, see the following topics.
 
-1.  [Create a healthcare location](../task/hcls-sm-configure-healthcare-location.md)
+1.  [Create a healthcare location](hcls-sm-configure-healthcare-location.md)
 2.  [Create a healthcare organization](hcls-sm-configure-healthcare-organizations.md)
-3.  [Associate healthcare locations with a healthcare organizations](../task/hcls-sm-associate-healthcare-locations-organization.md)
+3.  [Associate healthcare locations with a healthcare organizations](hcls-sm-associate-healthcare-locations-organization.md)
 

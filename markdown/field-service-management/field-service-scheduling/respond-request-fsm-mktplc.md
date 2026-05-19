@@ -19,7 +19,7 @@ Respond to or decline requests on Field Service Marketplace.
 
 Role required: sn\_mktplace\_core.mktplace\_fulfiller
 
-Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](activate-contractor-marketplace.md).
+Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](../workforce-optimization-for-field-service/activate-contractor-marketplace.md).
 
 Fulfilling requests on Field Service Marketplace is only available via the Mobile experience. This requires the Field Service Contractor for mobile plugin \(com.snc.fsm\_ext\_mobile\).
 

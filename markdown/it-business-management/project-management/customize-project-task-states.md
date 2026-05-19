@@ -55,5 +55,5 @@ As an example, the steps for adding custom states for **Work in progress** state
 **Related topics**  
 
 
-[Project and project task states](../concept/project-and-project-task-states.md)
+[Project and project task states](project-and-project-task-states.md)
 

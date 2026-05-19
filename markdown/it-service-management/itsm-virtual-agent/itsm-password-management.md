@@ -44,7 +44,7 @@ For more information, see [Configure your Password Reset process](https://raw.gi
 
 Users can request to change their user password.
 
-This topic uses the Display Password Reset URLs [topic block](../reference/itsm-va-topic-blocks.md).
+This topic uses the Display Password Reset URLs [topic block](itsm-va-topic-blocks.md).
 
 Basic flow:
 
@@ -58,7 +58,7 @@ Basic flow:
 
 Users can request to reset their user password.
 
-This topic uses the Display Password Reset URLs [topic block](../reference/itsm-va-topic-blocks.md).
+This topic uses the Display Password Reset URLs [topic block](itsm-va-topic-blocks.md).
 
 Basic flow:
 
@@ -73,7 +73,7 @@ Basic flow:
 
 Users can request to verify their locked user account.
 
-This topic uses the Display Password Reset URLs [topic block](../reference/itsm-va-topic-blocks.md).
+This topic uses the Display Password Reset URLs [topic block](itsm-va-topic-blocks.md).
 
 Basic flow:
 

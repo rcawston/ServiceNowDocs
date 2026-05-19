@@ -25,9 +25,9 @@ Your instance must have access to a MID Server configured to use PowerShell to r
 
 ## Custom Active Directory activities
 
-Orchestration provides custom Active Directory activities that were created with the Orchestration [Create a PowerShell activity](../../orchestration-activity-designer/task/t_CreateAPowershellActivity.md#), starting with the Geneva release. These activities perform the same functions as AD activities by the same name from previous releases and replace those activities for all new workflows. Existing workflows from earlier versions that were created with legacy AD activities continue to function normally after an upgrade to Istanbul. However, all new workflows must use these custom AD activities. The Powershell activity template gives workflow administrators the ability to store input and output variables from the [Query AD](../reference/r_QueryAD.md) activity in the [Databus](../../orchestration-activity-designer/concept/c_OrchestrationDatabus.md#).
+Orchestration provides custom Active Directory activities that were created with the Orchestration [Create a PowerShell activity](t_CreateAPowershellActivity.md#), starting with the Geneva release. These activities perform the same functions as AD activities by the same name from previous releases and replace those activities for all new workflows. Existing workflows from earlier versions that were created with legacy AD activities continue to function normally after an upgrade to Istanbul. However, all new workflows must use these custom AD activities. The Powershell activity template gives workflow administrators the ability to store input and output variables from the [Query AD](r_QueryAD.md) activity in the [Databus](c_OrchestrationDatabus.md#).
 
-**Note:** To use the Active Directory custom activities, you must [request activation](../task/t_ActivateAnActivityPack.md) of the Orchestration - Active Directory plugin.
+**Note:** To use the Active Directory custom activities, you must [request activation](t_ActivateAnActivityPack.md) of the Orchestration - Active Directory plugin.
 
 ## Active Directory credentials with LDAP
 
@@ -37,29 +37,29 @@ If you are using an LDAP Server with MID Servers, note that Orchestration and Ac
 
 All Active Directory activities use port 389 for LDAP access. If you are using AD activities with Oracle Virtual Directory \(OVD\) as a proxy, set up pass-through on port 389 only.
 
--   **[Add User to Group AD activity](../reference/r_AddUserToGroupADActivity.md)**  
+-   **[Add User to Group AD activity](r_AddUserToGroupADActivity.md)**  
 The Add User to Group activity adds a user to a group in Windows Active Directory.
--   **[Change AD User Password activity](../reference/r_ChangeADUserPassword.md)**  
+-   **[Change AD User Password activity](r_ChangeADUserPassword.md)**  
 The Change AD User Password activity changes the password for an Active Directory user account.
--   **[Create AD Object activity](../reference/r_CreateADObject.md)**  
+-   **[Create AD Object activity](r_CreateADObject.md)**  
 The Create AD Object activity creates an object in Windows Active Directory.
--   **[Disable AD User Account activity](../reference/r_DisableADUserAccount.md)**  
+-   **[Disable AD User Account activity](r_DisableADUserAccount.md)**  
 The Disable AD User Account activity disables a Windows Active Directory user account, making it inactive.
--   **[Enable AD User Account activity](../reference/r_EnableADUserAccount.md)**  
+-   **[Enable AD User Account activity](r_EnableADUserAccount.md)**  
 The Enable AD User Account activity enables a Windows Active Directory user account, making it active.
--   **[Is AD Account Locked activity](../reference/r_IsADAccountLocked.md)**  
+-   **[Is AD Account Locked activity](r_IsADAccountLocked.md)**  
 The Is AD Account Locked activity determines whether an Active Directory user account is locked.
--   **[Query AD activity](../reference/r_QueryAD.md)**  
+-   **[Query AD activity](r_QueryAD.md)**  
 The Query AD activity retrieves entries from the Windows Active Directory based on an LDAP search filter and stores the results as a JSON string that can be used in the data bus.
--   **[Remove AD Object activity](../reference/r_RemoveADObject.md)**  
+-   **[Remove AD Object activity](r_RemoveADObject.md)**  
 The Remove AD Object activity deletes an object from Windows Active Directory.
--   **[Remove User from Group AD activity](../reference/r_RemoveUserFromGroupADActivity.md)**  
+-   **[Remove User from Group AD activity](r_RemoveUserFromGroupADActivity.md)**  
 The Remove User from Group activity removes a user from a group in Windows Active Directory.
--   **[Reset AD User Password activity](../reference/r_ResetADUserPassword.md)**  
+-   **[Reset AD User Password activity](r_ResetADUserPassword.md)**  
 The Reset AD User Password activity resets the password of a user account in Windows Active Directory.
--   **[Unlock AD Account activity](../reference/r_UnlockADAccount.md)**  
+-   **[Unlock AD Account activity](r_UnlockADAccount.md)**  
 The Unlock AD Account activity unlocks a locked Active Directory user account.
--   **[Update AD Object activity](../reference/r_UpdateADObject.md)**  
+-   **[Update AD Object activity](r_UpdateADObject.md)**  
 The Update AD Object activity updates an object in Windows Active Directory.
 
 **Parent Topic:**[Orchestration activity packs](c_OrchestrationActivityPacks.md)

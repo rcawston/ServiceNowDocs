@@ -28,7 +28,7 @@ A discovery tool places the data it obtains into the Software Installation \[cmd
 -   Version
 -   Revision
 
--   **[Find software on the network using the legacy Software Asset Management plugin](../task/t_FindingSoftwareOnTheNetwork.md)**  
+-   **[Find software on the network using the legacy Software Asset Management plugin](t_FindingSoftwareOnTheNetwork.md)**  
 After using a discovery tool, you can find a definitive list of all the software found on the network using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 -   **[Scan software installations with the system scheduler](c_ScanSWInstWithSysSched.md)**  
 The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin adds a scheduled job for scanning software installations named **SAM License Counters** in **System Scheduler** &gt; **Scheduled Jobs**.
@@ -44,7 +44,7 @@ The legacy Software Asset Management \(com.snc.software\_asset\_management\) plu
 
 [Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](t_ManagingSoftwareModels.md)
 
 [License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

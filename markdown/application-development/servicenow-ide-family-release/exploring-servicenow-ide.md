@@ -27,7 +27,7 @@ Optionally, you can create JavaScript modules and use third-party libraries to o
 
 In the background, this functionality is enabled by the ServiceNow SDK application packaging service, which builds applications in the ServiceNow IDE.
 
-**Note:** You can use Build Agent to help you create and edit applications in the ServiceNow IDE. For more information, see [Build Agent](../../build-agent/concept/build-agent.md).
+**Note:** You can use Build Agent to help you create and edit applications in the ServiceNow IDE. For more information, see [Build Agent](../build-agent.md).
 
 ## ServiceNow IDE workflow
 
@@ -84,7 +84,7 @@ Write source code to define the metadata that makes up ServiceNow applications
 
 </td><td>
 
-[ServiceNow Fluent](../../servicenow-sdk/concept/servicenow-fluent.md)[Define application metadata in code with ServiceNow Fluent in the ServiceNow IDE](../task/define-metadata-code-fluent-ide.md)
+[ServiceNow Fluent](../servicenow-fluent.md)[Define application metadata in code with ServiceNow Fluent in the ServiceNow IDE](define-metadata-code-fluent-ide.md)
 
 </td><td>
 
@@ -96,9 +96,9 @@ Organize and reuse code within an application scope with custom JavaScript modul
 
 </td><td>
 
-[JavaScript modules and third-party libraries](../../servicenow-sdk/concept/javascript-modules-third-party-libraries.md)[Create and use JavaScript modules in applications in the ServiceNow IDE](../task/create-use-javascript-modules-ide.md)
+[JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md)[Create and use JavaScript modules in applications in the ServiceNow IDE](create-use-javascript-modules-ide.md)
 
-[Use third-party libraries in applications in the ServiceNow IDE](../task/use-third-party-libraries-ide.md)
+[Use third-party libraries in applications in the ServiceNow IDE](use-third-party-libraries-ide.md)
 
 </td><td>
 
@@ -110,7 +110,7 @@ Collaborate on applications with users of different skill sets
 
 </td><td>
 
-[Build and install an application in the ServiceNow IDE](../task/build-applications-servicenow-ide.md)
+[Build and install an application in the ServiceNow IDE](build-applications-servicenow-ide.md)
 
 </td><td>
 

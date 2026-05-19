@@ -43,5 +43,5 @@ The multiple active conversations feature is inactive by default in Virtual Agen
 
 With multiple active conversations activated, you can also send notifications from Virtual Agent to portals using the feature. See [Route Virtual Agent NLU notifications through multiple portals](t_route-va-notifications-multiple-portals.md) for more information.
 
-**Parent Topic:**[Using multiple active conversations in Virtual Agent](../concept/c_multiple-active-conversations-va.md)
+**Parent Topic:**[Using multiple active conversations in Virtual Agent](c_multiple-active-conversations-va.md)
 

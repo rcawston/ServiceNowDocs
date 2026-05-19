@@ -61,10 +61,10 @@ Contextual search: Uses a search phrase to return search results in a card forma
 
 </td><td>
 
-Common topic block used by the CSM, HR Service Delivery, and ITSM business applications. Provided with the Service Management Virtual Agent Topic Blocks plugin \(com.glideapp.cs.sm\_topic\_blocks\). This plugin is included with the [Virtual Agent conversation plugins](../reference/prebuilt-topics-ITSM.md) for these business applications.
+Common topic block used by the CSM, HR Service Delivery, and ITSM business applications. Provided with the Service Management Virtual Agent Topic Blocks plugin \(com.glideapp.cs.sm\_topic\_blocks\). This plugin is included with the [Virtual Agent conversation plugins](prebuilt-topics-ITSM.md) for these business applications.
 
 </td></tr></tbody>
-</table>**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](../reference/vad-prev-topics-page.md).
+</table>**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](vad-prev-topics-page.md).
 
 On the home page, you can use the filter icon ![Filter icon.](../images/filter-icon.png) to filter and view only the topic blocks.
 
@@ -78,11 +78,11 @@ After you create and publish a topic block, the block is available for use as a 
 
 Working with topic blocks involves the following steps:
 
-1.  [Create a reusable topic block.](../task/create-topic-blocks.md)
+1.  [Create a reusable topic block.](create-topic-blocks.md)
 
     Build a conversation component that performs a common function that can be reused in Virtual Agent conversations.
 
-2.  [Add a reusable topic block to a calling topic or topic block.](../task/add-topic-blocks-to-topic.md)
+2.  [Add a reusable topic block to a calling topic or topic block.](add-topic-blocks-to-topic.md)
 
     To run a specific subflow, add a reusable topic block to a calling \(parent\) topic or topic block. Specify the inputs that are used in the topic block and review outputs that are returned from the topic block.
 

@@ -58,7 +58,7 @@ Role required: admin
     The JSON file is downloaded to your computer.
 
 
-**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ggl-dialogflow.md)
+**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ggl-dialogflow.md)
 
 **Previous topic:**[Create a new agent in Google Dialogflow](create-new-agent-google-dialogflow.md)
 

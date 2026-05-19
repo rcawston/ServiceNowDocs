@@ -41,5 +41,5 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 After a slot is selected, an email with the confirmed slot is sent to the recruiter and the hiring team, and the interview is scheduled.
 
-**Parent Topic:**[Using Applicant Center](../concept/use-applicant-center.md)
+**Parent Topic:**[Using Applicant Center](use-applicant-center.md)
 

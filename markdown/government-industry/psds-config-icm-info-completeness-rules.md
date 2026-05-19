@@ -17,7 +17,7 @@ Configure the rules for record completeness for each entity type.
 
 While most entity record fields are not mandatory, each entity record contains a completeness field that tracks whether the record has sufficient data to be searchable within ICM. These rules outline the minimum amount of information required for each entity record type to be considered complete. These rules are configurable by an admin, and you can modify which fields are required to be filled in for an entity record to become searchable.
 
-For more information on the default completeness rules for ICM entities, see [Completeness Rules by Investigative Case Management Entity Type](../reference/psds-icm-ref-entity-man-completeness-rules.md).
+For more information on the default completeness rules for ICM entities, see [Completeness Rules by Investigative Case Management Entity Type](psds-icm-ref-entity-man-completeness-rules.md).
 
 ## Before you begin
 

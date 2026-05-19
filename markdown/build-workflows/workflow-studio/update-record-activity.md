@@ -150,7 +150,7 @@ Option to pause the playbook until the end user manually completes or skips the 
 </td></tr></tbody>
 </table>## Advanced inputs
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](activity-definitions.md#activity-experience).
 
 <table id="table_cjj_sr3_plb"><thead><tr><th>
 

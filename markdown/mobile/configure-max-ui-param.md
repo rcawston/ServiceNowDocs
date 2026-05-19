@@ -38,5 +38,5 @@ Default is 1000.
     |Value|&lt;maximum-number-of-parameters-items&gt;|
 
 
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](additional-mobile-configuration.md)
 

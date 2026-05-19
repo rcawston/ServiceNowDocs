@@ -46,7 +46,7 @@ The code looks for an ending field with the same name as the start date field, e
     |**Type**|Date|
 
 
-**Parent Topic:**[Customize calendar reports](../concept/c_CustomizeCalendarReports.md)
+**Parent Topic:**[Customize calendar reports](c_CustomizeCalendarReports.md)
 
 **Related topics**  
 

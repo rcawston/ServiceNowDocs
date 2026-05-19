@@ -104,5 +104,5 @@ Enter a description to specify the purpose of this workflow launcher item.
     The category defined here can be used while creating the success play.
 
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](account-lifecycle-basic-config.md)
 

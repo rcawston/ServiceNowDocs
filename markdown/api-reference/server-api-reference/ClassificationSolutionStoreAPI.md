@@ -17,7 +17,7 @@ Enables storing and retrieving solutions.
 
 The ClassificationSolutionStore API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ClassificationSolutionStore - add\(Object mlSolution\)
 
@@ -27,13 +27,13 @@ Adds a new solution object to the store and returns a unique name.
 
 |Name|Type|Description|
 |----|----|-----------|
-|mlSolution|[ClassificationSolution](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#)|[ClassificationSolution\(\)](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#) object to add to the store.|
+|mlSolution|[ClassificationSolution](ClassificationSolutionAPI.md#)|[ClassificationSolution\(\)](ClassificationSolutionAPI.md#) object to add to the store.|
 
 |Type|Description|
 |----|-----------|
 |String|System-generated solution name.|
 
-The following example shows how to add a solution to the store. Use [ClassificationSolution - submitTrainingJob\(\)](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#) to run the training job after adding it to the store.
+The following example shows how to add a solution to the store. Use [ClassificationSolution - submitTrainingJob\(\)](ClassificationSolutionAPI.md#) to run the training job after adding it to the store.
 
 ```
 // Create a dataset 
@@ -65,7 +65,7 @@ Removes a specified solution object from the store.
 
 |Name|Type|Description|
 |----|----|-----------|
-|name|String|Name of the [ClassificationSolution\(\)](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#) object to be deleted.|
+|name|String|Name of the [ClassificationSolution\(\)](ClassificationSolutionAPI.md#) object to be deleted.|
 
 |Type|Description|
 |----|-----------|
@@ -87,9 +87,9 @@ Gets a solution object from the store.
 
 |Type|Description|
 |----|-----------|
-|Object|[ClassificationSolutionVersion](../../ClassificationSolutionVersion/concept/ClassificationSolutionVersionAPI.md#) object. Returns an error if the object does not exist.|
+|Object|[ClassificationSolutionVersion](ClassificationSolutionVersionAPI.md#) object. Returns an error if the object does not exist.|
 
-The following example shows how to get a solution object from the store using the get\(\) method and view its training status using the [ClassificationSolution - getActiveVersion\(\)](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#) and [ClassificationSolutionVersion - getStatus\(\)](../../ClassificationSolutionVersion/concept/ClassificationSolutionVersionAPI.md#) methods.
+The following example shows how to get a solution object from the store using the get\(\) method and view its training status using the [ClassificationSolution - getActiveVersion\(\)](ClassificationSolutionAPI.md#) and [ClassificationSolutionVersion - getStatus\(\)](ClassificationSolutionVersionAPI.md#) methods.
 
 ```
 // Get status

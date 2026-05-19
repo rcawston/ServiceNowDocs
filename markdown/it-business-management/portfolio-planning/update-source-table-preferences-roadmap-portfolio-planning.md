@@ -34,10 +34,10 @@ For the source tables that you use to create your portfolio plans or free-form r
 
 3.  Edit the required fields.
 
-    For field information, see [Portfolio plan configuration form](../../alignment-planner-workspace/reference/portfolio-plan-configuration-form.md).
+    For field information, see [Portfolio plan configuration form](../scenario-planning-in-spw/portfolio-plan-configuration-form.md).
 
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Prioritization and Roadmap settings in Portfolio Planning](../concept/configuring-prioritization-and-roadmap-settings-in-portfolio-planning.md)
+**Parent Topic:**[Configuring Prioritization and Roadmap settings in Portfolio Planning](configuring-prioritization-and-roadmap-settings-in-portfolio-planning.md)
 

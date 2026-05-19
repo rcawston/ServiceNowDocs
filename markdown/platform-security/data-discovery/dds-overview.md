@@ -23,7 +23,7 @@ You can begin using Data Discovery with the recommended action items. Select **C
 
 ## Data discovery summary
 
-You can review at a glance important Data Discovery metrics. Additionally, you can select the charts to drill-down further. For more information on reviewing discovery findings see [Review discovery findings](../../task/concept/dds-review-discovery-findings.md).
+You can review at a glance important Data Discovery metrics. Additionally, you can select the charts to drill-down further. For more information on reviewing discovery findings see [Review discovery findings](dds-review-discovery-findings.md).
 
 -   **Discovered data**
 

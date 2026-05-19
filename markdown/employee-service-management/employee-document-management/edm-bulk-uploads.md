@@ -101,15 +101,15 @@ Use the **sn\_hr\_ef.max\_file\_size** field in the Properties for Employee Docu
 
 **Note:** Increasing the maximum size can affect system performance.
 
-For more information, see [Properties for Employee Document Management application](../reference/employee-doc-properties.md).
+For more information, see [Properties for Employee Document Management application](employee-doc-properties.md).
 
 -   **[Use import mapping to locate and transform source employee documents](import-mapping.md#)**  
 Import mapping locates your source employee documents from your source document repository and transforms them to import them to Employee Document Management.
--   **[Configuring employee document management bulk import with source document repository](../task/edm-bulk-configuration.md#)**  
+-   **[Configuring employee document management bulk import with source document repository](edm-bulk-configuration.md#)**  
 Use Employee Document Import Configuration to identify and communicate with the source document repository. The source document repository is where you currently store your employee documents.
--   **[Bulk import map examples](../reference/edm-map-examples.md)**  
+-   **[Bulk import map examples](edm-map-examples.md)**  
 Mapping your source employee documents to required elements in Employee Document Management is crucial for a successful bulk import.
--   **[Correcting employee documents in the staging table](../task/edm-doc-staging.md)**  
+-   **[Correcting employee documents in the staging table](edm-doc-staging.md)**  
 Use the Employee Document Staging form to correct staging records prior to importing to HR Service Delivery. Staging records are created after you have mapped your source employee documents and the Start staging job has run.
 
 **Parent Topic:**[Using Employee Document Management](using-employee-document-management.md)

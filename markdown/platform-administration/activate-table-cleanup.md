@@ -145,5 +145,5 @@ Condition builder for specifying filter conditions that define the records to be
 
 The table cleanup rule runs automatically and deletes records when they meet the specified record age and any conditions that you set for them.
 
-**Parent Topic:**[Deleting older or unwanted records in Core UI](../concept/deleting-older-records.md)
+**Parent Topic:**[Deleting older or unwanted records in Core UI](deleting-older-records.md)
 

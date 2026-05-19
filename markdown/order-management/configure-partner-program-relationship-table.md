@@ -29,10 +29,10 @@ Associate channel partners to different structured initiatives or programs using
 
 3.  On the form, fill in the fields.
 
-    To learn more about the fields on the Partner Program Relationship table and their descriptions, see [Partner program relationship table fields](../reference/partner-program-relationship-table-fields.md).
+    To learn more about the fields on the Partner Program Relationship table and their descriptions, see [Partner program relationship table fields](partner-program-relationship-table-fields.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Data model for Partner Relationship Management](../concept/data-model-for-partner-relationship-management.md)
+**Parent Topic:**[Data model for Partner Relationship Management](data-model-for-partner-relationship-management.md)
 

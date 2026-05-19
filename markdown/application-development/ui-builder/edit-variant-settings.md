@@ -81,7 +81,7 @@ Audiences
 
 </td><td>
 
-Add or remove audiences for the page variant. For more information, see [Learn about audiences](../concept/add-audiences.md).
+Add or remove audiences for the page variant. For more information, see [Learn about audiences](add-audiences.md).
 
 </td></tr></tbody>
 </table>    ![Edit page variant settings screen.](../image/variant-edit-settings-screen.png)

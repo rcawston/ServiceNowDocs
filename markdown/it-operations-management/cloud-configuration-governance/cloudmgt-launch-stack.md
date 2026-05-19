@@ -58,7 +58,7 @@ If a resource on a stack requires credentials when being accessed via SSH, then 
 -   Orange: Processing.
 -   Red: Rejected, Error, or Canceled.
     -   If approval is required, then after the administrator approves your request, the system launches the stack and updates the **Request Status**.
-    -   If the quota limit exceeds for you or your user group, then an error message appears or the system triggers a policy-based approval. For more information about the quota limits, see [Viewing resource quota limits](../concept/resource-quota.md).
+    -   If the quota limit exceeds for you or your user group, then an error message appears or the system triggers a policy-based approval. For more information about the quota limits, see [Viewing resource quota limits](resource-quota.md).
     -   Select another request to view its **Request Status** and **Stack Status**.
     -   To view a summary of all your pending requests, click the **Pending Requests** link in the title bar at any time.
     ![Activities tab in the Cloud User Portal.](../image/activities.png)

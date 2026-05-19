@@ -85,10 +85,10 @@ Role required: sn\_hr\_sp.esc\_admin
 
 Your employees can now use the configured Kiosk portal. Kiosk app displays the portal, theme, header, footer, and others based on your configuration.
 
--   **[Schedule in Employee Center Pro Kiosk](../concept/shift-time-kiosk-ec.md)**  
+-   **[Schedule in Employee Center Pro Kiosk](shift-time-kiosk-ec.md)**  
 The schedule details in Employee Center Pro Kiosk is a one-stop destination to check the shift scheduling details for the deskless workers.
--   **[Time off balances in Employee Center Pro Kiosk](../concept/kiosk-timeoff-ec.md)**  
+-   **[Time off balances in Employee Center Pro Kiosk](kiosk-timeoff-ec.md)**  
 The time off balances details in the Employee Center Pro Kiosk is the source of truth for the time off or leave details of the deskless workers.
 
-**Parent Topic:**[Employee Center Pro Kiosk](../concept/deskless-kiosk-overview.md)
+**Parent Topic:**[Employee Center Pro Kiosk](deskless-kiosk-overview.md)
 

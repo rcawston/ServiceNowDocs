@@ -21,7 +21,7 @@ Role required: discovery\_admin or admin
 
 ## Procedure
 
-1.  To edit [Discovery properties](../reference/r_DiscoveryProperties.md), navigate to **All** &gt; **Discovery Definition** &gt; **Properties**.
+1.  To edit [Discovery properties](r_DiscoveryProperties.md), navigate to **All** &gt; **Discovery Definition** &gt; **Properties**.
 
     -   glide.discovery.certs.cert\_admin\_user\_id
     -   glide.discovery.certs.days\_before\_expiration\_to\_create\_renewal\_task

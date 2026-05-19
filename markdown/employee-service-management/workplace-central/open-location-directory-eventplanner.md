@@ -75,5 +75,5 @@ Role required: sn\_wsd\_rsv.reservation\_viewer
         "Looks like this location doesn't exist." You are redirected to the default Card view.
 
 
-**Parent Topic:**[Working with Event planner](../concept/working-with-event-planner.md)
+**Parent Topic:**[Working with Event planner](working-with-event-planner.md)
 

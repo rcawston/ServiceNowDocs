@@ -37,7 +37,7 @@ You can create or update the scoring profile with new indicators and associate i
 
 7.  On the form, fill in the fields.
 
-    For a description of the field values, see [Create new profile indicator form](../../reference/eaw-reference/eaw-create-new-profile-indicator-form.md).
+    For a description of the field values, see [Create new profile indicator form](eaw-create-new-profile-indicator-form.md).
 
 8.  Select **Save**.
 

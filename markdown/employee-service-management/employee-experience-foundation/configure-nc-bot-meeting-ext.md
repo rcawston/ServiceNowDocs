@@ -27,7 +27,7 @@ Role required: Microsoft Azure admin
 
 3.  Search for and open the new bot created for Notify Connector by name or by Application \(client\) ID.
 
-    The app was created in the section [Create an app in Microsoft Teams to enable making calls](../../notify2/task/create-app-ms-teams.md).
+    The app was created in the section [Create an app in Microsoft Teams to enable making calls](create-app-ms-teams.md).
 
 4.  Expose an API.
 
@@ -125,5 +125,5 @@ Set to **Enabled**
     8.  Select **Add application**.
 
 
-**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](../concept/setup-meeting-extensibility-single-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](setup-meeting-extensibility-single-tenant.md)
 

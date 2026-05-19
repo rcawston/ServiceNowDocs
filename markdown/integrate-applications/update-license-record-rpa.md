@@ -15,7 +15,7 @@ Update a robot license distribution record in RPA Hub to evaluate the consumptio
 
 ## Before you begin
 
-Familiarize yourself with license distribution in RPA Hub concepts. For more information, see [Robot license distribution in RPA Hub](../concept/license-rpa-hub.md).
+Familiarize yourself with license distribution in RPA Hub concepts. For more information, see [Robot license distribution in RPA Hub](license-rpa-hub.md).
 
 You must do this task in the classic environment.
 

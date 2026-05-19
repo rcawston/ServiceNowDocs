@@ -15,7 +15,7 @@ breadcrumb: [Viewing On-Call Scheduling reports, On-Call Scheduling, IT Service 
 
 The Performance reports enable detailed review of how well escalations are being processed. You have precise control of the data that describes escalation progress using filters like group, priority, level, or escalation category.
 
-**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [On-call dashboard](../../../use/dashboards/application-content-packs/performance-analytics/oncall-scheduling.md) to view, maintain, and track the performance reports.
+**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [On-call dashboard](../oncall-scheduling.md) to view, maintain, and track the performance reports.
 
 ## Opening the reports
 
@@ -36,7 +36,7 @@ Click the **Performance** tab and then select the date of interest. The time lin
 
     The **Records** tab lists the individual records that make up the results that you configured on the **Breakdowns** tab. Click a name to view record details.
 
-    **Note:** Each record also appears in the appropriate escalation log. See [View details in an escalation log](../task/view-escalation-logs-oncall.md).
+    **Note:** Each record also appears in the appropriate escalation log. See [View details in an escalation log](view-escalation-logs-oncall.md).
 
 
 ## All Escalations tab
@@ -69,5 +69,5 @@ Unacknowledged escalations have one of the following values for each member of a
 
 ![Performance > Unacknowledged Escalations reports](../image/perform-unack-esc-reports-tab.png "Unacknowledged Escalations tab")
 
-**Parent Topic:**[Viewing On-Call Scheduling reports](../../user-administration/concept/viewing-reports.md)
+**Parent Topic:**[Viewing On-Call Scheduling reports](viewing-reports.md)
 

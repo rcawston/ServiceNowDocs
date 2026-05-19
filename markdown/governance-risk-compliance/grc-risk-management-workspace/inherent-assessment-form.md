@@ -158,7 +158,7 @@ Factor for X-axis
 
 </td><td>
 
-Factor that appears on the X-axis of the heatmap.**Note:** Only qualitative factors of the type **Choice** or factors with the transformation criteria can be selected. For more information, see [Transformation criteria](../concept/transformation-criteria.md).
+Factor that appears on the X-axis of the heatmap.**Note:** Only qualitative factors of the type **Choice** or factors with the transformation criteria can be selected. For more information, see [Transformation criteria](transformation-criteria.md).
 
 </td></tr><tr><td>
 
@@ -166,8 +166,8 @@ Factor for Y-axis
 
 </td><td>
 
-Factor that appears on the Y-axis of the heatmap.**Note:** Only qualitative factors of the type **Choice** or with the transformation criteria can be selected. For more information, see [Transformation criteria](../concept/transformation-criteria.md).
+Factor that appears on the Y-axis of the heatmap.**Note:** Only qualitative factors of the type **Choice** or with the transformation criteria can be selected. For more information, see [Transformation criteria](transformation-criteria.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure an inherent assessment](../task/configure-inherent-assessment.md)
+</table>**Parent Topic:**[Configure an inherent assessment](configure-inherent-assessment.md)
 

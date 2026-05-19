@@ -36,7 +36,7 @@ Notify requires a separate contract with Twilio.
 
 No other configuration is required. Users who request password change or password reset receive SMS codes through Notify.
 
-**Parent Topic:**[SMS Code Verification type for Password Reset](../concept/c_SMSCodeTypeVerifications.md)
+**Parent Topic:**[SMS Code Verification type for Password Reset](c_SMSCodeTypeVerifications.md)
 
 **Related topics**  
 

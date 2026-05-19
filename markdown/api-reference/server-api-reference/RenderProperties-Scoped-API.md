@@ -17,7 +17,7 @@ The RenderProperties API provides methods to obtain information about the curren
 
 Access RenderProperties methods using the static variable `RP`.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped RenderProperties - getEncodedQuery\(\)
 

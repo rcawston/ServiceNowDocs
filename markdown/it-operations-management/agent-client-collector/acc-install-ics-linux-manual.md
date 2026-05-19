@@ -218,5 +218,5 @@ For details on sending data through the cloud in a MID-less deployment, see [DEX
         `# systemctl start acc`
 
 
-**Parent Topic:**[Installing MID-less Agent Client Collector](../concept/acc-itom-cloud-services.md)
+**Parent Topic:**[Installing MID-less Agent Client Collector](acc-itom-cloud-services.md)
 

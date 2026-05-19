@@ -15,7 +15,7 @@ Build and define the data, design elements, and logic that make up your applicat
 
 ## Agentic AI
 
-Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
+Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](application-development/use-ai-capabilities-in-custom-apps.md).
 
 -   **[Define and build the data model](define-and-build-data-model.md)**  
 After planning is complete, define and build the data model. Create one or more tables with fields, load the table with demo data, and verify access controls to the data.

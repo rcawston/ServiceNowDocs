@@ -30,5 +30,5 @@ The page contains three cards representing the steps in the migration progress. 
 ![Encryption job status page](../image/encryption-job-status-page-2.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Migrating to Field Encryption](../../now-platform-encryption/concept/migration-to-platform-encryption.md)
+</table>**Parent Topic:**[Migrating to Field Encryption](migration-to-platform-encryption.md)
 

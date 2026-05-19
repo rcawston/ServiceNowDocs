@@ -54,5 +54,5 @@ There are some things you can't change after you've created the app, like its ta
 
 And there you have it: With just a few simple steps, you gave your app a whole new vibe. So go ahead, get creative, and make it yours!
 
-**Parent Topic:**[App creation in Creator Studio](../concept/creator-studio-creating-apps.md)
+**Parent Topic:**[App creation in Creator Studio](creator-studio-creating-apps.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Team Development, Planning your application, Building ap
 
 To use Team Development, application developers must have a set of credentials for each instance in the Team Development hierarchy.
 
-An instance's placement in the [team development hierarchy](../task/t_SetUpAnInstanceHierarchy.md) determines the credentials it requires.
+An instance's placement in the [team development hierarchy](t_SetUpAnInstanceHierarchy.md) determines the credentials it requires.
 
 <table id="table_vnz_5jb_bq"><thead><tr><th>
 
@@ -35,7 +35,7 @@ A user with the admin role on the instance you are accessing
 
 </td></tr><tr><td>
 
-Right to [register a remote instance](../task/t_DefineARemoteInstance.md)
+Right to [register a remote instance](t_DefineARemoteInstance.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ One of following:-   A user with the admin role on the registered development in
 
 </td></tr><tr><td>
 
-Access to the [Code Review Requests](../task/t_EnableCodeReview.md) module
+Access to the [Code Review Requests](t_EnableCodeReview.md) module
 
 </td><td>
 

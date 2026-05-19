@@ -64,7 +64,7 @@ Select the attachment that you want to add to the new architectural artifact. Th
 
 [eaw-add-an-architectural-artifact-version]
 
-[Exploring architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-managing-arch-decision-records.md)
+[Exploring architectural decision records \(ADR\)](eaw-managing-arch-decision-records.md)
 
-[Add or edit an architectural decision record \(ADR\)](../../task/eaw-task/eaw-create-edit-adr.md)
+[Add or edit an architectural decision record \(ADR\)](eaw-create-edit-adr.md)
 

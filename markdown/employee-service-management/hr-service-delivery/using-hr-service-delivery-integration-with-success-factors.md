@@ -17,11 +17,11 @@ Understand how you can use HR Service Delivery Integration with SuccessFactors t
 
 -   **[View job tracker details](view-job-tracker-details-sf.md)**  
 Track every pull that has been performed from ServiceNow to SuccessFactors either by schedule job or manual reconciliation process. View details of the job, such as when did the job begin and end, when did the records start loading into staging tables, or did the job run completely or fail in between.
--   **[View to dos](../task/view-to-dos-sf.md)**  
+-   **[View to dos](view-to-dos-sf.md)**  
 View details of the tasks that are pulled from HR Service Delivery Integration with SuccessFactors into ServiceNow application.
--   **[Use transform maps](../reference/use-transform-maps-sf.md)**  
+-   **[Use transform maps](use-transform-maps-sf.md)**  
 Transform maps specify data relationships between source table and target table.
--   **[Field mappings](../reference/field-mappings-sf.md)**  
+-   **[Field mappings](field-mappings-sf.md)**  
 The Trigger SAP SuccessFactors Integration Flow maps the entity profile fields from SuccessFactors to the HR profile fields in the ServiceNow® platform.
 -   **[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](na-va-sf.md)**  
 You can use the Now Assist Virtual Agent topics in Employee Center to place requests, for example, apply for a time off or update your details from the SuccessFactors system in Employee Center.

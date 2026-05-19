@@ -23,7 +23,7 @@ Role required: None
 
 1.  Log in to the visitor portal, then select a visit.
 
-    For more information about logging in to the visitor portal, see [Logging in to the visitor portal](../concept/login-visitor-portal.md#).
+    For more information about logging in to the visitor portal, see [Logging in to the visitor portal](login-visitor-portal.md#).
 
 2.  Select your profile icon, then select either of the following options.
 

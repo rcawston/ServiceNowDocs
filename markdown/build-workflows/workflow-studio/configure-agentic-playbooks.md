@@ -33,7 +33,7 @@ You can enable AI agents for all default activities. For custom activities, make
 -   Email Form
 -   Record Form
 
-To learn more about activity definitions, see [Activity definitions](../concept/activity-definitions.md).
+To learn more about activity definitions, see [Activity definitions](activity-definitions.md).
 
 ## Procedure
 
@@ -62,7 +62,7 @@ To learn more about activity definitions, see [Activity definitions](../concept/
 
 6.  In the **Instructions** field, enter instructions for the task that you want the AI agent to perform.
 
-    For guidelines about how to write instructions for AI agents, see [Guidelines for writing AI agent instructions](../reference/guidelines-agent-instruction.md).
+    For guidelines about how to write instructions for AI agents, see [Guidelines for writing AI agent instructions](guidelines-agent-instruction.md).
 
 7.  Select **Save and close**.
 

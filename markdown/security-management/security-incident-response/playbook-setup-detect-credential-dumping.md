@@ -47,5 +47,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for T1003 - Detect Credential Dumping Tools playbook.](../image/playbook-credential-dump-trigger.png)
 
 
-**Parent Topic:**[Playbook for T1003 - Detect Credential Dumping Tools](../concept/playbook-detect-credential-dumping-tools.md)
+**Parent Topic:**[Playbook for T1003 - Detect Credential Dumping Tools](playbook-detect-credential-dumping-tools.md)
 

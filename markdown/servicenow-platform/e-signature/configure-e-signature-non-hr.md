@@ -40,5 +40,5 @@ Role required: sn\_esign.admin or sn\_esign.config\_manager
 
 When a user receives the task and moves the task to Work in Progress state, the **Sign document** option is available for the user to sign the document.
 
-**Parent Topic:**[Using e-signature](../concept/using-esignature.md)
+**Parent Topic:**[Using e-signature](using-esignature.md)
 

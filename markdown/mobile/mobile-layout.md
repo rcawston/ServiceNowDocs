@@ -53,7 +53,7 @@ Launcher screens serve as a landing page or a home page. Using a launcher screen
 
  -   **Header**
 
-The header of the launcher screen defines how the title of the screen appears and what information is shown in the header. For more details on configuring headers, see [Configure a launcher screen header](../task/create-alp-header.md).
+The header of the launcher screen defines how the title of the screen appears and what information is shown in the header. For more details on configuring headers, see [Configure a launcher screen header](create-alp-header.md).
 
 -   **Search**
 
@@ -65,7 +65,7 @@ UI sections appear as containers within launcher screens. Within sections, you c
 
 -   **Quick Actions**
 
-Quick actions are a way to access commonly used functions, such as transferring records or using a template in the mobile app. For more details on quick actions, see [Quick actions](../task/sg-config-quick-actions.md).
+Quick actions are a way to access commonly used functions, such as transferring records or using a template in the mobile app. For more details on quick actions, see [Quick actions](sg-config-quick-actions.md).
 
 
  For more information on launcher screens configuration, see [Launcher screens](sg-mobile-applet-launcher.md).
@@ -110,13 +110,13 @@ For more information about working in offline, see [Offline mode for mobile](off
 Tap to list additional settings. For example, languages, enable push notifications, themes, analytics, and banners.
 
     -   Language: Tap to display the Language page, where you can select a language for your ServiceNow mobile app. For more information, see [Languages on your mobile device](display-language.md).
-    -   Notification: Option to enable push notifications on your mobile device. For more information, see [Enable notification settings for mobile](../task/notification-preference-settings.md).
+    -   Notification: Option to enable push notifications on your mobile device. For more information, see [Enable notification settings for mobile](notification-preference-settings.md).
     -   Security: Tap to display the option to set up an app PIN. For more information, see [App PIN settings for mobile](mobile-app-pin-settings.md).
-    -   Theme: Option to enable the dark theme or the default theme on your mobile app. For more information. see [Enable dark theme](../task/enable-dark-theme.md).
+    -   Theme: Option to enable the dark theme or the default theme on your mobile app. For more information. see [Enable dark theme](enable-dark-theme.md).
     -   Start my week: Option to select which day to allocate as the start of your week.
     -   Analytics: Enable analytics tracking for your mobile app journey. For more information about analytics settings, see [Analytics settings for mobile](mobile-analytics-settings.md).
-    -   Banners: Tap to open the Banners page. Within the page, select the number of seconds a banner displays. You can also select whether to group multiple messages. For more information, see [Define notification banner display time](../task/banner-display.md).
-    -   Chart accessibility: Select whether to display data analytics views in color or black and white patterns. For more information, see [Change mobile analytics views for accessibility](../task/accessibility-chart-view.md).
+    -   Banners: Tap to open the Banners page. Within the page, select the number of seconds a banner displays. You can also select whether to group multiple messages. For more information, see [Define notification banner display time](banner-display.md).
+    -   Chart accessibility: Select whether to display data analytics views in color or black and white patterns. For more information, see [Change mobile analytics views for accessibility](accessibility-chart-view.md).
     -   Swipe from edge: For Android devices that have the option to swipe a screen from the side of the device.
 -   **Legal**
 
@@ -148,7 +148,7 @@ The notifications page is accessed from the **Notifications** tab on the navigat
 
  You can mark all notifications as read or delete all notifications by tapping on the more menu \(![More icon.](../image/IconAppMenuAndroid.png)\) and selecting the appropriate option.
 
- For more information on notifications, see [Mobile notifications](mobile-notifications.md), [Handling mobile alerts](../task/mobile-alerts-using.md), and [Enabling critical alerts](../reference/critical-alert-enable.md).
+ For more information on notifications, see [Mobile notifications](mobile-notifications.md), [Handling mobile alerts](mobile-alerts-using.md), and [Enabling critical alerts](critical-alert-enable.md).
 
  For information on mobile notification configuration, see [Mobile push notifications](sg-mobile-push-notifications.md).
 

@@ -53,5 +53,5 @@ $soap->transport->cookie_jar($cookies);
 
 [Retrieve choice fields using direct web services](retrieving-choice-fields-direct-ws.md)
 
-[SOAP direct web service API functions](../../web-services-apis/reference/r_DirectWebServiceAPIFunctions.md)
+[SOAP direct web service API functions](r_DirectWebServiceAPIFunctions.md)
 

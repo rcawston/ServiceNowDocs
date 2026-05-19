@@ -14,11 +14,11 @@ breadcrumb: [Care Team Work Management, Healthcare Operations, Healthcare and Li
 
 Fulfill the cases and task generated from care team task plans.
 
--   [Fulfill healthcare orchestration cases and tasks](../task/ctwm-fulfill-healthcare-orchestration-cases-tasks.md)
+-   [Fulfill healthcare orchestration cases and tasks](ctwm-fulfill-healthcare-orchestration-cases-tasks.md)
 
     Fulfill the healthcare operations orchestration cases and tasks created from task plans.
 
--   [Fulfill care team case and tasks](../task/ctwm-fulfill-care-team-cases-tasks.md)
+-   [Fulfill care team case and tasks](ctwm-fulfill-care-team-cases-tasks.md)
 
     Fulfill the care team cases and tasks created from task plans.
 

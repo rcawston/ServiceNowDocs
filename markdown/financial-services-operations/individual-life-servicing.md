@@ -23,11 +23,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Individual Life Servicing.](../task/configure-individual-life-servicing.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Individual Life Servicing.](configure-individual-life-servicing.md)
 
 </td></tr><tr><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](../reference/components-installed-individual-life-servicing.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](components-installed-individual-life-servicing.md)
 
 </td><td>
 

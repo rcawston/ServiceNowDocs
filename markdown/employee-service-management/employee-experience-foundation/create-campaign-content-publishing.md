@@ -15,9 +15,9 @@ breadcrumb: [Working on campaigns in Microsoft Teams, Integration for Employee E
 
 Create and distribute the Microsoft Teams campaigns using direct content publishing if you have the admin role.
 
--   **[Create notification content for Microsoft Teams](../task/create-campaign-content-publish-ms-teams.md)**  
+-   **[Create notification content for Microsoft Teams](create-campaign-content-publish-ms-teams.md)**  
 Create notifications to send messages directly to your employees through Microsoft Teams.
--   **[Schedule delivery of Microsoft Teams notification content](../task/schedule-delivery-content.md#)**  
+-   **[Schedule delivery of Microsoft Teams notification content](schedule-delivery-content.md#)**  
 Schedule posting of notifications in the Microsoft Teams channels.
 
 **Parent Topic:**[Working on campaigns in Microsoft Teams](using-campaigns-ms-teams.md)

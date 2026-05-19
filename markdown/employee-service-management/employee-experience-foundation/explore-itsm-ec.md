@@ -92,7 +92,7 @@ AI Search
 
 </td></tr><tr><td>
 
-Chat \([live agent](../../concept/employee-center-chat-configuration.md), virtual agent\)
+Chat \([live agent](employee-center-chat-configuration.md), virtual agent\)
 
 </td><td>
 
@@ -104,7 +104,7 @@ Chat \([live agent](../../concept/employee-center-chat-configuration.md), virtua
 
 </td></tr><tr><td>
 
-Curated Experiences \([Unified Taxonomy for Employee Center](../../concept/config-taxonomy.md), [Dynamic topic pages](../../concept/dynamic-topic-page.md), [Mega Menu](../config-mega-menu.md)\)
+Curated Experiences \([Unified Taxonomy for Employee Center](config-taxonomy.md), [Dynamic topic pages](dynamic-topic-page.md), [Mega Menu](config-mega-menu.md)\)
 
 </td><td>
 
@@ -116,7 +116,7 @@ Curated Experiences \([Unified Taxonomy for Employee Center](../../concept/confi
 
 </td></tr><tr><td>
 
-[Complete tasks](../../concept/employee-center-to-dos-page-configuration.md) and [Manage requests](../../concept/employee-center-requests-page-configuration.md)
+[Complete tasks](employee-center-to-dos-page-configuration.md) and [Manage requests](employee-center-requests-page-configuration.md)
 
 </td><td>
 
@@ -128,7 +128,7 @@ Curated Experiences \([Unified Taxonomy for Employee Center](../../concept/confi
 
 </td></tr><tr><td>
 
-[Content recommendations \(via "recommended for you"\)](../../concept/rfy-ec.md)
+[Content recommendations \(via "recommended for you"\)](rfy-ec.md)
 
 </td><td>
 
@@ -152,7 +152,7 @@ Curated Experiences \([Unified Taxonomy for Employee Center](../../concept/confi
 
 </td></tr><tr><td>
 
-[Unified employee profile](../../concept/employee-profile-portal.md)
+[Unified employee profile](employee-profile-portal.md)
 
 </td><td>
 
@@ -164,7 +164,7 @@ Curated Experiences \([Unified Taxonomy for Employee Center](../../concept/confi
 
 </td></tr><tr><td>
 
-[Guided Self-Service in Employee Center](../../concept/gss-guided-self-service-overview.md)
+[Guided Self-Service in Employee Center](gss-guided-self-service-overview.md)
 
 </td><td>
 
@@ -176,13 +176,13 @@ Curated Experiences \([Unified Taxonomy for Employee Center](../../concept/confi
 
 </td></tr><tr><td>
 
-Employee communications-   [Portal content](../../concept/ec-streamline-content.md)
--   [Microsites](../../concept/ec-rich-content.md)
--   [Employee News](../../concept/ec-news-articles.md)
--   [Content engagement](../../concept/ec-content-engagement.md)
--   [Campaigns](../../concept/ecpro-campaigns.md)
--   [Content Analytics](../../concept/ecpro-content-automation-analytics.md)
--   [Content Governance](../../concept/ec-content-governance.md)
+Employee communications-   [Portal content](ec-streamline-content.md)
+-   [Microsites](ec-rich-content.md)
+-   [Employee News](ec-news-articles.md)
+-   [Content engagement](ec-content-engagement.md)
+-   [Campaigns](ecpro-campaigns.md)
+-   [Content Analytics](ecpro-content-automation-analytics.md)
+-   [Content Governance](ec-content-governance.md)
 
 </td><td>
 
@@ -194,7 +194,7 @@ Employee communications-   [Portal content](../../concept/ec-streamline-content.
 
 </td></tr><tr><td>
 
-Enterprise Search \(with [SharePoint Online Search Connector](../../../sharepoint-online-search/concept/sharepoint-search-overview.md)\)
+Enterprise Search \(with [SharePoint Online Search Connector](../sharepoint-search-overview.md)\)
 
 </td><td>
 
@@ -206,8 +206,8 @@ Enterprise Search \(with [SharePoint Online Search Connector](../../../sharepoin
 
 </td></tr><tr><td>
 
-Integration-powered capabilities-   [App Launcher](../../concept/web-application-employee-about.md)
--   [Approval Hub](../../concept/approval-hub-intro.md)
+Integration-powered capabilities-   [App Launcher](web-application-employee-about.md)
+-   [Approval Hub](approval-hub-intro.md)
 
 </td><td>
 
@@ -219,7 +219,7 @@ Integration-powered capabilities-   [App Launcher](../../concept/web-application
 
 </td></tr><tr><td>
 
-[Manager Hub](../../../human-resources/concept/manager-hub-overview.md)
+[Manager Hub](../hr-service-delivery/manager-hub-overview.md)
 
 </td><td>
 
@@ -231,7 +231,7 @@ Integration-powered capabilities-   [App Launcher](../../concept/web-application
 
 </td></tr><tr><td>
 
-[Org chart](../../concept/employee-profile-org-chart.md) and [Dotted-line relationships](../add-other-manager-relationship.md)
+[Org chart](employee-profile-org-chart.md) and [Dotted-line relationships](add-other-manager-relationship.md)
 
 </td><td>
 
@@ -243,7 +243,7 @@ Integration-powered capabilities-   [App Launcher](../../concept/web-application
 
 </td></tr><tr><td>
 
-[Employee Forums](../../concept/ecpro-employee-forum.md)
+[Employee Forums](ecpro-employee-forum.md)
 
 </td><td>
 
@@ -255,7 +255,7 @@ Integration-powered capabilities-   [App Launcher](../../concept/web-application
 
 </td></tr><tr><td>
 
-[Employee Center Pro Kiosk](../../concept/deskless-kiosk-overview.md)
+[Employee Center Pro Kiosk](deskless-kiosk-overview.md)
 
 </td><td>
 
@@ -267,7 +267,7 @@ Integration-powered capabilities-   [App Launcher](../../concept/web-application
 
 </td></tr><tr><td>
 
-[Integrated experience and service feedback](../../concept/ex-fdback-ovrvw.md)
+[Integrated experience and service feedback](ex-fdback-ovrvw.md)
 
 </td><td>
 

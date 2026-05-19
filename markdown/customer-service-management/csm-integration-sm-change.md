@@ -35,7 +35,7 @@ The following roles enable customer service agents to view and create changes fo
 -   sn\_change\_read
 -   sn\_change\_write
 
-For more information, see [Assign CSM/ITSM integration roles](../task/assign-csm-itsm-integration-roles.md#).
+For more information, see [Assign CSM/ITSM integration roles](assign-csm-itsm-integration-roles.md#).
 
 ## Synchronizing data between the change and the case
 

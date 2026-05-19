@@ -33,5 +33,5 @@ This example shows a test with one test step: Run Server Side Script. The script
 
 ![Script include](../image/atf-server-side-script-02.png "Script include to test with Automated Test Framework")
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](atf-use-cases.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Dispute Management, Banking applications, Financial Services Operat
 
 Learn about managing the archive dispute service case and the retention policy of inactive cases.
 
--   **[Manage the Archive Dispute Service Cases rule](../task/dispute-service-case-archival.md)**  
+-   **[Manage the Archive Dispute Service Cases rule](dispute-service-case-archival.md)**  
 Manage the archive rule that is provisioned in the Card Disputes Service Case table of the Financial Services Card Operations application. With this rule, your organization can meet your dispute service case archiving requirements. By default, inactive cases that are more than two years old are automatically archived.
 -   **[Unsupported features in Dispute Management](unsupported-features-in-dispute-management.md)**  
 Learn about features in Dispute Management that are currently not supported.

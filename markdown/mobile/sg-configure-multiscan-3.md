@@ -38,7 +38,7 @@ Role required: admin
 
 ## What to do next
 
-Your button is configured for multi-scan, and your users can begin creating records. For information on using the mobile scanning interface, see [Multi-scan for mobile applications](../concept/sg-multi-scan.md).
+Your button is configured for multi-scan, and your users can begin creating records. For information on using the mobile scanning interface, see [Multi-scan for mobile applications](sg-multi-scan.md).
 
 **Parent Topic:**[Configure a grouped input for multiple scans](sg-configure-multiscan.md)
 

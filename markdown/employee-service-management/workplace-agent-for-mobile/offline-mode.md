@@ -30,7 +30,7 @@ To turn on offline mode, perform the following steps:
 3.  Enable the **Offline Mode** option.
 
 
-**Parent Topic:**[Use Workplace Agent for mobile](../concept/use-workplace-agent-mobile.md)
+**Parent Topic:**[Use Workplace Agent for mobile](use-workplace-agent-mobile.md)
 
 **Related topics**  
 

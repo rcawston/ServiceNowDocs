@@ -28,7 +28,7 @@ You can identify mitigations that are relevant to your organization. If a mitiga
 
 After mapping the information for each of the techniques, the [mitigation coverage calculator](mitigation-coverage-calculator.md) auto populates the Calculated Technique Mitigation Coverage. To calculate the overall mitigation coverage for any technique, the technique mitigation mapping records must be active and relevant to the organization. The records which are inactive and not relevant are not considered for calculating the overall technique mitigation coverage. Based on the values in the Calculated Technique Mitigation Coverage and the [mitigation coverage definition](define-the-mitigation-coverage.md), your Overall Technique Mitigation Coverage \(Calculated\) is populated.
 
-The customizations that you make to the coverage types, colors, or percentages are used in the mitigation coverage mapping and also in the [heat map](../concept/mitre-att-ck-heatmap-and-navigator.md#).
+The customizations that you make to the coverage types, colors, or percentages are used in the mitigation coverage mapping and also in the [heat map](mitre-att-ck-heatmap-and-navigator.md#).
 
 ## Procedure
 
@@ -58,16 +58,16 @@ The customizations that you make to the coverage types, colors, or percentages a
 -   **[Overall technique mitigation coverage calculator](mitigation-coverage-calculator.md)**  
 The overall technique mitigation coverage is determined based on the formula defined in the mitigation coverage calculator.
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](../concept/mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](domain-separation-and-mitre-att-ck.md)
 
 [Set up the MITRE-ATT&amp;CK framework](setup-mitre-profile.md)
 
@@ -101,7 +101,7 @@ The overall technique mitigation coverage is determined based on the formula def
 
 [Create and map detection rules](create-detection-rules.md)
 
-[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](../concept/auto-extract-technique-rules.md#)
+[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](auto-extract-technique-rules.md#)
 
 [Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
 

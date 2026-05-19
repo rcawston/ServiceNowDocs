@@ -15,11 +15,11 @@ breadcrumb: [Using schedules and calendars, Schedules, Explore, Time configurati
 
 Use the Schedule calendar to create, view, and edit events.
 
-The schedule calendar is available in day, week, or month views in calendar and time line views. To create events in the calendar, see [Create schedule entries in the Schedule calendar](../task/create-events-next-experience-ui.md).
+The schedule calendar is available in day, week, or month views in calendar and time line views. To create events in the calendar, see [Create schedule entries in the Schedule calendar](create-events-next-experience-ui.md).
 
-**Note:** To use the classic schedule calendar, see [Define a schedule](../task/t_DefineASchedule.md).
+**Note:** To use the classic schedule calendar, see [Define a schedule](t_DefineASchedule.md).
 
-**Parent Topic:**[Using schedules and calendars](../reference/r_CreateCalendarsWithSchedulePages.md)
+**Parent Topic:**[Using schedules and calendars](r_CreateCalendarsWithSchedulePages.md)
 
 **Related topics**  
 

@@ -34,5 +34,5 @@ Role required: admin or delegated\_developer
 6.  Select **Close**.
 
 
-**Parent Topic:**[Working with applications in ServiceNow Studio](../concept/working-with-apps-in-servicenow-studio.md)
+**Parent Topic:**[Working with applications in ServiceNow Studio](working-with-apps-in-servicenow-studio.md)
 

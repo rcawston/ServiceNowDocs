@@ -17,7 +17,7 @@ Configure Advanced Work Assignment to route work items in the queue using extern
 
 ## Before you begin
 
-Verify that you have reviewed the functionality of external routing and configured the necessary APIs. For more information, see [External routing overview](../concept/awa-external-routing-overview.md).
+Verify that you have reviewed the functionality of external routing and configured the necessary APIs. For more information, see [External routing overview](awa-external-routing-overview.md).
 
 Role required: awa\_external\_user
 

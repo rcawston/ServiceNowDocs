@@ -55,5 +55,5 @@ The CDN URL support is available for the Popular topics, the Quick Links, and th
     -   Popular topics and Quick links have base system preference set to the CDN URLs. If a URL image is available, the icons and images from the ServiceNow AI Platform® server are not used.
     -   My application has preferences set for the **Application icon**. You must delete the **Application icon** for the CDN URL to be detected and used.
 
-**Parent Topic:**[Managing portal performance](../concept/improve-manage.md)
+**Parent Topic:**[Managing portal performance](improve-manage.md)
 

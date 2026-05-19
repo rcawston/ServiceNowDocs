@@ -17,7 +17,7 @@ Create a tool integration from the DevOps Change Workspace for integrating addit
 
 ## Before you begin
 
-Complete the tasks specified in [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md).
+Complete the tasks specified in [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md).
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -114,5 +114,5 @@ Create a tool integration from the DevOps Change Workspace
 -   **[Creation of webhooks to send inbound events to DevOps Change Velocity using token](create-webhooks-to-send-inbound-events-to-devops-change-velocity-using-token.md)**  
 You must create webhooks to send inbound events to DevOps Change Velocity using token based authentication.
 
-**Parent Topic:**[User-created integrations in DevOps Change Velocity](../concept/dev-ops-tool-integration.md)
+**Parent Topic:**[User-created integrations in DevOps Change Velocity](dev-ops-tool-integration.md)
 

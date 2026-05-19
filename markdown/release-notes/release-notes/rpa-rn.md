@@ -119,7 +119,7 @@ To use the RPA Desktop Design Studio application, the software requirements are:
 
 ## Browser requirements
 
-ServiceNow workspaces don’t support mobile devices. For more information about the list of supported browsers, see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+ServiceNow workspaces don’t support mobile devices. For more information about the list of supported browsers, see [Browser support](../browser-support.md).
 
 ## Accessibility information
 

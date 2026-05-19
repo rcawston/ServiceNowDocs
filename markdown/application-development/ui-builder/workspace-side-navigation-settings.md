@@ -19,7 +19,7 @@ Select pages for side navigation in your UI Builder workspace experience. From a
 
 This task has the following prerequisites:
 
--   You have an existing workspace experience on UI Builder. For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+-   You have an existing workspace experience on UI Builder. For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 -   This workspace experience was created with the Workspace App Shell.
 -   This workspace experience includes at least two pages.
 -   You want users to be able to navigate from a page to other pages that you specify.
@@ -102,5 +102,5 @@ Place the link in the top or the bottom group of the side navigation panel.Defau
     **Tip:** If the side navigation doesn’t work as expected, consider reviewing the UX Page Property \[sys\_ux\_page\_property\] record underlying the side navigation. Reopen the Side Navigation experience settings, as described in Steps [3](workspace-side-navigation-settings.md#step_edit-exp-settings)-[4](workspace-side-navigation-settings.md#step_side-nav). Select **Advanced side navigation settings** to open the record. Verify that the fields have the correct values, such as Type=`json`.
 
 
-**Parent Topic:**[Configure UI Builder workspace experiences](../concept/ui-builder-workspace-settings.md)
+**Parent Topic:**[Configure UI Builder workspace experiences](ui-builder-workspace-settings.md)
 

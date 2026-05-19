@@ -17,9 +17,9 @@ Verify your vulnerable items have been remediated between scheduled scanning cyc
 
 ## Before you begin
 
-To initiate a rescan for the Tenable.io and Tenable.sc products from the classic environment of Vulnerability Response, see [Initiate rescan for the Tenable.sc integration](vr-tenable-rescan.md) and [Initiate rescan for the Tenable.io integration](vr-tenable-rescan-tenable-io.md).
+To initiate a rescan for the Tenable.io and Tenable.sc products from the classic environment of Vulnerability Response, see [Initiate rescan for the Tenable.sc integration](../vulnerability-response/vr-tenable-rescan.md) and [Initiate rescan for the Tenable.io integration](../vulnerability-response/vr-tenable-rescan-tenable-io.md).
 
-To perform rescans from your ServiceNow AI Platform, you need your Tenable credentials. For more information about setting up your Tenable.io and Tenable.sc scanners and importing your credentials from Tenable, see [Configure the Tenable Vulnerability Integration using Setup Assistant](vr-tenable-config-in-SA.md).
+To perform rescans from your ServiceNow AI Platform, you need your Tenable credentials. For more information about setting up your Tenable.io and Tenable.sc scanners and importing your credentials from Tenable, see [Configure the Tenable Vulnerability Integration using Setup Assistant](../vulnerability-response/vr-tenable-config-in-SA.md).
 
 -   You can initiate rescans on-demand for vulnerable items and remediation tasks that have the Tenable.io or Tenable.sc product as the source from the IT Remediation Workspace in your ServiceNow AI Platform.
 -   On a remediation task record, the record can be in any state other than **Closed**, and all the associated VIs must be from the Tenable.io or the Tenable.sc product.

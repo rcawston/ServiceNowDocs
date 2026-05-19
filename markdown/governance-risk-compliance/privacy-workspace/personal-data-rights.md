@@ -21,7 +21,7 @@ The GRC: Personal Data Rights application enables you to exercise control over y
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Personal data rights application.](../task/configure-pdr-request-type.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Personal data rights application.](configure-pdr-request-type.md)
 
 </td><td>
 
@@ -29,7 +29,7 @@ The GRC: Personal Data Rights application enables you to exercise control over y
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about the roles, tables, and properties of Personal Data Rights](../reference/pdr-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about the roles, tables, and properties of Personal Data Rights](pdr-reference.md)
 
 </td><td>
 

@@ -21,7 +21,7 @@ The Data Catalog module within the Workflow Data Fabric application helps you di
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](../../../build/workflow-data-fabric/concept/configure-data-catalog.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](configure-data-catalog.md)
 
 </td><td>
 
@@ -33,7 +33,7 @@ The Data Catalog module within the Workflow Data Fabric application helps you di
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about data catalog key terms and roles.](../reference/data-catalog-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about data catalog key terms and roles.](data-catalog-reference.md)
 
 </td><td>
 

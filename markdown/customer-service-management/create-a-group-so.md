@@ -87,5 +87,5 @@ The detailed information about the group.
 
 ## What to do next
 
-Configure a group by adding members and assigning them appropriate roles. For more information, see [Configuring a group](../concept/configuring-a-group.md#).
+Configure a group by adding members and assigning them appropriate roles. For more information, see [Configuring a group](configuring-a-group.md#).
 

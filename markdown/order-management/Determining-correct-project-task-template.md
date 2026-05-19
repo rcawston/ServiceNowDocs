@@ -17,5 +17,5 @@ For example, the following decision table for Project Oversight for Domain Order
 
 ![Decision table for domain order that has two project template task options with the same Short description](../image/proj-mgmt-oversight-dup-template-task.png "Duplicate project template tasks in Project Management Oversight for Domain Order")
 
-You can determine the appropriate project template task by finding and verifying the sys\_id of the project template task to be used. For more information, see [Verify the sys\_id of a project task template](../task/find-sysid-proj-template-task.md).
+You can determine the appropriate project template task by finding and verifying the sys\_id of the project template task to be used. For more information, see [Verify the sys\_id of a project task template](find-sysid-proj-template-task.md).
 

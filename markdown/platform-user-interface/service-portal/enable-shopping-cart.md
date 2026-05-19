@@ -48,5 +48,5 @@ To enable the shopping cart in the portal header:
 **Related topics**  
 
 
-[Enable automatic updates to the shopping cart](../task/enable-auto-update-cart.md)
+[Enable automatic updates to the shopping cart](enable-auto-update-cart.md)
 

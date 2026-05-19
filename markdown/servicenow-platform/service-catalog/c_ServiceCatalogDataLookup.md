@@ -26,9 +26,9 @@ Service Catalog enables specific roles to participate in the process of creating
 |catalog\_lookup\_admin|Similar to data\_lookup\_admin. Can create, update, and delete catalog data lookup definitions, matcher variable definitions, and setter variable definitions.|
 |catalog\_lookup\_manager|Can read catalog data lookup definitions, matcher variable definitions, and setter variable definitions. The role can be granted to anyone using catalog data lookups so they can see the definitions for which they are creating rules. As required, grant create, read, write, or delete access to the individual data lookup rules tables created to delegate maintenance.|
 
--   **[Create a catalog lookup definition](../task/t_CreatACatDataLookupDefRec.md#)**  
+-   **[Create a catalog lookup definition](t_CreatACatDataLookupDefRec.md#)**  
 Create a catalog data lookup definition record.
--   **[Custom data lookup](../reference/r_CreateACustomDataLookupTable.md#)**  
+-   **[Custom data lookup](r_CreateACustomDataLookupTable.md#)**  
 You can create a custom table to store lookup data.
 
 **Parent Topic:**[Service catalog variables](c_ServiceCatalogVariables.md)

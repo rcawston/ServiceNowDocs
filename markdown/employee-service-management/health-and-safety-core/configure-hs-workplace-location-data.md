@@ -23,19 +23,19 @@ Role required: sn\_wsd\_core.admin
 
 1.  Configure the workplace locations.
 
-    For more information on what you can configure, see [Providing your workplace data](../../workplace-service-delivery/concept/providing-your-workplace-data-wsd.md).
+    For more information on what you can configure, see [Providing your workplace data](../workplace-core/providing-your-workplace-data-wsd.md).
 
 
 ## Result
 
 The **Location** field on safety forms, for example, incidents and observations, shows the configured workplace locations.
 
-**Parent Topic:**[Setting up Health and Safety Core](../../hs-core/concept/setting-up-hs-core.md)
+**Parent Topic:**[Setting up Health and Safety Core](setting-up-hs-core.md)
 
 **Related topics**  
 
 
-[Install Health and Safety Core](../../hs-core/task/install-hs-core.md)
+[Install Health and Safety Core](install-hs-core.md)
 
 [Enable a Health and Safety table for configuring report field mapping](enable-hs-table-report-field-mapping.md)
 
@@ -49,5 +49,5 @@ The **Location** field on safety forms, for example, incidents and observations,
 
 [Add a Health and Safety visitor](hs-add-health-safety-visitor.md)
 
-[Migrate existing safety documents to the Document library](../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
+[Migrate existing safety documents to the Document library](hs-migrate-sync-existing-safety-document-docs-library.md)
 

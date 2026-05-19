@@ -22,7 +22,7 @@ See [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 
 ## Important information for upgrading Application Manager to Australia
 
-Application Manager is active by default on instances on the Australia release. Upgrade your instance to Australia patch 4 or later to use the latest features. For information about upgrading your ServiceNow AI Platform instance, see [Prepare your upgrade](../concept/rn-prepare-landing-page.md).
+Application Manager is active by default on instances on the Australia release. Upgrade your instance to Australia patch 4 or later to use the latest features. For information about upgrading your ServiceNow AI Platform instance, see [Prepare your upgrade](../rn-prepare-landing-page.md).
 
 ## New in the Australia release
 

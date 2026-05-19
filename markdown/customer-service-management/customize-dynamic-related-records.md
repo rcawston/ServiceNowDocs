@@ -33,7 +33,7 @@ You must define an EVAM view configuration for the tables in addition to setting
 
 3.  Activate all the related record definitions for the Onboarding, Complaint, or Product Support case.
 
-    For more information, see [Dynamic related records](../concept/csm-contextual-related-records.md).
+    For more information, see [Dynamic related records](csm-contextual-related-records.md).
 
 4.  Select **Update**.
 
@@ -110,7 +110,7 @@ Onboarding case
 **Related topics**  
 
 
-[Configure dynamic related records](../concept/dynamic-related-records-configure.md)
+[Configure dynamic related records](dynamic-related-records-configure.md)
 
 [Configure related record definitions](configure-related-record-definitions.md)
 

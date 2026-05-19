@@ -44,5 +44,5 @@ A reminder email is sent to the custodian.
 
 The message **Reminder notice is sent** appears in the **Activity** section.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](use-lg-hold-notif.md)
 

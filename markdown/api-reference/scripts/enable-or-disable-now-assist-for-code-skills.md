@@ -46,5 +46,5 @@ You can enable or disable Now Assist for Code skills.
         The skill is disabled for all users.
 
 
-**Parent Topic:**[Configuring Now Assist for Code](../concept/configuring-now-assist-code.md)
+**Parent Topic:**[Configuring Now Assist for Code](configuring-now-assist-code.md)
 

@@ -17,7 +17,7 @@ Data Privacy includes data classification and anonymization and is installed fro
 
 ## Before you begin
 
-To use data anonymization, Data Privacy \(Classic\) must first be activated with the ServiceNow Vault entitlement. See [Activate data privacy \(Classic\)](../../search-administration/task/install-data-privacy.md) for additional information.
+To use data anonymization, Data Privacy \(Classic\) must first be activated with the ServiceNow Vault entitlement. See [Activate data privacy \(Classic\)](install-data-privacy.md) for additional information.
 
 **Note:** Installing the Data Privacy Store App will auto install the Data Discovery Store App, Data Privacy \(Classic\) plug-in, and the Data Classification plugin.
 

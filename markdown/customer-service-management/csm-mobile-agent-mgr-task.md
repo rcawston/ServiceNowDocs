@@ -269,5 +269,5 @@ Review and approve change requests \(role: approver\_user\)**Note:** Agents with
 A change request requires team members or a manager to assess the change request. They evaluate the request and approve or reject.**Note:** When a change request is raised, users who are part of the group that has permissions to approve are notified. The approvers review and approve them.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Get started with the Customer Service mobile application](../task/install-customer-service-mobile-app.md)
+</table>**Parent Topic:**[Get started with the Customer Service mobile application](install-customer-service-mobile-app.md)
 

@@ -84,7 +84,7 @@ Integration Hub uses aliases to manage connection and credential information. Us
 
 ## MID Server requirements
 
-These actions use Remote Function Call \(RFC\) protocol \(SAP Proprietary protocol – SAP Standard Interface\) leveraging Application Link Enabling \(ALE\) framework, which can run on an instance or MID Server. Use the connection record associated with the SAP ECC IDoc alias to configure where actions run as well as set MID Server selection attributes. For more information about running actions on the MID Server, see [Integration steps](../../integrationhub/concept/integration-steps.md).
+These actions use Remote Function Call \(RFC\) protocol \(SAP Proprietary protocol – SAP Standard Interface\) leveraging Application Link Enabling \(ALE\) framework, which can run on an instance or MID Server. Use the connection record associated with the SAP ECC IDoc alias to configure where actions run as well as set MID Server selection attributes. For more information about running actions on the MID Server, see [Integration steps](integration-steps.md).
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

@@ -33,7 +33,7 @@ You must have already created a synonym dictionary. For information on creating 
 
 4.  On the Dictionary Term form, fill in the fields.
 
-    For a description of the field values, see [Dictionary Term form](../reference/dictionary-term-form-ais.md).
+    For a description of the field values, see [Dictionary Term form](dictionary-term-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -52,5 +52,5 @@ This example shows a synonym defining `vacation`, `holiday`, `PTO`, and the phra
 
 ![The AI Search Dictionary Term new record form in Synonym view shows Term set to vacation and Payload set to ["holiday","pto","time off"].](../image/synonym-example-vacation.png)
 
-**Parent Topic:**[Synonyms](../concept/synonyms-ais.md)
+**Parent Topic:**[Synonyms](synonyms-ais.md)
 

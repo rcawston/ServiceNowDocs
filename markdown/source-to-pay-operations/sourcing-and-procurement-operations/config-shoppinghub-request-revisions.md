@@ -58,5 +58,5 @@ Use the same steps to modify the following user action configurations:
 
 You may add additional configurations to suit your business requirements.
 
-**Parent Topic:**[ShoppingHub configuration](../concept/shoppinghub-configurations.md)
+**Parent Topic:**[ShoppingHub configuration](shoppinghub-configurations.md)
 

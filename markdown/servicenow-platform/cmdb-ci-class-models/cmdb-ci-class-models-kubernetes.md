@@ -35,7 +35,7 @@ The Kubernetes pattern main flow helps with discovering Kubernetes core elements
 
 This section lists the classes that the CMDB CI Class Models app adds or updates.
 
-CMDB CI Class Models: Release 1.12.0 adds the following classes for Kubernetes pattern. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+CMDB CI Class Models: Release 1.12.0 adds the following classes for Kubernetes pattern. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 <table id="table_uwm_1zl_vlb"><thead><tr><th>
 
@@ -133,5 +133,5 @@ Hosted on Cluster
 </table>**Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](../configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 

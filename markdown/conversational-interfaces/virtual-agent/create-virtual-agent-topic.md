@@ -22,9 +22,9 @@ Virtual Agent Designer LLM topic authoring video
 
 Do the following:
 
--   Review [Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md).
--   Configure Virtual Agent settings. For example, if you're creating large language model \(LLM\) topics, turn on Now Assist in Virtual Agent. For more information, see [Configuring assistants overview](../../now-assist-in-va/task/configure-now-assist-va.md). If you're creating Natural Language Understanding \(NLU\) topics, configure NLU settings. For more information, see [Configure Natural Language Understanding in Virtual Agent](configure-nlu-settings.md).
--   Plan your conversation before you begin. For more information, see [Designing a Virtual Agent topic](../concept/design-va-topic.md).
+-   Review [Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md).
+-   Configure Virtual Agent settings. For example, if you're creating large language model \(LLM\) topics, turn on Now Assist in Virtual Agent. For more information, see [Configuring assistants overview](../now-assist-in-virtual-agent/configure-now-assist-va.md). If you're creating Natural Language Understanding \(NLU\) topics, configure NLU settings. For more information, see [Configure Natural Language Understanding in Virtual Agent](configure-nlu-settings.md).
+-   Plan your conversation before you begin. For more information, see [Designing a Virtual Agent topic](design-va-topic.md).
 -   Verify that you're in the appropriate application scope before you create or update a topic. For example, if you're creating ITSM topics, verify that you're in the **ITSM Virtual Agent Conversations** scope \(and not the scope for the ITSM NLU Model for Virtual Agent Conversations\). For details, see [Change the application scope for Virtual Agent Designer topics](change-application-scope-vad.md).
 
 Role required: virtual\_agent\_admin or admin
@@ -33,9 +33,9 @@ Role required: virtual\_agent\_admin or admin
 
 The topic is in the Inactive state until you publish it. Publishing a topic changes the topic state to Active and automatically deploys the topic to your Virtual Agent clients.
 
-The Large Language Model \(LLM\) topic type is faster and easier to set up compared to using Natural Language Understanding. You don't have to select NLU intents or train NLU models for your virtual agent. For more information, see [LLM topic discovery in Virtual Agent](../concept/va-llm.md).
+The Large Language Model \(LLM\) topic type is faster and easier to set up compared to using Natural Language Understanding. You don't have to select NLU intents or train NLU models for your virtual agent. For more information, see [LLM topic discovery in Virtual Agent](va-llm.md).
 
-When NLU is enabled, the Set up Natural Language Understanding \(NLU\) section is displayed in the Topic Properties page. You can use this section to specify the associated NLU model and intent for the topic. You can also optionally specify keywords that Virtual Agent can use as a fallback if NLU doesn't return a matching intent and topic. For more information, see [Natural Language Understanding \(NLU\) topic discovery in Virtual Agent](../concept/va-NLU.md).
+When NLU is enabled, the Set up Natural Language Understanding \(NLU\) section is displayed in the Topic Properties page. You can use this section to specify the associated NLU model and intent for the topic. You can also optionally specify keywords that Virtual Agent can use as a fallback if NLU doesn't return a matching intent and topic. For more information, see [Natural Language Understanding \(NLU\) topic discovery in Virtual Agent](va-NLU.md).
 
 ## Procedure
 
@@ -60,7 +60,7 @@ When NLU is enabled, the Set up Natural Language Understanding \(NLU\) section i
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Create a topic form](../reference/vad-topic-creation-form.md).
+    For a description of the field values, see [Create a topic form](vad-topic-creation-form.md).
 
 5.  On the topic creation form, select **Create**.
 
@@ -88,7 +88,7 @@ When you add a control to the canvas, it becomes a node in the conversation flow
 
 2.  For each node, complete the corresponding property sheet. In the topic header bar, select **Save**. The topic header bar displays a `Saving in progress...` message. The toast message `Successfully saved your topic` appears in the lower-right corner afterward for 4 seconds, and can be closed by selecting the **X** in the message.
 
-For details about each control and the corresponding properties that you define, see [User inputs](../reference/va-user-inputs.md), [Bot responses](../reference/va-bot-responses.md), and [Utilities](../reference/va-utilities.md).
+For details about each control and the corresponding properties that you define, see [User inputs](va-user-inputs.md), [Bot responses](va-bot-responses.md), and [Utilities](va-utilities.md).
 
  As you add controls, watch for a yellow warning badge or a red error badge in the corner of the control. The number on the badge indicates the number of issues in that control, such as missing mandatory information in the property sheet. \(Highlighting a badge or the "Incomplete" banner at the top of the property sheet details the items in need of correction.\)
 
@@ -113,9 +113,9 @@ Select the **X** in the upper right corner of the node. In the topic header bar,
 </td></tr></tbody>
 </table>7.  Select **Test** in the header bar to test your topic in a chat window.
 
-    You can review test results in the adjoining tabs. For detailed information, see [Testing LLM topics](../reference/test-llm-topics.md) and [Testing NLU/Keyword topics](../reference/va-designer-testing.md).
+    You can review test results in the adjoining tabs. For detailed information, see [Testing LLM topics](test-llm-topics.md) and [Testing NLU/Keyword topics](va-designer-testing.md).
 
-    If the Now Assist panel, Microsoft Teams application, or Slack application is configured for your environment, preview options for those channels are displayed in the Test button list. Select **Preview in Now Assist panel** or **Preview in Microsoft Teams** in the list to test your topic in those environments. For more information, see [Integrating Virtual Agent with messaging apps](../concept/va-integration-messaging-apps.md).
+    If the Now Assist panel, Microsoft Teams application, or Slack application is configured for your environment, preview options for those channels are displayed in the Test button list. Select **Preview in Now Assist panel** or **Preview in Microsoft Teams** in the list to test your topic in those environments. For more information, see [Integrating Virtual Agent with messaging apps](va-integration-messaging-apps.md).
 
 8.  When you're finished with the topic, select **Save** in the topic header bar.
 
@@ -128,11 +128,11 @@ Select the **X** in the upper right corner of the node. In the topic header bar,
 
 [Publish](publish-virtual-agent-topic.md) the topic to deploy the topic to your Virtual Agent clients. The topic state changes to Active.
 
-If you created a topic that might be frequently used in certain contexts \(environments\), consider promoting the topic as part of the [default or custom chat experience](../concept/va-conversation-settings.md).
+If you created a topic that might be frequently used in certain contexts \(environments\), consider promoting the topic as part of the [default or custom chat experience](va-conversation-settings.md).
 
--   **[NLU model mapping in Virtual Agent Designer](../concept/nlu-model-binding-vad.md)**  
+-   **[NLU model mapping in Virtual Agent Designer](nlu-model-binding-vad.md)**  
 ServiceNow model groups help you to manage the localization of both topics and Natural Language Understanding \(NLU\) models more easily. You can map Virtual Agent topics to a new or existing model group directly from Virtual Agent.
--   **[Topic mapping to a multilingual NLU model group](../concept/multilingual-nlu-model-group-topic-mapping.md)**  
+-   **[Topic mapping to a multilingual NLU model group](multilingual-nlu-model-group-topic-mapping.md)**  
 When you map a topic to a multilingual model group in Virtual Agent Designer, the topic mappings for enabled languages are set up automatically.
 -   **[Modify NLU utterances and entities for a Virtual Agent topic](modify-nlu-utterances-va-topic.md)**  
 View, test, and modify NLU utterances for a Virtual Agent topic on the **NLU Intent** tab in Virtual Agent Designer.
@@ -155,5 +155,5 @@ Admins and topic authors can enable Virtual Agent to discover topics for use in 
 -   **[Use system-derived entities in an NLU topic](use-system-entities-va-topic.md)**  
 Associate system-derived entities such as such as date, time, duration, or location with a node in a topic.
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 

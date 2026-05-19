@@ -64,5 +64,5 @@ This task is divided into two main steps. The first step describes how to create
 
 ## What to do next
 
-Test your connection directly in the Action Properties section of an action contained in a flow in Workflow Studio. For details, see Action-level connection selection in [Supporting multiple connections](../concept/support-multiple-connections.md).
+Test your connection directly in the Action Properties section of an action contained in a flow in Workflow Studio. For details, see Action-level connection selection in [Supporting multiple connections](support-multiple-connections.md).
 

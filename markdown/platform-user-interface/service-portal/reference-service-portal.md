@@ -15,7 +15,7 @@ breadcrumb: [Service Portal, Configure UIs and portals, Configure user experienc
 
 Reference topics provide information about roles, configuration properties, SCSS variables, domain separation, and more.
 
--   **[Service Portal roles](../reference/service-portal-roles.md#)**  
+-   **[Service Portal roles](service-portal-roles.md#)**  
 Service Portal installs these roles.
 -   **[Service Portal properties](properties-service-portal.md)**  
 Service Portal properties control aspects of the portal experience for admin and end users.

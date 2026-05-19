@@ -41,19 +41,19 @@ You can assign an owner to a TRM category, to ensure clear accountability and im
     -   To update details of an existing TRM category, select the TRM category.
 6.  On the form, fill in the fields.
 
-    For field information, see [TRM Category form](../../reference/trm-category-form.md).
+    For field information, see [TRM Category form](trm-category-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure TRM categories](../../concept/eaw-concept/eaw-setup-trm-categories.md)
+**Parent Topic:**[Configure TRM categories](eaw-setup-trm-categories.md)
 
 **Related topics**  
 
 
 [View all TRM categories](view-all-trm-categories.md)
 
-[Manage the Technology Reference Model in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-managing-the-technology-portfolio.md)
+[Manage the Technology Reference Model in Enterprise Architecture Workspace](eaw-managing-the-technology-portfolio.md)
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 

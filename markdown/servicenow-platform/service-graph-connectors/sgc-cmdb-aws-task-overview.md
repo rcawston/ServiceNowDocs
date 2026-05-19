@@ -23,7 +23,7 @@ Role required: application administrator
 
 ## Procedure
 
-1.  [Learn about the AWS resources used by the connector](../concept/sgc-cmdb-aws-concepts.md).
+1.  [Learn about the AWS resources used by the connector](sgc-cmdb-aws-concepts.md).
 
     Get familiar with the AWS concepts to learn how the Service Graph Connector for AWS is integrated with AWS.
 
@@ -31,11 +31,11 @@ Role required: application administrator
 
     Download the AWS scripts included within the guided setup of the Service Graph Connector for AWS.
 
-3.  [Review the requirements before executing the AWS scripts](../concept/sgc-cmdb-aws-scripts-prereq.md#).
+3.  [Review the requirements before executing the AWS scripts](sgc-cmdb-aws-scripts-prereq.md#).
 
     Complete the prerequisites before you execute the AWS scripts.
 
-4.  [Execute the AWS scripts](../concept/sgc-cmdb-aws-script-op.md).
+4.  [Execute the AWS scripts](sgc-cmdb-aws-script-op.md).
 
     Execute scripts provided with the Service Graph Connector for AWS to set up the AWS environment for importing data.
 

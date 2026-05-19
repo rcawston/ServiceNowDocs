@@ -48,7 +48,7 @@ To learn more about configuring and using Advanced Work Assignment for Legal Ser
 
 -   [Configure Advanced Work Assignment for Legal Service Delivery](lsd-awa-configure-landing.md)
 -   [Use Advanced Work Assignment for Legal Service Delivery](lsd-awa-use-landing.md)
--   [Components installed for Advanced Work Assignment for Legal Service Delivery reference](../reference/lsd-components-installed-awa.md)
+-   [Components installed for Advanced Work Assignment for Legal Service Delivery reference](lsd-components-installed-awa.md)
 
 **Parent Topic:**[Advanced work assignment for Legal Service Delivery](lsd-awa-landing.md)
 

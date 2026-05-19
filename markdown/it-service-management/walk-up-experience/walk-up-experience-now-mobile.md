@@ -17,14 +17,14 @@ You can create and manage your appointments for a walk-up venue like the Tech Lo
 
 With the Now® Mobile app, you can use your mobile device to book appointments, see where you are in a queue, and cancel or modify your appointments for the Tech Lounge. You will never miss an appointment again. You will get reminders about your upcoming appointments and notifications if your appointment changes.
 
--   **[Book an appointment at a Walk-up Experience Tech Lounge](../task/make-appointment-now-mobile.md)**  
+-   **[Book an appointment at a Walk-up Experience Tech Lounge](make-appointment-now-mobile.md)**  
 Book an appointment at a ServiceNow Walk-up Experience Tech Lounge by using the Now® Mobile app.
--   **[Modify an appointment at the Walk-up Experience Tech Lounge](../task/edit-cancel-appointment-now-mobile.md)**  
+-   **[Modify an appointment at the Walk-up Experience Tech Lounge](edit-cancel-appointment-now-mobile.md)**  
 Edit or cancel an appointment at a ServiceNow Walk-up Experience Tech Lounge by using the Now® Mobile app on your mobile device.
--   **[Join a queue at the Walk-up Experience Tech Lounge](../task/join-queue-now-mobile.md)**  
+-   **[Join a queue at the Walk-up Experience Tech Lounge](join-queue-now-mobile.md)**  
 Join a queue at a ServiceNow Walk-up Experience Tech Lounge by using the Now® Mobile app for immediate assistance with an issue.
--   **[Leave a queue at the Walk-up Experience Tech Lounge](../task/leave-queue-now-mobile.md)**  
+-   **[Leave a queue at the Walk-up Experience Tech Lounge](leave-queue-now-mobile.md)**  
 Leave a ServiceNow Walk-up Experience Tech Lounge queue at any time by using the Now® Mobile app on your mobile device.
 
-**Parent Topic:**[Walk-up Experience](../reference/walkup-experience-landing-page.md)
+**Parent Topic:**[Walk-up Experience](walkup-experience-landing-page.md)
 

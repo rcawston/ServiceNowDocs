@@ -53,5 +53,5 @@ Use the ServiceNow Advanced Work Assignment for Legal Service Delivery feature t
 -   **[Advanced Work Assignment for Legal Service Delivery reference](lsd-awa-reference-landing.md)**  
 Reference topics provide additional information about components installed, the lists and forms that you use in Advanced Work Assignment for Legal Service Delivery.
 
-**Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](../../lsd-sn-legal-contracts/concept/snclc-integrate-lsd-lp.md)
+**Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](snclc-integrate-lsd-lp.md)
 

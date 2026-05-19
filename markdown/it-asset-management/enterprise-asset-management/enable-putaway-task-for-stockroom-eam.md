@@ -36,5 +36,5 @@ Role required: inventory\_user
 
 The inventory user can perform asset put away for in stock assets in the stockroom.
 
-**Parent Topic:**[Manage asset put away using the Enterprise Asset Workspace](../concept/manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
+**Parent Topic:**[Manage asset put away using the Enterprise Asset Workspace](manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
 

@@ -73,5 +73,5 @@ Based on these synonyms and semantic conditions, some of the predefined supporte
 
 If you do not get the desired search results, select **How can I improve my results?** to view tips and suggestions on improving your search.
 
-**Parent Topic:**[Source-to-Pay Workspace Reference](../../accounts-payable-operations/reference/source-to-pay-ws-reference.md)
+**Parent Topic:**[Source-to-Pay Workspace Reference](source-to-pay-ws-reference.md)
 

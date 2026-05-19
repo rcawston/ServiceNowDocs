@@ -26,5 +26,5 @@ The OT extension class model extend the Configuration Management Database \(CMDB
 
 Applications, such as Discovery and Service Graph Connectors, use these class extensions to populate configuration items \(CIs\) and discover various technologies and software. For more information about the OT extension classes, see [Operational Technology \(OT\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models-operation-technology.md).
 
-**Parent Topic:**[Configuring the Operational Technology Manager](../concept/configuring-operational-technology-manager.md)
+**Parent Topic:**[Configuring the Operational Technology Manager](configuring-operational-technology-manager.md)
 

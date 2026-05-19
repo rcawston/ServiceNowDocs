@@ -93,7 +93,7 @@ Role required:
     -   For hardware assets: Assets are auto-assigned to sourcing tasks but you can change an asset by selecting the **Asset** list. After you’re done, select **Close Task**.
     -   For consumable assets: The model for the asset appears on the form layout instead of the asset. Select **Close Task** or **Consume and Close**. If you select **Consume and Close**, the reserved asset is automatically picked up and assigned to the user. If you select **Close Task**, you must go to the Consumable form layout and assign an asset to the user manually.
 
-**Parent Topic:**[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+**Parent Topic:**[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 
 **Related topics**  
 

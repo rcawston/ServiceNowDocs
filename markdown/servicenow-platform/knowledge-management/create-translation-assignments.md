@@ -50,5 +50,5 @@ Translation tasks are automatically assigned once the assignment rules are creat
 
 An email notification is sent to the user or group that has been assigned the task with a link to the translation task and source article.
 
-**Parent Topic:**[Use translation management](../concept/use-translation-management.md)
+**Parent Topic:**[Use translation management](use-translation-management.md)
 

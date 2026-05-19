@@ -45,5 +45,5 @@ The Subscription URL supports SSO authentication to view and download on-call ca
     Members of the shift will receive an email with the subscription link. Select the **Subscription link** and log in with SSO credentials to download the calendar or generate and copy the subscription URL.![The screen shows the option to download the schedule or to obtain a publicly accessible URL for subscribing to the schedule.](../image/oncall-calendar-subscription-page.png)
 
 
-**Parent Topic:**[Managing schedules and shifts](../../user-administration/concept/manage-schedules-and-shifts.md)
+**Parent Topic:**[Managing schedules and shifts](manage-schedules-and-shifts.md)
 

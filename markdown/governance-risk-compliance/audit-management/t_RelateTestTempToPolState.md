@@ -30,5 +30,5 @@ Role required: sn\_audit.admin or sn\_audit.manager
     ![Test template control objectives update.](../image/audit-test-template-c-b.png)
 
 
-**Parent Topic:**[Manage test templates and test plans](../concept/c_AuditTesting.md)
+**Parent Topic:**[Manage test templates and test plans](c_AuditTesting.md)
 

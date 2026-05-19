@@ -63,7 +63,7 @@ Navigate to **All** &gt; **System Definition** &gt; **Scheduled jobs**.
 **Related topics**  
 
 
-[Configure Digital Portfolio Management to integrate with Process Mining](../concept/dpm-setup-po.md)
+[Configure Digital Portfolio Management to integrate with Process Mining](dpm-setup-po.md)
 
-[Create Process Mining projects for KPI groups in Digital Portfolio Management](../task/dpm-create-project-po.md)
+[Create Process Mining projects for KPI groups in Digital Portfolio Management](dpm-create-project-po.md)
 

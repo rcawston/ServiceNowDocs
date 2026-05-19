@@ -26,5 +26,5 @@ Include the Portal Footer widget on your portal page to display information abou
 
 ![Portal Polaris Footer widget displaying sitemap links in different categories.](../image/portal-footer-widget.png "Portal Polaris Footer widget")
 
-For more information, see [Configure the Portal Polaris Footer widget](../task/config-portal-footer-widget.md).
+For more information, see [Configure the Portal Polaris Footer widget](config-portal-footer-widget.md).
 

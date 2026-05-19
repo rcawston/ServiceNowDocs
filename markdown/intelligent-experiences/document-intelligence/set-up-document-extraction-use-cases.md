@@ -15,7 +15,7 @@ breadcrumb: [Configure, Document Intelligence, Enable AI experiences]
 
 In Document Intelligence, a use case is used to define the structure of a type of document you want to process. It's made up of the use case record and its related fields, field groups, integrations, flows, and all the related machine learning \(ML\) models.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Overview of document extraction use cases
 
@@ -27,27 +27,27 @@ For example, if you want to process invoice documents, you may want an “Invoic
 
 After you've defined a document extraction use case, agents can begin processing documents for it in document tasks.
 
-**Note:** Use cases for Now Assist in Document Intelligence skills have a separate setup process. For more information, see [Configuring Now Assist in Document Intelligence](docintel-configuring-now-assist.md).
+**Note:** Use cases for Now Assist in Document Intelligence skills have a separate setup process. For more information, see [Configuring Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-configuring-now-assist.md).
 
 ## Workflow
 
 Set up a document extraction use case in the following steps.
 
-1.  [Create a use case](../task/create-tasks.md).
+1.  [Create a use case](create-tasks.md).
 
     Define the name, target table, and language for the use case.
 
-2.  [Create a field for data extraction](../task/manage-keys.md).
+2.  [Create a field for data extraction](manage-keys.md).
 
     Define the fields that the AI will learn to detect and extract values from.
 
     Define any groupings of fields to help extract and organize data gathered from tables or information patterns, like check box lists.
 
-3.  [Configure data extraction modes](../task/configure-data-extraction-modes.md).
+3.  [Configure data extraction modes](configure-data-extraction-modes.md).
 
     Define how fields should be extracted from documents in a document task.
 
-4.  [Set up integrations](../task/configure-integration-setup.md).
+4.  [Set up integrations](configure-integration-setup.md).
 
     Configure an integration to trigger document task processing or value extraction for workflows with other applications.
 

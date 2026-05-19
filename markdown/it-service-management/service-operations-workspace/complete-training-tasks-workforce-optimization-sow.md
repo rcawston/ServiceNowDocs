@@ -86,5 +86,5 @@ If you have a quiz associated with the learning path:1.  Select the path.
 </table>    The skills associated with the tasks are added to your skill set.
 
 
-**Parent Topic:**[Learning path and course item discovery in Service Operations Workspace](../concept/discovering-learning-sow-wfo-itsm.md)
+**Parent Topic:**[Learning path and course item discovery in Service Operations Workspace](discovering-learning-sow-wfo-itsm.md)
 

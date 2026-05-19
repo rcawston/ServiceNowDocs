@@ -59,7 +59,7 @@ Glossary terms are grouped alphabetically.
 
 ### escalation
 
-The process of moving an incident to a higher level of support for faster resolution. PSEW includes predefined stages of escalation: Triage, L1 investigation, L2 investigation, L3 investigation, and Resolution. To learn more, see [About escalating incidents](../concept/psew-escalate-incident.md).
+The process of moving an incident to a higher level of support for faster resolution. PSEW includes predefined stages of escalation: Triage, L1 investigation, L2 investigation, L3 investigation, and Resolution. To learn more, see [About escalating incidents](psew-escalate-incident.md).
 
 ## H
 
@@ -67,7 +67,7 @@ Glossary terms are grouped alphabetically.
 
 ### hermes kafka
 
-A messaging service used to publish outbound notifications to external systems, particularly for cloud customers. To learn more, see [Producing outbound API notifications using Hermes](../concept/hermes-stream-connect-kafka-workflow.md).
+A messaging service used to publish outbound notifications to external systems, particularly for cloud customers. To learn more, see [Producing outbound API notifications using Hermes](hermes-stream-connect-kafka-workflow.md).
 
 ## I
 
@@ -99,7 +99,7 @@ Glossary terms are grouped alphabetically.
 
 ### operations account 360
 
-A view within the Service Operations Workspace that provides a comprehensive overview of a customer's or partner's account, including key contacts, products, services, and performance metrics. To learn more, see [Service delivery overview](../concept/account-360-analytics-dashboard.md).
+A view within the Service Operations Workspace that provides a comprehensive overview of a customer's or partner's account, including key contacts, products, services, and performance metrics. To learn more, see [Service delivery overview](account-360-analytics-dashboard.md).
 
 ### open message bus
 
@@ -140,7 +140,7 @@ A standard API that is used to create incident records from external systems, en
 
 ### trouble ticket notification
 
-A feature that sends notifications to third-party systems about incidents or cases created in ServiceNow, either reactively or proactively. To learn more, see [Handling API notifications](../concept/handling-trouble-ticket-notifications.md).
+A feature that sends notifications to third-party systems about incidents or cases created in ServiceNow, either reactively or proactively. To learn more, see [Handling API notifications](handling-trouble-ticket-notifications.md).
 
 ## W
 

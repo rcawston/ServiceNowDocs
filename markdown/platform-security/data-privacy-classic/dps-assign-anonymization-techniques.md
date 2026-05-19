@@ -37,7 +37,7 @@ Description
 
 </td><td>
 
-Applies anonymization to all data records in the chosen data class. Select the data type and the anonymization technique to apply to all entries with the selected data type. Repeat this step for additional bulk assignments of different data types.See [Supported field types for anonymization](../../security/reference/data-privacy-supported-data-types.md) for a list of data types.
+Applies anonymization to all data records in the chosen data class. Select the data type and the anonymization technique to apply to all entries with the selected data type. Repeat this step for additional bulk assignments of different data types.See [Supported field types for anonymization](data-privacy-supported-data-types.md) for a list of data types.
 
 </td></tr><tr><td id="d264925e72">
 

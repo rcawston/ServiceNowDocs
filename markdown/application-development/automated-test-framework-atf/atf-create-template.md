@@ -52,7 +52,7 @@ Many tests follow similar patterns. One common pattern, for example, is to open 
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Working with test step templates](../concept/atf-templates.md)
+**Parent Topic:**[Working with test step templates](atf-templates.md)
 
 **Related topics**  
 

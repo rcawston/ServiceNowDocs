@@ -45,7 +45,7 @@ The following ServiceNow products gain value from Enterprise Architecture:
 -   Governance, Risk, and Compliance \(GRC\): Auditors can leverage the business applications and related information objects. This helps auditors understand the design-time data sensitivity for scoping audits, measuring risks, and managing audit activities.
 -   Asset Management: Manages the software and hardware life cycles for business applications and business services.
 
-**Parent Topic:**[Enterprise Architecture \(EA\) and the CSDM framework](../../concept/eaw-concept/apm-use-case-product-view.md)
+**Parent Topic:**[Enterprise Architecture \(EA\) and the CSDM framework](apm-use-case-product-view.md)
 
 **Related topics**  
 

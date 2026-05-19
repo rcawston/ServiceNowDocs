@@ -21,7 +21,7 @@ Role required: sp\_admin
 
 ## About this task
 
-Using the app launcher in Employee Center Pro, You can provide one-click access to the applications and configure the instance options to control the appearance of the widget, such as the icon and description. For more information, see [App Launcher](../concept/web-application-employee-about.md).
+Using the app launcher in Employee Center Pro, You can provide one-click access to the applications and configure the instance options to control the appearance of the widget, such as the icon and description. For more information, see [App Launcher](web-application-employee-about.md).
 
 ## Procedure
 

@@ -90,7 +90,7 @@ Option to indicate that this template is used as the default template for all KB
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Policy and Compliance Management enhancement steps](../../grc-policy-compliance-implementation/concept/policy-compliance-optional-steps.md)
+**Parent Topic:**[Policy and Compliance Management enhancement steps](policy-compliance-optional-steps.md)
 
-**Parent Topic:**[Manage control objectives and policies](../reference/r_PoliciesAndProcedures.md)
+**Parent Topic:**[Manage control objectives and policies](r_PoliciesAndProcedures.md)
 

@@ -25,11 +25,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     Automates access management request fulfilment using the Service Catalog or Service Portal. The catalog items and flows support requests in Okta, Microsoft Entra ID, and Microsoft Active Directory.
 
--   **[Client Software Distribution using Integration Hub](../concept/csd-integrationhub.md)**
+-   **[Client Software Distribution using Integration Hub](csd-integrationhub.md)**
 
     Use Client Software Distribution \(CSD\) to distribute software from the Service Catalog using third-party management systems.
 
--   **[Client Software Distribution 2.0 application](../../integrationhub-store-spokes/concept/csd-app-2.md)**
+-   **[Client Software Distribution 2.0 application](csd-app-2.md)**
 
     Client Software Distribution 2.0 application \(CSD 2.0\) application enables administrators to distribute software from the service catalog using third-party management systems.
 
@@ -53,11 +53,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     Use Okta to manage users, passwords, and groups.
 
--   **[Retry Handler Framework](../../integrationhub-store-spokes/concept/retry-handler-frmwrk.md)**
+-   **[Retry Handler Framework](retry-handler-frmwrk.md)**
 
     Framework that retries a failed HTTP request when the API rate limits are exceeded and the 429 Too Many Requests status code is returned. The retry-after time HTTP header is used to retry the request again after that specified retry-after time.
 
--   **[ServiceNow Kafka Consumer](../../integrationhub-store-spokes/concept/kafka-consumer.md)**
+-   **[ServiceNow Kafka Consumer](kafka-consumer.md)**
 
     Integrates your ServiceNow instance with Kafka Consumer and stores data in the ServiceNow tables.
 

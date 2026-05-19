@@ -41,7 +41,7 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 4.  Click **Submit** \(core UI\) or **Save** \(Hardware Asset Workspaceand Enterprise Asset Workspace\).
 
 
-**Parent Topic:**[Terms and conditions](../concept/c_TermsAndConditions.md)
+**Parent Topic:**[Terms and conditions](c_TermsAndConditions.md)
 
 **Related topics**  
 

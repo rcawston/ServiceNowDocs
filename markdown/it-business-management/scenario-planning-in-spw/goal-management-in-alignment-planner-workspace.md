@@ -57,7 +57,7 @@ The following target source types are supported for automating the actual value 
 -   Assessment/Survey: Updates the **Actual to date** field on the target form by fetching the required data from the Assessment metric type and Assessment metric category records.
 -   Custom script: The Custom script fetches the required data from any ServiceNow AI Platform table that is configured. With the Custom script option, any table or a combination of tables present on the ServiceNow AI Platform can be configured as a target source.
 
-    [Predefined target automation script for benefit plans](../reference/target-automation-script-benefit-plans-apw.md): The predefined, default script is a target source that updates the **Actual to date** field on the target form by fetching the value from the **Actual benefit** field or **Non-monetary actual benefit** field from the monetary or non-monetary benefit plans of relevant work items.
+    [Predefined target automation script for benefit plans](target-automation-script-benefit-plans-apw.md): The predefined, default script is a target source that updates the **Actual to date** field on the target form by fetching the value from the **Actual benefit** field or **Non-monetary actual benefit** field from the monetary or non-monetary benefit plans of relevant work items.
 
 
 -   **Context variable**
@@ -71,17 +71,17 @@ The following target source types are supported for automating the actual value 
 
 Using the Goals view in the Strategic Planning Workspace, you can do the following activities:
 
--   Create a goal for an entity such as company, business unit, department, and so on. For more information, see [Create a goal in Strategic Planning](../task/create-goal-egm.md).
--   Set targets and automate the actual value of the targets. For more information, see [Add targets for a goal in Strategic Planning](../task/set-targets-for-goal-egm.md).
+-   Create a goal for an entity such as company, business unit, department, and so on. For more information, see [Create a goal in Strategic Planning](create-goal-egm.md).
+-   Set targets and automate the actual value of the targets. For more information, see [Add targets for a goal in Strategic Planning](set-targets-for-goal-egm.md).
 
     **Note:**
 
     -   Automating the actual value of the targets is optional. If you don't want to automate the actual value of your targets, you can still update the actual value of the targets manually.
     -   You can also generate targets for your goals using the Target generation skill, if the Now Assist for SPM application is installed.
--   Associate a planning item with goals. For more information, see [Align a planning item with goals or targets](../task/associate-work-with-goals-egm.md).
--   Associate or update the primary goal for a planning item. For more information, see [Associate or update the primary goal or target for a planning item](../task/associate-update-primary-goal-egm.md).
+-   Associate a planning item with goals. For more information, see [Align a planning item with goals or targets](associate-work-with-goals-egm.md).
+-   Associate or update the primary goal for a planning item. For more information, see [Associate or update the primary goal or target for a planning item](associate-update-primary-goal-egm.md).
 
 For more information on how to define and manage your goals in Strategic Planning see [Managing portfolio plan goals in Strategic Planning Workspace](managing-goals-in-alignment-planner-workspace.md).
 
-**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](../../alignment-planner-workspace/concept/alignment-planner-workspace.md)
+**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](alignment-planner-workspace.md)
 

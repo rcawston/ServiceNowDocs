@@ -19,13 +19,13 @@ For a seamless localization experience on forms and activity streams, you can dy
 
 You can translate the field values on forms on the ServiceNow AI Platform and the configurable workspaces. For more information on Dynamic Translation support for configurable workspaces, see Dynamic Translation support for configurable workspace.
 
-To enable dynamic translation at the field-level on Platform forms, see [Enable dynamic translation for a field](../task/configure-field-translation.md). After dynamic translation is enabled, select the translate icon \(![Translate icon](../image/Translation.png)\) to show or hide the translated content.
+To enable dynamic translation at the field-level on Platform forms, see [Enable dynamic translation for a field](configure-field-translation.md). After dynamic translation is enabled, select the translate icon \(![Translate icon](../image/Translation.png)\) to show or hide the translated content.
 
 ## Dynamic translation in activity streams
 
 You can enable dynamic translation in activity streams on the ServiceNow AI Platform, configurable workspace, and Service Portal. For more information on Dynamic Translation support for configurable workspaces, see Dynamic Translation support for configurable workspace.
 
-Use the dynamic translation properties to enable or prevent the option for dynamic translation in the activity stream of the tables you list. When enabled, select the translate icon \(![Translate icon](../image/Translation.png)\) to show or hide the translated content for each comment or work note in the activity stream. For more information, see [Dynamic Translation properties](../reference/dynamic-translation-properties.md).
+Use the dynamic translation properties to enable or prevent the option for dynamic translation in the activity stream of the tables you list. When enabled, select the translate icon \(![Translate icon](../image/Translation.png)\) to show or hide the translated content for each comment or work note in the activity stream. For more information, see [Dynamic Translation properties](dynamic-translation-properties.md).
 
 ## Length limitations for translation service providers
 

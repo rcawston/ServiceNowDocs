@@ -29,12 +29,12 @@ Role required: none
 
     ![Approval engine page](../image/ApprovalEnginePage.png)
 
-2.  Select the [approval engine option](../concept/c_ApprovalEngines.md#table_ApprovalEngineOptions) for each Task table from the choice list.
+2.  Select the [approval engine option](c_ApprovalEngines.md#table_ApprovalEngineOptions) for each Task table from the choice list.
 
 3.  Click **Save**.
 
     These preferences are saved as system properties that are named **glide.approval\_engine.&lt;table\_name&gt;**.
 
 
-**Parent Topic:**[Approval engines](../concept/c_ApprovalEngines.md)
+**Parent Topic:**[Approval engines](c_ApprovalEngines.md)
 

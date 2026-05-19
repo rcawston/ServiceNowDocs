@@ -48,5 +48,5 @@ The consumer/contact record may have an invalid or missing email address.
     -   &lt;PORTAL&gt;: Portal name \(csp or csm only\)
     -   &lt;SYS\_ID&gt;: Unique record ID of the document task
 
-**Parent Topic:**[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](../concept/wsud-troubleshooting-reference.md)
+**Parent Topic:**[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](wsud-troubleshooting-reference.md)
 

@@ -71,5 +71,5 @@ Select View Upgrade Plan History related link to view the details of the upgrade
 
 Select View Upgrade Summary Report related link to view the summary of an older upgrade over Upgrade Monitor module.
 
-See [Review skipped records using related lists](../task/uc-access-rl.md#) for more information about related lists.
+See [Review skipped records using related lists](uc-access-rl.md#) for more information about related lists.
 

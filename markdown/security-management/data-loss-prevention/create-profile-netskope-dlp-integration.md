@@ -92,5 +92,5 @@ Define and set filter conditions to filter the incoming  Netskope DLP  incid
 -   **[Schedule the Netskope DLP incidents retrieval](schedule-netskope-dlp-alerts-retrieval.md)**  
 Set a schedule to retrieve Netskope DLP incidents that match the criteria in the profile.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 

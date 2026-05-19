@@ -19,5 +19,5 @@ Administrators can create, modify, and enable the Walk-up Experience application
 
 **Walk-up Experience** is an application level configuration provided with the base system appointment booking feature. You can include as many service level configurations as needed. The service level configurations apply to the individual walk-up queue locations that exist. Administrators can modify these configurations as needed or use them as examples to create new configurations.
 
-For detailed information on appointment booking administration, refer to [Configure appointment booking](../task/csm-walkup-appointment.md).
+For detailed information on appointment booking administration, refer to [Configure appointment booking](csm-walkup-appointment.md).
 

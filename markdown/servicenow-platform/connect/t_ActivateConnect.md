@@ -68,7 +68,7 @@ collaboration.email\_interval
 Sets the number of minutes the system waits before sending a Connect notification email to an inactive user.-   **Type**: integer
 -   Default value: 3
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
--   Learn more: [Configure the email notification interval](../concept/c_CollaborationAdministration.md#)
+-   Learn more: [Configure the email notification interval](c_CollaborationAdministration.md#)
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Determines whether the show Live Feed icon \(![Show Live Feed icon](../../live-f
     -   **live\_feed**: enables the show Live Feed icon.
     -   **none**: disables both the show Live Feed icon and the **Follow** button.
 -   Location: **Collaborate** &gt; **Administration** &gt; **Properties**
--   Learn more: [Configure record conversations](../concept/c_CollaborationAdministration.md#)
+-   Learn more: [Configure record conversations](c_CollaborationAdministration.md#)
 
 </td></tr></tbody>
 </table>

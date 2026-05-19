@@ -19,19 +19,19 @@ ServiceNow® Digital Product Release \(DPR\) is a release management solution th
 
 <table id="table_g42_jt4_kyb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how Digital Product Release helps you manage the release process for delivering products and services.](../concept/dpr-exploring-digital-product-release.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how Digital Product Release helps you manage the release process for delivering products and services.](dpr-exploring-digital-product-release.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your release readiness.](../concept/dpr-configuring-digital-product-release.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your release readiness.](dpr-configuring-digital-product-release.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/esg-digital-readiness.svg)Manage and track the process of delivering digital products and services, from planning to delivery.](../concept/dpr-using-digital-product-release.md)
+[Use![](../../../reuse/icons/brand-icons/esg-digital-readiness.svg)Manage and track the process of delivering digital products and services, from planning to delivery.](dpr-using-digital-product-release.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, tables, plugins, and store applications that are installed.](../concept/dpr-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, tables, plugins, and store applications that are installed.](dpr-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

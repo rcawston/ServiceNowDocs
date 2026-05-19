@@ -31,5 +31,5 @@ You can also continue to use the `https:/<instance-name>.service-now.com/api/glo
 
 If you have created custom listener transform scripts, they must be migrated to the push connectors module if you want to use the new `https://<instance-name>.service-now.com/api/sn_em_connector/em/inbound_event` endpoint. To migrate the custom script, navigate to **Event Management** &gt; **Integrations** &gt; **Listener Transform Scripts**, click the relevant listener transform script, and select the displayed script. Then navigate to **Integrations** &gt; **Push Connectors**, click **New**, and paste in the script you copied from the listener transform script.
 
-**Parent Topic:**[Integrate with push connectors](../task/configure-listener-transform-script.md)
+**Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
 

@@ -44,5 +44,5 @@ Role required: rota\_manager
 **Related topics**  
 
 
-[Assigning On-Call Scheduling roles](../concept/roles-assigning-oncall.md)
+[Assigning On-Call Scheduling roles](roles-assigning-oncall.md)
 

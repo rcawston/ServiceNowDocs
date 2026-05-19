@@ -101,5 +101,5 @@ Set up the Access Management Automation application by configuring the Service P
 -   If you are using the application to manage access in Okta, ensure that the user has the Okta admin role to retrieve data in the Okta groups module. Also, the user must have the Okta admin role to submit request using the catalog item.
 -   For information about customizing the widget and macro, see the KB article, [Access Management Automation - Widget &amp; Macro Customisations](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0993763).
 
-**Parent Topic:**[Access Management Automation](../concept/access-management.md)
+**Parent Topic:**[Access Management Automation](access-management.md)
 

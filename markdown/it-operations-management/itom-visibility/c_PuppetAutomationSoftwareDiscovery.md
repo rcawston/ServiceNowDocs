@@ -55,7 +55,7 @@ The credentials used to discover the UNIX server must have privileges to execute
 |IP Address|Puppet Master \[cmdb\_ci\_puppet\_master\]|ip\_address|Puppet - Master Info|
 |Version|Puppet Master \[cmdb\_ci\_puppet\_master\]|version|Puppet - Master Info|
 
--   **[Add the must\_sudo parameter to the Puppet probe](../task/t_AddMustSudoParameterPuppetProbe.md)**  
+-   **[Add the must\_sudo parameter to the Puppet probe](t_AddMustSudoParameterPuppetProbe.md)**  
 To use the Puppet probe with sudo, you must add the **must\_sudo** parameter to each probe that requires it.
 
 **Parent Topic:**[Software discovery](c_Software.md)

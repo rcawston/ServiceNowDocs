@@ -56,5 +56,5 @@ You can plan fund allocations only according to the funding frequency configured
 
 [Allocate funds to planned investments](allocate-funds-to-investment.md)
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

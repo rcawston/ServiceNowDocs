@@ -126,7 +126,7 @@ Use the **Data protection** section to see an overview of classified data, such 
 
 -   **Classified data**
 
-    Displays a pie chart of classified data on your instance, separated by type. Select a section of the chart to view details on these records. For details on data classification, see [Data classification](../../data-privacy-store/concept/dps-data-classification.md).
+    Displays a pie chart of classified data on your instance, separated by type. Select a section of the chart to view details on these records. For details on data classification, see [Data classification](../data-privacy-classic/dps-data-classification.md).
 
 -   **Classified data exports**
 

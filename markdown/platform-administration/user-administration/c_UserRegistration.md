@@ -23,7 +23,7 @@ The user can complete and submit the self-registration form, and see a confirmat
 
 **Note:** If the email address entered in the self-registration form is already in the system, the request is not submitted.
 
-**Parent Topic:**[Creating users](../../roles/concept/ua-creating-users.md)
+**Parent Topic:**[Creating users](ua-creating-users.md)
 
 ## Approve a self-registered user account
 

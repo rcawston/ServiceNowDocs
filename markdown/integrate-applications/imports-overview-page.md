@@ -17,28 +17,28 @@ Import data from external systems and transform it into ServiceNow AI Platform r
 
 <table id="table_hvt_qnp_gwb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore.](../../../common/image/icon-explore.png) Learn about import sets concepts and features.](../../../administer/import-sets/concept/c_ImportSetsKeyConcepts.md)
+[Explore ![Explore.](../../../common/image/icon-explore.png) Learn about import sets concepts and features.](system-import-sets/c_ImportSetsKeyConcepts.md)
 
 </td><td>
 
-[Configure ![Configure.](../../../common/image/icon-set-up.png) Configure a data source for an import set.](../../../administer/import-sets/concept/c_CreateNewDataSource.md)
+[Configure ![Configure.](../../../common/image/icon-set-up.png) Configure a data source for an import set.](system-import-sets/c_CreateNewDataSource.md)
 
 </td></tr><tr><td>
 
-[Use ![Use.](../../../common/image/icon-workspace.png) Learn how to import data using import sets.](../../../administer/import-sets/concept/c_ImportDataUsingImportSets.md)
+[Use ![Use.](../../../common/image/icon-workspace.png) Learn how to import data using import sets.](system-import-sets/c_ImportDataUsingImportSets.md)
 
 </td><td>
 
-[Reference ![Reference.](../../../common/image/icon-reference.png) Get details about easy import template validation.](../../../administer/import-sets/reference/r_TemplateValidation.md#)
+[Reference ![Reference.](../../../common/image/icon-reference.png) Get details about easy import template validation.](easy-import/r_TemplateValidation.md#)
 
 </td></tr></tbody>
 </table>## Products
 
--   **[Import sets](../../../administer/import-sets/reference/import-sets-landing-page.md)**
+-   **[Import sets](system-import-sets/import-sets-landing-page.md)**
 
     Import sets enable administrators to import data from various data sources, and then map that data into ServiceNow tables.
 
--   **[Integration Hub - Import](../../../administer/integrationhub/concept/integrationhub-imports.md)**
+-   **[Integration Hub - Import](integration-hub/integrationhub-imports.md)**
 
     Automate data import tasks through a consolidated interface that provides a guided, step-by-step experience. Define external data sources, specify target tables, map how source data becomes target data, and schedule regular imports.
 
@@ -46,7 +46,7 @@ Import data from external systems and transform it into ServiceNow AI Platform r
 
     The Import Set API provides endpoints that enable you to interact with import set tables. The API transforms incoming data based on associated transform maps. The Import Set API supports synchronous transforms and mirrors the existing SOAP interface.
 
--   **[Easy import](../../../administer/import-sets/concept/c_EasyImport.md)**
+-   **[Easy import](easy-import/c_EasyImport.md)**
 
     Easy import is a simplified import process that enables you to import only the columns you want.
 

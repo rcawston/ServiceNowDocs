@@ -15,7 +15,7 @@ The CSM centered chat interaction record page provides a chat component in the c
 
 ![Centered chat interaction record page with customer history, chat, and contextual side panel components](../image/centered-chat-interaction-record-page.png "CSM centered chat interaction record page")
 
-To use the CSM centered chat interaction record page in CSM Configurable Workspace, enable the page and set the **Order** value. For more information, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+To use the CSM centered chat interaction record page in CSM Configurable Workspace, enable the page and set the **Order** value. For more information, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 **Note:** The [CSM Interaction record page](csm-interaction-record-page.md) is the default experience for chat interaction. This page includes the chat component in the left panel.
 
@@ -95,7 +95,7 @@ Active
 
 </td><td>
 
-Enabling the **Active** check box makes the page variant available to the selected audience. The CSM centered chat interaction record page variant is active by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+Enabling the **Active** check box makes the page variant available to the selected audience. The CSM centered chat interaction record page variant is active by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 </td></tr><tr><td>
 
@@ -300,7 +300,7 @@ The CSM centered chat interaction record page supports actions from the followin
 -   Time Recording for Customer Service \(com.snc.csm\_time\_recording\)
 -   Omni-Experience Standard Feature Set
 
-If you are using any additional plugins, you must add the actions from those plugins to the CSM centered chat interaction record page action bar. For more information, see the configuration steps in this topic: [Configure the Front-line case page action bar](../task/config-front-line-case-page-action-bar.md).
+If you are using any additional plugins, you must add the actions from those plugins to the CSM centered chat interaction record page action bar. For more information, see the configuration steps in this topic: [Configure the Front-line case page action bar](config-front-line-case-page-action-bar.md).
 
 ## Contextual side panel component
 
@@ -328,8 +328,8 @@ For all the other source types, the default guidance is supported. The default g
 
 For more information, see the following topics:
 
-    -   [Enable AI search in Recommended Actions](../task/migrate-ra-agent-assist.md)
-    -   [Use AI search in Recommended Actions to resolve cases](../task/nba-use-ai-search.md)
+    -   [Enable AI search in Recommended Actions](migrate-ra-agent-assist.md)
+    -   [Use AI search in Recommended Actions to resolve cases](nba-use-ai-search.md)
 **Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
 -   **Suggested Actions** tab: This tab displays relevant actions to agents based on a context of a record or recommend a value for a field. For more information on how to configure contexts so that relevant recommendations are displayed for the agents, see [Recommended Actions](configure-nba.md).

@@ -63,7 +63,7 @@ The following are the connection alias requirements.
 -   Connection type: HTTP
 -   Connection URL: For example, `https://languagecloud.sdl.com`. This is a sample URL. Users can have a different URL based on their geographical preference.
 
-See [Configure RWS TMS in the Localization Framework](../task/configure-sdl-tms.md) to connect to the RWS TMS services and use them to localize the artifacts.
+See [Configure RWS TMS in the Localization Framework](configure-sdl-tms.md) to connect to the RWS TMS services and use them to localize the artifacts.
 
 **Parent Topic:**[Translation Management System configurations](tms-configuration.md)
 

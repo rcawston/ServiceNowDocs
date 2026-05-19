@@ -32,16 +32,16 @@ With Microsoft OneDrive integration you can do the following:
 
 ## Activation information
 
-To integrate Microsoft OneDrive with Document Services, install the Multi Provider Document Services Framework plugin \(com.snc.multiprovider\_documents\). For more information, see [Activate Multi Provider Document Services Framework](../task/activate-multi-provider-doc-framework.md).
+To integrate Microsoft OneDrive with Document Services, install the Multi Provider Document Services Framework plugin \(com.snc.multiprovider\_documents\). For more information, see [Activate Multi Provider Document Services Framework](activate-multi-provider-doc-framework.md).
 
 You also need to install the Document Services Framework for Microsoft OneDrive.
 
 -   **[Document Services Framework for Microsoft OneDrive](onedrive-spoke-document-services-framework.md)**  
 Integrate the Document Services Framework with Microsoft OneDrive.
--   **[Setup Microsoft OneDrive for Document Services](../task/configure-ms-onedrive-doc-services.md)**  
+-   **[Setup Microsoft OneDrive for Document Services](configure-ms-onedrive-doc-services.md)**  
 Integrate the ServiceNow instance and Microsoft OneDrive for Document Services by creating a custom OAuth application in Document Services to authenticate ServiceNow requests.
--   **[Register Microsoft OneDrive as an OAuth provider for Document Services](../task/register-ms-onedrive-oauth-provider.md)**  
+-   **[Register Microsoft OneDrive as an OAuth provider for Document Services](register-ms-onedrive-oauth-provider.md)**  
 Use the information generated during Microsoft OneDrive account configuration to register Microsoft OneDrive as an OAuth provider and allow the instance to request OAuth 2.0 tokens.
 
-**Parent Topic:**[Integrate with Document Services](../reference/integrate-with-document-services-mp.md)
+**Parent Topic:**[Integrate with Document Services](integrate-with-document-services-mp.md)
 

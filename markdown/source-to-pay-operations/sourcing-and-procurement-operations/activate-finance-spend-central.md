@@ -55,7 +55,7 @@ Install the following applications in the suggested sequence to get started with
     **Note:** This application is owned by the Field Service Management team.
 
 
-For more information on these applications and their dependencies, see [Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md).
+For more information on these applications and their dependencies, see [Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md).
 
 ## Procedure
 
@@ -84,28 +84,28 @@ For more information on these applications and their dependencies, see [Applicat
 
 Review the various components installed with these installations. For details, see:
 
--   [Components installed with Sourcing and Procurement Operations](../reference/installed-with-FSC.md)
--   [Components installed with ERP Integration Framework](../reference/installed-with-FSC-ERP.md)
--   [Components installed with Finance Common Architecture](../reference/installed-with-finance-common.md)
--   [Properties installed with Finance Common Architecture](../reference/properties-for-finance-common.md)
+-   [Components installed with Sourcing and Procurement Operations](installed-with-FSC.md)
+-   [Components installed with ERP Integration Framework](../common-service-delivery/installed-with-FSC-ERP.md)
+-   [Components installed with Finance Common Architecture](../common-service-delivery/installed-with-finance-common.md)
+-   [Properties installed with Finance Common Architecture](properties-for-finance-common.md)
 
--   **[Components installed with Sourcing and Procurement Operations](../reference/installed-with-FSC.md)**  
+-   **[Components installed with Sourcing and Procurement Operations](installed-with-FSC.md)**  
 Several types of components are installed with the activation of Sourcing and Procurement Operations, including tables, user roles, and scheduled jobs.
--   **[Properties installed with Finance Common Architecture](../reference/properties-for-finance-common.md)**  
+-   **[Properties installed with Finance Common Architecture](properties-for-finance-common.md)**  
 Use these properties to configure various settings in the Sourcing and Procurement Operations application.
--   **[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)**  
+-   **[Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md)**  
 The following table lists the Sourcing and Procurement Operations \(SPO\) plugins, their installation sequence, high-level descriptions, and dependencies.
 
-**Parent Topic:**[Configure Sourcing and Procurement Operations](../concept/configuring-spo.md)
+**Parent Topic:**[Configure Sourcing and Procurement Operations](configuring-spo.md)
 
 **Related topics**  
 
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 
 [Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 
-[Configuring work prioritization](../concept/configuring-work-prioritization.md)
+[Configuring work prioritization](configuring-work-prioritization.md)
 
 [Add a new button in Shopping Hub](add-new-button-shoppinghub.md)
 
@@ -113,9 +113,9 @@ The following table lists the Sourcing and Procurement Operations \(SPO\) plugin
 
 [Configure conditions for merging purchase requisitions](config-pr-merge.md)
 
-[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 
 [Install ShoppingHub Mobile](install-shoppinghub-mobile.md)
 
-[Advanced Work Assignment for Source-to-Pay Operations](../concept/awa-spo.md)
+[Advanced Work Assignment for Source-to-Pay Operations](awa-spo.md)
 

@@ -82,5 +82,5 @@ The enterprise move line is automatically updated with a status of Completed.
 
 Move all remaining enterprise assets that are included in the move order. After all corresponding enterprise move lines reach a status of Completed, the move order is complete.
 
-**Parent Topic:**[Completing an enterprise asset move order](../concept/completing-enterprise-asset-move-order.md)
+**Parent Topic:**[Completing an enterprise asset move order](completing-enterprise-asset-move-order.md)
 

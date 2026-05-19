@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-Several user groups are created when you activate the TPRM app. In this procedure, you add users to each group. The roles mentioned in this procedure are described in [Roles in Third-party Risk Management](../reference/tprm-roles.md).
+Several user groups are created when you activate the TPRM app. In this procedure, you add users to each group. The roles mentioned in this procedure are described in [Roles in Third-party Risk Management](tprm-roles.md).
 
 There’s an important practical result of including all users with a particular role in a group: Your risk management process isn’t affected when one or more members of the group are unavailable due to vacation, for example.
 
@@ -86,7 +86,7 @@ There’s an important practical result of including all users with a particular
 **Related topics**  
 
 
-[Roles in Third-party Risk Management](../reference/tprm-roles.md)
+[Roles in Third-party Risk Management](tprm-roles.md)
 
-[TPRM and the Explicit Roles plugin](../../grc-vendor-risk/concept/vrm-and-explicit-roles-plugin.md)
+[TPRM and the Explicit Roles plugin](vrm-and-explicit-roles-plugin.md)
 

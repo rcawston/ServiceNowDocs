@@ -19,7 +19,7 @@ Use the [Known Error Portal](https://support.servicenow.com/kb?id=kb_article_vie
 
 ## General preferences
 
--   **[Self-health](../concept/self-monitoring.md)**
+-   **[Self-health](self-monitoring.md)**
 
     By default, the self-health monitoring feature is not enabled. To enable it, navigate to **Event Management** &gt; **Settings** &gt; **Properties** and select **Yes** for the **Enable Event Management self-health monitoring** \(evt\_mgmt.self\_health\_active\) property. Use this feature to monitor and track many Event Management features.
 
@@ -166,7 +166,7 @@ Populate the **Resource** and **Metric Name** fields. **Note:** If CI is also bo
 
         Do not add columns to the event \[em\_event\] table.
 
-    For information about how to include additional fields in events, see [Custom alert fields](../concept/populate-custom-alert-fields.md).
+    For information about how to include additional fields in events, see [Custom alert fields](populate-custom-alert-fields.md).
 
     -   **De-Duplication**
 
@@ -253,5 +253,5 @@ Metric Intelligence performance numbers are available in the Performance Statist
 **Related topics**  
 
 
-[Rotate event and alert table for cleanup](../concept/rotate-tables-purge-data.md)
+[Rotate event and alert table for cleanup](rotate-tables-purge-data.md)
 

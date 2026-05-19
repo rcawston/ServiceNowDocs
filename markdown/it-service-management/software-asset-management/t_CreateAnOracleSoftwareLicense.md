@@ -38,5 +38,5 @@ Role required: sam
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Legacy Oracle process pack](../concept/c_OracleProcessPack.md)
+**Parent Topic:**[Legacy Oracle process pack](c_OracleProcessPack.md)
 

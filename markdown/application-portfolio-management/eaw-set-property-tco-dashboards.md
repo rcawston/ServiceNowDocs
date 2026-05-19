@@ -29,10 +29,10 @@ Role required: admin
 
 4.  Select  **Update**.
 
-    The Portfolio TCO dashboard page shows the data according to the specified duration of the fiscal period. For more details, see [Explore the Enterprise Architecture Workspace dashboard](../../../../use/dashboards/concept/eaw-workspace-dashboard.md).
+    The Portfolio TCO dashboard page shows the data according to the specified duration of the fiscal period. For more details, see [Explore the Enterprise Architecture Workspace dashboard](eaw-workspace-dashboard.md).
 
 
-**Parent Topic:**[Configure application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-setup-app-tco.md)
+**Parent Topic:**[Configure application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-setup-app-tco.md)
 
 **Related topics**  
 

@@ -153,22 +153,22 @@ Depending on the value of the **Include consumables** field, the default selecti
 
 Depending on the selected scan method for the audit record, you can scan the assets in the inventory using the ServiceNow Agent app.
 
--   To complete asset scanning for the single scan audit record, see [Complete a single scan inventory audit using the ServiceNow Agent app](../task/scan-assets-agent-app.md).
--   To complete asset scanning for multi scan audit records, see [Complete multi scan inventory audit using the ServiceNow Agent app](../task/complete-multi-scan-inventory-audit-using-mobile-app.md).
+-   To complete asset scanning for the single scan audit record, see [Complete a single scan inventory audit using the ServiceNow Agent app](scan-assets-agent-app.md).
+-   To complete asset scanning for multi scan audit records, see [Complete multi scan inventory audit using the ServiceNow Agent app](complete-multi-scan-inventory-audit-using-mobile-app.md).
 
 </td></tr></tbody>
-</table>**Note:** The audit result fields such as **Expected**, **Not expected and location corrected**, **Missing**, **New**, and **Excluded from licensing** can't be edited. When the asset is scanned in the inventory using the ServiceNow Agent app, values are automatically updated in these fields. For more information about scanning assets, see [Complete a single scan inventory audit using the ServiceNow Agent app](../task/scan-assets-agent-app.md) and [Complete multi scan inventory audit using the ServiceNow Agent app](../task/complete-multi-scan-inventory-audit-using-mobile-app.md).
+</table>**Note:** The audit result fields such as **Expected**, **Not expected and location corrected**, **Missing**, **New**, and **Excluded from licensing** can't be edited. When the asset is scanned in the inventory using the ServiceNow Agent app, values are automatically updated in these fields. For more information about scanning assets, see [Complete a single scan inventory audit using the ServiceNow Agent app](scan-assets-agent-app.md) and [Complete multi scan inventory audit using the ServiceNow Agent app](complete-multi-scan-inventory-audit-using-mobile-app.md).
 
-**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 
 **Related topics**  
 
 
 [Audit results](audit-results.md)
 
-[Create an audit record in the Hardware Asset Management application](../task/audit-your-inventory.md)
+[Create an audit record in the Hardware Asset Management application](audit-your-inventory.md)
 
-[Complete a single scan inventory audit using the ServiceNow Agent app](../task/scan-assets-agent-app.md)
+[Complete a single scan inventory audit using the ServiceNow Agent app](scan-assets-agent-app.md)
 
-[Complete multi scan inventory audit using the ServiceNow Agent app](../task/complete-multi-scan-inventory-audit-using-mobile-app.md)
+[Complete multi scan inventory audit using the ServiceNow Agent app](complete-multi-scan-inventory-audit-using-mobile-app.md)
 

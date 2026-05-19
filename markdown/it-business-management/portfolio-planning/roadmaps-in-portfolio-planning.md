@@ -39,7 +39,7 @@ The features available in these roadmaps are:
 
 By creating a flexible portfolio plan using lenses, you can prioritize and roadmap work for your portfolio. Use these portfolio roadmaps to plan and track work in different perspectives of the organization separately, while connecting them to the high-level plans of the company.
 
-[Create a portfolio plan](../task/create-portfolio-plan-in-portfolio-planning-workspace.md) to get started.
+[Create a portfolio plan](create-portfolio-plan-in-portfolio-planning-workspace.md) to get started.
 
 ![Portfolio roadmap](../images/pp-roadmap.png)
 
@@ -47,13 +47,13 @@ By creating a flexible portfolio plan using lenses, you can prioritize and roadm
 
 Free-form roadmaps provide you the flexibility of planning and tracking work from different units of your company, such as work across multiple portfolios.
 
-Using a filter condition, you can define what kind of work items you want on your roadmap. If you want to have a roadmap dedicated to just the projects of your department, define a roadmap for projects to start tracking the progress of current projects and create plans for new ones. See [Create a free-form roadmap](../task/create-free-form-roadmap-portfolio-planning-workspace.md).
+Using a filter condition, you can define what kind of work items you want on your roadmap. If you want to have a roadmap dedicated to just the projects of your department, define a roadmap for projects to start tracking the progress of current projects and create plans for new ones. See [Create a free-form roadmap](create-free-form-roadmap-portfolio-planning-workspace.md).
 
 Free-form roadmaps provide you the flexibility of planning and tracking work from different units of your company, such as work across multiple portfolios.
 
 Using a filter condition, you can define what kind of work items you want on your roadmap. If you want to have a roadmap dedicated to just the projects of your department, define a roadmap for projects to start tracking the progress of current projects and create plans for new ones.
 
-See [Create a free-form roadmap](../task/create-free-form-roadmap-portfolio-planning-workspace.md).
+See [Create a free-form roadmap](create-free-form-roadmap-portfolio-planning-workspace.md).
 
 ![Free-form roadmap](../../alignment-planner-workspace/images/free-form-roadmap.png)
 
@@ -67,7 +67,7 @@ You can create milestones for your roadmap, or for each planning item on the roa
 
 -   **Roadmap-level or portfolio-level milestones**
 
-    The milestones created at the roadmap level can help with tracking launch dates or key events during that roadmap's timeline. To learn how to create roadmap milestones, see [Add milestones for roadmap](../task/add-milestones-for-roadmap-portfolio-planning.md).
+    The milestones created at the roadmap level can help with tracking launch dates or key events during that roadmap's timeline. To learn how to create roadmap milestones, see [Add milestones for roadmap](add-milestones-for-roadmap-portfolio-planning.md).
 
     ![Roadmap milestones](../../spw-roadmap/images/roadmap-level-milestones.png)
 
@@ -77,7 +77,7 @@ You can create milestones for your roadmap, or for each planning item on the roa
 
     You can create and update milestones for all types of planning items from the roadmap, but the project milestones are read-only. As any changes to project milestones may impact the associated project plans, it is recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
-    To learn how to create item-level milestones on a roadmap, see [Add milestones for roadmap items](../task/add-milestones-for-roadmap-items-portfolio-planning.md).
+    To learn how to create item-level milestones on a roadmap, see [Add milestones for roadmap items](add-milestones-for-roadmap-items-portfolio-planning.md).
 
     ![Planning item-level milestones.](../../spw-roadmap/images/roadmap-item-milestones.png)
 
@@ -92,7 +92,7 @@ In Portfolio Planning, you can create simple or hybrid dependencies. For example
 
 The dependency lines help you easily identify the items that may have to be prioritized together. Such easy identification of relationships between planning items provides better collaboration and facilitates enhanced decision making in the planning process.
 
-To learn about creating and managing dependencies, see [Add dependencies for roadmap items](../task/add-dependencies-roadmap-items-portfolio-planning.md).
+To learn about creating and managing dependencies, see [Add dependencies for roadmap items](add-dependencies-roadmap-items-portfolio-planning.md).
 
 ![Item dependencies on the roadmap.](../../spw-roadmap/images/dependencies-roadmap.png)
 
@@ -100,7 +100,7 @@ To learn about creating and managing dependencies, see [Add dependencies for roa
 
 Track status, progress, and metrics for each item on the roadmap. Using the status indicators and the percentage complete score on the planning item bars, make informed decisions ahead of time and easily communicate your work progress to the stakeholders.
 
-See [Track the progress of roadmap items](../task/track-roadmap-item-progress-portfolio-planning.md).
+See [Track the progress of roadmap items](track-roadmap-item-progress-portfolio-planning.md).
 
 ![Roadmap tracking mode](../../spw-roadmap/images/roadmap-tracking-mode.png)
 

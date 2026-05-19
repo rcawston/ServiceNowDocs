@@ -322,6 +322,6 @@ Channel Support Operations
 -   [What is Manufacturing Commercial Operations \(MCO\)?](https://www.servicenow.com/industries/manufacturing.html)
 -   [Configure Manufacturing Commercial Operations](configuring-manufacturing-foundation.md)
 -   [Using Manufacturing Commercial Operations](manufacturing-using.md)
--   [Reference](../reference/manufacturing-reference.md)
--   [Now Assist for Manufacturing Commercial Operations](../../now-assist-mco/reference/now-assist-for-MCO.md)
+-   [Reference](manufacturing-reference.md)
+-   [Now Assist for Manufacturing Commercial Operations](now-assist-for-MCO.md)
 

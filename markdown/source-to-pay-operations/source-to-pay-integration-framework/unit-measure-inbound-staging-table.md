@@ -22,7 +22,7 @@ The Third Party Unit \[sn\_fcms\_intg\_imp\_uom\] staging table temporarily stor
 |ERP Source|String|ERP source used by the organization.|
 |Set|Reference|Reference to an external data source for importing data.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

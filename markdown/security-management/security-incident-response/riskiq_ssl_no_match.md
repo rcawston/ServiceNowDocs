@@ -44,5 +44,5 @@ Follow the steps to view the results for observables that do not return SSL cert
     -   If no SSL certificates are found for the current observable, then the Summary field displays the message, `No certificates were found`.
     -   If no active SSL certificates are found for the current observable, then the Summary field displays the message, `No active certificates were found`.
 
-**Parent Topic:**[Verify expected results for RISKIQ SSL certificate lookups](../task/verify-expected-rslts-for-riskiq.md)
+**Parent Topic:**[Verify expected results for RISKIQ SSL certificate lookups](verify-expected-rslts-for-riskiq.md)
 

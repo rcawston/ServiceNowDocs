@@ -15,7 +15,7 @@ Add a flow action to an AI agent in AI Agent Studio. Define the flow action to u
 
 ## Before you begin
 
-When an AI agent uses a flow action tool, the user the AI agent is running as must pass the ACL of the flow action. Ensure that the security configurations for the flow action are met by the AI agent and agentic workflow. For more information, see [Security for AI agents](../concept/aia-security-implementation.md).
+When an AI agent uses a flow action tool, the user the AI agent is running as must pass the ACL of the flow action. Ensure that the security configurations for the flow action are met by the AI agent and agentic workflow. For more information, see [Security for AI agents](aia-security-implementation.md).
 
 Role required: sn\_aia.admin
 

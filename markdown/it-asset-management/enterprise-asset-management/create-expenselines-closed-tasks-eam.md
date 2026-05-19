@@ -43,5 +43,5 @@ Role required: sn\_eam.enterprise\_asset\_manager
     The background job **Asset Common Expense Lines for Historical tasks** runs only once and looks for closed tasks without any expense lines and creates expense lines for all those closed tasks. Once the expense lines are created, the **Create expense lines for tasks** button is no longer visible.
 
 
-**Parent Topic:**[Total Cost of Ownership \(TCO\) for enterprise assets](../concept/confifure-eam-asset-tco.md)
+**Parent Topic:**[Total Cost of Ownership \(TCO\) for enterprise assets](confifure-eam-asset-tco.md)
 

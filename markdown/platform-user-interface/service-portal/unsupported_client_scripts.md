@@ -79,8 +79,8 @@ function onLoad() {
 }
 ```
 
--   **[Supported client script types and APIs](../reference/client-script-reference.md)**  
+-   **[Supported client script types and APIs](client-script-reference.md)**  
 Some client scripts are not supported in Service Portal. Others must have a UI type set to **All** or **Mobile / Service Portal**. If using a client script in the Service Portal, only client-side APIs supported in a mobile environment can be used.
 
-**Parent Topic:**[Supported features in Service Portal](../reference/unsupported-features-sp.md)
+**Parent Topic:**[Supported features in Service Portal](unsupported-features-sp.md)
 

@@ -17,10 +17,10 @@ The Trigger Oracle HCM Integration flow maps the entity profile fields from Orac
 
 **Important:** For details about the fields that are mapped, refer to this [KB article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0966823).
 
-**Parent Topic:**[Using HR Service Delivery integration with Oracle Cloud HCM](../task/using-hrsd-int-oracle-clud-hcm.md)
+**Parent Topic:**[Using HR Service Delivery integration with Oracle Cloud HCM](using-hrsd-int-oracle-clud-hcm.md)
 
 **Related topics**  
 
 
-[Run a scheduled job](../task/run-hcm.md)
+[Run a scheduled job](run-hcm.md)
 

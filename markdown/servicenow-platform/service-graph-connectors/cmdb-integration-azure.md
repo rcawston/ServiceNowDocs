@@ -36,7 +36,7 @@ The following are examples on how you can use the Service Graph Connector:
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft Azure using SGC Central](../../sgc-central/task/sgcc-configure-azure-integ.md).
+You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft Azure using SGC Central](sgcc-configure-azure-integ.md).
 
 **Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
@@ -46,7 +46,7 @@ After you upgrade to the latest version of the Service Graph Connector for Micro
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Azure integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Azure integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Event-based discovery
 
@@ -61,13 +61,13 @@ The Service Graph Connector for Microsoft Azure works with event-based discovery
 
 [Service Graph Connectors](cmdb-sgc-available.md)
 
-[Configure Service Graph Connector for Microsoft Azure using the guided setup](../task/configure-azure-integration.md)
+[Configure Service Graph Connector for Microsoft Azure using the guided setup](configure-azure-integration.md)
 
-[Data mapping for Service Graph Connector for Microsoft Azure](../reference/cmdb-data-mapping-azure.md)
+[Data mapping for Service Graph Connector for Microsoft Azure](cmdb-data-mapping-azure.md)
 
-[CMDB classes targeted in Service Graph Connector for Microsoft Azure](../reference/cmdb-azure-classes.md)
+[CMDB classes targeted in Service Graph Connector for Microsoft Azure](cmdb-azure-classes.md)
 
-[Service Graph Connector for Microsoft Azure properties](../reference/cmdb-sgc-azure-props.md)
+[Service Graph Connector for Microsoft Azure properties](cmdb-sgc-azure-props.md)
 
 [Configuring data synchronization in Service Graph Connector for Microsoft Azure](sgc-cmdb-azure-data-sync.md#)
 

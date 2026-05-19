@@ -112,5 +112,5 @@ Name of the Lucid folder. Select the folder where you want to save the diagram. 
 **Related topics**  
 
 
-[Create a Lucidchart diagram for a business capability in the Enterprise Architecture Workspace](../../task/eaw-task/eaw-create-lucid-diagram-cap.md)
+[Create a Lucidchart diagram for a business capability in the Enterprise Architecture Workspace](eaw-create-lucid-diagram-cap.md)
 

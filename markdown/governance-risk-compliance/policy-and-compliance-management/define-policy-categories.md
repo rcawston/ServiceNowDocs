@@ -54,5 +54,5 @@ When you click the search icon in the **Policy** field, only Policy 1, Policy 2,
 
 If none of your policies are tagged, all 5 appear. If you have only one policy tagged, that policy appears in the **Policy** field by default.
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](allow-other-app-policy-except.md)
 

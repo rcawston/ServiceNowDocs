@@ -20,7 +20,7 @@ The Localization Framework enables you to select one or more activated languages
 -   Define localization preferences for the languages available in the instance to request translations.
 -   Lists only the activated languages in the instance to choose for localization of the content.
 
-    **Note:** Before you request for translations, ensure to activate all the required languages in the instance. For more information, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+    **Note:** Before you request for translations, ensure to activate all the required languages in the instance. For more information, see [Activate a language](../system-localization/t_ActivateALanguage.md).
 
 -   Displays the translation status for each activated language only if translations have been requested for insights in those languages. The translation status is updated when the insights dashboard is generated.
 -   Enables you to request translations in the selected language from the localization dashboard for the selected insights records.
@@ -31,9 +31,9 @@ The Localization Framework enables you to select one or more activated languages
     **Note:** Languages without localization settings are disabled for selection while requesting translations.
 
 
--   **[Request translations for Service Catalog items](../task/request-translations-multiple-items.md)**  
+-   **[Request translations for Service Catalog items](request-translations-multiple-items.md)**  
 Request translations for multiple Service Catalog items to localize them from English into one or more languages.
--   **[Request adhoc translation for Service Catalog items](../task/req-adhoc-translation-for-sc-items.md)**  
+-   **[Request adhoc translation for Service Catalog items](req-adhoc-translation-for-sc-items.md)**  
 Request adhoc translations for Service Catalog items to localize them from English into one or more languages using the edit translations option. After you make the changes, you can publish the translations.
 
 **Parent Topic:**[Request translations](using-localization-framework.md)
@@ -41,7 +41,7 @@ Request adhoc translations for Service Catalog items to localize them from Engli
 **Related topics**  
 
 
-[Fulfill a localization task](../task/fulfill-localization-task.md)
+[Fulfill a localization task](fulfill-localization-task.md)
 
-[Approve a localization task](../task/approve-localization-task.md)
+[Approve a localization task](approve-localization-task.md)
 

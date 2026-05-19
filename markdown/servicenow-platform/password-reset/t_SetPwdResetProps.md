@@ -29,7 +29,7 @@ For example, you would not want to allow 100 attempts for users to verify their 
 
 1.  Navigate to **All** &gt; **Password Reset** &gt; **Properties**.
 
-    For information about the Password Reset properties, see [Password Reset global properties](../reference/password-reset-global-properties.md).
+    For information about the Password Reset properties, see [Password Reset global properties](password-reset-global-properties.md).
 
 2.  Update settings as needed and then click **Save**.
 
@@ -39,23 +39,23 @@ For example, you would not want to allow 100 attempts for users to verify their 
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](pwd-reset-process-recommend.md)
 
 [Configure password expiration reminder](password-reset-expiration-setup.md)
 
-[Credential stores for Password Reset](../concept/c_CredentialStores.md)
+[Credential stores for Password Reset](c_CredentialStores.md)
 
-[Password Reset verifications](../concept/c_PWRVerifications.md)
+[Password Reset verifications](c_PWRVerifications.md)
 
-[Configure your Password Reset process to auto-enroll users](../../security/task/configure-auto-enroll-for-pwd-reset.md)
+[Configure your Password Reset process to auto-enroll users](configure-auto-enroll-for-pwd-reset.md)
 
-[Enable users to enroll for Password Reset](../../security/task/configure-user-enroll-for-pwd-reset.md)
+[Enable users to enroll for Password Reset](configure-user-enroll-for-pwd-reset.md)
 
 [Send email to remind users to enroll for Password Reset](config-pwd-reset-enroll-reminder.md)
 
 [Configure the required strength for passwords](config-pwd-strength-rqmts.md)
 
-[Specify lockout for failed login attempts](../../security/task/t_LockoutForFailedLogins.md)
+[Specify lockout for failed login attempts](t_LockoutForFailedLogins.md)
 
 [Configure Google reCAPTCHA for the password reset process](t_ConfigureGoogleRecaptcha.md)
 

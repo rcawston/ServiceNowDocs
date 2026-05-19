@@ -207,12 +207,12 @@ Provides access to the following tables:-   RFID Connection Attributes \[sn\_ita
 -   Loaner Asset Order \[sn\_itam\_common\_loaner\_asset\_order\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+</table>**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](domain-separation-eam.md)
 
 [OT Asset Workspace roles](ot-workspace-roles.md)
 

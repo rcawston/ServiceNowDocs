@@ -15,11 +15,11 @@ breadcrumb: [Configuring Service Operations Workspace for ITSM to improve your e
 
 Configure the Notify properties and Microsoft Teams guided setup for initiating a conference call in Service Operations Workspace.
 
--   **[Configure a provider for Notify in Service Operations Workspace](../task/configure-provider-notify-sow.md)**  
+-   **[Configure a provider for Notify in Service Operations Workspace](configure-provider-notify-sow.md)**  
 Configure a conference provider to be used as a choice for initiating a conference call.
--   **[Configure Notify properties for SOW](../task/configure-notify-properties-sow.md)**  
+-   **[Configure Notify properties for SOW](configure-notify-properties-sow.md)**  
 Manage the Notify application properties to configure the meeting capabilities in SOW.
--   **[Configure Notify connector for Microsoft Teams from Service Operations Workspace](../task/notify-teams-guided-setup.md)**  
+-   **[Configure Notify connector for Microsoft Teams from Service Operations Workspace](notify-teams-guided-setup.md)**  
 Configure your ServiceNow instance with Notify connector for Microsoft Teams application from Service Operations Workspace using the guided setup to enable making calls using Microsoft Teams.
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](configuring-sow-to-improve-experience.md)

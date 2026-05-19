@@ -47,7 +47,7 @@ Role required: admin or catalog\_adminFeatures available for debugging Service C
     |-----|-----------|
     |Item|Current catalog item.|
     |Variable|Variable that is being watched.|
-    |Type|[Type](../reference/r_VariableTypes.md) of the variable.|
+    |Type|[Type](r_VariableTypes.md) of the variable.|
     |Create roles|User type that can create values for the variable.|
     |Write roles|User type that can edit values for the variable.|
     |Read roles|User type that can read values for the variable.|
@@ -76,5 +76,5 @@ Role required: admin or catalog\_adminFeatures available for debugging Service C
 10. To close the pane, click the Close icon \(![Close icon](../image/CloseLog.png) \).
 
 
-**Parent Topic:**[Debugging Service Catalog](../concept/debugging-service-catalog.md)
+**Parent Topic:**[Debugging Service Catalog](debugging-service-catalog.md)
 

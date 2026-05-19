@@ -27,7 +27,7 @@ Role required: admin
 
 3.  [Configure Notify with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md).
 
-4.  [Activate the CTI Softphone plugin \(com.snc.cti\)](../reference/r_CustServMgmtAddtlPluginsTable.md).
+4.  [Activate the CTI Softphone plugin \(com.snc.cti\)](r_CustServMgmtAddtlPluginsTable.md).
 
     If you want to load the demo data for CTI Softphone, you must also activate the Customer Service CTI Demo Data plugin \(com.snc.customerservice\_cti\_demo\). This demo data includes sample workflows.
 

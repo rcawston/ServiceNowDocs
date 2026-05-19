@@ -62,12 +62,12 @@ The setting appears as a row on the **Advanced Solution Setting** tab on your so
 
 Retrain your solution.
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 
 
-[Using Machine Learning APIs](../concept/using-ml-apis.md#)
+[Using Machine Learning APIs](using-ml-apis.md#)
 
 [Create and train a classification solution](create-solution-definition.md)
 

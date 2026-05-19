@@ -29,9 +29,9 @@ If it is later determined that it was a mistake to dismiss the signal or update 
 
 ## Other use topics
 
--   **[Reset baseline or dismiss signal](../task/reset-baseline-dismiss-signal.md)**  
+-   **[Reset baseline or dismiss signal](reset-baseline-dismiss-signal.md)**  
 When you get a signal that abnormal variation has occurred, either dismiss the signal or recalculate the parameters.
--   **[Revert baseline reset or signal dismissal](../task/revert-reset-dismissal.md)**  
+-   **[Revert baseline reset or signal dismissal](revert-reset-dismissal.md)**  
 Review previous decisions to reset the KPI Signals baseline or dismiss a signal. Revert the decision if necessary.
 
 **Parent Topic:**[KPI Signals](process-behavior-charts-for-kpis.md)

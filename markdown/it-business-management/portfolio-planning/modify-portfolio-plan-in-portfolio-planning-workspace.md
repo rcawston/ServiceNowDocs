@@ -80,5 +80,5 @@ Share your updated portfolio plan or collaborate with other stakeholders.
 -   [Share a portfolio plan with stakeholders](share-portfolio-plan-in-portfolio-planning-workspace.md).
 -   [Collaborate on portfolio plans](collaborate-on-portfolio-plans-in-portfolio-planning-workspace.md).
 
-**Parent Topic:**[Managing portfolio plans in Portfolio Planning](../concept/managing-portfolio-plans-in-portfolio-planning.md)
+**Parent Topic:**[Managing portfolio plans in Portfolio Planning](managing-portfolio-plans-in-portfolio-planning.md)
 

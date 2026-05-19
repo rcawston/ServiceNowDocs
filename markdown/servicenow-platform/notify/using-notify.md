@@ -25,8 +25,8 @@ Notify allows you to initiate conference calls and send SMS alerts from task rec
 Use Notify with incident communication plan to send SMS messages or start conference calls.
 -   **[Using Notify with On-Call Scheduling](c_NotifyWithOnCall.md)**  
 When using both Notify and On-Call Scheduling, you can send On-call escalation notifications as SMS messages, in addition to emails.
--   **[Using the Notify Cisco Webex Connector with a major incident](../../cisco-webex-notify-connector/concept/use-cisco-webex-notify-mi.md)**  
+-   **[Using the Notify Cisco Webex Connector with a major incident](use-cisco-webex-notify-mi.md)**  
 Initiate a conference call from the major incident workbench by inviting one or more users to join a call.
 
-**Parent Topic:**[Notify](../reference/notify-landing-page.md)
+**Parent Topic:**[Notify](notify-landing-page.md)
 

@@ -194,5 +194,5 @@ Process failure issues: These issues occur whenever there's an error during a pa
 No. The issue must be corrected before the topic can be published. Edit the description field on the Publish step or from the topic properties page in an Virtual Agent Designer topic before publishing.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Migrating NLU/keyword Virtual Agent topics to LLM topics](../concept/llm-topic-migration.md)
+</table>**Parent Topic:**[Migrating NLU/keyword Virtual Agent topics to LLM topics](llm-topic-migration.md)
 

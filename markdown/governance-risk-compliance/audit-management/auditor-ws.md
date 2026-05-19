@@ -29,9 +29,9 @@ The following table lists the key tasks that you can perform in your role as an 
 
 |Activity|Task|
 |--------|----|
-|Examine records, reports, operating practices, and documentation to ensure compliance with internal controls.|[Update an assigned control test](../task/update-assigned-control-test-audit-ws.md).|
-|Create test plans to document control testing procedure.|[Create a test plan](../task/create-test-plan-audit-ws.md).|
-|Coordinate walkthroughs and interviews for assessing internal control processes.|[Update other assigned audit tasks](../task/update-assigned-audit-tasks-ws.md).|
-|Request and review evidence for control implementation.|[Request evidence for audit tasks](../../grc-audit/task/request-evidence.md).|
-|Comply with federal, state, and local security legal requirements.|[Create an observation for an audit task assigned to an auditor](../task/create-observation-audit-task-auditor-ws.md).|
+|Examine records, reports, operating practices, and documentation to ensure compliance with internal controls.|[Update an assigned control test](update-assigned-control-test-audit-ws.md).|
+|Create test plans to document control testing procedure.|[Create a test plan](create-test-plan-audit-ws.md).|
+|Coordinate walkthroughs and interviews for assessing internal control processes.|[Update other assigned audit tasks](update-assigned-audit-tasks-ws.md).|
+|Request and review evidence for control implementation.|[Request evidence for audit tasks](request-evidence.md).|
+|Comply with federal, state, and local security legal requirements.|[Create an observation for an audit task assigned to an auditor](create-observation-audit-task-auditor-ws.md).|
 

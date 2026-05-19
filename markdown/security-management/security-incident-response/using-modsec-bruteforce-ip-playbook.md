@@ -66,5 +66,5 @@ Role required:
 8.  In Action 16, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for ModSec Brute force by IP Burst](../concept/playbook-modsec-bruteforce-ip.md)
+**Parent Topic:**[Playbook for ModSec Brute force by IP Burst](playbook-modsec-bruteforce-ip.md)
 

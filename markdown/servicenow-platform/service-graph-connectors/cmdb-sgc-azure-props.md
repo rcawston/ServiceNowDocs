@@ -182,7 +182,7 @@ Set the partition size for Azure full data pull. This property determines the nu
 
 **Note:** If no value is specified, the property value is determined based on the number of active threads in the instance.
 
-See [Set partition size for parallel loading-enabled Azure accounts](../task/sgc-azure-partition-size-prop.md).
+See [Set partition size for parallel loading-enabled Azure accounts](sgc-azure-partition-size-prop.md).
 
 </td></tr><tr><td>
 
@@ -214,7 +214,7 @@ Set the property to `false` to deactivate delta synchronization.-   Type: true \
 -   Default value: `false`
 -   Location: System Property \[sys\_properties\] table
 
-See [Configuring data synchronization in Service Graph Connector for Microsoft Azure](../concept/sgc-cmdb-azure-data-sync.md#).
+See [Configuring data synchronization in Service Graph Connector for Microsoft Azure](sgc-cmdb-azure-data-sync.md#).
 
 </td></tr><tr><td>
 
@@ -387,5 +387,5 @@ Set the value to `true` to add new resource types to the Service Graph Resource 
 
 [CMDB classes targeted in Service Graph Connector for Microsoft Azure](cmdb-azure-classes.md)
 
-**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](../concept/sgc-azure-reference.md)
+**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](sgc-azure-reference.md)
 

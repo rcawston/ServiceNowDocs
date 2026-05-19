@@ -38,5 +38,5 @@ Role required: admin
     -   The **Trigger type** is **Condition**.
     -   When the **State** of the LE/HR case changes to **Work in Progress**, the **Condition with Event BR \(Demo\)** activity set triggers and sends a email.
 
-**Parent Topic:**[Lifecycle Events evaluation interval](../concept/le-evaluation-interval1.md)
+**Parent Topic:**[Lifecycle Events evaluation interval](le-evaluation-interval1.md)
 

@@ -112,6 +112,6 @@ Standard contact information for the third-party organization.
 
     The fourth-nth party record is active and associated with a third party.
 
-    For more information on fourth-nth parties, see [Monitoring your fourth-nth parties](../concept/tprm-monitor-fourth-parties.md).
+    For more information on fourth-nth parties, see [Monitoring your fourth-nth parties](tprm-monitor-fourth-parties.md).
 
 

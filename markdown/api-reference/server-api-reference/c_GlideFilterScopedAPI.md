@@ -19,7 +19,7 @@ Methods for this API are accessible using the GlideFilter global object.
 
 ## Case sensitivity
 
-The GlideFilter API is case-sensitive by default. Use the [setCaseSensitive\(\)](c_GlideFilterScopedAPI.md#) method to enable or disable case sensitivity. [GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) queries are case-insensitive.
+The GlideFilter API is case-sensitive by default. Use the [setCaseSensitive\(\)](c_GlideFilterScopedAPI.md#) method to enable or disable case sensitivity. [GlideRecord](c_GlideRecordScopedAPI.md#) queries are case-insensitive.
 
 The following example shows how a GlideRecord query is case-insensitive and results in the same user record with upper or lower case.
 
@@ -161,7 +161,7 @@ Output shows that the GlideFilter encoded query skips the null date value and co
 Record RowCount: 3 - Filter Count: 3
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideFilter – GlideFilter\(String filter, String title\)
 
@@ -254,7 +254,7 @@ now\_GR
 
 </td><td>
 
-[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+[GlideRecord](c_GlideRecordScopedAPI.md#)
 
 </td><td>
 
@@ -360,7 +360,7 @@ now\_GR
 
 </td><td>
 
-[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+[GlideRecord](c_GlideRecordScopedAPI.md#)
 
 </td><td>
 

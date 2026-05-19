@@ -23,7 +23,7 @@ Role required: admin
 
 **Important:** Do not activate this plugin if you have upgraded from a pre-Jakarta release.
 
-If you have modified the base functionality required for the [Problem Management Best Practice — Madrid — State Model](act-pm-best-prac-madrid-state-mod.md) plugin \(com.snc.best\_practice.problem.madrid.state\_model\), use the [Migration Utility](../concept/migration-utility.md) to repair the plugin.
+If you have modified the base functionality required for the [Problem Management Best Practice — Madrid — State Model](act-pm-best-prac-madrid-state-mod.md) plugin \(com.snc.best\_practice.problem.madrid.state\_model\), use the [Migration Utility](migration-utility.md) to repair the plugin.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ If you have modified the base functionality required for the [Problem Management
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Problem Management plugins](../concept/problem-mgmt-plugins.md)
+**Parent Topic:**[Problem Management plugins](problem-mgmt-plugins.md)
 
 **Related topics**  
 

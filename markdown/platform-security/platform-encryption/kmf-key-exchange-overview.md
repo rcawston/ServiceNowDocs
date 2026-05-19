@@ -21,7 +21,7 @@ Key Exchange securely transfers keys across instances.
 
 KMF Key Exchange provides a secure way for customers to exchange KMF keys between instances. One application use case is the data cloning process. With Key Exchange, crypto module keys are copied over during the data cloning of KMF components. Cryptographic modules, module key specifications, and module access policies are included in the cloning process. Transfer of keys isn’t included.
 
-This functionality is included with the Key Management Framework, which is included in the ServiceNow AI Platform Encryption subscription bundle. For details on this product, see [Key Management Framework](../../encryption/concept/encryption.md).
+This functionality is included with the Key Management Framework, which is included in the ServiceNow AI Platform Encryption subscription bundle. For details on this product, see [Key Management Framework](../encryption.md).
 
 ## Using Key Exchange
 

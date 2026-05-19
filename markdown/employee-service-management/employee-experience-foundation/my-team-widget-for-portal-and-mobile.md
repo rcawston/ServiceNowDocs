@@ -41,7 +41,7 @@ You can avoid this redirection by upgrading to the new Now Mobile profile page.
 
 For more information on configuring Employee profile, see [Employee profile](employee-profile-portal.md).
 
--   **[Upgrade search redirection to the new Now Mobile profile page](../task/upgrade-to-new-now-mobile-ui.md)**  
+-   **[Upgrade search redirection to the new Now Mobile profile page](upgrade-to-new-now-mobile-ui.md)**  
 Upgrade to the new Now Mobile profile page for an enhanced user-navigational experience.
 
 **Parent Topic:**[Configuring Employee Center for mobile](ec-mobile-configrations.md)

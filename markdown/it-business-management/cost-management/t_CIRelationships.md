@@ -53,5 +53,5 @@ Use the demo data of the Cost Management plugin to understand how to check all e
     For more information on expense aggregation, see [Enable relationship aggregation](t_EnableRelationshipAggregation.md).
 
 
-**Parent Topic:**[Cost Management](../reference/r_CostManagement.md)
+**Parent Topic:**[Cost Management](r_CostManagement.md)
 

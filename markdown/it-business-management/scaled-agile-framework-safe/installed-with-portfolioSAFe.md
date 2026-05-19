@@ -278,12 +278,12 @@ SAFe Team VTB Board\[sn\_safe\_team\_vtb\_board\]
 Records displayed on the Team level, Board tab.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Portfolio SAFe](../concept/portfolio-overview.md)
+</table>**Parent Topic:**[Portfolio SAFe](portfolio-overview.md)
 
 **Related topics**  
 
 
-[Define a portfolio](../task/create-SAFeportfolio.md)
+[Define a portfolio](create-SAFeportfolio.md)
 
-[SAFe Board—Portfolio level](../concept/portfolio-tabs.md)
+[SAFe Board—Portfolio level](portfolio-tabs.md)
 

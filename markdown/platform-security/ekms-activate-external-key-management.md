@@ -54,12 +54,12 @@ Next steps:
 -   Set up AWS Key Management Service access within AWS \(the process for this is out of scope of the ServiceNow documentation\)
 -   Configure the EKMS key definition in ServiceNow
 
-**Parent Topic:**[Configuring External Key Management Service](../concept/ekms-configuring-external-key-management.md)
+**Parent Topic:**[Configuring External Key Management Service](ekms-configuring-external-key-management.md)
 
 **Related topics**  
 
 
-[External Key Management Service](../concept/ekms-external-key-management.md)
+[External Key Management Service](ekms-external-key-management.md)
 
 [Configure an external key definition](ekms-configure-external-key-definition.md)
 

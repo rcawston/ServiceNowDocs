@@ -17,5 +17,5 @@ Chat message activity is recorded and displayed on the Collaboration tab of the 
 
 The chat message activity includes all the chat conversations occurred between the participants, different user groups.
 
-**Parent Topic:**[Configure Microsoft Teams](../concept/chat-channel-provider-config.md)
+**Parent Topic:**[Configure Microsoft Teams](chat-channel-provider-config.md)
 

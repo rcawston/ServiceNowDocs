@@ -86,5 +86,5 @@ If everything looks good, select **Finalize prompt**. After you finalize the pro
 
 ## Activate the skill
 
-After you test, finalize, and publish your skill, an admin must activate it in Now Assist Admin. To learn more about activating skills, see [Activate a skill](../task/activate-skill.md).
+After you test, finalize, and publish your skill, an admin must activate it in Now Assist Admin. To learn more about activating skills, see [Activate a skill](activate-skill.md).
 

@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns uses the Alibaba - Cloud Hardware Type \(
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md).
+Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -43,5 +43,5 @@ Discovery creates these relationships to support the cloud hardware type discove
 |Availability Zone \[cmdb\_ci\_availability\_zone\]|Contains::Contained by|Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\]|
 |Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\]|Hosted on::Hosts|Alibaba Datacenter \[cmdb\_ci\_alibaba\_datacenter\]|
 
-**Parent Topic:**[Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md)
+**Parent Topic:**[Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md)
 

@@ -17,10 +17,10 @@ Make state transitions occur in any order or skip specific states according to y
 
 Administrators can configure state flows to:
 
--   Limit the [choice list](../task/t_CreateAStateFlow.md) for the **State** field to contain only those states that are valid for the flow.
+-   Limit the [choice list](t_CreateAStateFlow.md) for the **State** field to contain only those states that are valid for the flow.
 -   Define the [behavior and visibility](c_StateFlows.md) of specific fields on a task form when state transitions occur and for certain end states.
 -   Configure [events that are triggered when a task changes states](c_StateFlows.md).
--   [Set up](../task/t_CreateAStateFlow.md) UI actions and business rules to implement certain state transitions, or while the task is in certain states.
+-   [Set up](t_CreateAStateFlow.md) UI actions and business rules to implement certain state transitions, or while the task is in certain states.
 
 The State Flow plugin installs records used by work management to control state transitions for work orders and work order tasks. For detailed information about using work management state flows, see [State flow customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_StateFlowCustomization.md).
 
@@ -83,7 +83,7 @@ When matching fails, the start and end states of affected records are left blank
 
 
 
--   **[Create a state flow](../task/t_CreateAStateFlow.md)**  
+-   **[Create a state flow](t_CreateAStateFlow.md)**  
 Creating State Flows.
 -   **[State flow cleanup](c_StateFlowCleanup.md)**  
 The business rules, client scripts, and UI actions that the system creates automatically to perform custom transitions exist only while the state flow records that use them are present.
@@ -97,5 +97,5 @@ Work notes are an important part of the state flow process and are used to commu
 
 [Use state flows](c_UseStateFlows.md)
 
-[Create a state flow](../task/t_CreateAStateFlow.md)
+[Create a state flow](t_CreateAStateFlow.md)
 

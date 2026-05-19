@@ -37,7 +37,7 @@ Role required: Quality Issue Management Admin, product non-conformance resolver 
 
         1.  On the Product Details form, fill in the fields.
 
-            For a description of the field values, see [Product details form](../reference/mco-product-non-conformance-case-form.md)
+            For a description of the field values, see [Product details form](mco-product-non-conformance-case-form.md)
 
         2.  Select **Save**, to save the product details.
         3.  Select **Assign to me**, to assign the case to self.
@@ -73,11 +73,11 @@ Role required: Quality Issue Management Admin, product non-conformance resolver 
 
     3.  Select edit to view and edit the correction actions form.
 
-        You can add [Correction actions form](../reference/mco-correction-actions-form.md) and [CoPQ expense line form](../reference/mco-copq-expense-line-form.md) details.
+        You can add [Correction actions form](mco-correction-actions-form.md) and [CoPQ expense line form](mco-copq-expense-line-form.md) details.
 
     4.  Select the **Create work order** activity.
 
-        You can add [Work order form](../reference/work-order-form.md) details.
+        You can add [Work order form](work-order-form.md) details.
 
     5.  Select **Save**.
 
@@ -98,7 +98,7 @@ Role required: Quality Issue Management Admin, product non-conformance resolver 
     2.  Apply the containment.
 
         1.  Select **Add**.
-        2.  On the Containment actions form, fill in the [Containment action form](../reference/mco-containment-actions-form.md) details.
+        2.  On the Containment actions form, fill in the [Containment action form](mco-containment-actions-form.md) details.
         3.  Add the Expense line details.
             -   Description
             -   CoPQ Type
@@ -127,7 +127,7 @@ Role required: Quality Issue Management Admin, product non-conformance resolver 
         5.  Add **Resolution notes**.
         6.  Select **Close**.
 
-**Parent Topic:**[Product non-conformance](../concept/mco-product-non-conformances.md)
+**Parent Topic:**[Product non-conformance](mco-product-non-conformances.md)
 
 **Related topics**  
 

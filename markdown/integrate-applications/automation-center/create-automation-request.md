@@ -24,5 +24,5 @@ Create an automation request from Automation Center to automatically streamline 
 -   **[Create an automation request from Process Mining Workspace](create-autreq-po.md)**  
 Create an automation request from the Process Mining Workspace, which is outside of the Automation Center. If you have installed Process Mining and Automation Center, then you can create an automation request from the Process Mining Workspace.
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

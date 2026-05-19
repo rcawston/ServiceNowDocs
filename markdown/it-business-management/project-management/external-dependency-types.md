@@ -15,11 +15,11 @@ breadcrumb: [Basics of Project Management, Exploring Project Management, Project
 
 The Project management application supports two types of external dependencies - hard and soft.
 
-The type of external dependency can be set during [adding a dependency](../task/create-external-dependency-planning-console.md) between two projects tasks on the planning console.
+The type of external dependency can be set during [adding a dependency](create-external-dependency-planning-console.md) between two projects tasks on the planning console.
 
 ## Hard dependencies
 
-In a hard dependency, any changes made in the predecessor project are automatically propagated to the successor project. A [notification](../reference/r_PlanningConsoleTasks.md#table_ukw_ftd_2s) for the changes made is triggered in the successor project. The following image shows the process flow for a hard dependency type:
+In a hard dependency, any changes made in the predecessor project are automatically propagated to the successor project. A [notification](r_PlanningConsoleTasks.md#table_ukw_ftd_2s) for the changes made is triggered in the successor project. The following image shows the process flow for a hard dependency type:
 
 ![Process flow for a hard dependency type](../image/ExternalHardDependency.png "External hard dependency")
 
@@ -36,7 +36,7 @@ In a soft dependency, any changes made in the predecessor project trigger a noti
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -54,7 +54,7 @@ In a soft dependency, any changes made in the predecessor project trigger a noti
 
 [Actual project costs](actual-project-costs.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 

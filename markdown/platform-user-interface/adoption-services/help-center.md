@@ -25,7 +25,7 @@ Help Center is the next-generation Embedded Help product for configurable worksp
 
 </td><td>
 
-[![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Using Help Center](../task/using-help-center.md)
+[![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Using Help Center](using-help-center.md)
 
 </td><td>
 

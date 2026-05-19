@@ -22,5 +22,5 @@ Learn about personas and how to analyze personas before creating an application 
 -   **[Tools for building user interfaces in applications](dev-get-start-ui-tools.md)**  
 Learn about the tools available on the ServiceNow AI Platform for building user interfaces in applications.
 
-**Parent Topic:**[Getting Started guide for developers](../reference/getting-started-landing-page.md)
+**Parent Topic:**[Getting Started guide for developers](getting-started-landing-page.md)
 

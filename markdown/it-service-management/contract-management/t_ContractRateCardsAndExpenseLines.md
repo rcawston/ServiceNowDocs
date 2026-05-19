@@ -37,12 +37,12 @@ Consider the following case: an organization has a contract with a third-party c
 
 4.  On the Contract Rate Card form, fill in the fields.
 
-    For a description of the field values, see [Contract Rate Card form](../reference/ContractRateCardForm.md).
+    For a description of the field values, see [Contract Rate Card form](ContractRateCardForm.md).
 
 5.  Click **Submit**.
 
 
--   **[Contract Rate Card form](../reference/ContractRateCardForm.md)**  
+-   **[Contract Rate Card form](ContractRateCardForm.md)**  
 The Contract rate card form enables you to generate expense lines for recurring expenses automatically by providing detailed price information for a contract. There can be multiple rate cards for the same contract.
 -   **[Create a new expense line](t_CreatingANewExpenseLine.md)**  
 Typically, expense lines are automatically generated based on assets or users, but you can create a new expense line manually if needed.
@@ -51,7 +51,7 @@ An expense line is an expense amount at a given point in time and the record tha
 -   **[View contract expense lines](t_ViewingContractExpenseLines.md)**  
 Use the **Expense Lines** related list or tab to view and audit all the expenses recorded for a given contract.
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](c_Contracts.md)
 
 **Related topics**  
 
@@ -64,7 +64,7 @@ Use the **Expense Lines** related list or tab to view and audit all the expenses
 
 [Send the contract for approval](t_SendTheContractForApproval.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](c_TermsAndConditions.md)
 
 [Monitor a contract](t_MonitoringContracts.md)
 

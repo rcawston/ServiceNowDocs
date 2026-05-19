@@ -50,5 +50,5 @@ Find your bookmarked app by selecting the **Bookmarks** pill on the Creator Stud
 
 **Note:** If you've entered text in the search bar, your bookmarked app won't appear unless it matches the search criteria. To see all bookmarked apps, make sure you've cleared the search bar.
 
-**Parent Topic:**[Building apps with Creator Studio](../concept/building-apps-with-creator-studio.md)
+**Parent Topic:**[Building apps with Creator Studio](building-apps-with-creator-studio.md)
 

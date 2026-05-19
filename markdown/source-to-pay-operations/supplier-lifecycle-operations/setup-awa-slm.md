@@ -53,7 +53,7 @@ Role required: admin
     For detailed instructions on how to configure Advanced Work Assignment, see [Configuring Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/installing-awa.md).
 
 
-**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](../concept/awa-slm-config.md)
+**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)
 
 **Related topics**  
 

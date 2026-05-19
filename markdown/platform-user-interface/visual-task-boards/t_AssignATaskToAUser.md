@@ -62,5 +62,5 @@ For flexible and guided boards, the primary assignee corresponds to the underlyi
 </table>    The system sends an email notification to inform the new assignee of the change.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](r_TaskCards.md)
 

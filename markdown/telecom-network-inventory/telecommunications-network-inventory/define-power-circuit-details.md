@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you create a power circuit connection record, it creates a corresponding configuration item \(CI\) record in the circuit \[cmdb\_ci\_circuit\] table. To learn more, see [Data model](../concept/uses-for-network-inventory-data.md).
+When you create a power circuit connection record, it creates a corresponding configuration item \(CI\) record in the circuit \[cmdb\_ci\_circuit\] table. To learn more, see [Data model](uses-for-network-inventory-data.md).
 
 ## Procedure
 
@@ -33,11 +33,11 @@ When you create a power circuit connection record, it creates a corresponding co
 
 4.  On the **Details** tab, in the Circuit section, fill in the fields.
 
-    To learn more about the fields, see [Power circuit form](../reference/power-circuit-form.md).
+    To learn more about the fields, see [Power circuit form](power-circuit-form.md).
 
 5.  On the **Details** tab, in the Configuration section, fill in the configuration information for the power circuit.
 
-    To learn about the configuration fields, see [Commonly used network asset instance configuration fields](../reference/commonly-used-tni-configuration-fields.md).
+    To learn about the configuration fields, see [Commonly used network asset instance configuration fields](commonly-used-tni-configuration-fields.md).
 
 6.  To create the Telecommunications Network Inventory attributes for the Power Circuit form, select **Set Inventory Attributes**.
 
@@ -49,7 +49,7 @@ When you create a power circuit connection record, it creates a corresponding co
 
 7.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 8.  Select **Save**.
 
@@ -59,7 +59,7 @@ When you create a power circuit connection record, it creates a corresponding co
 
 10. Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 11. To view the associated network inventories, select the brick icon \(![Brick icon.](../image/infrastructure-relashionship.png)\).
 
@@ -68,12 +68,12 @@ When you create a power circuit connection record, it creates a corresponding co
 
 ## What to do next
 
-If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Data model](../concept/uses-for-network-inventory-data.md)
+[Data model](uses-for-network-inventory-data.md)
 

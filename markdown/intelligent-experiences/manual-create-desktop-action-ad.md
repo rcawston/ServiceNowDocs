@@ -28,7 +28,7 @@ Confirm that the following system requirements are met:
 -   Theme must match between the systems used for recording and execution.
 -   Remote Desktop must be enabled on your machine and your account must be granted Remote Desktop access permissions before you start using the AI Desktop Actions Execution workspace.
 
-Familiarize yourself with the Design workspace and Action recorder. For more information, see [AI Desktop Actions Design workspace](../concept/agentic-desktop-overview.md) and [Action recorder in AI Desktop Actions](../concept/action-recorder-ad.md).
+Familiarize yourself with the Design workspace and Action recorder. For more information, see [AI Desktop Actions Design workspace](agentic-desktop-overview.md) and [Action recorder in AI Desktop Actions](action-recorder-ad.md).
 
 Role required: sn\_aia.admin
 
@@ -268,7 +268,7 @@ Recognize text from images and return it in the standard text format.
 
 13. Configure the properties for added screens, anchors, and steps in the Properties panel.
 
-    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md).
+    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](screen-anchor-and-action-properties-ad.md).
 
 14. Modify the auto-generated names for all added screens, anchors, and steps.
 
@@ -285,20 +285,20 @@ Recognize text from images and return it in the standard text format.
 
 1.  Configure the details of your desktop action. For more information, see [Add details to desktop actions in AI Desktop Actions](add-details-desktop-action-ad.md).
 2.  Test and activate the desktop action so that it can be added as a tool to AI agents. For more information, see [Test and activate a desktop action in AI Desktop Actions](test-activate-desktop-action-ad.md).
-3.  Add the desktop action as a tool to AI agents in AI Agent Studio. For more information, see [Add a desktop action to an AI agent](../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md).
+3.  Add the desktop action as a tool to AI agents in AI Agent Studio. For more information, see [Add a desktop action to an AI agent](add-desktop-action-ai-agent.md).
 
 **Related topics**  
 
 
-[AI Desktop Actions Design workspace](../concept/agentic-desktop-overview.md)
+[AI Desktop Actions Design workspace](agentic-desktop-overview.md)
 
-[Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md)
+[Screen, anchor, and step properties in AI Desktop Actions](screen-anchor-and-action-properties-ad.md)
 
 [Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](auto-create-desktop-action-ad.md)
 
-[Add a desktop action to an AI agent](../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md)
+[Add a desktop action to an AI agent](add-desktop-action-ai-agent.md)
 
-[Examples of creating desktop actions](../concept/examples-of-agentic-desktop-automation.md)
+[Examples of creating desktop actions](examples-of-agentic-desktop-automation.md)
 
-[Examples of executing desktop actions using AI agents](../concept/use-agentic-desktop.md)
+[Examples of executing desktop actions using AI agents](use-agentic-desktop.md)
 

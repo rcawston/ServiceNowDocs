@@ -40,7 +40,7 @@ A reusable action includes these components.
     A step is a single reusable operation within an action. For example, the **Create Record** step allows action designers to specify the table and field values to use during record creation. Step configuration requires subject matter expertise with application tables, fields, and business logic. Application developers or IT generalists add steps to actions from the Workflow Studio action design environment. Workflow Studio provides a set of ServiceNow core steps to automate ServiceNow AI Platform processes. You can add application-specific steps by activating the associated spoke.
 
 
-For detailed instructions for creating an action, see [Create an action in Workflow Studio](../../flow-designer/task/create-action.md).
+For detailed instructions for creating an action, see [Create an action in Workflow Studio](create-action.md).
 
 ## Actions benefits
 

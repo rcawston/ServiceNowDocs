@@ -34,7 +34,7 @@ Initially, the default lists are:
 -   CI Identifier:
 
     -   Source table: Identifiers \[cmdb\_identifier\]
-    -   More information: Identifiers in identification rule sets which are defined for different classes of CIs. For more information, see [Create a CI identification rule](../task/t_CreateCIIdentificationRule.md)
+    -   More information: Identifiers in identification rule sets which are defined for different classes of CIs. For more information, see [Create a CI identification rule](t_CreateCIIdentificationRule.md)
 -   Relationships:
 
     -   Source table: Cl Relationship \[cmdb\_rel\_ci\]
@@ -68,5 +68,5 @@ Users with the sn\_cmdb\_editor or sn\_cmdb\_admin roles, can select **New** to 
 
 ## My lists
 
-Custom and shared lists where you can select **Create new list** to create a new custom list associated with the logged on user. For more information, see [Create a custom list in the Lists view in Service Graph Workspace](../task/sg-workspace-create-custom-list.md).
+Custom and shared lists where you can select **Create new list** to create a new custom list associated with the logged on user. For more information, see [Create a custom list in the Lists view in Service Graph Workspace](sg-workspace-create-custom-list.md).
 

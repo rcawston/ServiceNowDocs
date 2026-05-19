@@ -28,5 +28,5 @@ Enter the following field settings for Source-to-Scope restricted caller access.
 |Target Type|Type of requested resource. Select **Target** to include all application resources in the selected target scope.|
 |Operation|Type of operation \(for example, Read, Write\) in the target application resource the source application resource requests access to.|
 
-**Parent Topic:**[Set the application scope, application resource, and event access](../task/scope-resource-access.md)
+**Parent Topic:**[Set the application scope, application resource, and event access](scope-resource-access.md)
 

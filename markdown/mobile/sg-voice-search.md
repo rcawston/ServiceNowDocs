@@ -25,7 +25,7 @@ Take advantage of the speech recognition feature of your mobile device. Use voic
 
  The first time you use the voice search feature, your mobile device may prompt you to allow your ServiceNow app to record audio.
 
- **Note:** Your administrator must enable this feature. For details on enabling voice search on your instance, see [Enable voice search](../../mobile-employee/task/turn-on-voice-search.md).
+ **Note:** Your administrator must enable this feature. For details on enabling voice search on your instance, see [Enable voice search](turn-on-voice-search.md).
 
 </td></tr></tbody>
 </table>The first time you use the voice search feature, your mobile device may prompt you to allow your ServiceNow app to record audio.

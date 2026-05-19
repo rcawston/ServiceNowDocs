@@ -42,7 +42,7 @@ Expanding to 1 item
 ![](../image/ConfigurePreview2.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service catalog home page configuration](../concept/c_ManagingTheHomepageForACatalog.md)
+</table>**Parent Topic:**[Service catalog home page configuration](c_ManagingTheHomepageForACatalog.md)
 
 ## Set number of items and categories to preview
 

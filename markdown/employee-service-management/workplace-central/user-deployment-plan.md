@@ -75,7 +75,7 @@ Workplace case
 Workplace case record that is created for assignment changes of the user.Workplace cases are created after a scenario is deployed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+</table>**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

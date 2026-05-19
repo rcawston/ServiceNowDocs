@@ -23,7 +23,7 @@ Role required: major\_incident\_manager, ia\_admin, or admin
 
 1.  Navigate to **All** &gt; **Incident Communications Management** &gt; **Open**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 2.  Open the incident communication plan for which you want to create the communication task.
 
@@ -55,5 +55,5 @@ Role required: major\_incident\_manager, ia\_admin, or admin
 
 Create adhoc incident communication channel. For more information on how to define a communication channel, refer [Define a communication channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-channel-definition.md).
 
-**Parent Topic:**[Managing Incident Communications](../concept/working-with-inci-comm-mgmt.md)
+**Parent Topic:**[Managing Incident Communications](working-with-inci-comm-mgmt.md)
 

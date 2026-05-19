@@ -86,20 +86,20 @@ The **Risk Assessments** tab shows assessments only if you've installed the Thir
 
 The risk assessment form is submitted and the supplier manager can evaluate it further.
 
-**Parent Topic:**[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+**Parent Topic:**[Using Supplier Collaboration Portal](use-supp-central.md)
 
 **Related topics**  
 
 
 [Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)
 
-[Supplier contact self-registration](../concept/supp-contact-self-reg.md)
+[Supplier contact self-registration](supp-contact-self-reg.md)
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
-[Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md)
+[Viewing supplier contact tasks from the Supplier Collaboration Portal](my-to-dos.md)
 
 [View or update your user profile from the Supplier Collaboration Portal](view-update-supp-profile.md)
 
@@ -113,7 +113,7 @@ The risk assessment form is submitted and the supplier manager can evaluate it f
 
 [Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md)
 
-[Create a Universal Request from the Supplier Collaboration Portal](../concept/create-universal-request.md)
+[Create a Universal Request from the Supplier Collaboration Portal](create-universal-request.md)
 
-[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+[Using Supplier Collaboration Portal](use-supp-central.md)
 

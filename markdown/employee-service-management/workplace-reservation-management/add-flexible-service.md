@@ -149,7 +149,7 @@ Add the flexible service to a workplace space or room, so that the service is av
 -   **[Add a flexible service to workplace item](add-flex-service-to-workplace-item.md)**  
 Enable employees to request for extra services. Add an extra service to a workplace space or room, and make the service available to employees when they make a reservation.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -188,9 +188,9 @@ Enable employees to request for extra services. Add an extra service to a workpl
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

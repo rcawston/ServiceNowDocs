@@ -23,7 +23,7 @@ Use these activities to register, list, or delete DNS records managed on an Info
 
 The List DNS C-records activity retrieves all canonical \(CNAME\) records from a specified Infoblox server.
 
-The DNS activities use the [REST web service activity](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The DNS activities use the [REST web service activity](t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DNS**.
 
@@ -91,7 +91,7 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 
 The Register DNS A-record activity creates a DNS A record on a specified Infoblox server.
 
-The DNS activities use the [REST web service activity](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The DNS activities use the [REST web service activity](t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DNS**.
 
@@ -188,7 +188,7 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 
 The Register DNS C-Record activity creates a DNS canonical \(CNAME\) record on a specified Infoblox server.
 
-The DNS activities use the [REST web service activity](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The DNS activities use the [REST web service activity](t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DNS**.
 
@@ -277,7 +277,7 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 
 The List DNS Record activity generates a list of all the DNS entries on a specific InfoBlox server.
 
-The DNS activities use the [REST web service activity](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The DNS activities use the [REST web service activity](t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DNS**.
 
@@ -347,7 +347,7 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 
 The DNS Delete activity deletes DNS records of any type from in Infoblox server, such as C and A records.
 
-The DNS activities use the [REST web service activity](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The DNS activities use the [REST web service activity](t_CreateARESTWebServiceActivity.md#) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DNS**.
 

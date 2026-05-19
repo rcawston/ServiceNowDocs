@@ -65,5 +65,5 @@ Create a unique appointment booking schedule for each day of the week or for spe
     ![Appointment selection choices](../image/SelectAnAppointment.png)
 
 
-**Parent Topic:**[Configure Walk-up Experience appointment booking](../concept/walkup-appointment-booking-config.md)
+**Parent Topic:**[Configure Walk-up Experience appointment booking](walkup-appointment-booking-config.md)
 

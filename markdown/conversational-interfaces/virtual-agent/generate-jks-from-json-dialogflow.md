@@ -90,7 +90,7 @@ Role required: admin
 
 A JKS file is created.
 
-**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ggl-dialogflow.md)
+**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ggl-dialogflow.md)
 
 **Previous topic:**[Create a service account and private key for the Google Dialogflow project](create-srvc-acct-key-dialogflow.md)
 

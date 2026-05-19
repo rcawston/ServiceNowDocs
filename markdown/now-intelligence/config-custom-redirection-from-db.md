@@ -21,7 +21,7 @@ Role required: ui\_builder\_admin
 
 ## About this task
 
-**Important:** The procedure described here applies only to dashboards created in the inline editor. For technical dashboards, you configure redirection through a drilldown event for each data visualization. For more information, see [Add a drilldown event to a data visualization on a technical dashboard](../../dashboards/task/add-custom-drilldown-event.md).
+**Important:** The procedure described here applies only to dashboards created in the inline editor. For technical dashboards, you configure redirection through a drilldown event for each data visualization. For more information, see [Add a drilldown event to a data visualization on a technical dashboard](add-custom-drilldown-event.md).
 
 ## Procedure
 
@@ -62,20 +62,20 @@ Role required: ui\_builder\_admin
 
 All redirections from data visualizations on that dashboard open your specified target.
 
-**Parent Topic:**[Creating Platform Analytics pages in your own workspace](../concept/adding-analytics-center-to-ws.md)
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a Platform Analytics workspace from App Engine Studio](../concept/create-analytics-ws-aes.md)
+[Create a Platform Analytics workspace from App Engine Studio](create-analytics-ws-aes.md)
 
 [Add Platform Analytics pages to a configurable workspace](add-analytics-center-to-experience.md#)
 
 [Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md)
 
-[Dashboard URL parameter delegation](../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
+[Dashboard URL parameter delegation](dashboard-url-parameter-delegation.md#)
 
-[Pass global filters to the dashboard page template](../../par-for-workspace/task/pass-global-filters-to-db.md)
+[Pass global filters to the dashboard page template](pass-global-filters-to-db.md)
 
-[Configure dashboard data broker](../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
+[Configure dashboard data broker](configure-dashboard-data-broker.md)
 

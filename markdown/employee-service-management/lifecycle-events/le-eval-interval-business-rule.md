@@ -48,5 +48,5 @@ Role required: admin
     The Timer was cancelled when the LE/HR case state was changed to **Work in Progress** and the **check\_activity\_set\_trigger** event was fired.
 
 
-**Parent Topic:**[Lifecycle Events evaluation interval](../concept/le-evaluation-interval1.md)
+**Parent Topic:**[Lifecycle Events evaluation interval](le-evaluation-interval1.md)
 

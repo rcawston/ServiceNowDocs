@@ -132,5 +132,5 @@ To see a list of available default email notifications, go to **All** &gt; **Sys
 
 For more information, see [Create an email notification](https://servicenow.com/docs/bundle/vancouver-platform-administration/page/administer/notification/task/t_CreateANotification.html).
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

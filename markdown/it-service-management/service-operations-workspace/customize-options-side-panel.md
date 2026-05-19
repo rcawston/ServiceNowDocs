@@ -64,5 +64,5 @@ By default, all record pages such as an incident and interaction record page hav
     5.  Select **Update**.
 
 
-**Parent Topic:**[Contextual side panel configurations in Service Operations Workspace for ITSM](../concept/contextual-side-panel-configurations-sow-itsm.md)
+**Parent Topic:**[Contextual side panel configurations in Service Operations Workspace for ITSM](contextual-side-panel-configurations-sow-itsm.md)
 

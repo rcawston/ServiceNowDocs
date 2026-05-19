@@ -20,7 +20,7 @@ The Discovery and Service Mapping Patterns application uses the MSSql DB On Wind
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/06a71b1367e4130051c9027e2685ef1e/1.6.0?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%26q%3DPatterns&sl=sh) to view all the available updates and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-For detailed information on SQL Server supported versions see: [Detailed information on products discovered by ITOM Visibility](../../service-mapping/reference/r_SupportedApplications.md)
+For detailed information on SQL Server supported versions see: [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md)
 
 ## Prerequisites
 
@@ -80,7 +80,7 @@ The following procedure enables appropriate visibility of the SQL clusters.
 2.  Ensure that an `sqlservr.exe` process to trigger the MSSql DB On Windows pattern is running on the server.
 3.  Run a CI discovery.
 
-    For more information, see [Running discoveries in your network](../concept/running-discoveries.md).
+    For more information, see [Running discoveries in your network](../discovery/running-discoveries.md).
 
 4.  Either keep duplicate instances and databases or delete them.
     -   To keep the duplicate instances and databases, keep the default configuration.
@@ -518,14 +518,14 @@ The MSSql DB On Windows pattern creates the following relationships and referenc
 |MSSQL Availability Group Listener \[cmdb\_ci\_mssql\_ag\_listener\]|Availability Group \[availability\_group\]|MSSQL Availability Group \[cmdb\_ci\_mssql\_ag\]|
 |MSSQL Availability Group Replica \[cmdb\_ci\_mssql\_ag\_replica\]|Availability Group \[availability\_group\]|MSSQL Availability Group \[cmdb\_ci\_mssql\_ag\]|
 
-**Parent Topic:**[Database discovery](../concept/database-discovery.md)
+**Parent Topic:**[Database discovery](database-discovery.md)
 
 **Related topics**  
 
 
-[Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#)
+[Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#)
 
-[Horizontal Pattern probe](r-HorizontalPatternProbe.md)
+[Horizontal Pattern probe](../discovery/r-HorizontalPatternProbe.md)
 
-[Database Administrator \(DBA\) report discovery](../concept/dba-report-discovery-pattern.md)
+[Database Administrator \(DBA\) report discovery](dba-report-discovery-pattern.md)
 

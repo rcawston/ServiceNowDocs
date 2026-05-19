@@ -105,7 +105,7 @@ Allows the UIB pages which contains the dashboard to take control of how the Das
 -   The page needs custom navigation logic for dashboard changes.
 -   The dashboard is embedded \(without isEmbedded turned on\) in a workspace where URL management is handled by the parent.
 
-For more information, see [Dashboard URL parameter delegation](../concept/dashboard-url-parameter-delegation.md#).
+For more information, see [Dashboard URL parameter delegation](dashboard-url-parameter-delegation.md#).
 
 **Note:** This functionality requires the latest Platform Analytics experience application from the ServiceNow® Store.
 
@@ -115,7 +115,7 @@ Default dashboard \[defaultDashboard\]
 
 </td><td>
 
-Select an existing dashboard to show in this dashboard component. This other dashboard is usually in the Platform Analytics experience. For that dashboard to be shown, it must include your workspace or experience in the **Dashboard Visibility** field in its dashboard details, as described in [Configure Platform Analytics dashboard details](../../../use/dashboards/task/config-db-in-ac.md).You can select a dashboard statically or dynamically, through a state variable or a script.
+Select an existing dashboard to show in this dashboard component. This other dashboard is usually in the Platform Analytics experience. For that dashboard to be shown, it must include your workspace or experience in the **Dashboard Visibility** field in its dashboard details, as described in [Configure Platform Analytics dashboard details](config-db-in-ac.md).You can select a dashboard statically or dynamically, through a state variable or a script.
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ Use data broker to fetch data \[useDataBroker\]
 
 </td><td>
 
-When toggled on, the dashboard prefetches static JavaScript, such as dashboard metadata, using a data broker. The Dashboard data broker preset automatically toggles this property on. Without the preset, this property is off by default. For more information, see [Configure dashboard data broker](../task/configure-dashboard-data-broker.md).
+When toggled on, the dashboard prefetches static JavaScript, such as dashboard metadata, using a data broker. The Dashboard data broker preset automatically toggles this property on. Without the preset, this property is off by default. For more information, see [Configure dashboard data broker](configure-dashboard-data-broker.md).
 
 </td></tr><tr><td>
 
@@ -167,5 +167,5 @@ Data broker response for the dashboard \[data\]
 The response for the data broker when it is used. The Dashboard data broker preset automatically sets a JSON object for this property. You can override this value or set it manually without turning the preset on, if you absolutely need to.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Add a dashboard to a Dashboards page](../../../use/performance-analytics/task/add-dashboard-to-workspace.md)
+</table>**Parent Topic:**[Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md)
 

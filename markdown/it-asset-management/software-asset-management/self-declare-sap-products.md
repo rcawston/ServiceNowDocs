@@ -72,5 +72,5 @@ To determine if you must self-declare the license usage for a given engine, see 
 
 After you self-declare the license usage for the SAP engine, it is automatically included in the next SAP reconciliation that runs on your ServiceNow instance. Reconciliation runs weekly or on-demand.
 
-**Parent Topic:**[Self-declaring SAP engine license usage](../concept/self-declaring-sap-engine-usage.md)
+**Parent Topic:**[Self-declaring SAP engine license usage](self-declaring-sap-engine-usage.md)
 

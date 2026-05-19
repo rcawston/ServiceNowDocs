@@ -91,9 +91,9 @@ From the context menu, click **Cancel Change**. Provide a reason for canceling t
     You can also add approval history to the change request activity log. Click the activity filter icon and select **Approval history** from the list. When there is a change in the approval process, such as an approval, rejection, or comments, the activity log is updated.
 
 
--   **[Associated CIs on a change request](../concept/c_AffectedCIsAndImpactedServices.md#)**  
+-   **[Associated CIs on a change request](c_AffectedCIsAndImpactedServices.md#)**  
 You can associate additional CIs or services to change requests through related lists on the Change Request form. You can also associate CIs with a change request from the dependency views map.
--   **[Mass Update CI](../concept/bulk-ci-change.md)**  
+-   **[Mass Update CI](bulk-ci-change.md)**  
 The Mass Update CI plugin enable users to apply the same update to a set of CIs for a specific CI class. The Change Management - Mass Update CI plugin is intended to be used when the Change Management - State Model plugin is activated.
 -   **[Use Mass Update CI](use-bulk-mass-ci-changes.md)**  
 You can use the proposed changes in a change request to apply the same update to a set of CIs for a specific CI class.
@@ -102,7 +102,7 @@ You can put a change request on hold to get additional information for the creat
 -   **[Refresh impacted services and CIs for Change](refresh-impacted-services-cis.md)**  
 The Impacted services and CIs related list refreshes its records and also the records listed in the Service Offerings and Business Applications related lists based on the affected CIs. You can identify the impacted services and CIs and take necessary action.
 
-**Parent Topic:**[Using Change Management](../concept/using-change-management.md)
+**Parent Topic:**[Using Change Management](using-change-management.md)
 
 **Related topics**  
 

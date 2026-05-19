@@ -17,7 +17,7 @@ Accounts Payable Specialists and agents can use Accounts Payable Operations to m
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents.
 
--   **[Create a knowledge base article about invoice](../task/create-knowledge-base-articles-for-invoices.md)**  
+-   **[Create a knowledge base article about invoice](create-knowledge-base-articles-for-invoices.md)**  
 Create a knowledge base article to share invoice information and policies with your employees and suppliers.
 -   **[Invoice case categories and subcategories](working-with-cases.md)**  
 An agent and Accounts Payable Specialist can access and work on the invoice cases in the Accounts Payable workspace.
@@ -27,11 +27,11 @@ Agents can use Invoice Case Management to manage and work on invoice inquiry cas
 Accounts Payable Specialists can use the Accounts Payable Invoice Processing application to manage and work on invoice processing cases to perform end-to-end invoice processing, from invoice ingestion to approval.
 -   **[Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md)**  
 Advanced Work Assignment \(AWA\) automatically assigns work items to Accounts Payable Operations agents based on their availability, capacity and skills. AWA pushes work to qualified agents using work item queues, routing conditions, and assignment criteria that you define. The work items are available in **Agent workspace inbox**.
--   **[Configure Advanced Work Assignment for Accounts Payable Operations](../task/configure-advanced-work-assignment-for-apo.md)**  
+-   **[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)**  
 Configure AWA for APO to ensure that requests or queries received via email, chat, messenger are routed to the respective APO agents belonging to defined groups.
 -   **[Using Advanced Work Assignment for Accounts Payable Operations](using-awa-for-apo.md)**  
 AWA enables suppliers to interact with Accounts Payable Operations agents inquire or resolve invoice-related queries.
--   **[Working with Advanced Work Assignment](../task/working-with-advanved-work-assignment.md)**  
+-   **[Working with Advanced Work Assignment](working-with-advanved-work-assignment.md)**  
 Suppliers interact with APO agents for invoice inquiry cases using the live chat.
 -   **[Interaction management in Accounts Payable Operations](interaction-record.md)**  
 Any request for assistance made to an Accounts Payable specialist via email, chat, phone is logged in an auto-generated interaction record. Agents can choose to create a case from the interaction record, create a request, and associate an interaction record with an existing invoice case record.

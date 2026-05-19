@@ -23,5 +23,5 @@ The base system provides allegation types and subtypes that you can use immediat
 
 ![Default Allegation Subtypes](../image/er-allegation-subtypes.png "Default Allegation Subtypes")
 
-You can also create allegation types and subtypes based on your business needs. See [Configure an employee relations allegation type](../task/hr-er-create-allegation-type.md).
+You can also create allegation types and subtypes based on your business needs. See [Configure an employee relations allegation type](hr-er-create-allegation-type.md).
 

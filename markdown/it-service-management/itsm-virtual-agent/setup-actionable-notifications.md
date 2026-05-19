@@ -45,5 +45,5 @@ Role required: admin or virtual\_agent\_admin
 3.  [Enable notifications in Virtual Agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-va-notifications.md)
 
 
-**Parent Topic:**[Setting up ITSM Virtual Agent](../concept/setting-up-itsm-va.md)
+**Parent Topic:**[Setting up ITSM Virtual Agent](setting-up-itsm-va.md)
 

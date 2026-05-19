@@ -72,16 +72,16 @@ By default, services mapping are provided for the Coupa base system. For other C
 -   Define service mappings manually for each integration service by accessing the Service Mappings related list. You can define element level mapping between Coupa table fields and payload elements.
 -   Map the users and corresponding ERP User IDs by accessing the ERP User Mappings related list.
 
-**Parent Topic:**[Configure Source-to-Pay integration with Coupa](../concept/configuring-source-to-pay-coupa-integration.md)
+**Parent Topic:**[Configure Source-to-Pay integration with Coupa](configuring-source-to-pay-coupa-integration.md)
 
 **Related topics**  
 
 
-[ERP Source Configuration for Coupa](../concept/erp-source-configuration-coupa.md)
+[ERP Source Configuration for Coupa](erp-source-configuration-coupa.md)
 
 [Configure integration services for Coupa](configure-integration-services-coupa.md)
 
 [Activate the schedule flows](activate-schedule-flows-coupa.md)
 
-[Looking up primary data in Coupa](../concept/look-up-primary-data-coupa.md)
+[Looking up primary data in Coupa](look-up-primary-data-coupa.md)
 

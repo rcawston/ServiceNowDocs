@@ -20,5 +20,5 @@ Data fields are migrated from a demand to a project when the project is created 
 -   **[Data migrated from demands to Enterprise Agile Planning \(EAP\) entities](data-copied-from-demands-to-eap-entities.md)**  
 Data fields are migrated from a demand to an EAP entity when the entity is created from the demand.
 
-**Parent Topic:**[Demand Management reference](../../service-portfolio-management2/concept/demand-management-reference.md)
+**Parent Topic:**[Demand Management reference](demand-management-reference.md)
 

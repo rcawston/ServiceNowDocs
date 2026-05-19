@@ -15,7 +15,7 @@ breadcrumb: [Install Supplier Case Management, Configure, Supplier Lifecycle Ope
 
 Several types of components are installed with activation of Supplier Case Management, including tables and user roles.
 
-The user roles and tables, even though installed along with Supplier Case Management, reside in the Supplier Common Architecture application. For more information, see [Supplier Common Architecture](../concept/supplier-common.md).
+The user roles and tables, even though installed along with Supplier Case Management, reside in the Supplier Common Architecture application. For more information, see [Supplier Common Architecture](supplier-common.md).
 
 **Note:** The following roles are installed with Finance Common Architecture \(com.sn\_fin\), which is installed as a dependent plugin:
 
@@ -269,12 +269,12 @@ Organization Tax Details
 Stores the tax registration details of the supplier.**Note:** This table has been added in the Finance Common Architecture \(com.sn\_fin\) plugin.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Supplier Case Management](../task/install-supp-mgmt.md)
+</table>**Parent Topic:**[Install Supplier Case Management](install-supp-mgmt.md)
 
 **Related topics**  
 
 
 [Application plugin installation sequence in Supplier Case Management](slm-plugin-list.md)
 
-[Explicit Roles in Supplier Case Management](../concept/slo-explicit-roles-plugin.md)
+[Explicit Roles in Supplier Case Management](slo-explicit-roles-plugin.md)
 

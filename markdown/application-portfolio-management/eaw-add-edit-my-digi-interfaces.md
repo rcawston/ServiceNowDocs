@@ -37,12 +37,12 @@ Each business application or an application service you interact with provides a
     -   To update an existing interface, select a digital integration, then select **Edit**.
 6.  On the Digital Interface form, fill in the fields.
 
-    For field information, see [Digital interface form](../../reference/eaw-reference/eaw-digital-interface-form.md).
+    For field information, see [Digital interface form](eaw-digital-interface-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](eaw-work-with-your-entities.md)
 
 **Related topics**  
 

@@ -86,7 +86,7 @@ Essential tips to remember when using the Format Text Component to avoid the fol
     -   `{{` represents a literal `{`
     -   `}}` represents a literal `}`
 
-You can configure the properties for the Format Text component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Format Text component. For more information about these properties, see [Properties of the General components](Properties-general-components.md).
 
 ## Procedure
 
@@ -182,5 +182,5 @@ No. Connecting the port is optional.
 </table>10. To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

@@ -124,7 +124,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 |LINE|Supported|None|
 |WhatsApp|Supported|None|
 |Apple Messages for Business|Supported|Any URLs must be added to the allowed domain list \[sys\_cs\_hostname\_allow\_list\] table.|
-|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the user receives a message: `We found a link`. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](../concept/va-settings-for-alexa.md).|
+|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the user receives a message: `We found a link`. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](va-settings-for-alexa.md).|
 
 ## Example single-link bot response control
 

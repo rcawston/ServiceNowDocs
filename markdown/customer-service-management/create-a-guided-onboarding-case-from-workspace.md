@@ -54,7 +54,7 @@ The following diagram shows how an agent processes a case.
 **Related topics**  
 
 
-[Create an onboarding request from the service catalog](../task/create-an-onboarding-request-from-catalog.md)
+[Create an onboarding request from the service catalog](create-an-onboarding-request-from-catalog.md)
 
 [Creating an onboarding case with Playbooks for Portals](create-an-onboarding-case-with-portal-playbook.md)
 

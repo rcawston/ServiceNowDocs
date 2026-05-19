@@ -45,11 +45,11 @@ An escalation policy is a set of guidelines that outlines how and when incidents
 
 5.  On the Escalation policy form, fill in the fields.
 
-    For more information, see [Set up escalation policies form in SRM](../reference/sr-set-up-escalation-policies-form.md)
+    For more information, see [Set up escalation policies form in SRM](sr-set-up-escalation-policies-form.md)
 
 6.  Select **Add escalation step** to define the additional steps for escalation and escalation path.
 
-    For more information on the Add escalation step form, see [Set up escalation policies form in SRM](../reference/sr-set-up-escalation-policies-form.md).
+    For more information on the Add escalation step form, see [Set up escalation policies form in SRM](sr-set-up-escalation-policies-form.md).
 
 7.  Select **Save changes**.
 
@@ -59,5 +59,5 @@ An escalation policy is a set of guidelines that outlines how and when incidents
 -   **[Create an escalation trigger for an SRM team](sr-trigger-escalation-policy.md)**  
 To address issues promptly, define the conditions that trigger a team's escalation policy in Service Reliability Management \(SRM\).
 
-**Parent Topic:**[Working with SRM teams](../concept/sr-work-teams.md)
+**Parent Topic:**[Working with SRM teams](sr-work-teams.md)
 

@@ -17,5 +17,5 @@ If the sender of an incoming email matches an existing user, the instance impers
 
 **Note:** If inbound email comes from an untrusted domain, the instance impersonates the Guest user unless you explicitly prevent users from untrusted domains from triggering inbound actions. For more information on filtering domains, see [Designate untrusted and trusted email domains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/designate-untrusted-trusted-email-domains.md).
 
-**Parent Topic:**[References for Inbound email](../concept/references-inbound-email.md)
+**Parent Topic:**[References for Inbound email](references-inbound-email.md)
 

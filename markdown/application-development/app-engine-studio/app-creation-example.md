@@ -37,7 +37,7 @@ Step 2
 
 </td><td>
 
-[Create an app](../task/app-tutorial-create-an-app.md)
+[Create an app](app-tutorial-create-an-app.md)
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Step 6
 
 </td><td>
 
-[Test your application](../task/app-tutorial-test-app.md)
+[Test your application](app-tutorial-test-app.md)
 
 </td></tr></tbody>
 </table>

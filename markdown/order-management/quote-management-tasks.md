@@ -42,5 +42,5 @@ Role required: sales\_manager
     The quote task is added to the main quote.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

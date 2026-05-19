@@ -37,7 +37,7 @@ Role required: Admin or sp\_admin
     |-----|-----------|
     |Name|Name of the carousel slide. Use the name to differentiate the slide from other slide records.|
     |Order|Where the slide appears in the list of slides|
-    |HREF/URL|Link to the item in the slide. For example, for a slide with a catalog item, link to page for the catalog item using the HREF `?id=<page name>&sys_id=<sys_id for item>`. For more information on linking to a page within a portal, see [Page navigation in Service Portal by URL](../concept/navigate-by-portal-url.md). You can also link to other sites using the URL.|
+    |HREF/URL|Link to the item in the slide. For example, for a slide with a catalog item, link to page for the catalog item using the HREF `?id=<page name>&sys_id=<sys_id for item>`. For more information on linking to a page within a portal, see [Page navigation in Service Portal by URL](navigate-by-portal-url.md). You can also link to other sites using the URL.|
     |Background|Upload an image for the slides. Carousel images should be 1022x300 pixels.|
     |Application|Automatically populated with the name of the application the portal falls under.|
     |Carousel|Name of the instance of the carousel widget you are adding the slide to. This field is not automatically populated and you cannot select an instance of the carousel widget if it does not have a name.|
@@ -45,5 +45,5 @@ Role required: Admin or sp\_admin
     Repeat this step for as many slides as you want to appear in the carousel widget.
 
 
-**Parent Topic:**[Carousel widget](../concept/carousel-widget.md)
+**Parent Topic:**[Carousel widget](carousel-widget.md)
 

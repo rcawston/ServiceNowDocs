@@ -68,7 +68,7 @@ Once an incident is promoted, the default configuration is applied.
 -   Chat channels are created based on the channels configuration.
 -   An email message is sent to the designated users. The default notification contains a link to the major security incident and details of the incident. The designated users also now have access to the collaboration resources, so the notification also includes the Microsoft Team name and a link to Microsoft SharePoint folders related to the incident.
 
-**Parent Topic:**[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+**Parent Topic:**[Propose, promote, and link incident records](promoting-sir-to-msim.md)
 
 **Related topics**  
 

@@ -293,5 +293,5 @@ You have a custom action that looks up the Users who have a given role and conve
 
 Customize this action to use your own logic.
 
-**Parent Topic:**[Script support for complex data](../concept/script-support-complex-data.md)
+**Parent Topic:**[Script support for complex data](script-support-complex-data.md)
 

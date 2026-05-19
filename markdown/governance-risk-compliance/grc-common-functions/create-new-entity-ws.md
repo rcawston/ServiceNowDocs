@@ -63,12 +63,12 @@ An entity is an object for an action. The entities have controls to mitigate the
     -   Privacy assessments
     -   CRI Tiering assessments
     -   CRI assessments
-    For information on the fields in these related lists, see [An entity in the workspace view](../concept/entities-in-risk-ws.md).
+    For information on the fields in these related lists, see [An entity in the workspace view](entities-in-risk-ws.md).
 
 7.  View the highlighted details side-panel for information such as the downstream hierarchy, entity types, and policies related to the entity.
 
 8.  To save the updates to the entity, click **Save**.
 
 
-**Parent Topic:**[An entity in the workspace view](../concept/entities-in-risk-ws.md)
+**Parent Topic:**[An entity in the workspace view](entities-in-risk-ws.md)
 

@@ -88,5 +88,5 @@ Select **Attach File** to attach the import model file in JSON format.**Note:**
     -   The generation of a record triggers its automatic addition to the **Import Results**. From this tab, you can see the import status and can select the generated model.
     -   A dedicated inventory template is generated for every rack/cabinet equipment holders, equipment models, and card models. Moreover, the related templates are generated based on the defined model relationship.
 
-**Parent Topic:**[Import models and templates](../concept/import-models-and-templates.md)
+**Parent Topic:**[Import models and templates](import-models-and-templates.md)
 

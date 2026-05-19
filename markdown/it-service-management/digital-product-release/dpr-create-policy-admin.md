@@ -46,7 +46,7 @@ The policies are defined using ServiceNow® Policy as Code Engine \(PaCE\), so m
 
     2.  Process data from the DevOps application data model related to the product using the base system data collectors.
 
-        The data collectors collect inputs by processing data from ServiceNow or an external data source to provide an output. The output can be used in the policy logic to take a decision. For more information, see [Digital Product Release data collectors](../reference/dpr-data-collector.md).
+        The data collectors collect inputs by processing data from ServiceNow or an external data source to provide an output. The output can be used in the policy logic to take a decision. For more information, see [Digital Product Release data collectors](dpr-data-collector.md).
 
 6.  Test your policy in the **Test Playground** tab.
 

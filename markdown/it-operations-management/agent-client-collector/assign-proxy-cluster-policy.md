@@ -17,7 +17,7 @@ Assign a proxy agent cluster to a policy when monitoring services external to th
 
 ## Before you begin
 
-Ensure that you have a policy containing the checks that monitor external services. For details on these checks and policies, see [Agent Client Collector Monitoring default checks and policies](../reference/agent-policies-checks.md).
+Ensure that you have a policy containing the checks that monitor external services. For details on these checks and policies, see [Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md).
 
 Role required: agent\_client\_collector\_admin
 
@@ -74,7 +74,7 @@ Only one app should be run on a given proxy agent because running multiple apps 
 -   **[Enable load balancing between proxy agents in a cluster](view-proxy-ci-distribution.md)**  
 Enable load balancing between proxy agents in a cluster so that if an agent is not functioning properly, monitored CIs are redistributed to another agent. After enabling load balancing, you can view the CIs monitored by each proxy agent in a policy.
 
-**Parent Topic:**[Using proxy agents in Agent Client Collector](../concept/proxy-agent.md)
+**Parent Topic:**[Using proxy agents in Agent Client Collector](proxy-agent.md)
 
 **Related topics**  
 

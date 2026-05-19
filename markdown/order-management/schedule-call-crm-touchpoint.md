@@ -35,7 +35,7 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 7.  On the Create New Callback form, fill in the fields.
 
-    For a description of the field values, see [Create new callback form](../reference/create-call-touchpoint-form.md).
+    For a description of the field values, see [Create new callback form](create-call-touchpoint-form.md).
 
 8.  Select **Save**.
 
@@ -44,5 +44,5 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 The call is scheduled and can be tracked from the touchpoint's **Scheduled calls** tab.
 
-**Parent Topic:**[Using Activity Management](../concept/using-activity-management.md)
+**Parent Topic:**[Using Activity Management](using-activity-management.md)
 

@@ -153,8 +153,8 @@ Build Request
 </td><td>
 
 Option to create the request manually, import an OpenAPI Specification, or import a REST message. -   **Manually**: Create action inputs and complete the REST step form manually.
--   **From OpenAPI specification**: Import an OpenAPI Specification to generate action inputs and complete the REST step form. For more information, see [OpenAPI support in the REST step](../../integrationhub/concept/open-api-integration.md).
--   **From REST Message**: Import a Platform REST message. For more information, see [Import a REST message into a REST step](../task/import-rest-message-step.md).
+-   **From OpenAPI specification**: Import an OpenAPI Specification to generate action inputs and complete the REST step form. For more information, see [OpenAPI support in the REST step](open-api-integration.md).
+-   **From REST Message**: Import a Platform REST message. For more information, see [Import a REST message into a REST step](import-rest-message-step.md).
 
 </td></tr><tr><td>
 
@@ -378,8 +378,8 @@ The general strategy to get extracted data from the response is to do the follow
 
 For a detailed example, see the section on Parsing a REST Response in the [REST in IntegrationHub developer training \(Zurich\)](https://developer.servicenow.com/dev.do#!/learn/courses/australia/app_store_learnv2_rest_australia_rest_integrations/app_store_learnv2_rest_australia_rest_in_integration_hub/app_store_learnv2_rest_australia_rest_in_integration_hub_objectives).
 
--   **[Import a REST message into a REST step](../task/import-rest-message-step.md)**  
+-   **[Import a REST message into a REST step](import-rest-message-step.md)**  
 Transfer data from an existing Platform REST message into a REST step.
 
-**Parent Topic:**[Integration steps](../../integrationhub/concept/integration-steps.md)
+**Parent Topic:**[Integration steps](integration-steps.md)
 

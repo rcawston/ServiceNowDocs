@@ -30,7 +30,7 @@ Transactions use the Quota Manager, which is a background thread that cancels tr
 
 3.  Cancels the transaction if it has been running longer than the specified quota maximum.
 4.  Logs the running transactions.
-5.  Sleeps until the next heartbeat, which is controlled by the **glide.quota.manager.heartbeat** [system property](../reference/r_ConfigureTransactionQuotaProps.md).
+5.  Sleeps until the next heartbeat, which is controlled by the **glide.quota.manager.heartbeat** [system property](r_ConfigureTransactionQuotaProps.md).
 
 ## Transaction cancellation from exceeded quotas
 

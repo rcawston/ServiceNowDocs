@@ -122,7 +122,7 @@ Channel partner
 
     2.  Enter suspension start and end dates for suspend requests and select **Suspend**.
 
-        If you do not specify a date, the suspension is effective immediately. For more information, see [Suspend and resume products and services](../concept/order-mgt-suspend-resume-action.md).
+        If you do not specify a date, the suspension is effective immediately. For more information, see [Suspend and resume products and services](order-mgt-suspend-resume-action.md).
 
 10. Review the order lines by selecting the **Order Line Items** tab.
 
@@ -133,10 +133,10 @@ Channel partner
     The order state changes to New and is available for approval.
 
 
-**Parent Topic:**[Managing post-fulfillment order changes](../concept/managing-orders.md)
+**Parent Topic:**[Managing post-fulfillment order changes](managing-orders.md)
 
 **Related topics**  
 
 
-[Suspend and resume products and services](../concept/order-mgt-suspend-resume-action.md)
+[Suspend and resume products and services](order-mgt-suspend-resume-action.md)
 

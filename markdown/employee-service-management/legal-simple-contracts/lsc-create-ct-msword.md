@@ -29,7 +29,7 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 4.  On the Word Template New Record form, fill in the fields.
 
-    For a description of the field values, see [Word Template New Record form](../reference/lsc-word-tmple-rec-form.md).
+    For a description of the field values, see [Word Template New Record form](lsc-word-tmple-rec-form.md).
 
 5.  Extract the content marked by the supported content controls from the imported document by selecting **Parse Document**.
 

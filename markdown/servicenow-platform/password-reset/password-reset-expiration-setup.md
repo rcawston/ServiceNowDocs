@@ -41,7 +41,7 @@ After configuring password expiration reminder, notifications are sent to users 
 
 5.  On the form, fill in the fields.
 
-    For information about the fields on the Password Expiration Configuration form, see [Password Expiration Configuration form](../reference/password-expiration-configuration-form.md).
+    For information about the fields on the Password Expiration Configuration form, see [Password Expiration Configuration form](password-expiration-configuration-form.md).
 
 6.  Save the form.
 
@@ -62,15 +62,15 @@ You can view a password expiration table and validate whether a record is create
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](pwd-reset-process-recommend.md)
 
-[Credential stores for Password Reset](../concept/c_CredentialStores.md)
+[Credential stores for Password Reset](c_CredentialStores.md)
 
-[Password Reset verifications](../concept/c_PWRVerifications.md)
+[Password Reset verifications](c_PWRVerifications.md)
 
-[Configure your Password Reset process to auto-enroll users](../../security/task/configure-auto-enroll-for-pwd-reset.md)
+[Configure your Password Reset process to auto-enroll users](configure-auto-enroll-for-pwd-reset.md)
 
-[Enable users to enroll for Password Reset](../../security/task/configure-user-enroll-for-pwd-reset.md)
+[Enable users to enroll for Password Reset](configure-user-enroll-for-pwd-reset.md)
 
 [Configure Password Reset properties](t_SetPwdResetProps.md)
 
@@ -78,9 +78,9 @@ You can view a password expiration table and validate whether a record is create
 
 [Configure the required strength for passwords](config-pwd-strength-rqmts.md)
 
-[Specify lockout for failed login attempts](../../security/task/t_LockoutForFailedLogins.md)
+[Specify lockout for failed login attempts](t_LockoutForFailedLogins.md)
 
 [Configure Google reCAPTCHA for the password reset process](t_ConfigureGoogleRecaptcha.md)
 
-[System properties for password expiration](../reference/password-expiration-system-properties.md)
+[System properties for password expiration](password-expiration-system-properties.md)
 

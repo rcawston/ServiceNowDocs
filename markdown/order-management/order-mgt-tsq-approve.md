@@ -37,7 +37,7 @@ Role required: sn\_ind\_tmt\_orm.order\_fulfilment\_manager, sn\_ind\_tmt\_orm.o
 
     **Note:** The **Qualify Order** option is available only on the top order line items in the hierarchy.
 
-    -   The Result field is updated to **Pending** and the [Process Qualification Request subflow](../reference/order-mgt-tsq-subflow.md) subflow is launched. After the subflow has been executed, depending on the response from the external inventory system, the Customer Order Result field is updated to one of the following:
+    -   The Result field is updated to **Pending** and the [Process Qualification Request subflow](order-mgt-tsq-subflow.md) subflow is launched. After the subflow has been executed, depending on the response from the external inventory system, the Customer Order Result field is updated to one of the following:
         -   Qualified: Requested service is available.
         -   Alternate: Requested service is not available but an alternate proposal is available.
         -   Unqualified: Requested service and alternate proposals are not available.
@@ -84,5 +84,5 @@ Role required: sn\_ind\_tmt\_orm.order\_fulfilment\_manager, sn\_ind\_tmt\_orm.o
         -   Result: Can be None, Qualified, Unqualified, Alternate, or Pending.
         -   Unavailability reason
 
-**Parent Topic:**[Service qualification requests](../concept/order-mgt-tsq-about.md)
+**Parent Topic:**[Service qualification requests](order-mgt-tsq-about.md)
 

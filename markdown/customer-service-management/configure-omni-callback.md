@@ -19,8 +19,8 @@ The configuration process consists of the configuration tasks listed in the foll
 
 |Task|Description|
 |----|-----------|
-|[Install Omnichannel Callback for Customer Service Management](../task/install-csm-omni-callback-app.md)|Install the Omnichannel Callback application \(sn\_callback\).|
-|[Configure the callback behavior for Omnichannel Callback for Customer Service Management](../task/configure-omni-callback-behaviour.md)|Configure the various aspects of callback such as max retry attempts and expire time.|
-|[Publish the Virtual Agent topics for callback](../task/publish-callback-va-topics.md)|Publish the callback virtual agent topics to display the callback option to customers on Virtual Agent clients.|
-|[Callback feature configuration form](../reference/em-callback.md)|Configure the callback feature in Engagement Messenger.|
+|[Install Omnichannel Callback for Customer Service Management](install-csm-omni-callback-app.md)|Install the Omnichannel Callback application \(sn\_callback\).|
+|[Configure the callback behavior for Omnichannel Callback for Customer Service Management](configure-omni-callback-behaviour.md)|Configure the various aspects of callback such as max retry attempts and expire time.|
+|[Publish the Virtual Agent topics for callback](publish-callback-va-topics.md)|Publish the callback virtual agent topics to display the callback option to customers on Virtual Agent clients.|
+|[Callback feature configuration form](em-callback.md)|Configure the callback feature in Engagement Messenger.|
 

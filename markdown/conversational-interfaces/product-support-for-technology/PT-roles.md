@@ -77,7 +77,7 @@ Simplify user administration by creating groups that contain all the roles neces
 
 For details on the administration of users, groups, and roles, see [User Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_UserAdministration.md).
 
-**Parent Topic:**[Components installed with the Proactive Triggers feature](../concept/components-installed-with-proactive-triggers.md)
+**Parent Topic:**[Components installed with the Proactive Triggers feature](components-installed-with-proactive-triggers.md)
 
 ## Proactive Triggers admin \[sn-pt.proactive\_admin\]
 

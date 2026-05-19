@@ -29,7 +29,7 @@ Port A
 
 </td><td>
 
-Network interface that is used in the Port A connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network interface. To learn more, see [Define the network interface details](../task/define-tni-interfaces.md).
+Network interface that is used in the Port A connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network interface. To learn more, see [Define the network interface details](define-tni-interfaces.md).
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ Port Z
 
 </td><td>
 
-Network interface that is used in the Port Z connection. Select the search icon \(![Search icon.](../image/search.png)\) and select a network interface. To learn more, see [Define the network interface details](../task/define-tni-interfaces.md).
+Network interface that is used in the Port Z connection. Select the search icon \(![Search icon.](../image/search.png)\) and select a network interface. To learn more, see [Define the network interface details](define-tni-interfaces.md).
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Vendor
 
 </td><td>
 
-Name of the network asset's vendor. Select the search icon \(![Search icon.](../image/search.png)\) and select a vendor code. To learn more, see [Create manufacturer and vendor codes](../task/add-company-designate-manufacturer-tni.md).
+Name of the network asset's vendor. Select the search icon \(![Search icon.](../image/search.png)\) and select a vendor code. To learn more, see [Create manufacturer and vendor codes](add-company-designate-manufacturer-tni.md).
 
 </td></tr><tr><td>
 
@@ -119,5 +119,5 @@ Distance is expressed in meters.
 **Related topics**  
 
 
-[Define the physical connection details](../task/define-tni-physical-connections.md)
+[Define the physical connection details](define-tni-physical-connections.md)
 

@@ -60,5 +60,5 @@ Role required: agent\_client\_collector\_admin
 
 Fix your proxy issues if the command output doesn't match the Attachments table entries.
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](installing-dex-local.md)
 

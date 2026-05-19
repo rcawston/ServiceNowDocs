@@ -18,7 +18,7 @@ Personalize the Kanban tab view in your portfolio plan's Planning page as displa
 
 ## Before you begin
 
-[Create a portfolio plan](../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
+[Create a portfolio plan](create-portfolio-plans-in-alignment-planner-workspace.md).
 
 Role required: sn\_align\_core.apw\_user
 
@@ -63,10 +63,10 @@ Choose your desired values from the vertical lane and horizontal lane fields, us
 Choose the fields that you want to view on the cards. Use the toggle buttons for the **Owner** and **Item type** fields, for the other fields use the drop-downs.![update the fields to show on the card.](../images/show-on-card.gif)**Note:** Your Kanban preferences will be saved at the portfolio plan level.
 
 </td></tr></tbody>
-</table>    See [Customize the planning item display preferences for Prioritization and Roadmap](../../spw-roadmap/task/configure-source-table-preferences-for-roadmap.md).![Using the Kanban side-panel, drag and drop, and changing the lanes functionality.](../images/using-kanban.gif)
+</table>    See [Customize the planning item display preferences for Prioritization and Roadmap](configure-source-table-preferences-for-roadmap.md).![Using the Kanban side-panel, drag and drop, and changing the lanes functionality.](../images/using-kanban.gif)
 
     **Important:** The default display limit of vertical lanes and horizontal lanes shown on a Kanban board is 30 and 30 respectively. These lanes support only reference and choice fields. As you user, you will not be able to change the field metrics on a Kanban card.
 
 
-**Parent Topic:**[Personalizing views for prioritization](../concept/personalize-prioritization-page-in-strategic-planinng-workspace.md)
+**Parent Topic:**[Personalizing views for prioritization](personalize-prioritization-page-in-strategic-planinng-workspace.md)
 

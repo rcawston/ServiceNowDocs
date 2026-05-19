@@ -33,7 +33,7 @@ You can create an exception rule to automatically defer the findings that match 
 
 **Approving an exception rule request**
 
-Approving an exception rule request is a two-level process. If only the first-level approver is present, the exception rule can be assessed and approved by a single approval. However, if there's no first-level approver, an exception rule approval can't be approved. See [Approve an exception rule request](../task/sem-approve-ex-rule-request.md) for more information.
+Approving an exception rule request is a two-level process. If only the first-level approver is present, the exception rule can be assessed and approved by a single approval. However, if there's no first-level approver, an exception rule approval can't be approved. See [Approve an exception rule request](sem-approve-ex-rule-request.md) for more information.
 
 **Note:** The Change Approval \(CA\) is now also created during exception rule submission. This enhancement ensures consistency across exception workflows and improves traceability.
 

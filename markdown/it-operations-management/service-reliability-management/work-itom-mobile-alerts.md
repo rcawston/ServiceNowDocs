@@ -71,9 +71,9 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
 2.  Tap the **Notifications** tab and select the relevant alert.
 3.  Tap the **More options** icon \(![More options icon](../../event-management/image/more-actions-icon-horizontal.png)\) and select **Create incident**.
 
-ITOM Mobile Agent displays a notification similar to `INC0013579 was created from Alert0002468`. You can view the incident in the **My team** tab. For more information about managing incidents in ITOM Mobile Agent, see [Managing incidents and major incidents on mobile](../reference/itom-mobile-incidents.md).
+ITOM Mobile Agent displays a notification similar to `INC0013579 was created from Alert0002468`. You can view the incident in the **My team** tab. For more information about managing incidents in ITOM Mobile Agent, see [Managing incidents and major incidents on mobile](itom-mobile-incidents.md).
 
-**Note:** If you don't see the option to create an incident from an alert, make sure that the alert is assigned to a team. To assign the alert to a team, see [Assign alerts in Express List](../../service-operations-workspace-itom/task/assign-alerts.md). In the Express List, teams are also known as assignment groups.
+**Note:** If you don't see the option to create an incident from an alert, make sure that the alert is assigned to a team. To assign the alert to a team, see [Assign alerts in Express List](../service-operations-workspace-for-itom-apps/assign-alerts.md). In the Express List, teams are also known as assignment groups.
 
 ## Reassign an alert
 
@@ -93,5 +93,5 @@ ITOM Mobile Agent displays Alert reassigned successfully. The assigned team memb
 
 **Previous topic:**[Use ITOM Mobile](use-itom-mobile.md)
 
-**Next topic:**[Managing incidents and major incidents on mobile](../reference/itom-mobile-incidents.md)
+**Next topic:**[Managing incidents and major incidents on mobile](itom-mobile-incidents.md)
 

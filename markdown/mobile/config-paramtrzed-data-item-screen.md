@@ -29,7 +29,7 @@ This configuration enables parametrized data item support for the following targ
 
 When you complete this configuration, the parametrized screen is populated with query results based on inputs or variables from an input form screen. In this scenario, the inputs and variables of the input form screen are used as part of a data item's query condition.
 
-The parametrized data item screen isn’t supported [offline](../concept/mobile-offline-mode.md).
+The parametrized data item screen isn’t supported [offline](mobile-offline-mode.md).
 
 ## Procedure
 

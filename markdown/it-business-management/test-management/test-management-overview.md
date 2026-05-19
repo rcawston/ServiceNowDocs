@@ -135,17 +135,17 @@ You can:-   run a single test at a time.
 </td></tr></tbody>
 </table>**Note:**
 
--   If you are an existing Test Management user on a release prior to London, you are using Test Management 1.0 activated through the Test Management \(com.snc.test\_mgmt\) plugin. See the [Test Management 1.0](../../test-management/concept/c_TestManagement.md) documentation for more information.
+-   If you are an existing Test Management user on a release prior to London, you are using Test Management 1.0 activated through the Test Management \(com.snc.test\_mgmt\) plugin. See the [Test Management 1.0](c_TestManagement.md) documentation for more information.
 -   If you are a new user, you can activate the Test Management 2.0 \(com.snc.test\_management.2.0\) plugin as it provides enhanced testing capabilities. See the [Test Management 2.0](test-management-overview.md#)documentation for more information.
 
--   **[Domain separation and Test Management](../../test-management/concept/domain-separation-test-management.md)**  
+-   **[Domain separation and Test Management](domain-separation-test-management.md)**  
 Domain separation is supported in Test Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Test Management 1.0](../../test-management/concept/c_TestManagement.md)**  
+-   **[Test Management 1.0](c_TestManagement.md)**  
 The ServiceNow® Test Management 1.0 application provides a tool for manual software testing.
--   **[Test Management 2.0](../reference/test-management2-landing-page.md)**  
+-   **[Test Management 2.0](test-management2-landing-page.md)**  
 The ServiceNow® Test Management 2.0 application streamlines the management of testing processes to help you deliver software products more efficiently and with fewer errors. You can create multiple versions of a test and integrate with Agile Development 2.0.
--   **[Migration from Test Management 1.0 to Test Management 2.0](../task/migrate-test.md)**  
+-   **[Migration from Test Management 1.0 to Test Management 2.0](migrate-test.md)**  
 Migrate your test data from Test Management 1.0 to Test Management 2.0, and start using Test Management 2.0 for its enhanced testing capabilities and features.
 
-**Parent Topic:**[Strategic Portfolio Management](../../it-business-management/reference/r_ITBusinessManagement.md)
+**Parent Topic:**[Strategic Portfolio Management](../r_ITBusinessManagement.md)
 

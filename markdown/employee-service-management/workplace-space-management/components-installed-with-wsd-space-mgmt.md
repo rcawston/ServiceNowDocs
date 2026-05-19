@@ -131,7 +131,7 @@ As a Project Owner, you can create and manage Schedule Plans.
 </td></tr></tbody>
 </table>## Tables installed with Workplace Space Management
 
-**Note:** Neighborhood is moved from Workplace Space Management \[version\] to Workplace Core \[version\]. For more information, see [Components installed with Workplace Core](../../workplace-service-delivery/reference/components-installed-with-workplace-service-delivery.md).
+**Note:** Neighborhood is moved from Workplace Space Management \[version\] to Workplace Core \[version\]. For more information, see [Components installed with Workplace Core](../workplace-core/components-installed-with-workplace-service-delivery.md).
 
 <table id="table_t5k_1kj_qpb"><thead><tr><th>
 
@@ -230,7 +230,7 @@ Space Allocation Type Change Tracker\[sn\_wsd\_spcmgmt\_space\_allocation\_type\
 Stores information about changes made to types of allocation, which can be reviewed to plan and edit scenarios.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Space Management references](../concept/workplace-space-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Space Management references](workplace-space-mgmt-references.md)
 
 **Related topics**  
 

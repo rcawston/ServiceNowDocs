@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_admin
     -   To update an existing shape library, select a library, then select **Edit**.
 6.  On the Shape Library form, fill in the fields.
 
-    For field information, see [Shape library form](../../reference/eaw-reference/eaw-shape-library-form.md).
+    For field information, see [Shape library form](eaw-shape-library-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-setup-modeling.md)
+**Parent Topic:**[Configure Enterprise Modeling and Visualization](eaw-setup-modeling.md)
 
 **Related topics**  
 

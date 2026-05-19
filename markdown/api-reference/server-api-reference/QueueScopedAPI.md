@@ -17,7 +17,7 @@ The Queue API provides methods that allow you to retrieve or join a Connect Supp
 
 To execute this class in a scoped application, use the `sn_connect` namespace identifier. The Connect Scriptable APIs plugin \(ID: com.glide.connect.scriptable\) must be enabled to access the Queue API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped Queue - get\(String sysID\)
 

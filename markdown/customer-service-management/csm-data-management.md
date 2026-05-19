@@ -75,7 +75,7 @@ To learn more about the contributor users, see [Contributor users](customer-serv
 
 Service Model Foundation refers to a set of pre-designed business and technical data frameworks that helps set up and manage how services are delivered and supported, confirming consistency and efficiency in handling customer and operational requests. It provides a standardized way to configure, monitor, and support service requests, incidents, cases, and workflows across various business locations or service organizations.
 
-To learn how to configure Service Model Foundation, see the [Configure Service Model Foundation](../task/configure-industry-data-model.md).
+To learn how to configure Service Model Foundation, see the [Configure Service Model Foundation](configure-industry-data-model.md).
 
 For guidance on using the BLSP portal to add staff to your business location, create cases, work orders, and more, refer to the [Using the Business Location Service Portal](using-blsp-portal.md).
 
@@ -110,5 +110,5 @@ Install base management captures details of a customer’s purchased or installe
 
 For example, in the banking industry, an install base could include automated teller machines \(ATMs\). If an ATM at a grocery store fails, a repair request can be created and tracked against the installed base record.
 
-To learn more about install base management, see [Configure install base](../task/configure-install-base.md).
+To learn more about install base management, see [Configure install base](configure-install-base.md).
 

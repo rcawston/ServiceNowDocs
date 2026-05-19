@@ -41,21 +41,21 @@ Add these properties to the System Properties \[sys\_properties\] table.
     -   Default value: false
 -   **__glide.push.notification.ttl\_seconds__**
 
-    Specifies the number of seconds after which a queued push notification expires. After a push notification is triggered, it is queued and finally processed by a scheduled job. If the time the notification sits in the queue exceeds this value, the notification is not sent. Check the [Push Notifications log](../task/t_HandlingFailedPushMessages.md) for more information.
+    Specifies the number of seconds after which a queued push notification expires. After a push notification is triggered, it is queued and finally processed by a scheduled job. If the time the notification sits in the queue exceeds this value, the notification is not sent. Check the [Push Notifications log](t_HandlingFailedPushMessages.md) for more information.
 
     -   Type: integer
     -   Default value: 21600
 
-**Parent Topic:**[Push notifications](../concept/c_PushNotifications.md)
+**Parent Topic:**[Push notifications](c_PushNotifications.md)
 
 **Related topics**  
 
 
 [Push notification system](r_PushMessageArchitecture.md)
 
-[Activate push notifications](../task/t_ActivatePushNotifications.md)
+[Activate push notifications](t_ActivatePushNotifications.md)
 
-[Enable push notifications for logged-out users](../task/enable-notifications-logged-out-users.md)
+[Enable push notifications for logged-out users](enable-notifications-logged-out-users.md)
 
 [Installed with push notifications](r_InstalledWithPushNotifications.md#)
 
@@ -63,7 +63,7 @@ Add these properties to the System Properties \[sys\_properties\] table.
 
 [Push notification setup with a custom push application for ServiceNow mobile apps](r_PushNotificationSetupCustom.md)
 
-[Requeue failed push notification messages](../task/t_HandlingFailedPushMessages.md)
+[Requeue failed push notification messages](t_HandlingFailedPushMessages.md)
 
-[Push notification retention](../concept/push-notification-retention.md)
+[Push notification retention](push-notification-retention.md)
 

@@ -48,7 +48,7 @@ Role required:
 
 5.  On the form, fill in the fields.
 
-    For more information on the form fields, see [Request exception form fields for policy exceptions](../../vr-it-remediation-workspace/reference/itr-ws-request-exception-form-grc.md).
+    For more information on the form fields, see [Request exception form fields for policy exceptions](itr-ws-request-exception-form-grc.md).
 
 6.  Select **Request Exception**.
 

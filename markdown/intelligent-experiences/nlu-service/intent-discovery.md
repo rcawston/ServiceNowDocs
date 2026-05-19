@@ -25,7 +25,7 @@ In this example scenario, you're using Intent Discovery to identify the top inte
 
 ## Installation
 
-Intent Discovery is available from the ServiceNow Store. For more information, see [Install Intent Discovery](../task/install-intent-discovery.md).
+Intent Discovery is available from the ServiceNow Store. For more information, see [Install Intent Discovery](install-intent-discovery.md).
 
 After Intent Discovery is installed and activated, it appears under **All** &gt; **NLU Workbench** &gt; **NLU Advanced Features**.
 

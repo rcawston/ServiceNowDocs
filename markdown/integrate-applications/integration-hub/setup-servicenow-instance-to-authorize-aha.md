@@ -35,7 +35,7 @@ Set up your ServiceNow instance to add the Aha! Client ID and Client Secret keys
 
         ![Connection for the Aha! spoke](../image/aha-spoke-tile.jpg)
 
-    -   To manage more than one Aha! spoke connection records, you should create child alias record by selecting **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Aha! spoke connection records, you should create child alias record by selecting **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you're configuring the spoke for the first time, select **Configure**. Otherwise, select **Edit**.
 
     ![Initial connection configuration](../image/aha-spoke-configure.jpg)

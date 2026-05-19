@@ -79,7 +79,7 @@ Role
 
 </td><td>
 
-The role that the topic is written to assist. Users assigned to the role see the content when they navigate to the associated UI page.All roles that contain the role also see the content, unless another topic targeted to their role exists for the same page. For more information, see [Embedded Help roles](../concept/embedded-help-roles.md)
+The role that the topic is written to assist. Users assigned to the role see the content when they navigate to the associated UI page.All roles that contain the role also see the content, unless another topic targeted to their role exists for the same page. For more information, see [Embedded Help roles](embedded-help-roles.md)
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Order
 
 </td><td>
 
-The order defaults based on the role, and determines what content to display when the user has an assigned role. For more information, see [Embedded Help roles](../concept/embedded-help-roles.md).
+The order defaults based on the role, and determines what content to display when the user has an assigned role. For more information, see [Embedded Help roles](embedded-help-roles.md).
 
 </td></tr><tr><td>
 
@@ -153,5 +153,5 @@ Specify the domain this content is used for, if applicable.This field appears in
     The edited topic is saved and the list redisplays. The **ServiceNow Help** check box is cleared in the saved topic.
 
 
-**Parent Topic:**[Embedded Help internationalization](../concept/embedded-help-internationalization.md)
+**Parent Topic:**[Embedded Help internationalization](embedded-help-internationalization.md)
 

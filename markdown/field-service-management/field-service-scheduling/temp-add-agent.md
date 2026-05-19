@@ -21,7 +21,7 @@ Role required: wm\_dispatcher
 
 ## About this task
 
-By default, dispatchers can only temporarily add agents that are part of assignment groups or territories they manage. Administrators can configure the add agents feature to enable dispatchers to add any agent, even those outside of the assignment groups or territories they manage. For more information see [Configure settings for Dispatcher Workspace](configure-workspce-settings.md).
+By default, dispatchers can only temporarily add agents that are part of assignment groups or territories they manage. Administrators can configure the add agents feature to enable dispatchers to add any agent, even those outside of the assignment groups or territories they manage. For more information see [Configure settings for Dispatcher Workspace](../configure-workspce-settings.md).
 
 If an agent is added who is part of an assignment group or territory that you manage, then you can interact with them as any you do any agent in Dispatcher Workspace. If your administrator has enabled the ability to add any agent, even those outside assignment groups or territories you manage, then you can add the agent and see their schedule, but you can't assign them tasks.
 

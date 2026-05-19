@@ -37,12 +37,12 @@ You can create an assignment rule to assign the case or request to a user or gro
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the Assignment Rule form, see [Assignment Rule form](../reference/assignment-rule-form.md).
+    For a description of the field values on the Assignment Rule form, see [Assignment Rule form](assignment-rule-form.md).
 
 7.  Select **Submit**.
 
 
--   **[Assignment Rule form](../reference/assignment-rule-form.md)**  
+-   **[Assignment Rule form](assignment-rule-form.md)**  
 Use the Assignment Rule form to define the case assignment rules in the Compliance Case Management application.
 
 **Parent Topic:**[Create a case type](create-case-type.md)

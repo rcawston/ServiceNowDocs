@@ -31,7 +31,7 @@ Understand how to set up the HR Service Delivery Integration with Cornerstone On
 
     For more information, refer to [Use deep link for HR Service Delivery Integration with Cornerstone OnDemand](generate-deep-link-cor.md).
 
-    **Important:** Once you have activated the necessary plugins and set up the Cornerstone spoke, HR Integration Services \(for Cornerstone OnDemand application\) are automatically created. For more information, refer to [HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand](../concept/cornerstone-hr-service.md).
+    **Important:** Once you have activated the necessary plugins and set up the Cornerstone spoke, HR Integration Services \(for Cornerstone OnDemand application\) are automatically created. For more information, refer to [HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand](cornerstone-hr-service.md).
 
 3.  Configure the flow for HR Service Delivery Integration with Cornerstone OnDemand.
 

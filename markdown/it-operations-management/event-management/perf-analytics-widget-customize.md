@@ -38,5 +38,5 @@ Role required: user
 
 Users with the admin role can customize colors and fonts. To customize fonts, navigate to **sys\_ux\_theme\_property.list** and edit the applicable fonts.
 
-**Parent Topic:**[Event Management Platform Analytics Solutions](../application-content-packs/event-content-pack.md)
+**Parent Topic:**[Event Management Platform Analytics Solutions](event-content-pack.md)
 

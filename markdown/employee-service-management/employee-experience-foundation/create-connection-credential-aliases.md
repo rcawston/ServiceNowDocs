@@ -44,5 +44,5 @@ For more information, refer [Introduction to credentials, connections, and alias
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](../concept/setup-notify-ms-teams-single-tenant.md)
+**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](setup-notify-ms-teams-single-tenant.md)
 

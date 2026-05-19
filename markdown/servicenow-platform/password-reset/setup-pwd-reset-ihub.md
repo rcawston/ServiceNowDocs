@@ -235,9 +235,9 @@ Choice
 
     2.  Select the password reset subflows that you created for the provider.
 
-    See [Password Reset application](../reference/password-reset-landing-page.md) for more information.
+    See [Password Reset application](password-reset-landing-page.md) for more information.
 
-4.  [Create password reset credential store](../concept/c_CredentialStores.md).
+4.  [Create password reset credential store](c_CredentialStores.md).
 
 5.  [Create a password reset process](t_CreateAPasswordResetProcess.md).
 
@@ -248,5 +248,5 @@ Choice
 
 The password reset mechanism for the required third-party application is set up.
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](customizing-password-reset.md)
 

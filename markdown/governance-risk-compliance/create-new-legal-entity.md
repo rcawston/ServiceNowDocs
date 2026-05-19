@@ -149,5 +149,5 @@ Value of total assets - of the financial entity
 Monetary value of the total assets of the entity using the ICT services, as per the previous year's financial statement.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a legal entity and enhance digital resilience data](../task/create-legal-entity.md)
+</table>**Parent Topic:**[Create a legal entity and enhance digital resilience data](create-legal-entity.md)
 

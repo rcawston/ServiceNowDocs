@@ -15,14 +15,14 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 
 View and update the Security Incident Response Workspace system properties from the Security Incident Response Workspace administration panel to access and update the required properties.
 
--   **[Configure default landing tab for security analysts](../task/configure-default-landing-tab.md)**  
+-   **[Configure default landing tab for security analysts](configure-default-landing-tab.md)**  
 Configure the default landing tab \(Overview or Details\) for security analysts when they select a security incident so they directly land on the page where they need to work on.
--   **[Configure auto refresh interval for security incident lists](../task/configure-auto-refresh-for-security-incident-lists.md)**  
+-   **[Configure auto refresh interval for security incident lists](configure-auto-refresh-for-security-incident-lists.md)**  
 Configure the refresh interval for security incident lists for automatic update of the security incident list ensuring an updated list for the security analysts.
--   **[Configure default view for contextual menu](../task/configure-default-view-for-contextual-menu.md)**  
+-   **[Configure default view for contextual menu](configure-default-view-for-contextual-menu.md)**  
 Configure whether the contextual menu panel for a security incident is expanded or collapsed by default.
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
@@ -33,7 +33,7 @@ Configure whether the contextual menu panel for a security incident is expanded 
 
 [SIR Workspace Related Records](sir-records.md#)
 
-[Define the new Risk Score Calculator Rules](../task/define-risk-score-calculator-rules-sir.md)
+[Define the new Risk Score Calculator Rules](define-risk-score-calculator-rules-sir.md)
 
 [Configure Shift Handover](config-shift-handover.md)
 
@@ -45,5 +45,5 @@ Configure whether the contextual menu panel for a security incident is expanded 
 
 [Category management in Security Incident Response](category-management-sir.md)
 
-[Create quick filters for Security Incidents and Response Tasks lists](../task/create-quick-filters-for-security-incidents.md)
+[Create quick filters for Security Incidents and Response Tasks lists](create-quick-filters-for-security-incidents.md)
 

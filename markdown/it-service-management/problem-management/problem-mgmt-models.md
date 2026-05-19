@@ -40,9 +40,9 @@ You can create custom models for problems and problem tasks to extend their defa
 
 To begin working with custom models, see the following topics:
 
--   [Create a problem model](../task/create-problem-model.md)
--   [Create a problem task model](../task/create-problem-task-model.md)
--   [Enable Problem Management models](../task/enable-problem-mgmt-models.md) \(Required only for customers upgrading to Yokohama.\)
+-   [Create a problem model](create-problem-model.md)
+-   [Create a problem task model](create-problem-task-model.md)
+-   [Enable Problem Management models](enable-problem-mgmt-models.md) \(Required only for customers upgrading to Yokohama.\)
 
 **Note:** Any problems or problem tasks that were created before you enable Problem Management models will continue to use the non-model life cycle.
 

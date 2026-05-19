@@ -36,5 +36,5 @@ Role required: sn\_cse.codesigning\_admin, approver\_user
 
 The Code Signing quorum request is approved. If you have enabled the MID Server restart while exporting the revocation request, the MID Server restarts for the request to be activated.
 
-**Parent Topic:**[Quorum Controlled Certificate Revocation](../concept/certificate-revocation.md)
+**Parent Topic:**[Quorum Controlled Certificate Revocation](certificate-revocation.md)
 

@@ -42,5 +42,5 @@ Role required: sn\_esg.admin
 
 When the metric definition is executed, the metrics for the selected data center will be collected and displayed on the Sustainable IT dashboard.
 
-**Parent Topic:**[Methods to set up entities for Sustainable IT](../concept/methods-to-set-up-entities.md)
+**Parent Topic:**[Methods to set up entities for Sustainable IT](methods-to-set-up-entities.md)
 

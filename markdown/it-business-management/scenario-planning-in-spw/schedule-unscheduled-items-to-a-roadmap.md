@@ -62,7 +62,7 @@ From the Free-form Roadmaps tab, select a roadmap.
     ![Schedule unscheduled items.](../images/unscheduled-items.gif)
 
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](roadmaps-in-alignment-planner-workspace.md)
 
 **Related topics**  
 

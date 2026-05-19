@@ -41,5 +41,5 @@ Allow access controls specific to a case.
 -   **[External user access for case tasks](tisc-external-users-access.md)**  
 This section describes the external user access for case tasks.
 
-**Parent Topic:**[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+**Parent Topic:**[Creating cases using Threat Analyst Workbench](create-cases-using-threat-analyst-workbench.md)
 

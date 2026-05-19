@@ -109,5 +109,5 @@ The form fields are populated with the information from the selected account.
     -   To create the schedule but not run discovery, select **Finish** from the Finish and Run drop-down list.
     -   To create the schedule and run discovery, select **Finish and Run.**
 
-**Parent Topic:**[Discovery for Alibaba Cloud](../concept/alibaba-cloud-discovery.md)
+**Parent Topic:**[Discovery for Alibaba Cloud](alibaba-cloud-discovery.md)
 

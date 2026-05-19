@@ -46,5 +46,5 @@ You can send email summaries to an authenticated user or users who are verified 
 
 Email notifications of missed chat messages are automatically sent at the specified time interval.
 
-**Parent Topic:**[Configuring Agent Chat](../concept/ci-agent-chat-configuring.md)
+**Parent Topic:**[Configuring Agent Chat](ci-agent-chat-configuring.md)
 

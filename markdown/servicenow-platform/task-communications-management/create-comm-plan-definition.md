@@ -54,5 +54,5 @@ Define a communication channel for each communication task to determine which mo
 -   **[Define a communication contact](create-comm-contact-definition.md)**  
 Define the recipients of a particular plan to determine the target audience involved in each communication task and the responsibilities the recipients are expected to handle. A notification for a task is sent to all individuals specified for that task.
 
-**Parent Topic:**[Working with Task Communications Management](../concept/working-with-tcm.md)
+**Parent Topic:**[Working with Task Communications Management](working-with-tcm.md)
 

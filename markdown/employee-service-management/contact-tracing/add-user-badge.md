@@ -41,5 +41,5 @@ You can also import your user badge data from an Excel spreadsheet. For more inf
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Collecting user badge data](../concept/badge-management.md)
+**Parent Topic:**[Collecting user badge data](badge-management.md)
 

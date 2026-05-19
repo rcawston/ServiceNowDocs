@@ -27,7 +27,7 @@ Before creating a project, consider the following questions and issues:
 
 -   Is the project part of a larger portfolio of projects?
 
-    Also consider [portfolio planning](c_PortfolioManagement.md) and how the project relates to similar projects or initiatives.
+    Also consider [portfolio planning](../portfolio-management/c_PortfolioManagement.md) and how the project relates to similar projects or initiatives.
 
 -   What types of dependencies do the tasks have with other tasks?
 

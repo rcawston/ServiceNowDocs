@@ -96,7 +96,7 @@ A subflow that moves the knowledge article to the retired state. You can use thi
 </td></tr></tbody>
 </table>**Note:**
 
--   Only administrators and knowledge administrators can view the retired knowledge articles. To reuse a retired article, administrators and knowledge administrators can republish the article. For more information, see [Republish a retired article](../task/republish-retired-article.md).
+-   Only administrators and knowledge administrators can view the retired knowledge articles. To reuse a retired article, administrators and knowledge administrators can republish the article. For more information, see [Republish a retired article](republish-retired-article.md).
 -   An article and its translations have a parent-child relationship. Retiring a parent article does not automatically retire all its translated child articles.
 
 ## Email notifications for approval workflows
@@ -111,9 +111,9 @@ To send email notifications for approval workflows, enable the **Send notificati
 **Related topics**  
 
 
-[Knowledge article states](../concept/knowledge-article-states.md)
+[Knowledge article states](knowledge-article-states.md)
 
-[Approve an article that is being reviewed](../task/approve-article-in-review.md)
+[Approve an article that is being reviewed](approve-article-in-review.md)
 
-[Retire a versioned article](../task/retire-versioned-article.md)
+[Retire a versioned article](retire-versioned-article.md)
 

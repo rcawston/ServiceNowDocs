@@ -69,5 +69,5 @@ When the playbook runs, the translated content appears for agents in their user 
 
 ![The message translated into Spanish.](../images/playbook-translation-runtime.png)
 
-**Parent Topic:**[Creating and managing Playbooks](../concept/creating-managing-playbooks.md)
+**Parent Topic:**[Creating and managing Playbooks](creating-managing-playbooks.md)
 

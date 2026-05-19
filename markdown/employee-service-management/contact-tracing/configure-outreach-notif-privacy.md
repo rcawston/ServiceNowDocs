@@ -17,11 +17,11 @@ As an administrator, create or configure an Emergency Outreach notification to s
 
 ## Before you begin
 
-Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../../business-continuity/task/install-emergency-outreach.md#).
+Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../emergency-outreach/install-emergency-outreach.md#).
 
 You must have [generated the location-based privacy configurations](generate-location-privacy-configuration.md).
 
-Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../now-mobile-employee-experience/mobile-employee-experience.md).
 
 Role required: sn\_imt\_checkin.checkin\_admin or admin
 
@@ -43,7 +43,7 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
     When enabled, the privacy statement text in Location Privacy Configuration takes precedence over text in the privacy consent templates. This text is used for the outreach, system notification email, and push notification. If you need to update the text that users receive, you must change the location's privacy statement.
 
-    For more information on updating a location's privacy statement, see [Generate location-based privacy configurations](../../employee-readiness-core/task/generate-location-common-privacy-configuration.md).
+    For more information on updating a location's privacy statement, see [Generate location-based privacy configurations](../employee-readiness-core/generate-location-common-privacy-configuration.md).
 
 7.  Select **User Privacy Consent** notification in the **Notification** field, and choose how to send the notification.
 
@@ -85,5 +85,5 @@ A user with the sn\_imt\_checkin.checkin\_admin role can [send the Outreach noti
 
 A user with the admin or sn\_imt\_checkin.checkin\_admin role can stop the scheduled job to send the notifications automatically. To do so, click **Schedule** and in the dialog box, clear the **Active** check box, and then click **Update**.
 
-**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](../concept/set-up-privacy-consent-settings.md)
+**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](set-up-privacy-consent-settings.md)
 

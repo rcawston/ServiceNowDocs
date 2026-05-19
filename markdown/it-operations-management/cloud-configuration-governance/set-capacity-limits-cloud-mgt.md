@@ -54,5 +54,5 @@ Role required: sn\_cmp.cloud\_admin
 
 Click **Discover Now** to run Discovery on the logical datacenters.
 
-**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](../concept/cloud-mgt-general-setup-day-2.md)
+**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](cloud-mgt-general-setup-day-2.md)
 

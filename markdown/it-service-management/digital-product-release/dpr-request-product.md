@@ -40,7 +40,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 4.  In the dialog box, fill in the fields.
 
-    For more information on the field descriptions, see [Request new product or service form](../reference/request-product-service-form.md).
+    For more information on the field descriptions, see [Request new product or service form](request-product-service-form.md).
 
 5.  Select **Submit**.
 
@@ -60,5 +60,5 @@ Role required: sn\_dpr\_model.product\_manager
 -   [Manage product hierarchy using Included products](dpr-manage-included-products.md).
 -   Select the product or service name from the list to see details, plan releases, and manage data from external tools.
 
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](dpr-using-digital-product-release.md)
 

@@ -34,17 +34,17 @@ Role required: sla\_admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Script includes installed with SLA timeline](../reference/r_ScriptIncludesIWithSLATimeline.md)**  
+-   **[Script includes installed with SLA timeline](r_ScriptIncludesIWithSLATimeline.md)**  
 When SLA timeline is activated, script includes are installed.
 
-**Parent Topic:**[Service Level Management plugins](../concept/sla-plugins.md)
+**Parent Topic:**[Service Level Management plugins](sla-plugins.md)
 
 **Related topics**  
 
 
 [Activate Service Level Management](activate-sla-plugin.md)
 
-[Activate SLA Breakdown definitions](../reference/activate-sla-breakdowns-plugin.md)
+[Activate SLA Breakdown definitions](activate-sla-breakdowns-plugin.md)
 
 [Activate Service Level Management - SLA Timer Config API](activate-sla-timer-config-api.md)
 

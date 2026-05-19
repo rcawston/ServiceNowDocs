@@ -145,7 +145,7 @@ The Issues Overview tab appears when you activate either the Risk Management plu
 -   Remediation Task Creation Trend: This report displays the trend of how remediation tasks are created over a period.
 -   Remediation Task Closure Trend: This report displays the trend of how remediation tasks are closed over a period.
 
-**Parent Topic:**[Analytics and reporting solutions for Risk Management](../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
+**Parent Topic:**[Analytics and reporting solutions for Risk Management](grc-risk-mgmt-content-pack.md)
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](../grc-common-functions/common-grc-features.md)
 

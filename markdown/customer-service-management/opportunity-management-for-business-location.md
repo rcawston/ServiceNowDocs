@@ -48,5 +48,5 @@ The Opportunity Related Channel Partner \[sn\_bus\_org\_opptym\_related\_busines
 
 [Roles and responsibilities](personas-roles-and-tables-post-integration-oppMgmt.md)
 
-[Activate Opportunity Management for Business Locations](../task/activate-opportunity-management-for-business-locations.md)
+[Activate Opportunity Management for Business Locations](activate-opportunity-management-for-business-locations.md)
 

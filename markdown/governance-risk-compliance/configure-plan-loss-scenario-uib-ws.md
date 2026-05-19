@@ -29,7 +29,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [Loss Scenario record form](../reference/loss-scenario-record-form.md).
+    For more information on the fields, see [Loss Scenario record form](loss-scenario-record-form.md).
 
     The example shows the details of a loss scenario.
 
@@ -38,8 +38,8 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 4.  Select **Submit**.
 
 
--   **[Loss Scenario record form](../reference/loss-scenario-record-form.md)**  
+-   **[Loss Scenario record form](loss-scenario-record-form.md)**  
 Use the Loss Scenario record form in BCM UIB Workspace to configure a plan for an identified loss scenario.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

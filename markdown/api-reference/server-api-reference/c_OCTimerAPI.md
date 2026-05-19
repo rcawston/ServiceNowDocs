@@ -17,7 +17,7 @@ The OCTimer script include provides methods to track the length of time it takes
 
 This script include requires the On-Call Scheduling \(com.snc.on\_call\_rotation\) plugin to be activated. For more information, refer to the topic [Activate On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/t_ActivateOnCallScheduling.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## OCTimer - log \(String name, String entry\)
 

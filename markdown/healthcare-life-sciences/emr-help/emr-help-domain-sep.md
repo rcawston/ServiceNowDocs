@@ -64,7 +64,7 @@ For incident, the task’s domain is set from the `caller_id` parameter if speci
 -   Remote Request Data \(sn\_ind\_rmt\_help\_request\_data\) and its extended child data tables
 -   Task \[task\]
 
-**Parent Topic:**[EMR Help reference](../reference/emr-reference.md)
+**Parent Topic:**[EMR Help reference](emr-reference.md)
 
 **Related topics**  
 

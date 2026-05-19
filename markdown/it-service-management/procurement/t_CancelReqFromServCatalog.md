@@ -38,7 +38,7 @@ Associated transfer order lines that are in the **In Transit** or **Delivered** 
 3.  Click **Cancel Request**.
 
 
-**Parent Topic:**[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+**Parent Topic:**[Procurement purchase order management for assets](c_UseProcurement.md)
 
 **Related topics**  
 

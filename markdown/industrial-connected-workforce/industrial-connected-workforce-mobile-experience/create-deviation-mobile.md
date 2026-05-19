@@ -33,13 +33,13 @@ A deviation is any type of equipment or work anomaly that has an impact on work 
 
 3.  On the Deviation form, fill in the fields.
 
-    For a description of the field values, see [Deviation form](../reference/deviation-form-mobile.md).
+    For a description of the field values, see [Deviation form](deviation-form-mobile.md).
 
 4.  Select **Next**.
 
 5.  On the Deviation form, fill in the fields.
 
-    For a description of the field values, see [Deviation form](../reference/deviation-form-mobile.md).
+    For a description of the field values, see [Deviation form](deviation-form-mobile.md).
 
 6.  Select **Next**.
 
@@ -78,5 +78,5 @@ With the AI Enhanced recommended actions for Industrial Connected Workforce Mobi
 -   **[Generate an action plan using AI Enhanced recommended actions for ICW Mobile](generate-action-plan-ai-enhanced-ra-icw-mobile.md)**  
 Generate an action plan to document and track remediation steps for an Industrial Connected Workforce Mobile Experience \(ICW Mobile\) deviation. Action plans help you organize tasks, assign responsibilities, and monitor progress toward resolution.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)
 

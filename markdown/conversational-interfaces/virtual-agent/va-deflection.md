@@ -45,7 +45,7 @@ Deflection configuration
 
 </td><td>
 
-Select from a list of pre-defined deflection configurations. For more information, see [Create deflection configurations and patterns](../task/set-up-deflection-settings-va.md).
+Select from a list of pre-defined deflection configurations. For more information, see [Create deflection configurations and patterns](set-up-deflection-settings-va.md).
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Deflection pattern
 
 </td><td>
 
-Select from a list of pre-defined deflection patterns. Ensure that your selection is tied to a pre-defined deflection. See [Create deflection configurations and patterns](../task/set-up-deflection-settings-va.md) for more.
+Select from a list of pre-defined deflection patterns. Ensure that your selection is tied to a pre-defined deflection. See [Create deflection configurations and patterns](set-up-deflection-settings-va.md) for more.
 
 </td></tr><tr><td>
 

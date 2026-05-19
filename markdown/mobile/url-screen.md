@@ -24,8 +24,8 @@ Use a mobile web screen to Open a URL from within the ServiceNow app. You can co
 ![Browser screen showing a relative link within the app.](../image/url_screen.png "Browser screen showing a relative link")
 
 </td></tr></tbody>
-</table>-   **[Configure a mobile web screen](../task/sg-configure-url-screen.md)**  
+</table>-   **[Configure a mobile web screen](sg-configure-url-screen.md)**  
 Use a mobile web screen to open a URL from within a ServiceNow mobile application. You can configure relative URLs to open pages within the ServiceNow platform.
--   **[Add a button to your mobile web screen that launches Virtual Agent](../task/mobwebscreen-add-button-virtagent.md)**  
+-   **[Add a button to your mobile web screen that launches Virtual Agent](mobwebscreen-add-button-virtagent.md)**  
 Admins can configure a button on a mobile web screen that end users can use to launch Virtual Agent from their mobile device.
 

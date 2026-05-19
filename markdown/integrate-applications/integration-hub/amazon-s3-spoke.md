@@ -66,5 +66,5 @@ The Amazon S3 spoke provides actions to automate Amazon S3 tasks when events occ
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Amazon S3 spoke](../task/setup-amazon-s3.md#).
+For information about setting up the spoke, see [Set up the Amazon S3 spoke](setup-amazon-s3.md#).
 

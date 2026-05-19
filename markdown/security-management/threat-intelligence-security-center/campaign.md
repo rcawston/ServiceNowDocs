@@ -15,7 +15,7 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 Campaign is defined as grouping of adversarial behaviors that describes a set of malicious activities or attacks, sometimes called waves that occur over a period of time against a specific set of targets.
 
--   **[Define Campaign](../task/tisc-define-campaign.md)**  
+-   **[Define Campaign](tisc-define-campaign.md)**  
 Define a campaign to group adversarial behaviors.
 
 **Parent Topic:**[Threat Entities](tisc-threat-entities.md)

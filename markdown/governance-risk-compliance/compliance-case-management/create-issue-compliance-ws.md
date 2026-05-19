@@ -366,5 +366,5 @@ Apart from the from fields, there are a few actions that you can perform on a Co
 -   Export PDF- export the compliance case as a PDF.
 -   Delete- delete the compliance case.
 
-**Parent Topic:**[Add an issue for a compliance case](../task/add-issues-for-compliance-case.md)
+**Parent Topic:**[Add an issue for a compliance case](add-issues-for-compliance-case.md)
 

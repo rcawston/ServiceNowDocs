@@ -27,10 +27,10 @@ Role required: admin
 
 3.  On the form, edit the fields.
 
-    For a description of the field values, see [Workday learning user course activity staging form](../reference/wdl-user-course-activity-form.md).
+    For a description of the field values, see [Workday learning user course activity staging form](wdl-user-course-activity-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Import set tables in HR Service Delivery Integration with Workday Learning](../concept/import-set-tables.md)
+**Parent Topic:**[Import set tables in HR Service Delivery Integration with Workday Learning](import-set-tables.md)
 

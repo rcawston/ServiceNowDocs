@@ -15,7 +15,7 @@ breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytic
 
 Enable managers to monitor Interaction \[interaction\] work items so that their agents can better support customer needs.
 
-This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](../../application-content-packs/concept/awa-content-pack.md).
+This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](awa-content-pack.md).
 
 ![The dashboard displays indicators and reports to track agent interactions with customers](../../../administer/advanced-work-assignment/image/AWAInteractions-update.png "AWA dashboard for Interactions")
 

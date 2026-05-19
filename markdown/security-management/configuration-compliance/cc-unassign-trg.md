@@ -45,7 +45,7 @@ The request is approved by using a default, one-level approval workflow. For mor
 
 -   If your request is approved, the state change approval record and the requested approval record transition to **Approved**. You and your groups are removed from the **Assigned to** and **Assignment group** fields. `Unassigned` is displayed in the **Assignment type** field, and the remediation task is displayed on the list of the Unassigned module for the Configuration Compliance application.
 
-    Notifications that records are unassigned are sent automatically to vulnerability managers or analysts in the Unassign notification group. For more information about the notifications and the properties for this feature, see [Removing assignments from Configuration Compliance test result groups](../concept/cc-unassigninng-trg.md).
+    Notifications that records are unassigned are sent automatically to vulnerability managers or analysts in the Unassign notification group. For more information about the notifications and the properties for this feature, see [Removing assignments from Configuration Compliance test result groups](cc-unassigninng-trg.md).
 
 -   If your request is rejected, the state change approval record and the requested approval record transition to Rejected.
 

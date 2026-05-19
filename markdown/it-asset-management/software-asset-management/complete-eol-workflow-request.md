@@ -54,7 +54,7 @@ Additionally, the EOL workflow can be completed using the Software End of Life F
 
     2.  On the **Details** tab of the Assess IT architecture impact task, fill in the fields.
 
-        For details on the form fields and their description, see [Software EOL tasks tab](../reference/software-eol-request.md#section_l11_yb1_4bc).
+        For details on the form fields and their description, see [Software EOL tasks tab](software-eol-request.md#section_l11_yb1_4bc).
 
     3.  Complete the subtasks for the Assess IT architecture impact task by selecting the **Software EOL Subtasks** tab.
 
@@ -66,7 +66,7 @@ Additionally, the EOL workflow can be completed using the Software End of Life F
 
     2.  On the **Details** tab of the Assess IT security impact task, fill in the fields.
 
-        For details on the form fields and their description, see [Software EOL tasks tab](../reference/software-eol-request.md#section_l11_yb1_4bc).
+        For details on the form fields and their description, see [Software EOL tasks tab](software-eol-request.md#section_l11_yb1_4bc).
 
     3.  Complete the subtasks for the Assess IT security impact task by selecting the **Software EOL Subtasks** tab.
 
@@ -76,7 +76,7 @@ Additionally, the EOL workflow can be completed using the Software End of Life F
 
     2.  On the **Details** tab, select **Remove EOL software** in the **Action** field.
 
-        For details on the form fields and their description, see [Software EOL tasks tab](../reference/software-eol-request.md#section_l11_yb1_4bc).
+        For details on the form fields and their description, see [Software EOL tasks tab](software-eol-request.md#section_l11_yb1_4bc).
 
     3.  Select **Close Task**.
 
@@ -88,7 +88,7 @@ Additionally, the EOL workflow can be completed using the Software End of Life F
 
     2.  On the **Details** tab of the Assess software licensing impact task, fill in the fields.
 
-        For details on the form fields and their description, see [Software EOL tasks tab](../reference/software-eol-request.md#section_l11_yb1_4bc).
+        For details on the form fields and their description, see [Software EOL tasks tab](software-eol-request.md#section_l11_yb1_4bc).
 
     3.  Select **Close Task**.
 
@@ -100,7 +100,7 @@ Additionally, the EOL workflow can be completed using the Software End of Life F
 
     2.  On the **Details** tab of the Complete secure backup task, fill in the fields.
 
-        For details on the form fields and their description, see [Software EOL tasks tab](../reference/software-eol-request.md#section_l11_yb1_4bc).
+        For details on the form fields and their description, see [Software EOL tasks tab](software-eol-request.md#section_l11_yb1_4bc).
 
     3.  Select **Close Task**.
 
@@ -112,7 +112,7 @@ Additionally, the EOL workflow can be completed using the Software End of Life F
 
     2.  On the **Details** tab of the Create IT change plans task, fill in the fields.
 
-        For details on the form fields and their description, see [Software EOL tasks tab](../reference/software-eol-request.md#section_l11_yb1_4bc).
+        For details on the form fields and their description, see [Software EOL tasks tab](software-eol-request.md#section_l11_yb1_4bc).
 
     3.  Select **Close Task**.
 
@@ -127,5 +127,5 @@ Additionally, the EOL workflow can be completed using the Software End of Life F
 
 After the change request is complete, the workflow request is also complete.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

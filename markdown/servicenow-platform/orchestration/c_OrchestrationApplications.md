@@ -20,5 +20,5 @@ The Orchestration ROI application allows you to estimate and compute cost saving
 -   **[Client Software Distribution](c_ClientSoftwareDistribution.md)**  
 The Client Software Distribution \(CSD\) application allows administrators to distribute software from the service catalog using third-party management systems.
 
-**Parent Topic:**[Classic Orchestration](../reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](r-orchestration.md)
 

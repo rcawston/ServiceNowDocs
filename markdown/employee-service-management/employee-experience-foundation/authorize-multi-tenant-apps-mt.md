@@ -27,7 +27,7 @@ Role required: External admin \(external\_app\_install\_admin\). This role is in
 
 The ServiceNow for Teams pre-published apps are:
 
--   Notify Connector: Install Notify Connector for Microsoft Teams to enable the chat to call feature. For more information, see [Notify connector for Microsoft Teams](../../notify2/concept/notify-connector-ms-teams.md).
+-   Notify Connector: Install Notify Connector for Microsoft Teams to enable the chat to call feature. For more information, see [Notify connector for Microsoft Teams](notify-connector-ms-teams.md).
 -   Request-based Chats
 -   SSO and Activity Notifications
 
@@ -41,7 +41,7 @@ The ServiceNow for Teams pre-published apps are:
 
     2.  Provide the admin consent by selecting **Accept**.
 
-        For information on API permissions used in ServiceNow for Microsoft Teams integration, refer [ServiceNow for Microsoft Teams integration API permissions for Request-based chat and SSO](../reference/request-based-chat-api-permissions.md).
+        For information on API permissions used in ServiceNow for Microsoft Teams integration, refer [ServiceNow for Microsoft Teams integration API permissions for Request-based chat and SSO](request-based-chat-api-permissions.md).
 
     Upon successful authorization, a green check mark appears next to the app name and the **Authorize** button changes to **Installed**.
 
@@ -50,5 +50,5 @@ The ServiceNow for Teams pre-published apps are:
 
 If the upn is different from email ID in your environment, go to [Enable connecting to meetings from Microsoft Teams](create-oauth-oidc-record.md). If the upn is same as the email ID, go to [Create and download the manifest file for pre-published apps](download-manifest-file-mt.md).
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](c_employee_ex_tnt.md)
 

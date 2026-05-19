@@ -47,5 +47,5 @@ You can ask questions in your own words and receive responses from the Knowledge
 7.  Tap the new conversation icon to begin a new conversation.
 
 
-**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](../concept/using-now-assist-fsm.md)
+**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](using-now-assist-fsm.md)
 

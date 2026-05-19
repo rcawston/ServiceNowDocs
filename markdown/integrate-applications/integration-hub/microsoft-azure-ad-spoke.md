@@ -1896,7 +1896,7 @@ There might be AI agents installed with the Now Assist application that are not 
 
 ## Microsoft Entra ID account requirements
 
-The Microsoft Entra ID spoke requires creating a custom app on your Microsoft Entra account to generate OAuth 2.0 tokens. See: [Create an Microsoft Entra ID application](../../integrationhub-store-spokes/task/set-up-azure.md#).
+The Microsoft Entra ID spoke requires creating a custom app on your Microsoft Entra account to generate OAuth 2.0 tokens. See: [Create an Microsoft Entra ID application](set-up-azure.md#).
 
 ## Connection and credential alias requirements
 
@@ -1908,5 +1908,5 @@ This spoke uses the AzureAD alias record to authorize actions on Microsoft Entra
 |----------------|-----------|--------------|
 |AzureAD|Connection to Microsoft Entra ID.|https://graph.microsoft.com|
 
-For information about setting up the spoke, see [Set up Microsoft Entra ID spoke](../../integrationhub-store-spokes/task/set-up-azure.md#).
+For information about setting up the spoke, see [Set up Microsoft Entra ID spoke](set-up-azure.md#).
 

@@ -176,5 +176,5 @@ Lead time for email reminders.**Note:** This field is displayed only when the **
 **Related topics**  
 
 
-[Escalation and reminder settings for rosters](../reference/escalation-remind-settings-oncall.md)
+[Escalation and reminder settings for rosters](escalation-remind-settings-oncall.md)
 

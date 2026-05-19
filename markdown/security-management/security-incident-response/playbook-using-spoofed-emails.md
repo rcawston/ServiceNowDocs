@@ -63,5 +63,5 @@ Role required:
 6.  In Action 20, a response task is created for you to complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Spoofed Emails \(using the same Display name\)](../concept/playbook-spoofed-emails-display-name.md)
+**Parent Topic:**[Playbook for Spoofed Emails \(using the same Display name\)](playbook-spoofed-emails-display-name.md)
 

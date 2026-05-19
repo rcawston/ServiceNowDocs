@@ -30,5 +30,5 @@ Role required: rate\_limit\_admin
     -   In the Rate Limit Counts related list, view the count of inbound REST API requests limited by the rule. This list is cleared daily.
     -   In the Rate Limit Violations related list, view the number of inbound REST API requests that exceeded the **Request limit per hour** value for the rule. This list is cleared biweekly.
 
-**Parent Topic:**[Inbound REST API rate limiting](../concept/inbound-REST-API-rate-limiting.md)
+**Parent Topic:**[Inbound REST API rate limiting](inbound-REST-API-rate-limiting.md)
 

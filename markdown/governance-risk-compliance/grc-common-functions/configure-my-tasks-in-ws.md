@@ -52,5 +52,5 @@ Navigate to the individual workspaces to view the tasks, items, and watchlist fo
     **Note:** When a user or user group does not have any pending or associated tasks, a message displays under the respective tab that `All your tasks are done`.
 
 
-**Parent Topic:**[My tasks in the workspace](../concept/configuration-of-tasks.md)
+**Parent Topic:**[My tasks in the workspace](configuration-of-tasks.md)
 

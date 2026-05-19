@@ -30,5 +30,5 @@ Stories are assigned to a project and are tied to an agile development phase in 
 2.  The color in the phase bar increases to show progress and the **Percentage complete** field is updated.
 
 
-**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](../concept/c_SDLCIntegrationWithProjectPortfolioSuite.md)
+**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](c_SDLCIntegrationWithProjectPortfolioSuite.md)
 

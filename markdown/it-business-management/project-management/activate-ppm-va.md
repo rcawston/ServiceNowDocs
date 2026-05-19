@@ -57,11 +57,11 @@ To install Virtual Agent for PPM, activate the following plugins:
 **Related topics**  
 
 
-[Virtual Agent for PPM](../concept/ppm-va-overview.md)
+[Virtual Agent for PPM](ppm-va-overview.md)
 
 [Enable Virtual Agent for PPM](setup-ppm-va.md)
 
-[PPM Virtual Agent conversation flows](../concept/ppm-va-conversations.md)
+[PPM Virtual Agent conversation flows](ppm-va-conversations.md)
 
-[Reusable PPM Virtual Agent topic blocks](../concept/ppm-va-topic-blocks.md)
+[Reusable PPM Virtual Agent topic blocks](ppm-va-topic-blocks.md)
 

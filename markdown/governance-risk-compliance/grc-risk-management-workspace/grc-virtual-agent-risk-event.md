@@ -41,5 +41,5 @@ Role required: sn\_risk.admin.
     You can see the chat icon at the bottom-right of the screen.![Virtual agent chat icon.](../../grc-policy-and-compliance/image/chat_icon.png)
 
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

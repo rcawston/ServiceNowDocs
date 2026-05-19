@@ -44,5 +44,5 @@ Role required: system administrator
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Personal Data Rights](../concept/configuring-personal-data-rights.md)
+**Parent Topic:**[Configuring Personal Data Rights](configuring-personal-data-rights.md)
 

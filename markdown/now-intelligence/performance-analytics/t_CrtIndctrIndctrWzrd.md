@@ -17,7 +17,7 @@ Quickly create a Performance Analytics automated indicator with breakdowns, widg
 
 ## Before you begin
 
-Familiarize yourself with [Performance Analytics concepts](../concept/c_PerformanceAnalytics.md) and create indicators only as part of an analytics strategy. Plan your KPIs with [KPI Composer](../concept/designing-pa-solution.md). Study the [Workflow for creating indicators](workflow-automated-indicators.md).
+Familiarize yourself with [Performance Analytics concepts](c_PerformanceAnalytics.md) and create indicators only as part of an analytics strategy. Plan your KPIs with [KPI Composer](designing-pa-solution.md). Study the [Workflow for creating indicators](workflow-automated-indicators.md).
 
 Ensure that there is at least one indicator source and a data collection job for the indicator source facts table.
 
@@ -167,9 +167,9 @@ If the data collection job is configured to collect scores from the past, a temp
 
 [Create an automated indicator](t_CreateAnAutomatedIndicator.md#)
 
-[Indicator sources](../concept/c_IndicatorSources.md#)
+[Indicator sources](c_IndicatorSources.md#)
 
-[Collecting indicator scores](../concept/c_ClctData.md)
+[Collecting indicator scores](c_ClctData.md)
 
 ## Indicator creation widget options
 
@@ -201,7 +201,7 @@ Time series
 
 </td><td>
 
-Runs a function on the indicator scores for a specific time period, such as a 7-day sum or average. For more information, see [Applying time series aggregations](../concept/applying-time-series-aggregations.md#).**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget for an indicator that uses such a calendar.
+Runs a function on the indicator scores for a specific time period, such as a 7-day sum or average. For more information, see [Applying time series aggregations](applying-time-series-aggregations.md#).**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget for an indicator that uses such a calendar.
 
 </td></tr><tr><td>
 
@@ -234,7 +234,7 @@ Time series
 
 </td><td>
 
-Runs a function on the indicator scores for a specific time period, such as a 7-day sum or average. For more information, see [Applying time series aggregations](../concept/applying-time-series-aggregations.md#).**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget for an indicator that uses such a calendar.
+Runs a function on the indicator scores for a specific time period, such as a 7-day sum or average. For more information, see [Applying time series aggregations](applying-time-series-aggregations.md#).**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget for an indicator that uses such a calendar.
 
 </td></tr><tr><td>
 
@@ -257,5 +257,5 @@ Select the number of periods to compare the score with. For example, if the **Ti
 **Related topics**  
 
 
-[Performance Analytics widgets](../concept/c_Widgets.md)
+[Performance Analytics widgets](c_Widgets.md)
 

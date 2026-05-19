@@ -43,7 +43,7 @@ Your administrator must add you to the Creator Studio Users group.
 
 4.  Select **Create app** to begin your journey.
 
-    -   If you're a system administrator, you can read more about this topic in [Application collaboration](../../applications/concept/application-collaboration.md).
+    -   If you're a system administrator, you can read more about this topic in [Application collaboration](../application-collaboration.md).
     -   If you want to know how to request an admin to create the app for you, check out [Ask an admin to create an app for you in Creator Studio](creator-studio-request-app-added.md).
 5.  Select the type of app you want to build, such as **Service Desk**.
 
@@ -67,7 +67,7 @@ Your administrator must add you to the Creator Studio Users group.
 
     3.  Select **Advanced settings** and confirm that your app's name and tables are unique by specifying the **Scope**.
 
-        For more advanced information about scopes, see [Application scope](../../applications/concept/c_ApplicationScope.md).
+        For more advanced information about scopes, see [Application scope](../c_ApplicationScope.md).
 
     4.  Select **Create app**.
 
@@ -76,9 +76,9 @@ Your administrator must add you to the Creator Studio Users group.
 
 **Congrats:** Hooray, you've created your app! Next, we will use a template to add a form that people will use to fill out requests in your app. Check out [Add a form to an app in Creator Studio](creator-studio-add-form.md) for how to do that.
 
-To learn all the things you can do as the app owner when building the app, see [Application collaboration](../../applications/concept/application-collaboration.md).
+To learn all the things you can do as the app owner when building the app, see [Application collaboration](../application-collaboration.md).
 
-For sys admin eyes only: Every app built in Creator Studio adds a record in the Request App Config table, which contains the table that the app uses. Your admin can change the table for an app, see [Administering an app's associated table](../concept/creator-studio-admin-app-table.md) for more information. The name of the table follows the format of scope\_request, for example, x\_snc\_02\_03\_request.
+For sys admin eyes only: Every app built in Creator Studio adds a record in the Request App Config table, which contains the table that the app uses. Your admin can change the table for an app, see [Administering an app's associated table](creator-studio-admin-app-table.md) for more information. The name of the table follows the format of scope\_request, for example, x\_snc\_02\_03\_request.
 
-**Parent Topic:**[App creation in Creator Studio](../concept/creator-studio-creating-apps.md)
+**Parent Topic:**[App creation in Creator Studio](creator-studio-creating-apps.md)
 

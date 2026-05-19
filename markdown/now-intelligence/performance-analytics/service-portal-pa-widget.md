@@ -41,7 +41,7 @@ Upgraded instances cannot automatically follow the rules introduced in Quebec be
 
 [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md)
 
-[Reports on Service Portal](../../reporting/concept/service-portal-reporting-widget.md#)
+[Reports on Service Portal](../reporting/service-portal-reporting-widget.md#)
 
 [Performance Analytics widgets](c_Widgets.md)
 

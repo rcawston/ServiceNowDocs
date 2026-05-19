@@ -26,5 +26,5 @@ Role required: sn\_personal\_auth.personal\_auth\_user
 2.  Go to Google Drive Spoke Credential tile, select **Authenticate**.
 
 
-**Parent Topic:**[Personal authentication](../concept/personal-authentication-documents.md)
+**Parent Topic:**[Personal authentication](personal-authentication-documents.md)
 

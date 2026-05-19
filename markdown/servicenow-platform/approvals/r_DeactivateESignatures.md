@@ -20,5 +20,5 @@ Although plugins cannot be removed, e-signatures can be disabled.
 1.  Navigate to **System Definition** &gt; **E-Signature Registry**.
 2.  Set **Enabled** to **False** on any tables where e-signatures are no longer required.
 
-**Parent Topic:**[Approval with e-signature](../concept/approval-with-e-signature.md)
+**Parent Topic:**[Approval with e-signature](approval-with-e-signature.md)
 

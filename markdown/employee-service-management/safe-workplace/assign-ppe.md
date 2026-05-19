@@ -56,5 +56,5 @@ After assigning PPE to employees, you can view all assigned PPE by navigating to
 
 **Note:** The **Assigned Hardware** and **Consumed** pages have a **New** button. Do not assign PPE using the **New** button. Using this button does not update the assignment log.
 
-**Parent Topic:**[Workplace PPE Inventory Management](../concept/ppe-inventory-management.md)
+**Parent Topic:**[Workplace PPE Inventory Management](ppe-inventory-management.md)
 

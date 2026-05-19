@@ -42,5 +42,5 @@ If a Cxs\_popup view isn't defined for the additional resource table, the sys\_p
 6.  Select **Save**.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

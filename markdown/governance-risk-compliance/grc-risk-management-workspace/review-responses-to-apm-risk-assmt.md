@@ -49,7 +49,7 @@ Some of the factors or questions on the risk assessment instance might already h
 
         The risk assessment instance link is created.
 
-    To understand the risk assessment process and how to respond to questions, refer to [Understanding the risk assessment instance](../concept/understanding-risk-assessment-instance.md).
+    To understand the risk assessment process and how to respond to questions, refer to [Understanding the risk assessment instance](understanding-risk-assessment-instance.md).
 
 4.  Click the risk assessment instance link that is generated.
 
@@ -68,5 +68,5 @@ The approver selected in the Risk Identification Configuration form can review t
 
 [Associate risks, citations, policies, and controls with a risk identification record](associate-risks-pols-citations-risk-idenfn.md).
 
-**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](../concept/risk-and-apm-better-together.md)
+**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](risk-and-apm-better-together.md)
 

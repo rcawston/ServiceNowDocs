@@ -31,7 +31,7 @@ The following items are installed with Financial Services Card Operations:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Financial Services Card Operations](../reference/installed-with-card-operations.md).
+For more information, see [Components installed with Financial Services Card Operations](installed-with-card-operations.md).
 
 **Note:** To enable customers to submit requests through the Consumer Service Portal, you should also activate the Consumer Service Portal plugin \(com.glide.service-portal.consumer-portal\).
 

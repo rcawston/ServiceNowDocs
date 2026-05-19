@@ -78,7 +78,7 @@ Set the duration in seconds that non-critical notifications remain on the screen
 
  Critical notifications should be tagged with the `sn-sticky-notification` HTML class attribute to prevent them from being automatically dismissed.
 
- If the glide.ui.accessibility preference is enabled, messages don’t auto-dismiss, regardless of the system property value. To set this preference, see [Enabling accessibility features](../../../administer/accessibility-508-compliance/concept/c_SetUpSect508ComplianceFeature.md#).
+ If the glide.ui.accessibility preference is enabled, messages don’t auto-dismiss, regardless of the system property value. To set this preference, see [Enabling accessibility features](../c_SetUpSect508ComplianceFeature.md#).
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ Option to allow configuring human readable keywords in portal page URLs for the 
 
  -   Type: true \| false
 -   Default value: true
--   For more information, see [Add human readable keywords to page URLs](../task/add-human-readable-keywords-page-urls.md).
+-   For more information, see [Add human readable keywords to page URLs](add-human-readable-keywords-page-urls.md).
 
 </td></tr><tr><td>
 
@@ -219,7 +219,7 @@ Allows any user to choose and view content in their preferred language.This prop
 
 -   Type: string
 -   Default value: 2086b814c3221200f3897bfaa2d3aea8,89275a53cb13020000f8d856634c9c51,45d6680fdb52220099f93691f0b8f5ad
--   For more information, see [Enable a language selector in portal headers](../task/configure-header-menu.md#).
+-   For more information, see [Enable a language selector in portal headers](configure-header-menu.md#).
 
 </td></tr><tr><td>
 
@@ -249,7 +249,7 @@ Option to allow compiled SCSS files to be loaded as links to improve repeat page
 
 Specify the portals to evaluate using the Performance Analyzer by providing a comma-separated list of portal suffixes. For users with the sp\_admin or admin roles, the Performance Analyzer icon \(![Open Performance Analyzer](../image/performance-analyzer-icon.png)\) appears on pages in the specified portals.-   Type: String
 -   Default value: sp
--   For more information, see [Evaluate the performance of a portal page](../task/analyze-page-performance.md).
+-   For more information, see [Evaluate the performance of a portal page](analyze-page-performance.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Portal reference](reference-service-portal.md)

@@ -34,27 +34,27 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Discovery and Service Mapping Patterns
 -   **Configure Oracle API credentials**
 
-    Ensure that your OCI credentials are configured and that your private and public keys are converted to the RSA format. For more information, see [Create Oracle API credentials](../../it-operations-management/task/create-oracle-api-credentials.md).
+    Ensure that your OCI credentials are configured and that your private and public keys are converted to the RSA format. For more information, see [Create Oracle API credentials](../create-oracle-api-credentials.md).
 
 -   **Create OCI service account**
 
-    For more information, see [Create OCI service accounts](../../it-operations-management/task/create-oci-service-accounts.md).
+    For more information, see [Create OCI service accounts](../create-oci-service-accounts.md).
 
 -   **Create a cloud discovery schedule**
 
-    To run a cloud discovery at scale, see [Create an OCI Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-oci-schedule-DAW.md).
+    To run a cloud discovery at scale, see [Create an OCI Discovery schedule in Discovery Admin Workspace](../discovery/create-oci-schedule-DAW.md).
 
     Create a discovery schedule to run LDCs on.
 
     1.  Navigate to **Discovery** &gt; **Discovery Schedules**.
     2.  Click the **Cloud Discovery** button.
-    3.  In the **Provider** field, select **OCI**. Fill in the form to create a new account or select an existing one. For more information, see [Create OCI service accounts](../../it-operations-management/task/create-oci-service-accounts.md).
+    3.  In the **Provider** field, select **OCI**. Fill in the form to create a new account or select an existing one. For more information, see [Create OCI service accounts](../create-oci-service-accounts.md).
     4.  On the **Select Datacenters** page, filter which LDCs you want to run the discovery.
     5.  Under the **Discover Virtual Machines \(optional\)** page, select if you want to run VM OS Discovery.
     6.  When you're finished, navigate to the **Create Schedule** page and select the **Finish and Run** button.
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](query-service-account-ldc-fields.md).
 
 
 ## Verify the REST API Permissions
@@ -192,5 +192,5 @@ Tags are populated to the **cmdb\_key\_value** table and related to the relevant
 |cmdb\_ci\_vm\_instance|DR provided by::Provides DR for|cmdb\_ci\_avaliability\_zone|
 |cmdb\_ci\_avaliability\_zone|Contains::Contained by|cmdb\_ci\_vm\_instance|
 
-**Parent Topic:**[Available cloud discovery patterns](../concept/available-patterns-cloud.md)
+**Parent Topic:**[Available cloud discovery patterns](available-patterns-cloud.md)
 

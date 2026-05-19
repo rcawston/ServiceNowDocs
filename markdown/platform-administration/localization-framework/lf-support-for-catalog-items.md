@@ -27,9 +27,9 @@ You can do the following tasks in Localization Framework for translating the Ser
     **Note:** Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
 
 -   Approve and publish the translated content.
--   Monitor the overall localization health of the Service Catalog items from the [Localization Insights dashboard](../../../use/dashboards/application-content-packs/localization-insights-dashboard.md).
+-   Monitor the overall localization health of the Service Catalog items from the [Localization Insights dashboard](localization-insights-dashboard.md).
 
-To request translations for a catalog item, see [Request translations for Service Catalog items](../task/request-translations-multiple-items.md).
+To request translations for a catalog item, see [Request translations for Service Catalog items](request-translations-multiple-items.md).
 
 -   **[Localization Framework support for catalog builder in Service Catalog](lf-support-for-catalog-builder.md)**  
 Localization Framework enables translation of Service Catalog items directly from the catalog builder dashboard in Service Catalog.

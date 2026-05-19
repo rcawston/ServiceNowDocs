@@ -31,7 +31,7 @@ You can create events even if the timeslot is booked by some other event.
 
 3.  On the New event form, fill the fields.
 
-    For a description of the field names, see [New event form](../reference/new-event-form.md).
+    For a description of the field names, see [New event form](new-event-form.md).
 
     ![A repeating task](../image/RepeatingTask.png)
 
@@ -40,7 +40,7 @@ You can create events even if the timeslot is booked by some other event.
 4.  Click **Submit**.
 
 
-**Parent Topic:**[My Calendar](../concept/c_MyCalendar.md)
+**Parent Topic:**[My Calendar](c_MyCalendar.md)
 
 **Related topics**  
 

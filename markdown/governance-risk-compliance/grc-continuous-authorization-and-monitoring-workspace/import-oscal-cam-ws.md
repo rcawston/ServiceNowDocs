@@ -117,5 +117,5 @@ The OSCAL catalog import is a synchronous process.
     **Note:** You can also select the playbook action icon \(![Restart playbook icon](../image/cam-oscal-import-action-icon.png)\) to select **Restart Playbook** to restart the playbook.
 
 
-**Parent Topic:**[Import in OSCAL format](../concept/import-oscal.md)
+**Parent Topic:**[Import in OSCAL format](import-oscal.md)
 

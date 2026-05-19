@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Linux user**
 
-    Provide the Linux operating system \(OS\) user with elevated rights for running the cat, ls, netstat, and stat commands. For more information, see [Service Mapping commands requiring a privileged user](../reference/r_CommandsnCredentials.md).
+    Provide the Linux operating system \(OS\) user with elevated rights for running the cat, ls, netstat, and stat commands. For more information, see [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md).
 
     In addition, provide this Linux user with permissions to run the following commands on the OS user home folder:
 

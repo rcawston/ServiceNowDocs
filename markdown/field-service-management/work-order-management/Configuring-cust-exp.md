@@ -78,7 +78,7 @@ The following items are installed with Field Service Management Customer Experie
 -   Properties
 -   Business rules
 
-For more information, see [Customer Experience components](../reference/customer-experience-components.md).
+For more information, see [Customer Experience components](../customer-experience-components.md).
 
 ### Procedure
 

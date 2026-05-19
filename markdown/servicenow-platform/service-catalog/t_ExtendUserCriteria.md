@@ -64,5 +64,5 @@ Test the user criteria record by navigating to **Service Catalog** &gt; **Catalo
 
 You can extend the User \[sys\_user\] table if there are fields in other tables that you want considered in user criteria. After extending the User table, follow the steps in this procedure to extend it to user criteria.
 
-**Parent Topic:**[Set security for items and categories](../concept/c_ServiceCatalogAccessControls.md)
+**Parent Topic:**[Set security for items and categories](c_ServiceCatalogAccessControls.md)
 

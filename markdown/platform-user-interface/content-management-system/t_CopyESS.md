@@ -46,5 +46,5 @@ The Employee Self-Service portal is provided as a working example and design tem
 9.  Use the page in other sites you created by [assigning pages](t_AssignAPageToASite.md) to a site.
 
 
-**Parent Topic:**[Content Management templates](../concept/c_ContentManagementTemplates.md)
+**Parent Topic:**[Content Management templates](c_ContentManagementTemplates.md)
 

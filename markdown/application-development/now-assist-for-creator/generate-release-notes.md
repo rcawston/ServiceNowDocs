@@ -17,7 +17,7 @@ Generate release notes to document app changes and versions over time.
 
 ## Before you begin
 
-You must have the release lifecycle documentation AI agent turned on in AI Agent Studio. For more information, see [Configure release lifecycle documentation AI agent](../concept/configure-release-lifecycle-documentation-ai-agent.md).
+You must have the release lifecycle documentation AI agent turned on in AI Agent Studio. For more information, see [Configure release lifecycle documentation AI agent](configure-release-lifecycle-documentation-ai-agent.md).
 
 A release must be in the **Complete** state to generate release notes using the release lifecycle documentation AI agent.
 
@@ -64,5 +64,5 @@ Role required: sn\_aia.viewer, update\_set\_admin, and sn\_releaseops.release\_n
     5.  Select **Regenerate**.
 
 
-**Parent Topic:**[Release lifecycle documentation AI agent](../concept/release-lifecycle-documentation-agent-landing.md)
+**Parent Topic:**[Release lifecycle documentation AI agent](release-lifecycle-documentation-agent-landing.md)
 

@@ -249,7 +249,7 @@ The **Acknowledged** check box value after the most alert recent update.-   **Tr
 
 </td><td>
 
-The secondary alerts that are correlated with this alert, where this alert is the primary alert. For more information, see [Rule-based alert grouping](../concept/c_EMEventCorrelationRules.md).
+The secondary alerts that are correlated with this alert, where this alert is the primary alert. For more information, see [Rule-based alert grouping](c_EMEventCorrelationRules.md).
 
 </td></tr><tr><td>
 
@@ -257,7 +257,7 @@ The secondary alerts that are correlated with this alert, where this alert is th
 
 </td><td>
 
-The primary alert that is correlated with this alert, where this alert is a secondary alert. For more information, see [Rule-based alert grouping](../concept/c_EMEventCorrelationRules.md).
+The primary alert that is correlated with this alert, where this alert is a secondary alert. For more information, see [Rule-based alert grouping](c_EMEventCorrelationRules.md).
 
 </td></tr></tbody>
 </table>    Additional tabs.
@@ -296,9 +296,9 @@ You can respond to the alert in the following ways:
 |Designate that the alert is in maintenance.|Select the **Maintenance** check box. For more information, see [View all alerts by the maintenance status](t_EMViewAlertmaintenance.md).|
 |Close the alert.|Click **Close**. For more information, see [Close an alert](t_EMCloseAlert.md).|
 
--   **[Priority group](../concept/alert-priority-group.md)**  
+-   **[Priority group](alert-priority-group.md)**  
 For better triage and focus, alerts that have a higher priority are brought to the top of the alert list. This placement brings to your attention those alerts that require you to handle them at a higher priority than other alerts.
--   **[Alert execution information](../concept/alert-execution.md)**  
+-   **[Alert execution information](alert-execution.md)**  
 Alert execution information provides a reference to the actions that have been performed concerning the alert. Among the information presented is which alert management rules ran on the alert, incidents that were opened, and which remediation workflows ran.
 -   **[View alerts in the flapping state](t_EMViewAlertFlapping.md)**  
 You can view alerts that are specifically in the flapping state.
@@ -310,12 +310,12 @@ You can collaborate with colleagues and write work notes while working in an ale
 When an alert must be escalated and assigned to someone who can resolve the underlying issue, you can open an incident.
 -   **[Place an alert into maintenance](t_EMPutAnAlertIntoMaintenance.md)**  
 You can manually place any alert into maintenance to hide it from the Alerts list and Agent Workspace.
--   **[Alert insight information](../concept/alert-insight-information.md)**  
+-   **[Alert insight information](alert-insight-information.md)**  
 Alert insight aids faster alert triage, enabling a quicker way to find a solution and expose the probable root cause of the selected alert.
 -   **[Apply a quick response in an alert](apply-quick-response-in-alert.md)**  
 In an alert, use the `Quick Response` feature to apply remediation to the alert or to launch a web application.
 
-**Parent Topic:**[Using Event Management](../concept/user-guide.md)
+**Parent Topic:**[Using Event Management](user-guide.md)
 
 **Related topics**  
 

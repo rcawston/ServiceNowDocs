@@ -23,7 +23,7 @@ Role required: requester
 
 If enabled, save the draft if you don't want to discard the form and edit it later. For example, this procedure explains how you can save a draft in Employee Center.
 
-For information about enabling **Save as Draft**, see [Catalog Item form](../reference/catalog-item-form.md).
+For information about enabling **Save as Draft**, see [Catalog Item form](catalog-item-form.md).
 
 ## Procedure
 
@@ -42,7 +42,7 @@ For information about enabling **Save as Draft**, see [Catalog Item form](../ref
 4.  Open a draft item that you want to edit, and if you still don't want to submit it, select **Update draft** or if you want to submit it, select **Submit**.
 
 
-**Parent Topic:**[Service Catalog in Employee Center portal](../concept/service-catalog-in-ec.md)
+**Parent Topic:**[Service Catalog in Employee Center portal](service-catalog-in-ec.md)
 
 **Related topics**  
 

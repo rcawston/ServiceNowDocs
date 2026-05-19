@@ -31,8 +31,8 @@ Role required: sn\_wsd\_concierge.admin
     -   WSD Presence Reservation Section
     **Note:**
 
-    -   The WSD Insights Section is available if you've installed [Proactive Prompts](../../human-resources/concept/proactive-prompts-for-hrsd.md).
-    -   The WSD Presence Reservation Section is available if you've installed [Workplace Reservation Management](../../wsd-reservation-management/concept/workplace-rsv-mgmt-feat.md).
+    -   The WSD Insights Section is available if you've installed [Proactive Prompts](../proactive-prompts/proactive-prompts-for-hrsd.md).
+    -   The WSD Presence Reservation Section is available if you've installed [Workplace Reservation Management](../workplace-reservation-management/workplace-rsv-mgmt-feat.md).
 2.  Change the section order of appearance by editing the values in the Order column.
 
 3.  Add a section to the calendar.
@@ -43,17 +43,17 @@ Role required: sn\_wsd\_concierge.admin
 
     2.  On the Employee Presence Calendar Widget form, fill in the fields.
 
-        For a description of the field values, see [Employee Presence Calendar Widget form](../reference/presence-calendar-widget-frm.md).
+        For a description of the field values, see [Employee Presence Calendar Widget form](presence-calendar-widget-frm.md).
 
     3.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Workplace Concierge](../concept/configure-workplace-concierge.md)
+**Parent Topic:**[Configure Workplace Concierge](configure-workplace-concierge.md)
 
 **Related topics**  
 
 
 [Install Workplace Concierge](install-workplace-concierge.md)
 
-[Configure workplace space suggestions for employees](../concept/configure-workplace-suggestions.md)
+[Configure workplace space suggestions for employees](configure-workplace-suggestions.md)
 

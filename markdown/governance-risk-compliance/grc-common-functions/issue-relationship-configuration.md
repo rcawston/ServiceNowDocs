@@ -21,9 +21,9 @@ By using the **Issue Relationship Configuration** tab under the GRC Administrati
 
 **Note:** This module is visible only if you have the workspaces installed.
 
-You can also disable an issue relationship by stopping the automatic linking of the related objects to an issue. For more information, see [Configure an issue relationship](../task/enable-or-disable-issue-relationship-configuration.md).
+You can also disable an issue relationship by stopping the automatic linking of the related objects to an issue. For more information, see [Configure an issue relationship](enable-or-disable-issue-relationship-configuration.md).
 
--   **[Configure an issue relationship](../task/enable-or-disable-issue-relationship-configuration.md)**  
+-   **[Configure an issue relationship](enable-or-disable-issue-relationship-configuration.md)**  
 Enable or disable an issue relationship configuration record so that you can automatically link an issue with its related objects in the GRC application.
 
 **Parent Topic:**[Issues in the Workspace](issues-in-workspace.md)

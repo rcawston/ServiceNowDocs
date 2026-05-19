@@ -72,9 +72,9 @@ The CI \[cmdb\_ci\] table has the **OT entity** \[cmdb\_ot\_entity\] field. Also
 
 [OT Asset Management licensing](licensing-ot-asset-management.md)
 
-[Install OT Asset Management](../task/install-otam.md)
+[Install OT Asset Management](install-otam.md)
 
-[Installed with OT Asset Management](../reference/installed-with-otam.md)
+[Installed with OT Asset Management](installed-with-otam.md)
 
 [OT Asset Workspace](ot-asset-ws-otam.md)
 

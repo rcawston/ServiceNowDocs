@@ -45,7 +45,7 @@ A side panel opens to create a cost plan.
 
 2.  On the Cost plan form, fill the fields.
 
-For a description of the field names, see [Create cost plan form](../reference/create-cost-plan-form-pp.md).
+For a description of the field names, see [Create cost plan form](create-cost-plan-form-pp.md).
 
 3.  Select **Save** to save the cost plan and close the side panel or **Save and add new** to save the cost plan and create a new cost plan.
  The cost plans created for sub projects can be viewed in the Cost screen of the parent project.
@@ -73,7 +73,7 @@ You can edit a cost plan by one of the following ways.1.  Select the name of the
  **Note:** Deleted cost plans and the associated expense lines cannot be recovered.
 
 </td></tr></tbody>
-</table>    **Tip:** [Create a financial baseline](../../spw-financials/task/create-compare-baselines.md#choicetable_xd3_bdk_2zb) immediately after capturing the initial planned costs to have a snapshot of your planned costs. Use this baseline to compare it against the baselines from later dates, as the work progresses, to identify the variance between initial planned costs and actual expenses.
+</table>    **Tip:** [Create a financial baseline](../scenario-planning-in-spw/create-compare-baselines.md#choicetable_xd3_bdk_2zb) immediately after capturing the initial planned costs to have a snapshot of your planned costs. Use this baseline to compare it against the baselines from later dates, as the work progresses, to identify the variance between initial planned costs and actual expenses.
 
     This helps you to plan for the future expenses and re-forecast the planned costs.
 

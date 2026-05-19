@@ -45,7 +45,7 @@ To activate Virtual agent for Workplace Service Delivery, activate the following
 1.  Activate the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) that provides the Virtual Agent framework.
 2.  Activate the Workplace Core plugin \(sn\_wsd\_core\).
 
-For more information, refer to [Activate Virtual Agent for Workplace Service Delivery](../task/actuvate-va-for-wsd.md).
+For more information, refer to [Activate Virtual Agent for Workplace Service Delivery](actuvate-va-for-wsd.md).
 
 **Parent Topic:**[Explore Workplace Core](workplace-service-delivery-overview.md)
 

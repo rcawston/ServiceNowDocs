@@ -38,5 +38,5 @@ While **Okta Verify** push notification is a secure and convenient authenticatio
 -   Device Security: Registered devices must be protected with screen locks or biometric safeguards to help prevent unauthorized access.
 -   Device Re-enrollment: If a device is replaced or reset, users must re-enroll to maintain uninterrupted authentication.
 
-**Okta Verify** push notification enhances organizational security while providing a convenient authentication experience. For detailed configuration instructions, see [Configure push notification \(Okta Verify\)](../task/configure-okta-verify-push-notification.md).
+**Okta Verify** push notification enhances organizational security while providing a convenient authentication experience. For detailed configuration instructions, see [Configure push notification \(Okta Verify\)](configure-okta-verify-push-notification.md).
 

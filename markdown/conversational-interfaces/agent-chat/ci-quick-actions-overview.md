@@ -18,7 +18,7 @@ Quick actions are shortcuts that perform Agent Chat tasks. Agents can work more 
 
 ## Activate quick actions
 
-To enable your agents to use quick actions, you must activate the and [related plugins for Advanced Work Assignment](../../advanced-work-assignment/reference/awa-related-plugins.md), which is required for chat in Workspace.
+To enable your agents to use quick actions, you must activate the and [related plugins for Advanced Work Assignment](../advanced-work-assignment/awa-related-plugins.md), which is required for chat in Workspace.
 
 ## Default quick actions
 

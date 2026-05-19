@@ -142,9 +142,9 @@ The following steps show you how to install the extension plugin, create a secur
     You have successfully installed the extension plugin, created security tags, and assigned tasks to your tags. You have completed the setup for the integration in your McAfee ePO console. The next step is to configure a server in your ServiceNow AI Platform instance.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[Set up your ServiceNow AI Platform instance for the McAfee ePO integration](../reference/mcaffee-epo-setup-now.md)
+**Previous topic:**[Set up your ServiceNow AI Platform instance for the McAfee ePO integration](mcaffee-epo-setup-now.md)
 
 **Next topic:**[Install the application and configure a server for the McAfee ePO integration](mcaffe-epo-install.md)
 

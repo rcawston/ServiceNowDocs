@@ -25,10 +25,10 @@ Discovery identifies and classifies information about IP networks.
 |Router|cmdb\_ci\_ip\_network|router|Various internal|
 |State|cmdb\_ci\_ip\_network|state|Various internal|
 
-**Parent Topic:**[Network device discovery](../concept/c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](c_NetworkDevices.md)
 
 **Related topics**  
 
 
-[Network discovery](../concept/c_NetworkDiscovery.md#)
+[Network discovery](../discovery/c_NetworkDiscovery.md#)
 

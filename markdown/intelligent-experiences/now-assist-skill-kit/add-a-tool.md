@@ -58,11 +58,11 @@ Two types of nodes are available:
         |Tool type|Description|
         |---------|-----------|
         |Flow Action|Runs a flow action from Workflow Studio as a tool.|
-        |Retriever|Retrieves records or data from the platform to use as context in the prompt. See [Add a retriever](../task/add-retriever.md).|
+        |Retriever|Retrieves records or data from the platform to use as context in the prompt. See [Add a retriever](add-retriever.md).|
         |Script|Runs a custom server-side script as a tool.|
         |Skill|Calls another published skill as a tool, enabling skill chaining.|
         |Sub Flow|Runs a subflow from Workflow Studio as a tool.|
-        |Web Search|Searches the web and returns results to use as context in the prompt. See [Add a web search tool](../task/add-web-search.md).|
+        |Web Search|Searches the web and returns results to use as context in the prompt. See [Add a web search tool](add-web-search.md).|
         |Predictive Intelligence|Uses a Predictive Intelligence solution to classify or predict values as part of the skill flow. See .|
         |Document Intelligence|Extracts structured data from documents as part of the skill flow. See .|
 
@@ -109,7 +109,7 @@ Two types of nodes are available:
 
 ## What to do next
 
-After adding and testing your tools, configure the prompt to reference tool outputs using the **+ Inputs and tools** button in the prompt editor. To learn more, see [Create a prompt](../task/create-prompt-template.md).
+After adding and testing your tools, configure the prompt to reference tool outputs using the **+ Inputs and tools** button in the prompt editor. To learn more, see [Create a prompt](create-prompt-template.md).
 
-**Parent Topic:**[Create a prompt](../task/create-prompt-template.md)
+**Parent Topic:**[Create a prompt](create-prompt-template.md)
 

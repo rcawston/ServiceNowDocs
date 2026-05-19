@@ -29,5 +29,5 @@ Now Assist in Employee Slate provides:
 **Related topics**  
 
 
-[Configure branding and theme](../task/eslate-config-admin-console.md)
+[Configure branding and theme](eslate-config-admin-console.md)
 

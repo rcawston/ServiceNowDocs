@@ -17,7 +17,7 @@ As a member of the legal department, work on legal requests for complaints submi
 
 ## Complaints submitted as legal requests
 
-When an employee submits a legal request related to an ethics complaint, it is automatically assigned to a group or user in the legal department. The assignment is done based on the assignment rules configured in the [intake form of the associated practice area](../../legal-request-management/task/associate-categories-practice-area.md). If the request is assigned to a legal group, the group lead can triage the request to themselves or to any member in the assignment group.
+When an employee submits a legal request related to an ethics complaint, it is automatically assigned to a group or user in the legal department. The assignment is done based on the assignment rules configured in the [intake form of the associated practice area](../legal-request-management/associate-categories-practice-area.md). If the request is assigned to a legal group, the group lead can triage the request to themselves or to any member in the assignment group.
 
 ## Complaints submitted as universal requests
 
@@ -36,12 +36,12 @@ Use the Legal Counsel Center to conduct legal investigations into the submitted 
 
 -   **[Triaging universal requests for legal investigation complaints](manage-legal-investigations-uni-request.md)**  
 When employees observe and report an ethics violation or similar incident, the resulting universal requests are triaged for prioritization and resolution.
--   **[Work on a legal request for a complaint](../task/work-legal-investigations-request.md)**  
+-   **[Work on a legal request for a complaint](work-legal-investigations-request.md)**  
 Work on legal requests for complaints assigned to you or as a collaborator to resolve issues or answer queries.
--   **[Work on a legal matter for a complaint](../task/work-legal-investigations-matter.md)**  
+-   **[Work on a legal matter for a complaint](work-legal-investigations-matter.md)**  
 Work on a legal matter assigned to you to conduct legal investigations and resolve an internal complaint.
--   **[Manage involved parties in a legal request or legal matter](../task/add-involved-party.md)**  
+-   **[Manage involved parties in a legal request or legal matter](add-involved-party.md)**  
 Add a new involved party or modify the information of an existing involved party in a legal request or legal matter related to a complaint.
 
-**Parent Topic:**[Legal Investigations](../reference/legal-investigations-landing-page.md)
+**Parent Topic:**[Legal Investigations](legal-investigations-landing-page.md)
 

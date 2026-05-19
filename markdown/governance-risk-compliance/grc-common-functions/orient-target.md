@@ -36,5 +36,5 @@ NIST CSF role required: sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf
 6.  Click **Update**.
 
 
-**Parent Topic:**[Align and prioritize cybersecurity activities](../concept/align-prioritize-activities.md)
+**Parent Topic:**[Align and prioritize cybersecurity activities](align-prioritize-activities.md)
 

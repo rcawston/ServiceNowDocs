@@ -155,5 +155,5 @@ Enter notes about the credentials.
 **Related topics**  
 
 
-[Relate credentials to a digital interface](../../task/eaw-task/eaw-dig-interface-add-credential.md)
+[Relate credentials to a digital interface](eaw-dig-interface-add-credential.md)
 

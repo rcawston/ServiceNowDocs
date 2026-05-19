@@ -17,7 +17,7 @@ Service Portal installs these roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[Service Portal reference](../concept/reference-service-portal.md)
+**Parent Topic:**[Service Portal reference](reference-service-portal.md)
 
 ## Service Portal administrator \[sp\_admin\]
 

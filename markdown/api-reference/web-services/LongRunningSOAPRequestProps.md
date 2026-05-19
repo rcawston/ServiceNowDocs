@@ -84,5 +84,5 @@ Enables or disables a 307-Temporary Redirect when the request includes a **redi
 Controls the maximum number of long-running SOAP threads which can run at any one time. The default value for this property is determined dynamically based on the number of SOAP semaphores configured. It should not be necessary to change this value.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+</table>**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

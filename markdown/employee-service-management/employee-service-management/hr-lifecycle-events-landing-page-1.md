@@ -16,23 +16,23 @@ The Lifecycle Events app helps to facilitate daily activities among various cros
 
 <table id="jny-dsgn-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore](../../../reuse/icons/brand-icons/bus-explore.svg) Define and document the lifecycle event process.](define-lifecycle-event-process.md)
+[Explore ![Explore](../../../reuse/icons/brand-icons/bus-explore.svg) Define and document the lifecycle event process.](../lifecycle-events/define-lifecycle-event-process.md)
 
 </td><td>
 
-[Configure enterprise lifecycle events ![Configure](../../../reuse/icons/brand-icons/bus-application-development.svg) Enable the automation of onboarding and other employee lifecycle events that span across company departments.](../task/activate-hr-lifecycle-events-for-enterprise-1.md)
+[Configure enterprise lifecycle events ![Configure](../../../reuse/icons/brand-icons/bus-application-development.svg) Enable the automation of onboarding and other employee lifecycle events that span across company departments.](activate-hr-lifecycle-events-for-enterprise-1.md)
 
 </td><td>
 
-[Configure lifecycle events ![Configure](../../../reuse/icons/brand-icons/bus-sdlc.svg) Enable and configure digital workflows to manage employee lifecycle events through a single service delivery platform.](../task/activate-enterprise-onboarding-and-transitions-scoped.md)
+[Configure lifecycle events ![Configure](../../../reuse/icons/brand-icons/bus-sdlc.svg) Enable and configure digital workflows to manage employee lifecycle events through a single service delivery platform.](../lifecycle-events/activate-enterprise-onboarding-and-transitions-scoped.md)
 
 </td></tr><tr><td>
 
-[Use ![Use](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Build lifecycle events to automate fulfillment of HR cases.](hr-lifecycle-event-configuration.md)
+[Use ![Use](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Build lifecycle events to automate fulfillment of HR cases.](../lifecycle-events/hr-lifecycle-event-configuration.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions ![Analytics and Reporting Solutions](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Lifecycle Events dashboards provide visibility into lifecycle events.](LifecycleEventsDashboard.md)
+[Analytics and Reporting Solutions ![Analytics and Reporting Solutions](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Lifecycle Events dashboards provide visibility into lifecycle events.](../lifecycle-events/LifecycleEventsDashboard.md)
 
 </td><td>
 
@@ -41,7 +41,7 @@ The Lifecycle Events app helps to facilitate daily activities among various cros
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).

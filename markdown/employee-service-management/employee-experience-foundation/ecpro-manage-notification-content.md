@@ -128,7 +128,7 @@ The message you want to send via push. You are limited to 1600 characters.
 
     Go to Schedule Content to define the audience, date, and time your content is available. For more information, see [Scheduling the delivery of content](ecpro-schedule-content.md). Or, go to Manage Content to add your content to a campaign bundle. For more information, see [Create campaign bundles/stages](ecpro-manage-campaign-bundles.md).
 
-    To request your content to be translated into a different language, select the **Translate content** button at the top. This button only appears when the sn\_cd.enable\_localization\_framework\_integration system property is activated. For more information, see [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+    To request your content to be translated into a different language, select the **Translate content** button at the top. This button only appears when the sn\_cd.enable\_localization\_framework\_integration system property is activated. For more information, see [Properties installed with Content Publishing](properties-with-content-delivery.md).
 
     **Note:** Integration with Localization Framework is not available for Push or SMS content.
 

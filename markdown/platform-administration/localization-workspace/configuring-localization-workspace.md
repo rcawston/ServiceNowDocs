@@ -26,42 +26,42 @@ Localization Workspace builds upon the functionality of other ServiceNow AI Plat
 
 After the initial setup, admins can make adjustments to configurations by using the [Configuration Hub in Localization Workspace](lw-configuration-hub.md).
 
-1.  [Install Localization Workspace](../task/install-localization-workspace.md).
+1.  [Install Localization Workspace](install-localization-workspace.md).
 
     You can install the application \(sn\_lw\) if you have the admin role. The application installs related applications and plugins if they are not already installed. Check your entitlements to determine whether you have access to Localization Workspace.
 
 2.  Configure prerequisites as needed.
 
-    In the Zurich release, access to the Settings table \[sn\_lf\_setting\] is configured by default. However, in the Yokohama release, you must confirm access to the Settings table \[sn\_lf\_setting\]. The admin role is required for this step. See [Confirm access to Settings table](../task/lw-confirm-access-settings-table.md).
+    In the Zurich release, access to the Settings table \[sn\_lf\_setting\] is configured by default. However, in the Yokohama release, you must confirm access to the Settings table \[sn\_lf\_setting\]. The admin role is required for this step. See [Confirm access to Settings table](lw-confirm-access-settings-table.md).
 
 3.  Configure dependencies.
-    -   [Internationalization \(i18n\) and language plugins](../../localization/concept/exploring-system-localization.md): Install language plugins as part of System Localization. Choose your instance's languages according to your business requirements.
-    -   [Localization Framework:](../../localization-framework/concept/exploring-localization-framework.md) Configure Localization Framework as follows.
+    -   [Internationalization \(i18n\) and language plugins](../system-localization/exploring-system-localization.md): Install language plugins as part of System Localization. Choose your instance's languages according to your business requirements.
+    -   [Localization Framework:](../localization-framework/exploring-localization-framework.md) Configure Localization Framework as follows.
 
         Assign roles. Localization Workspace uses roles from Localization Framework, along with one role specific to Localization Workspace.
 
-        1.  Add Localization Framework roles as needed. See [Localization Framework Roles](../../localization-framework/reference/roles-localization-framework.md#).
+        1.  Add Localization Framework roles as needed. See [Localization Framework Roles](../localization-framework/roles-localization-framework.md#).
         2.  Add the Localization Workspace user role sn\_lw.user. This role is required for all users in Localization Workspace.
         Create at least one group in the Groups \[sys\_user\_group\] table and add roles to the group, then assign your localization users to the appropriate group.
 
-        Configure artifacts. See [Artifact configurations](../../localization-framework/concept/framework-configuration.md).
+        Configure artifacts. See [Artifact configurations](../localization-framework/framework-configuration.md).
 
         **Note:** The role sn\_cd.content\_admin is required to see Content Publishing items from Localization Workspace. If your users need to request translations for Content Publishing material, add sn\_cd.content\_admin to the appropriate group.
 
         The sn\_cd.content\_admin role is different from the content\_admin role. From version 3.0.0, the sn\_lw.user role contains the content\_admin role.
 
-        Configure settings, including for the workflows of translation tasks. See [Localization Framework settings](../../localization-framework/concept/localization-settings.md). Also on the Localization Framework settings table \(sn\_lf\_settings\), in the **Project Preferences** tab, ensure that check boxes are set as follows.
+        Configure settings, including for the workflows of translation tasks. See [Localization Framework settings](../localization-framework/localization-settings.md). Also on the Localization Framework settings table \(sn\_lf\_settings\), in the **Project Preferences** tab, ensure that check boxes are set as follows.
 
         -   **Enable projects**: Selected.
         -   **Enable auto creation**: Cleared \(unselected\).
-        Configure a Translation Management System if your organization uses one. See [Translation Management System configurations](../../localization-framework/concept/tms-configuration.md).
+        Configure a Translation Management System if your organization uses one. See [Translation Management System configurations](../localization-framework/tms-configuration.md).
 
-    -   [Dynamic Translation](../../dynamic-translation/concept/dynamic-translation-overview.md): If you use machine translation to fulfill translation requests, configure Dynamic Translation, including setting up a translator configuration. See [Integration with other translation services](../../dynamic-translation/concept/integration-with-other-translation-services.md).
-4.  Configure custom artifacts, if you plan to use your own artifacts in Localization Workspace. See [Create and configure a custom artifact](../../localization-framework/task/create-configure-custom-artifact.md).
+    -   [Dynamic Translation](../dynamic-translation/dynamic-translation-overview.md): If you use machine translation to fulfill translation requests, configure Dynamic Translation, including setting up a translator configuration. See [Integration with other translation services](../dynamic-translation/integration-with-other-translation-services.md).
+4.  Configure custom artifacts, if you plan to use your own artifacts in Localization Workspace. See [Create and configure a custom artifact](../localization-framework/create-configure-custom-artifact.md).
 
-    Set cross-scope access privileges for your artifacts. For more information see [Cross-scope privileges for Localization Workspace](../task/lw-cross-scope-privilege.md).
+    Set cross-scope access privileges for your artifacts. For more information see [Cross-scope privileges for Localization Workspace](lw-cross-scope-privilege.md).
 
-    Set Restricted Caller Access for Localization Workspace to enable access to artifact resources, if needed. The admin role is required for this step. See [Restricted Caller Access for Localization Workspace](../task/lw-restricted-caller-access.md).
+    Set Restricted Caller Access for Localization Workspace to enable access to artifact resources, if needed. The admin role is required for this step. See [Restricted Caller Access for Localization Workspace](lw-restricted-caller-access.md).
 
 5.  [Configure languages](lw-language-setup.md) in Localization Workspace. Language providers in Localization Workspace are different from translator configurations in Dynamic Translation.
 
@@ -72,13 +72,13 @@ After the initial setup, admins can make adjustments to configurations by using 
 
 ![Language setup in Localization Workspace, opened to display the Language Providers list.](../image/configuring-localization-workspace1.png)
 
--   **[Install Localization Workspace](../task/install-localization-workspace.md)**  
+-   **[Install Localization Workspace](install-localization-workspace.md)**  
 You can install the Localization Workspace application \(sn\_lw\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed. Demo data isn't available.
--   **[Confirm access to Settings table](../task/lw-confirm-access-settings-table.md)**  
+-   **[Confirm access to Settings table](lw-confirm-access-settings-table.md)**  
 As part of the configuration for Localization Workspace, confirm access to the Settings table of Localization Framework.
--   **[Cross-scope privileges for Localization Workspace](../task/lw-cross-scope-privilege.md)**  
+-   **[Cross-scope privileges for Localization Workspace](lw-cross-scope-privilege.md)**  
 After you create custom translation artifacts, set cross-scope privileges so that your artifacts can be accessed from Localization Workspace.
--   **[Restricted Caller Access for Localization Workspace](../task/lw-restricted-caller-access.md)**  
+-   **[Restricted Caller Access for Localization Workspace](lw-restricted-caller-access.md)**  
 Give Localization Workspace access to your content by setting Restricted Caller Access privileges. Setting these privileges is required only when target tables or scripts are restricted.
 -   **[Configuration Hub in Localization Workspace](lw-configuration-hub.md)**  
 Configuration Hub provides centralized access to the tables and properties often used by admins. You can update the tables and properties of dependent applications such as Localization Framework without leaving the Localization Workspace interface.
@@ -89,5 +89,5 @@ Language setup enables you to flexibly configure target languages and their thir
 -   **[Creating email notifications for Localization Workspace](lw-email-notifications.md)**  
 As an admin, you can set up email notifications for events in Localization Workspace.
 
-**Parent Topic:**[ServiceNow AI Platform translation and localization](../../managing-data/concept/translation-and-localization.md)
+**Parent Topic:**[ServiceNow AI Platform translation and localization](../system-localization/translation-and-localization.md)
 

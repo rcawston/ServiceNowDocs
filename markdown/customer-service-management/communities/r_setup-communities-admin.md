@@ -43,38 +43,38 @@ The roles required to define requirements and set up forums include sn\_communit
 
 Use the following steps as guidance to setting up your community.
 
-1.  Create a forum user: [Create a forum user](../task/add-user.md) to use to define memberships to a forum.
-2.  Create a permission: [Create a permission](../task/create-permission.md) to use to define a user's access to a forum and its content types.
-3.  Add access and content types to your permission: [Add access types to a permission](../task/define-access-type-permission.md) to determine the access that users have to certain forums and content.
-4.  Create a forum: [Create a forum](../task/create-forum.md) to provide a place for users to share content and configure the forum to allow registered users to request access to join.
-5.  Configure content types for a forum: [Configure content types for a forum](../task/add-content-type-to-forum.md) to define which types of content to use in a particular forum.
-6.  Create a forum permission: [Create a forum permission](../task/create-forum-permission.md) by adding a forum user and a permission to a forum.
+1.  Create a forum user: [Create a forum user](add-user.md) to use to define memberships to a forum.
+2.  Create a permission: [Create a permission](create-permission.md) to use to define a user's access to a forum and its content types.
+3.  Add access and content types to your permission: [Add access types to a permission](define-access-type-permission.md) to determine the access that users have to certain forums and content.
+4.  Create a forum: [Create a forum](create-forum.md) to provide a place for users to share content and configure the forum to allow registered users to request access to join.
+5.  Configure content types for a forum: [Configure content types for a forum](add-content-type-to-forum.md) to define which types of content to use in a particular forum.
+6.  Create a forum permission: [Create a forum permission](create-forum-permission.md) by adding a forum user and a permission to a forum.
 
 If required, perform the following actions:
 
 -   **Invite users to join the forum**
 
-    [Invite users to become members of a forum](../task/invite-users-forum.md) to encourage greater community involvement.
+    [Invite users to become members of a forum](invite-users-forum.md) to encourage greater community involvement.
 
 -   **Create permission exceptions**
 
-    [Create a permission exception](../task/manage-permission-exceptions.md) for users who require specific permissions for a forum.
+    [Create a permission exception](manage-permission-exceptions.md) for users who require specific permissions for a forum.
 
 -   **Copy permissions**
-    -   [Copy permissions from a forum](../task/copy-permissions-from-another-forum.md) to copy all permissions and content types from one forum to another.
-    -   [Copy permissions from a parent forum](../task/copy-permissions-from-parent-forum.md).
+    -   [Copy permissions from a forum](copy-permissions-from-another-forum.md) to copy all permissions and content types from one forum to another.
+    -   [Copy permissions from a parent forum](copy-permissions-from-parent-forum.md).
 -   **Debug user permissions**
 
-    [Debug user permissions](../task/debug-user-permissions.md) to investigate and diagnose problems with user access to forums.
+    [Debug user permissions](debug-user-permissions.md) to investigate and diagnose problems with user access to forums.
 
 
 ## Next steps
 
-[Create a topic](../task/create-topic.md) for users to create and share content.
+[Create a topic](create-topic.md) for users to create and share content.
 
-[Add a topic to a forum](../task/add-topic-to-forum.md) so that users can associate content to that topic.
+[Add a topic to a forum](add-topic-to-forum.md) so that users can associate content to that topic.
 
-[Moderate a community](../task/moderate-communities.md) to set up how the system moderates content and users.
+[Moderate a community](moderate-communities.md) to set up how the system moderates content and users.
 
 ## Using guided setup to implement Communities
 
@@ -87,43 +87,43 @@ For more information about using the guided setup interface, see [Using guided s
 **Related topics**  
 
 
-[Community content types](../concept/c_communities-content-types.md)
+[Community content types](c_communities-content-types.md)
 
-[Community feedback types](../concept/feedback-types.md)
+[Community feedback types](feedback-types.md)
 
-[Community access types](../concept/access-types.md)
+[Community access types](access-types.md)
 
-[Platform Analytics Solutions for Communities](../../../use/dashboards/application-content-packs/communities-content-pack.md)
+[Platform Analytics Solutions for Communities](communities-content-pack.md)
 
-[Migrate Social Q&amp;A data to Communities](../task/migrate-socialqa.md)
+[Migrate Social Q&amp;A data to Communities](migrate-socialqa.md)
 
-[View community logs](../task/view-community-logs.md)
+[View community logs](view-community-logs.md)
 
-[View community feedback and bookmarks tables](../task/view-feedback-bookmark-tables.md)
+[View community feedback and bookmarks tables](view-feedback-bookmark-tables.md)
 
-[Create a case from a discussion](../concept/case-management-integration.md)
+[Create a case from a discussion](case-management-integration.md)
 
-[Enable knowledge harvesting](../concept/communities-km-integration-configure.md)
+[Enable knowledge harvesting](communities-km-integration-configure.md)
 
-[Activate Communities plugins](../task/activate-communities.md)
+[Activate Communities plugins](activate-communities.md)
 
-[Configure community content types](../task/enable-content-types-for-community.md)
+[Configure community content types](enable-content-types-for-community.md)
 
-[Configure video sources for a community](../../customer-service-management/task/create-video-configuration.md)
+[Configure video sources for a community](create-video-configuration.md)
 
-[Configure community forums](../task/configure-forums-topics.md)
+[Configure community forums](configure-forums-topics.md)
 
-[Forum and user permissions management](../concept/communities-permissions.md)
+[Forum and user permissions management](communities-permissions.md)
 
-[Configure the community profile](../task/configure-community-profile.md)
+[Configure the community profile](configure-community-profile.md)
 
-[Create community Terms and Conditions](../task/create-terms-conditions.md)
+[Create community Terms and Conditions](create-terms-conditions.md)
 
-[Enable users to self-register to a community](../concept/configure-registration.md)
+[Enable users to self-register to a community](configure-registration.md)
 
-[Moderate a community](../task/moderate-communities.md)
+[Moderate a community](moderate-communities.md)
 
-[Administer gamification](../concept/communities-gamification-administer.md)
+[Administer gamification](communities-gamification-administer.md)
 
-[Community Service Portal](../concept/community-service-portal.md)
+[Community Service Portal](community-service-portal.md)
 

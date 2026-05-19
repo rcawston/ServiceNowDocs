@@ -69,5 +69,5 @@ Formula used to calculate the progress value of the goal
 -   Contribution of T2 towards G1 progress = 3/\(2+3\)\*20 = 12%
 -   Therefore, Progress of G1 = 16% +12% = 28%
 
-**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](../reference/goal-framework-reference.md)
+**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](goal-framework-reference.md)
 

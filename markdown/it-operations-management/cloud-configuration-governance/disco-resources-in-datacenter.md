@@ -86,12 +86,12 @@ Discover Now is activated.**Note:** Discovery will now use Patterns as the defau
 
 Discovery populates the CMDB with the discovered resources and updates the information on the **Resources** tab. You can view Discovery results in the **Discovery Log** tab.
 
-**Note:** By default, Discovery stores the discovered VM hardware types in the Hardware Type \[cmdb\_ci\_compute\_template\] table. If you notice an unusually large number of records in this table, use the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table to store the discovered VM hardware types. For more information, see [Enable the Cloud Hardware Type class extension](../../discovery/task/enable-hardware-type-class-extension.md). All Cloud Provisioning and Governance features, such as provisioning, quotas, and so on continue to work as is after you switch to the Cloud Hardware Type table.
+**Note:** By default, Discovery stores the discovered VM hardware types in the Hardware Type \[cmdb\_ci\_compute\_template\] table. If you notice an unusually large number of records in this table, use the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table to store the discovered VM hardware types. For more information, see [Enable the Cloud Hardware Type class extension](../discovery-and-service-mapping-patterns/enable-hardware-type-class-extension.md). All Cloud Provisioning and Governance features, such as provisioning, quotas, and so on continue to work as is after you switch to the Cloud Hardware Type table.
 
-**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](../concept/cloud-mgt-general-setup-day-2.md)
+**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](cloud-mgt-general-setup-day-2.md)
 
 **Related topics**  
 
 
-[View the Discovery Log](../../discovery/reference/r_DiscoveryLog.md#)
+[View the Discovery Log](../discovery/r_DiscoveryLog.md#)
 

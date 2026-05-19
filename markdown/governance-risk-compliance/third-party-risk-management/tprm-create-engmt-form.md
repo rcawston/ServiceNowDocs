@@ -144,7 +144,7 @@ Latitude and Longitude
 
 </td><td>
 
-The **Latitude** and **Longitude** values are used to mark the location on the Risk concentration map. See [TPRM Risk concentration map](../../grc-workspace-vrm/concept/tprm-ws-risk-concentration-map.md).
+The **Latitude** and **Longitude** values are used to mark the location on the Risk concentration map. See [TPRM Risk concentration map](tprm-ws-risk-concentration-map.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -268,7 +268,7 @@ Repeating assessments
 
 </td><td>
 
-Repeating assessments for the third-party engagement.**Note:** You can create repeating assessments if you are using the classic assessment engine. You can configure rules that auto-generate and send questionnaires and doc requests to engagements and third parties using the Event-driven management feature if you are using the Smart Assessment Engine. For more information, see [Configure a risk assessment to recur on a schedule](../task/define-repeating-vend-assess.md) and [Event-driven management — automate assessment processes](../../grc-workspace-vrm/task/tprm-event-drvn-mgt-rule-create.md).
+Repeating assessments for the third-party engagement.**Note:** You can create repeating assessments if you are using the classic assessment engine. You can configure rules that auto-generate and send questionnaires and doc requests to engagements and third parties using the Event-driven management feature if you are using the Smart Assessment Engine. For more information, see [Configure a risk assessment to recur on a schedule](define-repeating-vend-assess.md) and [Event-driven management — automate assessment processes](tprm-event-drvn-mgt-rule-create.md).
 
 </td></tr><tr><td>
 

@@ -17,11 +17,11 @@ Configure button emphasis in different locations within your mobile app to help 
 
 Role required: admin
 
-**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](../concept/explore-ne-theming.md).
+**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](explore-ne-theming.md).
 
 ## About this task
 
-Button emphasis configuration is performed in web-based UI. For more information, see [Associate a function with a location in the app](../reference/sg-studio-button-instances.md). Starting from San Diego additional colors are included in the release, and button emphasis is supported in additional locations. These colors are configured in the web-based UI for the listed screen locations.
+Button emphasis configuration is performed in web-based UI. For more information, see [Associate a function with a location in the app](sg-studio-button-instances.md). Starting from San Diego additional colors are included in the release, and button emphasis is supported in additional locations. These colors are configured in the web-based UI for the listed screen locations.
 
 ## Procedure
 

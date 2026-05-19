@@ -87,7 +87,7 @@ Sidebar tabs visibility
 
 </td><td>
 
-List of tables associated with the sidebar tabs in [Contextual Side Panel](../concept/agent-ws-hr-case-mgmt-context-sidebar.md). To hide a sidebar tab from the Contextual Side Panel, remove its corresponding table entry from JSON file.
+List of tables associated with the sidebar tabs in [Contextual Side Panel](agent-ws-hr-case-mgmt-context-sidebar.md). To hide a sidebar tab from the Contextual Side Panel, remove its corresponding table entry from JSON file.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 

@@ -33,13 +33,13 @@ To determine the appropriate person or group to handle a privacy case, establish
 
 4.  On the Assignment Rule form, fill in the fields.
 
-    For a description of the field values on the Assignment Rule form, see [Assignment rule form](../reference/prm-assignment-rule-form.md).
+    For a description of the field values on the Assignment Rule form, see [Assignment rule form](prm-assignment-rule-form.md).
 
 5.  Select **Submit**.
 
 
--   **[Assignment rule form](../reference/prm-assignment-rule-form.md)**  
+-   **[Assignment rule form](prm-assignment-rule-form.md)**  
 Learn about the fields on the assignment rule form. Use this form to define case assignment rules in the Privacy Case Management application.
 
-**Parent Topic:**[Configuring Privacy Case Management](../concept/configuring-privacy-case-management.md)
+**Parent Topic:**[Configuring Privacy Case Management](configuring-privacy-case-management.md)
 

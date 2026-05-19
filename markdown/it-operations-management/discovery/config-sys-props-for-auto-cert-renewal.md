@@ -42,5 +42,5 @@ Your system is configured to renew automatically certificates before they expire
 
 ## What to do next
 
-You can [Set a certificate to renew automatically](set-certificate-to-renew-automatically.md) or use the [Now Assist certificate renewal AI agent](../../it-operations-management/concept/now-assist-cert-renewal-ai-agent.md).
+You can [Set a certificate to renew automatically](set-certificate-to-renew-automatically.md) or use the [Now Assist certificate renewal AI agent](../now-assist-for-it-operations-management/now-assist-cert-renewal-ai-agent.md).
 

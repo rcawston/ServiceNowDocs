@@ -25,33 +25,33 @@ Assigning higher or lower significance to an alert helps you prioritize the aler
 
 You can do the following to adjust the importance of an alert or reduce sensitivity to specific anomalies:
 
--   [Mark an alert as significant in Health Log Analytics](../task/hla-op-alert-make-significant-sow.md)
+-   [Mark an alert as significant in Health Log Analytics](hla-op-alert-make-significant-sow.md)
 
     Make an alert more likely to be included in a Log Analytics group when the associated metric behaves anomalously by labeling the alert as meaningful.
 
--   [Mute an unimportant alert in Health Log Analytics](../task/hla-op-alert-mute-sow.md)
+-   [Mute an unimportant alert in Health Log Analytics](hla-op-alert-mute-sow.md)
 
-    Eliminate distracting new alerts for insignificant issues by muting them. [View the list of metrics that were muted](../task/hla-op-alert-view-ignored-list.md) and no longer generate alerts.
+    Eliminate distracting new alerts for insignificant issues by muting them. [View the list of metrics that were muted](hla-op-alert-view-ignored-list.md) and no longer generate alerts.
 
--   [Decrease sensitivity to similar anomalies in Health Log Analytics](../task/hla-op-alert-raise-feedback-sow.md)
+-   [Decrease sensitivity to similar anomalies in Health Log Analytics](hla-op-alert-raise-feedback-sow.md)
 
     Make Health Log Analytics anomaly detection less sensitive to anomalies like the one that triggered the current Log Analytics alert.
 
--   [Restore normal importance to an alert metric in Health Log Analytics](../task/hla-op-alert-restore-user-defined-sow.md)
+-   [Restore normal importance to an alert metric in Health Log Analytics](hla-op-alert-restore-user-defined-sow.md)
 
     Return normal significance to the metric involved in generating a Log Analytics alert.
 
 
 For detailed information about alert metrics, see [How Health Log Analytics generates alerts](hla-op-anomalies-detecting.md).
 
--   **[Mark an alert as significant in Health Log Analytics](../task/hla-op-alert-make-significant-sow.md)**  
+-   **[Mark an alert as significant in Health Log Analytics](hla-op-alert-make-significant-sow.md)**  
 Make an alert more likely to be included in a Log Analytics group when the associated metric behaves anomalously by labeling the alert as meaningful.
--   **[Mute an unimportant alert in Health Log Analytics](../task/hla-op-alert-mute-sow.md)**  
+-   **[Mute an unimportant alert in Health Log Analytics](hla-op-alert-mute-sow.md)**  
 Eliminate distracting new alerts for insignificant issues by muting them.
--   **[Decrease sensitivity to similar anomalies in Health Log Analytics](../task/hla-op-alert-raise-feedback-sow.md)**  
+-   **[Decrease sensitivity to similar anomalies in Health Log Analytics](hla-op-alert-raise-feedback-sow.md)**  
 Make anomaly detection less sensitive to anomalies like the one that triggered the current Log Analytics alert.
--   **[Restore normal importance to an alert metric in Health Log Analytics](../task/hla-op-alert-restore-user-defined-sow.md)**  
+-   **[Restore normal importance to an alert metric in Health Log Analytics](hla-op-alert-restore-user-defined-sow.md)**  
 Return normal significance to the metric involved in generating a Log Analytics alert. Use this option if you no longer want an alert to be treated specially that was muted, marked as significant, or made less sensitive to similar anomalies.
 
-**Parent Topic:**[ITOM AIOps](../../it-operations-management/reference/itom-health-landing-page.md)
+**Parent Topic:**[ITOM AIOps](../itom-health-landing-page.md)
 

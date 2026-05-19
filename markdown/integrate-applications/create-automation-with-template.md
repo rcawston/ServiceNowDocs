@@ -52,5 +52,5 @@ The default templates that the RPA Desktop Design Studio provides are RPA Deskto
     ![Automation template.](../image/rpa-studio-automation-template.png)
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 

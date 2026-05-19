@@ -89,20 +89,20 @@ All decisions in connection with the implementation of this application are at t
 
 ## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
--   **[Install the Safe Workplace Dashboard](../task/install-safe-workplace-dashboard.md#)**  
+-   **[Install the Safe Workplace Dashboard](install-safe-workplace-dashboard.md#)**  
 Install the Safe Workplace Dashboard application. You can install this application If you have the admin role.
 -   **[Create a campus to appear on the Safe Workplace Dashboard](configrng-safe-workplce-dshbrd.md)**  
 You can create a campus from existing locations to appear on the Safe Workplace Dashboard.
--   **[Alert types used with the Safe Workplace Dashboard](../reference/safe-wkplc-dashboard-alert-types.md)**  
+-   **[Alert types used with the Safe Workplace Dashboard](safe-wkplc-dashboard-alert-types.md)**  
 Alert types define the ServiceNow® Performance Analytics \(PA\) thresholds used to generate alerts on the Safe Workplace Dashboard. Alerts are generated from application data once per day.
 -   **[Using the Safe Workplace Dashboard](using-safe-wkplc-dashboard.md)**  
 By using a map, you can review your organization's status regarding personnel and facility readiness to reopen.
 
-**Parent Topic:**[Safe Workplace](../../human-resources/concept/safe-workplace.md)
+**Parent Topic:**[Safe Workplace](../safe-workplace/safe-workplace.md)
 

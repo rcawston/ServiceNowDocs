@@ -40,7 +40,7 @@ Role required: sn\_ti.case\_user\_write
     The selected artifacts are removed from the list.
 
 
-**Parent Topic:**[Security artifact exclusion and inclusion](../concept/artifact-inclusion-exclusion.md)
+**Parent Topic:**[Security artifact exclusion and inclusion](artifact-inclusion-exclusion.md)
 
 **Related topics**  
 

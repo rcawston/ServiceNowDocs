@@ -26,5 +26,5 @@ The digital integration represents the integration between two business applicat
 
 An overview video on Digital integration management in Enterprise Architecture Workspace 
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 

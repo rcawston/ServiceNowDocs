@@ -44,7 +44,7 @@ The BIA Manager \(sn\_bia.bia\_manager\) now includes the Doc writer \(sn\_doc.w
 
 3.  On the **Details** tab of the **Create New Impact analysis** form, fill in the required fields.
 
-    For more information on the fields, see [Create New Impact analysis form](../reference/create-new-impact-analysis-reference-form-bcm-uib-ws.md).
+    For more information on the fields, see [Create New Impact analysis form](create-new-impact-analysis-reference-form-bcm-uib-ws.md).
 
     The business impact analysis is created in the **Draft** state and it’s displayed in the List view. The state and details of the business impact analysis are displayed in these tabs:
 
@@ -55,7 +55,7 @@ The BIA Manager \(sn\_bia.bia\_manager\) now includes the Doc writer \(sn\_doc.w
 
     The **Finalized RTO** field is auto-calculated according to the values in the **Recovery time objective** and **Adjusted RTO** fields available on the same form.
 
-    If the BIAs already have the **Recovery time objective** field, the application uses that Recovery time objective value automatically for the finalized RTO. If the BIA has the **Adjusted RTO** field, the application uses that Adjusted RTO value automatically for the finalized RTO. For information on the field, see the field description in the [Create New Impact analysis form](../reference/create-new-impact-analysis-reference-form-bcm-uib-ws.md).
+    If the BIAs already have the **Recovery time objective** field, the application uses that Recovery time objective value automatically for the finalized RTO. If the BIA has the **Adjusted RTO** field, the application uses that Adjusted RTO value automatically for the finalized RTO. For information on the field, see the field description in the [Create New Impact analysis form](create-new-impact-analysis-reference-form-bcm-uib-ws.md).
 
     The example shows that the **Finalized RTO** field is empty because the application didn't run the fix script.
 
@@ -75,7 +75,7 @@ The BIA Manager \(sn\_bia.bia\_manager\) now includes the Doc writer \(sn\_doc.w
 
     The **Finalized RPO** field is auto-calculated according to the values in the **Recovery point objective** and **Adjusted RPO** fields available on the same form.
 
-    If the BIAs already have the **Recovery point objective** field, the application uses that Recovery point objective value automatically for the finalized RPO. If the BIA has the **Adjusted RPO** field, the application uses that Adjusted RTO value automatically for the finalized RPO. For information on the field, see the field description in the [Create New Impact analysis form](../reference/create-new-impact-analysis-reference-form-bcm-uib-ws.md).
+    If the BIAs already have the **Recovery point objective** field, the application uses that Recovery point objective value automatically for the finalized RPO. If the BIA has the **Adjusted RPO** field, the application uses that Adjusted RTO value automatically for the finalized RPO. For information on the field, see the field description in the [Create New Impact analysis form](create-new-impact-analysis-reference-form-bcm-uib-ws.md).
 
 7.  Add the RPO manually in the **Adjusted RPO** field as an optional step, add the reason for adjusted RPO, and save the changes.
 
@@ -187,8 +187,8 @@ The BIA Manager \(sn\_bia.bia\_manager\) now includes the Doc writer \(sn\_doc.w
 20. To save the BIA record, select **Save**.
 
 
--   **[Create New Impact analysis form](../reference/create-new-impact-analysis-reference-form-bcm-uib-ws.md)**  
+-   **[Create New Impact analysis form](create-new-impact-analysis-reference-form-bcm-uib-ws.md)**  
 Use the Create New Impact analysis form to add details about the business impact analysis, assessments, approvals, and so on in BCM Configurable Workspace.
 
-**Parent Topic:**[Structured workflows for BIAs](../concept/bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
 

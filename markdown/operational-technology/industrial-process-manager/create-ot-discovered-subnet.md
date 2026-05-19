@@ -40,5 +40,5 @@ Role required: cmdb\_ot\_admin
 5.  To edit the discovered subnet record, open the record, make the changes as needed, and select **Update**.
 
 
-**Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](../../operational-technology-management/task/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
+**Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 

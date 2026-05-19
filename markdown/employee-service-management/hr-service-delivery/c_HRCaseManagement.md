@@ -47,24 +47,24 @@ An employee named Alan wants to find out about the dental plans offered:
 3.  The HR agent can answer the inquiry by phone, email, chat, or through the Comments section of the HR case.
 4.  If the answer satisfies the inquiry, the HR case can be closed.
 
--   **[Create an HR case](../task/search-hr-case.md)**  
+-   **[Create an HR case](search-hr-case.md)**  
 Create HR cases for employees or other individuals that require an HR service. Note that employees can also use the HR Service Portal to create HR cases for themselves.
--   **[Work an HR case](../task/t_CreateAnHRCase.md)**  
+-   **[Work an HR case](t_CreateAnHRCase.md)**  
 After initial creation of an HR case, the next steps are to change the state, provide additional information, and ensure that any outstanding tasks are completed.
--   **[Resubmit an HR case for approval](../task/t_ApproveAnHRCase.md)**  
+-   **[Resubmit an HR case for approval](t_ApproveAnHRCase.md)**  
 HR cases that are rejected can be resubmitted for approval. Resubmitting a rejected case alleviates having to recreate a new case.
 -   **[Transfer an HR case](reclassify-hr-case.md#)**  
 You can create and use methods to reclassify or transfer an opened HR case from one HR service to another. Oftentimes an HR case opens as a General Benefits Inquiry. After investigating, you can transfer it to the applicable HR service.
--   **[Escalate an HR case](../task/t_EscalateAnHRCase.md)**  
+-   **[Escalate an HR case](t_EscalateAnHRCase.md)**  
 Escalate an HR case when you cannot resolve it yourself. The system reassigns the case according to your organization's escalation rules and marks it as high priority.
--   **[Suspend and resume an HR case](../task/t_SuspendAndResumeAnHRCase.md)**  
+-   **[Suspend and resume an HR case](t_SuspendAndResumeAnHRCase.md)**  
 If you are unable to close the HR case within the duration specified in the service level agreement \(SLA\), you can suspend the case.
--   **[Add special handling notes for an HR Service Delivery case](../task/hr-add-special-handling-notes.md)**  
+-   **[Add special handling notes for an HR Service Delivery case](hr-add-special-handling-notes.md)**  
 Create special handling notes that appear for a specific HR case or set of conditions.
 -   **[HR cases for VIPs](c_HRCasesForVIPs.md)**  
 Your organization can assign VIP status to users, such as the CEO and vice-presidents, to ensure that the resolution of their tasks is given high priority.
 -   **[Creating bulk cases](bulk-case.md)**  
 You can create the same type of HR case, for multiple employees, without having to create the same case multiple times. Segments for a bulk case help you define specific values for groups of employees.
 
-**Parent Topic:**[Case and Knowledge Management](../reference/case-knowledge-management-landing-page.md)
+**Parent Topic:**[Case and Knowledge Management](case-knowledge-management-landing-page.md)
 

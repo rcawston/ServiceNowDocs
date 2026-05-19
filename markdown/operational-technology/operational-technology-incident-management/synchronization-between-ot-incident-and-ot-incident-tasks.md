@@ -22,5 +22,5 @@ The synchronization between an OT incident and its open OT incident task is as f
 -   When an OT incident is closed, the state of any open OT incident task is set to **Closed Incomplete**.
 -   When an OT incident is canceled, the state of any open OT incident task is set to **Closed Skipped**.
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

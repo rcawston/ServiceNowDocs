@@ -50,11 +50,11 @@ Use the following sections to learn more on how to make the most out of Board vi
 
 -   **[List, Gantt, and Kanban views in CWM](cwm-board-views.md)**  
 Switch between List, Gantt, and Kanban views to manage and visualize work on a CWM Board in the way that best fits your team's workflow.
--   **[Create a custom view for CWM Boards](../task/create-a-custom-view-for-cwm-boards.md)**  
+-   **[Create a custom view for CWM Boards](create-a-custom-view-for-cwm-boards.md)**  
 Modify Board display preferences and save them as custom personal or shared views that suit the working preferences for you and your team members in Collaborative Work Management \(CWM\).
--   **[Update a CWM Board view](../task/update-a-cwm-board-view.md)**  
+-   **[Update a CWM Board view](update-a-cwm-board-view.md)**  
 Modify the display preferences of your Collaborative Work Management \(CWM\)Boards and update the existing personal or shared views.
--   **[Delete a custom CWM Board view](../task/remove-a-new-view.md)**  
+-   **[Delete a custom CWM Board view](remove-a-new-view.md)**  
 Delete the custom personal or shared views for your CWM Boards and keep your Board views current for your workflow.
 
 **Parent Topic:**[Managing work using Boards in CWM](cwm-boards.md)

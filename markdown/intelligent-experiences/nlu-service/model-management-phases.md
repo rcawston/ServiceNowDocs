@@ -21,9 +21,9 @@ The phases available for your model depend on the model's application. The syste
 
 To use the model management phases, ensure you have all the necessary NLU plugins. For more information, see the following resources:
 
--   [Activate the NLU Workbench](../task/activate-nlu-workbench.md)
--   [Install NLU Workbench - Advanced Features](../task/install-nlu-workbench-adv-features.md)
--   [Install Intent Discovery](../task/install-intent-discovery.md)
+-   [Activate the NLU Workbench](activate-nlu-workbench.md)
+-   [Install NLU Workbench - Advanced Features](install-nlu-workbench-adv-features.md)
+-   [Install Intent Discovery](install-intent-discovery.md)
 
 **Note:** NLU Workbench - Advanced Features and Intent Discovery are available from the ServiceNow Store. NLU model testing and performance monitoring require NLU Workbench - Advanced Features.
 
@@ -58,7 +58,7 @@ Build the model by adding and managing content:
 
 To learn more, see [Build and train your model](managing-model-content.md).
 
-Train your model using utterances that the model is likely to encounter from your users. To learn more, see [Train and try your NLU model](../task/test-train-nlu-model.md).
+Train your model using utterances that the model is likely to encounter from your users. To learn more, see [Train and try your NLU model](test-train-nlu-model.md).
 
 ## Test and publish your model
 
@@ -68,7 +68,7 @@ Test your model to gauge the performance and identify areas for improvement.
 
 For more information on testing and thresholds, see [Test and publish your model](testing-your-model.md).
 
-When you're satisfied with the results of testing, publish your model to make it available for use by other applications. For more information, see [Publish your NLU model](../task/publish-nlu-model.md).
+When you're satisfied with the results of testing, publish your model to make it available for use by other applications. For more information, see [Publish your NLU model](publish-nlu-model.md).
 
 ## Tune your model
 

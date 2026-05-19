@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The Orchestration - Client Software Distribution plugin activates the [Orchestration - System Center Configuration Manager](t_ActivateSysCentrConfigMgrActiv.md) plugin that contains the custom SCCM activities used to deploy or revoke software using an SCCM server. For additional plugin dependencies, see [Plugins installed with client software distribution](../reference/r_IWClientSWDist.md#).
+The Orchestration - Client Software Distribution plugin activates the [Orchestration - System Center Configuration Manager](t_ActivateSysCentrConfigMgrActiv.md) plugin that contains the custom SCCM activities used to deploy or revoke software using an SCCM server. For additional plugin dependencies, see [Plugins installed with client software distribution](r_IWClientSWDist.md#).
 
 **Note:** The Orchestration - Client Software Distribution plugin runs in its own application scope.
 
@@ -75,5 +75,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Client Software Distribution](../concept/c_ClientSoftwareDistribution.md)
+**Parent Topic:**[Client Software Distribution](c_ClientSoftwareDistribution.md)
 

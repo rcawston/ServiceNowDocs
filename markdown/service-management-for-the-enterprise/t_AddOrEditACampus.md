@@ -68,7 +68,7 @@ Action
     |Location|Select from the location hierarchy.|
     |Gross area|The total floor space of a campus. Includes unusable space or excluded areas.|
     |Usable area|The total useable area of a campus. Excludes unusable space or excluded areas.|
-    |Assignable area|Indicates a space roll-up calculation. See [Space roll up calculations](../concept/c_SpaceRollupCalculations.md).|
+    |Assignable area|Indicates a space roll-up calculation. See [Space roll up calculations](c_SpaceRollupCalculations.md).|
     |Area unit|Select the unit used for defining the space size: square feet or square meters.|
     |Current occupancy|Displays the number of users currently associated with the space. The calculation is generated using business rules on the Associated User \[m2m\_fm\_user\_to\_space\] table.|
     |Max occupancy|Enter the maximum capacity of users for this space. This value is intended for reporting purposes.|
@@ -106,10 +106,10 @@ Action
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](r_Manually-builtMaps.md)
 
 **Related topics**  
 
 
-[Space roll up calculations](../concept/c_SpaceRollupCalculations.md)
+[Space roll up calculations](c_SpaceRollupCalculations.md)
 

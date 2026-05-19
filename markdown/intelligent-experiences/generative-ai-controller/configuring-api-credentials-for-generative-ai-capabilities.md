@@ -17,11 +17,11 @@ Configure the credentials and connections for your preferred generative AI servi
 
 You can use several different models and generative AI service providers to integrate into your custom flows, scripts, and topics.
 
--   [Amazon Bedrock](../task/configure-api-credentials-for-amazon-bedrock.md)
--   [Azure OpenAI](../task/configure-api-credentials-for-azure-openai.md)
--   [Google - AI Studio](../task/configure-api-credentials-for-google-makersuite.md)
--   [Google - Vertex AI](../task/configure-api-credentials-for-google-vertex-ai.md)
--   [IBM watsonx](../task/configure-api-credentials-for-ibm-watsonx.md)
--   [OpenAI](../task/configure-api-credentials-for-openai.md)
--   [Generic third-party LLM](../task/configure-api-credentials-for-a-generic-large-language-model-llm.md)
+-   [Amazon Bedrock](configure-api-credentials-for-amazon-bedrock.md)
+-   [Azure OpenAI](configure-api-credentials-for-azure-openai.md)
+-   [Google - AI Studio](configure-api-credentials-for-google-makersuite.md)
+-   [Google - Vertex AI](configure-api-credentials-for-google-vertex-ai.md)
+-   [IBM watsonx](configure-api-credentials-for-ibm-watsonx.md)
+-   [OpenAI](configure-api-credentials-for-openai.md)
+-   [Generic third-party LLM](configure-api-credentials-for-a-generic-large-language-model-llm.md)
 

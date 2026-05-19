@@ -36,7 +36,7 @@ Role required: sam\_admin or sam\_user
     -   IBM PVUs per core
     -   Region
 
-        **Note:** If the Region meta data is empty for any of your physical hosts, the **Default Region for IBM Devices** \(**sn\_samp\_ibm\_lic.default\_region**\) Software Asset Management property automatically associates those hosts with a default region. By default, this system property is set to **North America and South America**. However, you can also set this system property to **Europe and Africa** or **Asia and Australia**. License usage can be calculated only for physical hosts that are associated with a region. See [Software Asset Management properties](../reference/sam-properties.md) for more information on this property.
+        **Note:** If the Region meta data is empty for any of your physical hosts, the **Default Region for IBM Devices** \(**sn\_samp\_ibm\_lic.default\_region**\) Software Asset Management property automatically associates those hosts with a default region. By default, this system property is set to **North America and South America**. However, you can also set this system property to **Europe and Africa** or **Asia and Australia**. License usage can be calculated only for physical hosts that are associated with a region. See [Software Asset Management properties](sam-properties.md) for more information on this property.
 
     -   Usage type
     **Note:** You cannot update the Device, PVU Comment, and IBM PVU mapping meta data.
@@ -48,5 +48,5 @@ Role required: sam\_admin or sam\_user
         The meta data field updates with the correct value.
 
 
-**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](../concept/ibm-asp-integration.md)
+**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](ibm-asp-integration.md)
 

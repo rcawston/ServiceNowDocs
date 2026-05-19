@@ -29,7 +29,7 @@ The ServiceNow®synthetic monitoring application empowers organizations to proac
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about synthetic monitoring](../reference/synthetic-monitoring-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about synthetic monitoring](synthetic-monitoring-reference.md)
 
 </td></tr></tbody>
 </table>

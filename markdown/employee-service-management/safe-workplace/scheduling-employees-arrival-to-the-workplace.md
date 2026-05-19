@@ -23,11 +23,11 @@ By setting arrival intervals for your workplace, you can facilitate employee act
 
 **Important:** Starting with Workplace Core version 2.3, time zones are introduced in the application. All the arrival schedules that were created on Workplace Core version 2.2 and earlier are deactivated after the upgrade.
 
--   **[Define arrival schedules at the workplace for employees](../task/schedule-arrival-intervals-at-the-workplace-for-employees.md)**  
+-   **[Define arrival schedules at the workplace for employees](schedule-arrival-intervals-at-the-workplace-for-employees.md)**  
 Define arrival slot times in Workplace Core for different locations at your workplace and indicate the capacity for each slot. Establishing arrival schedules enables safe staggered entry of employees to these locations.
--   **[Schedule your arrival time at a workplace location](../task/schedule-your-arrival-time-to-the-workplace.md)**  
+-   **[Schedule your arrival time at a workplace location](schedule-your-arrival-time-to-the-workplace.md)**  
 Schedule your arrival in Workplace Core at locations at your workplace so you can prevent long lines and safely enter the location.
--   **[Updating arrival schedules at the workplace](../task/update-arrival-entry-at-workplace-hr.md)**  
+-   **[Updating arrival schedules at the workplace](update-arrival-entry-at-workplace-hr.md)**  
 Define building time zones, change the capacity of an arrival schedule, and set the schedule to active or inactive.
 
 **Parent Topic:**[Workplace Core](workplace-safety-mgmt-hr.md)

@@ -37,5 +37,5 @@ Add style definitions for any custom frame UI macro you create.
 -   **[Create a frame UI macro](t_CreateANewFrameUIMacro.md)**  
 Copy an existing frame UI macro to display content in a custom frame.
 
-**Parent Topic:**[Style in Content Management](../concept/c_StyleInContentManagement.md)
+**Parent Topic:**[Style in Content Management](c_StyleInContentManagement.md)
 

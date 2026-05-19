@@ -60,5 +60,5 @@ Configuring AI Data Explorer and Query Generation skills enables you to use a co
 
 [Generate insights for Enterprise Architecture Workspace dashboard widgets](generate-insights-ea-dashboard.md)
 
-[Explore the Enterprise Architecture Workspace dashboard](../../../use/dashboards/concept/eaw-workspace-dashboard.md)
+[Explore the Enterprise Architecture Workspace dashboard](eaw-workspace-dashboard.md)
 

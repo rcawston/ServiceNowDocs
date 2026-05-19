@@ -17,7 +17,7 @@ The **Create Event** activity adds an event to the event queue, but does not imm
 
 The event processor typically processes the event within one minute. This activity triggers any business rules or email notifications that would normally be triggered by the event.
 
-For more information about creating and using system events, see [System Events](../../platform-events/concept/events.md).
+For more information about creating and using system events, see [System Events](../system-events/events.md).
 
 ## Results
 
@@ -62,5 +62,5 @@ The second event parameter.
  **Note:** If this parameter is a string value, it must be within quotes \(" "\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow notification activities](../concept/c_NotificationActivities.md)
+</table>**Parent Topic:**[Workflow notification activities](c_NotificationActivities.md)
 

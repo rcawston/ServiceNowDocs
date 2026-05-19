@@ -32,7 +32,7 @@ You can’t add workplace services to a reservation in kiosk. Recurring, neighbo
 
 Role required: sn\_wsd\_kiosk.viewer, sn\_wsd.core\_workplace\_user
 
-**Note:** The sn\_wsd.core\_workplace\_user \(workplace user\) role is part of the kiosk viewer role. Employees can log in with the sn\_wsd.core\_workplace\_user role to view, search for spaces on a floor map and make a reservation. For more information, see [Components installed with Workplace Services Kiosk](../reference/components-workplace-services-kiosk.md).
+**Note:** The sn\_wsd.core\_workplace\_user \(workplace user\) role is part of the kiosk viewer role. Employees can log in with the sn\_wsd.core\_workplace\_user role to view, search for spaces on a floor map and make a reservation. For more information, see [Components installed with Workplace Services Kiosk](components-workplace-services-kiosk.md).
 
 Role: sn\_wsd\_kiosk.viewer.
 
@@ -161,7 +161,7 @@ Reservation subject
 Option to provide the Reservation subject details. For example, Reservation for AI workflows. If the **Require Subject** check box is selected in the **Reservation Widget Configuration** tab, you’re required to enter the Reservation Subject label while submitting the reservation. For more information, see [Configure Reservable Module for kiosk reservation](config-rsv-module-kiosk.md)
 
 </td></tr></tbody>
-</table>    When All day **Reservable Module** setting is set to **Default** on the Reservable module configuration, you see the actual time when you’re making a reservation. For example, if you’re making the reservation at 11.24 am, reservation start time shows **11.24**. Start and end time for a reservation are based on the building time zone and reservation properties for setting office hours. For more information, see [Properties installed with Workplace Reservation Management](../../wsd-reservation-management/reference/properties-installed-with-wsd-reservation-mgmt.md).
+</table>    When All day **Reservable Module** setting is set to **Default** on the Reservable module configuration, you see the actual time when you’re making a reservation. For example, if you’re making the reservation at 11.24 am, reservation start time shows **11.24**. Start and end time for a reservation are based on the building time zone and reservation properties for setting office hours. For more information, see [Properties installed with Workplace Reservation Management](../workplace-reservation-management/properties-installed-with-wsd-reservation-mgmt.md).
 
     ![All day check box is selected and shows office hours as 9 am to 5 pm.](../images/kiosk-all-day-default-settings-map-view.png)
 
@@ -182,5 +182,5 @@ Option to provide the Reservation subject details. For example, Reservation for 
     **Note:** After your reservation is confirmed in the kiosk, email notifications aren’t sent to workplace users.
 
 
-**Parent Topic:**[Using Workplace Services Kiosk](../concept/use-workplace-services-kiosk.md)
+**Parent Topic:**[Using Workplace Services Kiosk](use-workplace-services-kiosk.md)
 

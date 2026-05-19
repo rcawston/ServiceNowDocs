@@ -130,5 +130,5 @@ An application in the Talent Development suite for which you want to configure m
 The sequential order in which your employee engagement metric appears in the Growth engagement widget.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Leader Hub reference](../concept/td-lh-reference.md)
+</table>**Parent Topic:**[Leader Hub reference](td-lh-reference.md)
 

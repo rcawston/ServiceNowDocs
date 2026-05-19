@@ -19,7 +19,7 @@ Specify if a space type is usable or not by using the Space type configuration f
 
 Ensure that you have the following:
 
--   The space type is configured in the application. Otherwise, refer to [Add a space type configuration](../../workplace-service-delivery/task/add-space-type-configuration-wsd.md).
+-   The space type is configured in the application. Otherwise, refer to [Add a space type configuration](../workplace-core/add-space-type-configuration-wsd.md).
 -   Workplace Space Management is installed.
 
 Role required: sn\_wsd\_spcmgmt.manager

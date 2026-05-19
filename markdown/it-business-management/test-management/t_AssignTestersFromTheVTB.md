@@ -40,5 +40,5 @@ Role required: tm\_test\_manager or tm\_tester
 7.  Close the card by clicking the close icon \(![Close icon.](../image/close-icon.png)\).
 
 
-**Parent Topic:**[Assigning testers to test cases](../concept/assigning-testers-to-test-cases.md)
+**Parent Topic:**[Assigning testers to test cases](assigning-testers-to-test-cases.md)
 

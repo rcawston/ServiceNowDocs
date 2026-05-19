@@ -20,9 +20,9 @@ Configure the Advanced Work Assignment application to transfer a WhatsApp chat c
 Your administrator must have completed the following tasks:
 
 -   [Install Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](messg-direct-whatsapp-install.md).
--   [Activate Advanced Work Assignment](../../advanced-work-assignment/task/awa-activate.md).
+-   [Activate Advanced Work Assignment](../advanced-work-assignment/awa-activate.md).
 -   Set the application scope to Conversational Integration with WhatsApp \(WhatsApp Cloud API\) using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
--   Activate the Conversational Messaging plugin \(com.glide.messaging.awa\). For more information, see [Activate Conversational Messaging](activate-messaging-actions.md).
+-   Activate the Conversational Messaging plugin \(com.glide.messaging.awa\). For more information, see [Activate Conversational Messaging](../advanced-work-assignment/activate-messaging-actions.md).
 
 Role required: admin
 
@@ -42,7 +42,7 @@ Role required: admin
 
     5.  Select **Update**.
 
-    For more information, see [Service channels](../../advanced-work-assignment/concept/awa-service-channels.md).
+    For more information, see [Service channels](../advanced-work-assignment/awa-service-channels.md).
 
 2.  Automatically route work items for WhatsApp chat conversations to agents by configuring the queue for the WhatsApp service channel.
 
@@ -56,7 +56,7 @@ Role required: admin
 
     5.  Select **Update**.
 
-    **Note:** By default, the **WhatsApp - Most Capacity** assignment rule is associated with the Agent WhatsApp Queue. You can create another assignment rule and associate it with the queue. For more information, see [Configure agent assignment rules](../../advanced-work-assignment/task/awa-create-assignment-rule.md) and [Work item queues](../../advanced-work-assignment/reference/awa-queues.md).
+    **Note:** By default, the **WhatsApp - Most Capacity** assignment rule is associated with the Agent WhatsApp Queue. You can create another assignment rule and associate it with the queue. For more information, see [Configure agent assignment rules](../advanced-work-assignment/awa-create-assignment-rule.md) and [Work item queues](../advanced-work-assignment/awa-queues.md).
 
 3.  Configure agent presence states for the WhatsApp service channel.
 
@@ -70,8 +70,8 @@ Role required: admin
 
     4.  Select **Update**.
 
-    For more information, see [Configure agent presence states](../../advanced-work-assignment/task/awa-configure-agent-presence.md).
+    For more information, see [Configure agent presence states](../advanced-work-assignment/awa-configure-agent-presence.md).
 
 
-**Parent Topic:**[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](../concept/messg-direct-whatsapp-using.md)
+**Parent Topic:**[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](messg-direct-whatsapp-using.md)
 

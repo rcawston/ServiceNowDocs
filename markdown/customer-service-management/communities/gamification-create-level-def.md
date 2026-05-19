@@ -36,5 +36,5 @@ Gamification includes predefined global, forum, and topic levels.
     Adding new level definitions is not recommended unless there is a strong use case. If you need to add or modify level ranges in existing level definitions, see [Manage gamification level ranges](gamification-create-level-range.md).
 
 
-**Parent Topic:**[Administer gamification](../concept/communities-gamification-administer.md)
+**Parent Topic:**[Administer gamification](communities-gamification-administer.md)
 

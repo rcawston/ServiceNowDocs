@@ -61,7 +61,7 @@ You can prevent a user from accessing HR information by impersonating a user tha
     **Note:** This property was introduced for the HR Service Delivery scoped application and not applicable to the HR Services Delivery Non-scoped application.
 
 
-See [Add field security in HR](../task/FieldSecurity.md).
+See [Add field security in HR](FieldSecurity.md).
 
 See [Restricted caller access for HR](hr-security.md#).
 

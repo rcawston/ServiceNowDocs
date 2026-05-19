@@ -17,7 +17,7 @@ This dashboard uses Workbench widgets and other advanced Platform Analytics feat
 
 **Important:**
 
-Starting in Xanadu release, the Change premium dashboard is deprecated. Users can use [Change dashboard](performance-analytics/change.md) to view the information about the Change process in one place.
+Starting in Xanadu release, the Change premium dashboard is deprecated. Users can use [Change dashboard](../change.md) to view the information about the Change process in one place.
 
 ![Animated tour of the tabs of the Change Premium dashboard](../image/change-mgmt-premium.gif)
 

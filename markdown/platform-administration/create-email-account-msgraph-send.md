@@ -101,5 +101,5 @@ Option to create node logs for the raw data that is exchanged with the email ser
 5.  Select the test connection link at the bottom to test the account.
 
 
-**Parent Topic:**[Sending email using Microsoft Graph](../concept/send-email-using-ms-graph.md)
+**Parent Topic:**[Sending email using Microsoft Graph](send-email-using-ms-graph.md)
 

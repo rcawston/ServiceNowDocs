@@ -28,7 +28,7 @@ If the **Choose** or **New** button is inactive after you make a single selectio
 
 To change a single-reference record, first remove the existing reference by selecting the delete row icon \(![Delete row icon.](../image/mab-button-delete-row.png)\), then either choose or create a new reference.
 
-For more information about working with these options, see [Create reference record entries in record screen tables](../task/mab-record-screen-table-add-edit.md) and [Edit record reference entries in record screen tables](../task/mab-record-screen-table-edit.md).
+For more information about working with these options, see [Create reference record entries in record screen tables](mab-record-screen-table-add-edit.md) and [Edit record reference entries in record screen tables](mab-record-screen-table-edit.md).
 
 ## UI elements in a table reference record
 
@@ -44,7 +44,7 @@ The Mobile App Builder table reference records contain the following UI elements
 **Related topics**  
 
 
-[Create reference record entries in record screen tables](../task/mab-record-screen-table-add-edit.md)
+[Create reference record entries in record screen tables](mab-record-screen-table-add-edit.md)
 
-[Edit record reference entries in record screen tables](../task/mab-record-screen-table-edit.md)
+[Edit record reference entries in record screen tables](mab-record-screen-table-edit.md)
 

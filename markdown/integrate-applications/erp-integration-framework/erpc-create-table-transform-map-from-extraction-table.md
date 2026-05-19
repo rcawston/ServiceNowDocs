@@ -42,7 +42,7 @@ Confirm that you have an extraction table associated with a model containing out
 
 6.  Create the mappings by selecting an output in the **Available model outputs** column and then selecting a column in **Available columns**.
 
-    As you work, the mappings are saved in the **Field Mapping** section to create the import map staging table and the transform map. For general information, see [Import sets key concepts](../../../administer/import-sets/concept/c_ImportSetsKeyConcepts.md) and [Create a transform map](../../../script/server-scripting/task/t_CreateATransformMap.md).
+    As you work, the mappings are saved in the **Field Mapping** section to create the import map staging table and the transform map. For general information, see [Import sets key concepts](../system-import-sets/c_ImportSetsKeyConcepts.md) and [Create a transform map](../system-import-sets/t_CreateATransformMap.md).
 
     ![Generate mapping overlay with output fields and field mapping sections highlighted.](../image/erpc-transform-map-extraction-table2.png)
 
@@ -50,7 +50,7 @@ Confirm that you have an extraction table associated with a model containing out
 
 7.  In the **Field Mapping** section, select the **Coalesce** option for each mapping.
 
-    For more information, see [Updating records using coalesce](../../../administer/import-sets/concept/c_ImportSetCoalesce.md).
+    For more information, see [Updating records using coalesce](../system-import-sets/c_ImportSetCoalesce.md).
 
 8.  Select **Save**.
 
@@ -67,5 +67,5 @@ Confirm that you have an extraction table associated with a model containing out
 11. To view the transform map at any time, select the link in **Table transform map link**.
 
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](erp-canvas-extraction-tables.md)
 

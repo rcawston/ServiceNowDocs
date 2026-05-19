@@ -17,7 +17,7 @@ The CatalogJS API provides methods to check and retrieve catalog-specific proper
 
 To use this class in a scoped application, use the `sn_sc` namespace identifier. The Service Catalog Scoped API plugin \(com.glideapp.servicecatalog.scoped.api\) that is enabled by default is required to access the CatalogJS API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CatalogJS - Catalog\(GlideRecord now\_GR\)
 

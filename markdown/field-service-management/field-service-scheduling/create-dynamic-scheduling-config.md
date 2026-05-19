@@ -17,9 +17,9 @@ Dynamic Scheduling enables automatic task assignment to field agents based on pr
 
 ## Before you begin
 
--   Select dynamic scheduling as the preferred task assignment method. This verifies that tasks are automatically assigned to field agents based on predefined criteria and rules. For more information, see [task assignment method](../../planning-and-policy/task/t_ConfigureFieldService.md#AssignmentOptions).
--   Set up agent schedules so that dynamic scheduling systematically verifies optimal task allocation. For more information, see [Set up agent schedules for dynamic scheduling](../concept/agent-schedule-dynamic.md).
--   Review the properties and other installed components related to dynamic scheduling. Customize the settings to align with your organization's specific requirements. For more information, see [Review system properties and components for Dynamic Scheduling](../reference/dynamic-sched-system-properties.md).
+-   Select dynamic scheduling as the preferred task assignment method. This verifies that tasks are automatically assigned to field agents based on predefined criteria and rules. For more information, see [task assignment method](../t_ConfigureFieldService.md#AssignmentOptions).
+-   Set up agent schedules so that dynamic scheduling systematically verifies optimal task allocation. For more information, see [Set up agent schedules for dynamic scheduling](agent-schedule-dynamic.md).
+-   Review the properties and other installed components related to dynamic scheduling. Customize the settings to align with your organization's specific requirements. For more information, see [Review system properties and components for Dynamic Scheduling](dynamic-sched-system-properties.md).
 -   Verify to configure travel time and distance calculation to determine how the system calculates an agent's estimated travel time and distance to a task location. You can choose between using the Google Maps API for real-time travel estimates or straight-line estimates based on the geolocation property settings.
     -   If the `Use Google Maps API for travel time estimates` geolocation property is enabled, choose between using the Google Maps API or straight-line estimates.
     -   If the `Use Google Maps API for travel time estimates` geolocation property is turned off, the system considers the Estimated Travel Duration field's value from the work order task.
@@ -36,7 +36,7 @@ By default, the `Dynamic Scheduling Config for Work Order` configuration is avai
 
 2.  Update an existing work configuration or create one.
 
-    This field only appears if you have the plugin installed. For more information, see [Configuring Field Service Work Configurations](../concept/configuring-work-configs.md).
+    This field only appears if you have the plugin installed. For more information, see [Configuring Field Service Work Configurations](../work-order-management/configuring-work-configs.md).
 
 3.  Select the task table that dynamic scheduling uses to assign tasks to agents.
 
@@ -84,7 +84,7 @@ Dynamic scheduling automatically assigns tasks to field agents based on the defi
 
 [Example - configure dynamic scheduling to ignore excluded technicians](prevent-excluded-agents.md)
 
-[Assigning work order tasks to agents using dynamic scheduling](../concept/using-dynamic-scheduling.md)
+[Assigning work order tasks to agents using dynamic scheduling](using-dynamic-scheduling.md)
 
 ## Create a task filter for dynamic scheduling
 
@@ -454,7 +454,7 @@ Matching Mandatory Skills For Dynamic Scheduling
 
 </td><td>
 
-Ranks agents based on the availability of mandatory skills and optional skills defined in Task Skills that are required for the task. The more skills that match, the higher the contribution to the agent's overall rank.**Note:** If using the mandatory skills feature, use the **Matching Skills - Mandatory Skills Support** criterion to match agents with the [mandatory skills](../../customer-service-management/concept/configure-mandatory-skills-feature.md) identified for a case.
+Ranks agents based on the availability of mandatory skills and optional skills defined in Task Skills that are required for the task. The more skills that match, the higher the contribution to the agent's overall rank.**Note:** If using the mandatory skills feature, use the **Matching Skills - Mandatory Skills Support** criterion to match agents with the [mandatory skills](../workforce-optimization-for-field-service/configure-mandatory-skills-feature.md) identified for a case.
 
 </td><td>
 

@@ -41,5 +41,5 @@ The CCG Content Pack provides the base system contents such as policies, resourc
 4.  Select **Install**.
 
 
-**Parent Topic:**[Exploring Cloud Configuration Governance](../concept/exploring-cloud-configuration-governance.md)
+**Parent Topic:**[Exploring Cloud Configuration Governance](exploring-cloud-configuration-governance.md)
 

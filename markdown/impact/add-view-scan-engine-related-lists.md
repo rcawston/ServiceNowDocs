@@ -135,5 +135,5 @@ The OAuth user profile used for cross-instance integrations.
 
 </td></tr></tbody>
 </table>
-**Note:** See [Scan Engine integrations](../concept/instance-integration-scan-engine.md) for details on integration setup.
+**Note:** See [Scan Engine integrations](instance-integration-scan-engine.md) for details on integration setup.
 

@@ -54,5 +54,5 @@ One and only one default mapping`[sam_ibm_pvu_mapping]`
 Ensures only one default mapping by resetting the last resort flag for modified records and setting it to false for new records.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+</table>**Parent Topic:**[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
 

@@ -57,5 +57,5 @@ For detailed information about adding a playbook to Mobile App Bridge so that yo
 -   **[Create a Now Experience Framework page in UI Builder](mob-playbk-create-playbk-pg.md)**  
 To configure mobile web screens that use Mobile App Bridge to leverage a playbook on mobile devices, the first step is to create a Now Experience Framework page in UI Builder.
 
-**Parent Topic:**[Mobile App Bridge](../concept/mobile-playbooks.md)
+**Parent Topic:**[Mobile App Bridge](mobile-playbooks.md)
 

@@ -27,11 +27,11 @@ Preconfigured example work orders are included with the Field Service Management
 
 Optionally, set up one or more work order configurations.
 
--   [Configuring work order templates](../../it-services/concept/c_WorkOrderTemplates.md)
+-   [Configuring work order templates](c_WorkOrderTemplates.md)
 
     Use templates to populate fields on a work order. For example, if you regularly add certain skills or parts to work orders, you can use templates to add those fields faster.
 
--   [Configure the qualification state for work orders](../task/configure-qualify-fsm.md)
+-   [Configure the qualification state for work orders](configure-qualify-fsm.md)
 
     Allow for a quality check to make sure that the work order meets a certain standard before it moves to the next step.
 

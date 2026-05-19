@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the WhoLockedFile component. For more information about these properties, see [Properties of the System Process components](../reference/util-sysprocess-prop.md).
+You can configure the properties for the WhoLockedFile component. For more information about these properties, see [Properties of the System Process components](util-sysprocess-prop.md).
 
 ## Procedure
 
@@ -41,5 +41,5 @@ You can configure the properties for the WhoLockedFile component. For more infor
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[System process](../concept/system-process-utilities.md)
+**Parent Topic:**[System process](system-process-utilities.md)
 

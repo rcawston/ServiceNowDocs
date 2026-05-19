@@ -63,5 +63,5 @@ The Secureworks CTP spoke provides actions to automate Secureworks CTP tasks whe
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-For information about setting up the spoke, see [Set up the Secureworks CTP spoke](../task/setup-secureworks-ctp.md#).
+For information about setting up the spoke, see [Set up the Secureworks CTP spoke](setup-secureworks-ctp.md#).
 

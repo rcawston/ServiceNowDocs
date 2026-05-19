@@ -38,5 +38,5 @@ You can identify whether a software model or software model result is created au
 **Related topics**  
 
 
-[Software Asset Management properties](../reference/sam-properties.md)
+[Software Asset Management properties](sam-properties.md)
 

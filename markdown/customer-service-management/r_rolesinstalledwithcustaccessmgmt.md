@@ -481,5 +481,5 @@ None
 </table>**Related topics**  
 
 
-[Assign granular roles to a functional role](../task/assign-granular-to-func-role-cam.md)
+[Assign granular roles to a functional role](assign-granular-to-func-role-cam.md)
 

@@ -126,7 +126,7 @@ Opportunity Type \[sn\_opp\_market\_opportunity\_type\]
 
 </td><td>
 
-Tracks details about opportunities \(Gig, Project, Volunteer\), such as -   **Title**: The type of opportunity. The standard opportunities provided with OPM are Gig, Project, and Volunteer. You can create your own opportunity types, see [Create opportunities in Opportunity Marketplace](../task/egd-create-other-opportunities.md).
+Tracks details about opportunities \(Gig, Project, Volunteer\), such as -   **Title**: The type of opportunity. The standard opportunities provided with OPM are Gig, Project, and Volunteer. You can create your own opportunity types, see [Create opportunities in Opportunity Marketplace](egd-create-other-opportunities.md).
 -   **Description**
 -   **Role display**
 -   **Icon**
@@ -449,5 +449,5 @@ Recruiter
 Recruitment coordinator
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference Opportunity Marketplace roles and tables](../concept/egd-oppt-mrktplc-references.md)
+</table>**Parent Topic:**[Reference Opportunity Marketplace roles and tables](egd-oppt-mrktplc-references.md)
 

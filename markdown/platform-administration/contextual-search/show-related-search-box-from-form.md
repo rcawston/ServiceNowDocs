@@ -36,5 +36,5 @@ Starting in the London release, the related search box is available in forms by 
 4.  Select and hold \(or right-click\) the header form and select **Save**.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

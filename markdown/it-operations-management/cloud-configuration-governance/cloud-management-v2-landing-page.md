@@ -64,9 +64,9 @@ Explore
 
 Set up
 
- -   [Day 1 setup guide for Amazon Web Services on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-aws-setup-day-1.md)
--   [Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-azure-setup-guide.md)
--   [Day 1 setup guide for VMware on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-vmware-setup-guide.md)
+ -   [Day 1 setup guide for Amazon Web Services on Cloud Provisioning and Governance](cloud-mgt-aws-setup-day-1.md)
+-   [Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning and Governance](cloud-mgt-azure-setup-guide.md)
+-   [Day 1 setup guide for VMware on Cloud Provisioning and Governance](cloud-mgt-vmware-setup-guide.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Administer
 Use
 
  -   [Cloud Admin Portal](cloud-admin-portal.md)
--   [Cloud User Portal](../../cloud-management-v2-user/concept/cloudmgt-cloud-user-portal.md)
+-   [Cloud User Portal](cloudmgt-cloud-user-portal.md)
 
 </td><td>
 

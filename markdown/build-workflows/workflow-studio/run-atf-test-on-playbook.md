@@ -44,5 +44,5 @@ If you get the error "The test timed out because the max execution time \(600 se
     For more information, see [Run an automated test](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-run-test.md).
 
 
-**Parent Topic:**[Testing support for playbooks](../concept/testing-support-playbooks.md)
+**Parent Topic:**[Testing support for playbooks](testing-support-playbooks.md)
 

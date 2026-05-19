@@ -51,5 +51,5 @@ Role required: admin
 
 Users can select the ![Plus icon](../image/more-items.png) icon on the applet launcher page to open the quick action.
 
-**Parent Topic:**[Configuring Now Mobile](../concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](setup-mobile-employee.md)
 

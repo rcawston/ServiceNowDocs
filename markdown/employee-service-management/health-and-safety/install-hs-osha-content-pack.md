@@ -29,7 +29,7 @@ The following items are installed with Health and Safety Incident Management OSH
 -   Tables
 -   System Properties
 
-For more information, see [Components installed with Health and Safety Incident Management OSHA Content Pack](../reference/components-installed-with-osha-content-pack.md) and [Health and Safety Incident Management OSHA Content Pack properties](../reference/properties-installed-osha-content-pack.md).
+For more information, see [Components installed with Health and Safety Incident Management OSHA Content Pack](components-installed-with-osha-content-pack.md) and [Health and Safety Incident Management OSHA Content Pack properties](properties-installed-osha-content-pack.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ For more information, see [Components installed with Health and Safety Incident 
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setting up the OSHA Content Pack](../concept/configuring-osha-forms.md)
+**Parent Topic:**[Setting up the OSHA Content Pack](configuring-osha-forms.md)
 

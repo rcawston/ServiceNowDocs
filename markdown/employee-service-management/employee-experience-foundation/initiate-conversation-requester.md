@@ -24,11 +24,11 @@ You must have the "write" role to use the **Start Microsoft Teams chat** and **I
 |Request|sn\_request\_write|ITSM Roles — Request Management \(com.snc.itsm.roles.request\_management\) plugin|
 |HR Case|sn\_hr\_core.case\_writer|Human Resources Scoped App — Employee Relations \[com.sn\_hr\_employee\_relations\] plugin|
 
--   **[Request-based chat - Start and import chat from field decorator](../task/initiate-chat-record-field-decorator.md)**  
+-   **[Request-based chat - Start and import chat from field decorator](initiate-chat-record-field-decorator.md)**  
 Interact with a requester in Microsoft Teams from the chat icon from the workspace to quickly resolve the ticket.
--   **[Request-based chat - Start and import chat from Start Microsoft Teams chat action](../task/initiate-chat-record.md)**  
+-   **[Request-based chat - Start and import chat from Start Microsoft Teams chat action](initiate-chat-record.md)**  
 Interact with a requester in Microsoft Teams for an issue related to an incident, request item, change request, and HR case records to quickly resolve the ticket.
--   **[Import messages from a ticket manually](../task/import-messages.md)**  
+-   **[Import messages from a ticket manually](import-messages.md)**  
 You can import the conversation with a user from Microsoft Teams and append them in the **Comments** to store all the important messages in the ServiceNow instance.
 
 **Parent Topic:**[Agent actions](agent-sn-ms-teams.md)

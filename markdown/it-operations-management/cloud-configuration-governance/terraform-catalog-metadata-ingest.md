@@ -30,7 +30,7 @@ To auto-populate form fields in the catalog creation form while using Terraform 
 -   Specify or define the key value pairs in the JSON file for variables that are defined in the Terraform template.
 -   Configure variables to auto-populate fields and data in the **Cloud User Portal** &gt; **Cloud Catalog** &gt; **New** &gt; **Provision** page.
 
-For more information on binding a parameter to a resource pool, see [Bind a parameter to a resource pool](../../cloud-management-v2/task/bind-param-snpool.md).
+For more information on binding a parameter to a resource pool, see [Bind a parameter to a resource pool](bind-param-snpool.md).
 
 ## Procedure
 
@@ -66,5 +66,5 @@ For more information on binding a parameter to a resource pool, see [Bind a para
     ![Auto-populated values on Provision tab](../image/catalog-item-fields-metadata.png "Example: Auto-populated values on the Provision section of the catalog creation form")
 
 
-**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](../../cloud-management-v2/concept/using-ccg-terraform-connector.md)
+**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](using-ccg-terraform-connector.md)
 

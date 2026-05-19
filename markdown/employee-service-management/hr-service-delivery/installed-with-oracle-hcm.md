@@ -58,7 +58,7 @@ Trigger Oracle HCM Integration flow
 
 </td><td>
 
-Pull data from Oracle HCM Cloud to a ServiceNow® instance. By default, the flow is in inactive state. For information on how to activate the flow, see [Activate schedule flows](../task/setup-the-job.md).
+Pull data from Oracle HCM Cloud to a ServiceNow® instance. By default, the flow is in inactive state. For information on how to activate the flow, see [Activate schedule flows](setup-the-job.md).
 
 </td></tr></tbody>
 </table>## Tables installed

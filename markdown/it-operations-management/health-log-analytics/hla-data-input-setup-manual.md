@@ -29,7 +29,7 @@ Set up your Health Log Analytics data inputs for Health Log Analytics manually. 
 -   Unless the MID Server and external clients are on the same network, the MID Server must have a public IP address. This is required when its IP is exposed through network address translation \(NAT\), a load balancer, or a similar device. The public IP address enables external clients, such as Filebeat agents located outside its network, to reach the MID Server. Private IP addresses are not routable over the internet. Without a public IP, external clients cannot connect to the MID Server even if they are configured with its address. In the MID Server properties, add a property named **mid.public\_ip** with the public IP address as the value. For more information, see [Create a MID Server property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md). If the MID Server and external clients are on the same network, connections can be made using the private IP address.
 -   For shipping your logs encrypted using SSL TLS, see the [Streaming Data With Rsyslog &amp; Filebeat Using SSL \[KB0866319\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0866319) article in the Now Support Knowledge Base.
 
--   For MID Server proxy requirements, see [MID Server proxy preconditions for streaming logs to Health Log Analytics](../reference/hla-mid-proxy-configure.md).
+-   For MID Server proxy requirements, see [MID Server proxy preconditions for streaming logs to Health Log Analytics](hla-mid-proxy-configure.md).
 
 Role required: evt\_mgmt\_admin. For the ServiceNow System Logs data input: admin.
 
@@ -51,7 +51,7 @@ Agent Client Collector
 
 </td><td>
 
-The data input streams log messages to your ServiceNow instance using the ServiceNow Agent Client Collector.This data input is supported for use with the [Agent Client Collector Log Analytics](../../agent-client-collector/concept/acc-log-analytics.md) application, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+The data input streams log messages to your ServiceNow instance using the ServiceNow Agent Client Collector.This data input is supported for use with the [Agent Client Collector Log Analytics](../agent-client-collector/acc-log-analytics.md) application, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ The data input streams log data from Apache Kafka to your ServiceNow instance.
 
 </td></tr><tr><td>
 
-[Cribl](../../hardware-asset-management/task/hla-data-input-cribl.md)
+[Cribl](hla-data-input-cribl.md)
 
 </td><td>
 
@@ -218,24 +218,24 @@ The data input enables Health Log Analytics to process log messages that are str
 
 6.  Perform additional data input setup tasks.
 
-    For more information, see [Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md).
+    For more information, see [Additional data input setup tasks in Health Log Analytics](hla-data-input-setup-extra.md).
 
 
--   **[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)**  
+-   **[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)**  
 Configure the data input process manually in Health Log Analytics. Data input configuration is an essential step in setting up the Health Log Analytics application.
 -   **[Identify and resolve a log streaming issue in Health Log Analytics](hla-data-input-streaming.md)**  
 Find and address log streaming issues to verify that your data inputs are streaming log data to your instance properly.
--   **[Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md)**  
+-   **[Additional data input setup tasks in Health Log Analytics](hla-data-input-setup-extra.md)**  
 After performing the initial data input setup and configuration in Health Log Analytics, continue with the remaining data input setup tasks.
--   **[Advanced data input configuration in Health Log Analytics](../concept/hla-data-input-adv-configuration.md)**  
+-   **[Advanced data input configuration in Health Log Analytics](hla-data-input-adv-configuration.md)**  
 When you have configured a data input successfully, Health Log Analytics adds a record to the Data Inputs table and attaches the configuration file to it. You can configure advanced settings for your data input. Configuring advanced settings is optional.
 -   **[Stop or restart a data input in Health Log Analytics](hla-data-input-stop-start.md)**  
 You can stop using a data input for streaming log messages to your ServiceNow instance. Restart the data input if you want it to resume streaming data.
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](../concept/hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)
 
 **Related topics**  
 
 
-[Supported data inputs for Health Log Analytics](../reference/hla-data-input-supported.md)
+[Supported data inputs for Health Log Analytics](hla-data-input-supported.md)
 

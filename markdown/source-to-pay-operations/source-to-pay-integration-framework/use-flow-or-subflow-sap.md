@@ -51,7 +51,7 @@ Use an Outbound flow or subflow in SAP
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Use schedule flows in SAP](../concept/using-schedule-flows-sap.md)
+**Parent Topic:**[Use schedule flows in SAP](using-schedule-flows-sap.md)
 
 **Related topics**  
 

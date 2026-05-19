@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Child Table form contains information about indexed source child tables defined for AI Search. Use this form when creating or modifying a child table of an indexed source.
 
-For details on creating or modifying an indexed source child table, see [Create an indexed source](../task/create-indexed-source-ais.md).
+For details on creating or modifying an indexed source child table, see [Create an indexed source](create-indexed-source-ais.md).
 
 |Field|Description|
 |-----|-----------|
@@ -24,5 +24,5 @@ For details on creating or modifying an indexed source child table, see [Create 
 |Active|Option to activate indexing for the child table.|
 |Application|Application scope for the child table indexing configuration. This field is automatically set.|
 
-**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+**Parent Topic:**[AI Search reference](reference-ais.md)
 

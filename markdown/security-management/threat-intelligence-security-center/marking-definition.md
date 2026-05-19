@@ -15,7 +15,7 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 The marking-definition object represents a specific marking. Data markings typically represent handling or sharing requirements for data.
 
--   **[Define Marking Definition](../task/define-market-definition.md)**  
+-   **[Define Marking Definition](define-market-definition.md)**  
 Define marking definitions to handle and share the requirements for the data.
 
 **Parent Topic:**[Threat Entities](tisc-threat-entities.md)

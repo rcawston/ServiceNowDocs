@@ -45,7 +45,7 @@ By default, the flows, subflows, and actions can only be called by the FlowAPI w
 
 ## Run as support
 
-Flows and subflows can run as either the system user or the user who initiates the session. Set this behavior from the [flow properties](../task/create-flow.md). All API quick methods ignore the run as property, and always run as the system user.
+Flows and subflows can run as either the system user or the user who initiates the session. Set this behavior from the [flow properties](create-flow.md). All API quick methods ignore the run as property, and always run as the system user.
 
 Actions always run as the user who initiates the session.
 

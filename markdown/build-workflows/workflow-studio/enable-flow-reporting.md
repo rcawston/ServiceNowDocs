@@ -15,7 +15,7 @@ breadcrumb: [Flow administration, Configure flows, Flows, subflows, and actions,
 
 Choose whether to generate execution details for all flows and actions run, just for individual flows and actions, or just when you test a flow or action. Specify the level of detail the execution details contain.
 
-**Parent Topic:**[Flow administration](../concept/flow-administration.md)
+**Parent Topic:**[Flow administration](flow-administration.md)
 
 ## Activate reporting for an individual flow, subflow, or action
 

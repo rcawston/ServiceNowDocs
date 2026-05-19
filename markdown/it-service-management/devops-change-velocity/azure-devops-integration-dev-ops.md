@@ -33,7 +33,7 @@ Jenkins also supports testing capabilities with JUnit. [Test tool integration](d
 
 You can use the **ServiceNow DevOps** extension for Azure DevOps on [Visual Studio Marketplace](https://marketplace.visualstudio.com/) to integrate your Azure pipeline with DevOps Change Velocity.
 
-The [**ServiceNow DevOps** extension](../task/config-dev-ops-extensions-azure.md#) includes:
+The [**ServiceNow DevOps** extension](config-dev-ops-extensions-azure.md#) includes:
 
 -   ServiceNow DevOps service connection
 -   ServiceNow DevOps Release Gate
@@ -65,9 +65,9 @@ Use one of the following options to onboard Azure DevOps. For a guided experienc
 
 -   **[Onboard Azure DevOps to DevOps Change Velocity — Workspace](devops-wkspc-azuredevops-tool-conn.md#)**  
 Connect to your Azure DevOps instance using the DevOps Change Workspace playbook to collect data for planning, coding, orchestration, artifact, and software quality functions.
--   **[Onboard Azure DevOps to DevOps Change Velocity — Service Catalog](../task/onboard-azure-devops-service-catalog.md)**  
+-   **[Onboard Azure DevOps to DevOps Change Velocity — Service Catalog](onboard-azure-devops-service-catalog.md)**  
 Create, connect, discover, and configure your Azure DevOps instance using the ServiceNow Service Catalog.
--   **[Onboard Azure DevOps to DevOps Change Velocity — Classic](../task/create-azure-tool-dev-ops.md)**  
+-   **[Onboard Azure DevOps to DevOps Change Velocity — Classic](create-azure-tool-dev-ops.md)**  
 Create an Azure DevOps tool record in DevOps Change Velocity to connect, discover, and import Azure DevOps tool data.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)

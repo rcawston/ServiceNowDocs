@@ -60,5 +60,5 @@ Company events can be published via a publish plan or using Content templates to
 5.  Click **Activate generated plans**.
 
 
-**Parent Topic:**[Company events](../concept/ec-company-events.md)
+**Parent Topic:**[Company events](ec-company-events.md)
 

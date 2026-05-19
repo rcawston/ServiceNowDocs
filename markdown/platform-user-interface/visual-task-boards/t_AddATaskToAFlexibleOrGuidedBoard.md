@@ -34,14 +34,14 @@ Role required: none
     A new task card appears in the lane.
 
 
-**Parent Topic:**[Creating Visual Task Boards](../concept/c_VisualTaskBoardUse.md)
+**Parent Topic:**[Creating Visual Task Boards](c_VisualTaskBoardUse.md)
 
 **Related topics**  
 
 
-[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+[Freeform Visual Task Boards](c_FreeformBoardTasks.md)
 
-[Data driven Visual Task Boards](../concept/data-driven-tasks.md)
+[Data driven Visual Task Boards](data-driven-tasks.md)
 
 [Add or modify Visual Task Board lanes](t_AddOrModifyALane.md)
 

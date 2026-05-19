@@ -46,5 +46,5 @@ Administrators can restrict who can rename hashtags.
     **Note:** If a hashtag is removed from the message, renaming that hashtag does not change the message text.
 
 
-**Parent Topic:**[Use hashtags in Live Feed](../concept/c_UseHashtagsInLiveFeed.md)
+**Parent Topic:**[Use hashtags in Live Feed](c_UseHashtagsInLiveFeed.md)
 

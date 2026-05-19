@@ -78,7 +78,7 @@ The ServiceNow AI Platform includes the following base-system service types that
     -   Can be created via manual mapping, service mapping with entry point, and dynamic query.
     For more information about leaf nodes and structured hierarchies, see [Design &amp; Planning domain in the CSDM model](design-domain.md).
 
-    You can monitor service instances \(called application service before CSDM v5\) on the Application Services dashboard. For more information, see [Use Service instance \(Application Services\) dashboard to monitor health](../../configuration-management/task/app-service-dashboard.md).
+    You can monitor service instances \(called application service before CSDM v5\) on the Application Services dashboard. For more information, see [Use Service instance \(Application Services\) dashboard to monitor health](../configuration-management-database-cmdb/app-service-dashboard.md).
 
 -   **Business services \(cmdb\_ci\_service\_business\)**
 

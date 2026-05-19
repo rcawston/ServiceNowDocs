@@ -46,16 +46,16 @@ This feature enables administrators to copy and paste search criteria from a Mic
     ![Comma-delimited filter string](../image/CommaDelimitedFilter2.png "Comma-delimited filter string")
 
 
-**Parent Topic:**[Filters](../concept/c_Filters.md)
+**Parent Topic:**[Filters](c_Filters.md)
 
 **Related topics**  
 
 
 [Create a filter in List](t_CreatingFilters.md)
 
-[Add related list conditions](../../using-lists-v3/task/create-related-list-query.md)
+[Add related list conditions](create-related-list-query.md)
 
-[OR conditions](../concept/c_UsingORConditions.md)
+[OR conditions](c_UsingORConditions.md)
 
-[Dynamic operators](../reference/r_UsingTheDynamicOperator.md)
+[Dynamic operators](r_UsingTheDynamicOperator.md)
 

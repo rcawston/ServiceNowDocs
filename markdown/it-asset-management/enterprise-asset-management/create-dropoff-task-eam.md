@@ -83,7 +83,7 @@ A Drop off task in the Open state is created and listed in the **Asset tasks** t
 
 [Drop off enterprise assets at a stockroom](add-eam-assets-drop-off.md).
 
-**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](../concept/drop-off-receive-assets-eam.md)
+**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](drop-off-receive-assets-eam.md)
 
 **Related topics**  
 
@@ -92,5 +92,5 @@ A Drop off task in the Open state is created and listed in the **Asset tasks** t
 
 [Verify the enterprise assets received through a Drop off task](verify-assets-eam-receive.md)
 
-[Record time worked on Drop off and Receive tasks for enterprise assets](../concept/record-time-drop-receive.md)
+[Record time worked on Drop off and Receive tasks for enterprise assets](record-time-drop-receive.md)
 

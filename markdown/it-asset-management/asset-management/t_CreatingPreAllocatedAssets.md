@@ -161,5 +161,5 @@ Work notes related to the asset.
 </table>2.  Select **Submit**.
 
 
-**Parent Topic:**[Manage pre-allocated assets](../../hardware-asset-management/concept/manage-preallocated-asset.md)
+**Parent Topic:**[Manage pre-allocated assets](manage-preallocated-asset.md)
 

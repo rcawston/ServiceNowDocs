@@ -33,5 +33,5 @@ The Inbound API Integration Usage dashboard enables you to view statistics for r
 -   **[Registered integrations](registered-integrations.md)**  
 View the list of all the inbound API integrations registered on ServiceNow.
 
-**Parent Topic:**[Additional integration resources](../../outbound-web-services/concept/additional-integration-resources.md)
+**Parent Topic:**[Additional integration resources](additional-integration-resources.md)
 

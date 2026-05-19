@@ -19,7 +19,7 @@ A work plan provides the information that you need about the regular maintenance
 
 You assign your customer and consumer service agents with the sn\_fsm\_planned\_wm.planned\_work\_read role so that they can have read access to all the planned work management tables.
 
-You can also create a work plan in the CSM Configurable Workspace. To create a work plan in the workspace, see [Create a work plan in Customer Service Management \(CSM\) Configurable Workspace](../task/create-work-plans-in-workspace.md).
+You can also create a work plan in the CSM Configurable Workspace. To create a work plan in the workspace, see [Create a work plan in Customer Service Management \(CSM\) Configurable Workspace](create-work-plans-in-workspace.md).
 
 ## Related lists for work plans
 
@@ -39,7 +39,7 @@ Work plans
 
 </td><td>
 
-Manage the maintenance requirements of an install base item. They include information on how often maintenance must be performed, what the maintenance activities are for the install base, and the order in which they must be performed. To create a work plan, see [Create a work plan with Customer Service Management \(CSM\)](../task/create-work-plans.md).
+Manage the maintenance requirements of an install base item. They include information on how often maintenance must be performed, what the maintenance activities are for the install base, and the order in which they must be performed. To create a work plan, see [Create a work plan with Customer Service Management \(CSM\)](create-work-plans.md).
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Work Orders
 
 </td><td>
 
-Create work orders for field service agents to perform scheduled maintenance activities for the install base item. To create a work order, see [Create a work order](../task/create-work-orders.md).Select the related list from the install base form to create a work order for an install base item.
+Create work orders for field service agents to perform scheduled maintenance activities for the install base item. To create a work order, see [Create a work order](create-work-orders.md).Select the related list from the install base form to create a work order for an install base item.
 
 Select the Work order related list from the planned work schedule form to create a work order for a work plan.
 

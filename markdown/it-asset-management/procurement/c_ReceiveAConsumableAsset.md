@@ -23,16 +23,16 @@ If no matching consumable record exists in the receiving stockroom, a record is 
 
 **Note:** The related list of a purchase order doesn't display consumable asset details. This means that you can't track consumables through a purchase order.
 
-For more details on creating consumable assets, see [Create consumable assets](../../asset-management/task/t_CreatingConsumableAssets.md).
+For more details on creating consumable assets, see [Create consumable assets](../asset-management/t_CreatingConsumableAssets.md).
 
 **Parent Topic:**[Receive assets](c_ReceiveAssets.md)
 
 **Related topics**  
 
 
-[Receive an asset](../task/t_ReceiveAnAsset.md)
+[Receive an asset](t_ReceiveAnAsset.md)
 
-[Create a receiving slip](../task/t_CreateAReceivingSlip.md)
+[Create a receiving slip](t_CreateAReceivingSlip.md)
 
-[Create a receiving slip line](../task/t_CreateAReceivingSlipLine.md)
+[Create a receiving slip line](t_CreateAReceivingSlipLine.md)
 

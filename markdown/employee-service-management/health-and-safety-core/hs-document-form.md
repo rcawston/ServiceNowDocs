@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 Safety team such as safety agent and contractor coordinator can use the Health and Safety document version form to add or modify a safety-related document.
 
-For more information, see [Add a new Health and Safety related document](../task/add-hs-related-document.md).
+For more information, see [Add a new Health and Safety related document](add-hs-related-document.md).
 
 <table id="table_xgm_2zy_bdc"><thead><tr><th>
 
@@ -92,12 +92,12 @@ Notes
 Information related to the document version.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Core reference](../../hs-core/concept/hs-core-reference.md)
+</table>**Parent Topic:**[Health and Safety Core reference](hs-core-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md)
+[Components installed with Health and Safety Core](components-installed-hs-core.md)
 
 [Health and Safety action form](hs-action-form.md)
 

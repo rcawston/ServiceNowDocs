@@ -34,7 +34,7 @@ Watch this video to see how you can model demand scenarios and view updated dema
 
 Demand Forecast - Model Demand Scenarios
 
-As a manager with the forecast admin role, you can create forecast parameters in the Workforce Optimization for ITSM Manager Workspace. [Modify forecast parameters to visualize forecast data](../task/modify-forecast-parameters-configurable-wfo-itsm.md) and preview time-series data before publishing it. You can create any number of forecasts to preview the time-series data in real time.
+As a manager with the forecast admin role, you can create forecast parameters in the Workforce Optimization for ITSM Manager Workspace. [Modify forecast parameters to visualize forecast data](modify-forecast-parameters-configurable-wfo-itsm.md) and preview time-series data before publishing it. You can create any number of forecasts to preview the time-series data in real time.
 
 You can also make manual adjustments to tweak the forecast and analyze the forecast pattern. You can overlay the manual adjustments on the visualized forecast data and view the time-series data to analyze the forecast model. For example, if you have a specific pattern for the upcoming week but you know that a national holiday falls in the middle of the week where you need more agents because you expect the sales to go up, you can manually tweak the forecast to increase it by 10% and analyze that data.
 
@@ -59,7 +59,7 @@ To forecast the demand:
 4.  Associate the formulas to assignment groups.
 5.  View the predicted demand on the calendar.
 
-**Note:** Refer to [Demand Forecast in Workforce Optimization for ITSM configurable workspace](../reference/configurable-wfo-itsm-demand-forecast-reference.md) for information on default components and configurations installed with Demand Forecast.
+**Note:** Refer to [Demand Forecast in Workforce Optimization for ITSM configurable workspace](configurable-wfo-itsm-demand-forecast-reference.md) for information on default components and configurations installed with Demand Forecast.
 
 ## Collect data by defining data collection definitions
 
@@ -70,13 +70,13 @@ Use the **Data Collection Definitions** application to define the data you want 
     You can access the time series for the collected data using the MetricBase `list` on the Group \[sys\_user\_group\] table. For more information on accessing MetricBase data, refer to [Access MetricBase data using the list command](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/view-time-series-data.md).
 
 -   Use the **Collect historical data for automated forecast configurations** on-demand job to collect hourly historical data. This job collects data for the past three years.
--   Use the **Forecast resources for future** scheduled job to forecast the resources based on the collected data. The scheduled job stores the data in the Agent Forecast metric in MetricBase. Refer to the [forecast properties](../reference/configurable-wfo-itsm-demand-forecast-reference.md) to set the collection frequency such as the number of days you must collect the data. You can use this information to calculate the forecast or the time period for which you want to store the data.
+-   Use the **Forecast resources for future** scheduled job to forecast the resources based on the collected data. The scheduled job stores the data in the Agent Forecast metric in MetricBase. Refer to the [forecast properties](configurable-wfo-itsm-demand-forecast-reference.md) to set the collection frequency such as the number of days you must collect the data. You can use this information to calculate the forecast or the time period for which you want to store the data.
 
 **Note:** The time series metrics created for data collection definitions use the **WFO Forecast** retention policy. This policy stores data at a one-hour interval for the past three years.​
 
 ## Create formula parameters
 
-Use numeric values or a script to define parameters to use in the formula for forecasting. Refer to the [resource forecast configurations](../reference/configurable-wfo-itsm-demand-forecast-reference.md) for the configured resource forecast formulas available by default.
+Use numeric values or a script to define parameters to use in the formula for forecasting. Refer to the [resource forecast configurations](configurable-wfo-itsm-demand-forecast-reference.md) for the configured resource forecast formulas available by default.
 
 ## Associate formulas to assignment groups
 
@@ -89,5 +89,5 @@ The data collected by the Agent Forecast metric in MetricBase is used to forecas
 **Related topics**  
 
 
-[Set up Demand Forecast](../task/configure-data-collection-configurable-wfo-itsm.md)
+[Set up Demand Forecast](configure-data-collection-configurable-wfo-itsm.md)
 

@@ -41,7 +41,7 @@ Leverage the multi-feedback summarization skill to quickly summarize one or mult
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about components, forms, tables, and system properties](../reference/product-feedback-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about components, forms, tables, and system properties](product-feedback-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

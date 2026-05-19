@@ -166,7 +166,7 @@ For an example of a VM in AWS, see [AWS VM provisioning walkthrough](walk-throug
 
         This script is the response processor that updates the CMDB in your instance after the virtual machine is created.
 
-    19. View an explanation of the script and the example that is a part of the topic at [Create a Response Processor](../reference/response-processor-example.md).
+    19. View an explanation of the script and the example that is a part of the topic at [Create a Response Processor](response-processor-example.md).
 
         When you finish reviewing that topic, return to this topic.
 
@@ -348,7 +348,7 @@ EnrollmentNumber
 Azure enrollment number and the token to access the enrollment account.
 
 </td></tr></tbody>
-</table>        See [Store the Azure service principal credentials in the instance](../../cloud-management-v2-setup/task/azure-create-creds-cloud-mgt.md) for more information on the Azure information that is used in these overrides.
+</table>        See [Store the Azure service principal credentials in the instance](azure-create-creds-cloud-mgt.md) for more information on the Azure information that is used in these overrides.
 
     13. Navigate back to **Design** &gt; **Cloud API**, and then click the **Interface** tab.
 
@@ -460,5 +460,5 @@ VM properties in the Cloud User Portal
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](cloud-management-v2-landing-page.md)
 

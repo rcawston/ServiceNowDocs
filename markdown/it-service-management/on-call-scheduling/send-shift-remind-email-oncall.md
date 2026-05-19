@@ -53,7 +53,7 @@ The ITSM Notifications Redirection \(com.snc.itsm.notifications\_redirection\) p
 **Related topics**  
 
 
-[Assigning On-Call Scheduling roles](../concept/roles-assigning-oncall.md)
+[Assigning On-Call Scheduling roles](roles-assigning-oncall.md)
 
 [Manage shifts from the Calendar view](customize-calendar-view-oncall.md)
 

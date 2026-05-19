@@ -49,5 +49,5 @@ A new asset project request is created and linked to the project. The request ap
 -   **[View asset project requests for a project](view-asset-project-requests-pw.md)**  
 Analyze asset project requests associated with a project from Project Workspace, so you can track hardware requests and refresh activities linked to the project plan.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

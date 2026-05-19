@@ -22,5 +22,5 @@ The following table describes the field values for the Action form in Industrial
 -   **[Deviation form](deviation-form-mobile.md)**  
 The following table describes the field values for the Deviation form in Industrial Connected Workforce Mobile Experience.
 
-**Parent Topic:**[Industrial Connected Workforce Mobile Experience](../concept/icw-mobile-exp-landing-page.md)
+**Parent Topic:**[Industrial Connected Workforce Mobile Experience](icw-mobile-exp-landing-page.md)
 

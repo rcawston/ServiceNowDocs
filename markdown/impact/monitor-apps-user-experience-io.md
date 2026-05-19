@@ -57,5 +57,5 @@ With application monitoring, you can view the number of applications in each ins
     For more information on application monitoring, see [Analyze user experience and monitor application performance in Instance Observer](io-app-mon-perf-analy.md).
 
 
-**Parent Topic:**[Analytics](../concept/io-analytics.md)
+**Parent Topic:**[Analytics](io-analytics.md)
 

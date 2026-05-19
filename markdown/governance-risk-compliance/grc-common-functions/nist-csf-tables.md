@@ -27,5 +27,5 @@ A few tables are impacted by the NIST CSF guidance.
 |Failed Indicators \[sn\_irm\_nist\_csf\_m2m\_indicators\_nist\_csf\_act\]|Failed indicators table in NIST CSF is used to track the failed indicators of the target and the control or risk. This table comes handy for reporting and drill down purposes. It's an m2m table that associates Failed Indicators to Targets.|
 |Related Control Objectives \[sn\_compliance\_m2m\_policy\_stmt\_policy\_stmt\]|Related Control Objectives table in NIST CSF is used to track the associations between control objectives. In base implementation, parent and child control objectives are supported, but this table introduces a concept to relate the control objectives at the same level.|
 
-**Parent Topic:**[NIST CSF Use Case Accelerator](../concept/grc-csf-usecase-accelerator.md)
+**Parent Topic:**[NIST CSF Use Case Accelerator](grc-csf-usecase-accelerator.md)
 

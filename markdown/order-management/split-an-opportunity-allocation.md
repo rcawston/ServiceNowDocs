@@ -52,5 +52,5 @@ Role required: sn\_opty\_mgmt\_core.opportunity\_allocation\_writer
     The allocation is split into two rows. Both rows are saved and displayed in the Allocations tab under the relevant allocation type.
 
 
-**Parent Topic:**[Managing allocations](../concept/manage-allocations.md)
+**Parent Topic:**[Managing allocations](manage-allocations.md)
 

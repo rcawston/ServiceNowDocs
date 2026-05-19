@@ -109,5 +109,5 @@ Filter condition to determine the invoices for which the tolerance rule is appli
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Tolerance Rules and Variances for invoices](../concept/tolerance-rules-and-variance.md)
+**Parent Topic:**[Tolerance Rules and Variances for invoices](tolerance-rules-and-variance.md)
 

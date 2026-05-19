@@ -23,5 +23,5 @@ This section lists the minimum supported versions for ServiceNow server releases
 -   **[Usage Limitations for SQL API](usage-limitations.md)**  
 The SQL API imposes rate limits to ensure system stability and performance when querying ServiceNow data through ODBC and JDBC drivers.
 
-**Parent Topic:**[Access your ServiceNow data using SQL API](../concept/accessing-your-servicenow-data-using-sql-api.md)
+**Parent Topic:**[Access your ServiceNow data using SQL API](accessing-your-servicenow-data-using-sql-api.md)
 

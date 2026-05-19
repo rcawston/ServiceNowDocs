@@ -30,7 +30,7 @@ Role required: asset
 3.  Select a warranty record to view more details.
 
 
-**Parent Topic:**[Receive asset warranty details from Lenovo](../concept/receive-warranty-details-lenovo.md)
+**Parent Topic:**[Receive asset warranty details from Lenovo](receive-warranty-details-lenovo.md)
 
 **Related topics**  
 

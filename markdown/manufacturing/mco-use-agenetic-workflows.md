@@ -55,7 +55,7 @@ To run the AI agents autonomously, you must first [duplicate the agentic workflo
 
 [Explore Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-ai-agents.md)
 
-[Create recall corrective actions using Now Assist for Manufacturing Commercial Operations \(MCO\)](../task/execute-recall-campaigns.md)
+[Create recall corrective actions using Now Assist for Manufacturing Commercial Operations \(MCO\)](execute-recall-campaigns.md)
 
 [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md)
 

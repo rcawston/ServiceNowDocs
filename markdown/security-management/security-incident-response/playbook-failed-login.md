@@ -34,10 +34,10 @@ Once you mark a task complete in a stage, you can move to the next task. You can
 
 After you complete all the tasks, you’re asked to review the details you entered in all the stages. You can choose to edit any field or click Finish to complete the process of creating the entitlement.
 
--   **[Create processes for Failed Login Manual in PAD](../task/create-process-failed-login-manual.md)**  
+-   **[Create processes for Failed Login Manual in PAD](create-process-failed-login-manual.md)**  
 Use these steps to create processes for Failed Login Manual in the Process Automation Designer \(PAD\).
--   **[Using the Failed Login Manual playbook](../task/using-failed-login-manual-playbook.md)**  
+-   **[Using the Failed Login Manual playbook](using-failed-login-manual-playbook.md)**  
 Use these steps to learn how you can use the Failed Login Manual playbook in the SIR Analyst Workspace and its capabilities.
 
-**Parent Topic:**[Process-based Playbooks](../../security-incident-response/concept/playbooks-process-based.md)
+**Parent Topic:**[Process-based Playbooks](playbooks-process-based.md)
 

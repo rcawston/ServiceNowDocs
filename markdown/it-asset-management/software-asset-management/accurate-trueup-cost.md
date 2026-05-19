@@ -19,7 +19,7 @@ Specify the license cost or the license plus maintenance cost in the software mo
 
 **Note:** For the Employee license metric in the Oracle publisher pack, the true-up cost is shown for a subscription period of one year.
 
-If you use a license metric to create a software entitlement for a software model, an override license cost record is created if one already doesn't exist for the same license metric. The license cost record is added in the Override License Cost related list. The license cost and license plus maintenance cost is set to zero. If a maintenance license exists, you can override the license cost or the license plus maintenance cost. For details, see [Create or update an override license cost record](../task/create-edit-override-license-cost.md).
+If you use a license metric to create a software entitlement for a software model, an override license cost record is created if one already doesn't exist for the same license metric. The license cost record is added in the Override License Cost related list. The license cost and license plus maintenance cost is set to zero. If a maintenance license exists, you can override the license cost or the license plus maintenance cost. For details, see [Create or update an override license cost record](create-edit-override-license-cost.md).
 
 **Parent Topic:**[Software reconciliation for compliance](c_SAMReconciliation.md)
 

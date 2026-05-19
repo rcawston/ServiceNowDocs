@@ -19,7 +19,7 @@ Load the demo data on a non-production instance.
 
 ![Software Asset Management demo data](../image/SoftwareAssetMgmtDemoData.png "Legacy Software Asset Management plugin demo data")
 
-Using the demo data, try some of the procedures on this page, such as [Use the Software Counter](c_UseTheSoftwareCounter.md) and [View a Usage Counter Result](../task/t_ViewAUsageCounterResult.md).
+Using the demo data, try some of the procedures on this page, such as [Use the Software Counter](c_UseTheSoftwareCounter.md) and [View a Usage Counter Result](t_ViewAUsageCounterResult.md).
 
 To use software counters with your own information, follow the steps in the [Legacy Software Asset Management plugin setup process](c_SetupProcess.md). ServiceNow Discovery does not populate the Software Usage \(cmdb\_sam\_sw\_usage\) table. Use a third party tool such as Microsoft's System Center Configuration Manager to add information about software assets to the Software Usage table.
 

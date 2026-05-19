@@ -15,9 +15,9 @@ breadcrumb: [Use, HR Service Delivery Integration with Workday Learning, Integra
 
 Import set tables into HR Service Delivery Integration with Workday Learning
 
--   **[HR Service Delivery Integration with Workday Learning to-dos staging](../task/wdl-todos.md)**  
+-   **[HR Service Delivery Integration with Workday Learning to-dos staging](wdl-todos.md)**  
 Import workday learning todos.
--   **[HR Service Delivery Integration with Workday Learning user course activity staging](../task/wdl-user-course-activity.md)**  
+-   **[HR Service Delivery Integration with Workday Learning user course activity staging](wdl-user-course-activity.md)**  
 Import workday learning user course activity staging information.
 
 **Parent Topic:**[Using HR Service Delivery Integration with Workday Learning](using-workday-learning-intg.md)
@@ -25,9 +25,9 @@ Import workday learning user course activity staging information.
 **Related topics**  
 
 
-[View user activity for Workday Learning](../task/sync-user-actitvity-wdl-intg.md)
+[View user activity for Workday Learning](sync-user-actitvity-wdl-intg.md)
 
-[View track approval for Workday Learning](../task/track-approval-adl-intg.md)
+[View track approval for Workday Learning](track-approval-adl-intg.md)
 
 [Use transform maps](use-transform-maps-wd-learning.md)
 

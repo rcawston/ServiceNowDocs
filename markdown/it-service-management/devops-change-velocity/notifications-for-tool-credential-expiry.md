@@ -52,7 +52,7 @@ The following types of notifications are sent:
     ![Proactive field notification before credential expiration](../image/credential-expiry-proactive-field.png)
 
 
-When the credentials of your tool expire, the tool gets disconnected. You can select the **Update credentials** link in the notifications, and update your tool credentials. After the credentials are updated, connect to the tool again to start receiving data. For information on updating tool credentials, see [Update third-party tool credentials in DevOps Change Velocity](../task/update-third-party-tool-credentials-in-devops-change-velocity.md).
+When the credentials of your tool expire, the tool gets disconnected. You can select the **Update credentials** link in the notifications, and update your tool credentials. After the credentials are updated, connect to the tool again to start receiving data. For information on updating tool credentials, see [Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md).
 
-**Parent Topic:**[Update third-party tool credentials in DevOps Change Velocity](../task/update-third-party-tool-credentials-in-devops-change-velocity.md)
+**Parent Topic:**[Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md)
 

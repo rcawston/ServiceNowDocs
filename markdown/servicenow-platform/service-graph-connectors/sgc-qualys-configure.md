@@ -21,8 +21,8 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../../../configuration-management/concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../../../configuration-management/concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   The ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
@@ -33,7 +33,7 @@ There are two supported Qualys APIs:
 -   Qualys Global Asset API v2. You might prefer to use this API if you are importing data for the Security Posture Control application.
 -   Qualys Asset Management API v2. This API is deactivated by default. You should only activate this API if you don't have access to the Qualys Cybersecurity Asset Management \(CSAM\) product. ServiceNow® uses a different API \(Asset management and tagging\) for this API but the data returned is not comprehensive.
 
-For more information, see [Service Graph Connector for Qualys APIs](../reference/sgc-qualys-apis.md).
+For more information, see [Service Graph Connector for Qualys APIs](sgc-qualys-apis.md).
 
 Role required: admin
 

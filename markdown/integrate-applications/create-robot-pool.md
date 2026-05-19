@@ -15,7 +15,7 @@ Create a robot pool in RPA Hub for an optimum utilization of robots to execute t
 
 ## Before you begin
 
-Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](robot-pool-rpa.md).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
@@ -74,5 +74,5 @@ Enable robot pool option for a bot process to map a bot process to the robot poo
 
 \(Optional\) Calculate the number of robots required to allocate those robots from the selected pool to execute the bot process. For more information, see [Calculate the number of robots in RPA Hub](calculate-robots.md).
 
-**Parent Topic:**[Robot pool in RPA Hub](../concept/robot-pool-rpa.md)
+**Parent Topic:**[Robot pool in RPA Hub](robot-pool-rpa.md)
 

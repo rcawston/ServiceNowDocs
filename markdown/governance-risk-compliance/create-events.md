@@ -33,7 +33,7 @@ If you have the sn\_oper\_res.admin role, you can create an event in the Operati
 
 5.  In the **Event group** field, select an event group.
 
-    For a description of the field values in the form, see [Event New record form](../reference/event-reference.md).
+    For a description of the field values in the form, see [Event New record form](event-reference.md).
 
     **Note:** You can add an event to many scenarios, but you can add an event to a scenario only once.
 

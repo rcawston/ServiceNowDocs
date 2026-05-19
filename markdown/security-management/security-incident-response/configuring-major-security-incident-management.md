@@ -22,11 +22,11 @@ Install and configure Major Security Incident Management application.
 
 Use this section to learn how to set up the necessary configurations required to work with Major Security Incident records by integrating with other external Microsoft applications to establish connections with ServiceNow instance.
 
--   **[Configure File Explorer Component](../../security-incident-response/concept/file-explorer.md)**  
+-   **[Configure File Explorer Component](file-explorer.md)**  
 The File Explorer workspace component organizes and tracks the collection of artifacts \(files\) related to a major security incident. It is designed to support integration with any third-party file hosting provider such as Microsoft SharePoint in the Major Security Incident Management workspace.
--   **[Configure Microsoft Teams](../../security-incident-response/concept/chat-channel-provider-config.md)**  
+-   **[Configure Microsoft Teams](chat-channel-provider-config.md)**  
 Configure Major Security Incident Management with Microsoft Teams which helps communication over the chat to resolve Major Security Incident.
--   **[Configure Slack chat connector for major security incidents](../concept/configure-slack-chat-connector-msi.md)**  
+-   **[Configure Slack chat connector for major security incidents](configure-slack-chat-connector-msi.md)**  
 Integrate and collaborate with Slack to resolve Major Security Incident to view and filter collaboration chat activities.
 
 **Parent Topic:**[Major Security Incident Management](major-security-incident-management-landing-page.md)

@@ -16,7 +16,7 @@ breadcrumb: [SolarWinds, Service Graph Connectors, Integrating third-party data 
 
 You can access the connection details of the Service Graph Connector for SolarWinds in a single view using the common connection framework \(CCF\) included within the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
 
-With the CCF feature, you can access all connections for a connector. Connection details include the alias, properties, data sources, and associated scheduled data imports. In addition, you can test a connection. Additional details may appear depending on the connector type. For more information, see [Accessing the connection details of Service Graph Connectors](integration-commons-conn-fw.md).
+With the CCF feature, you can access all connections for a connector. Connection details include the alias, properties, data sources, and associated scheduled data imports. In addition, you can test a connection. Additional details may appear depending on the connector type. For more information, see [Accessing the connection details of Service Graph Connectors](../cmdb-integration-commons/integration-commons-conn-fw.md).
 
 ## Access the details of a SolarWinds connection
 

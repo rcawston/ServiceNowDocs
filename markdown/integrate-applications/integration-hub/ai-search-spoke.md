@@ -134,7 +134,7 @@ Ingest Document Using Download URL
 
 Downloads a document from a URL and ingests it into the batcher. In releases starting with Rome, you can optionally specify security principal access permissions for the document.
 
- Add the URL's domain to the AI Search spoke's list of trusted domains before you specify this action's **Download URL** input. For details on modifying the spoke's list of trusted domains, see [Set up the AI Search spoke](../task/setup-ais-spoke.md).
+ Add the URL's domain to the AI Search spoke's list of trusted domains before you specify this action's **Download URL** input. For details on modifying the spoke's list of trusted domains, see [Set up the AI Search spoke](setup-ais-spoke.md).
 
  This action doesn't support authentication session IDs or cookies, so the document URL must allow unauthenticated access.
 
@@ -218,5 +218,5 @@ Update By Query
 Updates all the records in the AI Search content index that match the specified query.
 
 </td></tr></tbody>
-</table>See [Set up the AI Search spoke](../task/setup-ais-spoke.md) for information about setting up the AI Search spoke.
+</table>See [Set up the AI Search spoke](setup-ais-spoke.md) for information about setting up the AI Search spoke.
 

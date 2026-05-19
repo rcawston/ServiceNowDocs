@@ -50,7 +50,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 5.  Select an existing clustering definition in the **Intent and activity analysis** field.
 
-    **Note:** Intent and activity analysis isn’t available unless specified in the process configuration. Also, if the Intent and Activity Analysis skill is not activated in Now Assist for Creator, then the section is not available for edit. For more information on Intent and Activity Analysis skill, see [Working with intent and activity analysis](../concept/nowass-intent-activity-analysis.md).
+    **Note:** Intent and activity analysis isn’t available unless specified in the process configuration. Also, if the Intent and Activity Analysis skill is not activated in Now Assist for Creator, then the section is not available for edit. For more information on Intent and Activity Analysis skill, see [Working with intent and activity analysis](nowass-intent-activity-analysis.md).
 
     Select the help icon \(?\) to view details about how and why these details must be set. You also get a list of resources.
 

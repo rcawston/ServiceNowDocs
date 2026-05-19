@@ -21,7 +21,7 @@ This API requires the ServiceNow MID Hermes API \(com.glide.mid.hermes\_api\) pl
 
 Use this API in scripts that run on the MID Server, such as MID Server background scripts or in [Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/workflow-studio.md) action script steps with the **Required Runtime** set to **MID**.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## MIDHermesProducer - MIDHermesProducer\(\)
 

@@ -51,15 +51,15 @@ Once deployed, your app will sit in its own workspace category, which makes it e
 
 For sys admin eyes only: Every app built in Creator Studio adds a record in the Request App Config table, which contains the table that the app uses. Your admin can change the table for an app, see [Administering an app's associated table](creator-studio-admin-app-table.md) for more information. The name of the table follows the format of scope\_request, for example, x\_snc\_02\_03\_request.
 
--   **[Find existing apps in Creator Studio](../task/view-apps-creator-studio-home-page.md)**  
+-   **[Find existing apps in Creator Studio](view-apps-creator-studio-home-page.md)**  
 Perhaps you’ve been given permission to work on an app someone else created, or you want to add new items to the catalog in your app. The Creator Studio home page acts as your central hub, listing all the apps people in your company have built using Creator Studio.
--   **[Work with bookmarked apps in Creator Studio](../task/crs-work-with-bookmarked-apps.md)**  
+-   **[Work with bookmarked apps in Creator Studio](crs-work-with-bookmarked-apps.md)**  
 Bookmark an app to quickly find it in Creator Studio, as well as ServiceNow Studio.
--   **[Change your development experience](../task/crs-change-dev-experience.md)**  
+-   **[Change your development experience](crs-change-dev-experience.md)**  
 Choose a different development experience if you want a more robust environment using the experience switcher in Creator Studio.
 -   **[App creation in Creator Studio](creator-studio-creating-apps.md)**  
 Have you ever dreamed of creating your own app? With Creator Studio, you might be closer than you think! The following links will send you to the sections in this guide that will walk you through the steps.
--   **[Collaborating with others to build apps in Creator Studio](../reference/creator-studio-collaboration-roles.md)**  
+-   **[Collaborating with others to build apps in Creator Studio](creator-studio-collaboration-roles.md)**  
 Sometimes you need help with building out your app, and that’s OK! And sometimes other people need your help building their apps, which is great! This point is where collaboration comes into play.
 -   **[Working with forms in Creator Studio](creator-studio-work-with-forms.md)**  
 To add items or services to your catalog, you must create a different form for each thing being requested.

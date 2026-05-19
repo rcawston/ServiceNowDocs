@@ -91,7 +91,7 @@ If you have the BCM admin role, you can set up an approval rule only with types 
 
 -   Specific approvers
 -   Approver from source
-For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](../../grc-common/reference/roles-installed-with-approver-configurator.md).
+For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](grc-common-functions/roles-installed-with-approver-configurator.md).
 
 </td></tr><tr><td>
 
@@ -216,5 +216,5 @@ Field values on the form:
 
 ![Sample script to add approvers.](../image/ScriptedApproverSampleScript.png "Sample script to add approvers")
 
-**Parent Topic:**[Approval configuration](../concept/bcm-approval-configuration.md)
+**Parent Topic:**[Approval configuration](bcm-approval-configuration.md)
 

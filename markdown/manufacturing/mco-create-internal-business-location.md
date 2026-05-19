@@ -37,7 +37,7 @@ The manager of an internal business location can access all the cases for accoun
 
 3.  On the Internal business location form, fill in the fields.
 
-    For a description of the field values, see [Internal business location form](../reference/mco-internal-business-location-form.md).
+    For a description of the field values, see [Internal business location form](mco-internal-business-location-form.md).
 
 4.  Select **Submit**.
 

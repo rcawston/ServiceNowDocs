@@ -91,7 +91,7 @@ List of comma-separated activity system IDs.
 10. Select **Save**.
 
 
-**Parent Topic:**[Configure Virtual Agent topics for ITSM Success Dashboard](../concept/configure-va.md)
+**Parent Topic:**[Configure Virtual Agent topics for ITSM Success Dashboard](configure-va.md)
 
 **Related topics**  
 

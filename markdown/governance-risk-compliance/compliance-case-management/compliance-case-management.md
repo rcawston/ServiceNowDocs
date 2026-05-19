@@ -31,7 +31,7 @@ The Compliance Case Management application helps you to report, investigate, and
 
 </td></tr><tr><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-profile.svg) Get details about components like tables and roles.](../reference/reference-data-compliance-case-management.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-profile.svg) Get details about components like tables and roles.](reference-data-compliance-case-management.md)
 
 </td><td>
 

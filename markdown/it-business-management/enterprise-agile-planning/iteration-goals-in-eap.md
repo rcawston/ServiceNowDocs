@@ -21,7 +21,7 @@ During planning interval \(PI\) or sprint planning, create functional goals for 
 
 ![Iteration goals in EAP.](../images/eap-iteration-goals.gif)
 
-To learn how to create iteration goals in EAP, see [Create iteration goals for a PI or sprint in EAP](../task/create-iteration-goals-for-a-pi-or-sprint-in-eap.md).
+To learn how to create iteration goals in EAP, see [Create iteration goals for a PI or sprint in EAP](create-iteration-goals-for-a-pi-or-sprint-in-eap.md).
 
 ## Work item goals
 

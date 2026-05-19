@@ -44,7 +44,7 @@ Role required: none
 
 After you submit the request, the Analytics team is responsible for reviewing and implementing your requested changes.
 
-**Parent Topic:**[Create and use dashboards](../concept/create-and-edit-dashboards.md)
+**Parent Topic:**[Create and use dashboards](create-and-edit-dashboards.md)
 
 ## Fulfill an analytics request
 
@@ -97,7 +97,7 @@ Role required:
 **Related topics**  
 
 
-[Create and use dashboards](../concept/create-and-edit-dashboards.md)
+[Create and use dashboards](create-and-edit-dashboards.md)
 
 [Share a responsive dashboard](t_ControlAccessToADashboard.md)
 

@@ -344,7 +344,7 @@ Request action
 
 </td><td>
 
-Data source request action that will be invoked to get data. You can choose only published request actions. Click the link in the dialog box below to create/configure a new Data Source request action in Integration Hub. After the request action is published in Integration Hub, you can choose it as a **Request action** in the Data Source record. For more information, see [Define action properties](../task/define-action-properties.md).
+Data source request action that will be invoked to get data. You can choose only published request actions. Click the link in the dialog box below to create/configure a new Data Source request action in Integration Hub. After the request action is published in Integration Hub, you can choose it as a **Request action** in the Data Source record. For more information, see [Define action properties](define-action-properties.md).
 
 </td></tr><tr><td>
 
@@ -487,5 +487,5 @@ This additional field appears on the data source form when the **Type** field va
 |-----|-----------|
 |Data Loader|Script used to load data. For more information, see [Custom \(Load by Script\) type data source](custom-type-data-source.md)|
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

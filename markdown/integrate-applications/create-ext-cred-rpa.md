@@ -15,9 +15,9 @@ Create an external credential vault record in RPA Hub to register your external 
 
 ## Before you begin
 
-Familiarize yourself with the external credentials concepts. For more information, see [External credential vault in RPA Hub](../concept/external-credentials-rpa.md).
+Familiarize yourself with the external credentials concepts. For more information, see [External credential vault in RPA Hub](external-credentials-rpa.md).
 
-Verify that you’ve completed the tasks that are related to configuring the external credentials in RPA Hub. For more information, see [Steps to configure an external credential vault in RPA Hub](../reference/config-ext-cred-rpa.md).
+Verify that you’ve completed the tasks that are related to configuring the external credentials in RPA Hub. For more information, see [Steps to configure an external credential vault in RPA Hub](config-ext-cred-rpa.md).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 

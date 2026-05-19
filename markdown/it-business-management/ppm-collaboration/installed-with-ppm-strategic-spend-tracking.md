@@ -77,5 +77,5 @@ Strategy Allocation Breakdown\[sn\_ppm\_sst\_strategy\_allocation\_breakdown\]
 Stores strategy breakdown details for a project or demand. The details include fiscal year, strategy allocation amount, cost details \(planned and actual\), and capex and opex amounts \(planned and actual\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Strategic Spend Tracking for PPM](../task/install-strategic-spend.md)
+</table>**Parent Topic:**[Install Strategic Spend Tracking for PPM](install-strategic-spend.md)
 

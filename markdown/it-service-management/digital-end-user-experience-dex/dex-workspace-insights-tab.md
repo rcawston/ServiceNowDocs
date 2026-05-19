@@ -39,7 +39,7 @@ Event monitoring
 
 </td><td>
 
-Provides the ability to monitor and analyze configured events across managed devices.Using filters, you can isolate events by severity, OS type, and rule configuration. You can also take a remedial action on affected devices. See [DEX Insights reports](../reference/insights-reports.md) for more details.
+Provides the ability to monitor and analyze configured events across managed devices.Using filters, you can isolate events by severity, OS type, and rule configuration. You can also take a remedial action on affected devices. See [DEX Insights reports](insights-reports.md) for more details.
 
 </td></tr><tr><td>
 
@@ -83,12 +83,12 @@ Windows registry
 
 </td><td>
 
-Provides you a view of the Windows registry keys on your organization devices set up for monitoring.[Set up Windows registry keys](../task/set-up-win-registry-keys.md) to receive this report.
+Provides you a view of the Windows registry keys on your organization devices set up for monitoring.[Set up Windows registry keys](set-up-win-registry-keys.md) to receive this report.
 
 This page appears on Windows machines only.
 
 **Note:** If you select the number in the **Device count** column, you can see the list of all devices where that key is present.
 
 </td></tr></tbody>
-</table>For more details on fields in each report category, see [DEX Insights reports](../reference/insights-reports.md).
+</table>For more details on fields in each report category, see [DEX Insights reports](insights-reports.md).
 

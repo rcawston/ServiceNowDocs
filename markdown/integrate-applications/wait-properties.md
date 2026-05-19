@@ -70,5 +70,5 @@ Wait Options
 Option to wait for all applications or any one of the applications whose screen shots are taken in the component.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Wait](../concept/wait.md)
+</table>**Parent Topic:**[Wait](wait.md)
 

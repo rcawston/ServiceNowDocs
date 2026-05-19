@@ -70,7 +70,7 @@ Keep the following notes in mind:
 **Related topics**  
 
 
-[Migrate a blueprint from environment to environment](../task/cpq-migrating-env-to-env.md)
+[Migrate a blueprint from environment to environment](cpq-migrating-env-to-env.md)
 
 [Export a blueprint](cpq-export-a-blueprint.md)
 

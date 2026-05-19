@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Configure Financial Services Treasury Operations.](../task/configure-fso-treasury-ops.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Configure Financial Services Treasury Operations.](configure-fso-treasury-ops.md)
 
 </td><td>
 
@@ -33,11 +33,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr><tr><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with preconfigured dashboard.](../../../use/dashboards/application-content-packs/fso-treasury-ops-dashboard.md)
+[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with preconfigured dashboard.](../fso-treasury-ops-dashboard.md)
 
 </td><td>
 
-[Process Mining ![](../../../reuse/icons/brand-icons/bus-project.svg) Visualize process and identify improvement opportunities.](../../fso-common/concept/fso-process-optz-content-pack.md)
+[Process Mining ![](../../../reuse/icons/brand-icons/bus-project.svg) Visualize process and identify improvement opportunities.](../fso-process-optz-content-pack.md)
 
 </td><td>
 

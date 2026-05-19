@@ -25,8 +25,8 @@ When planning your glossary assets, consider the following points.
 -   Each glossary can be subdivided or filtered using the Product/Service category.
 -   One source term can be listed under different Product/Service or Part of Speech categories. A source term repeated in two different categories is considered to be two different records, so different translations can be assigned to each occurrence of the term per category. This enables a term to be translated differently depending on the context.
 -   Translations assigned to source terms can be provided for any language listed in the sys\_language table, including self-localized languages.
--   The included spreadsheet template \(ServiceNow\_Glossary\_Template.xlsx\) must be used when creating a glossary. For details see [Upload glossaries to Language Asset Management](../task/lw-lam-upload-glossaries.md).
--   Any editing or modification to the contents of existing glossaries can be done in the UI. For details see [Edit a glossary in Language Asset Management](../task/lw-lam-edit-glossary.md).
+-   The included spreadsheet template \(ServiceNow\_Glossary\_Template.xlsx\) must be used when creating a glossary. For details see [Upload glossaries to Language Asset Management](lw-lam-upload-glossaries.md).
+-   Any editing or modification to the contents of existing glossaries can be done in the UI. For details see [Edit a glossary in Language Asset Management](lw-lam-edit-glossary.md).
 -   There is no upper limit to the number of rows in a glossary, but the general guideline is for each glossary to have between 50 and 1500 rows.
 
 In the spreadsheet template, columns are provided for all languages supported by ServiceNow AI Platform in the sys\_language table. You don't need to provide translations for all languages. Clear out \(leave blank\) all values for any languages you don't plan to use. You can upload glossary translations for languages that are active = false in sys\_language, but inactive languages are not available for translation workflows.
@@ -39,11 +39,11 @@ You can include self-localized languages when uploading glossaries with the spre
 -   French - Canada
 -   Traditional Chinese
 
-To activate languages in sys\_language, [install language plugins](../../localization/task/t_ActivateALanguage.md). To self-localize an unsupported language, see [Create a language record](../../localization/task/t_CreateANewLanguageRecord.md).
+To activate languages in sys\_language, [install language plugins](../system-localization/t_ActivateALanguage.md). To self-localize an unsupported language, see [Create a language record](../system-localization/t_CreateANewLanguageRecord.md).
 
--   **[Upload glossaries to Language Asset Management](../task/lw-lam-upload-glossaries.md)**  
+-   **[Upload glossaries to Language Asset Management](lw-lam-upload-glossaries.md)**  
 Upload glossaries to the Language Asset Management area of Localization Workspace. Create a glossary by entering source terms and translations in the provided spreadsheet template, then uploading the completed spreadsheet to Language Asset Management.
--   **[Edit a glossary in Language Asset Management](../task/lw-lam-edit-glossary.md)**  
+-   **[Edit a glossary in Language Asset Management](lw-lam-edit-glossary.md)**  
 Edit the contents of your glossary in Language Asset Management. Modify existing terms and translations, and add new ones.
 
 **Parent Topic:**[Configuring Localization Workspace](configuring-localization-workspace.md)

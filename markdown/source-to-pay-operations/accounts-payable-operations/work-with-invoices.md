@@ -25,11 +25,11 @@ The Accounts Payable Specialist can view the invoices by doing the following:
 2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 3.  Navigate to **Lists** &gt; **Invoices**.
 
--   **[Create an invoice manually](../task/create-invoice.md)**  
+-   **[Create an invoice manually](create-invoice.md)**  
 As an Accounts Payable Specialist, you can create an invoice manually from the Source-to-Pay Workspace when the automated invoice creation process is encountering issues or not available.
--   **[Update the purchase order on an invoice](../task/change-invoice-po-number.md)**  
+-   **[Update the purchase order on an invoice](change-invoice-po-number.md)**  
 If you find that the purchase order that is currently associated with an invoice is incorrect, you can associate the correct purchase order to the invoice.
--   **[View your invoices on Employee Center](../task/view-invoices-ec.md)**  
+-   **[View your invoices on Employee Center](view-invoices-ec.md)**  
 As a business owner, you can view all the invoices that you own on Employee Center.
 
 **Parent Topic:**[Using Accounts Payable Invoice Processing](use-ap-invoice-processing.md)
@@ -49,5 +49,5 @@ As a business owner, you can view all the invoices that you own on Employee Cent
 
 [Invoice approvals](invoice-approvals.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](view-invoice-attachment.md)
 

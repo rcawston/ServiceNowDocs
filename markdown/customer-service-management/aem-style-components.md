@@ -13,7 +13,7 @@ breadcrumb: [Integrating with Adobe Experience Manager, Integrate, Customer Serv
 
 You can define the look and feel of the ServiceNow components in Adobe Experience Manager \(AEM\) by specifying colors for them.
 
-As an AEM administrator, you can either modify the color variables preconfigured for all components or use the initializeCSS function for customizing the colors of a particular component using a custom CSS class. You specify the custom CSS class for a component in the **Custom CSS Class** property. For more information, see [Display ServiceNow knowledge articles on an Adobe Experience Manager page](../task/aem-display-knowledge-components.md) and [Display ServiceNow cases on an Adobe Experience Manager page](../task/aem-display-case-components.md).
+As an AEM administrator, you can either modify the color variables preconfigured for all components or use the initializeCSS function for customizing the colors of a particular component using a custom CSS class. You specify the custom CSS class for a component in the **Custom CSS Class** property. For more information, see [Display ServiceNow knowledge articles on an Adobe Experience Manager page](aem-display-knowledge-components.md) and [Display ServiceNow cases on an Adobe Experience Manager page](aem-display-case-components.md).
 
 **Note:** By default, the ServiceNow components are configured using the Bootstrap v4.4.1 CSS styles. If your AEM page uses a different Bootstrap version, the ServiceNow components style is overridden by the page style.
 

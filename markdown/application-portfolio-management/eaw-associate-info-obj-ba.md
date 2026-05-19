@@ -37,7 +37,7 @@ Role required: sn\_apm.apm\_user
 
 8.  On the form, fill in the fields.
 
-    For field information, see [Add relationship form](../../reference/eaw-reference/eaw-add-relationship-form.md).
+    For field information, see [Add relationship form](eaw-add-relationship-form.md).
 
 9.  Select **Save**.
 
@@ -50,5 +50,5 @@ Role required: sn\_apm.apm\_user
     Edit the details in the **Manage Relationship** form and select **Update**.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 

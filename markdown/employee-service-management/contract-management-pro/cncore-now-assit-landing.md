@@ -28,7 +28,7 @@ The Advance AI and Data Products and services do not and are not intended to con
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate and configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate and configure Now Assist in Contract Management](confg-na-in-cmpro.md)
 
 </td></tr><tr><td>
 

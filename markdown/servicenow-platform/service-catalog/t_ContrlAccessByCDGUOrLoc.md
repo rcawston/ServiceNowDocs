@@ -34,7 +34,7 @@ Role required: admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[Legacy service catalog access controls](../concept/c_LegcySrvcCatAccessCntrol.md)
+**Parent Topic:**[Legacy service catalog access controls](c_LegcySrvcCatAccessCntrol.md)
 
 ## Restrict access by role
 

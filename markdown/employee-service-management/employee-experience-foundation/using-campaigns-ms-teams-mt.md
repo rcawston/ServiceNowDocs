@@ -21,11 +21,11 @@ Send messages on Microsoft Teams to drive employee action, such as to read an ar
 
 The Employee Center contains two features, which content managers can use to send communications to employees:
 
--   **[Creating employee communications](../../employee-center/concept/ec-publish-content.md)**
+-   **[Creating employee communications](ec-publish-content.md)**
 
     Content Publishing provides a workflow to create and publish employee communications.
 
--   **[Content Experiences](../../employee-center/concept/ecpro-campaigns.md)**
+-   **[Content Experiences](ecpro-campaigns.md)**
 
     Content Experiences provides a robust publishing configuration which controls the content availability, duration, and audience.
 
@@ -44,13 +44,13 @@ You must have the following plugins installed in your environment:
 
 ## Configuring a Microsoft Teams notification
 
-1.  [Create notification content for Microsoft Teams](../task/create-campaign-content-publish-teams-mt.md)
+1.  [Create notification content for Microsoft Teams](create-campaign-content-publish-teams-mt.md)
 2.  \(Optional\) [Translate the notification content](campaign-translation-support-mt.md)
 3.  Publish the content:
-    -   Use **Content Publishing** &gt; **Schedule Content** to make the content available to employees: [Schedule delivery of Microsoft Teams notification content](../task/schedule-delivery-content-mt.md#)
-    -   To include the content in a multi-stage, multi-channel campaign, use **Content Experiences** &gt; **Content Experience Builder**: [Create Microsoft Teams notification content with Content Experience Builder](../task/create-notification-content-exp-builder-mt.md#)
+    -   Use **Content Publishing** &gt; **Schedule Content** to make the content available to employees: [Schedule delivery of Microsoft Teams notification content](schedule-delivery-content-mt.md#)
+    -   To include the content in a multi-stage, multi-channel campaign, use **Content Experiences** &gt; **Content Experience Builder**: [Create Microsoft Teams notification content with Content Experience Builder](create-notification-content-exp-builder-mt.md#)
 
--   **[Send automatic campaign notifications in Microsoft Teams](../task/enable-activity-feed-mt.md)**  
+-   **[Send automatic campaign notifications in Microsoft Teams](enable-activity-feed-mt.md)**  
 Automatically send campaign notifications in Microsoft Teams for better collaboration and efficient communication.
 -   **[Create a Microsoft Teams campaign with content publishing](create-campaign-content-publishing-mt.md)**  
 Create and distribute the Microsoft Teams campaigns using direct content publishing if you have the admin role.

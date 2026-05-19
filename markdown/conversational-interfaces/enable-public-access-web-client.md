@@ -40,5 +40,5 @@ Public access to the Virtual Agent chat widget defaults to off. Use the followin
     A message displays confirming that the setting has been saved.
 
 
-**Parent Topic:**[General chat settings](../concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](ci-configuring-chat-features.md)
 

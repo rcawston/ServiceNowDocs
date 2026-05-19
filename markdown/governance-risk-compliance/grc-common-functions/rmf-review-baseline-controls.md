@@ -17,7 +17,7 @@ Review the baseline policy statements and baseline controls.
 
 ## Before you begin
 
-**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../../grc-cam/reference/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../continuous-risk-monitoring/grc-cam-landing-page.md).
 
 **Review Baseline Controls** requires that you implement all necessary controls following the standard Policy and Compliance Management application procedures.
 
@@ -32,5 +32,5 @@ Role required: sn\_irm\_nist\_rmf.risk\_executive, sn\_irm\_nist\_rmf.security\_
 3.  Implement changes for the baseline policy statements and baseline controls following the standard approach outlined Policy and Compliance Management application.
 
 
-**Parent Topic:**[Select baseline control definitions](../concept/rmf-select.md)
+**Parent Topic:**[Select baseline control definitions](rmf-select.md)
 

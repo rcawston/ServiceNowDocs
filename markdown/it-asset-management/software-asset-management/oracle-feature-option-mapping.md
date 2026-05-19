@@ -21,7 +21,7 @@ When you run a discovery, the ServiceNow® Discovery application locates and ide
 
 After the data is normalized, the Software Asset Management application uses the Oracle Feature Option Mapping \[samp\_feature\_option\_mapping\] table to map your features to the appropriate database options and management packs at the database instance level. Any subsequent usage data that you retrieve for each feature via the SAM - Evaluate database option usage from Oracle GLAS data scheduled job can then be applied to the mapped database options and management packs. The Software Asset Management application uses this data with predefined database option and management pack usage rules to determine which database options and management packs are being used on each database instance. The resulting usage information is included in the Oracle reconciliation process to help you determine the license compliance of your database options and management packs.
 
-**Parent Topic:**[Oracle Database options and management packs](../reference/oracle-options.md)
+**Parent Topic:**[Oracle Database options and management packs](oracle-options.md)
 
 ## Update the default mapping for a feature
 

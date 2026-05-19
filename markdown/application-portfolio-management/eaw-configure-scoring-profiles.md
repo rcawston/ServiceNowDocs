@@ -20,9 +20,9 @@ Scoring profiles are configurable frameworks used to evaluate and compare applic
 **Related topics**  
 
 
-[View all scoring profiles](../../task/eaw-task/eaw-view-all-scoring-profiles.md)
+[View all scoring profiles](eaw-view-all-scoring-profiles.md)
 
-[Add or edit a scoring profile](../../task/eaw-task/eaw-create-scoring-profile.md)
+[Add or edit a scoring profile](eaw-create-scoring-profile.md)
 
-[Regenerate scoring profile indicator scores on-demand in Enterprise Architecture Workspace](../../task/eaw-task/eaw-regenerate-scoring-profile-indicator-scores-in-eaw.md)
+[Regenerate scoring profile indicator scores on-demand in Enterprise Architecture Workspace](eaw-regenerate-scoring-profile-indicator-scores-in-eaw.md)
 

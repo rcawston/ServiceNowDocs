@@ -21,7 +21,7 @@ Role required: sn\_shop.shopper
 
 ## About this task
 
-For more information about editing a purchase order line, see [Edit a purchase order line](../../sourcing-procurement-operations/task/edit-purchase-order.md).
+For more information about editing a purchase order line, see [Edit a purchase order line](../sourcing-and-procurement-operations/edit-purchase-order.md).
 
 ## Procedure
 

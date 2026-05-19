@@ -23,7 +23,7 @@ Identify the rate table and data source to use for currency conversions for the 
 
     -   To use the default system rate table you defined in the **glide.currency2.system\_rate\_table** property in **System Localization** &gt; **All Properties.**, select **System Currency Conversion Rate**. This table stores daily reference rates retrieved from the European Central Bank.
 
-        To learn more about the system rate table, see [Default currency conversions](../concept/currency-conversions.md).
+        To learn more about the system rate table, see [Default currency conversions](currency-conversions.md).
 
     -   If you have defined a custom rate table, you can select it to use in currency conversions for the FX Currency field. To learn more about how to define custom rate tables, see [Add conversion rates using a custom rate table](custom-rate-table.md).
 3.  In the **Conversion Date Source** field, select the field to use as the source of the date and time for the currency conversion for the FX Currency field:
@@ -36,12 +36,12 @@ Identify the rate table and data source to use for currency conversions for the 
 4.  Click **Save**.
 
 
-**Parent Topic:**[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+**Parent Topic:**[Configuring FX Currency field behavior](configure-fx-currency-field-behavior.md)
 
 **Related topics**  
 
 
-[Understanding how FX Currency field conversions work](../concept/fx-currency-conversions.md)
+[Understanding how FX Currency field conversions work](fx-currency-conversions.md)
 
 [Add conversion rates using a custom rate table](custom-rate-table.md)
 

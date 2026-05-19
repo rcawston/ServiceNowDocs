@@ -34,32 +34,32 @@ Now Assist for Creator contains generative AI skills that empower you to build m
 |Test generation|Automated Test Framework|
 |UI generation|UI Builder|
 
--   **[App generation](../../now-assist-app-gen/concept/sns-now-assist-app-gen-landing.md)**  
+-   **[App generation](sns-now-assist-app-gen-landing.md)**  
 Use the app generation skill available with Now Assist for Creator to create applications through conversation with generative AI. Describe the app you want to build, and Now Assist for Creator generates it so you can review and modify it.
--   **[App summary generation](../../now-assist-app-summarize/concept/sns-now-assist-app-summarize-landing.md)**  
+-   **[App summary generation](sns-now-assist-app-summarize-landing.md)**  
 Use the ServiceNow® Now Assist for Creator application to use generative AI for summarizing an app. With a single button, Now Assist for Creator generates the app summary that you can then copy to the app description, or use to find duplicate apps.
--   **[Flow execution analysis](../../../administer/flow-designer/reference/flow-execution-analysis-landing.md)**  
+-   **[Flow execution analysis](flow-execution-analysis-landing.md)**  
 Analyze flow execution details to identify errors and suggest potential fixes.
--   **[Flow generation](../../../administer/flow-designer/reference/flow-generation-landing.md)**  
+-   **[Flow generation](flow-generation-landing.md)**  
 Use Now Assist for Creator to create a flow or subflow from a text description.
--   **[Flow generation with images](../../../administer/flow-designer/reference/flow-generation-with-images-landing.md)**  
+-   **[Flow generation with images](flow-generation-with-images-landing.md)**  
 Create a flow or a subflow from an image by using Now Assist.
--   **[Flow recommendations](../../../administer/flow-designer/reference/flow-recommendations-landing.md)**  
+-   **[Flow recommendations](flow-recommendations-landing.md)**  
 Select the next component in your flow from a list of AI-generated recommendations.
--   **[Flow summarization](../../../administer/flow-designer/reference/flow-summarization-landing.md)**  
+-   **[Flow summarization](flow-summarization-landing.md)**  
 Summarize what a flow or subflow does by using generative AI.
--   **[Playbook generation](../../../administer/process-automation-designer/concept/playbook-assist-landing.md)**  
+-   **[Playbook generation](playbook-assist-landing.md)**  
 Use Now Assist to generate playbook outlines from text or image inputs. For example, you can enter a text description to generate a playbook outline for managing customer support cases. Playbook Assist is part of the Now Assist for Creator application.
--   **[Playbook recommendations](../../../administer/process-automation-designer/concept/playbook-recommendations-landing.md)**  
+-   **[Playbook recommendations](playbook-recommendations-landing.md)**  
 Get AI-generated placeholder activities based on an activity's name and description.
 -   **[Process Mining](process-mining-now-assist-for-creator.md)**  
 Learn about the Process Mining skill available with Now Assist for Creator.
 -   **[RPA bot generation](rpa-bot-generation-now-assist-for-creator.md)**  
 Learn about the RPA bot generation skill available with Now Assist for Creator.
--   **[Test generation](../../../administer/test-generation/concept/test-generation-intro.md)**  
+-   **[Test generation](../test-generation/test-generation-intro.md)**  
 Simplify your automated test authoring by leveraging the power of ServiceNow's Test generation skill available with Now Assist for Creator. Simply describe your test requirements, and Test generation generates the test for you. You can then review the generated test before accepting it or make any edits with an updated prompt.
--   **[UI generation](../../../administer/ui-generation/concept/ui-generation-landing.md)**  
+-   **[UI generation](ui-generation-landing.md)**  
 UI generation in Now Assist for Creator uses AI-powered skills to help app developers, UI Builder admins, and low-code developers build experiences on the ServiceNow AI Platform® using natural language.
 
-**Parent Topic:**[Now Assist for Creator](../../../administer/flow-designer/concept/now-assist-for-creator-landing.md)
+**Parent Topic:**[Now Assist for Creator](now-assist-for-creator-landing.md)
 

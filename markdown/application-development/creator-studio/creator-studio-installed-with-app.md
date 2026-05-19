@@ -34,7 +34,7 @@ New table that extends from the base Request Task table
 -   Name: \[scope\]\_request \(for example, x\_snc\_marketing\_request\)
 -   Label: \[App name\] + Requests \(for example, Marketing Request\)
 
- **Note:** All of the form questions are stored as catalog variables in the app's Request Task table. However, admins can change the associated table for an app, see [Administering an app's associated table](../concept/creator-studio-admin-app-table.md) for more information.
+ **Note:** All of the form questions are stored as catalog variables in the app's Request Task table. However, admins can change the associated table for an app, see [Administering an app's associated table](creator-studio-admin-app-table.md) for more information.
 
 </td></tr><tr><td>
 
@@ -87,5 +87,5 @@ Dashboard name: \[App Name\] + RequestsContents:
 -   A simple list showing all open requests
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Administering Creator Studio](../concept/administering-creator-studio.md)
+</table>**Parent Topic:**[Administering Creator Studio](administering-creator-studio.md)
 

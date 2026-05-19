@@ -45,5 +45,5 @@ Tracking the usage of view configuration enables you to do the following tasks:
 7.  Select **Close**.
 
 
-**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](../concept/ais-admin-console-managing-evam.md)
+**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](ais-admin-console-managing-evam.md)
 

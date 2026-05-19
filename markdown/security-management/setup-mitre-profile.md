@@ -84,16 +84,16 @@ Describes the actions that an adversary takes while operating within an Industri
 
 After the TAXII profile setup is complete, the MITRE-ATT&amp;CK repository data is imported at regular intervals to the ServiceNow AI Platform®. You can see this data by navigating to **MITRE ATT&amp;CK Repository** &gt; **Matrices** and **MITRE ATT&amp;CK Repository** &gt; **Techniques**.
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](../concept/mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](domain-separation-and-mitre-att-ck.md)
 
 [Manage matrices](view-mitre-collection.md)
 
@@ -127,7 +127,7 @@ After the TAXII profile setup is complete, the MITRE-ATT&amp;CK repository data 
 
 [Create and map detection rules](create-detection-rules.md)
 
-[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](../concept/auto-extract-technique-rules.md#)
+[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](auto-extract-technique-rules.md#)
 
 [Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
 

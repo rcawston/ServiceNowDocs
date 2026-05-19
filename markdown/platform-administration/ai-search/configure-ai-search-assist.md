@@ -65,5 +65,5 @@ If Contextual Search has been configured for the same record producer, and is sh
 
 If these conditions aren't all met, then Contextual Search is the fallback for the same record producer to make sure you see related search results.
 
-**Parent Topic:**[AI Search Assist record producer integration for Service Portal](../concept/ai-search-assist.md)
+**Parent Topic:**[AI Search Assist record producer integration for Service Portal](ai-search-assist.md)
 

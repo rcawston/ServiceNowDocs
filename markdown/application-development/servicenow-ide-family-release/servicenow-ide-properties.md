@@ -54,7 +54,7 @@ sn\_glider.fluent\_convert\_enabled
 Enables converting existing applications that weren't created with the ServiceNow IDE or ServiceNow SDK to support development in source code from the ServiceNow IDE.-   Type: true \| false
 -   Default value: true
 -   Location: Add the property to the System Property \[sys\_properties\] table
--   Learn more: [Convert an application with the ServiceNow IDE](../task/convert-application-servicenow-ide.md)
+-   Learn more: [Convert an application with the ServiceNow IDE](convert-application-servicenow-ide.md)
 
 </td></tr><tr><td>
 

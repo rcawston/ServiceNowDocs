@@ -198,11 +198,11 @@ Date and time that the score was added to this record.
 </table>
 ## Result
 
-The data that you have associated with the third party now appears in reports. See [Viewing risk intelligence scores](../../grc-workspace-vrm/reference/tprm-ws-tab-risk-intel-scores.md) for details. The data appears in the following locations:
+The data that you have associated with the third party now appears in reports. See [Viewing risk intelligence scores](tprm-ws-tab-risk-intel-scores.md) for details. The data appears in the following locations:
 
 -   Risk intelligence scores related list as described in this procedure.
 -   **Risk overview** tab in the workspace.
 -   **Risk intelligence scores** tab in the workspace.
 
-**Parent Topic:**[Integrating scores from risk intelligence providers](../concept/tprm-riskintelprvdr-overview.md)
+**Parent Topic:**[Integrating scores from risk intelligence providers](tprm-riskintelprvdr-overview.md)
 

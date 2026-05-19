@@ -17,14 +17,14 @@ Get your instance ready for the Problem Management Best Practice — Madrid — 
 
 The stages to get your instance ready for the problem state model and to migrate your records are:
 
-1.  [Resolve blocking modifications](../task/resolve-blocking-modifications.md)
-2.  [Review warning modifications](../task/review-warning-modifications.md)
-3.  [Map problem states](../task/map-problem-state.md)
-4.  [Map problem task states](../task/map-problem-task-state.md)
-5.  [Activate Problem Management Best Practice — Madrid — State Model](../task/activate-plugin-problem-management.md)
-6.  [Prepare base plugins](../task/prepare-base-plugins.md)
-7.  [Restore base plugins](../task/restore-base-plugins.md)
-8.  [Resolve blocking and warning modifications](../task/resolve-blocking-warning-modifi.md)
-9.  [Migrate active records](../task/migrate-active-records.md)
-10. [Migrate inactive records](../task/migrate-inactive-records.md)
+1.  [Resolve blocking modifications](resolve-blocking-modifications.md)
+2.  [Review warning modifications](review-warning-modifications.md)
+3.  [Map problem states](map-problem-state.md)
+4.  [Map problem task states](map-problem-task-state.md)
+5.  [Activate Problem Management Best Practice — Madrid — State Model](activate-plugin-problem-management.md)
+6.  [Prepare base plugins](prepare-base-plugins.md)
+7.  [Restore base plugins](restore-base-plugins.md)
+8.  [Resolve blocking and warning modifications](resolve-blocking-warning-modifi.md)
+9.  [Migrate active records](migrate-active-records.md)
+10. [Migrate inactive records](migrate-inactive-records.md)
 

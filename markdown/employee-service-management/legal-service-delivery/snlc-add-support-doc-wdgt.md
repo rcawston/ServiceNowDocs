@@ -109,5 +109,5 @@ Role required: admin
     A supporting document widget is available while editing an own-paper based request.
 
 
-**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](../concept/snlc-config-sn-legal-contracts.md)
+**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](snlc-config-sn-legal-contracts.md)
 

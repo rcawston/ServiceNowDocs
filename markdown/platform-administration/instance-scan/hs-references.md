@@ -20,5 +20,5 @@ Instance Scan is installed with these roles.
 -   **[Instance Scan properties](hs-sys-properties.md)**  
 On the properties form, you can set parameters that control how the instance executes.
 
-**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../../general/concept/maintain-monitor-now-platform.md)
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../maintain-monitor-now-platform.md)
 

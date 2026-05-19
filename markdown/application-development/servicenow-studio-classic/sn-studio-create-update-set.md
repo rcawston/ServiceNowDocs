@@ -44,5 +44,5 @@ Video on how to create an update set in ServiceNow Studio
     The changes you made in your app go to the new update set.
 
 
-**Parent Topic:**[Working with update sets in ServiceNow Studio](../concept/working-with-update-sets-in-servicenow-studio.md)
+**Parent Topic:**[Working with update sets in ServiceNow Studio](working-with-update-sets-in-servicenow-studio.md)
 

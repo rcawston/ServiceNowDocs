@@ -43,5 +43,5 @@ Role required: none
 3.  Click **Submit** and the **Floor Plan** form displays.
 
 
-**Parent Topic:**[Facilities Floor Plan](../concept/c_FacilitiesFloorPlan.md)
+**Parent Topic:**[Facilities Floor Plan](c_FacilitiesFloorPlan.md)
 

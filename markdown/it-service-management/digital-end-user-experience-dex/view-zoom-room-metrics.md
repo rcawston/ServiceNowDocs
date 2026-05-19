@@ -20,7 +20,7 @@ View detailed metrics for your organization's Zoom rooms using DEX.
 Role required: admin
 
 -   Set up DEX for Zoom. For more information, see [Configuring DEX for Zoom](configuring-DEX-for-Zoom.md)
--   Configure advanced monitoring to monitor Zoom calls with DEX. For more details, see [Enable application monitoring](../task/enable-app-monitor.md).
+-   Configure advanced monitoring to monitor Zoom calls with DEX. For more details, see [Enable application monitoring](enable-app-monitor.md).
 
 ## Procedure
 

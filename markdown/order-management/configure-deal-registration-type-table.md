@@ -29,7 +29,7 @@ Configure the deal registration type table to define how a channel partner can b
 
 3.  On the form, fill in the fields.
 
-    To learn more about the fields, see [Deal registration type table fields](../reference/deal-registration-type-table-fields.md).
+    To learn more about the fields, see [Deal registration type table fields](deal-registration-type-table-fields.md).
 
 4.  Select **Submit**.
 
@@ -37,5 +37,5 @@ Configure the deal registration type table to define how a channel partner can b
 -   **[Configure Partner Program Deal Type Relationship table](configure-partner-program-deal-type-relationship-table.md)**  
 Configure the Partner program deal type relationship \(sn\_prm\_dr\_pp\_deal\_type\) table to ensure that the appropriate deal registration types are associated to the accurate partner programs.
 
-**Parent Topic:**[Data model for Deal Registration Management](../concept/data-model-for-deal-registration-management.md)
+**Parent Topic:**[Data model for Deal Registration Management](data-model-for-deal-registration-management.md)
 

@@ -40,5 +40,5 @@ To send inbound events to a ServiceNow instance for Rally, you must use the foll
     For more information, see [Creation of webhooks to send inbound events to DevOps Change Velocity using token](create-webhooks-to-send-inbound-events-to-devops-change-velocity-using-token.md).
 
 
-**Parent Topic:**[Rally integration with DevOps Change Velocity](../concept/rally-devops-integration.md)
+**Parent Topic:**[Rally integration with DevOps Change Velocity](rally-devops-integration.md)
 

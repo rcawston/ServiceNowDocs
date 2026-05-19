@@ -16,7 +16,7 @@ Confirm the installation of the AI Agent Advisor application.
 
 ## Before you begin
 
-All required plugins must be installed before attempting to run AI Agent Advisor. For a list of dependencies, see [Supporting information for AI Agent Advisor](../concept/supporting-information-ai-agent-advisor.md).
+All required plugins must be installed before attempting to run AI Agent Advisor. For a list of dependencies, see [Supporting information for AI Agent Advisor](supporting-information-ai-agent-advisor.md).
 
 Role required: AI Agent Advisor admin \[sn\_agent\_miner.app\_admin\]
 
@@ -68,7 +68,7 @@ Follow these steps to confirm the installation of the AI Agent Advisor plugin.
 
 The AI Agent Advisor application is installed and available to the appropriate user roles.
 
-**Parent Topic:**[Configuring AI Agent Advisor](../concept/configuring-ai-agent-advisor.md)
+**Parent Topic:**[Configuring AI Agent Advisor](configuring-ai-agent-advisor.md)
 
 **Related topics**  
 

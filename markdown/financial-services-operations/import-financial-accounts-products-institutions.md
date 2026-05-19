@@ -35,7 +35,7 @@ Role required: sn\_bom.admin
 
 5.  [Create a transform map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/t_CreateATransformMap.md) to define the field mapping between columns of the import set and columns of the target table.
 
-    For information on target tables, see the table topics in [Financial Services Operations Core](../reference/financial-services-operations-core-data-model.md).
+    For information on target tables, see the table topics in [Financial Services Operations Core](financial-services-operations-core-data-model.md).
 
 6.  Transform the data from the import set table to the target table.
 

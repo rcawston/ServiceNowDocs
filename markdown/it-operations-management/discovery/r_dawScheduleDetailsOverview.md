@@ -85,7 +85,7 @@ Line chart
 
 </td><td>
 
-Trends of discovered CI attributes for this Discovery schedule across the statuses listed in Run History. The anomaly threshold trend reflects the most severe anomaly for this schedule.**Important:** The anomaly threshold only displays when anomaly detection is enabled. For more information, see [Discovery Admin Workspace Settings](../concept/discovery-admin-workspace-setup.md).
+Trends of discovered CI attributes for this Discovery schedule across the statuses listed in Run History. The anomaly threshold trend reflects the most severe anomaly for this schedule.**Important:** The anomaly threshold only displays when anomaly detection is enabled. For more information, see [Discovery Admin Workspace Settings](discovery-admin-workspace-setup.md).
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Line chart
 
 </td><td>
 
-Error trends for this Discovery schedule across the statuses listed in Run History. The anomaly threshold trend reflects the most severe anomaly for this schedule.**Important:** The anomaly threshold only displays when anomaly detection is enabled. For more information, see [Discovery Admin Workspace Settings](../concept/discovery-admin-workspace-setup.md).
+Error trends for this Discovery schedule across the statuses listed in Run History. The anomaly threshold trend reflects the most severe anomaly for this schedule.**Important:** The anomaly threshold only displays when anomaly detection is enabled. For more information, see [Discovery Admin Workspace Settings](discovery-admin-workspace-setup.md).
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Line chart
 
 </td><td>
 
-Run time trends for this Discovery schedule across the statuses listed in Run History. The anomaly threshold trend reflects the most severe anomaly for this schedule.**Important:** The anomaly threshold only displays when anomaly detection is enabled. For more information, see [Discovery Admin Workspace Settings](../concept/discovery-admin-workspace-setup.md).
+Run time trends for this Discovery schedule across the statuses listed in Run History. The anomaly threshold trend reflects the most severe anomaly for this schedule.**Important:** The anomaly threshold only displays when anomaly detection is enabled. For more information, see [Discovery Admin Workspace Settings](discovery-admin-workspace-setup.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Discovery Admin Workspace reference](r_discovery-admin-workspace-reference.md)

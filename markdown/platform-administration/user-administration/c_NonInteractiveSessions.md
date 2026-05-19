@@ -39,7 +39,7 @@ Distinguishing between interactive and non-interactive users increases instance 
 -   Changes all existing users to be interactive users \(web\_service\_access\_only=false\).
 -   Updates the User form to display the **Web Service Access Only** \[web\_service\_access\_only\] field by default.
 
-**Parent Topic:**[Monitoring user activity](../../roles/concept/user-admin-tools-landing.md)
+**Parent Topic:**[Monitoring user activity](user-admin-tools-landing.md)
 
 ## Create a non-interactive user for web services
 

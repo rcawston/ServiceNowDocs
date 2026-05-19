@@ -51,5 +51,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for ModSec Brute force by IP Burst playbook.](../image/playbook-modsec-bruteforce-trigger.png "ModSec Brute force by IP Burst playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for ModSec Brute force by IP Burst](../concept/playbook-modsec-bruteforce-ip.md)
+**Parent Topic:**[Playbook for ModSec Brute force by IP Burst](playbook-modsec-bruteforce-ip.md)
 

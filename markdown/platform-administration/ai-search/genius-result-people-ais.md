@@ -21,7 +21,7 @@ Select **View profile** to see the user's profile.
 
 People Genius Results only support English searches.
 
-The People Genius Result configuration is inactive in the base system. To learn how to activate it, see [Activate People Genius Results](../task/activate-people-genius-results-ais.md).
+The People Genius Result configuration is inactive in the base system. To learn how to activate it, see [Activate People Genius Results](activate-people-genius-results-ais.md).
 
 **Warning:** Don't activate the People Genius Result configuration if your instance has more than 100,000 records in any of the following tables:
 
@@ -32,7 +32,7 @@ The People Genius Result configuration is inactive in the base system. To learn 
 
 These tables are configured as vocabulary sources in the Default AI Search Genius Results Model specified in the People configuration's NLU trigger condition. If your instance has more than 100,000 records in any of the listed tables, training will fail for the NLU model and the People Genius Result configuration won't operate correctly.
 
--   **[Activate People Genius Results](../task/activate-people-genius-results-ais.md)**  
+-   **[Activate People Genius Results](activate-people-genius-results-ais.md)**  
 Enable AI Search's People default Genius Result configuration for use in your search profiles.
 
 **Parent Topic:**[Genius Result configurations in the base system](default-genius-result-configs-ais.md)

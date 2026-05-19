@@ -27,7 +27,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 
 4.  Perform one of the following actions before selecting an install base item on the Create Case form.
 
-    For a description of the field values, see [Case task form](../reference/csm-case-task-form.md).
+    For a description of the field values, see [Case task form](csm-case-task-form.md).
 
     |Field|Action|
     |-----|------|

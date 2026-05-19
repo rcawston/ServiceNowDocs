@@ -42,7 +42,7 @@ In the In progress stage, the request analyst determines all the requirements fo
 
 ## Awaiting request approval
 
-After the request has been reviewed, it reaches this stage where a decision is made regarding its approval or rejection. This stage involves evaluating the raised request. If the request meets the necessary criteria, it’s approved. Otherwise, it may be rejected with the justifications provided to the requester. Requests can be sent for approval to multiple users and can be approved or rejected by any one of them. The **Any Approvers** option enables the request to be closed as soon as it receives an approval or rejection from any of the assigned approvers. For more information, see [Create an approval workflow](../../grc-common/concept/approval-configuration.md).
+After the request has been reviewed, it reaches this stage where a decision is made regarding its approval or rejection. This stage involves evaluating the raised request. If the request meets the necessary criteria, it’s approved. Otherwise, it may be rejected with the justifications provided to the requester. Requests can be sent for approval to multiple users and can be approved or rejected by any one of them. The **Any Approvers** option enables the request to be closed as soon as it receives an approval or rejection from any of the assigned approvers. For more information, see [Create an approval workflow](../grc-common-functions/approval-configuration.md).
 
 ## Cancel a compliance request
 

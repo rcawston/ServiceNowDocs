@@ -48,23 +48,23 @@ Create and develop applications in source code locally in Visual Studio Code Des
 
 The ServiceNow IDE and ServiceNow SDK support developing applications in source code with ServiceNow Fluent, creating JavaScript modules, and using third-party libraries. ServiceNow Fluent is a domain-specific programming language for creating application metadata in code.
 
-The ServiceNow IDE is an implementation of Visual Studio Code for the Web on the ServiceNow AI Platform. The ServiceNow SDK uses Visual Studio Code Desktop locally. For more information, see [Building applications in source code](../../custom-application/concept/building-applications-source-code.md).
+The ServiceNow IDE is an implementation of Visual Studio Code for the Web on the ServiceNow AI Platform. The ServiceNow SDK uses Visual Studio Code Desktop locally. For more information, see [Building applications in source code](../building-applications-source-code.md).
 
 **Are you a developer who wants more control in a centralized user interface?**
 
-Build apps smarter and deliver them faster with the new ServiceNow Studio. ServiceNow Studio empowers platform developers with a modern, unified environment for building on the ServiceNow AI Platform. ServiceNow Studio features streamlined navigation to applications and metadata, integrated low-code tools, efficient tracking and packaging of development work that accelerates development processes and enhances productivity. For more information, see [Exploring ServiceNow Studio](../../servicenow-studio/concept/exploring-servicenow-studio.md).
+Build apps smarter and deliver them faster with the new ServiceNow Studio. ServiceNow Studio empowers platform developers with a modern, unified environment for building on the ServiceNow AI Platform. ServiceNow Studio features streamlined navigation to applications and metadata, integrated low-code tools, efficient tracking and packaging of development work that accelerates development processes and enhances productivity. For more information, see [Exploring ServiceNow Studio](../servicenow-studio-classic/exploring-servicenow-studio.md).
 
 **Need a more general app but still want low-code options?**
 
-App Engine Studio lets you build a broader range of apps than Creator Studio without being a programming pro. For more information, see [Exploring App Engine Studio](../../app-engine-studio/concept/exploring-aes.md).
+App Engine Studio lets you build a broader range of apps than Creator Studio without being a programming pro. For more information, see [Exploring App Engine Studio](../app-engine-studio/exploring-aes.md).
 
 **Want to build an app easily, without code?**
 
-Creator Studio specializes in helping you craft request-fulfillment applications without writing code. For example, an application to request office supplies by filling out a form, and someone approves or denies your request. For more information, see [Exploring Creator Studio](../../creator-studio/concept/exploring-creator-studio.md).
+Creator Studio specializes in helping you craft request-fulfillment applications without writing code. For example, an application to request office supplies by filling out a form, and someone approves or denies your request. For more information, see [Exploring Creator Studio](../creator-studio/exploring-creator-studio.md).
 
 ## Troubleshoot and get help
 
--   To learn more about what's new in the Australia release, see the [ServiceNow SDK release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/servicenow-sdk-rn.md).
+-   To learn more about what's new in the Australia release, see the [ServiceNow SDK release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/servicenow-sdk-rn.md).
 -   [ServiceNow SDK and Fluent Creator Toolbox](https://www.youtube.com/live/PHFZBsbTTtI?si=DbZq3aTEtqUlxpbi&t=2167) video
 -   [ServiceNow SDK examples](https://github.com/ServiceNow/sdk-examples) GitHub repository
 -   [ServiceNow IDE, SDK, and Fluent forum](https://www.servicenow.com/community/servicenow-ide-sdk-and-fluent/bd-p/ide-sdk-fluent-forum) in the ServiceNow Community
@@ -75,7 +75,7 @@ Creator Studio specializes in helping you craft request-fulfillment applications
 **Related topics**  
 
 
-[ServiceNow Fluent](servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
-[JavaScript modules and third-party libraries](javascript-modules-third-party-libraries.md)
+[JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md)
 

@@ -102,5 +102,5 @@ Displays the **Delete** button that deletes the test case from this page and the
     An in-progress banner appears and changes to a completion banner after your test results are ready. The Last run column updates and the last run test cases are moved to the top of the table.
 
 
-**Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](../concept/automated-testing-va-topics.md)
+**Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](automated-testing-va-topics.md)
 

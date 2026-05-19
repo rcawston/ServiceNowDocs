@@ -48,5 +48,5 @@ In the above example,
 
 [Persist an HTTP session across all SOAP calls](persist-session-all-soap-calls.md)
 
-[SOAP direct web service API functions](../../web-services-apis/reference/r_DirectWebServiceAPIFunctions.md)
+[SOAP direct web service API functions](r_DirectWebServiceAPIFunctions.md)
 

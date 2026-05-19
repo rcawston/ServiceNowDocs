@@ -24,7 +24,7 @@ When a package of events that contains events with a custom \(non-supported\) st
 
 -   **[Event Management Connectors domain personalization](domain-separation-connectors-personalization.md)**  
 Create events in different domains for all Event Management connectors using just a single connector instance by personalizing domain separation of Event Management connectors.
--   **[Configure Event Management connectors](../reference/connectors-and-listeners.md)**  
+-   **[Configure Event Management connectors](connectors-and-listeners.md)**  
 Event Management provides many connectors to pull or push events from external devices. Connectors are available from the ServiceNow store as well as from third parties. You can also create custom connectors.
 
 **Parent Topic:**[Event Management](c_EM.md)

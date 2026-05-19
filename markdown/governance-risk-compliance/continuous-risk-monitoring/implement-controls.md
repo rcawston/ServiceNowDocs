@@ -35,7 +35,7 @@ The **Controls** related list contains all of the controls created from the cont
 
     For details, see the following:
 
-    -   [Manage controls](../../grc-policy-and-compliance/concept/c_GRCControls.md)
+    -   [Manage controls](../policy-and-compliance-management/c_GRCControls.md)
     -   [Manage control attestations](../../grc-policy-and-compliance/concept/c_Attestations.md#)
     -   [Manage control indicators](../../grc-policy-and-compliance/concept/manage-indicators-policy-comp.md#)
 3.  The **Percentage of controls implemented** field keeps track of your progress while you implement the controls.

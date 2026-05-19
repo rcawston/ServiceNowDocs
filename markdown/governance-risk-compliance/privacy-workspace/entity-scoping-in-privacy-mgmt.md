@@ -33,7 +33,7 @@ Both these methods are explained in the following sections.
 
     At an inventory level, when business processes, business applications, and other inventory records are mapped with information objects of type Personal information \(PI\), the privacy manager can discover those records that process specific PI information. For details about information objects and their role in Privacy Management, see [Information objects in Privacy Management](information-object-in-privacy.md).
 
-    The following image shows a business process with information objects associated with it. To identify such business applications or processes associated with information objects, the enhanced entity filter capability in the entity scoping functionality is used. For more information, see [Scope entities to discover processing activities with personal information](../task/scope-entities-with-pi.md).
+    The following image shows a business process with information objects associated with it. To identify such business applications or processes associated with information objects, the enhanced entity filter capability in the entity scoping functionality is used. For more information, see [Scope entities to discover processing activities with personal information](scope-entities-with-pi.md).
 
     ![Business process with information objects associated with it.](../image/business-process-with-io.png "Business process with associated information objects")
 
@@ -50,7 +50,7 @@ Both these methods are explained in the following sections.
 
 After the entities are scoped, then, in the applications, only those entities appear that contain personal information.
 
--   **[Scope entities to discover processing activities with personal information](../task/scope-entities-with-pi.md)**  
+-   **[Scope entities to discover processing activities with personal information](scope-entities-with-pi.md)**  
 Determine which entities have and process personal information using the ServiceNow® Configuration Management Database \(CMDB\) application.
 
 **Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)

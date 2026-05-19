@@ -15,7 +15,7 @@ breadcrumb: [Reference, Contract Management Pro for Legal Service Delivery, Inte
 
 The Third-party Contract Review form provides information for a legal request to the legal department to use when reviewing a third-party contract.
 
-For more information, see [Submit a legal request for a third-party contract review](../../legal-simple-contracts/task/submit-legal-request-tpc-review.md).
+For more information, see [Submit a legal request for a third-party contract review](../legal-simple-contracts/submit-legal-request-tpc-review.md).
 
 <table id="table_wtn_xd3_ldb"><thead><tr><th>
 
@@ -149,7 +149,7 @@ Documents
 Contract and supporting documents to be reviewed by the legal department.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Contract Management Pro for Legal Service Delivery reference](../concept/snlc-ref-sn-legal-contracts.md)
+</table>**Parent Topic:**[Contract Management Pro for Legal Service Delivery reference](snlc-ref-sn-legal-contracts.md)
 
 **Related topics**  
 

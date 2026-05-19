@@ -63,5 +63,5 @@ Description
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](../concept/using-now-assist-for-financial-services-operations-fso.md)
+**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](using-now-assist-for-financial-services-operations-fso.md)
 

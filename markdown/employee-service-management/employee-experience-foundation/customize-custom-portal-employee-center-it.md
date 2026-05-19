@@ -105,7 +105,7 @@ For example: `Frame-ancestors 'self' https://teams.microsoft.com *.office.com *.
 </table>    5.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Employee Center](../concept/employee-center-dashboard-admin-it.md)
+**Parent Topic:**[Configuring Employee Center](employee-center-dashboard-admin-it.md)
 
 ## Hide the chat button on the custom portal
 

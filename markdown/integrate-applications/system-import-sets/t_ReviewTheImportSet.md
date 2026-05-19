@@ -34,5 +34,5 @@ Role required: admin.
 
 Create a transform map to associate with this import set.
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

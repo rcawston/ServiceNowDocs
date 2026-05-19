@@ -49,7 +49,7 @@ Demonstrates these options to provide help text for service catalog item variabl
 **Related topics**  
 
 
-[Service Catalog variable attributes](../reference/variable-attributes.md)
+[Service Catalog variable attributes](variable-attributes.md)
 
 [Define a question choice for a variable](define-question-choice-var.md)
 

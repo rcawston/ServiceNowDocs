@@ -38,7 +38,7 @@ Sales agents use the Now Assist for Sales Force Automation \(SFA\) AI agent coll
 
 To learn more about configuring and using Now Assist for Sales Force Automation \(SFA\), see:
 
--   [Configure Now Assist for Sales Force Automation \(SFA\)](../task/configure-now-assist-som.md)
+-   [Configure Now Assist for Sales Force Automation \(SFA\)](configure-now-assist-som.md)
 -   [Use agentic workflows in Now Assist for Sales Force Automation \(SFA\)](using-agentic-worklflows-in-lead-management.md)
 
 **Parent Topic:**[Now Assist for Sales Force Automation \(SFA\)](now-assist-for-sales-and-order-management-som.md)

@@ -22,5 +22,5 @@ The form that appears when you create a record in the Org Support Relationships 
 |**Leader**|Select an organizational leader from the list of users in your organization.|
 |**Supporter**|Select an organizational supporter from the list of users in your organization.|
 
-**Parent Topic:**[Leader Hub reference](../concept/td-lh-reference.md)
+**Parent Topic:**[Leader Hub reference](td-lh-reference.md)
 

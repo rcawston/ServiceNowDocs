@@ -136,5 +136,5 @@ Version of the Message Queue. Default is V2 \(Hermes\)
         **Note:** The timestamps are GMT.
 
 
-**Parent Topic:**[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+**Parent Topic:**[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Manage
 
 View a list of all subscriptions for your SaaS and Single Sign-On \(SSO\) applications.
 
-**Important:** You can view your SaaS and SSO subscriptions in both the Software Asset Management Core UI and the Software Asset Workspace. This topic provides details on viewing your subscriptions in the Software Asset Management Core UI application. For more information on viewing your subscriptions in the Software Asset Workspace, see [SaaS overview dashboard in workspace](../reference/saas-dashboard-workspace.md).
+**Important:** You can view your SaaS and SSO subscriptions in both the Software Asset Management Core UI and the Software Asset Workspace. This topic provides details on viewing your subscriptions in the Software Asset Management Core UI application. For more information on viewing your subscriptions in the Software Asset Workspace, see [SaaS overview dashboard in workspace](../software-asset-management/saas-dashboard-workspace.md).
 
 To view subscriptions for all SaaS and SSO applications, navigate to **All** &gt; **SaaS License** &gt; **All User Subscriptions**.
 
@@ -31,9 +31,9 @@ To view subscriptions for all SaaS and SSO applications, navigate to **All** &gt
 
 You can also view all subscriptions for an application in the Software Subscriptions related list on the software model.
 
--   **[Viewing SSO subscription information](../reference/sso-subscriptions.md)**  
+-   **[Viewing SSO subscription information](sso-subscriptions.md)**  
 You can view information about the Single Sign-On \(SSO\) applications, SSO users, and SSO groups that are associated with your SSO integrations.
--   **[Create an SSO group software model mapping](../task/create-ssogrp-swmodel-mapping.md)**  
+-   **[Create an SSO group software model mapping](create-ssogrp-swmodel-mapping.md)**  
 Create a mapping for an SSO group with a software model to manage your licenses on group level rather than on application level.
 
 **Parent Topic:**[SaaS License Management](sam-subscription-management.md)
@@ -41,7 +41,7 @@ Create a mapping for an SSO group with a software model to manage your licenses 
 **Related topics**  
 
 
-[Request SaaS License Management](../task/request-saas-license-management.md)
+[Request SaaS License Management](request-saas-license-management.md)
 
 [SaaS License Management setup for large companies](saas-setup-large-companies.md)
 
@@ -53,21 +53,21 @@ Create a mapping for an SSO group with a software model to manage your licenses 
 
 [Playbook for SaaS integrations](playbook-saas-integrations.md)
 
-[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)
+[Review a software reclamation rule](add-reclamation-rule-sub.md)
 
 [Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)
 
-[Create a child alias to set up multiple Cisco Webex integration profiles](../task/create-child-alias-webex.md)
+[Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)
 
-[Create a child alias to set up multiple Confluence Cloud integration profiles](../task/create-child-alias-confluence.md)
+[Create a child alias to set up multiple Confluence Cloud integration profiles](create-child-alias-confluence.md)
 
-[Create a child alias to set up multiple Jira integration profiles](../task/create-child-alias-jira.md)
+[Create a child alias to set up multiple Jira integration profiles](create-child-alias-jira.md)
 
-[Associate a user with subscription records](../task/map-user-data.md)
+[Associate a user with subscription records](map-user-data.md)
 
-[Disconnect SSO apps](../task/disconnect-azure-ad-apps.md)
+[Disconnect SSO apps](disconnect-azure-ad-apps.md)
 
 [Delete an integration profile](delete-saas-integration.md)
 

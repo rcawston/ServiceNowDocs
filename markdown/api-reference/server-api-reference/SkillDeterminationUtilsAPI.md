@@ -17,7 +17,7 @@ The SkillDeterminationUtils script include provides utility methods to get or se
 
 This script include requires the Skill Determination \(com.snc.skill\_determination\) plugin and is provided within the `sn_skill_rule` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SkillDeterminationUtils - SkillDeterminationUtils\(\)
 

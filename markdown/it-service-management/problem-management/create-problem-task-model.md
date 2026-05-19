@@ -17,7 +17,7 @@ Create custom Problem Management models with states and transitions tailored to 
 
 ## Before you begin
 
-See considerations for enabling Problem Management models at [Problem Management models](../concept/problem-mgmt-models.md).
+See considerations for enabling Problem Management models at [Problem Management models](problem-mgmt-models.md).
 
 Role required: admin
 
@@ -36,7 +36,7 @@ Role required: admin
 
     3.  On the Problem Task Model form, fill in the fields.
 
-        For more information, see [Problem task model form](../reference/problem-task-model-form.md).
+        For more information, see [Problem task model form](problem-task-model-form.md).
 
 2.  Choose the states for your custom model by selecting **Save** from the form context menu icon \(![Form context menu icon.](../../change-management/image/form-context-menu.png)\).
 
@@ -71,7 +71,7 @@ Role required: admin
 
     2.  On the Model State Transition Condition form, fill in the fields.
 
-        For more information, see [Problem Management model state transition condition form](../reference/problem-model-state-transition-condition.md).
+        For more information, see [Problem Management model state transition condition form](problem-model-state-transition-condition.md).
 
     3.  Select **Submit** for each transition condition you add.
 
@@ -106,9 +106,9 @@ Role required: admin
 
 Your custom problem task model is available as a choice for the roles specified in your interceptor.
 
-**Parent Topic:**[Configuring Problem Management](../concept/configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](configuring-problem-mgmt.md)
 
 **Previous topic:**[Create a problem model](create-problem-model.md)
 
-**Next topic:**[Applying CSDM guidelines to Problem Management](../concept/pm-use-case-product-view.md)
+**Next topic:**[Applying CSDM guidelines to Problem Management](pm-use-case-product-view.md)
 

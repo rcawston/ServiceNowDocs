@@ -23,12 +23,12 @@ Role required: admin
 
 ## Procedure
 
-1.  If you have not installed the application for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the application for the integration, see [Install a Security Operations integration](../install-non-core-apps.md) and follow the steps to install it.
 
 2.  After you’ve installed the application from the ServiceNow Store, configure it to connect to your ServiceNow AI Platform instance.
 
 
-**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+**Parent Topic:**[Microsoft Exchange Online integration](ms-exchange-online-lookups.md)
 
 **Previous topic:**[Set up your Microsoft Azure account](ms-azure-account.md)
 

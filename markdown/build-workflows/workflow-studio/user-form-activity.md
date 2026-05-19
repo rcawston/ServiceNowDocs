@@ -162,7 +162,7 @@ The attachment record containing the attachments that end users can upload durin
 </td></tr></tbody>
 </table>## Advanced inputs
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](activity-definitions.md#activity-experience).
 
 <table id="table_cjj_sr3_plb"><thead><tr><th>
 
@@ -253,7 +253,7 @@ What an activity or stage does during restart:-   **Skip on restart**: The stage
 -   **Run always**: The stage or activity always runs, whether during an initial or restarted run.
 -   **Skip on first run**: The stage or activity runs only on restart. It never runs during an initial run.
 
-To learn more about enabling and configuring restart for playbooks, stages, and activities, see [Configure restart for Playbooks](../task/enable-define-restart.md).
+To learn more about enabling and configuring restart for playbooks, stages, and activities, see [Configure restart for Playbooks](enable-define-restart.md).
 
 **Note:** Select **Show additional options** to see this field.
 

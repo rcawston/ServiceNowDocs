@@ -36,7 +36,7 @@ The following table lists the fields for the Fixed asset details inbound \[sn\_f
 |Remaining value|String|Amount that the fixed asset is worth the current day, after factoring in depreciation.|
 |Salvage value|String|Amount that the fixed asset is worth after it has come to the end of its life.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

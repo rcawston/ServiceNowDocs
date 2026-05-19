@@ -15,7 +15,7 @@ The heatmap data visualization shows the relationship between two table fields o
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](../reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -23,7 +23,7 @@ By observing how cell colors change across each axis, you can observe if there a
 
 ## Procedure
 
-1.  Follow the first steps to [Create a heatmap data visualization](../../reporting/task/create-dv-heatmap-ac.md):
+1.  Follow the first steps to [Create a heatmap data visualization](create-dv-heatmap-ac.md):
 
     1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
@@ -112,5 +112,5 @@ By observing how cell colors change across each axis, you can observe if there a
 
 You have created a heatmap visualization sorted on two values and configured its values, labels, and data updates. You have also configured the visualization's colors.
 
-**Parent Topic:**[Create a heatmap data visualization](../../reporting/task/create-dv-heatmap-ac.md)
+**Parent Topic:**[Create a heatmap data visualization](create-dv-heatmap-ac.md)
 

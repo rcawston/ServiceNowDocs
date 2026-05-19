@@ -75,5 +75,5 @@ Certification results are applied only to fields that are still pending review. 
 
 Certification fields are indicated by a check mark in the column header. Other fields are displayed only to help identify the record.
 
-**Parent Topic:**[Working with data certification](../../concept/eaw-concept/eaw-work-with-data-cert.md)
+**Parent Topic:**[Working with data certification](eaw-work-with-data-cert.md)
 

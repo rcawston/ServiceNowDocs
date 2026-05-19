@@ -19,8 +19,8 @@ Reference topics provide additional information about Agent Client Collector.
 Reference topics provide additional information about mapping and fine-tuning application services using Agent Client Collector Framework lists and forms.
 -   **[Agent Client Collector Monitoring reference](acc-monitoring-reference.md)**  
 Reference topics provide additional information about Agent Client Collector Monitoring checks and policies.
--   **[Agent Client Collector for Visibility - Content reference](../concept/agent-client-collector-for-visibility-references.md)**  
+-   **[Agent Client Collector for Visibility - Content reference](agent-client-collector-for-visibility-references.md)**  
 Review this information for details on OS query scripts, data collected, and definition of terms.
 
-**Parent Topic:**[Agent Client Collector](../concept/acc-landing-page.md)
+**Parent Topic:**[Agent Client Collector](acc-landing-page.md)
 

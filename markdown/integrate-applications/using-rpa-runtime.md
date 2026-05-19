@@ -13,10 +13,10 @@ breadcrumb: [Unattended Robot, Workflow Data Fabric]
 
 You can use the Unattended Robot application to execute unattended automations that are triggered either by a schedule, API, or manually.
 
-**Triggered By** field on the Process Job form determines if a bot process is triggered via Schedule, Manual or API​. For more information, see [Process job form in RPA Hub](../../rpa-hub/task/view-process-jobs-botprocess.md#).
+**Triggered By** field on the Process Job form determines if a bot process is triggered via Schedule, Manual or API​. For more information, see [Process job form in RPA Hub](view-process-jobs-botprocess.md#).
 
--   **[Run an automation using Unattended Robot](../task/run-rpa-robot.md)**  
+-   **[Run an automation using Unattended Robot](run-rpa-robot.md)**  
 Run an unattended robot to execute the unattended automations that are triggered either by a schedule, API, or manually.
 
-**Parent Topic:**[Workflow Data Fabric](../../../build/create-integrations-apps/concept/create-integrations-applications.md)
+**Parent Topic:**[Workflow Data Fabric](create-integrations-applications.md)
 

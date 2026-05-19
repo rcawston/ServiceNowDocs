@@ -17,7 +17,7 @@ After upgrading to Goal Framework for SPM v2.3.0 or later, run the **Migrate Bre
 
 ## About this task
 
-After running the job, the value in the **Check-in frequency** field for a target is populated based on the existing value in the **Review frequency** field of the target. If the existing value in the **Review frequency** field was set to any option other than **None**, then target breakdowns will be created for such targets based on the value in the existing check-in frequency of the target. For more information on how these values are migrated for targets with different values, see [Target breakdowns migration](../concept/target-breakdowns-migration.md).
+After running the job, the value in the **Check-in frequency** field for a target is populated based on the existing value in the **Review frequency** field of the target. If the existing value in the **Review frequency** field was set to any option other than **None**, then target breakdowns will be created for such targets based on the value in the existing check-in frequency of the target. For more information on how these values are migrated for targets with different values, see [Target breakdowns migration](target-breakdowns-migration.md).
 
 ## Before you begin
 
@@ -34,8 +34,8 @@ Role required: admin
 4.  Select **Execute Now**.
 
 
--   **[Target breakdowns migration](../concept/target-breakdowns-migration.md)**  
+-   **[Target breakdowns migration](target-breakdowns-migration.md)**  
 As an administrator, when you run the **Migrate BreakdownInterval To Checkinfrequency** scheduled job, the existing values in the **Review frequency** and **Breakdown interval** fields are migrated to the **Check-in frequency** field in the target records.
 
-**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](../concept/configuring-goal-framework.md)
+**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](configuring-goal-framework.md)
 

@@ -19,10 +19,10 @@ This API requires the Document Management plugin \(com.snc.platform\_document\_m
 
 Before creating a document version, you must first define and add a document record.
 
--   [SystemDocument](../../SystemDocument/concept/SystemDocumentBothAPI.md#) – Define a document object.
--   [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) – Add, update, or delete a document.
+-   [SystemDocument](SystemDocumentBothAPI.md#) – Define a document object.
+-   [DocumentService](DocumentServiceBothAPI.md#) – Add, update, or delete a document.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DocumentVersionService - DocumentVersionService\(\)
 
@@ -44,7 +44,7 @@ Creates a document version record in the Versions \[ds\_document\_version\] tabl
 
 |Name|Type|Description|
 |----|----|-----------|
-|docVersion|[SystemDocumentVersion](../../SystemDocumentVersion/concept/SystemDocumentVersionBothAPI.md#)|One or more properties representing fields of a document version.|
+|docVersion|[SystemDocumentVersion](SystemDocumentVersionBothAPI.md#)|One or more properties representing fields of a document version.|
 
 <table id="table_tj4_p5j_34b" class="returns"><thead><tr><th>
 

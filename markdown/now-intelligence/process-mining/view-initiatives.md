@@ -36,5 +36,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 3.  Select the context menu of an initiative to see further details, edit, or remove it.
 
 
-**Parent Topic:**[Creating and tracking improvement initiatives](../../../product/benchmarks/task/initiatives-from-process-optimization.md)
+**Parent Topic:**[Creating and tracking improvement initiatives](initiatives-from-process-optimization.md)
 

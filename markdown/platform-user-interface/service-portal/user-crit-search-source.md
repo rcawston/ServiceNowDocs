@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-You can add user criteria to custom or default [Configuring search in a portal](../concept/search-service-portal.md).
+You can add user criteria to custom or default [Configuring search in a portal](search-service-portal.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ You can add user criteria to custom or default [Configuring search in a portal](
 6.  Click **Save**.
 
 
-**Parent Topic:**[User criteria for Service Portal](../concept/user-criteria.md)
+**Parent Topic:**[User criteria for Service Portal](user-criteria.md)
 

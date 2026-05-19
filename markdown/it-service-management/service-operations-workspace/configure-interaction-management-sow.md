@@ -15,13 +15,13 @@ breadcrumb: [Configuring Service Operations Workspace for ITSM to improve your e
 
 Configure the features of Interaction Management to manage the interactions in Service Operations Workspace.
 
--   **[Configure the duration to view the requester's activities for an interaction in Service Operations Workspace](../task/configure-days-display-data.md)**  
+-   **[Configure the duration to view the requester's activities for an interaction in Service Operations Workspace](configure-days-display-data.md)**  
 Configure the duration to display requester’s history, consisting of tasks, interactions, and assets. These details are displayed in the Requester Information side panel of Interaction Management record
--   **[Hide the inbox in Service Operations Workspace](../task/hide-inbox-sow-interaction.md)**  
+-   **[Hide the inbox in Service Operations Workspace](hide-inbox-sow-interaction.md)**  
 Hide the inbox automatically when a work item, like a chat or call, is accepted. If disabled, the inbox will remain visible even after accepting a work item.
--   **[Automatically close an interaction in Service Operations Workspace](../task/automatically-close-interaction-sow.md)**  
+-   **[Automatically close an interaction in Service Operations Workspace](automatically-close-interaction-sow.md)**  
 Automatically close the interaction when an incident linked is closed in Service Operations Workspace.
--   **[Configure the display of requester related records in an interaction](../task/configure-order-related-records-interaction.md)**  
+-   **[Configure the display of requester related records in an interaction](configure-order-related-records-interaction.md)**  
 For an interaction, ensure that related records of a requester are displayed as intended for Service Operations Workspace.
 -   **[ITSM Configurable Workspace chat session tabs in SOW](sow-itsm-workspace-chat-session-tabs.md)**  
 Use visual indicators on chat session tabs, such as colors and icons, to alert agents about unread messages and SLA threshold timers.

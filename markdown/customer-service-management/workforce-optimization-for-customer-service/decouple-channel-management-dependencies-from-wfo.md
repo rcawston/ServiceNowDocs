@@ -73,7 +73,7 @@ Role: sn\_channel\_mgmt.admin.
 
 Setting up demo data in Agent Workspace to showcase Channel Management features. The personas involved are an Agent and a Supervisor. The Supervisor creates a customer care assignment group and manage channel configurations and assignments. This group is associated with the customer care chats queue to manage inbound communication effectively. The demo data is provided within Agent Workspace, allowing users to view and interact with it to explore Channel Management functionalities. The validation process includes checking the addition of the new customer care group, populating group members, assigning roles, and ensuring all sections function properly.
 
-For more information on channel management for customer service in workforce optimization, see: [Channel Management in Workforce Optimization for Customer Service](../../workforce-optimization-for-customer-service-configurable/concept/explore-channels-configurable-wfo-cs.md)
+For more information on channel management for customer service in workforce optimization, see: [Channel Management in Workforce Optimization for Customer Service](explore-channels-configurable-wfo-cs.md)
 
-**Parent Topic:**[Configuring Workforce Optimization for Customer Service](../../workforce-optimization-for-customer-service-configurable/concept/setup-configurable-wfo-cs.md)
+**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
 

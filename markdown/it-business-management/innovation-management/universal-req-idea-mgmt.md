@@ -52,11 +52,11 @@ Activate the following plugins if you have the admin role. These plugins are not
 
 Activate other related plugins such as Human Resources Scoped App: Core \(com.sn\_hr\_core\), and Employee Center \(com.snc.employee\_center\) plugins to facilitate inter-department transfers of ideas.
 
--   **[Create an Idea from Universal Request](../task/create-idea-from-ur.md)**  
+-   **[Create an Idea from Universal Request](create-idea-from-ur.md)**  
 Create an idea from a universal request after initial evaluation for a new product, feature, enhancement, or change.
--   **[Idea state mapping](../task/idea-state-mapping.md)**  
+-   **[Idea state mapping](idea-state-mapping.md)**  
 Map your idea states to the Universal Request states to provide a better user experience during the idea state transition and to track the progress of the idea.
--   **[Transfer an Idea to another department](../task/transfer-idea-ur.md)**  
+-   **[Transfer an Idea to another department](transfer-idea-ur.md)**  
 Transfer an idea to another department with or without resolution if the idea is rejected or cannot be implemented.
 
 **Parent Topic:**[Innovation Management](innovation-management-landing.md)

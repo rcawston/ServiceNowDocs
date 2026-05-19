@@ -27,15 +27,15 @@ This application is automatically installed when you install any of the followin
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Financial Services Know Your Customer.](../task/fso-kyc-configure.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Financial Services Know Your Customer.](fso-kyc-configure.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-service-aware.svg) Create, manage, and complete KYC tasks to evaluate applicant information.](../../fso-customer-lifecycle-operations/task/perform-due-diligence.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-service-aware.svg) Create, manage, and complete KYC tasks to evaluate applicant information.](../financial-services-customer-lifecycle-operations/perform-due-diligence.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components, such as roles and tables.](../reference/fso-kyc-installed-with.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components, such as roles and tables.](fso-kyc-installed-with.md)
 
 </td></tr></tbody>
 </table>

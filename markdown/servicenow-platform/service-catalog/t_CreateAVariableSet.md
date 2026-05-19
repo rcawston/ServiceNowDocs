@@ -148,7 +148,7 @@ Description of the variable set.
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Service catalog variable sets](../concept/c_ServiceCatalogVariableSets.md)
+**Parent Topic:**[Service catalog variable sets](c_ServiceCatalogVariableSets.md)
 
 ## Add a variable set to a catalog item or order guide
 

@@ -24,9 +24,9 @@ Role required: admin
 
 ## About this task
 
-[Roles](../reference/components-installed-with-cam.md) are installed with Cloud Workspace.
+[Roles](components-installed-with-cam.md) are installed with Cloud Workspace.
 
-For more information, see [Plugins installed in Cloud Account Management](../../itom-cloud-accelerate/reference/plugin-app-cloud-accelerate.md#section_v5j_yxm_cbc).
+For more information, see [Plugins installed in Cloud Account Management](../itom-cloud-accelerate/plugin-app-cloud-accelerate.md#section_v5j_yxm_cbc).
 
 ## Procedure
 

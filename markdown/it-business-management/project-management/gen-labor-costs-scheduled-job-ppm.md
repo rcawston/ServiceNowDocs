@@ -27,7 +27,7 @@ Role required: admin
 
 3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
-    For a description of the field names, see [Scheduled Script Execution Form](../reference/scheduled-script-execution-form.md).
+    For a description of the field names, see [Scheduled Script Execution Form](scheduled-script-execution-form.md).
 
 4.  Select **Update**.
 
@@ -37,7 +37,7 @@ Role required: admin
 **Related topics**  
 
 
-[Scheduled Script Execution Form](../reference/scheduled-script-execution-form.md)
+[Scheduled Script Execution Form](scheduled-script-execution-form.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 

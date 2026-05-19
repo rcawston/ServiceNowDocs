@@ -19,19 +19,19 @@ When an inbound email is received, the sensitive data is masked. The sensitive d
 
 Redact sensitive data option is available in inbound email actions once the following is activated:
 
--   [Sensitive Data Redaction for Inbound Emails plugin](../task/activate-data-redaction-emails-plugin.md)
+-   [Sensitive Data Redaction for Inbound Emails plugin](activate-data-redaction-emails-plugin.md)
 -   [Data Discovery application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/activate-data-discovery.md)
 
     **Note:** Data Discovery application does not require a paid subscription when used along with sensitive data redaction for inbound emails plugin.
 
 
-To create inbound email actions, see [Create an inbound email action](../task/t_CreatingAnInboundEmailAction.md).
+To create inbound email actions, see [Create an inbound email action](t_CreatingAnInboundEmailAction.md).
 
 Redaction time for the record can be viewed by checking the **Email Log**. For more information, see [System email log and mailboxes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_EmailLogs.md).
 
--   **[Activate sensitive data redaction for inbound emails plugin](../task/activate-data-redaction-emails-plugin.md)**  
+-   **[Activate sensitive data redaction for inbound emails plugin](activate-data-redaction-emails-plugin.md)**  
 You can activate the Sensitive Data Redaction for Inbound Emails plugin \(com.glide.email\_inbound.redaction\) for Notifications if you have the admin role. The application installs related plugins if they are not already installed.
--   **[Customize behavior for sensitive data redaction](../task/customize-data-redaction.md)**  
+-   **[Customize behavior for sensitive data redaction](customize-data-redaction.md)**  
 Customize sensitive data redaction behavior by creating system properties for flows that are triggered by inbound emails, sys\_email record, and inbound actions.
 
 **Parent Topic:**[Use Inbound email actions](use-inbound-email-action.md)

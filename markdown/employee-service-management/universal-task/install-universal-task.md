@@ -25,7 +25,7 @@ Role required: admin
 
 The required Roles and Tables are installed with Universal Task. Ensure that the glide.enforce\_security\_scope.sn\_uni\_task property is set to true in Global scope.
 
-For more information, see [Components installed with Universal Task](../reference/installed-with-uni-task.md).
+For more information, see [Components installed with Universal Task](installed-with-uni-task.md).
 
 ## Procedure
 
@@ -48,8 +48,8 @@ For more information, see [Components installed with Universal Task](../referenc
 5.  Select **Install**.
 
 
--   **[Components installed with Universal Task](../reference/installed-with-uni-task.md)**  
+-   **[Components installed with Universal Task](installed-with-uni-task.md)**  
 Several types of components are installed with activation of the Universal Task application, including tables, user roles, and scheduled jobs.
 
-**Parent Topic:**[Setting up and configuring Universal Task](../concept/set-up-universal-task.md)
+**Parent Topic:**[Setting up and configuring Universal Task](set-up-universal-task.md)
 

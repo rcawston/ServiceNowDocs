@@ -141,7 +141,7 @@ Option to display **No data** as a filter value so that managers can filter thei
 
 [RCA approvals for Manager Hub](run-rca-mh.md)
 
-[Activate a scheduled job](../reference/activate-sj-mh.md)
+[Activate a scheduled job](activate-sj-mh.md)
 
 [Configure important dates](configure-imp-dates.md)
 
@@ -151,7 +151,7 @@ Option to display **No data** as a filter value so that managers can filter thei
 
 [Configure team column data](configure-team-columndata.md)
 
-[Set up View as Direct Reports](../../employee-center/task/view-direct-reportee.md)
+[Set up View as Direct Reports](view-direct-reportee.md)
 
 [Configure daily stats](configure-daily-stats.md)
 

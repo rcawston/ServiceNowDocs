@@ -18,16 +18,16 @@ Security Operations Orchestration saves time by eliminating manual processes and
 To create and access additional orchestration activities that are not available with the standard offering Security Operations products, purchase a full orchestration license.
 
 -   Security Incident Response Orchestration workflows:
-    -   [Security Incident Response- Get Network Statistics flow](../../security-incident-response-orchestration/task/obtain-network-statistics-workflow.md)
-    -   [Security Operations System Command Integration- Get Running Processes flow](../../security-incident-response-orchestration/task/obtain-WMI-retrieval-workflow.md)
-    -   [Create Lookup Request for IoC Changes workflow](../../security-incident-response-orchestration/task/t_CreateScanRequestforIoCChanges.md)
-    -   [Security Operations Integration - Email Search and Delete flow](../../security-operations-common/task/secops-integ-email-search-delete.md)
+    -   [Security Incident Response- Get Network Statistics flow](security-incident-response/obtain-network-statistics-workflow.md)
+    -   [Security Operations System Command Integration- Get Running Processes flow](obtain-WMI-retrieval-workflow.md)
+    -   [Create Lookup Request for IoC Changes workflow](security-incident-response/t_CreateScanRequestforIoCChanges.md)
+    -   [Security Operations Integration - Email Search and Delete flow](secops-integ-email-search-delete.md)
 -   Threat Intelligence Orchestration workflows:
-    -   [Threat Intelligence - Run IoC Lookup workflow](../../threat-intelligence-orchestration/concept/threat-orch-wfs-and-activities.md#)
-    -   [Update security incident with lookup results workflow](../../threat-intelligence-orchestration/task/t_UpdateSecIncScanResults.md)
+    -   [Threat Intelligence - Run IoC Lookup workflow](threat-orch-wfs-and-activities.md#)
+    -   [Update security incident with lookup results workflow](t_UpdateSecIncScanResults.md)
 -   Vulnerability Response Orchestration workflows:
-    -   [Scan vulnerability workflow](../../vulnerability-response-orchestration/task/scan-vulnerability-workflow.md)
-    -   [Scan vulnerability item workflow](../../vulnerability-response-orchestration/task/scan-vulnerable-item-workflow.md)
+    -   [Scan vulnerability workflow](vulnerability-response/scan-vulnerability-workflow.md)
+    -   [Scan vulnerability item workflow](vulnerability-response/scan-vulnerable-item-workflow.md)
 
-**Parent Topic:**[Security Operations common functionality](../../security-operations-common/concept/sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
 

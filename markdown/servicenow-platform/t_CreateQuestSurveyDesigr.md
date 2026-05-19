@@ -31,7 +31,7 @@ The data type that you select for each question determines how it can be answere
 
 3.  On the Properties form, fill in the fields.
 
-    For a description of the field values, see [Properties form](../reference/properties-form-survey-designer.md).
+    For a description of the field values, see [Properties form](properties-form-survey-designer.md).
 
 4.  To create any special conditions that must be met before the question appears on the survey, click the Dependency tab.
 
@@ -58,18 +58,18 @@ The data type that you select for each question determines how it can be answere
 10. To delete a question, click the **X** icon in its title bar.
 
 
-**Parent Topic:**[Survey designer](../concept/c_SurveyDesigner.md)
+**Parent Topic:**[Survey designer](c_SurveyDesigner.md)
 
 **Related topics**  
 
 
-[Survey designer elements](../concept/c_SurveyDesignerElements.md)
+[Survey designer elements](c_SurveyDesignerElements.md)
 
 [Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md)
 
-[Survey categories](../concept/c_SurveyCategory.md)
+[Survey categories](c_SurveyCategory.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
 [Create custom metric type](create-custom-templates-questions.md)
 
@@ -77,7 +77,7 @@ The data type that you select for each question determines how it can be answere
 
 [Configure category weights for a survey](t_ConfigCatWeightsForSurvey.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](c_SurveyQuestionTemplate.md)
 
 [Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
 

@@ -35,7 +35,7 @@ The report a GRC issue AI agent addresses these challenges by providing a guided
 **Related topics**  
 
 
-[Activate the Report a GRC issue AI agent](../../grc-common/concept/activate-the-issue-submission-ai-agent.md)
+[Activate the Report a GRC issue AI agent](activate-the-issue-submission-ai-agent.md)
 
-[Report a GRC issue](../../grc-common/task/report-a-grc-issue.md)
+[Report a GRC issue](report-a-grc-issue.md)
 

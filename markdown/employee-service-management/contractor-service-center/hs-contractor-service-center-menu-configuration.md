@@ -33,12 +33,12 @@ Role required: admin
 
     3.  For a new menu item, fill in the form.
 
-        For form field description, see [Contractor service portal menu item form](../concept/hs-contractor-service-portal-menu-item-form.md)
+        For form field description, see [Contractor service portal menu item form](hs-contractor-service-portal-menu-item-form.md)
 
     4.  Select **Update**.
 
     The menu item appears on the portal.
 
 
-**Parent Topic:**[Configuring Contractor Service Center](../concept/hs-configure-contractor-service-center.md)
+**Parent Topic:**[Configuring Contractor Service Center](hs-configure-contractor-service-center.md)
 

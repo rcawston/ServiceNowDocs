@@ -70,5 +70,5 @@ Field service agents are listed based on the filter criteria. If agents aren’t
 **Related topics**  
 
 
-[Assign work order tasks to agents](../concept/manage-work-order-tasks-dw.md#)
+[Assign work order tasks to agents](manage-work-order-tasks-dw.md#)
 

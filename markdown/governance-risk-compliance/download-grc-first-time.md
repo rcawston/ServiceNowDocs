@@ -41,5 +41,5 @@ For example, when you activate the Risk Management application, the Risk Managem
 **Related topics**  
 
 
-[List of plugins](t_ActivateGRCPandC.md)
+[List of plugins](policy-and-compliance-management/t_ActivateGRCPandC.md)
 

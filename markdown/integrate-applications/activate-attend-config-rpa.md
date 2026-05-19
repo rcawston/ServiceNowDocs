@@ -15,7 +15,7 @@ Activate an attended configuration record to enable the UI action that triggers 
 
 ## Before you begin
 
-Familiarize yourself with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md).
+Familiarize yourself with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md).
 
 Create an attended configuration record. For more information, see [Create an attended configuration record in RPA Hub](create-attended-config-rpa.md).
 
@@ -68,9 +68,9 @@ Action
 
 ## Result
 
-The corresponding UI action is created on the ServiceNow form. On selecting this UI action, if there are any unsaved changes, the save confirmation dialog box is displayed. Otherwise, corresponding bot process \(automation\) is triggered. If the UI action isn’t visible, refer to the visibility conditions. For more information, see [Conditions for the visibility of UI action \(button\)](../reference/visibility-cond-button-rpa.md).
+The corresponding UI action is created on the ServiceNow form. On selecting this UI action, if there are any unsaved changes, the save confirmation dialog box is displayed. Otherwise, corresponding bot process \(automation\) is triggered. If the UI action isn’t visible, refer to the visibility conditions. For more information, see [Conditions for the visibility of UI action \(button\)](visibility-cond-button-rpa.md).
 
-**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md)
+**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md)
 
 **Related topics**  
 
@@ -81,7 +81,7 @@ The corresponding UI action is created on the ServiceNow form. On selecting this
 
 [Edit an attended configuration record in RPA Hub](edit-attended-config-rpa.md)
 
-[Invoke Embedded Task Automation via API in RPA Hub](../concept/create-button-att-config-rpa.md)
+[Invoke Embedded Task Automation via API in RPA Hub](create-button-att-config-rpa.md)
 
-[Conditions for the visibility of UI action \(button\)](../reference/visibility-cond-button-rpa.md)
+[Conditions for the visibility of UI action \(button\)](visibility-cond-button-rpa.md)
 

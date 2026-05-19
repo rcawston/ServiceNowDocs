@@ -63,7 +63,7 @@ Clone the skill to ground it in your environment for your specific needs.
 **Related topics**  
 
 
-[Clone the Now Assist for CSM skills](../concept/clone-the-now-assist-for-csm-skills.md#)
+[Clone the Now Assist for CSM skills](clone-the-now-assist-for-csm-skills.md#)
 
-[Customizing a Now Assist for CSM skill](../concept/customizing-now-assist-skills.md)
+[Customizing a Now Assist for CSM skill](customizing-now-assist-skills.md)
 

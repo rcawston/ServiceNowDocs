@@ -33,7 +33,7 @@ For information on how to work with dashboards in configurable workspaces, see [
 
 For information on how to work with widgets and data visualizations in configurable workspaces, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
--   **[Record producers and catalogs in the procurement workflow](../reference/catalog-items.md)**  
+-   **[Record producers and catalogs in the procurement workflow](catalog-items.md)**  
 Record producers and catalogs ensure the accuracy and availability of the required items in the procurement workflow and standardize the request fulfillment.
 
 **Parent Topic:**[Procurement Case Management](psd-overview.md)

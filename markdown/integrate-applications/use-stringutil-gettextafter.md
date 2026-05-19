@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the GetTextAfter component. For more information about these properties, see [Properties of the String Utilities components](../reference/util-stringutil-prop.md).
+You can configure the properties for the GetTextAfter component. For more information about these properties, see [Properties of the String Utilities components](util-stringutil-prop.md).
 
 ## Procedure
 
@@ -99,5 +99,5 @@ Connects to the Control In port of another component or the default end componen
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[String utilities](../concept/string-utilities.md)
+**Parent Topic:**[String utilities](string-utilities.md)
 

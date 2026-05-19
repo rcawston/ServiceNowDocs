@@ -38,5 +38,5 @@ Role required: sn\_compliance.admin, sn\_compliance.manager, sn\_compliance.user
 
 ## What to do next
 
-If you are implementing the [Policy and Compliance Management](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) software, return to the [Policy and Compliance Management setup checklist](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) and proceed to the next step.
+If you are implementing the [Policy and Compliance Management](../policy-and-compliance-management/policy-compliance-impl-checklist.md) software, return to the [Policy and Compliance Management setup checklist](../policy-and-compliance-management/policy-compliance-impl-checklist.md) and proceed to the next step.
 

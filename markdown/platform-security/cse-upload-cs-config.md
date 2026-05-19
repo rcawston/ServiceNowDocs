@@ -48,5 +48,5 @@ You also need the configuration file generated in the steps detailed in [Configu
 7.  After resolving any conflicts, select **Commit Update Set Batch**.
 
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

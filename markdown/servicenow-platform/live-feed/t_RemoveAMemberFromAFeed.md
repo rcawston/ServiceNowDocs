@@ -30,5 +30,5 @@ Role required: none
 4.  Locate the member you want to remove and click **Remove**.
 
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
 

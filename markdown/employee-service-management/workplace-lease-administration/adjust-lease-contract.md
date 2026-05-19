@@ -40,7 +40,7 @@ To adjust a contract, its state must be Active.
 4.  Select **Submit Adjustments**.
 
 
-**Parent Topic:**[Manage workplace contracts from Core UI](../concept/manage-contracts-from-core-ui.md)
+**Parent Topic:**[Manage workplace contracts from Core UI](manage-contracts-from-core-ui.md)
 
 **Related topics**  
 

@@ -29,10 +29,10 @@ A Scheduled Suite Run record associates a Suite Schedule record with a Test Suit
 
 To determine the browser name and version of a browser you want to use, start a scheduled test runner with that browser, then inspect that runner's record in the [Active Scheduled Test Runners Module](atf-active-sched-runners-module.md).
 
-**Parent Topic:**[Suite schedules](../concept/suite-schedules-module.md)
+**Parent Topic:**[Suite schedules](suite-schedules-module.md)
 
 **Related topics**  
 
 
-[Schedule an automated test suite](../task/atf-sched-suite-steps.md)
+[Schedule an automated test suite](atf-sched-suite-steps.md)
 

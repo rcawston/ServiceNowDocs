@@ -35,7 +35,7 @@ The Innovation Management enables you to gather and evaluate ideas efficiently, 
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)](../reference/innovation-management-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)](innovation-management-reference.md)
 
 </td><td>
 
@@ -52,12 +52,12 @@ Configure Innovation Management application to analyze, track, and promote ideas
 Use the features and capabilities of Innovation Management to capture, analyze, and manage your ideas. As an idea manager, manage submitted ideas by reviewing them, making modifications, or deleting outdated ones, identifying duplicates, and updating and tracking their state.
 -   **[Managing Idea Portal](idea-portal.md)**  
 The Idea Portal is your central location to collect, curate, and promote ideas into demand, project, epic, or story. It enables integration of key feedback and requests into your product planning and development process.
--   **[Analyzing idea metrics using Idea Manager dashboard](../../../use/dashboards/application-content-packs/idea-manager-dashboard.md)**  
+-   **[Analyzing idea metrics using Idea Manager dashboard](idea-manager-dashboard.md)**  
 Review, analyze, and manage your ideas effectively by using the Idea Dashboard manager.
 -   **[Integrating Innovation Management with Universal Request](universal-req-idea-mgmt.md)**  
 Integration of Innovation Management with Universal Request extends the capabilities of Universal Request and enables your employees and agents to create an idea from a universal request.
--   **[Innovation Management reference](../reference/innovation-management-reference.md)**  
+-   **[Innovation Management reference](innovation-management-reference.md)**  
 Reference information to provide additional details about Innovation Management such as the fields, user roles, tables, and guidelines.
 
-**Parent Topic:**[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](../ppm-collaboration/c_ProjectPortfolioSuite.md)
 

@@ -44,7 +44,7 @@ Role required: atf\_test\_admin and atf\_test\_designer
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Working with test step templates](../concept/atf-templates.md)
+**Parent Topic:**[Working with test step templates](atf-templates.md)
 
 **Related topics**  
 

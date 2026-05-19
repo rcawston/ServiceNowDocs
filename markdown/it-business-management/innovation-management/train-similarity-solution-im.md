@@ -50,14 +50,14 @@ When the solution is complete, the similar ideas appear in the Related Ideas sec
 -   Update the similarity score threshold: On the ML Solution form, on the **Solution Statistics** tab, enter the required value in the **Similarity Score Threshold** field. Right-click the ML Solution form and click **Save**.
 -   Test the prediction output for the records: On the ML Solution form, on the **Test solution** tab, enter your text in the **Short description** field and the maximum number of expected results in the **Top N** field, and then click **Run test**. The results above the similarity score threshold value are displayed.
 
-**Parent Topic:**[Managing ideas using Innovation Management](../concept/using-innovation-management.md)
+**Parent Topic:**[Managing ideas using Innovation Management](using-innovation-management.md)
 
 **Related topics**  
 
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Predictive Intelligence for Innovation Management](../concept/predictive-intelligence-for-innovation.md)
+[Predictive Intelligence for Innovation Management](predictive-intelligence-for-innovation.md)
 
 [Submit an idea](submit-idea-in-idea-portal.md)
 

@@ -30,12 +30,12 @@ The Hiring Experiences suite consists of the following applications that work to
 
 | | |
 |---|---|
-|[Hiring tab](hiring-landing.md)|The Hiring tab is a centralized hub for hiring managers, designed to facilitate efficient stakeholder collaboration and drive a streamlined and effective hiring process.|
-|[Recruitment Workspace](recruitment-workspace-landing.md)|The Recruitment workspace centralizes job requisition tracking, boosts hiring efficiency, enhances applicant engagement, and enables recruiters to take smarter decisions with talent insights.|
-|[Interview Management](interview-management-landing.md)|The Interview management application simplifies and optimizes the interview process through structured workflows, flexible scheduling options, automated reminders, and streamlined feedback collection, enabling faster and more collaborative hiring.|
-|[Applicant Center](applicant-center-landing.md)|Applicant Center offers a streamlined and tailored experience for applicants through a dedicated portal, enhancing their overall recruitment experience.|
-|[Talent Profile](talent-profile-landing.md)|Talent profile provides an aggregated view of internal and external talent types, enabling quicker hiring decisions by consolidating information on applicants, employees, contingent workers, and alumni in one place.|
-|[Opportunity Marketplace](../../egd-oppt-mrktplc/concept/egd-oppt-mrktplc-landing.md)|Opportunity Marketplace provides employees an intuitive experience to explore career opportunities.|
+|[Hiring tab](../hr-service-delivery/hiring-landing.md)|The Hiring tab is a centralized hub for hiring managers, designed to facilitate efficient stakeholder collaboration and drive a streamlined and effective hiring process.|
+|[Recruitment Workspace](../recruitment-workspace/recruitment-workspace-landing.md)|The Recruitment workspace centralizes job requisition tracking, boosts hiring efficiency, enhances applicant engagement, and enables recruiters to take smarter decisions with talent insights.|
+|[Interview Management](../interview-management/interview-management-landing.md)|The Interview management application simplifies and optimizes the interview process through structured workflows, flexible scheduling options, automated reminders, and streamlined feedback collection, enabling faster and more collaborative hiring.|
+|[Applicant Center](../applicant-center/applicant-center-landing.md)|Applicant Center offers a streamlined and tailored experience for applicants through a dedicated portal, enhancing their overall recruitment experience.|
+|[Talent Profile](../hr-service-delivery/talent-profile-landing.md)|Talent profile provides an aggregated view of internal and external talent types, enabling quicker hiring decisions by consolidating information on applicants, employees, contingent workers, and alumni in one place.|
+|[Opportunity Marketplace](../opportunity-marketplace/egd-oppt-mrktplc-landing.md)|Opportunity Marketplace provides employees an intuitive experience to explore career opportunities.|
 
 ## Hiring Experiences users
 
@@ -65,11 +65,11 @@ To learn more about configuring and using Hiring Experiences, see:
 
 -   [Configuring Hiring Experiences](config-frmwrk-ta.md)
 -   [Integrations for Hiring Experiences](integrate-with-talent-acquisition.md)
--   [Hiring Experiences reference](../reference/reference-frmwrk-ta.md)
--   [Hiring tab](hiring-landing.md)
--   [Recruitment Workspace](recruitment-workspace-landing.md)
--   [Interview Management](interview-management-landing.md)
--   [Applicant Center](applicant-center-landing.md)
--   [Opportunity Marketplace](../../egd-oppt-mrktplc/concept/egd-oppt-mrktplc-landing.md)
--   [Talent Profile](talent-profile-landing.md)
+-   [Hiring Experiences reference](reference-frmwrk-ta.md)
+-   [Hiring tab](../hr-service-delivery/hiring-landing.md)
+-   [Recruitment Workspace](../recruitment-workspace/recruitment-workspace-landing.md)
+-   [Interview Management](../interview-management/interview-management-landing.md)
+-   [Applicant Center](../applicant-center/applicant-center-landing.md)
+-   [Opportunity Marketplace](../opportunity-marketplace/egd-oppt-mrktplc-landing.md)
+-   [Talent Profile](../hr-service-delivery/talent-profile-landing.md)
 

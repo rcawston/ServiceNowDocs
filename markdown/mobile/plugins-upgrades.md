@@ -13,7 +13,7 @@ breadcrumb: [Before implementation, Configuration detail, Configuring the Mobile
 
 Learn about upgrading to ServiceNow mobile, and how to install plugins to get your users started with the ServiceNow mobile platform.
 
--   **[Mobile plugins](../reference/sg-mobile-plugins.md)**  
+-   **[Mobile plugins](sg-mobile-plugins.md)**  
 Learn about the plugins used to enable ServiceNow mobile on your instance.
 -   **[Migrate from the ServiceNow Classic mobile app to the ServiceNow Mobile Platform](classic-mobile-migration.md)**  
 Migrate from the Mobile Classic app to the Mobile Platform to take advantage of features such as rapid development, offline capabilities, and native mobile device feature integrations.

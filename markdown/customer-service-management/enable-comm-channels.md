@@ -34,7 +34,7 @@ Set up multiple communication channels so that customers can contact you through
 
 Configure communication channels for users to email, call, or chat, and integrate social media channels. This ensures users can reach your team through their preferred method for assistance.
 
--   **[Consumer messaging apps](../task/messg-integrate-channels.md)**
+-   **[Consumer messaging apps](messg-integrate-channels.md)**
 
     Integrate Customer Service Management with consumer messaging apps to deliver a conversational mobile messaging experience for consumers and customer contacts. Customers can message your company using their preferred app to start a conversation with a virtual or live agent. The following consumer messaging apps can be integrated with Customer Service Management: WhatsApp, LINE, Facebook Messenger, and Apple Messages for Business.
 

@@ -19,8 +19,8 @@ Configure Contact Tracing and enable the KINEXON SafeZone tracing system to use 
 
 To successfully enable the KINEXON SafeZone tracing system, note the following requirements:
 
--   The Emergency Outreach application must be installed. For more information, see [Install Emergency Outreach](../../business-continuity/task/install-emergency-outreach.md#).
--   Privacy consent settings for Contact Tracing must be configured. For more information, see [Setting up data privacy consent settings for Contact Tracing](../concept/set-up-privacy-consent-settings.md).
+-   The Emergency Outreach application must be installed. For more information, see [Install Emergency Outreach](../emergency-outreach/install-emergency-outreach.md#).
+-   Privacy consent settings for Contact Tracing must be configured. For more information, see [Setting up data privacy consent settings for Contact Tracing](set-up-privacy-consent-settings.md).
 -   Users must have KINEXON wearable devices managed with KINEXON SafeZone.
 -   Users should have an email address in the **Name** column in the KINEXON SafeZone software. Email addresses are used to match KINEXON users to users in Contact Tracing.
 
@@ -56,7 +56,7 @@ Role required: admin
 
     2.  Add users to the audience.
 
-        For detailed instructions on adding users to an audience, see [Add a Safe Workplace audience](../../employee-readiness-core/task/add-safe-workplace-audience.md)
+        For detailed instructions on adding users to an audience, see [Add a Safe Workplace audience](../employee-readiness-core/add-safe-workplace-audience.md)
 
     3.  Click **Update**.
 
@@ -71,5 +71,5 @@ Role required: admin
 
 You can now use the KINEXON SafeZone tracing system in diagnostic requests. For more information on identifying potentially exposed contacts using diagnostic requests, see [Identify potentially exposed contacts](identify-exposed-contacts.md).
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

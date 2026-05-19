@@ -35,7 +35,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 6.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](change_request_forms.md).
 
 7.  Select **Save**.
 
@@ -45,7 +45,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 9.  On the **Task Attributes** tab, fill in the fields.
 
-    To learn more, see [Task attributes in Add Equipment to Rack or Cabinet form](../reference/task-attributes-add-equipment-rack-cabinet-form.md).
+    To learn more, see [Task attributes in Add Equipment to Rack or Cabinet form](task-attributes-add-equipment-rack-cabinet-form.md).
 
 10. Select **Submit**.
 
@@ -54,5 +54,5 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 The equipment record is added in the Rack view. You can edit the rack. The relationship or affected CIs are also updated with the datacenter or site information.
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 

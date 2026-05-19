@@ -108,7 +108,7 @@ Steps
 -   **[RCA approvals for Now Assist in Contract Management](approve-rca-contracts-spo.md)**  
 Approve restricted caller access \(RCA\) privileges to allow cross-scope access to Now Assist in Contract Management.
 
-**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](../concept/use-now-assist-cmpro-spo.md)
+**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](use-now-assist-cmpro-spo.md)
 
 **Related topics**  
 

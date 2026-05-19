@@ -15,7 +15,7 @@ breadcrumb: [Advanced work assignment for Legal Service Delivery, Integration wi
 
 Use the ServiceNow Advanced Work Assignment for Legal Service Delivery feature to automatically assign legal to agents based on availability, capacity, and skills.
 
-Legal requests can be automatically assigned using assignment rules, Advanced Work Assignment or Predictive Intelligence. For more information, see [Assigning legal request](../../legal-request-management/task/lsd-lr-assignment-landing.md).
+Legal requests can be automatically assigned using assignment rules, Advanced Work Assignment or Predictive Intelligence. For more information, see [Assigning legal request](../legal-request-management/lsd-lr-assignment-landing.md).
 
 -   **[Accept incoming legal request](lsd-awa-accept-legal-req.md)**  
 As a legal fulfiller, accept or reject to an incoming legal request assignment from the Legal Counsel Center Inbox.

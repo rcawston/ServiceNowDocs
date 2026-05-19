@@ -44,5 +44,5 @@ Role required: sn\_si.admin
 7.  Close the **Add content** box.
 
 
-**Parent Topic:**[Security incident treemaps](../concept/c_ConfigureTreemaps.md)
+**Parent Topic:**[Security incident treemaps](c_ConfigureTreemaps.md)
 

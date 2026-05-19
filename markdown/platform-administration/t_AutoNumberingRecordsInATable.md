@@ -91,10 +91,10 @@ Enter the minimum number of digits to use after the prefix \(default value is 7\
     **Note:** To change the default values for new number formats, change the **Default value** field on the system dictionary record for the **Number** or **Number of digits** field. These fields are on the Number table.
 
 
-**Parent Topic:**[Record numbering](../concept/c_ManagingRecordNumbering.md)
+**Parent Topic:**[Record numbering](c_ManagingRecordNumbering.md)
 
 **Related topics**  
 
 
-[System dictionary](../../data-dictionary-tables/concept/c_SystemDictionary.md)
+[System dictionary](table-administration-and-data-management/c_SystemDictionary.md)
 

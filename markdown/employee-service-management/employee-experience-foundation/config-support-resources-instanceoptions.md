@@ -111,7 +111,7 @@ Opt in to show the widget with empty state. Default: Active. You can uncheck thi
 </table>5.  Click **Save**.
 
 
-**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](../concept/emp-center-topic-inst-options.md)
+**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](emp-center-topic-inst-options.md)
 
 **Related topics**  
 

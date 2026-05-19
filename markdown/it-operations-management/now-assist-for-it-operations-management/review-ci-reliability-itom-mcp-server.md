@@ -52,5 +52,5 @@ Role required: sn\_sow\_slo.slo\_operator
 
 ## What to do next
 
-If you created an SLO, you can learn more about SLOs, including SLO types and compliance periods, in [Working with reliability metrics](../../slo-management/concept/sr-work-SLI-SLO.md). To edit or deactivate an SLO, see [Edit a reliability metric](../../slo-management/task/sr-edit-sli-slo.md).
+If you created an SLO, you can learn more about SLOs, including SLO types and compliance periods, in [Working with reliability metrics](../service-level-objective-management/sr-work-SLI-SLO.md). To edit or deactivate an SLO, see [Edit a reliability metric](../service-level-objective-management/sr-edit-sli-slo.md).
 

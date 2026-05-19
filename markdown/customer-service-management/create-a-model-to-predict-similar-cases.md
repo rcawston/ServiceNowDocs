@@ -84,5 +84,5 @@ By following these steps, you successfully activate the Recommended Actions feat
 
 Result: On opening a case, the recommendations section with two tabs: Search and Suggested Actions is displayed. The recommendations are displayed under Suggested Actions.
 
-Find out how to [Create a custom similar case model](create-a-custom-similar-case-model.md), [Edit a model](../task/edit-a-case-prediction-model.md), and [Export a model](../task/export-a-task-intelligence-model.md)
+Find out how to [Create a custom similar case model](create-a-custom-similar-case-model.md), [Edit a model](edit-a-case-prediction-model.md), and [Export a model](export-a-task-intelligence-model.md)
 

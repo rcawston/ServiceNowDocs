@@ -27,7 +27,7 @@ Go to **Query Generation** &gt; **Administration** &gt; **Logs** to inspect fail
 |"Unable to understand" response|System cannot find a matching table|Improve entity description; rephrase with table name; verify AI search is running; verify that all Indexed Sources are fully processed.|
 |Wrong table selected|Similar table names, no disambiguation|Add semantic usage instructions to differentiate.|
 |Wrong table selected \(permissions\)|User lacks read access to the intended table or fields.|Verify and grant table and field read ACLs for the intended data.|
-|"Error accessing table data" or "Scope access not granted" response|Some data is in protected application scopes that AI Data Explorer cannot access.|Create ACLs granting access to the scope for AI Data Explorer. Approve the subsequently generated Restricted Caller Access \(RCA\) records. For more information, see [Enabling access to protected scope applications for AI Data Explorer and Query Generation](../concept/enable-aide-secure-scope-apps.md).|
+|"Error accessing table data" or "Scope access not granted" response|Some data is in protected application scopes that AI Data Explorer cannot access.|Create ACLs granting access to the scope for AI Data Explorer. Approve the subsequently generated Restricted Caller Access \(RCA\) records. For more information, see [Enabling access to protected scope applications for AI Data Explorer and Query Generation](enable-aide-secure-scope-apps.md).|
 |Missing field in results|Dimension turned off, unclear label, or field not in semantic layer|Check dimension is active; update label.|
 |Related fields not pulled in|Referenced table missing from semantic layer or reference dimension turned off|Add and enable the referenced table entity; enable the reference dimension.|
 |Wrong filter applied|Bad segment match|Fix segment name and description; disable the segment.|
@@ -78,10 +78,10 @@ Go to **Query Generation** &gt; **Administration** &gt; **Logs** to inspect fail
 |Utterance bank results|Similar examples extracted from utterance bank|No|
 |Utterance bank time|Amount of time spent searching the utterance bank|No|
 
-**Parent Topic:**[Query Generation reference](../concept/query-generation-reference.md)
+**Parent Topic:**[Query Generation reference](query-generation-reference.md)
 
 **Related topics**  
 
 
-[Common AI Data Explorer issues and fixes](../../ai-data-explorer/concept/ai-data-explorer-troubleshooting.md)
+[Common AI Data Explorer issues and fixes](ai-data-explorer-troubleshooting.md)
 

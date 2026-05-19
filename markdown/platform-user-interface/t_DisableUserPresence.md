@@ -30,5 +30,5 @@ Enabling the property turns off all user presence features.
 3.  Set the **Value** to **true**.
 
 
-**Parent Topic:**[User presence](../concept/c_UserPresence.md)
+**Parent Topic:**[User presence](c_UserPresence.md)
 

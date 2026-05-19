@@ -13,7 +13,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 Several types of components are installed with the Field Service Capacity and Reservations Management feature, including tables, business rules, scheduled jobs, and script includes.
 
-Install the Field Service Contractor Management plugin \(com.snc.fsm\_contractor\_management\) to take the external groups into account while reserving, defining, and assigning the work capacity. For more information, see [Activate Field Service Contractor Management](../task/activate-contractor-management-plugin.md).
+Install the Field Service Contractor Management plugin \(com.snc.fsm\_contractor\_management\) to take the external groups into account while reserving, defining, and assigning the work capacity. For more information, see [Activate Field Service Contractor Management](workforce-optimization-for-field-service/activate-contractor-management-plugin.md).
 
 Activation of Field Service Capacity and Reservations Management adds the Capacity Management menu to the application navigator and the following modules:
 

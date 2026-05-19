@@ -30,5 +30,5 @@ Role required: sn\_shop.shopping\_hub\_admin or sn\_shop.procurement\_administra
 4.  Select **Update**.
 
 
-**Parent Topic:**[Purchase modification configuration](../concept/purchase-modification-configuration.md)
+**Parent Topic:**[Purchase modification configuration](purchase-modification-configuration.md)
 

@@ -39,5 +39,5 @@ Tool Connection Status \(sn\_devops\_tool\_connection\_status\) table contains t
 
 REST\_RATE\_LIMIT\_ERROR will be logged in DevOps error logs. Also, the tool under throttle will have **Throttled** status.
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

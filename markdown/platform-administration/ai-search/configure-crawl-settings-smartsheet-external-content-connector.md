@@ -86,7 +86,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude attachments with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](file-extensions-ext-cont-connector.md).
 
 8.  Select **Save and validate**.
 
@@ -99,5 +99,5 @@ The Smartsheet external content connector is updated with your modified crawl se
 
 To retrieve content from your Smartsheet source system using your modified crawl settings, create and run a one-time content crawl for your Smartsheet external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Smartsheet external content connector](../concept/smartsheet-external-content-connector.md)
+**Parent Topic:**[Smartsheet external content connector](smartsheet-external-content-connector.md)
 

@@ -140,7 +140,7 @@ Attachments can include related information such department details of the team 
 
 10. Fill in the form with the role details.
 
-    To read more details about the role form and fields, see [Form fields for creating opportunities in Opportunity Marketplace](../reference/egd-oppt-mrktplc-oppty-form-fields.md).
+    To read more details about the role form and fields, see [Form fields for creating opportunities in Opportunity Marketplace](egd-oppt-mrktplc-oppty-form-fields.md).
 
 11. Select **Add role to team**.
 
@@ -153,5 +153,5 @@ Attachments can include related information such department details of the team 
 14. When you’re satisfied with your opportunity, select **Publish**.
 
 
-**Parent Topic:**[Use Opportunity Marketplace](../concept/egd-oppt-mrktplc-using.md)
+**Parent Topic:**[Use Opportunity Marketplace](egd-oppt-mrktplc-using.md)
 

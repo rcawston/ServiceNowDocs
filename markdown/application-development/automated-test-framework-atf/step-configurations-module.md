@@ -15,9 +15,9 @@ breadcrumb: [Administration, Automated Test Framework \(ATF\) reference, Automat
 
 Step configuration records define how each type of step behaves.
 
--   **[Automated Test Framework Step Config record](../reference/atf-step-config-record.md)**  
+-   **[Automated Test Framework Step Config record](atf-step-config-record.md)**  
 The step config record controls how a test step of this type behaves.
--   **[Examples of step config field values](../reference/atf-step-config-xmpls.md)**  
+-   **[Examples of step config field values](atf-step-config-xmpls.md)**  
 Examples of where the system displays values assigned to some of the step config fields.
 -   **[Step execution scripts](atf-config-script.md)**  
 In a step configuration record, the step execution script field determines what a step with this configuration does when it runs.
@@ -26,5 +26,5 @@ In a step configuration record, the step description generation script field det
 -   **[Add output variables to scripted steps](scripting_atf.md#)**  
 Execute the following steps to add additional outputs in Run Server Side Script and Custom Scripted StepConfig test steps.
 
-**Parent Topic:**[Administration](../reference/atf-test-admin-module.md)
+**Parent Topic:**[Administration](atf-test-admin-module.md)
 

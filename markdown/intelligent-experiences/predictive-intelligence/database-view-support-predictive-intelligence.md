@@ -45,5 +45,5 @@ To use a database view in your similarity solution, instead of selecting a table
 
 ![Your database view configured to your similarity solution](../images/database-view-support-predictive-intelligence4.png)
 
-**Parent Topic:**[Configure Predictive Intelligence](../task/configure-predictive-intelligence.md)
+**Parent Topic:**[Configure Predictive Intelligence](configure-predictive-intelligence.md)
 

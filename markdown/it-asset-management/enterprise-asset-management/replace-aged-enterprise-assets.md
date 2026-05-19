@@ -76,7 +76,7 @@ Action
 
     You can source items in the request by consuming the local stock, through purchase orders, or through transfer orders.
 
-    For more details on sourcing items, see [Sourcing items in a service catalog request](../../procurement/concept/c_SourcingRequestItems.md).
+    For more details on sourcing items, see [Sourcing items in a service catalog request](../procurement/c_SourcingRequestItems.md).
 
     After the new asset is received, the following events happens:
 

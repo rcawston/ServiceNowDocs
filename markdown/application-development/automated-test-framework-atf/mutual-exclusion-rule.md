@@ -57,7 +57,7 @@ You can mark tests as mutually exclusive using any of the following methods.
 
 [Parallel testing](parallel-testing.md)
 
-[Accelerate ATF tests failure resolution](../task/atf-test-triage.md)
+[Accelerate ATF tests failure resolution](atf-test-triage.md)
 
 [Performance profiling](atf-perf-prof.md#)
 

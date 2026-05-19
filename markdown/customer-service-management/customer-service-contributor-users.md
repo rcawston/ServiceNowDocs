@@ -195,7 +195,7 @@ This user can:
 -   Search for knowledge articles to assist with the case task.
 
 </td></tr></tbody>
-</table>The contributor user roles are available with different CSM plugins. For a more detailed description of these user roles, see [Contributor user roles](../reference/csm-contributor-user-roles.md).
+</table>The contributor user roles are available with different CSM plugins. For a more detailed description of these user roles, see [Contributor user roles](csm-contributor-user-roles.md).
 
 ## Fields added to the Case form
 
@@ -372,7 +372,7 @@ Displays filters depending on the relationships established for this user. -   *
 -   **My Cases for Consumers**: Cases created by the contributor user on behalf of consumers or households where the user is a Relationship Manager.
 -   **All Cases for Consumers**: All cases created on behalf of consumers or households where the user is a Relationship Manager, independent of who created the case.
 
- For more information, see [Service Model Foundation relationships](../reference/csm-data-model-relationships.md).
+ For more information, see [Service Model Foundation relationships](csm-data-model-relationships.md).
 
 </td></tr></tbody>
 </table>## Access to case tasks
@@ -484,7 +484,7 @@ Users with the case task agent role have read-only access to some of the custome
 **Related topics**  
 
 
-[Contributor user roles](../reference/csm-contributor-user-roles.md)
+[Contributor user roles](csm-contributor-user-roles.md)
 
-[Configure Contributor Users](../task/config-contributor-user.md)
+[Configure Contributor Users](config-contributor-user.md)
 

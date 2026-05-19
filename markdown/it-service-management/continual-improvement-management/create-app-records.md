@@ -109,7 +109,7 @@ If you have not been assigned the required roles, contact your system administra
 
 ## Result
 
-The application record is created and UI changes display on the source improvement initiative or CIM task record and corresponding application records. For more information, see [Updates after application record creation from improvement initiatives](../reference/updates-app-record-from-initiative.md).
+The application record is created and UI changes display on the source improvement initiative or CIM task record and corresponding application records. For more information, see [Updates after application record creation from improvement initiatives](updates-app-record-from-initiative.md).
 
 **Parent Topic:**[Create an improvement request](create-cim-request.md)
 

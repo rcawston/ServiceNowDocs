@@ -51,10 +51,10 @@ For valid records, you can directly trigger the Configuration Management Databas
 
 To resolve invalid or partially invalid records, you can optionally create remediation tasks. For more information, see [Create a remediation task for invalid staging records](create-remediation-task-for-validation-errors.md).
 
--   **[Managing Validations](../concept/managing-validations.md)**  
+-   **[Managing Validations](managing-validations.md)**  
 Validation enables you to review and manage the imported data in the staging table.
 -   **[Preview existing OT records in the CMDB](preview-existing-asset-records.md)**  
 Preview existing Operational Technology \(OT\) device records in the Configuration Management Database \(CMDB\) before you import any new records from the staging table. By previewing existing records, you can avoid reconciling or merging unrelated records.
 
-**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](../concept/use-excel-sgc-through-import-tasks.md)
+**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](use-excel-sgc-through-import-tasks.md)
 

@@ -15,12 +15,12 @@ In the Assessments application, when the system processes completed questionnair
 
 Assessment administrators can view assessment results.
 
-The system calculates [metric results](../task/t_ViewAMetricResult.md) first, normalizes the scores, and then calculates [category results](../task/t_ViewAMetricResult.md). Each metric and category result record stores data from one assessment group, for a particular category and source record evaluated. Specifically:
+The system calculates [metric results](t_ViewAMetricResult.md) first, normalizes the scores, and then calculates [category results](t_ViewAMetricResult.md). Each metric and category result record stores data from one assessment group, for a particular category and source record evaluated. Specifically:
 
 -   Metric results: store data calculated from one evaluation of one metric.
 -   Category results: store data calculated from a weighted average of all metrics in the category.
 
-**Note:** Although results data is available to view in the form of metric and category result records, the most meaningful way to view results is in [scorecards](../task/t_ViewAnAssessmentScorecard.md) and decision matrixes. These tools display only the most pertinent data in graphical, comparative formats.
+**Note:** Although results data is available to view in the form of metric and category result records, the most meaningful way to view results is in [scorecards](t_ViewAnAssessmentScorecard.md) and decision matrixes. These tools display only the most pertinent data in graphical, comparative formats.
 
 ## Excluded Responses
 
@@ -37,5 +37,5 @@ After a survey or assessment is submitted, any attachments that have been added 
 
 **Note:** You cannot add or remove attachments from a metric result.
 
-**Parent Topic:**[View a metric result](../task/t_ViewAMetricResult.md)
+**Parent Topic:**[View a metric result](t_ViewAMetricResult.md)
 

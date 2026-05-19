@@ -30,7 +30,7 @@ Security tag rules provide filtering for security tag access.
 
 4.  Security tags are displayed in a list grouped by Security tag groups.
 
-5.  Choose or [create a security tag](../../security-operations-common/task/create-class-group-and-tags.md).
+5.  Choose or [create a security tag](create-class-group-and-tags.md).
 
 6.  In the **Security Tag Rules** related tab, select **New**.
 

@@ -24,7 +24,7 @@ An asset bundle comprises consumable and hardware assets.
 |Logitech mouse PB567VT|consumable|
 |Apple keyboard MT65021R|consumable|
 
-Asset bundles are based on bundled models. A bundled model is a grouping of models. For more information on bundled models, see [Bundled models](../../product-catalog/concept/c_CreatingBundledModels.md).
+Asset bundles are based on bundled models. A bundled model is a grouping of models. For more information on bundled models, see [Bundled models](../product-catalog/c_CreatingBundledModels.md).
 
 Existing assets from stockrooms are used to create an asset bundle. Only assets that are in the **In stock** status and **Available** substatus are added to an asset bundle. If you want to exclude any assets, you must remove the asset from the bundle. For more information about asset exclusion, see [Hardware Asset Management license exclusion](ham-license-exclusion.md). Assets that are part of an asset bundle aren’t available as individual assets. No CIs are associated with an asset bundle.
 
@@ -38,7 +38,7 @@ You can retire an asset bundle and release all the assets belonging to the bundl
 
 Assets belonging to a bundle are excluded from sourcing, transfer orders, and disposal orders flows.
 
-For more information on creating asset bundles, see [Manage asset bundles from your inventory](../task/create-bundled-assets.md).
+For more information on creating asset bundles, see [Manage asset bundles from your inventory](create-bundled-assets.md).
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 

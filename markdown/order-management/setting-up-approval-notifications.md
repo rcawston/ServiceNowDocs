@@ -40,19 +40,19 @@ The notification framework handles various approval scenarios in the approval pr
 
     Both simple and consolidated approval emails are handled through a single notification definition, with different rendering logic used to generate the appropriate message format. These approval request emails can be delivered as mobile push notifications, if approvers are using the ServiceNow Mobile app, and Advanced Approval push notifications is set as a push notification channel in the notification preferences.
 
-    **Note:** Ad-hoc approvers receive a simple approval notification. Or they can approve or reject a request from a step in the General chain in the approval workflow interface. For more information on ad-hoc approvers, see [Add approvers to an approval request](../task/add-approver.md).
+    **Note:** Ad-hoc approvers receive a simple approval notification. Or they can approve or reject a request from a step in the General chain in the approval workflow interface. For more information on ad-hoc approvers, see [Add approvers to an approval request](add-approver.md).
 
 -   **Approval Reminder**
 
     Approval Reminder notifications are sent to approvers automatically when the **Send auto reminders** and **Reminder schedule** features are set in the approval configuration by your approval rule admin. Each reminder is a separate email and is sent at the time specified in the reminder schedule, which is triggered by a scheduled job.
 
-    The system generates the first reminder, subsequent reminders, and a final reminder that could lead to escalation, if the escalation feature is set for the approval configuration. For details on setting approval reminders, see [Create an approval configuration](../task/create-approval-configuration.md).
+    The system generates the first reminder, subsequent reminders, and a final reminder that could lead to escalation, if the escalation feature is set for the approval configuration. For details on setting approval reminders, see [Create an approval configuration](create-approval-configuration.md).
 
 -   **Approval Request for Overrides**
 
     With overrides, an approval admin for the ServiceNowAI platform who also has the requester role can approve or reject an approval request on behalf of other approvers. For example, the approval admin might need to unblock an approval step when the step is no longer needed. The approval admin uses the **Override** option in the step card in the approval workflow interface.
 
-    When an override occurs, original approvers receive a notification stating that their action is no longer required because the approval was overridden. For more information on overrides, see [Override an approver](../task/override-approval-step.md).
+    When an override occurs, original approvers receive a notification stating that their action is no longer required because the approval was overridden. For more information on overrides, see [Override an approver](override-approval-step.md).
 
 -   **Notify approval request approvers**
 

@@ -13,9 +13,9 @@ breadcrumb: [Outlook Actionable Messages, Survey administration, Use surveys, Su
 
 Customize the body message for a request, change, and request item approval sent in Microsoft Outlook.
 
--   **[Customize fields in the approval message for request](../task/customize-fields-request.md)**  
+-   **[Customize fields in the approval message for request](customize-fields-request.md)**  
 Customize the body message for a request and request item sent in Microsoft Outlook.
--   **[Customize fields in the approval message for change request](../task/customize-fields-change.md)**  
+-   **[Customize fields in the approval message for change request](customize-fields-change.md)**  
 Customize the body message for a change request approval sent in Microsoft Outlook.
 
 **Parent Topic:**[Outlook Actionable Messages](outlook-actionable-messages.md)

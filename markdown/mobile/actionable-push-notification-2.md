@@ -45,5 +45,5 @@ Role required: admin
 2.  Right-click the form header and click **Save**.
 
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](actionable-push-notification.md)
 

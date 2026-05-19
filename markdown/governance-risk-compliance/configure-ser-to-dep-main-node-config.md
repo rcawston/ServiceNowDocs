@@ -19,7 +19,7 @@ Role required: sn\_oper\_res.admin
 
 ## About this task
 
-For the configuration sequence and instructions in Operational Resilience, see [Configuring Operational Resilience](../concept/configure-operational-resilience.md).
+For the configuration sequence and instructions in Operational Resilience, see [Configuring Operational Resilience](configure-operational-resilience.md).
 
 For instructions on creating the Main node configuration records, see [Configure the Main node configurations](set-up-main-node.md).
 
@@ -31,7 +31,7 @@ For instructions on creating the Main node configuration records, see [Configure
 
 2.  Ensure that you have set up the pillars, entity types, entity filters and entities are generated.
 
-    Refer to the configuration instructions on the [Configuring Operational Resilience](../concept/configure-operational-resilience.md) page.
+    Refer to the configuration instructions on the [Configuring Operational Resilience](configure-operational-resilience.md) page.
 
 3.  Ensure that you have the Data Relationships Framework application, which is available by default, is available in your instance.
 
@@ -43,7 +43,7 @@ For instructions on creating the Main node configuration records, see [Configure
 
 5.  To create a new Main configuration record, select **New**.
 
-    For descriptions of all the fields in the form, see [Main node configuration form](../reference/main-node-config-form.md).
+    For descriptions of all the fields in the form, see [Main node configuration form](main-node-config-form.md).
 
 6.  Add the name for the configuration as **Service to Dependencies**.
 
@@ -69,7 +69,7 @@ For instructions on creating the Main node configuration records, see [Configure
 
     ![Record.](../image/node-rel-config-new-record.png)
 
-    For description of the fields, see [Relationship registry record form](../reference/rel-registry-record-form.md).
+    For description of the fields, see [Relationship registry record form](rel-registry-record-form.md).
 
 12. Select the table of your choice in the **Source table** field in the **Source** tab.
 

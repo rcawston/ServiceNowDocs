@@ -29,7 +29,7 @@ The following items are installed with Personal Lines Servicing.
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Personal Lines Servicing](../reference/installed-with-ins-policy-ops.md).
+For more information, see [Components installed with Personal Lines Servicing](installed-with-ins-policy-ops.md).
 
 ## Procedure
 
@@ -52,5 +52,5 @@ For more information, see [Components installed with Personal Lines Servicing](.
 5.  Select **Install**.
 
 
-**Parent Topic:**[Personal Lines Servicing](../concept/fso-ins-personal-policy-ops-landing-page.md)
+**Parent Topic:**[Personal Lines Servicing](fso-ins-personal-policy-ops-landing-page.md)
 

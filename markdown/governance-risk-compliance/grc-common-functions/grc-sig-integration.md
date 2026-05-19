@@ -17,10 +17,10 @@ The Shared Assessments Standardized Information Gathering Questionnaire \(SIG\) 
 
 GRC: SIG Questionnaire Integration version 20.1.x has SIG templates for 2025, 2024, 2023, 2022, and 2021. If a vendor uploads a version prior to the 2021 SIG, all responses for matching questions are imported and any responses for questions that don’t match are imported with empty responses for the vendor to answer later.
 
--   **[Install the GRC: SIG Questionnaire Integration](../task/install-grc-sig-plugin.md)**  
+-   **[Install the GRC: SIG Questionnaire Integration](install-grc-sig-plugin.md)**  
 The GRC: SIG Questionnaire Integration plugin installs the SIG questionnaire templates for use with the GRC: Third-party Risk Management application.
--   **[Verify the SIG Questionnaire Integration in Third-party Risk Management](../task/verify-grc-sig-vendor-risk.md)**  
+-   **[Verify the SIG Questionnaire Integration in Third-party Risk Management](verify-grc-sig-vendor-risk.md)**  
 After installing SIG Questionnaire Integration, verify that the SIG questionnaire templates are available within the Third-party Risk Management application.
 
-**Parent Topic:**[Governance, Risk, and Compliance integrations](../../grc-common/reference/grc-integrations.md)
+**Parent Topic:**[Governance, Risk, and Compliance integrations](grc-integrations.md)
 

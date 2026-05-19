@@ -21,7 +21,7 @@ Role required: flow\_designer or admin
 
 ## About this task
 
-You can only delete flows that are in the same application scope as the current session. You can't delete flows that are read-only protected. If your instance uses domain separation, make sure that you are in the Global scope. For more information, see [Domain separation and Workflow Studio](../concept/flow-designer-domain-separation.md).
+You can only delete flows that are in the same application scope as the current session. You can't delete flows that are read-only protected. If your instance uses domain separation, make sure that you are in the Global scope. For more information, see [Domain separation and Workflow Studio](flow-designer-domain-separation.md).
 
 ## Procedure
 

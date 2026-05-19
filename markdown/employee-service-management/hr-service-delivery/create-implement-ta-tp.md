@@ -44,12 +44,12 @@ The Talent profile extension point has four default implementations that pull in
 
 4.  On the Create implementation form, fill in the fields.
 
-    For a description of the field values, see [Create implementation form](../reference/implementation-ref-ta-tp.md).
+    For a description of the field values, see [Create implementation form](implementation-ref-ta-tp.md).
 
 
 ## Result
 
 You've created an implementation for the sn\_ta\_tp.TalentProfileExtPoint extension point. Use it to have a customized talent type.
 
-**Parent Topic:**[Configuring Talent profile](../concept/config-tp.md)
+**Parent Topic:**[Configuring Talent profile](config-tp.md)
 

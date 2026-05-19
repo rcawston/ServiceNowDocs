@@ -25,11 +25,11 @@ Use the manage contract repository agentic workflow to improve productivity by e
 
 -   The data access permissions must be set for the Now Assist skills, contract metadata extraction, and contract obligation extraction.
 
-    For more information, see [Configure data permissions for Now Assist skills](../task/cmpro-conf-roles-skills.md).
+    For more information, see [Configure data permissions for Now Assist skills](cmpro-conf-roles-skills.md).
 
--   To run the AI agents autonomously, ensure that the business rules for the agentic workflow are activated. For more information, see [Activate business rules for the Manage contract repository agentic workflow](../task/conf-repository-agentic-ai.md).
+-   To run the AI agents autonomously, ensure that the business rules for the agentic workflow are activated. For more information, see [Activate business rules for the Manage contract repository agentic workflow](conf-repository-agentic-ai.md).
 
-    If you have customized the manage contract repository agentic workflow, make sure to update the script include to run it autonomously. For more information, see [Update the contracts AI agents handler script include](../task/cmpro-script-includ-agenticAI.md).
+    If you have customized the manage contract repository agentic workflow, make sure to update the script include to run it autonomously. For more information, see [Update the contracts AI agents handler script include](cmpro-script-includ-agenticAI.md).
 
 -   To view the agentic workflow in the Now Assist panel, turn on the Now Assist panel. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
@@ -47,7 +47,7 @@ The following workflow explains the metadata extraction and contract reminder se
 
 1.  As a Contract Admin with the AI role, activate the contract metadata extraction skill in the Now Assist Admin console.
 
-    For more information, see [Configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md).
+    For more information, see [Configure Now Assist in Contract Management](confg-na-in-cmpro.md).
 
 2.  As a Contract Admin, activate the business rules.
 3.  The metadata extraction process is automatically initiated when a contract record is created.
@@ -58,11 +58,11 @@ The following workflow explains the metadata extraction and contract reminder se
     -   Presence of auto-renewal clause
     -   Notice period for contract renewal or termination
 
-        **Note:** If the renewal notice period and termination notice period aren’t available, it uses the configured default notice period. For more information, see [Set the default notice period for the Manage contract repository agentic workflow](../task/conf-sys-prop-default-np.md).
+        **Note:** If the renewal notice period and termination notice period aren’t available, it uses the configured default notice period. For more information, see [Set the default notice period for the Manage contract repository agentic workflow](conf-sys-prop-default-np.md).
 
 7.  The Contract Manager sets the contract reminders in the playbook by reviewing the calculated date and configuring the recipient list for the reminders.
 
-For more information, see [Review AI-extracted metadata and contract reminder date](../task/cmpro-na-review-ai-metadata.md).
+For more information, see [Review AI-extracted metadata and contract reminder date](cmpro-na-review-ai-metadata.md).
 
 ## Obligation extraction
 
@@ -72,7 +72,7 @@ The following workflow explains the obligation extraction process.
 
 1.  As a Contract Admin with the AI role, activate the contract obligation extraction skill in the Now Assist Admin console.
 
-    For more information, see [Configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md).
+    For more information, see [Configure Now Assist in Contract Management](confg-na-in-cmpro.md).
 
 2.  As a Contract Admin, activate the business rules.
 3.  The obligation extraction process is automatically initiated when a contract record is created.
@@ -91,7 +91,7 @@ The following workflow explains the obligation extraction process.
     -   If the obligation task is rejected, the state of the task changes to Open, and the assigned user continues to work on it.
     -   If the obligation task is approved, the state of the task changes to Completed.
 
-For more information, see [Review AI-extracted obligations](../task/cmpro-na-review-obligations.md).
+For more information, see [Review AI-extracted obligations](cmpro-na-review-obligations.md).
 
 ## Conditions for the agentic workflow to trigger
 

@@ -15,9 +15,9 @@ breadcrumb: [Legal Hold Notification, Legal Service Delivery Practice Applicatio
 
 Reference topics provide additional information about the components used in Legal Hold Notification.
 
--   **[Components installed with Legal Hold Notification](../reference/comp-inst-lg-hold-notif.md)**  
+-   **[Components installed with Legal Hold Notification](comp-inst-lg-hold-notif.md)**  
 Various components are installed with Legal Hold Notification.
--   **[Legal hold notification matter intake form](../reference/lg-hold-notif-form.md)**  
+-   **[Legal hold notification matter intake form](lg-hold-notif-form.md)**  
 Use the Legal hold notification intake form to submit the legal hold notification matter.
 
 **Parent Topic:**[Legal Hold Notification](lg-hold-notif-landing-page.md)

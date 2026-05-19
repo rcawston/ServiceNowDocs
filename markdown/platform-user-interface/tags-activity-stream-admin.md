@@ -29,7 +29,7 @@ Tags enable you to filter entries in the Activity stream by dynamic and static s
 
 1.  Open your Configurable Workspace experience in UI Builder.
 
-    For instructions, see [Open experience](task/open-your-configurable-workspace-experience-in-ui-builder.md).
+    For instructions, see [Open experience](open-your-configurable-workspace-experience-in-ui-builder.md).
 
 2.  Select a page from your experience.
 

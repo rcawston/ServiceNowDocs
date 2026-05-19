@@ -42,7 +42,7 @@ Inside the Docker container is an automation script that opens a web browser, lo
 
 The result is your secret ID, which you must save for later use. The secret ID will be added to the ServiceNow instance in the sys\_property `sn_atf.headless.secret_id`.
 
-**Parent Topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Parent Topic:**[Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md)
 
 **Previous topic:**[Create the Docker image and containers for Headless Browser setup in Microsoft Windows](headless-browser-create-docker-image-containers-windows.md)
 

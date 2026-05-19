@@ -19,10 +19,10 @@ Role required: admin
 
 Before configuring your mobile pop-ups, consider the following:
 
--   Mobile cards are used in the display of pop-ups. You can either design one of your own mobile cards or use one of the template cards provided. For more information, see [Mobile Card Builder](../concept/mobile-card-builder.md).
--   Supported button types that trigger pop-ups are action item and navigation. For more information, see [Action functions](../concept/mobile-actions.md).
+-   Mobile cards are used in the display of pop-ups. You can either design one of your own mobile cards or use one of the template cards provided. For more information, see [Mobile Card Builder](mobile-card-builder.md).
+-   Supported button types that trigger pop-ups are action item and navigation. For more information, see [Action functions](mobile-actions.md).
 -   All button locations are supported. For example, swipe, top menu action, and footer function.
--   Buttons are supported in the following UI sections, record, icon, media, and content. For more information, see [Launcher screen UI sections](../concept/alp-ui-sections.md).
+-   Buttons are supported in the following UI sections, record, icon, media, and content. For more information, see [Launcher screen UI sections](alp-ui-sections.md).
 -   Mobile pop-ups aren't supported in offline.
 
 ## Procedure
@@ -270,13 +270,13 @@ The card to be used for the pop-up.
 </td></tr></tbody>
 </table>14. Select either **Choose** to use an existing card or select **New** to create one from the **Card** field.
 
-    For more information about creating cards, see [Mobile Card Builder](../concept/mobile-card-builder.md).
+    For more information about creating cards, see [Mobile Card Builder](mobile-card-builder.md).
 
     **Note:** Two mobile pop-up card templates are provided with the base system. These templates are called Pop-up 01 and Pop-up 02.
 
 15. Assign configurable functions or predefined functions to a button on a mobile pop-up card.
 
-    **Note:** For more information about configurable functions, see [Mobile functions](../concept/sg-studio-mobile-button-types.md) and [Configure a card action using Mobile Card Builder](create-mca-with-mcb.md). Also, see the What to do next section in this topic.
+    **Note:** For more information about configurable functions, see [Mobile functions](sg-studio-mobile-button-types.md) and [Configure a card action using Mobile Card Builder](create-mca-with-mcb.md). Also, see the What to do next section in this topic.
 
 16. Select **Save**.
 
@@ -289,10 +289,10 @@ You can add two types of functions to a button on a mobile pop-up card, configur
 -   Continue: Submits or proceeds with the original function from which the pop-up was triggered.
 -   Logout: Logs out the user from the current instance and is navigated to the instance list page.
 
-For more information, see [Mobile functions](../concept/sg-studio-mobile-button-types.md) and [Configure a card action using Mobile Card Builder](create-mca-with-mcb.md).
+For more information, see [Mobile functions](sg-studio-mobile-button-types.md) and [Configure a card action using Mobile Card Builder](create-mca-with-mcb.md).
 
 -   **[Assign predefined functions to mobile pop-ups](popups-system-button.md)**  
 Use predefined functions within mobile pop-ups to perform actions like dismiss the pop-up, proceed with the suggested instruction, or log out of the instance.
 
-**Parent Topic:**[Mobile pop-ups](../concept/mobile_popups.md)
+**Parent Topic:**[Mobile pop-ups](mobile_popups.md)
 

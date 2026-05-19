@@ -67,18 +67,18 @@ New version
 
 </td><td>
 
-[Version number](../concept/creator-studio-glossary.md#) of the app you're requesting for deployment. Creator Studio automatically generates an updated version number, but you can change it.Follow your organization's versioning guidelines, or use the x.y.z format, where x = major update, y = minor update, and z = patch.
+[Version number](creator-studio-glossary.md#) of the app you're requesting for deployment. Creator Studio automatically generates an updated version number, but you can change it.Follow your organization's versioning guidelines, or use the x.y.z format, where x = major update, y = minor update, and z = patch.
 
 </td></tr><tr><td>
 
-[Release notes](../concept/creator-studio-glossary.md#)
+[Release notes](creator-studio-glossary.md#)
 
 </td><td>
 
 Details on what's changed in this new version of the app, or a general description of what the app does if this is its first version.
 
 </td></tr></tbody>
-</table>    Read more about this step of requesting deployment in [App versioning and release notes for Creator Studio apps](../concept/creator-studio-app-release-versioning.md).
+</table>    Read more about this step of requesting deployment in [App versioning and release notes for Creator Studio apps](creator-studio-app-release-versioning.md).
 
     ![Versioning info on deployment request](../image/cs-deploy-versioning.png "App versioning info")
 
@@ -93,7 +93,7 @@ Woohoo! Your app is ready to be reviewed for deployment.
 
 Your admin uses Pipelines and Deployments to deploy the app to production. You can still make changes to the app after it's been deployed, you'll just need to request re-deployment when it's ready.
 
-If you're an admin, check out [Managing deployments using Pipelines and Deployments](../../app-engine-studio/concept/manage-deployments-using-p-and-d-aemc.md) for the scoop on deploying apps.
+If you're an admin, check out [Managing deployments using Pipelines and Deployments](../app-engine-management-center/manage-deployments-using-p-and-d-aemc.md) for the scoop on deploying apps.
 
-**Parent Topic:**[Deploying your Creator Studio app](../concept/creator-studio-publishing-apps.md)
+**Parent Topic:**[Deploying your Creator Studio app](creator-studio-publishing-apps.md)
 

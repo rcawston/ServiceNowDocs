@@ -37,7 +37,7 @@ Use the home page in Workspace to quickly scan and access enrollment cases.
 
 </td></tr><tr><td>
 
-[View an enrollment case in Workspace](../task/pss-view-cases.md).
+[View an enrollment case in Workspace](pss-view-cases.md).
 
 </td><td>
 
@@ -61,7 +61,7 @@ Use the playbook available with the Patient Support Services application to mana
 
 </td></tr><tr><td>
 
-[Managing training requests in Workspace](../task/pss-conduct-training.md).
+[Managing training requests in Workspace](pss-conduct-training.md).
 
 </td><td>
 

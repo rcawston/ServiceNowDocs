@@ -44,20 +44,20 @@ When an Enterprise Modeling and Visualization user requests for a diagram approv
 
 The requester receives an email notification for the approval or rejection.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
 
-[Working with business capability map](../../concept/eaw-concept/eaw-work-with-bc-map.md)
+[Working with business capability map](eaw-work-with-bc-map.md)
 
-[Working with business hierarchy map](../../concept/eaw-concept/eaw-work-with-ba-map.md)
+[Working with business hierarchy map](eaw-work-with-ba-map.md)
 
-[Working with business process map](../../concept/eaw-concept/eaw-work-with-bp-map.md)
+[Working with business process map](eaw-work-with-bp-map.md)
 
-[Working with ArchiMate Shapes](../../concept/eaw-concept/eaw-work-with-archimate-shapes.md)
+[Working with ArchiMate Shapes](eaw-work-with-archimate-shapes.md)
 
-[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+[Working with custom shapes](eaw-working-custom-shapes.md)
 
 [Synchronize a shape to the database](eaw-modeling-sync-shape.md)
 

@@ -46,5 +46,5 @@ Use the sys\_id from the POST response Location header to run a GET request.
     ![REST API Explorer GET response](../image/rest-api-exp-get-response-2.png)
 
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](use-REST-API-Explorer.md)
 

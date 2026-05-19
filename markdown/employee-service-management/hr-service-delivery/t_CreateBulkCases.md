@@ -107,5 +107,5 @@ Shows the date and time your bulk case request was submitted to create cases.**N
     For more information, see [Create a user segment group](bulk-case-segment.md).
 
 
-**Parent Topic:**[Creating bulk cases](../concept/bulk-case.md)
+**Parent Topic:**[Creating bulk cases](bulk-case.md)
 

@@ -15,8 +15,8 @@ breadcrumb: [Gifts and Entertainment Compliance, Legal Service Delivery Practice
 
 Employees who engage in giving or receiving gifts and entertainment can submit a disclosure and obtain the legal clearance for their transaction.
 
--   **[Submit a gifts and entertainment disclosure](../task/lsd-submit-ge-dis-request.md)**  
+-   **[Submit a gifts and entertainment disclosure](lsd-submit-ge-dis-request.md)**  
 Submit a disclosure to obtain the legal clearance for gifts and entertainment.
 
-**Parent Topic:**[Gifts and Entertainment Compliance](../reference/lsd-ge-landing-page.md)
+**Parent Topic:**[Gifts and Entertainment Compliance](lsd-ge-landing-page.md)
 

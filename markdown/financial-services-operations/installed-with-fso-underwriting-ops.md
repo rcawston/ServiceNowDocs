@@ -94,5 +94,5 @@ Underwriting Service Task \(Personal\)\[sn\_ins\_underwrite\_b2c\_task\]
 Stores all underwriting tasks for personal policy service requests for all Financial Services Operations applications. This table extends the Financial Task \[sn\_bom\_task\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Personal Lines Servicing reference](../concept/ins-policy-ops-reference.md)
+</table>**Parent Topic:**[Personal Lines Servicing reference](ins-policy-ops-reference.md)
 

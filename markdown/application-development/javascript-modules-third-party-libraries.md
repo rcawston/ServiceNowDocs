@@ -32,7 +32,7 @@ In a module, you identify code for reuse with export statements. Then, use impor
 -   import and export statements are only supported in modules. To import module code in scripts, such as business rules or script includes, use require statements.​
 -   JavaScript modules \[sys\_module\] can be modified only in the ServiceNow IDE or in Visual Studio Code with the ServiceNow SDK.
 
-**Important:** You can't use third-party libraries that rely on unsupported functionality, such as unsupported APIs or ECMAScript features. For more information, see [Third-party library support in Australia](../reference/third-party-library-support.md).
+**Important:** You can't use third-party libraries that rely on unsupported functionality, such as unsupported APIs or ECMAScript features. For more information, see [Third-party library support in Australia](third-party-library-support.md).
 
 ## Exporting modules
 
@@ -125,7 +125,7 @@ In the following example, the RESTAPIRequest and RESTAPIResponse APIs are import
 import { RESTAPIRequest, RESTAPIResponse } from '@servicenow/glide/sn_ws_int';
 ```
 
-To access server APIs in a third-party library module, you must add the module as a trusted module with the trustedModules parameter in your application's `now.config.json` file. For more information, see [Custom application configuration in source code](../reference/app-config-source-code.md).
+To access server APIs in a third-party library module, you must add the module as a trusted module with the trustedModules parameter in your application's `now.config.json` file. For more information, see [Custom application configuration in source code](app-config-source-code.md).
 
 For more information about available server APIs, see [Server API reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/api-server.md).
 
@@ -145,7 +145,7 @@ For more information about script includes, see [Script includes](https://raw.gi
 **Related topics**  
 
 
-[Create and use JavaScript modules in applications in the ServiceNow IDE](../../servicenow-ide/task/create-use-javascript-modules-ide.md)
+[Create and use JavaScript modules in applications in the ServiceNow IDE](servicenow-ide-family-release/create-use-javascript-modules-ide.md)
 
-[Create and use JavaScript modules in applications with the ServiceNow SDK](../task/create-use-javascript-modules.md)
+[Create and use JavaScript modules in applications with the ServiceNow SDK](servicenow-sdk/create-use-javascript-modules.md)
 

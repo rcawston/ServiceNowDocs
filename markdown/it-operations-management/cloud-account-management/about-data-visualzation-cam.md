@@ -36,5 +36,5 @@ The workflow for creating a scan configuration for data visualization.
     -   Cloud Account Management integrates with the Cloud Cost Management Workspace to track budgets and usage of each account.
     -   Confirm Cloud Cost Management Workspace version 8.1 or above is installed, and billing is configured.
 
-To set up data visualization, see [Set up scan configuration for data visualization](../task/set-up-data-visualization.md).
+To set up data visualization, see [Set up scan configuration for data visualization](set-up-data-visualization.md).
 

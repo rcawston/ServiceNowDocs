@@ -24,7 +24,7 @@ Role required: admin
 2.  Search for Security Annotations under **My reports** or **All.**
 
 
-**Parent Topic:**[Security annotations](../concept/security-annotations.md)
+**Parent Topic:**[Security annotations](security-annotations.md)
 
 **Related topics**  
 

@@ -23,9 +23,9 @@ Create a guidance path first. A guidance node is automatically created with the 
 
 A guidance is an outcome of a decision tree.
 
-You can either create a guidance or select a guidance from a list. For a complete list of guidances that are available by default, see [Components installed with Guided Decisions Experience](../reference/components-installed-with-guided-decisions.md). You can then enter guidance inputs, as required.
+You can either create a guidance or select a guidance from a list. For a complete list of guidances that are available by default, see [Components installed with Guided Decisions Experience](components-installed-with-guided-decisions.md). You can then enter guidance inputs, as required.
 
-You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](../concept/decision-trees-in-gdb.md).
+You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](decision-trees-in-gdb.md).
 
 ## Procedure
 

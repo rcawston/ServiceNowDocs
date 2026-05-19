@@ -17,7 +17,7 @@ Inline citations are intended to show from which ServiceNow knowledge articles t
 
 ## Before you begin
 
-For more information about Now Assist in Virtual Agent citations, see [Using Now Assist in Virtual Agent](../concept/using-now-assist-in-va.md).
+For more information about Now Assist in Virtual Agent citations, see [Using Now Assist in Virtual Agent](using-now-assist-in-va.md).
 
 Role required: admin
 

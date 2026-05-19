@@ -32,7 +32,7 @@ The following items are installed with the Agent Client Collector for Investigat
 -   Store applications
 -   Roles
 
-For more information, see [Components installed with Agent Client Collector for Investigation](../reference/components-installed-investigate.md).
+For more information, see [Components installed with Agent Client Collector for Investigation](components-installed-investigate.md).
 
 ## Procedure
 
@@ -57,5 +57,5 @@ For more information, see [Components installed with Agent Client Collector for 
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setting up investigation framework using Agent Client Collector for Investigation](../concept/set-up-investigate-fw-using-acc.md)
+**Parent Topic:**[Setting up investigation framework using Agent Client Collector for Investigation](set-up-investigate-fw-using-acc.md)
 

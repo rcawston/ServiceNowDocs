@@ -38,12 +38,12 @@ Discovery and Service Mapping Patterns and Visibility Content
 
 </td><td>
 
-[Discovery patterns used by ITOM Visibility](../../service-mapping/concept/c_MappingPatternsCustomization.md)
+[Discovery patterns used by ITOM Visibility](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md)
 
 </td><td>
 
 -   You must update your store apps to the latest release version.
--   You must provide ITOM Visibility with access permissions. For more information, see [Set up Azure service accounts](../task/setup-azure-service-accounts.md)
+-   You must provide ITOM Visibility with access permissions. For more information, see [Set up Azure service accounts](../setup-azure-service-accounts.md)
 
 </td></tr><tr><td>
 
@@ -1283,5 +1283,5 @@ No
 cmdb\_azure\_service\_endpoint\_policy\_service\_endpoint\_policy
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud discovery solutions comparison](../concept/cloud-discovery-methods-comparison.md)
+</table>**Parent Topic:**[Cloud discovery solutions comparison](cloud-discovery-methods-comparison.md)
 

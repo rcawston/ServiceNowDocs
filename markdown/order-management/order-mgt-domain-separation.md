@@ -54,7 +54,7 @@ If customer or service orders have an account name, an administrator can identif
 
 If fulfillment agents or managers are assigned to a domain, an administrator can assign them to work on customer orders, service orders, and order tasks for a specific domain \(account\).
 
-**Parent Topic:**[Order Management reference](../reference/order-mgt-reference.md)
+**Parent Topic:**[Order Management reference](order-mgt-reference.md)
 
 **Related topics**  
 

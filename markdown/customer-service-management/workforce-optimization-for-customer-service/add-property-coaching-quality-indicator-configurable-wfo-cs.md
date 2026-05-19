@@ -95,5 +95,5 @@ sn\_coaching.coach
     The configured indicator replaces the existing indicator in the Overview tab in the Coaching application in Workforce Optimization for Customer Service.
 
 
-**Parent Topic:**[Setting up Coaching in Workforce Optimization for Customer Service](../concept/setup-coaching-configurable-wfo-cs.md)
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for Customer Service](setup-coaching-configurable-wfo-cs.md)
 

@@ -17,7 +17,7 @@ Use email administrator to create email accounts, email filter, and create an em
 Email accounts store the connection details and credentials the system uses to access external email servers and services.
 -   **[Email filters](c_EmailFilters.md)**  
 Specify which inbound emails to ignore or move to a particular mailbox.
--   **[Email service](../../../integrate/inbound-rest/concept/email-service.md)**  
+-   **[Email service](email-service.md)**  
 The Email Service API provides endpoint to install the Email API on the instance.
 
 **Parent Topic:**[Email Administration](email-administration-landing.md)

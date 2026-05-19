@@ -17,7 +17,7 @@ Planning and execution of your roadmap involves change in priority or timelines 
 
 ## Before you begin
 
-[Migrate resource plans to resource assignments](../../resource-management/task/migrate-rsrc-plan-rsrc-asgnmnt.md)
+[Migrate resource plans to resource assignments](../resource-management/migrate-rsrc-plan-rsrc-asgnmnt.md)
 
 Role required: it\_demand\_manager
 

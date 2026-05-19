@@ -26,11 +26,11 @@ Testers can perform the following actions in the Test Management application:
 
 If a guided test execution feature is used, any user can be assigned to a test case and can perform the tests within that test case.
 
--   **[Perform tests using the Test Case form](../task/t_PerformTestsUsingTheTestCaseForm.md)**  
+-   **[Perform tests using the Test Case form](t_PerformTestsUsingTheTestCaseForm.md)**  
 Perform tests from an assigned test case and record results using the Test Case form.
--   **[Perform tests using the Visual Task Board](../task/t_PerformTestsUsingTheVisualTaskBoard.md)**  
+-   **[Perform tests using the Visual Task Board](t_PerformTestsUsingTheVisualTaskBoard.md)**  
 Perform tests from an assigned test case and record results using a bulletin board-type graphical interface.
--   **[Perform tests using guided test execution](../task/t_PerformTestsUsingGuidedTestExecution.md)**  
+-   **[Perform tests using guided test execution](t_PerformTestsUsingGuidedTestExecution.md)**  
 Perform tests from an assigned test case and record results.
 
 **Parent Topic:**[Test Management 1.0](c_TestManagement.md)

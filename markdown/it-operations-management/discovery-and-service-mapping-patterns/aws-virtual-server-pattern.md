@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns finds AWS EC2 virtual machine instances o
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the AWS discovery prerequisites section in [AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md).
+Verify the AWS discovery prerequisites section in [AWS discovery using patterns](data-discovered-aws-patterns.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -241,7 +241,7 @@ Provider \[provider\]
 Cloud provider, which is **AWS**.This field is only populated in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table.
 
 </td></tr></tbody>
-</table>**Note:** When using the Image \[cmdb\_ci\_os\_template\] table to store Cloud OS images, you may notice an unusually large number of records. To avoid this issue, you can store the discovered OS images in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. For more information, see [Enable Cloud OS Image discovery](../../discovery/task/enable-cloud-os-image-discovery-pattern.md).
+</table>**Note:** When using the Image \[cmdb\_ci\_os\_template\] table to store Cloud OS images, you may notice an unusually large number of records. To avoid this issue, you can store the discovered OS images in the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table. For more information, see [Enable Cloud OS Image discovery](enable-cloud-os-image-discovery-pattern.md).
 
 ## CI relationships
 
@@ -316,5 +316,5 @@ Configuration item \[configuration\_item\]
 References the Virtual Machine Instance \[cmdb\_ci\_vm\_instance\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+</table>**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

@@ -51,12 +51,12 @@ When modifying a network topology record, the following actions occur:
 -   When you remove a topology connection, it’s removed from the relationship.
 -   When a node is removed from the relationship, if it’s part of a root node, that entry will also be removed.
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 
 **Related topics**  
 
 
-[Network topology](../concept/visualization-of-topology.md)
+[Network topology](visualization-of-topology.md)
 
-[Network topology](../concept/using-network-topology.md)
+[Network topology](using-network-topology.md)
 

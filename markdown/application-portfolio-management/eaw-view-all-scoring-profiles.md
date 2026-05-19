@@ -28,12 +28,12 @@ Role required: sn\_apm.apm\_user
 4.  Select **All**.
 
 
-**Parent Topic:**[Working with the Setup page](../../concept/eaw-concept/eaw-work-with-setup-page.md)
+**Parent Topic:**[Working with the Setup page](eaw-work-with-setup-page.md)
 
 **Related topics**  
 
 
-[Manage scoring profiles](../../concept/eaw-concept/eaw-configure-scoring-profiles.md)
+[Manage scoring profiles](eaw-configure-scoring-profiles.md)
 
 [Add or edit a scoring profile](eaw-create-scoring-profile.md)
 

@@ -37,7 +37,7 @@ Enable sorting \(for lists\) in the user's session language when the language is
 
 Enable sorting string values in a column according to the rules of the user's session language. If this option isn’t selected, field values are sorted according to the English alphabet.-   Options: Yes \| No
 -   Default value: No
--   Learn more: [Sorting according to the session language](../task/sorting-session-language.md#)
+-   Learn more: [Sorting according to the session language](sorting-session-language.md#)
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Text Search stemming language.
 Selects the language to match derived words in text search.-   Options: English, German, and French
 -   Default value: English
 -   Dependency: The I18N: Internationalization plugin must be active
--   Learn more: [Zing matches derived words with stemming](../../search-administration/concept/stemming-matches-derived-words.md)
+-   Learn more: [Zing matches derived words with stemming](../search-administration/stemming-matches-derived-words.md)
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Displays translation prefix on translatable strings.
 
 Adds a translation prefix on translatable fields to indicate where to find the string for translation. -   Options: Yes \| No
 -   Default value: No
--   Learn more: [Debug translations](../task/t_DisplayATranslationPrefix.md)
+-   Learn more: [Debug translations](t_DisplayATranslationPrefix.md)
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Use a single currency model. Display all currencies in the same currency code, r
 
 Enable single currency mode. -   Options: Yes \| No
 -   Default value: No
--   Learn more: [Currency administration](../../currency/concept/currency.md)
+-   Learn more: [Currency administration](../currency-administration/currency.md)
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ If using the single currency model, display all currencies using this currency c
 
 -   Options: ISO 4217 three-letter currency code
 -   Default value: USD
--   Learn more: [Currency administration](../../currency/concept/currency.md)
+-   Learn more: [Currency administration](../currency-administration/currency.md)
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ Locale code to use for localization.
 
 Determines the system's default currency into which all prices are automatically converted before other sums or conversions are performed. Changing this property after any price or currency fields have been given a value may result in improper conversion or prices that sum incorrectly.-   Options: \[language code\].\[country code\] \(for example, en.GB for Britain, fr.FR for France, de.DE for Germany, or ja.JP for Japan\)
 -   Default value: None
--   Learn more: [Locale settings](../../currency/concept/locales.md)
+-   Learn more: [Locale settings](../currency-administration/locales.md)
 
  **Note:** You have already set a value on this system property, do not change this value once a system has gone into production. If a user's locale must be changed, update the "Country code" field on the user record.
 
@@ -135,7 +135,7 @@ Determines whether the platform displays dates and times formatted according to 
 
 Determines whether the platform displays dates and times formatted according to a user's locale when no date or time format has been selected in user preferences. If this option isn't enabled, dates and times are formatted using patterns set in the **glide.sys.date\_format** and **glide.sys.time\_format** properties. -   Options: Yes \| No
 -   Default value: No
--   Learn more: [Locale settings](../../currency/concept/locales.md)
+-   Learn more: [Locale settings](../currency-administration/locales.md)
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ For guest users, enables using their IP address to try to set the user's initial
 
 Determines the platform's default language used from the country associated with the user's IP address if locale can't be determined from other settings. If this option isn't enabled, the platform language defaults to English for guest users whose locale can't be determined.-   Options: Yes \| No
 -   Default value: No
--   Learn more: [Locale settings](../../currency/concept/locales.md)
+-   Learn more: [Locale settings](../currency-administration/locales.md)
 
 </td></tr><tr><td>
 
@@ -159,7 +159,7 @@ Spell checker dictionary to use for English users.
 
 Sets the spell checker dictionary used in the system for English users.-   Options: Brazilian Portuguese, Dutch, English US, English UK, French, German, Italian, Portuguese, Russian, Spanish, and Thai
 -   Default value: English US
--   Learn more: [Locale settings](../../currency/concept/locales.md)
+-   Learn more: [Locale settings](../currency-administration/locales.md)
 
 </td></tr></tbody>
 </table>Access the following properties by entering `sys_properties.list` in the navigation filter to open the System Properties \[sys\_properties\] table.
@@ -183,7 +183,7 @@ Option to set the default behavior of column sorting. If true, the default behav
  -   Type: true \| false
 -   Default value: true
 -   Dependency: The **com.glide.db.session\_language\_collation\_feature** property must be set to true.
--   Learn more: [Sorting according to the session language](../task/sorting-session-language.md#)
+-   Learn more: [Sorting according to the session language](sorting-session-language.md#)
 
 </td></tr><tr><td>
 
@@ -195,7 +195,7 @@ Option to allow setting fallback languages for the instance. Setting fallback la
 
  -   Type: true \| false
 -   Default value: true
--   Learn more: [Set a fallback language](../task/set-fallback-language.md)
+-   Learn more: [Set a fallback language](set-fallback-language.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[System Localization reference](system-localization-reference.md)

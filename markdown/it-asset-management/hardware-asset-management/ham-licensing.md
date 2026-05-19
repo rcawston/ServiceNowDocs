@@ -20,7 +20,7 @@ Only the resource categories that are opted in are counted toward the Subscripti
 
 **Note:** By default for a particular resource category, the normalization functions for its associated models and the asset actions for its associated assets don't work. If you want to use the normalization functions and asset actions, you have to opt in that resource category.
 
-For more information about opting in or out of the HAM license resource categories, see [Opt-in or opt-out of HAM license resource categories](../task/optin-optout-ham-license-resource-categories.md).
+For more information about opting in or out of the HAM license resource categories, see [Opt-in or opt-out of HAM license resource categories](optin-optout-ham-license-resource-categories.md).
 
 Based on the usage of model categories, the ServiceNow HAM license is divided into resource categories. There are different types of resource categories. Different assets fall under different categories as well. Make sure you opt in the correct and required categories. An asset represented in the Asset \[alm\_asset\] table and which meets the criteria for each managed IT resource type such as Server, End User Computers, Network Gear, and Mobile Device, is counted toward a Subscription Unit based on the predefined ratio of number of assets to subscription units.
 

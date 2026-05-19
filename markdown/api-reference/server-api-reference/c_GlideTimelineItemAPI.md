@@ -17,7 +17,7 @@ The GlideTimelineItem API extends the abstract ScheduleItem class to define addi
 
 A time line item is essentially any item that displays in a singular row across the time line. A GlideTimelineItem has zero or more associated spans \(TimelineSpan objects\).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideTimelineItem - GlideTimelineItem\(String tableName\)
 

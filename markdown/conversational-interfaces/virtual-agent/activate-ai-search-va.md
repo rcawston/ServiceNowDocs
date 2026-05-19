@@ -36,9 +36,9 @@ The default chat experience is defined in the Custom Greetings and Setup setting
 
 ## Result
 
-Your request will be processed. Once activated, enable the AI Search Fallback setup topic in the default or a custom chat experience. For instructions on configuring a chat experience, see [Customizing a Virtual Agent chat experience](../concept/va-conversation-settings.md).
+Your request will be processed. Once activated, enable the AI Search Fallback setup topic in the default or a custom chat experience. For instructions on configuring a chat experience, see [Customizing a Virtual Agent chat experience](va-conversation-settings.md).
 
 If you want to customize the Virtual Agent AI Search results that are generated for your users, see [Create a custom AI Search experience for Virtual Agent conversations](create-va-aisearch-application.md).
 
-**Parent Topic:**[Improving the user experience with AI Search](../concept/va-ai-search.md)
+**Parent Topic:**[Improving the user experience with AI Search](va-ai-search.md)
 

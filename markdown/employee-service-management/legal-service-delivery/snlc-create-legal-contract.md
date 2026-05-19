@@ -36,7 +36,7 @@ Role required: sn\_lg\_cnt.contract\_config, admin
 
     -   To create a record producer, click **New**.
 
-        For more information, see [Create or modify a record producer for legal services through Classic environment](../../legal-request-management/task/create-record-producer-legal-request.md).
+        For more information, see [Create or modify a record producer for legal services through Classic environment](../legal-request-management/create-record-producer-legal-request.md).
 
     -   To copy a base system record producer, open the record producer and then select **Copy**.
 
@@ -69,7 +69,7 @@ Role required: sn\_lg\_cnt.contract\_config, admin
 
 4.  Add an intake form in the Contracts practice area.
 
-    For more information, see [Add an intake form to a practice area](../../legal-request-management/task/associate-categories-practice-area.md). Provide the following details in the respective fields.
+    For more information, see [Add an intake form to a practice area](../legal-request-management/associate-categories-practice-area.md). Provide the following details in the respective fields.
 
     1.  From the **Type** drop-down list, select **Request**.
 
@@ -83,17 +83,17 @@ Role required: sn\_lg\_cnt.contract\_config, admin
 
 5.  Modify business rule to enable data synchronization for custom intake forms.
 
-    For more information, see [Configure a practice area table](../../legal-request-management/task/configure-pa-tables-for-reporting.md).
+    For more information, see [Configure a practice area table](../legal-request-management/configure-pa-tables-for-reporting.md).
 
 6.  For Non-disclosure agreement intake form that use own-papers, create a contract template.
 
-    For more information, see [Create a contract template](../../contract-mgmt-pro/task/cncore-create-contract-template.md).
+    For more information, see [Create a contract template](../contract-management-pro/cncore-create-contract-template.md).
 
     In the **Conditions**, you must select the new category added for the new contract.
 
 7.  For Non-disclosure agreement intake form that use own-papers, configure contract template rules when a legal contract request is being created by a legal user.
 
-    For more information, see [Configure contract template rules](../../contract-mgmt-pro/task/cncore-config-template-rules.md).
+    For more information, see [Configure contract template rules](../contract-management-pro/cncore-config-template-rules.md).
 
 8.  Configure the settings in the Standard Ticket Page for legal requests.
 

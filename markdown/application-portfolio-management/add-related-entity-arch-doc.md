@@ -37,12 +37,12 @@ Role required: sn\_apm.apm\_user
 
 8.  On the form, fill in the fields.
 
-    For a description of the field values, see [Create new related entities form](../../reference/eaw-reference/eaw-artifact-releated-entity-form.md).
+    For a description of the field values, see [Create new related entities form](eaw-artifact-releated-entity-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Manage architectural documents](../../concept/eaw-concept/manage-arch-documents.md)
+**Parent Topic:**[Manage architectural documents](manage-arch-documents.md)
 
 **Related topics**  
 
@@ -51,5 +51,5 @@ Role required: sn\_apm.apm\_user
 
 [Edit artifact content of an architectural document](edit-architectural-content.md)
 
-[Working with the document templates](../../concept/eaw-concept/document-templates-for-ea.md)
+[Working with the document templates](document-templates-for-ea.md)
 

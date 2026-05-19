@@ -125,5 +125,5 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 5.  Select **Save and exit**.
 
 
-**Parent Topic:**[Setting Automated improvement opportunities](../concept/automated-findings.md)
+**Parent Topic:**[Setting Automated improvement opportunities](automated-findings.md)
 

@@ -94,11 +94,11 @@ Controlling how fields appear:
 **Related topics**  
 
 
-[Create or edit an event rule](../task/create-or-edit-event-rule.md)
+[Create or edit an event rule](create-or-edit-event-rule.md)
 
-[Configure an event rule to customize alert content](../task/t_EMComposeOuput.md)
+[Configure an event rule to customize alert content](t_EMComposeOuput.md)
 
-[Filter the events that an event rule applies to](../task/t_EMCreateFilter.md)
+[Filter the events that an event rule applies to](t_EMCreateFilter.md)
 
-[Set a threshold to suppress alert generation](../task/t_EMISetThresholdEvent.md)
+[Set a threshold to suppress alert generation](t_EMISetThresholdEvent.md)
 

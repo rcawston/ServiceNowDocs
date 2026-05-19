@@ -24,11 +24,11 @@ breadcrumb: [Service Operations Workspace for ITSM reference, Service Operations
 **Related topics**  
 
 
-[Additional roles for SOW admin](../reference/additional-roles-sow-admin.md)
+[Additional roles for SOW admin](additional-roles-sow-admin.md)
 
-[Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM](../reference/sow-itsm-itom-version.md)
+[Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM](sow-itsm-itom-version.md)
 
-[Service Operations Workspace for ITSM data model](../reference/sow-itsm-data-model.md)
+[Service Operations Workspace for ITSM data model](sow-itsm-data-model.md)
 
-[Components installed with Service Operations Workspace ITSM Applications](../reference/components-installed-with-sow.md)
+[Components installed with Service Operations Workspace ITSM Applications](components-installed-with-sow.md)
 

@@ -30,7 +30,7 @@ After a dispute case is submitted, each disputed transaction is displayed in a *
 -   The **Closed** tab displays all the tasks that have been closed.
 -   The activity stream for the transaction is displayed below the task.
 -   The dispute transaction and financial transaction details are displayed in the **Disputed** transaction details and **Financial transaction details** widget.
--   **Attachments** can be added as needed. If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](../../fso-card-data-security/concept/manage-attachments-in-card-data-security.md).
+-   **Attachments** can be added as needed. If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](manage-attachments-in-card-data-security.md).
 
 -   **[Processing an ACH dispute](process-dispute-ach.md)**  
 On the **Processing** tab of the card disputes playbook, all disputed transactions in an ACH dispute case are displayed on a dashboard. The tab also provides transaction information such as dispute amount, transaction date and time, merchant, transaction state, current activity, and activity SLA.

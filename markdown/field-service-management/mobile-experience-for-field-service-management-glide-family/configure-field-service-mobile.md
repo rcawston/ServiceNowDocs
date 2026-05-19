@@ -39,11 +39,11 @@ Role required: admin
 
         Enable or disable the desired UI actions on the mobile device to minimize the load on the mobile resources.
 
-    3.  [Customizing UI actions for the Now Mobile Agent application](../concept/configure-uiaction-fsm-mobile.md)
+    3.  [Customizing UI actions for the Now Mobile Agent application](configure-uiaction-fsm-mobile.md)
 
         Make it easier for your end users to get things done faster with the Field Service mobile application by creating custom UI actions.
 
-    4.  [Configuring push notifications for task assignment](../concept/push-notifications-tasks-slas.md)
+    4.  [Configuring push notifications for task assignment](push-notifications-tasks-slas.md)
 
         Assign tasks and send reminders to customer service agents and field technicians using push notifications.
 
@@ -63,7 +63,7 @@ Role required: admin
 
         Activate the Chat quick action so that field service agents can chat with a virtual agent using the ServiceNow Agent mobile app.
 
-    9.  [Location tracking for mobile](../../../administer/tablet-mobile-ui/concept/mobile-location-tracking.md)
+    9.  [Location tracking for mobile](mobile-location-tracking.md)
 
         Location tracking enables you to track the activity and positioning of agents while they perform tasks. You can also use the feature to make sure your agents are safe and can be easily located.
 
@@ -77,5 +77,5 @@ Role required: admin
 
 [Mobile Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-config-navigation.md)
 
-[Completing work on the ServiceNow Agent mobile application](../concept/Use-mobile-app-fsm.md)
+[Completing work on the ServiceNow Agent mobile application](../work-order-management/Use-mobile-app-fsm.md)
 

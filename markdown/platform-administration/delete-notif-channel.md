@@ -30,5 +30,5 @@ Role required: admin
 
 The system deletes the channel from the list of notification channels and no longer delivers notifications to that channel.
 
-**Parent Topic:**[Setting notification preferences in Core UI](../concept/user-notification-preferences.md)
+**Parent Topic:**[Setting notification preferences in Core UI](user-notification-preferences.md)
 

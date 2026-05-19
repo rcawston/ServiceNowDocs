@@ -52,7 +52,7 @@ The details about the entity-based access security flow are:
 
 -   **[Sample use case scenarios](sample-usecases.md)**  
 Use case scenarios offer a clear and comprehensive explanation of why you would use the Entity Based Access application.
--   **[User roles for Entity Based Access](../reference/user-roles-for-entity-based-access.md)**  
+-   **[User roles for Entity Based Access](user-roles-for-entity-based-access.md)**  
 Users with specific user roles have access to read or update the Entity Based Access configuration or the bulk access update configuration.
 -   **[Entity based record access update utility](entity-based-access-playbook.md)**  
 The entity based record access update utility is a guided assistance, designed to simplify the application of enabling or disabling access restrictions across large volumes of records.
@@ -64,7 +64,7 @@ Deactivating entity-based access \(EBA\) not only disables the configuration but
 Configure the Entity Based Access application by installing it from the ServiceNow Store and by setting up Entity Based Access properties in the instance.
 -   **[Managing Entity Based Access](using-entity-based-access.md)**  
 You can manage access to the objects or record types in a system by using the Entity Based Access application. You can restrict access by using an entity, entity class, or entity type configuration.
--   **[Entity Based Access reference](../reference/entity-based-access-reference.md)**  
+-   **[Entity Based Access reference](entity-based-access-reference.md)**  
 Entity-based access restriction can be applied on some GRC tables.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)

@@ -54,10 +54,10 @@ To test the connection, run the ODBC Administrator program.
 If you experience unexpected behavior when using the ODBC driver, you can enable debug logging and generate debug logs to help identify the issue.
 -   **[Test a query](t_TestingAQuery.md)**  
 To verify that the user has the appropriate permissions to send requests to the instance using ODBC, run a query using Interactive SQL.
--   **[ODBC troubleshooting](../reference/odbc-troubleshooting.md)**  
+-   **[ODBC troubleshooting](odbc-troubleshooting.md)**  
 Review these troubleshooting resources to resolve issues with the ODBC driver.
 
-**Parent Topic:**[Create data sources from other apps using ODBC driver](../concept/c_ODBCDriver.md)
+**Parent Topic:**[Create data sources from other apps using ODBC driver](c_ODBCDriver.md)
 
 **Related topics**  
 

@@ -36,5 +36,5 @@ Using an accordion button, you can expand or collapse activity sets to view the 
 
 Within an activity set, you can view all tasks, state, owners, and have the ability to take action.
 
-**Note:** For more information about lifecycle events, see [Lifecyle events for enterprise](../reference/enterprise-onboarding-transitions-landing-page.md).
+**Note:** For more information about lifecycle events, see [Lifecyle events for enterprise](../employee-journey-management/enterprise-onboarding-transitions-landing-page.md).
 

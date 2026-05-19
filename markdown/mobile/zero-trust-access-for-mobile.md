@@ -22,5 +22,5 @@ For more information, see [Zero Trust Access \(ZTA\)](https://raw.githubusercont
 -   **[Configure Zero Trust Access for mobile](configure-zero-trust-access-mobile.md)**  
 Configure Zero Trust Access \(ZTA\) on mobile to reduce end-user access based on factors such as IP address, location, and identity provider attributes.
 
-**Parent Topic:**[Mobile authentication](../concept/mobile-authentication.md)
+**Parent Topic:**[Mobile authentication](mobile-authentication.md)
 

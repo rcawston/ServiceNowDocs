@@ -38,5 +38,5 @@ Role required: admin
     -   Unlink from Major Security Incident
     -   Promote to Major Security Incident
 
-**Parent Topic:**[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+**Parent Topic:**[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
 

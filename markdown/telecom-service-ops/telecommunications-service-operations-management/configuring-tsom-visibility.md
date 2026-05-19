@@ -88,5 +88,5 @@ Confirm that the following are listed as active:
 **Related topics**  
 
 
-[Telecom Visibility](../concept/tsom-visibility.md)
+[Telecom Visibility](tsom-visibility.md)
 

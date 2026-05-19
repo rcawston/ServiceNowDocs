@@ -36,5 +36,5 @@ Each log has a naming convention. If it’s a runtime-related log, the log name 
 2.  Select **View Logs** and select either **Service Logs** or **Runtime Logs**, to view the related logs.
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 

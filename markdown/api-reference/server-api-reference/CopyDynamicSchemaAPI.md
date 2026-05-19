@@ -55,7 +55,7 @@ The following workflow shows the order in which to call CopyDynamicSchemaAPI met
 
 If any step fails, the API rolls back the entire transaction. You can monitor the operation's status in the Progress Worker \[sys\_progress\_worker\] table, Name column with a name format like `Copy Dynamic Schema – <transaction ID>`.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CopyDynamicSchemaAPI - getCopyApi\(String categoryToCopy, String verificationKey\)
 

@@ -32,5 +32,5 @@ After adding activities to your workflow, publish it to make it available for us
     ![Screenshot for workflow](../image/ServiceCatalogWorkflowFormFullExample.png)
 
 
-**Parent Topic:**[Service catalog workflows](../concept/c_ServiceCatalogWorkflowDefinition.md)
+**Parent Topic:**[Service catalog workflows](c_ServiceCatalogWorkflowDefinition.md)
 

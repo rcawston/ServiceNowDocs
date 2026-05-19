@@ -51,11 +51,11 @@ Service Graph Connector for AWS
 
 </td><td>
 
-[Service Graph Connector for AWS](../../configuration-management/concept/cmdb-integration-aws-sg.md)
+[Service Graph Connector for AWS](cmdb-integration-aws-sg.md)
 
 </td><td>
 
-[Configure Service Graph Connector for AWS using the guided setup](../../configuration-management/task/configure-aws-integration.md)
+[Configure Service Graph Connector for AWS using the guided setup](configure-aws-integration.md)
 
 </td></tr></tbody>
 </table>**Note:**
@@ -219,5 +219,5 @@ The CI class, in most cases, is applicable to both solutions. If it's not applic
 |AWS::MWAA::Environment|Yes|No|cmdb\_aws\_managed\_workflows\_for\_apache\_airflow\_environment|
 |AWS::NetworkFirewall::Firewall|Yes|No|cmdb\_aws\_network\_firewall\_firewall|
 
-**Parent Topic:**[Service Graph Connector for AWS reference](../../configuration-management/concept/sgc-cmdb-aws-reference.md)
+**Parent Topic:**[Service Graph Connector for AWS reference](sgc-cmdb-aws-reference.md)
 

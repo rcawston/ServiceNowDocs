@@ -25,24 +25,24 @@ Build Agent supports the following development tasks:
 -   Support governance: Work inside platform scopes, roles, and testing workflows rather than as a detached external bot.
 -   Enable developer learning: Answer ServiceNow development questions, summarize documents, and provide practical examples.
 
--   **[Accessing Build Agent in ServiceNow Studio and the ServiceNow IDE](../concept/access-build-agent.md)**  
+-   **[Accessing Build Agent in ServiceNow Studio and the ServiceNow IDE](access-build-agent.md)**  
 Build Agent is available in ServiceNow Studio \(UI-first, declarative workflows\) and the ServiceNow IDE \(code-first, autonomous full-stack development\).
 -   **[Create an application using Build Agent](create-a-new-application-using-build-agent.md)**  
 Build custom ServiceNow applications by describing your requirements in plain language to Build Agent. The AI agent generates and builds the application code automatically.
 -   **[Edit an existing application using Build Agent](edit-an-existing-application-using-build-agent.md)**  
 Modify existing ServiceNow applications using natural language prompts with Build Agent.
--   **[Creating or updating an app file with Build Agent](../concept/creating-or-updating-an-app-file.md)**  
+-   **[Creating or updating an app file with Build Agent](creating-or-updating-an-app-file.md)**  
 Use Build Agent to add new files or modify existing files in ServiceNow applications to assist with ongoing metadata and app development and maintenance.
 -   **[Create agentic workflows, agents, and skills](create-custom-ai-agent.md)**  
 Build custom agentic workflows, AI agents, and skills for your applications using automated generation tools with Build Agent. You can streamline development by creating the necessary instructions, tools, and access controls based on your requirements.
 -   **[Revert app changes with Build Agent](revert-app-changes-using-build-agent.md)**  
 Restore your development to a previous state when you want to undo recent changes. Use checkpoints created during Build Agent conversations to revert both code and chat history.
--   **[Testing what you built](../concept/build-agent-testing.md)**  
+-   **[Testing what you built](build-agent-testing.md)**  
 Test Agent generates test coverage for code created by Build Agent, executes tests, and performs root cause analysis on failures. Prompt Test Agent to complete build-to-test workflows in a single development session without manual test authoring or failure investigation.
--   **[Build Agent conversation change log](../concept/ba-conversational-change-log.md)**  
+-   **[Build Agent conversation change log](ba-conversational-change-log.md)**  
 After Build Agent completes the changes you request, you can find information about the updates in the change log that automatically appears in an integrated tab in ServiceNow Studio.
--   **[Troubleshooting in Build Agent](../reference/build-agent-troubleshooting.md)**  
+-   **[Troubleshooting in Build Agent](build-agent-troubleshooting.md)**  
 Use this reference when troubleshooting build failures, empty UI pages, context limits, rate limit errors, and other common issues you may encounter when using Build Agent.
 
-**Parent Topic:**[Build Agent](../concept/build-agent.md)
+**Parent Topic:**[Build Agent](build-agent.md)
 

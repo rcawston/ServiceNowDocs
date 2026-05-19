@@ -29,7 +29,7 @@ Claims for reporting in Operational Sustainability Management offers numerous be
 -   Provides flexibility to create both qualitative and quantitative claims, not limited by reporting cadence, and supports review and approval workflows.
 -   Allows tracking of which claims are used in which disclosures and supports associating related claims for comprehensive reporting
 
--   **[Create or edit a claim](../task/create-or-edit-a-claim.md)**  
+-   **[Create or edit a claim](create-or-edit-a-claim.md)**  
 Create or edit a claim that accurately documents a specific achievement, commitment, event, or activity performed by your organization, suitable for use in future disclosures or reports.
 
 **Parent Topic:**[Using Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](using-esg.md)

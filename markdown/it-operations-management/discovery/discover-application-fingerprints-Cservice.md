@@ -25,7 +25,7 @@ Role required: discovery\_admin
 Review application suggestions based on application fingerprints or ITOM Content Service and add them to discovery.
 
 -   Fingerprint-based discovery uses algorithms to identify running processes and organizes them into groups. These process groups become suggested applications or candidates. You review suggested applications and choose which ones to discover. The list of suggested applications is refreshed every hour. To learn more, see [Discover applications based on fingerprints](discover-application-based-process.md).
--   ITOM Content Service identifies the products that you’re currently using and delivers new product suggestions every week. To learn more, see [ITOM Content Service](../concept/discovery-content-services.md).
+-   ITOM Content Service identifies the products that you’re currently using and delivers new product suggestions every week. To learn more, see [ITOM Content Service](../itom-visibility/discovery-content-services.md).
 
 ## Procedure
 
@@ -51,7 +51,7 @@ Actions
 2.  Select the suggestion under **Suggested Group Name**.
 3.  On the Application fingerprints suggestion form that is displayed, verify the information.
 
-For information about the form fields, see [Application fingerprint suggestion form](../reference/discovery-admin-app-fingerprint-form.md).
+For information about the form fields, see [Application fingerprint suggestion form](discovery-admin-app-fingerprint-form.md).
 
 4.  Determine whether to add the suggestion to discovery.
     -   If the suggestion isn't relevant and you don't want to add it, select **Ignore**.
@@ -66,7 +66,7 @@ For information about the form fields, see [Application fingerprint suggestion f
 
 1.  Confirm that you’ve opted in to ITOM Content Service.
 
-**Note:** If the **Opt-in** option is displayed, you have not yet opted in. For more information, see [Share data on ITOM Content Service](share-data-itom-content-service.md).
+**Note:** If the **Opt-in** option is displayed, you have not yet opted in. For more information, see [Share data on ITOM Content Service](../itom-visibility/share-data-itom-content-service.md).
 
 2.  Select the **Content service suggestions** widget.
 3.  Manually sync with suggestions from your system by selecting **Sync candidates**.

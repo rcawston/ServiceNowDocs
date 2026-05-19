@@ -20,5 +20,5 @@ These default configurations are applied automatically when Apply default config
 |Notifications|Configures standard notifications to support Finance case workflows and communication.|
 |Intake forms|Activates required intake forms for submitting Finance requests and capturing case details.|
 
-**Parent Topic:**[Install Finance](../task/install-finance.md)
+**Parent Topic:**[Install Finance](install-finance.md)
 

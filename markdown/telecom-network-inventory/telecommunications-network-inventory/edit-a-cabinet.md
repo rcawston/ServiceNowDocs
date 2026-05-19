@@ -58,7 +58,7 @@ Add
 1.  Select **\(![Options icon](../../../common/image/icon-menu.png)\)** &gt; **Add to Cabinet**.
 2.  Fill in the fields and select **Add**.
 
-To learn more about the fields, see add equipment to rack/cabinet table of [Change request and change task forms](../concept/change_request_forms.md).
+To learn more about the fields, see add equipment to rack/cabinet table of [Change request and change task forms](change_request_forms.md).
 
 You can also drag the equipment from the corner to the desired rack unit.
 
@@ -71,7 +71,7 @@ Move
 1.  Select **\(![Options icon](../../../common/image/icon-menu.png)\)** &gt; **Move**.
 2.  Fill in the fields and select **Move**.
 
-To learn more about the fields, see add equipment to rack/cabinet table of [Change request and change task forms](../concept/change_request_forms.md).
+To learn more about the fields, see add equipment to rack/cabinet table of [Change request and change task forms](change_request_forms.md).
 
 You can also drag the equipment from the corner to the desired rack unit.
 
@@ -105,5 +105,5 @@ Select Options \(![Options icon](../../../common/image/icon-menu.png)\) of the r
 
 To perform further actions, see [Optimizing rack and cabinet usage](subsequent-actions.md).
 
-**Parent Topic:**[Create a cabinet](../concept/create-a-cabinet.md)
+**Parent Topic:**[Create a cabinet](create-a-cabinet.md)
 

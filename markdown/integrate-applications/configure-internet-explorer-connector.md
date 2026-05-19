@@ -75,5 +75,5 @@ Role required: none
 14. Repeat the steps to capture multiple elements.
 
 
-**Parent Topic:**[IE connector](../concept/internet-explorer-connector.md)
+**Parent Topic:**[IE connector](internet-explorer-connector.md)
 

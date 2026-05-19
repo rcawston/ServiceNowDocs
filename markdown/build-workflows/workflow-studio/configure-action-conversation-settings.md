@@ -280,5 +280,5 @@ The list of default channels in which this action is available.To learn more abo
     You can also test the skill by selecting **Save and test**.
 
 
-**Parent Topic:**[Building actions](../concept/actions.md)
+**Parent Topic:**[Building actions](actions.md)
 

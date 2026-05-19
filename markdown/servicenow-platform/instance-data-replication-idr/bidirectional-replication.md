@@ -34,7 +34,7 @@ Bidirectional replication has the following limitations:
 
     The most recent update wins, which means that the data on the consumer and producer tables might be different.
 
--   Bidirectional replication supports the [Number](../reference/adapter-descriptions.md) adapter but none of the other adapters.
+-   Bidirectional replication supports the [Number](adapter-descriptions.md) adapter but none of the other adapters.
 -   Bidirectional replication keeps data in sync between producer and consumer instances. However, in some scenarios, avoid using bidirectional replication and use one-way replication instead.
     -   If you plan to use adapters to differentiate data replicated between two instances, use two one-way replication sets to replicate data back and forth instead of using bidirectional sets.
     -   If you need to seed data from one instance to another and vice versa, use two one-way replication sets.

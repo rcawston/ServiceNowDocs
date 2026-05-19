@@ -32,5 +32,5 @@ Role required: SM admin
     Related lists display maintenance plans, maintenance plan records for the CI, and service orders.
 
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](c_MaintPlanMgmt.md)
 

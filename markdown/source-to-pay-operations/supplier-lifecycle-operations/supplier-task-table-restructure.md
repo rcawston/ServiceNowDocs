@@ -21,18 +21,18 @@ Starting with the Washington DC release, the Supplier Task \[sn\_slm\_task\] tab
 
 ![Supplier Task table structure](../image/supplier-task-structure.png "Supplier Task table structure")
 
-After you upgrade to the Yokohama release, a new field **KPI Instruction** is added in the Supplier Task table. To update the **KPI Instruction** field, [run the fix script SLO - Feb 25 data script](../task/run-fixscript-update-kpi-instruction.md).
+After you upgrade to the Yokohama release, a new field **KPI Instruction** is added in the Supplier Task table. To update the **KPI Instruction** field, [run the fix script SLO - Feb 25 data script](run-fixscript-update-kpi-instruction.md).
 
 **Parent Topic:**[Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md)
 
 **Related topics**  
 
 
-[Run fix script to update the KPI Instruction field in the Supplier Task table](../task/run-fixscript-update-kpi-instruction.md)
+[Run fix script to update the KPI Instruction field in the Supplier Task table](run-fixscript-update-kpi-instruction.md)
 
-[Run fix script to migrate existing data from the deprecated Action type column after upgrade](../task/fix-script-deprecated-column.md)
+[Run fix script to migrate existing data from the deprecated Action type column after upgrade](fix-script-deprecated-column.md)
 
-[Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](../task/access-smw-after-upgrade.md)
+[Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](access-smw-after-upgrade.md)
 
-[Enable deprecated case types after upgrade](../task/enable-deprecated-case-types.md)
+[Enable deprecated case types after upgrade](enable-deprecated-case-types.md)
 

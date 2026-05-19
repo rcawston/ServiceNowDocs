@@ -17,7 +17,7 @@ Configure script screen fields to display calculated or personalized content in 
 
 Role required: admin
 
-**Note:** For use cases and examples of how the script screen field is used, see [Dynamic variable support in record screens](../reference/record-screen-script-type.md).
+**Note:** For use cases and examples of how the script screen field is used, see [Dynamic variable support in record screens](record-screen-script-type.md).
 
 ## Procedure
 
@@ -41,7 +41,7 @@ Type
 
 </td><td>
 
-Type of screen field. For a list of types and a description of how they're used, see [Screen fields](../concept/sg-screen-field-enhancements.md).For this configuration, select **Script**.
+Type of screen field. For a list of types and a description of how they're used, see [Screen fields](sg-screen-field-enhancements.md).For this configuration, select **Script**.
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Script that runs when the record screen is displayed. The script must return a J
 
 6.  Enter your script in the **Execution Script** area, including any dynamic variables.
 
-    **Note:** For configuration information, see [Dynamic variable support in record screens](../reference/record-screen-script-type.md).
+    **Note:** For configuration information, see [Dynamic variable support in record screens](record-screen-script-type.md).
 
 7.  Select **Submit**.
 

@@ -62,7 +62,7 @@ Trigger For
 
 Auto-fill a form with a custom context and default instructions when triggered from the instance.When ServiceNow AI Lens is triggered from the instance in the context of the Lens action, the default instructions are always applied and specific form fields are extracted.
 
-To view the procedure to define default instructions, see [Define default instructions for ServiceNow AI Lens](../task/default-prompt-system-property-lens.md).
+To view the procedure to define default instructions, see [Define default instructions for ServiceNow AI Lens](default-prompt-system-property-lens.md).
 
 </td><td>
 
@@ -212,7 +212,7 @@ Fields
 
 </td><td>
 
-Table fields that you can select to provide enhanced context for Lens execution. Select fields to help Lens determine what information to extract from images. Only fields supported by Lens are available for selection. For more information, see [Field types supported](../reference/field-types-supported.md).This field appears only when **Supported Fields** is selected from the **Request Context** choice field.
+Table fields that you can select to provide enhanced context for Lens execution. Select fields to help Lens determine what information to extract from images. Only fields supported by Lens are available for selection. For more information, see [Field types supported](field-types-supported.md).This field appears only when **Supported Fields** is selected from the **Request Context** choice field.
 
 </td></tr><tr><td>
 

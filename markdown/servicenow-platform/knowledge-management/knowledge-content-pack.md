@@ -21,7 +21,7 @@ Platform Analytics data visualizations use Performance Analytics [indicator](htt
 
 To enable the solution for Knowledge Management, an admin can navigate to **Performance Analytics** &gt; **Guided Setup**. Click **Get Started** then scroll to the section for Knowledge Management. The guided setup takes you through the entire setup and configuration process.
 
-**Note:** You must [Activate the Knowledge Management Advanced plugin](../../../product/knowledge-management/task/activate-knowledge-advanced-plugin.md).
+**Note:** You must [Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md).
 
 ## Domain separation and 'Run As' user
 
@@ -38,7 +38,7 @@ If you have Self-Service Analytics activated on an instance, you can add Self-Se
 -   **[Knowledge Management dashboard](knowledge-management-dashboard.md)**  
 The Knowledge Management dashboard helps knowledge content owners and managers to determine the usage and quality of their knowledge content. It helps confirm that the proper processes and procedures are being followed for content creation.
 
-**Parent Topic:**[Analytics and Reporting Solutions for Knowledge Management](../../../product/knowledge-management/concept/analytics-and-reporting-solutions-for-knowlege-management.md)
+**Parent Topic:**[Analytics and Reporting Solutions for Knowledge Management](analytics-and-reporting-solutions-for-knowlege-management.md)
 
 **Related topics**  
 

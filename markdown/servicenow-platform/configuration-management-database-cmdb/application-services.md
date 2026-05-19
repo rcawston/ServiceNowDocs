@@ -151,7 +151,7 @@ Analyze discovered resources in the CMDB before ingesting from 3rd party to avoi
 
 </td></tr><tr><td>
 
-[Populate an application service using the Dynamic CI Group method](../task/populate-app-service-dynamic-group.md) Based on CMDB groups, whose members populate the application service.
+[Populate an application service using the Dynamic CI Group method](populate-app-service-dynamic-group.md) Based on CMDB groups, whose members populate the application service.
 
 </td><td>
 
@@ -179,9 +179,9 @@ Be familiar with the exact service structure: sys\_id of each CI comprising the 
 
 </td></tr><tr><td>
 
-[Populate an application service using the Manual method](../task/populate-app-service-manual.md) Create a manual application service with one CI only: the entry point. To populate a manually created application service, add other CIs manually as described in [Manually add CIs to an application service](../../service-mapping/task/manually-add-ci-to-business-service.md).
+[Populate an application service using the Manual method](populate-app-service-manual.md) Create a manual application service with one CI only: the entry point. To populate a manually created application service, add other CIs manually as described in [Manually add CIs to an application service](manually-add-ci-to-business-service.md).
 
- Alternatively, create and populate manual application services by [converting business services](../../service-mapping/concept/convert-bus-to-app-svc-intro.md#) created in the CMDB and stored in \[cmdb\_ci\_service\].
+ Alternatively, create and populate manual application services by [converting business services](convert-bus-to-app-svc-intro.md#) created in the CMDB and stored in \[cmdb\_ci\_service\].
 
 </td><td>
 
@@ -197,12 +197,12 @@ This method doesn't require any preexisting setup or object configuration.You ca
 
 </td></tr><tr><td>
 
-[Populate an application service using the Dynamic Service method](../task/populate-app-service-dynamic-service.md) Application services that automatically update to reflect any change to CI relationships in the CMDB CI Relationship \[cmdb\_rel\_ci\] table.
+[Populate an application service using the Dynamic Service method](populate-app-service-dynamic-service.md) Application services that automatically update to reflect any change to CI relationships in the CMDB CI Relationship \[cmdb\_rel\_ci\] table.
 
  To conform with Common Service Data Model, you can also convert legacy services to dynamic application services. Those legacy services are stored in the \[cmdb\_ci\_service\] or \[cmdb\_ci\_service\_manual\] CMDB tables:
 
--   [Convert business services to application services](../../service-mapping/concept/convert-bus-to-app-svc-intro.md#)
--   [Convert legacy manual services into dynamic application services](../task/convert-manual-app-ser-to-dynamic.md)
+-   [Convert business services to application services](convert-bus-to-app-svc-intro.md#)
+-   [Convert legacy manual services into dynamic application services](convert-manual-app-ser-to-dynamic.md)
 
 </td><td>
 

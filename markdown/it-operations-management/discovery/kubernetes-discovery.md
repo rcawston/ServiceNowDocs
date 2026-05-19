@@ -276,7 +276,7 @@ Cluster resource ID example:-   Azure Kubernetes clusters- Resource ID.
 
     Create a serverless execution pattern for the discovery schedule and assign it to the Kubernetes Events pattern. Configure the parameters required by the Kubernetes pattern as described in [Configuring execution pattern attributes](kubernetes-discovery.md#table_obc_k2z_3db).
 
-10. To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](tag_discovery_configuration.md).
+10. To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../service-mapping/tag_discovery_configuration.md).
 
 ## Prerequisites for Kubernetes Cloud infrastructure discovery
 
@@ -781,7 +781,7 @@ String
  
 
 </td></tr></tbody>
-</table>**Note:** `<service_account_id>` is the account ID name under Cloud Service Accounts. For more information, see: [Create Discovery schedules for cloud resources](../../discovery/concept/discovery-manager.md#)
+</table>**Note:** `<service_account_id>` is the account ID name under Cloud Service Accounts. For more information, see: [Create Discovery schedules for cloud resources](discovery-manager.md#)
 
 ## Kubernetes Credential-less or mid-in-cluster discovery
 
@@ -2420,7 +2420,7 @@ Service Mapping uses tag-based discovery to create application service maps incl
 
 ## Kubernetes dashboard
 
-After Discovery finishes discovering components of the Kubernetes deployment, you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the Kubernetes Explorer dashboard to view the Kubernetes environments and resources of your organization. To use the enhanced Kubernetes dashboard, verify you have Discovery Admin Workspace starting from version 1.3.1 \(August 2024 Store\). For more information about Kubernetes Explorer, see [Kubernetes Explorer](../../../use/dashboards/application-content-packs/cloud-operations-workspace-kubernetes-dashboard.md).
+After Discovery finishes discovering components of the Kubernetes deployment, you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the Kubernetes Explorer dashboard to view the Kubernetes environments and resources of your organization. To use the enhanced Kubernetes dashboard, verify you have Discovery Admin Workspace starting from version 1.3.1 \(August 2024 Store\). For more information about Kubernetes Explorer, see [Kubernetes Explorer](../cloud-discovery-workspace/cloud-operations-workspace-kubernetes-dashboard.md).
 
 ## Troubleshooting
 
@@ -2470,5 +2470,5 @@ By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Incr
 -   **[Container image scanning for software decomposition](container-image-concept.md)**  
 The ITOM Visibility apps, Discovery and Service Mapping Patterns and Kubernetes Visibility Agent integrate with Aqua Trivy to collect data on container images and OS packages. You can increase your control over container deployment by having visibility to the container components.
 
-**Parent Topic:**[Discovery for containerized resources](../../discovery/concept/container-discovery.md)
+**Parent Topic:**[Discovery for containerized resources](container-discovery.md)
 

@@ -282,5 +282,5 @@ Critical remediation tasks that are overdue organized by assignment group.
 |OT Deferred Vulnerable Items by Reason|Bar|Number of the deferred OT vulnerable items that are grouped by the deferral reason.|
 |OT Exceptions for Critical Vulnerable Items by Assignment Group|Indicator scorecard|Exceptions for critical VIs organized by assignment group.|
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
 

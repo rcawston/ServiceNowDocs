@@ -31,7 +31,7 @@ In the manual metric definition, the mode of data collection is manual. An optio
 
 3.  On the form, fill in the fields.
 
-    For information about the fields, refer to [Manual metric definition fields](../reuse/manual-md-reuse.md).
+    For information about the fields, refer to [Manual metric definition fields](manual-md-reuse.md).
 
 4.  Click **Save**.
 
@@ -44,10 +44,10 @@ The metric definition is saved in the Metric definitions list.
 
 You can associate an entity type, create metrics, and add citations to the metric definition. See [Update a metric definition](update-automated-metric-definition.md) for more information.
 
--   **[Manual metric definition fields](../reuse/manual-md-reuse.md)**  
+-   **[Manual metric definition fields](manual-md-reuse.md)**  
 Detailed explanation of the fields on the manual metric definition form.
 -   **[Set up estimation for manual metric definition](set-up-estimation-for-manual-metric-definition.md)**  
 Enable or disable the estimation property to enable the use of estimated data when actual data is unavailable, using either pre-defined or custom methods in manual metric definitions.
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

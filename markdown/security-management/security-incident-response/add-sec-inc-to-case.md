@@ -55,5 +55,5 @@ Role required: sn\_si.admin, sn\_ti.case\_user\_write
 **Related topics**  
 
 
-[Security Case Management](../../threat-intelligence-case-management/concept/case-mgmt.md)
+[Security Case Management](../case-mgmt.md)
 

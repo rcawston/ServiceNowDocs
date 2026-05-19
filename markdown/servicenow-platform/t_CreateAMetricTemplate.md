@@ -46,17 +46,17 @@ Role required: assessment\_admin or admin
 8.  Click **Update**.
 
 
--   **[Metric templates](../reference/r_MetricTemplates.md)**  
+-   **[Metric templates](r_MetricTemplates.md)**  
 Metric templates define reusable rating scales for evaluating non-scripted metrics.
 -   **[Update a metric minimum and maximum value to match a template](t_UpdAMetrMinMaxValToMatchATmplate.md)**  
 For assessment results to be properly calculated, the Min and Max values of a metric that uses a template must be equal to the smallest and largest template definition Value, respectively.
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](c_AssessmentProcess.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 
 [Create an assessment metric for a category](t_CreateAMetric.md)
 

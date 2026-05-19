@@ -74,7 +74,7 @@ Use an HTTP protocol analyzer to inspect the request. Useful tools include:
 
 ## Result
 
-Inspecting the request provides an understanding of the fields you need to filter for and iterate over in your encryption rule. To understand the fields in the request object, see [request](../concept/c_requestAPI.md#).
+Inspecting the request provides an understanding of the fields you need to filter for and iterate over in your encryption rule. To understand the fields in the request object, see [request](c_requestAPI.md#).
 
-**Parent Topic:**[Define a custom encryption rule](../concept/c_EncryptionRules.md)
+**Parent Topic:**[Define a custom encryption rule](c_EncryptionRules.md)
 

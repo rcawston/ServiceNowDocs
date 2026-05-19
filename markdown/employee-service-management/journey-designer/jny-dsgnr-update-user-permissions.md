@@ -29,12 +29,12 @@ Role required: sn\_jny.admin or admin
 
     -   **Journey owner permissions**
     -   **Mentor permissions**
-    For user permission details see, [Journey designer user permissions reference](../reference/jny-dsgnr-user-permission-ref.md).
+    For user permission details see, [Journey designer user permissions reference](jny-dsgnr-user-permission-ref.md).
 
 4.  Select a check box to enable the permission, or clear a check box to disable the permission.
 
 5.  Select **Update** to save your changes.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 

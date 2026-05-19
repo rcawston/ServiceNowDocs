@@ -26,7 +26,7 @@ Role required: admin, contract\_manager\(core UI or Hardware Asset Workspace onl
 -   Contract information and history is retained when a contract is renewed. If the end date of the contract changes, the end date of any associated assets changes to match. You can renew a contract that meets the following conditions.
     -   **State** is **Active** or **Expired**
     -   **Substate** is **None** or **Rejected**
--   If the system property **sn\_contract\_enable\_renewal\_flow** is enabled, the contract renewal workflow is available for maintenance &amp; warranty contracts. For more information, see [Contract renewal workflow](../concept/cont-renew-wf.md).
+-   If the system property **sn\_contract\_enable\_renewal\_flow** is enabled, the contract renewal workflow is available for maintenance &amp; warranty contracts. For more information, see [Contract renewal workflow](cont-renew-wf.md).
 
 ## Procedure
 

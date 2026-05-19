@@ -48,7 +48,7 @@ If you want to make changes and use the plan again, edit a canceled plan. To mov
 -   **[Cancel a resource plan from a project, planning console, or demand record](cancel-resource-plan-from-project-or-demand.md)**  
 If a project or a project task is marked Closed, the project manager can cancel the associated future resource plans. Similarly, the demand manager can cancel the future resource plans for a Closed or Deferred demand.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -83,7 +83,7 @@ If a project or a project task is marked Closed, the project manager can cancel 
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

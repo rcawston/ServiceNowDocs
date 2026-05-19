@@ -43,7 +43,7 @@ Type
 
 </td><td>
 
-Data type selected for this question. See the table in [Controls](../concept/c_SurveyDesignerElements.md#fig_wcx_pb3_br) for the available data types.
+Data type selected for this question. See the table in [Controls](c_SurveyDesignerElements.md#fig_wcx_pb3_br) for the available data types.
 
 </td></tr><tr><td>
 

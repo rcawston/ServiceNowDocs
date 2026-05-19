@@ -136,5 +136,5 @@ Create a phase template for a matter template for resolving the matter in an org
 -   **[Create a task template within a phase template](create-task-template-for-matter-phase-template.md)**  
 Create a task template within a phase template of a legal matter template. When you apply a legal matter template while creating a matter, the associated phases and tasks from the template are added by default to the matter.
 
-**Parent Topic:**[Legal matter templates](../concept/legal-matter-administration.md)
+**Parent Topic:**[Legal matter templates](legal-matter-administration.md)
 

@@ -15,11 +15,11 @@ The IdleTimer connector sets, starts and ends an idle time within an attended au
 
 You must first use and then expose the methods in the IdleTimer connector to use its methods.
 
--   To use the connector, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   To expose the methods, see [Use connector method](../task/use-connector-method.md).
--   To use the methods, see [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+-   To use the connector, see [Use a connector in RPA Desktop Design Studio](use-connector.md).
+-   To expose the methods, see [Use connector method](use-connector-method.md).
+-   To use the methods, see [Use a component in RPA Desktop Design Studio](configure-components.md).
 
--   **[IdleTimer connector methods and events](../reference/idletimer-connector-methods-and-events.md)**  
+-   **[IdleTimer connector methods and events](idletimer-connector-methods-and-events.md)**  
 Learn about the IdleTimer connector methods and events.
 
 **Parent Topic:**[Connectors](connectors.md)

@@ -110,5 +110,5 @@ Calendar year to generate the form for.The form includes all OSHA recordable inj
 
 You can view the saved OSHA form by navigating to the **Establishments** list. For more information, see [View a saved OSHA 300 and 300A form](view-osha-annual-forms.md).
 
-**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](../concept/generating-osha-forms.md)
+**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](generating-osha-forms.md)
 

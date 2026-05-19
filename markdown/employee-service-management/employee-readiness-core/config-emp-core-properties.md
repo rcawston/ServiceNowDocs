@@ -28,12 +28,12 @@ Role required: sn\_imt\_core.admin
     |Property|Description|
     |--------|-----------|
     |sn\_imt\_core.send\_email\_to\_visitor|When enabled, the **Notify about scheduled visit** email notification is sent to the visitor when an employee invites them to the workplace. The email is sent immediately after the employee submits the invitation. The email contains a brief confirmation of the scheduled visit, including information about the date of the visit and the name of the employee who invited them.|
-    |sn\_imt\_core.days\_to\_ask\_for\_health\_data|Sets the number of days before the scheduled visit that the **Ask for health related data from visitor** email notification is sent to the visitor. The email contains information about safety requirements and policies that the visitor must agree to follow. The visitor must respond `Yes` to the email to complete the [Visitor Invitation Requirement](../reference/included-health-safety-requirements.md).|
+    |sn\_imt\_core.days\_to\_ask\_for\_health\_data|Sets the number of days before the scheduled visit that the **Ask for health related data from visitor** email notification is sent to the visitor. The email contains information about safety requirements and policies that the visitor must agree to follow. The visitor must respond `Yes` to the email to complete the [Visitor Invitation Requirement](included-health-safety-requirements.md).|
 
-    For more information about the email notifications used by the properties, see [Modify visitor notification emails](../../employee-health-screening/task/configure-health-screening.md#).
+    For more information about the email notifications used by the properties, see [Modify visitor notification emails](../safe-workplace/configure-health-screening.md#).
 
 3.  Click **Save**.
 
 
-**Parent Topic:**[Employee Health and Safety Status](../concept/employee-health-safety-status.md)
+**Parent Topic:**[Employee Health and Safety Status](employee-health-safety-status.md)
 

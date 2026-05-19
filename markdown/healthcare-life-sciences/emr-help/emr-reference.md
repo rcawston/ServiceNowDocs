@@ -15,14 +15,14 @@ breadcrumb: [EMR Help, Healthcare and Life Sciences Service Management, Healthca
 
 Reference topics provide additional information about EMR Help features.
 
--   **[Encryption options in EMR Help](../concept/emr-help-encryption-support.md)**  
+-   **[Encryption options in EMR Help](emr-help-encryption-support.md)**  
 EMR Help provides encryption support to secure sensitive information.
 -   **[Components installed with EMR Help](components-installed-emr-help.md)**  
 Several types of components are installed with activation of the EMR Help application including tables, user roles, and plugins.
--   **[EMR Help data model tables](../concept/tables-installed-with-emr-help.md)**  
+-   **[EMR Help data model tables](tables-installed-with-emr-help.md)**  
 Tables installed with the EMR Help application enable you to submit requests on your ServiceNow® instance from an EMR System.
--   **[Domain separation and EMR Help](../concept/emr-help-domain-sep.md)**  
+-   **[Domain separation and EMR Help](emr-help-domain-sep.md)**  
 Domain separation is supported for EMR Help. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[EMR Help](../concept/emr-exploring.md)
+**Parent Topic:**[EMR Help](emr-exploring.md)
 

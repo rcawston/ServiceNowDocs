@@ -73,7 +73,7 @@ Default. Manually translate your primary language into a secondary language. Sel
 </td></tr></tbody>
 </table>Multilingual models are supported in 17 languages.
 
-**Note:** Some of these languages support only intents, not entities. If the language is intent-only, your primary model entities will not be translated or copied. For more information, see [NLU language support](../concept/nlu-language-support.md).
+**Note:** Some of these languages support only intents, not entities. If the language is intent-only, your primary model entities will not be translated or copied. For more information, see [NLU language support](nlu-language-support.md).
 
 In this example scenario, your primary model uses the English language and you're adding a version in the French language, without translating utterances.
 

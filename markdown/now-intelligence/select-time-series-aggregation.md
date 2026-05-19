@@ -36,11 +36,11 @@ To explore a different time aspect of the indicator, apply one of the following 
     Show cumulative scores. These time aggregations are useful when you have a monthly target to hit, but you also need to see the velocity throughout the month.
 
 
-For more information about the use, behavior, and limitations of time aggregations, see [Applying time series aggregations](../../performance-analytics/concept/applying-time-series-aggregations.md#). For examples and a deeper exploration of using time series aggregations with indicators, see this Performance Analytics Academy video, [Leveraging Time Series with Performance Analytics](https://youtu.be/aM6JtUndRYk).
+For more information about the use, behavior, and limitations of time aggregations, see [Applying time series aggregations](performance-analytics/applying-time-series-aggregations.md#). For examples and a deeper exploration of using time series aggregations with indicators, see this Performance Analytics Academy video, [Leveraging Time Series with Performance Analytics](https://youtu.be/aM6JtUndRYk).
 
 ## Procedure
 
-1.  Open KPI Details for an indicator, as described in [View KPI Details](../../performance-analytics/task/view-kpi-details.md).
+1.  Open KPI Details for an indicator, as described in [View KPI Details](view-kpi-details.md).
 
 2.  Expand the time aggregation menu, which has a label matching the currently selected aggregation period, usually Daily.
 
@@ -52,7 +52,7 @@ For more information about the use, behavior, and limitations of time aggregatio
 
 4.  Select a time period.
 
-    Invalid and excluded time periods for the indicator frequency are not enabled. For more information about excluded time periods, see [Exclude time series from an indicator](../../performance-analytics/concept/c_ExcludingTimeSeriesFromIndicators.md).
+    Invalid and excluded time periods for the indicator frequency are not enabled. For more information about excluded time periods, see [Exclude time series from an indicator](performance-analytics/c_ExcludingTimeSeriesFromIndicators.md).
 
 5.  Select either the average or the sum function.
 
@@ -71,16 +71,16 @@ In the following time aggregation menu, the daily indicator Number of open incid
 
 ![Time aggregation menu for a daily indicator, showing a Period aggregation to a weekly sum](../image/kpi-details-time-aggregation.png)
 
-**Parent Topic:**[Examining indicators with KPI Details](../reference/kpi-details-components.md)
+**Parent Topic:**[Examining indicators with KPI Details](kpi-details-components.md)
 
 **Related topics**  
 
 
-[View contributing indicators to a formula in KPI Details](../concept/view-formula-components.md)
+[View contributing indicators to a formula in KPI Details](view-formula-components.md)
 
-[Show, compare, create, and edit records in KPI Details](../concept/show-compare-edit-records.md#)
+[Show, compare, create, and edit records in KPI Details](show-compare-edit-records.md#)
 
-[Chart options in KPI Details](../reference/chart-options.md)
+[Chart options in KPI Details](chart-options.md)
 
 [Configure trend for a native Data snapshots indicator in KPI Details](configure-trend-ds-indicator.md)
 

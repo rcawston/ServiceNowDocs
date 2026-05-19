@@ -23,7 +23,7 @@ Role required: admin
 
 Users with the roles that are listed in the following table can use the Operational Technology Manager application.
 
-If you want to configure site users, you can create and assign user criteria for equipment model entity site users. For more information, see [Assign or remove equipment model site access for non-administrators](../../mftg-manufacturing-process-mgr/task/create-user-criteria-for-equipment-model-entity-site-users.md).
+If you want to configure site users, you can create and assign user criteria for equipment model entity site users. For more information, see [Assign or remove equipment model site access for non-administrators](../industrial-process-manager/create-user-criteria-for-equipment-model-entity-site-users.md).
 
 <table id="table_q55_vpq_4nb"><thead><tr><th>
 
@@ -39,7 +39,7 @@ Operational Technology Discovery Administrator \[ot\_discovery\_admin\]
 
 </td><td>
 
-Can run the Discovery for Operational Technology process, but cannot access the Configuration Management Database \(CMDB\) to view the configuration items \(CIs\) and related Operational Technology \(OT\) entities that are created from discovered items. To learn more, see [Create an OT Discovery schedule and run the Discovery process](run-discovery-for-operational-technology.md).
+Can run the Discovery for Operational Technology process, but cannot access the Configuration Management Database \(CMDB\) to view the configuration items \(CIs\) and related Operational Technology \(OT\) entities that are created from discovered items. To learn more, see [Create an OT Discovery schedule and run the Discovery process](../run-discovery-for-operational-technology.md).
 
 </td></tr><tr><td>
 
@@ -76,5 +76,5 @@ Create, read, update, and delete access for Operational Technology \(OT\) device
     |**Assign a role to a group**|See [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).|
 
 
-**Parent Topic:**[Configuring the Operational Technology Manager](../concept/configuring-operational-technology-manager.md)
+**Parent Topic:**[Configuring the Operational Technology Manager](configuring-operational-technology-manager.md)
 

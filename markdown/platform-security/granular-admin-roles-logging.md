@@ -20,5 +20,5 @@ Granular admin roles replace broad admin access with targeted, feature-specific 
 |txn\_part\_metrics\_viewer|Transaction Part Metrics Logs|com.glide.transaction\_part\_metrics\_log|Provides read and report\_view access to the syslog\_transaction\_part\_metrics table.|
 |txn\_part\_metrics\_admin|Transaction Part Metrics Logs|com.glide.transaction\_part\_metrics\_log|Provides create, write, and delete access to the syslog\_transaction\_part\_metrics table. The previous admin role ACL bindings on this table are deleted and replaced with these new granular roles. New ACLs for all five operations \(read, create, write, delete, report\_view\) are introduced, each gated by the appropriate new role.|
 
-**Parent Topic:**[Logs](../../security/concept/logs.md)
+**Parent Topic:**[Logs](logs.md)
 

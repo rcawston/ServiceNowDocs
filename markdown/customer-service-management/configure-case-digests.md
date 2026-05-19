@@ -56,7 +56,7 @@ Create Assignment Rules
 
 Assignment rules automatically assign tasks to users and groups when the rule conditions are met. Two rules are provided with the case digests feature that assigns the post case review and case action summary records to the case agent:-   Auto- assign the CAS to case agent
 -   Auto- assign the PCR to case agent
- For more information, see [Case action summary and post case review assignment rules](../reference/case-digests-assignment-rules.md).
+ For more information, see [Case action summary and post case review assignment rules](case-digests-assignment-rules.md).
 
 </td></tr><tr><td>
 
@@ -99,5 +99,5 @@ Create the mapping that identifies the case type fields that are copied to post 
 **Related topics**  
 
 
-[Customer Service case digests](../concept/customer-service-case-digests.md)
+[Customer Service case digests](customer-service-case-digests.md)
 

@@ -48,7 +48,7 @@ Role required: sn\_wsd\_rsv.admin
     For more information, see [Enable map view to create reservations](enable-map-view-mobile-reservations.md) and [Make a reservation using the Now Mobile app](make-a-reservation-on-mobile.md).
 
 
-**Parent Topic:**[Configure Workplace Service Delivery for Mobile](../concept/configure-wsd-mobile.md)
+**Parent Topic:**[Configure Workplace Service Delivery for Mobile](configure-wsd-mobile.md)
 
 **Previous topic:**[Enable map view to create reservations](enable-map-view-mobile-reservations.md)
 

@@ -17,15 +17,15 @@ As an admin you can customize the Critical Event Management application by insta
 
 ## Configuration overview
 
--   [Install Critical Event Management](../task/install-critical-event-management.md)
+-   [Install Critical Event Management](install-critical-event-management.md)
 
     Install the Critical Event Management application.
 
--   [Configure Critical Event Management groups](../task/configure-critical-event-management-groups.md)
+-   [Configure Critical Event Management groups](configure-critical-event-management-groups.md)
 
     Create groups, add members to the group, and assign roles to the members.
 
--   [Define communication plans, tasks, and recipients](../task/define-communication-plan.md)
+-   [Define communication plans, tasks, and recipients](define-communication-plan.md)
 
     Customize communication plans, create tasks, and add recipients.
 
@@ -33,15 +33,15 @@ As an admin you can customize the Critical Event Management application by insta
 
     Send communications using the SMS feature for Twilio.
 
--   [Configure Critical Event Management application properties](../task/configure-properties.md)
+-   [Configure Critical Event Management application properties](configure-properties.md)
 
     Configure important details for the Critical Event Management application.
 
--   [Configure notification templates to send email](../task/configure-email-notification-template.md)
+-   [Configure notification templates to send email](configure-email-notification-template.md)
 
     Add or edit a notification template.
 
--   [Configure emergency procedures for employee portal](../task/configure-emergency-procedures-for-employee-portal.md)
+-   [Configure emergency procedures for employee portal](configure-emergency-procedures-for-employee-portal.md)
 
     Add knowledge articles about emergency procedures or edit existing ones.
 

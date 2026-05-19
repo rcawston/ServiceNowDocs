@@ -175,5 +175,5 @@ Select **Query Condition** from the **Data Source** field, and then make the fol
 7.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Security incident treemaps](../concept/c_ConfigureTreemaps.md)
+**Parent Topic:**[Security incident treemaps](c_ConfigureTreemaps.md)
 

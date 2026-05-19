@@ -39,7 +39,7 @@ If tasks in your project contain any of the supported constraints, then the cons
 
 **Note:** Shadow tasks and external dependencies are not exported when you export the project data.
 
--   **[Export project data](../task/t_ExportAProjectWithTheProjectForm.md)**  
+-   **[Export project data](t_ExportAProjectWithTheProjectForm.md)**  
 Export the project data using the Export module, Project form, or Planning Console. Save the export file to a folder on your system in the Microsoft Project \(MPP\), XML, or CSV format.
 
 **Parent Topic:**[Importing and exporting projects](c_ProjectImportAndExport.md)
@@ -47,13 +47,13 @@ Export the project data using the Export module, Project form, or Planning Conso
 **Related topics**  
 
 
-[Project field mapping](../reference/r_ProjectFieldMapping.md)
+[Project field mapping](r_ProjectFieldMapping.md)
 
-[Create custom field mapping for Microsoft Project file import](../task/map-custom-fields-msp-project.md)
+[Create custom field mapping for Microsoft Project file import](map-custom-fields-msp-project.md)
 
 [Project import from Microsoft Project](project-import-msp.md)
 
-[Import project tasks for multiple projects](../task/import-project-tasks-multiple-projects.md)
+[Import project tasks for multiple projects](import-project-tasks-multiple-projects.md)
 
 [Calendars and schedules- Limitations](c_CalendarsAndSchedules.md)
 

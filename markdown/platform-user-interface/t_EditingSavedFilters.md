@@ -40,7 +40,7 @@ Role required: admin
     2.  Select **Update**.
 
 
-**Parent Topic:**[Filter admin functions](../concept/filter-admin-functions.md)
+**Parent Topic:**[Filter admin functions](filter-admin-functions.md)
 
 **Related topics**  
 

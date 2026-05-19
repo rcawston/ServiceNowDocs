@@ -35,7 +35,7 @@ Role required: sn\_communities.community\_user
     You can also view your notifications and subscriptions and enable or disable them. For details, see [Set notification preferences](manage-subscriptions.md).
 
 
-**Parent Topic:**[Community subscriptions](../concept/c_communities-subscriptions.md)
+**Parent Topic:**[Community subscriptions](c_communities-subscriptions.md)
 
 **Related topics**  
 
@@ -44,5 +44,5 @@ Role required: sn\_communities.community\_user
 
 [Set notification preferences](manage-subscriptions.md)
 
-[Community subscriptions](../concept/c_communities-subscriptions.md)
+[Community subscriptions](c_communities-subscriptions.md)
 

@@ -124,7 +124,7 @@ After you close an alert, you might need to follow up on these items:
     See [Handle alerts in the flapping state](operator-handle-alerts-flapping.md) for more information on what to look for.
 
 
-For a summary of other tasks that you might need to perform at some time, see [Advanced tasks for the Event Management operator](../concept/operator-advanced-tasks.md).
+For a summary of other tasks that you might need to perform at some time, see [Advanced tasks for the Event Management operator](operator-advanced-tasks.md).
 
-**Parent Topic:**[What Event Management operators do](../concept/operator-process.md)
+**Parent Topic:**[What Event Management operators do](operator-process.md)
 

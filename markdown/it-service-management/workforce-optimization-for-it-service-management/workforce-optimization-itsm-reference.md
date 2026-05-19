@@ -23,7 +23,7 @@ Find reference topics you need to that you need to complete to administer Workfo
 
 |Benefit|Reference topic|
 |-------|---------------|
-|Separate data, processes, and administrative tasks into logical groupings called domains.|[Domain separation and Workforce Optimization for ITSM](../concept/domain-separation-configurable-workforce-optimization-itsm.md)|
+|Separate data, processes, and administrative tasks into logical groupings called domains.|[Domain separation and Workforce Optimization for ITSM](domain-separation-configurable-workforce-optimization-itsm.md)|
 |Refer to roles and indicators used in the ITSM manager workspace.|[Workforce Optimization ITSM Manager Workspace components](configurable-itsm-manager-workspace-reference.md)|
 |Refer to tables to store user and application data or database views and a schedule job to collect data for indicators.|[Workforce Optimization for ITSM components](components-installed-workforce-optimization-itsm.md)|
 |Refer to roles to administer channels and queues, properties to configure default behavior, and reports to analyze channel data.|[Channel Management components in Workforce Optimization for ITSM](configurable-wfo-itsm-channel-management-reference.md)|
@@ -40,5 +40,5 @@ The configurable ITSM Manager Workspace has roles to administer the workspace, p
 -   **[Workforce Optimization for ITSM components](components-installed-workforce-optimization-itsm.md)**  
 The Workforce Optimization for ITSM application has tables to store user and application data or database views and a schedule job to collect data for indicators.
 
-**Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](../concept/advanced-configuration-workforce-optimization-itsm.md)
+**Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](advanced-configuration-workforce-optimization-itsm.md)
 

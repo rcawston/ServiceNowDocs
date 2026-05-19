@@ -58,7 +58,7 @@ The following workflow describes the tasks involved in configuring and using the
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Generate and maintain blueprints that contain configuration logic \(rules, attributes, product relationships\) for complex products.|[Create configurable product offerings and associated blueprints](../task/som-create-configurable-prod-offerings.md)|Product catalog admins|
+|Generate and maintain blueprints that contain configuration logic \(rules, attributes, product relationships\) for complex products.|[Create configurable product offerings and associated blueprints](som-create-configurable-prod-offerings.md)|Product catalog admins|
 |Quickly and accurately configure complex products based on requirements and product attributes, without requiring extensive knowledge of product structure and hierarchies.|[Using the CPQ Configurator](using-servicenowcpq.md)|Sales and order agents, customers|
 
 ## What to explore next
@@ -66,7 +66,7 @@ The following workflow describes the tasks involved in configuring and using the
 To learn more about configuring and using the CPQ Configurator, see:
 
 -   [Configuring CPQ Configurator](configuring-servicenow-cpq.md)
--   [Create configurable product offerings and associated blueprints](../task/som-create-configurable-prod-offerings.md)
+-   [Create configurable product offerings and associated blueprints](som-create-configurable-prod-offerings.md)
 -   [Using the CPQ Configurator](using-servicenowcpq.md)
 -   Online help \(access Logik help topics in the CPQ Configurator interface for product catalog admins\)
 

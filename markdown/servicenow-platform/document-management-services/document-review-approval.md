@@ -58,19 +58,19 @@ After a document has been created and edited, the revision can be submitted for 
 
 If the approval and publishing process is repeated, the published revision is retired when the new revision is published. Any workflows running against previous revisions are canceled when the document is published.
 
--   **[Create a document approval revision rule](../task/create-doc-approval-rev-rule.md)**  
+-   **[Create a document approval revision rule](create-doc-approval-rev-rule.md)**  
 Create a document approval revision rule for the document review and approval process.
--   **[Add a reviewer](../task/add-a-reviewer.md)**  
+-   **[Add a reviewer](add-a-reviewer.md)**  
 Add a single or multiple reviewers to the document approval and review rule for document review.
--   **[Add an approver](../task/add-an-approver.md)**  
+-   **[Add an approver](add-an-approver.md)**  
 Add a single or multiple approvers to the document approval and review rule for document approval.
--   **[Send a document version for review and approval](../task/send-document-for-review.md)**  
+-   **[Send a document version for review and approval](send-document-for-review.md)**  
 Send a document version for review and approval before publishing the document.
--   **[Approve or reject a document version](../task/approve-document.md)**  
+-   **[Approve or reject a document version](approve-document.md)**  
 Approve or reject a document version after the review process is complete.
--   **[Approve or reject a document version through email](../task/approve-reject-document-email.md)**  
+-   **[Approve or reject a document version through email](approve-reject-document-email.md)**  
 Approve or reject a document version request directly from your email.
--   **[Publish a document](../task/publish-a-document.md)**  
+-   **[Publish a document](publish-a-document.md)**  
 Publish a document revision that has been approved.
 
 **Parent Topic:**[Using Document Management](using-document-management.md)

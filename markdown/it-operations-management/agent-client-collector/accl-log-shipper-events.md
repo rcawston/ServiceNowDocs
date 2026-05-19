@@ -29,10 +29,10 @@ The ACC Events list shows all log shipper-related events in one place. The list 
 
 2.  Review the information provided in the Events list.
 
-    For details and a description of the columns, see [View events](../../event-management/task/t_EMManageEvent.md).
+    For details and a description of the columns, see [View events](../event-management/t_EMManageEvent.md).
 
 
-**Parent Topic:**[Agent Client Collector Log Analytics setup](../concept/accl-setup.md)
+**Parent Topic:**[Agent Client Collector Log Analytics setup](accl-setup.md)
 
 **Related topics**  
 

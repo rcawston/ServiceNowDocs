@@ -64,7 +64,7 @@ function getExtensionScriptSysId(scriptName, category) {
 
 ## Define a credential store
 
-The following is an example of an extended process function in the User Account Lookup category used to define a credential store. To create this extension script, go to **Password Reset** &gt; **Extensions** &gt; **New extension script** and create a new script as described in [Create an Extension Script](../task/t_CreateAnExtensionScript.md). To configure the User Lookup in a Password Reset process, see [Credential Stores](../concept/c_CredentialStores.md).
+The following is an example of an extended process function in the User Account Lookup category used to define a credential store. To create this extension script, go to **Password Reset** &gt; **Extensions** &gt; **New extension script** and create a new script as described in [Create an Extension Script](t_CreateAnExtensionScript.md). To configure the User Lookup in a Password Reset process, see [Credential Stores](c_CredentialStores.md).
 
 ```
 
@@ -128,7 +128,7 @@ SampleUserAccountLookupExtension.prototype = {
 
 ## Create an identification type
 
-The following is an example of an extended processForm function in the Identification Form Processor category that can be used to create an identification type. To create this extension script, go to **Password Reset** &gt; **Extensions** &gt; **New extension script** and create a new script as described in [Create an Extension Script](../task/t_CreateAnExtensionScript.md).
+The following is an example of an extended processForm function in the Identification Form Processor category that can be used to create an identification type. To create this extension script, go to **Password Reset** &gt; **Extensions** &gt; **New extension script** and create a new script as described in [Create an Extension Script](t_CreateAnExtensionScript.md).
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>

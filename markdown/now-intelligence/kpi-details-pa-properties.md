@@ -85,7 +85,7 @@ com.snc.pa.default\_chart\_threshold\_color
 
 </td><td>
 
-Color of the [threshold](../../performance-analytics/concept/performance-analytics-glossary.md#) in a chart.
+Color of the [threshold](performance-analytics/performance-analytics-glossary.md#) in a chart.
 
 </td></tr><tr><td>
 
@@ -96,5 +96,5 @@ com.snc.pa.default\_chart\_personal\_threshold\_color
 The line color for personal thresholds displayed on a KPI Details page.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[KPI Details reference](../concept/kpi-details-reference.md)
+</table>**Parent Topic:**[KPI Details reference](kpi-details-reference.md)
 

@@ -34,5 +34,5 @@ Role required: sam\_admin
 4.  On the SAP System User record, select the **SAP User Active Transactions** related tab to view the complete list of SAP transaction codes that were discovered for the given user.
 
 
-**Parent Topic:**[User transaction activity for named user types](../concept/sap-named-user-transaction-activity.md)
+**Parent Topic:**[User transaction activity for named user types](sap-named-user-transaction-activity.md)
 

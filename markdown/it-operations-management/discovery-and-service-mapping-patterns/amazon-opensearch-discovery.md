@@ -40,5 +40,5 @@ OpenSearch service domains are stored in Cloud Databases \[cmdb\_ci\_cloud\_data
 |Amazon resource name|Name of the service domain.|
 |FQDN|Fully qualified domain name of the region where the keyspace is located.|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

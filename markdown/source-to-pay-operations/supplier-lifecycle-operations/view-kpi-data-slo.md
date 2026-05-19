@@ -79,12 +79,12 @@ The supplier contact completes the assigned task from the Supplier Collaboration
 
 You are directed to the detailed-view page of the selected KPI.
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 **Related topics**  
 
 
-[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 [Run segmentation rule](run-segmentation-rule.md)
 

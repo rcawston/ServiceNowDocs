@@ -53,7 +53,7 @@ Schedule
 
 </td><td>
 
-Determines how frequently to send the prompt to the user.For more information, see [Configure signal schedules in Proactive Prompts](../task/proactive-prompts-signal-schedules.md).
+Determines how frequently to send the prompt to the user.For more information, see [Configure signal schedules in Proactive Prompts](proactive-prompts-signal-schedules.md).
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Category tags
 
 </td><td>
 
-The category for the signal, which is used to pull specific prompts on the prompt widget. For more information, see [Configure signal categories in Proactive Prompts](../task/proactive-prompts-signal-catergories.md).
+The category for the signal, which is used to pull specific prompts on the prompt widget. For more information, see [Configure signal categories in Proactive Prompts](proactive-prompts-signal-catergories.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Channels and actions
 
 </td><td>
 
-The channel where the prompts should be displayed and the actions associated with the channel. For more information, see [Configure delivery channels in Proactive Prompts](../task/proactive-prompts-config-channels.md).
+The channel where the prompts should be displayed and the actions associated with the channel. For more information, see [Configure delivery channels in Proactive Prompts](proactive-prompts-config-channels.md).
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ Prompt header
 
 </td><td>
 
-Icon and label displayed on the Employee Portal to identify the type of prompt. For example, you could have headers for Skills, Learning, Roles, and so on.For information on adding headers, see [Add a new prompt header to identify the prompt](../task/proactive-prompts-add-header.md).
+Icon and label displayed on the Employee Portal to identify the type of prompt. For example, you could have headers for Skills, Learning, Roles, and so on.For information on adding headers, see [Add a new prompt header to identify the prompt](proactive-prompts-add-header.md).
 
 </td></tr><tr><td>
 

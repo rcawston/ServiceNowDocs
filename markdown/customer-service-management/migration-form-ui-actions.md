@@ -21,5 +21,5 @@ UI actions include custom buttons, menu items, and limiting access to forms base
 
 To migrate UI actions, each UI action must have a corresponding form action to use UI actions in Configurable Workspace.
 
-For more information, see [Set up a form action in Configurable Workspace](../task/config-csm-config-ws-form-action.md).
+For more information, see [Set up a form action in Configurable Workspace](config-csm-config-ws-form-action.md).
 

@@ -41,7 +41,7 @@ Role required: sn\_hs\_chm.manager
 ## What to do next
 
 -   Use the filter options to narrow regulations by regulatory list topic, country, or region. Open individual regulation records to review detailed parameters, thresholds, and conformance status. For more information, see [Monitor and manage the Regulatory list for a chemical substance](hs-monitor-manage-regulatory-tab.md).
--   In the **Regulatory** tab select **New** to create a 3E regulatory list manually when integration with 3E Regulatory Intelligence is not available. For more information on completing the 3E regulatory list regulation form, see [Regulatory list regulation form](../reference/hs-regulatory-list-regulation-form.md).
+-   In the **Regulatory** tab select **New** to create a 3E regulatory list manually when integration with 3E Regulatory Intelligence is not available. For more information on completing the 3E regulatory list regulation form, see [Regulatory list regulation form](hs-regulatory-list-regulation-form.md).
 
-**Parent Topic:**[3E Regulatory Intelligence](../concept/hs-3e-regulatory-intelligence.md)
+**Parent Topic:**[3E Regulatory Intelligence](hs-3e-regulatory-intelligence.md)
 

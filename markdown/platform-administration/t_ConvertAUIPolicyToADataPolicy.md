@@ -43,5 +43,5 @@ For a UI policy to be eligible for conversion to a data policy, the following co
 **Related topics**  
 
 
-[Data policy](../../field-administration/concept/c_DataPolicy.md)
+[Data policy](c_DataPolicy.md)
 

@@ -74,6 +74,6 @@ Review the top tables on your instance in terms of growth and table size, and th
 After reviewing the top tables, start managing the growth of data on your instance.
 
 -   Manage the growth of audit records from the audit management console by selecting **Manage audit config**.
--   Delete older or unwanted records by selecting **New cleanup rule**. See [Create a table cleanup rule in Core UI](../task/activate-table-cleanup.md).
--   Move data that's no longer needed to an archive table by selecting **New archive rule**. See [Create an archive rule in Core UI](../../database-rotation/task/t_CreateAnArchiveRule.md#).
+-   Delete older or unwanted records by selecting **New cleanup rule**. See [Create a table cleanup rule in Core UI](activate-table-cleanup.md).
+-   Move data that's no longer needed to an archive table by selecting **New archive rule**. See [Create an archive rule in Core UI](t_CreateAnArchiveRule.md#).
 

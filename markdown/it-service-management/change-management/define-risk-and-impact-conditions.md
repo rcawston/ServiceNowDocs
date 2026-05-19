@@ -143,10 +143,10 @@ Write the script in the **Script values** field. Specify the **Risk** and **Impa
     When the **Advanced condition** script returns *true*, the script in the **Script values** field sets the change request **Impact** and **Risk** values based on the **Business criticality** value.
 
 
-**Parent Topic:**[Risk conditions and calculation](../concept/change-risk-assess-detect-conflict.md)
+**Parent Topic:**[Risk conditions and calculation](change-risk-assess-detect-conflict.md)
 
 **Related topics**  
 
 
-[Risk Calculator property](../../../script/server-scripting/reference/r_ChangeRiskCalculator.md)
+[Risk Calculator property](r_ChangeRiskCalculator.md)
 

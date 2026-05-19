@@ -24,7 +24,7 @@ Role required: sn\_cd.content\_manager
 Creating forum content also requires the following to post to a community or forum:
 
 -   A forum to post community content. For information on creating forums, see [Configure community forums](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md).
--   The `Content Publishing: Post to Forums` scheduled job runs every hour by default to process posts. For more information on scheduled jobs, see [Components installed with Content Publishing](../reference/installed-with-content-delivery.md).
+-   The `Content Publishing: Post to Forums` scheduled job runs every hour by default to process posts. For more information on scheduled jobs, see [Components installed with Content Publishing](installed-with-content-delivery.md).
 
 **Note:** The Communities \(com.sn\_communities\) plugin must be activated in order to use this feature.
 

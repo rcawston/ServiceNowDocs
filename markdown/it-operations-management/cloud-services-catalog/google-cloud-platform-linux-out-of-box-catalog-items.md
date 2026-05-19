@@ -63,5 +63,5 @@ The key-value is updated only in the cmdb\_key\_value table, not in public cloud
 -   **[Google Cloud Platform Linux Out Of Box permissions](gcp-linux-oob-permissions.md)**  
 Google Cloud Platform Linux Out Of Box catalog items permissions
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

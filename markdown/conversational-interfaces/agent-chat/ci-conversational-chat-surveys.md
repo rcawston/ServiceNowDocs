@@ -40,23 +40,23 @@ Setting up chat surveys involves these main steps:
 
 ![Infographic describing steps for setting up pre-chat and post-chat conversational surveys.](../image/survey-implementation-steps.png)
 
--   **[1. \(Optional\) Define chat context.](../task/ac-configure-context-variables.md)**
+-   **[1. \(Optional\) Define chat context.](../ac-configure-context-variables.md)**
 
     Configure the chat context variables for storing survey responses using **Context Variables** in Chat Settings.
 
--   **[2. Create chat surveys](../task/create-chat-surveys.md)**
+-   **[2. Create chat surveys](../create-chat-surveys.md)**
 
     In Survey Designer, build your conversational questionnaires for gathering pre-chat information and post-chat feedback from your requesters. If you defined chat context variables to store certain survey responses, you can map the appropriate survey question to the corresponding chat context variable.
 
--   **[3. Define pre-chat survey configurations.](../task/ac-configure-pre-chat-surveys.md)**
+-   **[3. Define pre-chat survey configurations.](../ac-configure-pre-chat-surveys.md)**
 
     Determine the pre-chat questionnaire to be presented to your requesters based on conditions that you apply.
 
--   **[4. Define post-chat survey configurations.](../task/define-post-chat-survey-config.md)**
+-   **[4. Define post-chat survey configurations.](../define-post-chat-survey-config.md)**
 
     Control the post-chat questionnaire displayed to your requesters to gather feedback on their experience with live agents.
 
--   **[5. If using Virtual Agent, define context topic intent configurations.](../task/ac-configure-context-topic-intent.md)**
+-   **[5. If using Virtual Agent, define context topic intent configurations.](../ac-configure-context-topic-intent.md)**
 
     Use pre-chat survey information to determine the appropriate Virtual Agent conversation topic automatically displayed to your requesters, rather than prompting them to choose from a list of conversation topics.
 

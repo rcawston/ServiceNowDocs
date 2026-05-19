@@ -145,16 +145,16 @@ Format alert text by using one or both of these methods:
 
 You can filter event rules. See [Filter the events that an event rule applies to](t_EMCreateFilter.md).
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](create-event-rules.md)
 
 **Related topics**  
 
 
 [Create or edit an event rule](create-or-edit-event-rule.md)
 
-[Use event input information](../concept/event-input-information.md)
+[Use event input information](event-input-information.md)
 
-[Alert tags](../concept/alert-tags.md)
+[Alert tags](alert-tags.md)
 
 [Filter the events that an event rule applies to](t_EMCreateFilter.md)
 

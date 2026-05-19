@@ -71,7 +71,7 @@ sn\_creatorstudio.user
 </td><td>
 
 -   Users can create apps in Creator Studio.
--   The user is automatically delegated as the app owner. For more information, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md).
+-   The user is automatically delegated as the app owner. For more information, see [Delegated development and deployment](../delegated-development-and-deployment/c_DelegatedDevelopment.md).
 -   Contains sn\_g\_app\_creator.app\_creator.
 
  **Note:** This role gets assigned the delegated\_developer role when they create or get access to an app.
@@ -231,5 +231,5 @@ To ensure that users can use the Collaboration Approval Workflow regardless of i
 
 Roles define user access to Creator Studio. Permission to work on individual apps is controlled on an app-by-app basis. That is, you must manage the collaborators for each app by inviting other citizen developers to work on the app with you, or request to join someone else's app. For more information, see [Collaborating with others to build apps in Creator Studio](creator-studio-collaboration-roles.md).
 
-**Parent Topic:**[Configuring Creator Studio](../concept/configuring-creator-studio.md)
+**Parent Topic:**[Configuring Creator Studio](configuring-creator-studio.md)
 

@@ -207,7 +207,7 @@ Amount of time to keep unused software before it’s reclaimed.-   One Month Ago
 
     After the reclamation rule is created, add software products to the reclamation rule. You can also add a custom software product.
 
-    Additionally, you can specify filter conditions on software products that are suite parents. For details on adding a custom software product, see [Add a custom software product in Software Asset Management classic](t_AddACustomProduct.md). For details on filter conditions, refer to [Software reclamation rules](../concept/sw-reclamation-rules.md).
+    Additionally, you can specify filter conditions on software products that are suite parents. For details on adding a custom software product, see [Add a custom software product in Software Asset Management classic](t_AddACustomProduct.md). For details on filter conditions, refer to [Software reclamation rules](sw-reclamation-rules.md).
 
 5.  Select **Edit** in the Software Products related list to add software products.
 

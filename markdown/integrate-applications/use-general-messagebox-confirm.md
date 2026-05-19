@@ -21,7 +21,7 @@ Role required: none
 
 The Confirm component is used as part of an Attended Robot automation. Use this component to request a confirmation from the user as a response to a user action. For example, request user inputs on whether the user wants to save a file.
 
-To configure the properties, see [Properties of Confirm components](../reference/Properties-general-components.md#confirm-components).
+To configure the properties, see [Properties of Confirm components](Properties-general-components.md#confirm-components).
 
 ## Procedure
 
@@ -109,5 +109,5 @@ Not applicable
 </table>5.  To test the component, right-click the component bar and click **Run From Here**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

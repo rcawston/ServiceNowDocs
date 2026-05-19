@@ -33,12 +33,12 @@ Role required: sn\_gf.goal\_user
     -   To update details of an existing goal, select the goal.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new goal form](../../reference/eaw-reference/eaw-create-new-goal-form.md).
+    For field information, see [Create new goal form](eaw-create-new-goal-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage goals](../../concept/eaw-concept/eaw-manage-goals.md)
+**Parent Topic:**[Manage goals](eaw-manage-goals.md)
 
 **Related topics**  
 

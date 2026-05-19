@@ -58,5 +58,5 @@ A scheduled job in Certificate Inventory and Management regularly checks the exp
 
 Notifications are directed to the Slack channel specified in Discovery properties. If a certificate is assigned to a user, and their configured email matches the Slack email, the user is tagged in the Slack message. The Slack scheduled job runs weekly, and you can adjust its frequency by modifying the Certificate Notification scheduled job settings.
 
-**Parent Topic:**[Certificate integrations and notifications](../concept/cert-inventory-mgmt-workflow.md)
+**Parent Topic:**[Certificate integrations and notifications](cert-inventory-mgmt-workflow.md)
 

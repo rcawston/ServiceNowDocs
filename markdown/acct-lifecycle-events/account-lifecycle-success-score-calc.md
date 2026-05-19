@@ -49,5 +49,5 @@ The success objective template rate is the average of the scores of all the asso
 
 In this case, the success score or the average is 60%.
 
-**Parent Topic:**[Create a success blueprint](../task/account-lifecycle-create-blueprint.md)
+**Parent Topic:**[Create a success blueprint](account-lifecycle-create-blueprint.md)
 

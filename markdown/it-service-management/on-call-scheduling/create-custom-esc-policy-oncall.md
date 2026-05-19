@@ -191,5 +191,5 @@ Option to select group managers hierarchically to send escalation notifications 
 6.  To reset to the default escalation type for the shift, click the actions icon and click **Reset escalation**.
 
 
-**Parent Topic:**[Designing an escalation process](../concept/designing-escalation-process-oncall.md)
+**Parent Topic:**[Designing an escalation process](designing-escalation-process-oncall.md)
 

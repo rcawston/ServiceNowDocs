@@ -37,7 +37,7 @@ You can apply catalog client scripts to a catalog item or a variable set. These 
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Catalog client script new record form](../reference/service-bridge-v2-cat-script-fd.dita.md).
+    For a description of the field values, see [Catalog client script new record form](service-bridge-v2-cat-script-fd.dita.md).
 
 5.  Select **Submit**.
 

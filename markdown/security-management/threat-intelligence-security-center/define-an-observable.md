@@ -589,5 +589,5 @@ If the observable is an IP address, this list shows any resources \(configuratio
 3.  You can add observables to cases. For more information, see [Add to Case](add-to-case.md).
 4.  You can also run enrichment actions to observables. For more information, see [Run Enrichment Actions within a case](run-enrichment-results.md).
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](observables.md)
 

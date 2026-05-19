@@ -21,7 +21,7 @@ The Approvals widget displays data from the Approvals \[sysapproval\_approver\] 
 
 ![Approvals widget](../image/WidgetApprovals.png)
 
-You can enable e-signature for the approvals widget to require reauthentication for your users. For more information on enabling e-signature, see [Enable e-signature for Service Portal](../task/enable-esignature-sp.md#).
+You can enable e-signature for the approvals widget to require reauthentication for your users. For more information on enabling e-signature, see [Enable e-signature for Service Portal](enable-esignature-sp.md#).
 
 ## Instance options
 
@@ -41,9 +41,9 @@ Use the instance options to change the appearance of the approvals widget.
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

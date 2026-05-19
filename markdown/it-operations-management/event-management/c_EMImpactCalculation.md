@@ -28,7 +28,7 @@ Impact calculations are available for application services alert groups. The fol
 
     -   CIs are considered to be in maintenance not only when an active change request is scheduled, but also when the **Status** field of the CI is set to **In Maintenance**.
     -   When a child CI is put in maintenance, it also places the parent CI in maintenance.
--   By default, impact is calculated for all operational application services. However, the system allows you to filter impact calculation by service class or by individual application service. For more information, see [Add CMDB tables or classes for impact calculation](../task/add-cmdb-tables-impact-cal.md) and [Add application services for impact calculation](../task/add-impact-cal-services.md).
+-   By default, impact is calculated for all operational application services. However, the system allows you to filter impact calculation by service class or by individual application service. For more information, see [Add CMDB tables or classes for impact calculation](add-cmdb-tables-impact-cal.md) and [Add application services for impact calculation](add-impact-cal-services.md).
 
 If there is a connection between services, the impact of one service on the other is also calculated.
 

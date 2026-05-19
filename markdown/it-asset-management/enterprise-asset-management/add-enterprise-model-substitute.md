@@ -42,5 +42,5 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterptrise\_asset\_manager
     4.  On the **Substitutes** tab, select the Refresh list icon ![](../image/refresh-list-icon.png) to populate the list of newly added substitute models.
 
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
 

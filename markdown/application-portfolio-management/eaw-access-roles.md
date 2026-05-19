@@ -4554,7 +4554,7 @@ View your assigned entities
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Enterprise Architecture Workspace](../../task/install-ea-workspace.md)
+</table>**Parent Topic:**[Install Enterprise Architecture Workspace](install-ea-workspace.md)
 
 **Related topics**  
 

@@ -41,7 +41,7 @@ Experts on Demand
 
 </td><td>
 
--   [Initiatives and Accelerators](impact-initiatives.md)
+-   [Initiatives and Accelerators](accelerator-and-initiative-list/impact-initiatives.md)
 -   Advisory sessions
 -   Expert services discount
 

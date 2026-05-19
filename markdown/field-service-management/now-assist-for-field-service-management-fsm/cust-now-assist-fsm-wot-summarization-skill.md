@@ -51,7 +51,7 @@ From the Now Assist Admin console, you can select the input tables, related list
 
 5.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Field Service Management \(FSM\)](../concept/now-assist-fsm-skill-inputs.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Field Service Management \(FSM\)](now-assist-fsm-skill-inputs.md).
 
     1.  Enter a name and description for the skill.
 

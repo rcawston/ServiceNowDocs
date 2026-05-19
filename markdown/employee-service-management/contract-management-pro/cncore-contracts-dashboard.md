@@ -234,5 +234,5 @@ Choice
 Displays own paper and third-party paper in the list. You can select the desired option to view the relevant data in the Contracts Dashboard.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform Analytics Solutions for Contract Management Pro](../../application-content-packs/concept/cncore-analytics-pa.md)
+</table>**Parent Topic:**[Platform Analytics Solutions for Contract Management Pro](cncore-analytics-pa.md)
 

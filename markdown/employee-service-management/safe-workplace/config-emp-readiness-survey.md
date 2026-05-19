@@ -85,7 +85,7 @@ In the Assessment Metric Definitions related list, select the response to edit. 
 
 The modified survey is used for future outreach surveys.
 
-**Parent Topic:**[Employee Readiness Surveys](../concept/employee-readiness-surveys.md)
+**Parent Topic:**[Employee Readiness Surveys](employee-readiness-surveys.md)
 
 ## Add Employee Readiness Surveys
 

@@ -21,7 +21,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager, sn\_rpa\_fdn.rpa\_developer, 
 
 ## About this task
 
-Package version file is an iBot file that contains the automation logic that you can open in RPA Desktop Design Studio. To view this automation file \(ibot\), install the RPA Desktop Design Studio application in your machine. For more information, see [Install RPA Desktop Design Studio](../../rpa-studio/task/install-rpa-studio.md).
+Package version file is an iBot file that contains the automation logic that you can open in RPA Desktop Design Studio. To view this automation file \(ibot\), install the RPA Desktop Design Studio application in your machine. For more information, see [Install RPA Desktop Design Studio](install-rpa-studio.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ Package version file is an iBot file that contains the automation logic that you
 7.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+**Parent Topic:**[Package and package version in RPA Hub](package-version-rpa-hub.md)
 

@@ -34,5 +34,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 The associated improvement initiative displays in the refreshed initiatives list.
 
-**Parent Topic:**[Creating and tracking improvement initiatives](../../../product/benchmarks/task/initiatives-from-process-optimization.md)
+**Parent Topic:**[Creating and tracking improvement initiatives](initiatives-from-process-optimization.md)
 

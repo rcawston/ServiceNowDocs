@@ -35,5 +35,5 @@ Role required: admin
 
 ## What to do next
 
-Install the uploaded application through the Application Manager. For more information, see [Install an application or plugin](../../../build/applications/task/installing-applications-in-application-manager.md).
+Install the uploaded application through the Application Manager. For more information, see [Install an application or plugin](application-manager/installing-applications-in-application-manager.md).
 

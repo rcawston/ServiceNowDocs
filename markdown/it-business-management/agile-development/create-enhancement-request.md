@@ -125,5 +125,5 @@ The enhancement request is created and the form reloads with the Stories related
 
 A scrum product owner can review the request and decide whether to create stories for it.
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

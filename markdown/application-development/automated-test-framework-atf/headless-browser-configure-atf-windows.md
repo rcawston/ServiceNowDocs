@@ -93,7 +93,7 @@ Image name with tag that you downloaded: `ghcr.io/servicenow/atf-headless-runner
 8.  Select **Save**.
 
 
-**Parent Topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Parent Topic:**[Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md)
 
 **Previous topic:**[Set up instance for Headless Browser in Microsoft Windows](headless-browser-instance-setup-windows.md)
 

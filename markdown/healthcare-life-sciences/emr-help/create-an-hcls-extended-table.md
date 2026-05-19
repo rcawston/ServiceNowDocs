@@ -62,7 +62,7 @@ Video showing how to create a custom healthcare case type.
 
 ## Result
 
-You now have a new case type extended from the abstract case type Healthcare case. For more information on the abstract Healthcare case type, see [Healthcare case table](../reference/hcls-case-table.md).
+You now have a new case type extended from the abstract case type Healthcare case. For more information on the abstract Healthcare case type, see [Healthcare case table](../healthcare-and-life-sciences-service-management-core/hcls-case-table.md).
 
 ## What to do next
 

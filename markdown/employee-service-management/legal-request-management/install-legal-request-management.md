@@ -39,7 +39,7 @@ The following components are installed with installation of the Legal Request Ma
 -   Tables specific to practice areas
 -   Business Rules
 
-For more information, see [Components installed with Legal Request Management](../reference/installed-with-legal-request-management.md).
+For more information, see [Components installed with Legal Request Management](installed-with-legal-request-management.md).
 
 You can also install the following applications:
 
@@ -49,7 +49,7 @@ You can also install the following applications:
 
 -   **Legal Mobile \(sn\_lg\_mobile\)**
 
-    The ServiceNow® Legal Mobile \(sn\_lg\_mobile\) application enables you to find legal information, submit and track legal requests, and work on these requests on mobile devices. For more information, see [Legal Mobile](../../legal-mobile/concept/legal-mobile-overview.md).
+    The ServiceNow® Legal Mobile \(sn\_lg\_mobile\) application enables you to find legal information, submit and track legal requests, and work on these requests on mobile devices. For more information, see [Legal Mobile](../legal-mobile/legal-mobile-overview.md).
 
 
 ## Procedure
@@ -79,5 +79,5 @@ Use the Legal Service Delivery Guided Setup to configure the application on your
 
 To access Legal Service Delivery Guided Setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-**Parent Topic:**[Configuring Legal Request Management](../concept/legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
 

@@ -19,13 +19,13 @@ Use the playbook available with the SGC Central application to set up the Servic
 
 Install Service Graph Connector for SolarWinds version 2.6.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-applications-in-application-manager.md).
 
-Air gap connections are available from version 2.5.0 of the Service Graph Connector for SolarWinds. You can set up either standard data sources or air gap data sources. Before you set up air gap data sources, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure server and low-secure server. See [Configuring air gap connections for Service Graph Connector for SolarWinds](../../configuration-management/concept/airgap-solarwinds.md).
+Air gap connections are available from version 2.5.0 of the Service Graph Connector for SolarWinds. You can set up either standard data sources or air gap data sources. Before you set up air gap data sources, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure server and low-secure server. See [Configuring air gap connections for Service Graph Connector for SolarWinds](airgap-solarwinds.md).
 
 Role required: admin
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -41,7 +41,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](../sgcc-first-time-setup.md).
 
 5.  Complete the setup for configuring the connector for importing data.
 
@@ -56,7 +56,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
         2.  Select **Continue**.
     2.  Download and run the PowerShell scripts to set up an air gap connection.
 
-        **Note:** Before you add an air gap connection, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure and low-secure servers. See [Configuring air gap connections for Service Graph Connector for SolarWinds](../../configuration-management/concept/airgap-solarwinds.md).
+        **Note:** Before you add an air gap connection, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure and low-secure servers. See [Configuring air gap connections for Service Graph Connector for SolarWinds](airgap-solarwinds.md).
 
         1.  In the **Setup** stage of the playbook, select the **Download PowerShell scripts** activity.
 
@@ -65,7 +65,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
         2.  Select **Download PowerShell scripts**.
         3.  Run the PowerShell scripts.
 
-            For more information on configuring an air gap connection, see [Configuring air gap connections for Service Graph Connector for SolarWinds](../../configuration-management/concept/airgap-solarwinds.md).
+            For more information on configuring an air gap connection, see [Configuring air gap connections for Service Graph Connector for SolarWinds](airgap-solarwinds.md).
 
         4.  After configuring the air gap connection, select **Continue**.
     3.  Create and test a connection.
@@ -187,7 +187,7 @@ MID server
 
 </td><td>
 
-Name of the MID Server that you deployed in your low-secure server.See [Configure air gap solution for Service Graph Connector for SolarWinds in a low-secure server](../../configuration-management/task/sgc-cmdb-solarwinds-airgap-low-secure.md).
+Name of the MID Server that you deployed in your low-secure server.See [Configure air gap solution for Service Graph Connector for SolarWinds in a low-secure server](sgc-cmdb-solarwinds-airgap-low-secure.md).
 
 </td></tr></tbody>
 </table>        3.  Select **Create and test connection**.
@@ -221,11 +221,11 @@ Select **View all connections** to review the connection details. The configured
 **Related topics**  
 
 
-[Service Graph Connector for SolarWinds](../../configuration-management/concept/cmdb-integration-solarwinds.md)
+[Service Graph Connector for SolarWinds](cmdb-integration-solarwinds.md)
 
-[CMDB classes targeted in Service Graph Connector for SolarWinds](../../configuration-management/reference/cmdb-solarwinds-classes.md)
+[CMDB classes targeted in Service Graph Connector for SolarWinds](cmdb-solarwinds-classes.md)
 
-[Accessing the connection details of Service Graph Connector for SolarWinds](../../configuration-management/concept/sgc-cmdb-solarwinds-conn.md#)
+[Accessing the connection details of Service Graph Connector for SolarWinds](sgc-cmdb-solarwinds-conn.md#)
 
-[Configuring air gap connections for Service Graph Connector for SolarWinds](../../configuration-management/concept/airgap-solarwinds.md)
+[Configuring air gap connections for Service Graph Connector for SolarWinds](airgap-solarwinds.md)
 

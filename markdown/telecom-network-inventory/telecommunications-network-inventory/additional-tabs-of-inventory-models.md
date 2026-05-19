@@ -96,10 +96,10 @@ Bandwidth compatibilities
 List of bandwidths that are compatible to the respective connection. Further, you can create and update the associated connection model and bandwidth group.**Note:** Bandwidth compatibilities field is applicable only to the connection models.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create inventory models](../concept/creating-your-inventory-models.md)
+[Create inventory models](creating-your-inventory-models.md)
 

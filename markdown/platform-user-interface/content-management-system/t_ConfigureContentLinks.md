@@ -52,7 +52,7 @@ After the content link is configured, it must be defined in a list block. List b
 7.  Click **Update**.
 
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](r_TypesOfContentBlocks.md)
 
 **Related topics**  
 

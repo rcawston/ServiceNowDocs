@@ -137,7 +137,7 @@ Options to change the default behavior or flow of legal requests, legal matter, 
 
 **Important:** Only one external storage provider can be configured for an intake form.
 
--   **Enable Legal Request creation From Universal Request**: Legal requests can be created from a [universal request](../../universal-request/concept/ur-landing-limitedaccess.md) to get the support of the Legal department for the resolution of the universal request.
+-   **Enable Legal Request creation From Universal Request**: Legal requests can be created from a [universal request](../universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md) to get the support of the Legal department for the resolution of the universal request.
 -   **Make Request Fulfiller as Matter Owner**: When a legal request is promoted to a legal matter, this legal matter is automatically assigned to the legal request fulfiller.
 -   **Generate Document from Template**: When a legal request for contract review is submitted, this option determines whether the document will be generated using a document template. If this option is not selected, the requester must submit the contract for review.
 

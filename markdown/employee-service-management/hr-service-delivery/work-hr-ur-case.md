@@ -21,7 +21,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## About this task
 
-The state changes described in the procedure can be configured to suit your requirements. For more information, see [Universal Request state mapping](../../universal-request/task/ur-state-mapping.md)
+The state changes described in the procedure can be configured to suit your requirements. For more information, see [Universal Request state mapping](../universal-request-for-hr-service-delivery/ur-state-mapping.md)
 
 ## Procedure
 
@@ -46,5 +46,5 @@ The state changes described in the procedure can be configured to suit your requ
     -   If the **Needs Additional Review** check box is selected on the universal request, the universal request will be in the **In progress** state, and the HR case will be in the **Close Incomplete** state.
     -   If the **Needs Additional Review** check box is deselected on the universal request, the universal request gets closed based on the state mapping.
 
-**Parent Topic:**[Universal Request for HR Service Delivery](../concept/universal-request-hr.md)
+**Parent Topic:**[Universal Request for HR Service Delivery](universal-request-hr.md)
 

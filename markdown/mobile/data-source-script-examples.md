@@ -19,7 +19,7 @@ The data source script accepts two parameters: *valuesMapper* and *context*. The
 valuesMapper.addRecordMapping(UNIQUE_ELEMENT_IDENTIFIER, GLIDE_RECORD_INSTANCE, COLUMN_NAME);
 ```
 
-**Note:** All the scripts listed in this topic are configured within the data source record. For more information, see [Configure data sources](../task/data-sources-config.md).
+**Note:** All the scripts listed in this topic are configured within the data source record. For more information, see [Configure data sources](data-sources-config.md).
 
 ## Default sample script
 

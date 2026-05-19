@@ -616,7 +616,7 @@ Updates details of the specified webhook.
 
 ## Integration Hub imports
 
-The Zendesk spoke adds the Import Zendesk Users Integration Hub imports to your ServiceNow instance. The Integration Hub imports help you import the users' data from Zendesk account to your ServiceNow instance in an automated way. For more information about Integration Hub imports, see[Integration Hub - Import](../../integrationhub/concept/integrationhub-imports.md).
+The Zendesk spoke adds the Import Zendesk Users Integration Hub imports to your ServiceNow instance. The Integration Hub imports help you import the users' data from Zendesk account to your ServiceNow instance in an automated way. For more information about Integration Hub imports, see[Integration Hub - Import](integrationhub-imports.md).
 
 ## Spoke modules
 
@@ -636,5 +636,5 @@ The Zendesk spoke adds the Zendesk Spoke application to your ServiceNow instance
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-For information about setting up the spoke, see [Set up the Zendesk spoke](../task/setup-zendesk.md#).
+For information about setting up the spoke, see [Set up the Zendesk spoke](setup-zendesk.md#).
 

@@ -39,5 +39,5 @@ Role required: admin
 **Related topics**  
 
 
-[Alert grouping and use cases](../concept/alert-group-use-cases.md)
+[Alert grouping and use cases](alert-group-use-cases.md)
 

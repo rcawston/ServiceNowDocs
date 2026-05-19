@@ -63,12 +63,12 @@ The Indoor Mapping campus record including buildings, floors, places are mapped 
 
 View the details of your datacenter infrastructure using the floor map. To learn more, see [View details of floor map](view-details-floor-map.md).
 
-**Parent Topic:**[Floor map](../concept/using-floor-map.md)
+**Parent Topic:**[Floor map](using-floor-map.md)
 
 **Related topics**  
 
 
 [Synchronize Indoor Mapping with CMN Locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/sync-cmn-location.md)
 
-[Floor map](../concept/visualization-floor-maps.md)
+[Floor map](visualization-floor-maps.md)
 

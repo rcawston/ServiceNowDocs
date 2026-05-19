@@ -83,7 +83,7 @@ Category
 
 </td><td>
 
-[Configure Password Reset properties](../../login/task/t_SetPwdResetProps.md)
+[Configure Password Reset properties](../authentication/t_SetPwdResetProps.md)
 
 </td></tr><tr><td>
 

@@ -80,7 +80,7 @@ Create more task Boards, docs, and organize them into folders to manage the work
 
     ![Lock icon to indicate no access for a user.](../images/cwm-board-users-lock-icon.png)
 
-    You can either use the workspace prompt to grant assignees Viewer access or choose to manage their access level later from the Share permissions modal. For more information on managing sharing permissions, see [Share a Space in CWM and manage sharing permissions](../task/share-space-in-cwm.md).
+    You can either use the workspace prompt to grant assignees Viewer access or choose to manage their access level later from the Share permissions modal. For more information on managing sharing permissions, see [Share a Space in CWM and manage sharing permissions](share-space-in-cwm.md).
 
     ![Grant access to task assignees.](../images/cwm-board-grant-access-prompt.png)
 
@@ -95,11 +95,11 @@ Create more task Boards, docs, and organize them into folders to manage the work
 
 Using the following sections, get started with shared Spaces in the workspace.
 
--   **[Create a Space in CWM](../task/create-spaces-in-cwm.md)**  
+-   **[Create a Space in CWM](create-spaces-in-cwm.md)**  
 Create Spaces in Collaborative Work Management to enable cross-functional teams to come together and manage work tasks and documentation.
--   **[Share a Space in CWM and manage sharing permissions](../task/share-space-in-cwm.md)**  
+-   **[Share a Space in CWM and manage sharing permissions](share-space-in-cwm.md)**  
 Invite cross-team members to Collaborative Work Management Spaces to collaborate on tasks or projects. You can also manage permissions for users with existing access to your Space.
--   **[Create a folder in CWM](../task/create-a-folder-in-cwm.md)**  
+-   **[Create a folder in CWM](create-a-folder-in-cwm.md)**  
 Organize Boards and Docs of a Space into folders in Collaborative Work Management Workspace.
 
 **Parent Topic:**[Using Collaborative Work Management](using-collaborative-work-management.md)

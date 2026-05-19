@@ -17,7 +17,7 @@ Some many-to-many relationships are defined by default.
 
 To reference many-to-many relationships that are available in the base system, administrators can enter `sys_collection.list` in the navigation filter.
 
-**Note:** Only use this table to view many-to-many relationships in the base system. To create a new relationship, always use the [Many-to-Many Definitions table](../task/t_CreateAManyToManyRelationship.md).
+**Note:** Only use this table to view many-to-many relationships in the base system. To create a new relationship, always use the [Many-to-Many Definitions table](t_CreateAManyToManyRelationship.md).
 
-**Parent Topic:**[Create a many-to-many table relationship](../task/t_CreateAManyToManyRelationship.md)
+**Parent Topic:**[Create a many-to-many table relationship](t_CreateAManyToManyRelationship.md)
 

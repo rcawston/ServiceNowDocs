@@ -25,7 +25,7 @@ AI Search evaluates active Genius Result configurations for a search profile in 
 
 **Note:** **Order** field values for linked Genius Result configurations are set separately for each search profile. A Genius Result configuration that's linked to multiple search profiles can have a different **Order** field value in each profile. For instance, you might set an **Order** value of 100 for the Q&amp;A Genius Result configuration in one search profile but set a value of 750 for the same Genius Result configuration in a second search profile that it's linked to.
 
-A search application configuration's **Genius Results Limit** field value specifies the maximum number of Genius Result cards the application can display. For more details on search application configuration settings, see [Search Application Configuration form](../reference/search-app-config-form-ais.md).
+A search application configuration's **Genius Results Limit** field value specifies the maximum number of Genius Result cards the application can display. For more details on search application configuration settings, see [Search Application Configuration form](search-app-config-form-ais.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ A search application configuration's **Genius Results Limit** field value specif
 
 To make changes in the **Order** field values take effect, publish the search profile. For more information on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Genius Results](../concept/genius-results-ais.md)
+**Parent Topic:**[Genius Results](genius-results-ais.md)
 

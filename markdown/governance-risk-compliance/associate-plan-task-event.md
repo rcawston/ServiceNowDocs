@@ -49,7 +49,7 @@ A good business continuity plan is a result of thoughtful assessment of business
 
     If the impacted assets are CMDB CI data that came into the BIA automatically based on CMDB dependencies and when these assets are scoped in the plan, then at the time of recovery of the asset, the related assets and the related plans are automatically pulled into the exercise event as impacted assets and activated plans in the **Impacts** tab.
 
-    For more information on the planning and execution of a recovery event, see [Data flow, planning, execution, and recovery of related plan assets in event](../concept/planning-execution-event-bcm.md).
+    For more information on the planning and execution of a recovery event, see [Data flow, planning, execution, and recovery of related plan assets in event](planning-execution-event-bcm.md).
 
 8.  Click the **Add assets** button to recover assets in the event.
 

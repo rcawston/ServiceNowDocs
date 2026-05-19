@@ -44,7 +44,7 @@ The user is configured as the delegated user.
 
 Create a personal authentication mode application registry for Microsoft Exchange Online with ServiceNow instance for OAuth authorization. For more information, see [Set up personal authentication mode OAuth connectivity with Microsoft Exchange Online](setup-personal-auth-mode-oauth-connectivity-with-msex.md).
 
-**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](../concept/personal-auth-mode-connection-with-msex.md)
+**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](personal-auth-mode-connection-with-msex.md)
 
 **Related topics**  
 

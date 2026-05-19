@@ -37,6 +37,6 @@ You can update the criticality and the order of the assessment rating by using t
 
 3.  On the form, fill in the fields and select **Submit**.
 
-    For a description of the field values on the GRC Choices form, see [GRC Choices form](../reference/important-choices-reference.md).
+    For a description of the field values on the GRC Choices form, see [GRC Choices form](important-choices-reference.md).
 
 

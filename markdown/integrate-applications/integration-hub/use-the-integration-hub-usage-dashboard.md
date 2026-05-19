@@ -19,7 +19,7 @@ The transaction reports in Integration Hub Usage Dashboard help you to understan
 
 -   **IH Transactions \(Tx\) Usage report**
 
-    Depending on the package that your organization subscribes to, the Integration Hub subscription packages offer a certain number of transactions per year. See the details about the packages in [Integration Hub usage and subscription](../../flow-designer/concept/subscription-usage.md). With this report, you can learn about the total usage of the Integration Hub transactions versus the subscribed package of transactions in the last year. The following diagram shows what you can learn from viewing the Integration Hub transactions usage.
+    Depending on the package that your organization subscribes to, the Integration Hub subscription packages offer a certain number of transactions per year. See the details about the packages in [Integration Hub usage and subscription](subscription-usage.md). With this report, you can learn about the total usage of the Integration Hub transactions versus the subscribed package of transactions in the last year. The following diagram shows what you can learn from viewing the Integration Hub transactions usage.
 
     ![Integration Hub Transactions Usage report.](../images/ih-transactions-tx-usage.png "Integration Hub Transactions (Tx) Usage report")
 
@@ -116,5 +116,5 @@ The transaction reports in Integration Hub Usage Dashboard help you to understan
     ![Feature Usage report details.](../images/drill-down-feature-usage.png "Feature Usage report details")
 
 
-**Parent Topic:**[Integration Hub Usage Dashboard](../concept/integrationhub-usage-dashboard.md)
+**Parent Topic:**[Integration Hub Usage Dashboard](integrationhub-usage-dashboard.md)
 

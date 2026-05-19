@@ -20,13 +20,13 @@ Override the methods in this script include to:
 -   Add/remove attributes to an existing trouble ticket event type.
 -   Define attributes for a new trouble ticket event type.
 
-For additional information, see [Configure trouble ticket notifications using the Producer Event Notification Framework](../../../../../integrate/guides/ProducerEventNotifFramework/concept/prd_evt_not-dev_gd-cfg_trbl_tkt_not.md).
+For additional information, see [Configure trouble ticket notifications using the Producer Event Notification Framework](../developer-guides/prd_evt_not-dev_gd-cfg_trbl_tkt_not.md).
 
 This script include runs within the `sn_ind_tsm_sdwan` namespace.
 
 The calling user must have the ticket\_integrator role.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TroubleTicketNotificationUtilOOB - addAdditionalEventAttributes\(Object tmfEventPayload\)
 
@@ -62,7 +62,7 @@ Generates the TMF688-compliant header attributes in the event section of the pay
 
 In the default implementation, this method adds the **eventId** and the **@type** header attributes.
 
-This method calls the helper method [addAdditionalEventAttributes\(\)](TroubleTicketNotifScopedAPI.md#). In this method you can add other header attributes to the event payload. For details, see [Modify a trouble ticket event payload](../../../../../integrate/guides/ProducerEventNotifFramework/reference/prd_evt_not-dev_gd-mod-evt-pay.md).
+This method calls the helper method [addAdditionalEventAttributes\(\)](TroubleTicketNotifScopedAPI.md#). In this method you can add other header attributes to the event payload. For details, see [Modify a trouble ticket event payload](../developer-guides/prd_evt_not-dev_gd-mod-evt-pay.md).
 
 |Name|Type|Description|
 |----|----|-----------|

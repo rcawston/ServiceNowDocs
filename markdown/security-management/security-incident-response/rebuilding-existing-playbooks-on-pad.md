@@ -24,14 +24,14 @@ For more information, refer to the following sections.
 -   [Activity definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/activity-definitions.md)
 -   [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md)
 
-**Parent Topic:**[Using SIR Workspace](../../secops-analyst-workspace/reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](using-sir-workspace.md)
 
 **Related topics**  
 
 
-[Working with Security Incident Records](../../secops-analyst-workspace/concept/using-analyst-workspace.md)
+[Working with Security Incident Records](using-analyst-workspace.md)
 
-[Security Incident Playbook](../../secops-analyst-workspace/concept/security-incident-playbook.md#)
+[Security Incident Playbook](security-incident-playbook.md#)
 
 [Prerequisites for the Playbooks](getting-started-with-processes.md)
 
@@ -39,11 +39,11 @@ For more information, refer to the following sections.
 
 [Sample Playbooks for SIR Workspace](sir-workspace-playbooks.md)
 
-[Working with MSI Records](../../secops-analyst-workspace/concept/working-with-msi-records.md)
+[Working with MSI Records](working-with-msi-records.md)
 
-[Working with Form UI actions](../../secops-analyst-workspace/concept/enable_workspace_form_ui_actions.md)
+[Working with Form UI actions](enable_workspace_form_ui_actions.md)
 
-[Security Incident Closure workflow](../../secops-analyst-workspace/concept/security-incident-closure-workflow_0.md)
+[Security Incident Closure workflow](security-incident-closure-workflow_0.md)
 
-[Handle security incidents using Advanced Work Assignment](../../secops-analyst-workspace/task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](handle-incidents-using-awa.md)
 

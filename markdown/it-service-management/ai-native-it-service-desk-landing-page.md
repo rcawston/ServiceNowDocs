@@ -17,19 +17,19 @@ Simplified IT Service Management provides an AI-native solution for simplified a
 
 <table id="table_pv2_ctf_53c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![Exploring AI-native IT Service Management concepts and features](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Simplified IT Service Management concepts and features.](../concept/exploring-ai-native-itsm.md)
+[Explore![Exploring AI-native IT Service Management concepts and features](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Simplified IT Service Management concepts and features.](exploring-ai-native-itsm.md)
 
 </td><td>
 
-[Configure![Configuring AI-native IT Service Management](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure IT Service Management using guided and conversational setup process.](../concept/configuring-ai-native-itsm.md)
+[Configure![Configuring AI-native IT Service Management](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure IT Service Management using guided and conversational setup process.](configuring-ai-native-itsm.md)
 
 </td><td>
 
-[Employee experience![Employee experience in AI-native IT Service Management](../../../reuse/icons/brand-icons/bus-start-discussion.svg)Experience the automated self-service and browsing experience.](../concept/employee-experience-native-ai-itsm.md)
+[Employee experience![Employee experience in AI-native IT Service Management](../../../reuse/icons/brand-icons/bus-start-discussion.svg)Experience the automated self-service and browsing experience.](employee-experience-native-ai-itsm.md)
 
 </td></tr><tr><td>
 
-[Fulfiller experience![Fulfiller experience in AI-native IT Service Management](../../../reuse/icons/brand-icons/bus-community.svg)Experience the simplified fulfiller experience with AI recommendations.](../concept/fulfiller-experience-ai-native-itsm.md)
+[Fulfiller experience![Fulfiller experience in AI-native IT Service Management](../../../reuse/icons/brand-icons/bus-community.svg)Experience the simplified fulfiller experience with AI recommendations.](fulfiller-experience-ai-native-itsm.md)
 
 </td><td>
 

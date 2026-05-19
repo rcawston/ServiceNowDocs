@@ -25,7 +25,7 @@ You can associate a goal or target with planning items as well as with any Servi
 
 From the Align work window, you can associate a goal or target with multiple planning items at a time. From the Planning items tab of the goal or target, you can associate a goal or target with only one planning item at a time.
 
-You can create goal or target relationships with a custom planning item from the Align work window only if the planning item table is added to the **planning\_item\_types\_allow\_list** property. For more information, see [Enable custom item types in Strategic Planning](../../alignment-planner-workspace/task/enable-custom-item-types-strategic-planning-workspace.md).
+You can create goal or target relationships with a custom planning item from the Align work window only if the planning item table is added to the **planning\_item\_types\_allow\_list** property. For more information, see [Enable custom item types in Strategic Planning](../scenario-planning-in-spw/enable-custom-item-types-strategic-planning-workspace.md).
 
 **Note:** When a goal or target relationship is created with a planning item \(Project, Demand, or Epic\) or any other ServiceNow AI Platform table record, the record appears on the Aligned work tab on the goal record.
 
@@ -49,7 +49,7 @@ You can create goal or target relationships with a custom planning item from the
 
     3.  Select **Confirm**.
 
-    For a description of the field values, see [Goal/Target Relationship form](../../spw-goals/reference/goal-relationship-form-egm.md).
+    For a description of the field values, see [Goal/Target Relationship form](../scenario-planning-in-spw/goal-relationship-form-egm.md).
 
 
 **Related topics**  

@@ -36,7 +36,7 @@ The Now Assist Q&amp;A Genius Result configuration replaces the original Q&amp;A
 
 ## Enabling Now Assist Q&amp;A Genius Results
 
-You can enable Now Assist Q&amp;A Genius Results in your AI Search portals and mobile applications using the Now Assist in AI Search Setup module. For details on this procedure, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](../task/enable-now-assist-gr-ais-apps.md).
+You can enable Now Assist Q&amp;A Genius Results in your AI Search portals and mobile applications using the Now Assist in AI Search Setup module. For details on this procedure, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](enable-now-assist-gr-ais-apps.md).
 
 To use Now Assist Q&amp;A Genius Results in global search, you can enable the Now Assist Q&amp;A Genius Result configuration in the AI Search for Next Experience application. For details on this procedure, see [Enabling Now Assist Q&amp;A Genius Results](enabling-now-assist-qa-grs.md#).
 
@@ -44,7 +44,7 @@ To use Now Assist Q&amp;A Genius Results in global search, you can enable the No
 
 ## Limitations
 
-By default, Now Assist Q&amp;A Genius Results only support English-language searches. Administrators can enable support for other languages by activating Dynamic Translation. To learn more about how content and answers are translated, see [Dynamic Translation for Now Assist Q&amp;A Genius Results](dynamic-translation-na-gr.md). For more details on Dynamic Translation, see [Dynamic Translation](../../dynamic-translation/concept/dynamic-translation-overview.md).
+By default, Now Assist Q&amp;A Genius Results only support English-language searches. Administrators can enable support for other languages by activating Dynamic Translation. To learn more about how content and answers are translated, see [Dynamic Translation for Now Assist Q&amp;A Genius Results](dynamic-translation-na-gr.md). For more details on Dynamic Translation, see [Dynamic Translation](../dynamic-translation/dynamic-translation-overview.md).
 
 Knowledge articles that are boosted or promoted by result improvement rules are more likely to appear as Now Assist Q&amp;A Genius Results, but aren't guaranteed to appear.
 
@@ -112,9 +112,9 @@ When computing Now Assist Q&amp;A Genius Result answers for a search query, AI S
 </td></tr></tbody>
 </table>-   **[Enabling Now Assist Q&amp;A Genius Results](enabling-now-assist-qa-grs.md#)**  
 As a search administrator, you can use the Now Assist Q&amp;A Genius Results skill in AI Search portals and mobile applications by enabling Now Assist Q&amp;A Genius Results in search profiles. You can also use the skill in global search by enabling Now Assist Q&amp;A Genius Results in the AI Search for Next Experience application.
--   **[Define a query filter for Now Assist Q&amp;A Genius Results](../task/define-qry-fltr-now-assist-qna-gr.md)**  
+-   **[Define a query filter for Now Assist Q&amp;A Genius Results](define-qry-fltr-now-assist-qna-gr.md)**  
 Define a Java regular expression pattern that a search must match to be eligible for triggering Now Assist Q&amp;A Genius Results. Searches that don't match this pattern don't return Genius Result answers from Now Assist Q&amp;A Genius Results.
--   **[Change the minimum search term count for Now Assist Q&amp;A Genius Results](../task/set-min-srch-terms-now-assist-qna.md)**  
+-   **[Change the minimum search term count for Now Assist Q&amp;A Genius Results](set-min-srch-terms-now-assist-qna.md)**  
 Specify the minimum number of terms that a search must contain to be eligible for triggering Now Assist Q&amp;A Q&amp;A Genius Results. Searches with fewer terms don't return Now Assist Q&amp;A Genius Result answers.
 -   **[Dynamic Translation for Now Assist Q&amp;A Genius Results](dynamic-translation-na-gr.md)**  
 Dynamic Translation improves the international search experience for knowledge article content. When Dynamic Translation is activated, AI Search can generate Now Assist Q&amp;A Genius Result answers from non-English knowledge articles. Dynamic Translation also enables AI Search to translate Now Assist Q&amp;A Genius Result answers into the search user's language.

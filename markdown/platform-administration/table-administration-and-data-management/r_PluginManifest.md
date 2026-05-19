@@ -34,5 +34,5 @@ The following Relation Types are available by default:
 -   Requesting::Requested by
 -   Solved by::Solves
 
-**Parent Topic:**[Creating many-to-many task relations](../concept/c_ManyToManyTaskRelations.md)
+**Parent Topic:**[Creating many-to-many task relations](c_ManyToManyTaskRelations.md)
 

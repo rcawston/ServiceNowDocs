@@ -34,5 +34,5 @@ Role required: discovery\_admin
     **Note:** If the host also connects to a NAS or SAN storage array, set up the [SMI-S Provider](t_ConfigDiscoForStandaloneStorage.md) and [CIM credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CIMCredentialsForm.md).
 
 
-**Parent Topic:**[Configure discovery of hosts with attached storage](../concept/configure-discovery-of-hosts-with-attached-storage.md)
+**Parent Topic:**[Configure discovery of hosts with attached storage](configure-discovery-of-hosts-with-attached-storage.md)
 

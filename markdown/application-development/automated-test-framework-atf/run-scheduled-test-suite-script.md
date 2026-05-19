@@ -17,7 +17,7 @@ Execute a scheduled UI test suite immediately using a script without having to w
 
 ## Before you begin
 
-You've created and scheduled the test suites that you want to run. See [Create an automated test suite](../task/atf-create-suite.md) and [Schedule an automated test suite](../task/atf-sched-suite-steps.md), for more information.
+You've created and scheduled the test suites that you want to run. See [Create an automated test suite](atf-create-suite.md) and [Schedule an automated test suite](atf-sched-suite-steps.md), for more information.
 
 Role required: atf\_test\_admin or atf\_test\_designer
 

@@ -56,8 +56,8 @@ Allows users to create proactive rules and have access to related tables and rel
 |Proactive Execution History  \[sys\_cs\_ptrigger\_execution\]|Execution history for the last 7 days|
 |Proactive Daily Report \[sys\_cs\_ptrigger\_report\_daily\]|Aggregated execution data by user, rule, or action per day|
 
--   **[Proactive Triggers roles](../reference/PT-roles.md#)**  
+-   **[Proactive Triggers roles](PT-roles.md#)**  
 Proactive Triggers adds the Proactive Triggers admin role.
 
-**Parent Topic:**[Proactive Triggers reference](../reference/proactive-triggers-reference.md)
+**Parent Topic:**[Proactive Triggers reference](proactive-triggers-reference.md)
 

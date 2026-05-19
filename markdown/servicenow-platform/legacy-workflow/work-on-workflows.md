@@ -19,7 +19,7 @@ To complete a workflow, you add workflow activities, validate the workflow, and 
 
 Role required: snc\_required\_script\_writer and either workflow\_creator or workflow\_admin.
 
-**Parent Topic:**[Workflow management](../concept/managing-workflows.md)
+**Parent Topic:**[Workflow management](managing-workflows.md)
 
 ## Add a workflow activity
 
@@ -33,7 +33,7 @@ Role required: snc\_required\_script\_writer and workflow\_admin, workflow\_crea
 
 When they are created, all workflows contain **Start** and **End** activities.
 
-For more information, see [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md).
+For more information, see [Workflow activities](../workflow-activities/c_WorkflowActivities.md).
 
 ### Procedure
 
@@ -41,7 +41,7 @@ For more information, see [Workflow activities](../../using-workflows/concept/c_
 
 2.  Check out the workflow.
 
-3.  [Drag a workflow activity](../../using-workflows/task/t_AddAnActivityToAWorkflow.md#) from the Activities menu into the workflow body.
+3.  [Drag a workflow activity](../workflow-activities/t_AddAnActivityToAWorkflow.md#) from the Activities menu into the workflow body.
 
 4.  Populate the Workflow Activity form that appears.
 
@@ -83,7 +83,7 @@ When a workflow is complete, publish the workflow so that it is available to all
 
 ### Before you begin
 
-Before you publish a workflow, validate it to test it for issues that might cause it to fail, such as missing subflows or disconnected transitions. For more information, see [Workflow validation](../../workflow-validation/concept/c_WorkflowValidation.md).
+Before you publish a workflow, validate it to test it for issues that might cause it to fail, such as missing subflows or disconnected transitions. For more information, see [Workflow validation](c_WorkflowValidation.md).
 
 Role required: snc\_required\_script\_writer and workflow\_admin, workflow\_creator, workflow\_publisher, or admin
 
@@ -102,7 +102,7 @@ To publish a workflow:
 
 ### Result
 
-If you published a new version of workflow, the changes are not applied to running [workflow contexts](../reference/r_AdministeringWorkflowContexts.md). Any currently running workflow context continues using the workflow version that was available when the workflow started. The next time the workflow runs, it uses the new version.
+If you published a new version of workflow, the changes are not applied to running [workflow contexts](r_AdministeringWorkflowContexts.md). Any currently running workflow context continues using the workflow version that was available when the workflow started. The next time the workflow runs, it uses the new version.
 
 ## Determine whether a workflow can run
 
@@ -155,9 +155,9 @@ To check out a workflow:
 
 3.  In the title bar, click the menu icon and select **Checkout**.
 
-    A new [version of the workflow](../../using-workflows/concept/c_WorkflowVersions.md) is created and assigned to you.
+    A new [version of the workflow](c_WorkflowVersions.md) is created and assigned to you.
 
-    If you are in a different domain than the published workflow, the new workflow version is [created in your domain](../../using-workflows/concept/c_WorkflowsAndDomainSeparation.md#).
+    If you are in a different domain than the published workflow, the new workflow version is [created in your domain](c_WorkflowsAndDomainSeparation.md#).
 
 
 ### What to do next

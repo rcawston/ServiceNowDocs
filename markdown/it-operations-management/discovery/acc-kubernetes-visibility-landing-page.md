@@ -20,15 +20,15 @@ Kubernetes Visibility Agent detects changes on resources in a Kubernetes cluster
 
 <table id="table_py2_3vm_qdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)High-level overview of Kubernetes Visibility Agent.](../../cloud-native-operations-visibility/concept/cnov-exploring.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)High-level overview of Kubernetes Visibility Agent.](cnov-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Kubernetes Visibility Agent installation and configuration tasks.](../../cloud-native-operations-visibility/concept/cnov-configuring.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Kubernetes Visibility Agent installation and configuration tasks.](cnov-configuring.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference information, such as collected data, the Kubernetes Visibility Agent support matrix, and advanced configuration options.](../../cloud-native-operations-visibility/reference/cnov-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference information, such as collected data, the Kubernetes Visibility Agent support matrix, and advanced configuration options.](cnov-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources
@@ -41,12 +41,12 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-support.svg) Support**
 
--   **[Exploring Kubernetes Visibility Agent](../../cloud-native-operations-visibility/concept/cnov-exploring.md)**  
+-   **[Exploring Kubernetes Visibility Agent](cnov-exploring.md)**  
 Kubernetes Visibility Agent enables you to gain visibility into on-premises Kubernetes clusters as well as the various Cloud deployments.
--   **[Configuring Kubernetes Visibility Agent](../../cloud-native-operations-visibility/concept/cnov-configuring.md)**  
+-   **[Configuring Kubernetes Visibility Agent](cnov-configuring.md)**  
 Set up Kubernetes Visibility Agent by performing the described procedures.
--   **[Kubernetes Visibility Agent Reference](../../cloud-native-operations-visibility/reference/cnov-reference.md)**  
+-   **[Kubernetes Visibility Agent Reference](cnov-reference.md)**  
 Reference information about Kubernetes Visibility Agent.
 
-**Parent Topic:**[Discovery for containerized resources](../../discovery/concept/container-discovery.md)
+**Parent Topic:**[Discovery for containerized resources](container-discovery.md)
 

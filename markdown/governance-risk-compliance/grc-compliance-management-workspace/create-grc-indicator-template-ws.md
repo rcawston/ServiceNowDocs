@@ -243,7 +243,7 @@ Due date duration in days between the creation and due date of the indicator tas
 
 This field appears only when **Manual** is selected from the **Type** field.
 
-For more information, see [Performance enhancements for Indicator nightly job](../concept/performance-enhancements-indicator-jobs.md).
+For more information, see [Performance enhancements for Indicator nightly job](performance-enhancements-indicator-jobs.md).
 
 </td></tr><tr><td>
 

@@ -165,21 +165,21 @@ Manage resource blocks in the Resource Blocks page. Open the Cloud Admin portal,
 
 ![Resource block page and descriptions of the items in the page](../image/resource-block-list.png "Resource Blocks page components")
 
--   **[Create a custom resource block](../task/create-resource-block.md)**  
+-   **[Create a custom resource block](create-resource-block.md)**  
 If the blocks in the base system do not provide the cloud resources that you need to provision, you can create a custom resource block.
--   **[Configure resource block input parameters](../task/manage-resource-block-operations.md)**  
+-   **[Configure resource block input parameters](manage-resource-block-operations.md)**  
 You can configure operations for each interface of a resource block by specifying input parameters, steps, and output attributes. Input parameters hold values that the system requires to identify and manage a virtual resource, such as the datacenter and resource group that the resource is in.
--   **[Add operation steps to a resource block](../task/add-operation-steps.md)**  
+-   **[Add operation steps to a resource block](add-operation-steps.md)**  
 After you configure operations and input parameters for your resource block, add steps for each operation to tell the system which Cloud API \(CAPI\) to call. Each step is a separate call to CAPI.
--   **[Extend Cloud Provisioning and Governance resource blocks with an override operation](../task/extend-cloud-management-entities.md)**  
+-   **[Extend Cloud Provisioning and Governance resource blocks with an override operation](extend-cloud-management-entities.md)**  
 You can extend your existing guest interface to create a new operation. You can also create a new guest interface with its own operations, parameters, and inputs.
--   **[Add a resource script to a resource block](../task/add-resource-script-resource-block.md)**  
+-   **[Add a resource script to a resource block](add-resource-script-resource-block.md)**  
 A resource script operates on a resource during deployment or returns data to the CMDB after a resource is deployed.
--   **[Configure a response processor](../task/configure-response-processor.md)**  
+-   **[Configure a response processor](configure-response-processor.md)**  
 Configure a response processor to handle responses from datacenters.
--   **[Add Terraform Orchestration interface on a resource block](../task/add-terraform-orchestration-interface.md)**  
+-   **[Add Terraform Orchestration interface on a resource block](add-terraform-orchestration-interface.md)**  
 After you have activated the Terraform store app for Cloud Provisioning and Governance, to support cloud-based operations for cloud providers using Terraform Open Source Edition. Add the Terraform Orchestration interface on resource block, to execute cloud-based operations via terraform templates.
--   **[Create a resource block for Microsoft Azure Cloud](../task/create-resource-block-azure-terraform.md)**  
+-   **[Create a resource block for Microsoft Azure Cloud](create-resource-block-azure-terraform.md)**  
 Resource blocks are the building blocks of cloud catalog items. Create a resource block for the Microsoft Azure Cloud Platform provider, based on a CI type from the CMDB.
 
 **Parent Topic:**[Cloud Admin Portal](cloud-admin-portal.md)

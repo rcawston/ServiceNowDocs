@@ -55,7 +55,7 @@ If an agent can't find a contact or consumer, they can create a record for that 
 **Related topics**  
 
 
-[Lookup and verify](../concept/lookup-and-verify-overview.md)
+[Lookup and verify](lookup-and-verify-overview.md)
 
 [Look up and verify a contact or consumer](lookup-verify-contact-consumer.md)
 

@@ -27,7 +27,7 @@ Users configured as part of the admin list, can contribute user criteria or owne
 
 2.  On the form, fill in the fields.
 
-    For a description of the field values, see [Exam form](../reference/exam-form.md).
+    For a description of the field values, see [Exam form](exam-form.md).
 
 3.  Select **Submit**.
 
@@ -45,14 +45,14 @@ Add questions to an exam. See, [Add questions to an exam](add-questions-exam.md)
 -   **[Add questions to an exam](add-questions-exam.md)**  
 Add questions for an exam in Career Assessment.
 
-**Parent Topic:**[Using Career Assessment](../concept/using-exam-engine.md)
+**Parent Topic:**[Using Career Assessment](using-exam-engine.md)
 
 **Related topics**  
 
 
 [Create exam catalogs](create-exam-catalog.md)
 
-[Add exams to a learning path from Career Assessment](../concept/create-quiz-path.md)
+[Add exams to a learning path from Career Assessment](create-quiz-path.md)
 
 [View an exam instance](view-exam-instance.md)
 

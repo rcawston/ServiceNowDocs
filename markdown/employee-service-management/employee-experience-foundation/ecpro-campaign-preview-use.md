@@ -89,7 +89,7 @@ Select a topic
 
 Allows you to preview content associated with a topic.Topics are organized under a taxonomy.
 
- When the Allow Ownership for Topics \(sn\_cd.activate\_topic\_ownership\) system property is set to **Yes** and the topic is assigned to you or a group you belong to, you only see topics assigned to you or topics that do not have restrictions. For more information, see [Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md) and [Assign ownership of content](ecpro-ca-cd-content-restriction.md).
+ When the Allow Ownership for Topics \(sn\_cd.activate\_topic\_ownership\) system property is set to **Yes** and the topic is assigned to you or a group you belong to, you only see topics assigned to you or topics that do not have restrictions. For more information, see [Properties installed with Content Experiences](properties-installed-with-content-auto.md) and [Assign ownership of content](ecpro-ca-cd-content-restriction.md).
 
 </td></tr><tr><td>
 

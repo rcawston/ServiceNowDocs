@@ -25,5 +25,5 @@ There is a limit on the size of an archive table you can create to store data. T
 
 Review the custom columns on the table being archived. Also review the custom fields on the tables the table extends from. Determine if those columns are no longer needed and are not being used by current customizations. If you identify unused columns, you can remove them. Doing this might reduce the row size of the table being archived. If that is unsuccessful, contact ServiceNow® Customer Service and Support to see what other alternatives are available.
 
-**Parent Topic:**[Data Management reference](../../managing-data/reference/data-management-reference.md)
+**Parent Topic:**[Data Management reference](data-management-reference.md)
 

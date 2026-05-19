@@ -13,13 +13,13 @@ breadcrumb: [Integration capabilities, Security Operations Integration Reference
 
 The Get Network Statistics capability retrieves a list of active network connections from a host or endpoint. It can be used for incident enrichment during investigations. This capability is triggered automatically when a configuration item is added to a security incident.
 
-The **Get Network Statistics** capability has a flow, [Security Operations Integrations - Get Network Statistics flow](../../security-operations-integrations/task/secops-integration-get-network-stats-workflow.md) that accepts one or more CIs and tasks. The flow iterates over each implementation and each CI and re-invokes the implementation flow.
+The **Get Network Statistics** capability has a flow, [Security Operations Integrations - Get Network Statistics flow](secops-integration-get-network-stats-workflow.md) that accepts one or more CIs and tasks. The flow iterates over each implementation and each CI and re-invokes the implementation flow.
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
--   **[Security Operations Integrations - Get Network Statistics flow](../../security-operations-integrations/task/secops-integration-get-network-stats-workflow.md)**  
+-   **[Security Operations Integrations - Get Network Statistics flow](secops-integration-get-network-stats-workflow.md)**  
 The Security Operations Integrations - Get Network Statistics flow retrieves a list of active network connections from a host or endpoint.
--   **[Security Incident Response- Get Network Statistics flow](../../security-incident-response-orchestration/task/obtain-network-statistics-workflow.md)**  
+-   **[Security Incident Response- Get Network Statistics flow](security-incident-response/obtain-network-statistics-workflow.md)**  
 The **Security Incident Response** &gt; **Get Network Statistics** flow retrieves the network statistics for an affected Windows-based resource when added to a security incident in the **Analysis** state.
 
 **Parent Topic:**[Integration capabilities](integration-capabilities.md)
@@ -45,5 +45,5 @@ The **Security Incident Response** &gt; **Get Network Statistics** flow retrieve
 
 [Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)
 
-[Change the order of flow execution](../task/change-wf-execution-order.md)
+[Change the order of flow execution](change-wf-execution-order.md)
 

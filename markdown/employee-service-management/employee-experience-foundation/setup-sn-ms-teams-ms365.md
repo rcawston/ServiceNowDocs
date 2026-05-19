@@ -44,9 +44,9 @@ Before integrating Employee Center with your Microsoft 365 tenant, ensure that t
 
 2.  Regenerate and download a new manifest file for Microsoft 365.
 
-    For more information on how to generate and download the manifest file, see [Create and download manifest file for Employee Center and Microsoft 365 integration](../task/download-manifest-ms365.md).
+    For more information on how to generate and download the manifest file, see [Create and download manifest file for Employee Center and Microsoft 365 integration](download-manifest-ms365.md).
 
-3.  [Upload manifest file in Microsoft Teams for Microsoft 365](../task/upload-manifest-ms-teams-ms365.md).
+3.  [Upload manifest file in Microsoft Teams for Microsoft 365](upload-manifest-ms-teams-ms365.md).
 
 ## Integration process for self-configured apps
 
@@ -121,11 +121,11 @@ Microsoft Outlook mobile application
 **27922004-5251-4030-b22d-91ecd9a37ea4**
 
 </td></tr></tbody>
-</table>    For more information on updating the Microsoft Azure application and authenticating users, see [Create Microsoft Azure application and authenticate users to access Employee Center in Microsoft Teams](../task/authenticate-users-your-hub-ms-teams.md).
+</table>    For more information on updating the Microsoft Azure application and authenticating users, see [Create Microsoft Azure application and authenticate users to access Employee Center in Microsoft Teams](authenticate-users-your-hub-ms-teams.md).
 
 3.  Regenerate and download a new manifest file for Microsoft 365.
 
-    For more information on how to generate and download the manifest file, see [Create and download manifest file for Employee Center and Microsoft 365 integration](../task/download-manifest-ms365.md).
+    For more information on how to generate and download the manifest file, see [Create and download manifest file for Employee Center and Microsoft 365 integration](download-manifest-ms365.md).
 
-4.  [Upload manifest file in Microsoft Teams for Microsoft 365](../task/upload-manifest-ms-teams-ms365.md).
+4.  [Upload manifest file in Microsoft Teams for Microsoft 365](upload-manifest-ms-teams-ms365.md).
 

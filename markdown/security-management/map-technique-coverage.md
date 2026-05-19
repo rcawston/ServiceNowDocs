@@ -26,7 +26,7 @@ The technique and ID are automatically populated for all the [collections](setup
 
 You can map the overall technique detection coverage with the technique to complete the mapping. You can associate a technique with only one overall technique detection coverage.
 
-The technique detection coverage mapping that you define is used in the [coverage visualization in the heatmap](../concept/mitre-att-ck-heatmap-and-navigator.md#).
+The technique detection coverage mapping that you define is used in the [coverage visualization in the heatmap](mitre-att-ck-heatmap-and-navigator.md#).
 
 **Note:** You can arrive at the overall technique detection coverage using your organization-specific calculations. You may use any Breach &amp; Attack Simulation \(BAS\) products, the Cyber Analytics Repository \(CAR\), or any other methods as necessary to define the scoring definition, and use it in this procedure for the overall technique detection coverage mapping.
 
@@ -41,16 +41,16 @@ The technique detection coverage mapping that you define is used in the [coverag
 2.  Review each technique and map your overall technique detection coverage based on your [detection coverage definition](define-technique-coverage.md) and your organization's coverage availability.
 
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](../concept/mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](domain-separation-and-mitre-att-ck.md)
 
 [Set up the MITRE-ATT&amp;CK framework](setup-mitre-profile.md)
 
@@ -84,7 +84,7 @@ The technique detection coverage mapping that you define is used in the [coverag
 
 [Create and map detection rules](create-detection-rules.md)
 
-[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](../concept/auto-extract-technique-rules.md#)
+[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](auto-extract-technique-rules.md#)
 
 [Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
 

@@ -44,5 +44,5 @@ Role required: admin
 
 Create an access control list \(ACL\) to define which roles can access an insurance policy table. For more information, see [Create an access control list for an insurance policy table](create-an-access-control-list-for-the-insurance-policy-table.md).
 
-**Parent Topic:**[Setting up an insurance policy for Insurance claims](../concept/set-up-an-insurance-policy.md)
+**Parent Topic:**[Setting up an insurance policy for Insurance claims](set-up-an-insurance-policy.md)
 

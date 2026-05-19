@@ -19,6 +19,6 @@ For the mapping step, you must first ingest sample tickets and then ensure that 
 
 Mapping of the sample ticket fields involves the following:
 
--   Fetching and populating of the sample data: See [Ingesting the sample Secureworks tickets](../task/secureworks-ctp-create-profile-ingestion.md)
+-   Fetching and populating of the sample data: See [Ingesting the sample Secureworks tickets](secureworks-ctp-create-profile-ingestion.md)
 -   Mapping the ticket fields to the security incident: See [Mapping Secureworks ticket fields to security incident response fields](secureworks-ctp-create-profile-mapping.md)
 

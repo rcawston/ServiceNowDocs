@@ -33,7 +33,7 @@ The Digital Resilience Incident Reporting \(DRIR\) streamlines the case reportin
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Components installed with DRIR](../reference/drir-ref.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Components installed with DRIR](drir-ref.md)
 
 </td></tr></tbody>
 </table>## Additional resources

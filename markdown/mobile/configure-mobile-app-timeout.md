@@ -47,5 +47,5 @@ For example, if you want the mobile app's token to expire after 30 minutes, use 
 
 Sign out and sign back in to the mobile app. Otherwise the app uses the previously granted sessions and tokens.
 
-**Parent Topic:**[Mobile authentication](../concept/mobile-authentication.md)
+**Parent Topic:**[Mobile authentication](mobile-authentication.md)
 

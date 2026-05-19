@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Field Setting form contains information about field-specific settings defined for your AI Search indexed sources. Use this form when creating or modifying a field setting for an indexed source.
 
-For details on creating or editing field settings for indexed sources, see [Field settings for AI Search](../concept/field-settings-ais.md).
+For details on creating or editing field settings for indexed sources, see [Field settings for AI Search](field-settings-ais.md).
 
 |Field|Description|
 |-----|-----------|
@@ -26,5 +26,5 @@ For details on creating or editing field settings for indexed sources, see [Fiel
 |Field|Record field that the field setting operates on.|
 |Value|Value for the specified field setting. For details on the values supported for each field setting, see [List of AI Search indexed source field settings](field-settings-list-ais.md).|
 
-**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+**Parent Topic:**[AI Search reference](reference-ais.md)
 

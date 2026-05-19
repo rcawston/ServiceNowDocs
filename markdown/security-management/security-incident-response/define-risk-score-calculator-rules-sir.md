@@ -162,28 +162,28 @@ Use this option to add, edit, or remove, and enable and disable criteria that co
 -   **[Risk Score Calculator for Additional Related Tables](risk-score-calculator-related-tables.md)**  
 The Risk Score Calculator is provisioned with one risk-scoring rule as part of the base system to calculate the risk score of security incidents based on user-defined criteria. However, you can customize and include additional related tables to calculate the risk score.
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[Set up view of SIR Records](../concept/set-up-view-of-sir-records.md)
+[Set up view of SIR Records](set-up-view-of-sir-records.md)
 
-[Configure SI design time investigation](../concept/configure-investigation-canvas-records.md)
+[Configure SI design time investigation](configure-investigation-canvas-records.md)
 
-[SIR Workspace Related Records](../concept/sir-records.md#)
+[SIR Workspace Related Records](sir-records.md#)
 
-[Configure Shift Handover](../concept/config-shift-handover.md)
+[Configure Shift Handover](config-shift-handover.md)
 
-[Security Incident Response conference call integration](../concept/sir-conf-call-capability.md)
+[Security Incident Response conference call integration](sir-conf-call-capability.md)
 
-[Configure report templates in Security Incident Response](../concept/daily-status-sir.md)
+[Configure report templates in Security Incident Response](daily-status-sir.md)
 
-[On-Call scheduling in Security Incident Response](../concept/on-call-schedule-sir.md)
+[On-Call scheduling in Security Incident Response](on-call-schedule-sir.md)
 
-[Category management in Security Incident Response](../concept/category-management-sir.md)
+[Category management in Security Incident Response](category-management-sir.md)
 
-[View and update Security Incident Response system properties](../concept/view-update-sirw-system-properties.md)
+[View and update Security Incident Response system properties](view-update-sirw-system-properties.md)
 
 [Create quick filters for Security Incidents and Response Tasks lists](create-quick-filters-for-security-incidents.md)
 

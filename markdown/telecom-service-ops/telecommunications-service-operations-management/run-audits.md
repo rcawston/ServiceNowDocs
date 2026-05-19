@@ -66,7 +66,7 @@ Review audit results
 
 Example use case: The configured filters can be used for different discovery sources. For example, the Nokia Altiplano. When running the audit manually, you can select the appropriate filter to validate only those CIs discovered by that specific source—confirming targeted and efficient auditing.
 
-**Parent Topic:**[Using Telecommunications Service Operations Management](../concept/using-tsom.md)
+**Parent Topic:**[Using Telecommunications Service Operations Management](using-tsom.md)
 
 **Related topics**  
 
@@ -139,11 +139,11 @@ After remediation:
 **Related topics**  
 
 
-[Telecom Discrepancy Identification and Reconciliation](../concept/exploring-telecom-reconciliation.md)
+[Telecom Discrepancy Identification and Reconciliation](exploring-telecom-reconciliation.md)
 
-[Discrepancy identification – types of discrepancies](../concept/discrepancy-identification-types-of-discrepancies.md)
+[Discrepancy identification – types of discrepancies](discrepancy-identification-types-of-discrepancies.md)
 
-[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](../concept/system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
+[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
 
 [Activate Telecom Discrepancy Identification and Reconciliation](configure-telecom-reconciliation.md)
 

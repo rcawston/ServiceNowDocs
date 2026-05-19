@@ -22,12 +22,12 @@ Finance and Supply Chain workflows consist of components that support procuremen
 
 |Component|Where it belongs|Description|
 |---------|----------------|-----------|
-|[Source-to-Pay Operations](../reference/source-to-pay-operations-overview.md)|Product suite \(within Finance and Supply Chain workflows\)|Supports end-to-end procurement and payment processes by bringing together supplier, sourcing, purchasing, and payment workflows.|
-|[Supplier Lifecycle Operations](../../supplier-lifecycle-operations/concept/supp-mgmt-landing-page.md)|Product \(within Source-to-Pay Operations product suite\)|Manages supplier onboarding, offboarding, and ongoing supplier data management, including collaboration and governance.|
-|[Sourcing and Procurement Operations](../../sourcing-procurement-operations/concept/psm-overview.md)|Product \(within Source-to-Pay Operations product suite\)|Supports sourcing and procurement workflows, purchasing activities, and spend visibility.|
-|[Accounts Payable Operations](../../accounts-payable-operations/concept/acc-pay-mgmt-landing-page.md)|Product \(within Source-to-Pay Operations product suite\)|Automates invoice processing, exception handling, approvals, and payment-related workflows.|
-|[Purchase Order Management](../../purchase-order-management/concept/purchase-order-mgmt-landing-page.md)|Application \(within Source-to-Pay Operations product suite\)|Helps teams manage purchase order exceptions and related tasks as part of procurement workflows.|
-|[Finance Case Management](../../finance-case-management/concept/fin-case-mgmt-landing-page.md)|Application \(within Finance and Supply Chain workflows\)|Supports finance service requests and inquiries, enabling finance teams to track, manage, and resolve finance-related requests.|
+|[Source-to-Pay Operations](source-to-pay-operations-overview.md)|Product suite \(within Finance and Supply Chain workflows\)|Supports end-to-end procurement and payment processes by bringing together supplier, sourcing, purchasing, and payment workflows.|
+|[Supplier Lifecycle Operations](supplier-lifecycle-operations/supp-mgmt-landing-page.md)|Product \(within Source-to-Pay Operations product suite\)|Manages supplier onboarding, offboarding, and ongoing supplier data management, including collaboration and governance.|
+|[Sourcing and Procurement Operations](sourcing-and-procurement-operations/psm-overview.md)|Product \(within Source-to-Pay Operations product suite\)|Supports sourcing and procurement workflows, purchasing activities, and spend visibility.|
+|[Accounts Payable Operations](accounts-payable-operations/acc-pay-mgmt-landing-page.md)|Product \(within Source-to-Pay Operations product suite\)|Automates invoice processing, exception handling, approvals, and payment-related workflows.|
+|[Purchase Order Management](purchase-order-mgmt-landing-page.md)|Application \(within Source-to-Pay Operations product suite\)|Helps teams manage purchase order exceptions and related tasks as part of procurement workflows.|
+|[Finance Case Management](finance-case-management/fin-case-mgmt-landing-page.md)|Application \(within Finance and Supply Chain workflows\)|Supports finance service requests and inquiries, enabling finance teams to track, manage, and resolve finance-related requests.|
 
 ## Common capabilities across Finance and Supply Chain workflows
 

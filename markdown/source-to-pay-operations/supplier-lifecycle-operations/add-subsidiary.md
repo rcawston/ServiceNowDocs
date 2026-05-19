@@ -47,7 +47,7 @@ When you add a subsidiary, the supplier you added it under becomes the parent en
 **Related topics**  
 
 
-[Use the supplier onboarding playbook to onboard suppliers](../concept/use-playbooks-onboard-supp.md#)
+[Use the supplier onboarding playbook to onboard suppliers](use-playbooks-onboard-supp.md#)
 
-[Perform risk assessment playbook](../concept/perform-risk-playbook.md)
+[Perform risk assessment playbook](perform-risk-playbook.md)
 

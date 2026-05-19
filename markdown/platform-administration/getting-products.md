@@ -24,7 +24,7 @@ From the product details page, you can see all applications included in the prod
 
 ![Some apps in the product Integrated Risk Management are labeled "Ready to install." Others are labeled "License not found" and require purchase.](../image/store-products-page.png "Product details")
 
-Each unlicensed application in a product must be procured individually. Select each unlicensed application and request procurement from the application details page. For more information, see [Buy a ServiceNow application](../task/buy-servicenow-app.md).
+Each unlicensed application in a product must be procured individually. Select each unlicensed application and request procurement from the application details page. For more information, see [Buy a ServiceNow application](buy-servicenow-app.md).
 
-**Parent Topic:**[Administering applications](../../../build/applications/reference/administering-applications.md)
+**Parent Topic:**[Administering applications](administering-applications.md)
 

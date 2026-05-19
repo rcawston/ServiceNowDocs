@@ -31,12 +31,12 @@ Role required: sn\_apm\_mdtl\_com.mdtl\_com\_admin
 
 6.  On the Shape Library form, fill in the fields.
 
-    For field information, see [Modeling configuration form](../../reference/eaw-reference/eaw-modeling-config-form.md).
+    For field information, see [Modeling configuration form](eaw-modeling-config-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-setup-modeling.md)
+**Parent Topic:**[Configure Enterprise Modeling and Visualization](eaw-setup-modeling.md)
 
 **Related topics**  
 

@@ -44,7 +44,7 @@ Configure scoring for assessment
 
     1.  On the **Assessment scoring** form, fill in the fields.
 
-        For a description of the field values, see [Assessment scoring form](../reference/scoring-forms.md#section_xfs_1bk_k3c).
+        For a description of the field values, see [Assessment scoring form](scoring-forms.md#section_xfs_1bk_k3c).
 
     2.  Select **Save**.
 
@@ -54,7 +54,7 @@ Configure scoring for assessment
 
     2.  On the **Question scoring** form, fill in the fields.
 
-        For a description of the field values, see [Question scoring form](../reference/scoring-forms.md#section_tpx_3bk_k3c).
+        For a description of the field values, see [Question scoring form](scoring-forms.md#section_tpx_3bk_k3c).
 
         **Note:** Scoring logic varies by question type.
 
@@ -67,7 +67,7 @@ Configure scoring for assessment
 
     1.  On the **Subsection scoring** form, fill in the fields.
 
-        For a description of the field values, see [Assessment scoring form](../reference/scoring-forms.md#section_xfs_1bk_k3c)
+        For a description of the field values, see [Assessment scoring form](scoring-forms.md#section_xfs_1bk_k3c)
 
         **Note:** The subsection scores are calculated by grouping question scores based on the defined criteria.
 
@@ -79,7 +79,7 @@ Configure scoring for assessment
 
     1.  On the **Section scoring** form, fill in the fields.
 
-        For a description of the field values, see [Section scoring form](../reference/scoring-forms.md#section_xbl_4bk_k3c)
+        For a description of the field values, see [Section scoring form](scoring-forms.md#section_xbl_4bk_k3c)
 
     2.  Select **Save**.
 
@@ -90,5 +90,5 @@ The scoring is now configured at all required levels.
 
 ## What to do next
 
-After scoring is configured and assessments are completed, you can view the calculated scores. For information about the tables that store question, subsection, section and assessment level scores, see [Scoring results](../concept/scoring-results.md).
+After scoring is configured and assessments are completed, you can view the calculated scores. For information about the tables that store question, subsection, section and assessment level scores, see [Scoring results](scoring-results.md).
 

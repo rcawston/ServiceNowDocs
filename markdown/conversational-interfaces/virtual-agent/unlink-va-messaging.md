@@ -42,5 +42,5 @@ Unlinking your account from a selected Conversational Integration for Slack, Mic
 6.  To link your account again, repeat steps 1 through 3 for the associated messaging integration and in the **Actions on selected rows...**, click **Link account**.
 
 
-**Parent Topic:**[Account linking in pre-built messaging integrations](../concept/va-adapter-autolinking.md)
+**Parent Topic:**[Account linking in pre-built messaging integrations](va-adapter-autolinking.md)
 

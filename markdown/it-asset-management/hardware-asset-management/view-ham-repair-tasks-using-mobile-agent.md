@@ -44,14 +44,14 @@ Role required: admin or asset
     3.  Select the fields by which to sort your tasks.
 
 
-**Parent Topic:**[Manage hardware asset repair tasks using the Mobile Agent application](../concept/repair-orders-mobile-agent-ham.md)
+**Parent Topic:**[Manage hardware asset repair tasks using the Mobile Agent application](repair-orders-mobile-agent-ham.md)
 
 **Related topics**  
 
 
 [Start working on a hardware asset repair task using the Mobile Agent application](start-work-repair-task-mobile-ham.md)
 
-[Record time worked on a hardware asset repair task using the Mobile Agent application](../concept/record-time-worked-mobile-agent-app-con.md)
+[Record time worked on a hardware asset repair task using the Mobile Agent application](record-time-worked-mobile-agent-app-con.md)
 
 [Close a hardware asset repair task using the Mobile Agent application](complete-repair-task-mobile-app-ham.md)
 

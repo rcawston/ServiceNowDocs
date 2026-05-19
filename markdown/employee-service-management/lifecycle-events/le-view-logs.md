@@ -32,5 +32,5 @@ Role required: sn\_hr\_le.admin
 4.  View the list of log entries to acquire the information you need about an error or a process that ran.
 
 
-**Parent Topic:**[Lifecycle Events logging](../concept/le-logging.md)
+**Parent Topic:**[Lifecycle Events logging](le-logging.md)
 

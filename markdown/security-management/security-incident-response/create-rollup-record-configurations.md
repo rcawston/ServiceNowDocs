@@ -36,10 +36,10 @@ To rollup information such as configuration items, observables, and indicator of
 
 ## What to do next
 
--   For more detailed information, see [Configure Rollup Records in Major Security Incident Management](../concept/roll-up-record-configuration-in-major-security-incident-management.md)
+-   For more detailed information, see [Configure Rollup Records in Major Security Incident Management](roll-up-record-configuration-in-major-security-incident-management.md)
 -   For a security case example information, see [Writing script for a Security Case](create-rollup-record-configurations.md#)
 
-**Parent Topic:**[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+**Parent Topic:**[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
 
 ## Writing script for a Security Case
 

@@ -46,7 +46,7 @@ Roles
 
 </td><td>
 
-[Create catalog items using Now Assist](../task/create-catalog-item-using-now-assist.md)
+[Create catalog items using Now Assist](create-catalog-item-using-now-assist.md)
 
 </td><td>
 

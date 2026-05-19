@@ -28,49 +28,49 @@ Consider the following points before converting or associating RIDAC records:
     ![Diagram for explaining RIDAC process flow](../image/ridac_workflow.png "RIDAC flow")
 
 -   You can convert one record into multiple RIDAC records. For example, you can create multiple issue records from one risk record.
--   You can associate one record with multiple different records. For example, you can link one issue record to multiple different risk, decision, action, or request change records. For more information, see [Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](../task/reassociate-ridac-demand.md).
+-   You can associate one record with multiple different records. For example, you can link one issue record to multiple different risk, decision, action, or request change records. For more information, see [Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](reassociate-ridac-demand.md).
 
--   **[Add risks for a demand](../task/add-risks-for-demand.md)**  
+-   **[Add risks for a demand](add-risks-for-demand.md)**  
 Add a risk to a demand to identify, analyze, prioritize, plan, and track a risk during any phase of the demand life cycle. Assess potential problems and the severity of their impact to take informed decisions about the demand.
--   **[Add issues for a demand](../task/add-issues-for-demand.md)**  
+-   **[Add issues for a demand](add-issues-for-demand.md)**  
 Add an issue to a demand to escalate a risk or to track an unexpected problem. For example, a technical malfunction or resource unavailability that occurs during any phase of the demand life cycle. If the issue remains unresolved, unnecessary conflicts, delays, or even a failure can occur.
--   **[Add decisions for a demand](../task/add-decisions-for-demand.md)**  
+-   **[Add decisions for a demand](add-decisions-for-demand.md)**  
 As a demand manager, develop a plan to manage risks and issues proactively with solutions. Add the solution for a risk or issue to a demand in the form of a decision. You can also convert a risk or an issue to a decision or a decision to an action or a request change.
--   **[Add actions for a demand](../task/add-actions-for-demand.md)**  
+-   **[Add actions for a demand](add-actions-for-demand.md)**  
 Add actions that are required for resolving an issue or risk for a demand. You can also convert a risk, issue, or decision to an action based on your analysis and plan for resolution of a risk or issue.
--   **[Add Request Changes to a demand](../task/add-request-change-for-demand.md)**  
+-   **[Add Request Changes to a demand](add-request-change-for-demand.md)**  
 As a demand manager, you might create a request change as the outcome of the action taken to resolve an issue or mitigate a risk. The request change might result in changing the demand's scope, resource requirement, cost, or schedule to minimize the impact of a risk or issue.
--   **[Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a demand](../task/convert-ridac-for-demand.md)**  
+-   **[Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a demand](convert-ridac-for-demand.md)**  
 Convert one RIDAC record \(risk, issue, action, decision, and request changes\) to another, in that order to retain the record information instead of having to create a record manually and to track the issue more easily.
--   **[Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](../task/reassociate-ridac-demand.md)**  
+-   **[Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](reassociate-ridac-demand.md)**  
 Link existing RIDAC records \(risks, issues, actions, decisions, and request changes\) to one another for your demand. Associating RIDAC records with each other enables you to keep a record of risks or issues and their outcome for analysis at demand closure and planning. It also helps to track the risks and issues throughout the demand life cycle.
 
-**Parent Topic:**[Use Demand Management](../reference/r_UsingDemandManagement.md)
+**Parent Topic:**[Use Demand Management](r_UsingDemandManagement.md)
 
 **Related topics**  
 
 
 [Assess demands](c_AssessingDemands.md)
 
-[Create a demand](../task/t_CreatingDemands.md)
+[Create a demand](t_CreatingDemands.md)
 
-[View demands](../task/t_ViewDemands.md)
+[View demands](t_ViewDemands.md)
 
 [Add details to demands](c_EnhancingDemands.md)
 
-[Reset a demand to Draft state](../task/reset-demand-to-draft-state.md)
+[Reset a demand to Draft state](reset-demand-to-draft-state.md)
 
-[Delete demands](../task/t_DeletingDemands.md)
+[Delete demands](t_DeletingDemands.md)
 
-[Move and resize a demand](../task/t_MoveAndResizeADemand.md)
+[Move and resize a demand](t_MoveAndResizeADemand.md)
 
-[Train the similarity solution for Demand Management to find similar demands](../task/train-similarity-solution-dm.md)
+[Train the similarity solution for Demand Management to find similar demands](train-similarity-solution-dm.md)
 
-[PPM PIWB template - Find similar demands](../../itbm-PI-workbench/task/ppm-piwb-demand.md)
+[PPM PIWB template - Find similar demands](ppm-piwb-demand.md)
 
-[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](../task/identify-similar-demands.md)
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](identify-similar-demands.md)
 
-[Summarize demands with demand summarization skill](../task/demand-summary-demand-classic.md)
+[Summarize demands with demand summarization skill](demand-summary-demand-classic.md)
 
-[Associate AI systems with demands](../task/associate-ai-systems-with-demands.md)
+[Associate AI systems with demands](associate-ai-systems-with-demands.md)
 

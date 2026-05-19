@@ -23,15 +23,15 @@ Agentic Playbooks use AI agents to help you work more efficiently. AI agents com
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure AI agents for your playbook](../task/configure-agentic-playbooks.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure AI agents for your playbook](configure-agentic-playbooks.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how to use Agentic Playbooks](../task/running-agentic-activities.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how to use Agentic Playbooks](running-agentic-activities.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Review roles and guidelines](../reference/agentic-playbook-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Review roles and guidelines](agentic-playbook-reference.md)
 
 </td></tr></tbody>
 </table>## AI limitations

@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Select an existing action function or select **New**.
 
-    The Function screen displays. For more information on how to configure an action function, see [Action functions](../concept/mobile-actions.md).
+    The Function screen displays. For more information on how to configure an action function, see [Action functions](mobile-actions.md).
 
 3.  Select the **Offline Properties** tab.
 

@@ -23,7 +23,7 @@ The following use cases are supported:
 
 To set up the integration, follow these steps:
 
-**Note:** Before you set the integration, you must configured the Recommended Actions application. See [Set up recommended actions for account onboarding](../task/account-lifecycle-setup-rec-action.md) for details.
+**Note:** Before you set the integration, you must configured the Recommended Actions application. See [Set up recommended actions for account onboarding](account-lifecycle-setup-rec-action.md) for details.
 
 1.  Set up the Microsoft Dynamics CRM spoke. See [Microsoft Dynamics CRM Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/microsoft-dynamics-crm-spoke.md) for details.
 2.  On the Microsoft Dynamics CRM platform, you must do the following:
@@ -112,12 +112,12 @@ The following examples show how you can create an opportunity or a task in Micro
 
 After you have setup the integration, you can do the following:
 
--   [Create an opportunity in Microsoft Dynamics CRM](../task/account-lifecycle-create-crm-opportunity.md)
--   [Create a task in Microsoft Dynamics CRM](../task/account-lifecycle-create-crm-task.md)
+-   [Create an opportunity in Microsoft Dynamics CRM](account-lifecycle-create-crm-opportunity.md)
+-   [Create a task in Microsoft Dynamics CRM](account-lifecycle-create-crm-task.md)
 
--   **[Create an opportunity in Microsoft Dynamics CRM](../task/account-lifecycle-create-crm-opportunity.md)**  
+-   **[Create an opportunity in Microsoft Dynamics CRM](account-lifecycle-create-crm-opportunity.md)**  
 Create a renewal opportunity in the Microsoft Dynamics CRM platform from your ServiceNow instance.
--   **[Create a task in Microsoft Dynamics CRM](../task/account-lifecycle-create-crm-task.md)**  
+-   **[Create a task in Microsoft Dynamics CRM](account-lifecycle-create-crm-task.md)**  
 Create a task in the Microsoft Dynamics CRM platform from your ServiceNow instance and receive updates to the task in your ServiceNow instance.
 
 **Parent Topic:**[Customer success](account-lifecycle-config-cust-success.md)

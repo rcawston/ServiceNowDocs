@@ -75,5 +75,5 @@ This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
 
 ![Remove Office 365 group Users topic.](../image/RemoveUser2.png)
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

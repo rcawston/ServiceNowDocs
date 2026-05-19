@@ -33,7 +33,7 @@ Deselect the **Hide Search** button in UI Builder to display the AI search tab i
 
 </td></tr><tr><td>
 
-[Create a context and select a search application configuration](../task/ra-csm-contexts-create.md)
+[Create a context and select a search application configuration](ra-csm-contexts-create.md)
 
 </td><td>
 
@@ -42,7 +42,7 @@ Deselect the **Hide Search** button in UI Builder to display the AI search tab i
 
 </td></tr><tr><td>
 
-[Map AI search results with guidance inputs in Recommended Actions](../task/ra-create-search-result-mapping-for-ai-search.md)
+[Map AI search results with guidance inputs in Recommended Actions](ra-create-search-result-mapping-for-ai-search.md)
 
 </td><td>
 
@@ -58,7 +58,7 @@ Automatically create AI search results for a search configuration application in
 
 </td></tr><tr><td>
 
-[Configure dynamic filters in AI Search for Recommended Actions](../task/ra-configure-contextual-filtering.md)
+[Configure dynamic filters in AI Search for Recommended Actions](ra-configure-contextual-filtering.md)
 
 </td><td>
 

@@ -164,7 +164,7 @@ Shipping time in days
 
 </td><td>
 
-Estimated number of days to ship products to the delivery location. For more information, see [Lead time calculations](../reference/lead-time-calculations.md).
+Estimated number of days to ship products to the delivery location. For more information, see [Lead time calculations](lead-time-calculations.md).
 
 </td></tr><tr><td>
 
@@ -245,5 +245,5 @@ Legal entities that are allowed to buy from this supplier.
 -   Use the related lists of the supplier form to view the supplier products and contracts that are associated with this supplier.
 -   Add a supplier product. For more information, see [Add a supplier product](add-supplier-product.md).
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 

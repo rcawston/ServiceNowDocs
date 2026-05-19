@@ -37,12 +37,12 @@ Role required: sn\_apm.apm\_analyst
 
 5.  On the Edit a project form, fill in the fields.
 
-    For a description of the field values, see [Edit a project form](../../reference/eaw-reference/eaw-edit-project-form.md).
+    For a description of the field values, see [Edit a project form](eaw-edit-project-form.md).
 
 6.  Select **Update**.
 
 
-**Parent Topic:**[Use list view](../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
+**Parent Topic:**[Use list view](eaw-using-app-rat-list-view.md)
 
 **Related topics**  
 

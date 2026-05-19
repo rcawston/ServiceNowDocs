@@ -110,5 +110,5 @@ To print variable logs, click the Actions icon \(![Actions icon](../image/Action
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Debugging Service Catalog](../concept/debugging-service-catalog.md)
+**Parent Topic:**[Debugging Service Catalog](debugging-service-catalog.md)
 

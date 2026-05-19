@@ -35,15 +35,15 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr><tr><td>
 
-[Analytics and reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with a preconfigured dashboard.](../../../use/dashboards/application-content-packs/intelligent-servicing-for-fraud-dashboard.md)
+[Analytics and reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with a preconfigured dashboard.](intelligent-servicing-for-fraud-dashboard.md)
 
 </td><td>
 
-[Process Mining ![](../../../reuse/icons/brand-icons/bus-project.svg) Visualize the process and identify the improvement opportunities.](../../fso-common/concept/fso-process-optz-content-pack.md)
+[Process Mining ![](../../../reuse/icons/brand-icons/bus-project.svg) Visualize the process and identify the improvement opportunities.](../fso-process-optz-content-pack.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as fields, tables, and properties.](../reference/installed-with-intelligent-servicing-fraud.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as fields, tables, and properties.](installed-with-intelligent-servicing-fraud.md)
 
 </td></tr></tbody>
 </table>

@@ -88,7 +88,7 @@ You can perform the following actions from my purchase list page. Select the mor
 
 This list of actions changes based on the state of the order.
 
-**Parent Topic:**[My purchases on Shopping Hub](../concept/my-purchases.md)
+**Parent Topic:**[My purchases on Shopping Hub](my-purchases.md)
 
 **Related topics**  
 

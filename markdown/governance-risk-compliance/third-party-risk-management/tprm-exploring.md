@@ -100,7 +100,7 @@ TPRM Admin
 Administrators manage user roles, permissions, and system settings to set up TPRM to meet your organization's specific risk management needs and compliance requirements.
 
 </td></tr></tbody>
-</table>For more information on TPRM roles, see [Roles in Third-party Risk Management](../../grc-vendor-risk-implementation/reference/tprm-roles.md).
+</table>For more information on TPRM roles, see [Roles in Third-party Risk Management](tprm-roles.md).
 
 ## Third-party Risk Management workflow
 
@@ -118,7 +118,7 @@ The following infographic shows the workflow of the most important processes tha
 
     An IRQ is a set of questions that scores and scopes the required due diligence on the third parties or engagements. After the due diligence request is approved by the TPR manager or TPR assessor \[sn\_vdr\_risk\_asmt.vendor\_assessor\] that has been assigned as the owner of the due diligence request, they select an IRQ and attach it to an internal assessment.
 
-    **Note:** After the IRQ process enters the IRQ in progress state, you can request risk intelligence reports associated with your due diligence request. For more information, see [Using risk intelligence reports and scores](tprm-riskintel-using.md) and [Request a risk intelligence report associated with a due diligence request](../task/tprm-riskintel-request-dd.md).
+    **Note:** After the IRQ process enters the IRQ in progress state, you can request risk intelligence reports associated with your due diligence request. For more information, see [Using risk intelligence reports and scores](tprm-riskintel-using.md) and [Request a risk intelligence report associated with a due diligence request](tprm-riskintel-request-dd.md).
 
     For more information, see [Assessing your third-party risk](tprm-assessing-tpr.md).
 
@@ -130,7 +130,7 @@ The following infographic shows the workflow of the most important processes tha
 
 -   **Assess risk using an external assessment**
 
-    After the IRQ process or TP element collection process is completed, the TPR manager or owner selects questionnaires and requests for documentation to attach to external assessments for sending to the third party or engagement. For more information on creating assessments, see [Create an external assessment](../task/tprm-create-assessment.md) and [Third-party risk assessment form](../reference/tprm-create-assessment-form.md).
+    After the IRQ process or TP element collection process is completed, the TPR manager or owner selects questionnaires and requests for documentation to attach to external assessments for sending to the third party or engagement. For more information on creating assessments, see [Create an external assessment](tprm-create-assessment.md) and [Third-party risk assessment form](tprm-create-assessment-form.md).
 
     For more information on this process, see [Assessing your third-party risk](tprm-assessing-tpr.md) and [Monitoring third-party elements](tprm-monitor-tp-elements.md).
 
@@ -150,7 +150,7 @@ The following infographic shows the workflow of the most important processes tha
 
     The information gathered is scored and combined into a single view of the due diligence process to display all scores, completed questionnaires, issues, approvals, and comments.
 
-    For more information on scoring, see [Scoring calculations using the classic assessment engine](vendor-ratings-scoring.md) and [Verifying scoring calculations using the classic assessment engine](tprm-verif-q.md). See [Classic assessment configuration](../../grc-vendor-risk-implementation/concept/tprm-ongoing-config.md) for information on how scoring can be configured at the assessment and questionnaire level.
+    For more information on scoring, see [Scoring calculations using the classic assessment engine](vendor-ratings-scoring.md) and [Verifying scoring calculations using the classic assessment engine](tprm-verif-q.md). See [Classic assessment configuration](tprm-ongoing-config.md) for information on how scoring can be configured at the assessment and questionnaire level.
 
 -   **Approve due diligence requests**
 
@@ -162,7 +162,7 @@ The following infographic shows the workflow of the most important processes tha
 
     The contract negotiator can see the detailed information of all the scores and questionnaires. If additional due diligence is required, they can request it. If the contract negotiator successfully executes a contract with the third party, they can upload it and specify that the contract is executed. This action automatically notifies all key stakeholders of the contract's status. The contract negotiator can also skip the contract risk process, reject the due diligence request, or specify that the contract isn’t executed and that the third party isn't engaged for business.
 
-    **Note:** If the third-party risk manager or owner selects the **Skip contract risk process** option during the due diligence process, the assigned contract negotiator isn’t notified and the Contract risk process state is skipped. An approver and owner can update the **Skip contract risk process** selection up until the approval process is completed. For more information about this process, see [Due diligence request process management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-details-tab.md).
+    **Note:** If the third-party risk manager or owner selects the **Skip contract risk process** option during the due diligence process, the assigned contract negotiator isn’t notified and the Contract risk process state is skipped. An approver and owner can update the **Skip contract risk process** selection up until the approval process is completed. For more information about this process, see [Due diligence request process management](tprm-ws-dd-mgt-pg-details-tab.md).
 
     For more information on this process, see [Managing the contract risk process](tprm-ws-contract-risk-process.md).
 
@@ -179,7 +179,7 @@ The following infographic shows the workflow of the most important processes tha
     For more information, see [Managing the contract risk process](tprm-ws-contract-risk-process.md).
 
 
-For an in-depth description of the TPRM Due diligence workflow, see [Due diligence workflow](../../grc-workspace-vrm/concept/tprm-workflow-in-workspace.md).
+For an in-depth description of the TPRM Due diligence workflow, see [Due diligence workflow](tprm-workflow-in-workspace.md).
 
 **Note:** Starting with version 19.1.x of the Third-party Risk Management application, the tiering questionnaire and external assessment reminders workflows are deprecated and migrated to Workflow Studio. If you have customized these workflows, they won’t be deprecated or migrated as part of this change.
 
@@ -189,27 +189,27 @@ The following table shows the benefits of the Third-party Risk Management applic
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|View important risk information and quickly access actions.|[TPRM Home page](../../grc-workspace-vrm/concept/tprm-ws-home-page.md)|All TPRM users|
-|Use due diligence management reports to track, prioritize, and manage responsibilities.|[TPRM Due diligence management reports](../../grc-workspace-vrm/concept/tprm-ws-dd-management-reports.md)|All TPRM users|
-|Identify and assess the potential risk that is associated with your third-party relationship.|[TPRM Risk activity page](../../grc-workspace-vrm/concept/tprm-ws-risk-activity-page.md)|All TPRM users|
-|Pinpoint the geographical locations of active third parties and engagements. You can configure filters to view particular risk ratings and engagement types.|[TPRM Risk concentration map](../../grc-workspace-vrm/concept/tprm-ws-risk-concentration-map.md)|All TPRM users|
-|Prioritize assessments, issues, and tasks that need attention.|[TPRM Risk activity page](../../grc-workspace-vrm/concept/tprm-ws-risk-activity-page.md)|All TPRM users|
-|Access tasks that are assigned to you and to members of your group.|[TPRM Task page](../../grc-workspace-vrm/concept/tprm-ws-task-page.md)|All TPRM users|
-|Access all items that you can view or act on in TPRM.|[TPRM List page](../../grc-workspace-vrm/concept/tprm-ws-list-page.md)|All TPRM users|
-|Use the engagement page to access all current information and status for a third party or engagement.|[Get an overview of a third party](../../grc-workspace-vrm/concept/tprm-ws-tp-working-on.md)|All internal users|
-|Import existing data \(third parties, engagements, assessments, questionnaires, issues, and so on\) from other systems \(like the Aravo platform, the ProcessUnity platform, and so on\). You aren’t charged for importing the data.|[Import existing data from other systems](../../grc-vendor-risk-implementation/task/tprm-historical-data-import.md)|TPR Managers and TPR Admins|
-|Work on all processes in the workflow for a due diligence request: IRQs, external due diligence, approval, contract risk, and closed requests.|[Monitoring the due diligence request process](../../grc-workspace-vrm/concept/tprm-ws-dd-mgt-pg-overview.md)|TPR Managers and TPR Admins|
+|View important risk information and quickly access actions.|[TPRM Home page](tprm-ws-home-page.md)|All TPRM users|
+|Use due diligence management reports to track, prioritize, and manage responsibilities.|[TPRM Due diligence management reports](tprm-ws-dd-management-reports.md)|All TPRM users|
+|Identify and assess the potential risk that is associated with your third-party relationship.|[TPRM Risk activity page](tprm-ws-risk-activity-page.md)|All TPRM users|
+|Pinpoint the geographical locations of active third parties and engagements. You can configure filters to view particular risk ratings and engagement types.|[TPRM Risk concentration map](tprm-ws-risk-concentration-map.md)|All TPRM users|
+|Prioritize assessments, issues, and tasks that need attention.|[TPRM Risk activity page](tprm-ws-risk-activity-page.md)|All TPRM users|
+|Access tasks that are assigned to you and to members of your group.|[TPRM Task page](tprm-ws-task-page.md)|All TPRM users|
+|Access all items that you can view or act on in TPRM.|[TPRM List page](tprm-ws-list-page.md)|All TPRM users|
+|Use the engagement page to access all current information and status for a third party or engagement.|[Get an overview of a third party](tprm-ws-tp-working-on.md)|All internal users|
+|Import existing data \(third parties, engagements, assessments, questionnaires, issues, and so on\) from other systems \(like the Aravo platform, the ProcessUnity platform, and so on\). You aren’t charged for importing the data.|[Import existing data from other systems](tprm-historical-data-import.md)|TPR Managers and TPR Admins|
+|Work on all processes in the workflow for a due diligence request: IRQs, external due diligence, approval, contract risk, and closed requests.|[Monitoring the due diligence request process](tprm-ws-dd-mgt-pg-overview.md)|TPR Managers and TPR Admins|
 |Use the third-party portal as a primary point of interaction for third parties and risk assessors.|[Managing the Third-party portal](vendor-portal.md)|TPR Managers, TPR Assessors, and Third parties|
 
-For more information on the terminology used in TPRM, see [Terminology](../reference/tprm-terminology.md).
+For more information on the terminology used in TPRM, see [Terminology](tprm-terminology.md).
 
 ## What to explore next
 
 To learn more about configuring and using Third-party Risk Management, see:
 
 -   [Configuring Third-party Risk Management](tprm-configuring.md)
--   [Classic assessment configuration](../../grc-vendor-risk-implementation/concept/tprm-ongoing-config.md)
--   [Smart assessment configuration](../../grc-vendor-risk-implementation/concept/tprm-sae-assessment-config.md)
+-   [Classic assessment configuration](tprm-ongoing-config.md)
+-   [Smart assessment configuration](tprm-sae-assessment-config.md)
 -   [Requesting third-party risk due diligence](tprm-requesting-tpr-due-diligence.md)
 -   [Assessing your third-party risk](tprm-assessing-tpr.md)
 -   [Monitoring your third-party risk](tprm-monitoring-tpr.md)

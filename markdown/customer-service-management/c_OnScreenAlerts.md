@@ -28,16 +28,16 @@ Users with the sn\_shn.admin role can configure the desired entity tables, such 
 
 For more information, see the following configuration topics:
 
--   [Configure special handling notes](../task/configure-special-handling-notes.md)
--   [Configure an entity table to use special handling notes](../task/t_ConfigEntityToUseSHNotes.md)
--   [Configure a form to show special handling notes](../task/t_ConfigFormToShowOnScreenAlerts.md)
+-   [Configure special handling notes](configure-special-handling-notes.md)
+-   [Configure an entity table to use special handling notes](t_ConfigEntityToUseSHNotes.md)
+-   [Configure a form to show special handling notes](t_ConfigFormToShowOnScreenAlerts.md)
 
 ## Creating, updating, and deleting special handling notes
 
 Users with the sn\_shn.admin role can create, update, and delete special handling notes. Users with the sn\_shn.editor role can view and update notes and users with the sn\_shn.user role can view notes. For more information about creating special handling notes, see the following topics:
 
--   [Create a special handling note](../task/t_CreateAnOnScreenAlert.md)
--   [Components installed with Special Handling Notes](../reference/r_InstalledWithSpecHandNotes.md#)
+-   [Create a special handling note](t_CreateAnOnScreenAlert.md)
+-   [Components installed with Special Handling Notes](r_InstalledWithSpecHandNotes.md#)
 
 Special handling notes display important information to the user. In addition to a message, a special handling note also has a status, an assigned priority, and an expiration date.
 
@@ -155,7 +155,7 @@ When inserting or updating a special handling note, the picker domain scope take
 **Related topics**  
 
 
-[Configure special handling notes](../task/configure-special-handling-notes.md)
+[Configure special handling notes](configure-special-handling-notes.md)
 
-[Manage special handling notes](../task/manage-special-handling-notes.md)
+[Manage special handling notes](manage-special-handling-notes.md)
 

@@ -17,7 +17,7 @@ Assign a matter owner \(fulfiller\) for the legal hold matter to be responsible 
 
 ## Before you begin
 
-If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](../../legal-request-management/concept/install-legal-counsel-center-workspace.md).
+If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](../legal-service-delivery/install-legal-counsel-center-workspace.md).
 
 Role required: admin
 
@@ -44,5 +44,5 @@ The legal matter state changes from New to Assigned.
 
 A matter owner \(fulfiller\) is assigned to the legal hold matter.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](use-lg-hold-notif.md)
 

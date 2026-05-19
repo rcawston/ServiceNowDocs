@@ -19,15 +19,15 @@ The ServiceNow® AI Risk and Compliance application, along with the ServiceNow®
 
 <table id="table_s1b_4vg_s2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you can use the AI Risk and Compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](../concept/exploring-ai-risk-and-compliance.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you can use the AI Risk and Compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](exploring-ai-risk-and-compliance.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the assessments to manage the risk assessments of your AI assets.](../concept/configuring-ai-risk-and-compliance.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the assessments to manage the risk assessments of your AI assets.](configuring-ai-risk-and-compliance.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn how you can request AI systems, AI models, datasets, and raise an AI case and an AI inquiry.](../concept/using-ai-risk-and-compliance.md)
+[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn how you can request AI systems, AI models, datasets, and raise an AI case and an AI inquiry.](using-ai-risk-and-compliance.md)
 
 </td></tr><tr><td>
 

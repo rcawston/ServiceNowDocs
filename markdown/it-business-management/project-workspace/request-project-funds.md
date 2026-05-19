@@ -61,5 +61,5 @@ If you have added cost plans to your project, you can refer the total planned co
 10. Click **Request**
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

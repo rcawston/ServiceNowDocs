@@ -22,5 +22,5 @@ Description of the JSON parameters for the search option in the Portal Banner wi
 **Related topics**  
 
 
-[Add and configure the Portal Banner widget](../task/config-portal-banner-widget-inst-opt.md)
+[Add and configure the Portal Banner widget](customer-self-service-and-omnichannel-engagement/config-portal-banner-widget-inst-opt.md)
 

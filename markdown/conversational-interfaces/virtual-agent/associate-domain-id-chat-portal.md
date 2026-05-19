@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Elements of the Service Portal platform such as settings, portals, pages and widgets are not domain-separated. However, the data within widgets does display when based on the appropriate domain. To provide different experiences, admins should create separate service portals, each with unique URLs, that they can redirect users to. For a domain-separated chat experience in the chat widget channel, create a portal and use the **sysparm\_domain\_id** parameter in the URL to designate the domain. For more information, see [Virtual Agent URL parameters](../reference/va-sysparm.md).
+Elements of the Service Portal platform such as settings, portals, pages and widgets are not domain-separated. However, the data within widgets does display when based on the appropriate domain. To provide different experiences, admins should create separate service portals, each with unique URLs, that they can redirect users to. For a domain-separated chat experience in the chat widget channel, create a portal and use the **sysparm\_domain\_id** parameter in the URL to designate the domain. For more information, see [Virtual Agent URL parameters](va-sysparm.md).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ Elements of the Service Portal platform such as settings, portals, pages and wid
 
 The **sysparm\_domain\_id** parameter gets passed in the portal URL.
 
-**Parent Topic:**[Domain separation and Virtual Agent](../concept/domain-separation-virtual-agent.md)
+**Parent Topic:**[Domain separation and Virtual Agent](domain-separation-virtual-agent.md)
 

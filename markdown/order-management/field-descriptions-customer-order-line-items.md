@@ -130,7 +130,7 @@ Type of action that is taking place in the order line item. Options include:
 -   Resume
 -   No change
 
- For more information, see [Action types for customer and service orders](../concept/order-mgt-customer-order-types.md).
+ For more information, see [Action types for customer and service orders](order-mgt-customer-order-types.md).
 
 </td></tr><tr><td>
 

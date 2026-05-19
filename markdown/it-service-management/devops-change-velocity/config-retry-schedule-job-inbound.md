@@ -75,5 +75,5 @@ Based on your error or exception, perform any of the following steps to retry pr
 
 The scheduled job to retry processing inbound events runs based on either the properties you have configured or the base system properties that are specified by default.
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

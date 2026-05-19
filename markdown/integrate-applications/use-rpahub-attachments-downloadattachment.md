@@ -23,7 +23,7 @@ Role required: none
 
 The maximum size of the attachments is 1024 MB.
 
-You can configure the properties for the DownloadAttachment component. For more information about these properties, see [Properties of the Attachment components](../reference/properties-attachment-components.md).
+You can configure the properties for the DownloadAttachment component. For more information about these properties, see [Properties of the Attachment components](properties-attachment-components.md).
 
 ## Procedure
 
@@ -124,5 +124,5 @@ Boolean
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Attachments](../concept/attachments.md)
+**Parent Topic:**[Attachments](attachments.md)
 

@@ -22,15 +22,15 @@ If you set your presence to private, your routine is hidden from other employees
 **Related topics**  
 
 
-[Set in-office days](../task/set-in-office-days.md)
+[Set in-office days](set-in-office-days.md)
 
-[Add a collaborator](../task/add-a-collaborator.md)
+[Add a collaborator](add-a-collaborator.md)
 
-[Update your in-office days](../task/update-your-in-office-days.md)
+[Update your in-office days](update-your-in-office-days.md)
 
-[Remove a collaborator](../task/remove-a-collaborator.md)
+[Remove a collaborator](remove-a-collaborator.md)
 
-[Update your in-office days as exceptions](../task/update-in-office-days-exceptions.md)
+[Update your in-office days as exceptions](update-in-office-days-exceptions.md)
 
 ## Manage privacy settings from the Presence dashboard
 
@@ -44,7 +44,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 1.  Navigate to the Presence dashboard.
 
-    For more information, see the steps mentioned [here](../task/set-in-office-days.md#choicetable_presence_dashboard).
+    For more information, see the steps mentioned [here](set-in-office-days.md#choicetable_presence_dashboard).
 
 2.  On the Presence dashboard, open the Add Routine window by selecting **Manage your settings**.
 
@@ -63,7 +63,7 @@ Manage your privacy settings from the Employee Profile application.
 
 ### Before you begin
 
-An admin must opt in to Employee Profile. For more information, see [Opt in to the employee profile](../../employee-center/task/profile-opt-in.md).
+An admin must opt in to Employee Profile. For more information, see [Opt in to the employee profile](../employee-experience-foundation/profile-opt-in.md).
 
 Role required: sn\_wsd\_core.workplace\_user
 

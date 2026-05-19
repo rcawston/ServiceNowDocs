@@ -58,7 +58,7 @@ Ideally, you should not reopen a project after it is closed. Updating the projec
 
 For projects created from an incident, problem, or change, updating the project state does not automatically update the related incident, problem, or change request record. You must update the related record manually. For example, if the completion of a project also means that a related Change can be closed, go to the Change record and modify its **State** field. It is also a good idea to update the work notes field on the related record to include any relevant information about the project.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 
 **Related topics**  
 

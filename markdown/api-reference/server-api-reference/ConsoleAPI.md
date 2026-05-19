@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The Console API provides methods to log messages to the system log, create and stop timers, create and log counters, log stack traces, and group/organize related content.
 
-Console API methods provide the same logging functionality as [Glide System API](../../glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
+Console API methods provide the same logging functionality as [Glide System API](c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
 
 All Console API methods are static and are a ServiceNow® implementation of \(Microsoft Developer Network\) MDN's [Console API](https://developer.mozilla.org/en-US/docs/Web/API/Console_API). This API is provided as part of the ServiceNow base system and doesn't require a plugin to access it globally. To use this class in a scoped application, use the `sn_console` namespace identifier. Enable the Console \(com.glide.console\) plugin to access the Console API.
 
@@ -102,7 +102,7 @@ Output:
     ```
 
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Console - assert\(Boolean assertion, Object val1...valN, String msg, String subst1...substN\)
 
@@ -387,7 +387,7 @@ The debug\(\) method allows verbose messaging and is recommended for low-priorit
 
 The console.debug\(\) method logs messages to system logs in the ServiceNow® instance. You can view these logs on the ServiceNow® platform in **System Logs** &gt; **All or System Logs** &gt; **Debug**.
 
-**Note:** Console API methods provide the same logging functionality as [Glide System API](../../glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
+**Note:** Console API methods provide the same logging functionality as [Glide System API](c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
 
 <table id="id_vct_4pl_pdc" class="parameters"><thead><tr><th>
 
@@ -470,7 +470,7 @@ Logs a message to the system log at the error level.
 
 Use error\(\) to log issues that are critical and need immediate attention, such as invalid inputs, failed operations, or to debug unexpected behaviors.
 
-**Note:** Console API methods provide the same logging functionality as [Glide System API](../../glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
+**Note:** Console API methods provide the same logging functionality as [Glide System API](c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
 
 <table id="id_pjq_432_pdc" class="parameters"><thead><tr><th>
 
@@ -679,7 +679,7 @@ Back to the outer level
 
 Logs a message to system logs at the info level.
 
-**Note:** Console API methods provide the same logging functionality as [Glide System API](../../glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
+**Note:** Console API methods provide the same logging functionality as [Glide System API](c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
 
 <table id="id_iqg_np2_pdc" class="parameters"><thead><tr><th>
 
@@ -747,7 +747,7 @@ function onLoad() {
 
 Logs a message to system logs.
 
-**Note:** Console API methods provide the same logging functionality as [Glide System API](../../glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
+**Note:** Console API methods provide the same logging functionality as [Glide System API](c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
 
 <table id="id_f3j_pp2_pdc" class="parameters"><thead><tr><th>
 
@@ -1085,7 +1085,7 @@ Trace example
 
 Logs a warning message to the system log at the warning level.
 
-**Note:** Console API methods provide the same logging functionality as [Glide System API](../../glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
+**Note:** Console API methods provide the same logging functionality as [Glide System API](c_GlideSystemScopedAPI.md#) \(for example, gs.info, gs.warn, and gs.debug\), but allow more reflexive use for developers who are familiar with logging messages using console methods. Both Console API and Glide System API methods can be used on the server.
 
 <table id="id_lh5_ds2_pdc" class="parameters"><thead><tr><th>
 

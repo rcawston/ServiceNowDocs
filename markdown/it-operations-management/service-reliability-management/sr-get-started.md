@@ -17,14 +17,14 @@ Service Reliability Management \(SRM\) accelerates your path to viewing service 
 
 Get started with SRM to understand the different sections in the SRM interface.
 
-For more information on roles, see [SRM roles and responsibilities](../reference/sr-roles.md).
+For more information on roles, see [SRM roles and responsibilities](sr-roles.md).
 
 ## Basic SRM tasks
 
 |Step|Description|Reference|
 |----|-----------|---------|
-|Set up teams and services|Setup guides for the Home, Services, and Teams pages show how to add a team or service to SRM.|[Add an SRM team](../task/sr-create-team.md)|
-|Visit and learn about your Home page|The Home page is where you find the things most important to you. For example, the services with critical alerts and incidents and work assigned to you and your team.|[SRM Home page](../reference/sr-home-page.md)|
+|Set up teams and services|Setup guides for the Home, Services, and Teams pages show how to add a team or service to SRM.|[Add an SRM team](sr-create-team.md)|
+|Visit and learn about your Home page|The Home page is where you find the things most important to you. For example, the services with critical alerts and incidents and work assigned to you and your team.|[SRM Home page](sr-home-page.md)|
 |Learn how to navigate SRM|Get familiar with the different sections and elements of the SRM interface. The sections and elements are used throughout the documentation.|[SRM interface](sr-navigate-interface.md)|
 
 SRM helps you when you must create and administer teams, services, and integrations.
@@ -51,7 +51,7 @@ Define the basic tasks and parameters that make up your service and how it shoul
 
 </td><td>
 
-[Add a service to SRM](../task/sr-add-service.md)
+[Add a service to SRM](sr-add-service.md)
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Set up a team. Teams are responsible for the issues that occur in their associat
 
 </td><td>
 
-[Add an SRM team](../task/sr-create-team.md)
+[Add an SRM team](sr-create-team.md)
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Create an on-call schedule for your team to make sure they're available to resol
 
 </td><td>
 
-[Create an SRM on-call schedule](../task/sr-create-on-call-schedule.md)
+[Create an SRM on-call schedule](sr-create-on-call-schedule.md)
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Use a map canvas to add, configure, and arrange services. You can add child serv
 
 </td><td>
 
-[View impact of child service on parent service](../../event-management/task/cross-business-service-impact.md)
+[View impact of child service on parent service](../event-management/cross-business-service-impact.md)
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Alert automations enable you to define alert conditions. Set up alert rules for 
 The Alert automation application is available from the ServiceNow Store.
 
 </td></tr></tbody>
-</table>-   **[SRM Home page](../reference/sr-home-page.md)**  
+</table>-   **[SRM Home page](sr-home-page.md)**  
 The Service Reliability Management \(SRM\) Home page provides relevant information about your work, services, schedules, maintenance reminders, and teams. View the Home page by navigating to **Service Reliability Management**.
 -   **[SRM interface](sr-navigate-interface.md)**  
 The different components on the Service Reliability Management \(SRM\) interface provide easy access to different functions. The features and functions that appear depend on your role and permissions.

@@ -31,9 +31,9 @@ For information about usage of relation qualifiers in the identification process
 **Related topics**  
 
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](t_AddANewSuggestedRelationship.md)
 
 [Relationship governance rules](relationship-governance.md)
 
@@ -43,5 +43,5 @@ For information about usage of relation qualifiers in the identification process
 
 [CI relationship security](c_CIRelationshipSecurity.md)
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](t_CreateACIRelationRollup.md)
 

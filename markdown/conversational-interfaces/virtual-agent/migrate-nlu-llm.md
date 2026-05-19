@@ -27,7 +27,7 @@ Role required: virtual\_agent\_admin or sn\_vad\_genai.topic\_migration\_admin
 
     ![Migrate Topics to LLM is an option in the Assistant Designer Asset library side panel.](../images/llm-topic-migration-vad.png)
 
-    **Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](../reference/vad-prev-topics-page.md).
+    **Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](vad-prev-topics-page.md).
 
     The Topic Migration workflow opens in a new browser tab.
 
@@ -96,7 +96,7 @@ Current topic descriptions are used as the LLM topic descriptions rather than us
 
     ![When topic migration is complete, the Download migration log option appears and you can select this option to view additional data on the success or failure of your topic migration.](../images/llm-topic-migration-migration-complete.png "Example of a completed topic migration")
 
-    The migration complete progression bar appears and displays a dynamic percentage of completeness. During migration, the Migration status column updates dynamically with the values changing from `Not started` to either `Failed` or `Complete`. After migration is complete, any topic blocks selected, or those associated with the selected topics, are automatically published. You can choose to select **Download migration log** or **Next**. Selecting **Download migration log** downloads a .CSV file of the Topic Migration Execution Items \[topic\_migration\_execution\_item.list\] table data. For more information on this table data, see [NLU to LLM migration log](../reference/llm-topic-migration-error-log.md). Selecting **Next** continues the workflow to the Review descriptions step.
+    The migration complete progression bar appears and displays a dynamic percentage of completeness. During migration, the Migration status column updates dynamically with the values changing from `Not started` to either `Failed` or `Complete`. After migration is complete, any topic blocks selected, or those associated with the selected topics, are automatically published. You can choose to select **Download migration log** or **Next**. Selecting **Download migration log** downloads a .CSV file of the Topic Migration Execution Items \[topic\_migration\_execution\_item.list\] table data. For more information on this table data, see [NLU to LLM migration log](llm-topic-migration-error-log.md). Selecting **Next** continues the workflow to the Review descriptions step.
 
 8.  Continue to the Review descriptions step by selecting **Next**.
 
@@ -173,5 +173,5 @@ The original NLU topic's utterances are compared against the new LLM topic descr
 
 After you navigate away from the topic migration workflow, the topics that you migrated, but didn’t publish, can be managed and published from the Virtual Agent Designer canvas. If you choose to migrate other topics in the future, the topic migration workflow restarts from the beginning.
 
-**Parent Topic:**[Migrating NLU/keyword Virtual Agent topics to LLM topics](../concept/llm-topic-migration.md)
+**Parent Topic:**[Migrating NLU/keyword Virtual Agent topics to LLM topics](llm-topic-migration.md)
 

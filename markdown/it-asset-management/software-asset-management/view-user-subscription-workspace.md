@@ -60,17 +60,17 @@ Navigate to **All** &gt; **Software Asset** &gt; **Software Subscriptions**.
 
 3.  On the Create New Software Subscription form, fill in the fields.
 
-    For more information on the Software subscription form fields and their descriptions, see [Software subscription fields](../reference/software-subscription-fields.md).
+    For more information on the Software subscription form fields and their descriptions, see [Software subscription fields](software-subscription-fields.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 
 **Related topics**  
 
 
-[Software models and Software entitlements](../concept/software-models-and-entitlements.md)
+[Software models and Software entitlements](software-models-and-entitlements.md)
 
 [Create a software model in the Software Asset Workspace](create-swmodels-workspace.md)
 

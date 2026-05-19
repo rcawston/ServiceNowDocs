@@ -40,7 +40,7 @@ The following are the benefits of the Unified content management application:
 **Related topics**  
 
 
-[Activate or update NIST Risk Management Framework using the Unified content management](../task/activate-or-update-nist-using-the-content-accelerator.md)
+[Activate or update NIST Risk Management Framework using the Unified content management](activate-or-update-nist-using-the-content-accelerator.md)
 
-[Activate or update EU Artificial Intelligence Act using the Unified content management](../task/activate-or-update-eu-artificial-intelligence-act.md)
+[Activate or update EU Artificial Intelligence Act using the Unified content management](activate-or-update-eu-artificial-intelligence-act.md)
 

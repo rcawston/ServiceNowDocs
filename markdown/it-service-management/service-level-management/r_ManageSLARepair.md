@@ -32,5 +32,5 @@ Navigate to **Service Level Management** &gt; **Repair Logs** to view repair log
 -   **All Repairs**: view all repairs.
 -   **Repair Entries**: view SLA Repair Log entries for all repairs that have run.
 
-**Parent Topic:**[Repair Service Level Agreement \(SLA\)](../concept/c_RepairSLAs.md)
+**Parent Topic:**[Repair Service Level Agreement \(SLA\)](c_RepairSLAs.md)
 

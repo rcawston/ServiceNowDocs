@@ -37,7 +37,7 @@ Role required: sn\_oper\_res.manager
 
     ![Contents of the Microsoft Word report.](../image/word-rep-1.png)![Fields in the Microsoft Word report.](../image/word-rep-2.png)
 
-    For information on Microsoft Word templates and Template configurations, see [Generating Microsoft Word reports using Document designer](../concept/gen-word-reports.md).
+    For information on Microsoft Word templates and Template configurations, see [Generating Microsoft Word reports using Document designer](gen-word-reports.md).
 
     The generation of Microsoft Word reports, required by the authorities for analysis in Digital resilience incident reporting, is completed with this step.
 

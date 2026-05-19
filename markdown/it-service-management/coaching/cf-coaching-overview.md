@@ -61,7 +61,7 @@ You can do the following in a coaching opportunity record:
 
     -   All virtual coach records will have a coaching opportunity associated with it but not all coaching opportunities will have an associated virtual coach record.
     -   A virtual coach cannot be associated a manually generated assessment.
-    For information on virtual coach, see [Identify and add course items for a virtual coach](../task/cf-identify-learning-content.md).
+    For information on virtual coach, see [Identify and add course items for a virtual coach](cf-identify-learning-content.md).
 
 
 ## Example of assessment triggers
@@ -121,15 +121,15 @@ You can create a manual assessment and complete the following tasks manually:-  
 -   Associate coaching surveys to the assessment
 
 </td></tr></tbody>
-</table>You can use Coaching for any task-based process for such as Change Management, Customer Service Management or Incident Management to set up Coaching. You can also use Coaching for a non-task or custom table source by [configuring a business rule](../reference/cf-coaching-reference.md).
+</table>You can use Coaching for any task-based process for such as Change Management, Customer Service Management or Incident Management to set up Coaching. You can also use Coaching for a non-task or custom table source by [configuring a business rule](cf-coaching-reference.md).
 
 ## Initial Coaching setup
 
 Once you have enabled Coaching, set up the application by assigning user roles, configuring coaching opportunities and creating training content.
 
-1.  Set up Coaching [Coaching roles](../reference/cf-coaching-roles.md) and groups
-2.  [Define trigger conditions for a coaching opportunity](../task/cf-create-coaching-opportunity.md)
-3.  [Identify and add course items for a virtual coach](../task/cf-identify-learning-content.md)
+1.  Set up Coaching [Coaching roles](cf-coaching-roles.md) and groups
+2.  [Define trigger conditions for a coaching opportunity](cf-create-coaching-opportunity.md)
+3.  [Identify and add course items for a virtual coach](cf-identify-learning-content.md)
 4.  Set up [surveys](cf-setting-up-coaching.md)
 
 ## Coaching dashboards

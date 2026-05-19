@@ -184,8 +184,8 @@ Tracking method for this outcome.-   Manual: Enter the measurement unit and valu
 
 **Note:** The metric values are automatically populated if:
 
-    -   The context for the data source must be configured to reference the primary success outcome table. See [Define the data source](../concept/account-lifecycle-define-data-source.md).
-    -   The source and the resolving context tables must be correctly configured. See [Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md).
+    -   The context for the data source must be configured to reference the primary success outcome table. See [Define the data source](account-lifecycle-define-data-source.md).
+    -   The source and the resolving context tables must be correctly configured. See [Configure the Context Engine Mapper](account-lifecycle-define-context-engine-mapper.md).
 
 
 </td></tr><tr><td colspan="2">
@@ -220,5 +220,5 @@ Current value of the primary success outcome.
 </table>4.  Select **Save** to create a primary success outcome.
 
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](account-lifecycle-basic-config.md)
 

@@ -36,5 +36,5 @@ Input variables determine the initial behavior of the action.
 
 There are no output variables.
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

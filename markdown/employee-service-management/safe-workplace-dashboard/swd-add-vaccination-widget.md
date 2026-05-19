@@ -19,8 +19,8 @@ As an admin, add the Safe Workplace Dashboard Vaccination widget to the Safe Wor
 
 To successfully add the Safe Workplace Dashboard Vaccination widget and populate it with data, note the following requirements:
 
--   The Vaccination Status application must be installed and configured. For more information, see [Vaccination Status](../../vaccination-status/concept/vaccination-status.md).
--   The Safe Workplace Dashboard application must be installed and configured. For more information, see [Safe Workplace Dashboard](../concept/safe-workplace-dashboard.md).
+-   The Vaccination Status application must be installed and configured. For more information, see [Vaccination Status](../vaccination-status.md).
+-   The Safe Workplace Dashboard application must be installed and configured. For more information, see [Safe Workplace Dashboard](safe-workplace-dashboard.md).
 
 Role required: admin
 
@@ -49,5 +49,5 @@ Role required: admin
 
 The Safe Workplace Dashboard Vaccination widget appears in the Safe Workplace Dashboard.
 
-**Parent Topic:**[Using the Safe Workplace Dashboard](../concept/using-safe-wkplc-dashboard.md)
+**Parent Topic:**[Using the Safe Workplace Dashboard](using-safe-wkplc-dashboard.md)
 

@@ -59,5 +59,5 @@ Ensure that you have completed the IVR setup on both AWS Console and ServiceNow 
     ![Illustration to set up language attributes for the new language added.](../images/ivr-set-lang-flow.png "Workflow to set language attribute")
 
 
-**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](../concept/configure-aws-account.md)
+**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](configure-aws-account.md)
 

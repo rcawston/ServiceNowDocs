@@ -24,7 +24,7 @@ Role required:
 
 ## About this task
 
-The **Anonymous report center** \[com.sn\_anonymous\_report\_center\] plugin must be installed to enable reporting a safety concern anonymously. For more information, see [Activate the Anonymous Report Center](../../human-resources/task/arc-activate.md).
+The **Anonymous report center** \[com.sn\_anonymous\_report\_center\] plugin must be installed to enable reporting a safety concern anonymously. For more information, see [Activate the Anonymous Report Center](../hr-service-delivery/arc-activate.md).
 
 ## Procedure
 
@@ -108,7 +108,7 @@ After completing the form, check the box.
 
 The anonymous report is submitted and you can use the report key and report number to check the progress of the report.
 
-**Parent Topic:**[Managing an anonymous safety concern](../concept/managing_anonymous_safety_concern.md)
+**Parent Topic:**[Managing an anonymous safety concern](managing_anonymous_safety_concern.md)
 
 **Related topics**  
 

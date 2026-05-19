@@ -61,7 +61,7 @@ Indicator that the data domain is at the lowest level of the hierarchy.
 **Related topics**  
 
 
-[Add or edit a data domain from the Portfolio page](../../task/eaw-task/eaw-add-or-edit-a-data-domain-from-the-portfolio-page.md)
+[Add or edit a data domain from the Portfolio page](eaw-add-or-edit-a-data-domain-from-the-portfolio-page.md)
 
-[Add or edit an information data domain](../../task/eaw-task/eaw-add-edit-info-data-domain.md)
+[Add or edit an information data domain](eaw-add-edit-info-data-domain.md)
 

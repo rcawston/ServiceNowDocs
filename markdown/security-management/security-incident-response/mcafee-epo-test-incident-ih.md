@@ -153,7 +153,7 @@ After a request to isolate a host machine is submitted, as a user with an approv
     |**Finish**|Complete the configuration. You are prompted to confirm activation.|
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
 **Previous topic:**[Test security incidents to initiate malware scan](mcafee-epo-test-incident-malscan.md)
 

@@ -91,10 +91,10 @@ The Equipment extension classes are the subclasses that are extended from the te
 
 \*LTE is a trademark of ETSI.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a telecommunications equipment instance](../task/define-equipment-type.md)
+[Create a telecommunications equipment instance](define-equipment-type.md)
 

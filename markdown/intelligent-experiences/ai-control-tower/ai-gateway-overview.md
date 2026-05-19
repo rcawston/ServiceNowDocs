@@ -74,5 +74,5 @@ If you're using any generative AI features, you already have access to AI Gatewa
 -   For information on the process flow of MCP servers, see [Process flow of MCP servers Via AI Gateway](process-flow-of-mcp-servers-via-ai-gateway.md).
 -   For information on the **AI Gateway setup** tab, see [MCP server record](view-the-mcp-server-record.md)
 -   For information on AI Gateway in the configuration page, see [AI Gateway](ai-gateway.md).
--   For information on the roles in AI Control Tower and their role with AI Gateway, see [AI Control Tower roles](../reference/roles-installed-with-ai-control-tower.md).
+-   For information on the roles in AI Control Tower and their role with AI Gateway, see [AI Control Tower roles](roles-installed-with-ai-control-tower.md).
 

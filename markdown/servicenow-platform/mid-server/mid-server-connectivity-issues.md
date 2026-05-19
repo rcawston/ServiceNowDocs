@@ -27,7 +27,7 @@ From the perspective of the instance, the MID Server is **Down** when:
 
 ## How issues are logged
 
-User authentication failures and authorization issues are logged automatically to the MID Server [agent log file](../concept/ecc-queue-mid-server.md#). The message for both is the same: **User cannot be authenticated or is missing the proper roles.** If the issue is related to authorization, the `agent.log` file shows the list of missing roles.
+User authentication failures and authorization issues are logged automatically to the MID Server [agent log file](ecc-queue-mid-server.md#). The message for both is the same: **User cannot be authenticated or is missing the proper roles.** If the issue is related to authorization, the `agent.log` file shows the list of missing roles.
 
 When debugging is enabled, MID Server issues are logged to the system log \(syslog\) and are available for display in either a [summary or a detailed](mid-user-connectivity-debug-output.md) format. You can also change the sampling interval from the default 4 hours to something shorter for tracking your remediation efforts. For instructions on enabling and configuring debugging for MID Server user issues, see [Test remediation efforts for MID Server user connectivity issues](mid-server-connectivity-issues.md#).
 

@@ -51,7 +51,7 @@ A Workflow Studio **Create trigger** tab consists of these elements:
 
     Select the trigger type and table from the available options.
 
-    For more information about trigger types, see [Workflow Studio flow trigger types](../reference/flow-triggers.md).
+    For more information about trigger types, see [Workflow Studio flow trigger types](flow-triggers.md).
 
     **Note:** Starting in the Yokohama release, only the record-based triggers are supported for saved flow triggers.
 
@@ -121,9 +121,9 @@ Flow that runs synchronously in the current session. Use this option to provide 
 **Related topics**  
 
 
-[Create a saved record-based trigger](../task/create-saved-trigger.md)
+[Create a saved record-based trigger](../build-workflows/create-saved-trigger.md)
 
-[Edit a saved trigger](../task/edit-saved-trigger.md)
+[Edit a saved trigger](../build-workflows/edit-saved-trigger.md)
 
-[Delete a saved trigger](../task/delete-saved-trigger.md)
+[Delete a saved trigger](../build-workflows/delete-saved-trigger.md)
 

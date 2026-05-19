@@ -15,7 +15,7 @@ breadcrumb: [Embedded Help, In-product help, Adoption services, Configure user e
 
 Reference topics provide information about system properties you may need to configure, as well as basic information about domain separation.
 
--   **[Embedded Help system properties](../reference/embedded-help-sys-properties.md)**  
+-   **[Embedded Help system properties](embedded-help-sys-properties.md)**  
 Embedded help is active by default on your instance. The administrator can change system properties to modify how the instance interacts with embedded help.
 -   **[Domain separation and Embedded Help](domain-separation-and-embedded-help.md)**  
 Domain separation is supported for Embedded Help. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.

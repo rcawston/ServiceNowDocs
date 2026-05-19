@@ -29,18 +29,18 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 
 1.  Enable the De-duplication: Populate Duplicate Task Data scheduled job.
 
-    For instructions, see [Components installed for duplicate CI remediation](../../configuration-management/reference/components-installed-with-dup-ci.md).
+    For instructions, see [Components installed for duplicate CI remediation](../configuration-management-database-cmdb/components-installed-with-dup-ci.md).
 
 2.  Enable the PopulateDuplicate Task Group Daily scheduled job to provide analysis of the root cause of remediation tasks.
 
-    For instructions, see [Components installed with CMDB Workspace](../../configuration-management/reference/installed-with-cmdb-workspace.md).
+    For instructions, see [Components installed with CMDB Workspace](../configuration-management-database-cmdb/installed-with-cmdb-workspace.md).
 
 3.  Enable the CMDB Health Dashboard - Correctness Score Calculation scheduled job.
 
-    The job improves the accuracy of summary details on the CMDB Health Dashboard. For instructions, see [Enable and configure a CMDB Health Dashboard job](../../configuration-management/task/t_EnableCMDBHealthDashboardJob.md).
+    The job improves the accuracy of summary details on the CMDB Health Dashboard. For instructions, see [Enable and configure a CMDB Health Dashboard job](../configuration-management-database-cmdb/t_EnableCMDBHealthDashboardJob.md).
 
 
-**Parent Topic:**[Configuring Now Assist for CMDB](../../configuration-management/concept/now-assist-cmdb-configuring.md)
+**Parent Topic:**[Configuring Now Assist for CMDB](now-assist-cmdb-configuring.md)
 
 **Related topics**  
 

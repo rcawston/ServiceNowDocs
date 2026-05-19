@@ -46,5 +46,5 @@ Role required: business\_stakeholder or approver\_user
     2.  To view the details of the request, tap it.
 
 
-**Parent Topic:**[Fulfiller experience in Mobile Agent](../concept/itsm-mobile-request-approval.md)
+**Parent Topic:**[Fulfiller experience in Mobile Agent](itsm-mobile-request-approval.md)
 

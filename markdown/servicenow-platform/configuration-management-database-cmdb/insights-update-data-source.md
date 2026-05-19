@@ -42,5 +42,5 @@ Role required: sn\_cmdb\_admin \(CMDB Admin\) and import\_admin.
 8.  Select **Update**.
 
 
-**Parent Topic:**[CMDB Workspace store app](../concept/cmdb-workspace.md)
+**Parent Topic:**[CMDB Workspace store app](cmdb-workspace.md)
 

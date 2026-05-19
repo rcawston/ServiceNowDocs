@@ -64,5 +64,5 @@ The data visualization, summary, and suggested follow-on questions are regenerat
 
 **Note:** Regenerating a response removes all changes that you made manually to the text in the summary.
 
-**Parent Topic:**[Questions and responses in an exploration](../concept/ask-expl-questions.md)
+**Parent Topic:**[Questions and responses in an exploration](ask-expl-questions.md)
 

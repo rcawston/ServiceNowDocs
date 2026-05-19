@@ -81,7 +81,7 @@ If you have the admin role, you can set up an approval rule only with the follow
 -   Specific approvers
 -   Approver from source
 
-For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](../../grc-common/reference/roles-installed-with-approver-configurator.md).
+For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](../grc-common-functions/roles-installed-with-approver-configurator.md).
 
 </td></tr><tr><td>
 

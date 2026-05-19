@@ -18,5 +18,5 @@ The reference topics provide additional information about ATF troubleshooting ag
 -   **[ATF troubleshooting agent design considerations](atf-troubleshooting-agent-exceptions.md)**  
 Leverage the full potential of ATF troubleshooting agent by following these design considerations.
 
-**Parent Topic:**[ATF troubleshooting agent](../reference/atf-troubleshooting-agent-landing-page.md)
+**Parent Topic:**[ATF troubleshooting agent](atf-troubleshooting-agent-landing-page.md)
 

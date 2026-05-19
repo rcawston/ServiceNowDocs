@@ -47,5 +47,5 @@ Role required: admin
 **Related topics**  
 
 
-[List of plugins](../../grc-common/task/t_ActivateGRCPandC.md)
+[List of plugins](policy-and-compliance-management/t_ActivateGRCPandC.md)
 

@@ -27,7 +27,7 @@ Service portfolios typically have three phases:
 
 ## Service Portfolio Management users
 
-The following table presents the most common users for Service Portfolio Management. For more information about core roles and tables, see [Installed with Service Portfolio Management](../reference/r_InstalledWSPM2.md).
+The following table presents the most common users for Service Portfolio Management. For more information about core roles and tables, see [Installed with Service Portfolio Management](r_InstalledWSPM2.md).
 
 <table id="table_gkv_mr4_5bc"><thead><tr><th>
 
@@ -118,7 +118,7 @@ Create and manage service portfolios and add services and offerings to the portf
 
 </td><td>
 
-[Create portfolios in Service Portfolio Management](../task/create-or-modify-SPM2-portfolios.md)
+[Create portfolios in Service Portfolio Management](create-or-modify-SPM2-portfolios.md)
 
 </td><td>
 
@@ -142,7 +142,7 @@ Create taxonomy nodes
 
 </td><td>
 
-[Create taxonomy nodes](../task/create-or-mod-SPM2-taxonomy-nodes.md)
+[Create taxonomy nodes](create-or-mod-SPM2-taxonomy-nodes.md)
 
 </td><td>
 
@@ -154,7 +154,7 @@ Create services
 
 </td><td>
 
-[Create a service in Service Portfolio Management](../task/create-or-modify-SPM2-services.md)
+[Create a service in Service Portfolio Management](create-or-modify-SPM2-services.md)
 
 </td><td>
 
@@ -180,7 +180,7 @@ Log outages
 
 </td><td>
 
-[Log outages in Service Portfolio Management](../task/create-SPM2-outages.md)
+[Log outages in Service Portfolio Management](create-SPM2-outages.md)
 
 </td><td>
 
@@ -229,12 +229,12 @@ To learn more about configuring and using Service Portfolio Management, see:
 
 -   [Configuring Service Portfolio Management](SPM2-configuring.md)
 -   [Using Service Portfolio Management](SPM2-using.md)
--   [Service Portfolio Management reference](../reference/SPM2-reference.md)
+-   [Service Portfolio Management reference](SPM2-reference.md)
 
 -   **[Use Service Portfolio Management services](SPM2-services.md)**  
 Configure IT services within your portfolios to add the most value to your organization. The IT services defined in your portfolios may, or may not be, aligned to an application. IT services defined in your portfolios may, or may not be, represented in a request catalog.
 -   **[Service Portfolio Management portfolios](SPM2-service-portfolios.md)**  
 A service portfolio presents an overall top-level view of your currently available services, possible future services, and services that existed in the past. Evaluate the impact that services have on your business and manage them in a single portfolio or multiple portfolios with unique taxonomy structures, owners, and market scope.
 
-**Parent Topic:**[Service Portfolio Management](../reference/SPM2-landing-page.md)
+**Parent Topic:**[Service Portfolio Management](SPM2-landing-page.md)
 

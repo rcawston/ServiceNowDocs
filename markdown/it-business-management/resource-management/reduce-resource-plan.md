@@ -19,9 +19,9 @@ Reduce the duration of an allocated or confirmed resource plan and deallocate re
 
 **Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged [migrate your existing resource plans](../concept/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and start using Resource Management Workspace.
+You're encouraged [migrate your existing resource plans](rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and start using Resource Management Workspace.
 
-Resource requester can [move an assigned or unassigned resource assignment](../../resource-management-workspace/task/move-ra-rmw.md) using Resource Management Workspace.
+Resource requester can [move an assigned or unassigned resource assignment](move-ra-rmw.md) using Resource Management Workspace.
 
 Role required: resource\_user, resource\_manager
 
@@ -59,7 +59,7 @@ You can reduce the duration of an operational resource plan only if its state is
 
 Say a resource plan was created for 1 FTE from January 1, 2021, to December 31, 2021, and on March 1, 2021, the resource plan end date was updated to March 1, 2021. Then, all the allocated or confirmed hours of the resources on this plan between March 1, 2021, to December 31, 2021, would be released. If actuals are posted for the future, for example, May 25, 2021, then the resource plan end date will be updated to May 25, 2021, and all confirmed or allocated hours between March 1, 2021 to December 31, 2021 will be released.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -94,7 +94,7 @@ Say a resource plan was created for 1 FTE from January 1, 2021, to December 31, 
 
 [Allocate resources for the extended period](allocate-resources-for-extended-period.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

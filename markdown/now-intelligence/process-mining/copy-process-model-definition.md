@@ -45,5 +45,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 [Mine a project](generate-process-map.md#)
 
-**Parent Topic:**[Using Process Mining](../concept/use-process-mining.md)
+**Parent Topic:**[Using Process Mining](use-process-mining.md)
 

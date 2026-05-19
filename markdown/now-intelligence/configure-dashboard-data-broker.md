@@ -68,20 +68,20 @@ This data broker prefetches data only on direct page loads. It does not apply on
 8.  Save the page and open it in runtime.
 
 
-**Parent Topic:**[Creating Platform Analytics pages in your own workspace](../../../use/performance-analytics/concept/adding-analytics-center-to-ws.md)
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a Platform Analytics workspace from App Engine Studio](../../../use/performance-analytics/concept/create-analytics-ws-aes.md)
+[Create a Platform Analytics workspace from App Engine Studio](create-analytics-ws-aes.md)
 
-[Add Platform Analytics pages to a configurable workspace](../../../use/performance-analytics/task/add-analytics-center-to-experience.md#)
+[Add Platform Analytics pages to a configurable workspace](add-analytics-center-to-experience.md#)
 
-[Add a dashboard to a Dashboards page](../../../use/performance-analytics/task/add-dashboard-to-workspace.md)
+[Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md)
 
-[Configure custom redirection from a dashboard component](../../../use/performance-analytics/task/config-custom-redirection-from-db.md)
+[Configure custom redirection from a dashboard component](config-custom-redirection-from-db.md)
 
-[Dashboard URL parameter delegation](../concept/dashboard-url-parameter-delegation.md#)
+[Dashboard URL parameter delegation](dashboard-url-parameter-delegation.md#)
 
-[Pass global filters to the dashboard page template](../../../use/par-for-workspace/task/pass-global-filters-to-db.md)
+[Pass global filters to the dashboard page template](pass-global-filters-to-db.md)
 

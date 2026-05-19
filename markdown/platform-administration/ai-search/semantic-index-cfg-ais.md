@@ -56,7 +56,7 @@ Semantic index configuration functionality is provided by the AI Search Semantic
 
 You can verify whether semantic index configuration is activated by navigating to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources** and selecting an indexed source record. If you see the Semantic Index Configuration related list on the Indexed Source form, the plugin is activated.
 
--   **[Configure semantic indexing settings for an indexed source](../task/configure-semantic-indexing-ais.md)**  
+-   **[Configure semantic indexing settings for an indexed source](configure-semantic-indexing-ais.md)**  
 Specify the semantic indexing configuration settings you want to apply when AI Search indexes records from your indexed sources.
 
 **Parent Topic:**[Indexed sources in AI Search](indexed-sources-ais.md)

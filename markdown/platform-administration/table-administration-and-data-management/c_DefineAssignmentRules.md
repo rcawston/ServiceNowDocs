@@ -23,11 +23,11 @@ Data lookup rules offer a generic way to change any field value, not just assign
 Scripts, assignment rules, business rules, workflows, escalations, and engines all take effect in relation to a database operation, such as insert or update. In many cases, the order of these events is important.
 -   **[Workflow assignments](c_WorkflowAssignments.md)**  
 An alternative to creating data lookup or assignment rules is to create one or more workflow tasks that assign a task record as part of a workflow.
--   **[Baseline assignment rules example](../reference/r_BaselineAssignmentRulesExample.md)**  
+-   **[Baseline assignment rules example](r_BaselineAssignmentRulesExample.md)**  
 A baseline instance contains certain assignment rules.
--   **[Create an assignment rule](../task/t_AssignmentModuleRule.md)**  
+-   **[Create an assignment rule](t_AssignmentModuleRule.md)**  
 Automatically assign a record according to one or more conditions in an assignment rule. Assignment rules are designed to run at the time you open a record.
--   **[Create an assignment data lookup rule](../task/t_DataLookupRule.md)**  
+-   **[Create an assignment data lookup rule](t_DataLookupRule.md)**  
 Automatically assign a record using Data Lookup and Record Matching.
 
 **Parent Topic:**[Working with the Task table](c_TaskTable.md)

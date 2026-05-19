@@ -21,7 +21,7 @@ Role required: order\_approver, order\_viewer, sn\_ind\_tmt\_orm.order\_fulfillm
 
 When you approve a revised order, it enables it to continue in its modified state through the rest of the fulfillment process. When you approve a cancellation request, it finalizes the cancellation and prevents the order from continuing through fulfillment processing.
 
-To learn more about how the states of orders change when you approve them, see [Key inflight order change and cancellation request fields](../concept/key-inflight-order-change-cancellation-request-fields.md#).
+To learn more about how the states of orders change when you approve them, see [Key inflight order change and cancellation request fields](key-inflight-order-change-cancellation-request-fields.md#).
 
 ## Procedure
 
@@ -44,5 +44,5 @@ To learn more about how the states of orders change when you approve them, see [
 
 Orders with unapproved revisions have a Revision in Progress state. When you approve them, their state changes to In Progress. Orders with unapproved cancellation requests have an Assessing the Cancellation state. When you approve them, their order state changes to Cancellation in Progress.
 
-**Parent Topic:**[Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
+**Parent Topic:**[Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
 

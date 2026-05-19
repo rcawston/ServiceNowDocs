@@ -17,7 +17,7 @@ The **send SMS** workflow activity to send short text messages using Notify to u
 
 ## Notify requirements
 
-To send SMS messages, you must add and configure a provider in Notify. For more information about configuring a provider, see [Configure a provider in Notify](../../../product/notify2/task/configure-providers-for-provider-selectors.md).
+To send SMS messages, you must add and configure a provider in Notify. For more information about configuring a provider, see [Configure a provider in Notify](configure-providers-for-provider-selectors.md).
 
 ## Input variables
 

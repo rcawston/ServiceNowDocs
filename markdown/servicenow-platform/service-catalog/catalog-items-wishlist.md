@@ -17,7 +17,7 @@ You can save catalog items to your wish list and visit them later to complete th
 
 For example, you need a laptop with specific software installed on it. Add the laptop to your wish list, then visit it when you have the complete software configuration list. Data you enter is saved when you add items to your wish list.
 
-Users with catalog\_admin or admin role can enable/disable the wish list feature and [configure the wish list cart](../task/service-catalog-screens.md#) for end users. By default, the wish list is always disabled for a catalog.
+Users with catalog\_admin or admin role can enable/disable the wish list feature and [configure the wish list cart](service-catalog-screens.md#) for end users. By default, the wish list is always disabled for a catalog.
 
 To enable the wish list feature for catalog end users, select the check box for **Enable Wish List** in the [catalog record](c_MultipleServiceCatalogs.md#).
 
@@ -33,7 +33,7 @@ To save an item to your wish list, click **Add to Wish List** on the catalog ite
 
 ![](../image/WishListPopUp.png "Wish list popup dialog")
 
-To access your wish list of catalog items, click **View Wish List** on the popup dialog. You can also click the link to wish list items on the header. The [wish list cart](../task/service-catalog-screens.md#fig_jzm_byk_vw) allows you to update or delete wish list items.
+To access your wish list of catalog items, click **View Wish List** on the popup dialog. You can also click the link to wish list items on the header. The [wish list cart](service-catalog-screens.md#fig_jzm_byk_vw) allows you to update or delete wish list items.
 
 To update a wish list item, go to wish list cart and click **View** for the item. Change the information, and then click **Update** to save the changes. To proceed with ordering the item, click **Add to Cart**. The item is removed from your wish list and added to the shopping cart for final checkout.
 

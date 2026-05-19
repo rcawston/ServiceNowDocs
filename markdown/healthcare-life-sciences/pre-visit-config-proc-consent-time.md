@@ -41,5 +41,5 @@ By default, the **Send procedure consent schedule** scheduled job is configured 
 **Related topics**  
 
 
-[Pre-Visit Management properties](../reference/pre-visit-properties.md)
+[Pre-Visit Management properties](pre-visit-properties.md)
 

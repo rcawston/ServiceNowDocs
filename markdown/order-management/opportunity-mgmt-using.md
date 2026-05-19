@@ -119,7 +119,7 @@ Add authorized service organizations or partner entities \(for example, referral
 Create a new product opportunity in the Opportunity Management application by entering the details, such as account, sales stage, sales cycle type, and deal size.
 -   **[Add and view the details of an opportunity](opportunity-management-details-tab.md)**  
 Use the Details tab to add and view information about your opportunity, including the source and competitor.
--   **[Get product recommendations for opportunities using needs analysis](../task/opp-mgmt-use-needs-analysis.md)**  
+-   **[Get product recommendations for opportunities using needs analysis](opp-mgmt-use-needs-analysis.md)**  
 Choose a needs template from the product selection guide in the product catalog to get product recommendations for sales opportunities.
 -   **[Add line items to an opportunity](opportunity-management-line-items-tab.md)**  
 Create a new product line item for your opportunity by entering the details, such as product offering and quantity.
@@ -129,9 +129,9 @@ Allocate and track sales credit across opportunity team members to recognize ind
 Capture competitor details for your opportunity so that you can have winning sales conversations with your customer.
 -   **[Add opportunity tasks](opportunity-management-tasks-tab.md)**  
 Create opportunity tasks to capture additional details of your customer's requirements.
--   **[Add a new opportunity team member](../task/create-new-opportunity-team-member.md)**  
+-   **[Add a new opportunity team member](create-new-opportunity-team-member.md)**  
 Create an opportunity team member for a structured collaboration among multiple users.
--   **[Add an opportunity associated contact](../task/add-opportunity-associated-contact.md)**  
+-   **[Add an opportunity associated contact](add-opportunity-associated-contact.md)**  
 Create opportunity for associated contacts to identify each contact’s role when multiple stakeholders are involved.
 -   **[Compose emails](opportunity-management-emails-tab.md)**  
 Create an email to communicate to your customer the product information that meets their business requirements or the product demo as required by your customer.
@@ -145,7 +145,7 @@ You can export an opportunity as a JSON file in Opportunity Management and provi
 Create a quote directly from an opportunity as a sales agent or with integrated roles.
 -   **[Sync quote and opportunity](synchronise_quote_and_opportunity.md)**  
 Sync quote information from the quote record to an opportunity record. This keeps the quote data consistent and accurate across both the records and enables sales agents to track revenue from opportunities accurately.
--   **[Collaborate with stakeholders by using the sidebar](../task/opportunity-management-sidebars-teams.md)**  
+-   **[Collaborate with stakeholders by using the sidebar](opportunity-management-sidebars-teams.md)**  
 Initiate a discussion with internal and external stakeholders, such as sales agents, solution consultants, and subject matter experts using sidebar integration with Microsoft Teams.
 -   **[Location-based transactions for Opportunity Management](location_based_transactions_for_opportunity.md)**  
 Agents can create opportunities and support product configurations and services for different locations.
@@ -163,7 +163,7 @@ Agents can create opportunities and support product configurations and services 
 
 [Using Sales Forecasting](using-sales-forecasting.md)
 
-[Using Sales Territory Management​](../task/use-sales-territory-management.md)
+[Using Sales Territory Management​](use-sales-territory-management.md)
 
 [Using Activity Management](using-activity-management.md)
 

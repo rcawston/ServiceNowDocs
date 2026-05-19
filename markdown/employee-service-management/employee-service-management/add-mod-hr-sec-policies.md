@@ -20,7 +20,7 @@ Role required: sn\_hr\_ef.admin
 
 You can determine who can read, write, or authorize purging of documents by adding or modifying document security policies.
 
-**Note:** You can provide employees visibility into their own employee documents through their HR profile. Check the **Employee access** box on the **Document type** form. See [Define policies for a document type](../concept/hr-doc-management-config.md#).
+**Note:** You can provide employees visibility into their own employee documents through their HR profile. Check the **Employee access** box on the **Document type** form. See [Define policies for a document type](../employee-document-management/hr-doc-management-config.md#).
 
 Users are granted access to employee documents by:
 
@@ -30,7 +30,7 @@ Users are granted access to employee documents by:
 
 The security policy can require authorization to purge and requires a user to belong to a group that has purge authorization.
 
-See [Manage HR Groups](t_ManageHRGroups.md) and [Manage HR roles](../concept/c_ManageRoles.md). Or see [Groups](t_ManageHRGroups.md) and [Roles](../concept/c_ManageRoles.md).
+See [Manage HR Groups](../hr-service-delivery/../hr-service-delivery/t_ManageHRGroups.md) and [Manage HR roles](../hr-service-delivery/c_ManageRoles.md). Or see [Groups](../hr-service-delivery/../hr-service-delivery/t_ManageHRGroups.md) and [Roles](../hr-service-delivery/c_ManageRoles.md).
 
 ## Procedure
 

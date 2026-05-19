@@ -85,9 +85,9 @@ Select the date and time to activate the plugin.
 
 ## What to do next
 
-Plan your replication strategy. See [Preparing for Instance Data Replication](../concept/prepare-instance-data-replication.md).
+Plan your replication strategy. See [Preparing for Instance Data Replication](prepare-instance-data-replication.md).
 
-**Parent Topic:**[Configuring Instance Data Replication](../concept/configuring-instance-data-replication.md)
+**Parent Topic:**[Configuring Instance Data Replication](configuring-instance-data-replication.md)
 
 **Related topics**  
 

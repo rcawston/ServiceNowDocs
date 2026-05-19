@@ -47,5 +47,5 @@ Role required: Tax manager
 
 The tax code details are added.
 
-**Parent Topic:**[Tax calculations](../concept/tax-calculations-in-apo.md)
+**Parent Topic:**[Tax calculations](tax-calculations-in-apo.md)
 

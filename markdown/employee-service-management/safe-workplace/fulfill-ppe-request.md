@@ -44,5 +44,5 @@ When the employee receives their PPE, update the request state to **Closed Compl
 
 If the request won't be fulfilled, update the state to **Closed Incomplete**.
 
-**Parent Topic:**[Workplace PPE Inventory Management](../concept/ppe-inventory-management.md)
+**Parent Topic:**[Workplace PPE Inventory Management](ppe-inventory-management.md)
 

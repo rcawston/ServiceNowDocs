@@ -21,7 +21,7 @@ Source system tools allow you to estimate the number of documents available for 
 **Related topics**  
 
 
-[Estimate document volume for Atlassian Confluence Cloud](../task/estimate-doc-volume-acc.md)
+[Estimate document volume for Atlassian Confluence Cloud](estimate-doc-volume-acc.md)
 
-[Estimate document volume for Microsoft SharePoint Online](../task/estimate-doc-volume-mspo.md)
+[Estimate document volume for Microsoft SharePoint Online](estimate-doc-volume-mspo.md)
 

@@ -30,5 +30,5 @@ Configure web services within ServiceNow.
     ![Element form default property](../image/ElementFormDefaultProperty.png)
 
 
-**Parent Topic:**[Web services C Sharp .NET end to end tutorial](../concept/c_CSharpNETEndEnd.md)
+**Parent Topic:**[Web services C Sharp .NET end to end tutorial](c_CSharpNETEndEnd.md)
 

@@ -90,7 +90,7 @@ The task list displays the following information for each work order task:
 **Related topics**  
 
 
-[Field Service Management SLAs](../../planning-and-policy/concept/c_FieldServiceAutomationSLAs.md)
+[Field Service Management SLAs](c_FieldServiceAutomationSLAs.md)
 
-[Working on tasks when your mobile device is offline](../concept/work-offline-fieldservice-mobile.md#)
+[Working on tasks when your mobile device is offline](work-offline-fieldservice-mobile.md#)
 

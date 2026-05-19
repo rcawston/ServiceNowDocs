@@ -41,7 +41,7 @@ As a search administrator, you may wish to configure separate search profiles fo
 
 5.  Make changes to the cloned search profile's settings.
 
-    For details on search profile settings, see [Create a search profile](create-search-profile-ais.md), [Synonyms](../concept/synonyms-ais.md), [Stop words](../concept/stop-words-ais.md), [Typo handling](../concept/typo-handling-ais.md), [Genius Results](../concept/genius-results-ais.md), and [Result improvement rules](../concept/result-improvement-rules-ais.md).
+    For details on search profile settings, see [Create a search profile](create-search-profile-ais.md), [Synonyms](synonyms-ais.md), [Stop words](stop-words-ais.md), [Typo handling](typo-handling-ais.md), [Genius Results](genius-results-ais.md), and [Result improvement rules](result-improvement-rules-ais.md).
 
 6.  Publish your cloned search profile by selecting **Publish**.
 
@@ -54,7 +54,7 @@ Your cloned search profile record appears in the Search Profile table.
 
 ## What to do next
 
-Edit the search application configuration record of your choice and link it to your cloned search profile. For details on search application configurations, see [Search application configurations](../concept/defining-search-app-cfgs-ais.md).
+Edit the search application configuration record of your choice and link it to your cloned search profile. For details on search application configurations, see [Search application configurations](defining-search-app-cfgs-ais.md).
 
-**Parent Topic:**[Search profiles in AI Search](../concept/defining-search-profiles-ais.md)
+**Parent Topic:**[Search profiles in AI Search](defining-search-profiles-ais.md)
 

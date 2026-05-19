@@ -137,17 +137,17 @@ Indicator-Observable
 This relationship describes between the indicators and observables.
 
 </td></tr></tbody>
-</table>-   **[Define observable-observable relationships](../task/define-observable-observable.md)**  
+</table>-   **[Define observable-observable relationships](define-observable-observable.md)**  
 Define relationships between observables.
--   **[Define object-object relationships](../task/define-object-object-relationships.md)**  
+-   **[Define object-object relationships](define-object-object-relationships.md)**  
 Define relationships between SDOs, except the indicator object.
--   **[Define object-observable relationships](../task/define-object-observable-relationships.md)**  
+-   **[Define object-observable relationships](define-object-observable-relationships.md)**  
 Define relationships between SDOs and the observable object \(SCO\).
--   **[Define object-indicator relationships](../task/define-object-indicator-relationships.md)**  
+-   **[Define object-indicator relationships](define-object-indicator-relationships.md)**  
 Define relationships between the indicator object and other SDOs.
--   **[Define indicator-indicator relationships](../task/define-indicator-indicator-relationships.md)**  
+-   **[Define indicator-indicator relationships](define-indicator-indicator-relationships.md)**  
 Define relationships between the indicator object and other Use the relationships objects to link together two observables or an observable and SDO to explain how they relate to each other..
--   **[Define indicator-observable relationships](../task/define-indicator-observable-relationships.md)**  
+-   **[Define indicator-observable relationships](define-indicator-observable-relationships.md)**  
 Define relationships between the indicator object and other SDOs.
 
 **Parent Topic:**[TISC Library Repository](tisc-ioc.md)
@@ -165,7 +165,7 @@ Define relationships between the indicator object and other SDOs.
 
 [Vulnerability Artifacts](vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](define-rss-feeds.md)
 
 [Working with Reports in TISC](tisc-reports-lib-view.md)
 

@@ -38,5 +38,5 @@ When a contract user submits a request, it is automatically assigned to a group 
     ![Assign request in your workspace.](../image/cmpro-assign-lr.png "Assign request")
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

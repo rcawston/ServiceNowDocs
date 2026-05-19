@@ -79,5 +79,5 @@ Override location of an OT device with subnet's location. If checked, the locati
 |-----------|----|
 |Industrial Process Manager integration with Operational Technology Manager|OT device mapping flow|
 
-**Parent Topic:**[Industrial Process Manager reference](../../mftg-manufacturing-process-mgr/reference/manufacturing-process-mgr-reference.md)
+**Parent Topic:**[Industrial Process Manager reference](manufacturing-process-mgr-reference.md)
 

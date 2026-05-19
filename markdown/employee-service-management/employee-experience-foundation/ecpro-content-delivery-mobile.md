@@ -44,5 +44,5 @@ Configure content for a mobile text card.
 -   **[For mobile video](ecpro-mobile-content-for-mobile-video.md)**  
 Configure content for a mobile video.
 
-**Parent Topic:**[Configuring Employee Center for mobile](../concept/ec-mobile-configrations.md)
+**Parent Topic:**[Configuring Employee Center for mobile](ec-mobile-configrations.md)
 

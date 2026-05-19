@@ -42,5 +42,5 @@ The ACL Assessment for Reports is a store app. For more information about instal
     In the Review Installation Details dialog box, any dependencies installed with your application are listed.
 
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](report-view-acl-dashboard.md)
 

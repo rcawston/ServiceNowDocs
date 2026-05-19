@@ -213,7 +213,7 @@ Description of the control objective.
 </td></tr></tbody>
 </table>6.  Click **Save**.
 
-    To view and manage the details of the control objective that you created, see [Manage a control objective from the overview page](../concept/co-overview-pc-ws.md).
+    To view and manage the details of the control objective that you created, see [Manage a control objective from the overview page](co-overview-pc-ws.md).
 
     The control objective is created and all related lists are visible.
 
@@ -240,5 +240,5 @@ Description of the control objective.
 
 ## What to do next
 
-If you’re implementing the [Policy and Compliance Management](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) software, return to the [Policy and Compliance Management setup checklist](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) and proceed to the next step.
+If you’re implementing the [Policy and Compliance Management](../policy-and-compliance-management/policy-compliance-impl-checklist.md) software, return to the [Policy and Compliance Management setup checklist](../policy-and-compliance-management/policy-compliance-impl-checklist.md) and proceed to the next step.
 

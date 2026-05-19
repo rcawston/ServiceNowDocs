@@ -22,15 +22,15 @@ For more information about using App Engine Studio to create a workspace with an
 **Related topics**  
 
 
-[Add Platform Analytics pages to a configurable workspace](../task/add-analytics-center-to-experience.md#)
+[Add Platform Analytics pages to a configurable workspace](add-analytics-center-to-experience.md#)
 
-[Add a dashboard to a Dashboards page](../task/add-dashboard-to-workspace.md)
+[Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md)
 
-[Configure custom redirection from a dashboard component](../task/config-custom-redirection-from-db.md)
+[Configure custom redirection from a dashboard component](config-custom-redirection-from-db.md)
 
-[Dashboard URL parameter delegation](../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
+[Dashboard URL parameter delegation](dashboard-url-parameter-delegation.md#)
 
-[Pass global filters to the dashboard page template](../../par-for-workspace/task/pass-global-filters-to-db.md)
+[Pass global filters to the dashboard page template](pass-global-filters-to-db.md)
 
-[Configure dashboard data broker](../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
+[Configure dashboard data broker](configure-dashboard-data-broker.md)
 

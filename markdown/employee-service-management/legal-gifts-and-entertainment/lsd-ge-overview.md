@@ -55,5 +55,5 @@ To learn more about configuring and using Gifts and Entertainment Compliance, se
 -   [Configure Gifts and Entertainment Compliance](lsd-ge-administration.md)
 -   [Requesting legal clearance for gifts and entertainment](lsd-ge-submitting-request.md)
 -   [Managing gifts and entertainment disclosure requests](lsd-manage-ge-request.md)
--   [Gifts and Entertainment Compliance reference](../reference/lsd-ge-reference.md)
+-   [Gifts and Entertainment Compliance reference](lsd-ge-reference.md)
 

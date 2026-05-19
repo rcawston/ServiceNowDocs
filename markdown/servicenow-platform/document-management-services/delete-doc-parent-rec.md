@@ -38,5 +38,5 @@ User: owner
 4.  Select **Delete**.
 
 
-**Parent Topic:**[Linking documents to a parent record](../concept/doc-linked-parent-rec.md)
+**Parent Topic:**[Linking documents to a parent record](doc-linked-parent-rec.md)
 

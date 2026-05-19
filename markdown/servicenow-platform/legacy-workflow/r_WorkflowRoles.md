@@ -53,7 +53,7 @@ Web service administrator
 
 </td><td>
 
-Accesses and uses REST and SOAP messages in the [Orchestration activity designer](../../orchestration-activity-designer/concept/c_WorkflowActivityDesigner.md). Creates and edits custom activities that use the REST web service and SOAP web service templates.
+Accesses and uses REST and SOAP messages in the [Orchestration activity designer](../orchestration/c_WorkflowActivityDesigner.md). Creates and edits custom activities that use the REST web service and SOAP web service templates.
 
 </td></tr><tr><td>
 
@@ -86,5 +86,5 @@ Workflow publisher
 Checks out with force checkout option, validates, publishes, and deletes graphical workflows.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow administration](../concept/c_WorkflowAdministration.md)
+</table>**Parent Topic:**[Workflow administration](c_WorkflowAdministration.md)
 

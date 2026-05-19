@@ -21,7 +21,7 @@ Role required: admin
 
 1.  [Create a GraphQL schema](build-graphql-scripted-schema.md#).
 2.  [Test GraphQL APIs with GraphQL Explorer](test-gql-schema.md).
-3.  [Disable introspective queries in your production environment](../reference/graphql-properties.md).
+3.  [Disable introspective queries in your production environment](graphql-properties.md).
 4.  [Create a custom component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/custom-components.md).
 
 ## Procedure
@@ -132,5 +132,5 @@ const component = createCustomElement('now-component', {
 });
 ```
 
-**Parent Topic:**[Query record data using the GraphQL API framework](../concept/scripted-graph-ql.md)
+**Parent Topic:**[Query record data using the GraphQL API framework](scripted-graph-ql.md)
 

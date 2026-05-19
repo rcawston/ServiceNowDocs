@@ -22,7 +22,7 @@ Role required: sn\_cwm.cwm\_user
 
 ## About this task
 
-Relationships are added from the **Relationships** tab on the work item form in the side panel. You can link work items across Boards and Spaces, and a single work item can have multiple relationships. For an overview of the available relationship types, see [Task dependencies and relationships in CWM](../concept/managing-task-dependencies-relationships-cwm.md).
+Relationships are added from the **Relationships** tab on the work item form in the side panel. You can link work items across Boards and Spaces, and a single work item can have multiple relationships. For an overview of the available relationship types, see [Task dependencies and relationships in CWM](managing-task-dependencies-relationships-cwm.md).
 
 ## Procedure
 
@@ -49,12 +49,12 @@ After adding a relationship, a relationships indicator icon appears on the work 
 
 If a relationship doesn't apply to your task anymore, you can remove it. For more information, see [Remove a dependency from a work item in CWM](remove-a-dependency-from-a-work-item-cwm.md).
 
-**Parent Topic:**[Task dependencies and relationships in CWM](../concept/managing-task-dependencies-relationships-cwm.md)
+**Parent Topic:**[Task dependencies and relationships in CWM](managing-task-dependencies-relationships-cwm.md)
 
 **Related topics**  
 
 
-[Task dependencies and relationships in CWM](../concept/managing-task-dependencies-relationships-cwm.md)
+[Task dependencies and relationships in CWM](managing-task-dependencies-relationships-cwm.md)
 
 [Remove a dependency from a work item in CWM](remove-a-dependency-from-a-work-item-cwm.md)
 

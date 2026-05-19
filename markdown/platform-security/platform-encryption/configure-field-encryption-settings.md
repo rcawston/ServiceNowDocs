@@ -36,8 +36,8 @@ Role required: sn\_kmf.cryptographic\_manager and security\_admin
 
 ## What to do next
 
--   If you’re using your own customer-supplied keys, see [Using customer-supplied keys with Field Encryption Enterprise](../../encryption/concept/csk-landing.md).
+-   If you’re using your own customer-supplied keys, see [Using customer-supplied keys with Field Encryption Enterprise](../csk-landing.md).
 -   If you’re using ServiceNow supplied keys, start creating your cryptographic module. See [Create a cryptographic module](create-cryptographic-module.md).
 
-**Parent Topic:**[Configuring the Key Management Framework](../../encryption/concept/configure-kmf.md)
+**Parent Topic:**[Configuring the Key Management Framework](configure-kmf.md)
 

@@ -21,11 +21,11 @@ Generate structured release notes for a release using AI-driven summarization, r
 -   **Required applications and plugins:**
     -   Digital Product Release version 2.3 or later.
 
-        For more information, see [Digital Product Release](../../digital-product-release/reference/dpr-landing-page.md).
+        For more information, see [Digital Product Release](../digital-product-release/dpr-landing-page.md).
 
     -   Now Assist for ITSM plugin \(sn\_itsm\_gen\_ai\) version 12.0.0 or later.
 
-        For more information, see [Now Assist for IT Service Management \(ITSM\)](../concept/now-assist-itsm.md).
+        For more information, see [Now Assist for IT Service Management \(ITSM\)](now-assist-itsm.md).
 
 -   **Configuration:**
     -   The Generate Release Notes skill must be active.
@@ -65,7 +65,7 @@ The release notes are generated using the release scope data for the release:
 
 7.  To save the release notes, select **Save**.
 
-8.  If you [update the release scope](../../digital-product-release/task/dpr-work-release-scope.md), you can regenerate the release notes by selecting **Regenerate**.
+8.  If you [update the release scope](../digital-product-release/dpr-work-release-scope.md), you can regenerate the release notes by selecting **Regenerate**.
 
     The existing release notes are replaced with the regenerated release notes, which include the latest release scope data.
 
@@ -85,5 +85,5 @@ The release notes are generated using the release scope data for the release:
 **Related topics**  
 
 
-[AI-powered release notes generation](../../digital-product-release/concept/dpr-ai-release-notes-generation.md)
+[AI-powered release notes generation](../digital-product-release/dpr-ai-release-notes-generation.md)
 

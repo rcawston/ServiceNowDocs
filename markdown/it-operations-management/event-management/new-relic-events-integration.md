@@ -97,7 +97,7 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provid
 
 Alerts start flowing from the New Relic console into the Event Management plugin. The plugin extracts information from the original New Relic alert message to populate the required event fields and inserts the event into the database. In your ServiceNow AI Platform instance, navigate to**All Events**to see the events.
 
-**Note:** By default, host binding is enabled for New Relic events for all providers \(Azure/AWS/GCP\). If all hosts in the environment are discovered using Cloud Discovery by providing credentials and discovered resources are in the cmdb\_ci\_vm\_object list, then the VM binding may not occur. To resolve this, you must enable the**New Relic - General**event rule. For further information about Event rules, see [Event rules](../concept/create-event-rules.md).
+**Note:** By default, host binding is enabled for New Relic events for all providers \(Azure/AWS/GCP\). If all hosts in the environment are discovered using Cloud Discovery by providing credentials and discovered resources are in the cmdb\_ci\_vm\_object list, then the VM binding may not occur. To resolve this, you must enable the**New Relic - General**event rule. For further information about Event rules, see [Event rules](create-event-rules.md).
 
 -   **[Integrate New Relic with REST API key token](integrate-newrelic-api-key.md)**  
 Integrate using an API key to establish secure communication and automate data exchange via REST API. This simplifies integration, enabling seamless access to services and enhancing operational efficiency.

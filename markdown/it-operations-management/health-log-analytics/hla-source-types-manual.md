@@ -104,7 +104,7 @@ Option for indicating that Learning mode for the source type is ongoing. The AI 
 
 Configure a data input and then map it to the new source type. For more information, see [Set up data inputs in Health Log Analytics manually](hla-data-input-setup-manual.md) and [Map raw log data in Health Log Analytics](hla-data-input-mapping.md).
 
-**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md)
+**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](hla-data-input-setup-extra.md)
 
 **Related topics**  
 

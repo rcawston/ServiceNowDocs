@@ -58,7 +58,7 @@ If the connection fails, [View the connection log](configure-connection-details-
 
 If your changes impact data fabric tables, ensure the proper access is configured on the **Access Controls** tab.
 
-**Parent Topic:**[Managing zero copy connections](../concept/managing-connections-zcc.md)
+**Parent Topic:**[Managing zero copy connections](managing-connections-zcc.md)
 
 ## View the connection log
 

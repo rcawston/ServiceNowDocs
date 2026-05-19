@@ -40,18 +40,18 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user, sn\_lg\_
 -   The Contract status changes to Contract cancelled.
 -   The document signature sent to signatories is canceled to block further signing. The signatories get an email notification that the legal request has been canceled.
 
-**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](../concept/snlc-use-sn-legal-cont-landing.md)
+**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](snlc-use-sn-legal-cont-landing.md)
 
 **Related topics**  
 
 
-[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+[Non-disclosure agreement requests](../employee-service-management/snlc-request-nda-1.md)
 
-[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+[Third-party contract review requests](../employee-service-management/snlc-request-third-party-contract-1.md)
 
-[Contract amendments](../concept/snlc-amend-req-landing.md)
+[Contract amendments](snlc-amend-req-landing.md)
 
-[Linking parent-child contracts](../concept/snlc-linking-parent-child.md)
+[Linking parent-child contracts](snlc-linking-parent-child.md)
 
 [Internal review overview](snlc-expert-review.md)
 
@@ -59,5 +59,5 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user, sn\_lg\_
 
 [View contract requests](snlc-view-contract-requests.md)
 
-[Manage Contract Management Pro for Legal Service Delivery](../concept/snlc-manage-sn-legal-contracts.md)
+[Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
 

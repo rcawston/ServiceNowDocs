@@ -42,5 +42,5 @@ Use the REST API Explorer to send the following request:
 5.  Verify that the response **Status code** is `204`.
 
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](use-REST-API-Explorer.md)
 

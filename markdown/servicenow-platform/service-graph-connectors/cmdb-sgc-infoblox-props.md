@@ -120,5 +120,5 @@ Enter the list of IP addresses to be excluded from the import. Specify the list 
 
 [CMDB classes targeted in Service Graph Connector for Infoblox](sgc-cmdb-infoblox-classes.md)
 
-**Parent Topic:**[Service Graph Connector for Infoblox reference](../concept/sgc-cmdb-infoblox-reference.md)
+**Parent Topic:**[Service Graph Connector for Infoblox reference](sgc-cmdb-infoblox-reference.md)
 

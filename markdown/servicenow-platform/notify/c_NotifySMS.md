@@ -27,11 +27,11 @@ To send SMS messages to one or more recipients, use the Notify API sendBulkSMS m
 
 The Notify-Twilio integration provides programmable SMS outbound message status tracking with Status Callbacks. These callbacks can be helpful to see if a message has been delivered, failed, or ran into some other delivery issues.
 
--   **[SMS Statuses](../reference/r_SMSStatus.md)**  
+-   **[SMS Statuses](r_SMSStatus.md)**  
 Every Twilio SMS message request has a status value which describes the current state of the message. Use this information for troubleshooting SMS related incidents/ issues. Here are few descriptions of possible statuses of SMS sent from Notify through Twilio REST API.
--   **[Send an SMS with Zoom meeting invite](../task/send-sms-with-zoom-link.md)**  
+-   **[Send an SMS with Zoom meeting invite](send-sms-with-zoom-link.md)**  
 Send an SMS with Zoom meeting invite to ensure that the meeting participants or any newly added participant is updated with the meeting details when the meeting host starts the conference or adds a participant to the conference.
--   **[Outbound communication requirements](../reference/r_OutboundRequirements.md)**  
+-   **[Outbound communication requirements](r_OutboundRequirements.md)**  
 Outbound communications initiated through Notify, such as phone calls and SMS messages, must satisfy recipient number requirements.
 
 **Parent Topic:**[Using Notify](using-notify.md)

@@ -27,13 +27,13 @@ Role required: admin
 
     The transition turns blue when it is connected to the new activity. The designer adds the activity to the flow at that point and displays the property form for the new activity.
 
-    If an activity is greyed out, [approval engines](../../service-administration/concept/c_ApprovalEngines.md) are enabled for the table on which the workflow runs. To use the activity, turn approval engines off for the table.
+    If an activity is greyed out, [approval engines](../approvals/c_ApprovalEngines.md) are enabled for the table on which the workflow runs. To use the activity, turn approval engines off for the table.
 
     ![Greyed out activities are unavailable because approval engines are enabled for the table on which the workflow runs.](../image/WfAddActivityBlocked.png "Unavailable activities and approval engines")
 
 3.  Create any additional conditions needed for the activity and ensure that [all exits are connected](t_MngTstnsWkflAct.md#).
 
-4.  Run the [workflow validation](../../workflow-validation/concept/c_WorkflowValidation.md) tool prior to publishing to detect missing or disconnected transitions that can cause a workflow to hang.
+4.  Run the [workflow validation](../legacy-workflow/c_WorkflowValidation.md) tool prior to publishing to detect missing or disconnected transitions that can cause a workflow to hang.
 
     **Note:** All [activity descriptions](t_ViewActivityDescriptions.md#) have a **Table** value. If this value is **Global**, the activity is available for use with any workflow regardless of the table selected in the workflow properties. Activities that identify a specific table appear in the palette only if the table configured for the workflow matches or extends the table identified in the activity.
 

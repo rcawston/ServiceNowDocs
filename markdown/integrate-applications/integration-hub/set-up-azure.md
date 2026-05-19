@@ -86,7 +86,7 @@ Complete these steps from your Azure portal. See the [Microsoft identity platfor
 
 12. Click **Add a permission** to add the required permissions to access the APIs.
 
-    For information about permissions needed to perform the required actions, see the Spoke actions section here: [Spoke actions](../../integrationhub/concept/microsoft-azure-ad-spoke.md#section_aqj_3hf_kfb).
+    For information about permissions needed to perform the required actions, see the Spoke actions section here: [Spoke actions](microsoft-azure-ad-spoke.md#section_aqj_3hf_kfb).
 
     ![Add API permissions.](../../integrationhub/images/ms-azure-ad-api-perm.png)
 
@@ -117,7 +117,7 @@ Role required: admin.
 
         ![Connection for the Entra ID spoke](../image/entra-id-connection.png)
 
-    -   To manage more than one Entra ID spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Entra ID spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Initial connection configuration.](../image/entra-id-connection-conf.png)

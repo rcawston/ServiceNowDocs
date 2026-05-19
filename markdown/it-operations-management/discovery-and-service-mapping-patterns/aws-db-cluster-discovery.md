@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   Install the Discovery and Service Mapping Patterns application \(version 1.0.75\) from the ServiceNow Store.
 -   On the ServiceNow AI Platform, configure AWS credentials, using a secret key and an access key.
--   [Create a service account](../../cloud-management-v2-setup/task/aws-first-cld-and-srvc-accts.md). Set the **Account ID** to the Amazon account ID to which RDS belongs. Use the Account ID as it appears in the AWS Management Console.
+-   [Create a service account](../cloud-configuration-governance/aws-first-cld-and-srvc-accts.md). Set the **Account ID** to the Amazon account ID to which RDS belongs. Use the Account ID as it appears in the AWS Management Console.
 -   Set read-only permissions for these REST APIs:
     -   https://rds.&lt;REGION&gt;.amazonaws.com/?Action=DescribeDBInstances
     -   https://rds.&lt;REGION&gt;.amazonaws.com/?Action=DescribeDBClusters
@@ -212,5 +212,5 @@ IP netmask \[0.0.0.0\].​
 |cmdb\_key\_value|Reference only​|cmdb\_ci\_cloud\_db\_cluster​|
 |cmdb\_key\_value|Reference only​|cmdb\_ci\_cloud\_database|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

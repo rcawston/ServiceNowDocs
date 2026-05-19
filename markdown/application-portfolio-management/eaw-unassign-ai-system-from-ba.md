@@ -48,14 +48,14 @@ Removing an AI system from a business application removes only the association. 
     The selected AI systems are removed from the **AI systems** tab.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
 [Add an existing AI system to a business application](eaw-add-ai-system-to-ba.md)
 
-[AI Control Tower integration with Enterprise Architecture](../../concept/eaw-concept/eaw-aict.md)
+[AI Control Tower integration with Enterprise Architecture](eaw-aict.md)
 
 [AI Control Tower Home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-control-tower-home-page.md)
 

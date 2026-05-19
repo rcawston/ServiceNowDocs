@@ -46,7 +46,7 @@ The ServiceNow mobile apps for iOS and Android support scanning the following ba
 
 **Note:**
 
--   Code-128 and Code-39 barcode scanning isn’t consistent on Android devices due to a [known open issue with Android libraries](https://issuetracker.google.com/u/0/issues/207732702). Incorrect scanned values might be intermittently returned. For more accurate barcode scanning, see [Enable enhanced barcode scanning](../task/enable-enhanced-barcode-scan.md).
+-   Code-128 and Code-39 barcode scanning isn’t consistent on Android devices due to a [known open issue with Android libraries](https://issuetracker.google.com/u/0/issues/207732702). Incorrect scanned values might be intermittently returned. For more accurate barcode scanning, see [Enable enhanced barcode scanning](enable-enhanced-barcode-scan.md).
 -   Starting with version 18.3 of ServiceNow iOS apps, the barcode scanner uses a new framework that improves its reliability, ease of use, and enables scanning a wider variety of barcode types. However, the new barcode scanner framework isn't compatible with some older iOS devices. See [KB1702599](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1702599) on the ServiceNow Support website for details. You must be logged in to the website to view this content.
 
 -   1D barcodes:
@@ -60,11 +60,11 @@ The ServiceNow mobile apps for iOS and Android support scanning the following ba
 
 The Android version of ServiceNow mobile apps can be used with most Zebra scanning devices. The scanner only works when permissions for the Zebra device camera have been denied for the ServiceNow mobile app. If you have already granted permissions to the Zebra device camera, you can turn them off in the settings for the Zebra device. In the ServiceNow app, when the cursor is in a QR/Barcode input field, the scanner outputs the results. End users can modify the barcode output to include a return/enter string at the end of each scan with other apps, such as DataWedge.
 
-For more information, see [Enable barcode scanning with an external scanner](../task/enable-external-barcode-scanner.md). Also refer to [Add a Tab Key after Scanning a Barcode](https://supportcommunity.zebra.com/s/article/Add-a-Tab-Key-After-Scanning-a-Bar-Code?language=en_US) in the Zebra documentation. This article explains how to add a tab key which automatically moves the scanner cursor when scanning multiple barcodes.
+For more information, see [Enable barcode scanning with an external scanner](enable-external-barcode-scanner.md). Also refer to [Add a Tab Key after Scanning a Barcode](https://supportcommunity.zebra.com/s/article/Add-a-Tab-Key-After-Scanning-a-Bar-Code?language=en_US) in the Zebra documentation. This article explains how to add a tab key which automatically moves the scanner cursor when scanning multiple barcodes.
 
 -   **[Multi-scan for mobile applications](sg-multi-scan.md)**  
 Use multi-scan to quickly scan multiple barcodes or groups of codes. With multi-scan, you can input information for your assets faster than manual entry or individual scans.
--   **[Configure a grouped input for multiple scans](../task/sg-configure-multiscan.md)**  
+-   **[Configure a grouped input for multiple scans](sg-configure-multiscan.md)**  
 Enable your users to scan several barcodes sequentially. Users can scan barcodes without leaving the scanning interface when you configure a grouped input. You can configure grouped inputs on buttons to accept multiple barcode scans.
 
 **Parent Topic:**[Considerations before implementation](imp-considerations.md)

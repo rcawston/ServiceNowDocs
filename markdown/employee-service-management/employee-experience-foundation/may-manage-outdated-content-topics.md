@@ -87,5 +87,5 @@ For more information, see [Run the scheduled job for outdated content](may-sched
 -   **[Run the scheduled job for outdated content](may-scheduled-job-content-outdated.md)**  
 Auto-delete the outdated content by marking the schedule job active. Once the schedule job is active, all the outdated content is removed automatically.
 
-**Parent Topic:**[Taxonomy and connected content](../concept/track-new-content.md)
+**Parent Topic:**[Taxonomy and connected content](track-new-content.md)
 

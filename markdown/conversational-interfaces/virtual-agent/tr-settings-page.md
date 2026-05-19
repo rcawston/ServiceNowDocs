@@ -85,5 +85,5 @@ The schedule for running the analysis, which is triggered through the Run Topic 
 </table>**Related topics**  
 
 
-[Configure analysis reports for Topic Recommendations](../task/define-tr-settings.md)
+[Configure analysis reports for Topic Recommendations](define-tr-settings.md)
 

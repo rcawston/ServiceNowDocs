@@ -36,7 +36,7 @@ Role required: admin
 
 5.  On the Script Include form, fill in the fields.
 
-    For a description of the field values, see [Scripted Extension Point form fields](../../legal-request-management/reference/scripted-extension-point-form-fields.md).
+    For a description of the field values, see [Scripted Extension Point form fields](../legal-request-management/scripted-extension-point-form-fields.md).
 
 6.  In the **Script** field, update the copyDataFromBUToCMR function to configure the fields that you want to copy from the parent record to the contract request.
 
@@ -79,12 +79,12 @@ Role required: admin
 
 When a contract request is initiated, the configured fields are automatically populated with the corresponding values from the associated contract repository record selected while initiating an amendment request.
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](../concept/cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](../concept/cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](cncore-conf-cntrct-wrkspc.md)
 
 [Configure signature pause duration when modifying signatories](cncore-pause-sig-property.md)
 
@@ -100,5 +100,5 @@ When a contract request is initiated, the configured fields are automatically po
 
 [Configure conditions to send reminder notifications for expiring contracts](cncore-config-rem-exp-cont.md)
 
-[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+[Manage notifications in Contract Management Pro](cmpro-manage-notifications.md)
 

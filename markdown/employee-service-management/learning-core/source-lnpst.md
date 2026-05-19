@@ -223,5 +223,5 @@ Services that interact with the Saba application to pull or push learning course
 -   **Pull Saba User Course Activity**: Pulls details of user activity on learning courses from the Saba application into the ServiceNow application.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integrating Learning Core with third-party learning management systems](../task/setup-learning-third-party-1.md)
+</table>**Parent Topic:**[Integrating Learning Core with third-party learning management systems](setup-learning-third-party-1.md)
 

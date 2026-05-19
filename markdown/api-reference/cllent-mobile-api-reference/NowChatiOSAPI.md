@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The NowChat API is a top-level global API that enables users to instantiate a NowChat service instance.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowChat - makeChatService\(instanceUrl: URL, delegate: NowChatServiceDelegate?\)
 
@@ -30,7 +30,7 @@ Creates an instance of NowChatService with the specified configuration.
 
 |Type|Description|
 |----|-----------|
-|AnyPublisher&lt;[NowChatService](../../NowChatService/concept/NowChatServiceiOSAPI.md#), NowServiceError&gt;|If successful, returns an initialized NowChatService object. If it fails, returns a NowServiceError object.|
+|AnyPublisher&lt;[NowChatService](NowChatServiceiOSAPI.md#), NowServiceError&gt;|If successful, returns an initialized NowChatService object. If it fails, returns a NowServiceError object.|
 
 The following code example shows how to call this function.
 
@@ -74,7 +74,7 @@ Creates an instance of `NowChatService` with the specified configuration, and on
 |----|----|-----------|
 |instanceUrl|URL|URL of the ServiceNow instance providing chat services.|
 |delegate|NowChatServiceDelegate|Optional. Delegate object that implements the NowChatServiceDelegate protocol.|
-|completion|@escaping \(\(Result&lt;[Now​Chat​Service](../../NowChatService/concept/NowChatServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called containing either an initialized `NowChatService` instance or a `NowServiceError` indicating why the initialization failed.|
+|completion|@escaping \(\(Result&lt;[Now​Chat​Service](NowChatServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called containing either an initialized `NowChatService` instance or a `NowServiceError` indicating why the initialization failed.|
 
 |Type|Description|
 |----|-----------|

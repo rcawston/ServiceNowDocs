@@ -40,5 +40,5 @@ Role required: Taxonomy admin, taxonomy manager, and taxonomy contributor
 
 ## What to do next
 
-Your employees can access all applications and associated topics. See [Access applications from App Launcher](../concept/web-application-employee.md)
+Your employees can access all applications and associated topics. See [Access applications from App Launcher](web-application-employee.md)
 

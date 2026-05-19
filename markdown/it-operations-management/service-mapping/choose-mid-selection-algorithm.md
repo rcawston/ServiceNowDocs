@@ -49,7 +49,7 @@ By default, Service Mapping uses the legacy algorithm in all deployments upgrade
 
     2.  Click **Save**.
 
-    3.  Configure MID Server selection criteria as described in [MID Server configuration for Service Mapping](../concept/configure-mid-service-mapping.md).
+    3.  Configure MID Server selection criteria as described in [MID Server configuration for Service Mapping](configure-mid-service-mapping.md).
 
 3.  To enable the legacy algorithm for the Australia deployment:
 
@@ -57,8 +57,8 @@ By default, Service Mapping uses the legacy algorithm in all deployments upgrade
 
     2.  Click **Save**.
 
-    3.  Configure MID Server selection criteria as described in [MID Server configuration for Service Mapping in upgraded deployments](../concept/MID-selection-criteria-upgrade.md).
+    3.  Configure MID Server selection criteria as described in [MID Server configuration for Service Mapping in upgraded deployments](MID-selection-criteria-upgrade.md).
 
 
-**Parent Topic:**[MID Server configuration for Service Mapping](../concept/configure-mid-service-mapping.md)
+**Parent Topic:**[MID Server configuration for Service Mapping](configure-mid-service-mapping.md)
 

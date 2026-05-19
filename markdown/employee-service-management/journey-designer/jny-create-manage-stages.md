@@ -36,5 +36,5 @@ Use stages to create a logical sequence for completing tasks. Managers add stage
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 

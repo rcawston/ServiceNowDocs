@@ -17,7 +17,7 @@ Reassign or unassign any assigned work from the Resource Management Workspace. Y
 
 ## Before you begin
 
--   When you reassign work, the primary attributes of both the resource should match. For more information about mapping primary attributes to resources, see [Map primary attributes to resources](../../spw-capacity-planning/task/map-primary-attributes-cp.md).
+-   When you reassign work, the primary attributes of both the resource should match. For more information about mapping primary attributes to resources, see [Map primary attributes to resources](../scenario-planning-in-spw/map-primary-attributes-cp.md).
 -   You can reassign a work item for the period for which actual hours are not captured.
 -   You cannot reassign a work item if it has associated actual hours captured for the entire duration.
 -   You cannot unassign a work item if it has any associated actual hours captured.
@@ -39,7 +39,7 @@ Role required: resource\_user, resource\_manager
     1.  Select the row context menu \(![Three vertical dots icon for row context menu.](../../project-workspace/image/icon-row-context-menu.png)\) for the required work item.
     2.  Select **Reassign work**.
 
-        **Tip:** [Group the resource board](../concept/using-rmw.md#section_mcj_3sl_cdc) by the primary attributes to drag and drop the resource assignments to another resource to completely reassign work.
+        **Tip:** [Group the resource board](using-rmw.md#section_mcj_3sl_cdc) by the primary attributes to drag and drop the resource assignments to another resource to completely reassign work.
 
     3.  On the Reassign work window, enter the name of the resource in the **User** field to whom you want to reassign the work and duration using the **Start month** and **End month** date picker.
 
@@ -80,5 +80,5 @@ The actual hours captured by Tom are retained even though the task is reassigned
 
 You can allocate the unassigned work and approve the reassigned work. For more information, see [Assign and approve unassigned work using Resource Management Workspace](allocate-resources-rmw.md).
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](using-rmw.md)
 

@@ -19,7 +19,7 @@ Use Proactive Triggers to create and view context-specific messages and use rele
 
 **Note:** The Proactive Triggers feature \[sn\_pt\] is available as an app and must be installed from the ServiceNow Store. This feature is only available after you've installed and updated the Omni-Experience Standard Feature Set to the latest version through the ServiceNow Store. Subsequent updates are also available there. Visit the ServiceNow Store website to view all the available apps and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-For conceptual information about Proactive Triggers, see [Exploring Proactive Triggers](../concept/proactive-triggers.md).
+For conceptual information about Proactive Triggers, see [Exploring Proactive Triggers](proactive-triggers.md).
 
 The Proactive Triggers feature can be used with Domain Separation. For more information about Domain Separation, see [Domain separation explained](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-what-is-domain-separation.md).
 
@@ -47,7 +47,7 @@ An admin first enables and then creates rules and actions as separate tasks.
 
     ![Proactive Triggers scope reminder.](../image/proactive-triggers-scope-info-2.png)
 
-    For more information about scopes and how to change them, see [Application scopes](../../../app-store/dev_portal/application_model/concept/c_ApplicationScopes.md).
+    For more information about scopes and how to change them, see [Application scopes](c_ApplicationScopes.md).
 
 5.  Under **Proactive triggers**, select the **Enable proactive triggers** field toggle switch to enable the feature.
 
@@ -115,5 +115,5 @@ Create custom trigger types. For more information, see [Create custom trigger ty
 **Related topics**  
 
 
-[Enable message preview on the chat widget](../../conversational-interfaces/task/web-client-message-preview.md)
+[Enable message preview on the chat widget](../web-client-message-preview.md)
 

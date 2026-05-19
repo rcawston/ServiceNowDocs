@@ -44,5 +44,5 @@ The following is a procedure to create a view and add related lists to it.
     This view will be used to render the associated info on the Investigation tab.
 
 
-**Parent Topic:**[Configure SI design time investigation](../concept/configure-investigation-canvas-records.md)
+**Parent Topic:**[Configure SI design time investigation](configure-investigation-canvas-records.md)
 

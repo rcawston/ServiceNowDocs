@@ -22,5 +22,5 @@ Order an AWS DynamoDB table, which is a key-value store, with primary keys and s
 -   **[Amazon Web Services DynamoDB Out Of Box permissions](aws-dynamodb-oob-permissions.md)**  
 Amazon Web Services DynamoDB OOB catalog items permissions. DynamoDB supports provision and deprovision only.
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

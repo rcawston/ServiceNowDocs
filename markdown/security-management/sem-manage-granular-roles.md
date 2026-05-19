@@ -15,9 +15,9 @@ After you complete your initial assignment of persona roles using Setup Assistan
 
 ## Before you begin
 
-If you have not already completed your initial set up and configuration for Vulnerability Response using Setup Assistant, or assigned persona roles to users and groups, navigate to **Vulnerability Response** &gt; **Administration** &gt; **Setup Assistant**. See [Assign the Vulnerability Response persona roles using Setup Assistant](../../vulnerability-response/task/vr-assign-personas_SA.md).
+If you have not already completed your initial set up and configuration for Vulnerability Response using Setup Assistant, or assigned persona roles to users and groups, navigate to **Vulnerability Response** &gt; **Administration** &gt; **Setup Assistant**. See [Assign the Vulnerability Response persona roles using Setup Assistant](vulnerability-response/vr-assign-personas_SA.md).
 
-For key terms and an overview of persona roles, see [Vulnerability Response personas and granular roles](../../vulnerability-response/concept/vr-persona-overview.md#).
+For key terms and an overview of persona roles, see [Vulnerability Response personas and granular roles](vulnerability-response/vr-persona-overview.md#).
 
 A persona role is pre-configured role in the application that is made up of multiple granular roles. The persona roles in Setup Assistant, Vulnerability Admin, Vulnerability Analyst, Remediation Owner, Configuration Item Manager, and Exception Manager, are designed to correspond to common job titles for managers, analysts, and service owners in an IT organization or vulnerability remediation group.
 

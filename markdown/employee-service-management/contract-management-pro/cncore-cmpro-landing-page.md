@@ -48,7 +48,7 @@ The following video provides an overview of Contract Management Pro.Video provid
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with preconfigured dashboards](../../../use/application-content-packs/concept/cncore-analytics-pa.md)
+[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with preconfigured dashboards](cncore-analytics-pa.md)
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-docs.svg) Release Notes**
 
-    Learn more about what's new and changed. See the [Contract Management Pro release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/cmpro-rn.md).
+    Learn more about what's new and changed. See the [Contract Management Pro release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/cmpro-rn.md).
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-community.svg)ServiceNow Community**
 

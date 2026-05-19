@@ -27,7 +27,7 @@ Group information is used across most processes in the ServiceNow AI Platform fo
 
 -   You can import existing users and groups using guided setup.
 
-    For more information, see [Guided setup for Universal Request](../reference/ur-guided-setup.md).
+    For more information, see [Guided setup for Universal Request](ur-guided-setup.md).
 
 -   You can create new users and groups using the ServiceNow AI Platform user administration feature.
 
@@ -35,5 +35,5 @@ Group information is used across most processes in the ServiceNow AI Platform fo
     -   [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md)
     -   [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md)
 
-**Parent Topic:**[Configuring Universal Request](../concept/configure-ur.md)
+**Parent Topic:**[Configuring Universal Request](configure-ur.md)
 

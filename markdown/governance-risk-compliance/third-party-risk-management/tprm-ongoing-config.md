@@ -41,7 +41,7 @@ Set up risk rating scales for scoring assessments and questionnaires.
 
 You can configure the risk rating scale that is selected by default for all questionnaires.
 
-For more information, see [Set up risk rating scales for scoring](../task/tprm-risk-rating-scales-config.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
+For more information, see [Set up risk rating scales for scoring](tprm-risk-rating-scales-config.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Set up third-party risk domains or areas.
 
 You can configure the scoring method and weight that is selected by default for all third parties associated with a specific risk area.
 
-For more information, see [Define a third-party risk domain](../../grc-vendor-risk/task/tprm-risk-domain-define.md).Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
+For more information, see [Define a third-party risk domain](tprm-risk-domain-define.md).Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Set up third-party risk area criteria, which are the group of risk domains or ar
 
 You can adjust the weight and scoring method of each risk area within a criteria definition.
 
- For more information, see [Define third-party risk area criteria](../../grc-vendor-risk/task/tprm-risk-domain-criteria-df.md).Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
+ For more information, see [Define third-party risk area criteria](tprm-risk-domain-criteria-df.md).Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 </td></tr><tr><td>
 
@@ -87,9 +87,9 @@ Components are entities that can be assessed for risk. Component criteria are gr
     -   Facility
     -   Other
 
- For more information on setting up component criteria, see [Define component criteria](../../grc-vendor-risk/task/tprm-component-criteria-define.md).
+ For more information on setting up component criteria, see [Define component criteria](tprm-component-criteria-define.md).
 
- For more information on how engagement components impact third-party elements, see [Monitoring third-party elements](../../grc-vendor-risk/concept/tprm-monitor-tp-elements.md).
+ For more information on how engagement components impact third-party elements, see [Monitoring third-party elements](tprm-monitor-tp-elements.md).
 
  Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
@@ -101,7 +101,7 @@ Set up third-party and engagement risk scoring rules.
 
 Define the criteria, based on risk scores, that determine which third parties or engagements require assessments. Third-party risk scoring rules apply to subsidiaries, engagements, and third-party risk areas. Engagement risk scoring rules only apply to engagements.
 
-For more information, see [Define third-party risk scoring rules](../../grc-vendor-risk/task/tprm-tp-risk-scoring-rules-define.md) and [Define engagement risk scoring rules](../../grc-vendor-risk/task/tprm-engagement-scoring-rules-df.md).Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
+For more information, see [Define third-party risk scoring rules](tprm-tp-risk-scoring-rules-define.md) and [Define engagement risk scoring rules](tprm-engagement-scoring-rules-df.md).Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ The following template classifications are available.-   Questionnaire template
 -   IRQ template
 -   Collection template
 
-For more information, see [Create a questionnaire or document request template](../../grc-vendor-risk/task/create-questionnaire-template.md) and [Create a questionnaire or document request template using the Designer](../../grc-vendor-risk/task/create-question-template.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
+For more information, see [Create a questionnaire or document request template](create-questionnaire-template.md) and [Create a questionnaire or document request template using the Designer](create-question-template.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Import questionnaires using an excel spreadsheet.
 
 This task is optional.After preparing your excel spreadsheet, you can import your data and then create questionnaires automatically from templates.
 
-For more information, see [Import a questionnaire from a spreadsheet](../../grc-vendor-risk/task/import-questions-from-excel.md).Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
+For more information, see [Import a questionnaire from a spreadsheet](import-questions-from-excel.md).Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ Set up a metric category \(question bank\), which is a group of questions relate
 
 Add questions to a question bank so that you can reuse sets of questions in a questionnaire template. You can add new questions and questions from existing questionnaires.
 
-For more information, see [Set up and maintain a question bank](../task/tprm-question-bank-create.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
+For more information, see [Set up and maintain a question bank](tprm-question-bank-create.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Create questions to meet your assessment requirements.
 
 You can create custom questions, add existing questions, or add and customize the sample questions that are included with the base system.
 
-For more information, see [Define a question](../task/tprm-questions-create.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
+For more information, see [Define a question](tprm-questions-create.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ Set up option to use normalized values for scoring.
 
 You can use the **Maximum normalization input** setting to use normalized values to calculate assessment scores for Choice or Multiple Selection questions with the scored check box not selected. Normalization of values can help ensure consistent comparisons across different entities.
 
-For more information on how this setting impacts scoring, see [Normalize the scores for metrics](set-max-norm-input.md).**Note:** This option is available under the question type tab of an assessment metric \(question\) record. For more information on setting up questions, see [Define a question](../task/tprm-questions-create.md).
+For more information on how this setting impacts scoring, see [Normalize the scores for metrics](set-max-norm-input.md).**Note:** This option is available under the question type tab of an assessment metric \(question\) record. For more information on setting up questions, see [Define a question](tprm-questions-create.md).
 
 Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
@@ -170,7 +170,7 @@ Create assessment templates for external questionnaires.
 
 You can create an assessment template with set duration requirements and questionnaires attached by default to help streamline the assessment process for different types of third parties and engagements.
 
- For more information, see [Create an external assessment template](../../grc-vendor-risk/task/create-vendor-risk-assess-temp.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
+ For more information, see [Create an external assessment template](create-vendor-risk-assess-temp.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Create issue generation rules.
 
 This task is optional.Set up rules that auto-generate issues for external assessments. Specify a Third-party risk assessment, a Questionnaire template, and the Questions to apply the rule to, as well as an Issue template and a Task template to use while generating it.
 
- For more information on setting up these rules, see [Create an issue generation rule](../../grc-vendor-risk/task/tprm-generate-issue-rule.md). Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
+ For more information on setting up these rules, see [Create an issue generation rule](tprm-generate-issue-rule.md). Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 </td></tr><tr><td>
 
@@ -190,7 +190,7 @@ Schedule recurring assessments.
 
 This task is optional.Recurring assessments can be scheduled for third parties or engagements. You can use an assessment template you created or manually attach questionnaire and document requests as needed.
 
-For more information, see [Configure a risk assessment to recur on a schedule](../../grc-vendor-risk/task/define-repeating-vend-assess.md).Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
+For more information, see [Configure a risk assessment to recur on a schedule](define-repeating-vend-assess.md).Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
 
 </td></tr><tr><td>
 
@@ -198,7 +198,7 @@ Set up an internal questionnaire's responses to automatically attach questionnai
 
 </td><td>
 
-This task is optional. For more information, see [Set up internal questionnaire responses to automatically attach external questionnaires to assessments](../../grc-workspace-vrm/task/tprm-setup-eq-irq.md).
+This task is optional. For more information, see [Set up internal questionnaire responses to automatically attach external questionnaires to assessments](tprm-setup-eq-irq.md).
 
 Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
@@ -210,7 +210,7 @@ Set up event-driven management rules.
 
 This task is optional. Set up rules that auto-generate and send questionnaires and doc requests to engagements and third parties. For engagements and third parties that meet the criteria you define, you specify the schedule and the assessment templates. You can automate all request types except onboarding.
 
- For more information on setting up these rules, see [Event-driven management — automate assessment processes](../../grc-workspace-vrm/task/tprm-event-drvn-mgt-rule-create.md). Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
+ For more information on setting up these rules, see [Event-driven management — automate assessment processes](tprm-event-drvn-mgt-rule-create.md). Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 </td></tr><tr><td>
 
@@ -220,10 +220,10 @@ Verify risk ratings and scoring calculations.
 
 This task is optional. Review scores and risk ratings in your questionnaires and help ensure the accuracy and consistency of risk scoring by verifying the correct application of weights, normalized values, scoring methods, and risk rating scales.
 
-For more information, see [Verifying scoring calculations using the classic assessment engine](../../grc-vendor-risk/concept/tprm-verif-q.md).
+For more information, see [Verifying scoring calculations using the classic assessment engine](tprm-verif-q.md).
 
 </td></tr></tbody>
-</table>For more information on calculations for risk ratings and scoring, see [Scoring calculations using the classic assessment engine](../../grc-vendor-risk/concept/vendor-ratings-scoring.md).
+</table>For more information on calculations for risk ratings and scoring, see [Scoring calculations using the classic assessment engine](vendor-ratings-scoring.md).
 
-For more information on assessment and score-related automation, see [Set up internal questionnaire responses to automatically attach external questionnaires to assessments](../../grc-workspace-vrm/task/tprm-setup-eq-irq.md), [Assessing your third-party risk](../../grc-vendor-risk/concept/tprm-assessing-tpr.md), [Event-driven management — automate assessment processes](../../grc-workspace-vrm/task/tprm-event-drvn-mgt-rule-create.md), and [Automate actions upon risk intelligence updates](../../grc-vendor-risk/task/tprm-riskintelprvdr-submissrule.md).
+For more information on assessment and score-related automation, see [Set up internal questionnaire responses to automatically attach external questionnaires to assessments](tprm-setup-eq-irq.md), [Assessing your third-party risk](tprm-assessing-tpr.md), [Event-driven management — automate assessment processes](tprm-event-drvn-mgt-rule-create.md), and [Automate actions upon risk intelligence updates](tprm-riskintelprvdr-submissrule.md).
 

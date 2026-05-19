@@ -17,7 +17,7 @@ Each time a user accesses a web page using their mobile web browser, the instanc
 
 ## Structural layout of URLs used for mobile universal linking
 
-Supported URLs can comprise of elements like host, path, query keys, and query values. These URLs are created in the universal link path segment table and the universal link supported URL table, as described in [Create path segment records and supported URL records for universal linking](../task/universal-linking-web-banner.md). You can make your URL as general or specific as you require. A more general the URL definition means that the banner is displayed over a larger number of web pages.
+Supported URLs can comprise of elements like host, path, query keys, and query values. These URLs are created in the universal link path segment table and the universal link supported URL table, as described in [Create path segment records and supported URL records for universal linking](universal-linking-web-banner.md). You can make your URL as general or specific as you require. A more general the URL definition means that the banner is displayed over a larger number of web pages.
 
 **Note:** When creating supported URLs, you must know what path segment, query keys, and query values you want the system to look for.
 
@@ -29,9 +29,9 @@ An example URL structure is `https://<baseURl>/sample_path.do/query_key_01=XYZ/q
 |`query_key`|Query keys are an extension of the URL that help define specific content.|
 |`value`|Values can be added to the query keys, to further streamline the web pages you want to match.|
 
--   **[Create path segment records and supported URL records for universal linking](../task/universal-linking-web-banner.md)**  
+-   **[Create path segment records and supported URL records for universal linking](universal-linking-web-banner.md)**  
 Create path segment records and supported URLs records for universal linking to display a mobile banner. Users see this banner when they land on specific platform web pages. Within each supported URL, you define the page where the banner appears, the mobile app and the screen type the user views, and the data displayed within the screen.
--   **[Mapping specific mobile screens for universal linking](../task/universal-linking-screen-mapping.md)**  
+-   **[Mapping specific mobile screens for universal linking](universal-linking-screen-mapping.md)**  
 Configure universal links for screen mapping so a user is redirected to a previously styled record screen or list screen. Use this option to provide a customized experience for the user.
 
 **Parent Topic:**[Universal linking for mobile](universal-links-mobile.md)

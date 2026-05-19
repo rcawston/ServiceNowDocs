@@ -43,7 +43,7 @@ This approach confirms that every request is handled smoothly, with clear commun
 ## Related links
 
 -   [Activate the Return Merchandise Authorization plugin](activate-return-merchandise-authorization-plugin.md)
--   [Return Merchandise Authorization Case Management](../reference/return-merchandise-authorization-case-management-reference.md)
+-   [Return Merchandise Authorization Case Management](return-merchandise-authorization-case-management-reference.md)
 
 **Related topics**  
 

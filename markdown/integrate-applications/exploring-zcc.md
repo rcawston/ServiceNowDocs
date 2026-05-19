@@ -71,5 +71,5 @@ To learn more about configuring and using Zero Copy Connectors, see:
 -   [Managing zero copy connections](managing-connections-zcc.md)
 -   [Managing data fabric tables](managing-data-fabric-tables-zcc.md)
 -   [Accessing real-time data in applications](mapping-application-tables-zcc.md)
--   [Zero Copy Connectors reference](../reference/reference-zcc.md)
+-   [Zero Copy Connectors reference](reference-zcc.md)
 

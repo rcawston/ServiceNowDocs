@@ -19,7 +19,7 @@ Update the **sn\_deploy\_pipeline.migrate\_releaseops** system property to enabl
 
 Role required: admin or app\_engine\_admin
 
-You must have ReleaseOps installed and set up on your production and other pipeline environments to complete the following procedure. See [Migrating App Engine pipelines to ReleaseOps](../concept/migrating-ae-pipelines-to-releaseops-aemc.md) for more information.
+You must have ReleaseOps installed and set up on your production and other pipeline environments to complete the following procedure. See [Migrating App Engine pipelines to ReleaseOps](migrating-ae-pipelines-to-releaseops-aemc.md) for more information.
 
 ## Procedure
 

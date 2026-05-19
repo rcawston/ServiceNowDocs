@@ -38,5 +38,5 @@ To enable Now Assist to provide a detailed description, you must activate the Ex
 4.  On the **Crawl schedules** tab, select **Crawl content** and then follow the instructions in [Create a content crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md) to configure the crawl process.
 
 
-**Parent Topic:**[Configuring Now Assist for CMDB](../../configuration-management/concept/now-assist-cmdb-configuring.md)
+**Parent Topic:**[Configuring Now Assist for CMDB](now-assist-cmdb-configuring.md)
 

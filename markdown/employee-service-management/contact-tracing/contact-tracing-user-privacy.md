@@ -35,11 +35,11 @@ Privacy consent requirements ensure that your users complete a privacy consent b
 
 As an admin, you must configure the following settings to use privacy consents with Contact Tracing:
 
-1.  [Modify or add a privacy consent template for Contact Tracing](../task/define-privacy-consent-template.md)
-2.  [Generate location-based privacy configurations for Contact Tracing](../task/generate-location-privacy-configuration.md)
-3.  [Create a custom Emergency Outreach notification channel](../task/create-additional-channel-notif.md)
-4.  [Configure an email notification for a privacy consent request](../task/configure-privacy-email.md)
-5.  [Configure an Emergency Outreach notification for Contact Tracing privacy consents](../task/configure-outreach-notif-privacy.md)
+1.  [Modify or add a privacy consent template for Contact Tracing](define-privacy-consent-template.md)
+2.  [Generate location-based privacy configurations for Contact Tracing](generate-location-privacy-configuration.md)
+3.  [Create a custom Emergency Outreach notification channel](create-additional-channel-notif.md)
+4.  [Configure an email notification for a privacy consent request](configure-privacy-email.md)
+5.  [Configure an Emergency Outreach notification for Contact Tracing privacy consents](configure-outreach-notif-privacy.md)
 
 **Parent Topic:**[Maintaining user data privacy in Contact Tracing](contact-tracing-user-privacy-options.md)
 

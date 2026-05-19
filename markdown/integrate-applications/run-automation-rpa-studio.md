@@ -32,5 +32,5 @@ The **Run** option starts the execution from the Start component of the activity
 3.  To clear the runtime log, click **Clear Log**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

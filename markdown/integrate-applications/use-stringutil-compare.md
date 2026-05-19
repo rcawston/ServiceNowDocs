@@ -21,7 +21,7 @@ Role required: none
 
 Compare method is used to compare given text with provided options. If option is matched, it opens the matching control out port.
 
-You can configure the properties for the Compare component. For more information about these properties, see [Properties of the String Utilities components](../reference/util-stringutil-prop.md).
+You can configure the properties for the Compare component. For more information about these properties, see [Properties of the String Utilities components](util-stringutil-prop.md).
 
 ## Procedure
 
@@ -77,5 +77,5 @@ String
 </table>6.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[String utilities](../concept/string-utilities.md)
+**Parent Topic:**[String utilities](string-utilities.md)
 

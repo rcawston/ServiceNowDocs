@@ -53,5 +53,5 @@ After creating a profile for an event, the process flow for the configuration is
 
 The next step is to ingest triggered alerts or export data and map values to the SIR security incident fields.
 
-**Parent Topic:**[Create and name an event profile](../task/splunk-event-ingest-create-profile.md)
+**Parent Topic:**[Create and name an event profile](splunk-event-ingest-create-profile.md)
 

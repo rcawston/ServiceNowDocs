@@ -140,5 +140,5 @@ Defines the default columns shown when assessing individual controls.
 **Related topics**  
 
 
-[Risk score rollup in Advanced Risk Assessment](../../grc-risk/concept/risk-rollup-ara-concept.md)
+[Risk score rollup in Advanced Risk Assessment](../grc-risk-management-workspace/risk-rollup-ara-concept.md)
 

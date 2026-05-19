@@ -21,5 +21,5 @@ Use this reference when troubleshooting build failures, empty UI pages, context 
 |Context limit exceeded|If something goes wrong while creating or updating your application, you have the option to retry. The Build Agent maintains a history of your session and can resume from the point of failure. However, if your chat window exceeds the context limit, you receive a 'Context Window Exceeded' error.|Open a new chat window and describe the application you want to create once again. Although the Build Agent doesn’t retain the context from the previous chat session, it reviews the work already done and continues from where it stopped.|
 |Rate limit error|Another error you might encounter is the 'Rate limit error', which happens when the LLM provider receives too many requests to handle.|Wait for a minute or two before trying again.|
 
-**Parent Topic:**[Use Build Agent](../tasks/use-build-agent.md)
+**Parent Topic:**[Use Build Agent](use-build-agent.md)
 

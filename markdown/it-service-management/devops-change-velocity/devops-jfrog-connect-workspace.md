@@ -17,9 +17,9 @@ Connect to your JFrog instance using the DevOps Change Workspace playbook to tra
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
-Install the JFrog plugin \(x\_snc\_jfrog\) from the ServiceNow® Store to enable bearer token authentication and integration with JFrog AppTrust application. For more information, see [Integration with JFrog AppTrust application](../concept/integration-with-jfrog-apptrust-application.md).
+Install the JFrog plugin \(x\_snc\_jfrog\) from the ServiceNow® Store to enable bearer token authentication and integration with JFrog AppTrust application. For more information, see [Integration with JFrog AppTrust application](integration-with-jfrog-apptrust-application.md).
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -85,7 +85,7 @@ Steps
         -   For Basic Auth, select the login credentials of the primary user.
         -   For Bearer Token, select the bearer token associated with the project.
 
-            **Note:** Bearer token can be generated from the AppTrust Integrations page of your JFrog tool. For more information, see [Integration with JFrog AppTrust application](../concept/integration-with-jfrog-apptrust-application.md).
+            **Note:** Bearer token can be generated from the AppTrust Integrations page of your JFrog tool. For more information, see [Integration with JFrog AppTrust application](integration-with-jfrog-apptrust-application.md).
 
     4.  Select the MID Server option and enter its details if your JFrog instance is attached to a MID Server.
 
@@ -97,7 +97,7 @@ Steps
 
 5.  Permission checks are run based on the credential type and credentials that you entered.
 
-    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. The credentials that you specified must have the Administer Platform role in JFrog for seamless discovery and import of tool objects. This is a limitation from JFrog. For detailed information on all the required permissions, see Jira permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. The credentials that you specified must have the Administer Platform role in JFrog for seamless discovery and import of tool objects. This is a limitation from JFrog. For detailed information on all the required permissions, see Jira permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
     You can choose to continue with the tool connection even if you don't have all the required permissions.
 
@@ -131,5 +131,5 @@ Steps
 
 You’ve successfully onboarded your JFrog tool to DevOps Change Velocity.
 
-**Parent Topic:**[JFrog integration with DevOps Change Velocity](../concept/devops-jfrog-integration.md)
+**Parent Topic:**[JFrog integration with DevOps Change Velocity](devops-jfrog-integration.md)
 

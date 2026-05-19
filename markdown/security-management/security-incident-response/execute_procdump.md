@@ -46,5 +46,5 @@ The output variables contain data that can be used in subsequent actions.
 |response|A JSON representation of the result of the procdump.|
 |result|The result of the procdump.|
 
-**Parent Topic:**[Run procdump flow](../concept/invoke_procdump.md)
+**Parent Topic:**[Run procdump flow](invoke_procdump.md)
 

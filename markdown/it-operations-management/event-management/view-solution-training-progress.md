@@ -40,5 +40,5 @@ Role required: evt\_mgmt\_admin
 
 See [Review Event Management similarity examples](view-similarity-examples.md).
 
-**Parent Topic:**[Alert similarity](../concept/alert-similarity.md)
+**Parent Topic:**[Alert similarity](alert-similarity.md)
 

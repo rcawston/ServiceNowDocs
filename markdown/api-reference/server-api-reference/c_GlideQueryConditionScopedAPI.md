@@ -38,7 +38,7 @@ Always test queries on a sub-production instance prior to deploying them on a pr
 
 You can set the **glide.invalid\_query.returns\_no\_rows** system property to true to have queries with invalid encoded queries return no records. In some cases, the query may still return records in API results even when **glide.invalid\_query.returns\_no\_rows** is set to true. This happens in queries where an invalid query term is used with a WHERE operator. In such queries, the WHERE operator ignores the invalid term\(s\) but still interprets and returns the rest of the query statement. For more information about this system property and its functionality, see [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideQueryCondition - addCondition\(String name, String oper, Object value\)
 
@@ -138,7 +138,7 @@ category=Hardware^ORcategory=Network^number=INC0000003
 
 Appends a two-or-three parameter OR condition to an existing GlideQueryCondition.
 
-This method works in conjunction with [GlideRecord addQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) to `OR` the specified query parameters to the query previously constructed using addQuery\(\).
+This method works in conjunction with [GlideRecord addQuery\(\)](c_GlideRecordScopedAPI.md#) to `OR` the specified query parameters to the query previously constructed using addQuery\(\).
 
 The addOrCondition\(\) can be called with only two parameters, table field and comparison value, such as `qc.addOrCondition('category', 'software');`. The operator in this case is assumed to be "equal to".
 
@@ -272,10 +272,10 @@ Use this method when system-level access is intended, so that query ACL enforcem
 Additional methods for system-level access that bypass query ACL checks:
 
 -   [addSystemOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
--   [GlideRecord - addSystemEncodedQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addSystemOrderBy\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addSystemOrderByDesc\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addSystemQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addSystemEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addSystemOrderBy\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addSystemOrderByDesc\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addSystemQuery\(\)](c_GlideRecordScopedAPI.md#)
 
 <table id="table_vy2_525_jq" class="parameters"><thead><tr><th>
 
@@ -399,12 +399,12 @@ Use this method when system-level access is intended, so that query ACL enforcem
 Additional methods for system-level access that bypass query ACL checks:
 
 -   [addSystemCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
--   [GlideRecord - addSystemEncodedQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addSystemOrderBy\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addSystemOrderByDesc\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addSystemQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addSystemEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addSystemOrderBy\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addSystemOrderByDesc\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addSystemQuery\(\)](c_GlideRecordScopedAPI.md#)
 
-The addSystemOrCondition\(\) method works with the [GlideRecord addSystemQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) method to `OR` the specified query parameters to the query previously constructed using addSystemQuery\(\).
+The addSystemOrCondition\(\) method works with the [GlideRecord addSystemQuery\(\)](c_GlideRecordScopedAPI.md#) method to `OR` the specified query parameters to the query previously constructed using addSystemQuery\(\).
 
 <table id="table_vy2_625_jq" class="parameters"><thead><tr><th>
 
@@ -533,10 +533,10 @@ Related methods:
 Additional methods for enforcing query ACL checks:
 
 -   [addUserOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
--   [GlideRecord - addUserEncodedQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addUserOrderBy\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addUserOrderByDesc\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addUserQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addUserEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addUserOrderBy\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addUserOrderByDesc\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addUserQuery\(\)](c_GlideRecordScopedAPI.md#)
 
 <table id="table_vy2_525_jq" class="parameters"><thead><tr><th>
 
@@ -657,7 +657,7 @@ Appends a two-or-three parameter OR condition to an existing GlideQueryCondition
 
 This method returns only records that the current user has query access to \(based on ACLs\).
 
-The addUserOrCondition\(\) method works with the [GlideRecord addUserQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) method to `OR` the specified query parameters to the query previously constructed using addUserQuery\(\).
+The addUserOrCondition\(\) method works with the [GlideRecord addUserQuery\(\)](c_GlideRecordScopedAPI.md#) method to `OR` the specified query parameters to the query previously constructed using addUserQuery\(\).
 
 Related methods:
 
@@ -667,10 +667,10 @@ Related methods:
 Additional methods for enforcing query ACL checks:
 
 -   [addUserCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
--   [GlideRecord - addUserEncodedQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addUserOrderBy\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addUserOrderByDesc\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
--   [GlideRecord - addUserQuery\(\)](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addUserEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addUserOrderBy\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addUserOrderByDesc\(\)](c_GlideRecordScopedAPI.md#)
+-   [GlideRecord - addUserQuery\(\)](c_GlideRecordScopedAPI.md#)
 
 <table id="table_vy2_625_jq" class="parameters"><thead><tr><th>
 

@@ -38,7 +38,7 @@ Use this dashboard when you wish to dive into open requests divided by Age.
 -   **[Open Request Reports dashboard](open-request-reports-dashboard.md)**  
 To view the current state of open requests, see the Open Request Reports.
 
-**Parent Topic:**[Request Management in a Service Management application](../../../product/planning-and-policy/concept/rm-sm-application.md)
+**Parent Topic:**[Request Management in a Service Management application](rm-sm-application.md)
 
 **Related topics**  
 

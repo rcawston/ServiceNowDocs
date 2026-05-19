@@ -70,5 +70,5 @@ Fields that are visible in the activity formatter.Add any additional fields need
 </table>3.  Select **Save** to save your changes.
 
 
-**Parent Topic:**[Configuring Operational Technology Incident Management](../concept/configuring-operational-technology-incident-mgt.md)
+**Parent Topic:**[Configuring Operational Technology Incident Management](configuring-operational-technology-incident-mgt.md)
 

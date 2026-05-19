@@ -103,7 +103,7 @@ Configure the connection and credential alias. You can configure the default ali
 
 To configure the default alias, refer to [Configure strict mode Connection and Credential alias for Microsoft Exchange Online](configure-strict-mode-connection-and-credential-alias-for-msex.md).
 
-**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](../concept/strict-mode-configurations-for-connection-with-msex.md)
+**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](strict-mode-configurations-for-connection-with-msex.md)
 
 **Related topics**  
 

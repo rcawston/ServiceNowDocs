@@ -77,7 +77,7 @@ Enable or disable screenshot capture during test execution.
 
  **sn\_atf.screenshots.mode**
 
- **Note:** For additional information, see [Set the system property to control when the Automated Test Framework captures screenshots](../concept/atf-screenshot-modes.md#)
+ **Note:** For additional information, see [Set the system property to control when the Automated Test Framework captures screenshots](atf-screenshot-modes.md#)
 
 </td><td>
 

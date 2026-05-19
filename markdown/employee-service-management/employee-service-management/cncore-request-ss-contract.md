@@ -32,7 +32,7 @@ If the generated contract document doesn’t require any changes, the requester 
 
 A workflow for a self-served contract request might progress as follows:
 
-1.  The Contract requester initiates a contract request. For more information, see [Initiating a contract or amendment request](../task/cncore-initiate-contract.md).
+1.  The Contract requester initiates a contract request. For more information, see [Initiating a contract or amendment request](../contract-management-pro/cncore-initiate-contract.md).
     -   If there are no validation errors, a contract request is created in the Work in progress state.
     -   If there are any signatory validation errors, the contract requester resolves them and resubmits the contract request.
 2.  A contract document is generated from a contract template and the metadata, clauses, signatories, and tables are added dynamically according to predefined conditions.

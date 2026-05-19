@@ -23,11 +23,11 @@ Security Operations contains several workflow triggers in the base system:
 
 -   **Rescan vulnerable group**
 
-    Rescans a vulnerable group, using the [Scan vulnerability workflow](../../vulnerability-response-orchestration/task/scan-vulnerability-workflow.md), when you **Close/Ignore** the group.
+    Rescans a vulnerable group, using the [Scan vulnerability workflow](vulnerability-response/scan-vulnerability-workflow.md), when you **Close/Ignore** the group.
 
 -   **Rescan vulnerable item**
 
-    Rescans a vulnerable item, using the [Scan vulnerability item workflow](../../vulnerability-response-orchestration/task/scan-vulnerable-item-workflow.md) when you **Close/Ignore** the item.
+    Rescans a vulnerable item, using the [Scan vulnerability item workflow](vulnerability-response/scan-vulnerable-item-workflow.md) when you **Close/Ignore** the item.
 
 
 Roles required:
@@ -128,5 +128,5 @@ Select the filter group to use for defining workflow triggers. This field appear
 6.  Select **Update**.
 
 
-**Parent Topic:**[Security Operations workflow triggers](../concept/workflow-triggers.md)
+**Parent Topic:**[Security Operations workflow triggers](workflow-triggers.md)
 

@@ -23,13 +23,13 @@ Role required: sn\_grc\_rel\_config.admin
 
 2.  Update the properties in the form.
 
-    For information on the properties in the form, see [Data Relationships Framework properties form](../reference/data-rel-framework-properties-form.md).
+    For information on the properties in the form, see [Data Relationships Framework properties form](data-rel-framework-properties-form.md).
 
 3.  Select **Save**.
 
 
--   **[Data Relationships Framework properties form](../reference/data-rel-framework-properties-form.md)**  
+-   **[Data Relationships Framework properties form](data-rel-framework-properties-form.md)**  
 Use the Data Relationships Framework properties form to configure the relationship properties for Data Relationships Framework APIs.
 
-**Parent Topic:**[Data Relationships Framework](../concept/data-relationship-framework.md)
+**Parent Topic:**[Data Relationships Framework](data-relationship-framework.md)
 

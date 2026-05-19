@@ -65,5 +65,5 @@ The escalation severity defines the type of escalation and the color used to rep
 **Related topics**  
 
 
-[Case and account escalation](../concept/customer-service-case-escalation.md)
+[Case and account escalation](customer-service-case-escalation.md)
 

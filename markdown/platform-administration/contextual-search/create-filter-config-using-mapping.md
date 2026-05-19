@@ -97,5 +97,5 @@ Option to activate the filter configuration.
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Filter configuration for contextual search](../concept/filter-configuration-for-cxs.md)
+**Parent Topic:**[Filter configuration for contextual search](filter-configuration-for-cxs.md)
 

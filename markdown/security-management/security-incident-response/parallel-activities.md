@@ -31,5 +31,5 @@ To overcome this, in the base system an activity definition called **Update Task
 
 A process definition always requires a trigger condition. But, if you aren’t sure when the process should be triggered, you can still create a process definition with a dummy trigger condition. Set the trigger condition as **sys\_id is empty**. This condition will never be met.
 
-**Parent Topic:**[Create playbooks for Manual Phishing in Workflow Studio](../task/create-process-manual-phishing.md)
+**Parent Topic:**[Create playbooks for Manual Phishing in Workflow Studio](create-process-manual-phishing.md)
 

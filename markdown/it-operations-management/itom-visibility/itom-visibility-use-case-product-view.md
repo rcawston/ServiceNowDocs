@@ -38,16 +38,16 @@ For details on implementing CMDB data to conform with the CSDM framework, see [I
 
 [Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implementation-stages.md).
 
-[Discovery basics](../../discovery/concept/c_GetStartedWithDiscovery.md).
+[Discovery basics](../discovery/c_GetStartedWithDiscovery.md).
 
-[Service Mapping](../../service-mapping/reference/c_ServiceMappingOverview.md).
+[Service Mapping](../service-mapping/c_ServiceMappingOverview.md).
 
--   **[ITOM Visibility and CMDB tables](../reference/itom-visibility-use-case.md)**  
+-   **[ITOM Visibility and CMDB tables](itom-visibility-use-case.md)**  
 ITOM Visibility manages and uses CMDB tables. Several ServiceNow products benefit from and add value to ITOM Visibility.
 -   **[ITOM Visibility use case](itom-visibility-use-case-example.md)**  
 The ITOM Visibility use cases are described in this section.
 -   **[ITOM Visibility considerations for CSDM framework](itom-visibility-use-case-trouble.md)**  
 Consider these points while implementing the CSDM framework.
 
-**Parent Topic:**[ITOM Visibility reference](../reference/visibility-reference.md)
+**Parent Topic:**[ITOM Visibility reference](visibility-reference.md)
 

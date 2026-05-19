@@ -18,7 +18,7 @@ This automated assessment process evaluates potential implementation impacts and
 
 Navigate to **Workspaces** &gt; **Now Assist Readiness Evaluation** and select the agentic AI assessment icon ![](../image/agentic-ai-icon.png) to review your agentic AI assessment.
 
-**Note:** Before viewing your agentic AI assessments, you must first have run the scheduled job to get the assessment results. If you haven't run your scheduled jobs, you are prompted to do so on an individual job level. For more information on running scheduled jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](../task/run-genai-agenticai-assessment-scheduled-job.md).
+**Note:** Before viewing your agentic AI assessments, you must first have run the scheduled job to get the assessment results. If you haven't run your scheduled jobs, you are prompted to do so on an individual job level. For more information on running scheduled jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](run-genai-agenticai-assessment-scheduled-job.md).
 
 The summary tab provides a consolidated summary of overall findings along with summarization and resolution notes for ITSM and CSM. The results shown are estimates. You should evaluate results provided by Now Assist Readiness Evaluation for accuracy and appropriateness for your use case.
 
@@ -49,5 +49,5 @@ You can select **Download Report** to export the entire agentic assessment repor
 
 ![The Agentic AI - ITSM assessment is shown and includes the relevant questions and records.](../image/nare-agentic-ai-assessment-itsm.png "Example of the Agentic AI - ITSM assessment")
 
-After reviewing the assessment and making the suggested assessment changes, rerun your scheduled jobs to see how your results improve. For more information on rerunning a specific job or all jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](../task/run-genai-agenticai-assessment-scheduled-job.md).
+After reviewing the assessment and making the suggested assessment changes, rerun your scheduled jobs to see how your results improve. For more information on rerunning a specific job or all jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](run-genai-agenticai-assessment-scheduled-job.md).
 

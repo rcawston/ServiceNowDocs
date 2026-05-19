@@ -29,7 +29,7 @@ By default, the User Profile Based Recommendation solution definition is configu
 -   The Predictive Intelligence \(com.glide.platform\_ml\) plugin is installed.
 -   The**glide.platform\_ml.auto\_training.enabled** system property is set to true.
 
-You can [manually train the predictive model](../task/hr-predictive-intelligence-train.md) if it is not auto trained by default. After you manually train the predictive model, navigate to the **HR AI configuration** module, open the Similar users group record, and map the configured solution definition.
+You can [manually train the predictive model](hr-predictive-intelligence-train.md) if it is not auto trained by default. After you manually train the predictive model, navigate to the **HR AI configuration** module, open the Similar users group record, and map the configured solution definition.
 
 ## Configuring widget options
 
@@ -40,5 +40,5 @@ You can also configure the following widget options:
 
 To configure the widget options, navigate to the **Service Portal Configuration** module, select the widget editor, search for **Relevant for you**, and click **Edit Option Schema**.
 
-**Parent Topic:**[Machine learning solutions for HR Service Delivery](predictive-intelligence-for-hr-service-delivery-1.md)
+**Parent Topic:**[Machine learning solutions for HR Service Delivery](../employee-service-management/predictive-intelligence-for-hr-service-delivery-1.md)
 

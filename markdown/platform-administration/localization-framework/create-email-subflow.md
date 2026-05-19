@@ -196,5 +196,5 @@ Represents the email table.
 
 Use the published subflow to define the translation preference for a language.
 
-**Parent Topic:**[Localization Framework settings](../concept/localization-settings.md)
+**Parent Topic:**[Localization Framework settings](localization-settings.md)
 

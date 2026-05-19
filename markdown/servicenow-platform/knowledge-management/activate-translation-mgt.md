@@ -43,5 +43,5 @@ Translation management also requires enabling the **glide.knowman.translation.en
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configure translation management](../concept/configure-translation-management.md)
+**Parent Topic:**[Configure translation management](configure-translation-management.md)
 

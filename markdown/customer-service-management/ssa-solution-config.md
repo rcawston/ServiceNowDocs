@@ -69,7 +69,7 @@ A ServiceNow AI Platform administrator must have installed the content pack plug
 **Related topics**  
 
 
-[Platform Analytics Solutions for Self-Service Analytics for Customer Service](../../dashboards/application-content-packs/ssa-cs-content-pack.md)
+[Platform Analytics Solutions for Self-Service Analytics for Customer Service](analytics-and-reporting-solutions-for-customer-service/ssa-cs-content-pack.md)
 
 [Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/self-service-analytics.md)
 

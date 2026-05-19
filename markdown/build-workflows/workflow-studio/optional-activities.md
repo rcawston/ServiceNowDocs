@@ -24,7 +24,7 @@ As an example, if you have a playbook for a Security Incident, a playbook admin 
 The flow of working with optional activities:
 
 1.  Turn on and add optional activities to a playbook in Workflow Studio.
-2.  Optional activities are configured like other activities. To see [design an automated process](../task/design-automated-process.md).
+2.  Optional activities are configured like other activities. To see [design an automated process](design-automated-process.md).
 3.  Agents add optional activities in Playbook Experience.
 
 **Parent Topic:**[Stages and activities](process-automation-designer-lanes-activities.md)
@@ -32,29 +32,29 @@ The flow of working with optional activities:
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](../task/add-configure-stage.md)
+[Add and configure a stage in a playbook](add-configure-stage.md)
 
 [Activity definitions](activity-definitions.md)
 
-[Add and configure an activity in a playbook](../task/add-configure-activity.md)
+[Add and configure an activity in a playbook](add-configure-activity.md)
 
-[Use AI agent as an activity](../task/ai-agent-as-activity.md)
+[Use AI agent as an activity](ai-agent-as-activity.md)
 
 [Automation Assets](automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](start-with-delay-properties.md)
 
-[Decision activities](../task/create-a-decision-activity.md)
+[Decision activities](create-a-decision-activity.md)
 
-[Decision stages](../task/create-decision-stage.md)
+[Decision stages](create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](questionnaire-activity.md)
 
-[Parallel branches](../task/create-parallel-activity.md)
+[Parallel branches](create-parallel-activity.md)
 
-[Add dynamic inputs to an activity](../task/add-dynamic-inputs-to-activity.md)
+[Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](playbook-activity-state-mapping.md)
 
 ## Add an Optional Activity to a playbook
 

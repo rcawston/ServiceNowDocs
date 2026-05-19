@@ -38,7 +38,7 @@ Role required: sn\_apm.apm\_analyst
 9.  Select **Save**.
 
 
-**Parent Topic:**[Working with digital integrations](../../concept/eaw-concept/eaw-work-with-digital-integrations.md)
+**Parent Topic:**[Working with digital integrations](eaw-work-with-digital-integrations.md)
 
 **Related topics**  
 

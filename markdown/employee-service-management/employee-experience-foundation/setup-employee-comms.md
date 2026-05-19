@@ -17,18 +17,18 @@ Inform and engage your employees.
 
 Employee Center Pro provides a robust suite of features to create, publish, and manage employee communications in a variety of content types and delivery channels. Follow these steps to setup employee communications features:
 
-1.  Make Content Publishing features available to content managers and employees: [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+1.  Make Content Publishing features available to content managers and employees: [Properties installed with Content Publishing](properties-with-content-delivery.md).
 2.  Set up content translation \(optional\): [Configure Localization Framework for Content Publishing](ec-int-localization-framework.md)
 3.  Customize the out-of-the-box widgets \(optional\):
 
-    -   [Modify the Content Experiences widget](../task/ecpro-edit-cew.md)
-    -   [Modify the Featured News widget](../task/modify-featured-news-widget.md)
-    -   [Modify the News feed widget](../task/modify-news-feed-widget-display.md)
-    To view all the widgets installed with Content Publishing, see the widgets section of [Components installed with Content Publishing](../reference/installed-with-content-delivery.md).
+    -   [Modify the Content Experiences widget](ecpro-edit-cew.md)
+    -   [Modify the Featured News widget](modify-featured-news-widget.md)
+    -   [Modify the News feed widget](modify-news-feed-widget-display.md)
+    To view all the widgets installed with Content Publishing, see the widgets section of [Components installed with Content Publishing](installed-with-content-delivery.md).
 
     For information on translating custom widgets, see [Translate a client script message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateAClientScriptMessage.md)
 
-    To publish content to a custom widget, you must define the content type and associate it with your custom widget: [Add or modify content type for Content Publishing](../task/ecpro-manage-content-types.md)
+    To publish content to a custom widget, you must define the content type and associate it with your custom widget: [Add or modify content type for Content Publishing](ecpro-manage-content-types.md)
 
 4.  Review the Employee communications features table below and configure the features relevant to your use case.
 

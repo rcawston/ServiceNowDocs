@@ -35,7 +35,7 @@ You can configure activation conditions and triggers for a result improvement ru
 
 4.  On the AI Search Results Improvement Rule form, fill in the fields.
 
-    For a description of the field values, see [AI Search Results Improvement Rule form](../reference/result-improvement-rule-form-ais.md).
+    For a description of the field values, see [AI Search Results Improvement Rule form](result-improvement-rule-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -51,5 +51,5 @@ You can configure activation conditions and triggers for a result improvement ru
 
 To make new or updated result improvement rule settings take effect, publish the search profile that you edited. For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Result improvement rules](../concept/result-improvement-rules-ais.md)
+**Parent Topic:**[Result improvement rules](result-improvement-rules-ais.md)
 

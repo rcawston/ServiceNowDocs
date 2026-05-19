@@ -30,15 +30,15 @@ You can create a work order from the following integrated record types:
 
 -   **Incident**
 
-    Use Field Service in Incident Management to create work orders from incidents. For more information, see [Integration with Incident Management](incident-for-fsm.md).
+    Use Field Service in Incident Management to create work orders from incidents. For more information, see [Integration with Incident Management](field-service-integrations/incident-for-fsm.md).
 
 -   **Change**
 
-    Use Field Service in Change Management to create work orders from change requests while on a live call or chat with the customer. For more information, see [Integration with Change Management](change-for-fsm.md).
+    Use Field Service in Change Management to create work orders from change requests while on a live call or chat with the customer. For more information, see [Integration with Change Management](field-service-integrations/change-for-fsm.md).
 
 -   **Project task**
 
-    Use Field Service in Project Portfolio Management to create work orders from project tasks. For more information, see [Integration with Project Portfolio Management](project-management-integration.md).
+    Use Field Service in Project Portfolio Management to create work orders from project tasks. For more information, see [Integration with Project Portfolio Management](field-service-integrations/project-management-integration.md).
 
 -   **Service requests**
 
@@ -48,7 +48,7 @@ You can create a work order from the following integrated record types:
 **Related topics**  
 
 
-[Configuring work order templates](../../it-services/concept/c_WorkOrderTemplates.md)
+[Configuring work order templates](work-order-management/c_WorkOrderTemplates.md)
 
-[Prepare work orders](preparing-work-orders.md)
+[Prepare work orders](work-order-management/preparing-work-orders.md)
 

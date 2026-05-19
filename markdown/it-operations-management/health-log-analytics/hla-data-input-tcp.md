@@ -39,15 +39,15 @@ Role required: evt\_mgmt\_admin
 
 3.  Choose the TCP data input type.
 
-    **Note:** The selected data input type complements the passive data input \(listener\). For more information, see [Supported data inputs for Health Log Analytics](../reference/hla-data-input-supported.md).
+    **Note:** The selected data input type complements the passive data input \(listener\). For more information, see [Supported data inputs for Health Log Analytics](hla-data-input-supported.md).
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [TCP data input configuration fields](../reference/hla-data-input-tcp-ref.md).
+    For a description of the fields, see [TCP data input configuration fields](hla-data-input-tcp-ref.md).
 
 5.  Select **Advanced** to set additional configuration fields.
 
-    For a description of the fields, see [TCP data input configuration fields](../reference/hla-data-input-tcp-ref.md). For information about configuring the advanced settings later, see [Configure advanced settings for Rsyslog, Splunk, or TCP data inputs in Health Log Analytics manually](hla-data-input-adv-rsyslog-splunk.md).
+    For a description of the fields, see [TCP data input configuration fields](hla-data-input-tcp-ref.md). For information about configuring the advanced settings later, see [Configure advanced settings for Rsyslog, Splunk, or TCP data inputs in Health Log Analytics manually](hla-data-input-adv-rsyslog-splunk.md).
 
 6.  Select **Save**.
 
@@ -77,7 +77,7 @@ The data input configuration process is complete. Health Log Analytics adds the 
 
 [Make sure that the data input is streaming data.](hla-data-input-streaming.md)
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 
 **Related topics**  
 

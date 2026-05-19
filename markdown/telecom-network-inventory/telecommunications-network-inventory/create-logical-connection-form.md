@@ -88,10 +88,10 @@ Bandwidth
 Bandwidth of this logical connection.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Design and assign GPON broadband service](../concept/gpon-broadband-service.md)
+[Design and assign GPON broadband service](gpon-broadband-service.md)
 

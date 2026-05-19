@@ -57,7 +57,7 @@ Role required: admin
 
 After the instance is configured for the mobile app, configure the app settings to distribute the app to mobile devices in the scope.
 
-**Parent Topic:**[Jamf Pro mobile device management \(MDM\)](../concept/jamf-mdm.md)
+**Parent Topic:**[Jamf Pro mobile device management \(MDM\)](jamf-mdm.md)
 
 **Related topics**  
 

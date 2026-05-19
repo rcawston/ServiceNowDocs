@@ -36,7 +36,7 @@ Role required: sn\_eam.enterprise\_asset\_technician and sn\_eamenterprise\_asse
 
 The list of open repair orders for the stockroom is displayed.
 
-**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](../concept/fulfill-eam-repair-orders-in-ws.md)
+**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](fulfill-eam-repair-orders-in-ws.md)
 
 **Related topics**  
 

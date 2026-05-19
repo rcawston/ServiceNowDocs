@@ -43,7 +43,7 @@ If you have the sn\_oper\_res.manager role, you can create a scenario analysis. 
 
     The logged-in user is automatically assigned as the owner of the analysis.
 
-    For the descriptions of the field values on the User New record form, see [Create New Scenario analysis form](../reference/scenario-analyses-reference-in-ws.md).
+    For the descriptions of the field values on the User New record form, see [Create New Scenario analysis form](scenario-analyses-reference-in-ws.md).
 
     A sample scenario analysis form is shown in the following example.
 

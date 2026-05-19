@@ -15,7 +15,7 @@ breadcrumb: [CMDB schema model, Explore, Configuration Management Database \(CMD
 
 Attributes, identification rule, and other important schema structures for Virtual Machine related classes.
 
-For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](cmdb-tables-details.md).
 
 ## Schema description​
 

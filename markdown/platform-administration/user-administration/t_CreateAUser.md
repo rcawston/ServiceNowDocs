@@ -116,7 +116,7 @@ Web service access only
 
 </td><td>
 
-It designates a user as a non-interactive user. This field is available with [Non-Interactive Sessions](../concept/c_NonInteractiveSessions.md#).**Note:** The Web service access only check box is automatically enabled when you select **Machine** in the Identity type field. The Web service access only check box is automatically disabled when you select **Human** or **AI**.
+It designates a user as a non-interactive user. This field is available with [Non-Interactive Sessions](c_NonInteractiveSessions.md#).**Note:** The Web service access only check box is automatically enabled when you select **Machine** in the Identity type field. The Web service access only check box is automatically disabled when you select **Human** or **AI**.
 
 </td></tr><tr><td>
 
@@ -255,12 +255,12 @@ Attach a photo of the user, if appropriate.
 
 4.  Add **Roles**, **Groups**, **Delegates**, **Skills**, and **Subscriptions** to the user.
 
-    For more information, see [Managing roles](../../roles/concept/ua-creating-roles.md), [Creating groups](../../roles/concept/ua-creating-groups.md), and [Delegating roles](../../roles/concept/c_DelegateRoles.md).
+    For more information, see [Managing roles](ua-creating-roles.md), [Creating groups](ua-creating-groups.md), and [Delegating roles](c_DelegateRoles.md).
 
 5.  Select **Submit**.
 
     The new user record appears in the list.
 
 
-**Parent Topic:**[Creating users](../../roles/concept/ua-creating-users.md)
+**Parent Topic:**[Creating users](ua-creating-users.md)
 

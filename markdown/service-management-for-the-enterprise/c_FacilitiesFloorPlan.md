@@ -24,7 +24,7 @@ Use the floor plan as follows:
 7.  Facilities staff members perform the tasks necessary to fulfill the request.
 8.  The assigned facilities staff members close their tasks, allowing the request to be closed.
 
--   **[Create a facility request from the floor plan](../task/t_CreateFacReqWorkbench.md)**  
+-   **[Create a facility request from the floor plan](t_CreateFacReqWorkbench.md)**  
 All users in your organization can create any facility requests that your facilities admin \[facilities\_admin\] has enabled on the floor plan view.
 
 **Parent Topic:**[Interactive facility maps](c_InteractiveFacilityMaps.md)

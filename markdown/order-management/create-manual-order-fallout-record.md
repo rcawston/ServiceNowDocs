@@ -43,7 +43,7 @@ You can create manual records as needed basis so that you can raise awareness of
 
 10. On the form, fill in the fields.
 
-    For information about field descriptions, see the Create Fallout form fields section in [Field descriptions for Fallout Management](../reference/fields-create-fallout-form.md).
+    For information about field descriptions, see the Create Fallout form fields section in [Field descriptions for Fallout Management](fields-create-fallout-form.md).
 
 11. Select **Save**.
 
@@ -55,12 +55,12 @@ When you create a manual fallout record, or an automated one is generated, the f
 -   Its **State** field changes to On hold, with a comment on which logged-in user caused it to change.
 -   In the Activity section, a work order note indicates that the order task state has changed from its former state, usually In Progress, to On hold. A work order note with the message `A fallout record FOnnnn has been created` also appears.
 
-**Parent Topic:**[Managing order fallout](../concept/fallout-management-overview.md)
+**Parent Topic:**[Managing order fallout](fallout-management-overview.md)
 
 **Related topics**  
 
 
-[Fallout Management data model](../concept/order-mgt-fallout-management.md)
+[Fallout Management data model](order-mgt-fallout-management.md)
 
 [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
 

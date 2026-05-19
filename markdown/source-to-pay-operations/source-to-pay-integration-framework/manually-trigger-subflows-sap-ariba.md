@@ -54,7 +54,7 @@ Role required: sn\_fcms\_intg.admin
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Use flows in SAP Ariba](../concept/use-flows-sap-ariba.md)
+**Parent Topic:**[Use flows in SAP Ariba](use-flows-sap-ariba.md)
 
 **Related topics**  
 

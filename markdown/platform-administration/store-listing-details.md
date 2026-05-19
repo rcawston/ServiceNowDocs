@@ -21,11 +21,11 @@ The listing details header shows procurement options, as well as basic informati
 
 ![Now Assist Admin Console header displaying Accept Terms procurement option.](../image/store-details-header.png)
 
-There are a number of possible procurement options and additional statuses that can be found in the listing details header. For a description of the different procurement options, see [ServiceNow Store procurement options](../reference/store-procurement-ops.md).
+There are a number of possible procurement options and additional statuses that can be found in the listing details header. For a description of the different procurement options, see [ServiceNow Store procurement options](store-procurement-ops.md).
 
 Procurement options might be updated or replaced with status messages depending on what actions you take. For example, once you request a trial, the button with that option is replaced with a status message letting you know the trial has been requested. After the trial has been approved, the message will be replaced with an option to start the 30-day trial.
 
-Application status messages in the ServiceNow Store are based only on the procurement status of an application. After an application is fully procured, a message that it's available for installation is displayed. Installation can be managed through the Application Manager. For more information, see [Application Manager](../../application-manager/concept/application-manager.md).
+Application status messages in the ServiceNow Store are based only on the procurement status of an application. After an application is fully procured, a message that it's available for installation is displayed. Installation can be managed through the Application Manager. For more information, see [Application Manager](application-manager/application-manager.md).
 
 ## App details
 

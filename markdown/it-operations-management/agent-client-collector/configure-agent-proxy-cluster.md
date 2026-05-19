@@ -56,5 +56,5 @@ The **Proxy Agent Clusters** page appears and displays the agent added to the cl
 
 Select this proxy cluster to monitor CIs specified in an agent policy. For details, see [Configure an agent on a proxy server](configure-agent-proxy-server.md).
 
-**Parent Topic:**[Using proxy agents in Agent Client Collector](../concept/proxy-agent.md)
+**Parent Topic:**[Using proxy agents in Agent Client Collector](proxy-agent.md)
 

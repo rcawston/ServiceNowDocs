@@ -37,5 +37,5 @@ Role required: admin
 
 
 
-**Parent Topic:**[Use hashtags in Live Feed](../concept/c_UseHashtagsInLiveFeed.md)
+**Parent Topic:**[Use hashtags in Live Feed](c_UseHashtagsInLiveFeed.md)
 

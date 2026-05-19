@@ -19,18 +19,18 @@ This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) 
 
 The solution setup-to-training flow is as follows:
 
-1.  Create a dataset using the [DatasetDefinition](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) API.
-2.  Optional. Build an encoder using the [Encoder](../../Encoder/concept/EncoderAPI.md#) API.
+1.  Create a dataset using the [DatasetDefinition](DatasetDefinitionAPI.md#) API.
+2.  Optional. Build an encoder using the [Encoder](EncoderAPI.md#) API.
 3.  Use the [constructor](RegressionSolutionAPI.md#) to create a regression solution object.
-4.  Add the solution object to the regression solution store using the [RegressionSolutionStore - add\(\)](../../RegressionSolutionStore/concept/RegressionSolutionStoreAPI.md#) method.
-5.  Train the solution using the [submitTrainingJob\(\)](RegressionSolutionAPI.md#) method. This creates a version of the object that you can manage using the [RegressionSolutionVersion](../../RegressionSolutionVersion/concept/RegressionSolutionVersionAPI.md#) API.
-6.  Get predictions using the [RegressionSolutionVersion – predict\(\)](../../RegressionSolutionVersion/concept/RegressionSolutionVersionAPI.md#) method.
+4.  Add the solution object to the regression solution store using the [RegressionSolutionStore - add\(\)](RegressionSolutionStoreAPI.md#) method.
+5.  Train the solution using the [submitTrainingJob\(\)](RegressionSolutionAPI.md#) method. This creates a version of the object that you can manage using the [RegressionSolutionVersion](RegressionSolutionVersionAPI.md#) API.
+6.  Get predictions using the [RegressionSolutionVersion – predict\(\)](RegressionSolutionVersionAPI.md#) method.
 
 **Note:** This API runs with full privileges before the Vancouver Patch 7 Hotfix 2b and Washington DC Patch 7 releases. With later releases, grant access using ACLs. For more information see [Query ACLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/query-acl-rule.md).
 
 For usage guidelines, refer to [Using ML APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/using-ml-apis.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## RegressionSolution - RegressionSolution\(Object config\)
 
@@ -468,7 +468,7 @@ Contents of the Dataset and [RegressionSolution\(\)](RegressionSolutionAPI.md#) 
 
 </td><td>
 
-Lists the properties of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object associated with the solution.
+Lists the properties of the [DatasetDefinition\(\)](DatasetDefinitionAPI.md#) object associated with the solution.
 
  ```
 {
@@ -552,7 +552,7 @@ Domain name associated with this dataset. See [Domain separation and Predictive 
 
 </td><td>
 
-Encoder object assigned to this solution. See [Encoder - Encoder\(Object config\)](../../Encoder/concept/EncoderAPI.md#).Data type: Object.
+Encoder object assigned to this solution. See [Encoder - Encoder\(Object config\)](EncoderAPI.md#).Data type: Object.
 
 </td></tr><tr><td>
 
@@ -699,7 +699,7 @@ Gets a solution by provided version number.
 
 |Type|Description|
 |----|-----------|
-|Object|Specified version of the [RegressionSolution\(\)](RegressionSolutionAPI.md#) object on which you can call [RegressionSolutionVersion](../../RegressionSolutionVersion/concept/RegressionSolutionVersionAPI.md#) API methods.|
+|Object|Specified version of the [RegressionSolution\(\)](RegressionSolutionAPI.md#) object on which you can call [RegressionSolutionVersion](RegressionSolutionVersionAPI.md#) API methods.|
 
 The following example shows how to get the training status of a solution by version number.
 
@@ -762,7 +762,7 @@ sn_ml.RegressionSolution.setActiveVersion("ml_incident_categorization");
 
 Submits a training job.
 
-**Note:** Before running this method, you must first add a solution to the store using the [RegressionSolutionStore - add\(\)](../../RegressionSolutionStore/concept/RegressionSolutionStoreAPI.md#) method.
+**Note:** Before running this method, you must first add a solution to the store using the [RegressionSolutionStore - add\(\)](RegressionSolutionStoreAPI.md#) method.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -770,7 +770,7 @@ Submits a training job.
 
 |Type|Description|
 |----|-----------|
-|Object|[RegressionSolutionVersion](../../RegressionSolutionVersion/concept/RegressionSolutionVersionAPI.md#) object corresponding to the [RegressionSolution](RegressionSolutionAPI.md#) being trained.|
+|Object|[RegressionSolutionVersion](RegressionSolutionVersionAPI.md#) object corresponding to the [RegressionSolution](RegressionSolutionAPI.md#) being trained.|
 
 The following example shows how to create a dataset, apply it to a solution, add the solution to a store, and submit the training job.
 

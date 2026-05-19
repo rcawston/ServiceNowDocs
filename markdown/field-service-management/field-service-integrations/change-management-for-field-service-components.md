@@ -17,7 +17,7 @@ Various plugins, script includes, and business rules are installed with the Chan
 
 ## Plugin
 
-The Change Management for Field Service application \(sn\_fsm\_chg\_mng\) plugin must be activated. For more information on the steps to activate a plugin, see [Install Change Management for Field Service](../task/install-change-for-fsm.md).
+The Change Management for Field Service application \(sn\_fsm\_chg\_mng\) plugin must be activated. For more information on the steps to activate a plugin, see [Install Change Management for Field Service](install-change-for-fsm.md).
 
 <table id="table_ikv_hhv_wqb"><thead><tr><th>
 

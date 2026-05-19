@@ -15,7 +15,7 @@ The C\# connector method enables you to execute the custom C\# scripts you had w
 
 ## Execute
 
-Executes C\# scripts set up in the configuration window. Before executing the method, you must configure the connector. See [Configure the C\#.Net connector](../task/configure-C-net-connector.md).
+Executes C\# scripts set up in the configuration window. Before executing the method, you must configure the connector. See [Configure the C\#.Net connector](configure-C-net-connector.md).
 
 To execute, do the following steps.
 
@@ -32,5 +32,5 @@ To execute, do the following steps.
 |---------|-----------|--------------|---------|-------------|---------|
 |Result|Returns the output of the script.|Data Out|String|Not applicable|Not applicable|
 
-**Parent Topic:**[C\#.Net](../concept/c.md)
+**Parent Topic:**[C\#.Net](c.md)
 

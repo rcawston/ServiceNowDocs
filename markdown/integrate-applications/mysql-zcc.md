@@ -18,5 +18,5 @@ A connection admin can create a connection to MySQL and give data stewards acces
 **Related topics**  
 
 
-[Create a MySQL connection](../task/create-mysql-connection-zcc.md)
+[Create a MySQL connection](create-mysql-connection-zcc.md)
 

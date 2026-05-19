@@ -76,5 +76,5 @@ Release Items \[rm\_m2m\_release\_task\]
 Represents work items and change records associated to the release.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release Management](../concept/c_ITILReleaseManagement.md)
+</table>**Parent Topic:**[Release Management](c_ITILReleaseManagement.md)
 

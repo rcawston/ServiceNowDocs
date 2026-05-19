@@ -33,27 +33,27 @@ Contract Management Pro for Legal Service Delivery supports the following additi
 
 If you want to start using the features, migrate the Legal Simple Contracts data to Contract Management Pro for Legal Service Delivery, a licensed application that must be installed separately.
 
-For more information, see [Migrating to Contract Management Pro for Legal Service Delivery](../concept/migration-landing-page.md).
+For more information, see [Migrating to Contract Management Pro for Legal Service Delivery](migration-landing-page.md).
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, paralegal staff, and lawyers use Legal Simple Contracts.](../concept/legal-simple-contracts-overview.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, paralegal staff, and lawyers use Legal Simple Contracts.](legal-simple-contracts-overview.md)
 
 </td><td>
 
-[Setup ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up contract templates, deflection rules, third-party integrations, and other configurations.](../concept/setting-up-legal-contracts.md)
+[Setup ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up contract templates, deflection rules, third-party integrations, and other configurations.](setting-up-legal-contracts.md)
 
 </td><td>
 
-[Request ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Submit and track legal requests for contracts.](../concept/legal-request-nda.md)
+[Request ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Submit and track legal requests for contracts.](legal-request-nda.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Manage legal requests for contracts.](../task/work-on-legal-contract-request.md)
+[Manage ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Manage legal requests for contracts.](work-on-legal-contract-request.md)
 
 </td><td>
 
-[![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Analytics and Reporting Coordinate work and improve processes with preconfigured dashboards.](../../../use/application-content-packs/concept/legalsd-content-pack.md)
+[![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Analytics and Reporting Coordinate work and improve processes with preconfigured dashboards.](../legal-service-delivery/legalsd-content-pack.md)
 
 </td><td>
 

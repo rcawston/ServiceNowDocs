@@ -68,12 +68,12 @@ When a user submits a request for a catalog item, records are generated in the f
 
 **Note:** The base system workflow attached to the request is demo data.
 
-**Parent Topic:**[Exploring Request Management](../../request-management/concept/exploring-request-management.md)
+**Parent Topic:**[Exploring Request Management](exploring-request-management.md)
 
 **Related topics**  
 
 
-[Create a catalog request in Agent Workspace](../../service-catalog-management/task/create-request-workspace.md)
+[Create a catalog request in Agent Workspace](create-request-workspace.md)
 
-[Create a request from Universal Request](../../request-management/task/create-request-from-ur.md)
+[Create a request from Universal Request](create-request-from-ur.md)
 

@@ -53,5 +53,5 @@ The Dependency Assessment tree view opens in the same browser window from which 
 
 The tree view of the selected dashboard opens.
 
-**Parent Topic:**[Dependency Assessment](../../performance-analytics/concept/impact-analysis.md)
+**Parent Topic:**[Dependency Assessment](impact-analysis.md)
 

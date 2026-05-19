@@ -15,7 +15,7 @@ breadcrumb: [Use, Unified Map, Configuration Management Database \(CMDB\), Confi
 
 Manipulating the contents and layout of a map can greatly assist with envisioning and optimizing your CMDB. You can control which elements appear on the map, isolate and analyze relationships between CIs, and simplify the map to isolate issues.
 
-**Important:** This topic describes changes that you can make to your view of the map. The changes do not affect other users. In contrast, administrators can configure general settings that affect all users in the workspace, as described in [Configuring Unified Map — admin settings](../concept/administer-unified-map.md).
+**Important:** This topic describes changes that you can make to your view of the map. The changes do not affect other users. In contrast, administrators can configure general settings that affect all users in the workspace, as described in [Configuring Unified Map — admin settings](administer-unified-map.md).
 
 ## Save a map as a PDF document
 
@@ -75,7 +75,7 @@ Select the Filter icon ![](../image/icon-um-filter.png)
 
  **Note:** Filter settings that would filter out the home node might appear in the list. You can't, however, filter out the home node even if it meets filter settings.
 
- For more information, see [Use filters to specify which nodes should appear on a map](../task/unified-map-configure-filters.md).
+ For more information, see [Use filters to specify which nodes should appear on a map](unified-map-configure-filters.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Show/hide filtered items
 
 Select the Show/Hide filtered items icon ![](../image/icon-um-show-hide-filtered-items.png) to expose the filtered items on the map as dimmed view-only nodes.
 
- For more information, see [Use filters to specify which nodes should appear on a map](../task/unified-map-configure-filters.md).
+ For more information, see [Use filters to specify which nodes should appear on a map](unified-map-configure-filters.md).
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Show or hide the timeline
 
 </td><td>
 
-Select the Show/Hide timeline icon ![](../image/icon-um-toggle-timeline.png). For more information, see [Viewing related items on the Unified Map timeline](../concept/unified-map-timeline-working-on.md).
+Select the Show/Hide timeline icon ![](../image/icon-um-toggle-timeline.png). For more information, see [Viewing related items on the Unified Map timeline](unified-map-timeline-working-on.md).
 
 </td></tr><tr><td>
 
@@ -169,7 +169,7 @@ View non-operational CIs
 -   The **Open Map** button on a CI form isn't available for non-operational CIs.
 -   Only CIs for which the **Life Cycle Stage** attribute is **Operational** or empty appear on maps.
 
- An administrator can change the default behavior to show non-operational CIs or CIs of any combination of **Life Cycle Stage** values. For more information, see [Configure CIs to appear based on life cycle stage value](../task/unified-map-confg-operational-state.md).
+ An administrator can change the default behavior to show non-operational CIs or CIs of any combination of **Life Cycle Stage** values. For more information, see [Configure CIs to appear based on life cycle stage value](unified-map-confg-operational-state.md).
 
 </td></tr></tbody>
 </table>## Controlling map appearance

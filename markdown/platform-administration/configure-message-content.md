@@ -85,7 +85,7 @@ Message
 
 </td><td>
 
-Enter the content of the message. Use notification variables to include dynamic information in your message. For example, use `Incident ${number}` to include the incident number in the message. For available variables, see [Notification variables](../concept/notification-variables.md).
+Enter the content of the message. Use notification variables to include dynamic information in your message. For example, use `Incident ${number}` to include the incident number in the message. For available variables, see [Notification variables](notification-variables.md).
 
 </td></tr><tr><td>
 
@@ -148,5 +148,5 @@ This example shows the output of a message in Microsoft Teams. This message is o
 
 Use the message in a notification. For more information about creating notifications, see [Create a messaging notification](create-messaging-notification.md).
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](messaging-integration.md)
 

@@ -15,23 +15,23 @@ As an administrator, use this section to set up the Operational Sustainability M
 
 -   **[Operational Sustainability Management \(formerly ESG Management\) implementation](esg-implementation.md)**  
 Use the steps in the ServiceNow® Operational Sustainability Management application checklist to download the Operational Sustainability Management from the ServiceNow Store, and get it ready for operation. Mandatory and optional setup steps, as well as an implementation checklist are provided to simplify the setup.
--   **[Create a material topic](../task/create-material-topics.md)**  
+-   **[Create a material topic](create-material-topics.md)**  
 Create material topics for your organization so that you can identify the areas where you want to make an operational sustainability impact.
--   **[Create an Operational Sustainability Management \(formerly ESG Management\) goal](../task/create-esg-goal.md)**  
+-   **[Create an Operational Sustainability Management \(formerly ESG Management\) goal](create-esg-goal.md)**  
 Establish operational sustainability goals to track your progress toward your chosen material topics.
--   **[Create an Operational Sustainability Management \(formerly ESG Management\) target](../task/create-esg-target.md)**  
+-   **[Create an Operational Sustainability Management \(formerly ESG Management\) target](create-esg-target.md)**  
 Create an operational sustainability target to help track the progress towards your operational sustainability goal.
 -   **[Set up the emission factor library](set-up-the-emission-factor-library.md)**  
 To calculate your emissions accurately, you must set up your emission factor library. The emission factor library consists of emission factors, emission activities, activity sources and factor locations.
--   **[Create a new schedule](../task/create-a-new-schedule.md)**  
+-   **[Create a new schedule](create-a-new-schedule.md)**  
 Create a schedule or modify an existing schedule to calculate the due date for metric data tasks.
--   **[Create related list groupings](../task/create-related-list-groupings.md)**  
+-   **[Create related list groupings](create-related-list-groupings.md)**  
 Simplify the groupings of related lists on a record page and customize them to your specific needs, assigning meaningful names in the process. This configuration enhances readability and user experience when interacting with the forms.
 -   **[Configure Sustainable IT](configure-sustainable-it.md)**  
 Follow the order of the steps to configure the Sustainable IT plugin.
--   **[Activate or update a framework and install citations using the Unified content management](../task/install-citations-frameworks-from-esg-content-accelerator.md)**  
+-   **[Activate or update a framework and install citations using the Unified content management](install-citations-frameworks-from-esg-content-accelerator.md)**  
 Activate or update your chosen framework and select the citations for the framework you've selected. This will install the framework and the selected citations and metric definitions on your instance.
--   **[Filter citations documents for Operational Sustainability Management \(formerly ESG Management\)](../task/filter-citations-and-authority-documents-for-esg.md)**  
+-   **[Filter citations documents for Operational Sustainability Management \(formerly ESG Management\)](filter-citations-and-authority-documents-for-esg.md)**  
 Set the functional domain to **Operational Sustainability Management** to view only those citations that are specific to the operational sustainability domain. This ability to select the domain enables you to see only those citations that are relevant to you. The same procedure applies to authority documents as well.
 -   **[Configuring the Scope 3 dashboard](configuring-the-scope-3-dashboard.md)**  
 To view data on the Scope 3 dashboard, you must configure the emission category types to define the categories for which you want to report scope 3 data.

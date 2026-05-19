@@ -73,5 +73,5 @@ Role required: admin
     A successful message appears and the connection is established.
 
 
-**Parent Topic:**[Integrate Major Security Incident Management with Microsoft SharePoint](../concept/integrate-msim-sharepoint.md)
+**Parent Topic:**[Integrate Major Security Incident Management with Microsoft SharePoint](integrate-msim-sharepoint.md)
 

@@ -50,5 +50,5 @@ Role required: sn\_compliance.attestation\_creator
     For more information, see [Attestation Designer](../concept/c_Attestations.md#).
 
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](allow-other-app-policy-except.md)
 

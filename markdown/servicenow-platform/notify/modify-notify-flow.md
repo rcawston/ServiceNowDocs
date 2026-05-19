@@ -53,5 +53,5 @@ Role required: admin
 
 In order to use your workflow, you can test and map the subflow to a Notify number group. To map the subflow, you must navigate to **All** &gt; **Notify** &gt; **Number Groups**. Select a Notify group, and then map the created subflow.
 
-**Parent Topic:**[Notify flows](../concept/notify-flow-designer.md)
+**Parent Topic:**[Notify flows](notify-flow-designer.md)
 

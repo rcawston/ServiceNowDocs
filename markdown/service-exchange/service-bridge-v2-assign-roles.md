@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-A user role is a preconfigured role in the application consisting of multiple granular roles. The user roles are designed to correspond to the common job titles for managers, analysts, and service owners in an IT organization. For more details, see [User roles for providers](../concept/service-bridge-v2-personas.md).
+A user role is a preconfigured role in the application consisting of multiple granular roles. The user roles are designed to correspond to the common job titles for managers, analysts, and service owners in an IT organization. For more details, see [User roles for providers](service-bridge-v2-personas.md).
 
 ## Procedure
 

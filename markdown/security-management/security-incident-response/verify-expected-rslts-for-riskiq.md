@@ -68,19 +68,19 @@ For supported observables, the ServiceNow AI Platform scans for the most recent 
 
 If you cannot view expected results, verify that the observable is supported by the SSL certificate lookup for the integration.
 
--   **[RISKIQ SSL certificate lookups that return an exact match](../reference/riskiq_ssl_exact_match.md)**  
+-   **[RISKIQ SSL certificate lookups that return an exact match](riskiq_ssl_exact_match.md)**  
 RISKIQ SSL certificate lookup results for an exact match are displayed on the **SSL Certificates** tab on the security incident record. An exact match provides a valid certificate authority name, which helps a security incident analyst determine the validity of a website.
--   **[RISKIQ SSL certificate lookups that return multiple certificates or no certificates](../reference/riskiq_ssl_no_match.md)**  
+-   **[RISKIQ SSL certificate lookups that return multiple certificates or no certificates](riskiq_ssl_no_match.md)**  
 A security incident analyst can use multiple SSL certificate results to determine whether a site is part of a common, recognizable entity. No SSL certificate results may indicate sites with obscure or suspicious names have no trusted certificates. Lookup results for observables that do not return SSL certificates, or that return multiple SSL certificates, are displayed on the Observable Enrichment Results tab on the security incident record.
 
-**Parent Topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Parent Topic:**[RISKIQ and WHOISIQ integration](riskiq-lookups.md)
 
 **Previous topic:**[Install and configure RISKIQ and WHOISIQ](install-and-config-riskiq.md)
 
-**Next topic:**[RISKIQ SSL certificate lookups that return an exact match](../reference/riskiq_ssl_exact_match.md)
+**Next topic:**[RISKIQ SSL certificate lookups that return an exact match](riskiq_ssl_exact_match.md)
 
 **Related topics**  
 
 
-[Supported observables for RISKIQ and RISKIQ WHOISIQ](../reference/riskiq_supported_obsv.md)
+[Supported observables for RISKIQ and RISKIQ WHOISIQ](riskiq_supported_obsv.md)
 

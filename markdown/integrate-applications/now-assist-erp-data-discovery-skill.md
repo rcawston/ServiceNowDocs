@@ -30,7 +30,7 @@ The sn\_erp\_integration.erp\_ai\_user role is required to work with generative 
 
 ## Prerequisites for using ERP data discovery
 
-Follow the instructions in [Configure Now Assist for Zero Copy Connector](../task/configure-now-assist-for-zero-copy-connectors.md) to install the plugin.
+Follow the instructions in [Configure Now Assist for Zero Copy Connector](configure-now-assist-for-zero-copy-connectors.md) to install the plugin.
 
 ## Asking Now Assist for ERP data
 

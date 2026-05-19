@@ -39,8 +39,8 @@ Identify, assess, mitigate, and monitor all IT risks.
 
 </td><td>
 
--   [Create a risk assessment scope in the Risk Workspace](../task/create-risk-asses-scope-workspace.md).
--   [Schedule risk assessments in the Risk Workspace](../task/schedule-risk-assessment-workspace.md).
+-   [Create a risk assessment scope in the Risk Workspace](create-risk-asses-scope-workspace.md).
+-   [Schedule risk assessments in the Risk Workspace](schedule-risk-assessment-workspace.md).
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Define the key risk and control indicators.
 
 </td><td>
 
-[Risk indicators, control indicators, and indicator templates](../../grc-risk/concept/manage-indicators-risk.md)
+[Risk indicators, control indicators, and indicator templates](manage-indicators-risk.md)
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Create control test plans
 
 </td><td>
 
-[Create a test plan in Risk Workspace](../task/create-test-plan-in-risk-ws.md)
+[Create a test plan in Risk Workspace](create-test-plan-in-risk-ws.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[GRC Risk Workspace](risk-workspace.md)

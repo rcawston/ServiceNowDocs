@@ -72,15 +72,15 @@ After the fiscal calendar has been generated, don’t change either **Start date
 
 **Note:**
 
--   The legacy functions that you may have used, on the **System Scheduler** &gt; **Schedules** and Fiscal Calendar menus, to define schedules and fiscal calendars, continue to be supported. However, you should use the Business Calendar menu in their places to define calendars and schedules and then associate them with specific ServiceNow AI Platform packages. To learn more about defining and using business calendars, see [Creating business calendars](../../../administer/time/concept/business-calendars.md).
--   For Strategic Portfolio Management \(SPM\) applications, you must define Fiscal Calendars using the [Generate a fiscal calendar](../task/t_GenerateFiscalCalendar.md) feature.
+-   The legacy functions that you may have used, on the **System Scheduler** &gt; **Schedules** and Fiscal Calendar menus, to define schedules and fiscal calendars, continue to be supported. However, you should use the Business Calendar menu in their places to define calendars and schedules and then associate them with specific ServiceNow AI Platform packages. To learn more about defining and using business calendars, see [Creating business calendars](business-calendars.md).
+-   For Strategic Portfolio Management \(SPM\) applications, you must define Fiscal Calendars using the [Generate a fiscal calendar](t_GenerateFiscalCalendar.md) feature.
 
--   **[Activate Fiscal Calendar plugin](../task/activate-fiscal-calendar.md)**  
+-   **[Activate Fiscal Calendar plugin](activate-fiscal-calendar.md)**  
 If you have the admin role, you can activate the Fiscal Calendar plugin \(com.snc.fiscal\_calendar\). This plugin includes demo data and activates related plugins if they are not already active.
--   **[Generate a fiscal calendar](../task/t_GenerateFiscalCalendar.md)**  
+-   **[Generate a fiscal calendar](t_GenerateFiscalCalendar.md)**  
 You can generate a fiscal calendar for a specified time period.
--   **[View, modify, and validate fiscal periods - Legacy](../task/t_ViewFiscalPeriods.md)**  
+-   **[View, modify, and validate fiscal periods - Legacy](t_ViewFiscalPeriods.md)**  
 After you generate a fiscal calendar, you can view fiscal period records, modify the start and end date, deactivate a fiscal period if necessary, and validate.
 
-**Parent Topic:**[Using time configuration](../../../administer/time/using-time-configuration.md)
+**Parent Topic:**[Using time configuration](using-time-configuration.md)
 

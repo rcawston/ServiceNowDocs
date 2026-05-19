@@ -89,5 +89,5 @@ A condition script, enabling administrators to implement more powerful condition
 
 The **My Results** tab displays search results for the currently logged-in user. The **&lt;user-name&gt; Results** tab displays search results for the user referenced in the **Search as field**.
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

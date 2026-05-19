@@ -20,9 +20,9 @@ Create a dashboard where you can add Performance Analytics widgets, data visuali
 
 If you're new to dashboards, the Visualize and Next Experience Dashboards sections of the ServiceNow University [Platform Analytics \(PA\) Overview training](https://learning.servicenow.com/lxp/en/now-intelligence/platform-analytics-pa-overview?id=learning_course_prev&course_id=fb9decf8932f06905402393d6cba10f6&s=1&ssa=3) provide an overview of these features. \(Registration and enrollment required.\)
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Create a dashboard with the in-line editor](../../dashboards/task/create-db-in-ac.md).
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Create a dashboard with the in-line editor](../create-db-in-ac.md).
 
-Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [Migrate dashboards that you own](../../par-for-workspace/task/data-migration-migrate-dbs-you-own.md).
+Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [Migrate dashboards that you own](../data-migration-migrate-dbs-you-own.md).
 
 The dashboard overview in the Platform Analytics library shows both Core UI and Platform Analytics experience dashboards.
 
@@ -89,14 +89,14 @@ The dashboard owner. Only a user with the administrator role can change this val
 </td></tr></tbody>
 </table>5.  Select the **Restrict to roles** edit icon ![](../../../administer/process-mining/image/edit-icon.png) to specify the roles that a user must have to access this dashboard.
 
-    For more information, see [Share a responsive dashboard](../../dashboards/task/t_ControlAccessToADashboard.md).
+    For more information, see [Share a responsive dashboard](t_ControlAccessToADashboard.md).
 
 6.  Users with admin, pa\_admin, and pa\_power\_user roles can configure these additional fields:
 
     |Field|Description|
     |-----|-----------|
     |**Group**|Select the magnifier icon to add the dashboard to a **Group**. Groups organize dashboards in the dashboard picker list. Grouped dashboards appear at the top of the list. Ungrouped dashboards appear in the list under **Other**.|
-    |**Breakdown Source**|Select one or more breakdown sources in the **Breakdown Source** related list. Breakdowns enable users to filter Performance Analytics data on the dashboard. The **Breakdown Source** related list is available on the Dashboard form after you create the dashboard. For more information, see [Using breakdowns on dashboards](../concept/c_SpecialDashboards.md).|
+    |**Breakdown Source**|Select one or more breakdown sources in the **Breakdown Source** related list. Breakdowns enable users to filter Performance Analytics data on the dashboard. The **Breakdown Source** related list is available on the Dashboard form after you create the dashboard. For more information, see [Using breakdowns on dashboards](c_SpecialDashboards.md).|
     |**Act as filter**|You can configure a Performance Analytics breakdown on a dashboard to act as an interactive filter for reports on the dashboard. The dashboard must be configured as a breakdown dashboard. Select the interactive filter that you want this breakdown source to act as.|
 
 7.  Select **Submit**.
@@ -108,14 +108,14 @@ The dashboard is created with no content. To add your first content, select a wi
 
 ## What to do next
 
-Add more content to your new dashboard. For more information, see [Edit a responsive dashboard](../../dashboards/task/t_EditADashboard.md).
+Add more content to your new dashboard. For more information, see [Edit a responsive dashboard](t_EditADashboard.md).
 
 **Related topics**  
 
 
-[Indicator breakdowns](../concept/c_CreatingBreakdowns.md)
+[Indicator breakdowns](c_CreatingBreakdowns.md)
 
-[Add a breakdown to a dashboard](../concept/c_SpecialDashboards.md)
+[Add a breakdown to a dashboard](c_SpecialDashboards.md)
 
-[Organize dashboards into groups](../../dashboards/task/t_GroupDashboards.md#)
+[Organize dashboards into groups](t_GroupDashboards.md#)
 

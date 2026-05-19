@@ -231,9 +231,9 @@ Role required: discovery\_admin
 
 [Discovery status](c_DiscoveryStatus.md)
 
-[Review the logs for horizontal discovery](../reference/r_DiscoveryLog.md#)
+[Review the logs for horizontal discovery](r_DiscoveryLog.md#)
 
-[The ECC queue for Discovery](../reference/r_DiscoveryStatusECCQueue.md)
+[The ECC queue for Discovery](r_DiscoveryStatusECCQueue.md)
 
 [Create Discovery schedules for cloud resources](discovery-manager.md#)
 

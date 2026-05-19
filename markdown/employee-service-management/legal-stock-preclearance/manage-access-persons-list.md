@@ -51,5 +51,5 @@ Role required: sn\_lg\_stock\_cp.stock\_config
     3.  Click **Update**.
 
 
-**Parent Topic:**[Configure Legal Stock Preclearance](../concept/legal-stock-pre-administration.md)
+**Parent Topic:**[Configure Legal Stock Preclearance](legal-stock-pre-administration.md)
 

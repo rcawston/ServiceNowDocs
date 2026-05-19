@@ -23,9 +23,9 @@ For example, consider a process project on the Incident \[incident\] table. The 
 
 ![Analyst Workbench showing breakdowns](../image/po-map-project-bkdowns.png)
 
-You can also see and change the breakdowns in the table configuration record for the project. For more information, see [Configure a breakdown definition](../../../administer/process-mining/task/configure-breakdown.md).
+You can also see and change the breakdowns in the table configuration record for the project. For more information, see [Configure a breakdown definition](process-mining/configure-breakdown.md).
 
-In the dashboard where you have added your Process Mining map for this project, you want users to be able to filter the map by Category. Category is a breakdown of the process project, so it is simple to add such a filter. When you create the filter, select the Incident table, then the Category field. This selection automatically applies to both the filter source and the date to filter, as described in [Configure a Single/Multiple select or cascading filter](../task/create-select-filter-workspace.md).
+In the dashboard where you have added your Process Mining map for this project, you want users to be able to filter the map by Category. Category is a breakdown of the process project, so it is simple to add such a filter. When you create the filter, select the Incident table, then the Category field. This selection automatically applies to both the filter source and the date to filter, as described in [Configure a Single/Multiple select or cascading filter](create-select-filter-workspace.md).
 
 ![Filter configuration showing the process project table and breakdown field](../image/po-map-filter-singleselect-source.png)
 
@@ -35,7 +35,7 @@ The filter applies to the Process Mining map the same as it does to a bar visual
 
 ## True/false filter on Process Mining maps
 
-For a true/false filter, you only select the data to filter. Again, select the table of the process project and a field that is used as a breakdown. Continuing with the project from the Single Select filter example, Active is a true/false, or Boolean, field that is used as a breakdown. Therefore, you can set a true/false filter to filter Incident.Active, and it will filter the Process Mining map. For more information, see [Configure a True/False filter](../task/create-boolean-filter-workspace.md).
+For a true/false filter, you only select the data to filter. Again, select the table of the process project and a field that is used as a breakdown. Continuing with the project from the Single Select filter example, Active is a true/false, or Boolean, field that is used as a breakdown. Therefore, you can set a true/false filter to filter Incident.Active, and it will filter the Process Mining map. For more information, see [Configure a True/False filter](create-boolean-filter-workspace.md).
 
 ![True/false filter configured to filter the Active field of the Incident table](../image/po-map-set-incident-active.png)
 

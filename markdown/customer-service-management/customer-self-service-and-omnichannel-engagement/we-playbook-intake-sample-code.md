@@ -96,11 +96,11 @@ open(secondaryURL,'_self');
 **Related topics**  
 
 
-[Configure the Playbook intake component instance](../task/config-playbook-intake-comp.md)
+[Configure the Playbook intake component instance](config-playbook-intake-comp.md)
 
-[Embed the Playbook intake component instance on the third-party website](../task/embed-playbook-intake-comp.md)
+[Embed the Playbook intake component instance on the third-party website](embed-playbook-intake-comp.md)
 
-[Component properties for the Playbook intake](we-playbook-intake-comp-prop.md)
+[Component properties for the Playbook intake](../we-playbook-intake-comp-prop.md)
 
-[Event handler in the Playbook intake component](we-playbook-intake-event-handler.md)
+[Event handler in the Playbook intake component](../we-playbook-intake-event-handler.md)
 

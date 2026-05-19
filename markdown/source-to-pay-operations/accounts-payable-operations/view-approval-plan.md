@@ -33,12 +33,12 @@ The approval engine converts each approval rule into one or multiple approval pl
 
 3.  On the Approval Plan form, review the fields.
 
-    For a description of the field values, see [Approval Plan form](../reference/approval-plan-form.md).
+    For a description of the field values, see [Approval Plan form](approval-plan-form.md).
 
 
 ## What to do next
 
 Use the related lists of the Approval Plan form to view the approval plan details and approvers associated with this approval plan.
 
-**Parent Topic:**[Invoice approvals](../concept/invoice-approvals.md)
+**Parent Topic:**[Invoice approvals](invoice-approvals.md)
 

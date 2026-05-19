@@ -30,7 +30,7 @@ The Platform Analytics experience has two main sections:
     The library is a set of pages listing all the Platform Analytics visual components that you can access, along with utilities that apply to these components. You can also create your own dashboards, data visualizations, and filters. With the appropriate roles, you can add the components you create to the shared library.
 
 
-**Note:** You can add an Analytics Overview with tabs for library content to your own configurable workspace. For more information, see [Creating Platform Analytics pages in your own workspace](../../performance-analytics/concept/adding-analytics-center-to-ws.md).
+**Note:** You can add an Analytics Overview with tabs for library content to your own configurable workspace. For more information, see [Creating Platform Analytics pages in your own workspace](adding-analytics-center-to-ws.md).
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -38,7 +38,7 @@ The Platform Analytics experience has two main sections:
 
 </td><td>
 
-[Data visualizations ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Create, update, certify, and share visualizations based on tables, indicators, or other data to share with others.](../../performance-analytics/concept/analytics-center-data-visualizations.md)
+[Data visualizations ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Create, update, certify, and share visualizations based on tables, indicators, or other data to share with others.](analytics-center-data-visualizations.md)
 
 </td><td>
 

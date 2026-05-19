@@ -15,7 +15,7 @@ breadcrumb: [Health and Safety Core, Health and Safety, Employee Service Managem
 
 With the Health and Safety dashboard, you can actively monitor and manage workplace safety performance across different locations in your organization and identify areas needing attention.
 
-When you have the Generative AI plugin installed, you can view the incident pattern analysis tab on the dashboard. For more information, see [Incident pattern analysis](../../now-assist-health-safety/concept/hs-incident-pattern-analysis.md).
+When you have the Generative AI plugin installed, you can view the incident pattern analysis tab on the dashboard. For more information, see [Incident pattern analysis](../now-assist-for-health-and-safety/hs-incident-pattern-analysis.md).
 
 ![Health and Safety dashboard showing safety incidents metrics in the Highlights, Incident Management, and Risk Management tabs.](../image/hs-health-safety-dashboard.gif)
 
@@ -35,11 +35,11 @@ The dashboard features several tabs to enable you to navigate between different 
 
 -   **Incident Patterns**
 
-    This tab provides safety managers with an automated, real-time overview of the recurring patterns across their safety incident data. For more information, see [Incident pattern analysis](../../now-assist-health-safety/concept/hs-incident-pattern-analysis.md).
+    This tab provides safety managers with an automated, real-time overview of the recurring patterns across their safety incident data. For more information, see [Incident pattern analysis](../now-assist-for-health-and-safety/hs-incident-pattern-analysis.md).
 
 -   **Incident Management**
 
-    This tab focuses on tracking and managing safety incidents, injuries, and observations. For detailed information on incident management metrics, see [Monitoring and analyzing safety incident metrics](../../ohs-incident-management/concept/hs-monitoring-analyzing-safety-incident-metrics.md).
+    This tab focuses on tracking and managing safety incidents, injuries, and observations. For detailed information on incident management metrics, see [Monitoring and analyzing safety incident metrics](../health-and-safety-incident-management/hs-monitoring-analyzing-safety-incident-metrics.md).
 
 -   **Establishment Metrics**
 
@@ -47,7 +47,7 @@ The dashboard features several tabs to enable you to navigate between different 
 
 -   **Risk Management**
 
-    This tab shows metrics identifying, assessing, and mitigating risks. For detailed information on safety risk management metrics, see [Monitoring and analyzing safety risk metrics](../../hs-risk-management/concept/hs-monitoring-analyzing-safety-risk-metrics.md).
+    This tab shows metrics identifying, assessing, and mitigating risks. For detailed information on safety risk management metrics, see [Monitoring and analyzing safety risk metrics](../health-and-safety-risk-management/hs-monitoring-analyzing-safety-risk-metrics.md).
 
 
 ## Customizing widgets
@@ -68,7 +68,7 @@ To open the Health and Safety dashboard, navigate to **Workspaces** &gt; **Healt
 **Related topics**  
 
 
-[Monitoring and analyzing safety incident metrics](../../ohs-incident-management/concept/hs-monitoring-analyzing-safety-incident-metrics.md)
+[Monitoring and analyzing safety incident metrics](../health-and-safety-incident-management/hs-monitoring-analyzing-safety-incident-metrics.md)
 
-[Monitoring and analyzing safety risk metrics](../../hs-risk-management/concept/hs-monitoring-analyzing-safety-risk-metrics.md)
+[Monitoring and analyzing safety risk metrics](../health-and-safety-risk-management/hs-monitoring-analyzing-safety-risk-metrics.md)
 

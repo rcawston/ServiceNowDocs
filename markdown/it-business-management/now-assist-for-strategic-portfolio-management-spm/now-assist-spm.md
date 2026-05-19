@@ -35,7 +35,7 @@ Use the ServiceNow® Now Assist for Strategic Portfolio Management \(SPM\) appli
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Now Assist for SPM](../reference/now-assist-spm-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Now Assist for SPM](now-assist-spm-reference.md)
 
 </td><td>
 

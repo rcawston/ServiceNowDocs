@@ -25,7 +25,7 @@ Role required: admin
 
 -   Some CSDM tables have been introduced recently so you might not be familiar with them. See the documentation for your product to learn about unfamiliar tables.
 -   You can continue to use customized or non-conforming CMDB tables. If you do so, however, you might not get the full benefit of your products.
--   Be sure to use the migration tools that are described in [Assistance with the CSDM life-cycle synchronization process](../concept/csdm-migrate-tools.md).
+-   Be sure to use the migration tools that are described in [Assistance with the CSDM life-cycle synchronization process](csdm-migrate-tools.md).
 
 **Manage the attributes that you're using.** Rationalize your custom attributes. Use the following guidelines to decide whether you really must keep all customizations:
 
@@ -89,10 +89,10 @@ After running the scripts and evaluating the data, you will have a better idea o
 
 You have successfully migrated your application to the CSDM framework, and your data is in the required CMDB locations.
 
--   **[Assistance with the CSDM life-cycle synchronization process](../concept/csdm-migrate-tools.md)**  
+-   **[Assistance with the CSDM life-cycle synchronization process](csdm-migrate-tools.md)**  
 Several features help you to promote accuracy and completeness for the process of syncing legacy data with life-cycle data in the CSDM framework.
--   **[Legacy status values that are auto-updated](../reference/csdm-lifecycle-status-auto-updated.md)**  
+-   **[Legacy status values that are auto-updated](csdm-lifecycle-status-auto-updated.md)**  
 Several legacy statuses are automatically mapped to the **Life Cycle Stage** and **Life Cycle Stage Status** fields.
 
-**Parent Topic:**[Configuring CSDM](../concept/configure-csdm.md)
+**Parent Topic:**[Configuring CSDM](configure-csdm.md)
 

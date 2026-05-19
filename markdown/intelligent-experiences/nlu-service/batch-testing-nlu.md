@@ -25,7 +25,7 @@ Multi-model Batch Testing works with models for all supported NLU languages. See
 
 Multi-model Batch Testing is part of the NLU Workbench - Advanced Features app available on the ServiceNow® Store.
 
-To use Multi-model Batch Testing, ensure that the NLU Workbench - Advanced Features \(com.snc.nlu.workbench.advanced\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](../task/install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](../task/activate-nlu-workbench.md).
+To use Multi-model Batch Testing, ensure that the NLU Workbench - Advanced Features \(com.snc.nlu.workbench.advanced\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](activate-nlu-workbench.md).
 
 ## Test sets
 
@@ -37,9 +37,9 @@ By including these types of utterances, the test better assesses the model's abi
 
 **Note:** Certain test utterances are skipped during the test if their expected intent does not match any intents in the models.
 
-To create a test set, see [Create a test set](../task/import-batch-test-set.md).
+To create a test set, see [Create a test set](import-batch-test-set.md).
 
-After you have a test set, you can test trained NLU models. To begin testing, see [Run a multi-model batch test](../task/run-batch-test.md).
+After you have a test set, you can test trained NLU models. To begin testing, see [Run a multi-model batch test](run-batch-test.md).
 
 After running a test, your results appear on the **Test results** page.
 

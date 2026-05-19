@@ -74,7 +74,7 @@ In this example, create an indicator group with all the indicators that refer to
 **Related topics**  
 
 
-[List widgets](../reference/list-widgets.md)
+[List widgets](list-widgets.md)
 
 [Create a relative compare visualization for a time series widget](create-relative-compare-ts.md)
 

@@ -104,5 +104,5 @@ Exchange rate date
 First date of the fiscal period corresponding to the benefit plan breakdown.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

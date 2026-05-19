@@ -53,7 +53,7 @@ Clauses that are imported from the Microsoft Word document are used to build a c
 6.  View the clause variations associated with a clause by selecting the Display/hide hierarchical lists icon \(![Display/hide hierarchical lists](../image/lsd-icon-hirerachy-lists.png)\) for the clause.
 
 
-**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](../concept/cncore-setup-ct-add-in.md)
+**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-setup-ct-add-in.md)
 
 **Related topics**  
 

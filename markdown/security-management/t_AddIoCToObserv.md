@@ -34,7 +34,7 @@ Role required: sn\_ti.admin
 7.  Click **Save**.
 
 
-**Parent Topic:**[Observables](../concept/c_Observables.md)
+**Parent Topic:**[Observables](c_Observables.md)
 
 **Related topics**  
 

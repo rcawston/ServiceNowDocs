@@ -27,7 +27,7 @@ At least one of the following properties or sets of properties must be provided:
 -   country
 -   latitude and longitude
 
--   **[Define Location](../task/tisc-define-location.md)**  
+-   **[Define Location](tisc-define-location.md)**  
 Define a geographic location to provide more context to other SDOs.
 
 **Parent Topic:**[Threat Entities](tisc-threat-entities.md)

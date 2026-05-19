@@ -38,7 +38,7 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Universal Request plugins](../concept/ur-plugins.md)
+**Parent Topic:**[Universal Request plugins](ur-plugins.md)
 
 **Related topics**  
 

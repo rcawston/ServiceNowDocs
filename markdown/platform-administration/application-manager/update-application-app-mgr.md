@@ -40,7 +40,7 @@ Role required: admin or sn\_appclient.app\_client\_user
 
 5.  If the application or plugin has dependencies, verify that all necessary dependencies can be updated or installed.
 
-    If any dependencies are categorized as **Needs to be procured from store**, procure the necessary dependencies and sync the Application Manager with the ServiceNow Store before continuing. For more information about unavailable dependencies that block updates, see [Updating applications](../concept/updating-apps-app-manager.md).
+    If any dependencies are categorized as **Needs to be procured from store**, procure the necessary dependencies and sync the Application Manager with the ServiceNow Store before continuing. For more information about unavailable dependencies that block updates, see [Updating applications](updating-apps-app-manager.md).
 
 6.  Install the update now or schedule installation for a later time.
 
@@ -79,5 +79,5 @@ Procedure
 
 If you choose to install the update now, the application or plugin and its dependencies begin updating immediately. Scheduled updates begin at the chosen date and time.
 
-**Parent Topic:**[Updating applications](../concept/updating-apps-app-manager.md)
+**Parent Topic:**[Updating applications](updating-apps-app-manager.md)
 

@@ -69,5 +69,5 @@ If later, a permitted discovery source successfully inserts a CI that matches th
 3.  Later payloads in which the non-permitted discovery source updates the respective CI, run successfully.
 4.  IRE allows the discovery source, that was previously prohibited from inserting the CI, to update that same CI which now exists in the CMDB.
 
-**Parent Topic:**[Configuring CMDB Identification and Reconciliation](../concept/configuring-ire.md)
+**Parent Topic:**[Configuring CMDB Identification and Reconciliation](configuring-ire.md)
 

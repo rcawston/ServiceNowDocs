@@ -81,7 +81,7 @@ The following is an example of the workspace landing page for the Digital Produc
 
 In the workspace, you can use the Playbook to create release templates.
 
-The following is an example of a release template playbook. For more information, see [Create a release template](../task/dpr-create-release-template.md#).
+The following is an example of a release template playbook. For more information, see [Create a release template](dpr-create-release-template.md#).
 
 ![Release template Playbook in Digital Product Release Workspace.](../image/dpr-workspace-rls-template.png "Example of a release template playbook in the workspace")
 

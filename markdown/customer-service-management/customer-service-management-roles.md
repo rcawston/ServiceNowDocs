@@ -26,11 +26,11 @@ Besides the Base and Primary roles \(that are based on the Base roles\), there a
 For more information about reviewing and updating user role assignments, see:
 
 -   [KB0829930](https://support.servicenow.com/kb_view.do?sysparm_article=KB0829930)
--   [Fix external user role assignments](../concept/fixing-external-role-assignment.md)
+-   [Fix external user role assignments](fixing-external-role-assignment.md)
 
 To learn more about managing Customer Service Management roles, see [Components installed with CSM workspaces](installed-with-cust-serv-workspace.md) and [Components installed with additional plugins for Customer Service Management](inst-wi-cust-serv-addtl-plugins.md).
 
-**Parent Topic:**[Customer Service Management](../concept/c_CustomerServiceManagement.md)
+**Parent Topic:**[Customer Service Management](c_CustomerServiceManagement.md)
 
 ## Service management agent \[sn\_esm\_agent\]
 

@@ -25,7 +25,7 @@ For more information on support levels, see [Application support for domain sepa
 **Related topics**  
 
 
-[Install Purchase Order Management](../task/install-purch-order-mgmt.md)
+[Install Purchase Order Management](install-purch-order-mgmt.md)
 
 [Assigning priority to a purchase order](assigning-priority-to-po.md)
 

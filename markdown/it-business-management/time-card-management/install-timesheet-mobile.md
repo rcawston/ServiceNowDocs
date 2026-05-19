@@ -47,5 +47,5 @@ Enable the mobile experience for Mobile Time Sheets so users can fill out time s
 -   **[Use Mobile Time Sheets in Now Mobile](migrate-to-nowagent.md)**  
 You can configure your platform system to use Mobile Time Sheets in the Now Mobile application. By default, Mobile Time Sheets can be viewed in the Now Mobile application.
 
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](timesheet-mobile.md)
 

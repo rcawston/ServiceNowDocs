@@ -310,5 +310,5 @@ Gets the URL of the element.
 
 [Return \(String\)](method-parameter-ie.md#GetURL-output-return-string)
 
-**Parent Topic:**[IE connector](../concept/internet-explorer-connector.md)
+**Parent Topic:**[IE connector](internet-explorer-connector.md)
 

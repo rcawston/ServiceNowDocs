@@ -36,5 +36,5 @@ Discovery populates the data in the CMDB when running the Tuxedo pattern.
 |Version \[version\]|The specific release of Oracle Tuxedo that is installed and currently in use.|
 |Mode \[mode\]|The definition of the interaction protocol between Oracle Tuxedo and various clients or other domains, such as Jolt, Workstation, or Domain Gateway, based on the operational configuration.|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

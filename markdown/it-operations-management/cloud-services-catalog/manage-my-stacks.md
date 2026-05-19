@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_service\_user.root\_admin, admin, or sn\_cmp.cloud
 
 ## About this task
 
-When you request a life-cycle operation on a stack or resource, the system generates a change request. An approval policy specifies either that the change is auto-approved or that a user on the approver list must approve the change. For more information, see [.](../../cloud-management-v2/concept/cloud-policy.md)
+When you request a life-cycle operation on a stack or resource, the system generates a change request. An approval policy specifies either that the change is auto-approved or that a user on the approver list must approve the change. For more information, see [.](../cloud-configuration-governance/cloud-policy.md)
 
 ## Procedure
 
@@ -36,5 +36,5 @@ When you request a life-cycle operation on a stack or resource, the system gener
 4.  Search and sort all the operations that you performed by selecting **Stack Operations**.
 
 
-**Parent Topic:**[Exploring the My Stacks tab](../concept/manage-stacks.md)
+**Parent Topic:**[Exploring the My Stacks tab](manage-stacks.md)
 

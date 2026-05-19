@@ -43,5 +43,5 @@ Role required: admin
     |ID of related record|Auto-populates after the **Document table** field is filled.|
 
 
-**Parent Topic:**[Interaction management in Accounts Payable Operations](../concept/interaction-record.md)
+**Parent Topic:**[Interaction management in Accounts Payable Operations](interaction-record.md)
 

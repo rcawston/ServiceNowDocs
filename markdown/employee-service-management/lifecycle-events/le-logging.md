@@ -39,9 +39,9 @@ Lifecycle Events uses the following components to record event logs for the acti
     The **sn\_hr\_le.log\_level** property lets you specify the types of logs that are written to the HR Lifecycle Events Case Logs table.
 
 
--   **[Enable logging for Lifecycle Events](../task/le-enable-logging.md)**  
+-   **[Enable logging for Lifecycle Events](le-enable-logging.md)**  
 Use the **sn\_hr\_le.log\_level** system property to enable logging for Lifecycle Events. The log entries that are generated can be used to identify errors or to acquire pertinent data about the processes that ran in a Lifecycle Events case.
--   **[View log entries for a Lifecycle Events case](../task/le-view-logs.md)**  
+-   **[View log entries for a Lifecycle Events case](le-view-logs.md)**  
 View the log entries associated with a Lifecycle Events case to acquire pertinent information about the processes that ran and to identify any errors that surface. The error logs can be used as a tool to diagnose problems and effectively troubleshoot the root cause of an issue that is adversely affecting a Lifecycle Events case.
 
 **Parent Topic:**[Using Lifecycle Events](using-lifecycle-events.md)

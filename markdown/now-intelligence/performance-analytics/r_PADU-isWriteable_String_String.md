@@ -29,5 +29,5 @@ var pa = new SNC.PADomainUtils();
 pa.isWriteable('pa_incidents','cd8125b5140012007665a83e633b028d');
 ```
 
-**Parent Topic:**[PADomainUtils - Global](../concept/c_PADomainUtils.md)
+**Parent Topic:**[PADomainUtils - Global](c_PADomainUtils.md)
 

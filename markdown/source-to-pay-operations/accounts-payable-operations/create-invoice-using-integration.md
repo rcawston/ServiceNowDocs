@@ -27,7 +27,7 @@ Role required: sn\_spend\_intg\_admin or sn\_spend\_intg\_procurement\_integrato
 
 1.  Open `sn_spend_intg_imp_invoice_list.do` staging table.
 
-    The **Invoice Imports** lists the inbound invoice columns. For more information on the inbound fields, refer [Inbound Invoice Fields](../reference/inbound-invoice-fields.md).
+    The **Invoice Imports** lists the inbound invoice columns. For more information on the inbound fields, refer [Inbound Invoice Fields](inbound-invoice-fields.md).
 
     **Note:** If the required inbound fields are validated and entered, then the **Status** is set to inserted.
 

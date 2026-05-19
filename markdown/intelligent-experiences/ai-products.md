@@ -18,39 +18,39 @@ Choose one of these tiles to get started.
 
 <table id="table_kqk_ttx_r5b" class="nav-card"><tbody><tr><td>
 
-[ServiceNow AI implementation![](../../../reuse/icons/brand-icons/bus-rocketship.svg)Understand the elements of Now Assist and lay the groundwork for a seamless, intelligent experience across your workflows.](../../ai-implementation/concept/sn-ai-implementation-landing.md)
+[ServiceNow AI implementation![](../../../reuse/icons/brand-icons/bus-rocketship.svg)Understand the elements of Now Assist and lay the groundwork for a seamless, intelligent experience across your workflows.](sn-ai-implementation-landing.md)
 
 </td><td>
 
-[Now Assist AI assets![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Explore Now Assist generative AI skills, AI agents, and agentic workflows.](../../now-assist-skills/concept/platform-ai-assets-section.md)
+[Now Assist AI assets![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Explore Now Assist generative AI skills, AI agents, and agentic workflows.](platform-ai-assets-section.md)
 
 </td><td>
 
-[Large language models \(LLMs\) ![](../../../reuse/icons/brand-icons/bus-innovation.svg)Choose the Now LLM Service or supported third-party AI models for skills and agents.](../concept/exploring-large-language-models.md)
+[Large language models \(LLMs\) ![](../../../reuse/icons/brand-icons/bus-innovation.svg)Choose the Now LLM Service or supported third-party AI models for skills and agents.](servicenow-large-language-model-now-llm/exploring-large-language-models.md)
 
 </td></tr><tr><td>
 
-[Now Assist Admin![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use a personalized generative AI assistant and skills to enhance your work on the ServiceNow AI Platform.](../../now-assist-platform/concept/platform-now-assist-landing.md)
+[Now Assist Admin![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use a personalized generative AI assistant and skills to enhance your work on the ServiceNow AI Platform.](platform-now-assist-landing.md)
 
 </td><td>
 
-[Now Assist AI agents ![](../../../reuse/icons/brand-icons/bus-3-buildings.svg) Build and assemble use cases that drive business outcomes.](../../now-assist-ai-agents/reference/na-ai-agents.md)
+[Now Assist AI agents ![](../../../reuse/icons/brand-icons/bus-3-buildings.svg) Build and assemble use cases that drive business outcomes.](na-ai-agents.md)
 
 </td><td>
 
-[Now Assist Data Kit![](../../../reuse/icons/brand-icons/bus-database.svg)Add datasets to a data catalog.](../../now-assist-data-kit/concept/now-assist-data-kit-landing.md)
+[Now Assist Data Kit![](../../../reuse/icons/brand-icons/bus-database.svg)Add datasets to a data catalog.](now-assist-data-kit/now-assist-data-kit-landing.md)
 
 </td></tr><tr><td>
 
-[Now Assist Skill Kit![](../../../reuse/icons/brand-icons/bus-innovation.svg)Create custom skills and prompts for your Now Assist experience.](../../now-assist-skill-kit/concept/now-assist-skill-kit-landing.md)
+[Now Assist Skill Kit![](../../../reuse/icons/brand-icons/bus-innovation.svg)Create custom skills and prompts for your Now Assist experience.](now-assist-skill-kit/now-assist-skill-kit-landing.md)
 
 </td><td>
 
-[AI Control Tower![](../../../reuse/icons/brand-icons/bus-monitor.svg)Monitor, manage, and govern AI assets on the ServiceNow AI Platform.](../../ai-governance-workspace/concept/ai-control-tower-landing.md)
+[AI Control Tower![](../../../reuse/icons/brand-icons/bus-monitor.svg)Monitor, manage, and govern AI assets on the ServiceNow AI Platform.](ai-control-tower/ai-control-tower-landing.md)
 
 </td><td>
 
-[Knowledge Graph![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Map entities and their relationships and add context and meaning to your data to enable intelligent search, insights, and AI-driven experiences.](../../knowledge-graph/concept/knowledge-graph-landing.md)
+[Knowledge Graph![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Map entities and their relationships and add context and meaning to your data to enable intelligent search, insights, and AI-driven experiences.](knowledge-graph/knowledge-graph-landing.md)
 
 </td></tr><tr><td>
 
@@ -58,39 +58,39 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Now Assist Readiness Evaluation ![](../../../reuse/icons/brand-icons/bus-strategic.svg) Assess processes, evaluate data readiness, and get actionable insights to help adopt Now Assist quickly.](../../now-assist-readiness-evaluation/concept/now-assist-readiness-evaluation-landing-page.md)
+[Now Assist Readiness Evaluation ![](../../../reuse/icons/brand-icons/bus-strategic.svg) Assess processes, evaluate data readiness, and get actionable insights to help adopt Now Assist quickly.](now-assist-readiness-evaluation/now-assist-readiness-evaluation-landing-page.md)
 
 </td><td>
 
-[Natural Language Understanding![](../../../reuse/icons/brand-icons/bus-chat.svg)Use Natural Language Understanding \(NLU\) to help your system work with natural human expression and intent.](../../natural-language-understanding/concept/nlu-landing.md)
+[Natural Language Understanding![](../../../reuse/icons/brand-icons/bus-chat.svg)Use Natural Language Understanding \(NLU\) to help your system work with natural human expression and intent.](nlu-service/nlu-landing.md)
 
 </td></tr><tr><td>
 
-[Natural Language Query ![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg) Get data from your instance using plain language requests with this service on the ServiceNow AI Platform.](../../natural-language-query/concept/natural-language-query.md)
+[Natural Language Query ![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg) Get data from your instance using plain language requests with this service on the ServiceNow AI Platform.](natural-language-query/natural-language-query.md)
 
 </td><td>
 
-[Predictive Intelligence ![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg) Develop ML-based solutions using Predictive Intelligence to create improved work experiences in your instance.](../../predictive-intelligence/concept/predictive-intelligence.md)
+[Predictive Intelligence ![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg) Develop ML-based solutions using Predictive Intelligence to create improved work experiences in your instance.](predictive-intelligence/predictive-intelligence.md)
 
 </td><td>
 
-[Document Intelligence ![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg)Automate the data extraction process for your documents and speed up your workflow with a powerful AI-based solution.](../../document-intelligence/concept/document-intelligence-landing.md)
+[Document Intelligence ![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg)Automate the data extraction process for your documents and speed up your workflow with a powerful AI-based solution.](document-intelligence/document-intelligence-landing.md)
 
 </td></tr><tr><td>
 
-[Now Assist in Document Intelligence![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Use generative AI to analyze and extract information from documents](../../document-intelligence/concept/docintel-nowassist-landing.md)
+[Now Assist in Document Intelligence![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Use generative AI to analyze and extract information from documents](now-assist-in-document-intelligence/docintel-nowassist-landing.md)
 
 </td><td>
 
-[Task Intelligence ![](../../../reuse/icons/brand-icons/bus-compliance.svg) Create ML solutions with this AI tool, and track their impact on your business demands and outcomes.](../../task-intelligence/concept/task-intelligence.md)
+[Task Intelligence ![](../../../reuse/icons/brand-icons/bus-compliance.svg) Create ML solutions with this AI tool, and track their impact on your business demands and outcomes.](task-intelligence/task-intelligence.md)
 
 </td><td>
 
-[AI Desktop Actions ![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg) Design, configure, and manage desktop actions that automate repetitive tasks in your desktop environment.](../../../product/agentic-desktop/reference/agentic-desktop-landing-page.md)
+[AI Desktop Actions ![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg) Design, configure, and manage desktop actions that automate repetitive tasks in your desktop environment.](agentic-desktop-landing-page.md)
 
 </td></tr><tr><td>
 
-[ServiceNow AI Lens ![](../../../reuse/icons/brand-icons/bus-find-an-app.svg)Use generative AI to scan, extract, comprehend, and synthesize data and take actions to optimize your workflows.](../../../product/servicenow-lens/concept/servicenow-lens-landing-page.md)
+[ServiceNow AI Lens ![](../../../reuse/icons/brand-icons/bus-find-an-app.svg)Use generative AI to scan, extract, comprehend, and synthesize data and take actions to optimize your workflows.](servicenow-lens/servicenow-lens-landing-page.md)
 
 </td><td>
 
@@ -98,7 +98,7 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Now Assist Center![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Set up and manage your AI solutions from a single workspace.](../../now-assist-center/concept/now-assist-center-landing-page.md)
+[Now Assist Center![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Set up and manage your AI solutions from a single workspace.](now-assist-center-landing-page.md)
 
 </td></tr></tbody>
 </table>## Now Assist

@@ -19,7 +19,7 @@ Add associated skills to define the scope of an achievement.
 
 Role required: sn\_lep.achievement\_manager
 
-Create an achievement. For more information, see [Create an achievement definition](../concept/create-achievement.md).
+Create an achievement. For more information, see [Create an achievement definition](create-achievement.md).
 
 ## Procedure
 
@@ -34,5 +34,5 @@ Create an achievement. For more information, see [Create an achievement definiti
 5.  Select **Save** and **Update** the achievement definition.
 
 
-**Parent Topic:**[Create an achievement definition](../concept/create-achievement.md)
+**Parent Topic:**[Create an achievement definition](create-achievement.md)
 

@@ -38,5 +38,5 @@ When you make changes to a published subflow, the changes remain in the draft st
 
 The subflow can be added to activated flows. If you update the subflow after it is published, you must click **Publish** again to see the changes when the parent flow is run. After publishing changes, all parent flows that use the subflow are automatically updated to use the current version.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

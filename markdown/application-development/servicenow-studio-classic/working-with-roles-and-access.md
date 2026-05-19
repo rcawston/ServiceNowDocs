@@ -27,7 +27,7 @@ Each development tool that you can access through the experience switcher has ro
 
 **Important:** No matter what your role is \(including admin and delegated developer roles\), if you have one of the Creator Studio roles, you won't be able to access ServiceNow Studio or ServiceNow IDE.
 
-For more information, see [Creator Studio roles and personas](../../creator-studio/reference/roles-creator-studio.md), [ServiceNow Studio personas and roles](sn-studio-personas-roles.md), and [ServiceNow IDE roles](../../servicenow-ide/reference/servicenow-ide-roles.md#).
+For more information, see [Creator Studio roles and personas](../creator-studio/roles-creator-studio.md), [ServiceNow Studio personas and roles](sn-studio-personas-roles.md), and [ServiceNow IDE roles](../servicenow-ide-family-release/servicenow-ide-roles.md#).
 
 ## Role assignment examples
 
@@ -35,7 +35,7 @@ As an admin, you can assign permissions to use ServiceNow Studio, Creator Studio
 
 -   If you want to assign access to ServiceNow Studio and Creator Studio, assign your user the **delegated\_developer** role. This will give them access to both tools. However, this role does not give access to ServiceNow IDE.
 -   If you want users to stay in Creator Studio, assign them the **sn\_creatorstudio.user** or **sn\_creatorstudio.restricted\_user** roles. These roles give access to Creator Studio but not ServiceNow Studio.
--   If you want to assign access to ServiceNow IDE, your user must have admin permissions or other roles specific to ServiceNow IDE. If your user also has the **delegated\_developer** role, they will not be able to access ServiceNow IDE. For more information, see [ServiceNow IDE roles](../../servicenow-ide/reference/servicenow-ide-roles.md#).
+-   If you want to assign access to ServiceNow IDE, your user must have admin permissions or other roles specific to ServiceNow IDE. If your user also has the **delegated\_developer** role, they will not be able to access ServiceNow IDE. For more information, see [ServiceNow IDE roles](../servicenow-ide-family-release/servicenow-ide-roles.md#).
 
 **Parent Topic:**[Managing access to ServiceNow Studio](manage-access-to-servicenow-studio.md)
 

@@ -15,5 +15,5 @@ breadcrumb: [Zero Copy Connector for ERP and ERP Semantic Mining glossary, Refer
 
 Individual tables \(both custom and standard\) in the ERP system are part of the remote tables. For example, in sales, ERP tables could include VBAK, VBAP, VBFA, VBPA, VBEP, MKPF, or MSEG.
 
-**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](../../../build/erp-integration/reference/erp-integration-glossary.md)
+**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](erp-integration-glossary.md)
 

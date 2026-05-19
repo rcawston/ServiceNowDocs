@@ -67,5 +67,5 @@ After successfully creating the record for status mapping, whenever there is an 
 
 **Note:** If you change the status of any DLP incident on Netskope tenant directly, then the status sync from SN to Netskope will not work considering the API limitations. Ensure you map all the DLP incident status with Netskope object status carefully.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 

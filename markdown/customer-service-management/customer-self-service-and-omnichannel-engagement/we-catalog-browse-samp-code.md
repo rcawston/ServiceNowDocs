@@ -98,11 +98,11 @@ console.log(errorMessage, errorType);
 **Related topics**  
 
 
-[Configure the Catalog browse component instance](../task/we-config-catalog-browse-comp.md)
+[Configure the Catalog browse component instance](we-config-catalog-browse-comp.md)
 
-[Embed the Catalog browse component on the third-party website](../task/we-embed-catalog-browse-on-third-party-web.md)
+[Embed the Catalog browse component on the third-party website](we-embed-catalog-browse-on-third-party-web.md)
 
-[Component properties for the Catalog browse](we-catalog-browse-comp-prop.md)
+[Component properties for the Catalog browse](../we-catalog-browse-comp-prop.md)
 
-[Event handlers in the Catalog browse component](we-event-handlers-catalog-browse.md)
+[Event handlers in the Catalog browse component](../we-event-handlers-catalog-browse.md)
 

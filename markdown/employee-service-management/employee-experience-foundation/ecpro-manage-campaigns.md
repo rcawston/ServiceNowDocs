@@ -119,7 +119,7 @@ Re-evaluate frequency
 
 The frequency, in days, that you want to re-evaluate the audience. Audiences are re-evaluated after the **Content Experiences: Update Campaign Audience** scheduled job runs based on the value you enter here.This field appears only after you select the **Re-evaluate campaign** check box.
 
- This field allows you to override the default \(7 days\) value that is set in the **Campaign Re-evaluation** field in the Content Experiences system property. For more information, see [Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md).
+ This field allows you to override the default \(7 days\) value that is set in the **Campaign Re-evaluation** field in the Content Experiences system property. For more information, see [Properties installed with Content Experiences](properties-installed-with-content-auto.md).
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Tracking on
 
 </td><td>
 
-Option for capturing analytics for your campaign. For more information about campaign analytics, see [Content Analytics](../concept/ecpro-content-automation-analytics.md).
+Option for capturing analytics for your campaign. For more information about campaign analytics, see [Content Analytics](ecpro-content-automation-analytics.md).
 
  This field appears only when a tracking profile is selected from the **Tracking profile** field.
 
@@ -169,7 +169,7 @@ The Trigger Campaign Published Workflow business rule executes and the scheduled
 -   Add Non-Portal Campaign Content: Email, SMS, Push, and To-do content are being added and ready to be distributed.
 -   Delivering Content: The audience and content has been defined and in the process of delivering the content.
 
-The other scheduled jobs related to re-evaluate a campaign and frequency are not affected by this sys property. For more information, see [Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md).
+The other scheduled jobs related to re-evaluate a campaign and frequency are not affected by this sys property. For more information, see [Properties installed with Content Experiences](properties-installed-with-content-auto.md).
 
 Publishing a campaign prior to the start date enables the scheduled jobs to add users to the campaign and create and schedule the content for the campaign.
 

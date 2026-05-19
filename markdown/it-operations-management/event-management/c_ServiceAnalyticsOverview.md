@@ -39,5 +39,5 @@ Alert grouping enhances operational efficiency and optimizes alert management by
 **Related topics**  
 
 
-[Synchronizing alert response with automated alert grouping](../task/coordinating-alert-response-with-automated-alert-grouping.md)
+[Synchronizing alert response with automated alert grouping](coordinating-alert-response-with-automated-alert-grouping.md)
 

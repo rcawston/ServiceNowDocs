@@ -38,7 +38,7 @@ To create a diagram in Lucidchart and associate it with an Architectural Artifac
 **Related topics**  
 
 
-[Create a Lucidchart diagram for a business capability in the Enterprise Architecture Workspace](../../task/eaw-task/eaw-create-lucid-diagram-cap.md)
+[Create a Lucidchart diagram for a business capability in the Enterprise Architecture Workspace](eaw-create-lucid-diagram-cap.md)
 
-[Create a Lucidchart diagram for a business application in the EA Workspace](../../task/eaw-task/eaw-create-lucid-diagram-ba.md)
+[Create a Lucidchart diagram for a business application in the EA Workspace](eaw-create-lucid-diagram-ba.md)
 

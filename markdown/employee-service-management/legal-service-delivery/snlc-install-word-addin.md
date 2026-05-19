@@ -37,5 +37,5 @@ Role required: admin
 -   **[Configure the Microsoft Word add-in for ServiceNow Contracts](snlc-config-word-addin.md)**  
 As an admin, configure the Microsoft Word add-in for ServiceNow Contracts.
 
-**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](../concept/snlc-config-sn-legal-contracts.md)
+**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](snlc-config-sn-legal-contracts.md)
 

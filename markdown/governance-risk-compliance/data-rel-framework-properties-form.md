@@ -57,5 +57,5 @@ Maximum number of levels to be processed when the Data Relationships Framework A
  The default value is 5. For example, when the API is called, it processes maximum 5 levels of the relationships and does not go deeper than 5 levels.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure the properties for the Data Relationships Framework](../task/configure-properties-for-data-rel-framework.md)
+</table>**Parent Topic:**[Configure the properties for the Data Relationships Framework](configure-properties-for-data-rel-framework.md)
 

@@ -26,7 +26,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_core.contract\_conf
 
 ## About this task
 
-The CM Pro - Contract Metadata Extraction use case is available with the base system. This use case is not editable. For more information about the various fields in the CM Pro - Contract Metadata Extraction use case, see [Contract metadata extraction use cases](../reference/metadata-extraction-use-case.md).
+The CM Pro - Contract Metadata Extraction use case is available with the base system. This use case is not editable. For more information about the various fields in the CM Pro - Contract Metadata Extraction use case, see [Contract metadata extraction use cases](metadata-extraction-use-case.md).
 
 **Note:** If you create your own use case or customize a copy of an available use case, be sure to test it thoroughly to ensure accuracy.
 
@@ -150,7 +150,7 @@ The use case is created for the Contract metadata extraction skill. Now Assist u
 
 [Map a use case for contract metadata extraction](cmpro-na-usecase-mappings-me.md)
 
--   **[Contract metadata extraction use cases](../reference/metadata-extraction-use-case.md)**  
+-   **[Contract metadata extraction use cases](metadata-extraction-use-case.md)**  
 In contract metadata extraction, use cases specify the information that you want Now Assist to detect in a document.
 
 **Parent Topic:**[Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
@@ -168,7 +168,7 @@ In contract metadata extraction, use cases specify the information that you want
 
 [Configure an extension point to add contract metadata](config-ext-pt-to-add-metadata.md)
 
-[Contract metadata extraction use cases](../reference/metadata-extraction-use-case.md)
+[Contract metadata extraction use cases](metadata-extraction-use-case.md)
 
 [Select large language models for use cases in Now Assist in Contract Management](cmpro-na-manage-llm.md)
 

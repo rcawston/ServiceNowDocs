@@ -48,11 +48,11 @@ To set up the system to ignore inbound signed emails if the signature cannot be 
 
 For more information about key management and cryprographic module, see [Key Management Framework Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/understanding-kmf.md).
 
--   **[Import an S/MIME key pair](../task/import-smime-key-pair.md)**  
+-   **[Import an S/MIME key pair](import-smime-key-pair.md)**  
 Import an S/MIME key pair consisting of the private key and certificate to sign outbound emails or decrypt emails.
--   **[Upload a CA certificate](../task/upload-ca-certificate.md)**  
+-   **[Upload a CA certificate](upload-ca-certificate.md)**  
 Upload a digital CA \(Certificate Authority\) certificate to validate email certificates for secure communication.
--   **[Upload an email certificate](../task/upload-email-certificate.md)**  
+-   **[Upload an email certificate](upload-email-certificate.md)**  
 Upload an email certificate to validate a signature for inbound email or encrypt an outbound email or both for secure communication.
 -   **[Enable S/MIME](enable-smime-for-outbound-and-inbound.md)**  
 Configure S/MIME settings for inbound and outbound email.
@@ -62,5 +62,5 @@ Configure S/MIME settings for inbound and outbound email.
 **Related topics**  
 
 
-[Activate S/MIME Email](../task/activate-smime-plugin.md)
+[Activate S/MIME Email](activate-smime-plugin.md)
 

@@ -17,5 +17,5 @@ Execute a policy to determine if the policy is compliant or non-compliant. Execu
 
 Before you publish a policy version, you can run a test evaluation of the version to determine if it is compliant, non-compliant, compliant-exception, or other. Evaluating a policy enables you to test repeatedly and apply any required changes to the policy version, before moving it to a production environment. For further information about testing your policy version, see [Use the Test Playground for PaCE policies](pace-use-test-playground.md).
 
-When the version is ready to be moved into the production environment, make sure that all policy mappings are in place and verified. When the policy is invoked by the relevant object, its execution output is stored for review. For further information, see [Review executed policy activity](../task/pace-review-executed-policies.md).
+When the version is ready to be moved into the production environment, make sure that all policy mappings are in place and verified. When the policy is invoked by the relevant object, its execution output is stored for review. For further information, see [Review executed policy activity](pace-review-executed-policies.md).
 

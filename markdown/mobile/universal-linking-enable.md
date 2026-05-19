@@ -44,7 +44,7 @@ Role required: admin
 
 After you have enabled the mobile universal linking feature, you can perform the following configuration:
 
-Define specific ServiceNow platform website pages to display the web banner, where the user does not have a specific mobile app installed. See, [Mobile universal linking for supported URLs](../concept/universal-linking-support-urls.md).
+Define specific ServiceNow platform website pages to display the web banner, where the user does not have a specific mobile app installed. See, [Mobile universal linking for supported URLs](universal-linking-support-urls.md).
 
-**Parent Topic:**[Universal linking for mobile](../concept/universal-links-mobile.md)
+**Parent Topic:**[Universal linking for mobile](universal-links-mobile.md)
 

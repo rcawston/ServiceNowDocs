@@ -19,19 +19,19 @@ AI-powered development on the ServiceNow AI Platform accelerates application dev
 
 Now Assist for Creator includes generative and agentic AI capabilities that can make developing on the ServiceNow AI Platform more efficient. You can use the generative AI skills available with Now Assist for Creator, such as app generation, flow generation, and UI generation. Now Assist for Creator also includes Build Agent, an autonomous AI agent that can develop full-stack applications ready for deployment through conversations using natural language.
 
-For more information, see [Now Assist for Creator](../../../administer/flow-designer/concept/now-assist-for-creator-landing.md).
+For more information, see [Now Assist for Creator](../now-assist-for-creator/now-assist-for-creator-landing.md).
 
 ## Vibe coding
 
 Vibe coding is an AI-driven approach to app development in which you build applications through conversations with AI. On the ServiceNow AI Platform, Build Agent makes vibe coding possible.
 
-For more information, see [Build Agent](../../build-agent/concept/build-agent.md). To learn more about vibe coding, see [Vibe coding and AI-assisted development on the ServiceNow AI Platform](../../vibe-coding/concept/vibe-coding-landing.md).
+For more information, see [Build Agent](../build-agent.md). To learn more about vibe coding, see [Vibe coding and AI-assisted development on the ServiceNow AI Platform](../vibe-coding-landing.md).
 
 ## Now Assist for App Engine
 
 Now Assist for App Engine enables you to enhance custom applications with AI agents and skills that application users can leverage at runtime. With Now Assist for App Engine, you have access to Now Assist AI assets, such as Platform skills, AI agents, and agentic workflows, as well as the tools for developing custom AI assets using Now Assist Skill Kit and AI Agent Studio.
 
-For more information, see [Now Assist for App Engine](../../app-engine-studio/concept/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md).
+For more information, see [Now Assist for App Engine](../now-assist-for-app-engine/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md).
 
 ## When and where to use AI capabilities
 
@@ -43,8 +43,8 @@ Now Assist for App Engine is also used when developing custom applications in no
 
 |Persona|Benefit|Stage in the application life cycle|AI capability|
 |-------|-------|-----------------------------------|-------------|
-|Developer|Build and test applications and application elements quickly with generative and agentic AI capabilities.|Development, testing|[Now Assist for Creator](../../../administer/flow-designer/concept/now-assist-for-creator-landing.md)|
-|Developer|Vibe code entire applications with Build Agent|Development, testing|[Build Agent](../../build-agent/concept/build-agent.md)|
-|Developer|Enhance custom applications with Now Assist AI assets, or build custom skills and agentic workflows.|Development, testing|[Now Assist for App Engine](../../app-engine-studio/concept/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md)|
-|Requester, fulfiller, custom application user|Leverage AI assets in custom applications at runtime to help improve productivity and efficiency.|Release, post-release|[Now Assist for App Engine](../../app-engine-studio/concept/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md)|
+|Developer|Build and test applications and application elements quickly with generative and agentic AI capabilities.|Development, testing|[Now Assist for Creator](../now-assist-for-creator/now-assist-for-creator-landing.md)|
+|Developer|Vibe code entire applications with Build Agent|Development, testing|[Build Agent](../build-agent.md)|
+|Developer|Enhance custom applications with Now Assist AI assets, or build custom skills and agentic workflows.|Development, testing|[Now Assist for App Engine](../now-assist-for-app-engine/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md)|
+|Requester, fulfiller, custom application user|Leverage AI assets in custom applications at runtime to help improve productivity and efficiency.|Release, post-release|[Now Assist for App Engine](../now-assist-for-app-engine/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md)|
 

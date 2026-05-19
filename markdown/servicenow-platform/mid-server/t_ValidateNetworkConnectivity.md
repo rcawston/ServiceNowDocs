@@ -62,5 +62,5 @@ The computer that hosts the MID Server must be able to access one of these URLs 
 
 ## What to do next
 
-This concludes the installation of a single MID Server. If necessary, continue to [deploy multiple MID Servers from a single host](t_InstallMultplMIDSvrOnASingleSys.md#) in your network. Otherwise, begin [configuring your MID Server](../concept/c_MIDServerConfiguration.md).
+This concludes the installation of a single MID Server. If necessary, continue to [deploy multiple MID Servers from a single host](t_InstallMultplMIDSvrOnASingleSys.md#) in your network. Otherwise, begin [configuring your MID Server](c_MIDServerConfiguration.md).
 

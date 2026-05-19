@@ -23,7 +23,7 @@ When fuzzy numeric search is activated, AI Search checks all-numeric search term
 
 **Important:**
 
-Fuzzy numeric search only searches records from numbered tables. These are tables with Number fields that have prefixes defined in the Number \[sys\_number\] table. To learn about record numbering and the Number table, see [Record numbering](../../field-administration/concept/c_ManagingRecordNumbering.md).
+Fuzzy numeric search only searches records from numbered tables. These are tables with Number fields that have prefixes defined in the Number \[sys\_number\] table. To learn about record numbering and the Number table, see [Record numbering](../c_ManagingRecordNumbering.md).
 
 Child tables that inherit the Number field from their parent table can't be searched using fuzzy numeric search. Only tables that have their own Number field defined work with this feature.
 
@@ -94,7 +94,7 @@ Search matches these results when using the AND \(conjunctive\) operator:-   Kno
 -   Any indexed record or document that includes `2541` as a whole term \(not a substring\)
 -   Any indexed record or document that includes `828` as a whole term \(not a substring\)
 
-**Note:** For more details on the AND and OR operators, see the description of the **glide.ais.query.search\_operator** system property in [AI Search system properties](../reference/system-properties-ais.md).
+**Note:** For more details on the AND and OR operators, see the description of the **glide.ais.query.search\_operator** system property in [AI Search system properties](system-properties-ais.md).
 
 </td></tr><tr><td>
 
@@ -113,12 +113,12 @@ Search matches these results when using the AND \(conjunctive\) operator:-   Kno
 -   Any indexed record or document that includes `model` as a whole term \(not a substring\)
 -   Any indexed record or document that includes `9433` as a whole term \(not a substring\)
 
-**Note:** For more details on the AND and OR operators, see the description of the **glide.ais.query.search\_operator** system property in [AI Search system properties](../reference/system-properties-ais.md).
+**Note:** For more details on the AND and OR operators, see the description of the **glide.ais.query.search\_operator** system property in [AI Search system properties](system-properties-ais.md).
 
 </td></tr></tbody>
 </table>## Fuzzy numeric search availability
 
-Fuzzy numeric search is deactivated by default. It's only available at search time if your ServiceNow AI Platform® admin has activated it. To view activation steps for this feature, see [Activate fuzzy numeric search in AI Search](../task/activate-fuzzy-numeric-search-ais.md).
+Fuzzy numeric search is deactivated by default. It's only available at search time if your ServiceNow AI Platform® admin has activated it. To view activation steps for this feature, see [Activate fuzzy numeric search in AI Search](activate-fuzzy-numeric-search-ais.md).
 
 **Parent Topic:**[Searching in AI Search](use-ais.md)
 

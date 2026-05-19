@@ -39,7 +39,7 @@ Role required: sn\_asc.alumni
 4.  Select **Save**.
 
 
-**Parent Topic:**[Using your Alumni Center](../concept/asc-use.md)
+**Parent Topic:**[Using your Alumni Center](asc-use.md)
 
 **Related topics**  
 

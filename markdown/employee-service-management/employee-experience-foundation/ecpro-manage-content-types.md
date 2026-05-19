@@ -55,7 +55,7 @@ The content type category. The types are:-   Portal Content
 -   To-do Content
 -   Mobile Content
 
-See [Portal content](../concept/ec-streamline-content.md).
+See [Portal content](ec-streamline-content.md).
 
 </td></tr><tr><td id="d144736e134">
 

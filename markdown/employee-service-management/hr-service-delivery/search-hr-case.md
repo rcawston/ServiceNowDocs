@@ -82,7 +82,7 @@ COE
 
 </td><td>
 
-The **Center of Excellence** associated with the HR case you are creating. Selecting a COE filters the choices for HR service. See [HR Centers of Excellence data model](../concept/hr-centers-of-excellence-coes.md).**Note:** If an HR service is selected first, the associated COE automatically populates.
+The **Center of Excellence** associated with the HR case you are creating. Selecting a COE filters the choices for HR service. See [HR Centers of Excellence data model](hr-centers-of-excellence-coes.md).**Note:** If an HR service is selected first, the associated COE automatically populates.
 
 </td></tr><tr><td>
 
@@ -150,5 +150,5 @@ Request an electronic signature through the DocuSign service. When the case stat
 -   **[Request an electronic signature through the Adobe Acrobat Sign service](request-e-signature-through-adobe-sign-service.md)**  
 Request an electronic signature through the Adobe Sign service. When the case state changes to **Ready**, the flow triggers and creates Adobe Sign tasks for all of the signers. For parallel signing, the tasks are assigned all at once. For serial signing, the tasks are created in the order defined.
 
-**Parent Topic:**[Use HR Case Management](../concept/c_HRCaseManagement.md)
+**Parent Topic:**[Use HR Case Management](c_HRCaseManagement.md)
 

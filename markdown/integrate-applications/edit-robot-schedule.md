@@ -17,7 +17,7 @@ Edit a robot schedule of a bot process on the **Robot Calendar** tab in RPA Hub 
 
 Perform the following tasks before you edit a robot schedule:
 
--   Ensure you are familiar with robot calendar concepts. For more information, see [Using the robot calendar for RPA Hub](../concept/robot-calendar-rpa.md) and [View current robot events in RPA Hub](view-robot-calendar.md).
+-   Ensure you are familiar with robot calendar concepts. For more information, see [Using the robot calendar for RPA Hub](robot-calendar-rpa.md) and [View current robot events in RPA Hub](view-robot-calendar.md).
 -   Create an unattended robot. On the robot form, ensure that you select the **Robot Type** field as **Unattended**. For more information, see [Create an unattended robot in RPA Hub](create-unattended-robot.md).
 -   Establish the robot connection to an unattended bot process. For more information, see [Assign a robot to a bot process in RPA Hub](assign-robots.md).
 -   Create a schedule for a unattended bot process to view some schedules on the robot calendar. For more information, see [Create a schedule on the robot calendar in RPA Hub](create-robot-schedule.md#) or [Create a schedule within a bot process in RPA Hub](create-schedule-botprocess.md).
@@ -87,7 +87,7 @@ Action
     -   To save the schedule, select **Save**.
     -   To save the schedule and publish the bot process, select the down arrow in the **Save** button and select **Save and Publish**.
 
-**Parent Topic:**[Using the robot calendar for RPA Hub](../concept/robot-calendar-rpa.md)
+**Parent Topic:**[Using the robot calendar for RPA Hub](robot-calendar-rpa.md)
 
 **Related topics**  
 

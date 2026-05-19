@@ -15,7 +15,7 @@ breadcrumb: [SCCM activity pack, Orchestration activity packs, Classic Orchestra
 
 The Add to Device Collection activity adds the specified device into a Microsoft System Center Configuration Manager \(SCCM\) device collection.
 
-The Add to Device Collection activity uses the [Powershell activity template](../../orchestration-activity-designer/task/t_CreateAPowershellActivity.md#) to add a specified device to an SCCM device collection. The activity is configured to use a MID Server with Powershell capabilities and to run a MID Server script called AddToDeviceCollection.ps1 to edit the collection.
+The Add to Device Collection activity uses the [Powershell activity template](t_CreateAPowershellActivity.md#) to add a specified device to an SCCM device collection. The activity is configured to use a MID Server with Powershell capabilities and to run a MID Server script called AddToDeviceCollection.ps1 to edit the collection.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
 
@@ -43,5 +43,5 @@ To access this activity in the Workflow Editor, select the **Custom** tab, and t
 |Success|Activity successfully added the device to the SCCM device collection.|
 |Failure|Activity failed to add the device to the SCCM device collection.|
 
-**Parent Topic:**[SCCM activity pack](../concept/c_SCCMActivityPack.md)
+**Parent Topic:**[SCCM activity pack](c_SCCMActivityPack.md)
 

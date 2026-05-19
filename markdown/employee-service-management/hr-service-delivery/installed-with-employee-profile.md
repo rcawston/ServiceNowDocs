@@ -82,5 +82,5 @@ Employee Profile\[sn\_employee\_profile\]
 Employee Profile table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Employee Profile](../task/activate-employee-profile.md)
+</table>**Parent Topic:**[Activate Employee Profile](activate-employee-profile.md)
 

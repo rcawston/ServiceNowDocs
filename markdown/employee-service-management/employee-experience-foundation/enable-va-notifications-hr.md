@@ -44,5 +44,5 @@ After upgrading to [HR Service Delivery for Microsoft 365](https://store.service
 
 To configure LLM actionable provider notifications, refer to [Configure LLM based provider notifications for HR](configure-llm-based-provider-notifications-for-hr.md).
 
-**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](../concept/sn-ms-teams-config-hr.md)
+**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](sn-ms-teams-config-hr.md)
 

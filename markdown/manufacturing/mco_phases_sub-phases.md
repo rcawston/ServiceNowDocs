@@ -45,7 +45,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 5.  On the required recall campaign phase form, fill in the fields.
 
-    For a description of the field values, see [Recall campaign phase form](../reference/mco-recall-campaign-phases-form.md).
+    For a description of the field values, see [Recall campaign phase form](mco-recall-campaign-phases-form.md).
 
 6.  Select **Save**.
 
@@ -61,7 +61,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 8.  On the recall campaign phases form, fill in the fields.
 
-    For a description of the field values, see [Recall campaign phase form](../reference/mco-recall-campaign-phases-form.md).
+    For a description of the field values, see [Recall campaign phase form](mco-recall-campaign-phases-form.md).
 
 9.  Select **Submit**.
 

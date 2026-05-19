@@ -32,9 +32,9 @@ Before you integrate the crisis management map with the geographical locations o
 
 You require these configurations for the threat and alert feeds to show up in the crisis map visualization.
 
--   To search locations on the crisis map, [set up the system property](../task/crisis-map-place-api-configuration.md).
--   To manage your threat feed subscriptions sourced internally and externally, [configure scheduled data imports](../task/crisis-map-scheduled-data-imports.md).
--   To plot your organization's assets or resources on the crisis map, [configure the resources](../task/crisis-map-configure-resource.md).
--   To specify the conditions under which a feed should bubble up as an alert on the crisis map, [configure alert rules](../task/crisis-map-alert-configuration.md).
--   Finally, to act on a critical alert from the crisis map dashboard, [configure an alert action](../task/crisis-map-alert-actions.md).
+-   To search locations on the crisis map, [set up the system property](crisis-map-place-api-configuration.md).
+-   To manage your threat feed subscriptions sourced internally and externally, [configure scheduled data imports](crisis-map-scheduled-data-imports.md).
+-   To plot your organization's assets or resources on the crisis map, [configure the resources](crisis-map-configure-resource.md).
+-   To specify the conditions under which a feed should bubble up as an alert on the crisis map, [configure alert rules](crisis-map-alert-configuration.md).
+-   Finally, to act on a critical alert from the crisis map dashboard, [configure an alert action](crisis-map-alert-actions.md).
 

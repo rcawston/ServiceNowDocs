@@ -50,5 +50,5 @@ Role required: sn\_hr\_core.basic or sn\_hr\_core.manager
 7.  Click **Save** to stay on the **HR Operations System** form or **Update** to return to the **HR Operations Systems** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

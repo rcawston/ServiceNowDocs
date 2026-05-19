@@ -17,7 +17,7 @@ The CIIdentification script include provides methods for discovery of configurat
 
 Use this script include with any server-side discovery script for CI identification.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CIIdentification - CIIdentification\(String ciData, String logger\)
 

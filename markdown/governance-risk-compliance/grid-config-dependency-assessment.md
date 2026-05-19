@@ -15,6 +15,6 @@ Grid configuration for column display helps you to capture specific columns in t
 
 Set up these configurations to display the desired columns in each dependency group grid by selecting the fields from the configuration table.
 
--   [Set up element variable for BIA dependency assessment grid](../task/setup-bcm-element-variable.md)
--   [Set up grid configuration for BIA dependency assessment](../task/setup-bcm-grid-config.md)
+-   [Set up element variable for BIA dependency assessment grid](setup-bcm-element-variable.md)
+-   [Set up grid configuration for BIA dependency assessment](setup-bcm-grid-config.md)
 

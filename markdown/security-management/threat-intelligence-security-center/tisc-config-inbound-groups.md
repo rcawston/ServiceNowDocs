@@ -62,7 +62,7 @@ Role required: sn\_sec\_tisc.admin
     **Note:** You must add a reason for removal.
 
 
-**Parent Topic:**[Exploring Inbound Intel Sharing](../concept/tisc-inbound-intel-sharing.md)
+**Parent Topic:**[Exploring Inbound Intel Sharing](tisc-inbound-intel-sharing.md)
 
 **Related topics**  
 

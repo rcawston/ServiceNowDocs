@@ -39,7 +39,7 @@ Role required: Quality Issue Management Admin, product non-conformance submitter
 
 5.  On the Work Order form, fill in the fields.
 
-    For a description of the field values, see [Work order form](../reference/work-order-form.md).
+    For a description of the field values, see [Work order form](work-order-form.md).
 
 6.  Select **Save**.
 

@@ -17,7 +17,7 @@ When you create a new service catalog item, you can create a new corresponding w
 
 ## Before you begin
 
--   If you are designing the workflow as part of an update set process, see [Workflow movement with update sets](../concept/c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
+-   If you are designing the workflow as part of an update set process, see [Workflow movement with update sets](c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
 
 ## Procedure
 

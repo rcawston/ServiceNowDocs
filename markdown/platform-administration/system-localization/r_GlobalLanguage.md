@@ -17,7 +17,7 @@ Change the language that appears by default for an instance.
 
 ## Before you begin
 
-Activate the languages that your users need. For more information, see [Activate a language](../task/t_ActivateALanguage.md) for supported languages or [Translating to an unsupported language](../task/self-localize.md) for custom translations.
+Activate the languages that your users need. For more information, see [Activate a language](t_ActivateALanguage.md) for supported languages or [Translating to an unsupported language](self-localize.md) for custom translations.
 
 Role required: admin
 

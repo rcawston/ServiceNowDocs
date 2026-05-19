@@ -17,7 +17,7 @@ Locate and map the primary group, primary role, and primary skill for the resour
 
 ## Before you begin
 
-[Generate employee profiles for resources to work with Capacity](../../spw-capacity-planning/task/gen-emp-profiles-cp.md).
+[Generate employee profiles for resources to work with Capacity](../scenario-planning-in-spw/gen-emp-profiles-cp.md).
 
 Role required: admin
 

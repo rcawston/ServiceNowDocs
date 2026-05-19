@@ -54,16 +54,16 @@ Role required: sn\_apm.apm\_user and you should have **Editor** access to the AD
 8.  To delete a page or a subpage, select the Page Actions menu \(![Page actions menu](../../image/eaw-image/more-actions-menu.png)\) and select **Delete**.
 
 
-**Parent Topic:**[Manage architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-manage-adr.md)
+**Parent Topic:**[Manage architectural decision records \(ADR\)](eaw-manage-adr.md)
 
 **Related topics**  
 
 
 [Tag users or records in Architectural Decision Records](eaw-tag-users-or-records-in-adr.md)
 
-[Generate a summary for Architectural Decision Records \(ADRs\)](../../../now-assist-ea/task/summarize-docs-genai-skill-ea.md)
+[Generate a summary for Architectural Decision Records \(ADRs\)](summarize-docs-genai-skill-ea.md)
 
-[Elaborate or shorten content in the Architectural Decision Records \(ADRs\)](../../../now-assist-ea/task/elaborate-shorten-content-ew.md)
+[Elaborate or shorten content in the Architectural Decision Records \(ADRs\)](elaborate-shorten-content-ew.md)
 
 [Add or edit an architectural decision record \(ADR\)](eaw-create-edit-adr.md)
 

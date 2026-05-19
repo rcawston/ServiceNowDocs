@@ -29,14 +29,14 @@ The project manager \(project\_manager role\) includes all the manager roles for
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Gather and evaluate of ideas and promote accepted ideas to demand, story, epic, or project.|[Innovation Management](../../innovation-management/concept/innovation-management-landing.md)|Project Teams, Demand Manager|
-|Assessing, approve, and promote demands to strategic and operational demands.|[Demand Management](../../planning-and-policy/concept/c_DemandManagement.md)|Demand Manager|
-|Manage projects, tasks, and resources.|[Project Management](../../project-management/concept/c_ProjectApplicationOverview.md)|Project Manager, Project Team|
-|Manage programs, the projects under a program and its tasks.|[Program Management](../../program-management/concept/c_ProgramManagement.md)|Program Manager|
-|Manage your projects and programs of different portfolios.|[Portfolio Management](../../project-management/concept/c_PortfolioManagement.md)|Portfolio Manager|
-|Create resource plans and request resources.|[Resource Management classic](../../resource-management/concept/c_ResourceManagement.md)|Resource Manager|
-|Track time on a daily basis against tasks|[Time Card Management](../../../administer/task-table/concept/time-card-management.md)| |
-|Gain visibility into the status and health of programs, projects, and demands.|[Project Portfolio Management Platform Analytics Solutions](../../../use/dashboards/application-content-packs/project-portfolio-content-pack.md)|Project, Program, or Portfolio Manager or Business stakeholder|
+|Gather and evaluate of ideas and promote accepted ideas to demand, story, epic, or project.|[Innovation Management](../innovation-management/innovation-management-landing.md)|Project Teams, Demand Manager|
+|Assessing, approve, and promote demands to strategic and operational demands.|[Demand Management](../demand-management/c_DemandManagement.md)|Demand Manager|
+|Manage projects, tasks, and resources.|[Project Management](../project-management/c_ProjectApplicationOverview.md)|Project Manager, Project Team|
+|Manage programs, the projects under a program and its tasks.|[Program Management](../program-management/c_ProgramManagement.md)|Program Manager|
+|Manage your projects and programs of different portfolios.|[Portfolio Management](../portfolio-management/c_PortfolioManagement.md)|Portfolio Manager|
+|Create resource plans and request resources.|[Resource Management classic](../resource-management/c_ResourceManagement.md)|Resource Manager|
+|Track time on a daily basis against tasks|[Time Card Management](../time-card-management/time-card-management.md)| |
+|Gain visibility into the status and health of programs, projects, and demands.|[Project Portfolio Management Platform Analytics Solutions](project-portfolio-content-pack.md)|Project, Program, or Portfolio Manager or Business stakeholder|
 
 ## Integration with Digital Portfolio Management
 
@@ -46,13 +46,13 @@ For more information, see [Exploring Digital Portfolio Management](https://raw.g
 
 ## Domain separation
 
-Domain separation provides complete data isolation for domain-specific users. Project Portfolio Management supports domain separation with a few limitations. For more information, see [Domain separation and Project Portfolio Management](../../project-portfolio-suite-with-financials/concept/domain-separation-project-portfolio-financials.md).
+Domain separation provides complete data isolation for domain-specific users. Project Portfolio Management supports domain separation with a few limitations. For more information, see [Domain separation and Project Portfolio Management](domain-separation-project-portfolio-financials.md).
 
--   **[PPM Standard \(Project Portfolio Management\)](../../project-portfolio-suite-with-financials/concept/c_ProjectPortfolioSuiteWithFinancials.md)**  
+-   **[PPM Standard \(Project Portfolio Management\)](c_ProjectPortfolioSuiteWithFinancials.md)**  
 The ServiceNow® PPM Standard, earlier known as Project Portfolio Suite with Financials, application integrates Financial Management and Project Portfolio Management.
--   **[Test Management 2.0 integration with Project Portfolio Management](../../test-management/reference/r_TestManagementIntegrationWithPPS.md)**  
+-   **[Test Management 2.0 integration with Project Portfolio Management](r_TestManagementIntegrationWithPPS.md)**  
 Test Management 2.0 integration with Project Portfolio Management enables you to carry out testing activities on projects.
--   **[Agile Development 2.0 integration with Project Portfolio Management](../../sdlc-scrum/concept/c_SDLCIntegrationWithProjectPortfolioSuite.md)**  
+-   **[Agile Development 2.0 integration with Project Portfolio Management](c_SDLCIntegrationWithProjectPortfolioSuite.md)**  
 Project Portfolio Management leverages the Agile Development 2.0 application to combine the Scrum methodology with project-based IT development.
 
 **Parent Topic:**[Project Portfolio Management](c_ProjectPortfolioSuite.md)

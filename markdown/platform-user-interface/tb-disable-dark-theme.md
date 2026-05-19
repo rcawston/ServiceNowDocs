@@ -26,5 +26,5 @@ Role required: admin
 3.  Disable the dark theme in all of your Next Experience instances by setting `glide.ui.polaris.dark_themes_enabled` to **False**.
 
 
-**Parent Topic:**[Working with the dark theme](../concept/tb-working-in-dark-theme.md)
+**Parent Topic:**[Working with the dark theme](tb-working-in-dark-theme.md)
 

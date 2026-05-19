@@ -17,7 +17,7 @@ The PAScorecard API enables you to fetch data about indicators and their associa
 
 This API requires the Performance Analytics \(com.snc.pa.analytics\_center\) application and runs in the `SNC` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PAScorecard - addParam\(String parameter, String value\)
 

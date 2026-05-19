@@ -38,12 +38,12 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
     2.  In the **Contract History** related list, select a date in the **Contract Starts** column to view the earlier version.
 
 
-**Parent Topic:**[Manage Contract Management Pro for Legal Service Delivery](../concept/snlc-manage-sn-legal-contracts.md)
+**Parent Topic:**[Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
 
 **Related topics**  
 
 
 [Modify a contract record](snlc-modify-contract-rec.md)
 
-[Manage clauses and contract templates](../concept/snlc-manage-clauses-ctemplates.md)
+[Manage clauses and contract templates](snlc-manage-clauses-ctemplates.md)
 

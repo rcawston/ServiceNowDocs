@@ -88,9 +88,9 @@ Changes ![](../image/changes-unified-map.png)
 History of changes made to the Unified Map.
 
 </td></tr></tbody>
-</table>For more information about configuring the OT Unified Maps experience, see [Setting up the Operational Technology Unified Map experience](../task/setting-up-unified-maps-experience.md).
+</table>For more information about configuring the OT Unified Maps experience, see [Setting up the Operational Technology Unified Map experience](setting-up-unified-maps-experience.md).
 
-For more information about viewing an OT Unified Map, see [View an Operational Technology Unified Map](../task/view-ot-unified-map.md).
+For more information about viewing an OT Unified Map, see [View an Operational Technology Unified Map](view-ot-unified-map.md).
 
-**Parent Topic:**[Exploring the Industrial Workspace](../../operational-technology-management/concept/exploring-industrial-workspace.md)
+**Parent Topic:**[Exploring the Industrial Workspace](exploring-industrial-workspace.md)
 

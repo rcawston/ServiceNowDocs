@@ -27,5 +27,5 @@ Depending upon the information available, there can be three different versions 
 
 ![Pop-up window of user's profile details including the name, profile photo, badge, and global points.](../images/CommunitiesUserProfilePopup.png "User profile pop-up window with gamification information")
 
-**Parent Topic:**[Gamification user interface components](../concept/communities-gamification-UI.md)
+**Parent Topic:**[Gamification user interface components](communities-gamification-UI.md)
 

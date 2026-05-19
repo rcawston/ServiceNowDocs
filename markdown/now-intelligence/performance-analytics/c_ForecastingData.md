@@ -20,12 +20,12 @@ Forecasting is set up in the **Forecasting** tab of the indicator record. The nu
 
 **Note:** In time series data visualizations on a configurable workspace, you can override the forecast configuration that is set on the indicator. This override applies only to that data visualization.
 
-Also in time series data visualizations, you are not limited to forecasts on Performance Analytics indicators. If you have a subscription version of Performance Analytics, you can generate forecasts for any data source except tables. For more information, see [Create time series data visualizations](../../reporting/task/create-dv-time-series-ac.md).
+Also in time series data visualizations, you are not limited to forecasts on Performance Analytics indicators. If you have a subscription version of Performance Analytics, you can generate forecasts for any data source except tables. For more information, see [Create time series data visualizations](../create-dv-time-series-ac.md).
 
 **Related topics**  
 
 
-[Create an automated indicator](../task/t_CreateAnAutomatedIndicator.md#)
+[Create an automated indicator](t_CreateAnAutomatedIndicator.md#)
 
 ## Configure forecasts on an indicator
 
@@ -249,22 +249,22 @@ With one exception, indicators with non-daily frequencies support only year-to-d
 
 In the classic environment, show the forecasts on a time series widget or the Analytics Hub. On a configurable workspace, show the forecasts on a time series data visualization or KPI Details.
 
-To show the forecast on a time series widget, select **Show forecast** in the **Display Settings** section of the Widget form. You can also show the 95% confidence interval of the forecast, by selecting **Show forecast range**. For more information, see [Time series widgets](../reference/time-series-widgets.md).
+To show the forecast on a time series widget, select **Show forecast** in the **Display Settings** section of the Widget form. You can also show the 95% confidence interval of the forecast, by selecting **Show forecast range**. For more information, see [Time series widgets](time-series-widgets.md).
 
 To show the forecast on the Analytics Hub, click the chart settings icon \(![](../image/Cogwheel.png)\) and enable the **Forecast** option. Similarly, in KPI Details, open **Chart options** and enable **Forecast**.
 
 To show the forecast in a time series data visualization, expand the Additional settings and turn on **Show forecast**. You have the option then to show the forecast range. You can override the forecast configuration for the indicator on this specific data visualization by opening **Configure forecast**.
 
-To show the forecast for an indicator on KPI Details, turn forecasting on in the [Chart options in KPI Details](../../par-for-workspace/reference/chart-options.md).
+To show the forecast for an indicator on KPI Details, turn forecasting on in the [Chart options in KPI Details](../chart-options.md).
 
 **Related topics**  
 
 
-[Additional settings for time series widgets](../reference/optional-settings-ts-widgets.md#)
+[Additional settings for time series widgets](optional-settings-ts-widgets.md#)
 
 [Analytics Hub for a specific indicator](view-scorecard.md)
 
-[Indicator data options for time series data visualizations](../../reporting/reference/config-dv-time-series-ind-data.md)
+[Indicator data options for time series data visualizations](../config-dv-time-series-ind-data.md)
 
-[Examining indicators with KPI Details](../../par-for-workspace/reference/kpi-details-components.md)
+[Examining indicators with KPI Details](../kpi-details-components.md)
 

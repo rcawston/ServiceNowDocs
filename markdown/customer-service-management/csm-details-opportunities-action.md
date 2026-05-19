@@ -15,7 +15,7 @@ The **Get Opportunities Details** action retrieves a single Opportunity record f
 
 ## Action inputs
 
-The **Get Opportunities Details** action takes a single integer parameter that identifies the Salesforce Account ID. This parameter is set by the form based on the sys\_id that was provided to the remote table in the remote table script. For more information, see [Example script that queries the Opportunity table](../concept/csm-opportunity-table-script.md).
+The **Get Opportunities Details** action takes a single integer parameter that identifies the Salesforce Account ID. This parameter is set by the form based on the sys\_id that was provided to the remote table in the remote table script. For more information, see [Example script that queries the Opportunity table](csm-opportunity-table-script.md).
 
 ![Get Opportunity Details page with Action Input section and Action Outline side panel with: Pre Processing script, REST step, and Post Processing script inputs.](../image/get-opportunity-details-action.jpg)
 
@@ -45,5 +45,5 @@ The pre-processing output is a query similar to the other custom actions.
 
 These steps and outputs are the same as for the other custom actions except there is no maximum number of records parameter and no information message.
 
-**Parent Topic:**[Create Salesforce spoke actions to retrieve opportunities](../concept/csm-integration-salesforce-spoke.md)
+**Parent Topic:**[Create Salesforce spoke actions to retrieve opportunities](csm-integration-salesforce-spoke.md)
 

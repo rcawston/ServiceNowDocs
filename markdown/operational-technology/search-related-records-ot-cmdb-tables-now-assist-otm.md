@@ -76,5 +76,5 @@ When more than five OT device records appear in the search results based on your
 
 ![Search results for OT PLCs are using the OT CMDB search function](../image/ot-cmdb-search.png)
 
-**Parent Topic:**[Using the OT Manager Foundation](../concept/using-now-assist-for-otm.md)
+**Parent Topic:**[Using the OT Manager Foundation](using-now-assist-for-otm.md)
 

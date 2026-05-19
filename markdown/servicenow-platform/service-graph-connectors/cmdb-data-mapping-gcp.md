@@ -722,7 +722,7 @@ Annotation
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from a GCP project, see [CMDB classes targeted in Service Graph Connector for GCP](sgc-cmdb-gcp-classes.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../concept/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 
 Additional information about GCP data sources:
 
@@ -732,14 +732,14 @@ Additional information about GCP data sources:
 -   After all the data sources are executed, the Server \[cmdb\_ci\_server\] class is updated with the class entry, and then based on the Windows or Linux class, the records are created in the Windows Server \[cmdb\_ci\_win\_server\] and Linux Server \[cmdb\_ci\_linux\_server\] classes, respectively.
 -   The SG-GCP Generic Resource data source imports data for resources that are categorized as `Generic` in the Service Graph Resource Inclusion Whitelist \[sn\_cmdb\_int\_util\_service\_graph\_resource\_inclusion\_whitelist\] table.
 
--   For any discovered resources that are deleted after pulling data, the Service Graph Connector for GCP automatically updates the **Install Status** field of the associated CMDB CI classes to indicate any retired or deleted records. For more information, see [Life cycle management of records in Service Graph Connector for GCP](../concept/sgc-cmdb-gcp-lc.md) and [Record removal process in Service Graph Connector for GCP](../concept/sgc-cmdb-gcp-removal.md).
+-   For any discovered resources that are deleted after pulling data, the Service Graph Connector for GCP automatically updates the **Install Status** field of the associated CMDB CI classes to indicate any retired or deleted records. For more information, see [Life cycle management of records in Service Graph Connector for GCP](sgc-cmdb-gcp-lc.md) and [Record removal process in Service Graph Connector for GCP](sgc-cmdb-gcp-removal.md).
 -   When the **sn\_itom\_pattern.use a single hardware type for cloud data centers** system property is set to `true`, hardware type data is added to the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table, instead of being added to the Hardware Type \[cmdb\_ci\_compute\_template\] table from Service Graph Connector for GCP version 1.9.0. For more information, see the [Service Graph Connector For GCP - Migrating to a new hardware type model \[KB1899584\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1899584) article in the Now Support Knowledge Base.
 -   When the **sn\_cmdb\_ci\_class.use\_single\_cloud\_os\_image** system property is set to `true`, image type data is added to the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table, instead of being added to the Image \[cmdb\_ci\_os\_template\] table from Service Graph Connector for GCP version 1.9.0. For more information, see the [Service Graph Connector For GCP - Migrating to a new Cloud OS Image model \[KB1983751\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1983751) article in the Now Support Knowledge Base.
 -   The list API calls return only the information that is required to make batch calls and not the entire resource response from Service Graph Connector for GCP version 1.9.0.
 -   Parallel data loading is enabled for the SG-GCP Annotation, SG-GCP Generic Resource,and SG-GCP Generic Resource Annotation data sources.
 -   You can configure the **AppScript Folder IDs** connection property to exclude AppScript folder information from imports starting from Service Graph Connector for GCP version 1.10.0. For more information, see [Service Graph Connector for GCP properties](cmdb-sgc-gcp-props.md).
 -   The SG-GCP Software Inventory scheduled import runs before the SG-GCP VM Instance scheduled import from Service Graph Connector for GCP version 1.10.0. The SG-GCP Software Inventory scheduled job populates the operating system information for the Server records, which determines the script that needs to be run for deep discovery \(Shell script for Linux VMs or PowerShell script for Windows VMs\).
--   The SG-GCP Get Patch Job scheduled import supports deep discovery by running commands on VMs from Service Graph Connector for GCP version 1.10.0. For information about deep discovery for the Service Graph Connector for GCP, see the [Enabling deep discovery for Service Graph Connector for GCP](../concept/sgc-gcp-deep-discovery.md) article in the Now Support Knowledge Base.
+-   The SG-GCP Get Patch Job scheduled import supports deep discovery by running commands on VMs from Service Graph Connector for GCP version 1.10.0. For information about deep discovery for the Service Graph Connector for GCP, see the [Enabling deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md) article in the Now Support Knowledge Base.
 
 ## Related content
 

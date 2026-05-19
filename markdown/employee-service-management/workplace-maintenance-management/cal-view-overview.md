@@ -115,7 +115,7 @@ Role required: admin
 11. Select **Save.**
 
 
-**Parent Topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Parent Topic:**[Manage Workplace Maintenance Management plans](manage-maintenance-plans.md)
 
 **Previous topic:**[Create and publish maintenance plans](create-publish-maintenance-plans.md)
 

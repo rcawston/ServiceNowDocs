@@ -116,7 +116,7 @@ Workplace Move Case\[sn\_wsd\_move\_case\]
 
 </td><td>
 
-Stores information about all the move cases and child move cases created in the application.**Note:** This table is a child table of Workplace tasks \[sn\_wsd\_core\_workplace\_task\] in Workplace Core. If **WSD: Archive old workplace tasks** archival rule is applied then Workplace Move Case \[sn\_wsd\_move\_case\] table is also archived. For more information, see [Apply the archive rule](../../workplace-service-delivery/task/wsd-tables-purge-policy.md).
+Stores information about all the move cases and child move cases created in the application.**Note:** This table is a child table of Workplace tasks \[sn\_wsd\_core\_workplace\_task\] in Workplace Core. If **WSD: Archive old workplace tasks** archival rule is applied then Workplace Move Case \[sn\_wsd\_move\_case\] table is also archived. For more information, see [Apply the archive rule](workplace-core/wsd-tables-purge-policy.md).
 
 </td></tr><tr><td>
 
@@ -132,8 +132,8 @@ Workplace Move Task\[sn\_wsd\_move\_task\]
 
 </td><td>
 
-Stores information about all the move tasks and child move tasks created in the application.**Note:** If **WSD: Archive old workplace tasks** archival rule is applied then Workplace Move Task \[sn\_wsd\_move\_task\] table is also archived. For more information, see [Apply the archive rule](../../workplace-service-delivery/task/wsd-tables-purge-policy.md).
+Stores information about all the move tasks and child move tasks created in the application.**Note:** If **WSD: Archive old workplace tasks** archival rule is applied then Workplace Move Task \[sn\_wsd\_move\_task\] table is also archived. For more information, see [Apply the archive rule](workplace-core/wsd-tables-purge-policy.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Move Management references](../concept/workplace-move-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Move Management references](workplace-move-mgmt-references.md)
 

@@ -18,7 +18,7 @@ Promote assets including conversational subflows, conversational actions, and to
 
 ## Before you begin
 
-Associate an LLM topic, conversational subflow, or conversational action with an LLM assistant. For more information, see [Creating a Virtual Agent topic](create-virtual-agent-topic.md), [Managing conversational subflows in Assistant Designer](../concept/managing-conversational-subflows.md), and [Managing conversational actions in Assistant Designer](../concept/managing-conversational-actions.md).
+Associate an LLM topic, conversational subflow, or conversational action with an LLM assistant. For more information, see [Creating a Virtual Agent topic](create-virtual-agent-topic.md), [Managing conversational subflows in Assistant Designer](managing-conversational-subflows.md), and [Managing conversational actions in Assistant Designer](managing-conversational-actions.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -28,11 +28,11 @@ After you associate a conversational subflow, conversational action, or topic wi
 
 System topics, setup topics, topic blocks, custom controls, and small talk topics cannot be promoted.
 
-**Note:** You can also promote NLU/keyword topics by creating topic recommendations in Conversational Interfaces settings. For more information, see [Using Virtual Agent Topic Recommendations](../concept/va-topic-recommendations.md).
+**Note:** You can also promote NLU/keyword topics by creating topic recommendations in Conversational Interfaces settings. For more information, see [Using Virtual Agent Topic Recommendations](va-topic-recommendations.md).
 
 For promotion controls for LLM assets, you can check the asset's **Promoted** status under the Show actions for this row icon ![](../images/kebab-menu.png). The **Promoted** status shows a check mark when the topic is promoted.
 
-For more information about LLM assistants, see [LLM assistants](../../now-assist-in-va/concept/llm-assistants.md).
+For more information about LLM assistants, see [LLM assistants](../now-assist-in-virtual-agent/llm-assistants.md).
 
 ## Procedure
 
@@ -61,5 +61,5 @@ A toast message also appears for four seconds, confirming that the asset has bee
 
 Reorder promoted LLM conversational subflows, actions, and topics in Virtual Agent. For more information, see [Reorder promoted LLM conversational subflows, actions, and topics](sort-promoted-va-topics.md).
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 

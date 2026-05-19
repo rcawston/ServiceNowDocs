@@ -33,7 +33,7 @@ This role is installed along with the LES application and allows a non-admin to 
 
 -   **Elevated**
 
-    Whether the role is an elevated role. Elevated roles aren’t assigned to users or groups, and must be used by elevation. For details, see[Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md).
+    Whether the role is an elevated role. Elevated roles aren’t assigned to users or groups, and must be used by elevation. For details, see[Elevate to a privileged role](t_ElevateToAPrivilegedRole.md).
 
     No.
 
@@ -65,7 +65,7 @@ Admin role is required for the setup of the LES store application.
 
 -   **Elevated**
 
-    Whether the role is an elevated role. Elevated roles aren’t assigned to users or groups, and must be used by elevation. For details, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md).
+    Whether the role is an elevated role. Elevated roles aren’t assigned to users or groups, and must be used by elevation. For details, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md).
 
     No.
 
@@ -74,5 +74,5 @@ Admin role is required for the setup of the LES store application.
     None.
 
 
-**Parent Topic:**[Log Export Service \(LES\) references](../concept/les-references.md)
+**Parent Topic:**[Log Export Service \(LES\) references](les-references.md)
 

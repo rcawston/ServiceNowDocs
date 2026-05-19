@@ -27,7 +27,7 @@ Explore the Certificate Authorities \(CA\) pattern API elements and permissions 
 A table of the fields and values to establish the IP address, range of IP addresses, or list of IP addresses for Certificate Discovery.
 -   **[IP-Based Discovery Schedule Form Table](ip-based-cert-discovery-schedule-table.md)**  
 A table of the fields and values to set up an IP-based Certificate Discovery schedule.
--   **[Quick start test for Certificate Inventory and Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-certificate-inventory-and-management.md)**  
+-   **[Quick start test for Certificate Inventory and Management](quick-start-tests-certificate-inventory-and-management.md)**  
 Quick start test for certificate discovery for GoDaddy, Entrust, Digicert, Setigo.
 -   **[Discovery schedule form table](discovery-schedule-form-table.md)**  
 To perform Discovery on root certificates stored outside your server, you must set a special Discovery schedule that locates these certificates. This table guides you through the form required for this task.

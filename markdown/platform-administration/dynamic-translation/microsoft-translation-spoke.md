@@ -36,7 +36,7 @@ The spoke provides subflows in the Published state to integrate with Microsoft t
 |Subflow|Description|
 |-------|-----------|
 |Detect Language \[detect\_language\_v3\]|Contains a set of inputs, actions, and output to detect the language of the input text. Releases before Xanadu Patch 3 use v3 flows.|
-|Detect Language V4 \[detect\_language\_v4\]|Contains a set of inputs, actions, and output to detect the language of the input text. Releases from Xanadu Patch 3 use v4 flows. For more information about v4 flows, see [Migrate customized Translator Configurations to v4 flows](../task/migrate-v4-dynamic-translation.md).|
+|Detect Language V4 \[detect\_language\_v4\]|Contains a set of inputs, actions, and output to detect the language of the input text. Releases from Xanadu Patch 3 use v4 flows. For more information about v4 flows, see [Migrate customized Translator Configurations to v4 flows](migrate-v4-dynamic-translation.md).|
 |Translate Text \[translate\_text\_v3\]|Contains a set of inputs, actions, and outputs to translate the input text to multiple languages. This subflow uses v3 for releases before and after Xanadu Patch 3.|
 
 ## Spoke actions
@@ -72,11 +72,11 @@ The following are the connection alias requirements.
 
 Perform the following tasks to connect to the Microsoft machine translation service.
 
-1.  [Create a credential for the MicrosoftTranslation alias](../task/create-credential-ms-translation.md)  
+1.  [Create a credential for the MicrosoftTranslation alias](create-credential-ms-translation.md)  
 Authorize actions of Microsoft Azure Translator Service spoke by creating a credential for the MicrosoftTranslation connection and credential alias.
-2.  [Create a connection for the MicrosoftTranslation alias](../task/create-connection-ms-translation.md)  
+2.  [Create a connection for the MicrosoftTranslation alias](create-connection-ms-translation.md)  
 Connect to the Microsoft translation service by creating a connection. Provide information that is used by HTTP\(s\) actions or activities to connect to that service.
-3.  [Activate the Microsoft translator configuration](../task/activate-ms-translator-config.md)  
+3.  [Activate the Microsoft translator configuration](activate-ms-translator-config.md)  
 Make the Microsoft translation service available for use by activating the Microsoft translator configuration.
 
 **Parent Topic:**[Integration with other translation services](integration-with-other-translation-services.md)

@@ -21,8 +21,8 @@ Some functions are available, specifically for Service Catalog:
 -   The Service Catalog Script API makes catalog ordering easier from inside business rules.
 -   Scriptable Assignment of Execution Plans allows selection of an execution plan at the time of ordering, based on scripted conditions.
 
--   **[Create a custom cart](../task/t_CreatingACustomShoppingCart.md#)**  
+-   **[Create a custom cart](t_CreatingACustomShoppingCart.md#)**  
 Administrators with a knowledge of Jelly can customize the look and feel of service catalog carts, either globally or for specific catalog items, using the UI macro capability.
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](p_ServiceCatalogCustomization.md)
 

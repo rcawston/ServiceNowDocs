@@ -43,5 +43,5 @@ When you open a test case from the Test Cases related list, you can view the fol
 
 ## Test Management dashboard
 
-Analyze the progress of all your active test plans by using multiple reports on the Test Management dashboard. For more information, see [Test Management dashboard](../reference/r_TestManagementDashboard.md).
+Analyze the progress of all your active test plans by using multiple reports on the Test Management dashboard. For more information, see [Test Management dashboard](r_TestManagementDashboard.md).
 

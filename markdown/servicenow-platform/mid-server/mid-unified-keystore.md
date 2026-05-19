@@ -71,27 +71,27 @@ MIIDKzCCAhOgAwIBAgIEPqMQqDANBgkqhkiG9w0BAQsFADBGMQswCQYDVQQGEwJV
 
 [MID Server certificate check policies](mid-security-checks.md)
 
-[Encrypt or decrypt MID Server configuration file values](../task/mid-server-manual-encryption.md)
+[Encrypt or decrypt MID Server configuration file values](mid-server-manual-encryption.md)
 
-[MID Server configuration file security](../reference/mid-server-encrypter-api.md)
+[MID Server configuration file security](mid-server-encrypter-api.md)
 
 [MID Server authentication credentials and SOAP requests](mid-authentication-soap-requests.md#)
 
-[Enable MID Server mutual authentication](../task/install-mid-mutual-auth.md)
+[Enable MID Server mutual authentication](install-mid-mutual-auth.md)
 
-[MID Server Azure Key Vault integration](../task/mid-azure-key-vault-integration.md#)
+[MID Server Azure Key Vault integration](mid-azure-key-vault-integration.md#)
 
 [MID Server command audit log](mid-audit-log.md)
 
-[Rekey a MID Server](../task/t_RekeyAMIDServer.md)
+[Rekey a MID Server](t_RekeyAMIDServer.md)
 
-[Add SSL certificates for the MID Server](../task/add-ssl-certificates.md#)
+[Add SSL certificates for the MID Server](add-ssl-certificates.md#)
 
-[Specify an external TrustStore for the MID Server](../task/mid-external-truststore.md)
+[Specify an external TrustStore for the MID Server](mid-external-truststore.md)
 
-[MID Server SSH cryptographic algorithms](../reference/mid-ssh-algorithms.md)
+[MID Server SSH cryptographic algorithms](mid-ssh-algorithms.md)
 
-[Attach a script file to a file synchronized MID Server](../task/mid-server-script-attach.md#)
+[Attach a script file to a file synchronized MID Server](mid-server-script-attach.md#)
 
 [MID Server FIPS Enforced Mode](mid-fips-enforced.md#)
 
@@ -272,7 +272,7 @@ The **manage-certificates** has the following functions and the scripts must be 
 **Related topics**  
 
 
-[Enable MID Server mutual authentication](../task/install-mid-mutual-auth.md)
+[Enable MID Server mutual authentication](install-mid-mutual-auth.md)
 
 ## Restore the MID Server key store with a backup
 
@@ -290,7 +290,7 @@ In the backup folder, there is a dedicated backup log file: **keystore\_backup\_
 
 **Note:** For security purposes, the backup key store should have the same attributes as the original key store, such as owner, group, and permissions. Those attributes ensure the MID Server has the same protection at file system level.
 
-The key store backups can be modified with the MID Server properties **mid.keystore.max\_backups**, **mid.keystore.max\_live\_backups**, and **mid.keystore.backup\_overwrite\_timespan**. See [MID Server properties](../reference/r_MIDServerProperties.md#) for more information.
+The key store backups can be modified with the MID Server properties **mid.keystore.max\_backups**, **mid.keystore.max\_live\_backups**, and **mid.keystore.backup\_overwrite\_timespan**. See [MID Server properties](r_MIDServerProperties.md#) for more information.
 
 ### Procedure
 

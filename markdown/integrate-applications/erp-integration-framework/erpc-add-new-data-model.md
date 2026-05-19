@@ -38,7 +38,7 @@ A model functions as a staging area that contains all potential fields you can a
 
 4.  On the new model tab, fill in the fields.
 
-    For a description of the field values, see [Zero Copy Connector for ERP new model field descriptions](../reference/erp-canvas-new-model-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP new model field descriptions](erp-canvas-new-model-descriptions.md).
 
 5.  Select **Save**.
 
@@ -53,8 +53,8 @@ A model functions as a staging area that contains all potential fields you can a
 
 After you add a new ERP model, specify additional criteria. For example, which tables it reads and joins, any parameters for inputs and outputs, and whether it uses a BAPI to update the system of record. For more information, see the following topics:
 
--   [Managing how models read and update the ERP system](../concept/erpc-managing-models-read.md)
+-   [Managing how models read and update the ERP system](erpc-managing-models-read.md)
 -   [Add joins between ERP tables](erp-canvas-add-join-data-model.md)
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

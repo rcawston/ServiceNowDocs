@@ -13,7 +13,7 @@ breadcrumb: [Reference, Now Assist for Setup, Get started, Administer the Servic
 
 Before getting started with Now Assist for Setup, it's important to understand some key terms used in the application.
 
-**Parent Topic:**[Now Assist for Setup references](../reference/ia-reference.md)
+**Parent Topic:**[Now Assist for Setup references](ia-reference.md)
 
 ## application scope
 

@@ -17,7 +17,7 @@ Create a JSON Web Token \(JWT\) for representing claims securely between two par
 
 The [GlideJWT API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideJWTScopedAPI.md) is a scoped, scriptable API which generates a JWT. There are three arguments necessary before generating the JWT:
 
--   Sys\_id of [JWT Provider](../task/JWT-Bearer-token-support.md#)
+-   Sys\_id of [JWT Provider](JWT-Bearer-token-support.md#)
 -   JSON serialized header
 -   JSON serialized payload
 
@@ -25,8 +25,8 @@ There are two JWT API scripts, JWTTokenInternal and JWTTokenRestricted, that you
 
 To generate a JWT:
 
--   [Create a JWT Key with a shared key \(HMAC\) or a signing keystore \(RSA\)](../task/JWT-Bearer-token-support.md#)
--   [Associate a JWT provider with the signing configuration referring a JWT key](../task/JWT-Bearer-token-support.md#)
+-   [Create a JWT Key with a shared key \(HMAC\) or a signing keystore \(RSA\)](JWT-Bearer-token-support.md#)
+-   [Associate a JWT provider with the signing configuration referring a JWT key](JWT-Bearer-token-support.md#)
 
 You can use the API to create your token.
 

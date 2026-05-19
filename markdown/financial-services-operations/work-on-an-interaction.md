@@ -43,7 +43,7 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
     The chat is specific to this interaction record. If you navigate away, you can resume the chat by selecting **Ask Now Assist**.
 
-    For more information, see [Request AI agent support in the Interaction page](../../fso-now-assist/task/request-ai-agent-interaction-workspace.md).
+    For more information, see [Request AI agent support in the Interaction page](now-assist-for-financial-services-operations-fso/request-ai-agent-interaction-workspace.md).
 
 6.  After resolving the customer's issues, end the chat or call.
 
@@ -56,16 +56,16 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
 The interaction is closed.
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 
 **Related topics**  
 
 
-[Interaction page for Agentic Contact Center for Banking](../concept/interaction-workspace-for-agentic-contact-center-for-banking.md)
+[Interaction page for Agentic Contact Center for Banking](interaction-workspace-for-agentic-contact-center-for-banking.md)
 
-[Summarize customer interaction context in the Interaction page](../../fso-now-assist/task/summarize-customer-context-fso.md)
+[Summarize customer interaction context in the Interaction page](now-assist-for-financial-services-operations-fso/summarize-customer-context-fso.md)
 
-[Request AI agent support in the Interaction page](../../fso-now-assist/task/request-ai-agent-interaction-workspace.md)
+[Request AI agent support in the Interaction page](now-assist-for-financial-services-operations-fso/request-ai-agent-interaction-workspace.md)
 
 [Interaction wrap up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-state.md)
 

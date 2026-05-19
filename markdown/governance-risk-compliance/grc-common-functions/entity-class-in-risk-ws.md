@@ -60,12 +60,12 @@ Information on the child classes:-   Name
 </td></tr></tbody>
 </table>To save the newly created entity class configuration, click **Save**.
 
--   **[Create an entity class](../task/create-new-entity-class-ws.md)**  
+-   **[Create an entity class](create-new-entity-class-ws.md)**  
 Create an entity class that is associated with an entity. Entity classes are used to add a conceptual information about the entity and classify the entities. They represent a collection of entities that have the same attributes such as Department, Business Unit, or Business Service. You can gather data about the entities based on the entity class.
--   **[Update entity classes for multiple entities](../task/bulk-update-entity-class.md)**  
+-   **[Update entity classes for multiple entities](bulk-update-entity-class.md)**  
 Provide an entity class for multiple entities where the class field is empty. Entity classes are used to add a conceptual information about the entity and classify the entities. As an administrator, you can update the entity classes for multiple entities with a single click.
--   **[Scheduled jobs for Governance, Risk, and Compliance](../../grc-common/concept/scheduled-jobs.md)**  
+-   **[Scheduled jobs for Governance, Risk, and Compliance](scheduled-jobs.md)**  
 Scheduled jobs are automated pieces of work that can be performed at a specific time or on a recurring schedule. GRC administrators run the scheduled jobs on demand to automate the tasks such as setting an entity class on the entities depending on the entity class rule.
 
-**Parent Topic:**[Exploring the entities](../../grc-common/concept/exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](exploring-the-entities.md)
 

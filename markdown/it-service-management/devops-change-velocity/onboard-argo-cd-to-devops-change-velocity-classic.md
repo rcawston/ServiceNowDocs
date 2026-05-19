@@ -79,5 +79,5 @@ Password of your Argo CD instance.
     The tool is automatically Connected Successfully using a connection alias, and HTTP tool connection \(basic authentication credential\).
 
 
-**Parent Topic:**[Argo CD integration with DevOps Change Velocity](../concept/argo-cd-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Argo CD integration with DevOps Change Velocity](argo-cd-integration-with-devops-change-velocity.md)
 

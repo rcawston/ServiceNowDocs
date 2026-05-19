@@ -17,7 +17,7 @@ REST \(REpresentational State Transfer\) is a simple stateless architecture that
 
 The ServiceNow AI Platform provides various REST APIs, which are active by default. These APIs provide the ability to interact with various ServiceNow functionality within your application. Such functionality includes the ability to perform create, read, update, and delete \(CRUD\) operations on existing tables \(Table API\), insert data into, retrieve information from, and run transforms against a MetricBase database \(MetricBase Time Series API, and many others.
 
-For a list of available REST APIs, see [REST API reference](../../../build/applications/concept/api-rest.md).
+For a list of available REST APIs, see [REST API reference](../rest-apis/api-rest.md).
 
 **Note:** You can view inbound API transactions in the Transaction logs. Use a link like the one below to view the transactions for the current day:
 
@@ -59,7 +59,7 @@ For most ServiceNow REST APIs these request headers support the following values
 -   Accept: **application/json**, **application/xml**
 -   Content-Type: **application/json**, **application/xml**
 
-For the list of specific values supported by each endpoint, refer to the [REST API reference](../../../build/applications/concept/api-rest.md).
+For the list of specific values supported by each endpoint, refer to the [REST API reference](../rest-apis/api-rest.md).
 
 ## Other headers
 
@@ -265,7 +265,7 @@ The request runs on the User Roles \[sys\_user\_has\_role\] table which defines 
 
 ## REST API HTTP response codes
 
-Calls made to REST endpoints return HTTP response codes. You can use these response codes to ensure that the REST API executed properly. If it did not, the endpoint returns an error response code. Use the information in the error response to troubleshoot issues with your call format. For a list of standard response codes that an endpoint may return, see [REST API HTTP response codes](../reference/r_RESTAPIHTTPResponseCodes.md). For the list of response codes returned by a specific ServiceNow REST API, see the [REST API reference](../../../build/applications/concept/api-rest.md).
+Calls made to REST endpoints return HTTP response codes. You can use these response codes to ensure that the REST API executed properly. If it did not, the endpoint returns an error response code. Use the information in the error response to troubleshoot issues with your call format. For a list of standard response codes that an endpoint may return, see [REST API HTTP response codes](r_RESTAPIHTTPResponseCodes.md). For the list of response codes returned by a specific ServiceNow REST API, see the [REST API reference](../rest-apis/api-rest.md).
 
 ## REST API security
 
@@ -283,7 +283,7 @@ You can craft one single policy to block the incoming request, at a global REST 
 
 ## REST API roles
 
-In addition to user authentication, each REST endpoint can have different requirements for the roles required to access the endpoint. Some require the admin role and others require API specific roles. Role requirements are specified in the access control list \(ACL\) associated with the REST API/endpoint. For specifics on the valid roles for each REST API/endpoint, refer to the [REST API reference](../../../build/applications/concept/api-rest.md) or locate the associated ACL for the API/endpoint within an instance through **System Security** &gt; **Access Control \(ACL\)**.
+In addition to user authentication, each REST endpoint can have different requirements for the roles required to access the endpoint. Some require the admin role and others require API specific roles. Role requirements are specified in the access control list \(ACL\) associated with the REST API/endpoint. For specifics on the valid roles for each REST API/endpoint, refer to the [REST API reference](../rest-apis/api-rest.md) or locate the associated ACL for the API/endpoint within an instance through **System Security** &gt; **Access Control \(ACL\)**.
 
 ## REST API ACLs
 
@@ -378,18 +378,18 @@ To prevent excessive inbound REST API requests, set rules that limit the number 
 You can debug in-bound REST queries by reviewing the session debug log.
 -   **[Return session debug logs in a REST response](rest-session-debug-header.md)**  
 You can include session debug logs in a REST response body by passing the X-WantSessionDebugMessages header in the request.
--   **[CORS domain requirements](../reference/r_CORSDomainRequirements.md)**  
+-   **[CORS domain requirements](r_CORSDomainRequirements.md)**  
 When you define a cross-origin resource sharing \(CORS\) rule, the value you enter in the **Domain** field must meet certain requirements. Each CORS rule supports a single wildcard to match incoming Origin headers.
--   **[Define a CORS rule](../task/t_DefineACORSRule.md)**  
+-   **[Define a CORS rule](t_DefineACORSRule.md)**  
 You can define a CORS rule to control which domains can access REST API endpoints and other web resources.
--   **[Enable OAuth with inbound REST](../task/t_EnableOAuthWithREST.md)**  
+-   **[Enable OAuth with inbound REST](t_EnableOAuthWithREST.md)**  
 Using OAuth, you can pass a user ID and password once, and then use a token for subsequent REST requests instead of submitting credentials with each request.
--   **[REST API HTTP response codes](../reference/r_RESTAPIHTTPResponseCodes.md)**  
+-   **[REST API HTTP response codes](r_RESTAPIHTTPResponseCodes.md)**  
 REST messages sent to an instance return a specific HTTP response code.
--   **[Scripted REST APIs](../../custom-web-services/concept/c_CustomWebServices.md)**  
+-   **[Scripted REST APIs](c_CustomWebServices.md)**  
 The scripted REST API feature allows application developers to build custom web service APIs.
 
-**Parent Topic:**[Web services](../../web-services/reference/r_AvailableWebServices.md)
+**Parent Topic:**[Web services](../web-services/r_AvailableWebServices.md)
 
 **Related topics**  
 

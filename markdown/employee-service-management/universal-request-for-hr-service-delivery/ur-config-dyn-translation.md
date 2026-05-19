@@ -40,5 +40,5 @@ After activating the Dynamic Translation plugin, you can configure one of the tr
     For a list of available languages, see [Activate a Language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
 
-**Parent Topic:**[Configuring Universal Request](../concept/configure-ur.md)
+**Parent Topic:**[Configuring Universal Request](configure-ur.md)
 

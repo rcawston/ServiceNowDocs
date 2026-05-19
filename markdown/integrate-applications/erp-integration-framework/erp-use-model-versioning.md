@@ -18,7 +18,7 @@ Use model versioning in Zero Copy Connector for ERP \(Enterprise Resource Planni
 
 ## Before you begin
 
-For versioning to take place, the **sn\_erp\_integration.enableModelModification** system property must be set to true on your development instance. For more information about the system property, see [Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md).
+For versioning to take place, the **sn\_erp\_integration.enableModelModification** system property must be set to true on your development instance. For more information about the system property, see [Building and managing models to work with ERP data](work-with-erp-data-models.md).
 
 Role required: sn\_erp\_integration.erp\_admin
 
@@ -43,5 +43,5 @@ As you work with model records on a development instance, at certain intervals y
     ![Model record with version number highlighted.](../image/erp-model-versions2.png)
 
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

@@ -30,7 +30,7 @@ Response template channels segregate your response templates into media categori
     **Note:** Form provides text you can use in the comments or work notes on an HR case.
 
 
-For more information on setting up a response template channel, see [Create a response template channel](hr-templated-snippets.md#).
+For more information on setting up a response template channel, see [Create a response template channel](../hr-service-delivery/hr-templated-snippets.md#).
 
-For more information on setting up response templates, see [Response templates for HR Service Delivery](hr-templated-snippets.md#).
+For more information on setting up response templates, see [Response templates for HR Service Delivery](../hr-service-delivery/hr-templated-snippets.md#).
 

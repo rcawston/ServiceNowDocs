@@ -15,7 +15,7 @@ breadcrumb: [Guided Tours, Adoption services, Configure user experiences]
 
 Guided tour configurations allow you to enable, create, modify, and customize tours, as well as configure them to launch automatically and customize the tour experience.
 
--   **[Plan Guided Tours](../concept/plan-a-guided-tour.md)**  
+-   **[Plan Guided Tours](plan-a-guided-tour.md)**  
 Planning is essential before entering a guided tour into the system. Create an outline and include any assumptions to assist you during the tour creation.
 -   **[Enable Guided Tours](activate-guidedtours-service-portal.md)**  
 Enable guided tours for Standard platform UI, Workspace, Service Portal pages, and Custom UI.
@@ -23,7 +23,7 @@ Enable guided tours for Standard platform UI, Workspace, Service Portal pages, a
 After you outline the guided tour, use the Guided Tour Designer \(GTD\) to enter the steps using callouts and triggers.
 -   **[Edit Guided Tours](edit-guided-tour.md)**  
 You can modify the settings of a guided tour by using the Guided Tour Designer \(GTD\).
--   **[Test Guided Tours](../concept/testing-guided-tours.md)**  
+-   **[Test Guided Tours](testing-guided-tours.md)**  
 Test your guided tour to verify it achieves your intended goal.
 -   **[Configure auto-launch for Guided Tours](auto-launch-guided-tours.md)**  
 Configure one or more tours to launch automatically when a user lands on a page.
@@ -34,5 +34,5 @@ You can assign a list or form view to a step in a guided tour.
 -   **[Create Guided Tours with accessibility enabled](use-gtd-with-accessibility.md)**  
 The Guided Tour Designer has accessibility features so that users can design tours using screen readers and keyboard navigation.
 
-**Parent Topic:**[Guided Tours](../concept/guided-tours.md)
+**Parent Topic:**[Guided Tours](guided-tours.md)
 

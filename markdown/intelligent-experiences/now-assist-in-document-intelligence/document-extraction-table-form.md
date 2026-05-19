@@ -104,7 +104,7 @@ Column type
 
 The type of field in the table column. For example, a text or date field. For more information, see [Field types in Now Assist in Document Intelligence](now-assist-document-intelligence-field-types.md).
 
- Some field types convert the extracted value into a standard format. For more information, see [Data normalization](../concept/data-normalization.md).
+ Some field types convert the extracted value into a standard format. For more information, see [Data normalization](../document-intelligence/data-normalization.md).
 
 </td></tr><tr><td>
 

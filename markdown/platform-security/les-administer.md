@@ -13,7 +13,7 @@ breadcrumb: [Log Export Service \(LES\), Platform Security]
 
 Use LES to create log source configuration and multi-topics for each source type.
 
--   **[Create a log source configuration](../task/les-create-source-configuration.md)**  
+-   **[Create a log source configuration](les-create-source-configuration.md)**  
 Regulate and set filters on the logs to be forwarded by creating a log source configuration.
 
 **Parent Topic:**[Log Export Service \(LES\)](les-intro.md)

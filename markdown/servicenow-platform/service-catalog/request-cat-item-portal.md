@@ -119,7 +119,7 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(![Ic
         -   The **Opened By** field of the cloned requests is updated with the logged in user.
         -   Select the **Requests** menu option or the My Requests widget on the catalog homepage to view the cloned request created for the user.
 
-**Parent Topic:**[Service Catalog in Service Portal](../concept/catalog-on-portal.md)
+**Parent Topic:**[Service Catalog in Service Portal](catalog-on-portal.md)
 
 **Related topics**  
 
@@ -132,7 +132,7 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(![Ic
 
 [Request an order guide from Service Portal](request-order-guide-portal.md)
 
-[Service Catalog request screens](../concept/c_RequestingAServiceCatalogItem.md#)
+[Service Catalog request screens](c_RequestingAServiceCatalogItem.md#)
 
 [Create a variable set and add it to an item](t_CreateAVariableSet.md#)
 

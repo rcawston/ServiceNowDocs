@@ -48,9 +48,9 @@ Roles and demo data are installed with SRM. The demo data includes templates tha
     Following installation, the **Service Reliability Management** card can be used to configure SRM.
 
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
-**Previous topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Previous topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
 **Next topic:**[Assign an administrator to Service Reliability Management](sr-assign-admins.md)
 

@@ -43,7 +43,7 @@ Store a sequence of alphanumeric text values in an array.
 
 ![Execution details of a custom action that generates user names who have a specific role.](../images/array-strings-execution-details.png)
 
-This example uses a custom action to generate a list of users who have a specific user role. To create the custom action to generate an array of strings, see [Create a custom action to generate an array of strings from a list of records](../task/create-custom-action-array-strings.md).
+This example uses a custom action to generate a list of users who have a specific user role. To create the custom action to generate an array of strings, see [Create a custom action to generate an array of strings from a list of records](create-custom-action-array-strings.md).
 
 In this example, the users array contains three users who have the admin role.
 

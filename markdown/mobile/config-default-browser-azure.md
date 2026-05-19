@@ -59,7 +59,7 @@ SNAuthenticationBrowseriOS
 
 </td><td>
 
-Enter the value for the browser to use for apps on iOS mobile devices. For more information and a list of values, see [AppConfig for Mobile Apps](../reference/appconfig.md)
+Enter the value for the browser to use for apps on iOS mobile devices. For more information and a list of values, see [AppConfig for Mobile Apps](appconfig.md)
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ SNAuthenticationBrowserAndroid
 
 </td><td>
 
-Enter the value for the browser to use for apps on Android mobile devices. For more information and a list of values, see [AppConfig for Mobile Apps](../reference/appconfig.md)
+Enter the value for the browser to use for apps on Android mobile devices. For more information and a list of values, see [AppConfig for Mobile Apps](appconfig.md)
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ SNBlockInstanceCreate
 
 </td><td>
 
-Enter the value to prevent end users from creating connections to new instances for managed mobile apps. For more information and a list of values, see [AppConfig for Mobile Apps](../reference/appconfig.md).
+Enter the value to prevent end users from creating connections to new instances for managed mobile apps. For more information and a list of values, see [AppConfig for Mobile Apps](appconfig.md).
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ SNBlockMultiInstance
 
 </td><td>
 
-Enter the value to prevent end users from logging in to multiple instances simultaneously. For more information and a list of values, see [AppConfig for Mobile Apps](../reference/appconfig.md).
+Enter the value to prevent end users from logging in to multiple instances simultaneously. For more information and a list of values, see [AppConfig for Mobile Apps](appconfig.md).
 
 </td></tr></tbody>
 </table>    ![Edit app configuration policy window in Microsoft Endpoint Manager admin center.](../image/azure-edit-policy.png)
@@ -91,5 +91,5 @@ Enter the value to prevent end users from logging in to multiple instances simul
 7.  Select **Review + save**
 
 
-**Parent Topic:**[Intune mobile device management \(MDM\)](../concept/intune-mdm.md)
+**Parent Topic:**[Intune mobile device management \(MDM\)](intune-mdm.md)
 

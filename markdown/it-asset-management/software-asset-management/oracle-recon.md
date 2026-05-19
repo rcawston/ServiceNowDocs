@@ -19,9 +19,9 @@ When you run an Oracle reconciliation, Software Asset Management determines the 
 
 **Note:** Any allocations that you make on a physical host are considered valid. Software Asset Management marks these allocations as **Allocated in use** in the license workbench. Any allocations that you make on a virtual host, such as a virtual machine \(VM\), are considered invalid. Software Asset Management marks these allocations as **Allocated not in use**.
 
-For Oracle database and WebLogic server licensing on VMware virtualization technology, you can select the level of aggregation for your reconciliation calculation using the **Select the level of aggregation for reconciling licenses for Oracle databases and WebLogic servers on VMware** property. You can also enable Software Asset Management to account for VM-Host affinity rules during Oracle reconciliation using the **Use host affinity for reconciling licenses for Oracle databases and WebLogic servers on VMware at the vCenter\(s\) aggregation level** property. See [Software Asset Management properties](../reference/sam-properties.md) for information on these properties.
+For Oracle database and WebLogic server licensing on VMware virtualization technology, you can select the level of aggregation for your reconciliation calculation using the **Select the level of aggregation for reconciling licenses for Oracle databases and WebLogic servers on VMware** property. You can also enable Software Asset Management to account for VM-Host affinity rules during Oracle reconciliation using the **Use host affinity for reconciling licenses for Oracle databases and WebLogic servers on VMware at the vCenter\(s\) aggregation level** property. See [Software Asset Management properties](sam-properties.md) for information on these properties.
 
--   **[Set up domain-specific reconciliation properties for Oracle](../task/define-application-properties-oracle.md)**  
+-   **[Set up domain-specific reconciliation properties for Oracle](define-application-properties-oracle.md)**  
 Use domain separation application properties for Software Asset Management to set up Oracle reconciliation properties for specific domains.
 
 **Parent Topic:**[Software Asset Management publisher pack for Oracle](oracle-publisher-pack.md)

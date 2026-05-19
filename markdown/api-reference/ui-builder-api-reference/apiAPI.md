@@ -32,7 +32,7 @@ These scripts cannot be written as an asynchronous function. They also cannot in
 
 The api object contains both configuration dependent and configuration independent properties that you can access within the context of the associated page or component. You cannot directly modify the properties within this object. Modification can only be made through the available methods.
 
-**Parent Topic:**[UIB API reference](../../../../../build/applications/concept/api-uib.md)
+**Parent Topic:**[UIB API reference](api-uib.md)
 
 ## api - api.context.props.&lt;page\_property\_name&gt;
 

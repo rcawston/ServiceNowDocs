@@ -23,7 +23,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Dependencies
 
-CMDB and CSDM Data Foundations Dashboards v2.3.5 or later versions \(see [Monitor health in CSDM and CMDB Data Foundations Dashboards](csdm-cmdb-foundations-dashboards.md)\)
+CMDB and CSDM Data Foundations Dashboards v2.3.5 or later versions \(see [Monitor health in CSDM and CMDB Data Foundations Dashboards](../configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md)\)
 
 ## Using the CMDB Integrations Dashboard
 
@@ -35,13 +35,13 @@ See [CMDB Integrations Dashboard](cmdb-integ-dashboard.md#) for more information
 
 The Integration Commons for CMDB \(com.snc.cmdb.integration\_util\) plugin provides the Integration Commons functionality. You can use the transforms and script includes to standardize the values stored in the CMDB by different data integrations or by changes. The attributes included in the Integration Commons for CMDB application are attributes that the Identification and Reconciliation Engine \(IRE\) requires for identification or attributes that could be used to derive classes.
 
-**Note:** The RTE transforms are included in the Integration Commons for CMDB app and are available in the [IntegrationHub ETL](integrationhub-etl.md) app. For more information on RTE transforms, see [RTE operation types included within the Integration Commons for CMDB app](../reference/cmdb-rte-operation-types.md) and [RTE transforms template scripts included within the Integration Commons for CMDB app](../reference/cmdb-rte-transforms.md).
+**Note:** The RTE transforms are included in the Integration Commons for CMDB app and are available in the [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) app. For more information on RTE transforms, see [RTE operation types included within the Integration Commons for CMDB app](cmdb-rte-operation-types.md) and [RTE transforms template scripts included within the Integration Commons for CMDB app](cmdb-rte-transforms.md).
 
 ServiceNow Service Graph Connectors that are available at the ServiceNow Store, have dependencies on the transforms and script includes in the Integration Commons for CMDB app. Therefore, when you install such CMDB integrations, the Integration Commons for CMDB store app is automatically installed too.
 
 You can also configure the Application Dependency Mapping \(ADM\) adapter to populate running processes, TCP connections, and applications into the CMDB. For more information, see [Configuring the ADM adapter for Service Graph Connectors](sgc-common-config-adm.md).
 
-**Important:** After upgrades and deployments of new applications or integrations, run quick start tests to verify that Integration Commons for CMDB works as expected. See [Quick start tests for Integration Commons for CMDB](../../../administer/atf-quick-start-tests/reference/quick-start-tests-integration-commons.md) for more information.
+**Important:** After upgrades and deployments of new applications or integrations, run quick start tests to verify that Integration Commons for CMDB works as expected. See [Quick start tests for Integration Commons for CMDB](quick-start-tests-integration-commons.md) for more information.
 
 **Related topics**  
 
@@ -54,5 +54,5 @@ You can also configure the Application Dependency Mapping \(ADM\) adapter to pop
 
 [Partition size computation for parallel loading in Integration Commons for CMDB](integration-commons-part-size.md)
 
-[Quick start tests for Integration Commons for CMDB](../../../administer/atf-quick-start-tests/reference/quick-start-tests-integration-commons.md)
+[Quick start tests for Integration Commons for CMDB](quick-start-tests-integration-commons.md)
 

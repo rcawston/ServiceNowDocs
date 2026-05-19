@@ -15,7 +15,7 @@ breadcrumb: [Strategy and Goals, Strategic Planning, Strategic Portfolio Managem
 
 Reference information to provide additional details about Strategy and Goals such as the fields, user roles, tables, and system properties information.
 
-**Note:** This section covers reference information specific to Strategy and Goals, including user roles, tables, and system properties. For common reference information about tables, roles, and system properties installed with Strategic Planning, see [Strategic Planning Workspace reference](../../alignment-planner-workspace/reference/alignment-planner-workspace-reference.md).
+**Note:** This section covers reference information specific to Strategy and Goals, including user roles, tables, and system properties. For common reference information about tables, roles, and system properties installed with Strategic Planning, see [Strategic Planning Workspace reference](../scenario-planning-in-spw/alignment-planner-workspace-reference.md).
 
 -   **[Components installed with Strategy and Goals](components-installed-with-strategy-goals.md)**  
 Several types of components are installed with installation of the Strategic Planning application, such as user roles, tables, scheduled jobs, system properties, and custom scripts.

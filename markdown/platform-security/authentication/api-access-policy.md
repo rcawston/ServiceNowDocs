@@ -37,7 +37,7 @@ You can configure the default Global Blocking Policy or create a custom API acce
 The following API access policies are supported in ServiceNow®:
 
 -   [REST API access policies](inbound-authentication-profile.md)
--   [SOAP API access policies](../../inbound-soap/concept/soap-api-access-policies.md)
+-   [SOAP API access policies](soap-api-access-policies.md)
 
 For information about policies related to export processors, see [Access policy for System or Export Processors](api-auth-policy-export-processors.md).
 

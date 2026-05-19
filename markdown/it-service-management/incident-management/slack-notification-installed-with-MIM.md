@@ -20,5 +20,5 @@ Slack notifications are added with activation of Incident Management – Major I
 |Major Incident Candidate assigned|Notifies Major Incident Management Group when **Major Incident State** changes to **Proposed**.|
 |IAT conference notification|When conference call is initiated, a slack notification is sent to all the participants of the conference call.|
 
-**Parent Topic:**[Activate Incident Management - Major Incident Management](../task/activate-major-incident-management-plugin.md)
+**Parent Topic:**[Activate Incident Management - Major Incident Management](activate-major-incident-management-plugin.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Enterprise portfolios, Work with portfolios, Digital Portfolio Mana
 
 Navigate three service enterprise portfolio templates: EDUCAUSE Higher Education IT Service Portfolio, IT Service Portfolio, and Sample Organizational Structure.
 
-Navigate the three enterprise service portfolio templates and decide which one to use. Templates are structured in a nesting content tree format with taxonomy nodes and services with descriptions. This structure helps you easily navigate your portfolio. For more information on creating a portfolio using one of these templates, see [Create enterprise service portfolios using a template](../task/dpm-create-enterprise-portfolio-using-template.md).
+Navigate the three enterprise service portfolio templates and decide which one to use. Templates are structured in a nesting content tree format with taxonomy nodes and services with descriptions. This structure helps you easily navigate your portfolio. For more information on creating a portfolio using one of these templates, see [Create enterprise service portfolios using a template](dpm-create-enterprise-portfolio-using-template.md).
 
 <table id="table_w4n_gts_1fc"><thead><tr><th>
 

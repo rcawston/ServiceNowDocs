@@ -66,8 +66,8 @@ Have you contacted this supplier about the products you're requesting?
 If you’ve contacted the supplier already, select the appropriate option, and enter details of the supplier contact such as first and last names, job title, and registered email ID.For more information on adding suppliers, see:
 
 -   From Platform: [Add a supplier](create-supplier.md).
--   From the supplier catalog: [Add a supplier contact using the supplier catalog](../../supplier-lifecycle-operations/task/enroll-contact-catalog.md).
--   From Source-to-Pay Workspace: [Add a supplier contact from the Source-to-Pay Workspace](../../supplier-lifecycle-operations/task/add-supplier-contact.md).
+-   From the supplier catalog: [Add a supplier contact using the supplier catalog](../supplier-lifecycle-operations/enroll-contact-catalog.md).
+-   From Source-to-Pay Workspace: [Add a supplier contact from the Source-to-Pay Workspace](../supplier-lifecycle-operations/add-supplier-contact.md).
 
 
 </td></tr></tbody>
@@ -192,7 +192,7 @@ Any additional information that you may want to add.
 
 7.  In the **What project is this request for?** field, select the project for which this request is being raised.
 
-    **Note:** This field is available only when you have the Procurement with Project Management \(sn\_spend\_ppm\) application installed, and also have the IT Project User role. For more information, see [Sourcing and Procurement Operations integration with Project Management](../concept/integration-psm-ppm.md).
+    **Note:** This field is available only when you have the Procurement with Project Management \(sn\_spend\_ppm\) application installed, and also have the IT Project User role. For more information, see [Sourcing and Procurement Operations integration with Project Management](integration-psm-ppm.md).
 
 8.  Provide the reason behind making the purchase.
 
@@ -209,7 +209,7 @@ Any additional information that you may want to add.
 
 ## What to do next
 
-You can view the newly created purchase requisition details on the My Purchases page in ShoppingHub. Purchase lines are grouped based on whether the order type is standard or blanket. For more information on purchase line grouping, see [Purchase requisition merging](../concept/purchase-requisition-merging.md).
+You can view the newly created purchase requisition details on the My Purchases page in ShoppingHub. Purchase lines are grouped based on whether the order type is standard or blanket. For more information on purchase line grouping, see [Purchase requisition merging](purchase-requisition-merging.md).
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

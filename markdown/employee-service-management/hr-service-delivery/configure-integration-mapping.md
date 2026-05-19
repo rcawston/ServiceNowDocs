@@ -17,7 +17,7 @@ Add input choices and define conditions and results in a decision table for the 
 
 ## Before you begin
 
-View [Now Assist for HR Service Delivery \(HRSD\) Virtual Agent topic mapping for Enterprise Service Management Integrations Framework](../reference/esm-framework-mapping.md).
+View [Now Assist for HR Service Delivery \(HRSD\) Virtual Agent topic mapping for Enterprise Service Management Integrations Framework](esm-framework-mapping.md).
 
 Role required: decision\_table\_admin, sn\_hr\_integr\_fw.admin
 

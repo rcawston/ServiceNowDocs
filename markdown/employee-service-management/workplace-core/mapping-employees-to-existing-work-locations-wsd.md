@@ -29,15 +29,15 @@ The data from the User Workplace Profile \[sn\_wsd\_core\_workplace\_profile\] t
 
 **Note:** From Workplace Core version 2.16.1, the workplace user profiles are created in the Workplace Profile Location Assignment \[sn\_wsd\_core\_workplace\_profile\_location\] table. A new field **Is Primary** is added in the table so that you can specify if a location is the primary location when there are multiple locations. In case of existing user profiles created in the User Workplace Profiles \[sn\_wsd\_core\_workplace\_profile\] table, a fix script runs and automatically considers the latest workplace location added to the profile as the primary workplace location.
 
-If you have installed Workplace Space Management application, as a Workplace manager, you can also view the reason for an anomaly in a workplace profile if there are any. A schedule job also enables you to view a detailed report of all the anomalies logged in the application via an email. Navigate to **Workplace Core** &gt; **Administration** &gt; **Workplace profiles** and switch to the Space Management view, a **Reason for anomaly** column appears as a Glide list. An anomaly can happen due to a mismatch in the allocation or assignment type. For more information about anomalies, see [Workplace location assignment anomaly types](../reference/location-assignment-anomaly-types.md).
+If you have installed Workplace Space Management application, as a Workplace manager, you can also view the reason for an anomaly in a workplace profile if there are any. A schedule job also enables you to view a detailed report of all the anomalies logged in the application via an email. Navigate to **Workplace Core** &gt; **Administration** &gt; **Workplace profiles** and switch to the Space Management view, a **Reason for anomaly** column appears as a Glide list. An anomaly can happen due to a mismatch in the allocation or assignment type. For more information about anomalies, see [Workplace location assignment anomaly types](location-assignment-anomaly-types.md).
 
 From Workplace Space Management 1.12.0, only open spaces from the user's allocation type that are within the allocation start and end dates are listed. After an allocation expires, the anomaly is recalculated to the appropriate value.
 
 **Important:** Starting from Workplace Core version 2.16.1, the allocation type **Department and cost center** are no longer available. A new allocation type, **Workplace entity** is introduced that provides more advantages.
 
--   **[Map designated workspaces to user profiles](../task/map-employees-to-existing-workplace-locations-wsd.md)**  
+-   **[Map designated workspaces to user profiles](map-employees-to-existing-workplace-locations-wsd.md)**  
 Map existing designated workspaces to employee user profiles in Workplace Core. This mapping is used to automatically allocate workspaces for employees so they don't have to select a workspace manually when requesting a reservation.
--   **[Set the primary location of a workplace profile](../task/set-prim-location-of-worplace-profile.md)**  
+-   **[Set the primary location of a workplace profile](set-prim-location-of-worplace-profile.md)**  
 Assign a primary location for the workplace profile if there are multiple locations assigned.
 
 **Parent Topic:**[Manage workplace safety activities](manage-wsd-activites.md)
@@ -45,23 +45,23 @@ Assign a primary location for the workplace profile if there are multiple locati
 **Related topics**  
 
 
-[Import your workspaces data from an Excel spreadsheet](../task/import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](import-excel-spreadsheet-workspace-data-wsd.md)
 
-[Add a space type configuration](../task/add-space-type-configuration-wsd.md)
+[Add a space type configuration](add-space-type-configuration-wsd.md)
 
-[Configure a workplace card](../task/configure-workplace-card.md)
+[Configure a workplace card](configure-workplace-card.md)
 
-[Block a workplace location](../task/block-workplace-location.md)
+[Block a workplace location](block-workplace-location.md)
 
 [Configure Workplace entity and entity types](workplace-entity.md)
 
-[Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
+[Managing Neighborhoods](neighborhoods.md)
 
-[Enable favorites option for Workplace Service Portal](../task/confgure-favourites-option-for-ws-portal-wsd.md)
+[Enable favorites option for Workplace Service Portal](confgure-favourites-option-for-ws-portal-wsd.md)
 
-[Create a workplace performer criteria](../task/create-workplace-performer-criteria.md)
+[Create a workplace performer criteria](create-workplace-performer-criteria.md)
 
-[Assign the workplace user role to employees](../task/assign-workplace-user-role-to-employees-of-a-location-wsd.md)
+[Assign the workplace user role to employees](assign-workplace-user-role-to-employees-of-a-location-wsd.md)
 
 [Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 
@@ -71,7 +71,7 @@ Assign a primary location for the workplace profile if there are multiple locati
 
 [Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace-wsd.md)
 
-[Approve employee workplace reservation requests](../task/approve-workplace-reservation-requests-wsd.md)
+[Approve employee workplace reservation requests](approve-workplace-reservation-requests-wsd.md)
 
 [Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 
@@ -81,5 +81,5 @@ Assign a primary location for the workplace profile if there are multiple locati
 
 [Location migration](location-migration.md)
 
-[View workplace service usage analytics with Usage Insights](../reference/appsee-intergration-wsd.md)
+[View workplace service usage analytics with Usage Insights](appsee-intergration-wsd.md)
 

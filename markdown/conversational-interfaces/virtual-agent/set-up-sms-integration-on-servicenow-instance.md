@@ -220,5 +220,5 @@ AWS IAM Auth.
 </table>    5.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](../concept/configure-ci-sms-with-aws.md)
+**Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](configure-ci-sms-with-aws.md)
 

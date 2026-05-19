@@ -132,7 +132,7 @@ Details for the execution that is currently running.
 **Related topics**  
 
 
-[Rightsizing resources](../concept/rs-cloudin.md)
+[Rightsizing resources](rs-cloudin.md)
 
 [Specify rate discounts to enable accurate pricing for Rightsizing recommendations](discounts-specify-cloudin.md)
 

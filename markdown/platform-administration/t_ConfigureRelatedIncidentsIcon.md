@@ -35,5 +35,5 @@ The show related incidents icon \(![Core UI related incidents icon.](../image/ic
 **Related topics**  
 
 
-[Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md)
+[Altering tables and fields using dictionary attributes](table-administration-and-data-management/c_DictionaryAttributes.md)
 

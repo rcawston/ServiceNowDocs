@@ -19,5 +19,5 @@ The following illustration shows five FAQs as the default view.
 
 ![Portal FAQ widget displaying list of questions.](../image/portal-faqs-widget.png "Portal FAQ widget")
 
-For more information, see [Add and configure the Portal FAQ widget](../task/config-portal-faq-widget-inst-optns.md).
+For more information, see [Add and configure the Portal FAQ widget](config-portal-faq-widget-inst-optns.md).
 

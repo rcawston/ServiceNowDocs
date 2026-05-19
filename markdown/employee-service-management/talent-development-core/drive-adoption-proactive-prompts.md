@@ -30,5 +30,5 @@ The Skills Foundation application can automatically detect skill gaps and prompt
 -   **[Proactive Prompts for Skills Foundation](proactive-prompts-skills.md)**  
 Recommend roles, skills, and missing proficiencies to the employees and get approval from managers in their flow of work using Proactive Prompts.
 
-**Parent Topic:**[HR Service Delivery](../../human-resources/concept/hr-service-delivery.md)
+**Parent Topic:**[HR Service Delivery](../hr-service-delivery/hr-service-delivery.md)
 

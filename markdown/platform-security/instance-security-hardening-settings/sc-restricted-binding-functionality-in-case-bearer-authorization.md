@@ -19,7 +19,7 @@ Use the **glide.oauth.enforce\_restricted\_binding\_for\_ui** system property an
 
 When restricted binding is turned off, the access token generated can be used for UI calls regardless of the value of the system property.
 
-Ensure that **glide.oauth.enforce\_restricted\_binding\_for\_ui** is set to **true** and **Enforce Token Restrictions** is set to **true** in all OAuth entity entries. For details on OAuth entity entries, see [OAuth Inbound](../../../integrate/authentication/concept/oauth-inbound.md).
+Ensure that **glide.oauth.enforce\_restricted\_binding\_for\_ui** is set to **true** and **Enforce Token Restrictions** is set to **true** in all OAuth entity entries. For details on OAuth entity entries, see [OAuth Inbound](../authentication/oauth-inbound.md).
 
 ## More information
 

@@ -28,7 +28,7 @@ From the Workplace Service Portal, you can do the following:
 -   View your requests and approvals \(if you are an approver\).
 -   View the location directory of your organization. Search for a co-worker, a space or any workplace location on the world map.
 
-    **Note:** To view the maps in the Location directory and within Workplace Reservation Management, use Mappedin and Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](../../workplace-space-mapping/concept/wsm-mappedin-admin.md).
+    **Note:** To view the maps in the Location directory and within Workplace Reservation Management, use Mappedin and Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](../wsm-mappedin-admin.md).
 
 -   Submit requests for general inquiry, registering visitors, shift-based reservations, and other requests.
 -   Chat with a virtual agent to submit requests and view submitted requests.

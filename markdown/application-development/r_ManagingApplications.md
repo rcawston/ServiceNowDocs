@@ -23,5 +23,5 @@ A new Application Manager experience is now available. The new experience simpli
 
 ## Application sharing
 
-Administrators can share applications that are complete and are ready for use on other instances by publishing to the application repository, publishing to the ServiceNow Store, publishing to an Update Set, or pushing to team development instances. For more information, see [Application sharing](../concept/c_SharingApplications.md).
+Administrators can share applications that are complete and are ready for use on other instances by publishing to the application repository, publishing to the ServiceNow Store, publishing to an Update Set, or pushing to team development instances. For more information, see [Application sharing](c_SharingApplications.md).
 

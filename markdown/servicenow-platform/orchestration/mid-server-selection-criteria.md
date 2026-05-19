@@ -17,10 +17,10 @@ Orchestration uses the default MID Server if it cannot find a MID Server with th
 
 Specify the default MID Server in either of these locations:
 
--   The **Default MID Server** field on the Orchestration application record. See [Configure a default MID Server for each application](../task/t_SpecifyMIDServerApplications.md#) for instructions.
+-   The **Default MID Server** field on the Orchestration application record. See [Configure a default MID Server for each application](../mid-server/t_SpecifyMIDServerApplications.md#) for instructions.
 -   The **Default MID Server to use for Orchestration Activities** property. Navigate to **Orchestration** &gt; **MID Server Properties** to set this value.
 
 These two values are automatically kept in synch. You can change the default MID Server in either location.
 
-**Parent Topic:**[MID Servers for Orchestration](../../orchestration/concept/c_OrchestrationMID.md)
+**Parent Topic:**[MID Servers for Orchestration](c_OrchestrationMID.md)
 

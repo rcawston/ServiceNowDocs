@@ -93,5 +93,5 @@ A schedule is created and new data is written to one of the tables in the rotati
 
 ![New table rotation group.](../image/NewTableRotationGroup.png)
 
-**Parent Topic:**[Table rotation](../concept/c_TableRotation.md)
+**Parent Topic:**[Table rotation](c_TableRotation.md)
 

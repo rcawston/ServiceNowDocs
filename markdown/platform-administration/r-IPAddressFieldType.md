@@ -40,7 +40,7 @@ The following are examples of valid IP addresses:
 
 The IP address `ip_addr` field is a Variable Character \(VARCHAR\) field with a length of 40 characters. The values are normally stored in standard \(dot-decimal or canonical\) notation for both IPv4 and IPv6 addresses regardless of the notation you use when you input values in the field.
 
-For example, if you enter an IPv6 address in a non-canonical format \(expanded or any other valid formats per [IETF RFC5952](https://tools.ietf.org/html/rfc5952)\), by default, the system will store it in canonical format unless an IP Data Control attribute value is defined on that column with a different address format. See the \[ip\_data\_control\] glide attribute section in [Altering tables and fields using dictionary attributes](../concept/c_DictionaryAttributes.md) for more details.
+For example, if you enter an IPv6 address in a non-canonical format \(expanded or any other valid formats per [IETF RFC5952](https://tools.ietf.org/html/rfc5952)\), by default, the system will store it in canonical format unless an IP Data Control attribute value is defined on that column with a different address format. See the \[ip\_data\_control\] glide attribute section in [Altering tables and fields using dictionary attributes](table-administration-and-data-management/c_DictionaryAttributes.md) for more details.
 
 ## Support for data migration
 

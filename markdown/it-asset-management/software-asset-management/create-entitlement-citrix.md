@@ -37,7 +37,7 @@ Manage available software and tie software installations \(software being used\)
 
     |Field|Description|
     |-----|-----------|
-    |License Metric|License metric for the license group that the software license is counted against when reconciliation is run. For detailed of the license metrics, see [Software license metrics](../concept/c_SAMLicenseMetrics.md).|
+    |License Metric|License metric for the license group that the software license is counted against when reconciliation is run. For detailed of the license metrics, see [Software license metrics](c_SAMLicenseMetrics.md).|
 
 2.  To set upgrade or downgrade entitlements, select the new software entitlement record from the Software Entitlements list.
 
@@ -52,5 +52,5 @@ Manage available software and tie software installations \(software being used\)
 
 [Run software reconciliation](t_RunReconciliation.md) on your licenses.
 
-**Parent Topic:**[Software Asset Management publisher pack for Citrix](../concept/citrix-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Citrix](citrix-publisher-pack.md)
 

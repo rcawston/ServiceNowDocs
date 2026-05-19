@@ -17,7 +17,7 @@ As a member of the legal contracts support team, review and revise a sales contr
 
 ## Before you begin
 
-The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../../legal-request-management/task/assign-legal-request-1.md).
+The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../employee-service-management/assign-legal-request-1.md).
 
 Role required: sn\_lg\_ops.legal\_fulfiller
 
@@ -70,11 +70,11 @@ The state of the legal request is Work in progress and the document is Legal rev
 
     The collaborators are notified via email that they have been added as collaborators to a legal request.
 
-5.  [Initiate an ad hoc approval for a legal request or its attachment](../../legal-request-management/task/initiate-approval-legal-request.md) for the legal request or its attachments when an approval is required from other stakeholders.
+5.  [Initiate an ad hoc approval for a legal request or its attachment](../legal-request-management/initiate-approval-legal-request.md) for the legal request or its attachments when an approval is required from other stakeholders.
 
 6.  In the Activity stream section, review the changes requested by the requester and make necessary changes in the contract document.
 
-7.  [Communicate using emails from Legal Counsel Center](../../legal-request-management/task/send-receive-email-legal-req.md) with the requester or other stakeholders.
+7.  [Communicate using emails from Legal Counsel Center](../legal-request-management/send-receive-email-legal-req.md) with the requester or other stakeholders.
 
 8.  Download the attached contract document to make changes requested by the requester
 
@@ -118,5 +118,5 @@ In the **Signed Contract** field, enter the URL of the contract document that is
 10. After resolving the legal request, close the request by clicking **Close Complete**.
 
 
-**Parent Topic:**[Sales contract review requests](../concept/legal-request-sales-contracts.md)
+**Parent Topic:**[Sales contract review requests](legal-request-sales-contracts.md)
 

@@ -45,7 +45,7 @@ These steps are intended for users with little to no coding experience. The Serv
 
     ![Gif showing how to drag containers, layouts, then widgets onto a page](../image/ConfigurePage.gif "Drag containers, layouts, then widgets onto a page")
 
-    For widgets that do not contain any information by default, you must configure the options for their widget instances before they will appear on a portal page. For more information about configuring widget instance options, see [Configure widget instances](../concept/c_ConfigureWidgetInstances.md).
+    For widgets that do not contain any information by default, you must configure the options for their widget instances before they will appear on a portal page. For more information about configuring widget instance options, see [Configure widget instances](c_ConfigureWidgetInstances.md).
 
 8.  Edit page properties.
 
@@ -336,7 +336,7 @@ When selected, the container sticks to the header and doesn’t scroll. Use this
     ![Page preview with the iPad view mode selected.](../image/DesignerIPadView.png "Designer tablet view")
 
 
-**Parent Topic:**[Creating portal pages](../concept/c_Pages.md)
+**Parent Topic:**[Creating portal pages](c_Pages.md)
 
 ## Add a subheader to a page
 

@@ -28,7 +28,7 @@ Role required: admin
 
 3.  On the new Visualization widget form, enter the required details.
 
-    For a full description of each field, see [Visualization widget fields](../../security-exposure-management-administration/reference/sem-vis-widget-fields.md).
+    For a full description of each field, see [Visualization widget fields](sem-vis-widget-fields.md).
 
 4.  Select **Save**.
 

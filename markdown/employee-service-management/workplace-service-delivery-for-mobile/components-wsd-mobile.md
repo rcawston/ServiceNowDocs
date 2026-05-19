@@ -21,9 +21,9 @@ The following table, role, and properties are installed with Workplace Service D
 |-----|-----------|
 |Mobile reservations \(sn\_wsd\_mobile\_st\_mobile\_reservation\)|Stores reservation data for Workplace Service Delivery for Mobile.|
 
-**Parent Topic:**[Workplace Service Delivery for Mobile references](../concept/wsd-mobile-references.md)
+**Parent Topic:**[Workplace Service Delivery for Mobile references](wsd-mobile-references.md)
 
-**Previous topic:**[Workplace Service Delivery for Mobile references](../concept/wsd-mobile-references.md)
+**Previous topic:**[Workplace Service Delivery for Mobile references](wsd-mobile-references.md)
 
 **Next topic:**[Properties installed with Workplace Service Delivery for Mobile](properties-installed-with-wsd-for-mobile.md)
 

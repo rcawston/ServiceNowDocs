@@ -15,9 +15,9 @@ breadcrumb: [Report types, Reporting, Reporting, dashboards, and Performance Ana
 
 Single score reports display a single value that is key to your business. Add single score reports to dashboards and configure them to update in real time.
 
-**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../../performance-analytics/concept/explore-data-vis-library.md).
+**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../explore-data-vis-library.md).
 
-Single score reports which include [dynamic conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_UsingTheDynamicOperator.md) added at the report level will not show real-time updates on dashboards unless manually refreshed, or upon a page refresh. The real-time dashboard widget relies on the record watcher to know when an update has been made in order for the single score widget to auto-refresh. However, dynamic conditions aren't supported as part of the record watcher. See further explanation in [Create a real-time score visualization for a score widget](../../performance-analytics/task/create-real-time-score-widget.md).
+Single score reports which include [dynamic conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_UsingTheDynamicOperator.md) added at the report level will not show real-time updates on dashboards unless manually refreshed, or upon a page refresh. The real-time dashboard widget relies on the record watcher to know when an update has been made in order for the single score widget to auto-refresh. However, dynamic conditions aren't supported as part of the record watcher. See further explanation in [Create a real-time score visualization for a score widget](../performance-analytics/create-real-time-score-widget.md).
 
 ![A single score report that has been added to a dashboard](../image/SingleScoreReport.png "Single score report that has been added to a dashboard")
 
@@ -25,7 +25,7 @@ Single score reports which include [dynamic conditions](https://raw.githubuserco
 
 This data visualization is supported on the mobile platform. For more information see [Single score reports for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-single-score.md) and [Mobile dashboard preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-dashboard-preview.md).
 
-**Parent Topic:**[Report types](../reference/report-types-creation-details-rd.md)
+**Parent Topic:**[Report types](report-types-creation-details-rd.md)
 
 ## Create a single score report
 
@@ -39,7 +39,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../../dashboards/reference/differences-between-core-ui-ne-dbs.md).
+2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../differences-between-core-ui-ne-dbs.md).
 
 3.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -67,7 +67,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d233968e344">
 
@@ -112,9 +112,9 @@ Computational method for aggregating report data. The default is **Count**, whic
 
  If you select **Count Distinct**, only unique records are counted. For example, you want to generate a report with a distinct number of users who have one or more of the roles in a given list of roles. Users with more than one role would be counted twice unless you use **Count Distinct**.
 
- If you select **Average**, **Sum**, or **Count Distinct**, a list of fields from the selected **Table** appears. You may further be able to aggregate on fields from extended tables. See [How to report on extended tables.](../task/t_AccessFieldExtendedTable.md#) Select a field to aggregate by from this list. For example, if you select a duration field, such as **Business duration** on the Incident table, the aggregated data is expressed in days, hours, and minutes.
+ If you select **Average**, **Sum**, or **Count Distinct**, a list of fields from the selected **Table** appears. You may further be able to aggregate on fields from extended tables. See [How to report on extended tables.](t_AccessFieldExtendedTable.md#) Select a field to aggregate by from this list. For example, if you select a duration field, such as **Business duration** on the Incident table, the aggregated data is expressed in days, hours, and minutes.
 
- If you select an integer field, such as the **Priority** field, the data is expressed as a number. You may further be able to aggregate on fields from extended tables. See [How to report on extended tables.](../task/t_AccessFieldExtendedTable.md#)
+ If you select an integer field, such as the **Priority** field, the data is expressed as a number. You may further be able to aggregate on fields from extended tables. See [How to report on extended tables.](t_AccessFieldExtendedTable.md#)
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Set Value Formatting
 
 </td><td>
 
-Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](../reference/value-formatting-reports.md#).
+Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](value-formatting-reports.md#).
 
  **Note:** Decimal precision does not work on currency fields.
 
@@ -193,7 +193,7 @@ Edit coloring rules
 
 </td><td>
 
-Click this hyperlink to configure how values are colored in the report. You can create rules to define which colors are used based on operators and values. For example, you can specify that any value greater than 5 displays in red. See [Create coloring rules for single score reports](../task/single-score-report-coloring-rules.md).
+Click this hyperlink to configure how values are colored in the report. You can create rules to define which colors are used based on operators and values. For example, you can specify that any value greater than 5 displays in red. See [Create coloring rules for single score reports](single-score-report-coloring-rules.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 

@@ -28,7 +28,7 @@ Role required: sn\_apm.apm\_read
 4.  Select **Digital Interfaces**.
 
 
-**Parent Topic:**[Working with digital interfaces](../../concept/eaw-concept/eaw-work-with-digital-interfaces.md)
+**Parent Topic:**[Working with digital interfaces](eaw-work-with-digital-interfaces.md)
 
 **Related topics**  
 

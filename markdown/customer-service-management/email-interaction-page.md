@@ -42,7 +42,7 @@ Lookup by name, phone, or email
 The contact lookup component enables agents to do the following:-   Look up a contact by name, phone number, or email address. As the agent types characters in the search box, matching information appears in record cards below the search box.
 -   Select a contact after searching by selecting the record card. The selected record card replaces the lookup component.
 
-You can also create a record to add a guest user as a contact. For more information, see [Create a customer contact](../task/create-a-customer-contact_EaaI.md).
+You can also create a record to add a guest user as a contact. For more information, see [Create a customer contact](create-a-customer-contact_EaaI.md).
 
 </td></tr></tbody>
 </table><table id="table_v4m_3f1_ycc"><thead><tr><th>
@@ -172,7 +172,7 @@ Work notes
 
 </td><td>
 
-Internal notes documented for agent’s reference. These notes are visible only to agents and not to the customer. When a work note is created, it appears in the Activity stream. For more information on work notes, see [Compose a work note for internal use](../concept/composing-email-work-note.md#).
+Internal notes documented for agent’s reference. These notes are visible only to agents and not to the customer. When a work note is created, it appears in the Activity stream. For more information on work notes, see [Compose a work note for internal use](composing-email-work-note.md#).
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Email
 
 </td><td>
 
-Compose and send emails without leaving the record. For more information, see [Compose an email response](../concept/composing-email-work-note.md#).**Note:** The first email response that the agent sends is used to calculate the first response time duration, which is then populated in the **First response wait time** field.
+Compose and send emails without leaving the record. For more information, see [Compose an email response](composing-email-work-note.md#).**Note:** The first email response that the agent sends is used to calculate the first response time duration, which is then populated in the **First response wait time** field.
 
 </td></tr><tr><td>
 
@@ -196,7 +196,7 @@ Activity
 
 </td><td>
 
-Enables agents to view the email conversations between the agent and customer. For more information, see [Using the activity stream in an email interaction](../concept/using-activity-stream-in-an-email-interaction.md).
+Enables agents to view the email conversations between the agent and customer. For more information, see [Using the activity stream in an email interaction](using-activity-stream-in-an-email-interaction.md).
 
 </td></tr></tbody>
 </table><table id="table_lhx_qz5_zdc"><thead><tr><th>
@@ -221,7 +221,7 @@ Recommended Actions
 
 </td><td>
 
-Displays the most relevant next steps based on the current context. For more information, see [Using the Recommended Actions application](../concept/ra-csm-using-recommended-actions.md).
+Displays the most relevant next steps based on the current context. For more information, see [Using the Recommended Actions application](ra-csm-using-recommended-actions.md).
 
 </td></tr><tr><td>
 
@@ -229,7 +229,7 @@ Consumer Verify
 
 </td><td>
 
-Confirms the identity or details of the consumer involved in the interaction. For more information, see [Lookup and verify](../../../administer/workspace/concept/lookup-and-verify-overview.md).
+Confirms the identity or details of the consumer involved in the interaction. For more information, see [Lookup and verify](lookup-and-verify-overview.md).
 
 </td></tr><tr><td>
 
@@ -237,7 +237,7 @@ Contact Verify
 
 </td><td>
 
-Confirms the identity or details of the contact involved in the interaction. For more information, see [Lookup and verify](../../../administer/workspace/concept/lookup-and-verify-overview.md).
+Confirms the identity or details of the contact involved in the interaction. For more information, see [Lookup and verify](lookup-and-verify-overview.md).
 
 </td></tr><tr><td>
 
@@ -245,7 +245,7 @@ Response Template
 
 </td><td>
 
-Displays the response template required to respond to the customer. For more information, see [Use a response template to compose an email or a work note](../concept/composing-email-work-note.md#).
+Displays the response template required to respond to the customer. For more information, see [Use a response template to compose an email or a work note](composing-email-work-note.md#).
 
 </td></tr><tr><td>
 
@@ -266,7 +266,7 @@ Customer History
 
 </td><td>
 
-Displays customer, consumer, or account history information, depending on the customer information provided on the interaction record. This tab includes a search field, filter, and date range selector that agents can use to find specific information in the history. For more information on the customer history, see [Customer History component features](../concept/customer-history-component-features.md).
+Displays customer, consumer, or account history information, depending on the customer information provided on the interaction record. This tab includes a search field, filter, and date range selector that agents can use to find specific information in the history. For more information on the customer history, see [Customer History component features](customer-history-component-features.md).
 
 </td></tr></tbody>
 </table><table id="table_kqr_qbv_zdc"><thead><tr><th>
@@ -321,5 +321,5 @@ Assigns the interaction to the current agent.**Note:** Assign to me is visible o
 </table>**Related topics**  
 
 
-[Using the email interaction page](../concept/using-email-interaction-page.md)
+[Using the email interaction page](using-email-interaction-page.md)
 

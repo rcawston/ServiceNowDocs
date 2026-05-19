@@ -80,9 +80,9 @@ MID scripts
 </table>**Related topics**  
 
 
-[Move a blueprint from one environment to another](../task/export-updateset-blueprint.md)
+[Move a blueprint from one environment to another](export-updateset-blueprint.md)
 
-[Move a resource block from one environment to the other](../task/export-updateset-rblock.md)
+[Move a resource block from one environment to the other](export-updateset-rblock.md)
 
-[Move a cloud API from one environment to the other](../task/export-updateset-capi.md)
+[Move a cloud API from one environment to the other](export-updateset-capi.md)
 

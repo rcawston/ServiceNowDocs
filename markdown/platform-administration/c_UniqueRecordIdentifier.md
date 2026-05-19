@@ -41,5 +41,5 @@ You can access the sys\_id from a record URL or by using a script.
         ```
 
 
-**Parent Topic:**[Data Management reference](../../managing-data/reference/data-management-reference.md)
+**Parent Topic:**[Data Management reference](data-management-reference.md)
 

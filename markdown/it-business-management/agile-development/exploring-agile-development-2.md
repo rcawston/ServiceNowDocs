@@ -27,14 +27,14 @@ Scrum is one of the popular methodologies of Agile Development, which includes a
 Learn the process that is used to manage product development efforts in Agile Development 2.0, such as creating a product or tracking a sprint or release.
 -   **[Agile Development use cases](agile-workflow-use-cases.md)**  
 Learn the different methods that organizations could use to plan their backlog and deliver stories.
--   **[Agile board in Agile Development 2.0](../../sdlc-scrum/concept/agile-board.md)**  
+-   **[Agile board in Agile Development 2.0](agile-board.md)**  
 The Agile board is a landing page where you can perform key actions of the scrum process such as managing your backlogs, planning your sprints, and tracking the sprint progress.
 -   **[Reporting defects in Agile Development 2.0](defect-reports.md#)**  
 Create defects for the issues that are reported for your product using Agile Development 2.0. You can then create stories for these defects so that your teams can start working on resolving them.
 -   **[Enhancement requests in Agile Development 2.0](enhancement-requests.md#)**  
 Create enhancement requests for different areas of your product in Agile Development 2.0. You can then create stories for these requests so that your teams can start working on developing them.
--   **[Agile Development — Unified Backlog](../../sdlc-scrum/concept/unified-backlog.md)**  
+-   **[Agile Development — Unified Backlog](unified-backlog.md)**  
 The ServiceNow® Agile Development — Unified Backlog application helps you maintain a centralized backlog for records of different task types, such as defects, problems, or enhancements. Prioritize different task types from one location, and automatically create stories for these records, saving time.
 
-**Parent Topic:**[Agile Development 2.0](../reference/agile-landing-page.md)
+**Parent Topic:**[Agile Development 2.0](agile-landing-page.md)
 

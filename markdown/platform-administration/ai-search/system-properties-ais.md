@@ -80,9 +80,9 @@ Encoded query string for a query that Catalog Item records must satisfy to be el
 -   Type: string
 -   Location: System Properties \[sys\_properties\] table \(record not present by default\)
 
- Changes to this system property's value don't take effect until you reindex content from the Catalog Item Table indexed source and indexed sources for other tables that extend the Catalog Item \[sc\_cat\_item\] table. For details on reindexing content from indexed sources, see [Perform a full table index or reindex for a single AI Search indexed source](../task/index-single-source-ais.md) and [Perform a full table index or reindex for multiple AI Search indexed sources](../task/index-multiple-sources-ais.md)
+ Changes to this system property's value don't take effect until you reindex content from the Catalog Item Table indexed source and indexed sources for other tables that extend the Catalog Item \[sc\_cat\_item\] table. For details on reindexing content from indexed sources, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md) and [Perform a full table index or reindex for multiple AI Search indexed sources](index-multiple-sources-ais.md)
 
- For additional details on indexing of content from catalog variables, see [Activate indexing of catalog variable content on Catalog Item records](../task/activate-catalog-variable-indexing.md) and [Variable types supported by AI Search indexing](variable-types-ais-index.md). To learn about encoded query strings, see [Encoded query strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_EncodedQueryStrings.md).
+ For additional details on indexing of content from catalog variables, see [Activate indexing of catalog variable content on Catalog Item records](activate-catalog-variable-indexing.md) and [Variable types supported by AI Search indexing](variable-types-ais-index.md). To learn about encoded query strings, see [Encoded query strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_EncodedQueryStrings.md).
 
 </td></tr><tr><td>
 
@@ -175,9 +175,9 @@ Option to allow indexing of searchable content from role-restricted catalog vari
     -   **true**: Allow indexing of searchable content from catalog variables with role restrictions on Catalog Item records.
 -   Location: System Properties \[sys\_properties\] table \(record not present by default\)
 
- Changes to this system property's value don't take effect until you reindex content from the Catalog Item Table indexed source and indexed sources for other tables that extend the Catalog Item \[sc\_cat\_item\] table. For details on reindexing content from indexed sources, see [Perform a full table index or reindex for a single AI Search indexed source](../task/index-single-source-ais.md) and [Perform a full table index or reindex for multiple AI Search indexed sources](../task/index-multiple-sources-ais.md)
+ Changes to this system property's value don't take effect until you reindex content from the Catalog Item Table indexed source and indexed sources for other tables that extend the Catalog Item \[sc\_cat\_item\] table. For details on reindexing content from indexed sources, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md) and [Perform a full table index or reindex for multiple AI Search indexed sources](index-multiple-sources-ais.md)
 
- For additional details on indexing of content from catalog variables, see [Activate indexing of catalog variable content on Catalog Item records](../task/activate-catalog-variable-indexing.md) and [Variable types supported by AI Search indexing](variable-types-ais-index.md). To learn about encoded query strings, see [Encoded query strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_EncodedQueryStrings.md).
+ For additional details on indexing of content from catalog variables, see [Activate indexing of catalog variable content on Catalog Item records](activate-catalog-variable-indexing.md) and [Variable types supported by AI Search indexing](variable-types-ais-index.md). To learn about encoded query strings, see [Encoded query strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_EncodedQueryStrings.md).
 
 </td></tr><tr><td>
 
@@ -194,9 +194,9 @@ Option to allow indexing of searchable content from globally accessible catalog 
     -   **true**: Allow indexing of searchable content from globally accessible catalog variables on Catalog Item records.
 -   Location: System Properties \[sys\_properties\] table \(record not present by default\)
 
- Changes to this system property's value don't take effect until you reindex content from the Catalog Item Table indexed source and indexed sources for other tables that extend the Catalog Item \[sc\_cat\_item\] table. For details on reindexing content from indexed sources, see [Perform a full table index or reindex for a single AI Search indexed source](../task/index-single-source-ais.md) and [Perform a full table index or reindex for multiple AI Search indexed sources](../task/index-multiple-sources-ais.md)
+ Changes to this system property's value don't take effect until you reindex content from the Catalog Item Table indexed source and indexed sources for other tables that extend the Catalog Item \[sc\_cat\_item\] table. For details on reindexing content from indexed sources, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md) and [Perform a full table index or reindex for multiple AI Search indexed sources](index-multiple-sources-ais.md)
 
- For additional details on indexing of content from catalog variables, see [Activate indexing of catalog variable content on Catalog Item records](../task/activate-catalog-variable-indexing.md) and [Variable types supported by AI Search indexing](variable-types-ais-index.md). To learn about encoded query strings, see [Encoded query strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_EncodedQueryStrings.md).
+ For additional details on indexing of content from catalog variables, see [Activate indexing of catalog variable content on Catalog Item records](activate-catalog-variable-indexing.md) and [Variable types supported by AI Search indexing](variable-types-ais-index.md). To learn about encoded query strings, see [Encoded query strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_EncodedQueryStrings.md).
 
 </td></tr><tr><td>
 
@@ -300,7 +300,7 @@ The resubmitted search query only finds records that contain at least half \(rou
 
 </td><td>
 
-Option to force use of the late binding security implementation for all search queries. For descriptions of the early binding and late binding security implementations, see [Content security in AI Search](../concept/content-security-ais.md).
+Option to force use of the late binding security implementation for all search queries. For descriptions of the early binding and late binding security implementations, see [Content security in AI Search](content-security-ais.md).
 
 -   Type: true \| false
 -   Default value: **false**
@@ -319,7 +319,7 @@ Option to force use of the late binding security implementation for all search q
 
 Option to enable matching of translated documents in the instance locale's language as well as the user's session language. For example, suppose a user searches from a Japanese user session on an instance with the default US English locale. With the default system property value of **false**, this search only matches knowledge articles in Japanese. If the system property value is set to **true**, the same search matches articles in both Japanese and English.
 
- To learn more about translated document matching, see [Searching translated content](../concept/searching-translated-content-ais.md). For details on instance locales, see [Configuring locales](../../localization/concept/c_DefineLocales.md#).
+ To learn more about translated document matching, see [Searching translated content](searching-translated-content-ais.md). For details on instance locales, see [Configuring locales](../system-localization/c_DefineLocales.md#).
 
  -   Type: true \| false
 -   Default value: **false**
@@ -351,5 +351,5 @@ Character length limit for stop word and synonym dictionary terms. AI Search ign
 -   Location: System Properties \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

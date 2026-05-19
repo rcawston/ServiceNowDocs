@@ -19,10 +19,10 @@ The process of requesting an Accelerator from IDI and Impact Store App is simila
 
 You can place a request for any of the available Accelerators and initiatives if you have upgraded to the latest versions of the application.
 
-Some Accelerators require additional terms and conditions and are offered pursuant to the applicable [Impact Accelerator Description](https://www.servicenow.com/legal/servicenow-impact.html). For Accelerators that require consent, the terms and conditions must be accepted from the **Manage Permissions** menu. You can manage permissions using [Manage Initiative and Accelerator permissions](../task/grant-ide-permissions.md)
+Some Accelerators require additional terms and conditions and are offered pursuant to the applicable [Impact Accelerator Description](https://www.servicenow.com/legal/servicenow-impact.html). For Accelerators that require consent, the terms and conditions must be accepted from the **Manage Permissions** menu. You can manage permissions using [Manage Initiative and Accelerator permissions](grant-ide-permissions.md)
 
 ## What to explore next
 
--   Request an Accelerator from [Request an Accelerator from IDI](../task/request-accelerator.md)
+-   Request an Accelerator from [Request an Accelerator from IDI](request-accelerator.md)
 -   Request an Accelerator from [Request Accelerators and Initiatives for Impact Store Application](accelerators.md)
 

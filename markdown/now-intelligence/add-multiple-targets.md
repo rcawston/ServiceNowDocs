@@ -107,7 +107,7 @@ Here is a table with the targets you created and their values. All targets take 
 |Assignment Group: Technical Services Support|50|
 |Assignment Group: Financial Systems Support|43|
 
-**Parent Topic:**[Indicator targets and thresholds in KPI Details](../concept/kpi-details-targets.md)
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](kpi-details-targets.md)
 
 **Related topics**  
 
@@ -120,5 +120,5 @@ Here is a table with the targets you created and their values. All targets take 
 
 [Create, modify, or delete a threshold in KPI Details](add-mod-pers-tar-thresh-kpi-details.md)
 
-[Responsibility for indicator targets](../concept/responsibiity-targets-kpi-details.md#)
+[Responsibility for indicator targets](responsibiity-targets-kpi-details.md#)
 

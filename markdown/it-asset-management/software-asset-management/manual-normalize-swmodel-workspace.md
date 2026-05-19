@@ -32,5 +32,5 @@ Role required: sam\_admin or sam\_user
     The normalization status changes to **Manually Normalized**.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

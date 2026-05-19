@@ -483,7 +483,7 @@ Now Assist for Boot time issues
 
 </td><td>
 
-In the **Now Assist for Boot time issues** banner, select the **Investigate** button to automatically analyze boot time performance and identify factors causing slow startup. Also find recommendations to fix Boot time issues. For more information, see [Investigate boot time issues](../task/investigate-and-resolve-boot-time-issues.md).
+In the **Now Assist for Boot time issues** banner, select the **Investigate** button to automatically analyze boot time performance and identify factors causing slow startup. Also find recommendations to fix Boot time issues. For more information, see [Investigate boot time issues](../now-assist-for-it-service-management-itsm/investigate-and-resolve-boot-time-issues.md).
 
 </td></tr></tbody>
 </table><table id="table_nvx_xh1_zdc"><thead><tr><th>
@@ -704,7 +704,7 @@ Unique identifier assigned to the operating system instance, which is used for l
 </td></tr></tbody>
 </table>## Device health — System compliance
 
-**Note:** The data appears on this page only after the System compliance functionality has been configured. For more information, see [Manage your system compliance report](../task/manage-compliance-report.md).
+**Note:** The data appears on this page only after the System compliance functionality has been configured. For more information, see [Manage your system compliance report](manage-compliance-report.md).
 
 <table id="table_fzp_4xc_tdc"><thead><tr><th>
 
@@ -1140,7 +1140,7 @@ One of the following categories assigned to the file:-   Application
 -   Installers
 -   Potentially Unwanted Programs
 
-**Note:** The data appears on this page only after File management has been set up. For more information, see [Set up file management](../task/set-up-file-mgmt.md).
+**Note:** The data appears on this page only after File management has been set up. For more information, see [Set up file management](set-up-file-mgmt.md).
 
 </td></tr></tbody>
 </table>## Device health — Windows registry

@@ -40,7 +40,7 @@ Role required: scrum\_product\_owner, scrum\_release\_planner, scrum\_admin
 
 ## What to do next
 
-Use the related lists of the Product record to associate releases, themes, epics, stories, and assignment groups with it. For more information, see [Related lists for a Product in Agile Development 2.0](../reference/related-links-lists-product-agile-2.md).
+Use the related lists of the Product record to associate releases, themes, epics, stories, and assignment groups with it. For more information, see [Related lists for a Product in Agile Development 2.0](related-links-lists-product-agile-2.md).
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

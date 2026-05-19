@@ -28,5 +28,5 @@ For a given business service expense line, it is typical that less than 100% of 
 
 This is a system wide setting that can be configured by navigating to **Financial Management** &gt; **Properties** module and selecting an option from the choice list.
 
-**Parent Topic:**[Use business services with expenses](../concept/c_UseBusinessServicesWithExpenses.md)
+**Parent Topic:**[Use business services with expenses](c_UseBusinessServicesWithExpenses.md)
 

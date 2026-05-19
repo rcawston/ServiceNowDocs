@@ -79,5 +79,5 @@ Brief summary about the feedback to be discussed in the sidebar discussion.
 </table>8.  Select **Start discussion**.
 
 
-**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
+**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](integrate-advanced-risk-with-parallel-review-feedback.md)
 

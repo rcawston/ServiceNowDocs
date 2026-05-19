@@ -44,5 +44,5 @@ You can apply several user criteria records to a single portal item.
 7.  Click **Save**.
 
 
-**Parent Topic:**[User criteria for Service Portal](../concept/user-criteria.md)
+**Parent Topic:**[User criteria for Service Portal](user-criteria.md)
 

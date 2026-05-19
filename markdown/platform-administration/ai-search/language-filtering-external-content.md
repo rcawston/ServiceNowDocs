@@ -25,7 +25,7 @@ As an example, if the session language is Canadian French, with French configure
 
 **Note:** AI Search can detect multiple languages when indexing content from external source system documents, so a single external content search result may be tagged with multiple languages. As an example, a document in Japanese that contains a section in English might be tagged as including both Japanese and English content. This document would appear in the search results from the previous example because it contains content in English. For more information on language detection at indexing time, see [Internationalization support for AI Search](international-language-support-ais.md).
 
-To learn about configuring and using connectors to make content from external source systems searchable, see [External Content Connectors](../reference/ext-cont-connectors-landing-page.md). For details on fallback languages and the global fallback locale, see [AI Search interaction with fallback languages](interaction-fallback-language-ais.md) and [Enable a global fallback locale for translated content](../task/enable-global-fallback-lang-ais.md).
+To learn about configuring and using connectors to make content from external source systems searchable, see [External Content Connectors](ext-cont-connectors-landing-page.md). For details on fallback languages and the global fallback locale, see [AI Search interaction with fallback languages](interaction-fallback-language-ais.md) and [Enable a global fallback locale for translated content](enable-global-fallback-lang-ais.md).
 
 **Parent Topic:**[Internationalization support for AI Search](international-language-support-ais.md)
 

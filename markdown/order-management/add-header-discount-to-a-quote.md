@@ -34,5 +34,5 @@ Role required: Sales Agent \[sn\_sales\_common.sales\_agent\]
 7.  Select **Apply**.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

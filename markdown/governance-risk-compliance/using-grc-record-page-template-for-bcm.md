@@ -28,5 +28,5 @@ The stepper component on the **Overview** tab shows the progression of the state
 -   **[Stepper component in the Overview tab of the records](stepper-component.md)**  
 The stepper component on the **Overview** tab shows the progression of the states for the record.
 
-**Parent Topic:**[BCM reference](../reference/bcm-reference.md)
+**Parent Topic:**[BCM reference](bcm-reference.md)
 

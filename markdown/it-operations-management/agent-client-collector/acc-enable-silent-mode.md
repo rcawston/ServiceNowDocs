@@ -34,5 +34,5 @@ Role required: agent\_client\_collector\_admin
     Alternatively, you can set the status of an agent by selecting the agent and in the **Related Links** section, select the **Pause data collection** link to pause data collection on the agent. To resume data collection on the agent, select the **Resume data collection** link.
 
 
-**Parent Topic:**[Enabling Agent Client Collector data collection](../concept/data-collection-enabling.md)
+**Parent Topic:**[Enabling Agent Client Collector data collection](data-collection-enabling.md)
 

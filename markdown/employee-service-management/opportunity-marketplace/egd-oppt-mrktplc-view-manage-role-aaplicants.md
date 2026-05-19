@@ -39,7 +39,7 @@ Description
 
 </td><td>
 
-The names of the applicants links to their **Employee Profile**, see [Employee Profile table](../../human-resources/concept/employee-profile.md).
+The names of the applicants links to their **Employee Profile**, see [Employee Profile table](../hr-service-delivery/employee-profile.md).
 
 </td></tr><tr><td>
 
@@ -68,5 +68,5 @@ The **State** of a role applicant indicates the progression of the applicant in 
 3.  Select the green check mark to apply and save your changes.
 
 
-**Parent Topic:**[Install and configure Opportunity Marketplace](../concept/egd-oppt-mrktplc-inst-config.md)
+**Parent Topic:**[Install and configure Opportunity Marketplace](egd-oppt-mrktplc-inst-config.md)
 

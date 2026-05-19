@@ -31,7 +31,7 @@ Role required: admin
 
 Roles and scheduled jobs items are installed with Analytics Pack for Contract Management Pro.
 
-For more information, see [Components installed with Analytics Pack for Contract Management Pro](../reference/cncore-comp-analytics-pack-cmpro.md).
+For more information, see [Components installed with Analytics Pack for Contract Management Pro](cncore-comp-analytics-pack-cmpro.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ For more information, see [Components installed with Analytics Pack for Contract
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Platform Analytics Solutions for Contract Management Pro](../../../use/application-content-packs/concept/cncore-analytics-pa.md)
+**Parent Topic:**[Platform Analytics Solutions for Contract Management Pro](cncore-analytics-pa.md)
 

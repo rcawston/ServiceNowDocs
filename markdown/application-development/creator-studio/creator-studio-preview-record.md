@@ -52,5 +52,5 @@ To preview how an app's submitted records will appear in the workspace configura
 
 If you don't like what you see, you can tweak the record's appearance. Find out how in [Change the layout of an app's record in Creator Studio](creator-studio-work-with-record-details.md).
 
-**Parent Topic:**[Testing and previewing Creator Studio apps and records](../concept/creator-studio-testing-apps.md)
+**Parent Topic:**[Testing and previewing Creator Studio apps and records](creator-studio-testing-apps.md)
 

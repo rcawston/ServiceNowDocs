@@ -23,7 +23,7 @@ Role required: sn\_gf.goal\_admin
 
 ## About this task
 
-The context variable is required for target source types Assessment/Survey and PA Indicator. The mandatory context variables are automatically created while creating a target source with the type selected as Assessment/Surveys or PA Indicator. For more information on when the mandatory context variables are created, see [Context variable in target source](../concept/context-variable-in-target-source-apw.md).
+The context variable is required for target source types Assessment/Survey and PA Indicator. The mandatory context variables are automatically created while creating a target source with the type selected as Assessment/Surveys or PA Indicator. For more information on when the mandatory context variables are created, see [Context variable in target source](context-variable-in-target-source-apw.md).
 
 ## Procedure
 
@@ -33,10 +33,10 @@ The context variable is required for target source types Assessment/Survey and P
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Target Source form](../reference/target-source-form-apw.md).
+    For a description of the field values, see [Target Source form](target-source-form-apw.md).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring target source for target automation](../concept/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md)
+**Parent Topic:**[Configuring target source for target automation](setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md)
 

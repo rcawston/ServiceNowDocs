@@ -116,24 +116,24 @@ Platform: **Scheduled Appointments**
 All upcoming appointments scheduled for your walk-up location.
 
 </td></tr></tbody>
-</table>For more information, see [Service Operations Workspace](../../service-operations-workspace/concept/explore-sow.md) and [Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-overview.md).
+</table>For more information, see [Service Operations Workspace](../service-operations-workspace/explore-sow.md) and [Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-overview.md).
 
--   **[View Walk-up Experience inbox](../task/view-walkup-inbox.md)**  
+-   **[View Walk-up Experience inbox](view-walkup-inbox.md)**  
 View a personal inbox of automatically assigned Walk-up Experience interactions using the Agent Workspace feature interface.
--   **[View assigned Walk-up Experience locations](../task/view-walkup-location.md)**  
+-   **[View assigned Walk-up Experience locations](view-walkup-location.md)**  
 Walk-up Experience agents can view a list of the walk-up queues they are assigned to support. Locations queues reveal all the information an agent needs to know to operate the queue efficiently.
--   **[Manage automatically assigned Walk-up Experience interactions](../task/view-auto-assigned-walkup-requests.md)**  
+-   **[Manage automatically assigned Walk-up Experience interactions](view-auto-assigned-walkup-requests.md)**  
 The agents supporting Walk-up Experience locations can view and manage interactions automatically pushed to the Agent Workspace inbox.
--   **[Manage Walk-up Experience interactions manually](../task/view-assigned-walkup-requests.md)**  
+-   **[Manage Walk-up Experience interactions manually](view-assigned-walkup-requests.md)**  
 Agents supporting walk-up locations can manually manage queue requests with several Walk-up Experience interaction-related modules.
--   **[View Walk-up Experience location stockroom and assets](../task/view-walkup-location-stockroom.md)**  
+-   **[View Walk-up Experience location stockroom and assets](view-walkup-location-stockroom.md)**  
 Agent supporting Walk-up Experience locations can view and access stockrooms to provide commonly requested hardware and software assets for walk-up queue guests. Stockroom inventory is defined by asset and inventory managers. Walk-up location agents can monitor inventory and alert asset and inventory managers when additional consumables are needed.
--   **[Use Agent Assist to expedite Walk-up Experience fulfillment](../task/use-agent-assist-expedite-walkup.md)**  
+-   **[Use Agent Assist to expedite Walk-up Experience fulfillment](use-agent-assist-expedite-walkup.md)**  
 Walk-up Experience agents can use the Agent Assist feature in Agent Workspace to expedite incidents and requests.
--   **[View and manage Walk-up Experience appointments in Agent Workspace](../task/view-manage-walkup-appointments.md)**  
+-   **[View and manage Walk-up Experience appointments in Agent Workspace](view-manage-walkup-appointments.md)**  
 Viewing upcoming scheduled Walk-up Experience appointments provides technicians with an estimate of future queue demand and workload. Managers can view future appointments and adjust staffing at walk-up queue locations to best support demand.
--   **[View and manage Walk-up Experience appointments from application navigator](../task/view-manage-walkup-appoint-nav.md)**  
+-   **[View and manage Walk-up Experience appointments from application navigator](view-manage-walkup-appoint-nav.md)**  
 Viewing upcoming scheduled Walk-up Experience appointments provides technicians with an estimate of future queue demand and workload. Managers can view future appointments and adjust staffing at walk-up queue locations to best support demand.
 
-**Parent Topic:**[Walk-up Experience](../reference/walkup-experience-landing-page.md)
+**Parent Topic:**[Walk-up Experience](walkup-experience-landing-page.md)
 

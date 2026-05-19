@@ -23,7 +23,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   Set up these components:
     -   Communication channels and routing.
     -   Additional components and settings that are specific to HR Service Delivery.
-    -   Forms in workspace. See [Customize fields in a form in Agent Workspace for HR Case Management](../task/form-builder-aws.md).
+    -   Forms in workspace. See [Customize fields in a form in Agent Workspace for HR Case Management](form-builder-aws.md).
     -   Workspace setup. See [Configuring Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_set-up-configurable-workspace.md).
 
 ## Roles installed
@@ -83,7 +83,7 @@ Grants access to basic HR agents to Agent Workspace for HR Case Management modul
 </td><td>
 
 -   Advanced Work Assignment Agent \[awa\_agent\]
--   To see all the roles contained within the HR agent \[sn\_hr\_core.basic\] role, see [Components installed with Case and Knowledge Management](../reference/components-installed-with-case-and-knowledge-management.md).
+-   To see all the roles contained within the HR agent \[sn\_hr\_core.basic\] role, see [Components installed with Case and Knowledge Management](../hr-service-delivery/components-installed-with-case-and-knowledge-management.md).
 
 </td></tr><tr><td>
 

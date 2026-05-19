@@ -20,7 +20,7 @@ Table joins link different tables through shared fields. Joins enable you to acc
 
 Join fields defines the common attribute or key used to connect records in a child table with their corresponding parent records.
 
-For process details, see [Add joins between ERP tables](../task/erp-canvas-add-join-data-model.md).
+For process details, see [Add joins between ERP tables](erp-canvas-add-join-data-model.md).
 
 <table id="table_alq_dmh_cyb"><thead><tr><th>
 

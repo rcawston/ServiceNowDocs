@@ -25,5 +25,5 @@ General software packages are collections of programs that work together, often 
 |Installed on|cmdb\_software\_instance|installed\_on|Various|
 |Software|cmdb\_software\_instance|software|Various|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

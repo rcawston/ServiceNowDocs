@@ -31,5 +31,5 @@ Role required: admin
     |Inbound Email Configuration|Email receiving enabled|glide.email.read.active|Yes|
 
 
-**Parent Topic:**[Basic email setup](../concept/c_StandardEmailConfiguration.md)
+**Parent Topic:**[Basic email setup](c_StandardEmailConfiguration.md)
 

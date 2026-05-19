@@ -94,7 +94,7 @@ References
 
 </td><td>
 
-[Default deny property](../../security/concept/c_DefaultDenyProperty.md)
+[Default deny property](../access-control/c_DefaultDenyProperty.md)
 
 </td></tr></tbody>
 </table>To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).

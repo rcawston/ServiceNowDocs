@@ -21,7 +21,7 @@ Configure global actions to exclude specified tables, views, pages, workspaces, 
 
     Configure a global form action to exclude a specified page or experience.
 
--   **[Restrict a global list action to a workspace page](../task/config-da-limit-workspace-page.md)**
+-   **[Restrict a global list action to a workspace page](config-da-limit-workspace-page.md)**
 
     Configure a global list action to display only on a specified workspace page.
 

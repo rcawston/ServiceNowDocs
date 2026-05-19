@@ -29,7 +29,7 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[References![](../images/icon-currency-admin-references.png)Get details about currency administration properties.](../reference/currency-admin-references.md)
+[References![](../images/icon-currency-admin-references.png)Get details about currency administration properties.](currency-admin-references.md)
 
 </td></tr></tbody>
 </table>

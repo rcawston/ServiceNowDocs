@@ -37,7 +37,7 @@ For details on the updates in the Node relationship configurations introduced in
 
     -   Copy functionality at the Main node: The main node configuration now includes a **Copy** UI action. When this functionality is used, the selected main node configuration is copied and then you’re required to set up the Nexus configuration for the copied main node.
 
-For information on configuring the Node relationship configurations, see [Configure the Node relationship configurations](../task/update-node-rel-config.md).
+For information on configuring the Node relationship configurations, see [Configure the Node relationship configurations](update-node-rel-config.md).
 
 For information on setting up relationships between different objects, see [Relationships between CSDM objects](build-up-relationships.md).
 

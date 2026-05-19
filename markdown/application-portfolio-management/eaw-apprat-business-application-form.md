@@ -468,5 +468,5 @@ Status of the application that meets your requirements or complies with the poli
 **Related topics**  
 
 
-[Edit business application details in list view](../../task/eaw-task/eaw-edit-business-application-details.md)
+[Edit business application details in list view](eaw-edit-business-application-details.md)
 

@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the ConsoleLog component. For more information about these properties, see [Properties of the Debug components](../reference/util-debug-prop.md).
+You can configure the properties for the ConsoleLog component. For more information about these properties, see [Properties of the Debug components](util-debug-prop.md).
 
 ## Procedure
 
@@ -73,5 +73,5 @@ Open the console log to check the messages.
 
 ![Console displaying messages provided in the ConsoleLog component.](../image/console-log-debug-studio.png "Console with provided messages in the ConsoleLog component")
 
-**Parent Topic:**[Debug](../concept/debug-utility.md)
+**Parent Topic:**[Debug](debug-utility.md)
 

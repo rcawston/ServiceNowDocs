@@ -97,7 +97,7 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 4.  Click **Activate**.
 
 
-**Parent Topic:**[Health and Safety Testing](../concept/health-safety-testing.md)
+**Parent Topic:**[Health and Safety Testing](health-safety-testing.md)
 
 ## Components installed with Health and Safety Testing
 

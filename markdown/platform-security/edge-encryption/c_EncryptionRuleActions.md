@@ -24,7 +24,7 @@ An encryption rule action only runs when the encryption rule condition returns t
 
 Before writing an encryption rule action, be sure to:
 
--   [Inspect the client request](../task/request-type.md).
+-   [Inspect the client request](request-type.md).
 -   Identify where the sensitive data is located in the [request](c_requestAPI.md#) object.
 -   Determine the field and table name to insert data into, or understand how to [dynamically pull this from the request](param-apis.md#dynamic-table).
 

@@ -27,25 +27,25 @@ For information about using keyword shortcuts in Next Experience, see [Next Expe
 |Impersonate user|Alt+Ctrl+I|Control+Option+I|
 |Navigate to the main content on the page|Alt+Ctrl+P|Control+Option+P|
 
--   **[Enable keyboard shortcuts](../task/enable-keyboard-shortcuts.md)**  
+-   **[Enable keyboard shortcuts](enable-keyboard-shortcuts.md)**  
 You can enable or disable keyboard shortcuts from the system settings menu.
--   **[Disable keyboard shortcuts globally](../task/disable-keyboard-shortcuts-globally.md)**  
+-   **[Disable keyboard shortcuts globally](disable-keyboard-shortcuts-globally.md)**  
 Keyboard shortcuts are enabled by default. You can disable all keyboard shortcuts globally or disable certain shortcuts using different user preferences.
--   **[Configure keys for keyboard shortcuts](../task/configure-keyboard-shortcut-preferences.md)**  
+-   **[Configure keys for keyboard shortcuts](configure-keyboard-shortcut-preferences.md)**  
 Determine which shortcut key pairings users can use to access elements in an instance.
 
-**Parent Topic:**[Working in Core UI](../../../get-started/servicenow-overview/concept/working-in-ui16-and-ui15.md)
+**Parent Topic:**[Working in Core UI](working-in-ui16-and-ui15.md)
 
 **Related topics**  
 
 
-[Core UI](../../../administer/navigation-and-ui/concept/c_UI16.md)
+[Core UI](c_UI16.md)
 
-[Working in the classic environment](../../../get-started/servicenow-overview/concept/working-in-classic-lists-and-forms.md)
+[Working in the classic environment](working-in-classic-lists-and-forms.md)
 
-[Common UI elements](../../common-ui-elements/topic/p_CommonUIElements.md)
+[Common UI elements](p_CommonUIElements.md)
 
-[Browser support](../../../administer/navigation-and-ui/reference/browser-support.md)
+[Browser support](browser-support.md)
 
-[User interface configuration](../../../administer/core-configuration/concept/p_NavigationAndUIConfiguration.md)
+[User interface configuration](p_NavigationAndUIConfiguration.md)
 

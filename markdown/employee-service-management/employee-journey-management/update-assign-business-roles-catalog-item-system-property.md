@@ -38,5 +38,5 @@ Role required: sn\_hr\_le\_ent.admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Business roles](../concept/business-roles.md)
+**Parent Topic:**[Business roles](business-roles.md)
 

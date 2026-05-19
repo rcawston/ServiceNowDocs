@@ -48,5 +48,5 @@ A needs template is a questionnaire that you complete to get product recommendat
     The selected product is added to the opportunity. The Needs tab displays the needs template that you selected. You can review the needs template and if needed, change your answers, which might result in different product recommendations.
 
 
-**Parent Topic:**[Using Opportunity Management](../concept/opportunity-mgmt-using.md)
+**Parent Topic:**[Using Opportunity Management](opportunity-mgmt-using.md)
 

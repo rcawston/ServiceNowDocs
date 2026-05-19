@@ -25,7 +25,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 3.  On the recall campaign phases form, fill in the fields.
 
-    For a description of the field values, see [Recall campaign phase form](../reference/mco-recall-campaign-phases-form.md).
+    For a description of the field values, see [Recall campaign phase form](mco-recall-campaign-phases-form.md).
 
 
 -   **[Assign or unassign impacted assets](mco_assign_unassign_impacted_assets.md)**  

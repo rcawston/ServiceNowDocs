@@ -43,5 +43,5 @@ The scheduled jobs to generate the incident patterns run by default when you hav
     **Note:** To run the job and update metrics on demand, select **Execute Now**.
 
 
-**Parent Topic:**[Configure incident patterns](../concept/hs-configure-incident-patterns.md)
+**Parent Topic:**[Configure incident patterns](hs-configure-incident-patterns.md)
 

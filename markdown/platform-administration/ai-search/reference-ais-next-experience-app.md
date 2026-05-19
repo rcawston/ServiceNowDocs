@@ -34,7 +34,7 @@ AI Search for Next Experience \(sn\_aisearch\_global\)
 Includes system and search configuration settings required to enable AI Search as the search engine for the Unified Navigation search field in Next Experience.-   Search profile: Now Experience Search Configuration
 -   Search application configuration: \[AIS\] Now Experience Search Configuration
 
- To learn more about search profiles and search application configurations, see [Search profiles in AI Search](../concept/defining-search-profiles-ais.md) and [Search application configurations](../concept/defining-search-app-cfgs-ais.md).
+ To learn more about search profiles and search application configurations, see [Search profiles in AI Search](defining-search-profiles-ais.md) and [Search application configurations](defining-search-app-cfgs-ais.md).
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Includes indexed source definitions for ServiceNow AI Platform® tables beyond t
 -   Request \[sc\_request\]
 -   Requested Item \[sc\_req\_item\]
 
- For more details on indexed sources, see [Indexed sources in AI Search](../concept/indexed-sources-ais.md).
+ For more details on indexed sources, see [Indexed sources in AI Search](indexed-sources-ais.md).
 
 </td></tr></tbody>
 </table>## System properties installed with AI Search for Next Experience
@@ -103,7 +103,7 @@ Contains search experience settings for AI Search for Next Experience:-   Search
 -   Result improvement rules
 -   Genius Results
 
- For details on configuring these settings, see [Search profiles in AI Search](../concept/defining-search-profiles-ais.md).
+ For details on configuring these settings, see [Search profiles in AI Search](defining-search-profiles-ais.md).
 
  -   Application scope: AI Search For Next Experience
 -   Location: **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**
@@ -131,12 +131,12 @@ Contains search result display and refinement settings for AI Search for Next Ex
 -   Search scripted post-processors
 -   Search result sort options
 
- For details on configuring these settings, see [Search application configurations](../concept/defining-search-app-cfgs-ais.md).
+ For details on configuring these settings, see [Search application configurations](defining-search-app-cfgs-ais.md).
 
  -   Application scope: AI Search For Next Experience
 -   Location: **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Applications**
 
-**Note:** If you install AI Search for Next Experience 3.x on a San Diego instance and then upgrade to Tokyo or a later release, an informational message appears when you view the search application configuration record, pointing out that search-based auto-complete suggestion types aren't enabled for global search. To enable these auto-complete suggestion types for global search, see [Enable search-based auto-complete suggestions in AI Search for Next Experience](../task/enable-srch-autosugg-ais-next-exp.md).
+**Note:** If you install AI Search for Next Experience 3.x on a San Diego instance and then upgrade to Tokyo or a later release, an informational message appears when you view the search application configuration record, pointing out that search-based auto-complete suggestion types aren't enabled for global search. To enable these auto-complete suggestion types for global search, see [Enable search-based auto-complete suggestions in AI Search for Next Experience](enable-srch-autosugg-ais-next-exp.md).
 
 </td></tr></tbody>
 </table>## Entity View Action Mapper \(EVAM\) configurations installed with AI Search for Next Experience
@@ -155,7 +155,7 @@ AI Search Global \| Catalog Genius Results
 
 </td><td>
 
-Contains view configuration settings for the Catalog Item Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [Catalog Item Genius Results](../concept/genius-result-catalog-item-ais.md).-   Application scope: AI Search For Next Experience
+Contains view configuration settings for the Catalog Item Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [Catalog Item Genius Results](genius-result-catalog-item-ais.md).-   Application scope: AI Search For Next Experience
 -   Location: **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **View Definitions** &gt; **View Configurations**
 
 </td></tr><tr><td>
@@ -164,7 +164,7 @@ AI Search Global \| Q&amp;A Genius Result
 
 </td><td>
 
-Contains view configuration settings for the Q&amp;A Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [Q&amp;A Genius Results](../concept/genius-result-q-a-ais.md).-   Application scope: AI Search For Next Experience
+Contains view configuration settings for the Q&amp;A Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [Q&amp;A Genius Results](genius-result-q-a-ais.md).-   Application scope: AI Search For Next Experience
 -   Location: **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **View Definitions** &gt; **View Configurations**
 
 </td></tr><tr><td>
@@ -173,7 +173,7 @@ AI Search Global \| User Genius Results
 
 </td><td>
 
-Contains view configuration settings for the People Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [People Genius Results](../concept/genius-result-people-ais.md).-   Application scope: AI Search For Next Experience
+Contains view configuration settings for the People Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [People Genius Results](genius-result-people-ais.md).-   Application scope: AI Search For Next Experience
 -   Location: **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **View Definitions** &gt; **View Configurations**
 
 </td></tr></tbody>
@@ -193,7 +193,7 @@ AI Search Global \| Catalog Genius Results Template
 
 </td><td>
 
-Contains component, static value, field mapping, and action mapping settings for the Catalog Item Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [Catalog Item Genius Results](../concept/genius-result-catalog-item-ais.md).-   Application scope: AI Search For Next Experience
+Contains component, static value, field mapping, and action mapping settings for the Catalog Item Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [Catalog Item Genius Results](genius-result-catalog-item-ais.md).-   Application scope: AI Search For Next Experience
 -   Location: **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **View Definitions** &gt; **View Templates**
 
 </td></tr><tr><td>
@@ -202,7 +202,7 @@ AI Search Global \| Q&amp;A Genius Result Template
 
 </td><td>
 
-Contains component, static value, field mapping, and action mapping settings for the Q&amp;A Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [Q&amp;A Genius Results](../concept/genius-result-q-a-ais.md).-   Application scope: AI Search For Next Experience
+Contains component, static value, field mapping, and action mapping settings for the Q&amp;A Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [Q&amp;A Genius Results](genius-result-q-a-ais.md).-   Application scope: AI Search For Next Experience
 -   Location: **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **View Definitions** &gt; **View Templates**
 
 </td></tr><tr><td>
@@ -211,18 +211,18 @@ AI Search Global \| User Genius Results Template
 
 </td><td>
 
-Contains component, static value, field mapping, and action mapping settings for the People Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [People Genius Results](../concept/genius-result-people-ais.md).-   Application scope: AI Search For Next Experience
+Contains component, static value, field mapping, and action mapping settings for the People Genius Result configuration in AI Search for Next Experience. To learn more about this Genius Result configuration, see [People Genius Results](genius-result-people-ais.md).-   Application scope: AI Search For Next Experience
 -   Location: **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **View Definitions** &gt; **View Templates**
 
 </td></tr></tbody>
 </table>## List of all components installed with AI Search for Next Experience
 
-To view the complete list of components installed with AI Search for Next Experience, follow the steps described in [Find components installed with an application](../../plugins/task/find-components.md). The application's package name is **AI Search For Next Experience**.
+To view the complete list of components installed with AI Search for Next Experience, follow the steps described in [Find components installed with an application](../find-components.md). The application's package name is **AI Search For Next Experience**.
 
 -   **[AI Search for Next Experience properties](ai-search-next-experience-properties.md)**  
 A system property allows you to control whether facets are shown when no source is selected in global search and workspace search results pages.
 -   **[AI Search for Next Experience default source facet buckets for global search](ais-ne-global-search-nav-tabs.md)**  
 List of source facet buckets that appear by default in AI Search for Next Experience global search results.
 
-**Parent Topic:**[AI Search for Next Experience](../concept/ais-next-experience-app.md)
+**Parent Topic:**[AI Search for Next Experience](ais-next-experience-app.md)
 

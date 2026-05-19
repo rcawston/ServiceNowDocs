@@ -17,7 +17,7 @@ Next Experience for Demand Management features support end-to-end planning and m
 
 ## All Demands list view
 
-When you navigate to the Next Experience for Demand Management, you land on the **All Demands** home page. This page displays the demands in a list view. You can create a demand, edit a demand, or export demands from this page. For more information, see [Demands list view](../reference/demands-list-view-ppw.md).
+When you navigate to the Next Experience for Demand Management, you land on the **All Demands** home page. This page displays the demands in a list view. You can create a demand, edit a demand, or export demands from this page. For more information, see [Demands list view](demands-list-view-ppw.md).
 
 ![All Demands home page.](../images/ppw-all-demands-list.png)
 

@@ -53,5 +53,5 @@ The following table lists the default mapping of different idea states with the 
     For more information, see [State mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-state-mapping-form.md).
 
 
-**Parent Topic:**[Integrating Innovation Management with Universal Request](../concept/universal-req-idea-mgmt.md)
+**Parent Topic:**[Integrating Innovation Management with Universal Request](universal-req-idea-mgmt.md)
 

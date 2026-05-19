@@ -31,6 +31,6 @@ Role required: sn\_dex.user
 
 4.  Select **Performance** under **Application metrics**.
 
-    You can view information on the number of crashes, CPU usage, memory and I/O performance, and memory usage trends. For more information on the metrics, see [Installed application — Performance page](../reference/installed-app-health-form.md).
+    You can view information on the number of crashes, CPU usage, memory and I/O performance, and memory usage trends. For more information on the metrics, see [Installed application — Performance page](installed-app-health-form.md).
 
 

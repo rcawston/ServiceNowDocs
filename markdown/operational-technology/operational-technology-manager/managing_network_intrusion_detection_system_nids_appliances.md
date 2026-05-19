@@ -49,7 +49,7 @@ Validate the NIDS to import the devices from the ETL that were detected by the s
 -   **[Validate multiple NIDS sensors at once](bulk-validation-nids.md)**  
 Validate multiple NIDS sensors at once through a bulk validation so that you can edit your records more quickly and efficiently.
 
-**Parent Topic:**[Using the Operational Technology Manager](../concept/using-operational-technology-manager.md)
+**Parent Topic:**[Using the Operational Technology Manager](using-operational-technology-manager.md)
 
 **Related topics**  
 

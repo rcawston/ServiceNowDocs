@@ -40,9 +40,9 @@ Test Problem Management models in a non-production instance first. If you have c
 
 To begin working with custom models, see the following topics:
 
--   [Enable Problem Management models in Service Operations Workspace](../task/enable-problem-mgmt-models-sow.md)
--   [Create a problem model in Service Operations Workspace](../task/create-problem-model-sow.md)
--   [Create a problem task model in Service Operations Workspace](../task/create-problem-task-model-sow.md)
+-   [Enable Problem Management models in Service Operations Workspace](enable-problem-mgmt-models-sow.md)
+-   [Create a problem model in Service Operations Workspace](create-problem-model-sow.md)
+-   [Create a problem task model in Service Operations Workspace](create-problem-task-model-sow.md)
 
 **Note:** Any problems or problem tasks that were created before you enable Problem Management models will continue to use the non-model life cycle.
 
@@ -63,13 +63,13 @@ If you are using Service Operations Workspace 5.x and you enable Problem Managem
 **Related topics**  
 
 
-[Create a problem in Service Operations Workspace](../task/create-problem-sow.md)
+[Create a problem in Service Operations Workspace](create-problem-sow.md)
 
-[Work on a problem in Service Operations Workspace](../task/work-on-problem-sow.md)
+[Work on a problem in Service Operations Workspace](work-on-problem-sow.md)
 
-[Create a problem task in Service Operations Workspace](../task/create-problem-task-sow.md)
+[Create a problem task in Service Operations Workspace](create-problem-task-sow.md)
 
-[Work on a problem task in Service Operations Workspace](../task/work-on-problem-task-sow.md)
+[Work on a problem task in Service Operations Workspace](work-on-problem-task-sow.md)
 
 [Problem Management in Service Operations Workspace reference](reference-problem-management-sow.md)
 

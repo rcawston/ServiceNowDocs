@@ -41,12 +41,12 @@ Role required: sn\_icw.user
 
 The safety incidents list displays incidents based on your access permissions and selected filters.
 
-**Parent Topic:**[Using ICW Health and Safety Integration](../concept/using-icw-health-and-safety-integration.md)
+**Parent Topic:**[Using ICW Health and Safety Integration](using-icw-health-and-safety-integration.md)
 
 **Related topics**  
 
 
-[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](../concept/icw-health-and-security-integraton.md)
+[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](icw-health-and-security-integraton.md)
 
 [Create a safety incident from an ICW task](icw-create-safety-incident-from-task.md)
 

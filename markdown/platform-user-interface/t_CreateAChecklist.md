@@ -83,7 +83,7 @@ Under **Create from template**, select a template. The checklist items in the te
 11. Save the form.
 
 
-**Parent Topic:**[Checklists](../concept/c_Checklists.md)
+**Parent Topic:**[Checklists](c_Checklists.md)
 
 **Related topics**  
 

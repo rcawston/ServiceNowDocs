@@ -22,18 +22,18 @@ The following checklist helps to ensure your environment is properly configured,
     **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 3.  Confirm that the plugins for the tools that you want to use are installed and activated. For more information, see the following topics:
-    -   [Install Build Agent](../../build-agent/tasks/install-build-agent.md)
+    -   [Install Build Agent](install-build-agent.md)
 
-        **Note:** You can also connect a Figma MCP server to Build Agent to accelerate the conversion of Figma designs into enterprise-grade applications. For more information, see [Connect Build Agent to a Figma MCP server](../../build-agent/tasks/connect-figma-mcp-server-to-build-agent.md#).
+        **Note:** You can also connect a Figma MCP server to Build Agent to accelerate the conversion of Figma designs into enterprise-grade applications. For more information, see [Connect Build Agent to a Figma MCP server](connect-figma-mcp-server-to-build-agent.md#).
 
-    -   [Install Now Assist for Creator](../../../administer/flow-designer/task/install-now-assist-for-creator.md)
-4.  Install Developer Sandboxes, which is not required for vibe coding and AI-assisted development but provides a helpful instance to experiment with development. For more information, see [Developer Sandboxes](../../developer-sandboxes/concept/sandboxes-landing.md).
+    -   [Install Now Assist for Creator](now-assist-for-creator/install-now-assist-for-creator.md)
+4.  Install Developer Sandboxes, which is not required for vibe coding and AI-assisted development but provides a helpful instance to experiment with development. For more information, see [Developer Sandboxes](developer-sandboxes/sandboxes-landing.md).
 
 ServiceNow Studio and ServiceNow IDE are automatically available on every instance, so you don't need to confirm their installation.
 
 ## Prepare your development environment
 
-1.  Use Developer Sandboxes to allocate a sandbox for safe, isolated vibe coding and AI-assisted development. For more information, see [Developer Sandboxes](../../developer-sandboxes/concept/sandboxes-landing.md).
+1.  Use Developer Sandboxes to allocate a sandbox for safe, isolated vibe coding and AI-assisted development. For more information, see [Developer Sandboxes](developer-sandboxes/sandboxes-landing.md).
 2.  Validate compliance policies and security controls.
 3.  Enable Vault Console and Machine Identity Console for sensitive data protection and API governance.
 

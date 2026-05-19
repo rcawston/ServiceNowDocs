@@ -28,5 +28,5 @@ Access Control List rules \(ACLs\) restrict access to data by requiring users to
 |User Account shouldn’t have both Internal and External roles|Checks for user records with both **Internal** and **External** roles assigned|Internal user roles are intended for users within your company. External user roles are intended for external personnel, such as customers and partners.|
 |Publicly accessible knowledge base and articles|Checks for publicly accessible knowledge bases and knowledge base articles|Publicly accessible knowledge bases and articles are visible to all users in the instance. Increase security by limiting knowledge bases and articles to the specific audience that needs them.|
 
-**Parent Topic:**[Scan suites](../concept/sec-center-suites.md)
+**Parent Topic:**[Scan suites](sec-center-suites.md)
 

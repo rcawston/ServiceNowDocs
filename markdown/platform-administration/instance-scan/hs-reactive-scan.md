@@ -40,7 +40,7 @@ The **Trigger Type** in the Scan Trigger form should match the **Source Table** 
     The reactive scan is now set up to automatically scan the execution tracker of the failed process which appears on the scan results table.
 
 
-**Parent Topic:**[Executing a scan](../reference/hs-execute-scans.md)
+**Parent Topic:**[Executing a scan](hs-execute-scans.md)
 
 **Related topics**  
 

@@ -35,7 +35,7 @@ Role required: sn\_cm\_core.contract\_config
 
 4.  On the form, fill in the fields:
 
-    For description on the field values, see [Participant form for contract templates](../reference/cncore-participants-form.md).
+    For description on the field values, see [Participant form for contract templates](cncore-participants-form.md).
 
     For more information on content controls, see [Add content controls in a Microsoft Word document](cncore-word-doc-tmplt-contls.md).
 
@@ -48,10 +48,10 @@ Role required: sn\_cm\_core.contract\_config
 
 The participant is added to the document template.
 
--   **[Participant form for contract templates](../reference/cncore-participants-form.md)**  
+-   **[Participant form for contract templates](cncore-participants-form.md)**  
 Use the Participant form to add participants in a contract template.
 
-**Parent Topic:**[Create contract template by manually adding content controls](../concept/cncore-setup-ct-manual.md)
+**Parent Topic:**[Create contract template by manually adding content controls](cncore-setup-ct-manual.md)
 
 **Related topics**  
 

@@ -43,11 +43,11 @@ Role required: ui\_builder\_admin
 
 3.  Create or open a page.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 4.  Add a component that has events, such as the data visualization component.
 
-    For more information about adding components to a page, see [Add and configure components](../task/add-components.md#).
+    For more information about adding components to a page, see [Add and configure components](add-components.md#).
 
 5.  To add an event handler to your component, select the **Events** tab.
 

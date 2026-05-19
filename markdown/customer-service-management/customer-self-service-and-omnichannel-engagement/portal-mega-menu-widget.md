@@ -17,5 +17,5 @@ The Portal Mega Menu widget displays a hierarchical menu on the header of the po
 
 ![Portal Mega Menu widget showing different pages on the portal home page](../image/mega-menu-widget.png "Portal Mega Menu widget")
 
-For more information about how to configure the Portal Mega Menu widget, see [Configure the category of a Portal Mega Menu widget](../task/conf-cat-mega-menu.md).
+For more information about how to configure the Portal Mega Menu widget, see [Configure the category of a Portal Mega Menu widget](conf-cat-mega-menu.md).
 

@@ -93,10 +93,10 @@ Select or create a template that the profile should be mapped to.To create a new
         |To Port|Specify the destination port number.|
 
 
-**Parent Topic:**[Resource Profiles](../concept/cloud-resource-profiles.md)
+**Parent Topic:**[Resource Profiles](cloud-resource-profiles.md)
 
 **Related topics**  
 
 
-[Discover all datacenters in a service account on-demand](../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct.md)
+[Discover all datacenters in a service account on-demand](disco-datacntrs-in-srv-acct.md)
 

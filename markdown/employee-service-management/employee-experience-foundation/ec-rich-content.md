@@ -23,17 +23,17 @@ The Rich Content Editor provides a library of components and a canvas area, wher
 
 The Rich Content Editor makes it possible to build HTML content with little or no HTML or CSS \(cascading style sheets\) knowledge, using the following process:
 
-1.  Create the Rich Content type record: [Create rich content](../task/ec-content-library-portal-rich-content.md)
+1.  Create the Rich Content type record: [Create rich content](ec-content-library-portal-rich-content.md)
 2.  Create the page layout.
-    -   Modules are predefined content layouts comprised of header, paragraph text, and images. See [Add predefined content layouts with the Rich Content Editor](../task/add-modules-rich-content-editor.md)
-    -   Columns are containers that enable you to define a custom layout. See [Add columns with the Rich Content Editor](../task/ec-rich-content-canvas.md)
+    -   Modules are predefined content layouts comprised of header, paragraph text, and images. See [Add predefined content layouts with the Rich Content Editor](add-modules-rich-content-editor.md)
+    -   Columns are containers that enable you to define a custom layout. See [Add columns with the Rich Content Editor](ec-rich-content-canvas.md)
 3.  Add components such as images, videos, text boxes, and buttons.
 4.  Change the canvas size to create content for tablet and mobile.
 
     **Note:** For best results when creating content for all three platforms, first create your content for desktop, then tablet and mobile.
 
 5.  \(Optional\) Select a different language to view your session in or request a language translation for the content you're creating. For more information, see [Multilingual support in the Content Library](ec-switch-language.md).
-6.  Make the content available to users via a publish plan: [Create a publish plan for your content](../task/ec-content-library-publish2.md)
+6.  Make the content available to users via a publish plan: [Create a publish plan for your content](ec-content-library-publish2.md)
 
     Alternatively, you can build out a more robust publishing configuration using campaigns: [Creating campaigns](ecpro-campaigns.md)
 
@@ -42,7 +42,7 @@ The Rich Content Editor makes it possible to build HTML content with little or n
 
 The Rich Content Editor interface is comprised of a canvas where you assemble the content, content components that you drag into the canvas, and menu bar icons to modify the canvas.
 
-**Note:** If the Edit Source code icon does not appear, ask an admin to enable the **Edit code** property. See [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
+**Note:** If the Edit Source code icon does not appear, ask an admin to enable the **Edit code** property. See [Properties installed with Content Publishing](properties-with-content-delivery.md)
 
 ![Rich Content Editor components](../images/ec-rce-components.png)
 

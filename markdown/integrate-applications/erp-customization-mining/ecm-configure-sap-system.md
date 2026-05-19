@@ -50,5 +50,5 @@ Role required: none
     2.  Verify that the **Workload data** field is set to **Daily**.
 
 
-**Parent Topic:**[Configuring ERP Semantic Mining](../concept/configuring-ecm.md)
+**Parent Topic:**[Configuring ERP Semantic Mining](configuring-ecm.md)
 

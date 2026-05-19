@@ -42,7 +42,7 @@ Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
     For information on setting up rules to assign to levels, see [Set up the approval rules for due diligence requests](tprm-set-request-approval-rules.md).
 
-    For more information on approval levels and rules, see [Approving or rejecting requests for due diligence](../../grc-vendor-risk/concept/tprm-approving.md).
+    For more information on approval levels and rules, see [Approving or rejecting requests for due diligence](tprm-approving.md).
 
 
 **Related topics**  

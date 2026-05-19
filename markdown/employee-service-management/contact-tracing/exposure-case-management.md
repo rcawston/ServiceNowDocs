@@ -28,15 +28,15 @@ If any employee is confirmed to be affected with an infectious disease, send the
 The case manager sets up a case for an employee who might have been exposed to any infectious disease.
 
 1.  Create a case for an affected employee.
-2.  Run a diagnostic request to identify all potentially exposed contacts through various tracing systems such as workplace location, workplace shifts and reservations, meetings, employee badge swipe data, and Wi-Fi access data. For more information, see [Identify potentially exposed users](../../business-continuity/task/use-emergency-exposure-mgnt.md).
+2.  Run a diagnostic request to identify all potentially exposed contacts through various tracing systems such as workplace location, workplace shifts and reservations, meetings, employee badge swipe data, and Wi-Fi access data. For more information, see [Identify potentially exposed users](../emergency-exposure-management/use-emergency-exposure-mgnt.md).
 3.  Send an outreach notification to potentially exposed contacts to notify them of a potential exposure from an affected employee.
 4.  Create case tasks to follow up with these potentially exposed contacts to assess their health status using predefined survey questions.
 
 ## Automated case creation
 
-You must have the Emergency Self Report application installed for the automatic case creation to work. For more information, see [Set up Emergency Self Report](../../business-continuity/task/set-up-emergency-self-report.md#).
+You must have the Emergency Self Report application installed for the automatic case creation to work. For more information, see [Set up Emergency Self Report](../emergency-self-report/set-up-emergency-self-report.md#).
 
-If an employee is reported as being in quarantine through the [self-reporting option](../../business-continuity/concept/emergency-self-report.md#section_tfx_xw5_1lb) in the Emergency Self Report application, a case is created automatically for the employee. The case is created automatically only if the employee doesn't have any active case at the time of self-reporting.
+If an employee is reported as being in quarantine through the [self-reporting option](../emergency-self-report/emergency-self-report.md#section_tfx_xw5_1lb) in the Emergency Self Report application, a case is created automatically for the employee. The case is created automatically only if the employee doesn't have any active case at the time of self-reporting.
 
 If the employee has an active case, a work note is added to the case for the case manager to take appropriate action, if needed.
 
@@ -75,21 +75,21 @@ If you have the Safe Workplace Dashboard application installed, you can view the
 -   Number of active cases
 -   Number of potentially exposed contacts
 
-For more information, see [Safe Workplace Dashboard](../../safe-workplace-dashboard/concept/safe-workplace-dashboard.md).
+For more information, see [Safe Workplace Dashboard](../safe-workplace-dashboard/safe-workplace-dashboard.md).
 
-You can also configure the alert type to determine when the number of active cases is above the threshold in a particular campus or location. For more information, see [Alert types used with the Safe Workplace Dashboard](../../safe-workplace-dashboard/reference/safe-wkplc-dashboard-alert-types.md).
+You can also configure the alert type to determine when the number of active cases is above the threshold in a particular campus or location. For more information, see [Alert types used with the Safe Workplace Dashboard](../safe-workplace-dashboard/safe-wkplc-dashboard-alert-types.md).
 
--   **[Create a case for an affected employee](../task/create-exposure-case.md)**  
+-   **[Create a case for an affected employee](create-exposure-case.md)**  
 As a case manager, create a case for an affected employee to identify and follow up with other employees who might have come in contact with the affected employee.
--   **[Identify potentially exposed contacts](../task/identify-exposed-contacts.md)**  
+-   **[Identify potentially exposed contacts](identify-exposed-contacts.md)**  
 As a case manager, run the diagnostic request to identify other employees who might have come in contact with the affected employee.
--   **[Send notification to potentially exposed contacts in a case](../task/send-notification-to-exposed-contact.md)**  
+-   **[Send notification to potentially exposed contacts in a case](send-notification-to-exposed-contact.md)**  
 As a case manager, send an outreach notification to potentially exposed employees to notify them of a potential exposure from an affected employee.
--   **[Create a case task to follow up with an exposed employee](../task/create-task-exposed-contact.md)**  
+-   **[Create a case task to follow up with an exposed employee](create-task-exposed-contact.md)**  
 As a case manager, create case tasks for potentially exposed employees. Assign these tasks to contact tracers to follow up with them to evaluate their health status.
--   **[Follow up with potentially exposed contacts](../task/contact-exposed-contacts.md)**  
+-   **[Follow up with potentially exposed contacts](contact-exposed-contacts.md)**  
 As a case task owner, contact potentially exposed users to follow up on their health status using the predefined instructions and survey questions.
--   **[Working on a case through contact tracing visualization](../reference/contact-tracing-case-visualization.md)**  
+-   **[Working on a case through contact tracing visualization](contact-tracing-case-visualization.md)**  
 The contact tracing visualization in a case is a graphical representation of the affected user and potentially exposed contacts.
 
 **Parent Topic:**[Contact Tracing](contact-tracing.md)

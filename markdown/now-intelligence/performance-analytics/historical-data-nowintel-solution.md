@@ -75,9 +75,9 @@ In the form, you verify the following details:
 
 You are satisfied with the settings for the historical job, so you click **Execute Now**. After a few minutes, the job is shown as `Collected` in the job logs.![Job log showing collected Knowledge Management historical job](../image/nowintel-solution-complete-hist-job.png)
 
-**Parent Topic:**[Collect data for Platform Analytics Solutions](../concept/collect-data-nowintel-solutions.md)
+**Parent Topic:**[Collect data for Platform Analytics Solutions](collect-data-nowintel-solutions.md)
 
-**Previous topic:**[Collect data for Platform Analytics Solutions](../concept/collect-data-nowintel-solutions.md)
+**Previous topic:**[Collect data for Platform Analytics Solutions](collect-data-nowintel-solutions.md)
 
 **Next topic:**[Schedule data collection for a Platform Analytics Solution](schedule-job-nowintel-solution.md)
 

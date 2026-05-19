@@ -244,7 +244,7 @@ From the reservation details page, you can also open the reservation to view it 
 
 As a reservation planner, you can cancel a reservation if necessary using the **Cancel reservation** option.
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

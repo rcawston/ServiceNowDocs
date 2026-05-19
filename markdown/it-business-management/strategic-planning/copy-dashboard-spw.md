@@ -57,7 +57,7 @@ The dashboard is copied with the new name. The appearance of the dashboard is id
 
 Edit a dashboard as needed by adding sections, filters, images, lists, process mining maps, and rich text. For more information, see [Edit a dashboard](edit-dashboard-spw.md).
 
-**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](../concept/using-dashboards-spw.md)
+**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](using-dashboards-spw.md)
 
 **Related topics**  
 

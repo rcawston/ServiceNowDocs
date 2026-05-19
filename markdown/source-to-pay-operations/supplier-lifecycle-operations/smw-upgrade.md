@@ -17,20 +17,20 @@ Starting with the Washington DC release, Supplier Manager Workspace is being pre
 
 Supplier managers are often part of procurement, which involves sourcing products and selecting the supplier that best fits the needs. As a result, the supplier manager had to switch between two different workspaces, which affected the user experience.
 
-The Source-to-Pay \(S2P\) product suite utilizes the Source-to-Pay Workspace for various activities such as procuring goods, onboarding suppliers, and processing invoices. This unified workspace is designed to streamline tasks for Procurement Specialists, Supplier Managers, and Accounts Payable Specialists by providing a consistent interface for Source-to-Pay Operations. For more information, see [Source-to-Pay Workspace](../../source-to-pay-operations/concept/source-to-pay-ws-overview.md).
+The Source-to-Pay \(S2P\) product suite utilizes the Source-to-Pay Workspace for various activities such as procuring goods, onboarding suppliers, and processing invoices. This unified workspace is designed to streamline tasks for Procurement Specialists, Supplier Managers, and Accounts Payable Specialists by providing a consistent interface for Source-to-Pay Operations. For more information, see [Source-to-Pay Workspace](../source-to-pay-workspace/source-to-pay-ws-overview.md).
 
 Before upgrading to Washington DC or later releases, ensure that you have installed the Vancouver version 2.4.2 of both Supplier Common Architecture and Supplier Case Management. This step is mandatory if you plan to continue using the deprecated Supplier Manager Workspace. For more information, see the KB article [KB1651502](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1651502).
 
-If you have upgraded to Washington DC or later releases and want to use the Supplier Manager Workspace, ensure that you run the fixscript\_migrate\_workspace\_to\_smw.xml fix script. For more information, see [Run fix script to migrate existing data from the deprecated Action type column after upgrade](../task/fix-script-deprecated-column.md).
+If you have upgraded to Washington DC or later releases and want to use the Supplier Manager Workspace, ensure that you run the fixscript\_migrate\_workspace\_to\_smw.xml fix script. For more information, see [Run fix script to migrate existing data from the deprecated Action type column after upgrade](fix-script-deprecated-column.md).
 
-**Parent Topic:**[Install Supplier Case Management](../task/install-supp-mgmt.md)
+**Parent Topic:**[Install Supplier Case Management](install-supp-mgmt.md)
 
 **Related topics**  
 
 
-[Components installed with Supplier Case Management](../reference/installed-with-supp-mgmt.md)
+[Components installed with Supplier Case Management](installed-with-supp-mgmt.md)
 
 [Explicit Roles in Supplier Case Management](slo-explicit-roles-plugin.md)
 
-[Configure properties for Supplier Case Management](../reference/config-prop-supp-mgmt.md)
+[Configure properties for Supplier Case Management](config-prop-supp-mgmt.md)
 

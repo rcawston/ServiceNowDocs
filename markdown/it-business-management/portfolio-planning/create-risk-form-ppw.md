@@ -93,7 +93,7 @@ Risk rank
 
 </td><td>
 
-A value and color assigned to the risk. This value is calculated using risk probability and impact. You can configure the color and value using the Risk Value Lookup. For more information, see [Configure a custom risk rank and risk value](../task/configure-custom-risk-rank-risk-value-ppw.md).
+A value and color assigned to the risk. This value is calculated using risk probability and impact. You can configure the color and value using the Risk Value Lookup. For more information, see [Configure a custom risk rank and risk value](configure-custom-risk-rank-risk-value-ppw.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Risk value
 
 </td><td>
 
-A value calculated from the Risk Value Lookup. For more information, see [Configure a custom risk rank and risk value](../task/configure-custom-risk-rank-risk-value-ppw.md).
+A value calculated from the Risk Value Lookup. For more information, see [Configure a custom risk rank and risk value](configure-custom-risk-rank-risk-value-ppw.md).
 
 </td></tr><tr><td>
 

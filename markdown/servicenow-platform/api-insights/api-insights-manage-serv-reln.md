@@ -25,7 +25,7 @@ By using application service relationships, you can:
 -   Understand the dependencies between APIs and the CIs they support.
 -   Manage and monitor API performance and its impact on critical business services and CIs.
 
-For more information, see [Service instances \(Application services\)](../../configuration-management/concept/application-services.md).
+For more information, see [Service instances \(Application services\)](../configuration-management-database-cmdb/application-services.md).
 
 The available actions for handling application service relationships for APIs include:
 
@@ -33,7 +33,7 @@ The available actions for handling application service relationships for APIs in
 -   [Create application service relationships](api-insights-manage-serv-reln.md#).
 -   [Remove application service relationships](api-insights-manage-serv-reln.md#).
 
-**Note:** When managing multiple API relationships for application services, you can automate the mapping. For more information, see [Automate tag-based relationship mapping](../../../Chunk770148849.md#).
+**Note:** When managing multiple API relationships for application services, you can automate the mapping. For more information, see [Automate tag-based relationship mapping](../servicenow-platform/Chunk770148849.md#).
 
 ## View application service relationships
 

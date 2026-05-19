@@ -15,13 +15,13 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The LeadAPIProcessUtilOOB script include provides methods that are called by the lead REST API to retrieve lead records and their associated lead line item records.
 
-If you want to customize how lead records are retrieved when the [lead API](../../../../../integrate/inbound-rest/concept/lead-api.md#) methods are called, override the methods in this script include in the LeadAPIProcessUtil script include. The names of the methods that you are overriding in the LeadAPIProcessUtil script include must be the same as those in the LeadAPIProcessUtilOOB script include file.
+If you want to customize how lead records are retrieved when the [lead API](../rest-apis/lead-api.md#) methods are called, override the methods in this script include in the LeadAPIProcessUtil script include. The names of the methods that you are overriding in the LeadAPIProcessUtil script include must be the same as those in the LeadAPIProcessUtilOOB script include file.
 
 This API is provided within the `sn_lead_mgmt_core` namespace. To access the API, the Lead Management Data Model \(sn\_lead\_mgmt\_core\) plugin must be activated on the instance, and the calling user must have the sn\_lead\_mgmt\_core.lead\_integrator role.
 
 For additional information on Lead Management, see [Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## LeadAPIProcessUtilOOB - processCreateLead \(Object requestBody\)
 
@@ -54,7 +54,7 @@ Object
 
 </td><td>
 
-Request body of the lead and its related lead line items to create.For details on the contents of this object, see [lead - POST /sn\_lead\_mgmt\_core/lead](../../../../../integrate/inbound-rest/concept/lead-api.md#).
+Request body of the lead and its related lead line items to create.For details on the contents of this object, see [lead - POST /sn\_lead\_mgmt\_core/lead](../rest-apis/lead-api.md#).
 
 </td></tr></tbody>
 </table><table id="table_txx_crr_ydc" class="returns"><thead><tr><th>
@@ -86,7 +86,7 @@ Details of the saved lead and lead line item records.Data type: Object
 
 </td><td>
 
-Response body.Successful response: All fields within the requested lead record and all fields in the associated lead line item records. For a description of the fields returned, refer to [lead - POST /sn\_lead\_mgmt\_core/lead](../../../../../integrate/inbound-rest/concept/lead-api.md#).
+Response body.Successful response: All fields within the requested lead record and all fields in the associated lead line item records. For a description of the fields returned, refer to [lead - POST /sn\_lead\_mgmt\_core/lead](../rest-apis/lead-api.md#).
 
 Error response: List of errors detected when trying to process the request. These error messages are defined in the LeadAPIConstants script include.
 
@@ -152,7 +152,7 @@ Object
 
 </td><td>
 
-Object containing the query parameters to apply when retrieving the lead records. These are the query parameters passed in the [lead - GET /sn\_lead\_mgmt\_core/lead](../../../../../integrate/inbound-rest/concept/lead-api.md#) endpoint.For example:
+Object containing the query parameters to apply when retrieving the lead records. These are the query parameters passed in the [lead - GET /sn\_lead\_mgmt\_core/lead](../rest-apis/lead-api.md#) endpoint.For example:
 
 ```
 {
@@ -209,7 +209,7 @@ If an errors occur while processing the request, the JSON object only contains t
 
 </td><td>
 
-Response body.Successful response: An array of objects with each object containing a lead record and all associated lead line item records. All fields within the requested lead record and all fields in the associated lead line item records are returned. For a description of the fields returned, refer to [lead - GET /sn\_lead\_mgmt\_core/lead](../../../../../integrate/inbound-rest/concept/lead-api.md#).
+Response body.Successful response: An array of objects with each object containing a lead record and all associated lead line item records. All fields within the requested lead record and all fields in the associated lead line item records are returned. For a description of the fields returned, refer to [lead - GET /sn\_lead\_mgmt\_core/lead](../rest-apis/lead-api.md#).
 
 Error response: List of errors detected when trying to process the request. These error messages are defined in the LeadAPIConstants script include.
 
@@ -340,7 +340,7 @@ Details of the requested lead and lead line item records.Data type: Object
 
 </td><td>
 
-Response body.Successful response: All fields within the requested lead record and all fields in the associated lead line item records. For a description of the fields returned, refer to [lead - GET /sn\_lead\_mgmt\_core/lead/\{sys\_id\}](../../../../../integrate/inbound-rest/concept/lead-api.md#).
+Response body.Successful response: All fields within the requested lead record and all fields in the associated lead line item records. For a description of the fields returned, refer to [lead - GET /sn\_lead\_mgmt\_core/lead/\{sys\_id\}](../rest-apis/lead-api.md#).
 
 Error response: List of errors detected when trying to process the request. These error messages are defined in the LeadAPIConstants script include.
 
@@ -406,7 +406,7 @@ Object
 
 </td><td>
 
-Request body of the lead and its related lead line item fields to update.For details on the contents of this object, see [lead - PATCH /sn\_lead\_mgmt\_core/lead/\{sys\_id\}](../../../../../integrate/inbound-rest/concept/lead-api.md#).
+Request body of the lead and its related lead line item fields to update.For details on the contents of this object, see [lead - PATCH /sn\_lead\_mgmt\_core/lead/\{sys\_id\}](../rest-apis/lead-api.md#).
 
 </td></tr><tr><td>
 
@@ -450,7 +450,7 @@ Details of the saved lead and lead line item records.Data type: Object
 
 </td><td>
 
-Response body.Successful response: All fields of the updated lead record and all fields in the associated lead line item records \(updated or not\). For a description of the fields returned, refer to [lead - PATCH /sn\_lead\_mgmt\_core/lead/\{sys\_id\}](../../../../../integrate/inbound-rest/concept/lead-api.md#).
+Response body.Successful response: All fields of the updated lead record and all fields in the associated lead line item records \(updated or not\). For a description of the fields returned, refer to [lead - PATCH /sn\_lead\_mgmt\_core/lead/\{sys\_id\}](../rest-apis/lead-api.md#).
 
 Error response: List of errors detected when trying to process the request. These error messages are defined in the LeadAPIConstants script include.
 

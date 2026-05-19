@@ -17,7 +17,7 @@ Configure Now Assist in your ServiceNow instance to enable the feature to automa
 
 After an Interaction ends or is transferred to a new agent, the interaction may enter a wrap up state. During this state, agents must select a wrap up code and enter notes to document the interaction. Now Assist can analyze the interaction transcript and recommend an appropriate wrap up code based on the conversation and available wrap up code options. The skill also generates a summary of the interaction to populate the notes field. You can configure the system to automatically generate these recommendations when wrap up begins, or you can enable manual generation where agents click a button to invoke the skill when needed. Manual generation gives customers control over token usage by calling the LLM only when requested.
 
-See [Use AI to generate wrap up code and notes summary](../concept/ai-generated-wrap-up-codes-and-notes-summary.md) and [AI interaction wrap-up](../concept/interaction-wrapup-ai-generated.md).
+See [Use AI to generate wrap up code and notes summary](ai-generated-wrap-up-codes-and-notes-summary.md) and [AI interaction wrap-up](interaction-wrapup-ai-generated.md).
 
 Role required: admin
 

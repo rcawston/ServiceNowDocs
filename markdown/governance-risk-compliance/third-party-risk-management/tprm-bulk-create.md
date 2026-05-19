@@ -35,7 +35,7 @@ Only DORA administrators can view the **Upload** option and perform this task.
 
 3.  On the form, select **Upload** as the request type and fill in the remaining fields.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](tprm-excel-upload-download-req.md).
 
     **Note:** You can only upload one type of record for each upload request. For example, if you made an upload request for Assessment records, you can only include Assessment record information in the template.
 

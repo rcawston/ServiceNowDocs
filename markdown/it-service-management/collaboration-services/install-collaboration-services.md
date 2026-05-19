@@ -37,7 +37,7 @@ Role required: admin
 
 ## About this task
 
-For the tables that are installed with Collaboration services, refer [Components installed with Collaboration services](../reference/installed-with-collaboration-services.md)
+For the tables that are installed with Collaboration services, refer [Components installed with Collaboration services](installed-with-collaboration-services.md)
 
 .
 

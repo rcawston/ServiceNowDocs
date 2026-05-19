@@ -83,7 +83,7 @@ The IPAM settings manage how Discovery integrates with your IPAM sources, contro
 
     Automatically create and manage Discovery schedules based on your IPv6 network infrastructure data stored in IPAM.
 
-    After you install and configure the connectors via SGC Central, use the toggle to enable auto-created schedules. Once enabled, Discovery creates schedules from incoming IPAM data and keeps them updated based on your auto‑creation criteria and IP data refresh settings. Schedules created automatically by IPAM are inactive by default. To activate a schedule created by IPAM, see [Activate auto-created Discovery schedules](../task/activate-auto-disco-schedule.md).
+    After you install and configure the connectors via SGC Central, use the toggle to enable auto-created schedules. Once enabled, Discovery creates schedules from incoming IPAM data and keeps them updated based on your auto‑creation criteria and IP data refresh settings. Schedules created automatically by IPAM are inactive by default. To activate a schedule created by IPAM, see [Activate auto-created Discovery schedules](activate-auto-disco-schedule.md).
 
     Use the Auto-creation criteria setting to define how Discovery organizes IPs from your IPAM connections into new Discovery schedules. Discovery evaluates the key that you provide, retrieves the corresponding value from your IPAM data by looking it up in the Key Values \[cmdb\_key\_value\] table, where it searches only subnet records. IPs that share values are assigned to the same schedule, allowing the schedule structure to follow meaningful attributes such as location or environment.
 

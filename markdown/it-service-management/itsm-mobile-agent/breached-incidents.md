@@ -15,7 +15,7 @@ breadcrumb: [Managing incidents and tasks using My Work applet, ITSM Mobile Agen
 
 View a list of all the breached incidents of your group and take appropriate action on these incidents. Breached incidents are the incident for which the Service Level Agreement \(SLA\) has exceeded the due date.
 
--   **[Process a breached incident](../task/process-breached-incident.md)**  
+-   **[Process a breached incident](process-breached-incident.md)**  
 View and manage the breached incident from the mobile.
 
 **Parent Topic:**[Managing incidents and tasks using My Work applet](my-work-application.md)

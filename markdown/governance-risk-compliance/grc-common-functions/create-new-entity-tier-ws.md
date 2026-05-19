@@ -41,5 +41,5 @@ Roles required: sn\_grc.admin
 4.  To save the entity tier, click **Save**.
 
 
-**Parent Topic:**[Entity tiers](../concept/entity-tier-in-risk-ws.md)
+**Parent Topic:**[Entity tiers](entity-tier-in-risk-ws.md)
 

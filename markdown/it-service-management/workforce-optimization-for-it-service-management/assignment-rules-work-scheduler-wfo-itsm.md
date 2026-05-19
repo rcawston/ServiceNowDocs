@@ -33,7 +33,7 @@ The following matching rules, which are available by default, are based on the s
 |Change Request Matching rule|Change Request|Change Request \[change\_request\]|Change requests|
 |Change Task Matching rule|Change Task|Change Task \[change\_task\]|Change task|
 
-For information on how matching criteria works, see [Matching criteria for work items in Work scheduler](../concept/work-items-assignment-matching-criteria-wfo-itsm.md).
+For information on how matching criteria works, see [Matching criteria for work items in Work scheduler](work-items-assignment-matching-criteria-wfo-itsm.md).
 
 The following four criteria are available by default:
 
@@ -57,8 +57,8 @@ The following four criteria are available by default:
 5.  Select **Submit**.
 
 
--   **[Matching criteria for work items in Work scheduler](../concept/work-items-assignment-matching-criteria-wfo-itsm.md)**  
+-   **[Matching criteria for work items in Work scheduler](work-items-assignment-matching-criteria-wfo-itsm.md)**  
 The assignment workbench uses configurable matching criteria, such as skills and availability, to evaluate the agents in a selected group and provide an overall ranking.
 
-**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for ITSM](../concept/work-scheduler-wfo-itsm.md)
+**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for ITSM](work-scheduler-wfo-itsm.md)
 

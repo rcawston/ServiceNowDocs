@@ -42,5 +42,5 @@ Role required: sn\_hr\_core.basic, or sn\_hr\_core.manager
 5.  Click **Update** to return to the **HR Warning Types** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

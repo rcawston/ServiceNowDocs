@@ -18,5 +18,5 @@ Create archive and destroy rules to archive data and delete the archived records
 
 For more information, see [System Archive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ArchiveData.md).
 
-**Parent Topic:**[Modify purge policies to clean up data](../task/set-up-purge-pollicies-ta.md)
+**Parent Topic:**[Modify purge policies to clean up data](set-up-purge-pollicies-ta.md)
 

@@ -26,11 +26,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -282,9 +282,9 @@ Select **View all connections** to review the connection details. The created co
 **Related topics**  
 
 
-[Service Graph Connector for Observability - Dynatrace](../../configuration-management/concept/cmdb-integration-dynatrace.md)
+[Service Graph Connector for Observability - Dynatrace](cmdb-integration-dynatrace.md)
 
-[CMDB classes targeted in Service Graph Connector for Observability - Dynatrace](../../configuration-management/reference/cmdb-dynatrace-classes.md)
+[CMDB classes targeted in Service Graph Connector for Observability - Dynatrace](cmdb-dynatrace-classes.md)
 
-[Service Graph Connector for Observability - Dynatrace properties](../../configuration-management/reference/sgc-cmdb-dynatrace-props.md)
+[Service Graph Connector for Observability - Dynatrace properties](sgc-cmdb-dynatrace-props.md)
 

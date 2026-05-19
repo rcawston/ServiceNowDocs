@@ -55,5 +55,5 @@ Actual cost incurred for projects or demands will be summed up and displayed in 
 -   The entered amount is updated as actual funds spent through the investment.
 -   The amount rolls-up to its parent investment, which in turn rolls-up until the top-level investment.
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

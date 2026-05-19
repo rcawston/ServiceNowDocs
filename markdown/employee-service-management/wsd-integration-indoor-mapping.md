@@ -24,9 +24,9 @@ Navigate through indoor spaces with inbuilt indoor maps Workplace Service Delive
 3.  Use Workplace Service Delivery move management to request a desk move from one location to another if a workspace is mapped to Indoor Mapping map data.
 4.  Provide interactive locations and wayfinding solutions by entering the start and destination points on indoor maps from a space in a campus, building, or floor for workplace users.
 
--   **[Install Workplace Indoor Mapping dependent plugins](../task/wsm-install-ind-mapping-plugins.md)**  
+-   **[Install Workplace Indoor Mapping dependent plugins](wsm-install-ind-mapping-plugins.md)**  
 Install the dependent plugins for Indoor Mapping.
--   **[Create a new Indoor Mapping space](../task/create-new-ind-mapping-space.md)**  
+-   **[Create a new Indoor Mapping space](create-new-ind-mapping-space.md)**  
 Create a Indoor Mapping space in Workplace Indoor Mapping.
 
 **Parent Topic:**[Configuring Workplace Space Mapping](wsm-config_space_mapping.md)

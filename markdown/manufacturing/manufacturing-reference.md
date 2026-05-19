@@ -19,7 +19,7 @@ Several types of components are installed with installation of the Manufacturing
 Several types of components are installed when you activate the Customer Service Management, Cash to lead, and Service Bridge applications.
 -   **[Data model](data-model.md)**  
 Learn about the Manufacturing Commercial Operations application as well as its entitlements and integrations by viewing the data model and integrations architecture diagrams. These diagrams show the relationships between the tables and roles within the application. They provide an overall picture of how the Manufacturing Commercial Operations application operates.
--   **[MCO Integration APIs](../integrate/manufacturing-integrate.md)**  
+-   **[MCO Integration APIs](manufacturing-integrate.md)**  
 Use ServiceNow APIs to change functionality and add features in the Manufacturing Commercial Operations \(MCO\) solution.
 -   **[Repair form](repair-form.md)**  
 Includes all the forms related to repair and recall.

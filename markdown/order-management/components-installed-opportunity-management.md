@@ -320,10 +320,10 @@ Opportunity Allocation Dimensionsn\_opty\_mgmt\_core\_opportunity\_allocation\_d
 Allocation values that are grouped or categorized, such as by territory or product family.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Opportunity Management reference](../concept/opportunity-management-reference.md)
+</table>**Parent Topic:**[Opportunity Management reference](opportunity-management-reference.md)
 
 **Related topics**  
 
 
-[Install Opportunity Management](../task/install-opportunity-management.md)
+[Install Opportunity Management](install-opportunity-management.md)
 

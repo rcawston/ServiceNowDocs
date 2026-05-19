@@ -15,7 +15,7 @@ breadcrumb: [Explore, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 The Universal Request feature enables supplier contacts to raise issues that do not fit into predefined case types or involve multiple departments. It provides a structured workflow for routing and resolution of queries.
 
-You must install the Universal Request for Source-to-Pay Operations plugin \[sn\_fsc\_ur\_common\] to enable the Universal Request feature in SLO. For more information on installing the plugin, see [Install Universal Request for SLO](../task/install-universal-request.md).
+You must install the Universal Request for Source-to-Pay Operations plugin \[sn\_fsc\_ur\_common\] to enable the Universal Request feature in SLO. For more information on installing the plugin, see [Install Universal Request for SLO](install-universal-request.md).
 
 ## Key Stakeholders
 
@@ -44,7 +44,7 @@ For more information on roles in Universal requests, see [Universal Request role
     -   For requests that aren’t marked as sensitive, routing agents review the request and route them to an appropriate assignment group based on the information provided in the description and short description by the supplier.
 3.  Primary ticket creation
     -   For requests that are marked as sensitive, a primary ticket of the type supplier case is created automatically.
-    -   For requests that aren’t marked as sensitive, routing agents must create a supplier case for resolution. For more information, see [Create supplier case from Universal Request](../task/create-supplier-case.md).
+    -   For requests that aren’t marked as sensitive, routing agents must create a supplier case for resolution. For more information, see [Create supplier case from Universal Request](create-supplier-case.md).
 
         **Note:** Routing agents can also create an invoice case instead of a supplier case from a Universal request if they have the required permissions.
 

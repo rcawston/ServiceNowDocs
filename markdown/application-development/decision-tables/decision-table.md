@@ -43,5 +43,5 @@ To interact with Decision Tables in script, use the [DecisionTableAPI - Scoped, 
 -   **[Decision tables in the classic environment](decision-tables-classic-ui.md)**  
 In the classic environment, you can develop a table to use for your decision answer records. You then associate an answer record to each decision on your decision table. This answer record is returned when the decision is reached based on your inputs.
 
-**Parent Topic:**[Builder library](../../../build/custom-application/concept/builder-library-table.md)
+**Parent Topic:**[Builder library](../builder-library-table.md)
 

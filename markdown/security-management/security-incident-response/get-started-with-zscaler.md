@@ -72,7 +72,7 @@ Verify the Zscaler versions.
 
 </td></tr><tr><td>
 
-Verify that you have the required Zscaler permissions and have configured [access to the Zscaler Internet Access APIs](../task/configure-zscaler-api-access.md).
+Verify that you have the required Zscaler permissions and have configured [access to the Zscaler Internet Access APIs](configure-zscaler-api-access.md).
 
 </td><td>
 

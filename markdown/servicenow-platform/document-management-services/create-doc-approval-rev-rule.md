@@ -35,5 +35,5 @@ Role required: platform\_document\_management\_admin or admin
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Document approval and publish process](../concept/document-review-approval.md)
+**Parent Topic:**[Document approval and publish process](document-review-approval.md)
 

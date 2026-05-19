@@ -35,7 +35,7 @@ To enable your provider to fulfill the catalog requests accurately, you must cre
 
 5.  On the form, fill in the fields.
 
-    For details on the form fields, see [Service Catalog variable form fields](../reference/service-catalog-var-form-fields.md).
+    For details on the form fields, see [Service Catalog variable form fields](service-catalog-var-form-fields.md).
 
     **Important:** If your provider supports multiple quantities of an asset in a single request, hide the equivalent quantity variable for the catalog item by selecting the **Hidden** check box. This approach avoids multiple quantity fields on the catalog request.
 

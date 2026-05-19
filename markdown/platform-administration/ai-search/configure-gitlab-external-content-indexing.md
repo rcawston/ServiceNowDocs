@@ -91,5 +91,5 @@ Your connector admin needs these items to configure a GitLab external content co
 
 For details on creating and configuring a GitLab external content connector, see [Create a GitLab external content connector](create-ext-cont-connector-gitlab.md).
 
-**Parent Topic:**[GitLab external content connector](../concept/gitlab-external-content-connector.md)
+**Parent Topic:**[GitLab external content connector](gitlab-external-content-connector.md)
 

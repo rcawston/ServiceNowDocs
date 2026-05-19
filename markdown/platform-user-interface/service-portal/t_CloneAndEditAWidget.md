@@ -60,5 +60,5 @@ For example, the header menu widget uses the Angular ng-template `menuTemplate`.
 
 ![ng-template called menuTemplate highlighted and changed to menuTemplateCopy in header menu widget HTML](../image/NgTemplateCopy.png "menuTemplate in header widget HTML")
 
-**Parent Topic:**[Developing custom widgets](../concept/widget-dev-guide.md)
+**Parent Topic:**[Developing custom widgets](widget-dev-guide.md)
 

@@ -39,7 +39,7 @@ Role required: admin
 
     ![Enabled planning attributes for Capacity.](../../spw-capacity-planning/images/cp-enable-planning-attributes.png)
 
-    You can create custom attributes and map them to resources. For more information, see [Create or edit planning attributes](../../project-management/task/configure-planning-attributes.md#).
+    You can create custom attributes and map them to resources. For more information, see [Create or edit planning attributes](../project-management/configure-planning-attributes.md#).
 
 6.  Set the value of the Enable for capacity planning column for Group, Role, and Skill field to **true**.
 
@@ -47,6 +47,6 @@ Role required: admin
 ## What to do next
 
 1.  Configure attribute values: Navigate to **All** &gt; **Strategic Planning** &gt; **Planning Attributes** to view and manage attribute values. You can add, edit, or import attribute entries for Group, Skill, and Role.
-2.  Map attributes to resources: Assign the enabled planning attributes to your resources so they appear in capacity views. For custom attributes, see [Create or edit planning attributes](../../project-management/task/configure-planning-attributes.md#).
+2.  Map attributes to resources: Assign the enabled planning attributes to your resources so they appear in capacity views. For custom attributes, see [Create or edit planning attributes](../project-management/configure-planning-attributes.md#).
 3.  Start capacity planning: Navigate to the Capacity tab in your Strategic Planning Workspace to view resource capacity based on the enabled attributes.
 

@@ -49,5 +49,5 @@ You can associate one or more document types with a document category.
 
 [Create a document list definition](doc-processor-define-document-list.md)
 
-**Parent Topic:**[Configuring Financial Services Operations Document Processor](../concept/configuring-fso-document-processor.md)
+**Parent Topic:**[Configuring Financial Services Operations Document Processor](configuring-fso-document-processor.md)
 

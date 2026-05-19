@@ -31,5 +31,5 @@ When you create \(or the system generates\) a new record \(for example, a reques
 -   **Third-party risk scoring rule**: For each third-party risk scoring rule, the system auto-assigns a unique ID number that starts with the text VRS.
 -   **Risk tiering assessment**: For each risk tiering assessment, the system auto-assigns a unique ID number that starts with the text VTA.
 
-**Parent Topic:**[Third-party Risk Management reference](../concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 

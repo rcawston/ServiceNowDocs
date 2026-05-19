@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the GCP PubSub integration configuration forms for Health Log Analytics.
 
-For the GCP PubSub integration setup procedure, see [Set up a GCP PubSub integration for Health Log Analytics](../task/il-connector-hla-gcp-pubsub.md).
+For the GCP PubSub integration setup procedure, see [Set up a GCP PubSub integration for Health Log Analytics](il-connector-hla-gcp-pubsub.md).
 
 <table id="table_ptx_ylg_lgc"><thead><tr><th>
 

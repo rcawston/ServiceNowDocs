@@ -64,7 +64,7 @@ The Metrics subtab displays the top five performing CIs and servers over the pas
 -   Swap
 -   Disk Usage
 
-You can customize the appearance of the individual widgets on the Linux Monitoring Technology Dashboard. For example, you could change the timeframe for which the alerts appear. You can also include customized widgets when you are creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](../task/customize-dashboard-widgets.md).
+You can customize the appearance of the individual widgets on the Linux Monitoring Technology Dashboard. For example, you could change the timeframe for which the alerts appear. You can also include customized widgets when you are creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](customize-dashboard-widgets.md).
 
 **Parent Topic:**[Understanding the Monitoring Technology Dashboard](monitor-tech-dashboard-concept.md)
 

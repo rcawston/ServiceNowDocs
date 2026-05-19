@@ -75,5 +75,5 @@ Description of the schedule.
 
 Now, you can create the entries for an equipment model entity schedule. For more information, see [Create a schedule entry](create-new-schedule-entry.md).
 
-**Parent Topic:**[Managing an equipment model entity schedule](../concept/managing-equipment-entity-schedules.md)
+**Parent Topic:**[Managing an equipment model entity schedule](managing-equipment-entity-schedules.md)
 

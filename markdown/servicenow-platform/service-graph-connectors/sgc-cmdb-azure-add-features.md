@@ -21,7 +21,7 @@ The following features are available within the Service Graph Connector for Micr
 
     Follow the guided setup to establish a hardware or software connection, or configure a workspace when adding a software connection.
 
--   **[Set partition size for parallel loading-enabled Azure accounts](../task/sgc-azure-partition-size-prop.md)**
+-   **[Set partition size for parallel loading-enabled Azure accounts](sgc-azure-partition-size-prop.md)**
 
     Optimize the performance of data sources by enabling parallel data loading.
 

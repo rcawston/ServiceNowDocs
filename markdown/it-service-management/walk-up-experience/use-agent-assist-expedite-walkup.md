@@ -38,5 +38,5 @@ Agent Assist is a contextual search option available in Agent Workspace when a w
     For more detailed information about Agent Assist and using it to expedite incidents and requests, refer to Using Agent Assist in Agent Workspace and Order a catalog item using Agent Assist.
 
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](use-walkup-to-manage-demand.md)
 

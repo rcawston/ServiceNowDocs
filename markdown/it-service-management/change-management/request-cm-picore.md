@@ -90,10 +90,10 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
--   **[Components installed with Change Management - Predictive Intelligence Core](../reference/installed-withpicore.md)**  
+-   **[Components installed with Change Management - Predictive Intelligence Core](installed-withpicore.md)**  
 Several types of components are installed with activation of the Change Management - Predictive Intelligence Core plugin that includes tables. These tables can be utilized only after the other Change Management Predictive Intelligence plugins are activated.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

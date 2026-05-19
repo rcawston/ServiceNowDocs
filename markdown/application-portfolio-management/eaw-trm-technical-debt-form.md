@@ -121,7 +121,7 @@ Shows the timestamp when the custom scheduled job **Populate TRM technical debts
 **Related topics**  
 
 
-[View TRM technical debts](../../task/eaw-task/view-trm-tech-debt.md)
+[View TRM technical debts](view-trm-tech-debt.md)
 
-[Manage TRM technical debt](../../concept/eaw-concept/eaw-manage-trm-technical-debt.md)
+[Manage TRM technical debt](eaw-manage-trm-technical-debt.md)
 

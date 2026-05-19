@@ -33,12 +33,12 @@ Role required: sn\_hs\_rm.permit\_coordinator
 
 6.  On the form, fill in the fields.
 
-    For information on field description, see [Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md).
+    For information on field description, see [Health and Safety action form](../health-and-safety-core/hs-action-form.md).
 
 7.  Select **Save**.
 
     The action appears in the list of actions in the **Health and Safety actions** tab of the permit record. It is also listed in the **Actions** list on Health and Safety Workspace.
 
 
-**Parent Topic:**[Permit-to-work system](../concept/hs-permit-to-work.md)
+**Parent Topic:**[Permit-to-work system](hs-permit-to-work.md)
 

@@ -18,7 +18,7 @@ Trigger a UI interaction from a declarative action to extend a page without taki
 Complete the following actions:
 
 1.  Create a UI interaction in UI Builder. For instructions, see [Create a UI interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-ui-interaction-show-alert.md).
-2.  Create a declarative action and add the button to a workspace. For instructions, see [Creating declarative action buttons](../concept/creating-declarative-actions.md).
+2.  Create a declarative action and add the button to a workspace. For instructions, see [Creating declarative action buttons](creating-declarative-actions.md).
 
 Role required:
 

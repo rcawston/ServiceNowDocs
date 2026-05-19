@@ -19,14 +19,14 @@ Configure the HR service that you want to use for creating HR cases for injuries
 
 Ensure that the following conditions are met:
 
--   The Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is installed on your ServiceNow instance. For more information on activating it, see [Activate Case and Knowledge Management](../../human-resources/task/activate-case-and-knowledge-management-scoped.md).
+-   The Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is installed on your ServiceNow instance. For more information on activating it, see [Activate Case and Knowledge Management](../hr-service-delivery/activate-case-and-knowledge-management-scoped.md).
 -   The application scope is selected as Health and Safety Case Management. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_hs\_cm.case\_manager and sn\_hr\_core.admin
 
 ## About this task
 
-For information on HR services and what you can configure, see [HR services](../../human-resources/concept/hr-service-administration.md).
+For information on HR services and what you can configure, see [HR services](../hr-service-delivery/hr-service-administration.md).
 
 ## Procedure
 
@@ -47,9 +47,9 @@ For information on HR services and what you can configure, see [HR services](../
     3.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Health and Safety Case Management](../concept/hs-setting-up-case-management.md)
+**Parent Topic:**[Configuring Health and Safety Case Management](hs-setting-up-case-management.md)
 
 **Previous topic:**[Install Health and Safety Case Management](install-hs-case-management.md)
 
-**Next topic:**[Submitting Health and Safety cases](../concept/hs-submitting-health-safety-cases.md)
+**Next topic:**[Submitting Health and Safety cases](hs-submitting-health-safety-cases.md)
 

@@ -29,5 +29,5 @@ The Similar Closed HR Cases \(ml\_sn\_sn\_hr\_core\_global\_similar\_closed\_hr\
 -   The Predictive Intelligence for Contextual Search \(com.snc.contextual\_search\_ml\) plugin is installed.
 -   The **glide.platform\_ml.auto\_training.enabled** system property is set either set to true or absent.
 
-**Parent Topic:**[Machine learning solutions for HR Service Delivery](predictive-intelligence-for-hr-service-delivery-1.md)
+**Parent Topic:**[Machine learning solutions for HR Service Delivery](../employee-service-management/predictive-intelligence-for-hr-service-delivery-1.md)
 

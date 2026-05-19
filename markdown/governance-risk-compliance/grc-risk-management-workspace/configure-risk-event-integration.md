@@ -285,5 +285,5 @@ Field to write a custom script to query any table. **Note:** The option to write
 
 The application that is configured to report risk events displays the **Create Risk Event** button.
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

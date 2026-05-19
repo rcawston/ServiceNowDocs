@@ -15,7 +15,7 @@ breadcrumb: [Microsoft Azure DevOps Integration for Agile Development, Strategic
 
 Understand the workflow for the import and export of work items between Agile Development and Azure DevOps.
 
-To enable import and export of work items between Agile Development 2.0 and Azure DevOps, you must [configure the settings](../task/set-up-import-export-azure-agile.md#).
+To enable import and export of work items between Agile Development 2.0 and Azure DevOps, you must [configure the settings](set-up-import-export-azure-agile.md#).
 
 ## Importing to Agile Development 2.0 from Azure DevOps
 
@@ -61,7 +61,7 @@ To enable import and export of work items between Agile Development 2.0 and Azur
 
 ![Export workflow for assignment group update in Agile Development 2.0](../image/Export-workflow-for-assignment-group-update.png "Export workflow for assignment groups updated in Agile Development 2.0")
 
-**Parent Topic:**[Microsoft Azure DevOps Integration for Agile Development](../concept/agile-azure-integration-overview.md)
+**Parent Topic:**[Microsoft Azure DevOps Integration for Agile Development](agile-azure-integration-overview.md)
 
 ## Sync sprint details between Agile Development 2.0 and Azure DevOps
 

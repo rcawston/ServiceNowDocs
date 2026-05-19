@@ -53,7 +53,7 @@ Although the **Due date** field is auto-populated for a task type, you can alway
 
 The default due dates for the different task types are configured.
 
-**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](../concept/managing-tasks.md)
+**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
 **Related topics**  
 

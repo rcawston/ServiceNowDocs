@@ -38,5 +38,5 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 The Network site map page opens and displays your network site.
 
-**Parent Topic:**[Geo map](../concept/using-network-site-map.md)
+**Parent Topic:**[Geo map](using-network-site-map.md)
 

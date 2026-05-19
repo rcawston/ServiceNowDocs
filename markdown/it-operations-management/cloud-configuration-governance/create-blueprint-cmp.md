@@ -75,15 +75,15 @@ Role required: sn\_cmp.cloud\_service\_designer
 The base system includes a large set of predefined resource operations. Rarely, you might add a custom operation for a resource.
 -   **[Execute blueprint operations in parallel](execute-blueprint-operations-parallel.md)**  
 You can execute your blueprint resource operations to run in a linear or in a parallel way.
--   **[Blueprint attributes](../reference/blueprint-attributes.md)**  
+-   **[Blueprint attributes](blueprint-attributes.md)**  
 When you add a blueprint operation to a resource, the system adds the appropriate attributes. You can choose whether or not to make the attributes available as catalog properties on the form when the system performs the operation.
 -   **[Configure a blueprint rule](configure-a-blueprint-rule.md#)**  
 Configure a rule that contains actions the system can take on blueprint attributes.
 
-**Parent Topic:**[Cloud Provisioning Blueprints](../concept/blueprints.md)
+**Parent Topic:**[Cloud Provisioning Blueprints](blueprints.md)
 
 **Related topics**  
 
 
-[Form configuration with blueprints](../concept/blueprint-form-configuration.md)
+[Form configuration with blueprints](blueprint-form-configuration.md)
 

@@ -51,5 +51,5 @@ Role required: admin
 5.  Select **Install**.
 
 
-**Parent Topic:**[Install and configure Opportunity Marketplace](../concept/egd-oppt-mrktplc-inst-config.md)
+**Parent Topic:**[Install and configure Opportunity Marketplace](egd-oppt-mrktplc-inst-config.md)
 

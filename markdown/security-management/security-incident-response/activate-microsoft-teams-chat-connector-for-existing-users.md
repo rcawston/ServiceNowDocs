@@ -38,5 +38,5 @@ Role required: admin
     As an existing user, you have now completed integrating Microsoft Teams chat connector application with Microsoft Teams Graph API.
 
 
-**Parent Topic:**[Using Client Secret value](../../security-incident-response/task/using-client-secret-value.md)
+**Parent Topic:**[Using Client Secret value](using-client-secret-value.md)
 

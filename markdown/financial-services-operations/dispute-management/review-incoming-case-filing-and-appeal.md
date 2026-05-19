@@ -64,7 +64,7 @@ If you refuse the acquirer’s pre-arbitration request, the acquirer may create 
     -   To appeal the outcome, select **Unresolved**.
 14. If the response is **Unresolved**, select `Yes` in the **Create appeal** drop-down.
 
-    An appeal can be created only if certain conditions are met. For more information, see [Allocation workflow overview](../concept/allocation-workflow.md).
+    An appeal can be created only if certain conditions are met. For more information, see [Allocation workflow overview](allocation-workflow.md).
 
 15. Enter the **Appeal amount**.
 
@@ -81,5 +81,5 @@ After the request executes successfully, the transaction state moves to **Awaiti
 
 Visa confirms the appeal with an acknowledgment letter. Retrieve the letter by selecting `Get acknowledgement letter` in the**Review case filing appeal** activity.
 
-**Parent Topic:**[Allocation dispute workflow](../concept/allocation-dispute-work-flow.md)
+**Parent Topic:**[Allocation dispute workflow](allocation-dispute-work-flow.md)
 

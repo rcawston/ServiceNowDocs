@@ -26,7 +26,7 @@ Detection rule mapping enables your organization to see which detection rules ar
 
 The primary purpose of the mapping is to provide visibility if your organization has the necessary detection rules to identify when an alert or event is triggered as a result of an attack by an adversary using a specific technique.
 
-For example, view the following illustration that shows a list of the detection rules mapped to various techniques. You can also view this information in [the MITRE-ATT&amp;CK navigator](../concept/mitre-att-ck-heatmap-and-navigator.md#).
+For example, view the following illustration that shows a list of the detection rules mapped to various techniques. You can also view this information in [the MITRE-ATT&amp;CK navigator](mitre-att-ck-heatmap-and-navigator.md#).
 
 ![MITRE ATT&CK detection rules.](../image/mitre-detection-rules.png)
 
@@ -111,16 +111,16 @@ The detection rules feature has been updated to include mapping a single tactic 
         ![Upload the spreadsheet to complete the detection rule mapping.](../image/mitre-import-upload.gif)
 
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](../concept/mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](domain-separation-and-mitre-att-ck.md)
 
 [Set up the MITRE-ATT&amp;CK framework](setup-mitre-profile.md)
 
@@ -154,7 +154,7 @@ The detection rules feature has been updated to include mapping a single tactic 
 
 [Map your mitigation coverage to a technique](map-your-mitigation-coverage-to-a-technique.md)
 
-[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](../concept/auto-extract-technique-rules.md#)
+[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](auto-extract-technique-rules.md#)
 
 [Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
 

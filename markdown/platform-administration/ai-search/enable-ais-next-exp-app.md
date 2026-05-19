@@ -57,5 +57,5 @@ Notify all users of your instance about the following details.
 -   Users need to log out and back in before they can use AI Search for Next Experience.
 -   Once you enable AI Search for Next Experience, only workspace applications that use AI Search as their search engine appear in the Unified Navigation search context menu. To search from workspace applications that use the Zing text indexing and search engine, you must navigate to the workspace instead of using the Unified Navigation search context menu.
 
-**Parent Topic:**[Configuring AI Search for Next Experience](../concept/configuring-ais-next-experience.md)
+**Parent Topic:**[Configuring AI Search for Next Experience](configuring-ais-next-experience.md)
 

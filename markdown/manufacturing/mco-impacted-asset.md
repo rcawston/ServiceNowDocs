@@ -36,5 +36,5 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 4.  Select **Save**.
 
 
-**Parent Topic:**[Related lists for my campaigns](../concept/mco-related-list-for-my-campaigns.md)
+**Parent Topic:**[Related lists for my campaigns](mco-related-list-for-my-campaigns.md)
 

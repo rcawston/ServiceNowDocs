@@ -27,16 +27,16 @@ Create customer service cases
 
 </td><td>
 
--   [Create a customer service case](../task/t_CreateACaseFromCustServApp.md)-
+-   [Create a customer service case](t_CreateACaseFromCustServApp.md)-
 
 Customer service agents and agent managers can create cases using the Customer Service Management application.
 
--   [Create a customer service case of a specific type](../task/create-case-of-specific-case-type.md)-Customer service agents can create different types of cases by making selections from the case type selector.
--   [Create a customer service case from a chat](../task/t_CreateACaseFromAChat.md)- If a customer chat results in the need to open a case, create the case directly from the conversation.
+-   [Create a customer service case of a specific type](create-case-of-specific-case-type.md)-Customer service agents can create different types of cases by making selections from the case type selector.
+-   [Create a customer service case from a chat](t_CreateACaseFromAChat.md)- If a customer chat results in the need to open a case, create the case directly from the conversation.
 
 </td></tr><tr><td>
 
-[Assign a customer service case](../task/t_AssignACase.md)
+[Assign a customer service case](t_AssignACase.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Agents can assign cases to themselves or to other customer service agents.
 
 </td></tr><tr><td>
 
-[Create a task for a customer service case](../task/create-task-for-cust-service-case.md)
+[Create a task for a customer service case](create-task-for-cust-service-case.md)
 
 </td><td>
 
@@ -52,7 +52,7 @@ Create a task for a customer service case for additional work that needs to be c
 
 </td></tr><tr><td>
 
-[Create a case task of a specific type for a customer service case](../task/create-case-task-specific-case-type.md)
+[Create a case task of a specific type for a customer service case](create-case-task-specific-case-type.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ Customer service agents can create different types of case tasks by making selec
 
 </td></tr><tr><td>
 
-[Create a work order for a customer service case](../task/t_CreateAWorkOrderForACase.md)
+[Create a work order for a customer service case](t_CreateAWorkOrderForACase.md)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Create a work order for a customer service case as part of the case resolution p
 
 </td></tr><tr><td>
 
-[Create a request on behalf of a customer or consumer](../task/agent-create-request-for-customer.md)
+[Create a request on behalf of a customer or consumer](agent-create-request-for-customer.md)
 
 </td><td>
 
@@ -76,7 +76,7 @@ Customer service agents can create requests on behalf of customers from CSM Conf
 
 </td></tr><tr><td>
 
-[Close a customer service case](../task/t_CloseACase.md)
+[Close a customer service case](t_CloseACase.md)
 
 </td><td>
 
@@ -88,8 +88,8 @@ Create a consumer case
 
 </td><td>
 
--   [Create a consumer case from a chat](../task/create-consumer-case-from-chat.md)- If a consumer chat results in the need to open a case, create the case directly from the conversation.
--   [Create a consumer case from an anonymous chat](../task/create-consumer-case-from-anon-chat.md)- If an anonymous chat results in the need to create a consumer case, create the case directly from the conversation.
+-   [Create a consumer case from a chat](create-consumer-case-from-chat.md)- If a consumer chat results in the need to open a case, create the case directly from the conversation.
+-   [Create a consumer case from an anonymous chat](create-consumer-case-from-anon-chat.md)- If an anonymous chat results in the need to create a consumer case, create the case directly from the conversation.
 
 </td></tr><tr><td>
 
@@ -97,12 +97,12 @@ Create a consumer record
 
 </td><td>
 
--   [Create a consumer record](../task/create-a-consumer-record.md)- Consumer service agents and managers can create consumer records from the Customer Service Management application.
--   [Create a consumer record from an anonymous chat](../task/create-consumer-rec-from-anon-chat.md)- If an anonymous chat results in the need to create a consumer record, create the record directly from the conversation.
+-   [Create a consumer record](create-a-consumer-record.md)- Consumer service agents and managers can create consumer records from the Customer Service Management application.
+-   [Create a consumer record from an anonymous chat](create-consumer-rec-from-anon-chat.md)- If an anonymous chat results in the need to create a consumer record, create the record directly from the conversation.
 
 </td></tr><tr><td>
 
-[Create additional consumer addresses](../task/create-consumer-address.md)
+[Create additional consumer addresses](create-consumer-address.md)
 
 </td><td>
 
@@ -110,7 +110,7 @@ Consumers can have multiple addresses, including one primary address.
 
 </td></tr><tr><td>
 
-[Respond to a case using an email quick message](../task/csm-use-email-quick-messages.md)
+[Respond to a case using an email quick message](csm-use-email-quick-messages.md)
 
 </td><td>
 
@@ -118,7 +118,7 @@ Use predefined quick email messages to quickly draft replies to customers. Agent
 
 </td></tr><tr><td>
 
-[Initiate a conference call from a case](../task/initiate-conference-call-from-case.md)
+[Initiate a conference call from a case](initiate-conference-call-from-case.md)
 
 </td><td>
 
@@ -126,7 +126,7 @@ As part of resolving a customer service case, you can initiate a conference call
 
 </td></tr><tr><td>
 
-[Use the Activity Stream](../task/filter-activity-stream-csm.md)
+[Use the Activity Stream](filter-activity-stream-csm.md)
 
 </td><td>
 
@@ -134,7 +134,7 @@ Enhancements in the Activity stream help reduce cluttering in the Activity strea
 
 </td></tr><tr><td>
 
-[Resolve cases with knowledge and community content](../task/t_ProposeAKBArticleAsACaseSolution.md)
+[Resolve cases with knowledge and community content](t_ProposeAKBArticleAsACaseSolution.md)
 
 </td><td>
 
@@ -142,7 +142,7 @@ Enable agents to resolve a case more quickly by searching for information from t
 
 </td></tr><tr><td>
 
-[Manage skills for a customer service case](../../../administer/workspace/task/csm-workspace-add-delete-skill.md)
+[Manage skills for a customer service case](csm-workspace-add-delete-skill.md)
 
 </td><td>
 

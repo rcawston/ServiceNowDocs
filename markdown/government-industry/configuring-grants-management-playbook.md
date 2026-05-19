@@ -13,7 +13,7 @@ breadcrumb: [Playbooks and Solutions, Configure agent workspaces, Configure, Pub
 
 Install the Grants Management application, which enables users to submit and track grants management requests and provides government agents with a predefined process for handling and resolving these requests. You can then configure the features available for submitting requests and routing requests to agents.
 
-As a user with the admin role, complete the following configuration tasks to set up Grants Management, after you install the [Public Sector Digital Services Core](../task/install-public-sector-digital-services-core.md) application.
+As a user with the admin role, complete the following configuration tasks to set up Grants Management, after you install the [Public Sector Digital Services Core](install-public-sector-digital-services-core.md) application.
 
 |Task|Description|
 |----|-----------|

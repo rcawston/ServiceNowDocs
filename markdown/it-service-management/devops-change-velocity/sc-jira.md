@@ -94,7 +94,7 @@ In the **Tool credential** field, select an existing OAuth 2.0 tool credential r
 
 
 </td></tr></tbody>
-</table>    For a list of all the permissions required on the credentials for connecting to Jira, see Jira permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+</table>    For a list of all the permissions required on the credentials for connecting to Jira, see Jira permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
 5.  Select **Order Now**.
 
@@ -166,5 +166,5 @@ Select the dates for which you want to import the data. By default, the last 30 
     A request is created. When the request is approved, the plan objects are associated to the app record, which enables real-time tracking. Historical data is also imported for the selected plans. The **Track** field is automatically enabled for imported plans.
 
 
-**Parent Topic:**[Jira integration with DevOps Change Velocity](../concept/jira-integration-dev-ops.md)
+**Parent Topic:**[Jira integration with DevOps Change Velocity](jira-integration-dev-ops.md)
 

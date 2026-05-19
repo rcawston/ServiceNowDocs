@@ -46,7 +46,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_core.contract\_conf
 
 7.  On the Create new use case mapping form, fill in the fields.
 
-    For a description of the field values, see [Contract metadata extraction use case mapping form](../reference/cmpro-na-use-case-map-form-me.md).
+    For a description of the field values, see [Contract metadata extraction use case mapping form](cmpro-na-use-case-map-form-me.md).
 
 8.  Select **Save**.
 
@@ -55,7 +55,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_core.contract\_conf
 
 The use case is mapped to specific tables and conditions, and it is applied for metadata extraction when the conditions are met.
 
--   **[Contract metadata extraction use case mapping form](../reference/cmpro-na-use-case-map-form-me.md)**  
+-   **[Contract metadata extraction use case mapping form](cmpro-na-use-case-map-form-me.md)**  
 Use the Create use case mapping form in the contract metadata extraction skill to map the use case to specific tables and conditions.
 
 **Parent Topic:**[Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)

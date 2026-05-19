@@ -13,13 +13,13 @@ breadcrumb: [Working in the classic environment, Working in Core UI, Configure U
 
 A list displays a set of records from a table.
 
-**Note:** This content pertains to the Classic Environment, which refers to working in lists of records and on record forms directly, not in the [Configurable Workspace interface](../../../administer/configurable-workspace/concept/workspace-landing-page.md). You can work in the Classic Environment with Next Experience active, or with it inactive, which is referred to as Core UI, \(formerly known as UI16\).
+**Note:** This content pertains to the Classic Environment, which refers to working in lists of records and on record forms directly, not in the [Configurable Workspace interface](workspace-landing-page.md). You can work in the Classic Environment with Next Experience active, or with it inactive, which is referred to as Core UI, \(formerly known as UI16\).
 
 Users can search, sort, filter, and edit data in lists. Lists may be embedded in forms and may be hierarchical \(have sublists\).
 
 The list interface consists of a title bar, filters and breadcrumbs, columns of data, and a footer. Each column in a list corresponds to a field on the table.
 
-A [Response time indicator icon](../../common-ui-elements/concept/c_ResponseTimeIndicator.md) \(![Response time indicator](../image/Response_time_indicator_UI15.png)\) may appear at the bottom right of some lists to indicate the processing time required to display the list.
+A [Response time indicator icon](c_ResponseTimeIndicator.md) \(![Response time indicator](../image/Response_time_indicator_UI15.png)\) may appear at the bottom right of some lists to indicate the processing time required to display the list.
 
 ![Record list](../image/800px-UI16_list_view.png "Record list")
 
@@ -49,22 +49,22 @@ Detail rows, when enabled, appear below the field row for each record and displa
 
 Administrators can enable detail rows and add them to lists. For more information, see [Administer detail rows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_EnableDetailRows.md).
 
--   **[List fields](../reference/r_Fields.md)**  
+-   **[List fields](r_Fields.md)**  
 Fields display data and provide certain functions.
--   **[Configure and use list functions](../task/configure-use-list-functions.md#)**  
+-   **[Configure and use list functions](configure-use-list-functions.md#)**  
 All users can interact with lists for the tables their role permits them to access. Some list and column header menu options are controlled by permissions grated to the user role.
 -   **[Activity streams in list view](c_DisplayActivityStreams.md)**  
 Stream live activity information for all records on the current list.
--   **[Search a list](../task/t_SearchAList.md#)**  
+-   **[Search a list](t_SearchAList.md#)**  
 You can search a list to find information quickly. The list title bar includes options for searching the list. Administrators can enable text searches for any list.
 -   **[Grouped lists](c_GroupedLists.md#)**  
 Grouping aggregates a list by a field and displays the record count per group. Grouping can help you find data quickly by organizing and providing a summary of search or filter results.
 -   **[Filters and breadcrumbs](c_UsingFiltersAndBreadcrumbs.md)**  
 A filter is a set of conditions applied to a table to help you find and work with a subset of the data in that table.
--   **[Methods for list edits](../reference/r_MethodsForListEdits.md)**  
+-   **[Methods for list edits](r_MethodsForListEdits.md)**  
 Users can edit data in lists using various methods.
 -   **[Personal lists](c_PersonalLists.md#)**  
 You can create personal lists to customize which columns appear and the order in which they appear. Personal lists modify a specific list view according to your individual preferences.
 
-**Parent Topic:**[Working in the classic environment](../../../get-started/servicenow-overview/concept/working-in-classic-lists-and-forms.md)
+**Parent Topic:**[Working in the classic environment](working-in-classic-lists-and-forms.md)
 

@@ -46,15 +46,15 @@ When you hover over the device node, you can view the following information for 
 -   Device type
 -   Criticality status
 
-The device node also contains an option to view its device-to-device connections. For more information about device-to-device connections, see [OT device related items and related lists](../../mftg-manufacturing-oper-tech-mgr/reference/ot-assets-related-links-and-lists.md) and [View and edit device to device connections](../../mftg-manufacturing-oper-tech-mgr/task/view-device-to-device-connections.md).
+The device node also contains an option to view its device-to-device connections. For more information about device-to-device connections, see [OT device related items and related lists](../operational-technology-manager/ot-assets-related-links-and-lists.md) and [View and edit device to device connections](../operational-technology-manager/view-device-to-device-connections.md).
 
 **Map refresh**
 
-When the **OT Network Map Cache Handler** scheduled job runs and the **Refreshed at** field in the map is updated with the new refresh time. For more information about the scheduled job, see [Run the OT Network Map Cache Handler scheduled job](../task/run-ot-network-map-cache-handler-scheduled-job.md).
+When the **OT Network Map Cache Handler** scheduled job runs and the **Refreshed at** field in the map is updated with the new refresh time. For more information about the scheduled job, see [Run the OT Network Map Cache Handler scheduled job](run-ot-network-map-cache-handler-scheduled-job.md).
 
 ## Populating the map
 
-To populate the OT Network Map, you must run the **OT Network Map Cache Handler** scheduled job. For more information about the scheduled job, see [Run the OT Network Map Cache Handler scheduled job](../task/run-ot-network-map-cache-handler-scheduled-job.md).
+To populate the OT Network Map, you must run the **OT Network Map Cache Handler** scheduled job. For more information about the scheduled job, see [Run the OT Network Map Cache Handler scheduled job](run-ot-network-map-cache-handler-scheduled-job.md).
 
 The data must be available in the following tables for the network map to load properly.
 
@@ -92,9 +92,9 @@ The following list contains the limitations of the network map.
 ## What to do next
 
 -   [Setting up the OT Network Map](setting-up-ot-network-map.md)
-    -   [Run the OT Network Map Cache Handler scheduled job](../task/run-ot-network-map-cache-handler-scheduled-job.md)
-    -   [Set the system property for the OT Network Map](../task/set-the-system-property-ot-network-map.md)
--   [View and edit the OT Network Map](../task/view-edit-ot-network-map.md)
+    -   [Run the OT Network Map Cache Handler scheduled job](run-ot-network-map-cache-handler-scheduled-job.md)
+    -   [Set the system property for the OT Network Map](set-the-system-property-ot-network-map.md)
+-   [View and edit the OT Network Map](view-edit-ot-network-map.md)
 
-**Parent Topic:**[Exploring the Industrial Workspace](../../operational-technology-management/concept/exploring-industrial-workspace.md)
+**Parent Topic:**[Exploring the Industrial Workspace](exploring-industrial-workspace.md)
 

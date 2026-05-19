@@ -142,7 +142,7 @@ List edit tag
 
 </td><td>
 
-Unique tag that is sent to a [reference qualifier](../../../script/server-scripting/concept/c_ReferenceQualifiers.md) as the script variable *listEditRefQualTag*. Enter an arbitrary string of letters or numbers.
+Unique tag that is sent to a [reference qualifier](../c_ReferenceQualifiers.md) as the script variable *listEditRefQualTag*. Enter an arbitrary string of letters or numbers.
 
 </td></tr><tr><td>
 
@@ -202,7 +202,7 @@ User roles required to have links generated for fields that reference other file
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring lists on the ServiceNow AI Platform](../concept/c_ListConfiguration.md)
+**Parent Topic:**[Configuring lists on the ServiceNow AI Platform](c_ListConfiguration.md)
 
 ## Example of configuring list controls
 

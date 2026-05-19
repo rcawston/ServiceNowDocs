@@ -25,8 +25,8 @@ By changing the **Type** field on the navigation menu block, you can format the 
 |Vertical List|![CMS menu vertical list](../image/CMSMenuVerticallist.png)|The vertical list menu renders the menu sections as headings with menu items as links below them.|
 |Vertical Blocks|![CMS menu vertical blocks](../image/CMSMenuVerticalblocks.png)|The vertical blocks menu renders the menu sections as block headings with menu items as links within the block. The blocks are arranged vertically.|
 
--   **[Menu style customization](../concept/c_CustomizeTheMenuStyle.md)**  
+-   **[Menu style customization](c_CustomizeTheMenuStyle.md)**  
 You can customize menu styles in the style sheets your site uses.
 
-**Parent Topic:**[Create a navigation menu block](../task/t_CreateNavigationMenuBlock.md)
+**Parent Topic:**[Create a navigation menu block](t_CreateNavigationMenuBlock.md)
 

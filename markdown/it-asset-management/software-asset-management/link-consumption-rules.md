@@ -53,5 +53,5 @@ Role required: sam\_user
     The consumption rule appears in the Entitlement Consumption Rules related list.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

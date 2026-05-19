@@ -182,5 +182,5 @@ Watchlist users from the assessable entity stakeholders list. This field appears
     The project moves to the Assess stage, and a notification goes to the assessor.
 
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

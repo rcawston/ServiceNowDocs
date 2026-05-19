@@ -44,5 +44,5 @@ Role required: sn\_sec\_cmn.read
     It returns you to the Unmatched Emails main list. If the new email record matches, the email event is no longer in the list. A message indicates if it was matched or not.
 
 
-**Parent Topic:**[Unmatched Security Operations email events](../concept/umatched-emails.md)
+**Parent Topic:**[Unmatched Security Operations email events](umatched-emails.md)
 

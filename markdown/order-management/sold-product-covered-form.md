@@ -13,7 +13,7 @@ breadcrumb: [Customer Contracts and Entitlements reference, Configure, price, qu
 
 The Customer Contracts and Entitlements application uses the Sold Product Covered form to add sold products or install base items that are covered to the Customer Contracts and Entitlements entities.
 
-For information about adding sold products or install base items that are covered, see [Add a sold product or install base item to a customer contract](../task/add-products-service-contract.md).
+For information about adding sold products or install base items that are covered, see [Add a sold product or install base item to a customer contract](add-products-service-contract.md).
 
 <table id="table_tk2_ntk_bzb"><thead><tr><th>
 
@@ -90,5 +90,5 @@ The date until which the product is active on the entity.
 </td></tr></tbody>
 </table>**Note:** The activation time period for the sold product or install base item covered must comply with the related entity's activation period.
 
-**Parent Topic:**[Customer Contracts and Entitlements reference](../concept/pss-reference.md)
+**Parent Topic:**[Customer Contracts and Entitlements reference](pss-reference.md)
 

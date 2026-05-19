@@ -91,5 +91,5 @@ See [Send a contract document for signature](cncore-send-doc-signature.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](../employee-service-management/cncore-request-ss-contract-1.md)
 

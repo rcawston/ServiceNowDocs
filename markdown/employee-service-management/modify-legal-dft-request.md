@@ -116,5 +116,5 @@ A link to the document is listed in the **External URL** column of the documents
 9.  In the **Non-Custodial Data** tab, view the existing non-custodial data added to the request or export to a file by clicking the more options icon \(![More options icon.](../../wsd-for-mobile/images/more-options-icon.png)\).
 
 
-**Parent Topic:**[Submitting digital forensics requests](../concept/submitting-legal-dft-request.md)
+**Parent Topic:**[Submitting digital forensics requests](submitting-legal-dft-request.md)
 

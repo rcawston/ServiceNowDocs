@@ -115,7 +115,7 @@ Attachment
 
 </td><td>
 
-Question where users add an attachment.**Note:** The **Attachment** question differs from the **Add attachment** option for the overall form. You can use the **Add attachment** question to include in dynamic behavior, for example appearing when a user answers a **Photograph on badge?** question with `Yes`, enabling them to upload a headshot. For more information on dynamic behavior, see [Make a form change based on responses in Creator Studio](../task/creator-studio-dynamic-behavior.md).
+Question where users add an attachment.**Note:** The **Attachment** question differs from the **Add attachment** option for the overall form. You can use the **Add attachment** question to include in dynamic behavior, for example appearing when a user answers a **Photograph on badge?** question with `Yes`, enabling them to upload a headshot. For more information on dynamic behavior, see [Make a form change based on responses in Creator Studio](creator-studio-dynamic-behavior.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Duration
 
 Question where users specify a length of time.When you add a **Duration** question, you then specify the **Days**, **Hours**, **Minutes**, and **Seconds** that an event will last.
 
-**Note:** You can also add duration for dynamic behavior questions. For more information, see [Make a form change based on responses in Creator Studio](../task/creator-studio-dynamic-behavior.md).
+**Note:** You can also add duration for dynamic behavior questions. For more information, see [Make a form change based on responses in Creator Studio](creator-studio-dynamic-behavior.md).
 
 </td></tr></tbody>
 </table>## Types of reference-based question types

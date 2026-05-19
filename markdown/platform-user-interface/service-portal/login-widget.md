@@ -47,7 +47,7 @@ After self-registering their PIV/CAC card, a user can log in by inserting their 
 
 Before a user can register their PIV/CAC card, an administrator must activate certificate-based authentication and then set up PIV/CAC authentication. For more information on this setup process, see [Personal Identity Verification \(PIV\) card or Common Access Card \(CAC\) based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/certificate-based-authentication.md).
 
-For more information on how a user self-registers their PIV/CAC card, see [Register your PIV/CAC card for Service Portal login](../task/piv-cac-login.md).
+For more information on how a user self-registers their PIV/CAC card, see [Register your PIV/CAC card for Service Portal login](piv-cac-login.md).
 
 ## Instance options
 
@@ -63,9 +63,9 @@ Use the instance options to configure the login widget for a portal page.
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

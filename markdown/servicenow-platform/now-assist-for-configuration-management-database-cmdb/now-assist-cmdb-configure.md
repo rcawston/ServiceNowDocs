@@ -71,23 +71,23 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 11. Configure property settings.
 
-    See [Property settings for Now Assist for CMDB](../../now-assist-cmdb/reference/na-data-fdn-properties.md).
+    See [Property settings for Now Assist for CMDB](na-data-fdn-properties.md).
 
 
 ## What to do next
 
-To start using Now Assist for CMDB skills, see [Using Now Assist skills in Now Assist for CMDB](../concept/now-assist-cmdb-using-skills.md).
+To start using Now Assist for CMDB skills, see [Using Now Assist skills in Now Assist for CMDB](now-assist-cmdb-using-skills.md).
 
 To deactivate a skill, select the menu icon ![](../image/menu-icon.png)for the skill and then select **Deactivate skill**.
 
 Admins might be interested in Query Generation. Query Generation is an AI-powered service that translates user questions into an executable query. An executable query contains the data source, filter, aggregation, and visualization instructions that best answer the user's question. For more information, see [Exploring Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/exploring-query-generation.md).
 
-**Parent Topic:**[Configuring Now Assist for CMDB](../concept/now-assist-cmdb-configuring.md)
+**Parent Topic:**[Configuring Now Assist for CMDB](now-assist-cmdb-configuring.md)
 
 **Related topics**  
 
 
-[CMDB Workspace store app](../concept/cmdb-workspace.md)
+[CMDB Workspace store app](../configuration-management-database-cmdb/cmdb-workspace.md)
 
-[Service Graph Workspace store app](../concept/sg-workspace.md)
+[Service Graph Workspace store app](../configuration-management-database-cmdb/sg-workspace.md)
 

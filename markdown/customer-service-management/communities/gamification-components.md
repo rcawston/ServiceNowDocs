@@ -26,5 +26,5 @@ Users can earn badges for achievements or areas of expertise within the communit
 -   **[Points](gamification-components-points.md)**  
 Users earn gamification points by performing activities in the community.
 
-**Parent Topic:**[Gamification](../concept/communities-gamification.md)
+**Parent Topic:**[Gamification](communities-gamification.md)
 

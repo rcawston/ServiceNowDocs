@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Create a context](../task/ra-csm-contexts-create.md)
+[Create a context](ra-csm-contexts-create.md)
 
 </td><td>
 
@@ -35,7 +35,7 @@ A context enables agents to see recommendations for records from a specific tabl
 
 </td></tr><tr><td>
 
-[Create a context input](../task/ra-csm-create-context-inputs.md)
+[Create a context input](ra-csm-create-context-inputs.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ A context input enables you to associate entities beyond just the context table 
 
 </td></tr><tr><td>
 
-[Create a rule for a context](../task/ra-csm-rules-create.md)
+[Create a rule for a context](ra-csm-rules-create.md)
 
 </td><td>
 
@@ -58,7 +58,7 @@ A rule is a set of conditions that applies to a context and determines when a re
 
 </td></tr><tr><td>
 
-[Create a recommendation for a rule](../task/ra-csm-recommendations-create.md)
+[Create a recommendation for a rule](ra-csm-recommendations-create.md)
 
 </td><td>
 
@@ -114,7 +114,7 @@ A recommended value to use for a field. For example, this type of action can rec
 
 ## Resource generators
 
-Configure resource generators to provide information that you can use as inputs to actions such as guidances and field recommendations. Configuration of decision trees don’t require resource generators. For more information, see [Create a resource generator in Recommended Actions](../task/ra-csm-resource-generators-create.md).
+Configure resource generators to provide information that you can use as inputs to actions such as guidances and field recommendations. Configuration of decision trees don’t require resource generators. For more information, see [Create a resource generator in Recommended Actions](ra-csm-resource-generators-create.md).
 
 ## Arbitration parameters
 

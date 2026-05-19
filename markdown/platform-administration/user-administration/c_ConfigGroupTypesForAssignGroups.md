@@ -23,9 +23,9 @@ The following items are provided in the base system.
 -   The reference qualifier on \[task.assignment\_group\] filters on **\[Type\] \[equals\] \[itil\]**.
 -   A reference qualifier named **GetGroupFilter** is available to filter for group types using [Create a dynamic filter option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_DynamicFilterOptions.md).
 
-**Note:** Dictionary overrides enable administrators to filter a group type on an extended table using a simple [reference qualifier](../../../script/server-scripting/concept/c_ReferenceQualifiers.md) override.
+**Note:** Dictionary overrides enable administrators to filter a group type on an extended table using a simple [reference qualifier](../c_ReferenceQualifiers.md) override.
 
-**Parent Topic:**[Creating groups](../../roles/concept/ua-creating-groups.md)
+**Parent Topic:**[Creating groups](ua-creating-groups.md)
 
 ## Add a group type
 

@@ -38,12 +38,12 @@ Role required: admin
 
 The table will be indexed. For more information on how to search for a keyword in a contract template, see [Search for keywords in contract templates](cncore-search-in-doct.md)
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](../concept/cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](../concept/cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](cncore-conf-cntrct-wrkspc.md)
 
 [Configure signature pause duration when modifying signatories](cncore-pause-sig-property.md)
 
@@ -59,5 +59,5 @@ The table will be indexed. For more information on how to search for a keyword i
 
 [Copy fields from parent request to amendment request](cncore-cpy-fld-parent-amedreq.md)
 
-[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+[Manage notifications in Contract Management Pro](cmpro-manage-notifications.md)
 

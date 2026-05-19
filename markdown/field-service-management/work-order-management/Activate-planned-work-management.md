@@ -31,7 +31,7 @@ You can install the Planned Work Management application \(com.snc.fsm\_planned\_
 
         -   **Field Service Management \(com.snc.work\_management\)**
 
-            Enables you to manage work requests that are performed on location by field service agents. For more information, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+            Enables you to manage work requests that are performed on location by field service agents. For more information, see [Activate Field Service Management](../t_ActivateFieldServiceManagement.md).
 
         -   **CSM and FSM Configurable Workspace Foundation \(com.snc.uib.cwf\_workspace\)**
 
@@ -49,7 +49,7 @@ The following items are installed with Planned Work Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Planned Work Management components](../reference/planned-work-components.md).
+For more information, see [Planned Work Management components](../planned-work-components.md).
 
 ## Procedure
 

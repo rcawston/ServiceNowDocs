@@ -66,7 +66,7 @@ The ITSM Virtual Agent analytics dashboard displays.
 ![ITSM Virtual Agent analytics Assistant Designer](../image/now-assist-itsm-assistant-designer-analytics.png)
 
 </td></tr></tbody>
-</table>-   **[ITSM Virtual Agent Analytics reference](../reference/now-assist-itsm-va-analytics-reference.md)**  
+</table>-   **[ITSM Virtual Agent Analytics reference](now-assist-itsm-va-analytics-reference.md)**  
 As an admin, you can refer to the indicators, schedule jobs, and scripts used in the ITSM Virtual Agent analytics.
 
 **Parent Topic:**[Now Assist for IT Service Management \(ITSM\)](now-assist-itsm.md)

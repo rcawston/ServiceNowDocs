@@ -41,9 +41,9 @@ Role required: impact app admin, admin
 ## What to do next
 
 -   [Grant temporary instance access to your Impact Squad](hop-access-impact-squad.md)
--   With successful connection and registration, see [Using Impact](../concept/impact-in-app.md) to get started with your Impact Store Application.
+-   With successful connection and registration, see [Using Impact](impact-in-app.md) to get started with your Impact Store Application.
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](configuring-impact-platform.md)
 
 **Previous topic:**[Verify Impact data connection](verify-impact-data-connection.md)
 

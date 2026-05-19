@@ -39,18 +39,18 @@ The following image shows the high-level workflow of the integration:
 
 -   **[Workflow of risk identification for business applications](workflow-risk-identification.md)**  
 When assessing an application for risks, the application goes through various stages of risk identification and assessment. You can define the identification and assessment workflow based on your requirements.
--   **[Set up risk identification integration](../task/configure-risk-identification-form.md)**  
+-   **[Set up risk identification integration](configure-risk-identification-form.md)**  
 Before assessing an application, specify the target application where the risk identification must be initiated.
--   **[Respond to an application questionnaire](../task/respond-to-app-questionnaire.md)**  
+-   **[Respond to an application questionnaire](respond-to-app-questionnaire.md)**  
 Respond to a questionnaire about an application for risk assessment.
--   **[Create a smart assessment template for risk identification](../task/create-smart-assessment-template-for-risk-identification.md)**  
+-   **[Create a smart assessment template for risk identification](create-smart-assessment-template-for-risk-identification.md)**  
 Create a smart assessment template for risk identification using the Smart Assessment Engine application.
--   **[Review responses and perform inherent risk assessment](../task/review-responses-to-apm-risk-assmt.md)**  
+-   **[Review responses and perform inherent risk assessment](review-responses-to-apm-risk-assmt.md)**  
 Compute the overall risk score for an application by performing an advanced risk assessment. After the IT application owner responds to the questionnaire, a risk manager reviews the responses and performs the inherent assessment.
--   **[Associate risks, citations, policies, and controls with a risk identification record](../task/associate-risks-pols-citations-risk-idenfn.md)**  
+-   **[Associate risks, citations, policies, and controls with a risk identification record](associate-risks-pols-citations-risk-idenfn.md)**  
 After the inherent assessment is completed, you can associate risks, citations, policies, and controls with the risk identification record. You can identify what methods to use to mitigate the risks.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 
 **Related topics**  
 

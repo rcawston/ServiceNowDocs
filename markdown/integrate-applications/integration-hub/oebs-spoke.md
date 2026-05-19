@@ -19,7 +19,7 @@ Manage sales orders, procurement, finance, customers, ledgers, and so on, in the
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to view all the available apps and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Note:** The packages should be redeployed when you are upgrading to the Oracle EBS spoke v1.1 from Oracle EBS spoke v1. For more information, see [Set up the Oracle EBS spoke](../task/setup-oebs-spoke.md#).
+**Note:** The packages should be redeployed when you are upgrading to the Oracle EBS spoke v1.1 from Oracle EBS spoke v1. For more information, see [Set up the Oracle EBS spoke](setup-oebs-spoke.md#).
 
 ## Integration Hub subscription
 
@@ -1046,13 +1046,13 @@ Retrieves Purchasing Organization details from Oracle EBS.
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-For information about setting up the spoke, see [Set up the Oracle EBS spoke](../task/setup-oebs-spoke.md#).
+For information about setting up the spoke, see [Set up the Oracle EBS spoke](setup-oebs-spoke.md#).
 
 ## MID Server requirements
 
-These actions use REST calls, which can run on an instance or MID Server. Use the connection record associated with the Oracle EBS alias to configure where actions run as well as set MID Server selection attributes. For more information about running actions on the MID Server, see [Integration steps](../../integrationhub/concept/integration-steps.md).
+These actions use REST calls, which can run on an instance or MID Server. Use the connection record associated with the Oracle EBS alias to configure where actions run as well as set MID Server selection attributes. For more information about running actions on the MID Server, see [Integration steps](integration-steps.md).
 
 **Note:** If your Oracle EBS instance is only accessible on a private network, you must use MID Server.
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

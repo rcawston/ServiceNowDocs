@@ -16,7 +16,7 @@ Test the desktop action and then activate it so that it’s available as a tool 
 ## Before you begin
 
 -   Capture your automation steps. For more information, see [Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](auto-create-desktop-action-ad.md) or [Automate repetitive tasks by manually capturing steps in AI Desktop Actions](manual-create-desktop-action-ad.md).
--   Configure the properties for screens, anchors, and steps. For more information, see [Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md).
+-   Configure the properties for screens, anchors, and steps. For more information, see [Screen, anchor, and step properties in AI Desktop Actions](screen-anchor-and-action-properties-ad.md).
 -   Add desktop action details, such as name, description, and associated applications, and review inputs and outputs. For more information, see [Add details to desktop actions in AI Desktop Actions](add-details-desktop-action-ad.md).
 
 Role required: sn\_aia.admin
@@ -104,7 +104,7 @@ If you get en error that the file size is beyond 10 MB, you can increase the fil
 
 ## What to do next
 
-Create an AI agent. For more information, see [Creating AI agents for AI Desktop Actions](../concept/create-ai-agents-ad.md).
+Create an AI agent. For more information, see [Creating AI agents for AI Desktop Actions](create-ai-agents-ad.md).
 
-Enable AI agents to perform desktop actions by adding desktop actions as tools. For more information, see [Add a desktop action to an AI agent](../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md).
+Enable AI agents to perform desktop actions by adding desktop actions as tools. For more information, see [Add a desktop action to an AI agent](add-desktop-action-ai-agent.md).
 

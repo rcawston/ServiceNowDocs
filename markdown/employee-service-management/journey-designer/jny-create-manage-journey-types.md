@@ -39,5 +39,5 @@ Role required: sn\_jny.admin or admin
 5.  After you have selected any header configuration you want to change, select **Submit**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 

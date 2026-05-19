@@ -162,5 +162,5 @@ The Listener HD pattern creates the following relationships to support Oracle Li
 |Oracle DB Service \[cmdb\_ci\_db\_ora\_service\]|Managed by::Manages|Oracle Database Listener \[cmdb\_ci\_db\_ora\_listener\]|
 |Oracle Instance \[cmdb\_ci\_db\_ora\_instance\]|Uses::Used by|Oracle DB Service \[cmdb\_ci\_db\_ora\_service\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

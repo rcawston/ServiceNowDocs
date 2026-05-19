@@ -21,7 +21,7 @@ The Data Relationships Framework \(sn\_grc\_rel\_config\) application provides t
 
 The Operational Resilience administrators set up the Main node configurations via the Main node configuration module listed in the **General administration** menu of the Core UI.
 
-For information on configuring the Main node configurations, see [Configure the Main node configurations](../task/set-up-main-node.md).
+For information on configuring the Main node configurations, see [Configure the Main node configurations](set-up-main-node.md).
 
 ![Source module.](../image/main-node-config-src-path.png)
 
@@ -202,7 +202,7 @@ The Main node configurations are included with the Operational Resilience base v
 
 ![Menu.](../image/main-node-menu.png)
 
-**Note:** You can fully customize the Main node configurations and for each configuration, you can configure the node relationships and Nexus map configurations from the Node relationship and Nexus map configuration related lists. For more information on how to configure the node relationships and Nexus map configurations, see [Configure the Node relationship configurations](../task/update-node-rel-config.md).
+**Note:** You can fully customize the Main node configurations and for each configuration, you can configure the node relationships and Nexus map configurations from the Node relationship and Nexus map configuration related lists. For more information on how to configure the node relationships and Nexus map configurations, see [Configure the Node relationship configurations](update-node-rel-config.md).
 
 1.  Opres with CSDM header configuration for business services: The Opres with CSDM header configuration defines the relationships for a business service and is primarily used by new customers.
 

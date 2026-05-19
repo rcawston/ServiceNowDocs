@@ -80,5 +80,5 @@ Responsible for the overall problem management process as well as delete problem
 problem\_ manager
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Problem Management Best Practice — Madrid](../task/activate-pm-best-practice-madrid.md)
+</table>**Parent Topic:**[Activate Problem Management Best Practice — Madrid](activate-pm-best-practice-madrid.md)
 

@@ -17,7 +17,7 @@ The Australia Patch 2 release contains important problem fixes.
     -   Build date: 04-29-2026\_2044
     -   Build tag: glide-australia-02-11-2026\_\_patch2-04-17-2026
 
-**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](../upgrades/reference/upgrade.md).
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -65,9 +65,9 @@ Australia Patch 2 includes fixes for security-related problems that affected cer
 
     Review scripts that are incompatible with guarded script and either rewrite them to use supported features or create an exemption for scripts that can't be rewritten.
 
--   **[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)**
+-   **[Now Assist and agentic AI release notes](release-notes/now-assist-rn-landing.md)**
 
-    For Now Assist new features and changes, see [Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md).
+    For Now Assist new features and changes, see [Now Assist and agentic AI release notes](release-notes/now-assist-rn-landing.md).
 
 -   **[Script sandbox environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/script-sandbox-environment.md)**
 
@@ -6077,5 +6077,5 @@ Unless any exceptions are noted, you can safely upgrade to this release version 
 -   [Australia security and notable fixes](https://www.servicenow.com/docs/r/release-notes/australia-security-notables.html)
 -   [All other Australia fixes](https://www.servicenow.com/docs/r/release-notes/australia-all-other-fixes.html)
 
-**Parent Topic:**[Available patches and hotfixes](../available-versions.md)
+**Parent Topic:**[Available patches and hotfixes](available-versions.md)
 

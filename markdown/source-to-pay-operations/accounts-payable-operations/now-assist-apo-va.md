@@ -58,5 +58,5 @@ As an administrator, you can use the Now Assist in Virtual Agent Analytics dashb
 
 For detailed information on Now Assist in Virtual Agent in general, and Now Assist for APO in particular, see [Exploring Now Assist for Accounts Payable Operations \(APO\)](exploring-now-assist-apo.md).
 
-For information on configuring Now Assist for APO, see [Configure Now Assist for Accounts Payable Operations \(APO\)](../task/configuring-now-assist-apo.md).
+For information on configuring Now Assist for APO, see [Configure Now Assist for Accounts Payable Operations \(APO\)](configuring-now-assist-apo.md).
 

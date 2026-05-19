@@ -104,7 +104,7 @@ If you are upgrading from version 1.0.2 or earlier of Performance Analytics Cont
 -   Epic Cumulative Flow Diagram
 -   Story Cycle Time
 
-For more information, see [Upgrading the layout of Agile 2.0 dashboards](../reference/using-solution-library-for-agile-2.0-dashboards.md).
+For more information, see [Upgrading the layout of Agile 2.0 dashboards](using-solution-library-for-agile-2.0-dashboards.md).
 
 <table id="table_fcx_vdk_k3b"><thead><tr><th>
 
@@ -204,7 +204,7 @@ From the Story State section towards the right of the report, you can filter the
 ![Cycle Time Zoom](../image/cycle-time-zoom.gif)
 
 </td></tr></tbody>
-</table>You can customize the Burnup and Cumulative Flow Diagram reports. For more information, see [Customizing Agile 2.0 dashboard reports](../concept/customizing-dashboard-reports.md).
+</table>You can customize the Burnup and Cumulative Flow Diagram reports. For more information, see [Customizing Agile 2.0 dashboard reports](customizing-dashboard-reports.md).
 
 **Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](pa-content-pack-for-agile-2.0.md)
 

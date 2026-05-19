@@ -18,7 +18,7 @@ Capture one or more web pages from the Google Chrome or Microsoft Edge browser a
 Software prerequisites: The ServiceNow, Inc. RPA Google Chrome and the ServiceNow® Store RPA Microsoft Edge extensions are added. To add the extensions, see:
 
 -   [Add the ServiceNow RPA Edge extension](add-servicenow-edge-extension.md).
--   [Add the ServiceNow RPA Chrome extension](../../rpa-hub/task/add-google-chrome-extension-rpa.md).
+-   [Add the ServiceNow RPA Chrome extension](add-google-chrome-extension-rpa.md).
 
 Ensure you have installed the Chromium plugin on the RPA Desktop Design Studio. To install, see [Manage plugins in RPA Desktop Design Studio](install-plugins-rpa-studio.md).
 
@@ -59,5 +59,5 @@ Role required: none
     To use the context dialog, see [Use the Capture element dialog](use-context-dialog.md).
 
 
-**Parent Topic:**[Chromium connector](../concept/chrome-connector.md)
+**Parent Topic:**[Chromium connector](chrome-connector.md)
 

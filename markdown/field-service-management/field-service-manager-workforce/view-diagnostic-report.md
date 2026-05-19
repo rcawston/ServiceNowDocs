@@ -34,5 +34,5 @@ As the Field Service manager of an affected agent, you can view the diagnostic r
     -   To view the list of impacted customers, click the **Impacted customers** tab.
     -   To view the list of impacted agents who potentially came in contact with the affected agent or visited the same customer location within the selected time period, click the **Impacted field agents** tab.
 
-**Parent Topic:**[Use Emergency Exposure Management for Field Service agent monitoring and assignments](../concept/use-exposure-management-fsm.md)
+**Parent Topic:**[Use Emergency Exposure Management for Field Service agent monitoring and assignments](use-exposure-management-fsm.md)
 

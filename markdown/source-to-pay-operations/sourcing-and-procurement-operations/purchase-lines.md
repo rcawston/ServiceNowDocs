@@ -59,7 +59,7 @@ Supplier for which the shopper places the order.For a non-catalog intake, if the
 -   Relationship status of the supplier
 -   Preferred status of the supplier
 
-The contact details provided by the shopper for the supplier is also displayed as a record in the **Vendor Contacts** related list. This record is created with the help of the vendor contact creation API from Supplier Lifecycle Operations. For more information, see [Create New Supplier Case form](../../supplier-lifecycle-operations/reference/new-supplier-case.md).
+The contact details provided by the shopper for the supplier is also displayed as a record in the **Vendor Contacts** related list. This record is created with the help of the vendor contact creation API from Supplier Lifecycle Operations. For more information, see [Create New Supplier Case form](../supplier-lifecycle-operations/new-supplier-case.md).
 
 </td></tr><tr><td>
 
@@ -205,7 +205,7 @@ Handling fee
 
 </td><td>
 
-Charges added for a specific supplier when a rule is triggered as a result of certain configurable conditions for a purchase requisition being met. For more information on handling fees, see [Handling fees](../concept/handling-fees.md).This field is displayed only if the product type is handling fees.
+Charges added for a specific supplier when a rule is triggered as a result of certain configurable conditions for a purchase requisition being met. For more information on handling fees, see [Handling fees](handling-fees.md).This field is displayed only if the product type is handling fees.
 
 </td></tr><tr><td>
 
@@ -520,7 +520,7 @@ Cost center
 Cost center that incurs the cost of this transaction.
 
 </td></tr></tbody>
-</table>The capex account, expense account, and pre-payment details are populated from [ledger assignment rules](../concept/ledger-assignment-rules.md).
+</table>The capex account, expense account, and pre-payment details are populated from [ledger assignment rules](ledger-assignment-rules.md).
 
 The following are the related lists of a purchase line:
 
@@ -613,5 +613,5 @@ A prepayment is the amount paid for services before their receipt or invoiced du
 **Related topics**  
 
 
-[Purchase revision flows](../concept/purchase-revision-flows.md)
+[Purchase revision flows](purchase-revision-flows.md)
 

@@ -24,11 +24,11 @@ Pull Workday tasks or to-dos on regular scheduled basis or on manual basis for p
 
 ## To-dos settings
 
-Store one-time configuration parameters for pulling tasks from Workday into ServiceNow. For more information, see [Configure Workday to-dos](../task/config-w.md).
+Store one-time configuration parameters for pulling tasks from Workday into ServiceNow. For more information, see [Configure Workday to-dos](config-w.md).
 
 **Note:** The **HRSD Framework Integration** and **HRSD Integration Framework Complete** to-dos configurations help to display Workday tasks in the To-dos page in Employee Center. For more information on these to-dos configurations, navigate to **Employee Center** &gt; **To-dos Configuration**.
 
 ## Schedule flow activation
 
-Activate and run the schedule flow that pulls tasks into ServiceNow. For more information, see [Activating schedule flows](../task/activate-w-schedule-flow.md).
+Activate and run the schedule flow that pulls tasks into ServiceNow. For more information, see [Activating schedule flows](activate-w-schedule-flow.md).
 

@@ -18,7 +18,7 @@ Get a quick overview of the skill inputs for Now Assist for Legal Service Delive
 
 Depending on the selected skill, you can configure inputs. An input identifies the data that is used for a skill, such as the table and fields that are used to generate a summary.
 
-Configure the variables of practice areas to be considered as inputs for legal request or matter summarization. To add variables, see [Configure variables for Now Assist summarization](../task/configure-variables-for-now-assist-summarization.md).
+Configure the variables of practice areas to be considered as inputs for legal request or matter summarization. To add variables, see [Configure variables for Now Assist summarization](configure-variables-for-now-assist-summarization.md).
 
 ## Legal Request summarization
 

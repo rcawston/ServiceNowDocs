@@ -32,5 +32,5 @@ Role required: admin
 4.  On the **Do you want to restart this challenge** pop-up, click **Yes, I'm done**.
 
 
-**Parent Topic:**[Create a Learning challenge](../concept/learning-challenge.md)
+**Parent Topic:**[Create a Learning challenge](learning-challenge.md)
 

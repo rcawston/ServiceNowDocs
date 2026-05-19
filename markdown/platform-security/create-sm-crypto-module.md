@@ -117,5 +117,5 @@ The parent cryptographic module, which is determined by the cryptographic module
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Secrets Management dashboard](../concept/secrets-dashboard.md)
+**Parent Topic:**[Secrets Management dashboard](secrets-dashboard.md)
 

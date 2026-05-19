@@ -40,5 +40,5 @@ SLA details show on the task card in the task panel and the calendar in the Disp
 **Related topics**  
 
 
-[Manage a work order SLA](../task/t_ManageAWorkOrderSLA.md)
+[Manage a work order SLA](t_ManageAWorkOrderSLA.md)
 

@@ -65,14 +65,14 @@ Steps
     **Note:** This step is applicable only if the store app is not installed on your instance. You will be redirected to install the store app.
 
 
-**Parent Topic:**[Automated Test Framework \(ATF\) test building and execution](../concept/atf-test-build-execution.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) test building and execution](atf-test-build-execution.md)
 
 **Related topics**  
 
 
-[Building and running automated tests with the Automated Test Framework](../concept/atf-build-overview.md)
+[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)
 
-[Building and running automated test suites](../concept/atf-suites-overview.md)
+[Building and running automated test suites](atf-suites-overview.md)
 
-[Cancelling automated tests and test suites](../concept/atf-cancelling.md#)
+[Cancelling automated tests and test suites](atf-cancelling.md#)
 

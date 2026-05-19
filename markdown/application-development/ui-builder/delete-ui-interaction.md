@@ -61,5 +61,5 @@ Role required: ui\_builder\_admin
 
 The UI interaction is permanently removed. Any component or page that previously referenced this interaction will no longer trigger its actions. Update or remove related event handlers as needed.
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](uib-ui-interactions.md)
 

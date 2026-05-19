@@ -66,5 +66,5 @@ The states of the source document import task are the following:
 
 If the alert is marked as applicable, and if the source document task created as part of the process moves to the Closed state, then the regulatory alert record is automatically moved to the Closed state.
 
-**Parent Topic:**[Source document import tasks](../concept/source-doc-import-task.md)
+**Parent Topic:**[Source document import tasks](source-doc-import-task.md)
 

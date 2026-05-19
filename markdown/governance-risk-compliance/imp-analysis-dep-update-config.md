@@ -49,5 +49,5 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
     The BIA owners and approvers can update the dependencies by saving the changes to the BIA.
 
 
-**Parent Topic:**[Scheduling an auto-update of dependencies](../concept/update-impactanalysis-dep-based-on-cmdb-changes.md)
+**Parent Topic:**[Scheduling an auto-update of dependencies](update-impactanalysis-dep-based-on-cmdb-changes.md)
 

@@ -108,5 +108,5 @@ A granular role created to give read access to quote tables.
 -   sn\_customerservice.customer\_data\_viewer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure, price, quote reference](../concept/reference-cpq.md)
+</table>**Parent Topic:**[Configure, price, quote reference](reference-cpq.md)
 

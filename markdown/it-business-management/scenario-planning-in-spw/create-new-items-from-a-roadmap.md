@@ -72,11 +72,11 @@ Multiple planning item types
 ![Sample actions for a new planning item on hybrid roadmap.](../../spw-prioritization/images/new-planning-item.png)
 
 </td></tr></tbody>
-</table>    For a free-form roadmap, if the source table is Planning Item \[sn\_align\_core\_planning\_item\] table, then the options depend on the values configured for the **freeform\_planning\_items\_creation\_list** property. By default, project and demand are available. Work with your admin to configure these options. See [Enable custom item types in Strategic Planning](../../alignment-planner-workspace/task/enable-custom-item-types-strategic-planning-workspace.md).
+</table>    For a free-form roadmap, if the source table is Planning Item \[sn\_align\_core\_planning\_item\] table, then the options depend on the values configured for the **freeform\_planning\_items\_creation\_list** property. By default, project and demand are available. Work with your admin to configure these options. See [Enable custom item types in Strategic Planning](enable-custom-item-types-strategic-planning-workspace.md).
 
 3.  On the form, fill in the required field information.
 
-    For full field information, see [Planning item form](../../alignment-planner-workspace/reference/planning-item-form.md).
+    For full field information, see [Planning item form](planning-item-form.md).
 
     You can refine planning item descriptions—for item types such as Demand, Epic, Project, Capability, Feature, and Story—using the Write planning item skill, if the Now Assist for SPM application is installed.
 
@@ -92,5 +92,5 @@ If you don’t fill both the approved start and end date fields, the item that y
 -   **[Modify planning items from the roadmap view](manage-planning-items-from-the-roadmap-view.md)**  
 Update the details of planning items or delete them from a portfolio plan or free-form roadmap so that your roadmap reflects the latest plans.
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](roadmaps-in-alignment-planner-workspace.md)
 

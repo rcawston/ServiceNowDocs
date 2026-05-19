@@ -56,7 +56,7 @@ Examples of validation conditions:
 
 Attributes add special capabilities to workflow states without requiring custom code. Attributes control features like approval requirements, report generation, related list actions, and UI page visibility for specific workflow states.
 
-For a complete list of available attributes, see [Add existing attributes to a GRC workflow state](../task/configure-state-model-attributes.md).
+For a complete list of available attributes, see [Add existing attributes to a GRC workflow state](configure-state-model-attributes.md).
 
 ## Workflow limitations
 
@@ -64,7 +64,7 @@ Without the CAM Advanced plugin \(app-grc-cont-auth-monitor-advanced\), you can 
 
 ## Enabling workflow configuration
 
-The workflow configurator is available only when CAM Workspace is installed. A system property controls whether custom workflows are enabled. For more information, see [Continuous Authorization and Monitoring system properties](../reference/cam-components-installed.md#).
+The workflow configurator is available only when CAM Workspace is installed. A system property controls whether custom workflows are enabled. For more information, see [Continuous Authorization and Monitoring system properties](cam-components-installed.md#).
 
 When you enable the workflow configuration property:
 

@@ -55,5 +55,5 @@ Use the ITSM change management agentic workflows to manage and complete tasks au
 -   **[Reference section for Change Management](reference-change-management.md)**  
 Reference sections provide additional information about components installed with Change Management.
 
-**Parent Topic:**[IT Service Management](../../it-service-management/reference/r_ITServiceManagement.md)
+**Parent Topic:**[IT Service Management](../r_ITServiceManagement.md)
 

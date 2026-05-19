@@ -27,7 +27,7 @@ Role required: admin
 
 ## About this task
 
-Activate the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) in your ServiceNow instance before you install Strategic Spend Tracking for PPM. For more information see, [Activate PPM Standard \(Project Portfolio Management\)](../../project-portfolio-suite-with-financials/task/t_ActivateProjectPortfolioSuiteWithFinancials.md).
+Activate the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) in your ServiceNow instance before you install Strategic Spend Tracking for PPM. For more information see, [Activate PPM Standard \(Project Portfolio Management\)](t_ActivateProjectPortfolioSuiteWithFinancials.md).
 
 ## Procedure
 
@@ -52,10 +52,10 @@ Activate the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) in your Se
 6.  Select **Install**.
 
 
--   **[Components installed with Strategic Spend Tracking for PPM](../reference/installed-with-ppm-strategic-spend-tracking.md)**  
+-   **[Components installed with Strategic Spend Tracking for PPM](installed-with-ppm-strategic-spend-tracking.md)**  
 Several types of components are installed with activation of Strategic Spend Tracking for PPM, including tables and scheduled jobs.
 
-**Parent Topic:**[Strategic Spend Tracking for PPM](../concept/ppm-strategic-spend-tracking-overview.md)
+**Parent Topic:**[Strategic Spend Tracking for PPM](ppm-strategic-spend-tracking-overview.md)
 
 **Related topics**  
 

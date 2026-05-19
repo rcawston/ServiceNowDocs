@@ -67,5 +67,5 @@ Quantity of the assets. Enter the required quantity of each asset in the **Quant
 
 A service request is created to procure the assets.
 
-**Parent Topic:**[Telecommunications Network Inventory integration with Hardware Asset Management](../concept/integration-with-hardware-asset-management.md)
+**Parent Topic:**[Telecommunications Network Inventory integration with Hardware Asset Management](integration-with-hardware-asset-management.md)
 

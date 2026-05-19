@@ -38,18 +38,18 @@ Use the **Script** field in an order guide to add or remove catalog items to or 
     ```
 
 
--   **[Create an order guide](../task/t_CreateAnOrderGuide.md)**  
+-   **[Create an order guide](t_CreateAnOrderGuide.md)**  
 You can create an order guide with a two-step or three-step ordering process.
--   **[Request an order guide](../task/t_OrderProcess.md#)**  
+-   **[Request an order guide](t_OrderProcess.md#)**  
 Once created, order guides present the customer with a three-step ordering process by default.
--   **[Create an order guide rule to add a catalog item](../task/t_CreateARule.md)**  
+-   **[Create an order guide rule to add a catalog item](t_CreateARule.md)**  
 You can add a catalog item to an order guide using specific rules.
 -   **[Create an order guide variable](c_CreateVariables.md)**  
 You can create variables within an order guide.
--   **[Avoid enforcement of a mandatory field](../task/t_AvoidEnforceOfMandFieldWinTab.md)**  
+-   **[Avoid enforcement of a mandatory field](t_AvoidEnforceOfMandFieldWinTab.md)**  
 You can avoid enforcing a mandatory field within tabs.
 -   **[Run order guides automatically](c_RunOrderGuidesAutomatically.md)**  
 You can run an order guide automatically from within a workflow or a server script, passing parameters to that order guide to define variable values.
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](r_ExtendedCatalogItemFunctions.md)
 

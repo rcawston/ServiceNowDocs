@@ -42,5 +42,5 @@ You may want to find a relationship between linear assets to associate them with
     For each record, the kind of relationship it has with the linear asset is mentioned such as continuing, overlapping, or intersecting.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

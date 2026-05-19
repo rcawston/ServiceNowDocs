@@ -22,15 +22,15 @@ This section provides a guided overview of all foundational setup tasks, from in
 
 ![Flowchart with nine steps for setting up Contract Management Pro](../image/mmasset0021414-configuring-contract-management-pro-horizontal.png "Configuration steps")
 
-1.  [Install Contract Management Pro](../task/cncore-install-cmpro.md)
+1.  [Install Contract Management Pro](cncore-install-cmpro.md)
 
     Install the  Contract Management Pro application. The application installs related  ServiceNow® Store applications and plugins, if they aren’t already installed.
 
-2.  [Set up record producers for legal contracts](../../lsd-sn-legal-contracts/task/snlc-create-legal-contract.md)
+2.  [Set up record producers for legal contracts](../legal-service-delivery/snlc-create-legal-contract.md)
 
     Create a record producer and specify base system settings so users can initiate contract request to seek legal department's guidance on legal contracts.
 
-3.  [Configure the Microsoft Word add-in for ServiceNow Contracts](../task/cncore-config-word-addin.md)
+3.  [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md)
 
     Configure the Microsoft Word add-in for ServiceNow Contracts so that you can setup contract templates in Microsoft Word.
 
@@ -38,7 +38,7 @@ This section provides a guided overview of all foundational setup tasks, from in
 
     Set up external application in Contract Management Pro to support electronic signature and external storage.
 
-5.  [Create a contract type](../task/cncore-create-contract-type.md)
+5.  [Create a contract type](cncore-create-contract-type.md)
 
     Define various types of contract used in your organization and associate it with a contract model.
 
@@ -46,15 +46,15 @@ This section provides a guided overview of all foundational setup tasks, from in
 
     Create a contract template to add content controls for contract metadata, clauses, signatories, and dynamic tables. Contract documents in own-paper requests are generated from these contract templates based on contract type and other applicable rules.
 
-7.  [Define an internal signatory rule](../task/cncore-define-internal-signers-rule.md)
+7.  [Define an internal signatory rule](cncore-define-internal-signers-rule.md)
 
     Define an internal signatory rule to specify signatories for a contract template.
 
-8.  [Configure contract template rules](../task/cncore-config-template-rules.md)
+8.  [Configure contract template rules](cncore-config-template-rules.md)
 
     Define rules to select contract templates for generating contract documents in a contract request.
 
-9.  [Configure contract repository](../task/cncore-contract-config.md)
+9.  [Configure contract repository](cncore-contract-config.md)
 
     Define a contract repository and map it to a specific table to store the executed contracts.
 

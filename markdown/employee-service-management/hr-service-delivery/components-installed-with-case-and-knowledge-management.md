@@ -363,7 +363,7 @@ Updates role assignments for HR profiles that are beginning or ending their empl
 
 ## Tables installed
 
-The \* next to a table indicates it was deprecated for customers taking the Rome release to support a new data model. Existing customers using the legacy COEs and tables are not affected. These tables have been replaced by the Employee Relations feature. For more information, see [Employee Relations](../concept/hr-case-employee-relations.md).
+The \* next to a table indicates it was deprecated for customers taking the Rome release to support a new data model. Existing customers using the legacy COEs and tables are not affected. These tables have been replaced by the Employee Relations feature. For more information, see [Employee Relations](hr-case-employee-relations.md).
 
 <table id="table_pfy_pqk_hbb"><thead><tr><th>
 

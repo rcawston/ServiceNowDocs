@@ -70,7 +70,7 @@ SN_CSM_EC.init({
 
     -   **feature**
 
-        The feature name. For more information, see [Feature context parameters supported in Engagement Messenger](../reference/contextual-launch-supported-features.md) .
+        The feature name. For more information, see [Feature context parameters supported in Engagement Messenger](../contextual-launch-supported-features.md) .
 
     -   **openOnLoad**
 
@@ -78,7 +78,7 @@ SN_CSM_EC.init({
 
     -   **&lt;param\_name&gt;": "&lt;param\_value&gt;**
 
-        Name and value of a parameter associated with the feature. For more information, see [Feature context parameters supported in Engagement Messenger](../reference/contextual-launch-supported-features.md).
+        Name and value of a parameter associated with the feature. For more information, see [Feature context parameters supported in Engagement Messenger](../contextual-launch-supported-features.md).
 
 7.  Create a custom wrapper function to pass the feature context to the `SN_CSM_EC.init` function of the embed code.
 

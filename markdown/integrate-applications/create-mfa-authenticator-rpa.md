@@ -18,7 +18,7 @@ Define the authenticator and token length that acts as an enabler for the Time-b
 
 Familiarize yourself with multi-factor authentication \(MFA\) concepts. For more information, see [Multi-factor authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md).
 
-Familiarize yourself with the TOTP authentication in RPA Hub. For more information, see [TOTP authentication in RPA Hub](../concept/totp-authentication-rpa.md).
+Familiarize yourself with the TOTP authentication in RPA Hub. For more information, see [TOTP authentication in RPA Hub](totp-authentication-rpa.md).
 
 You must do this task in the classic environment.
 

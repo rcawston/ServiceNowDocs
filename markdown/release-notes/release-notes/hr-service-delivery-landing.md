@@ -27,5 +27,5 @@ The ServiceNow® Universal Request application enables agents to resolve cases s
 -   **[Workforce Optimization for HR release notes](wfo-hr-rn.md)**  
 The ServiceNow® Workforce Optimization for HR simplifies the daily routine of HR Agent Managers to develop high-performing teams by optimizing schedules and work assignments, respond to ad hoc changes in real time, manage time-off requests and providing the skills they need to succeed—all in one workspace. This application is currently supported for the australia release, but it will be deprecated in a future release.
 
-**Parent Topic:**[Employee Service Management release notes](../employee-service-management/employee-service-management-rn-landing.md)
+**Parent Topic:**[Employee Service Management release notes](employee-service-management-rn-landing.md)
 

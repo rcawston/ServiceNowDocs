@@ -44,7 +44,7 @@ Notification recipients must be defined as active users in the User \[sys\_user\
 
 [Preview email notifications](t_PreviewingNotifications.md)
 
-**Parent Topic:**[Dynamic translation](../concept/dynamic-translation.md)
+**Parent Topic:**[Dynamic translation](dynamic-translation.md)
 
 **Related topics**  
 

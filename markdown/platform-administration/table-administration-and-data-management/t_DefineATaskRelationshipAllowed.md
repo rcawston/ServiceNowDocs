@@ -36,5 +36,5 @@ Role required: admin
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Creating many-to-many task relations](../concept/c_ManyToManyTaskRelations.md)
+**Parent Topic:**[Creating many-to-many task relations](c_ManyToManyTaskRelations.md)
 

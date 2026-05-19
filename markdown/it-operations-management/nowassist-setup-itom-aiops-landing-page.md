@@ -25,7 +25,7 @@ Install![Install the applications required for ITOM AIOps](../../../reuse/icons/
 
 </td></tr><tr><td>
 
-[Configure Event Management![Configure Event Management](../../../reuse/icons/brand-icons/bus-manager.svg)Configure Event Management](../concept/aiops-conf-console.md)
+[Configure Event Management![Configure Event Management](../../../reuse/icons/brand-icons/bus-manager.svg)Configure Event Management](aiops-conf-console.md)
 
 </td><td>
 

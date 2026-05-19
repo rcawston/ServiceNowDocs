@@ -33,7 +33,7 @@ Create KPI groups and associate each group's type with its corresponding record.
 -   Enterprise portfolios
 -   Enterprise taxonomy nodes
 
-In addition to creating your own KPI groups, you can use and configure the KPI groups that come with the base DPM application. For details, see [KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi.md).
+In addition to creating your own KPI groups, you can use and configure the KPI groups that come with the base DPM application. For details, see [KPI groups in Digital Portfolio Management](dpm-configure-kpi.md).
 
 This procedure includes the following tasks:
 
@@ -245,12 +245,12 @@ Mapping type associated with the KPI group. Depending on which KPI Group you sel
 </td></tr></tbody>
 </table>    4.  Select **Submit**.
 
-**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi-groups.md)
+**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](dpm-configure-kpi-groups.md)
 
 **Related topics**  
 
 
-[Configure KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi-groups.md)
+[Configure KPI groups in Digital Portfolio Management](dpm-configure-kpi-groups.md)
 
 [Configure KPIs in Digital Portfolio Management with service availability example](dpm-configure-kpi-availability.md)
 

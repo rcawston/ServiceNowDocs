@@ -36,7 +36,7 @@ If you have multiple topics open at once, every topic shows its individual scope
 
     For example, select **Workflow Studio**.
 
-    **Note:** If you're using domain separation, you can change the domain that you're working in. Select **Domain scope: global** to change the domain. Any topics created within a domain are restricted to users of that domain. For more information, see [Domain separation and Virtual Agent](../concept/domain-separation-virtual-agent.md).
+    **Note:** If you're using domain separation, you can change the domain that you're working in. Select **Domain scope: global** to change the domain. Any topics created within a domain are restricted to users of that domain. For more information, see [Domain separation and Virtual Agent](domain-separation-virtual-agent.md).
 
 
 ## Result
@@ -47,7 +47,7 @@ If the new scope matches a topic that was locked before, the warning banner disa
 
 ## What to do next
 
-Return to creating or updating your topic. If you have multiple topics open, you can sort them by activating the **Group tabs by app scope** toggle switch in **Preferences**. For more information, see [Assistant Designer Asset library](../reference/vad-topics-page.md).
+Return to creating or updating your topic. If you have multiple topics open, you can sort them by activating the **Group tabs by app scope** toggle switch in **Preferences**. For more information, see [Assistant Designer Asset library](vad-topics-page.md).
 
 **Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
 

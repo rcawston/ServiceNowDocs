@@ -19,7 +19,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 ## About this task
 
-BCM administrators configure the impact categories that are relevant to your business. For more information on configuring an impact category in the classic BCM workspace, see [Configure an impact rating to assess an impact category](configure-impact-rating-bcp.md) and [Structured workflows for Business Impact Analysis](../concept/structured-workflows-bia.md).
+BCM administrators configure the impact categories that are relevant to your business. For more information on configuring an impact category in the classic BCM workspace, see [Configure an impact rating to assess an impact category](configure-impact-rating-bcp.md) and [Structured workflows for Business Impact Analysis](structured-workflows-bia.md).
 
 ## Procedure
 

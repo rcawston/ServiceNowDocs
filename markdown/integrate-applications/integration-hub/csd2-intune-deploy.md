@@ -24,5 +24,5 @@ This process deploys an application to a user or device through a service catalo
     ![Deployment flow specific to the provider.](../image/csd2-intune-provider.png)
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Intune](../concept/csd2-ms-intune.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Intune](csd2-ms-intune.md)
 

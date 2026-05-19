@@ -73,5 +73,5 @@ Use the Credential Mapping module to perform credential and service account mapp
     You have mapped the field values that you added under the Credential Mapping and Service Account Mapping related lists to the Terraform provider.
 
 
-**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](../concept/using-ccg-terraform-connector.md)
+**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](using-ccg-terraform-connector.md)
 

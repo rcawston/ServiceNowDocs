@@ -1990,7 +1990,7 @@ Project Portfolio Management
 
 </td><td>
 
-[Australia Patch 2](../quality/australia-patch-1.md)
+[Australia Patch 2](australia-patch-1.md)
 
 -   **[Demand summarization skill enhancements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-summary-demand-classic.md)**
 
@@ -2042,7 +2042,7 @@ Build on existing quote approval workflows with greater control and flexibility
     -   Add ad-hoc approvers to an approval request outside the configured approval workflow when additional review is needed.
     -   Override an approval to advance a quote when permitted by your organization's approval configuration.
 
-See [Advanced Approval Management release notes](../sales-order-management/advanced-approval-management-for-sales-rn.md) for more information.
+See [Advanced Approval Management release notes](release-notes/advanced-approval-management-for-sales-rn.md) for more information.
 
 </td></tr><tr><td>
 
@@ -2185,7 +2185,7 @@ ServiceNow SDK
 
 </td><td>
 
--   **[Flow API supports Service Catalog triggers and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-flow-api.md)**
+-   **[Flow API supports Service Catalog triggers and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/application-development/fluent-flow-api.md)**
 
 Use triggers and actions related to Service Catalog with the Flow API.
 
@@ -2263,7 +2263,7 @@ Strategic Planning
 
 </td><td>
 
-[Australia Patch 2](../quality/australia-patch-1.md)
+[Australia Patch 2](australia-patch-1.md)
 
 -   **[Demand summarization skill enhancements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-summary-demand-classic.md)**
 
@@ -2490,25 +2490,25 @@ The Apache Iceberg connector is now certified as a primary connector.
 
 Primary connectors that are still being enhanced to include all planned functionality are now marked with a Preview label. These connectors are fully supported by ServiceNow®.
 
--   **[Australia Patch 1](../quality/australia-patch-1.md)**
+-   **[Australia Patch 1](australia-patch-1.md)**
 
 [Amazon S3 Tables connector — Preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/primary-connectors-zcc.md)
 
 The Amazon S3 Tables connector is now available with a Preview label, indicating that enhancements are ongoing. This connector is fully supported by ServiceNow®.
 
--   **[Australia Patch 1](../quality/australia-patch-1.md)**
+-   **[Australia Patch 1](australia-patch-1.md)**
 
 [Apache Iceberg connector — Preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/primary-connectors-zcc.md)
 
 The Apache Iceberg connector is now available with a Preview label, indicating that enhancements are ongoing. This connector is fully supported by ServiceNow®.
 
--   **[Australia Patch 2](../quality/australia-patch-2.md)**
+-   **[Australia Patch 2](australia-patch-2.md)**
 
 [Teradata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/teradata-zcc.md)
 
 The Teradata connector now supports Bearer Token and OAuth authentication methods.
 
--   **[Australia Patch 2](../quality/australia-patch-2.md)**
+-   **[Australia Patch 2](australia-patch-2.md)**
 
 [Apache Iceberg](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/apache-iceberg-primary-zcc.md)
 
@@ -2516,5 +2516,5 @@ The Apache Iceberg connector now supports S3-compatible object storage systems.
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](release-notes-summaries.md)
 

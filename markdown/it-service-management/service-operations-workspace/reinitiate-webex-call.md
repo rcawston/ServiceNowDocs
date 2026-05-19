@@ -36,5 +36,5 @@ Role required: itil
 7.  In the **Completed** calls, select **Reinitiate call**.
 
 
-**Parent Topic:**[Use Webex for conference calls in Service Operations Workspace](../concept/cisco-webex-sow.md)
+**Parent Topic:**[Use Webex for conference calls in Service Operations Workspace](cisco-webex-sow.md)
 

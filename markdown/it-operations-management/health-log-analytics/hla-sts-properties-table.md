@@ -124,5 +124,5 @@ Only for properties classified as METER: Sample unique values tracked by the sys
     For more information, see [Refine the source type structure in Health Log Analytics](hla-source-type-structure-refine.md).
 
 
-**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md)
+**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](hla-data-input-setup-extra.md)
 

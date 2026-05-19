@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-AI Search indexes content from the indexed source for use with a semantic vector search. The group of semantic indexing settings for a particular indexed source is called a semantic index configuration. For more information, see [Semantic index configuration for indexed sources](../concept/semantic-index-cfg-ais.md).
+AI Search indexes content from the indexed source for use with a semantic vector search. The group of semantic indexing settings for a particular indexed source is called a semantic index configuration. For more information, see [Semantic index configuration for indexed sources](semantic-index-cfg-ais.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ AI Search indexes content from the indexed source for use with a semantic vector
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values, see [Semantic Index Configuration form](../reference/semantic-index-configuration-form.md).
+    For a description of the field values, see [Semantic Index Configuration form](semantic-index-configuration-form.md).
 
 7.  Select **Save**.
 
@@ -52,7 +52,7 @@ AI Search indexes content from the indexed source for use with a semantic vector
 
     2.  On the form, fill in the fields.
 
-        For a description of the field values, see [Semantic Index Field form](../reference/semantic-index-field-form.md).
+        For a description of the field values, see [Semantic Index Field form](semantic-index-field-form.md).
 
     3.  Select **Add**.
 
@@ -63,5 +63,5 @@ AI Search indexes content from the indexed source for use with a semantic vector
 
 After updating the semantic index configuration settings for an indexed source, you must index or reindex the content from that indexed source. For more information, see [Index the content from an indexed source for searchability](ais-admin-console-start-content-indexing.md).
 
-**Parent Topic:**[Managing indexed sources from the AI Search Admin console](../concept/ais-managing-indexed-source.md)
+**Parent Topic:**[Managing indexed sources from the AI Search Admin console](ais-managing-indexed-source.md)
 

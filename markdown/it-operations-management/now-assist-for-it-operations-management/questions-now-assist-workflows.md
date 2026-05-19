@@ -17,7 +17,7 @@ Questions to ask about alerts in the Now Assist for IT Operations Management \(I
 
 ## Questions organized by alert source
 
-Ask the following questions about alerts from specific observability tools in the Now Assist panel. For more information about using the analyze alert impact agentic workflow, see [Use the analyze alert impact agentic workflow](../task/now-assist-itom-use-aia.md).
+Ask the following questions about alerts from specific observability tools in the Now Assist panel. For more information about using the analyze alert impact agentic workflow, see [Use the analyze alert impact agentic workflow](now-assist-itom-use-aia.md).
 
 <table id="table_rcc_4qc_4fc"><thead><tr><th>
 
@@ -63,5 +63,5 @@ New Relic
 -   Who owns the impacted entity for this alert?
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist for ITOM reference](../concept/now-assist-itom-reference.md)
+</table>**Parent Topic:**[Now Assist for ITOM reference](now-assist-itom-reference.md)
 

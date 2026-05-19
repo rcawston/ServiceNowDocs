@@ -49,5 +49,5 @@ If you have the BCM administrator role, you can customize BCM UIB Workspace by u
 
 If you have the BCM manager or BCM user roles, you can also get relevant recommendations on your business continuity tasks on the Home page.
 
-To view more information on the Tasks Page Configuration, see [Update the Tasks Page Configuration record](../../grc-common/task/view-tasks-page-configurations.md).
+To view more information on the Tasks Page Configuration, see [Update the Tasks Page Configuration record](grc-common-functions/view-tasks-page-configurations.md).
 

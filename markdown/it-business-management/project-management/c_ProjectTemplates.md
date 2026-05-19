@@ -24,15 +24,15 @@ With the project manager role, you can:
 
 With the PPS admin role, you can modify the project template configuration.
 
--   **[Create a project template](../task/t_ViewAProjectTemplateForm.md)**  
+-   **[Create a project template](t_ViewAProjectTemplateForm.md)**  
 Create a template from an existing template or a project.
--   **[Add an attachment to a project template](../task/t_AddAnAttachmentToAProjectTemplate.md)**  
+-   **[Add an attachment to a project template](t_AddAnAttachmentToAProjectTemplate.md)**  
 Attach a file to a project template just as you can attach a file to a project or task.
--   **[Apply a template on the Project form](../task/t_ApplyATemplateFromTheProjectForm.md)**  
+-   **[Apply a template on the Project form](t_ApplyATemplateFromTheProjectForm.md)**  
 While creating a project using the Project form, you can apply a project template to include project tasks and subtasks, attachments, checklists, and other project information. You can apply a project template to a new project or an existing project.
--   **[Apply template to an existing project](../task/apply-multiple-templates-prj.md)**  
+-   **[Apply template to an existing project](apply-multiple-templates-prj.md)**  
 Apply one or multiple project templates to an existing project from the project form or Planning Console.
--   **[Apply template to a blank project in project workspace](../task/t_ApplyTempProjWorkbench.md)**  
+-   **[Apply template to a blank project in project workspace](t_ApplyTempProjWorkbench.md)**  
 When you create a new project in the project workspace, you can apply a template.
 -   **[Project template configuration](c_ProjectTemplateConfiguration.md)**  
 The Project Template Configuration list defines the items that are included in a template.

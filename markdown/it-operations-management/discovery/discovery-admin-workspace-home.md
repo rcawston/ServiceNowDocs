@@ -83,7 +83,7 @@ Enhance the functionality of the Discovery Admin Workspace by integrating additi
 
 **Note:** Updating applications requires you to have the admin role.
 
-While you can access details about the apps installed on your instance, information regarding pricing and packages isn’t provided, as it varies based on each contract. For a general overview of licensing and subscription details, see [ITOM/OT SU Licensing and subscriptions](../../it-operations-management/reference/itom-su-licensing-landing-page.md).
+While you can access details about the apps installed on your instance, information regarding pricing and packages isn’t provided, as it varies based on each contract. For a general overview of licensing and subscription details, see [ITOM/OT SU Licensing and subscriptions](../itom-su-licensing-landing-page.md).
 
 ## Learnings
 

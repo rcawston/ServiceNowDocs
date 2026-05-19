@@ -67,5 +67,5 @@ Select **Flexi option** to manage your demands and projects, created from the de
 
 Enable the multicurrency view in the Demand and other demand-related forms. For more information, see [Enable demand currency view](enable-multicurrency-demand.md).
 
-**Parent Topic:**[Multicurrency in Demand Management](../concept/multicurrency-demand.md)
+**Parent Topic:**[Multicurrency in Demand Management](multicurrency-demand.md)
 

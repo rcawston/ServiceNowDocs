@@ -17,13 +17,13 @@ Reference topics provide additional information about Service Level Objective Ma
 
 -   **[Add an error budget policy form](sr-create-error-budget-form.md)**  
 Learn about the available fields for setting up error budget policies.
--   **[Create SLO form](../../service-reliability/reference/sr-create-slo-sli-form.md)**  
+-   **[Create SLO form](sr-create-slo-sli-form.md)**  
 Learn about the available fields for adding a service level objective \(SLO\) to Service Reliability Management.
--   **[Create SLI form](../../service-reliability/reference/sr-create-sli-form.md)**  
+-   **[Create SLI form](sr-create-sli-form.md)**  
 Learn about the available fields for adding a service level indicator \(SLI\) to a service level objective \(SLO\).
 -   **[Notifications for breached error budgets](srm-notifications-messages.md)**  
 Details about the notifications that teams receive for breached error budget policies.
--   **[Visualizations in the Service reliability dashboard](../../service-reliability/reference/sr-service-dashboard-visualizations.md)**  
+-   **[Visualizations in the Service reliability dashboard](sr-service-dashboard-visualizations.md)**  
 List of visualizations and options on the Service reliability dashboard in Service Reliability Management \(SRM\).
 
 **Parent Topic:**[Service Level Objective Management](slo-landing-page.md)

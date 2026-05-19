@@ -19,5 +19,5 @@ Various components are installed with Core Business Suite.
 -   **[Help topics instance options](helpt-instance-form.md)**  
 The details provide the field and its descriptions of the widget instance options.
 
-**Parent Topic:**[Core Business Suite](../concept/cbs-landing.md)
+**Parent Topic:**[Core Business Suite](cbs-landing.md)
 

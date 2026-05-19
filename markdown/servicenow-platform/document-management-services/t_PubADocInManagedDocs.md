@@ -36,5 +36,5 @@ Role required: document\_management\_user
     In the Document Revisions list, the revision you just published is now in the Published stage.
 
 
-**Parent Topic:**[Managed Documents](../concept/c_ManagedDocuments.md)
+**Parent Topic:**[Managed Documents](c_ManagedDocuments.md)
 

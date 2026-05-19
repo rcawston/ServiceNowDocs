@@ -26,7 +26,7 @@ When using ADAM as an LDAP source, you must specify the fully qualified distingu
 **Related topics**  
 
 
-[Active Directory Application Mode \(ADAM\)](../concept/c_ActiveDirectoryApplicationMode.md)
+[Active Directory Application Mode \(ADAM\)](c_ActiveDirectoryApplicationMode.md)
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 

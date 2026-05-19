@@ -104,7 +104,7 @@ Service Exchange health dashboard is the part of Service Exchange Center and pro
 **Related topics**  
 
 
-[Execute a scan suite as a provider](../task/se-execute-scan-check.md#)
+[Execute a scan suite as a provider](se-execute-scan-check.md#)
 
-[Execute a scan suite as a consumer](../task/se-con-execute-scan-check.md#)
+[Execute a scan suite as a consumer](se-con-execute-scan-check.md#)
 

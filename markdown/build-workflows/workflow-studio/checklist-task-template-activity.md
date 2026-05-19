@@ -109,7 +109,7 @@ Option to wait for a duration of time before running an activity or stage. When 
 </td></tr></tbody>
 </table>## Inputs
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](activity-definitions.md#activity-experience).
 
 <table id="table_uym_wlm_d2c"><thead><tr><th>
 

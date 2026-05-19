@@ -73,5 +73,5 @@ Description
 
 The file is downloaded and saved in your local system.
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](cwm-boards.md)
 

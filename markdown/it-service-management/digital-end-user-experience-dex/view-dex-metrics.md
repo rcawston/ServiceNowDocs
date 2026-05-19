@@ -35,7 +35,7 @@ Use DEX Metrics analyzer to view key performance metrics collected for specific 
 
 5.  In the Metrics analyzer window, search for or select up to five metrics to display as a graph.
 
-    To learn more, see [Metrics analyzer form](../reference/metrics-analyzer.md).
+    To learn more, see [Metrics analyzer form](metrics-analyzer.md).
 
 6.  Filter your data by page name, location, OS, or date range.
 

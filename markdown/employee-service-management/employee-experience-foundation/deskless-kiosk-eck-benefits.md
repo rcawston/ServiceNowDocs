@@ -27,11 +27,11 @@ Employee Center Pro Kiosk is a centralized platform that helps employees with es
 
 -   **Shift information**: Displays the shortest and upcoming work shift info with the date and time on the home page. Go to the shift page to see detailed information to plan and manage work routines productively. For more information, see [Schedule in Employee Center Pro Kiosk](shift-time-kiosk-ec.md).
 
-    You can use instance options to change the display preferences. For more information, see [Modify the Upcoming shift widget display](../task/config-shift-instanceoptions.md).
+    You can use instance options to change the display preferences. For more information, see [Modify the Upcoming shift widget display](config-shift-instanceoptions.md).
 
 -   **Time off balance**: Helps employees with the available time off balances such as casual and sick leave. This information helps employees plan and manage their time off effectively. For more information, see [Time off balances in Employee Center Pro Kiosk](kiosk-timeoff-ec.md).
 
-    You can use instance options to change the display preferences. For more information, see [Modify the Time off widget display](../task/config-timeoff-instanceoptions.md).
+    You can use instance options to change the display preferences. For more information, see [Modify the Time off widget display](config-timeoff-instanceoptions.md).
 
 -   **Get support**: Provides employees with quick access to various services and requests such as:
 
@@ -41,11 +41,11 @@ Employee Center Pro Kiosk is a centralized platform that helps employees with es
 
         **Note:** With the Health and Safety Incident Management plugin, you can report health and safety with the `sn_ohs_im.reporter` role.
 
-    For more information, see [Get support](../task/apn-config-getsupport.md).
+    For more information, see [Get support](apn-config-getsupport.md).
 
 -   **Browse help topics**: Allows employees to request updates or changes to the employee profile information.
 
-    You can use instance options to change the display preferences. For more information, see [Modify the Browse help content widget display](../task/config-browse-help-topics-instanceoptions.md).
+    You can use instance options to change the display preferences. For more information, see [Modify the Browse help content widget display](config-browse-help-topics-instanceoptions.md).
 
 -   **My Favorites**: Allows employees to mark useful information as favorites.
 -   **Guided Self-service**: Guides employees to self-serve with step-by-step assistance and to navigate their way to the relevant article or catalog item. For more information, see [Guided Self-Service in Employee Center](gss-guided-self-service-overview.md).
@@ -55,7 +55,7 @@ Employee Center Pro Kiosk is a centralized platform that helps employees with es
 -   **Footer**: Contains legal information, links, and copyright details.
 -   **Feedback widget**: Organizations can easily capture feedback on the Kiosk experience using the experience feedback drawer widget on the home page. For more information, see [Integrated experience and service feedback](ex-fdback-ovrvw.md).
 
-    For more information on how to configure, see [Configure Employee Center Pro Kiosk](../task/deskless-kiosk-config.md).
+    For more information on how to configure, see [Configure Employee Center Pro Kiosk](deskless-kiosk-config.md).
 
 
 For more information on how to use the Kiosk application, see [Use Employee Center Pro Kiosk](deskless-eck-homepage.md).

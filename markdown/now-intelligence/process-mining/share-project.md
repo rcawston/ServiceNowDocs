@@ -53,5 +53,5 @@ You can share a project in two ways:
     5.  To remove any user, group, or role from giving the access to the project, from the **Actions** list for that user, group, or role select **Remove**.
 
 
-**Parent Topic:**[Using Process Mining](../concept/use-process-mining.md)
+**Parent Topic:**[Using Process Mining](use-process-mining.md)
 

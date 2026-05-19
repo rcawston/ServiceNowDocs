@@ -256,7 +256,7 @@ The following attribute in the Server \[cmdb\_ci\_server\] table is populated by
 **Related topics**  
 
 
-[Kubernetes extension classes](../concept/cmdb-ci-class-models-kubernetes.md)
+[Kubernetes extension classes](../cmdb-ci-class-models/cmdb-ci-class-models-kubernetes.md)
 
-[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+[CI relationships in the CMDB](../configuration-management-database-cmdb/c_CIRelationships.md)
 

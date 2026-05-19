@@ -19,7 +19,7 @@ The Demand Management application consists of tools for capturing, centralizing,
 
 **Important:**
 
-Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../../ppw-demand/concept/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../portfolio-planning/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
@@ -40,11 +40,11 @@ If you have Portfolio Planning Workspace or Strategic Planning Workspace, you ca
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-alignment.svg)Create and manage demands with Demand Management](../reference/r_UsingDemandManagement.md)
+[Use![](../../../reuse/icons/brand-icons/bus-alignment.svg)Create and manage demands with Demand Management](r_UsingDemandManagement.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about the forms and fields of Demand Management](../../service-portfolio-management2/concept/demand-management-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about the forms and fields of Demand Management](demand-management-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -69,10 +69,10 @@ Basics of Demand Management
 Learn more about Demand Management and its process flow, and reviewing its benefits to your organization.
 -   **[Configuring Demand Management](configuring-demand-management.md)**  
 Configure your Demand Management application to assess and promote demands to projects, enhancements, changes, defects, or Enterprise Agile Planning \(EAP\) entities.
--   **[Use Demand Management](../reference/r_UsingDemandManagement.md)**  
+-   **[Use Demand Management](r_UsingDemandManagement.md)**  
 Users with the demand manager role can create, view, and modify demands using the Demand Management application.
--   **[Demand Management reference](../../service-portfolio-management2/concept/demand-management-reference.md)**  
+-   **[Demand Management reference](demand-management-reference.md)**  
 Reference information to provide additional details about Demand Management such as the fields, user roles, tables, guidelines, and domain separation information.
 
-**Parent Topic:**[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](../ppm-collaboration/c_ProjectPortfolioSuite.md)
 

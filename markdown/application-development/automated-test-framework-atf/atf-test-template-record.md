@@ -22,5 +22,5 @@ The Test Template record contains information about one test template.
 |Test Template|The tests to include in this template.|
 |Description|\(Optional\) Enter a description to identify the purpose of this test template.|
 
-**Parent Topic:**[Test templates](../concept/test-templates-module.md)
+**Parent Topic:**[Test templates](test-templates-module.md)
 

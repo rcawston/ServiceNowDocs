@@ -44,7 +44,7 @@ Complete the steps in the [Request Software Asset Management](t_RequSoftwareAsse
         **Note:** ServiceNow Agent Client Collector \(ACC\) is a separately licensed IT Operations Management \(ITOM\) product. For details, contact your ServiceNow account executive.
 
     -   For integrating with Jamf for MAC OS devices, complete the steps in the [Service Graph Connector for Jamf](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-jamf.md) topic and all subtopics.
-    -   To integrate with a third-party inventory tool, complete the steps in the [Software asset connections](../concept/third-party-discovery-sam.md) topic and all subtopics.
+    -   To integrate with a third-party inventory tool, complete the steps in the [Software asset connections](third-party-discovery-sam.md) topic and all subtopics.
 
 ## What to do next
 

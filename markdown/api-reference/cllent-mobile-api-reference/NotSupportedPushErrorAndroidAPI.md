@@ -20,5 +20,5 @@ A function from the NotSupportedPushError class is thrown when the NowPushSDK ca
 |cause|[Throwable](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-throwable/)|Cause of the error.|
 |message|String|Message that contains the error details to display to the user.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 

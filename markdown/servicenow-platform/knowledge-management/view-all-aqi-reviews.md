@@ -28,5 +28,5 @@ Role required: knowledge\_admin or admin
     -   To view all completed AQI checklists, select **All Completed AQI Checklists**.
     -   To view all pending AQI checklists, select **All Pending AQI Checklists** .
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](use-article-quality-index.md)
 

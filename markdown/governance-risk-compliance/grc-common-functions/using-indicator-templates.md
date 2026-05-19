@@ -128,5 +128,5 @@ You can also view information on the following tabs:
 
 **Note:** The **Control Objectives/Risk Statements** tab allows you to reuse the same template for multiple control objectives or risk statements.
 
-**Parent Topic:**[Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md)
+**Parent Topic:**[Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md)
 

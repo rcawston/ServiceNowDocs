@@ -92,7 +92,7 @@ The Configuration Compliance application manages the life cycle of a test result
 
 ## Setup
 
-Setting up domain separation for Configuration Compliance does not require any additional steps. All Configuration Compliance tables acquire the Domain column after the instance is domain separated. You can direct test result integration import data to specific domains. For more information, see [Create domain-separated imports for an integration](../../vulnerability-response/task/create-domain-separated-imports.md). For more information on additional precautions and settings, see [Additional settings for domain separation](../../vulnerability-response/reference/ds-additional-config.md).
+Setting up domain separation for Configuration Compliance does not require any additional steps. All Configuration Compliance tables acquire the Domain column after the instance is domain separated. You can direct test result integration import data to specific domains. For more information, see [Create domain-separated imports for an integration](../vulnerability-response/create-domain-separated-imports.md). For more information on additional precautions and settings, see [Additional settings for domain separation](../vulnerability-response/ds-additional-config.md).
 
 ## Domain-separated data
 

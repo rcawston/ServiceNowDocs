@@ -36,5 +36,5 @@ Role required: sam\_admin
 
 The publisher to subscription integration mapping that you have created appears in the list of unrecognized publisher integration maps.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

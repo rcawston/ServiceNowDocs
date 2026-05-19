@@ -18,7 +18,7 @@ Create a custom entity that's derived from a default system entity such as date,
 ## Before you begin
 
 -   Make sure that the [NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.](activate-nlu-workbench.md)
--   [Create or use](../concept/creating-models.md) an existing NLU model for Virtual Agent or AI Search.
+-   [Create or use](creating-models.md) an existing NLU model for Virtual Agent or AI Search.
 -   [Create or use an existing intent.](create-nlu-intent.md)
 -   Role required: nlu\_editor, nlu\_admin, or admin. The nlu\_editor must be assigned to the model.
 

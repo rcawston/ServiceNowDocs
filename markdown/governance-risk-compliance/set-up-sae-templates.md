@@ -43,17 +43,17 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
     |Purpose|Purpose or intended use of the template, such as, DRI template category.|
     |Assessment target|Table records that are used for the assessment. For example, Digital Resilience Incident Reporting Case, Action task.|
 
-    For more information on creating templates, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    For more information on creating templates, see [Create an assessment template](smart-assessment-engine/sae-asmnt-template-create.md).
 
     The assessment template is created and displayed in the Details section of the **General** tab as shown in the example.
 
     ![Assessment template created.](../image/dri-sample-reporting-template-in-asmt-ws-details-section.png)
 
-    You can now fill in the template with instructions, questions, and optional guidance for responding to a question, and sections that group the related questions. For more information on creating an assessment template, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    You can now fill in the template with instructions, questions, and optional guidance for responding to a question, and sections that group the related questions. For more information on creating an assessment template, see [Create an assessment template](smart-assessment-engine/sae-asmnt-template-create.md).
 
 4.  Set up the assessment questions in the **Questions** tab.
 
-    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](../../assessment-engine/task/sae-asmnt-template-populate.md).
+    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](smart-assessment-engine/sae-asmnt-template-populate.md).
 
     The example shows how to set up the assessment questions.
 
@@ -119,11 +119,11 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
         ![Activated automation displayed in the list on the Automations tab.](../image/dri-automation-activated.png)
 
-        For more information on automations, see [Automate response](../../assessment-engine/concept/automate-response.md) and [Configure post-assessment actions](../../assessment-engine/task/configure-post-assessment-actions.md).
+        For more information on automations, see [Automate response](smart-assessment-engine/automate-response.md) and [Configure post-assessment actions](smart-assessment-engine/configure-post-assessment-actions.md).
 
 8.  Configure scoring settings on the **Scoring** tab.
 
-    For more information on assigning scores to the assessments, see [Scoring assessments](../../assessment-engine/concept/scoring-in-assessments.md). For more information on the Smart Assessment Engine, see [Smart Assessment Engine](../../assessment-engine/reference/smart-asmnt-engine-landing-page.md).
+    For more information on assigning scores to the assessments, see [Scoring assessments](smart-assessment-engine/scoring-in-assessments.md). For more information on the Smart Assessment Engine, see [Smart Assessment Engine](smart-assessment-engine/smart-asmnt-engine-landing-page.md).
 
 9.  Select **Save**.
 

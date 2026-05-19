@@ -33,7 +33,7 @@ A scenario helps you to determine the risks that are applicable to your business
 
 3.  On the form, fill in the fields.
 
-    For the description of the field values, see [Scenario New record form](../reference/scenario-reference.md).
+    For the description of the field values, see [Scenario New record form](scenario-reference.md).
 
 4.  Click **Submit**.
 

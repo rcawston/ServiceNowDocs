@@ -314,7 +314,7 @@ Zoom Level / Default Zoom
 Defines at which Zoom levels certain elements will be displayed or at which Zoom level a campus will open.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+</table>**Parent Topic:**[Indoor Mapping references](indoor-mapping-references.md)
 
 **Previous topic:**[Map components installed with Indoor Mapping](components-installed-with-indoor-mapping.md)
 

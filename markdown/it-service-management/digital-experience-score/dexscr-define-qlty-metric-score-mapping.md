@@ -51,7 +51,7 @@ Normalized score
 
 </td><td>
 
-Normalized score for the metric. This score is in the range 1–100 and maps to a performance category. For example, 45.For information about how normalized scores are calculated, see [DEX Score normalization for metric scores](../reference/dexscr-dex-score-normalization.md).
+Normalized score for the metric. This score is in the range 1–100 and maps to a performance category. For example, 45.For information about how normalized scores are calculated, see [DEX Score normalization for metric scores](dexscr-dex-score-normalization.md).
 
 </td></tr><tr><td>
 
@@ -65,14 +65,14 @@ Performance category such as Poor, Moderate, or Good that you can map to a norma
 </table>4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Digital Experience Score​](../concept/dexscr-configuring-dex-score.md)
+**Parent Topic:**[Configuring Digital Experience Score​](dexscr-configuring-dex-score.md)
 
 **Related topics**  
 
 
 [Customize metric definitions](dexscr-customize-dex-score-metric-defs.md)
 
-[Metric scores in Digital Experience Score​](../concept/dexscr-dex-score-defs.md)
+[Metric scores in Digital Experience Score​](dexscr-dex-score-defs.md)
 
-[DEX Score metrics calculation](../reference/dexscr-dex-score-metrics-calc.md)
+[DEX Score metrics calculation](dexscr-dex-score-metrics-calc.md)
 

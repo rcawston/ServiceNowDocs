@@ -87,12 +87,12 @@ Flap quiet interval \(in seconds\), quiet time that must pass for an alert to ex
 
 You can monitor the **Event Management** &gt; **All Alerts** list for alerts that are in the flapping state. For details, see [View alerts in the flapping state](t_EMViewAlertFlapping.md).
 
-**Parent Topic:**[Alert lifecycle configuration](../concept/c_EMAlertRule.md)
+**Parent Topic:**[Alert lifecycle configuration](c_EMAlertRule.md)
 
 **Related topics**  
 
 
-[Work with flapping alerts](../../event-management-operator/task/operator-handle-alerts-flapping.md)
+[Work with flapping alerts](operator-handle-alerts-flapping.md)
 
 [View alerts in the flapping state](t_EMViewAlertFlapping.md)
 

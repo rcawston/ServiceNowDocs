@@ -32,5 +32,5 @@ Role required: admin
     If required, you can print this map from the browser.
 
 
-**Parent Topic:**[Viewing table references and extensions](../concept/c_SchemaMapForTables.md)
+**Parent Topic:**[Viewing table references and extensions](c_SchemaMapForTables.md)
 

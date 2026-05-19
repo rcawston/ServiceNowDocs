@@ -15,7 +15,7 @@ breadcrumb: [Activate Service Level Management, Service Level Management plugins
 
 Activating the Service Level Management plugin adds or modifies these components: tables, properties, UI actions, UI policies, script includes, client scripts, business rules, email notifications, scheduled jobs, and workflows.
 
-**Parent Topic:**[Activate Service Level Management](../task/activate-sla-plugin.md)
+**Parent Topic:**[Activate Service Level Management](activate-sla-plugin.md)
 
 ## Tables installed with Service Level Management
 

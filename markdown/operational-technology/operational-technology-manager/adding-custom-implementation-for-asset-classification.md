@@ -63,5 +63,5 @@ Returns the CMDB sys class name based on the operating system passed.
 
 From the related lists Implementations tab, open the base system extension point implementation to inactivate it.
 
-**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](../concept/configuring-service-graph-connector-for-excel.md)
+**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](configuring-service-graph-connector-for-excel.md)
 

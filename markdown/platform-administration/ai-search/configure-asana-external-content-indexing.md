@@ -117,5 +117,5 @@ Your connector admin needs these items to configure an Asana external content co
 
 For details on creating and configuring an Asana external content connector, see [Create an Asana external content connector](create-ext-cont-connector-asana.md).
 
-**Parent Topic:**[Asana external content connector](../concept/asana-external-content-connector.md)
+**Parent Topic:**[Asana external content connector](asana-external-content-connector.md)
 

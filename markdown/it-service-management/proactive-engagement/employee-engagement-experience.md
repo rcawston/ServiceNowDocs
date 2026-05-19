@@ -19,5 +19,5 @@ Every Proactive Engagement trigger creates an experience issue record. When the 
 
 ![Employee engagement experience](../images/empengpe.png)
 
-**Parent Topic:**[Using Proactive Engagement](../using-proactive-engagement.md)
+**Parent Topic:**[Using Proactive Engagement](using-proactive-engagement.md)
 

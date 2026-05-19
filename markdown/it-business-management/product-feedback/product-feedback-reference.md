@@ -20,5 +20,5 @@ Learn about several types of components installed with Feedback application in S
 -   **[Form field information for Feedback application](form-field-information-for-product-feedback.md)**  
 Field information for forms used in the Feedback application.
 
-**Parent Topic:**[Feedback application in Strategic Planning](../concept/product-feedback-landing.md)
+**Parent Topic:**[Feedback application in Strategic Planning](product-feedback-landing.md)
 

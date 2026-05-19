@@ -112,7 +112,7 @@ Create a dataset from a data collection
     5.  Add more information and select **Submit**.
 
 
-**Parent Topic:**[Using Now Assist Skill Kit](../concept/using-now-assist-skill-kit.md)
+**Parent Topic:**[Using Now Assist Skill Kit](using-now-assist-skill-kit.md)
 
 **Related topics**  
 

@@ -45,7 +45,7 @@ Role required: sp\_admin or admin
 **Related topics**  
 
 
-[Organization chart in Employee Center Pro](../concept/employee-profile-org-chart.md)
+[Organization chart in Employee Center Pro](employee-profile-org-chart.md)
 
 [Configure eligible users for org chart](config-eligible-users-orgchart.md)
 

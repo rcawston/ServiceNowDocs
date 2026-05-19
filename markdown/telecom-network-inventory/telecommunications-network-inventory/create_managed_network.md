@@ -34,17 +34,17 @@ Managed network enables you to add IP pool and IP network subnet in your network
 
 4.  Under the **Details** tab, on the form, fill in the fields.
 
-    To learn more, see [Managed Network form](../reference/managed_network_form.md).
+    To learn more, see [Managed Network form](managed_network_form.md).
 
 5.  Add packs to this service by selecting **Add Packs**.
 
-    To learn more about the packs, see [Attribute packs](../concept/telecommunication-network-inventory-pack.md).
+    To learn more about the packs, see [Attribute packs](telecommunication-network-inventory-pack.md).
 
 6.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
 
 7.  Select **Save**.
 
-    CMDB 360 data and packs related tabs appear on the form. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    CMDB 360 data and packs related tabs appear on the form. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 8.  View the related network inventories by selecting the brick icon \(![brick icon.](../image/infrastructure-relashionship.png)\).
 
@@ -55,5 +55,5 @@ Managed network enables you to add IP pool and IP network subnet in your network
 
 You can review, or update the fields, create a related tab record, or can delete a record. To learn more, see [Update or delete a record of an inventory number allocation](update_and_delete_ip_address_space.md).
 
-**Parent Topic:**[Inventory number allocation](../concept/vlan_or_lag_number_management.md)
+**Parent Topic:**[Inventory number allocation](vlan_or_lag_number_management.md)
 

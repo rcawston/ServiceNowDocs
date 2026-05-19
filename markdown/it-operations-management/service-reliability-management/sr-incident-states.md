@@ -74,5 +74,5 @@ Canceled
 Incident was triaged but found to be a duplicate incident, an unnecessary incident, or not an incident at all.To reopen an incident. Select **New**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Reliability Management reference](../reference/service-reliability-management-reference.md)
+</table>**Parent Topic:**[Service Reliability Management reference](service-reliability-management-reference.md)
 

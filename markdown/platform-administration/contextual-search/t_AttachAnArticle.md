@@ -53,5 +53,5 @@ Details of the selected Knowledge article appear in the designated field.
 -   **[Specify field for attached Knowledge article links](specify-field-copy-kb-article.md)**  
 Specify which field to add a note to when you attach a Knowledge article to a record.
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

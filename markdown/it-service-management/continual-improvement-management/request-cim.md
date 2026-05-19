@@ -59,14 +59,14 @@ If you don't have an account manager, decide to delay activation after purchasin
     -   Key application features
     -   List of plugins installed or activated with CIM.
 
-**Parent Topic:**[Continual Improvement Management](../concept/cim-landing-page.md)
+**Parent Topic:**[Continual Improvement Management](cim-landing-page.md)
 
 **Related topics**  
 
 
-[Components installed with Continual Improvement Management](../reference/cim-components.md)
+[Components installed with Continual Improvement Management](cim-components.md)
 
-[Applications integrated with Continual Improvement Management](../reference/cim-integration.md)
+[Applications integrated with Continual Improvement Management](cim-integration.md)
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

@@ -41,5 +41,5 @@ Example: Outbound authentication token script
 })(inputs, outputs);
 ```
 
-**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](../concept/va-features-custom-chat-integrations.md)
+**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](va-features-custom-chat-integrations.md)
 

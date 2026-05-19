@@ -62,7 +62,7 @@ The TPM can track technology lifecycles for both licensable and non-licensable s
 
 The technologies and lifecycle values are updated in the TPM Discovered Technologies \[sn\_apm\_tpm\_discovered\_technology\_list\] table.
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 
 **Related topics**  
 
@@ -79,7 +79,7 @@ The technologies and lifecycle values are updated in the TPM Discovered Technolo
 
 [View technology portfolio audit risk details](eaw-view-audit-risk-details.md)
 
-[Update verification status of TPM audit details](../eaw-update-verif-status.md)
+[Update verification status of TPM audit details](eaw-update-verif-status.md)
 
 [View TPM logs](eaw-view-tpm-logs.md)
 

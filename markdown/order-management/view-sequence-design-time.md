@@ -32,5 +32,5 @@ Role required: Sequence reader \[sn\_crm\_sequence.reader\]
     You're redirected to Workflow Studio where you can view the sequence diagram.
 
 
-**Parent Topic:**[Using Customer Engagement Sequences](../concept/using-customer-engagement-sequences.md)
+**Parent Topic:**[Using Customer Engagement Sequences](using-customer-engagement-sequences.md)
 

@@ -19,11 +19,11 @@ Improve visibility from strategy to execution with Jira Integration. This integr
 
 <table id="table_uk2_m12_nhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore](../concept/exploring-spw-jira-integrations.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about SPW Jira Integrations and its workflow.
+[Explore](exploring-spw-jira-integrations.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about SPW Jira Integrations and its workflow.
 
 </td><td>
 
-[Configure](../concept/configuring-spw-jira-integrations.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the integration between SPW and Jira.
+[Configure](configuring-spw-jira-integrations.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the integration between SPW and Jira.
 
 </td><td>
 

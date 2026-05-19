@@ -194,5 +194,5 @@ Include daily break
 -   Don’t set the break start time and end time to be the same as the daily start time and daily end time because it won’t generate bookable slots.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure advanced appointment scheduling for a center](../task/configure-location-level-weekly-schedule-config.md)
+</table>**Parent Topic:**[Configure advanced appointment scheduling for a center](configure-location-level-weekly-schedule-config.md)
 

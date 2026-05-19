@@ -48,5 +48,5 @@ With the Kafka standard protocol, you can exchange messages with any application
 
 For details on exchanging data using a Kafka client, see [Producing and consuming messages from a Kafka client](producing-consuming-hermes.md).
 
-**Parent Topic:**[Manage service capabilities](../../general/concept/manage-services.md)
+**Parent Topic:**[Manage service capabilities](../manage-services.md)
 

@@ -42,7 +42,7 @@ Role required: sn\_apm.apm\_user
     The architectural artifact is removed from the business application.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

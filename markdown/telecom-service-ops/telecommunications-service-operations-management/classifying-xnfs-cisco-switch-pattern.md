@@ -31,7 +31,7 @@ Classifier name: **Standard Network Switch**.
 
     **Note:**
 
-    For more information on how to add additional OIDs to the classifier, see [Direct Discovery using Discovery Patterns](../concept/telecom-discovery-using-telecommunication-discovery-pattern.md).
+    For more information on how to add additional OIDs to the classifier, see [Direct Discovery using Discovery Patterns](telecom-discovery-using-telecommunication-discovery-pattern.md).
 
     The List of Specific OIDs to call this Pattern:
 
@@ -92,5 +92,5 @@ Telecom Cisco Switch
     -   IfXMIB
     -   IpMIB
 
-**Parent Topic:**[Use Telecom Discovery patterns](../concept/using-telecom-discovery-patterns.md)
+**Parent Topic:**[Use Telecom Discovery patterns](using-telecom-discovery-patterns.md)
 

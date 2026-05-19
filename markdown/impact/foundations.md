@@ -25,11 +25,11 @@ Based on your Impact package, the deliverable outputs may vary:
 
 |Impact deliverable|Description|Guided|Advanced|Total|
 |------------------|-----------|:----:|:------:|:---:|
-|[Get started with Impact](../reference/getting-started-with-impact.md)|Kicks off the onboarding experience and evaluates the current state of the targeted areas for analysis for your ServiceNow Platform.|✓|![Green check mark icon](../image/dark-green-checks.png)|![Green check mark icon](../image/dark-green-checks.png)|
-|[Customer Impact plan](../reference/customer-impact-plan.md)|Contains best practices and recommendations based on your organizational goals and ServiceNow product mix curated by your Customer Success Manager.|✓|✓|✓|
-|[Product Adoption Roadmaps](impact-par.md)|View a recommended implementation sequence for your capabilities.|✓|✓|✓|
-|[Value management](impact-in-platform-business-outcomes.md)|Identify your high-level goals and tie them to measurable outcomes and success metrics that helps illustrate value over time.|✓|✓|✓|
-|[Capabilities maps](capabilities-map.md)|See the applications, or capabilities, at your disposal for achieving your objectives.​|✓|✓|✓|
+|[Get started with Impact](getting-started-with-impact.md)|Kicks off the onboarding experience and evaluates the current state of the targeted areas for analysis for your ServiceNow Platform.|✓|![Green check mark icon](../image/dark-green-checks.png)|![Green check mark icon](../image/dark-green-checks.png)|
+|[Customer Impact plan](customer-impact-plan.md)|Contains best practices and recommendations based on your organizational goals and ServiceNow product mix curated by your Customer Success Manager.|✓|✓|✓|
+|[Product Adoption Roadmaps](impact-product-adoption-roadmap/impact-par.md)|View a recommended implementation sequence for your capabilities.|✓|✓|✓|
+|[Value management](value-library/impact-in-platform-business-outcomes.md)|Identify your high-level goals and tie them to measurable outcomes and success metrics that helps illustrate value over time.|✓|✓|✓|
+|[Capabilities maps](impact-product-adoption-roadmap/capabilities-map.md)|See the applications, or capabilities, at your disposal for achieving your objectives.​|✓|✓|✓|
 
        
 

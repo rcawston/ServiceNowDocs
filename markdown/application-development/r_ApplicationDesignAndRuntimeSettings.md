@@ -19,12 +19,12 @@ The application design and runtime settings determine whether an application can
 |Runtime Access Tracking|The application's handling of script access requests to resources in other applications. Select **None** to authorize all access requests to cross-scope resources without logging them. Select **Tracking** to log and authorize all access requests to cross-scope resources. Select **Enforcing** to log access requests to cross-scope resources but require an administrator to authorize each request.|
 |Restrict Table Choices|The availability of cross-scope tables when designing the application. Clear the option to allow the application to see tables from other application scopes. Select the option to restrict design choices to only tables in the same application.|
 
--   **[Runtime access tracking](../concept/c_RuntimeAccessTracking.md)**  
+-   **[Runtime access tracking](c_RuntimeAccessTracking.md)**  
 Runtime access tracking allows administrators to manage script access to application resources by creating a list of script operations and targets that the system authorizes to run.
 -   **[Cross-scope privilege record](c_CrossScopePrivilegeRecord.md)**  
 Runtime access tracking uses cross-scope privilege records to determine which script operations and targets the system allows to run.
--   **[Application design access record](../concept/c_ApplicationDesignAccessRecord.md)**  
+-   **[Application design access record](c_ApplicationDesignAccessRecord.md)**  
 Administrators use application design access records to specify which other applications are available to developers during application creation.
 
-**Parent Topic:**[Application access settings](../concept/c_ApplicationAccessSettings.md)
+**Parent Topic:**[Application access settings](c_ApplicationAccessSettings.md)
 

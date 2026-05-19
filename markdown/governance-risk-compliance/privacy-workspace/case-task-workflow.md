@@ -27,9 +27,9 @@ The following image displays the life cycle of a case task.
 
 ![Life cycle of a case task until it is complete.](../../grc-compliance-case-mgmt/image/case-task-workflow.png "Case task workflow")
 
--   **[Create a case task](../task/prm-create-a-case-task.md)**  
+-   **[Create a case task](prm-create-a-case-task.md)**  
 Create case tasks to work on the various tasks such as investigations, assessments, inquiries, gathering evidence, and so on required to analyze and work on the case that has been reported. Each case can have multiple case tasks that can be assigned to different owners from various teams.
--   **[Work on a case task](../task/accept-a-case-task.md)**  
+-   **[Work on a case task](accept-a-case-task.md)**  
 As a case task owner, accept the task, provide the details requested by the case analyst, and submit it for a review. If a case task is assigned to an assignment group, and not to a specific user, then any user who is a part of the assignment group can accept the task and work on it.
 
 **Parent Topic:**[Using Privacy Case Management](using-pcm.md)

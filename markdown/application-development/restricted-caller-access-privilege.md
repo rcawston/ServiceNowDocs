@@ -56,7 +56,7 @@ These restricted caller access privilege settings combinations include, but are 
 -   Source-to-scope: Control access from a specific source application resource to all resources in your target application
 -   Source-to-target: Control access from a specific source application resource to a specific resource in your target application
 
-For more information about these access setting combinations and to learn how to create each combination, see [Set the application scope, application resource, and event access](../task/scope-resource-access.md).
+For more information about these access setting combinations and to learn how to create each combination, see [Set the application scope, application resource, and event access](scope-resource-access.md).
 
 **Note:**
 
@@ -70,13 +70,13 @@ You can activate application restricted caller access through one of the followi
 -   Request the HR Service Delivery or Security Incident Response applications. By default, restricted caller access is active in these applications.
 -   Enable the Restricted Caller Access system property for Workflow Studio.
 
-For more information, see: [Activate application restricted caller access](../task/activate-RCA.md).
+For more information, see: [Activate application restricted caller access](activate-RCA.md).
 
--   **[Activate application restricted caller access](../task/activate-RCA.md)**  
+-   **[Activate application restricted caller access](activate-RCA.md)**  
 You can activate the Scoped Application Restricted Caller Access plugin \(com.glide.scope.access.restricted\_caller\) if you have the admin role.
--   **[Define cross-scope access to an application resource](../task/set-RCA-level.md)**  
+-   **[Define cross-scope access to an application resource](set-RCA-level.md)**  
 Track cross-scope requests for access to an application resource and approve or deny requests.
--   **[Set the application scope, application resource, and event access](../task/scope-resource-access.md)**  
+-   **[Set the application scope, application resource, and event access](scope-resource-access.md)**  
 Create a record in the Restricted Caller Access Privileges \[sys\_restricted\_caller\_access\] table to set cross-scope resource access requests. Approve or deny requests from a source scope or source scope application resources to a target scope or to target scope application resources.
 
 **Parent Topic:**[Application access settings](c_ApplicationAccessSettings.md)

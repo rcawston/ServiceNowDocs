@@ -36,5 +36,5 @@ Various types of issues are created under the following conditions:
 
 Remediating an issue marks an intention to fix the underlying issue causing the control failure or risk exposure. Accepting an issue marks an intention to create an exception for a known control failure or risk. Controls that are **Accepted** remain in a non-compliant state until the control is reassessed. In this way, the issue can be used to document observations during audits.
 
-For more information on issues and observations, see [Manually create GRC issues](../../grc-common/task/t_CreateAnIssue.md) and [Audit observations](audit-observations.md).
+For more information on issues and observations, see [Manually create GRC issues](t_CreateAnIssue.md) and [Audit observations](audit-observations.md).
 

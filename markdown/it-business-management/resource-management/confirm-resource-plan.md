@@ -19,9 +19,9 @@ As a resource manager, you can confirm or block the resources after a resource p
 
 **Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged [migrate your existing resource plans](../concept/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](../../resource-management-workspace/task/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
+You're encouraged [migrate your existing resource plans](rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
 
-Resource managers can [view and assign the unassigned resource assignments](../../resource-management-workspace/task/allocate-resources-rmw.md) using Resource Management Workspace.
+Resource managers can [view and assign the unassigned resource assignments](allocate-resources-rmw.md) using Resource Management Workspace.
 
 Role required: resource\_manager
 
@@ -40,9 +40,9 @@ For a resource plan with the resource type as group, you can confirm resources o
 
 ## Result
 
-The resource plan moves to the Confirmed state and [soft allocations](../reference/r_AllocatingResources.md) are created.
+The resource plan moves to the Confirmed state and [soft allocations](r_AllocatingResources.md) are created.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -77,7 +77,7 @@ The resource plan moves to the Confirmed state and [soft allocations](../referen
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

@@ -28,7 +28,7 @@ Role required:
 
 ## About this task
 
-The information that appears on a service instance card is described in [Service Mapping data](../reference/um-data-from-service-mapping.md).
+The information that appears on a service instance card is described in [Service Mapping data](um-data-from-service-mapping.md).
 
 ## Procedure
 
@@ -57,5 +57,5 @@ The information that appears on a service instance card is described in [Service
 **Related topics**  
 
 
-[Service Mapping data that appears on maps](../reference/um-data-from-service-mapping.md)
+[Service Mapping data that appears on maps](um-data-from-service-mapping.md)
 

@@ -31,7 +31,7 @@ Requests from collaborators may be approved automatically depending on permissio
 -   Creator Studio users who have already created an app \(or have had one created for them\) have delegated development permissions, and are automatically approved to collaborate on other apps.
 -   Current delegated developers without the Creator Studio User or Creator Studio Restricted User roles are automatically approved to collaborate in Creator Studio.
 
-For more information about managing collaboration and permissions, see [Collaborate with other developers](../concept/aes-collaboration-feature-overview.md#).
+For more information about managing collaboration and permissions, see [Collaborate with other developers](../app-engine-studio/aes-collaboration-feature-overview.md#).
 
 ## Procedure
 
@@ -47,8 +47,8 @@ For more information about managing collaboration and permissions, see [Collabor
 
 4.  Approve or reject the request.
 
-    -   If the request is approved, the user invited to be a collaborator is added as a developer to the specified app. The collaborator can now work on the parts of the app defined in the Collaboration Descriptor, but cannot concurrently develop other apps in AES. For more information about the AES User role, see [Components installed with App Engine Studio](../reference/installed-with-aes.md).
+    -   If the request is approved, the user invited to be a collaborator is added as a developer to the specified app. The collaborator can now work on the parts of the app defined in the Collaboration Descriptor, but cannot concurrently develop other apps in AES. For more information about the AES User role, see [Components installed with App Engine Studio](../app-engine-studio/installed-with-aes.md).
     -   If the request is rejected, the request is closed, and the primary developer is notified by email.
 
-**Parent Topic:**[Managing requests using AEMC](../concept/manage-aemc-requests.md)
+**Parent Topic:**[Managing requests using AEMC](manage-aemc-requests.md)
 

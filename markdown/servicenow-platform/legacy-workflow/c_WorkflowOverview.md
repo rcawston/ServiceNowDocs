@@ -22,31 +22,31 @@ Workflow is a legacy application that provided a drag-and-drop interface for aut
 **Explore**
 
  -   Australia
--   [Workflow movement with update sets](../../workflow-administration/concept/c_WorkflowMovementWithUpdateSets.md#)
--   [Workflow activity pinning](../../using-workflows/concept/c_ActivityPinning.md)
--   [Domain separation and Workflow](../../using-workflows/concept/c_WorkflowsAndDomainSeparation.md#)
+-   [Workflow movement with update sets](c_WorkflowMovementWithUpdateSets.md#)
+-   [Workflow activity pinning](../workflow-activities/c_ActivityPinning.md)
+-   [Domain separation and Workflow](c_WorkflowsAndDomainSeparation.md#)
 -   [Workflow training on the ServiceNow® Developer Site](https://developer.servicenow.com/app.do#!/training/article/app_store_learnv2_automatingapps_paris_workflow/app_store_learnv2_automatingapps_paris_workflow_objectives?v=paris)
 
 </td><td>
 
 **Set up**
 
- [Getting started with workflows](../reference/getting-started-workflows.md)
+ [Getting started with workflows](getting-started-workflows.md)
 
 </td><td>
 
 **Administer**
 
- -   [Workflow roles](../reference/r_WorkflowRoles.md)
--   [Administering workflow contexts](../../workflow-administration/reference/r_AdministeringWorkflowContexts.md)
+ -   [Workflow roles](r_WorkflowRoles.md)
+-   [Administering workflow contexts](r_AdministeringWorkflowContexts.md)
 
 </td></tr><tr><td>
 
 **Use**
 
- -   [Workflow editor](../reference/workflow-editor.md)
--   [Create a workflow](../../workflow-administration/task/t_CreateAWorkflow.md)
--   [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md)
+ -   [Workflow editor](workflow-editor.md)
+-   [Create a workflow](t_CreateAWorkflow.md)
+-   [Workflow activities](../workflow-activities/c_WorkflowActivities.md)
 
 </td><td>
 
@@ -55,7 +55,7 @@ Workflow is a legacy application that provided a drag-and-drop interface for aut
  -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Workflow API reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_WorkflowScopedAPI.md)
--   [Using variables in a workflow](../../using-workflows/concept/c_UsingVariablesInAWorkflow.md#)
+-   [Using variables in a workflow](c_UsingVariablesInAWorkflow.md#)
 
 </td><td>
 

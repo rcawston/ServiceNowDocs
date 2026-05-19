@@ -58,7 +58,7 @@ Detailed instructions for each procedure follow this overview.
 
     You assign Cloud Provisioning and Governance roles to user groups and to individual users based on user activities and responsibilities.
 
--   **2. [Install and configure MID Servers to access cloud environments](../../it-operations-management/task/mid-server-configuration-cloud.md)**
+-   **2. [Install and configure MID Servers to access cloud environments](../mid-server-configuration-cloud.md)**
 
     To ensure secure and reliable communications, the Discovery process communicates with your cloud provider accounts and cloud resources through one or more MID Servers. You can set up the MID Servers on your network or in one of your cloud networks.
 
@@ -95,5 +95,5 @@ Detailed instructions for each procedure follow this overview.
 
 ## Next steps
 
-When you have finished all Day-1 and Day-2 procedures in this setup guide, see the [Cloud Provisioning and Governance administration guide](../../cloud-management-v2/concept/cloud-configuration.md) for information on using the Cloud Provisioning and Governance application in your organization.
+When you have finished all Day-1 and Day-2 procedures in this setup guide, see the [Cloud Provisioning and Governance administration guide](cloud-configuration.md) for information on using the Cloud Provisioning and Governance application in your organization.
 

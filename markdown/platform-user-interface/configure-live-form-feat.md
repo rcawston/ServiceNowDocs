@@ -35,5 +35,5 @@ The **glide.ui16.live\_forms.enabled** property is included automatically with C
 3.  In the Value field, type `false`.
 
 
-**Parent Topic:**[User presence](../concept/c_UserPresence.md)
+**Parent Topic:**[User presence](c_UserPresence.md)
 

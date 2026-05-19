@@ -21,7 +21,7 @@ This functionality is supported in the Service Operations Workspace Log Analytic
 
 For detailed information about creating and working with dashboards, see [Dashboards in the Analytics Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 
-**Note:** As an alternative to defining your own dashboard, you can use the AIOps dashboards, which offer comprehensive visualizations of critical operational data. For more information, see [AIOps Dashboards in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/aiops-dashboards-sow-itom.md).
+**Note:** As an alternative to defining your own dashboard, you can use the AIOps dashboards, which offer comprehensive visualizations of critical operational data. For more information, see [AIOps Dashboards in Service Operations Workspace for ITOM](aiops-dashboards-sow-itom.md).
 
 Role required: evt\_mgmt\_operator or viz\_admin
 
@@ -108,7 +108,7 @@ Role required: evt\_mgmt\_operator or viz\_admin
     12. Select **Exit editing mode** to stop editing and display the dashboard.
 
 
-**Parent Topic:**[Dashboards for real-time visualization of log data in Health Log Analytics](../concept/hla-dashboard-visualizations.md)
+**Parent Topic:**[Dashboards for real-time visualization of log data in Health Log Analytics](hla-dashboard-visualizations.md)
 
 **Related topics**  
 

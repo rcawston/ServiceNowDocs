@@ -42,5 +42,5 @@ You can add test cases that are not already a part of existing test suites. Crea
 
 The new test case is added to the **Test Cases** related list.
 
-**Parent Topic:**[Test plans](../concept/c_TestPlans.md)
+**Parent Topic:**[Test plans](c_TestPlans.md)
 

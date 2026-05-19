@@ -160,5 +160,5 @@ Additional notes
 Additional notes for the recruiter, if any.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Interview Management reference](../concept/interview-management-reference.md)
+</table>**Parent Topic:**[Interview Management reference](interview-management-reference.md)
 

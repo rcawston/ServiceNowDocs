@@ -101,13 +101,13 @@ After mapping the assessment templates with segmentation rules, supplier manager
 **Related topics**  
 
 
-[Install Supplier Case Management](../task/install-supp-mgmt.md)
+[Install Supplier Case Management](install-supp-mgmt.md)
 
-[Install Supplier Collaboration Portal](../task/install-supp-central.md)
+[Install Supplier Collaboration Portal](install-supp-central.md)
 
-[Install Supplier Operations](../task/install-supplier-ops.md)
+[Install Supplier Operations](install-supplier-ops.md)
 
-[Install Supplier Payment Optimization](../task/install-supp-payment-opt.md)
+[Install Supplier Payment Optimization](install-supp-payment-opt.md)
 
 [Supplier Document Management](supp-doc-mgmt-overview.md)
 
@@ -115,11 +115,11 @@ After mapping the assessment templates with segmentation rules, supplier manager
 
 [Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
 
-[Enable M2M mapping between supplier contact and suppliers](../task/enable-m2m-supplier-contacts.md)
+[Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
 
 [Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 
-[Install Universal Request for SLO](../task/install-universal-request.md)
+[Install Universal Request for SLO](install-universal-request.md)
 
 [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-asmnt-engine-landing-page.md)
 

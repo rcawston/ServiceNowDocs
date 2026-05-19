@@ -57,7 +57,7 @@ Application admin
 
 </td><td>
 
-Configures the workspace as per business requirements.For more information, see [Configure CSM Configurable Workspace](../task/configure-csm-workspace-fso-apps.md).
+Configures the workspace as per business requirements.For more information, see [Configure CSM Configurable Workspace](configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Accessing the workspace

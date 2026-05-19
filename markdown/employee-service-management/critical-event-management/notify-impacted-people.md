@@ -37,7 +37,7 @@ Use the existing notification templates to send messages to impacted people and 
 
     You can manage the communication recipients and the communication record by selecting the More actions icon \(![More actions icon](../../legal-request-management/image/more-actions-icon.png)\).
 
-    For more information on managing recipients, see [Manage the recipients of a communication task](../concept/manage-recipients.md).
+    For more information on managing recipients, see [Manage the recipients of a communication task](manage-recipients.md).
 
 5.  Edit the message in the template as needed.
 
@@ -46,8 +46,8 @@ Use the existing notification templates to send messages to impacted people and 
 
 -   **[Create a communication task](create-new-communication.md)**  
 Create an on-demand, customized message for a critical event in Critical Event Management, choose how often to send it, and select the communication channels.
--   **[Manage the recipients of a communication task](../concept/manage-recipients.md)**  
+-   **[Manage the recipients of a communication task](manage-recipients.md)**  
 Add or edit the list of recipients for various communication tasks.
 
-**Parent Topic:**[Critical Event Management](../concept/critical-event-management.md)
+**Parent Topic:**[Critical Event Management](critical-event-management.md)
 

@@ -17,5 +17,5 @@ Duplicate details are not allowed \(same user, scenario, and from\_location\). T
 
 ![In this figure, the Enterprise Move Scenario record is open with the Move Details shown in a related list.](../image/MoveDetailsTab.png "Enterprise Move Scenario with Move Details")
 
-**Parent Topic:**[Move planning tool](../concept/c_MovePlanningTool.md)
+**Parent Topic:**[Move planning tool](c_MovePlanningTool.md)
 

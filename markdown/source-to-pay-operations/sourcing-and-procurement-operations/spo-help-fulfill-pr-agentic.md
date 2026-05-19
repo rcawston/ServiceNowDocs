@@ -107,11 +107,11 @@ Retrieves and displays relevant knowledge articles to address sourcing and procu
 **Related topics**  
 
 
-[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](../task/activate-fulfill-pr-agentic-workflow.md)
+[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](activate-fulfill-pr-agentic-workflow.md)
 
-[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent](../task/activate-fulfill-pr-agentic-workflow-va.md)
+[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent](activate-fulfill-pr-agentic-workflow-va.md)
 
-[Submit a purchase request using the Now Assist AI agent](../task/request-product-ai-agents.md)
+[Submit a purchase request using the Now Assist AI agent](request-product-ai-agents.md)
 
-[Update the product category or spend category in the Now Assist panel](../task/update-product-spend-category.md)
+[Update the product category or spend category in the Now Assist panel](update-product-spend-category.md)
 

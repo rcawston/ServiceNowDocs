@@ -51,7 +51,7 @@ If you do not intend to use the base system SIEM auto-extraction rules, then ena
     The origin of techniques should be Detection Rule.
 
 
-**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](../concept/mitre-att-ck-features.md)
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](mitre-att-ck-features.md)
 
 **Related topics**  
 
@@ -60,7 +60,7 @@ If you do not intend to use the base system SIEM auto-extraction rules, then ena
 
 [Associate MITRE-ATT&amp;CK information with observables](associate-mitre-observables.md)
 
-[Associate MITRE-ATT&amp;CK information with security case](../../threat-intelligence-case-management/task/associate-mitre-att-ck-information-with-security-case-management.md)
+[Associate MITRE-ATT&amp;CK information with security case](associate-mitre-att-ck-information-with-security-case-management.md)
 
 [Rollup MITRE-ATT&amp;CK information using Threat Lookup results](rollup-threat-lookup-results.md)
 
@@ -68,7 +68,7 @@ If you do not intend to use the base system SIEM auto-extraction rules, then ena
 
 [Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](link-analysis-threat-hunt-mitre.md)
 
-[MITRE-ATT&amp;CK heat map and navigator](../concept/mitre-att-ck-heatmap-and-navigator.md#)
+[MITRE-ATT&amp;CK heat map and navigator](mitre-att-ck-heatmap-and-navigator.md#)
 
-[Using the MITRE-ATT&amp;CK dashboard](../concept/mitre-dashboards.md#)
+[Using the MITRE-ATT&amp;CK dashboard](mitre-dashboards.md#)
 

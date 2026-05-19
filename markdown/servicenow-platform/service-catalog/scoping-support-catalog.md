@@ -26,7 +26,7 @@ Scoping support is available to define the limits of entities in Service Catalog
 -   The rule base of an order guide can have items from different scopes.
 -   The scope of the record producer and the target table should be the same.
 
--   **[Scriptable service catalog variables](../../../script/server-scripting/concept/c_ScriptableServiceCatalogVariables.md)**  
+-   **[Scriptable service catalog variables](c_ScriptableServiceCatalogVariables.md)**  
 You can use scripting to reference any request item variable from a table in scoped and non-scoped environment.
 
 **Parent Topic:**[Configuring Service Catalog](configuring-service-catalog.md)

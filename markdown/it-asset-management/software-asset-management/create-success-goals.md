@@ -27,11 +27,11 @@ Role required: sam\_admin
 
 3.  On the form, fill in the details.
 
-    For a description of the field values, see [SAM Success Goal Details](../reference/sam-success-goal-details.md).
+    For a description of the field values, see [SAM Success Goal Details](sam-success-goal-details.md).
 
 4.  Select **Save**.
 
-    The success goal appears in the [License operations view](../concept/operations-workspace.md) under the Success goals list. You can cancel or delete a success goal from the License operations view.
+    The success goal appears in the [License operations view](operations-workspace.md) under the Success goals list. You can cancel or delete a success goal from the License operations view.
 
 
 **Related topics**  
@@ -41,5 +41,5 @@ Role required: sam\_admin
 
 [Create a success goal category for software assets](create-sam-suc-cat.md)
 
-[Success portal view in Software Asset Workspace](../concept/success-portal-view.md)
+[Success portal view in Software Asset Workspace](success-portal-view.md)
 

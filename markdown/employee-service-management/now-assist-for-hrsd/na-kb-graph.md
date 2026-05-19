@@ -52,7 +52,7 @@ Role required: none
 
 Knowledge Graph leverages the existing information that is available in the internal databases and auto-populates it to reduce efforts while making the entire experience seamless.
 
-**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](../concept/use-now-assist-hr.md)
+**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](use-now-assist-hr.md)
 
 **Related topics**  
 
@@ -73,7 +73,7 @@ Knowledge Graph leverages the existing information that is available in the inte
 
 [Generate resolution notes using Now Assist for HRSD](now-assist-hrsd-res-note.md)
 
-[View employee summary reports](../../td-leader-hub/task/employee-summary-lh.md)
+[View employee summary reports](employee-summary-lh.md)
 
 [Summarize actions while transferring an HR case](tcase-now-assist-hr.md)
 
@@ -83,7 +83,7 @@ Knowledge Graph leverages the existing information that is available in the inte
 
 [Submit an HR request with Gen AI Virtual Agent](use-genai-hrsd.md)
 
-[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](../concept/integ-now-assist-hrsd.md)
+[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](integ-now-assist-hrsd.md)
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](analyze-sentiments-now-assist.md)
 

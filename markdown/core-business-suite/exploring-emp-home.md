@@ -99,7 +99,7 @@ CBS admin\[sn\_cbs.admin\]
 
 </td></tr><tr><td>
 
-Access the employee request forms from different departments under the Help topics widget.For more information on the Help topics widget display settings, see [Configure instance options for Help topics widget](../task/instance-option-helpt.md).
+Access the employee request forms from different departments under the Help topics widget.For more information on the Help topics widget display settings, see [Configure instance options for Help topics widget](instance-option-helpt.md).
 
 </td><td>
 
@@ -138,5 +138,5 @@ To learn more about configuring and using Core Business Suite, see:
 
 -   
 -   [Using Core Business Suite](cbs-using-parent.md)
--   [Core Business Suite reference](../reference/cbs-reference-parent.md)
+-   [Core Business Suite reference](cbs-reference-parent.md)
 

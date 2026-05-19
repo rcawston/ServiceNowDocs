@@ -70,5 +70,5 @@ Can manage territories, create new child territories and see how the territories
 |Territory|Reference|Multi select Input|Filter the report results based on a selected territory.|
 |Date|Date|Single select date|Filter the report based on the selected date.|
 
-**Parent Topic:**[Analytics and reporting for Field Service Management](../../../product/field-service-management/concept/analytics-reporting-fsm.md)
+**Parent Topic:**[Analytics and reporting for Field Service Management](analytics-reporting-fsm.md)
 

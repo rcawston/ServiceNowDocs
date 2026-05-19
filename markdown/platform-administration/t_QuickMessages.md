@@ -109,5 +109,5 @@ Content to insert in the **Message Text** field in the email client. By default,
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Composing emails with quick messages](../concept/quick-message.md)
+**Parent Topic:**[Composing emails with quick messages](quick-message.md)
 

@@ -42,7 +42,7 @@ Role required: sn\_apm.apm\_user
     The template data is downloaded in the selected file format.
 
 
-**Parent Topic:**[Working with the document templates](../../concept/eaw-concept/document-templates-for-ea.md)
+**Parent Topic:**[Working with the document templates](document-templates-for-ea.md)
 
 **Related topics**  
 
@@ -55,5 +55,5 @@ Role required: sn\_apm.apm\_user
 
 [View documents for a diagram](view-docs-for-diagram.md)
 
-[Manage architectural documents](../../concept/eaw-concept/manage-arch-documents.md)
+[Manage architectural documents](manage-arch-documents.md)
 

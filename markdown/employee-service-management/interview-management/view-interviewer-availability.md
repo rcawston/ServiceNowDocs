@@ -34,5 +34,5 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
     **Note:** You can only view the scheduling preferences if the interviewers have shared the details after you have requested for it. For more information, see [Request interviewer to share scheduling preferences](request-interviewer-availability.md).
 
 
-**Parent Topic:**[Using Interview Management](../concept/using-interview-mgmnt.md)
+**Parent Topic:**[Using Interview Management](using-interview-mgmnt.md)
 

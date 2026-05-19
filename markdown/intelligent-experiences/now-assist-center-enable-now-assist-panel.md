@@ -22,7 +22,7 @@ Role required: sn\_na\_center.nac\_admin
 
 The Now Assist panel must be enabled for administrators to use the conversational interface in Now Assist Center. When the panel is turned off, a banner appears on the home page notifying you that the conversational experience is unavailable, with a link to the settings page.
 
-For more information on the capabilities of Now Assist panel, see [Now Assist panel](../../now-assist-platform/concept/now-assist-panel-overview.md).
+For more information on the capabilities of Now Assist panel, see [Now Assist panel](now-assist-panel-overview.md).
 
 ## Procedure
 
@@ -41,12 +41,12 @@ For more information on the capabilities of Now Assist panel, see [Now Assist pa
 
 The Now Assist panel is enabled and available globally via the sparkle icon \(![Now Assist panel icon.](../image/icon-now-assist-center-panel-sparkle.png)\) in the Next Experience Unified Navigation. The panel understands where users are in the application and can personalize responses accordingly, streamlining the completion of tasks.
 
-**Parent Topic:**[Configuring Now Assist Center](../concept/configuring-now-assist-center.md)
+**Parent Topic:**[Configuring Now Assist Center](configuring-now-assist-center.md)
 
 **Related topics**  
 
 
 [Confirm installation of Now Assist Center](now-assist-center-install.md)
 
-[Set up automation discovery in Now Assist Center](../concept/now-assist-center-automation-discovery-setup.md)
+[Set up automation discovery in Now Assist Center](now-assist-center-automation-discovery-setup.md)
 

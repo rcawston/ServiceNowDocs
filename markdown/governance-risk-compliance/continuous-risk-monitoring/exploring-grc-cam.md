@@ -21,7 +21,7 @@ The CAM application applies a standardized approach to automating NIST's Risk Ma
 
 ## CAM users
 
-CAM roles that are required for particular tasks are listed in [CAM user roles](../reference/cam-roles-list.md).
+CAM roles that are required for particular tasks are listed in [CAM user roles](cam-roles-list.md).
 
 |User / Role|Description|
 |-----------|-----------|
@@ -48,11 +48,11 @@ To learn more about configuring and using CAM, see:
 
 -   [Configuring CAM](configuring-grc-cam.md)
 -   [RMF step 0 - Prepare the authorization package](prepare-auth-pkg.md)
--   [RMF step 1 - Categorize the authorization package](../task/categorize.md)
--   [RMF step 2 - Select controls for an authorization package](../task/select-controls.md)
--   [RMF step 3 - Implement controls](../task/implement-controls.md)
--   [RMF steps 4, 5, and 6 - Assess, authorize, and monitor](../task/assess-control-effectiveness.md)
+-   [RMF step 1 - Categorize the authorization package](categorize.md)
+-   [RMF step 2 - Select controls for an authorization package](select-controls.md)
+-   [RMF step 3 - Implement controls](implement-controls.md)
+-   [RMF steps 4, 5, and 6 - Assess, authorize, and monitor](assess-control-effectiveness.md)
 -   [Implementing controls and assessment objectives in CAM](cam-assessment-objectives.md)
--   [Continuous authorization and monitoring tasks in the CAM Workspace](../../grc-cam-workspace/concept/cam-ws-continuous-auth-monitor.md)
+-   [Continuous authorization and monitoring tasks in the CAM Workspace](../grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 -   [CAM reference](reference-grc-cam.md)
 

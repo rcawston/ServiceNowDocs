@@ -40,18 +40,18 @@ Role required: sn\_hr\_sp.esc\_admin
     -   The **Attachments** tab shows all attachments about the request.
 6.  Click **Actions** to search and select the required action group.
 
-    Select the actions to display the frequently used actions such as **Approve** or **Reject**. For more information, see [Action framework](../concept/action-group-framework.md).
+    Select the actions to display the frequently used actions such as **Approve** or **Reject**. For more information, see [Action framework](action-group-framework.md).
 
 7.  Click **Submit** or **Update**.
 
 
 ## Result
 
-Based on this configuration, the approvers see the in-context information about the Workday approval and process the approval. For more reference info, see [Approvals experience reference](../reference/approval-hub-ootb.md).
+Based on this configuration, the approvers see the in-context information about the Workday approval and process the approval. For more reference info, see [Approvals experience reference](approval-hub-ootb.md).
 
 ## What to do next
 
 Based on the configuration, the approver can see information and process the approvals. For more information, see [Use approval experience](ec-to-dos-use-approval-hub.md).
 
-**Parent Topic:**[Approvals hub integration with Workday](../concept/wd-ec-integration.md)
+**Parent Topic:**[Approvals hub integration with Workday](wd-ec-integration.md)
 

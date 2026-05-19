@@ -107,7 +107,7 @@ Implement the instance upgrade tasks for a successful upgrade on your instance.
 -   **[Implement post-upgrade activities on a non-prod instance](um-post-upgrade-activities.md)**  
 Implement the post-upgrade tasks for a successful upgrade completion on your instance.
 
-**Parent Topic:**[Configuring Upgrade Console](../concept/um-configure.md)
+**Parent Topic:**[Configuring Upgrade Console](um-configure.md)
 
 **Related topics**  
 

@@ -31,11 +31,11 @@ Follow these steps to create a single base page and generate all important compo
 
 2.  Create a theme.
 
-    The theme defines the structure of the layouts in CSS and the base styles, such as fonts and colors. For more information, see [Design themes](../concept/c_DesignThemes.md).
+    The theme defines the structure of the layouts in CSS and the base styles, such as fonts and colors. For more information, see [Design themes](c_DesignThemes.md).
 
 3.  Build the common blocks.
 
-    Pages are composed of content blocks. Most content blocks are reused on multiple pages. For the base template, create basic blocks such as a header, side navigation, and some basic content for the main content area of the page. More detailed content can be added later, but define content for reuse on many of the site pages here. For more information, see [Content blocks](../concept/c_ContentBlocks.md).
+    Pages are composed of content blocks. Most content blocks are reused on multiple pages. For the base template, create basic blocks such as a header, side navigation, and some basic content for the main content area of the page. More detailed content can be added later, but define content for reuse on many of the site pages here. For more information, see [Content blocks](c_ContentBlocks.md).
 
 4.  Build a site entry page.
 
@@ -50,5 +50,5 @@ Follow these steps to create a single base page and generate all important compo
     Create the site and apply the layout and theme to the site defaults. Then, navigate to the **All Pages** list and specify the base template site in the **Site** column for each of the base template pages. For more information, see [Create a site](t_CreateANewSite.md).
 
 
-**Parent Topic:**[Content Management templates](../concept/c_ContentManagementTemplates.md)
+**Parent Topic:**[Content Management templates](c_ContentManagementTemplates.md)
 

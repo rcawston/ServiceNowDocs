@@ -49,7 +49,7 @@ You can configure approval rules on the Outbound Intel record. These rules deter
     -   The assigned approver\(s\) will review the changes made by the analyst and choose to either approve or reject the request.
     -   After a decision is made, an email notification is sent to the user\(s\) or user group\(s\), indicating whether the record has been approved or rejected.
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 

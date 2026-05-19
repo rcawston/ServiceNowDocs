@@ -25,7 +25,7 @@ For general information about service catalogs, see [Service Catalog](https://ra
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## CatalogItem object
 

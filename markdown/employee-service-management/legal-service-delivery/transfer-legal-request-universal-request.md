@@ -102,5 +102,5 @@ Options for including additional comments and attachments from the legal ticket 
 -   The legal ticket is transferred to the selected department.
 -   The legal ticket no longer remains a primary ticket for the universal request.
 
-**Parent Topic:**[Universal Request for Legal Service Delivery](../concept/universal-requests-legal.md)
+**Parent Topic:**[Universal Request for Legal Service Delivery](universal-requests-legal.md)
 

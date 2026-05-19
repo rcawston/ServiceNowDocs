@@ -30,5 +30,5 @@ When a suite parent is detected during reconciliation, the suite components do n
 
 **Note:** Users with the model\_manager role can navigate to **Product Catalog** &gt; **Product Model** &gt; **Software Models**, but cannot administer all aspects of software models.
 
-**Parent Topic:**[Setting up Software Asset Management Foundation plugin](../task/t_SAMSetupSAMF.md)
+**Parent Topic:**[Setting up Software Asset Management Foundation plugin](t_SAMSetupSAMF.md)
 

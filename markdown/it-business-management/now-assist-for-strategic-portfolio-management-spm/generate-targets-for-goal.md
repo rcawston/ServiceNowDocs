@@ -48,7 +48,7 @@ The skill automatically populates key fields in the Target form, ensuring accura
 
 6.  On the form, verify the filed values and update them as needed.
 
-    For a description of the field values, see [Target form](../../spw-goals/reference/target-form-egm.md).
+    For a description of the field values, see [Target form](../scenario-planning-in-spw/target-form-egm.md).
 
 7.  Select **Save**.
 
@@ -63,12 +63,12 @@ The target progress records are automatically created when you save the target p
 
 ## What to do next
 
-[Update the progress of the target](../../spw-goals/task/update-progress-of-target-egm.md) manually if the target isn’t enabled for target automation.
+[Update the progress of the target](../scenario-planning-in-spw/update-progress-of-target-egm.md) manually if the target isn’t enabled for target automation.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Add targets for a goal in Strategic Planning](../../spw-goals/task/set-targets-for-goal-egm.md)
+[Add targets for a goal in Strategic Planning](../scenario-planning-in-spw/set-targets-for-goal-egm.md)
 

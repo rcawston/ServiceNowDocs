@@ -133,10 +133,10 @@ If UCF introduces new fields and content, administrators can use staging tables 
 |Default Control transform|Transforms data from the UCF Control staging table into the Control Objective table|
 |Control to Citation transform map|Transforms data from the UCF Citation to Control table into the Control Objective to Citation table|
 
--   **[Integrate with UCF Common Controls Hub to manage compliance frameworks](../concept/c_UCF.md)**  
+-   **[Integrate with UCF Common Controls Hub to manage compliance frameworks](c_UCF.md)**  
 Compliance administrators can download content from Network Frontiers Unified Compliance Framework \(UCF\) to use as GRC authority documents, citations, controls, and control objectives. The documents can be updated on pre-defined intervals. You must have a UCF Common Controls Hub account to create shared lists and import them into the ServiceNow® instance.
--   **[Elimination of duplicate citations from UCF Shared list download](../concept/ucf-deduplication-pc.md)**  
+-   **[Elimination of duplicate citations from UCF Shared list download](ucf-deduplication-pc.md)**  
 You can eliminate duplicate citations associated with the authority documents when you receive citations from UCF content as part of the same Shared list.
 
-**Parent Topic:**[Manage the UCF integration](../concept/manage_compliance_frameworks.md)
+**Parent Topic:**[Manage the UCF integration](manage_compliance_frameworks.md)
 

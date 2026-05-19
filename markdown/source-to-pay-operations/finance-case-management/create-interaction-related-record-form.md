@@ -33,7 +33,7 @@ Use the Create New Interaction Related Record form to provide details about the 
 
 [Interaction form](details-tab-fin-ops-interaction.md)
 
-[Email notifications from Finance Case Management](../concept/email-notifications-fin-case-mgmt.md)
+[Email notifications from Finance Case Management](email-notifications-fin-case-mgmt.md)
 
 [Create knowledge base article form](create-kb-form.md)
 

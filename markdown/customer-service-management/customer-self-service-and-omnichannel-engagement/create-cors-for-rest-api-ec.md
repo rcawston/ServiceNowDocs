@@ -22,7 +22,7 @@ Role required: admin
 You must complete the following tasks:
 
 -   [Configure Engagement Messenger](create-engagement-messenger-module.md).
--   [Create an identity provider \(IdP\) for Engagement Messenger](../concept/create-identity-providers-for-engagement-messenger.md).
+-   [Create an identity provider \(IdP\) for Engagement Messenger](create-identity-providers-for-engagement-messenger.md).
 
 ## About this task
 

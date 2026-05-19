@@ -43,7 +43,7 @@ A demand can have multiple stakeholders and a stakeholder can be associated with
     -   To update the details of an existing stakeholder, select the record.
 5.  On the Create New Demand Stakeholder form, fill in the fields.
 
-    For a description of the field names, see [Create stakeholder form](../reference/create-stakeholder-form-dw.md) form.
+    For a description of the field names, see [Create stakeholder form](create-stakeholder-form-dw.md) form.
 
 6.  Select **Save**.
 
@@ -59,7 +59,7 @@ A demand can have multiple stakeholders and a stakeholder can be associated with
 
 [Use Playbooks](use-playbooks-in-dw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages.md)
 
-[Create stakeholder form](../reference/create-stakeholder-form-dw.md)
+[Create stakeholder form](create-stakeholder-form-dw.md)
 

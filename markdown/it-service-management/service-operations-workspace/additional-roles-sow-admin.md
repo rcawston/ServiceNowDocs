@@ -216,12 +216,12 @@ Provides access to configurations related to Change Management in SOW Admin Cent
 -   itil
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Operations Workspace for ITSM reference](../concept/sow-reference.md)
+</table>**Parent Topic:**[Service Operations Workspace for ITSM reference](sow-reference.md)
 
 **Related topics**  
 
 
-[Terminology in Service Operations Workspace for ITSM](../concept/terminology-used-in-sow-for-itsm.md)
+[Terminology in Service Operations Workspace for ITSM](terminology-used-in-sow-for-itsm.md)
 
 [Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM](sow-itsm-itom-version.md)
 

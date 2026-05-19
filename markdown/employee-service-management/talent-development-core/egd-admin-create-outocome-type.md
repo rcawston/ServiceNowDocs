@@ -31,10 +31,10 @@ An **Outcome Type** is used to categorize activities into logical outcomes.
 
 3.  Complete the **Outcome Types** form.
 
-    Read details about the different fields in [Talent Outcome Types reference](../reference/egd-outcome-types-form.md)
+    Read details about the different fields in [Talent Outcome Types reference](egd-outcome-types-form.md)
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

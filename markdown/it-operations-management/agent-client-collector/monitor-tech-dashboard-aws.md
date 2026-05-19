@@ -25,8 +25,8 @@ To view the dashboard, navigate to **All** &gt; **AIOps Dashboards** &gt; **Moni
 
 Before using the Monitoring Technology Dashboard for AWS:
 
--   Create an AWS credential. For details on creating AWS credentials, see [Setting up AWS service accounts](../../it-operations-management/concept/setup-aws-service-accounts.md).
--   Create a Discovery schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [Access setup for AWS service accounts](../../it-operations-management/concept/access-aws-accounts.md).
+-   Create an AWS credential. For details on creating AWS credentials, see [Setting up AWS service accounts](../setup-aws-service-accounts.md).
+-   Create a Discovery schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [Access setup for AWS service accounts](../access-aws-accounts.md).
 -   Ensure that you’re working in the Agent Client Collector Monitoring scope in your ServiceNow instance.
 -   Ensure that the agent\_client\_collector\_admin and dashboard\_admin roles are enabled.
 -   Enable Metric Intelligence on the MID Server.
@@ -59,7 +59,7 @@ Use the **Time range filter** to filter the time range for which you want metric
 
 Use the **Metrics by selected CI filter** to select the CIs for which you want to view metrics.
 
-You can customize the appearance of the individual widgets on the AWS Monitoring Technology Dashboard. For example, you could change the time that the EC2 metrics appear. You can also include the customized widgets when you are creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](../task/customize-dashboard-widgets.md).
+You can customize the appearance of the individual widgets on the AWS Monitoring Technology Dashboard. For example, you could change the time that the EC2 metrics appear. You can also include the customized widgets when you are creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](customize-dashboard-widgets.md).
 
 **Parent Topic:**[Understanding the Monitoring Technology Dashboard](monitor-tech-dashboard-concept.md)
 

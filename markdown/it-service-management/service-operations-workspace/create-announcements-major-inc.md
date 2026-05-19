@@ -246,5 +246,5 @@ Portals that display the announcement. If this field is empty, the announcement 
 
 If the **Type** is **Banner**, test your announcement by navigating to the portal defined in the **Portals** field. If the **Type** is **Widget** or a custom type, test your announcement by navigating to the page with the associated widget instance.
 
-**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](../concept/communicating-with-stakeholders-sow.md)
+**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](communicating-with-stakeholders-sow.md)
 

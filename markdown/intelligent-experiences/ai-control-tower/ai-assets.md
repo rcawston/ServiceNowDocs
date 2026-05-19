@@ -21,9 +21,9 @@ For information on AI inventory, see [AI asset inventory](ai-inventory.md)
 
 For information on AI asset Lifecycle, see [AI asset lifecycle](ai-asset-lifecycle.md)
 
-For information on approval playbook workflow, see [Create an AI Control Tower Playbook workflow](../task/create-a-playbook-workflow-for-now-assist-approvals.md).
+For information on approval playbook workflow, see [Create an AI Control Tower Playbook workflow](create-a-playbook-workflow-for-now-assist-approvals.md).
 
-For information on creating Now Assist approvals task, see [Create a Now Assist approval task](../task/create-an-now-assist-approval-task.md).
+For information on creating Now Assist approvals task, see [Create a Now Assist approval task](create-an-now-assist-approval-task.md).
 
 For information on AI security tasks, see [AI Task](ai-task-all-security-tasks.md).
 

@@ -70,14 +70,14 @@ As an agent, you have access to the following modules and sub-modules:
     -   Invoices
     -   Payment terms
 
-**Parent Topic:**[Source-to-Pay Workspace list page](../../source-to-pay-operations/concept/source-to-pay-list-page.md)
+**Parent Topic:**[Source-to-Pay Workspace list page](source-to-pay-list-page.md)
 
 **Related topics**  
 
 
-[SPO list page](../../sourcing-procurement-operations/concept/procurement-specialist-list-page.md)
+[SPO list page](procurement-specialist-list-page.md)
 
-[SLO list page](../../supplier-lifecycle-operations/concept/supp-workspace-list-page.md)
+[SLO list page](supp-workspace-list-page.md)
 
-[POM list page](../../purchase-order-management/concept/pom-list-page.md)
+[POM list page](pom-list-page.md)
 

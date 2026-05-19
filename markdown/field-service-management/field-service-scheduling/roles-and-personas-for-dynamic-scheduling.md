@@ -26,5 +26,5 @@ The following personas and roles can implement and control access to dynamic sch
 **Related topics**  
 
 
-[Set up Dynamic Scheduling as scheduling mechanism](../task/dynamic-sched-config-field-service.md)
+[Set up Dynamic Scheduling as scheduling mechanism](dynamic-sched-config-field-service.md)
 

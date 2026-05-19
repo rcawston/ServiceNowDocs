@@ -26,5 +26,5 @@ Data collected by the Data Context Engine is used to calculate and maintain:
 -   Risk signals: Identify and generate risk signals.
 -   Success outcomes: Create success outcomes based on the collected data
 
-To collect and use data, you must set up a data source and link it to the appropriate context table \(engagement, success outcome, or product usage\). The Context Engine Data table stores this information and updates health scores, adoption metrics, risk signals, and success outcomes when scheduled jobs run. For more details, see [Set up the Data Context Engine](../task/account-lifecycle-setup-dce.md).
+To collect and use data, you must set up a data source and link it to the appropriate context table \(engagement, success outcome, or product usage\). The Context Engine Data table stores this information and updates health scores, adoption metrics, risk signals, and success outcomes when scheduled jobs run. For more details, see [Set up the Data Context Engine](account-lifecycle-setup-dce.md).
 

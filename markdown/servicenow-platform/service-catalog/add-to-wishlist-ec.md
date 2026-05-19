@@ -65,5 +65,5 @@ To navigate to the Service Catalog landing page, click **View the Catalog**.
     **Note:** This does not open a new instance of the item, but the instance that is in the wish list, where you can edit the details.
 
 
-**Parent Topic:**[Service Catalog in Employee Center portal](../concept/service-catalog-in-ec.md)
+**Parent Topic:**[Service Catalog in Employee Center portal](service-catalog-in-ec.md)
 

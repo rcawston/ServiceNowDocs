@@ -323,5 +323,5 @@ Previous status of the indicator to show whether the indicator passed or failed.
 
 The risk indicator is created and is ready to be executed.
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

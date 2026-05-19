@@ -38,5 +38,5 @@ An improvement initiative can be removed from the main or linked process in whic
 
 The initiative is removed from the refreshed initiatives list.
 
-**Parent Topic:**[Creating and tracking improvement initiatives](../../../product/benchmarks/task/initiatives-from-process-optimization.md)
+**Parent Topic:**[Creating and tracking improvement initiatives](initiatives-from-process-optimization.md)
 

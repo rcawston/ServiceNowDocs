@@ -84,5 +84,5 @@ Condition builder for specifying filter conditions that define the records to be
     The Table Cleaner scheduled job automatically runs the cleaner when the table records meet the specified record age and any conditions that you set for them.
 
 
-**Parent Topic:**[Data management in Conversational Interfaces](../concept/va-data-mgmt.md)
+**Parent Topic:**[Data management in Conversational Interfaces](va-data-mgmt.md)
 

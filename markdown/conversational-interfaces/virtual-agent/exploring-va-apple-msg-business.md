@@ -132,7 +132,7 @@ Users or live or virtual agents can send PDF documents during a chat.
 
 To learn more about configuring and using Conversational Integration with Apple Messages for Business, see:
 
--   [Configuring Conversational Integration with Apple Messages for Business](../task/messg-apple-configure.md)
+-   [Configuring Conversational Integration with Apple Messages for Business](messg-apple-configure.md)
 -   [Using Conversational Integration with Apple Messages for Business](messg-apple-using.md)
 
 **Parent Topic:**[Conversational Integration with Apple Messages for Business](integration-apple-mssg.md)

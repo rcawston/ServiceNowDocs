@@ -86,5 +86,5 @@ The subscription to Argo CD application events can be defined using the `notific
     For example, `notifications.argoproj.io/subscribe.on-sync-succeeded.sn_devops_argocd`.![Notification subscription.](../image/argocd-9.png)
 
 
-**Parent Topic:**[Argo CD integration with DevOps Change Velocity](../concept/argo-cd-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Argo CD integration with DevOps Change Velocity](argo-cd-integration-with-devops-change-velocity.md)
 

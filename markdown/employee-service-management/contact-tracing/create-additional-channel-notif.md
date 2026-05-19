@@ -118,5 +118,5 @@ When a notification is sent using a custom notification channel, a Delivery Logs
 2.  Open any failed channel record to review the error messages and fix errors that caused the notification to fail.
 3.  Continue testing the notification channel until the channel no longer fails.
 
-**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](../concept/set-up-privacy-consent-settings.md)
+**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](set-up-privacy-consent-settings.md)
 

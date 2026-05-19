@@ -64,7 +64,7 @@ Workplace Concierge then scans for the date and time, location, visitor type, at
 
 4.  Verify the details of the visit, then reply with a confirmation.
 
-    After you confirm the details, Workplace Concierge creates a visit and invites the visitors using the email addresses. For more information about visitor registrations, see [Registering a visitor](../../workplace-visitor-mgmt/concept/registerring-a-visitor.md).
+    After you confirm the details, Workplace Concierge creates a visit and invites the visitors using the email addresses. For more information about visitor registrations, see [Registering a visitor](../workplace-visitor-management/registerring-a-visitor.md).
 
 
 ## What to do next
@@ -73,5 +73,5 @@ Visitors can reply to the invitation email to provide information for their pre-
 
 If Workplace Concierge is included in any emails that are sent to the visitors, the Email Visitor Intake agent scans the email threads for relevant data and updates the visitor records.
 
-**Parent Topic:**[Workplace Concierge agentic workflow](../concept/workplace-concierge-ai-agent.md)
+**Parent Topic:**[Workplace Concierge agentic workflow](workplace-concierge-ai-agent.md)
 

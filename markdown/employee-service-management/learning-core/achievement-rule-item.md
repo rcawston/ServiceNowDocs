@@ -91,24 +91,24 @@ Order in which the achievement rule item appears.
 </table>5.  Select **Submit**.
 
 
-**Parent Topic:**[Manage Learning](../concept/manage-learning-achievements.md)
+**Parent Topic:**[Manage Learning](manage-learning-achievements.md)
 
 **Related topics**  
 
 
-[Create a content collection](../concept/create-content-collection.md)
+[Create a content collection](create-content-collection.md)
 
-[Create internal Learning content](../concept/create-internal-learning-content.md)
+[Create internal Learning content](create-internal-learning-content.md)
 
-[View external Learning content](../concept/view-external-learning-content.md)
+[View external Learning content](view-external-learning-content.md)
 
-[Create a learning library](../concept/create-learning-library.md)
+[Create a learning library](create-learning-library.md)
 
-[Create a learning task](../concept/create-learning-task.md)
+[Create a learning task](create-learning-task.md)
 
-[Create an achievement definition](../concept/create-achievement.md)
+[Create an achievement definition](create-achievement.md)
 
-[Create user achievements](../concept/create-user-achievements.md)
+[Create user achievements](create-user-achievements.md)
 
 [Create an achievement rule](create-achievement-rule.md)
 

@@ -20,11 +20,11 @@ Run the scheduled jobs and complete the Now Assist Readiness Evaluation guided s
 
 Before configuring the Now Assist Readiness Evaluation app, confirm that the Now Assist Readiness Evaluation app is installed. Navigate to **All** &gt; **System Definition** &gt; **Plugins**, and search for either the app name, `Now Assist Readiness Evaluation`, or app ID, `sn_assess`, to confirm.
 
-1.  [Run the GenAI/AgenticAI Assessment scheduled job](../task/run-genai-agenticai-assessment-scheduled-job.md)
+1.  [Run the GenAI/AgenticAI Assessment scheduled job](run-genai-agenticai-assessment-scheduled-job.md)
 
     Run the GenAI/AgenticAI Assessment scheduled job so that agentic and generative AI assessment results populate in **Workspaces** &gt; **Now Assist Readiness Evaluation**.
 
-2.  [Configure the Now Assist Readiness Evaluation guided setup](../task/configure-nare-guided-setup.md)
+2.  [Configure the Now Assist Readiness Evaluation guided setup](configure-nare-guided-setup.md)
 
     Complete the configuration for the five Now Assist jobs. Additional configuration is required to work with the Now Assist for HRSD assessment.
 

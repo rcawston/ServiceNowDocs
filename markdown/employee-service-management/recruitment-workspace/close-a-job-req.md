@@ -29,10 +29,10 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 4.  In the pop-up window, select **Cancel requisition** and select **Close**.
 
-    If a requisition is closed while it was on hold, the on hold state won't be retained. For more information, see [Job requisition state management](../reference/job-req-state-mngmnt.md).
+    If a requisition is closed while it was on hold, the on hold state won't be retained. For more information, see [Job requisition state management](job-req-state-mngmnt.md).
 
 
-**Parent Topic:**[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)
+**Parent Topic:**[Manage the job requisitions as a recruiter](manage-job-reqs.md)
 
 **Related topics**  
 

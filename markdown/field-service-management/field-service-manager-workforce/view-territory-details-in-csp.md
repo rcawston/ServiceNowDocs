@@ -21,7 +21,7 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner, sn\_fsm\_tp.fsm\_territory\_
 
 ## About this task
 
-The contextual side panel provides comprehensive details about territories, markers, shapes, and heatmaps. Administrators can configure the displayed fields to show precisely the information needed. For more information, see [Configure territory fields to appear in Territory Planning console](configure-fields-to-appear-in-contextual-side-panel.md).
+The contextual side panel provides comprehensive details about territories, markers, shapes, and heatmaps. Administrators can configure the displayed fields to show precisely the information needed. For more information, see [Configure territory fields to appear in Territory Planning console](../configure-fields-to-appear-in-contextual-side-panel.md).
 
 In the contextual side panel:
 

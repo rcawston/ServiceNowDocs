@@ -41,5 +41,5 @@ Users who do not have profile pictures are represented by an avatar with their i
 **Related topics**  
 
 
-[Update your Live Feed profile](../../live-feed/task/t_UpdateYourProfile.md)
+[Update your Live Feed profile](../live-feed/t_UpdateYourProfile.md)
 

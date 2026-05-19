@@ -26,12 +26,12 @@ Role required: admin
 2.  Search for **Project Advanced Security** and install it.
 
 
-**Parent Topic:**[Configuring security for a project in Project Workspace](../concept/configuring-security-for-a-project-in-pw.md)
+**Parent Topic:**[Configuring security for a project in Project Workspace](configuring-security-for-a-project-in-pw.md)
 
 **Related topics**  
 
 
-[Configuring security for a project in Project Workspace](../concept/configuring-security-for-a-project-in-pw.md)
+[Configuring security for a project in Project Workspace](configuring-security-for-a-project-in-pw.md)
 
 [Enable security for a project in Project Workspace](enable-security-for-a-project-in-project-workspace.md)
 

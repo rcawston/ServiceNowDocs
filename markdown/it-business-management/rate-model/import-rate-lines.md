@@ -29,7 +29,7 @@ After adding or updating rate lines in a file created using the [export function
 
 -   Overlapping effective dates for the same set of criteria values.
 -   Criteria values with no matching data in the system. For example, a rate line might have Business Analyst as the **Role** criteria but that role does not exist in the system.
--   Rates in non-functional \(non-default\) currency but no corresponding [budget reference rates](../../project-management/concept/c_BudgetReferenceRates.md) for the required period exist in the system.
+-   Rates in non-functional \(non-default\) currency but no corresponding [budget reference rates](../ppm-collaboration/c_BudgetReferenceRates.md) for the required period exist in the system.
 
 ## Procedure
 
@@ -58,5 +58,5 @@ After adding or updating rate lines in a file created using the [export function
 -   New rate lines are appended to the rate lines list in the rate model.
 -   Existing rate lines in the rate model are updated with the latest values.
 
-**Parent Topic:**[Rate Models](../concept/rate-model.md)
+**Parent Topic:**[Rate Models](rate-model.md)
 

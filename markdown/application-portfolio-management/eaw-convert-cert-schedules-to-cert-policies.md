@@ -50,7 +50,7 @@ This process converts the certification schedules into draft certification polic
     For more information, see [Publish a draft Data Manager policy](eaw-publish-a-draft-policy.md).
 
 
-**Parent Topic:**[Configure certification policies](../../concept/eaw-concept/eaw-setup-cert-policies.md)
+**Parent Topic:**[Configure certification policies](eaw-setup-cert-policies.md)
 
 **Related topics**  
 

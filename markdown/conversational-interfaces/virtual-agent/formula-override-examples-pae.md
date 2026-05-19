@@ -17,7 +17,7 @@ Use the following formula override example to craft your own formula overrides.
 
 ## Group End State definitions
 
-The end state of a conversation specifies how a conversation ended. For example, it could end with the user not responding, or the user closed the chat window. There are 12 default definitions of end state. For more information on conversation end states, see [Virtual Agent interaction records](../concept/va-interactions.md). The following script groups them as follows:
+The end state of a conversation specifies how a conversation ended. For example, it could end with the user not responding, or the user closed the chat window. There are 12 default definitions of end state. For more information on conversation end states, see [Virtual Agent interaction records](va-interactions.md). The following script groups them as follows:
 
 -   VA closed the chat session
     -   System Closed VA – User No Response
@@ -35,7 +35,7 @@ The end state of a conversation specifies how a conversation ended. For example,
     -   User Closed VA – Clicked End/X
     -   User Closed LA - Before Agent Engagement
 
-To create these groupings of the 12 end states, follow the instructions for [creating a formula override](../task/set-up-custom-definitions-pae.md) and use the following script.
+To create these groupings of the 12 end states, follow the instructions for [creating a formula override](set-up-custom-definitions-pae.md) and use the following script.
 
 ```
 (function calc(convGr) {
@@ -87,5 +87,5 @@ To create these groupings of the 12 end states, follow the instructions for [cre
 
 ```
 
-**Parent Topic:**[Create custom override definitions](../task/set-up-custom-definitions-pae.md)
+**Parent Topic:**[Create custom override definitions](set-up-custom-definitions-pae.md)
 

@@ -40,7 +40,7 @@ To copy just a few pages without duplicating all the resources \(CSS, blocks, me
     A progress bar shows the copy process. When the process is complete, the Site form shows information for the new site.
 
 
-**Parent Topic:**[Content sites](../concept/c_ContentSite.md)
+**Parent Topic:**[Content sites](c_ContentSite.md)
 
 **Related topics**  
 

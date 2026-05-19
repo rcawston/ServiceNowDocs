@@ -80,14 +80,14 @@ Load the demo data after installing Segment Management.1.  Install Segment Manag
 
 You have successfully installed the Segment Management \(com.snc.segment\_mgmt\) application. You can now set up the data model and configure different roles.
 
-**Parent Topic:**[Configure Segment Management](../concept/configure-segment-management.md)
+**Parent Topic:**[Configure Segment Management](configure-segment-management.md)
 
 **Related topics**  
 
 
-[Configure Segment Management](../concept/configure-segment-management.md)
+[Configure Segment Management](configure-segment-management.md)
 
-[Segment Management](../concept/segment-management.md)
+[Segment Management](segment-management.md)
 
-[Data model for Segment Management](../concept/data-model-for-segment-management.md)
+[Data model for Segment Management](data-model-for-segment-management.md)
 

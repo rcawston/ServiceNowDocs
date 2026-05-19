@@ -21,7 +21,7 @@ Role required: import\_admin
 
 ## About this task
 
-For additional information, see [JDBC type data source](../reference/r_JDBCTypeDataSource.md#).
+For additional information, see [JDBC type data source](r_JDBCTypeDataSource.md#).
 
 ## Procedure
 
@@ -85,7 +85,7 @@ Import connection alias
 
 </td><td>
 
-Connection alias to use to connect to this data source. For additional details, see [Create an import connection alias](../reference/r_JDBCTypeDataSource.md#).
+Connection alias to use to connect to this data source. For additional details, see [Create an import connection alias](r_JDBCTypeDataSource.md#).
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ Use integrated authentication
 
 </td><td>
 
-Selected to allow the JDBC connection to use the ID of the user configured for the Windows MID Server service for SQL Server authentication. For additional details, see [JDBC type data source](../reference/r_JDBCTypeDataSource.md#).
+Selected to allow the JDBC connection to use the ID of the user configured for the Windows MID Server service for SQL Server authentication. For additional details, see [JDBC type data source](r_JDBCTypeDataSource.md#).
 
 </td></tr><tr><td>
 
@@ -261,5 +261,5 @@ Optional parameters to add to the end of the URL generated for this data source.
 
 Define a transform map for the new data source and run an import.
 
-**Parent Topic:**[Create a data source](../concept/c_CreateNewDataSource.md)
+**Parent Topic:**[Create a data source](c_CreateNewDataSource.md)
 

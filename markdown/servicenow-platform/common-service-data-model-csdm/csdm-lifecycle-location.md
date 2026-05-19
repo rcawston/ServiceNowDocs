@@ -17,7 +17,7 @@ The values for the location life-cycle process reflect the locations used by you
 
 ## Life-cycle values for location entities
 
-For definitions of the values, see [Definitions of life-cycle values for location entities](../reference/csdm-lifecycle-df-location.md).
+For definitions of the values, see [Definitions of life-cycle values for location entities](csdm-lifecycle-df-location.md).
 
 ![Relationships between CSDM stages and life cycle values.](../image/csdm-lifecycle-vp-location.png)
 
@@ -25,7 +25,7 @@ For definitions of the values, see [Definitions of life-cycle values for locatio
 
 For additional information on how you can benefit from implementing life-cycle value pairs for CMDB entities, see the ['Map existing status values to CSDM life-cycle value pairs' section in the 'Foundation domain' topic](foundation-domain.md).
 
--   **[Definitions of life-cycle values for location entities](../reference/csdm-lifecycle-df-location.md)**  
+-   **[Definitions of life-cycle values for location entities](csdm-lifecycle-df-location.md)**  
 The values for the location life-cycle process reflect the locations used by your organization and are visible only in the common data locations table.
 
 **Parent Topic:**[CSDM reference](csdm-content-frame-reference.md)
@@ -33,5 +33,5 @@ The values for the location life-cycle process reflect the locations used by you
 **Related topics**  
 
 
-[Definitions of life-cycle values for location entities](../reference/csdm-lifecycle-df-location.md)
+[Definitions of life-cycle values for location entities](csdm-lifecycle-df-location.md)
 

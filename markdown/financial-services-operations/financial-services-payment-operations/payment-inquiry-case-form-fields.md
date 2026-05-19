@@ -397,5 +397,5 @@ Financial transaction that the receiving customer or account received.You can as
 |Correct send to – Sort/Routing number|Sort or routing number the payment was supposed to be sent to. This field appears only for the Payment in Error inquiry type.|
 |Customer reason|List of reasons why the customer opened the payment inquiry.|
 
-**Parent Topic:**[Financial Services Payment Operations reference](../concept/payment-operations-reference.md)
+**Parent Topic:**[Financial Services Payment Operations reference](payment-operations-reference.md)
 

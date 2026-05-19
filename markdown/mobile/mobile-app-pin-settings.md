@@ -24,12 +24,12 @@ A security PIN is a 6-digit code you must enter for added security. When this fe
 
 If your mobile device uses faceID, touchID, or similar biometric security, you can use biometric authentication in place of the PIN.
 
-For information for administrators on PIN settings for your instance, see [Require an app PIN for the mobile app](../task/require-app-pin.md).
+For information for administrators on PIN settings for your instance, see [Require an app PIN for the mobile app](require-app-pin.md).
 
--   **[Create a PIN for a mobile app](../task/config-app-pin-user.md)**  
+-   **[Create a PIN for a mobile app](config-app-pin-user.md)**  
 Create a PIN for your mobile app.
--   **[Change your PIN for a mobile app](../task/change-app-pin-user.md)**  
+-   **[Change your PIN for a mobile app](change-app-pin-user.md)**  
 Change the pin for your ServiceNow mobile apps.
--   **[Remove your PIN from a mobile app](../task/remove-app-pin-user.md)**  
+-   **[Remove your PIN from a mobile app](remove-app-pin-user.md)**  
 Remove the pin from a ServiceNow mobile app.
 

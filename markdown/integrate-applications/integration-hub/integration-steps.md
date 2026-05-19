@@ -39,7 +39,7 @@ Step runs from
 
 </th></tr></thead><tbody><tr><td>
 
-[JDBC step](../../flow-designer/reference/jdbc-step.md)
+[JDBC step](jdbc-step.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ MID Server
 
 </td></tr><tr><td>
 
-[JSON Builder step](../../flow-designer/reference/json-build-step-action-designer.md)
+[JSON Builder step](json-build-step-action-designer.md)
 
 </td><td>
 
@@ -63,7 +63,7 @@ Instance
 
 </td></tr><tr><td>
 
-[Payload Builder step](../../flow-designer/reference/payload-build-step-action-designer.md)
+[Payload Builder step](payload-build-step-action-designer.md)
 
 </td><td>
 
@@ -76,7 +76,7 @@ Enable action designers to easily create name-value pairs in JSON and XML payloa
 
 </td></tr><tr><td>
 
-[PowerShell step](../../flow-designer/reference/powershell-step-action-designer.md)
+[PowerShell step](powershell-step-action-designer.md)
 
 </td><td>
 
@@ -88,7 +88,7 @@ MID Server
 
 </td></tr><tr><td>
 
-[REST step](../../flow-designer/reference/rest-request-action-designer.md)
+[REST step](rest-request-action-designer.md)
 
 </td><td>
 
@@ -101,7 +101,7 @@ Send an outbound REST web service request to an external system.
 
 </td></tr><tr><td>
 
-[SOAP step](../../flow-designer/reference/soap-step-action-designer.md)
+[SOAP step](soap-step-action-designer.md)
 
 </td><td>
 
@@ -114,7 +114,7 @@ Enable action designers to send outbound SOAP web service requests to external s
 
 </td></tr><tr><td>
 
-[SSH step](../../flow-designer/reference/ssh-step-action-designer.md)
+[SSH step](ssh-step-action-designer.md)
 
 </td><td>
 
@@ -126,7 +126,7 @@ MID Server
 
 </td></tr><tr><td>
 
-[XML parser step](../../flow-designer/reference/xml-parser-step-action-designer.md)
+[XML parser step](xml-parser-step-action-designer.md)
 
 </td><td>
 

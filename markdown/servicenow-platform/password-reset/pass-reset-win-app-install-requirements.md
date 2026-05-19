@@ -83,5 +83,5 @@ Supported network architecture
 -   To reset an AD password, the client must be on the corporate network.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Installing and configuring Password Reset Windows Application](../concept/install-configure-password-reset-windows-app.md)
+</table>**Parent Topic:**[Installing and configuring Password Reset Windows Application](install-configure-password-reset-windows-app.md)
 

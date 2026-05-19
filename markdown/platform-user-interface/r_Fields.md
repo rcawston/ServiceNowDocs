@@ -57,13 +57,13 @@ Context menu
 
 Also called a right-click menu, offers several options, including:
 
--   [Quick filter](../concept/c_QuickFilters.md) options, such as **Show Matching** and **Filter Out**.
+-   [Quick filter](c_QuickFilters.md) options, such as **Show Matching** and **Filter Out**.
 -   The option to copy the record URL to the clipboard.
 -   The option to copy the sys\_id of the record to the clipboard \(administrators only\).
 -   [Quick edit](r_MethodsForListEdits.md) options, such as **Assign to me**, **Approve**, and **Reject**.
--   The option to edit the record [tags](../../common-ui-elements/concept/c_Tags.md), which provide quick access to frequently referenced or urgent information. When a tag is assigned to a record, the record is displayed on the Tagged Documents page.
--   Options specific to features such as [Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_GetStartedWithLiveFeed.md) and [Visual Task Boards](../../visual-task-boards/concept/c_VisualTaskBoards.md).
+-   The option to edit the record [tags](c_Tags.md), which provide quick access to frequently referenced or urgent information. When a tag is assigned to a record, the record is displayed on the Tagged Documents page.
+-   Options specific to features such as [Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_GetStartedWithLiveFeed.md) and [Visual Task Boards](visual-task-boards/c_VisualTaskBoards.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Lists in the classic environment](../concept/c_UseLists.md)
+</table>**Parent Topic:**[Lists in the classic environment](c_UseLists.md)
 

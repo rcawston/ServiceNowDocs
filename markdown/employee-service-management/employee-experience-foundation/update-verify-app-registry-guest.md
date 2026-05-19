@@ -95,5 +95,5 @@ Redirect the URL that includes your ServiceNow for Microsoft Teams instance URL 
 8.  Repeat this procedure for the Microsoft Teams Chat App Permission ST application registry.
 
 
-**Parent Topic:**[Request-based chat access for a guest user](../concept/guest-user-chat-access-st.md)
+**Parent Topic:**[Request-based chat access for a guest user](guest-user-chat-access-st.md)
 

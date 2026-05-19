@@ -44,11 +44,11 @@ The following are examples on how you can use the Service Graph Connector for Qu
 
 ## Guided Setup
 
-The guided setup for the Service Graph Connector for Qualys provides you with an organized sequence of tasks to configure the integration on your instance. For instructions, see [Configure the Service Graph Connector for Qualys](../task/sgc-qualys-configure.md).
+The guided setup for the Service Graph Connector for Qualys provides you with an organized sequence of tasks to configure the integration on your instance. For instructions, see [Configure the Service Graph Connector for Qualys](sgc-qualys-configure.md).
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Qualys integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../../../configuration-management/concept/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Qualys integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Hardware CI Rules
 

@@ -43,7 +43,7 @@ Role required: sam\_user or sam\_admin
 
 ## What to do next
 
-Run a reconciliation to include the new reserve entitlement in the true-up cost calculation. Navigate to **Software Asset** &gt; **Office 365 &amp; Adobe Cloud** to view the [Office 365 &amp; Adobe Cloud dashboard](../reference/dashboard-microsoft.md). The cost of the reserve entitlement is included in True-up Cost and is not included in Current Subscription Spend.
+Run a reconciliation to include the new reserve entitlement in the true-up cost calculation. Navigate to **Software Asset** &gt; **Office 365 &amp; Adobe Cloud** to view the [Office 365 &amp; Adobe Cloud dashboard](dashboard-microsoft.md). The cost of the reserve entitlement is included in True-up Cost and is not included in Current Subscription Spend.
 
 When you pass the end date of the reserve entitlement, the SAM - Subscription Maintenance scheduled job creates a new entitlement to replace it.
 

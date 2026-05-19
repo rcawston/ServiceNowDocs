@@ -100,7 +100,7 @@ Use filter facets to refine your search results. The selections you make filter 
 -   Resource: lists the types of items available, such as knowledge articles
 -   Rating: lists article ratings from 0-5 stars \(clicking a rating displays articles that have the selected rating and higher\)
 -   Last Modified: lists selections based on the timing of knowledge item modifications such as Past Month or Past Week
--   View Count: lists the knowledge item view counts such as More Than 50 or Less Than 10. Set the number of days to consider when calculating view count using the **glide.knowman.view\_age.days** property. For more information on this property, see [Knowledge portal properties](../reference/r_KnowledgeProperties.md#).
+-   View Count: lists the knowledge item view counts such as More Than 50 or Less Than 10. Set the number of days to consider when calculating view count using the **glide.knowman.view\_age.days** property. For more information on this property, see [Knowledge portal properties](r_KnowledgeProperties.md#).
 
 </td></tr><tr><td>
 

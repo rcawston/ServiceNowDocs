@@ -32,5 +32,5 @@ Role required: itil, sn\_change\_read, sn\_request\_read
 5.  Select **Reject** to reject the request.
 
 
-**Parent Topic:**[Request Management in Service Operations Workspace](../concept/request-sow.md)
+**Parent Topic:**[Request Management in Service Operations Workspace](request-sow.md)
 

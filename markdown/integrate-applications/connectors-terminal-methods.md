@@ -18,5 +18,5 @@ Use the IBM Personal Communications emulator methods to perform various automati
 -   **[Rocket BlueZone emulator methods](bluezone-emulator-methods.md)**  
 Use the Rocket BlueZone emulator methods to perform various automation tasks on the Rocket BlueZone emulator.
 
-**Parent Topic:**[Terminal \(Mainframe\) connector](../concept/terminal-connector.md)
+**Parent Topic:**[Terminal \(Mainframe\) connector](terminal-connector.md)
 

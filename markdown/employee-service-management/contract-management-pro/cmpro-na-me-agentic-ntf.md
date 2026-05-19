@@ -44,7 +44,7 @@ The **AgenticAIMetadata extraction - Completed** and **AgenticAIObligationExtrac
 
 [Configure the workspace URL for contract metadata extraction notifications](cncore-config-ext-wrkspc-email.md)
 
-**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](cmpro-conf-agentic-workflow.md)
 
 **Related topics**  
 

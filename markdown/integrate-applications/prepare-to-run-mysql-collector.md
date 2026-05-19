@@ -43,5 +43,5 @@ Configure a MySQL user with the minimum required permissions for metadata harves
     -   SHOW VIEW: View definition access
     -   EXECUTE: Stored procedure and function access
 
-**Parent Topic:**[MySQL metadata collector](../concept/mysql-metadata-collector.md)
+**Parent Topic:**[MySQL metadata collector](mysql-metadata-collector.md)
 

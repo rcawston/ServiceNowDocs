@@ -84,11 +84,11 @@ Observed data
 This relationship describes that the indicator is created based on information from an observed data object.An example of an object-observable defined relationship is that an infrastructure consists of cyber observable objects which provides information of a potential attack.
 
 </td></tr></tbody>
-</table>-   **[Define object-object relationships](../task/define-object-object.md)**  
+</table>-   **[Define object-object relationships](define-object-object.md)**  
 Define relationships between SDOs, except the indicator object.
--   **[Define object-indicator relationships](../task/define-object-indicator.md)**  
+-   **[Define object-indicator relationships](define-object-indicator.md)**  
 Define relationships between the indicator object and other SDOs.
--   **[Define object-observable relationships](../task/define-object-observable.md)**  
+-   **[Define object-observable relationships](define-object-observable.md)**  
 Define relationships between SDOs and the observable object \(SCO\).
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

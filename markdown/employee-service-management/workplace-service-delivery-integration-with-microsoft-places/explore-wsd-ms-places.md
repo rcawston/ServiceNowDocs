@@ -29,10 +29,10 @@ As a workplace user, the application enables you to perform the following action
 -   You can create a **Catering** service request from **Reservation services**.
 -   You can create service requests like **Badge request**, **Heating &amp; Cooling**, **Tech support**, and **Cleaning** requests from **Site services**.
 
-For more information about raising service requests, refer to [Requesting a workplace service](../../workplace-case-mgmt/concept/request-workplace-services.md).
+For more information about raising service requests, refer to [Requesting a workplace service](../workplace-case-management/request-workplace-services.md).
 
 **Related topics**  
 
 
-[WSD for Microsoft places- Key features and actions](../references/wsd-for-ms-places-key-features-and-actions.md)
+[WSD for Microsoft places- Key features and actions](wsd-for-ms-places-key-features-and-actions.md)
 

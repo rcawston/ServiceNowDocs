@@ -33,7 +33,7 @@ You can create a diagram with the combination of CSDM and ArchiMate shapes or yo
 
 5.  On the Create a business capability map form, fill in the details.
 
-    For field information, see [Create a business hierarchy map form](../../reference/eaw-reference/eaw-modeling-create-ba-map-form.md).
+    For field information, see [Create a business hierarchy map form](eaw-modeling-create-ba-map-form.md).
 
 6.  Select **Create diagram**.
 
@@ -51,7 +51,7 @@ You can create a diagram with the combination of CSDM and ArchiMate shapes or yo
     -   **Create new**- Select this radio button to create a new CI for the selected shape.
 9.  Select a connector line to update the relationship type.
 
-    The Relationship side panel opens. Select a **Value** and **ArchiMate relationship type**. For more information on the ArchiMate shapes and relationships, see [ArchiMate shapes support in the Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-modeling-archimate.md).
+    The Relationship side panel opens. Select a **Value** and **ArchiMate relationship type**. For more information on the ArchiMate shapes and relationships, see [ArchiMate shapes support in the Enterprise Modeling and Visualization](eaw-modeling-archimate.md).
 
 10. Select a shape and add related records for the shape by selecting the ![Add related records](../../image/eaw-image/modeling/icon-add-related-records.png) icon.
 
@@ -75,12 +75,12 @@ You can create a diagram with the combination of CSDM and ArchiMate shapes or yo
     -   **Duplicate**: Select this option to duplicate the diagram. For more information, see [Duplicate a modeling diagram](eaw-modeling-duplicate.md).
     -   **Submit for approval**: Select this option to submit the diagram for approval. The approval process can be done through a configured workflow. By default, the approval request is submitted to the Enterprise Architect group. For more information, see [Submit a modeling diagram for approval](eaw-modeling-submit-for-approval.md).
 
-**Parent Topic:**[Working with ArchiMate Shapes](../../concept/eaw-concept/eaw-work-with-archimate-shapes.md)
+**Parent Topic:**[Working with ArchiMate Shapes](eaw-work-with-archimate-shapes.md)
 
 **Related topics**  
 
 
-[ArchiMate shapes support in the Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-modeling-archimate.md)
+[ArchiMate shapes support in the Enterprise Modeling and Visualization](eaw-modeling-archimate.md)
 
-[ArchiMate shapes](../../reference/eaw-reference/eaw-modeling-archimate-shapes.md)
+[ArchiMate shapes](eaw-modeling-archimate-shapes.md)
 

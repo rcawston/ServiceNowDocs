@@ -27,5 +27,5 @@ The following roles are installed with the GRC: Metrics application.
 |sn\_grc\_metric.user|This role is primarily assigned to data owners, enabling them to respond to manual metric data entry tasks. Typically, these users are from the business and hold ownership responsibilities within the organization.|sn\_grc.reader, sn\_grc\_metric.reader|
 |sn\_grc\_metric.developer|Users with this role possess the privilege to write and edit the script for data collection automated metric definition.|None|
 
-**Parent Topic:**[GRC: Metrics reference](../concept/grc-metrics-reference-irm.md)
+**Parent Topic:**[GRC: Metrics reference](grc-metrics-reference-irm.md)
 

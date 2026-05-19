@@ -265,7 +265,7 @@ Description
 
 </td><td>
 
-Unique description of the application.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](../../../now-assist-ea/task/elaborate-or-shorten-content-form-fields.md).
+Unique description of the application.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](elaborate-or-shorten-content-form-fields.md).
 
 </td></tr><tr><td>
 
@@ -326,7 +326,7 @@ Reasoning
 
 </td><td>
 
-Reason for the planned disposition decision.You can also generate, elaborate, or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](../../../now-assist-ea/task/elaborate-or-shorten-content-form-fields.md).
+Reason for the planned disposition decision.You can also generate, elaborate, or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](elaborate-or-shorten-content-form-fields.md).
 
 </td></tr></tbody>
 </table><table id="table_t2q_xvt_ncc"><thead><tr><th>
@@ -456,7 +456,7 @@ Status of the application that it meets requirements or complies with the polici
 **Related topics**  
 
 
-[Add or edit a business application](../../task/eaw-task/eaw-create-business-app.md)
+[Add or edit a business application](eaw-create-business-app.md)
 
-[Create a business application and associate it with a Technology Reference Model product](../../task/eaw-task/eaw-create-ba-and-assoc-with-trm-product.md)
+[Create a business application and associate it with a Technology Reference Model product](eaw-create-ba-and-assoc-with-trm-product.md)
 

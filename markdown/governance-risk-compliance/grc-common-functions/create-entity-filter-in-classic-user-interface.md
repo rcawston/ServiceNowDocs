@@ -95,5 +95,5 @@ Option to use **Owner** field information in the query. The owner is the identif
 </table>4.  To save the entity filter, click **Submit**.
 
 
-**Parent Topic:**[Entity filters](../concept/what-is-an-entity-filter.md)
+**Parent Topic:**[Entity filters](what-is-an-entity-filter.md)
 

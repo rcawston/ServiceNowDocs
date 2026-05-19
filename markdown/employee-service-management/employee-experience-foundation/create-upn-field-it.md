@@ -84,5 +84,5 @@ Role required: admin
     **Note:** Ensure that the email address for all the users for the newly created field is updated with the email associated with Microsoft Teams app.
 
 
-**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](../concept/sn-ms-teams-config-it.md)
+**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](sn-ms-teams-config-it.md)
 

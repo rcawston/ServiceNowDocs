@@ -28,7 +28,7 @@ The App Engine Management Center \(AEMC\) is designed to empower App Engine admi
 
 -   **[Managing app development using the App Engine Management Center](managing-app-development-using-aemc.md)**  
 Track and manage requests, deployments, applications, and collaborative developers for your custom applications using the App Engine Management Center \(AEMC\) in your production instance.
--   **[Managing deployments using Pipelines and Deployments](../../app-engine-studio/concept/manage-deployments-using-p-and-d-aemc.md)**  
+-   **[Managing deployments using Pipelines and Deployments](manage-deployments-using-p-and-d-aemc.md)**  
 Manage deployments using Pipelines and Deployments in the App Engine Management Center \(AEMC\).
 
 **Parent Topic:**[App Engine Management Center](app-engine-management-center.md)

@@ -21,7 +21,7 @@ Conversational SMS Integration with Twilio enables users to initiate conversatio
 
 If a bot transfers the conversation to a live agent, the agent can respond to SMS messages in Agent Workspace.
 
-After you set up the Conversational SMS Integration with Twilio, you can create SMS conversation topics in Virtual Agent Designer. For more information about using the tool, see [Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md).
+After you set up the Conversational SMS Integration with Twilio, you can create SMS conversation topics in Virtual Agent Designer. For more information about using the tool, see [Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md).
 
 ## Capturing information from a user in an SMS chat conversation
 
@@ -90,7 +90,7 @@ User sends a file to the bot.**Note:** Conversational SMS Integration with Twili
 ![The bot displays an example image that indicates the serial number location. The user uploads a photo of their product's serial number.](../images/sms-image-input.png)
 
 </td></tr></tbody>
-</table>For more information on configuring user input controls, see [Virtual Agent Designer user input controls](../reference/va-user-inputs.md).
+</table>For more information on configuring user input controls, see [Virtual Agent Designer user input controls](va-user-inputs.md).
 
 The following bot responses are supported in Twilio SMS conversations:
 
@@ -135,7 +135,7 @@ Card
 Bot sends selected information from a record on your instance. ![When the user says their router is on fire, the bot creates a case and sends the card with the number, priority, assigned agent, and a link.](../images/sms-bot-card.png)
 
 </td></tr></tbody>
-</table>For more information on configuring bot responses, see [Virtual Agent Designer bot responses](../reference/va-bot-responses.md).
+</table>For more information on configuring bot responses, see [Virtual Agent Designer bot responses](va-bot-responses.md).
 
 Live agents can use the Text, Card, and Image response controls to reply to users in SMS conversations.
 
@@ -155,7 +155,7 @@ To comply with privacy regulations, user notifications are turned off by default
 
 To learn more about Virtual Agent notifications, see [Configuring Virtual Agent notifications](configuring-va-notifications.md).
 
-For details about creating content for a messaging notification, see [Define Virtual Agent notification contents](../task/define-va-notif-contents.md).
+For details about creating content for a messaging notification, see [Define Virtual Agent notification contents](define-va-notif-contents.md).
 
 ## What to explore next
 

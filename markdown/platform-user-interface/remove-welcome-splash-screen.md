@@ -93,12 +93,12 @@ Select this check box to apply this user preference system wide.
     **Note:** In the User Preferences table, verify that there is only one user preference record where the **System** field and **Value** field is set to `true`.
 
 
-**Parent Topic:**[User preferences](../concept/c_UserPreferences.md)
+**Parent Topic:**[User preferences](c_UserPreferences.md)
 
 **Related topics**  
 
 
-[User preference settings](../reference/r_UserPreferenceSettings.md)
+[User preference settings](r_UserPreferenceSettings.md)
 
 [Configure available keyboard shortcuts](configure-keyboard-shortcuts.md)
 

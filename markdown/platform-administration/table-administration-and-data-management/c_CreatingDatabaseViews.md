@@ -23,23 +23,23 @@ Create the database view.
 Specify the table to join to the database view.
 3.  [Example left join in creating a database view](example-left-join-db-view.md)  
 This example shows the proper settings when using left-joins to add tables to a database view.
-4.  [Specify a field to return](../concept/c_SpecifyAFieldToReturn.md)  
+4.  [Specify a field to return](c_SpecifyAFieldToReturn.md)  
 Restrict or specify a field that you want returned by the joined table.
 5.  [Relabel a column](t_RelabelAColumn.md)  
 Sometimes, two different tables may have fields of the same name that are both important \(such as two tables with a sys\_updated\_on field\). For clarity, relabel one of the fields.
-6.  [Configuring the number of records to return](../concept/c_SpecifyTheNumberOfRecordsToReturn.md)  
+6.  [Configuring the number of records to return](c_SpecifyTheNumberOfRecordsToReturn.md)  
 Specify the number of records to return for a database view when the view is used in a script.
 7.  [Test the database view](t_TestTheDatabaseView.md)  
 Verify that the database view works correctly.
 
-**Parent Topic:**[Working with database views for reporting](../concept/c_DatabaseViews.md)
+**Parent Topic:**[Working with database views for reporting](c_DatabaseViews.md)
 
 **Related topics**  
 
 
 [Displaying function results in a database view](displaying-function-results-in-a-database-view.md)
 
-[Using disjunctions in complex queries](../concept/c_UseDisjunctionsInComplexQueries.md)
+[Using disjunctions in complex queries](c_UseDisjunctionsInComplexQueries.md)
 
-[Database views in the base system](../reference/r_DatabaseViewsInTheBaseSystem.md)
+[Database views in the base system](r_DatabaseViewsInTheBaseSystem.md)
 

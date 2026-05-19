@@ -27,11 +27,11 @@ A table is a collection of records in the database. Each record corresponds to a
 
 </td></tr><tr><td>
 
-[Work with the Task table![](../../../reuse/icons/brand-icons/bus-datasheet.svg)Use the Task table to track task-specific functions, and connect with Incident and Problem tables.](../../task-table/concept/c_TaskTable.md)
+[Work with the Task table![](../../../reuse/icons/brand-icons/bus-datasheet.svg)Use the Task table to track task-specific functions, and connect with Incident and Problem tables.](c_TaskTable.md)
 
 </td><td>
 
-[Create database views![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Create database views for reporting purposes.](../../../use/reporting/concept/c_DatabaseViews.md)
+[Create database views![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Create database views for reporting purposes.](c_DatabaseViews.md)
 
 </td></tr></tbody>
 </table>

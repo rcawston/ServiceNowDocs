@@ -21,9 +21,9 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 You can create a similar tasks group and add tasks to it only in the **Draft** state of the event.
 
-For information on identifying and grouping duplicate event tasks, see [Creating similar tasks groups](../concept/identifying-running-dup-tasks-once.md).
+For information on identifying and grouping duplicate event tasks, see [Creating similar tasks groups](identifying-running-dup-tasks-once.md).
 
-For information on the state changes for event tasks in similar tasks groups, see [State changes for event tasks in groups](../concept/transition-states-of-event-task.md).
+For information on the state changes for event tasks in similar tasks groups, see [State changes for event tasks in groups](transition-states-of-event-task.md).
 
 ## Procedure
 
@@ -67,5 +67,5 @@ For information on the state changes for event tasks in similar tasks groups, se
     The event task is deleted from the event.
 
 
-**Parent Topic:**[Structured workflows for crisis events](../concept/perform-tasks-to-manage-crisis-events.md)
+**Parent Topic:**[Structured workflows for crisis events](perform-tasks-to-manage-crisis-events.md)
 

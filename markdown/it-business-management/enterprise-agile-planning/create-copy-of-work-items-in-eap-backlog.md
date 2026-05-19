@@ -40,14 +40,14 @@ A copy of the selected work item is created, with the information in the require
 
 ## What to do next
 
-From the full details page of the work item, you can refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../../now-assist-spm/task/refine-text-with-write-planning-item-skill.md). This feature requires activating the Write planning item skill of Now Assist for SPM. For more information, see .
+From the full details page of the work item, you can refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md). This feature requires activating the Write planning item skill of Now Assist for SPM. For more information, see .
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 
 **Related topics**  
 
 
-[Manage team backlog in EAP](../concept/using-eap.md)
+[Manage team backlog in EAP](using-eap.md)
 
 [Schedule work items into iterations in EAP Backlog](schedule-work-items-into-iterations-in-eap-backlog.md)
 

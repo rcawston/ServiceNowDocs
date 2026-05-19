@@ -26,5 +26,5 @@ Field description to add a new communication plan.
 |Description|Detailed description of the plan definition.|
 |Condition|Condition under which a communication plan gets attached to a table.|
 
-**Parent Topic:**[Critical Event Management reference](../concept/critical-event-management-reference.md)
+**Parent Topic:**[Critical Event Management reference](critical-event-management-reference.md)
 

@@ -54,10 +54,10 @@ Retired
 Bot process is inactive. After you retire a bot process, you cannot change the stage.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring a bot process record in RPA Hub](../concept/create-botprocess.md)
+</table>**Parent Topic:**[Configuring a bot process record in RPA Hub](create-botprocess.md)
 
 **Related topics**  
 
 
-[Configuring a bot process record in RPA Hub](../concept/create-botprocess.md)
+[Configuring a bot process record in RPA Hub](create-botprocess.md)
 

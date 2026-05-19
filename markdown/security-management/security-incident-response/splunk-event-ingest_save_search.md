@@ -105,5 +105,5 @@ Add actions to trigger this alert. Expand the Add choice list and click **Add to
 
 You have successfully completed the required setup for the integration in your Splunk Enterprise console. If you have not already installed the application for the integration from the ServiceNow Store, the next step is to install the application for the integration and configure it.
 
-**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](../concept/splunk-event-ingest-integration-architecture.md)
+**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-integration-architecture.md)
 

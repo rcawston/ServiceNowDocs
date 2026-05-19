@@ -36,5 +36,5 @@ Space planners can do the following while moving a reservation in the Event plan
     **Note:** Space planners can’t move a shift-based reservation to a different shift-based module. When a space is part of two different shift-based Reservable modules, only one of the shift-based Reservable module is available for selection while moving a reservation. Space planners can move a shift-based Reservable module to a non-shift based Reservable module. For example, **Desks within a Shift Reservable** module to **Desks** Reservable module.
 
 
-**Parent Topic:**[Working with schedule view](../task/working-with-schedule-view.md)
+**Parent Topic:**[Working with schedule view](working-with-schedule-view.md)
 

@@ -72,5 +72,5 @@ This functionality allows the security administrator to copy profiles that have 
 13. Review and update the Source and MID Server details as required.
 
 
-**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](../concept/splunk-event-ingest-integration-architecture.md)
+**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-integration-architecture.md)
 

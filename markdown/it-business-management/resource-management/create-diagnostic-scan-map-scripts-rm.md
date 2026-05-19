@@ -33,7 +33,7 @@ After creating diagnostic features, diagnostic scripts, and fix scripts, map the
 
 3.  On the Diagnostics form, fill the fields.
 
-    For a description of the field names, see [Diagnostics form](../reference/diagnostics-form.md).
+    For a description of the field names, see [Diagnostics form](diagnostics-form.md).
 
 4.  Search for and select diagnostic scripts to map with the diagnostic scan in the **Diagnostics and Script Mappings** section.
 

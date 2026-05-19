@@ -82,7 +82,7 @@ Make a reservation portal page opens for you to make workplace reservations.
 
 2.  Select a Reservable Module configuration such as **Desks**, **Meeting rooms** **Desks within an area** and so on.
 
-    For more information how to configure a Reservable module, see [Configure a reservable module](config-reservable-module.md).
+    For more information how to configure a Reservable module, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
 3.  Select **Search**.
 
@@ -226,7 +226,7 @@ If any of the items needs approval, then your request is submitted to the approv
 
 ## What to do next
 
--   To view, edit or cancel your reservations, see [Share, modify, or cancel a reservation](modify-cancel-res-request.md).
+-   To view, edit or cancel your reservations, see [Share, modify, or cancel a reservation](../workplace-reservation-management/modify-cancel-res-request.md).
 -   To view, add or remove any invitees from the reservation, do the following:
     1.  On the Reservation summary page, select the **Invitees** tab.
     2.  To change the location of any invitees, do the following:

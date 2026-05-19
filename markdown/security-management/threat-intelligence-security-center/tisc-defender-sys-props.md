@@ -55,5 +55,5 @@ This allows users to limit the rate of sending EDR to MS Defender on an hourly b
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Microsoft Defender for EDR integration](../concept/tisc-ms-defender-integration.md)
+**Parent Topic:**[Microsoft Defender for EDR integration](tisc-ms-defender-integration.md)
 

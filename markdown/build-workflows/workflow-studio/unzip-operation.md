@@ -84,7 +84,7 @@ Field that removes the zipped archive in the source record after the unzip opera
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
 **Parent Topic:**[ZIP step](zip-step.md)

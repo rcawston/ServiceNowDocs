@@ -38,10 +38,10 @@ Set the following Talent properties:
 
 2.  Select the property settings.
 
-    For more information on Talent properties, read [Talent Properties reference](../reference/egd-properties-reference.md).
+    For more information on Talent properties, read [Talent Properties reference](egd-properties-reference.md).
 
 3.  Select **Save**.
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

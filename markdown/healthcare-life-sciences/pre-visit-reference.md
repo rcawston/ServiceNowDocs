@@ -23,8 +23,8 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 Several types of components are installed with installation of the Pre-Visit Management application, including tables, user roles, ServiceNow Store applications, scheduled jobs, and business rules.
 -   **[Pre-Visit Management properties](pre-visit-properties.md)**  
 There are several advanced Pre-Visit Management properties that you can configure to schedule a pre-visit procedure for a patient.
--   **[Domain separation and Pre-Visit Management](../concept/pre-visit-domain-sep.md)**  
+-   **[Domain separation and Pre-Visit Management](pre-visit-domain-sep.md)**  
  Domain separation is supported for Pre-Visit Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Pre-Visit Management](../concept/pre-visit-mgmt-app.md)
+**Parent Topic:**[Pre-Visit Management](pre-visit-mgmt-app.md)
 

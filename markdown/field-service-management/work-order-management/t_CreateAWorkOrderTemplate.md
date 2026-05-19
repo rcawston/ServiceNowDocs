@@ -78,7 +78,7 @@ Work configuration
 
 </td><td>
 
-The Work configuration for this task. Selecting a work configuration will automatically populate the **Task type** and **Work type** fields. Work configurations must be configured for this field to appear. For more information, see [Configuring Field Service Work Configurations](../../field-service-management/concept/configuring-work-configs.md).
+The Work configuration for this task. Selecting a work configuration will automatically populate the **Task type** and **Work type** fields. Work configurations must be configured for this field to appear. For more information, see [Configuring Field Service Work Configurations](configuring-work-configs.md).
 
 </td></tr><tr><td>
 
@@ -153,7 +153,7 @@ Work Type
 The type of work to be performed by an agent or crew to complete the task. -   Break Fix
 -   Install
 -   Planned Maintenance
- For more information, see [Create work types for a work order task](../../field-service-management/task/create-work-type-fsm.md).
+ For more information, see [Create work types for a work order task](create-work-type-fsm.md).
 
 </td></tr><tr><td>
 

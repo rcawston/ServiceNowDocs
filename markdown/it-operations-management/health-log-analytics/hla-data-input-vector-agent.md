@@ -44,7 +44,7 @@ If your organization uses Vector by Datadog to handle log data from multiple sou
 
 4.  On the **Getting Started** tab, fill in the form and then select **Next**.
 
-    For a detailed description of the fields, see [Vector Agent data input configuration fields](../reference/hla-data-input-vector-agent-ref.md).
+    For a detailed description of the fields, see [Vector Agent data input configuration fields](hla-data-input-vector-agent-ref.md).
 
 5.  On the **vector.yaml** tab, update the code with the relevant values as needed.
 
@@ -79,5 +79,5 @@ Health Log Analytics adds the data input record to the **Data Inputs** table. Th
 
 [Make sure that the data input is streaming data.](hla-data-input-streaming.md)
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 

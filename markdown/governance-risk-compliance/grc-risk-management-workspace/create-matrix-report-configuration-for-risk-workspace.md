@@ -27,13 +27,13 @@ Role required: sn\_matrix\_report.admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Matrix report configuration form](../reference/matrix-report-configuration-form-risk-workspace.md).
+    For a description of the field values, see [Matrix report configuration form](matrix-report-configuration-form-risk-workspace.md).
 
 4.  Select **Submit**.
 
 
--   **[Matrix report configuration form](../reference/matrix-report-configuration-form-risk-workspace.md)**  
+-   **[Matrix report configuration form](matrix-report-configuration-form-risk-workspace.md)**  
 Use the Matrix report configuration form to configure the Matrix report in the Risk Workspace.
 
-**Parent Topic:**[Matrix report in Risk Workspace](../concept/matrix-report-in-risk-workspace.md)
+**Parent Topic:**[Matrix report in Risk Workspace](matrix-report-in-risk-workspace.md)
 

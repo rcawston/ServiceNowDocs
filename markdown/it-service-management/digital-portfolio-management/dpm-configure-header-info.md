@@ -67,5 +67,5 @@ Each solution displays header information for that solution. For example, for a 
 7.  Select **Update**.
 
 
-**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](../concept/dpm-admin-center.md)
+**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](dpm-admin-center.md)
 

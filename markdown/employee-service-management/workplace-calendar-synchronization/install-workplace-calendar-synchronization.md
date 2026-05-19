@@ -60,5 +60,5 @@ The following plugins are activated when you install Workplace Calendar Synchron
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configure Workplace Calendar Synchronization](../concept/configure-rsv-sync.md)
+**Parent Topic:**[Configure Workplace Calendar Synchronization](configure-rsv-sync.md)
 

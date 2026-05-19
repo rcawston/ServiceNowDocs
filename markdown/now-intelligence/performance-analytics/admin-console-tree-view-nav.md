@@ -95,7 +95,7 @@ When you select View Dashboard, the dashboard is shown in a pop-up over the tree
 
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -111,7 +111,7 @@ Dashboard tab
 -   Edit
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -130,7 +130,7 @@ Opens the report in the Report Designer in a pop-up window. When you close the p
 
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -146,7 +146,7 @@ Report source
 -   Edit
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -162,7 +162,7 @@ Interactive Filter
 -   Edit
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -182,7 +182,7 @@ Select **Preview Widget** to show the widget in a pop-up window.
 
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -211,7 +211,7 @@ Formula Indicator
 -   Show Analytics Hub
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -229,7 +229,7 @@ Automated Indicator
 -   Show Scores
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -298,7 +298,7 @@ Indicator source
 -   Show Schema Map
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -326,7 +326,7 @@ Breakdown
 -   Edit
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -343,7 +343,7 @@ Breakdown Source
 -   Show Schema Map
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -362,7 +362,7 @@ Job
 -   View Last executed Log
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -391,7 +391,7 @@ Table
 -   Show Schema Map
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr><tr><td>
@@ -411,7 +411,7 @@ Select **Preview Widget** to show the widget in a pop-up window.
 
 -   Show Used By
 
-Launches the [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
+Launches the [Bottom-up tree view](dependency-assessment-show-used-by.md) which shows all entities that use this entity.
 
 
 </td></tr></tbody>
@@ -432,5 +432,5 @@ Each node has one or more of these icons. Point to the upper right corner of the
     Open the element the node refers to so that you can correct any issues.
 
 
-**Parent Topic:**[Dependency Assessment](../concept/impact-analysis.md)
+**Parent Topic:**[Dependency Assessment](impact-analysis.md)
 

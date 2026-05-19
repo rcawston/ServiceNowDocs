@@ -23,7 +23,7 @@ Look for an activity with a red banner, indicating that a syntax error has occur
 
 ## Tooltips
 
-Point to the activity displaying a red banner to view information about the error. A tooltip shows the **State** and **Result** of the activity and provides a brief **Fault Description** \(except for task activities\). Note that this approval continued as skipped despite the error given in the fault description. See [Workflow error handling](../concept/c_WorkflowErrorHandling.md) for the information available to each activity.
+Point to the activity displaying a red banner to view information about the error. A tooltip shows the **State** and **Result** of the activity and provides a brief **Fault Description** \(except for task activities\). Note that this approval continued as skipped despite the error given in the fault description. See [Workflow error handling](c_WorkflowErrorHandling.md) for the information available to each activity.
 
 ![](../image/ErrorHandlingHover.png)
 
@@ -57,5 +57,5 @@ If the credentials used by an activity in the workflow fail, and the activity ca
 
 ![Credential debugging in the workflow log](../image/CredDebugWorkflowLog.png "Credential debugging in the workflow log")
 
-**Parent Topic:**[Workflow error handling](../concept/c_WorkflowErrorHandling.md)
+**Parent Topic:**[Workflow error handling](c_WorkflowErrorHandling.md)
 

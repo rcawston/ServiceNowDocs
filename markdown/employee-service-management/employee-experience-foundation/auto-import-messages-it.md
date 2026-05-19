@@ -26,7 +26,7 @@ If you are installing the ServiceNow for Microsoft Teams in your environment, th
 -   Request \(sc\_request\)
 -   Change request \(change\_request\)
 
-The admin can extend the auto import feature to the other tables as required. For more information see, [Create requester mapping](../task/create-requester-mapping.md).
+The admin can extend the auto import feature to the other tables as required. For more information see, [Create requester mapping](create-requester-mapping.md).
 
 If you are upgrading your ServiceNow instance to IT Service Management integration with Microsoft Teams 2.2.0 or HR Service Delivery integration with Microsoft Teams 2.2.0, you must manually enable the auto import feature.
 
@@ -234,7 +234,7 @@ Alternately, to adhere to platform standards, consider adding an active field to
 
 **Important:**
 
-If you are creating a close condition for a new table, ensure to create business rule for close condition. For more information, see [Configure business rule for close condition](../task/business-rule-close-condition.md).
+If you are creating a close condition for a new table, ensure to create business rule for close condition. For more information, see [Configure business rule for close condition](business-rule-close-condition.md).
 
 ### Procedure
 

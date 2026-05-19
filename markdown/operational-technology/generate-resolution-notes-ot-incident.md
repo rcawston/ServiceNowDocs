@@ -106,5 +106,5 @@ If you want to check some details about the OT resolution notes, select the more
     The resolution information is updated and the state of the OT incident is set to **Resolved**.
 
 
-**Parent Topic:**[Using Now Assist for Operational Technology Service Management \(OTSM\)](../concept/using-now-assist-otsm.md)
+**Parent Topic:**[Using Now Assist for Operational Technology Service Management \(OTSM\)](using-now-assist-otsm.md)
 

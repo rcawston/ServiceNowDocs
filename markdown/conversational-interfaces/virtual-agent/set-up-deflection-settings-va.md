@@ -17,7 +17,7 @@ Set up deflection settings to create deflection configurations and deflection pa
 
 ## Before you begin
 
-Review [Using the deflection topic block to track deflections in Virtual Agent](../concept/deflections-virtual-agent.md).
+Review [Using the deflection topic block to track deflections in Virtual Agent](deflections-virtual-agent.md).
 
 Watch this video for more information about deflection tracking. ![Video link to deflection tracking.](../../conversational-interfaces/image/icon-video-link.png)[Virtual Agent Academy: Measure success and user journey in Conversational Analytics](https://www.youtube.com/watch?v=YMAaTSzPhwM&list=PLkGSnjw5y2U79gjQuQW-2GBqzEccwFkWH&index=21)
 
@@ -67,5 +67,5 @@ Role required: virtual\_agent\_admin or admin
 9.  Click **Save**.
 
 
-**Parent Topic:**[Using the deflection topic block to track deflections in Virtual Agent](../concept/deflections-virtual-agent.md)
+**Parent Topic:**[Using the deflection topic block to track deflections in Virtual Agent](deflections-virtual-agent.md)
 

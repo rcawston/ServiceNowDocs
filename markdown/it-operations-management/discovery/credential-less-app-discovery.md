@@ -209,5 +209,5 @@ The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin adds an identifi
 
 ![Nmap identifier for the Application Rule](../image/NmapIdentifier.png "Nmap identifier for the Application Rule")
 
-**Parent Topic:**[Credential-less Discovery with Nmap](../concept/nmap-credential-less-discovery.md)
+**Parent Topic:**[Credential-less Discovery with Nmap](nmap-credential-less-discovery.md)
 

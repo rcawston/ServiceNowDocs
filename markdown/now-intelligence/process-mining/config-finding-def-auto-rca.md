@@ -36,5 +36,5 @@ Role required:sn\_process\_mining\_admin, sn\_process\_mining\_power\_user, or s
 
 Automated root cause analysis is configured for the table.
 
-**Parent Topic:**[Automated root cause analysis](../concept/auto-rca.md)
+**Parent Topic:**[Automated root cause analysis](auto-rca.md)
 

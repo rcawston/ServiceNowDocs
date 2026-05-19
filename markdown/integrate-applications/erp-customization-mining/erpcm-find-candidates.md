@@ -19,7 +19,7 @@ Use ERP Semantic Mining to save ERP \(Enterprise Resource Planning\) app candida
 
 **Important:** Starting with the Zurich release, ERP Semantic Mining is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
-Admins must first configure the connection to the ERP system in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](../../erp-integration/concept/erp-canvas-work-with-systems.md).
+Admins must first configure the connection to the ERP system in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](../erp-integration-framework/erp-canvas-work-with-systems.md).
 
 Role required: sn\_erp\_mining.erp\_user
 
@@ -54,9 +54,9 @@ Selecting a candidate as a potential candidate changes the candidate status from
 
 ## What to do next
 
-After you identify candidates, use Zero Copy Connector for ERP to view custom fields in remote and extraction tables, and add them to your ERP model. For more information, see [Building and managing models to work with ERP data](../../erp-integration/concept/work-with-erp-data-models.md).
+After you identify candidates, use Zero Copy Connector for ERP to view custom fields in remote and extraction tables, and add them to your ERP model. For more information, see [Building and managing models to work with ERP data](../erp-integration-framework/work-with-erp-data-models.md).
 
 ERP Semantic Mining also recommends possible next steps for each candidate. For more information, see [Check candidate recommendations in ERP Semantic Mining](erpcm-work-with-recommendations.md).
 
-**Parent Topic:**[Finding and working with candidates to replatform](../concept/work-with-candidates.md)
+**Parent Topic:**[Finding and working with candidates to replatform](work-with-candidates.md)
 

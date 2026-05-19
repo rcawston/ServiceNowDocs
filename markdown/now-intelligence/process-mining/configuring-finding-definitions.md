@@ -30,5 +30,5 @@ Automated improvement opportunities are simpler to create. The process is short 
 
 For more information on creating finding definitions, see [Setting improvement opportunities](working-with-imp-opp.md).
 
-**Parent Topic:**[Create a project using Classic view](../task/create-proj.md)
+**Parent Topic:**[Create a project using Classic view](create-proj.md)
 

@@ -30,5 +30,5 @@ Record types are information stored in Everbridge that are required to create th
     Record types for your organization ID with the category are imported from the Everbridge instance. If the record type is not imported, you may receive an error message.
 
 
-**Parent Topic:**[Setup for Everbridge notifications](../concept/setup-steps-for-emergency-notification-uib-ws.md)
+**Parent Topic:**[Setup for Everbridge notifications](setup-steps-for-emergency-notification-uib-ws.md)
 

@@ -668,5 +668,5 @@ Option for enabling this schedule for discovery. Select this check box to enable
     |cmdb\_ci\_win\_server|Managed by::Manages|cmdb\_ci\_rubrik\_cluster|
 
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

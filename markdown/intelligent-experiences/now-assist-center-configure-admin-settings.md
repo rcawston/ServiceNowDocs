@@ -58,7 +58,7 @@ Opens the Account page from Now Assist Admin console.
 
  Review your Now Assist license details to make sure that you're up to date on what's available to you.
 
- For more information, see [Review Now Assist account](../../now-assist-admin/task/review-now-assist-account-information.md).
+ For more information, see [Review Now Assist account](review-now-assist-account-information.md).
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Opens the Multilingual Service page from Now Assist Admin console.
 
  Turn on multilingual service for user-entered text with native translation or Dynamic Translation in Now Assist applications.
 
- For more information, see [Configure multilingual service for Now Assist applications](../../now-assist-admin/task/enable-dynamic-translation-for-now-assist-applications.md).
+ For more information, see [Configure multilingual service for Now Assist applications](enable-dynamic-translation-for-now-assist-applications.md).
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Opens the Plugins page from Now Assist Admin console.
 
  Install Now Assist plugins to enable generative AI on your instance.
 
- For more information, see [Install Now Assist plugins](../../now-assist-admin/task/install-now-assist-feature-plugins.md).
+ For more information, see [Install Now Assist plugins](install-now-assist-feature-plugins.md).
 
 </td></tr><tr><td>
 
@@ -130,7 +130,7 @@ Opens the Manage model providers page from Now Assist Admin console.
 
  Edit or customize the model provider for a skill or skill group at the instance level from the list of supported third-party model providers, including the default Now LLM Service. You can also review the model policy set by your organization and view the change history.
 
- For more information, see [Manage model providers](../../now-assist-admin/task/edit-model-providers.md).
+ For more information, see [Manage model providers](edit-model-providers.md).
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Opens the Manage model versions page from Now Assist Admin console.
 
  Manage the version of the model providers across skills and instance levels. You can change and update versions for the base system and custom skills.
 
- For more information, see [Manage version](../../now-assist-admin/task/manage-version.md).
+ For more information, see [Manage version](manage-version.md).
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Opens the Manage Integration tab on the Manage model providers page from Now Ass
 
  Choose the preferred integration type for configuring the available model providers. There are two ways to configure a model provider in Now Assist Admin. You can select Original Equipment Manufacturer \(OEM\) or Bring Your Own Key \(BYOK\).
 
- For more information, see [Manage Integration](../../now-assist-admin/task/manage-integration.md).
+ For more information, see [Manage Integration](manage-integration.md).
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ Opens the Privacy policies page from Now Assist Admin console.
 
  Configure privacy policies to anonymize data in Now Assist.
 
- For more information, see [Configure Now Assist privacy policies](../../now-assist-admin/task/configure-privacy-policies.md).
+ For more information, see [Configure Now Assist privacy policies](configure-privacy-policies.md).
 
 </td></tr><tr><td>
 
@@ -178,7 +178,7 @@ Opens the Data sharing page from Now Assist Admin console.
 
  Data sharing improves ServiceNow AI products. You can opt out of data sharing from this page.
 
- For more information, see [Opt out of data sharing for Now Assist](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ For more information, see [Opt out of data sharing for Now Assist](opt-out-of-data-sharing-for-now-assist.md).
 
 </td></tr><tr><td>
 
@@ -190,7 +190,7 @@ Opens the Data overflow processing page from Now Assist Admin console.
 
  Configure where Now Assist data is processed during periods of high traffic.
 
- For more information, see [Configure Now Assist data overflow processing](../../now-assist-admin/task/configure-na-data-overflow.md).
+ For more information, see [Configure Now Assist data overflow processing](configure-na-data-overflow.md).
 
 </td></tr><tr><td>
 
@@ -202,7 +202,7 @@ Opens the Now Assist Panel page from Now Assist Admin console.
 
  With the Now Assist panel, you can get assistance from generative AI experiences to solve customer issues faster. Use this conversational interface to summarize a chat, case, or incident, get help, or generate resolution notes so that you can get the context of this information more quickly.
 
- For more information, see [Now Assist panel](../../now-assist-platform/concept/now-assist-panel-overview.md).
+ For more information, see [Now Assist panel](now-assist-panel-overview.md).
 
 </td></tr><tr><td>
 
@@ -214,9 +214,9 @@ Opens the Now Assist Context Menu page from Now Assist Admin console.
 
  The Now Assist context menu uses generative AI to help agents summarize, create, and edit written content, thus streamlining their writing tasks.
 
- For more information, see [Now Assist context menu](../../now-assist-platform/concept/now-assist-write-overview.md).
+ For more information, see [Now Assist context menu](now-assist-write-overview.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist Admin console features in Now Assist Center](../concept/now-assist-center-using-admin-console.md)
+**Parent Topic:**[Using Now Assist Admin console features in Now Assist Center](now-assist-center-using-admin-console.md)
 

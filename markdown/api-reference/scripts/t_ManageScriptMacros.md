@@ -38,5 +38,5 @@ Script macros provide shortcuts for typing commonly used code. Several script ma
     |Text|Full macro text that replaces the name in the editor.|
 
 
-**Parent Topic:**[JavaScript syntax editor](../concept/c_SyntaxEditor.md)
+**Parent Topic:**[JavaScript syntax editor](c_SyntaxEditor.md)
 

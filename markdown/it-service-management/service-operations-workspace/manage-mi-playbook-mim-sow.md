@@ -111,7 +111,7 @@ The MI playbook in Service Operations Workspace provides a guided approach to th
     -   The incident doesn’t have a problem record associated with it.
     -   The Problem Management Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin is activated on the instance.
     -   The **Create problem from major incident** flow is inactive on the instance. This flow is shipped as part of the base system in the **Inactive** status. Once activated, it creates a problem record automatically when an incident is promoted to a major incident.
-    You can also configure if the incident field information is copied automatically to the respective fields in a problem record using the **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) system property when a problem record is created. For more information, see [Create a problem](../../problem-management/task/create-a-problem-v2.md).
+    You can also configure if the incident field information is copied automatically to the respective fields in a problem record using the **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) system property when a problem record is created. For more information, see [Create a problem](../problem-management/create-a-problem-v2.md).
 
     A problem record is created automatically. You can select **View Problem** to view the problem record on a separate tab.
 
@@ -124,5 +124,5 @@ The MI playbook in Service Operations Workspace provides a guided approach to th
         You can continue to work on the post incident report review from the **Post Incident Report** tab on the Incident record page. For more information, see [Review and update a post incident report](review-update-pir-mim-sow.md).
 
 
-**Parent Topic:**[Managing major incidents using playbooks](../concept/managing-mi-playbook-sow.md)
+**Parent Topic:**[Managing major incidents using playbooks](managing-mi-playbook-sow.md)
 

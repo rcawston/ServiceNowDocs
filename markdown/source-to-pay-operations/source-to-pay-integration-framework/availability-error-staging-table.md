@@ -23,7 +23,7 @@ The following table lists fields for the Availability Error \[sn\_spend\_intg\_a
 |-----|---------|-----------|
 |Supplier part number|String|Unique number that is used by the supplier to identify this product.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

@@ -96,7 +96,7 @@ Crypto Module
 
 </td><td>
 
-Select the cryptographic module to use with this group. This module encrypts and decrypts your data. This field is only visible when **Autogen Module** isn’t selected. For details on module access policies, see [Module access policy overview](../../key-management-framework/concept/module_access_policy_overview.md) **Note:** You can review the module access policies related to your secret group using the **Manage instance access** button.
+Select the cryptographic module to use with this group. This module encrypts and decrypts your data. This field is only visible when **Autogen Module** isn’t selected. For details on module access policies, see [Module access policy overview](platform-encryption/module_access_policy_overview.md) **Note:** You can review the module access policies related to your secret group using the **Manage instance access** button.
 
 </td></tr></tbody>
 </table>    **Note:** Depending on your configuration, the **Crypto Module** might use an automatically selected value.
@@ -200,5 +200,5 @@ After creating your group, any new records matching the criteria will be encrypt
 
 Client-accessible groups need a customer-provided public key to encrypt your secrets. For steps on uploading this key, see [Upload a public key for Secrets Management](sm-upload-key.md).
 
-**Parent Topic:**[Secrets Management dashboard](../concept/secrets-dashboard.md)
+**Parent Topic:**[Secrets Management dashboard](secrets-dashboard.md)
 

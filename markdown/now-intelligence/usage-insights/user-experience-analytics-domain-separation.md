@@ -22,7 +22,7 @@ Domain separation is not supported for the Usage Insights application.
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Usage Insights reference](../landing-page/user-experience-analytics-reference.md)
+**Parent Topic:**[Usage Insights reference](user-experience-analytics-reference.md)
 
 **Related topics**  
 

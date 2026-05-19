@@ -23,7 +23,7 @@ To learn more about CSM Configurable Workspace, see [Explore CSM Configurable Wo
 
 Define criteria and routing conditions to automatically assign work items \(such as chats or cases\) to agents based on their availability, capacity, skills, work history, related tasks, or account team.
 
-To learn more about Advanced Work Assignment, see [Set up an Advanced Work Assignment service channel for assigning case tasks](../task/configure-awa-channel-case-tasks.md).
+To learn more about Advanced Work Assignment, see [Set up an Advanced Work Assignment service channel for assigning case tasks](configure-awa-channel-case-tasks.md).
 
 ## Customer Central
 

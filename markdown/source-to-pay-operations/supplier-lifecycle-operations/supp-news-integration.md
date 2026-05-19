@@ -17,9 +17,9 @@ The News Integration for Supplier Lifecycle Operations plugin \(com.snc.sn\_supp
 
 **Important:** Check your entitlements to determine whether you have access to News Integration for Supplier Lifecycle Operations.
 
-The Microsoft Bing News Search API uses the default Supplier News REST message to fetch supplier news, so ensure that you have configured the Supplier News REST message. For more information, see [Configure the Supplier News REST message](../task/config-supp-news-rest.md).
+The Microsoft Bing News Search API uses the default Supplier News REST message to fetch supplier news, so ensure that you have configured the Supplier News REST message. For more information, see [Configure the Supplier News REST message](config-supp-news-rest.md).
 
--   **[Configure the Supplier News REST message](../task/config-supp-news-rest.md)**  
+-   **[Configure the Supplier News REST message](config-supp-news-rest.md)**  
 Configure the Supplier News REST message using the Microsoft Bing News Search API subscription key.
 -   **[Configuring a custom API to dynamically fetch supplier news](config-supplier-news-api.md)**  
 By default, News Integration for Supplier Lifecycle Operations retrieves the supplier news and activities using the Microsoft Bing News Search API.
@@ -35,7 +35,7 @@ By default, News Integration for Supplier Lifecycle Operations retrieves the sup
 
 [Relish Integration for Supplier Lifecycle Operations](relish-slo-connector.md)
 
-[Configure the Supplier News REST message](../task/config-supp-news-rest.md)
+[Configure the Supplier News REST message](config-supp-news-rest.md)
 
 [Configuring a custom API to dynamically fetch supplier news](config-supplier-news-api.md)
 

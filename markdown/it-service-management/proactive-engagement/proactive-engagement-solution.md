@@ -26,5 +26,5 @@ These base system solutions can be accessed from the metric rule tab in the DEX 
 2.  Select **Name the rule**.
 3.  Select **Active** under rule status.
 
-**Parent Topic:**[Using Proactive Engagement](../using-proactive-engagement.md)
+**Parent Topic:**[Using Proactive Engagement](using-proactive-engagement.md)
 

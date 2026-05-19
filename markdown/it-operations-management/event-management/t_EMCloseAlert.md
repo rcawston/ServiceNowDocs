@@ -38,5 +38,5 @@ When a Clear event is triggered for an open alert, the corresponding alert is se
     If an alert has an open incident that is not related to any other open alerts, the incident is either closed, resolved, or left unchanged based on the **evt\_mgmt.alert\_closes\_incident** property.
 
 
-**Parent Topic:**[Manage and monitor alerts](../concept/c_EMAlert.md)
+**Parent Topic:**[Manage and monitor alerts](c_EMAlert.md)
 

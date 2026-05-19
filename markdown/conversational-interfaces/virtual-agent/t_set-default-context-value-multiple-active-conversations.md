@@ -26,7 +26,7 @@ Role required: virtual\_agent\_admin or admin.
 
 ## About this task
 
-You can create as many context values as you need. One consumer account context must always be set to `Yes` to provide a default content area. The default acts as a fallback for the chat widget when the portal setup doesn’t include context. The default is also used as the context for mobile conversations, which only support one conversation at a time. Context values are stored in the Conversation Consumer Account Context \[sys\_cs\_consumer\_account\_context\] table. \(The CS Consumer Account \[sys\_cs\_consumer\_account\] table [Installed with Virtual Agent](../reference/installed-wth-virtual-agent.md) shows whether third-party users in your instance have a context assigned to them.\)
+You can create as many context values as you need. One consumer account context must always be set to `Yes` to provide a default content area. The default acts as a fallback for the chat widget when the portal setup doesn’t include context. The default is also used as the context for mobile conversations, which only support one conversation at a time. Context values are stored in the Conversation Consumer Account Context \[sys\_cs\_consumer\_account\_context\] table. \(The CS Consumer Account \[sys\_cs\_consumer\_account\] table [Installed with Virtual Agent](installed-wth-virtual-agent.md) shows whether third-party users in your instance have a context assigned to them.\)
 
 **Note:** These instructions are for configuring Natural Language Understanding \(NLU\) conversations. Large Language Model \(LLM\) conversations are configured for multiple active conversations based on portals, with no configuration necessary.
 
@@ -82,5 +82,5 @@ Option to make this context value the default for your Virtual Agent conversatio
 
 Activate the multiple active conversations system. For more information, see [Activate multiple active conversations in Virtual Agent](t_activate-multiple-active-conversations-va.md).
 
-**Parent Topic:**[Using multiple active conversations in Virtual Agent](../concept/c_multiple-active-conversations-va.md)
+**Parent Topic:**[Using multiple active conversations in Virtual Agent](c_multiple-active-conversations-va.md)
 

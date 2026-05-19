@@ -63,5 +63,5 @@ Role required: evt\_mgmt\_admin
     -   The Update queue business rule in the Alert table identifies each manual update of the alert and updates the connector queue accordingly. By default, changes to all alert fields are tracked.
     -   The Event Management — Queue Connector Processor job removes alert changes from the queue and sends them to the MID Server. By default, Event Management performs this dequeue process in batches of 1,000 alerts. You can configure the batch size by setting the `evt_mgmt.max_update_source_records` property.
 
-**Parent Topic:**[SAP configurations enabling the SAP Solution Manager connector](../concept/sap-manager-connector.md)
+**Parent Topic:**[SAP configurations enabling the SAP Solution Manager connector](sap-manager-connector.md)
 

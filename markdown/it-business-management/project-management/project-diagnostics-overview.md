@@ -23,9 +23,9 @@ Data might become corrupt or invalid for various reasons, such as:
 
 Project Diagnostics uses diagnostic scans and fix scripts to detect and fix corrupt data in your projects. It enables you to do the following action:
 
--   [Create and add diagnostic features](../../project-portfolio-suite-with-financials/task/add-diagnostic-feature.md)
--   [Add diagnostic and fix scripts](../../project-portfolio-suite-with-financials/task/add-diagnostic-and-fix-script.md) to fix corrupt or invalid project data
--   [Create Diagnostic scans and map related scripts](../../project-portfolio-suite-with-financials/task/create-diagnostic-scan-map-script.md)
+-   [Create and add diagnostic features](add-diagnostic-feature.md)
+-   [Add diagnostic and fix scripts](add-diagnostic-and-fix-script.md) to fix corrupt or invalid project data
+-   [Create Diagnostic scans and map related scripts](create-diagnostic-scan-map-script.md)
 -   Define fields for users to create specific filter conditions. The diagnostic scripts use the results of these filter conditions as input for detecting any corrupt or invalid data.
 
 Project Diagnostics page provides the default scans described in the following table.

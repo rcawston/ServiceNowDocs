@@ -46,7 +46,7 @@ Like any other CI type, an entry point contains several important definitions th
 5.  Define the parameters for the new entry point type as described in [Create a CI class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIType.md).
 
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
 **Previous topic:**[Create CI types for Service Mapping and Discovery](t_CreateCITypeForSM.md)
 
@@ -55,7 +55,7 @@ Like any other CI type, an entry point contains several important definitions th
 **Related topics**  
 
 
-[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
+[Map a single application service using classic Service Mapping](../service-mapping/t_DefineNewBusinessService.md)
 
 [Create CI types for Service Mapping and Discovery](t_CreateCITypeForSM.md)
 

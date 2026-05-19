@@ -90,7 +90,7 @@ Steps
     For example, say a project is starting on November 10 with a Start On task starting on November 15, giving an offset of five days. If you move the project start date to November 20, then the task start date will be moved to November 25, maintaining the five-day offset from the project start date.
 
 -   All project tasks with Start ASAP constraint are moved to the new start date based on the **Constraint Date** field on the project form. The tasks must be in the Open or Pending state.
--   If the **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** property is selected, all related entities like cost plan, resource plan, and benefit plans are moved relative to the project start date. For more information on how to set this property, see [Properties installed with Project Management](../reference/r_InstalledWithProjectManagement.md#project_application_properties).
+-   If the **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** property is selected, all related entities like cost plan, resource plan, and benefit plans are moved relative to the project start date. For more information on how to set this property, see [Properties installed with Project Management](r_InstalledWithProjectManagement.md#project_application_properties).
 
 -   **[Pre-date a project task](pre-date-prj-dt.md)**  
 Move the planned start date of a task prior to the planned start date of a project. Adding a pre-dated task allows you to accommodate tasks which need to start before the planned start date of a project.
@@ -116,7 +116,7 @@ Move the planned start date of a task prior to the planned start date of a proje
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -136,7 +136,7 @@ Move the planned start date of a task prior to the planned start date of a proje
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 

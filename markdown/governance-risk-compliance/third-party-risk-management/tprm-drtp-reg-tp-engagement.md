@@ -35,7 +35,7 @@ After installing the Digital resilience third-party registers, the **Digital res
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Third-party engagement form](../reference/tprm-create-engmt-form.md).
+    For descriptions of all these fields, see [Create New Third-party engagement form](tprm-create-engmt-form.md).
 
 4.  Select **Save**.
 

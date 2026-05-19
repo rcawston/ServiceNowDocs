@@ -22,5 +22,5 @@ Learning catalog overview dashboard provides the learning catalog manager with a
 -   **[Learning content author overview dashboard](learning-content-author-dashboard.md)**  
 Learning content author overview dashboard provides a detailed report of user activities to the content author.
 
-**Parent Topic:**[HR Service Delivery](hr-service-delivery.md)
+**Parent Topic:**[HR Service Delivery](../hr-service-delivery/hr-service-delivery.md)
 

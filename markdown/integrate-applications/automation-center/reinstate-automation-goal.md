@@ -42,5 +42,5 @@ Role required: sn\_ac.automation\_business\_user
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

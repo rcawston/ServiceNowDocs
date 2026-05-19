@@ -144,11 +144,11 @@ You can make forms change based on how users answer questions in several ways:
 
 Creator Studio provides an initial layout for its default form. You can use columns, images, divider lines, and more to customize the layout of the questions on the forms. There are two procedures that you can use to customize a form:
 
--   Changing the questions – Change the number of questions, what they’re asking, and adjust where questions appear on a form. Find information on changing questions in [Customize your form for an app in Creator Studio](../task/creator-studio-edit-form.md).
+-   Changing the questions – Change the number of questions, what they’re asking, and adjust where questions appear on a form. Find information on changing questions in [Customize your form for an app in Creator Studio](creator-studio-edit-form.md).
 
     ![Select a question to edit its details](../image/crs-edit-questions-nav.png "Editing a question on a form")
 
--   Changing the look and feel of the form – Add pictures, write some text to explain the questions, and even move them around to make them flow smoothly. You can read about that in [Change the layout of an app's record in Creator Studio](../task/creator-studio-work-with-record-details.md).
+-   Changing the look and feel of the form – Add pictures, write some text to explain the questions, and even move them around to make them flow smoothly. You can read about that in [Change the layout of an app's record in Creator Studio](creator-studio-work-with-record-details.md).
 
     ![Change the appearance of the form by changing text and images](../image/crs-form-component-style.png "Edit the look and feel of the app's tile")
 
@@ -161,7 +161,7 @@ Users can access those forms directly in a Service Catalog, as well as Service P
 
 If you associate the app's form with one or more topics, the form will appear in the relevant, dynamically created topic pages in Employee Center. Find out more about topics in [Associate a catalog item with a taxonomy topic in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/associate-cat-item-taxonomy-ec.md), and more about taxonomy, which is a categorization method, in [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-taxonomy.md).
 
-**Note:** If you want to check out what a form looks like and test submitting responses to it, you can try it out after it's been published. When you try a form, you submit answers, which trigger any associated automations. For more information, see [Test one of your forms for an app](../task/creator-studio-try-it.md).
+**Note:** If you want to check out what a form looks like and test submitting responses to it, you can try it out after it's been published. When you try a form, you submit answers, which trigger any associated automations. For more information, see [Test one of your forms for an app](creator-studio-try-it.md).
 
 ## Making forms available for an app
 
@@ -179,21 +179,21 @@ A published form appears as an item in your catalog of offerings. For example, y
 -   Publishing a form means that the form will appear as a catalog item only after your app is deployed. That’s why the button label is **Mark as ready**.
 -   Deploying an app is what system admins do to make your app available for people to use.
 
--   **[Add a form to an app in Creator Studio](../task/creator-studio-add-form.md)**  
+-   **[Add a form to an app in Creator Studio](creator-studio-add-form.md)**  
 Add a form to the app you just created. Forms contain questions that people respond to when submitting a service desk request.
--   **[Customize your form for an app in Creator Studio](../task/creator-studio-edit-form.md)**  
+-   **[Customize your form for an app in Creator Studio](creator-studio-edit-form.md)**  
 Forms help people ask for things they need, such as a new keyboard or permission to take time off. The default form that's added when you create an app in Creator Studio needs some changes to fit your needs. For example, you must add question labels to gather information about the request.
 -   **[Generating forms with Now Assist](creator-studio-text-to-form.md)**  
 Learn how the Now Assist in Creator application helps you to create forms for you in Creator Studio.
--   **[Make a form change based on responses in Creator Studio](../task/creator-studio-dynamic-behavior.md)**  
+-   **[Make a form change based on responses in Creator Studio](creator-studio-dynamic-behavior.md)**  
 Make a form update based on how users answer a question using dynamic behavior. For example, if a user says they want a T-shirt for an event they're attending, you can make a **T-shirt size** field required.
 -   **[Development states of a form in Creator Studio](creator-studio-catalog-item-states.md)**  
 Think of your app as an online store that contains a catalog of items. To request something, a person needs to fill out a form. It’s your job to create and customize forms for every item in your catalog using Creator Studio.
--   **[Add more forms to an app in Creator Studio](../task/creator-studio-add-another-form.md)**  
+-   **[Add more forms to an app in Creator Studio](creator-studio-add-another-form.md)**  
 Add as many forms as you need to create catalog items for your app. For example, you could have an office booking app with three different forms: one for requesting parking spaces, one for requesting a desk, and one for reserving conference rooms.
--   **[Edit the settings for a form in Creator Studio](../task/creator-studio-edit-form-settings.md)**  
+-   **[Edit the settings for a form in Creator Studio](creator-studio-edit-form-settings.md)**  
 Edit form settings if you need to change its basic attributes, such as its associated image or attachments are allowed.
--   **[Publish a form for your app in Creator Studio](../task/creator-studio-publish-form.md)**  
+-   **[Publish a form for your app in Creator Studio](creator-studio-publish-form.md)**  
 Publishing forms once they're ready makes them available as catalog items in the production instance for published apps.
 -   **[Working with published forms](crs-working-with-published-forms.md)**  
 After a form has been published, you can update it, undo changes, and hide it from being visible.

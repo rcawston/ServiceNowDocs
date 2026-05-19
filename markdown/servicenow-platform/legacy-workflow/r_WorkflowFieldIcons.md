@@ -26,7 +26,7 @@ Based on the stage renderer selected for the workflow, these icons may display a
 |![Late or Canceled icon](../image/WorkflowLate.png)|Late \(Change/Request\) or Canceled \(Catalog\)|
 |![Skipped icon](../image/WorkflowSkipped.png)|Skipped \(Catalog only\)|
 
-**Parent Topic:**[Create a workflow stage field](../task/t_CreateAWorkflowStageField.md)
+**Parent Topic:**[Create a workflow stage field](t_CreateAWorkflowStageField.md)
 
 ## Stage tooltips
 

@@ -31,9 +31,9 @@ On the **Inventory** tab, **My Purchases** and **My Purchasing To-dos** applets 
 
 On the **Inventory** tab, the **My Inventory** applet displays the assets that are created when creating transfer order lines from Field Service Management, as well as assets that are created when acknowledging the delivery of products from a vendor or supplier from Sourcing and Procurement Operations. Assets that are created in the Asset Usage table are also displayed here.
 
--   **[Integrate with Field Service Management](../task/integrate-psm-with-fsm.md)**  
+-   **[Integrate with Field Service Management](integrate-psm-with-fsm.md)**  
 Field Service Management provides an integration with the Sourcing and Procurement Operations application. With this integration, a field service agent can engage with procurement and place an order to purchase a required part from a vendor or supplier.
--   **[Order parts you need using the Agent mobile application](../task/order-parts-using-agent-mobile.md)**  
+-   **[Order parts you need using the Agent mobile application](order-parts-using-agent-mobile.md)**  
 Place an order for a part that you require to complete a particular work order task, from the Sourcing and Procurement Operations flow, using the Agent mobile application.
 
 **Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](integrating-spo.md)
@@ -55,7 +55,7 @@ Place an order for a part that you require to complete a particular work order t
 
 [Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [SpendInt APIs](spendint-api.md)
 

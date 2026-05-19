@@ -176,5 +176,5 @@ ORCHESTRATION
 
 4.  Restart the MID Server.
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

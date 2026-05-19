@@ -17,7 +17,7 @@ Configure Service Mapping to use the existing data within your CMDB to run top-d
 
 ## Before you begin
 
-Verify that the necessary tables are populated with data according to the process explained in [CMDB-based mapping](../concept/cmdb-based-mapping.md).
+Verify that the necessary tables are populated with data according to the process explained in [CMDB-based mapping](cmdb-based-mapping.md).
 
 -   Transmission Control Protocol \(TCP\) Connection \[cmdb\_tcp\] table
 -   Running Process \[cmdb\_running\_process\] table

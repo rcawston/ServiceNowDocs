@@ -21,7 +21,7 @@ Role required: admin or change\_manager
 
 ## About this task
 
-If the updated CI is not part of an open change request, then the system triggers a change request, and sends a notification. The Change Management application uses this event to create an unauthorized change. If there are many CI changes with no open change request created to include the CIs, then the system creates unauthorized change requests on these CIs. When this event occurs, numerous unauthorized change requests are triggered, and notifications are sent to the members of the group. To avoid this situation, you can disable the **Enable event processing** property before you perform the updates. For more information on additional unauthorized change properties, see [Unauthorized change properties](../reference/unauth-change-properties.md).
+If the updated CI is not part of an open change request, then the system triggers a change request, and sends a notification. The Change Management application uses this event to create an unauthorized change. If there are many CI changes with no open change request created to include the CIs, then the system creates unauthorized change requests on these CIs. When this event occurs, numerous unauthorized change requests are triggered, and notifications are sent to the members of the group. To avoid this situation, you can disable the **Enable event processing** property before you perform the updates. For more information on additional unauthorized change properties, see [Unauthorized change properties](unauth-change-properties.md).
 
 **Note:** Enable the property when you finish your updates. If this property is disabled, unauthorized change requests are not created.
 
@@ -38,10 +38,10 @@ If the updated CI is not part of an open change request, then the system trigger
 
 The creation of an unauthorized change request is disabled, and no notifications are sent.
 
-**Parent Topic:**[Unauthorized change request](../concept/unauthorized-change-request.md)
+**Parent Topic:**[Unauthorized change request](unauthorized-change-request.md)
 
 **Related topics**  
 
 
-[Unauthorized change properties](../reference/unauth-change-properties.md)
+[Unauthorized change properties](unauth-change-properties.md)
 

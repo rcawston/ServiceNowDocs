@@ -23,7 +23,7 @@ For data sources discovered by a hardware connection, the **Last Success Import 
 
 The application includes the **sn\_sg\_azure\_integ.is\_delta\_sync\_enabled** system property to enable delta synchronization. By default, the property is set to `true`. To import full data from your Azure instance, disable the **sn\_sg\_azure\_integ.is\_delta\_sync\_enabled** property. See [Disable delta synchronization](sgc-cmdb-azure-data-sync.md#).
 
-For a delta pull, you can also configure the grace time, page size, preceding time period, and API call duration using system properties. For more information, see [Service Graph Connector for Microsoft Azure properties](../reference/cmdb-sgc-azure-props.md).
+For a delta pull, you can also configure the grace time, page size, preceding time period, and API call duration using system properties. For more information, see [Service Graph Connector for Microsoft Azure properties](cmdb-sgc-azure-props.md).
 
 ## Disable delta synchronization
 

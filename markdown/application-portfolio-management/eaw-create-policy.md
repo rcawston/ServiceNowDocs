@@ -27,11 +27,11 @@ Role required: sn\_cmdb\_admin + sn\_apm.apm\_analyst
 
 4.  On the Create policy modal, enter details, then select **Next**.
 
-    The details are saved as General Information in the workflow. For field information, see [General information form](../../reference/eaw-reference/eaw-data-cert-gen-info-form.md).
+    The details are saved as General Information in the workflow. For field information, see [General information form](eaw-data-cert-gen-info-form.md).
 
 5.  Enter details in the **Data Filter** form.
 
-    For field information, see [Data filter form](../../reference/eaw-reference/eaw-data-filter-form.md).
+    For field information, see [Data filter form](eaw-data-filter-form.md).
 
     -   Select **Apply filters** and then review the results of the impact analysis.
     -   Review the lists in the following tabs:
@@ -57,18 +57,18 @@ Role required: sn\_cmdb\_admin + sn\_apm.apm\_analyst
     -   For certification and attestation tasks, set the **If task assignment field is empty** field to create assigned or unassigned tasks in cases where the specified task assignment field is empty. If you select to create an assigned task, then depending on the **Assignment type** setting, select the user or user group to assign a task to in that situation. Unassigned tasks are later reviewed by an administrator for assignment.
 7.  Enter details in the **Options** form.
 
-    For field information, see [Options form](../../reference/eaw-reference/eaw-data-cert-options-form.md).
+    For field information, see [Options form](eaw-data-cert-options-form.md).
 
 8.  Enter details in the **Schedule** form and then select **Continue**.
 
-    For field information, see [Schedule form](../../reference/eaw-reference/eaw-data-cert-schedule-form.md).
+    For field information, see [Schedule form](eaw-data-cert-schedule-form.md).
 
 9.  Review the policy details on the Review form, and then select **Publish policy** to activate the policy or **Save &amp; Exit** to save the policy as a draft.
 
     You can later continue to configure a draft policy, and then publish it when it's ready.
 
 
-**Parent Topic:**[Working with data certification](../../concept/eaw-concept/eaw-work-with-data-cert.md)
+**Parent Topic:**[Working with data certification](eaw-work-with-data-cert.md)
 
 **Related topics**  
 

@@ -25,7 +25,7 @@ As an administrator, review the installed components and modify them or add new 
 
     Create a contract type for defining different types of legal contract requests.
 
--   **[Legal contract templates](../concept/document-template-block.md)**
+-   **[Legal contract templates](document-template-block.md)**
 
     Create a document template that can be used when submitting a legal contract request to generate a standard legal contract with predefined content. You can create templates of HTML, PDF and Microsoft Word types.
 
@@ -33,7 +33,7 @@ As an administrator, review the installed components and modify them or add new 
 
     Configure a rule to identify and use the correct contract template based on the submitted legal request and generate a contract document for the requester.
 
--   **[Set up external signature and storage configurations](../concept/setting-up-legal-external-app-config.md)**
+-   **[Set up external signature and storage configurations](setting-up-legal-external-app-config.md)**
 
     Set up external app configurations for legal contracts to enable services for electronic signature of contract documents and saving the signed contract documents in an external storage.
 

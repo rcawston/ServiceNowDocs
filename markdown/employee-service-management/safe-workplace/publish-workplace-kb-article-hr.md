@@ -19,7 +19,7 @@ After creating a knowledge base article, publish the article to make it availabl
 
 Role required: sn\_wsd\_core.admin or sn\_wsd\_core.kb\_writer
 
-Before you publish, create a knowledge base article. For more information, see [Create a workplace knowledge base article](../../workplace-service-delivery/task/create-workplace-kb-article-wsd.md).
+Before you publish, create a knowledge base article. For more information, see [Create a workplace knowledge base article](../workplace-core/create-workplace-kb-article-wsd.md).
 
 ## Procedure
 
@@ -34,7 +34,7 @@ Before you publish, create a knowledge base article. For more information, see [
 
 The knowledge base article is published for employees to view.
 
-For more information on how to view the published knowledge base article, see [View workplace knowledge base articles](../../workplace-service-delivery/task/view-workplace-kb-article-wsd.md).
+For more information on how to view the published knowledge base article, see [View workplace knowledge base articles](../workplace-core/view-workplace-kb-article-wsd.md).
 
-For more information on how to edit the publish knowledge base article, see [Modify a workplace knowledge base article](../../workplace-service-delivery/task/modify-workplace-kb-article-wsd.md).
+For more information on how to edit the publish knowledge base article, see [Modify a workplace knowledge base article](../workplace-core/modify-workplace-kb-article-wsd.md).
 

@@ -25,9 +25,9 @@ In Policy and Compliance Management, the 360° relationship view button is enabl
 -   Control \[sn\_compliance\_control\]
 -   Control objective \[sn\_compliance\_policy\_statement\]
 
-To explore the 360° view and for instructions to launch the view, see [Exploring the 360° view](../../grc-360-degree-rel-vis/concept/understanding-360-view.md#).
+To explore the 360° view and for instructions to launch the view, see [Exploring the 360° view](../grc-360-degree-relationship-visualization/understanding-360-view.md#).
 
-To know more about the users who could use 360° Relationship Visualization, their roles, and responsibilities, see [360° relationship visualization](../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
+To know more about the users who could use 360° Relationship Visualization, their roles, and responsibilities, see [360° relationship visualization](../grc-360-degree-relationship-visualization/grc-360-deg-rel-vis.md).
 
 ## 360° view of compliance objects integrating with issue in an m2m relationship
 

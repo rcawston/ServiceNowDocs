@@ -40,5 +40,5 @@ Role required: sn\_privacy\_case.privacy\_case\_analyst
         The key stakeholders are added.
 
 
-**Parent Topic:**[Using Privacy Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Privacy Case Management](using-pcm.md)
 

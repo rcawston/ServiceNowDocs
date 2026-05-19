@@ -126,7 +126,7 @@ Validation errors might occur for the following reasons:
 **Related topics**  
 
 
-[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)
+[Configuring signatories in Contract template using Microsoft Word add-in](cncore-config-sign-addin.md)
 
 [Map clauses and clause variations using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-add-clauses.md)
 

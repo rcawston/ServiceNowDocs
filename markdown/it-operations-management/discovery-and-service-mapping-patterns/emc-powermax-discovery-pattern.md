@@ -19,7 +19,7 @@ ServiceNow Discovery uses the **EMC PMAX phase1** and **EMC PMAX phase2** patter
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about PowerMax storage components and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](../../service-mapping/reference/r_SupportedApplications.md).
+To learn about PowerMax storage components and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md).
 
 ## Prerequisites
 
@@ -44,7 +44,7 @@ To learn about PowerMax storage components and their versions that you can disco
     5.  Select **Submit**.
 -   **Verify the configuration of the __Basic Auth__ credentials**
 
-    Configure the **Basic Auth** credentials to enable the connection to the PowerMax REST API. For the procedure, see [Create Basic Auth credentials](../concept/c_DiscoveryConfigurationConsole.md#).
+    Configure the **Basic Auth** credentials to enable the connection to the PowerMax REST API. For the procedure, see [Create Basic Auth credentials](../discovery/c_DiscoveryConfigurationConsole.md#).
 
     Fill in the form.
 
@@ -56,7 +56,7 @@ To learn about PowerMax storage components and their versions that you can disco
 
 -   **Verify the configuration of a Serverless Discovery schedule**
 
-    Make sure to select `Serverless` in the **Discover** field. For information about the procedure, see: [Schedule a horizontal discovery](../task/t_CreateADiscoverySchedule.md#)
+    Make sure to select `Serverless` in the **Discover** field. For information about the procedure, see: [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#)
 
 -   **Associate the __EMC PMAX Phase1__ and __EMC PMAX Phase2__ patterns with the Serverless Discovery schedule**
     1.  Navigate to **Discovery** &gt; **Discovery Schedules**.
@@ -844,5 +844,5 @@ Contains::Contained By
 cmdb\_ci\_storage\_pool
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Available on-premise discovery patterns](../../service-mapping/concept/available-patterns.md)
+</table>**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

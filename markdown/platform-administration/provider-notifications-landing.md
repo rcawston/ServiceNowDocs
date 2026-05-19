@@ -17,7 +17,7 @@ Send notifications directly to recipients via the provider on supported channels
 
 <table id="table_hzz_s2r_bzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore and learn about provider notifications](../reference/exploring-provider-notification.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore and learn about provider notifications](exploring-provider-notification.md)
 
 </td><td>
 

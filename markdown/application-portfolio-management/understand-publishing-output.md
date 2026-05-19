@@ -15,11 +15,11 @@ Understand what happens after you publish or republish a TRM catalog and how to 
 
 ## Publishing results in the Publishing Center
 
-When you publish or republish a TRM catalog, the Publishing Center tracks the outcome of the publishing operation. For more information, see [View publishing status and run log](../../task/eaw-task/view-run-log.md).
+When you publish or republish a TRM catalog, the Publishing Center tracks the outcome of the publishing operation. For more information, see [View publishing status and run log](view-run-log.md).
 
 ## Knowledge base output
 
-Publishing a TRM catalog generates knowledge base content that you can browse and search. After publishing, a catalog link is generated. For more information, see [Access the published TRM catalog knowledge base](../../task/eaw-task/access-the-published-kb.md).
+Publishing a TRM catalog generates knowledge base content that you can browse and search. After publishing, a catalog link is generated. For more information, see [Access the published TRM catalog knowledge base](access-the-published-kb.md).
 
 ## How TRM content is structured in the knowledge base
 
@@ -49,14 +49,14 @@ Access to the published TRM catalog depends on how the catalog and Knowledge Bas
 
 **Note:** The knowledge base content is always read‑only. To make changes, update TRM data or publishing configuration, and publish or republish the catalog.
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 
 
-[Publish a TRM catalog to the knowledge base](../../task/eaw-task/publish-trm-cat-to-kb.md)
+[Publish a TRM catalog to the knowledge base](publish-trm-cat-to-kb.md)
 
-[Create a new configuration to publish TRM data](../../task/eaw-task/config-trm-data-to-publish.md)
+[Create a new configuration to publish TRM data](config-trm-data-to-publish.md)
 
-[Access the published TRM catalog knowledge base](../../task/eaw-task/access-the-published-kb.md)
+[Access the published TRM catalog knowledge base](access-the-published-kb.md)
 

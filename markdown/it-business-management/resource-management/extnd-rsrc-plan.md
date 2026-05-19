@@ -47,8 +47,8 @@ FTE or Person Days or Hours
 
 Number of units to request resources.The field appears when you select one of the options in the **Request type** field. Based on the selected request type, specify the unit.
 
-For more information, see [Request type](../concept/c_ResourcePlans.md#ul_lcz_1ms_lt).
+For more information, see [Request type](c_ResourcePlans.md#ul_lcz_1ms_lt).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+</table>**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

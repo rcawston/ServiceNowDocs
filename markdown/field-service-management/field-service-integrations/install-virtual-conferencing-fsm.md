@@ -63,5 +63,5 @@ Role required: admin
 4.  Select **Install**.
 
 
-**Parent Topic:**[Integration with Virtual Conferencing](../concept/virtual-conference-integration-fsm.md)
+**Parent Topic:**[Integration with Virtual Conferencing](virtual-conference-integration-fsm.md)
 

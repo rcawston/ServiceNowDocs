@@ -21,7 +21,7 @@ Currently this API supports two translation service providers: Microsoft Azure T
 
 When using these methods in a server-side script, use the `sn_dt_api` namespace identifier. Before you are able to use this API, you must activate the DynamicTranslation \(com.glide.dynamic\_translation\) plugin. For information on this plugin and additional information on Dynamic Translation, refer to [Dynamic translation overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DynamicTranslation - getDetectedLanguage\(String text, Object parms\)
 

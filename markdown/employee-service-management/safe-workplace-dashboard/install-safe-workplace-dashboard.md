@@ -119,7 +119,7 @@ If you've subscribed to the Safe Workplace suite and you already have some of th
 7.  When the installation is complete, click **Close**.
 
 
-**Parent Topic:**[Safe Workplace Dashboard](../concept/safe-workplace-dashboard.md)
+**Parent Topic:**[Safe Workplace Dashboard](safe-workplace-dashboard.md)
 
 ## Components installed with the Safe Workplace Dashboard
 

@@ -19,11 +19,11 @@ The Proofpoint SIR integration supports the ingestion of events from Proofpoin
 
 <table id="table_d4r_wdg_b2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Proofpoint integration](../concept/proofpoint-integration-secops-exploring.md)
+[Explore![](../../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Proofpoint integration](proofpoint-integration-secops-exploring.md)
 
 </td><td>
 
-[Configure![](../../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Proofpoint for SIR Workspace](../concept/proofpoint-integration-secops-configuring.md)
+[Configure![](../../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Proofpoint for SIR Workspace](proofpoint-integration-secops-configuring.md)
 
 </td></tr></tbody>
 </table>

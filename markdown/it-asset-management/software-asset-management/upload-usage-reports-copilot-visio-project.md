@@ -152,5 +152,5 @@ Action
 </table>
 ## What to do next
 
-The usage activity reports that you uploaded can be monitored for license optimization and generation of reclamation candidates. For details, see [Evaluating software usage activity for Microsoft 365 subscriptions](../concept/o365-usage-activity.md).
+The usage activity reports that you uploaded can be monitored for license optimization and generation of reclamation candidates. For details, see [Evaluating software usage activity for Microsoft 365 subscriptions](o365-usage-activity.md).
 

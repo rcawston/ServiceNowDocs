@@ -83,7 +83,7 @@ Analyze issue records using generative AI to generate concise summaries, improvi
 
 </td></tr><tr><td>
 
-[Generate recommendation for similar control objective](../../grc-policy-and-compliance/concept/generate-recommendation-for-a-new-control-objective.md)
+[Generate recommendation for similar control objective](generate-recommendation-for-a-new-control-objective.md)
 
 </td><td>
 
@@ -112,7 +112,7 @@ Use Now LLM Service to generate risk assessment summaries from inherent, residua
 
 </td></tr><tr><td>
 
-[AI-driven regulatory alert summarization skill](../../now-assist-irm/concept/regulatory-alert-summarization.md)
+[AI-driven regulatory alert summarization skill](regulatory-alert-summarization.md)
 
 </td><td>
 
@@ -126,7 +126,7 @@ Leverage Now LLM Service to convert regulatory content into concise, business-re
 
 </td></tr><tr><td>
 
-[AI-generated recommendations for a regulatory alert skill](../../grc-rcm/concept/recommendations-for-a-regulatory-alert.md)
+[AI-generated recommendations for a regulatory alert skill](recommendations-for-a-regulatory-alert.md)
 
 </td><td>
 
@@ -145,11 +145,11 @@ To learn more about configuring and using Now Assist for IRM, see:
 
 -   [Supporting information for Now Assist for IRM](now-assist-irm-supporting-info.md)
 -   [Configure Now Assist for Integrated Risk Management \(IRM\)](configure-now-assist-for-irm.md)
--   [Activate skills in Now Assist for IRM](../task/activate-na-skills-in-irm.md)
--   [Activate agentic workflows in Now Assist for IRM](../task/activate-agentic-workflows.md)
--   [Customize the issue summarization skill](../task/customize-issue-summarization-skill.md)
+-   [Activate skills in Now Assist for IRM](activate-na-skills-in-irm.md)
+-   [Activate agentic workflows in Now Assist for IRM](activate-agentic-workflows.md)
+-   [Customize the issue summarization skill](customize-issue-summarization-skill.md)
 -   [Using Now Assist for IRM skills](using-now-assist-for-irm-to-summarize-issues.md)
 -   [Summarize an issue](summarize-an-issue.md)
 -   [Using agentic workflows in IRM](using-agentic-ai-workflows.md)
--   [Optimize GRC issue resolution](../task/generate-grc-issue-resolution.md)
+-   [Optimize GRC issue resolution](generate-grc-issue-resolution.md)
 

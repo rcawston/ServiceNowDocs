@@ -59,12 +59,12 @@ When a certificate is updated on the ADFS server, you must also upload an update
 -   **[Uploading a trusted server certificate](t_UploadATrustedServerCertificate.md)**  
 By uploading the service provider's trusted server certificate, the instance ensures it is connecting to a valid and secure service.
 
-**Parent Topic:**[Certificates](../concept/c_Certificates.md)
+**Parent Topic:**[Certificates](c_Certificates.md)
 
 **Related topics**  
 
 
-[Exploring Certificates](../concept/exploring-certificates.md)
+[Exploring Certificates](exploring-certificates.md)
 
 [Generating an LDAP client certificate](t_GenerateAnLDAPClientCertificate.md)
 

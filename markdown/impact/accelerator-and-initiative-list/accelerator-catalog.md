@@ -54,70 +54,70 @@ Accelerators that offer USPS specific versions are indicated in the specific sub
 
 ## Architecture Accelerators
 
-[Architecture Accelerators](../reference/architecture-accelerators.md) provide a foundational understanding of business outcome maturity with targeted recommendations on what to tackle next to unlock further value from the platform.
+[Architecture Accelerators](architecture-accelerators.md) provide a foundational understanding of business outcome maturity with targeted recommendations on what to tackle next to unlock further value from the platform.
 
 Accelerators that offer USPS specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](accelerator-catalog.md#restricted) for additional information.
 
 |Accelerator|Guided package|Guided +Platform Governance|Advanced package|Total package|Restricted and protected environments|
 |:----------|:------------:|:-------------------------:|:--------------:|:-----------:|:-----------------------------------:|
-|[Architecture Blueprint](../reference/architecture-blueprint.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
-|[Artificial Intelligence Readiness Assessment](../reference/artificial-intelligence-readiness-assessment.md)| |✓|✓|✓| |
-|[CSDM Data Modeling](../reference/csdm-data-modeling.md)| |✓|✓|✓| |
-|[CSDM Maturity Assessment](../reference/csdm-maturity-assessment.md)| |✓|✓|✓| |
-|[Data Management and Governance](../reference/data-mgt-governance.md)| |✓|✓|✓| |
-|[Design Review](../reference/design-review.md#)​| | |✓|![Green check mark icon](../image/dark-green-checks.png)| |
-|[Health Assessment](../reference/health-assessment.md#)| | |![Green check mark icon](../image/dark-green-checks.png)|![Blue plus sign icon](../image/blueplus.png)| |
-|[Integration Strategy](../reference/integration-strategy.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
-|[Multi-instance Topologies](../reference/multi-instance-topologies.md)| |✓|✓|✓| |
-|[Release and Deployment Advisory for Pro-code Development](../reference/release-deployment-advisory-pro-code-development.md)| |✓|✓|✓| |
-|[Technical Governance](../reference/technical-governance.md)| |✓|✓|✓| |
-|[UX: Build a Foundation for Better Experiences](../reference/ux-why-it-matters-how-to-apply-it.md)|✓|✓|✓|✓| |
-|[UX: Catalog Request Experience Review](../reference/ux-accelerator-service-request-experience-review.md)| |✓|✓|✓| |
-|[UX: Design for Employee Center](../reference/ux-design-employee-center.md)| |✓|✓|✓| |
-|[UX: Optimize Your Portal with Usage Insights](../reference/ux-optimize-your-portal-with-usage-insights.md)| |✓|✓|✓| |
-|[UX: Portal Experience Review](../reference/ux-review-employee-center.md)| |✓|✓|✓| |
-|[UX: Taxonomy Design or Review](../reference/ux_review_unified_taxonomy.md)| |✓|✓|✓| |
-|[UX: Virtual Agent Experience Design or Review](../reference/ux-virtual-agent-experience-design-or-review.md)|✓|✓|✓|✓| |
+|[Architecture Blueprint](architecture-blueprint.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
+|[Artificial Intelligence Readiness Assessment](artificial-intelligence-readiness-assessment.md)| |✓|✓|✓| |
+|[CSDM Data Modeling](csdm-data-modeling.md)| |✓|✓|✓| |
+|[CSDM Maturity Assessment](csdm-maturity-assessment.md)| |✓|✓|✓| |
+|[Data Management and Governance](data-mgt-governance.md)| |✓|✓|✓| |
+|[Design Review](design-review.md#)​| | |✓|![Green check mark icon](../image/dark-green-checks.png)| |
+|[Health Assessment](health-assessment.md#)| | |![Green check mark icon](../image/dark-green-checks.png)|![Blue plus sign icon](../image/blueplus.png)| |
+|[Integration Strategy](integration-strategy.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
+|[Multi-instance Topologies](multi-instance-topologies.md)| |✓|✓|✓| |
+|[Release and Deployment Advisory for Pro-code Development](release-deployment-advisory-pro-code-development.md)| |✓|✓|✓| |
+|[Technical Governance](technical-governance.md)| |✓|✓|✓| |
+|[UX: Build a Foundation for Better Experiences](ux-why-it-matters-how-to-apply-it.md)|✓|✓|✓|✓| |
+|[UX: Catalog Request Experience Review](ux-accelerator-service-request-experience-review.md)| |✓|✓|✓| |
+|[UX: Design for Employee Center](ux-design-employee-center.md)| |✓|✓|✓| |
+|[UX: Optimize Your Portal with Usage Insights](ux-optimize-your-portal-with-usage-insights.md)| |✓|✓|✓| |
+|[UX: Portal Experience Review](ux-review-employee-center.md)| |✓|✓|✓| |
+|[UX: Taxonomy Design or Review](ux_review_unified_taxonomy.md)| |✓|✓|✓| |
+|[UX: Virtual Agent Experience Design or Review](ux-virtual-agent-experience-design-or-review.md)|✓|✓|✓|✓| |
 
 ## Strategy Accelerators
 
-Use [Strategy Accelerators](../reference/strategy-accelerators.md) to go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to maintain business performance and drive success.
+Use [Strategy Accelerators](strategy-accelerators.md) to go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to maintain business performance and drive success.
 
 Accelerators that offer USPS specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](accelerator-catalog.md#restricted) for additional information.
 
 |Accelerator|Guided package|Guided +Strategic Value|Advanced package|Total package|Restricted and protected environments|
 |:---------:|:------------:|:---------------------:|:--------------:|:-----------:|:-----------------------------------:|
-|[Adopt AI Governance](../reference/adopt-ai-governance.md)| |✓|✓|✓| |
-|[Center of Excellence &amp; Innovation Design](../reference/CoEI-design.md#)​| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
-|[Center of Excellence and Innovation Maturity Assessment Accelerator](../reference/coei-maturity-assessment-accelerator.md)| |✓|✓|✓| |
-|[Champion Engagement](../reference/champion-engagement.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
-|[Citizen Development Program Design](../reference/citizen-development-accelerator.md)| |✓|✓|✓| |
-|[CoEI Influencing Funding Strategy](../reference/coei-influencing-factor-assessment-part-2.md)| |✓|✓|✓| |
-|[CSM - Maturity Assessment](../reference/csm-product-maturity-assessment.md)| |✓|✓|✓| |
-|[Develop Partner Strategy​](../reference/develop-partner-strategy.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
-|[Foundations of AI Governance](../reference/foundations-of-ai-governance.md)| |✓|✓|✓| |
-|[HRSD Maturity Assessment](../reference/hrsd-maturity-assessment.md)| |✓|✓|✓| |
-|[IRM Maturity Assessment](../reference/IRM-maturity-assessment.md)| |✓|✓|✓| |
-|[ITOM Maturity Assessment](../reference/ITOM-maturity-assessment.md)| |✓|✓|✓| |
-|[ITSM Maturity Assessment](../reference/itsm-maturity-assessment.md)| |✓|✓|✓| |
-|[LSD Maturity Assessment](../reference/lsd-maturity-assessment.md)| |✓|✓|✓| |
-|[OCM: Preparing for Change](../reference/ocm-preparing-for-change.md)| |✓|✓|✓| |
-|[Portfolio Governance](../reference/portfolio-governance.md)​| |✓|✓|✓| |
-|[PPM Maturity Assessment](../reference/ppm-maturity-assessment.md)| |✓|✓|✓| |
-|[ServiceNow Governance](../reference/servicenow-governance.md)| | | |✓| |
-|[SAM Maturity Assessment](../reference/sw-asset-mgmt-maturity-assessment.md)| |✓|✓|✓| |
-|[Staffing and Roles Review​](../reference/staffing-and-roles-review.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
-|[Stakeholder Path to Value](../reference/stakeholder-path-to-value.md)| |✓|✓|✓| |
-|[Strategy Governance](../reference/strategy-governance.md)​| |✓|✓|✓| |
-|[Success Readiness Assessment \(SRA\)](../reference/success-readiness-assessment.md)| |✓|✓|✓| |
-|[Value Potential](../reference/value-potential-undeployed-apps.md)| |✓|✓|✓| |
-|[Vision and Strategy](../reference/vision-and-strategy.md#)| |✓|✓|✓| |
+|[Adopt AI Governance](adopt-ai-governance.md)| |✓|✓|✓| |
+|[Center of Excellence &amp; Innovation Design](CoEI-design.md#)​| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
+|[Center of Excellence and Innovation Maturity Assessment Accelerator](coei-maturity-assessment-accelerator.md)| |✓|✓|✓| |
+|[Champion Engagement](champion-engagement.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
+|[Citizen Development Program Design](citizen-development-accelerator.md)| |✓|✓|✓| |
+|[CoEI Influencing Funding Strategy](coei-influencing-factor-assessment-part-2.md)| |✓|✓|✓| |
+|[CSM - Maturity Assessment](csm-product-maturity-assessment.md)| |✓|✓|✓| |
+|[Develop Partner Strategy​](develop-partner-strategy.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
+|[Foundations of AI Governance](foundations-of-ai-governance.md)| |✓|✓|✓| |
+|[HRSD Maturity Assessment](hrsd-maturity-assessment.md)| |✓|✓|✓| |
+|[IRM Maturity Assessment](IRM-maturity-assessment.md)| |✓|✓|✓| |
+|[ITOM Maturity Assessment](ITOM-maturity-assessment.md)| |✓|✓|✓| |
+|[ITSM Maturity Assessment](itsm-maturity-assessment.md)| |✓|✓|✓| |
+|[LSD Maturity Assessment](lsd-maturity-assessment.md)| |✓|✓|✓| |
+|[OCM: Preparing for Change](ocm-preparing-for-change.md)| |✓|✓|✓| |
+|[Portfolio Governance](portfolio-governance.md)​| |✓|✓|✓| |
+|[PPM Maturity Assessment](ppm-maturity-assessment.md)| |✓|✓|✓| |
+|[ServiceNow Governance](servicenow-governance.md)| | | |✓| |
+|[SAM Maturity Assessment](sw-asset-mgmt-maturity-assessment.md)| |✓|✓|✓| |
+|[Staffing and Roles Review​](staffing-and-roles-review.md#)| |✓|✓|![Green check mark icon](../image/dark-green-checks.png)| |
+|[Stakeholder Path to Value](stakeholder-path-to-value.md)| |✓|✓|✓| |
+|[Strategy Governance](strategy-governance.md)​| |✓|✓|✓| |
+|[Success Readiness Assessment \(SRA\)](success-readiness-assessment.md)| |✓|✓|✓| |
+|[Value Potential](value-potential-undeployed-apps.md)| |✓|✓|✓| |
+|[Vision and Strategy](vision-and-strategy.md#)| |✓|✓|✓| |
 
 **Note:** The asterisk \* indicates that this subscriber is entitled to receive the value report even if they don't take the accelerator.
 
 ## Technical Accelerators
 
-[Technical Accelerators](../reference/technical-accelerators.md) accelerate usage and adoption of specific platform and product capabilities via applied demonstrations, personalized coaching, and best practices. The Accelerators are delivered by the Impact Squad and technical consultants, as necessary.
+[Technical Accelerators](technical-accelerators.md) accelerate usage and adoption of specific platform and product capabilities via applied demonstrations, personalized coaching, and best practices. The Accelerators are delivered by the Impact Squad and technical consultants, as necessary.
 
 Accelerators that offer USPS or SPP-AU specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](accelerator-catalog.md#restricted) for additional information.
 

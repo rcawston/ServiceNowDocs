@@ -42,7 +42,7 @@ RCA privileges define cross-scope access to an application, an event, or an appl
 6.  Select **Update**.
 
 
-**Parent Topic:**[Restricted caller access approvals for Supplier Collaboration Portal](../concept/rca-approvals.md)
+**Parent Topic:**[Restricted caller access approvals for Supplier Collaboration Portal](rca-approvals.md)
 
 **Related topics**  
 

@@ -37,12 +37,12 @@ Depending on the option that you selected in the Strategy field, the following f
 |Entity table|Entity table within the database where you’re querying.|
 |Script|A script that determines how to query the desired data. The script must include an answer variable and the type of variable is a number or string.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
 [Capacity Function form](capacity-function-form.md)
 
-[Create capacity function](../task/create-capacity-function.md)
+[Create capacity function](create-capacity-function.md)
 

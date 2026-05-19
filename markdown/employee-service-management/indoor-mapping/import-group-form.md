@@ -88,7 +88,7 @@ Remaining tasks
 Number of tasks remaining in the import process.This field is auto-generated based on the Floor plan import tasks and can't be edited.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+</table>**Parent Topic:**[Indoor Mapping references](indoor-mapping-references.md)
 
 **Previous topic:**[Map printing options](map-printing-options.md)
 

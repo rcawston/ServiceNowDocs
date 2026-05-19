@@ -41,5 +41,5 @@ Role required: admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Setting up an insurance policy for Insurance claims](../concept/set-up-an-insurance-policy.md)
+**Parent Topic:**[Setting up an insurance policy for Insurance claims](set-up-an-insurance-policy.md)
 

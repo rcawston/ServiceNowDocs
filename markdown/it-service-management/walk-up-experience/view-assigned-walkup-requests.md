@@ -105,12 +105,12 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
     Alternatively, you can click **Close** to complete the interaction.
 
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](use-walkup-to-manage-demand.md)
 
 **Related topics**  
 
 
 [Use platform view to fulfill a Walk-up Experience request from a stockroom](fulfill-walkup-stockroom-request.md)
 
-[Create an incident](../../incident-management/task/create-an-incident.md)
+[Create an incident](../incident-management/create-an-incident.md)
 

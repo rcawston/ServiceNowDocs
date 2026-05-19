@@ -17,7 +17,7 @@ The Connect overlay appears over the standard user interface. It consists of the
 
 ![Connect overlay](../image/ConnectOverlay.png "Connect overlay")
 
-**Note:** An administrator can [disable](../task/t_DisableTheCollaborationOverlay.md) the Connect overlay so users can only use the Connect workspace, a full-screen interface with additional Connect tools.
+**Note:** An administrator can [disable](t_DisableTheCollaborationOverlay.md) the Connect overlay so users can only use the Connect workspace, a full-screen interface with additional Connect tools.
 
 ## Connect sidebar
 
@@ -60,7 +60,7 @@ Several icons appear in the mini window header and by the message field.
 |![New window icon](../image/IconNewWindow.png)|New window|Open the conversation in the Connect workspace, a full-screen window with additional Connect tools.|
 |![Collapse/Expand window icon](../image/IconCollapseExpandWindow.png)|Collapse/Expand conversation|Hide or show the conversation. Alternatively, click anywhere in the mini window header to the left of the icons.|
 |![Close window icon](../image/IconCloseWindow.png)|Close window|Close the mini window. The conversation remains in the Connect sidebar and the history is preserved when you reopen the conversation. You can also close a mini window by pressing the Escape key.|
-|![Connect action menu icon](../image/IconMenu.png)|Connect actions|Open the Connect actions menu, which contains options like **Transfer** and **Create Incident**. This icon is visible only when Connect actions are available for the conversation. By default, this icon is visible for support conversations only. Administrators can add options to this menu by creating [Connect actions](../task/t_AdministerConnectActions.md).|
+|![Connect action menu icon](../image/IconMenu.png)|Connect actions|Open the Connect actions menu, which contains options like **Transfer** and **Create Incident**. This icon is visible only when Connect actions are available for the conversation. By default, this icon is visible for support conversations only. Administrators can add options to this menu by creating [Connect actions](t_AdministerConnectActions.md).|
 |![Message type icon](../image/IconMessageType.png)|Message type|Choose whether messages are added to the associated record as comments or work notes. This icon is visible only for record and support conversations.|
 |![Attach file icon](../image/IconAttach.png)|Attach file|Attach and send a file. Select one or more files and click Open. You can also add an attachment by dragging and dropping it directly in the conversation.|
 

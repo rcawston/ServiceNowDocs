@@ -37,7 +37,7 @@ Here is the result of running this script on the Number of open incidents indica
 
 ![Analytics Hub for the Number of open incidents indicator showing the Age breakdown.](../image/detailed-scorecard-age-breakdown.png)
 
-**Parent Topic:**[Create a breakdown mapping on a breakdown record](../task/t_CrtBkdnBreakdownMpngs.md)
+**Parent Topic:**[Create a breakdown mapping on a breakdown record](t_CrtBkdnBreakdownMpngs.md)
 
 **Related topics**  
 

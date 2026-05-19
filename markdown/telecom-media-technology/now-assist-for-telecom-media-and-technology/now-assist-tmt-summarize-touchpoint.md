@@ -102,5 +102,5 @@ To check some details about the summary, select the more info icon \(![More info
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

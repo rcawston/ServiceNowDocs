@@ -38,5 +38,5 @@ For more information on how to view the published knowledge base article, see [V
 
 For more information on how to edit the publish knowledge base article, see [Modify a workplace knowledge base article](modify-workplace-kb-article-wsd.md).
 
-**Parent Topic:**[Workplace knowledge management](../concept/workplace-knowledge-mgmt-wsd.md)
+**Parent Topic:**[Workplace knowledge management](workplace-knowledge-mgmt-wsd.md)
 

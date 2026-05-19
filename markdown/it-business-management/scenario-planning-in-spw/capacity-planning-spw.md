@@ -47,5 +47,5 @@ The bottom screen area displays:
     ![Legend chart for Capacity screen.](../images/cp-legend.png)
 
 
-**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](../../alignment-planner-workspace/concept/alignment-planner-workspace.md)
+**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](alignment-planner-workspace.md)
 

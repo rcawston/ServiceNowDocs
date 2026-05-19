@@ -38,8 +38,8 @@ Help Daniel configure a recommended action of type guidance that uses Similarity
 |Task|Description|
 |----|-----------|
 |[Configuring a subflow for the guidance action automation](ex-ra-config-subflow-link-major-case.md)|Configure a subflow that you can use in a guidance to link the proposed major case to the current case automatically on a click of an action button.|
-|[Configure a resource generator for providing a similar major case to the current case](../task/ex-ra-resource-generator-similarity-trend.md)|Configure a resource generator of type similarity with trend that provides a similar major case to the current case.|
-|[Create a guidance for linking the similar major case to the current case](../task/ra-ex-guidance-link-major-case.md)|Create a guidance to link the similar major case to the current case by configuring guidance inputs, preview experience, and guidance action.|
-|[Create a rule from the Case context record](../task/ex-create-rule.md)|Create a rule to show recommendations for active cases that meet the condition specified in this rule.|
-|[Create a recommendation with guidance as an action type](../task/ex-create-recommendation-guidance.md)|Create a recommendation to select the Guidance as an action type for linking a major case to the current case record.|
+|[Configure a resource generator for providing a similar major case to the current case](ex-ra-resource-generator-similarity-trend.md)|Configure a resource generator of type similarity with trend that provides a similar major case to the current case.|
+|[Create a guidance for linking the similar major case to the current case](ra-ex-guidance-link-major-case.md)|Create a guidance to link the similar major case to the current case by configuring guidance inputs, preview experience, and guidance action.|
+|[Create a rule from the Case context record](ex-create-rule.md)|Create a rule to show recommendations for active cases that meet the condition specified in this rule.|
+|[Create a recommendation with guidance as an action type](ex-create-recommendation-guidance.md)|Create a recommendation to select the Guidance as an action type for linking a major case to the current case record.|
 

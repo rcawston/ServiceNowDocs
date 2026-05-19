@@ -48,7 +48,7 @@ After you download the script file, perform the following steps.
     RCA fix script can approve the RCAs which exist at the time of execution. After running the RCA script, if you install any new plugins, rerun the RCA script to approve the new RCAs.
 
 
-**Parent Topic:**[Restricted caller access approvals for Supplier Collaboration Portal](../concept/rca-approvals.md)
+**Parent Topic:**[Restricted caller access approvals for Supplier Collaboration Portal](rca-approvals.md)
 
 **Related topics**  
 

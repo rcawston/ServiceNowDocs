@@ -53,9 +53,9 @@ Different types of modals are available in UI Builder, as shown in the following
 
 ## Event handlers and modals
 
-Expose events to modals to handle call-to-action events. For example, a primary action, secondary action, and so on. You configure the data by adding an event handler and invoking a data resource. It is as simple as adding a new event handler for the component that has a modal. Or you can add an event handler to the modal itself. You select the event that you want associated with the component or modal and add it. See [Add modal to component](../task/modals-uib.md) for detailed instructions.
+Expose events to modals to handle call-to-action events. For example, a primary action, secondary action, and so on. You configure the data by adding an event handler and invoking a data resource. It is as simple as adding a new event handler for the component that has a modal. Or you can add an event handler to the modal itself. You select the event that you want associated with the component or modal and add it. See [Add modal to component](modals-uib.md) for detailed instructions.
 
--   **[Add modal to component](../task/modals-uib.md)**  
+-   **[Add modal to component](modals-uib.md)**  
 Learn how to add a modal in UI Builder. A modal is a window that appears when you click a component. For example, a modal might display when a delete button component is clicked, prompting the user to confirm deleting a record.
 
 **Parent Topic:**[Customize UI Builder pages using components](work-components.md)

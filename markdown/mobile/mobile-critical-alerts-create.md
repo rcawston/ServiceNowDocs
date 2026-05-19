@@ -19,11 +19,11 @@ Role required: admin
 
 ## About this task
 
-This task describes how to create a critical alert from an existing push notification. To create a push notification from scratch, see [Mobile push notifications](../concept/sg-mobile-push-notifications.md).
+This task describes how to create a critical alert from an existing push notification. To create a push notification from scratch, see [Mobile push notifications](sg-mobile-push-notifications.md).
 
 **Note:**
 
--   For users to receive critical alerts, the feature must be enabled on the user’s mobile device. If the feature is not enabled, the critical alert is delivered as a regular push notification, however it is labeled as critical in the notifications area. For more information, see the user-related topic, [Enabling critical alerts](../reference/critical-alert-enable.md).
+-   For users to receive critical alerts, the feature must be enabled on the user’s mobile device. If the feature is not enabled, the critical alert is delivered as a regular push notification, however it is labeled as critical in the notifications area. For more information, see the user-related topic, [Enabling critical alerts](critical-alert-enable.md).
 -   On the Android platform, when a user receives a critical alert on certain phone types, they may experience the following device behavior:
 
     -   **OnePlus devices with hardware-controlled ringer mode:**
@@ -54,7 +54,7 @@ This task describes how to create a critical alert from an existing push notific
 
     This is the notification record that you define with a critical status.
 
-    **Note:** If you want to create a push notification from scratch, refer to [Mobile push notifications](../concept/sg-mobile-push-notifications.md). You then must follow these subsequent steps to define the push notification as critical.
+    **Note:** If you want to create a push notification from scratch, refer to [Mobile push notifications](sg-mobile-push-notifications.md). You then must follow these subsequent steps to define the push notification as critical.
 
 5.  Select the Push notification message content record within the Push notification event.
 
@@ -62,7 +62,7 @@ This task describes how to create a critical alert from an existing push notific
 
 6.  Within the **Push message content** area, define and configure your critical alert.
 
-    For information on how to configure a critical alert, see [Configure code for critical alerts](../reference/mobile-citical-alert-code.md).
+    For information on how to configure a critical alert, see [Configure code for critical alerts](mobile-citical-alert-code.md).
 
 7.  Select **Save**.
 
@@ -83,13 +83,13 @@ This task describes how to create a critical alert from an existing push notific
     7.  In the **Push app** field in the Push application area, select the same application you selected for the push notification message record.
     8.  In the Pull message content area, you have the option to edit the critical alert parameters.
 
-        **Note:** If the push message content contains a mobile deep link in the code, then you must change the application this alert is used for, either `Request` or `Agent`. Mobile deep links are written in the code as `MobileDeepLinkGenerator('<application type>')`. For more information, see [Mobile deep link structure](../reference/deep-link-mobile-structure.md).
+        **Note:** If the push message content contains a mobile deep link in the code, then you must change the application this alert is used for, either `Request` or `Agent`. Mobile deep links are written in the code as `MobileDeepLinkGenerator('<application type>')`. For more information, see [Mobile deep link structure](deep-link-mobile-structure.md).
 
     9.  Select **Save**.
     10. Repeat these steps for each mobile application where you want to add a critical notification.
 
--   **[Configure code for critical alerts](../reference/mobile-citical-alert-code.md)**  
+-   **[Configure code for critical alerts](mobile-citical-alert-code.md)**  
 You can make a push notification into a critical alert with the addition of some JSON code. Different JSON code is used for iOS and Android operating systems and for the ITSM business unit.
 
-**Parent Topic:**[Mobile push notifications](../concept/sg-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notifications](sg-mobile-push-notifications.md)
 

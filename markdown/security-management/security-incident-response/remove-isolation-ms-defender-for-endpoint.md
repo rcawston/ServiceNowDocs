@@ -47,7 +47,7 @@ Role required: sn\_si.admin or sn\_si.analyst
 7.  Validate the automation activities of the execution.
 
 
-**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](../concept/additional-configurations-in-defender.md)
+**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](additional-configurations-in-defender.md)
 
 **Related topics**  
 

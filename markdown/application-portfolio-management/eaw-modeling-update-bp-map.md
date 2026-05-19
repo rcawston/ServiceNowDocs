@@ -47,7 +47,7 @@ Role required: sn\_apm.apm\_user
     This option is available only when the diagram is approved. For more information, see [Synchronize a shape to the database](eaw-modeling-sync-shape.md).
 
 
-**Parent Topic:**[Working with business process map](../../concept/eaw-concept/eaw-work-with-bp-map.md)
+**Parent Topic:**[Working with business process map](eaw-work-with-bp-map.md)
 
 **Related topics**  
 
@@ -58,7 +58,7 @@ Role required: sn\_apm.apm\_user
 
 [Update a business process map](eaw-modeling-update-bp-map.md)
 
-[Business Process Modeling Notation \(BPMN\) shapes](../../reference/eaw-reference/eaw-modeling-bpmn-shapes.md)
+[Business Process Modeling Notation \(BPMN\) shapes](eaw-modeling-bpmn-shapes.md)
 
-[Business process modeling](../../concept/eaw-concept/business-process-modeling.md)
+[Business process modeling](business-process-modeling.md)
 

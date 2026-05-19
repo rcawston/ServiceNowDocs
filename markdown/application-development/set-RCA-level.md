@@ -19,7 +19,7 @@ If you enable application administration for the target application, only applic
 
 Role required: admin or application admin
 
-**Note:** To learn about application-specific administrator roles and delegated development, see [Access control rules in application administration apps](../concept/ACL-access-checks.md) and [Delegated development and deployment](../concept/c_DelegatedDevelopment.md).
+**Note:** To learn about application-specific administrator roles and delegated development, see [Access control rules in application administration apps](ACL-access-checks.md) and [Delegated development and deployment](delegated-development-and-deployment/c_DelegatedDevelopment.md).
 
 ## Procedure
 
@@ -77,5 +77,5 @@ Calls to the resource are automatically approved. Calls are tracked in the Restr
     Once a calling source is allowed, all subsequent calls are allowed.
 
 
-**Parent Topic:**[Restricted caller access privilege settings](../concept/restricted-caller-access-privilege.md)
+**Parent Topic:**[Restricted caller access privilege settings](restricted-caller-access-privilege.md)
 

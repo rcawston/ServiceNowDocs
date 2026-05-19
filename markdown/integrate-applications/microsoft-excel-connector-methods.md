@@ -1700,5 +1700,5 @@ Writes a datatable provided in the Data parameter into a worksheet starting from
 |Data|Data that is written.|Data In|Data Table|
 |IncludeHeaders|Boolean value that Indicates whether to include headers when writing the data. The default value is set to True.|Data In|Boolean|
 
-**Parent Topic:**[Microsoft Excel](../concept/microsoft-excel-connector.md)
+**Parent Topic:**[Microsoft Excel](microsoft-excel-connector.md)
 

@@ -47,10 +47,10 @@ Team member
 
 **Note:** PPM Collaboration is not supported for teamspaces.
 
-**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 
 **Related topics**  
 
 
-[Install PPM Collaboration](../task/install-ppm-collab-store-app.md)
+[Install PPM Collaboration](install-ppm-collab-store-app.md)
 

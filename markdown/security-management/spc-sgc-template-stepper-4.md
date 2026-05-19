@@ -17,7 +17,7 @@ Provide input parameters to make a valid API call, test the connection, and rece
 
 For all templates, you can select the information icon \(![lower case letter i for more information](../../../reuse/icons/product-icons/circle-info-outline-24.svg)\) to learn more about each parameter. You can use the API samples provided with each template. After you define your input parameters, you must test your connection.
 
-You have the option to get guidance for selecting a template with a Now Assist skill for this step. See [Exploring Now Assist for Vulnerability Response AI skills and agentic workflows](../../now-assist-vulnerability-response/concept/exploring-ai-for-now-assist-for-vulnerability-response.md) for more information about the generative AI skill and [Creating an API connector with Now Assist for Vulnerability Response](../../now-assist-vulnerability-response/concept/using-now-assist-api-connector.md) about using the skill in connector framework.
+You have the option to get guidance for selecting a template with a Now Assist skill for this step. See [Exploring Now Assist for Vulnerability Response AI skills and agentic workflows](now-assist-for-vulnerability-response-vr/exploring-ai-for-now-assist-for-vulnerability-response.md) for more information about the generative AI skill and [Creating an API connector with Now Assist for Vulnerability Response](now-assist-for-vulnerability-response-vr/using-now-assist-api-connector.md) about using the skill in connector framework.
 
 Roles required:
 

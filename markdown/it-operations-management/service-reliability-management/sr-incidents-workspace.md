@@ -17,7 +17,7 @@ Track and collaborate on incidents in the Incidents tab, helping you and your te
 
 The Incidents tab appears in the Service Reliability Management \(SRM\) Reliability tasks page. Its top header shows description information, tags, priority information, state, service, and assignment group.
 
-**Note:** Tags are imported from third-party integrations and attached to incidents. However, you can also create tags to categorize data and drive system logic using the Tag icon ![Tag icon](../image/icon-sr-tag.png). For more information on creating and viewing tags, see [Manually create SRM tags](../task/sr-create-tags.md).
+**Note:** Tags are imported from third-party integrations and attached to incidents. However, you can also create tags to categorize data and drive system logic using the Tag icon ![Tag icon](../image/icon-sr-tag.png). For more information on creating and viewing tags, see [Manually create SRM tags](sr-create-tags.md).
 
 When selecting an incident, you're taken to an overview. This section contains three content panels: Summary, Activity, and Recommended actions.
 
@@ -371,5 +371,5 @@ Start or join a Slack channel:
     You are taken to the Slack channel.
 
 
-**Parent Topic:**[Exploring Service Reliability Management](../concept/exploring-service-reliability-management.md)
+**Parent Topic:**[Exploring Service Reliability Management](exploring-service-reliability-management.md)
 

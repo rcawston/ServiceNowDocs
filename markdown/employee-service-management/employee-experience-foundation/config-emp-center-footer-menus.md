@@ -35,10 +35,10 @@ After you create a footer, configure the menus for the footer. For example, you 
 
 4.  On the form, fill in the fields.
 
-    For more information on form fields and descriptions, see [Footer Menus form](../reference/ec-footer-menus.md).
+    For more information on form fields and descriptions, see [Footer Menus form](ec-footer-menus.md).
 
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Footer configuration](../concept/emp-center-footer-config.md)
+**Parent Topic:**[Footer configuration](emp-center-footer-config.md)
 

@@ -125,5 +125,5 @@ The text that is visible to users as the link for help. Add the label from the o
 The URL that is associated with the **Help link label**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference Opportunity Marketplace roles and tables](../concept/egd-oppt-mrktplc-references.md)
+</table>**Parent Topic:**[Reference Opportunity Marketplace roles and tables](egd-oppt-mrktplc-references.md)
 

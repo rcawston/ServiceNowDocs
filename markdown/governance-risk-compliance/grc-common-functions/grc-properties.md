@@ -223,5 +223,5 @@ Navigate to **All** &gt; **Composite Entities** &gt; **Properties**.
 |Separator used to auto-generate the name of composite entity and composite entity classes \[sn\_grc\_comp\_ent.name\_separator\]|Property to specify the separator that is used for the composite entity and composite entity class name.|
 |Maximum number of entities that can be rendered inside the content tree \[sn\_grc\_comp\_ent.max\_content\_tree\_entity\_count\]|Property to define the maximum number of entities displayed in the content tree during an entity search.|
 
-**Parent Topic:**[Governance, Risk, and Compliance reference](../concept/grc-reference.md)
+**Parent Topic:**[Governance, Risk, and Compliance reference](grc-reference.md)
 

@@ -20,5 +20,5 @@ The Default Template form enables you to create, review, and modify the details 
 -   **[Scheduled Entity Generation form](scheduled-entity-generation-form.md)**  
 The Scheduled Entity Generation form enables you to create, review and modify the schedule generation details for a default template.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 

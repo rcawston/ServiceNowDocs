@@ -67,7 +67,7 @@ You can use the filter in the logical connection audit.
 
 [Example for Telecom Discrepancy Audit and Remediation](run-audits.md#)
 
-[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](../concept/system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
+[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
 
 [Configure attribute value discrepancy in CMDB 360](configure-attribute-value-discrepancy-in-cmdb-360.md)
 

@@ -15,15 +15,15 @@ Customize your ServiceNow apps.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[UI Builder ![UI Builder.](../image/icon-uib.png) Learn how to create custom experiences with the ServiceNow platform.](../../../administer/ui-builder/concept/ui-builder-overview.md)
+[UI Builder ![UI Builder.](../image/icon-uib.png) Learn how to create custom experiences with the ServiceNow platform.](ui-builder/ui-builder-overview.md)
 
 </td><td>
 
-[Table Builder ![Table Builder.](../image/icon-table-builder.png) Customize your data with Table Builder.](../../../administer/form-builder/concept/tb-landing-page.md)
+[Table Builder ![Table Builder.](../image/icon-table-builder.png) Customize your data with Table Builder.](form-builder-glide-family-release/tb-landing-page.md)
 
 </td></tr><tr><td>
 
-[Workspace Builder ![Workspace Builder.](../image/icon-workspace-builder.png) Customize your data with Workspace Builder.](../../app-engine-studio/task/configure-workspace-builder.md)
+[Workspace Builder ![Workspace Builder.](../image/icon-workspace-builder.png) Customize your data with Workspace Builder.](workspace-builder/configure-workspace-builder.md)
 
 </td><td>
 

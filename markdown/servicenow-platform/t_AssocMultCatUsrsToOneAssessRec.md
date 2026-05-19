@@ -39,12 +39,12 @@ You can also edit or delete stakeholders from the form.
 -   **[Delete a stakeholder for one assessable record](t_DelAStakeholderForOneAssessRec.md)**  
 You can delete stakeholders for one assessable record.
 
-**Parent Topic:**[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+**Parent Topic:**[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 **Related topics**  
 
 
-[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 [Create a category user](t_CreateACategoryUser.md)
 

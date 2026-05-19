@@ -17,7 +17,7 @@ Embedded help provides targeted help content to a user in a UI page, based on th
 
 ## Overview
 
-**Note:** Required: Embedded help is only available in Core UI. For configurable workspaces, use [Help Center](../../adoption-services/concept/help-center.md).
+**Note:** Required: Embedded help is only available in Core UI. For configurable workspaces, use [Help Center](help-center.md).
 
 The Embedded Help plugin \(com.glide.embedded\_help\) is active by default for all new and upgraded instances. Embedded help content appears in the right sidebar when the user clicks the help icon. If embedded help exists for the current UI page, the help icon has an indicator \(![Embedded help indicator on help icon](../image/icon-embedded-help-available.png)\).
 
@@ -25,7 +25,7 @@ The Embedded Help plugin \(com.glide.embedded\_help\) is active by default for a
 
 If there is no embedded help for a list or form, the sidebar displays links to the User Guide and the documentation site search. Click **Search Documentation** to search for documentation about that feature.
 
-Users with the embedded\_help\_admin or admin role can add help to the page. They can also edit custom content that appears for a page. The following image shows what the admin sees when there is no help article, and how to open an existing article. If you want to edit base system help content, follow the steps in [Add custom Embedded Help from a copy](../task/add-custom-help-copy.md).
+Users with the embedded\_help\_admin or admin role can add help to the page. They can also edit custom content that appears for a page. The following image shows what the admin sees when there is no help article, and how to open an existing article. If you want to edit base system help content, follow the steps in [Add custom Embedded Help from a copy](add-custom-help-copy.md).
 
 ![Add content or edit existing content](../image/embedded-help-call-to-action.png "Embedded help administrator features in the help panel")
 

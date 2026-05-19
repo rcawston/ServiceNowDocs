@@ -40,7 +40,7 @@ The Password Reset Windows Application internal classes automatically pick the c
 5.  Click **OK**.
 
 
--   **[PAC file with registry setting](../reference/win-pac-file-with-registry-setting.md)**  
+-   **[PAC file with registry setting](win-pac-file-with-registry-setting.md)**  
 In this proxy configuration, the Proxy Auto-Configuration \(PAC\) file can be configured in Password Reset Windows Application registry settings.
 
 **Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](win-config-proxy-server-password-reset.md)

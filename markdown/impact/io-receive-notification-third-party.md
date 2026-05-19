@@ -169,5 +169,5 @@ Webhook URL as configured on your third-party \(external\) application.For more 
         2.  As Notifications from ![bell icon](../image/io-bell-icon.png). Select **View Notification History** and filter with `Integration Failed`.
         3.  As an email notification with the integration name, error number, and the message.
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](io-alerts-intro.md)
 

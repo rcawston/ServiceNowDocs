@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../reference/components-installed-with-esg.md).
+For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 ## Procedure
 
@@ -36,5 +36,5 @@ For more information, see [Components installed with Operational Sustainability 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configure Sustainable IT](../concept/configure-sustainable-it.md)
+**Parent Topic:**[Configure Sustainable IT](configure-sustainable-it.md)
 

@@ -63,5 +63,5 @@ To populate data in the Discovery schedule gaps to allocated IP \[sn\_cmdb\_ip\_
 -   Type: true \| false
 -   Default value: `false`
 
-**Parent Topic:**[CMDB Coverage reference](../concept/cmdb-coverage-reference.md)
+**Parent Topic:**[CMDB Coverage reference](cmdb-coverage-reference.md)
 

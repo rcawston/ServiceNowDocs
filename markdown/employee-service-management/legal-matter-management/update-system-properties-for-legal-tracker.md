@@ -40,5 +40,5 @@ Role required: admin
 
 The system property update to add the new URL to directly open external matters for the Legal Tracker application that is to be integrated with Legal Matter Management.
 
-**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](../concept/configurations-for-legal-tracker-integration.md)
+**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](configurations-for-legal-tracker-integration.md)
 

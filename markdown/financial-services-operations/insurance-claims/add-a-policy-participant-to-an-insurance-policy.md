@@ -54,5 +54,5 @@ Role required: admin
 
 Add a related list to the insurance model's financial model view to see all the policies for that insurance product. For more information, see [Add a related list to an insurance product model](add-related-list-to-insurance-product-model.md).
 
-**Parent Topic:**[Setting up an insurance policy for Insurance claims](../concept/set-up-an-insurance-policy.md)
+**Parent Topic:**[Setting up an insurance policy for Insurance claims](set-up-an-insurance-policy.md)
 

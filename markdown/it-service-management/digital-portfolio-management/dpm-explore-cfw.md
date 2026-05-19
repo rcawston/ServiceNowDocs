@@ -92,7 +92,7 @@ Align with the Common Service Data Model \(CSDM\) to get a holistic view of your
 
 </td><td>
 
-[Apply the CSDM guidelines to Digital Portfolio Management](../reference/dpm-csdm.md)
+[Apply the CSDM guidelines to Digital Portfolio Management](dpm-csdm.md)
 
 </td><td>
 
@@ -164,7 +164,7 @@ DPM manager to view DevOps data.
 
  DPM admin to turn on the DevOps system property.
 
- See [Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md).
+ See [Configure the Digital Portfolio Management experience](dpm-configure-experience.md).
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ DPM manager to view Process Mining data.
 
  Process Mining analyst to enable the system property.
 
- See [Process Mining components for Digital Portfolio Management](../reference/dpm-po-integration.md).
+ See [Process Mining components for Digital Portfolio Management](dpm-po-integration.md).
 
 </td></tr></tbody>
 </table>## What to explore next
@@ -190,6 +190,6 @@ To learn more about configuring and using DPM, see:
 -   [Configuring Digital Portfolio Management](dpm-configure-cfw.md)
 -   [Getting started with Digital Portfolio Management](dpm-using-cfx.md)
 -   [Work with portfolios in Digital Portfolio Management](dpm-explore-portfolios.md)
--   [Work with solution data in Digital Portfolio Management](../reference/dpm-working-with.md)
--   [Digital Portfolio Management reference](../reference/dpm-reference-cfw.md)
+-   [Work with solution data in Digital Portfolio Management](dpm-working-with.md)
+-   [Digital Portfolio Management reference](dpm-reference-cfw.md)
 

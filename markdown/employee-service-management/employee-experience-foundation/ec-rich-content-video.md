@@ -38,7 +38,7 @@ The **Rich Content Editor** supports the following types of video:
 -   Vimeo
 -   Video streaming service
 
-    **Note:** You must configure a content provider to use videos from a video streaming service. See [Video hosting integrations framework](../concept/content-providers.md).
+    **Note:** You must configure a content provider to use videos from a video streaming service. See [Video hosting integrations framework](content-providers.md).
 
 -   Other
 
@@ -178,11 +178,11 @@ Check this box to display the video player controls that your users can interact
 
 -   \(Optional\) Translate your content.
 
-    Request language translation for your content. For more information, see [Multilingual support in the Content Library](../concept/ec-switch-language.md).
+    Request language translation for your content. For more information, see [Multilingual support in the Content Library](ec-switch-language.md).
 
     **Note:** Only translate content after you are done modifying the content. For best results, we do not recommend that you add or remove components or change the formatting after translation.
 
-    To create rich content that is formatted differently in different languages, duplicate the content and modify the formatting as needed. Then, use Audiences to target the content to users by language. See [Audiences](../concept/ecpro-audience.md)
+    To create rich content that is formatted differently in different languages, duplicate the content and modify the formatting as needed. Then, use Audiences to target the content to users by language. See [Audiences](ecpro-audience.md)
 
 -   Preview your content from the **Publish** tab.
 

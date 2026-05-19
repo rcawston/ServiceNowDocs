@@ -17,7 +17,7 @@ Administrators must manually start data jobs that apply field changes. All trans
 
 **Note:**
 
-If the Field Normalization plugin is active, the normalization engine executes on insert of records into a table according to normalization rules. To learn more about this plugin, see [Activate Field Normalization](../task/activate-field-normalization.md).
+If the Field Normalization plugin is active, the normalization engine executes on insert of records into a table according to normalization rules. To learn more about this plugin, see [Activate Field Normalization](activate-field-normalization.md).
 
 If the Field Normalization plugin is not active, a data job runs to normalize the values. The data job saves the previous values in the rolled back fields to revert them if necessary.
 

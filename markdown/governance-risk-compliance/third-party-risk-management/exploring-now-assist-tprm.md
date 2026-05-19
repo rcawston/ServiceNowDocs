@@ -28,7 +28,7 @@ Learn the details of a third-party risk issue from AI-generated summaries, and u
 
 Now Assist for TPRM includes generative AI capabilities that help you interpret and act on TPRM records more efficiently. These capabilities support tasks such as summarizing TPRM issue details and recommending TPRM issues.
 
-**Note:** The TPRM GenAI User \[sn\_tprm\_genai.nowassist\_user\] role is granted to Third-party Assessment reviewers \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\] after you install the Now Assist for TPRM application. For more information about all TPRM roles, see [Roles in Third-party Risk Management](../../grc-vendor-risk-implementation/reference/tprm-roles.md).
+**Note:** The TPRM GenAI User \[sn\_tprm\_genai.nowassist\_user\] role is granted to Third-party Assessment reviewers \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\] after you install the Now Assist for TPRM application. For more information about all TPRM roles, see [Roles in Third-party Risk Management](tprm-roles.md).
 
 <table id="table_p1h_lgx_12c"><thead><tr><th>
 
@@ -44,7 +44,7 @@ User role
 
 </th></tr></thead><tbody><tr><td>
 
-[TPRM Issue Summarization](../task/create-a-summary-of-issue.md)
+[TPRM Issue Summarization](create-a-summary-of-issue.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Uses generative AI to create a quick summary for the third-party risk issue reco
 
 </td></tr><tr><td>
 
-[TPRM Issue Recommendation](../task/create-recommendation-tprm-issue.md)
+[TPRM Issue Recommendation](create-recommendation-tprm-issue.md)
 
 </td><td>
 
@@ -76,11 +76,11 @@ Uses generative AI to generate third‑party risk issue record recommendations, 
 To learn more about configuring and using Now Assist for TPRM, see:
 
 -   [Supporting information for Now Assist for Third-party Risk Management \(TPRM\)](supporting-information-now-assist-tprm.md)
--   [Configure Now Assist for Third-party Risk Management \(TPRM\)](../task/configure-now-assist-for-tprm.md)
--   [Activate the TPRM issue summarization skill](../task/tprm-summarize-an-issue.md)
--   [Activate TPRM issue recommendation skill](../task/tprm-recommend-an-issue.md)
+-   [Configure Now Assist for Third-party Risk Management \(TPRM\)](configure-now-assist-for-tprm.md)
+-   [Activate the TPRM issue summarization skill](tprm-summarize-an-issue.md)
+-   [Activate TPRM issue recommendation skill](tprm-recommend-an-issue.md)
 -   [Using Now Assist for Third-party Risk Management \(TPRM\) skills](using-now-assist-for-tprm.md)
--   [Generate a summary of a TPRM issue](../task/create-a-summary-of-issue.md)
--   [Generate issue recommendations for TPRM](../task/create-recommendation-tprm-issue.md)
--   [Create or dismiss issues using recommendations](../task/manage-recommendation-issue.md)
+-   [Generate a summary of a TPRM issue](create-a-summary-of-issue.md)
+-   [Generate issue recommendations for TPRM](create-recommendation-tprm-issue.md)
+-   [Create or dismiss issues using recommendations](manage-recommendation-issue.md)
 

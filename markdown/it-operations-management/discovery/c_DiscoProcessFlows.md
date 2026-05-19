@@ -21,7 +21,7 @@ A user triggers horizontal discovery by configuring a discovery schedule or by l
 
 ## Scanning phase
 
-1.  Discovery first takes the Shazzam probe \(and then [port probes](../reference/r_PortProbes.md)\) and places it in a request in the External Communication Channel \(ECC\) queue.
+1.  Discovery first takes the Shazzam probe \(and then [port probes](r_PortProbes.md)\) and places it in a request in the External Communication Channel \(ECC\) queue.
 2.  The MID Server checks the ECC queue, retrieves the discovery request, and runs the probes against the host and discovers open ports.
 3.  The port probes scan common ports using several protocols, such as WMI, HTTP, SSH, and SNMP.
 4.  If one or more ports respond, the Shazzam probe sends information about the port back to the ECC queue through the MID Server.

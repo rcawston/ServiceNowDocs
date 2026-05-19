@@ -45,5 +45,5 @@ Perform this procedure on each MID Server used by Service Mapping or Discovery.
     `winrm s winrm/config/client '@{TrustedHosts="serverA,serverB,serverC"}'`
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](c_MIDServerConfiguration.md)
 

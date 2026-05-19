@@ -46,7 +46,7 @@ Verify that you have a ServiceNow® add-in for Microsoft Outlook \(com.sn\_outlo
     You can connect to your Microsoft Outlook account with your ServiceNow® instance.
 
 
-**Parent Topic:**[Configuring Feedback application in Strategic Planning](../concept/configuring-product-feedback-in-sp.md)
+**Parent Topic:**[Configuring Feedback application in Strategic Planning](configuring-product-feedback-in-sp.md)
 
 **Related topics**  
 

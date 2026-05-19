@@ -17,7 +17,7 @@ Record an automation by using the recorder option in the RPA Desktop Design Stud
 
 You must do the following actions before you start recording an automation with the recorder for the first time:
 
--   Install and enable the ServiceNow RPA Chrome extension to your Google Chrome browser. For more information on adding the RPA Google Chrome extension, see [Add the ServiceNow RPA Chrome extension](../../rpa-hub/task/add-google-chrome-extension-rpa.md).
+-   Install and enable the ServiceNow RPA Chrome extension to your Google Chrome browser. For more information on adding the RPA Google Chrome extension, see [Add the ServiceNow RPA Chrome extension](add-google-chrome-extension-rpa.md).
 -   Install and enable the ServiceNow RPA Edge extension to your Microsoft Edge browser. For more information on adding the RPA Edge extension, see [Add the ServiceNow RPA Edge extension](add-servicenow-edge-extension.md).
 -   Ensure that the option **Allow this extension to read and change all your data on websites that you visit** to **On all sites** is enabled in the Site access pane of the ServiceNow RPA Google Chrome and Microsoft Edge browser extensions.
 -   Enable Java Access Bridge from your Windows machine. For more information on how to enable Java Access Bridge, see [Enabling and Testing Java Access Bridge](https://docs.oracle.com/javase/7/docs/technotes/guides/access/enable_and_test.html).
@@ -52,7 +52,7 @@ Role required: None
 
     For example, the list of related actions for the button element type are SendKeys, GetText, DoubleClick, and Focus.
 
-    For more information on the different types of actions and elements, see [Types of elements and actions for the recorder](../reference/element-actions-recorder.md).
+    For more information on the different types of actions and elements, see [Types of elements and actions for the recorder](element-actions-recorder.md).
 
 5.  Select the required action to be performed on the element.
 
@@ -183,5 +183,5 @@ You can view the recorded elements as a UAC object in **Global Objects** in Proj
     For more information on how to configure the screen and element match rules, see [Use the Universal App Connector](configure-uac.md).
 
 
-**Parent Topic:**[Recording automations](../concept/recording-automations.md)
+**Parent Topic:**[Recording automations](recording-automations.md)
 

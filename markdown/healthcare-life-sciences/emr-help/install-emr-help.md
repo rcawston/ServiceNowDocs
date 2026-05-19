@@ -31,7 +31,7 @@ The following items are installed with EMR Help:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with EMR Help](../reference/components-installed-emr-help.md).
+For more information, see [Components installed with EMR Help](components-installed-emr-help.md).
 
 ## Procedure
 

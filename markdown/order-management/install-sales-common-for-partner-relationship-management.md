@@ -82,8 +82,8 @@ Load the demo data after installing the Sales Common plugin.1.  Install Sales Co
 
 You have successfully installed the Sales Common for Channel Partners \(com.snc.partner\_relationship\_management\_sales\_common\) application.
 
--   **[Roles and components of Sales Common](../concept/roles-and-components-of-sales-common.md)**  
+-   **[Roles and components of Sales Common](roles-and-components-of-sales-common.md)**  
 The Sales Common for Channel Partners plugin \(com.snc.partner\_relationship\_management\_sales\_common\) application uses roles to provide access to information, identify internal and external users, and maintain data security.
 
-**Parent Topic:**[Configure Partner Relationship Management](../concept/configure-partner-relationship-management.md)
+**Parent Topic:**[Configure Partner Relationship Management](configure-partner-relationship-management.md)
 

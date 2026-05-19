@@ -111,7 +111,7 @@ Starting at the selected icon, loads the next level of the map, past the setting
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use Dependency Views](../topic/p_UseNGBSM.md)
+**Parent Topic:**[Use Dependency Views](p_UseNGBSM.md)
 
 **Related topics**  
 

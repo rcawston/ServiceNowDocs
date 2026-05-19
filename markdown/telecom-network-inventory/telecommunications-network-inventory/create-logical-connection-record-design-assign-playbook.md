@@ -423,10 +423,10 @@ Free-form operation note text for this network asset. For example, `Check diesel
 
 The change tasks are created and executed for each activity. The logical connection record is created with the associated Configuration items \(CI\).
 
-**Parent Topic:**[Design and Assign function](../concept/using-playbooks-design-assign-inventory-record.md)
+**Parent Topic:**[Design and Assign function](using-playbooks-design-assign-inventory-record.md)
 
 **Related topics**  
 
 
-[Logical connections](../concept/design-logical-connection-design-assign-playbook.md)
+[Logical connections](design-logical-connection-design-assign-playbook.md)
 

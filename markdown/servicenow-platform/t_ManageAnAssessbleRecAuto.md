@@ -39,12 +39,12 @@ Role required: assessment\_admin or admin
     **Note:** To configure the system to automatically associate all assessable records from a metric type to a category, use the same category condition as the metric type condition. For example, if the **Vendor** metric type has the condition **\[Vendor\] \[is\] \[true\]**, create the same condition for the category. If the metric type does not have a condition specified, you can use the category condition **\[Sys ID\] \[is not empty\]**, which includes all records from any table.
 
 
-**Parent Topic:**[Assessable record associations](../reference/r_ManageAssessablRecordAssociation.md)
+**Parent Topic:**[Assessable record associations](r_ManageAssessablRecordAssociation.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 
 [Create a category for assessable records](t_CreateACategoryAR.md)
 

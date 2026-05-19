@@ -31,7 +31,7 @@ Installing the Security Incident Response application version 13.4.5 or later au
 
 **Enterprise Security Case Management PAD Commons** requires the Playbook Experience \[playbook\_experience\] plugin.
 
-For information on the Security Incident Response roles, tables, properties, and scheduled jobs, see [Components installed with Security Incident Response](../../security-incident-response/reference/installed-with-sir.md).
+For information on the Security Incident Response roles, tables, properties, and scheduled jobs, see [Components installed with Security Incident Response](installed-with-sir.md).
 
 **Parent Topic:**[Exploring SIR Workspace](exploring-security-incident-response-workspace.md)
 
@@ -42,11 +42,11 @@ For information on the Security Incident Response roles, tables, properties, and
 
 [SIR Workspace interface overview](overview.md)
 
-[Upcoming section](../task/upcoming-section.md)
+[Upcoming section](upcoming-section.md)
 
-[Quick links section](../concept/quick-links.md)
+[Quick links section](quick-links.md)
 
-[Shift Handover Records section](../concept/shift-handover-records-section.md)
+[Shift Handover Records section](shift-handover-records-section.md)
 
-[List view in SIR Workspace](../concept/setting-up-list-view-in-analyst-workspace.md)
+[List view in SIR Workspace](setting-up-list-view-in-analyst-workspace.md)
 

@@ -124,7 +124,7 @@ Perform any of the following actions as per requirement:
 -   [Upload the manifest file for a single user](upload-manifest-for-single-user.md)
 -   [Upload the manifest file in Microsoft Office 365](upload-the-manifest-file-office365.md)
 
-**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](../concept/configure-workplace-rsv-for-outlook-addin.md)
+**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](configure-workplace-rsv-for-outlook-addin.md)
 
 **Related topics**  
 

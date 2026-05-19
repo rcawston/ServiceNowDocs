@@ -38,10 +38,10 @@ Role required: admin
 
 You can [define risk and impact conditions](define-risk-and-impact-conditions.md) for your change records.
 
--   **[Installed with Best Practice - Change Risk Calculator](../reference/installed-with-change-risk-calc.md#)**  
+-   **[Installed with Best Practice - Change Risk Calculator](installed-with-change-risk-calc.md#)**  
 Several types of components are installed with the Best Practice- Change Risk Calculator.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

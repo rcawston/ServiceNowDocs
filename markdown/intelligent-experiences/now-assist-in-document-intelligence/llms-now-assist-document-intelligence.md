@@ -26,7 +26,7 @@ The following table lists the available LLMs for Now Assist in Document Intellig
 
 |LLM|Highlights|
 |---|----------|
-|Now Assist default|Use the LLM selected as the default for all Now Assist skills. For more information, see [Manage AI models](../../now-assist-admin/task/manage-large-language-models.md).|
+|Now Assist default|Use the LLM selected as the default for all Now Assist skills. For more information, see [Manage AI models](../manage-large-language-models.md).|
 |Now LLM Service - Large|Text-only model used for AI-driven solutions to support natural language understanding, automation, and decision support.|
 |Now LLM Service - Small|Text-only model used for enterprise AI applications by enhancing text-based automation and content generation within ServiceNow workflows.|
 |Google Cloud - Gemini Large|Multimodal model with advanced reasoning and problem-solving capabilities.|
@@ -36,7 +36,7 @@ The following table lists the available LLMs for Now Assist in Document Intellig
 |Amazon Bedrock - Claude Large|Multimodal model with strong context management for long documents and dialogs.|
 |Amazon Bedrock - Claude Small|Multimodal model with lower latency and higher efficiency for real-time applications.|
 
-For more information, see [Large language models on the ServiceNow AI Platform](../../general/concept/exploring-large-language-models.md).
+For more information, see [Large language models on the ServiceNow AI Platform](../servicenow-large-language-model-now-llm/exploring-large-language-models.md).
 
 **Parent Topic:**[Now Assist in Document Intelligence reference](now-assist-in-document-intelligence-reference.md)
 

@@ -57,5 +57,5 @@ Role required: admin
 5.  Select the **Active** check box for the connector configuration and click **Update**.
 
 
-**Parent Topic:**[Sentiment analysis for surveys](../concept/sentiment-analysis.md)
+**Parent Topic:**[Sentiment analysis for surveys](sentiment-analysis.md)
 

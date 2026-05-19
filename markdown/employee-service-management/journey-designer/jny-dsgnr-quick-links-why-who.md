@@ -15,7 +15,7 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 Quick links give employees quick access to varied resources directly from a journey. Administrators, journey owners, and mentors are able to add linked resources to journeys.
 
-**Note:** Journey owners and mentors must be given **Can add quick links** permission by an administrator. Journey permissions are assigned and managed in journey configurations. See, [Update users' permissions for journeys](../task/jny-dsgnr-update-user-permissions.md).
+**Note:** Journey owners and mentors must be given **Can add quick links** permission by an administrator. Journey permissions are assigned and managed in journey configurations. See, [Update users' permissions for journeys](jny-dsgnr-update-user-permissions.md).
 
 There are two types of quick links that can be added to a journey from **Journey designer**.
 
@@ -92,9 +92,9 @@ Managers and mentors with edit journey permission add external links to a journe
 |**Link text**|The user readable text that is visible in the journey.|
 |**Link address**|Manager and mentors add valid external links. The Quick Links widget checks for a valid URL format. For example, `https://www.website.com`.|
 
--   **[Create a quick link as an administrator](../task/jny-dsgnr-admin-created-qlink.md)**  
+-   **[Create a quick link as an administrator](jny-dsgnr-admin-created-qlink.md)**  
 Journey designer administrators create quick links that are part of a journey configuration. Administrator created quick links cannot be deleted or edited by journey owners or mentors.
--   **[Delete a quick link created by an administrator](../task/jny-dsgnr-delete-admin-created-qlink.md)**  
+-   **[Delete a quick link created by an administrator](jny-dsgnr-delete-admin-created-qlink.md)**  
 To delete an administrator created quick link in Journey designer, you must be an administrator.
 
 **Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)

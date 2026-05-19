@@ -29,7 +29,7 @@ The following items are installed with Individual Life Servicing:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Individual Life Servicing](../reference/components-installed-individual-life-servicing.md).
+For more information, see [Components installed with Individual Life Servicing](components-installed-individual-life-servicing.md).
 
 ## Procedure
 

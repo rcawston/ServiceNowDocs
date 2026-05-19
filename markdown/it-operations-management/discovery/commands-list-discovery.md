@@ -15,7 +15,7 @@ breadcrumb: [Discovery reference, Discovery, ITOM Visibility, IT Operations Mana
 
 The **Command List** form contains all commands used in discovery by infrastructure or application type patterns.
 
-For information on viewing a list of commands used by a pattern, see [View Patterns commands through the Discovery Patterns module](../../discovery/task/view-command-pattern-discovery.md)and [View Patterns commands through the Command List module](../../discovery/task/view-pattern-command-in-command-list.md).
+For information on viewing a list of commands used by a pattern, see [View Patterns commands through the Discovery Patterns module](view-command-pattern-discovery.md)and [View Patterns commands through the Command List module](view-pattern-command-in-command-list.md).
 
 <table id="table_brg_3yh_fwb"><thead><tr><th>
 
@@ -102,12 +102,12 @@ Domain
 The command is validated for discovering CIs in this domain. This field is applicable for domain-separated environment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Discovery reference](../../discovery/reference/discovery-references.md)
+</table>**Parent Topic:**[Discovery reference](discovery-references.md)
 
 **Related topics**  
 
 
 [Command Validation Tasks form for pattern-based discovery](command-validation-reference.md)
 
-[Discovery commands for probes and patterns](../../discovery/concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](discovery-command-probe-pattern.md)
 

@@ -52,10 +52,10 @@ Role required: admin or sp\_admin
     ![Screenshot to automatically update the shopping cart](../image/auto-update-cart.png "Automatic updates to the shopping cart")
 
 
-**Parent Topic:**[SC Shopping Cart widget](../concept/sc-shopping-cart.md)
+**Parent Topic:**[SC Shopping Cart widget](sc-shopping-cart.md)
 
 **Related topics**  
 
 
-[Enable the Shopping Cart widget](../concept/enable-shopping-cart.md)
+[Enable the Shopping Cart widget](enable-shopping-cart.md)
 

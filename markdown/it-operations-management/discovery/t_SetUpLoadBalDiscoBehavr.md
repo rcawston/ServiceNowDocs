@@ -103,14 +103,14 @@ For example, an organization has 50 remote locations, varying in size from 10 de
     ![Discovery Schedule](../image/DiscoverySchedule.png "Discovery Schedule")
 
 
-**Parent Topic:**[Discovery behaviors](../concept/c_DiscoveryBehaviors.md)
+**Parent Topic:**[Discovery behaviors](c_DiscoveryBehaviors.md)
 
 **Related topics**  
 
 
 [Create a Discovery behavior](create-disco-behavior.md)
 
-[Examples of Discovery behavior functionalities](../reference/r_DefineTheFunctionalities.md)
+[Examples of Discovery behavior functionalities](r_DefineTheFunctionalities.md)
 
 [Discovery behavior example: access an ACL protected SNMP device](t_AccessAnACLProtectedSNMPDevice.md)
 

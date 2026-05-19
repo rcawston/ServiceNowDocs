@@ -272,5 +272,5 @@ Enter the reason for editing the purchase requisition or order.
 9.  To save the modified details of the purchase requisition or order as a draft, select **Save as Draft** option.
 
 
-**Parent Topic:**[Purchase revision flows](../concept/purchase-revision-flows.md)
+**Parent Topic:**[Purchase revision flows](purchase-revision-flows.md)
 

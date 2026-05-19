@@ -30,7 +30,7 @@ There are specific settings or limits used to control the behavior of text-based
 
 The EM Alert Clustering Solution definition is located in the \[ml\_capability\_definition\_clustering\] table. To access it, navigate to **Predictive Intelligence** &gt; **Clustering** &gt; **Solution Definitions**.
 
-To verify if the solution definition is active, see [Verify text-based clustering solution](../task/NLP-alerts.md). To disable the EM Alert Clustering Solution definition, disable text-based alert grouping by setting the property **sa\_analytics.text\_based\_group\_enabled** to `false` and clearing the **Active** check box in the EM Alert Clustering Solution definition.
+To verify if the solution definition is active, see [Verify text-based clustering solution](NLP-alerts.md). To disable the EM Alert Clustering Solution definition, disable text-based alert grouping by setting the property **sa\_analytics.text\_based\_group\_enabled** to `false` and clearing the **Active** check box in the EM Alert Clustering Solution definition.
 
 ## Example of text-based alert grouping
 

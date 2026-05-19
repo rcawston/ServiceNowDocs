@@ -53,7 +53,7 @@ Field Values
 
 Set static or dynamic values of fields in the record. For example, to set the short description to a static value, select **Short description** and set the desired value.
 
- To add dynamic values, see [Create a template value input](../task/template-value.md).
+ To add dynamic values, see [Create a template value input](template-value.md).
 
  **Important:** The system does not support updating multiple journal fields such as the additional comments or work notes of a task record.
 
@@ -138,5 +138,5 @@ The completion status of the action as a numeric value.-   0 \(success\)
 Choice
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+</table>**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

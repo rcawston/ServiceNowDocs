@@ -37,5 +37,5 @@ In this step, you can also add Knowledge graphs. Knowledge graphs give the AI ag
 
 You can minimize the potential negative impact of an AI agent not executing as expected by configuring AI agents' tools to run in supervised mode. Running in supervised mode means that the tools use human oversight when executing actions. You can use the Supervised mode to enhance security for agents with the capability to perform sensitive or critical actions.
 
-You can set the supervised execution mode when creating a tool in the AI agent guided setup. For example, choose Supervised as the Execution mode when adding a catalog item tool. For reference, see [Add a catalog item to an AI agent](../task/add-catalog-ai-agent.md).
+You can set the supervised execution mode when creating a tool in the AI agent guided setup. For example, choose Supervised as the Execution mode when adding a catalog item tool. For reference, see [Add a catalog item to an AI agent](add-catalog-ai-agent.md).
 

@@ -264,5 +264,5 @@ logs
 -   **[Kafka SSL credentials fields](hla-data-input-kafka-credentials.md)**  
 Description of the fields on the Kafka SSL credentials form.
 
-**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

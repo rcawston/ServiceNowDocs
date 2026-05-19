@@ -26,5 +26,5 @@ Role required: it\_program\_manager
     The PMO Dashboard is displayed.
 
 
-**Parent Topic:**[Program Dashboard](../concept/c_ProgramManagerDashboard.md)
+**Parent Topic:**[Program Dashboard](c_ProgramManagerDashboard.md)
 

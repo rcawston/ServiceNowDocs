@@ -52,5 +52,5 @@ Role required: agent\_client\_collector\_admin
 
 ## What to do next
 
-[Configure mTLS authentication for a MID Web Server](../../event-management/task/configure-mid-web-server-extension-mTLS.md).
+[Configure mTLS authentication for a MID Web Server](configure-mid-web-server-extension-mTLS.md).
 

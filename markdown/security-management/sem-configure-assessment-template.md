@@ -38,5 +38,5 @@ In the Security Exposure Management workspace, you can select the template with 
     -   **Template Categories**: Templates are categorized for easier management. Some template categories are provided by default, for example, Vulnerability Response Questionnaire Templates. Alternatively, you can also create templates of your choice.
     -   **Assessment Targets**: Specifies the table that the template is related to. For VR, it’s the CA table \(Change Approval table\).
 
-**Parent Topic:**[Questionnaire support in Exception Management via Smart Assessment](../concept/sem-smart-assessment-exp-management.md)
+**Parent Topic:**[Questionnaire support in Exception Management via Smart Assessment](sem-smart-assessment-exp-management.md)
 

@@ -112,7 +112,7 @@ Specific [Credential aliases for Orchestration activities](https://raw.githubuse
 
 |Variable|Description|
 |--------|-----------|
-|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](../../orchestration-activity-designer/task/t_CreateAParsingRule.md#). If this variable is not null, the operation has failed.|
+|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](t_CreateAParsingRule.md#). If this variable is not null, the operation has failed.|
 |result|Text message advising that the command was executed successfully.|
 
 ## Conditions
@@ -122,5 +122,5 @@ Specific [Credential aliases for Orchestration activities](https://raw.githubuse
 |Success|The activity succeeded in changing the attributes of the specified file or directory.|
 |Failure|The activity failed to change the attributes of the specified file or directory.|
 
-**Parent Topic:**[SFTP File Transfer activity pack](../concept/c_OrchestrationSFTPActivityPack.md)
+**Parent Topic:**[SFTP File Transfer activity pack](c_OrchestrationSFTPActivityPack.md)
 

@@ -21,7 +21,7 @@ Now Assist for Setup provides a guided experience to install, configure, and dep
 
 </td><td>
 
-[Administer![](../../upgrade-center/image/uc-administer-icon.png)Administering Now Assist for Setup](../task/ia-update-set.md)
+[Administer![](../../upgrade-center/image/uc-administer-icon.png)Administering Now Assist for Setup](ia-update-set.md)
 
 </td></tr><tr><td>
 
@@ -29,7 +29,7 @@ Now Assist for Setup provides a guided experience to install, configure, and dep
 
 </td><td>
 
-[Reference![](../../upgrade-center/image/uc-reference-icon.png) Learn miscellaneous information about Now Assist for Setup](../../upgrade-management/reference/um-references.md)
+[Reference![](../../upgrade-center/image/uc-reference-icon.png) Learn miscellaneous information about Now Assist for Setup](upgrade-management/um-references.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -43,8 +43,8 @@ Now Assist for Setup simplifies installing, configuring, and deploying ServiceNo
 Explore this section to learn more about setting up an application and Now Assist admin with Now Assist for Setup.
 -   **[Configure in Now Assist for Setup](ia-config-landing.md)**  
 Understand and learn how to configure the Platform module and other product modules in Now Assist for Setup by following the steps in each category.
--   **[Now Assist for Setup references](../reference/ia-reference.md)**  
+-   **[Now Assist for Setup references](ia-reference.md)**  
 The reference topics provide additional information about Now Assist for Setup.
 
-**Parent Topic:**[Getting started on the ServiceNow AI Platform](../../general/concept/get-started-now-platform.md)
+**Parent Topic:**[Getting started on the ServiceNow AI Platform](get-started-now-platform.md)
 

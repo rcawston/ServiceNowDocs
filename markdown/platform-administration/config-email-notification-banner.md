@@ -32,7 +32,7 @@ Role required: admin
     **Note:** If you want to disable the note banner, set the **glide.email.translation.dynamic.note.enabled** system property to false.
 
 
-**Parent Topic:**[Dynamic translation](../concept/dynamic-translation.md)
+**Parent Topic:**[Dynamic translation](dynamic-translation.md)
 
 **Related topics**  
 

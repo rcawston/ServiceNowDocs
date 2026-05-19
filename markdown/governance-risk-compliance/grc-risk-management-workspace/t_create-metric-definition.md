@@ -31,7 +31,7 @@ In automated metric definitions, the data is collected automatically based on th
 
 3.  On the form, fill in the fields.
 
-    For a detailed explanation of the fields, refer to [Automated metric definition form](../reference/automated-metric-definition-fields-irm.md).
+    For a detailed explanation of the fields, refer to [Automated metric definition form](automated-metric-definition-fields-irm.md).
 
 4.  Select **Save**.
 
@@ -46,8 +46,8 @@ The automated metric definition is saved in the Metric definitions list.
 
 You can associate an entity type, create metrics, and add citations to the metric definition. See [Update a metric definition](t_update-automated-metric-definition.md) for more information.
 
--   **[Automated metric definition form](../reference/automated-metric-definition-fields-irm.md)**  
+-   **[Automated metric definition form](automated-metric-definition-fields-irm.md)**  
 The fields of the automated metric definition form are explained in this topic.
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](configuring-irm-metrics.md)
 

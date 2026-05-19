@@ -63,5 +63,5 @@ Role required: sam
     **Note:** Third-party discovery tools can use software normalization to more effectively manage the software installation database. Software normalization allows you to standardize your software installation data, such as the display name, publisher, revision, and version. You can personalize the software installation form to include these normalization fields. For more information, see [Personalize a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_PersonalizeAForm.md).
 
 
-**Parent Topic:**[Determine where software is installed using the legacy Software Asset Management plugin](../concept/c_DeterminWhereSWInstalled.md)
+**Parent Topic:**[Determine where software is installed using the legacy Software Asset Management plugin](c_DeterminWhereSWInstalled.md)
 

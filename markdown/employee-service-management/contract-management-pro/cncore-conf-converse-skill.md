@@ -32,11 +32,11 @@ Complete the following steps to configure Conversational contract search and ins
 
     Configure Knowledge graph tags to identify which tables should be used for answering natural language questions in conversational search.
 
--   **[Configuring user access and data permissions for agentic workflows](../concept/cmpro-conf-users-agentic-wf.md)**
+-   **[Configuring user access and data permissions for agentic workflows](cmpro-conf-users-agentic-wf.md)**
 
     Set the data access permissions for the agentic workflow- Conversational Contract Search.
 
--   **[Configuring user access and data permissions for AI agents](../concept/cmpro-conf-users-ai-agents.md)**
+-   **[Configuring user access and data permissions for AI agents](cmpro-conf-users-ai-agents.md)**
 
     Set the data access permissions for the Agent- Search contracts AI.
 

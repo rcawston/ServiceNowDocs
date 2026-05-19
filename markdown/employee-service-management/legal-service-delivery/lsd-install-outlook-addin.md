@@ -31,7 +31,7 @@ Role required: sn\_lg\_outlook.admin
 
 Roles are installed with Microsoft Outlook Add-In for Legal Service Delivery:
 
-For more information, see [Microsoft Outlook Add-In for Legal Service Delivery reference](../concept/lsd-outlook-addin-refrence.md).
+For more information, see [Microsoft Outlook Add-In for Legal Service Delivery reference](lsd-outlook-addin-refrence.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ For more information, see [Microsoft Outlook Add-In for Legal Service Delivery r
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](../concept/lsd-outlook-addin-configure.md)
+**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-configure.md)
 

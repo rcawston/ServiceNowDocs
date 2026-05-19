@@ -20,5 +20,5 @@ You can assign the Industrial Knowledge Management roles to your users.
 -   **[Industrial knowledge article form](industrial-knowledge-article-form.md)**  
 The following table describes the field values for the Industrial knowledge article form.
 
-**Parent Topic:**[Industrial Knowledge Management](../concept/icw-knowledge-management-landing-page.md)
+**Parent Topic:**[Industrial Knowledge Management](icw-knowledge-management-landing-page.md)
 

@@ -43,5 +43,5 @@ Role required: sn\_shop.shopper
 
 When you’re done reviewing your cart, you can proceed with the final checkout. For more information on how to proceed, see [Complete your checkout](complete-your-checkout.md).
 
-**Parent Topic:**[Shopping cart](../concept/shopping-cart.md)
+**Parent Topic:**[Shopping cart](shopping-cart.md)
 

@@ -53,7 +53,7 @@ App shell UI
 
 </td><td>
 
-Type of app shell UI that you want to use with the page collection. The app shell is the wrapper of the page contents, which is similar to the functionality of a web page. The app shell can show things like the logo of your company, user preferences, and the search icon. For more information, see [Define UI experiences using app shells](../concept/app-shells-uibuilder.md).
+Type of app shell UI that you want to use with the page collection. The app shell is the wrapper of the page contents, which is similar to the functionality of a web page. The app shell can show things like the logo of your company, user preferences, and the search icon. For more information, see [Define UI experiences using app shells](app-shells-uibuilder.md).
 
 </td></tr><tr><td>
 
@@ -107,10 +107,10 @@ Short description to help find your page collection. Write a description that he
 
     ![Step showing responsive authoring and reflow options when creating a page from scratch.](../image/responsive-author-create-page.png)
 
-    For more information, see [Responsive authoring](../concept/responsive-authoring.md).
+    For more information, see [Responsive authoring](responsive-authoring.md).
 
 15. Add more pages to your page collection.
 
 
-**Parent Topic:**[Page collections](../concept/page-collections.md)
+**Parent Topic:**[Page collections](page-collections.md)
 

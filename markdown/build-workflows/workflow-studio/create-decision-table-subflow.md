@@ -58,7 +58,7 @@ This video describes the steps to create a decision table in a subflow.
 
 11. Select **Add input** to add inputs to the decision table.
 
-    Inputs are the variables that define the type of data the decision table looks for making decisions. When creating a decision table in a subflow, you can add inputs directly from the data in the subflow. For more information about the types of inputs you can add, see [Create decision tables in Workflow Studio](../../decision-table/task/create-decision-table-in-decision-designer.md).
+    Inputs are the variables that define the type of data the decision table looks for making decisions. When creating a decision table in a subflow, you can add inputs directly from the data in the subflow. For more information about the types of inputs you can add, see [Create decision tables in Workflow Studio](create-decision-table-in-decision-designer.md).
 
     **Note:** Some inputs must be added or adjusted when you open the decision table to populate its values.
 
@@ -87,5 +87,5 @@ This video describes the steps to create a decision table in a subflow.
 19. Select **Done**.
 
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

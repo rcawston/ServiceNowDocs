@@ -86,5 +86,5 @@ The Agenda View pane appears with a list of all release targets scheduled for th
 7.  Select a release from the list to review its status and other details.
 
 
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](dpr-using-digital-product-release.md)
 

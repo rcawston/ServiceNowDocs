@@ -32,5 +32,5 @@ The Cable Parameters form enables you to define cable parameters for a physical 
 **Related topics**  
 
 
-[Define the physical connection details](../task/define-tni-physical-connections.md)
+[Define the physical connection details](define-tni-physical-connections.md)
 

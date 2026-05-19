@@ -22,7 +22,7 @@ Multi feedback summarization video.
 
 If you have users with custom roles that need access to this skill, you must update ACLs for those roles and also add those custom roles to the In product role.
 
-The Feedback or Multi feedback summarization skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+The Feedback or Multi feedback summarization skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](configuring-na-spm.md).
 
 Role required: pf\_user
 
@@ -136,5 +136,5 @@ Select **Copy and create epic** to create a planning or non-planning item by usi
     Save time and streamline your work flow by linking the feedback with planning items, which eliminates the need to copy summaries. You can quickly create work items in Feedback and view them in the roadmap.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 

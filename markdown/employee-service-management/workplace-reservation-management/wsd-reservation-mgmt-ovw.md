@@ -67,7 +67,7 @@ Employees can perform the following using Workplace Reservation Management:
 -   Set location privacy preferences on an organization or a building level.
 -   Integration of Workplace Reservation Management with Workplace Concierge provides employees with real-time insights to optimize their on-site presence in the workplace with their co-workers, improving team collaboration and learning. By using personalized suggestions, employees are guided to the best workspace when they plan to visit the office or travel to another office.
 
-For more information, see [Create a reservation](../task/create-reservation-request-1.md).
+For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 ## Enhanced workplace monitoring, compliance, and visibility for workplace administrators and facility managers
 
@@ -93,7 +93,7 @@ Workplace Reservation Management allows workplace administrators and facility ma
 -   Enable multi-building reservation.
 -   Enable browse by neighborhood.
 
-For more information, see [Configure a reservable module](../task/config-reservable-module.md).
+For more information, see [Configure a reservable module](config-reservable-module.md).
 
 ## Smarter Integrations and Automation
 
@@ -132,5 +132,5 @@ For more information, see [Analytics and Reporting Solutions for Workplace Reser
 
 The Workplace Reservation Event Planner enables you to track your organization's reservations from a single workspace in Workplace Central. The Event planner dashboard is available to both Reservation planner and Reservation viewer roles. As a reservation planner, manage the reservations on behalf of your employees. View reservation details, optimize reservations, and manage multiple workplace reservations using the schedule view.
 
-For more information, refer to [Event Planner](../../workplace-central/concept/event-planner.md).
+For more information, refer to [Event Planner](../workplace-central/event-planner.md).
 

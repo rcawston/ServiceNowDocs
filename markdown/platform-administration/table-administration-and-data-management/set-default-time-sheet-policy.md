@@ -40,5 +40,5 @@ The **Default Policy** option on the [record form](create-time-sheet-policy.md#t
 
 You cannot delete a default time sheet policy. You must first mark another policy as the default policy to delete the current default policy.
 
-**Parent Topic:**[Time sheet policies](../concept/time-sheet-policies.md)
+**Parent Topic:**[Time sheet policies](time-sheet-policies.md)
 

@@ -37,12 +37,12 @@ A data domain is a collection of information objects. ServiceNow® Discovery fin
     -   To update details of an existing data domain, select a domain, then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Data Domain form](../../reference/data-domain-form.md).
+    For field information, see [Data Domain form](data-domain-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure information data domains](../../concept/eaw-concept/eaw-setup-info-data-domains.md)
+**Parent Topic:**[Configure information data domains](eaw-setup-info-data-domains.md)
 
 **Related topics**  
 

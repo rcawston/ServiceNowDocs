@@ -29,7 +29,7 @@ By default, the release lifecycle documentation AI agent is inactive. To use the
 
 1.  Install the Now Assist for Creator application and all plugins.
 
-    For more information, see [Install Now Assist for Creator](../../../administer/flow-designer/task/install-now-assist-for-creator.md).
+    For more information, see [Install Now Assist for Creator](install-now-assist-for-creator.md).
 
 2.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview**.
 
@@ -43,7 +43,7 @@ By default, the release lifecycle documentation AI agent is inactive. To use the
 
     By default, using the release lifecycle documentation AI agent requires the update\_set\_admin and sn\_aia.viewer roles. You can add additional role requirements if needed.
 
-    For more information about the roles required, see [Roles required for using the release lifecycle documentation AI agent](../reference/release-lifecycle-documentation-ai-agent-roles.md). For more information about defining AI agent access, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
+    For more information about the roles required, see [Roles required for using the release lifecycle documentation AI agent](release-lifecycle-documentation-ai-agent-roles.md). For more information about defining AI agent access, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
 
 6.  In the side panel, select **Select channels and status**.
 
@@ -62,10 +62,10 @@ By default, the release lifecycle documentation AI agent is inactive. To use the
 
 Start using the release lifecycle documentation AI agent to generate update set descriptions and release notes.
 
--   [Generate release notes](../task/generate-release-notes.md)
--   [Generate an update set description](../task/generate-update-set-description.md)
+-   [Generate release notes](generate-release-notes.md)
+-   [Generate an update set description](generate-update-set-description.md)
 
--   **[Roles required for using the release lifecycle documentation AI agent](../reference/release-lifecycle-documentation-ai-agent-roles.md)**  
+-   **[Roles required for using the release lifecycle documentation AI agent](release-lifecycle-documentation-ai-agent-roles.md)**  
 Learn about which roles are required for using the release lifecycle documentation AI agent.
 
 **Parent Topic:**[Release lifecycle documentation AI agent](release-lifecycle-documentation-agent-landing.md)

@@ -34,7 +34,7 @@ Role required: platform\_document\_management\_admin
 
 [Create a document template](add-list-entry-to-doc-list.md)
 
-**Parent Topic:**[Document Management lists](../concept/doc-mgt-lists.md)
+**Parent Topic:**[Document Management lists](doc-mgt-lists.md)
 
 **Related topics**  
 

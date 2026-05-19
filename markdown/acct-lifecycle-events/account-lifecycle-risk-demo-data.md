@@ -33,5 +33,5 @@ This is a table based risk definition and generates a risk signal if the contrac
 
 ![Missing renewal date](../image/account-lifecycle-risk-defn-renew-date.png)
 
-**Parent Topic:**[Define risk criteria](../task/account-lifecycle-setup-risk-defn.md)
+**Parent Topic:**[Define risk criteria](account-lifecycle-setup-risk-defn.md)
 

@@ -38,5 +38,5 @@ Role required: none
 6.  To exit the card, press **Escape**.
 
 
-**Parent Topic:**[Visual Task Board accessibility](../../../use/visual-task-boards/concept/accessibility-vtb.md)
+**Parent Topic:**[Visual Task Board accessibility](accessibility-vtb.md)
 

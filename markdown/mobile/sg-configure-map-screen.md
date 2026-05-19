@@ -71,7 +71,7 @@ Fetch type
 
 </td><td>
 
-Fetch type settings determine when data is loaded into your screen. The following fetch types are available: `prefetch`, `on-demand`, `background`, and `dynamic`. For more information, see [Mobile fetch types](../reference/applet-fetch-types.md).
+Fetch type settings determine when data is loaded into your screen. The following fetch types are available: `prefetch`, `on-demand`, `background`, and `dynamic`. For more information, see [Mobile fetch types](applet-fetch-types.md).
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Empty state
 
 </td><td>
 
-You can indicate to users, with the aid of a visual display, that the map does not contain any points of interest. For more information, see [Empty state display](../concept/empty-state-handling.md).
+You can indicate to users, with the aid of a visual display, that the map does not contain any points of interest. For more information, see [Empty state display](empty-state-handling.md).
 
 </td></tr><tr><td>
 
@@ -212,7 +212,7 @@ Option to determine whether the sort and order of a list is displayed in an asce
 
         3.  From the **Location** field, select a reference to the location table. The selected option shows as a location on the map.
         4.  Select a pin color by either selecting a color from the grid or enter a hexadecimal value, and then select **Save**.
-9.  Choose an existing data item or create a new data item. To create a new data item, see [Data items](../concept/sg-data-item.md).
+9.  Choose an existing data item or create a new data item. To create a new data item, see [Data items](sg-data-item.md).
 
     The data item returns data from a single table to be used for the map location item stream.
 

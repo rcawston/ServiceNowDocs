@@ -26,7 +26,7 @@ Risk factors define the criteria evaluated when scoring a request. Each factor i
 
     -   The skill is available in the base system to evaluate an COI request only when you have installed and configured Legal Service Delivery - Prime that is a paid application.
     -   You can access the skill by navigating to **Now Assist Skill Kit** &gt; **Home** &gt; **Custom skills** and selecting Legal Risk Evaluator Prompt.
-    For more information, see [Now Assist for Legal Service Delivery \(LSD\)](../../legal-request-management/concept/now-assist-lsd-landing.md).
+    For more information, see [Now Assist for Legal Service Delivery \(LSD\)](../now-assist-for-legal-service-delivery/now-assist-lsd-landing.md).
 
 -   Subflow: Executes a Flow Designer subflow to evaluate the disclosure. Use this type when the evaluation requires complex logic, external integrations, or multi-step processing.
 

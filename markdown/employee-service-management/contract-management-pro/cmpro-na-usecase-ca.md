@@ -199,7 +199,7 @@ The use case for Contract analysis skill is created.
 
 [Map a field group to a clause](cmpro-na-map-fieldgrp-clause.md)
 
-**Parent Topic:**[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+**Parent Topic:**[Configuring contract analysis](cmpro-conf-contract-analysis.md)
 
 **Related topics**  
 

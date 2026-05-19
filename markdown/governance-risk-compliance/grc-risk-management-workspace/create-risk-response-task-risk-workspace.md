@@ -45,5 +45,5 @@ Role required: sn\_risk\_advanced.ara\_assessor
 -   **[Create an action item in the risk response task](create-action-item-risk-response-task.md)**  
 Create multiple strategies with various action items for each risk response task. Action items help you to understand and focus on specific steps needed to manage risks.
 
-**Parent Topic:**[Using the Risk Workspace](../../grc-workspace-risk/concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

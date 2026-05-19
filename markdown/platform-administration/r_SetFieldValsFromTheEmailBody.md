@@ -38,5 +38,5 @@ In this example, the script sets the value of *\[field\]* to the value **bar**.
 
 **Note:** Spaces are rendered as underscores when a name:value pair gets parsed into a variable/value pair. For example, if an email body contains a line with spaces like `my variable:data`, then the inbound email script creates the variable *email.body.my\_variable*. The value of the variable is **data**.
 
-**Parent Topic:**[Configure inbound email actions](../concept/configure-inbound-email.md)
+**Parent Topic:**[Configure inbound email actions](configure-inbound-email.md)
 

@@ -38,5 +38,5 @@ Role required: sn\_dex.admin
     The monitoring of the application is turned off.
 
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](dex-application-monitoring.md)
 

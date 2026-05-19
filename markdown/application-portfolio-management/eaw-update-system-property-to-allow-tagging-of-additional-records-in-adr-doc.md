@@ -48,7 +48,7 @@ Role required: sn\_apm.apm\_admin
     You can start tagging records from the new table in the ADR docs component. For more information, see [Tag users or records in Architectural Decision Records](eaw-tag-users-or-records-in-adr.md).
 
 
-**Parent Topic:**[Manage architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-manage-adr.md)
+**Parent Topic:**[Manage architectural decision records \(ADR\)](eaw-manage-adr.md)
 
 **Related topics**  
 

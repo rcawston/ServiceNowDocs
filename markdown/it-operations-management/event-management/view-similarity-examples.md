@@ -60,5 +60,5 @@ Adjust the current threshold to provide useful results. For example, a low simil
     Your solution uses the new similarity threshold value. In the example, the solution returns similar results that have a score higher than 90.
 
 
-**Parent Topic:**[Alert similarity](../concept/alert-similarity.md)
+**Parent Topic:**[Alert similarity](alert-similarity.md)
 

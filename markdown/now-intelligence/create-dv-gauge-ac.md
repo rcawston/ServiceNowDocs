@@ -16,7 +16,7 @@ A gauge visualization shows where a value lies between expected minimum and maxi
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -165,11 +165,11 @@ Specify the text color of the title. The default title color is black, but you c
 </td></tr></tbody>
 </table>5.  Choose a data source.
 
-    For general descriptions of the data sources, see [Data sources for data visualizations](../../par-for-workspace/reference/data-sources-visualizations.md).
+    For general descriptions of the data sources, see [Data sources for data visualizations](data-sources-visualizations.md).
 
     -   Table \(available in the base system\). When you select a table, you can filter it by custom or preconfigured conditions. Custom conditions can include questions or Service Catalog variables.
 
-        Configured report sources appear in the **Predefined conditions** list. For more information, see [Report sources](../concept/c_ReportSources.md#).
+        Configured report sources appear in the **Predefined conditions** list. For more information, see [Report sources](reporting/c_ReportSources.md#).
 
         To help you create a custom filter, there is a preview list of records that would be included in the visualization. You can change which fields are shown as columns and the width of columns in the list actions.
 
@@ -183,18 +183,18 @@ Specify the text color of the title. The default title color is black, but you c
 
         **Note:**
 
-        You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](../../performance-analytics/concept/condition-operators-ind-bkdowns.md#section_breakdown-operators).
+        You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](performance-analytics/condition-operators-ind-bkdowns.md#section_breakdown-operators).
 
         Indicator types include Automated, Formula, and Manual indicators as well as Automated and Formula Data Snapshots. The Indicator Preview shows an example of the visualization and a list of the indicator's properties.
 
         ![Indicator preview example with visualization example and list of properties including source type, indicator source, indicator type, additional conditions and available breakdowns.](../image/dv-indicator-source-preview.png)
 
-    -   Usage Insights \(available with the User Experience PAR Integration application, to users with a required role\). Choose one of up to three KPIs included with this application, depending on the visualization type. For more information, see [Usage Insights data sources for data visualizations](../../performance-analytics/concept/uxa-data-sources.md).
+    -   Usage Insights \(available with the User Experience PAR Integration application, to users with a required role\). Choose one of up to three KPIs included with this application, depending on the visualization type. For more information, see [Usage Insights data sources for data visualizations](uxa-data-sources.md).
 6.  Select the options for your data source.
 
-    -   If your visualization represents table data, go to [Table data options for gauge data visualizations](../reference/config-dv-gauge-table-data.md).
-    -   If your visualization represents indicator data, go to [Indicator data options for gauge data visualizations](../reference/config-dv-gauge-ind-data.md).
-    -   If your visualization represents Usage Insights data, go to [Usage Insights data options for gauge visualizations](../reference/config-dv-gauge-uxa-data.md).
+    -   If your visualization represents table data, go to [Table data options for gauge data visualizations](config-dv-gauge-table-data.md).
+    -   If your visualization represents indicator data, go to [Indicator data options for gauge data visualizations](config-dv-gauge-ind-data.md).
+    -   If your visualization represents Usage Insights data, go to [Usage Insights data options for gauge visualizations](config-dv-gauge-uxa-data.md).
 7.  Under **Presentation**, provide display and color information.
 
 <table id="table_gvk_2mr_qtb"><thead><tr><th>
@@ -396,16 +396,16 @@ Usage Insights data sources redirect to the appropriate user, sessions, page, ev
 
 -   [Add a visualization to a dashboard from the Visualization Designer](add-dv-new-db.md)
 -   [Share a data visualization in the Visualization Designer](share-dv-ac.md#)
--   [Bookmark a visualization in the Visualization Designer](../../dashboards/task/bookmark-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](bookmark-dv-ac.md)
 
--   **[Table data options for gauge data visualizations](../reference/config-dv-gauge-table-data.md)**  
+-   **[Table data options for gauge data visualizations](config-dv-gauge-table-data.md)**  
 When you select a table data source for a gauge visualization, the following Data configuration options are available.
--   **[Indicator data options for gauge data visualizations](../reference/config-dv-gauge-ind-data.md)**  
+-   **[Indicator data options for gauge data visualizations](config-dv-gauge-ind-data.md)**  
 When you select an indicator data source for a gauge visualization, the following Data configuration options are available.
--   **[Usage Insights data options for gauge visualizations](../reference/config-dv-gauge-uxa-data.md)**  
+-   **[Usage Insights data options for gauge visualizations](config-dv-gauge-uxa-data.md)**  
 When you select a Usage Insights data source for a gauge visualization, the following Data configuration options are available.
--   **[Gauge visualization example](../../par-for-workspace/task/dv-example-gauge.md)**  
+-   **[Gauge visualization example](dv-example-gauge.md)**  
 Like dials, gauges show where a single value lies across a range from minimum to maximum expected values. In addition to dial functionality, you can set colored data ranges to help users understand what the value represents.
 
-**Parent Topic:**[Creating data visualizations](../concept/creating-data-visualizations.md)
+**Parent Topic:**[Creating data visualizations](creating-data-visualizations.md)
 

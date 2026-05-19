@@ -15,11 +15,11 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideCurrencyExchangeValue API provides methods to access information related to FX Currency conversions.
 
-There is no constructor for this class. Use the convert\(\) method from the [GlideCurrencyConverter](../../GlideCurrencyConverter/concept/GlideCurrencyConverterScopedAPI.md#) API to return a GlideCurrencyExchangeValue object.
+There is no constructor for this class. Use the convert\(\) method from the [GlideCurrencyConverter](GlideCurrencyConverterScopedAPI.md#) API to return a GlideCurrencyExchangeValue object.
 
 This API is provided within the `sn_currency` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideCurrencyExchangeValue - getAmount\(\)
 

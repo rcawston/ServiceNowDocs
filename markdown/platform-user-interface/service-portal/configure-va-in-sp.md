@@ -137,7 +137,7 @@ You can change the color and images that are used in the Agent Chat button in yo
 
 ### Before you begin
 
-If you plan to replace one or both of the images that are used in the Agent Chat button, upload the images to your instance. For more information on uploading an image, see [Storing images in the database](../../../administer/navigation-and-ui/concept/c_StoringImagesInTheDatabase.md).
+If you plan to replace one or both of the images that are used in the Agent Chat button, upload the images to your instance. For more information on uploading an image, see [Storing images in the database](../c_StoringImagesInTheDatabase.md).
 
 Role required: sp\_admin or admin
 

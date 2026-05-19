@@ -21,7 +21,7 @@ Role required: sn\_hr\_core.admin or sn\_hr\_core.case\_writer
 
 ## About this task
 
-**Note:** If there are any existing guided decisions, add those decisions within the [HR case context](../concept/config-rc-hr.md) in [Recommended Actions for HRSD](../concept/recommended-actions-hrsd.md).
+**Note:** If there are any existing guided decisions, add those decisions within the [HR case context](config-rc-hr.md) in [Recommended Actions for HRSD](recommended-actions-hrsd.md).
 
 ## Procedure
 

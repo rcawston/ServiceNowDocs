@@ -42,5 +42,5 @@ You can provide more information on the queries that the procurement buyer has p
     You can view the details of the purchase that led to the creation of this to-do in the **Purchase** tab. Here, you also have the option to view the entire purchase if you so desire.
 
 
-**Parent Topic:**[Shopper to-dos on your mobile](../reference/shopper-todos-mobile.md)
+**Parent Topic:**[Shopper to-dos on your mobile](shopper-todos-mobile.md)
 

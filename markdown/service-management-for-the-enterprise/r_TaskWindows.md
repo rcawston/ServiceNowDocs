@@ -19,7 +19,7 @@ For more information on creating work order tasks, see .
 
 For more information on Work order task start and end dates, see .
 
-**Parent Topic:**[Create a facilities request task](../task/t_CreateAFacilitiesRequestTask.md)
+**Parent Topic:**[Create a facilities request task](t_CreateAFacilitiesRequestTask.md)
 
-**Parent Topic:**[Request task management](../concept/c_RequestTasksMgmt.md)
+**Parent Topic:**[Request task management](c_RequestTasksMgmt.md)
 

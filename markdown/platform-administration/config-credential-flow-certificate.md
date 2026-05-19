@@ -108,5 +108,5 @@ Generate an SHA-1 thumbprint using the JWT provider's sys\_id, the Java Key Stor
 -   **[Create an OAuth API script](create-oauth-api-script-cred-flow.md)**  
 Create and duplicate an OAuth API script for application registry.
 
-**Parent Topic:**[Sending email using client credential flow](../concept/send-email-client-credential-flow.md)
+**Parent Topic:**[Sending email using client credential flow](send-email-client-credential-flow.md)
 

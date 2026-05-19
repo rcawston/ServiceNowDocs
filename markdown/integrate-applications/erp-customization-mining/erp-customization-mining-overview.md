@@ -37,7 +37,7 @@ The replatforming of legacy code enables innovation on top of the system of reco
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-rocketship.svg) Get details about ERP Semantic Mining components, such as tables and terminology.](../reference/erp-customization-mining-ref.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-rocketship.svg) Get details about ERP Semantic Mining components, such as tables and terminology.](erp-customization-mining-ref.md)
 
 </td></tr></tbody>
 </table>## Learning resources for ERP Semantic Mining
@@ -77,5 +77,5 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Before you can use ERP Semantic Mining, you must first download ERP Semantic Mining from the ServiceNow Store. After you have completed the download, you may need to clear your local cache before ERP Semantic Mining appears on your instance.
 
-After you download ERP Semantic Mining, install it on your instance. For more information, see [Install ERP Semantic Mining](../task/install-erp-customization-mining.md).
+After you download ERP Semantic Mining, install it on your instance. For more information, see [Install ERP Semantic Mining](install-erp-customization-mining.md).
 

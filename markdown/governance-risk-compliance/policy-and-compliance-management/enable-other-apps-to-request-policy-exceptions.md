@@ -199,5 +199,5 @@ Select a questionnaire template to generate a questionnaire for the requested po
     **Note:** The Reason Choices are available to the person who requests a policy exception to explain the purpose of the request. So define reasons that apply to your specific situation. For more information, see [Define policy exception reason choices](define-reason-choices.md).
 
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](allow-other-app-policy-except.md)
 

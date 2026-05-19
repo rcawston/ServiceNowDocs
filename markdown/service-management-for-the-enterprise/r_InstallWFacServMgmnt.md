@@ -32,5 +32,5 @@ Catalogs provide customers with self-service opportunities within Facilities Ser
 -   **[Table transform maps installed with Facilities Service Management](r_TableTransMapInstWFacServMgmnt.md)**  
 Table transform maps allows you to add spaces or details about spaces from other sources.
 
-**Parent Topic:**[Activate Facilities Service Management](../task/t_ActivateFacilitiesSM.md)
+**Parent Topic:**[Activate Facilities Service Management](t_ActivateFacilitiesSM.md)
 

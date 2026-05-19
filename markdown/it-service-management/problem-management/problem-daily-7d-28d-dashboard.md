@@ -17,7 +17,7 @@ Track the progress made by different assignment groups in resolving problems in 
 
 **Important:**
 
-Starting in Xanadu release, the Problem daily 7d - 28d dashboard is deprecated. Users can use [Problem dashboard](performance-analytics/problem.md) to view, and track the open problems.
+Starting in Xanadu release, the Problem daily 7d - 28d dashboard is deprecated. Users can use [Problem dashboard](../problem.md) to view, and track the open problems.
 
 ![The Problem daily tab of the Problem daily 7 day to 28 day dashboard](../image/problem-daily.png "Problem daily tab")
 

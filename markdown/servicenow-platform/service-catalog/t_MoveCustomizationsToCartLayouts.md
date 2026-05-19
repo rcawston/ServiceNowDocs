@@ -52,5 +52,5 @@ In addition, if you have customized the com.glideapp.servicecatalog\_category\_v
 6.  To enable cart layouts, set the service catalog system property **glide.sc.use\_cart\_layouts** to **Yes**.
 
 
-**Parent Topic:**[Migrating to cart layouts](../concept/c_MigrateCartLayouts.md)
+**Parent Topic:**[Migrating to cart layouts](c_MigrateCartLayouts.md)
 

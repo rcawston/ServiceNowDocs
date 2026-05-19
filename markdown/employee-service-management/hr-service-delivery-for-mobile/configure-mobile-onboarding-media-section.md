@@ -92,5 +92,5 @@ Download the employee appDisplays on the lower half of the Welcome screen after 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Administer Now Mobile](../concept/administer-mobile-employee-onboarding-for-hr-service-delivery.md)
+**Parent Topic:**[Administer Now Mobile](administer-mobile-employee-onboarding-for-hr-service-delivery.md)
 

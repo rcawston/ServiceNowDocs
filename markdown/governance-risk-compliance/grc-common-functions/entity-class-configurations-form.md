@@ -26,5 +26,5 @@ Use the Entity Class Configurations form to set up access control to all the ent
 |Entity group fields|User group fields from the entity table \[sn\_grc\_profile\] that the access should be granted to.|
 |Description|Description of the entity class configuration.|
 
-**Parent Topic:**[Configure an entity class for a linked object](../task/create-an-entity-class-configuration-for-entity-based-access.md)
+**Parent Topic:**[Configure an entity class for a linked object](create-an-entity-class-configuration-for-entity-based-access.md)
 

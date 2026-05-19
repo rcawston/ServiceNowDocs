@@ -33,7 +33,7 @@ Role required: sn\_hs\_chm.requestor
 2.  Select the **Request Chemical** button.
 4.  On the **Request Chemical** form, fill in the details.
 
-    For field descriptions, see the [Chemical request form](../reference/hs-chemical-request-form.md).
+    For field descriptions, see the [Chemical request form](hs-chemical-request-form.md).
 
 5.  Select **Save as draft** to complete the form later.
 
@@ -56,5 +56,5 @@ The chemical request can be viewed under My Requests. You can open the chemical 
 
 The approved or rejected chemical request can be viewed from the Employee Center under the **My Request** option. Select the **Submitted requests** related list and sort by **Closed requests**.
 
-**Parent Topic:**[Chemical management](../concept/hs-using-chemical-management.md)
+**Parent Topic:**[Chemical management](hs-using-chemical-management.md)
 

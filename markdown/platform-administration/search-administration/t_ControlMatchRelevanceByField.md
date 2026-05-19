@@ -35,7 +35,7 @@ The following fields have ts\_weight attribute values by default:
 
 When scoring records, Zing compares the relative weights of fields that produced search term matches. For example, if the **Title** field has `ts_weight=50` and the **Description** field has `ts_weight=10`, then a match in **Title** is 5 times as relevant as a match in **Description** and 50 times as relevant as a field without the ts\_weight attribute.
 
-**Note:** To view the complete scoring system, see [Document Scoring](../concept/c_DocumentScoring.md).
+**Note:** To view the complete scoring system, see [Document Scoring](c_DocumentScoring.md).
 
 ## Procedure
 
@@ -64,7 +64,7 @@ When scoring records, Zing compares the relative weights of fields that produced
 
 Once Zing finishes regenerating the text index for the table, search result scoring uses your new relative weights for fields.
 
-**Parent Topic:**[Zing computes document scores using three components](../concept/c_DocumentScoring.md)
+**Parent Topic:**[Zing computes document scores using three components](c_DocumentScoring.md)
 
 **Related topics**  
 

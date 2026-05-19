@@ -13,5 +13,5 @@ breadcrumb: [Interactive facility maps, Facilities Service Management overview, 
 
 Map settings allow the facilities staff or users to choose the appearance of their floor plan.
 
-**Parent Topic:**[Interactive facility maps](../concept/c_InteractiveFacilityMaps.md)
+**Parent Topic:**[Interactive facility maps](c_InteractiveFacilityMaps.md)
 

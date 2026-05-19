@@ -27,7 +27,7 @@ When an agent learning is enabled, the AI agent:
 -   Memory is heavily based on experience correction rather than just context extension.
 -   Memory entries carry relevance weights \(like attention scores\) → aligns with adaptive retention seen in human-like learning.
 
-To configure agent learning at the AI agent level, see [Define the specialty of an AI agent](../task/define-specialty.md).
+To configure agent learning at the AI agent level, see [Define the specialty of an AI agent](define-specialty.md).
 
-To configure agent learning at the AI Agent Studio level, see [Set up long-term memory](../task/long-term-memory-aia.md).
+To configure agent learning at the AI Agent Studio level, see [Set up long-term memory](long-term-memory-aia.md).
 

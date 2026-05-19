@@ -47,7 +47,7 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Office 365 - Malicious File Detected playbook.](../image/playbook-office365-trigger.png)
 
 
-**Parent Topic:**[Playbook for Office 365 - Malicious File Detected](../concept/playbook-office-malicious-file-detected-.md)
+**Parent Topic:**[Playbook for Office 365 - Malicious File Detected](playbook-office-malicious-file-detected-.md)
 
 **Related topics**  
 

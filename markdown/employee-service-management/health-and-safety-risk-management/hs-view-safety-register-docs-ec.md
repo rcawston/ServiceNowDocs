@@ -23,7 +23,7 @@ Role required: none
 
 All Safety Data Sheets \(SDSs\) that are added to the safety registers through the Health and Safety Workspace are available to view in the Employee Center or on Now Mobile app. Employees can access these SDSs for their safety when working with any potentially hazardous materials. For more information on safety registers, see [Manage your safety registers](hs-manage-safety-registers.md).
 
-For information on viewing these SDSs through Now Mobile app, see [View a safety register document in the Now Mobile app](../../hs-health-safety-mobile/task/access-safety-register-docs-mobile.md).
+For information on viewing these SDSs through Now Mobile app, see [View a safety register document in the Now Mobile app](../health-and-safety/access-safety-register-docs-mobile.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ For information on viewing these SDSs through Now Mobile app, see [View a safety
 5.  If needed, you can download the Safety Data Sheet.
 
 
-**Parent Topic:**[Safety registers](../concept/hs-safety-registers.md)
+**Parent Topic:**[Safety registers](hs-safety-registers.md)
 

@@ -37,5 +37,5 @@ When you create a region, it is necessary to set the **Parent** field as empty.
 -   **[Create a jurisdiction for a region](create-a-jurisdiction.md)**  
 Create jurisdictions for regions for data breach notification obligations as each obligation is broken down by jurisdiction. Jurisdiction can be created two levels below a region.
 
-**Parent Topic:**[Configuring privacy breach assessment](../concept/configure-privacy-breach-assessment.md)
+**Parent Topic:**[Configuring privacy breach assessment](configure-privacy-breach-assessment.md)
 

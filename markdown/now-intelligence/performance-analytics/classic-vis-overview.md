@@ -21,33 +21,33 @@ Visualizations in the Core UI tools include dashboards, reports, and analytics h
 
 **Note:** For net new instances, reporting, dashboards, and Performance Analytics in the Core UI are replaced in the Australia release with Platform Analytics experience functionality:
 
--   [Data visualizations in Platform Analytics](../../performance-analytics/concept/analytics-center-data-visualizations.md)
--   [Dashboards in Platform Analytics](../../par-for-workspace/concept/analytics-center-dashboards.md)
--   [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md)
+-   [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md)
+-   [Dashboards in Platform Analytics](../analytics-center-dashboards.md)
+-   [Filters in Platform Analytics](../interactive-filters-workspace.md)
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Reporting ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Visualise the current state of your data to share with other users.](../reference/reporting-landing-page.md)
+[Reporting ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Visualise the current state of your data to share with other users.](../reporting/reporting-landing-page.md)
 
 </td><td>
 
-[Responsive Dashboards ![](../../../reuse/icons/brand-icons/bus-application-logic.svg) Use dashboards to create a story with data you can share across your organization.](../../dashboards/reference/dashboards-landing-page.md)
+[Responsive Dashboards ![](../../../reuse/icons/brand-icons/bus-application-logic.svg) Use dashboards to create a story with data you can share across your organization.](dashboards-landing-page.md)
 
 </td><td>
 
-[Interactive filters![](../../../reuse/icons/brand-icons/bus-filter.svg)Filter all the reports on a dashboard together, dynamically.](../../dashboards/concept/c_HomepagePublishers.md)
+[Interactive filters![](../../../reuse/icons/brand-icons/bus-filter.svg)Filter all the reports on a dashboard together, dynamically.](../interactive-filters/c_HomepagePublishers.md)
 
 </td></tr><tr><td>
 
-[Performance Analytics Widgets ![](../../../reuse/icons/brand-icons/bus-anomaly-detection.svg) Define visualizations for Key Performance Indicator scores to show the evolution of your data to share on dashboards.](../../performance-analytics/concept/c_Widgets.md)
+[Performance Analytics Widgets ![](../../../reuse/icons/brand-icons/bus-anomaly-detection.svg) Define visualizations for Key Performance Indicator scores to show the evolution of your data to share on dashboards.](c_Widgets.md)
 
 </td><td>
 
-[Analytics Hub ![](../../../reuse/icons/brand-icons/bus-customize.svg) Dig into the details of your KPIs with Analytics Hubs.](../../performance-analytics/concept/c_UsePerformanceAnalyticsScorecards.md)
+[Analytics Hub ![](../../../reuse/icons/brand-icons/bus-customize.svg) Dig into the details of your KPIs with Analytics Hubs.](c_UsePerformanceAnalyticsScorecards.md)
 
 </td><td>
 
-[Interactive Analysis![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Analyze the data in filtered columns on list views of table records.](../../dashboards/concept/interactive-analysis.md)
+[Interactive Analysis![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Analyze the data in filtered columns on list views of table records.](interactive-analysis.md)
 
 </td></tr></tbody>
 </table>## Reporting

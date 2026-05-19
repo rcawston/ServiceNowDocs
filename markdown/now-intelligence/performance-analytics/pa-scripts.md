@@ -49,7 +49,7 @@ This example includes the `Incident.opened_at` field, which is specified in the 
 **Related topics**  
 
 
-[Create a breakdown mapping on a breakdown record](../task/t_CrtBkdnBreakdownMpngs.md)
+[Create a breakdown mapping on a breakdown record](t_CrtBkdnBreakdownMpngs.md)
 
 [Server Scoped API List](https://developer.servicenow.com/dev.do#!/reference/api/tokyo/server)
 
@@ -108,7 +108,7 @@ The `score_start` and `score_end` values are calculated based on the time zone o
 **Related topics**  
 
 
-[Get analytics methods in formulas](../task/get-indicator-analytics.md)
+[Get analytics methods in formulas](get-indicator-analytics.md)
 
 [Changes to score\_start/end because of different user time zones](time-zones-indicator-formulas.md)
 

@@ -21,7 +21,7 @@ Configure the supporting components for a lifecycle event. Lifecycle events are 
 
 ## Owning groups
 
-Owning groups control who owns a lifecycle event activity. Because lifecycle events are generally cross-departmental, it's critical that ownership of each activity is assigned to the appropriate group, such as for HR, IT, or Facilities. Each owning group is responsible for overseeing the activities that fall under their purview. See [Configure an owning group for a lifecycle event](../task/configure-lifecycle-event-owning-group.md) for more information.
+Owning groups control who owns a lifecycle event activity. Because lifecycle events are generally cross-departmental, it's critical that ownership of each activity is assigned to the appropriate group, such as for HR, IT, or Facilities. Each owning group is responsible for overseeing the activities that fall under their purview. See [Configure an owning group for a lifecycle event](configure-lifecycle-event-owning-group.md) for more information.
 
 To create, update, or delete an activity, you must be both a member of the associated owning group and have the sn\_hr\_le.activity\_writer role. For example, only members of the HR activity writers owning group with the sn\_hr\_le.activity\_writer role can configure an HR activity.
 
@@ -55,7 +55,7 @@ Employee task
 
 </td><td colspan="2">
 
-[Configure an HR task template](../task/configure-hr-task-template.md) To learn more about HR templates, see [HR templates](hr-template-configuration.md).
+[Configure an HR task template](../hr-service-delivery/configure-hr-task-template.md) To learn more about HR templates, see [HR templates](../hr-service-delivery/hr-template-configuration.md).
 
 </td></tr><tr><td rowspan="6">
 
@@ -63,7 +63,7 @@ Fulfiller activity
 
 </td><td colspan="2">
 
-Depending on the fulfiller activity type, configure the appropriate supporting components.**Note:** The following fulfiller activity types are preconfigured with the Enterprise Onboarding and Transitions application. To configure additional types, see [Configure an activity configuration for a lifecycle event](../task/configure-lifecycle-event-fulfiller-activity-configuration.md).
+Depending on the fulfiller activity type, configure the appropriate supporting components.**Note:** The following fulfiller activity types are preconfigured with the Enterprise Onboarding and Transitions application. To configure additional types, see [Configure an activity configuration for a lifecycle event](configure-lifecycle-event-fulfiller-activity-configuration.md).
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ HR service
 
 </td><td>
 
-[Configure an HR service](../task/configure-hr-service.md) To learn more about HR services, see [HR services](hr-service-administration.md).
+[Configure an HR service](../hr-service-delivery/configure-hr-service.md) To learn more about HR services, see [HR services](../hr-service-delivery/hr-service-administration.md).
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ HR task
 
 </td><td>
 
-[Configure an HR task template](../task/configure-hr-task-template.md) To learn more about HR templates, see [HR templates](hr-template-configuration.md).
+[Configure an HR task template](../hr-service-delivery/configure-hr-task-template.md) To learn more about HR templates, see [HR templates](../hr-service-delivery/hr-template-configuration.md).
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Flow
 
 </td><td colspan="2">
 
-[Create a subflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md) **Important:** The only subflow available for use by default is the **Switch primary job** subflow. This subflow is used to [support multiple jobs in a lifecycle event](../task/adopt-jobs-table.md).
+[Create a subflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md) **Important:** The only subflow available for use by default is the **Switch primary job** subflow. This subflow is used to [support multiple jobs in a lifecycle event](adopt-jobs-table.md).
 
 To use a different subflow for an activity, additional configuration is required. See the [Implementing multiple subflows in an LE activity \[KB0817520\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0817520) article in the HI knowledge base for more information.
 
@@ -131,7 +131,7 @@ Content
 
 </td><td colspan="2">
 
-[Configure a schedule content template for a lifecycle event activity](../task/configure-schedule-content-template-for-lifecycle-event.md) To learn more about Content Experiences and Content Publishing, see [Content Publishing](../../employee-center/concept/ec-publish-content.md).
+[Configure a schedule content template for a lifecycle event activity](configure-schedule-content-template-for-lifecycle-event.md) To learn more about Content Experiences and Content Publishing, see [Content Publishing](../employee-experience-foundation/ec-publish-content.md).
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ N/A
 </td></tr></tbody>
 </table>## Audiences
 
-Not all lifecycle event activities are required for all employees. Some activities are intended for a target audience. You can use audience records to define the criteria that the subject person of a lifecycle event case must meet for the activity to trigger on their behalf. For more information, see [Audiences](../../employee-center/concept/ecpro-audience.md).
+Not all lifecycle event activities are required for all employees. Some activities are intended for a target audience. You can use audience records to define the criteria that the subject person of a lifecycle event case must meet for the activity to trigger on their behalf. For more information, see [Audiences](../employee-experience-foundation/ecpro-audience.md).
 
 Clearly defined audience criteria enable you to create targeted workflows for different audience types. For example, you can create a tailored onboarding experience for newly hired employees depending on whether the employee is office-based or remote.
 
@@ -153,16 +153,16 @@ Clearly defined audience criteria enable you to create targeted workflows for di
 -   If an activity isn't associated with an audience record, then the activity triggers for all employees.
 -   If a subject person doesn't meet the audience criteria defined for an activity set during the evaluation process, the **State** field in the corresponding activity set is set to **Skipped**.
 
--   **[Configure an owning group for a lifecycle event](../task/configure-lifecycle-event-owning-group.md)**  
+-   **[Configure an owning group for a lifecycle event](configure-lifecycle-event-owning-group.md)**  
 Create or modify an owning group to define the user group that owns a lifecycle event activity. Each owning group is responsible for overseeing the activities that fall under their purview.
--   **[Configure an activity configuration for a lifecycle event](../task/configure-lifecycle-event-fulfiller-activity-configuration.md)**  
+-   **[Configure an activity configuration for a lifecycle event](configure-lifecycle-event-fulfiller-activity-configuration.md)**  
 Create or modify an activity configuration to define the fulfillment process and conditions for closure for a lifecycle event activity.
--   **[Configure a schedule content template for a lifecycle event activity](../task/configure-schedule-content-template-for-lifecycle-event.md)**  
+-   **[Configure a schedule content template for a lifecycle event activity](configure-schedule-content-template-for-lifecycle-event.md)**  
 Create or modify a schedule content template to deliver content as part of a lifecycle event. Each template must be associated with the Schedule Content \[sn\_cd\_content\_visibility\] table, and you can configure the template for mobile content, portal content, notification content, or to-do content.
 
 **Parent Topic:**[Building a lifecycle event](hr-lifecycle-event-configuration.md)
 
 **Previous topic:**[Document the lifecycle event process](define-lifecycle-event-process.md)
 
-**Next topic:**[Configure an owning group for a lifecycle event](../task/configure-lifecycle-event-owning-group.md)
+**Next topic:**[Configure an owning group for a lifecycle event](configure-lifecycle-event-owning-group.md)
 

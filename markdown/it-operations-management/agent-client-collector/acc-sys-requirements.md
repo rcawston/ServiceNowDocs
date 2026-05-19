@@ -92,7 +92,7 @@ DEX
 </td></tr></tbody>
 </table>    You can verify that these plugins are installed on the **System Definitions** &gt; **Plugins** page.
 
-    All plugins that come with the base system are signed with the ServiceNow certificate. Optionally, you can use custom plugins and sign them using your own certificate, as described in [Enable OpenSSL secure signing for plugins](../task/acc-signing-mechanism.md).
+    All plugins that come with the base system are signed with the ServiceNow certificate. Optionally, you can use custom plugins and sign them using your own certificate, as described in [Enable OpenSSL secure signing for plugins](acc-signing-mechanism.md).
 
 -   Ensure that your system has the minimum requirements for agent installation.
 
@@ -144,5 +144,5 @@ Agent Client Collector for Visibility - Content
 
 When using ACC-L: The Agent Client Collector comes with the default **servicenow** user. Ensure that this user has read access to enable Agent Client Collector to view all the configured log paths. For example, the Agent Client Collector **servicenow** user that comes installed with the base system does not have permissions to view the paths to `/var/log/` in Linux and `C:\Windows\System32` in Windows. For information about configuring permissions for the **servicenow** user, see the [ACC-L Permission Denied issues \[KB1117271\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1117271) article in the Now Support Knowledge Base.
 
-When determining the number of machines and servers needed to support your agents \(such as the number of machines requiring proxy agents\), consider the agents' performance KPIs. For details on agent performance KPIs, see [Agent Client Collector performance and footprint for URL monitoring](../reference/acc-footprint-url-monitoring.md).
+When determining the number of machines and servers needed to support your agents \(such as the number of machines requiring proxy agents\), consider the agents' performance KPIs. For details on agent performance KPIs, see [Agent Client Collector performance and footprint for URL monitoring](acc-footprint-url-monitoring.md).
 

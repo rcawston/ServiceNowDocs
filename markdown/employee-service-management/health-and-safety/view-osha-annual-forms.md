@@ -34,5 +34,5 @@ Role required: sn\_ohs\_im.compliance\_manager
 5.  In the **Attachments** section, select the required OSHA form PDF file to open it.
 
 
-**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](../concept/generating-osha-forms.md)
+**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](generating-osha-forms.md)
 

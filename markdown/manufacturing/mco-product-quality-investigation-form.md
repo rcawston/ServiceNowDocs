@@ -170,5 +170,5 @@ Enter the summary of the PQI report.
 **Related topics**  
 
 
-[Create a product quality investigation](../task/mco-create-product-quality-investigation.md)
+[Create a product quality investigation](mco-create-product-quality-investigation.md)
 

@@ -58,10 +58,10 @@ Budget reference rates are exchange rates between currencies. Each reference rat
 
 **Note:** Currency support is for budgets only. You cannot create allocations in multiple currencies.
 
-**Parent Topic:**[PPM Standard \(Project Portfolio Management\)](../../project-portfolio-suite-with-financials/concept/c_ProjectPortfolioSuiteWithFinancials.md)
+**Parent Topic:**[PPM Standard \(Project Portfolio Management\)](c_ProjectPortfolioSuiteWithFinancials.md)
 
 **Related topics**  
 
 
-[Activate Investment Funding for projects and demands](../../investment-funding/task/activate-investment-funding-ppm.md)
+[Activate Investment Funding for projects and demands](activate-investment-funding-ppm.md)
 

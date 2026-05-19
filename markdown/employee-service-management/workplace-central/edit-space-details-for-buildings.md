@@ -161,7 +161,7 @@ Select **Remove allocation** from the drop-down list to remove the selected spac
 
     13. Select **New** to add a workplace location and update the required fields.
 
-        For more information, see [Managing workplace locations](../../workplace-space-management/concept/Creating-workplace-location-records-using-spce-mgmt.md).
+        For more information, see [Managing workplace locations](../workplace-space-management/Creating-workplace-location-records-using-spce-mgmt.md).
 
     14. After performing the changes, select **Save**.
 
@@ -170,7 +170,7 @@ Select **Remove allocation** from the drop-down list to remove the selected spac
     Any changes that you make to space records are applied in real-time and available on the floor Map of the selected space.
 
 
-**Parent Topic:**[Map based space administration](../concept/map-based-space-administration.md)
+**Parent Topic:**[Map based space administration](map-based-space-administration.md)
 
 **Related topics**  
 

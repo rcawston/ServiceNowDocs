@@ -15,7 +15,7 @@ breadcrumb: [Start remediation of a Log Analytics alert, Log Analytics in SOW fo
 
 The **Overview** tab in the Service Operations Workspace helps you understand Log Analytics groups.
 
-For a detailed description of Log Analytics groups, see [Types of Health Log Analytics alerts](hla-op-log-analytics-alert-types.md).
+For a detailed description of Log Analytics groups, see [Types of Health Log Analytics alerts](../health-log-analytics/hla-op-log-analytics-alert-types.md).
 
 ## Summary
 
@@ -48,7 +48,7 @@ For a detailed description of Log Analytics groups, see [Types of Health Log Ana
 
     ![Select a Log Analytics alert to view its details.](../image/alerts-in-group-sow.png "Alerts in group")
 
-    Select **View all** to the view the list of all Log Analytics alerts in the group and relevant information about them. You can also view the Alerts in group list by selecting the **Related records** tab and then selecting **Alerts in group**. For more information, see [View the Log Analytics alerts in a Log Analytics group in Health Log Analytics](../task/hla-op-alerts-in-group-sow.md)
+    Select **View all** to the view the list of all Log Analytics alerts in the group and relevant information about them. You can also view the Alerts in group list by selecting the **Related records** tab and then selecting **Alerts in group**. For more information, see [View the Log Analytics alerts in a Log Analytics group in Health Log Analytics](hla-op-alerts-in-group-sow.md)
 
 
 ## Impact
@@ -64,8 +64,8 @@ For a detailed description of Log Analytics groups, see [Types of Health Log Ana
     ![Impact section provides information on the impacted CIs and services.](../image/hla-ovrvw-tab-impact-sow.png "Impact section")
 
 
--   **[View the Log Analytics alerts in a Log Analytics group in Health Log Analytics](../task/hla-op-alerts-in-group-sow.md)**  
+-   **[View the Log Analytics alerts in a Log Analytics group in Health Log Analytics](hla-op-alerts-in-group-sow.md)**  
 View a list of all Log Analytics alerts in a Log Analytics group on the **Related records** tab.
 
-**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](../task/hla-op-overview-tab-view-sow.md)
+**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](hla-op-overview-tab-view-sow.md)
 

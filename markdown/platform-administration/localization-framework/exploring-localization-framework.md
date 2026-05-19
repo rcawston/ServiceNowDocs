@@ -28,10 +28,10 @@ The Localization Framework streamlines the process of adapting and translating S
 |Define and use custom language artifacts, in addition to installing artifact-specific product plugins.|[Artifact configurations](framework-configuration.md)|Administrators|
 |Tailor Localization Framework workflows and translation preferences|[Localization Framework settings](localization-settings.md)|Administrators|
 |Request translations|[Request translations](using-localization-framework.md)|Administrators, editors,managers, and requestors|
-|Manage translation projects|[Create a localization project](../task/create-localization-project.md)|Managers|
-|Bundle translation projects together|[Add a localization request item to a project](../task/add-lritm-to-project.md)|Managers|
-|Perform translation projects|[Fulfill a localization task](../task/fulfill-localization-task.md)|Fulfillers|
-|Approve and publish localizations and translations|[Approve a localization task](../task/approve-localization-task.md)|Fulfillers|
+|Manage translation projects|[Create a localization project](create-localization-project.md)|Managers|
+|Bundle translation projects together|[Add a localization request item to a project](add-lritm-to-project.md)|Managers|
+|Perform translation projects|[Fulfill a localization task](fulfill-localization-task.md)|Fulfillers|
+|Approve and publish localizations and translations|[Approve a localization task](approve-localization-task.md)|Fulfillers|
 |Use artifacts in localization, with support for Virtual Agent and several other ServiceNow products.|[Supported artifacts in Localization Framework](supported-artifacts-lf.md)|Administrators, managers, and users|
 
 **Note:** Localization Framework does not support Domain Separation.
@@ -52,10 +52,10 @@ Localization Framework enables the translation of Knowledge Base \(KB\) articles
 Localization Framework enables the translation of emails \(notification, template, and layout\) when an email artifact is requested for translation into a language and when a localization requested item \(LRITM\) is created.
 -   **[Localization Framework support for HR Service Delivery](lf_support-for-hr.md)**  
 Localization Framework extends its framework capabilities to Document Templates and Document Template Block Contents in HR Service Delivery.
--   **[Localization Framework Roles](../reference/roles-localization-framework.md#)**  
+-   **[Localization Framework Roles](roles-localization-framework.md#)**  
 Localization Framework uses different roles to manage different aspects of the application. The roles from Localization Framework are also used in Localization Workspace.
--   **[Workflows in the Localization Framework](../reference/workflow-localization-framework.md)**  
+-   **[Workflows in the Localization Framework](workflow-localization-framework.md)**  
 Workflows in the Settings table define the process for a localization task, including steps for approval and methods for translating and publishing.
 
-**Parent Topic:**[ServiceNow AI Platform translation and localization](../../managing-data/concept/translation-and-localization.md)
+**Parent Topic:**[ServiceNow AI Platform translation and localization](../system-localization/translation-and-localization.md)
 

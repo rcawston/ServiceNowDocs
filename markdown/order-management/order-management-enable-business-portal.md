@@ -23,7 +23,7 @@ Role required: admin
 
 To set up the Business Portal and Sales Customer Relationship Management self-service enhancements, first install the Business Portal plugins, which are available in the app store.
 
-See [Configuring the Business Portal](../concept/order-management-configure-business-portal.md) for more information.
+See [Configuring the Business Portal](order-management-configure-business-portal.md) for more information.
 
 ## Procedure
 

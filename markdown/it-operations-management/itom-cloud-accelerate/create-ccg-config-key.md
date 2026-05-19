@@ -28,7 +28,7 @@ Create a configuration key in Cloud Configuration Governance to use it in the po
 
 3.  On the Configuration Key form, fill in the fields.
 
-    For the description of the form fields, see [Cloud Configuration Governance Configuration key form](../reference/ccg-config-key-form.md).
+    For the description of the form fields, see [Cloud Configuration Governance Configuration key form](ccg-config-key-form.md).
 
 4.  Select **Submit**.
 

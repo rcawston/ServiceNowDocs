@@ -19,13 +19,13 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the OCR ClickText action. For more information about these properties, see [OCR Click Text](../reference/actionset-actions-properties.md#section_lff_znr_h5b).
+You can configure the properties for the OCR ClickText action. For more information about these properties, see [OCR Click Text](actionset-actions-properties.md#section_lff_znr_h5b).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    To know about the anchor, see how to use the [Anchor](../concept/anchor.md).
+    To know about the anchor, see how to use the [Anchor](anchor.md).
 
 2.  Navigate to **OCR** &gt; **Click Text**.
 

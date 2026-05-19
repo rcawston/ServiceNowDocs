@@ -43,7 +43,7 @@ Type
 
 </td><td>
 
-\[Read-only\] Data type selected for this question. See the table in [Controls](../concept/c_QuizDesigner.md) for possible data types.
+\[Read-only\] Data type selected for this question. See the table in [Controls](c_QuizDesigner.md) for possible data types.
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Mandatory
 
 </td><td>
 
-Check box for requiring users to answer the question. Users cannot submit quizzes until they answer all mandatory questions, which are denoted by a red Introduction\_to\_Fields\#Field\_Status\_Indicator" --&gt; field status indicator. This field is available when the question does not have a dependency and the question [Controls](../concept/c_QuizDesigner.md) is not **Boolean** with a check box option.
+Check box for requiring users to answer the question. Users cannot submit quizzes until they answer all mandatory questions, which are denoted by a red Introduction\_to\_Fields\#Field\_Status\_Indicator" --&gt; field status indicator. This field is available when the question does not have a dependency and the question [Controls](c_QuizDesigner.md) is not **Boolean** with a check box option.
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ Allow not applicable
 
 </td><td>
 
-Check box for including **Not Applicable** as an option for this question. Users can select **Not Applicable** if they do not have sufficient information to respond to a question. User responses of **Not Applicable** are excluded from results calculations. This field is available when the question does not have a dependency and the question [data type](../concept/c_QuizDesigner.md) is not **Boolean** with a check box option.
+Check box for including **Not Applicable** as an option for this question. Users can select **Not Applicable** if they do not have sufficient information to respond to a question. User responses of **Not Applicable** are excluded from results calculations. This field is available when the question does not have a dependency and the question [data type](c_QuizDesigner.md) is not **Boolean** with a check box option.
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Correct answer
 
 </td><td>
 
-Answer option that you want to be selected by users. When you specify a correct answer for a question, the system scores the question. This field is available for all data types except **Date**, **Date/Time**, and **String**. Multiple correct answers are supported for a few data types. See [data types](../concept/c_QuizDesigner.md).
+Answer option that you want to be selected by users. When you specify a correct answer for a question, the system scores the question. This field is available for all data types except **Date**, **Date/Time**, and **String**. Multiple correct answers are supported for a few data types. See [data types](c_QuizDesigner.md).
 
 </td></tr><tr><td>
 
@@ -148,10 +148,10 @@ Displayed when
 Condition builder that hides or displays the question depending on the answer to another question in the same category. Select an existing question from the list with a data type of **Boolean**, **Choice**, **Scale**, or **Template**. Create the condition that must exist for recipients to see the dependent question, using the **is** or **is one of** operator. The system prevents recursive dependencies between questions. For example, if Question A depends on Question B, Question B cannot depend on Question A.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Quizzes reference](../concept/quizzes-reference.md)
+</table>**Parent Topic:**[Quizzes reference](quizzes-reference.md)
 
 **Related topics**  
 
 
-[Create quiz questions](../task/t_CreateAQuizQuestion.md)
+[Create quiz questions](t_CreateAQuizQuestion.md)
 

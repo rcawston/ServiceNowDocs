@@ -18,7 +18,7 @@ Review the log lines around an anomaly to help you identify the root cause of a 
 
 ## Before you begin
 
-For background information, see [Review logs surrounding the anomaly to help find the root cause in Health Log Analytics](../concept/hla-op-surrounding-logs-view-concept.md).
+For background information, see [Review logs surrounding the anomaly to help find the root cause in Health Log Analytics](hla-op-surrounding-logs-view-concept.md).
 
 Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
@@ -28,7 +28,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 2.  Select the **Surrounding logs** tab and review the information.
 
-    The tab displays the list of log lines that were generated one minute before and one second after the Log Analytics alert. For an explanation of the information on the tab, see [Surrounding logs tab fields](../reference/hla-surrounding-logs-tab.md).
+    The tab displays the list of log lines that were generated one minute before and one second after the Log Analytics alert. For an explanation of the information on the tab, see [Surrounding logs tab fields](hla-surrounding-logs-tab.md).
 
 3.  View a different time span of the log lines using one of the following methods:
 

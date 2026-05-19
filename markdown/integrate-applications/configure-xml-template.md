@@ -62,5 +62,5 @@ The XmlTemplate component also provides methods to work with the templates. To e
 14. Close the XML TEMPLATE DESIGNER window.
 
 
-**Parent Topic:**[Data Modellers](../concept/data-modellers.md)
+**Parent Topic:**[Data Modellers](data-modellers.md)
 

@@ -19,17 +19,17 @@ After IoCs have been identified in a process of incident response and computer f
 
 IoC applies for STIX 1.1 and 2.x.
 
--   **[View an IoC](../task/t_AddIoCs.md)**  
+-   **[View an IoC](t_AddIoCs.md)**  
 IoCs, sometimes referred to as indicators, are most typically retrieved from a threat data source as STIX data. If needed, you can also create IoCs.
--   **[Add a related observable to an IoC](../task/t_AddObservToIoC.md)**  
+-   **[Add a related observable to an IoC](t_AddObservToIoC.md)**  
 In addition to importing observables as STIX data, you can add related observables to an IoC manually.
--   **[Add a related attack mode/method to an IoC](../task/t_AddRelatedAttackModeToIoc.md)**  
+-   **[Add a related attack mode/method to an IoC](t_AddRelatedAttackModeToIoc.md)**  
 In addition to importing related attack modes/methods as STIX data, you can add related attack modes/methods to an IoC manually.
--   **[Identify associated indicator types](../task/t_IdentifyAssociatedIndicatorTypes.md)**  
+-   **[Identify associated indicator types](t_IdentifyAssociatedIndicatorTypes.md)**  
 If an IoC has no associated indicator types defined, it tracks all types of observables. However, if you associate one or more types of indicators to an IoC, it limits the types of observables that can be associated with the IoC.
--   **[Identify indicator sources](../task/t_IdentifyIndicatorSources.md)**  
+-   **[Identify indicator sources](t_IdentifyIndicatorSources.md)**  
 Indicator sources are normally tracked automatically as part of the threat import process, but more sources can be manually added.
--   **[Add associated tasks to an IoC](../task/t_AddAssociatedTasksToIoC.md)**  
+-   **[Add associated tasks to an IoC](t_AddAssociatedTasksToIoC.md)**  
 In addition to importing associated tasks \(such as changes and incidents\) as STIX data, you can add them to an IoC manually.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

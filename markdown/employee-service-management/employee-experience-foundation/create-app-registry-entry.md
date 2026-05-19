@@ -69,5 +69,5 @@ Role required: oauth\_admin
 
 The Microsoft Teams app is now registered with an OAuth profile authorization.
 
-**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](../concept/setup-notify-ms-teams-single-tenant.md)
+**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](setup-notify-ms-teams-single-tenant.md)
 

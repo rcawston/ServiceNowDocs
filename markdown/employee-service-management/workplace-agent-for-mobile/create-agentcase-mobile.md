@@ -36,7 +36,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 6.  Tap **Submit**.
 
 
-**Parent Topic:**[Use Workplace Agent for mobile](../concept/use-workplace-agent-mobile.md)
+**Parent Topic:**[Use Workplace Agent for mobile](use-workplace-agent-mobile.md)
 
 **Related topics**  
 

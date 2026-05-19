@@ -19,5 +19,5 @@ The Ask Now Assist context menu in ServiceNow Vault console lists common securit
 
 ![Ask Now Assist panel with three skills shown.](../image/ask-now-assist.png)
 
-**Parent Topic:**[Exploring ServiceNow Vault](../../vault/concept/exploring-servicenow-vault.md)
+**Parent Topic:**[Exploring ServiceNow Vault](exploring-servicenow-vault.md)
 

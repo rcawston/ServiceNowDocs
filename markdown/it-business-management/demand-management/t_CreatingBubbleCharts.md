@@ -34,9 +34,9 @@ Bubble charts are useful for comparing demands based on common metrics such as r
 3.  Update the required settings and select **Update**.
 
 
-**Parent Topic:**[Set up Demand Management](../concept/c_SettingUpDemandManagement.md)
+**Parent Topic:**[Set up Demand Management](c_SettingUpDemandManagement.md)
 
 **Previous topic:**[Associate a widget to the Demand table](associate-widget-to-demand.md)
 
-**Next topic:**[Use Demand Management](../reference/r_UsingDemandManagement.md)
+**Next topic:**[Use Demand Management](r_UsingDemandManagement.md)
 

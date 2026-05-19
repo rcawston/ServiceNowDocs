@@ -147,7 +147,7 @@ Increase productivity with automated case detail and comment summarization, so a
 
 </td><td>
 
-[Intelligence](../reference/now-assist-for-psds.md)
+[Intelligence](now-assist-for-psds.md)
 
 </td><td>
 
@@ -159,7 +159,7 @@ Get at-a-glance visibility and a deep understanding of the data and identify are
 
 </td><td>
 
-[Analytics and Insights](../../../use/application-content-packs/concept/psds-content-pack.md)
+[Analytics and Insights](psds-content-pack.md)
 
 </td><td>
 

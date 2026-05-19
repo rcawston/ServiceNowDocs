@@ -15,7 +15,7 @@ breadcrumb: [Using AI agent workflows in Now Assist for WSD, Now Assist for Work
 
 The Help manage workplace reservations agentic AI workflow enables Workplace Event Planners with rescheduling a planned reservation. AI Agents gather relevant information from a workplace reservation and update an existing planned reservation with a new date, time, and duration.
 
-AI agents retrieve the reservation from the change event reservation case details. AI agents analyze an existing reservation before updating it with a new date and time. If the old location is not available while updating an existing reservation, AI agents update and move the reservation to a new location. For more information, see [Submit a change event request for a reservation](../../workplace-case-mgmt/task/submit-change-event-reservation.md).
+AI agents retrieve the reservation from the change event reservation case details. AI agents analyze an existing reservation before updating it with a new date and time. If the old location is not available while updating an existing reservation, AI agents update and move the reservation to a new location. For more information, see [Submit a change event request for a reservation](../workplace-case-management/submit-change-event-reservation.md).
 
 A change event request is submitted for updating an existing reservation by a workplace user. A workplace case is created with a new workplace service. The workplace case is assigned to a user in the Workplace Event planners assignment group.
 
@@ -27,14 +27,14 @@ The team of AI agents autonomously perform the following:
 
     Workplace Event planners can respond to AI agents queries using the conversational interface of the Now Assist panel. AI agents take confirmation from Workplace planners before updating a reservation to another location if the old location is not available. It shows three workplace locations. You can select the location or ask the AI agents to show more locations. AI agent provide a link for you to click and navigate to the reservation page to manually select a location of your choice.
 
-    For more information, see [Review notifications in the Now Assist panel](../task/agentic-workflow-notifications-nowassist.md).
+    For more information, see [Review notifications in the Now Assist panel](agentic-workflow-notifications-nowassist.md).
 
 -   Update the change event request case work notes with all the actions taken. Workplace Event planners can review the activity log to see the actions taken by AI agents to update a planned reservation event.
 
-    For more information, see [View change event reservation case details](../../workplace-case-mgmt/task/view-case-change-event-reservation.md).
+    For more information, see [View change event reservation case details](../workplace-case-management/view-case-change-event-reservation.md).
 
 
-For more information, see [View change event reservation case details](../../workplace-case-mgmt/task/view-case-change-event-reservation.md).
+For more information, see [View change event reservation case details](../workplace-case-management/view-case-change-event-reservation.md).
 
 ## Help manage workplace reservations
 
@@ -135,7 +135,7 @@ In the Select display workflow, select **Display** to display the Now Assist pan
 
 **Note:** To view the output from a triggered use case, you should have the now\_assist\_panel\_role.
 
-Select this option to receive and review notifications by AI agents in the Now Assist panel. AI agents notify Event planners in the Now Assist panel with the case resolution and summarization notes. For more information, see [Review notifications in the Now Assist panel](../task/agentic-workflow-notifications-nowassist.md).
+Select this option to receive and review notifications by AI agents in the Now Assist panel. AI agents notify Event planners in the Now Assist panel with the case resolution and summarization notes. For more information, see [Review notifications in the Now Assist panel](agentic-workflow-notifications-nowassist.md).
 
 **Parent Topic:**[Using AI agent workflows in Now Assist for WSD](now-assist-wsd-using-agentic-use-cases.md)
 

@@ -23,7 +23,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\]
 
 ## About this task
 
-The insights\_owner role spreads responsibility for Cloud Cost Management activities to persons who have good knowledge of operations in the service accounts. For more information about the insights\_owner role, see [Cloud Cost Management roles](../reference/cloud-insights-roles.md).
+The insights\_owner role spreads responsibility for Cloud Cost Management activities to persons who have good knowledge of operations in the service accounts. For more information about the insights\_owner role, see [Cloud Cost Management roles](cloud-insights-roles.md).
 
 A service account is a secure record on your instance that holds the credential and access information for your provider account. Discovery uses the information to access your provider account to get data on each resource in each specified datacenter.
 
@@ -112,5 +112,5 @@ Assign ownership of one or more service accounts and, optionally, the related CI
 -   **[View the service accounts owned by an insights\_owner](insights-owners-view-list-cloudin.md)**  
 View the list of users that have the insights\_owner role and the service accounts that each owner owns.
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
 

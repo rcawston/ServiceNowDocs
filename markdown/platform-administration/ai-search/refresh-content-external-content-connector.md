@@ -47,5 +47,5 @@ The external content connector runs a one-time full content crawl to refresh its
 
 This one-time crawl appears in the connector's crawl history with name **Force reindex** so you can monitor its status. For details on monitoring crawl history, see [Review crawl history for an external content connector](review-crawl-ext-cont-connector.md).
 
-**Parent Topic:**[Crawling content with External Content Connectors](../concept/using-ext-cont-connectors.md)
+**Parent Topic:**[Crawling content with External Content Connectors](using-ext-cont-connectors.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Configure EA Workspace using the Setup page, Configuring Enterprise
 
 Configure Technology Portfolio Management in Enterprise Architecture Workspace. By configuring TPM, you can get application lifecycle risk insights and rationalize applications.
 
--   **[Activate the Technology Portfolio Management \(TPM\) plugin](../../task/eaw-task/eaw-install-tpm.md)**  
+-   **[Activate the Technology Portfolio Management \(TPM\) plugin](eaw-install-tpm.md)**  
 Activate the Technology Portfolio Management \(TPM\) store application that you purchased from the ServiceNow Store to make it available on your instance.
 
 **Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)

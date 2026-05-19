@@ -17,13 +17,13 @@ Time series widgets have the following optional settings for display, for the da
 
 **Important:** This topic is not a guide to creating time series widgets. It is a guide to extra, optional settings that are common across time series widget types. FOR INSTRUCTIONS ON CREATING TIME SERIES WIDGETS, PLEASE SEE THE APPROPRIATE "CREATE" TOPIC:
 
--   [Create a line visualization for a time series widget](../task/create-line-visualization-ts.md)
--   [Create a column visualization for a time series widget](../task/create-column-visualization-ts.md)
--   [Create an area visualization for a time series widget](../task/create-area-visualization-ts.md)
--   [Create a spline visualization for a time series widget](../task/create-spline-visualization-ts.md)
--   [Create a step visualization for a time series widget](../task/create-step-visualization-ts.md)
--   [Create a stacked column visualization for a time series widget](../task/create-stacked-col-visualization-ts.md)
--   [Create a relative compare visualization for a time series widget](../task/create-relative-compare-ts.md)
+-   [Create a line visualization for a time series widget](create-line-visualization-ts.md)
+-   [Create a column visualization for a time series widget](create-column-visualization-ts.md)
+-   [Create an area visualization for a time series widget](create-area-visualization-ts.md)
+-   [Create a spline visualization for a time series widget](create-spline-visualization-ts.md)
+-   [Create a step visualization for a time series widget](create-step-visualization-ts.md)
+-   [Create a stacked column visualization for a time series widget](create-stacked-col-visualization-ts.md)
+-   [Create a relative compare visualization for a time series widget](create-relative-compare-ts.md)
 
 The available settings depend on the selected visualization. The following example is for a Area Chart visualization.
 
@@ -150,7 +150,7 @@ Specify the ending point for a 2nd range of values for the vertical axis of the 
 
 |Setting|Description|
 |-------|-----------|
-|Elements filter|Specify an element filter in place of the first-level [breakdown element](../concept/performance-analytics-glossary.md#). Use an elements filter to personalize which elements appear according to the characteristics of the viewer. For example, you can filter elements of the Assignment Group breakdown to show only the groups to which the viewer belongs. For more information, see [Personalized visuals](../concept/personalized-visuals.md#).|
+|Elements filter|Specify an element filter in place of the first-level [breakdown element](performance-analytics-glossary.md#). Use an elements filter to personalize which elements appear according to the characteristics of the viewer. For example, you can filter elements of the Assignment Group breakdown to show only the groups to which the viewer belongs. For more information, see [Personalized visuals](personalized-visuals.md#).|
 
 ## Previous Period settings
 

@@ -33,7 +33,7 @@ As an ESG administrator and ESG program manager, you must begin by setting up th
 
 ## Defining metrics
 
-As an ESG metrics administrator, establish a comprehensive data collection process to gather relevant sustainability data across all operations. The data can be collected using metric definitions. The three types of metric definitions are [manual, calculated, and automated](../../metrics/concept/types-of-metric-definitions.md). Identify the key operational sustainability metrics aligned with industry best practices, such as carbon emissions, energy consumption, waste management, employee diversity, workplace safety, supply chain sustainability, and corporate governance. Ensure data accuracy by implementing appropriate tracking systems and engaging relevant stakeholders such as data providers for manual metrics.
+As an ESG metrics administrator, establish a comprehensive data collection process to gather relevant sustainability data across all operations. The data can be collected using metric definitions. The three types of metric definitions are [manual, calculated, and automated](types-of-metric-definitions.md). Identify the key operational sustainability metrics aligned with industry best practices, such as carbon emissions, energy consumption, waste management, employee diversity, workplace safety, supply chain sustainability, and corporate governance. Ensure data accuracy by implementing appropriate tracking systems and engaging relevant stakeholders such as data providers for manual metrics.
 
 ## Measurement reporting
 

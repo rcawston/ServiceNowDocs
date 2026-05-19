@@ -17,8 +17,8 @@ To collect Spotlight scores, schedule score collection and activate the Spotligh
 
 ## Before you begin
 
-1.  [Create a Spotlight group](../task/create-spotlight-group.md#)
-2.  [Create Spotlight criteria](../task/create-spotlight-criteria.md)
+1.  [Create a Spotlight group](create-spotlight-group.md#)
+2.  [Create Spotlight criteria](create-spotlight-criteria.md)
 
 Role required: pa\_spotlight or admin
 
@@ -57,7 +57,7 @@ Spotlight starts collecting scores according to the schedule you set. You can al
 
 ## What to do next
 
-You can see the details of the criteria that contribute to a Spotlight score. For more information, read [See Spotlight score details](../task/view-details-of-a-spotlight.md). You can also see and share an [interactive analysis](spotlight-interactive-analysis.md) of the results.
+You can see the details of the criteria that contribute to a Spotlight score. For more information, read [See Spotlight score details](view-details-of-a-spotlight.md). You can also see and share an [interactive analysis](spotlight-interactive-analysis.md) of the results.
 
 **Parent Topic:**[Setting up Spotlight](setting-up-spotlight.md)
 

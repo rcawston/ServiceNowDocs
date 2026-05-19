@@ -98,7 +98,7 @@ Service type
 Type of the service, for example system or user
 
 </td></tr></tbody>
-</table>To return to the device details page, see [Device details](../concept/dex-workspace-user-details.md).
+</table>To return to the device details page, see [Device details](dex-workspace-user-details.md).
 
 **Parent Topic:**[Device details pages](user-device-details-pages.md)
 

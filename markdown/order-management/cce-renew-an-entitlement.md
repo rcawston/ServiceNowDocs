@@ -15,7 +15,7 @@ Renew an entitlement on the CSM Configurable Workspace.
 
 ## Before you begin
 
-You cannot renew an entitlement when it is in Canceled state or it does not have an end date. For more info, see [Order fulfillment](../../tmt-order-mgt/concept/reviewing-orchestration-plans-order-fulfillment.md).
+You cannot renew an entitlement when it is in Canceled state or it does not have an end date. For more info, see [Order fulfillment](reviewing-orchestration-plans-order-fulfillment.md).
 
 The order processing for product inventory based entitlements are executed according to the fulfillment flow defined by the customer for these offerings being renewed.
 
@@ -36,7 +36,7 @@ Role required:
 
 5.  Select **Renew**.
 
-    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](../concept/create-cont-ent-workflows-csm.md#section_qp4_rxv_tcc).
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](create-cont-ent-workflows-csm.md#section_qp4_rxv_tcc).
 
     -   If the selected target entity is a quote, a quote to renew the entitlement is created. You can select the quote number from the confirmation message to review the renewal quote. After the quote is approved and the status is updated to **Complete**, an order is created for further processing.
     -   If the selected target entity is an order, an order to renew the entitlement is created. You can select the order number from the confirmation message to review the renewal order.

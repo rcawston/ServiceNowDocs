@@ -31,7 +31,7 @@ The following items are installed with Financial Services Business Deposit Opera
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Financial Services Business Deposit Operations](../reference/installed-with-business-deposit-ops.md).
+For more information, see [Components installed with Financial Services Business Deposit Operations](installed-with-business-deposit-ops.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ For more information, see [Components installed with Financial Services Business
 5.  Select **Install**.
 
 
-**Parent Topic:**[Install Financial Services Deposit Operations](../concept/install-deposit-operations.md)
+**Parent Topic:**[Install Financial Services Deposit Operations](install-deposit-operations.md)
 

@@ -38,7 +38,7 @@ After assets or users are added to the rate card, you can use the **Distribute c
 **Related topics**  
 
 
-[Contract Rate Card form](../reference/ContractRateCardForm.md)
+[Contract Rate Card form](ContractRateCardForm.md)
 
 [Create a new expense line](t_CreatingANewExpenseLine.md)
 

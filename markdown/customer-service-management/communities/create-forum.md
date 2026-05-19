@@ -56,7 +56,7 @@ The forum title is visible to registered community users. Community users must r
 
 3.  Fill in the fields on the **Forum New record** form.
 
-    For field description, see [Forum form fields](../reference/forum-form-fields.md).
+    For field description, see [Forum form fields](forum-form-fields.md).
 
 4.  To allow registered forum users to view and request to join a forum, select the **Enable Membership for this Forum** check box and complete the following steps.
 

@@ -36,7 +36,7 @@ Role required: notification\_provider\_admin
 
 3.  On the Portal notification content form, fill in the fields and select **Submit**.
 
-    For a description of the field values, see [Portal notification content form](../reference/notif-content-form.md).
+    For a description of the field values, see [Portal notification content form](notif-content-form.md).
 
 
 ## Result

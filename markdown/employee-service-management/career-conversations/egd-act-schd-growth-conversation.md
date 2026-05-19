@@ -19,7 +19,7 @@ Use the Career Conversations app to simultaneously create and schedule a one-tim
 
 You must install the Career Conversations application to access it from the Employee Center.
 
-You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](egd-employee-profile-licensing.md).
+You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](../talent-development-core/egd-employee-profile-licensing.md).
 
 You must configure integration between the Career Conversations application and Microsoft® Outlook®. This integration enables you to view your employee or manager's calendar as it appears in Microsoft Outlook so you can schedule a meeting for your conversation during the conversation creation process. For more information about the integration process with Microsoft Outlook, refer to [Integrating with Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/integrating-with-microsoft-outlook.md).
 
@@ -126,5 +126,5 @@ Update the agenda for your upcoming conversation by using an option that corresp
     Use the link in the meeting invitation email.
 
 
-**Parent Topic:**[Using the Career Conversations application](../concept/egd-activities-use.md)
+**Parent Topic:**[Using the Career Conversations application](egd-activities-use.md)
 

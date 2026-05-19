@@ -17,7 +17,7 @@ The ServiceNow® MID Server enables communication and the movement of data betwe
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 ## How bundle files work with MID Server
 
@@ -40,5 +40,5 @@ On the MID Server, the bundle file is saved in the Import folder. This folder is
 -   Avoid conflicts with Discovery and create files for the system attachment \[sys\_attachment\] table: [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md)
 -   Learn about system properties restrictions: [Configure attachment system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingTheDragAndDropFeature.md)
 
-**Parent Topic:**[Legacy - Link an application or application-customization to source control](../task/t_LinkAnApplicationToSourceControl.md)
+**Parent Topic:**[Legacy - Link an application or application-customization to source control](t_LinkAnApplicationToSourceControl.md)
 

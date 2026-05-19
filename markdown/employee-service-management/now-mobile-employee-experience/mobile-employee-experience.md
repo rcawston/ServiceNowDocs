@@ -48,20 +48,20 @@ Download the Now Mobile app for Apple iOS or Google Android from the Apple App S
 
 -   **Access the demo**
 
-Take a look at the Now Mobile app demo. The demo is a curated experience designed to show how your employees can accomplish their work from anywhere. For more information on the app, see [Now Mobile app demo](../../tablet-mobile-ui/concept/sg-mobile-demo.md).
+Take a look at the Now Mobile app demo. The demo is a curated experience designed to show how your employees can accomplish their work from anywhere. For more information on the app, see [Now Mobile app demo](sg-mobile-demo.md).
 
 
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
--   **[Now Mobile app demo](../../tablet-mobile-ui/concept/sg-mobile-demo.md)**  
+-   **[Now Mobile app demo](sg-mobile-demo.md)**  
 Access the demo in your Now Mobile app to learn how the app can help you work from anywhere using your mobile device.
 
-**Parent Topic:**[Unified Employee Experience](../../../product/employee-center/concept/ec-and-ecpro-landing-page.md)
+**Parent Topic:**[Unified Employee Experience](../employee-experience-foundation/ec-and-ecpro-landing-page.md)
 

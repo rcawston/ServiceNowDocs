@@ -23,7 +23,7 @@ Create a linter check to identify any issues in a script. When a linter check is
 
 Access methods in this API using the Instance Scan engine.rootNode object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## LinterCheckAstNode - getNameIdentifier\(\)
 
@@ -37,7 +37,7 @@ Retrieves the string value of a name node type. A name node represents a simple 
 |----|-----------|
 |String|If the linter object is a name node type, return the name as a string. Null otherwise.|
 
-The following example uses the Findings API [incrementWithNode\(\)](../../Findings/concept/FindingsAPI.md#) method in a linter check. Use this method in the Script field of the [Linter Check form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-linter-check.md).
+The following example uses the Findings API [incrementWithNode\(\)](FindingsAPI.md#) method in a linter check. Use this method in the Script field of the [Linter Check form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-linter-check.md).
 
 ```
 (function(engine) {
@@ -63,7 +63,7 @@ Gets the parent node object of the accessed node.
 |----|-----------|
 |Object|Parent node object of the accessed node.|
 
-The following example uses the Findings API [incrementWithNode\(\)](../../Findings/concept/FindingsAPI.md#) method in a linter check. Use this method in the Script field of the [Linter Check form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-linter-check.md).
+The following example uses the Findings API [incrementWithNode\(\)](FindingsAPI.md#) method in a linter check. Use this method in the Script field of the [Linter Check form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-linter-check.md).
 
 ```
 (function(engine) {
@@ -89,7 +89,7 @@ Gets the type of the accessed node.
 |----|-----------|
 |String|Type name of the accessed node. For example, a function call in the source is tokenized as a node with the type name of `CALL`.|
 
-The following example uses the Findings API [incrementWithNode\(\)](../../Findings/concept/FindingsAPI.md#) method in a linter check. Use this method in the Script field of the [Linter Check form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-linter-check.md).
+The following example uses the Findings API [incrementWithNode\(\)](FindingsAPI.md#) method in a linter check. Use this method in the Script field of the [Linter Check form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-linter-check.md).
 
 ```
 (function(engine) {
@@ -115,7 +115,7 @@ Accesses each node in the subtree starting from this node and executes a given c
 |----|-----------|
 |None| |
 
-The following example uses the Findings API [incrementWithNode\(\)](../../Findings/concept/FindingsAPI.md#) method in a linter check. Use this method in the Script field of the [Linter Check form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-linter-check.md).
+The following example uses the Findings API [incrementWithNode\(\)](FindingsAPI.md#) method in a linter check. Use this method in the Script field of the [Linter Check form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-linter-check.md).
 
 ```
 (function(engine) {

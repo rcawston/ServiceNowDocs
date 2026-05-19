@@ -48,11 +48,11 @@ A time sheet can have any of the following states:
     A time sheet has been recalled by the submitter for modification.
 
 
--   **[Create a time sheet](../task/create-time-sheet.md)**  
+-   **[Create a time sheet](create-time-sheet.md)**  
 As a time card user, you can create a time sheet to group all your time cards for the given week and submit them in a single step.
--   **[Submit a time sheet](../task/submit-time-sheet.md)**  
+-   **[Submit a time sheet](submit-time-sheet.md)**  
 Once the time sheet is updated with time worked, you can submit the time sheet for the week to submit all the time cards for the week together.
--   **[Approve or reject a time sheet](../task/approve-time-sheet.md)**  
+-   **[Approve or reject a time sheet](approve-time-sheet.md)**  
 View, approve, or reject time sheet or time cards for your user, for the given week, in a single step.
 
 **Parent Topic:**[Time Card Management](time-card-management.md)

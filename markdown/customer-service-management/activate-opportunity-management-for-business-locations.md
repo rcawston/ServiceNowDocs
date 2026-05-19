@@ -27,7 +27,7 @@ The following items are installed with Opportunity Management for Business Locat
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Roles and responsibilities](../concept/personas-roles-and-tables-post-integration-oppMgmt.md).
+For more information, see [Roles and responsibilities](personas-roles-and-tables-post-integration-oppMgmt.md).
 
 ## Procedure
 
@@ -47,5 +47,5 @@ For more information, see [Roles and responsibilities](../concept/personas-roles
 **Related topics**  
 
 
-[Opportunity Management for business location](../concept/opportunity-management-for-business-location.md)
+[Opportunity Management for business location](opportunity-management-for-business-location.md)
 

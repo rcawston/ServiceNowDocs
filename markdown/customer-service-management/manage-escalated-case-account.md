@@ -37,7 +37,7 @@ Perform tasks such as changing the escalation severity \(which may trigger a dif
 
 3.  Update the fields on the escalation form as needed.
 
-    For example, you can change the escalation severity, which may trigger a different SLA, and update the escalation trend. You can also add users to the watch list and add comments about the progress of the escalation. For more information about these fields, see [Case and account escalation form](../reference/case-escalation-form.md).
+    For example, you can change the escalation severity, which may trigger a different SLA, and update the escalation trend. You can also add users to the watch list and add comments about the progress of the escalation. For more information about these fields, see [Case and account escalation form](case-escalation-form.md).
 
 4.  Click **Update**.
 

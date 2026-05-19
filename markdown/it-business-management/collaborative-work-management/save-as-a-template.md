@@ -78,5 +78,5 @@ From the page options, select the Page Actions icon \(![Page Actions Icon.](../i
 
 The saved template is added to the Template Center.
 
-**Parent Topic:**[Templates in CWM for Boards and Docs](../concept/templates-in-cwm-for-spaces-boards-and-docs.md)
+**Parent Topic:**[Templates in CWM for Boards and Docs](templates-in-cwm-for-spaces-boards-and-docs.md)
 

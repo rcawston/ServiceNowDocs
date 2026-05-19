@@ -63,7 +63,7 @@ Menu icon \(...\)
 
 Access the menu for additional options:-   **Edit project**
 
-Select this option to edit the current project. For more information, see [Create a project or template using Project Builder](../task/define-workflow-model.md).
+Select this option to edit the current project. For more information, see [Create a project or template using Project Builder](define-workflow-model.md).
 
 -   **Edit Versions**
 
@@ -71,7 +71,7 @@ Select this option to change the name of a project version. For more information
 
 -   **Create CIM**
 
-Select this option to create a new improvement initiative. For more information, see [Create an improvement initiative from Process Mining](../task/create-improvement-initiative.md#).
+Select this option to create a new improvement initiative. For more information, see [Create an improvement initiative from Process Mining](create-improvement-initiative.md#).
 
 
 </td></tr></tbody>

@@ -104,5 +104,5 @@ Description of the test plan.
 </table>    **Note:** The Progress section displays the overall status of the test plan indicating the percentage of tests in the test plan that have passed, failed, or been blocked.
 
 
-**Parent Topic:**[Test Board in Test Management 2.0](../concept/test-board.md)
+**Parent Topic:**[Test Board in Test Management 2.0](test-board.md)
 

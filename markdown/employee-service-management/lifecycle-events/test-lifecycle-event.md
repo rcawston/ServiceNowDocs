@@ -50,5 +50,5 @@ Role required: sn\_hr\_le.admin
     An HR case for the lifecycle event for the selected subject person is created.
 
 
-**Parent Topic:**[Using the Test Activity Sets tool for a lifecycle event activity set](../concept/hr-lifecycle-event-test-tool.md)
+**Parent Topic:**[Using the Test Activity Sets tool for a lifecycle event activity set](hr-lifecycle-event-test-tool.md)
 

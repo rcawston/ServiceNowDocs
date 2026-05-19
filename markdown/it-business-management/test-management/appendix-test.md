@@ -17,7 +17,7 @@ Test Management 2.0 offers a few enhancements over Test Management 1.0.
 
 These enhancements can be divided into the following categories:
 
--   [Functionality enhancements](../reference/functionality-enhancements-test.md)
--   [Data model enhancements](../reference/data-model-enhancements-test.md)
--   [Usability enhancements](../reference/usability-enhancements-test.md)
+-   [Functionality enhancements](functionality-enhancements-test.md)
+-   [Data model enhancements](data-model-enhancements-test.md)
+-   [Usability enhancements](usability-enhancements-test.md)
 

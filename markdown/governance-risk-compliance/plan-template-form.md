@@ -90,7 +90,7 @@ Loss scenarios to be included in the plan. Available options are:
 -   **Vendor Disruption**
 -   **Loss of Windows Servers**
 
- You can also create a loss scenario and add it to the template. For more information on creating a loss scenario, see [Add loss scenarios](../task/add-loss-scenario-recovery-task-bcp-uib-ws.md).
+ You can also create a loss scenario and add it to the template. For more information on creating a loss scenario, see [Add loss scenarios](add-loss-scenario-recovery-task-bcp-uib-ws.md).
 
 </td></tr><tr><td>
 
@@ -119,5 +119,5 @@ Option to group recovery tasks. When selected, tasks are pre-organized into grou
 -   **Updated by**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure the business continuity plan template](../task/configure-a-bcp-template-uib-ws.md)
+</table>**Parent Topic:**[Configure the business continuity plan template](configure-a-bcp-template-uib-ws.md)
 

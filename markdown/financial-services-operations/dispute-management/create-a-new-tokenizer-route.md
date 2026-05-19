@@ -21,7 +21,7 @@ Role required: admin
 
 Define the authentication type when setting up a Service Account in the tokenizer service. API keys are long-lived, whereas JWT bearer tokens are time-limited. The tokenizer service generates an API key after you create a Service Account. For more information, see [Initial setup for Vault schema, Connections and Service Account for Card data security \(KB2830577\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2830577).
 
-In ServiceNow, install and set up integrations to the Third-Party Systems \(such as Visa Spoke or Mastercard Spoke\). Card Data Security requires these integrations to function correctly. For more information, see [Integrating with spokes](../../fso-common/concept/spokes.md).
+In ServiceNow, install and set up integrations to the Third-Party Systems \(such as Visa Spoke or Mastercard Spoke\). Card Data Security requires these integrations to function correctly. For more information, see [Integrating with spokes](../spokes.md).
 
 ## About this task
 

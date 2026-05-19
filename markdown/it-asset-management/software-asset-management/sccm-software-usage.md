@@ -24,9 +24,9 @@ The Integration — Microsoft SCCM 2016 plugin is compatible with SCCM version 1
 
 **Important:** Both Microsoft SCCM plugins will be deprecated in the Tokyo release. If you are integrating with SCCM for the first time, request and install the Service Graph connector for Microsoft SCCM application from the[ServiceNow Store](https://store.servicenow.com/) instead. If you have already activated one of the Microsoft SCCM plugins on your ServiceNow instance, use the Migration Readiness Tool for Service Graph Connector for SCCM store application to prepare your instance for migration from the Microsoft SCCM plugin to the Service Graph connector. See [Service Graph connector for Microsoft SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-sccm.md) for more information on the Service Graph connector.
 
-The SCCM integration plugin installs [several components](../reference/sccm-sam-components.md).
+The SCCM integration plugin installs [several components](sccm-sam-components.md).
 
-After the SCCM usage plugin is [activated and configured](../task/configure-sccm-sam.md), a scheduled import runs monthly to [bring SCCM software usage data into your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md). The usage data is then mapped to Software Usage table. During the scheduled job, a SQL query is executed.
+After the SCCM usage plugin is [activated and configured](configure-sccm-sam.md), a scheduled import runs monthly to [bring SCCM software usage data into your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md). The usage data is then mapped to Software Usage table. During the scheduled job, a SQL query is executed.
 
 The scheduled import runs once a month, but you can run the import on demand by clearing the **Conditional** option on the Scheduled Data Import form. However, the data is always pulled from the previous month, so there won't be a change in the data until the following scheduled import.
 
@@ -43,7 +43,7 @@ Depending on what you've specified in the reclamation rule for the product, one 
 -   SCCM 2012 v2 Software Last Used
 -   SCCM 2016 Software Last Used
 
-**Note:** Only usage data for products associated with a reclamation rule is imported. The **Reclamation type** field on the Reclamation Rule form must match the scheduled import that you are running, otherwise the data is not pulled into your instance. For more information, see [Create a reclamation rule to import Microsoft SCCM usage data](../task/create-reclamation-rule-sccm.md).
+**Note:** Only usage data for products associated with a reclamation rule is imported. The **Reclamation type** field on the Reclamation Rule form must match the scheduled import that you are running, otherwise the data is not pulled into your instance. For more information, see [Create a reclamation rule to import Microsoft SCCM usage data](create-reclamation-rule-sccm.md).
 
 You can also pull in user data from SCCM. User data is compared to the user\_name field of the sys\_user record. If the names don't match, the user data isn't imported.
 

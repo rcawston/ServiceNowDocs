@@ -295,5 +295,5 @@ This task includes example WSDL and XSD files for a weather forecast SOAP messag
 
 ```
 
-**Parent Topic:**[SOAP message](../concept/c_SOAPMessage.md)
+**Parent Topic:**[SOAP message](c_SOAPMessage.md)
 

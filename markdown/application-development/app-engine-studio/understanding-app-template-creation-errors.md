@@ -33,7 +33,7 @@ Errors that occurred during the creation of a custom template that are displayed
 
 ### Error messages
 
-For more information about what types of records are allowed and skipped, see [Supported features and metadata in custom templates](../reference/supported-features-metadata-custom-templates.md).
+For more information about what types of records are allowed and skipped, see [Supported features and metadata in custom templates](supported-features-metadata-custom-templates.md).
 
 <table id="table_jyq_4qt_z5b"><thead><tr><th>
 

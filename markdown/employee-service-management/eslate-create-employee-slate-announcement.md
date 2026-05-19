@@ -47,7 +47,7 @@ You can create announcements from scratch or from existing knowledge articles an
 
         **Note:** Verify the focal point positioning to confirm the image renders correctly across different widget aspect ratios.
 
-    **Note:** For a list of fields, see [Employee Slate announcement form](../reference/eslate-employee-slate-announcement-fields.md).
+    **Note:** For a list of fields, see [Employee Slate announcement form](eslate-employee-slate-announcement-fields.md).
 
 3.  Select the link in one of the following ways:
 
@@ -95,5 +95,5 @@ You can also create an announcement from an existing knowledge article or catalo
 
 [Create an announcement using chat](eslate-create-announcement-with-now-assist.md)
 
-[Conversational authoring for announcements](../concept/eslate-conversational-authoring-announcements.md)
+[Conversational authoring for announcements](eslate-conversational-authoring-announcements.md)
 

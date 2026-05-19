@@ -27,7 +27,7 @@ Three minute video showing how to add a stylized text component and two button i
 
 2.  Open an experience to work in or create an experience by selecting **Create &gt; Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  [Create a page in UI Builder](create-page.md) or open a page.
 
@@ -192,5 +192,5 @@ For detailed, technical information about the button component, see [Button Over
 
 For detailed, technical information about the stylized text component, see [Stylized Text Overview](https://developer.servicenow.com/dev.do#!/reference/next-experience/washingtondc/now-components/now-stylized-text/overview).
 
-**Parent Topic:**[Client state parameters](../concept/client-state-parameters.md)
+**Parent Topic:**[Client state parameters](client-state-parameters.md)
 

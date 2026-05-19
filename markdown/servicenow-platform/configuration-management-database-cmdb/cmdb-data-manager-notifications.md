@@ -22,9 +22,9 @@ The following system properties control different behaviors of notifications:
 -   sn\_cmdb\_ws.glide.cmdb.data\_manager.rejected.task.notifications.group
 -   cmdb.data.manager.stale.task.life.in.days
 
-For information about these properties, see [Components related to CMDB Data Manager](../reference/components-cmdb-data-manager.md).
+For information about these properties, see [Components related to CMDB Data Manager](components-cmdb-data-manager.md).
 
-Most notifications don't require special configuration and trigger automatically when their specified conditions are met. Recipients are determined by role \(such as data\_manager\_admin\), task assignment, approval group membership, or a configurable user group. For information about the **Run policy scheduled job as**, **Run as**, and other policy setting, see [Create a CMDB Data Manager policy](../task/data-manager-create-policy-wrkspc.md).
+Most notifications don't require special configuration and trigger automatically when their specified conditions are met. Recipients are determined by role \(such as data\_manager\_admin\), task assignment, approval group membership, or a configurable user group. For information about the **Run policy scheduled job as**, **Run as**, and other policy setting, see [Create a CMDB Data Manager policy](data-manager-create-policy-wrkspc.md).
 
 ## Notifications
 
@@ -125,7 +125,7 @@ Properties in the CMDB Data Manager Settings page:
 </td></tr></tbody>
 </table>-   **cmdb\_data\_management\_task \{task number\} Approval Request**
 
-    Sending this notification depends on whether the policy type is configured to require a review. For information about the **Needs review** field, see [Create a CMDB Data Manager policy](../task/data-manager-create-policy-wrkspc.md).
+    Sending this notification depends on whether the policy type is configured to require a review. For information about the **Needs review** field, see [Create a CMDB Data Manager policy](data-manager-create-policy-wrkspc.md).
 
 <table id="table_spm_ykh_53c"><tbody><tr><td>
 

@@ -39,8 +39,8 @@ Role required: none
 
 8.  Select the appropriate responses to complete your request.
 
-    For a sample Virtual Agent conversation, see [Universal Request Virtual Agent conversation flows](../../universal-request/concept/ur-va-conversation-flows.md).
+    For a sample Virtual Agent conversation, see [Universal Request Virtual Agent conversation flows](../universal-request-for-hr-service-delivery/ur-va-conversation-flows.md).
 
 
-**Parent Topic:**[Employee actions](../concept/ur-ms-teams-use-employee.md)
+**Parent Topic:**[Employee actions](ur-ms-teams-use-employee.md)
 

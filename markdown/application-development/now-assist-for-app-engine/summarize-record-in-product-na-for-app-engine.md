@@ -24,7 +24,7 @@ Verify that the custom app record summarization skill is activated and configure
 
 The following procedure describes how to summarize a record from a custom application in-product in both Core UI and in a custom workspace. To learn how to add a record summarization card to your custom workspace, see the following resources:
 
--   [Customize UI Builder pages using components](../../../administer/ui-builder/concept/work-components.md)
+-   [Customize UI Builder pages using components](../ui-builder/work-components.md)
 -   [Components documentation for the AI summary card](https://horizon.servicenow.com/workspace/components/now-ai-summary-card?release=zurich)
 -   [UI Builder setup documentation for the AI summary card](https://developer.servicenow.com/dev.do#!/reference/next-experience/zurich/now-components/now-ai-summary-card/uib-setup)
 
@@ -74,5 +74,5 @@ If you want to reuse the summary, select the copy to clipboard icon \(![Copy to 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for App Engine](../../app-engine-studio/concept/use-now-assist-for-app-engine-enterprise.md)
+**Parent Topic:**[Using Now Assist for App Engine](use-now-assist-for-app-engine-enterprise.md)
 

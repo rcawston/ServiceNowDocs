@@ -94,5 +94,5 @@ Location
 Location where the request was raised. For example, Japan.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Raise a compliance request from the Employee Center](../task/raise-compliance-request-employee-center.md)
+</table>**Parent Topic:**[Raise a compliance request from the Employee Center](raise-compliance-request-employee-center.md)
 

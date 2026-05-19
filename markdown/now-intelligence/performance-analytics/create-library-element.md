@@ -60,5 +60,5 @@ A library element starts out as Personal in scope. Only the user who created it 
 
 You cannot edit a library element from inside a project.
 
-**Parent Topic:**[Cross-project library elements](../concept/cross-project-artifact-libraries.md)
+**Parent Topic:**[Cross-project library elements](cross-project-artifact-libraries.md)
 

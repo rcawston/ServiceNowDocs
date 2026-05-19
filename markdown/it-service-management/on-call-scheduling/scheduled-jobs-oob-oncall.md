@@ -20,5 +20,5 @@ On-Call Scheduling includes scheduled jobs.
 |On-Call Reminders|Sends daily reminders to on-call roster members.|
 |On-Call Gaps Conflicts Report|Sends a weekly report of gaps and conflicts in on-call schedules to shift managers, group managers, and admin.|
 
-**Parent Topic:**[Components installed with On-call scheduling](../../user-administration/concept/components-installed-with-on-call-scheduling.md)
+**Parent Topic:**[Components installed with On-call scheduling](components-installed-with-on-call-scheduling.md)
 

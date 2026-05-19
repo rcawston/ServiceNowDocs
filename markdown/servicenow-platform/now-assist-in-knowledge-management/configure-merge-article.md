@@ -30,7 +30,7 @@ Role required: admin
 
 Verify that the skills display an **Active** or **Deactivated** status based on your selection. Once activated, you can merge duplicate articles.
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](configuring-now-assist-km.md)
 
 **Related topics**  
 

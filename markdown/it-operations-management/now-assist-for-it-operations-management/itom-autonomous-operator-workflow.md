@@ -25,9 +25,9 @@ The manage alerts autonomously workflow introduces a unified AI-driven process t
 -   Root cause investigation of IT alerts
 -   Generates reports, summarizes key insights and possible next steps
 
-For information on how to review key insights and data derived from the workflow in Express List, see [Review AI generated alert information and insights in Express List](../task/use-ai-insights-express-list.md).
+For information on how to review key insights and data derived from the workflow in Express List, see [Review AI generated alert information and insights in Express List](use-ai-insights-express-list.md).
 
-For information about configuring this workflow, see [Configure the manage alerts autonomously agentic workflow](../task/configure-manage-alerts-autonomously-workflow.md).
+For information about configuring this workflow, see [Configure the manage alerts autonomously agentic workflow](configure-manage-alerts-autonomously-workflow.md).
 
 Use the information on this page to learn about the actions related to the manage alerts autonomously agentic workflow. To modify the workflow, you must duplicate it and adjust the settings according to your requirements. For more information, see [Duplicate an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md).
 

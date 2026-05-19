@@ -25,17 +25,17 @@ Create a quiz using assessment forms by following the procedures in the order sh
 
 **Note:** The recommended method of creating and editing quizzes is to use the quiz designer, which provides a single, intuitive interface for creating and editing quizzes quickly. If you determine that you need to add specific features to your quiz not offered through the quiz designer, you can do so by using some of the specific procedures described here.
 
--   **[Set up a category](../task/t_SetUpACategory.md)**  
+-   **[Set up a category](t_SetUpACategory.md)**  
 A category represents a theme for evaluating a specific element of the quiz topic and contains questions pertaining to that theme.
--   **[Select a user for a category](../task/t_SelectAUserForACategory.md)**  
+-   **[Select a user for a category](t_SelectAUserForACategory.md)**  
 Category users are the recipients of the questions for each category.
--   **[Create questions](../task/t_CreateAQuestion.md)**  
+-   **[Create questions](t_CreateAQuestion.md)**  
 Create quiz questions. A category can have multiple questions associated with it.
--   **[Create answers for questions](../task/t_CreateAnAnswerForAQuestion.md)**  
+-   **[Create answers for questions](t_CreateAnAnswerForAQuestion.md)**  
 Create answer options for questions with the Choice or Likert Scale data type.
--   **[Distribute a quiz](../task/t_DistributeAQuiz.md)**  
+-   **[Distribute a quiz](t_DistributeAQuiz.md)**  
 When you finish configuring the answers for the quiz questions, you are ready to distribute the quiz.
--   **[Modify a published quiz](../task/t_ModifyAPublishedQuiz.md)**  
+-   **[Modify a published quiz](t_ModifyAPublishedQuiz.md)**  
 Post changes to existing questions immediately. Make new questions available to users who have not started the quiz.
 
 **Parent Topic:**[Using Quizzes](using-quizzes.md)
@@ -43,7 +43,7 @@ Post changes to existing questions immediately. Make new questions available to 
 **Related topics**  
 
 
-[Create a quiz](../task/t_CreateaQuiz.md)
+[Create a quiz](t_CreateaQuiz.md)
 
-[Create a category for assessable records](../task/t_CreateACategoryAR.md)
+[Create a category for assessable records](t_CreateACategoryAR.md)
 

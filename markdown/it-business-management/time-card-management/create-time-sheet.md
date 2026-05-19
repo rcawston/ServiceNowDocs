@@ -120,7 +120,7 @@ Any additional information.
 
 ## What to do next
 
-Add time cards to the time sheet. You can use the related links and related list to add time cards. You can also add time cards using the [Time Sheet Portal](../concept/worker-portal.md).
+Add time cards to the time sheet. You can use the related links and related list to add time cards. You can also add time cards using the [Time Sheet Portal](worker-portal.md).
 
 |Field|Description|
 |-----|-----------|
@@ -145,5 +145,5 @@ Time Cards
 List of the time cards that are part of the time sheet. To create a time card, click **New**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Time Sheets](../concept/time-sheets.md)
+</table>**Parent Topic:**[Time Sheets](time-sheets.md)
 

@@ -42,5 +42,5 @@ Role required: admin
     The order in which the entry point lists is displayed on the investigation canvas is determined by the order in the slush bucket selected view.
 
 
-**Parent Topic:**[Configure SI design time investigation](../concept/configure-investigation-canvas-records.md)
+**Parent Topic:**[Configure SI design time investigation](configure-investigation-canvas-records.md)
 

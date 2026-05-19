@@ -78,5 +78,5 @@ Data filter \[Optional\]
 Add filter conditions to refine the data displayed in the widget.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Unified Security Exposure Management reference](../../security-exposure-management-workspace/concept/unified-security-exposure-management-reference.md)
+</table>**Parent Topic:**[Unified Security Exposure Management reference](unified-security-exposure-management-reference.md)
 

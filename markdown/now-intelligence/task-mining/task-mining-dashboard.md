@@ -25,7 +25,7 @@ Use the tabs to navigate between available analyses in your project.
 
 ## Task activity analysis
 
-The Task activity analysis shows the time spent and frequency of task-related activities within tasks that are defined to provide data for this analysis. You can view the average task duration and when and from whom data is collected in the top section of the analysis, along with other project details. Workstation user actions must be grouped as a task that can be logged to provide data for a Task activity analysis. For more information about defining tasks, see [Define user actions for task logging](../task/mine-data.md).
+The Task activity analysis shows the time spent and frequency of task-related activities within tasks that are defined to provide data for this analysis. You can view the average task duration and when and from whom data is collected in the top section of the analysis, along with other project details. Workstation user actions must be grouped as a task that can be logged to provide data for a Task activity analysis. For more information about defining tasks, see [Define user actions for task logging](mine-data.md).
 
 View the data by date, categories, applications, users, and tasks to analyze task execution details at multiple levels. Use the drop-down selector to adjust the tasks that are shown in the charts as well as dates, categories, activities, and users.
 
@@ -69,11 +69,11 @@ The Overall activity analysis includes the Average time per category and Time by
 
 ## Task timeline analysis
 
-The task timeline analysis provides a detailed view of collected task activities. These tasks are the bases for taking task improvement actions. Improvement actions include opening automation requests or sharing details of the task. Workstation user actions must be grouped as a task that can be logged to provide data for a Task timeline analysis. For more information about defining tasks, see [Define user actions for task logging](../task/mine-data.md).
+The task timeline analysis provides a detailed view of collected task activities. These tasks are the bases for taking task improvement actions. Improvement actions include opening automation requests or sharing details of the task. Workstation user actions must be grouped as a task that can be logged to provide data for a Task timeline analysis. For more information about defining tasks, see [Define user actions for task logging](mine-data.md).
 
 You can view the average task duration and when and from whom data is collected in the top section of the analysis, along with other project details. The analysis shows who collected the tasks, duration, the number of steps and applications used, whether the task is user-defined or custom, automation request details, and date created. If an automation request has already been opened for the task, a link to the request is provided. You can only open one automation request per task. For more information about the prerequisites for initiating automation requests, see [Integration with Automation Center](integration-with-automation-center.md).
 
 ![Screenshot showing a task timeline analysis in Task Mining.](../image/tm-task-timeline-analysis.png)
 
-Select a task to see details of the steps of the task. The task steps view shows the details of the task at the top. From this view, you can initiate automation requests or share a link to task details. For more information, see [Identify task improvement actions](../task/identify-improvement-opportunities.md).
+Select a task to see details of the steps of the task. The task steps view shows the details of the task at the top. From this view, you can initiate automation requests or share a link to task details. For more information, see [Identify task improvement actions](identify-improvement-opportunities.md).
 

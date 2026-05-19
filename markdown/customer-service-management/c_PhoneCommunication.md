@@ -13,7 +13,7 @@ breadcrumb: [Enable communication channels, Configure, Customer Service Manageme
 
 Configure phone support for customers with Computer Telephony Integration \(CTI\) and OpenFrame.
 
--   **[Create an OpenFrame configuration](../task/t_CreateAnOpenFrameConfiguration.md)**
+-   **[Create an OpenFrame configuration](t_CreateAnOpenFrameConfiguration.md)**
 
     This configuration specifies the OpenFrame window settings as well as the URL to be launched within OpenFrame.
 

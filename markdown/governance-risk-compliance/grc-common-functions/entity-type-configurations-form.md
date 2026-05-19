@@ -26,5 +26,5 @@ Use the Entity Type Configurations form to create an entity type configuration w
 |Entity group fields|User group fields from the entity table \[sn\_grc\_profile\] that the access should be granted to.|
 |Description|Description of the entity type configuration.|
 
-**Parent Topic:**[Configure an entity type for a linked object](../task/create-an-entity-type-configuration-for-entity-based-access.md)
+**Parent Topic:**[Configure an entity type for a linked object](create-an-entity-type-configuration-for-entity-based-access.md)
 

@@ -86,5 +86,5 @@ Change request was triaged but found to be a duplicate, or unnecessary.
 **Note:** You cannot reopen a canceled changed request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Reliability Management reference](../reference/service-reliability-management-reference.md)
+</table>**Parent Topic:**[Service Reliability Management reference](service-reliability-management-reference.md)
 

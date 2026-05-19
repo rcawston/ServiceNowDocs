@@ -59,5 +59,5 @@ The entity is created. The New Entity form is displayed with the **Details** tab
 
 [Update an entity](update-an-entity.md)
 
-**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](../concept/entities-in-esg.md)
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](entities-in-esg.md)
 

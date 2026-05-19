@@ -27,7 +27,7 @@ After comparing your existing records based on similarity, the system recommends
 
 When applied in your forms and flows, similarity solutions are domain-aware, so records from other domains on the instance are not displayed to users. For more information, see KB article [Similarity prediction behavior in domain separated environment](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2035643) on Now Support.
 
-For information on using encrypted training data, see [Data Encryption in Predictive Intelligence](../reference/predictive-intelligence-encryption.md).
+For information on using encrypted training data, see [Data Encryption in Predictive Intelligence](predictive-intelligence-encryption.md).
 
 In this example procedure, you're working on Incident records and you want to locate relevant Knowledge Base articles that could provide resolutions to those incidents.
 

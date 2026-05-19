@@ -15,7 +15,7 @@ breadcrumb: [Admin Center, Get started, Administer the ServiceNow AI Platform]
 
 Find all the miscellaneous information about Admin Center and its applications in the reference section.
 
--   **[Admin Center roles](../reference/ac-roles.md)**  
+-   **[Admin Center roles](ac-roles.md)**  
 Admin Center is installed with these roles.
 
 **Parent Topic:**[Admin Center](admin-center-intro.md)

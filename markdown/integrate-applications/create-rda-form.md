@@ -51,7 +51,7 @@ Right-click **Forms** in the Project Explorer pane and select **New Form**.
 
 </td><td>
 
-Right-click a form in the Project Explorer pane and select **Design**.For more information on the Form Designer, see [Form designer for building attended automation forms](../concept/form-designer-overview.md).
+Right-click a form in the Project Explorer pane and select **Design**.For more information on the Form Designer, see [Form designer for building attended automation forms](form-designer-overview.md).
 
 </td></tr></tbody>
 </table>3.  In the Form Designer, from the Toolbox pane, select an element that you want to add to your form and draw it on the Design surface.
@@ -127,7 +127,7 @@ In the Outline pane, right-click the element to be deleted and select **Delete**
 
 </td><td>
 
-Double-click the created form in the Project Explorer pane.The methods and events are displayed in the Object Explorer pane. For more information, see [Methods and events of an attended automation form](../reference/form-methods-events.md).
+Double-click the created form in the Project Explorer pane.The methods and events are displayed in the Object Explorer pane. For more information, see [Methods and events of an attended automation form](form-methods-events.md).
 
 </td></tr><tr><td id="d285967e338">
 
@@ -135,7 +135,7 @@ Double-click the created form in the Project Explorer pane.The methods and event
 
 </td><td>
 
-Double-click the element in the Toolbox pane of the Form Designer.The methods and events are displayed in the Object Explorer pane. For more information, see [Methods and events of elements](../reference/form-control-methods-events.md).
+Double-click the element in the Toolbox pane of the Form Designer.The methods and events are displayed in the Object Explorer pane. For more information, see [Methods and events of elements](form-control-methods-events.md).
 
 </td></tr><tr><td id="d285967e357">
 
@@ -171,17 +171,17 @@ Do any of the following actions:-   In the Project Explorer pane, right-click th
 
 </td></tr></tbody>
 </table>
--   **[Form designer for building attended automation forms](../concept/form-designer-overview.md)**  
+-   **[Form designer for building attended automation forms](form-designer-overview.md)**  
 Form designer is an Integrated Development Environment \(IDE\) for building attended automation forms in RPA Desktop Design Studio.
 -   **[Configure the form fields for the Form Renderer element](configure-form-fields.md)**  
 Configure the form fields in the Form Renderer element while you are building an attended automation form in RPA Desktop Design Studio.
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 
 **Related topics**  
 
 
-[Methods and events of an attended automation form](../reference/form-methods-events.md)
+[Methods and events of an attended automation form](form-methods-events.md)
 
-[Methods and events of elements](../reference/form-control-methods-events.md)
+[Methods and events of elements](form-control-methods-events.md)
 

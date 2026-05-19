@@ -27,7 +27,7 @@ As an admin, you can configure the **Set Impact and Urgency fields for Priority*
 **Related topics**  
 
 
-[Install Purchase Order Management](../task/install-purch-order-mgmt.md)
+[Install Purchase Order Management](install-purch-order-mgmt.md)
 
 [Assigning purchase order exceptions to buyers](assigning-po-exceptions-to-buyers.md)
 

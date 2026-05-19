@@ -36,7 +36,7 @@ The ui\_builder\_admin role is the primary role for using Now Assist UI Generati
 
     Primary role for UI Generation. Contains ui\_interaction\_admin, canvas\_user, and workspace\_admin as sub-roles.
 
-    For more information, see [UI generation roles](ui-generation-roles.md) and [Grant UI Builder admin role](../task/grant-ui-builder-admin-role.md).
+    For more information, see [UI generation roles](ui-generation-roles.md) and [Grant UI Builder admin role](grant-ui-builder-admin-role.md).
 
 -   **workspace\_admin**
 
@@ -47,5 +47,5 @@ The ui\_builder\_admin role is the primary role for using Now Assist UI Generati
     Full instance administration, including system properties management and role assignment.
 
 
-**Parent Topic:**[UI generation reference](../concept/ui-generation-reference.md)
+**Parent Topic:**[UI generation reference](ui-generation-reference.md)
 

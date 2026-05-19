@@ -110,5 +110,5 @@ Match All
 Option to make every condition required when the user criteria is applied. The conditions are set in the previous fields, such as Companies, Locations, Departments, and so on.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference](../concept/reference-email-admin.md)
+</table>**Parent Topic:**[Reference](reference-email-admin.md)
 

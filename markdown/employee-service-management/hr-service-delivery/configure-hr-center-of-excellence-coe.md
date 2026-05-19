@@ -37,7 +37,7 @@ Deactivate COEs manually on all your environments, if your company:
     **Note:** The COEs available to you may differ depending on the HR package you have.
 
     -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
-    -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](../concept/hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
+    -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
     -   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
     -   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
     ![COE Configuration page displaying a list of HR cases like "Employee Relations," "HR Benefits," and "HR Payroll," each with an adjacent toggle switch for enabling or disabling.](../image/coe-enable-disable.png)
@@ -49,5 +49,5 @@ Deactivate COEs manually on all your environments, if your company:
 3.  Click **Save**.
 
 
-**Parent Topic:**[HR service categorization](../concept/hr-service-categorization.md)
+**Parent Topic:**[HR service categorization](hr-service-categorization.md)
 

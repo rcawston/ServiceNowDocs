@@ -17,7 +17,7 @@ The Incident Management dashboard lets you see recent trends in incident creatio
 
 **Important:**
 
-Starting in Xanadu release, the Incident Management dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the recent trends in incident creation, duration, and resolution and plan the incident management strategy accordingly.
+Starting in Xanadu release, the Incident Management dashboard is deprecated. Users can use [Incident management dashboard](../incident.md) to view the recent trends in incident creation, duration, and resolution and plan the incident management strategy accordingly.
 
 ![Animated gif taking you through the tabs of the dashboard](../../performance-analytics/image/Incident-Management-dashboard_V2.gif "Tabs of the Incident Management dashboard")
 

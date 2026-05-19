@@ -45,11 +45,11 @@ Operational Resilience administrators can create pillars and can also modify the
 
 As a user with the sn\_oper\_res.admin role, you can complete the following general setup tasks:
 
--   Create a scenario that represents a risk. For more information, see [Create a scenario and link it to an event](../task/define-scenarios.md).
--   Classify an event by associating it with an event group. For more information, see [Create an event group for the scenario](../task/create-event-group.md).
--   Create an event that you can associate with a scenario. For more information, see [Create an event for the scenario](../task/create-events.md).
--   Add a participant role for your scenario analysis. For more information, see [Add a participant role for the scenario analysis](../task/add-participant-role.md).
--   Update the assessment rating by using the Important choices module. For more information, see [Update the Important choices module](../task/set-up-important-choices.md).
--   Update the importance and impact rating scale. For more information, see [Set up the Importance and Impact Tolerance Rating Scale](../task/create-importance-impact-rating-scale.md).
--   Create an attestation template. For more information, see [Create and edit the attestation template](../task/create-new-attestation-template.md).
+-   Create a scenario that represents a risk. For more information, see [Create a scenario and link it to an event](define-scenarios.md).
+-   Classify an event by associating it with an event group. For more information, see [Create an event group for the scenario](create-event-group.md).
+-   Create an event that you can associate with a scenario. For more information, see [Create an event for the scenario](create-events.md).
+-   Add a participant role for your scenario analysis. For more information, see [Add a participant role for the scenario analysis](add-participant-role.md).
+-   Update the assessment rating by using the Important choices module. For more information, see [Update the Important choices module](set-up-important-choices.md).
+-   Update the importance and impact rating scale. For more information, see [Set up the Importance and Impact Tolerance Rating Scale](create-importance-impact-rating-scale.md).
+-   Create an attestation template. For more information, see [Create and edit the attestation template](create-new-attestation-template.md).
 

@@ -17,7 +17,7 @@ Learn how to review and resolve potential knowledge gaps in the Knowledge Center
 
 Role required: admin.
 
-Suggested reading: [Configure Now Assist Skills for potential gaps](../../knowledge-management/task/configure-na-km.md)
+Suggested reading: [Configure Now Assist Skills for potential gaps](now-assist-in-knowledge-management/configure-na-km.md)
 
 ## About this task
 
@@ -56,5 +56,5 @@ The selected gap is updated or resolved, improving knowledge coverage and reduci
 **Related topics**  
 
 
-[Potential knowledge gaps](../concept/understanding-knowledge-gaps.md)
+[Potential knowledge gaps](understanding-knowledge-gaps.md)
 

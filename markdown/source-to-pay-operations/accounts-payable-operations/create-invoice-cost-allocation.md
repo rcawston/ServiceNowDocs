@@ -33,11 +33,11 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist, admin
 
 5.  Select **New**.
 
-    The invoice cost allocation form displays. For more information on the cost allocation form, see [Create invoice cost allocation form](../reference/create-invoice-cost-allocation-form.md)
+    The invoice cost allocation form displays. For more information on the cost allocation form, see [Create invoice cost allocation form](create-invoice-cost-allocation-form.md)
 
     **Note:**
 
-    -   During cost allocation, if the total allocated quantity or amount across different cost centers or ledger accounts isn’t equal to the invoice line quantity or subtotal, then the invoice cost allocation exception occurs. For more information on exceptions, see [Invoice exceptions](../concept/work-with-invoice-exceptions.md).
+    -   During cost allocation, if the total allocated quantity or amount across different cost centers or ledger accounts isn’t equal to the invoice line quantity or subtotal, then the invoice cost allocation exception occurs. For more information on exceptions, see [Invoice exceptions](work-with-invoice-exceptions.md).
     -   When you delete an invoice line record, you’re prompted with a pop-up message to confirm the deletion of an invoice line record removes its associated cost allocation record.
     -   When you select allocation type as cost center for the first record and save the changes, the subsequent records also will inherit the same allocation type.
 6.  Select **Save**.
@@ -47,5 +47,5 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist, admin
 
 The cost allocation form is added to the invoice line.
 
-**Parent Topic:**[Invoice cost allocation](../concept/invoice-line-cost-allocation.md)
+**Parent Topic:**[Invoice cost allocation](invoice-line-cost-allocation.md)
 

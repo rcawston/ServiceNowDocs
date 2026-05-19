@@ -55,7 +55,7 @@ As a user with the ServiceNow AI Platform admin role, set up your ServiceNow AI 
 -   Install and configure a MID Server if the Splunk server is deployed within your corporate network.
 -   Verify that the ServiceNow Security Incident Response plugins are activated for your release of the ServiceNow AI Platform.
 -   \(Optional\) If you want to forward events manually from your Splunk Enterprise Security console into your ServiceNow AI Platform instance, verify that you have assigned the \(sn\_sec\_splunkes.api\_account\_access\) role to a user with the Splunk Enterprise Security administrator permission.
- For more information, see [Set up your ServiceNow AI Platform instance for the Splunk Enterprise Security integration](../reference/splunk-event-ingest-setup-sn-security.md).
+ For more information, see [Set up your ServiceNow AI Platform instance for the Splunk Enterprise Security integration](splunk-event-ingest-setup-sn-security.md).
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ As a user with the ServiceNow AI Platform **sn\_si.ingestion\_profile\_admin** r
 2.  \(Optional\) Export attachment data manually from Splunk Enterprise Security for an event.
 3.  Edit the default mapping configuration.
 4.  Optionally add filtering criteria, append an alert to an existing security incident, and use the script editor.
- For more information, see [Explore Mapping](../concept/splunk-event-ingest_mapping-security.md) and [Map notable events](splunk-event-ingest-map-alerts-security.md).
+ For more information, see [Explore Mapping](splunk-event-ingest_mapping-security.md) and [Map notable events](splunk-event-ingest-map-alerts-security.md).
 
 </td></tr><tr><td>
 

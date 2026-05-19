@@ -27,7 +27,7 @@ Role required: sn\_icw.rca\_user or sn\_icw.rca\_expert
 
 2.  On the Root cause analysis form, fill in the fields.
 
-    For a description of the field values, see [Root cause analysis form](../reference/root-cause-analysis-form.md).
+    For a description of the field values, see [Root cause analysis form](root-cause-analysis-form.md).
 
 3.  Select **Save**.
 
@@ -35,7 +35,7 @@ Role required: sn\_icw.rca\_user or sn\_icw.rca\_expert
 
 4.  On the Information Gathering form, fill in the fields.
 
-    For a description of the field values, see [Root cause analysis form](../reference/root-cause-analysis-form.md).
+    For a description of the field values, see [Root cause analysis form](root-cause-analysis-form.md).
 
 5.  Select **Mark complete**.
 
@@ -58,5 +58,5 @@ Role required: sn\_icw.rca\_user or sn\_icw.rca\_expert
 
 The new root cause analysis is displayed in the root cause analysis list and the list of all tasks.
 
-**Parent Topic:**[Root Cause Analysis](../concept/industrial-root-cause-analysis.md)
+**Parent Topic:**[Root Cause Analysis](industrial-root-cause-analysis.md)
 

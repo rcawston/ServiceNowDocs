@@ -38,5 +38,5 @@ As of now, you can only translate the short description, description and work no
     A translate icon ![Dynamic translation icon](../images/icon-translation.png) appears next to the fields. The logged-in user can click on ![Dynamic translation icon](../images/icon-translation.png) to translate the text to their preferred language as configured. ![Dynamic translation in action](../images/ur-dynamic-translation.gif)
 
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](using-ur.md)
 

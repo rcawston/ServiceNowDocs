@@ -47,5 +47,5 @@ You can also import your handheld computing devices data from an Excel spreadshe
 
 A mapping of the handheld computing device and the employee to whom it is assigned is created.
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

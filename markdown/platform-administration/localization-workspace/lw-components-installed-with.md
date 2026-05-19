@@ -192,10 +192,10 @@ Translation Target Group Info \(from version 2.0.2\)
 \[sn\_lw\_target\_group\_info\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Localization Workspace reference](../concept/localization-workspace-reference.md)
+</table>**Parent Topic:**[Localization Workspace reference](localization-workspace-reference.md)
 
 **Related topics**  
 
 
-[Find components installed with an application](../../plugins/task/find-components.md)
+[Find components installed with an application](../find-components.md)
 

@@ -33,7 +33,7 @@ Use the **evt\_mgmt.connector\_assignment\_group\_admin\_roles** property to set
 Learn how to configure the glide.service\_portal.widget.allow\_list property securely so that the access control lists \(ACLs\) for the tables do not expose sensitive information.
 -   **[Configure Service Portal Widgets Table Allow List](sc-configure-service-portal-widgets-table-allow-list.md)**  
 Learn how the **glide.service\_portal.widget.table\_allow\_list** property enhances security by listing tables accessible to unauthenticated users through Service Portal widgets, dependent on additional checks and specific glide property settings.
--   **[Deny internal access to explicit external roles \[Updated in Security Center 1.3 and 1.5\]](../../security/reference/sc-enable-explicit-roles-internal-denylist.md)**  
+-   **[Deny internal access to explicit external roles \[Updated in Security Center 1.3 and 1.5\]](sc-enable-explicit-roles-internal-denylist.md)**  
 Use system properties to determine whether external users can be assigned the snc\_internal role.
 -   **[Deny unauthorized access to request items](sc-deny-unauthorized-access-to-request-items.md)**  
 The **glide.sc.req\_for.roles.default** property defines a default behavior for the retrieveAddress API.
@@ -187,7 +187,7 @@ The Explicit Roles plugin is recommended to mandate that all users have either t
 Use a system property to specify which domains you trust for cross-origin communication.
 -   **[Set guest user for soap requests](sc-set-guest-user-for-soap-requests.md)**  
 Configure this property to control the level of access of unauthenticated SOAP requests.
--   **[Disable public access to favorites \[Updated in Security Center 1.3 and 2.0\]](../../security/reference/public-access-favorites.md)**  
+-   **[Disable public access to favorites \[Updated in Security Center 1.3 and 2.0\]](public-access-favorites.md)**  
 Use the **glide.ui.magellan.favorites.allow\_public** to specify whether unauthenticated users are allowed to see **Favorites** in the navigator.
 -   **[Enable SNC access control plugin](sc-snc-access-control-plugin.md)**  
 Activate the SNC Access Control \(com.snc.snc\_access\_control\) plugin to control access to your instances by Customer Service and Support personnel.

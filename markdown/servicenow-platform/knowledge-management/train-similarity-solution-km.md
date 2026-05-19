@@ -60,18 +60,18 @@ Role required: admin
 
 When the solution is complete, the related knowledge articles appear in the Knowledge results section on the Knowledge form in the ServiceNow AI Platform, in the Related Articles section on the knowledge article view page in the Knowledge Management Service Portal, and in Agent assist when the **Similar Articles \(ML\)** option is selected.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 
 **Related topics**  
 
 
-[Predictive Intelligence for Knowledge Management](../concept/predictive-intelligence-for-km.md)
+[Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md)
 
-[Knowledge Management Service Portal article view page features](../concept/knowledge-service-portal-view.md)
+[Knowledge Management Service Portal article view page features](knowledge-service-portal-view.md)
 
 [Create a knowledge article](create-knowledge-article.md)
 
 [Create a knowledge article in Agent Workspace](create-article-workspace.md)
 
-[Using Now Mobile for Knowledge Management](../concept/mobile-experience-for-km.md)
+[Using Now Mobile for Knowledge Management](mobile-experience-for-km.md)
 

@@ -95,5 +95,5 @@ Records that are automatically generated, the domain of the record is determined
 
 **Note:** When the domain source is global or nil, then that object's domain will be set to Default.
 
-**Parent Topic:**[Risk Management reference](../reference/risk-management-reference.md)
+**Parent Topic:**[Risk Management reference](risk-management-reference.md)
 

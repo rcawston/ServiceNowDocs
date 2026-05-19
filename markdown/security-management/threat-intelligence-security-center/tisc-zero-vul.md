@@ -47,7 +47,7 @@ Whenever a new RSS Feed is created into the system, and it has a mention of ‘Z
     2.  Notify the concerned TISC Teams and VR Teams.
 
 
-**Parent Topic:**[Working with automated flows](../concept/tisc-automated-flows.md)
+**Parent Topic:**[Working with automated flows](tisc-automated-flows.md)
 
 **Related topics**  
 
@@ -66,5 +66,5 @@ Whenever a new RSS Feed is created into the system, and it has a mention of ‘Z
 
 [Vulnerability Management Support](tisc-vul-mgmt.md)
 
-[Automated flows tables](../concept/tisc-flows-tables.md)
+[Automated flows tables](tisc-flows-tables.md)
 

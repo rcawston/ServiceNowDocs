@@ -19,7 +19,7 @@ The Care Team Case \[sn\_cto\_case\] table generates cases pertaining to care te
 
 It extends the Healthcare Operations case \[sn\_hco\_case\].
 
-For information on the Healthcare Operations case, see [Healthcare Operations Case overview](../concept/hcls-cto-hco-case.md).
+For information on the Healthcare Operations case, see [Healthcare Operations Case overview](healthcare-operations-core/hcls-cto-hco-case.md).
 
 <table id="table_nyq_nvl_1gc"><tbody><tr><td>
 

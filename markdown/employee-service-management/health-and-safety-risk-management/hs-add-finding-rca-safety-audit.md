@@ -25,7 +25,7 @@ Role required: sn\_hs\_rm.safety\_audit\_manager or sn\_hs\_rm.safety\_audit\_wr
 
 A finding can cite the specific criterion the item relates to, including a precise clause, section, or regulation from the cited source.
 
-Safety auditors create actions for specific questions while completing a smart assessment from the mobile app. When they create an action for a question, the system also generates a related finding record based on the response. For more information, see [Create actions and findings for the smart assessment questionnaire from mobile app](../../hs-health-safety-mobile/task/hs-create-actions-findings-smart-assessments.md).
+Safety auditors create actions for specific questions while completing a smart assessment from the mobile app. When they create an action for a question, the system also generates a related finding record based on the response. For more information, see [Create actions and findings for the smart assessment questionnaire from mobile app](../health-and-safety/hs-create-actions-findings-smart-assessments.md).
 
 ## Procedure
 
@@ -68,7 +68,7 @@ In the **Findings** tab of the audit, select **New**.
 </td></tr></tbody>
 </table>5.  On the form, fill in the fields.
 
-    For field descriptions, see [Finding form for safety audits](../reference/hs-audit-finding-form.md).
+    For field descriptions, see [Finding form for safety audits](hs-audit-finding-form.md).
 
 6.  Select **Save**.
 

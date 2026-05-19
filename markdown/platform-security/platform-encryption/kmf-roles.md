@@ -19,22 +19,22 @@ The Key Management Framework \(KMF\) introduces specific roles for cryptographic
 
 KMF roles are required to use the Key Management Framework. Users without KMF roles are not be able to access lists, tables and modules used to configure key management.
 
-To assign the KMF admin role, you must have the admin, security\_admin, and sn\_kmf\_admin roles. Use the KMF admin role to assign other KMF roles. For details on assigning KMF roles, see [Assign Key Management Framework roles](../../encryption/task/assign-kmf-roles.md).
+To assign the KMF admin role, you must have the admin, security\_admin, and sn\_kmf\_admin roles. Use the KMF admin role to assign other KMF roles. For details on assigning KMF roles, see [Assign Key Management Framework roles](assign-kmf-roles.md).
 
 ![KMF roles](../image/kmf-roles.png)
 
-**Parent Topic:**[Key Management Framework Reference](../concept/understanding-kmf.md)
+**Parent Topic:**[Key Management Framework Reference](understanding-kmf.md)
 
 **Related topics**  
 
 
 [Key Management Framework key life-cycle states](key-life-cycle-states.md)
 
-[Module access policy visualization](../concept/map-vis-concept.md)
+[Module access policy visualization](map-vis-concept.md)
 
-[Module access policy debugger](../concept/map-debugger.md)
+[Module access policy debugger](map-debugger.md)
 
-[Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md)
+[Encryption and Key Management subscription bundle](encryption-sku.md)
 
 ## KMF admin \[sn\_kmf.admin\]
 
@@ -56,7 +56,7 @@ None.
 
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
--   This role is assigned via the process shown in [Assign Key Management Framework roles](../../encryption/task/assign-kmf-roles.md).
+-   This role is assigned via the process shown in [Assign Key Management Framework roles](assign-kmf-roles.md).
 -   Users with this role must also have the admin and security\_admin
 -   You must have this role to assign  KMF roles, and in addition can perform all the capabilities of the KMF cryptographic manager.
 
@@ -148,7 +148,7 @@ Assign KMF roles to admins, who in turn can assign other KMF roles.
 
 Role required: admin and security\_admin
 
-You must elevate to the security\_admin role before assigning the KMF admin role. For instructions, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md)
+You must elevate to the security\_admin role before assigning the KMF admin role. For instructions, see [Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md)
 
 ### Procedure
 

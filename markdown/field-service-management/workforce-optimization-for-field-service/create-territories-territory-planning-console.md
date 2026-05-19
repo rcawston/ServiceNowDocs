@@ -17,7 +17,7 @@ Create territories for optimizing agent and group scheduling. By mapping these t
 
 ## Before you begin
 
-You must set up a territory geography before you start creating a territory. For more information, see [Create a GeoJSON geography in Territory Planning console](../concept/creating-a-gojson-geography.md#).
+You must set up a territory geography before you start creating a territory. For more information, see [Create a GeoJSON geography in Territory Planning console](creating-a-gojson-geography.md#).
 
 Role required: sn\_fsm\_tp.fsm\_territory\_planner, sn\_fsm\_tp.fsm\_territory\_manager
 
@@ -153,5 +153,5 @@ When accessing a territory record, the displayed related lists depend on whether
 
 ## What to do next
 
-[Configuring resources for territories](../concept/configuring-resources-for-territories.md)
+[Configuring resources for territories](configuring-resources-for-territories.md)
 

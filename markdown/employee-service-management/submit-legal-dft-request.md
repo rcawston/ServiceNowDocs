@@ -183,7 +183,7 @@ Any member from the digital forensic team can triage and assign the request to t
 
 The approval details appear under the **Approvals** tab on the Standard Ticket page.
 
-**Parent Topic:**[Submitting digital forensics requests](../concept/submitting-legal-dft-request.md)
+**Parent Topic:**[Submitting digital forensics requests](submitting-legal-dft-request.md)
 
 ## Add a custodian to a digital forensic request
 

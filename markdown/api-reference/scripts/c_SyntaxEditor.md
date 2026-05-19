@@ -36,10 +36,10 @@ The Syntax Editor plugin \(com.glide.syntax\_editor\) is required to use this fu
 
 For more information about system properties, see [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
--   **[Using the JavaScript syntax editor](../reference/r_EdtJvaScptWSyntxEdtr.md)**  
+-   **[Using the JavaScript syntax editor](r_EdtJvaScptWSyntxEdtr.md)**  
 The syntax editor provides editing functions to support editing JavaScript scripts.
--   **[Create a script macro for the syntax editor](../task/t_ManageScriptMacros.md)**  
+-   **[Create a script macro for the syntax editor](t_ManageScriptMacros.md)**  
 Administrators can define new script macros or modify existing script macros.
 
-**Parent Topic:**[Scripting](../../topic/c_Script.md)
+**Parent Topic:**[Scripting](c_Script.md)
 

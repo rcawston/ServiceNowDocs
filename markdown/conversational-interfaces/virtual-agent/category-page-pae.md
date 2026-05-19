@@ -20,7 +20,7 @@ Topic categories group related conversation topics. Topics can belong to more th
 
 ![Virtual Agent Analytics Category subtab.](../images/dashboard-category-page-2-pae.png)
 
-For more information about creating or modifying VA categories, see [Create or modify custom categories](../task/create-topic-category.md).
+For more information about creating or modifying VA categories, see [Create or modify custom categories](create-topic-category.md).
 
 <table id="table_mpj_xvy_j4b"><thead><tr><th>
 

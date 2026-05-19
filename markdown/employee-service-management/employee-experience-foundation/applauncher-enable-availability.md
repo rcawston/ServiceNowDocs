@@ -64,7 +64,7 @@ When an application is configured **Available for** a user, the search results s
 
 **Note:** When you mark an application as **Not Available for** a user, the application tab on the search results indicates the count. However, the user can’t see or navigate to the application due to user permissions.
 
-For more information on Application security directive changes, see [App Launcher](../concept/web-application-employee-about.md)
+For more information on Application security directive changes, see [App Launcher](web-application-employee-about.md)
 
 **Related topics**  
 

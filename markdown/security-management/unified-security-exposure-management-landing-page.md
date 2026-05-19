@@ -15,7 +15,7 @@ Unified Security Exposure Management \(USEM\) is a comprehensive platform design
 
 **Important:** Unified Security Exposure Management \(USEM\) is a major architectural upgrade to Vulnerability Response applications. If you are currently using Vulnerability Response and upgrading to USEM for the first time, you must use the Migration assistant for Unified Security Exposure Management to ensure a successful upgrade.
 
-For detailed information, refer [KB2556844](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2556844) and [Migrating from Vulnerability Response to Unified Security Exposure Management \(USEM\)](../../vulnerability-response/concept/migrating-to-usem.md) before proceeding.
+For detailed information, refer [KB2556844](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2556844) and [Migrating from Vulnerability Response to Unified Security Exposure Management \(USEM\)](vulnerability-response/migrating-to-usem.md) before proceeding.
 
 <table id="table_myz_gt3_b5c" class="nav-card"><tbody><tr><td>
 
@@ -39,32 +39,32 @@ For detailed information, refer [KB2556844](https://support.servicenow.com/kb?id
 
 </td><td>
 
-[Upgrade Vulnerability Response to USEM ![](../../../reuse/icons/brand-icons/bus-switch.svg) Upgrade Vulnerability Response applications to Unified Security Exposure Management.](../../vulnerability-response/concept/migrating-to-usem.md)
+[Upgrade Vulnerability Response to USEM ![](../../../reuse/icons/brand-icons/bus-switch.svg) Upgrade Vulnerability Response applications to Unified Security Exposure Management.](vulnerability-response/migrating-to-usem.md)
 
 </td></tr></tbody>
 </table><table id="table_mwk_yjk_3hc" class="nav-card"><tbody><tr><td>
 
-[Vulnerability Response ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Vulnerability Response concepts and features.](../../vulnerability-response/reference/vuln-landing-page.md)
+[Vulnerability Response ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Vulnerability Response concepts and features.](vulnerability-response/vuln-landing-page.md)
 
 </td><td>
 
-[Application Vulnerability Response ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Learn about Application Vulnerability Response concepts and features.](../../vulnerability-app-vuln-mgmt/reference/avr-landing.md)
+[Application Vulnerability Response ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Learn about Application Vulnerability Response concepts and features.](application-vulnerability-response/avr-landing.md)
 
 </td><td>
 
-[Container Vulnerability Response ![](../../../reuse/icons/brand-icons/bus-alignment.svg) Learn about Container Vulnerability Response concepts and features.](../../container-vulnerability-response/reference/cvr-landing.md)
+[Container Vulnerability Response ![](../../../reuse/icons/brand-icons/bus-alignment.svg) Learn about Container Vulnerability Response concepts and features.](container-vulnerability-response/cvr-landing.md)
 
 </td></tr><tr><td>
 
-[Configuration Compliance ![](../../../reuse/icons/brand-icons/bus-compliance.svg) Learn about Configuration Compliance concepts and features.](../../vulnerability-config-compliance/reference/vr-config-compliance-landing.md)
+[Configuration Compliance ![](../../../reuse/icons/brand-icons/bus-compliance.svg) Learn about Configuration Compliance concepts and features.](configuration-compliance/vr-config-compliance-landing.md)
 
 </td><td>
 
-[Vulnerability Response Workspaces ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the Vulnerability Response Workspaces.](../../vulnerability-response/concept/vr-wkspace-overview-v16.md)
+[Vulnerability Response Workspaces ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the Vulnerability Response Workspaces.](vulnerability-response-workspaces/vr-wkspace-overview-v16.md)
 
 </td><td>
 
-[Software Bill of Materials ![](../../../reuse/icons/brand-icons/bus-work-order.svg) Learn about the Software Bill of Materials concepts and features.](../../secops-integration-vr/sbom/reference/sbom-landing.md)
+[Software Bill of Materials ![](../../../reuse/icons/brand-icons/bus-work-order.svg) Learn about the Software Bill of Materials concepts and features.](sbom-core/sbom-landing.md)
 
 </td></tr></tbody>
 </table>

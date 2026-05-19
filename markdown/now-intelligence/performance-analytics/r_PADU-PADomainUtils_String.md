@@ -26,5 +26,5 @@ Use the PADomainUtils\(\) constructor instead when moving or copying from the gl
 var acmeUtils = new SNC.PADomainUtils('c90d4b084a362312013398f051272c0d');
 ```
 
-**Parent Topic:**[PADomainUtils - Global](../concept/c_PADomainUtils.md)
+**Parent Topic:**[PADomainUtils - Global](c_PADomainUtils.md)
 

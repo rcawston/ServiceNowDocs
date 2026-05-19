@@ -81,7 +81,7 @@ The CI is marked as boundary on the map \(![The boundary icon](../image/MapBound
 
 2.  Select **Show traffic based connections**.
 
-The Traffic Based Connections List opens. See [Traffic-based connections list](../reference/traffic-based-connections-list.md).
+The Traffic Based Connections List opens. See [Traffic-based connections list](traffic-based-connections-list.md).
 
 3.  In the **Traffic Based Connections List**, identify the connection used to discover the unwanted CI.
 4.  Select `Remove` from the **User decision** field for this connection.

@@ -47,7 +47,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 -   A Receive task is created and assigned to the asset manager of the stockroom where you dropped off the assets.
 -   The state of the Drop off task changes to Work in Progress.
 
-**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](../concept/drop-off-receive-assets-eam.md)
+**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](drop-off-receive-assets-eam.md)
 
 **Related topics**  
 
@@ -56,5 +56,5 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 [Verify the enterprise assets received through a Drop off task](verify-assets-eam-receive.md)
 
-[Record time worked on Drop off and Receive tasks for enterprise assets](../concept/record-time-drop-receive.md)
+[Record time worked on Drop off and Receive tasks for enterprise assets](record-time-drop-receive.md)
 

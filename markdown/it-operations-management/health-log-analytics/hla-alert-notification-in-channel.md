@@ -19,13 +19,13 @@ The notifications include the number of the alert, its description, severity, co
 
 To support channel notification, the channel must be configured to receive Health Log Analytics notifications.
 
-Starting with Version 33.0.27 - August 2024, Health Log Analytics uses the Microsoft Teams Graph spoke application to send notifications on new anomaly alerts. The application replaces the Microsoft Teams spoke plugin, which will be deprecated. If you're using an HLA version earlier than 33.0.27, follow the setup procedure in [Set up Health Log Analytics alert notifications in channels](../task/hla-notifications-in-channel.md). Otherwise, see [Set up Health Log Analytics alert notifications in a Microsoft Teams channel](../task/hla-notifications-in-ms-teams.md).
+Starting with Version 33.0.27 - August 2024, Health Log Analytics uses the Microsoft Teams Graph spoke application to send notifications on new anomaly alerts. The application replaces the Microsoft Teams spoke plugin, which will be deprecated. If you're using an HLA version earlier than 33.0.27, follow the setup procedure in [Set up Health Log Analytics alert notifications in channels](hla-notifications-in-channel.md). Otherwise, see [Set up Health Log Analytics alert notifications in a Microsoft Teams channel](hla-notifications-in-ms-teams.md).
 
 ![Sample HLA alert notification in Microsoft Teams.](../image/hla-alert-notification-teams.png "Sample HLA alert notification in Microsoft Teams")
 
--   **[Set up Health Log Analytics alert notifications in channels](../task/hla-notifications-in-channel.md)**  
+-   **[Set up Health Log Analytics alert notifications in channels](hla-notifications-in-channel.md)**  
 Set up notifications for new Health Log Analytics anomaly alerts in either a Slack or Microsoft Teams channel.
--   **[Set up Health Log Analytics alert notifications in a Microsoft Teams channel](../task/hla-notifications-in-ms-teams.md)**  
+-   **[Set up Health Log Analytics alert notifications in a Microsoft Teams channel](hla-notifications-in-ms-teams.md)**  
 Set up notifications for new Health Log Analytics anomaly alerts in a Microsoft Teams channel.
 
 **Parent Topic:**[Administering Health Log Analytics](hla-administer.md)

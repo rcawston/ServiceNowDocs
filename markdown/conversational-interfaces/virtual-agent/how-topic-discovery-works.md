@@ -83,10 +83,10 @@ While a topic is running, the requester can enter an utterance or phrase that re
 
 ![Topic discovery flow chart that shows the process Virtual Agent uses to change topics in the middle of a conversation.](../images/va-midtopic-discovery-logic.png "Virtual Agent mid-topic discovery logic")
 
-**Parent Topic:**[Debug a Virtual Agent topic](../reference/virtual-agent-troubleshooting-guide.md)
+**Parent Topic:**[Debug a Virtual Agent topic](virtual-agent-troubleshooting-guide.md)
 
 **Related topics**  
 
 
-[Resolve Natural Language Understanding \(NLU\) topic discovery issues](../reference/va-topic-discovery-issues.md)
+[Resolve Natural Language Understanding \(NLU\) topic discovery issues](va-topic-discovery-issues.md)
 

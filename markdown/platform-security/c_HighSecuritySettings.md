@@ -20,9 +20,9 @@ High Security Settings refer to several security options available in your insta
 
 </td><td>
 
-[Activate High Security Settings![Activate High Security Settings](../../../common/image/icon-workspace.png)](../task/t_ActivateHighSecuritySettings.md)
+[Activate High Security Settings![Activate High Security Settings](../../../common/image/icon-workspace.png)](t_ActivateHighSecuritySettings.md)
 
- [Activate the High Security Settings.](../task/t_ActivateHighSecuritySettings.md)
+ [Activate the High Security Settings.](t_ActivateHighSecuritySettings.md)
 
 </td></tr></tbody>
 </table>

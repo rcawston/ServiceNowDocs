@@ -29,15 +29,15 @@ Role required: sn\_grc\_emp\_user.grc\_employee or sn\_comp\_case.compliance\_ca
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Report a compliance case form, see [Report a Compliance Case form](../reference/compliance-case-form-employee-center.md).
+    For a description of the field values on the Report a compliance case form, see [Report a Compliance Case form](compliance-case-form-employee-center.md).
 
 5.  On the Report a compliance case form, select **Add attachments** to attach supporting material or evidence.
 
 6.  Select **Submit**.
 
 
--   **[Report a Compliance Case form](../reference/compliance-case-form-employee-center.md)**  
+-   **[Report a Compliance Case form](compliance-case-form-employee-center.md)**  
 Use the Report a Compliance Case form in the Employee Center to report a compliance case.
 
-**Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](../concept/reporting-compliance-case.md)
+**Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](reporting-compliance-case.md)
 

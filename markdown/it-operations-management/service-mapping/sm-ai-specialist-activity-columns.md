@@ -110,5 +110,5 @@ Created
 The date and time the activity record was created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Agents for Service Mapping](../concept/service-mapping-ai-specialists.md)
+</table>**Parent Topic:**[AI Agents for Service Mapping](service-mapping-ai-specialists.md)
 

@@ -39,10 +39,10 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 6.  On the form, fill in the details.
 
-    For more details on field description, see [Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md).
+    For more details on field description, see [Health and Safety action form](../health-and-safety-core/hs-action-form.md).
 
 7.  Tap **Submit**.
 
 
-**Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](../concept/hs-manage-safety-incident-mobile-agent.md)
+**Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](hs-manage-safety-incident-mobile-agent.md)
 

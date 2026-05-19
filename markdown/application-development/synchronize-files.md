@@ -58,5 +58,5 @@ The changes made to the application files in the Visual Studio Code workspace ar
 
 All the changes are tagged to the update set in the status bar. When a project is loaded or selected, the default update set is displayed in the status bar. Click the update set picker to choose the current update set \(valid until the IDE or project is closed\). If you do not explicitly select an update set, all writes happen to the default update set.
 
-**Parent Topic:**[Synchronization between Visual Studio Code and a ServiceNow instance](../concept/vscode-sync.md)
+**Parent Topic:**[Synchronization between Visual Studio Code and a ServiceNow instance](vscode-sync.md)
 

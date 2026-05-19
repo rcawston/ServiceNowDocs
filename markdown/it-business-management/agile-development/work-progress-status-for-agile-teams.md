@@ -22,5 +22,5 @@ As a product owner or a team lead, these indicators help you understand if your 
 -   **[Reviewing progress status for Agile Development 2.0 epics](review-work-progress-status-in-agile-2.0.md)**  
 Understand if your work would be completed by the planned end dates by reviewing progress status of your Agile Development 2.0 epics.
 
-**Parent Topic:**[Agile Development](../../agile-development/concept/agile-development.md)
+**Parent Topic:**[Agile Development](agile-development.md)
 

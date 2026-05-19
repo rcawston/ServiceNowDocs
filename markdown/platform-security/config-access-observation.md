@@ -110,5 +110,5 @@ The time at which observation begins. This field is only visible if **Start job 
 
 Once the observation window your defined has started, you can see each instance where the column was access detailed in the records on the Access Observer log \[sys\_data\_ob\_log\] table.
 
-**Parent Topic:**[Access observer](../concept/access-observer.md)
+**Parent Topic:**[Access observer](access-observer.md)
 

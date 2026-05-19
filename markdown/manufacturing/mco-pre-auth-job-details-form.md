@@ -273,5 +273,5 @@ Total amount claimed includes parts, labor, external services, and miscellaneous
 **Related topics**  
 
 
-[Create a pre-authorization request](../task/mco-agents-create-pre-auth-request.md)
+[Create a pre-authorization request](mco-agents-create-pre-auth-request.md)
 

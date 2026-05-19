@@ -158,16 +158,16 @@ Specifies the requester's language for the conversation session when Dynamic Tra
 `https://<instance_name>.service-now.com/$sn-va-web-client-app.do?sysparm_requester_session_language=<two-letter language code>`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Virtual Agent technical reference](../concept/va-advanced-technical-reference.md)
+</table>**Parent Topic:**[Virtual Agent technical reference](va-advanced-technical-reference.md)
 
 **Related topics**  
 
 
-[Domain separation and Virtual Agent](../concept/domain-separation-virtual-agent.md)
+[Domain separation and Virtual Agent](domain-separation-virtual-agent.md)
 
-[Virtual Agent interaction records](../concept/va-interactions.md)
+[Virtual Agent interaction records](va-interactions.md)
 
-[Virtual Agent scripts](../concept/virtual-agent-scripts.md)
+[Virtual Agent scripts](virtual-agent-scripts.md)
 
 [Input data types in Virtual Agent topics](va-data-types.md)
 

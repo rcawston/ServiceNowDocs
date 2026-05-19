@@ -41,7 +41,7 @@ The **Search Results \(No Global\)** dynamic block does not require any addition
 
 [Domain separation and the Content Management System](domain-separation-content-management.md)
 
-[Configure Content Management sites](../task/t_CreateASite.md)
+[Configure Content Management sites](t_CreateASite.md)
 
 [Content Management integration points](c_CMSIntegrationPoints.md)
 

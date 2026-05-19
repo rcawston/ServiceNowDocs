@@ -92,5 +92,5 @@ The type of progression based on the option selected in the **Progression** fiel
 -   Spread - The progression is uniformly spread across the job levels.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Skills Foundation Reference](../concept/skills-intelligence-reference.md)
+</table>**Parent Topic:**[Skills Foundation Reference](skills-intelligence-reference.md)
 

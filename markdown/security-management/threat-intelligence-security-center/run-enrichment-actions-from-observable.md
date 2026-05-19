@@ -38,5 +38,5 @@ Role required: sn\_sec\_tisc.admin
     **Note:** Once the execution initiated or completed, a work notes is posted on the activity stream of the form view.
 
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](observables.md)
 

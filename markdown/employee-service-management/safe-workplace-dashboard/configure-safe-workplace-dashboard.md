@@ -44,5 +44,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 4.  Continue updating campus records until they all have a parent location and the corresponding latitude and longitude values.
 
 
-**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](../concept/configrng-safe-workplce-dshbrd.md)
+**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](configrng-safe-workplce-dshbrd.md)
 

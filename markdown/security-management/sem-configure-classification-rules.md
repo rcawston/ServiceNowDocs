@@ -16,7 +16,7 @@ By configuring classification rules, you can ensure consistent categorization an
 
 Configuration of classification rules includes the following steps.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 

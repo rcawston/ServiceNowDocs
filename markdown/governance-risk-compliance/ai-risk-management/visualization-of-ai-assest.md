@@ -21,9 +21,9 @@ When you launch the 360º view from an AI asset record, you can visualize the re
 
 You can access the 360° view of an AI asset from the asset record page.![360° view button on the AI asset record.](../image/visualize-ai-asset.png)
 
-To explore the 360° view and to learn how to launch the view, see [Exploring the 360º view](../../grc-360-degree-rel-vis/concept/understanding-360-view.md#).
+To explore the 360° view and to learn how to launch the view, see [Exploring the 360º view](../grc-360-degree-relationship-visualization/understanding-360-view.md#).
 
-To learn more about the users who could use 360° Relationship Visualization, their roles, and responsibilities, see [360° Relationship Visualization](../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
+To learn more about the users who could use 360° Relationship Visualization, their roles, and responsibilities, see [360° Relationship Visualization](../grc-360-degree-relationship-visualization/grc-360-deg-rel-vis.md).
 
 The following example shows the 360° view of an AI asset:![Displays the records related to the AI asset in 360° view.](../image/visualization-ai-asset.png)
 

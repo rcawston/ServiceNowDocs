@@ -27,63 +27,63 @@ This task contains general procedures for creating credentials. Refer to the doc
 
 <table id="table_sbq_p4k_1cb"><tbody><tr><td>
 
-[Applicative credentials](../reference/applicative-creds.md)
+[Applicative credentials](applicative-creds.md)
 
 </td><td>
 
-[Basic authentication credentials](../reference/r_BasicAuthCredentialsForm.md)
+[Basic authentication credentials](r_BasicAuthCredentialsForm.md)
 
 </td><td>
 
-[Chef server credentials](../reference/chef-server-creds.md)
+[Chef server credentials](chef-server-creds.md)
 
 </td></tr><tr><td>
 
-[CIM credentials](../reference/r_CIMCredentialsForm.md#)
+[CIM credentials](r_CIMCredentialsForm.md#)
 
 </td><td>
 
-[Cloud credentials](../reference/r_CloudManagementCredentialsForm.md)
+[Cloud credentials](r_CloudManagementCredentialsForm.md)
 
 </td><td>
 
-[Container image repository credentials](../reference/container-image-repo-credential.md)
+[Container image repository credentials](container-image-repo-credential.md)
 
 </td></tr><tr><td>
 
-[Infoblox credentials](../reference/infoblox-creds.md)
+[Infoblox credentials](infoblox-creds.md)
 
 </td><td>
 
-[JDBC credentials](../reference/r_JDBCCredentialsForm.md)
+[JDBC credentials](r_JDBCCredentialsForm.md)
 
 </td><td>
 
-[JMS credentials](../reference/r_JMSCredentialsForm.md)
+[JMS credentials](r_JMSCredentialsForm.md)
 
 </td></tr><tr><td>
 
-[OAuth 2.0 credentials](../reference/oauth-2-credentials.md)
+[OAuth 2.0 credentials](oauth-2-credentials.md)
 
 </td><td>
 
-[SAP credentials](../reference/r_SAPCredentials.md)
+[SAP credentials](r_SAPCredentials.md)
 
 </td><td>
 
-[SNMP credentials](../concept/c_SNMPCredentials.md#)
+[SNMP credentials](c_SNMPCredentials.md#)
 
 </td></tr><tr><td>
 
-[SSH credentials](../reference/r_SSHCredentialsForm.md)
+[SSH credentials](r_SSHCredentialsForm.md)
 
 </td><td>
 
-[VMware credentials](../reference/r_VMwareCredentialsForm.md)
+[VMware credentials](r_VMwareCredentialsForm.md)
 
 </td><td>
 
-[Windows credentials](../reference/r_WindowsCredentialsForm.md#)
+[Windows credentials](r_WindowsCredentialsForm.md#)
 
 </td></tr></tbody>
 </table>**Note:** To improve security, limit the scope of credentials to a specific MID Server or schedule to avoid unnecessary credentials.

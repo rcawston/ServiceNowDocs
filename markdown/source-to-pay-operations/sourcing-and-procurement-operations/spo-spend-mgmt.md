@@ -69,7 +69,7 @@ Spend to Product Category Mapping\(sn\_spend\_mgmt\_m2m\_spend\_product\)
 Stores the mapping of spend categories to product categories.
 
 </td></tr></tbody>
-</table>-   **[Components installed with Spend and Savings Management](../reference/components-spend-savings.md)**  
+</table>-   **[Components installed with Spend and Savings Management](components-spend-savings.md)**  
 Several types of components are installed with activation of the Spend and Savings Management \(sn\_spend\_mgmt\) plugin, including user roles and tables.
 -   **[Category management tab](category-mgmt-tab.md)**  
 The Category management tab provides an overview of spend, savings, and pipeline projects, highlights savings opportunities, and enables creating pipeline projects directly from filtered lists.
@@ -89,7 +89,7 @@ Within the Source-to-Pay Workspace, the Category analytics module includes the S
 
 [Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 
 [Procurement Case Management](psd-overview.md)
 

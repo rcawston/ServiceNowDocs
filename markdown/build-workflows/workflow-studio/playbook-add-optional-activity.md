@@ -54,5 +54,5 @@ The selected optional activity appears in your playbook.
 
 ![Optional activities appear in the location selected.](../image/playbook-add-activity-complete.png)
 
-**Parent Topic:**[Running Playbooks](../concept/playbook-agents-and-fulfillers.md)
+**Parent Topic:**[Running Playbooks](playbook-agents-and-fulfillers.md)
 

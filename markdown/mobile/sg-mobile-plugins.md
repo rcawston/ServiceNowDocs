@@ -49,5 +49,5 @@ Use these plugins to extend functionality for the Mobile Agent app.
 -   **[Mobile plugins for Now Mobile](sg-mobile-plugins-now.md)**  
 Use these plugins to extend functionality for the Now Mobile app.
 
-**Parent Topic:**[Mobile plugins and upgrades](../concept/plugins-upgrades.md)
+**Parent Topic:**[Mobile plugins and upgrades](plugins-upgrades.md)
 

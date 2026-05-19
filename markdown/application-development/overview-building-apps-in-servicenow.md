@@ -23,11 +23,11 @@ Some applications may only contain a few files, and others could contain thousan
 
 Vibe coding is an AI-driven approach to application development. Use vibe coding and ServiceNow AI-powered app building tools to describe your goals in natural language, and the ServiceNow AI Platform generates full-stack applications, workflows, and integrations. The ServiceNow AI Platform automatically incorporates governance into the app creation process.
 
-Vibe coding and using AI to build apps with the ServiceNow AI Platform collapses the traditional app development lifecycle—from ideation to deployment—into minutes instead of weeks. For more information, see [Vibe coding and AI-assisted development on the ServiceNow AI Platform](../../vibe-coding/concept/vibe-coding-landing.md).
+Vibe coding and using AI to build apps with the ServiceNow AI Platform collapses the traditional app development lifecycle—from ideation to deployment—into minutes instead of weeks. For more information, see [Vibe coding and AI-assisted development on the ServiceNow AI Platform](vibe-coding-landing.md).
 
 Traditional app development on the ServiceNow AI Platform usually takes place in ServiceNow Studio. ServiceNow Studio provides a unified experience for all ServiceNow development activities, enabling admins and developers to extend base system solutions and create custom apps with ease.
 
-Use ServiceNow Studio to build apps and app files with integrated tools, access and edit app metadata in scoped and global apps, and package app changes for deployment, all in one powerful development tool. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Use ServiceNow Studio to build apps and app files with integrated tools, access and edit app metadata in scoped and global apps, and package app changes for deployment, all in one powerful development tool. For more information, see [ServiceNow Studio](servicenow-studio-classic/servicenow-studio-landing.md).
 
 ## Apps and plugins
 
@@ -82,5 +82,5 @@ ServiceNow metadata refers to the configuration and structural definitions that 
 -   **[Automation basics for apps](automation-basics-for-apps.md)**  
 Automation is central to ServiceNow application development and is a core strength of the ServiceNow AI Platform. Automation enables developers to build applications that reduce manual work, enforce consistency, and respond intelligently to business events.
 
-**Parent Topic:**[Getting Started guide for developers](../reference/getting-started-landing-page.md)
+**Parent Topic:**[Getting Started guide for developers](getting-started-landing-page.md)
 

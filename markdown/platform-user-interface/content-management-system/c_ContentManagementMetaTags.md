@@ -25,16 +25,16 @@ Structurally, a meta tag consists of a tag and a name/content pair and looks sim
 
 The Content Management System allows you to define both site level and page level tags.
 
--   **[Configure a page level meta tag](../task/t_AddAPageLevelMetaTag.md)**  
+-   **[Configure a page level meta tag](t_AddAPageLevelMetaTag.md)**  
 A page level tag is a meta tag defined on a specific page and included on only that page.
--   **[Configure a site level meta tag](../task/t_AddASiteLevelMetaTag.md)**  
+-   **[Configure a site level meta tag](t_AddASiteLevelMetaTag.md)**  
 A site level tag is a meta tag is defined on a site and included on every page within that site.
--   **[Configure DIV-based layouts](../task/t_ConfigureDivBasedLayouts.md)**  
+-   **[Configure DIV-based layouts](t_ConfigureDivBasedLayouts.md)**  
 After you create your site, you can change the site layout with DIV tags.
--   **[Content meta tag hierarchy](../reference/r_ContentMetaTagHierarchy.md)**  
+-   **[Content meta tag hierarchy](r_ContentMetaTagHierarchy.md)**  
 Page and site level meta tags are included in a content meta tag hierarchy.
 
-**Parent Topic:**[Configure Content Management sites](../task/t_CreateASite.md)
+**Parent Topic:**[Configure Content Management sites](t_CreateASite.md)
 
 **Related topics**  
 

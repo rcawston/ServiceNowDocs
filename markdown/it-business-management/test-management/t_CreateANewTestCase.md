@@ -45,5 +45,5 @@ You can use the related link and related list of the new test case for the follo
 -   Add this test case to a test plan by clicking the **Add to Test Plan** related link.
 -   Add tests to this test case by using the Tests related list. For more information, see [Add a test to a test case](t_AddATestToATestCase.md).
 
-**Parent Topic:**[Test cases](../concept/c_TestCases.md)
+**Parent Topic:**[Test cases](c_TestCases.md)
 

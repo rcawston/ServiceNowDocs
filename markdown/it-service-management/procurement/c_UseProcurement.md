@@ -19,15 +19,15 @@ The Procurement application enables users with an appropriate procurement role t
 
 Before using the Procurement application, create assignment groups for catalog tasks. Assignment groups are sets of users, filtered by location, who can perform catalog tasks.
 
--   **[Track a request from the service catalog](../task/t_TrackReqFromServiceCatalog.md)**  
+-   **[Track a request from the service catalog](t_TrackReqFromServiceCatalog.md)**  
 The Procurement application lets you track a request that was ordered from the service catalog.
--   **[Cancel a request from the service catalog](../task/t_CancelReqFromServCatalog.md)**  
+-   **[Cancel a request from the service catalog](t_CancelReqFromServCatalog.md)**  
 You can cancel a request from the service catalog if, for example, the item is no longer needed or the request was not approved.
--   **[View and edit a catalog task](../task/t_ViewAndEditACatalogTask.md)**  
+-   **[View and edit a catalog task](t_ViewAndEditACatalogTask.md)**  
 Catalog tasks are used to source items and fulfill requests. You can view and edit catalog tasks from a request.
--   **[Create a purchase order](../task/t_CreateAPurchaseOrder.md)**  
+-   **[Create a purchase order](t_CreateAPurchaseOrder.md)**  
 You can create a purchase order. Purchase orders specify assets to order from a single vendor.
--   **[Create an asset and reserve it for the requester](../task/t_CreateAssetReserveForRequester.md)**  
+-   **[Create an asset and reserve it for the requester](t_CreateAssetReserveForRequester.md)**  
 Create the asset before they're delivered so that you can create the asset record with an asset tag and serial number early in the process and reserve the asset for the user who requested it. The receiver can only select the assets to be received as assets are pre-created.
 
 **Parent Topic:**[Procurement](c_Procurement.md)
@@ -35,13 +35,13 @@ Create the asset before they're delivered so that you can create the asset recor
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](r_ProcurementRoles.md)
 
 [Procurement workflows](c_ProcurementWorkflows.md)
 
-[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)
+[Use the Procurement Overview module](t_UsingTheProcurementOverviewModule.md)
 
-[Activate Procurement](../task/t_ActivateProcurement.md)
+[Activate Procurement](t_ActivateProcurement.md)
 
 [Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 

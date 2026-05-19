@@ -21,7 +21,7 @@ Role required: sn\_sec\_tisc.admin
 
 **Important:** The Threat Intelligence Security Center and Whois Observable Enrichment plugins must be installed and active.
 
-Download the Whois integration from the ServiceNow Store and confirm you have a valid Whois account before use. For more information see, [Download the integration from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+Download the Whois integration from the ServiceNow Store and confirm you have a valid Whois account before use. For more information see, [Download the integration from the ServiceNow Store](../download-app-first-time.md).
 
 ## Procedure
 
@@ -87,7 +87,7 @@ Enter the description for the new enrichment integration.For example, the descri
 
 After it is configured, Whois can be selected for performing enrichment on observables in Threat Intelligence Security Center.
 
-**Parent Topic:**[Whois integration](../concept/tisc-whoisxml-integration.md)
+**Parent Topic:**[Whois integration](tisc-whoisxml-integration.md)
 
 **Related topics**  
 

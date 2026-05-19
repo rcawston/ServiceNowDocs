@@ -46,5 +46,5 @@ For example, in the IBM PVU Table there is one line with processor name POWER5 Q
     |Rule publication date|Date published by IBM on the PVU Rules table.|
 
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
 

@@ -33,7 +33,7 @@ Summarize a flow with Now Assist
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist for Creator roles](../../creator/reference/creator-roles-1.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist for Creator roles](creator-roles-1.md)
 
 </td></tr></tbody>
 </table>## AI limitations
@@ -42,8 +42,8 @@ This application uses artificial intelligence \(AI\) and machine learning, which
 
 -   **[Exploring Flow summarization](../concept/exploring-flow-summarization.md)**  
 Summarize what a flow or subflow does by using generative AI.
--   **[Turn on the flow summarization skill](../task/turn-on-the-flow-summarization-skill.md)**  
+-   **[Turn on the flow summarization skill](turn-on-the-flow-summarization-skill.md)**  
 Turn on the flow summarization skill to generate a summary of what a flow or subflow does.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../../build/now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](using-gen-ai-now-assist-for-creator.md)
 

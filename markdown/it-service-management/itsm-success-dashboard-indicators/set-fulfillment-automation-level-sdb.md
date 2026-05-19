@@ -34,5 +34,5 @@ Role required: admin or catalog\_admin
     For any catalog item, if the **Fulfillment automation level** field is set to **Fully automated**, then on the **Success Dashboard,**in the **Catalog item fulfillment level** card, the **% Fully automated catalog items** value increments.
 
 
-**Parent Topic:**[ITSM Success Dashboard Admin console](../concept/admin-console-sd.md)
+**Parent Topic:**[ITSM Success Dashboard Admin console](admin-console-sd.md)
 

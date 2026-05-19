@@ -52,7 +52,7 @@ Role required: asset
 
 The Record time form is saved and the time card is added to the Time worked section of the Related tab.
 
-**Parent Topic:**[Record time worked on a hardware asset repair task using the Mobile Agent application](../concept/record-time-worked-mobile-agent-app-con.md)
+**Parent Topic:**[Record time worked on a hardware asset repair task using the Mobile Agent application](record-time-worked-mobile-agent-app-con.md)
 
 **Related topics**  
 

@@ -89,5 +89,5 @@ For example, you could specify one floor of a particular building or users who r
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Employee Health and Safety Status](../concept/employee-health-safety-status.md)
+**Parent Topic:**[Employee Health and Safety Status](employee-health-safety-status.md)
 

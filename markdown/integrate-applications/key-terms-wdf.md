@@ -33,5 +33,5 @@ Key terms used in Workflow Data Fabric.
 |Data Catalog|The self-service discovery layer where consumers browse and evaluate Data Products, Data Interfaces, and other cataloged assets. The Data Catalog displays trust scores, lineage, and governance metadata, enabling consumers to request access and confirm data usability before building on it.|
 |Zero Copy Connector \(ZCC\)|An integration mechanism that provides real-time query access to external data without moving or copying it into ServiceNow. Zero Copy Connectors are best suited for large data volumes and analytics use cases where data freshness matters.|
 
-**Parent Topic:**[Workflow Data Fabric Home Reference](../concept/workflow-data-fabric-reference.md)
+**Parent Topic:**[Workflow Data Fabric Home Reference](workflow-data-fabric-reference.md)
 

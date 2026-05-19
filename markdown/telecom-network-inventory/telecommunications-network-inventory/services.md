@@ -17,13 +17,13 @@ Create application services, business applications, and network interfaces to ma
 
 To model your 5G network, perform the following:
 
--   Create a network function record. To learn more, see [Define the network function details](../task/create_business_applications.md).
--   Create network service instances. To learn more, see [Define the network service instance details](../task/create_application_services.md).
--   Create a network interface and create relationship with an application service. To learn more, see [Define the network interface details](../task/define-tni-interfaces.md).
+-   Create a network function record. To learn more, see [Define the network function details](create_business_applications.md).
+-   Create network service instances. To learn more, see [Define the network service instance details](create_application_services.md).
+-   Create a network interface and create relationship with an application service. To learn more, see [Define the network interface details](define-tni-interfaces.md).
 
--   **[Define the network service instance details](../task/create_application_services.md)**  
+-   **[Define the network service instance details](create_application_services.md)**  
 Create an application service instance using the Telecommunications Network Inventory application. You can create service instances to model different types of network functions.
--   **[Define the network function details](../task/create_business_applications.md)**  
+-   **[Define the network function details](create_business_applications.md)**  
 Create a network function record in the Telecommunications Network Inventory application. You can manage the network functions such as 5Physical Network Function \(PNF\), Virtual Network Function \(VNF\) and so on.
 -   **[Update or delete a service record](update_or_delete_a_service_record.md)**  
 Review, update, or delete a service record by using the Telecommunications Network Inventory application.

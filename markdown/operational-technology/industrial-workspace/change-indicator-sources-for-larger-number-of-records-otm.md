@@ -59,5 +59,5 @@ The job logs may include errors that aren't about the indicator sources. You mus
 6.  Select **Update**.
 
 
-**Parent Topic:**[Setting up the Operational Technology Visibility dashboard](../concept/setting-up-the-ot-devices-dashboard.md)
+**Parent Topic:**[Setting up the Operational Technology Visibility dashboard](setting-up-the-ot-devices-dashboard.md)
 

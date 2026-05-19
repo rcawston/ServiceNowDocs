@@ -105,7 +105,7 @@ Type of approval rule that determines how approval plans are generated and route
 
 **Note:** This option is available only when the approving object is a purchase requisition.
 
- Depending on the rule type you select, the associated fields appear. For more information on these rules, see [Approval rule types](../reference/approval-rule-types.md).
+ Depending on the rule type you select, the associated fields appear. For more information on these rules, see [Approval rule types](approval-rule-types.md).
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Approval sequence
 
 </td><td>
 
-Sequence in which the approval rules should be triggered. For more information on this, see [Approval rule grouping and sequencing](../reference/approval-rule-sequencing.md).
+Sequence in which the approval rules should be triggered. For more information on this, see [Approval rule grouping and sequencing](approval-rule-sequencing.md).
 
 </td></tr><tr><td>
 
@@ -217,12 +217,12 @@ Conditions based on the approving object that determine the conditions under whi
 </table>4.  Select **Submit**.
 
 
--   **[Approval rule types](../reference/approval-rule-types.md)**  
+-   **[Approval rule types](approval-rule-types.md)**  
 Approval rule types determine the methods by which approvals are created during the purchase requisition process.
--   **[Approval rule considerations](../reference/approval-rule-considerations.md)**  
+-   **[Approval rule considerations](approval-rule-considerations.md)**  
 Factors like currency, which includes foreign exchange, reference, and transactional, decide the approval rules to be triggered. Some of the other factors are purchasing limit, line amount, and received lines, among others.
--   **[Approval rule grouping and sequencing](../reference/approval-rule-sequencing.md)**  
+-   **[Approval rule grouping and sequencing](approval-rule-sequencing.md)**  
 As a Procurement Administrator, you can associate approval rules with approval groups and define the sequence to determine when these rules should be triggered. With this association, a set of approval rules within a rule group is triggered in sequence, instead of all of them being evaluated simultaneously.
 
-**Parent Topic:**[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 

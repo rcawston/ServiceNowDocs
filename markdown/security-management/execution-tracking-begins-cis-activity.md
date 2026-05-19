@@ -114,5 +114,5 @@ The flow process actions include:
 -   [Get Supported Security Capabilities action](get-supported-security-capabilities-activity.md)
 -   [Capability Execution Tracking- No Impls action](execution-tracking-noimpls-activity.md)
 
-**Parent Topic:**[Security Operations Integrations - Get Network Statistics flow](../task/secops-integration-get-network-stats-workflow.md)
+**Parent Topic:**[Security Operations Integrations - Get Network Statistics flow](secops-integration-get-network-stats-workflow.md)
 

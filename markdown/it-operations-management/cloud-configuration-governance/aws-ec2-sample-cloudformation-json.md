@@ -17,7 +17,7 @@ Reference code sample to deploy an Amazon AWS Cloud EC2 instance.
 
 ## Deploying an AWS EC2 instance using CloudFormation
 
--   While designing a catalog item, review the cloud formation template to identify the services that are being provisioned. Check that appropriate permissions for the services can be granted, to ensure that no failures occur from lack of permissions when the stack is ordered. For more information, see [Configure permissions on the AWS console](../../it-operations-management/task/aws-create-user-policy-cloud-mgt.md)
+-   While designing a catalog item, review the cloud formation template to identify the services that are being provisioned. Check that appropriate permissions for the services can be granted, to ensure that no failures occur from lack of permissions when the stack is ordered. For more information, see [Configure permissions on the AWS console](../aws-create-user-policy-cloud-mgt.md)
 -   Make necessary modifications using this sample as your reference.
 
 ```

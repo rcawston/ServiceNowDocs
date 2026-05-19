@@ -111,5 +111,5 @@ Additional information about the carrier.
     The shipping carrier record is created and added to the Shipping carrier list.
 
 
-**Parent Topic:**[Managing enterprise asset shipments](../concept/manage-shipments-eam.md)
+**Parent Topic:**[Managing enterprise asset shipments](manage-shipments-eam.md)
 

@@ -75,11 +75,11 @@ Each configuration activity provides the following resources to help you:
 
     -   Java 21.0.7 is bundled with the MID Server installer package and is installed on the host for all new MID Servers. The installer automatically configures Java 21.0.7 to run in your environment. No additional configuration is required. This version supports both 64-bit Windows MID Servers and 64-bit Linux MID Servers. The MID Server requires a minimum JRE version 17.0.10, and recommended version 21.0.7. If you are using a lower version than 17.0.10, you may see encryption related issues.
 
-    -   For information about the system requirements to host MID Servers, see [MID Server system requirements](../reference/r_MIDServerSystemRequirements.md)
+    -   For information about the system requirements to host MID Servers, see [MID Server system requirements](r_MIDServerSystemRequirements.md)
 8.  Validate your new MID Server.
 
 
 ## What to do next
 
-If necessary, [deploy multiple MID Servers from a single host](t_InstallMultplMIDSvrOnASingleSys.md#) in your network. Otherwise, proceed to [configure your MID Server](../concept/c_MIDServerConfiguration.md).
+If necessary, [deploy multiple MID Servers from a single host](t_InstallMultplMIDSvrOnASingleSys.md#) in your network. Otherwise, proceed to [configure your MID Server](c_MIDServerConfiguration.md).
 

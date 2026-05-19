@@ -17,7 +17,7 @@ You can change the appearance of widgets; change widget layouts; change the colo
 
 ## Before you begin
 
-Role required: User. dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
+Role required: User. dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
 
 **Note:** Responsive dashboards do not support the Sticky Notes widget.
 

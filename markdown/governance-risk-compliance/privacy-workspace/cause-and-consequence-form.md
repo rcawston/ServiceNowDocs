@@ -91,5 +91,5 @@ Observations
 Overall observations, if any.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Add causes and consequences to a privacy case](../task/add-causes-consequences.md)
+</table>**Parent Topic:**[Add causes and consequences to a privacy case](add-causes-consequences.md)
 

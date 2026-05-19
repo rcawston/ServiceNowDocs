@@ -37,5 +37,5 @@ Role required: admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Knowledge article creation from an incident](../concept/article-from-incident.md)
+**Parent Topic:**[Knowledge article creation from an incident](article-from-incident.md)
 

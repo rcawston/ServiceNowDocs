@@ -54,7 +54,7 @@ Phase 3
 [Close an alert](operator-close-alert.md)
 
 </td></tr></tbody>
-</table>You must understand both of your operator environments: the Service Operations Workspace dashboard and Service Operations Workspace. Review [Event Management operator environment](../concept/operator-user-interfaces.md) if you have not already done so. This tutorial uses the Service Operations Workspace dashboard.
+</table>You must understand both of your operator environments: the Service Operations Workspace dashboard and Service Operations Workspace. Review [Event Management operator environment](operator-user-interfaces.md) if you have not already done so. This tutorial uses the Service Operations Workspace dashboard.
 
 Role required: evt\_mgmt\_operator
 
@@ -247,5 +247,5 @@ With this process, you can acknowledge one alert or multiple related alerts.1.  
 
 Go to [Operator phase 2: Triage an alert](operator-phase-triage-incident.md).
 
-**Parent Topic:**[What Event Management operators do](../concept/operator-process.md)
+**Parent Topic:**[What Event Management operators do](operator-process.md)
 

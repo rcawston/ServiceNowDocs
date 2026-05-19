@@ -31,5 +31,5 @@ Retrieves multiple records from a specified table.
 -   **[Update a record](update-record.md)**  
 Updates the specified record with the given data attributes.
 
-**Parent Topic:**[ServiceNow CLI](../concept/servicenow-cli.md)
+**Parent Topic:**[ServiceNow CLI](servicenow-cli.md)
 

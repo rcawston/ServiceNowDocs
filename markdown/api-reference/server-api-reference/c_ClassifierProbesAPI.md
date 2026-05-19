@@ -17,7 +17,7 @@ The ClassifierProbes script include provides a classifier probe launch facility.
 
 Use in any server-side script where you need to define a classifier probe launch facility.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ClassifierProbes - launch\(\)
 

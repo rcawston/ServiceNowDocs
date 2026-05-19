@@ -47,9 +47,9 @@ See [Now Assist for Setup personas and role assignments](https://support.service
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Set up an application with Now Assist for Setup|[Set up an application with Now Assist for Setup](../task/ia-setup-apps.md)|admin|
-|Set up Now Assist|[Set up Now Assist with Now Assist for Setup](../task/ia-setup-now-assist.md)|admin|
-|Upload update set batch file|[Manage update set for Now Assist for Setup](../task/ia-update-set.md)|admin|
+|Set up an application with Now Assist for Setup|[Set up an application with Now Assist for Setup](ia-setup-apps.md)|admin|
+|Set up Now Assist|[Set up Now Assist with Now Assist for Setup](ia-setup-now-assist.md)|admin|
+|Upload update set batch file|[Manage update set for Now Assist for Setup](ia-update-set.md)|admin|
 |Configure an application with Now Assist for Setup|[Product modules configuration in Now Assist for Setup](ia-bu-conf.md)|admin|
 |General guidelines for Now Assist for Setup|[General guidelines](ia-des-conf.md)|admin|
 
@@ -59,7 +59,7 @@ To learn more about using Now Assist for Setup, see:
 
 -   [Administer Now Assist for Setup](ia-administer.md)
 -   [Product modules configuration in Now Assist for Setup](ia-bu-conf.md)
--   [Now Assist for Setup references](../reference/ia-reference.md)
+-   [Now Assist for Setup references](ia-reference.md)
 
 **Parent Topic:**[Now Assist for Setup](ia-landing.md)
 

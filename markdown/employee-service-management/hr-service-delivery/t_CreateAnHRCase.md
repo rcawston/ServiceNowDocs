@@ -140,7 +140,7 @@ Assignment group
 
 The group the record is assigned to. If the group is not set automatically, assign an HR group to provide a selection of HR users in the **Assigned to** field. Assignment groups are restricted to those groups with a type of human\_resources.To change the **Assignment group**, the **Assigned to** agent must be a member of the new group and the **State** must be **Ready**.
 
- **Note:** To automatically assign a group to an HR case, see [Assignment and matching rules in HR](../concept/c_UseAssignmentRules-1.md) and [Configure an HR case template](configure-hr-case-template.md).
+ **Note:** To automatically assign a group to an HR case, see [Assignment and matching rules in HR](../employee-service-management/c_UseAssignmentRules-1.md) and [Configure an HR case template](configure-hr-case-template.md).
 
 </td></tr><tr><td>
 
@@ -171,7 +171,7 @@ Add collaborators or other HR agents to the case.Only HR agents can be added as 
 
  Collaborators and the COE for the HR case can conflict. The basic rules are:
 
--   For all HR cases, collaborators override any security on a COE. For more information, see [Create COE security](../concept/configure-hr-coe-security.md).
+-   For all HR cases, collaborators override any security on a COE. For more information, see [Create COE security](configure-hr-coe-security.md).
 -   Employee Relations \(ER\) cases can override collaborators when restrictions apply. For more information, see [Configure an employee relations case restriction](hr-er-create-case-restriction.md).
  **Note:** Agents must have the ER case writer \[sn\_hr\_er.case\_writer\] role in order to be a collaborator.
 
@@ -427,13 +427,13 @@ The birth date of the child.**Note:** Use this field when Birthing parent, Partn
 
 -   **[View HR case information](t_ViewHRCaseInformation.md)**  
 There are multiple ways to find a specific HR case.
--   **[HR document generation](../concept/DocumentGeneration.md)**  
+-   **[HR document generation](DocumentGeneration.md)**  
 There are multiple ways to generate documents in HR Service Delivery.
 -   **[Secure HR case attachments](secure-doc-ckm.md)**  
 Add an extra layer of security on attachments that are linked to a case. Grant access to attachments with sensitive or private data to groups, users, user criteria or roles.
 -   **[Sending an email from a case](send-email-cm.md)**  
 Send any communication related to HR Workforce Administration cases using the Send email feature. Minimise typing errors by auto-populating the email address of the subject person \(of the case\) in the email.
--   **[Checklists in HR cases](../concept/c_ChecklistsInHRCasesAndTasks.md)**  
+-   **[Checklists in HR cases](c_ChecklistsInHRCasesAndTasks.md)**  
 A feature of HR services is the ability to automatically add a checklist to an HR case. A checklist can serve as a reminder to the HR agent to ensure that the procedure is followed.
 -   **[Adding an HR task to an HR case](t_ViewAnHRTask.md)**  
 You can add, view, or work on HR tasks assigned to HR cases.
@@ -442,5 +442,5 @@ There are multiple ways to find a specific HR task.
 -   **[Add adhoc approvers to a case](add-approvers-cm.md)**  
 Provide your agents with the flexibility to add adhoc approvers to a case that is part of an HR service.
 
-**Parent Topic:**[Use HR Case Management](../concept/c_HRCaseManagement.md)
+**Parent Topic:**[Use HR Case Management](c_HRCaseManagement.md)
 

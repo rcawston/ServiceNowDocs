@@ -36,5 +36,5 @@ Role required: sn\_imt\_core.admin
     You can [send the notification](send-outreach-notif-privacy-common.md) again to employees who have not yet responded.
 
 
-**Parent Topic:**[Maintaining privacy consent in Employee Readiness Core](../concept/employee-readiness-core-privacy-consent.md)
+**Parent Topic:**[Maintaining privacy consent in Employee Readiness Core](employee-readiness-core-privacy-consent.md)
 

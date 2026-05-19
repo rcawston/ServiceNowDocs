@@ -31,7 +31,7 @@ Create an exam catalog. For more information, see [Create exam catalogs](create-
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Exam form](../reference/exam-form.md).
+    For a description of the field values, see [Exam form](exam-form.md).
 
 5.  Select **Submit**.
 

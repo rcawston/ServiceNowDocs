@@ -30,5 +30,5 @@ To view this report, launch the Software Asset Workspace by navigating to **Work
 |Cloud provider|Cloud provider through which your Oracle Database servers are deployed.|
 |Cloud service type|Cloud service model through which your Oracle Database servers are deployed. The options are **PaaS** and **IaaS**.|
 
-**Parent Topic:**[Software Asset Management publisher pack for Oracle](../concept/oracle-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Oracle](oracle-publisher-pack.md)
 

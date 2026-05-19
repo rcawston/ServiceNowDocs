@@ -33,7 +33,7 @@ Suggested prompts help employees get started with common actions and queries.
 -   With Moveworks, your admins can configure these prompts based on organizational requirements.
 -   With Now Assist, your admins can configure promoted assets as prompts.
 
-For a set of prompts that you can use across Employee Slate features, see [Employee Slate prompt library](../reference/employee-slate-prompt-library.md).
+For a set of prompts that you can use across Employee Slate features, see [Employee Slate prompt library](employee-slate-prompt-library.md).
 
 ## Home widgets
 

@@ -20,13 +20,13 @@ Use the settings in your mobile applications to manage accessibility, notificati
 
 [Analytics settings for mobile](mobile-analytics-settings.md)
 
-[Enable notification settings for mobile](../task/notification-preference-settings.md)
+[Enable notification settings for mobile](notification-preference-settings.md)
 
 [Using location tracking for mobile](mobile-location.md)
 
-[Display mobile screen performance data](../task/debug-drawer.md)
+[Display mobile screen performance data](debug-drawer.md)
 
 [Offline mode for mobile](offline-end-user.md)
 
-[Refresh mobile app meta-data](../task/metadata-refresh.md)
+[Refresh mobile app meta-data](metadata-refresh.md)
 

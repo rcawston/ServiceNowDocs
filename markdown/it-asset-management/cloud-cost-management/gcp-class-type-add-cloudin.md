@@ -80,6 +80,6 @@ Parameter values in the billing node table that uniquely define the CI type.
 </td></tr></tbody>
 </table>3.  After you add a class type, you must reimport billing and usage data to ensure that CIs are correctly placed into the new type.
 
-    **Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Google Cloud services](../reference/gcp-supported-ci-class-types.md).
+    **Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Google Cloud services](gcp-supported-ci-class-types.md).
 
 

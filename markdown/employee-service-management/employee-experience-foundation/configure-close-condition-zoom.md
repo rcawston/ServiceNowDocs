@@ -91,5 +91,5 @@ Defines the condition that determines that the record is closed.
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Chat-specific configuration for Collaboration services for Zoom](../concept/additional-configuration-sn-cs-zoom.md)
+**Parent Topic:**[Chat-specific configuration for Collaboration services for Zoom](additional-configuration-sn-cs-zoom.md)
 

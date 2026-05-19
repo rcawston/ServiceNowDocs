@@ -57,12 +57,12 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_contract\_config
 
 Now Assist uses the updated use case mapping for contract analysis or metadata extraction.
 
-**Parent Topic:**[Managing skills for Now Assist in Contract Management](../concept/cmpro-manage-na-skills.md)
+**Parent Topic:**[Managing skills for Now Assist in Contract Management](cmpro-manage-na-skills.md)
 
 **Related topics**  
 
 
-[Manage use cases for Now Assist in Contract Management](../concept/cmpro-manage-use-cases.md)
+[Manage use cases for Now Assist in Contract Management](cmpro-manage-use-cases.md)
 
 [Manage clause mappings for contract analysis](cmpro-manage-clause-mappings.md)
 

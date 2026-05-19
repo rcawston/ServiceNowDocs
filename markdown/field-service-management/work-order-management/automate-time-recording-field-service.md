@@ -17,7 +17,7 @@ Record a break from a work order task in the Field Service application if you ar
 
 ## Before you begin
 
-The system administrator can choose to enable the **work.management.allow.auto.timecard** property so that time cards are automatically created when you start working on a task. The data of the time cards is stored in \[metric\_instance\] table and is controlled by **work.management.allow.auto.metric\_cleanup** [system property](../../planning-and-policy/reference/r_InstalledWithFSM.md).
+The system administrator can choose to enable the **work.management.allow.auto.timecard** property so that time cards are automatically created when you start working on a task. The data of the time cards is stored in \[metric\_instance\] table and is controlled by **work.management.allow.auto.metric\_cleanup** [system property](../r_InstalledWithFSM.md).
 
 Role required: wm\_agent
 

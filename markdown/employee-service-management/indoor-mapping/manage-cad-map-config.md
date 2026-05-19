@@ -19,16 +19,16 @@ Select a layer or place to preview it on the Map configuration preview layout.
 
 ![Map Configuration page options.](../images/wsd-map-configuration-preview.png)
 
-1.  [Georeference your floor plan](../task/georeference-floor-plan.md)  
+1.  [Georeference your floor plan](georeference-floor-plan.md)  
 Georeference and position your source floor plan on the map to scale it.
-2.  [Configure layers](../task/wsd-edit-layers.md)  
+2.  [Configure layers](wsd-edit-layers.md)  
 Select a layer on the Map Configuration preview and edit it.
-3.  [Configure places](../task/edit-places.md)  
+3.  [Configure places](edit-places.md)  
 Configure Places using the Map Configuration preview layout. Retrieve place types from the CAD file.
 
 **Parent Topic:**[Autocad import tool](autocad-ovw-v2.md)
 
 **Previous topic:**[CAD Editor tab](autocad-editor.md)
 
-**Next topic:**[Georeference your floor plan](../task/georeference-floor-plan.md)
+**Next topic:**[Georeference your floor plan](georeference-floor-plan.md)
 

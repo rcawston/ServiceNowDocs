@@ -30,7 +30,7 @@ Role required: sn\_critical.agent
 4.  Select the **Sent notification** tab.
 
 
-**Parent Topic:**[Managing related records in a critical event](../concept/manage-related-records.md)
+**Parent Topic:**[Managing related records in a critical event](manage-related-records.md)
 
 **Related topics**  
 

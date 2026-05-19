@@ -45,11 +45,11 @@ A flow error handler allows your flow to catch an error and run a set of actions
 
     |Flow logic option|Description|
     |-----------------|-----------|
-    |If|Selectively apply one or more actions only when a list of conditions is met. For more information, see [If](../concept/flow-logic-if.md).|
-    |Wait for a duration of time|Use this flow logic option to pause the flow for a specified time period and resume the flow execution after the time period elapses. For more information, see [Wait for a duration of time](../concept/flow-logic-wait-for-a-duration.md).|
-    |End Flow|Use this flow logic option to stop a flow within Workflow Studio. For more information, see [End Flow](../concept/flow-logic-end-action.md).|
-    |Dynamic Flow|Identify and run a flow or subflow dynamically by using runtime data. Build templates to provide expected inputs for dynamically called flows or subflows. For more information, see [Dynamic Flow](../concept/flow-logic-dynamic-flow.md).|
-    |Set Flow Variables|Assign a value to one or more flow variables. Change or update a variable's value during a flow. For more information, see [Set Flow Variables](../concept/flow-logic-set-flow-variables.md).|
+    |If|Selectively apply one or more actions only when a list of conditions is met. For more information, see [If](flow-logic-if.md).|
+    |Wait for a duration of time|Use this flow logic option to pause the flow for a specified time period and resume the flow execution after the time period elapses. For more information, see [Wait for a duration of time](flow-logic-wait-for-a-duration.md).|
+    |End Flow|Use this flow logic option to stop a flow within Workflow Studio. For more information, see [End Flow](flow-logic-end-action.md).|
+    |Dynamic Flow|Identify and run a flow or subflow dynamically by using runtime data. Build templates to provide expected inputs for dynamically called flows or subflows. For more information, see [Dynamic Flow](flow-logic-dynamic-flow.md).|
+    |Set Flow Variables|Assign a value to one or more flow variables. Change or update a variable's value during a flow. For more information, see [Set Flow Variables](flow-logic-set-flow-variables.md).|
 
     The Error Status object contains the information about the flow error. You can also use the Action Status object that is returned by each action to build the conditional logic. Both of these objects are available from the Data pane.
 
@@ -72,5 +72,5 @@ A flow error handler allows your flow to catch an error and run a set of actions
 
 Your flow runs the actions, flow logic options, and subflows that you specify when the flow produces an error. The flow execution details display the Completed \(error caught\) state for both the flow and the action that returned an error.
 
-**Parent Topic:**[Flow error handler](../concept/flow-error-handler.md)
+**Parent Topic:**[Flow error handler](flow-error-handler.md)
 

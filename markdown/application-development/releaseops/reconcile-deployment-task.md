@@ -39,5 +39,5 @@ Role required: developer or release\_admin
 5.  Once you've addressed the issues in the deployment task, select **Resolve** to enable the deployment request to be reassessed.
 
 
-**Parent Topic:**[Using ReleaseOps to manage deployments](../concept/using-releaseops-to-manage-deployments.md)
+**Parent Topic:**[Using ReleaseOps to manage deployments](using-releaseops-to-manage-deployments.md)
 

@@ -48,5 +48,5 @@ When a control objective and risk statement are associated and the control entit
 
 The risks associated with the risk statement automatically inherit the controls associated with the control objectives with matching entities.
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

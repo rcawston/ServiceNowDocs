@@ -16,7 +16,7 @@ Use update sets to sign and validate the flows, subflows, and actions by enablin
 -   Establish Circle of Trust between the protected and trusted instances.
 -   Role required: security\_admin
 
-**Parent Topic:**[Using Code Signing](../concept/using-code-signing.md)
+**Parent Topic:**[Using Code Signing](using-code-signing.md)
 
 ## Sign the existing flow, subflows, and actions
 

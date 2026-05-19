@@ -68,7 +68,7 @@ User groups that maintain the application.With the cdm\_admin role, you can add 
 
 If groups you're a member of are removed, you will lose access to the application.
 
-**Note:** A user with cdm\_all\_app\_access and one of the other roles \(cdm\_admin, cdm\_editor, or cdm\_viewer\) can see and manage the application even if they are not in those groups. For more information, see [Roles in CDM](../../configuration-data-management/reference/cdm-roles.md).
+**Note:** A user with cdm\_all\_app\_access and one of the other roles \(cdm\_admin, cdm\_editor, or cdm\_viewer\) can see and manage the application even if they are not in those groups. For more information, see [Roles in CDM](cdm-roles.md).
 
 </td></tr><tr><td>
 

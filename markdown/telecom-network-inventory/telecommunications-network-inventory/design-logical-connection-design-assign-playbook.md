@@ -106,7 +106,7 @@ The Design and Assign function for a logical connection has the following workfl
 
 By completing these steps, a logical connection record is generated with the associated Configuration Items \(CI\).
 
-To learn more about the steps to design and assign a logical connection, see [Create a logical connection record using the Design and Assign function](../task/create-logical-connection-record-design-assign-playbook.md).
+To learn more about the steps to design and assign a logical connection, see [Create a logical connection record using the Design and Assign function](create-logical-connection-record-design-assign-playbook.md).
 
 ## Access
 

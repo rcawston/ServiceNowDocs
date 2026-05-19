@@ -44,5 +44,5 @@ These parameters pass custom specifications to the various applications such as 
 |Field \(String\)|Returns the data in the form or text field.|Not applicable|
 |MatchAllChildren|Option to indicate whether the method will match all elements of the application while the terminal session executes.|No|
 
-**Parent Topic:**[Connectors](../concept/connectors.md)
+**Parent Topic:**[Connectors](connectors.md)
 

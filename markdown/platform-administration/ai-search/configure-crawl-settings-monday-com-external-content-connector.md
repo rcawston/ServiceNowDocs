@@ -68,5 +68,5 @@ The monday.com external content connector is updated with your modified crawl se
 
 To retrieve content from your monday.com source system using your modified crawl settings, create and run a one-time content crawl for your monday.com external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[monday.com external content connector](../concept/monday-com-external-content-connector.md)
+**Parent Topic:**[monday.com external content connector](monday-com-external-content-connector.md)
 

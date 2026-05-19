@@ -76,7 +76,7 @@ For Cloud Account Management, these operations are referred to as IAM service ac
 |Asset viewer|Can view all the configuration items \(CIs\) in Asset Explorer and access the compliance dashboard.|
 |Account manager|Can view all account details and associated assets. Account managers have edit access to accounts with primary ownership and read-only access to those with secondary ownership.|
 
-For more information about Cloud Account Management groups and responsibilities, see [Cloud Account Management ACL groups, roles, and responsibilities](../reference/cam-acl-groups-and-roles.md).
+For more information about Cloud Account Management groups and responsibilities, see [Cloud Account Management ACL groups, roles, and responsibilities](cam-acl-groups-and-roles.md).
 
 ## Cloud Account Management Benefits
 
@@ -100,9 +100,9 @@ Simplifies subscription account creation by defining standardized procedures and
 
 </td><td>
 
-[Request a cloud account](../task/request-account.md)
+[Request a cloud account](request-account.md)
 
- [Cancel a Cloud account request](../task/cancel-cam-account.md)
+ [Cancel a Cloud account request](cancel-cam-account.md)
 
 </td><td>
 
@@ -118,7 +118,7 @@ Enables suspending or reactivating accounts, and adding unmanaged accounts.
 
 [Suspend a Cloud account](suspend-account.md)
 
- [Reactivate a cloud account](../task/reactivate-account.md)
+ [Reactivate a cloud account](reactivate-account.md)
 
  [Add an unmanaged cloud account](add-unmanaged-account-cam.md)
 
@@ -138,7 +138,7 @@ Streamlines performing verifications that a person or entity has legitimate owne
 
 </td><td>
 
-[Certify an account](../task/certify-account.md)
+[Certify an account](certify-account.md)
 
 </td><td>
 
@@ -150,7 +150,7 @@ Certifier
 
 [About Amazon Web Services API permissions](about-aws-api-permissions.md)
 
-[Components installed with Cloud Account Management](../reference/components-installed-with-cam.md)
+[Components installed with Cloud Account Management](components-installed-with-cam.md)
 
 [About provision modes in Cloud Account Management](about-provision-modes.md)
 

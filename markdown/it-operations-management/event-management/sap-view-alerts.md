@@ -78,5 +78,5 @@ Here’s how the alert is mapped in Event Management:
 |Rating|Red|
 |Mandant|100|
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](sap-solman-configurations.md)
 

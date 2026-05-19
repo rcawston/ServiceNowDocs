@@ -96,7 +96,7 @@ Description of the package.
 
 After a package is created, the RPA developer publishes an automation from RPA Desktop Design Studio. This process results in a new package version.
 
-**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+**Parent Topic:**[Package and package version in RPA Hub](package-version-rpa-hub.md)
 
 **Related topics**  
 
@@ -107,7 +107,7 @@ After a package is created, the RPA developer publishes an automation from RPA D
 
 [View Audit History](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistorySets.md)
 
-[Publish an automation project in RPA Desktop Design Studio](../../rpa-studio/task/publish-automation-project.md)
+[Publish an automation project in RPA Desktop Design Studio](publish-automation-project.md)
 
 ## Package Version form in RPA Hub
 
@@ -189,7 +189,7 @@ Code quality status of package versions are set with highest severity.
 
 To review the error or warning, open the package version file in RPA Desktop Design Studio.
 
-For more information about code quality check feature, see [Code quality check in RPA Hub](../concept/code-quality-check-rpa.md).
+For more information about code quality check feature, see [Code quality check in RPA Hub](code-quality-check-rpa.md).
 
 </td></tr><tr><td>
 

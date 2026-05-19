@@ -36,5 +36,5 @@ To configure the product specification version change, modify the check-for-an-i
     The specification version update is activated.
 
 
-**Parent Topic:**[Updating specification versions](../concept/som-specification-version-update.md)
+**Parent Topic:**[Updating specification versions](som-specification-version-update.md)
 

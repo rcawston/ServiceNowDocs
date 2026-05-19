@@ -25,16 +25,16 @@ View a list of compliance rules that the Code Quality Check feature follows if a
 |Pass|Error or Warning|Success|
 |Pass|No restriction|Success|
 
-**Parent Topic:**[Code quality check in RPA Hub](../concept/code-quality-check-rpa.md)
+**Parent Topic:**[Code quality check in RPA Hub](code-quality-check-rpa.md)
 
 **Related topics**  
 
 
-[Publish an automation project in RPA Desktop Design Studio](../../rpa-studio/task/publish-automation-project.md)
+[Publish an automation project in RPA Desktop Design Studio](publish-automation-project.md)
 
-[Code quality check in RPA Desktop Design Studio](../../rpa-studio/concept/code-quality-check-studio.md)
+[Code quality check in RPA Desktop Design Studio](code-quality-check-studio.md)
 
 [Code quality check compliance for RPA Hub](cqc-publish-rpa-hub.md)
 
-[Code quality check in RPA Hub](../concept/code-quality-check-rpa.md)
+[Code quality check in RPA Hub](code-quality-check-rpa.md)
 

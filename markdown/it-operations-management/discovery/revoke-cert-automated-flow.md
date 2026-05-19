@@ -61,7 +61,7 @@ Role required: pki\_admin or admin
 
 **Note:**
 
-Certificates can't be revoked if Certificate Authority or Certificate Id details are missing in the Certificate Extension \[sn\_disco\_certmgmt\_certificate\_extension\] table. For Entrust CA Gateway, certificates can't be revoked if the Serial number is missing. Discover the certificate via [Certificate Authority query](../concept/run-cert-discovery.md) to populate the required details in the Certificate Extension table. After that, Discovery selects the routing policy and approves the task.
+Certificates can't be revoked if Certificate Authority or Certificate Id details are missing in the Certificate Extension \[sn\_disco\_certmgmt\_certificate\_extension\] table. For Entrust CA Gateway, certificates can't be revoked if the Serial number is missing. Discover the certificate via [Certificate Authority query](run-cert-discovery.md) to populate the required details in the Certificate Extension table. After that, Discovery selects the routing policy and approves the task.
 
 Revoke certificate API request. If "skip\_approval" is true, the revoke process is completed faster. If "skip\_approval" is false, the revoke process is completed when the DigiCert or Entrust CA Gateway admin has approved or rejected the revoke request. To skip the approval step, the API key must have admin privileges.
 

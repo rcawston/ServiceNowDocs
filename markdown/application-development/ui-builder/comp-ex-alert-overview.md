@@ -38,7 +38,7 @@ Use the default alert message configuration for simple notifications. In this ex
 
 This procedure uses UI Builder components to create dynamic, interactive layouts. For more information on how to configure components, see:
 
--   [Add and configure components](../task/add-components.md#)
+-   [Add and configure components](add-components.md#)
 -   [UI Builder Quick Bits: Navigating Component Configuration](https://www.servicenow.com/community/next-experience-blog/ui-builder-quick-bits-navigating-component-configuration/ba-p/3181624)
 
 <table id="table_exc_zzf_dhc"><thead><tr><th>
@@ -71,7 +71,7 @@ Alert
 
 3.  Create a page from scratch.
 
-    For more information about how to create a page, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page, see [Create a page in UI Builder](create-page.md).
 
 4.  Add an alert.
 
@@ -150,7 +150,7 @@ Scripted alerts provide notifications that respond to events or external data. T
 
 This procedure uses UI Builder components to create dynamic, interactive layouts. For more information on how to configure components, see:
 
--   [Add and configure components](../task/add-components.md#)
+-   [Add and configure components](add-components.md#)
 -   [UI Builder Quick Bits: Navigating Component Configuration](https://www.servicenow.com/community/next-experience-blog/ui-builder-quick-bits-navigating-component-configuration/ba-p/3181624)
 
 <table id="table_exc_zzf_dhc"><thead><tr><th>
@@ -192,7 +192,7 @@ Alert
 
 3.  Create a page from scratch.
 
-    For more information about how to create a page, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page, see [Create a page in UI Builder](create-page.md).
 
 4.  Add a button.
 

@@ -39,5 +39,5 @@ To access the system properties list, perform the following steps:
 **Related topics**  
 
 
-[Source-to-Pay Integrations glossary](../concept/source-to-pay-integrations-glossary.md#)
+[Source-to-Pay Integrations glossary](source-to-pay-integrations-glossary.md#)
 

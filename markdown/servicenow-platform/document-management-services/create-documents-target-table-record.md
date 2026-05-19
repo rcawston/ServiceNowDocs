@@ -23,5 +23,5 @@ Role required: admin
 
 **Note:** You cannot create documents through Document Lists with the user interface \(UI\). It must be done with APIs.
 
-**Parent Topic:**[Document Management lists](../concept/doc-mgt-lists.md)
+**Parent Topic:**[Document Management lists](doc-mgt-lists.md)
 

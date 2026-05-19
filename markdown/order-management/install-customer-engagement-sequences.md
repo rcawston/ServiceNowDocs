@@ -27,7 +27,7 @@ The following items are installed with Customer Engagement Sequences:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Customer Engagement Sequences](../reference/components-installed-customer-engagement-sequences.md).
+For more information, see [Components installed with Customer Engagement Sequences](components-installed-customer-engagement-sequences.md).
 
 ## Procedure
 

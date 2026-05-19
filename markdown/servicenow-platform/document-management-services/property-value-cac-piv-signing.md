@@ -24,5 +24,5 @@ The property value **com.snc.pdfsigning.validation.method** is used for identify
 |any \(default value\)|Utilizes both of the above validation methods to resolve a user.|
 |ignore|No user validation is performed on the signing fields.|
 
-**Parent Topic:**[Set up a document template for signing documents using a CAC or PIV smart card](../task/create-document-template.md)
+**Parent Topic:**[Set up a document template for signing documents using a CAC or PIV smart card](create-document-template.md)
 

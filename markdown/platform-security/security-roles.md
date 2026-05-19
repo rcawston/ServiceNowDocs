@@ -15,9 +15,9 @@ Security Roles provide added security, every user must have at least one role so
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore Explicit Roles![](../../../reuse/icons/brand-icons/bus-learn.svg)](../../contextual-security/concept/explicit-roles.md#)
+[Explore Explicit Roles![](../../../reuse/icons/brand-icons/bus-learn.svg)](explicit-roles.md#)
 
- [Learn the key features and business value of Explicit Roles.](../../contextual-security/concept/explicit-roles.md#)
+ [Learn the key features and business value of Explicit Roles.](explicit-roles.md#)
 
 </td><td>
 

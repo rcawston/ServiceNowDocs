@@ -240,7 +240,7 @@ Role required: admin
 
 Verify the following items:
 
--   The [External Credential Storage](../task/t_ActivateExtrnlCredStoragePlugIn.md) plugin must be active.
+-   The [External Credential Storage](t_ActivateExtrnlCredStoragePlugIn.md) plugin must be active.
 -   The [Enable External Credential Storage](c_ExternalCredentialStorage.md) Discovery property is enabled.
 
 ### Procedure

@@ -64,5 +64,5 @@ You can receive notifications when your manager makes a schedule plan available 
     All shifts you have added for sign up will be submitted.
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](scheduling-configurable-wfo-cs.md)
 

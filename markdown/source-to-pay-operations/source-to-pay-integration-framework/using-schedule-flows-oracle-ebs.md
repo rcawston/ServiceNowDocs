@@ -47,7 +47,7 @@ The Primary Data Integration with Oracle supports the following subflows and sys
 
 **System Properties for Primary Data Integration with Oracle**
 
-Use these system properties to configure settings for the Primary Data Integration with Oracle from the System Properties page. For more information, see [Source-to-Pay integrations with Oracle reference](../../source-to-pay-operations/reference/s2p-integration-oracle-reference.md).
+Use these system properties to configure settings for the Primary Data Integration with Oracle from the System Properties page. For more information, see [Source-to-Pay integrations with Oracle reference](s2p-integration-oracle-reference.md).
 
 Role required:
 
@@ -207,7 +207,7 @@ These subflows are read-only. To modify a flow or subflow, create a copy and the
 
 **System Properties for Supplier Lifecycle Operations Integration with Oracle**
 
-Use these system properties to configure settings for the Supplier Lifecycle Operations Integration with Oracle from the System Properties page. For more information, see [Source-to-Pay integrations with Oracle reference](../../source-to-pay-operations/reference/s2p-integration-oracle-reference.md).
+Use these system properties to configure settings for the Supplier Lifecycle Operations Integration with Oracle from the System Properties page. For more information, see [Source-to-Pay integrations with Oracle reference](s2p-integration-oracle-reference.md).
 
 Role required:
 
@@ -238,9 +238,9 @@ The Accounts Payable Operations Integration with Oracle EBS supports the followi
 
 -   **[Manually trigger flows or subflows in Oracle EBS \(Inbound\)](../task/manually-trigger-subflows-oracle-ebs.md)**  
 You can manually trigger flows or subflows in Oracle EBS on demand. Follow these steps to manually trigger a flow or subflow.
--   **[Use a flow or subflow in Oracle EBS \(Outbound\)](../task/use-flow-or-subflow-oracle-ebs.md)**  
+-   **[Use a flow or subflow in Oracle EBS \(Outbound\)](use-flow-or-subflow-oracle-ebs.md)**  
 A flow or subflow can be executed in Oracle EBS using the Workflow Studio. Follow these steps to run a flow or subflow.
--   **[Copy a flow or subflow in Oracle EBS](../task/copy-flow-or-subflow-oracle-ebs.md)**  
+-   **[Copy a flow or subflow in Oracle EBS](copy-flow-or-subflow-oracle-ebs.md)**  
 You can create a copy of the a flow or subflow and make the necessary modifications. Use the following steps to activate a flow or subflow.
 
 **Parent Topic:**[Use Source-to-Pay integration with Oracle EBS](using-source-to-pay-oracle-ebs-integration.md)

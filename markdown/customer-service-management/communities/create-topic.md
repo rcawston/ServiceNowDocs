@@ -27,7 +27,7 @@ Role required: sn\_communities.admin
 
 3.  On the form, fill in the fields.
 
-    For field description, see [Topic form fields](../reference/topic-form-fields.md).
+    For field description, see [Topic form fields](topic-form-fields.md).
 
 4.  Click **Submit**.
 

@@ -37,7 +37,7 @@ With the On-Call Scheduling feature, you can view and manage shifts, approve or 
 
 For detailed information on configuring and using On Call Scheduling features, refer to the IT Service Management [On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md) documentation.
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
@@ -48,7 +48,7 @@ For detailed information on configuring and using On Call Scheduling features, r
 
 [SIR Workspace Related Records](sir-records.md#)
 
-[Define the new Risk Score Calculator Rules](../task/define-risk-score-calculator-rules-sir.md)
+[Define the new Risk Score Calculator Rules](define-risk-score-calculator-rules-sir.md)
 
 [Configure Shift Handover](config-shift-handover.md)
 
@@ -60,5 +60,5 @@ For detailed information on configuring and using On Call Scheduling features, r
 
 [View and update Security Incident Response system properties](view-update-sirw-system-properties.md)
 
-[Create quick filters for Security Incidents and Response Tasks lists](../task/create-quick-filters-for-security-incidents.md)
+[Create quick filters for Security Incidents and Response Tasks lists](create-quick-filters-for-security-incidents.md)
 

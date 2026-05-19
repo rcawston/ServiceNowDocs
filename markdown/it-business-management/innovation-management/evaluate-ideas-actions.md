@@ -31,7 +31,7 @@ Accept
 
 If the idea seems interesting with the potential for developing into a new feature, product, or enhancement, accept the idea. It then moves to the backlog, from which you can pick it up at an appropriate time. To accept an idea, set the status of the idea to **In Backlog** from the State list.
 
- If you want to implement the idea relatively soon, create a task for it. For more information, see [Create a task for an idea](../task/create-a-task-for-an-idea.md).
+ If you want to implement the idea relatively soon, create a task for it. For more information, see [Create a task for an idea](create-a-task-for-an-idea.md).
 
 </td></tr><tr><td>
 
@@ -66,5 +66,5 @@ When an idea is implemented successfully, mark the idea as completed and close t
 **Related topics**  
 
 
-[Evaluate an idea](../task/evaluate-an-idea.md)
+[Evaluate an idea](evaluate-an-idea.md)
 

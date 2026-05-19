@@ -29,7 +29,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## How domain separation works in Insurance claims
 
-All [FSO integrations](../../fso-common/concept/fso-overview.md) applications are built on top of and use many Customer Service Management \(CSM\) tables. The key reference tables are the customer tables such as Consumer, Account, and Contact, and these tables are domain-separated.
+All [FSO integrations](../fso-overview.md) applications are built on top of and use many Customer Service Management \(CSM\) tables. The key reference tables are the customer tables such as Consumer, Account, and Contact, and these tables are domain-separated.
 
 ## Tables
 

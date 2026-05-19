@@ -65,7 +65,7 @@ Change Write user \[sn\_ot\_change\_write\]
 
 Can create, view, and edit OT change records.Can also be assigned IT change tasks, and can edit and close the IT change task they're assigned to.
 
-For more information, see [Managing change requests across sites](../concept/visibility-of-changes-across-sites.md).
+For more information, see [Managing change requests across sites](visibility-of-changes-across-sites.md).
 
 </td><td>
 

@@ -48,7 +48,7 @@ Each option in a choice list is defined with a column label and a value. For exa
 5.  Press the Enter key to execute the search.
 
 
-**Parent Topic:**[Lists in the classic environment](../concept/c_UseLists.md)
+**Parent Topic:**[Lists in the classic environment](c_UseLists.md)
 
 ## Available list search wildcards
 

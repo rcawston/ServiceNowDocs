@@ -69,5 +69,5 @@ Formula used to calculate the progress value of the goal
 -   Contribution of T2 towards G1 progress = 3/\(2+3\)\*20 = 12%
 -   Therefore, Progress of G1 = 16% +12% = 28%
 
-**Parent Topic:**[Form field information for Strategic Planning](../reference/form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

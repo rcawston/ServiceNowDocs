@@ -28,7 +28,7 @@ You can add different types of managers to a territory:
 -   Territory manager: The territory manager can access and manage all territories.
 -   Resource manager: The resource manager has restricted access only to manage resources and create child territories in the assigned territory.
 
-To understand the difference between the manager types and their access rights, see [Managing territories and agents from Territory Planning console](../concept/using-territory-planning-console.md) and [Field Service Territory Planning components](../reference/territory-planning-components-fsm.md#).
+To understand the difference between the manager types and their access rights, see [Managing territories and agents from Territory Planning console](../field-service-manager-workforce/using-territory-planning-console.md) and [Field Service Territory Planning components](../territory-planning-components-fsm.md#).
 
 ## Procedure
 

@@ -46,5 +46,5 @@ The [Custom Table Guide legal schedule](https://www.servicenow.com/content/dam/s
 
 To find past versions of the Custom Table Guide, see the [Legal Schedules Custom Table Guide](https://www.servicenow.com/schedules-archived.html).
 
-**Parent Topic:**[Managing custom tables and applications in Subscription Management](../concept/allocating-custom-tables-subscr-apps-v2.md)
+**Parent Topic:**[Managing custom tables and applications in Subscription Management](allocating-custom-tables-subscr-apps-v2.md)
 

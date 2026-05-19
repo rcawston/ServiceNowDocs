@@ -17,7 +17,7 @@ The Predictive Intelligence for Knowledge Management capability uses machine-lea
 
 ## Solution definitions for Predictive Intelligence for Knowledge Management
 
-The solution definitions for Predictive Intelligence for Knowledge Management capability are available in the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\). For more information about the plugin, see [Additional plugins for Knowledge Management](../reference/additional-plugins-km.md).
+The solution definitions for Predictive Intelligence for Knowledge Management capability are available in the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\). For more information about the plugin, see [Additional plugins for Knowledge Management](additional-plugins-km.md).
 
 <table id="table_bdh_nzs_kbc"><thead><tr><th>
 
@@ -102,9 +102,9 @@ Compares similarity of incidents with knowledge bases and identifies similar clo
 **Related topics**  
 
 
-[Train the similarity solution for Knowledge Management to find related articles](../task/train-similarity-solution-km.md)
+[Train the similarity solution for Knowledge Management to find related articles](train-similarity-solution-km.md)
 
-[Create a knowledge article in Agent Workspace](../task/create-article-workspace.md)
+[Create a knowledge article in Agent Workspace](create-article-workspace.md)
 
 [Knowledge demand insights](knowledge-demand-insights.md)
 

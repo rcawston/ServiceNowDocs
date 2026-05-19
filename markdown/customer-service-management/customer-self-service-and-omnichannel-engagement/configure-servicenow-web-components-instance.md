@@ -21,7 +21,7 @@ You must have the following setup to configure ServiceNow component instance:
 
 -   Enable Web Embeddables in your instance. For more information, see [Activate Web Embeddables](act-web-embeddables.md)
 -   [Set up a custom URL as the instance URL](set-up-custom-url.md)
--   Authenticate the ServiceNow components using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](../concept/auth-sn-webcomponents-non-oidc.md).
+-   Authenticate the ServiceNow components using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](auth-sn-webcomponents-non-oidc.md).
 
 Role required: sn\_embeddable\_core.emb\_admin
 
@@ -35,7 +35,7 @@ This procedure outlines the high-level steps that you must follow to set up Web 
 
 2.  In the Homepage, select **Create module** or use the existing module.
 
-    For more information on how to create a new module, see [Create a module](../concept/create-we-module.md).
+    For more information on how to create a new module, see [Create a module](create-we-module.md).
 
 3.  On the module page, in the Components tab, create a group and add a component instance.
 

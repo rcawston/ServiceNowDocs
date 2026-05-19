@@ -114,5 +114,5 @@ If selected, the content item is not available on Service Portal.
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](r_ExtendedCatalogItemFunctions.md)
 

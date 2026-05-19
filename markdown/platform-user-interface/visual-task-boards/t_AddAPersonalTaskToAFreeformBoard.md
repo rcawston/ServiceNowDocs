@@ -34,5 +34,5 @@ Role required: none
 5.  To save the card, select another area of the board or press **Enter**.
 
 
-**Parent Topic:**[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+**Parent Topic:**[Freeform Visual Task Boards](c_FreeformBoardTasks.md)
 

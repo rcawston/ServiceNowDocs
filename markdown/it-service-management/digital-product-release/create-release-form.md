@@ -15,7 +15,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 Product managers or release admins can create a release for a product or service version in Digital Product Release.
 
-For more information, see [Create a release for a product or service](../task/dpr-create-release.md).
+For more information, see [Create a release for a product or service](dpr-create-release.md).
 
 <table id="table_tbx_pmr_lyb"><thead><tr><th>
 
@@ -76,9 +76,9 @@ Template that defines the release process. The template applies the predefined p
 -   If selected, the list displays only templates with the validates version option set to true.
 -   If clear, the list displays only templates with the validates version option set to false.
 
-For more information, see [Create a release template](../task/dpr-create-release-template.md#).
+For more information, see [Create a release template](dpr-create-release-template.md#).
 
-Based on the template you select, the release follows either a timeline-oriented or stage-oriented release process. For more information, see [Release for a product or service](../concept/dpr-product-release.md).
+Based on the template you select, the release follows either a timeline-oriented or stage-oriented release process. For more information, see [Release for a product or service](dpr-product-release.md).
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ Release readiness target to indicate when the product or service should be ready
 
 **Note:** Release readiness target and Release target are used interchangeably. Both terms refer to the same concept - release readiness target date.
 
-For more information, see [Create a release readiness target](../task/dpr-create-rls-readiness-target.md).
+For more information, see [Create a release readiness target](dpr-create-rls-readiness-target.md).
 
 This field appears only when **Out of band** is clear.
 
@@ -124,10 +124,10 @@ Release calendar
 
 </td><td>
 
-Release calendar on which the release is targeted. If a release target exists on the selected date in the release calendar, the release is added to it. If not, a release target is created and the release is added to it.For more information, see [Create a release calendar](../task/dpr-create-release-calendar.md).
+Release calendar on which the release is targeted. If a release target exists on the selected date in the release calendar, the release is added to it. If not, a release target is created and the release is added to it.For more information, see [Create a release calendar](dpr-create-release-calendar.md).
 
 This field appears only when **Out of band** is selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Product Release reference](../concept/dpr-reference.md)
+</table>**Parent Topic:**[Digital Product Release reference](dpr-reference.md)
 

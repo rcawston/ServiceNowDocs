@@ -15,7 +15,7 @@ breadcrumb: [SCCM activity pack, Orchestration activity packs, Classic Orchestra
 
 The Add to User Collection activity adds a user to a Microsoft System Center Configuration Manager \(SCCM\) user collection.
 
-The Add to User Collection activity uses the [Powershell activity template](../../orchestration-activity-designer/task/t_CreateAPowershellActivity.md#) to access the SCCM server. The activity is configured to use a MID Server with Powershell capabilities and to run a MID Server script called AddToUserCollection.ps1 to edit the collection.
+The Add to User Collection activity uses the [Powershell activity template](t_CreateAPowershellActivity.md#) to access the SCCM server. The activity is configured to use a MID Server with Powershell capabilities and to run a MID Server script called AddToUserCollection.ps1 to edit the collection.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
 
@@ -43,5 +43,5 @@ To access this activity in the Workflow Editor, select the **Custom** tab, and t
 |Success|Activity successfully added a user to the SCCM user collection.|
 |Failure|Activity failed to add a user to the SCCM user collection.|
 
-**Parent Topic:**[SCCM activity pack](../concept/c_SCCMActivityPack.md)
+**Parent Topic:**[SCCM activity pack](c_SCCMActivityPack.md)
 

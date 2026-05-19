@@ -72,11 +72,11 @@ Role required: clotho\_admin
 
 4.  Determine how efficiently your time series data is used by viewing the **Data Utilization Efficiency** value.
 
-    The value is the percentage of data points per metric that have a non-null value. The closer this value is to 100%, the fewer null data points there are. To increase the efficiency, review each metric to ensure that data is being posted at a similar rate to the first schedule of its retention policy. See [MetricBase retention policies](../reference/metricbase-retention-policies.md) for more information.
+    The value is the percentage of data points per metric that have a non-null value. The closer this value is to 100%, the fewer null data points there are. To increase the efficiency, review each metric to ensure that data is being posted at a similar rate to the first schedule of its retention policy. See [MetricBase retention policies](metricbase-retention-policies.md) for more information.
 
 5.  Determine how often values are published to MetricBase by viewing the **Average Unutilized Data Gap** value.
 
-    The gap value is the average number of entries between two non-null data points. To decrease the gap value, change the metric's schedule to publish data more often or update the metric's sampling period in its retention policy. See [MetricBase retention policies](../reference/metricbase-retention-policies.md).
+    The gap value is the average number of entries between two non-null data points. To decrease the gap value, change the metric's schedule to publish data more often or update the metric's sampling period in its retention policy. See [MetricBase retention policies](metricbase-retention-policies.md).
 
 
 ## View MetricBase statistics and metrics

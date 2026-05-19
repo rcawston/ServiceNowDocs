@@ -41,5 +41,5 @@ Create a work shift.
 -   **[Create an on-call shift](create-on-call-shift-wfo-hr.md)**  
 Create on-call shift.
 
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
 

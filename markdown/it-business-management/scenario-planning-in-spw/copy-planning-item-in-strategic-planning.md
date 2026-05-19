@@ -17,7 +17,7 @@ Create a copy of an existing planning item to add it to your portfolio plan's wo
 
 ## Before you begin
 
-[Create a portfolio plan](../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md)
+[Create a portfolio plan](create-portfolio-plans-in-alignment-planner-workspace.md)
 
 Role required: sn\_align\_core.apw\_user
 
@@ -41,12 +41,12 @@ Use the Prioritization tab of your portfolio plan to add new planning items or i
 
 5.  If you're using PPM, Agile Development 2.0, or SAFe to execute the planned work, you can also import your work items from these applications.
 
-    For more information, see [Executing Strategic Planning work in PPM, Agile 2.0, and SAFe](../../apw-internal-integrations/concept/using-apw-with-agile-safe-and-ppm.md).
+    For more information, see [Executing Strategic Planning work in PPM, Agile 2.0, and SAFe](using-apw-with-agile-safe-and-ppm.md).
 
 
 ## What to do next
 
 -   [Rank planning items](rank-and-prioritize-backlog-alignment-planner-workspace.md).
 -   [Update planning item details from Prioritization tab](update-planning-item-details-from-backlog-in-alignment-planner-workspace.md).
--   Learn about [Personalizing views for prioritization](../concept/personalize-prioritization-page-in-strategic-planinng-workspace.md)
+-   Learn about [Personalizing views for prioritization](personalize-prioritization-page-in-strategic-planinng-workspace.md)
 

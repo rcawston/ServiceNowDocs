@@ -28,14 +28,14 @@ Role required: admin
 4.  Select **Total Cost of Ownership**.
 
 
-**Parent Topic:**[Working with application Total Cost of Ownership \(TCO\)](../../concept/eaw-concept/eaw-work-with-tco.md)
+**Parent Topic:**[Working with application Total Cost of Ownership \(TCO\)](eaw-work-with-tco.md)
 
 **Related topics**  
 
 
 [Add or edit a total cost of ownership record](eaw-create-new-tco.md)
 
-[Manage application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-app-tco.md)
+[Manage application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-app-tco.md)
 
 [Install the Application Total Cost of Ownership \(TCO\) plugin](eaw-install-app-tco.md)
 

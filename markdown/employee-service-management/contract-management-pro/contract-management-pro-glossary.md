@@ -24,33 +24,33 @@ Glossary terms are grouped alphabetically.
 **Related topics**  
 
 
-[Components installed with Contract Management Pro](../reference/cncore-comp-ccore.md)
+[Components installed with Contract Management Pro](cncore-comp-ccore.md)
 
-[Components installed with Contract Workspace](../reference/cncore-comp-contract-workspace.md)
+[Components installed with Contract Workspace](cncore-comp-contract-workspace.md)
 
-[Components installed with Analytics Pack for Contract Management Pro](../reference/cncore-comp-analytics-pack-cmpro.md)
+[Components installed with Analytics Pack for Contract Management Pro](cncore-comp-analytics-pack-cmpro.md)
 
-[Contract request State and Contract document status in Contract Management Pro](../reference/cncore-cr-state-status.md)
+[Contract request State and Contract document status in Contract Management Pro](cncore-cr-state-status.md)
 
-[Clause Variation form](../reference/cncore-cv-form.md)
+[Clause Variation form](cncore-cv-form.md)
 
-[Contract Configuration form](../reference/cncore-contract-config-form.md)
+[Contract Configuration form](cncore-contract-config-form.md)
 
-[Properties installed to configure expiry notifications](../reference/cncore-properties-installed.md)
+[Properties installed to configure expiry notifications](cncore-properties-installed.md)
 
-[Properties installed to configure contracts integrations](../reference/cncore-properties.md)
+[Properties installed to configure contracts integrations](cncore-properties.md)
 
-[Expiring Contracts Condition form fields](../reference/cncore-email-notif-expcont-form.md)
+[Expiring Contracts Condition form fields](cncore-email-notif-expcont-form.md)
 
-[Action assignment form](../reference/cmpro-actn-assignment-form.md)
+[Action assignment form](cmpro-actn-assignment-form.md)
 
-[UFX Add on Event mapping form](../reference/cmpro-ufx-event-map-form.md)
+[UFX Add on Event mapping form](cmpro-ufx-event-map-form.md)
 
-[Obligation form](../reference/cncore-obligation-form.md)
+[Obligation form](cncore-obligation-form.md)
 
-[Obligation Management notifications](../reference/cncore-ob-mgmt-notification.md)
+[Obligation Management notifications](cncore-ob-mgmt-notification.md)
 
-[Contract Management solutions](../reference/cmpro-cml-feature-compare.md)
+[Contract Management solutions](cmpro-cml-feature-compare.md)
 
 ## A
 

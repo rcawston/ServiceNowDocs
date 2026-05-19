@@ -58,10 +58,10 @@ In summary, your playbook runs when:
 
 If you're ready to start digitizing your business process with Playbooks in Workflow Studio, try checking out these resources:
 
--   [Create a sample playbook](../task/design-automated-process.md)
--   [Create a playbook](../task/create-process-definition.md)
+-   [Create a sample playbook](design-automated-process.md)
+-   [Create a playbook](create-process-definition.md)
 
--   **[Create a sample playbook](../task/design-automated-process.md)**  
+-   **[Create a sample playbook](design-automated-process.md)**  
 Create a sample playbook to standardize and automate how Service Desk agents handle chat interactions with VIP users.
 
 **Parent Topic:**[Building Playbooks](building-a-process.md)

@@ -27,7 +27,7 @@ Role required: sn\_customerservice\_manager or admin
 
 3.  On the Sold Product form, fill in the fields.
 
-    To learn more about the descriptions, see [Sold product form](../reference/sold-product-form.md).
+    To learn more about the descriptions, see [Sold product form](sold-product-form.md).
 
 4.  Right-click the form header and select **Save**.
 

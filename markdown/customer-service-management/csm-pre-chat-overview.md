@@ -36,7 +36,7 @@ Pre-chat surveys provide the following advantages that help agents efficiently h
 
 ## Configuring Pre-chat if you have upgraded
 
-Some settings need to be configured if you have upgraded your ServiceNow® instance. For more information, see [Configure pre-chat after upgrading](../task/csm-configure-pre-chat-upgrade.md).
+Some settings need to be configured if you have upgraded your ServiceNow® instance. For more information, see [Configure pre-chat after upgrading](csm-configure-pre-chat-upgrade.md).
 
 ## Plugins
 
@@ -45,5 +45,5 @@ You must activate the Consumer Service Portal \(com.glide.service-portal.consume
 **Related topics**  
 
 
-[Pre-chat from the Consumer Service Portal](../task/csm-pre-chat.md)
+[Pre-chat from the Consumer Service Portal](csm-pre-chat.md)
 

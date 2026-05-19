@@ -55,17 +55,17 @@ Role required: admin
 **Related topics**  
 
 
-[Create a document record](../task/create-new-doc.md)
+[Create a document record](create-new-doc.md)
 
 [Document versions](document-mgt-versions.md)
 
-[Download a document](../task/downloading-a-document.md)
+[Download a document](downloading-a-document.md)
 
-[Share a document link](../task/share-document-link.md)
+[Share a document link](share-document-link.md)
 
-[Modify a shared link access](../task/modify-access-shared-link.md)
+[Modify a shared link access](modify-access-shared-link.md)
 
-[Delete a document link](../task/delete-document-link.md)
+[Delete a document link](delete-document-link.md)
 
-[Delete documents](../task/delete-a-doc.md)
+[Delete documents](delete-a-doc.md)
 

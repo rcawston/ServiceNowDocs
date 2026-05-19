@@ -39,7 +39,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 7.  You can also make the release as an out-of-band release by selecting **Out of band**.
 
-    This option depends on the system properties—**out\_of\_band\_release\_allowed** and **out\_of\_band\_release\_roles**. For more information, see [Digital Product Release properties](../reference/digital-product-release-properties.md).
+    This option depends on the system properties—**out\_of\_band\_release\_allowed** and **out\_of\_band\_release\_roles**. For more information, see [Digital Product Release properties](digital-product-release-properties.md).
 
 8.  If you selected the out-of-band option, then select a release calendar from the **Release calendar** to tag the release and use its release target.
 

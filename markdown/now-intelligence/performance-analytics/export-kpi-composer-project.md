@@ -50,7 +50,7 @@ The following fields are not exported with a project:
 
 The KPI Composer project is saved in a JSON file in the download destination of your computer. The file name has the format `ProjectExport.[Project_name].[Timestamp].json`. For example, for a project named Incident Cost Project, the export file name is `ProjectExport.Incident_Cost_Project.2021-11-22_19_13_20.json`.
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](kpi-composer-projects.md)
 
 **Previous topic:**[Share a KPI Composer project](share-a-kpi-composer-project.md)
 

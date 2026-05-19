@@ -19,7 +19,7 @@ For information on configuring the data transfer between the Impact Store Applic
 
 For more information on Service Bridge, see [Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md).
 
-For more information on Impact table mapping, see [Table and field level mapping](table-field-level-mapping.md) and [Dependent applications installed with the Impact Store App](../reference/data-sync-idi-store.md).
+For more information on Impact table mapping, see [Table and field level mapping](table-field-level-mapping.md) and [Dependent applications installed with the Impact Store App](data-sync-idi-store.md).
 
-**Parent Topic:**[Impact reference](../reference/impact-reference.md)
+**Parent Topic:**[Impact reference](impact-reference.md)
 

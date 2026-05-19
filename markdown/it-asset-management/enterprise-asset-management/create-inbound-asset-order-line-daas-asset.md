@@ -72,7 +72,7 @@ From the navigation menu of the Asset operations view, navigate to **Provider** 
 
 ## What to do next
 
-Perform all tasks that are required for completing the inbound asset order line so that you can complete and close the associated inbound asset order. For detailed instructions, see [Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](../concept/completing-inbound-asset-order-daas-assets.md).
+Perform all tasks that are required for completing the inbound asset order line so that you can complete and close the associated inbound asset order. For detailed instructions, see [Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](completing-inbound-asset-order-daas-assets.md).
 
-**Parent Topic:**[Managing inbound asset orders for requested Device as a Service \(DaaS\) assets](../concept/managing-inbound-asset-orders-daas-assets.md)
+**Parent Topic:**[Managing inbound asset orders for requested Device as a Service \(DaaS\) assets](managing-inbound-asset-orders-daas-assets.md)
 

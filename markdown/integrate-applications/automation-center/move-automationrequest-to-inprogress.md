@@ -38,7 +38,7 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
 ## What to do next
 
-Update the **Automation** field in the automation request form. This field is visible only when the state of the automation request is **In progress**. For more information, see [Automation request form from Automation Center](../reference/automation-request-autocenter-form.md).
+Update the **Automation** field in the automation request form. This field is visible only when the state of the automation request is **In progress**. For more information, see [Automation request form from Automation Center](automation-request-autocenter-form.md).
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

@@ -37,7 +37,7 @@ As shown in the following examples, if you’re seeing an empty page, it's becau
 
 To learn more about formula trees, see:
 
--   **[View the calculation breakdown in a formula tree](../task/view-formula-tree.md)**  
+-   **[View the calculation breakdown in a formula tree](view-formula-tree.md)**  
 View a structured and visual representation of the entire calculation chain.
 
 **Parent Topic:**[Using GRC: Metrics to provide data](using-grc-metrics.md)

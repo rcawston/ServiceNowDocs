@@ -21,9 +21,9 @@ Role required: admin
 
 ## Procedure
 
-1.  From the [Upgrade Details form](../reference/uc-upgrade-details-form.md) for the record you are reconciling, click **Resolve Conflicts**.
+1.  From the [Upgrade Details form](uc-upgrade-details-form.md) for the record you are reconciling, click **Resolve Conflicts**.
 
-    The system displays the [Resolve Conflicts form](../reference/uc-resolve-conflicts-form.md), which highlights differences between the two versions of the record. The form displays information about the base system record on the left and the customized record on the right.
+    The system displays the [Resolve Conflicts form](uc-resolve-conflicts-form.md), which highlights differences between the two versions of the record. The form displays information about the base system record on the left and the customized record on the right.
 
     **Note:** The system creates a new customer update record when you click **Resolve Conflicts**.
 

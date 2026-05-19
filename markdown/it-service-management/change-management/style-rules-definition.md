@@ -23,11 +23,11 @@ You can define styles in multiple ways, such as from the Default Style Rules, Ch
 
 **Note:** All style rule tables extend the Style Rule Core table \[chg\_soc\_style\_rule\_core\].
 
--   **[Define default style rules](../task/def-stl-rules-from-stl-rules-table.md)**  
+-   **[Define default style rules](def-stl-rules-from-stl-rules-table.md)**  
 You can define style rules from the Default Style Rules module when you want the style rules to be used by change schedules globally and not for any specific application.
--   **[Define style rules from Change Schedule Definitions](../task/def-stl-rules-from-chng-sch-def.md)**  
+-   **[Define style rules from Change Schedule Definitions](def-stl-rules-from-chng-sch-def.md)**  
 You can define style rules from change schedule definitions when you want the style rules to be applied to the change schedule related to the change schedule definition.
--   **[Define style rules from Change Schedules View](../task/define-style-rules-from-view.md)**  
+-   **[Define style rules from Change Schedules View](define-style-rules-from-view.md)**  
 You can create style rules from the change schedules view when you want the style rules to be applied to the specific change schedule where it is defined.
 
 **Parent Topic:**[Change schedules](change-schedule.md)
@@ -37,9 +37,9 @@ You can create style rules from the change schedules view when you want the styl
 
 [Change schedules view](change-schedules-view.md)
 
-[Create a change schedule from the Change Schedules page](../task/create-chng-sch-from-chng-sch-page.md)
+[Create a change schedule from the Change Schedules page](create-chng-sch-from-chng-sch-page.md)
 
-[Create a change schedule from the change schedule definition](../task/create-chng-sch-from-chng-sch-def.md)
+[Create a change schedule from the change schedule definition](create-chng-sch-from-chng-sch-def.md)
 
-[Add related tasks to a change schedule](../task/add-related-tasks-to-chng-schedule.md)
+[Add related tasks to a change schedule](add-related-tasks-to-chng-schedule.md)
 

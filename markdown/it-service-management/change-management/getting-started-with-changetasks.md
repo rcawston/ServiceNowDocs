@@ -39,5 +39,5 @@ You can add comments to a change task from the Mobile Agent mobile application. 
 -   **[Resolve or close a change task](mobile-resolve-changetask.md)**  
 When you implement the change task, you can close the task from the Mobile Agent mobile application.
 
-**Parent Topic:**[Mobile experience for Change Management](../concept/mobile-experience-cm.md)
+**Parent Topic:**[Mobile experience for Change Management](mobile-experience-cm.md)
 

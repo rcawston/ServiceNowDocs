@@ -37,7 +37,7 @@ If you’re an existing user of Cloud Services Catalog or CSC Innovation Labs:
 -   An upgrade from the previous version isn’t currently supported. To upgrade an existing instance with Cloud Services Catalog or CSC apps, do the following actions:
 -   -   Uninstall the previously installed CSC apps with table clean-ups \(CSC content pack and CSC in order\).
 -   Install new CSC apps \(CSC and CSC content pack in the same order\).
--   As you can run Guided Setup only once in an instance, manually place new Terraform templates in the Terraform box and update the Out Of Box Terraform config provider accordingly and run [Discovery](../../discovery/reference/r-discovery.md).
+-   As you can run Guided Setup only once in an instance, manually place new Terraform templates in the Terraform box and update the Out Of Box Terraform config provider accordingly and run [Discovery](../discovery/r-discovery.md).
 
 For more information, see the components links.
 

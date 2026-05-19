@@ -52,5 +52,5 @@ Only Operational Resilience administrators can view the **Upload** option on the
     The records are downloaded in bulk from the Digital resilience third-party registers.
 
 
-**Parent Topic:**[Configuring Digital resilience third-party registers](../concept/conf-dg-resi-party-regi.md)
+**Parent Topic:**[Configuring Digital resilience third-party registers](conf-dg-resi-party-regi.md)
 

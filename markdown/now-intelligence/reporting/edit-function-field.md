@@ -46,5 +46,5 @@ Role required: admin, function\_field\_admin
 
 The results of the edited function field replace the old results in all reports in which the function field is used.
 
-**Parent Topic:**[Report on function fields](../concept/function-fields-reporting.md)
+**Parent Topic:**[Report on function fields](function-fields-reporting.md)
 

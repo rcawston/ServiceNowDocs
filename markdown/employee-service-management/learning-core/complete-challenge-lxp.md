@@ -36,5 +36,5 @@ Role required: no role required
 
 The current challenge will be completed, but you can always revisit it under the **Activity** tab.
 
-**Parent Topic:**[Create a Learning challenge](../concept/learning-challenge.md)
+**Parent Topic:**[Create a Learning challenge](learning-challenge.md)
 

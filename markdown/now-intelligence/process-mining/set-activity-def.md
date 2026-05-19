@@ -220,7 +220,7 @@ This field is available only if you choose **Field Values \(Default\)** in the *
     For more information, see [Set improvement opportunities](improve-opportunities.md)
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](scope-analysis.md)
 
 **Related topics**  
 

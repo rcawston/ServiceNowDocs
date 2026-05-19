@@ -82,15 +82,15 @@ Status of transcripts in the Cornerstone OnDemand system.
 **Related topics**  
 
 
-[Source for HR Service Delivery Integration with Cornerstone OnDemand](../concept/hr-cornerstone-properties.md)
+[Source for HR Service Delivery Integration with Cornerstone OnDemand](hr-cornerstone-properties.md)
 
-[HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand](../concept/cornerstone-hr-service.md)
+[HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand](cornerstone-hr-service.md)
 
-[Users for HR Service Delivery Integration with Cornerstone OnDemand](../concept/users-cornerstone.md)
+[Users for HR Service Delivery Integration with Cornerstone OnDemand](users-cornerstone.md)
 
-[Learning objects for HR Service Delivery Integration with Cornerstone OnDemand](../concept/learning-objects-corner.md)
+[Learning objects for HR Service Delivery Integration with Cornerstone OnDemand](learning-objects-corner.md)
 
-[Status mapping in Cornerstone OnDemand System](../concept/status-cornerstone.md)
+[Status mapping in Cornerstone OnDemand System](status-cornerstone.md)
 
 [Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](transform-maps-cornerstone.md)
 

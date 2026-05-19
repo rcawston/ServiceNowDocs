@@ -56,5 +56,5 @@ Role required: admin
     A confirmation message is displayed whether you want to publish the report template.
 
 
-**Parent Topic:**[Configure report templates in Security Incident Response](../concept/daily-status-sir.md)
+**Parent Topic:**[Configure report templates in Security Incident Response](daily-status-sir.md)
 

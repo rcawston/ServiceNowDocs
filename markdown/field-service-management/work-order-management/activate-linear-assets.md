@@ -21,7 +21,7 @@ Linear asset support for Field Service Management requires activation of the fol
 
 -   **Field Service Management \(com.snc.work\_management\)**
 
-    Enables you to manage work requests that are performed on location by field service agents. For more information, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+    Enables you to manage work requests that are performed on location by field service agents. For more information, see [Activate Field Service Management](../t_ActivateFieldServiceManagement.md).
 
 -   **Field Service with Service Locations \(com.snc.fsm\_service\_locations\)**
 
@@ -53,7 +53,7 @@ The following items are installed with Enterprise Asset Management:
 -   Properties
 -   Business rules
 
-For more information, see [Linear Assets Support properties](../reference/linear-asset-support-properties.md).
+For more information, see [Linear Assets Support properties](../linear-asset-support-properties.md).
 
 ## Procedure
 
@@ -73,5 +73,5 @@ For more information, see [Linear Assets Support properties](../reference/linear
 **Related topics**  
 
 
-[Assign work orders for linear assets in Field Service Management](../concept/managing-linear-assets-fsm.md)
+[Assign work orders for linear assets in Field Service Management](managing-linear-assets-fsm.md)
 

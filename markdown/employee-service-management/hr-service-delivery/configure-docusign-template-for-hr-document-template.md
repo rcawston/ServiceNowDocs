@@ -145,5 +145,5 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 10. Click **Update**.
 
 
-**Parent Topic:**[Integrating with the DocuSign service](../concept/docusign-integration-for-hr.md)
+**Parent Topic:**[Integrating with the DocuSign service](docusign-integration-for-hr.md)
 

@@ -46,5 +46,5 @@ Role required: none
 
 The connection is set between UiPath and Automation Center. Whenever you send UiPath data to the instance, it happens via the URL provided. UiPath spoke validates the secret and accepts the data.
 
-**Parent Topic:**[Configuring UiPath with Automation Center](../concept/uipath-config.md)
+**Parent Topic:**[Configuring UiPath with Automation Center](uipath-config.md)
 

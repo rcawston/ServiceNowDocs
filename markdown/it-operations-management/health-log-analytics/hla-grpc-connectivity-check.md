@@ -41,5 +41,5 @@ Your organization's network and security configuration may be keeping Health Log
 5.  Select **Test gRPC connection** again and confirm that all the tests are completed successfully.
 
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](../concept/hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)
 

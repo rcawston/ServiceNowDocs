@@ -17,7 +17,7 @@ View a map of the job site and get directions to the specific on-site location.
 
 ## Before you begin
 
-To view site maps, administrators must activate the Site Mapping for Field Service Management plugin \(com.\). For more information, see [Activate Site Mapping for Field Service Management](activate-sitemap-fsm.md).
+To view site maps, administrators must activate the Site Mapping for Field Service Management plugin \(com.\). For more information, see [Activate Site Mapping for Field Service Management](../mobile-experience-for-field-service-management-glide-family/activate-sitemap-fsm.md).
 
 Role required: wm\_agent
 

@@ -27,7 +27,7 @@ Updates
 
 </th></tr></thead><tbody><tr><td>
 
-[Require authorization for SOAP requests](../reference/sc-soap-request-authorization.md)
+[Require authorization for SOAP requests](sc-soap-request-authorization.md)
 
 </td><td>
 
@@ -41,7 +41,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Escape jelly script \[Updated in Security Center 1.3 and 1.5\]](../reference/sc-escape-jelly.md)
+[Escape jelly script \[Updated in Security Center 1.3 and 1.5\]](sc-escape-jelly.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Prevent Users From Accepting Warning To Bypass CSRF Validation \[Updated in Security Center 1.3 and 1.5\]](../reference/sc-csrf-strict-validation.md)
+[Prevent Users From Accepting Warning To Bypass CSRF Validation \[Updated in Security Center 1.3 and 1.5\]](sc-csrf-strict-validation.md)
 
 </td><td>
 
@@ -63,7 +63,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Require Authentication on Event Management HTTP Processor \[New in Security Center 1.3, Updated in 1.5, and removed in 2.0\]](../reference/sc-require-authentication-on-event-management-http-processor.md)
+[Require Authentication on Event Management HTTP Processor \[New in Security Center 1.3, Updated in 1.5, and removed in 2.0\]](sc-require-authentication-on-event-management-http-processor.md)
 
 </td><td>
 
@@ -72,7 +72,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Enable Anti-CSRF token \[New in Security Center 1.3, updated in 1.5, and removed in 2.0\]](../reference/sc-anti-csrf-token.md)
+[Enable Anti-CSRF token \[New in Security Center 1.3, updated in 1.5, and removed in 2.0\]](sc-anti-csrf-token.md)
 
 </td><td>
 
@@ -81,7 +81,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Enable HTML Sanitizer within Virtual Agent](../reference/sc-enable-html-sanitizer.md)
+[Enable HTML Sanitizer within Virtual Agent](sc-enable-html-sanitizer.md)
 
 </td><td>
 
@@ -92,7 +92,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Deny internal access to explicit external roles \[Updated in Security Center 1.3 and 1.5\]](../../security/reference/sc-enable-explicit-roles-internal-denylist.md)
+[Deny internal access to explicit external roles \[Updated in Security Center 1.3 and 1.5\]](sc-enable-explicit-roles-internal-denylist.md)
 
 </td><td>
 
@@ -109,7 +109,7 @@ Misconfiguration of these properties increases the risk that an external user ac
 
 </td></tr><tr><td>
 
-[Require authorization for WSDL request](../reference/sc-wsdl-request-authorization.md)
+[Require authorization for WSDL request](sc-wsdl-request-authorization.md)
 
 </td><td>
 
@@ -120,7 +120,7 @@ Misconfiguration of these properties increases the risk that an external user ac
 
 </td></tr><tr><td>
 
-[Enforce URL allowlist check](../reference/sc-enforce-url-allowlist-check.md)
+[Enforce URL allowlist check](sc-enforce-url-allowlist-check.md)
 
 </td><td>
 
@@ -128,7 +128,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Define restricted downloadable MIME types \[Updated in Security Center 1.3, 1.5, and 2.0\]](../reference/sc-downloadable-mime-types.md)
+[Define restricted downloadable MIME types \[Updated in Security Center 1.3, 1.5, and 2.0\]](sc-downloadable-mime-types.md)
 
 </td><td>
 
@@ -139,7 +139,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Escape HTML in list views \[Updated in Security Center 1.3 and 1.5\]](../reference/sc-escape-html.md)
+[Escape HTML in list views \[Updated in Security Center 1.3 and 1.5\]](sc-escape-html.md)
 
 </td><td>
 
@@ -148,7 +148,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict email domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](../reference/sc-external-user-registration-email-domain-allowlist.md)
+[Restrict email domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](sc-external-user-registration-email-domain-allowlist.md)
 
 </td><td>
 
@@ -160,7 +160,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable CAPTCHA for External User Registration](../reference/sc-enable-captcha-external-user-registration.md)
+[Enable CAPTCHA for External User Registration](sc-enable-captcha-external-user-registration.md)
 
 </td><td>
 
@@ -170,7 +170,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Minimize external user registration link expiration duration](../reference/sc-external-user-registration-link-expiration.md)
+[Minimize external user registration link expiration duration](sc-external-user-registration-link-expiration.md)
 
 </td><td>
 
@@ -180,7 +180,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disallow infected file download](../reference/sc-disallow-infected-files-download.md)
+[Disallow infected file download](sc-disallow-infected-files-download.md)
 
 </td><td>
 
@@ -192,7 +192,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Validate file mime type in AttachmentCreator soap web service \[New in Security Center 1.3 and updated in 1.5\]](../reference/sc-validate-file-mime-type-in-attachmentcreator.md)
+[Validate file mime type in AttachmentCreator soap web service \[New in Security Center 1.3 and updated in 1.5\]](sc-validate-file-mime-type-in-attachmentcreator.md)
 
 </td><td>
 
@@ -203,7 +203,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable MultiSSO Debugging](../reference/sc-disable-multisso-debugging.md)
+[Disable MultiSSO Debugging](sc-disable-multisso-debugging.md)
 
 </td><td>
 
@@ -212,7 +212,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Reduce the Scope of the IP Allow List for an Instance](../reference/sc-ip-addresses-access-allowlist.md)
+[Reduce the Scope of the IP Allow List for an Instance](sc-ip-addresses-access-allowlist.md)
 
 </td><td>
 
@@ -226,7 +226,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable Entity Expansion within the XMLDocument2 Streaming Parser](../reference/sc-disable-entity-expansion.md)
+[Disable Entity Expansion within the XMLDocument2 Streaming Parser](sc-disable-entity-expansion.md)
 
 </td><td>
 
@@ -236,7 +236,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Apply domain separation on dot walked fields](../reference/sc-apply-domain-separation.md)
+[Apply domain separation on dot walked fields](sc-apply-domain-separation.md)
 
 </td><td>
 
@@ -246,7 +246,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict permissions for CMDB model](../reference/sc-restrict-permissions-cmdb-model.md)
+[Restrict permissions for CMDB model](sc-restrict-permissions-cmdb-model.md)
 
 </td><td>
 
@@ -254,7 +254,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require clearing pasteboard when backgrounding mobile application](../reference/sc-require-clearing-pasteboard-when-backgrounding-mobile-application.md)
+[Require clearing pasteboard when backgrounding mobile application](sc-require-clearing-pasteboard-when-backgrounding-mobile-application.md)
 
 </td><td>
 
@@ -263,7 +263,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable account recovery](../reference/sc-account-recovery.md)
+[Enable account recovery](sc-account-recovery.md)
 
 </td><td>
 
@@ -272,7 +272,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable SQL error messages](../reference/sc-disabling-sql-error-messages.md)
+[Disable SQL error messages](sc-disabling-sql-error-messages.md)
 
 </td><td>
 
@@ -281,7 +281,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enforce relative links](../reference/sc-enforce-relative-links.md)
+[Enforce relative links](sc-enforce-relative-links.md)
 
 </td><td>
 
@@ -290,7 +290,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Minimize Entity Expansion Threshold for GlideXMLUtil Scriptable](../reference/sc-setting-entity-expansion-threshold.md)
+[Minimize Entity Expansion Threshold for GlideXMLUtil Scriptable](sc-setting-entity-expansion-threshold.md)
 
 </td><td>
 
@@ -302,7 +302,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable GlideRecord Scope Fencing Legacy Behavior](../reference/sc-enable-gliderecord-scope-fencing-legacy-behavior.md)
+[Disable GlideRecord Scope Fencing Legacy Behavior](sc-enable-gliderecord-scope-fencing-legacy-behavior.md)
 
 </td><td>
 
@@ -311,7 +311,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable SSL in LDAP authentication \[Updated in Security Center 1.5 and 2.0\]](../reference/sc-enable-ssl-in-ldap-authentication.md)
+[Enable SSL in LDAP authentication \[Updated in Security Center 1.5 and 2.0\]](sc-enable-ssl-in-ldap-authentication.md)
 
 </td><td>
 
@@ -319,7 +319,7 @@ Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enforce password reset on api requests](../reference/sc-enforce-password-reset-on-api-requests.md)
+[Enforce password reset on api requests](sc-enforce-password-reset-on-api-requests.md)
 
 </td><td>
 
@@ -327,7 +327,7 @@ Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Do not apply password policy at login \[Updated in Security Center 1.5 and removed in 2.0\]](../reference/sc-do-not-apply-password-policy-at-login.md)
+[Do not apply password policy at login \[Updated in Security Center 1.5 and removed in 2.0\]](sc-do-not-apply-password-policy-at-login.md)
 
 </td><td>
 
@@ -356,7 +356,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Do not use demo certificates for active SAML configurations](../reference/sc-do-not-use-demo-certificates-active-saml-configurations-plugin.md)
+[Do not use demo certificates for active SAML configurations](sc-do-not-use-demo-certificates-active-saml-configurations-plugin.md)
 
 </td><td>
 
@@ -365,7 +365,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Minimize SAML notBefore or notOnOrAfter constraint duration \[Updated in Security Center 1.3 and 1.5\]](../reference/sc-saml-notbefore-or-notonorafter-constraint.md)
+[Minimize SAML notBefore or notOnOrAfter constraint duration \[Updated in Security Center 1.3 and 1.5\]](sc-saml-notbefore-or-notonorafter-constraint.md)
 
 </td><td>
 
@@ -374,7 +374,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Block Expired Anti-CSRF Tokens](../reference/sc-block-expired-csrf-tokens.md)
+[Block Expired Anti-CSRF Tokens](sc-block-expired-csrf-tokens.md)
 
 </td><td>
 
@@ -383,7 +383,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Require CAPTCHA for guest walk-up experience in customer service application](../reference/sc-require-captcha-for-guest-walk-up-experience-in-customer-service-application.md)
+[Require CAPTCHA for guest walk-up experience in customer service application](sc-require-captcha-for-guest-walk-up-experience-in-customer-service-application.md)
 
 </td><td>
 
@@ -392,7 +392,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Check impersonation on ACL evaluation in HR App \[New in Security Center 1.3 and updated in 1.5\]](../reference/sc-check-impersonation-on-acl-evaluation-in-hr-app-plugin-applicability-human-resources-scoped-app.md)
+[Check impersonation on ACL evaluation in HR App \[New in Security Center 1.3 and updated in 1.5\]](sc-check-impersonation-on-acl-evaluation-in-hr-app-plugin-applicability-human-resources-scoped-app.md)
 
 </td><td>
 
@@ -401,7 +401,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Restrict HR case updates from personal emails](../reference/sc-restrict-hr-case-updates-from-personal-emails-plugin-applicability-human-resources-scoped-app.md)
+[Restrict HR case updates from personal emails](sc-restrict-hr-case-updates-from-personal-emails-plugin-applicability-human-resources-scoped-app.md)
 
 </td><td>
 
@@ -411,7 +411,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Enable MID audit log](../reference/sc-enable-mid-audit-log-plugin-applicability-mid-server.md)
+[Enable MID audit log](sc-enable-mid-audit-log-plugin-applicability-mid-server.md)
 
 </td><td>
 
@@ -420,7 +420,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Required JMS connection factories](../reference/sc-required-jms-connection-factories-plugin-applicability-mid-server.md)
+[Required JMS connection factories](sc-required-jms-connection-factories-plugin-applicability-mid-server.md)
 
 </td><td>
 
@@ -430,7 +430,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Limit attachment size in training and prediction flows \[New in Security Center 1.3 and updated in 1.5\]](../reference/sc-limit-attachment-size-in-training-and-prediction-flows-plugin-applicability-platform-document-intelligence.md)
+[Limit attachment size in training and prediction flows \[New in Security Center 1.3 and updated in 1.5\]](sc-limit-attachment-size-in-training-and-prediction-flows-plugin-applicability-platform-document-intelligence.md)
 
 </td><td>
 
@@ -439,7 +439,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td></tr><tr><td>
 
-[Ensure archive table ACLs are checked](../reference/sc-ensure-archive-table-acls-are-checked.md)
+[Ensure archive table ACLs are checked](sc-ensure-archive-table-acls-are-checked.md)
 
 </td><td>
 
@@ -447,7 +447,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Log session audit events](../reference/sc-log-session-audit-events.md)
+[Log session audit events](sc-log-session-audit-events.md)
 
 </td><td>
 
@@ -456,7 +456,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enforce scoped ACL access for information request playbooks \[New in Security Center 1.3 and updated in 1.5\]](../reference/sc-enforce-scoped-acl-access-for-information-request-playbooks.md)
+[Enforce scoped ACL access for information request playbooks \[New in Security Center 1.3 and updated in 1.5\]](sc-enforce-scoped-acl-access-for-information-request-playbooks.md)
 
 </td><td>
 
@@ -466,7 +466,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Proactively Invalidate Sessions After Defined Durations](../reference/sc-proactively-invalidate-inactive-sessions.md)
+[Proactively Invalidate Sessions After Defined Durations](sc-proactively-invalidate-inactive-sessions.md)
 
 </td><td>
 
@@ -475,7 +475,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Limit HTTP response body size \[New in Security Center 1.3 and updated in 1.5\]](../reference/sc-limit-http-response-body-size.md)
+[Limit HTTP response body size \[New in Security Center 1.3 and updated in 1.5\]](sc-limit-http-response-body-size.md)
 
 </td><td>
 

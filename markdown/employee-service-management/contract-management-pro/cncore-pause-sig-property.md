@@ -49,14 +49,14 @@ Role required: sn\_cm\_core.contract\_admin
 
 ## Result
 
-The signature pause time duration is set. For more information on the signature workflow, see [Signature workflow for a contract request](../concept/cncore-signature-workflow.md) and [Modify signatories](cncore-pause-signature.md).
+The signature pause time duration is set. For more information on the signature workflow, see [Signature workflow for a contract request](cncore-signature-workflow.md) and [Modify signatories](cncore-pause-signature.md).
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](../concept/cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](../concept/cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](cncore-conf-cntrct-wrkspc.md)
 
 [Auto-populate the start date and end date for contract requests](cncore-conf-start-end-date-for-cntrcts.md)
 
@@ -72,5 +72,5 @@ The signature pause time duration is set. For more information on the signature 
 
 [Copy fields from parent request to amendment request](cncore-cpy-fld-parent-amedreq.md)
 
-[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+[Manage notifications in Contract Management Pro](cmpro-manage-notifications.md)
 

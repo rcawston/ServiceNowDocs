@@ -18,42 +18,42 @@ Learn about ERP \(Enterprise Resource Planning\) terminology and concepts that a
 
 **Important:** Starting with the Zurich release, ERP Semantic Mining is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
--   **[BAPI](../../../reuse/glossary/B/gloss-bapi.md)**  
+-   **[BAPI](gloss-bapi.md)**  
 
--   **[candidate](../../../reuse/glossary/C/gloss-candidate-erp.md)**  
+-   **[candidate](gloss-candidate-erp.md)**  
 
--   **[candidate score](../../../reuse/glossary/C/gloss-candidate-score-erp.md)**  
+-   **[candidate score](gloss-candidate-score-erp.md)**  
 
--   **[connection and credential alias](../../../reuse/glossary/C/gloss-connection-cred-alias-erp.md)**  
+-   **[connection and credential alias](gloss-connection-cred-alias-erp.md)**  
 
--   **[custom fields](../../../reuse/glossary/C/gloss-custom-fields-erp.md)**  
+-   **[custom fields](gloss-custom-fields-erp.md)**  
 
--   **[entity](../../../reuse/glossary/E/gloss-entity-erp.md)**  
+-   **[entity](gloss-entity-erp.md)**  
 
--   **[ERP application](../../../reuse/glossary/E/gloss-erp-application.md)**  
+-   **[ERP application](gloss-erp-application.md)**  
 
--   **[ERP model](../../../reuse/glossary/E/gloss-erp-model.md)**  
+-   **[ERP model](gloss-erp-model.md)**  
 
--   **[ERP module](../../../reuse/glossary/E/gloss-erp-module.md)**  
+-   **[ERP module](gloss-erp-module.md)**  
 
--   **[ERP system](../../../reuse/glossary/E/gloss-erp-system.md)**  
+-   **[ERP system](gloss-erp-system.md)**  
 
--   **[ERP table](../../../reuse/glossary/E/gloss-erp-table.md)**  
+-   **[ERP table](gloss-erp-table.md)**  
 
--   **[extraction table](../../../reuse/glossary/E/gloss-extraction-table-erp.md)**  
+-   **[extraction table](gloss-extraction-table-erp.md)**  
 
--   **[mapped value](../../../reuse/glossary/M/gloss-mapped-value-erp.md)**  
+-   **[mapped value](gloss-mapped-value-erp.md)**  
 
--   **[odata](../../../reuse/glossary/O/gloss-odata-erp.md)**  
+-   **[odata](gloss-odata-erp.md)**  
 
--   **[operation](../../../reuse/glossary/O/gloss-operation-erp.md)**  
+-   **[operation](gloss-operation-erp.md)**  
 
--   **[remote table](../../../reuse/glossary/R/gloss-remote-table-erp.md)**  
+-   **[remote table](gloss-remote-table-erp.md)**  
 
--   **[system of record](../../../reuse/glossary/S/gloss-system-of-record-erp.md)**  
+-   **[system of record](gloss-system-of-record-erp.md)**  
 
 
 **Parent Topic:**[Zero Copy Connector for ERP reference](erp-integration-reference.md)
 
-**Parent Topic:**[ERP Semantic Mining reference](../../erp-customization-mining/reference/erp-customization-mining-ref.md)
+**Parent Topic:**[ERP Semantic Mining reference](../erp-customization-mining/erp-customization-mining-ref.md)
 

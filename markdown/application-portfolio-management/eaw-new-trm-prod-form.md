@@ -84,7 +84,7 @@ Business justification for the product request.
 **Related topics**  
 
 
-[Add or edit your TRM products](../../task/eaw-task/eaw-add-edit-my-trm-prod.md)
+[Add or edit your TRM products](eaw-add-edit-my-trm-prod.md)
 
-[Add a TRM product in Enterprise Architecture Workspace](../../task/eaw-task/eaw-create-trm-prod-lifecycle.md)
+[Add a TRM product in Enterprise Architecture Workspace](eaw-create-trm-prod-lifecycle.md)
 

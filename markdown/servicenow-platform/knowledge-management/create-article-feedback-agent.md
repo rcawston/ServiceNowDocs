@@ -56,7 +56,7 @@ Select an article template to create a knowledge article using defined fields an
 **Note:** The Article Template list is populated based on the article templates configured for the selected knowledge base.
 
 3.  Select **Create Article**.
- The Create Article dialog box is available if the article versioning and the Knowledge Article Templates features are enabled. For more information, see [Article versioning](../concept/article-versioning.md) and [Knowledge article templates](../concept/knowledge-article-templates.md).
+ The Create Article dialog box is available if the article versioning and the Knowledge Article Templates features are enabled. For more information, see [Article versioning](article-versioning.md) and [Knowledge article templates](knowledge-article-templates.md).
 
 </td></tr><tr><td id="d487516e200">
 
@@ -101,7 +101,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge article. An ownership group consists of a group of members and a manager who are responsible for approvals and feedback tasks. Ownership groups can publish, edit, and retire knowledge articles that they’re associated with.**Note:** This field is available only if the **glide.knowman.ownership\_group.enabled** property is enabled. If no ownership group is assigned and approvals are required to publish a knowledge article, it’s automatically submitted for approval to the knowledge administrator and knowledge manager. For more information, see [Ownership groups](../concept/enable-ownership-group.md).
+Ownership group for the knowledge article. An ownership group consists of a group of members and a manager who are responsible for approvals and feedback tasks. Ownership groups can publish, edit, and retire knowledge articles that they’re associated with.**Note:** This field is available only if the **glide.knowman.ownership\_group.enabled** property is enabled. If no ownership group is assigned and approvals are required to publish a knowledge article, it’s automatically submitted for approval to the knowledge administrator and knowledge manager. For more information, see [Ownership groups](enable-ownership-group.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Language
 
 </td><td>
 
-The language in which you’re creating the knowledge article. The list is populated based on the languages enabled for the selected knowledge base. This field appears only when the I18N:Knowledge Management Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\) is activated. For more information, see [I18N - Knowledge internationalization](../concept/c_I18NKMInternational.md).
+The language in which you’re creating the knowledge article. The list is populated based on the languages enabled for the selected knowledge base. This field appears only when the I18N:Knowledge Management Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\) is activated. For more information, see [I18N - Knowledge internationalization](c_I18NKMInternational.md).
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ Article body
 
 </td><td>
 
-Content for the knowledge article. Use the editing functions in the HTML editor to create content. For more information, see [Editing functions for knowledge articles in the HTML editor](../concept/knowledge-html-editor.md).
+Content for the knowledge article. Use the editing functions in the HTML editor to create content. For more information, see [Editing functions for knowledge articles in the HTML editor](knowledge-html-editor.md).
 
 </td></tr><tr><td>
 
@@ -169,9 +169,9 @@ Valid to
 
 The date this knowledge article expires. Articles don’t appear in search results after the **Valid to** date or if the **Valid to** date is empty. The default value of the **Valid to** field is derived from the **Article Validity** field configured for the knowledge base \(see [Create a knowledge base](create-a-knowledgebase.md)\). The **Valid to** date starts from the date that the article was created until the number of days specified in the **Article Validity** field. If the **Article Validity** field is empty, the default date in the **Valid to** field for the knowledge article is set to January 1, 2100.
 
- An article author or editor can select whether to keep or change the default **Valid to** date. For more information, see [Validity of a knowledge article](../concept/article-validity.md).
+ An article author or editor can select whether to keep or change the default **Valid to** date. For more information, see [Validity of a knowledge article](article-validity.md).
 
- On the first day of each month, the application sends an email notification to a list of authorized recipients to remind them about articles that are expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](../concept/email-notifications-km.md).
+ On the first day of each month, the application sends an email notification to a list of authorized recipients to remind them about articles that are expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](email-notifications-km.md).
 
  **Note:** If the system date format or user preferences is set to use `yy` year format, you might face issues when the **Valid to** date is set to the default date. Contact your administrator or modify the user preferences to use a date format with the `yyyy` year format. For more information, see [Global date and time field format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_FormatDateAndTimeFields.md) and [Personalize the system date format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_PersonalizeTheSystemDateFormat.md) topics.
 
@@ -288,7 +288,7 @@ Explanation
 Explanation of a what-is topic. **Note:** This field is available in the What Is template only.
 
 </td></tr></tbody>
-</table>    **Note:** The **Confidence** and **Governance** fields appear when the Knowledge Management KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\) is activated. For more information, see [Managing the KCS article state](../concept/managing-kcs-article-states.md).
+</table>    **Note:** The **Confidence** and **Governance** fields appear when the Knowledge Management KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\) is activated. For more information, see [Managing the KCS article state](managing-kcs-article-states.md).
 
 7.  Research for content related to knowledge article you're authoring using Agent assist.
 
@@ -334,11 +334,11 @@ Explanation of a what-is topic. **Note:** This field is available in the What Is
         -   **Knowledge - Instant Publish**: The knowledge article is immediately published unless it is scheduled to be published at a later date.
         -   **Knowledge - Approval Publish**: The knowledge article is published on approval completion unless it is scheduled to be published at a later date.
 
-            **Note:** With an ownership group associated with a knowledge article, ownership group members can approve self-authored articles for publication. An administrator can override this behavior by disabling the **glide.knowman.ownership\_group.enable\_self\_approval** property. For more information, see [Ownership groups](../concept/enable-ownership-group.md).
+            **Note:** With an ownership group associated with a knowledge article, ownership group members can approve self-authored articles for publication. An administrator can override this behavior by disabling the **glide.knowman.ownership\_group.enable\_self\_approval** property. For more information, see [Ownership groups](enable-ownership-group.md).
 
         For more information, see [Schedule a knowledge article for publishing in Agent Workspace](schedule-article-publishing-agent.md).
 
-        When published, your knowledge article appears in the My Articles - Published and All Articles lists. If the article versioning feature is enabled, the version number of the knowledge article is updated. For more information, see [Knowledge article version numbers](../concept/knowledge-article-version-numbers.md).
+        When published, your knowledge article appears in the My Articles - Published and All Articles lists. If the article versioning feature is enabled, the version number of the knowledge article is updated. For more information, see [Knowledge article version numbers](knowledge-article-version-numbers.md).
 
 
 ## What to do next
@@ -346,7 +346,7 @@ Explanation of a what-is topic. **Note:** This field is available in the What Is
 After you create and publish a knowledge article, you can perform the following actions related to the article:
 
 -   Request translations for the knowledge article. For more information, see [Request translations for missing languages in Agent Workspace](request-translations-agent.md).
--   Retire the knowledge article. Click **Retire** to enable the retirement workflow. For more information, see [Retire a knowledge article](../concept/c_RetiredKnowledgeArticles.md).
+-   Retire the knowledge article. Click **Retire** to enable the retirement workflow. For more information, see [Retire a knowledge article](c_RetiredKnowledgeArticles.md).
 -   Translate the knowledge article directly from the knowledge article. For more information, see [Translate a knowledge article in Agent Workspace](translate-directly-workspace.md).
 -   Delete the published knowledge article. Click **Delete**. If the **Delete** button isn't displayed, click the more actions icon \(![More actions icon.](../image/more.png)\), and then click **Delete**.
 

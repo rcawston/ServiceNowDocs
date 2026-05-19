@@ -46,5 +46,5 @@ You can make the following types of pricing adjustments for quote line items as 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

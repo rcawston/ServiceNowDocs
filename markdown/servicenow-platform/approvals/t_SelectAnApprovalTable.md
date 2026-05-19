@@ -39,5 +39,5 @@ E-signature approvals can also be enabled on a table-by-table basis.
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Approval with e-signature](../concept/approval-with-e-signature.md)
+**Parent Topic:**[Approval with e-signature](approval-with-e-signature.md)
 

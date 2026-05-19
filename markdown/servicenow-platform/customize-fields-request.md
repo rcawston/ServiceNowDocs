@@ -40,5 +40,5 @@ Role required: oam\_admin
     ![Request approval in Microsoft Outlook](../image/oam-request2.png)
 
 
-**Parent Topic:**[Customize fields for the approval message](../concept/customize-approval-message.md)
+**Parent Topic:**[Customize fields for the approval message](customize-approval-message.md)
 

@@ -39,13 +39,13 @@ After you upgrade to Service Graph Connector for Microsoft Defender Endpoint 1.2
 
 ## Configuring a connection for the connector
 
-Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to install the connector and configure the connection. The view enables you to install and discover connectors and to manage the full life cycle of creating, editing, monitoring, and debugging connections. For instructions, see [Configure Service Graph Connector for Microsoft Defender Endpoint using SGC Central](../../sgc-central/task/sgcc-configure-msdefender.md).
+Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to install the connector and configure the connection. The view enables you to install and discover connectors and to manage the full life cycle of creating, editing, monitoring, and debugging connections. For instructions, see [Configure Service Graph Connector for Microsoft Defender Endpoint using SGC Central](sgcc-configure-msdefender.md).
 
 **Important:** Unless there are configuration issues, use SGC Central to configure the connection. The guided setup method for configuration is being deprecated.
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Defender for Endpoint integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Defender for Endpoint integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 
@@ -70,9 +70,9 @@ The following data source is included for the Microsoft Defender for Endpoint se
 
 **Note:** Only operating system details are populated in the Software Installation \[cmdb\_sam\_sw\_install\], Software Instance \[cmdb\_software\_instance\], and Software \[cmdb\_ci\_spkg\] tables.
 
-For more information on where data is saved when pulling data from the Microsoft Defender for Endpoint security solution, see [CMDB classes targeted in Service Graph Connector for Microsoft Defender Endpoint](../reference/sgc-cmdb-msdefender-classes.md).
+For more information on where data is saved when pulling data from the Microsoft Defender for Endpoint security solution, see [CMDB classes targeted in Service Graph Connector for Microsoft Defender Endpoint](sgc-cmdb-msdefender-classes.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 
 **Related topics**  
 

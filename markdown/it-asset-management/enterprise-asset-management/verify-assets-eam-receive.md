@@ -46,7 +46,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 The state of the Receive task and its Drop off task changes to Closed Complete.
 
-**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](../concept/drop-off-receive-assets-eam.md)
+**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](drop-off-receive-assets-eam.md)
 
 **Related topics**  
 
@@ -55,5 +55,5 @@ The state of the Receive task and its Drop off task changes to Closed Complete.
 
 [Drop off enterprise assets at a stockroom](add-eam-assets-drop-off.md)
 
-[Record time worked on Drop off and Receive tasks for enterprise assets](../concept/record-time-drop-receive.md)
+[Record time worked on Drop off and Receive tasks for enterprise assets](record-time-drop-receive.md)
 

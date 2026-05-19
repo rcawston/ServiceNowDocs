@@ -28,5 +28,5 @@ Role required: admin
     ![ZSNOW interface debugging table](../image/sap-solman-interface-debugging-table.png)
 
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](sap-solman-configurations.md)
 

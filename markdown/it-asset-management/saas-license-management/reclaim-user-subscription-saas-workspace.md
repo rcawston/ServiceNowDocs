@@ -17,7 +17,7 @@ Reclaim unused SaaS and SSO subscriptions in the Software Asset Workspace.
 
 ## Before you begin
 
-To reclaim user subscriptions in the Software Asset Workspace, you must request and activate the Software Asset Workspace \(sn\_sam\_workspace\) store application. See [Request Software Asset Management](t_RequSoftwareAssetMgmt.md) for more details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application.
+To reclaim user subscriptions in the Software Asset Workspace, you must request and activate the Software Asset Workspace \(sn\_sam\_workspace\) store application. See [Request Software Asset Management](../software-asset-management/t_RequSoftwareAssetMgmt.md) for more details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application.
 
 Role required: sam\_user
 
@@ -35,7 +35,7 @@ Role required: sam\_user
 
 2.  To reclaim a user subscription that was not automatically identified by a software reclamation rule, create a software removal candidate.
 
-    See [Create a software removal candidate in workspace](add-sw-removal-workspace.md) for detailed instructions on how to create a software removal candidate in the Software Asset Workspace.
+    See [Create a software removal candidate in workspace](../software-asset-management/add-sw-removal-workspace.md) for detailed instructions on how to create a software removal candidate in the Software Asset Workspace.
 
 3.  From the left navigation menu of the Software Asset Workspace, select **License usage**.
 
@@ -63,5 +63,5 @@ Reclaim unused monday.com subscriptions to reduce your total software costs.
 -   **[Reclaim Roadmunk user subscriptions in the Software Asset Workspace](reclaim-roadmunk-subscription-workspace.md)**  
 Reclaim unused Roadmunk subscriptions to reduce your total software costs.
 
-**Parent Topic:**[Reclaiming user subscriptions](../concept/reclaiming-user-subscriptions-saas.md)
+**Parent Topic:**[Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 

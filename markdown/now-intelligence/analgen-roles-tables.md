@@ -44,5 +44,5 @@ sn\_query\_gen.user
 
 Data visualization generation does not include any tables of its own. However, it relies on the Query Generation back end, which does include several tables. For more information, see [Query Generation](query-generation.md).
 
-**Parent Topic:**[Reference for dashboard and visualization skills](../reference/analgen-reference.md)
+**Parent Topic:**[Reference for dashboard and visualization skills](analgen-reference.md)
 

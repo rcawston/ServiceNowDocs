@@ -26,5 +26,5 @@ Reduce stock for a Personal Protective Equipment \(PPE\) model to reflect accura
 5.  [Create stock rules for PPE](create-ppe-stock-rule.md)  
 Create a stock rule to automatically resupply a stockroom with an item.
 
-**Parent Topic:**[Workplace PPE Inventory Management](../concept/ppe-inventory-management.md)
+**Parent Topic:**[Workplace PPE Inventory Management](ppe-inventory-management.md)
 

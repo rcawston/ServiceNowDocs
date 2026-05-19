@@ -55,7 +55,7 @@ Role required: sn\_aia.admin
 
 The chat assistant is activated in the Business Portal.
 
-**Parent Topic:**[Configuring Now Assist for Order Management](../concept/now-assist-for-order-management-configuring.md)
+**Parent Topic:**[Configuring Now Assist for Order Management](now-assist-for-order-management-configuring.md)
 
 **Related topics**  
 

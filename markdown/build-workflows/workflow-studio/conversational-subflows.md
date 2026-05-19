@@ -23,15 +23,15 @@ This Platform workflow skill is automatically activated when you install a Now A
 
 ## User role access
 
-Give personnel an appropriate role to access conversational subflows. See [User roles for conversational subflows and actions](../reference/user-roles-for-conversational-subflows-and-actions.md).
+Give personnel an appropriate role to access conversational subflows. See [User roles for conversational subflows and actions](user-roles-for-conversational-subflows-and-actions.md).
 
 ## Making a subflow conversation compatible
 
 To make a subflow conversation compatible, you must perform the following steps.
 
 -   Turn on the subflows and actions skill. See [Turn on the subflows and actions skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/turn-on-the-subflows-and-actions-skill.md).
--   Give personnel an appropriate role to access conversational subflows. See [User roles for conversational subflows and actions](../reference/user-roles-for-conversational-subflows-and-actions.md).
--   Choose subflow inputs that are compatible with Conversational Interfaces. See [Supported input data types for conversational subflows and actions](../reference/supported-input-data-types-for-conversational-subflows-and-actions.md).
+-   Give personnel an appropriate role to access conversational subflows. See [User roles for conversational subflows and actions](user-roles-for-conversational-subflows-and-actions.md).
+-   Choose subflow inputs that are compatible with Conversational Interfaces. See [Supported input data types for conversational subflows and actions](supported-input-data-types-for-conversational-subflows-and-actions.md).
 -   Add tooltip hint text to all subflow inputs.
 -   Publish the subflow.
 
@@ -87,5 +87,5 @@ Conversational subflows and actions support a limited number of input data types
 
 [Conversational actions](conversational-actions.md)
 
-[Configure subflow conversational settings](../task/configure-subflow-conversation-settings.md)
+[Configure subflow conversational settings](configure-subflow-conversation-settings.md)
 

@@ -40,7 +40,7 @@ The Upload Excel files feature uses Import Sets to import the information from t
 
 4.  On the Load Data form, fill in the fields; make sure that you import the campus file first.
 
-    For a description of the field values, see [Load data form](../../talent-acquisition/reference/import-set-table.md).
+    For a description of the field values, see [Load data form](../employee-service-management/import-set-table.md).
 
     **Note:** You can select a file from your instance by selecting **Data source** as the source of the import.
 

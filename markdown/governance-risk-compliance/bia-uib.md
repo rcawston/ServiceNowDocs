@@ -59,5 +59,5 @@ if you are the business impact analysis owner, you can create a business impact 
     ![Create BIA from the record page in the List view.](../image/list-view-bcm.png)
 
 
-To create a business impact analysis in Business Continuity Workspace, see [Create a business impact analysis](../task/create-bia-in-uib-ws.md). For information on managing the tasks that are related to a business impact analysis, see [Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md).
+To create a business impact analysis in Business Continuity Workspace, see [Create a business impact analysis](create-bia-in-uib-ws.md). For information on managing the tasks that are related to a business impact analysis, see [Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md).
 

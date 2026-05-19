@@ -87,24 +87,24 @@ Information that would be helpful for the ServiceNow personnel who are activatin
 </table>7.  Select **Submit**.
 
 
-**Parent Topic:**[Push notifications](../concept/c_PushNotifications.md)
+**Parent Topic:**[Push notifications](c_PushNotifications.md)
 
 **Related topics**  
 
 
-[Push notification system](../reference/r_PushMessageArchitecture.md)
+[Push notification system](r_PushMessageArchitecture.md)
 
 [Enable push notifications for logged-out users](enable-notifications-logged-out-users.md)
 
-[Installed with push notifications](../reference/r_InstalledWithPushNotifications.md#)
+[Installed with push notifications](r_InstalledWithPushNotifications.md#)
 
-[Push notification properties](../reference/r_PushNotificationProperties.md)
+[Push notification properties](r_PushNotificationProperties.md)
 
-[Push notification setup with the ServiceNow mobile app](../reference/r_PushNotificationSetupSN.md)
+[Push notification setup with the ServiceNow mobile app](r_PushNotificationSetupSN.md)
 
-[Push notification setup with a custom push application for ServiceNow mobile apps](../reference/r_PushNotificationSetupCustom.md)
+[Push notification setup with a custom push application for ServiceNow mobile apps](r_PushNotificationSetupCustom.md)
 
 [Requeue failed push notification messages](t_HandlingFailedPushMessages.md)
 
-[Push notification retention](../concept/push-notification-retention.md)
+[Push notification retention](push-notification-retention.md)
 

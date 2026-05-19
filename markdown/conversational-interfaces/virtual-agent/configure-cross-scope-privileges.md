@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Developers and topic authors may need to access [topic blocks](../concept/topic-blocks-overview.md) and [custom controls](../concept/custom-controls.md) created in other application scopes. To give them access, define cross-scope privilege records for the appropriate applications. For more information on cross-scope privileges, see [Cross-scope privilege record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_CrossScopePrivilegeRecord.md).
+Developers and topic authors may need to access [topic blocks](topic-blocks-overview.md) and [custom controls](custom-controls.md) created in other application scopes. To give them access, define cross-scope privilege records for the appropriate applications. For more information on cross-scope privileges, see [Cross-scope privilege record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_CrossScopePrivilegeRecord.md).
 
 ## Procedure
 
@@ -50,5 +50,5 @@ Developers and topic authors may need to access [topic blocks](../concept/topic-
 
 The cross-scope privilege is listed in the Cross scope privileges \[sys\_scope\_privilege\] table. Topic authors or developers can access the topic blocks or custom controls from the target scope.
 
-**Parent Topic:**[Configuring Virtual Agent](../concept/configure-virtual-agent.md)
+**Parent Topic:**[Configuring Virtual Agent](configure-virtual-agent.md)
 

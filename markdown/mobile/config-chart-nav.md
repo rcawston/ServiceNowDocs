@@ -168,7 +168,7 @@ Button attributes
 Specifies an additional attribute for a button. Select **New** to configure this option. You can select from the following button attributes:
 
  -   **alerts\_require\_dismissal:** The button attribute when set to true enables the banner messages to persist until the user dismisses it. By default, banner messages are automatically dismissed.
--   **used\_for\_deeplink:** The button attribute when set to true determines that the button is used for deep linking. For more information, see [Deep linking for mobile](../concept/deep-link-mobile.md).
+-   **used\_for\_deeplink:** The button attribute when set to true determines that the button is used for deep linking. For more information, see [Deep linking for mobile](deep-link-mobile.md).
 -   **trigger\_offline\_cache\_download:** The button attribute when set to `true` triggers offline cache generation. After the cache is successfully generated, a download of it is triggered.
 -   **check\_acl\_on\_url\_parameter\_field:** When this button attribute is selected and set to `true`, any field in the URL string is checked against the ACL \(access control list\). For example, a string like `{{meeting_id}}`. If a field doesn't pass this check, the field value isn't included in the URL. By default, the URL parameter field isn't checked against the ACL for backward compatibility.
 

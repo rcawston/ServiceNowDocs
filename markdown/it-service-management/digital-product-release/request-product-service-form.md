@@ -15,7 +15,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 Product managers or release admins can request for a new product or service in Digital Product Release.
 
-For more information, see [Request a new product or service](../task/dpr-request-product.md).
+For more information, see [Request a new product or service](dpr-request-product.md).
 
 <table id="table_xxf_syb_y2c"><thead><tr><th>
 
@@ -66,5 +66,5 @@ Short description
 Short description about the product or service is being requested.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Product Release reference](../concept/dpr-reference.md)
+</table>**Parent Topic:**[Digital Product Release reference](dpr-reference.md)
 

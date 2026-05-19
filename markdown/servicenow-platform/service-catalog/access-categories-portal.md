@@ -56,7 +56,7 @@ Role required: requester
     **Note:** When you access a catalog item from the Catalog landing page or type ahead search results, the breadcrumb of the item displays the path based on the primary category configured on that item. When you access the item from a specific category, the breadcrumb of the item displays the path based on that category.
 
 
-**Parent Topic:**[Service Catalog in Service Portal](../concept/catalog-on-portal.md)
+**Parent Topic:**[Service Catalog in Service Portal](catalog-on-portal.md)
 
 **Related topics**  
 

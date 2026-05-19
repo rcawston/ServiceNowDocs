@@ -34,7 +34,7 @@ The following items are installed with Accounts Payable Operations:
 -   Flows
 -   Tables
 
-For more information, see [Components installed with Accounts Payable Invoice Processing](../reference/installed-with-acc-pay-mgmt.md).
+For more information, see [Components installed with Accounts Payable Invoice Processing](installed-with-acc-pay-mgmt.md).
 
 ## Procedure
 
@@ -59,17 +59,17 @@ For more information, see [Components installed with Accounts Payable Invoice Pr
 6.  Select **Install**.
 
 
--   **[Components installed with Accounts Payable Invoice Processing](../reference/installed-with-acc-pay-mgmt.md)**  
+-   **[Components installed with Accounts Payable Invoice Processing](installed-with-acc-pay-mgmt.md)**  
 Several types of components are installed with activation of the Accounts Payable Invoice Processing plugin, including user roles, flows, and tables.
 
-**Parent Topic:**[Configure Accounts Payable Operations](../concept/config-acc-pay-mgmt.md)
+**Parent Topic:**[Configure Accounts Payable Operations](config-acc-pay-mgmt.md)
 
 **Related topics**  
 
 
 [Install Invoice Case Management](install-invoice-case-mgmt.md)
 
-[Install Accounts Payable Operations integration with Document Intelligence](../concept/apm-integration-docintel.md)
+[Install Accounts Payable Operations integration with Document Intelligence](apm-integration-docintel.md)
 
-[Domain separation and Accounts Payable Operations](../concept/apm-domain-separation.md)
+[Domain separation and Accounts Payable Operations](apm-domain-separation.md)
 

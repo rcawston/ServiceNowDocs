@@ -52,5 +52,5 @@ Role required: Developer
 
 The custom script you created by using the VB.net connector is now ready to be used in your automation.
 
-**Parent Topic:**[VB.Net](../concept/vb-net.md)
+**Parent Topic:**[VB.Net](vb-net.md)
 

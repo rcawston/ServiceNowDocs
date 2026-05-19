@@ -69,5 +69,5 @@ Do This
     The key performance indicators are added to the queue and appear in the **All Queues** tab in Manager Workspace. By default, the indicators get automatically refreshed at an interval of five seconds. You can add the **sn\_channel\_mgmt.kpi\_auto\_refresh.interval.seconds** property to the system properties to modify the interval time.
 
 
-**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](../concept/setup-channels-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](setup-channels-configurable-workforce-optimization-itsm.md)
 

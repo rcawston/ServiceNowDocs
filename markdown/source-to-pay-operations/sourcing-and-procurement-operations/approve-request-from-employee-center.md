@@ -84,11 +84,11 @@ Opens a confirmation dialog box, where you can approve all the purchase requesti
 </td></tr></tbody>
 </table>    You can now view the approved and rejected approval tasks on the **Completed** tab. Shoppers can view the same from their requests in Shopping Hub.
 
-    **Note:** You can configure the above email notification based on your requirements. For details, see [Approval email notification templates](../reference/approval-email-notifications-template.md).
+    **Note:** You can configure the above email notification based on your requirements. For details, see [Approval email notification templates](approval-email-notifications-template.md).
 
 
--   **[Approval email notification templates](../reference/approval-email-notifications-template.md)**  
+-   **[Approval email notification templates](approval-email-notifications-template.md)**  
 Email notifications are triggered for new, due soon, and overdue approval to-dos in configurable templates. As an approver, you can review the details and approve the purchase requests directly from the email notifications.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](../concept/employee-center-integration-psm.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](employee-center-integration-psm.md)
 

@@ -63,5 +63,5 @@ This role allows the execution of all subflows associated with the Card Data Sec
 |-----|-----------|
 |Tokenizer Resource Configuration \[sn\_data\_sec\_resource\_config\]|Stores information for each endpoint that sends and receives tokenized data.|
 
-**Parent Topic:**[Card Data Security Reference](../concept/card-data-security-reference.md)
+**Parent Topic:**[Card Data Security Reference](card-data-security-reference.md)
 

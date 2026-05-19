@@ -25,7 +25,7 @@ As the conversation progresses, the AI agent reads the transcript, interprets th
 
 CSRs can also type their own questions directly into the Now Assist panel at any time. The panel displays responses from the AI agent in a structured format that may include insights, recommendations, and guidance based on the content and sentiment of the conversation.
 
-For more information, see [Agentic Contact Center for Banking AI agents overview](../../fso-now-assist/concept/agentic-contact-center-for-banking-agents-overview.md).
+For more information, see [Agentic Contact Center for Banking AI agents overview](now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md).
 
 ## Customer context summary
 
@@ -42,7 +42,7 @@ The customer summary includes:
 
 The customer summary is not visible when no account or consumer has been associated with the interaction.
 
-For more information, see [Summarize customer interaction context in the Interaction page](../../fso-now-assist/task/summarize-customer-context-fso.md).
+For more information, see [Summarize customer interaction context in the Interaction page](now-assist-for-financial-services-operations-fso/summarize-customer-context-fso.md).
 
 ## Interaction form
 
@@ -89,7 +89,7 @@ For more information, see the following topics:
 -   [Interaction wrap up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-state.md)
 -   [Use AI to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ai-generated-wrap-up-codes-and-notes-summary.md)
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 
 **Related topics**  
 

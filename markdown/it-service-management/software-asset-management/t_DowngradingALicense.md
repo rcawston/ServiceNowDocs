@@ -55,5 +55,5 @@ Role required: sam
 -   **[Identify a downgrade child from a software license record using the legacy Software Asset Management plugin](t_IdentifyADGChildFromASWLicRec.md)**  
 Use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to identify a downgrade child from a software license record.
 
-**Parent Topic:**[License upgrade and downgrade with the legacy Software Asset Management plugin](../concept/c_UpgradingAndDowngradingLicenses.md)
+**Parent Topic:**[License upgrade and downgrade with the legacy Software Asset Management plugin](c_UpgradingAndDowngradingLicenses.md)
 

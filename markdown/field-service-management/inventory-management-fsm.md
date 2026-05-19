@@ -18,5 +18,5 @@ Parts represent items which field service agents may need while completing a wor
 **Related topics**  
 
 
-[Manage inventory in Field Service Management](sourcing-parts.md)
+[Manage inventory in Field Service Management](work-order-management/sourcing-parts.md)
 

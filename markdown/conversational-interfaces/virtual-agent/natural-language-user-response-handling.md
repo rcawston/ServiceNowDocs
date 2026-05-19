@@ -29,14 +29,14 @@ The Setup Topics Model and intents are read only, so if you need to modify the i
 
 ## Setting up natural language handling for third-party NLU providers
 
-If you are using IBM Watson or Google Dialogflow for NLU topic discovery, add entries for the corresponding model and intents in the VA NLU Dispatches table, as described in [Configure enhanced natural language user input handling](../task/set-up-natural-lang-handling-other-nlu.md).
+If you are using IBM Watson or Google Dialogflow for NLU topic discovery, add entries for the corresponding model and intents in the VA NLU Dispatches table, as described in [Configure enhanced natural language user input handling](set-up-natural-lang-handling-other-nlu.md).
 
 ## Changing the confidence threshold
 
 The confidence threshold for boolean inputs is defined in the **com.glide.cs.dialog.boolean\_threshold** system property. The default value is **0.9**. For more information, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
--   **[Configure enhanced natural language user input handling](../task/set-up-natural-lang-handling-other-nlu.md)**  
+-   **[Configure enhanced natural language user input handling](set-up-natural-lang-handling-other-nlu.md)**  
 Add enhanced natural language handling for boolean user responses to your Virtual Agent environment. If you're using additional languages or third-party NLU providers, specify the model and intents that define variations in yes/no utterances for your bot.
 
-**Parent Topic:**[Configure Natural Language Understanding in Virtual Agent](../task/configure-nlu-settings.md)
+**Parent Topic:**[Configure Natural Language Understanding in Virtual Agent](configure-nlu-settings.md)
 

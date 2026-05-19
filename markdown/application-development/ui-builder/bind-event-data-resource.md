@@ -29,7 +29,7 @@ Bind an event to a data resource, to perform data-related actions on your page. 
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Create or open a page.
 
@@ -81,5 +81,5 @@ Bind an event to a data resource, to perform data-related actions on your page. 
 -   **[Link an event to another page](link-component-destination.md)**  
 Add a link to the destination event handler within UI Builder so that an event action can open another page. You can also configure the event handler to follow the App Route to the desired page.
 
-**Parent Topic:**[Bind events to add actions](../concept/bind-events.md)
+**Parent Topic:**[Bind events to add actions](bind-events.md)
 

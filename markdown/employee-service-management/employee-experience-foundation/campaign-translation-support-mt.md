@@ -25,7 +25,7 @@ For more information about creating campaigns, see [Create a Microsoft Teams cam
 
 For more information about scheduling and executing a job, see [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduledJobs.md).
 
-**Note:** The **Title**, **Subject**, and **Description** field labels in the Notification content form are translated. For more information, see [Create notification content for Microsoft Teams](../task/create-campaign-content-publish-teams-mt.md).
+**Note:** The **Title**, **Subject**, and **Description** field labels in the Notification content form are translated. For more information, see [Create notification content for Microsoft Teams](create-campaign-content-publish-teams-mt.md).
 
 **Parent Topic:**[Create a Microsoft Teams campaign with content publishing](create-campaign-content-publishing-mt.md)
 

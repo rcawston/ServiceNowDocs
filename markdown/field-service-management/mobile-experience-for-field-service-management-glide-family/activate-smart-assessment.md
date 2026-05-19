@@ -51,7 +51,7 @@ The following items are installed with Smart Assessment for Field Service Questi
 -   Script includes
 -   Scheduled job
 
-For more information, see [Smart Assessment components](../reference/smart-assessment-components.md).
+For more information, see [Smart Assessment components](../smart-assessment-components.md).
 
 ## Procedure
 
@@ -73,5 +73,5 @@ For more information, see [Smart Assessment components](../reference/smart-asses
 
 [Enable Smart Assessment Questionnaire](enable-smart-assessment-questionnaire.md)
 
-[Migrating to Smart Assessment from survey-based questionnaire](../concept/configuring-sa-by-migrating.md)
+[Migrating to Smart Assessment from survey-based questionnaire](configuring-sa-by-migrating.md)
 

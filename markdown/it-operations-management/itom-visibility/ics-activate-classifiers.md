@@ -58,7 +58,7 @@ The new configuration items are added to the CMDB the next time Discovery runs a
 **Related topics**  
 
 
-[ITOM Content Service](../concept/discovery-content-services.md)
+[ITOM Content Service](discovery-content-services.md)
 
-[Discovery Admin Workspace](../concept/discovery-admin-workspace.md)
+[Discovery Admin Workspace](../discovery/discovery-admin-workspace.md)
 

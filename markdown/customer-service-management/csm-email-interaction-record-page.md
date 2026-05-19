@@ -33,7 +33,7 @@ Active
 
 </td><td>
 
-Enabling the **Active** check box makes the page variant available to the selected audience. The Email Interaction record page variant is inactive by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+Enabling the **Active** check box makes the page variant available to the selected audience. The Email Interaction record page variant is inactive by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 </td></tr><tr><td>
 
@@ -243,7 +243,7 @@ The Email Interaction record page supports actions from the following Customer S
 -   Time Recording for Customer Service \(com.snc.csm\_time\_recording\)
 -   Omni-Experience Standard Feature Set
 
-If you are using any additional plugins, you need to add the actions from those plugins to the Email Interaction record page action bar. For more information, see the configuration steps in this topic: [Configure the Front-line case page action bar](../task/config-front-line-case-page-action-bar.md).
+If you are using any additional plugins, you need to add the actions from those plugins to the Email Interaction record page action bar. For more information, see the configuration steps in this topic: [Configure the Front-line case page action bar](config-front-line-case-page-action-bar.md).
 
 ## Thin compose modeless dialogs
 
@@ -284,7 +284,7 @@ Depending on the source type, agents can do the following:
 -   Mark an article as helpful.
 -   Order a catalog item.
 
-For more information, see [Use AI search in Recommended Actions to resolve cases](../task/nba-use-ai-search.md).
+For more information, see [Use AI search in Recommended Actions to resolve cases](nba-use-ai-search.md).
 
 **Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
@@ -333,5 +333,5 @@ The Collaborate component enables agents to communicate with stakeholders and ot
 
 Unread email counters display on email interaction tabs to help agents track new email activity across multiple interactions. When new emails arrive for an email interaction that's open in an inactive tab, an unread counter appears on the tab. The counter increments as additional emails arrive and clears when you select the tab.
 
-For example, you have multiple email interactions open. A customer replies to an interaction in an inactive tab. The tab displays an unread counter \(for example, "2"\), so you can identify which interactions have new activity without losing context. For configuration requirements, see [View unread email counters on interaction tabs](../task/view-unread-email-counters-on-interaction-tabs.md).
+For example, you have multiple email interactions open. A customer replies to an interaction in an inactive tab. The tab displays an unread counter \(for example, "2"\), so you can identify which interactions have new activity without losing context. For configuration requirements, see [View unread email counters on interaction tabs](view-unread-email-counters-on-interaction-tabs.md).
 

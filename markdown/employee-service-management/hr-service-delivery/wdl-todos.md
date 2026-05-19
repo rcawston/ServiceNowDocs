@@ -32,5 +32,5 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Import set tables in HR Service Delivery Integration with Workday Learning](../concept/import-set-tables.md)
+**Parent Topic:**[Import set tables in HR Service Delivery Integration with Workday Learning](import-set-tables.md)
 

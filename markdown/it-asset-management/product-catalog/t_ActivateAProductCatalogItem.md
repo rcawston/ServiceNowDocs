@@ -47,7 +47,7 @@ Select **Activate** under **Related Links**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Product catalog items](../concept/c_ManagingProductCatalogItems.md)
+**Parent Topic:**[Product catalog items](c_ManagingProductCatalogItems.md)
 
 **Related topics**  
 

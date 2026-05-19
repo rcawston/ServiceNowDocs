@@ -82,7 +82,7 @@ Use MidServer
 Optional. Select  MID Server  for a tool that is attached to a  MID Server. Application is automatically set to  DevOps and capability is set to REST.
 
 </td></tr></tbody>
-</table>    For a list of all the permissions required on the credentials for connecting to GitHub, see GitHub permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+</table>    For a list of all the permissions required on the credentials for connecting to GitHub, see GitHub permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
 5.  Select **Order Now**.
 
@@ -162,5 +162,5 @@ Leave empty.
     A request is created. When the request is approved, the repository and pipeline objects are associated to the app record and webhooks are configured for real-time tracking. Historical data is imported for the selected repositories and the associated workflows. The **Track** field is automatically enabled for imported repositories and pipelines.
 
 
-**Parent Topic:**[GitHub integration with DevOps Change Velocity](../concept/github-integration-dev-ops.md)
+**Parent Topic:**[GitHub integration with DevOps Change Velocity](github-integration-dev-ops.md)
 

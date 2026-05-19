@@ -54,5 +54,5 @@ Role required: admin
 6.  To reset the column width, click the column settings icon \(![Column settings icon.](../../integrationhub/images/column-settings-icon.png)\), and then click **Reset widths**.
 
 
-**Parent Topic:**[FDIH Dashboard](../concept/fdih-dashboard.md)
+**Parent Topic:**[FDIH Dashboard](fdih-dashboard.md)
 

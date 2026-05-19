@@ -49,5 +49,5 @@ Add locations to an emission factor after you create the factor. The reason you 
 -   **[Recalculate emission factor](recalculate-emission-factor.md)**  
 When an emission factor value is updated, you can recalculate the emission factor to initiate the system to automatically recalculate the data for all linked calculated metric definitions \(CMD\), using the new value for dates within the emission factor's validity period. This ensures that metrics data remains consistent and accurate, reflecting the latest changes.
 
-**Parent Topic:**[Set up the emission factor library](../concept/set-up-the-emission-factor-library.md)
+**Parent Topic:**[Set up the emission factor library](set-up-the-emission-factor-library.md)
 

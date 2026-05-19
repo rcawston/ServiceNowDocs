@@ -23,7 +23,7 @@ Role required: admin
 
 **Note:** While Workflow Studio is designed to use the action\_designer and delegated\_developer roles in most scenarios, this tutorial uses the admin role to illustrate functionality without requiring additional roles to set up records and approve requests.
 
-Complete the steps in [Getting started with flows](getting-started-flow.md). This tutorial replaces the Ask for Approval action in the Expense Approval flow.
+Complete the steps in [Getting started with flows](../build-workflows/getting-started-flow.md). This tutorial replaces the Ask for Approval action in the Expense Approval flow.
 
 ## About this task
 
@@ -191,5 +191,5 @@ Unlike the core Ask for Approval action where flow designers must manually confi
 
 The Expense Approval flow runs every time a record is created in the Expenses table. Now that the flow is activated and working as expected, you can publish it to the application repository and deploy it to other instances.
 
-**Parent Topic:**[Building actions](../concept/actions.md)
+**Parent Topic:**[Building actions](actions.md)
 

@@ -21,7 +21,7 @@ Role required: none
 
 All fields on the activity list display in alphabetical order by default. You can change the order that fields appear on the form by using the **Configure available fields** option in the activity formatter.
 
-**Parent Topic:**[Forms in the classic environment](../../../use/using-forms/concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](c_UsingForms.md)
 
 ## Use the activity filter
 

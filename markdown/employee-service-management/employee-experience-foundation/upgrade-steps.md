@@ -15,9 +15,9 @@ breadcrumb: [Admin configurations, Configuring Employee Center Pro, Employee Cen
 
 Guidance on preparing for and performing an upgrade from Employee Center to Employee Center Pro.
 
--   **[Install Employee Center Pro](../task/install-ec-pro.md)**  
+-   **[Install Employee Center Pro](install-ec-pro.md)**  
 Employee Center Pro extends the standard Employee Center capabilities and provides a platform for employees to communicate and be engaged.
--   **[Upgrade to Employee Center Pro from Employee Service Center \(HR\)](../task/migrate-esc-ec.md)**  
+-   **[Upgrade to Employee Center Pro from Employee Service Center \(HR\)](migrate-esc-ec.md)**  
 Migrate to the Employee Center Pro portal to provide employees with a unified portal and content experiences.
 
 **Parent Topic:**[Employee Center Pro admin configurations](configure-ecpro-portal.md)

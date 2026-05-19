@@ -24,7 +24,7 @@ For general information about portals, see [Service Portal](https://raw.githubus
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## SPWidget object
 

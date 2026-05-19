@@ -25,7 +25,7 @@ In a quote, you can set the subscription pricing start date and end date, or you
 
 Subscription pricing can be added at the quote header level or at the quote line item level.
 
-See [Subscription revenue metrics](../concept/som-subscription-pricing.md) for more information about how subscription pricing works.
+See [Subscription revenue metrics](som-subscription-pricing.md) for more information about how subscription pricing works.
 
 ## Procedure
 
@@ -49,5 +49,5 @@ See [Subscription revenue metrics](../concept/som-subscription-pricing.md) for m
 5.  Select **Save**.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

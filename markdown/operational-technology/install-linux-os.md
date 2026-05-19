@@ -20,7 +20,7 @@ Role required: admin
 ## About this task
 
 -   Install the distribution with minimal configuration, including an SSH server, and ensure the VM supports AVX/AVX2 instructions.
--   Allocate 16 GB of RAM for installation. ​See [Requirements for Discovery Console for OT installation](../concept/requirements-installation-deployment.md) for storage requirements.
+-   Allocate 16 GB of RAM for installation. ​See [Requirements for Discovery Console for OT installation](requirements-installation-deployment.md) for storage requirements.
 
 ## Procedure
 

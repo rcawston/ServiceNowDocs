@@ -17,7 +17,7 @@ Create an API access policy and map an authentication profile to restrict the au
 
 ## Before you begin
 
--   Make sure that an authentication profile is created. For more information, see [Create an authentication profile](../../authentication/task/create-authentication-profile.md).
+-   Make sure that an authentication profile is created. For more information, see [Create an authentication profile](create-authentication-profile.md).
 -   Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 ## Procedure

@@ -42,5 +42,5 @@ All Safety Data Sheets \(SDSs\) that are added to the safety registers through t
 5.  Tap the safety register document to open it.
 
 
-**Parent Topic:**[Mobile experience for Health and Safety](../concept/hs-health-safety-mobile.md)
+**Parent Topic:**[Mobile experience for Health and Safety](hs-health-safety-mobile.md)
 

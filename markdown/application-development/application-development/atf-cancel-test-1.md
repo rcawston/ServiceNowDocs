@@ -20,7 +20,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 ## Procedure
 
-1.  If necessary, [display the Run Test progress dialog](atf-view-progress.md).
+1.  If necessary, [display the Run Test progress dialog](../automated-test-framework-atf/atf-view-progress.md).
 
 2.  Click **Cancel Pending Steps**.
 

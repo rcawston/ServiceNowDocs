@@ -17,7 +17,7 @@ ServiceNow for Microsoft Teams supports localization to multiple languages, usin
 
 You must activate the localized plugins in your instance. To install the language plugin, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
-After installing the language plugin, you must create and download the manifest file and upload the file to Microsoft Teams. To download the manifest file, refer [Create and download the manifest file for pre-published apps](../task/download-manifest-file-mt.md).
+After installing the language plugin, you must create and download the manifest file and upload the file to Microsoft Teams. To download the manifest file, refer [Create and download the manifest file for pre-published apps](download-manifest-file-mt.md).
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](c_employee_ex_s_tnt.md)
 

@@ -68,7 +68,7 @@ Process
 
 
 </td></tr></tbody>
-</table>    For a description of the field values, see [Demand form](../reference/demand-form-ppw.md).
+</table>    For a description of the field values, see [Demand form](demand-form-ppw.md).
 
 
 **Related topics**  
@@ -76,7 +76,7 @@ Process
 
 [Use Playbooks](use-playbooks-in-ppw.md)
 
-[Demand form](../reference/demand-form-ppw.md)
+[Demand form](demand-form-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages-activities-ppw.md)
 

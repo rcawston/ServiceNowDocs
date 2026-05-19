@@ -183,11 +183,11 @@ Time series: Number of active or new users in the date range
 **Related topics**  
 
 
-[Select a table data source for a data visualization](../task/select-table-data-source.md)
+[Select a table data source for a data visualization](select-table-data-source.md)
 
-[Select an indicator data source for a data visualization](../task/select-indicator-data-source.md)
+[Select an indicator data source for a data visualization](select-indicator-data-source.md)
 
-[Select a Workflow Data Fabric data source for a data visualization](../task/select-wdf-data-source.md)
+[Select a Workflow Data Fabric data source for a data visualization](select-wdf-data-source.md)
 
-[Multiple data sources](../../par-for-workspace/reference/multiple-data-sources.md#)
+[Multiple data sources](multiple-data-sources.md#)
 

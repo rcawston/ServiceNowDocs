@@ -32,7 +32,7 @@ Role required: workflow\_admin, workflow\_creator, or admin
     **Note:** You cannot pass variables to a subflow that runs on the Requested Item \[sc\_req\_item\] table.
 
 
-**Parent Topic:**[Workflows used as subflows](../reference/workflows-as-subflows.md)
+**Parent Topic:**[Workflows used as subflows](workflows-as-subflows.md)
 
 ## Define inputs for a subflow
 

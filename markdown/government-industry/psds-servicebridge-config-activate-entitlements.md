@@ -29,7 +29,7 @@ Role required: admin
 
 5.  Select the Remote task definition tab and select a remote task definition that you want to activate.
 
-    For information on how to utilize remote task definitions to create task assignments between constituent and agency provider instances, see [Create remote task definitions in Service Exchange for Providers in Public Sector Digital Services](../task/psds-servicebridge-config-create-remote-task-def.md).
+    For information on how to utilize remote task definitions to create task assignments between constituent and agency provider instances, see [Create remote task definitions in Service Exchange for Providers in Public Sector Digital Services](psds-servicebridge-config-create-remote-task-def.md).
 
 6.  In the Remote task definition page, select **Activate** to activate the entitlement.
 

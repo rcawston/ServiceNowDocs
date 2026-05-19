@@ -33,7 +33,7 @@ The key agents for ACH dispute resolution are.
 
 The following diagram illustrates the workflow in ACH disputes with the AI agents.![ACH disputes workflow](../image/now-assist-ach-disputeworkflw.png)
 
-For information about the workflow in ACH disputes, see [Processing an ACH dispute](../../fso-card-operations/concept/process-dispute-ach.md).
+For information about the workflow in ACH disputes, see [Processing an ACH dispute](../dispute-management/process-dispute-ach.md).
 
 ## Access the AI agents
 
@@ -51,7 +51,7 @@ To access the agents:
 
 5.  In the **Define availability** screen for the AI agent, make sure that the **Status** field is enabled to activate the AI agent.
 
--   **[Resolve ACH disputes with AI agents](../task/resolve-ach-disputes-with-ai-agents.md)**  
+-   **[Resolve ACH disputes with AI agents](resolve-ach-disputes-with-ai-agents.md)**  
 Use AI agents to streamline ACH dispute resolution in Now Assist for FSO.
 
 **Parent Topic:**[Standalone AI agents in Financial Services Operations](ai-agents-fso.md)

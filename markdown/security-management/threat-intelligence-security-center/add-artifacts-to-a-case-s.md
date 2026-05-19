@@ -19,7 +19,7 @@ After you have created a case, you can view or add artifacts, such as security i
 
 Role required: admin
 
-**Note:** Artifacts are available only to the existing cases. For observables and indicators, the artifacts can also be added or associated to a case from the import job using the Import Intelligence button. For more information on how to import see, [Import Intelligence in TISC](../concept/importing-threat-intelligence.md)
+**Note:** Artifacts are available only to the existing cases. For observables and indicators, the artifacts can also be added or associated to a case from the import job using the Import Intelligence button. For more information on how to import see, [Import Intelligence in TISC](importing-threat-intelligence.md)
 
 ## Procedure
 
@@ -290,18 +290,18 @@ When intelligence records are added to a case, all associated MITRE Techniques a
 -   **[Show MITRE ATT&amp;CK Framework for a Case\(s\)](tisc-show-mitre-fw.md)**  
 Displays all the associated techniques of a case on the MITRE ATT&amp;CK framework.
 
-**Parent Topic:**[Threat Analyst Workbench](../concept/threat-analyst-workbench.md)
+**Parent Topic:**[Threat Analyst Workbench](threat-analyst-workbench.md)
 
 **Related topics**  
 
 
-[Workbench Overview](../concept/workbench-overview.md)
+[Workbench Overview](workbench-overview.md)
 
-[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+[Creating cases using Threat Analyst Workbench](create-cases-using-threat-analyst-workbench.md)
 
 [Creating case task using Threat Analyst Workbench](tisc-create-case-task.md)
 
-[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+[Working with Investigation Canvas](tisc-investigation-canvases.md)
 
 [Run Enrichment Actions within a case](run-enrichment-results.md)
 

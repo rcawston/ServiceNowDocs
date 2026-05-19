@@ -15,9 +15,9 @@ breadcrumb: [Mobile SDK Developer Guide - Android, Developer guides, API impleme
 
 The Mobile SDK provides functionality that enables Android applications to call the public REST API on a ServiceNow instance.
 
-Using the [NowAPIService](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowAPIService/concept/NowAPIServiceAndroidInterface.md#) API you can interact with any of the base ServiceNow public [REST APIs](../../../../../build/applications/concept/api-rest.md), or create custom REST APIs within the instance and call those from your Android application.
+Using the [NowAPIService](../cllent-mobile-api-reference/NowAPIServiceAndroidInterface.md#) API you can interact with any of the base ServiceNow public [REST APIs](../rest-apis/api-rest.md), or create custom REST APIs within the instance and call those from your Android application.
 
-Before making a call to a ServiceNow REST API, you must call the[makeNowAPIService\(\)](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowDataSDK/concept/NowDataSDKAndroidAPI.md#) method to create an instance of the service. The service instance is returned in the callback if successful otherwise, an error is thrown.
+Before making a call to a ServiceNow REST API, you must call the[makeNowAPIService\(\)](../cllent-mobile-api-reference/NowDataSDKAndroidAPI.md#) method to create an instance of the service. The service instance is returned in the callback if successful otherwise, an error is thrown.
 
 The following shows how to initialize a NowAPIService object:
 
@@ -45,7 +45,7 @@ class SdkManager @Inject constructor() {
 }
 ```
 
-Once the NowAPIService object is initialized, use the NowAPIService [data\(\)](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowAPIService/concept/NowAPIServiceAndroidInterface.md#) method to specify the REST endpoint to call and all of its associated parameters:
+Once the NowAPIService object is initialized, use the NowAPIService [data\(\)](../cllent-mobile-api-reference/NowAPIServiceAndroidInterface.md#) method to specify the REST endpoint to call and all of its associated parameters:
 
 ```
  suspend fun makeNowApiCall() {

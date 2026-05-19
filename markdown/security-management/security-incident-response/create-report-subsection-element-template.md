@@ -134,7 +134,7 @@ Create a list type element, which defines the related list elements more declara
 -   **[Create a Custom Type Element](create-a-custom-type-element.md)**  
 Create a list type element, which defines the related list elements more declaratively with filter options such as assignment groups and labels.
 
-**Parent Topic:**[Configure Major Security Incident status reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+**Parent Topic:**[Configure Major Security Incident status reports](manage-status-reports-for-major-security-incident-management.md)
 
 **Related topics**  
 
@@ -145,5 +145,5 @@ Create a list type element, which defines the related list elements more declara
 
 [Create a Report Subsection Template](create-report-subsection-template.md)
 
-[Add system properties](../concept/adding-system-properties-to-your-status-reports.md)
+[Add system properties](adding-system-properties-to-your-status-reports.md)
 

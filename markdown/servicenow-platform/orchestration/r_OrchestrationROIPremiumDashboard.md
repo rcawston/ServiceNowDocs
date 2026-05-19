@@ -96,7 +96,7 @@ Shows the top 10 automation entries that have the most calculated savings in the
 -   **Table**: Detailed Savings Report \[detailed\_savings\_report\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Orchestration ROI reports](../concept/c_OrchestrationROIDashboards.md)
+</table>**Parent Topic:**[Orchestration ROI reports](c_OrchestrationROIDashboards.md)
 
 ## Request Orchestration ROI premium reports
 

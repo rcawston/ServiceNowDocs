@@ -209,5 +209,5 @@ The amount of time, in milliseconds, that a MID Server waits for activity when p
  Type: integer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../reference/oracle-glas-discovery.md)
+</table>**Parent Topic:**[Oracle Global License Advisory Services \(GLAS\) data collection using patterns](oracle-glas-discovery.md)
 

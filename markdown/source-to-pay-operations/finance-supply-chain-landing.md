@@ -32,10 +32,10 @@ ServiceNow® Finance and Supply Chain workflows unify processes, data, and techn
 ## Products, features, and customer journeys
 
 -   [Finance and Supply Chain workflows](finance-supply-chain-workflows.md)
--   [Finance and Supply Chain applications](../../sourcing-procurement-operations/concept/fsc-common-apps-landing.md)
--   [Now Assist for Finance and Supply Chain](../../sourcing-procurement-operations/concept/now-assist-fsc-common-landing.md)
--   [Source-to-Pay Operations](../reference/source-to-pay-operations-overview.md)
--   [Sourcing and Procurement Operations](../../sourcing-procurement-operations/concept/psm-overview.md)
--   [Supplier Lifecycle Operations](../../supplier-lifecycle-operations/concept/supp-mgmt-landing-page.md)
--   [Accounts Payable Operations](../../accounts-payable-operations/concept/acc-pay-mgmt-landing-page.md)
+-   [Finance and Supply Chain applications](fsc-common-apps-landing.md)
+-   [Now Assist for Finance and Supply Chain](now-assist-for-fsc-common/now-assist-fsc-common-landing.md)
+-   [Source-to-Pay Operations](source-to-pay-operations-overview.md)
+-   [Sourcing and Procurement Operations](sourcing-and-procurement-operations/psm-overview.md)
+-   [Supplier Lifecycle Operations](supplier-lifecycle-operations/supp-mgmt-landing-page.md)
+-   [Accounts Payable Operations](accounts-payable-operations/acc-pay-mgmt-landing-page.md)
 

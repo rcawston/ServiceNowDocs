@@ -38,5 +38,5 @@ The default display limit for goals on the Goals page is 250.
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring goals in Strategic Planning](../concept/configuring-goal-framework-apw.md)
+**Parent Topic:**[Configuring goals in Strategic Planning](configuring-goal-framework-apw.md)
 

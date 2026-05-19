@@ -45,16 +45,16 @@ This integration is compatible with LogRhythm 7.8 or later. The earlier versions
 
 **Note:** The following topics are numbered. For a smooth installation and to help you verify expected results, follow the topics in the order they’re presented.
 
-1.  [Set up the REST API](../task/drilldown-api-lr.md)  
+1.  [Set up the REST API](drilldown-api-lr.md)  
 You use the LogRhythm REST API key to gather additional event details for individual alarm fields. The API key provides details that are unavailable using the LogRhythm REST API.
-2.  [Install the plugin and configure LogRhythm](../task/install-and-config-logrhythm.md)  
+2.  [Install the plugin and configure LogRhythm](install-and-config-logrhythm.md)  
 Before you run the integration on your instance, complete the installation and configuration steps so the application properly integrates with Security Operations on the ServiceNow AI Platform®.
-3.  [Creating an alarm profile for LogRhythm](../task/create-alarm-profile-logrhythm.md)  
+3.  [Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md)  
 In an alarm profile that you create and name, you specify which alarms you want to pull from the LogRhythm Client Console. You also define how they are mapped to fields on a ServiceNow AI Platform security incident.
-4.  [Additional configurations for the LogRhythm integration](../task/configure-system-and-troubleshooting-properties.md)  
+4.  [Additional configurations for the LogRhythm integration](configure-system-and-troubleshooting-properties.md)  
 Use the LogRhythm Integration Settings to modify the preset system and troubleshooting properties as per you requirements.
 5.  [Troubleshooting the LogRhythm integration](troubleshooting-logrhythm-integration.md)  
 Troubleshoot connectivity and alarm ingestion issues.
 
-**Parent Topic:**[Security Incident Response integrations](../../security-incident-response/concept/sir_integrations.md)
+**Parent Topic:**[Security Incident Response integrations](sir_integrations.md)
 

@@ -17,7 +17,7 @@ The ReportCiStatusOutputJS API provides methods that return specific object prop
 
 This class runs is in the `sn_discovery` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ReportCiStatusOutputJS - getCiOperationStatus\(\)
 

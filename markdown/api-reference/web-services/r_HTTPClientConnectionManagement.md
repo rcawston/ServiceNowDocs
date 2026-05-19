@@ -31,5 +31,5 @@ Users should monitor performance, such as the decreased time for loading Discove
 -   **[HTTP Connection Management Properties](r_HTTPConnectionManagementProps.md)**  
 Connection pooling is controlled by three properties.
 
-**Parent Topic:**[Additional integration resources](../../outbound-web-services/concept/additional-integration-resources.md)
+**Parent Topic:**[Additional integration resources](additional-integration-resources.md)
 

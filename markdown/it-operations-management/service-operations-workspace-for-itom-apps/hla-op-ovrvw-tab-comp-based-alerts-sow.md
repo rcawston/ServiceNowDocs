@@ -15,7 +15,7 @@ breadcrumb: [Start remediation of a Log Analytics alert, Log Analytics in SOW fo
 
 The **Overview** tab in the Service Operations Workspace helps you understand Component-based alerts.
 
-For a detailed description of Component-based alerts, see [Types of Health Log Analytics alerts](hla-op-log-analytics-alert-types.md).
+For a detailed description of Component-based alerts, see [Types of Health Log Analytics alerts](../health-log-analytics/hla-op-log-analytics-alert-types.md).
 
 ## Summary
 
@@ -25,7 +25,7 @@ For a detailed description of Component-based alerts, see [Types of Health Log A
 
     ![Identified issue appears here and in alert title.](../image/identified-issue-card-comp-based-sow.png "Identified issue")
 
-    Select **View surrounding logs** to view log messages that are relevant to the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](../task/hla-op-surrounding-logs-view-sow.md).
+    Select **View surrounding logs** to view log messages that are relevant to the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](../health-log-analytics/hla-op-surrounding-logs-view-sow.md).
 
 -   **Anomaly**
 
@@ -40,7 +40,7 @@ For a detailed description of Component-based alerts, see [Types of Health Log A
 
     ![Anomaly card identifies and illustrates anomalous behavior.](../image/anomaly-day-earlier-sow.png "Anomaly card")
 
-    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](hla-op-anomalous-behavior-types.md).
+    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](../health-log-analytics/hla-op-anomalous-behavior-types.md).
 
 
 ## Impact
@@ -65,5 +65,5 @@ For a detailed description of Component-based alerts, see [Types of Health Log A
     ![Meaningful log properties shows relative frequency of occurrence for property values.](../image/meaningful-log-properties-card-sow.png "Meaningful log properties")
 
 
-**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](../task/hla-op-overview-tab-view-sow.md)
+**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](hla-op-overview-tab-view-sow.md)
 

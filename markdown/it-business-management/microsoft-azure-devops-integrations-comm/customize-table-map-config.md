@@ -57,5 +57,5 @@ Configure table maps between tasks, iterations, and work areas of Azure DevOps a
     -   false, validation of your map configuration failed. Ensure that you enter correct values for all fields and validate again.
 3.  Create a business rule to support export of this new table map configuration to Azure DevOps. For more information, see [Create a business rule to apply a custom table map configuration](create-business-rule-to-apply-custom-table-map.md).
 
-**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](../reference/customizing-map-config-agile-azure.md)
+**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](customizing-map-config-agile-azure.md)
 

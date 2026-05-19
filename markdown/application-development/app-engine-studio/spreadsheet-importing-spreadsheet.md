@@ -24,7 +24,7 @@ Check that the spreadsheet meets the following requirements:
 
 **Note:** The Excel spreadsheet you upload can have multiple worksheet tabs, each of which you might use to create a data table. If multiple worksheets are present, you will be prompted to select which worksheet tab to create the table from after you upload the file.
 
-Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissions. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissions. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## Procedure
 

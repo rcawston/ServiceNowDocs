@@ -269,5 +269,5 @@ Priority of the event. The options are as follows: -   **Critical**
 **Note:** This field appears only when **Automatically create RCA task** is selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a risk event response template](../task/create-risk-event-response-template.md)
+</table>**Parent Topic:**[Create a risk event response template](create-risk-event-response-template.md)
 

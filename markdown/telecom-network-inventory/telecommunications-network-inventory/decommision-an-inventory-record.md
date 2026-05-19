@@ -47,5 +47,5 @@ When you decommission a CI record, all the related tables of the CI are removed 
     |Equipment|Physical or logical interface linked to a connection or to a physical interface that has a logical connection.|
 
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 

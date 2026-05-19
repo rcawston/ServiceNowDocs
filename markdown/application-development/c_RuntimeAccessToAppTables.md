@@ -24,12 +24,12 @@ The system does not prevent you from creating API or web service calls to the ap
 
 -   **[Default runtime access permissions](c_DefaultRuntimeAccessPermissions.md)**  
 The default runtime access permissions apply to new application data tables.
--   **[Set runtime access to application tables](../task/t_SetRuntimeAccessToAppTables.md)**  
+-   **[Set runtime access to application tables](t_SetRuntimeAccessToAppTables.md)**  
 Set these access permissions to protect application tables at runtime.
 -   **[Example denying all runtime access to a table](c_ExampleDenyingAllRuntimeAccess.md)**  
 You can prevent script API and web service calls from other application scopes.
 -   **[Example granting all runtime access to a table](c_ExampleGrantingAllRuntimeAccess.md)**  
 You can permit some or all runtime script API and web service calls from other application scopes.
 
-**Parent Topic:**[Table design and runtime settings](../reference/r_TableApplicationAccessFields.md)
+**Parent Topic:**[Table design and runtime settings](r_TableApplicationAccessFields.md)
 

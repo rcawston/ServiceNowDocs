@@ -22,7 +22,7 @@ The base system ships with three remediation target rules that are applicable on
 
 These rules are inactive by default. If you choose to edit one, rather than create a new one, remember to check the Active box before saving.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
@@ -51,7 +51,7 @@ Role required: See [Access control lists \(ACLs\) for administration rules](sem-
 
 6.  On the remediation target rule form, enter the required details.
 
-    For a full description of each field, see [Remediation target rule fields](../../vulnerability-response/reference/sem-rt-rules-fields.md).
+    For a full description of each field, see [Remediation target rule fields](vulnerability-response/sem-rt-rules-fields.md).
 
 7.  Select **Save**.
 
@@ -89,7 +89,7 @@ Recalculate remediation target date
 
     If you need to create a new rule, select **New**.
 
-    For instructions, see [Create or edit a Vulnerability Response remediation target rule](../../vulnerability-response/task/create-time-to-remediate-rule.md).
+    For instructions, see [Create or edit a Vulnerability Response remediation target rule](vulnerability-response/create-time-to-remediate-rule.md).
 
 3.  Choose how the system should recalculate the remediation target \(RT\) date when the risk rating changes.
 
@@ -143,8 +143,8 @@ If the risk increases: Compares the existing RT date and the recalculated RT dat
 
 For more information on remediation target rules, see:
 
--   [Vulnerability Response remediation target rules](../../vulnerability-response/concept/time-to-remediate-rules.md)
--   [Create or edit a Vulnerability Response remediation target rule](../../vulnerability-response/task/create-time-to-remediate-rule.md)
+-   [Vulnerability Response remediation target rules](vulnerability-response/time-to-remediate-rules.md)
+-   [Create or edit a Vulnerability Response remediation target rule](vulnerability-response/create-time-to-remediate-rule.md)
 -   [Examples of recalculating a remediation target date](sem-configure-remediation-target-rules.md#)
 
 #### Examples of recalculating a remediation target date

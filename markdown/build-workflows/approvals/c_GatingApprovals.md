@@ -27,7 +27,7 @@ Generate gating approvals with:
 **Related topics**  
 
 
-[Set up a gating approval via an approval rule](../task/t_SetUpAGatingApprViaApprovalRule.md)
+[Set up a gating approval via an approval rule](t_SetUpAGatingApprViaApprovalRule.md)
 
 [Set up a gating approval based on the item being ordered](c_SetUpGatingApprBasedOnOrdItem.md)
 

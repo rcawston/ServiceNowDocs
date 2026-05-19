@@ -15,7 +15,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 As a dispatcher, you can create, source part requirements and requests from Dispatcher Workspace.
 
-You can create part requirements and source parts for the qualified work order tasks from Dispatcher Workspace. If a work order is created from a [work order template](../../it-services/concept/c_WorkOrderTemplates.md), the part requirements are automatically added to the work order task.
+You can create part requirements and source parts for the qualified work order tasks from Dispatcher Workspace. If a work order is created from a [work order template](../work-order-management/c_WorkOrderTemplates.md), the part requirements are automatically added to the work order task.
 
 Enabling the Apply Work Order template in draft status option, allows you to create or edit work order tasks and part requirements. You can create or edit work order tasks even when they're in the draft state.
 

@@ -40,5 +40,5 @@ By default, the bubble chart page displays a maximum of 500 bubbles. If you have
 
 The bubble chart page displays bubbles up to the number that you have defined in the **Value** field.
 
-**Parent Topic:**[Use bubble chart view](../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
+**Parent Topic:**[Use bubble chart view](eaw-using-app-rat-bubble-chart-view.md)
 

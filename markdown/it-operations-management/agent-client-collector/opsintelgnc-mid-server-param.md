@@ -72,5 +72,5 @@ The amount of off heap memory used by Metric Intelligence to process data series
 -   **Default value**: 4096
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring reference](../../agent-client-collector/reference/acc-monitoring-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring reference](acc-monitoring-reference.md)
 

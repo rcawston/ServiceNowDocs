@@ -17,7 +17,7 @@ Upload a zip file of the automation package in RPA Hub to manually migrate the p
 
 You must do this task in the classic environment.
 
-Ensure that you’ve completed the tasks that are related to migrating your data from a lower environment to a higher environment. For more information, see [Migrating your data from a lower environment to a higher environment in RPA Hub](../concept/migrate-data-rpa-hub.md).
+Ensure that you’ve completed the tasks that are related to migrating your data from a lower environment to a higher environment. For more information, see [Migrating your data from a lower environment to a higher environment in RPA Hub](migrate-data-rpa-hub.md).
 
 Download the package version attachment from a lower instance. For more information, see [Download a package version in RPA Hub](download-package-version.md).
 
@@ -52,5 +52,5 @@ You can upload the valid attachment only one time. The **Upload Attachment** but
 
 For a quick integrity check, verify the HashCode of a package version again. For more information, see [Verify the HashCode of a package version in RPA Hub](view-hash-code.md).
 
-**Parent Topic:**[Migrating your data from a lower environment to a higher environment in RPA Hub](../concept/migrate-data-rpa-hub.md)
+**Parent Topic:**[Migrating your data from a lower environment to a higher environment in RPA Hub](migrate-data-rpa-hub.md)
 

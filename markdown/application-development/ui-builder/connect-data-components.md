@@ -50,9 +50,9 @@ Use this method if you are comfortable working in and editing JSON code.
 
 ![Data binding modal with black arrow pointing to JSON option.](../image/bind-json.png)
 
--   **[Connect data to your components](../task/connect-data.md)**  
+-   **[Connect data to your components](connect-data.md)**  
 Bind data exposed by local data resources to components on your UI Builder page.
--   **[Connect data to your components with formulas](../task/connect-data-formulas.md)**  
+-   **[Connect data to your components with formulas](connect-data-formulas.md)**  
 Bind data exposed by local data resources to components with formulas on your UI Builder page.
 
 **Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](data-resources.md)

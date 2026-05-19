@@ -35,7 +35,7 @@ Export to PowerPoint overview video. Approximately two minutes long.
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-whitepaper.svg) Get details about components installed, form fields, tables, roles, and general guidelines.](../reference/export-ppt-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-whitepaper.svg) Get details about components installed, form fields, tables, roles, and general guidelines.](export-ppt-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**

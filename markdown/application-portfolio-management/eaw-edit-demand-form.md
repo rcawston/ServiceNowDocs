@@ -170,5 +170,5 @@ One or more business applications to associate the demand with. You can select a
 **Related topics**  
 
 
-[Edit a demand associated with a business application](../../task/eaw-task/eaw-edit-a-demand-associated-with-a-business-application.md)
+[Edit a demand associated with a business application](eaw-edit-a-demand-associated-with-a-business-application.md)
 

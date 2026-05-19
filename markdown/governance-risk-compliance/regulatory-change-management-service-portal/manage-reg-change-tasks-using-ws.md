@@ -250,7 +250,7 @@ Attachments related to the task.
 
 8.  Select **Respond**.
 
-    The **Respond** action triggers the impact radius calculation in the background. For information on impact radius calculation, see [Impact radius for regulatory alerts of type regulatory event](../../grc-rcm/concept/impact-calculation-approval.md). The regulatory change task is updated with the **Responded** state.
+    The **Respond** action triggers the impact radius calculation in the background. For information on impact radius calculation, see [Impact radius for regulatory alerts of type regulatory event](impact-calculation-approval.md). The regulatory change task is updated with the **Responded** state.
 
 9.  Add an action task if necessary.
 

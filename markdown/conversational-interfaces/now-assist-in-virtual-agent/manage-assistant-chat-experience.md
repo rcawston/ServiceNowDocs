@@ -292,7 +292,7 @@ No
 
         **Note:** There is no default custom premium fallbacks. To customize premium fallbacks, contact Support.
 
-    For more information about fallback options, see [Enhanced chat](../concept/nava-enhanced-chat.md).
+    For more information about fallback options, see [Enhanced chat](nava-enhanced-chat.md).
 
 4.  Select **Save and continue**.
 

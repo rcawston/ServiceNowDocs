@@ -17,7 +17,7 @@ Create an alias and add it to an API key credential to discover Fortinet firewal
 
 ## Before you begin
 
-Create an API Token in Fortinet. For more information, see the [Create API Token](../reference/fortinet-fw-vdoms-rest-discovery.md#create-fortinet-api-token) prerequisite in [Fortinet firewall and FortiGate VDOM REST-based discovery](../reference/fortinet-fw-vdoms-rest-discovery.md).
+Create an API Token in Fortinet. For more information, see the [Create API Token](fortinet-fw-vdoms-rest-discovery.md#create-fortinet-api-token) prerequisite in [Fortinet firewall and FortiGate VDOM REST-based discovery](fortinet-fw-vdoms-rest-discovery.md).
 
 Role required: discovery\_admin
 
@@ -57,5 +57,5 @@ Create a serverless schedule for Fortinet Firewall REST-based discovery. For mor
 **Related topics**  
 
 
-[Fortinet firewall and FortiGate VDOM REST-based discovery](../reference/fortinet-fw-vdoms-rest-discovery.md)
+[Fortinet firewall and FortiGate VDOM REST-based discovery](fortinet-fw-vdoms-rest-discovery.md)
 

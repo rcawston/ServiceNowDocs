@@ -232,10 +232,10 @@ Preview of the vaccination schedule.
 
 ## What to do next
 
-Once the configuration is finalized, changing some of the configuration values can have undesired side effects on both existing and future appointment scheduling. For details on how to handle advanced appointment scheduling configurations for a center, see [Guidance for configuring advanced appointment scheduling for a vaccination center](../reference/recommendation-on-vaccination-appointment-configuration.md).
+Once the configuration is finalized, changing some of the configuration values can have undesired side effects on both existing and future appointment scheduling. For details on how to handle advanced appointment scheduling configurations for a center, see [Guidance for configuring advanced appointment scheduling for a vaccination center](recommendation-on-vaccination-appointment-configuration.md).
 
--   **[Guidance for configuring advanced appointment scheduling for a vaccination center](../reference/recommendation-on-vaccination-appointment-configuration.md)**  
+-   **[Guidance for configuring advanced appointment scheduling for a vaccination center](recommendation-on-vaccination-appointment-configuration.md)**  
 Advanced appointment scheduling configuration enables administrators to configure appointment durations, daily schedule, holiday schedule, and so on. The configuration is used to identify the available slots as well as a location’s capacity for a given day. The configuration enables users to select appointment slots based on the parameters that you configure.
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

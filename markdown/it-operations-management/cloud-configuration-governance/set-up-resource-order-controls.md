@@ -105,5 +105,5 @@ Based on the Policy Rule action you configured for the Resource order control po
 
 If you have configured an approval policy, the requester receives a notification stating that the approval request has been sent to a designated approver on exceeding the specified quota. Typically, the assigned approver designed the template used to create the cloud resource and has the **sn\_cmp.cloud\_service\_designer** role.
 
-**Parent Topic:**[Resource order controls for template-based cloud catalog items](../concept/resource-order-control-template-based-catalog.md)
+**Parent Topic:**[Resource order controls for template-based cloud catalog items](resource-order-control-template-based-catalog.md)
 

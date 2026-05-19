@@ -33,7 +33,7 @@ A shipping carrier can be associated with only one active integration profile.
 
 3.  Select the carrier integration profile that you want to associate with a shipping carrier.
 
-    **Note:** The third-party carrier application automatically inserts records into the Carrier integration profiles list. If the integration profile associated with your carrier isn't listed, make sure that the prerequisites for the integration with the carrier are fulfilled. For more information, see [Managing shipments by integrating with third-party carrier applications](../concept/integrating-with-third-party-carrier-apps.md).
+    **Note:** The third-party carrier application automatically inserts records into the Carrier integration profiles list. If the integration profile associated with your carrier isn't listed, make sure that the prerequisites for the integration with the carrier are fulfilled. For more information, see [Managing shipments by integrating with third-party carrier applications](integrating-with-third-party-carrier-apps.md).
 
 4.  Select the **Shipping Carriers** tab.
 
@@ -50,12 +50,12 @@ A shipping carrier can be associated with only one active integration profile.
 
 The shipping carrier is associated with the profile and the carrier details are shown in the **Shipping Carriers** tab.
 
-**Parent Topic:**[Track shipments using the integration framework](../concept/tracking-shipments-using-integration-framework.md)
+**Parent Topic:**[Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
 
 **Related topics**  
 
 
-[Creating an integration script include for third-party carrier applications](../concept/creating-integration-script-include-ham.md)
+[Creating an integration script include for third-party carrier applications](creating-integration-script-include-ham.md)
 
 [Remove a shipping carrier from an integration profile](remove-shipping-carrier.md)
 
@@ -69,7 +69,7 @@ The shipping carrier is associated with the profile and the carrier details are 
 
 [View hardware asset shipment details](view-hardware-asset-shipments.md)
 
-[Stale shipments](../concept/stale-shipments.md)
+[Stale shipments](stale-shipments.md)
 
 [Track a hardware asset shipment](track-hardware-asset-shipments.md)
 

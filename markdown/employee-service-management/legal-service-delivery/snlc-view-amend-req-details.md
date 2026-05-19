@@ -92,5 +92,5 @@ Request Details
 </table>5.  Track the activities in the request and post messages for the fulfiller working on it by accessing the **Activity** tab.
 
 
-**Parent Topic:**[Contract amendments](../concept/snlc-amend-req-landing.md)
+**Parent Topic:**[Contract amendments](snlc-amend-req-landing.md)
 

@@ -123,7 +123,7 @@ Update monitors to match your business needs.
 
 </td><td>
 
-[Edit existing monitors, including deactivation](../task/manage-synthetic-monitors.md).
+[Edit existing monitors, including deactivation](manage-synthetic-monitors.md).
 
 </td><td>
 
@@ -135,7 +135,7 @@ Embed monitor results in a Service Observability dashboard.
 
 </td><td>
 
-[Use synthetic monitoring with Service Observability](../../service-observability/concept/use-synthetic-monitoring-with-service-observability.md)
+[Use synthetic monitoring with Service Observability](service-observability/use-synthetic-monitoring-with-service-observability.md)
 
 </td><td>
 
@@ -148,6 +148,6 @@ To learn more about configuring and using synthetic monitoring, see:
 
 -   [Configuring synthetic monitoring](configuring-synthetic-monitoring.md)
 -   [Identifying system issues with synthetic monitoring](identifying-system-issues.md)
--   [Synthetic monitoring reference](../reference/synthetic-monitoring-reference.md)
--   [Use synthetic monitoring with Service Observability](../../service-observability/concept/use-synthetic-monitoring-with-service-observability.md)
+-   [Synthetic monitoring reference](synthetic-monitoring-reference.md)
+-   [Use synthetic monitoring with Service Observability](service-observability/use-synthetic-monitoring-with-service-observability.md)
 

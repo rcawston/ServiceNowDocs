@@ -33,11 +33,11 @@ Manage data growth![](../../../reuse/icons/brand-icons/bus-database.svg)Manage t
 
 </td><td>
 
-[Database rotation![](../../../reuse/icons/brand-icons/ind-renewable-recycling.svg)Learn about applying database rotation techniques.](../../database-rotation/concept/c_DatabaseRotation.md)
+[Database rotation![](../../../reuse/icons/brand-icons/ind-renewable-recycling.svg)Learn about applying database rotation techniques.](c_DatabaseRotation.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Data Management system properties.](../reference/data-management-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Data Management system properties.](data-management-reference.md)
 
 </td></tr></tbody>
 </table>

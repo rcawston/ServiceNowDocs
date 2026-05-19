@@ -53,5 +53,5 @@ When a privacy case action task moves from **Draft** to **Assigned** state, an a
 
 After the assessment is submitted, the state of the assessment gets updated to **Review** and the status of the assessment is set to **Completed**. A compliance case analyst reviews the assessment and updates the state of the assessment to **Close Complete**.
 
-**Parent Topic:**[Using Privacy Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Privacy Case Management](using-pcm.md)
 

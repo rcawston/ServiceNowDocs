@@ -24,7 +24,7 @@ Make sure that the following plugins are activated.
 -   GRC Profiles plugin must be activated
 -   The Predictive Intelligence plugin
 
-Modify the following [Governance, Risk, and Compliance properties](../../grc-common/reference/grc-properties.md) with the sn\_grc.admin role.
+Modify the following [Governance, Risk, and Compliance properties](../grc-common-functions/grc-properties.md) with the sn\_grc.admin role.
 
 -   **Issue assignee suggestion based on** property \(**Similarity Analysis**\).
 -   **Machine Learning Solution for prediction of issue assignee** property \(**ml\_x\_snc\_sn\_grc\_pred\_intel\_global\_similarity\_solution\_definition\_for\_assigned\_to\_for\_issue**\).
@@ -152,5 +152,5 @@ Frequency of how often you want to refresh the data that you use to retrieve you
     |**Update and Retrain**|Modify your solution definition and train it.|
 
 
-**Parent Topic:**[Issue assignment using the Governance, Risk, and Compliance Predictive Intelligence plugin](../concept/issue-assignment-using-predictive-intelli.md)
+**Parent Topic:**[Issue assignment using the Governance, Risk, and Compliance Predictive Intelligence plugin](issue-assignment-using-predictive-intelli.md)
 

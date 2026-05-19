@@ -79,7 +79,7 @@ You must complete the sourcing of the requested parts in the Enterprise Asset Wo
 
 [Start working on tasks using the Mobile Agent application](start-work-mobile-agent-eam.md)
 
-[Record time worked on a task using the Mobile Agent application](../concept/record-time-mobile-agent-app.md)
+[Record time worked on a task using the Mobile Agent application](record-time-mobile-agent-app.md)
 
 [Close a Pick Up Asset task using the Mobile Agent application](pickup-asset-task-mobile-agent.md)
 

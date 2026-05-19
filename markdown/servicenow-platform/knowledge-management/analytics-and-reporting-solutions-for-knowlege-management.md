@@ -15,7 +15,7 @@ breadcrumb: [Knowledge Management, Manage content capabilities, Extend ServiceNo
 
 The following topics provide information on Platform Analytics Solutions and Demand Insights dashboards for Knowledge Management.
 
--   **[Knowledge Management Platform Analytics Solutions](../../../use/dashboards/application-content-packs/knowledge-content-pack.md)**  
+-   **[Knowledge Management Platform Analytics Solutions](knowledge-content-pack.md)**  
 Platform Analytics Solutions contain preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
 -   **[Pareto chart for Knowledge Demand Insights](pareto-report-demand-insights.md)**  
 The Pareto chart for Knowledge Demand Insights enables you to visualize candidate knowledge gaps and prioritize the order in which knowledge gaps should be resolved.

@@ -17,7 +17,7 @@ Reference information for the Automated Test Framework.
 
 Watch [https://players.brightcove.net/6274575390001/nUx4EKfUz\_default/index.html?videoId=6286204365001](https://players.brightcove.net/6274575390001/nUx4EKfUz_default/index.html?videoId=6286204365001) for some helpful tips to use ATF features.
 
--   **[Tables excluded from rollback after running an automated test](../reference/atf-excluded-from-rollback.md)**  
+-   **[Tables excluded from rollback after running an automated test](atf-excluded-from-rollback.md)**  
 The Automated Test Framework tracks data created by running tests and rolls back changes after testing. The system excludes certain tables from being tracked during testing.
 -   **[Tests](tests-module.md)**  
 The Tests module opens the Test table. From here, you can add, edit, and run tests. By opening an individual test record, you can view and edit the steps comprising that test.
@@ -35,11 +35,11 @@ Open the Suites Schedules table. You can drill down to see details about the res
 Start a client test runner and view information about test runners and test runs.
 -   **[Automated Test Framework use case examples](atf-use-cases.md)**  
 Use cases can help you construct tests for common scenarios.
--   **[Testable Configurable Workspace components](../reference/atf-conf-ws-components.md)**  
+-   **[Testable Configurable Workspace components](atf-conf-ws-components.md)**  
 Learn about the components and its associated actions in the configurable workspace.
--   **[Automated Test Framework roles](../reference/atf-roles.md)**  
+-   **[Automated Test Framework roles](atf-roles.md)**  
 Automated Test Framework is installed with these roles.
--   **[Administration](../reference/atf-test-admin-module.md)**  
+-   **[Administration](atf-test-admin-module.md)**  
 The Administration module contains forms for configuring and managing the automated test framework.
 
 **Parent Topic:**[Automated Test Framework \(ATF\)](atf-landing-page.md)

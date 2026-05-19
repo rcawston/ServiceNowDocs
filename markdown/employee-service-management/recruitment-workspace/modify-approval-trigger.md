@@ -34,5 +34,5 @@ Role required: admin
     -   Preferred level of seniority
     -   Number of headcount
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](config-recruitment.md)
 

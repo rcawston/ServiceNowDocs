@@ -23,10 +23,10 @@ Like other message broker systems, Kafka facilitates the asynchronous data excha
 
 Kafka software runs on one or more servers. Each node, called a broker, in a Kafka cluster helps producer applications write data to topics, which are where records are stored and published. Consumer applications read from topics. Topics are divided into partitions to make them more manageable and Kafka guarantees strong ordering for each partition.
 
--   **[Configure the Apache Kafka Consumer connector](../task/configure-kafka-consumer-connector.md)**  
+-   **[Configure the Apache Kafka Consumer connector](configure-kafka-consumer-connector.md)**  
 Configure the Apache Kafka Consumer connector instance to create events from streaming messages collected by the Apache Kafka connector.
--   **[Map Kafka message payload attributes to alert fields](../task/map-kafka-message-payload-attributes-to-alert-fields.md)**  
+-   **[Map Kafka message payload attributes to alert fields](map-kafka-message-payload-attributes-to-alert-fields.md)**  
 Map Kafka message attributes to alert fields to make alerts based on the messages more meaningful. Use event field mapping to map Kafka severity values to appropriate ServiceNow values.
 
-**Parent Topic:**[Configure a pull connector](../task/t_EMConfigureConnectorInstance.md)
+**Parent Topic:**[Configure a pull connector](t_EMConfigureConnectorInstance.md)
 

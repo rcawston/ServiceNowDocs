@@ -62,7 +62,7 @@ Similar to creating a category tag, you can create alternative types to define c
 
 The widget instance associated with the type displays any announcements tagged with the same type.
 
-**Parent Topic:**[Posting announcements to portal users](../concept/announcements.md)
+**Parent Topic:**[Posting announcements to portal users](announcements.md)
 
 **Related topics**  
 

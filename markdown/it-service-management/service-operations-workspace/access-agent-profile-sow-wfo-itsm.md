@@ -33,7 +33,7 @@ Access your profile to analyze information such as:
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    When you click the home icon \(![Home icon](../../itsm-workspace/image/home-icon.png)\), you can view the status of your work, organizational performance, current status of incidents, and unassigned incidents in the [Service Operations Workspace landing page](../concept/sow-ui-landing-page.md).
+    When you click the home icon \(![Home icon](../../itsm-workspace/image/home-icon.png)\), you can view the status of your work, organizational performance, current status of incidents, and unassigned incidents in the [Service Operations Workspace landing page](sow-ui-landing-page.md).
 
 2.  Click the lists icon \(![Lists icon](../../itsm-manager-workspace/image/lists_icon.png)\).
 
@@ -84,5 +84,5 @@ You can view your targets for a KPI for a given date range if your manager has s
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](../concept/wfo-itsm-service-operations-workspace.md)
+**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](wfo-itsm-service-operations-workspace.md)
 

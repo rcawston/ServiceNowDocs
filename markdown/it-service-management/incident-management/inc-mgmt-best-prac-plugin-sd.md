@@ -21,15 +21,15 @@ Install these additional plugins to use the Incident management best practice �
 
 -   Problem Management Best Practice — Madrid plugin \(com.snc.best\_practice.problem.madrid\).
 
-    For more information on this plugin and the activation process, see [Activate Problem Management Best Practice — Madrid](../../problem-management/task/activate-pm-best-practice-madrid.md).
+    For more information on this plugin and the activation process, see [Activate Problem Management Best Practice — Madrid](../problem-management/activate-pm-best-practice-madrid.md).
 
 -   Problem Management Best Practice — Madrid – Knowledge Integration plugin \(com.snc.best\_practice.problem.madrid.knowledge\).
 
-    For more information on this plugin and the activation process, see [Activate Problem Management Best Practice — Madrid — Knowledge Integration](../../problem-management/task/act-pm-best-prac-madrid-know-int.md).
+    For more information on this plugin and the activation process, see [Activate Problem Management Best Practice — Madrid — Knowledge Integration](../problem-management/act-pm-best-prac-madrid-know-int.md).
 
 -   Problem Management Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\).
 
-    This plugin is not installed by default for zBoot customers. Install the plugin manually. This plugin is responsible for known error article behavior in the incident or problem workflow. For more information on this plugin and the activation process, see [Activate Problem Management Best Practice — Jakarta](../../problem-management/task/act-pm-best-prac-jakarta.md).
+    This plugin is not installed by default for zBoot customers. Install the plugin manually. This plugin is responsible for known error article behavior in the incident or problem workflow. For more information on this plugin and the activation process, see [Activate Problem Management Best Practice — Jakarta](../problem-management/act-pm-best-prac-jakarta.md).
 
 
 All the plugins except for com.snc.best\_practice.problem.jakarta are activated by default for the new customers. Existing or upgrading customers must request the plugin or install the plugin manually. For more information, see [Request a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RequestAPlugin.md).
@@ -74,7 +74,7 @@ This plugin enhances the incident and problem workflow to support the following 
     -   The fix is copied to the **Work Notes** field.
     -   A notification is sent to the users listed in the **Assigned to** and **Work notes list** fields of the problem record. The notification is sent only when the incident state is New, On Hold, or In Progress.
 
--   **[Activate Incident Management Best Practice – San Diego](../task/act-inc-mgmt-best-prac-plugin-sd.md)**  
+-   **[Activate Incident Management Best Practice – San Diego](act-inc-mgmt-best-prac-plugin-sd.md)**  
 Activate the Incident Management Best Practice — San Diego plugin \(com.snc.best\_practice.incident.sandiego\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 **Parent Topic:**[Incident Management plugins](incident-mgmt-plugins.md)

@@ -37,5 +37,5 @@ Role required: inventory\_user \(read\),inventory\_admin, or asset\_integration\
 -   The **Stale shipment** check box on the Shipment details form is automatically cleared.
 -   The tracking number of this shipment is sent to the carrier for tracking and this shipment record won’t be marked as stale again.
 
-**Parent Topic:**[Stale shipments](../concept/stale-shipments.md)
+**Parent Topic:**[Stale shipments](stale-shipments.md)
 

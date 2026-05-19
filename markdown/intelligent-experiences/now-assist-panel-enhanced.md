@@ -26,10 +26,10 @@ You must fulfill the following conditions before using the Now Assist panel enha
 -   Next Experience must be enabled. For more information, see [Considerations for activating Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md).
 -   You must have the now\_assist\_panel\_user role.
 -   Your role must be applied to at least one active Now Assist skill to use skills in the Now Assist panel.
--   Now Assist panel enhanced chat must be activated before you can use it. See [Activate Now Assist panel enhanced chat](../task/now-assist-panel-enhanced-activate.md) for more information.
--   Now Assist skills must be enabled to appear on the Now Assist panel. For more information, see [Now Assist skills](../../now-assist-skills/concept/now-assist-skills.md).
--   If you want to use assistants, you must activate them. See [Activate Now Assist panel assistants](../task/now-assist-panel-activate-assistant.md) for information on activating assistants.
--   If you want to use voice input, you have to enable voice input [Enable voice input for Now Assist panel](../../now-assist-admin/task/enable-voice-input-for-now-assist-panel.md).
+-   Now Assist panel enhanced chat must be activated before you can use it. See [Activate Now Assist panel enhanced chat](now-assist-panel-enhanced-activate.md) for more information.
+-   Now Assist skills must be enabled to appear on the Now Assist panel. For more information, see [Now Assist skills](now-assist-skills/now-assist-skills.md).
+-   If you want to use assistants, you must activate them. See [Activate Now Assist panel assistants](now-assist-panel-activate-assistant.md) for information on activating assistants.
+-   If you want to use voice input, you have to enable voice input [Enable voice input for Now Assist panel](enable-voice-input-for-now-assist-panel.md).
 
     **Note:** Voice input is automatically activated when you activate the Now Assist panel. As of the Zurich Patch 4 release, voice input is configured in the [Configure Next Experience accessibility preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-accessibility-preferences.md).
 
@@ -196,7 +196,7 @@ Depending on the context of the response, an additional go to search results ico
 
 ## Agentic conversations
 
-**Note:** Admins must first enable AI agents before end users can experience agentic conversations. Now Assist panel discovers and executes agentic workflows. For more information on agentic workflows, see [Now Assist agentic workflows](../../now-assist-ai-agents/concept/sn-aia-use-cases-list.md) and [Multiple conversations in Now Assist AI agents](../../now-assist-ai-agents/concept/multiple-conversations-aia.md).
+**Note:** Admins must first enable AI agents before end users can experience agentic conversations. Now Assist panel discovers and executes agentic workflows. For more information on agentic workflows, see [Now Assist agentic workflows](sn-aia-use-cases-list.md) and [Multiple conversations in Now Assist AI agents](multiple-conversations-aia.md).
 
 When you ask a question to the Now Assist panel enhanced chat, the agent understands the query and begins a flow. When you submit a message with multiple questions or requests, Now Assist panel enhanced chat answers the multiple questions consecutively in its response. It can reason, plan, and execute across AI agents, Now Assist panel topics, conversational actions and subflows, catalogs, Knowledge Base articles, custom skills, and any Now Assist supported skills to help you. You receive on-screen messages to let you know where the agent is in the agentic processing flow prior to receiving the response. After the processing has completed its flow, a View AI Steps section header appears, where the processing flow steps can be expanded and viewed. You can stop the agentic processing flow at any time by selecting the End flow icon \(![End flow icon.](../../now-assist-in-va/image/agentic-end-flow-icon.png)\). After an action starts, it can't be stopped. Selecting the End flow icon only stops the proceeding processing steps.
 
@@ -226,7 +226,7 @@ You can generate a case or incident summarization from the Now Assist panel for 
 
 Get specific and accurate answers to your queries by using the Get Help skill option on the Now Assist panel. This skill is available to everyone entitled to Now Assist capabilities.
 
-For more information about the Now Assist Conversational Help skill that represents as Get Help on the Now Assist panel, see [Now Assist Conversational Help](../../now-assist-skills/concept/conversational-help-skills.md).
+For more information about the Now Assist Conversational Help skill that represents as Get Help on the Now Assist panel, see [Now Assist Conversational Help](now-assist-skills/conversational-help-skills.md).
 
 ## Resolution notes generation
 

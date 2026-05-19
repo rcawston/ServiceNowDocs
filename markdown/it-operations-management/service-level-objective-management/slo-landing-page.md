@@ -35,11 +35,11 @@ Service Level Objective Management \(SLO Management\) helps your organization de
 
 <table id="table_b4x_psb_4bc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Service Level Objective Management concepts and features.](../concept/exploring-service-level-objective-management.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Service Level Objective Management concepts and features.](exploring-service-level-objective-management.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-investor-relations-2.svg)Using Service Level Objective Management](../task/using-service-level-objective-management.md)
+[Use![](../../../reuse/icons/brand-icons/bus-investor-relations-2.svg)Using Service Level Objective Management](using-service-level-objective-management.md)
 
 </td></tr><tr><td>
 

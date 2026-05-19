@@ -44,5 +44,5 @@ Role required: sn\_sec\_tisc.analyst
     -   An information message displays that This specific vulnerability object doesn't have any vulnerable entries associated with it. You must associate the object\(s\) with the vulnerable entries to fetch the data. For more information see, [Fetch Vulnerability Data](fetch-vulnerability-data.md) on how to link the records and perform the scheduled job to fetch the data. and for more information on Scheduled jobs, see [Scheduled jobs](https://servicenow.com/docs/bundle/washingtondc-platform-administration/page/administer/reference-pages/concept/c_ScheduledJobs.html).
     -   This button will trigger a background scheduled job, and the job initiation and execution details are displayed in the Activity Stream section. For example, when the job is triggered the activity stream displays an activity that Started fetching associated data with the vulnerable entries. The background scheduled job will continuously check for any observables that has any vulnerable entry associated with the observable and run automatically and this scheduled job will run every one hour. in case if the records are not fetched then you can manually link the records and fetch the data.
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](observables.md)
 

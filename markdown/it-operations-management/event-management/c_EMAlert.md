@@ -31,7 +31,7 @@ Event Management provides various modules, templates, and properties for configu
 Determine the order in which to handle alerts according to the alert priority score. Multiple factors determine the alert priority score and this value changes with changes to the underlying factors.
 -   **[Alert assignment groups for teams](alert-assignment-group.md)**  
 Alert assignment groups assign alerts to the right teams promptly and automatically, improving overall incident management capabilities.
--   **[Configuring Express List views for users and user groups](../../service-operations-workspace-itom/concept/manage-views-express-list.md)**  
+-   **[Configuring Express List views for users and user groups](manage-views-express-list.md)**  
 Centrally control what users monitor by predefining views in Express List and assigning them to users and user groups.
 -   **[Probable Root Cause Analysis \(RCA\)](probable-rca.md)**  
 Shorten the mean time to repair \(MTTR\) by discovering the root cause of an alert.
@@ -39,15 +39,15 @@ Shorten the mean time to repair \(MTTR\) by discovering the root cause of an ale
 Finding alerts that are similar to the alert that you are currently investigating can help save troubleshooting time by seeing how similar alerts were resolved.
 -   **[Self-health monitors for Event Management](self-monitoring.md)**  
 Use the Event Management self-health monitors to track Event Management features and resolve issues.
--   **[Create maintenance rules](../task/create-maintenance-rule.md)**  
+-   **[Create maintenance rules](create-maintenance-rule.md)**  
 Use maintenance rules to mark CIs in maintenance status. When in maintenance status, these CIs are excluded from impact calculation.
--   **[Resolve an incident related to an alert](../task/t_EMResolveCloseIncidentAlert.md)**  
+-   **[Resolve an incident related to an alert](t_EMResolveCloseIncidentAlert.md)**  
 When you resolve an incident that is associated with an alert, the alert can also close according to the **evt\_mgmt.incident\_closes\_alert** property.
--   **[Close an alert](../task/t_EMCloseAlert.md)**  
+-   **[Close an alert](t_EMCloseAlert.md)**  
 Close an alert by an event or a user action. Closing an alert also closes any related incident that is not already resolved or closed.
--   **[Reopen an alert](../task/t_EMReopenAlert.md)**  
+-   **[Reopen an alert](t_EMReopenAlert.md)**  
 Additional events can cause reopening of alerts, or you can reopen an alert by changing its state. When an alert reopens, any associated incidents can also be updated or reopened according to the incident state and the **evt\_mgmt.alert\_reopens\_incident** property.
--   **[Alert insight properties](../reference/configure-alert-insight-properties.md)**  
+-   **[Alert insight properties](configure-alert-insight-properties.md)**  
 Use these properties to configure alert insight.
 -   **[Rotate event and alert table for cleanup](rotate-tables-purge-data.md)**  
 The growth of data tables impedes performance. Preserve instance performance by event table rotation and alert table cleanup for status and alert history retention.

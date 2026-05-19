@@ -37,5 +37,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 The purchase order exception is marked as closed.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
 

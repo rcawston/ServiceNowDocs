@@ -15,7 +15,7 @@ Work on a digital forensic legal matter assigned to you to get the requested act
 
 ## Before you begin
 
-The practice area lead or the group manager would have [assigned the legal matter to you](../../legal-matter-management/task/assign-legal-matter.md) to work on.
+The practice area lead or the group manager would have [assigned the legal matter to you](legal-matter-management/assign-legal-matter.md) to work on.
 
 Role required: sn\_lg\_matter.matter\_fulfiller
 
@@ -92,7 +92,7 @@ The state of the legal matter updates to Work in Progress.
 
 7.  Remove any existing custodial or non-custodial data that doesn't need further investigation or was mistakenly added to the matter by selecting the record in the **Custodial Data** tab or **Non-custodial Data** tab and clicking **Remove**.
 
-8.  Review the phases and tasks in the respective tabs and, if needed, [create more phases](../../legal-matter-management/task/add-phases-to-legal-matter.md) and [create digital forensic matter tasks](create-dft-matter-task.md) to organize the data processing of custodial and non-custodial data.
+8.  Review the phases and tasks in the respective tabs and, if needed, [create more phases](legal-matter-management/add-phases-to-legal-matter.md) and [create digital forensic matter tasks](create-dft-matter-task.md) to organize the data processing of custodial and non-custodial data.
 
     **Note:** The phases and tasks are available in the legal matter only if you created the matter using the digital forensic matter template.
 
@@ -102,25 +102,25 @@ The state of the legal matter updates to Work in Progress.
 
     2.  On the form, fill in the required fields, and click **Save**.
 
-10. Review legal matter tasks to determine if all its required actions are complete and [approve or reject the tasks](../../legal-matter-management/task/approve-reject-matter-task.md).
+10. Review legal matter tasks to determine if all its required actions are complete and [approve or reject the tasks](legal-matter-management/approve-reject-matter-task.md).
 
 11. Update the status of the associated custodial and non-custodial records to complete.
 
     -   In the **Custodial Data** tab, open the custodian record, update its **Status** to **Complete**, and click **Save**.
     -   In the **Non-custodial Data** tab, open the non-custodial record, update its **Status** to **Complete**, and click **Save**.
-12. [Add milestones](../../legal-matter-management/task/add-milestone-to-legal-matter.md) to keep a track of timelines to complete important tasks.
+12. [Add milestones](legal-matter-management/add-milestone-to-legal-matter.md) to keep a track of timelines to complete important tasks.
 
-13. [Create artifacts](../../legal-matter-management/task/add-artifact-to-legal-matter.md) \(folders\) and [upload files into these artifacts](../../legal-matter-management/task/add-files-to-artifact.md) to record and store supporting documents within the legal matter.
+13. [Create artifacts](legal-matter-management/add-artifact-to-legal-matter.md) \(folders\) and [upload files into these artifacts](legal-matter-management/add-files-to-artifact.md) to record and store supporting documents within the legal matter.
 
-14. [Associate a new legal request with the legal matter](../../legal-matter-management/task/associate-related-legal-requests-to-matter.md) to combine multiple legal requests with the same underlying needs into a single matter.
+14. [Associate a new legal request with the legal matter](legal-matter-management/associate-related-legal-requests-to-matter.md) to combine multiple legal requests with the same underlying needs into a single matter.
 
     All custodial and non-custodial data from the selected request are added to the matter and appear in the respective tabs.
 
-15. [Associate the matter with another legal request](../../legal-matter-management/task/associate-existing-matter-to-legal-request.md) that is similar in nature.
+15. [Associate the matter with another legal request](legal-matter-management/associate-existing-matter-to-legal-request.md) that is similar in nature.
 
 16. Close or cancel the request as appropriate.
 
-    -   [Close the legal matter](../../legal-matter-management/task/close-legal-matter.md) after you complete the required actions for all custodial and non-custodial data in the matter. Ensure you’ve completed the following items before closing the legal matter.
+    -   [Close the legal matter](legal-matter-management/close-legal-matter.md) after you complete the required actions for all custodial and non-custodial data in the matter. Ensure you’ve completed the following items before closing the legal matter.
         -   Closed all tasks that are complete or canceled that don't need any actions.
         -   Updated the status of all custodial and non-custodial data in the legal matter to either Complete or Cancelled, as appropriate.
     -   If the matter doesn't need any action, you can cancel it by clicking the more button \(![More button.](../../legal-request-management/image/more-button-icon.png)\) and selecting **Cancel**.
@@ -135,5 +135,5 @@ The state of the legal matter updates to Work in Progress.
 -   **[Create a task for a digital forensic legal matter](create-dft-matter-task.md)**  
 Create a task for a digital forensic legal matter and add instructions and to-do items in a checklist for the task owner to work on.
 
-**Parent Topic:**[Managing digital forensics requests](../concept/managing-legal-dft-request.md)
+**Parent Topic:**[Managing digital forensics requests](managing-legal-dft-request.md)
 

@@ -40,5 +40,5 @@ You can provide more information on the queries that the procurement buyer has p
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](shopper-todos.md)
 

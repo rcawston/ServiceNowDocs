@@ -54,5 +54,5 @@ For example, to contact a vendor, such as the insurance administrator or payroll
     The SLA progress is resumed.
 
 
-**Parent Topic:**[Use HR Case Management](../concept/c_HRCaseManagement.md)
+**Parent Topic:**[Use HR Case Management](c_HRCaseManagement.md)
 

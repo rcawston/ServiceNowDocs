@@ -39,5 +39,5 @@ Feed members can do the following:
     -   If the feed is public, click **Join**.
     -   If the feed is private, click **Request**. The feed administrator receives an email notification and must accept your request before you can join the feed.
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
 

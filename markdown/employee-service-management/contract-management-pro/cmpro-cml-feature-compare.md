@@ -545,13 +545,13 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 You can migrate your data from Legal Simple Contracts to Contract Management Pro to start using the additional features available.
 
-For more information on migration, see [Migrating to Contract Management Pro for Legal Service Delivery](../../legal-simple-contracts/concept/migration-landing-page.md).
+For more information on migration, see [Migrating to Contract Management Pro for Legal Service Delivery](../legal-simple-contracts/migration-landing-page.md).
 
 **Important:** The migration script is designed only for migrating data from Legal Simple Contracts to the Legal Contract Repository, which applies specifically to Contract Management Pro for Legal Service Delivery.
 
 Contract Management Pro for Legal Service Delivery is a licensed application that must be installed separately.
 
-**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
 
 **Related topics**  
 
@@ -582,5 +582,5 @@ Contract Management Pro for Legal Service Delivery is a licensed application tha
 
 [Obligation Management notifications](cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](contract-management-pro-glossary.md#)
 

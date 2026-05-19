@@ -32,7 +32,7 @@ Role required: it\_demand\_user
 
 2.  On the Demand form, fill in the **Name**, **Description**, and **Business case** fields.
 
-    For a description of the field names, see [Demand form](../../planning-and-policy/reference/demand-form.md).
+    For a description of the field names, see [Demand form](../demand-management/demand-form.md).
 
 3.  Save **Save**.
 
@@ -54,5 +54,5 @@ The similar demands identified by Now Assist are displayed in the top banner and
 
 View the full details of the identified similar demand records by selecting the demand number link from the Similar Demands related list.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 

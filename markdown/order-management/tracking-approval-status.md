@@ -61,7 +61,7 @@ Grouping of approval steps that are run in sequential order, based on the order 
 
 Card that provides information about the approval step and the rules and conditions for that step. -   If the request was previously recalled during the approval process, an Auto-approved flag indicates at least one or more previously completed approvals are automatically reapplied.
 -   Depending on the approval request state and the user role, the card displays the More options \(![](../image/icon-three-dots.png) \) menu for approvers to approve or reject the request in the step.
--   For approval admins that also have the requester role, the More options \(![](../image/icon-three-dots.png) \) menu includes an **Override** option to bypass the step if it's no longer required. For details, see [Override an approver](../task/override-approval-step.md).
+-   For approval admins that also have the requester role, the More options \(![](../image/icon-three-dots.png) \) menu includes an **Override** option to bypass the step if it's no longer required. For details, see [Override an approver](override-approval-step.md).
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Card that provides information about the approval step and the rules and conditi
 Options displayed for different approval actions, depending on the user role.For example:
 
 -   Requesters have the option to **Recall an approval request**.
--   Requesters and approvers have the option to add an ad-hoc approver to the approval workflow using **Add approver**. For more information, see [Add approvers to an approval request](../task/add-approver.md).
+-   Requesters and approvers have the option to add an ad-hoc approver to the approval workflow using **Add approver**. For more information, see [Add approvers to an approval request](add-approver.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Advanced Approval Management](using-advanced-approval-management.md)

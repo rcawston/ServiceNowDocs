@@ -29,7 +29,7 @@ The following diagram demonstrates scoring in Spotlight. The large circle repres
 
 -   **[Setting up Spotlight](setting-up-spotlight.md)**  
 Set up Spotlight for each set of table records that you want to evaluate and rank by importance. The records must be associated with an indicator.
--   **[See Spotlight score details](../task/view-details-of-a-spotlight.md)**  
+-   **[See Spotlight score details](view-details-of-a-spotlight.md)**  
 To see the criteria whose weights contributed to a Spotlight score, view the details of the Spotlight record.
 -   **[Spotlight interactive analysis](spotlight-interactive-analysis.md)**  
 Spotlight interactive analysis shows the key results of a Spotlight job. Access the analysis from a Spotlight Group record.
@@ -39,14 +39,14 @@ You can list Spotlights and show them in a dashboard on a configurable workspace
 The steps of Spotlight jobs are recorded in logs. Use these logs to debug any issues.
 -   **[Domain separation with Spotlight](domain-separation-spotlight.md)**  
 If you have domain separation enabled, Spotlight applies it during Spotlight jobs.
--   **[Copy a Spotlight group to domains](../task/copy-spotlight-group-domain.md)**  
+-   **[Copy a Spotlight group to domains](copy-spotlight-group-domain.md)**  
 You can copy a Spotlight group to other domains, saving the effort of reproducing the group manually for each domain.
--   **[Copy a Spotlight group to breakdown elements](../task/copy-spotlight-group-element.md)**  
+-   **[Copy a Spotlight group to breakdown elements](copy-spotlight-group-element.md)**  
 You can copy a Spotlight group across multiple elements of a single breakdown.
 -   **[Spotlight group copy logs](spotlight-copy-logs.md#)**  
 When a Spotlight group is copied, the steps of the copying process are recorded in logs. Use these logs to debug any issues.
 -   **[Administering Spotlight](administering-spotlight.md)**  
 Users with the admin role can access lower-level components of Spotlight.
 
-**Parent Topic:**[Configure Performance Analytics advanced features](c_PADataArchitecture.md)
+**Parent Topic:**[Configure Performance Analytics advanced features](../performance-analytics/c_PADataArchitecture.md)
 

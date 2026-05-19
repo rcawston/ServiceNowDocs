@@ -163,7 +163,7 @@ The external storage system is configured and ready to be used for storing contr
 
 For information on configuring electronic signature provider, see [Configure an e-signature provider](cncore-integrate-esign.md).
 
-**Parent Topic:**[Configuring external applications for Contract Management Pro](../concept/cncore-set-ext-app-config.md)
+**Parent Topic:**[Configuring external applications for Contract Management Pro](cncore-set-ext-app-config.md)
 
 **Related topics**  
 

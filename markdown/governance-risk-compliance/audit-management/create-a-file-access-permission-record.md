@@ -53,7 +53,7 @@ The File access permission record enables the users to manage access permissions
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [File access permission record form](../reference/file-access-permission-record-form.md).
+    For more information on the fields in the form, see [File access permission record form](file-access-permission-record-form.md).
 
 5.  Select **Submit**.
 

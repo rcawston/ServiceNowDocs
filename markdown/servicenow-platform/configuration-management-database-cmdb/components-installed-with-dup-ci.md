@@ -75,7 +75,7 @@ Settings per related table \(table that references CIs\) to disable workflows \(
 
  In the base system, this table contains records for the Change \[change\_request\] and the Task CI \[task\_ci\] related tables, which are configured to disable workflow and to proceed with errors.
 
- For more information about how to use this table, see [Turn off workflows of related tables during remediation](../task/dedup-ci-disable-workflow.md).
+ For more information about how to use this table, see [Turn off workflows of related tables during remediation](dedup-ci-disable-workflow.md).
 
 </td></tr></tbody>
 </table>## Scheduled jobs installed
@@ -125,5 +125,5 @@ De-duplication: Populate Template Suggested and Orphan Tasks
 Runs hourly to count the number of tasks that match each published template and the number of tasks that don’t match any published template. These counts then appear on various cards in the De-duplication dashboard.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Duplicate CIs remediation](../concept/de-duplication-tasks.md)
+</table>**Parent Topic:**[Duplicate CIs remediation](de-duplication-tasks.md)
 

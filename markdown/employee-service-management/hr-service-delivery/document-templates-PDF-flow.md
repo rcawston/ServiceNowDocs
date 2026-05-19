@@ -24,10 +24,10 @@ You can create a PDF document template either:
 
 The following flow describes how you can use a PDF document template from configuring the template until filling, signing, reviewing, and generating a PDF document.
 
--   [Configure a PDF document template](../task/configure-editable-pdf.md).
--   [Create participants for a PDF document template](../task/create-participant.md).
--   [Define a PDF field mapping](../task/edit-pdf-mappings.md).
--   [Mark a signature block](../task/mark-signature-doctemp.md).
+-   [Configure a PDF document template](configure-editable-pdf.md).
+-   [Create participants for a PDF document template](create-participant.md).
+-   [Define a PDF field mapping](edit-pdf-mappings.md).
+-   [Mark a signature block](mark-signature-doctemp.md).
 -   Publish the PDF document template.
--   [Document tasks generation](../task/task-mapped-participants.md).
+-   [Document tasks generation](task-mapped-participants.md).
 

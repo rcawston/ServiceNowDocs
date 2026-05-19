@@ -15,7 +15,7 @@ breadcrumb: [Base system roles, Managing roles, User administration, Configure c
 
 Certain roles grant specific administrative rights without the full privileges of the admin role. For example, an administrator can grant a user the right to change UI policy but not client scripts.
 
-To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md) and contact your account representative.
 
 These roles don’t change the behavior of the admin role, which grants full administrative privileges.
 
@@ -25,7 +25,7 @@ These roles don’t change the behavior of the admin role, which grants full adm
 
 ## Assignment rule administrator \[assignment\_rule\_admin\]
 
-Create, modify, and delete [assignment rules](../../task-table/concept/c_DefineAssignmentRules.md).
+Create, modify, and delete [assignment rules](../table-administration-and-data-management/c_DefineAssignmentRules.md).
 
 ### Contains Roles
 

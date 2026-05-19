@@ -23,12 +23,12 @@ In the second stage, the administrator opens each related record link and export
 
 When you export a model or template, the export includes the selected record, all of its ancestors, and all of its descendants. Sibling records at every level and their descendants are excluded.
 
-To learn the step-by-step procedure for exporting a model or template hierarchy, see [Export hierarchy of models and templates](../task/export-hierarchy-of-models-and-template.md).
+To learn the step-by-step procedure for exporting a model or template hierarchy, see [Export hierarchy of models and templates](export-hierarchy-of-models-and-template.md).
 
 **Related topics**  
 
 
-[Import model excel template](../reference/import-model-excel-template.md)
+[Import model excel template](import-model-excel-template.md)
 
-[Import template excel](../reference/import-template-excel.md)
+[Import template excel](import-template-excel.md)
 

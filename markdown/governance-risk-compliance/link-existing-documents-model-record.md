@@ -40,7 +40,7 @@ Users on the Xanadu and Yokohama releases must install the Document Management p
 
 The document is linked in the model risk record.
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 
 **Related topics**  
 

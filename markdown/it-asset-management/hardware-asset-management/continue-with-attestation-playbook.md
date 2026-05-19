@@ -38,5 +38,5 @@ The Create asset attestation playbook is displayed for the schedule number that 
 
 Complete all the pending activities in the playbook. For details, see [Create an asset attestation or a schedule using the playbook](create-attestation-using-playbook.md).
 
-**Parent Topic:**[Playbook for asset attestation](../concept/playbook-asset-attestation-ham.md)
+**Parent Topic:**[Playbook for asset attestation](playbook-asset-attestation-ham.md)
 

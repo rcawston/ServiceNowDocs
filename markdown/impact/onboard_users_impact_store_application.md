@@ -27,7 +27,7 @@ Role required: impact app admin
 
     The Assign users to group assignment table contains a list of available Impact groups to assign users to. You can also create a new group.
 
-    **Note:** For information on Impact groups and roles, see [Roles installed with Impact](../reference/impact-roles.md).
+    **Note:** For information on Impact groups and roles, see [Roles installed with Impact](impact-roles.md).
 
 3.  Select a **\[Group name\]** to open the user assignment page for the selected group.
 
@@ -56,7 +56,7 @@ Role required: impact app admin
 
 [Assign users to Platform Health groups](assign-users-scan-engine-groups.md)
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](configuring-impact-platform.md)
 
 **Previous topic:**[Use Guided Setup for Impact Store Application configuration](guided-setup-impact-in-app.md)
 

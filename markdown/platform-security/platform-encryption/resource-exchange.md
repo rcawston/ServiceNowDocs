@@ -32,12 +32,12 @@ Resource Exchange utilizes the KMF cryptographic APIs to provide confidentiality
 
 -   **[Key Management Framework Key Exchange](kmf-key-exchange-overview.md)**  
 KMF Key Exchange is a subset function of KMF Resource Exchange. Key Exchange securely transfers encrypted data across multiple instances.
--   **[Configure Key Exchange](../task/configure-key-exchange.md)**  
+-   **[Configure Key Exchange](configure-key-exchange.md)**  
 Key Management Framework \(KMF\) generates automatic key exchange requests for supported cryptographic modules during the fresh installation or upgrade of the instance. manages the data encryption key locally for the instance.
 -   **[Rekey ciphertext with Key Exchange](rekey-keyexchange.md)**  
 Resource Exchange supports rekeying of ciphertext on the target instance that was encrypted with keys from the source. Rekey activity is tracked in the key life-cycle.
--   **[Recurring Key Exchange walkthrough](../task/key-exchange-walkthrough.md)**  
+-   **[Recurring Key Exchange walkthrough](key-exchange-walkthrough.md)**  
 Use this walkthrough to set up a recurring key exchange in your instance using and Resource Exchange.
 
-**Parent Topic:**[Key Management Framework](../../encryption/concept/encryption.md)
+**Parent Topic:**[Key Management Framework](../encryption.md)
 

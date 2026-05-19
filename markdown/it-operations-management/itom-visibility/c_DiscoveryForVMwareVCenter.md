@@ -38,7 +38,7 @@ For installations based on the vCenter appliance, a server CI is created for the
 
 **Note:** If you're discovering SUSE Linux hosts for vCenter appliances, version 6.0 and earlier, observe these [SSH restrictions](https://kb.vmware.com/s/article/2100508).
 
-See [Data collected for VMware Cloud Discovery](../reference/data-collected-vmware-cloud-disco.md) for a description of the VMware architecture and component relationships.
+See [Data collected for VMware Cloud Discovery](data-collected-vmware-cloud-disco.md) for a description of the VMware architecture and component relationships.
 
 ## vCenter discovery process
 

@@ -169,5 +169,5 @@ Browse and select the related attachments for updating the purchase requisition 
     The purchase line is updated with the changes.
 
 
-**Parent Topic:**[Purchase revision flows](../concept/purchase-revision-flows.md)
+**Parent Topic:**[Purchase revision flows](purchase-revision-flows.md)
 

@@ -34,7 +34,7 @@ Role required: sn\_fin\_ops.specialist
     -   **Interactions** &gt; **Assigned to me**
 4.  From the Number column, select a link to open an interaction record.
 
-    For more information on the fields in an interaction record, see [Interaction form](../reference/details-tab-fin-ops-interaction.md).
+    For more information on the fields in an interaction record, see [Interaction form](details-tab-fin-ops-interaction.md).
 
 5.  Select **Create Finance Case**.![Create a finance case from an interaction record](../image/fin-case-interaction-record.png)
 
@@ -45,12 +45,12 @@ Role required: sn\_fin\_ops.specialist
     A new finance case is created. For information on viewing finance cases, see [View a case from Finance Operations Workspace](view-case-fin-ops-ws.md)
 
 
-**Parent Topic:**[Interaction management in Finance Operations Workspace](../concept/interaction-mgmt-fin-ops.md)
+**Parent Topic:**[Interaction management in Finance Operations Workspace](interaction-mgmt-fin-ops.md)
 
 **Related topics**  
 
 
-[Finance Operations Workspace inbox](../concept/fin-ops-ws-inbox.md)
+[Finance Operations Workspace inbox](fin-ops-ws-inbox.md)
 
 [Create a new interaction](view-create-new-interaction-fin-ops-ws.md)
 

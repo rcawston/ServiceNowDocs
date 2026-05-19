@@ -22,7 +22,7 @@ The ServiceNow AI Platform supports Amazon Commercial Cloud Services \(C2S\) for
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the AWS discovery prerequisites section in [AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md).
+Verify the AWS discovery prerequisites section in [AWS discovery using patterns](data-discovered-aws-patterns.md).
 
 ## Support for AWS services in the China region
 
@@ -249,5 +249,5 @@ The Amazon AWS Relational Database Service pattern collects tags and populates t
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the Cloud DataBase \[cmdb\_ci\_cloud\_database\] table.|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

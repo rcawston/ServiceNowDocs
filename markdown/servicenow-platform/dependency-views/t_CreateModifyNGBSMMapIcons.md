@@ -62,7 +62,7 @@ Role required: admin or cmdb\_admin roles are required to access the records in 
 
 You can modify a Dependency Views map indicator to use the new icon.
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](p_AdministerNGBSM.md)
 
 **Related topics**  
 
@@ -77,7 +77,7 @@ You can modify a Dependency Views map indicator to use the new icon.
 
 [Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](condition-script-parameters.md)
 
 [Create or edit a dependency type](t_CreateMapScript.md)
 

@@ -44,7 +44,7 @@ Before an audit begins, define its scope by creating the audit objectives, the c
 
 5.  On the Objective form, fill in the fields.
 
-    For information on field descriptions, see [Audit Objective fields](../reference/hs-audit-objectives-form.md).
+    For information on field descriptions, see [Audit Objective fields](hs-audit-objectives-form.md).
 
 6.  Add criteria to the audit objective.
 

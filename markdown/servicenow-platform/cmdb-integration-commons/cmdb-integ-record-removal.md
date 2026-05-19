@@ -29,5 +29,5 @@ The transform map-based method checks the Source \[sys\_object\_source\] table f
 
 The Integration Commons Remove Record \[sn\_cmdb\_int\_util\_remove\_record\] staging table tracks non-updated CIs by storing target record details including the discovery source, source feed, target table sys\_id, and target table name of these CIs. The on-start script defined within the **Remove Record Transform Map** then deletes the records from the associated target tables.
 
-The transform map-based method is used by a Service Graph Connector to improve the data processing time. For example, the SG-Tanium Remove Software data source within the Service Graph Connector for Tanium removes software data using the transform map-based method. See [Service Graph Connector for Tanium](cmdb-integration-tanium.md).
+The transform map-based method is used by a Service Graph Connector to improve the data processing time. For example, the SG-Tanium Remove Software data source within the Service Graph Connector for Tanium removes software data using the transform map-based method. See [Service Graph Connector for Tanium](../service-graph-connectors/cmdb-integration-tanium.md).
 

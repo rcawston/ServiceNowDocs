@@ -50,7 +50,7 @@ You can capture maximum of 50 steps using the recorder in a recording session. W
 
 [AI Desktop Actions Design workspace](agentic-desktop-overview.md)
 
-[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](../task/auto-create-desktop-action-ad.md)
+[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](auto-create-desktop-action-ad.md)
 
 [Create badge desktop action in AI Desktop Actions](example-badging-magmt-concept-ad.md#)
 

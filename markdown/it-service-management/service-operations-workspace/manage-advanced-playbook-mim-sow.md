@@ -64,7 +64,7 @@ The Advanced MI playbook in Service Operations Workspace provides a guided appro
 
         This section contains the following communication and collaboration plans and records:
 
-        -   The pre-defined and configured communication and collaboration include all the communications and collaborations plans configured as part of Major Incident Management communications in the Admin Center. For more information, see [Setting up communication templates and plans in Major Incident Management](../concept/setup-comm-templates-plans-mim-sow.md).
+        -   The pre-defined and configured communication and collaboration include all the communications and collaborations plans configured as part of Major Incident Management communications in the Admin Center. For more information, see [Setting up communication templates and plans in Major Incident Management](setup-comm-templates-plans-mim-sow.md).
         -   The separately created communication and collaborations include the following:
             -   Communications – All the communications tasks that you create using the **New communication** option from the **Communicate** tab are displayed in this section. All the communication plans and tasks that you create using the Incident communication plan related list from the **Related record** tab are displayed also. For more information, see [Create an adhoc communication task](create-adhoc-comm-task-mim-sow.md) and [Create adhoc communication and collaboration using the Related record tab](create-adhoc-comm-collab-mim-sow.md).
             -   Collaboration – All the collaboration records that you create using the Incident Communications plan related list from the **Related record**s tab are displayed in this section. For more information, see [Create adhoc communication and collaboration using the Related record tab](create-adhoc-comm-collab-mim-sow.md).
@@ -87,7 +87,7 @@ The Advanced MI playbook in Service Operations Workspace provides a guided appro
     -   The incident doesn’t have a problem record associated with it.
     -   The Problem Management Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin is activated on the instance.
     -   The **Create problem from major incident** flow is inactive on the instance. This flow is shipped as part of the base system in the **Inactive** status. Once activated, it creates a problem record automatically when an incident is promoted to a major incident.
-    You can also configure if the incident field information is copied automatically to the respective fields in a problem record using the **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) system property when a problem record is created. For more information, see [Create a problem](../../problem-management/task/create-a-problem-v2.md).
+    You can also configure if the incident field information is copied automatically to the respective fields in a problem record using the **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) system property when a problem record is created. For more information, see [Create a problem](../problem-management/create-a-problem-v2.md).
 
     A problem record is created automatically. You can select **View Problem** to view the problem record on a separate tab.
 
@@ -100,5 +100,5 @@ The Advanced MI playbook in Service Operations Workspace provides a guided appro
         You can then continue work on the post incident report review from the **Post Incident Report** tab on the Incident record page. For more information, see [Review and update a post incident report](review-update-pir-mim-sow.md).
 
 
-**Parent Topic:**[Managing major incidents using playbooks](../concept/managing-mi-playbook-sow.md)
+**Parent Topic:**[Managing major incidents using playbooks](managing-mi-playbook-sow.md)
 

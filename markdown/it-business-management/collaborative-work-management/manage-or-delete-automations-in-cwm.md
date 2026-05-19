@@ -47,5 +47,5 @@ Role required: sn\_cwm.cwm\_user
         ![Edit automations.](../images/cwm-automations-manage.jpg)
 
 
-**Parent Topic:**[Work item automations in CWM](../concept/implementing-automations-in-collaborative-work-management.md)
+**Parent Topic:**[Work item automations in CWM](implementing-automations-in-collaborative-work-management.md)
 

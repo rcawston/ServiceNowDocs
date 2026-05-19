@@ -17,7 +17,7 @@ You can define a price for every service catalog item. The price or recurring pr
 
 This pricing is useful if you want the price or recurring price dynamically calculated based on how a user completes the ordering form. For example, the cost of an item can be increased based on options the user selects, such as extra memory in a PC.
 
-The following [variable types](../reference/r_VariableTypes.md) can be configured to modify the total cost of an item:
+The following [variable types](r_VariableTypes.md) can be configured to modify the total cost of an item:
 
 -   Check box
 -   Multiple choice
@@ -30,7 +30,7 @@ The following [variable types](../reference/r_VariableTypes.md) can be configure
 
 A check box variable helps to set the price or recurring price of the item being ordered.
 
-You can [Create a check box variable](../task/t_CreateAVariableForACatalogItem.md) and set the price of the item. Use the **Price if checked** or **Recurring price if checked** field to specify the price or recurring price difference for that variable when the option is selected.
+You can [Create a check box variable](t_CreateAVariableForACatalogItem.md) and set the price of the item. Use the **Price if checked** or **Recurring price if checked** field to specify the price or recurring price difference for that variable when the option is selected.
 
 Under the **Type Specifications** tab, you can specify the price in different currency types. Also, you can configure the price in the following pricing models:
 
@@ -49,7 +49,7 @@ For a multiple choice variable, there are two options for pricing.
 
 **Note:** Select boxes operate the same as multiple choice variables but are displayed as select boxes.
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](p_ServiceCatalogCustomization.md)
 
 ## Reference
 
@@ -72,7 +72,7 @@ When ordering a computer, if **Phoenix** is selected as the location for this va
 
 A lookup select box variable is more powerful than a reference variable.
 
-Specify the following when [creating a lookup select box variable](../task/t_CreateAVariableForACatalogItem.md):
+Specify the following when [creating a lookup select box variable](t_CreateAVariableForACatalogItem.md):
 
 -   **Lookup from table**: the table from which values are queried.
 -   **Lookup value field**: the field on the lookup table whose value is used as the value of the variable \(typically sys\_id\).

@@ -63,5 +63,5 @@ Verify that the following DLP applications and security support common applicati
 -   Data Loss Prevention Incident Response
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](../concept/dlp-incident-response-integration-proofpoint.md)
+</table>**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](dlp-incident-response-integration-proofpoint.md)
 

@@ -15,20 +15,20 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideTransformLog API provides methods to create a GlideTransformLog object to log messages to localhost logs.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 **Related topics**  
 
 
-[GlideImportLog](../../GlideImportLog/concept/GlideImportLogAPI.md#)
+[GlideImportLog](GlideImportLogAPI.md#)
 
-[GlideImportSetRun](../../GlideImportSetRun/concept/GlideImportSetRunAPI.md#)
+[GlideImportSetRun](GlideImportSetRunAPI.md#)
 
-[GlideImportSetTable](../../GlideImportSetTable/concept/GlideImportSetTableAPI.md#)
+[GlideImportSetTable](GlideImportSetTableAPI.md#)
 
-[GlideImportSetTransformer](../../GlideImportSetTransformer/concept/GlideImportSetTransformerAPI.md#)
+[GlideImportSetTransformer](GlideImportSetTransformerAPI.md#)
 
-[GlideImportSetTransformMap](../../GlideImportSetTransformMap/concept/GlideImportSetTransformMapAPI.md#)
+[GlideImportSetTransformMap](GlideImportSetTransformMapAPI.md#)
 
 ## GlideTransformLog - GlideTransformLog\(\)
 

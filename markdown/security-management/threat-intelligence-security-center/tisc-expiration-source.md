@@ -45,5 +45,5 @@ Expiration rules are basically helpful to set the expiration time for the source
     Suppose, if a data source that has the expiration rules associated with it is deleted, then the deletion may be restricted or not allowed until these rules are addressed. This ensures that there are no inconsistencies in the application of expiration policies.
 
 
-**Parent Topic:**[Defining Expiration Rules](../task/tisc-expiration-rules.md)
+**Parent Topic:**[Defining Expiration Rules](tisc-expiration-rules.md)
 

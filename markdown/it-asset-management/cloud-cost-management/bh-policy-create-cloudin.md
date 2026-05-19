@@ -190,12 +190,12 @@ The schedule that specifies the days of the week and times of day that the resou
 
 After you create or update a policy, select **Apply policies** to apply the created policy to a resource. This action also notifies you if enough recent billing data for AWS, Azure, or Google doesn't exist to apply the policy.
 
-**Parent Topic:**[Improve resource usage with Business hours](../concept/improve-res-use-business.md)
+**Parent Topic:**[Improve resource usage with Business hours](improve-res-use-business.md)
 
 **Related topics**  
 
 
-[Business hours](../concept/bh-cloudin.md)
+[Business hours](bh-cloudin.md)
 
 [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md)
 

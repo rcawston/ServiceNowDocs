@@ -17,11 +17,11 @@ Use the collection of input controls provided by Assistant Designer to prompt an
 
 ## Common input control properties
 
-In addition to [data pills and condition controls](../concept/virtual-agent-controls.md), each input control has the following common properties:
+In addition to [data pills and condition controls](virtual-agent-controls.md), each input control has the following common properties:
 
 -   **Input variable for the user response**
 
-    Each control stores the user response in an input variable that is accessible from other controls within the same topic using the `getValue` and `getDisplayValue` methods. The variable name is based on the name that you assign to the input control. For example, if you assign the name `First prompt` to an input control, the variable name is `first_prompt`. The variable name is lowercase, with an underscore character instead of a space. For more information on these methods, see [Virtual Agent scripts](../concept/virtual-agent-scripts.md).
+    Each control stores the user response in an input variable that is accessible from other controls within the same topic using the `getValue` and `getDisplayValue` methods. The variable name is based on the name that you assign to the input control. For example, if you assign the name `First prompt` to an input control, the variable name is `first_prompt`. The variable name is lowercase, with an underscore character instead of a space. For more information on these methods, see [Virtual Agent scripts](virtual-agent-scripts.md).
 
     ![The Variable name field is populated automatically under Text input.](../images/va-text-input-node-var-name.png "The Variable name field is populated automatically")
 
@@ -78,5 +78,5 @@ Use the Carousel user input control in a Virtual Agent topic to present a prompt
 -   **[Secure Text user input control](va-secure-text.md)**  
 The Secure Text control provides a means to encrypt sensitive information provided as simple text or other formats. Use this control to encrypt sensitive information in topics that use large language model \(LLM\) discovery.
 
-**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
 

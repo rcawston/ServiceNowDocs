@@ -40,5 +40,5 @@ Plugin requirement: Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\
     The selected skills are added to the Course item skills table \(sn\_lc\_course\_item\_m2m\_cmn\_skill\) and linked to the relevant learning courses. They are then removed from the Course Item Recommended Skills list.
 
 
-**Parent Topic:**[Skill sensing for learning content](../concept/skill-sensing-for-learning-content.md)
+**Parent Topic:**[Skill sensing for learning content](skill-sensing-for-learning-content.md)
 

@@ -58,5 +58,5 @@ The footer is hidden by default. To configure the footer, you enable it in UI Bu
     For more information, see [Link set UIB Setup](https://developer.servicenow.com/dev.do#!/reference/now-experience/rome/shared-components/now-link-set/uib-setup) in the ServiceNow Developer documentation.
 
 
-**Parent Topic:**[Next Experience landing pages](../concept/next-experience-landing-pages.md)
+**Parent Topic:**[Next Experience landing pages](next-experience-landing-pages.md)
 

@@ -40,5 +40,5 @@ Roles required:
     You are redirected to the Bot Messages page where you can create and edit a bot message. For more information, see [Create bot messages](create-bot-messages.md#).
 
 
-**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](../concept/configuring-ci-workplace-fb.md)
+**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](configuring-ci-workplace-fb.md)
 

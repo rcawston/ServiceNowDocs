@@ -49,5 +49,5 @@ None
 
 |Table|Description|
 |-----|-----------|
-|Document temoplate Adobe Sign groups \[sn\_dt\_adobesign\_group\]|Stores Adobe Sign groups. For more information, see [Create adobe sign groups](../task/create-adobe-groups.md)|
+|Document temoplate Adobe Sign groups \[sn\_dt\_adobesign\_group\]|Stores Adobe Sign groups. For more information, see [Create adobe sign groups](create-adobe-groups.md)|
 

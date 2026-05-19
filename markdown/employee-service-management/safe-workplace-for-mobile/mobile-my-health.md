@@ -19,7 +19,7 @@ Use the Now Mobile app to view your health status record.
 
 Role required: none
 
-To access this content, you must have the [Now Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../concept/emergency-self-report.md) application installed.
+To access this content, you must have the [Now Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../emergency-self-report/emergency-self-report.md) application installed.
 
 ## About this task
 
@@ -50,7 +50,7 @@ The **My Current Health Status** screen displays the following information:-   U
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](mobile-emergency-response.md)
 
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](mobile-emergency-response.md)
 

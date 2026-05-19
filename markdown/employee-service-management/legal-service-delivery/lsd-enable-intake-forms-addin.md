@@ -42,5 +42,5 @@ Role required: sn\_lg\_ops.legal\_config
 
 The request category will be available while submitting a legal request from Microsoft Outlook Add-in.
 
-**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](../concept/lsd-outlook-addin-configure.md)
+**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-configure.md)
 

@@ -24,5 +24,5 @@ When the instance receives an email message, the system searches for an existing
 
 Inbound Email Action scripts no longer support the `gs.createUser()` method. Use either the automatically-generated email variables or the `gs.GetUserID()` method instead.
 
-**Parent Topic:**[References for Inbound email](../concept/references-inbound-email.md)
+**Parent Topic:**[References for Inbound email](references-inbound-email.md)
 

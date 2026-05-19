@@ -39,5 +39,5 @@ Role required: Facilities\_admin \(create\), Facilities\_staff \(view\)
 5.  Click **Add**.
 
 
-**Parent Topic:**[Schedule blackout periods](../concept/c_ScheduleBlackout.md)
+**Parent Topic:**[Schedule blackout periods](c_ScheduleBlackout.md)
 

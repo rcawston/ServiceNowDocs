@@ -54,7 +54,7 @@ If a Workplace case has 'Enable user acceptance' set to True and no 'Acceptance 
 -   Location: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Case Management references](../concept/workpalce-case-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Case Management references](workpalce-case-mgmt-references.md)
 
 **Related topics**  
 

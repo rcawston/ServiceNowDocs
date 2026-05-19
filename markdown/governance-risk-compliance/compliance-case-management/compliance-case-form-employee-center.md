@@ -33,5 +33,5 @@ See the following table for a description of the field values.
 |Add attachments|
 |Add attachments|Choose a reference file or copy and paste clipboard files|
 
-**Parent Topic:**[Report a compliance case from the Employee Center](../task/report-compliance-case-employee-center.md)
+**Parent Topic:**[Report a compliance case from the Employee Center](report-compliance-case-employee-center.md)
 

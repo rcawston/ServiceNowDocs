@@ -21,9 +21,9 @@ Breakpoints are useful when a test fails. You can add breakpoints to the test st
 
 ## Rollback of test data
 
-Test runs can also be paused immediately before rollback of test data. Check the **Pause before rollback** option to pause the test just before rollback of test data happens after the completion of the test. See [Debug an automated test using breakpoints](../task/atf-breakpoint.md) to learn more about using rollback option in a test run.
+Test runs can also be paused immediately before rollback of test data. Check the **Pause before rollback** option to pause the test just before rollback of test data happens after the completion of the test. See [Debug an automated test using breakpoints](atf-breakpoint.md) to learn more about using rollback option in a test run.
 
--   **[Debug an automated test using breakpoints](../task/atf-breakpoint.md)**  
+-   **[Debug an automated test using breakpoints](atf-breakpoint.md)**  
 Pause a test to troubleshoot failures or unexpected behavior by adding a breakpoint for a particular test step.
 
 **Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)

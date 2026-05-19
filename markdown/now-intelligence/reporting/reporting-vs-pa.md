@@ -27,5 +27,5 @@ In addition to calculating trends from snapshots, Performance Analytics is able 
 -   Compare performance at different points in time.
 -   Accelerate time to value with best practice metrics.
 
-For more information on using Performance Analytics, see [Exploring Performance Analytics](../../performance-analytics/concept/c_GetStartedwithPA.md).
+For more information on using Performance Analytics, see [Exploring Performance Analytics](../performance-analytics/c_GetStartedwithPA.md).
 

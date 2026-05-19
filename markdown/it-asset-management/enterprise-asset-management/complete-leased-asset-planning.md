@@ -170,5 +170,5 @@ The Planning task automatically closes with an updated state of Closed Complete.
 
 Based on the action that you selected in the **Lease action** field, complete all necessary tasks to return the associated enterprise asset, buy out the associated enterprise asset, or extend the lease contract.
 
-**Parent Topic:**[Managing expiring contracts for leased enterprise assets](../concept/managing-expiring-contracts-leased-assets.md)
+**Parent Topic:**[Managing expiring contracts for leased enterprise assets](managing-expiring-contracts-leased-assets.md)
 

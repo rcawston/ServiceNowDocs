@@ -51,5 +51,5 @@ Add outside counsel details for an outside firm to enable matter creation in Leg
 -   **[Add approval route details](lmm-lt-setup-approval-route.md)**  
 Add approval route details in Legal Matter Management to enable matter creation in Legal Tracker.
 
-**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](../concept/configurations-for-legal-tracker-integration.md)
+**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](configurations-for-legal-tracker-integration.md)
 

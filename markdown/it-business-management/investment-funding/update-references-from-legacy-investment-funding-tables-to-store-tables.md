@@ -33,5 +33,5 @@ Role required: admin
     |Goal|Investment|invst\_investment|sn\_invst\_pln\_invst\_investment|
 
 
-**Parent Topic:**[Upgrading legacy Investment Funding to Store application](../concept/upgrading-legacy-investment-funding-to-store.md)
+**Parent Topic:**[Upgrading legacy Investment Funding to Store application](upgrading-legacy-investment-funding-to-store.md)
 

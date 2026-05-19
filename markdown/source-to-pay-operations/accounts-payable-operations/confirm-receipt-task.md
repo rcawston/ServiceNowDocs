@@ -29,7 +29,7 @@ Role required: sn\_shop.acknowledgement\_task\_owner
 
     Shopping Hub is opened in a new browser tab.
 
-4.  Follow the steps starting from step 2 in [Confirm receipt of your order from Shopping Hub Home](../../sourcing-procurement-operations/task/work-receipt-todos.md).
+4.  Follow the steps starting from step 2 in [Confirm receipt of your order from Shopping Hub Home](../sourcing-and-procurement-operations/work-receipt-todos.md).
 
 
 **Parent Topic:**[Work on an invoice exception](work-invoice-exception-case.md)

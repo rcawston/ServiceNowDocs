@@ -17,7 +17,7 @@ Roles control access to features and capabilities in modules in the HR applicati
 
 The HR Service Delivery Scoped app can help prevent users outside of the HR organization from accessing HR data.
 
-Scoped roles for both HR case workers and HR clients \(employees, contractors, alumni, and others\) grant access to HR services. Users without an HR scoped role typically cannot view HR cases or HR profile information. For information on all the roles installed with Case and Knowledge Management plugin, see [Components installed with Case and Knowledge Management](../reference/components-installed-with-case-and-knowledge-management.md).
+Scoped roles for both HR case workers and HR clients \(employees, contractors, alumni, and others\) grant access to HR services. Users without an HR scoped role typically cannot view HR cases or HR profile information. For information on all the roles installed with Case and Knowledge Management plugin, see [Components installed with Case and Knowledge Management](components-installed-with-case-and-knowledge-management.md).
 
 Only the HR Administrator \[sn\_hr\_core.admin\] can assign scoped HR roles.
 
@@ -104,7 +104,7 @@ There are specific HR roles that allow users access to specific areas of the sys
 </table>After system configuration, to help prevent the System Administrator from accessing sensitive information:
 
 -   Remove the HR Administrator \[sn\_hr\_core.admin\] role from System Administrator \[admin\].
-    -   The base system requires a user with the System Administrator role to run scheduled jobs. For details on HR scheduled jobs, see [Components installed with Case and Knowledge Management](../reference/components-installed-with-case-and-knowledge-management.md).
+    -   The base system requires a user with the System Administrator role to run scheduled jobs. For details on HR scheduled jobs, see [Components installed with Case and Knowledge Management](components-installed-with-case-and-knowledge-management.md).
     -   To ensure the scheduled jobs run, change the user in the **Run as** field for each scheduled job to a user that has the HR admin role.
 
         **Note:** Changing the user allows the scheduled jobs to run, but only a user with the System Admin role can view and run a scheduled job on demand.
@@ -140,15 +140,15 @@ There are specific HR roles that allow users access to specific areas of the sys
         |sn\_hr\_ws.min\_admin\_count|HR Agent Workspace Admin \[sn\_hr\_ws.admin\]|
 
 
--   **[Remove HR Administrator role from IT System Administrators](../task/t_HRRemoveAdminRole.md)**  
+-   **[Remove HR Administrator role from IT System Administrators](t_HRRemoveAdminRole.md)**  
 After system configuration, remove the HR Administrator role \(sn\_hr\_core.admin\) from IT System Administrator role \(admin\) to help prevent IT System Administrators from viewing sensitive HR information via forms, lists and UI.
--   **[Add Delegated Developer to HR Administrator](../task/t_HRAdminRoles.md)**  
+-   **[Add Delegated Developer to HR Administrator](t_HRAdminRoles.md)**  
 For an HR Administrator \[sn\_hr\_core.admin\] to perform some platform duties, the delegated developer role must be added.
--   **[Manage HR Groups](../task/t_ManageHRGroups.md)**  
+-   **[Manage HR Groups](t_ManageHRGroups.md)**  
 HR Groups are a set of users with common job skills.
 -   **[HR skills management](c_HRSkillsManagement.md)**  
 Your organization can define HR skills to establish the qualifications of HR staff. Skills can be included in the auto-assignment process used to assign HR agents to HR cases and tasks.
--   **[Configure escalation rules for HR cases](../task/t_CreateOrModifyEscalationRules.md)**  
+-   **[Configure escalation rules for HR cases](t_CreateOrModifyEscalationRules.md)**  
 Create escalation rules to automatically route HR cases from one tier to another based on agent skills and workload.
 -   **[Client roles](c_ClientRoles.md)**  
 You can control what HR functionality that an employee can access using Client Roles. You can license all employees or provide HR services to users in a specific location or group.

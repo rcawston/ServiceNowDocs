@@ -25,7 +25,7 @@ To access this API, the Service Portal Analytics \(com.glide.service-portal.anal
 
 For additional information, see [Usage Insights for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-analytics.md).
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## SNAnalytics - addEvent\(Object payload\)
 

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Guarded script detects and records scripts that use unsupported JavaScript features in the Incompatible Guarded Scripts list when transactions calling those scripts are sent. For information about supported features, see [JavaScript features supported by guarded script](../concept/guarded-script.md#supported-features).
+Guarded script detects and records scripts that use unsupported JavaScript features in the Incompatible Guarded Scripts list when transactions calling those scripts are sent. For information about supported features, see [JavaScript features supported by guarded script](guarded-script.md#supported-features).
 
 **Note:** When guarded script is in Phase 1: Detection, scripts sent from authenticated users are recorded in the Incompatible Guarded Scripts list only if they have incompatible syntax. Scripts with incompatible APIs aren't recorded until Phase 2: Syntax enforcement.
 
@@ -33,7 +33,7 @@ Analyze each incompatible script and determine the best remediation approach. Co
 -   Business criticality of the functionality
 -   Feasibility of rewriting using supported guarded script features
 
-Automatic exemptions are created for incompatible scripts sent by authenticated users and detected during Phase 1: Detection and Phase 2: Syntax enforcement. To further secure your instance, you can still review any scripts that have an automatic exemption, update them to be compatible with guarded script, and then remove the exemption. For more information, see [Guarded script enforcement](../concept/guarded-script.md#guarded-script-enforcement).
+Automatic exemptions are created for incompatible scripts sent by authenticated users and detected during Phase 1: Detection and Phase 2: Syntax enforcement. To further secure your instance, you can still review any scripts that have an automatic exemption, update them to be compatible with guarded script, and then remove the exemption. For more information, see [Guarded script enforcement](guarded-script.md#guarded-script-enforcement).
 
 ## Procedure
 
@@ -61,7 +61,7 @@ For scripts that contain complex logic and can be rewritten, move the logic to a
 2.  Create a script include and add the removed code.
 3.  On the Script Include form, select **Sandbox enabled**.
 4.  Update the original script to call the new script include using a simple function call, such as `MyScriptInclude.function()`.
-For more information about creating script includes, see [Script includes](../concept/c_ScriptIncludes.md#). You can test updated scripts by running them from the Scripts - Background module with **Execute in sandbox?** selected. For more information, see [Scripts - Background module](../concept/c_ScriptsBackground.md).
+For more information about creating script includes, see [Script includes](c_ScriptIncludes.md#). You can test updated scripts by running them from the Scripts - Background module with **Execute in sandbox?** selected. For more information, see [Scripts - Background module](c_ScriptsBackground.md).
 
 </td></tr><tr><td id="d191554e193">
 
@@ -69,7 +69,7 @@ For more information about creating script includes, see [Script includes](../co
 
 </td><td>
 
-For scripts that can't be rewritten and are business-critical, create an exemption. Exempt scripts are routed to the script sandbox evaluator instead of the guarded script evaluator. For more information, see [Script sandbox evaluator](../concept/script-sandbox.md).**Warning:** Exemptions bypass the enhanced security provided by the guarded script evaluator and should be used sparingly.
+For scripts that can't be rewritten and are business-critical, create an exemption. Exempt scripts are routed to the script sandbox evaluator instead of the guarded script evaluator. For more information, see [Script sandbox evaluator](script-sandbox.md).**Warning:** Exemptions bypass the enhanced security provided by the guarded script evaluator and should be used sparingly.
 
 1.  From the Incompatible Guarded Scripts list, select a script.
 2.  Select **Add Exemption**.
@@ -130,5 +130,5 @@ new MyDateHelper().getRelevantDate(current.priority)
 
 Monitor the Incompatible Guarded Scripts list regularly to identify any scripts that may need remediation. The list is updated when transactions calling those scripts are sent.
 
-**Parent Topic:**[Guarded script evaluator](../concept/guarded-script.md)
+**Parent Topic:**[Guarded script evaluator](guarded-script.md)
 

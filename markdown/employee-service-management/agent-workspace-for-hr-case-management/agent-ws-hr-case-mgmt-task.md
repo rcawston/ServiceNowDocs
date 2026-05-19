@@ -45,7 +45,7 @@ HR Service:
 
 </td><td>
 
-An HR service fulfills the HR task. In the **HR Service** field, select an HR service.**Note:** **Bulk Parent Case** only appears as a selection when creating a parent case for child bulk cases. Refer to [Create a bulk case request](t_CreateBulkCases.md).
+An HR service fulfills the HR task. In the **HR Service** field, select an HR service.**Note:** **Bulk Parent Case** only appears as a selection when creating a parent case for child bulk cases. Refer to [Create a bulk case request](../hr-service-delivery/t_CreateBulkCases.md).
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Collect Employee Input:
 
 </td><td>
 
-Collects information from employees. In the **Employee form** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](../concept/employee-form-configuration.md) for more information.
+Collects information from employees. In the **Employee form** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](../hr-service-delivery/employee-form-configuration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Checklist:
 
 </td><td>
 
-In the **Checklist Items** field, provide the checklist items. Checklists are instructions or steps on how to complete the task.**Note:** For more information, see [Using checklists in HR Service Delivery Agent Workspace](../concept/agent-ws-hr-checklists.md).
+In the **Checklist Items** field, provide the checklist items. Checklists are instructions or steps on how to complete the task.**Note:** For more information, see [Using checklists in HR Service Delivery Agent Workspace](agent-ws-hr-checklists.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Credential:
 
 </td><td>
 
-Indicates that you want the user to acknowledge reading a document by logging in with their login credentials. The **Acknowledgment text** and **Acknowledgment document** fields appear. Using these fields shows a check box and text above the login credentials. In the Acknowledgment document field, select a document you want the user to read.**Note:** This option is only available for existing customers that have not yet migrated to e-signature. For more information, see [Migrate existing HR task templates and open HR tasks to e-signature](migrate-existing-tasks-to-scoped-e-signature.md).
+Indicates that you want the user to acknowledge reading a document by logging in with their login credentials. The **Acknowledgment text** and **Acknowledgment document** fields appear. Using these fields shows a check box and text above the login credentials. In the Acknowledgment document field, select a document you want the user to read.**Note:** This option is only available for existing customers that have not yet migrated to e-signature. For more information, see [Migrate existing HR task templates and open HR tasks to e-signature](../hr-service-delivery/migrate-existing-tasks-to-scoped-e-signature.md).
 
 </td></tr><tr><td>
 
@@ -95,8 +95,8 @@ E-signature:
 
 User electronically signs a document. In the **E-signature template** field, select the e-signature template to use.**Note:**
 
--   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR document templates. You can type or draw your signature, credentials, or acknowledgment. For more information, see [HR e-signature](../concept/hr-e-signature.md).
--   If HR document template has a document type of e-signature template, select the HR document template that the signatory signs on the HR case form. For more information, see [Select an HR document template for an e-signature task](select-hr-document-template-for-e-signature-task.md).
+-   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR document templates. You can type or draw your signature, credentials, or acknowledgment. For more information, see [HR e-signature](../hr-service-delivery/hr-e-signature.md).
+-   If HR document template has a document type of e-signature template, select the HR document template that the signatory signs on the HR case form. For more information, see [Select an HR document template for an e-signature task](../hr-service-delivery/select-hr-document-template-for-e-signature-task.md).
 
 
 </td></tr><tr><td>
@@ -115,7 +115,7 @@ Sign Document:
 
 Requests the user to sign a document. An example is sending an education agreement for signature on a tuition reimbursement. The **Acknowledgment text** field appears. Using this field shows a check box and text above the signature.**Note:**
 
--   This option is only available for existing customers that have not yet migrated to e-signature. For more information see [Migrate existing HR task templates and open HR tasks to e-signature](migrate-existing-tasks-to-scoped-e-signature.md).
+-   This option is only available for existing customers that have not yet migrated to e-signature. For more information see [Migrate existing HR task templates and open HR tasks to e-signature](../hr-service-delivery/migrate-existing-tasks-to-scoped-e-signature.md).
 -   After the user signs the document, the document generates with the signature and attaches to the task. The task closes and the document is attached to the case.
 
 
@@ -162,7 +162,7 @@ View Video:
 The **URL** field appears. Requests the person assigned to the task to view a video.
 
 </td></tr></tbody>
-</table>    **Note:** For information on all the fields, see [Adding an HR task to an HR case](t_ViewAnHRTask.md).
+</table>    **Note:** For information on all the fields, see [Adding an HR task to an HR case](../hr-service-delivery/t_ViewAnHRTask.md).
 
 5.  Select **Save**.
 

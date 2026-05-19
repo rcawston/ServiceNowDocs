@@ -25,8 +25,8 @@ As part of the Cyber Risk Institute's \(CRI\) Accelerator, you can:
 
 For more information, see:
 
--   [Perform CRI tiering questionnaire to determine the tier value of entity](../../grc-workspace-compliance/task/perform-cri-tier-pc-ws.md).
--   [Verify the NIST CSF Use Case Accelerator](../../grc-nist-csf/task/verify-nist-csf.md).
+-   [Perform CRI tiering questionnaire to determine the tier value of entity](../grc-compliance-management-workspace/perform-cri-tier-pc-ws.md).
+-   [Verify the NIST CSF Use Case Accelerator](verify-nist-csf.md).
 
-**Parent Topic:**[Governance, Risk, and Compliance use case accelerators](../../grc-common/reference/grc-use-case-accelerators.md)
+**Parent Topic:**[Governance, Risk, and Compliance use case accelerators](grc-use-case-accelerators.md)
 

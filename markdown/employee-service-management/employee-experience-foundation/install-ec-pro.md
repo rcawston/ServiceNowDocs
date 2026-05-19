@@ -25,7 +25,7 @@ The application includes demo data and installs related ServiceNow® Store appli
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Install the Enterprise Service Management Integrations Framework \(sn\_hr\_integ\_fw\) plugin to enable Employee Center Pro to integrate with third-party systems. See [Enterprise Service Management Integrations Framework](../../human-resources/concept/hr-integrations-framework.md).
+Install the Enterprise Service Management Integrations Framework \(sn\_hr\_integ\_fw\) plugin to enable Employee Center Pro to integrate with third-party systems. See [Enterprise Service Management Integrations Framework](../hr-service-delivery/hr-integrations-framework.md).
 
 Role required: admin
 
@@ -50,7 +50,7 @@ Employee Center Pro installs the following dependent plugins:
     This plugin contains components such as best practice email layouts that improve employee experiences.
 
 
-For information on the roles, tables, and widgets installed with Employee Center Pro, see [Components installed with Employee Center Pro](../reference/components-installed-with-employee-center-pro-1.md).
+For information on the roles, tables, and widgets installed with Employee Center Pro, see [Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md).
 
 ## Procedure
 
@@ -98,10 +98,10 @@ For information on the roles, tables, and widgets installed with Employee Center
         Content Governance provides a streamlined way for employees to request content to be created, track the progress, preview the content, and approve it before it is published. For more information to activate this plugin, see [Activate Content Governance](ec-install-content-gov.md)
 
 
-**Parent Topic:**[Upgrading to Employee Center Pro](../concept/upgrade-steps.md)
+**Parent Topic:**[Upgrading to Employee Center Pro](upgrade-steps.md)
 
 **Related topics**  
 
 
-[Components installed with Employee Center Pro](../reference/components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)
 

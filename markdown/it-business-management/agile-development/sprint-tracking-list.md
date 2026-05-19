@@ -54,7 +54,7 @@ Steps 3 through 8 provide different actions to perform on the Sprint Tracking bo
 
     3.  On the form, fill in the fields.
 
-        For field information, see [Create a scrum task for Agile Development 2.0 stories](../../agile-development/task/create-a-scrum-task.md).
+        For field information, see [Create a scrum task for Agile Development 2.0 stories](create-a-scrum-task.md).
 
     4.  Select **Submit**.
 
@@ -66,14 +66,14 @@ Steps 3 through 8 provide different actions to perform on the Sprint Tracking bo
 
     3.  Enter the short description and select **Submit**.
 
-    A test is created and listed in the story section. You can open the test form, add test steps, verify them and mark the test as ready to run. For information on the test form, see [Test version form in Agile Development 2.0](../../agile-development/reference/test-version-form.md).
+    A test is created and listed in the story section. You can open the test form, add test steps, verify them and mark the test as ready to run. For information on the test form, see [Test version form in Agile Development 2.0](test-version-form.md).
 
-    **Note:** Adding tests to a Story requires activating the Test Management 2.0 plugin. See [Activate Test Management 2.0](../../test-management2/task/activate-test-management2.md).
+    **Note:** Adding tests to a Story requires activating the Test Management 2.0 plugin. See [Activate Test Management 2.0](../test-management/activate-test-management2.md).
 
 7.  If there are tests in Ready state for a story, you can run those tests.
 
     For more information, see [Run tests for a story in Agile Development 2.0](run-test-plan-within-agile.md).
 
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

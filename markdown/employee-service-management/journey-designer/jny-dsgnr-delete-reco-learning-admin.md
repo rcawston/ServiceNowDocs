@@ -34,5 +34,5 @@ Recommended learning added to a journey configuration can be deleted only by an 
 4.  Select **Delete** to confirm that you want to delete the selected courses.
 
 
-**Parent Topic:**[Recommended learning in journey configurations](../concept/jny-dsgnr-ml-learning-recom.md)
+**Parent Topic:**[Recommended learning in journey configurations](jny-dsgnr-ml-learning-recom.md)
 

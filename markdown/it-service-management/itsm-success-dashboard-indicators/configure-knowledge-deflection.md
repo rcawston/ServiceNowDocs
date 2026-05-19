@@ -41,5 +41,5 @@ Role required: sn\_sd.success\_dashboard\_admin
 -   **[Configure the knowledge base for ITSM Success Dashboard indicators](configure-knowledge-sdb.md)**  
 Include only the relevant knowledge bases related to IT while determining the **Self-solved using Knowledge** KPI in ITSM Success Dashboard indicators.
 
-**Parent Topic:**[ITSM Success Dashboard Admin console](../concept/admin-console-sd.md)
+**Parent Topic:**[ITSM Success Dashboard Admin console](admin-console-sd.md)
 

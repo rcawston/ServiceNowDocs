@@ -24,7 +24,7 @@ Domain separation is supported in Credentials and Connections. Domain separation
 
 Sample use case: An admin must be able to make comments required when a record closes for one tenant, but not for another.
 
-For more information on support levels, see [Application support for domain separation](../../../administer/company-and-domain-separation/reference/domain-separated-apps.md).
+For more information on support levels, see [Application support for domain separation](../domain-separated-apps.md).
 
 ## Overview
 
@@ -43,5 +43,5 @@ Connections access a target host using a JMS, JDBC, or HTTP\(s\) connection. You
 **Related topics**  
 
 
-[Domain separation for service providers](../../../administer/company-and-domain-separation/reference/domain-sep-landing-page.md)
+[Domain separation for service providers](../domain-sep-landing-page.md)
 

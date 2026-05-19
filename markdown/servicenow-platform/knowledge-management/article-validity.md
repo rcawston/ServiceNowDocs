@@ -23,7 +23,7 @@ When you create or edit a knowledge article, a default value appears in the **Va
 
 ## Default article validity when creating a knowledge article
 
-The default value of the **Valid to** field is derived from the **Article Validity** field configured for the knowledge base \(see [Create a knowledge base](../task/create-a-knowledgebase.md)\). The **Valid to** date starts from the date the article was created until the number of days specified in the **Article Validity** field. If the **Article Validity** field is blank, the default date in the **Valid to** field for the knowledge article is set to January 1, 2100.
+The default value of the **Valid to** field is derived from the **Article Validity** field configured for the knowledge base \(see [Create a knowledge base](create-a-knowledgebase.md)\). The **Valid to** date starts from the date the article was created until the number of days specified in the **Article Validity** field. If the **Article Validity** field is blank, the default date in the **Valid to** field for the knowledge article is set to January 1, 2100.
 
 ## Default article validity when editing a knowledge article
 

@@ -41,5 +41,5 @@ Role required: inventory\_admin
 -   The stockroom isn't shown in the Stockrooms missing distribution channels important actions card even if the stockroom isn't linked into distribution channels.
 -   The **Distribution Channel** tab doesn't show the **New** option for creating a distribution channel for the stockroom.
 
-**Parent Topic:**[Manage stockrooms](../concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](manage-your-stockrooms.md)
 

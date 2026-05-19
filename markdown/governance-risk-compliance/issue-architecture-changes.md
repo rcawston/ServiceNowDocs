@@ -25,5 +25,5 @@ When you select **New** on the **Issues** tab to create an issue for a business 
 
 ![Sample Create New Issue form.](../image/create-new-issue-form.png "Sample Create New Issue form")
 
-For the descriptions of the field values on the Create New Issue form, see [Create New Issue form](../reference/create-new-issue-opres-ws.md).
+For the descriptions of the field values on the Create New Issue form, see [Create New Issue form](create-new-issue-opres-ws.md).
 

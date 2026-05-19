@@ -38,5 +38,5 @@ Role required: sn\_lg\_ops.legal\_user
 6.  Select **Save** to update the record.
 
 
-**Parent Topic:**[Third-party contract review requests](../concept/legal-request-third-party-contract.md)
+**Parent Topic:**[Third-party contract review requests](legal-request-third-party-contract.md)
 

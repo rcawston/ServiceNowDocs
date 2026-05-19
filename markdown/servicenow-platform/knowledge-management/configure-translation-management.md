@@ -15,7 +15,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 Configure translation management to create translation tasks.
 
--   **[Activate translation management](../task/activate-translation-mgt.md)**  
+-   **[Activate translation management](activate-translation-mgt.md)**  
 You can activate the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) and I18N:Knowledge Management Internationalization Plugin v2 \(com.glideapp.knowledge.i18n2\) plugins for translation management if you have the admin role.
 -   **[Add a custom Localization Framework setting to enable bulk translations](conf-lf-settings-manual-translations.md)**  
 Add a custom Localization Framework setting to translate multiple knowledge articles manually.

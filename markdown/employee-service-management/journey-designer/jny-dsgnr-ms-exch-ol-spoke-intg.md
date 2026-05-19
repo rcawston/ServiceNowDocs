@@ -17,14 +17,14 @@ The Microsoft Exchange Online spoke integration with Journey designer is achieve
 
 Follow the setup and integration instructions from Journey Accelerator.
 
--   **[Microsoft Exchange Online setup for Journey Accelerator](ja-ms-exchange-online-setup-1.md)**
+-   **[Microsoft Exchange Online setup for Journey Accelerator](../employee-service-management/ja-ms-exchange-online-setup-1.md)**
 
     By integrating the Journey Accelerator scheduling feature with the Microsoft Office 365 calendar function, users can schedule plans and to-do tasks.
 
--   **[Update system properties for Microsoft Exchange Online in the Journey Accelerator app](../task/ja-update-system-properties-1.md)**
+-   **[Update system properties for Microsoft Exchange Online in the Journey Accelerator app](../employee-service-management/ja-update-system-properties-1.md)**
 
     Update the Journey Accelerator app system properties to use with Microsoft Exchange Online features support by Journey Accelerator.
 
 
-**Parent Topic:**[Integrations for Journey designer app](jny-integrations-1.md)
+**Parent Topic:**[Integrations for Journey designer app](../employee-service-management/jny-integrations-1.md)
 

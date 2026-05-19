@@ -15,7 +15,7 @@ Start an unattended bot process in the specified robot machine to execute the au
 
 ## Before you begin
 
-Associate a package and a package version to the bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Associate a package and a package version to the bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Verify that the life cycle stage status of the bot process is either in **Published**, **In Maintenance**, or **Build**. For more information, see [Bot Process form in RPA Hub](select-botprocess.md#).
 
@@ -36,9 +36,9 @@ If robot pool is enabled, after you select the **Start Process** button, a certa
 
 Only robots with an assigned credential group and in the **Available** and **Busy** states are displayed here to facilitate process job queuing. A job queue contains processes that are executed in a defined order.​​
 
-You can also run an unattended automation using the Unattended Robot. For more information, see [Run an automation using Unattended Robot](../../rpa-runtime/task/run-rpa-robot.md).
+You can also run an unattended automation using the Unattended Robot. For more information, see [Run an automation using Unattended Robot](run-rpa-robot.md).
 
-Another way to start an unattended bot process is via triggering the **Start Process** Action in Workflow Studio. For more information, see [Workflow Studio actions and subflow in RPA Hub](../reference/rpa-hub-actions.md).
+Another way to start an unattended bot process is via triggering the **Start Process** Action in Workflow Studio. For more information, see [Workflow Studio actions and subflow in RPA Hub](rpa-hub-actions.md).
 
 ## Procedure
 
@@ -64,7 +64,7 @@ Another way to start an unattended bot process is via triggering the **Start Pro
     -   For user plugins, you can allow list the user plugins folder in the path `<project folder name>\UserPlugins\<User plugin name>`
     -   For script connectors, you can allow list the Dependencies folder in the path `<project folder name>\Dependencies`
 
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)
 
 **Related topics**  
 

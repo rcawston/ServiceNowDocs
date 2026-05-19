@@ -40,7 +40,7 @@ Discover areas of improvement in the knowledge base through Potential gaps, Pote
 -   Potential duplicates
 -   Article optimization
 
-**Note:** This feature works only if the Now Assist Skill is enabled for your role. See [Configure skills with custom prompts for knowledge article templates](../../knowledge-management/task/Now-assist-configure-custom-prompts-for-templates.md).
+**Note:** This feature works only if the Now Assist Skill is enabled for your role. See [Configure skills with custom prompts for knowledge article templates](now-assist-in-knowledge-management/Now-assist-configure-custom-prompts-for-templates.md).
 
 **Requires Attention**
 
@@ -71,5 +71,5 @@ For more information, see the following links:
 **Related topics**  
 
 
-[Generate a Knowledge article from the Now Assist panel](../../knowledge-management/task/Now-Assist-generate-article-NApanel.md)
+[Generate a Knowledge article from the Now Assist panel](now-assist-in-knowledge-management/Now-Assist-generate-article-NApanel.md)
 

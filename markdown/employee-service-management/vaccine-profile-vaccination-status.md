@@ -85,7 +85,7 @@ Most recent COVID test result verified
 
 Indicates that the most recently reported COVID-19 test result was verified by a scoped manager or administrator.
 
- For more information, see [Confirm COVID-19 test results for a user](../../health-safety-testing/task/confirm-health-test-result.md).
+ For more information, see [Confirm COVID-19 test results for a user](health-and-safety-testing/confirm-health-test-result.md).
 
 </td></tr><tr><td>
 
@@ -97,8 +97,8 @@ The outcome of a user's most recently reported COVID-19 vaccine. This field is u
 
 **Note:** A validator service can only approve reviews or leave them in the same status as if they had not been reviewed. If the vaccine response could not be validated and approved, the response must be manually reviewed.
 
- For more information, see [Confirm the reported vaccination status for a user](../task/confirm-vaccine-response.md).
+ For more information, see [Confirm the reported vaccination status for a user](confirm-vaccine-response.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+</table>**Parent Topic:**[Vaccination Status](vaccination-status.md)
 

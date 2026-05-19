@@ -28,7 +28,7 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 3.  Review the information that appears in the blue box at the top of the page, and review all **Processing Notes** to find rules that apply to an event.
 
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](create-event-rules.md)
 
 **Related topics**  
 

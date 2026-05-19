@@ -21,8 +21,8 @@ Service Reliability Management \(SRM\) enables you to register services, monitor
 A service represents a functional outcome like networking, payments, or HR services, that is owned by a team. To deliver that outcome, a service can contain one or more technical components like a user authentication service, or a piece of shared infrastructure like a database.
 2.  [Working with SRM teams](sr-work-teams.md)  
 Manage schedules and define escalation policies for your team. That way, your team sees who is on call and accountable and can have the confidence that critical alerts or incidents are acknowledged in a timely manner.
-3.  [Working with SRM reliability tasks](../task/sr-work-reliability-tasks.md)  
+3.  [Working with SRM reliability tasks](sr-work-reliability-tasks.md)  
 Alerts, incidents, and change requests are reliability tasks. From creation to resolution, SRM helps you manage your alerts throughout the response life cycle.
 
-**Parent Topic:**[Service Reliability Management](../reference/sr-landing-page.md)
+**Parent Topic:**[Service Reliability Management](sr-landing-page.md)
 

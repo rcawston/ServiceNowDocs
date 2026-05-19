@@ -30,7 +30,7 @@ Use the following features with the Public Sector Digital Services application t
 
 A case workflow is a series of steps and tasks that are involved in closing a case. By using a case workflow, you can automate systems to simplify your processes, track task completion, and accelerate case resolution..
 
-To learn more about case workflows, see [Life cycle of a Public Service case](../reference/government-service-case-states.md).
+To learn more about case workflows, see [Life cycle of a Public Service case](government-service-case-states.md).
 
 ## Case types
 

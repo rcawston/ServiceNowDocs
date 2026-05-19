@@ -26,5 +26,5 @@ Administrators can enable users to display any metric on a timeline by activatin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Timeline pages](../concept/c_TimelinePages.md)
+**Parent Topic:**[Timeline pages](c_TimelinePages.md)
 

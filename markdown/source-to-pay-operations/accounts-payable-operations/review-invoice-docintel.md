@@ -58,7 +58,7 @@ If Document Intelligence encounters an extraction error, the invoice processing 
     The invoice is submitted for further processing and the status of the invoice changes to Received.
 
 
-**Parent Topic:**[Accounts Payable Specialist manual tasks](../concept/aps-manual-tasks.md)
+**Parent Topic:**[Accounts Payable Specialist manual tasks](aps-manual-tasks.md)
 
 **Related topics**  
 

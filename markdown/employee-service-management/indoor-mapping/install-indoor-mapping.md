@@ -32,7 +32,7 @@ The following items are installed with Indoor Mapping:
 -   Tables
 -   Scheduled jobs
 
-For more information, see [Map components installed with Indoor Mapping](../reference/components-installed-with-indoor-mapping.md).
+For more information, see [Map components installed with Indoor Mapping](components-installed-with-indoor-mapping.md).
 
 ## Procedure
 
@@ -47,9 +47,9 @@ For more information, see [Map components installed with Indoor Mapping](../refe
 3.  Select **Install**.
 
 
-**Parent Topic:**[Configure Indoor Mapping](../concept/configure-ind-mapping.md)
+**Parent Topic:**[Configure Indoor Mapping](configure-ind-mapping.md)
 
-**Previous topic:**[Configure Indoor Mapping](../concept/configure-ind-mapping.md)
+**Previous topic:**[Configure Indoor Mapping](configure-ind-mapping.md)
 
 **Next topic:**[Configure your map instance data](configure-map-data.md)
 

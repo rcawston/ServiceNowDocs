@@ -99,5 +99,5 @@ A original floor record is updated with the floor plan attached to it. The Space
 -   **[View your workplace floor plan update logs](view-workplace-floor-map-logs.md)**  
 After updating your workplace floor plan, you can view all changes made.
 
-**Parent Topic:**[Providing your workplace data](../concept/providing-your-workplace-data.md)
+**Parent Topic:**[Providing your workplace data](providing-your-workplace-data.md)
 

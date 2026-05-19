@@ -22,7 +22,7 @@ Use the Task Intelligence Admin Console to create models and Document Intelligen
 
 You can also use Task Intelligence features to complete the following tasks:
 
--   [Review and submit values predicted by Document Intelligence](../task/csm-doc-intel-review-values.md)
+-   [Review and submit values predicted by Document Intelligence](csm-doc-intel-review-values.md)
 -   [View Task Intelligence Analytics](csm-task-intel-case-monitoring.md)
 -   [View Task Intelligence prediction history](csm-task-intel-prediction-history.md)
 

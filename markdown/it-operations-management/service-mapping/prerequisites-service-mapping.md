@@ -203,7 +203,7 @@ On the ServiceNow AI Platform, configure a domain user for accessing the Windows
 
 </td></tr><tr><td>
 
-[AWS DynamoDB](../concept/aws-dynamoDB-discovery.md)
+[AWS DynamoDB](../discovery-and-service-mapping-patterns/aws-dynamoDB-discovery.md)
 
 </td><td>
 
@@ -228,7 +228,7 @@ Configure [Amazon Web Services](https://raw.githubusercontent.com/ServiceNow/Ser
 
 </td></tr><tr><td>
 
-On the ServiceNow AI Platform, [create a service account](../../cloud-management-v2-setup/task/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon ELB account ID as it appears in the AWS Management Console.
+On the ServiceNow AI Platform, [create a service account](../cloud-configuration-governance/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon ELB account ID as it appears in the AWS Management Console.
 
 </td></tr><tr><td rowspan="4">
 
@@ -244,7 +244,7 @@ Configure [Amazon Web Services](https://raw.githubusercontent.com/ServiceNow/Ser
 
 </td></tr><tr><td>
 
-On the ServiceNow AI Platform, [create a service account](../../cloud-management-v2-setup/task/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon account ID to which API Gateway belongs. Use the Account ID as it appears in the AWS Management Console.
+On the ServiceNow AI Platform, [create a service account](../cloud-configuration-governance/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon account ID to which API Gateway belongs. Use the Account ID as it appears in the AWS Management Console.
 
 </td></tr><tr><td>
 
@@ -272,7 +272,7 @@ Windows Server \[cmdb\_ci\_windows\_server\] or Linux Server \[cmdb\_ci\_linux\_
 
 </td></tr><tr><td>
 
-On the ServiceNow AI Platform, [create a service account](../../cloud-management-v2-setup/task/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon account ID to which API Gateway belongs. Use the Account ID as it appears in the AWS Management Console.
+On the ServiceNow AI Platform, [create a service account](../cloud-configuration-governance/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon account ID to which API Gateway belongs. Use the Account ID as it appears in the AWS Management Console.
 
 </td></tr><tr><td>
 
@@ -292,7 +292,7 @@ Configure [Amazon Web Services](https://raw.githubusercontent.com/ServiceNow/Ser
 
 </td></tr><tr><td>
 
-On the ServiceNow AI Platform, [create a service account](../../cloud-management-v2-setup/task/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon account ID to which RDS belongs. Use the Account ID as it appears in the AWS Management Console.
+On the ServiceNow AI Platform, [create a service account](../cloud-configuration-governance/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon account ID to which RDS belongs. Use the Account ID as it appears in the AWS Management Console.
 
 </td></tr><tr><td>
 
@@ -312,7 +312,7 @@ Configure [Amazon Web Services](https://raw.githubusercontent.com/ServiceNow/Ser
 
 </td></tr><tr><td>
 
-On the ServiceNow AI Platform, [create a service account](../../cloud-management-v2-setup/task/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon account IT to which AWS Lambda belongs. Use the Account ID as it appears in the AWS Management Console.
+On the ServiceNow AI Platform, [create a service account](../cloud-configuration-governance/aws-first-cld-and-srvc-accts.md). Set the Account ID to the Amazon account IT to which AWS Lambda belongs. Use the Account ID as it appears in the AWS Management Console.
 
 </td></tr><tr><td>
 
@@ -500,7 +500,7 @@ Service Mapping uses the SSH credentials to retrieve connections that are not fr
         -   `"https://" + $ipAddress + "/mgmt/tm/cm/device"`
     -   Create [basic authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_BasicAuthCredentialsForm.md) credentials.
     -   Create [a credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/discovery-credential-alias.md) for the basic authentication credential.
-    -   Create a [serverless discovery schedule](../task/create-serverless-sched-f5-rest-oauth.md).
+    -   Create a [serverless discovery schedule](../itom-visibility/create-serverless-sched-f5-rest-oauth.md).
 -   For top-down discovery using Service Mapping, provide permissions to run the following APIs:
 
     -   `https://" get_attr {"managementIP"}"/mgmt/tm/ltm/"get_attr {"irule"}`
@@ -674,7 +674,7 @@ Delivery Controller \[cmdb\_ci\_appl\_delivery\_controler\]
 </td><td>
 
 -   Configure [Windows administrative credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) to access the host machine.
--   Make sure that [PowerShell for Discovery](../../discovery/reference/r_PowerShellForDiscovery.md) is installed on your MID Servers. The patterns used for Citrix discovery require the ability to run PowerShell commands.
+-   Make sure that [PowerShell for Discovery](../discovery/r_PowerShellForDiscovery.md) is installed on your MID Servers. The patterns used for Citrix discovery require the ability to run PowerShell commands.
 -   For OS users, make sure you can execute “Get-XDSite.” The Citrix Studio Admin should provide permissions.
 -   \(Optional\) For top-down discovery with Service Mapping, on Citrix Delivery Controller, install the Citrix.Broker module.
 -   \(Optional\) For top-down discovery with Service Mapping, a user with permission to run PowerShell commands.
@@ -834,7 +834,7 @@ Give the user elevated rights to be able to run [Service Mapping commands requir
 
 </td></tr><tr><td>
 
-[Google Cloud Platform](google-gcp-discovery-pattern.md)
+[Google Cloud Platform](../discovery/google-gcp-discovery-pattern.md)
 
 </td><td>
 
@@ -955,7 +955,7 @@ On the ServiceNow AI Platform, configure [Windows credentials](https://raw.githu
 
 </td></tr><tr><td>
 
-[IBM Cloud Platform](ibm-cloud-platform-discovery.md)
+[IBM Cloud Platform](../discovery-and-service-mapping-patterns/ibm-cloud-platform-discovery.md)
 
 </td><td>
 
@@ -1082,7 +1082,7 @@ IBM J2EE EAR
 
 </td></tr><tr><td>
 
-[IBM PowerHA SystemMirror for AIX discovery](ibm-powerha-hamcp-discovery.md)
+[IBM PowerHA SystemMirror for AIX discovery](../discovery-and-service-mapping-patterns/ibm-powerha-hamcp-discovery.md)
 
 </td><td>
 
@@ -1130,7 +1130,7 @@ Webseal \[cmdb\_ci\_app\_server\_webseal\]
 
 </td></tr><tr><td>
 
-[IBM Virtualization and Hardware Management Console \(HMC\)](ibm-hmc-discovery.md)
+[IBM Virtualization and Hardware Management Console \(HMC\)](../discovery-and-service-mapping-patterns/ibm-hmc-discovery.md)
 
 </td><td>
 
@@ -1154,7 +1154,7 @@ An LPAR is virtual machine equivalent of IBM.
     -   `lssysconn -r all -F type_model_serial_num:ipaddr`
 -   Verify you have permissions for the following AIX \(LPAR\) command: `lparstat -i`.
 
-**Note:** The `lparstat -i` command is in addition to the commands required for AIX server discovery. For more information on AIX server discovery, see [AIX server discovery](../../discovery/reference/r_DataCollDiscoAIXComputers.md). For a list of the AIX commands, see [Service Mapping commands requiring a privileged user](r_CommandsnCredentials.md).
+**Note:** The `lparstat -i` command is in addition to the commands required for AIX server discovery. For more information on AIX server discovery, see [AIX server discovery](../itom-visibility/r_DataCollDiscoAIXComputers.md). For a list of the AIX commands, see [Service Mapping commands requiring a privileged user](r_CommandsnCredentials.md).
 
 -   Configure SSH credentials on the ServiceNow AI Platform. For more information, see [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md).
 
@@ -1518,7 +1518,7 @@ Cloud WebServer \[cmdb\_ci\_cloud\_webserver\]
 
 </td><td>
 
-On the ServiceNow AI Platform, [add an Azure service principal](../../cloud-management-v2-setup/task/azure-service-account-cloud-mgt.md) and [set up a cloud account for Azure](../../cloud-management-v2-setup/task/azure-cloud-accts-cloud-mgt.md). Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console.
+On the ServiceNow AI Platform, [add an Azure service principal](../cloud-configuration-governance/azure-service-account-cloud-mgt.md) and [set up a cloud account for Azure](../cloud-configuration-governance/azure-cloud-accts-cloud-mgt.md). Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console.
 
 </td></tr><tr><td>
 
@@ -1530,7 +1530,7 @@ Load Balancer Service \[cmdb\_ci\_lb\_service\]
 
 </td><td>
 
-On the ServiceNow AI Platform, configure [add an Azure service principal](../../cloud-management-v2-setup/task/azure-service-account-cloud-mgt.md) and [set up a cloud account for Azure](../../cloud-management-v2-setup/task/azure-cloud-accts-cloud-mgt.md). Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console.
+On the ServiceNow AI Platform, configure [add an Azure service principal](../cloud-configuration-governance/azure-service-account-cloud-mgt.md) and [set up a cloud account for Azure](../cloud-configuration-governance/azure-cloud-accts-cloud-mgt.md). Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console.
 
 </td></tr><tr><td>
 
@@ -1542,7 +1542,7 @@ Cloud Database Rule \[cmdb\_ci\_cloud\_database\]
 
 </td><td>
 
-On the ServiceNow AI Platform, [add an Azure service principal](../../cloud-management-v2-setup/task/azure-service-account-cloud-mgt.md) and [set up a cloud account for Azure](../../cloud-management-v2-setup/task/azure-cloud-accts-cloud-mgt.md). Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console.
+On the ServiceNow AI Platform, [add an Azure service principal](../cloud-configuration-governance/azure-service-account-cloud-mgt.md) and [set up a cloud account for Azure](../cloud-configuration-governance/azure-cloud-accts-cloud-mgt.md). Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console.
 
 </td></tr><tr><td rowspan="2">
 
@@ -1678,7 +1678,7 @@ Service Mapping uses these applicative credentials to access the of/Servers/Serv
     -   Get-MailboxDatabase
 -   \(For Microsoft Exchange CAS 2010 and 2016\) On the Windows Server hosting Microsoft Exchange CAS, install the Microsoft.Exchange.Management.PowerShell.E2010 module.
 -   \(For Microsoft Exchange CAS 2007\) On the Windows Server hosting Microsoft Exchange CAS, install the Microsoft.Exchange.Management.PowerShell.Admin module.
--   \(For Microsoft Exchange CAS 2007, 2010\) On the ServiceNow AI Platform, upload the rctrlx tool for running PowerShell commands as described in [Upload the rctrlx.exe file to MID Servers](../task/upload-rctrlx-file.md).
+-   \(For Microsoft Exchange CAS 2007, 2010\) On the ServiceNow AI Platform, upload the rctrlx tool for running PowerShell commands as described in [Upload the rctrlx.exe file to MID Servers](upload-rctrlx-file.md).
 -   \(For Microsoft Exchange CAS 2007 and 2010\) Provide an Exchange Mailbox OS user with the rights to run Exchange services on Windows and has permission to query Exchange repository:
 
 On the ServiceNow AI Platform, configure [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) setting the **Credential alias** attribute to \[cmdb\_ci\_exchange\_mailbox\]. Configuring this attribute allows you later to use the credential for this CI in patterns.
@@ -1933,7 +1933,7 @@ Advanced Queue Queue \[cmdb\_ci\_appl\_ora\_queue\]
 
 </td><td>
 
-\(If hosted on Unix\) Configure [applicative credentials for Service Mapping](r_SupportedApplications.md).
+\(If hosted on Unix\) Configure [applicative credentials for Service Mapping](../itom-visibility/r_SupportedApplications.md).
 
 </td></tr><tr><td>
 
@@ -1953,7 +1953,7 @@ UNIX Cluster \[cmdb\_ci\_unix\_cluster\], UNIX Cluster Node \[cmdb\_ci\_unix\_cl
 
 </td><td>
 
-See [Oracle database discovery](../../discovery/concept/c_OracleDatabaseDiscovery.md).
+See [Oracle database discovery](../itom-visibility/c_OracleDatabaseDiscovery.md).
 
 </td></tr><tr><td rowspan="4">
 
@@ -2009,7 +2009,7 @@ Oracle Instance \[cmdb\_ci\_db\_ora\_instance\]
 
 </td></tr><tr><td>
 
-[Oracle Database 12c](oracle-cdb-pdb-discovery.md)
+[Oracle Database 12c](../discovery-and-service-mapping-patterns/oracle-cdb-pdb-discovery.md)
 
 </td><td>
 
@@ -2020,7 +2020,7 @@ Oracle PDB Instance \[cmdb\_ci\_db\_ora\_pdb\_instance\]
 -   Configure [Applicative credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/applicative-creds.md).
 -   For Windows, configure [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md)
 -   For Unix, configure [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md)
--   For the Oracle database, configure [Oracle database discovery](../../discovery/concept/c_OracleDatabaseDiscovery.md)
+-   For the Oracle database, configure [Oracle database discovery](../itom-visibility/c_OracleDatabaseDiscovery.md)
 -   Provide a user with permissions to run queries on the following tables:
     -   V$DATAFILE
     -   V$TEMPFILE​
@@ -2088,7 +2088,7 @@ Oracle Discoverer UI \[cmdb\_ci\_appl\_ora\_disc\_ui\]
 
 </td><td>
 
-\(If hosted on Unix\) Configure [applicative credentials for Service Mapping](r_SupportedApplications.md).
+\(If hosted on Unix\) Configure [applicative credentials for Service Mapping](../itom-visibility/r_SupportedApplications.md).
 
 </td></tr><tr><td>
 
@@ -2521,7 +2521,7 @@ Websphere ODR LB \[cmdb\_ci\_app\_server\_ws\_odr\]
 
 </td><td>
 
-\(If hosted on Unix\) Configure [applicative credentials for Service Mapping](r_SupportedApplications.md).
+\(If hosted on Unix\) Configure [applicative credentials for Service Mapping](../itom-visibility/r_SupportedApplications.md).
 
 </td></tr><tr><td>
 
@@ -2949,10 +2949,10 @@ Most of commands utilized by Service Mapping for discovery and mapping do not re
 -   **[SNMP-based queries](snmp-based-queries.md)**  
 Service Mapping accesses network infrastructure devices like load balancers and routers using Simple Network Management Protocol \(SNMP\) v1/v2c/v3. Configure SNMP community credentials to enable this type of access.
 
-**Parent Topic:**[Configuring Service Mapping](../concept/service-mapping-setup.md)
+**Parent Topic:**[Configuring Service Mapping](service-mapping-setup.md)
 
 **Related topics**  
 
 
-[PowerShell for Discovery and Service Mapping](../../discovery/reference/r_PowerShellForDiscovery.md)
+[PowerShell for Discovery and Service Mapping](../discovery/r_PowerShellForDiscovery.md)
 

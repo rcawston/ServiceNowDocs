@@ -19,7 +19,7 @@ Now Assist for Creator activates the playbook generation skill. Playbook generat
 
 Playbook authors can provide text directions to create multi-stage playbooks with [placeholder activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/placeholder-activity.md) \(![placeholder activity icon.](../images/placeholder-activity-icon.png)\).
 
-**Note:** Playbook generation uses placeholder activities in your playbook. [Configure each activity](../task/generate-a-playbook-outline.md) before activating your playbook.
+**Note:** Playbook generation uses placeholder activities in your playbook. [Configure each activity](generate-a-playbook-outline.md) before activating your playbook.
 
 ![Choose an activity definition for the placeholder activity.](../images/configure-placeholder-activity.png)
 

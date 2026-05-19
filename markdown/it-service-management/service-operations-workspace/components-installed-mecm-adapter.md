@@ -97,7 +97,7 @@ Action Configuration\[sn\_mecm\_action\_config\]
 List of action configurations applicable to CI.
 
 </td></tr></tbody>
-</table>**Note:** Deny unless ACLs are added to all the tables. The Deny unless ACLs restrict access for a non-authenticated user, such as a public role user. Without access, the user can't perform any actions on the tables related to the mentioned applications, such as reading, writing, deleting, creating, or accessing the report view. For more information on Deny-Unless ACLs and enhanced security model adoption features, see [Deny-Unless ACL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/acl-denial-behavior.md) and [Features of enhanced security model adoption for incident tables](../../incident-management/reference/comp-instal-itsm-enhanced-sec-features.md).
+</table>**Note:** Deny unless ACLs are added to all the tables. The Deny unless ACLs restrict access for a non-authenticated user, such as a public role user. Without access, the user can't perform any actions on the tables related to the mentioned applications, such as reading, writing, deleting, creating, or accessing the report view. For more information on Deny-Unless ACLs and enhanced security model adoption features, see [Deny-Unless ACL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/acl-denial-behavior.md) and [Features of enhanced security model adoption for incident tables](../incident-management/comp-instal-itsm-enhanced-sec-features.md).
 
 ## Store applications installed
 
@@ -134,5 +134,5 @@ Remedial Actions Framework\[com.snc.sn\_reacf\]
 Framework to remediate or resolve the CI related issues. For more information on the roles and tables installed, see [Components installed with Remedial Actions Framework](components-installed-with-remediation-fw.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+</table>**Parent Topic:**[Incident Management in Service Operations Workspace reference](sow-im-reference.md)
 

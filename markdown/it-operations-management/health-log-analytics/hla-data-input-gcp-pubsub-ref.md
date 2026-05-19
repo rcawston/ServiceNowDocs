@@ -161,5 +161,5 @@ The subscription Health Log Analytics uses to receive log data that is published
 |Rate limit|The maximum number of events per second that this data input processes.|-1|
 |Drop if queue is full|Option to discard logs if many processes are waiting in the queue to access the MID Server.|Clear|
 
-**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

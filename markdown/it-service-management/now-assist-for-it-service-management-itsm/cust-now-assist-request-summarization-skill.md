@@ -59,7 +59,7 @@ The following procedure contains examples that are specific to the request summa
 
 6.  Choose input data.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](now-assist-itsm-skills.md).
 
     Each skill relies on a base input table and input fields with descriptions to provide context for the Now LLM Service to generate a response.
 

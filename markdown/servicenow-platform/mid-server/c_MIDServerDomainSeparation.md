@@ -42,7 +42,7 @@ Role required: agent\_admin or admin
 
 ### Procedure
 
-1.  [Configure a MID Server user](../task/t_SetupMIDServerRole.md#) within a specified domain with the proper **mid\_server** role.
+1.  [Configure a MID Server user](t_SetupMIDServerRole.md#) within a specified domain with the proper **mid\_server** role.
 
 2.  Specify this user within the MID Server **config.xml** file.
 

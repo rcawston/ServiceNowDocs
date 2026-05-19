@@ -22,11 +22,11 @@ To learn more about managing per-user subscriptions, see [Managing per-user subs
 **Related topics**  
 
 
-[Domain separation and Predictive Intelligence](../concept/domain-separation-predictive-intelligence.md)
+[Domain separation and Predictive Intelligence](domain-separation-predictive-intelligence.md)
 
 [Data Encryption in Predictive Intelligence](predictive-intelligence-encryption.md)
 
-[Predictive Intelligence language support](../concept/predictive-intelligence-localization.md)
+[Predictive Intelligence language support](predictive-intelligence-localization.md)
 
 [Predictive Intelligence properties](predictive-intelligence-properties.md)
 

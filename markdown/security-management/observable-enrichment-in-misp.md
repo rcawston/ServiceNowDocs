@@ -32,7 +32,7 @@ Enable automatic observable enrichment in the ServiceNow AI Platform MISP when n
 
 3.  Review the work notes after new observables have been associated with the security incident.
 
-    The following example shows that a work note posts when the [Security Operations Integration - Enrich Observable flow](../../security-operations-integrations/task/secops-integration-enrich-observ-wf.md) triggers.
+    The following example shows that a work note posts when the [Security Operations Integration - Enrich Observable flow](secops-integration-enrich-observ-wf.md) triggers.
 
     ![View the work notes of the Observable Enrichment status.](../image/flows-misp-worknotes-start.png)
 
@@ -40,7 +40,7 @@ Enable automatic observable enrichment in the ServiceNow AI Platform MISP when n
 
     ![View the work notes of the Observable Enrichment status after the execution is completed.](../image/flows-misp-worknotes-end.png)
 
-    **Note:** You must configure that the MISP Enrichment Results related list appears in the security incident related lists. For more information, see [related list configuration](../../security-incident-response/concept/sir-new-ui-setup-form-uiaction.md).
+    **Note:** You must configure that the MISP Enrichment Results related list appears in the security incident related lists. For more information, see [related list configuration](security-incident-response/sir-new-ui-setup-form-uiaction.md).
 
     The following example shows the enrichment results in the MISP.
 
@@ -168,7 +168,7 @@ Select individual or multiple observables and perform a manual observable enrich
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Role required: sn\_si.analyst
 
 ### Procedure
@@ -189,7 +189,7 @@ Select individual or multiple observables and perform a manual observable enrich
 
 6.  Click **Submit**.
 
-    A work note shows that the [Security Operations Integration - Enrich Observable workflow](../../security-operations-integrations/task/secops-integration-enrich-observ-wf.md) has triggered. The associated implementation workflows execute to perform the enrichment. You can view the work notes in the security incident to view the status.
+    A work note shows that the [Security Operations Integration - Enrich Observable workflow](secops-integration-enrich-observ-wf.md) has triggered. The associated implementation workflows execute to perform the enrichment. You can view the work notes in the security incident to view the status.
 
     The following example shows how to view the work notes for a manual observable enrichment.
 
@@ -204,7 +204,7 @@ Add or remove tags in MISP to classify events or attributes. You can use tagging
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Verify that the attribute that you are editing belongs to the same organization as the MISP user.
 -   Note that the tags and galaxies that are available to you are based on the MISP source and its distribution permissions.
 -   Role required: sn\_sec\_misp.write
@@ -389,7 +389,7 @@ Add or remove galaxies in MISP so that you can classify these objects as a clust
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   To add local galaxies, the user who has configured the integration should belong to the host organization of the corresponding MISP server.
 -   Note that the tags and galaxies that are available to you are based on the MISP source and its distribution permissions.
 -   Role required: sn\_sec\_misp.write
@@ -428,7 +428,7 @@ Add comments for the MISP attributes. The comments that you add are for informat
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Verify that the attribute that you are editing belongs to the same organization as the MISP user.
 -   Role required: sn\_sec\_misp.write
 

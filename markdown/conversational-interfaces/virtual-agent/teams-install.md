@@ -82,5 +82,5 @@ Remove the integrations between your ServiceNow Virtual Agent bot or the Self-co
 -   **[Activate Now Assist in Virtual Agent for Microsoft Teams](activate-na-va-msteams.md)**  
 Add Now Assist in Virtual Agent to your Microsoft Teams and Microsoft Copilot bot.
 
-**Parent Topic:**[Conversational Integration with Microsoft Teams](../concept/teams-conv-integration.md)
+**Parent Topic:**[Conversational Integration with Microsoft Teams](teams-conv-integration.md)
 

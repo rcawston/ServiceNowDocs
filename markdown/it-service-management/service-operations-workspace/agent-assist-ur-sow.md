@@ -38,5 +38,5 @@ Role required: itil, sn\_uni\_req.routing\_agent, or admin
     -   Catalog Items: To display all related catalog items.
     -   Pinned articles: To display all related pinned articles.
 
-**Parent Topic:**[Universal Request in Service Operations Workspace](../concept/using-ur-sow.md)
+**Parent Topic:**[Universal Request in Service Operations Workspace](using-ur-sow.md)
 

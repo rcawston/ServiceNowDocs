@@ -25,11 +25,11 @@ Easily see how many subscriptions for IT Operations Management applications your
 
 <table id="table_yjv_4lx_nxb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore ITOM/OT SU Licensing and subscriptions](../concept/explore-itom-licensing.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore ITOM/OT SU Licensing and subscriptions](explore-itom-licensing.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to install ITOM/OT SU Licensing](../concept/configure-itom-licensing.md)
+[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to install ITOM/OT SU Licensing](configure-itom-licensing.md)
 
 </td><td>
 

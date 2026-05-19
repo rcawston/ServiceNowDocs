@@ -65,7 +65,7 @@ The system stores feedback on prediction results in the Predictor Result \[ml\_p
 -   Autofill: A value is considered to be predicted correctly \(set to true\) if the predicted value and the final value are the same.
 -   Recommendation: A value is considered to be predicted correctly if any one of the predicted values matches the final value.
 
-The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [Components installed with Task Intelligence for Customer Service](../reference/case-categorization-components.md).
+The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [Components installed with Task Intelligence for Customer Service](case-categorization-components.md).
 
 ## Multi-lingual record categorization
 

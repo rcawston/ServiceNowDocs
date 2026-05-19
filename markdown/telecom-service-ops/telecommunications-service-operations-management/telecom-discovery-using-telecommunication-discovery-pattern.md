@@ -87,5 +87,5 @@ IRE offers a centralized framework for identifying and reconciling data from mul
 **Related topics**  
 
 
-[Install Horizontal Discovery and set up Discovery Patterns](../task/install-horizontal-telecommunication-discoverypatterns.md)
+[Install Horizontal Discovery and set up Discovery Patterns](install-horizontal-telecommunication-discoverypatterns.md)
 

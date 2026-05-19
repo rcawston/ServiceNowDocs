@@ -177,5 +177,5 @@ Enter an optional condition that must be met before the system uses this step.
 -   **[Add a resource operation step to invoke a subflow](add-resource-op-step-subflow.md)**  
 Invoke a subflow by adding an operation step to a resource and linking it to a new or existing subflow.
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](resource-blocks.md)
 

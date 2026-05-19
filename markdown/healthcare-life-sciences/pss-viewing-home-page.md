@@ -23,7 +23,7 @@ The landing page of the Workspace provides an overview of the enrollment cases a
 
 ## Role required
 
-Care coordinators must have the sn\_patientservice.agent role to use the Workspace. For more information, see [Assign roles for Patient Support Services users](../task/pss-assign-roles.md).
+Care coordinators must have the sn\_patientservice.agent role to use the Workspace. For more information, see [Assign roles for Patient Support Services users](pss-assign-roles.md).
 
 ## Accessing and using the landing page
 
@@ -39,7 +39,7 @@ As a care coordinator, you can perform the following tasks from the landing page
 
 ## Viewing data
 
-The Workspace landing page for enrollment cases is same as the landing page of Workspace for any healthcare-related cases including cases created for addressing enrollment requests. For more information, see [View the landing page for healthcare-related cases in Workspace](hcls-viewing-home-page.md).
+The Workspace landing page for enrollment cases is same as the landing page of Workspace for any healthcare-related cases including cases created for addressing enrollment requests. For more information, see [View the landing page for healthcare-related cases in Workspace](healthcare-and-life-sciences-service-management-core/hcls-viewing-home-page.md).
 
 **Note:** Your administrator can customize the landing page for Workspace and change the data that appears on it.
 

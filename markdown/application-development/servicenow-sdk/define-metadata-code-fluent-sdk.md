@@ -18,13 +18,13 @@ Define application metadata in code with ServiceNow Fluent and the ServiceNow SD
 ## Before you begin
 
 -   Install the ServiceNow Fluent Language server to get language processing and validation for ServiceNow Fluent in Visual Studio Code. For more information, see [Install the ServiceNow Fluent Language server in Visual Studio Code](install-fluent-language-extension-vs-code.md).
--   Add an application to your local system with the ServiceNow SDK. For more information, see [Adding applications with the ServiceNow SDK](../concept/creating-applications-servicenow-sdk.md).
+-   Add an application to your local system with the ServiceNow SDK. For more information, see [Adding applications with the ServiceNow SDK](creating-applications-servicenow-sdk.md).
 
 Role required: admin
 
 ## About this task
 
-ServiceNow Fluent is a domain-specific language \(DSL\) based on TypeScript for defining the metadata files \[sys\_metadata\] that make up applications and includes APIs for the different types of metadata, such as tables, roles, ACLs, business rules, and Automated Test Framework tests. For more information about ServiceNow Fluent APIs and examples, see [ServiceNow Fluent API reference](../reference/servicenow-fluent-api-reference.md).
+ServiceNow Fluent is a domain-specific language \(DSL\) based on TypeScript for defining the metadata files \[sys\_metadata\] that make up applications and includes APIs for the different types of metadata, such as tables, roles, ACLs, business rules, and Automated Test Framework tests. For more information about ServiceNow Fluent APIs and examples, see [ServiceNow Fluent API reference](servicenow-fluent-api-reference.md).
 
 ## Procedure
 
@@ -170,10 +170,10 @@ After building and installing the application, this source code generates the fo
 
 ![Application files generated from the example code.](../image/servicenow-ide-app-files.png "Application metadata generated from ServiceNow Fluent code")
 
-**Parent Topic:**[Developing applications with the ServiceNow SDK](../concept/developing-applications-sdk.md)
+**Parent Topic:**[Developing applications with the ServiceNow SDK](developing-applications-sdk.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 

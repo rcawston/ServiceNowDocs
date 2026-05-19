@@ -93,7 +93,7 @@ Emergency Outreach is installed on your instance.
 
 Optionally install Employee Readiness Surveys to use with Emergency Outreach. The Employee Readiness Surveys app enables you to evaluate the readiness of your employees to return to the workplace using Emergency Outreach notifications.
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](emergency-outreach.md)
 
 ## Install Employee Readiness Surveys to use with Emergency Outreach
 

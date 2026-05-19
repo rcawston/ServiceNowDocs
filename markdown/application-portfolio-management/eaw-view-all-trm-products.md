@@ -30,7 +30,7 @@ Role required: sn\_apm.apm\_user
 4.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to the TRM product to view more details.
 
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 

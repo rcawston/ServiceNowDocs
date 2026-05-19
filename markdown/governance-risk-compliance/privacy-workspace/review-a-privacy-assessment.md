@@ -44,5 +44,5 @@ As a reviewer, you can also preview the assessment with the applicable risk stat
     3.  Select **Submit**.
 
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

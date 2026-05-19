@@ -73,5 +73,5 @@ Role required: admin
     4.  Select **Submit**.
 
 
-**Parent Topic:**[Sensitive data redaction](../concept/sensitive-data-redaction.md)
+**Parent Topic:**[Sensitive data redaction](sensitive-data-redaction.md)
 

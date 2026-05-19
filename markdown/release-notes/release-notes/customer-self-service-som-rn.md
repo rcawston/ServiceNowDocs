@@ -14,12 +14,12 @@ The ServiceNow® Business Portal application enables your B2B customers to place
 
 ## Business Portal highlights for the Australia release
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](../australia-patch-2.md)
 
 -   Resume and submit invoice cases in draft state.
 -   Review invoice case line details relevant to how your case was created.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Enable business-to-business \(B2B\) customers to create invoice dispute cases through AI-powered chat and voice assistants that guide them through conversational dispute intake on the Business Portal.
 -   Provide uninterrupted handoff to human agents to support complex use cases, with full conversation context transferred to the CSM/FSM Configurable Workspace.
@@ -36,7 +36,7 @@ See [Customer self-service for Sales Customer Relationship Management](https://r
 
 ## New in the Australia release
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](../australia-patch-2.md)
 
 -   **[Resume and submit invoice cases in draft state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/resume-invoice-case-creation.md)**
 
@@ -47,7 +47,7 @@ See [Customer self-service for Sales Customer Relationship Management](https://r
     Review invoice case line details that are relevant to how your case was created. The Business Portal displays request source-aware columns in the invoice case line list view, showing specific details when a case is raised for a single invoice or when it spans multiple invoices.
 
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   **[AI-powered invoice case management for customers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/dispute-invoice-issues-now-assist.md)**
 
@@ -95,7 +95,7 @@ The Business Portal application \(sn\_b2b\_portal\) is automatically installed w
 
     The following plugins are new in Australia:
 
-    -   [Australia Patch 1](../quality/australia-patch-1.md)
+    -   [Australia Patch 1](../australia-patch-1.md)
 
         Manage Invoice Operations \(com.sn\_inv\_ops\_aias\): Delivers AI-powered assistants that handle invoice dispute intake directly from the portal, resolves eligible cases autonomously, and seamlessly escalates to a human agent when needed. In the workspace, it continues to assist human agents by providing relevant insights and actions to accelerate invoice case resolution.
 

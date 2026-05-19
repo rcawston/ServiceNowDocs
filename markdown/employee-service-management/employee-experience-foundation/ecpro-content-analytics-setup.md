@@ -90,7 +90,7 @@ Import run time
 
 </td><td>
 
-For the ServiceNow profiles, the time and the time zone data moves from the content analytics tables to the shared analytics tables. See [Collected data](../concept/ecpro-content-automation-analytics.md#section-collected-data).
+For the ServiceNow profiles, the time and the time zone data moves from the content analytics tables to the shared analytics tables. See [Collected data](ecpro-content-automation-analytics.md#section-collected-data).
 
 </td></tr><tr><td>
 

@@ -48,15 +48,15 @@ For a detailed description of Log Analytics groups, see [Types of Health Log Ana
 
 -   **Configuration Items**
 
-    To view more detailed information on the CIs that are associated with the alerts, select the **Configuration Items** tab or select **View more** in the Configuration Items section. See [Operator phase 1: Analyze and acknowledge an alert](../../event-management-operator/task/operator-phase-acknowledge-analyze.md).
+    To view more detailed information on the CIs that are associated with the alerts, select the **Configuration Items** tab or select **View more** in the Configuration Items section. See [Operator phase 1: Analyze and acknowledge an alert](../event-management/operator-phase-acknowledge-analyze.md).
 
 -   **Impacted services**
 
-    To view detailed information on the services that are impacted by the alerts, select the **Impacted services** tab. See [Operator phase 1: Analyze and acknowledge an alert](../../event-management-operator/task/operator-phase-acknowledge-analyze.md).
+    To view detailed information on the services that are impacted by the alerts, select the **Impacted services** tab. See [Operator phase 1: Analyze and acknowledge an alert](../event-management/operator-phase-acknowledge-analyze.md).
 
 
 -   **[Log Analytics alerts on the Alerts in group tab](hla-alerts-in-group-ref.md)**  
 The table describes the Log Analytics alerts in a Log Analytics group on the **Alerts in group** tab.
 
-**Parent Topic:**[Sections and cards on the alert Overview tab in Health Log Analytics](../../health-log-analytics-admin/concept/hla-alert-overview-tab.md)
+**Parent Topic:**[Sections and cards on the alert Overview tab in Health Log Analytics](hla-alert-overview-tab.md)
 

@@ -112,5 +112,5 @@ Enables or disables display of the **Upgrade App** permission.
 -   To disable display of this permission, set this value to **false**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow Studio reference](../concept/servicenow-studio-reference.md)
+</table>**Parent Topic:**[ServiceNow Studio reference](servicenow-studio-reference.md)
 

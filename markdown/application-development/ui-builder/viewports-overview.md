@@ -23,11 +23,11 @@ Use the **Edit content** mode of UI Builder to add viewports or tab sets to a pa
 
 Select the menu icon ![Menu icon](../image/UIB-menu-icon.png) to edit your tab settings, or change the required or optional parameters.
 
-Add viewport modals to your experience to embed subpages or other experiences within a modal in your parent page/experience. For more information about adding viewport modals to your experience, see [Add a viewport modal to your experience](../task/add-viewport-modal.md).
+Add viewport modals to your experience to embed subpages or other experiences within a modal in your parent page/experience. For more information about adding viewport modals to your experience, see [Add a viewport modal to your experience](add-viewport-modal.md).
 
 -   **[Add a viewport component to your page](work-with-viewport-components.md)**  
 Add a viewport component to your page and create a subpage to create separate content on the page.
--   **[Add a viewport modal to your experience](../task/add-viewport-modal.md)**  
+-   **[Add a viewport modal to your experience](add-viewport-modal.md)**  
 Add a viewport within a modal in your experience.
 -   **[Replace a tab with a viewport-enabled tab](convert-a-tab-to-a-viewport-tab.md)**  
 Convert a tab on a page to a viewport-enabled tab. Use viewport-enabled tabs to display third-party custom data, assign audiences, and create variants.

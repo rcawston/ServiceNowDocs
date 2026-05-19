@@ -26,7 +26,7 @@ When setting up the Insurance claims application, review the PolicySnapshotGener
 **Related topics**  
 
 
-[Insurance Claims Core tables](../../fso-common/reference/insurance-claims-core-tables.md)
+[Insurance Claims Core tables](../insurance-claims-core-tables.md)
 
 [Insurance policies in Insurance claims](insurance-policies.md)
 

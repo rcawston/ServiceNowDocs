@@ -56,5 +56,5 @@ An ELP report groups your data on existing reconciliation groups, by consumption
     ![Required by device related list](../image/elprelatedlist.png)
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

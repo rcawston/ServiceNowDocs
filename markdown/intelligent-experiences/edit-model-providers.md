@@ -58,7 +58,7 @@ Let's take an example of editing the model provider for skill group.
 
     2.  Select **Save and activate** to update your selection.
 
-    **Note:** The Websearch AI search answers skill is only compatible with Google Gemini as the LLM provider. If you want to change the LLM provider to Azure OpenAI for this skill, see [Configure AI search answers capability for web search](../../generative-ai-controller/task/configure-ai-search-answers-capability-for-web-search.md) for more information.
+    **Note:** The Websearch AI search answers skill is only compatible with Google Gemini as the LLM provider. If you want to change the LLM provider to Azure OpenAI for this skill, see [Configure AI search answers capability for web search](generative-ai-controller/configure-ai-search-answers-capability-for-web-search.md) for more information.
 
 8.  Select **Cancel, go back** to revert or **Yes, activate** to save the updates.
 

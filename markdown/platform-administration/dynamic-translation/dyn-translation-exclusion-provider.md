@@ -50,5 +50,5 @@ By default Exclusion Framework provides an Exclusion Provider Pattern record for
 4.  Select **Submit** to save the record.
 
 
-**Parent Topic:**[Exclusion Framework in Dynamic Translation](../concept/dyn-translation-exclusion-framework.md)
+**Parent Topic:**[Exclusion Framework in Dynamic Translation](dyn-translation-exclusion-framework.md)
 

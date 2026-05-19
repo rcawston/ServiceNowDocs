@@ -101,7 +101,7 @@ The knowledge base used for harvesting community discussions to knowledge articl
 **Related topics**  
 
 
-[Quick start tests for Communities](../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
+[Quick start tests for Communities](quick-start-tests-communities.md)
 
 [Properties installed with Communities](communities-properties.md)
 
@@ -111,7 +111,7 @@ The knowledge base used for harvesting community discussions to knowledge articl
 
 [Topic form fields](topic-form-fields.md)
 
-[Create a forum](../task/create-forum.md)
+[Create a forum](create-forum.md)
 
-[Create a sub forum](../task/create-sub-forum.md)
+[Create a sub forum](create-sub-forum.md)
 

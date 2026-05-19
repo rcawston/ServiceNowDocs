@@ -39,7 +39,7 @@ Run a cluster analysis in one of the following ways.
 
     3.  From the Scheduled tasks panel or the metrics box that the cluster analysis was requested on, select **View result** after generation completes.
 
-**Parent Topic:**[Cluster analysis](../concept/cluster-analysis.md)
+**Parent Topic:**[Cluster analysis](cluster-analysis.md)
 
 **Related topics**  
 

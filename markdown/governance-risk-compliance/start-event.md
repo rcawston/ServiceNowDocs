@@ -129,5 +129,5 @@ Role required: admin
 
 To request an approval, see [Request an approval and approve the event](submit-an-event-task-uib-ws.md).
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
 

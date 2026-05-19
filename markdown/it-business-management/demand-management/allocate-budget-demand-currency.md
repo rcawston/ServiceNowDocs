@@ -37,7 +37,7 @@ Enable the **Demand Currency** view in the Demand form to allocate the budget in
 
 4.  On the Demand Budget dialog box, fill in the fields.
 
-    For detailed description of the field names, see [Demand Budget form](../reference/demand-budget-form.md).
+    For detailed description of the field names, see [Demand Budget form](demand-budget-form.md).
 
 5.  Select **OK**.
 

@@ -19,7 +19,7 @@ You should use this script include in a script that is treated as an admin-execu
 
 To use this class in a scoped application, use the `sn_nlp_sentiment` namespace identifier. The Sentiment Analysis plugin \(com.snc.sentiment\_analysis\) must be enabled to access the SentimentAnalyser API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SentimentAnalyser - SentimentAnalyser\(\)
 

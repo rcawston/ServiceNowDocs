@@ -44,8 +44,8 @@ Rate cards help you track capital, labor, material, and contract costs and the g
 
 The Hardware Asset Management application supports the following rate cards:
 
--   [Task rate cards](../task/create-ham-task-rate-card.md)
--   [Labor rate cards](../task/create-ham-labor-task.md)
+-   [Task rate cards](create-ham-task-rate-card.md)
+-   [Labor rate cards](create-ham-labor-task.md)
 
 **Note:** The labor rate card is a part of the created expense line and is valid if you’ve included the labor rate card information with the task rate card, which is recording the time worked on the task.
 
@@ -93,7 +93,7 @@ TCO enables you to perform the following actions:
     TCO benchmark cost * TCO benchmark threshold percentage
     ```
 
-    , where the TCO benchmark threshold percentage is set to 75% of the TCO benchmark cost by default. For more information, see [Hardware model details](../reference/hardware-model-fields.md).
+    , where the TCO benchmark threshold percentage is set to 75% of the TCO benchmark cost by default. For more information, see [Hardware model details](hardware-model-fields.md).
 
 -   Create a report and compare TCO for a group of assets. For more information on the TCO dashboard and reports, see [Asset analytics view](asset-analytics-view.md).
 -   For real-time or offline TCO reports, normalize the asset TCO over its useful life and compare the normalized TCO for different models and assets.

@@ -19,7 +19,7 @@ Automated license reconciliation keeps license positions accurate and up-to-date
 
 Reconciliation is a scheduled job that is run at a specified frequency \(default is weekly\). It can also be run on demand for specific or all publishers, groups, and subgroups.
 
-Group and subgroup values include country, department, company, region, or cost center. Default group and subgroup [properties](../reference/sam-properties.md) that apply to the weekly reconciliation run can be set in **Software Asset** &gt; **Administration** &gt; **Properties**.
+Group and subgroup values include country, department, company, region, or cost center. Default group and subgroup [properties](sam-properties.md) that apply to the weekly reconciliation run can be set in **Software Asset** &gt; **Administration** &gt; **Properties**.
 
 When reconciliation runs, a list of reconciliation results is created that shows the compliance status of software products concerning discovery and entitlements. Users with the sam\_user role can view reconciliation results.
 

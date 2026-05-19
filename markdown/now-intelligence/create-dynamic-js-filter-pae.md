@@ -272,5 +272,5 @@ Textual representation of a complete or partial field name value.For the "is one
 
 After you add the necessary JavaScript statements and conditions and configure the remainder of the report, test the report to ensure it returns and displays the expected results.
 
-**Parent Topic:**[Filter data visualizations with the condition builder](../../reporting/task/filter-dv-condition-builder.md)
+**Parent Topic:**[Filter data visualizations with the condition builder](filter-dv-condition-builder.md)
 

@@ -27,7 +27,7 @@ Role required: admin
 
 3.  Select **Invoice inquiry solution generator skill**&gt; **Turn on**to activate the skill.
 
-    Activate the skill in the **Turn on skill** pop-up. The skill works in relation with the Inquiry resolution provider agent. For more information on the Inquiry resolution provider AI agent, see [Inquiry resolution provider AI agent](../concept/apo-help-resolve-supplier-questions-agentic.md).
+    Activate the skill in the **Turn on skill** pop-up. The skill works in relation with the Inquiry resolution provider agent. For more information on the Inquiry resolution provider AI agent, see [Inquiry resolution provider AI agent](apo-help-resolve-supplier-questions-agentic.md).
 
 
 ## Result

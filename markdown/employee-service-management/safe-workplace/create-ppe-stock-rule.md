@@ -48,5 +48,5 @@ When an item drops below a specified quantity, the stock rule automatically crea
 
 **Previous topic:**[Reduce PPE stock](reduce-ppe-stock.md)
 
-**Next topic:**[PPE Inventory Overview dashboard](../concept/ppe-overview-dashboard.md)
+**Next topic:**[PPE Inventory Overview dashboard](ppe-overview-dashboard.md)
 

@@ -171,7 +171,7 @@ Available in
 
 </td><td>
 
-Select **Outlook Add-in** to enable Microsoft Outlook Add-in reservations. For more information, see [Create a reservation in Microsoft Outlook add-in](outlook-create-rsv.md)**Note:** If you’re updating or migrating from Microsoft Outlook Add-in 1.12.2 or earlier, the default Reservable Module's sys\_id in the **sn\_wsd\_msaddin.default\_reservable\_module** is updated to Workplace Reservation Management 3.0.2. Employees can continue using the default Reservable Module after migrating. They can also use a different Reservable Module assigned to them. For more information, see [Manage Workplace Reservations for Microsoft Outlook Add-in](../concept/manage-outlook-addin-rsv.md).
+Select **Outlook Add-in** to enable Microsoft Outlook Add-in reservations. For more information, see [Create a reservation in Microsoft Outlook add-in](outlook-create-rsv.md)**Note:** If you’re updating or migrating from Microsoft Outlook Add-in 1.12.2 or earlier, the default Reservable Module's sys\_id in the **sn\_wsd\_msaddin.default\_reservable\_module** is updated to Workplace Reservation Management 3.0.2. Employees can continue using the default Reservable Module after migrating. They can also use a different Reservable Module assigned to them. For more information, see [Manage Workplace Reservations for Microsoft Outlook Add-in](manage-outlook-addin-rsv.md).
 
 </td></tr><tr><td>
 
@@ -325,7 +325,7 @@ For example: **Browse all**,**Browse an area**, **Browse by neighborhood**.
 
 When editing a reservation, the context \(path\) is defaulted to **Browse all**. Employees can change the selected space or date and time of the reservation.
 
- For more information, see [Create a reservation](create-reservation-request-1.md).
+ For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
  **Note:** This option isn’t available on the Now Mobile app.
 
@@ -351,7 +351,7 @@ Max days in future
 
 </td><td>
 
-Option to specify the maximum number of the days in the future up to which the reservable module can be reserved. For example, if you set the max number of days in future to **90**, employees can make future reservations on this module only up to 90 days in advance. If this option is enabled, employees can’t select a date beyond the specified value in **Max days in future** while making a reservation. For more information, see [Create a reservation](create-reservation-request-1.md).
+Option to specify the maximum number of the days in the future up to which the reservable module can be reserved. For example, if you set the max number of days in future to **90**, employees can make future reservations on this module only up to 90 days in advance. If this option is enabled, employees can’t select a date beyond the specified value in **Max days in future** while making a reservation. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 On Now Mobile app, if you try to select a date too far in the future than what is specified in the **Max days in future**, no results are returned.
 
@@ -409,7 +409,7 @@ Max number of days for browse near a person
 
 </td><td>
 
-Option to specify the number of days employees can reserve a space near a colleague. Admins can configure the maximum number of days an employee would like to reserve a space near a colleague using this property.Default value is 7. Administrators can change this value to more than 7 days and enable employees to select the max number of days they would like to book a seat near a team member or a colleague. For more information, see [Create a reservation](create-reservation-request-1.md).
+Option to specify the number of days employees can reserve a space near a colleague. Admins can configure the maximum number of days an employee would like to reserve a space near a colleague using this property.Default value is 7. Administrators can change this value to more than 7 days and enable employees to select the max number of days they would like to book a seat near a team member or a colleague. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 **Note:** This field is displayed only when the **Enable browse near a person** Reservable module property is enabled on the Reservable Module.
 
@@ -453,7 +453,7 @@ Max days in future
 
 Option to specify the maximum number of the days in the future up to which the reservable module can be reserved. For example, if the Max number of days in future is set to 90, employees can make future reservations only up to 90 days in advance.
 
- If this option is enabled, users can’t select a date beyond the specified value in Max days in future while making a reservation. For more information, see [Create a reservation](create-reservation-request-1.md).
+ If this option is enabled, users can’t select a date beyond the specified value in Max days in future while making a reservation. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
  **Note:** **Max days in future** value indicates that the user can’t make a reservation beyond the number of days configured in this option. Max days in future is a reservation property and Max number of occurrences is a recurring reservation property. Max days in future value takes priority when both these options are used in a reservation.
 
@@ -517,7 +517,7 @@ Max number of days for browse near a person
 
 Option to specify the number of days employees can reserve a space near a colleague. Administrators can configure the maximum number of days an employee would like to reserve a space near a colleague using this property.
 
- Default value is 7. Administrators can change this value to more than 7 days and enable employees to select the max number of days to book a seat near a team member or a colleague. For more information, see [Create a reservation](create-reservation-request-1.md).
+ Default value is 7. Administrators can change this value to more than 7 days and enable employees to select the max number of days to book a seat near a team member or a colleague. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
  **Note:** This field is displayed only when the **Enable browse near a person** Reservable module property is enabled on the Reservable Module.
 
@@ -584,7 +584,7 @@ Warn employee about presence exception
 
 </td><td>
 
-Option to warn employees if their presence is set to remote on the date of the reservation. The warning is displayed based on the [presence routine](../../workplace-concierge/concept/explore-workplace-concierge.md#section_nz5_lxh_tzb) of the employee. This option is available if [Workplace Concierge](../../workplace-concierge/concept/workplace-concierge-feat.md) is installed.
+Option to warn employees if their presence is set to remote on the date of the reservation. The warning is displayed based on the [presence routine](../workplace-concierge/explore-workplace-concierge.md#section_nz5_lxh_tzb) of the employee. This option is available if [Workplace Concierge](../workplace-concierge/workplace-concierge-feat.md) is installed.
 
 </td></tr><tr><td>
 
@@ -599,7 +599,7 @@ Option to enable employees to invite attendees to their reservation. Employees c
 
 **Note:** For Microsoft Outlook Add-in reservations, you should set the**sn\_wsd\_rsv.display\_invitees\_on\_outlook** value to true. If the **Allow invitees** option is selected and the **sn\_wsd\_rsv.display\_invitees\_on\_outlook** is set to true,employees can see the option to select invitees when making a reservation using Microsoft Outlook Add-in.
 
-For more information, see [Properties installed with Workplace Reservation Management](../reference/properties-installed-with-wsd-reservation-mgmt.md).
+For more information, see [Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md).
 
 If **Allow invitees** is set to false, and **sn\_wsd\_rsv.display\_invitees\_on\_outlook** property is set to true, then the property value is given priority and employees are allowed to add invitees to a reservation. If **Allow invitees** is true, and **sn\_wsd\_rsv.display\_invitees\_on\_outlook** is set to false, employees can’t add invitees to a reservation.
 
@@ -639,7 +639,7 @@ Option to add notes to a meeting and attach images while making a reservation. T
 
 For Now Mobile app, the message is displayed on the summary page but employees can’t add or edit a message.
 
-For more information, see [Create a reservation](create-reservation-request-1.md).
+For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 .
 

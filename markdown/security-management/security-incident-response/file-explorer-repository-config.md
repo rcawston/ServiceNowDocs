@@ -99,5 +99,5 @@ Select the File Explorer REST tenant record. For more information on the tenant 
     **Note:** Using the **Test Connection** button, either MSI Administrator or MSI Manager can only validate the file repository configuration.
 
 
-**Parent Topic:**[Configure File Explorer Component](../concept/file-explorer.md)
+**Parent Topic:**[Configure File Explorer Component](file-explorer.md)
 

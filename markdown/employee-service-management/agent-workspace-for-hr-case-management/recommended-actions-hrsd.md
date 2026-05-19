@@ -35,7 +35,7 @@ The Recommended Actions for HRSD provides real‑time, actionable guidance and r
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-task-list.svg)](../task/guided-decision-tree-aws.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-task-list.svg)](guided-decision-tree-aws.md)
 
  Use Recommended Actions for HRSD to help HR agents speed up case resolution.
 

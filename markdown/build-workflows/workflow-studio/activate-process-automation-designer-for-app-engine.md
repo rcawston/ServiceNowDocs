@@ -197,5 +197,5 @@ You can create triggers in Playbooks for [custom tables that you create](https:/
 
 **Note:** If you create a custom table such as My Table \[x\_my\_table\], you can create playbooks that trigger from it. However, you cannot create a playbook that triggers from a table belonging to another Process Automation Designer plugin.
 
-**Parent Topic:**[Activate Playbooks](../concept/activate-process-automation-designer.md)
+**Parent Topic:**[Activate Playbooks](activate-process-automation-designer.md)
 

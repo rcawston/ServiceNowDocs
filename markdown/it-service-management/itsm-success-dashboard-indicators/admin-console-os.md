@@ -29,7 +29,7 @@ Review and configure the data visualization available in the base system for Inc
 
 Operational Success Overview 
 
--   **[Create an operational success dashboard](../task/create-operational-success-dashboard.md)**  
+-   **[Create an operational success dashboard](create-operational-success-dashboard.md)**  
 Create a KPI category and map with the operational dashboard to view the performance of the ITSM processes in your organization.
 
 **Parent Topic:**[Configuring ITSM Success Dashboard indicators](configure-success-dashboards.md)

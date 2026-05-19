@@ -110,7 +110,7 @@ The pack table is mapped against the CI and is displayed in the Pack Config list
 
 Use the pack tables in the CI record. To learn more, see [Use an attribute pack in the CI record](use-telecommunication-network-inventry-pack.md).
 
-**Parent Topic:**[Configuring an attribute pack table](../concept/configuring-pack-table.md)
+**Parent Topic:**[Configuring an attribute pack table](configuring-pack-table.md)
 
 **Related topics**  
 

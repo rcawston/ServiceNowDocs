@@ -84,5 +84,5 @@ In the Type column, change the column type from **Reference** back to the data t
 7.  Select **Finish**.
 
 
-**Parent Topic:**[Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](managing-data-fabric-tables-zcc.md)
 

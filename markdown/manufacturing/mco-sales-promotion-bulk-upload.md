@@ -25,7 +25,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 3.  On the Sales promotion bulk upload form, fill in the fields.
 
-    For a description of the field values, see [Sales promotion bulk upload form](../reference/mco-sp-bulk-upload-form.md).
+    For a description of the field values, see [Sales promotion bulk upload form](mco-sp-bulk-upload-form.md).
 
 4.  Select **Dealer**.
 

@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Create work order](../task/osp-create-work-order.md)
+[Create work order](osp-create-work-order.md)
 
 </td><td>
 
@@ -33,7 +33,7 @@ An OSP agent can create a work order so that it can be assigned to a Field Servi
 
 </td></tr><tr><td>
 
-[Escalate a case](../task/osp-escalate-case.md)
+[Escalate a case](osp-escalate-case.md)
 
 </td><td>
 
@@ -41,7 +41,7 @@ An OSP agent can escalate a case when unable to resolve or fulfill a case for va
 
 </td></tr><tr><td>
 
-[View account or consumer assets](../task/osp-view-asset-acct-consumer.md)
+[View account or consumer assets](osp-view-asset-acct-consumer.md)
 
 </td><td>
 
@@ -49,7 +49,7 @@ An OSP agent can view the assets owned by an account or consumer which helps in 
 
 </td></tr><tr><td>
 
-[View account contracts](../task/osp-view-contracts.md)
+[View account contracts](osp-view-contracts.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ As an OSP agent, you can view contracts owned by accounts or consumers in order 
 
 </td></tr><tr><td>
 
-[View customer or consumer data](../task/osp-view-cust-data.md)
+[View customer or consumer data](osp-view-cust-data.md)
 
 </td><td>
 
@@ -65,7 +65,7 @@ As an OSP agent, you can view the customer or consumer data to fulfill cases.
 
 </td></tr><tr><td>
 
-[Create a case task](../task/osp-create-case-task.md)
+[Create a case task](osp-create-case-task.md)
 
 </td><td>
 
@@ -73,7 +73,7 @@ An OSP agent creates a case task after a case has been assigned. As an agent, yo
 
 </td></tr><tr><td>
 
-[Assign a case](../task/osp-assign-case.md)
+[Assign a case](osp-assign-case.md)
 
 </td><td>
 
@@ -81,7 +81,7 @@ Assign a case to yourself or another Outsourced Service Provider \(OSP\) agent w
 
 </td></tr><tr><td>
 
-[Create an appointment](../task/osp-create-appt.md)
+[Create an appointment](osp-create-appt.md)
 
 </td><td>
 
@@ -89,7 +89,7 @@ As an agent, you can create an appointment for the requester of a case.
 
 </td></tr><tr><td>
 
-[Transfer a case](../task/osp-transfer-case.md)
+[Transfer a case](osp-transfer-case.md)
 
 </td><td>
 
@@ -97,7 +97,7 @@ The OSP agent or manager, if unable to resolve a case, transfers the case manual
 
 </td></tr><tr><td>
 
-[View cases](../task/osp-view-cases.md)
+[View cases](osp-view-cases.md)
 
 </td><td>
 
@@ -105,7 +105,7 @@ As an OSP manager or agent, you can view all application modules with the list o
 
 </td></tr><tr><td>
 
-[View case related emails and respond](../task/osp-view-email-respond.md)
+[View case related emails and respond](osp-view-email-respond.md)
 
 </td><td>
 
@@ -113,7 +113,7 @@ As an OSP agent, you can view the list of emails related to a case that is assig
 
 </td></tr><tr><td>
 
-[Report knowledge gap from a case](../task/osp-report-knowledge-gap.md)
+[Report knowledge gap from a case](osp-report-knowledge-gap.md)
 
 </td><td>
 
@@ -121,7 +121,7 @@ When an OSP agent has a knowledge gap which impacts the ability to resolve a cas
 
 </td></tr><tr><td>
 
-[Propose a major case](../task/osp-propose-major-case.md)
+[Propose a major case](osp-propose-major-case.md)
 
 </td><td>
 
@@ -129,7 +129,7 @@ As an OSP agent, you can propose a major case from the existing customer service
 
 </td></tr><tr><td>
 
-[Close a case](../task/osp-close-case.md)
+[Close a case](osp-close-case.md)
 
 </td><td>
 
@@ -137,7 +137,7 @@ Users with OSP agent role can propose a solution to a case and close the assigne
 
 </td></tr><tr><td>
 
-[Contextual search](../task/osp-contextual-search.md)
+[Contextual search](osp-contextual-search.md)
 
 </td><td>
 
@@ -145,7 +145,7 @@ Users with OSP agent role can search for related information to fulfill a case. 
 
 </td></tr><tr><td>
 
-[View list of entitlements](../task/osp-view-entitlements.md)
+[View list of entitlements](osp-view-entitlements.md)
 
 </td><td>
 

@@ -39,7 +39,7 @@ Runs across the top of every page and contains a logo and the following informat
 -   [Connect sidebar icon](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_CollaborationOverlay.md) \(![Connect sidebar icon](../../../use/collaboration/image/IconUI16ToggleConnectSidebar.png)\): Lets you begin or continue conversations. This icon is available if Connect is enabled.
 -   [Global text search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_GlobalTextSearch.md) icon \(![Global text search icon](../image/IconUI16Search.png)\): Finds records from multiple tables.
 -   Help icon \(![Help icon](../image/IconUI16Help.png)\): Opens the help panel with embedded help, where available. If there is no embedded help, it offers help search options.
--   Gear icon \(![Gear icon](../image/IconUI16Gear.png)\): Opens the [System settings for the Core UI](../reference/r_UI16BannerFrame.md).
+-   Gear icon \(![Gear icon](../image/IconUI16Gear.png)\): Opens the [System settings for the Core UI](r_UI16BannerFrame.md).
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ Application navigator
 
 </td><td>
 
-Also called the left-navigation bar. Provides links to all applications and modules. See [Core UI application navigator](../../../use/navigation/concept/c_UI16ApplicationNavigator.md).
+Also called the left-navigation bar. Provides links to all applications and modules. See [Core UI application navigator](c_UI16ApplicationNavigator.md).
 
 </td></tr><tr><td>
 
@@ -66,27 +66,27 @@ The Edge
 The Edge is removed in Core UI. The collapsed view of the Core UI application navigator is similar to the Edge.
 
 </td></tr></tbody>
-</table>-   **[Activate Core UI](../task/t_ActivateUI16.md)**  
+</table>-   **[Activate Core UI](t_ActivateUI16.md)**  
 Core UI can be activated with the Core UI plugin \(com.glide.ui.ui16\) if you have the admin role.
--   **[Core UI application navigator](../../../use/navigation/concept/c_UI16ApplicationNavigator.md)**  
+-   **[Core UI application navigator](c_UI16ApplicationNavigator.md)**  
 The Core UI application navigator appears at the left of the interface and provides access to all available applications and modules, favorites, and recently viewed items.
--   **[System settings for the Core UI](../reference/r_UI16BannerFrame.md)**  
+-   **[System settings for the Core UI](r_UI16BannerFrame.md)**  
 You can define system settings to customize the Core UI for yourself. The gear icon, located within the banner frame, displays the system settings window.
 
-**Parent Topic:**[Working in Core UI](../../../get-started/servicenow-overview/concept/working-in-ui16-and-ui15.md)
+**Parent Topic:**[Working in Core UI](working-in-ui16-and-ui15.md)
 
 **Related topics**  
 
 
-[Working in the classic environment](../../../get-started/servicenow-overview/concept/working-in-classic-lists-and-forms.md)
+[Working in the classic environment](working-in-classic-lists-and-forms.md)
 
-[Common UI elements](../../../use/common-ui-elements/topic/p_CommonUIElements.md)
+[Common UI elements](p_CommonUIElements.md)
 
-[Browser support](../reference/browser-support.md)
+[Browser support](browser-support.md)
 
-[Core UI keyboard shortcuts](../../../use/navigation/reference/r_KeyboardShortcuts.md)
+[Core UI keyboard shortcuts](r_KeyboardShortcuts.md)
 
-[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+[User interface configuration](p_NavigationAndUIConfiguration.md)
 
-[Configure logo, colors, and system defaults for Core UI](../task/t_ConfigureLogoColorsSysDfltsUI16.md#)
+[Configure logo, colors, and system defaults for Core UI](t_ConfigureLogoColorsSysDfltsUI16.md#)
 

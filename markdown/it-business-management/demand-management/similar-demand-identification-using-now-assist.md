@@ -24,7 +24,7 @@ This skill uses the name, description, and business case content of a demand to 
 
 The similar demand records are displayed in a top banner and in the Similar Demands related list. This skill improves visibility into related initiatives, and enhances decision-making for demand users.
 
-For more information, see [Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](../task/identify-similar-demands.md).
+For more information, see [Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](identify-similar-demands.md).
 
 ## Demand summarization
 
@@ -32,12 +32,12 @@ The demand summarization skill reviews the fields and related lists of a demand 
 
 The generated summary is displayed in a summary card on the demand record. You can copy the summary for further use.
 
-For more information on, see [Summarize demands with demand summarization skill](../task/demand-summary-demand-classic.md).
+For more information on, see [Summarize demands with demand summarization skill](demand-summary-demand-classic.md).
 
 **Parent Topic:**[Exploring Demand Management](exploring-demand-management.md)
 
 **Related topics**  
 
 
-[Now Assist for Strategic Portfolio Management \(SPM\)](../../now-assist-spm/concept/now-assist-spm.md)
+[Now Assist for Strategic Portfolio Management \(SPM\)](../now-assist-for-strategic-portfolio-management-spm/now-assist-spm.md)
 

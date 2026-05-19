@@ -17,7 +17,7 @@ Dedicated spaces in workspaces and in the Core UI enable you to use agentic work
 
 Agentic workflows can help accomplish complex tasks for you, such as generating resolution notes for cases and incidents or investigating problems and root causes. You can view agentic workflows running on a record in the AI Workflows panel in the Core UI form or in workspaces. For agentic workflows that require human supervision, you can answer questions, approve next steps, or provide other input. Along with current progress, you can also review historical runs to compare results.
 
-You can create UI actions for your agentic workflows in AI Agent Studio. Open the agentic workflow, navigate to the [Select channels and access](../task/channels-access-aw.md) step in the guided setup, and create a UI action.
+You can create UI actions for your agentic workflows in AI Agent Studio. Open the agentic workflow, navigate to the [Select channels and access](channels-access-aw.md) step in the guided setup, and create a UI action.
 
 If you don't see this panel, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`.
 
@@ -43,7 +43,7 @@ The execution list also displays the results of any workflows triggered in the N
 
 When you select a specific agentic workflow, you can view the processing messages and history. Processing messages show you what steps the agentic workflow has taken already and which ones are still being completed.
 
-You can change the processing messages for an AI agent or tool in AI Agent Studio. For an AI agent, open the AI agent and go to the [Select channels and access](../task/channels-access-aia.md) step. For a tool, open the AI agent, go to the [Add tools and information](add-tool-aia.md) step, and select the tool to open the form modal.
+You can change the processing messages for an AI agent or tool in AI Agent Studio. For an AI agent, open the AI agent and go to the [Select channels and access](channels-access-aia.md) step. For a tool, open the AI agent, go to the [Add tools and information](add-tool-aia.md) step, and select the tool to open the form modal.
 
 ![Processing messages in the AI Workflows panel](../image/inproduct-ai-processing.png)
 

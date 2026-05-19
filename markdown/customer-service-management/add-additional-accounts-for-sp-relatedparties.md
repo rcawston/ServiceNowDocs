@@ -69,7 +69,7 @@ Responsibility
 
 </td><td>
 
-Access level to the sold product and related information.Additional account with the Authorized Account responsibility requires the sn\_install\_base.sold\_product\_authorized\_contact role to get access to the associated sold product and related entities. For details, see [Roles installed with customer access management](../reference/r_rolesinstalledwithcustaccessmgmt.md).
+Access level to the sold product and related information.Additional account with the Authorized Account responsibility requires the sn\_install\_base.sold\_product\_authorized\_contact role to get access to the associated sold product and related entities. For details, see [Roles installed with customer access management](r_rolesinstalledwithcustaccessmgmt.md).
 
  **Note:** If the **Responsibility** field is empty, the accounts don't have any access to the sold product and associated case.
 

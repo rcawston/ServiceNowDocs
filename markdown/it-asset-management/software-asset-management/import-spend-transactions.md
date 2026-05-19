@@ -70,5 +70,5 @@ Navigate to **Software Spend Detection** &gt; **Unnormalized Transactions** to v
 
 If necessary, you can mass delete all transactions from an import. Navigate to **Software Spend Detection** &gt; **Administration** &gt; **Transaction Import Results**, select the import record, and then select **Delete**.
 
-**Parent Topic:**[Software Spend Detection](../concept/software-spend-detection.md)
+**Parent Topic:**[Software Spend Detection](software-spend-detection.md)
 

@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The software info tab in Zero Copy Connector for ERP \(Enterprise Resource Planning\) contains information about the selected ERP system.
 
-For process details, see [View Zero Copy Connector for ERP software information](../task/view-erp-system-information.md).
+For process details, see [View Zero Copy Connector for ERP software information](view-erp-system-information.md).
 
 |Field|Description|
 |-----|-----------|

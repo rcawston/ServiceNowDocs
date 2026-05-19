@@ -79,5 +79,5 @@ A routing profile links queues to agents. Every agent must have a routing profil
     5.  In the **Order** field, select the order number for the assignment group. This is the order of assignment group priority in which the incoming calls are handled.
     6.  Click **Submit**.
 
-**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](../concept/configurable-servicenow-voice-cs.md)
+**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](configurable-servicenow-voice-cs.md)
 

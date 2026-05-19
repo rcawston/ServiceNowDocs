@@ -36,5 +36,5 @@ Role required: sn\_imt\_tracing.admin
     You can [send the notification](send-outreach-notif-privacy.md) again to employees who have not yet responded.
 
 
-**Parent Topic:**[Maintaining user data privacy in Contact Tracing](../concept/contact-tracing-user-privacy-options.md)
+**Parent Topic:**[Maintaining user data privacy in Contact Tracing](contact-tracing-user-privacy-options.md)
 

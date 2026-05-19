@@ -24,5 +24,5 @@ You can set a filter showing all the printers on a map and share that filter wit
 
 [Simple filters](r_SimpleFilters.md)
 
-[Create a map filter in Facilities Service Management](../task/t_CreateAMapFilter.md)
+[Create a map filter in Facilities Service Management](t_CreateAMapFilter.md)
 

@@ -17,7 +17,7 @@ As a contract configurator, add metadata to pre-fill information that will be pl
 
 ## Before you begin
 
-Ensure you have configured the Word add-in. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](../task/cncore-config-word-addin.md).
+Ensure you have configured the Word add-in. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md).
 
 Role required: sn\_cm\_core.contract\_config and canvas\_user
 

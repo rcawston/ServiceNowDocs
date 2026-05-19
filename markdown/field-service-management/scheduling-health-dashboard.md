@@ -163,5 +163,5 @@ The **Type** filter contains two choices, batch and intraday. Your selection out
 |Batch|Single select|Generate a report based on the selected batch configuration.|
 |Intraday configuration|Single select|Generate a report based on the selected intraday configuration.|
 
-**Parent Topic:**[Analytics and reporting for Field Service Management](../../../product/field-service-management/concept/analytics-reporting-fsm.md)
+**Parent Topic:**[Analytics and reporting for Field Service Management](analytics-reporting-fsm.md)
 

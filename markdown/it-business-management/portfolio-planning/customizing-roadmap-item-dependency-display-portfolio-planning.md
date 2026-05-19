@@ -73,5 +73,5 @@ Roadmap view
 ![Roadmap showing only items with dependencies.](../../alignment-planner-workspace/images/only-dependencies.png "Roadmap showing only items with dependencies")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Personalize roadmap view](../task/personalize-roadmap-view-portfolio-planning.md)
+</table>**Parent Topic:**[Personalize roadmap view](personalize-roadmap-view-portfolio-planning.md)
 

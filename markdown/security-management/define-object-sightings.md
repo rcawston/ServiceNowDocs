@@ -51,5 +51,5 @@ Click any of the following related lists to view additional information about ob
 |Identities|List of identities associated with this object.|
 |Observed Data|Lists observed data associated with this object.|
 
-**Parent Topic:**[Sightings](../concept/indicator-sightings.md)
+**Parent Topic:**[Sightings](indicator-sightings.md)
 

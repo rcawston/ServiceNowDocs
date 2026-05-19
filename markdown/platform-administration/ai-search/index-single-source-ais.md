@@ -17,7 +17,7 @@ Make content from an internal indexed source searchable by performing a full tab
 
 ## Before you begin
 
-Your indexed source must be active and internal \(referring to a ServiceNow AI Platform® table\). To index content from an indexed source for external documents, see [Indexing and searching external content in AI Search](../concept/external-content-ais.md).
+Your indexed source must be active and internal \(referring to a ServiceNow AI Platform® table\). To index content from an indexed source for external documents, see [Indexing and searching external content in AI Search](external-content-ais.md).
 
 Role required: ais\_admin
 
@@ -62,5 +62,5 @@ AI Search indexes content from existing records in the indexed source. Indexing 
 
 Define search sources to make searchable content from the indexed source available in user search experiences. For details on creating search sources, see [Create a search source for AI Search](create-search-source-ais.md).
 
-**Parent Topic:**[Indexing content from AI Search indexed sources](../concept/indexing-content-ais.md)
+**Parent Topic:**[Indexing content from AI Search indexed sources](indexing-content-ais.md)
 

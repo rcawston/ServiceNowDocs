@@ -37,5 +37,5 @@ Role required: none
     The pipeline works with the CSC DevOps Integration catalog item. The Microsoft Azure DevOps integration discovers pipelines with the deploymentID variable.
 
 
-**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](../concept/integrating-azure-devops-and-cicd-pipeline.md)
+**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](integrating-azure-devops-and-cicd-pipeline.md)
 

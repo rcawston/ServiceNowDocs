@@ -33,7 +33,7 @@ You can gain visibility into how your PVU licenses are applied to your devices b
 
 -   If you are integrating the IBM publisher pack with an Authorized SAM Provider \(ASP\), navigate to **Workspaces** &gt; **Software Asset Workspace**. When the Software Asset Workspace launches, open the License operations view. From the left navigation menu of the License operations view, navigate to **IBM ASP Integration** &gt; **Device Settings** to modify the value of the corresponding **Usage Type** field. By default, the **Usage Type** field is automatically set to **Sub-capacity**. However, the **Usage Type** field for devices with allocations in your full capacity PVU entitlements is automatically set to **Full capacity** instead.
 
-    For more details on the available device settings, see [Verify the meta data for your IBM hosts](../task/verify-ibm-device-meta-data.md).
+    For more details on the available device settings, see [Verify the meta data for your IBM hosts](verify-ibm-device-meta-data.md).
 
     For more details on ASPs, see [Authorized SAM Provider \(ASP\) integrations for IBM](ibm-asp-integration.md).
 
@@ -169,7 +169,7 @@ You can gain visibility into how your RVU licenses are applied to your devices b
 
 -   If you are integrating the IBM publisher pack with an Authorized SAM Provider \(ASP\), such as Anglepoint, navigate to **Workspaces** &gt; **Software Asset Workspace**. When the Software Asset Workspace launches, open the License operations view. From the left navigation menu of the License operations view, navigate to **IBM ASP Integration** &gt; **Device settings** to modify the value of the corresponding **Usage Type** field. By default, the **Usage Type** field is automatically set to **Sub-capacity**.
 
-    For more details on the available device settings, see [Verify the meta data for your IBM hosts](../task/verify-ibm-device-meta-data.md).
+    For more details on the available device settings, see [Verify the meta data for your IBM hosts](verify-ibm-device-meta-data.md).
 
     For more details on ASPs, see [Authorized SAM Provider \(ASP\) integrations for IBM](ibm-asp-integration.md).
 

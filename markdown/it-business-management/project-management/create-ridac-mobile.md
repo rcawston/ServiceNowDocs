@@ -21,7 +21,7 @@ Role required: portfolio\_manager or project\_manager or project\_user
 
 ## About this task
 
-Analyze the impact of the risks on the project and create RIDAC records to track risks, issues, and their probable resolution for planning future projects. For more information see, [Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md).
+Analyze the impact of the risks on the project and create RIDAC records to track risks, issues, and their probable resolution for planning future projects. For more information see, [Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](ridac-entries-for-project.md).
 
 ## Procedure
 
@@ -62,5 +62,5 @@ Analyze the impact of the risks on the project and create RIDAC records to track
 **Related topics**  
 
 
-[Manage status of your projects using Project Status application](../concept/mobile-project-status.md)
+[Manage status of your projects using Project Status application](mobile-project-status.md)
 

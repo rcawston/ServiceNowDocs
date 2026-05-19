@@ -28,7 +28,7 @@ The Data Discovery Findings page displays the following details after a complete
 |Data Discovery Job|Job used on the target table|
 |Status|Status of the entry|
 
-After you run a Data Discovery job, the results have a status of New. If no action is necessary, you can leave the data alone, which automatically sets the status to Ignored. Otherwise, you can classify the data, such as by creating user-defined data classifications, to prepare for data anonymization using the [Data Classification](data-classification.md) tool.
+After you run a Data Discovery job, the results have a status of New. If no action is necessary, you can leave the data alone, which automatically sets the status to Ignored. Otherwise, you can classify the data, such as by creating user-defined data classifications, to prepare for data anonymization using the [Data Classification](../data-classification/data-classification.md) tool.
 
 ## Granular Findings
 
@@ -36,7 +36,7 @@ Users may select the **Track Granular Findings** action to use the [Granular Fin
 
 ## Available Protections
 
-Select the **Available Protections** button to review an entries control service, status, notes, and last check in. As of Xanadu this feature supports only [Field Encryption](../../encryption/concept/field-encryption.md).
+Select the **Available Protections** button to review an entries control service, status, notes, and last check in. As of Xanadu this feature supports only [Field Encryption](../field-encryption.md).
 
 Protecton services can also be accessed from the Dashboard. For more information on the dashboard see, [Data Discovery](data-discovery-landing.md).
 

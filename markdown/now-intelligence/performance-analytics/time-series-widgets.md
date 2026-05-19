@@ -15,7 +15,7 @@ breadcrumb: [Performance Analytics widgets, Reporting, dashboards, and Performan
 
 Time series widgets show changes in an indicator score over time. Different visualizations emphasize the trend in the scores or the scores themselves, and can display one indicator or compare several indicators.
 
-**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -51,7 +51,7 @@ Visualizing trends in the scores of an indicator
 
 </td><td>
 
-[Line](../task/create-line-visualization-ts.md)
+[Line](create-line-visualization-ts.md)
 
 </td><td>
 
@@ -63,7 +63,7 @@ Shows how one or more values change over time by connecting a series of data poi
 
 </td><td>
 
-[Spline](../task/create-spline-visualization-ts.md)
+[Spline](create-spline-visualization-ts.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Comparing scores in an indicator
 
 </td><td>
 
-[Column](../task/create-column-visualization-ts.md)
+[Column](create-column-visualization-ts.md)
 
 </td><td>
 
@@ -91,7 +91,7 @@ Shows changes between scores over time by displaying them as proportional vertic
 
 </td><td>
 
-[Step](../task/create-step-visualization-ts.md)
+[Step](create-step-visualization-ts.md)
 
 </td><td>
 
@@ -107,7 +107,7 @@ Comparing scores or trends between indicators
 
 </td><td>
 
-[Stacked Column](../task/create-stacked-col-visualization-ts.md)
+[Stacked Column](create-stacked-col-visualization-ts.md)
 
 </td><td>
 
@@ -119,7 +119,7 @@ Each column is divided into a stack of slices representing different indicators.
 
 </td><td>
 
-[Area](../task/create-area-visualization-ts.md)
+[Area](create-area-visualization-ts.md)
 
 </td><td>
 
@@ -131,7 +131,7 @@ Resembles a line visualization, but the area between the axis and line is emphas
 
 </td><td>
 
-[Relative Compare](../task/create-relative-compare-ts.md)
+[Relative Compare](create-relative-compare-ts.md)
 
 </td><td>
 

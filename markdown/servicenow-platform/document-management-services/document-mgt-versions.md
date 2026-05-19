@@ -36,9 +36,9 @@ Document owners have the option to:
 
 For multiple document versions, the latest reviewed and approved version gets published and the previous versions are retired.
 
--   **[Create a document version](../task/create-doc-version.md)**  
+-   **[Create a document version](create-doc-version.md)**  
 Create a document version for each document.
--   **[Compare document versions](../task/compare-document-version.md)**  
+-   **[Compare document versions](compare-document-version.md)**  
 Document version comparison enables you to view differences between two versions of a document, highlighting changes such as added, removed, or modified content.
 
 **Parent Topic:**[Document repository](doc-mgt-view-documents-repo.md)
@@ -46,17 +46,17 @@ Document version comparison enables you to view differences between two versions
 **Related topics**  
 
 
-[Create a document record](../task/create-new-doc.md)
+[Create a document record](create-new-doc.md)
 
-[Download a document](../task/downloading-a-document.md)
+[Download a document](downloading-a-document.md)
 
-[Share a document link](../task/share-document-link.md)
+[Share a document link](share-document-link.md)
 
-[Modify a shared link access](../task/modify-access-shared-link.md)
+[Modify a shared link access](modify-access-shared-link.md)
 
 [Configure document permissions](document-configuration.md)
 
-[Delete a document link](../task/delete-document-link.md)
+[Delete a document link](delete-document-link.md)
 
-[Delete documents](../task/delete-a-doc.md)
+[Delete documents](delete-a-doc.md)
 

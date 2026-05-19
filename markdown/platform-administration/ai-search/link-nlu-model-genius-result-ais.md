@@ -40,5 +40,5 @@ The NLU model and its selected intents appear in the NLU Models related list.
 
 For an NLU trigger condition to function, the NLU model must be published. You can verify NLU model status by navigating to **All** &gt; **AI Search** &gt; **Search Query Settings** &gt; **Search Intents**.
 
-**Parent Topic:**[Genius Results](../concept/genius-results-ais.md)
+**Parent Topic:**[Genius Results](genius-results-ais.md)
 

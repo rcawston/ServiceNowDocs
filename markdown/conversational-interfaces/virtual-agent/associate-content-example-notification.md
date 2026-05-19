@@ -120,7 +120,7 @@ Delivery channels
 
 </td><td>
 
-Select **mweb**, which is the default channel for Virtual Agent. You can configure other channels to run Virtual Agent as well. For more information, see [Integrating Virtual Agent with other channels](../concept/integrate-virtual-agent.md).
+Select **mweb**, which is the default channel for Virtual Agent. You can configure other channels to run Virtual Agent as well. For more information, see [Integrating Virtual Agent with other channels](integrate-virtual-agent.md).
 
 </td></tr></tbody>
 </table>    4.  Select **Submit**.

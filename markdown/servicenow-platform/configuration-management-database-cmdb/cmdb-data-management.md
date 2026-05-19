@@ -93,7 +93,7 @@ You can create policies of the following types:
     Use to certify that specific attributes are of a specific value.
 
 
-You can implement your Retire, Delete, and Archive policies so that they follow [Common Service Data Model \(CSDM\)](../../csdm-implementation/concept/csdm-landing-page.md) standards where for example, CIs are archived and deleted only when a CI is already in retired state. When you create these life-cycle policies, the system applies processes to manage any dependent CIs that might be left behind. For more details about these processes and about verifying that the feature is enabled, see [Dependent CIs management](manage-dependent-ci.md).
+You can implement your Retire, Delete, and Archive policies so that they follow [Common Service Data Model \(CSDM\)](../common-service-data-model-csdm/csdm-landing-page.md) standards where for example, CIs are archived and deleted only when a CI is already in retired state. When you create these life-cycle policies, the system applies processes to manage any dependent CIs that might be left behind. For more details about these processes and about verifying that the feature is enabled, see [Dependent CIs management](manage-dependent-ci.md).
 
 ## ServiceNow AI Platform® data archiving
 
@@ -136,5 +136,5 @@ The life cycle state of a CI affects the CIs visibility and inclusion in ongoing
 Prepare your environment for using the CMDB Data Manager:
 
 1.  Some policy types such as the life-cycle policies Retire, Archive, and Delete, require that an active [retirement definition](life-cycle-rules.md) exists for each targeted class in the policy. This requirement doesn't apply to all policy types. For example, this requirement doesn't apply to the Attestation policy type. If you attempt to create a policy of a policy type for which this requirement applies but isn't met, an error message appears and the operation fails.
-2.  You can streamline approval of policies by populating the **Manage by Group** attribute of CIs that you plan to target in policies. Use the CI Class Manager to populate that attribute for an entire class, in a single synchronization operation. For more information about this data synchronization, see [Set the group for a CI or an entire class of CIs](../../csdm-implementation/task/csdm-data-synchronize-enable.md). If the **Managed by Group** attribute isn't populated for a CI, then the approval process is directed to the administrator.
+2.  You can streamline approval of policies by populating the **Manage by Group** attribute of CIs that you plan to target in policies. Use the CI Class Manager to populate that attribute for an entire class, in a single synchronization operation. For more information about this data synchronization, see [Set the group for a CI or an entire class of CIs](../common-service-data-model-csdm/csdm-data-synchronize-enable.md). If the **Managed by Group** attribute isn't populated for a CI, then the approval process is directed to the administrator.
 

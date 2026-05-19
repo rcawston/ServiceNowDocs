@@ -15,10 +15,10 @@ Before you create assessments, assign the assessment\_admin role to the appropri
 
 -   **[Assessment administrator tasks](c_AssessmentProcess.md)**  
 Before you create assessments, assign the assessment\_admin role to the appropriate users in your organization and determine your objectives for the assessment.
--   **[Take an assessment](../task/t_TakeAnAssessment.md)**  
+-   **[Take an assessment](t_TakeAnAssessment.md)**  
 Take the assessments assigned to you from the assessment and survey queue.
 -   **[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)**  
 In the Assessments application, assessment administrators create and administer metric types and assessable records.
 
-**Parent Topic:**[Assessments](../reference/r_Assessments.md)
+**Parent Topic:**[Assessments](r_Assessments.md)
 

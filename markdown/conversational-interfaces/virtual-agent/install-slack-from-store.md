@@ -76,5 +76,5 @@ Review these guidelines for using Virtual Agent with Slack or with Slack Enterpr
 
 [Integrate ServiceNow Virtual Agent with Slack](add-slack-snow-bot.md).
 
-**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](../concept/va-integ-slack.md)
+**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](va-integ-slack.md)
 

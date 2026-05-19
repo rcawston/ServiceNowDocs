@@ -26,16 +26,16 @@ The following table outlines the key differences between a regulatory event aler
 |Use case|Helps assess impact and determine compliance actions or next steps.|Serves as a reference for legal interpretation, policy updates, and audit traceability.|
 |Example|Alert about a change in data privacy regulations in the EU.|Alert linking to the official EU regulation amendment document published by the authority.|
 
-**Parent Topic:**[Exploring Regulatory Change Management](../../grc-rcm/concept/what-is-rcm.md)
+**Parent Topic:**[Exploring Regulatory Change Management](what-is-rcm.md)
 
 **Related topics**  
 
 
-[Regulatory Change Management application in the Compliance Workspace](../../grc-rcm/concept/rcm-workspace-overview.md)
+[Regulatory Change Management application in the Compliance Workspace](rcm-workspace-overview.md)
 
-[Regulatory process flow and tasks](../../grc-rcm/concept/reg-change-workflow-swimlane.md)
+[Regulatory process flow and tasks](reg-change-workflow-swimlane.md)
 
-[Next Experience Discuss and Chat Collaboration](../../grc-rcm/concept/next-experience-discuss-chat-collaboration.md)
+[Next Experience Discuss and Chat Collaboration](next-experience-discuss-chat-collaboration.md)
 
-[Exploring Now Assist in Regulatory Change Management \(RCM\)](../../grc-rcm/concept/rcm-exploring-now-assist-for-irm.md)
+[Exploring Now Assist in Regulatory Change Management \(RCM\)](rcm-exploring-now-assist-for-irm.md)
 

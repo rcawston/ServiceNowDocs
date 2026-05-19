@@ -56,7 +56,7 @@ The new status is reflected in your EKMS configuration, and encryption and decry
 When you disable a key in AWS, ServiceNow provides multiple notifications to alert administrators:
 
 -   The External Key Status field changes to "Disabled" on the EKMS Configuration page.
--   A high-priority security task is automatically created in Security Center notifying administrators that the EKMS key was disabled. To view notifications, navigate to **All** &gt; **Security Center** &gt; **Overview**. See [Security Center](../../security-center/concept/sec-center-v2.md).
+-   A high-priority security task is automatically created in Security Center notifying administrators that the EKMS key was disabled. To view notifications, navigate to **All** &gt; **Security Center** &gt; **Overview**. See [Security Center](security-center/sec-center-v2.md).
 
 While the key is disabled, you can't encrypt or decrypt data in encrypted fields. You can still create records if the encrypted field isn't a required field, and you can update non-encrypted fields in existing records. All cryptographic operations are blocked until the key is re-enabled in AWS.
 
@@ -73,12 +73,12 @@ Important considerations after changing key status:
 
 AWS requires a minimum 7-day waiting period for key deletion. During this period, the key status shows as "Pending deletion" in both AWS and EKMS. Keys can't be used while pending deletion. After seven days, the key is permanently deleted and can't be recovered. All data encrypted with a deleted key becomes permanently inaccessible.
 
-**Parent Topic:**[Using External Key Management Service](../concept/ekms-using-external-key-management.md)
+**Parent Topic:**[Using External Key Management Service](ekms-using-external-key-management.md)
 
 **Related topics**  
 
 
-[External Key Management Service](../concept/ekms-external-key-management.md)
+[External Key Management Service](ekms-external-key-management.md)
 
 [Configure an external key definition](ekms-configure-external-key-definition.md)
 

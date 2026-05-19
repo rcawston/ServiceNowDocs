@@ -28,12 +28,12 @@ Role required: certification\_admin
 4.  Select **All**.
 
 
-**Parent Topic:**[Working with the Setup page](../../concept/eaw-concept/eaw-work-with-setup-page.md)
+**Parent Topic:**[Working with the Setup page](eaw-work-with-setup-page.md)
 
 **Related topics**  
 
 
-[Manage certification policies](../../concept/eaw-concept/eaw-config-cert-schedules.md)
+[Manage certification policies](eaw-config-cert-schedules.md)
 
 [Import certification schedules in to Data Manager](eaw-convert-cert-schedules-to-cert-policies.md)
 

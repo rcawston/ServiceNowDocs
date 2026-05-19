@@ -31,7 +31,7 @@ The following items are installed with Task Mining:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Task Mining](../reference/installed-with-task-mining.md).
+For more information, see [Components installed with Task Mining](installed-with-task-mining.md).
 
 ## Procedure
 

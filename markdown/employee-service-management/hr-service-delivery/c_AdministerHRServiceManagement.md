@@ -17,11 +17,11 @@ Administer the Case and Knowledge Management application to improve HR efficienc
 
 **Note:** To use guided setup to help configure HR Service Delivery on your instance, navigate to **HR Administration** &gt; **Guided Setup**. For further information on how to use the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
--   **[HR properties](../task/t_HRProperties.md)**  
+-   **[HR properties](t_HRProperties.md)**  
 HR properties control the behavior of HR Service Delivery.
--   **[Configure how HR cases are created](../task/CreateModCaseCreationConfig.md)**  
+-   **[Configure how HR cases are created](CreateModCaseCreationConfig.md)**  
 Modify how search results for an employee appear and configure the default HR case creation form.
--   **[Application view of HR catalog](../task/t_AppView.md)**  
+-   **[Application view of HR catalog](t_AppView.md)**  
 The **Application View** provides an aerial view of your HR catalog. The **Application View** allows you to view your catalog with all categories and items and ensure that it is set up correctly.
 -   **[HR notifications](HRNotifications.md)**  
 Notifications are reminders that are created using email templates and sent out for **Lifecycle Event Activities** and **HR Services**.
@@ -43,11 +43,11 @@ Roles control access to features and capabilities in modules in the HR applicati
 HR cases can be automatically assigned to your agents via an HR case template, assignment and matching rules, or advanced work assignment \(AWA\).
 -   **[Labor unions](labor-unions.md)**  
 Use Labor Unions to define the details about unions within your company.
--   **[Configure an HR badge](../task/CreateModHRBadges.md)**  
+-   **[Configure an HR badge](CreateModHRBadges.md)**  
 Use **Badges** to create or modify visual indicators that provide quick insights into important attributes of employees, cases, or assigned users, such as organization, role, status, or special conditions on the **HR Ticket** page.
 -   **[Response templates for HR Service Delivery](hr-templated-snippets.md#)**  
 You can use response templates with HR Service Delivery to resolve cases faster and more efficiently.
--   **[HR synonym dictionary](../task/hr-synonym-dictionary.md)**  
+-   **[HR synonym dictionary](hr-synonym-dictionary.md)**  
 HR Service Delivery provides a Synonym Dictionary that helps expand text searches with additional keywords.
 -   **[HR security](hr-security.md#)**  
 HR Service Delivery provides Restricted Caller Access, Encryption Support, and Edge Encryption security features.

@@ -37,7 +37,7 @@ Equipment Model Viewer \[cmdb\_ot\_isa\_viewer\]
 
 </td><td>
 
-Can only view the assigned ISA Equipment Model \[cmdb\_ci\_ot\_isa\_entity\] table records. To learn more, see [Using Industrial Process Manager with the Operational Technology Manager](../concept/using-manufacturing-process-manager.md) and [Managing equipment models](managing-equipment-models-after-data-import.md).
+Can only view the assigned ISA Equipment Model \[cmdb\_ci\_ot\_isa\_entity\] table records. To learn more, see [Using Industrial Process Manager with the Operational Technology Manager](using-manufacturing-process-manager.md) and [Managing equipment models](managing-equipment-models-after-data-import.md).
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Equipment Model Editor \[cmdb\_ot\_isa\_editor\]
 
 </td><td>
 
-Can view and edit the assigned ISA Equipment Model \[cmdb\_ci\_ot\_isa\_entity\] records.To learn more, see [Using Industrial Process Manager with the Operational Technology Manager](../concept/using-manufacturing-process-manager.md) and [Managing equipment models](managing-equipment-models-after-data-import.md).
+Can view and edit the assigned ISA Equipment Model \[cmdb\_ci\_ot\_isa\_entity\] records.To learn more, see [Using Industrial Process Manager with the Operational Technology Manager](using-manufacturing-process-manager.md) and [Managing equipment models](managing-equipment-models-after-data-import.md).
 
 </td></tr><tr><td>
 
@@ -109,5 +109,5 @@ Can view OT subnet records \(ot\_subnet\_mapping\) for all the equipment model e
     |**Assign a role to a group**|See [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).|
 
 
-**Parent Topic:**[Configuring the Industrial Process Manager](../concept/configuring-manufacturing-process-mgr.md)
+**Parent Topic:**[Configuring the Industrial Process Manager](configuring-manufacturing-process-mgr.md)
 

@@ -26,5 +26,5 @@ The form that appears when you select a record in the Suggested Talking Points t
 |**User criteria**|Select the criteria that must meet to have access to this talking point.|
 |**Conversation type**|The types of conversations to which your suggested talking point is applicable.|
 
-**Parent Topic:**[Career Conversations reference](../concept/egd-activities-reference.md)
+**Parent Topic:**[Career Conversations reference](egd-activities-reference.md)
 

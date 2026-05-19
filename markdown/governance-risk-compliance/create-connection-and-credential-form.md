@@ -80,5 +80,5 @@ Password
 Password to validate and establish the connection.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create connections and authenticate their credentials](../task/create-conn-auth-cred-Everbridge-uib-ws.md)
+</table>**Parent Topic:**[Create connections and authenticate their credentials](create-conn-auth-cred-Everbridge-uib-ws.md)
 

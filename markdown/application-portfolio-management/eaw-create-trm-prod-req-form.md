@@ -97,5 +97,5 @@ Business justification for the product request.
 **Related topics**  
 
 
-[Request a TRM product](../../task/eaw-task/eaw-request-a-trm-products.md)
+[Request a TRM product](eaw-request-a-trm-products.md)
 

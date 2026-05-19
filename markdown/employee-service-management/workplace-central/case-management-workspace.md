@@ -19,7 +19,7 @@ The Case management workspace helps you to handle thousands of workplace cases r
 
 **Important:** You need the case manager \[sn\_wsd\_case.manager\] role to access the Case management module.
 
-To know the key features of the Case management workspace and more, refer to [Case Management - Key features, Actions &amp; Case details](../reference/case-management-key-features-actions-case-details.md).
+To know the key features of the Case management workspace and more, refer to [Case Management - Key features, Actions &amp; Case details](case-management-key-features-actions-case-details.md).
 
 You can analyze the incoming cases with the help of charts. Check the statuses of the cases and view them in detail. The workspace displays the cases that breached SLAs. The workspace displays cases such as normal workplace cases, maintenance cases, and move cases.
 
@@ -50,11 +50,11 @@ As an admin or a case admin, you can cancel a case if it’s no longer required.
 
 [Space Planning](space-planning.md)
 
-[Space Optimization](space-optimization.md)
+[Space Optimization](../workplace-space-management/space-optimization.md)
 
-[Scenario Planning](scenario-planning.md)
+[Scenario Planning](../workplace-space-management/scenario-planning.md)
 
-[Schedule Planning](schedule-planning.md)
+[Schedule Planning](../workplace-space-management/schedule-planning.md)
 
 [Space assistance](space-assistance.md)
 

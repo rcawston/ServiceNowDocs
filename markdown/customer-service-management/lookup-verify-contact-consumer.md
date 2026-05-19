@@ -51,5 +51,5 @@ Agents can search for information such as name, phone number, email address, cas
 **Related topics**  
 
 
-[Lookup and verify](../concept/lookup-and-verify-overview.md)
+[Lookup and verify](lookup-and-verify-overview.md)
 

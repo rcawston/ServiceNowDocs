@@ -60,7 +60,7 @@ Role required: ui\_builder\_admin
 
 Select the **Next topic** link to learn how to create a button that opens a modal.
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](learning-uib-by-example.md)
 
 **Related topics**  
 

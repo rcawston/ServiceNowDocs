@@ -75,5 +75,5 @@ The new colors are applied to all empty state illustration types.
 
 If your theme is published, your empty state illustration edits are visible to users who have your theme applied on refresh. For information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
 
-**Parent Topic:**[Empty state illustrations in Theme Builder](../concept/empty-state-illustrations.md)
+**Parent Topic:**[Empty state illustrations in Theme Builder](empty-state-illustrations.md)
 

@@ -68,7 +68,7 @@ This spoke ships with the following subflows.
 
 ## Available sample conversational subflows
 
-Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](../../integrationhub/concept/conv-spokes-na.md).
+Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](conv-spokes-na.md).
 
 |Conversational subflow|Usage|
 |----------------------|-----|
@@ -337,7 +337,7 @@ Update a record in Microsoft Dynamics CRM.
 </td></tr></tbody>
 </table>## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -377,5 +377,5 @@ This spoke uses the Microsoft\_Dynamics\_CRM alias record to authorize actions.
 |----------------|-----------|--------------|
 |Microsoft\_Dynamics\_CRM|Connection to Microsoft Dynamics CRM|URL configured when you create your application in Azure. This URL ends with `dynamics.com`.|
 
-For information about setting up the spoke, see [Set up Microsoft Dynamics CRM spoke](../task/setup-ms-dynamics-crm.md#).
+For information about setting up the spoke, see [Set up Microsoft Dynamics CRM spoke](setup-ms-dynamics-crm.md#).
 

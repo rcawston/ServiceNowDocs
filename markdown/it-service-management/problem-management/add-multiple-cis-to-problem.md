@@ -82,5 +82,5 @@ Impacted Services/CIs
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

@@ -23,13 +23,13 @@ This bot configuration requires the following:
 -   Virtual Agent Bot Interconnect Store application
 -   A Microsoft Power Virtual Agents account for testing
 
-1.  [Create a JavaScript function in Microsoft Azure using Visual Studio Code](../task/create-js-function-azure-mspv-sec-bot.md)  
+1.  [Create a JavaScript function in Microsoft Azure using Visual Studio Code](create-js-function-azure-mspv-sec-bot.md)  
 To use Power Virtual Agents with Virtual Agent Bot Interconnect, you must create a JavaScript function in Microsoft Azure using the sample code files in Bot Interconnect.
-2.  [Locate and copy the Direct Line secret key in Microsoft Power Virtual Agents](../task/get-dl-secret-key-mspva.md)  
+2.  [Locate and copy the Direct Line secret key in Microsoft Power Virtual Agents](get-dl-secret-key-mspva.md)  
 To use Power Virtual Agents with Virtual Agent Bot Interconnect, you must locate and copy the Direct Line security key in your Power Virtual Agents account.
-3.  [Add the Direct Line secret key to your Virtual Agent Bot Interconnect instance](../task/add-dl-secret-key-sn-instance.md)  
+3.  [Add the Direct Line secret key to your Virtual Agent Bot Interconnect instance](add-dl-secret-key-sn-instance.md)  
 To use Power Virtual Agents with Virtual Agent Bot Interconnect, you must add the Direct Line security key as a credential in your Bot Interconnect instance.
-4.  [Create a Virtual Agent Bot Interconnect shell topic to call Microsoft Power Virtual Agents topics](../task/create-primary-va-topic-ms-pva.md)  
+4.  [Create a Virtual Agent Bot Interconnect shell topic to call Microsoft Power Virtual Agents topics](create-primary-va-topic-ms-pva.md)  
 To access topics in the Power Virtual Agents secondary bot, you must create at least one Virtual Agent Bot Interconnect topic.
 
 **Parent Topic:**[Using Virtual Agent Bot Interconnect in your configuration](using-sn-va-primary-bot-api.md)

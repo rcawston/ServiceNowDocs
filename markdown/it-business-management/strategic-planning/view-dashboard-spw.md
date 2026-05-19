@@ -44,7 +44,7 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
     If you have edit access, you can update the details of an individual record directly from the list view when necessary.
 
 
-**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](../concept/using-dashboards-spw.md)
+**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](using-dashboards-spw.md)
 
 **Related topics**  
 

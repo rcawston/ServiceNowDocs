@@ -43,5 +43,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 Reservations for the employees in this shift are created for the locations associated with the shift for the provided dates. You can view these reservations by navigating to **Workplace Safety Management** &gt; **Space Reservations** &gt; **All Reservations**.
 
-**Parent Topic:**[Managing workplace reservations for employees](../concept/managing-workplace-reservations-wsd.md)
+**Parent Topic:**[Managing workplace reservations for employees](managing-workplace-reservations-wsd.md)
 

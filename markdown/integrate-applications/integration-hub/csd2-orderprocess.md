@@ -46,5 +46,5 @@ In this example, a manager is ordering Google Chrome for a contractor. The manag
 
 ![Required fields.](../image/csd2-ordering.png)
 
-**Parent Topic:**[Client Software Distribution 2.0 application](../concept/csd-app-2.md)
+**Parent Topic:**[Client Software Distribution 2.0 application](csd-app-2.md)
 

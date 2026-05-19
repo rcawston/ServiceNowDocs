@@ -91,5 +91,5 @@ The Microsoft Exchange Online is set up with Microsoft Azure.
 
 Configure resources Microsoft Exchange Online in the calendar. For more information, refer to [https://learn.microsoft.com/en-us/exchange/recipients-in-exchange-online/manage-resource-mailboxes](https://learn.microsoft.com/en-us/exchange/recipients-in-exchange-online/manage-resource-mailboxes).
 
-**Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](../concept/outlook-integration-cc.md)
+**Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](outlook-integration-cc.md)
 

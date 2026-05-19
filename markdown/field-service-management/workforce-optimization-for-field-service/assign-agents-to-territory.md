@@ -54,7 +54,7 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner, sn\_fsm\_tp.fsm\_territory\_
         |Fields|Description|
         |------|-----------|
         |From Date|Start date of the work duration for the territory.|
-        |To date|End date of the work duration for the territory. For more information, see **sn\_fsm\_tp.territory\_membership\_override\_to\_date** in [Field Service Territory Planning console properties](../reference/territory-planning-components-fsm.md#).|
+        |To date|End date of the work duration for the territory. For more information, see **sn\_fsm\_tp.territory\_membership\_override\_to\_date** in [Field Service Territory Planning console properties](../territory-planning-components-fsm.md#).|
         |User|Name of agent.|
         |Work schedule|Select the work schedule. For example 8 AM to 5 PM.|
         |Type|Select **Primary Work** for agent as a primary contact for the selected territory.|

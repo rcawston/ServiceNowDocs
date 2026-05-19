@@ -46,7 +46,7 @@ Create an exception task from the List page
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open tasks**.
 2.  Select **New**.
 
-The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](../reference/create-apm-task-form.md).
+The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](create-apm-task-form.md).
 
 The **Type** field is set to **Case task** by default.
 
@@ -72,7 +72,7 @@ Create an exception task from an invoice exception
 2.  In the Number column, select the link to an invoice exception to open it.
 3.  Select the **Exception tasks** tab and then select **New**.
 
-The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](../reference/create-apm-task-form.md).
+The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](create-apm-task-form.md).
 
 The **Parent case**, **Invoice exception**, and **Type** fields are auto-populated.
 
@@ -90,7 +90,7 @@ Create an exception task from an invoice processing case
 2.  In the Number column, select the link to an invoice processing case to open it.
 3.  Select the **Tasks** tab and then select **New**.
 
-The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](../reference/create-apm-task-form.md).
+The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](create-apm-task-form.md).
 
 The Parent case field is auto-populated. The **Type** field is set to **Case task** by default.
 

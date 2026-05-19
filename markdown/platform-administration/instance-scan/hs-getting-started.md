@@ -27,11 +27,11 @@ Instance Scan uses the following records, components and scan types.
 
 -   **Results**
 
-    An Instance Scan result reports the status and type of the scan. See [Results](../reference/hs-review-scans.md) for more information.
+    An Instance Scan result reports the status and type of the scan. See [Results](hs-review-scans.md) for more information.
 
 -   **Findings**
 
-    A finding is a reference to a record that has violated a rule from a check on the instance. See [Findings](../reference/hs-review-scans.md) for more information.
+    A finding is a reference to a record that has violated a rule from a check on the instance. See [Findings](hs-review-scans.md) for more information.
 
 -   **Dashboard**
 
@@ -47,7 +47,7 @@ Instance Scan uses the following records, components and scan types.
 
 -   **Point scan**
 
-    Execute all applicable checks against a single record, update set, or an application by selecting **Run Point Scan**. For example, if you execute a point scan against a business rule, only the checks that are applicable to the business rule table run, and only that single target record is scanned. If you execute an update set scan or an application scan, all records related to that update set or application are scanned. See [Execute an app scan](../task/hs-execute-app-scan.md) and [Execute an update set scan](../task/hs-execute-update-set-scan.md) for more information.
+    Execute all applicable checks against a single record, update set, or an application by selecting **Run Point Scan**. For example, if you execute a point scan against a business rule, only the checks that are applicable to the business rule table run, and only that single target record is scanned. If you execute an update set scan or an application scan, all records related to that update set or application are scanned. See [Execute an app scan](hs-execute-app-scan.md) and [Execute an update set scan](hs-execute-update-set-scan.md) for more information.
 
 -   **Test scan**
 
@@ -84,8 +84,8 @@ Create checks and check suites to know the health of your instance
 </td><td>
 
 -   [Getting started with checks](hs-intro-health-check.md)
--   [Create a check](../task/hs-create-health-check.md)
--   [Create a check suite](../task/hc-create-check-suite.md)
+-   [Create a check](hs-create-health-check.md)
+-   [Create a check suite](hc-create-check-suite.md)
 
 </td><td>
 
@@ -97,7 +97,7 @@ Execute scans on the created checks to review the instance health
 
 </td><td>
 
-[Executing a scan](../reference/hs-execute-scans.md)
+[Executing a scan](hs-execute-scans.md)
 
 </td><td>
 
@@ -109,8 +109,8 @@ Scheduling of scans and suite scan
 
 </td><td>
 
--   [Schedule a full scan](../task/hs-schedule-full-scan.md)
--   [Schedule a suite scan](../task/hc-schedule-suite-scan.md)
+-   [Schedule a full scan](hs-schedule-full-scan.md)
+-   [Schedule a suite scan](hc-schedule-suite-scan.md)
 
 </td><td>
 
@@ -122,7 +122,7 @@ Monitor your scans to ensure no health issues of your instance
 
 </td><td>
 
-[Monitoring a scan](../task/hs-progress-status-full-scan.md)
+[Monitoring a scan](hs-progress-status-full-scan.md)
 
 </td><td>
 
@@ -147,5 +147,5 @@ To learn more about using Instance Scan, see:
 
 -   [Configuring Instance Scan](hs-intro-scans.md)
 -   [Using Instance Scan](hs-using-scans.md)
--   [Instance Scan references](../reference/hs-references.md)
+-   [Instance Scan references](hs-references.md)
 

@@ -25,7 +25,7 @@ Use simple queries to return metrics associated with services, hosts, and databa
 
 Use advanced query mode to cut and paste queries from existing observability charts into Service Observability. For most observability vendors, you can simply copy a query from an existing chart in your observability instance.
 
-Both query types support [template variables](../reference/service-observability-template-variables.md) that let you use the same query to return metrics for multiple entity instances.
+Both query types support [template variables](service-observability-template-variables.md) that let you use the same query to return metrics for multiple entity instances.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ Role required: sn\_sow\_svcobs.admin
     -   **Express list** alert: Select a service from the **Impacted services** column.
     The Service Details page opens and the Overview tab is displayed.
 
-    If charts are displaying error messages, see [Chart error states](../reference/chart-error-states.md).
+    If charts are displaying error messages, see [Chart error states](chart-error-states.md).
 
 2.  Open the template in editing mode.
 
@@ -73,7 +73,7 @@ Role required: sn\_sow\_svcobs.admin
 
         For AWS and Azure, instead of entering a query in advanced mode, you can import selected charts from an existing dashboard. Select **Import from AWS/Azure Dashboard**. Select a data source name, then select a dashboard and from the list of charts, select the one to import, then select **Import query**. The query for the chart is pasted into the Query box.
 
-        Use [template variables](../reference/service-observability-template-variables.md) to replace any hard-coded entities or time periods to have the query return results that match both the service and time period selected in the UI.
+        Use [template variables](service-observability-template-variables.md) to replace any hard-coded entities or time periods to have the query return results that match both the service and time period selected in the UI.
 
         **Note:** Use the **Docs** link to refer to the vendor-specific documentation for help with creating the query.
 
@@ -95,7 +95,7 @@ Role required: sn\_sow\_svcobs.admin
 
         For AWS and Azure, instead of entering a query in advanced mode, you can import selected charts from an existing dashboard. Select **Import from AWS/Azure Dashboard**. Select a data source name, then select a dashboard and from the list of charts, select the one to import, then select **Import query**. The query for the chart is pasted into the Query box.
 
-        Use [template variables](../reference/service-observability-template-variables.md) to replace any hard-coded entities or time periods.
+        Use [template variables](service-observability-template-variables.md) to replace any hard-coded entities or time periods.
 
         **Note:** Use the **Docs** link to refer to the vendor-specific documentation for help with creating the query.
 

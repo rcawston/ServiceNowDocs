@@ -95,7 +95,7 @@ Featured
 
 </td><td>
 
-Lists any knowledge articles that were pinned. For more information, see [Add a knowledge article to featured content](../task/t_PinAnArticle.md).
+Lists any knowledge articles that were pinned. For more information, see [Add a knowledge article to featured content](t_PinAnArticle.md).
 
 </td></tr><tr><td>
 

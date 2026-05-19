@@ -45,5 +45,5 @@ Role required: admin or assessment\_admin
 -   **[Configure metric categories or metrics for an assessment using the question bank](configure-questionbank-assessment.md)**  
 Reuse question categories \(metric categories\) and questions \(metrics\) from the **Question Bank** module while creating or updating an assessment.
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](c_AssessmentProcess.md)
 

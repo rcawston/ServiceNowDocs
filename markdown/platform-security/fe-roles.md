@@ -20,7 +20,7 @@ Managing requires the following roles. Since is based on the Key Management Fram
 -   sn\_kmf.admin
 -   sn\_kmf.cryptographic manager
 
-For complete details on details on roles, see [Roles installed with Key Management Framework](../../key-management-framework/reference/kmf-roles.md#).
+For complete details on details on roles, see [Roles installed with Key Management Framework](platform-encryption/kmf-roles.md#).
 
 ## Admin and Security Admin
 

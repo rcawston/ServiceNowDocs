@@ -20,10 +20,10 @@ The Create Physical Connection form enables you to create, review, and modify th
 -   **[Compute and Create Logical Connection form](compute-and-create-logical-connection-form.md)**  
 The Compute and Create Logical Connection form enables you to create, review, and modify the connection details for a logical connection.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Design and assign GPON broadband service](../concept/gpon-broadband-service.md)
+[Design and assign GPON broadband service](gpon-broadband-service.md)
 

@@ -21,7 +21,7 @@ Role required: admin or delegated\_developer
 
 ## About this task
 
-Application files are essentially metadata records for application logic such as business rules, workflows, and script includes. For more information on app files, see [Application files](../../applications/concept/c_ApplicationFiles.md) and [Working with metadata app file categories in the ServiceNow Studio Navigator](../concept/sn-studio-working-with-metadata.md).
+Application files are essentially metadata records for application logic such as business rules, workflows, and script includes. For more information on app files, see [Application files](../c_ApplicationFiles.md) and [Working with metadata app file categories in the ServiceNow Studio Navigator](sn-studio-working-with-metadata.md).
 
 Delegated developers can create app files for apps they have access to. If you need an app created, contact your admin.
 
@@ -62,7 +62,7 @@ This procedure details how to create files from anywhere in ServiceNow Studio. F
 
     ![The Create File page opens in a new integrated tab so you can select the type of file you want to create.](../image/sn-studio-create-file-page.png)
 
-    For a list of all types of files you can create, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md). For more information about each file type, see [Working with metadata app file categories in the ServiceNow Studio Navigator](../concept/sn-studio-working-with-metadata.md).
+    For a list of all types of files you can create, see [ServiceNow Studio Navigator panel taxonomy](servicenow-studio-file-navigator-taxonomy.md). For more information about each file type, see [Working with metadata app file categories in the ServiceNow Studio Navigator](sn-studio-working-with-metadata.md).
 
 7.  Select **Continue**.
 
@@ -81,5 +81,5 @@ After you finish creating the app file, you must select the refresh icon in the 
 
 ![Refresh the Navigator panel to see the new files you created.](../image/sn-studio-refresh-list-icon-zs1.png)
 
-**Parent Topic:**[Working with applications in ServiceNow Studio](../concept/working-with-apps-in-servicenow-studio.md)
+**Parent Topic:**[Working with applications in ServiceNow Studio](working-with-apps-in-servicenow-studio.md)
 

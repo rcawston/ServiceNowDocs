@@ -54,5 +54,5 @@ All of the following conditions must be true for auto-order to create a PO:
 -   The PR has at least one line in an approved state.
 -   All approved PR lines have valid cost allocation data, including GL account information.
 
-**Parent Topic:**[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 

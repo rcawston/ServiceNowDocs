@@ -32,7 +32,7 @@ Now Assist in Virtual Agent provides the following features:
 
     Users can request Service Catalog items using natural conversation. Virtual Agent asks clarifying questions and confirms the user's intent before completing the request.
 
-    **Note:** Service Catalog items must be marked as conversational to work with Virtual Agent. For details, see [Catalog item conversational details page overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/using-catalog-conversational-experience.md).
+    **Note:** Service Catalog items must be marked as conversational to work with Virtual Agent. For details, see [Catalog item conversational details page overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md).
 
 -   Multi-turn Q&amp;A
 

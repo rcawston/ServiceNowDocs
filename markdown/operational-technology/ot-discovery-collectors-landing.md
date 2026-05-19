@@ -27,13 +27,13 @@ Explore![](../images/BUS_64px_Explore_YG.png)
 
 Configure![](../images/BUS_64px_SDLC_YG.png)
 
- [Configure the OT Discovery Collector](../task/configuring-the-collector.md)
+ [Configure the OT Discovery Collector](configuring-the-collector.md)
 
 </td></tr><tr><td colspan="2">
 
 Use![](../images/BUS_64px_Optimize-Manage_YG.png)
 
- [Use the OT Discovery Collector](../../msi-console/concept/use-ot-collector-tasks.md)
+ [Use the OT Discovery Collector](use-ot-collector-tasks.md)
 
 </td></tr><tr><td colspan="2">
 

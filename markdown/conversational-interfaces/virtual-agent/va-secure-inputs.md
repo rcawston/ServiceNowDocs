@@ -44,7 +44,7 @@ Note the following points about how password-related inputs are handled securely
 -   When users enter a password on a channel, users can toggle the Hide text icon ![Hide text icon.](../images/hide-password-icon.png) to show or hide the password.
 -   ServiceNow admins can mark a specific channel as secure. If topic authors attempt to include a channel that isn't marked as secure, a warning message appears.
 
-    For more information about creating secure channels, see [Create a Virtual Agent conversational custom chat integration](../task/create-adapter-for-virtual-agent.md).
+    For more information about creating secure channels, see [Create a Virtual Agent conversational custom chat integration](create-adapter-for-virtual-agent.md).
 
 -   Passwords are masked \(not readable\) in queues, tables, and logs.
 

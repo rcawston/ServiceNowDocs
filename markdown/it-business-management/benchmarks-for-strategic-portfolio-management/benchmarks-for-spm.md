@@ -23,8 +23,8 @@ The SPM Benchmarks application provides clear visibility into your key performan
 Learn about the process required to set up SPM Benchmarks to view the comparative understandings on your key performance indicators \(KPIs\).
 -   **[Customize the SPM Benchmarks KPIs](using-benchmarks.md)**  
 You can customize the KPI information you would want to see in your SPM Benchmarks dashboard.
--   **[SPM Benchmarks reference](../reference/benchmarks-reference.md)**  
+-   **[SPM Benchmarks reference](benchmarks-reference.md)**  
 Reference information to provide additional details about SPM Benchmarks such as the fields, user roles, and scheduled job information.
 
-**Parent Topic:**[Strategic Portfolio Management](../../it-business-management/reference/r_ITBusinessManagement.md)
+**Parent Topic:**[Strategic Portfolio Management](../r_ITBusinessManagement.md)
 

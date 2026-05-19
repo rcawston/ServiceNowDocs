@@ -128,7 +128,7 @@ Number of Discovery schedules that had a long run time.**Note:** The threshold f
 
 -   **Support tools**
 
-    The **Support tools** tab provides tools to investigate and troubleshoot your instance. For a full list of the tools available on this tab, see [Discovery Admin Workspace support tools](../reference/r_dawSupportTools.md).
+    The **Support tools** tab provides tools to investigate and troubleshoot your instance. For a full list of the tools available on this tab, see [Discovery Admin Workspace support tools](r_dawSupportTools.md).
 
 -   **Logs**
 

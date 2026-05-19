@@ -38,5 +38,5 @@ Creating a data registry helps identify which user should be assigned personal d
 6.  Select the More actions icon on the top-right and select **Compose Email** to inform the right users that the request is being worked upon.
 
 
-**Parent Topic:**[Configuring Personal Data Rights](../concept/configuring-personal-data-rights.md)
+**Parent Topic:**[Configuring Personal Data Rights](configuring-personal-data-rights.md)
 

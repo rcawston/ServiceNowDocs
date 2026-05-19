@@ -17,7 +17,7 @@ Appointment Booking slot recommendation rules assist in identifying the optimal 
 
 The steps to enable and configure Appointment Booking slot recommendation are:
 
-1.  [Enable appointment booking slot recommendation](../task/enable-appointment-booking-slot-recommendation.md)
-2.  [Create or modify an appointment booking slot recommendation rule](../task/create-or-modify-an-appointment-booking-slot-recommendation-rule.md)
-3.  [Add selection criteria for an appointment slot recommendation rule](../task/add-selection-criteria-for-an-appointment-slot-recommendation-rule.md)
+1.  [Enable appointment booking slot recommendation](enable-appointment-booking-slot-recommendation.md)
+2.  [Create or modify an appointment booking slot recommendation rule](create-or-modify-an-appointment-booking-slot-recommendation-rule.md)
+3.  [Add selection criteria for an appointment slot recommendation rule](add-selection-criteria-for-an-appointment-slot-recommendation-rule.md)
 

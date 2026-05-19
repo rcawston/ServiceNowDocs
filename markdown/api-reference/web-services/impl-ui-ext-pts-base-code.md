@@ -89,7 +89,7 @@ Allow access over AJAX/REST
 
 </td><td>
 
-Option for enabling or disabling access to the UI extension point over AJAX or REST. To learn more about these development architectures and techniques, see [AJAX](../../../script/ajax/topic/p_AJAX.md#) and [REST APIs](../../../integrate/inbound-rest/concept/c_RESTAPI.md).
+Option for enabling or disabling access to the UI extension point over AJAX or REST. To learn more about these development architectures and techniques, see [AJAX](../scripts/p_AJAX.md#) and [REST APIs](../rest-api-explorer/c_RESTAPI.md).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ You must first create a UI extension point before you can add it to a UI macro o
 
 1.  In the application code, access the existing UI macro that you want to add a scripted extension point to or create a new one.
 
-    To learn more about creating UI macros with jelly tags, see [UI macros](../../../script/server-scripting/concept/c_UIMacros.md#) and [Jelly tags](../../../script/general-scripting/reference/r_JellyTags.md).
+    To learn more about creating UI macros with jelly tags, see [UI macros](../scripts/c_UIMacros.md#) and [Jelly tags](../scripts/r_JellyTags.md).
 
 2.  In the UI macro, add a jelly tag with a line of code at the location that you expect to collect and process custom UI macro output.
 

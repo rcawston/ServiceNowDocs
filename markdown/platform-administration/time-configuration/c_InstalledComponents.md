@@ -33,5 +33,5 @@ To activate the plugin, navigate to **System Definition** &gt; **Plugins** and a
 
 **Note:** New instances have the plugin activated by default.
 
-**Parent Topic:**[Client transaction timings](../reference/r_ClientTransactionTimings.md)
+**Parent Topic:**[Client transaction timings](r_ClientTransactionTimings.md)
 

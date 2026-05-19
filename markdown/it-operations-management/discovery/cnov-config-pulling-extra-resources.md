@@ -16,7 +16,7 @@ breadcrumb: [Configuring Kubernetes Visibility Agent, Kubernetes discovery using
 
 You can configure the Kubernetes Visibility Agent Informer to pull extra resources from Kubernetes clusters into the Configuration Management Database \(CMDB\), in addition to the resources it sends to the database by default. By pulling in additional resources beyond the default set, you can enhance visibility into your Kubernetes clusters.
 
-The Informer collects data on Kubernetes resources, sends the collected data to the instance, and updates the appropriate tables in the CMDB. For a list of the resources the Informer pulls into the CMDB by default, see [Data collected by Kubernetes Visibility Agent](../reference/cnov-collected-data.md).
+The Informer collects data on Kubernetes resources, sends the collected data to the instance, and updates the appropriate tables in the CMDB. For a list of the resources the Informer pulls into the CMDB by default, see [Data collected by Kubernetes Visibility Agent](cnov-collected-data.md).
 
 For every additional Kubernetes resource you want the Informer to pull into the CMDB, the system creates a Configuration Item \(CI\) in the cmdb\_ci\_kubernetes\_component target table. Alternatively, extra resources can be pulled to custom tables that extend the cmdb\_ci\_kubernetes\_component table. For example, you could create a u\_cmdb\_ci\_kubernetes\_configmap table for all ConfigMap resources in the cluster. The system creates a relation and a reference from the table to the cluster CI for every additional resource. If the resource is namespaced, a relation to the namespace CI is created.
 

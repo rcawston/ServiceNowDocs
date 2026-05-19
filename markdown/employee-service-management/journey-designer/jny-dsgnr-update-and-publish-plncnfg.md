@@ -54,7 +54,7 @@ Plan configuration owners can:
 
     -   **Stages**: logical containers of task templates.
     -   **Task templates**: individual tasks assigned to employees, mentors, or managers.
-    For details about the see, [Journey designer journey template reference](../reference/jny-dsgnr-plncnfg-info.md).
+    For details about the see, [Journey designer journey template reference](jny-dsgnr-plncnfg-info.md).
 
 5.  Select **Publish journey template**.
 
@@ -69,5 +69,5 @@ Plan configuration owners can:
     Owners and co-owners can cancel an approval request as long as an approver hasn’t approved or rejected the request.
 
 
-**Parent Topic:**[Journey designer plan configuration owners](../concept/jny-dsgnr-owner-role-and-responsibility.md)
+**Parent Topic:**[Journey designer plan configuration owners](jny-dsgnr-owner-role-and-responsibility.md)
 

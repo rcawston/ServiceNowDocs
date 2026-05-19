@@ -295,10 +295,10 @@ Update primary contacts active to false
 This activity deactivates all the contacts of the offboarded supplier. That is, the **Active** check box is deselected and the **Locked out** check box is selected for the contacts in the Vendor Contact \[vm\_vdr\_contact\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+</table>**Parent Topic:**[Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 
 **Related topics**  
 
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 

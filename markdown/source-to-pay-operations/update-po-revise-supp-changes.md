@@ -49,5 +49,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 A purchase requisition of type Revision is created with your updates and is assigned to a reviewer for further action.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
 

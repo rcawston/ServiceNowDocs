@@ -126,15 +126,15 @@ Choose the theme you want to edit from the Theme drop-down list.![Select a theme
     For more information, see [Publish your themes with Theme Builder](tb-apply-theme.md).
 
 
--   **[Core styles, colors, variants, and alternate color palettes](../reference/difference-themes-variants.md)**  
+-   **[Core styles, colors, variants, and alternate color palettes](difference-themes-variants.md)**  
 You can tailor the look and feel of the Next Experience UI for different users by configuring the core styles, variants, and alternate color palettes. Core styles define the base theme, variants support accessibility needs, and alternate color palettes provide cosmetic customization options for end users.
 -   **[Add an alternate color palette](tb-edit-color-palette.md)**  
 Customize a Theme Builder theme by creating an alternate color palette for the theme and publishing it to your instance.
--   **[Working with Global styles](../concept/working-with-global-styles.md)**  
+-   **[Working with Global styles](working-with-global-styles.md)**  
 Global styles enable you to edit and define core design elements like fonts, colors, and shapes that apply across your entire theme.
--   **[Working with Component styles](../concept/working-with-component-styles.md)**  
+-   **[Working with Component styles](working-with-component-styles.md)**  
 Component styles enable you to fine-tune the appearance of individual UI elements such as buttons, form controls, and navigation without affecting global theme settings. Use component styles when you need more granular control than what Global styles provide.
--   **[Working with Image styles](../concept/working-with-image-styles.md)**  
+-   **[Working with Image styles](working-with-image-styles.md)**  
 Image styles enable you to experiment with different color schemes for illustrations and replace default illustrations with your own custom images. The Image styles feature provides flexibility in customizing the visual elements of your theme.
 
 **Parent Topic:**[Configuring Next Experience with Theme Builder](configuring-next-experience-with-theme-builder.md)

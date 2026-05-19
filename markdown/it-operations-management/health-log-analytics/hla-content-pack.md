@@ -30,5 +30,5 @@ Run diagnostics, review and customize components, and start collecting data.
 -   **[Health Log Analytics Overview dashboard](hla-overview-dashboard.md)**  
 The Health Log Analytics Overview dashboard has been replaced with the HLA Operational dashboard.
 
-**Parent Topic:**[Analytics and Reporting in Health Log Analytics](../../../product/health-log-analytics-operator/concept/hla-analytics-reporting.md)
+**Parent Topic:**[Analytics and Reporting in Health Log Analytics](hla-analytics-reporting.md)
 

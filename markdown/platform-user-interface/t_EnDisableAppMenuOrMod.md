@@ -73,5 +73,5 @@ Use the **Roles** field.
     When you change application menus or modules, the application navigator automatically refreshes to display the changes.
 
 
-**Parent Topic:**[Common UI elements](../../../use/common-ui-elements/topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](p_CommonUIElements.md)
 

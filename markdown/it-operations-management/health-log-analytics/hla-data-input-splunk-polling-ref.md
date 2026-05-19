@@ -194,5 +194,5 @@ The date and time until which Splunk searches the data.
 |Max documents per query|The maximum number of documents retrieved each time log data is fetched from Splunk. Default: 10,000.|
 |Splunk request timeout \(seconds\)|The maximum time, in seconds, allowed for data retrieval before the request times out.|
 
-**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

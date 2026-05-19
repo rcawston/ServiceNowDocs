@@ -32,5 +32,5 @@ In the Test record form, you view and edit values of fields for the test record.
 |Copy test|Click to copy test.|
 |Delete|Click to delete this test.|
 
-**Parent Topic:**[Tests](../concept/tests-module.md)
+**Parent Topic:**[Tests](tests-module.md)
 

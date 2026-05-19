@@ -25,5 +25,5 @@ Ensure that you elevate to all these roles so you can make the most of ServiceNo
 |`data_privacy_clone_processor`|This role is necessary to create, read, update, and delete dataclass-based jobs.|
 |`security_admin`|This role is required to modify high security settings and manage the Access Control List. Elevate to this role to assign the `data_privacy_admin` role.|
 
-**Note:** Contact your admin to assign roles related to Field Encryption like `sn_kmf.admin` and `sn_kmf.cryptographic manager`. For more information, see [Role requirements for Field Encryption](../../encryption/concept/fe-roles.md).
+**Note:** Contact your admin to assign roles related to Field Encryption like `sn_kmf.admin` and `sn_kmf.cryptographic manager`. For more information, see [Role requirements for Field Encryption](fe-roles.md).
 

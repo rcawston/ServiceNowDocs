@@ -38,5 +38,5 @@ Role required: None
 4.  Fill in the form or the catalog item request, then select **Submit**.
 
 
-**Parent Topic:**[Using ServiceNow Add-in for Microsoft 365](../concept/using-sn-addin-for-ms365.md)
+**Parent Topic:**[Using ServiceNow Add-in for Microsoft 365](using-sn-addin-for-ms365.md)
 

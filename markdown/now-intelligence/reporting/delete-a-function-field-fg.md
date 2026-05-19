@@ -40,5 +40,5 @@ Function fields are stored as columns on the table that you create them on. To d
 
 The function field is deleted and can no longer be used in data visualizations.
 
-**Parent Topic:**[Report on function fields](../concept/function-fields-reporting.md)
+**Parent Topic:**[Report on function fields](function-fields-reporting.md)
 

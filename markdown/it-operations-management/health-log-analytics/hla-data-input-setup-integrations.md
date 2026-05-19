@@ -18,7 +18,7 @@ Set up integrations from the Event Management Integrations Launchpad in Service 
 
 ## Integrations Launchpad
 
-The Integrations Launchpad tool provides a unified interface for convenient integration with connectors that feed raw log messages from external sources into your ServiceNow instance for processing and analysis. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/integrations-launchpad.md).
+The Integrations Launchpad tool provides a unified interface for convenient integration with connectors that feed raw log messages from external sources into your ServiceNow instance for processing and analysis. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](../service-operations-workspace-for-itom-apps/integrations-launchpad.md).
 
 ## Integrations for Health Log Analytics
 
@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Amazon CloudWatch](../task/hla-data-input-cloudwatch.md)
+[Amazon CloudWatch](hla-data-input-cloudwatch.md)
 
 </td><td>
 
@@ -46,7 +46,7 @@ Streams log data from Amazon CloudWatch to your instance.
 
 </td></tr><tr><td>
 
-[Amazon S3](../task/il-connector-hla-aws-s3.md)
+[Amazon S3](il-connector-hla-aws-s3.md)
 
 </td><td>
 
@@ -54,7 +54,7 @@ Streams log data from Amazon S3 \(Simple Storage Service\) buckets to your insta
 
 </td></tr><tr><td>
 
-[Apache Kafka](../task/il-connector-hla-kafka.md)
+[Apache Kafka](il-connector-hla-kafka.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Streams log data from Apache Kafka to your instance.
 
 </td></tr><tr><td>
 
-[Elasticsearch](../task/il-connector-hla-elasticsearch.md)
+[Elasticsearch](il-connector-hla-elasticsearch.md)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Streams log data from Elasticsearch indices to your instance.
 
 </td></tr><tr><td>
 
-[Microsoft Azure Event Hubs](../task/il-connector-hla-event-hubs.md)
+[Microsoft Azure Event Hubs](il-connector-hla-event-hubs.md)
 
 </td><td>
 
@@ -78,7 +78,7 @@ Streams events from Microsoft Azure Event Hubs to your instance.
 
 </td></tr><tr><td>
 
-[Microsoft Azure Event Hubs \(MID-less\)](../task/il-connector-hla-eventhubs-midless.md)
+[Microsoft Azure Event Hubs \(MID-less\)](il-connector-hla-eventhubs-midless.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Streams events from Microsoft Azure Event Hubs to your instance without a MID Se
 
 </td></tr><tr><td>
 
-[Microsoft Azure Log Analytics](../task/il-connector-hla-azure-la.md)
+[Microsoft Azure Log Analytics](il-connector-hla-azure-la.md)
 
 </td><td>
 
@@ -94,7 +94,7 @@ Streams log data from Microsoft Azure Log Analytics to your instance. The connec
 
 </td></tr><tr><td>
 
-[MID Server](../task/il-connector-hla-mid.md)
+[MID Server](il-connector-hla-mid.md)
 
 </td><td>
 
@@ -102,7 +102,7 @@ Collects log messages from the MID Server and streams them to your instance.
 
 </td></tr><tr><td>
 
-[ServiceNow System Logs Retriever](../task/il-connector-hla-glide-syslog.md)
+[ServiceNow System Logs Retriever](il-connector-hla-glide-syslog.md)
 
 </td><td>
 
@@ -112,7 +112,7 @@ Sends log data from the ServiceNow System Log table to the Health Log Analytics 
 
 </td></tr><tr><td>
 
-[Splunk Poller](../task/il-connector-hla-splunk-polling.md)
+[Splunk Poller](il-connector-hla-splunk-polling.md)
 
 </td><td>
 
@@ -133,7 +133,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Amazon Data Firehose](../task/il-connector-hla-firehose.md)
+[Amazon Data Firehose](il-connector-hla-firehose.md)
 
 </td><td>
 
@@ -141,7 +141,7 @@ Streams log messages from Amazon Data Firehose directly to the collector service
 
 </td></tr><tr><td>
 
-[Cribl](../task/il-connector-hla-cribl.md)
+[Cribl](il-connector-hla-cribl.md)
 
 </td><td>
 
@@ -149,7 +149,7 @@ Enables Health Log Analytics to process Cribl log messages streaming into the Se
 
 </td></tr><tr><td>
 
-[Edge Delta REST](../task/il-connector-hla-edgedelta-rest.md)
+[Edge Delta REST](il-connector-hla-edgedelta-rest.md)
 
 </td><td>
 
@@ -157,7 +157,7 @@ Enables Health Log Analytics to process logs it receives from Edge Delta in a di
 
 </td></tr><tr><td>
 
-[Edge Delta TCP](../task/il-connector-hla-edgedelta-tcp.md)
+[Edge Delta TCP](il-connector-hla-edgedelta-tcp.md)
 
 </td><td>
 
@@ -165,7 +165,7 @@ Enables Health Log Analytics to process logs it receives from Edge Delta in a di
 
 </td></tr><tr><td>
 
-[GCP PubSub](../task/il-connector-hla-gcp-pubsub.md)
+[GCP PubSub](il-connector-hla-gcp-pubsub.md)
 
 </td><td>
 
@@ -173,7 +173,7 @@ Receives log messages that were published to a Google Cloud Pub/Sub topic and st
 
 </td></tr><tr><td>
 
-[REST API](../task/il-connector-hla-rest-api.md)
+[REST API](il-connector-hla-rest-api.md)
 
 </td><td>
 
@@ -181,7 +181,7 @@ Streams log data to your instance in JSON format.
 
 </td></tr><tr><td>
 
-[Splunk TCP](../task/il-connector-hla-splunktcp.md)
+[Splunk TCP](il-connector-hla-splunktcp.md)
 
 </td><td>
 
@@ -189,7 +189,7 @@ Streams log messages to your ServiceNow instance over the TCP transport protocol
 
 </td></tr><tr><td>
 
-[Splunk UDP](../task/il-connector-hla-splunkudp.md)
+[Splunk UDP](il-connector-hla-splunkudp.md)
 
 </td><td>
 
@@ -197,7 +197,7 @@ Streams log messages to your ServiceNow instance over the UDP transport protocol
 
 </td></tr><tr><td>
 
-[TCP](../task/il-connector-hla-tcp.md)
+[TCP](il-connector-hla-tcp.md)
 
 </td><td>
 
@@ -205,7 +205,7 @@ Sends raw log messages to your instance directly over a TCP/SSL socket.
 
 </td></tr><tr><td>
 
-[UDP](../task/il-connector-hla-udp.md)
+[UDP](il-connector-hla-udp.md)
 
 </td><td>
 
@@ -213,7 +213,7 @@ Sends raw log messages to your instance directly over a UDP socket.
 
 </td></tr><tr><td>
 
-[Vector Agent](../task/il-connector-hla-vector.md)
+[Vector Agent](il-connector-hla-vector.md)
 
 </td><td>
 

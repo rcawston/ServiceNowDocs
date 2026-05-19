@@ -19,11 +19,11 @@ Only use GlideForm methods on the client. You can use these methods to make cust
 
 You can also use some of these methods in other client scripts \(such as Catalog Client Scripts or Wizard Client Scripts\), but you must first test this to determine whether they will work as expected.
 
-**Note:** The methods getControl\(\), getHelpTextControl\(\), getElement\(\), and getFormElement\(\) are deprecated for mobile devices. For information on using GlideForm for mobile, see [Mobile Client GlideForm \(g\_form\) Scripting and Migration](../../../../../script/client-scripts/reference/r_MobilePlatformMigrationImpacts.md).
+**Note:** The methods getControl\(\), getHelpTextControl\(\), getElement\(\), and getFormElement\(\) are deprecated for mobile devices. For information on using GlideForm for mobile, see [Mobile Client GlideForm \(g\_form\) Scripting and Migration](scripts/r_MobilePlatformMigrationImpacts.md).
 
 There is no constructor for the GlideForm class. Access GlideForm methods using the `g_form` global object.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideForm - addDecoration\(String fieldName, String icon, String title\)
 
@@ -1528,7 +1528,7 @@ If a callback function is present, this routine runs asynchronously. The browser
 
 Callback function support for ServiceCatalogForm.getReference is available.
 
-**Note:** Using this method requires a call to the server which requires additional time and may introduce latency to your page. Use this method with caution. For additional information, see [Client script design and processing](../../../../../script/client-scripts/concept/client-script-best-practices.md#).
+**Note:** Using this method requires a call to the server which requires additional time and may introduce latency to your page. Use this method with caution. For additional information, see [Client script design and processing](scripts/client-script-best-practices.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

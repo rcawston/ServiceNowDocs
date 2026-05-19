@@ -37,7 +37,7 @@ Component events
 
 </td><td>
 
-Action that you set up for a component. You set up an event handler to configure that component action. For example, add an event handler to apply an action for a button, such as going to a web page. For more information on binding events to components, see [Bind an event to a component](../task/bind-event-component.md).
+Action that you set up for a component. You set up an event handler to configure that component action. For example, add an event handler to apply an action for a button, such as going to a web page. For more information on binding events to components, see [Bind an event to a component](bind-event-component.md).
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Page event that performs an action for the entire page. You can configure the fo
 
  ![Page-level events pane that shows the page, variant, dispatched, and handled events add options.](../image/page-event-mapping-options.png)
 
-For more information on binding an event to a page, see [Bind an event to a page](../task/bind-event-page.md).
+For more information on binding an event to a page, see [Bind an event to a page](bind-event-page.md).
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ Events that are mapped to data resources to provide notifications about when dat
 
  ![Event options for a data resource.](../image/data-resource-event.png)
 
-For more information on binding an event to a data resource, see [Bind an event to a data resource](../task/bind-event-data-resource.md).
+For more information on binding an event to a data resource, see [Bind an event to a data resource](bind-event-data-resource.md).
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Bind data elements within UI Builder to add event actions to a declarative actio
 
  You configure a declarative action event mapping in the ServiceNow AI Platform® declarative action assignment table. For an example, navigate to **Filter navigator** &gt; **sys\_declarative\_action\_assignment.list** and then search for and open an existing declarative action.
 
- In UI Builder, you bind an event to the declarative action. For more information on how to use declarative action events, see [Bind an event to a declarative action](../task/bind-event-declarative-action.md).
+ In UI Builder, you bind an event to the declarative action. For more information on how to use declarative action events, see [Bind an event to a declarative action](bind-event-declarative-action.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Manage actions in UI Builder pages](work-events.md)

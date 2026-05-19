@@ -17,7 +17,7 @@ Create custom Problem Management models with states and transitions tailored to 
 
 ## Before you begin
 
-See considerations for enabling Problem Management models at [Problem Management models in Service Operations Workspace](../concept/problem-mgmt-models-sow.md).
+See considerations for enabling Problem Management models at [Problem Management models in Service Operations Workspace](problem-mgmt-models-sow.md).
 
 Enable the system property **com.snc.problem\_management.models.enabled**. For more information, see [Enable Problem Management models in Service Operations Workspace](enable-problem-mgmt-models-sow.md).
 
@@ -38,7 +38,7 @@ Role required: admin
 
     2.  On the Problem Task Model form, fill in the fields.
 
-        For more information, see [Problem task model form](../../problem-management/reference/problem-task-model-form.md).
+        For more information, see [Problem task model form](../problem-management/problem-task-model-form.md).
 
 3.  Choose the states for your custom model by selecting **Save** from the form context menu icon \(![Form context menu icon.](../../change-management/image/form-context-menu.png)\).
 
@@ -73,7 +73,7 @@ Role required: admin
 
     2.  On the Model State Transition Condition form, fill in the fields.
 
-        For more information, see [Problem Management model state transition condition form](../../problem-management/reference/problem-model-state-transition-condition.md).
+        For more information, see [Problem Management model state transition condition form](../problem-management/problem-model-state-transition-condition.md).
 
     3.  Select **Submit** for each transition condition that you add.
 

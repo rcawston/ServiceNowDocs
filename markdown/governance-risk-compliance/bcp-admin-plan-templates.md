@@ -43,9 +43,9 @@ See the table for more information on different types of demo data plan template
 
 ## Creating a plan template for your business requirement
 
-Instead of using the demo data templates, you can create a template for your specific requirement. For more information on creating a plan template for your business requirement, see [Configure the business continuity plan template](../task/configure-a-bcp-template-uib-ws.md).
+Instead of using the demo data templates, you can create a template for your specific requirement. For more information on creating a plan template for your business requirement, see [Configure the business continuity plan template](configure-a-bcp-template-uib-ws.md).
 
--   **[Configure the business continuity plan template](../task/configure-a-bcp-template-uib-ws.md)**  
+-   **[Configure the business continuity plan template](configure-a-bcp-template-uib-ws.md)**  
 Configure the business continuity plan template in the Business Continuity Management application for your business. You can use the plan template to recover a specific primary element such as Employees or Web Servers. Similarly, you can create a plan template for different plan authoring types such as documentation, loss scenarios, and recovery tasks.
 
 **Parent Topic:**[Setup for a business continuity plan](bcp-admin-tasks.md)

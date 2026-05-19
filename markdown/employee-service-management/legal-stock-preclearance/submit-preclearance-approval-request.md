@@ -124,5 +124,5 @@ Option to confirm your consent to trade in securities in accordance with your or
 
     -   Request Details: Review request details.
 
-**Parent Topic:**[Submitting Legal Stock Preclearance requests](../concept/submit-legal-stock-reqs.md)
+**Parent Topic:**[Submitting Legal Stock Preclearance requests](submit-legal-stock-reqs.md)
 

@@ -30,7 +30,7 @@ Members of a roster can perform the following actions:
 -   Submit time-off and shift swap requests.
 -   Send a message \(Slack /MS teams/ Push notifications\) to find a replacement.
 
--   **[Getting started with the On-Call Scheduling mobile app](../task/mobile-getting-started-oncall.md)**  
+-   **[Getting started with the On-Call Scheduling mobile app](mobile-getting-started-oncall.md)**  
 Use the ServiceNow Agent mobile app to access the On-Call Scheduling mobile application. Then log in to an instance and work on your schedules.
 -   **[Mobile On-Call Scheduling overview](mobile-ocs-overview.md)**  
 Members and managers of a shift can use the On-Call Scheduling applets and navigation menu on the Mobile Agent application to view and manage shifts and schedules.

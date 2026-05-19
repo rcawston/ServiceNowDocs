@@ -26,9 +26,9 @@ Use the following related lists to pass variables from one test to another. Sele
 
 **Note:** The reusable input and output variables that you create for the test are shown under the Reusable Input Variables and Reusable Output Variables related lists. The input variables are passed in from the parent test that is calling the current reusable test and is used by the reusable test. The output variables are passed back to the parent test and are used only by its test steps.
 
-Use the Reusable Test test step category to access the created reusable test records. See [Reusable Tests category](../reference/test-steps-reusable-tests-category.md) for more information.
+Use the Reusable Test test step category to access the created reusable test records. See [Reusable Tests category](test-steps-reusable-tests-category.md) for more information.
 
--   **[Create a reusable test](../task/atf-create-reusable-tests.md)**  
+-   **[Create a reusable test](atf-create-reusable-tests.md)**  
 Create a reusable test to avoid redundancy, ensuring better test maintenance and reliable test execution across the instance.
 
 **Parent Topic:**[Automated Test Framework \(ATF\) test types and techniques](atf-test-type-testing.md)
@@ -42,7 +42,7 @@ Create a reusable test to avoid redundancy, ensuring better test maintenance and
 
 [Parallel testing](parallel-testing.md)
 
-[Accelerate ATF tests failure resolution](../task/atf-test-triage.md)
+[Accelerate ATF tests failure resolution](atf-test-triage.md)
 
 [Performance profiling](atf-perf-prof.md#)
 

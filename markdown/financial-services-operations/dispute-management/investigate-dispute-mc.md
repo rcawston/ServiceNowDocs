@@ -19,7 +19,7 @@ The Investigate stage involves tasks related to pursuing chargeback and initiate
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## Procedure
 
@@ -42,10 +42,10 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 7.  Select whether to create a chargeback request in the **Pursue chargeback** drop-down list.
 
     -   **Yes**: Pursue a chargeback from the merchant. The transaction dispute continues through the dispute process workflow stages.
-    -   **No**: Don’t pursue chargeback from the merchant. The dispute life-cycle ends and the next task is displayed based on the policy and the task moves to Closed Complete. For more information about tasks related to policy, see [About Financial adjustments in Mastercard disputes](../concept/financial-adjustments.md).
+    -   **No**: Don’t pursue chargeback from the merchant. The dispute life-cycle ends and the next task is displayed based on the policy and the task moves to Closed Complete. For more information about tasks related to policy, see [About Financial adjustments in Mastercard disputes](financial-adjustments.md).
 8.  Select **Add file** to attach supporting documents to the task.
 
-    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](../../fso-mastercard/reference/mastercard-image-and-document-requirements.md).
+    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](../mastercard-image-and-document-requirements.md).
 
 9.  Select **Continue**.
 
@@ -56,5 +56,5 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 If a chargeback is pursued, then the dispute life cycle continues and a dispute is initiated, else the life cycle ends.
 
-**Parent Topic:**[Processing a Mastercard dispute](../concept/processing-mastercard-dispute-case.md)
+**Parent Topic:**[Processing a Mastercard dispute](processing-mastercard-dispute-case.md)
 

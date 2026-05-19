@@ -40,5 +40,5 @@ To receive notifications from Virtual Agent, users must link their accounts to M
 
 The **ServiceNow for Microsoft Teams** app is successfully installed in your Microsoft Teams application.
 
-**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](../concept/sn-ms-teams-config-hr.md)
+**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](sn-ms-teams-config-hr.md)
 

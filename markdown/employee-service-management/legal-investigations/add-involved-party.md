@@ -35,10 +35,10 @@ Involved parties are individuals who are directly or indirectly connected to a c
     -   To modify an existing an involved party, open an involved party from the list.
 4.  On the form, fill in the fields.
 
-    For field descriptions, see [Involved Party form](../reference/involved-party-form.md).
+    For field descriptions, see [Involved Party form](involved-party-form.md).
 
 5.  Click **Save**.
 
 
-**Parent Topic:**[Managing complaint requests](../concept/managing-legal-investigations-request.md)
+**Parent Topic:**[Managing complaint requests](managing-legal-investigations-request.md)
 

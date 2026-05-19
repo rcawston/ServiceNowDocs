@@ -26,10 +26,10 @@ To ensure LLM-based appointment booking works in Customer Service Management, th
 
 There are 6 main steps to configure Now Assist for CSM in Virtual Agent:
 
-1.  [Activate Virtual Agent for Customer Service Management \(CSM\).](../task/activate-virtual-agent-csm.md)
+1.  [Activate Virtual Agent for Customer Service Management \(CSM\).](../activate-virtual-agent-csm.md)
 2.  [Configure Now Assist in Virtual Agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md)
-3.  [Install Conversational Appointment Booking.](../task/conv_appt_booking_install.md)
-4.  [Enable Walk-up Experience Appointment Booking.](csm-walkup-appt-booking.md)
+3.  [Install Conversational Appointment Booking.](../customer-self-service-and-omnichannel-engagement/conv_appt_booking_install.md)
+4.  [Enable Walk-up Experience Appointment Booking.](../customer-self-service-and-omnichannel-engagement/csm-walkup-appt-booking.md)
 5.  [Configure API credentials for OpenAI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-api-credentials-for-openai.md).
 6.  Enable Schedule a Walk-up Appointment topic in the Virtual Agent.
 

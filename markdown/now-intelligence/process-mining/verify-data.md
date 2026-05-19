@@ -40,5 +40,5 @@ Role required: sn\_process\_mining\_admin
 5.  Select **Confirm and continue** after validating your data.
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](external-dataset.md)
 

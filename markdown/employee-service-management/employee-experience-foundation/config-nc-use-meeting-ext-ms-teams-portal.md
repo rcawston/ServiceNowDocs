@@ -187,7 +187,7 @@ Option to allow users to reconfigure the Meeting Extensions app.
 
 5.  Go to **Single sign-on** and enter the Application ID URI in the format `api://<instance_name>.service-now.com/<client ID in Microsoft Azure>`.
 
-    For information about the Client ID, see [Create an app in Microsoft Teams to enable making calls](../../notify2/task/create-app-ms-teams.md).
+    For information about the Client ID, see [Create an app in Microsoft Teams to enable making calls](create-app-ms-teams.md).
 
 6.  Add a domain.
 
@@ -202,5 +202,5 @@ Option to allow users to reconfigure the Meeting Extensions app.
 
 [Upload the app manifest in Microsoft Teams](upload-app-manifest-ms-teams.md).
 
-**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](../concept/setup-meeting-extensibility-single-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](setup-meeting-extensibility-single-tenant.md)
 

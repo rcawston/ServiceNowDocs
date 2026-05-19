@@ -15,7 +15,7 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 These are common data types used by Cabrillo JS APIs.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](api-client-mobile.md)
 
 ## Cabrillo.Attachment
 
@@ -95,7 +95,7 @@ String
 
 </td><td>
 
-Background color of the button or badge. A string containing hex, RGB, HSL, or an x11-named color.**Note:** The color can't be set for [buttons in the navigation bar](../../CabrilloViewLayout-client/concept/cabrillo-viewLayout-namespace.md#). The color can be set for [bottom buttons](../../CabrilloViewLayout-client/concept/cabrillo-viewLayout-namespace.md#).
+Background color of the button or badge. A string containing hex, RGB, HSL, or an x11-named color.**Note:** The color can't be set for [buttons in the navigation bar](cabrillo-viewLayout-namespace.md#). The color can be set for [bottom buttons](cabrillo-viewLayout-namespace.md#).
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ String
 
 </td><td>
 
-The text color of the badge or button. A string containing hex, RGB, HSL, or an x11-named color.**Note:** The color can't be set for [buttons in the navigation bar](../../CabrilloViewLayout-client/concept/cabrillo-viewLayout-namespace.md#). The color can be set for [bottom buttons](../../CabrilloViewLayout-client/concept/cabrillo-viewLayout-namespace.md#).
+The text color of the badge or button. A string containing hex, RGB, HSL, or an x11-named color.**Note:** The color can't be set for [buttons in the navigation bar](cabrillo-viewLayout-namespace.md#). The color can be set for [bottom buttons](cabrillo-viewLayout-namespace.md#).
 
 </td></tr><tr><td>
 

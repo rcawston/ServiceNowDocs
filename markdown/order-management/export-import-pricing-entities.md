@@ -23,7 +23,7 @@ Before you export your pricing entities to a target instance, note the following
 
 -   **Export the update set for decision table changes to your target instance before exporting the associated pricing matrix**
 
-    If you have a new version of a pricing matrix that has decision table changes, such as a reference to a new product offering, ask your admin to export the system-generated update set that includes the decision table changes to your target instance. Next, you export the new pricing matrix, then import the pricing matrix to your target instance. For more information, see [Export pricing entities](../task/export-pricing-entities.md) and [Import pricing entities](../task/import-pricing-entities.md).
+    If you have a new version of a pricing matrix that has decision table changes, such as a reference to a new product offering, ask your admin to export the system-generated update set that includes the decision table changes to your target instance. Next, you export the new pricing matrix, then import the pricing matrix to your target instance. For more information, see [Export pricing entities](export-pricing-entities.md) and [Import pricing entities](import-pricing-entities.md).
 
 
 ## Export and import process for pricing entities
@@ -32,8 +32,8 @@ Follow these steps to export and import pricing entities.
 
 |Step|Description|
 |----|-----------|
-|[Export pricing entities](../task/export-pricing-entities.md)|Export pricing entities from one instance to another. The entities are exported as JSON and are downloaded to your local download directory.|
-|[View export job status](../task/view-export-job-status.md)|Check the state of the export job.|
-|[Import pricing entities](../task/import-pricing-entities.md)|Import pricing entities exported as JSON files to another instance.|
-|[View import job status](../task/view-import-job-status.md)|Check the state of the import job.|
+|[Export pricing entities](export-pricing-entities.md)|Export pricing entities from one instance to another. The entities are exported as JSON and are downloaded to your local download directory.|
+|[View export job status](view-export-job-status.md)|Check the state of the export job.|
+|[Import pricing entities](import-pricing-entities.md)|Import pricing entities exported as JSON files to another instance.|
+|[View import job status](view-import-job-status.md)|Check the state of the import job.|
 

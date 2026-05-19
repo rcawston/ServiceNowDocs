@@ -51,13 +51,13 @@ You can select the document ID type when creating a new field.
 
 11. Click **Update**.When users click the reference lookup for the document ID field, a dialog appears that allows them to select the table and then the record. The sys\_id of the selected record is stored in the document ID field and the table name is stored in the table reference field.
 
-12. [Configure the form](../../form-administration/concept/configure-form-layout.md#) to remove the table reference field.
+12. [Configure the form](configure-form-layout.md#) to remove the table reference field.
 
 
 **Related topics**  
 
 
-[Configuring the form layout](../../form-administration/concept/configure-form-layout.md#)
+[Configuring the form layout](configure-form-layout.md#)
 
-[Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md)
+[Altering tables and fields using dictionary attributes](table-administration-and-data-management/c_DictionaryAttributes.md)
 

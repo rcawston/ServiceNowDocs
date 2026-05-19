@@ -59,8 +59,8 @@ Customer success managers can create renewal opportunities based on contract exp
 
     You will see a message indicating that the opportunity record has been created. You can login to the Microsoft Dynamics CRM platform to view this record.
 
-    **Note:** You can create the record only if you have defined the mappings in the **DynamicsCRMMappingConstants** script include. See [Enable integration with Microsoft Dynamics CRM](../concept/account-lifecycle-crm-integration.md) for details. If the mappings have not been configured, you will see the recommended action but the **Create** option will not work.
+    **Note:** You can create the record only if you have defined the mappings in the **DynamicsCRMMappingConstants** script include. See [Enable integration with Microsoft Dynamics CRM](account-lifecycle-crm-integration.md) for details. If the mappings have not been configured, you will see the recommended action but the **Create** option will not work.
 
 
-**Parent Topic:**[Enable integration with Microsoft Dynamics CRM](../concept/account-lifecycle-crm-integration.md)
+**Parent Topic:**[Enable integration with Microsoft Dynamics CRM](account-lifecycle-crm-integration.md)
 

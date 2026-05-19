@@ -79,5 +79,5 @@ The conflict of interest disclosure request is updated and the state is set as N
 
 The approval details appear under the **Approvals** tab on the Standard Ticket page.
 
-**Parent Topic:**[Using Legal Conflict of Interest](../concept/lsd-coi-use-landing.md)
+**Parent Topic:**[Using Legal Conflict of Interest](lsd-coi-use-landing.md)
 

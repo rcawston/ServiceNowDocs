@@ -78,5 +78,5 @@ Select **Allocate cost to contract**.
 **Related topics**  
 
 
-[Contract life cycle](../concept/c_ContractLifeCycle.md)
+[Contract life cycle](c_ContractLifeCycle.md)
 

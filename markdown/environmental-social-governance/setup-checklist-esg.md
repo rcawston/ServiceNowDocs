@@ -63,10 +63,10 @@ A user with the sn\_esg.program\_manager role also manages entities and performs
 
 </td><td>
 
-A user with the sn\_esg.metrics\_manager role defines the various types of metric definitions and metrics. This user performs the following tasks:-   [Creates an automated metric definition](../../metrics/task/update-automated-metric-definition.md)
--   [Creates a manual metric](../../metrics/task/create-manual-metric-definition.md)
--   [Creates a composite metric definition](../../metrics/task/create-composite-metric-definition.md)
--   [Create a metric](../../metrics/task/create-a-metric.md)
+A user with the sn\_esg.metrics\_manager role defines the various types of metric definitions and metrics. This user performs the following tasks:-   [Creates an automated metric definition](update-automated-metric-definition.md)
+-   [Creates a manual metric](create-manual-metric-definition.md)
+-   [Creates a composite metric definition](create-composite-metric-definition.md)
+-   [Create a metric](create-a-metric.md)
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ A user with the sn\_esg.metrics\_manager role defines the various types of metri
 
 </td><td>
 
-A user with the sn\_esg.data\_owner role can provide data for the manual metrics data tasks and a user with the sn\_esg.program\_manager can override the data that is provided. For more information, see [Provide data for a metric data task](../../metrics/task/provide-data-for-metric-data-task.md)
+A user with the sn\_esg.data\_owner role can provide data for the manual metrics data tasks and a user with the sn\_esg.program\_manager can override the data that is provided. For more information, see [Provide data for a metric data task](provide-data-for-metric-data-task.md)
 
 </td></tr><tr><td>
 
@@ -90,8 +90,8 @@ A user with the sn\_esg.reporting\_disclosure\_manager, sn\_esg.program\_manager
 
 </td><td>
 
-Optionally, users of the [Install Operational Sustainability Management \(formerly ESG Management\)](install-esg.md) application can integrate with other applications such as Project Portfolio Management and Integrated Risk Management. These integrations provide more features and capabilities. For more information, see [Integrating Operational Sustainability Management \(formerly ESG\) with other applications](../concept/integrate-esg.md)
+Optionally, users of the [Install Operational Sustainability Management \(formerly ESG Management\)](install-esg.md) application can integrate with other applications such as Project Portfolio Management and Integrated Risk Management. These integrations provide more features and capabilities. For more information, see [Integrating Operational Sustainability Management \(formerly ESG\) with other applications](integrate-esg.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Operational Sustainability Management \(formerly ESG Management\) implementation](../concept/esg-implementation.md)
+</table>**Parent Topic:**[Operational Sustainability Management \(formerly ESG Management\) implementation](esg-implementation.md)
 

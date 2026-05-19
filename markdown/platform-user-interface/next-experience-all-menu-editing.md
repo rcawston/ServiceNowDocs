@@ -42,10 +42,10 @@ When you select a module, the editor panel updates to show the page preview with
 
 These modules can be created, configured, and edited directly within Next Experience All Menu Editing:
 
--   [Dashboard module](../task/next-experience-dashboard-module.md)
--   [List module](../task/next-experience-list-module.md)
--   [New record module](../task/next-experience-new-record-module.md)
--   [Single record module](../task/next-experience-single-record-module.md)
+-   [Dashboard module](next-experience-dashboard-module.md)
+-   [List module](next-experience-list-module.md)
+-   [New record module](next-experience-new-record-module.md)
+-   [Single record module](next-experience-single-record-module.md)
 
 ## Classic modules
 
@@ -67,15 +67,15 @@ These modules can be added to an All menu but must be edited using the classic U
 
 Use folders and line separators to create a clear, navigable structure that improves user productivity. Well-organized menus help you find what they need faster by grouping related functionality and visually separating distinct areas of your application.![Next Experience All Menu editor with a line separator and folder in the content tree panel.](../image/neame-folder-line-sep.png)
 
--   **[Create a Next Experience Menu Application](../task/next-experience-create-menu-application.md)**  
+-   **[Create a Next Experience Menu Application](next-experience-create-menu-application.md)**  
 Create and configure application menus and modules directly within the All menu.
--   **[Create a Dashboard Module](../task/next-experience-dashboard-module.md)**  
+-   **[Create a Dashboard Module](next-experience-dashboard-module.md)**  
 Create custom dashboards for the All menu using the Next Experience All Menu Editor.
--   **[Create a List Module](../task/next-experience-list-module.md)**  
+-   **[Create a List Module](next-experience-list-module.md)**  
 Create custom lists for the All menu using the Next Experience All Menu Editing.
--   **[Create a New Record module](../task/next-experience-new-record-module.md)**  
+-   **[Create a New Record module](next-experience-new-record-module.md)**  
 Create custom New Record form for the All menu using the Next Experience All Menu Editing.
--   **[Create a Single Record Module](../task/next-experience-single-record-module.md)**  
+-   **[Create a Single Record Module](next-experience-single-record-module.md)**  
 Create custom Single Record form for the All menu using the Next Experience All Menu Editing.
 
 **Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)

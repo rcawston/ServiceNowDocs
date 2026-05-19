@@ -50,7 +50,7 @@ You can create any visualization type using the database view. This example show
 
 **Parent Topic:**[Joining tables using database views](c_CreatingDatabaseViews.md)
 
-**Previous topic:**[Configuring the number of records to return](../concept/c_SpecifyTheNumberOfRecordsToReturn.md)
+**Previous topic:**[Configuring the number of records to return](c_SpecifyTheNumberOfRecordsToReturn.md)
 
 **Next topic:**[Displaying function results in a database view](displaying-function-results-in-a-database-view.md)
 

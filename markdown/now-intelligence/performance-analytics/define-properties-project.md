@@ -42,7 +42,7 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
     -   Responsible users. A responsible user has full editing privileges but also is expected to be responsible for implementing the project. This responsibility distinguishes a responsible user from a user with whom the project has been shared with editing rights.
     -   Contact persons
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](kpi-composer-projects.md)
 
 **Previous topic:**[Create a KPI Composer project](create-kpi-composer-project.md)
 

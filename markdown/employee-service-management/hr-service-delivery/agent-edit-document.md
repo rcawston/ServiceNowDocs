@@ -40,5 +40,5 @@ Role required: sn\_hr\_core.case\_writer
     The document is saved and sent as an attachment in document tasks that are created for participants.
 
 
-**Parent Topic:**[HR document generation](../concept/DocumentGeneration.md)
+**Parent Topic:**[HR document generation](DocumentGeneration.md)
 

@@ -73,5 +73,5 @@ Tap on the Actions icon, and select **Cancel milestone** to cancel the milestone
 5.  Tap the Next icon.
 
 
-**Parent Topic:**[Shopper to-dos on your mobile](../reference/shopper-todos-mobile.md)
+**Parent Topic:**[Shopper to-dos on your mobile](shopper-todos-mobile.md)
 

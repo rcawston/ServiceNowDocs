@@ -29,7 +29,7 @@ Create a custom mapping configuration between tables of Strategic Planning Works
 
 ### Before you begin
 
-[Review default mapping configuration for Jira projects in SPW](../task/review-default-map-config-jira-projects-spw.md).
+[Review default mapping configuration for Jira projects in SPW](review-default-map-config-jira-projects-spw.md).
 
 Role required: sn\_jira\_int.user
 
@@ -49,7 +49,7 @@ For example, if your team uses an issue type like Feature that isn’t mapped by
 
 4.  On the Table Map form, fill in the fields.
 
-    For field information, see [Table Map form](../reference/spw-table-map-form.md).
+    For field information, see [Table Map form](spw-table-map-form.md).
 
 5.  Select **Submit**.
 
@@ -85,7 +85,7 @@ For example, a table mapping between the Story entity in Jira and the Story \[rm
 
 5.  On the form, fill in the fields.
 
-    For field information, see [Field Map form](../reference/spw-field-map-form.md).
+    For field information, see [Field Map form](spw-field-map-form.md).
 
 6.  Select **Submit**.
 
@@ -123,7 +123,7 @@ For example, Jira Stories include default states such as To Do, In Progress, and
 
 6.  On the form, fill in the fields.
 
-    For field information, see [Choice Map form](../reference/spw-choice-map-form.md).
+    For field information, see [Choice Map form](spw-choice-map-form.md).
 
 7.  Select **Submit**.
 
@@ -131,6 +131,6 @@ For example, Jira Stories include default states such as To Do, In Progress, and
 ### What to do next
 
 1.  Validate your new mapping configuration by clicking **Validate and fix mapping** from the Jira project form.
-2.  [Enable bidirectional sync of work items between Jira projects and SPW](../task/enable-bidirectional-sync-spw-jira.md).
-3.  [Import issues from Jira to SPW](../task/import-issues-from-jira-to-spw.md).
+2.  [Enable bidirectional sync of work items between Jira projects and SPW](enable-bidirectional-sync-spw-jira.md).
+3.  [Import issues from Jira to SPW](import-issues-from-jira-to-spw.md).
 

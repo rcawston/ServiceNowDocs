@@ -74,11 +74,11 @@ The Dropbox Business spoke requires a custom app that you create in Dropbox Busi
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up Dropbox Business spoke](../task/setup-dbox-busi.md#).
+For information about setting up the spoke, see [Set up Dropbox Business spoke](setup-dbox-busi.md#).
 
 ## MID Server requirements
 
 These actions use REST calls that can run either on an instance or, optionally, through a MID Server. Use the connection record associated with the Dropbox alias to configure where actions run and, if needed, specify MID Server selection attributes. For more information, see [MID server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md).
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

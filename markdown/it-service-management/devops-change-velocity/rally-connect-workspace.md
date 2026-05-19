@@ -17,7 +17,7 @@ Connect to your Rally instance using the DevOps Change Workspace playbook to con
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -108,7 +108,7 @@ Steps
 
 6.  Configure webhooks automatically in Rally to send real-time notifications.
 
-    **Note:** If you prefer not to configure webhooks, you can enable nightly polling to fetch data for all tracked plans by selecting the **Enable import polling** check box in [DevOps properties](../concept/dev-ops-administration.md).
+    **Note:** If you prefer not to configure webhooks, you can enable nightly polling to fetch data for all tracked plans by selecting the **Enable import polling** check box in [DevOps properties](dev-ops-administration.md).
 
     1.  Select the plans that you want to track.
 
@@ -145,7 +145,7 @@ From the tool record page, you can do the following:
 -   From the **Plans** tab, select a plan to view its details such as imported work items, features, and others.
 -   To import historical data from the plans, associate the plans with an application, and import the data. For more information, see [Associate tool objects to applications - Workspace](apps-associate-objects-wkspc.md).
 
-**Parent Topic:**[Rally integration with DevOps Change Velocity](../concept/rally-devops-integration.md)
+**Parent Topic:**[Rally integration with DevOps Change Velocity](rally-devops-integration.md)
 
 **Related topics**  
 

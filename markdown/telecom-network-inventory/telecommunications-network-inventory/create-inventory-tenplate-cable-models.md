@@ -31,7 +31,7 @@ The default naming pattern of a strand record is "Strand-+position". You can edi
 
 ## What's next
 
-Use a cable template to instantiate cable and strand records using design and assign. To learn more, see [Create a cable record by using design and assign](../task/create-cable-record-using-design-assign.md).
+Use a cable template to instantiate cable and strand records using design and assign. To learn more, see [Create a cable record by using design and assign](create-cable-record-using-design-assign.md).
 
 **Parent Topic:**[Create inventory template relationship](creating-inventory-templates-telco-equipment.md)
 
@@ -42,7 +42,7 @@ Use a cable template to instantiate cable and strand records using design and as
 **Related topics**  
 
 
-[Create a cable model](../task/create-a-cable-model.md)
+[Create a cable model](create-a-cable-model.md)
 
 [Network inventory templates](using-templates-tni.md)
 

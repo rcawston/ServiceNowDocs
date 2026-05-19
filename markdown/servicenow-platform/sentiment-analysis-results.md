@@ -21,5 +21,5 @@ Following are the color indicators in the bar chart:
 -   Red: Negative
 -   Blue: Neutral
 
-**Parent Topic:**[Sentiment analysis for surveys](../concept/sentiment-analysis.md)
+**Parent Topic:**[Sentiment analysis for surveys](sentiment-analysis.md)
 

@@ -17,7 +17,7 @@ Manage the version of the model providers across skills and instance levels. You
 
 Role required: admin
 
-See [Default and target model version](../reference/default-and-target-model-model-version.md) to know more about default and target model versions.
+See [Default and target model version](default-and-target-model-model-version.md) to know more about default and target model versions.
 
 ## Procedure
 

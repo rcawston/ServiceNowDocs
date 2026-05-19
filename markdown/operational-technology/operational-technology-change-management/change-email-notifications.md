@@ -324,5 +324,5 @@ Click here to view Change Task: &lt;URL to change task&gt;
 Work Notes: &lt;Work notes added to change task&gt;
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Operational Technology Change Management](../concept/using-operational-technology-change-management.md)
+</table>**Parent Topic:**[Using Operational Technology Change Management](using-operational-technology-change-management.md)
 

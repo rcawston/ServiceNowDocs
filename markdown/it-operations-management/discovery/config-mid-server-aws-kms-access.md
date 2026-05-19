@@ -19,7 +19,7 @@ Configure MID Server properties to enable Key Management Service \(KMS\) key acc
 
 Confirm the following:
 
--   You have at least one MID Server installed and in the **Up** state. For more information, see [Install and configure MID Servers to access cloud environments](../../it-operations-management/task/mid-server-configuration-cloud.md).
+-   You have at least one MID Server installed and in the **Up** state. For more information, see [Install and configure MID Servers to access cloud environments](../mid-server-configuration-cloud.md).
 -   You have an AWS credential that allows the MID Server to access and make API calls into the AWS environment. For more information, see [AWS Access for MID Server](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2150362#midawsaccess).
 -   You created a custom AWS KMS key to encrypt sensitive credentials. For more information, see [Create a Customer Managed AWS KMS Key](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2150362#awskey).
 

@@ -15,7 +15,7 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 Cabrillo JS functions to display messages in the native UI.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](api-client-mobile.md)
 
 ## cabrillo.message - showMessage\(String style, String title\)
 
@@ -50,7 +50,7 @@ Style of the banner.Possible values:
 -   cabrillo.message.SUCCESS\_MESSAGE\_STYLE
 -   cabrillo.message.WARNING\_MESSAGE\_STYLE
 
-For more information, see [Cabrillo JS constants - message styles](../../namespace-topics/concept/cabrillo-constants.md#).
+For more information, see [Cabrillo JS constants - message styles](cabrillo-constants.md#).
 
 </td></tr><tr><td>
 

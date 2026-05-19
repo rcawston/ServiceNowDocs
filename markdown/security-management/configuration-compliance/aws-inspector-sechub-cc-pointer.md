@@ -21,7 +21,7 @@ The AWS Integration for Security Exposure Management supports an integration wit
 
 The AWS Security Hub Test Results Integration included with the Vulnerability Response Integration for Security Exposure Management imports data about misconfigurations from AWS Security Hub into Configuration Compliance.
 
-For more information about the Test Results integration and the other integrations that are included with the AWS Integration for Security Exposure Management application and installation and configuration steps, see [AWS Integration for Security Exposure Management](aws-integration-for-security-exposure-management-overview.md).
+For more information about the Test Results integration and the other integrations that are included with the AWS Integration for Security Exposure Management application and installation and configuration steps, see [AWS Integration for Security Exposure Management](../vulnerability-response/aws-integration-for-security-exposure-management-overview.md).
 
 You can review more information about this integration at [SecOps articles on the Security Operations Community](https://www.servicenow.com/community/secops-articles/announcement-wiz-integration-with-servicenow-secops/ta-p/3325055).
 

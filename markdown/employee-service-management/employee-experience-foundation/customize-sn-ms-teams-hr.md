@@ -22,7 +22,7 @@ You can customize:
 
 -   **[Customize UI actions for HR Service Delivery integration with Microsoft Teams](ui-actions-ms-teams-hr.md)**  
 Enables you to extend the UI actions to the tables you require.
--   **[Customize business rules for actionable notifications](../task/customize-business-rules-sn-ms-teams-hr.md)**  
+-   **[Customize business rules for actionable notifications](customize-business-rules-sn-ms-teams-hr.md)**  
 Enables you to customize the business rules for actionable notifications.
 
 **Parent Topic:**[Manage Microsoft Teams integration for Employee Experience](c_employee_ex_mng.md)

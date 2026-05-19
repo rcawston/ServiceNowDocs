@@ -46,22 +46,22 @@ In this task, select the type of activity being performed:
 -   Sold products
 -   Install base M2M sold products
 
- Custom conditions have been defined and field values in these tables like source table, target table, and data source are auto-populated in each of these tables. You can use these flows by directly importing data into these tables and publish them when they’re ready. For details on importing data into these tables, see [Import data into the account onboarding playbook](../task/account-lifecycle-import-data.md).
+ Custom conditions have been defined and field values in these tables like source table, target table, and data source are auto-populated in each of these tables. You can use these flows by directly importing data into these tables and publish them when they’re ready. For details on importing data into these tables, see [Import data into the account onboarding playbook](account-lifecycle-import-data.md).
 
- These tables have been configured with specific conditions and field values have been auto-populated. You can modify these tables, add new tables, and activities depending on your requirements using the Process Automation Designer. See [Configure data validation using the Data Validation Assist table](../task/account-lifecycle-data-valid-assist.md) for details.
+ These tables have been configured with specific conditions and field values have been auto-populated. You can modify these tables, add new tables, and activities depending on your requirements using the Process Automation Designer. See [Configure data validation using the Data Validation Assist table](account-lifecycle-data-valid-assist.md) for details.
 
 </td></tr></tbody>
 </table>Review the data in the Summary activity and select **Mark Complete** to move to the next stage.
 
 -   **[Account onboarding data validation flow](account-lifecycle-import-flow.md)**  
 This section describes how the data is imported from an external file, validated, and published to the target table.
--   **[Configure data validation using the Data Validation Assist table](../task/account-lifecycle-data-valid-assist.md)**  
+-   **[Configure data validation using the Data Validation Assist table](account-lifecycle-data-valid-assist.md)**  
 Create field and record level validations in the Data validation assist table.
--   **[Configure the account onboarding data import task](../task/account-lifecycle-import-builder.md)**  
+-   **[Configure the account onboarding data import task](account-lifecycle-import-builder.md)**  
 Use the Import Builder to configure the account onboarding data import task.
 -   **[Add the data import task](account-lifecycle-add-data-import.md)**  
 Add the data import task that you’ve configured to the **Account lifecycle onboarding process** defined in the Process Automation Designer.
--   **[Import data into the account onboarding playbook](../task/account-lifecycle-import-data.md)**  
+-   **[Import data into the account onboarding playbook](account-lifecycle-import-data.md)**  
 As part of the Customer Success Management process, you can import, configure, and publish data.
 
 **Parent Topic:**[Set up the account onboarding playbook](account-lifecycle-use-playbook.md)

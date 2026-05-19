@@ -86,5 +86,5 @@ The **My tasks** page in the Operational Resilience Workspace displays all the r
 
 ## Roles, Scripts, and Tables used for reporting
 
-For information on the roles, scripts, and tables used in [Roles installed with Digital resilience incident reporting](../reference/roles-with-drir.md), see [Digital resilience incident reporting reference](../reference/drir-ref.md).
+For information on the roles, scripts, and tables used in [Roles installed with Digital resilience incident reporting](roles-with-drir.md), see [Digital resilience incident reporting reference](drir-ref.md).
 

@@ -53,12 +53,12 @@ The step creates a procurement case with the details of the product for cancella
 -   Shoppers can review and edit the request details from **ShoppingHub** &gt; **My requests** or **My requests** from the footer.
 -   Buyers can review, edit, and process your request details from **Procurement Case Management** &gt; **Source-to-Pay Workspace** &gt; **Procurement Cases**, if required.
 
-**Parent Topic:**[Purchase revision flows](../concept/purchase-revision-flows.md)
+**Parent Topic:**[Purchase revision flows](purchase-revision-flows.md)
 
 **Related topics**  
 
 
-[Purchase revision flows](../concept/purchase-revision-flows.md)
+[Purchase revision flows](purchase-revision-flows.md)
 
-[Process Automation Designer flows for playbook](../concept/process-automation-designer-flows-psm.md)
+[Process Automation Designer flows for playbook](process-automation-designer-flows-psm.md)
 

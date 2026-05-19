@@ -79,7 +79,7 @@ Password
 
 Secure string representation of the password. Password of the SSH account.
 
- You can use the SecureStringEncode component to encode the secure string password as mentioned in the following example. For more information, see [Use the SecureStringEncode component](../task/use-security-encryption-securestringencode.md).
+ You can use the SecureStringEncode component to encode the secure string password as mentioned in the following example. For more information, see [Use the SecureStringEncode component](use-security-encryption-securestringencode.md).
 
 ![SecureStringEncode component is connected to the Connect method to pass the encoded password.](../image/ssh-connect-pwd-example.png "Connect method with Password parameter")
 
@@ -259,5 +259,5 @@ The following example shows the entire automation after adding the Disconnect me
 
 ![SSH connector automation workflow example.](../image/ssh-disconnect-example.png "Disconnect method")
 
-**Parent Topic:**[Secure Shell \(SSH\) connector](../concept/ssh-connector.md)
+**Parent Topic:**[Secure Shell \(SSH\) connector](ssh-connector.md)
 

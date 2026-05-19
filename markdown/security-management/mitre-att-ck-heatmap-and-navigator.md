@@ -15,7 +15,7 @@ You can use the MITRE-ATT&amp;CK heat map and navigator for basic navigation and
 
 ## Overview of the MITRE-ATT&amp;CK heat map and navigator
 
-You can use the navigator with the primary filters for basic navigation and observation of ATT&amp;CK matrices. The heat map highlights the spectrum of the detection coverage including the blind spots where your organization does not have any coverage. This is available after you map the [technique detection coverage.](../task/map-technique-coverage.md)
+You can use the navigator with the primary filters for basic navigation and observation of ATT&amp;CK matrices. The heat map highlights the spectrum of the detection coverage including the blind spots where your organization does not have any coverage. This is available after you map the [technique detection coverage.](map-technique-coverage.md)
 
 With the heat map and navigator, you can:
 
@@ -27,19 +27,19 @@ With the heat map and navigator, you can:
 **Related topics**  
 
 
-[Associate MITRE-ATT&amp;CK information with security incidents](../task/associate-mitre-with-sir.md#)
+[Associate MITRE-ATT&amp;CK information with security incidents](associate-mitre-with-sir.md#)
 
-[Associate MITRE-ATT&amp;CK information with observables](../task/associate-mitre-observables.md)
+[Associate MITRE-ATT&amp;CK information with observables](associate-mitre-observables.md)
 
-[Associate MITRE-ATT&amp;CK information with security case](../../threat-intelligence-case-management/task/associate-mitre-att-ck-information-with-security-case-management.md)
+[Associate MITRE-ATT&amp;CK information with security case](associate-mitre-att-ck-information-with-security-case-management.md)
 
-[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](../task/rollup-threat-lookup-results.md)
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](rollup-threat-lookup-results.md)
 
-[Rollup MITRE-ATT&amp;CK information from detection rules](../task/rollup-mitre-attack-information-detection-rules.md)
+[Rollup MITRE-ATT&amp;CK information from detection rules](rollup-mitre-attack-information-detection-rules.md)
 
-[Rollup MITRE-ATT&amp;CK information from child security incidents](../task/rollup-mitre-att-ck-information-from-child-security-incidents.md)
+[Rollup MITRE-ATT&amp;CK information from child security incidents](rollup-mitre-att-ck-information-from-child-security-incidents.md)
 
-[Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](../task/link-analysis-threat-hunt-mitre.md)
+[Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](link-analysis-threat-hunt-mitre.md)
 
 [Using the MITRE-ATT&amp;CK dashboard](mitre-dashboards.md#)
 
@@ -63,7 +63,7 @@ You can review the heat map, use the filters to correlate, and perform link anal
 
 2.  Select the source to populate the heat map.
 
-    **Note:** Only the [collections](../task/setup-mitre-profile.md) and [matrices](../task/view-mitre-collection.md) that have been activated appear in the source list.
+    **Note:** Only the [collections](setup-mitre-profile.md) and [matrices](view-mitre-collection.md) that have been activated appear in the source list.
 
     In the following illustration, you see how to navigate to the heat map and navigator, and how to select the source, which is Enterprise ATT&amp;CK in this example.
 
@@ -214,18 +214,18 @@ View technique IDs on a heat map
 
 To filter the techniques based on their relevant priority in the navigator, select **Filter by technique relevant priority** filter and select the **Relevant Priority** from the menu. You can assign multiple priorities for filtering. You can also point to the techniques in the heat map to know the priority of the technique.
 
-The relevant priority information is based on the prioritization you have set in the [Techniques](../task/view-techniques.md) relevant priority field.
+The relevant priority information is based on the prioritization you have set in the [Techniques](view-techniques.md) relevant priority field.
 
 This illustration shows filtering by relevant priority.
 
 ### View technique detection coverage
 
-To view the overall technique detection coverage in the heat map, select the **Display technique detection coverage** filter. The heat map highlights the visual spectrum of the detection coverage including the blind spots where you do not have any coverage. The base system scoring definition and the colors have been defined in the [technique detection coverage](../task/define-technique-coverage.md). The information has been auto-extracted from the overall technique detection coverage.
+To view the overall technique detection coverage in the heat map, select the **Display technique detection coverage** filter. The heat map highlights the visual spectrum of the detection coverage including the blind spots where you do not have any coverage. The base system scoring definition and the colors have been defined in the [technique detection coverage](define-technique-coverage.md). The information has been auto-extracted from the overall technique detection coverage.
 
 For example, areas of the heat map that are marked in red indicate a lack of detection. Areas that are marked in blue indicate the presence of full detection capabilities. Areas that are marked in orange, yellow, and light blue reflect partial detection capabilities.
 
--   The color visualization is based on the [technique definition and color coding](../task/define-technique-coverage.md) that you define.
--   The coverage visualization is based on the [technique detection coverage mapping](../task/map-technique-coverage.md) that you define.
+-   The color visualization is based on the [technique definition and color coding](define-technique-coverage.md) that you define.
+-   The coverage visualization is based on the [technique detection coverage mapping](map-technique-coverage.md) that you define.
 -   If you modify the base system coverage definition, the Coverage Type icons do not display with the techniques in the heat map.
 
     **Note:** The heat map works as expected when you modify the same fields as the base system's-defined technique detection coverage and coverage colors.
@@ -237,12 +237,12 @@ Heat map technique detection coverage
 
 ### View technique mitigation coverage
 
-To view the overall technique mitigation coverage in the heat map, select the Display technique mitigation coverage filter. The heat map highlights the visual spectrum of the mitigation coverage including areas that you do not have any coverage. The mitigation coverage, colors, and percentage ranges have been defined in the [Mitigation Coverage Definition](../task/define-the-mitigation-coverage.md). The information is extracted from the [Overall Technique Mitigation Coverage](../task/map-your-mitigation-coverage-to-a-technique.md).
+To view the overall technique mitigation coverage in the heat map, select the Display technique mitigation coverage filter. The heat map highlights the visual spectrum of the mitigation coverage including areas that you do not have any coverage. The mitigation coverage, colors, and percentage ranges have been defined in the [Mitigation Coverage Definition](define-the-mitigation-coverage.md). The information is extracted from the [Overall Technique Mitigation Coverage](map-your-mitigation-coverage-to-a-technique.md).
 
 For example, techniques highlighted in red indicate no mitigation coverage, orange indicates poor mitigate coverage, and blue indicate excellent mitigation coverage.
 
--   The color visualization is based on the [technique mitigation definition and color coding](../task/define-the-mitigation-coverage.md) that you define.
--   The coverage visualization is based on the [technique mitigation coverage mapping](../task/map-your-mitigation-coverage-to-a-technique.md) that you define.
+-   The color visualization is based on the [technique mitigation definition and color coding](define-the-mitigation-coverage.md) that you define.
+-   The coverage visualization is based on the [technique mitigation coverage mapping](map-your-mitigation-coverage-to-a-technique.md) that you define.
 -   If you modify the base system mitigation coverage definition, the Mitigation Coverage Type icons do not display with the techniques in the heat map.
 
     **Note:** The heat map works as expected when you modify the same fields as the base system's-defined technique mitigation coverage and coverage colors.
@@ -260,10 +260,10 @@ This illustration shows how to use the detection and mitigation filter together.
 
 ### View threat group
 
-To view the threat group to technique information on the heat map, select **Display threat group heat map**. You can measure the number of threat groups that are using a particular technique. The probability of an attack using a particular technique increases when you have a high number of attackers. The threat group ranges, and heat map colors have been defined in the [Threat Group-Technique Heat Map Definition](../task/threat-group-to-technique-heatmap-definition.md).
+To view the threat group to technique information on the heat map, select **Display threat group heat map**. You can measure the number of threat groups that are using a particular technique. The probability of an attack using a particular technique increases when you have a high number of attackers. The threat group ranges, and heat map colors have been defined in the [Threat Group-Technique Heat Map Definition](threat-group-to-technique-heatmap-definition.md).
 
--   The color visualization for the heat map and text is based on the [threat group to technique heatmap definition](../task/threat-group-to-technique-heatmap-definition.md).
--   The threat group range visualization is based on the [threat group to technique mapping](../task/review-threat-group-and-techniques-mapping.md).
+-   The color visualization for the heat map and text is based on the [threat group to technique heatmap definition](threat-group-to-technique-heatmap-definition.md).
+-   The threat group range visualization is based on the [threat group to technique mapping](review-threat-group-and-techniques-mapping.md).
 -   You cannot use the **Display threat group heat map** filter when the technique detection coverage or technique mitigation coverage are enabled. This illustration shows the threat group information on the heat map.
 
 ### View Security incidents associated with technique
@@ -282,11 +282,11 @@ For example, when you turn on both filters, you can see that under the Defense E
 
 To view if you have the detection rules defined for a particular technique, click **Display detection rules**. You can also see each associated detection rule with their definition.
 
-This information is based on the [detection rules mapping](../task/create-detection-rules.md) that you have defined. View associated detection rules.
+This information is based on the [detection rules mapping](create-detection-rules.md) that you have defined. View associated detection rules.
 
 ### View CVEs associated with technique
 
-To view the Common Vulnerabilities and Exposures \(CVE\) information that is associated with each of the techniques, click **Display CVEs associated with technique**. The CVE to technique information is based on the information available in the [CVE - Technique Mapping module](../task/manage-cve-and-technique-mapping.md). This provides you insight into known vulnerabilities and lets you know if adversaries can potentially exploit your organization.
+To view the Common Vulnerabilities and Exposures \(CVE\) information that is associated with each of the techniques, click **Display CVEs associated with technique**. The CVE to technique information is based on the information available in the [CVE - Technique Mapping module](manage-cve-and-technique-mapping.md). This provides you insight into known vulnerabilities and lets you know if adversaries can potentially exploit your organization.
 
 **Important:** The heat map is enhanced to display only the relevant CVEs that is associated with the VITs
 
@@ -295,7 +295,7 @@ To view VITs associated with CVEs and techniques, select **Display VITs associat
 **Note:**
 
 -   The **Display CVEs associated with technique** is available only when the Vulnerability Response product is installed in your environment.
--   The VIT and CVE information is calculated based on the scheduled job you set in the [MITRE-ATT&amp;CK properties](../task/configure-mitre-att-ck-properties.md). The base system schedule job is set for 24 hours.
+-   The VIT and CVE information is calculated based on the scheduled job you set in the [MITRE-ATT&amp;CK properties](configure-mitre-att-ck-properties.md). The base system schedule job is set for 24 hours.
 
 When you use this filter with the **Display security incident associated with technique** filter, you can learn if the known vulnerabilities have caused security incidents in your organization.
 

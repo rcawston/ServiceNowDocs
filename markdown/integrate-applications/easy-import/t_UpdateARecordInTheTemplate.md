@@ -47,5 +47,5 @@ Role required: admin.
     |Any non-blank value|Blank value|Invalid update: the update preserves the existing non-blank value.|
 
 
-**Parent Topic:**[Easy import](../concept/c_EasyImport.md)
+**Parent Topic:**[Easy import](c_EasyImport.md)
 

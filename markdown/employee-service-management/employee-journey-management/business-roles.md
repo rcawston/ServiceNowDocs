@@ -28,10 +28,10 @@ The following integrations are available to use with new hire onboarding. These 
 
 The Business Roles \[com.snc.businessroles\] plugin is automatically activated with the Human Resources Scoped App: Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin.
 
--   **[Configure a business role](../task/configure-business-role.md)**  
+-   **[Configure a business role](configure-business-role.md)**  
 Create or modify a business role based on job function, geography, and so on.
--   **[Update the assign\_business\_roles\_catalog system property](../task/update-assign-business-roles-catalog-item-system-property.md)**  
+-   **[Update the assign\_business\_roles\_catalog system property](update-assign-business-roles-catalog-item-system-property.md)**  
 The **assign\_business\_roles\_catalog** system property enables you to assign business roles to users through a catalog item as part of a lifecycle event, and is included with the Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin. If you are using a custom catalog item with your lifecycle event, you must update the system property with the sys id of that item.
 
-**Parent Topic:**[Lifecyle events for enterprise](../reference/enterprise-onboarding-transitions-landing-page.md)
+**Parent Topic:**[Lifecyle events for enterprise](enterprise-onboarding-transitions-landing-page.md)
 

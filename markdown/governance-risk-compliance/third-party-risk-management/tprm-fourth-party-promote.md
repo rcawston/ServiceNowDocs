@@ -37,6 +37,6 @@ For example, Company A is pursuing a new project and needs to conduct due dilige
 
     A third-party record is created that incorporates all the existing fourth-nth party record information and then designates that fourth-nth party as a known fourth party. Known fourth parties have been or are in the process of being assessed for risk as part of the due diligence workflow. You can access all available due diligence information at the fourth-nth party and its corresponding third-party level.
 
-    For more information on fourth-nth parties, see [Monitoring your fourth-nth parties](../concept/tprm-monitor-fourth-parties.md).
+    For more information on fourth-nth parties, see [Monitoring your fourth-nth parties](tprm-monitor-fourth-parties.md).
 
 

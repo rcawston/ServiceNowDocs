@@ -53,7 +53,7 @@ You can update the questions according to your business requirements as shown in
 
     7.  Add questions and set up automation in the **Questions** and **Automation** tabs respectively.
 
-        For more information, see [Add instructions and questions to an assessment template](../../assessment-engine/task/sae-asmnt-template-populate.md) and [Automate response](../../assessment-engine/concept/automate-response.md).
+        For more information, see [Add instructions and questions to an assessment template](smart-assessment-engine/sae-asmnt-template-populate.md) and [Automate response](smart-assessment-engine/automate-response.md).
 
     8.  To publish the template, select **Publish**.
 
@@ -69,7 +69,7 @@ You can update the questions according to your business requirements as shown in
 
     3.  On the Assessment Metric Type New Record form, enter the name for the attestation template and select **Submit**.
 
-        For a description of the field values on the form, see [Assessment Metric Type New Record form](../reference/attestation-template-reference.md).
+        For a description of the field values on the form, see [Assessment Metric Type New Record form](attestation-template-reference.md).
 
         The attestation template is displayed in the templates list view as shown in the following example.
 

@@ -47,7 +47,7 @@ A side panel opens to create a cost plan.
 
 2.  On the Cost plan form, fill the fields.
 
-For a description of the field names, see [Create cost plan form](../../alignment-planner-workspace/reference/create-cost-plan-form-spw.md).
+For a description of the field names, see [Create cost plan form](create-cost-plan-form-spw.md).
 
 3.  Select **Save** to save the cost plan and close the side panel or **Save and add new** to save the cost plan and create a new cost plan.
  The cost plans created for sub projects can be viewed in the Cost screen of the parent project.

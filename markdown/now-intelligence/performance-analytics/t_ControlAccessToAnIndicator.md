@@ -37,5 +37,5 @@ Role required: pa\_admin or admin
 
 [Control ability to view breakdown elements](t_ControlAccessToABreakdown.md#)
 
-[Share a responsive dashboard](../../dashboards/task/t_ControlAccessToADashboard.md)
+[Share a responsive dashboard](t_ControlAccessToADashboard.md)
 

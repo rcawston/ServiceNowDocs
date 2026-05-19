@@ -31,7 +31,7 @@ The following items are installed with Financial Services Personal Deposit Opera
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Financial Services Personal Deposit Operations](../reference/installed-with-personal-deposit-ops.md).
+For more information, see [Components installed with Financial Services Personal Deposit Operations](installed-with-personal-deposit-ops.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ For more information, see [Components installed with Financial Services Personal
 5.  Select **Install**.
 
 
-**Parent Topic:**[Install Financial Services Deposit Operations](../concept/install-deposit-operations.md)
+**Parent Topic:**[Install Financial Services Deposit Operations](install-deposit-operations.md)
 

@@ -52,5 +52,5 @@ In the navigation filter, enter `sys_property.list` and ensure **glide.documents
 12. To download the document, select **Download redlined document** showing the changes.
 
 
-**Parent Topic:**[Document versions](../concept/document-mgt-versions.md)
+**Parent Topic:**[Document versions](document-mgt-versions.md)
 

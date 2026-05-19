@@ -75,7 +75,7 @@ Asynchronous Evaluation
 
 </td><td>
 
-When selected, enables asynchronous mode of evaluating recommendations on the contextual side panel in the CSM Workspace. That is, this mode enables agents to work on the case or incident record while the recommendations load on the contextual side panel. For more information, see [Synchronous and asynchronous modes of evaluation for Recommended Actions](../concept/ra-csm-contexts.md#section-ra-async-eval).
+When selected, enables asynchronous mode of evaluating recommendations on the contextual side panel in the CSM Workspace. That is, this mode enables agents to work on the case or incident record while the recommendations load on the contextual side panel. For more information, see [Synchronous and asynchronous modes of evaluation for Recommended Actions](ra-csm-contexts.md#section-ra-async-eval).
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Search application configuration that specifies AI Search as the search engine a
 
 The **\[CSM AIS\] Configurable Workspace Search Config** search application configuration is provided with the CSM Configurable Workspace store application. To access this configuration, navigate to **AI Search** &gt; **Search Experience** &gt; **Search Applications**.
 
-For more information about AI search configurations, see [Configuring AI Search in Recommended Actions](../concept/ra-configuring-ai-search.md).
+For more information about AI search configurations, see [Configuring AI Search in Recommended Actions](ra-configuring-ai-search.md).
 
 </td></tr><tr><td>
 
@@ -184,5 +184,5 @@ Limits the number of search results displayed in the AI search tab of Recommende
 **Related topics**  
 
 
-[Contexts in Recommended Actions](../concept/ra-csm-contexts.md)
+[Contexts in Recommended Actions](ra-csm-contexts.md)
 

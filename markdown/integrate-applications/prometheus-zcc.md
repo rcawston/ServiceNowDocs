@@ -22,5 +22,5 @@ Prometheus is a time-series monitoring system. The data it exposes consists of m
 **Related topics**  
 
 
-[Create a Prometheus connection](../task/create-prometheus-connection.md)
+[Create a Prometheus connection](create-prometheus-connection.md)
 

@@ -29,7 +29,7 @@ The **Allow multiple building reservations** option should be configured by your
 
 1.  Navigate to **Workplace Reservation Management** &gt; **Portal** &gt; **New Reservation**.
 
-    Select the type of spaces that you want to reserve. The types are displayed as tabs, such as Desks, Meeting rooms, or Parking. For more information, see [Create a reservation](create-reservation-request-1.md).
+    Select the type of spaces that you want to reserve. The types are displayed as tabs, such as Desks, Meeting rooms, or Parking. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
     You cannot make a multi-building reservation when using shifts.
 
@@ -47,7 +47,7 @@ The **Allow multiple building reservations** option should be configured by your
 
     By default, the search results first shows the primary building with spaces available in that building. Building card shows details like the building name, the campus that a building belongs to, and the number of spaces selected in a building.
 
-    If auto-search is enabled, the search results are automatically displayed. For more information, see [Create a reservation](create-reservation-request-1.md).
+    If auto-search is enabled, the search results are automatically displayed. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 5.  Switch between the **Card view** and **Schedule view** tabs to review and select the available spaces.
 
@@ -78,12 +78,12 @@ The **Allow multiple building reservations** option should be configured by your
     This behavior is different when compared to multi-building reservations created using the Workplace Reservation Management application, as it does not allow you to proceed with the reservation if you have not selected a space in the primary building.
 
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -97,7 +97,7 @@ The **Allow multiple building reservations** option should be configured by your
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

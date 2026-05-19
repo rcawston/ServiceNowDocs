@@ -15,5 +15,5 @@ The Notification Rules page shows the notification rules that the system uses th
 
 ![Notification Rules page](../images/notification-rules-page-smaller.png)
 
-See [Add a Notification rule](../task/adding-notification-rule.md) for more information.
+See [Add a Notification rule](adding-notification-rule.md) for more information.
 

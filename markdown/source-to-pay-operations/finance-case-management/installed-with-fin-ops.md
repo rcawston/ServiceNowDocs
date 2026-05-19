@@ -96,8 +96,8 @@ No new tables are installed with Finance Case Management. However, the labels of
 
 -   **[Application plugin installation sequence in Finance Case Management](app-plugin-install-seq-fin-ops.md)**  
 View the consolidated list of plugins, high-level description of each plugin, and the dependencies that are required before installing each plugin in Finance Case Management.
--   **[Activate the Create Finance Inquiry for inbound email flow](../task/activate-fin-case-inquiry-flow.md)**  
+-   **[Activate the Create Finance Inquiry for inbound email flow](activate-fin-case-inquiry-flow.md)**  
 Activate the **Create Finance case on Inbound email inquiry** flow to create a finance inquiry case automatically based on the information in an inbound email.
 
-**Parent Topic:**[Install Finance Case Management](../task/install-fin-case-mgmt.md)
+**Parent Topic:**[Install Finance Case Management](install-fin-case-mgmt.md)
 

@@ -83,5 +83,5 @@ Hover over the vertical bar in the Subscription units area for the desired day t
 The third area shows which version of the ITOM Licensing is used on the instance each day. It helps explain spikes in count every time the new version is installed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](../../../product/it-operations-management/reference/itom-su-licensing-reference.md)
+</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](itom-su-licensing-reference.md)
 

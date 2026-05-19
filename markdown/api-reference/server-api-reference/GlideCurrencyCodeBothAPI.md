@@ -21,7 +21,7 @@ Use this API to work with third-party APIs that use numeric currency codes, such
 
 This API requires the FX Currency \(com.glide.currency2\) plugin, which is available by default. This API is provided within the `sn_currency` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideCurrencyCode - getCurrencyCode\(String numberCode\)
 

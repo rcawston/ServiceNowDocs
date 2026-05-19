@@ -31,8 +31,8 @@ Create an HR Predictive Intelligence Workbench user group and add either users o
 
 -   To create an HR Predictive Intelligence Workbench user group and add users, see [Create a user group](https://servicenow.com/docs/bundle/vancouver-platform-administration/page/administer/users-and-groups/task/t_CreateAGroup.html) [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md).
 
-    For more information about the email notifications provided with this application, refer to [HR Predictive Intelligence Workbench notifications](../concept/hr-piwb-notifications.md).
+    For more information about the email notifications provided with this application, refer to [HR Predictive Intelligence Workbench notifications](hr-piwb-notifications.md).
 
 
-**Parent Topic:**[HR Predictive Intelligence Workbench administration](../concept/hr-piwb-administration.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench administration](hr-piwb-administration.md)
 

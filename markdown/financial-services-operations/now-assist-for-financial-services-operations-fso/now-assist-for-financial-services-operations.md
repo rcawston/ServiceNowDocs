@@ -24,7 +24,7 @@ Use the ServiceNow® Now Assist for Financial Services Operations \(FSO\) applic
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for FSO application to get started](../task/configure-now-assist-for-fso.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for FSO application to get started](configure-now-assist-for-fso.md)
 
 </td><td>
 
@@ -36,7 +36,7 @@ Use the ServiceNow® Now Assist for Financial Services Operations \(FSO\) applic
 
 </td><td>
 
-[Use Financial Services Operations AI agent collection ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for FSO](../../fso-now-assist/concept/using-ai-agent-use-cases-in-now-assist-for-fso.md)
+[Use Financial Services Operations AI agent collection ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for FSO](using-ai-agent-use-cases-in-now-assist-for-fso.md)
 
 </td><td>
 

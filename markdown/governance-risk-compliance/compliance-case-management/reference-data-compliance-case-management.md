@@ -20,5 +20,5 @@ Tables are added with the activation of the GRC: Compliance Case Management appl
 -   **[Roles installed with Compliance Case Management](roles-compliance-case-management.md)**  
 The GRC: Compliance Case Management installs the essential role to perform respective day-to-day operational tasks towards managing compliance cases for the enterprise to perform their respective tasks.
 
-**Parent Topic:**[Compliance Case Management](../concept/compliance-case-management.md)
+**Parent Topic:**[Compliance Case Management](compliance-case-management.md)
 

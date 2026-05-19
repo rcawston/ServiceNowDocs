@@ -78,5 +78,5 @@ Different roles are required to perform various steps in Field Service Guided Se
 |Configure Group selection criteria|user\_admin|
 |Onboard External Agent|user\_admin|
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 

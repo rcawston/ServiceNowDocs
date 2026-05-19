@@ -40,7 +40,7 @@ Enter a list of task table names that are displayed as to-do items on a patient 
 -   Type: string
 -   Default value: sn\_doc\_task,sn\_hcls\_insurance\_info\_task
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Specify a to-do item for patients](../task/hcls-config-to-do-items.md)
+-   Learn more: [Specify a to-do item for patients](hcls-config-to-do-items.md)
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Set the property to `True` to enable the self-registration feature in the Patien
 -   Type: true \| false
 -   Default value: true
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Configure the self-registration feature on the Patient Portal](../concept/hcls-self-registration.md)
+-   Learn more: [Configure the self-registration feature on the Patient Portal](hcls-self-registration.md)
 
 </td></tr><tr><td>
 

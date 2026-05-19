@@ -32,7 +32,7 @@ Role required: admin
 
 The list of flow executions appear. You can look up the status of the flows or subflows that you triggered. If there were any errors during execution, you can view them under the processing message column.
 
-**Parent Topic:**[Use Source-to-Pay integration with Coupa](../concept/using-source-to-pay-coupa-integration.md)
+**Parent Topic:**[Use Source-to-Pay integration with Coupa](using-source-to-pay-coupa-integration.md)
 
 **Related topics**  
 

@@ -21,7 +21,7 @@ Role required: none
 
 A file drop list is a collection of strings that contain the file paths and is stored on the Windows clipboard as a String array.
 
-You can configure the properties for the SetFileDropList component. For more information about these properties, see [Properties of the Clipboard components](../reference/util-clipboard-prop.md).
+You can configure the properties for the SetFileDropList component. For more information about these properties, see [Properties of the Clipboard components](util-clipboard-prop.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ You can configure the properties for the SetFileDropList component. For more inf
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Clipboard](../concept/clipboard.md)
+**Parent Topic:**[Clipboard](clipboard.md)
 

@@ -33,7 +33,7 @@ See [Enterprise Service Management Foundation](https://raw.githubusercontent.com
 
 ## Activation information
 
-Enterprise Service Management Foundation is available in the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html). For more details on the individual products, see [Core Business Suite release notes](../core-business-suite/cbs-rn.md) and [IT Service Management release notes](../it-service-management/ai-native-it-service-desk-rn.md).
+Enterprise Service Management Foundation is available in the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html). For more details on the individual products, see [Core Business Suite release notes](cbs-rn.md) and [IT Service Management release notes](ai-native-it-service-desk-rn.md).
 
 ## Plugin information
 
@@ -45,7 +45,7 @@ Enterprise Service Management Foundation is available in the ServiceNow Store. V
     -   Implementation Agent Content \(sn\_ia\_content\): Provides content assets for the Implementation Agent guided setup experience.
     -   Implementation Agent Common \(sn\_ia\_common\): Provides common components shared across the Implementation Agent framework.
     -   Simplified IT Service Management \(sn\_ai\_itsm\_cont\): Provides a tailored service desk with a central workspace, AI agent chat, an Employee Slate, and Now Assist to streamline ITSM and enhance productivity.
-    -   Core Business Suite Foundation: Provides streamlined employee and supplier case and knowledge management to improve service request management across departments. For detailed plugin information for Core Business Suite, see [Core Business Suite release notes](../core-business-suite/cbs-rn.md).
+    -   Core Business Suite Foundation: Provides streamlined employee and supplier case and knowledge management to improve service request management across departments. For detailed plugin information for Core Business Suite, see [Core Business Suite release notes](cbs-rn.md).
         -   The ServiceNow AI Platform now brings you a new AI experience with three licensing tiers available:
 
             -   Foundation: AI basics to deliver insights

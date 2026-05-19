@@ -45,7 +45,7 @@ Role required: sp\_admin
 
 10. In the **Widget Option Schema** field, modify the JSON code to update the configuration of the widget that you've added.
 
-    For more information on each JSON parameters of the Portal Quick Links widget, see [Portal Banner widget JSON parameters](../reference/r-port-banner-widget-json-schema.md).
+    For more information on each JSON parameters of the Portal Quick Links widget, see [Portal Banner widget JSON parameters](../r-port-banner-widget-json-schema.md).
 
 11. Select **Save**.
 

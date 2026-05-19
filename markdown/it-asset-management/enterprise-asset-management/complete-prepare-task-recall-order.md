@@ -157,5 +157,5 @@ If you are proceeding with an asset retirement, enterprise assets are updated wi
 
 Complete all subsequent replacement, repair, or retirement tasks.
 
-**Parent Topic:**[Completing a recall order for your enterprise assets](../concept/completing-recall-order-enterprise-assets.md)
+**Parent Topic:**[Completing a recall order for your enterprise assets](completing-recall-order-enterprise-assets.md)
 

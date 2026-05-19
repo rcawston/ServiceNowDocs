@@ -145,7 +145,7 @@ Displays the activity and attachments from UR, and all the previously associated
 
 When a user clicks to view the Standard Ticket page from a department ticket that was previously a primary ticket of the UR, then the Standard Ticket configuration validates and displays a message asking the user to open the latest page that displays only the activity streams and attachments. The following image displays the message containing a link to open the latest activity stream.
 
--   **[Configure Standard Ticket page for Universal Request](../task/config-standard-ticket.md)**  
+-   **[Configure Standard Ticket page for Universal Request](config-standard-ticket.md)**  
 Use the Standard ticket page configuration for Universal Request to provide a consistent layout across all tickets raised and associated.
 
 **Parent Topic:**[Configuring Universal Request](configure-ur.md)
@@ -153,5 +153,5 @@ Use the Standard ticket page configuration for Universal Request to provide a co
 **Related topics**  
 
 
-[Configure Standard Ticket page for Universal Request](../task/config-standard-ticket.md)
+[Configure Standard Ticket page for Universal Request](config-standard-ticket.md)
 

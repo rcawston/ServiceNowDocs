@@ -56,5 +56,5 @@ Role required: asset or inventory\_user
 
 After the RMA order is submitted successfully, you are automatically redirected to the Service Catalog home page. A confirmation message then appears with the RMA order number, which you can use to track and manage your RMA order.
 
-**Parent Topic:**[Requesting a Return Merchandise Authorization \(RMA\) for defective enterprise assets](../concept/requesting-return-merchandise-authorization-enterprise-assets.md)
+**Parent Topic:**[Requesting a Return Merchandise Authorization \(RMA\) for defective enterprise assets](requesting-return-merchandise-authorization-enterprise-assets.md)
 

@@ -37,8 +37,8 @@ Additionally, you can review visualizations for a specific news article, includi
 
 Content engagement is installed as a plugin. The features are enabled through the Content Publishing properties and delivered to employees via news article widgets. Follow these steps to setup Content engagement:
 
-1.  [Activate Content engagement](../task/installing-content-engagement.md)
-2.  Enable Content engagement in Content Publishing properties: [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
-3.  [Configure a custom reaction](../task/ce-configure-reaction.md) \(optional\)
+1.  [Activate Content engagement](installing-content-engagement.md)
+2.  Enable Content engagement in Content Publishing properties: [Properties installed with Content Publishing](properties-with-content-delivery.md)
+3.  [Configure a custom reaction](ce-configure-reaction.md) \(optional\)
 4.  Enable Content engagement in Content templates: [Content templates](ec-content-templates.md) \(optional\).
 

@@ -210,5 +210,5 @@ Create the applicable success outcomes to support the primary success outcome.
 -   **[Close or cancel a success initiative](account-lifecycle-cancel-success-initiative.md)**  
 You can close or cancel a success initiative and all the related tasks.
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](account-lifecycle-basic-config.md)
 

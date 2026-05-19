@@ -35,7 +35,7 @@ The scheduler only runs when there are active exposures so that the actions are 
 
 5.  On the form, fill in the fields.
 
-    For information on field descriptions, see [Action schedule form for an exposure](../reference/hs-action-schedule-form.md).
+    For information on field descriptions, see [Action schedule form for an exposure](hs-action-schedule-form.md).
 
 6.  Select **Save**.
 

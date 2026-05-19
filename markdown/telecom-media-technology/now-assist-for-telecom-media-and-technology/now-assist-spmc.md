@@ -21,15 +21,15 @@ Use the ServiceNow® Now Assist for Telecommunications, Media and Technology \(T
 
 <table id="table_zzm_tc2_kbc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-tmt-exploring.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-tmt-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Telecommunications, Media and Technology \(TMT\)](../task/now-assist-tmt-configuring.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-tmt-configuring.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 
 </td></tr></tbody>
 </table>**Important:**

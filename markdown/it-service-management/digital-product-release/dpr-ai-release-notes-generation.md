@@ -39,7 +39,7 @@ Using AI to generate release notes gives you clear, well-structured release note
 
 ## How it works
 
-The release notes are generated using a Now Assist summarization skill called Generate Release Notes. This skill is available when the [Now Assist for IT Service Management \(ITSM\)](../../now-assist-itsm/concept/now-assist-itsm.md) plugin is installed.
+The release notes are generated using a Now Assist summarization skill called Generate Release Notes. This skill is available when the [Now Assist for IT Service Management \(ITSM\)](../now-assist-for-it-service-management-itsm/now-assist-itsm.md) plugin is installed.
 
 1.  When your release is in the readiness phase, select the option to generate release notes.
 2.  The system creates a draft using AI summarization.
@@ -66,7 +66,7 @@ The AI summarization feature pulls together details from your enhancements, feat
 **Related topics**  
 
 
-[Generate AI-powered release notes for a release](../task/dpr-generate-release-notes.md)
+[Generate AI-powered release notes for a release](dpr-generate-release-notes.md)
 
-[Now Assist for IT Service Management \(ITSM\)](../../now-assist-itsm/concept/now-assist-itsm.md)
+[Now Assist for IT Service Management \(ITSM\)](../now-assist-for-it-service-management-itsm/now-assist-itsm.md)
 

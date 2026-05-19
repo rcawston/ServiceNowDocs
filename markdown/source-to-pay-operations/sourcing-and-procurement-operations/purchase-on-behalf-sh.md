@@ -70,7 +70,7 @@ Role required: sn\_shop.shopping\_hub\_admin
 
 Plugin required: Shopping Hub \(sn\_spend\_uib\)
 
-Ensure that you configure the super shopper to purchase on behalf of other users. For more information, see [Enable a shopper to purchase on behalf of another user](../task/config-shoppinghub-purchase-behalf.md).
+Ensure that you configure the super shopper to purchase on behalf of other users. For more information, see [Enable a shopper to purchase on behalf of another user](config-shoppinghub-purchase-behalf.md).
 
 ## How it works
 

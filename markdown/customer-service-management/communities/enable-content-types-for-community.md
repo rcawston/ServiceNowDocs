@@ -48,18 +48,18 @@ You can configure content types at both the community and forum level. At the co
 10. To deactivate a content type, select **False**.
 
 
-**Parent Topic:**[Configuring communities](../reference/configure-communities.md)
+**Parent Topic:**[Configuring communities](configure-communities.md)
 
 **Related topics**  
 
 
-[Community content types](../concept/c_communities-content-types.md)
+[Community content types](c_communities-content-types.md)
 
-[Community feedback types](../concept/feedback-types.md)
+[Community feedback types](feedback-types.md)
 
-[Community access types](../concept/access-types.md)
+[Community access types](access-types.md)
 
-[Platform Analytics Solutions for Communities](../../../use/dashboards/application-content-packs/communities-content-pack.md)
+[Platform Analytics Solutions for Communities](communities-content-pack.md)
 
 [Migrate Social Q&amp;A data to Communities](migrate-socialqa.md)
 
@@ -67,31 +67,31 @@ You can configure content types at both the community and forum level. At the co
 
 [View community feedback and bookmarks tables](view-feedback-bookmark-tables.md)
 
-[Create a case from a discussion](../concept/case-management-integration.md)
+[Create a case from a discussion](case-management-integration.md)
 
-[Enable knowledge harvesting](../concept/communities-km-integration-configure.md)
+[Enable knowledge harvesting](communities-km-integration-configure.md)
 
 [Activate Communities plugins](activate-communities.md)
 
-[Community setup guide for admins](../reference/r_setup-communities-admin.md)
+[Community setup guide for admins](r_setup-communities-admin.md)
 
-[Configure video sources for a community](../../customer-service-management/task/create-video-configuration.md)
+[Configure video sources for a community](create-video-configuration.md)
 
 [Configure community forums](configure-forums-topics.md)
 
-[Forum and user permissions management](../concept/communities-permissions.md)
+[Forum and user permissions management](communities-permissions.md)
 
 [Configure the community profile](configure-community-profile.md)
 
 [Create community Terms and Conditions](create-terms-conditions.md)
 
-[Enable users to self-register to a community](../concept/configure-registration.md)
+[Enable users to self-register to a community](configure-registration.md)
 
 [Moderate a community](moderate-communities.md)
 
-[Administer gamification](../concept/communities-gamification-administer.md)
+[Administer gamification](communities-gamification-administer.md)
 
-[Community Service Portal](../concept/community-service-portal.md)
+[Community Service Portal](community-service-portal.md)
 
-[Community content types](../concept/c_communities-content-types.md)
+[Community content types](c_communities-content-types.md)
 

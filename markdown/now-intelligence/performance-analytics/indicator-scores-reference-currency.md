@@ -28,7 +28,7 @@ To collect indicator scores in a reference currency, create an indicator with th
 -   The selected **Field** to aggregate has the type Price, Currency, or FX Currency.
 -   The selected **Unit** for the scores is **Use reference currency**.
 
-For the full procedure of creating such an indicator, see [Create an automated indicator](../task/t_CreateAnAutomatedIndicator.md#).
+For the full procedure of creating such an indicator, see [Create an automated indicator](t_CreateAnAutomatedIndicator.md#).
 
 **Note:**
 

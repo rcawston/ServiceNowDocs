@@ -17,11 +17,11 @@ You can access the service level agreement \(SLA\) information for an incident o
 
 ## SLA information on the Service Operations Workspace landing page
 
-On the Service Operations Workspace landing page, you can click the **Incident SLAs** card to view incidents grouped by their SLAs. This card displays SLA details only for incidents assigned to the agent. For information on possible customizations for this card, see [Configure the donut color in the Overview section](../task/customize-donut-color.md).
+On the Service Operations Workspace landing page, you can click the **Incident SLAs** card to view incidents grouped by their SLAs. This card displays SLA details only for incidents assigned to the agent. For information on possible customizations for this card, see [Configure the donut color in the Overview section](customize-donut-color.md).
 
 ![Overview section](../image/overview-section.png "Overview section")
 
-For information about monitoring SLAs, see [Monitoring Service Level Agreement \(SLA\)](../../service-level-management/concept/c_SLAForTheEndUser.md).
+For information about monitoring SLAs, see [Monitoring Service Level Agreement \(SLA\)](../service-level-management/c_SLAForTheEndUser.md).
 
 **Parent Topic:**[Managing IT services in your organization](managing-services-operations-in-organization.md)
 
@@ -67,7 +67,7 @@ The following SLA timer configurations display the response and resolution SLA f
 -   Incident Response
 -   Incident Resolution
 
-You should configure SLA timer configuration mappings for these timer configurations. For information on how you can configure these mappings, see [Configure the SLA timer](../../service-level-management/task/sla-timer-configurations.md).
+You should configure SLA timer configuration mappings for these timer configurations. For information on how you can configure these mappings, see [Configure the SLA timer](../service-level-management/sla-timer-configurations.md).
 
 ### Procedure
 

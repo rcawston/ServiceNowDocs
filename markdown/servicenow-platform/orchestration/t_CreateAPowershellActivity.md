@@ -29,7 +29,7 @@ ServiceNow supports PowerShell 3.0 to 5.1.
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the PowerShell Execution Command.
+2.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the PowerShell Execution Command.
 
 <table id="choicetable_asj_mzp_vz"><tbody><tr><td id="d552367e113">
 
@@ -113,7 +113,7 @@ MID Server to use for querying PowerShell, by capabilities. By default, the syst
 
 Finish creating your PowerShell activity by [creating output variables](t_CreateAnOutputVariable.md#), [creating a parsing rule](t_CreateAParsingRule.md#), or [Conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/conditions.md). Refer to the [create custom activities](create-custom-activities.md) topic to know your template options.
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 ## PowerShell template execution parameters
 

@@ -30,7 +30,7 @@ Business processes model how your organization performs work to achieve a busine
 -   **[Exploring demands](eaw-demands.md)**  
 You can use a demand as a step to identify cost-saving opportunities on applications or capabilities and to meet the target.
 
-**Parent Topic:**[Exploring Portfolio list view](../portfolio-list-view.md)
+**Parent Topic:**[Exploring Portfolio list view](portfolio-list-view.md)
 
 **Related topics**  
 

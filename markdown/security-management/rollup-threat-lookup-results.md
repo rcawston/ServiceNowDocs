@@ -40,7 +40,7 @@ If you have enabled [automatic roll up of MITRE-ATT&amp;CK information from Thre
     You can view the MITRE-ATT&amp;CK Card to confirm that the Threat Lookup results have been rolledup to the security incident.
 
 
-**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](../concept/mitre-att-ck-features.md)
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](mitre-att-ck-features.md)
 
 **Related topics**  
 
@@ -49,7 +49,7 @@ If you have enabled [automatic roll up of MITRE-ATT&amp;CK information from Thre
 
 [Associate MITRE-ATT&amp;CK information with observables](associate-mitre-observables.md)
 
-[Associate MITRE-ATT&amp;CK information with security case](../../threat-intelligence-case-management/task/associate-mitre-att-ck-information-with-security-case-management.md)
+[Associate MITRE-ATT&amp;CK information with security case](associate-mitre-att-ck-information-with-security-case-management.md)
 
 [Rollup MITRE-ATT&amp;CK information from detection rules](rollup-mitre-attack-information-detection-rules.md)
 
@@ -57,7 +57,7 @@ If you have enabled [automatic roll up of MITRE-ATT&amp;CK information from Thre
 
 [Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](link-analysis-threat-hunt-mitre.md)
 
-[MITRE-ATT&amp;CK heat map and navigator](../concept/mitre-att-ck-heatmap-and-navigator.md#)
+[MITRE-ATT&amp;CK heat map and navigator](mitre-att-ck-heatmap-and-navigator.md#)
 
-[Using the MITRE-ATT&amp;CK dashboard](../concept/mitre-dashboards.md#)
+[Using the MITRE-ATT&amp;CK dashboard](mitre-dashboards.md#)
 

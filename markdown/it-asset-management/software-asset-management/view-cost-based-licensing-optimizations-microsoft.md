@@ -31,7 +31,7 @@ You can view in-depth details about your realized and potential licensing optimi
 -   determine the cost savings that you have achieved by using the Software Asset Management application to track and manage your Microsoft licenses,
 -   and download optimization reports that you can share with other users in your organization.
 
-For more information on cost-based licensing optimizations, see [Cost-based licensing optimization for Microsoft](../concept/cost-based-microsoft-cluster-licensing.md).
+For more information on cost-based licensing optimizations, see [Cost-based licensing optimization for Microsoft](cost-based-microsoft-cluster-licensing.md).
 
 ## Procedure
 
@@ -43,8 +43,8 @@ For more information on cost-based licensing optimizations, see [Cost-based lice
 
 3.  View your realized and potential cost-based licensing optimizations for Microsoft.
 
-    The Microsoft Core License Optimization Reports \[samp\_ms\_optimization\_report\] table provides detailed information about each realized and potential licensing optimization, including the recommended license type, the recommend license consumption layer, and the potential and realized cost savings. For a detailed description of each field in this table, see [Microsoft Core License Optimization Reports fields](../reference/microsoft-core-license-optimization-report-fields.md).
+    The Microsoft Core License Optimization Reports \[samp\_ms\_optimization\_report\] table provides detailed information about each realized and potential licensing optimization, including the recommended license type, the recommend license consumption layer, and the potential and realized cost savings. For a detailed description of each field in this table, see [Microsoft Core License Optimization Reports fields](microsoft-core-license-optimization-report-fields.md).
 
 
-**Parent Topic:**[Cost-based licensing optimization for Microsoft](../concept/cost-based-microsoft-cluster-licensing.md)
+**Parent Topic:**[Cost-based licensing optimization for Microsoft](cost-based-microsoft-cluster-licensing.md)
 

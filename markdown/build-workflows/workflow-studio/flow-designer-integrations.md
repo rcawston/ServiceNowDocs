@@ -47,7 +47,7 @@ Content available
 
 </td></tr><tr><td>
 
-[Process Automation Designer](../../process-automation-designer/concept/process-automation-designer.md)
+[Process Automation Designer](process-automation-designer.md)
 
 </td><td>
 
@@ -70,5 +70,5 @@ Add application-specific content to Workflow Studio by installing spokes.
 -   **[Spokes](spokes.md)**  
 Add application-specific content to Workflow Studio by installing spokes.
 
-**Parent Topic:**[Flows, subflows, and actions reference](../reference/flow-designer-reference.md)
+**Parent Topic:**[Flows, subflows, and actions reference](flow-designer-reference.md)
 

@@ -21,7 +21,7 @@ Role required: import\_admin
 
 ## About this task
 
-For additional information, see [File type data sources](../reference/r_FileTypeDataSource.md).
+For additional information, see [File type data sources](r_FileTypeDataSource.md).
 
 ## Procedure
 
@@ -145,7 +145,7 @@ Parsing script
 
 </td><td>
 
-The script used to parse a single line of input. As you type the script, script auto-complete presents the choices available to you. For more information, see [File type data sources](../reference/r_FileTypeDataSource.md).
+The script used to parse a single line of input. As you type the script, script auto-complete presents the choices available to you. For more information, see [File type data sources](r_FileTypeDataSource.md).
 
 </td></tr><tr><td>
 
@@ -185,7 +185,7 @@ Expand node children
 
 </td><td>
 
-Selected if child elements of the XML node or JSON object should be converted into additional columns. Unselected if the parent column value should be an XML or JSON fragment. For JSON, note that selecting this option expands objects only, not arrays. For nested array support, see [JSON file import examples](../reference/json-data-source-examples.md).
+Selected if child elements of the XML node or JSON object should be converted into additional columns. Unselected if the parent column value should be an XML or JSON fragment. For JSON, note that selecting this option expands objects only, not arrays. For nested array support, see [JSON file import examples](json-data-source-examples.md).
 
 </td></tr><tr><td>
 
@@ -271,5 +271,5 @@ Selected to validate the certificate from the FTPS server against all saved cert
 
 Define a transform map for the new data source and run an import.
 
-**Parent Topic:**[Create a data source](../concept/c_CreateNewDataSource.md)
+**Parent Topic:**[Create a data source](c_CreateNewDataSource.md)
 

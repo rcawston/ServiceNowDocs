@@ -19,7 +19,7 @@ Threat Actors use their resources, and the resources of an Intrusion Set, to con
 
 You can identify Threat Actors by their motives, capabilities, goals, sophistication level, past activities, resources they have access to, and their role in the organization.
 
--   **[Define threat actors](../task/define-threat-actors.md)**  
+-   **[Define threat actors](define-threat-actors.md)**  
 Define threat actors who are individuals, groups, or organizations who act with malicious intent.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

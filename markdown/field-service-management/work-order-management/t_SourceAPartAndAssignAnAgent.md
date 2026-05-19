@@ -17,7 +17,7 @@ The work order sourcing option is useful when you want to assign a work order ta
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 

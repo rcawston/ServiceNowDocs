@@ -109,5 +109,5 @@ Your ServiceNow instance and the Kubernetes cluster are ready for KVA deployment
 
 [Install Kubernetes Visibility Agent \(KVA\) Informer](cnov-deploy-install.md).
 
-**Parent Topic:**[Configuring Kubernetes Visibility Agent](../concept/cnov-configuring.md)
+**Parent Topic:**[Configuring Kubernetes Visibility Agent](cnov-configuring.md)
 

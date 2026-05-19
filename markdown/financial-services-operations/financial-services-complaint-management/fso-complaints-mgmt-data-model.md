@@ -15,7 +15,7 @@ breadcrumb: [Explore, Complaint Management, Common applications, Financial Servi
 
 The Financial Services Complaint Management data model provides a framework that is used in the complaint management workflow.
 
-This data model is aligned to the Financial Services Operations Core data model. See [Financial Services Operations Core](../../fso-common/reference/financial-services-operations-core-data-model.md) to learn about Financial Services Operations Core data model.
+This data model is aligned to the Financial Services Operations Core data model. See [Financial Services Operations Core](../financial-services-operations-core-data-model.md) to learn about Financial Services Operations Core data model.
 
 The following diagram shows the tables and their relationships that comprise the complaints management data model.
 
@@ -23,7 +23,7 @@ This data model uses a combination of tables to store data:
 
 -   Tables that are included with complaints management application.
 
-    For more information on tables that are installed with Financial Services Complaint Management, see [Components installed with Financial Services Complaint Management](../reference/installed-with-fso-complaints-mgmt.md).
+    For more information on tables that are installed with Financial Services Complaint Management, see [Components installed with Financial Services Complaint Management](installed-with-fso-complaints-mgmt.md).
 
 -   Tables that are from the Customer Service Management \(CSM\) application.
     -   Extends the Sold Product \[sn\_install\_base\_sold\_product\] table for financial account and financial transaction tables.

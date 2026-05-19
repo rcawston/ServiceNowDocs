@@ -31,12 +31,12 @@ When Document Intelligence is installed and you want to use the invoice ingestio
 
 </td><td>
 
-1.  [Create a copy of the default Invoice Processing use case](../task/create-use-case-copy.md).
+1.  [Create a copy of the default Invoice Processing use case](create-use-case-copy.md).
 2.  Do the following to configure the invoice ingestion flows:
-    1.  [Configure the newly created DocIntel Extract Values Flow](../task/configure-extract-values-flow.md).
-    2.  [Copy and configure the Invoice processing case for Invoice email flow](../task/copy-invoice-email-di-flow.md).
-    3.  [Copy and configure the Invoice attachment DI processing flow](../task/copy-di-processing-flow.md).
-    4.  [Copy and configure the DI STP Failed flow](../task/copy-di-stp-failed-flow.md).
+    1.  [Configure the newly created DocIntel Extract Values Flow](configure-extract-values-flow.md).
+    2.  [Copy and configure the Invoice processing case for Invoice email flow](copy-invoice-email-di-flow.md).
+    3.  [Copy and configure the Invoice attachment DI processing flow](copy-di-processing-flow.md).
+    4.  [Copy and configure the DI STP Failed flow](copy-di-stp-failed-flow.md).
 3.  Perform the steps described in [KB article KB1286265](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1286265) to run the business rule to delete the duplicate ml\_solution record from the ML Solution \[ml\_solution\] table.
 
 </td></tr><tr><td>
@@ -45,7 +45,7 @@ When Document Intelligence is not installed
 
 </td><td>
 
-[Copy and configure the Invoice processing case for Invoice email flow when Document Intelligence is not installed](../task/copy-invoice-email-no-di.md).
+[Copy and configure the Invoice processing case for Invoice email flow when Document Intelligence is not installed](copy-invoice-email-no-di.md).
 
 </td></tr><tr><td>
 
@@ -53,8 +53,8 @@ When Document Intelligence is installed but you want to disable the invoice inge
 
 </td><td>
 
-1.  [Configure the Invoice processing case for Invoice email flow for disabling the Document Intelligence capability](../task/copy-invoice-email-disable-di.md).
-2.  [Deactivate the Invoice attachment DI processing flow](../task/deactivate-di-attach-flow.md).
+1.  [Configure the Invoice processing case for Invoice email flow for disabling the Document Intelligence capability](copy-invoice-email-disable-di.md).
+2.  [Deactivate the Invoice attachment DI processing flow](deactivate-di-attach-flow.md).
 
 </td></tr></tbody>
 </table>

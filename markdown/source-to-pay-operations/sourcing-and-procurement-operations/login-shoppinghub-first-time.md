@@ -17,7 +17,7 @@ Shoppers who log in to Shopping Hub for the very first time must set up a defaul
 
 If the shopper navigates to a different page other than the Shopping Hub home page without setting up default delivery address, they are redirected to the home page to set the default delivery location.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 
 ## Set work address as your delivery location
 

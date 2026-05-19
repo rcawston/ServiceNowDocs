@@ -57,7 +57,7 @@ You can also submit a general question using the Virtual agent chat support. Fro
 
     If the Workplace Space Mapping plugin is installed, you can also click the **Find the space on a floor map** option to select the space directly on the map.
 
-    If employees have a permanent assignment in their workplace profile, the employee names are displayed on the map for a selected space. For more information, see [Display permanent seat assignments on floor maps](../../wsd-reservation-management/task/display-permanent-seats-on-maps.md).
+    If employees have a permanent assignment in their workplace profile, the employee names are displayed on the map for a selected space. For more information, see [Display permanent seat assignments on floor maps](../workplace-reservation-management/display-permanent-seats-on-maps.md).
 
     1.  In the **Location** field, select the building where the space is located.
 
@@ -86,14 +86,14 @@ If you want to cancel a request, Click **Cancel Request**.
 
 When the request is resolved, select **Accept** or **Reject**.
 
-**Parent Topic:**[Requesting a workplace service](../concept/request-workplace-services.md)
+**Parent Topic:**[Requesting a workplace service](request-workplace-services.md)
 
 **Related topics**  
 
 
-[Reconfigure an office space](Reconfig-office-space-1.md)
+[Reconfigure an office space](../employee-service-management/Reconfig-office-space-1.md)
 
-[Raise a move request for a space change](../../workplace-move-mgmt/task/request-desk-change.md)
+[Raise a move request for a space change](request-desk-change.md)
 
 [Request furniture for a space](request-furniture.md)
 

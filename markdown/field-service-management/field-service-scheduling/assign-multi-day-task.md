@@ -17,7 +17,7 @@ Assign a work order task that requires multiple schedules or days to complete th
 
 ## Before you begin
 
-If you are scheduling a task across multiple schedule entries or days, a work schedule must have been assigned to the agent. For more information, see [Create a work schedule for agents](../../customer-service-management/task/create-agent-work-schedule.md).
+If you are scheduling a task across multiple schedule entries or days, a work schedule must have been assigned to the agent. For more information, see [Create a work schedule for agents](../field-service-manager-workforce/create-agent-work-schedule.md).
 
 **Note:** If the agent schedule has not been defined and you are auto-assigning a task, the system uses the default schedule.
 
@@ -25,9 +25,9 @@ Role required: wm\_admin
 
 ## About this task
 
-For information about how to assign a multi-day task to a crew, see [Assign work order tasks to crews](assign-wot-crew-operations.md).
+For information about how to assign a multi-day task to a crew, see [Assign work order tasks to crews](../field-service-manager-workforce/assign-wot-crew-operations.md).
 
-This procedure explains how you can assign a multi-day task to an agent using ServiceNow AI Platform. For information about how to assign a multi-day task using Dispatcher Workspace, see [Assign work order tasks to agents](../concept/manage-work-order-tasks-dw.md#).
+This procedure explains how you can assign a multi-day task to an agent using ServiceNow AI Platform. For information about how to assign a multi-day task using Dispatcher Workspace, see [Assign work order tasks to agents](manage-work-order-tasks-dw.md#).
 
 ## Procedure
 

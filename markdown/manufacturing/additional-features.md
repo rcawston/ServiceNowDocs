@@ -80,5 +80,5 @@ With Channel Support Operations for Manufacturing Commercial Operations, you can
 
 [Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
 
-[Components installed with additional plugins](../reference/mco-components-installed-with-other-product-workflows.md)
+[Components installed with additional plugins](mco-components-installed-with-other-product-workflows.md)
 

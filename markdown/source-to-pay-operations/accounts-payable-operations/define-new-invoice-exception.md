@@ -29,7 +29,7 @@ Role required: sn\_ap\_apm.admin
 
 3.  On the Invoice exception definition form, fill in the fields.
 
-    For a description of the field values, see [Invoice exception definition form](../reference/invoice-exception-definition-form.md). Example: Missing business owner or legal entity.
+    For a description of the field values, see [Invoice exception definition form](invoice-exception-definition-form.md). Example: Missing business owner or legal entity.
 
 4.  Select **Active**.
 
@@ -65,5 +65,5 @@ Role required: sn\_ap\_apm.admin
 -   **[Create subflow in workflow studio](create-subflow-in-workflow-studio.md)**  
 Use subflows to configure conditions that are applied on the invoice and raise an exception.
 
-**Parent Topic:**[Invoice exceptions](../concept/work-with-invoice-exceptions.md)
+**Parent Topic:**[Invoice exceptions](work-with-invoice-exceptions.md)
 

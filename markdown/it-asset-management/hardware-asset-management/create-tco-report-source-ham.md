@@ -94,7 +94,7 @@ The new report source is added to the list of TCO report sources in the **TCO re
 **Related topics**  
 
 
-[Asset Total Cost of Ownership for Hardware Asset Management](../concept/asset-mgmt-tco.md)
+[Asset Total Cost of Ownership for Hardware Asset Management](asset-mgmt-tco.md)
 
-[Asset analytics view](../concept/asset-analytics-view.md)
+[Asset analytics view](asset-analytics-view.md)
 

@@ -27,11 +27,11 @@ Employers remain solely responsible for complying with their legal obligations u
 
 -   **[Setting up privacy consent settings](set-up-privacy-consent-common.md)**  
 As an administrator, you can configure privacy consent templates, location-based privacy configurations, and notifications used to send privacy consent alerts for Safe Workplace suite applications.
--   **[Send an Emergency Outreach notification for employee privacy consents](../task/send-outreach-notif-privacy-common.md)**  
+-   **[Send an Emergency Outreach notification for employee privacy consents](send-outreach-notif-privacy-common.md)**  
 Send an Emergency Outreach notification, on demand, to employees to provide a privacy policy and seek consent to use of their data in accordance with the privacy policy.
 -   **[Submitting privacy consents](submitting-privacy-consent.md#)**  
 When you receive an email or mobile notification for a privacy consent, read the privacy policy statement and submit a response indicating whether you agree to the use of your data.
--   **[Review user privacy consents](../task/review-privacy-consent-common.md)**  
+-   **[Review user privacy consents](review-privacy-consent-common.md)**  
 Review user privacy consent responses submitted by employees indicating their response to requests for consent to use their data in accordance with a privacy policy.
 
 **Parent Topic:**[Employee Readiness Core](employee-readiness-core.md)

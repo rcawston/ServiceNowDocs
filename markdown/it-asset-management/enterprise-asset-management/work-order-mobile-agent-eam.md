@@ -21,7 +21,7 @@ View your work order tasks, asset tasks, and asset repair tasks using the Mobile
 Claim tasks to work on from the tasks assigned to your assignment group through the Mobile Agent application.
 -   **[Start working on tasks using the Mobile Agent application](start-work-mobile-agent-eam.md)**  
 Indicate in the Mobile Agent application when you start work on a task assigned to you. When you start working on the task, the start time is automatically recorded.
--   **[Record time worked on a task using the Mobile Agent application](../concept/record-time-mobile-agent-app.md)**  
+-   **[Record time worked on a task using the Mobile Agent application](record-time-mobile-agent-app.md)**  
 Manage and record time worked on work order tasks and asset tasks. After you start working on a task, you can pause and resume work. You can also record the time worked manually.
 -   **[Initiate a request to source parts for work order tasks using the Mobile Agent application](source-parts-mobile-agent.md)**  
 Initiate a request to source the missing parts of an enterprise asset associated with a work order task by using the Mobile Agent application.
@@ -44,10 +44,10 @@ Move assets of a startup work order task to the In use state in the Mobile Agent
 -   **[Move enterprise assets to maintenance state using the Mobile Agent application](move-assets-maintenance-mobile.md)**  
 Move assets of a break fix or planned maintenance work order task to the In maintenance state in the Mobile Agent application to indicate that the assets are under maintenance.
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 
 **Related topics**  
 
 
-[Manage enterprise asset repair tasks using the Mobile Agent application](../concept/repair-orders-mobile-agent-eam.md)
+[Manage enterprise asset repair tasks using the Mobile Agent application](repair-orders-mobile-agent-eam.md)
 

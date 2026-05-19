@@ -82,7 +82,7 @@ Site
 
 </td><td>
 
-Network site or data center in which the network inventory asset is installed. Click the search icon \(![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md).
+Network site or data center in which the network inventory asset is installed. Click the search icon \(![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](define-tni-sites.md).
 
 </td></tr><tr><td>
 
@@ -173,10 +173,10 @@ Operation notes
 Free-form operation note text for this network asset. For example, `Check diesel fuel for generator`.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a telecommunications equipment instance](../task/define-equipment-type.md)
+[Create a telecommunications equipment instance](define-equipment-type.md)
 

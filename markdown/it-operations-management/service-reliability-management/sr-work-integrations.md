@@ -31,7 +31,7 @@ Be aware of the following when using the Integrations Launchpad for SRM:
 
     SRM supports custom, pull, and push connectors. Pull connectors retrieve data from external sources, and push connectors send data from external sources to your instance.
 
-    **Note:** For information about setting up connectors, see [Integrations Launchpad in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/integrations-launchpad.md).
+    **Note:** For information about setting up connectors, see [Integrations Launchpad in Service Operations Workspace for ITOM](../service-operations-workspace-for-itom-apps/integrations-launchpad.md).
 
 -   **Configuration item field**
 
@@ -46,12 +46,12 @@ Be aware of the following when using the Integrations Launchpad for SRM:
 
 Visit the following links to set up and manage integrations with the Integrations Launchpad. The pages are in a different section because the Integrations Launchpad is part of the broader Service Operations Workspace.
 
--   [Activate integration](../../service-operations-workspace-itom/task/activate-integration.md)
--   [Configure an event custom connector](../../service-operations-workspace-itom/task/custom-connector.md)
--   [Configure an event pull connector](../../service-operations-workspace-itom/task/pull-connector.md)
--   [Configure an event push connector](../../service-operations-workspace-itom/task/push-connector.md)
--   [Deactivate integration](../../service-operations-workspace-itom/task/deactivate-integration.md)
--   [Delete integration](../../service-operations-workspace-itom/task/delete-integration.md)
+-   [Activate integration](../service-operations-workspace-for-itom-apps/activate-integration.md)
+-   [Configure an event custom connector](../service-operations-workspace-for-itom-apps/custom-connector.md)
+-   [Configure an event pull connector](../service-operations-workspace-for-itom-apps/pull-connector.md)
+-   [Configure an event push connector](../service-operations-workspace-for-itom-apps/push-connector.md)
+-   [Deactivate integration](../service-operations-workspace-for-itom-apps/deactivate-integration.md)
+-   [Delete integration](../service-operations-workspace-for-itom-apps/delete-integration.md)
 
 **Parent Topic:**[Working with SRM services](sr-work-services.md)
 

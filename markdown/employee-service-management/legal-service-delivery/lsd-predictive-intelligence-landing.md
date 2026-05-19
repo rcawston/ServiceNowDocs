@@ -31,7 +31,7 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Predictive intelligence for Legal Service Delivery](../task/lsd-pi-use-legal-request.md)
+[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Predictive intelligence for Legal Service Delivery](lsd-pi-use-legal-request.md)
 
 </td><td>
 
@@ -53,5 +53,5 @@ Use the Predictive Intelligence solution to predict and auto populate or view th
 -   **[Predictive Intelligence for Legal Service Delivery reference](lsd-PI-reference-landing.md)**  
 Reference topics provide additional information about components installed, the lists and forms that you use in Predictive Intelligence for Legal Service Delivery reference.
 
-**Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](../../lsd-sn-legal-contracts/concept/snclc-integrate-lsd-lp.md)
+**Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](snclc-integrate-lsd-lp.md)
 

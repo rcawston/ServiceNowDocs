@@ -96,5 +96,5 @@ Use the Knowledge Graph \(KG\) to create Knowledge Graph schema.
 -   **[Customize a summary card for service summary](customize-uib-builder-service-summary.md)**  
 Customize the summary card of the service summary and UI actions according to your needs.
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

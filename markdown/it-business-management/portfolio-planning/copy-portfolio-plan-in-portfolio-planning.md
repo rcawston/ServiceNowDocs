@@ -50,11 +50,11 @@ The new portfolio plan is created and a link is generated on the screen to acces
 
 ## What to do next
 
--   Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Portfolio Planning](../concept/prioritizing-work-in-portfolio-planning-workspace.md).
--   Roadmap the prioritized work to visualize and track progress of your plans. See [Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md).
+-   Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Portfolio Planning](prioritizing-work-in-portfolio-planning-workspace.md).
+-   Roadmap the prioritized work to visualize and track progress of your plans. See [Planning roadmaps in Portfolio Planning](planning-roadmaps-in-portfolio-planning.md).
 -   [Modify a portfolio plan](modify-portfolio-plan-in-portfolio-planning-workspace.md).
 -   Show or hide features for your portfolio plan according to your requirement while sharing a portfolio plan with your stakeholders. See, [Show or hide the features for a portfolio plan](show-or-hide-the-features-for-your-portfolio-plan-ppw.md).
 -   [Share a portfolio plan with stakeholders](share-portfolio-plan-in-portfolio-planning-workspace.md).
 
-**Parent Topic:**[Managing portfolio plans in Portfolio Planning](../concept/managing-portfolio-plans-in-portfolio-planning.md)
+**Parent Topic:**[Managing portfolio plans in Portfolio Planning](managing-portfolio-plans-in-portfolio-planning.md)
 

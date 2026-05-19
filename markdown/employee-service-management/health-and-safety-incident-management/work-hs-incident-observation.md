@@ -84,5 +84,5 @@ Associate an enterprise asset with a safety incident.
 -   **[Perform root cause analysis for a safety incident](perform-hs-root-cause-analysis.md)**  
 Perform a root cause analysis \(RCA\) for a safety incident as you go through its investigation.
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](managing-hs-incidents-obs.md)
 

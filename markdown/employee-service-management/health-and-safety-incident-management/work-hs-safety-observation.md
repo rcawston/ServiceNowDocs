@@ -41,7 +41,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
     2.  In the **People involved** tab, select **New** to add people involved in the observation such as witnesses and collaborators.
 
-        -   For a description of the field values, see [People Involved form](../reference/hs-people-involved-form.md).
+        -   For a description of the field values, see [People Involved form](hs-people-involved-form.md).
         -   If an observation involves more than one person, add a record for each.
         -   To modify the record of an existing person involved, select it in the list to open it and update.
     3.  In the **Root cause analysis** tab, select **New** to perform the root cause analysis for the observation.
@@ -73,5 +73,5 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
 The observation moves to the Closed Complete state.
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](managing-hs-incidents-obs.md)
 

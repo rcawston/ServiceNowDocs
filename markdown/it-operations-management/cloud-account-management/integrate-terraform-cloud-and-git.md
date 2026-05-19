@@ -60,7 +60,7 @@ Make a note of the OAuth Token ID and share it with the ServiceNow admin.
 
 ![GitHub OAuth Token ID](../image/git-oauth-token.png)
 
-**Parent Topic:**[Setting up Terraform and GitHub](../concept/about-terraform-git-and-servicenow_0.md)
+**Parent Topic:**[Setting up Terraform and GitHub](about-terraform-git-and-servicenow_0.md)
 
 **Related topics**  
 

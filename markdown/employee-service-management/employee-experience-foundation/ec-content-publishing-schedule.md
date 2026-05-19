@@ -19,7 +19,7 @@ Use Content Publishing to create, schedule, and deliver your portal content to y
 
 Content publishing offers two options for publishing your content:
 
--   **[Publish plans via Content Library](../task/ec-content-library-publish2.md)**
+-   **[Publish plans via Content Library](ec-content-library-publish2.md)**
 
     Publish plans are integrated in the Content Library workflow and offer a robust configuration options, including where the content will appear, who will see it, and publishing duration. You can create a publish plan for news, rich, or portal content. For all other content types, you must use the Schedule content form.
 
@@ -27,7 +27,7 @@ Content publishing offers two options for publishing your content:
 
     ![Publish plan features](../images/ec-content-publishing.png)
 
--   **[Schedule content form](../task/ecpro-schedule-content.md)**
+-   **[Schedule content form](ecpro-schedule-content.md)**
 
     Configure content delivery for the following types of content using the Schedule content form:
 
@@ -43,7 +43,7 @@ When you are configuring a content schedule or publish plan, you must define the
 
 -   **Location**
 
-    For most content types, **Service Portal** is the only option. Some content types, such as news articles, enable you to specify a publish plan for the Now Mobile app. For more information, see [Publishing news articles](../task/ec-content-publish-news-articles.md).
+    For most content types, **Service Portal** is the only option. Some content types, such as news articles, enable you to specify a publish plan for the Now Mobile app. For more information, see [Publishing news articles](ec-content-publish-news-articles.md).
 
 -   **Page**
 
@@ -64,19 +64,19 @@ When you are configuring a content schedule or publish plan, you must define the
 
 |Content type|Supported widgets|
 |------------|-----------------|
-|[Banner](../task/ec-content-library-portal-banner.md)|Content Experiences|
-|[Banner](../task/ec-content-library-portal-banner.md)|Welcome Banner \(CD\)|
-|[Calender](../task/ec-content-library-portal-calendar.md#)|Event Calender|
-|[Event](../task/ec-content-library-portal-events.md)|Upcoming Events \(CD\)|
-|[Image-based link](../task/ec-content-library-portal-image.md)|Quick Links \(CD\)|
+|[Banner](ec-content-library-portal-banner.md)|Content Experiences|
+|[Banner](ec-content-library-portal-banner.md)|Welcome Banner \(CD\)|
+|[Calender](ec-content-library-portal-calendar.md#)|Event Calender|
+|[Event](ec-content-library-portal-events.md)|Upcoming Events \(CD\)|
+|[Image-based link](ec-content-library-portal-image.md)|Quick Links \(CD\)|
 |[News article](ec-news-articles.md)|News Feed|
 |[News article](ec-news-articles.md)|Featured News|
 |[Rich content](ec-rich-content.md)|Rich Content \(CD\)|
-|[Rich text](../task/ec-content-library-portal-richtext.md)|Announcements \(CD\)|
-|[Styled content](../task/ec-content-library-portal-styled.md)|Content Experiences|
-|[Styled content](../task/ec-content-library-portal-styled.md)|Styled Content \(CD\)|
-|[URL](../task/ec-content-library-portal-url.md)|Information Links \(CD\)|
-|[Video](../task/ec-content-library-portal-video.md)|Video Carousel \(CE\)|
+|[Rich text](ec-content-library-portal-richtext.md)|Announcements \(CD\)|
+|[Styled content](ec-content-library-portal-styled.md)|Content Experiences|
+|[Styled content](ec-content-library-portal-styled.md)|Styled Content \(CD\)|
+|[URL](ec-content-library-portal-url.md)|Information Links \(CD\)|
+|[Video](ec-content-library-portal-video.md)|Video Carousel \(CE\)|
 
-To customize the content type and publishing widget, see [Add or modify content type for Content Publishing](../task/ecpro-manage-content-types.md)
+To customize the content type and publishing widget, see [Add or modify content type for Content Publishing](ecpro-manage-content-types.md)
 

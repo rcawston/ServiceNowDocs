@@ -50,10 +50,10 @@ Analyze the service issue in an incident, problem, or change record. If no commu
 
 The system sends an email to the customer or consumer account.
 
-**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](../concept/psew-identify-act-incident.md)
+**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](psew-identify-act-incident.md)
 
 **Related topics**  
 
 
-[Enhancing customer impact visibility for PSEW processes](../concept/enhance-customer-impact-visibility-psew-process.md)
+[Enhancing customer impact visibility for PSEW processes](enhance-customer-impact-visibility-psew-process.md)
 

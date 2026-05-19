@@ -48,7 +48,7 @@ Role required: Role required: sn\_apm.apm\_user and Owner or Editor access to th
 
 A duplicate diagram is created.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 

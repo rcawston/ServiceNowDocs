@@ -48,7 +48,7 @@ Role required: Account Payable Specialist
     The status of the invoice changes to **Draft**. The invoice is reprocessed and re-validated.
 
 
-**Parent Topic:**[Accounts Payable Specialist manual tasks](../concept/aps-manual-tasks.md)
+**Parent Topic:**[Accounts Payable Specialist manual tasks](aps-manual-tasks.md)
 
 **Related topics**  
 

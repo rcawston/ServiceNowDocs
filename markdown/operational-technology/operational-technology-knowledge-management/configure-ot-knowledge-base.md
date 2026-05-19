@@ -27,7 +27,7 @@ Role required: admin
 
 3.  On the knowledge base form, fill in the fields.
 
-    For a description of the field values, see [Knowledge base form](../reference/knowledge-base-form-fields.md).
+    For a description of the field values, see [Knowledge base form](knowledge-base-form-fields.md).
 
 4.  Right click the form header and select **Save**.
 
@@ -91,5 +91,5 @@ List of knowledge categories that are associated with the OT knowledge base. **N
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Operational Technology Knowledge Management](../concept/configuring-operational-technology-knowledge-management.md)
+**Parent Topic:**[Configuring Operational Technology Knowledge Management](configuring-operational-technology-knowledge-management.md)
 

@@ -119,5 +119,5 @@ The subject person doesn't meet the audience criteria defined for an activity th
 Review the Activity Set Contexts table to confirm whether there are any records that have been skipped. The **State** field in the corresponding Activity Set Context record is set to **Skipped** for activity sets that have been skipped.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure a Lifecycle Events trigger for activity sets](../task/le-config-event-trigger.md)
+</table>**Parent Topic:**[Configure a Lifecycle Events trigger for activity sets](le-config-event-trigger.md)
 

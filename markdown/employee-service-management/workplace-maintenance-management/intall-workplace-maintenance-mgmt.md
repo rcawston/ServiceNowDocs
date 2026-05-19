@@ -60,9 +60,9 @@ Role required: sn\_wsd\_maintenance.admin
 
 Workplace Maintenance Management is installed.
 
-**Parent Topic:**[Configuring Maintenance Management](../concept/configure-maintenance-mgmt.md)
+**Parent Topic:**[Configuring Maintenance Management](configure-maintenance-mgmt.md)
 
-**Previous topic:**[Configuring Maintenance Management](../concept/configure-maintenance-mgmt.md)
+**Previous topic:**[Configuring Maintenance Management](configure-maintenance-mgmt.md)
 
-**Next topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Next topic:**[Manage Workplace Maintenance Management plans](manage-maintenance-plans.md)
 

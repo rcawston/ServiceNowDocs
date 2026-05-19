@@ -28,5 +28,5 @@ Role required: it\_project\_manager
 3.  From the resource assignment pane, create a resource assignment for a project or task by selecting **Add resource**.
 
 
-**Parent Topic:**[Manage resource assignments from Project Workspace](../concept/use-ra-rmw.md)
+**Parent Topic:**[Manage resource assignments from Project Workspace](use-ra-rmw.md)
 

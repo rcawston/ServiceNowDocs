@@ -39,9 +39,9 @@ You must install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_
 **Related topics**  
 
 
-[Pre-work for Continuous Authentication](../concept/pre-work-ca.md)
+[Pre-work for Continuous Authentication](pre-work-ca.md)
 
 [Configuring Continuous Authentication](configure-ca.md)
 
-[High Assurance session with Continuous Authentication](../concept/high-assurance-ca.md)
+[High Assurance session with Continuous Authentication](high-assurance-ca.md)
 

@@ -26,7 +26,7 @@ To access this AI agent, you must have Now Assist Agent for Platform installed o
 
 Required role:
 
-AI agents use [role masking](aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](../task/define-sec-controls-aia.md).
+AI agents use [role masking](aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](define-sec-controls-aia.md).
 
 In the data access settings, you must also add the necessary roles to enable reading of the tables for the records you want to evaluate for readiness. For example, you can add the itil role to the AI agent's list of approved roles so that it can access Incident records.
 
@@ -40,7 +40,7 @@ To access the AI agent:
 
 ## Testing the Issue Readiness AI agent
 
-You can manually test the AI agent execution on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](../task/define-sec-controls-aia.md). Select the AI agent, start a manual test, and use utterances in the Task field like the ones below.
+You can manually test the AI agent execution on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](define-sec-controls-aia.md). Select the AI agent, start a manual test, and use utterances in the Task field like the ones below.
 
 ## Sample utterances
 

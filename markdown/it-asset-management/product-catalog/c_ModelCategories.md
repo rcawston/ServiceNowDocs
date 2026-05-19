@@ -26,15 +26,15 @@ The fields in the Asset class and the IBI class are synchronized as follows:
 1.  When an IBI class is updated, the Account, Consumer, Location, and Install date field changes are synchronized with the corresponding fields of the Asset class.
 2.  When an Asset class is updated, the Location and Install date field changes are synchronized with the corresponding fields of the IBI class.
 
--   **[View model categories](../task/t_ViewingModelCategories.md)**  
+-   **[View model categories](t_ViewingModelCategories.md)**  
 Default model categories are included with product catalog. You can view a list of default categories and the categories that you created.
--   **[Create model categories](../task/t_CreatingModelCategories.md)**  
+-   **[Create model categories](t_CreatingModelCategories.md)**  
 You can add custom model categories for your instance.
--   **[Create assets manually](../task/t_CreatingAssetsManually.md)**  
+-   **[Create assets manually](t_CreatingAssetsManually.md)**  
 The ServiceNow AI Platform does not create an asset automatically under certain conditions. You can create an asset manually as needed.
--   **[Edit model categories](../task/t_EditingModelCategories.md)**  
+-   **[Edit model categories](t_EditingModelCategories.md)**  
 All default model categories can be edited, except for the Contract model category. You can edit any custom model categories that you created at any time.
--   **[Delete model categories](../task/t_DeletingModelCategories.md)**  
+-   **[Delete model categories](t_DeletingModelCategories.md)**  
 If a model category is no longer needed, you can delete it.
 
 **Parent Topic:**[Product Catalog](c_ProductCatalog.md)
@@ -42,7 +42,7 @@ If a model category is no longer needed, you can delete it.
 **Related topics**  
 
 
-[Components installed with Product Catalog](../reference/r_InstalledWithProductCatalog.md)
+[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)
 
 [Models](c_Models.md)
 
@@ -54,5 +54,5 @@ If a model category is no longer needed, you can delete it.
 
 [CMDB classifications and class dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBClassifications.md)
 
-[Create an asset class](../../asset-management/task/t_CreateAnAssetClass.md)
+[Create an asset class](../asset-management/t_CreateAnAssetClass.md)
 

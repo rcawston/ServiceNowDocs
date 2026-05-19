@@ -51,7 +51,7 @@ Role required: asset
 
 Each time you pause or resume work on the task, the actual time you worked on the task is automatically calculated. An entry for the time worked is created in the Time Worked tab.
 
-**Parent Topic:**[Record time worked on asset repair tasks in the Hardware Asset Workspace](../concept/record-repair-time-ham-ws.md)
+**Parent Topic:**[Record time worked on asset repair tasks in the Hardware Asset Workspace](record-repair-time-ham-ws.md)
 
 **Related topics**  
 

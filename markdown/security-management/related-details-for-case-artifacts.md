@@ -13,15 +13,15 @@ breadcrumb: [Security artifact analysis, Security Case Management, Threat Intell
 
 As you add artifacts to a case, additional related details for each artifact may also be automatically added. For example, if you add a security incident, it may contain affected CIs and user records. You can quickly view the related details for a selected artifact without leaving the list of artifacts.
 
--   **[View related details for a security incident artifact](../task/view-related-details-for-sec-inc-artifact.md)**  
+-   **[View related details for a security incident artifact](view-related-details-for-sec-inc-artifact.md)**  
 If your case includes security incident artifacts, you can view any related details contained in each security incident referenced by the case.
--   **[View related details for a configuration item artifact](../task/view-related-details-for-ci-artifact.md)**  
+-   **[View related details for a configuration item artifact](view-related-details-for-ci-artifact.md)**  
 If your case includes configuration item artifacts, you can view any related details contained in each CI referenced by the case.
--   **[View related details for an IoC artifact](../task/view-related-details-for-ioc-artifact.md)**  
+-   **[View related details for an IoC artifact](view-related-details-for-ioc-artifact.md)**  
 If your case includes indicators of compromise \(IoC\) artifacts, you can view any related details contained in each IoC referenced by the case.
--   **[View related details for an affected user artifact](../task/view-related-details-for-user-artifact.md)**  
+-   **[View related details for an affected user artifact](view-related-details-for-user-artifact.md)**  
 If your case includes affected user artifacts, you can view any related details contained in each affected user referenced by the case.
--   **[View related details for an observable artifact](../task/view-related-details-for-observ-artifact.md)**  
+-   **[View related details for an observable artifact](view-related-details-for-observ-artifact.md)**  
 If your case includes observable artifacts, you can view any related details contained in each observable referenced by the case.
 
 **Parent Topic:**[Security artifact analysis](sec-artifact-analysis.md)
@@ -31,7 +31,7 @@ If your case includes observable artifacts, you can view any related details con
 
 [Security artifact exclusion and inclusion](artifact-inclusion-exclusion.md)
 
-[Annotate security artifacts](../task/annotate-artifacts.md)
+[Annotate security artifacts](annotate-artifacts.md)
 
-[Search for security artifacts](../task/search-for-artifacts.md)
+[Search for security artifacts](search-for-artifacts.md)
 

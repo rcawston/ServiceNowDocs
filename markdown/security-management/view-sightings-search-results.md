@@ -67,5 +67,5 @@ You can share local sightings details or results that are associated with a part
 -   **[Share observables from a security incident](share-observable.md)**  
 Observables can be shared from a security incident in Security Incident Response to members in your trusted circle.
 
-**Parent Topic:**[Create sightings search configuration records](../../security-incident-response/task/sightings-search-configurations.md)
+**Parent Topic:**[Create sightings search configuration records](sightings-search-configurations.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 Use one or more of these methods in any combination to define the network or network segment for Discovery to query. You can include or exclude specific IP ranges from your query.
 
-**Note:** If you do not know the IP addresses in the network, run [Network discovery](../concept/c_NetworkDiscovery.md#) first to determine the IP networks. Then, convert the IP networks into IP address range sets.
+**Note:** If you do not know the IP addresses in the network, run [Network discovery](c_NetworkDiscovery.md#) first to determine the IP networks. Then, convert the IP networks into IP address range sets.
 
 If you have integrations which populate sys\_metadata and sys\_update\_xml tables, make sure to clear the update and metadata records after the discovery\_range\_item or discovery\_range\_item\_ip import occurs.
 
@@ -55,7 +55,7 @@ IP network
 
 </td><td>
 
-You can also scan an entire IP network. [An IP network](../concept/c_NetworkDiscovery.md#) includes the range of available IP addresses in that network. The scan also includes the network address \(the lowest address in the range\) and the broadcast address \(the highest address in the range\). After you [run network discovery](../concept/c_NetworkDiscovery.md#), [convert the IP networks that were found into range sets](../concept/c_NetworkDiscovery.md#)for use in discovering other devices.
+You can also scan an entire IP network. [An IP network](c_NetworkDiscovery.md#) includes the range of available IP addresses in that network. The scan also includes the network address \(the lowest address in the range\) and the broadcast address \(the highest address in the range\). After you [run network discovery](c_NetworkDiscovery.md#), [convert the IP networks that were found into range sets](c_NetworkDiscovery.md#)for use in discovering other devices.
 
  IP networks are represented in CIDR notation. Examples of CIDR notation include:
 
@@ -74,7 +74,7 @@ You can also scan an entire IP network. [An IP network](../concept/c_NetworkDisc
  This built-in control makes IP networks the best method of defining which IP address ranges to query.
 
 </td></tr></tbody>
-</table>After you define your IP collections, you can use Discovery generic attributes to automatically set field values on CIs discovered within a schedule, range set, or IP address range. For example, you can assign different locations to CIs based on which IP range they were discovered in. For more information, see [Define CI field attributes](../task/define-ci-attributes.md).
+</table>After you define your IP collections, you can use Discovery generic attributes to automatically set field values on CIs discovered within a schedule, range set, or IP address range. For example, you can assign different locations to CIs based on which IP range they were discovered in. For more information, see [Define CI field attributes](define-ci-attributes.md).
 
 ## IP address selection properties
 
@@ -111,7 +111,7 @@ Enforce unique IP addresses: Ignores the IP address after Discovery encounters s
 -   Default value false
 
 </td></tr></tbody>
-</table>**Note:** After you define your IP collections, you can use Discovery generic attributes to automatically set field values on CIs discovered within a schedule, range set, or IP address range. For example, you can assign different locations to CIs based on which IP range they were discovered in. For more information, see [Define CI field attributes](../task/define-ci-attributes.md).
+</table>**Note:** After you define your IP collections, you can use Discovery generic attributes to automatically set field values on CIs discovered within a schedule, range set, or IP address range. For example, you can assign different locations to CIs based on which IP range they were discovered in. For more information, see [Define CI field attributes](define-ci-attributes.md).
 
 ## Create a Quick IP range for a Discovery schedule
 
@@ -119,7 +119,7 @@ Quick ranges allow administrators to define IP addresses to scan in a single com
 
 ### Before you begin
 
-Only MID Servers that are up and validated are used with quick ranges. The MID Servers must specify the Discovery application \(or ALL applications\) and have IP ranges configured if you use the auto-select feature on the [Discovery schedule](../task/t_CreateADiscoverySchedule.md#).
+Only MID Servers that are up and validated are used with quick ranges. The MID Servers must specify the Discovery application \(or ALL applications\) and have IP ranges configured if you use the auto-select feature on the [Discovery schedule](t_CreateADiscoverySchedule.md#).
 
 Role required: discovery\_admin
 
@@ -164,7 +164,7 @@ Role required: discovery\_admin
 
 Common groups of IP addresses, known as [ranges](discovery-ip-address-configuration.md#) can be used in Advanced Discovery schedules.
 
-**Note:** You can also use IPAM integration for entering large numbers of IP networks into Discovery schedules. See [IPAM Integration](../../cloud-management-v2/concept/IPAM-integration.md) for more information.
+**Note:** You can also use IPAM integration for entering large numbers of IP networks into Discovery schedules. See [IPAM Integration](../cloud-configuration-governance/IPAM-integration.md) for more information.
 
 Use a data source that can be mapped. Include these fields:
 

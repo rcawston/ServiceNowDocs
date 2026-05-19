@@ -28,7 +28,7 @@ The following items are installed with Customer Request for Quote:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Customer Request for Quote](../reference/components-install-with-customer-request-for-quote.md).
+For more information, see [Components installed with Customer Request for Quote](components-install-with-customer-request-for-quote.md).
 
 ## Procedure
 

@@ -105,12 +105,12 @@ Add a comment on the conditions being set.
 
 You can now run the skipped record rules either automatically during an upgrade or can run on demand on the skipped records. See [Execute a skipped record rule](uc-execute-skipped-record-rule.md#) for more information.
 
-**Parent Topic:**[Administering Upgrade Center](../reference/uc-administration.md)
+**Parent Topic:**[Administering Upgrade Center](uc-administration.md)
 
 **Related topics**  
 
 
-[Managing upgrade risk](../concept/uc-manage-upgrade-risk.md)
+[Managing upgrade risk](uc-manage-upgrade-risk.md)
 
 [Execute a skipped record rule](uc-execute-skipped-record-rule.md#)
 

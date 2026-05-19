@@ -53,5 +53,5 @@ By default, you can import data related to carbon emissions, renewable energy, a
 
 The new mapping is ready to import data.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](../../esg-management-reporting/concept/integrate-esg-with-watershed.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](integrate-esg-with-watershed.md)
 

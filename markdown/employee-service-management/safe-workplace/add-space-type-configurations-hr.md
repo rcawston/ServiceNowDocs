@@ -45,5 +45,5 @@ Role required:sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
 The space type is configured. You can select this space type while creating a space or a type mapping.
 
-**Parent Topic:**[Providing your workplace data](../concept/providing-your-workplace-data.md)
+**Parent Topic:**[Providing your workplace data](providing-your-workplace-data.md)
 

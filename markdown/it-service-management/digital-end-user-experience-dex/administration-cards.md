@@ -93,7 +93,7 @@ System compliance
 
 </td><td>
 
-Configure compliance system policies, manage applications, and set up metric rules for compliance-related thresholds.For more information, see [Manage your system compliance report](../task/manage-compliance-report.md).
+Configure compliance system policies, manage applications, and set up metric rules for compliance-related thresholds.For more information, see [Manage your system compliance report](manage-compliance-report.md).
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ File management
 
 </td><td>
 
-Configure and manage the executable files available on the end-user devices.For more information, see [Set up file management](../task/set-up-file-mgmt.md).
+Configure and manage the executable files available on the end-user devices.For more information, see [Set up file management](set-up-file-mgmt.md).
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Windows registry configuration
 
 Configure the Windows registry keys to identify and manage any mismatch in end-user devices.**Note:** Select the registry key path to edit the key by modifying the path or expected value. You can also delete the key.
 
-For more information, see [Set up Windows registry keys](../task/set-up-win-registry-keys.md).
+For more information, see [Set up Windows registry keys](set-up-win-registry-keys.md).
 
 </td></tr><tr><td>
 
@@ -163,10 +163,10 @@ Desktop Assistant usage
 
 </td><td>
 
-Get an insight of Desktop Assistant usage across all your organization's employees. For more information, see [View Desktop Assistant usage metrics](../task/view-da-usage-metrics.md).
+Get an insight of Desktop Assistant usage across all your organization's employees. For more information, see [View Desktop Assistant usage metrics](view-da-usage-metrics.md).
 
 </td></tr></tbody>
-</table>To return to the administration details page, see [DEX Administration](../concept/dex-workspace-administration-tab.md).
+</table>To return to the administration details page, see [DEX Administration](dex-workspace-administration-tab.md).
 
 -   **[Application management card](app-mngmt-card.md)**  
 The Application management card shows the list of the used applications, application type, end-user OS, and whether an application is included in the metrics or compliance monitoring.

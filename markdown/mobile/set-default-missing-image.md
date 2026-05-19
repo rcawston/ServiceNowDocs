@@ -79,5 +79,5 @@ Value
 &lt;`file-name`&gt;**Note:** Match &lt;`file-name`&gt; to the file name of the image that you have uploaded.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+</table>**Parent Topic:**[Mobile system property configurations](additional-mobile-configuration.md)
 

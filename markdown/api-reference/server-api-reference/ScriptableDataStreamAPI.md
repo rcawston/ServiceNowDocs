@@ -17,8 +17,8 @@ The ScriptableDataStream API provides methods to interact with a stream of data.
 
 This class can only be used in a server-side script after retrieving a ScriptableDataStream object using one of these APIs:
 
--   The executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](../../ScriptableFlowAPI/concept/ScriptableFlowAPI.md#).
--   The getDataStream\(\) method in the ScriptableFlowRunnerResult class. See [ScriptableFlowRunnerResult](../../ScriptableFlowRunnerResultScoped/concept/ScriptableFlowRunnerResultScopedAPI.md#).
+-   The executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](ScriptableFlowAPI.md#).
+-   The getDataStream\(\) method in the ScriptableFlowRunnerResult class. See [ScriptableFlowRunnerResult](ScriptableFlowRunnerResultScopedAPI.md#).
 
 After retrieving a ScriptableDataStream object, call the methods in this specific order:
 
@@ -31,13 +31,13 @@ This class runs is in the `sn_fd` namespace.
 
 **Note:** Always wrap data stream logic in a `try/catch` block to catch errors. Always include a `finally` statement that ends with the close\(\) method from the ScriptableDataStream class to close the data stream and prevent performance issues.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ScriptableDataStream - close\(\)
 
 Closes the connection to a data stream. Always call this method after performing any desired operations on a data stream.
 
-You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](../../ScriptableFlowAPI/concept/ScriptableFlowAPI.md#).
+You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](ScriptableFlowAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -80,7 +80,7 @@ You can only call this method on a ScriptableDataStream object returned from the
 
 Returns the current index of an item in a data stream.
 
-You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](../../ScriptableFlowAPI/concept/ScriptableFlowAPI.md#).
+You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](ScriptableFlowAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -129,7 +129,7 @@ You can only call this method on a ScriptableDataStream object returned from the
 
 Returns the current index of an item within the current page in a data stream.
 
-You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](../../ScriptableFlowAPI/concept/ScriptableFlowAPI.md#).
+You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](ScriptableFlowAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -172,7 +172,7 @@ You can only call this method on a ScriptableDataStream object returned from the
 
 Returns the current index of a page in a data stream.
 
-You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](../../ScriptableFlowAPI/concept/ScriptableFlowAPI.md#).
+You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](ScriptableFlowAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -222,7 +222,7 @@ You can only call this method on a ScriptableDataStream object returned from the
 
 Returns true if there are more items in the data stream.
 
-You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](../../ScriptableFlowAPI/concept/ScriptableFlowAPI.md#).
+You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](ScriptableFlowAPI.md#).
 
 **Note:** By default, the instance waits for 600 seconds to retrieve a single page of data from a MID Server. If you encounter a timeout when running a Data Stream action through a MID Server, change this default by increasing the **datastream\_alternative\_env\_fetch\_page\_timeout\_seconds** system property.
 
@@ -290,7 +290,7 @@ Flag that determines whether there are more items in the data stream. Values inc
 
 Returns the next item in a data stream.
 
-You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](../../ScriptableFlowAPI/concept/ScriptableFlowAPI.md#).
+You can only call this method on a ScriptableDataStream object returned from the executeDataStreamAction\(\) method in the FlowAPI class. See [FlowAPI](ScriptableFlowAPI.md#).
 
 **Note:** By default, the instance waits for 600 seconds to retrieve a single page of data from a MID Server. If you encounter a timeout when running a Data Stream action through a MID Server, change this default by increasing the **datastream\_alternative\_env\_fetch\_page\_timeout\_seconds** system property.
 

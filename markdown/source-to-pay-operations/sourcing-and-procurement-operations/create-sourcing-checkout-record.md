@@ -67,7 +67,7 @@ Utilize record producers to create a custom set of questions to ask Shoppers dur
 8.  Select **Review and Submit**.
 
 
-**Parent Topic:**[Sourcing checkout](../concept/sourcing-checkout.md)
+**Parent Topic:**[Sourcing checkout](sourcing-checkout.md)
 
 **Related topics**  
 

@@ -28,7 +28,7 @@ You can define the complexity of the password based on the following rules:
 -   Number of symbols: The default count is 1.
 -   Numbers. The default number is 1.
 
-To configure the properties for the Password component, see [Properties of the Random components](../reference/properties-random-component.md).
+To configure the properties for the Password component, see [Properties of the Random components](properties-random-component.md).
 
 ## Procedure
 
@@ -53,5 +53,5 @@ To configure the properties for the Password component, see [Properties of the R
 5.  To test the component, right-click the component bar and then click **Run From Here**.
 
 
-**Parent Topic:**[Random](../concept/random.md)
+**Parent Topic:**[Random](random.md)
 

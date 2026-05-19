@@ -77,5 +77,5 @@ Following is the information that is synced: who’s on your Impact Squad, your 
 |start\_date|sn\_impact\_cust\_impact\_objective|start\_date|x\_snc\_octane\_bvmp\_business\_objective\_data|
 |name|sn\_impact\_cust\_impact\_objective|title|x\_snc\_octane\_bvmp\_business\_objective\_data|
 
-**Parent Topic:**[Table and field level mapping](../concept/table-field-level-mapping.md)
+**Parent Topic:**[Table and field level mapping](table-field-level-mapping.md)
 

@@ -37,7 +37,7 @@ When linking a search source to a search profile, you can specify options that c
 
 4.  On the Search Profile - Search Source Mapping form, fill in the fields.
 
-    For a description of the field values, see [Search Profile - Search Source Mapping form](../reference/search-prof-src-mapping-form-ais.md).
+    For a description of the field values, see [Search Profile - Search Source Mapping form](search-prof-src-mapping-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -50,5 +50,5 @@ The new search source appears in the Search Sources related list. Search query r
 
 Derived auto-correction term lists for the search profile's typo handling dictionary don't automatically update to reflect changes to the set of searchable records. To update these auto-correction term lists, publish the search profile you edited. For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Search profiles in AI Search](../concept/defining-search-profiles-ais.md)
+**Parent Topic:**[Search profiles in AI Search](defining-search-profiles-ais.md)
 

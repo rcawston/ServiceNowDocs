@@ -32,7 +32,7 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-cloud-download.svg)Install Now Assist for App Engine.](../task/install-now-assist-for-app-engine.md)
+[Install![](../../../reuse/icons/brand-icons/bus-cloud-download.svg)Install Now Assist for App Engine.](install-now-assist-for-app-engine.md)
 
 </td></tr><tr><td>
 

@@ -103,7 +103,7 @@ A triage board is created and can be accessed from the Backlog section of the Ag
 
 -   [Triage items and add them to a backlog in Agile Development 2.0](add-triage-board-items-to-backlog-agile-development-2.md)
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 
 **Related topics**  
 

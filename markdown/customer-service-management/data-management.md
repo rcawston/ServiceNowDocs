@@ -23,7 +23,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Activate Customer Service Management](../task/t_ActivateCustomerService.md)
+[Activate Customer Service Management](t_ActivateCustomerService.md)
 
 </td><td>
 
@@ -31,7 +31,7 @@ As an admin, activate the Customer Service plugin \(com.sn\_customerservice\). T
 
 </td></tr><tr><td>
 
-[Plugins activated with Customer Service Management](../reference/plugins-activated-with-csm.md)
+[Plugins activated with Customer Service Management](plugins-activated-with-csm.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Refer the list of related CSM plugins that are activated after activating the Cu
 
 </td></tr><tr><td>
 
-[Additional plugins for Customer Service Management](../reference/r_CustServMgmtAddtlPluginsTable.md)
+[Additional plugins for Customer Service Management](r_CustServMgmtAddtlPluginsTable.md)
 
 </td><td>
 
@@ -55,7 +55,7 @@ Customize settings for several different features, including email communication
 
 </td></tr><tr><td>
 
-[Configure foundation data](../task/configure-csm-foundation-data.md)
+[Configure foundation data](configure-csm-foundation-data.md)
 
 </td><td>
 

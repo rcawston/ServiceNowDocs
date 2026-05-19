@@ -40,7 +40,7 @@ Role required: sn\_align\_core.ap\_read\_only
     ![Delete portfolio plan view.](../images/delete-view-spw.gif)
 
 
-**Parent Topic:**[Managing portfolio plan views in Strategic Planning Workspace](../concept/managing-portfolio-plan-views-spw.md)
+**Parent Topic:**[Managing portfolio plan views in Strategic Planning Workspace](managing-portfolio-plan-views-spw.md)
 
 **Related topics**  
 

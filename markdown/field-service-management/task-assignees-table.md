@@ -25,5 +25,5 @@ The task assignees table shows all the crew members or equipment assigned to a g
 |Work duration|The total time spent working on the task including any pauses and breaks.|
 |Actual work duration|The total time spent working on the task not including any pauses and breaks.|
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 

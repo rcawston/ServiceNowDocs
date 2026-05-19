@@ -66,7 +66,7 @@ View scan findings
 
 </td><td>
 
-View the findings specific to the quarantine scan policy, including links to flagged attachments and their status.**Note:** To work with the findings themselves, including the release of quarantined attachments, refer to [Attachment scan findings](../task/attachment-findings.md).
+View the findings specific to the quarantine scan policy, including links to flagged attachments and their status.**Note:** To work with the findings themselves, including the release of quarantined attachments, refer to [Attachment scan findings](attachment-findings.md).
 
 </td></tr><tr><td>
 

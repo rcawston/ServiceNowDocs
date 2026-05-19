@@ -207,5 +207,5 @@ Notes about the task that are visible to all users within your organization.
 
 After you successfully buy out the enterprise asset, the **Date removed** field on the lease contract record automatically updates with the date on which you completed all buyout tasks. Following this date, you can no longer track the enterprise asset through this lease contract record.
 
-**Parent Topic:**[Managing expiring contracts for leased enterprise assets](../concept/managing-expiring-contracts-leased-assets.md)
+**Parent Topic:**[Managing expiring contracts for leased enterprise assets](managing-expiring-contracts-leased-assets.md)
 

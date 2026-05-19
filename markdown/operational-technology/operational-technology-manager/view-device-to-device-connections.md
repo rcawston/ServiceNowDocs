@@ -184,5 +184,5 @@ Source that's providing the connection information.
 
 To view a device-to-device connection for an OT device, you can access the Device to Device Connections related list in the OT device record. For more information about related items and related lists for OT devices, see [Edit or view OT devices after import or discovery](view-ot-assets.md).
 
-**Parent Topic:**[OT device related items and related lists](../reference/ot-assets-related-links-and-lists.md)
+**Parent Topic:**[OT device related items and related lists](ot-assets-related-links-and-lists.md)
 

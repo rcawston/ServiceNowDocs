@@ -63,5 +63,5 @@ Role required:
 5.  In Action 11, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Credential Sniffing](../concept/playbook-credential-sniffing.md)
+**Parent Topic:**[Playbook for Credential Sniffing](playbook-credential-sniffing.md)
 

@@ -236,5 +236,5 @@ Category of the metric.
 **Related topics**  
 
 
-[Add or edit an application indicator](../../task/eaw-task/eaw-create-indicator.md)
+[Add or edit an application indicator](eaw-create-indicator.md)
 

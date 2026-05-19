@@ -23,11 +23,11 @@ Role required: admin
 
 1.  Configure the attributes to generate labor costs in financials based on the resource assignments on the work items.
 
-    For more information, see [Using the Planning attributes](../../project-management/concept/planning-attributes.md) and [Create or edit planning attributes](../../project-management/task/configure-planning-attributes.md#).
+    For more information, see [Using the Planning attributes](../project-management/planning-attributes.md) and [Create or edit planning attributes](../project-management/configure-planning-attributes.md#).
 
 2.  Generate default mapping configurations to create table maps.
 
-    For more information, see [Generate default mapping configurations](../../apw-internal-integrations/task/generate-default-mapping-configurations.md).
+    For more information, see [Generate default mapping configurations](generate-default-mapping-configurations.md).
 
 3.  Enable financials for epics to work on financial planning.
 
@@ -71,7 +71,7 @@ Role required: admin
 
 13. Activate and define a scheduled job to migrate financial baselines for your planning items.
 
-    For more information, see [Migrate financial baselines to Next Experience](../../project-management/task/migrate-fin-baselines-projects.md).
+    For more information, see [Migrate financial baselines to Next Experience](../project-management/migrate-fin-baselines-projects.md).
 
 14. Activate and define scheduled job to automatically create financial baselines for your planning items at a defined cadence.
 

@@ -21,38 +21,38 @@ This video provides you with an overview of Benchmarks.Benchmarks Overview
 
 Explore![Explore](../../../reuse/icons/brand-icons/bus-explore.svg)
 
- -   [Benchmarks overview](../concept/c_BenchOverview.md)
--   [Benchmark KPIs](../concept/c_BenchKPIConfig.md)
--   [Domain separation and Benchmarks](../concept/domain-separation-benchmarks.md)
+ -   [Benchmarks overview](c_BenchOverview.md)
+-   [Benchmark KPIs](c_BenchKPIConfig.md)
+-   [Domain separation and Benchmarks](domain-separation-benchmarks.md)
 
 </td><td>
 
 **Set up**![Set up](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
- -   [Enable Benchmarks](../task/t_EnableBench.md)
--   [Configure KPI participation](../task/t_EnableABenchKPI.md)
+ -   [Enable Benchmarks](t_EnableBench.md)
+-   [Configure KPI participation](t_EnableABenchKPI.md)
 
 </td><td>
 
 **Administer**
 
- -   [Link or customize a benchmark KPI](../task/t_CustomBenchKPIConditions.md)
--   [Drill down within benchmark KPI data \(deprecated\)](../task/t_ViewBenchKPIIndScore.md)
+ -   [Link or customize a benchmark KPI](t_CustomBenchKPIConditions.md)
+-   [Drill down within benchmark KPI data \(deprecated\)](t_ViewBenchKPIIndScore.md)
 
 </td></tr><tr><td>
 
 Use ![Use](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)
 
- -   [Deprecated Benchmarks dashboard](../concept/c_BenchDashboard.md)
--   [View benchmark KPI data \(deprecated\)](../task/t_ViewBenchKPIData.md)
--   [Benchmarks KPI performance trend and recommendations \(deprecated\)](../concept/bench-kpi-trend-recommend.md)
--   [ITSM dashboards](../concept/c_BenchDashboard.md)
+ -   [Deprecated Benchmarks dashboard](c_BenchDashboard.md)
+-   [View benchmark KPI data \(deprecated\)](t_ViewBenchKPIData.md)
+-   [Benchmarks KPI performance trend and recommendations \(deprecated\)](bench-kpi-trend-recommend.md)
+-   [ITSM dashboards](c_BenchDashboard.md)
 
 </td><td>
 
 **Troubleshoot and get help** ![Troubleshoot](../../../reuse/icons/brand-icons/bus-learn.svg)
 
- -   [Troubleshooting Benchmarks errors](../concept/c_BenchTroubleshooting.md)
+ -   [Troubleshooting Benchmarks errors](c_BenchTroubleshooting.md)
 -   [Ask or answer questions in the Benchmarks forum](https://community.servicenow.com/community/it-service-management?tagSet=2287)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)

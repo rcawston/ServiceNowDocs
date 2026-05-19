@@ -29,7 +29,7 @@ If actual effort is updated on an engagement project, then that value gets copie
 
 ## Resource plan rollup
 
-With Project Portfolio Management, you can add resource plans and cost plans to an engagement. To learn how to create an engagement with advanced planning, see [Create an engagement with advanced planning](../task/creating-an-engagement-with-advance-planning.md)
+With Project Portfolio Management, you can add resource plans and cost plans to an engagement. To learn how to create an engagement with advanced planning, see [Create an engagement with advanced planning](creating-an-engagement-with-advance-planning.md)
 
 After you create a resource plan and it is in the **Allocated** state, all the confirmed and allocated hours from the resource plan are summed up in the planned resources on the engagement project. When a resource plan is created, you cannot manually enter the hours in the **Planned resources** field on the engagement form as the values get automatically rolled up. To manually enter hours in the **Planned resources** field, you must delete the resource plan that you have created.
 

@@ -30,7 +30,7 @@ However, a user without scrum roles can only access these requests from the **En
 
 **Note:** The administrator must grant the feature\_user role to all users who are expected to create an enhancement request in the Agile Development application.
 
-For information on how to create enhancement requests, see [Create an enhancement request in Agile Development 2.0](../task/create-enhancement-request.md).
+For information on how to create enhancement requests, see [Create an enhancement request in Agile Development 2.0](create-enhancement-request.md).
 
 After an enhancement request is created, users with scrum\_story\_creator or scrum\_admin role can:
 

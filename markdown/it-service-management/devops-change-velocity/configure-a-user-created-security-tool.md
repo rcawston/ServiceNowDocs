@@ -159,5 +159,5 @@ By default, when you onboard your tool from workspace, you have to enter the man
     ![JSON entry in the securityToolsUIConfig UX page property](../image/cus-sec-tool-05.png)
 
 
-**Parent Topic:**[DevOps user-created security tool integration](../concept/devops-security-tool-integration.md)
+**Parent Topic:**[DevOps user-created security tool integration](devops-security-tool-integration.md)
 

@@ -45,5 +45,5 @@ Add existing or new diagnostic scripts to scan the data in your application for 
 -   **[Create diagnostic scan and map scripts for resource](create-diagnostic-scan-map-scripts-rm.md)**  
 Create a diagnostics scan and map diagnostic feature with diagnostic and fix scripts. You can create a diagnostic scan to execute diagnostic scripts to check the health of data in your application. Use the fix scripts to rectify any corrupt or invalid data that the diagnostic scan identifies.
 
-**Parent Topic:**[Resource Management classic](../concept/c_ResourceManagement.md)
+**Parent Topic:**[Resource Management classic](c_ResourceManagement.md)
 

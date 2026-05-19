@@ -58,7 +58,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 9.  **Activate** the policy if you want to view findings.
 
-10. See [Security Posture Control: Configuring and viewing your findings](../concept/spc-view-findings.md) for more information about viewing the findings from your policy.
+10. See [Security Posture Control: Configuring and viewing your findings](spc-view-findings.md) for more information about viewing the findings from your policy.
 
 11. Open a record on the list and select the Mitigation controls Mitigated vulnerable items tabs.
 

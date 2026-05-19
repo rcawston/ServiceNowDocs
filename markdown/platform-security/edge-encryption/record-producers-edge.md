@@ -21,7 +21,7 @@ Role required: security\_admin
 
 Record producers allow end users to create task-based records, such as incident records, from the Service Catalog and Service Portal. If a record producer attempts to insert data into a field marked for encryption, an invalid insert message displays and the data is not saved to the field.
 
-Encrypting data from a record producer requires an encryption configuration defined for the target field. Check that you have created an encryption configuration for the target field and table before creating an encryption rule from a record producer. See [Create a field encryption configuration](../concept/c_ConfigureCloudEdge.md#). To encrypt attachments from a record producer, [Configure attachment encryption](../concept/c_EncryptingAttachments.md#).
+Encrypting data from a record producer requires an encryption configuration defined for the target field. Check that you have created an encryption configuration for the target field and table before creating an encryption rule from a record producer. See [Create a field encryption configuration](c_ConfigureCloudEdge.md#). To encrypt attachments from a record producer, [Configure attachment encryption](c_EncryptingAttachments.md#).
 
 ## Procedure
 
@@ -93,5 +93,5 @@ Encrypting data from a record producer requires an encryption configuration defi
 
 The two encryption rules enable the record producer to insert values into fields marked for encryption from either the Service Catalog or Service Portal.
 
-**Parent Topic:**[Configuring Edge Encryption](../concept/edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](edge-config.md)
 

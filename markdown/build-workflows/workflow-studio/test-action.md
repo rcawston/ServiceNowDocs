@@ -47,7 +47,7 @@ A user with the flow\_designer role should always test actions on non-production
 
 ## What to do next
 
-Click `Action has been executed. To view the action, click here` to view the action execution details. See [Flow execution details](../concept/flow-execution-details.md) for information about the executions.
+Click `Action has been executed. To view the action, click here` to view the action execution details. See [Flow execution details](flow-execution-details.md) for information about the executions.
 
 **Note:** Users must have the flow\_operator or admin role to view the executions.
 

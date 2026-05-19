@@ -97,8 +97,8 @@ References
 
 </td><td>
 
--   [OAuth 2.0](../../security/concept/c_OAuthApplications.md)
--   [Manage OAuth tokens](../../security/task/t_ManageTokens.md)
+-   [OAuth 2.0](../authentication/c_OAuthApplications.md)
+-   [Manage OAuth tokens](../authentication/t_ManageTokens.md)
 
 </td></tr><tr><td>
 

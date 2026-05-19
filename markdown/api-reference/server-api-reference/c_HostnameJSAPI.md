@@ -17,7 +17,7 @@ The HostnameJS script include provides methods to format host names according to
 
 Use with any server-side script when you need to format host names.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## HostnameJS - format\(String hostname, String source\)
 

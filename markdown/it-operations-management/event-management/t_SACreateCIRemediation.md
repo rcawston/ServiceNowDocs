@@ -55,5 +55,5 @@ A CI remediation rule associates a set of CIs that might experience problems wit
 
 In service maps that are opened from the Event Management dashboard, this remediation can be applied to any CIs that match the filter conditions.
 
-**Parent Topic:**[CI Remediation](../concept/ci-remediation.md)
+**Parent Topic:**[CI Remediation](ci-remediation.md)
 

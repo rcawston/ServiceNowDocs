@@ -115,10 +115,10 @@ Role required: none
         The methods appear in the Object Explorer pane.
 
 
-**Parent Topic:**[Configure the Terminal connector](../concept/configure-terminal-connector.md)
+**Parent Topic:**[Configure the Terminal connector](configure-terminal-connector.md)
 
 **Related topics**  
 
 
-[IBM Personal Communications emulator methods](../reference/pcomm-terminal-methods.md)
+[IBM Personal Communications emulator methods](pcomm-terminal-methods.md)
 

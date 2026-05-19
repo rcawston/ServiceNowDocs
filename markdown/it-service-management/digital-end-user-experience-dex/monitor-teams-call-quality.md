@@ -19,8 +19,8 @@ Enable advanced monitoring of Microsoft Teams call quality with DEX for Microsof
 
 Role required: admin
 
--   Configure advanced monitoring for Microsoft Teams. For more details, see [Enable application monitoring](../../digital-end-user-experience/task/enable-app-monitor.md).
--   Set up DEX for Microsoft 365 application. For more information, see [Configuring DEX for Microsoft 365](../concept/configuring-dex-for-microsoft-365.md).
+-   Configure advanced monitoring for Microsoft Teams. For more details, see [Enable application monitoring](enable-app-monitor.md).
+-   Set up DEX for Microsoft 365 application. For more information, see [Configuring DEX for Microsoft 365](configuring-dex-for-microsoft-365.md).
 
 ## About this task
 

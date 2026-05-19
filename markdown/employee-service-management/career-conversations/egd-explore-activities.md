@@ -15,7 +15,7 @@ breadcrumb: [Career Conversations, Growth Experiences, HR Service Delivery, Empl
 
 The Career Conversations app provides employees and managers with the ability to create and track conversations between managers and employees.
 
-Career Conversations is an application closely integrated with Talent Development Core. It is used to manage conversations between employees and manager. It also interacts with the [Talent Development Core application](egd-landing-page.md) to provide a complete career growth and development solution.
+Career Conversations is an application closely integrated with Talent Development Core. It is used to manage conversations between employees and manager. It also interacts with the [Talent Development Core application](../talent-development-core/egd-landing-page.md) to provide a complete career growth and development solution.
 
 ## Discover and get apps on the Store
 
@@ -26,5 +26,5 @@ For cumulative release notes information for all released apps, see the [Service
 -   **[Career Conversations](egd-activities-conversations-module.md)**  
 The Career Conversations application supports dialogue between subordinates and their leaders. This application enables your employees to engage in meaningful conversations that are focused on the employee's growth and development.
 
-**Parent Topic:**[HR Service Delivery](../../human-resources/concept/hr-service-delivery.md)
+**Parent Topic:**[HR Service Delivery](../hr-service-delivery/hr-service-delivery.md)
 

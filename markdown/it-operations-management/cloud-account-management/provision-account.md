@@ -17,7 +17,7 @@ Provision a cloud account as an admin through Cloud Workspace.
 
 ## Before you begin
 
-Confirm that the cloud context has been configured. For more information, see [Creating configurations](../concept/cam-config.md).
+Confirm that the cloud context has been configured. For more information, see [Creating configurations](cam-config.md).
 
 Discovery must have been performed on the cloud admin portal.
 

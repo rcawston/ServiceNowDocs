@@ -74,9 +74,9 @@ Suggests related ideas based on the **Title** and **Description** fields. You ca
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Train the similarity solution for Innovation Management to find similar ideas](../task/train-similarity-solution-im.md)
+[Train the similarity solution for Innovation Management to find similar ideas](train-similarity-solution-im.md)
 
 [Submit an idea using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-idea.md)
 
-[PPM PIWB template - Find similar ideas](../../itbm-PI-workbench/task/ppm-piwb-idea.md)
+[PPM PIWB template - Find similar ideas](ppm-piwb-idea.md)
 

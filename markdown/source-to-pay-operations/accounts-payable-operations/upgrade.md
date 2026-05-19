@@ -21,7 +21,7 @@ Role required: admin
 
 ## Procedure
 
-1.  When you upgrade Accounts Payable Operations from any version to the latest version, follow the steps mentioned in [Configuring the invoice ingestion flows using Accounts Payable Operations integration with Document Intelligence](../concept/config-apo-docintel-integration.md) with the latest use case- **DO NOT USE- Invoice Processing Vx** SYS DI Task Definition.
+1.  When you upgrade Accounts Payable Operations from any version to the latest version, follow the steps mentioned in [Configuring the invoice ingestion flows using Accounts Payable Operations integration with Document Intelligence](config-apo-docintel-integration.md) with the latest use case- **DO NOT USE- Invoice Processing Vx** SYS DI Task Definition.
 
     X refers to the latest version.
 

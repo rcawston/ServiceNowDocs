@@ -34,5 +34,5 @@ Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM
 -   **[Enterprise Asset Management for Providers](eam-providers.md)**  
 Enterprise Asset Management for Providers is a licensable application that enables Device as a Service \(DaaS\) providers, vendors, and manufacturers to manage all DaaS-related activities, including the fulfillment of Return Merchandise Authorization \(RMA\) requests, from a single location.
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 

@@ -46,7 +46,7 @@ The following example shows a characteristic hierarchy for Routing Addresses, wh
 
 Defining a hierarchical attribute structure involves setting up the parent attribute, for example routing addresses, as an object type. You then define the characteristic relationships between the parent attribute and child attributes to establish the hierarchical structure and the order in which the child characteristics display in the product configurator.
 
-For details on defining characteristics, see [Create product characteristics and characteristic options](../task/som-product-config-add-characteristics.md)
+For details on defining characteristics, see [Create product characteristics and characteristic options](som-product-config-add-characteristics.md)
 
 .
 

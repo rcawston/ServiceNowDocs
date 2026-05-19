@@ -112,5 +112,5 @@ Needs to be able to customize views.
 -   Age
 -   Service
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](fso-content-pack.md)
 

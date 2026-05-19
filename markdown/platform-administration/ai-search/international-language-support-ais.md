@@ -17,9 +17,9 @@ AI Search supports indexing and search in all languages offered by the ServiceNo
 
 Internationalization support is automatically enabled and isn't configurable.
 
-To view the full list of languages offered as ServiceNow AI Platform plugins and supported in AI Search, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+To view the full list of languages offered as ServiceNow AI Platform plugins and supported in AI Search, see [Activate a language](../system-localization/t_ActivateALanguage.md).
 
-**Note:** After you activate a new language plugin, you must reindex all indexed source content that you want to make searchable in the new language. For details on reindexing, see [Perform a full table index or reindex for a single AI Search indexed source](../task/index-single-source-ais.md).
+**Note:** After you activate a new language plugin, you must reindex all indexed source content that you want to make searchable in the new language. For details on reindexing, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
 
 Language settings determine how AI Search separates the text of indexed content and search queries into individual terms. This process, called tokenization, is handled differently for each supported language, using language-specific settings. For example, most languages use spaces and punctuation to separate words and sentences, but when tokenizing Chinese or Japanese text, AI Search instead uses contextual interpretation to correctly identify word and sentence breaks. When tokenizing Japanese text, AI Search additionally recognizes the nakaguro \(middle dot\) as a word separator.
 
@@ -126,7 +126,7 @@ AI Search performs language-specific lemma normalization for terms in indexed co
 
 </td><td>
 
-AI Search only evaluates activation for result improvement rules that have the same language as the search query or that have **All Languages** specified. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+AI Search only evaluates activation for result improvement rules that have the same language as the search query or that have **All Languages** specified. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](../system-localization/t_ActivateALanguage.md).
 
 </td></tr><tr><td>
 
@@ -134,7 +134,7 @@ AI Search only evaluates activation for result improvement rules that have the s
 
 </td><td>
 
-AI Search only considers stop words from dictionaries that have the same language as the search query. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+AI Search only considers stop words from dictionaries that have the same language as the search query. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](../system-localization/t_ActivateALanguage.md).
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ AI Search only considers stop words from dictionaries that have the same languag
 
 </td><td>
 
-AI Search only considers synonyms from dictionaries that have the same language as the search query. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+AI Search only considers synonyms from dictionaries that have the same language as the search query. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](../system-localization/t_ActivateALanguage.md).
 
 </td></tr><tr><td>
 
@@ -155,15 +155,15 @@ AI Search derives a separate list of auto-correction terms for each supported la
 </td></tr></tbody>
 </table>-   **[Searching translated content](searching-translated-content-ais.md)**  
 Understand how AI Search searches translated fields and documents.
--   **[Assign Knowledge article search languages by country](../task/assign-kb-srch-langs-country-ais.md)**  
+-   **[Assign Knowledge article search languages by country](assign-kb-srch-langs-country-ais.md)**  
 Improve multilingual search recall by defining a set of Knowledge article search languages for each user country. User searches can match Knowledge articles in any of the search languages specified for their country as well as in the language associated with their ServiceNow AI Platform® session.
--   **[Configure globally searchable knowledge articles](../task/configure-global-srch-kb-articles.md)**  
+-   **[Configure globally searchable knowledge articles](configure-global-srch-kb-articles.md)**  
 Define an encoded query for knowledge articles that you want to make searchable in any language.
--   **[Configure translation for knowledge article reference field values in facets](../task/translate-facet-field-values-kb.md)**  
+-   **[Configure translation for knowledge article reference field values in facets](translate-facet-field-values-kb.md)**  
 Specify whether facets should display knowledge article reference field values in the search user's session language. If you disable translation, facets display knowledge article reference field values in your instance's default language.
 -   **[AI Search interaction with fallback languages](interaction-fallback-language-ais.md)**  
 When a fallback language is configured for the user's session language, AI Search searches translated documents in both languages. Search uses the appropriate stop word, synonym, and typo handling dictionaries for the fallback language.
--   **[Enable a global fallback locale for translated content](../task/enable-global-fallback-lang-ais.md)**  
+-   **[Enable a global fallback locale for translated content](enable-global-fallback-lang-ais.md)**  
 Configure AI Search to match translated documents in a global fallback locale's language as well as the user's session language.
 -   **[Language filtering for external content](language-filtering-external-content.md)**  
 AI Search filters search results from external content connectors, showing only results in the user's session language, fallback language, and global fallback locale language.

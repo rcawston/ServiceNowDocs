@@ -42,7 +42,7 @@ Active
 
 </td><td>
 
-Enabling the **Active** check box makes the page variant available to the selected audience. The Front-line case page variant is active for new and upgrade customers.The active setting combined with the other page variant settings determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+Enabling the **Active** check box makes the page variant available to the selected audience. The Front-line case page variant is active for new and upgrade customers.The active setting combined with the other page variant settings determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Form header
 
 </td><td>
 
-The form header displays the case short description. Agents can quickly glance at the form header to see what the case is about.Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](../reference/csm-workspace-agent-actions.md#section_hhb_1tj_23c).
+The form header displays the case short description. Agents can quickly glance at the form header to see what the case is about.Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](csm-workspace-agent-actions.md#section_hhb_1tj_23c).
 
 </td></tr><tr><td>
 
@@ -228,7 +228,7 @@ The Front-line case page supports actions from the following Customer Service Ma
 -   Time Recording for Customer Service \(com.snc.csm\_time\_recording\)
 -   Omni-Experience Standard Feature Set
 
-If you are using any additional plugins, you must add the actions from those plugins to the Front-line case page action bar. For more information, see [Configure the Front-line case page action bar](../task/config-front-line-case-page-action-bar.md).
+If you are using any additional plugins, you must add the actions from those plugins to the Front-line case page action bar. For more information, see [Configure the Front-line case page action bar](config-front-line-case-page-action-bar.md).
 
 The **Create** action on the Front-line case page displays a list of available actions. Selecting an action from this list opens the record either in a sub-tab or in a modeless dialog. For more information, see [Create action layout group](csm-config-ws-action-layout-groups.md).
 
@@ -290,8 +290,8 @@ Using this component, agents can:
 
 To use the case summarization component with the Front-line case page, activate the Now Assist for Customer Service Management \(CSM\) application and configure the case summarization skill in the Now Assist Admin console. For more information, see:
 
--   [Activate Now Assist for Customer Service Management \(CSM\)](now-assist-csm-supporting-info.md)
--   [Configure the case summarization skill in the Now Assist Admin console](now-assist-csm-configuring.md).
+-   [Activate Now Assist for Customer Service Management \(CSM\)](now-assist-for-csm/now-assist-csm-supporting-info.md)
+-   [Configure the case summarization skill in the Now Assist Admin console](now-assist-for-csm/now-assist-csm-configuring.md).
 
 ## Activity stream component
 
@@ -372,7 +372,7 @@ Suggested Actions tab: This tab displays relevant actions to agents based on the
 -   If the plugin is uninstalled, the Suggested Actions tab is no longer available.
 
 
-For more information, see [Use AI search in Recommended Actions to resolve cases](../task/nba-use-ai-search.md).
+For more information, see [Use AI search in Recommended Actions to resolve cases](nba-use-ai-search.md).
 
 **Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
@@ -385,7 +385,7 @@ Record Information
 The Record Information tab includes the following information: record overview and SLAs.-   The **Overview** card displays relevant information about the record including account and contact, case priority, and state.
 -   The Task SLA cards component displays cards with the record SLA information, including time remaining, the SLA state, and any breaches. For more information, see [Task SLA cards component](csm-record-page-sla-card-component.md).
 
-**Note:** The cards that appear in the Record Information tab can be configured in the **Front-line Case Page Ribbon Config** ribbon configuration. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](../task/config-csm-config-ws-ribbon.md).
+**Note:** The cards that appear in the Record Information tab can be configured in the **Front-line Case Page Ribbon Config** ribbon configuration. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](config-csm-config-ws-ribbon.md).
 
 </td></tr><tr><td>
 

@@ -29,7 +29,7 @@ You can further define the encrypted **National tax ID \(encrypted\)** field by 
 
 And you can provide additional details by associating the country.
 
-**Note:** For more information on how to add the tax identification number for an employee, see [Add or modify an HR profile](../task/t_CreateOrModifyAUserProfile.md).
+**Note:** For more information on how to add the tax identification number for an employee, see [Add or modify an HR profile](t_CreateOrModifyAUserProfile.md).
 
 **Parent Topic:**[HR Profile](c_HRProfileRecords.md)
 

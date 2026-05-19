@@ -23,11 +23,11 @@ To query through multiple data sources, the Emergency Exposure Management requir
 
     Register and configure to scan Microsoft Outlook meeting data.
 
--   **[Contact Tracing](../../contact-tracing/task/install-contact-tracing.md#)**
+-   **[Contact Tracing](../contact-tracing/install-contact-tracing.md#)**
 
     Badge reader scan, user daily contact log, Wi-Fi access log, handheld or wearable device proximity data,and visitor data.
 
--   **[Employee Health Screening](../../employee-health-screening/task/install-emp-health-screening.md#) and Contact Tracing**
+-   **[Employee Health Screening](../safe-workplace/install-emp-health-screening.md#) and Contact Tracing**
 
     Scans visitor data.
 
@@ -44,7 +44,7 @@ Role required: sn\_imt\_diagnosis.diagnostics\_admin or admin
 
 ## About this task
 
-**Note:** You cannot create or run a diagnostic request for affected users who have not consented to use their data for contact tracing. For more information, see [User privacy consent for Contact Tracing](../../contact-tracing/concept/contact-tracing-user-privacy.md).
+**Note:** You cannot create or run a diagnostic request for affected users who have not consented to use their data for contact tracing. For more information, see [User privacy consent for Contact Tracing](../contact-tracing/contact-tracing-user-privacy.md).
 
 ## Procedure
 
@@ -122,7 +122,7 @@ The list of visitors who interacted with the affected user during the specified 
 
 Users who used the same Wi-Fi access points as the affected user during the specified dates.Wi-Fi access log data used to identify potentially impacted users depends on the Wi-Fi location preferences and the available integrations.
 
- For more information, see [Retrieving Wi-Fi access log data](../../contact-tracing/concept/wifi-access-management.md).
+ For more information, see [Retrieving Wi-Fi access log data](../contact-tracing/wifi-access-management.md).
 
  **Note:** Data received via a real-time API will be for a period based on the data retention policy of your Wi-Fi service provider.
 
@@ -140,7 +140,7 @@ Users using handheld or wearable devices in the close proximity with the affecte
 
 </td><td>
 
-Users who with KINEXON wearables who were in close proximity with other KINEXON users during the specified dates. Data acquired from the KINEXON SafeZone API. Requires an active KINEXON integration.For more information, see [Configure KINEXON integration](../../contact-tracing/task/configure-kinexon-integration.md).
+Users who with KINEXON wearables who were in close proximity with other KINEXON users during the specified dates. Data acquired from the KINEXON SafeZone API. Requires an active KINEXON integration.For more information, see [Configure KINEXON integration](../contact-tracing/configure-kinexon-integration.md).
 
  **Note:** Users who are required to agree to a privacy consent but have not done so are excluded even if they are potentially exposed contacts.
 
@@ -265,12 +265,12 @@ Depending on the applications and plugins installed, you can take the following 
 
     The button is available only when you have selected the **Visitor log** tracing system.
 
--   The case manager can create a case for the affected user and add potentially impacted users from the related list to the case to follow up on their health status. For more information, see [Create a case for an affected employee](../../contact-tracing/task/create-exposure-case.md).
+-   The case manager can create a case for the affected user and add potentially impacted users from the related list to the case to follow up on their health status. For more information, see [Create a case for an affected employee](../contact-tracing/create-exposure-case.md).
 -   The manager of the affected field agents can take further actions such as blocking their future work order assignments. For more information, see [Emergency Exposure Management for field service agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/monitoring-analytics-fsm.md) .
 
 
 -   **[Fetch potentially exposed user data from a data source](work-on-diagnostic-req-task.md#)**  
 Work on the diagnostic request task to get information about potentially impacted users from a selected data source and populate the corresponding related lists on the Diagnostic Request form.
 
-**Parent Topic:**[Emergency Exposure Management](../concept/emergency-exposure-management.md)
+**Parent Topic:**[Emergency Exposure Management](emergency-exposure-management.md)
 

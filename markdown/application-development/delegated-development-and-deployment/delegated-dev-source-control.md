@@ -35,6 +35,6 @@ Role required: admin
 
 6.  The delegated developer can now access the Source Control menu options.
 
-    For more information on source control options, see [Legacy - Available source control operations](../reference/r_AvailableSourceControlOperations.md).
+    For more information on source control options, see [Legacy - Available source control operations](../servicenow-studio-classic/r_AvailableSourceControlOperations.md).
 
 

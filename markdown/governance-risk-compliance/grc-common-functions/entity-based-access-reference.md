@@ -20,5 +20,5 @@ Entity-based access configuration states represent the defined permissions and c
 -   **[Entity-based access applicable record types](tables-that-consume-entity-based-access.md)**  
 Entity-based access applicable record types refer to the specific tables or record categories within the system for which entity-based access rules can be defined. This table holds information about all the EBA enabled tables and their relationships with entity or primary tables.
 
-**Parent Topic:**[Entity Based Access](../concept/entity-based-access.md)
+**Parent Topic:**[Entity Based Access](entity-based-access.md)
 

@@ -44,5 +44,5 @@ Each Password Reset process requires a separate CMS page.
 8.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Password Reset](../../login/concept/password-reset-admin-guide.md)
+**Parent Topic:**[Configuring Password Reset](password-reset-admin-guide.md)
 

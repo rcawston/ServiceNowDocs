@@ -32,7 +32,7 @@ The program workbench comprises of the following components:
 
 You can:
 
--   configure the colors of the program items in Gantt chart with [Dashboard Configuration](../task/t_AccessTheProgramWorkbench.md) settings.
+-   configure the colors of the program items in Gantt chart with [Dashboard Configuration](t_AccessTheProgramWorkbench.md) settings.
 -   select the zoom level in Gantt chart calender to **Auto Fit**. The Gantt view fits in one page to view entire timeline in one go without using the scrollbar.
 -   Review the external dependencies between projects in a program.
 -   click the show/hide icon \(![Show or hide columns in Gantt](../image/cogwheel-icon.png)\) to show or hide columns.
@@ -40,16 +40,16 @@ You can:
 **Note:**
 
 -   A demand is included in the timeline view only if the **Expected Start** and **Due Date** fields are populated and if the demand is in qualified or approved state.
--   Admin can [customize](../../project-management/concept/custom-columns-planning-console.md) which columns appear in the column filter list when the show/hide columns icon \(![Show or hide columns in Gantt](../image/cogwheel-icon.png)\) is clicked in the timeline view.
+-   Admin can [customize](../project-management/custom-columns-planning-console.md) which columns appear in the column filter list when the show/hide columns icon \(![Show or hide columns in Gantt](../image/cogwheel-icon.png)\) is clicked in the timeline view.
 
-**Project KPI**: The tab displays the most recent status of project KPIs such as overall health, schedule, cost, resources, and scope of all the projects in the program. This information is populated from the most recent [status report](../../project-management/task/t_CreateAProjectStatusReport.md) created for the projects.
+**Project KPI**: The tab displays the most recent status of project KPIs such as overall health, schedule, cost, resources, and scope of all the projects in the program. This information is populated from the most recent [status report](../project-management/t_CreateAProjectStatusReport.md) created for the projects.
 
 You can:
 
 -   click the name of a project in the tab to open the latest status report created for the project.
 -   point to a status indicator for a project KPI to view the comments entered for the KPI for that project.
 
-**Cost \(Planned vs. Actual\)**: The chart displays the actual costs from all projects in the program compared to the approved budget. The actual cost for projects is derived from the [expense lines](../../project-management/task/t_CreateAExpenseLine.md).
+**Cost \(Planned vs. Actual\)**: The chart displays the actual costs from all projects in the program compared to the approved budget. The actual cost for projects is derived from the [expense lines](../project-management/t_CreateAExpenseLine.md).
 
 **Note:** An expense line can be created manually for a project when a specific expense is incurred. For example, if hardware is procured for a project, an expense line can be created for the amount spent on procuring the hardware. If you receive an item using ServiceNow Procurement, an expense line is created automatically. For resource hours, the expense lines are created automatically when the time cards for the project are approved.
 
@@ -65,7 +65,7 @@ The display settings for the chart can be modified by selecting any of the follo
 
 ![Project KPI tab in program workbench](../image/ProgramWorkbenchExample2.png "Program Workbench Example 2")
 
--   **[Access the program workbench](../task/t_AccessTheProgramWorkbench.md)**  
+-   **[Access the program workbench](t_AccessTheProgramWorkbench.md)**  
 When you access the program workbench, it displays a list of all the programs.
 
 **Parent Topic:**[Program Management](c_ProgramManagement.md)
@@ -73,7 +73,7 @@ When you access the program workbench, it displays a list of all the programs.
 **Related topics**  
 
 
-[Create a program to manage projects and demands](../task/t_CreateAProgram.md)
+[Create a program to manage projects and demands](t_CreateAProgram.md)
 
 [Program Dashboard](c_ProgramManagerDashboard.md)
 

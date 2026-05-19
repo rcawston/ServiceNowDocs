@@ -47,16 +47,16 @@ To understand the use case for this integration, consider the following scenario
 
 -   **[Workflow of project risk assessment](workflow-of-ppm-risk.md)**  
 To understand the integration of Project Portfolio Management and Governance, Risk, and Compliance risk management capabilities, it is important to understand the workflow of project risk assessment.
--   **[Configure Project Portfolio Management and Advanced Risk integration](../task/specify-approvers-for-proj-risks.md)**  
+-   **[Configure Project Portfolio Management and Advanced Risk integration](specify-approvers-for-proj-risks.md)**  
 Use the Project Integration Configuration form to set up the risk assessment. You have to select the risk assessment methodology, the right assessors and approvers, and the formula to roll up the risk scores and show the scores at a project level.
--   **[Assign project risks to stakeholders for assessment](../task/assess-project-risk-using-ara.md)**  
+-   **[Assign project risks to stakeholders for assessment](assess-project-risk-using-ara.md)**  
 Assign the project risks to the relevant stakeholder for assessment. You must manually assign the risks to the stakeholders.
--   **[Assess project risks using Advanced Risk Assessment](../task/assessing-proj-risk-by-projmanager.md)**  
+-   **[Assess project risks using Advanced Risk Assessment](assessing-proj-risk-by-projmanager.md)**  
 Assess the project risks by responding to predefined factors or questions. Arrive at a risk score for the project.
--   **[Elevate a project risk to enterprise risk](../task/Elevating-a-risk.md)**  
+-   **[Elevate a project risk to enterprise risk](Elevating-a-risk.md)**  
 Elevate a project risk to an enterprise risk if the project risk has an impact on the enterprise.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 
 **Related topics**  
 

@@ -62,7 +62,7 @@ Based on the key status you see:
 
 **Important:** If your key is disabled or pending deletion, you must re-enable the key to create or update records in tables with encrypted field configurations.
 
-**Parent Topic:**[Using External Key Management Service](../concept/ekms-using-external-key-management.md)
+**Parent Topic:**[Using External Key Management Service](ekms-using-external-key-management.md)
 
 **Related topics**  
 

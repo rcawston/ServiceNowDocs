@@ -17,9 +17,9 @@ The CatCategory API provides methods that enable you to create and modify servic
 
 This API runs in the `sn_sc` namespace.
 
-**Important:** This API is accessible; however, the recommended implementation is the [Service Catalog REST API](../../../../../integrate/inbound-rest/concept/c_ServiceCatalogAPI.md#).
+**Important:** This API is accessible; however, the recommended implementation is the [Service Catalog REST API](../rest-apis/c_ServiceCatalogAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CatCategory - availableForUserCriteria\(String action, Array criteriaIDs\)
 

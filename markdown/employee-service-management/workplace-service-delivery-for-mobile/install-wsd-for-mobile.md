@@ -46,9 +46,9 @@ Role required: admin
     Dependent plugins and applications are listed.
 
 
-**Parent Topic:**[Configure Workplace Service Delivery for Mobile](../concept/configure-wsd-mobile.md)
+**Parent Topic:**[Configure Workplace Service Delivery for Mobile](configure-wsd-mobile.md)
 
-**Previous topic:**[Configure Workplace Service Delivery for Mobile](../concept/configure-wsd-mobile.md)
+**Previous topic:**[Configure Workplace Service Delivery for Mobile](configure-wsd-mobile.md)
 
-**Next topic:**[Mobile Wayfinding Administration](../concept/mobile-wayfinding.md)
+**Next topic:**[Mobile Wayfinding Administration](mobile-wayfinding.md)
 

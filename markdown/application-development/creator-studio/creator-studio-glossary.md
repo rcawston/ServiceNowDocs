@@ -15,7 +15,7 @@ breadcrumb: [Reference, Creator Studio, Building no-code applications, Developin
 
 Learn about the terms and concepts used in Creator Studio.
 
-**Parent Topic:**[Creator Studio reference](../reference/creator-studio-reference.md)
+**Parent Topic:**[Creator Studio reference](creator-studio-reference.md)
 
 ## activity
 

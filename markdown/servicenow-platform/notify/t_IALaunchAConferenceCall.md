@@ -34,5 +34,5 @@ Role required: notify\_view, or notify\_setup\_admin
     Available options in the conference bridge depend on the conference providers configured. For more information, refer [Configure a provider in Notify](configure-providers-for-provider-selectors.md).
 
 
-**Parent Topic:**[Using Notify with Incident Communications Management](../concept/c_NotifyWithIncidentAlert.md)
+**Parent Topic:**[Using Notify with Incident Communications Management](c_NotifyWithIncidentAlert.md)
 

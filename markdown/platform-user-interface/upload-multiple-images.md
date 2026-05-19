@@ -37,7 +37,7 @@ Role required: image\_admin or content\_admin
 
 2.  To upload multiple images at once, complete the following steps:
 
-    1.  Create a .zip file that contains only [acceptable image file types](../concept/c_StoringImagesInTheDatabase.md#AcceptableImageFileTypes).
+    1.  Create a .zip file that contains only [acceptable image file types](c_StoringImagesInTheDatabase.md#AcceptableImageFileTypes).
 
         **Note:** The system does not support uploading zip files that contain .bmp images.
 
@@ -55,7 +55,7 @@ Role required: image\_admin or content\_admin
     -   Image names cannot exceed 100 characters in length, including folder structure. Files with excessively long names are rejected.
     -   Uploads are logged in the system. View system logs to see whether files are uploaded or rejected.
 
-**Parent Topic:**[Storing images in the database](../concept/c_StoringImagesInTheDatabase.md)
+**Parent Topic:**[Storing images in the database](c_StoringImagesInTheDatabase.md)
 
 **Related topics**  
 

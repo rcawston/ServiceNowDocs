@@ -155,7 +155,7 @@ The application scope on which the functionality runs.
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 
@@ -203,5 +203,5 @@ The application scope on which the functionality runs.
 
 [Website configuration form](config-website-form.md)
 
-[Create a quick link](../task/create-quick-links.md)
+[Create a quick link](create-quick-links.md)
 

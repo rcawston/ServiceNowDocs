@@ -27,7 +27,7 @@ Sample use case: When a service provider \(SP\) uses chat to respond to a tenant
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Test Management applications](../../test-management2/concept/test-management-overview.md)
+**Parent Topic:**[Test Management applications](test-management-overview.md)
 
 **Related topics**  
 

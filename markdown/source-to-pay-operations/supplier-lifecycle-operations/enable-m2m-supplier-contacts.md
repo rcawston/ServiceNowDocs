@@ -45,7 +45,7 @@ After the fix script is created and run to enable M2M mapping between supplier c
 -   **[Remove the unique constraint from Email Domain](remove-unique-constraint.md)**  
 Multiple supplier records can have the same email domain after removing the **unique** constraint from the `Email Domain` column of the Supplier Email Domain \[sn\_slm\_email\_domain\] table.
 
-**Parent Topic:**[Configure Supplier Lifecycle Operations](../concept/config-supp-mgmt.md)
+**Parent Topic:**[Configure Supplier Lifecycle Operations](config-supp-mgmt.md)
 
 **Related topics**  
 
@@ -58,17 +58,17 @@ Multiple supplier records can have the same email domain after removing the **un
 
 [Install Supplier Payment Optimization](install-supp-payment-opt.md)
 
-[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+[Supplier Document Management](supp-doc-mgmt-overview.md)
 
 [Configure the document template for the Sign document action type for supplier task](configure-pdf-template-sign-doc-task.md)
 
-[Advanced Work Assignment for Supplier Lifecycle Operations](../concept/supplier-awa.md)
+[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
 
-[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 
 [Install Universal Request for SLO](install-universal-request.md)
 
-[Configure smart assessments](../concept/configure-smart-assessments.md)
+[Configure smart assessments](configure-smart-assessments.md)
 
 [Run the fix script to enable M2M mapping](run-fix-script.md)
 

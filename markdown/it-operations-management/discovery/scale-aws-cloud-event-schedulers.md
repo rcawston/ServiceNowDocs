@@ -21,7 +21,7 @@ Role required: cloud\_admin
 
 ## About this task
 
-If the instance receives a huge number of events and it doesn’t process them within a reasonable time, create additional Cloud Event Schedulers. Running multiple cloud event schedulers in parallel helps to improve the event processing rate of the instance. When the event inflow rate reduces, you can deactivate some of the Cloud Event Schedulers. For more information, see [AWS events-driven discovery](../concept/aws-events-driven-discovery.md).
+If the instance receives a huge number of events and it doesn’t process them within a reasonable time, create additional Cloud Event Schedulers. Running multiple cloud event schedulers in parallel helps to improve the event processing rate of the instance. When the event inflow rate reduces, you can deactivate some of the Cloud Event Schedulers. For more information, see [AWS events-driven discovery](aws-events-driven-discovery.md).
 
 ## Procedure
 

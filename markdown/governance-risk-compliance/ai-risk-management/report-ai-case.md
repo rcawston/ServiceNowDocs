@@ -29,7 +29,7 @@ Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Report an AI case form, see [Report an AI case form](../reference/report-ai-case-form.md).
+    For a description of the field values on the Report an AI case form, see [Report an AI case form](report-ai-case-form.md).
 
 5.  To add attachments, select **Add attachments**.
 
@@ -50,8 +50,8 @@ An AI case passes through: New, Triage, Investigate, Resolve, Post case review, 
 
 [Initiate AI assessment on an AI asset](initiate-assessment-on-an-ai-asset.md)
 
--   **[Report an AI case form](../reference/report-ai-case-form.md)**  
+-   **[Report an AI case form](report-ai-case-form.md)**  
 Use the Report an AI case form in the Employee Center to report an AI case with the necessary details.
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

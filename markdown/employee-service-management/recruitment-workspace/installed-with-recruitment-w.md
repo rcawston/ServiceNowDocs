@@ -58,5 +58,5 @@ Interview feedback creation
 Creates a feedback record to receive feedback from the interviewee.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Recruitment Workspace reference](../concept/recruitment-workspace-reference.md)
+</table>**Parent Topic:**[Recruitment Workspace reference](recruitment-workspace-reference.md)
 

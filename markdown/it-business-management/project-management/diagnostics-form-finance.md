@@ -27,5 +27,5 @@ Learn about the fields of diagnostic form.
 **Related topics**  
 
 
-[Create Diagnostic scans and map related scripts](../task/create-diagnostic-scan-map-script.md)
+[Create Diagnostic scans and map related scripts](create-diagnostic-scan-map-script.md)
 

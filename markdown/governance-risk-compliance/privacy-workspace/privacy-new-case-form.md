@@ -462,5 +462,5 @@ Additional comments \(Customer visible\)
 Additional information regarding the case for the customers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a privacy case in the Privacy Workspace](../task/create-a-privacy-case.md)
+</table>**Parent Topic:**[Create a privacy case in the Privacy Workspace](create-a-privacy-case.md)
 

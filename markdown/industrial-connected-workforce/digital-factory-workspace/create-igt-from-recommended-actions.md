@@ -49,5 +49,5 @@ Role required: both sn\_icw.deviation\_user and sn\_icw\_igt.user
 
 A new standard task is created and displayed in the list of tasks. It contains all the information from both the standard and the deviation.
 
-**Parent Topic:**[Using Industrial Guided Tasks](../concept/using-industrial-guided-tasks.md)
+**Parent Topic:**[Using Industrial Guided Tasks](using-industrial-guided-tasks.md)
 

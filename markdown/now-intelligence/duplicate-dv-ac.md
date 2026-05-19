@@ -38,5 +38,5 @@ The visualization is copied with the new name and the suffix **- Copy**. All oth
 -   **[Duplicate a visualization on an inline dashboard](duplicate-dv-on-db.md)**  
 Duplicate a visualization so that you can use aspects of the source in a copy of the visualization while on the dashboard it sits on.
 
-**Parent Topic:**[Common data visualization tasks](../concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](common-dv-tasks.md)
 

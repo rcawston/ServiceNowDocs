@@ -138,5 +138,5 @@ Role required: Microsoft Azure admin
     4.  Select **Update**.
 
 
-**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](../concept/setup-notify-ms-teams-multi-tenant.md)
+**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](setup-notify-ms-teams-multi-tenant.md)
 

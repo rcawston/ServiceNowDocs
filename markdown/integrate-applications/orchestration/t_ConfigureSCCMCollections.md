@@ -23,7 +23,7 @@ Role required: sn\_client\_sf\_dist.csd\_admin or admin
 
 ## About this task
 
-The SCCM configuration process associates software with SCCM collections. To deploy software from an SCCM server, the user or device must be a member of an SCCM collection associated with an **install** deployment. Client Software Distribution \(CSD\) allows you to [revoke unentitled software](../concept/c_SCCMSoftwareRevocation.md#) using an SCCM server when that software can be removed using an **uninstall** collection. Users requesting revokable software from the Service Catalog also have the ability to define lease start and stop dates and request lease extensions.
+The SCCM configuration process associates software with SCCM collections. To deploy software from an SCCM server, the user or device must be a member of an SCCM collection associated with an **install** deployment. Client Software Distribution \(CSD\) allows you to [revoke unentitled software](c_SCCMSoftwareRevocation.md#) using an SCCM server when that software can be removed using an **uninstall** collection. Users requesting revokable software from the Service Catalog also have the ability to define lease start and stop dates and request lease extensions.
 
 ![SCCM table references](../../../administer/integrationhub/images/SCCMTableRelationshipsDiagram.png "SCCM table references")
 
@@ -92,5 +92,5 @@ Discovery model that links the unentitled software installation with the SCCM co
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring SCCM](../concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](configuring-sccm.md)
 

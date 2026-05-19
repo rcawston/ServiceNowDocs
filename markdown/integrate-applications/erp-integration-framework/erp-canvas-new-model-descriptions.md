@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The new model form in Zero Copy Connector for ERP \(Enterprise Resource Planning\) contains details for the ERP model.
 
-For process details, see [Create a model](../task/erpc-add-new-data-model.md).
+For process details, see [Create a model](erpc-add-new-data-model.md).
 
 <table id="table_vvj_5fy_v2c"><thead><tr><th>
 
@@ -50,7 +50,7 @@ ERP system
 
 </td><td>
 
-ERP system the ERP model connects to.The connected ERP system enables access to information about fields and tables and interaction between the model and the connected ERP system. For more information, see [Create an ERP system in Zero Copy Connector for ERP](../task/create-an-erp-system.md) and [View a list of Zero Copy Connector for ERP systems](../task/view-and-monitor-erp-systems-health.md).
+ERP system the ERP model connects to.The connected ERP system enables access to information about fields and tables and interaction between the model and the connected ERP system. For more information, see [Create an ERP system in Zero Copy Connector for ERP](create-an-erp-system.md) and [View a list of Zero Copy Connector for ERP systems](view-and-monitor-erp-systems-health.md).
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ Keep mapped values the same as ERP field name
 
 </td><td>
 
-Select this option if you do not want suggested mapped values for this model. For more information, see, [Edit input and output mapped value name in Zero Copy Connector for ERP](../task/erp-edit-mapped-value-name-in-model-manager.md).
+Select this option if you do not want suggested mapped values for this model. For more information, see, [Edit input and output mapped value name in Zero Copy Connector for ERP](erp-edit-mapped-value-name-in-model-manager.md).
 
 </td></tr><tr><td>
 

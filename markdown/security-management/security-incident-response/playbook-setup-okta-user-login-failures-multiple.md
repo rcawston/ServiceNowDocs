@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Okta User Login Failures from Multiple IPs playbook.](../image/playbook-okta-login-failures-ips-trigger.png "Okta User Login Failures from Multiple IPs playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for Okta User Login Failures from Multiple IPs](../concept/playbook-okta-user-login-failures-ips.md)
+**Parent Topic:**[Playbook for Okta User Login Failures from Multiple IPs](playbook-okta-user-login-failures-ips.md)
 

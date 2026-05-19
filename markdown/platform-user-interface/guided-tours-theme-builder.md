@@ -17,7 +17,7 @@ Learn about Theme Builder guided tours, including how to access and take them to
 
 Guided tours are part of the default ServiceNow AI Platform. There are tours available to take and you can use the Guided Tours application to create custom tours yourself in your own instances.
 
-Tours contain interactive steps to help train and teach users. Some tours show various features in the user interface, such as an overview of a homepage. Other tours help complete a task, such as creating an experience or previewing an experience page. For more information about what guided tours are and how to create them, see [Exploring Guided Tours](../../../build/help-guided-tours/concept/exploring-guided-tours.md).
+Tours contain interactive steps to help train and teach users. Some tours show various features in the user interface, such as an overview of a homepage. Other tours help complete a task, such as creating an experience or previewing an experience page. For more information about what guided tours are and how to create them, see [Exploring Guided Tours](adoption-services/exploring-guided-tours.md).
 
 ## How to access and use Theme Builder guided tours
 

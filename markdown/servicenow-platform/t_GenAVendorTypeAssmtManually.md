@@ -24,5 +24,5 @@ Role required: admin
 2.  Click **Generate Assessments** to execute the scheduled job for the **Vendor** type.
 
 
-**Parent Topic:**[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+**Parent Topic:**[Scheduled assessments](c_ScheduledAssessments.md)
 

@@ -194,8 +194,8 @@ Configure the eligibility criteria that users must meet to be eligible for a spe
 </td></tr></tbody>
 </table>    3.  Click **Submit**.
 
-        **Note:** If you want to create your own record producer or an alternative to "Schedule your vaccination", don’t update the catalog item of the program with the new record producer at this stage. "Schedule your vaccination" is the user-facing record producer which enables users to schedule vaccines in the Patient Portal. The catalog item should always remain "Schedule vaccine appointment" even when you create a non-OOTB program. For more information, see the Schedule and manage your vaccinations section of [Use the Patient Portal to register for a vaccination program](../concept/hcls-vam-user-experience.md).
+        **Note:** If you want to create your own record producer or an alternative to "Schedule your vaccination", don’t update the catalog item of the program with the new record producer at this stage. "Schedule your vaccination" is the user-facing record producer which enables users to schedule vaccines in the Patient Portal. The catalog item should always remain "Schedule vaccine appointment" even when you create a non-OOTB program. For more information, see the Schedule and manage your vaccinations section of [Use the Patient Portal to register for a vaccination program](hcls-vam-user-experience.md).
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

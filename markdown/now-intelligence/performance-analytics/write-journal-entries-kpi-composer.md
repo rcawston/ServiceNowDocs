@@ -37,7 +37,7 @@ All posted journal entries appear in descending chronological order.
 
 ![KPI Composer journal entries](../image/kpi-composer-journal-entry.png)
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](kpi-composer-projects.md)
 
 **Previous topic:**[Group data by breakdown definitions](add-breakdowns-project.md#)
 

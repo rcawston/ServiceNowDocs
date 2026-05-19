@@ -20,13 +20,13 @@ Connector administrators can run or schedule content crawls to retrieve updated 
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
--   **[Create a public/private key pair for the Microsoft OneDrive external content connector](../task/gen-cert-msod-ext-cont-connector.md)**  
+-   **[Create a public/private key pair for the Microsoft OneDrive external content connector](gen-cert-msod-ext-cont-connector.md)**  
 Generate a public/private key pair for the Microsoft OneDrive external content connector. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra admin center.
--   **[Configure Microsoft OneDrive for external content indexing](../task/configure-microsoft-onedrive-external-content-indexing.md)**  
+-   **[Configure Microsoft OneDrive for external content indexing](configure-microsoft-onedrive-external-content-indexing.md)**  
 Register an OAuth 2.0 application in the Microsoft Entra admin center to allow the Microsoft OneDrive external content connector to access your Microsoft OneDrive source system.
--   **[Create a Microsoft OneDrive external content connector](../task/create-ext-cont-connector-microsoft-onedrive.md)**  
+-   **[Create a Microsoft OneDrive external content connector](create-ext-cont-connector-microsoft-onedrive.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Microsoft OneDrive source system.
--   **[Configure crawl settings for a Microsoft OneDrive external content connector](../task/configure-crawl-settings-microsoft-onedrive-external-content-connector.md)**  
+-   **[Configure crawl settings for a Microsoft OneDrive external content connector](configure-crawl-settings-microsoft-onedrive-external-content-connector.md)**  
 Specify the individual drives you want your Microsoft OneDrive external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -34,7 +34,7 @@ Specify the individual drives you want your Microsoft OneDrive external content 
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

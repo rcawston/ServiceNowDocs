@@ -23,7 +23,7 @@ Using the abilities of the Smart Assessment Engine, you can empower the privacy 
 
 In the Assessment Workspace, you can view the templates available for Privacy Case Management. You must ensure that the assessment template category is set to **Privacy Case Assessment** and the assessment targets are set to **Action task** and **Privacy case**. Only the assessment templates that are published are available for performing the assessments.
 
-For more information about Smart Assessment Engine, refer to [Exploring Smart Assessment Engine](../../assessment-engine/concept/smart-assessment-engine-cf-explore.md)
+For more information about Smart Assessment Engine, refer to [Exploring Smart Assessment Engine](../smart-assessment-engine/smart-assessment-engine-cf-explore.md)
 
 ## Pre-requisites to enable smart assessment in Privacy Case Management
 
@@ -32,17 +32,17 @@ For more information about Smart Assessment Engine, refer to [Exploring Smart As
     The base system ships the GRC smart assessment template to the users when the Privacy Case Management plugin is installed. However, the following scoped applications are required:
 
     1.  Smart Assessment core \(sn\_smart\_asmt\)
-    2.  Smart assessment Migration tools \(sn\_smart\_asmt\_mig\). For more information, see [Migrate a legacy metric type to an assessment template](../../assessment-engine/task/sae-asmnt-tmplt-migrate-metrics-to.md)
+    2.  Smart assessment Migration tools \(sn\_smart\_asmt\_mig\). For more information, see [Migrate a legacy metric type to an assessment template](../smart-assessment-engine/sae-asmnt-tmplt-migrate-metrics-to.md)
     3.  Smart Assessment Connected \(sn\_smart\_asmt\_conn\)
-    4.  Smart Assessment Designer \(sn\_smart\_asmt\_desg\). For more information, see [Using the template designer](../../assessment-engine/concept/sae-template-designer.md)
+    4.  Smart Assessment Designer \(sn\_smart\_asmt\_desg\). For more information, see [Using the template designer](../smart-assessment-engine/sae-template-designer.md)
 -   **Enable smart assessments system property**
 
     The administrator sets the **sn\_grc\_case\_mgmt.enable\_smart\_assessments** system property to **true** for the privacy case manager to assess the action tasks using the smart assessment method.
 
 -   **Migrate the template**
 
-    Create a new template in Smart Assessment Engine. For more information, see [Creating an assessment template from legacy assessment metric types](../../assessment-engine/concept/sae-asmnt-template-migrating.md).
+    Create a new template in Smart Assessment Engine. For more information, see [Creating an assessment template from legacy assessment metric types](../smart-assessment-engine/sae-asmnt-template-migrating.md).
 
 
-To get started with smart assessments, the privacy case administrator \(sn\_comp\_case.compliance\_case\_admin\), configures the assessment questionnaire. When an action task moves from the **Draft** state to the **Assigned** state, the assessment is sent. Based on the assessment results, appropriate remediation measures are identified and implemented. To learn more about how to configure a questionnaire in the [Exploring Smart Assessment Engine](../../assessment-engine/concept/smart-assessment-engine-cf-explore.md), refer to [Configuring Smart Assessment Engine](../../assessment-engine/concept/smart-assessment-engine-cf-config.md). To learn how to perform smart assessment on action tasks, refer to [Perform smart assessment on action tasks](../../grc-compliance-case-mgmt/task/perform-smart-assessment-on-action-task.md).
+To get started with smart assessments, the privacy case administrator \(sn\_comp\_case.compliance\_case\_admin\), configures the assessment questionnaire. When an action task moves from the **Draft** state to the **Assigned** state, the assessment is sent. Based on the assessment results, appropriate remediation measures are identified and implemented. To learn more about how to configure a questionnaire in the [Exploring Smart Assessment Engine](../smart-assessment-engine/smart-assessment-engine-cf-explore.md), refer to [Configuring Smart Assessment Engine](../smart-assessment-engine/smart-assessment-engine-cf-config.md). To learn how to perform smart assessment on action tasks, refer to [Perform smart assessment on action tasks](../compliance-case-management/perform-smart-assessment-on-action-task.md).
 

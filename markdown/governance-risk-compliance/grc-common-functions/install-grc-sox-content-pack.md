@@ -63,5 +63,5 @@ Activate one of the following GRC plugins:
         When uninstalling the app, select the check box to retain the profile types profiles and indicators.
 
 
-**Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](../concept/sn-store-SOX-governance-risk-compliance.md)
+**Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](sn-store-SOX-governance-risk-compliance.md)
 

@@ -204,7 +204,7 @@ Update the shift details:![Members form](../image/edit_shift_members_tab_sow.png
     -   Weekly
     -   Monthly
 
-**Note:** This option is available only for the 2024 schedule engine. For information about this schedule engine, see [On-Call Scheduling new schedule engine](../../../administer/on-call-scheduling/concept/oncall-schedule-engine.md).
+**Note:** This option is available only for the 2024 schedule engine. For information about this schedule engine, see [On-Call Scheduling new schedule engine](../on-call-scheduling/oncall-schedule-engine.md).
 
 -   Rotation frequency for weekly interval
 -   Rotation frequency for monthly interval. Also, specify if the roster rotation should start on the last day of the month or any specific day of the month.

@@ -48,7 +48,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 After the reservation is confirmed, the reservation details are shared with the selected users.
 
-**Parent Topic:**[Using Workplace Service Delivery for Mobile](../concept/using-wsd-mobile.md)
+**Parent Topic:**[Using Workplace Service Delivery for Mobile](using-wsd-mobile.md)
 
 **Previous topic:**[Check in or check out a reservation](check-in-out-rsv-on-mobile.md)
 

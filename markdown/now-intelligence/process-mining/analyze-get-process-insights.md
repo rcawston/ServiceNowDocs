@@ -29,17 +29,17 @@ From either the page or workbench, you can perform such tasks as cluster and pro
 
 -   **[Viewing business insights](view-business-findings.md#)**  
 View key information about your business process from the Summary and insights page. See goals and performance indicators, and get insights on the improvement opportunities.
--   **[Select view for a graph](../task/set-perspective.md)**  
+-   **[Select view for a graph](set-perspective.md)**  
 Choose to view the graph from the perspective of any one activity definition or all activity definitions set for the project.
 -   **[Refining a process map](analyze-data.md)**  
 View your visualized workflow project for insights and improvement opportunities in your business process.
--   **[Filtering project data](../task/filter-project.md)**  
+-   **[Filtering project data](filter-project.md)**  
 Apply filters to refine and drill into specific aspects of your process map.
 -   **[Viewing metrics and activity transitions](view-metrics.md)**  
 View metrics and activity transitions you have defined.
 -   **[Adding notes to a project](annotate-project.md#)**  
 Add, view, and remove notes for a project to help manage tasks, ideas, and insights. Tag others to notify them to view a note.
--   **[Export a process to Playbook](../task/export-to-playbook.md)**  
+-   **[Export a process to Playbook](export-to-playbook.md)**  
 Export a process to Playbooks to use the advanced features available from Workflow Studio to improve your processes. This feature works with Now Assist.
 -   **[Comparing projects](comparing-models.md)**  
 Comparing projects side by side enables you to investigate performance differences or deviations from an ideal route.
@@ -47,7 +47,7 @@ Comparing projects side by side enables you to investigate performance differenc
 Find where and why inefficiencies occur within your processes using automated root cause analysis.
 -   **[Cluster analysis](cluster-analysis.md)**  
 When identifying an activity, connection, improvement opportunity, or route as a potential bottleneck, view clusters of keyword descriptions and assignment groups to gain insights.
--   **[Intent and activity analysis](../task/intent-activity-analysis.md)**  
+-   **[Intent and activity analysis](intent-activity-analysis.md)**  
 The Intent and activity analysis automates the extraction and interpretation of work notes, enabling analysts to understand task patterns, identify rework, and uncover automation opportunities across end-to-end processes.
 -   **[Work notes analysis](worknotes-analysis.md)**  
 Work notes analysis helps you understand the operational reasons behind activity transitions, as recorded in work notes and comments. Typical examples include transitions from resolved to work in progress or changes in assignment groups, such as from service desk to specialist group.
@@ -61,5 +61,5 @@ Touchpoint analysis studies specific record updates within a process to identify
 **Related topics**  
 
 
-[Create a project or template using Project Builder](../task/define-workflow-model.md)
+[Create a project or template using Project Builder](define-workflow-model.md)
 

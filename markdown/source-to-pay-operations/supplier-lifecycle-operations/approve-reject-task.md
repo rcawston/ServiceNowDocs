@@ -34,10 +34,10 @@ Role required: sn\_slm.contact or sn\_slm.admin
 4.  In the **Do you want to approve the following:** field, enter your comments and select **Approve** or **Reject**.
 
 
-**Parent Topic:**[Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md)
+**Parent Topic:**[Viewing supplier contact tasks from the Supplier Collaboration Portal](my-to-dos.md)
 
 **Related topics**  
 
 
-[Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md)
+[Viewing supplier contact tasks from the Supplier Collaboration Portal](my-to-dos.md)
 

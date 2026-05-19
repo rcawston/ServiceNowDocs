@@ -40,5 +40,5 @@ Role required: admin
 7.  Select **Submit** to save the identity group record.
 
 
-**Parent Topic:**[Secrets Management dashboard](../concept/secrets-dashboard.md)
+**Parent Topic:**[Secrets Management dashboard](secrets-dashboard.md)
 

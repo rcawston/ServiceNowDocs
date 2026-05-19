@@ -128,5 +128,5 @@ The following ACLs are included in this plugin. Select the icon in a header row 
 |`sys_user_role_contains`|write|admin role required to write to Contained Role records|
 |`sys_user_token`|RWCD|admin role required to read/write/create/delete User Token records|
 
-**Note:** To learn more about this plugin, see [Enable security jump start plugin \(ACL Rules\)](../../security-center/reference/sc-security-jump-start-plugin-acl-rules.md) in Instance Security Hardening Settings.
+**Note:** To learn more about this plugin, see [Enable security jump start plugin \(ACL Rules\)](../instance-security-hardening-settings/sc-security-jump-start-plugin-acl-rules.md) in Instance Security Hardening Settings.
 

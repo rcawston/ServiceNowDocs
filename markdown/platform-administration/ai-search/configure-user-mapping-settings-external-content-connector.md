@@ -114,5 +114,5 @@ If you configured a custom script, any script errors encountered during user per
 
 To retrieve updated user permissions from your source system using your modified settings, create and run a user permission crawl for the external content connector that you edited. To learn about creating and running user permission crawls, see [Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md).
 
-**Parent Topic:**[Configuring External Content Connectors](../concept/configuring-ext-cont-connectors.md)
+**Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
 

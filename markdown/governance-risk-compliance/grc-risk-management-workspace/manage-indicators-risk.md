@@ -27,9 +27,9 @@ The **GRC indicator nightly run** job executes the indicators. When an indicator
 
 Indicators yield results when the indicator tasks are closed. Those results are then used to create issues for controls, update risk scores, and provide supporting information for audit activities and control testing. Starting with version 10.1, the system displays the actual historical data for the supporting data records from the indicator results or indicator tasks. For more information on how to create the various types of indicators, see:
 
--   [Create and run a manual risk indicator in the Risk Workspace](../../grc-workspace-risk/task/create-a-manual-indicator-risk-ws.md)
--   [Create and run a basic risk indicator in the Risk Workspace](../../grc-workspace-risk/task/create-a-basic-risk-indicator-ws.md)
--   [Create and run a scripted risk indicator in the Risk Workspace](../../grc-workspace-risk/task/create-a-scripted-indicator.md)
+-   [Create and run a manual risk indicator in the Risk Workspace](create-a-manual-indicator-risk-ws.md)
+-   [Create and run a basic risk indicator in the Risk Workspace](create-a-basic-risk-indicator-ws.md)
+-   [Create and run a scripted risk indicator in the Risk Workspace](create-a-scripted-indicator.md)
 
 ## Indicator templates
 

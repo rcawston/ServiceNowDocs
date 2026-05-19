@@ -19,7 +19,7 @@ This API runs in the `sn_ws` namespace.
 
 **Note:** You cannot instantiate objects of this type. Objects of this type are created automatically and are accessible only in scripted REST API resource scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## RESTAPIRequest - body
 
@@ -27,7 +27,7 @@ The body of the request.
 
 |Name|Type|Description|
 |----|----|-----------|
-|body|[RESTAPIRequestBody](../../ScriptableServiceRequestBody/concept/c_ScriptableServiceRequestBody.md#)|The body of the request. You can access data from the body object using the RESTAPIRequestBody API.|
+|body|[RESTAPIRequestBody](c_ScriptableServiceRequestBody.md#)|The body of the request. You can access data from the body object using the RESTAPIRequestBody API.|
 
 ```
 var requestBody = request.body // Returns instance of RESTAPIRequestBody

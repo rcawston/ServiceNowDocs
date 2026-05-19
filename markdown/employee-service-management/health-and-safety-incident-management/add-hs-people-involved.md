@@ -37,7 +37,7 @@ People involved are individuals who are directly or indirectly connected to an i
 
     -   To add a person involved, fill in the fields in the **Add persons involved** section.
     -   To modify the record of an existing person involved, select the person in the **People involved** list to open it.
-    For field descriptions, see [People Involved form](../reference/hs-people-involved-form.md).
+    For field descriptions, see [People Involved form](hs-people-involved-form.md).
 
 5.  Select **Save**.
 

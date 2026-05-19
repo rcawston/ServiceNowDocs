@@ -27,7 +27,7 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Automation request form from Automation Center](../reference/automation-request-autocenter-form.md).
+    For a description of the field values, see [Automation request form from Automation Center](automation-request-autocenter-form.md).
 
 4.  Select **Submit**.
 

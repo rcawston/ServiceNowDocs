@@ -24,7 +24,7 @@ Role required: sam\_integrator
 
 1.  Create a Jira integration profile.
 
-    For more information about creating an integration profile, see [Integrating with Jira Software Cloud](../concept/integrate-with-jira.md).
+    For more information about creating an integration profile, see [Integrating with Jira Software Cloud](integrate-with-jira.md).
 
 2.  Open the connection &amp; credential record set on the integration profile.
 
@@ -62,30 +62,30 @@ Role required: sam\_integrator
 14. Select **Save** and publish the integration profile.
 
 
-**Parent Topic:**[SaaS License Management](../concept/sam-subscription-management.md)
+**Parent Topic:**[SaaS License Management](sam-subscription-management.md)
 
 **Related topics**  
 
 
 [Request SaaS License Management](request-saas-license-management.md)
 
-[SaaS License Management setup for large companies](../concept/saas-setup-large-companies.md)
+[SaaS License Management setup for large companies](saas-setup-large-companies.md)
 
-[SaaS Overview dashboard](../concept/saas-overview-dashboard.md)
+[SaaS Overview dashboard](saas-overview-dashboard.md)
 
-[Integrate with SaaS applications](../concept/create-integration-profile.md)
+[Integrate with SaaS applications](create-integration-profile.md)
 
-[Integrate with SSO providers](../concept/saas-sso-integration.md)
+[Integrate with SSO providers](saas-sso-integration.md)
 
-[Playbook for SaaS integrations](../concept/playbook-saas-integrations.md)
+[Playbook for SaaS integrations](playbook-saas-integrations.md)
 
-[Viewing your SaaS and SSO subscriptions](../concept/usage-summary-saas.md)
+[Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
 
 [Review a software reclamation rule](add-reclamation-rule-sub.md)
 
-[Reclaiming user subscriptions](../concept/reclaiming-user-subscriptions-saas.md)
+[Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)
 
 [Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)
 
@@ -95,9 +95,9 @@ Role required: sam\_integrator
 
 [Disconnect SSO apps](disconnect-azure-ad-apps.md)
 
-[Delete an integration profile](../concept/delete-saas-integration.md)
+[Delete an integration profile](delete-saas-integration.md)
 
-[Subscription identifiers for SaaS and SSO applications](../concept/subscription-identifiers.md#)
+[Subscription identifiers for SaaS and SSO applications](subscription-identifiers.md#)
 
-[Subscription exclusions for SaaS and SSO applications](../concept/subscription-exclusions.md#)
+[Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#)
 

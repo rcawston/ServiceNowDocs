@@ -291,7 +291,7 @@ Adoption score
 Calculated adoption score for this capability.
 
 </td></tr></tbody>
-</table>To configure how this usage data is displayed in the workspace, see [Configure DCE Visualizations](../task/account-lifecycle-configure-dce-visual.md).
+</table>To configure how this usage data is displayed in the workspace, see [Configure DCE Visualizations](account-lifecycle-configure-dce-visual.md).
 
-**Parent Topic:**[Create a product capability](../task/account-lifecycle-create-prod-cap.md)
+**Parent Topic:**[Create a product capability](account-lifecycle-create-prod-cap.md)
 

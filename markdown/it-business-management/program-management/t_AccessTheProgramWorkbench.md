@@ -40,5 +40,5 @@ You can access the program workbench in one of the following ways.
     -   All programs are available in the workbench using the navigation menu option.
     -   Only the associated program displays using the program form.
 
-**Parent Topic:**[Program workbench](../concept/c_ProgramWorkbench.md)
+**Parent Topic:**[Program workbench](c_ProgramWorkbench.md)
 

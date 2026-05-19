@@ -102,7 +102,7 @@ As a user with the sn\_si.admin role, verify that the profile with the malware s
     |**Finish**|Complete the configuration. You are prompted to confirm activation.|
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
 **Previous topic:**[Using McAfee ePO integration in Analyst Workspace](using-mcafee-integration-aws.md)
 

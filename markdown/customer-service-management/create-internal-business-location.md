@@ -39,7 +39,7 @@ The manager of an internal business location can access all the cases for accoun
 
 2.  Select **New** on the Internal Business Locations list.
 
-3.  Fill in the fields on the [Internal Business Location](../reference/data-model-business-location-form.md) form.
+3.  Fill in the fields on the [Internal Business Location](data-model-business-location-form.md) form.
 
 4.  Select **Submit**.
 

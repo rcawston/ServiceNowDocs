@@ -37,5 +37,5 @@ Role required: sn\_ap\_apm.invoice\_tolerance\_admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Tolerance Rules and Variances for invoices](../concept/tolerance-rules-and-variance.md)
+**Parent Topic:**[Tolerance Rules and Variances for invoices](tolerance-rules-and-variance.md)
 

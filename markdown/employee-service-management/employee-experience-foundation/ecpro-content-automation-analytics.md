@@ -34,14 +34,14 @@ Dashboards display data visualizations in widgets. Each widget displays data for
 
 ## Setting up Content Analytics
 
-1.  [Activate Content Analytics](../task/activate-content-analytics-plugin.md)
+1.  [Activate Content Analytics](activate-content-analytics-plugin.md)
 2.  Establish the tracking profile, by performing one of the following steps:
 
-    -   Activate one of the out-of-the-box tracking profiles and set it as the default tracking profile: [Activate a tracking profile](../task/activate-tracking-profile.md)
-    -   Create a custom tracking profile: [Create a Content Analytics tracking profile](../task/ecpro-content-analytics-setup.md)
+    -   Activate one of the out-of-the-box tracking profiles and set it as the default tracking profile: [Activate a tracking profile](activate-tracking-profile.md)
+    -   Create a custom tracking profile: [Create a Content Analytics tracking profile](ecpro-content-analytics-setup.md)
     For more information on tracking profiles, see the section below.
 
-3.  To track analytics for a custom widget or page, you must add the tracking profile to the header: [Set up Content Analytics tracking](../task/ecpro-content-analytics-tracking-setup.md)
+3.  To track analytics for a custom widget or page, you must add the tracking profile to the header: [Set up Content Analytics tracking](ecpro-content-analytics-tracking-setup.md)
 
     **Important:** A new **Enable Tracking** field has been introduced to content notifications, designed specifically for email content. Existing notification records will have this field disabled by default, in line with prior system settings and by default, existing email content will have tracking turned off. However, for new email notification contents, the **Enable Tracking**option will be available for your selection and will be automatically enabled on new record creation. This feature provides greater flexibility, allowing you to determine whether tracking should be applied to specific email content record.
 
@@ -58,7 +58,7 @@ Content Analytics stores collected data in tables, which are organized by data t
 
 **Note:** If a dashboard does not display visualizations, check that the data is being collected by opening a table. Enter the table name in the navigation bar, appended by `.list`.
 
-For a list of Content Analytics tables, see [Components installed with Content Analytics](../reference/ecpro-installed-content-analytics-1.md).
+For a list of Content Analytics tables, see [Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md).
 
 This is an overview of the process by which Content Analytics collects and moves data:
 

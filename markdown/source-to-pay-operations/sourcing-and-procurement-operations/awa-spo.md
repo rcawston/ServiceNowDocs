@@ -19,7 +19,7 @@ Advanced Work Assignment for Source-to-Pay Operations pushes work to qualified a
 
 ## Prerequisites for installing Advanced Work Assignment for Source-to-Pay Operations
 
-Before you install Advanced Work Assignment for Source-to-Pay Operations, ensure that you activate the Agent Chat application and load the demo data during installation. For more information, see [Activate Agent Chat and load demo data](../../supplier-lifecycle-operations/task/load-demo-agent-chat.md).
+Before you install Advanced Work Assignment for Source-to-Pay Operations, ensure that you activate the Agent Chat application and load the demo data during installation. For more information, see [Activate Agent Chat and load demo data](../supplier-lifecycle-operations/load-demo-agent-chat.md).
 
 ## Required plugins
 
@@ -38,25 +38,25 @@ Enables shoppers or requesters to interact with agents to resolve their issues a
 **Related topics**  
 
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 
-[Configure punchout for third-party site purchases](../task/configure-supplier-punchout.md)
+[Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 
 [Configuring work prioritization](configuring-work-prioritization.md)
 
-[Add a new button in Shopping Hub](../task/add-new-button-shoppinghub.md)
+[Add a new button in Shopping Hub](add-new-button-shoppinghub.md)
 
-[Customize your top suppliers on Shopping Hub](../task/customize-top-suppliers.md)
+[Customize your top suppliers on Shopping Hub](customize-top-suppliers.md)
 
-[Configure conditions for merging purchase requisitions](../task/config-pr-merge.md)
+[Configure conditions for merging purchase requisitions](config-pr-merge.md)
 
 [Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 
-[Install ShoppingHub Mobile](../task/install-shoppinghub-mobile.md)
+[Install ShoppingHub Mobile](install-shoppinghub-mobile.md)
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md)
 

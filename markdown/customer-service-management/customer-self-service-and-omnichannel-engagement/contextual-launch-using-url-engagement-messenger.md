@@ -55,11 +55,11 @@ If you are using existing Embed code, ensure that you update the script to inclu
 
     -   **&lt;FEATURE\_NAME&gt;**
 
-        The feature name. For information, see [Feature context parameters supported in Engagement Messenger](../reference/contextual-launch-supported-features.md).
+        The feature name. For information, see [Feature context parameters supported in Engagement Messenger](../contextual-launch-supported-features.md).
 
     -   **&lt;param\_name1&gt;=&lt;param\_value1&gt;**
 
-        Name and value of a parameter associated with the feature. To define multiple parameters, use the same format. For more information, see [Feature context parameters supported in Engagement Messenger](../reference/contextual-launch-supported-features.md).
+        Name and value of a parameter associated with the feature. To define multiple parameters, use the same format. For more information, see [Feature context parameters supported in Engagement Messenger](../contextual-launch-supported-features.md).
 
 8.  Verify that the URL launches the designated feature automatically.
 

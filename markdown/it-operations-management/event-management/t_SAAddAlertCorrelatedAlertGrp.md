@@ -42,5 +42,5 @@ Role required: evt\_mgmt\_admin
     ![Secondary alerts are added to the group.](../image/em-secondary-alert-3.png)
 
 
-**Parent Topic:**[Manual alert grouping](../concept/manual-alert-grouping.md)
+**Parent Topic:**[Manual alert grouping](manual-alert-grouping.md)
 

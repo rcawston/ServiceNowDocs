@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Generate onboarding ramp-up plan](onboarding-ramp-up-plan-agentic-wf.md)
+[Generate onboarding ramp-up plan](../now-assist-for-hrsd/onboarding-ramp-up-plan-agentic-wf.md)
 
 </td><td>
 

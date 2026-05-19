@@ -44,5 +44,5 @@ The output variables contain data that can be used in subsequent activities.
 
 ![Check MID Server Status flow action configuration interface](../image/check-mid-status.png)
 
-**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](../concept/secops-integration-cb-get-running-processes-workflow.md)
+**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](secops-integration-cb-get-running-processes-workflow.md)
 

@@ -42,5 +42,5 @@ The selected synonym dictionary disappears from the search profile's Synonyms re
 
 To make the change in synonym dictionary linking take effect, publish the search profile. For more information on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Synonyms](../concept/synonyms-ais.md)
+**Parent Topic:**[Synonyms](synonyms-ais.md)
 

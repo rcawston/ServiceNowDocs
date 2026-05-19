@@ -17,5 +17,5 @@ Escalation Intervals and Pause Conditions are not relevant to an inactivity moni
 
 The related list and field are available because the inactivity monitor table extends the table used for SLAs, but these elements are not used in any way when an inactivity monitor attaches or is triggered.
 
-**Parent Topic:**[Set an inactivity monitor](../task/t_SetAnInactivityMonitor.md)
+**Parent Topic:**[Set an inactivity monitor](t_SetAnInactivityMonitor.md)
 

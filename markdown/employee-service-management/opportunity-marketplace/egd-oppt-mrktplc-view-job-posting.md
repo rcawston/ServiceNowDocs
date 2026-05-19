@@ -38,5 +38,5 @@ You must view job postings forms from the Job Posting \[sn\_ta\_hiring\_core\_jo
 4.  You can only view the form for the selected job posting.
 
 
-**Parent Topic:**[Use Opportunity Marketplace](../concept/egd-oppt-mrktplc-using.md)
+**Parent Topic:**[Use Opportunity Marketplace](egd-oppt-mrktplc-using.md)
 

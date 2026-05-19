@@ -33,12 +33,12 @@ When you're in a Connect conversation or entering comments in an activity stream
 
 An administrator can disable user presence globally.
 
--   **[Disable user presence](../task/t_DisableUserPresence.md)**  
+-   **[Disable user presence](t_DisableUserPresence.md)**  
 You can disable user presence globally by enabling a system property.
--   **[Disable live form features](../task/configure-live-form-feat.md)**  
+-   **[Disable live form features](configure-live-form-feat.md)**  
 User presence includes several new live form features for Core UI. You can show or hide these features using the **glide.ui16.live\_forms.enabled** property.
--   **[Configure time intervals for user presence](../task/configure-time-interval-user-presence.md)**  
+-   **[Configure time intervals for user presence](configure-time-interval-user-presence.md)**  
 User presence shows that users are viewing a record sometimes after they have already left. The system only checks for user presence every two minutes by default. You can allow the system to check more frequently by configuring some system properties.
 
-**Parent Topic:**[Common UI elements](../../common-ui-elements/topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](p_CommonUIElements.md)
 

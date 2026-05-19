@@ -25,18 +25,18 @@ The different types of conflicts are as follows:
 
 You can also customize the list of validations that you want to run on a move request. You can add validations or change existing validations in the **WSDMoveRequestValidations** script include.
 
-**Parent Topic:**[Managing Workplace Move Management requests](../concept/workplace-mov-mgmt-setup.md)
+**Parent Topic:**[Managing Workplace Move Management requests](workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
 
-[Create a move request on behalf of an employee](../task/request-desk-change-for-employee-1.md)
+[Create a move request on behalf of an employee](employee-service-management/request-desk-change-for-employee-1.md)
 
-[Raise a move request for a space change](../task/request-desk-change.md)
+[Raise a move request for a space change](workplace-case-management/request-desk-change.md)
 
-[Update a move request workplace service](../task/update-move-request-workplace-service.md)
+[Update a move request workplace service](update-move-request-workplace-service.md)
 
-[Update a move-related workplace service record producer](../task/view-move-request-record-producer.md)
+[Update a move-related workplace service record producer](view-move-request-record-producer.md)
 
-[Create a move-related knowledge base article](../task/create-move-related-kb-article.md)
+[Create a move-related knowledge base article](create-move-related-kb-article.md)
 

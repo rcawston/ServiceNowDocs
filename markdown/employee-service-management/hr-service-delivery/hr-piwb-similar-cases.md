@@ -51,13 +51,13 @@ When the Similar Closed HR Cases is configured and the predictive model is train
 
 When the configuration is complete, the solution displays the most relevant HR closed cases to an HR agent to help resolve the current HR case.
 
-Review the corresponding use case information from [Machine learning solutions for HR Service Delivery](../concept/predictive-intelligence-for-hr-service-delivery-1.md).
+Review the corresponding use case information from [Machine learning solutions for HR Service Delivery](../employee-service-management/predictive-intelligence-for-hr-service-delivery-1.md).
 
 ## What to do next
 
 You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](hr-piwb-implementation-guidance.md)
 
 **Related topics**  
 

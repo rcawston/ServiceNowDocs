@@ -20,9 +20,9 @@ A data domain is a logical grouping of related information objects that represen
 **Related topics**  
 
 
-[View all data domains](../../task/eaw-task/eaw-view-all-data-domains.md)
+[View all data domains](eaw-view-all-data-domains.md)
 
-[Add or edit a data domain from the Portfolio page](../../task/eaw-task/eaw-add-or-edit-a-data-domain-from-the-portfolio-page.md)
+[Add or edit a data domain from the Portfolio page](eaw-add-or-edit-a-data-domain-from-the-portfolio-page.md)
 
 [Exploring information objects](eaw-information-objects.md)
 

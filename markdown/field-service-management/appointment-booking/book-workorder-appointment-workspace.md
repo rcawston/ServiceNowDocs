@@ -19,7 +19,7 @@ Book appointment for an associated work order or work order task to dispatch age
 
 Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier and sn\_customerservice.consumer\_agent
 
-Setup the **Field Service Order Configuration** to book an appointment for work orders and **Field Service Task Configuration** to book an appointment for work order tasks. For more information, see [Configuring Appointment Booking](../concept/appointment-booking-administer.md).
+Setup the **Field Service Order Configuration** to book an appointment for work orders and **Field Service Task Configuration** to book an appointment for work order tasks. For more information, see [Configuring Appointment Booking](../field-service-scheduling/appointment-booking-administer.md).
 
 ## Procedure
 

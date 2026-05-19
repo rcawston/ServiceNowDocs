@@ -19,7 +19,7 @@ After creating a scenario and implementing the space allocation and assignment, 
 
 [Create a scenario](create-a-scenario.md)
 
-**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](../../workplace-space-management/concept/reviewing-allocation-changes.md).
+**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](../workplace-space-management/reviewing-allocation-changes.md).
 
 ![Space details panel displaying a warning about reviewing allocation changes.](../images/wsd-central-review-changes.png)
 
@@ -29,7 +29,7 @@ Role required: sn\_wsd\_spcmgmt.space\_planner
 
 Publish a scenario after it’s created so that it’s available for others to view in a read-only mode. Share the scenario with your colleagues or stakeholders to review in a read-only mode. Access the published scenario from the Space optimization module.
 
-When you publish a scenario, the state of the scenario changes from **Draft** state to **Ready** state. For more information about the states of a scenario, refer to [Scenario and Building - Views, states, settings, and key features](../reference/scenario-planning-views-actions-keyfeatures-.md).
+When you publish a scenario, the state of the scenario changes from **Draft** state to **Ready** state. For more information about the states of a scenario, refer to [Scenario and Building - Views, states, settings, and key features](scenario-planning-views-actions-keyfeatures-.md).
 
 ## Procedure
 
@@ -105,14 +105,14 @@ View all the scenario real estate and allocation changes in detail using the **S
 
 [Send a scenario for approval](send-a-scenario-for-approval.md)
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](working-with-space-optimization.md)
 
 **Related topics**  
 
 
 [Create a scenario](create-a-scenario.md)
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](viewing-editing-scenario.md)
 
 [Review a scenario](review-a-scenario.md)
 
@@ -130,5 +130,5 @@ View all the scenario real estate and allocation changes in detail using the **S
 
 [Work on a space assist request](work-on-space-assist-request.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](map-based-space-administration.md)
 

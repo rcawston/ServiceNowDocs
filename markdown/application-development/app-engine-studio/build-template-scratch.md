@@ -60,7 +60,7 @@ Role required: admin, app\_template\_author
 
 
 </td></tr></tbody>
-</table>    For more information about template sharing and permissions, see [App template sharing](../concept/app-template-sharing.md#).
+</table>    For more information about template sharing and permissions, see [App template sharing](app-template-sharing.md#).
 
 8.  On the template details screen, select **Go to template dashboard**.
 
@@ -68,10 +68,10 @@ Role required: admin, app\_template\_author
 
     For more information, see the following topics:
 
-    -   [Create a data model for your application](../concept/add-data.md)
-    -   [Add an application experience](../concept/add-experience.md)
-    -   [Add logic and automation](../concept/add-automation.md)
-    -   [Add application security](../concept/add-security.md)
+    -   [Create a data model for your application](add-data.md)
+    -   [Add an application experience](add-experience.md)
+    -   [Add logic and automation](add-automation.md)
+    -   [Add application security](add-security.md)
 10. Select **Save**.
 
 
@@ -79,5 +79,5 @@ Role required: admin, app\_template\_author
 
 Provide an overview of the custom template and activate the template to make it available to App Engine Studio users through the template library. For more information, see [Update custom template contents and properties](manage-custom-template.md).
 
-**Parent Topic:**[Build a custom template](../concept/build-custom-template.md)
+**Parent Topic:**[Build a custom template](build-custom-template.md)
 

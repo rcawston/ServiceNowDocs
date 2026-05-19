@@ -60,7 +60,7 @@ In this example procedure, you're building an NLU model to help Virtual Agent un
 
 ![Model details page after creating a model from blank.](../images/create-nlu-model-blank03.png "Model details page")
 
-Your new model contains no content. Select **Add content** to begin adding intents, entities, and vocabulary. For more information, see [Build and train your model](../concept/managing-model-content.md).
+Your new model contains no content. Select **Add content** to begin adding intents, entities, and vocabulary. For more information, see [Build and train your model](managing-model-content.md).
 
-Add test utterances and intents to build the model's default test set. For more information, see [Test set creation and management](../concept/nlu-test-set-creation-management.md).
+Add test utterances and intents to build the model's default test set. For more information, see [Test set creation and management](nlu-test-set-creation-management.md).
 

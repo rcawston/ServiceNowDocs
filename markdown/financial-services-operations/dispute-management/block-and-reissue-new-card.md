@@ -19,9 +19,9 @@ After the task for the Dispute information activity is completed from the Initia
 
 You can view the generated task from the Tasks tab of the case.
 
-**Parent Topic:**[Investigate stage](../concept/investigate-stage.md)
+**Parent Topic:**[Investigate stage](investigate-stage.md)
 
-**Parent Topic:**[Processing a Mastercard dispute](../concept/processing-mastercard-dispute-case.md)
+**Parent Topic:**[Processing a Mastercard dispute](processing-mastercard-dispute-case.md)
 
 **Parent Topic:**[Investigating a dispute](investigate-a-dispute.md)
 

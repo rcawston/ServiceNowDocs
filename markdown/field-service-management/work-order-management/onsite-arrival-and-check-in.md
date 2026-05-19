@@ -22,7 +22,7 @@ The Onsite Arrival and Check-in process ensures accurate task location confirmat
     -   Completion of prerequisites before initiating work.
 -   **Geofencing Validation**
     -   Verifies agent location within the configured geofence radius.
-    -   Check-In status stores the outcomes such as success, failure, or skipped scenarios. The following table outlines the outcomes based on different scenarios and geofence validations when an agent clicks the **Check-in** button. The status gets stored in the Check-in status field of the work order task table. For more information, see [Create a work order task](../../planning-and-policy/task/t_CreateAWorkOrderTask.md)
+    -   Check-In status stores the outcomes such as success, failure, or skipped scenarios. The following table outlines the outcomes based on different scenarios and geofence validations when an agent clicks the **Check-in** button. The status gets stored in the Check-in status field of the work order task table. For more information, see [Create a work order task](t_CreateAWorkOrderTask.md)
 
         |Scenario|Check-In Status|
         |--------|---------------|

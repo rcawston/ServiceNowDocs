@@ -40,5 +40,5 @@ Role required: platform\_document\_management\_admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Document Management lists](../concept/doc-mgt-lists.md)
+**Parent Topic:**[Document Management lists](doc-mgt-lists.md)
 

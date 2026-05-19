@@ -101,7 +101,7 @@ Line graph
 
 Agents that automatically stopped collecting data after crossing the CPU usage threshold. The CPU usage threshold is configurable in the `acc.yml` configuration file.
 
- For more information on the `acc.yml` configuration file, see [Configuration file options](../../agent-client-collector/reference/acc-yml-options.md).
+ For more information on the `acc.yml` configuration file, see [Configuration file options](../agent-client-collector/acc-yml-options.md).
 
 </td></tr><tr><td>
 

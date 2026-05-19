@@ -46,5 +46,5 @@ New change requests that are created in the DevOps application after you enable 
 
 Any new change request that is created from the DevOps application is considered as a DevOps change irrespective of the category attribute and processed accordingly. DevOps change request creation and processing no longer depend only on the category attribute being set to DevOps.
 
-**Parent Topic:**[Accelerating your DevOps change process](../concept/dev-ops-change-acceleration.md)
+**Parent Topic:**[Accelerating your DevOps change process](dev-ops-change-acceleration.md)
 

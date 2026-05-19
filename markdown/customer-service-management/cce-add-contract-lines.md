@@ -32,7 +32,7 @@ Role required:
 
 5.  Select **New**.
 
-    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](../concept/create-cont-ent-workflows-csm.md#section_qp4_rxv_tcc).
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](create-cont-ent-workflows-csm.md#section_qp4_rxv_tcc).
 
     -   If the selected target entity is a quote, a quote to create new customer contract line is created.
     -   If the selected target entity is an order, an order to create new customer contract line is created.

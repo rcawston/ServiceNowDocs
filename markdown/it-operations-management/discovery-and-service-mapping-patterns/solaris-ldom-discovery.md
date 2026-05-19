@@ -19,7 +19,7 @@ Discovery uses these patterns to run horizontal discovery. You can use the patte
 
 The Solaris LDOM infrastructure pattern is triggered automatically on Solaris Server discovery. The pattern verifies if there is an LDOM controller, and stops running if it doesn't find a controller.
 
-The Solaris LDOM shared library pattern is run as an Extension Section to the Solaris Server pattern​. The pattern modifies the Serial Number \(SN\) on LDOM machines so that it matches the SN populated by the Solaris LDOM infrastructure pattern. For further information about Solaris Server, see [Solaris discovery](../../discovery/reference/r_DataCollDiscoSolarisComputers.md).
+The Solaris LDOM shared library pattern is run as an Extension Section to the Solaris Server pattern​. The pattern modifies the Serial Number \(SN\) on LDOM machines so that it matches the SN populated by the Solaris LDOM infrastructure pattern. For further information about Solaris Server, see [Solaris discovery](../itom-visibility/r_DataCollDiscoSolarisComputers.md).
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -75,5 +75,5 @@ The data discovered by both patterns includes the following tables and fields.
 |---|------------|---|
 |LDOM controller|Hosted on::Hosts|LDOM Guest VM|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

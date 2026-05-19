@@ -156,5 +156,5 @@ Sets the duration for the initial synchronization process when retrieving histor
 
 ## What to do next
 
-To confirm the successful configuration of the pull connector and the flow of events into the system, select the **Related events** tab. If the setup is successful, proceed to **Add automation** to establish an alert automation. For details on **Related events** tab, see [Review integration and configuration health](review-integration-config-health.md) and for information on alert automation, see [Alert automation in Service Operations Workspace for ITOM](../concept/sow-itom-alert-automation.md).
+To confirm the successful configuration of the pull connector and the flow of events into the system, select the **Related events** tab. If the setup is successful, proceed to **Add automation** to establish an alert automation. For details on **Related events** tab, see [Review integration and configuration health](review-integration-config-health.md) and for information on alert automation, see [Alert automation in Service Operations Workspace for ITOM](sow-itom-alert-automation.md).
 

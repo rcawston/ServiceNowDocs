@@ -17,7 +17,7 @@ Map existing designated workspaces to employee user profiles in Workplace Core. 
 
 ## Before you begin
 
--   Ensure that your workplace administrator has completed setting up your workplace data. For more information, see [Providing your workplace data](../concept/providing-your-workplace-data-wsd.md).
+-   Ensure that your workplace administrator has completed setting up your workplace data. For more information, see [Providing your workplace data](providing-your-workplace-data-wsd.md).
 -   Ensure that you have the designated workplace information for all the employees.
 -   You can also navigate to the User Workplace Profiles \[sn\_wsd\_core\_workplace\_profile\] table by entering `sn_wsd_core_workplace_profile.list` in the navigation filter.
 
@@ -92,7 +92,7 @@ Option to set location privacy preference for the workplace profile. Note the fo
 -   By default, the location privacy preference that is set on the building to which the workplace profile is assigned is considered.
 -   In case, the building doesn't have any location privacy preference, preference set in the Workplace Reservation Management system property **sn\_wsd\_core.ENABLE\_LOCATION\_PRIVACY** is considered.
 -   The field is set to **None** by default.
- For more information about each field, refer to [Location privacy settings and impact](../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md)
+ For more information about each field, refer to [Location privacy settings and impact](../workplace-reservation-management/location-privacy-settings-and-impact.md)
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
@@ -104,5 +104,5 @@ Option to set location privacy preference for the workplace profile. Note the fo
 
 The User Workplace Profiles \[sn\_wsd\_core\_workplace\_profile\] table is populated with all the new profiles.
 
-**Parent Topic:**[Mapping employees to their designated workspaces](../concept/mapping-employees-to-existing-work-locations-wsd.md)
+**Parent Topic:**[Mapping employees to their designated workspaces](mapping-employees-to-existing-work-locations-wsd.md)
 

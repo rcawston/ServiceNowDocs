@@ -31,8 +31,8 @@ For Exception Rules:
 
 These approvals are available under the **My Tasks** section for easier access and management. For more information related to employee center visit: [Employee Center](https://www.servicenow.com/docs/bundle/australia-employee-service-management/page/product/employee-center/concept/employee-center-landing-page.html)
 
--   **[Managing Approvals via the Employee Service Center](../task/manage-approvals-ec.md)**  
+-   **[Managing Approvals via the Employee Service Center](manage-approvals-ec.md)**  
 The updated Employee Service Center experience consolidates vulnerability approvals under one interface.This allows customers to efficiently manage security exceptions without navigating multiple systems or UIs.
 
-**Parent Topic:**[Using Unified Security Exposure Management](../../security-exposure-management-workspace/concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](using-unified-security-exposure-management.md)
 

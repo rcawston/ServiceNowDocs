@@ -42,7 +42,7 @@ If you're among the employees who have returned to the workplace, you receive mo
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Tracking employee contacts using daily logs](../concept/employee-daily-log.md)
+**Parent Topic:**[Tracking employee contacts using daily logs](employee-daily-log.md)
 
 ## Submit the daily contact log from a mobile phone
 
@@ -50,7 +50,7 @@ If you receive a mobile push notification to submit the daily contact log, you c
 
 ### Before you begin
 
-To receive mobile push notifications, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To receive mobile push notifications, you must have the [Now® Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app.
 
 Role required: sn\_imt\_checkin.dailylog\_user
 

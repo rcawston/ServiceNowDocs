@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The NowChatService class provides functions that enable you to launch the NowChat activity and set error configurations.
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowChatService - launchIntent\(context:Context, nowChatTheme:NowChatTheme\):Intent
 
@@ -51,7 +51,7 @@ nowChatTheme
 
 </td><td id="Chat-themeColors-entry1">
 
-[NowChatTheme](../../NowChatTheme/concept/NowChatThemeColorsAndroidInterface.md)
+[NowChatTheme](NowChatThemeColorsAndroidInterface.md)
 
 </td><td>
 
@@ -111,7 +111,7 @@ nowChatTheme
 
 </td><td id="Chat-themeColors-entry1">
 
-[NowChatTheme](../../NowChatTheme/concept/NowChatThemeColorsAndroidInterface.md)
+[NowChatTheme](NowChatThemeColorsAndroidInterface.md)
 
 </td><td>
 
@@ -135,7 +135,7 @@ chatConfiguration
 
 </td><td>
 
-[NowChatConfiguration](../../NowChatOptions/concept/NowChatOptionsAndroid.md#)
+[NowChatConfiguration](NowChatOptionsAndroid.md#)
 
 </td><td>
 
@@ -287,7 +287,7 @@ Updates the NowChat UI theme with the specified UI theme. Use this function to u
 
 |Name|Type|Description|
 |----|----|-----------|
-|nowChatTheme|[NowChatTheme](../../NowChatTheme/concept/NowChatThemeColorsAndroidInterface.md)|Theme object to use in the NowChat UI.|
+|nowChatTheme|[NowChatTheme](NowChatThemeColorsAndroidInterface.md)|Theme object to use in the NowChat UI.|
 
 |Type|Description|
 |----|-----------|

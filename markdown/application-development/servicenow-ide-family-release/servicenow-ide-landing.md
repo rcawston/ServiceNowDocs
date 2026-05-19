@@ -41,10 +41,10 @@ ServiceNow IDE overview
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about ServiceNow Fluent APIs and more.](../reference/servicenow-ide-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about ServiceNow Fluent APIs and more.](servicenow-ide-reference.md)
 
 </td></tr></tbody>
-</table>**Note:** You can use Build Agent to help you create and edit applications in the ServiceNow IDE. For more information, see [Build Agent](../../build-agent/concept/build-agent.md).
+</table>**Note:** You can use Build Agent to help you create and edit applications in the ServiceNow IDE. For more information, see [Build Agent](../build-agent.md).
 
 ## Which builder should I use to create an app?
 
@@ -52,23 +52,23 @@ ServiceNow IDE overview
 
 The ServiceNow IDE and ServiceNow SDK support developing applications in source code with ServiceNow Fluent, creating JavaScript modules, and using third-party libraries. ServiceNow Fluent is a domain-specific programming language for creating application metadata in code.
 
-The ServiceNow IDE is an implementation of Visual Studio Code for the Web on the ServiceNow AI Platform. The ServiceNow SDK uses Visual Studio Code Desktop locally. For more information, see [Building applications in source code](../../custom-application/concept/building-applications-source-code.md).
+The ServiceNow IDE is an implementation of Visual Studio Code for the Web on the ServiceNow AI Platform. The ServiceNow SDK uses Visual Studio Code Desktop locally. For more information, see [Building applications in source code](../building-applications-source-code.md).
 
 **Are you a developer who wants more control in a centralized user interface?**
 
-Build apps smarter and deliver them faster with the new ServiceNow Studio. ServiceNow Studio empowers platform developers with a modern, unified environment for building on the ServiceNow AI Platform. ServiceNow Studio features streamlined navigation to applications and metadata, integrated low-code tools, efficient tracking and packaging of development work that accelerates development processes and enhances productivity. For more information, see [Exploring ServiceNow Studio](../../servicenow-studio/concept/exploring-servicenow-studio.md).
+Build apps smarter and deliver them faster with the new ServiceNow Studio. ServiceNow Studio empowers platform developers with a modern, unified environment for building on the ServiceNow AI Platform. ServiceNow Studio features streamlined navigation to applications and metadata, integrated low-code tools, efficient tracking and packaging of development work that accelerates development processes and enhances productivity. For more information, see [Exploring ServiceNow Studio](../servicenow-studio-classic/exploring-servicenow-studio.md).
 
 **Need a more general app but still want low-code options?**
 
-App Engine Studio lets you build a broader range of apps than Creator Studio without being a programming pro. For more information, see [Exploring App Engine Studio](../../app-engine-studio/concept/exploring-aes.md).
+App Engine Studio lets you build a broader range of apps than Creator Studio without being a programming pro. For more information, see [Exploring App Engine Studio](../app-engine-studio/exploring-aes.md).
 
 **Want to build an app easily, without code?**
 
-Creator Studio specializes in helping you craft request-fulfillment applications without writing code. For example, an application to request office supplies by filling out a form, and someone approves or denies your request. For more information, see [Exploring Creator Studio](../../creator-studio/concept/exploring-creator-studio.md).
+Creator Studio specializes in helping you craft request-fulfillment applications without writing code. For example, an application to request office supplies by filling out a form, and someone approves or denies your request. For more information, see [Exploring Creator Studio](../creator-studio/exploring-creator-studio.md).
 
 ## Troubleshoot and get help
 
--   To learn more about what's new in the Australia release, see the [ServiceNow IDE release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/servicenow-ide-rn.md).
+-   To learn more about what's new in the Australia release, see the [ServiceNow IDE release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/servicenow-ide-rn.md).
 -   [Introduction to the ServiceNow IDE](https://learning.servicenow.com/lxp/en/app-engine/introduction-to-the-servicenow-ide?id=learning_course_prev&course_id=9b44e9a49340ead4d28b7e6badba1069) on ServiceNow University
 -   [ServiceNow IDE Demo](https://youtu.be/32cYYrBXJvk?si=tpOV1cKWCAhNND5E) video
 -   [ServiceNow IDE and Fluent Creator Toolbox](https://www.youtube.com/live/PHFZBsbTTtI?si=4eU7gkhiMSGo5yaN) video
@@ -81,7 +81,7 @@ Creator Studio specializes in helping you craft request-fulfillment applications
 **Related topics**  
 
 
-[ServiceNow Fluent](../../servicenow-sdk/concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
-[JavaScript modules and third-party libraries](../../servicenow-sdk/concept/javascript-modules-third-party-libraries.md)
+[JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md)
 

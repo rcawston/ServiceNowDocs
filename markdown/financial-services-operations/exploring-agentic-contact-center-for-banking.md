@@ -60,5 +60,5 @@ To learn more about configuring and using Agentic Contact Center for Banking, se
 -   [Interaction page for Agentic Contact Center for Banking](interaction-workspace-for-agentic-contact-center-for-banking.md)
 -   [Configuring Agentic Contact Center for Banking](configuring-agentic-contact-center-for-banking.md)
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 

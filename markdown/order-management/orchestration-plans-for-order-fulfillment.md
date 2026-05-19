@@ -60,7 +60,7 @@ To initiate the fulfillment process for a multi-site order, the Order Management
 
 [Order fulfillment](reviewing-orchestration-plans-order-fulfillment.md)
 
-[Review an order orchestration plan](../task/review-order-fulfillment-orchestration-plan.md)
+[Review an order orchestration plan](review-order-fulfillment-orchestration-plan.md)
 
 [Managing order fallout](fallout-management-overview.md)
 

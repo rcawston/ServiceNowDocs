@@ -135,5 +135,5 @@ Your connector admin needs these items to configure a Box external content conne
 
 For details on creating and configuring a Box Cloud external content connector, see [Create a Box external content connector](create-ext-cont-connector-box.md).
 
-**Parent Topic:**[Box external content connector](../concept/box-external-content-connector.md)
+**Parent Topic:**[Box external content connector](box-external-content-connector.md)
 

@@ -157,5 +157,5 @@ Create a business rule for an investment entity that synchronizes the investment
 -   **[Access investments directly from an investment target](create-funding-artifacts.md)**  
 Create a related link to go directly to the My Funds page from an investment target.
 
-**Parent Topic:**[Investment Funding administration](../concept/investment-funding-administration.md)
+**Parent Topic:**[Investment Funding administration](investment-funding-administration.md)
 

@@ -99,7 +99,7 @@ The framework is intended to help you avoid errors in implementation and to prom
 
 -   **Provide practical user documentation**
 
-    \(The content that you’re viewing now\) Each product team that references CSDM objects should provide documented guidance on use and value of the objects. Links to product guidance appear in [Applying CSDM guidelines to your product — product views](../reference/use-cases.md).
+    \(The content that you’re viewing now\) Each product team that references CSDM objects should provide documented guidance on use and value of the objects. Links to product guidance appear in [Applying CSDM guidelines to your product — product views](use-cases.md).
 
 
 ## Helpful resources
@@ -123,10 +123,10 @@ Activate and configure CSDM capabilities.
 Following the CSDM framework ensures that you meet your primary goal of consistent accuracy in reporting and analytics so you can effectively manage your digital environment.
 -   **[Access CSDM features](csdm-content-frame-using.md)**  
 The CSDM is the data model that admins should follow when they set up ServiceNow products and applications. The standards for defining configuration items \(CIs\) and relationships between CIs in the CMDB help to promote that your data resides in the appropriate CMDB tables. The result is maximum value from ServiceNow AI Platform applications.
--   **[Applying CSDM guidelines to your product — product views](../reference/use-cases.md)**  
+-   **[Applying CSDM guidelines to your product — product views](use-cases.md)**  
 ServiceNow products expect that CMDB data is organized according to CSDM guidelines and they benefit from that organization.
 -   **[CSDM reference](csdm-content-frame-reference.md)**  
 Reference topics provide detailed descriptions of tables, properties, forms, and roles that are used in the CSDM framework.
 
-**Parent Topic:**[Configuration Management](../../../administer/general/concept/manage-cmdb.md)
+**Parent Topic:**[Configuration Management](../configuration-management-database-cmdb/manage-cmdb.md)
 

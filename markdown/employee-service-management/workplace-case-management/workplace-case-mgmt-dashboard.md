@@ -65,7 +65,7 @@ sn\_wsd\_case.manager
 |Active WSD Cases|List|List of active workplace cases on the current day.|
 |Unassigned Cases|List|List of unassigned workplace cases on the current day.|
 
-**Parent Topic:**[Analytics and Reporting Solutions for Workplace Case Management](../../../product/workplace-case-mgmt/concept/analytics-reporting-case-mgmt.md)
+**Parent Topic:**[Analytics and Reporting Solutions for Workplace Case Management](analytics-reporting-case-mgmt.md)
 
-**Parent Topic:**[Manage Workplace Dashboards](../../../product/workplace-central/task/workplace-dashboards-wsd-central.md)
+**Parent Topic:**[Manage Workplace Dashboards](../workplace-central/workplace-dashboards-wsd-central.md)
 

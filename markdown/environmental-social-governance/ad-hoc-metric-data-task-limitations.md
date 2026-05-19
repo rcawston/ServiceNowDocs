@@ -49,5 +49,5 @@ Ad hoc metric data tasks don't support certain features that are available for s
 
 For calculated metric definitions with the **Calculation level** field set to **Entity**, ad hoc task data contributes to the metric score. This is the only exception. All other limitations listed before apply to both manual and calculated metric definitions.
 
-**Parent Topic:**[Create ad hoc metric data tasks](../task/create-an-adhoc-metric-data-task.md)
+**Parent Topic:**[Create ad hoc metric data tasks](create-an-adhoc-metric-data-task.md)
 

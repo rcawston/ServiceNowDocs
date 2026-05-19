@@ -36,5 +36,5 @@ Proceed from the **Configure batch import for data** section. For information on
     The **Align fields** section is displayed.
 
 
-**Parent Topic:**[Configuring data import](../concept/configure-data-import.md)
+**Parent Topic:**[Configuring data import](configure-data-import.md)
 

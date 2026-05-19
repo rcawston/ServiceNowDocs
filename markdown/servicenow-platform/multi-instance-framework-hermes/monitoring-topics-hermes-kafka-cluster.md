@@ -40,9 +40,9 @@ You can track the progress of processing messages for each consumer by viewing c
 
 You can detect problems with consuming messages using the topic inspector. For example, if a message that you produced isn't consumed from the Hermes Kafka cluster, you can validate the payload and message key by inspecting the topic. You can also download the full payload and save it as a file on your local machine.
 
-You can view messages as binary data in base-64 encoding instead of UTF8 strings by adding a system property. See [Hermes Messaging Service system properties](../reference/hermes-messaging-service-properties.md).
+You can view messages as binary data in base-64 encoding instead of UTF8 strings by adding a system property. See [Hermes Messaging Service system properties](hermes-messaging-service-properties.md).
 
--   **[View a message in a Hermes topic](../task/view-messages-hermes-topic.md)**  
+-   **[View a message in a Hermes topic](view-messages-hermes-topic.md)**  
 View the payload of a message in a Hermes topic using the Hermes Messaging Service topic inspector.
 
 **Parent Topic:**[Managing namespaces and topics in Hermes](managing-namespaces-topics-hermes.md)

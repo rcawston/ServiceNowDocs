@@ -29,7 +29,7 @@ In new instances, search facets are enabled by default. If upgrading from a prev
 
 2.  Open or create a simple search source.
 
-    Simple search sources do not use a data fetch script. Rather, they define a table as the source of searchable data. To learn more about search sources, see [Configuring search in a portal](../concept/search-service-portal.md).
+    Simple search sources do not use a data fetch script. Rather, they define a table as the source of searchable data. To learn more about search sources, see [Configuring search in a portal](search-service-portal.md).
 
 3.  Select the **Facets** related list.
 
@@ -202,5 +202,5 @@ A query condition that users can set to filter search results. For example, **\[
         Users can filter search results based on the query defined.
 
 
-**Parent Topic:**[Zing search in Service Portal](../concept/zing-search-service-portal.md)
+**Parent Topic:**[Zing search in Service Portal](zing-search-service-portal.md)
 

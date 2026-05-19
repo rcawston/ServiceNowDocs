@@ -46,10 +46,10 @@ Procedure
 
 For more information, see the following topics:
 
-    -   [Modify application data tables](../concept/edit-data.md)
-    -   [Add an application experience](../concept/add-experience.md)
-    -   [Add logic and automation](../concept/add-automation.md)
-    -   [Add application security](../concept/add-security.md)
+    -   [Modify application data tables](edit-data.md)
+    -   [Add an application experience](add-experience.md)
+    -   [Add logic and automation](add-automation.md)
+    -   [Add application security](add-security.md)
 3.  Select **Save template**.
 
 

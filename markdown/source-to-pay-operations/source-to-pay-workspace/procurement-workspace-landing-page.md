@@ -190,14 +190,14 @@ Open a new tab with the ShoppingHub home page.
 
 You can configure the landing page using UI Builder, define different audiences for the landing page, and even add, remove, or modify the different content, if you want. However, it’s recommended that you create a duplicate of the landing page before modifying it. For detailed information on how to configure using UI Builder, see [Create a page in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
-**Parent Topic:**[Source-to-Pay Workspace landing page](../../source-to-pay-operations/concept/source-to-pay-ws-landing-page.md)
+**Parent Topic:**[Source-to-Pay Workspace landing page](source-to-pay-ws-landing-page.md)
 
 **Related topics**  
 
 
-[SLO landing page](../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
+[SLO landing page](supp-manager-ws-home.md)
 
-[APO landing page](../../accounts-payable-operations/concept/acc-pay-workspace-landing-page.md)
+[APO landing page](acc-pay-workspace-landing-page.md)
 
-[POM landing page](../../purchase-order-management/concept/purch-order-mgmt-tab-s2pws.md)
+[POM landing page](purch-order-mgmt-tab-s2pws.md)
 

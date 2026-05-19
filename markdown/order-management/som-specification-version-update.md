@@ -42,13 +42,13 @@ A set of specification versions can be updated using the batch specification uti
 
 **What to do next**
 
-[Configure update specification versions](../task/som-configure-specification-version-update.md)
+[Configure update specification versions](som-configure-specification-version-update.md)
 
--   **[Configure update specification versions](../task/som-configure-specification-version-update.md)**  
+-   **[Configure update specification versions](som-configure-specification-version-update.md)**  
 Configure specification version updates so that product specification versions can be updated to reflect changes and updates.
--   **[Batch update for product specification versions](../task/som-configure-specification-version-update-silent-batch-utility.md)**  
+-   **[Batch update for product specification versions](som-configure-specification-version-update-silent-batch-utility.md)**  
 Use the inventory batch update job to update product specifications when changes occur from one version to another.
--   **[View upgrade inventory job status](../task/som-view-upgrade-inventory-job-status.md)**  
+-   **[View upgrade inventory job status](som-view-upgrade-inventory-job-status.md)**  
 View the status of a specification upgrade job using the upgrade inventory Job status list form.
 
 **Parent Topic:**[Setting up specifications and product offerings](order-mgt-product-catalog.md)

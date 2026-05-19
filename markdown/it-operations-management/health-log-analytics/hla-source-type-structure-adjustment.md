@@ -69,7 +69,7 @@ For more information about the source type structure, see the [Source Type Struc
 
 **Note:** You can reactivate the learning mode for a source type structure to use the HLA engine's learning functionality again after the initial learning period becomes outdated. On the **Source Type Structure** form, select **Relearn** to reset parsing, extraction, classification, and labeling for the source type structure and restart the learning process.
 
--   **[Refine the source type structure in Health Log Analytics](../task/hla-source-type-structure-refine.md)**  
+-   **[Refine the source type structure in Health Log Analytics](hla-source-type-structure-refine.md)**  
 Fine-tune how Health Log Analytics reads your inner log messages and detects anomalies by customizing the extracted properties in the source type structure.
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)

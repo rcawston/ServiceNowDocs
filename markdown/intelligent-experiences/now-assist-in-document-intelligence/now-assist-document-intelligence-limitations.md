@@ -65,7 +65,7 @@ Image mode supports 10 to 50 pages per file, although this isn’t a hard limit.
 -   200 pages per file if no tables are defined for the use case.
 -   20 pages per file if a table is defined for the use case.
 
- Image mode is selected during use case setup. For more information, see [Set up a use case for Now Assist in Document Intelligence](../task/set-up-use-case-for-now-assist-document-intelligence.md).
+ Image mode is selected during use case setup. For more information, see [Set up a use case for Now Assist in Document Intelligence](set-up-use-case-for-now-assist-document-intelligence.md).
 
 </td></tr><tr><td>
 

@@ -48,5 +48,5 @@ Ensure to exclude the Bot to Bot channel from Agent Chat.
 6.  Click **Update**.
 
 
-**Parent Topic:**[Using Virtual Agent API](../concept/use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](use-virtual-agent-api.md)
 

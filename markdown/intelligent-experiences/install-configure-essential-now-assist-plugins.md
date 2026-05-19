@@ -55,7 +55,7 @@ Actionable use case cards tailored to your instance and entitlements now appear 
 
 To activate a use case, see [Activate an actionable use case in Now Assist Center](activate-solution-now-assist-center.md).
 
-**Parent Topic:**[Activating actionable use cases from Now Assist Center](../concept/now-assist-center-actionable-use-cases.md)
+**Parent Topic:**[Activating actionable use cases from Now Assist Center](now-assist-center-actionable-use-cases.md)
 
 **Related topics**  
 

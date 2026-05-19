@@ -28,7 +28,7 @@ When you install ICW Mobile, it automatically installs the following dependencie
 
 -   **[Archive rules in the Industrial Connected Workforce](archive-rules-icw.md)**  
 Archiving rules in the Industrial Connected Workforce \(ICW\) helps maintain system efficiency by automatically managing outdated records. These rules verify that only relevant and current data remains active.
--   **[Configure the contextual sidebar](../task/configure-contextual-sidebar.md)**  
+-   **[Configure the contextual sidebar](configure-contextual-sidebar.md)**  
 Configure whether the sidebar is open or closed by default for users in your instance.
 
 **Parent Topic:**[Industrial Connected Workforce Core](industrial-connected-workforce-core-landing-page.md)

@@ -31,7 +31,7 @@ Software Suites \[cmdb\_m2m\_suite\_model\] table captures the relationship betw
 
 For any software model, you can specify whether the model is a suite \(parent\) or a component \(child\). A software model can be a component in multiple suites. For example, Microsoft Word is a component in two suites: Microsoft Office Standard and Microsoft Office Professional. Although you can set a single software model as both a suite and a component, software isn’t typically sold as nested suites.
 
-Suite information such as **Suite Components** and **Suite Parents** are found as tabs in the Software Model form. Whenever a software model is automatically created as part of a scheduled job, its child components are automatically created and appear in the [Suite Components](../reference/software-model-fields.md#section_bdp_kmc_xhb) tab in the software model form.
+Suite information such as **Suite Components** and **Suite Parents** are found as tabs in the Software Model form. Whenever a software model is automatically created as part of a scheduled job, its child components are automatically created and appear in the [Suite Components](software-model-fields.md#section_bdp_kmc_xhb) tab in the software model form.
 
 ## Predefined suites
 

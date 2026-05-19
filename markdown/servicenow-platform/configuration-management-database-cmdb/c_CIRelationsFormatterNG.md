@@ -36,7 +36,7 @@ The CI relations formatter contains a list of related CIs and a toolbar with con
 
         CI1 &gt; CI2 &gt; endpoint2 \(appears as level 2 relationship – endpoint1 is hidden and endpoint2 appears as it a child and not a parent in any other relationship\).
 
--   On instances that do not meet the internet browser requirements for the CI relations formatter, the default CI form includes the legacy CI relations formatter instead. For more information, see [Legacy CI relations formatter](../../../administer/form-administration/reference/r_LegacyCIRelationsFormatter.md).
+-   On instances that do not meet the internet browser requirements for the CI relations formatter, the default CI form includes the legacy CI relations formatter instead. For more information, see [Legacy CI relations formatter](r_LegacyCIRelationsFormatter.md).
 -   CIs not extended from the Configuration Item \[cmdb\_ci\] table, are not displayed in Dependency Views maps and in CI relation formatters.
 -   The **Applicative Flow To::Application Flow From** relationship is a special relationship type used only between Service Mapping endpoints. This relationship type is not intended for use in the CMDB as a relationship between CIs and therefore it is not displayed in the relations formatter.
 
@@ -54,7 +54,7 @@ Add CI relationship
 
 </td><td>
 
-Starts the relationship editor to manually create CI relationships. For more information \(including about roles required for the '+' control to appear\), see [Create or edit a CI relationship](../task/t_CreateCIRelationship.md).
+Starts the relationship editor to manually create CI relationships. For more information \(including about roles required for the '+' control to appear\), see [Create or edit a CI relationship](t_CreateCIRelationship.md).
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Show dependency views
 
 </td><td>
 
-Launches a Dependency Views map in another window or tab. The CI is the central node in the map, with a configurable number of levels above and below that node in the hierarchy. Map indicators next to the nodes indicate the number of tasks, incidents, problems, changes, or outages related to that node. Right-click to expand collapsed nodes or display a list of related tasks or problems. For more information, see [Dependency Views map](../../business-service-management-map-ng/concept/c_NextGenBSMMaps.md).
+Launches a Dependency Views map in another window or tab. The CI is the central node in the map, with a configurable number of levels above and below that node in the hierarchy. Map indicators next to the nodes indicate the number of tasks, incidents, problems, changes, or outages related to that node. Right-click to expand collapsed nodes or display a list of related tasks or problems. For more information, see [Dependency Views map](../dependency-views/c_NextGenBSMMaps.md).
 
 </td></tr><tr><td>
 
@@ -187,11 +187,11 @@ Specifies the maximum number of related CIs to display.
 </td></tr></tbody>
 </table>-   **[Domain separation](domain-separation-relationship-formatter-editor.md)**  
 Domain separation is supported in the relations formatter and the CI relationship editor. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Create or edit a relationship filter](../task/t_CreateRelationshipFilter.md)**  
+-   **[Create or edit a relationship filter](t_CreateRelationshipFilter.md)**  
 Create a custom relationship filter to display CI relationships from selected tables in the CI relations formatter.
--   **[Exclude relationships from the relations formatter view](../task/exclude-relationship.md)**  
+-   **[Exclude relationships from the relations formatter view](exclude-relationship.md)**  
 Create a list of relationships that should not appear in the relations formatter view on CI forms.
--   **[Legacy CI relations formatter](../../../administer/form-administration/reference/r_LegacyCIRelationsFormatter.md)**  
+-   **[Legacy CI relations formatter](r_LegacyCIRelationsFormatter.md)**  
 On instances that do not meet the internet browser requirements for the latest CI relations formatter, the default CI form includes the legacy CI relations formatter instead.
 
 **Parent Topic:**[CI relationships in the CMDB](c_CIRelationships.md)
@@ -199,9 +199,9 @@ On instances that do not meet the internet browser requirements for the latest C
 **Related topics**  
 
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](t_AddANewSuggestedRelationship.md)
 
 [Relationship governance rules](relationship-governance.md)
 
@@ -211,9 +211,9 @@ On instances that do not meet the internet browser requirements for the latest C
 
 [CI relationship security](c_CIRelationshipSecurity.md)
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](t_CreateACIRelationRollup.md)
 
 [Create a formatter and add it to the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAFormatter.md)
 
-[Create or edit a relationship filter](../task/t_CreateRelationshipFilter.md)
+[Create or edit a relationship filter](t_CreateRelationshipFilter.md)
 

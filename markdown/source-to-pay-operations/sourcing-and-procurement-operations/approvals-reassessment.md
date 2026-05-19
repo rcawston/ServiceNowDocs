@@ -23,7 +23,7 @@ For information on approval rule groups and sequencing, and how these impact the
 
 A reduction in funds revision is not allowed if the amount is below what has already been shipped or delivered. Revisions are not allowed on rejected lines, and therefore reassessment of approvals is not applicable.
 
-For information on approval rules, see [Approval rule types](approval-rule-types.md) and [Create an approval rule](../task/create-approval-rule.md).
+For information on approval rules, see [Approval rule types](approval-rule-types.md) and [Create an approval rule](create-approval-rule.md).
 
 When an approval reassessment is sent to approvers, the approval amount to be considered must include the revised line's original amount and the increase in funds. For example, if the original line amount is $1000 and an increase in funds revision results in the line amount to be $1500, the amount to be considered for reassessment and approval is $1500.
 

@@ -49,7 +49,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 6.  Select **Save** and **Exit editing mode**.
 
-    For more information about Platform Analytics \(PAR\) dashboards, see [Exploring Platform Analytics dashboards](../../../use/dashboards/reference/ac-elements.md).
+    For more information about Platform Analytics \(PAR\) dashboards, see [Exploring Platform Analytics dashboards](../ac-elements.md).
 
 
 ## Result
@@ -58,5 +58,5 @@ The Process Mining map is available in the PAR dashboard.
 
 ![Process Mining map](../image/dash-pm.png)
 
-**Parent Topic:**[Configuring Process Mining](../concept/setting-up-process-mining.md)
+**Parent Topic:**[Configuring Process Mining](setting-up-process-mining.md)
 

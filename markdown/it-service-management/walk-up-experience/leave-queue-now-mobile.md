@@ -40,5 +40,5 @@ Role required: user
     You can also swipe your visit card and tap **Leave queue**.
 
 
-**Parent Topic:**[Walk-up Experience on Now Mobile](../concept/walk-up-experience-now-mobile.md)
+**Parent Topic:**[Walk-up Experience on Now Mobile](walk-up-experience-now-mobile.md)
 

@@ -17,7 +17,7 @@ You can create policies and rules to bundle tasks automatically with Field Servi
 
 Dynamic task bundling enables administrators to create policies and rules to bundle tasks automatically according to custom criteria.
 
-For information about the policies and rules installed with Field Service Task Bundling, see [Field Service Task Bundling components](../reference/task-bundling-components.md).
+For information about the policies and rules installed with Field Service Task Bundling, see [Field Service Task Bundling components](../task-bundling-components.md).
 
 ## Policies
 
@@ -33,7 +33,7 @@ A policy consists of multiples rules. Policies have the following restrictions:
 
 ### Qualifiers
 
-Qualifiers dictate which work order tasks are targeted for bundling. By default, qualifiers are based on assignment groups. If [Field Service Territory Planning](territory-planning-fsm.md) is active, qualifiers are based on territories.
+Qualifiers dictate which work order tasks are targeted for bundling. By default, qualifiers are based on assignment groups. If [Field Service Territory Planning](../territory-planning-fsm.md) is active, qualifiers are based on territories.
 
 Qualifiers have the following restrictions:
 

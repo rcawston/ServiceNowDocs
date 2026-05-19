@@ -120,5 +120,5 @@ Updates the case to Closed Completed.
 
 The procurement case is updated with valid address and its state updates to Closed Completed.
 
-**Parent Topic:**[Verifying delivery addresses in playbook](../concept/delivery-address-in-playbook.md)
+**Parent Topic:**[Verifying delivery addresses in playbook](delivery-address-in-playbook.md)
 

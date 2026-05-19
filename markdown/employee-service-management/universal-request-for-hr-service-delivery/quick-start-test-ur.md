@@ -69,5 +69,5 @@ Verifies a catalog request for any item from self-service can be created when Un
 San Diego
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal Request](../../../product/universal-request/concept/ur-landing-limitedaccess.md)
+</table>**Parent Topic:**[Universal Request](ur-landing-limitedaccess.md)
 

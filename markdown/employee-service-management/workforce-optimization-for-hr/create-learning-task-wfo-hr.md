@@ -86,5 +86,5 @@ Date when the agent must complete the course. Default is 5 days after the creati
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for HR](../concept/learning-wfo-hr.md)
+**Parent Topic:**[Learning in Workforce Optimization for HR](learning-wfo-hr.md)
 

@@ -74,5 +74,5 @@ For information about how to create a customized relationship graph rather than 
 
 Video showing how to create a relationship node graph for an incident 
 
-**Parent Topic:**[Viewing incident details with a relationship graph](../concept/sir-relationship-graph.md)
+**Parent Topic:**[Viewing incident details with a relationship graph](sir-relationship-graph.md)
 

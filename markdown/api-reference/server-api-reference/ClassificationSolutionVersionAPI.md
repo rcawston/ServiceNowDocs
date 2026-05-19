@@ -17,18 +17,18 @@ The ClassificationSolutionVersion API is a scriptable object used in Predictive 
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-This API is used for working with solution versions based on [ClassificationSolution API](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#) objects in the [ClassificationSolution store](../../ClassificationSolutionStore/concept/ClassificationSolutionStoreAPI.md#).
+This API is used for working with solution versions based on [ClassificationSolution API](ClassificationSolutionAPI.md#) objects in the [ClassificationSolution store](ClassificationSolutionStoreAPI.md#).
 
 The system creates a solution version each time you train a solution definition. Most versions are created during scheduled solution training.
 
-Methods in this API are accessible using the following [ClassificationSolution - Global](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#) methods:
+Methods in this API are accessible using the following [ClassificationSolution - Global](ClassificationSolutionAPI.md#) methods:
 
--   [getActiveVersion\(\)](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#)
--   [getAllVersions\(\)](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#)
--   [getLatestVersion\(\)](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#)
--   [getVersion\(\)](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#)
+-   [getActiveVersion\(\)](ClassificationSolutionAPI.md#)
+-   [getAllVersions\(\)](ClassificationSolutionAPI.md#)
+-   [getLatestVersion\(\)](ClassificationSolutionAPI.md#)
+-   [getVersion\(\)](ClassificationSolutionAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ClassificationSolutionVersion - getPredictionPerformance\(Object options\)
 
@@ -357,7 +357,7 @@ Class recall parameter to steer a solution's training to bias a specific class. 
 
 </td><td>
 
-Lists the properties of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object associated with the solution.
+Lists the properties of the [DatasetDefinition\(\)](DatasetDefinitionAPI.md#) object associated with the solution.
 
  Data type: Object
 
@@ -441,7 +441,7 @@ Domain name associated with this dataset. See [Domain separation and Predictive 
 
 </td><td>
 
-Encoder object assigned to this solution. See [Encoder - Encoder\(Object config\)](../../Encoder/concept/EncoderAPI.md#).Data type: Object
+Encoder object assigned to this solution. See [Encoder - Encoder\(Object config\)](EncoderAPI.md#).Data type: Object
 
 </td></tr><tr><td>
 
@@ -639,7 +639,7 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [ClassificationSolution](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#) object.```
+JavaScript object containing training status information for a [ClassificationSolution](ClassificationSolutionAPI.md#) object.```
 {
   "state": "String",
   "percentComplete": "Number as a String",
@@ -999,7 +999,7 @@ Object
 
 </td><td>
 
-[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
+[GlideRecord](c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
 
 </td></tr><tr><td>
 

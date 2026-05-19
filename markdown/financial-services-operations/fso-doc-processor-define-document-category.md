@@ -37,5 +37,5 @@ Role required: sn\_doc\_processor.admin
 
 [Associate document types to a document category](doc-processor-associate-document-types-to-category.md)
 
-**Parent Topic:**[Configuring Financial Services Operations Document Processor](../concept/configuring-fso-document-processor.md)
+**Parent Topic:**[Configuring Financial Services Operations Document Processor](configuring-fso-document-processor.md)
 

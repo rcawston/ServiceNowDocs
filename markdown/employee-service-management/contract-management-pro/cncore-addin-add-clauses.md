@@ -122,7 +122,7 @@ In the **Clauses** tab, select **Create Variation** for the clause that you want
 
 [Configure metadata for fields, variables, and variables sets in a contract document](cncore-addin-add-metadata.md)
 
-[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)
+[Configuring signatories in Contract template using Microsoft Word add-in](cncore-config-sign-addin.md)
 
 [Map contract tables using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-table.md)
 

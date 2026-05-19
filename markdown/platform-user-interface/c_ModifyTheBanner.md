@@ -37,16 +37,16 @@ If **glide.product.name** is blank, then the ServiceNow name is used as the prod
 
 The banner text and banner image defined for the Company that a user is assigned to may be used to override the **glide.product.image** and **glide.product.description**. The banner text, if specified, is used instead of the **glide.product.description** property. The banner image, if specified, is used instead of the **glide.product.image** property.
 
-**Parent Topic:**[Create a company profile](../task/t_CreateACompanyProfile.md)
+**Parent Topic:**[Create a company profile](t_CreateACompanyProfile.md)
 
 **Related topics**  
 
 
 [Banner logo link](c_CustomizeTheBannerLogoLink.md)
 
-[Customize the banner logo in Core UI](../task/t_CustomizeTheLogoInSysProps.md)
+[Customize the banner logo in Core UI](t_CustomizeTheLogoInSysProps.md)
 
-[Customize the favicon](../task/customize-favicon.md)
+[Customize the favicon](customize-favicon.md)
 
 [Examples of how to modify the banner](c_ExamplesOfHowToModifyTheBanner.md)
 

@@ -38,12 +38,12 @@ You can include other CMDB tables that contain software products, to fetch and v
     After the **Populate TPM Discovered Technologies and Lifecycles** job runs, the corresponding software records and their technology lifecycle details are populated in the list of TPM software products.
 
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 
 **Related topics**  
 
 
-[Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-tpm.md)
+[Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](eaw-tpm.md)
 
 [Update TPM data for a business application or application service](update-tpm-data.md)
 

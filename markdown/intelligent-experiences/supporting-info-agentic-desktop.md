@@ -19,7 +19,7 @@ AI Desktop Actions is supported from Zurich Patch 4, and support for adaptive de
 
 ## Supported user interfaces
 
-To design and run AI-powered desktop actions using Now Assist AI agents, install the AI Desktop Actions application. For more information, see [Configure AI Desktop Actions](../task/configure-agentic-desktop.md).
+To design and run AI-powered desktop actions using Now Assist AI agents, install the AI Desktop Actions application. For more information, see [Configure AI Desktop Actions](configure-agentic-desktop.md).
 
 ## Licensing requirements
 

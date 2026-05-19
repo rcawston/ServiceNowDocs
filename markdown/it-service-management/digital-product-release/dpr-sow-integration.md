@@ -24,7 +24,7 @@ This seamless experience streamlines collaboration between Change and Release te
 -   Manage change requests associated with releases
 -   Import affected configuration items \(CIs\) from release phases
 
-For more information, see [Service Operations Workspace for ITSM](../../service-operations-workspace/concept/sow-landing-page.md).
+For more information, see [Service Operations Workspace for ITSM](../service-operations-workspace/sow-landing-page.md).
 
 ## Prerequisites
 

@@ -203,5 +203,5 @@ Select one of the following: -   **StrictReject** rejects access under all circu
     **Note:** A maximum of five module access policies are permitted with Field Encryption. See for configuration options.
 
 
-**Parent Topic:**[Configuring the Key Management Framework](../../encryption/concept/configure-kmf.md)
+**Parent Topic:**[Configuring the Key Management Framework](configure-kmf.md)
 

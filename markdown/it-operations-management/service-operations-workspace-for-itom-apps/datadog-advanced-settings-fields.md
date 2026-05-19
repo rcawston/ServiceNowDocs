@@ -99,7 +99,7 @@ Debugging
 -   Log payload: Displays raw log data. Use only for debugging, as it can quickly fill the MID Server logs.
 
 </td></tr></tbody>
-</table>To return to the procedure, see [Configure Datadog metric pull connector](../task/configure-datadog-metric-pull-connector.md).
+</table>To return to the procedure, see [Configure Datadog metric pull connector](configure-datadog-metric-pull-connector.md).
 
-**Parent Topic:**[Service Operations Workspace for ITOM reference](../concept/sow-reference-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM reference](sow-reference-itom.md)
 

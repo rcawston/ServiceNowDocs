@@ -29,7 +29,7 @@ Note that System Archive does not reduce primary storage usage or move data to a
 
 ## Archive rules
 
-During archiving, records that meet the defined archive rules are moved to a corresponding archive table prefixed with `ar_`. For more information, see [Viewing table rules](../../managing-data/concept/data-management-table-rules.md) and [Viewing rule activities](../../managing-data/concept/data-management-rule-activities.md).
+During archiving, records that meet the defined archive rules are moved to a corresponding archive table prefixed with `ar_`. For more information, see [Viewing table rules](data-management-table-rules.md) and [Viewing rule activities](data-management-rule-activities.md).
 
 ## Use cases
 
@@ -37,5 +37,5 @@ During archiving, records that meet the defined archive rules are moved to a cor
 -   The Incident \[incident\] table on your instance has grown and users are reporting that queries against the table are slow. You can create an archive rule with conditions like **\[Closed\] \[relative\] \[on or before\] \[150\] \[Days\] \[ago\]** and **\[Active\] \[is\] \[false\]** to move records to the Archived Incidents \[ar\_incident\] table when they're closed for more than 150 days.
 -   Archive related records together to maintain data integrity for compliance and auditing requirements. This approach archives records from a primary table along with any dependent records in other tables that reference them. For example, when archiving records from the Problem \[problem\] table, you can include incidents that reference those problem records in the **Problem in incident** field.
 
-For information about using the System Archive feature, see [Archiving records in Core UI](../../managing-data/concept/archiving-older-records.md).
+For information about using the System Archive feature, see [Archiving records in Core UI](archiving-older-records.md).
 

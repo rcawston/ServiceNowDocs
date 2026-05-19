@@ -30,7 +30,7 @@ Elements that are included in a business process modeling diagram:
 **Related topics**  
 
 
-[Create a diagram for a business process map](../../task/eaw-task/eaw-modeling-bp-map.md)
+[Create a diagram for a business process map](eaw-modeling-bp-map.md)
 
-[Update a business process map](../../task/eaw-task/eaw-modeling-update-bp-map.md)
+[Update a business process map](eaw-modeling-update-bp-map.md)
 

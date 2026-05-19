@@ -46,8 +46,8 @@ Before creating decision trees for needs templates, review how decision trees wo
 
 Follow these steps to configure needs analysis:
 
-1.  [Create a needs-based product offering recommendation](../task/create-product-recommendations.md).
-2.  [Create a decision tree for a needs template](../task/configure-needs-decision-tree.md).
-3.  [Build a needs decision tree](../task/build-needs-decision-tree.md).
-4.  [Create a needs template and set the catalog relationship](../task/create-publish-needs-template.md).
+1.  [Create a needs-based product offering recommendation](create-product-recommendations.md).
+2.  [Create a decision tree for a needs template](configure-needs-decision-tree.md).
+3.  [Build a needs decision tree](build-needs-decision-tree.md).
+4.  [Create a needs template and set the catalog relationship](create-publish-needs-template.md).
 

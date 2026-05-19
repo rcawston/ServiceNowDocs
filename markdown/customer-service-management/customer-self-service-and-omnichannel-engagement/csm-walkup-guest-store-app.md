@@ -25,7 +25,7 @@ Note the following requirements for guest users to be able to use Walk-up Experi
 
 -   The Guest Walk-up Experience for Customer Service store app must be installed. For more information on installing the store application, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md).
 -   The com.snc.walkup\_for\_csm plugin must be activated. For more information on activating a plugin, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
--   The Walk-up Check-in widget must be configured. For more information, see [Add a Walk-up Experience online check-in link on the Service Portal home page](../task/csm-walkup-add-checkin-icon.md).
+-   The Walk-up Check-in widget must be configured. For more information, see [Add a Walk-up Experience online check-in link on the Service Portal home page](csm-walkup-add-checkin-icon.md).
 
 **Parent Topic:**[Walk-up Experience for Customer Service Management](csm-walkup-experience.md)
 

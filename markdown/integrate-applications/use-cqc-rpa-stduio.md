@@ -42,7 +42,7 @@ Role required: RPA Developer
 
 3.  In the Code Quality Check Results window, view the issue results and their details as a list.
 
-    The results are classified as error, warning, and information based on the severity that is set by the RPA administrator or release manager. You can filter the results by the severity level by selecting the **All** button. The **Name** field indicates the type of issue that is based on the code quality rules configured in RPA Hub. For more information on the list of code quality rules, see [Code quality rules list in RPA Hub](../../rpa-hub/reference/cqr-list-rpa.md).
+    The results are classified as error, warning, and information based on the severity that is set by the RPA administrator or release manager. You can filter the results by the severity level by selecting the **All** button. The **Name** field indicates the type of issue that is based on the code quality rules configured in RPA Hub. For more information on the list of code quality rules, see [Code quality rules list in RPA Hub](cqr-list-rpa.md).
 
     ![Code Quality Check Results window](../image/cqc-results.png "Code Quality Check Results window")
 
@@ -63,5 +63,5 @@ Role required: RPA Developer
 
 The automation project is ready to be published. Code quality check is also performed automatically when you publish a project. For more information on how to publish a project, see [Publish an automation project in RPA Desktop Design Studio](publish-automation-project.md).
 
-**Parent Topic:**[Code quality check in RPA Desktop Design Studio](../concept/code-quality-check-studio.md)
+**Parent Topic:**[Code quality check in RPA Desktop Design Studio](code-quality-check-studio.md)
 

@@ -27,7 +27,7 @@ Before using these APIs, you must [configure an authentication algorithm](https:
 
 Use this API in scoped scripts with the `sn_auth` namespace identifier.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## RequestAuthAPI - RequestAuthAPI\(Object data, Object credential\)
 
@@ -35,8 +35,8 @@ Instantiates a RequestAuthAPI object using a REST request and a credential.
 
 |Name|Type|Description|
 |----|----|-----------|
-|data|Object|HttpRequestData object that contains the unsigned REST request. Use the HttpRequestData class to build this object. See [HttpRequestData API](../../HttpRequestData/concept/HttpRequestDataAPI.md#).|
-|credential|Object|Object that represents a record from the Credentials \[discovery\_credentials\] table. Retrieve this object using the AuthCredential class. See [AuthCredential API](../../AuthCredential/concept/AuthCredentialAPI.md#).|
+|data|Object|HttpRequestData object that contains the unsigned REST request. Use the HttpRequestData class to build this object. See [HttpRequestData API](HttpRequestDataAPI.md#).|
+|credential|Object|Object that represents a record from the Credentials \[discovery\_credentials\] table. Retrieve this object using the AuthCredential class. See [AuthCredential API](AuthCredentialAPI.md#).|
 
 ```
 // Define the HttpRequestData object
@@ -67,7 +67,7 @@ Signs the HttpRequestData object and returns an HttpRequestAuthedData object to 
 
 |Type|Description|
 |----|-----------|
-|HttpRequestAuthedData|Object. Data to use to obtain information about the signed result. Use the methods in the HttpRequestAuthedData class to interact with the signed result. See [HttpRequestAuthedData API](../../HttpRequestAuthedData/concept/HttpRequestAuthedDataAPI.md#).|
+|HttpRequestAuthedData|Object. Data to use to obtain information about the signed result. Use the methods in the HttpRequestAuthedData class to interact with the signed result. See [HttpRequestAuthedData API](HttpRequestAuthedDataAPI.md#).|
 
 This example creates a request and gets a credential record to pass to the RequestAuthAPI API. The generateAuth\(\) method then signs the request.
 
@@ -103,7 +103,7 @@ Returns the credential record used to sign the request.
 
 |Type|Description|
 |----|-----------|
-|AuthCredential|Object. Data to use to obtain information about the credential record used to sign the request. Use the methods in the AuthCredential class to interact with the credential. See [AuthCredential API](../../AuthCredential/concept/AuthCredentialAPI.md#).|
+|AuthCredential|Object. Data to use to obtain information about the credential record used to sign the request. Use the methods in the AuthCredential class to interact with the credential. See [AuthCredential API](AuthCredentialAPI.md#).|
 
 ```
 // Define the HttpRequestData object
@@ -135,7 +135,7 @@ Returns the HttpRequestData object that was used to instantiate the RequestAuthA
 
 |Type|Description|
 |----|-----------|
-|HttpRequestData|Object. Contains the unsigned REST request. Use the methods in the HttpRequestData class to interact with the request. See [HttpRequestData API](../../HttpRequestData/concept/HttpRequestDataAPI.md#).|
+|HttpRequestData|Object. Contains the unsigned REST request. Use the methods in the HttpRequestData class to interact with the request. See [HttpRequestData API](HttpRequestDataAPI.md#).|
 
 ```
 // Define the HttpRequestData object

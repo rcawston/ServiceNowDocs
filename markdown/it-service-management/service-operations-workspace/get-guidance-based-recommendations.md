@@ -51,5 +51,5 @@ For records other than incidents \(such as Incident Tasks, Problems, Problem tas
     The AI-powered search results in the following eight record types: Incident, Incident Tasks, Problem, Problem tasks, Change request, Change task, Interaction, and Request.
 
 
-**Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](../concept/recommended-actions-for-itsm-in-service-operations-workspace.md)
+**Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](recommended-actions-for-itsm-in-service-operations-workspace.md)
 

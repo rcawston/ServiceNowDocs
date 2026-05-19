@@ -17,7 +17,7 @@ Configure the Kafka metric consumer connector instance to read message send to K
 
 ## Before you begin
 
-To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](configure-itoa-metric-extension.md).
+To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](../metric-intelligence/configure-itoa-metric-extension.md).
 
 -   For PLAINTEXT in the Credential field, create a Basic authentication credential.
 
@@ -45,7 +45,7 @@ Role required: evt\_mgmt\_admin
     2.  On the Credentials screen, select **New**.
     3.  From the list of available credentials, select **Kafka SSL Credentials**.
 
-        For the Kafka SSL credentials fields descriptions, see [Kafka SSL credentials fields](../../health-log-analytics-admin/reference/hla-data-input-kafka-credentials.md).
+        For the Kafka SSL credentials fields descriptions, see [Kafka SSL credentials fields](../health-log-analytics/hla-data-input-kafka-credentials.md).
 
         **Note:** If you clear the **Disable hostname verification** field, then in the **Additional Kafka consumer properties** field, enter the value of the **ssl.endpoint.identification.algorithm** parameter the same as of the Kafka server parameter value. For example:
 

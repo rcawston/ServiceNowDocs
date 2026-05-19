@@ -21,7 +21,7 @@ Verify that you have performed the following:
 
 -   Activated the Source-to-Pay integration with the Oracle EBS application from ServiceNow Store. This automatically activates the Oracle EBS Spoke.
 -   Set up [Oracle EBS Spoke](https://www.servicenow.com/docs/csh?topicname=setup-oebs-spoke&version=yokohama&pubname=yokohama-integrate-applications).
--   Activated the Source-to-Pay integration framework from ServiceNow Store. Source-to-Pay integration with Oracle EBS uses the Source-to-Pay integration framework to pull tasks from Oracle EBS into ServiceNow. For more information on the Source-to-Pay integration framework, see [Source-to-Pay integration framework](../../source-to-pay-operations/concept/source-to-pay-integration-framework.md).
+-   Activated the Source-to-Pay integration framework from ServiceNow Store. Source-to-Pay integration with Oracle EBS uses the Source-to-Pay integration framework to pull tasks from Oracle EBS into ServiceNow. For more information on the Source-to-Pay integration framework, see [Source-to-Pay integration framework](source-to-pay-integration-framework.md).
 
 
 ## Primary Data Integration with Oracle EBS's Dependencies
@@ -68,11 +68,11 @@ Install the following dependencies of Accounts Payable Operations integration wi
 
 -   **[ERP source configuration for Oracle EBS](erp-source-configuration-oracle.md)**  
 Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post purchase order, receipt, invoice, and download primary data from the ERP.
--   **[Define ERP source configuration for Oracle EBS](../task/define-erp-source-oracle.md)**  
+-   **[Define ERP source configuration for Oracle EBS](define-erp-source-oracle.md)**  
 ERP source configuration determines the ERP source to which your ERP system connects. Map the integration payload with the Oracle EBS tables.
--   **[Configure integration services for Oracle EBS](../task/configure-service-maps-oracle-ebs.md)**  
+-   **[Configure integration services for Oracle EBS](configure-service-maps-oracle-ebs.md)**  
 For configuring integration services, provide the connection end point and the Oracle EBS ERP credentials that you set up for your authentication profile. Also, create a separate web service record for each service request that you want to customize.
--   **[Load data to ERP user-mapping table for Oracle EBS](../task/load-data-erp-user-mapping-oracle-ebs.md)**  
+-   **[Load data to ERP user-mapping table for Oracle EBS](load-data-erp-user-mapping-oracle-ebs.md)**  
 Set up Oracle EBS and ERP User ID mapping for the integration to work. The mapping is maintained for all active users who have the procurement buyer role in ERP. These users should be used in the requisition assignment rule.
 -   **[Look up primary data in Oracle EBS](look-up-primary-data-oracle-ebs.md)**  
 You can run a job to look up primary data from different ERP sources into ServiceNow.

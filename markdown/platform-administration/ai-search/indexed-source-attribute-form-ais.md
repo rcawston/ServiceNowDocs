@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Indexed Source Attribute form contains details of attributes that affect content indexing behavior for all fields from an AI Search indexed source. Use this form when creating or modifying an indexed source attribute.
 
-For details on creating or editing indexed source attributes, see [Indexed source attributes for AI Search](../concept/indexed-source-attributes-ais.md).
+For details on creating or editing indexed source attributes, see [Indexed source attributes for AI Search](indexed-source-attributes-ais.md).
 
 |Field|Description|
 |-----|-----------|
@@ -25,5 +25,5 @@ For details on creating or editing indexed source attributes, see [Indexed sourc
 |Source|Specific table from the indexed source that the attribute applies to.|
 |Value|Value for the specified attribute.|
 
-**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+**Parent Topic:**[AI Search reference](reference-ais.md)
 

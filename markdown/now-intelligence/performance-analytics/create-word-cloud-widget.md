@@ -115,6 +115,6 @@ Drill down to a second level of breakdown and element, if a first-level breakdow
 
 -   Add the widget to a dashboard.
 -   The admin or the dashboard owner shares the dashboard containing the widget with these users.
--   Text analysis uses special steps in the [data collection job](../concept/performance-analytics-glossary.md#). If no data is available for the widget, verify that the relevant data collection job has run and that the job collects text indexes. See [Collect initial text analytics data](collect-initial-text-analytics-data.md).
+-   Text analysis uses special steps in the [data collection job](performance-analytics-glossary.md#). If no data is available for the widget, verify that the relevant data collection job has run and that the job collects text indexes. See [Collect initial text analytics data](collect-initial-text-analytics-data.md).
 -   Filter the word cloud by keywords.
 

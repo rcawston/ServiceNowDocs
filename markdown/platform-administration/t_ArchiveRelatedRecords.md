@@ -72,7 +72,7 @@ Steps
         For example, you create an archive rule on the Problem \[problem\] table. You can include related incident records by selecting the **Problem in Incident** field reference field on the Incident \[incident\] table.
 
         -   The **Archive** action archives any incident record that references an archived problem.
-        -   The **Clear** action updates any incident record with a reference to the archived problem record by clearing the reference. If the reference is a [many-to-many relationship](../../task-table/concept/c_ManyToManyTaskRelations.md), the related record rule deletes the reference instead of clearing the reference.
+        -   The **Clear** action updates any incident record with a reference to the archived problem record by clearing the reference. If the reference is a [many-to-many relationship](table-administration-and-data-management/c_ManyToManyTaskRelations.md), the related record rule deletes the reference instead of clearing the reference.
         -   The **Delete** action deletes any incident record that references the archived problem record.
     -   **Document ID fields**
 
@@ -101,5 +101,5 @@ Steps
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Archiving records in Core UI](../../managing-data/concept/archiving-older-records.md)
+**Parent Topic:**[Archiving records in Core UI](archiving-older-records.md)
 

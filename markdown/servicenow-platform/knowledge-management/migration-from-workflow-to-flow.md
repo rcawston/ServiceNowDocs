@@ -24,5 +24,5 @@ Existing users of Knowledge Management upgrading to Zurich will have access to b
 **Related topics**  
 
 
-[Knowledge workflows](../reference/r_KnowledgeWorkflows.md#)
+[Knowledge workflows](r_KnowledgeWorkflows.md#)
 

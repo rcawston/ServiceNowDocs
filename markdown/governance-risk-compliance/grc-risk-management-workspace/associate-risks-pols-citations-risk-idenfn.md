@@ -60,15 +60,15 @@ Risks, citations, and policies can be associated manually or by using the recomm
 11. Click **Monitor** to move the record to Monitor state.
 
 
--   **[Recommendation engine for risk and compliance mapping](../concept/recommendation-engine.md)**  
+-   **[Recommendation engine for risk and compliance mapping](recommendation-engine.md)**  
 A recommendation engine is a system that suggests products, services, and information to users based on data analysis. A recommendation engine boosts revenues and other essential metrics.
--   **[Information objects](../reference/information-objects.md)**  
+-   **[Information objects](information-objects.md)**  
 Information objects are a part of the information portfolio management capability in the Application Portfolio Management application.
 
-**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](../concept/risk-and-apm-better-together.md)
+**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](risk-and-apm-better-together.md)
 
 **Related topics**  
 
 
-[Recommendation engine for risk and compliance mapping](../concept/recommendation-engine.md)
+[Recommendation engine for risk and compliance mapping](recommendation-engine.md)
 

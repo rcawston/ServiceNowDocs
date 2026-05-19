@@ -202,7 +202,7 @@ Test JDBC Step
 
 </td><td>
 
-Test the JDBC step. View test results directly in the Test JDBC Step window. For more information, see [Test JDBC step](../task/test-jdbc-step.md).
+Test the JDBC step. View test results directly in the Test JDBC Step window. For more information, see [Test JDBC step](test-jdbc-step.md).
 
 </td></tr><tr><td colspan="2">
 

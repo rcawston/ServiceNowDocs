@@ -106,5 +106,5 @@ Roles that the subflow runs with. This option is only available when **Run as** 
 </td></tr></tbody>
 </table>For more information on creating a subflow, see [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md).
 
-**Parent Topic:**[Automate recovery tasks](../task/automate-the-recovery-tasks.md)
+**Parent Topic:**[Automate recovery tasks](automate-the-recovery-tasks.md)
 

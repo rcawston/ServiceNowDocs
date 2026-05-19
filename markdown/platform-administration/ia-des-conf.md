@@ -106,5 +106,5 @@ Shows the local update of the update set version available on the production ins
 Select this option to view the update made to the current update set version on the production instance.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist for Setup references](../reference/ia-reference.md)
+</table>**Parent Topic:**[Now Assist for Setup references](ia-reference.md)
 

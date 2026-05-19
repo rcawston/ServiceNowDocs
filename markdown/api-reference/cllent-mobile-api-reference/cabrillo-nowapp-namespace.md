@@ -15,7 +15,7 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 The name space for Cabrillo Now App functions. This enables you to interact with screens inside of ServiceNow AI Platform® native mobile apps.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](api-client-mobile.md)
 
 ## cabrillo.nowapp - openLauncherScreen\(String launcherScreenId\)
 

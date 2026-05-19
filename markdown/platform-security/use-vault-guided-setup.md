@@ -17,7 +17,7 @@ Use guided setup to begin using an application with ServiceNow Vault easily.
 
 Role required: Elevate to sn\_vault\_console.vault\_console\_admin role.
 
-To secure custom apps, install the Now Assist for Vault application and make sure that all Now Assist for Vault skills and workflows are enabled. See [Install Now Assist for Vault](../../now-assist-vault/task/configuring-now-assist-vault.md) for more information.
+To secure custom apps, install the Now Assist for Vault application and make sure that all Now Assist for Vault skills and workflows are enabled. See [Install Now Assist for Vault](configuring-now-assist-vault.md) for more information.
 
 ## Procedure
 
@@ -51,7 +51,7 @@ To secure custom apps, install the Now Assist for Vault application and make sur
 
 5.  In **Classification summary**, review the results of the data classification and select **Next** when finished.
 
-    Use [Data Classification](../../security/concept/data-classification.md) to review any data that failed to classify.
+    Use [Data Classification](data-classification/data-classification.md) to review any data that failed to classify.
 
 6.  In **Protect existing data**, review the protection policies of the data.
 
@@ -65,7 +65,7 @@ To secure custom apps, install the Now Assist for Vault application and make sur
 
 7.  Begin applying that column's respective application data protection policy by selecting **Available**.
 
-    Review [Vault tools and metrics](../concept/vault-tools.md) for more information.
+    Review [Vault tools and metrics](vault-tools.md) for more information.
 
 8.  In **Protect real-time data, review your real-time data protection policies**.
 
@@ -82,5 +82,5 @@ To secure custom apps, install the Now Assist for Vault application and make sur
 
 ## Result
 
-The selected application now has classified data and protection policies. It also reports relevant metrics to the [ServiceNow Vault console dashboard](../concept/vault-dashboard.md).
+The selected application now has classified data and protection policies. It also reports relevant metrics to the [ServiceNow Vault console dashboard](vault-dashboard.md).
 

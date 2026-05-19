@@ -77,9 +77,9 @@ Role required: admin
     ![The private key password is shown onscreen when you download the P12 file.](../images/ggl-p12-key-downloaded.png "Private key password example")
 
 
-**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](../concept/configure-dialogflow-es-integration.md)
+**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](configure-dialogflow-es-integration.md)
 
-**Previous topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](../concept/configure-dialogflow-es-integration.md)
+**Previous topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](configure-dialogflow-es-integration.md)
 
 **Next topic:**[Generate a Java Keystore \(JKS\) file and configure security on your ServiceNow instance](vad-configure-dialogflow-security.md)
 

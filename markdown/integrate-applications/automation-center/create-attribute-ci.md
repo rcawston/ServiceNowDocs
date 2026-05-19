@@ -91,5 +91,5 @@ Time saved after each run of the automation.
 </table>6.  Select **Update**.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

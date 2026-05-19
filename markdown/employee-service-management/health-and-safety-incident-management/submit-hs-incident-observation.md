@@ -38,7 +38,7 @@ To open the emergency contacts knowledge article from the Employee Center, navig
     **Note:**
 
     -   The map loads when the **Use map location** check box is selected. On the map, the Google search box can be used to find the exact location of the incident or observation.
-    -   The **Contractor** option appears only when the Health and Safety Contractor Management \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety](install-hs-incident-mgmt.md#table_ix1_bff_gxb). The field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](assign-hs-profile-user.md).
+    -   The **Contractor** option appears only when the Health and Safety Contractor Management \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety](install-hs-incident-mgmt.md#table_ix1_bff_gxb). The field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](../health-and-safety-core/assign-hs-profile-user.md).
 4.  If you have selected the **Report Health and Safety Incident - Advanced** form, use the **Describe the event** section to add more details about the incident.
 
 <table id="table_bjs_5xp_2bc"><thead><tr><th>
@@ -80,7 +80,7 @@ Other people involved
 
 </td><td>
 
-People who are directly or indirectly connected to the incident, such as an injured person, collaborators, witnesses, and other relevant individuals. These individuals can be from within or outside your organization.If there are other people involved in the incident, add their names. Select **Add people involved** to add them. For more information, see [People Involved form](../reference/hs-people-involved-form.md).
+People who are directly or indirectly connected to the incident, such as an injured person, collaborators, witnesses, and other relevant individuals. These individuals can be from within or outside your organization.If there are other people involved in the incident, add their names. Select **Add people involved** to add them. For more information, see [People Involved form](hs-people-involved-form.md).
 
 If the incident involves more than one person, add each.
 
@@ -124,5 +124,5 @@ For more information, see [Additional features in Health and Safety](install-hs-
 
 As a safety manager or agent, if the incident isn’t assigned to you, you can assign it to yourself and start working on it. You can also assign it to another safety agent. For more information, see [Assign a safety incident or observation](assign-hs-incident-observation.md).
 
-**Parent Topic:**[Submitting safety incidents and observations](../concept/submitting-safety-incidents-obvs.md)
+**Parent Topic:**[Submitting safety incidents and observations](submitting-safety-incidents-obvs.md)
 

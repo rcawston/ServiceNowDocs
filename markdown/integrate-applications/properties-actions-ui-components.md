@@ -30,5 +30,5 @@ Learn about the properties of the Actions \(UI\) group components. All component
 |Wait After Image Found|Specifies the wait time \(in seconds\) after the image or application appears on the screen.|
 |Wait For Create|Option to specify if the component will wait for the image to appear on the screen. The default value is True.|
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

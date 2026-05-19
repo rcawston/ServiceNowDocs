@@ -15,9 +15,9 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 You can configure the data available in record pages in Service Operations Workspace for ITSM.
 
--   **[Configure the incident record page in SOW for ITSM](../task/configure-incident-record-page.md)**  
+-   **[Configure the incident record page in SOW for ITSM](configure-incident-record-page.md)**  
 Configure the data displayed in various incident tabs such as **Overview** and **Details** tabs.
--   **[Configure the change record page in SOW for ITSM](../task/configure-change-form-sow.md)**  
+-   **[Configure the change record page in SOW for ITSM](configure-change-form-sow.md)**  
 Configure the data displayed in various Change record tabs such as **Overview** and **Details** tabs.
 
 **Parent Topic:**[Getting started with Service Operations Workspace for ITSM](getting-started-sow.md)

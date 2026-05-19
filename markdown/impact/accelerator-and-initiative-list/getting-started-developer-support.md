@@ -25,7 +25,7 @@ Get Started with Developer Support helps you expedite identifying technical stak
 -   Delivers insights into customization scope, including business rules, UI \(user interface\) scripts, script includes, and UI macros
 -   Provides a review of up to 200 lines of custom code in a break-fix model
 
-Developer Support is available in the Advanced and Total Impact packages and offers expert assistance in troubleshooting and debugging customization-related issues. For more information on Developer Support, see [Impact Developer Support](../concept/developer-support.md).
+Developer Support is available in the Advanced and Total Impact packages and offers expert assistance in troubleshooting and debugging customization-related issues. For more information on Developer Support, see [Impact Developer Support](../developer-support.md).
 
 |Developer Support|Troubleshooting and assistance|
 |-----------------|------------------------------|

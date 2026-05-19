@@ -119,7 +119,7 @@ New menu name.
 
 Now that the model category \(associated with the new asset class\) and the models are created, manage the models as assets. For example, use the model in a bundle.
 
-**Parent Topic:**[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+**Parent Topic:**[Manage various assets through asset classes](c_AssetClasses.md)
 
 **Related topics**  
 

@@ -69,7 +69,7 @@ The following playbooks on service portal experiences are available for constitu
 
 With the Engagement Messenger web application, constituents can access the information or services they need from your third-party web applications, even if they’re located outside of the ServiceNow environment.
 
-To learn more about Engagement Messenger, see [Configure Engagement Messenger for Playbooks](../task/psds-configure-engagement-messenger.md#).
+To learn more about Engagement Messenger, see [Configure Engagement Messenger for Playbooks](psds-configure-engagement-messenger.md#).
 
 ## Service catalog
 

@@ -85,7 +85,7 @@ The default timeout value is 300000 milliseconds or 5 minutes.
 
 4.  If you're using AWS, Azure, GCP, or Alibaba Cloud you can specify the MID Server selection type in the **MID Selection Type** field.
 
-    **Note:** AWS and Azure selection is only available after migration to pattern-based Discovery. For more information, see [Migrate from CAPI to Patterns](../task/migrate-from-capi-to-pattern.md).
+    **Note:** AWS and Azure selection is only available after migration to pattern-based Discovery. For more information, see [Migrate from CAPI to Patterns](migrate-from-capi-to-pattern.md).
 
     The following options are available:
 
@@ -113,11 +113,11 @@ The default timeout value is 300000 milliseconds or 5 minutes.
 
     If you select an existing account, the system auto-completes the form with the available information. If you add an account, you must provide the account ID, credentials, and URL, if applicable. For VMware, you must specify the URL.
 
-    -   The [AWS account ID](../../cloud-management-v2-setup/task/aws-first-cld-and-srvc-accts.md) is the account ID.
-    -   The [Azure account ID](../../cloud-management-v2-setup/task/azure-service-account-cloud-mgt.md) is the Azure Subscription GUID.
-    -   The [GCP account ID](../../cloud-management-v2-setup/task/gcp-first-cld-and-srvc-accts.md) is the project ID.
-    -   The [VMware account ID](../../cloud-management-v2-setup/task/vmware-create-creds-cloud-mgt.md) is the virtual machine instance UUID.
-    -   The [Alibaba Cloud account ID](../task/set-up-alibaba-cloud-service-account.md) is the Compartment ID.
+    -   The [AWS account ID](../cloud-configuration-governance/aws-first-cld-and-srvc-accts.md) is the account ID.
+    -   The [Azure account ID](../cloud-configuration-governance/azure-service-account-cloud-mgt.md) is the Azure Subscription GUID.
+    -   The [GCP account ID](../cloud-configuration-governance/gcp-first-cld-and-srvc-accts.md) is the project ID.
+    -   The [VMware account ID](../cloud-configuration-governance/vmware-create-creds-cloud-mgt.md) is the virtual machine instance UUID.
+    -   The [Alibaba Cloud account ID](set-up-alibaba-cloud-service-account.md) is the Compartment ID.
     **Note:** VMware discovery can run without a service account. To discover VMware resources, configure the schedule to run on the IP address of the vCenter server.
 
 8.  Select the credentials for this cloud service account or add new credentials.
@@ -128,7 +128,7 @@ The default timeout value is 300000 milliseconds or 5 minutes.
 
     3.  Complete the form and select **Save**.
 
-        **Note:** You can configure AWS to generate temporary credentials for service accounts. This capability eliminates the need to define some credentials on the instance, and it can increase security on your member accounts \(sub-accounts\). For details, see [Access setup for AWS service accounts](../../it-operations-management/concept/access-aws-accounts.md).
+        **Note:** You can configure AWS to generate temporary credentials for service accounts. This capability eliminates the need to define some credentials on the instance, and it can increase security on your member accounts \(sub-accounts\). For details, see [Access setup for AWS service accounts](../access-aws-accounts.md).
 
 9.  To validate the account with the provided details, select **Test Account**.
 

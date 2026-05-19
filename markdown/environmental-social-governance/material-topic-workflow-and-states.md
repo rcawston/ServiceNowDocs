@@ -58,7 +58,7 @@ Material topics imported from Socialsuite progress through the following states 
 
 ## Fields for Socialsuite material topics
 
-Material topics imported from Socialsuite include additional fields that store materiality assessment data. These fields are visible and read-only for topics imported from Socialsuite. All data for these fields is managed through Socialsuite. For a complete list of fields, see [Socialsuite material topic fields](../reference/socialsuite-material-topic-fields.md).
+Material topics imported from Socialsuite include additional fields that store materiality assessment data. These fields are visible and read-only for topics imported from Socialsuite. All data for these fields is managed through Socialsuite. For a complete list of fields, see [Socialsuite material topic fields](socialsuite-material-topic-fields.md).
 
 **Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](esg-new-explore.md)
 
@@ -67,5 +67,5 @@ Material topics imported from Socialsuite include additional fields that store m
 
 [Integrating Operational Sustainability Management \(formerly ESG\) with other applications](integrate-esg.md)
 
-[Set Material topic selection system property](../task/set-material-topic-selection-system-property.md)
+[Set Material topic selection system property](set-material-topic-selection-system-property.md)
 

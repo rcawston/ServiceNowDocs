@@ -32,16 +32,16 @@ Role required: pa\_power\_user, pa\_admin, or admin for record; pa\_admin or adm
     ![The More actions menu for KPI Details, showing options to edit indicator record or scoresheet.](../image/kpi-details-more-actions.png)
 
 
-**Parent Topic:**[Examining indicators with KPI Details](../reference/kpi-details-components.md)
+**Parent Topic:**[Examining indicators with KPI Details](kpi-details-components.md)
 
 **Related topics**  
 
 
-[View contributing indicators to a formula in KPI Details](../concept/view-formula-components.md)
+[View contributing indicators to a formula in KPI Details](view-formula-components.md)
 
-[Show, compare, create, and edit records in KPI Details](../concept/show-compare-edit-records.md#)
+[Show, compare, create, and edit records in KPI Details](show-compare-edit-records.md#)
 
-[Chart options in KPI Details](../reference/chart-options.md)
+[Chart options in KPI Details](chart-options.md)
 
 [Select time aggregation in KPI Details](select-time-series-aggregation.md)
 
@@ -53,9 +53,9 @@ Role required: pa\_power\_user, pa\_admin, or admin for record; pa\_admin or adm
 
 [Filter native Data snapshots indicator scores in KPI Details](filter-data-snapshots-indicator-scores.md)
 
-[Create an automated indicator](../../performance-analytics/task/t_CreateAnAutomatedIndicator.md#)
+[Create an automated indicator](performance-analytics/t_CreateAnAutomatedIndicator.md#)
 
-[Create a formula indicator](../../performance-analytics/task/t_CreateAFormulaIndicator.md)
+[Create a formula indicator](performance-analytics/t_CreateAFormulaIndicator.md)
 
-[Add or edit indicator scores manually](../../performance-analytics/task/t_ManuallyAddingScoresForIndicators.md)
+[Add or edit indicator scores manually](performance-analytics/t_ManuallyAddingScoresForIndicators.md)
 

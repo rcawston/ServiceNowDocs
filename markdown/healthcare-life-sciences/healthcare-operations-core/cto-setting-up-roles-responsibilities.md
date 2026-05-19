@@ -58,6 +58,6 @@ Result: You can work on HCO cases related to that ICU, but can’t view cases fo
 
 ## What to do next
 
--   [Assign roles to Healthcare Operations Core users](../task/assign-roles-cto-users.md)
--   [Assign responsibilities to Healthcare Operations Core users](../task/hco-assign-responsibilities.md)
+-   [Assign roles to Healthcare Operations Core users](assign-roles-cto-users.md)
+-   [Assign responsibilities to Healthcare Operations Core users](hco-assign-responsibilities.md)
 

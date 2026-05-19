@@ -19,7 +19,7 @@ Configure the system to collect information about changes in configuration files
 
 To enable tracking configuration files for a CI for which the system does track files, configure classification for the CI type to which this CI belongs:
 
--   For CI types representing applications, [create a Discovery process classification](t_CreateAProcessClassification.md) for the relevant pattern. Add the [Horizontal Pattern](../reference/r-HorizontalPatternProbe.md) probe in the **Probe** column, and then specify your pattern in the **Pattern** column.
+-   For CI types representing applications, [create a Discovery process classification](t_CreateAProcessClassification.md) for the relevant pattern. Add the [Horizontal Pattern](r-HorizontalPatternProbe.md) probe in the **Probe** column, and then specify your pattern in the **Pattern** column.
 -   For CI types representing SNMP devices, perform configuration as described in [Create a Discovery CI classification](create-discovery-ci-classification.md).
 
 **Note:** There is no need to create CI classifications for hosts because these classifications are included in the base system.
@@ -28,7 +28,7 @@ Role required: cloud\_admin, service\_mapping\_admin, or admin
 
 ## About this task
 
-The system tracks configuration files as part of horizontal discovery process of a CI to which these files belong. Configuration files contain CI settings and parameters. Service Mapping uses this information to notify users that CI configuration files changed and to view actual changes to configuration files directly in the service instance maps. To learn about how the system tracks configuration files, stores and updates information about these files, see [Configuration file tracking](../concept/tracked-config-files.md).
+The system tracks configuration files as part of horizontal discovery process of a CI to which these files belong. Configuration files contain CI settings and parameters. Service Mapping uses this information to notify users that CI configuration files changed and to view actual changes to configuration files directly in the service instance maps. To learn about how the system tracks configuration files, stores and updates information about these files, see [Configuration file tracking](tracked-config-files.md).
 
 The system tracks configuration files for CI types with process classifiers that trigger patterns. The patterns contain tracked file definitions, which specify the CI type that the application belongs to and the path of the configuration file. Several patterns, such as the IIS pattern, provide tracked file definitions by default. You can use these default definitions or create your own for any pattern a process classifier triggers.
 
@@ -42,9 +42,9 @@ The system tracks configuration files for CI types with process classifiers that
 
 3.  Click the **Tracked Files** tab.
 
-    One or more tracked file definitions appear by default for Discovery [patterns that support configuration file tracking](../concept/tracked-config-files.md#patterns-for-file-tracking).
+    One or more tracked file definitions appear by default for Discovery [patterns that support configuration file tracking](tracked-config-files.md#patterns-for-file-tracking).
 
-    If you do not see the Tracked Files tab, verify that the pattern is specified process classier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+    If you do not see the Tracked Files tab, verify that the pattern is specified process classier. See [Add the Horizontal Pattern probe to a classifier](c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 4.  Click **Edit** to modify an existing definition or click **New** to create a new one.
 

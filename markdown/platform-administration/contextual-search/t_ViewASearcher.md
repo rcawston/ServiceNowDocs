@@ -36,5 +36,5 @@ ServiceNow provides pre-defined searchers. You can't create, update, or delete s
 4.  In the Search Contexts related list, view all the search contexts that use this specific searcher.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

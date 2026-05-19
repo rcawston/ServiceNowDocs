@@ -21,11 +21,11 @@ To configure Financial Services Operations Integration with Mastercard on your S
 
     Use the Integration Hub to integrate Mastercard Spoke with your ServiceNow instance.
 
-2.  [Install Financial Services Operations Integration with Mastercard](../task/install-financial-services-operations-integration-with-mastercard.md)
+2.  [Install Financial Services Operations Integration with Mastercard](install-financial-services-operations-integration-with-mastercard.md)
 
     You can install the Financial Services Operations Integration with Mastercard \(com.sn\_fso\_intg\_mc\) application from the ServiceNow Store. The application installs related applications and plugins if they are not already installed.
 
-3.  [Set up instance credentials](../task/set-up-financial-services-operations-integration-with-mastercard.md).
+3.  [Set up instance credentials](set-up-financial-services-operations-integration-with-mastercard.md).
 
     Configure the Financial Services Operations Integration with Mastercard application by using the Mastercard connection and credential record to authenticate ServiceNow requests.
 

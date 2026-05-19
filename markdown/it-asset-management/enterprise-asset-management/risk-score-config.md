@@ -87,5 +87,5 @@ Color depicting a risk score band. Following are the values to choose from:-   G
     To edit the records, select **Unfreeze**.
 
 
-**Parent Topic:**[Managing risks scores in Enterprise Asset Management](../concept/managing-eam-risk-scores.md)
+**Parent Topic:**[Managing risks scores in Enterprise Asset Management](managing-eam-risk-scores.md)
 

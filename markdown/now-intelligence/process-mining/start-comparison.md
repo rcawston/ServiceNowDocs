@@ -50,5 +50,5 @@ You can perform a comparison of a main or linked project.
 
 Compare transitions or statistics between the two projects.
 
-**Parent Topic:**[Comparing projects](../concept/comparing-models.md)
+**Parent Topic:**[Comparing projects](comparing-models.md)
 

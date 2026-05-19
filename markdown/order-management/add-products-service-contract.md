@@ -133,5 +133,5 @@ Procedure
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Using Customer Contracts and Entitlements](../concept/using-post-sales-support.md)
+**Parent Topic:**[Using Customer Contracts and Entitlements](using-post-sales-support.md)
 

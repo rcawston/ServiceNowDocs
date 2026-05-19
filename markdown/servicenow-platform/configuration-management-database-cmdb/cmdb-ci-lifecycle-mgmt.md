@@ -93,23 +93,23 @@ Whenever CI’s **Status**/**Hardware Status** changes, it is synchronized to th
 
 For more information about mapping **Asset State** and **Substate** fields to a CI's **Status**/**Hardware Status** \(if its hardware\) field, see [Map asset state and CI hardware status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/c_ManagingAssets.md). And for more information about retiring assets, see [Retire assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/c_ManagingAssets.md).
 
--   **[Get started with CI Lifecycle Management](../task/get-started-cilifecyclemgmt.md)**  
+-   **[Get started with CI Lifecycle Management](get-started-cilifecyclemgmt.md)**  
 Follow these high level steps to get started and to track activities of the CI Lifecycle Management module of the CMDB application.
 -   **[Lifecycle management APIs](state_mgmt-api.md)**  
 CI Lifecycle Management provides a set of state management APIs for manipulating CI operational states, and applying CI actions.
--   **[Components installed by CI Lifecycle Management](../reference/tbls-instld-ci-lifecycle-mgmt.md)**  
+-   **[Components installed by CI Lifecycle Management](tbls-instld-ci-lifecycle-mgmt.md)**  
 Several types of components are installed by CI Lifecycle Management \(included in the com.snc.cmdb plugin\), including tables, scheduled jobs, and properties.
--   **[Activate the CI Lifecycle Management scheduled job](../task/enable-cilifecyclemgmt-job.md)**  
+-   **[Activate the CI Lifecycle Management scheduled job](enable-cilifecyclemgmt-job.md)**  
 When starting to use the CI Lifecycle Management module, ensure to activate the **CI Lifecycle Management - Restore Internal State Management Tables** scheduled job which is disabled by default. This scheduled job continuously checks and maintains the data integrity of all internal CI Lifecycle Management tables.
--   **[Define a CI action](../task/define-cmdb-ci-action.md)**  
+-   **[Define a CI action](define-cmdb-ci-action.md)**  
 Define a CI Lifecycle Management CI action that can be later applied to CIs.
--   **[Define compatible CI actions](../task/dfn-cmptbl-cmdb-ci-action.md)**  
+-   **[Define compatible CI actions](dfn-cmptbl-cmdb-ci-action.md)**  
 Allow a CMDB CI Lifecycle Management operation in which two specified CI actions can be applied simultaneously to a CI.
--   **[Define a not-allowed CI action](../task/non-allowed-cmdb-ci-action.md)**  
+-   **[Define a not-allowed CI action](non-allowed-cmdb-ci-action.md)**  
 Define a restriction for CI Lifecycle Management in which a specified action is not allowed for a CI that is in a specified operational state.
--   **[Set priority for an operational state](../task/set-priority-operational-state.md)**  
+-   **[Set priority for an operational state](set-priority-operational-state.md)**  
 CI Lifecycle Management allows multiple operators or automations to simultaneously set different operational states for a CI. A CI can have only a single operational state, so in this case, the cumulative operational state of the CI is set to the one with the highest priority. It is recommended that you specify a priority for each operational state that you define so that a cumulative state can be correctly calculated.
--   **[Define a non-allowed operational transition](../task/not-allowed-oprtionl-trnston.md)**  
+-   **[Define a non-allowed operational transition](not-allowed-oprtionl-trnston.md)**  
 Define a restriction for CI Lifecycle Management in which a specified CI cannot transition from one operational state to another.
 
 **Parent Topic:**[Configuration Management Database \(CMDB\)](c_ITILConfigurationManagement.md)

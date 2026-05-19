@@ -67,5 +67,5 @@ Value
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](additional-mobile-configuration.md)
 

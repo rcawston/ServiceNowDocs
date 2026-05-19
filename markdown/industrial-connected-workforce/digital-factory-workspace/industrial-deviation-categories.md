@@ -110,5 +110,5 @@ Other
 Other
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Deviation Management](../concept/industrial-deviation-management.md)
+</table>**Parent Topic:**[Deviation Management](industrial-deviation-management.md)
 

@@ -31,10 +31,10 @@ You must be in the same scope in which the record exists.
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Automation Center properties](../reference/automation-center-properties.md).
+    For a description of the field values, see [Automation Center properties](automation-center-properties.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Automation Center](../concept/automation-center-setup.md)
+**Parent Topic:**[Configuring Automation Center](automation-center-setup.md)
 

@@ -34,7 +34,7 @@ Role required: analytics\_filter\_admin, admin
     -   [Single select](create-select-filter-workspace.md): A single value from a set of choices. Single select is the default filter type.
     -   [Multiple select](create-select-filter-workspace.md): More than one value from a set of choices, such as both High and Critical Priority
     -   [Date](create-date-filter-workspace.md): A calendar date. You can also set a time. Automatically applies to all indicator data on page or tab.
-    -   [True/False](create-boolean-filter-workspace.md): Whether a field value is true or false. Can also be used with indicator breakdowns that are based on a [bucket group](../../performance-analytics/concept/performance-analytics-glossary.md#) with only two values.
+    -   [True/False](create-boolean-filter-workspace.md): Whether a field value is true or false. Can also be used with indicator breakdowns that are based on a [bucket group](performance-analytics/performance-analytics-glossary.md#) with only two values.
 3.  In the **Filter label** field, type a meaningful name for the filter.
 
     This name is the name that the user sees.
@@ -57,7 +57,7 @@ Role required: analytics\_filter\_admin, admin
 
     -   **Usage Insights**
 
-        Select the Usage Insights property to filter on. For more information, see [Filter data in Usage Insights](../../../administer/user-exp-analytics/task/filter-user-list.md).
+        Select the Usage Insights property to filter on. For more information, see [Filter data in Usage Insights](usage-insights/filter-user-list.md).
 
 
 ## Result

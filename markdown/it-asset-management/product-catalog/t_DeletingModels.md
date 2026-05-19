@@ -30,5 +30,5 @@ Role required: model\_manager
 4.  Click **OK**.
 
 
-**Parent Topic:**[Models](../concept/c_Models.md)
+**Parent Topic:**[Models](c_Models.md)
 

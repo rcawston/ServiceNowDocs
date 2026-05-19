@@ -28,5 +28,5 @@ Define your own TRM phase or edit an existing TRM phase.
 **Related topics**  
 
 
-[Add or edit a TRM phase](../../task/eaw-task/eaw-create-trm-phase.md)
+[Add or edit a TRM phase](eaw-create-trm-phase.md)
 

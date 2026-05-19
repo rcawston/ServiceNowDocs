@@ -28,7 +28,7 @@ The Business Continuity Workspace in the classic Workspace is automatically upda
 
 The BCM Configurable Workspace is configurable and role-driven, offering a unique experience tailored to each user or role in your organization. Logging in with specific user roles provides access to different functions and corresponding user interface views.
 
-For more information on the user roles in the BCM application, see [Components installed with Business Continuity Management](../reference/installed-with-bcm.md#).
+For more information on the user roles in the BCM application, see [Components installed with Business Continuity Management](installed-with-bcm.md#).
 
 For more information on the store apps, see [Business Continuity Management and ServiceNow Store](bcm-and-store.md).
 

@@ -24,5 +24,5 @@ The approval rule types determine the conditions under which approval plans are 
 |Managerial Hierarchy|Approvals are triggered based on the purchasing user's manager's hierarchy. The approval routing method can be parallel or sequential, and the approval decision method can be all approvers or any approver.|
 |Specified Users or Groups|Approvals are triggered based on the specified users or groups. The approval routing method is restricted to just sending approvals in parallel.|
 
-**Parent Topic:**[Create an approval rule](../task/invoice-approval-rule.md)
+**Parent Topic:**[Create an approval rule](invoice-approval-rule.md)
 

@@ -54,18 +54,18 @@ Role required: sn\_fcms\_intg.integration\_user
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Configure the Source-to-Pay integration with SAP](../concept/configuring-source-to-pay-sap-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with SAP](configuring-source-to-pay-sap-integration.md)
 
 **Related topics**  
 
 
-[ERP Source Configuration for SAP](../concept/erp-source-configuration-sap.md)
+[ERP Source Configuration for SAP](erp-source-configuration-sap.md)
 
 [Define ERP source configuration for SAP](define-erp-source-sap.md)
 
 [Configure integration services for SAP](configure-service-maps-sap.md)
 
-[Look up primary data in SAP](../concept/look-up-primary-data-sap.md)
+[Look up primary data in SAP](look-up-primary-data-sap.md)
 
-[Scheduled jobs to look up primary data in SAP](../concept/scheduled-jobs-to-primary-data-sap.md)
+[Scheduled jobs to look up primary data in SAP](scheduled-jobs-to-primary-data-sap.md)
 

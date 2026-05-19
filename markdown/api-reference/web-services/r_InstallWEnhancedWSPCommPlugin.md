@@ -22,5 +22,5 @@ The Enhanced Web Service Provider - Common plugin installs the following compone
 |Module|Web Services Security Profiles|The plugin adds this module to the System Web Services application.|
 |System Property|`glide.soap.default_security_policy`|Specifies the default security policy to use when enforcing Web Services-Security \(WSS\) for inbound requests.|
 
-**Parent Topic:**[Activate the Enhanced Web Service Provider - Common plugin](../task/t_ActivateEnhancedWSPPlugin.md)
+**Parent Topic:**[Activate the Enhanced Web Service Provider - Common plugin](t_ActivateEnhancedWSPPlugin.md)
 

@@ -46,7 +46,7 @@ You can use the case summarization skill in either Core UI or Workplace Central.
 
     The list view displays the cases as WCASEXXXX for normal workplace cases, WMCXXXX for maintenance cases and WMOVEXXXX for move cases.
 
-    The case details are displayed in a new tab. For more information about the Case details page, see [Case Management - Key features, Actions &amp; Case details](../../workplace-central/reference/case-management-key-features-actions-case-details.md) topic.
+    The case details are displayed in a new tab. For more information about the Case details page, see [Case Management - Key features, Actions &amp; Case details](../workplace-central/case-management-key-features-actions-case-details.md) topic.
 
 4.  In the Workplace Case summary by Now Assist component, select **Summarize**.
 

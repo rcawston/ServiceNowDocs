@@ -104,7 +104,7 @@ Additional information for this risk statement.
 </td></tr></tbody>
 </table>    **Note:** Accurate default scoring selections are important for normalizing risk across the organization.
 
-4.  To fill in the fields for the risk appetite section, see [Define the risk appetite for a risk statement](../../grc-workspace-risk/task/define-risk-appetite-on-risk-statement.md).
+4.  To fill in the fields for the risk appetite section, see [Define the risk appetite for a risk statement](define-risk-appetite-on-risk-statement.md).
 
 5.  Click the **Default Scores** related list and fill in the fields on the form, as appropriate.
 
@@ -199,5 +199,5 @@ The corresponding score for the calculated ALE:-   Low
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

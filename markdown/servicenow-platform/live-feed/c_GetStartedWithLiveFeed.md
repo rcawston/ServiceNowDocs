@@ -29,7 +29,7 @@ While Live Feed has been discontinued, we are always exploring new ways to enhan
 
 </td><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-manage.svg) Activate Live Feed on your instance.](../task/t_ActivateLiveFeed.md)
+[Activate![](../../../reuse/icons/brand-icons/bus-manage.svg) Activate Live Feed on your instance.](t_ActivateLiveFeed.md)
 
 </td><td>
 
@@ -41,7 +41,7 @@ While Live Feed has been discontinued, we are always exploring new ways to enhan
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about domain separation and components, such as tables, user roles, business rules, and script includes.](../reference/live-feed-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about domain separation and components, such as tables, user roles, business rules, and script includes.](live-feed-reference.md)
 
 </td><td>
 

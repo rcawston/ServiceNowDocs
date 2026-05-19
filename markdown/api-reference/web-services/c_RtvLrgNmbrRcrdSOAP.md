@@ -22,5 +22,5 @@ Because of the verbose XML format, SOAP can be considerably slower than other tr
 -   **[SOAP strategies](c_SOAPStrategies.md)**  
 Retrieve the information that you need and make your integration more efficient.
 
-**Parent Topic:**[SOAP web service](../../inbound-soap/concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

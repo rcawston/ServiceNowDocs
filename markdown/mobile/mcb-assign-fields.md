@@ -50,7 +50,7 @@ Navigate to **System Mobile** &gt; **Mobile Card Builder**, then select the card
 </td></tr></tbody>
 </table>2.  Select a text in your mobile card, or create a new one.
 
-    For details on creating elements, see [Mobile Card Builder user interface](../reference/mcb-stage-ui.md).
+    For details on creating elements, see [Mobile Card Builder user interface](mcb-stage-ui.md).
 
     With your text element selected, you can see the configuration properties in the **Component configuration** panel on the right of the screen. If you do not see this panel, select the **Expand configuration panel** \(![Expand configuration panel icon](../image/expand-config-panel-icon.png)\) button. ![Component configuration for a text element.](../image/mcb-field-values-2.png)
 

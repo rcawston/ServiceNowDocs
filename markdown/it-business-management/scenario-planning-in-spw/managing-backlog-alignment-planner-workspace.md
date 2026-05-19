@@ -28,7 +28,7 @@ By default, portfolio plans show only the records that are created within the Pl
 
 Consider that you want to manage projects through a portfolio plan. Project records that are only stored in the Planning Item Project \[sn\_align\_project\] table are displayed in the Prioritization, Kanban, and Hierarchy tabs. But any projects created using the PPM Standard aren't shown by default because these project records are stored in the PPM Project \[pm\_project\] table. To enable their display in Strategic Planning Workspace, set up integration with PPM so that the tables of Strategic Planning are mapped to the tables of PPM.
 
-The same is the case with Epics created using Agile Development 2.0 and SAFe applications. See [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](../../apw-internal-integrations/concept/configuring-apw-with-agile-safe-and-ppm.md).
+The same is the case with Epics created using Agile Development 2.0 and SAFe applications. See [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](configuring-apw-with-agile-safe-and-ppm.md).
 
 ## Prioritization features
 
@@ -48,7 +48,7 @@ Example UI
 
 </th></tr></thead><tbody><tr><td>
 
-[Add new planning items](../task/add-new-items-to-backlog-alignment-planner-workspace.md)
+[Add new planning items](add-new-items-to-backlog-alignment-planner-workspace.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Add new items to your backlog directly from the Prioritization page.
 
 </td></tr><tr><td>
 
-[Update planning item details](../task/update-planning-item-details-from-backlog-in-alignment-planner-workspace.md)
+[Update planning item details](update-planning-item-details-from-backlog-in-alignment-planner-workspace.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Categorize planning items using the Must have, Could have, Should have, or Won't
 
 </td></tr><tr><td>
 
-[Rank planning items](../task/rank-and-prioritize-backlog-alignment-planner-workspace.md)
+[Rank planning items](rank-and-prioritize-backlog-alignment-planner-workspace.md)
 
 </td><td>
 
@@ -98,7 +98,7 @@ Decide on the order of priority for the planning items by using the drag functio
 
 </td></tr><tr><td>
 
-[Prioritize items to roadmap](../task/prioritize-planning-items-strategic-planning-workspace.md)
+[Prioritize items to roadmap](prioritize-planning-items-strategic-planning-workspace.md)
 
 </td><td>
 
@@ -124,7 +124,7 @@ If you're using ServiceNow PPM, Agile Development 2.0, or SAFe applications to e
 
 </td></tr><tr><td>
 
-[Personalize the Prioritization page views](../task/personalize-backlog-in-alignment-planner-workspace.md)
+[Personalize the Prioritization page views](personalize-backlog-in-alignment-planner-workspace.md)
 
 </td><td>
 

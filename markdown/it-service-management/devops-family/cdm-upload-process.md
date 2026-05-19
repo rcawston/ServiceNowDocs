@@ -29,7 +29,7 @@ You first create a new CDM application structure and then upload the existing co
 
     ![Create a changeset](../image/cdm-generate-new-changeset.png)
 
-    In the changeset, define the data structure that includes a node for each set of config data that you will upload. This process is called modeling the data. You add components, collections, deployables, and CDIs as needed. For information on each of these items, see [CDM data model](../reference/cdm-data-model.md). For additional information on adding nodes to an application, see [Preparing an application for config data upload](cdm-prep-app-for-upload.md).
+    In the changeset, define the data structure that includes a node for each set of config data that you will upload. This process is called modeling the data. You add components, collections, deployables, and CDIs as needed. For information on each of these items, see [CDM data model](cdm-data-model.md). For additional information on adding nodes to an application, see [Preparing an application for config data upload](cdm-prep-app-for-upload.md).
 
     In this example, two components and two collections have been added. Now, the **PaymentSvc-1.0** component is included in the **Release-1.0** collection. As with all collections, this means that any data in the **PaymentSvc-1.0** component is now included in the **Release-1.0** collection.
 
@@ -53,7 +53,7 @@ You first create a new CDM application structure and then upload the existing co
 
     -   An application can contain a maximum total of 100,000 CDIs.
     -   Any single deployable can contain a maximum of 10,000 CDIs.
-    See [CDM system properties](../reference/cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property settings.
+    See [CDM system properties](cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property settings.
 
     **Important:** Each time you submit a POST request, the API performs the POST and also generates an upload script. You can specify one of several script languages. The purpose is for you to use the code in your pipeline system to automate the upload process for this application in future uploads.
 
@@ -62,7 +62,7 @@ You first create a new CDM application structure and then upload the existing co
 
     Now that the application is fully in place, you can manage the data as needed: Update config settings, apply policies to validate the data, export valid snapshots of config data, and so on.
 
-    While you export any snapshot, the system can generate API code that you can use to automate the export process. See [Generate API invocation code for an exporter](../task/cdm-exporter-gen-api-code.md) for details.
+    While you export any snapshot, the system can generate API code that you can use to automate the export process. See [Generate API invocation code for an exporter](cdm-exporter-gen-api-code.md) for details.
 
 
 **Related topics**  

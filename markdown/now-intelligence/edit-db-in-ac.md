@@ -18,7 +18,7 @@ You can edit dashboard and dashboard tab information in the inline editor. If th
 
 You can edit the details of dashboards created in the inline editor and in the technical editor in the Platform Analytics experience. When you edit elements in dashboards created in the technical editor, you’re redirected to UI Builder.
 
-Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
+Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
 
 ## About this task
 
@@ -183,7 +183,7 @@ Specify Hex or RGBA values, or choose from the color picker.
 
 </td><td>
 
-Choose whether and which analytics to show in the **Insights** section.When you select **Show insights panel**, an Insights button is added to the dashboard and the selected analytics options are shown. For more information, see [Proactive analytics insights on dashboards](../../par-for-workspace/concept/proactive-analytics.md).
+Choose whether and which analytics to show in the **Insights** section.When you select **Show insights panel**, an Insights button is added to the dashboard and the selected analytics options are shown. For more information, see [Proactive analytics insights on dashboards](proactive-analytics/proactive-analytics.md).
 
 </td></tr></tbody>
 </table>
@@ -198,7 +198,7 @@ To configure a shared element that you added to a dashboard from a library, make
 -   **[Add images to Platform Analytics dashboard cards](add-images-db-cards-ac.md)**  
 Distinguish the cards in the dashboard overview with uploaded images.
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -207,13 +207,13 @@ Distinguish the cards in the dashboard overview with uploaded images.
 
 [Share a Platform Analytics dashboard](share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](duplicate-db.md#)
 
 [Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
 
 [Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](schedule-export-dboards-data-viz.md)
 
 [Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
 

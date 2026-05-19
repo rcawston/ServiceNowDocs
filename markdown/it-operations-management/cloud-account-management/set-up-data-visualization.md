@@ -17,7 +17,7 @@ Visualize all account violations by scanning them using the selected policy set.
 
 ## Before you begin
 
-Make sure you have referred to the default policies \([Policy list for scanning cloud accounts](../reference/policies-for-scanning-cloud-accounts.md)\). To create a custom policy set, see [Create a policy set](../../itom-cloud-accelerate/task/create-ccg-policy-set.md).
+Make sure you have referred to the default policies \([Policy list for scanning cloud accounts](policies-for-scanning-cloud-accounts.md)\). To create a custom policy set, see [Create a policy set](../itom-cloud-accelerate/create-ccg-policy-set.md).
 
 Role required: sn\_itom\_cam.cw\_admin or sn\_itom\_ccg.scheduling\_admin
 

@@ -78,7 +78,7 @@ The data displayed in visualizations corresponds to the selected campus.
 **Related topics**  
 
 
-[Create workplace reservations for an employee](../../../product/workplace-safety-mgmt/task/reserve-workspaces-for-employees.md)
+[Create workplace reservations for an employee](reserve-workspaces-for-employees.md)
 
-[Create an ad hoc workplace task](../../../product/workplace-safety-mgmt/task/create-adhoc-workplace-task.md)
+[Create an ad hoc workplace task](create-adhoc-workplace-task.md)
 

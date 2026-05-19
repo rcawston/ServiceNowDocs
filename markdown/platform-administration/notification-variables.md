@@ -280,5 +280,5 @@ $\{NOTIF\_UNSUB\}
 $\{NOTIF\_PREFS\}
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an email notification](../task/t_CreateANotification.md)
+</table>**Parent Topic:**[Create an email notification](t_CreateANotification.md)
 

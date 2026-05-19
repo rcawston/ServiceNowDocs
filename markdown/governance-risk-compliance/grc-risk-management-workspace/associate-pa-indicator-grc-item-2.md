@@ -69,5 +69,5 @@ Break down element to view a particular trend and scorecard. **Note:** This fiel
     On the Risk or Control form, in the **PA Indicators** related list, you see the associated indicator. You can optionally click **View Indicator** on the desired indicator to see the Performance Analytics scorecard of the indicator.
 
 
-**Parent Topic:**[Monitor risks using GRC Performance Analytics Indicators](../../grc-risk/concept/pa-indicators-risk.md)
+**Parent Topic:**[Monitor risks using GRC Performance Analytics Indicators](pa-indicators-risk.md)
 

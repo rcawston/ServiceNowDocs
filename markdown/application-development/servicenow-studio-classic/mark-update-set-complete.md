@@ -34,5 +34,5 @@ Only mark an update set as **Complete** when it’s ready to migrate. Once an up
 4.  Change the **State** of the update set from **In progress** to **Complete**.
 
 
-**Parent Topic:**[Working with update sets in ServiceNow Studio](../concept/working-with-update-sets-in-servicenow-studio.md)
+**Parent Topic:**[Working with update sets in ServiceNow Studio](working-with-update-sets-in-servicenow-studio.md)
 

@@ -60,5 +60,5 @@ The draft growth plan is created and shared with your manager once the plan is l
 -   Review your progress.
 -   Continue to edit your growth plan.
 
-**Parent Topic:**[Using the Talent Development Core application](../concept/egd-use.md)
+**Parent Topic:**[Using the Talent Development Core application](egd-use.md)
 

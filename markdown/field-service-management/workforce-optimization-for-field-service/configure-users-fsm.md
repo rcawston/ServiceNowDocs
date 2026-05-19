@@ -39,7 +39,7 @@ The steps for configuring users are:
 **Related topics**  
 
 
-[Roles installed with Field Service Management](../../planning-and-policy/reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+[Roles installed with Field Service Management](../r_UserRoleInstallWFieldSrvMgmnt.md)
 
 [Setting up Field Service user groups](setting-up-field-service-user-groups.md#)
 

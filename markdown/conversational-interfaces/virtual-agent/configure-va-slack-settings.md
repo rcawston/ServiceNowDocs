@@ -41,11 +41,11 @@ Role required: admin
 
     -   **System Messages**: Customize the default system messages displayed during Virtual Agent conversations.
 
-        For more information about changing or updating a system message, see [Change system messages](../../conversational-interfaces/task/ac-change-system-messages.md).
+        For more information about changing or updating a system message, see [Change system messages](../ac-change-system-messages.md).
 
     -   **Contextual Actions**: Customize the supported actions per user command inputs.
 
-        For more information about updating a contextual action, see [Contextual actions for custom chat integrations](../reference/contextual-actions.md#).
+        For more information about updating a contextual action, see [Contextual actions for custom chat integrations](contextual-actions.md#).
 
 
 -   **[Configure branding for your Virtual Agent bot in Slack](slack-branding-overview.md)**  

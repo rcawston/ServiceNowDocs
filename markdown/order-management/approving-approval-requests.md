@@ -48,7 +48,7 @@ As an escalated assignee, you can approve or reject requests from different chan
 
 ## Adding ad-hoc approvers
 
-You can add one or more approvers or approval groups to a workflow, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For more information on adding an ad-hoc approver, see [Add approvers to an approval request](../task/add-approver.md).
+You can add one or more approvers or approval groups to a workflow, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For more information on adding an ad-hoc approver, see [Add approvers to an approval request](add-approver.md).
 
 ## Delegating approvals
 

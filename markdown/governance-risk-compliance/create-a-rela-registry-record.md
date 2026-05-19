@@ -27,15 +27,15 @@ Role required: sn\_grc\_rel\_config.admin
 
 3.  On the form, fill in the fields.
 
-    For information on the fields in the form, see [Relationship registry new record form](../reference/data-rel-registries-form.md).
+    For information on the fields in the form, see [Relationship registry new record form](data-rel-registries-form.md).
 
 4.  Select **Submit**.
 
     The relationship registry record is displayed in the Relationship Registries list.
 
 
--   **[Relationship registry new record form](../reference/data-rel-registries-form.md)**  
+-   **[Relationship registry new record form](data-rel-registries-form.md)**  
 Use the Relationship registry record form to create a relationship registry between objects.
 
-**Parent Topic:**[Data Relationships Framework](../concept/data-relationship-framework.md)
+**Parent Topic:**[Data Relationships Framework](data-relationship-framework.md)
 

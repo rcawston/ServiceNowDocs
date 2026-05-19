@@ -27,5 +27,5 @@ The system must compensate for the fewer joins by issuing more queries to retrie
 
 **Note:** In the absence of known database issues stemming from large join counts, this parameter should remain unchanged.
 
-**Parent Topic:**[Basic system configuration](../../core-configuration/concept/p_CoreConfigurationOverview.md)
+**Parent Topic:**[Basic system configuration](p_CoreConfigurationOverview.md)
 

@@ -21,5 +21,5 @@ The following provides an example of a record producer that creates a password r
 
 ![Sample record producer](../image/record-producer-example.png)
 
-**Parent Topic:**[Add a record producer](../task/add-a-record-producer.md)
+**Parent Topic:**[Add a record producer](add-a-record-producer.md)
 

@@ -83,12 +83,12 @@ Select the expand card icon \(![Expand card icon.](../../customer-service-manage
 
 Use an AI agent to engage in Q&amp;A, anticipate customer needs, and surface insights. For more information, see [Generate customer insights in the Customer 360 page](generate-customer-insights-customer-360-workspace.md).
 
-**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](../../fso-common/concept/using-now-assist-for-financial-services-operations-fso.md)
+**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](using-now-assist-for-financial-services-operations-fso.md)
 
 **Related topics**  
 
 
-[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](../../fso-common/concept/using-now-assist-for-financial-services-operations-fso.md)
+[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](using-now-assist-for-financial-services-operations-fso.md)
 
 [Configure customer profile summarization in Now Assist for FSO](configure-customer-profile-summarization-fso.md)
 

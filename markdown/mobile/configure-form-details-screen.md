@@ -39,7 +39,7 @@ Role required: admin
 
 8.  Complete the following fields as needed.
 
-    **Note:** The available fields that can be configured on a details screen form are determined by your organization's mobile UI rules. For more information, see [Mobile UI Rules](../concept/mobile-ui-rules.md).
+    **Note:** The available fields that can be configured on a details screen form are determined by your organization's mobile UI rules. For more information, see [Mobile UI Rules](mobile-ui-rules.md).
 
 <table id="table_wrg_24n_lwb"><thead><tr><th>
 
@@ -85,7 +85,7 @@ Settings that determine when data is loaded in your screens. Select from the fol
 -   **Background**: The app makes a background network request to load embedded screens or record screen segments.
 -   **Dynamic prefetch**: Screens for the first 10 rows load as described for the **Prefetch** fetch type. After the 10 first rows load, additional rows of screens load with the **On-demand** fetch type.
 -   **On-demand**: The app sends a network request to load the app only when end users navigate to it.
- For more information about fetch types, see [Mobile fetch types](../reference/applet-fetch-types.md).
+ For more information about fetch types, see [Mobile fetch types](applet-fetch-types.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Screen fields
 
 </td><td>
 
-Sets the fields for the details screen. For information about setting these fields, see [Screen fields](../concept/sg-screen-field-enhancements.md).
+Sets the fields for the details screen. For information about setting these fields, see [Screen fields](sg-screen-field-enhancements.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Field function instances
 
 </td><td>
 
-\(Optional\) Sets the functions for your details screen. Select an existing field function instance or select **New** to add one. For information about adding field functions, see [Add functions to your details screens](../concept/details-screen-functions.md).
+\(Optional\) Sets the functions for your details screen. Select an existing field function instance or select **New** to add one. For information about adding field functions, see [Add functions to your details screens](details-screen-functions.md).
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Footer function instances
 
 </td><td>
 
-\(Optional\) Sets the function in the footer region of the mobile app screen. Select an existing footer function instance or select **New** to add one. For more information about adding a footer function instance, see [Associate a function with a location in the app](../reference/sg-studio-button-instances.md).
+\(Optional\) Sets the function in the footer region of the mobile app screen. Select an existing footer function instance or select **New** to add one. For more information about adding a footer function instance, see [Associate a function with a location in the app](sg-studio-button-instances.md).
 
 </td></tr><tr><td>
 

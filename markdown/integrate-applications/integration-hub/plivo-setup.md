@@ -44,7 +44,7 @@ Add and configure a Plivo connection to authenticate ServiceNow requests in Pliv
 
         ![Connection for Plivo spoke.](../image/plivo-connection.png)
 
-    -   To manage more than one Plivo spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Plivo spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![First-time connection configuration of the Plivo spoke.](../image/plivo-conf-connection.png)

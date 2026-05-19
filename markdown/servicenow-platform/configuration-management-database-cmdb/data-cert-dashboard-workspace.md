@@ -33,7 +33,7 @@ Navigate to either workspace:
 
 ## Reviewing certification tasks
 
-The Data Certification Dashboard provides several tabs for you to drill down to certification tasks lists, which can contain tasks requiring review. For information about reviewing \(and then certifying or failing\), reassigning, or canceling tasks, see [Review certification tasks](../task/data-certific-review-tasks.md).
+The Data Certification Dashboard provides several tabs for you to drill down to certification tasks lists, which can contain tasks requiring review. For information about reviewing \(and then certifying or failing\), reassigning, or canceling tasks, see [Review certification tasks](data-certific-review-tasks.md).
 
 ## Certification tasks
 
@@ -51,7 +51,7 @@ You can:
 -   Filter the list of certification instances that appear, by selecting the available filters such as State, Assignment group, or Assigned to filter and then selecting the specific items that you want to filter by.
 -   Filter the list of certification instances that appear by searching for specific strings in certification policy names.
 -   Sort the list of certification instances by various attributes such as instance state, percent complete, or policy execution number. Select ascending or descending sort order to apply along with any list filter.
--   Select the info icon next to a certification instance name, to show its respective policy execution number. For information about policy execution numbers, see table CMDB Data Management Policy Executions \[cmdb\_data\_management\_policy\_execution\] in [Components related to CMDB Data Manager](../reference/components-cmdb-data-manager.md).
+-   Select the info icon next to a certification instance name, to show its respective policy execution number. For information about policy execution numbers, see table CMDB Data Management Policy Executions \[cmdb\_data\_management\_policy\_execution\] in [Components related to CMDB Data Manager](components-cmdb-data-manager.md).
 
 Select a card to see more details about the certification instance, and all the tasks in that instance based on your user role. In the Certification tasks tab you can drill down the certification tasks list to access the tasks themselves for processing.
 

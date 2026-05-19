@@ -44,18 +44,18 @@ Role required: admin
 
 ## Result
 
-The favicon appears in the bookmarks and browser address bar for the platform or the Content Management System \(CMS\). For more information on how to change the favicon for Service Portal, see [Create a portal](../../../build/service-portal/task/create-a-portal.md).
+The favicon appears in the bookmarks and browser address bar for the platform or the Content Management System \(CMS\). For more information on how to change the favicon for Service Portal, see [Create a portal](service-portal/create-a-portal.md).
 
 **Parent Topic:**[Create a company profile](t_CreateACompanyProfile.md)
 
 **Related topics**  
 
 
-[Banner logo link](../concept/c_CustomizeTheBannerLogoLink.md)
+[Banner logo link](c_CustomizeTheBannerLogoLink.md)
 
 [Customize the banner logo in Core UI](t_CustomizeTheLogoInSysProps.md)
 
-[Examples of how to modify the banner](../concept/c_ExamplesOfHowToModifyTheBanner.md)
+[Examples of how to modify the banner](c_ExamplesOfHowToModifyTheBanner.md)
 
-[Modify the banner](../concept/c_ModifyTheBanner.md)
+[Modify the banner](c_ModifyTheBanner.md)
 

@@ -1721,5 +1721,5 @@ Spend Report Monthly Tag Agg Cost
  sn\_cld\_spend\_core\_monthly\_tag\_agg\_cost
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+</table>**Parent Topic:**[Cloud Cost Management reference](reference-cloudinsights.md)
 

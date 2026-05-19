@@ -17,7 +17,7 @@ Define shifts in Workplace Core with specific schedules so you can designate are
 
 ## Before you begin
 
--   [Providing your workplace data](../../workplace-service-delivery/concept/providing-your-workplace-data-wsd.md).
+-   [Providing your workplace data](../workplace-core/providing-your-workplace-data-wsd.md).
 -   Ensure you have the following information:
     -   Appropriate shift schedules
     -   Data of the employees who would operate from the office in this shift

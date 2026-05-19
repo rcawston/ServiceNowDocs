@@ -62,5 +62,5 @@ Role required: agent\_client\_collector\_admin
 10. On the **Policy** page, click **Save** and then click **Publish** to activate the policy to monitor the log file.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 

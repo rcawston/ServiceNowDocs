@@ -161,5 +161,5 @@ Required to discover the artifact repositories and receive the feeds and package
 
 If you create an Azure tool with custom defined access level, and you reconfigure such a tool because of change in your Integration user credentials, then the existing service hooks for release created and release deployment are not updated. Instead, two new service hooks are created with new configuration details. To avoid the duplication of these service hooks, you must create the tool with full access level.
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 

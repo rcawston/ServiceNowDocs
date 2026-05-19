@@ -22,7 +22,7 @@ The Universal Request \(UR\) is a key ServiceNow capability that serves as a cen
 UR can be created by:
 
 -   Invoice owners through Employee center. For more information on ServiceNow Universal Request, see [Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
--   Suppliers submit inquiry case request or issue \(UR\) using the Supplier Collaboration portal. For more information on UR from supplier portal, see [Create Universal Request from Supplier portal](../task/create-ur-from-supplier-portal.md).
+-   Suppliers submit inquiry case request or issue \(UR\) using the Supplier Collaboration portal. For more information on UR from supplier portal, see [Create Universal Request from Supplier portal](create-ur-from-supplier-portal.md).
 
 ## How UR works in Accounts Payable Operations
 
@@ -51,7 +51,7 @@ When a Universal Request is transferred to an Accounts Payable inquiry case, the
 |Priority \(priority\)|Priority \(priority\)|
 |Opened by \(opened\_by\)|Opened by \(opened\_by\)|
 
--   **[Create invoice case from Universal Request](../task/create-invoice-case-from-ur.md)**  
+-   **[Create invoice case from Universal Request](create-invoice-case-from-ur.md)**  
 AP agents validate the incoming UR requests in the Source-to-Pay workspace and create an invoice case for further processing.
 
 **Parent Topic:**[Use Accounts Payable Operations](use-acc-pay-mgmt.md)
@@ -59,7 +59,7 @@ AP agents validate the incoming UR requests in the Source-to-Pay workspace and c
 **Related topics**  
 
 
-[Create a knowledge base article about invoice](../task/create-knowledge-base-articles-for-invoices.md)
+[Create a knowledge base article about invoice](create-knowledge-base-articles-for-invoices.md)
 
 [Invoice case categories and subcategories](working-with-cases.md)
 
@@ -69,11 +69,11 @@ AP agents validate the incoming UR requests in the Source-to-Pay workspace and c
 
 [Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md)
 
-[Configure Advanced Work Assignment for Accounts Payable Operations](../task/configure-advanced-work-assignment-for-apo.md)
+[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)
 
 [Using Advanced Work Assignment for Accounts Payable Operations](using-awa-for-apo.md)
 
-[Working with Advanced Work Assignment](../task/working-with-advanved-work-assignment.md)
+[Working with Advanced Work Assignment](working-with-advanved-work-assignment.md)
 
 [Interaction management in Accounts Payable Operations](interaction-record.md)
 
@@ -85,5 +85,5 @@ AP agents validate the incoming UR requests in the Source-to-Pay workspace and c
 
 [Using Invoice Case Management](use-invoice-case-mgmt.md)
 
-[Create Universal Request from Supplier portal](../task/create-ur-from-supplier-portal.md)
+[Create Universal Request from Supplier portal](create-ur-from-supplier-portal.md)
 

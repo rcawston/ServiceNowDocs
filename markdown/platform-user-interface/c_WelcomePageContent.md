@@ -15,7 +15,7 @@ The welcome page contains instructions and any important information you would l
 
 The base system login page content is customizable by the administrator of the system.
 
-**Note:** This information is only relevant for instances using Core UI instead of the Next Experience. For information about similar options available for Next Experience, see [Configure login theming in Next Experience](../task/edit-login-features-u-n.md).
+**Note:** This information is only relevant for instances using Core UI instead of the Next Experience. For information about similar options available for Next Experience, see [Configure login theming in Next Experience](edit-login-features-u-n.md).
 
 ## Welcome page sections
 
@@ -40,7 +40,7 @@ View, create, and configure the welcome page sections by navigating to **System 
 |Published|The published date of the section.|
 |Text|The content of the section.|
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 
 ## Create company-specific welcome page content
 

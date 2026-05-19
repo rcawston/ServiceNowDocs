@@ -42,13 +42,13 @@ You can use the List or Hierarchy views while you perform this task.
 
 4.  On the form, fill in the short description and approved dates.
 
-    For full field information, see [Demand planning item form](../reference/demand-form-portfolio-planning.md) or [Project planning item form](../reference/project-form-portfolio-planning.md).
+    For full field information, see [Demand planning item form](demand-form-portfolio-planning.md) or [Project planning item form](project-form-portfolio-planning.md).
 
 5.  Select **Submit**.
 
 6.  If you're using PPM to execute the planned work, you can also import your work items from the application.
 
-    For more information, see [Executing Portfolio Planning work in PPM](../concept/executing-portfolio-planning-with-ppm.md).
+    For more information, see [Executing Portfolio Planning work in PPM](executing-portfolio-planning-with-ppm.md).
 
 
 ## Result

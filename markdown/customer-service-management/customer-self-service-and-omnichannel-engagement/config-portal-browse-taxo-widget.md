@@ -51,6 +51,6 @@ Role required: sp\_admin
 
 10. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [Portal Browse Taxonomy widget instance options form](../reference/port-browse-taxo-widget-inst-options.md).
+    For a description of the field values, see [Portal Browse Taxonomy widget instance options form](../port-browse-taxo-widget-inst-options.md).
 
 

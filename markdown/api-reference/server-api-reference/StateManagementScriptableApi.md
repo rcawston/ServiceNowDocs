@@ -19,7 +19,7 @@ The StateManagementScriptableApi methods adhere to restrictions and allowances s
 
 The StateManagementScriptableApi methods are static methods. You access the methods using the `SNC.StateManagementScriptableApi` global object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## StateManagementScriptableApi - addBulkCIAction\(String requestorId, String sysIdList, String ciActionName, String ciActionListOld, String leaseTime\)
 

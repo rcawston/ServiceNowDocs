@@ -33,10 +33,10 @@ To find the property, type `sys_properties.list` in the application navigator. F
 
 ![Help panel open with the What's New option hidden](../image/WhatsNewHidden.png "What's New option hidden")
 
--   **[Create custom overview help](../task/create-custom-overview-help-pages.md)**  
+-   **[Create custom overview help](create-custom-overview-help-pages.md)**  
 You can edit existing overview help pages to display your own custom panels to selected users.
--   **[Example of adding a panel to an existing overview help page](../task/example-add-slide-to-existing-page.md)**  
+-   **[Example of adding a panel to an existing overview help page](example-add-slide-to-existing-page.md)**  
 This example adds panels to the existing overview help page that display only for users with specific roles and when a specific plugin is activated.
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 

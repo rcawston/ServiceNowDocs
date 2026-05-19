@@ -80,7 +80,7 @@ Feature that displays the following information in the contextual side panel:
 -   [Viewing the ribbon information in the contextual side panel](csm-playbooks-viewing-ribbon-info.md)
 -   [Viewing dynamic related records in the contextual side panel](csm-playbooks-viewing-rel-records.md)
 
- For more information about configuring this feature, see [Configure playbook stage and activity visibility](../task/playbook-config-activity-visibility.md).
+ For more information about configuring this feature, see [Configure playbook stage and activity visibility](playbook-config-activity-visibility.md).
 
 </td></tr><tr><td>
 

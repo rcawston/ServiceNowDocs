@@ -40,7 +40,7 @@ Role required: catalog\_admin, taxonomy\_admin, or any user that meets the Taxon
 
 ## What to do next
 
-For more information, see [Taxonomy and connected content](../concept/track-new-content.md).
+For more information, see [Taxonomy and connected content](track-new-content.md).
 
 **Related topics**  
 

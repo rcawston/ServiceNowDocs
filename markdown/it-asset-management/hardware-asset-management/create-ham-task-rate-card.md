@@ -111,14 +111,14 @@ Filter to run on the table selected to determine whether this rate card applies 
 
 After a task rate card is defined for a task, expense lines are created by the **Use time worked** value. When you select the Use time worked field for a task rate card, the time worked records created against users and labor rate are used to calculate expense lines. For more information, see [Process task rate cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_ProcessTaskRateCards.md).
 
-**Parent Topic:**[Configure the Total Cost of Ownership of assets](../concept/configure-ham-tco.md)
+**Parent Topic:**[Configure the Total Cost of Ownership of assets](configure-ham-tco.md)
 
 **Related topics**  
 
 
-[Asset Total Cost of Ownership for Hardware Asset Management](../concept/asset-mgmt-tco.md)
+[Asset Total Cost of Ownership for Hardware Asset Management](asset-mgmt-tco.md)
 
-[Asset analytics view](../concept/asset-analytics-view.md)
+[Asset analytics view](asset-analytics-view.md)
 
-[Asset operations view](../concept/asset-operations-view.md)
+[Asset operations view](asset-operations-view.md)
 

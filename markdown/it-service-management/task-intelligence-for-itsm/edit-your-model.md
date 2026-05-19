@@ -17,7 +17,7 @@ Edit either the Similar Incidents or Incident Categorization model that has alre
 
 ## Before you begin
 
-A prediction model must already be created, trained, and deployed. For more information on how to create a model, see [Managing Task Intelligence for ITSM models](../concept/using-task-intelligence-itsm.md).
+A prediction model must already be created, trained, and deployed. For more information on how to create a model, see [Managing Task Intelligence for ITSM models](using-task-intelligence-itsm.md).
 
 Role required: sn\_ti\_admin.tia\_admin or sn\_itsm\_ml\_task.ti\_admin
 
@@ -70,5 +70,5 @@ Changes aren’t saved until you redeploy the model. The updated model replaces 
 
 Your updated model is deployed.
 
-**Parent Topic:**[Managing Task Intelligence for ITSM models](../concept/using-task-intelligence-itsm.md)
+**Parent Topic:**[Managing Task Intelligence for ITSM models](using-task-intelligence-itsm.md)
 

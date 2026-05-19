@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-You must create a mapping for any rich controls your conversations will use in the channel. For example, you may need a mapping for **DefaultText**, which supports input and output text response, along with file upload and image response. If your channel doesn't support a control, then you won't need to map it. For example, SMS doesn't support video responses. For a description of each default rich control, see [Default input and output rich controls for a custom chat integration](../reference/default-rich-controls-va-cccif.md).
+You must create a mapping for any rich controls your conversations will use in the channel. For example, you may need a mapping for **DefaultText**, which supports input and output text response, along with file upload and image response. If your channel doesn't support a control, then you won't need to map it. For example, SMS doesn't support video responses. For a description of each default rich control, see [Default input and output rich controls for a custom chat integration](default-rich-controls-va-cccif.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ Control type
 
 </td><td>
 
-Default rich control type.For example, the DefaultPicker rich control type maps to File Picker, Topic Picker, and Boolean controls. For more information about the types of controls, see [Default input and output rich controls for a custom chat integration](../reference/default-rich-controls-va-cccif.md).
+Default rich control type.For example, the DefaultPicker rich control type maps to File Picker, Topic Picker, and Boolean controls. For more information about the types of controls, see [Default input and output rich controls for a custom chat integration](default-rich-controls-va-cccif.md).
 
 </td></tr><tr><td>
 

@@ -56,5 +56,5 @@ If you want to run an SLA on all Linux servers for major and critical alerts, fi
 -   **[Limit the records for the SLA configuration filter](t_EMLimitTheRecordsForSLAConfigFilter.md)**  
 If too many records are returned by the SLA configuration filter, you can add a property to set the maximum number of records.
 
-**Parent Topic:**[SLAs for application services and CIs](../concept/c_EMSLAsForBSAndCIs.md)
+**Parent Topic:**[SLAs for application services and CIs](c_EMSLAsForBSAndCIs.md)
 

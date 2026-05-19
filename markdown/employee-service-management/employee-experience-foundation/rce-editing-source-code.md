@@ -47,7 +47,7 @@ Build the layout using HTML elements, directly edit the CSS for an element to ad
     ![User unsuccessfully tries to delete a CSS rule using the delete key, so they use the Remove CSS button, which removes the highlighted code](../images/rce-remove-css.gif "Example of using the Remove CSS button")
 
 
-**Note:** This feature is not available by default. An Admin must enable the **Edit code** property. See [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
+**Note:** This feature is not available by default. An Admin must enable the **Edit code** property. See [Properties installed with Content Publishing](properties-with-content-delivery.md)
 
 ## Important considerations
 

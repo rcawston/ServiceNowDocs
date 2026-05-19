@@ -24,10 +24,10 @@ In addition to catalogs, categories, and topics, Now Assist allows you to set th
 Now Assist can generate UI policies with multiple actions from simple natural language.
 -   **[Suggestions to describe catalog items](how-to-describe-catalog-item.md)**  
 Now Assist uses the description that you write to generate a catalog item for you. If you're using Now Assist for creating a catalog item, use these suggestions to describe your catalog item.
--   **[Catalog item generation](../concept/now-assist-catalog-item-generation.md)**  
+-   **[Catalog item generation](now-assist-catalog-item-generation.md)**  
 Use the Catalog item generation skill to create catalog items of your choice using Now Assist.
--   **[Refine content](../concept/now-assist-refine-content.md)**  
+-   **[Refine content](now-assist-refine-content.md)**  
 Use the refine content skill to shorten, elaborate, rephrase, or generate content in the fields by using Now Assist.
 
-**Parent Topic:**[Now Assist in Catalog Builder](../concept/now-assist-for-catalog-generation.md)
+**Parent Topic:**[Now Assist in Catalog Builder](now-assist-for-catalog-generation.md)
 

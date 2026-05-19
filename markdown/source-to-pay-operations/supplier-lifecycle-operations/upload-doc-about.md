@@ -17,21 +17,21 @@ After you create and run a supplier document configuration, you can upload the r
 
 The supplier document configuration enables the following:
 
--   Supplier managers and supplier owners can upload the required documents from the Source-to-Pay Workspace. For more information, see [Manage documents from the Source-to-Pay Workspace](../task/upload-doc-ws.md).
--   Supplier contacts can upload the required documents from the Supplier Collaboration Portal. For more information see [Manage documents from the Supplier Collaboration Portal](../task/upload-doc-portal.md).
+-   Supplier managers and supplier owners can upload the required documents from the Source-to-Pay Workspace. For more information, see [Manage documents from the Source-to-Pay Workspace](upload-doc-ws.md).
+-   Supplier contacts can upload the required documents from the Supplier Collaboration Portal. For more information see [Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md).
 
 **Parent Topic:**[Supplier Document Management](supp-doc-mgmt-overview.md)
 
 **Related topics**  
 
 
-[Create a supplier document configuration](../task/create-doc-config.md)
+[Create a supplier document configuration](create-doc-config.md)
 
-[Manually run a supplier document configuration](../task/run-doc-config.md)
+[Manually run a supplier document configuration](run-doc-config.md)
 
-[Configure document expiration monitoring attributes](../task/configure-document-expiration-monitoring-attributes.md)
+[Configure document expiration monitoring attributes](configure-document-expiration-monitoring-attributes.md)
 
-[Create a supplier document configuration](../task/create-doc-config.md)
+[Create a supplier document configuration](create-doc-config.md)
 
-[Manually run a supplier document configuration](../task/run-doc-config.md)
+[Manually run a supplier document configuration](run-doc-config.md)
 

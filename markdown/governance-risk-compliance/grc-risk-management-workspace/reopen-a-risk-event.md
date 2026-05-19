@@ -36,5 +36,5 @@ Role required: sn\_risk\_advanced.risk\_event\_admin
     The risk event moves to the Analyze state.
 
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

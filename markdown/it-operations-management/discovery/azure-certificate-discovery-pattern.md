@@ -23,7 +23,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Verify the configuration of an Azure account**
 
-    For more information, see [Discovery for cloud environment](../concept/cloud-discovery-wizard.md)
+    For more information, see [Discovery for cloud environment](cloud-discovery-wizard.md)
 
 -   **Verify the installation of the plugins**
 
@@ -41,7 +41,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Verify the configuration of Cloud Discovery schedule**
 
-    For more information, see [Create a discovery schedule in Cloud Discovery Workspace](../task/cloud-operations-disco-create-schedule.md)
+    For more information, see [Create a discovery schedule in Cloud Discovery Workspace](cloud-operations-disco-create-schedule.md)
 
 
 ## Verify the REST API Permissions

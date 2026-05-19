@@ -40,5 +40,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 7.  Select **Add** to finish adding the talent profiles as job prospects.
 
 
-**Parent Topic:**[Job prospects](../concept/job-leads.md)
+**Parent Topic:**[Job prospects](job-leads.md)
 

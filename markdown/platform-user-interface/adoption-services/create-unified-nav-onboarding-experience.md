@@ -362,5 +362,5 @@ The question is Mandatory when selected.
 8.  On the Guidance form, select **Update**.
 
 
-**Parent Topic:**[Configure](../concept/configure-onboarding-modals.md)
+**Parent Topic:**[Configure](configure-onboarding-modals.md)
 

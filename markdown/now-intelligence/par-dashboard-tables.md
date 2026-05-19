@@ -42,5 +42,5 @@ The following tables relate to Platform Analytics dashboards and can be accessed
 |par\_recommendation|Stores recommendations of Process Mining projects to create. These recommendations are given through Process Mining insights.|
 |par\_recommendation\_user\_action|Stores whether users accepted or dismissed a Process Mining insight recommendation.|
 
-**Parent Topic:**[Dashboard reference](../concept/dashboard-reference-page.md)
+**Parent Topic:**[Dashboard reference](dashboard-reference-page.md)
 

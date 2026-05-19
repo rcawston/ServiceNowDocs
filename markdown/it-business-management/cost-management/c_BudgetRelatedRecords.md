@@ -20,5 +20,5 @@ The following are the related lists on a Budget record. You can add additional r
 -   Cost Centers: Shows the cost centers that are a member of this budget.
 -   Expense Allocations: Shows all of the expense allocation records during the budget time period for all of the budget's cost centers.
 
-**Parent Topic:**[Cost Management](../reference/r_CostManagement.md)
+**Parent Topic:**[Cost Management](r_CostManagement.md)
 

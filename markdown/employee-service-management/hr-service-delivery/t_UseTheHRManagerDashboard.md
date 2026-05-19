@@ -45,5 +45,5 @@ You can customize any dashboard that you can access to add or remove reports and
     |**Save the chart as an image file**|If a menu icon appears when you point your cursor to a chart, you can click the icon to export the chart to an image file.|
 
 
-**Parent Topic:**[HR Dashboards &amp; Reports](../concept/c_HRDashboardsReports.md)
+**Parent Topic:**[HR Dashboards &amp; Reports](c_HRDashboardsReports.md)
 

@@ -36,5 +36,5 @@ Role required: sam\_admin or sam\_user
 4.  View additional usage details for a given IBM software product by selecting the value in the corresponding **Date** field.
 
 
-**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](../concept/ibm-asp-integration.md)
+**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](ibm-asp-integration.md)
 

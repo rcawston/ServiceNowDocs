@@ -25,9 +25,9 @@ Agentic workflows automate processes with agentic AI. In AI Agent Studio, you mu
 
 An AI agent named **Web Automation Agent** and agentic workflow named **Web Automation** are provided by default when you install AI Desktop Actions. You can create a different agentic workflow referencing this AI agent or AI agent that you created so that your users can find and use the agentic workflow in the Now Assist panel.
 
-Verify that the enhanced chat is available in the Now Assist panel. The **Web view** pane is available only when enhanced chat is enabled. For more information, see [Enhanced chat](../../../administer/now-assist-platform/concept/now-assist-panel-enhanced.md).
+Verify that the enhanced chat is available in the Now Assist panel. The **Web view** pane is available only when enhanced chat is enabled. For more information, see [Enhanced chat](now-assist-panel-enhanced.md).
 
-For more information, see [Create an AI agent](../../../administer/now-assist-ai-agents/task/configure-next-best-action-agent.md) and [Create an agentic workflow](../../../administer/now-assist-ai-agents/task/configure-use-case-ai-agents.md).
+For more information, see [Create an AI agent](configure-next-best-action-agent.md) and [Create an agentic workflow](configure-use-case-ai-agents.md).
 
 ## Procedure
 

@@ -172,5 +172,5 @@ Users who contribute to the disclosure document. This field appears only when th
 9.  To request approval from the necessary approvers, select **Request Approval**.
 
 
-**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](../concept/esg-disclosures.md)
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](esg-disclosures.md)
 

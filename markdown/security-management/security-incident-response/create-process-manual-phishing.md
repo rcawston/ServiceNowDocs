@@ -74,8 +74,8 @@ Role required: sn\_si.admin or sn\_si.manager
 16. Select **View all properties** and enable the **Advanced properties** toggle to display all the activity experience fields from the activity definition.
 
 
--   **[Add parallel activities](../concept/parallel-activities.md)**  
+-   **[Add parallel activities](parallel-activities.md)**  
 If the **When to Start** field is set to **With Previous**, then parallel activities can be initiated.
 
-**Parent Topic:**[Playbook for Manual Phishing](../concept/playbook-manual-phishing.md)
+**Parent Topic:**[Playbook for Manual Phishing](playbook-manual-phishing.md)
 

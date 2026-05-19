@@ -126,5 +126,5 @@ For more information, see [Create a release for a product or service](dpr-create
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](dpr-using-digital-product-release.md)
 

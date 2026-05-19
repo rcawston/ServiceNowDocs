@@ -50,13 +50,13 @@ You can configure the following roles and tasks:
 
 -   **[Procurement case types](procurement-case-types.md)**  
 Procurement case types classify and route procurement work items to the appropriate team, and can block order or sourcing processing until the required review or action is complete.
--   **[Work prioritization](../reference/work-prioritization.md)**  
+-   **[Work prioritization](work-prioritization.md)**  
 Work prioritization automatically assigns a priority level to purchase requisitions, sourcing requests, and procurement cases so that procurement specialists can work the most urgent items first.
--   **[Supplier qualification](../reference/supplier-qualification.md)**  
+-   **[Supplier qualification](supplier-qualification.md)**  
 As a procurement specialist or Procurement Case Management \(PCM\) agent, you would want to engage with suppliers who are qualified to fulfill your organization's purchasing needs.
 -   **[Process Automation Designer flows for playbook](process-automation-designer-flows-psm.md)**  
 The Source-to-Pay Workspace helps you automate the entire process, right from tracking the requests, fulfillment, and to order revision flows.
--   **[Email notifications from Playbook](../reference/email-notifications-workspace.md)**  
+-   **[Email notifications from Playbook](email-notifications-workspace.md)**  
 Several email notifications are triggered from Playbook. This may be a result of your action, an assignment for you, or to keep you updated on the status of your purchases, including purchase revisions.
 -   **[Email composer with quick messages and response templates in Source-to-Pay Workspace](email-composer-with-quick-messages-and-response-templates-psm.md)**  
 Insert predefined content into the message body of emails that you send from the email client in Source-to-Pay Workspace.
@@ -80,7 +80,7 @@ The Procurement Case Management Dashboard helps you to track, analyze, and manag
 
 [Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 
 [Source-to-Pay Workspace](procurement-specialist-workspace.md)
 
@@ -96,7 +96,7 @@ The Procurement Case Management Dashboard helps you to track, analyze, and manag
 
 [Using Procurement Case Management](using-pcm.md)
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md)
 

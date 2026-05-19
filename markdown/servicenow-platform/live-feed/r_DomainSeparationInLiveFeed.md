@@ -72,9 +72,9 @@ All of the Live Feed features are available to users within a domain and work th
 
 [Live Feed security and table access](r_LiveFeedTableAccessRules.md)
 
-[Limit Live Feed access by role](../task/t_LimitLiveFeedAccessByRole.md)
+[Limit Live Feed access by role](t_LimitLiveFeedAccessByRole.md)
 
-[Manage Live Feed message content](../task/t_ManageLiveFeedMessageContent.md)
+[Manage Live Feed message content](t_ManageLiveFeedMessageContent.md)
 
 [Live Feed team security](r_LiveFeedTeamSecurity.md)
 

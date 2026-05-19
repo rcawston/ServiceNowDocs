@@ -61,7 +61,7 @@ From the Free-form Roadmaps tab, select a roadmap.
     ![Update planned dates of a roadmap item.](../images/update-roadmap-item.gif)
 
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](roadmaps-in-alignment-planner-workspace.md)
 
 **Related topics**  
 

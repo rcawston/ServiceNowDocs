@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Search Profile - Search Source Mapping form contains information about relationships between search sources and search profiles in AI Search. Use this form when linking search sources to search profiles.
 
-For details on linking search sources to your search profiles, see [Link a search source to a search profile](../task/link-search-source-profile-ais.md).
+For details on linking search sources to your search profiles, see [Link a search source to a search profile](link-search-source-profile-ais.md).
 
 <table id="table_i1h_y1z_lnb"><thead><tr><th>
 
@@ -74,5 +74,5 @@ Exclude Attachments in Now Assist Genius Results
 Option to exclude attachments from this search source when generating Genius Result answers for searches that use the selected search profile. If **Exclude in Now Assist Genius Results** is not selected, selecting this option has no effect. This option applies to all Genius Results, not just Now Assist Genius Results.**Note:** Selecting this option has no effect on search sources created from external indexed sources \(those that index external content\). It only affects search sources created from internal indexed sources \(those that index content from ServiceNow AI Platform® tables\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

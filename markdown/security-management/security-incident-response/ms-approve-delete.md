@@ -154,7 +154,7 @@ Review the related security incident and any related search data prior to proces
         You have successfully approved email delete requests from both an email notification and an approval record and confirmed that emails are deleted. For more information about locating the Email Search Result record, see [Define email search criteria and request a search on the Microsoft Exchange Online service](verify-expected-results-ms-exchange-online.md).
 
 
-**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+**Parent Topic:**[Microsoft Exchange Online integration](ms-exchange-online-lookups.md)
 
 **Previous topic:**[Request delete approval for emails on Microsoft Exchange online service](ms-delete-email.md)
 

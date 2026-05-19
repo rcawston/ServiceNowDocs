@@ -27,9 +27,9 @@ To ensure this change, you must configure new dashboards according to the latest
 
 This procedure involves a series of tasks as listed here:
 
-1.  For the latest planning calendar, create a dashboard or duplicate the existing dashboard and add the reports that your teams want to have. See [Create a dashboard in EAP](../task/create-a-dashboard-in-eap.md).
-2.  [Add a tag to the EAP dashboard](../task/add-tag-to-the-eap-dashboard.md).
-3.  [Associate the EAP read-only role to the dashboard](../task/add-the-eap-read-only-role-to-the-dashboard.md).
-4.  Add the newly created dashboard to the EAP configuration that has the planning calendar change. See [Add EAP dashboards to an Agile configuration](../task/associate-the-eap-dashboard-with-agile-configuration.md).
-5.  \(Optional\) [Create implementation of a Scripted Extension Point in EAP](../task/create-or-update-scripted-extension-point-in-eap.md).
+1.  For the latest planning calendar, create a dashboard or duplicate the existing dashboard and add the reports that your teams want to have. See [Create a dashboard in EAP](create-a-dashboard-in-eap.md).
+2.  [Add a tag to the EAP dashboard](add-tag-to-the-eap-dashboard.md).
+3.  [Associate the EAP read-only role to the dashboard](add-the-eap-read-only-role-to-the-dashboard.md).
+4.  Add the newly created dashboard to the EAP configuration that has the planning calendar change. See [Add EAP dashboards to an Agile configuration](associate-the-eap-dashboard-with-agile-configuration.md).
+5.  \(Optional\) [Create implementation of a Scripted Extension Point in EAP](create-or-update-scripted-extension-point-in-eap.md).
 

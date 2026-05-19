@@ -302,5 +302,5 @@ integer
 Controls accuracy of the filtering in the Unified Navigation menus. The higher the number, the more accurate the match must be. A value of 100 means an exact match is required.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring the Next Experience UI](../concept/next-experience-ui-admin.md)
+</table>**Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)
 

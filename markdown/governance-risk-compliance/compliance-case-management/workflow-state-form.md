@@ -102,5 +102,5 @@ Parent model state
 Parent state for the sub-level state. This field appears only when **As sub-level** is selected from **Display type**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a workflow state for a compliance case or request](../task/create-workflow-state.md)
+</table>**Parent Topic:**[Create a workflow state for a compliance case or request](create-workflow-state.md)
 

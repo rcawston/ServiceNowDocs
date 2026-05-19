@@ -26,7 +26,7 @@ The header section displays the following:
 -   Phase field: The field used to organize lanes \(for example, Business criticality, Customer priority\)
 -   Planning object: Indicates whether the roadmap organizes Product Usage or Capability Usage
 -   Last updated: Date the roadmap was last modified
--   Template: Shows the template name if the roadmap was created from a template. See [Create a product adoption roadmap template](../task/account-lifecycle-create-par-roadmap-temp.md) for details.
+-   Template: Shows the template name if the roadmap was created from a template. See [Create a product adoption roadmap template](account-lifecycle-create-par-roadmap-temp.md) for details.
 
 ## Product adoption roadmap lanes
 

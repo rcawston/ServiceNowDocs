@@ -98,19 +98,19 @@ You can view a list of five collaborators on a page at a time.
 **Related topics**  
 
 
-[Create an incident in Service Operations Workspace](../task/create-incident-sow.md)
+[Create an incident in Service Operations Workspace](create-incident-sow.md)
 
-[View and update incident information on the Overview tab in SOW](../task/view-update-inc-overview-tab.md)
+[View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md)
 
-[Work on an incident list page in Service Operations Workspace](../task/work-incident-list-page-sow.md)
+[Work on an incident list page in Service Operations Workspace](work-incident-list-page-sow.md)
 
-[Work on an incident record in Service Operations Workspace](../task/work-on-incident-sow.md)
+[Work on an incident record in Service Operations Workspace](work-on-incident-sow.md)
 
 [Remedial actions using Playbook](remedial-actions-playbook.md)
 
-[Close resolved incident](../task/close-resolved-incident-sow.md)
+[Close resolved incident](close-resolved-incident-sow.md)
 
-[Reopen an incident in Service Operations Workspace](../task/reopen-incident-sow.md)
+[Reopen an incident in Service Operations Workspace](reopen-incident-sow.md)
 
 [Incident Management in Service Operations Workspace reference](sow-im-reference.md)
 

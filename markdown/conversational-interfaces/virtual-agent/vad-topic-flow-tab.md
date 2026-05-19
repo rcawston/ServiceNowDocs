@@ -50,7 +50,7 @@ Tabs and design options for your topic: -   Tabs: Each tab provides a different 
     -   [Topic Properties tab](vad-topic-properties-tab.md)
     -   [Topic Languages tab](vad-topic-languages-tab.md) \(available if multiple languages are configured for Virtual Agent\).
 
-For more information, see [Localizing Virtual Agent conversations](../concept/localize-va-topic.md).
+For more information, see [Localizing Virtual Agent conversations](localize-va-topic.md).
 
 -   **Table View**: Option that displays a table view of the nodes in the conversation flow. You can use this option to switch between table view and diagram view as you design your conversation.
 -   **Active/Inactive**: Option that changes the design state so that it's active \(available to users\) or inactive \(in development and not available to users\). Select it to see the following options:
@@ -130,7 +130,7 @@ Input or output item on the canvas created by dragging a control from the Compon
 
 </td><td>
 
-Properties specific to the selected node on the canvas. The list of properties changes based on the node you select. Each node has its own set of properties that you can define, which can include scripts that control the behavior or processing that is performed in the node. If NLU is enabled, the property sheets for Input controls contain additional NLU fields. For further information, see [Assistant Designer controls](../concept/virtual-agent-controls.md)
+Properties specific to the selected node on the canvas. The list of properties changes based on the node you select. Each node has its own set of properties that you can define, which can include scripts that control the behavior or processing that is performed in the node. If NLU is enabled, the property sheets for Input controls contain additional NLU fields. For further information, see [Assistant Designer controls](virtual-agent-controls.md)
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ Opens the property sheet view for the currently selected node on the canvas.
 
 </td><td>
 
-Opens the Validation Issues view, showing the number of issues in the topic needing correction before the topic can be published. This tab appears when you try to publish an incomplete topic, and disappears when all issues are resolved. For more information, see [Publish a Virtual Agent topic](../task/publish-virtual-agent-topic.md).
+Opens the Validation Issues view, showing the number of issues in the topic needing correction before the topic can be published. This tab appears when you try to publish an incomplete topic, and disappears when all issues are resolved. For more information, see [Publish a Virtual Agent topic](publish-virtual-agent-topic.md).
 
 </td></tr><tr><td>
 
@@ -236,5 +236,5 @@ Point to the incomplete message to see a tooltip that describes what is missing.
 
 ![Virtual Agent Designer properties, with incomplete message selected to show missing items in the node.](../images/vad-flow-tab-missing-properties-tooltip.png "Select the message to get more information")
 
-**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
 

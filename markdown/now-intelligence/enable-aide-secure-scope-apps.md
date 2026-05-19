@@ -26,9 +26,9 @@ Without proper ACL configuration, users cannot create or read records in AI Data
 
 The security configuration process involves two main components: creating scope-specific ACLs that call a public script include provided by the AI Data Explorer plugin, and approving RCA records that enable Query Generation to access protected scope data through API calls. Both components are necessary for full functionality with protected scopes.
 
-1.  [Create ACLs for AI Data Explorer and Query Generation protected scope access](../task/create-acls-protected-scope-access.md)  
+1.  [Create ACLs for AI Data Explorer and Query Generation protected scope access](create-acls-protected-scope-access.md)  
 Create Access Control Lists \(ACLs\) in protected scopes to enable AI Data Explorer and Query Generation to access tables within those scopes.
-2.  [Approve RCA records for AI Data Explorer and Query Generation protected scope access](../task/create-rca-records-protected-scope-access.md)  
+2.  [Approve RCA records for AI Data Explorer and Query Generation protected scope access](create-rca-records-protected-scope-access.md)  
 Approve automatically generated Restricted Caller Access \(RCA\) records to enable AI Data Explorer and Query Generation to fetch data from tables in protected scopes through API calls.
 
 **Parent Topic:**[Configuring Query Generation](configuring-query-generation.md)

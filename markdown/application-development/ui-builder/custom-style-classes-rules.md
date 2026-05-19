@@ -29,7 +29,7 @@ Control the appearance of fields, containers, buttons, and other interface compo
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page.
 
@@ -68,5 +68,5 @@ Control the appearance of fields, containers, buttons, and other interface compo
 13. Select **Preview** to test the applied style class or style rule.
 
 
-**Parent Topic:**[Manage the visual style of UI Builder experiences](../concept/manage-the-visual-style-of-ui-builder-experiences.md)
+**Parent Topic:**[Manage the visual style of UI Builder experiences](manage-the-visual-style-of-ui-builder-experiences.md)
 

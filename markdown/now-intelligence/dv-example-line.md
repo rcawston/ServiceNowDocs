@@ -32,7 +32,7 @@ In this example you start wanting to show the change in the number of open incid
 
     ![Setting the date range.](../image/ts-set-date-range.png)
 
-6.  You would also like to see what more information you can give about this data, so you expand the **Additional settings** section. For indicators, these settings are the same as the KPI Details chart options. For more information, see [Chart options in KPI Details](../reference/chart-options.md) under the KPI Details documentation. If you have the necessary roles, you can set [targets](../../performance-analytics/concept/performance-analytics-glossary.md#) and [thresholds](../../performance-analytics/concept/performance-analytics-glossary.md#) for an indicator in KPI Details.
+6.  You would also like to see what more information you can give about this data, so you expand the **Additional settings** section. For indicators, these settings are the same as the KPI Details chart options. For more information, see [Chart options in KPI Details](chart-options.md) under the KPI Details documentation. If you have the necessary roles, you can set [targets](performance-analytics/performance-analytics-glossary.md#) and [thresholds](performance-analytics/performance-analytics-glossary.md#) for an indicator in KPI Details.
 
     ![Additional settings for a time series with a single data source and no Group By value.](../image/ts-additional-settings.png)
 
@@ -60,7 +60,7 @@ In this example you start wanting to show the change in the number of open incid
 
     ![Line visualization with 2 data sources, one of which is broken down by group.](../image/ts-line-chart-2-sources.png)
 
-12. You find this difficult to read and aren't sure that this is the best visualization to use. After reading [Use cases for different time series visualization types](../../reporting/reference/time-series-visualization-types.md), you decide to change the visualization to a column display.
+12. You find this difficult to read and aren't sure that this is the best visualization to use. After reading [Use cases for different time series visualization types](time-series-visualization-types.md), you decide to change the visualization to a column display.
 
     ![Changing visualization type to column.](../image/ts-change-type-column.png)
 
@@ -91,5 +91,5 @@ In this example you start wanting to show the change in the number of open incid
     ![Your new data visualization on a dashboard.](../image/ts-on-dashboard.png)
 
 
-**Parent Topic:**[Create time series data visualizations](../../reporting/task/create-dv-time-series-ac.md)
+**Parent Topic:**[Create time series data visualizations](create-dv-time-series-ac.md)
 

@@ -28,17 +28,17 @@ Submit your contract for approval by selecting an approver in the contract recor
 
 ## Contract approval process
 
--   Select an **Approver** for the contract and select **Submit for Review**. If the contract's end date is greater than the current date, an approval history record is automatically created to track the status of the approval process. For more information about sending a contract for approval, see [Send the contract for approval](../task/t_SendTheContractForApproval.md).
--   Access the contract approval history record and take an approval action. For more information about viewing the approval history for a contract, see [View approval history on contracts](../task/t_ObtainContractApproval.md). Based on the approval decision on the contract, the state and substate of the contract is updated.
+-   Select an **Approver** for the contract and select **Submit for Review**. If the contract's end date is greater than the current date, an approval history record is automatically created to track the status of the approval process. For more information about sending a contract for approval, see [Send the contract for approval](t_SendTheContractForApproval.md).
+-   Access the contract approval history record and take an approval action. For more information about viewing the approval history for a contract, see [View approval history on contracts](t_ObtainContractApproval.md). Based on the approval decision on the contract, the state and substate of the contract is updated.
 
 **Parent Topic:**[Contract Management](c_ContractManagement.md)
 
 **Related topics**  
 
 
-[Use the Asset Contract Overview module](../task/t_UseTheContractMgmtOverviewModule.md)
+[Use the Asset Contract Overview module](t_UseTheContractMgmtOverviewModule.md)
 
-[Components installed with Contract Management](../reference/r_ComponentsInstalledWContractMgmt.md)
+[Components installed with Contract Management](r_ComponentsInstalledWContractMgmt.md)
 
 [Contract Management use](c_UseContractManagement.md)
 
@@ -46,9 +46,9 @@ Submit your contract for approval by selecting an approver in the contract recor
 
 [Domain separation and Contract Management](domain-separation-contract-mgmt.md)
 
-[Send the contract for approval](../task/t_SendTheContractForApproval.md)
+[Send the contract for approval](t_SendTheContractForApproval.md)
 
-[Approve or reject a contract](../task/t_ApproveOrRejectAContract.md)
+[Approve or reject a contract](t_ApproveOrRejectAContract.md)
 
-[View approval history on contracts](../task/t_ObtainContractApproval.md)
+[View approval history on contracts](t_ObtainContractApproval.md)
 

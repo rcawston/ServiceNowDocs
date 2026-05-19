@@ -18,8 +18,8 @@ Reference topics provide more information about guest review form fields and typ
 A description of the fields on the Guest contact form in the ServiceNow Store.
 -   **[Guest review form fields](guest-review-form-fields.md)**  
 A description of the fields on the Guest review form in the ServiceNow Store, as well as which fields are publicly visible after the review is published.
--   **[ServiceNow Store glossary](../concept/store-glossary.md#)**  
+-   **[ServiceNow Store glossary](store-glossary.md#)**  
 Review important terms related to the ServiceNow Store to help determine which listings meet your organization's needs.
 
-**Parent Topic:**[Administering applications](../../../build/applications/reference/administering-applications.md)
+**Parent Topic:**[Administering applications](administering-applications.md)
 

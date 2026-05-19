@@ -17,7 +17,7 @@ Find any data visualization in the Platform Analytics Data Visualizations librar
 
 On Australia instances, you can find both Core UI reports and Platform Analytics experience data visualizations in the Data Visualizations library.
 
-When you edit Core UI dashboards and their content, you do so in the Core UI tools including Report Designer. For more information, see [Reporting, dashboards, and Performance Analytics in the Core UI](../../reporting/concept/classic-vis-overview.md) and [Using reporting](../../reporting/concept/c_GenerateReports.md).
+When you edit Core UI dashboards and their content, you do so in the Core UI tools including Report Designer. For more information, see [Reporting, dashboards, and Performance Analytics in the Core UI](performance-analytics/classic-vis-overview.md) and [Using reporting](reporting/c_GenerateReports.md).
 
 To open the data visualizations library, navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. You can also navigate to this library from other Platform Analytics library pages.
 
@@ -25,7 +25,7 @@ Library pages like this one include a navigation pane that provides access to th
 
 ## Data Visualizations library elements
 
-Access to certain elements in the Data Visualizations library is based on whether the user is associated with specific admin roles. For Data Visualizations, the analytics admin roles include report\_admin, pa\_admin, platform\_analytics\_admin, and admin. The lowest required role is viz\_admin. For users with the lowest role, the application navigator provides a direct access only to the [Dashboards](../../dashboards/concept/find-dashboard-library.md), [Data Visualizations](explore-data-vis-library.md), and [Indicators](your-kpis.md) from the Platform Analytics library. For more information on user roles in Data Visualizations, see [Data visualization roles](../../par-for-workspace/reference/platform-analytics-roles.md#table_c3f_kwc_k2c).
+Access to certain elements in the Data Visualizations library is based on whether the user is associated with specific admin roles. For Data Visualizations, the analytics admin roles include report\_admin, pa\_admin, platform\_analytics\_admin, and admin. The lowest required role is viz\_admin. For users with the lowest role, the application navigator provides a direct access only to the [Dashboards](find-dashboard-library.md), [Data Visualizations](explore-data-vis-library.md), and [Indicators](your-kpis.md) from the Platform Analytics library. For more information on user roles in Data Visualizations, see [Data visualization roles](platform-analytics-roles.md#table_c3f_kwc_k2c).
 
 The following image shows the Data Visualizations library elements that are accessible for users with analytics admin roles.
 
@@ -92,10 +92,10 @@ Option to create data visualizations.
 
 </td><td>
 
-Option for filtering the data visualizations list to display the data based on the following predefined conditions:-   **Bookmarked**: Your bookmarked visualizations. Bookmark any data visualization that you have access to so that you can find it easily. To bookmark a visualization, see [Bookmark a visualization in the Visualization Designer](../../dashboards/task/bookmark-dv-ac.md).
--   **Certified**: Visualizations that an administrator has certified. To certify a data visualization, see [Certify a data visualization in the Visualization Designer](../../dashboards/task/certify-dv-ac.md).
+Option for filtering the data visualizations list to display the data based on the following predefined conditions:-   **Bookmarked**: Your bookmarked visualizations. Bookmark any data visualization that you have access to so that you can find it easily. To bookmark a visualization, see [Bookmark a visualization in the Visualization Designer](bookmark-dv-ac.md).
+-   **Certified**: Visualizations that an administrator has certified. To certify a data visualization, see [Certify a data visualization in the Visualization Designer](certify-dv-ac.md).
 -   **Owned by me**: Visualizations that you own or you created.
--   **Shared with me**: Visualizations that have been shared with you as a user, member of a group, or role. To share a data visualization, see [Share a data visualization in the Visualization Designer](../../reporting/task/share-dv-ac.md#).
+-   **Shared with me**: Visualizations that have been shared with you as a user, member of a group, or role. To share a data visualization, see [Share a data visualization in the Visualization Designer](share-dv-ac.md#).
 
 </td></tr><tr><td>
 
@@ -343,8 +343,8 @@ Application navigator
 
 </td><td>
 
-Provides direct access to the [Dashboards](../../dashboards/concept/find-dashboard-library.md), [Data Visualizations](explore-data-vis-library.md), [Indicators](your-kpis.md), [Filters](../../par-for-workspace/concept/interactive-filters-workspace.md), and [Scheduled exports](../../par-for-workspace/task/schedule-visn-export-vd.md) from the Platform Analytics library and the Usage Insights page.**Note:** Users with non-admin roles can only access Dashboards, Data Visualizations, and Indicators from the Platform Analytics library using the application navigator.
+Provides direct access to the [Dashboards](find-dashboard-library.md), [Data Visualizations](explore-data-vis-library.md), [Indicators](your-kpis.md), [Filters](interactive-filters-workspace.md), and [Scheduled exports](schedule-visn-export-vd.md) from the Platform Analytics library and the Usage Insights page.**Note:** Users with non-admin roles can only access Dashboards, Data Visualizations, and Indicators from the Platform Analytics library using the application navigator.
 
 </td></tr></tbody>
-</table>**Note:** A user with the viz\_admin role or higher might also see a panel with recommendations about problematic data visualizations. For more information, see [Platform Analytics library recommendations](../../par-for-workspace/concept/pa-library-recommendations.md).
+</table>**Note:** A user with the viz\_admin role or higher might also see a panel with recommendations about problematic data visualizations. For more information, see [Platform Analytics library recommendations](pa-library-recommendations.md).
 

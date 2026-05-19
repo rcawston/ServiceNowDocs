@@ -195,7 +195,7 @@ Option to select when the recipients are from more than 2 tables. These are dyna
     All the validation messages given by different providers are retained. Warning messages of one provider isn’t overridden by warning messages of another provider.
 
 
-**Parent Topic:**[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](../concept/messg-direct-whatsapp-using.md)
+**Parent Topic:**[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](messg-direct-whatsapp-using.md)
 
 **Related topics**  
 

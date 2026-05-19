@@ -19,9 +19,9 @@ Inflight change order management enables you to decide when you permit such chan
 
 **Note:** Characteristic, Contact, Quantity, or Price inflight revision types are standard in the ServiceNow AI Platform but you can define additional ones as per the requirements of your enterprise. To learn more, see the "Types of Inflight order changes" section in the [Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md).
 
--   **[Create additional inflight order change types](../task/define-inflight-order-change-types.md)**  
+-   **[Create additional inflight order change types](define-inflight-order-change-types.md)**  
 Define your own enterprise-specific inflight order change types that are used to categorize revisions or requests for cancellations, product orders, service orders, and their related line items.
--   **[Configuring order tasks to respond to inflight revision and cancellation requests](../task/configuring-order-tasks-respond-to-inflight-revision-cancellation-requests.md)**  
+-   **[Configuring order tasks to respond to inflight revision and cancellation requests](configuring-order-tasks-respond-to-inflight-revision-cancellation-requests.md)**  
 Configure your order task records to respond to inflight order changes and cancellation requests using Workflow Studio.
 
 **Parent Topic:**[Configuring Order Management](order-mgt-configuring.md)

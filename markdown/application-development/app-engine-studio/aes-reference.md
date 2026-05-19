@@ -22,5 +22,5 @@ System properties control system behavior. The properties in this section are sp
 -   **[Supported features and metadata in custom templates](supported-features-metadata-custom-templates.md)**  
 Custom templates in App Engine Studio \(AES\) support most features and metadata, including, but not limited to tables, forms, roles, ACLs, record producers, simple workspaces, flows, and actions.
 
-**Parent Topic:**[Build apps using App Engine Studio](../concept/aes-overview.md)
+**Parent Topic:**[Build apps using App Engine Studio](aes-overview.md)
 

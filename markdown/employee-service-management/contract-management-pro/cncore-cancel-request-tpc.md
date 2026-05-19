@@ -44,5 +44,5 @@ You can cancel a contract request when the contract request state is in Draft, N
 -   The contract request State updates to Canceled and the contract status updates to Contract Canceled.
 -   The document signature sent to signatories is canceled to block further signing. The signatories get an email notification that the contract request has been canceled.
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

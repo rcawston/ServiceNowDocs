@@ -46,7 +46,7 @@ The Performance Analytics dashboards available for Hardware Asset Management are
 
 Beginning with the Xanadu release, note the following points about the Core UI Performance Analytics dashboards:
 
--   The Procurement Overview and Asset Contract overview module links are redirected to [Hardware Asset Workspace](../../../product/hardware-asset-management/concept/using-ham-workspace.md).
+-   The Procurement Overview and Asset Contract overview module links are redirected to [Hardware Asset Workspace](using-ham-workspace.md).
 -   The following Next Experience Platform Analytics dashboard versions of the Asset Overview and My Assets Core UI Performance Analytics dashboards are available:
     -   Analytics Overview: You can access this dashboard by navigating to **Asset** &gt; **Analytics Overview**.
     -   My Assets Analytics: You can access this dashboard by navigating to **Self-Service** &gt; **My Assets Analytics**.

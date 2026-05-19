@@ -29,13 +29,13 @@ Using the Enterprise Architecture Workspace, you can perform the following:
 **Related topics**  
 
 
-[View all goals](../../task/eaw-task/eaw-view-all-goals.md)
+[View all goals](eaw-view-all-goals.md)
 
-[Add or edit a goal](../../task/eaw-task/eaw-add-or-edit-a-goal.md)
+[Add or edit a goal](eaw-add-or-edit-a-goal.md)
 
-[Add a quantitative target to a goal](../../task/eaw-task/eaw-add-a-quantitative-target-to-a-goal.md)
+[Add a quantitative target to a goal](eaw-add-a-quantitative-target-to-a-goal.md)
 
-[Add a qualitative target to a goal](../../task/eaw-task/eaw-add-a-qualitative-target-to-a-goal.md)
+[Add a qualitative target to a goal](eaw-add-a-qualitative-target-to-a-goal.md)
 
-[Create a sub-goal](../../task/eaw-task/eaw-create-a-sub-goal.md)
+[Create a sub-goal](eaw-create-a-sub-goal.md)
 

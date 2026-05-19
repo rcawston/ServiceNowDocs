@@ -33,7 +33,7 @@ After the information summary is generated, you can edit and add the information
 -   Activities such as action taken or existing work notes or comments
 -   Affected CIs and impacted services
 
-You can also customize the information summary \(prompt\) from Now Assist for ITSM admin console. For more information, see [Customize a Now Assist for IT Service Management \(ITSM\) skill](../../now-assist-itsm/task/cust-now-assist-itsm-skill.md).
+You can also customize the information summary \(prompt\) from Now Assist for ITSM admin console. For more information, see [Customize a Now Assist for IT Service Management \(ITSM\) skill](../now-assist-for-it-service-management-itsm/cust-now-assist-itsm-skill.md).
 
 ![Incident record summarized as work notes](../image/itsm-ma-summarize-worknote.png)
 
@@ -41,7 +41,7 @@ For more information on Now Assist for mobile, see [Now Assist for Mobile](https
 
 ## Activation of incident record summarization skill
 
-To enable the summarization feature in ITSM Mobile Agent application, you must activate or customize the incident summarization skill from the Now Assist for ITSM admin console. For more information on activating and customizing the incident summarization skill, see [Customize a Now Assist for IT Service Management \(ITSM\) skill](../../now-assist-itsm/task/cust-now-assist-itsm-skill.md).
+To enable the summarization feature in ITSM Mobile Agent application, you must activate or customize the incident summarization skill from the Now Assist for ITSM admin console. For more information on activating and customizing the incident summarization skill, see [Customize a Now Assist for IT Service Management \(ITSM\) skill](../now-assist-for-it-service-management-itsm/cust-now-assist-itsm-skill.md).
 
 If you have already configured the incident summarization skill in the Now Assist for ITSM application console and then installed ITSM Mobile Agent application, you must do the following actions:
 

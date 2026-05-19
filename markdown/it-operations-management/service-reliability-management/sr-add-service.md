@@ -59,7 +59,7 @@ Steps
 </td><td>
 
 1.  Select **Create a new service**.
-2.  Fill in the fields. For field descriptions, see [Add service form](../reference/sr-add-service-form.md).
+2.  Fill in the fields. For field descriptions, see [Add service form](sr-add-service-form.md).
 3.  Select **Next**.
 
 
@@ -97,5 +97,5 @@ Ifan offering doesn't have a support group, assign it to a support group before 
 
 You can also add integrations to your service to start monitoring its health.
 
-**Parent Topic:**[Working with SRM services](../concept/sr-work-services.md)
+**Parent Topic:**[Working with SRM services](sr-work-services.md)
 

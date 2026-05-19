@@ -116,5 +116,5 @@ None.
 
 ### Special considerations
 
-**Note:** For more information about the Data Classification admin role, see [Installing Data Classification plugin demo data](../task/install-data-classification-plugin-demo-data.md#).
+**Note:** For more information about the Data Classification admin role, see [Installing Data Classification plugin demo data](../data-classification/install-data-classification-plugin-demo-data.md#).
 

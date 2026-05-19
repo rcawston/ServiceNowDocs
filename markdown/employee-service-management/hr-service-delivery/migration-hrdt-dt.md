@@ -95,9 +95,9 @@ Participants are not supported.You must directly map user fields in HTML templat
 
 </td><td>
 
-Participants are supported. Participant details are stored in the Participant \[sn\_doc\_participant\] table. You must map participants for signing in HTML body and PDF template mappings.For an HTML template, see [Create participants for an HTML document template](../task/create-participants-html.md).
+Participants are supported. Participant details are stored in the Participant \[sn\_doc\_participant\] table. You must map participants for signing in HTML body and PDF template mappings.For an HTML template, see [Create participants for an HTML document template](create-participants-html.md).
 
-For a PDF template, see [Create participants for a PDF document template](../task/create-participant.md).
+For a PDF template, see [Create participants for a PDF document template](create-participant.md).
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ HTML Template Translation
 
 </td><td>
 
-SupportedSee [Use Localization Framework for Document Templates](../task/doc-lzt-fm.md)
+SupportedSee [Use Localization Framework for Document Templates](doc-lzt-fm.md)
 
 </td></tr><tr><td>
 
@@ -157,9 +157,9 @@ Only one action type is supported: Signing
 
 </td><td>
 
-Different action types are supported \(Fill, Review and Signing\) based on the template type.For an HTML template, see **Action type** in [Create participants for an HTML document template](../task/create-participants-html.md).
+Different action types are supported \(Fill, Review and Signing\) based on the template type.For an HTML template, see **Action type** in [Create participants for an HTML document template](create-participants-html.md).
 
-For a PDF template, see **Action type** in [Create participants for a PDF document template](../task/create-participant.md).
+For a PDF template, see **Action type** in [Create participants for a PDF document template](create-participant.md).
 
 </td></tr><tr><td>
 

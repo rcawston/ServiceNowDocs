@@ -46,7 +46,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\]
 
 9.  If you want to update the tag value of an AI service that you have created, select **Add/update tag values**.
 
-    **Note:** You can't update the tag values for the default cloud categories for managing AI services. To view the default cloud categories for managing AI services within the Machine Learning service category, see [List of default Cloud categories for AI services](../reference/ai-service-provider-list.md).
+    **Note:** You can't update the tag values for the default cloud categories for managing AI services. To view the default cloud categories for managing AI services within the Machine Learning service category, see [List of default Cloud categories for AI services](ai-service-provider-list.md).
 
     1.  Select the **Update** tab.
 
@@ -67,18 +67,18 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\]
 
 ## Result
 
-After a tag name is associated with its corresponding tag value, you can view the spend data of the AI service you added on the Spend analytics page. For more information, see [Spend analytics](../concept/spend-anaytics.md).
+After a tag name is associated with its corresponding tag value, you can view the spend data of the AI service you added on the Spend analytics page. For more information, see [Spend analytics](spend-anaytics.md).
 
 ## What to do next
 
 After you add a tag value for an AI Service tag category, you must reimport the billing data to generate the spend for the added tag.
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
 
 **Related topics**  
 
 
-[Tags and tag categories](../reference/tags-overview.md)
+[Tags and tag categories](tags-overview.md)
 
 [Create and update a tag category](tag-category-crud-cloudin.md)
 

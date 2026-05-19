@@ -93,5 +93,5 @@ These relationships are created to support Cisco firewall discovery.
 |Router Interface \[dscy\_router\_interface\]|References|Cisco Firewall Device \[cmdb\_ci\_firewall\_device\_cisco\]|
 |Serial Number \[cmdb\_serial\_number\]|References|Cisco Firewall Device \[cmdb\_ci\_firewall\_device\_cisco\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

@@ -20,5 +20,5 @@ Personal portfolios contain data from services, offerings, business applications
 -   **[Enterprise portfolios](dpm-enterprise-portfolios.md)**  
 Admins create enterprise portfolios for business applications and service instances using the enterprise portfolio tables. Enterprise portfolios are structured in a nesting tree format to navigate service-related items and taxonomy nodes.
 
-**Parent Topic:**[Digital Portfolio Management](../reference/dpm-landing.md)
+**Parent Topic:**[Digital Portfolio Management](dpm-landing.md)
 

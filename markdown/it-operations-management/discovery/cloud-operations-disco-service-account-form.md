@@ -138,7 +138,7 @@ Pull Events
 
 </td><td>
 
-Option to enable the ServiceNow AI Platform to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](../../it-operations-management/concept/azure-change-processing.md). If you select the Pull Events check-box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
+Option to enable the ServiceNow AI Platform to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](azure-change-processing.md). If you select the Pull Events check-box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
 
 </td></tr></tbody>
 </table><table id="table_sfg_t55_fwb"><thead><tr><th>

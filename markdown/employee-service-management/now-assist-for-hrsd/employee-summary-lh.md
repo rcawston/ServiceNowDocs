@@ -51,38 +51,38 @@ The Employee summary report is available to review. You can enter follow-up ques
 
 ![Employee Summary report](../../human-resources/image/emp-sum-4.png)
 
-**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](../../human-resources/concept/use-now-assist-hr.md)
+**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](use-now-assist-hr.md)
 
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)](../../human-resources/task/now-assist-hrsd-chat.md)
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)](now-assist-hrsd-chat.md)
 
-[Summarize a Sidebar discussion by using Now Assist for HRSD](../../human-resources/task/sidebar-discussion-nahr.md)
+[Summarize a Sidebar discussion by using Now Assist for HRSD](sidebar-discussion-nahr.md)
 
-[Generate a chat reply recommendation by using Now Assist for HRSD](../../human-resources/task/chat-recommendations-nahr.md)
+[Generate a chat reply recommendation by using Now Assist for HRSD](chat-recommendations-nahr.md)
 
-[Generate a knowledge article from HR Agent Workspace with Now Assist for HRSD](../../human-resources/task/gen-kb-now-assisthr.md)
+[Generate a knowledge article from HR Agent Workspace with Now Assist for HRSD](gen-kb-now-assisthr.md)
 
-[Generate a knowledge article from multiple cases](../../human-resources/task/gen-kb-now-assisthr-multi-case.md)
+[Generate a knowledge article from multiple cases](gen-kb-now-assisthr-multi-case.md)
 
-[Generate an email reply recommendation using Now Assist for HRSD](../../human-resources/task/email-recommendation-nahr.md)
+[Generate an email reply recommendation using Now Assist for HRSD](email-recommendation-nahr.md)
 
-[Summarize an HR case using Now Assist for HRSD](../../human-resources/task/now-assist-hrsd-summarize-case.md)
+[Summarize an HR case using Now Assist for HRSD](now-assist-hrsd-summarize-case.md)
 
-[Generate resolution notes using Now Assist for HRSD](../../human-resources/task/now-assist-hrsd-res-note.md)
+[Generate resolution notes using Now Assist for HRSD](now-assist-hrsd-res-note.md)
 
-[Summarize actions while transferring an HR case](../../human-resources/task/tcase-now-assist-hr.md)
+[Summarize actions while transferring an HR case](tcase-now-assist-hr.md)
 
-[Use Knowledge Graph in Now Assist for HRSD](../../human-resources/task/na-kb-graph.md)
+[Use Knowledge Graph in Now Assist for HRSD](na-kb-graph.md)
 
-[Use Now Assist for HR - Galileo Inside to answer HR-related questions](../../human-resources/task/use-galileo-inside.md)
+[Use Now Assist for HR - Galileo Inside to answer HR-related questions](use-galileo-inside.md)
 
-[Use the Now Assist panel in HR Agent Workspace](../../human-resources/task/now-assist-panel-hr.md)
+[Use the Now Assist panel in HR Agent Workspace](now-assist-panel-hr.md)
 
-[Submit an HR request with Gen AI Virtual Agent](../../human-resources/task/use-genai-hrsd.md)
+[Submit an HR request with Gen AI Virtual Agent](use-genai-hrsd.md)
 
-[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](../../human-resources/concept/integ-now-assist-hrsd.md)
+[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](integ-now-assist-hrsd.md)
 
-[Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](../../human-resources/task/analyze-sentiments-now-assist.md)
+[Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](analyze-sentiments-now-assist.md)
 

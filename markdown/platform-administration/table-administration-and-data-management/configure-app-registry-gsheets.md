@@ -138,5 +138,5 @@ URL that is provided by the OAuth authorization server that enables a client app
 10. Select **Update**.
 
 
-**Parent Topic:**[Exporting your table records to Google Sheets](../concept/setup-gsheet-export.md)
+**Parent Topic:**[Exporting your table records to Google Sheets](setup-gsheet-export.md)
 

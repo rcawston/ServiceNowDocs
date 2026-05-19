@@ -20,11 +20,11 @@ Generate a summary of a new regulatory alert for a quick analysis of the alert u
 
 Role required: sn\_grc\_reg\_change.user and sn\_grc\_comp\_genai.reg\_change\_ai\_user
 
-For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](../../grc-rcm/reference/user_roles_and_actions.md).
+For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](../regulatory-change-management-service-portal/user_roles_and_actions.md).
 
 ## About this task
 
-Install the Now Assist for IRM application to generate regulatory alert summaries. For more information, see [Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/concept/now-assist-for-irm.md).
+Install the Now Assist for IRM application to generate regulatory alert summaries. For more information, see [Now Assist for Integrated Risk Management \(IRM\)](now-assist-for-irm.md).
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-on-by-default.md).
 

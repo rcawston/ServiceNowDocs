@@ -266,7 +266,7 @@ Entitlement associated with this case. The entitlements available for selection 
 
 Starting with the Zurich release, agents can add multiple entitlements to a case. If the **sn\_customerservice.advanced\_entitlements** system property is set to true, the Case Entitlements related list is visible on the Case form and the **Entitlement** field is hidden. For more information, see the following topics:
 
--   [Add an entitlement to a case](../task/add-entitlement-to-case.md)
+-   [Add an entitlement to a case](add-entitlement-to-case.md)
 -   [Properties installed with Customer Service Management](r_PropInstallWcustServ.md)
 
 </td></tr><tr><td>

@@ -31,10 +31,10 @@ For more information on support levels, see [Application support for domain sepa
 -   Create a user with the required sn\_dlir.admin and sn\_dlir.analyst roles in the respective domain.
 -   Perform the DLP Incident Response configurations in the appropriate domain.
 
-**Parent Topic:**[Installing and configuring DLP IR Incident Response](../concept/install-dlp.md)
+**Parent Topic:**[Installing and configuring DLP IR Incident Response](install-dlp.md)
 
 **Related topics**  
 
 
-[Install and configure the DLP Incident Response application](../task/install-data-loss-prevention.md)
+[Install and configure the DLP Incident Response application](install-data-loss-prevention.md)
 

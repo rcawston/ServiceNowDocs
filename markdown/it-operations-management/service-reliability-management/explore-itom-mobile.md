@@ -21,7 +21,7 @@ Use ITOM Mobile Agent to access Service Reliability Management \(SRM\) features 
 
 To help you manage service reliability in one place, ITOM Mobile Agent auto-integrates with existing ServiceNow mobile apps. It runs in the ServiceNow Agent app and automatically includes ITSM Mobile Agent features. With that setup, you can manage alerts, incidents, on-call schedules, and tasks in one mobile app.
 
-**Note:** If you already use ITSM Mobile Agent for incidents, on-call schedules, and tasks, install ITOM Mobile Agent to add alerts to your mobile experience. With ITOM Mobile Agent, you get and configure alert notifications and view alerts in the My work, My team, and Notifications tabs. See [Install ITOM Mobile Agent](../task/install-itom-mobile.md) for installation instructions.
+**Note:** If you already use ITSM Mobile Agent for incidents, on-call schedules, and tasks, install ITOM Mobile Agent to add alerts to your mobile experience. With ITOM Mobile Agent, you get and configure alert notifications and view alerts in the My work, My team, and Notifications tabs. See [Install ITOM Mobile Agent](install-itom-mobile.md) for installation instructions.
 
 ## ITOM Mobile Agent users
 
@@ -70,5 +70,5 @@ To learn more about configuring and using ITOM Mobile Agent, see:
 
 -   [Configure ITOM Mobile Agent](configure-itom-mobile.md)
 -   [Use ITOM Mobile](use-itom-mobile.md)
--   [ITOM Mobile Agent reference](../reference/itom-mobile-settings.md)
+-   [ITOM Mobile Agent reference](itom-mobile-settings.md)
 

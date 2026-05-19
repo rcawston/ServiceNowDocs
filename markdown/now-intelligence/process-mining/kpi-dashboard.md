@@ -19,8 +19,8 @@ When a dashboard is configured for your business process and user needs, you can
 
 You can configure KPI dashboards from two places:
 
--   From the project configuration: The KPI dashboards configured for your project are available only for the particular project. For more information, see [Set objectives for Process Mining projects](../task/set-objectives.md).
--   From the process configuration: The KPI dashboards configured for a process table are available for all projects based on that table, by default. For more information, see [Configure impact metrics](../task/impact-metrics.md).
+-   From the project configuration: The KPI dashboards configured for your project are available only for the particular project. For more information, see [Set objectives for Process Mining projects](set-objectives.md).
+-   From the process configuration: The KPI dashboards configured for a process table are available for all projects based on that table, by default. For more information, see [Configure impact metrics](impact-metrics.md).
 
 **Note:** If you have configured a KPI dashboard from the project configuration, then that will take precedence over the one configured in the process configuration.
 

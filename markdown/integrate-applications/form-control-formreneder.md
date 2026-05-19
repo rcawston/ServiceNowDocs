@@ -98,5 +98,5 @@ The methods and events of the Form Renderer element are displayed in the Object 
 **Related topics**  
 
 
-[Configure the form fields for the Form Renderer element](../task/configure-form-fields.md)
+[Configure the form fields for the Form Renderer element](configure-form-fields.md)
 

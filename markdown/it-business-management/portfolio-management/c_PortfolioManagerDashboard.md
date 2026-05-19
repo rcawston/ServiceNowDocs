@@ -15,9 +15,9 @@ breadcrumb: [Portfolio Management, Project Portfolio Management, Strategic Portf
 
 Portfolio Dashboard provides a central location to a portfolio manager to generate different graphical reports of the portfolios.
 
-From Madrid release onward, the portfolio manager dashboard has been deprecated and replaced with the PMO dashboard. Use the PMO dashboard to gain insights about your portfolios. For more information, see [PMO Dashboard](../../../use/dashboards/application-content-packs/pmo-dashboard.md).
+From Madrid release onward, the portfolio manager dashboard has been deprecated and replaced with the PMO dashboard. Use the PMO dashboard to gain insights about your portfolios. For more information, see [PMO Dashboard](../ppm-collaboration/pmo-dashboard.md).
 
--   **[Access the Portfolio Dashboard](../task/t_AccessThePortfolioManagerDashboard.md)**  
+-   **[Access the Portfolio Dashboard](t_AccessThePortfolioManagerDashboard.md)**  
 View different graphical reports on the PMO Dashboard.
 
 **Parent Topic:**[Portfolio Management](c_PortfolioManagement.md)
@@ -25,9 +25,9 @@ View different graphical reports on the PMO Dashboard.
 **Related topics**  
 
 
-[Create a portfolio](../task/t_CreateAPortfolio.md)
+[Create a portfolio](t_CreateAPortfolio.md)
 
-[Open a portfolio status list](../task/t_OpenThePortfolioStatusList.md)
+[Open a portfolio status list](t_OpenThePortfolioStatusList.md)
 
-[Scenario Planning for PPM](../../itbm-portfolio-planning/concept/portfolio-planning-overview.md)
+[Scenario Planning for PPM](portfolio-planning-overview.md)
 

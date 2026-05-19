@@ -36,10 +36,10 @@ Role required: agent\_client\_collector\_admin
     ![acc.yml configuration file as an attachment](../image/acc-yml-attachment.png)
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 
 **Related topics**  
 
 
-[Configuration file options](../reference/acc-yml-options.md)
+[Configuration file options](acc-yml-options.md)
 

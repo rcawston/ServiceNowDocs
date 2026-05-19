@@ -21,7 +21,7 @@ Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servi
 
 -   **Ensure the configuration of Azure credentials**
 
-    For more information, see [Create Azure cloud credentials](../../discovery/task/create-azure-cloud-credentials.md) and [Configuration steps for Azure Service Principal User and Credentials \(KB2202765\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2202765)
+    For more information, see [Create Azure cloud credentials](discovery/create-azure-cloud-credentials.md) and [Configuration steps for Azure Service Principal User and Credentials \(KB2202765\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2202765)
 
 -   **Ensure that you are familiar with the hierarchy of the Azure service accounts in your environment.**
 
@@ -46,7 +46,7 @@ A service account is a secure record on your instance that stores the credential
 
     1.  Select the datacenter.
     2.  Select the check box of the **Is management account** if your are creating a service account for a management group.
-    3.  Select **Should pull events** to preform event-based discovery. For more information, see [Microsoft Azure Alert driven discovery](../concept/microsoft-azure-alert-driven-discovery.md#)
+    3.  Select **Should pull events** to preform event-based discovery. For more information, see [Microsoft Azure Alert driven discovery](discovery/microsoft-azure-alert-driven-discovery.md#)
 <table id="table-azure-service-acct-form"><thead><tr><th>
 
 Field
@@ -127,10 +127,10 @@ Not applicable for Azure service accounts.
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Set up a cloud service account](../concept/setup-cloud-service-account.md)
+**Parent Topic:**[Set up a cloud service account](setup-cloud-service-account.md)
 
 **Related topics**  
 
 
-[Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md)
+[Discovery for Microsoft Azure](discovery/azure-cloud-discovery.md)
 

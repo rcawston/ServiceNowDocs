@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Configure Channel Partner table](../task/configure-channel-partner-table.md)
+[Configure Channel Partner table](configure-channel-partner-table.md)
 
 </td><td>
 
@@ -42,7 +42,7 @@ Manage information related to channel partners.
 
 </td></tr><tr><td>
 
-[Configure Partner Program table](../task/configure-partner-program-table.md)
+[Configure Partner Program table](configure-partner-program-table.md)
 
 </td><td>
 
@@ -55,7 +55,7 @@ Enable channel partners to participate in structured programs to build customer 
 
 </td></tr><tr><td>
 
-[Configure Partner Program Relationship table](../task/configure-partner-program-relationship-table.md)
+[Configure Partner Program Relationship table](configure-partner-program-relationship-table.md)
 
 </td><td>
 
@@ -67,17 +67,17 @@ Enable channel partners to participate in structured programs to build customer 
 Establish a relationship between channel partners and partner programs.
 
 </td></tr></tbody>
-</table>-   **[Configure Channel Partner table](../task/configure-channel-partner-table.md)**  
+</table>-   **[Configure Channel Partner table](configure-channel-partner-table.md)**  
 With the Partner Relationship Management application, you can use the channel partner \[sn\_prm\_channel\_partner\] table to manage and store information related to channel partners.
--   **[Configure Partner Program table](../task/configure-partner-program-table.md)**  
+-   **[Configure Partner Program table](configure-partner-program-table.md)**  
 With the Partner Relationship Management application, enable channel partners to participate in structured initiatives designed to drive revenue, enhance market reach, and build customer relationships by using the Partner Program \[sn\_prm\_partner\_program\] table.
--   **[Configure Partner Program Relationship table](../task/configure-partner-program-relationship-table.md)**  
+-   **[Configure Partner Program Relationship table](configure-partner-program-relationship-table.md)**  
 With the Partner Relationship Management application, you can establish a relationship between channel partners and partner programs.
--   **[Configure Program Segment Mapping](../task/configure-program-segment-mapping.md)**  
+-   **[Configure Program Segment Mapping](configure-program-segment-mapping.md)**  
 Establish a mapping between a program and a segment on the program segment mapping \(sn\_prm\_program\_segment\_mapping\) table to determine which segment belongs to which partner program.
--   **[Configure Program Segment Criteria](../task/configure-program-segment-criteria.md)**  
+-   **[Configure Program Segment Criteria](configure-program-segment-criteria.md)**  
 Create records in the program segment criteria \(sn\_prm\_program\_segment\_criteria\) table based on different records on the entity criteria \(sn\_req\_criteria\_customer\_condition\) table and segments.
--   **[Configure Program Criteria](../task/configure-program-criteria.md)**  
+-   **[Configure Program Criteria](configure-program-criteria.md)**  
 Establish a mapping between the partner program \(sn\_prm\_partner\_program\_relationship\) table and the entity criteria \(sn\_req\_criteria\_customer\_condition\) table.
 
 **Parent Topic:**[Configure Partner Relationship Management](configure-partner-relationship-management.md)
@@ -85,7 +85,7 @@ Establish a mapping between the partner program \(sn\_prm\_partner\_program\_rel
 **Related topics**  
 
 
-[Install Partner Relationship Management](../task/install-partner-relationship-management.md)
+[Install Partner Relationship Management](install-partner-relationship-management.md)
 
 [Roles and components of Partner Relationship Management](roles-and-components-of-partner-relationship-management.md)
 

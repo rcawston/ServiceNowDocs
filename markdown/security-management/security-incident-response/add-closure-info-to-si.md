@@ -38,7 +38,7 @@ Role required: sn\_si.basic
 4.  Select any of the following tabs to further update the security incident:
 
     -   [Incident Details](add_inc_details_to_si.md)
-    -   [Post Incident Review](../concept/c_PostIncidentReview.md)
+    -   [Post Incident Review](c_PostIncidentReview.md)
 5.  Select **Submit**.
 
 

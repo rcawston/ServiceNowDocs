@@ -27,11 +27,11 @@ The metrics are grouped by the following entity types:
 
 For example, say you have metrics from New Relic used to monitor services, databases, and hosts. Say that you also have an issue with the `checkout` service and want to view performance information and metrics related to that service. Service Observability can show you the service, database, and host metrics related to that service that are coming from New Relic, along with related CI information from the ServiceNow platform. Each entity type has its own dashboard and each metric and related CI information has its own chart.
 
-**Note:** Operators can also use the [Analyze a dashboard in Service Observability](../../now-assist-itom/concept/analyze-a-dashboard-in-service-observability.md) and the [Analyze service health in Service Observability](../../now-assist-itom/concept/analyze-service-health-in-service-observability.md) Now Assist AI skills to generate an analysis for them.
+**Note:** Operators can also use the [Analyze a dashboard in Service Observability](../now-assist-for-it-operations-management/analyze-a-dashboard-in-service-observability.md) and the [Analyze service health in Service Observability](../now-assist-for-it-operations-management/analyze-service-health-in-service-observability.md) Now Assist AI skills to generate an analysis for them.
 
 ## Before you begin
 
--   For version 1.5.0, a service must be activated. For more information, see [Activate teams and services](../concept/activate-teams-and-services.md).
+-   For version 1.5.0, a service must be activated. For more information, see [Activate teams and services](activate-teams-and-services.md).
 -   A data mapping must be configured. For more information, see [Create and manage data mappings](create-and-manage-observability-data-mappings.md).
 
 Role required: operator \[snc\_sow\_svcobs.manager\]
@@ -48,7 +48,7 @@ Role required: operator \[snc\_sow\_svcobs.manager\]
     -   **Express list** alert: Select a service from the **Impacted services** column.
     The Service Details page opens and the Overview tab is displayed.
 
-    If charts are displaying error messages, see [Chart error states](../reference/chart-error-states.md).
+    If charts are displaying error messages, see [Chart error states](chart-error-states.md).
 
 2.  Select the **Observability** tab.
 
@@ -67,6 +67,6 @@ Role required: operator \[snc\_sow\_svcobs.manager\]
     -   Display metrics from a different time period using the time picker. The default time period is the last hour.
     -   Refresh the charts to the current time period of the last hour by selecting the **Refresh** button.
     -   Hover over a point to view detailed information.
-    For detailed information about using this page, refer to the corresponding Observability templates for your observability vendor described in [Service Observability templates](../reference/observability-templates.md).
+    For detailed information about using this page, refer to the corresponding Observability templates for your observability vendor described in [Service Observability templates](observability-templates.md).
 
 

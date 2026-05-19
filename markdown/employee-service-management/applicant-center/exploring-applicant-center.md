@@ -29,16 +29,16 @@ The Applicant Center application provides a streamlined experience for applicant
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Access the Applicant Center, as an applicant, after you have submitted an application for an open job application.|[Access the Applicant Center](../task/view-applicant-center.md)|Applicant|
+|Access the Applicant Center, as an applicant, after you have submitted an application for an open job application.|[Access the Applicant Center](view-applicant-center.md)|Applicant|
 |See the status of your applications, explore company content, and reach out to the hiring team, if the feature is enabled for you.|[Applicant Center home page](applicant-portal-home-page.md)|Applicant|
 |View the hiring team, job description, location, and so on.|[View a job application](view-a-job-application.md)|Applicant|
-| |[Share scheduling preferences](../task/share-availability-applicant-ac.md)|Applicant|
-|Select a convenient time slot once an interview is proposed.|[Select an interview slot](../task/select-interview-slot-applicant.md)|Applicant|
-|Request to reschedule an interview.|[Request to reschedule interview](../task/request-to-reschedule-interview-applicant.md)|Applicant|
-|Request the recruiter to share additional interview time slots if you're unavailable or the proposed slots have been booked.|[Request time slots](../task/request-time-slots-ac.md)|Applicant|
+| |[Share scheduling preferences](share-availability-applicant-ac.md)|Applicant|
+|Select a convenient time slot once an interview is proposed.|[Select an interview slot](select-interview-slot-applicant.md)|Applicant|
+|Request to reschedule an interview.|[Request to reschedule interview](request-to-reschedule-interview-applicant.md)|Applicant|
+|Request the recruiter to share additional interview time slots if you're unavailable or the proposed slots have been booked.|[Request time slots](request-time-slots-ac.md)|Applicant|
 |View and manage tasks assigned to you in Applicant Center.|[Tasks in Applicant Center](applicant-tasks-applicnts.md)|Applicant|
 |Provide feedback about your hiring experience.|[Applicant survey](applicant-feedback.md)|Applicant|
-|Enable keyboard accessibility for your profile to navigate through the Applicant Center portal using keyboard tabs.|[Set accessibility preference](../task/set-accessibility-preference.md)|Applicant|
+|Enable keyboard accessibility for your profile to navigate through the Applicant Center portal using keyboard tabs.|[Set accessibility preference](set-accessibility-preference.md)|Applicant|
 |Applicants receive email notifications when tasks are assigned to them by the recruiters.|[Task email notifications for applicants](email-notice-task-applcnt.md)|Applicant|
 
 ## What to explore next

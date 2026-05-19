@@ -52,5 +52,5 @@ Easily create safety incident records. Assign the new incident records to yourse
     -   [Create or modify the people involved for a safety incident on the Mobile Agent app](hs-create-modify-peope-involved-incident-mobile-agent.md)
     -   [Create or modify injury and illness record of a safety incident on the Mobile Agent app](hs-create-modify-injury-illness-incidents-mobile-agent.md)
 
-**Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](../concept/hs-manage-safety-incident-mobile-agent.md)
+**Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](hs-manage-safety-incident-mobile-agent.md)
 
